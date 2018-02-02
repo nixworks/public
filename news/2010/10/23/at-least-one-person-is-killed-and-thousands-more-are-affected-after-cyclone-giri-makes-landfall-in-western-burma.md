@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/23/at-least-one-person-is-killed-and-thousands-more-are-affected-after-cyclone-giri-makes-landfall-in-western-burma.html)  [JSON](/news/2010/10/23/at-least-one-person-is-killed-and-thousands-more-are-affected-after-cyclone-giri-makes-landfall-in-western-burma.json)  [XML](/news/2010/10/23/at-least-one-person-is-killed-and-thousands-more-are-affected-after-cyclone-giri-makes-landfall-in-western-burma.xml)  
+
 ### [2010-10-23](/news/2010/10/23/index.md)
 
+##### Cyclone Giri
 # At least one person is killed and thousands more are affected after Cyclone Giri makes landfall in western Burma. 
 
 Cyclone makes landfall on western coast, flattening homes, cutting off power and affecting thousands.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/20101023153625483381.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/23/20101023163316374876_20.jpg)

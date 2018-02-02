@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/6/nasa-investigators-cracked-a-reinforced-carbon-fiber-wing-by-shooting-it-with-a-piece-of-insulation-providing-more-evidence-that-falling-i.html)  [JSON](/news/2003/06/6/nasa-investigators-cracked-a-reinforced-carbon-fiber-wing-by-shooting-it-with-a-piece-of-insulation-providing-more-evidence-that-falling-i.json)  [XML](/news/2003/06/6/nasa-investigators-cracked-a-reinforced-carbon-fiber-wing-by-shooting-it-with-a-piece-of-insulation-providing-more-evidence-that-falling-i.xml)  
+
 ### [2003-06-6](/news/2003/06/6/index.md)
 
+##### NASA
 #  NASA investigators cracked a reinforced carbon fiber wing by shooting it with a piece of insulation, providing more evidence that falling insulation may have caused the Space Shuttle Columbia disaster.
 
 

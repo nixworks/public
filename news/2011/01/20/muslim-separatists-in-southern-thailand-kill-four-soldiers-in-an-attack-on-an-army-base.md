@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/20/muslim-separatists-in-southern-thailand-kill-four-soldiers-in-an-attack-on-an-army-base.html)  [JSON](/news/2011/01/20/muslim-separatists-in-southern-thailand-kill-four-soldiers-in-an-attack-on-an-army-base.json)  [XML](/news/2011/01/20/muslim-separatists-in-southern-thailand-kill-four-soldiers-in-an-attack-on-an-army-base.xml)  
+
 ### [2011-01-20](/news/2011/01/20/index.md)
 
+##### Muslim
 # Muslim separatists in southern Thailand kill four soldiers in an attack on an army base. 
 
 Separatist rebels in southern Thailand kill four soldiers in an &quot;unusually well-organised&quot; attack on an army base.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12238656)
 2. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/158177.html)

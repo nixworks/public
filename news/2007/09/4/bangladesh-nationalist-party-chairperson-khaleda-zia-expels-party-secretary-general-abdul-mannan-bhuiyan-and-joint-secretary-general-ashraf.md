@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/09/4/bangladesh-nationalist-party-chairperson-khaleda-zia-expels-party-secretary-general-abdul-mannan-bhuiyan-and-joint-secretary-general-ashraf.html)  [JSON](/news/2007/09/4/bangladesh-nationalist-party-chairperson-khaleda-zia-expels-party-secretary-general-abdul-mannan-bhuiyan-and-joint-secretary-general-ashraf.json)  [XML](/news/2007/09/4/bangladesh-nationalist-party-chairperson-khaleda-zia-expels-party-secretary-general-abdul-mannan-bhuiyan-and-joint-secretary-general-ashraf.xml)  
+
 ### [2007-09-4](/news/2007/09/4/index.md)
 
+##### Bangladesh Nationalist Party
 #  Bangladesh Nationalist Party Chairperson Khaleda Zia expels party Secretary General Abdul Mannan Bhuiyan and Joint Secretary General Ashraf Hossain accusing breaching party discipline. 
 
 

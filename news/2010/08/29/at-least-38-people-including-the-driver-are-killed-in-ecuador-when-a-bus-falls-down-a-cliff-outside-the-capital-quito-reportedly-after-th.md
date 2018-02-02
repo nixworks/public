@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/29/at-least-38-people-including-the-driver-are-killed-in-ecuador-when-a-bus-falls-down-a-cliff-outside-the-capital-quito-reportedly-after-th.html)  [JSON](/news/2010/08/29/at-least-38-people-including-the-driver-are-killed-in-ecuador-when-a-bus-falls-down-a-cliff-outside-the-capital-quito-reportedly-after-th.json)  [XML](/news/2010/08/29/at-least-38-people-including-the-driver-are-killed-in-ecuador-when-a-bus-falls-down-a-cliff-outside-the-capital-quito-reportedly-after-th.xml)  
+
 ### [2010-08-29](/news/2010/08/29/index.md)
 
+##### Ecuador
 # At least 38 people, including the driver, are killed in Ecuador when a bus falls down a cliff outside the capital Quito, reportedly after the driver fell asleep. 
 
 Sky News Australia has the top stories in news online from Australia and the rest of the World.
 
 
-### Source:
+### Sources:
 
 1. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE67S29I20100829)
 2. [Sky News Australia](http://www.skynews.com.au/topstories/article.aspx?id=506830&articleID=)

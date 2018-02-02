@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/10/a-group-of-200-aids-doctors-in-the-united-states-calls-for-a-boycott-of-pharmaceutical-company-abbott-laboratories-to-protest-the-company-s.html)  [JSON](/news/2004/02/10/a-group-of-200-aids-doctors-in-the-united-states-calls-for-a-boycott-of-pharmaceutical-company-abbott-laboratories-to-protest-the-company-s.json)  [XML](/news/2004/02/10/a-group-of-200-aids-doctors-in-the-united-states-calls-for-a-boycott-of-pharmaceutical-company-abbott-laboratories-to-protest-the-company-s.xml)  
+
 ### [2004-02-10](/news/2004/02/10/index.md)
 
+##### AIDS
 #  A group of 200 AIDS doctors in the United States calls for a boycott of pharmaceutical company Abbott Laboratories to protest the company's recent 401% price hike on its anti-HIV drug Norvir.
 
 

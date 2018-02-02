@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/7/kobe-bryant-breaks-nba-record-for-most-3-point-field-goals-in-a-single-game.html)  [JSON](/news/2003/01/7/kobe-bryant-breaks-nba-record-for-most-3-point-field-goals-in-a-single-game.json)  [XML](/news/2003/01/7/kobe-bryant-breaks-nba-record-for-most-3-point-field-goals-in-a-single-game.xml)  
+
 ### [2003-01-7](/news/2003/01/7/index.md)
 
+##### Kobe Bryant
 #  Kobe Bryant breaks NBA record for most 3-point field goals in a single game.
 
 

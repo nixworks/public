@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/14/operation-paget-the-inquiry-into-the-death-in-1997-of-diana-princess-of-wales-headed-by-lord-stevens-a-former-chief-of-london-s-metropol.html)  [JSON](/news/2006/12/14/operation-paget-the-inquiry-into-the-death-in-1997-of-diana-princess-of-wales-headed-by-lord-stevens-a-former-chief-of-london-s-metropol.json)  [XML](/news/2006/12/14/operation-paget-the-inquiry-into-the-death-in-1997-of-diana-princess-of-wales-headed-by-lord-stevens-a-former-chief-of-london-s-metropol.xml)  
+
 ### [2006-12-14](/news/2006/12/14/index.md)
 
+##### Operation Paget
 #  Operation Paget, the inquiry into the death in 1997 of Diana, Princess of Wales headed by Lord Stevens, a former chief of London's Metropolitan Police, concludes that there were no suspicious circumstances and that the fatal car crash in which she died was a 'tragic accident'. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/6179275.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/8/spanish-actress-and-singer-sara-montiel-dies-in-her-madrid-residence-at-the-age-of-85.html)  [JSON](/news/2013/04/8/spanish-actress-and-singer-sara-montiel-dies-in-her-madrid-residence-at-the-age-of-85.json)  [XML](/news/2013/04/8/spanish-actress-and-singer-sara-montiel-dies-in-her-madrid-residence-at-the-age-of-85.xml)  
+
 ### [2013-04-8](/news/2013/04/8/index.md)
 
+##### Spain
 # Spanish actress and singer Sara Montiel dies in her Madrid residence at the age of 85. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''New York Daily News](http://www.nydailynews.com/entertainment/tv-movies/sara-montiel-spanish-film-legend-dies-85-article-1.1311034)
 

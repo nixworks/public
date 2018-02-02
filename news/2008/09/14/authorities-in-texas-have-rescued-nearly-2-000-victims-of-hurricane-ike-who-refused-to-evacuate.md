@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2008/09/14/authorities-in-texas-have-rescued-nearly-2-000-victims-of-hurricane-ike-who-refused-to-evacuate.html)  [JSON](/news/2008/09/14/authorities-in-texas-have-rescued-nearly-2-000-victims-of-hurricane-ike-who-refused-to-evacuate.json)  [XML](/news/2008/09/14/authorities-in-texas-have-rescued-nearly-2-000-victims-of-hurricane-ike-who-refused-to-evacuate.xml)  
+
 ### [2008-09-14](/news/2008/09/14/index.md)
 
+##### Hurricane Ike
 #  Authorities in Texas have rescued nearly 2,000 victims of Hurricane Ike who refused to evacuate. 
 
 Thousands of people who refused orders to evacuate were feared stranded in flattened homes or inundated towns across a wide swath of Texas.
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5jG1m4XT341oCKXPMIZlKffdhP9vwD936LNM80)
-2. [The New York Times](http://www.nytimes.com/2008/09/15/us/15ike.html)
+2. [The New York Times](https://www.nytimes.com/2008/09/15/us/15ike.html)
 2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+
+### Changes:
+
+1. [ Hurricane Ike: Authorities in Texas have rescued nearly 2,000 victims of Hurricane Ike who refused to evacuate. ](/news/2008/09/14/hurricane-ike-authorities-in-texas-have-rescued-nearly-2-000-victims-of-hurricane-ike-who-refused-to-evacuate.md) _2017-08-27 03:22:46 (First version)_
+1. [ Authorities in Texas have rescued nearly 2,000 victims of Hurricane Ike who refused to evacuate. ](/news/2008/09/14/authorities-in-texas-have-rescued-nearly-2-000-victims-of-hurricane-ike-who-refused-to-evacuate.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ Thousands of people who refused orders to evacuate were feared stranded in flatt
 3. [The death toll from Hurricane Harvey in the American city of Houston, Texas, rises to three with several more days of heavy rain causing "catastrophic" floods to come. ](/news/2017/08/27/the-death-toll-from-hurricane-harvey-in-the-american-city-of-houston-texas-rises-to-three-with-several-more-days-of-heavy-rain-causing-ca.md) _Context: Texas_
 4. [Tropical depression Harvey becomes a hurricane, expected to make landfall on the Texas coast at Category 3, bringing life-threatening storm surge, rainfall, and wind hazards. ](/news/2017/08/24/tropical-depression-harvey-becomes-a-hurricane-expected-to-make-landfall-on-the-texas-coast-at-category-3-bringing-life-threatening-storm.md) _Context: Texas_
 5. [Berkshire Hathaway Inc. agrees to pay USD $9 billion to buy the parent of Texas power transmission company Oncor Electric Delivery. ](/news/2017/07/7/berkshire-hathaway-inc-agrees-to-pay-usd-9-billion-to-buy-the-parent-of-texas-power-transmission-company-oncor-electric-delivery.md) _Context: Texas_
-
-### Changes:
-
-1. [ Hurricane Ike: Authorities in Texas have rescued nearly 2,000 victims of Hurricane Ike who refused to evacuate. ](/news/2008/09/14/hurricane-ike-authorities-in-texas-have-rescued-nearly-2-000-victims-of-hurricane-ike-who-refused-to-evacuate.md) _2017-08-27 03:22:46 (First version)_
-1. [ Authorities in Texas have rescued nearly 2,000 victims of Hurricane Ike who refused to evacuate. ](/news/2008/09/14/authorities-in-texas-have-rescued-nearly-2-000-victims-of-hurricane-ike-who-refused-to-evacuate.md) _(Current version)_

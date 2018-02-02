@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/19/prosecutors-in-the-u-s-state-of-pennsylvania-charge-a-philadelphia-illegal-abortionist-with-eight-counts-of-murder-for-killing-a-patient-an.html)  [JSON](/news/2011/01/19/prosecutors-in-the-u-s-state-of-pennsylvania-charge-a-philadelphia-illegal-abortionist-with-eight-counts-of-murder-for-killing-a-patient-an.json)  [XML](/news/2011/01/19/prosecutors-in-the-u-s-state-of-pennsylvania-charge-a-philadelphia-illegal-abortionist-with-eight-counts-of-murder-for-killing-a-patient-an.xml)  
+
 ### [2011-01-19](/news/2011/01/19/index.md)
 
+##### U.S. state
 # Prosecutors in the U.S. state of Pennsylvania charge a Philadelphia illegal abortionist with eight counts of murder for killing a patient and seven live born babies. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5iOM8K2HklZK17c0mbflBO7Th7Pzg?docId=97816a13b1b443f48dade38143b90132)
 

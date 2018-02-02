@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/19/foxconn-states-its-intention-to-hire-more-workers-following-a-rash-of-suicides-among-its-workforce.html)  [JSON](/news/2010/08/19/foxconn-states-its-intention-to-hire-more-workers-following-a-rash-of-suicides-among-its-workforce.json)  [XML](/news/2010/08/19/foxconn-states-its-intention-to-hire-more-workers-following-a-rash-of-suicides-among-its-workforce.xml)  
+
 ### [2010-08-19](/news/2010/08/19/index.md)
 
+##### Foxconn
 # Foxconn states its intention to hire more workers following a rash of suicides among its workforce. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11028371)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/7/announcement-of-the-discovery-of-quaoar-a-planetoid-object-circling-the-sun.html)  [JSON](/news/2002/10/7/announcement-of-the-discovery-of-quaoar-a-planetoid-object-circling-the-sun.json)  [XML](/news/2002/10/7/announcement-of-the-discovery-of-quaoar-a-planetoid-object-circling-the-sun.xml)  
+
 ### [2002-10-7](/news/2002/10/7/index.md)
 
+##### Quaoar
 #  Announcement of the discovery of Quaoar, a planetoid object circling the Sun.
 
 

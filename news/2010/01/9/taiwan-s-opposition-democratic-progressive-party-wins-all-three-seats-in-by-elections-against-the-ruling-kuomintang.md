@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/9/taiwan-s-opposition-democratic-progressive-party-wins-all-three-seats-in-by-elections-against-the-ruling-kuomintang.html)  [JSON](/news/2010/01/9/taiwan-s-opposition-democratic-progressive-party-wins-all-three-seats-in-by-elections-against-the-ruling-kuomintang.json)  [XML](/news/2010/01/9/taiwan-s-opposition-democratic-progressive-party-wins-all-three-seats-in-by-elections-against-the-ruling-kuomintang.xml)  
+
 ### [2010-01-9](/news/2010/01/9/index.md)
 
+##### Taiwan
 # Taiwan's opposition Democratic Progressive Party wins all three seats in by-elections against the ruling Kuomintang. 
 
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 
-### Source:
+### Sources:
 
 1. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?main&20100110&56&639324)
 2. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-45270820100109)

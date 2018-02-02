@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/30/french-canadian-student-alexandre-bissonnette-i
 
 ### [2017-01-30](/news/2017/01/30/index.md)
 
+##### Quebec City mosque shooting
 # French-Canadian student Alexandre Bissonnette is charged with six counts of murder and five counts of attempted murder in relation to an attack on a mosque in Quebec City. 
 
 A 27-year-old student allegedly known for his right-wing, nationalist views appears in court in Canada charged with murdering six people during a shooting at a Quebec City mosque.

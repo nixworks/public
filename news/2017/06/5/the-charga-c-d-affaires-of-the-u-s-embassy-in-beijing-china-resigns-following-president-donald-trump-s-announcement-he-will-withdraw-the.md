@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/5/the-charga-c-d-affaires-of-the-u-s-embassy-in-be
 
 ### [2017-06-5](/news/2017/06/5/index.md)
 
+##### plan to leave
 # The "charge d'affaires" of the U.S. Embassy in Beijing, China, resigns following President Donald Trump's announcement he will withdraw the United States from the 2015 international Paris Agreement on climate change mitigation. 
 
 
@@ -24,4 +25,4 @@ Formats: [HTML](/news/2017/06/5/the-charga-c-d-affaires-of-the-u-s-embassy-in-be
 2. [Syria signs the Paris Agreement. This will make the United States the only country not in the Paris Agreement, when they plan to leave on 4 November 2020. ](/news/2017/11/7/syria-signs-the-paris-agreement-this-will-make-the-united-states-the-only-country-not-in-the-paris-agreement-when-they-plan-to-leave-on-4.md) _Context: Paris Agreement, plan to leave_
 3. [Disney CEO Bob Iger joins Elon Musk in resigning from President Trump's advisory councils in response to Trump's decision to withdraw the U.S. from the Paris Agreement. ](/news/2017/06/2/disney-ceo-bob-iger-joins-elon-musk-in-resigning-from-president-trump-s-advisory-councils-in-response-to-trump-s-decision-to-withdraw-the-u.md) _Context: Paris Agreement, plan to leave_
 4. [Elon Musk quits as an official advisor to U.S. President Donald Trump in protest at the United States withdrawal from the Paris Agreement. ](/news/2017/06/1/elon-musk-quits-as-an-official-advisor-to-u-s-president-donald-trump-in-protest-at-the-united-states-withdrawal-from-the-paris-agreement.md) _Context: Paris Agreement, plan to leave_
-5. [Scientists at the Wuhan Institute of Virology trace the source of the deadly 2002-04 SARS virus outbreak, which killed 774 people in 37 countries, to a colony of cave-dwelling horseshoe bats in China's Yunnan province. ](/news/2017/12/10/scientists-at-the-wuhan-institute-of-virology-trace-the-source-of-the-deadly-2002a04-sars-virus-outbreak-which-killed-774-people-in-37-co.md) _Context: China_
+5. [Sanchi is still ablaze this morning and it continues to leak oil. Chinese officials mention the danger of explosion and sinking. ](/news/2018/01/8/sanchi-is-still-ablaze-this-morning-and-it-continues-to-leak-oil-chinese-officials-mention-the-danger-of-explosion-and-sinking.md) _Context: Chinese_

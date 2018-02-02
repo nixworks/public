@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/31/embattled-tech-company-theranos-pulls-out-of-a-
 
 ### [2016-08-31](/news/2016/08/31/index.md)
 
+##### Theranos
 # Embattled tech company Theranos pulls out of a research project regarding the Zika virus. 
 
 The Silicon Valley blood-testing company suffers another setback

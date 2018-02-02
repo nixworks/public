@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/17/film-director-roman-polanski-appears-in-public-for-the-first-time-since-being-released-from-house-arrest-watching-his-wife-perform-at-the-m.html)  [JSON](/news/2010/07/17/film-director-roman-polanski-appears-in-public-for-the-first-time-since-being-released-from-house-arrest-watching-his-wife-perform-at-the-m.json)  [XML](/news/2010/07/17/film-director-roman-polanski-appears-in-public-for-the-first-time-since-being-released-from-house-arrest-watching-his-wife-perform-at-the-m.xml)  
+
 ### [2010-07-17](/news/2010/07/17/index.md)
 
+##### Roman Polanski
 # Film director Roman Polanski appears in public for the first time since being released from house arrest, watching his wife perform at the Montreux Jazz Festival. 
 
 Filmmaker Roman Polanski makes his first public appearance since Switzerland refused to extradite him to the US.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-10674557)
 2. [CBC News](http://www.cbc.ca/arts/film/story/2010/07/17/polanski-release-sighting.html?ref=rss)

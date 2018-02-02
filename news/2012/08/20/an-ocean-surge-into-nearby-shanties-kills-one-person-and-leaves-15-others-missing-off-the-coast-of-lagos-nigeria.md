@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/20/an-ocean-surge-into-nearby-shanties-kills-one-person-and-leaves-15-others-missing-off-the-coast-of-lagos-nigeria.html)  [JSON](/news/2012/08/20/an-ocean-surge-into-nearby-shanties-kills-one-person-and-leaves-15-others-missing-off-the-coast-of-lagos-nigeria.json)  [XML](/news/2012/08/20/an-ocean-surge-into-nearby-shanties-kills-one-person-and-leaves-15-others-missing-off-the-coast-of-lagos-nigeria.xml)  
+
 ### [2012-08-20](/news/2012/08/20/index.md)
 
+##### shanties
 # An ocean surge into nearby shanties kills one person and leaves 15 others missing off the coast of Lagos, Nigeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/africa/nigeria-ocean-surge-kills-one-15-missing-1.1365881#.UDI2BqOiE1A)
 

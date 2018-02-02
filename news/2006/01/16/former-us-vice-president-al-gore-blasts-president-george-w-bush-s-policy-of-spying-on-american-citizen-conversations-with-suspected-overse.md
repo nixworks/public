@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/16/former-us-vice-president-al-gore-blasts-president-george-w-bush-s-policy-of-spying-on-american-citizen-conversations-with-suspected-overse.html)  [JSON](/news/2006/01/16/former-us-vice-president-al-gore-blasts-president-george-w-bush-s-policy-of-spying-on-american-citizen-conversations-with-suspected-overse.json)  [XML](/news/2006/01/16/former-us-vice-president-al-gore-blasts-president-george-w-bush-s-policy-of-spying-on-american-citizen-conversations-with-suspected-overse.xml)  
+
 ### [2006-01-16](/news/2006/01/16/index.md)
 
+##### U.S. Vice President
 #  Former US Vice President Al Gore blasts President George W. Bush's policy of spying on American citizen conversations with suspected overseas terrorists, saying President Bush "repeatedly and persistently" broke the law in connection with the NSA warrantless surveillance controversy, says the United States Constitution is in danger. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Houston Chronicle](http://www.chron.com/disp/story.mpl/nation/3590307.html)
 2. [Text of Speech](http://rawstory.com/news/2005/Text_of_Gore_speech_0116.html)

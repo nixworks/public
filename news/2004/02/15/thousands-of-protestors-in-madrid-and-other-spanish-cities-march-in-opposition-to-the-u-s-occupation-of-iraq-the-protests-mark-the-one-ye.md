@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/15/thousands-of-protestors-in-madrid-and-other-spanish-cities-march-in-opposition-to-the-u-s-occupation-of-iraq-the-protests-mark-the-one-ye.html)  [JSON](/news/2004/02/15/thousands-of-protestors-in-madrid-and-other-spanish-cities-march-in-opposition-to-the-u-s-occupation-of-iraq-the-protests-mark-the-one-ye.json)  [XML](/news/2004/02/15/thousands-of-protestors-in-madrid-and-other-spanish-cities-march-in-opposition-to-the-u-s-occupation-of-iraq-the-protests-mark-the-one-ye.xml)  
+
 ### [2004-02-15](/news/2004/02/15/index.md)
 
+##### Madrid
 #  Thousands of protestors in Madrid and other Spanish cities march in opposition to the U.S. occupation of Iraq. The protests mark the one-year anniversary of the large protests against the U.S. invasion of Iraq. 
 
 Read the latest national and world news on Newsday. All the top stores, latest videos and photo galleries are available at Newsday.com
 
 
-### Source:
+### Sources:
 
 1. [Newsday](http://www.newsday.com/news/nationworld/world/sns-ap-spain-iraq-protest,0,4992788.story?coll=ny-worldnews-headlines)
 1. [Cover Image](https://www.newsday.com/img/blog-share-nd.jpg)

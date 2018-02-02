@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/10/three-people-are-killed-and-several-others-seriously-injured-after-a-coach-taking-people-home-from-the-isle-of-wight-based-music-festival-b.html)  [JSON](/news/2012/09/10/three-people-are-killed-and-several-others-seriously-injured-after-a-coach-taking-people-home-from-the-isle-of-wight-based-music-festival-b.json)  [XML](/news/2012/09/10/three-people-are-killed-and-several-others-seriously-injured-after-a-coach-taking-people-home-from-the-isle-of-wight-based-music-festival-b.xml)  
+
 ### [2012-09-10](/news/2012/09/10/index.md)
 
+##### Isle of Wight
 # Three people are killed and several others seriously injured after a coach taking people home from the Isle of Wight-based music festival, Bestival 2012 crashes in Surrey, England. 
 
 Three people die and others are seriously hurt as a Merseyside-based coach taking people home from a festival crashes in Surrey.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-surrey-18976092)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/62813000/jpg/_62813239_a3_helicopter_shot.jpg)

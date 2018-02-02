@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/2/hizbul-islam-members-enter-harardhere-in-somalia-and-meet-no-resistance-they-promise-to-enter-other-towns-in-the-region.html)  [JSON](/news/2010/05/2/hizbul-islam-members-enter-harardhere-in-somalia-and-meet-no-resistance-they-promise-to-enter-other-towns-in-the-region.json)  [XML](/news/2010/05/2/hizbul-islam-members-enter-harardhere-in-somalia-and-meet-no-resistance-they-promise-to-enter-other-towns-in-the-region.xml)  
+
 ### [2010-05-2](/news/2010/05/2/index.md)
 
+##### Hizbul Islam
 # Hizbul Islam members enter Harardhere in Somalia, and meet no resistance; they promise to enter other towns in the region. 
 
 Hizbul Islam members enter the pirate base of Haradheere, residents say.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/20105213620982480.html)
 1. [Cover Image](http://www.aljazeera.com)
@@ -14,6 +18,6 @@ Hizbul Islam members enter the pirate base of Haradheere, residents say.
 
 1. [Kenyan AMISOM troops, advancing towards the al-Shabaab stronghold of Kismayo, "deliberately" shoot dead seven Somali civilians, according to a Somali Army spokesman. The Hizbul Islam faction announces that it leaves the al-Shabaab. ](/news/2012/09/24/kenyan-amisom-troops-advancing-towards-the-al-shabaab-stronghold-of-kismayo-deliberately-shoot-dead-seven-somali-civilians-according-to.md) _Context: Hizbul Islam, Somalia_
 2. [The Hizbul Islam group in Somalia join forces with al-Shabaab. ](/news/2010/12/24/the-hizbul-islam-group-in-somalia-join-forces-with-al-shabaab.md) _Context: Hizbul Islam, Somalia_
-3. [At least 276 people are killed when a truck filled with explosives detonates outside a hotel in the capital Mogadishu, becoming the worst terrorist attack in Somalia's history. ](/news/2017/10/14/at-least-276-people-are-killed-when-a-truck-filled-with-explosives-detonates-outside-a-hotel-in-the-capital-mogadishu-becoming-the-worst-te.md) _Context: Somalia_
-4. [Al-Shabaab militants attack a military base outside the Somalian capital Mogadishu, with 15 soldiers reported dead. ](/news/2017/09/29/al-shabaab-militants-attack-a-military-base-outside-the-somalian-capital-mogadishu-with-15-soldiers-reported-dead.md) _Context: Somalia_
-5. [A United States Navy SEAL is killed, becoming the first U.S. service member killed in Somalia since 1993, and three others are injured in a gunfight with al-Shabaab militants, west of Mogadishu. ](/news/2017/05/6/a-united-states-navy-seal-is-killed-becoming-the-first-u-s-service-member-killed-in-somalia-since-1993-and-three-others-are-injured-in-a.md) _Context: Somalia_
+3. [The United States launches airstrikes against Islamic State in Somalia for the first time. The United States Africa Command says "several terrorists" were killed in the strikes, which took place in coordination with Somalia's government. ](/news/2017/11/3/the-united-states-launches-airstrikes-against-islamic-state-in-somalia-for-the-first-time-the-united-states-africa-command-says-several-te.md) _Context: Somalia_
+4. [Two car bombs kill at least 25 people, mostly police officers, near the national theater area in Mogadishu, Somalia, two weeks after a similar attack killed hundreds. Islamist group Al-Shabaab claims responsibility. ](/news/2017/10/28/two-car-bombs-kill-at-least-25-people-mostly-police-officers-near-the-national-theater-area-in-mogadishu-somalia-two-weeks-after-a-simil.md) _Context: Somalia_
+5. [The death toll in Somalia's deadliest terror attack rises up to 358, making it the fifth-deadliest terror attack worldwide. ](/news/2017/10/21/the-death-toll-in-somalia-s-deadliest-terror-attack-rises-up-to-358-making-it-the-fifth-deadliest-terror-attack-worldwide.md) _Context: Somalia_

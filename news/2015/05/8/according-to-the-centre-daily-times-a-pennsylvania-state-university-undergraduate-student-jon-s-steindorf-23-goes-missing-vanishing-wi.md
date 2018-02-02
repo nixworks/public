@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/8/according-to-the-centre-daily-times-a-pennsylvania-state-university-undergraduate-student-jon-s-steindorf-23-goes-missing-vanishing-wi.html)  [JSON](/news/2015/05/8/according-to-the-centre-daily-times-a-pennsylvania-state-university-undergraduate-student-jon-s-steindorf-23-goes-missing-vanishing-wi.json)  [XML](/news/2015/05/8/according-to-the-centre-daily-times-a-pennsylvania-state-university-undergraduate-student-jon-s-steindorf-23-goes-missing-vanishing-wi.xml)  
+
 ### [2015-05-8](/news/2015/05/8/index.md)
 
+##### Centre Daily Times
 # According to the Centre Daily Times, a Pennsylvania State University undergraduate student, Jon S. Steindorf, 23, goes missing, vanishing without a trace, the day his parents had expected him to graduate from the University, only to find when they arrived at 4 PM that he had dropped out in the fall 2014 semester. He was last seen by his roommate at 11 AM; he is brown-haired and blue-eyed, and he may be toting a red backpack and riding a black bicycle. State College, Pennsylvania police have put out a missing persons alert for him. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New York Daily News, via MSN](http://www.msn.com/en-us/news/us/ex-penn-state-student-disappears-on-the-day-of-graduation/ar-BBjAzLL)
 

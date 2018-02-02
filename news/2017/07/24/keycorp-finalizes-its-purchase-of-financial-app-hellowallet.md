@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/24/keycorp-finalizes-its-purchase-of-financial-app
 
 ### [2017-07-24](/news/2017/07/24/index.md)
 
+##### KeyCorp
 # KeyCorp finalizes its purchase of financial app HelloWallet. 
 
 

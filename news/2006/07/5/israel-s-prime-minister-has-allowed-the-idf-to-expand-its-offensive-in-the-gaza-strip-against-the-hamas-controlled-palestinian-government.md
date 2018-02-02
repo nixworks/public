@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/5/israel-s-prime-minister-has-allowed-the-idf-to-expand-its-offensive-in-the-gaza-strip-against-the-hamas-controlled-palestinian-government.html)  [JSON](/news/2006/07/5/israel-s-prime-minister-has-allowed-the-idf-to-expand-its-offensive-in-the-gaza-strip-against-the-hamas-controlled-palestinian-government.json)  [XML](/news/2006/07/5/israel-s-prime-minister-has-allowed-the-idf-to-expand-its-offensive-in-the-gaza-strip-against-the-hamas-controlled-palestinian-government.xml)  
+
 ### [2006-07-5](/news/2006/07/5/index.md)
 
+##### Israel
 #  Israel's Prime Minister has allowed the IDF to expand its offensive in the Gaza Strip against the Hamas-controlled Palestinian government, in order to free the abducted soldier Gilad Shalit. 
 
 Security forces nab terrorist, foil large-scale attack after deploying in great numbers across Samaria area. Meanwhile, IDF forces kill Fatah operative in Jericho 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://reuters.myway.com/article/20060705/2006-07-05T111648Z_01_L04812837_RTRIDST_0_NEWS-MIDEAST-DC.html)
 2. [Reuters](http://today.reuters.com/news/newsarticle.aspx?type=topNews&storyid=2006-07-05T070405Z_01_L05801663_RTRUKOC_0_US-MIDEAST-CAPTIVE-BUNKER.xml&src=rss&rpc=22)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/05/25/christine-lagarde-the-french-minister-for-finance-announces-her-candidacy-to-be-head-of-the-international-monetary-fund.html)  [JSON](/news/2011/05/25/christine-lagarde-the-french-minister-for-finance-announces-her-candidacy-to-be-head-of-the-international-monetary-fund.json)  [XML](/news/2011/05/25/christine-lagarde-the-french-minister-for-finance-announces-her-candidacy-to-be-head-of-the-international-monetary-fund.xml)  
+
 ### [2011-05-25](/news/2011/05/25/index.md)
 
+##### Christine Lagarde
 # Christine Lagarde, the French Minister for Finance, announces her candidacy to be head of the International Monetary Fund. 
 
 Since Dominique Strauss-Kahn resigned to fight sexual assault charges, Finance Minister Christine Lagarde of France has become a top candidate to lead the International Monetary Fund.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/europe/05/25/france.lagarde.imf/index.html?hpt=T2)
-2. [New York Times](http://www.nytimes.com/2011/05/25/business/global/25fund.html)
+2. [New York Times](https://www.nytimes.com/2011/05/25/business/global/25fund.html)
 2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/06/22/saudi-arabia-offers-to-increase-its-oil-production-slightly-at-an-oil-summit-in-jeddah.html)  [JSON](/news/2008/06/22/saudi-arabia-offers-to-increase-its-oil-production-slightly-at-an-oil-summit-in-jeddah.json)  [XML](/news/2008/06/22/saudi-arabia-offers-to-increase-its-oil-production-slightly-at-an-oil-summit-in-jeddah.xml)  
+
 ### [2008-06-22](/news/2008/06/22/index.md)
 
+##### Saudi Arabia
 #  Saudi Arabia offers to increase its oil production slightly at an oil summit in Jeddah. 
 
 The Saudis pledged to make only a slight increase in oil production, and the summit made plain how few options are available to push prices down from record levels.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/06/23/world/middleeast/23saudi.html)
+1. [The New York Times](https://www.nytimes.com/2008/06/23/world/middleeast/23saudi.html)
 1. [Cover Image](https://static01.nyt.com/images/2008/06/23/business/23saudi.751.jpg)
 
 ### Related:

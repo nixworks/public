@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/21/myanmar-s-new-parliament-in-its-first-legislati
 
 ### [2016-03-21](/news/2016/03/21/index.md)
 
+##### Myanmar
 # Myanmar's new parliament, in its first legislative act, votes (611-3) to eliminate 15 government ministries. President-elect Htin Kyaw says by eliminating the ministers' salaries, the nation will save $4 million over five years. No civil servants will lose their jobs. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/9/the-british-government-drops-plans-to-ban-the-mixing-of-sperm-and-eggs-from-different-species.html)  [JSON](/news/2007/10/9/the-british-government-drops-plans-to-ban-the-mixing-of-sperm-and-eggs-from-different-species.json)  [XML](/news/2007/10/9/the-british-government-drops-plans-to-ban-the-mixing-of-sperm-and-eggs-from-different-species.xml)  
+
 ### [2007-10-9](/news/2007/10/9/index.md)
 
+##### sperm
 #  The British Government drops plans to ban the mixing of sperm and eggs from different species. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/science/2007/oct/09/sciencenews.ethicsofscience)
 

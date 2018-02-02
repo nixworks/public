@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/22/typhoon-sepat-has-killed-at-least-36-people-in-southeast-china-in-the-past-week.html)  [JSON](/news/2007/08/22/typhoon-sepat-has-killed-at-least-36-people-in-southeast-china-in-the-past-week.json)  [XML](/news/2007/08/22/typhoon-sepat-has-killed-at-least-36-people-in-southeast-china-in-the-past-week.xml)  
+
 ### [2007-08-22](/news/2007/08/22/index.md)
 
+##### Typhoon Sepat
 #  Typhoon Sepat has killed at least 36 people in southeast China in the past week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/08/21/typhoon.sepat.reut/index.html?eref=rss_world)
 

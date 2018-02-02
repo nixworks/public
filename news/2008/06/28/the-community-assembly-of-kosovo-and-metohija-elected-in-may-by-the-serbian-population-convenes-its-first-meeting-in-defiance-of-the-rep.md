@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/28/the-community-assembly-of-kosovo-and-metohija-elected-in-may-by-the-serbian-population-convenes-its-first-meeting-in-defiance-of-the-rep.html)  [JSON](/news/2008/06/28/the-community-assembly-of-kosovo-and-metohija-elected-in-may-by-the-serbian-population-convenes-its-first-meeting-in-defiance-of-the-rep.json)  [XML](/news/2008/06/28/the-community-assembly-of-kosovo-and-metohija-elected-in-may-by-the-serbian-population-convenes-its-first-meeting-in-defiance-of-the-rep.xml)  
+
 ### [2008-06-28](/news/2008/06/28/index.md)
 
+##### Community Assembly of Kosovo and Metohija
 #  The Community Assembly of Kosovo and Metohija, elected in May by the Serbian population, convenes its first meeting, in defiance of the Republic of Kosovo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7478865.stm)
 

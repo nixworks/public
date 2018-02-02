@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/15/the-u-s-supreme-court-rules-that-the-north-caro
 
 ### [2017-05-15](/news/2017/05/15/index.md)
 
+##### Voter ID laws in the United States
 # The U.S. Supreme Court rules that the North Carolina state legislative members do not have standing to request an appeal of the U.S. Court of Appeals for the Fourth Circuit ruling against a law which it found discriminated against black voters. 
 
  The U.S. Supreme Court on Monday rebuffed a Republican bid to revive a strict North Carolina voter-identification law that a lower court found deliberately dis

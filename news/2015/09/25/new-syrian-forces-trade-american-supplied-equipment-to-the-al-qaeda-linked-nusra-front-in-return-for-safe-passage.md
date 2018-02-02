@@ -1,23 +1,27 @@
+
+Formats: [HTML](/news/2015/09/25/new-syrian-forces-trade-american-supplied-equipment-to-the-al-qaeda-linked-nusra-front-in-return-for-safe-passage.html)  [JSON](/news/2015/09/25/new-syrian-forces-trade-american-supplied-equipment-to-the-al-qaeda-linked-nusra-front-in-return-for-safe-passage.json)  [XML](/news/2015/09/25/new-syrian-forces-trade-american-supplied-equipment-to-the-al-qaeda-linked-nusra-front-in-return-for-safe-passage.xml)  
+
 ### [2015-09-25](/news/2015/09/25/index.md)
 
+##### Syrian Civil War
 # New Syrian Forces trade American supplied equipment to the Al Qaeda-linked Nusra Front in return for safe passage. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3249649/New-Syrian-Forces-turned-coalition-issued-equipment-Nusra-Front-U-S.html#ixzz3mnG0dMj1)
-
-### Related:
-
-1. [Tahrir al-Sham, al-Qaeda's branch in Syria, claims responsibility for yesterday's twin bomb attacks in Damascus which left dozens dead. ](/news/2017/03/12/tahrir-al-sham-al-qaeda-s-branch-in-syria-claims-responsibility-for-yesterday-s-twin-bomb-attacks-in-damascus-which-left-dozens-dead.md) _Context: Syrian Civil War, al-Qaeda_
-2. [ The Pentagon rejects a Russian proposal to stage joint airstrikes against Al-Qaeda linked groups in Syria. ](/news/2016/05/21/the-pentagon-rejects-a-russian-proposal-to-stage-joint-airstrikes-against-al-qaeda-linked-groups-in-syria.md) _Context: Syrian Civil War, al-Qaeda_
-3. [The al-Nusra Front, an al-Qaeda affiliate, assaults the Free Syrian Army's 13th Division in Maarrat al-Nu'man, killing seven FSA fighters with 40 captured. The Syrian Observatory for Human Rights says Nusra seized anti-tank missiles, armored vehicles, a tank, and other arms from the U.S.-backed division. ](/news/2016/03/13/the-al-nusra-front-an-al-qaeda-affiliate-assaults-the-free-syrian-army-s-13th-division-in-maarrat-al-nu-man-killing-seven-fsa-fighters-wi.md) _Context: Syrian Civil War, al-Qaeda_
-4. [Russian airstrikes on a Al-Nusra Front (Al-Qaeda's branch in Syria)-run prison complex in the northern town of Maarrat al-Nu'man, Idlib, leaves nearly 60 people dead. Most of those killed were rebels imprisoned by Al-Nusra, according to the Syrian Observatory for Human Rights. ](/news/2016/01/9/russian-airstrikes-on-a-al-nusra-front-al-qaeda-s-branch-in-syria-run-prison-complex-in-the-northern-town-of-maarrat-al-nu-man-idlib-lea.md) _Context: Syrian Civil War, al-Qaeda_
-5. [Al-Nusra Front's (Al-Qaeda's branch in Syria) leader Abu Suleiman al-Masri is reportedly killed in the Aleppo province during clashes with the Syrian Army. ](/news/2015/10/24/al-nusra-front-s-al-qaeda-s-branch-in-syria-leader-abu-suleiman-al-masri-is-reportedly-killed-in-the-aleppo-province-during-clashes-with-t.md) _Context: Syrian Civil War, al-Qaeda_
 
 ### Changes:
 
 1. [Syrian Civil War: New Syrian Forces trade American supplied equipment to the Al Qaeda-linked Nusra Front in return for safe passage. ](/news/2015/09/25/syrian-civil-war-new-syrian-forces-trade-american-supplied-equipment-to-the-al-qaeda-linked-nusra-front-in-return-for-safe-passage.md) _2017-08-27 03:43:08 (First version)_
 1. [New Syrian Forces trade American supplied equipment to the Al Qaeda-linked Nusra Front in return for safe passage. ](/news/2015/09/25/new-syrian-forces-trade-american-supplied-equipment-to-the-al-qaeda-linked-nusra-front-in-return-for-safe-passage.md) _(Current version)_
+
+### Related:
+
+1. [ A mosque bombing in northern Syria kills 15 members of Al Qaida's affiliate Nusra Front. ](/news/2015/07/4/a-mosque-bombing-in-northern-syria-kills-15-members-of-al-qaida-s-affiliate-nusra-front.md) _Context: Nusra Front, Syrian Civil War_
+2. [An explosion at the headquarters of the Chechen-led Ajnad al-Kavkaz rebel group in Idlib, Syria, kills at least 23 people, while several people remain unaccounted for, according to the Syrian Observatory for Human Rights. ](/news/2018/01/7/an-explosion-at-the-headquarters-of-the-chechen-led-ajnad-al-kavkaz-rebel-group-in-idlib-syria-kills-at-least-23-people-while-several-peo.md) _Context: Syrian Civil War_
+3. [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md) _Context: Syrian Civil War_
+4. [The Syrian Army seizes control of the strategic Abu al-Duhur Military Airbase in Idlib Governorate. ](/news/2018/01/20/the-syrian-army-seizes-control-of-the-strategic-abu-al-duhur-military-airbase-in-idlib-governorate.md) _Context: Syrian Civil War_
+5. [Turkey threatens to "strangle" the United States-backed Syrian Border Security Force "before it's even born", while Syria vows to crush it and expel American military personnel from the country. Russia called the plans "a plot to dismember Syria". ](/news/2018/01/15/turkey-threatens-to-strangle-the-united-states-backed-syrian-border-security-force-before-it-s-even-born-while-syria-vows-to-crush-it-a.md) _Context: Syrian Civil War_

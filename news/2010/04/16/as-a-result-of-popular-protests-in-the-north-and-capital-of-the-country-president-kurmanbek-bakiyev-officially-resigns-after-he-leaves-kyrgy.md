@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/16/as-a-result-of-popular-protests-in-the-north-and-capital-of-the-country-president-kurmanbek-bakiyev-officially-resigns-after-he-leaves-kyrgy.html)  [JSON](/news/2010/04/16/as-a-result-of-popular-protests-in-the-north-and-capital-of-the-country-president-kurmanbek-bakiyev-officially-resigns-after-he-leaves-kyrgy.json)  [XML](/news/2010/04/16/as-a-result-of-popular-protests-in-the-north-and-capital-of-the-country-president-kurmanbek-bakiyev-officially-resigns-after-he-leaves-kyrgy.xml)  
+
 ### [2010-04-16](/news/2010/04/16/index.md)
 
+##### popular protests
 # As a result of popular protests in the north and capital of the country President Kurmanbek Bakiyev officially resigns after he leaves Kyrgyzstan for Kazakhstan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://beta.thehindu.com/news/international/article399264.ece)
 

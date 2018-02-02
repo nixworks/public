@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/31/thousands-of-demonstrators-gather-in-hong-kong-to-commemorate-the-upcoming-anniversary-of-the-tiananmen-square-massacre-of-june-4-1989.html)  [JSON](/news/2009/05/31/thousands-of-demonstrators-gather-in-hong-kong-to-commemorate-the-upcoming-anniversary-of-the-tiananmen-square-massacre-of-june-4-1989.json)  [XML](/news/2009/05/31/thousands-of-demonstrators-gather-in-hong-kong-to-commemorate-the-upcoming-anniversary-of-the-tiananmen-square-massacre-of-june-4-1989.xml)  
+
 ### [2009-05-31](/news/2009/05/31/index.md)
 
+##### demonstration
 #  Thousands of demonstrators gather in Hong Kong to commemorate the upcoming anniversary of the Tiananmen Square massacre of June 4, 1989. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8075884.stm)
 2. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_384041.html)

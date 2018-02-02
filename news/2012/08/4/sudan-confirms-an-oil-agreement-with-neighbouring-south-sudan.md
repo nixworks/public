@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/4/sudan-confirms-an-oil-agreement-with-neighbouring-south-sudan.html)  [JSON](/news/2012/08/4/sudan-confirms-an-oil-agreement-with-neighbouring-south-sudan.json)  [XML](/news/2012/08/4/sudan-confirms-an-oil-agreement-with-neighbouring-south-sudan.xml)  
+
 ### [2012-08-4](/news/2012/08/4/index.md)
 
+##### Sudan
 # Sudan confirms an oil agreement with neighbouring South Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw.de/dw/article/0,,16144517,00.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/4/former-uk-government-minister-chris-huhne-pleads-guilty-to-perverting-the-course-of-justice-over-claims-he-caused-his-ex-wife-to-accept-spee.html)  [JSON](/news/2013/02/4/former-uk-government-minister-chris-huhne-pleads-guilty-to-perverting-the-course-of-justice-over-claims-he-caused-his-ex-wife-to-accept-spee.json)  [XML](/news/2013/02/4/former-uk-government-minister-chris-huhne-pleads-guilty-to-perverting-the-course-of-justice-over-claims-he-caused-his-ex-wife-to-accept-spee.xml)  
+
 ### [2013-02-4](/news/2013/02/4/index.md)
 
+##### 10 Downing Street
 # Former UK government Minister Chris Huhne pleads guilty to perverting the course of justice over claims he caused his ex-wife to accept speeding points he had incurred. He also announces his intention to resign his House of Commons seat. 
 
 Ex-cabinet minister Chris Huhne resigns as an MP after admitting he perverted the course of justice over claims his ex-wife took speeding points for him.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21320992)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65696000/jpg/_65696980_84unmlon.jpg)

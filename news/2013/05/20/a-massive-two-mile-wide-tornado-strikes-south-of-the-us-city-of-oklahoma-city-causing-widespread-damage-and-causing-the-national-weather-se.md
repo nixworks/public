@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/20/a-massive-two-mile-wide-tornado-strikes-south-of-the-us-city-of-oklahoma-city-causing-widespread-damage-and-causing-the-national-weather-se.html)  [JSON](/news/2013/05/20/a-massive-two-mile-wide-tornado-strikes-south-of-the-us-city-of-oklahoma-city-causing-widespread-damage-and-causing-the-national-weather-se.json)  [XML](/news/2013/05/20/a-massive-two-mile-wide-tornado-strikes-south-of-the-us-city-of-oklahoma-city-causing-widespread-damage-and-causing-the-national-weather-se.xml)  
+
 ### [2013-05-20](/news/2013/05/20/index.md)
 
+##### U.S.
 # A massive two mile wide tornado strikes south of the US city of Oklahoma City, causing widespread damage and causing the National Weather Service to issue a rare tornado emergency. 
 
 Helicopter images of Moore, Oklahoma show tracts of devastated neighborhoods.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/US/oklahoma-tornado-37-dead-horrific-damage/story?id=19219367)
 2. [MSN](http://news.msn.com/us/tornado-hits-oklahoma-elementary-school-takes-direct-hit)
@@ -15,8 +19,8 @@ Helicopter images of Moore, Oklahoma show tracts of devastated neighborhoods.
 
 ### Related:
 
-1. [In the United States, the National Weather Service issues a blizzard warning for northeastern Colorado and western Kansas with an expected snowfall by midday of 12 inches in Denver, Colorado. Denver International Airport cancels 143 arriving and departing flighits. Several tornadoes occur overnight in northern Texas, western Kansas, and southern Nebraska. ](/news/2015/11/17/in-the-united-states-the-national-weather-service-issues-a-blizzard-warning-for-northeastern-colorado-and-western-kansas-with-an-expected-s.md) _Context: National Weather Service, United States_
-2. [The death toll from the 2013 Moore tornado in the U.S. state of Oklahoma is revised sharply downward to 24, with over one hundred people injured and many missing. ](/news/2013/05/21/the-death-toll-from-the-2013-moore-tornado-in-the-u-s-state-of-oklahoma-is-revised-sharply-downward-to-24-with-over-one-hundred-people-inj.md) _Context: 2013 Moore tornado, United States_
-3. [The United States National Weather Service issues a blizzard warning for nine states in the Midwestern United States with a storm affecting a total of 30 states from Texas to Maine. ](/news/2011/02/1/the-united-states-national-weather-service-issues-a-blizzard-warning-for-nine-states-in-the-midwestern-united-states-with-a-storm-affecting.md) _Context: National Weather Service, United States_
-4. [ The United States National Weather Service warns of "excessive heat" after the Earth reportedly breaks out of its orbit and begins falling into the sun. Fortunately, it turns out to be a mistakenly published test message. [http:--www.informationweek.com-story-showArticle.jhtml?articleID=17000138]](/news/2003/12/17/the-united-states-national-weather-service-warns-of-excessive-heat-after-the-earth-reportedly-breaks-out-of-its-orbit-and-begins-falling.md) _Context: National Weather Service, United States_
-5. [The Nobel Prize committee awards American Richard Thaler the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-his.md) _Context: United States_
+1. [In the United States, the National Weather Service issues a blizzard warning for northeastern Colorado and western Kansas with an expected snowfall by midday of 12 inches in Denver, Colorado. Denver International Airport cancels 143 arriving and departing flighits. Several tornadoes occur overnight in northern Texas, western Kansas, and southern Nebraska. ](/news/2015/11/17/in-the-united-states-the-national-weather-service-issues-a-blizzard-warning-for-northeastern-colorado-and-western-kansas-with-an-expected-s.md) _Context: National Weather Service, U.S._
+2. [The death toll from the 2013 Moore tornado in the U.S. state of Oklahoma is revised sharply downward to 24, with over one hundred people injured and many missing. ](/news/2013/05/21/the-death-toll-from-the-2013-moore-tornado-in-the-u-s-state-of-oklahoma-is-revised-sharply-downward-to-24-with-over-one-hundred-people-inj.md) _Context: 2013 Moore tornado, U.S._
+3. [The United States National Weather Service issues a blizzard warning for nine states in the Midwestern United States with a storm affecting a total of 30 states from Texas to Maine. ](/news/2011/02/1/the-united-states-national-weather-service-issues-a-blizzard-warning-for-nine-states-in-the-midwestern-united-states-with-a-storm-affecting.md) _Context: National Weather Service, U.S._
+4. [ The United States National Weather Service warns of "excessive heat" after the Earth reportedly breaks out of its orbit and begins falling into the sun. Fortunately, it turns out to be a mistakenly published test message. [http:--www.informationweek.com-story-showArticle.jhtml?articleID=17000138]](/news/2003/12/17/the-united-states-national-weather-service-warns-of-excessive-heat-after-the-earth-reportedly-breaks-out-of-its-orbit-and-begins-falling.md) _Context: National Weather Service, U.S._
+5. [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md) _Context: U.S._

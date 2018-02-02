@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/23/39-year-old-russian-orthodox-priest-father-alexander-filippov-is-fatally-shot-in-the-back-outside-his-home-in-satino-russkoye-after-challen.html)  [JSON](/news/2009/12/23/39-year-old-russian-orthodox-priest-father-alexander-filippov-is-fatally-shot-in-the-back-outside-his-home-in-satino-russkoye-after-challen.json)  [XML](/news/2009/12/23/39-year-old-russian-orthodox-priest-father-alexander-filippov-is-fatally-shot-in-the-back-outside-his-home-in-satino-russkoye-after-challen.xml)  
+
 ### [2009-12-23](/news/2009/12/23/index.md)
 
+##### Orthodox
 #  39-year-old Russian Orthodox priest Father Alexander Filippov is fatally shot in the back outside his home in Satino-Russkoye after challenging a group of drunks who were urinating in his hallway. 
 
 A Russian priest was shot dead at his apartment block in the Moscow region after he criticised the behaviour of a group of drunken men, investigators say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8428055.stm)
 2. [Radio Free Europe](http://www.rferl.org/content/Drunks_Gun_Down_Russian_Priest/1911323.html)
@@ -15,6 +19,4 @@ A Russian priest was shot dead at his apartment block in the Moscow region after
 ### Related:
 
 1. [Russian Orthodox patriarch Kirill says the church is stronger than its critics after a series of scandals. ](/news/2012/04/15/russian-orthodox-patriarch-kirill-says-the-church-is-stronger-than-its-critics-after-a-series-of-scandals.md) _Context: Orthodox_
-2. [ A NASA internal investigation finds no evidence of heavy drinking or drunkenness amongst astronauts prior to missions. ](/news/2007/08/29/a-nasa-internal-investigation-finds-no-evidence-of-heavy-drinking-or-drunkenness-amongst-astronauts-prior-to-missions.md) _Context: drunks_
-3. [ An independent review set up by NASA finds out that astronauts were allowed to fly despite being drunk in at least two occasions. ](/news/2007/07/27/an-independent-review-set-up-by-nasa-finds-out-that-astronauts-were-allowed-to-fly-despite-being-drunk-in-at-least-two-occasions.md) _Context: drunks_
-4. [ Cardinal Walter Kasper, head of the Pontifical Council for the Promotion of Christian Unity, a top Vatican official arrives in Moscow for sensitive talks with the Russian Orthodox hierarchy, which accuses the Catholic Church of aggressive proselytizing in traditionally Orthodox lands. ](/news/2004/02/17/cardinal-walter-kasper-head-of-the-pontifical-council-for-the-promotion-of-christian-unity-a-top-vatican-official-arrives-in-moscow-for-s.md) _Context: Orthodox_
+2. [ Cardinal Walter Kasper, head of the Pontifical Council for the Promotion of Christian Unity, a top Vatican official arrives in Moscow for sensitive talks with the Russian Orthodox hierarchy, which accuses the Catholic Church of aggressive proselytizing in traditionally Orthodox lands. ](/news/2004/02/17/cardinal-walter-kasper-head-of-the-pontifical-council-for-the-promotion-of-christian-unity-a-top-vatican-official-arrives-in-moscow-for-s.md) _Context: Orthodox_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/19/the-guinean-junta-appoints-opposition-leader-jean-marie-dore-as-the-new-prime-minister.html)  [JSON](/news/2010/01/19/the-guinean-junta-appoints-opposition-leader-jean-marie-dore-as-the-new-prime-minister.json)  [XML](/news/2010/01/19/the-guinean-junta-appoints-opposition-leader-jean-marie-dore-as-the-new-prime-minister.xml)  
+
 ### [2010-01-19](/news/2010/01/19/index.md)
 
+##### Guinea
 # The Guinean junta appoints opposition leader Jean-Marie Dor as the new prime minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8467298.stm)
 

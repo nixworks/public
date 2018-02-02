@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/11/the-european-union-s-visa-free-regime-for-ukrai
 
 ### [2017-06-11](/news/2017/06/11/index.md)
 
+##### Ukraine-European Union relations
 # The European Union's visa-free regime for Ukraine officially enters into force. 
 
 

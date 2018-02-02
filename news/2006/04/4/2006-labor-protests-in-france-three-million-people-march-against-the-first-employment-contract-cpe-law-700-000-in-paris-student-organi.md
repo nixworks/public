@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/04/4/2006-labor-protests-in-france-three-million-people-march-against-the-first-employment-contract-cpe-law-700-000-in-paris-student-organi.html)  [JSON](/news/2006/04/4/2006-labor-protests-in-france-three-million-people-march-against-the-first-employment-contract-cpe-law-700-000-in-paris-student-organi.json)  [XML](/news/2006/04/4/2006-labor-protests-in-france-three-million-people-march-against-the-first-employment-contract-cpe-law-700-000-in-paris-student-organi.xml)  
+
 ### [2006-04-4](/news/2006/04/4/index.md)
 
+##### 2006 labor protests in France
 #  2006 labor protests in France: Three million people march against the First Employment Contract (CPE) law, 700 000 in Paris. Student organizations call for a general strike. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/04/04/AR2006040401632.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2006/04/04/AR2006040401632.html)
 
 ### Related:
 

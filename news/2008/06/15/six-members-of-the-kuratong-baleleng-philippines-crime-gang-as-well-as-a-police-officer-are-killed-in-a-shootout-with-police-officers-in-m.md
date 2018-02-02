@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/15/six-members-of-the-kuratong-baleleng-philippines-crime-gang-as-well-as-a-police-officer-are-killed-in-a-shootout-with-police-officers-in-m.html)  [JSON](/news/2008/06/15/six-members-of-the-kuratong-baleleng-philippines-crime-gang-as-well-as-a-police-officer-are-killed-in-a-shootout-with-police-officers-in-m.json)  [XML](/news/2008/06/15/six-members-of-the-kuratong-baleleng-philippines-crime-gang-as-well-as-a-police-officer-are-killed-in-a-shootout-with-police-officers-in-m.xml)  
+
 ### [2008-06-15](/news/2008/06/15/index.md)
 
+##### Kuratong baleleng
 #  Six members of the Kuratong baleleng Philippines crime gang, as well as a police officer are killed in a shootout with police officers in Manila. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5itc4iC6nA_5kJ-k2U04mZZV5iKjQ)
 

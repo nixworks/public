@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/17/major-blackout-investigators-now-believe-the-blackout-began-in-ohio-firstenergy-corporation-which-services-1-4-million-people-in-the-sta.html)  [JSON](/news/2003/08/17/major-blackout-investigators-now-believe-the-blackout-began-in-ohio-firstenergy-corporation-which-services-1-4-million-people-in-the-sta.json)  [XML](/news/2003/08/17/major-blackout-investigators-now-believe-the-blackout-began-in-ohio-firstenergy-corporation-which-services-1-4-million-people-in-the-sta.xml)  
+
 ### [2003-08-17](/news/2003/08/17/index.md)
 
+##### North American blackout
 #  Major blackout: investigators now believe the blackout began in Ohio. FirstEnergy Corporation, which services 1.4 million people in the state, released a statement Saturday that three of its transmission lines tripped off at Unit 5 of their Eastlake Plant hours before the blackout, and may have been its cause.
 
 

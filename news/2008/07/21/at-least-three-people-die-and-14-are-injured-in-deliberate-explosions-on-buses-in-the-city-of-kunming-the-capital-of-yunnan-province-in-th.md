@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/21/at-least-three-people-die-and-14-are-injured-in-deliberate-explosions-on-buses-in-the-city-of-kunming-the-capital-of-yunnan-province-in-th.html)  [JSON](/news/2008/07/21/at-least-three-people-die-and-14-are-injured-in-deliberate-explosions-on-buses-in-the-city-of-kunming-the-capital-of-yunnan-province-in-th.json)  [XML](/news/2008/07/21/at-least-three-people-die-and-14-are-injured-in-deliberate-explosions-on-buses-in-the-city-of-kunming-the-capital-of-yunnan-province-in-th.xml)  
+
 ### [2008-07-21](/news/2008/07/21/index.md)
 
+##### bus explosions
 #  At least three people die and 14 are injured in deliberate explosions on buses in the city of Kunming, the capital of Yunnan province in the People's Republic of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/worldNews/idUKPEK26731420080721)
 1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080721&t=2&i=5248761&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-07-21T070542Z_01_PEK267314_RTRUKOP_0_PICTURE0)

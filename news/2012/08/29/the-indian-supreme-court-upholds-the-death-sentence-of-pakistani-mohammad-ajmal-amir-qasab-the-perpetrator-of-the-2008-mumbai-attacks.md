@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/29/the-indian-supreme-court-upholds-the-death-sentence-of-pakistani-mohammad-ajmal-amir-qasab-the-perpetrator-of-the-2008-mumbai-attacks.html)  [JSON](/news/2012/08/29/the-indian-supreme-court-upholds-the-death-sentence-of-pakistani-mohammad-ajmal-amir-qasab-the-perpetrator-of-the-2008-mumbai-attacks.json)  [XML](/news/2012/08/29/the-indian-supreme-court-upholds-the-death-sentence-of-pakistani-mohammad-ajmal-amir-qasab-the-perpetrator-of-the-2008-mumbai-attacks.xml)  
+
 ### [2012-08-29](/news/2012/08/29/index.md)
 
+##### Indian Supreme Court
 # The Indian Supreme Court upholds the death sentence of Pakistani Mohammad Ajmal Amir Qasab, the perpetrator of the 2008 Mumbai attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-19406943)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62545000/jpg/_62545169_62545168.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/21/technocrat-mario-monti-resigns-as-prime-minister-of-italy-after-the-parliamentary-passing-of-italy-s-latest-austerity-budget.html)  [JSON](/news/2012/12/21/technocrat-mario-monti-resigns-as-prime-minister-of-italy-after-the-parliamentary-passing-of-italy-s-latest-austerity-budget.json)  [XML](/news/2012/12/21/technocrat-mario-monti-resigns-as-prime-minister-of-italy-after-the-parliamentary-passing-of-italy-s-latest-austerity-budget.xml)  
+
 ### [2012-12-21](/news/2012/12/21/index.md)
 
+##### Technocrat
 # Technocrat Mario Monti resigns as Prime Minister of Italy after the parliamentary passing of Italy's latest austerity budget. 
 
 Mario Monti resigns as Italian prime minister, officials say, keeping a promise to step down after the passing of his budget in parliament.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/12/20121221162257992718.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-20814796)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/25/the-italian-senate-passes-a-bill-which-the-opposition-claims-is-designed-to-ameliorate-the-legal-troubles-of-prime-minister-silvio-berlusco.html)  [JSON](/news/2008/06/25/the-italian-senate-passes-a-bill-which-the-opposition-claims-is-designed-to-ameliorate-the-legal-troubles-of-prime-minister-silvio-berlusco.json)  [XML](/news/2008/06/25/the-italian-senate-passes-a-bill-which-the-opposition-claims-is-designed-to-ameliorate-the-legal-troubles-of-prime-minister-silvio-berlusco.xml)  
+
 ### [2008-06-25](/news/2008/06/25/index.md)
 
+##### Italian Senate
 #  The Italian Senate passes a bill which the opposition claims is designed to ameliorate the legal troubles of Prime Minister Silvio Berlusconi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7472521.stm)
 

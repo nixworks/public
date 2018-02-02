@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/21/dharun-ravi-the-u-s-student-who-secretly-filmed-the-sexual-activities-of-his-gay-room-mate-tyler-clementi-who-later-committed-suicide-whe.html)  [JSON](/news/2012/05/21/dharun-ravi-the-u-s-student-who-secretly-filmed-the-sexual-activities-of-his-gay-room-mate-tyler-clementi-who-later-committed-suicide-whe.json)  [XML](/news/2012/05/21/dharun-ravi-the-u-s-student-who-secretly-filmed-the-sexual-activities-of-his-gay-room-mate-tyler-clementi-who-later-committed-suicide-whe.xml)  
+
 ### [2012-05-21](/news/2012/05/21/index.md)
 
+##### Dharun Ravi
 # Dharun Ravi, the U.S. student who secretly filmed the sexual activities of his gay room-mate Tyler Clementi, who later committed suicide when the film was exposed, is sentenced to 30 days in prison by a New Jersey judge. Ravi avoids the maximum sentence of 10 years' imprisonment. 
 
 A US student who used a webcam to secretly film his room-mate in a gay encounter is sentenced to 30 days in prison by a judge.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/05/2012521202341749871.html)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-18149395)

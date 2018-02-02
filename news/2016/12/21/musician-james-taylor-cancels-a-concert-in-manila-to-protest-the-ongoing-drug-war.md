@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/21/musician-james-taylor-cancels-a-concert-in-mani
 
 ### [2016-12-21](/news/2016/12/21/index.md)
 
+##### James Taylor
 # Musician James Taylor cancels a concert in Manila to protest the ongoing drug war. 
 
 

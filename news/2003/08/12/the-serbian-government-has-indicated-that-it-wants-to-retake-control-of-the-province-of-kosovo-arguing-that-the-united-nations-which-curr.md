@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/12/the-serbian-government-has-indicated-that-it-wants-to-retake-control-of-the-province-of-kosovo-arguing-that-the-united-nations-which-curr.html)  [JSON](/news/2003/08/12/the-serbian-government-has-indicated-that-it-wants-to-retake-control-of-the-province-of-kosovo-arguing-that-the-united-nations-which-curr.json)  [XML](/news/2003/08/12/the-serbian-government-has-indicated-that-it-wants-to-retake-control-of-the-province-of-kosovo-arguing-that-the-united-nations-which-curr.xml)  
+
 ### [2003-08-12](/news/2003/08/12/index.md)
 
+##### Serbia
 #  The Serbian government has indicated that it wants to retake control of the province of Kosovo, arguing that the United Nations, which currently has control, has failed to reestablish the rule of law.
 
 

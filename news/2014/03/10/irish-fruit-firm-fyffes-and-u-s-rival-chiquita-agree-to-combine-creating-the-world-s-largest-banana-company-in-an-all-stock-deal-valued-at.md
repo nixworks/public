@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/10/irish-fruit-firm-fyffes-and-u-s-rival-chiquita-agree-to-combine-creating-the-world-s-largest-banana-company-in-an-all-stock-deal-valued-at.html)  [JSON](/news/2014/03/10/irish-fruit-firm-fyffes-and-u-s-rival-chiquita-agree-to-combine-creating-the-world-s-largest-banana-company-in-an-all-stock-deal-valued-at.json)  [XML](/news/2014/03/10/irish-fruit-firm-fyffes-and-u-s-rival-chiquita-agree-to-combine-creating-the-world-s-largest-banana-company-in-an-all-stock-deal-valued-at.xml)  
+
 ### [2014-03-10](/news/2014/03/10/index.md)
 
+##### Fyffes
 # Irish fruit firm Fyffes and U.S. rival Chiquita agree to combine, creating the world's largest banana company in an all-stock deal valued at about $1.07 billion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-26511507)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73473000/jpg/_73473915_73473914.jpg)

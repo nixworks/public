@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/19/scientists-withdraw-the-january-29-2014-claim-that-there-is-a-simple-way-to-convert-normal-cells-into-stem-cells-which-can-be-used-for-any.html)  [JSON](/news/2014/12/19/scientists-withdraw-the-january-29-2014-claim-that-there-is-a-simple-way-to-convert-normal-cells-into-stem-cells-which-can-be-used-for-any.json)  [XML](/news/2014/12/19/scientists-withdraw-the-january-29-2014-claim-that-there-is-a-simple-way-to-convert-normal-cells-into-stem-cells-which-can-be-used-for-any.xml)  
+
 ### [2014-12-19](/news/2014/12/19/index.md)
 
+##### convert normal cells
 # Scientists withdraw the January 29, 2014 claim that there is a simple way to convert normal cells into stem cells, which can be used for any part of the body. Nature had in July retracted its two previous articles after the disgraced lead researcher, Japanese Haruko Obokata, was found to have plagiarized and fabricated parts of the papers. 
 
 A disgraced Japanese researcher has failed to replicate results hailed as a potential breakthrough in stem-cell treatment and efforts to do so will be abandoned, officials at her research institute said on Friday.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via FOX News](http://www.foxnews.com/health/2014/12/19/disgraced-japan-researcher-fails-to-replicate-game-changing-stem-cell-results)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/health/2014/12/19/disgraced-japan-researcher-fails-to-replicate-game-changing-stem-cell-results/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1422890555663.jpg?ve=1)

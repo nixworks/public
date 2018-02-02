@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/22/former-chair-of-the-intergovernmental-panel-on-
 
 ### [2016-04-22](/news/2016/04/22/index.md)
 
+##### Intergovernmental Panel on Climate Change
 # Former chair of the Intergovernmental Panel on Climate Change Rajendra K. Pachauri is to face a court in Delhi, India on charges of sexual harassment. Pachauri is accused of stalking, intimidation and sexual assault of a former employee. 
 
 Former head of world climate change body faces raft of accusations in case that will be closely watched in India and abroad

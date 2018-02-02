@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/03/3/in-china-a-dynamite-explosion-in-a-home-of-a-miner-kills-20-people-most-of-them-schoolchildren.html)  [JSON](/news/2005/03/3/in-china-a-dynamite-explosion-in-a-home-of-a-miner-kills-20-people-most-of-them-schoolchildren.json)  [XML](/news/2005/03/3/in-china-a-dynamite-explosion-in-a-home-of-a-miner-kills-20-people-most-of-them-schoolchildren.xml)  
+
 ### [2005-03-3](/news/2005/03/3/index.md)
 
+##### dynamite
 #  In China, a dynamite explosion in a home of a miner kills 20 people, most of them schoolchildren 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4313801.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7791450)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7791450)
 3. [Xinhua](http://news.xinhuanet.com/english/2005-03/03/content_2643274.htm)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

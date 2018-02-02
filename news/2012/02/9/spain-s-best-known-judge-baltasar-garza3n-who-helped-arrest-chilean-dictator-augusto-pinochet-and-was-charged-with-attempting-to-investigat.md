@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/9/spain-s-best-known-judge-baltasar-garza3n-who-helped-arrest-chilean-dictator-augusto-pinochet-and-was-charged-with-attempting-to-investigat.html)  [JSON](/news/2012/02/9/spain-s-best-known-judge-baltasar-garza3n-who-helped-arrest-chilean-dictator-augusto-pinochet-and-was-charged-with-attempting-to-investigat.json)  [XML](/news/2012/02/9/spain-s-best-known-judge-baltasar-garza3n-who-helped-arrest-chilean-dictator-augusto-pinochet-and-was-charged-with-attempting-to-investigat.xml)  
+
 ### [2012-02-9](/news/2012/02/9/index.md)
 
+##### Baltasar Garzon
 # Spain's best-known judge Baltasar Garzon, who helped arrest Chilean dictator Augusto Pinochet and was charged with attempting to investigate Franco-era crimes against humanity, is banned from the legal profession for 11 years, without appeal, for illegal wire-tapping. 
 
 Judge found guilty of ordering illegal recordings in corruption case and suspended from bench for 11 years.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://www.aljazeera.com/news/europe/2012/02/20122913177208508.html)
 2. [BBC](http://www.bbc.co.uk/news/world-16965790)

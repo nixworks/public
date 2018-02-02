@@ -1,20 +1,23 @@
+
+Formats: [HTML](/news/2004/04/11/an-informal-ceasefire-holds-muhammad-bashar-al-fiyadi-spokesperson-of-the-association-of-muslim-scholars-notes-that-there-were-minor-ski.html)  [JSON](/news/2004/04/11/an-informal-ceasefire-holds-muhammad-bashar-al-fiyadi-spokesperson-of-the-association-of-muslim-scholars-notes-that-there-were-minor-ski.json)  [XML](/news/2004/04/11/an-informal-ceasefire-holds-muhammad-bashar-al-fiyadi-spokesperson-of-the-association-of-muslim-scholars-notes-that-there-were-minor-ski.xml)  
+
 ### [2004-04-11](/news/2004/04/11/index.md)
 
+##### Muhammad Bashar al-Fiyadi
 #  An informal ceasefire holds; Muhammad Bashar al-Fiyadi, spokesperson of the Association of Muslim Scholars, notes that there were minor skirmishes but there were no major clashes. A deputy to a member in the Iraq Interim Governing Council states the truce would be extended for another 12 hours. 
 
-Reuters.com is your online source for the latest U.S. news stories from coast to coast and stay current on the events that shape our nation.
 
 
-### Source:
+
+### Sources:
 
 1. [AFP](http://www.abc.net.au/news/newsitems/s1085405.htm)
 2. [Al Jazeera](http://english.aljazeera.net/NR/exeres/030691E0-2837-4167-9A18-B6FE7E1EC4FA.htm)
 3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3615703.stm)
 4. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3618949.stm)
 5. [Reuters](http://wireservice.wired.com/wired/story.asp?section=Breaking&storyId=849579&tw=wn_wire_story)
-6. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=4798648&section=news)
+6. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=4798648&section=news)
 7. [Tribune India](http://www.tribuneindia.com/2004/20040412/main6.htm)
-7. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

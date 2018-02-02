@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/18/a-bomb-in-a-shi-ite-mosque-in-the-pakistani-city-of-rawalpindi-kills-at-least-two-people-and-injures-six.html)  [JSON](/news/2015/02/18/a-bomb-in-a-shi-ite-mosque-in-the-pakistani-city-of-rawalpindi-kills-at-least-two-people-and-injures-six.json)  [XML](/news/2015/02/18/a-bomb-in-a-shi-ite-mosque-in-the-pakistani-city-of-rawalpindi-kills-at-least-two-people-and-injures-six.xml)  
+
 ### [2015-02-18](/news/2015/02/18/index.md)
 
+##### Shi'ite
 # A bomb in a Shi'ite mosque in the Pakistani city of Rawalpindi kills at least two people and injures six. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/2015/02/18/pakistan-militants-bombing-idINKBN0LM1CB20150218?feedType=RSS&feedName=topNews)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/18/a-bomb-kills-one-person-and-clashes-break-out-in-bangladesh-between-security-and-opposition-protesters-during-the-40th-anniversary-of-the-co.html)  [JSON](/news/2011/12/18/a-bomb-kills-one-person-and-clashes-break-out-in-bangladesh-between-security-and-opposition-protesters-during-the-40th-anniversary-of-the-co.json)  [XML](/news/2011/12/18/a-bomb-kills-one-person-and-clashes-break-out-in-bangladesh-between-security-and-opposition-protesters-during-the-40th-anniversary-of-the-co.xml)  
+
 ### [2011-12-18](/news/2011/12/18/index.md)
 
+##### Bangladesh
 # A bomb kills one person and clashes break out in Bangladesh between security and opposition protesters during the 40th anniversary of the country's independence. 
 
 Crude bomb explosion kills one person, as opposition activists clash with police in the capital, Dhaka.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2011/12/2011121810314023624.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/18/20111218103629333621_20.jpg)

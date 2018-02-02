@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/15/the-outcome-of-the-australian-marriage-law-post
 
 ### [2017-11-15](/news/2017/11/15/index.md)
 
+##### Australian Marriage Law Postal Survey
 # The outcome of the Australian Marriage Law Postal Survey is announced with 61.6% voting yes to allow same-sex marriage with 79.5% of Australian voters participating. 
 
 Join us for our live coverage of the same-sex marriage postal survey verdict.

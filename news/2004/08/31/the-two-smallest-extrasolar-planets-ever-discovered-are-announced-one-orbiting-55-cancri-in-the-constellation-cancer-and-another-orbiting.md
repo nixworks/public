@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/08/31/the-two-smallest-extrasolar-planets-ever-discovered-are-announced-one-orbiting-55-cancri-in-the-constellation-cancer-and-another-orbiting.html)  [JSON](/news/2004/08/31/the-two-smallest-extrasolar-planets-ever-discovered-are-announced-one-orbiting-55-cancri-in-the-constellation-cancer-and-another-orbiting.json)  [XML](/news/2004/08/31/the-two-smallest-extrasolar-planets-ever-discovered-are-announced-one-orbiting-55-cancri-in-the-constellation-cancer-and-another-orbiting.xml)  
+
 ### [2004-08-31](/news/2004/08/31/index.md)
 
+##### extrasolar planet
 #  The two smallest extrasolar planets ever discovered are announced: one orbiting 55 Cancri in the constellation Cancer, and another orbiting Gliese 436 in the constellation Leo. They are both around the size of Neptune. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20040831.wplanet20831a/BNStory/specialScienceandHealth/)
+1. [Globe and Mail](https://www.theglobeandmail.com/servlet/story/RTGAM.20040831.wplanet20831a/BNStory/specialScienceandHealth/)
 
 ### Related:
 

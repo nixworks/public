@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2013/12/19/a-prosecutor-alleges-in-a-london-court-that-the-duke-and-duchess-of-cambridge-s-phones-were-hacked-by-the-now-defunct-news-of-the-world.html)  [JSON](/news/2013/12/19/a-prosecutor-alleges-in-a-london-court-that-the-duke-and-duchess-of-cambridge-s-phones-were-hacked-by-the-now-defunct-news-of-the-world.json)  [XML](/news/2013/12/19/a-prosecutor-alleges-in-a-london-court-that-the-duke-and-duchess-of-cambridge-s-phones-were-hacked-by-the-now-defunct-news-of-the-world.xml)  
+
 ### [2013-12-19](/news/2013/12/19/index.md)
 
+##### London
 # A prosecutor alleges in a London court that the Duke and Duchess of Cambridge's phones were hacked by the now-defunct "News of the World". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/12/19/world/europe/uk-phone-hacking-middleton/)
+
+### Changes:
+
+1. [Phone hacking scandal:A prosecutor alleges in a London court that the Duke and Duchess of Cambridge's phones were hacked by the now-defunct ''News of the World''. ](/news/2013/12/19/phone-hacking-scandal-pa-prosecutor-alleges-in-a-london-court-that-the-duke-and-duchess-of-cambridge-s-phones-were-hacked-by-the-now-defunct.md) _2017-08-25 03:39:44 (First version)_
+2. [Phone hacking scandal:: A prosecutor alleges in a London court that the Duke and Duchess of Cambridge's phones were hacked by the now-defunct "News of the World". ](/news/2013/12/19/phone-hacking-scandal-a-prosecutor-alleges-in-a-london-court-that-the-duke-and-duchess-of-cambridge-s-phones-were-hacked-by-the-now-defunc.md) _2017-08-27 03:40:02 (Update)_
+2. [A prosecutor alleges in a London court that the Duke and Duchess of Cambridge's phones were hacked by the now-defunct "News of the World". ](/news/2013/12/19/a-prosecutor-alleges-in-a-london-court-that-the-duke-and-duchess-of-cambridge-s-phones-were-hacked-by-the-now-defunct-news-of-the-world.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [Clarence House confirms that the Duke and Duchess of Cambridge are expecting their second child. ](/news/2014/09/8/clarence-house-confirms-that-the-duke-and-duchess-of-cambridge-are-expecting-their-second-child.md) _Context: Catherine, Duchess of Cambridge, Duke of Cambridge_
 4. [Jacintha Saldanha, a nurse at a London hospital, who took a hoax call from 2Day FM prankers about the Duchess of Cambridge, is found dead in a suspected suicide. ](/news/2012/12/7/jacintha-saldanha-a-nurse-at-a-london-hospital-who-took-a-hoax-call-from-2day-fm-prankers-about-the-duchess-of-cambridge-is-found-dead-in.md) _Context: Catherine, Duchess of Cambridge, London_
 5. [London's King Edward VII's Hospital says it is reviewing telephone protocol after two disc jockeys from a Sydney-based radio station, 2Day FM made a prank call to the hospital in which they posed as Queen Elizabeth and Prince Charles, and spoke with a member of nursing staff about the health of the Duchess of Cambridge. ](/news/2012/12/5/london-s-king-edward-vii-s-hospital-says-it-is-reviewing-telephone-protocol-after-two-disc-jockeys-from-a-sydney-based-radio-station-2day-f.md) _Context: Catherine, Duchess of Cambridge, London_
-
-### Changes:
-
-1. [Phone hacking scandal:A prosecutor alleges in a London court that the Duke and Duchess of Cambridge's phones were hacked by the now-defunct ''News of the World''. ](/news/2013/12/19/phone-hacking-scandal-pa-prosecutor-alleges-in-a-london-court-that-the-duke-and-duchess-of-cambridge-s-phones-were-hacked-by-the-now-defunct.md) _2017-08-25 03:39:44 (First version)_
-2. [Phone hacking scandal:: A prosecutor alleges in a London court that the Duke and Duchess of Cambridge's phones were hacked by the now-defunct "News of the World". ](/news/2013/12/19/phone-hacking-scandal-a-prosecutor-alleges-in-a-london-court-that-the-duke-and-duchess-of-cambridge-s-phones-were-hacked-by-the-now-defunc.md) _2017-08-27 03:40:02 (Update)_
-2. [A prosecutor alleges in a London court that the Duke and Duchess of Cambridge's phones were hacked by the now-defunct "News of the World". ](/news/2013/12/19/a-prosecutor-alleges-in-a-london-court-that-the-duke-and-duchess-of-cambridge-s-phones-were-hacked-by-the-now-defunct-news-of-the-world.md) _(Current version)_

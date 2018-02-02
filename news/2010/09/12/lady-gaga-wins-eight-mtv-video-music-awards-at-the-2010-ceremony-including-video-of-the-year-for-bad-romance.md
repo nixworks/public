@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/12/lady-gaga-wins-eight-mtv-video-music-awards-at-the-2010-ceremony-including-video-of-the-year-for-bad-romance.html)  [JSON](/news/2010/09/12/lady-gaga-wins-eight-mtv-video-music-awards-at-the-2010-ceremony-including-video-of-the-year-for-bad-romance.json)  [XML](/news/2010/09/12/lady-gaga-wins-eight-mtv-video-music-awards-at-the-2010-ceremony-including-video-of-the-year-for-bad-romance.xml)  
+
 ### [2010-09-12](/news/2010/09/12/index.md)
 
+##### Lady Gaga
 # Lady Gaga wins eight MTV Video Music Awards at the 2010 ceremony including Video of the Year for "Bad Romance". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MTV](http://www.mtv.com/news/articles/1647678/20100913/lady_gaga.jhtml)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/21/french-president-jacques-chirac-demands-improved-hospital-security-after-two-nurses-are-killed-a-suspected-mental-patient-was-released.html)  [JSON](/news/2004/12/21/french-president-jacques-chirac-demands-improved-hospital-security-after-two-nurses-are-killed-a-suspected-mental-patient-was-released.json)  [XML](/news/2004/12/21/french-president-jacques-chirac-demands-improved-hospital-security-after-two-nurses-are-killed-a-suspected-mental-patient-was-released.xml)  
+
 ### [2004-12-21](/news/2004/12/21/index.md)
 
+##### Jacques Chirac
 #  French President Jacques Chirac demands improved hospital security after two nurses are killed. A suspected mental patient was released. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L20233609.htm)
 

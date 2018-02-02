@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/15/prince-philip-duke-of-edinburgh-is-taken-to-hospital-as-a-precautionary-measure-after-a-recurrence-of-a-bladder-infection-that-affected-h.html)  [JSON](/news/2012/08/15/prince-philip-duke-of-edinburgh-is-taken-to-hospital-as-a-precautionary-measure-after-a-recurrence-of-a-bladder-infection-that-affected-h.json)  [XML](/news/2012/08/15/prince-philip-duke-of-edinburgh-is-taken-to-hospital-as-a-precautionary-measure-after-a-recurrence-of-a-bladder-infection-that-affected-h.xml)  
+
 ### [2012-08-15](/news/2012/08/15/index.md)
 
+##### Prince Philip, Duke of Edinburgh
 # Prince Philip, Duke of Edinburgh is taken to hospital as a "precautionary measure" after a recurrence of a bladder infection that affected him earlier in the year. 
 
 The Duke of Edinburgh has been taken to hospital as a &quot;precautionary measure&quot; after a recurrence of a bladder infection, Buckingham Palace says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-19273969)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62306000/jpg/_62306285_phil1.jpg)

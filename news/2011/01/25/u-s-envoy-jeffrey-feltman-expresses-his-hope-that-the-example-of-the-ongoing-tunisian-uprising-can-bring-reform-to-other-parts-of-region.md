@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/25/u-s-envoy-jeffrey-feltman-expresses-his-hope-that-the-example-of-the-ongoing-tunisian-uprising-can-bring-reform-to-other-parts-of-region.html)  [JSON](/news/2011/01/25/u-s-envoy-jeffrey-feltman-expresses-his-hope-that-the-example-of-the-ongoing-tunisian-uprising-can-bring-reform-to-other-parts-of-region.json)  [XML](/news/2011/01/25/u-s-envoy-jeffrey-feltman-expresses-his-hope-that-the-example-of-the-ongoing-tunisian-uprising-can-bring-reform-to-other-parts-of-region.xml)  
+
 ### [2011-01-25](/news/2011/01/25/index.md)
 
+##### Jeffrey Feltman
 # U.S. envoy Jeffrey Feltman expresses his hope that the "example" of the ongoing Tunisian uprising can bring reform to other parts of region, despite U.S. backing for the deposed Zine El Abidine Ben Ali regime. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/2011125152635550548.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/25/2011125155534877360_20.jpg)

@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2015/06/23/amazon-com-announces-that-it-is-removing-confederate-flag-merchandise-from-sale-following-the-shootings.html)  [JSON](/news/2015/06/23/amazon-com-announces-that-it-is-removing-confederate-flag-merchandise-from-sale-following-the-shootings.json)  [XML](/news/2015/06/23/amazon-com-announces-that-it-is-removing-confederate-flag-merchandise-from-sale-following-the-shootings.xml)  
+
 ### [2015-06-23](/news/2015/06/23/index.md)
 
+##### Charleston church shooting
 # Amazon.com announces that it is removing Confederate Flag merchandise from sale following the shootings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Time](http://time.com/3932645/amazon-confederate-flags/)
+
+### Changes:
+
+1. [Charleston church shooting: Amazon.com announces that it is removing Confederate Flag merchandise from sale following the shootings. ](/news/2015/06/23/charleston-church-shooting-amazon-com-announces-that-it-is-removing-confederate-flag-merchandise-from-sale-following-the-shootings.md) _2017-08-27 03:42:34 (First version)_
+1. [Amazon.com announces that it is removing Confederate Flag merchandise from sale following the shootings. ](/news/2015/06/23/amazon-com-announces-that-it-is-removing-confederate-flag-merchandise-from-sale-following-the-shootings.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [Amazon agrees to buy Whole Foods Market for $13.7 billion. The takeover deal is expected to be completed in the second half of the year. ](/news/2017/06/16/amazon-agrees-to-buy-whole-foods-market-for-13-7-billion-the-takeover-deal-is-expected-to-be-completed-in-the-second-half-of-the-year.md) _Context: Amazon.com_
 4. [Seattle-based Amazon.com says it will create 15,000 new full-time jobs across Europe by the end of 2017, increasing its European workforce by approximately 30 percent. ](/news/2017/02/20/seattle-based-amazon-com-says-it-will-create-15-000-new-full-time-jobs-across-europe-by-the-end-of-2017-increasing-its-european-workforce-b.md) _Context: Amazon.com_
 5. [American Dylann Roof is sentenced to death for the Charleston church shooting in which nine people were killed. ](/news/2017/01/10/american-dylann-roof-is-sentenced-to-death-for-the-charleston-church-shooting-in-which-nine-people-were-killed.md) _Context: Charleston church shooting_
-
-### Changes:
-
-1. [Charleston church shooting: Amazon.com announces that it is removing Confederate Flag merchandise from sale following the shootings. ](/news/2015/06/23/charleston-church-shooting-amazon-com-announces-that-it-is-removing-confederate-flag-merchandise-from-sale-following-the-shootings.md) _2017-08-27 03:42:34 (First version)_
-1. [Amazon.com announces that it is removing Confederate Flag merchandise from sale following the shootings. ](/news/2015/06/23/amazon-com-announces-that-it-is-removing-confederate-flag-merchandise-from-sale-following-the-shootings.md) _(Current version)_

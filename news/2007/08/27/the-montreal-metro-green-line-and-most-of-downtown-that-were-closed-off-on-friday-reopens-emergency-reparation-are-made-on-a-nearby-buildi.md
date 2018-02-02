@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/27/the-montreal-metro-green-line-and-most-of-downtown-that-were-closed-off-on-friday-reopens-emergency-reparation-are-made-on-a-nearby-buildi.html)  [JSON](/news/2007/08/27/the-montreal-metro-green-line-and-most-of-downtown-that-were-closed-off-on-friday-reopens-emergency-reparation-are-made-on-a-nearby-buildi.json)  [XML](/news/2007/08/27/the-montreal-metro-green-line-and-most-of-downtown-that-were-closed-off-on-friday-reopens-emergency-reparation-are-made-on-a-nearby-buildi.xml)  
+
 ### [2007-08-27](/news/2007/08/27/index.md)
 
+##### Montreal Metro
 #  The Montreal Metro Green Line and most of Downtown that were closed off on Friday reopens. Emergency reparation are made on a nearby building whose concrete side panels were in danger of falling off. The Bay considers suing the city, alleging that construction work is the source of the cracks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/montreal/story/2007/08/26/montreal-tunnel.html)
 2. [Radio-Canada](http://www.radio-canada.ca/regions/Montreal/2007/08/27/001-centre-ville-LUNDI_n.shtml)

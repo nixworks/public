@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/31/sony-advises-that-it-plans-to-restore-the-playstation-network-by-the-weekend-in-all-markets-except-japan-south-korea-and-hong-kong.html)  [JSON](/news/2011/05/31/sony-advises-that-it-plans-to-restore-the-playstation-network-by-the-weekend-in-all-markets-except-japan-south-korea-and-hong-kong.json)  [XML](/news/2011/05/31/sony-advises-that-it-plans-to-restore-the-playstation-network-by-the-weekend-in-all-markets-except-japan-south-korea-and-hong-kong.xml)  
+
 ### [2011-05-31](/news/2011/05/31/index.md)
 
+##### Sony
 # Sony advises that it plans to restore the PlayStation Network by the weekend in all markets except Japan, South Korea and Hong Kong. 
 
 Sony plans to restore all its PlayStation Network services by this weekend in all regions except Japan, South Korea, and Hong Kong, the company said Tuesday. 
 
 
-### Source:
+### Sources:
 
 1. [Tech World](http://www.techworld.com.au/article/388414/sony_playstation_network_fully_restored_by_weekend/)
 1. [Cover Image](https://dv3ta1lexo3ac.cloudfront.net/dimg/600x600//idg_sites/logos/techworld_3.png)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/14/international-astronomical-union-s-working-group-for-planetary-system-nomenclature-classifies-makemake-as-the-newest-dwarf-planet.html)  [JSON](/news/2008/07/14/international-astronomical-union-s-working-group-for-planetary-system-nomenclature-classifies-makemake-as-the-newest-dwarf-planet.json)  [XML](/news/2008/07/14/international-astronomical-union-s-working-group-for-planetary-system-nomenclature-classifies-makemake-as-the-newest-dwarf-planet.xml)  
+
 ### [2008-07-14](/news/2008/07/14/index.md)
 
+##### International Astronomical Union
 #  International Astronomical Union's Working Group for Planetary System Nomenclature classifies Makemake as the newest dwarf planet. 
 
 In 2003, astronomer Mike Brown and his team from Caltech began a discovery process which would change the way we think of our Solar System. Initially, it w
 
 
-### Source:
+### Sources:
 
 1. [Universe Today](http://www.universetoday.com/2008/07/14/newest-dwarf-planet-and-plutoid-makemake/)
 1. [Cover Image](http://www.universetoday.com/wp-content/uploads/2008/07/Makemake.jpg)

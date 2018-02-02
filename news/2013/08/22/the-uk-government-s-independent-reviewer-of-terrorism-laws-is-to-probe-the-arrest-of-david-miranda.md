@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/22/the-uk-government-s-independent-reviewer-of-terrorism-laws-is-to-probe-the-arrest-of-david-miranda.html)  [JSON](/news/2013/08/22/the-uk-government-s-independent-reviewer-of-terrorism-laws-is-to-probe-the-arrest-of-david-miranda.json)  [XML](/news/2013/08/22/the-uk-government-s-independent-reviewer-of-terrorism-laws-is-to-probe-the-arrest-of-david-miranda.xml)  
+
 ### [2013-08-22](/news/2013/08/22/index.md)
 
+##### 10 Downing Street
 # The UK government's independent reviewer of terrorism laws is to probe the arrest of David Miranda. 
 
 Examination of material seized from David Miranda at Heathrow airport under anti-terror laws can only take place for national security reasons, judges rule as an official starts to review his detention.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-23790578)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69382000/jpg/_69382725_69382724.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/3/madison-wisconsin-becomes-one-of-the-first-cities-in-the-united-states-to-make-discrimination-against-atheists-illegal.html)  [JSON](/news/2015/05/3/madison-wisconsin-becomes-one-of-the-first-cities-in-the-united-states-to-make-discrimination-against-atheists-illegal.json)  [XML](/news/2015/05/3/madison-wisconsin-becomes-one-of-the-first-cities-in-the-united-states-to-make-discrimination-against-atheists-illegal.xml)  
+
 ### [2015-05-3](/news/2015/05/3/index.md)
 
+##### Madison, Wisconsin
 # Madison, Wisconsin, becomes one of the first cities in the United States to make discrimination against atheists illegal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP, via MSN](http://www.msn.com/en-us/news/us/madison-bans-discrimination-against-atheists-non-religious/ar-BBj7sqi)
 

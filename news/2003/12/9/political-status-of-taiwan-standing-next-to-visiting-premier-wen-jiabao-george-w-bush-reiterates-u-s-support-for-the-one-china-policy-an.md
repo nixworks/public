@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/9/political-status-of-taiwan-standing-next-to-visiting-premier-wen-jiabao-george-w-bush-reiterates-u-s-support-for-the-one-china-policy-an.html)  [JSON](/news/2003/12/9/political-status-of-taiwan-standing-next-to-visiting-premier-wen-jiabao-george-w-bush-reiterates-u-s-support-for-the-one-china-policy-an.json)  [XML](/news/2003/12/9/political-status-of-taiwan-standing-next-to-visiting-premier-wen-jiabao-george-w-bush-reiterates-u-s-support-for-the-one-china-policy-an.xml)  
+
 ### [2003-12-9](/news/2003/12/9/index.md)
 
+##### relations
 # Political status of Taiwan: Standing next to visiting Premier Wen Jiabao, George W. Bush reiterates U.S. support for the one China policy and states that he opposes holding a referendum on Taiwan. 
 
 

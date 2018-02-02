@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/4/the-jury-retires-to-consider-its-verdict-in-the-trial-of-dr-conrad-murray-for-the-alleged-involuntary-manslaughter-of-u-s-entertainer-micha.html)  [JSON](/news/2011/11/4/the-jury-retires-to-consider-its-verdict-in-the-trial-of-dr-conrad-murray-for-the-alleged-involuntary-manslaughter-of-u-s-entertainer-micha.json)  [XML](/news/2011/11/4/the-jury-retires-to-consider-its-verdict-in-the-trial-of-dr-conrad-murray-for-the-alleged-involuntary-manslaughter-of-u-s-entertainer-micha.xml)  
+
 ### [2011-11-4](/news/2011/11/4/index.md)
 
+##### Conrad Murray
 # The jury retires to consider its verdict in the trial of Dr Conrad Murray for the alleged involuntary manslaughter of U.S. entertainer Michael Jackson. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/11/04/justice/california-conrad-murray-trial/?hpt=us_c2)
 

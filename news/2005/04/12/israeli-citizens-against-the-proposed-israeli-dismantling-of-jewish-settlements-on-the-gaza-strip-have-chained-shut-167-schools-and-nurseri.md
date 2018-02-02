@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/12/israeli-citizens-against-the-proposed-israeli-dismantling-of-jewish-settlements-on-the-gaza-strip-have-chained-shut-167-schools-and-nurseri.html)  [JSON](/news/2005/04/12/israeli-citizens-against-the-proposed-israeli-dismantling-of-jewish-settlements-on-the-gaza-strip-have-chained-shut-167-schools-and-nurseri.json)  [XML](/news/2005/04/12/israeli-citizens-against-the-proposed-israeli-dismantling-of-jewish-settlements-on-the-gaza-strip-have-chained-shut-167-schools-and-nurseri.xml)  
+
 ### [2005-04-12](/news/2005/04/12/index.md)
 
+##### Israel
 #  Israeli citizens against the proposed Israeli dismantling of Jewish settlements on the Gaza Strip have chained shut 167 schools and nurseries in Tel Aviv as part of their protest. The Fire Service quickly cut through the chains. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4436019.stm)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/564043.html)

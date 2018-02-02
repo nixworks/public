@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/01/31/in-the-netherlands-a-scottish-court-convicts-a-libyan-and-acquits-another-for-their-part-in-the-bombing-of-pan-am-flight-103-which-crashed.html)  [JSON](/news/2001/01/31/in-the-netherlands-a-scottish-court-convicts-a-libyan-and-acquits-another-for-their-part-in-the-bombing-of-pan-am-flight-103-which-crashed.json)  [XML](/news/2001/01/31/in-the-netherlands-a-scottish-court-convicts-a-libyan-and-acquits-another-for-their-part-in-the-bombing-of-pan-am-flight-103-which-crashed.xml)  
+
 ### [2001-01-31](/news/2001/01/31/index.md)
 
+##### Scotland
 #  In the Netherlands a Scottish court convicts a Libyan and acquits another for their part in the bombing of Pan Am Flight 103 which crashed into Lockerbie, Scotland, in 1988.
 
 

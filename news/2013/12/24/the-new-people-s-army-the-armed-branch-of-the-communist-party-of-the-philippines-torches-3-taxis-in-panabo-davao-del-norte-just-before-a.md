@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/24/the-new-people-s-army-the-armed-branch-of-the-communist-party-of-the-philippines-torches-3-taxis-in-panabo-davao-del-norte-just-before-a.html)  [JSON](/news/2013/12/24/the-new-people-s-army-the-armed-branch-of-the-communist-party-of-the-philippines-torches-3-taxis-in-panabo-davao-del-norte-just-before-a.json)  [XML](/news/2013/12/24/the-new-people-s-army-the-armed-branch-of-the-communist-party-of-the-philippines-torches-3-taxis-in-panabo-davao-del-norte-just-before-a.xml)  
+
 ### [2013-12-24](/news/2013/12/24/index.md)
 
+##### New People's Army
 # The New People's Army, the armed branch of the Communist Party of the Philippines, torches 3 taxis in Panabo, Davao del Norte, just before a Christmas 'truce'. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [GMA News](http://www.gmanetwork.com/news/story/341152/news/regions/an-hour-before-start-of-their-xmas-truce-npa-rebels-burn-taxis-in-panabo-city)
 

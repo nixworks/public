@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/21/the-islamic-action-front-loses-most-of-its-seats-in-the-2007-jordanian-parliamentary-election.html)  [JSON](/news/2007/11/21/the-islamic-action-front-loses-most-of-its-seats-in-the-2007-jordanian-parliamentary-election.json)  [XML](/news/2007/11/21/the-islamic-action-front-loses-most-of-its-seats-in-the-2007-jordanian-parliamentary-election.xml)  
+
 ### [2007-11-21](/news/2007/11/21/index.md)
 
+##### Islamic Action Front
 #  The Islamic Action Front loses most of its seats in the 2007 Jordanian parliamentary election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/7105281.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/29/park-geun-hye-says-she-is-willing-to-resign-and
 
 ### [2016-11-29](/news/2016/11/29/index.md)
 
+##### 2016 South Korean political scandal
 # Park Geun-hye says she is willing to resign and offers to begin the process of removing herself from power. 
 
 Opposition lawmakers rejected the offer, calling it a ploy, and said they would call for a vote on Friday to impeach Ms. Park, who is embroiled in a corruption scandal.

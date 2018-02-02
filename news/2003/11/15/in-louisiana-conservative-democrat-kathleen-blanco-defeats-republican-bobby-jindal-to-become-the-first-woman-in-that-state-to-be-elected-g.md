@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/15/in-louisiana-conservative-democrat-kathleen-blanco-defeats-republican-bobby-jindal-to-become-the-first-woman-in-that-state-to-be-elected-g.html)  [JSON](/news/2003/11/15/in-louisiana-conservative-democrat-kathleen-blanco-defeats-republican-bobby-jindal-to-become-the-first-woman-in-that-state-to-be-elected-g.json)  [XML](/news/2003/11/15/in-louisiana-conservative-democrat-kathleen-blanco-defeats-republican-bobby-jindal-to-become-the-first-woman-in-that-state-to-be-elected-g.xml)  
+
 ### [2003-11-15](/news/2003/11/15/index.md)
 
+##### Louisiana
 #  In Louisiana, conservative Democrat Kathleen Blanco defeats Republican Bobby Jindal to become the first woman in that state to be elected governor. Jindal is the son of immigrants from India.
 
 

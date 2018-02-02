@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/23/the-large-hadron-collider-near-geneva-is-shut-down-until-the-northern-spring-while-engineers-probe-magnet-failures.html)  [JSON](/news/2008/09/23/the-large-hadron-collider-near-geneva-is-shut-down-until-the-northern-spring-while-engineers-probe-magnet-failures.json)  [XML](/news/2008/09/23/the-large-hadron-collider-near-geneva-is-shut-down-until-the-northern-spring-while-engineers-probe-magnet-failures.xml)  
+
 ### [2008-09-23](/news/2008/09/23/index.md)
 
+##### Large Hadron Collider
 #  The Large Hadron Collider near Geneva is shut down until the northern spring while engineers probe magnet failures. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/science/nature/7632408.stm)
 

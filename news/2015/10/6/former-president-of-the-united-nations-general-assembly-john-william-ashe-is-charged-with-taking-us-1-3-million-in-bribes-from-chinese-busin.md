@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/6/former-president-of-the-united-nations-general-assembly-john-william-ashe-is-charged-with-taking-us-1-3-million-in-bribes-from-chinese-busin.html)  [JSON](/news/2015/10/6/former-president-of-the-united-nations-general-assembly-john-william-ashe-is-charged-with-taking-us-1-3-million-in-bribes-from-chinese-busin.json)  [XML](/news/2015/10/6/former-president-of-the-united-nations-general-assembly-john-william-ashe-is-charged-with-taking-us-1-3-million-in-bribes-from-chinese-busin.xml)  
+
 ### [2015-10-6](/news/2015/10/6/index.md)
 
+##### President of the United Nations General Assembly
 # Former President of the United Nations General Assembly John William Ashe is charged with taking US$1.3 million in bribes from Chinese businessmen. 
 
 A former president of the UN General Assembly, John Ashe, was arrested on Tuesday and charged with taking US$1.3 million in bribes from Chinese businessmen in a corruption scandal that stunned the world body.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Channel News Asia](http://www.channelnewsasia.com/news/world/former-un-general/2174474.html)
 1. [Cover Image](http://www.channelnewsasia.com/image/2174480/1444152359000/large16x9/640/360/john-ashe.jpg)

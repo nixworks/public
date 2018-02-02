@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/27/the-death-toll-from-the-blizzard-that-hit-the-e
 
 ### [2016-01-27](/news/2016/01/27/index.md)
 
+##### January 2016 United States blizzard
 # The death toll from the blizzard that hit the Eastern United States rises to 50. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/15/government-troops-in-thailand-continue-operations-to-end-anti-government-protests-by-red-shirt-protestors-in-the-capital-bangkok.html)  [JSON](/news/2010/05/15/government-troops-in-thailand-continue-operations-to-end-anti-government-protests-by-red-shirt-protestors-in-the-capital-bangkok.json)  [XML](/news/2010/05/15/government-troops-in-thailand-continue-operations-to-end-anti-government-protests-by-red-shirt-protestors-in-the-capital-bangkok.xml)  
+
 ### [2010-05-15](/news/2010/05/15/index.md)
 
+##### Thailand
 # Government troops in Thailand continue operations to end anti-government protests by red shirt protestors in the capital Bangkok. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8684363.stm)
 2. [Bangkok Post](http://www.bangkokpost.com/news/local/37383/pm-vows-no-turning-back-justifies-losses)

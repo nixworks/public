@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/22/malaysia-based-company-aegis-limited-is-criticized-by-the-government-of-the-philippines-for-creating-an-advertisement-that-attacks-the-count.html)  [JSON](/news/2014/09/22/malaysia-based-company-aegis-limited-is-criticized-by-the-government-of-the-philippines-for-creating-an-advertisement-that-attacks-the-count.json)  [XML](/news/2014/09/22/malaysia-based-company-aegis-limited-is-criticized-by-the-government-of-the-philippines-for-creating-an-advertisement-that-attacks-the-count.xml)  
+
 ### [2014-09-22](/news/2014/09/22/index.md)
 
+##### Malaysia
 # Malaysia-based company Aegis Limited is criticized by the government of the Philippines for creating an advertisement that attacks the country. 
 
 The BPO firm says the video was outsourced to another agency
 
 
-### Source:
+### Sources:
 
 1. [Rappler](http://www.rappler.com/business/69843-aegis-sorry-malaysia-marketing-ad)
 1. [Cover Image](http://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/38A6BA838FE840AAB9A1CC813D4AA757/aegis-sorry-for-malaysia-marketing-ad-rappler-20140922_38A6BA838FE840AAB9A1CC813D4AA757.jpg)

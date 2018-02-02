@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/11/a-new-study-suggests-that-regular-aspirin-use-may-reduce-the-risk-of-melanoma-in-women.html)  [JSON](/news/2013/03/11/a-new-study-suggests-that-regular-aspirin-use-may-reduce-the-risk-of-melanoma-in-women.json)  [XML](/news/2013/03/11/a-new-study-suggests-that-regular-aspirin-use-may-reduce-the-risk-of-melanoma-in-women.xml)  
+
 ### [2013-03-11](/news/2013/03/11/index.md)
 
+##### aspirin
 # A new study suggests that regular aspirin use may reduce the risk of melanoma in women. 
 
 This is only the latest benefit for the wonder pill, which has been previously linked to protection against cancers of the bladder, breast, colon, esophagus, ovary, prostate and stomach.
 
 
-### Source:
+### Sources:
 
 1. [Counsel & Heal](http://www.counselheal.com/articles/4294/20130311/aspirin-day-reduce-melanoma-risk-up-30-percent.htm)
 1. [Cover Image](http://images.counselheal.com/data/images/full/2815/aspirin.jpg)

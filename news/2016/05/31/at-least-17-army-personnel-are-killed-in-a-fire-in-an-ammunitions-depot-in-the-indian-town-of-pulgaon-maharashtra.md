@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/31/at-least-17-army-personnel-are-killed-in-a-fire
 
 ### [2016-05-31](/news/2016/05/31/index.md)
 
+##### India
 #  At least 17 army personnel are killed in a fire in an ammunitions depot in the Indian town of Pulgaon, Maharashtra. 
 
 A fire at a massive military ammunition depot in Pulgaon in Maharashtra has killed two Army officers, a jawan and 13 civilian fire fighters. 17 people were injured and reported to be are in stable condition, the Army said today.

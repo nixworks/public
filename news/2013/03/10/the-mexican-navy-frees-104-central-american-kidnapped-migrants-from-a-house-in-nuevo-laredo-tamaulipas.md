@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/03/10/the-mexican-navy-frees-104-central-american-kidnapped-migrants-from-a-house-in-nuevo-laredo-tamaulipas.html)  [JSON](/news/2013/03/10/the-mexican-navy-frees-104-central-american-kidnapped-migrants-from-a-house-in-nuevo-laredo-tamaulipas.json)  [XML](/news/2013/03/10/the-mexican-navy-frees-104-central-american-kidnapped-migrants-from-a-house-in-nuevo-laredo-tamaulipas.xml)  
+
 ### [2013-03-10](/news/2013/03/10/index.md)
 
+##### Mexican Navy
 # The Mexican Navy frees 104 Central American kidnapped migrants from a house in Nuevo Laredo, Tamaulipas. 
 
-Authorities say Mexican marines have freed 104 kidnapped Central American migrants who were being held in a house in the border city of Nuevo Leon.
 
 
-### Source:
 
-1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2013/03/10/mexico-kidnapped-migrants/1977425/)
+### Sources:
+
+1. [AP via ''USA Today](https://www.usatoday.com/story/news/world/2013/03/10/mexico-kidnapped-migrants/1977425/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

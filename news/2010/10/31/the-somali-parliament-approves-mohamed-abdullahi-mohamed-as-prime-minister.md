@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/31/the-somali-parliament-approves-mohamed-abdullahi-mohamed-as-prime-minister.html)  [JSON](/news/2010/10/31/the-somali-parliament-approves-mohamed-abdullahi-mohamed-as-prime-minister.json)  [XML](/news/2010/10/31/the-somali-parliament-approves-mohamed-abdullahi-mohamed-as-prime-minister.xml)  
+
 ### [2010-10-31](/news/2010/10/31/index.md)
 
+##### Somalia
 # The Somali parliament approves Mohamed Abdullahi Mohamed as Prime Minister. 
 
 Somalia&amp;&#x23;039&#x3B;s&#x20;parliament&#x20;has&#x20;approved&#x20;the&#x20;appointment&#x20;of&#x20;Mohamed&#x20;Abdullahii&#x20;Mohamed&#x20;as&#x20;the&#x20;country&amp;&#x23;039&#x3B;s&#x20;new&#x20;prime&#x20;minister.&#x20;Lawmakers&#x20;voted&#x20;by&#x20;297&#x20;to&#x20;92&#x20;in&#x20;favour&#x20;of&#x20;the&#x20;president&amp;&#x23;039&#x3B;s&#x20;nominee,&#x20;who&#x20;is&#x20;a&#x20;US-educated&#x20;former&#x20;diplomat&#x20;from&#x20;the&#x20;Somali&#x20;diaspora.&#x0A;
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/10/2010103112257922232.html)
 2. [RFI](http://www.english.rfi.fr/africa/20101031-somalia-approves-new-prime-minister)

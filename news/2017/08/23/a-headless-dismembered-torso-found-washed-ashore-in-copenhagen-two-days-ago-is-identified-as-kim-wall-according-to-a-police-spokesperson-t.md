@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/08/23/a-headless-dismembered-torso-found-washed-ashore-in-copenhagen-two-days-ago-is-identified-as-kim-wall-according-to-a-police-spokesperson-t.html)  [JSON](/news/2017/08/23/a-headless-dismembered-torso-found-washed-ashore-in-copenhagen-two-days-ago-is-identified-as-kim-wall-according-to-a-police-spokesperson-t.json)  [XML](/news/2017/08/23/a-headless-dismembered-torso-found-washed-ashore-in-copenhagen-two-days-ago-is-identified-as-kim-wall-according-to-a-police-spokesperson-t.xml)  
+
 ### [2017-08-23](/news/2017/08/23/index.md)
 
+##### Kim Wall
 # A headless dismembered torso found washed ashore in Copenhagen two days ago is identified as Kim Wall. According to a police spokesperson, the body was deliberately mutilated and had metal attached to it so that it would not float. 
 
 A Danish inventor is accused of the negligent manslaughter of a Swedish journalist.

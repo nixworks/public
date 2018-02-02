@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/28/around-50-000-people-participate-in-the-puerto-rico-shouts-march-in-san-juan-puerto-rico-demanding-a-budget-agreement-to-avert-a-partial.html)  [JSON](/news/2006/04/28/around-50-000-people-participate-in-the-puerto-rico-shouts-march-in-san-juan-puerto-rico-demanding-a-budget-agreement-to-avert-a-partial.json)  [XML](/news/2006/04/28/around-50-000-people-participate-in-the-puerto-rico-shouts-march-in-san-juan-puerto-rico-demanding-a-budget-agreement-to-avert-a-partial.xml)  
+
 ### [2006-04-28](/news/2006/04/28/index.md)
 
+##### Puerto Rico Shouts march
 #  Around 50,000 people participate in the Puerto Rico Shouts march in San Juan, Puerto Rico, demanding a budget agreement to avert a partial shutdown of government offices and public schools. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.alertnet.org/thenews/newsdesk/N28291933.htm)
 

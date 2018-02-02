@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/26/at-least-26-people-are-dead-and-10-missing-since-wednesday-as-storms-hit-southern-and-central-china.html)  [JSON](/news/2014/05/26/at-least-26-people-are-dead-and-10-missing-since-wednesday-as-storms-hit-southern-and-central-china.json)  [XML](/news/2014/05/26/at-least-26-people-are-dead-and-10-missing-since-wednesday-as-storms-hit-southern-and-central-china.xml)  
+
 ### [2014-05-26](/news/2014/05/26/index.md)
 
+##### China
 # At least 26 people are dead and 10 missing since Wednesday as storms hit southern and central China. 
 
 Storms in southern and central China have left at least 26 people dead and 10 missing, state media says.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-05-27/china-storm-leaves-26-dead/5479774)
 1. [Cover Image](http://www.abc.net.au/news/image/5479788-1x1-700x700.jpg)

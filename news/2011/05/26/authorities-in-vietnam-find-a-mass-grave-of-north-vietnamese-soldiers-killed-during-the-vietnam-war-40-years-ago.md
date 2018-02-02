@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/26/authorities-in-vietnam-find-a-mass-grave-of-north-vietnamese-soldiers-killed-during-the-vietnam-war-40-years-ago.html)  [JSON](/news/2011/05/26/authorities-in-vietnam-find-a-mass-grave-of-north-vietnamese-soldiers-killed-during-the-vietnam-war-40-years-ago.json)  [XML](/news/2011/05/26/authorities-in-vietnam-find-a-mass-grave-of-north-vietnamese-soldiers-killed-during-the-vietnam-war-40-years-ago.xml)  
+
 ### [2011-05-26](/news/2011/05/26/index.md)
 
+##### Vietnam
 # Authorities in Vietnam find a mass grave of North Vietnamese soldiers killed during the Vietnam War 40 years ago. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_672855.html)
 

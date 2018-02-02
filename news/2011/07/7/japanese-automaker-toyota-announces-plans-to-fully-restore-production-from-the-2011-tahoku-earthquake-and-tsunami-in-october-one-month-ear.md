@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/7/japanese-automaker-toyota-announces-plans-to-fully-restore-production-from-the-2011-tahoku-earthquake-and-tsunami-in-october-one-month-ear.html)  [JSON](/news/2011/07/7/japanese-automaker-toyota-announces-plans-to-fully-restore-production-from-the-2011-tahoku-earthquake-and-tsunami-in-october-one-month-ear.json)  [XML](/news/2011/07/7/japanese-automaker-toyota-announces-plans-to-fully-restore-production-from-the-2011-tahoku-earthquake-and-tsunami-in-october-one-month-ear.xml)  
+
 ### [2011-07-7](/news/2011/07/7/index.md)
 
+##### Japan
 # Japanese automaker Toyota announces plans to fully restore production from the 2011 Tohoku earthquake and tsunami in October, one month earlier than previously announced. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Japan Times](http://search.japantimes.co.jp/cgi-bin/nb20110707a1.html)
 

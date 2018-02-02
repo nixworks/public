@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/16/george-osborne-scraps-britain-s-financial-regulator-and-grants-new-powers-to-the-bank-of-england.html)  [JSON](/news/2010/06/16/george-osborne-scraps-britain-s-financial-regulator-and-grants-new-powers-to-the-bank-of-england.json)  [XML](/news/2010/06/16/george-osborne-scraps-britain-s-financial-regulator-and-grants-new-powers-to-the-bank-of-england.xml)  
+
 ### [2010-06-16](/news/2010/06/16/index.md)
 
+##### George Osborne
 # George Osborne scraps Britain's financial regulator and grants new powers to the Bank of England. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/Politics/George-Osbornes-Mansion-House-Speech-FSA-To-Be-Scrapped-Four-New-Bodies-Created/Article/201006315650427?lpos=Politics_Top_Stories_Header_0&lid=ARTICLE_15650427_George_Osbornes_Mansion_House_Speech%3A_FSA_To_Be_Scrapped%2C_Four_New_Bodies_Created)
 

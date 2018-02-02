@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/2/prime-minister-of-new-zealand-john-key-announces-a-general-election-for-november-26-giving-an-unusually-long-notice-for-poll.html)  [JSON](/news/2011/02/2/prime-minister-of-new-zealand-john-key-announces-a-general-election-for-november-26-giving-an-unusually-long-notice-for-poll.json)  [XML](/news/2011/02/2/prime-minister-of-new-zealand-john-key-announces-a-general-election-for-november-26-giving-an-unusually-long-notice-for-poll.xml)  
+
 ### [2011-02-2](/news/2011/02/2/index.md)
 
+##### Prime Minister
 # Prime Minister of New Zealand, John Key, announces a general election for November 26, giving an unusually long notice for poll. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/news/world/new-zealand-calls-election-for-november-26/story-e6frg6so-1225998644017)
 

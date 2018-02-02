@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/22/parmalat-is-likely-to-declare-controlled-administration-as-italian-prime-minister-silvio-berlusconi-said-the-government-would-intervene-a.html)  [JSON](/news/2003/12/22/parmalat-is-likely-to-declare-controlled-administration-as-italian-prime-minister-silvio-berlusconi-said-the-government-would-intervene-a.json)  [XML](/news/2003/12/22/parmalat-is-likely-to-declare-controlled-administration-as-italian-prime-minister-silvio-berlusconi-said-the-government-would-intervene-a.xml)  
+
 ### [2003-12-22](/news/2003/12/22/index.md)
 
+##### Parmalat
 #  Parmalat is likely to declare "controlled administration" as Italian Prime Minister Silvio Berlusconi said the government would intervene and "above all save the industrial part of the company and jobs". [http:--news.bbc.co.uk-1-hi-business-3339459.stm]
 
 

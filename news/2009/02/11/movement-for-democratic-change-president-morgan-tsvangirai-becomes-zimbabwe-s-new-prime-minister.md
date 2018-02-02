@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/11/movement-for-democratic-change-president-morgan-tsvangirai-becomes-zimbabwe-s-new-prime-minister.html)  [JSON](/news/2009/02/11/movement-for-democratic-change-president-morgan-tsvangirai-becomes-zimbabwe-s-new-prime-minister.json)  [XML](/news/2009/02/11/movement-for-democratic-change-president-morgan-tsvangirai-becomes-zimbabwe-s-new-prime-minister.xml)  
+
 ### [2009-02-11](/news/2009/02/11/index.md)
 
+##### Movement for Democratic Change
 #  Movement for Democratic Change President Morgan Tsvangirai becomes Zimbabwe's new Prime Minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7882762.stm)
 

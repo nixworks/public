@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/07/15/two-doctors-arrested-at-the-royal-alexandra-hospital-paisley-scotland-in-connection-with-2007-glasgow-international-airport-attack-were-r.html)  [JSON](/news/2007/07/15/two-doctors-arrested-at-the-royal-alexandra-hospital-paisley-scotland-in-connection-with-2007-glasgow-international-airport-attack-were-r.json)  [XML](/news/2007/07/15/two-doctors-arrested-at-the-royal-alexandra-hospital-paisley-scotland-in-connection-with-2007-glasgow-international-airport-attack-were-r.xml)  
+
 ### [2007-07-15](/news/2007/07/15/index.md)
 
+##### Royal Alexandra Hospital
 #  Two doctors arrested at the Royal Alexandra Hospital, Paisley, Scotland in connection with 2007 Glasgow International Airport attack were released without any charges. 
 
 

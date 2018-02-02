@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/18/the-government-of-hong-kong-unveils-a-new-democratic-political-reform-plan-which-includes-the-expansion-of-the-legislative-council.html)  [JSON](/news/2009/11/18/the-government-of-hong-kong-unveils-a-new-democratic-political-reform-plan-which-includes-the-expansion-of-the-legislative-council.json)  [XML](/news/2009/11/18/the-government-of-hong-kong-unveils-a-new-democratic-political-reform-plan-which-includes-the-expansion-of-the-legislative-council.xml)  
+
 ### [2009-11-18](/news/2009/11/18/index.md)
 
+##### Government of Hong Kong
 #  The Government of Hong Kong unveils a new democratic political reform plan, which includes the expansion of the Legislative Council. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/eastasia/view/1019014/1/.html)
 2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/elocal/news.htm?elocal&20091119&56&627823)

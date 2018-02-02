@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/03/14/spaniard-fernando-alonso-wins-the-2010-bahrain-grand-prix-formula-one-race-brazilian-felipe-massa-comes-in-second.html)  [JSON](/news/2010/03/14/spaniard-fernando-alonso-wins-the-2010-bahrain-grand-prix-formula-one-race-brazilian-felipe-massa-comes-in-second.json)  [XML](/news/2010/03/14/spaniard-fernando-alonso-wins-the-2010-bahrain-grand-prix-formula-one-race-brazilian-felipe-massa-comes-in-second.xml)  
+
 ### [2010-03-14](/news/2010/03/14/index.md)
 
+##### Spain
 # Spaniard Fernando Alonso wins the 2010 Bahrain Grand Prix Formula One race; Brazilian Felipe Massa comes in second. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/reuters/2010/03/14/sports/sports-uk-motor-racing-prix.html)
+1. [The New York Times](https://www.nytimes.com/reuters/2010/03/14/sports/sports-uk-motor-racing-prix.html)
 
 ### Related:
 

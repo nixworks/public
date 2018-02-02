@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/7/two-bombs-explode-in-the-pakistani-city-of-multan-killing-39-people-at-a-memorial-for-murdered-sunni-leader-azam-tariq.html)  [JSON](/news/2004/10/7/two-bombs-explode-in-the-pakistani-city-of-multan-killing-39-people-at-a-memorial-for-murdered-sunni-leader-azam-tariq.json)  [XML](/news/2004/10/7/two-bombs-explode-in-the-pakistani-city-of-multan-killing-39-people-at-a-memorial-for-murdered-sunni-leader-azam-tariq.xml)  
+
 ### [2004-10-7](/news/2004/10/7/index.md)
 
+##### Pakistan
 #  Two bombs explode in the Pakistani city of Multan, killing 39 people at a memorial for murdered Sunni leader Azam Tariq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/3722562.stm)
 

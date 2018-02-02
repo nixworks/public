@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/30/two-russian-pilots-are-abducted-in-sudan-s-western-darfur-region.html)  [JSON](/news/2010/08/30/two-russian-pilots-are-abducted-in-sudan-s-western-darfur-region.json)  [XML](/news/2010/08/30/two-russian-pilots-are-abducted-in-sudan-s-western-darfur-region.xml)  
+
 ### [2010-08-30](/news/2010/08/30/index.md)
 
+##### Russia
 # Two Russian pilots are abducted in Sudan's western Darfur region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11128905)
 2. [RIA Novosti](http://en.rian.ru/russia/20100830/160389224.html)

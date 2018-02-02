@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/24/after-a-40-year-wait-russian-fans-of-the-beatles-finally-get-to-see-former-beatle-paul-mccartney-perform-on-their-soil-on-the-red-square.html)  [JSON](/news/2003/05/24/after-a-40-year-wait-russian-fans-of-the-beatles-finally-get-to-see-former-beatle-paul-mccartney-perform-on-their-soil-on-the-red-square.json)  [XML](/news/2003/05/24/after-a-40-year-wait-russian-fans-of-the-beatles-finally-get-to-see-former-beatle-paul-mccartney-perform-on-their-soil-on-the-red-square.xml)  
+
 ### [2003-05-24](/news/2003/05/24/index.md)
 
+##### Russian
 #  After a 40-year wait, Russian fans of The Beatles finally get to see former Beatle Paul McCartney perform on their soil, on the Red Square in Moscow.
 
 

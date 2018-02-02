@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2013/11/4/german-magazine-focus-reports-the-2012-discovery-of-nazi-plundered-art-worth-a-1-billion-in-munich-including-lost-works-by-picasso-and-m.html)  [JSON](/news/2013/11/4/german-magazine-focus-reports-the-2012-discovery-of-nazi-plundered-art-worth-a-1-billion-in-munich-including-lost-works-by-picasso-and-m.json)  [XML](/news/2013/11/4/german-magazine-focus-reports-the-2012-discovery-of-nazi-plundered-art-worth-a-1-billion-in-munich-including-lost-works-by-picasso-and-m.xml)  
+
 ### [2013-11-4](/news/2013/11/4/index.md)
 
+##### German magazine ''Focus''
 # German magazine "Focus" reports the 2012 discovery of Nazi plundered art worth EUR1 billion in Munich, including lost works by Picasso and Matisse. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw.de/german-authorities-reportedly-discover-1500-paintings-seized-by-nazis/a-17201713)
+
+### Changes:
+
+1. [German magazine ''Focus'' reports the 2012 discovery of Nazi plundered art worth EUR1 billion in Munich, including lost works by Picasso and Matisse. ](/news/2013/11/4/german-magazine-focus-reports-the-2012-discovery-of-nazi-plundered-art-worth-a-1-billion-in-munich-including-lost-works-by-picasso-and.md) _2017-08-25 03:39:29 (First version)_
+2. [German magazine "Focus" reports the 2012 discovery of Nazi plundered art worth -1 billion in Munich, including lost works by Picasso and Matisse. ](/news/2013/11/4/german-magazine-focus-reports-the-2012-discovery-of-nazi-plundered-art-worth-1-billion-in-munich-including-lost-works-by-picasso-and-m.md) _2017-08-27 03:39:46 (Update)_
+2. [German magazine "Focus" reports the 2012 discovery of Nazi plundered art worth EUR1 billion in Munich, including lost works by Picasso and Matisse. ](/news/2013/11/4/german-magazine-focus-reports-the-2012-discovery-of-nazi-plundered-art-worth-a-1-billion-in-munich-including-lost-works-by-picasso-and-m.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [In a speech in Munich, Angela Merkel says that Europe must not rely on its former allies. ](/news/2017/05/28/in-a-speech-in-munich-angela-merkel-says-that-europe-must-not-rely-on-its-former-allies.md) _Context: Munich_
 4. [Munich Police Chief Hubertus Andrae identifies the attacker as a dual national, 18-year-old Iranian-German who apparently acted alone. He was found dead of a suspected self-inflicted gunshot wound to his head. ](/news/2016/07/23/munich-police-chief-hubertus-andrae-identifies-the-attacker-as-a-dual-national-18-year-old-iranian-german-who-apparently-acted-alone-he-wa.md) _Context: Munich_
 5. [Ten people, including the gunman, are killed and 21 wounded in a shooting in and around the Olympia-Einkaufszentrum shopping mall in the Moosach district of Munich, Germany, next to the Olympic stadium.](/news/2016/07/22/ten-people-including-the-gunman-are-killed-and-21-wounded-in-a-shooting-in-and-around-the-olympia-einkaufszentrum-shopping-mall-in-the-moo.md) _Context: Munich_
-
-### Changes:
-
-1. [German magazine ''Focus'' reports the 2012 discovery of Nazi plundered art worth EUR1 billion in Munich, including lost works by Picasso and Matisse. ](/news/2013/11/4/german-magazine-focus-reports-the-2012-discovery-of-nazi-plundered-art-worth-a-1-billion-in-munich-including-lost-works-by-picasso-and.md) _2017-08-25 03:39:29 (First version)_
-2. [German magazine "Focus" reports the 2012 discovery of Nazi plundered art worth -1 billion in Munich, including lost works by Picasso and Matisse. ](/news/2013/11/4/german-magazine-focus-reports-the-2012-discovery-of-nazi-plundered-art-worth-1-billion-in-munich-including-lost-works-by-picasso-and-m.md) _2017-08-27 03:39:46 (Update)_
-2. [German magazine "Focus" reports the 2012 discovery of Nazi plundered art worth EUR1 billion in Munich, including lost works by Picasso and Matisse. ](/news/2013/11/4/german-magazine-focus-reports-the-2012-discovery-of-nazi-plundered-art-worth-a-1-billion-in-munich-including-lost-works-by-picasso-and-m.md) _(Current version)_

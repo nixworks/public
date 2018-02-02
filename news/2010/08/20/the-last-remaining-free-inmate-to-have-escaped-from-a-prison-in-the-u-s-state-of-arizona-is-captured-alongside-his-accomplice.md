@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/08/20/the-last-remaining-free-inmate-to-have-escaped-from-a-prison-in-the-u-s-state-of-arizona-is-captured-alongside-his-accomplice.html)  [JSON](/news/2010/08/20/the-last-remaining-free-inmate-to-have-escaped-from-a-prison-in-the-u-s-state-of-arizona-is-captured-alongside-his-accomplice.json)  [XML](/news/2010/08/20/the-last-remaining-free-inmate-to-have-escaped-from-a-prison-in-the-u-s-state-of-arizona-is-captured-alongside-his-accomplice.xml)  
+
 ### [2010-08-20](/news/2010/08/20/index.md)
 
+##### U.S. state
 # The last remaining free inmate to have escaped from a prison in the U.S. state of Arizona is captured alongside his accomplice. 
 
 The last of the three inmates who escaped from an Arizona prison was captured with his fiancée on Thursday at a campground, the authorities said.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2010/08/21/us/21inmate.html)
+1. [The New York Times](https://www.nytimes.com/2010/08/21/us/21inmate.html)
 1. [Cover Image](https://static01.nyt.com/images/2010/08/21/us/21inmate-cnd/21inmate-cnd-thumbStandard.jpg)
 
 ### Related:

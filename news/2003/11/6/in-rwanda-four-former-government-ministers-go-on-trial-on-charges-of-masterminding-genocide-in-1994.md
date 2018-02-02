@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/6/in-rwanda-four-former-government-ministers-go-on-trial-on-charges-of-masterminding-genocide-in-1994.html)  [JSON](/news/2003/11/6/in-rwanda-four-former-government-ministers-go-on-trial-on-charges-of-masterminding-genocide-in-1994.json)  [XML](/news/2003/11/6/in-rwanda-four-former-government-ministers-go-on-trial-on-charges-of-masterminding-genocide-in-1994.xml)  
+
 ### [2003-11-6](/news/2003/11/6/index.md)
 
+##### Rwanda
 #  In Rwanda, four former government ministers go on trial on charges of masterminding genocide in 1994.
 
 

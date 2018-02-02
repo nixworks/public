@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/06/30/a-strong-earthquake-hits-the-xinjiang-region-of-western-china-with-rescuers-dispatched-to-search-for-casualties.html)  [JSON](/news/2012/06/30/a-strong-earthquake-hits-the-xinjiang-region-of-western-china-with-rescuers-dispatched-to-search-for-casualties.json)  [XML](/news/2012/06/30/a-strong-earthquake-hits-the-xinjiang-region-of-western-china-with-rescuers-dispatched-to-search-for-casualties.xml)  
+
 ### [2012-06-30](/news/2012/06/30/index.md)
 
+##### Xinjiang
 # A strong earthquake hits the Xinjiang region of western China with rescuers dispatched to search for casualties. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''USA Today](http://www.usatoday.com/news/world/story/2012-06-29/china-earthquake/55930792/1)
+1. [AP via ''USA Today](https://www.usatoday.com/news/world/story/2012-06-29/china-earthquake/55930792/1)
 1. [Cover Image](http://i.usatoday.net/news/_photos/2012/06/29/Strong-earthquake-strikes-west-China-OC1PCR87-x.jpg)
 
 ### Related:

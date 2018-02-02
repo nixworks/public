@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2014/02/23/former-ukrainian-president-viktor-yanukovych-is-blocked-by-ukraine-s-customs-in-donetsk-from-taking-a-plane-to-russia.html)  [JSON](/news/2014/02/23/former-ukrainian-president-viktor-yanukovych-is-blocked-by-ukraine-s-customs-in-donetsk-from-taking-a-plane-to-russia.json)  [XML](/news/2014/02/23/former-ukrainian-president-viktor-yanukovych-is-blocked-by-ukraine-s-customs-in-donetsk-from-taking-a-plane-to-russia.xml)  
+
 ### [2014-02-23](/news/2014/02/23/index.md)
 
+##### Viktor Yanukovych
 # Former Ukrainian President Viktor Yanukovych is blocked by Ukraine's customs in Donetsk from taking a plane to Russia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Moscow Times](http://www.themoscowtimes.com/news/article/yanukovych-blocked-from-leaving-ukraine-speaker-says/495062.html)
+
+### Changes:
+
+1. [Ukrainian Revolution of 2014:Former Ukrainian President Viktor Yanukovych is blocked by Ukraine's customs in Donetsk from taking a plane to Russia. ](/news/2014/02/23/ukrainian-revolution-of-2014-pformer-ukrainian-president-viktor-yanukovych-is-blocked-by-ukraine-s-customs-in-donetsk-from-taking-a-plane-to.md) _2017-08-25 03:40:04 (First version)_
+2. [Ukrainian Revolution of 2014:: Former Ukrainian President Viktor Yanukovych is blocked by Ukraine's customs in Donetsk from taking a plane to Russia. ](/news/2014/02/23/ukrainian-revolution-of-2014-former-ukrainian-president-viktor-yanukovych-is-blocked-by-ukraine-s-customs-in-donetsk-from-taking-a-plane-t.md) _2017-08-27 03:40:22 (Update)_
+2. [Former Ukrainian President Viktor Yanukovych is blocked by Ukraine's customs in Donetsk from taking a plane to Russia. ](/news/2014/02/23/former-ukrainian-president-viktor-yanukovych-is-blocked-by-ukraine-s-customs-in-donetsk-from-taking-a-plane-to-russia.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [A bomb placed in an elevator shaft kills Pro-Russian, high-ranking officer of the Donetsk People's Republic's special forces, Arseny Pavlov, also known as "Motorola", in Donetsk. ](/news/2016/10/16/a-bomb-placed-in-an-elevator-shaft-kills-pro-russian-high-ranking-officer-of-the-donetsk-people-s-republic-s-special-forces-arseny-pavlov.md) _Context: Donetsk_
 4. [Three Ukrainian Army soldiers are killed and eight more are injured around separatist-controlled Donetsk and government-controlled Mariupol by Russian-backed separatists. ](/news/2016/05/30/three-ukrainian-army-soldiers-are-killed-and-eight-more-are-injured-around-separatist-controlled-donetsk-and-government-controlled-mariupol.md) _Context: Donetsk_
 5. [Portraits of former dictator Joseph Stalin go up in the city of Donetsk as the Donetsk People's Republic adopts more Soviet era policies. ](/news/2015/10/19/portraits-of-former-dictator-joseph-stalin-go-up-in-the-city-of-donetsk-as-the-donetsk-people-s-republic-adopts-more-soviet-era-policies.md) _Context: Donetsk_
-
-### Changes:
-
-1. [Ukrainian Revolution of 2014:Former Ukrainian President Viktor Yanukovych is blocked by Ukraine's customs in Donetsk from taking a plane to Russia. ](/news/2014/02/23/ukrainian-revolution-of-2014-pformer-ukrainian-president-viktor-yanukovych-is-blocked-by-ukraine-s-customs-in-donetsk-from-taking-a-plane-to.md) _2017-08-25 03:40:04 (First version)_
-2. [Ukrainian Revolution of 2014:: Former Ukrainian President Viktor Yanukovych is blocked by Ukraine's customs in Donetsk from taking a plane to Russia. ](/news/2014/02/23/ukrainian-revolution-of-2014-former-ukrainian-president-viktor-yanukovych-is-blocked-by-ukraine-s-customs-in-donetsk-from-taking-a-plane-t.md) _2017-08-27 03:40:22 (Update)_
-2. [Former Ukrainian President Viktor Yanukovych is blocked by Ukraine's customs in Donetsk from taking a plane to Russia. ](/news/2014/02/23/former-ukrainian-president-viktor-yanukovych-is-blocked-by-ukraine-s-customs-in-donetsk-from-taking-a-plane-to-russia.md) _(Current version)_

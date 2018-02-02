@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/16/soyuz-tma-06m-three-astronauts-return-safely-to-earth-from-the-international-space-station-aboard-a-russian-capsule.html)  [JSON](/news/2013/03/16/soyuz-tma-06m-three-astronauts-return-safely-to-earth-from-the-international-space-station-aboard-a-russian-capsule.json)  [XML](/news/2013/03/16/soyuz-tma-06m-three-astronauts-return-safely-to-earth-from-the-international-space-station-aboard-a-russian-capsule.xml)  
+
 ### [2013-03-16](/news/2013/03/16/index.md)
 
+##### Soyuz TMA-06M
 # Soyuz TMA-06M: Three astronauts return safely to Earth from the International Space Station aboard a Russian capsule. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via News24](http://news24.com/news24/Technology/News/3-astronauts-return-to-Earth-from-ISS-20130316)
 

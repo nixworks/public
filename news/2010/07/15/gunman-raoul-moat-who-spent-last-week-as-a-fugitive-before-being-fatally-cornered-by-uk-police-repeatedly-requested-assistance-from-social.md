@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/15/gunman-raoul-moat-who-spent-last-week-as-a-fugitive-before-being-fatally-cornered-by-uk-police-repeatedly-requested-assistance-from-social.html)  [JSON](/news/2010/07/15/gunman-raoul-moat-who-spent-last-week-as-a-fugitive-before-being-fatally-cornered-by-uk-police-repeatedly-requested-assistance-from-social.json)  [XML](/news/2010/07/15/gunman-raoul-moat-who-spent-last-week-as-a-fugitive-before-being-fatally-cornered-by-uk-police-repeatedly-requested-assistance-from-social.xml)  
+
 ### [2010-07-15](/news/2010/07/15/index.md)
 
+##### Raoul Moat
 # Gunman Raoul Moat, who spent last week as a fugitive before being fatally cornered by UK police, repeatedly requested assistance from social workers and psychiatrists months before he committed murder but was ignored. 
 
 Gunman Raoul Moat told social workers he wanted to see a psychiatrist months before killing a man and shooting two others, tapes reveal.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-10641225)
 2. [ITN](http://itn.co.uk/7a92435cd7a7dea3dee744476e6c5a61.html)

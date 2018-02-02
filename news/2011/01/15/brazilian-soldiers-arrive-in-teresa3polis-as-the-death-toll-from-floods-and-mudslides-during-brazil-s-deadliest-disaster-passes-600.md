@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/15/brazilian-soldiers-arrive-in-teresa3polis-as-the-death-toll-from-floods-and-mudslides-during-brazil-s-deadliest-disaster-passes-600.html)  [JSON](/news/2011/01/15/brazilian-soldiers-arrive-in-teresa3polis-as-the-death-toll-from-floods-and-mudslides-during-brazil-s-deadliest-disaster-passes-600.json)  [XML](/news/2011/01/15/brazilian-soldiers-arrive-in-teresa3polis-as-the-death-toll-from-floods-and-mudslides-during-brazil-s-deadliest-disaster-passes-600.xml)  
+
 ### [2011-01-15](/news/2011/01/15/index.md)
 
+##### Brazil
 # Brazilian soldiers arrive in Teresopolis as the death toll from floods and mudslides during Brazil's deadliest disaster passes 600. 
 
 Soldiers are deployed to help with the rescue and the identification of bodies in south-eastern Brazil, where at least 600 people have died in landslides and flooding.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/01/20111140122621565.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-12200299)
@@ -17,5 +21,5 @@ Soldiers are deployed to help with the rescue and the identification of bodies i
 1. [The death toll from the Brazilian floods and mudslides reaches at least 765. ](/news/2011/01/19/the-death-toll-from-the-brazilian-floods-and-mudslides-reaches-at-least-765.md) _Context: Brazil, the recent floods and landslides in Rio de Janeiro state_
 2. [Brazil's military increases rescue and supply operations following the worst disaster in the country's history. ](/news/2011/01/18/brazil-s-military-increases-rescue-and-supply-operations-following-the-worst-disaster-in-the-country-s-history.md) _Context: Brazil, the recent floods and landslides in Rio de Janeiro state_
 3. [Further landslides and more rain are feared in Brazil which is dealing with the worst disaster in its history. ](/news/2011/01/16/further-landslides-and-more-rain-are-feared-in-brazil-which-is-dealing-with-the-worst-disaster-in-its-history.md) _Context: Brazil, the recent floods and landslides in Rio de Janeiro state_
-4. [In the town of Janauba, Minas Gerais state, Brazil, a recently dismissed security guard set fire to a childcare center, killing at least four children and a teacher and leaving 25 others, mostly children aged four and five, injured. ](/news/2017/10/5/in-the-town-of-janaaoba-minas-gerais-state-brazil-a-recently-dismissed-security-guard-set-fire-to-a-childcare-center-killing-at-least-fo.md) _Context: Brazil_
-5. [Brazilian police detain fugitive Italian former left-wing guerrilla and convicted murderer Cesare Battisti, as he was attempting to flee across the border into Bolivia to avoid extradition back to Italy and facing his life sentence prison term for four murders in the 1970s. ](/news/2017/10/4/brazilian-police-detain-fugitive-italian-former-left-wing-guerrilla-and-convicted-murderer-cesare-battisti-as-he-was-attempting-to-flee-acr.md) _Context: Brazil_
+4. [The state government of Minas Gerais, Brazil, declares a health emergency in three areas, Belo Horizonte, Itabira and Ponte Nova, over an outbreak of yellow fever. ](/news/2018/01/20/the-state-government-of-minas-gerais-brazil-declares-a-health-emergency-in-three-areas-belo-horizonte-itabira-and-ponte-nova-over-an-ou.md) _Context: Brazil_
+5. [Fifteen people are injured and an infant is killed after a car hits a group of pedestrians near Copacabana Beach in Rio de Janeiro, Brazil. The police report that the driver had an epileptic seizure. ](/news/2018/01/19/fifteen-people-are-injured-and-an-infant-is-killed-after-a-car-hits-a-group-of-pedestrians-near-copacabana-beach-in-rio-de-janeiro-brazil.md) _Context: Brazil_

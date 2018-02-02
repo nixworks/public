@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/6/researchers-at-pittsburgh-pennsylvania-s-carnegie-mellon-university-cmu-successfully-use-a-3-d-printer-specifically-a-fused-deposition.html)  [JSON](/news/2015/11/6/researchers-at-pittsburgh-pennsylvania-s-carnegie-mellon-university-cmu-successfully-use-a-3-d-printer-specifically-a-fused-deposition.json)  [XML](/news/2015/11/6/researchers-at-pittsburgh-pennsylvania-s-carnegie-mellon-university-cmu-successfully-use-a-3-d-printer-specifically-a-fused-deposition.xml)  
+
 ### [2015-11-6](/news/2015/11/6/index.md)
 
+##### Pittsburgh
 # Researchers at Pittsburgh, Pennsylvania's Carnegie Mellon University (CMU) successfully use a 3-D printer (specifically, a fused deposition modeling (FDM) printer) to produce hair-like strands, inspired by the use of a hot glue gun to produce gossamer strands. Also, using certain materials (like collagens, alginates, and fibrins), with a 3-D printer and special bioprinting techniques, another team at CMU produced human coronary arteries and small, embryonic-like human hearts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CMU](http://engineering.cmu.edu/media/feature/2015/10_23_feinberg_paper.html)
 2. [CMU](http://www.cmu.edu/news/stories/archives/2015/october/3-D-printer-hair.html)

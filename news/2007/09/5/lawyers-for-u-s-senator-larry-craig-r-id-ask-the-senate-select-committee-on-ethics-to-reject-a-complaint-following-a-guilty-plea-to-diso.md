@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/5/lawyers-for-u-s-senator-larry-craig-r-id-ask-the-senate-select-committee-on-ethics-to-reject-a-complaint-following-a-guilty-plea-to-diso.html)  [JSON](/news/2007/09/5/lawyers-for-u-s-senator-larry-craig-r-id-ask-the-senate-select-committee-on-ethics-to-reject-a-complaint-following-a-guilty-plea-to-diso.json)  [XML](/news/2007/09/5/lawyers-for-u-s-senator-larry-craig-r-id-ask-the-senate-select-committee-on-ethics-to-reject-a-complaint-following-a-guilty-plea-to-diso.xml)  
+
 ### [2007-09-5](/news/2007/09/5/index.md)
 
+##### United States Senate
 #  Lawyers for U.S. Senator Larry Craig (R-ID) ask the Senate Select Committee on Ethics to reject a complaint following a guilty plea to disorderly conduct charges in Minneapolis. The Ethics Committee rejects his plea. 
 
 Sen. Larry Craig has all but dropped any notion of trying to complete his term, and is focused on helping Idaho send a new senator to Washington within a few weeks, his top spokesman said Thursday
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,295881,00.html)
 2. [UPI](http://www.upi.com/NewsTrack/Top_News/2007/09/05/craig_seeks_to_block_ethics_investigation/7806/)

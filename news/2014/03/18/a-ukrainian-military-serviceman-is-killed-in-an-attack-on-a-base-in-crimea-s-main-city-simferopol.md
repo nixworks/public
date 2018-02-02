@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/18/a-ukrainian-military-serviceman-is-killed-in-an-attack-on-a-base-in-crimea-s-main-city-simferopol.html)  [JSON](/news/2014/03/18/a-ukrainian-military-serviceman-is-killed-in-an-attack-on-a-base-in-crimea-s-main-city-simferopol.json)  [XML](/news/2014/03/18/a-ukrainian-military-serviceman-is-killed-in-an-attack-on-a-base-in-crimea-s-main-city-simferopol.xml)  
+
 ### [2014-03-18](/news/2014/03/18/index.md)
 
+##### Ukrainian military
 # A Ukrainian military serviceman is killed in an attack on a base in Crimea's main city, Simferopol. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Trust](http://www.trust.org/item/20140318155255-owkyc/)
 1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/ec143ba3-a4d6-4976-bd5b-72b9e137d91c/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)

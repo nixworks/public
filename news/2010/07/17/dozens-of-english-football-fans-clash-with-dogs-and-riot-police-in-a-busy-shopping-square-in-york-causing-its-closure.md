@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/17/dozens-of-english-football-fans-clash-with-dogs-and-riot-police-in-a-busy-shopping-square-in-york-causing-its-closure.html)  [JSON](/news/2010/07/17/dozens-of-english-football-fans-clash-with-dogs-and-riot-police-in-a-busy-shopping-square-in-york-causing-its-closure.json)  [XML](/news/2010/07/17/dozens-of-english-football-fans-clash-with-dogs-and-riot-police-in-a-busy-shopping-square-in-york-causing-its-closure.xml)  
+
 ### [2010-07-17](/news/2010/07/17/index.md)
 
+##### York
 # Dozens of English football fans clash with dogs and riot police in a busy shopping square in York, causing its closure. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-york-north-yorkshire-10672838)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

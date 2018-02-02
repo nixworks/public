@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/05/1/bolivia-nationalises-four-electricity-companies.html)  [JSON](/news/2010/05/1/bolivia-nationalises-four-electricity-companies.json)  [XML](/news/2010/05/1/bolivia-nationalises-four-electricity-companies.xml)  
+
 ### [2010-05-1](/news/2010/05/1/index.md)
 
+##### Bolivia
 # Bolivia nationalises four electricity companies. 
 
 Four electricity companies taken over as state expands control of key industries.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/05/201051153755686496.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/8656106.stm)
 3. [Bangkok Post](http://www.bangkokpost.com/business/economics/176537/bolivia-nationalizes-electricity-companies)
-4. [Reuters](http://www.reuters.com/article/businessNews/idUSTRE64013020100501)
+4. [Reuters](https://www.reuters.com/article/businessNews/idUSTRE64013020100501)
 4. [Cover Image](http://www.aljazeera.com)
 
 ### Related:

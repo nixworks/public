@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/29/wall-street-firm-goldman-sachs-triples-the-base-salary-of-its-chief-executive-lloyd-blankfein-to-2-million-up-from-600-000-after-the-ban.html)  [JSON](/news/2011/01/29/wall-street-firm-goldman-sachs-triples-the-base-salary-of-its-chief-executive-lloyd-blankfein-to-2-million-up-from-600-000-after-the-ban.json)  [XML](/news/2011/01/29/wall-street-firm-goldman-sachs-triples-the-base-salary-of-its-chief-executive-lloyd-blankfein-to-2-million-up-from-600-000-after-the-ban.xml)  
+
 ### [2011-01-29](/news/2011/01/29/index.md)
 
+##### Wall Street
 # Wall Street firm Goldman Sachs triples the base salary of its chief executive Lloyd Blankfein to $2 million, up from $600,000, after the bank's profit falls by 38 per cent. 
 
 Wall Street firm Goldman Sachs Group awards chief executive Lloyd Blankfein $12.6m in shares and triples his salary to $2m.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-12316309)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

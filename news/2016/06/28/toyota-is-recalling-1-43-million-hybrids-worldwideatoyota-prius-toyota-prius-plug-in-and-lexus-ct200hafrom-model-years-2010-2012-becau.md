@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/28/toyota-is-recalling-1-43-million-hybrids-worldw
 
 ### [2016-06-28](/news/2016/06/28/index.md)
 
+##### Toyota
 # Toyota is recalling 1.43 million hybrids worldwide--Toyota Prius, Toyota Prius Plug-in, and Lexus CT200h--from model years 2010-2012 because of a possible airbag inflator defect. The company says it is not aware of any injuries or deaths related to this issue. 
 
 Toyota Motor Corp (7203.T) said late on Tuesday it is recalling 1.43 million hybrid Prius and Lexus CT200h cars worldwide because of a possible airbag inflator defect.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/7/palestinians-fire-mortars-and-katyusha-rocket-from-gaza-causing-widespread-panic-in-ashkelon-israel-in-the-first-such-rocket-attack-on-is.html)  [JSON](/news/2010/01/7/palestinians-fire-mortars-and-katyusha-rocket-from-gaza-causing-widespread-panic-in-ashkelon-israel-in-the-first-such-rocket-attack-on-is.json)  [XML](/news/2010/01/7/palestinians-fire-mortars-and-katyusha-rocket-from-gaza-causing-widespread-panic-in-ashkelon-israel-in-the-first-such-rocket-attack-on-is.xml)  
+
 ### [2010-01-7](/news/2010/01/7/index.md)
 
+##### Palestine
 # Palestinians fire mortars and Katyusha rocket from Gaza, causing widespread panic in Ashkelon, Israel, in the first such rocket attack on Israel in a year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1262339418665&pagename=JPost%2FJPArticle%2FShowFull)
 

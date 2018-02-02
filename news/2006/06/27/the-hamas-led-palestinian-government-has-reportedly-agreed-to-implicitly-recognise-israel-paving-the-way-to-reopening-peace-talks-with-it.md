@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/27/the-hamas-led-palestinian-government-has-reportedly-agreed-to-implicitly-recognise-israel-paving-the-way-to-reopening-peace-talks-with-it.html)  [JSON](/news/2006/06/27/the-hamas-led-palestinian-government-has-reportedly-agreed-to-implicitly-recognise-israel-paving-the-way-to-reopening-peace-talks-with-it.json)  [XML](/news/2006/06/27/the-hamas-led-palestinian-government-has-reportedly-agreed-to-implicitly-recognise-israel-paving-the-way-to-reopening-peace-talks-with-it.xml)  
+
 ### [2006-06-27](/news/2006/06/27/index.md)
 
+##### Hamas
 #  The Hamas-led Palestinian government has reportedly agreed to implicitly recognise Israel, paving the way to reopening peace talks with it. Other Hamas officials later deny these reports. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5122822.stm)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/10/14/the-prime-minister-of-thailand-yingluck-shinawatra-reassures-residents-that-the-capital-bangkok-will-largely-escape-from-major-flooding.html)  [JSON](/news/2011/10/14/the-prime-minister-of-thailand-yingluck-shinawatra-reassures-residents-that-the-capital-bangkok-will-largely-escape-from-major-flooding.json)  [XML](/news/2011/10/14/the-prime-minister-of-thailand-yingluck-shinawatra-reassures-residents-that-the-capital-bangkok-will-largely-escape-from-major-flooding.xml)  
+
 ### [2011-10-14](/news/2011/10/14/index.md)
 
+##### Prime Minister
 # The Prime Minister of Thailand, Yingluck Shinawatra, reassures residents that the capital, Bangkok, will largely escape from major flooding over the weekend. An estimated 289 people have been killed by flooding in Thailand since July 2011. 
 
 Thai Prime Minister Yingluck Shinawatra tried to reassure residents of Bangkok on Friday that the capital should largely escape the flooding that has covered a third of the country since July and caused damage of at least $3 billion.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/10/14/us-thailand-floods-idUSTRE79C0W720111014)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111014&t=2&i=515530969&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE79C0FHZ00)
+1. [Reuters](https://www.reuters.com/article/2011/10/14/us-thailand-floods-idUSTRE79C0W720111014)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111014&t=2&i=515530969&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE79C0FHZ00)
 
 ### Related:
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/06/28/a-federal-jury-in-birmingham-alabama-acquits-richard-scrushy-the-former-chief-executive-of-healthsouth-of-all-criminal-charges-arising-o.html)  [JSON](/news/2005/06/28/a-federal-jury-in-birmingham-alabama-acquits-richard-scrushy-the-former-chief-executive-of-healthsouth-of-all-criminal-charges-arising-o.json)  [XML](/news/2005/06/28/a-federal-jury-in-birmingham-alabama-acquits-richard-scrushy-the-former-chief-executive-of-healthsouth-of-all-criminal-charges-arising-o.xml)  
+
 ### [2005-06-28](/news/2005/06/28/index.md)
 
+##### Birmingham
 #  A federal jury in Birmingham, Alabama acquits Richard Scrushy, the former chief executive of HealthSouth, of all criminal charges arising out of the $2.7 billion in accounting fraud at that company.
 
 

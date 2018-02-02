@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/27/zacarias-moussaoui-testifies-in-an-american-court-that-he-and-richard-reid-planned-to-fly-a-passenger-jet-into-the-white-house-as-part-of-t.html)  [JSON](/news/2006/03/27/zacarias-moussaoui-testifies-in-an-american-court-that-he-and-richard-reid-planned-to-fly-a-passenger-jet-into-the-white-house-as-part-of-t.json)  [XML](/news/2006/03/27/zacarias-moussaoui-testifies-in-an-american-court-that-he-and-richard-reid-planned-to-fly-a-passenger-jet-into-the-white-house-as-part-of-t.xml)  
+
 ### [2006-03-27](/news/2006/03/27/index.md)
 
+##### Zacarias Moussaoui
 #  Zacarias Moussaoui testifies in an American court that he and Richard Reid planned to fly a passenger jet into the White House as part of the September 11, 2001 attacks, contradicting his previous testimony. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4850988.stm)
 2. [CNN](http://www.cnn.com/2006/LAW/03/27/moussaoui/index.html)
@@ -14,7 +18,7 @@
 ### Related:
 
 1. [ A voice purporting to be that of Al-Qaeda leader Osama bin Laden says on an audiotape that Zacarias Moussaoui had no link to the September 11, 2001 attacks. ](/news/2006/05/23/a-voice-purporting-to-be-that-of-al-qaeda-leader-osama-bin-laden-says-on-an-audiotape-that-zacarias-moussaoui-had-no-link-to-the-september.md) _Context: September 11, 2001 attacks, Zacarias Moussaoui_
-2. [ Zacarias Moussaoui plans to plead guilty to charges in connection with the September 11, 2001, attacks, which could bring him the death penalty. ](/news/2005/04/20/zacarias-moussaoui-plans-to-plead-guilty-to-charges-in-connection-with-the-september-11-2001-attacks-which-could-bring-him-the-death-pen.md) _Context: September 11, 2001 attacks, Zacarias Moussaoui_
-3. [ In the trial of Zacarias Moussaoui, the only person yet tried in the U.S. in relation to the 9-11 attacks, the court refuses to allow Moussaoui to call Camp X-Ray detainees as witnesses, but does allow him to use written evidence from some of the detainees. Prosecutors are seeking the death penalty against Moussaoui, who admits to being a member of al-Qaeda but denies involvement in the 9-11 plot. ](/news/2004/09/14/in-the-trial-of-zacarias-moussaoui-the-only-person-yet-tried-in-the-u-s-in-relation-to-the-9-11-attacks-the-court-refuses-to-allow-mouss.md) _Context: September 11, 2001 attacks, Zacarias Moussaoui_
-4. [ Americans commemorate the third anniversary of the September 11, 2001, attacks. U.S. President George Bush and First Lady Laura Bush observe a moment of silence on the South Lawn of the White House to officially begin the day of remembrance. ](/news/2004/09/11/americans-commemorate-the-third-anniversary-of-the-september-11-2001-attacks-u-s-president-george-bush-and-first-lady-laura-bush-observ.md) _Context: September 11, 2001 attacks, White House_
-5. [ Responding to requests by the September 11th Commission, the White House releases a newly declassified President's Daily Brief from a month before the September 11, 2001 attacks warning of possible al-Qaeda activity, including planned hijackings, within the United States. ](/news/2004/04/10/responding-to-requests-by-the-september-11th-commission-the-white-house-releases-a-newly-declassified-president-s-daily-brief-from-a-month.md) _Context: September 11, 2001 attacks, White House_
+2. [ In the trial of Zacarias Moussaoui, the only person yet tried in the U.S. in relation to the 9-11 attacks, the court refuses to allow Moussaoui to call Camp X-Ray detainees as witnesses, but does allow him to use written evidence from some of the detainees. Prosecutors are seeking the death penalty against Moussaoui, who admits to being a member of al-Qaeda but denies involvement in the 9-11 plot. ](/news/2004/09/14/in-the-trial-of-zacarias-moussaoui-the-only-person-yet-tried-in-the-u-s-in-relation-to-the-9-11-attacks-the-court-refuses-to-allow-mouss.md) _Context: September 11, 2001 attacks, Zacarias Moussaoui_
+3. [ Responding to requests by the September 11th Commission, the White House releases a newly declassified President's Daily Brief from a month before the September 11, 2001 attacks warning of possible al-Qaeda activity, including planned hijackings, within the United States. ](/news/2004/04/10/responding-to-requests-by-the-september-11th-commission-the-white-house-releases-a-newly-declassified-president-s-daily-brief-from-a-month.md) _Context: September 11, 2001 attacks, White House_
+4. [ The White House allows Condoleezza Rice, the president's National Security Advisor, to publicly testify under oath on the investigation into the September 11, 2001 attacks. ](/news/2004/03/30/the-white-house-allows-condoleezza-rice-the-president-s-national-security-advisor-to-publicly-testify-under-oath-on-the-investigation-int.md) _Context: September 11, 2001 attacks, White House_
+5. [An Amtrak train carrying Republican lawmakers to a retreat in West Virginia collides with a garbage truck in Crozet, Virginia. At least one person dies and one person is seriously injured. The White House states that there are no serious injuries among members of Congress or their staff. ](/news/2018/01/31/an-amtrak-train-carrying-republican-lawmakers-to-a-retreat-in-west-virginia-collides-with-a-garbage-truck-in-crozet-virginia-at-least-one.md) _Context: White House_

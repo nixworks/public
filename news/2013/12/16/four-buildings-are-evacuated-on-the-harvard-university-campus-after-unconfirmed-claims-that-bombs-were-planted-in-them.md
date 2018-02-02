@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/16/four-buildings-are-evacuated-on-the-harvard-university-campus-after-unconfirmed-claims-that-bombs-were-planted-in-them.html)  [JSON](/news/2013/12/16/four-buildings-are-evacuated-on-the-harvard-university-campus-after-unconfirmed-claims-that-bombs-were-planted-in-them.json)  [XML](/news/2013/12/16/four-buildings-are-evacuated-on-the-harvard-university-campus-after-unconfirmed-claims-that-bombs-were-planted-in-them.xml)  
+
 ### [2013-12-16](/news/2013/12/16/index.md)
 
+##### Harvard University
 # Four buildings are evacuated on the Harvard University campus after unconfirmed claims that bombs were planted in them. 
 
 Harvard University says all buildings are clear after four were evacuated on its Cambridge, Mass., campus earlier in the day over unconfirmed reports of explosives.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/us/2013/12/16/harvard-university-evacuates-buildings-over-reports-explosives/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2013/12/16/harvard-university-evacuates-buildings-over-reports-explosives/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422705963632.jpg?ve=1)

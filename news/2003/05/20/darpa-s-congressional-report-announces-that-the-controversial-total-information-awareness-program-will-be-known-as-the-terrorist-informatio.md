@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/20/darpa-s-congressional-report-announces-that-the-controversial-total-information-awareness-program-will-be-known-as-the-terrorist-informatio.html)  [JSON](/news/2003/05/20/darpa-s-congressional-report-announces-that-the-controversial-total-information-awareness-program-will-be-known-as-the-terrorist-informatio.json)  [XML](/news/2003/05/20/darpa-s-congressional-report-announces-that-the-controversial-total-information-awareness-program-will-be-known-as-the-terrorist-informatio.xml)  
+
 ### [2003-05-20](/news/2003/05/20/index.md)
 
+##### DARPA
 #  DARPA's Congressional report announces that the controversial Total Information Awareness program will be known as the Terrorist Information Awareness program from now on, to emphasize that its purpose is to compile data on terrorists, and not to compile dossiers on US citizens.
 
 

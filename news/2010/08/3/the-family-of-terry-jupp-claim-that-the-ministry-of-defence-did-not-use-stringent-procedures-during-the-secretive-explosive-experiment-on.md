@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/08/3/the-family-of-terry-jupp-claim-that-the-ministry-of-defence-did-not-use-stringent-procedures-during-the-secretive-explosive-experiment-on.html)  [JSON](/news/2010/08/3/the-family-of-terry-jupp-claim-that-the-ministry-of-defence-did-not-use-stringent-procedures-during-the-secretive-explosive-experiment-on.json)  [XML](/news/2010/08/3/the-family-of-terry-jupp-claim-that-the-ministry-of-defence-did-not-use-stringent-procedures-during-the-secretive-explosive-experiment-on.xml)  
+
 ### [2010-08-3](/news/2010/08/3/index.md)
 
+##### Terry Jupp
 # The family of Terry Jupp claim that the Ministry of Defence did not use "stringent procedures" during the secretive explosive experiment on an island in the Thames Estuary that led to his death. 
 
 A Ministry of Defence bomb expert was killed after &#034;inadequate&#034; safety procedures during tests of &#034;high national importance&#034;, a long-delayed inquest has heard.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-10856965)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/defence/7924450/MoD-bomb-expert-died-during-tests-of-high-national-importance.html)
 3. [The Guardian](http://www.guardian.co.uk/uk/2010/aug/03/inquest-secret-mod-explosives-trial)
-4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/08/03/AR2010080300157.html)
+4. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/08/03/AR2010080300157.html)
 4. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/19/2006-tonga-riots-a-leader-of-the-tongan-pro-democracy-movement-mp-akilisi-pohiva-criticises-the-intervention-of-australian-and-new-zeala.html)  [JSON](/news/2006/11/19/2006-tonga-riots-a-leader-of-the-tongan-pro-democracy-movement-mp-akilisi-pohiva-criticises-the-intervention-of-australian-and-new-zeala.json)  [XML](/news/2006/11/19/2006-tonga-riots-a-leader-of-the-tongan-pro-democracy-movement-mp-akilisi-pohiva-criticises-the-intervention-of-australian-and-new-zeala.xml)  
+
 ### [2006-11-19](/news/2006/11/19/index.md)
 
+##### 2006 riots
 #  2006 Tonga riots: A leader of the Tongan pro-democracy movement, MP Akilisi Pohiva, criticises the intervention of Australian and New Zealand peacekeepers following riots. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200611/s1792095.htm)
 

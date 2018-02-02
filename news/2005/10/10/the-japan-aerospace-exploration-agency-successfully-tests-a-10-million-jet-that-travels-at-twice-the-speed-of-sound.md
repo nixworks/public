@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/10/10/the-japan-aerospace-exploration-agency-successfully-tests-a-10-million-jet-that-travels-at-twice-the-speed-of-sound.html)  [JSON](/news/2005/10/10/the-japan-aerospace-exploration-agency-successfully-tests-a-10-million-jet-that-travels-at-twice-the-speed-of-sound.json)  [XML](/news/2005/10/10/the-japan-aerospace-exploration-agency-successfully-tests-a-10-million-jet-that-travels-at-twice-the-speed-of-sound.xml)  
+
 ### [2005-10-10](/news/2005/10/10/index.md)
 
+##### Japan Aerospace Exploration Agency
 #  The Japan Aerospace Exploration Agency successfully tests a $10 million jet that travels at twice the speed of sound. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://news.yahoo.com/s/ap/20051010/ap_on_sc/supersonic_jet)
+1. [Reuters](https://news.yahoo.com/s/ap/20051010/ap_on_sc/supersonic_jet)
 
 ### Related:
 

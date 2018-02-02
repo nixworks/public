@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/10/the-international-monetary-fund-encourages-the-
 
 ### [2016-04-10](/news/2016/04/10/index.md)
 
+##### International Monetary Fund
 # The International Monetary Fund encourages the move toward negative interest rates because "they help deliver additional monetary stimulus and easier financial conditions." 
 
 

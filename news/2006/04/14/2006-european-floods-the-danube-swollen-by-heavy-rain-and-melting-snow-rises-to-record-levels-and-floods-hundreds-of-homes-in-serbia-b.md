@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/14/2006-european-floods-the-danube-swollen-by-heavy-rain-and-melting-snow-rises-to-record-levels-and-floods-hundreds-of-homes-in-serbia-b.html)  [JSON](/news/2006/04/14/2006-european-floods-the-danube-swollen-by-heavy-rain-and-melting-snow-rises-to-record-levels-and-floods-hundreds-of-homes-in-serbia-b.json)  [XML](/news/2006/04/14/2006-european-floods-the-danube-swollen-by-heavy-rain-and-melting-snow-rises-to-record-levels-and-floods-hundreds-of-homes-in-serbia-b.xml)  
+
 ### [2006-04-14](/news/2006/04/14/index.md)
 
+##### 2006 European floods
 #  2006 European floods: The Danube, swollen by heavy rain and melting snow, rises to record levels, and floods hundreds of homes in Serbia, Bulgaria and Romania. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4910126.stm)
 

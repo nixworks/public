@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/24/tens-of-thousands-of-people-protest-across-russia-against-parliamentary-elections-that-they-allege-were-rigged-in-favour-of-the-ruling-unite.html)  [JSON](/news/2011/12/24/tens-of-thousands-of-people-protest-across-russia-against-parliamentary-elections-that-they-allege-were-rigged-in-favour-of-the-ruling-unite.json)  [XML](/news/2011/12/24/tens-of-thousands-of-people-protest-across-russia-against-parliamentary-elections-that-they-allege-were-rigged-in-favour-of-the-ruling-unite.xml)  
+
 ### [2011-12-24](/news/2011/12/24/index.md)
 
+##### protest
 # Tens of thousands of people protest across Russia against parliamentary elections that they allege were rigged in favour of the ruling United Russia party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/russia/20111224/170463151.html)
 

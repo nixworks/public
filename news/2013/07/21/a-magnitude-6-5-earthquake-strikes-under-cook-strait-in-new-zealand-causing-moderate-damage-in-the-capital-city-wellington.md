@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/21/a-magnitude-6-5-earthquake-strikes-under-cook-strait-in-new-zealand-causing-moderate-damage-in-the-capital-city-wellington.html)  [JSON](/news/2013/07/21/a-magnitude-6-5-earthquake-strikes-under-cook-strait-in-new-zealand-causing-moderate-damage-in-the-capital-city-wellington.json)  [XML](/news/2013/07/21/a-magnitude-6-5-earthquake-strikes-under-cook-strait-in-new-zealand-causing-moderate-damage-in-the-capital-city-wellington.xml)  
+
 ### [2013-07-21](/news/2013/07/21/index.md)
 
+##### strikes
 # A magnitude 6.5 earthquake strikes under Cook Strait in New Zealand, causing moderate damage in the capital city Wellington. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fairfax NZ](http://www.stuff.co.nz/national/8945358/Big-quake-shakes-central-New-Zealand)
 1. [Cover Image](https://static2.stuff.co.nz/1374402134/373/8946373.jpg)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/09/29/maple-group-a-consortium-of-canadian-concerns-says-it-is-extending-its-bid-to-take-over-canada-s-largest-stock-market-operating-company-t.html)  [JSON](/news/2011/09/29/maple-group-a-consortium-of-canadian-concerns-says-it-is-extending-its-bid-to-take-over-canada-s-largest-stock-market-operating-company-t.json)  [XML](/news/2011/09/29/maple-group-a-consortium-of-canadian-concerns-says-it-is-extending-its-bid-to-take-over-canada-s-largest-stock-market-operating-company-t.xml)  
+
 ### [2011-09-29](/news/2011/09/29/index.md)
 
+##### Maple Group
 # Maple Group, a consortium of Canadian concerns, says it is extending its bid to take over Canada's largest stock market operating company, TMX Group. 
 
 * Offer deadline extended from Sept. 30 to Oct. 31 * Maple says continues to work toward regulatory approvals * TMX shares rise 2.24 pct
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/09/29/tmx-maple-idUSS1E78S1CG20110929?virtualBrandChannel=13760)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/09/29/tmx-maple-idUSS1E78S1CG20110929?virtualBrandChannel=13760)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

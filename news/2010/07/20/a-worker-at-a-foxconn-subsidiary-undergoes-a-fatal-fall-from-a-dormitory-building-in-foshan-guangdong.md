@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/20/a-worker-at-a-foxconn-subsidiary-undergoes-a-fatal-fall-from-a-dormitory-building-in-foshan-guangdong.html)  [JSON](/news/2010/07/20/a-worker-at-a-foxconn-subsidiary-undergoes-a-fatal-fall-from-a-dormitory-building-in-foshan-guangdong.json)  [XML](/news/2010/07/20/a-worker-at-a-foxconn-subsidiary-undergoes-a-fatal-fall-from-a-dormitory-building-in-foshan-guangdong.xml)  
+
 ### [2010-07-20](/news/2010/07/20/index.md)
 
+##### Foxconn
 # A worker at a Foxconn subsidiary undergoes a fatal fall from a dormitory building in Foshan, Guangdong. 
 
 A worker at a subsidiary of tech firm Foxconn dies after falling from a factory building in southern China, state media say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10702689)
 2. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/infotech/view/20100721-282281/Another-worker-at-Foxconn-subsidiary-falls-to-death-in-China)

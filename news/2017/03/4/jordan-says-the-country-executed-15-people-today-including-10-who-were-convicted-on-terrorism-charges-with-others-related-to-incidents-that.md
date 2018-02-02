@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/4/jordan-says-the-country-executed-15-people-today
 
 ### [2017-03-4](/news/2017/03/4/index.md)
 
+##### Capital punishment in Jordan
 # Jordan says the country executed 15 people today, including 10 who were convicted on terrorism charges with others related to incidents that go back as far as 2003. Amnesty International protests the executions which were carried out in "secrecy and without transparency." Jordan restored the death sentence by hanging in 2014. 
 
  Jordan executed 15 people on Saturday, including 10 convicted on terrorism charges ranging from an attack a decade ago on Western tourists to the slaying of a 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/16/the-israeli-army-announces-its-intention-to-demolish-hundreds-of-additional-houses-in-the-rafah-refugee-camp-in-the-gaza-strip-along-the-bo.html)  [JSON](/news/2004/05/16/the-israeli-army-announces-its-intention-to-demolish-hundreds-of-additional-houses-in-the-rafah-refugee-camp-in-the-gaza-strip-along-the-bo.json)  [XML](/news/2004/05/16/the-israeli-army-announces-its-intention-to-demolish-hundreds-of-additional-houses-in-the-rafah-refugee-camp-in-the-gaza-strip-along-the-bo.xml)  
+
 ### [2004-05-16](/news/2004/05/16/index.md)
 
+##### Israel Defense Forces
 #  The Israeli army announces its intention to demolish hundreds of additional houses in the Rafah refugee camp in the Gaza Strip along the border with Egypt after the Supreme Court rejects a petition against the demolitions. In the past, the IDF has found dozens of tunnels hidden underneath homes allegedly used to smuggle guns, ammunition, explosives, fugitives, drugs and other illegal materials into Gaza. The court had previously issued a temporary injunction after 88 homes had been destroyed leaving more than 1000 people homeless (UNRWA figures disputed by the Israeli army). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3719111.stm)
 2. [Haaretz](https://web.archive.org/web/20040604132050/http://www.haaretzdaily.com/hasen/spages/427997.html)

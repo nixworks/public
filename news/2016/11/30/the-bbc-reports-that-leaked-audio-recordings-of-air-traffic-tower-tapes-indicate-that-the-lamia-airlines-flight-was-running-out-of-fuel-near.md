@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/30/the-bbc-reports-that-leaked-audio-recordings-of
 
 ### [2016-11-30](/news/2016/11/30/index.md)
 
+##### LaMia Airlines Flight 2933
 # The BBC reports that leaked audio recordings of air traffic tower tapes indicate that the LaMia Airlines flight was running out of fuel near the Colombian city of Medellin. 
 
 The plane carrying footballers which crashed in Colombia ran out of fuel, a leaked tape reveals.
@@ -22,6 +23,6 @@ The plane carrying footballers which crashed in Colombia ran out of fuel, a leak
 
 1. [A chartered Avro RJ85 plane carrying at least 81 people, including the Chapecoense football team, crashes near Medellin, Colombia. Rescuers report at least six survivors have been found in the wreckage. The 2016 Copa Sudamericana Finals are suspended. ](/news/2016/11/29/a-chartered-avro-rj85-plane-carrying-at-least-81-people-including-the-chapecoense-football-team-crashes-near-medellan-colombia-rescuers.md) _Context: Colombia, LaMia Airlines Flight 2933_
 2. [A 6.0 magnitude earthquake hits near the Colombian city of Medellin. ](/news/2016/09/13/a-6-0-magnitude-earthquake-hits-near-the-colombian-city-of-medellin.md) _Context: Colombia, Medellin_
-3. [Former Colombian crime boss Griselda Blanco is killed by hitmen in Medelln. ](/news/2012/09/3/former-colombian-crime-boss-griselda-blanco-is-killed-by-hitmen-in-medellin.md) _Context: Colombia, Medellin_
-4. [Voters in Colombia go to the polls for local gubernatorial and mayoral elections, including the mayors of Bogot, Medelln, and Cali. ](/news/2011/10/30/voters-in-colombia-go-to-the-polls-for-local-gubernatorial-and-mayoral-elections-including-the-mayors-of-bogota-medellin-and-cali.md) _Context: Colombia, Medellin_
-5. [The BBC reveals that a secret deal in mid-October allowed hundreds of ISIL fighters and their families, including some of their "most notorious members", escape from Raqqa in a convoy that was between 6 to 7 km long. The United States government confirms that the deal with ISIL was made and that the evacuations took place. The possibility of a deal was previously reported as early as October 14. ](/news/2017/11/13/the-bbc-reveals-that-a-secret-deal-in-mid-october-allowed-hundreds-of-isil-fighters-and-their-families-including-some-of-their-most-notori.md) _Context: BBC_
+3. [ A roadside bomb hits a United Nations Interim Force in Lebanon patrol, killing six Spanish-speaking peacekeepers (three of whom were Colombian) and injuring two others. ](/news/2018/06/24/a-roadside-bomb-hits-a-united-nations-interim-force-in-lebanon-patrol-killing-six-spanish-speaking-peacekeepers-three-of-whom-were-colomb.md) _Context: Colombia_
+4. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: BBC_
+5. [A landslide pushes a bus into a ravine in Colombia, killing 13 people. ](/news/2018/01/22/a-landslide-pushes-a-bus-into-a-ravine-in-colombia-killing-13-people.md) _Context: Colombia_

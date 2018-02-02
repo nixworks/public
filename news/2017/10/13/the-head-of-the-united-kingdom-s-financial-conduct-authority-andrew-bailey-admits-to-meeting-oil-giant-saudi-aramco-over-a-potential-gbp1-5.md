@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/13/the-head-of-the-united-kingdom-s-financial-cond
 
 ### [2017-10-13](/news/2017/10/13/index.md)
 
+##### Economy of the United Kingdom
 # The head of the United Kingdom's Financial Conduct Authority Andrew Bailey admits to meeting oil giant Saudi Aramco over a potential GBP1.5 trillion listing on the London Stock Exchange. The regulator has been criticised for proposing changes to listing rules to accommodate sovereign-owned companies. 
 
 The regulator was criticised for proposing changes to UK listing rules to accommodate the oil giant.

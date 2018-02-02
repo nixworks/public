@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/7/seven-first-responders-file-a-1-million-lawsuit-
 
 ### [2017-09-7](/news/2017/09/7/index.md)
 
+##### 2017 Arkema plant explosion
 # Seven first responders file a $1 million lawsuit against the Arkema chemical company for failing to warn them in advance about the environmental dangers from the plant explosion. The seven people, six police officers and an emergency worker, remain under a doctor's care. 
 
 Police officers sickened by fumes from explosions at an Arkema SA chemical plant near Houston accused the company in a lawsuit of not warning them about toxic chemicals that left them vomiting and unable to catch their breath.

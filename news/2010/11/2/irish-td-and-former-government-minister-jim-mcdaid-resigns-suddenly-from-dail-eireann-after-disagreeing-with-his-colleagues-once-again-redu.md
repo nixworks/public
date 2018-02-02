@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2010/11/2/irish-td-and-former-government-minister-jim-mcdaid-resigns-suddenly-from-dail-eireann-after-disagreeing-with-his-colleagues-once-again-redu.html)  [JSON](/news/2010/11/2/irish-td-and-former-government-minister-jim-mcdaid-resigns-suddenly-from-dail-eireann-after-disagreeing-with-his-colleagues-once-again-redu.json)  [XML](/news/2010/11/2/irish-td-and-former-government-minister-jim-mcdaid-resigns-suddenly-from-dail-eireann-after-disagreeing-with-his-colleagues-once-again-redu.xml)  
+
 ### [2010-11-2](/news/2010/11/2/index.md)
 
+##### TD
 # Irish TD and former government minister Jim McDaid resigns suddenly from Dil ireann after disagreeing with his colleagues, once again reducing the fragile majority of the country's government and provoking new calls for a general election ahead of a hard-hitting budget; four seats are now vacant following the latest resignation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Financial Times](http://www.ft.com/cms/s/0/52ab389e-e6b3-11df-99b3-00144feab49a.html)
 2. [RTÉ](http://www.rte.ie/news/2010/1103/mcdaid.html)
 3. [Resignation letter](http://www.rte.ie/news/2010/1102/mcdaid.pdf)
-4. [Reuters](http://www.reuters.com/article/idUSWLA686420101102)
+4. [Reuters](https://www.reuters.com/article/idUSWLA686420101102)
 5. [The Irish Times](http://www.irishtimes.com/newspaper/frontpage/2010/1103/1224282561800.html)
-5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+5. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

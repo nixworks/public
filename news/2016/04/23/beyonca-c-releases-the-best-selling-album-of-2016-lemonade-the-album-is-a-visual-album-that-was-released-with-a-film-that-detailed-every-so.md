@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/23/beyonca-c-releases-the-best-selling-album-of-20
 
 ### [2016-04-23](/news/2016/04/23/index.md)
 
+##### Beyonce
 # Beyonce releases the best selling album of 2016, Lemonade. The album is a visual album that was released with a film that detailed every song on the album.
 
 

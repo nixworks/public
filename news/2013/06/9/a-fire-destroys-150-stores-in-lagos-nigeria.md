@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/9/a-fire-destroys-150-stores-in-lagos-nigeria.html)  [JSON](/news/2013/06/9/a-fire-destroys-150-stores-in-lagos-nigeria.json)  [XML](/news/2013/06/9/a-fire-destroys-150-stores-in-lagos-nigeria.xml)  
+
 ### [2013-06-9](/news/2013/06/9/index.md)
 
+##### Lagos
 # A fire destroys 150 stores in Lagos, Nigeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Punch](http://www.punchng.com/news/fire-razes-150-spare-parts-shops-in-apapa/)
 

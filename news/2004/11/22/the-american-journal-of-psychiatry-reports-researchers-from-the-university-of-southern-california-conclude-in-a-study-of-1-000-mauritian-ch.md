@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/22/the-american-journal-of-psychiatry-reports-researchers-from-the-university-of-southern-california-conclude-in-a-study-of-1-000-mauritian-ch.html)  [JSON](/news/2004/11/22/the-american-journal-of-psychiatry-reports-researchers-from-the-university-of-southern-california-conclude-in-a-study-of-1-000-mauritian-ch.json)  [XML](/news/2004/11/22/the-american-journal-of-psychiatry-reports-researchers-from-the-university-of-southern-california-conclude-in-a-study-of-1-000-mauritian-ch.xml)  
+
 ### [2004-11-22](/news/2004/11/22/index.md)
 
+##### American Journal of Psychiatry
 #  The American Journal of Psychiatry reports researchers from the University of Southern California conclude in a study of 1,000 Mauritian children that malnutrition and a poor diet are strongly correlated to a low IQ and anti-social behavior. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AJP](http://ajp.psychiatryonline.org/cgi/content/abstract/161/11/2005)
 2. [BBC](http://news.bbc.co.uk/2/hi/health/4032449.stm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/8/the-ugandan-death-penalty-for-homosexuality-may-be-declared-not-necessary.html)  [JSON](/news/2010/01/8/the-ugandan-death-penalty-for-homosexuality-may-be-declared-not-necessary.json)  [XML](/news/2010/01/8/the-ugandan-death-penalty-for-homosexuality-may-be-declared-not-necessary.xml)  
+
 ### [2010-01-8](/news/2010/01/8/index.md)
 
+##### Uganda
 # The Ugandan death penalty for homosexuality may be declared "not necessary". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8448197.stm)
 2. [The Philadelphia Enquirer](http://www.philly.com/inquirer/world_us/20100108_Uganda_may_modify_antigay_bill.html)

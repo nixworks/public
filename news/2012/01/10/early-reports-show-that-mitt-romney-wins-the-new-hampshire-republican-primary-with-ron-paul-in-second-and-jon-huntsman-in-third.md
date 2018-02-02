@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/10/early-reports-show-that-mitt-romney-wins-the-new-hampshire-republican-primary-with-ron-paul-in-second-and-jon-huntsman-in-third.html)  [JSON](/news/2012/01/10/early-reports-show-that-mitt-romney-wins-the-new-hampshire-republican-primary-with-ron-paul-in-second-and-jon-huntsman-in-third.json)  [XML](/news/2012/01/10/early-reports-show-that-mitt-romney-wins-the-new-hampshire-republican-primary-with-ron-paul-in-second-and-jon-huntsman-in-third.xml)  
+
 ### [2012-01-10](/news/2012/01/10/index.md)
 
+##### Mitt Romney
 # Early reports show that Mitt Romney wins the New Hampshire Republican primary with Ron Paul in second and Jon Huntsman in third. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/01/10/politics/new-hampshire-main/index.html?hpt=hp_t1)
 

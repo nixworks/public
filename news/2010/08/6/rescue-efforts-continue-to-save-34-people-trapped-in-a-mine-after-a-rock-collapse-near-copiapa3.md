@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/6/rescue-efforts-continue-to-save-34-people-trapped-in-a-mine-after-a-rock-collapse-near-copiapa3.html)  [JSON](/news/2010/08/6/rescue-efforts-continue-to-save-34-people-trapped-in-a-mine-after-a-rock-collapse-near-copiapa3.json)  [XML](/news/2010/08/6/rescue-efforts-continue-to-save-34-people-trapped-in-a-mine-after-a-rock-collapse-near-copiapa3.xml)  
+
 ### [2010-08-6](/news/2010/08/6/index.md)
 
+##### Copiapo
 # Rescue efforts continue to save 34 people trapped in a mine after a rock collapse near Copiapo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10897327)
 2. [Mining Weekly](http://www.miningweekly.com/article/rescuers-struggle-to-reach-trapped-miners-in-chile-2010-08-06)

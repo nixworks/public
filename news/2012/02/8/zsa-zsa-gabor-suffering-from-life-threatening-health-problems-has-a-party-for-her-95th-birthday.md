@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2012/02/8/zsa-zsa-gabor-suffering-from-life-threatening-health-problems-has-a-party-for-her-95th-birthday.html)  [JSON](/news/2012/02/8/zsa-zsa-gabor-suffering-from-life-threatening-health-problems-has-a-party-for-her-95th-birthday.json)  [XML](/news/2012/02/8/zsa-zsa-gabor-suffering-from-life-threatening-health-problems-has-a-party-for-her-95th-birthday.xml)  
+
 ### [2012-02-8](/news/2012/02/8/index.md)
 
+##### Zsa Zsa Gabor
 # Zsa Zsa Gabor, suffering from life-threatening health problems, has a party for her 95th birthday. 
 
 Feb. 8 - Prince Frederic Von Anhalt releases photographs of Zsa Zsa Gabor&#039;s 95th birthday party. John Russell reports.
 
 
-### Source:
+### Sources:
 
 1. [Daily Mail](http://www.dailymail.co.uk/tvshowbiz/article-2097948/Zsa-Zsa-Gabors-husband-Prince-Frederic-throws-95th-birthday-party-her.html?ito=feeds-newsxml)
-2. [Reuters](http://www.reuters.com/video/2012/02/08/zsa-zsa-gabor-celebrates-her-95th-birthd?videoId=229794797)
-2. [Cover Image](http://yospace-cds1.reuters.com/u/resize~ad1~1200/0/f/~image_jpeg~9999-1/1/m/l/p/j/l/wn5x/reuters04?videoId=32753863)
+2. [Reuters](https://www.reuters.com/video/2012/02/08/zsa-zsa-gabor-celebrates-her-95th-birthd?videoId=229794797)
+2. [Cover Image](https://yospace-cds1.reuters.com/u/resize~ad1~1200/0/f/~image_jpeg~9999-1/1/m/l/p/j/l/wn5x/reuters04?videoId=32753863)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/7/the-genome-of-the-platypus-is-sequenced.html)  [JSON](/news/2008/05/7/the-genome-of-the-platypus-is-sequenced.json)  [XML](/news/2008/05/7/the-genome-of-the-platypus-is-sequenced.xml)  
+
 ### [2008-05-7](/news/2008/05/7/index.md)
 
+##### genome
 #  The genome of the platypus is sequenced. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/sci/tech/7385949.stm)
 

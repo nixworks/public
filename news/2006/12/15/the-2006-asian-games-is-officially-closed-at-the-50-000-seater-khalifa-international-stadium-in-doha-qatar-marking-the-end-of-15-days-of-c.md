@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/15/the-2006-asian-games-is-officially-closed-at-the-50-000-seater-khalifa-international-stadium-in-doha-qatar-marking-the-end-of-15-days-of-c.html)  [JSON](/news/2006/12/15/the-2006-asian-games-is-officially-closed-at-the-50-000-seater-khalifa-international-stadium-in-doha-qatar-marking-the-end-of-15-days-of-c.json)  [XML](/news/2006/12/15/the-2006-asian-games-is-officially-closed-at-the-50-000-seater-khalifa-international-stadium-in-doha-qatar-marking-the-end-of-15-days-of-c.xml)  
+
 ### [2006-12-15](/news/2006/12/15/index.md)
 
+##### 2006 Asian Games
 #  The 2006 Asian Games is officially closed at the 50,000 seater Khalifa International Stadium in Doha, Qatar marking the end of 15 days of competition.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Doha 2006 Asian Games website](http://www.doha-2006.com/gis/menuroot/news/article.aspx?id=40131)
 

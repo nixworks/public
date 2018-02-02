@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/24/at-least-four-people-are-killed-and-12-critically-injured-after-a-charter-bus-a-ride-the-ducks-tour-vehicle-and-two-smaller-vehicles-crash.html)  [JSON](/news/2015/09/24/at-least-four-people-are-killed-and-12-critically-injured-after-a-charter-bus-a-ride-the-ducks-tour-vehicle-and-two-smaller-vehicles-crash.json)  [XML](/news/2015/09/24/at-least-four-people-are-killed-and-12-critically-injured-after-a-charter-bus-a-ride-the-ducks-tour-vehicle-and-two-smaller-vehicles-crash.xml)  
+
 ### [2015-09-24](/news/2015/09/24/index.md)
 
+##### Ride the Ducks
 # At least four people are killed and 12 critically injured after a charter bus, a Ride the Ducks tour vehicle, and two smaller vehicles crash on the Aurora Bridge in the U.S. city of Seattle, Washington. 
 
 Four college students were killed and at least 51 people were taken to hospitals after a collision on the Aurora Bridge.
 
 
-### Source:
+### Sources:
 
 1. [King 5](http://www.king5.com/story/news/traffic/2015/09/24/collision-between-bus-duck-vehicle-several-injured/72746930/)
 1. [Cover Image](http://content.king5.com/photo/2015/09/24/635787068410737539-ducks-buscrash7_1637745_ver1.0.jpg)

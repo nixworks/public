@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/23/saudi-arabia-s-king-abdullah-announces-a-series-of-benefits-for-citizens-as-he-returns-to-the-country.html)  [JSON](/news/2011/02/23/saudi-arabia-s-king-abdullah-announces-a-series-of-benefits-for-citizens-as-he-returns-to-the-country.json)  [XML](/news/2011/02/23/saudi-arabia-s-king-abdullah-announces-a-series-of-benefits-for-citizens-as-he-returns-to-the-country.xml)  
+
 ### [2011-02-23](/news/2011/02/23/index.md)
 
+##### Saudi Arabia
 # Saudi Arabia's King Abdullah announces a series of benefits for citizens as he returns to the country. 
 
 King Abdullah announces $10.7 billion in pay raises, job creation and loan forgiveness schemes as he returns to country.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011223105328424268.html)
 2. [IOL](http://www.iol.co.za/news/world/saudi-arabia-s-king-returns-to-country-1.1031163)

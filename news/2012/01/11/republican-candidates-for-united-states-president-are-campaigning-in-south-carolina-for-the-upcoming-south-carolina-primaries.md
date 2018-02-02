@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2012/01/11/republican-candidates-for-united-states-president-are-campaigning-in-south-carolina-for-the-upcoming-south-carolina-primaries.html)  [JSON](/news/2012/01/11/republican-candidates-for-united-states-president-are-campaigning-in-south-carolina-for-the-upcoming-south-carolina-primaries.json)  [XML](/news/2012/01/11/republican-candidates-for-united-states-president-are-campaigning-in-south-carolina-for-the-upcoming-south-carolina-primaries.xml)  
+
 ### [2012-01-11](/news/2012/01/11/index.md)
 
+##### Republican candidates
 # Republican candidates for United States President are campaigning in South Carolina for the upcoming South Carolina primaries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/blogs/politics/2012/01/the-dark-art-of-south-carolina-politics/)
 
 ### Related:
 
 1. [South Carolina Senator Lindsey Graham ends his campaign for the Republican Party nomination for President. During his campaign he has failed to poll above single digits nationally or in the early voting states. ](/news/2015/12/21/south-carolina-senator-lindsey-graham-ends-his-campaign-for-the-republican-party-nomination-for-president-during-his-campaign-he-has-failed.md) _Context: South Carolina, U.S. President_
-2. [U.S. President Donald Trump chooses not to certify that Iran complies with the 2015 agreement. The United States Congress now has 60 days to decide whether to lift the sanctions relief, possibly breaching the agreement. ](/news/2017/10/13/u-s-president-donald-trump-chooses-not-to-certify-that-iran-complies-with-the-2015-agreement-the-united-states-congress-now-has-60-days-to.md) _Context: U.S. President_
-3. [President Donald Trump, siding with Democrats, reaches a deal with congressional leaders of both parties to extend the U.S. debt limit and fund the federal government until Dec. 15, as well as provide Harvey disaster relief. ](/news/2017/09/6/president-donald-trump-siding-with-democrats-reaches-a-deal-with-congressional-leaders-of-both-parties-to-extend-the-u-s-debt-limit-and-f.md) _Context: U.S. President_
-4. [U.S. President Donald Trump waives the Jones Act for Puerto Rico after he first disallowed additional aid, citing shipping industry business interests. Senator John McCain says the Jones Act makes prices for food, water, and other emergency supplies too high in Puerto Rico. ](/news/2017/09/28/u-s-president-donald-trump-waives-the-jones-act-for-puerto-rico-after-he-first-disallowed-additional-aid-citing-shipping-industry-business.md) _Context: U.S. President_
-5. [ California moves its 2020 presidential primary to March 3, making it fifth in the nominating process after Iowa, New Hampshire, Nevada, and South Carolina. The 2016 primary was held on June 7. ](/news/2017/09/27/california-moves-its-2020-presidential-primary-to-march-3-making-it-fifth-in-the-nominating-process-after-iowa-new-hampshire-nevada-and.md) _Context: South Carolina_
+2. [Steve Bannon steps down as executive chairman of Breitbart News amid a dispute with U.S. President Donald Trump over comments he made about the Trump family in Michael Wolff's "Fire and Fury". ](/news/2018/01/9/steve-bannon-steps-down-as-executive-chairman-of-breitbart-news-amid-a-dispute-with-u-s-president-donald-trump-over-comments-he-made-about.md) _Context: U.S. President_
+3. [U.S. President Donald Trump delivers his first State of the Union Address to the 115th United States Congress in the chamber of the House of Representatives.](/news/2018/01/30/u-s-president-donald-trump-delivers-his-first-state-of-the-union-address-to-the-115th-united-states-congress-in-the-chamber-of-the-house-of.md) _Context: U.S. President_
+4. [U.S. President Donald Trump dissolves the voter fraud commission noting the cost to the public of litigating against lawsuits from states objecting to the voter information requested. ](/news/2018/01/3/u-s-president-donald-trump-dissolves-the-voter-fraud-commission-noting-the-cost-to-the-public-of-litigating-against-lawsuits-from-states-ob.md) _Context: U.S. President_
+5. [Andrew McCabe resigns as Deputy Director of the Federal Bureau of Investigation amid a dispute with President Donald Trump. ](/news/2018/01/29/andrew-mccabe-resigns-as-deputy-director-of-the-federal-bureau-of-investigation-amid-a-dispute-with-president-donald-trump.md) _Context: U.S. President_

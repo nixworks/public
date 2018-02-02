@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/01/4/u2-india-arie-and-alicia-keys-lead-the-nominations-for-the-44th-grammy-awards-from-the-national-academy-of-recording-arts-and-sciences.html)  [JSON](/news/2002/01/4/u2-india-arie-and-alicia-keys-lead-the-nominations-for-the-44th-grammy-awards-from-the-national-academy-of-recording-arts-and-sciences.json)  [XML](/news/2002/01/4/u2-india-arie-and-alicia-keys-lead-the-nominations-for-the-44th-grammy-awards-from-the-national-academy-of-recording-arts-and-sciences.xml)  
+
 ### [2002-01-4](/news/2002/01/4/index.md)
 
+##### U2
 # U2, India.Arie, and Alicia Keys lead the nominations for the 44th Grammy Awards from the National Academy of Recording Arts and Sciences.
 
 

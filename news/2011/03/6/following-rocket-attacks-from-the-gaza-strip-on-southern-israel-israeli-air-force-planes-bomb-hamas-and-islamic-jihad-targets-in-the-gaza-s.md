@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/6/following-rocket-attacks-from-the-gaza-strip-on-southern-israel-israeli-air-force-planes-bomb-hamas-and-islamic-jihad-targets-in-the-gaza-s.html)  [JSON](/news/2011/03/6/following-rocket-attacks-from-the-gaza-strip-on-southern-israel-israeli-air-force-planes-bomb-hamas-and-islamic-jihad-targets-in-the-gaza-s.json)  [XML](/news/2011/03/6/following-rocket-attacks-from-the-gaza-strip-on-southern-israel-israeli-air-force-planes-bomb-hamas-and-islamic-jihad-targets-in-the-gaza-s.xml)  
+
 ### [2011-03-6](/news/2011/03/6/index.md)
 
+##### Palestinian rocket attacks on Israel
 # Following rocket attacks from the Gaza Strip on southern Israel, Israeli air force planes bomb Hamas and Islamic Jihad targets in the Gaza Strip. 
 
 Sources in Strip say Air Force jets bombed several targets in Khan Younis, Deir al-Balah. No injuries reported. IDF: Strike response to Qassam fire 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/20113613338552670.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-03/06/c_13763379.htm)

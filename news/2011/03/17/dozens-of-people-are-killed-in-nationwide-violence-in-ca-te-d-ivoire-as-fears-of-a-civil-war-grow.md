@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/17/dozens-of-people-are-killed-in-nationwide-violence-in-ca-te-d-ivoire-as-fears-of-a-civil-war-grow.html)  [JSON](/news/2011/03/17/dozens-of-people-are-killed-in-nationwide-violence-in-ca-te-d-ivoire-as-fears-of-a-civil-war-grow.json)  [XML](/news/2011/03/17/dozens-of-people-are-killed-in-nationwide-violence-in-ca-te-d-ivoire-as-fears-of-a-civil-war-grow.xml)  
+
 ### [2011-03-17](/news/2011/03/17/index.md)
 
+##### Cote d'Ivoire
 # Dozens of people are killed in nationwide violence in Cote d'Ivoire, as fears of a civil war grow. 
 
 Shells are fired at an Abidjan district opposed to disputed President Laurent Gbagbo, with reports of at least 25 dead.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5h3DOsNdx9iMq_rUz5Fxchg3s6_gg?docId=CNG.2d4ed292d98a09eb3a5c7b41217ddedc.1a1)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12778001)

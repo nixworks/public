@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/24/chile-freezes-the-assets-of-san-esteban-mining-to-fund-the-cost-of-the-rescue-effort-from-the-2010-copiapo-mining-accident.html)  [JSON](/news/2010/09/24/chile-freezes-the-assets-of-san-esteban-mining-to-fund-the-cost-of-the-rescue-effort-from-the-2010-copiapo-mining-accident.json)  [XML](/news/2010/09/24/chile-freezes-the-assets-of-san-esteban-mining-to-fund-the-cost-of-the-rescue-effort-from-the-2010-copiapo-mining-accident.xml)  
+
 ### [2010-09-24](/news/2010/09/24/index.md)
 
+##### Chile
 # Chile freezes the assets of San Esteban Mining to fund the cost of the rescue effort from the 2010 Copiap mining accident. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Adelaide Advertiser](http://www.adelaidenow.com.au/news/breaking-news/chile-freezes-san-esteban-mining-assets-over-trapped-miners/story-e6frea73-1225929192768?from=public_rss)
 

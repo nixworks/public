@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/20/a-retired-pennsylvania-state-trooper-s-attempte
 
 ### [2016-03-20](/news/2016/03/20/index.md)
 
+##### Pennsylvania State Police
 # A retired Pennsylvania state trooper's attempted robbery of a fare collection vehicle at the Pennsylvania Turnpike's Fort Littleton toll plaza, 65 miles west of the capital Harrisburg, results in three deaths -- a toll collector, a security guard, and himself. 
 
 Get the latest breaking news across the U.S. on ABCNews.com

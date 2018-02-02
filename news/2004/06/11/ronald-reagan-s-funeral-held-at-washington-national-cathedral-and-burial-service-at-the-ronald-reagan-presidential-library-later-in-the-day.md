@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/06/11/ronald-reagan-s-funeral-held-at-washington-national-cathedral-and-burial-service-at-the-ronald-reagan-presidential-library-later-in-the-day.html)  [JSON](/news/2004/06/11/ronald-reagan-s-funeral-held-at-washington-national-cathedral-and-burial-service-at-the-ronald-reagan-presidential-library-later-in-the-day.json)  [XML](/news/2004/06/11/ronald-reagan-s-funeral-held-at-washington-national-cathedral-and-burial-service-at-the-ronald-reagan-presidential-library-later-in-the-day.xml)  
+
 ### [2004-06-11](/news/2004/06/11/index.md)
 
+##### Ronald Reagan
 #  Ronald Reagan's funeral held at Washington National Cathedral and burial service at the Ronald Reagan Presidential Library later in the day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Washington National Cathedral](http://www.cathedral.org/cathedral/programs/reagan/1.shtml)
-2. [White House](http://georgewbush-whitehouse.archives.gov/reagan/index.html)
+2. [White House](https://georgewbush-whitehouse.archives.gov/reagan/index.html)
 
 ### Related:
 

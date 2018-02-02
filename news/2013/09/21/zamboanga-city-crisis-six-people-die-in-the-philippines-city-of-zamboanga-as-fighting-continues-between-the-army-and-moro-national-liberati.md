@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2013/09/21/zamboanga-city-crisis-six-people-die-in-the-philippines-city-of-zamboanga-as-fighting-continues-between-the-army-and-moro-national-liberati.html)  [JSON](/news/2013/09/21/zamboanga-city-crisis-six-people-die-in-the-philippines-city-of-zamboanga-as-fighting-continues-between-the-army-and-moro-national-liberati.json)  [XML](/news/2013/09/21/zamboanga-city-crisis-six-people-die-in-the-philippines-city-of-zamboanga-as-fighting-continues-between-the-army-and-moro-national-liberati.xml)  
+
 ### [2013-09-21](/news/2013/09/21/index.md)
 
+##### Zamboanga City crisis
 # Zamboanga City crisis: Six people die in the Philippines city of Zamboanga as fighting continues between the Army and Moro National Liberation Front insurgents. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Sun Herald](http://www.sunherald.com/2013/09/21/4968967/6-more-die-as-fighting-drags-on.html)
+
+### Changes:
+
+1. [Islamic insurgency in the Philippines:Zamboanga City crisis: Six people die in the Philippines city of Zamboanga as fighting continues between the Army and Moro National Liberation Front insurgents. ](/news/2013/09/21/islamic-insurgency-in-the-philippines-pzamboanga-city-crisis-six-people-die-in-the-philippines-city-of-zamboanga-as-fighting-continues-betw.md) _2017-08-25 03:39:18 (First version)_
+2. [Islamic insurgency in the Philippines:: Zamboanga City crisis: Six people die in the Philippines city of Zamboanga as fighting continues between the Army and Moro National Liberation Front insurgents. ](/news/2013/09/21/islamic-insurgency-in-the-philippines-zamboanga-city-crisis-six-people-die-in-the-philippines-city-of-zamboanga-as-fighting-continues-bet.md) _2017-08-27 03:39:35 (Update)_
+2. [Zamboanga City crisis: Six people die in the Philippines city of Zamboanga as fighting continues between the Army and Moro National Liberation Front insurgents. ](/news/2013/09/21/zamboanga-city-crisis-six-people-die-in-the-philippines-city-of-zamboanga-as-fighting-continues-between-the-army-and-moro-national-liberati.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [Muslim rebel group Moro National Liberation Front leader Nur Misuari meets with Philippines president Rodrigo Duterte in Malacanang Palace after receiving a reprieve from previous crimes of rebellion. ](/news/2016/11/3/muslim-rebel-group-moro-national-liberation-front-leader-nur-misuari-meets-with-philippines-president-rodrigo-duterte-in-malacaa-ang-palace.md) _Context: Moro National Liberation Front, Philippines_
 4. [Philippine security forces kill as many as 42 ISIL-linked militants, and captures their stronghold in the predominantly Muslim Lanao del Sur province. Three Philippine Army soldiers were also killed during the fighting. ](/news/2016/02/26/philippine-security-forces-kill-as-many-as-42-isil-linked-militants-and-captures-their-stronghold-in-the-predominantly-muslim-lanao-del-sur.md) _Context: Philippines, army_
 5. [Fifteen people are killed and 11 injured in a fire at the public markets at Zamboanga City in the Philippines. ](/news/2015/10/31/fifteen-people-are-killed-and-11-injured-in-a-fire-at-the-public-markets-at-zamboanga-city-in-the-philippines.md) _Context: Philippines, Zamboanga City_
-
-### Changes:
-
-1. [Islamic insurgency in the Philippines:Zamboanga City crisis: Six people die in the Philippines city of Zamboanga as fighting continues between the Army and Moro National Liberation Front insurgents. ](/news/2013/09/21/islamic-insurgency-in-the-philippines-pzamboanga-city-crisis-six-people-die-in-the-philippines-city-of-zamboanga-as-fighting-continues-betw.md) _2017-08-25 03:39:18 (First version)_
-2. [Islamic insurgency in the Philippines:: Zamboanga City crisis: Six people die in the Philippines city of Zamboanga as fighting continues between the Army and Moro National Liberation Front insurgents. ](/news/2013/09/21/islamic-insurgency-in-the-philippines-zamboanga-city-crisis-six-people-die-in-the-philippines-city-of-zamboanga-as-fighting-continues-bet.md) _2017-08-27 03:39:35 (Update)_
-2. [Zamboanga City crisis: Six people die in the Philippines city of Zamboanga as fighting continues between the Army and Moro National Liberation Front insurgents. ](/news/2013/09/21/zamboanga-city-crisis-six-people-die-in-the-philippines-city-of-zamboanga-as-fighting-continues-between-the-army-and-moro-national-liberati.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/21/bronisaaw-komorowski-and-jarosaaw-kaczyaski-face-each-other-on-4-july-after-sunday-s-inconclusive-vote-in-polish-presidential-election-2.html)  [JSON](/news/2010/06/21/bronisaaw-komorowski-and-jarosaaw-kaczyaski-face-each-other-on-4-july-after-sunday-s-inconclusive-vote-in-polish-presidential-election-2.json)  [XML](/news/2010/06/21/bronisaaw-komorowski-and-jarosaaw-kaczyaski-face-each-other-on-4-july-after-sunday-s-inconclusive-vote-in-polish-presidential-election-2.xml)  
+
 ### [2010-06-21](/news/2010/06/21/index.md)
 
+##### Bronislaw Komorowski
 # Bronislaw Komorowski and Jaroslaw Kaczynski face each other on 4 July after Sunday's inconclusive vote in Polish presidential election, 2010. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/201062113817788827.html)
 1. [Cover Image](http://www.aljazeera.com)

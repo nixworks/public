@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/01/31/2013-pretoria-train-collision-two-passenger-trains-packed-with-schoolchildren-and-rush-hour-commuters-collide-near-pretoria-south-africa.html)  [JSON](/news/2013/01/31/2013-pretoria-train-collision-two-passenger-trains-packed-with-schoolchildren-and-rush-hour-commuters-collide-near-pretoria-south-africa.json)  [XML](/news/2013/01/31/2013-pretoria-train-collision-two-passenger-trains-packed-with-schoolchildren-and-rush-hour-commuters-collide-near-pretoria-south-africa.xml)  
+
 ### [2013-01-31](/news/2013/01/31/index.md)
 
+##### 2013 Pretoria train collision
 # 2013 Pretoria train collision: Two passenger trains packed with schoolchildren and rush-hour commuters collide near Pretoria, South Africa, injuring up to 300 people in a crash. 
 
 At least 300 people, including many schoolchildren, are injured when two passenger trains collide near the South African capital, Pretoria, officials say.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5jo_h8TpWkNb9izUJ-V4asxqtBFBA)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-21274511)
-3. [Reuters](http://www.reuters.com/article/2013/01/31/us-safrica-train-idUSBRE90U0C620130131)
+3. [Reuters](https://www.reuters.com/article/2013/01/31/us-safrica-train-idUSBRE90U0C620130131)
 3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65613000/jpg/_65613898_satrain.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/28/a-police-officer-storms-the-police-headquarters-in-the-city-of-ponce-puerto-rico-and-shoots-dead-three-fellow-officers-including-a-comman.html)  [JSON](/news/2015/12/28/a-police-officer-storms-the-police-headquarters-in-the-city-of-ponce-puerto-rico-and-shoots-dead-three-fellow-officers-including-a-comman.json)  [XML](/news/2015/12/28/a-police-officer-storms-the-police-headquarters-in-the-city-of-ponce-puerto-rico-and-shoots-dead-three-fellow-officers-including-a-comman.xml)  
+
 ### [2015-12-28](/news/2015/12/28/index.md)
 
+##### police officer
 # A police officer storms the police headquarters in the city of Ponce, Puerto Rico, and shoots dead three fellow officers, including a commanding officer. Authorities say Guarionex Candelario, 50, was arrested for the killings shortly afterwards and taken to hospital for minor injuries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NY Daily News](http://www.nydailynews.com/news/national/puerto-rico-police-officers-shot-killed-fellow-article-1.2478627)
 

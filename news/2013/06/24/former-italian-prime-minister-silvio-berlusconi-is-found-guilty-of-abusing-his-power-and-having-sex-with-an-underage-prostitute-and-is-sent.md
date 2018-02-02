@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/24/former-italian-prime-minister-silvio-berlusconi-is-found-guilty-of-abusing-his-power-and-having-sex-with-an-underage-prostitute-and-is-sent.html)  [JSON](/news/2013/06/24/former-italian-prime-minister-silvio-berlusconi-is-found-guilty-of-abusing-his-power-and-having-sex-with-an-underage-prostitute-and-is-sent.json)  [XML](/news/2013/06/24/former-italian-prime-minister-silvio-berlusconi-is-found-guilty-of-abusing-his-power-and-having-sex-with-an-underage-prostitute-and-is-sent.xml)  
+
 ### [2013-06-24](/news/2013/06/24/index.md)
 
+##### Italian Prime Minister
 # Former Italian Prime Minister Silvio Berlusconi is found guilty of abusing his power and having sex with an underage prostitute, and is sentenced to seven years in prison. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/06/24/world/europe/berlusconi-court-guilty/index.html)
 

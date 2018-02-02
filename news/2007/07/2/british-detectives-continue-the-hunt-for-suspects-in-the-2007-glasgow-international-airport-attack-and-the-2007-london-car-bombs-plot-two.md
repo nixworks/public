@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/2/british-detectives-continue-the-hunt-for-suspects-in-the-2007-glasgow-international-airport-attack-and-the-2007-london-car-bombs-plot-two.html)  [JSON](/news/2007/07/2/british-detectives-continue-the-hunt-for-suspects-in-the-2007-glasgow-international-airport-attack-and-the-2007-london-car-bombs-plot-two.json)  [XML](/news/2007/07/2/british-detectives-continue-the-hunt-for-suspects-in-the-2007-glasgow-international-airport-attack-and-the-2007-london-car-bombs-plot-two.xml)  
+
 ### [2007-07-2](/news/2007/07/2/index.md)
 
+##### detective
 #  British detectives continue the hunt for suspects in the 2007 Glasgow International Airport attack and the 2007 London car bombs plot. Two doctors are among the seven people currently in custody in the UK in connection with the attacks with another person held in Brisbane, Queensland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/6259924.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/6261076.stm)

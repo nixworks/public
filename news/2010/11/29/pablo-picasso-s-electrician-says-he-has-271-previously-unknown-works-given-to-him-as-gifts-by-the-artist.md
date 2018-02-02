@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/29/pablo-picasso-s-electrician-says-he-has-271-previously-unknown-works-given-to-him-as-gifts-by-the-artist.html)  [JSON](/news/2010/11/29/pablo-picasso-s-electrician-says-he-has-271-previously-unknown-works-given-to-him-as-gifts-by-the-artist.json)  [XML](/news/2010/11/29/pablo-picasso-s-electrician-says-he-has-271-previously-unknown-works-given-to-him-as-gifts-by-the-artist.xml)  
+
 ### [2010-11-29](/news/2010/11/29/index.md)
 
+##### Picasso
 # Pablo Picasso's electrician says he has 271 previously unknown works given to him as gifts by the artist. 
 
 A retired electrician in southern France says he has hundreds of previously unknown works by Pablo Picasso, worth about 60m euros.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11864660)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

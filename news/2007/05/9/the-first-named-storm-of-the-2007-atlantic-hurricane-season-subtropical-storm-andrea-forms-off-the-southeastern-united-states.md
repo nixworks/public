@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2007/05/9/the-first-named-storm-of-the-2007-atlantic-hurricane-season-subtropical-storm-andrea-forms-off-the-southeastern-united-states.html)  [JSON](/news/2007/05/9/the-first-named-storm-of-the-2007-atlantic-hurricane-season-subtropical-storm-andrea-forms-off-the-southeastern-united-states.json)  [XML](/news/2007/05/9/the-first-named-storm-of-the-2007-atlantic-hurricane-season-subtropical-storm-andrea-forms-off-the-southeastern-united-states.xml)  
+
 ### [2007-05-9](/news/2007/05/9/index.md)
 
+##### 2007
 #  The first named storm of the 2007 Atlantic hurricane season, Subtropical Storm Andrea, forms off the southeastern United States. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2007/WEATHER/05/09/storm.andrea.ap/index.html)
 
 ### Related:
 
-1. [Hurricane Maria makes landfall on Dominica as a category 5 hurricane with maximum sustained winds of 160 mph (260 km-h). Maria is the second category 5 hurricane to make landfall at that intensity in the 2017 season, making this and 2007 the only seasons on record to feature this occurence. ](/news/2017/09/19/hurricane-maria-makes-landfall-on-dominica-as-a-category-5-hurricane-with-maximum-sustained-winds-of-160-mph-260-km-h-maria-is-the-second.md) _Context: 2007_
-2. [Hurricane Matthew, responsible for killing 13 people and knocking out power to 2.2 million households and businesses in the Southeastern United States, is now a Category 1 hurricane (75 mph;120 km-h winds) approaching the North Carolina coast. ](/news/2016/10/8/hurricane-matthew-responsible-for-killing-13-people-and-knocking-out-power-to-2-2-million-households-and-businesses-in-the-southeastern-uni.md) _Context: Southeastern United States_
-3. [Hurricane Matthew hits the southeastern United States as the death toll in Haiti rises to at least 877. ](/news/2016/10/7/hurricane-matthew-hits-the-southeastern-united-states-as-the-death-toll-in-haiti-rises-to-at-least-877.md) _Context: Southeastern United States_
-4. [The Obama administration announces it is cancelling plans to permit drilling for oil and gas off the southeastern U.S. Atlantic coast. A new plan involves 10 potential lease sales in the Gulf of Mexico and three off the coast of Alaska. ](/news/2016/03/15/the-obama-administration-announces-it-is-cancelling-plans-to-permit-drilling-for-oil-and-gas-off-the-southeastern-u-s-atlantic-coast-a-new.md) _Context: Southeastern United States_
-5. [Officials report the casualties from yesterday's spring-like storm that triggered more than 20 tornadoes, destroyed homes, delayed and cancelled air flights, and caused power outages in the U.S. Midwest and Southeast have risen to at least 11 people killed with dozens injured. Mississippi Governor Phil Bryant declares a state of emergency in areas affected by the storm. ](/news/2015/12/24/officials-report-the-casualties-from-yesterday-s-spring-like-storm-that-triggered-more-than-20-tornadoes-destroyed-homes-delayed-and-cance.md) _Context: Southeastern United States_
+1. [Hurricane Maria makes landfall on Dominica as a category 5 hurricane with maximum sustained winds of 160 mph (260 km-h). Maria is the second category 5 hurricane to make landfall at that intensity in the 2017 season, making this and 2007 the only seasons on record to feature this occurrence. ](/news/2017/09/19/hurricane-maria-makes-landfall-on-dominica-as-a-category-5-hurricane-with-maximum-sustained-winds-of-160-mph-260-km-h-maria-is-the-second.md) _Context: 2007_
+2. [Hurricane Matthew hits the southeastern United States as the death toll in Haiti rises to at least 877. ](/news/2016/10/7/hurricane-matthew-hits-the-southeastern-united-states-as-the-death-toll-in-haiti-rises-to-at-least-877.md) _Context: southeastern United States_
+3. [ Subtropical Storm Olga forms north of Puerto Rico, ten days after the official end of the 2007 Atlantic hurricane season. The National Hurricane Center forecasts landfall in the Dominican Republic within 24 hours, and Tropical Storm Warnings and Watches have been posted for the northern shore of the nation. ](/news/2007/12/10/subtropical-storm-olga-forms-north-of-puerto-rico-ten-days-after-the-official-end-of-the-2007-atlantic-hurricane-season-the-national-hurr.md) _Context: 2007_
+4. [ 2007 Atlantic hurricane season: Tropical Storm Noel strengthens into a Category 1 hurricane and heads towards Bermuda having killed at least 108 people so far. ](/news/2007/11/1/2007-atlantic-hurricane-season-tropical-storm-noel-strengthens-into-a-category-1-hurricane-and-heads-towards-bermuda-having-killed-at-leas.md) _Context: 2007_
+5. [ 2007 Atlantic hurricane season: Tropical Depression Sixteen forms 195 miles (310 kilometers) south-southeast of Port au Prince, Haiti. A tropical storm warning is issued for the southwestern peninsula of Haiti, and a tropical storm watch is issued for the southeastern coast of Cuba. ](/news/2007/10/28/2007-atlantic-hurricane-season-tropical-depression-sixteen-forms-195-miles-310-kilometers-south-southeast-of-port-au-prince-haiti-a-tr.md) _Context: 2007_

@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2002/08/20/iraqi-club-al-shorta-win-the-umm-al-maaarak-mother-of-all-battles-cup-for-the-third-time-in-a-row-by-defeating-al-talaba-1-0-in-the-fin.html)  [JSON](/news/2002/08/20/iraqi-club-al-shorta-win-the-umm-al-maaarak-mother-of-all-battles-cup-for-the-third-time-in-a-row-by-defeating-al-talaba-1-0-in-the-fin.json)  [XML](/news/2002/08/20/iraqi-club-al-shorta-win-the-umm-al-maaarak-mother-of-all-battles-cup-for-the-third-time-in-a-row-by-defeating-al-talaba-1-0-in-the-fin.xml)  
+
 ### [2002-08-20](/news/2002/08/20/index.md)
 
+##### Iraq
 #  Iraqi club Al-Shorta win the Umm Al Ma'arak (mother of all battles) Cup for the third time in a row by defeating Al-Talaba 1-0 in the final.
 
 
 
 
-### Related:
-
-1. [ Iraqi club Al-Shorta win the 2001-02 Umm Al Ma'arak (mother of all battles) Cup by defeating Al-Talaba 1-0 in the final.](/news/2002/02/10/iraqi-club-al-shorta-win-the-2001a02-umm-al-maaarak-mother-of-all-battles-cup-by-defeating-al-talaba-1-0-in-the-final.md) _Context: Al-Shorta, Al-Talaba, Iraq, Umm Al Ma'arak (mother of all battles) Cup_
-2. [ Iraqi club Al-Shorta win the 2002 Al-Quds International Championship by defeating Al Najaf 1-0 in the final.](/news/2002/09/8/iraqi-club-al-shorta-win-the-2002-al-quds-international-championship-by-defeating-al-najaf-1-0-in-the-final.md) _Context: Al-Shorta, Iraq_
-3. [The Iraqi Army and allied paramilitary fighters storm the ISIL-held city of Hawija in the Kirkuk Governorate. Hawija is one of the last remaining ISIL strongholds in Iraq. ](/news/2017/10/4/the-iraqi-army-and-allied-paramilitary-fighters-storm-the-isil-held-city-of-hawija-in-the-kirkuk-governorate-hawija-is-one-of-the-last-rema.md) _Context: Iraq_
-4. [Iraqi forces advance into Kurdish-held territory around the city of Kirkuk. Clashes have been reported in the surrounding cities. ](/news/2017/10/15/iraqi-forces-advance-into-kurdish-held-territory-around-the-city-of-kirkuk-clashes-have-been-reported-in-the-surrounding-cities.md) _Context: Iraq_
-5. [Iraq's federal government halts all international flights to and from Iraqi Kurdistan until Kurdish security forces hand over control of Erbil International Airport and Sulaimaniyah International Airport. The Kurdistan Regional Government (KRG) calls the ban "illegal". ](/news/2017/09/29/iraq-s-federal-government-halts-all-international-flights-to-and-from-iraqi-kurdistan-until-kurdish-security-forces-hand-over-control-of-erb.md) _Context: Iraq_
-
 ### Changes:
 
 1. [ Iraqi club Al-Shorta win the Umm Al Ma-arak (mother of all battles) Cup for the third time in a row by defeating Al-Talaba 1-0 in the final.](/news/2002/08/20/iraqi-club-al-shorta-win-the-umm-al-ma-arak-mother-of-all-battles-cup-for-the-third-time-in-a-row-by-defeating-al-talaba-1-0-in-the-fin.md) _2017-08-27 03:15:14 (First version)_
 1. [ Iraqi club Al-Shorta win the Umm Al Ma'arak (mother of all battles) Cup for the third time in a row by defeating Al-Talaba 1-0 in the final.](/news/2002/08/20/iraqi-club-al-shorta-win-the-umm-al-maaarak-mother-of-all-battles-cup-for-the-third-time-in-a-row-by-defeating-al-talaba-1-0-in-the-fin.md) _(Current version)_
+
+### Related:
+
+1. [ Iraqi club Al-Shorta win the 2001-02 Umm Al Ma'arak (mother of all battles) Cup by defeating Al-Talaba 1-0 in the final.](/news/2002/02/10/iraqi-club-al-shorta-win-the-2001a02-umm-al-maaarak-mother-of-all-battles-cup-by-defeating-al-talaba-1-0-in-the-final.md) _Context: Al-Shorta, Al-Talaba, Iraq, Umm Al Ma'arak (mother of all battles) Cup_
+2. [ Iraqi club Al-Shorta win the 2002 Al-Quds International Championship by defeating Al Najaf 1-0 in the final.](/news/2002/09/8/iraqi-club-al-shorta-win-the-2002-al-quds-international-championship-by-defeating-al-najaf-1-0-in-the-final.md) _Context: Al-Shorta, Iraq_
+3. [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md) _Context: Iraq_
+4. [A double suicide bombing kills at least 35 people and injures over 90 in Baghdad, Iraq. ](/news/2018/01/15/a-double-suicide-bombing-kills-at-least-35-people-and-injures-over-90-in-baghdad-iraq.md) _Context: Iraq_
+5. [Iraq announces that its war against Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vile-occupati.md) _Context: Iraq_

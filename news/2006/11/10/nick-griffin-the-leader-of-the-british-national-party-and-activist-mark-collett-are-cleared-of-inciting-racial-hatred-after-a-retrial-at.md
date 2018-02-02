@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/10/nick-griffin-the-leader-of-the-british-national-party-and-activist-mark-collett-are-cleared-of-inciting-racial-hatred-after-a-retrial-at.html)  [JSON](/news/2006/11/10/nick-griffin-the-leader-of-the-british-national-party-and-activist-mark-collett-are-cleared-of-inciting-racial-hatred-after-a-retrial-at.json)  [XML](/news/2006/11/10/nick-griffin-the-leader-of-the-british-national-party-and-activist-mark-collett-are-cleared-of-inciting-racial-hatred-after-a-retrial-at.xml)  
+
 ### [2006-11-10](/news/2006/11/10/index.md)
 
+##### Nick Griffin
 #  Nick Griffin, the leader of the British National Party, and activist Mark Collett are cleared of inciting racial hatred after a retrial at Leeds Crown Court. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/uk_news/england/bradford/6135060.stm)
 

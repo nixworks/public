@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/15/the-trial-of-29-suspects-in-relation-to-the-2004-madrid-train-bombings-begins-in-madrid-spain.html)  [JSON](/news/2007/02/15/the-trial-of-29-suspects-in-relation-to-the-2004-madrid-train-bombings-begins-in-madrid-spain.json)  [XML](/news/2007/02/15/the-trial-of-29-suspects-in-relation-to-the-2004-madrid-train-bombings-begins-in-madrid-spain.xml)  
+
 ### [2007-02-15](/news/2007/02/15/index.md)
 
+##### 2004 Madrid train bombings
 #  The trial of 29 suspects in relation to the 2004 Madrid train bombings begins in Madrid, Spain. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6363149.stm)
 

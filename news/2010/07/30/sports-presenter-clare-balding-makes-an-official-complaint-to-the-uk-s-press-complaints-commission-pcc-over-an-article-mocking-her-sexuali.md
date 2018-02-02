@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/30/sports-presenter-clare-balding-makes-an-official-complaint-to-the-uk-s-press-complaints-commission-pcc-over-an-article-mocking-her-sexuali.html)  [JSON](/news/2010/07/30/sports-presenter-clare-balding-makes-an-official-complaint-to-the-uk-s-press-complaints-commission-pcc-over-an-article-mocking-her-sexuali.json)  [XML](/news/2010/07/30/sports-presenter-clare-balding-makes-an-official-complaint-to-the-uk-s-press-complaints-commission-pcc-over-an-article-mocking-her-sexuali.xml)  
+
 ### [2010-07-30](/news/2010/07/30/index.md)
 
+##### Clare Balding
 # Sports presenter Clare Balding makes an official complaint to the UK's Press Complaints Commission (PCC) over an article mocking her sexuality in "The Sunday Times". 
 
 Sports presenter Clare Balding makes an official complaint to the Press Complaints Commission over an article which mocked her sexuality.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-10817463)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

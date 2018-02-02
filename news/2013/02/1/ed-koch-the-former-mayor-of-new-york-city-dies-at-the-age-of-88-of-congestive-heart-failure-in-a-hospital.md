@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/02/1/ed-koch-the-former-mayor-of-new-york-city-dies-at-the-age-of-88-of-congestive-heart-failure-in-a-hospital.html)  [JSON](/news/2013/02/1/ed-koch-the-former-mayor-of-new-york-city-dies-at-the-age-of-88-of-congestive-heart-failure-in-a-hospital.json)  [XML](/news/2013/02/1/ed-koch-the-former-mayor-of-new-york-city-dies-at-the-age-of-88-of-congestive-heart-failure-in-a-hospital.xml)  
+
 ### [2013-02-1](/news/2013/02/1/index.md)
 
+##### Ed Koch
 # Ed Koch, the former Mayor of New York City, dies at the age of 88 of congestive heart failure in a hospital. 
 
 Unbridled candor and unyielding chutzpah made three-term mayor stand out in a city full of characters.
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/local/obituaries/ed-koch-outspoken-former-mayor-of-new-york-dead-at-88/2013/02/01/451d6c18-c9e4-11e1-aea8-34e2e47d1571_story.html)
+1. [The Washington Post](https://www.washingtonpost.com/local/obituaries/ed-koch-outspoken-former-mayor-of-new-york-dead-at-88/2013/02/01/451d6c18-c9e4-11e1-aea8-34e2e47d1571_story.html)
 
 ### Related:
 

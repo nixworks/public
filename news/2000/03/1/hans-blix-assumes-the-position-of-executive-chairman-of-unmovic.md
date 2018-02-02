@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/03/1/hans-blix-assumes-the-position-of-executive-chairman-of-unmovic.html)  [JSON](/news/2000/03/1/hans-blix-assumes-the-position-of-executive-chairman-of-unmovic.json)  [XML](/news/2000/03/1/hans-blix-assumes-the-position-of-executive-chairman-of-unmovic.xml)  
+
 ### [2000-03-1](/news/2000/03/1/index.md)
 
+##### Hans Blix
 #  Hans Blix assumes the position of Executive Chairman of UNMOVIC.
 
 

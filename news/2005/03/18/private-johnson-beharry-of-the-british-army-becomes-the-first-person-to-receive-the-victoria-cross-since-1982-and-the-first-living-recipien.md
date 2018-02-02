@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/18/private-johnson-beharry-of-the-british-army-becomes-the-first-person-to-receive-the-victoria-cross-since-1982-and-the-first-living-recipien.html)  [JSON](/news/2005/03/18/private-johnson-beharry-of-the-british-army-becomes-the-first-person-to-receive-the-victoria-cross-since-1982-and-the-first-living-recipien.json)  [XML](/news/2005/03/18/private-johnson-beharry-of-the-british-army-becomes-the-first-person-to-receive-the-victoria-cross-since-1982-and-the-first-living-recipien.xml)  
+
 ### [2005-03-18](/news/2005/03/18/index.md)
 
+##### Private
 #  Private Johnson Beharry of the British Army becomes the first person to receive the Victoria Cross since 1982 and the first living recipient since 1969. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://story.news.yahoo.com/news?tmpl=story&cid=574&ncid=721&e=2&u=/nm/20050318/wl_nm/britain_cro_dc)
 

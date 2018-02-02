@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/10/italian-general-election-2006-romano-prodi-declares-victory-in-a-tight-election-as-preliminary-results-show-l-unione-the-union-ahead-of.html)  [JSON](/news/2006/04/10/italian-general-election-2006-romano-prodi-declares-victory-in-a-tight-election-as-preliminary-results-show-l-unione-the-union-ahead-of.json)  [XML](/news/2006/04/10/italian-general-election-2006-romano-prodi-declares-victory-in-a-tight-election-as-preliminary-results-show-l-unione-the-union-ahead-of.xml)  
+
 ### [2006-04-10](/news/2006/04/10/index.md)
 
+##### April 9-10 elections
 #  Italian general election, 2006: Romano Prodi declares victory in a tight election as preliminary results show L'Unione (The Union) ahead of Silvio Berlusconi's House of Freedoms by 0.1 percent in the Chamber of Deputies, but Berlusconi refuses to concede. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4897994.stm)
 2. [La Stampa](http://www.lastampa.it/speciali/elezioni2006/)

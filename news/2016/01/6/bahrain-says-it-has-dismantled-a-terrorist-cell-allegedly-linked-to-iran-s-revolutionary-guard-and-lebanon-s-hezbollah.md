@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/6/bahrain-says-it-has-dismantled-a-terrorist-cell-
 
 ### [2016-01-6](/news/2016/01/6/index.md)
 
+##### Bahrain
 # Bahrain says it has dismantled a terrorist cell allegedly linked to Iran's Revolutionary Guard and Lebanon's Hezbollah. 
 
 Meanwhile, Qatar becomes the latest Gulf Arab state to recall its ambassador to the Islamic republic following attacks on Saudi diplomatic missions in the country.

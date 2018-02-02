@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/30/enhanced-security-preparations-are-reported-in-the-lead-up-to-the-2012-bilderberg-conference-in-chantilly-virginia.html)  [JSON](/news/2012/05/30/enhanced-security-preparations-are-reported-in-the-lead-up-to-the-2012-bilderberg-conference-in-chantilly-virginia.json)  [XML](/news/2012/05/30/enhanced-security-preparations-are-reported-in-the-lead-up-to-the-2012-bilderberg-conference-in-chantilly-virginia.xml)  
+
 ### [2012-05-30](/news/2012/05/30/index.md)
 
+##### Bilderberg Group
 # Enhanced security preparations are reported in the lead-up to the 2012 Bilderberg Conference in Chantilly, Virginia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Mail](http://www.dailymail.co.uk/news/article-2152468/Bilderberg-meeting-Reports-machine-gun-nests-site-secretive-gathering.html?ito=feeds-newsxml)
 

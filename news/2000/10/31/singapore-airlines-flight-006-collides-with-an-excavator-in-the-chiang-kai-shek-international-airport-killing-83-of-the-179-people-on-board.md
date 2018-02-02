@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/10/31/singapore-airlines-flight-006-collides-with-an-excavator-in-the-chiang-kai-shek-international-airport-killing-83-of-the-179-people-on-board.html)  [JSON](/news/2000/10/31/singapore-airlines-flight-006-collides-with-an-excavator-in-the-chiang-kai-shek-international-airport-killing-83-of-the-179-people-on-board.json)  [XML](/news/2000/10/31/singapore-airlines-flight-006-collides-with-an-excavator-in-the-chiang-kai-shek-international-airport-killing-83-of-the-179-people-on-board.xml)  
+
 ### [2000-10-31](/news/2000/10/31/index.md)
 
+##### Singapore Airlines Flight 006
 # Singapore Airlines Flight 006 collides with an excavator in the Chiang Kai-shek International Airport, killing 83 of the 179 people on board and injuring 71 of the 96 survivors.
 
 

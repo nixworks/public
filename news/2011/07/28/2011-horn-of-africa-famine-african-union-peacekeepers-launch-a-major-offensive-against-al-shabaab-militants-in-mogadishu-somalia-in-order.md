@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/28/2011-horn-of-africa-famine-african-union-peacekeepers-launch-a-major-offensive-against-al-shabaab-militants-in-mogadishu-somalia-in-order.html)  [JSON](/news/2011/07/28/2011-horn-of-africa-famine-african-union-peacekeepers-launch-a-major-offensive-against-al-shabaab-militants-in-mogadishu-somalia-in-order.json)  [XML](/news/2011/07/28/2011-horn-of-africa-famine-african-union-peacekeepers-launch-a-major-offensive-against-al-shabaab-militants-in-mogadishu-somalia-in-order.xml)  
+
 ### [2011-07-28](/news/2011/07/28/index.md)
 
+##### famine
 # 2011 Horn of Africa famine: African Union peacekeepers launch a major offensive against Al-Shabaab militants in Mogadishu, Somalia, in order to reduce threats to relief efforts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-africa-14323426)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54313000/jpg/_54313433_012550572-1.jpg)

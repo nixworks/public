@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/2/the-united-states-air-force-sends-12-f-15c-eagle
 
 ### [2016-04-2](/news/2016/04/2/index.md)
 
+##### NATO-Russia relations
 # The United States Air Force sends 12 F-15C Eagles and 350 personnel to Iceland and the Netherlands to deter further Russian aggression in Europe. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/2/a-cabinet-minister-and-four-junior-ministers-belonging-to-the-ceylon-workers-congress-leave-the-government-of-president-of-sri-lanka-mahind.html)  [JSON](/news/2007/08/2/a-cabinet-minister-and-four-junior-ministers-belonging-to-the-ceylon-workers-congress-leave-the-government-of-president-of-sri-lanka-mahind.json)  [XML](/news/2007/08/2/a-cabinet-minister-and-four-junior-ministers-belonging-to-the-ceylon-workers-congress-leave-the-government-of-president-of-sri-lanka-mahind.xml)  
+
 ### [2007-08-2](/news/2007/08/2/index.md)
 
+##### forming a government
 #  A Cabinet Minister and four junior ministers belonging to the Ceylon Workers Congress leave the Government of President of Sri Lanka Mahinda Rajapaksa due to "political differences". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.hindu.com/2007/08/03/stories/2007080354971800.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/26/mexico-s-party-of-the-democratic-revolution-prd-founder-cuauhtemoc-cardenas-resigns-amid-internal-political-crisis-resulting-from-the-disa.html)  [JSON](/news/2014/11/26/mexico-s-party-of-the-democratic-revolution-prd-founder-cuauhtemoc-cardenas-resigns-amid-internal-political-crisis-resulting-from-the-disa.json)  [XML](/news/2014/11/26/mexico-s-party-of-the-democratic-revolution-prd-founder-cuauhtemoc-cardenas-resigns-amid-internal-political-crisis-resulting-from-the-disa.xml)  
+
 ### [2014-11-26](/news/2014/11/26/index.md)
 
+##### Party of the Democratic Revolution
 # Mexico's Party of the Democratic Revolution (PRD) founder Cuauhtmoc Crdenas resigns amid internal political crisis resulting from the disappearance of the 43 students in September. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [El País](http://internacional.elpais.com/internacional/2014/11/26/actualidad/1416961698_473802.html)
 1. [Cover Image](http://ep00.epimg.net/internacional/imagenes/2014/11/26/actualidad/1416961698_473802_1416971488_noticia_normal.jpg)

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2014/12/5/rolling-stone-magazine-issues-a-partial-retraction-on-sabrina-erdely-s-a-rape-on-campus-story-after-additional-fact-checking-identifies-d.html)  [JSON](/news/2014/12/5/rolling-stone-magazine-issues-a-partial-retraction-on-sabrina-erdely-s-a-rape-on-campus-story-after-additional-fact-checking-identifies-d.json)  [XML](/news/2014/12/5/rolling-stone-magazine-issues-a-partial-retraction-on-sabrina-erdely-s-a-rape-on-campus-story-after-additional-fact-checking-identifies-d.xml)  
+
 ### [2014-12-5](/news/2014/12/5/index.md)
 
+##### Rolling Stone Magazine
 # Rolling Stone Magazine issues a partial retraction on Sabrina Erdely's "A Rape on Campus" story after additional fact checking identifies "discrepancies" in the account of the University of Virginia young woman identified as "Jackie" who alleged that seven men raped her as she lay on broken glass during a party at U.Va.'s Phi Kappa Psi fraternity in 2012. 
 
 Lack of documentation puts pressure on accuser.
 
 
-### Source:
+### Sources:
 
-1. [Rolling Stone](http://www.rollingstone.com/culture/news/a-note-to-our-readers-20141205)
+1. [Rolling Stone](https://www.rollingstone.com/culture/news/a-note-to-our-readers-20141205)
 2. [TimesDispatch](http://www.timesdispatch.com/news/state-regional/rolling-stone-backs-off-its-u-va-rape-story/article_82f71500-0cd8-5ae5-9114-fd62d01f0995.html)
-3. [Washington Post](http://www.washingtonpost.com/blogs/erik-wemple/wp/2014/12/02/rolling-stone-whiffs-in-reporting-on-alleged-rape/)
+3. [Washington Post](https://www.washingtonpost.com/blogs/erik-wemple/wp/2014/12/02/rolling-stone-whiffs-in-reporting-on-alleged-rape/)
 3. [Cover Image](//assets.wennermedia.com/rollingstone/img/social/default-rollingstone.jpg)
 
 ### Related:

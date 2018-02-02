@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/10/prominent-north-korean-defector-hwang-jang-yop-is-found-dead-in-seoul-south-korea.html)  [JSON](/news/2010/10/10/prominent-north-korean-defector-hwang-jang-yop-is-found-dead-in-seoul-south-korea.json)  [XML](/news/2010/10/10/prominent-north-korean-defector-hwang-jang-yop-is-found-dead-in-seoul-south-korea.xml)  
+
 ### [2010-10-10](/news/2010/10/10/index.md)
 
+##### North Korea
 # Prominent North Korean defector Hwang Jang-yop is found dead in Seoul, South Korea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gFZRHAmPjgg1QTLY7RYaYqNiYwnwD9IOPBIG2?docId=D9IOPBIG2)
 2. [Yonhap News Agency](http://english.yonhapnews.co.kr/national/2010/10/10/56/0302000000AEN20101010001200315F.HTML)

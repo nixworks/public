@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/19/ugandan-opposition-leader-kizza-besigye-is-placed-under-house-arrest.html)  [JSON](/news/2011/05/19/ugandan-opposition-leader-kizza-besigye-is-placed-under-house-arrest.json)  [XML](/news/2011/05/19/ugandan-opposition-leader-kizza-besigye-is-placed-under-house-arrest.xml)  
+
 ### [2011-05-19](/news/2011/05/19/index.md)
 
+##### Uganda
 # Ugandan opposition leader Kizza Besigye is placed under house arrest. 
 
 Ugandan police on Thursday blocked opposition leader Kizza Besigye from driving from his home to the Kampala city centre, saying the outing would spark criminal acts after he vowed to resume
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gDWxx5KGbUkUatZbLp8l9A3fnCtA?docId=2acf982140664183bb5d9dd6a898c6e3)
 2. [Daily Monitor](http://www.monitor.co.ug/News/National/-/688334/1165696/-/c1hcfpz/-/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/26/senators-john-mccain-and-barack-obama-take-part-in-the-first-of-the-united-states-presidential-election-debates.html)  [JSON](/news/2008/09/26/senators-john-mccain-and-barack-obama-take-part-in-the-first-of-the-united-states-presidential-election-debates.json)  [XML](/news/2008/09/26/senators-john-mccain-and-barack-obama-take-part-in-the-first-of-the-united-states-presidential-election-debates.xml)  
+
 ### [2008-09-26](/news/2008/09/26/index.md)
 
+##### Senator
 #  Senators John McCain and Barack Obama take part in the first of the United States presidential election debates. 
 
 US presidential rivals John McCain and Barack Obama have gone head-to-head in their first televised debate.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2008/09/27/2375920.htm?WT.mc_id=newsmail)
 1. [Cover Image](http://www.abc.net.au/news/image/523706-1x1-700x700.jpg)

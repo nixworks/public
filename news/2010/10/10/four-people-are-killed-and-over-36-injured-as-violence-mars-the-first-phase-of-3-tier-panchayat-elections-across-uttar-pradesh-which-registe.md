@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/10/four-people-are-killed-and-over-36-injured-as-violence-mars-the-first-phase-of-3-tier-panchayat-elections-across-uttar-pradesh-which-registe.html)  [JSON](/news/2010/10/10/four-people-are-killed-and-over-36-injured-as-violence-mars-the-first-phase-of-3-tier-panchayat-elections-across-uttar-pradesh-which-registe.json)  [XML](/news/2010/10/10/four-people-are-killed-and-over-36-injured-as-violence-mars-the-first-phase-of-3-tier-panchayat-elections-across-uttar-pradesh-which-registe.xml)  
+
 ### [2010-10-10](/news/2010/10/10/index.md)
 
+##### Panchayat
 # Four people are killed and over 36 injured as violence mars the first phase of 3-tier Panchayat elections across Uttar Pradesh which registered an 80 per cent turnout in India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Chennai](http://news.chennaionline.com/newsitem.aspx?NEWSID=d77270f5-5846-45e1-bc67-87ada074ca70&CATEGORYNAME=NATL)
 

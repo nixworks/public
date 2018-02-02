@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/1/suspected-neo-nazis-attack-people-at-a-vegan-caf
 
 ### [2016-06-1](/news/2016/06/1/index.md)
 
+##### neo-Nazi
 # Suspected Neo-Nazis attack people at a vegan cafe with slabs of meat in Tbilisi, Georgia. 
 
 The group were also allegedly smoking in a no-smoking area.

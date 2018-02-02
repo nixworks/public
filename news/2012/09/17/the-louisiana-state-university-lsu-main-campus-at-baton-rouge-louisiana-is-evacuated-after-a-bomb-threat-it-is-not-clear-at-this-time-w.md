@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/17/the-louisiana-state-university-lsu-main-campus-at-baton-rouge-louisiana-is-evacuated-after-a-bomb-threat-it-is-not-clear-at-this-time-w.html)  [JSON](/news/2012/09/17/the-louisiana-state-university-lsu-main-campus-at-baton-rouge-louisiana-is-evacuated-after-a-bomb-threat-it-is-not-clear-at-this-time-w.json)  [XML](/news/2012/09/17/the-louisiana-state-university-lsu-main-campus-at-baton-rouge-louisiana-is-evacuated-after-a-bomb-threat-it-is-not-clear-at-this-time-w.xml)  
+
 ### [2012-09-17](/news/2012/09/17/index.md)
 
+##### Louisiana State University
 # The Louisiana State University (LSU) main campus at Baton Rouge, Louisiana, is evacuated after a bomb threat. It is not clear at this time whether it is related to the two previous similar incidents the previous Friday at the University of Texas at Austin (UT) in Austin, Texas, and North Dakota State University (NDSU) in Fargo, North Dakota. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://usnews.nbcnews.com/_news/2012/09/17/13918400-bomb-threat-forces-evacuation-of-lsu-campus-university-says?lite)
 

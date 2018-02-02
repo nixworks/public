@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/19/police-shoot-tear-gas-and-water-cannons-as-thousands-of-people-protest-against-an-authorized-neo-nazi-march-in-dresden.html)  [JSON](/news/2011/02/19/police-shoot-tear-gas-and-water-cannons-as-thousands-of-people-protest-against-an-authorized-neo-nazi-march-in-dresden.json)  [XML](/news/2011/02/19/police-shoot-tear-gas-and-water-cannons-as-thousands-of-people-protest-against-an-authorized-neo-nazi-march-in-dresden.xml)  
+
 ### [2011-02-19](/news/2011/02/19/index.md)
 
+##### tear gas
 # Police shoot tear gas and water cannons as thousands of people protest against an authorized neo-Nazi march in Dresden. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,14854947,00.html)
 

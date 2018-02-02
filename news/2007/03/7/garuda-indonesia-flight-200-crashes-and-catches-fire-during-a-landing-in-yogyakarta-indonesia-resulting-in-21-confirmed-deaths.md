@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/7/garuda-indonesia-flight-200-crashes-and-catches-fire-during-a-landing-in-yogyakarta-indonesia-resulting-in-21-confirmed-deaths.html)  [JSON](/news/2007/03/7/garuda-indonesia-flight-200-crashes-and-catches-fire-during-a-landing-in-yogyakarta-indonesia-resulting-in-21-confirmed-deaths.json)  [XML](/news/2007/03/7/garuda-indonesia-flight-200-crashes-and-catches-fire-during-a-landing-in-yogyakarta-indonesia-resulting-in-21-confirmed-deaths.xml)  
+
 ### [2007-03-7](/news/2007/03/7/index.md)
 
+##### Garuda Indonesia
 #  Garuda Indonesia Flight 200 crashes and catches fire during a landing in Yogyakarta, Indonesia resulting in 21 confirmed deaths. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200703/s1865535.htm)
 2. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/03/06/indonesia.plane/index.html?section=cnn_latest)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/10/the-pakistani-army-announces-that-seven-soldiers-and-fourteen-suspected-militants-have-been-killed-in-fighting-in-the-waziristan-area.html)  [JSON](/news/2006/01/10/the-pakistani-army-announces-that-seven-soldiers-and-fourteen-suspected-militants-have-been-killed-in-fighting-in-the-waziristan-area.json)  [XML](/news/2006/01/10/the-pakistani-army-announces-that-seven-soldiers-and-fourteen-suspected-militants-have-been-killed-in-fighting-in-the-waziristan-area.xml)  
+
 ### [2006-01-10](/news/2006/01/10/index.md)
 
+##### Pakistan
 #  The Pakistani army announces that seven soldiers and fourteen suspected militants have been killed in fighting in the Waziristan area. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/4597630.stm)
 

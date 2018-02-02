@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/26/the-namibian-national-society-for-human-rights-announces-it-will-approach-the-high-court-after-the-electoral-commission-withdraws-its-obser.html)  [JSON](/news/2009/11/26/the-namibian-national-society-for-human-rights-announces-it-will-approach-the-high-court-after-the-electoral-commission-withdraws-its-obser.json)  [XML](/news/2009/11/26/the-namibian-national-society-for-human-rights-announces-it-will-approach-the-high-court-after-the-electoral-commission-withdraws-its-obser.xml)  
+
 ### [2009-11-26](/news/2009/11/26/index.md)
 
+##### Namibia
 #  The Namibian National Society for Human Rights announces it will approach the High Court after the electoral commission withdraws its observer status for the general election on Friday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8380802.stm)
 2. [The Namibian](http://www.namibian.com.na/news/full-story/archive/2009/november/article/poll-ban-heads-to-court/)

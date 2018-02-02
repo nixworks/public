@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/30/current-u-s-officials-and-former-president-jimmy-carter-disagree-over-allegations-that-the-u-s-is-deliberately-keeping-food-aid-from-north.html)  [JSON](/news/2011/04/30/current-u-s-officials-and-former-president-jimmy-carter-disagree-over-allegations-that-the-u-s-is-deliberately-keeping-food-aid-from-north.json)  [XML](/news/2011/04/30/current-u-s-officials-and-former-president-jimmy-carter-disagree-over-allegations-that-the-u-s-is-deliberately-keeping-food-aid-from-north.xml)  
+
 ### [2011-04-30](/news/2011/04/30/index.md)
 
+##### Jimmy Carter
 # Current U.S. officials and former president Jimmy Carter disagree over allegations that the U.S. is deliberately keeping food aid from North Korea despite severe food shortages among people there. 
 
 US officials deny an accusation from former US President Jimmy Carter that the US is withholding food aid from North Korea.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13247723)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52431000/jpg/_52431455_52431454.jpg)

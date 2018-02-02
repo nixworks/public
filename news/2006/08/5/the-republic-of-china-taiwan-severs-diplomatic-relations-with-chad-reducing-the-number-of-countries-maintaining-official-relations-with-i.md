@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/08/5/the-republic-of-china-taiwan-severs-diplomatic-relations-with-chad-reducing-the-number-of-countries-maintaining-official-relations-with-i.html)  [JSON](/news/2006/08/5/the-republic-of-china-taiwan-severs-diplomatic-relations-with-chad-reducing-the-number-of-countries-maintaining-official-relations-with-i.json)  [XML](/news/2006/08/5/the-republic-of-china-taiwan-severs-diplomatic-relations-with-chad-reducing-the-number-of-countries-maintaining-official-relations-with-i.xml)  
+
 ### [2006-08-5](/news/2006/08/5/index.md)
 
+##### Taiwan
 #  The Republic of China (Taiwan) severs diplomatic relations with Chad reducing the number of countries maintaining official relations with it to 24. The ROC foreign ministry cited Chad's intention to establish relations with the People's Republic of China as the reason. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://www.washingtonpost.com/wp-dyn/content/article/2006/08/05/AR2006080500516.html)
+1. [AP](https://www.washingtonpost.com/wp-dyn/content/article/2006/08/05/AR2006080500516.html)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/18/at-least-one-person-is-dead-and-thousands-evacuated-as-typhoon-sepat-hits-taiwan.html)  [JSON](/news/2007/08/18/at-least-one-person-is-dead-and-thousands-evacuated-as-typhoon-sepat-hits-taiwan.json)  [XML](/news/2007/08/18/at-least-one-person-is-dead-and-thousands-evacuated-as-typhoon-sepat-hits-taiwan.xml)  
+
 ### [2007-08-18](/news/2007/08/18/index.md)
 
+##### Typhoon Sepat
 #  At least one person is dead and thousands evacuated as Typhoon Sepat hits Taiwan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/World/Rest_of_World/One_killed_as_powerful_typhoon_slams_into_Taiwan/articleshow/2289945.cms)
 

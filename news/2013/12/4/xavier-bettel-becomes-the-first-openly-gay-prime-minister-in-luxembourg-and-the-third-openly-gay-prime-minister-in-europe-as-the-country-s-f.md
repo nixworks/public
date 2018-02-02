@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/4/xavier-bettel-becomes-the-first-openly-gay-prime-minister-in-luxembourg-and-the-third-openly-gay-prime-minister-in-europe-as-the-country-s-f.html)  [JSON](/news/2013/12/4/xavier-bettel-becomes-the-first-openly-gay-prime-minister-in-luxembourg-and-the-third-openly-gay-prime-minister-in-europe-as-the-country-s-f.json)  [XML](/news/2013/12/4/xavier-bettel-becomes-the-first-openly-gay-prime-minister-in-luxembourg-and-the-third-openly-gay-prime-minister-in-europe-as-the-country-s-f.xml)  
+
 ### [2013-12-4](/news/2013/12/4/index.md)
 
+##### Xavier Bettel
 # Xavier Bettel becomes the first openly gay prime minister in Luxembourg and the third openly gay prime minister in Europe as the country's first government without participation of the Christian Social People's Party since 1979 takes office; Bettel's deputy, Etienne Schneider, is also openly gay, making Luxembourg the first country in the world with the two highest-ranking leaders of government being openly gay. 
 
 New leader is expected to make changes including replacing religious classes with ethics classes in schools.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/12/luxembourg-gets-first-openly-gay-pm-2013124165441367915.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/12/4/201312417326547734_20.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/18/two-more-suspects-are-arrested-in-relation-to-a-triple-murder-in-a-newark-new-jersey-elementary-schoolyard.html)  [JSON](/news/2007/08/18/two-more-suspects-are-arrested-in-relation-to-a-triple-murder-in-a-newark-new-jersey-elementary-schoolyard.json)  [XML](/news/2007/08/18/two-more-suspects-are-arrested-in-relation-to-a-triple-murder-in-a-newark-new-jersey-elementary-schoolyard.xml)  
+
 ### [2007-08-18](/news/2007/08/18/index.md)
 
+##### murder
 #  Two more suspects are arrested in relation to a triple murder in a Newark, New Jersey elementary schoolyard. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/US/08/18/schoolyard.killings/)
 
@@ -15,4 +19,4 @@
 2. [Two more Filipino journalists are murdered in a span of two days adding to toll of more than a hundred journalists killed since 2000. ](/news/2017/08/7/two-more-filipino-journalists-are-murdered-in-a-span-of-two-days-adding-to-toll-of-more-than-a-hundred-journalists-killed-since-2000.md) _Context: murder_
 3. [The Archbishop of Manila Luis Antonio Tagle condemns the extralegal killings and murders under Rodrigo Duterte. ](/news/2016/08/28/the-archbishop-of-manila-luis-antonio-tagle-condemns-the-extralegal-killings-and-murders-under-rodrigo-duterte.md) _Context: murder_
 4. [Philippines President Rodrigo Duterte urges Filipino citizens to murder people suspected of using illegal drugs. ](/news/2016/07/1/philippines-president-rodrigo-duterte-urges-filipino-citizens-to-murder-people-suspected-of-using-illegal-drugs.md) _Context: murder_
-5. [An overnight fire at Pitakiatwittaya Christian elementary school's dormitory in the northern Chiang Rai Province in Thailand kills 18 girls between the ages of 5 and 12. The other 20 girls sleeping in the dorm are rescued, though five are injured. ](/news/2016/05/23/an-overnight-fire-at-pitakiatwittaya-christian-elementary-school-s-dormitory-in-the-northern-chiang-rai-province-in-thailand-kills-18-girls.md) _Context: elementary school's_
+5. [Presidential frontrunner Rodrigo Duterte jokes about an Australian woman being raped and murdered in Davao City. ](/news/2016/04/17/presidential-frontrunner-rodrigo-duterte-jokes-about-an-australian-woman-being-raped-and-murdered-in-davao-city.md) _Context: murder_

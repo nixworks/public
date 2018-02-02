@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/14/a-second-round-of-middle-east-peace-talks-between-israel-and-the-palestinian-authority-concludes-in-sharm-el-sheikh-egypt.html)  [JSON](/news/2010/09/14/a-second-round-of-middle-east-peace-talks-between-israel-and-the-palestinian-authority-concludes-in-sharm-el-sheikh-egypt.json)  [XML](/news/2010/09/14/a-second-round-of-middle-east-peace-talks-between-israel-and-the-palestinian-authority-concludes-in-sharm-el-sheikh-egypt.xml)  
+
 ### [2010-09-14](/news/2010/09/14/index.md)
 
+##### resume negotiations
 # A second round of Middle East peace talks between Israel and the Palestinian Authority concludes in Sharm el-Sheikh, Egypt. 
 
 Mitchell says Israel-Palestinian negotiations moving in the right direction; Egyptian FM says breakthrough cannot be expected.
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=188060)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=149117)

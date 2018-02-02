@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/29/at-least-one-islamist-militant-from-the-banned-islamic-movement-of-uzbekistan-is-killed-in-an-operation-in-tajikistan.html)  [JSON](/news/2010/10/29/at-least-one-islamist-militant-from-the-banned-islamic-movement-of-uzbekistan-is-killed-in-an-operation-in-tajikistan.json)  [XML](/news/2010/10/29/at-least-one-islamist-militant-from-the-banned-islamic-movement-of-uzbekistan-is-killed-in-an-operation-in-tajikistan.xml)  
+
 ### [2010-10-29](/news/2010/10/29/index.md)
 
+##### Islamist
 # At least one Islamist militant from the banned Islamic Movement of Uzbekistan is killed in an operation in Tajikistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Interfax](http://www.interfax-religion.com/?act=news&div=7858)
 

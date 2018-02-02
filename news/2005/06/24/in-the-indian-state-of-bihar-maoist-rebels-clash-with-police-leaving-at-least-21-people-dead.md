@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/24/in-the-indian-state-of-bihar-maoist-rebels-clash-with-police-leaving-at-least-21-people-dead.html)  [JSON](/news/2005/06/24/in-the-indian-state-of-bihar-maoist-rebels-clash-with-police-leaving-at-least-21-people-dead.json)  [XML](/news/2005/06/24/in-the-indian-state-of-bihar-maoist-rebels-clash-with-police-leaving-at-least-21-people-dead.xml)  
+
 ### [2005-06-24](/news/2005/06/24/index.md)
 
+##### India
 #  In the Indian state of Bihar, Maoist rebels clash with police, leaving at least 21 people dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4617963.stm)
 2. [The Hindu](http://www.hindu.com/thehindu/holnus/000200506241001.htm)

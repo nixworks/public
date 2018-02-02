@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2006/09/2/offices-of-at-least-six-alaska-legislators-including-republican-senate-president-ben-stevens-son-of-the-senior-republican-u-s-senator-te.html)  [JSON](/news/2006/09/2/offices-of-at-least-six-alaska-legislators-including-republican-senate-president-ben-stevens-son-of-the-senior-republican-u-s-senator-te.json)  [XML](/news/2006/09/2/offices-of-at-least-six-alaska-legislators-including-republican-senate-president-ben-stevens-son-of-the-senior-republican-u-s-senator-te.xml)  
+
 ### [2006-09-2](/news/2006/09/2/index.md)
 
+##### Alaska
 #  Offices of at least six Alaska legislators, including Republican Senate President Ben Stevens, son of the senior Republican U.S. Senator Ted Stevens, are raided by federal agents searching for possible ties between the lawmakers and VECO, an Anchorage based company whose executives are major contributors to political campaigns. 
 
 Ben Stevens, a Republican who is the State Senate president and son of Senator Ted Stevens, is among those whose offices were searched on Thursday.
 
 
-### Source:
+### Sources:
 
 1. [Anchorage Daily News](http://www.adn.com/front/picture_inset/story/8148264p-8041069c.html)
 2. [CNN](http://www.cnn.com/2006/POLITICS/09/01/alaska.lawmakers.raid.ap/index.html)
-3. [New York Times](http://www.nytimes.com/2006/09/02/us/02alaska.html?ref=us)
-4. [Yahoo!](http://news.yahoo.com/s/ap/20060901/ap_on_re_us/alaska_lawmakers_fbi_raid)
+3. [New York Times](https://www.nytimes.com/2006/09/02/us/02alaska.html?ref=us)
+4. [Yahoo!](https://news.yahoo.com/s/ap/20060901/ap_on_re_us/alaska_lawmakers_fbi_raid)
 4. [Cover Image](https://static01.nyt.com/images/2006/09/02/us/02alaska75.jpg)
 
 ### Related:

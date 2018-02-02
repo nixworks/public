@@ -1,16 +1,25 @@
+
+Formats: [HTML](/news/2011/03/25/up-to-one-million-people-flee-abidjan-in-southern-ca-te-d-ivoire-amid-violence.html)  [JSON](/news/2011/03/25/up-to-one-million-people-flee-abidjan-in-southern-ca-te-d-ivoire-amid-violence.json)  [XML](/news/2011/03/25/up-to-one-million-people-flee-abidjan-in-southern-ca-te-d-ivoire-amid-violence.xml)  
+
 ### [2011-03-25](/news/2011/03/25/index.md)
 
+##### 2010-2011 Ivorian crisis
 # Up to one million people flee Abidjan in southern Cote d'Ivoire amid violence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC World Service](http://www.bbc.co.uk/worldservice/africa/2011/03/110325_ivory_coast_ecowas.shtml)
 2. [IOL](http://www.iol.co.za/news/africa/almost-1million-ivorians-flee-abidjan-1.1047504)
 3. [UN](http://www.un.org/apps/news/story.asp?NewsID=37899&Cr=Ivoire&Cr1=)
 3. [Cover Image](/News/dh/photos/large/2011/03-25-unhcr-ivoire.jpg)
+
+### Changes:
+
+1. [2010-2011 Ivorian crisis: Up to one million people flee Abidjan in southern Cote d'Ivoire amid violence. ](/news/2011/03/25/2010-2011-ivorian-crisis-up-to-one-million-people-flee-abidjan-in-southern-ca-te-d-ivoire-amid-violence.md) _2017-08-27 03:32:47 (First version)_
+1. [Up to one million people flee Abidjan in southern Cote d'Ivoire amid violence. ](/news/2011/03/25/up-to-one-million-people-flee-abidjan-in-southern-ca-te-d-ivoire-amid-violence.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +28,3 @@
 3. [2010-2011 Ivorian crisis: Unrest continues in Cote d'Ivoire as the internationally-recognised President Alassane Ouattara heads to a mediation summit. ](/news/2011/03/9/2010a2011-ivorian-crisis-unrest-continues-in-ca-te-d-ivoire-as-the-internationally-recognised-president-alassane-ouattara-heads-to-a-medi.md) _Context: 2010-2011 Ivorian crisis, Cote d'Ivoire_
 4. [2010-2011 Ivorian crisis: Four people are shot dead in Abidjan after a march to protest the killing of seven female demonstrators last week. ](/news/2011/03/8/2010a2011-ivorian-crisis-four-people-are-shot-dead-in-abidjan-after-a-march-to-protest-the-killing-of-seven-female-demonstrators-last-wee.md) _Context: 2010-2011 Ivorian crisis, Abidjan_
 5. [Nigeria accuses the international community of taking action in Libya while doing little to resolve the crisis in Cote d'Ivoire. ](/news/2011/03/22/nigeria-accuses-the-international-community-of-taking-action-in-libya-while-doing-little-to-resolve-the-crisis-in-ca-te-d-ivoire.md) _Context: 2010-2011 Ivorian crisis, Cote d'Ivoire_
-
-### Changes:
-
-1. [2010-2011 Ivorian crisis: Up to one million people flee Abidjan in southern Cote d'Ivoire amid violence. ](/news/2011/03/25/2010-2011-ivorian-crisis-up-to-one-million-people-flee-abidjan-in-southern-ca-te-d-ivoire-amid-violence.md) _2017-08-27 03:32:47 (First version)_
-1. [Up to one million people flee Abidjan in southern Cote d'Ivoire amid violence. ](/news/2011/03/25/up-to-one-million-people-flee-abidjan-in-southern-ca-te-d-ivoire-amid-violence.md) _(Current version)_

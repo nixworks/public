@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/18/bahrain-gives-abdullah-of-saudi-arabia-the-ajrab-sword-of-imam-turki-bin-abdullah-kept-by-bahrain-for-140-years-and-confers-on-him-the-sheik.html)  [JSON](/news/2010/04/18/bahrain-gives-abdullah-of-saudi-arabia-the-ajrab-sword-of-imam-turki-bin-abdullah-kept-by-bahrain-for-140-years-and-confers-on-him-the-sheik.json)  [XML](/news/2010/04/18/bahrain-gives-abdullah-of-saudi-arabia-the-ajrab-sword-of-imam-turki-bin-abdullah-kept-by-bahrain-for-140-years-and-confers-on-him-the-sheik.xml)  
+
 ### [2010-04-18](/news/2010/04/18/index.md)
 
+##### Bahrain
 # Bahrain gives Abdullah of Saudi Arabia the Ajrab sword of Imam Turki bin Abdullah kept by Bahrain for 140 years and confers on him the Sheikh Isa bin Salman Al Khalifah Medal during a ceremony at Al-Sakhir Palace. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://arabnews.com/saudiarabia/article44772.ece)
 2. [Bahrain News Agency](http://english.bna.bh/?ID=86533)

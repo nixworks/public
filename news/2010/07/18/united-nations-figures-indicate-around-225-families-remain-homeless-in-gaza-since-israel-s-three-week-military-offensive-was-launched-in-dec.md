@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/18/united-nations-figures-indicate-around-225-families-remain-homeless-in-gaza-since-israel-s-three-week-military-offensive-was-launched-in-dec.html)  [JSON](/news/2010/07/18/united-nations-figures-indicate-around-225-families-remain-homeless-in-gaza-since-israel-s-three-week-military-offensive-was-launched-in-dec.json)  [XML](/news/2010/07/18/united-nations-figures-indicate-around-225-families-remain-homeless-in-gaza-since-israel-s-three-week-military-offensive-was-launched-in-dec.xml)  
+
 ### [2010-07-18](/news/2010/07/18/index.md)
 
+##### United Nations
 # United Nations figures indicate around 225 families remain homeless in Gaza since Israel's three-week military offensive was launched in December 2008. 
 
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 
-### Source:
+### Sources:
 
 1. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1322210&lang=eng_news)
 

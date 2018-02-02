@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/24/proxima-centauri-b-is-discovered-as-the-closest
 
 ### [2016-08-24](/news/2016/08/24/index.md)
 
+##### Proxima Centauri b
 # Proxima Centauri b is discovered as the closest exoplanet to Earth that may be habitable. 
 
 Scientists identify a planet only slightly larger than Earth that is orbiting Proxima Centauri - the closest star to our Solar System.

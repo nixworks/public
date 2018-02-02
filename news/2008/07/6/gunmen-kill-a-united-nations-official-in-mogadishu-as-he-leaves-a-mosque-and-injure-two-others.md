@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/6/gunmen-kill-a-united-nations-official-in-mogadishu-as-he-leaves-a-mosque-and-injure-two-others.html)  [JSON](/news/2008/07/6/gunmen-kill-a-united-nations-official-in-mogadishu-as-he-leaves-a-mosque-and-injure-two-others.json)  [XML](/news/2008/07/6/gunmen-kill-a-united-nations-official-in-mogadishu-as-he-leaves-a-mosque-and-injure-two-others.xml)  
+
 ### [2008-07-6](/news/2008/07/6/index.md)
 
+##### United Nations
 #  Gunmen kill a United Nations official in Mogadishu as he leaves a mosque and injure two others. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://edition.cnn.com/2008/WORLD/africa/07/06/somalia.attack.ap/)
 

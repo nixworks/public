@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/18/dna-testing-proved-that-the-bodies-found-on-the-shores-of-san-francisco-bay-were-those-of-the-missing-laci-peterson-and-her-unborn-son-pet.html)  [JSON](/news/2003/04/18/dna-testing-proved-that-the-bodies-found-on-the-shores-of-san-francisco-bay-were-those-of-the-missing-laci-peterson-and-her-unborn-son-pet.json)  [XML](/news/2003/04/18/dna-testing-proved-that-the-bodies-found-on-the-shores-of-san-francisco-bay-were-those-of-the-missing-laci-peterson-and-her-unborn-son-pet.xml)  
+
 ### [2003-04-18](/news/2003/04/18/index.md)
 
+##### DNA
 #  DNA testing proved that the bodies found on the shores of San Francisco Bay were those of the missing Laci Peterson and her unborn son. Peterson's husband, Scott, was arrested in La Jolla, California, and returned to their home town of Modesto, California, for trial.
 
 

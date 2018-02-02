@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/04/3/wwe-presents-wrestlemania-21-in-hollywood-california.html)  [JSON](/news/2005/04/3/wwe-presents-wrestlemania-21-in-hollywood-california.json)  [XML](/news/2005/04/3/wwe-presents-wrestlemania-21-in-hollywood-california.xml)  
+
 ### [2005-04-3](/news/2005/04/3/index.md)
 
+##### World Wrestling Entertainment
 #  WWE presents "WrestleMania 21" in Hollywood, California
 
 

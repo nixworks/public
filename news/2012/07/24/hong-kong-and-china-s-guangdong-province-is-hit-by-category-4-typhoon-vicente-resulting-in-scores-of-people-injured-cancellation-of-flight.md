@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2012/07/24/hong-kong-and-china-s-guangdong-province-is-hit-by-category-4-typhoon-vicente-resulting-in-scores-of-people-injured-cancellation-of-flight.html)  [JSON](/news/2012/07/24/hong-kong-and-china-s-guangdong-province-is-hit-by-category-4-typhoon-vicente-resulting-in-scores-of-people-injured-cancellation-of-flight.json)  [XML](/news/2012/07/24/hong-kong-and-china-s-guangdong-province-is-hit-by-category-4-typhoon-vicente-resulting-in-scores-of-people-injured-cancellation-of-flight.xml)  
+
 ### [2012-07-24](/news/2012/07/24/index.md)
 
+##### Hong Kong
 # Hong Kong and China's Guangdong Province is hit by Category 4 Typhoon Vicente, resulting in scores of people injured, cancellation of flights and closure of businesses. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''Herald Sun](http://www.heraldsun.com.au/news/breaking-news/hong-kong-battens-down-for-typhoon/story-e6frf7k6-1226433447412)
-2. [Reuters](http://www.reuters.com/article/2012/07/24/us-hongkong-typhoon-idUSBRE86N02620120724)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120724&t=2&i=633582200&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86N047700)
+2. [Reuters](https://www.reuters.com/article/2012/07/24/us-hongkong-typhoon-idUSBRE86N02620120724)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120724&t=2&i=633582200&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86N047700)
 
 ### Related:
 

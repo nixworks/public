@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/30/pakistan-s-military-captures-mingora-swat-from-the-taliban.html)  [JSON](/news/2009/05/30/pakistan-s-military-captures-mingora-swat-from-the-taliban.json)  [XML](/news/2009/05/30/pakistan-s-military-captures-mingora-swat-from-the-taliban.xml)  
+
 ### [2009-05-30](/news/2009/05/30/index.md)
 
+##### Pakistan
 #  Pakistan's military captures Mingora, Swat, from the Taliban. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hkiMxbHNH0BqgpWA2ZG6VD6wVTmAD98GGEEG1)
 

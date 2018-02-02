@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/16/chen-shui-bian-makes-a-televised-address-reiterating-the-four-noes-and-one-without-pledge-and-announcing-the-two-questions-for-a-referendum.html)  [JSON](/news/2004/01/16/chen-shui-bian-makes-a-televised-address-reiterating-the-four-noes-and-one-without-pledge-and-announcing-the-two-questions-for-a-referendum.json)  [XML](/news/2004/01/16/chen-shui-bian-makes-a-televised-address-reiterating-the-four-noes-and-one-without-pledge-and-announcing-the-two-questions-for-a-referendum.xml)  
+
 ### [2004-01-16](/news/2004/01/16/index.md)
 
+##### Chen Shui-bian
 #  Chen Shui-bian makes a televised address reiterating the Four Noes and One Without pledge and announcing the two questions for a referendum to coincide with the ROC presidential election, 2004 on March 20.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/1/three-pakistani-soldiers-and-one-indian-soldier-are-killed-following-an-attack-by-indian-border-forces-on-a-pakistani-checkpost-along-the-li.html)  [JSON](/news/2011/09/1/three-pakistani-soldiers-and-one-indian-soldier-are-killed-following-an-attack-by-indian-border-forces-on-a-pakistani-checkpost-along-the-li.json)  [XML](/news/2011/09/1/three-pakistani-soldiers-and-one-indian-soldier-are-killed-following-an-attack-by-indian-border-forces-on-a-pakistani-checkpost-along-the-li.xml)  
+
 ### [2011-09-1](/news/2011/09/1/index.md)
 
+##### Pakistani
 # Three Pakistani soldiers and one Indian soldier are killed following an attack by Indian border forces on a Pakistani checkpost along the Line of Control. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Express Tribune](http://tribune.com.pk/story/243324/loc-three-pakistani-soldiers-die-in-attack-by-indian-forces/)
 1. [Cover Image](https://c.tribune.com.pk/2011/09/243324-KashmirLOCtradeepa-1314859945-866-640x480.jpg)

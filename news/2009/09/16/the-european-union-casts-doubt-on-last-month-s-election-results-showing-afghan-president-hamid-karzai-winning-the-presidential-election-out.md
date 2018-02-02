@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/09/16/the-european-union-casts-doubt-on-last-month-s-election-results-showing-afghan-president-hamid-karzai-winning-the-presidential-election-out.html)  [JSON](/news/2009/09/16/the-european-union-casts-doubt-on-last-month-s-election-results-showing-afghan-president-hamid-karzai-winning-the-presidential-election-out.json)  [XML](/news/2009/09/16/the-european-union-casts-doubt-on-last-month-s-election-results-showing-afghan-president-hamid-karzai-winning-the-presidential-election-out.xml)  
+
 ### [2009-09-16](/news/2009/09/16/index.md)
 
+##### European Union
 #  The European Union casts doubt on last month's election results showing Afghan President Hamid Karzai winning the presidential election outright in the first round. 
 
 Afghan President Hamid Karzai won the presidential vote outright in the first round, election officials said on Wednesday, but the European Union said more than a third of his votes might be suspect because of fraud.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE58F1QJ20090916)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090916&t=2&i=11620090&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-09-16T224022Z_01_BTRE58F1QZF00_RTROPTP_0_AFGHANISTAN-ELECTION-RESULTS)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE58F1QJ20090916)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20090916&t=2&i=11620090&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-09-16T224022Z_01_BTRE58F1QZF00_RTROPTP_0_AFGHANISTAN-ELECTION-RESULTS)
 
 ### Related:
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/11/the-obama-administration-through-the-u-s-defens
 
 ### [2016-10-11](/news/2016/10/11/index.md)
 
+##### Yemeni Crisis
 # The Obama administration through the U.S. Defense Department says it will take appropriate action against those responsible for October 9 unsuccessful cruise missile attack, apparently fired from Houthi-controlled territory in Yemen, upon the USS Mason. 
 
 The Pentagon on Tuesday warned that whoever fired missiles at a U.S. Navy destroyer and an accompanying ship off the coast of Yemen over the weekend had done so &quot;at their own peril,&quot; language that suggested preparations for possible retaliation.

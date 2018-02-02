@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/10/hundreds-of-thousands-of-people-made-a-protest-against-president-chen-shui-bian-in-taipei-taiwan-surrounding-office-of-the-president-whe.html)  [JSON](/news/2006/10/10/hundreds-of-thousands-of-people-made-a-protest-against-president-chen-shui-bian-in-taipei-taiwan-surrounding-office-of-the-president-whe.json)  [XML](/news/2006/10/10/hundreds-of-thousands-of-people-made-a-protest-against-president-chen-shui-bian-in-taipei-taiwan-surrounding-office-of-the-president-whe.xml)  
+
 ### [2006-10-10](/news/2006/10/10/index.md)
 
+##### made a protest
 #  Hundreds of thousands of people made a protest against President Chen Shui-bian in Taipei, Taiwan, surrounding Office of the President, where Chen took part in ceremony marking Double Tenth Day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6036189.stm)
 

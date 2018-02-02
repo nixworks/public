@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/12/1/vicente-fox-takes-office-as-president-of-mexico.html)  [JSON](/news/2000/12/1/vicente-fox-takes-office-as-president-of-mexico.json)  [XML](/news/2000/12/1/vicente-fox-takes-office-as-president-of-mexico.xml)  
+
 ### [2000-12-1](/news/2000/12/1/index.md)
 
+##### Vicente Fox
 #  Vicente Fox takes office as President of Mexico.
 
 

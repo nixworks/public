@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/19/u-s-begins-military-strikes-in-iraq-which-many-consider-the-beginning-of-the-iraq-war.html)  [JSON](/news/2003/03/19/u-s-begins-military-strikes-in-iraq-which-many-consider-the-beginning-of-the-iraq-war.json)  [XML](/news/2003/03/19/u-s-begins-military-strikes-in-iraq-which-many-consider-the-beginning-of-the-iraq-war.xml)  
+
 ### [2003-03-19](/news/2003/03/19/index.md)
 
+##### Iraq
 #  U.S. begins military strikes in Iraq, which many consider the beginning of the Iraq War.
 
 

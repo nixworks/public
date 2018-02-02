@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2004/11/29/two-u-s-soldiers-are-killed-and-three-wounded-when-a-roadside-bomb-in-baghdad-detonates-four-iraqi-national-guard-are-killed-in-an-attack.html)  [JSON](/news/2004/11/29/two-u-s-soldiers-are-killed-and-three-wounded-when-a-roadside-bomb-in-baghdad-detonates-four-iraqi-national-guard-are-killed-in-an-attack.json)  [XML](/news/2004/11/29/two-u-s-soldiers-are-killed-and-three-wounded-when-a-roadside-bomb-in-baghdad-detonates-four-iraqi-national-guard-are-killed-in-an-attack.xml)  
+
 ### [2004-11-29](/news/2004/11/29/index.md)
 
+##### Baghdad
 #  Two U.S. soldiers are killed and three wounded when a roadside bomb in Baghdad detonates. Four Iraqi National Guard are killed in an attack on a checkpoint in nearby Baghdadi. Six Iraqis are killed in a blast near a police station in Ramadi. The Iraqi Red Crescent establishes a relief center in Fallujah, while the International Red Cross says the city remains under siege and workers are unable to freely administer aid. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4051391.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6945002)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6945467)
-3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6945002)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6945467)
 
 ### Related:
 

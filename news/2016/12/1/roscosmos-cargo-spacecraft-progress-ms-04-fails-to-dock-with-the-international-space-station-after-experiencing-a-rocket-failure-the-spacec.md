@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/1/roscosmos-cargo-spacecraft-progress-ms-04-fails-
 
 ### [2016-12-1](/news/2016/12/1/index.md)
 
+##### Roscosmos
 # Roscosmos cargo spacecraft Progress MS-04 fails to dock with the International Space Station after experiencing a rocket failure. The spacecraft is believed to have mainly burnt up in the atmosphere. 
 
 Russia’s space agency has confirmed that an unmanned cargo ship launched on Thursday to take supplies to the International Space Station has been lost.

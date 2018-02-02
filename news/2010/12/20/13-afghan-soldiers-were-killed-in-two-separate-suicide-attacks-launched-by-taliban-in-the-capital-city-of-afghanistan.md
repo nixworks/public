@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/20/13-afghan-soldiers-were-killed-in-two-separate-suicide-attacks-launched-by-taliban-in-the-capital-city-of-afghanistan.html)  [JSON](/news/2010/12/20/13-afghan-soldiers-were-killed-in-two-separate-suicide-attacks-launched-by-taliban-in-the-capital-city-of-afghanistan.json)  [XML](/news/2010/12/20/13-afghan-soldiers-were-killed-in-two-separate-suicide-attacks-launched-by-taliban-in-the-capital-city-of-afghanistan.xml)  
+
 ### [2010-12-20](/news/2010/12/20/index.md)
 
+##### Taliban
 # 13 Afghan soldiers were killed in two separate suicide attacks launched by Taliban in the capital city of Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TRT](http://www.trtenglish.com/trtworld/en/newsDetail.aspx?HaberKodu=15d7bbee-1d5f-4321-9200-3c9b8ccf3488)
 

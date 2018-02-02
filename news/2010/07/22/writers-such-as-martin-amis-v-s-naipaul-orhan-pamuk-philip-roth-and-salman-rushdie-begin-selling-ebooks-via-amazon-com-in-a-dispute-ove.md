@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/22/writers-such-as-martin-amis-v-s-naipaul-orhan-pamuk-philip-roth-and-salman-rushdie-begin-selling-ebooks-via-amazon-com-in-a-dispute-ove.html)  [JSON](/news/2010/07/22/writers-such-as-martin-amis-v-s-naipaul-orhan-pamuk-philip-roth-and-salman-rushdie-begin-selling-ebooks-via-amazon-com-in-a-dispute-ove.json)  [XML](/news/2010/07/22/writers-such-as-martin-amis-v-s-naipaul-orhan-pamuk-philip-roth-and-salman-rushdie-begin-selling-ebooks-via-amazon-com-in-a-dispute-ove.xml)  
+
 ### [2010-07-22](/news/2010/07/22/index.md)
 
+##### Martin Amis
 # Writers such as Martin Amis, V. S. Naipaul, Orhan Pamuk, Philip Roth and Salman Rushdie begin selling ebooks via Amazon.com in a dispute over digital royalties. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/books/2010/jul/22/authors-bypass-publishers-ebooks-amazon)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/19/peter-robinson-announces-he-will-step-down-as-northern-ireland-s-first-minister-and-as-leader-of-the-democratic-unionist-party-correspondin.html)  [JSON](/news/2015/11/19/peter-robinson-announces-he-will-step-down-as-northern-ireland-s-first-minister-and-as-leader-of-the-democratic-unionist-party-correspondin.json)  [XML](/news/2015/11/19/peter-robinson-announces-he-will-step-down-as-northern-ireland-s-first-minister-and-as-leader-of-the-democratic-unionist-party-correspondin.xml)  
+
 ### [2015-11-19](/news/2015/11/19/index.md)
 
+##### Peter Robinson
 # Peter Robinson announces he will step down as Northern Ireland's First Minister and as leader of the Democratic Unionist Party, corresponding with recent tensions in the area and a murder linked with the Irish Republican Army. 
 
 Democratic Unionist leader Peter Robinson has announced in a newspaper his intention to step down as Northern Ireland&amp;#39;s First Minister. Mr Robinson&amp;#39;s article in the Belfast Telegraph, written ahead of his party&amp;#39;s conference, confirmed he will not contest next May&amp;#39;s Assembly election and is likely leave office in the coming weeks. 
 
 
-### Source:
+### Sources:
 
 1. [ITV News](http://www.itv.com/news/update/2015-11-19/robinson-to-step-down-as-northern-irelands-first-minister/)
 1. [Cover Image](http://news-assets.sn.itv.com/image/file/826804/img.jpg)

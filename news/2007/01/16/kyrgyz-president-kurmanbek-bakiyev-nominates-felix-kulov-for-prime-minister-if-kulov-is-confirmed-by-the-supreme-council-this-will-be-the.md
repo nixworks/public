@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/16/kyrgyz-president-kurmanbek-bakiyev-nominates-felix-kulov-for-prime-minister-if-kulov-is-confirmed-by-the-supreme-council-this-will-be-the.html)  [JSON](/news/2007/01/16/kyrgyz-president-kurmanbek-bakiyev-nominates-felix-kulov-for-prime-minister-if-kulov-is-confirmed-by-the-supreme-council-this-will-be-the.json)  [XML](/news/2007/01/16/kyrgyz-president-kurmanbek-bakiyev-nominates-felix-kulov-for-prime-minister-if-kulov-is-confirmed-by-the-supreme-council-this-will-be-the.xml)  
+
 ### [2007-01-16](/news/2007/01/16/index.md)
 
+##### Kyrgyz President
 #  Kyrgyz President Kurmanbek Bakiyev nominates Felix Kulov for Prime Minister. If Kulov is confirmed by the Supreme Council, this will be the third time Bakiyev has appointed Kulov Prime Minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RadioFreeEurope/RadioLiberty](http://www.rferl.org/featuresarticle/2007/1/37BD50F1-4AB1-46F8-A125-3A1D651A93B5.html)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/26/pakistan-s-government-calls-for-troops-to-be-de
 
 ### [2017-11-26](/news/2017/11/26/index.md)
 
+##### 2017 Tehreek-e-Labaik protest
 # Pakistan's government calls for troops to be deployed in the capital, Islamabad, after violence breaks out during protests by Islamists that were organized by the Tehreek-e-Labaik. 
 
 

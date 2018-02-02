@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/6/fourteen-people-are-killed-when-a-tunisian-atr-72-passenger-plane-carrying-39-passengers-and-crew-ditches-in-the-sea-off-the-coast-of-the-i.html)  [JSON](/news/2005/08/6/fourteen-people-are-killed-when-a-tunisian-atr-72-passenger-plane-carrying-39-passengers-and-crew-ditches-in-the-sea-off-the-coast-of-the-i.json)  [XML](/news/2005/08/6/fourteen-people-are-killed-when-a-tunisian-atr-72-passenger-plane-carrying-39-passengers-and-crew-ditches-in-the-sea-off-the-coast-of-the-i.xml)  
+
 ### [2005-08-6](/news/2005/08/6/index.md)
 
+##### Tunisia
 #  Fourteen people are killed when a Tunisian ATR 72 passenger plane carrying 39 passengers and crew ditches in the sea off the coast of the Italian island of Sicily. 
 
 Search Continues For Three Missing Passengers, 13 Confirmed Dead
 
 
-### Source:
+### Sources:
 
 1. [CBS/AP](http://www.cbsnews.com/stories/2005/08/06/world/main763639.shtml)
 2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2005-08-06T162032Z_01_MOL654124_RTRUKOC_0_CRASH-ITALY.xml)

@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2003/12/17/governor-of-connecticut-john-g-rowland-announces-that-he-will-not-resign-despite-allegations-of-corruption-involving-the-receipt-of-free-m.html)  [JSON](/news/2003/12/17/governor-of-connecticut-john-g-rowland-announces-that-he-will-not-resign-despite-allegations-of-corruption-involving-the-receipt-of-free-m.json)  [XML](/news/2003/12/17/governor-of-connecticut-john-g-rowland-announces-that-he-will-not-resign-despite-allegations-of-corruption-involving-the-receipt-of-free-m.xml)  
+
 ### [2003-12-17](/news/2003/12/17/index.md)
 
-# Governor of Connecticut John G. Rowland announces that he will not resign, despite allegations of corruption involving the receipt of free modifications to a vacation cottage, and the indictments of several of his top aides. [http:--www.usatoday.com-news-nation-2003-12-13-ct-governor_x.htm]
+##### Governor
+# Governor of Connecticut John G. Rowland announces that he will not resign, despite allegations of corruption involving the receipt of free modifications to a vacation cottage, and the indictments of several of his top aides. [https:--www.usatoday.com-news-nation-2003-12-13-ct-governor_x.htm]
 
 
 

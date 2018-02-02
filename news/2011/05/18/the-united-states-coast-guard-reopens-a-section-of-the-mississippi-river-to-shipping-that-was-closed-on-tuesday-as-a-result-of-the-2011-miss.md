@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/18/the-united-states-coast-guard-reopens-a-section-of-the-mississippi-river-to-shipping-that-was-closed-on-tuesday-as-a-result-of-the-2011-miss.html)  [JSON](/news/2011/05/18/the-united-states-coast-guard-reopens-a-section-of-the-mississippi-river-to-shipping-that-was-closed-on-tuesday-as-a-result-of-the-2011-miss.json)  [XML](/news/2011/05/18/the-united-states-coast-guard-reopens-a-section-of-the-mississippi-river-to-shipping-that-was-closed-on-tuesday-as-a-result-of-the-2011-miss.xml)  
+
 ### [2011-05-18](/news/2011/05/18/index.md)
 
+##### United States Coast Guard
 # The United States Coast Guard reopens a section of the Mississippi River to shipping that was closed on Tuesday as a result of the 2011 Mississippi River floods. 
 
 The US Coast Guard re-opens a section of the swollen Mississippi River to shipping, after closing it to protect strained flood defences.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13434361)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52803000/jpg/_52803977_012003177-1.jpg)

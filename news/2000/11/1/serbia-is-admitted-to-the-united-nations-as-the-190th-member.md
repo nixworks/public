@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/11/1/serbia-is-admitted-to-the-united-nations-as-the-190th-member.html)  [JSON](/news/2000/11/1/serbia-is-admitted-to-the-united-nations-as-the-190th-member.json)  [XML](/news/2000/11/1/serbia-is-admitted-to-the-united-nations-as-the-190th-member.xml)  
+
 ### [2000-11-1](/news/2000/11/1/index.md)
 
+##### Serbia
 #  Serbia is admitted to the United Nations as the 190th member
 
 

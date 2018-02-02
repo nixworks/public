@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/14/a-boeing-747-cargo-plane-en-route-to-spain-crashes-at-the-end-of-a-runway-at-halifax-international-airport-in-nova-scotia-canada-all-se.html)  [JSON](/news/2004/10/14/a-boeing-747-cargo-plane-en-route-to-spain-crashes-at-the-end-of-a-runway-at-halifax-international-airport-in-nova-scotia-canada-all-se.json)  [XML](/news/2004/10/14/a-boeing-747-cargo-plane-en-route-to-spain-crashes-at-the-end-of-a-runway-at-halifax-international-airport-in-nova-scotia-canada-all-se.xml)  
+
 ### [2004-10-14](/news/2004/10/14/index.md)
 
+##### Boeing 747
 #  A Boeing 747 cargo plane, en route to Spain, crashes at the end of a runway at Halifax International Airport in Nova Scotia, Canada. All seven of the crew are confirmed dead in Canada's worst-ever air cargo crash. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2004/10/14/plane_halifax041014.html)
 

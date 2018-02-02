@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/10/u-s-district-judge-emmet-sullivan-blocks-the-6-
 
 ### [2016-05-10](/news/2016/05/10/index.md)
 
+##### U.S. District Court for the District of Columbia
 # U.S. District Judge Emmet Sullivan blocks the $6.3 billion merger of major office supply companies Staples and Office Depot, finding it would result in reduced competition and higher prices. The companies announce they are abandoning the deal. 
 
 Companies had argued that industry now has many more competitors.

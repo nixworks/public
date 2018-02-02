@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/2/a-study-concludes-that-continuous-standing-and-walking-reduces-the-risk-of-type-ii-diabetes-better-than-either-sitting-lying-or-exercise.html)  [JSON](/news/2013/03/2/a-study-concludes-that-continuous-standing-and-walking-reduces-the-risk-of-type-ii-diabetes-better-than-either-sitting-lying-or-exercise.json)  [XML](/news/2013/03/2/a-study-concludes-that-continuous-standing-and-walking-reduces-the-risk-of-type-ii-diabetes-better-than-either-sitting-lying-or-exercise.xml)  
+
 ### [2013-03-2](/news/2013/03/2/index.md)
 
+##### standing
 # A study concludes that continuous standing and walking reduces the risk of type II diabetes better than either sitting-lying or exercise. 
 
 Sitting less and moving around more reduces the risk of developing type 2 diabetes in patients with known risk factors more than vigorous exercise does.
 
 
-### Source:
+### Sources:
 
 1. [Medical News Today](http://www.medicalnewstoday.com/articles/257111.php)
 1. [Cover Image](http://www.medicalnewstoday.com/content/categories/diabetes/thumbs/image2.jpg)

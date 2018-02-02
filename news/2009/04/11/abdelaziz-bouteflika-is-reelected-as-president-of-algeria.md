@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/11/abdelaziz-bouteflika-is-reelected-as-president-of-algeria.html)  [JSON](/news/2009/04/11/abdelaziz-bouteflika-is-reelected-as-president-of-algeria.json)  [XML](/news/2009/04/11/abdelaziz-bouteflika-is-reelected-as-president-of-algeria.xml)  
+
 ### [2009-04-11](/news/2009/04/11/index.md)
 
+##### Abdelaziz Bouteflika
 #  Abdelaziz Bouteflika is reelected as President of Algeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gJwZja7DYPKhDvc7NtZJf9ExaNCgD97FRQ3G0)
 

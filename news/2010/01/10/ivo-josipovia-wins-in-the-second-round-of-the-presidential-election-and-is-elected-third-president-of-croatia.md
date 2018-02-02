@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/10/ivo-josipovia-wins-in-the-second-round-of-the-presidential-election-and-is-elected-third-president-of-croatia.html)  [JSON](/news/2010/01/10/ivo-josipovia-wins-in-the-second-round-of-the-presidential-election-and-is-elected-third-president-of-croatia.json)  [XML](/news/2010/01/10/ivo-josipovia-wins-in-the-second-round-of-the-presidential-election-and-is-elected-third-president-of-croatia.xml)  
+
 ### [2010-01-10](/news/2010/01/10/index.md)
 
+##### Ivo Josipovic
 # Ivo Josipovic wins in the second round of the presidential election, and is elected third President of Croatia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/01/20101923176988457.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8450380.stm)

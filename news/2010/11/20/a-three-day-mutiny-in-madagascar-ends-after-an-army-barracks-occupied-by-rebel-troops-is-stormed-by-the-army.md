@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/20/a-three-day-mutiny-in-madagascar-ends-after-an-army-barracks-occupied-by-rebel-troops-is-stormed-by-the-army.html)  [JSON](/news/2010/11/20/a-three-day-mutiny-in-madagascar-ends-after-an-army-barracks-occupied-by-rebel-troops-is-stormed-by-the-army.json)  [XML](/news/2010/11/20/a-three-day-mutiny-in-madagascar-ends-after-an-army-barracks-occupied-by-rebel-troops-is-stormed-by-the-army.xml)  
+
 ### [2010-11-20](/news/2010/11/20/index.md)
 
+##### mutinous soldiers
 # A three day mutiny in Madagascar ends after an army barracks occupied by rebel troops is stormed by the army. 
 
 Madagascan troops storm an army barracks and arrest an estimated 20 rebellious officers, ending a three-day mutiny, reports say.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/2010112014317406160.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11803740)

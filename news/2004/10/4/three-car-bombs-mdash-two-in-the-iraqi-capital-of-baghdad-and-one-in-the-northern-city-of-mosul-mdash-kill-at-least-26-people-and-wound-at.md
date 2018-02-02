@@ -1,17 +1,20 @@
+
+Formats: [HTML](/news/2004/10/4/three-car-bombs-mdash-two-in-the-iraqi-capital-of-baghdad-and-one-in-the-northern-city-of-mosul-mdash-kill-at-least-26-people-and-wound-at.html)  [JSON](/news/2004/10/4/three-car-bombs-mdash-two-in-the-iraqi-capital-of-baghdad-and-one-in-the-northern-city-of-mosul-mdash-kill-at-least-26-people-and-wound-at.json)  [XML](/news/2004/10/4/three-car-bombs-mdash-two-in-the-iraqi-capital-of-baghdad-and-one-in-the-northern-city-of-mosul-mdash-kill-at-least-26-people-and-wound-at.xml)  
+
 ### [2004-10-4](/news/2004/10/4/index.md)
 
+##### Conflict in Iraq
 #  Three car bombs&mdash;two in the Iraqi capital of Baghdad, and one in the northern city of Mosul&mdash;kill at least 26 people and wound at least 100. All the casualties are Iraqis. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [AP](http://story.news.yahoo.com/news?tmpl=story&e=1&u=/ap/20041004/ap_on_re_mi_ea/iraq)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3712480.stm)
 3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3712480.stm)
-4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6405368)
-4. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+4. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6405368)
 
 ### Related:
 

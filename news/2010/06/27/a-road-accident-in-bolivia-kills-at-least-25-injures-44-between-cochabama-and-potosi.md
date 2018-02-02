@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/27/a-road-accident-in-bolivia-kills-at-least-25-injures-44-between-cochabama-and-potosi.html)  [JSON](/news/2010/06/27/a-road-accident-in-bolivia-kills-at-least-25-injures-44-between-cochabama-and-potosi.json)  [XML](/news/2010/06/27/a-road-accident-in-bolivia-kills-at-least-25-injures-44-between-cochabama-and-potosi.xml)  
+
 ### [2010-06-27](/news/2010/06/27/index.md)
 
+##### Bolivia
 # A road accident in Bolivia kills at least 25, injures 44, between Cochabama and Potos. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/world/2010-06/28/content_10025782.htm)
 

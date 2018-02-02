@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/19/american-actor-james-gandolfini-best-known-for-portraying-tony-soprano-in-the-sopranos-dies-of-a-heart-attack-at-the-age-of-51.html)  [JSON](/news/2013/06/19/american-actor-james-gandolfini-best-known-for-portraying-tony-soprano-in-the-sopranos-dies-of-a-heart-attack-at-the-age-of-51.json)  [XML](/news/2013/06/19/american-actor-james-gandolfini-best-known-for-portraying-tony-soprano-in-the-sopranos-dies-of-a-heart-attack-at-the-age-of-51.xml)  
+
 ### [2013-06-19](/news/2013/06/19/index.md)
 
+##### James Gandolfini
 # American actor James Gandolfini, best known for portraying Tony Soprano in "The Sopranos", dies of a heart attack at the age of 51. 
 
 James Gandolfini, the actor who most famously portrayed Tony Soprano on the series &quot;The Sopranos,&quot; has died in Italy at age 51.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Entertainment/james-gandolfini-portrayed-tony-soprano-dies-51/story?id=19441746)
 1. [Cover Image](http://a.abcnews.com/images/Entertainment/gty_james_gandolfini_tk_130619_wmain.jpg)

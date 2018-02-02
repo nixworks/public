@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/22/the-united-states-admits-it-has-killed-20-civil
 
 ### [2016-04-22](/news/2016/04/22/index.md)
 
+##### U.S. military
 # The United States admits it has killed 20 civilians and wounded 11 others in airstrikes in Syria and Iraq between September 10, 2015, and February 2, 2016. 
 
 The United States military revealed Friday that it has killed 20 civilians and wounded 11 others in recent airstrikes in Syria and Iraq.

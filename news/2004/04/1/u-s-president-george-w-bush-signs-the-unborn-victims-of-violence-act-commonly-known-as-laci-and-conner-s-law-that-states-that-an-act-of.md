@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/04/1/u-s-president-george-w-bush-signs-the-unborn-victims-of-violence-act-commonly-known-as-laci-and-conner-s-law-that-states-that-an-act-of.html)  [JSON](/news/2004/04/1/u-s-president-george-w-bush-signs-the-unborn-victims-of-violence-act-commonly-known-as-laci-and-conner-s-law-that-states-that-an-act-of.json)  [XML](/news/2004/04/1/u-s-president-george-w-bush-signs-the-unborn-victims-of-violence-act-commonly-known-as-laci-and-conner-s-law-that-states-that-an-act-of.xml)  
+
 ### [2004-04-1](/news/2004/04/1/index.md)
 
+##### George W. Bush
 #  U.S. President George W. Bush signs the Unborn Victims of Violence Act, commonly known as Laci and Conner's Law, that states that an act of violence that leads to the death of a pregnant mother and her child can be counted as two offenses. 
 
 The federal government joined 29 states Thursday in instituting criminal charges and penalties for harming a fetus in an attack on a pregnant woman, a move that
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/view.cfm?StoryID=20040401-041701-1460r)
-2. [White House](http://georgewbush-whitehouse.archives.gov/news/releases/2004/04/20040401-3.html)
+2. [White House](https://georgewbush-whitehouse.archives.gov/news/releases/2004/04/20040401-3.html)
 
 ### Related:
 

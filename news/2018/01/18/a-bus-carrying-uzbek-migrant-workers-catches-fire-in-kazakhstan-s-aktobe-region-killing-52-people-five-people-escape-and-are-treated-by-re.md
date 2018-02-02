@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/18/a-bus-carrying-uzbek-migrant-workers-catches-fi
 
 ### [2018-01-18](/news/2018/01/18/index.md)
 
+##### 2018 Aktobe bus fire
 # A bus carrying Uzbek migrant workers catches fire in Kazakhstan's Aktobe Region, killing 52 people. Five people escape and are treated by rescue workers. 
 
 Five people survived the accident on the bus, thought to have been carrying many Uzbek nationals.

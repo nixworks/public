@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/26/the-bishops-of-the-united-states-episcopal-church-agree-to-exercise-restraint-by-not-consecrating-more-gay-bishops-or-authorizing-rites-f.html)  [JSON](/news/2007/09/26/the-bishops-of-the-united-states-episcopal-church-agree-to-exercise-restraint-by-not-consecrating-more-gay-bishops-or-authorizing-rites-f.json)  [XML](/news/2007/09/26/the-bishops-of-the-united-states-episcopal-church-agree-to-exercise-restraint-by-not-consecrating-more-gay-bishops-or-authorizing-rites-f.xml)  
+
 ### [2007-09-26](/news/2007/09/26/index.md)
 
+##### bishop
 #  The bishops of the United States Episcopal Church agree to "exercise restraint" by not consecrating more gay bishops or authorizing rites for the blessing of same-sex unions in order to prevent a schism in the Anglican Church worldwide. 
 
 The US church now awaits response from traditionalists. Will schism be headed off?
 
 
-### Source:
+### Sources:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/2007/0927/p02s01-ussc.html)
 1. [Cover Image](http://www.csmonitor.com/extension/csm_base/design/csm_design/images/csm_logo_1200x630.png)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/18/south-koreans-stand-outside-the-japanese-embassy-in-seoul-protesting-over-the-disputed-islands-the-liancourt-rocks.html)  [JSON](/news/2005/03/18/south-koreans-stand-outside-the-japanese-embassy-in-seoul-protesting-over-the-disputed-islands-the-liancourt-rocks.json)  [XML](/news/2005/03/18/south-koreans-stand-outside-the-japanese-embassy-in-seoul-protesting-over-the-disputed-islands-the-liancourt-rocks.xml)  
+
 ### [2005-03-18](/news/2005/03/18/index.md)
 
+##### Seoul
 #  South Koreans stand outside the Japanese embassy in Seoul, protesting over the disputed islands, the Liancourt Rocks 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/03/19/japan.korea.island.reut/)
 

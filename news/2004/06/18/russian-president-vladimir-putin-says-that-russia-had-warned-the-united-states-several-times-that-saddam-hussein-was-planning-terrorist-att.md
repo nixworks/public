@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/18/russian-president-vladimir-putin-says-that-russia-had-warned-the-united-states-several-times-that-saddam-hussein-was-planning-terrorist-att.html)  [JSON](/news/2004/06/18/russian-president-vladimir-putin-says-that-russia-had-warned-the-united-states-several-times-that-saddam-hussein-was-planning-terrorist-att.json)  [XML](/news/2004/06/18/russian-president-vladimir-putin-says-that-russia-had-warned-the-united-states-several-times-that-saddam-hussein-was-planning-terrorist-att.xml)  
+
 ### [2004-06-18](/news/2004/06/18/index.md)
 
+##### Vladimir Putin
 #  Russian President Vladimir Putin says that Russia had warned the United States several times that Saddam Hussein was planning terrorist attacks against the US. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/3819057.stm)
 2. [Khaleej Times](http://www.khaleejtimes.com/DisplayArticle.asp?xfile=data/theworld/2004/June/theworld_June351.xml&section=theworld)

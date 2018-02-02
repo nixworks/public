@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/4/egyptian-officials-deny-that-newly-elected-egyptian-president-mohammed-morsi-will-visit-iran-to-attend-a-conference.html)  [JSON](/news/2012/07/4/egyptian-officials-deny-that-newly-elected-egyptian-president-mohammed-morsi-will-visit-iran-to-attend-a-conference.json)  [XML](/news/2012/07/4/egyptian-officials-deny-that-newly-elected-egyptian-president-mohammed-morsi-will-visit-iran-to-attend-a-conference.xml)  
+
 ### [2012-07-4](/news/2012/07/4/index.md)
 
+##### Egypt
 # Egyptian officials deny that newly elected Egyptian President Mohammed Morsi will visit Iran to attend a conference. 
 
 Cairo says newly elected leader will not be attending conference in Tehran
 
 
-### Source:
+### Sources:
 
 1. [The Times of Israel](http://www.timesofisrael.com/egypt-denies-its-new-president-will-visit-iran/)
 1. [Cover Image](http://cdn.timesofisrael.com/uploads/2012/07/Mideast-Egypt-Turkey_Horo.jpg)

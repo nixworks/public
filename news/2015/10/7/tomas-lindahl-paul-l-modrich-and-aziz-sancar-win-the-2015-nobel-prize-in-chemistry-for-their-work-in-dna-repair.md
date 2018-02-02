@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/7/tomas-lindahl-paul-l-modrich-and-aziz-sancar-win-the-2015-nobel-prize-in-chemistry-for-their-work-in-dna-repair.html)  [JSON](/news/2015/10/7/tomas-lindahl-paul-l-modrich-and-aziz-sancar-win-the-2015-nobel-prize-in-chemistry-for-their-work-in-dna-repair.json)  [XML](/news/2015/10/7/tomas-lindahl-paul-l-modrich-and-aziz-sancar-win-the-2015-nobel-prize-in-chemistry-for-their-work-in-dna-repair.xml)  
+
 ### [2015-10-7](/news/2015/10/7/index.md)
 
+##### Tomas Lindahl
 # Tomas Lindahl, Paul L. Modrich and Aziz Sancar win the 2015 Nobel Prize in Chemistry for their work in DNA repair. 
 
 The 2015 Nobel Prize in Chemistry is awarded for discoveries in DNA repair.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-england-34464580)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/A8D3/production/_85991234_85952540.jpg)

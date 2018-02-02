@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/2/several-sources-claim-that-a-french-spy-killed-muammar-gaddafi-in-2011-the-motive-to-try-to-conceal-ghadaffi-s-financial-support-of-nicolas.html)  [JSON](/news/2012/10/2/several-sources-claim-that-a-french-spy-killed-muammar-gaddafi-in-2011-the-motive-to-try-to-conceal-ghadaffi-s-financial-support-of-nicolas.json)  [XML](/news/2012/10/2/several-sources-claim-that-a-french-spy-killed-muammar-gaddafi-in-2011-the-motive-to-try-to-conceal-ghadaffi-s-financial-support-of-nicolas.xml)  
+
 ### [2012-10-2](/news/2012/10/2/index.md)
 
+##### France
 # Several sources claim that a French spy killed Muammar Gaddafi in 2011; the motive to try to conceal Ghadaffi's financial support of Nicolas Sarkozy's 2007 presidential election campaign. A French source dismisses the story as "nonsense". 
 
 A&#x20;French&#x20;intelligence&#x20;expert&#x20;has&#x20;poured&#x20;cold&#x20;water&#x20;on&#x20;allegations&#x20;that&#x20;a&#x20;French&#x20;agent&#x20;killed&#x20;Libyan&#x20;leader&#x20;Muammar&#x20;Gaddafi&#x20;after&#x20;making&#x20;a&#x20;deal&#x20;with&#x20;Syria&#x20;to&#x20;save&#x20;then-President&#x20;Nicolas&#x20;Sarkozy&#x20;from&#x20;embarrassing&#x20;campaign-funding&#x20;revelations.
 
 
-### Source:
+### Sources:
 
 1. [France 24](http://www.france24.com/en/20121001-reports-gaddafi-killed-french-agent-patent-nonsense-france-libya-jibril-el-obeidi)
 2. [Hindustan Times](http://www.hindustantimes.com/world-news/Europe/Gaddafi-killed-by-French-agent-on-Sarkozy-order/Article1-938543.aspx)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/6/the-united-kingdom-government-is-defeated-in-the-house-of-lords-over-a-plan-to-make-biometric-id-cards-compulsory-for-passport-applicants.html)  [JSON](/news/2006/03/6/the-united-kingdom-government-is-defeated-in-the-house-of-lords-over-a-plan-to-make-biometric-id-cards-compulsory-for-passport-applicants.json)  [XML](/news/2006/03/6/the-united-kingdom-government-is-defeated-in-the-house-of-lords-over-a-plan-to-make-biometric-id-cards-compulsory-for-passport-applicants.xml)  
+
 ### [2006-03-6](/news/2006/03/6/index.md)
 
+##### House of Lords
 #  The United Kingdom government is defeated in the House of Lords over a plan to make biometric ID cards compulsory for passport applicants. The government is to seek to overturn the defeat in the House of Commons, and has suggested that it might invoke the Parliament Acts 1911 and 1949. 
 
 Government plans to make possession of a national identity card mandatory for passport applicants were overturned Monday by the British House of Lords.
 
 
-### Source:
+### Sources:
 
 1. [United Press International](http://www.upi.com/InternationalIntelligence/view.php?StoryID=20060306-015335-5102r)
 

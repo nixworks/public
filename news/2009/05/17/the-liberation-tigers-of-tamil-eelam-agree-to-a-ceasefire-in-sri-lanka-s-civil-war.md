@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/17/the-liberation-tigers-of-tamil-eelam-agree-to-a-ceasefire-in-sri-lanka-s-civil-war.html)  [JSON](/news/2009/05/17/the-liberation-tigers-of-tamil-eelam-agree-to-a-ceasefire-in-sri-lanka-s-civil-war.json)  [XML](/news/2009/05/17/the-liberation-tigers-of-tamil-eelam-agree-to-a-ceasefire-in-sri-lanka-s-civil-war.xml)  
+
 ### [2009-05-17](/news/2009/05/17/index.md)
 
+##### LTTE
 #  The Liberation Tigers of Tamil Eelam agree to a ceasefire in Sri Lanka's civil war. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/05/17/sri.lanka.conflict/index.html)
 

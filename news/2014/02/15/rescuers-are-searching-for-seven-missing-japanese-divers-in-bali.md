@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2014/02/15/rescuers-are-searching-for-seven-missing-japanese-divers-in-bali.html)  [JSON](/news/2014/02/15/rescuers-are-searching-for-seven-missing-japanese-divers-in-bali.json)  [XML](/news/2014/02/15/rescuers-are-searching-for-seven-missing-japanese-divers-in-bali.xml)  
+
 ### [2014-02-15](/news/2014/02/15/index.md)
 
+##### Japan
 # Rescuers are searching for seven missing Japanese divers in Bali. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2014/feb/15/seven-japanese-scuba-divers-missing-bali-storm)
+1. [The Guardian](https://www.theguardian.com/world/2014/feb/15/seven-japanese-scuba-divers-missing-bali-storm)
 
 ### Related:
 
-1. [Japan's third-biggest steelmaker, Kobe Steel, admits to falsification of product data. About four percent of the aluminum and copper products that it shipped from September 2016 to August 2017 were falsely labeled as meeting the specifications requested by 200 customers, including Toyota Motor Corp, Central Japan Railway Company, Mitsubishi Heavy Industries, Mazda Motor Corp, and Subaru Corp. ](/news/2017/10/9/japan-s-third-biggest-steelmaker-kobe-steel-admits-to-falsification-of-product-data-about-four-percent-of-the-aluminum-and-copper-product.md) _Context: Japan_
-2. [The Nobel Committee awards Japanese-born British novelist Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." ](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-novelist-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-fo.md) _Context: Japan_
-3. [More than 134,000 people on the island of Bali, Indonesia, have been taken to shelters as the Mount Agung volcano continues to release smoke. The alert level for an eruption has been raised to the second highest level, 4. In addition, the entire population of Vanuatu's Aoba Island, also at alert level 4, is being moved from the path of the increasingly active Lombenben volcano. ](/news/2017/09/28/more-than-134-000-people-on-the-island-of-bali-indonesia-have-been-taken-to-shelters-as-the-mount-agung-volcano-continues-to-release-smoke.md) _Context: Bali_
-4. [Aquatic species from Japan hitched a ride on debris from the 2011 Tohoku earthquake and tsunami and were able to reach the West Coast of the United States alive. ](/news/2017/09/28/aquatic-species-from-japan-hitched-a-ride-on-debris-from-the-2011-tahoku-earthquake-and-tsunami-and-were-able-to-reach-the-west-coast-of-th.md) _Context: Japan_
-5. [Thousands of people on the Indonesian island of Bali flee from their homes due to concerns over Mount Agung erupting. The alert status for the volcano was increased to the highest level possible yesterday. ](/news/2017/09/23/thousands-of-people-on-the-indonesian-island-of-bali-flee-from-their-homes-due-to-concerns-over-mount-agung-erupting-the-alert-status-for-t.md) _Context: Bali_
+1. [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md) _Context: Japan_
+2. [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md) _Context: Japan_
+3. [A 17-pound (8 kg) CH-53E transport helicopter window lands on school grounds in Okinawa, Japan, marking the second time in less than a week that an American aircraft part has fallen on a school there. Today, a child sustains "minor injuries". The United States Marine Corps apologizes. ](/news/2017/12/13/a-17-pound-8-kg-ch-53e-transport-helicopter-window-lands-on-school-grounds-in-okinawa-japan-marking-the-second-time-in-less-than-a-week.md) _Context: Japan_
+4. [Former millionaire Chisako Kakehi (also known as Japan's "Black Widow") is sentenced to death for the murder of 3 men which included a husband. ](/news/2017/11/7/former-millionaire-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-husba.md) _Context: Japan_
+5. [U.S. President Donald Trump visits Japan amidst the 2017 North Korea crisis. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.md) _Context: Japan_

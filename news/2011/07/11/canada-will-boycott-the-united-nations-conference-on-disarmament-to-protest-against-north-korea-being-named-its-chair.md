@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/11/canada-will-boycott-the-united-nations-conference-on-disarmament-to-protest-against-north-korea-being-named-its-chair.html)  [JSON](/news/2011/07/11/canada-will-boycott-the-united-nations-conference-on-disarmament-to-protest-against-north-korea-being-named-its-chair.json)  [XML](/news/2011/07/11/canada-will-boycott-the-united-nations-conference-on-disarmament-to-protest-against-north-korea-being-named-its-chair.xml)  
+
 ### [2011-07-11](/news/2011/07/11/index.md)
 
+##### Canadian
 # Canada will boycott the United Nations Conference on Disarmament to protest against North Korea being named its chair. 
 
 Canada is boycotting a UN body dedicated to disarmament to protest against North Korea being named its chair, Foreign Affairs Minister John Baird announced Monday. 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/politics/story/2011/07/11/pol-baird-un-north-korea.html)
 1. [Cover Image](https://i.cbc.ca/1.1947979.1381383513!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-baird-009389472-852.jpg)

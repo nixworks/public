@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2004/11/29/a-magnitude-7-0-earthquake-hits-hokkaido-japan.html)  [JSON](/news/2004/11/29/a-magnitude-7-0-earthquake-hits-hokkaido-japan.json)  [XML](/news/2004/11/29/a-magnitude-7-0-earthquake-hits-hokkaido-japan.xml)  
+
 ### [2004-11-29](/news/2004/11/29/index.md)
 
+##### magnitude
 #  A magnitude 7.0 earthquake hits Hokkaido, Japan. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory?id=288484)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=arZfQ_XUdmTU&refer=top_world_news)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000087&sid=arZfQ_XUdmTU&refer=top_world_news)
 3. [SwissInfo](http://www.swissinfo.org/sen/swissinfo.html?siteSect=143&sid=5369843)
-4. [USGS](http://earthquake.usgs.gov/eqinthenews/2004/usrjap/)
+4. [USGS](https://earthquake.usgs.gov/eqinthenews/2004/usrjap/)
 
 ### Related:
 

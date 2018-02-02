@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/4/wildfires-in-seven-u-s-states-are-keeping-thousa
 
 ### [2016-08-4](/news/2016/08/4/index.md)
 
+##### Wildfires
 # Wildfires in seven U.S. states are keeping thousands of firefighters at bay. 
 
 

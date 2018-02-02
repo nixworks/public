@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/11/thai-prime-minister-thaksin-shinawatra-buys-a-30-stake-in-liverpool-football-club-for-approximately-gbp60-nbsp-million-usd100-million.html)  [JSON](/news/2004/05/11/thai-prime-minister-thaksin-shinawatra-buys-a-30-stake-in-liverpool-football-club-for-approximately-gbp60-nbsp-million-usd100-million.json)  [XML](/news/2004/05/11/thai-prime-minister-thaksin-shinawatra-buys-a-30-stake-in-liverpool-football-club-for-approximately-gbp60-nbsp-million-usd100-million.xml)  
+
 ### [2004-05-11](/news/2004/05/11/index.md)
 
+##### Thailand
 #  Thai Prime Minister Thaksin Shinawatra buys a 30% stake in Liverpool Football Club for approximately GBP60&nbsp;million (~ USD100 million). It is unclear whether most of the money originates from the Thai government or is the prime minister's own money. It is hoped that the purchase will assist with the development of football in Thailand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/football/teams/l/liverpool/3697713.stm)
 2. [Guardian](http://football.guardian.co.uk/comment/story/0,9753,1213988,00.html)

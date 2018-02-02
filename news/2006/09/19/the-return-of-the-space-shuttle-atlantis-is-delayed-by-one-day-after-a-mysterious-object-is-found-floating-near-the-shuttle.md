@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/09/19/the-return-of-the-space-shuttle-atlantis-is-delayed-by-one-day-after-a-mysterious-object-is-found-floating-near-the-shuttle.html)  [JSON](/news/2006/09/19/the-return-of-the-space-shuttle-atlantis-is-delayed-by-one-day-after-a-mysterious-object-is-found-floating-near-the-shuttle.json)  [XML](/news/2006/09/19/the-return-of-the-space-shuttle-atlantis-is-delayed-by-one-day-after-a-mysterious-object-is-found-floating-near-the-shuttle.xml)  
+
 ### [2006-09-19](/news/2006/09/19/index.md)
 
+##### Space Shuttle program
 #  The return of the space shuttle "Atlantis" is delayed by one day after a mysterious object is found floating near the shuttle. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20060919/ap_on_sc/space_shuttle)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20060919/ap_on_sc/space_shuttle)
 2. [SpaceflightNow](http://www.spaceflightnow.com/shuttle/sts115/060919waveoff/)
 
 ### Related:

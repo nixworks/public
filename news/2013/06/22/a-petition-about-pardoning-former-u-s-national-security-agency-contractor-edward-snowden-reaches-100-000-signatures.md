@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/22/a-petition-about-pardoning-former-u-s-national-security-agency-contractor-edward-snowden-reaches-100-000-signatures.html)  [JSON](/news/2013/06/22/a-petition-about-pardoning-former-u-s-national-security-agency-contractor-edward-snowden-reaches-100-000-signatures.json)  [XML](/news/2013/06/22/a-petition-about-pardoning-former-u-s-national-security-agency-contractor-edward-snowden-reaches-100-000-signatures.xml)  
+
 ### [2013-06-22](/news/2013/06/22/index.md)
 
+##### pardoning
 # A petition about pardoning former U.S. National Security Agency contractor Edward Snowden reaches 100,000 signatures. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Daily Dot](http://www.dailydot.com/politics/edward-snowden-charged-petition/)
 

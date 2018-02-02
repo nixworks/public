@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/19/the-boeing-747-8-makes-its-international-debut-at-the-2011-paris-air-show.html)  [JSON](/news/2011/06/19/the-boeing-747-8-makes-its-international-debut-at-the-2011-paris-air-show.json)  [XML](/news/2011/06/19/the-boeing-747-8-makes-its-international-debut-at-the-2011-paris-air-show.xml)  
+
 ### [2011-06-19](/news/2011/06/19/index.md)
 
+##### Boeing 747-8
 # The Boeing 747-8 makes its international debut at the 2011 Paris Air Show. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kuwait Times](http://www.kuwaittimes.net/read_news.php?newsid=MTA4NzQ2MTcwMA==)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/1/counting-of-votes-in-the-irish-referendum-on-the-european-fiscal-compact-gets-underway-with-early-tallies-indicating-the-compact-has-been-a.html)  [JSON](/news/2012/06/1/counting-of-votes-in-the-irish-referendum-on-the-european-fiscal-compact-gets-underway-with-early-tallies-indicating-the-compact-has-been-a.json)  [XML](/news/2012/06/1/counting-of-votes-in-the-irish-referendum-on-the-european-fiscal-compact-gets-underway-with-early-tallies-indicating-the-compact-has-been-a.xml)  
+
 ### [2012-06-1](/news/2012/06/1/index.md)
 
+##### Irish referendum
 # Counting of votes in the Irish referendum on the European Fiscal Compact gets underway, with early tallies indicating the Compact has been approved. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/06/20126173059345399.html)
 2. [Reuters via Yahoo! News Australia](http://au.news.yahoo.com/world/a/-/world/13842242/irish-government-early-count-points-to-eu-referendum-yes/)

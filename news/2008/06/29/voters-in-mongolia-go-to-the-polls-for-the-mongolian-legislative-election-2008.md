@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/29/voters-in-mongolia-go-to-the-polls-for-the-mongolian-legislative-election-2008.html)  [JSON](/news/2008/06/29/voters-in-mongolia-go-to-the-polls-for-the-mongolian-legislative-election-2008.json)  [XML](/news/2008/06/29/voters-in-mongolia-go-to-the-polls-for-the-mongolian-legislative-election-2008.xml)  
+
 ### [2008-06-29](/news/2008/06/29/index.md)
 
+##### Mongolia
 #  Voters in Mongolia go to the polls for the Mongolian legislative election, 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7479755.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/17/a-united-states-army-uh-60-black-hawk-helicopte
 
 ### [2017-04-17](/news/2017/04/17/index.md)
 
+##### United States soldier
 # A United States Army UH-60 Black Hawk helicopter crashes on a golf course in Leonardtown, Maryland. At least one crew member is injured and taken to hospital. 
 
 One crew member was killed and two others were injured Monday when a military helicopter crashed on a southern Maryland golf course.

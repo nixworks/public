@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/1/the-death-toll-from-the-tornados-that-hit-oklahoma-city-on-may-31-rises-to-nine.html)  [JSON](/news/2013/06/1/the-death-toll-from-the-tornados-that-hit-oklahoma-city-on-may-31-rises-to-nine.json)  [XML](/news/2013/06/1/the-death-toll-from-the-tornados-that-hit-oklahoma-city-on-may-31-rises-to-nine.xml)  
+
 ### [2013-06-1](/news/2013/06/1/index.md)
 
+##### tornado
 # The death toll from the tornados that hit Oklahoma City on May 31 rises to nine. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/world-news/massive-tornado-set-to-hit-oklahoma-city/story-fndir2ev-1226654959441)
 1. [Cover Image](http://cdn.newsapi.com.au/image/v1/c6a4aba2ce621b447dfe978fcd95ac17)

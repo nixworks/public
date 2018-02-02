@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/21/five-thais-including-an-mp-are-given-suspended-sentences-after-illegally-entering-cambodia-in-a-case-that-has-strained-relations-between-th.html)  [JSON](/news/2011/01/21/five-thais-including-an-mp-are-given-suspended-sentences-after-illegally-entering-cambodia-in-a-case-that-has-strained-relations-between-th.json)  [XML](/news/2011/01/21/five-thais-including-an-mp-are-given-suspended-sentences-after-illegally-entering-cambodia-in-a-case-that-has-strained-relations-between-th.xml)  
+
 ### [2011-01-21](/news/2011/01/21/index.md)
 
+##### Thailand
 # Five Thais including an MP are given suspended sentences after illegally entering Cambodia, in a case that has strained relations between the two countries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_627061.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/8/hamdeen-sabahi-announces-his-candidacy-for-the-upcoming-egyptian-presidential-elections.html)  [JSON](/news/2014/02/8/hamdeen-sabahi-announces-his-candidacy-for-the-upcoming-egyptian-presidential-elections.json)  [XML](/news/2014/02/8/hamdeen-sabahi-announces-his-candidacy-for-the-upcoming-egyptian-presidential-elections.xml)  
+
 ### [2014-02-8](/news/2014/02/8/index.md)
 
+##### Hamdeen Sabahi
 # Hamdeen Sabahi announces his candidacy for the upcoming Egyptian presidential elections. 
 
 CAIRO -- Leftist politician Hamdeen Sabahi has become the first candidate to announce his candidacy for president in Egypt&apos;s upcoming election.
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/world/worldnow/la-fg-wn-egypt-presidential-candidate-20140208,0,2668593.story)
 1. [Cover Image](http://www.trbimg.com/img-52f6a879/turbine/la-fg-wn-egypt-presidential-candidate-20140208)

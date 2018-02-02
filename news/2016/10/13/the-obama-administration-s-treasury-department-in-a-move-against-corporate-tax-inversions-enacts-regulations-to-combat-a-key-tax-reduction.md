@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/13/the-obama-administration-s-treasury-department-
 
 ### [2016-10-13](/news/2016/10/13/index.md)
 
+##### Obama administration
 # The Obama administration's Treasury Department, in a move against corporate tax inversions, enacts regulations to combat a key tax-reduction technique known as earnings stripping. 
 
 The Obama administration, in its latest bid to prevent American companies from minimizing U.S. taxes by rebasing abroad, issued final rules on Thursday to combat a key tax-reduction technique known as earnings stripping.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/17/lawyers-for-the-duke-and-duchess-of-cambridge-begin-civil-proceedings-in-a-french-court-to-halt-further-publication-of-topless-images-of-the.html)  [JSON](/news/2012/09/17/lawyers-for-the-duke-and-duchess-of-cambridge-begin-civil-proceedings-in-a-french-court-to-halt-further-publication-of-topless-images-of-the.json)  [XML](/news/2012/09/17/lawyers-for-the-duke-and-duchess-of-cambridge-begin-civil-proceedings-in-a-french-court-to-halt-further-publication-of-topless-images-of-the.xml)  
+
 ### [2012-09-17](/news/2012/09/17/index.md)
 
+##### Duke
 # Lawyers for the Duke and Duchess of Cambridge begin civil proceedings in a French court to halt further publication of topless images of the duchess. Buckingham Palace confirms that a criminal complaint is to be made, for breach of privacy. 
 
 Lawyers for the Duke and Duchess of Cambridge begin civil proceedings in a French court to halt further publication of topless images of the duchess.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-19620164)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62943000/jpg/_62943108_016007114.jpg)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/01/6/symantec-maker-of-the-popular-norton-antivirus-software-acknowledges-that-hackers-have-acquired-a-segment-of-its-source-code-a-partial.html)  [JSON](/news/2012/01/6/symantec-maker-of-the-popular-norton-antivirus-software-acknowledges-that-hackers-have-acquired-a-segment-of-its-source-code-a-partial.json)  [XML](/news/2012/01/6/symantec-maker-of-the-popular-norton-antivirus-software-acknowledges-that-hackers-have-acquired-a-segment-of-its-source-code-a-partial.xml)  
+
 ### [2012-01-6](/news/2012/01/6/index.md)
 
+##### Symantec
 # Symantec, maker of the popular Norton antivirus software, acknowledges that hackers have acquired "a segment of its source code," a partial confirmation of claims made by the Lords of Dharmaraja. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/01/06/us-symantec-code-idUSTRE80523W20120106)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/01/06/us-symantec-code-idUSTRE80523W20120106)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

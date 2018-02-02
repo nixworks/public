@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/30/at-least-thirteen-people-are-killed-when-gunmen-open-fire-at-passengers-near-a-bus-stop-in-quetta-pakistan.html)  [JSON](/news/2011/07/30/at-least-thirteen-people-are-killed-when-gunmen-open-fire-at-passengers-near-a-bus-stop-in-quetta-pakistan.json)  [XML](/news/2011/07/30/at-least-thirteen-people-are-killed-when-gunmen-open-fire-at-passengers-near-a-bus-stop-in-quetta-pakistan.xml)  
+
 ### [2011-07-30](/news/2011/07/30/index.md)
 
+##### Quetta
 # At least thirteen people are killed when gunmen open fire at passengers near a bus stop in Quetta, Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-07/30/c_131019424.htm)
 

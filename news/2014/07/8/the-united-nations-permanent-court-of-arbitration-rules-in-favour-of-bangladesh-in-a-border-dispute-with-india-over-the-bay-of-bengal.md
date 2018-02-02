@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/8/the-united-nations-permanent-court-of-arbitration-rules-in-favour-of-bangladesh-in-a-border-dispute-with-india-over-the-bay-of-bengal.html)  [JSON](/news/2014/07/8/the-united-nations-permanent-court-of-arbitration-rules-in-favour-of-bangladesh-in-a-border-dispute-with-india-over-the-bay-of-bengal.json)  [XML](/news/2014/07/8/the-united-nations-permanent-court-of-arbitration-rules-in-favour-of-bangladesh-in-a-border-dispute-with-india-over-the-bay-of-bengal.xml)  
+
 ### [2014-07-8](/news/2014/07/8/index.md)
 
+##### United Nations
 # The United Nations Permanent Court of Arbitration rules in favour of Bangladesh in a border dispute with India over the Bay of Bengal. 
 
 A U.N. tribunal has awarded Bangladesh nearly four-fifths of an area sprawling over 25,000 sq km (9,700 sq miles) in the Bay of Bengal, ending a dispute over a sea border with India that has ruffled ties between the neighbours for more than three decades.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2014/07/08/uk-bangladesh-india-seaborder-idUKKBN0FD15N20140708)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

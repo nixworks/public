@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/12/2013-protests-in-turkey-the-turkish-government-offers-to-put-the-development-project-that-sparked-the-initial-protests-to-a-public-vote.html)  [JSON](/news/2013/06/12/2013-protests-in-turkey-the-turkish-government-offers-to-put-the-development-project-that-sparked-the-initial-protests-to-a-public-vote.json)  [XML](/news/2013/06/12/2013-protests-in-turkey-the-turkish-government-offers-to-put-the-development-project-that-sparked-the-initial-protests-to-a-public-vote.xml)  
+
 ### [2013-06-12](/news/2013/06/12/index.md)
 
+##### anti-government protests
 # 2013 protests in Turkey: The Turkish government offers to put the development project that sparked the initial protests to a public vote. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/world/story/2013/06/12/turkey-protests-istanbul-erdogan.html)
 1. [Cover Image](https://i.cbc.ca/1.1386028.1378968347!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-turkey-lawyers-852-45725.jpg)

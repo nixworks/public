@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/23/seven-people-are-feared-dead-after-a-helicopter-crashes-in-the-indian-town-of-katra-jammu-and-kashmir-near-the-hindu-shrine-of-vaishno-dev.html)  [JSON](/news/2015/11/23/seven-people-are-feared-dead-after-a-helicopter-crashes-in-the-indian-town-of-katra-jammu-and-kashmir-near-the-hindu-shrine-of-vaishno-dev.json)  [XML](/news/2015/11/23/seven-people-are-feared-dead-after-a-helicopter-crashes-in-the-indian-town-of-katra-jammu-and-kashmir-near-the-hindu-shrine-of-vaishno-dev.xml)  
+
 ### [2015-11-23](/news/2015/11/23/index.md)
 
+##### India
 # Seven people are feared dead after a helicopter crashes in the Indian town of Katra, Jammu and Kashmir, near the Hindu shrine of Vaishno Devi. 
 
 A bird-hit soon after take-off downed the helicopter that killed six pilgrims from Vaishno Devi and a woman pilot in Jammu&#039;s Katra today. The aircraft -- which was returning from Sanji Chhat to Katra -- crashed and caught fire.
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/india-news/chopper-carrying-vaishno-devi-pilgrims-crashes-in-katra-6-feared-dead-1246462)
 1. [Cover Image](http://i.ndtvimg.com/i/2015-11/chopper-crash_700x431_71448265793.jpg)

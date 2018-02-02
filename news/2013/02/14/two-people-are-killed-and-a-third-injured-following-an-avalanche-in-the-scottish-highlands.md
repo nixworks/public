@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/14/two-people-are-killed-and-a-third-injured-following-an-avalanche-in-the-scottish-highlands.html)  [JSON](/news/2013/02/14/two-people-are-killed-and-a-third-injured-following-an-avalanche-in-the-scottish-highlands.json)  [XML](/news/2013/02/14/two-people-are-killed-and-a-third-injured-following-an-avalanche-in-the-scottish-highlands.xml)  
+
 ### [2013-02-14](/news/2013/02/14/index.md)
 
+##### avalanche
 # Two people are killed and a third injured following an avalanche in the Scottish Highlands. 
 
 A man and a woman die and a man is critically injured after being caught in an avalanche in the Highlands of Scotland.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-highlands-islands-21462218)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/65895000/jpg/_65895046_cairngormbusinesspartnership1.jpg)

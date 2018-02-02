@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/1/the-government-of-catalonia-holds-a-public-refer
 
 ### [2017-10-1](/news/2017/10/1/index.md)
 
+##### Spanish constitutional crisis
 # The government of Catalonia holds a public referendum on whether their region should gain independence from Spain, despite the Spanish courts and government declaring the vote illegal and deploying police to deter voters. Catalan President Carles Puigdemont says Catalonia "has won the right to become an independent state." 
 
 At least 337 people have been injured in clashes as police try to stop Catalonia&#039;s illegal independence poll, authorities say.

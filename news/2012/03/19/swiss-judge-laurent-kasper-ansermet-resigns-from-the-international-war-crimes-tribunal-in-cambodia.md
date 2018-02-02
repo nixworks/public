@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/19/swiss-judge-laurent-kasper-ansermet-resigns-from-the-international-war-crimes-tribunal-in-cambodia.html)  [JSON](/news/2012/03/19/swiss-judge-laurent-kasper-ansermet-resigns-from-the-international-war-crimes-tribunal-in-cambodia.json)  [XML](/news/2012/03/19/swiss-judge-laurent-kasper-ansermet-resigns-from-the-international-war-crimes-tribunal-in-cambodia.xml)  
+
 ### [2012-03-19](/news/2012/03/19/index.md)
 
+##### Laurent Kasper-Ansermet
 # Swiss Judge Laurent Kasper-Ansermet resigns from the international war crimes tribunal in Cambodia. 
 
 A second judge resigns from the UN-backed international war crimes trial in Cambodia, saying efforts to pursue the regime are being blocked.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17432484)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59170000/jpg/_59170808_ansermet.jpg)

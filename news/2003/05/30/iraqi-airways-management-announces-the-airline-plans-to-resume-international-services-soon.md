@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/30/iraqi-airways-management-announces-the-airline-plans-to-resume-international-services-soon.html)  [JSON](/news/2003/05/30/iraqi-airways-management-announces-the-airline-plans-to-resume-international-services-soon.json)  [XML](/news/2003/05/30/iraqi-airways-management-announces-the-airline-plans-to-resume-international-services-soon.xml)  
+
 ### [2003-05-30](/news/2003/05/30/index.md)
 
+##### Iraqi Airways
 #  Iraqi Airways' management announces the airline plans to resume international services soon.
 
 

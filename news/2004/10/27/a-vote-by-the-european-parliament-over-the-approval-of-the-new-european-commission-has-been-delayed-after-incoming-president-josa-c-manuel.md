@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/27/a-vote-by-the-european-parliament-over-the-approval-of-the-new-european-commission-has-been-delayed-after-incoming-president-josa-c-manuel.html)  [JSON](/news/2004/10/27/a-vote-by-the-european-parliament-over-the-approval-of-the-new-european-commission-has-been-delayed-after-incoming-president-josa-c-manuel.json)  [XML](/news/2004/10/27/a-vote-by-the-european-parliament-over-the-approval-of-the-new-european-commission-has-been-delayed-after-incoming-president-josa-c-manuel.xml)  
+
 ### [2004-10-27](/news/2004/10/27/index.md)
 
+##### European Parliament
 #  A vote by the European Parliament over the approval of the new European Commission has been delayed, after incoming president Jose Manuel Barroso asks for more time to reshuffle his team. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/3957625.stm)
 2. [EUobserver](http://www.euobserver.com/?sid=9&aid=17641)

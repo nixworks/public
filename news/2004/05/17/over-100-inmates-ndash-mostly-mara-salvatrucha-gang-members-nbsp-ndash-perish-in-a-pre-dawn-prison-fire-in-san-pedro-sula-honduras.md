@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/17/over-100-inmates-ndash-mostly-mara-salvatrucha-gang-members-nbsp-ndash-perish-in-a-pre-dawn-prison-fire-in-san-pedro-sula-honduras.html)  [JSON](/news/2004/05/17/over-100-inmates-ndash-mostly-mara-salvatrucha-gang-members-nbsp-ndash-perish-in-a-pre-dawn-prison-fire-in-san-pedro-sula-honduras.json)  [XML](/news/2004/05/17/over-100-inmates-ndash-mostly-mara-salvatrucha-gang-members-nbsp-ndash-perish-in-a-pre-dawn-prison-fire-in-san-pedro-sula-honduras.xml)  
+
 ### [2004-05-17](/news/2004/05/17/index.md)
 
+##### Mara Salvatrucha
 #  Over 100 inmates &ndash; mostly "Mara Salvatrucha" gang members&nbsp;&ndash; perish in a pre-dawn prison fire in San Pedro Sula, Honduras. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/3721635.stm)
 

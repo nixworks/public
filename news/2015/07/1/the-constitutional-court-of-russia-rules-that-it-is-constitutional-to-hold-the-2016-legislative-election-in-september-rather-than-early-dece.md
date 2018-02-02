@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/1/the-constitutional-court-of-russia-rules-that-it-is-constitutional-to-hold-the-2016-legislative-election-in-september-rather-than-early-dece.html)  [JSON](/news/2015/07/1/the-constitutional-court-of-russia-rules-that-it-is-constitutional-to-hold-the-2016-legislative-election-in-september-rather-than-early-dece.json)  [XML](/news/2015/07/1/the-constitutional-court-of-russia-rules-that-it-is-constitutional-to-hold-the-2016-legislative-election-in-september-rather-than-early-dece.xml)  
+
 ### [2015-07-1](/news/2015/07/1/index.md)
 
+##### Constitutional Court of Russia
 # The Constitutional Court of Russia rules that it is constitutional to hold the 2016 legislative election in September rather than early December. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Fox News](http://www.foxnews.com/world/2015/07/01/russia-highest-court-approves-holding-next-year-parliamentary-election-3-months/)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

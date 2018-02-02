@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/15/mount-merapi-erupts-according-to-the-national-indonesian-news-agency.html)  [JSON](/news/2006/05/15/mount-merapi-erupts-according-to-the-national-indonesian-news-agency.json)  [XML](/news/2006/05/15/mount-merapi-erupts-according-to-the-national-indonesian-news-agency.xml)  
+
 ### [2006-05-15](/news/2006/05/15/index.md)
 
+##### Mounts Merapi
 #  Mount Merapi erupts, according to the national Indonesian news agency. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNA](http://www.channelnewsasia.com/stories/southeastasia/view/208361/1/.html)
 

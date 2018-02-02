@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/2/jordan-says-an-overnight-raid-on-an-isil-cell-in
 
 ### [2016-03-2](/news/2016/03/2/index.md)
 
+##### Spillover of the Syrian Civil War
 # Jordan says an overnight raid on an ISIL cell in the city of Irbid has left seven militants and one security officer dead, with five others injured. Those killed were planning to blow up civilian and military targets in the country, according to the General Intelligence Directorate (GID). 
 
 Jordan says a raid in the city of Irbid that left seven suspected jihadist militants dead foiled attacks being plotted by so-called Islamic State.

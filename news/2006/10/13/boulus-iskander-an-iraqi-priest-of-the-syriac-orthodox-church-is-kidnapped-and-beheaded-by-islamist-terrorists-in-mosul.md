@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/13/boulus-iskander-an-iraqi-priest-of-the-syriac-orthodox-church-is-kidnapped-and-beheaded-by-islamist-terrorists-in-mosul.html)  [JSON](/news/2006/10/13/boulus-iskander-an-iraqi-priest-of-the-syriac-orthodox-church-is-kidnapped-and-beheaded-by-islamist-terrorists-in-mosul.json)  [XML](/news/2006/10/13/boulus-iskander-an-iraqi-priest-of-the-syriac-orthodox-church-is-kidnapped-and-beheaded-by-islamist-terrorists-in-mosul.xml)  
+
 ### [2006-10-13](/news/2006/10/13/index.md)
 
+##### Boulus Iskander
 #  Boulus Iskander, an Iraqi priest of the Syriac Orthodox Church, is kidnapped and beheaded by Islamist terrorists in Mosul. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ACI](http://www.aciprensa.com/noticia.php?n=14463)
 2. [MET](http://www.metimes.com/storyview.php?StoryID=20061013-100904-9498r)

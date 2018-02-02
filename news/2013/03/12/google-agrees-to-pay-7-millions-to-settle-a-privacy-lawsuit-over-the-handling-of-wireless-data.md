@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/12/google-agrees-to-pay-7-millions-to-settle-a-privacy-lawsuit-over-the-handling-of-wireless-data.html)  [JSON](/news/2013/03/12/google-agrees-to-pay-7-millions-to-settle-a-privacy-lawsuit-over-the-handling-of-wireless-data.json)  [XML](/news/2013/03/12/google-agrees-to-pay-7-millions-to-settle-a-privacy-lawsuit-over-the-handling-of-wireless-data.xml)  
+
 ### [2013-03-12](/news/2013/03/12/index.md)
 
+##### Google
 # Google agrees to pay $7 millions to settle a privacy lawsuit over the handling of wireless data. 
 
 Google has agreed to pay a record fine for collecting wi-fi data as part of its Street View service in the US.
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/Technology/wireStory/google-pays-7m-fine-settle-wi-fi-privacy-18711628)
 2. [BBC](http://www.bbc.co.uk/news/technology-21762545)
@@ -14,7 +18,7 @@ Google has agreed to pay a record fine for collecting wi-fi data as part of its 
 ### Related:
 
 1. [ Craigslist is sued because of illegal posts to that website. Amazon, eBay, AOL, Yahoo, and Google all file briefs as friends of the court in support of Craigslist. ](/news/2006/07/7/craigslist-is-sued-because-of-illegal-posts-to-that-website-amazon-ebay-aol-yahoo-and-google-all-file-briefs-as-friends-of-the-court-i.md) _Context: Google, lawsuit_
-2. [ Medtronic, Inc. paid US$ 1.35 billion to settle a patent lawsuit and also to acquire disputed spine surgery-related patents from Gary K. Michelson. [http:--www.nytimes.com-2005-04-23-business-23medronic.html]](/news/2005/04/22/medtronic-inc-paid-us-1-35-billion-to-settle-a-patent-lawsuit-and-also-to-acquire-disputed-spine-surgery-related-patents-from-gary-k-mi.md) _Context: US$, lawsuit_
-3. [Spain plans to sue leading members of the Catalan Parliament over the proposed independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-leading-members-of-the-catalan-parliament-over-the-proposed-independence-referendum-in-catalonia.md) _Context: lawsuit_
-4. [ Facebook, Google, and Twitter executives have been asked to testify before the House of Representatives Intelligence Committee in October and the Senate Intelligence Committee on November 1, according to committee sources. ](/news/2017/09/27/facebook-google-and-twitter-executives-have-been-asked-to-testify-before-the-house-of-representatives-intelligence-committee-in-october-a.md) _Context: Google_
-5. [Google strikes a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/google-strikes-a-1-1bn-agbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md) _Context: Google_
+2. [ Medtronic, Inc. paid US$ 1.35 billion to settle a patent lawsuit and also to acquire disputed spine surgery-related patents from Gary K. Michelson. [https:--www.nytimes.com-2005-04-23-business-23medronic.html]](/news/2005/04/22/medtronic-inc-paid-us-1-35-billion-to-settle-a-patent-lawsuit-and-also-to-acquire-disputed-spine-surgery-related-patents-from-gary-k-mi.md) _Context: US$, lawsuit_
+3. [Munich Re reports that the insurance industry faces record claims of US$135 billion from natural catastrophes, such as the Mexico earthquakes, South Asian floods, California wildfires and Atlantic hurricanes in 2017. Overall economic losses from natural disasters are estimated at the second highest amount since 2011. ](/news/2018/01/4/munich-re-reports-that-the-insurance-industry-faces-record-claims-of-us-135-billion-from-natural-catastrophes-such-as-the-mexico-earthquake.md) _Context: US$_
+4. [The United States will pay Boeing nearly US$24 million to replace two of the five 27-year-old chiller units on Air Force One, customized to carry 70 cubic feet of refrigerated storage for about 3,000 meals. ](/news/2018/01/27/the-united-states-will-pay-boeing-nearly-us-24-million-to-replace-two-of-the-five-27-year-old-chiller-units-on-air-force-one-customized-to.md) _Context: US$_
+5. [The organizers of the Google Lunar X Prize announce that the $20 million grand prize for a commercial lunar lander will expire on 31 March 2018 without a winner because none of its five finalist teams would be able to launch a mission before the deadline. ](/news/2018/01/23/the-organizers-of-the-google-lunar-x-prize-announce-that-the-20-million-grand-prize-for-a-commercial-lunar-lander-will-expire-on-31-march-2.md) _Context: Google_

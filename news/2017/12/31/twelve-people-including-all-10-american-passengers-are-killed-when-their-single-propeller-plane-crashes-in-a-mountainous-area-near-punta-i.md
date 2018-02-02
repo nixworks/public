@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/31/twelve-people-including-all-10-american-passeng
 
 ### [2017-12-31](/news/2017/12/31/index.md)
 
+##### 2017 Nature Air Cessna 208 Caravan crash
 # Twelve people, including all 10 American passengers, are killed when their single-propeller plane crashes in a mountainous area near Punta Islita, in Guanacaste Province, Costa Rica. The pilot was former President Laura Chinchilla's cousin. 
 
 A U.S. State Department spokesperson told CBS News that they are aware of the crash and are monitoring the situation

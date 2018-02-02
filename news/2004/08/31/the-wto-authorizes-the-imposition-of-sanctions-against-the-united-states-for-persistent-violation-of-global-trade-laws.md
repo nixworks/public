@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/08/31/the-wto-authorizes-the-imposition-of-sanctions-against-the-united-states-for-persistent-violation-of-global-trade-laws.html)  [JSON](/news/2004/08/31/the-wto-authorizes-the-imposition-of-sanctions-against-the-united-states-for-persistent-violation-of-global-trade-laws.json)  [XML](/news/2004/08/31/the-wto-authorizes-the-imposition-of-sanctions-against-the-united-states-for-persistent-violation-of-global-trade-laws.xml)  
+
 ### [2004-08-31](/news/2004/08/31/index.md)
 
+##### WTO
 #  The WTO authorizes the imposition of sanctions against the United States for persistent violation of global trade laws. 
 
-World Trade Organization authorizes European Union and seven other leading American trading partners to impose more than $150 million in retaliatory sanctions on exports from US; ruling comes after Congress refuses for two years to repeal subsidy for American companies that WTO found to be in violation global trade laws; WTO rules against US and in favor of Canada in cases involving Canadian wheat and lumber; measure found to be illegal under global trade rules allows American companies rather than government to receive duties that US government imposes on foreign companies deemed to be unfairly dumping products in US; ruling gives European Union, Canada, Japan, Brazil, Chile, India, South Korea and Mexico right to impose higher tariffs on their choice of products; tariffs could be worth slightly more than 70 percent of value of money received by American companies; photos (M)
 
 
-### Source:
 
-1. [NYT](http://www.nytimes.com/2004/09/01/business/worldbusiness/01trade.html)
-1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+### Sources:
+
+1. [NYT](https://www.nytimes.com/2004/09/01/business/worldbusiness/01trade.html)
 
 ### Related:
 

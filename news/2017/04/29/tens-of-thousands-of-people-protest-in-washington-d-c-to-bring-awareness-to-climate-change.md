@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/29/tens-of-thousands-of-people-protest-in-washingt
 
 ### [2017-04-29](/news/2017/04/29/index.md)
 
+##### People's Climate March
 # Tens of thousands of people protest in Washington, D.C. to bring awareness to climate change. 
 
 Website ‘undergoing changes’ to reflect agency’s ‘new direction’, as tens of thousands protest inaction on climate in cities across the US
@@ -21,8 +22,8 @@ Website ‘undergoing changes’ to reflect agency’s ‘new direction’, as t
 
 ### Related:
 
-1. [A significant U.S. federal government study finds "no convincing alternative explanation" for the changing climate other than "human activities, especially emissions of greenhouse gases." ](/news/2017/11/3/a-significant-u-s-federal-government-study-finds-no-convincing-alternative-explanation-for-the-changing-climate-other-than-human-activit.md) _Context: Climate change_
+1. [The Bulletin of the Atomic Scientists moves the Doomsday Clock thirty seconds forward, to two minutes before midnight, the closest setting since 1953. The journal cites the closer approach to the point of hypothetical global catastrophe to the failure of world leaders to deal with looming threats of nuclear war (particularly, tensions involving the North Korean nuclear program) and climate change. ](/news/2018/01/25/the-bulletin-of-the-atomic-scientists-moves-the-doomsday-clock-thirty-seconds-forward-to-two-minutes-before-midnight-the-closest-setting-s.md) _Context: climate change_
 2. [The Palestinian National Authority suspends contact with the United States after the Palestine Liberation Organization office in Washington, D.C. was closed. ](/news/2017/11/22/the-palestinian-national-authority-suspends-contact-with-the-united-states-after-the-palestine-liberation-organization-office-in-washington.md) _Context: Washington, D.C._
 3. [Fifteen states and the District of Columbia file suit challenging President Donald Trump's decision to end the Deferred Action for Childhood Arrivals (DACA) program, arguing, in part, that federal government has reneged on the promise to protect young immigrants who came forward and registered with the government. ](/news/2017/09/6/fifteen-states-and-the-district-of-columbia-file-suit-challenging-president-donald-trumpas-decision-to-end-the-deferred-action-for-childho.md) _Context: Washington, D.C._
-4. [The World Health Organization says that hunger around the world has risen as a result of war and climate change. ](/news/2017/09/15/the-world-health-organization-says-that-hunger-around-the-world-has-risen-as-a-result-of-war-and-climate-change.md) _Context: Climate change_
+4. [The World Health Organization says that hunger around the world has risen as a result of war and climate change. ](/news/2017/09/15/the-world-health-organization-says-that-hunger-around-the-world-has-risen-as-a-result-of-war-and-climate-change.md) _Context: climate change_
 5. [Unarmed Russian Air Force reconnaissance jets, under the authority provided by international Open Skies Treaty, fly over several Washington, D.C., area government buildings and landmarks as well as the President's residence in Bedminster, New Jersey. ](/news/2017/08/9/unarmed-russian-air-force-reconnaissance-jets-under-the-authority-provided-by-international-open-skies-treaty-fly-over-several-washington.md) _Context: Washington, D.C._

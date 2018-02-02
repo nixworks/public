@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/7/daniel-ortega-is-elected-president-of-nicaragua-in-the-2006-general-election-after-rival-candidate-eduardo-montealegre-concedes-defeat.html)  [JSON](/news/2006/11/7/daniel-ortega-is-elected-president-of-nicaragua-in-the-2006-general-election-after-rival-candidate-eduardo-montealegre-concedes-defeat.json)  [XML](/news/2006/11/7/daniel-ortega-is-elected-president-of-nicaragua-in-the-2006-general-election-after-rival-candidate-eduardo-montealegre-concedes-defeat.xml)  
+
 ### [2006-11-7](/news/2006/11/7/index.md)
 
+##### Daniel Ortega
 #  Daniel Ortega is elected President of Nicaragua in the 2006 general election, after rival candidate Eduardo Montealegre concedes defeat. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/6117704.stm)
 2. [CNN](http://www.cnn.com/2006/WORLD/americas/11/07/nicaragua.elections.reut/index.html)

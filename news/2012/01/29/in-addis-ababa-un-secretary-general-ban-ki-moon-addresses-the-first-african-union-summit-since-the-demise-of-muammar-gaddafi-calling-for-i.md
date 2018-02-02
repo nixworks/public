@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/29/in-addis-ababa-un-secretary-general-ban-ki-moon-addresses-the-first-african-union-summit-since-the-demise-of-muammar-gaddafi-calling-for-i.html)  [JSON](/news/2012/01/29/in-addis-ababa-un-secretary-general-ban-ki-moon-addresses-the-first-african-union-summit-since-the-demise-of-muammar-gaddafi-calling-for-i.json)  [XML](/news/2012/01/29/in-addis-ababa-un-secretary-general-ban-ki-moon-addresses-the-first-african-union-summit-since-the-demise-of-muammar-gaddafi-calling-for-i.xml)  
+
 ### [2012-01-29](/news/2012/01/29/index.md)
 
+##### Addis Ababa
 # In Addis Ababa, UN Secretary-General Ban Ki-moon addresses the first African Union summit since the demise of Muammar Gaddafi, calling for improvement of LGBT rights. 
 
 UN Secretary General Ban Ki-moon urges African leaders to respect gay rights in his opening address at the African Union summit.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-16780079)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58162000/jpg/_58162986_013855909-1.jpg)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/09/4/a-spokesman-for-idaho-senator-larry-craig-indicates-that-the-senator-is-rethinking-his-decision-to-resign-following-his-plea-of-guilty-to.html)  [JSON](/news/2007/09/4/a-spokesman-for-idaho-senator-larry-craig-indicates-that-the-senator-is-rethinking-his-decision-to-resign-following-his-plea-of-guilty-to.json)  [XML](/news/2007/09/4/a-spokesman-for-idaho-senator-larry-craig-indicates-that-the-senator-is-rethinking-his-decision-to-resign-following-his-plea-of-guilty-to.xml)  
+
 ### [2007-09-4](/news/2007/09/4/index.md)
 
+##### Idaho
 #  A spokesman for Idaho Senator Larry Craig indicates that the Senator is rethinking his decision to resign following his plea of guilty to "disorderly conduct" charges in Minneapolis. 
 
 Senator Larry E. Craig of Idaho, who announced on Saturday that he would resign, may still fight for his seat.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2007/09/05/washington/05charge.html?ex=1346644800&en=fb88aabaa2185e43&ei=5088&partner=rssnyt&emc=rss)
+1. [New York Times](https://www.nytimes.com/2007/09/05/washington/05charge.html?ex=1346644800&en=fb88aabaa2185e43&ei=5088&partner=rssnyt&emc=rss)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

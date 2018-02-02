@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/9/russian-federal-prosecutors-close-a-murder-investigation-one-hour-after-it-had-been-opened-by-moscow-s-prosecutor-office-in-the-case-of-m.html)  [JSON](/news/2004/02/9/russian-federal-prosecutors-close-a-murder-investigation-one-hour-after-it-had-been-opened-by-moscow-s-prosecutor-office-in-the-case-of-m.json)  [XML](/news/2004/02/9/russian-federal-prosecutors-close-a-murder-investigation-one-hour-after-it-had-been-opened-by-moscow-s-prosecutor-office-in-the-case-of-m.xml)  
+
 ### [2004-02-9](/news/2004/02/9/index.md)
 
+##### Ivan Rybkin
 #  Russian federal prosecutors close a murder investigation, one hour after it had been opened by Moscow's prosecutor office, in the case of missing presidential candidate, Ivan Rybkin. Rybkin was last seen five days ago.
 
 

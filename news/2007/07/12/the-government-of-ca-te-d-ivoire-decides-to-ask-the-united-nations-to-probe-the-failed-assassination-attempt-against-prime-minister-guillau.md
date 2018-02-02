@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/12/the-government-of-ca-te-d-ivoire-decides-to-ask-the-united-nations-to-probe-the-failed-assassination-attempt-against-prime-minister-guillau.html)  [JSON](/news/2007/07/12/the-government-of-ca-te-d-ivoire-decides-to-ask-the-united-nations-to-probe-the-failed-assassination-attempt-against-prime-minister-guillau.json)  [XML](/news/2007/07/12/the-government-of-ca-te-d-ivoire-decides-to-ask-the-united-nations-to-probe-the-failed-assassination-attempt-against-prime-minister-guillau.xml)  
+
 ### [2007-07-12](/news/2007/07/12/index.md)
 
+##### government
 #  The government of Cote d'Ivoire decides to ask the United Nations to probe the failed assassination attempt against Prime Minister Guillaume Soro. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6294690.stm)
 
@@ -15,4 +19,4 @@
 2. [Cote d'Ivoire's ambassador to the United Nations, Youssoufou Bamba, says the country is on the "brink of genocide". ](/news/2010/12/30/ca-te-d-ivoire-s-ambassador-to-the-united-nations-youssoufou-bamba-says-the-country-is-on-the-brink-of-genocide.md) _Context: Cote d'Ivoire, United Nations_
 3. [The United Nations rejects a demand by incumbent Cote d'Ivoire President Laurent Gbagbo to remove its peacekeepers from the country. ](/news/2010/12/19/the-united-nations-rejects-a-demand-by-incumbent-ca-te-d-ivoire-president-laurent-gbagbo-to-remove-its-peacekeepers-from-the-country.md) _Context: Cote d'Ivoire, United Nations_
 4. [ The United Nations Security Council extends the mandate of UN and French peacekeepers in Cote d'Ivoire. ](/news/2005/04/4/the-united-nations-security-council-extends-the-mandate-of-un-and-french-peacekeepers-in-ca-te-d-ivoire.md) _Context: Cote d'Ivoire, United Nations_
-5. [Two North Korean shipments to a Syrian government agency of its chemical weapons program were intercepted in the past 6 months, according to a confidential United Nations report on violations of North Korea's sactions. ](/news/2017/08/21/two-north-korean-shipments-to-a-syrian-government-agency-of-its-chemical-weapons-program-were-intercepted-in-the-past-6-months-according-to.md) _Context: United Nations_
+5. [Suspected Allied Democratic Forces militants in North Kivu, DR Congo, kill at least 15 United Nations peacekeepers, mostly Tanzanian, and five Congolese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. ](/news/2017/12/8/suspected-allied-democratic-forces-militants-in-north-kivu-dr-congo-kill-at-least-15-united-nations-peacekeepers-mostly-tanzanian-and-fi.md) _Context: United Nations_

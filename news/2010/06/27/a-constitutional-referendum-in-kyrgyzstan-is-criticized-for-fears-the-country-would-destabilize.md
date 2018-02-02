@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/27/a-constitutional-referendum-in-kyrgyzstan-is-criticized-for-fears-the-country-would-destabilize.html)  [JSON](/news/2010/06/27/a-constitutional-referendum-in-kyrgyzstan-is-criticized-for-fears-the-country-would-destabilize.json)  [XML](/news/2010/06/27/a-constitutional-referendum-in-kyrgyzstan-is-criticized-for-fears-the-country-would-destabilize.xml)  
+
 ### [2010-06-27](/news/2010/06/27/index.md)
 
+##### constitutional referendum
 # A constitutional referendum in Kyrgyzstan is criticized for fears the country would destabilize. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/20106272166146294.html)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/kyrgyzstan-votes-on-new-constitution-20100627-zbl4.html)

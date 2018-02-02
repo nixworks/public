@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/4/canadian-author-m-g-vassanji-is-awarded-the-giller-prize-for-his-book-the-in-between-world-of-vikram-lall.html)  [JSON](/news/2003/11/4/canadian-author-m-g-vassanji-is-awarded-the-giller-prize-for-his-book-the-in-between-world-of-vikram-lall.json)  [XML](/news/2003/11/4/canadian-author-m-g-vassanji-is-awarded-the-giller-prize-for-his-book-the-in-between-world-of-vikram-lall.xml)  
+
 ### [2003-11-4](/news/2003/11/4/index.md)
 
+##### M.G. Vassanji
 #  Canadian author M.G. Vassanji is awarded the Giller Prize for his book "The In-Between World of Vikram Lall".
 
 

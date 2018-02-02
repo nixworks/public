@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/10/people-s-republic-of-china-detains-taiwanese-po
 
 ### [2017-04-10](/news/2017/04/10/index.md)
 
+##### Cross-Strait relations
 # People's Republic of China detains Taiwanese political activist Lee Ming-che on suspicion of endangering national security and revokes his wife's travel permit. 
 
 

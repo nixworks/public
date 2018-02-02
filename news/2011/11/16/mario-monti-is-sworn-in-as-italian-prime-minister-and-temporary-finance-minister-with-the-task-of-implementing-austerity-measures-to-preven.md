@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/16/mario-monti-is-sworn-in-as-italian-prime-minister-and-temporary-finance-minister-with-the-task-of-implementing-austerity-measures-to-preven.html)  [JSON](/news/2011/11/16/mario-monti-is-sworn-in-as-italian-prime-minister-and-temporary-finance-minister-with-the-task-of-implementing-austerity-measures-to-preven.json)  [XML](/news/2011/11/16/mario-monti-is-sworn-in-as-italian-prime-minister-and-temporary-finance-minister-with-the-task-of-implementing-austerity-measures-to-preven.xml)  
+
 ### [2011-11-16](/news/2011/11/16/index.md)
 
+##### Mario Monti
 # Mario Monti is sworn in as Italian prime minister and temporary finance minister, with the task of implementing austerity measures to prevent the euro area's third-biggest economy from collapsing as a result of the debt crisis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Business Week](http://www.businessweek.com/news/2011-11-16/monti-sworn-in-as-italian-prime-minister-before-confidence-votes.html)
 2. [CNN](http://www.cnn.com/2011/11/16/world/europe/italy-government/index.html?hpt=wo_c2)

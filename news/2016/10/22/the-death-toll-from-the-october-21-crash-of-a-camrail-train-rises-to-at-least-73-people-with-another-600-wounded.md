@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/22/the-death-toll-from-the-october-21-crash-of-a-c
 
 ### [2016-10-22](/news/2016/10/22/index.md)
 
+##### 2016 Eseka train derailment
 # The death toll from the October 21 crash of a Camrail train rises to at least 73 people with another 600 wounded. 
 
 

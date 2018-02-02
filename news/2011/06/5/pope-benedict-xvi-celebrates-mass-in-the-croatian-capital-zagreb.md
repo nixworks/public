@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/5/pope-benedict-xvi-celebrates-mass-in-the-croatian-capital-zagreb.html)  [JSON](/news/2011/06/5/pope-benedict-xvi-celebrates-mass-in-the-croatian-capital-zagreb.json)  [XML](/news/2011/06/5/pope-benedict-xvi-celebrates-mass-in-the-croatian-capital-zagreb.xml)  
+
 ### [2011-06-5](/news/2011/06/5/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI celebrates Mass in the Croatian capital Zagreb. 
 
 Pope Benedict XVI said a mass for an estimated 300,000 people at a Zagreb racetrack on the last day of his visit to Croatia, officials said.
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2011/06/05/Pope-conducts-mass-in-Croatia/UPI-83831307284215/)
 2. [Vatican Radio](http://www.oecumene.radiovaticana.org/en1/Articolo.asp?c=493507)

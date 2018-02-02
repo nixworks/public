@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/6/a-united-nations-world-heritage-site-is-damaged-and-collapses-due-to-a-dispute-between-cambodia-and-thailand.html)  [JSON](/news/2011/02/6/a-united-nations-world-heritage-site-is-damaged-and-collapses-due-to-a-dispute-between-cambodia-and-thailand.json)  [XML](/news/2011/02/6/a-united-nations-world-heritage-site-is-damaged-and-collapses-due-to-a-dispute-between-cambodia-and-thailand.xml)  
+
 ### [2011-02-6](/news/2011/02/6/index.md)
 
+##### United Nations
 # A United Nations World Heritage Site is damaged and collapses due to a dispute between Cambodia and Thailand. 
 
 Cambodia says a disputed 11th Century temple has been damaged on the third day of cross border clashes with Thailand.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/02/20112613152324529.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12377626)

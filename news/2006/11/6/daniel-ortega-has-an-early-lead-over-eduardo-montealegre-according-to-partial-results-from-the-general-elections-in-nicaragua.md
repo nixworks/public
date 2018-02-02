@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/6/daniel-ortega-has-an-early-lead-over-eduardo-montealegre-according-to-partial-results-from-the-general-elections-in-nicaragua.html)  [JSON](/news/2006/11/6/daniel-ortega-has-an-early-lead-over-eduardo-montealegre-according-to-partial-results-from-the-general-elections-in-nicaragua.json)  [XML](/news/2006/11/6/daniel-ortega-has-an-early-lead-over-eduardo-montealegre-according-to-partial-results-from-the-general-elections-in-nicaragua.xml)  
+
 ### [2006-11-6](/news/2006/11/6/index.md)
 
+##### Daniel Ortega
 #  Daniel Ortega has an early lead over Eduardo Montealegre, according to partial results from the general elections in Nicaragua. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/WORLD/americas/11/06/nicaragua.elections.ap/index.html)
 

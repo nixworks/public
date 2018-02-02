@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/16/playwright-brian-friel-is-honoured-with-the-ulysses-medal-on-bloomsday-at-university-college-dublin.html)  [JSON](/news/2009/06/16/playwright-brian-friel-is-honoured-with-the-ulysses-medal-on-bloomsday-at-university-college-dublin.json)  [XML](/news/2009/06/16/playwright-brian-friel-is-honoured-with-the-ulysses-medal-on-bloomsday-at-university-college-dublin.xml)  
+
 ### [2009-06-16](/news/2009/06/16/index.md)
 
+##### Brian Friel
 #  Playwright Brian Friel is honoured with the Ulysses Medal on Bloomsday at University College Dublin. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0616/breaking57.htm)
 1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)

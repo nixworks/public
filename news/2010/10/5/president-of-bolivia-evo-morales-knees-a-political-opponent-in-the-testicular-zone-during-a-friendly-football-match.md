@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/5/president-of-bolivia-evo-morales-knees-a-political-opponent-in-the-testicular-zone-during-a-friendly-football-match.html)  [JSON](/news/2010/10/5/president-of-bolivia-evo-morales-knees-a-political-opponent-in-the-testicular-zone-during-a-friendly-football-match.json)  [XML](/news/2010/10/5/president-of-bolivia-evo-morales-knees-a-political-opponent-in-the-testicular-zone-during-a-friendly-football-match.xml)  
+
 ### [2010-10-5](/news/2010/10/5/index.md)
 
+##### President of Bolivia
 # President of Bolivia Evo Morales knees a political opponent in the "testicular zone" during a friendly football match. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2010/oct/05/morales-bolivian-president-knees-football-groin)
 

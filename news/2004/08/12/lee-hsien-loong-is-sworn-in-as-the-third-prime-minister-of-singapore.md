@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/12/lee-hsien-loong-is-sworn-in-as-the-third-prime-minister-of-singapore.html)  [JSON](/news/2004/08/12/lee-hsien-loong-is-sworn-in-as-the-third-prime-minister-of-singapore.json)  [XML](/news/2004/08/12/lee-hsien-loong-is-sworn-in-as-the-third-prime-minister-of-singapore.xml)  
+
 ### [2004-08-12](/news/2004/08/12/index.md)
 
+##### Lee Hsien Loong
 #  Lee Hsien Loong is sworn in as the third Prime Minister of Singapore. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2004/08/13/2003198509)
 2. [VOA](http://www.voanews.com/article.cfm?objectID=7324CD06-CCDA-4139-9C54AAF76097AC3C)

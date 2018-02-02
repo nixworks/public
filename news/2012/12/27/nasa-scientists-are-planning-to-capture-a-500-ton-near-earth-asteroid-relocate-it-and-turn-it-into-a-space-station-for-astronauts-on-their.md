@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/27/nasa-scientists-are-planning-to-capture-a-500-ton-near-earth-asteroid-relocate-it-and-turn-it-into-a-space-station-for-astronauts-on-their.html)  [JSON](/news/2012/12/27/nasa-scientists-are-planning-to-capture-a-500-ton-near-earth-asteroid-relocate-it-and-turn-it-into-a-space-station-for-astronauts-on-their.json)  [XML](/news/2012/12/27/nasa-scientists-are-planning-to-capture-a-500-ton-near-earth-asteroid-relocate-it-and-turn-it-into-a-space-station-for-astronauts-on-their.xml)  
+
 ### [2012-12-27](/news/2012/12/27/index.md)
 
+##### NASA
 # NASA scientists are planning to capture a 500 ton near-Earth asteroid, relocate it and turn it into a space station for astronauts on their route to Mars after 2025. 
 
 Nasa scientists are planning to capture a 500,000kg asteroid, relocate it and transform it into a space station for astronauts to refuel at on their way to Mars.
 
 
-### Source:
+### Sources:
 
 1. [Caltech Report](http://kiss.caltech.edu/study/asteroid/asteroid_final_report.pdf)
 2. [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-2252489/Nasa-plans-lasso-asteroid-size-double-decker-buses-turn-space-station-orbit-moon.html)
@@ -18,4 +22,4 @@ Nasa scientists are planning to capture a 500,000kg asteroid, relocate it and tr
 2. [ Exploration of Mars: NASA announces that Mars rover "Opportunity" landed in an area where "liquid water once drenched the surface". ](/news/2004/03/2/exploration-of-mars-nasa-announces-that-mars-rover-opportunity-landed-in-an-area-where-liquid-water-once-drenched-the-surface.md) _Context: Mars, NASA, route_
 3. [ Exploration of Mars: The first color images have been released from the Spirit rover on Mars. They are the highest resolution images ever taken on the surface of another planet. It has also been announced by NASA that they plan to name the rover's landing site on Mars "Columbia Memorial Station" in honor of the crew of STS-107.](/news/2004/01/6/exploration-of-mars-the-first-color-images-have-been-released-from-the-spirit-rover-on-mars-they-are-the-highest-resolution-images-ever-t.md) _Context: Mars, NASA, route_
 4. [ Exploration of Mars: American Mars probe "Spirit" mission is successful and is sending back images. Spirit is alive after rolling to a stop on the surface of Mars; confirmed by NASA's Deep Space Network (9:00 p.m. PST).](/news/2004/01/4/exploration-of-mars-american-mars-probe-spirit-mission-is-successful-and-is-sending-back-images-spirit-is-alive-after-rolling-to-a-stop.md) _Context: Mars, NASA, route_
-5. [U.S. Congress passes a bill that mandates NASA send humans to Mars by 2033. ](/news/2017/03/8/u-s-congress-passes-a-bill-that-mandates-nasa-send-humans-to-mars-by-2033.md) _Context: Mars, NASA_
+5. [U.S. President Donald Trump signs the "Space Policy Directive 1" that establishes the foundation for a crewed mission to the Moon, while also maintaining a longer-term NASA goal of landing a man on Mars. ](/news/2017/12/11/u-s-president-donald-trump-signs-the-space-policy-directive-1-that-establishes-the-foundation-for-a-crewed-mission-to-the-moon-while-als.md) _Context: Mars, NASA_

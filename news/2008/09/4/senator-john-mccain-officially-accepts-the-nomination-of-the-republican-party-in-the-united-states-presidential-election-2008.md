@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/09/4/senator-john-mccain-officially-accepts-the-nomination-of-the-republican-party-in-the-united-states-presidential-election-2008.html)  [JSON](/news/2008/09/4/senator-john-mccain-officially-accepts-the-nomination-of-the-republican-party-in-the-united-states-presidential-election-2008.json)  [XML](/news/2008/09/4/senator-john-mccain-officially-accepts-the-nomination-of-the-republican-party-in-the-united-states-presidential-election-2008.xml)  
+
 ### [2008-09-4](/news/2008/09/4/index.md)
 
+##### Senator
 #  Senator John McCain officially accepts the nomination of the Republican Party in the United States presidential election, 2008. 
 
 Senator John McCain sought to move from a convention marked by an effort to reassure the party base to an appeal to a broader electorate.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/09/05/us/politics/05repubs.html)
+1. [The New York Times](https://www.nytimes.com/2008/09/05/us/politics/05repubs.html)
 1. [Cover Image](https://static01.nyt.com/images/2008/09/05/us/05repubs1.75.jpg)
 
 ### Related:

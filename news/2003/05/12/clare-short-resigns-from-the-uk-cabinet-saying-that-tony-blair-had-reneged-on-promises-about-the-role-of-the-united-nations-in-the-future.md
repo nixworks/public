@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/12/clare-short-resigns-from-the-uk-cabinet-saying-that-tony-blair-had-reneged-on-promises-about-the-role-of-the-united-nations-in-the-future.html)  [JSON](/news/2003/05/12/clare-short-resigns-from-the-uk-cabinet-saying-that-tony-blair-had-reneged-on-promises-about-the-role-of-the-united-nations-in-the-future.json)  [XML](/news/2003/05/12/clare-short-resigns-from-the-uk-cabinet-saying-that-tony-blair-had-reneged-on-promises-about-the-role-of-the-united-nations-in-the-future.xml)  
+
 ### [2003-05-12](/news/2003/05/12/index.md)
 
+##### Clare Short
 #  Clare Short resigns from the UK cabinet, saying that Tony Blair had reneged on promises about the role of the United Nations in the future of Iraq. Her successor as International Development Secretary, the Baroness Amos, is the UK's first black woman cabinet minister.
 
 

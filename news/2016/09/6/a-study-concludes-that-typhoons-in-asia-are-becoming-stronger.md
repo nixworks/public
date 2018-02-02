@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/6/a-study-concludes-that-typhoons-in-asia-are-beco
 
 ### [2016-09-6](/news/2016/09/6/index.md)
 
+##### typhoon
 # A study concludes that typhoons in Asia are becoming stronger. 
 
 Giant storms that wreak havoc across China, Japan, Korea and the Philippines have grown 50% stronger in the past 40 years due to warming seas
@@ -16,7 +17,7 @@ Giant storms that wreak havoc across China, Japan, Korea and the Philippines hav
 
 ### Related:
 
-1. [Flights are cancelled and evacuations are ordered for over 100,000 people in the North Central Coast of Vietnam, in preparation for Typhoon Doksuri. The system has already claimed four lives passing over the Philippines. ](/news/2017/09/14/flights-are-cancelled-and-evacuations-are-ordered-for-over-100-000-people-in-the-north-central-coast-of-vietnam-in-preparation-for-typhoon.md) _Context: Typhoon_
+1. [A lunar eclipse is seen in Oceania, Asia, and North America, coinciding with a supermoon and blue moon. ](/news/2018/01/31/a-lunar-eclipse-is-seen-in-oceania-asia-and-north-america-coinciding-with-a-supermoon-and-blue-moon.md) _Context: Asia_
 2. [After the Supreme Court rules in favor, same-sex-marriage is on its way to being legalized in Taiwan, the first country in Asia to do so. ](/news/2017/05/24/after-the-supreme-court-rules-in-favor-same-sex-marriage-is-on-its-way-to-being-legalized-in-taiwan-the-first-country-in-asia-to-do-so.md) _Context: Asia_
 3. [The World Health Organization warns that the Zika virus will continue to spread across Asia with cases already reported in Singapore and Thailand. ](/news/2016/10/11/the-world-health-organization-warns-that-the-zika-virus-will-continue-to-spread-across-asia-with-cases-already-reported-in-singapore-and-tha.md) _Context: Asia_
 4. [Asian stock markets open lower following the fall in the Dow Jones amid speculations about the Federal Reserve's target interest rates. ](/news/2016/09/12/asian-stock-markets-open-lower-following-the-fall-in-the-dow-jones-amid-speculations-about-the-federal-reserve-s-target-interest-rates.md) _Context: Asia_

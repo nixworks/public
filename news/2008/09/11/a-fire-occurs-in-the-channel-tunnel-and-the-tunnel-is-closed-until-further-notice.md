@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/11/a-fire-occurs-in-the-channel-tunnel-and-the-tunnel-is-closed-until-further-notice.html)  [JSON](/news/2008/09/11/a-fire-occurs-in-the-channel-tunnel-and-the-tunnel-is-closed-until-further-notice.json)  [XML](/news/2008/09/11/a-fire-occurs-in-the-channel-tunnel-and-the-tunnel-is-closed-until-further-notice.xml)  
+
 ### [2008-09-11](/news/2008/09/11/index.md)
 
+##### fire occurs
 #  A fire occurs in the Channel Tunnel and the tunnel is closed until further notice. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/7610919.stm)
 

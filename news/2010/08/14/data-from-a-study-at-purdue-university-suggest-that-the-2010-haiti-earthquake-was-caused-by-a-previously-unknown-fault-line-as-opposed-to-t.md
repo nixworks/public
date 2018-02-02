@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/14/data-from-a-study-at-purdue-university-suggest-that-the-2010-haiti-earthquake-was-caused-by-a-previously-unknown-fault-line-as-opposed-to-t.html)  [JSON](/news/2010/08/14/data-from-a-study-at-purdue-university-suggest-that-the-2010-haiti-earthquake-was-caused-by-a-previously-unknown-fault-line-as-opposed-to-t.json)  [XML](/news/2010/08/14/data-from-a-study-at-purdue-university-suggest-that-the-2010-haiti-earthquake-was-caused-by-a-previously-unknown-fault-line-as-opposed-to-t.xml)  
+
 ### [2010-08-14](/news/2010/08/14/index.md)
 
+##### Purdue University
 # Data from a study at Purdue University suggest that the 2010 Haiti earthquake was caused by a previously unknown fault line, as opposed to the Enriquillo Fault Line as was initially presumed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gaTP1qYFeh3Xi2XJIhbfkhG9UZNwD9HJ12DO0)
 

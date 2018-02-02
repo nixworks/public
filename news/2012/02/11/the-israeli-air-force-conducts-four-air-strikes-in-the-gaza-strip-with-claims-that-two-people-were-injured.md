@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/11/the-israeli-air-force-conducts-four-air-strikes-in-the-gaza-strip-with-claims-that-two-people-were-injured.html)  [JSON](/news/2012/02/11/the-israeli-air-force-conducts-four-air-strikes-in-the-gaza-strip-with-claims-that-two-people-were-injured.json)  [XML](/news/2012/02/11/the-israeli-air-force-conducts-four-air-strikes-in-the-gaza-strip-with-claims-that-two-people-were-injured.xml)  
+
 ### [2012-02-11](/news/2012/02/11/index.md)
 
+##### Israeli Air Force
 # The Israeli Air Force conducts four air strikes in the Gaza Strip with claims that two people were injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via France 24](http://www.france24.com/en/20120212-israeli-airstrikes-wound-two-gaza-hamas-security)
 

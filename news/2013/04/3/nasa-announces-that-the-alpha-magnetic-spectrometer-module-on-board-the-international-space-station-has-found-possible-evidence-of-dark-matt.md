@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/3/nasa-announces-that-the-alpha-magnetic-spectrometer-module-on-board-the-international-space-station-has-found-possible-evidence-of-dark-matt.html)  [JSON](/news/2013/04/3/nasa-announces-that-the-alpha-magnetic-spectrometer-module-on-board-the-international-space-station-has-found-possible-evidence-of-dark-matt.json)  [XML](/news/2013/04/3/nasa-announces-that-the-alpha-magnetic-spectrometer-module-on-board-the-international-space-station-has-found-possible-evidence-of-dark-matt.xml)  
+
 ### [2013-04-3](/news/2013/04/3/index.md)
 
+##### NASA
 # NASA announces that the Alpha Magnetic Spectrometer module on board the International Space Station has found possible evidence of dark matter. 
 
 The Alpha Magnetic Spectrometer (AMS) on the International Space Station may have found hints of elusive dark matter in antimatter particles in cosmic radiation.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-22016504)
 2. [Space.com](http://www.space.com/20490-dark-matter-discovery-space-experiment.html)

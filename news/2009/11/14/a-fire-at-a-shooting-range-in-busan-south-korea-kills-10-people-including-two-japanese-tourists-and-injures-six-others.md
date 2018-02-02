@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/14/a-fire-at-a-shooting-range-in-busan-south-korea-kills-10-people-including-two-japanese-tourists-and-injures-six-others.html)  [JSON](/news/2009/11/14/a-fire-at-a-shooting-range-in-busan-south-korea-kills-10-people-including-two-japanese-tourists-and-injures-six-others.json)  [XML](/news/2009/11/14/a-fire-at-a-shooting-range-in-busan-south-korea-kills-10-people-including-two-japanese-tourists-and-injures-six-others.xml)  
+
 ### [2009-11-14](/news/2009/11/14/index.md)
 
+##### shooting range
 #  A fire at a shooting range in Busan, South Korea, kills 10 people, including two Japanese tourists, and injures six others. 
 
 A fire that swept through a South Korean indoor shooting range killed at least 10 people, officials said Saturday.
 
 
-### Source:
+### Sources:
 
 1. [Japan Today](http://www.japantoday.com/category/national/view/7-japanese-among-10-killed-in-fire-at-s-korea-shooting-range)
 2. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2009/11/113_55493.html)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/7/three-billboards-outside-ebbing-missouri-wins-fo
 
 ### [2018-01-7](/news/2018/01/7/index.md)
 
+##### 75th Golden Globe Awards
 # "Three Billboards Outside Ebbing, Missouri" wins four Golden Globe Awards including Best Motion Picture - Drama, while "Lady Bird" wins Best Motion Picture - Musical or Comedy. 
 
 “Three Billboards” and “Lady Bird” won the top movie awards at the Golden Globes. But it was the #MeToo movement, and Oprah Winfrey’s rousing speech, that defined the moment.

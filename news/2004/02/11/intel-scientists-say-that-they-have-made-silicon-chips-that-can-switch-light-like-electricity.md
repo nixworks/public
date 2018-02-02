@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/11/intel-scientists-say-that-they-have-made-silicon-chips-that-can-switch-light-like-electricity.html)  [JSON](/news/2004/02/11/intel-scientists-say-that-they-have-made-silicon-chips-that-can-switch-light-like-electricity.json)  [XML](/news/2004/02/11/intel-scientists-say-that-they-have-made-silicon-chips-that-can-switch-light-like-electricity.xml)  
+
 ### [2004-02-11](/news/2004/02/11/index.md)
 
+##### Intel
 #  Intel scientists say that they have made silicon chips that can switch light like electricity.
 
 

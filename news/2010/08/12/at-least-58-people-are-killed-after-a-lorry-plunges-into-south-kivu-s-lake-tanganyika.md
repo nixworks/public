@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/12/at-least-58-people-are-killed-after-a-lorry-plunges-into-south-kivu-s-lake-tanganyika.html)  [JSON](/news/2010/08/12/at-least-58-people-are-killed-after-a-lorry-plunges-into-south-kivu-s-lake-tanganyika.json)  [XML](/news/2010/08/12/at-least-58-people-are-killed-after-a-lorry-plunges-into-south-kivu-s-lake-tanganyika.xml)  
+
 ### [2010-08-12](/news/2010/08/12/index.md)
 
+##### South Kivu
 # At least 58 people are killed after a lorry plunges into South Kivu's Lake Tanganyika. 
 
 At least 50 people are killed after a lorry plunges into Lake Tanganyika in the Democratic Republic of Congo, officials say.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5glfIx7b9U8bMjxfsEcbRuFSSmxTg)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-10956108)

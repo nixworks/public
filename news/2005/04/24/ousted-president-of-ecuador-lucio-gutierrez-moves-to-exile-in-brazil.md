@@ -1,20 +1,24 @@
+
+Formats: [HTML](/news/2005/04/24/ousted-president-of-ecuador-lucio-gutierrez-moves-to-exile-in-brazil.html)  [JSON](/news/2005/04/24/ousted-president-of-ecuador-lucio-gutierrez-moves-to-exile-in-brazil.json)  [XML](/news/2005/04/24/ousted-president-of-ecuador-lucio-gutierrez-moves-to-exile-in-brazil.xml)  
+
 ### [2005-04-24](/news/2005/04/24/index.md)
 
+##### Ecuador
 #  Ousted president of Ecuador, Lucio Gutirrez, moves to exile in Brazil. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [ITV](http://www.itv.com/news/world_517322.html)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8273594)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8273594)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
 1. [ New Ecuadorian president Alfredo Palacio orders the arrest of former president Lucio Gutirrez, who takes refuge in the Brazilian embassy. ](/news/2005/04/21/new-ecuadorian-president-alfredo-palacio-orders-the-arrest-of-former-president-lucio-gutierrez-who-takes-refuge-in-the-brazilian-embassy.md) _Context: Brazil, Ecuador, Lucio Gutirrez_
-2. [ In Ecuador, there are mass rallies for and against the government of Lucio Gutirrez. His opponents accuse him of using heavy handed tactics to remove his political opponents. ](/news/2005/02/17/in-ecuador-there-are-mass-rallies-for-and-against-the-government-of-lucio-gutierrez-his-opponents-accuse-him-of-using-heavy-handed-tactic.md) _Context: Ecuador, Lucio Gutirrez_
-3. [In the town of Janauba, Minas Gerais state, Brazil, a recently dismissed security guard set fire to a childcare center, killing at least four children and a teacher and leaving 25 others, mostly children aged four and five, injured. ](/news/2017/10/5/in-the-town-of-janaaoba-minas-gerais-state-brazil-a-recently-dismissed-security-guard-set-fire-to-a-childcare-center-killing-at-least-fo.md) _Context: Brazil_
-4. [Brazilian police detain fugitive Italian former left-wing guerrilla and convicted murderer Cesare Battisti, as he was attempting to flee across the border into Bolivia to avoid extradition back to Italy and facing his life sentence prison term for four murders in the 1970s. ](/news/2017/10/4/brazilian-police-detain-fugitive-italian-former-left-wing-guerrilla-and-convicted-murderer-cesare-battisti-as-he-was-attempting-to-flee-acr.md) _Context: Brazil_
-5. [Ecuador's Supreme Court orders that Vice President Jorge Glas be jailed for his alleged acceptance of bribes from the Odebrecht construction company. Prior to this, Glas had been free but barred from leaving the country. ](/news/2017/10/2/ecuador-s-supreme-court-orders-that-vice-president-jorge-glas-be-jailed-for-his-alleged-acceptance-of-bribes-from-the-odebrecht-construction.md) _Context: Ecuador_
+2. [Ecuadorian Vice President Jorge Glas is sentenced to six years imprisonment for financial corruption involving the Brazilian construction company Odebrecht. The decision will not be enforced until the court confirms the ruling. The court's decision can be appealed. [http:--www.bbc.com-news-world-latin-america-42346881 ("BBC News")] [https:--www.eluniverso.com-noticias-2017-12-13-nota-6525058-jorge-glas-sentenciado-como-culpable-6-anos-prision-caso-odebrecht ("El Universo")] {{es icon}}](/news/2017/12/13/ecuadorian-vice-president-jorge-glas-is-sentenced-to-six-years-imprisonment-for-financial-corruption-involving-the-brazilian-construction-co.md) _Context: Brazil, Ecuador_
+3. [ In Ecuador, there are mass rallies for and against the government of Lucio Gutirrez. His opponents accuse him of using heavy handed tactics to remove his political opponents. ](/news/2005/02/17/in-ecuador-there-are-mass-rallies-for-and-against-the-government-of-lucio-gutierrez-his-opponents-accuse-him-of-using-heavy-handed-tactic.md) _Context: Ecuador, Lucio Gutirrez_
+4. [The state government of Minas Gerais, Brazil, declares a health emergency in three areas, Belo Horizonte, Itabira and Ponte Nova, over an outbreak of yellow fever. ](/news/2018/01/20/the-state-government-of-minas-gerais-brazil-declares-a-health-emergency-in-three-areas-belo-horizonte-itabira-and-ponte-nova-over-an-ou.md) _Context: Brazil_
+5. [Fifteen people are injured and an infant is killed after a car hits a group of pedestrians near Copacabana Beach in Rio de Janeiro, Brazil. The police report that the driver had an epileptic seizure. ](/news/2018/01/19/fifteen-people-are-injured-and-an-infant-is-killed-after-a-car-hits-a-group-of-pedestrians-near-copacabana-beach-in-rio-de-janeiro-brazil.md) _Context: Brazil_

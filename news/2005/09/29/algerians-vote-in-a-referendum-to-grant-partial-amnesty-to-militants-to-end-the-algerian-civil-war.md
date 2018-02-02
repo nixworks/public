@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/29/algerians-vote-in-a-referendum-to-grant-partial-amnesty-to-militants-to-end-the-algerian-civil-war.html)  [JSON](/news/2005/09/29/algerians-vote-in-a-referendum-to-grant-partial-amnesty-to-militants-to-end-the-algerian-civil-war.json)  [XML](/news/2005/09/29/algerians-vote-in-a-referendum-to-grant-partial-amnesty-to-militants-to-end-the-algerian-civil-war.xml)  
+
 ### [2005-09-29](/news/2005/09/29/index.md)
 
+##### Algeria
 #  Algerians vote in a referendum to grant partial amnesty to militants to end the Algerian Civil War.
 
 
 
 
-### Source:
+### Sources:
 
 1. [SBS](http://www9.sbs.com.au/theworldnews/region.php?id=121941&region=6)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/22/philippine-army-soldiers-capture-five-suspected-members-of-the-terrorist-group-abu-sayyaf-in-a-raid-on-basilan-island.html)  [JSON](/news/2011/06/22/philippine-army-soldiers-capture-five-suspected-members-of-the-terrorist-group-abu-sayyaf-in-a-raid-on-basilan-island.json)  [XML](/news/2011/06/22/philippine-army-soldiers-capture-five-suspected-members-of-the-terrorist-group-abu-sayyaf-in-a-raid-on-basilan-island.xml)  
+
 ### [2011-06-22](/news/2011/06/22/index.md)
 
+##### army
 # Philippine Army soldiers capture five suspected members of the terrorist group Abu Sayyaf in a raid on Basilan Island. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Guardian](http://www.guardian.co.uk/world/feedarticle/9706654)
 

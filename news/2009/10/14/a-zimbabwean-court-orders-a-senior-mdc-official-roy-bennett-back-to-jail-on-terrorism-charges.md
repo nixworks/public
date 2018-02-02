@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/14/a-zimbabwean-court-orders-a-senior-mdc-official-roy-bennett-back-to-jail-on-terrorism-charges.html)  [JSON](/news/2009/10/14/a-zimbabwean-court-orders-a-senior-mdc-official-roy-bennett-back-to-jail-on-terrorism-charges.json)  [XML](/news/2009/10/14/a-zimbabwean-court-orders-a-senior-mdc-official-roy-bennett-back-to-jail-on-terrorism-charges.xml)  
+
 ### [2009-10-14](/news/2009/10/14/index.md)
 
+##### Zimbabwe
 #  A Zimbabwean court orders a senior MDC official, Roy Bennett, back to jail on terrorism charges. 
 
 Zimbabwean court orders MDC treasurer detained ahead of trial on terrorism charges.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/10/2009101420304911779.html)
 2. [South Africa Times](http://www.timeslive.co.za/news/world/article151450.ece)

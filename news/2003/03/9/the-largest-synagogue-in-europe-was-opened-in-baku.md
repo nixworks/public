@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/9/the-largest-synagogue-in-europe-was-opened-in-baku.html)  [JSON](/news/2003/03/9/the-largest-synagogue-in-europe-was-opened-in-baku.json)  [XML](/news/2003/03/9/the-largest-synagogue-in-europe-was-opened-in-baku.xml)  
+
 ### [2003-03-9](/news/2003/03/9/index.md)
 
+##### synagogue
 #  The largest synagogue in Europe was opened in Baku.
 
 

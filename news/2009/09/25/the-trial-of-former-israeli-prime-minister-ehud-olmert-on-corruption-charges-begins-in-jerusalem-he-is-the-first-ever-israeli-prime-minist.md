@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/25/the-trial-of-former-israeli-prime-minister-ehud-olmert-on-corruption-charges-begins-in-jerusalem-he-is-the-first-ever-israeli-prime-minist.html)  [JSON](/news/2009/09/25/the-trial-of-former-israeli-prime-minister-ehud-olmert-on-corruption-charges-begins-in-jerusalem-he-is-the-first-ever-israeli-prime-minist.json)  [XML](/news/2009/09/25/the-trial-of-former-israeli-prime-minister-ehud-olmert-on-corruption-charges-begins-in-jerusalem-he-is-the-first-ever-israeli-prime-minist.xml)  
+
 ### [2009-09-25](/news/2009/09/25/index.md)
 
+##### Israel
 #  The trial of former Israeli Prime Minister Ehud Olmert on corruption charges begins in Jerusalem. He is the first ever Israeli Prime Minister to be brought to trial. 
 
 Former Israeli Prime Minister Ehud Olmert has gone on trial in Jerusalem on corruption charges.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8274116.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0925/olmerte.html)

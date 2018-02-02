@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/21/the-philippines-announces-plans-to-increase-its-defense-budget-by-25-amid-ongoing-tension-in-the-south-china-sea.html)  [JSON](/news/2015/07/21/the-philippines-announces-plans-to-increase-its-defense-budget-by-25-amid-ongoing-tension-in-the-south-china-sea.json)  [XML](/news/2015/07/21/the-philippines-announces-plans-to-increase-its-defense-budget-by-25-amid-ongoing-tension-in-the-south-china-sea.xml)  
+
 ### [2015-07-21](/news/2015/07/21/index.md)
 
+##### The Philippines
 # The Philippines announces plans to increase its defense budget by 25% amid ongoing tension in the South China Sea. 
 
 MANILA (AFP) - The Philippines is planning a 25 per cent hike in its defence budget next year, mainly to bolster its claims in the disputed South China Sea, officials said on Tuesday.. Read more at straitstimes.com.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Straits Times](http://www.straitstimes.com/asia/se-asia/philippines-hikes-defence-budget-by-25-amid-china-tensions)
 1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/07/21/military210715.jpg?itok=Ab2ZJSnm)

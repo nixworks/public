@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/21/gunmen-attack-a-european-union-military-trainin
 
 ### [2016-03-21](/news/2016/03/21/index.md)
 
+##### Military of the European Union
 # Gunmen attack a European Union military training operation housed in a converted hotel in the Mali capital, Bamako. There are no casualties among the mission personnel. One suspect is killed and two are arrested. No group has claimed responsibility. 
 
 
@@ -10,8 +11,8 @@ Formats: [HTML](/news/2016/03/21/gunmen-attack-a-european-union-military-trainin
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-mali-attack-idUSKCN0WN234)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160322&t=2&i=1126771597&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2L0EX)
+1. [Reuters](https://www.reuters.com/article/us-mali-attack-idUSKCN0WN234)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160322&t=2&i=1126771597&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2L0EX)
 
 ### Related:
 

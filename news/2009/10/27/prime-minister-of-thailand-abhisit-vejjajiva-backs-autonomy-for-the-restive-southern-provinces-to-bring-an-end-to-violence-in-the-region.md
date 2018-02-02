@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/27/prime-minister-of-thailand-abhisit-vejjajiva-backs-autonomy-for-the-restive-southern-provinces-to-bring-an-end-to-violence-in-the-region.html)  [JSON](/news/2009/10/27/prime-minister-of-thailand-abhisit-vejjajiva-backs-autonomy-for-the-restive-southern-provinces-to-bring-an-end-to-violence-in-the-region.json)  [XML](/news/2009/10/27/prime-minister-of-thailand-abhisit-vejjajiva-backs-autonomy-for-the-restive-southern-provinces-to-bring-an-end-to-violence-in-the-region.xml)  
+
 ### [2009-10-27](/news/2009/10/27/index.md)
 
+##### Prime Minister
 #  Prime Minister of Thailand Abhisit Vejjajiva backs autonomy for the restive southern provinces to bring an end to violence in the region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/SE%2BAsia/Story/STIStory_447072.html)
 2. [The Nation](http://www.nationmultimedia.com/2009/10/27/regional/regional_30115348.php)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/30/the-international-monetary-fund-calls-for-tighter-regulation-of-credit-rating-agencies.html)  [JSON](/news/2010/09/30/the-international-monetary-fund-calls-for-tighter-regulation-of-credit-rating-agencies.json)  [XML](/news/2010/09/30/the-international-monetary-fund-calls-for-tighter-regulation-of-credit-rating-agencies.xml)  
+
 ### [2010-09-30](/news/2010/09/30/index.md)
 
+##### International Monetary Fund
 # The International Monetary Fund calls for tighter regulation of credit rating agencies. 
 
 Credit rating agencies should improve their procedures, says the International Monetary Fund.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-11440482)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

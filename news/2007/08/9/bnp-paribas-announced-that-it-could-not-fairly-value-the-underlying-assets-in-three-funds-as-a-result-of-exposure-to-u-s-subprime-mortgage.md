@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/08/9/bnp-paribas-announced-that-it-could-not-fairly-value-the-underlying-assets-in-three-funds-as-a-result-of-exposure-to-u-s-subprime-mortgage.html)  [JSON](/news/2007/08/9/bnp-paribas-announced-that-it-could-not-fairly-value-the-underlying-assets-in-three-funds-as-a-result-of-exposure-to-u-s-subprime-mortgage.json)  [XML](/news/2007/08/9/bnp-paribas-announced-that-it-could-not-fairly-value-the-underlying-assets-in-three-funds-as-a-result-of-exposure-to-u-s-subprime-mortgage.xml)  
+
 ### [2007-08-9](/news/2007/08/9/index.md)
 
+##### BNP Paribas
 #  BNP Paribas announced that it could not fairly value the underlying assets in three funds as a result of exposure to U.S. subprime mortgage lending markets. Faced with potentially massive (though unquantifiable) exposure, the European Central Bank (ECB) immediately stepped in to ease market worries by opening lines of EUR96.8 billion (then US$130 billion) in low-interest credit.
 
 

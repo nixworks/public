@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/29/us-president-george-w-bush-nominates-former-deputy-secretary-of-state-robert-zoellick-as-president-of-the-world-bank.html)  [JSON](/news/2007/05/29/us-president-george-w-bush-nominates-former-deputy-secretary-of-state-robert-zoellick-as-president-of-the-world-bank.json)  [XML](/news/2007/05/29/us-president-george-w-bush-nominates-former-deputy-secretary-of-state-robert-zoellick-as-president-of-the-world-bank.xml)  
+
 ### [2007-05-29](/news/2007/05/29/index.md)
 
+##### US President
 #  US President George W. Bush nominates former deputy secretary of state Robert Zoellick as President of the World Bank. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/6701865.stm)
 

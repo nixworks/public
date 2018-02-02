@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/9/19-year-old-maria-sharapova-wins-her-second-grand-slam-upsetting-justin-henin-hardenne-6-ndash-4-6-ndash-4-in-the-final-of-the-2006-u-s.html)  [JSON](/news/2006/09/9/19-year-old-maria-sharapova-wins-her-second-grand-slam-upsetting-justin-henin-hardenne-6-ndash-4-6-ndash-4-in-the-final-of-the-2006-u-s.json)  [XML](/news/2006/09/9/19-year-old-maria-sharapova-wins-her-second-grand-slam-upsetting-justin-henin-hardenne-6-ndash-4-6-ndash-4-in-the-final-of-the-2006-u-s.xml)  
+
 ### [2006-09-9](/news/2006/09/9/index.md)
 
+##### Maria Sharapova
 #  19-year-old Maria Sharapova wins her second Grand Slam, upsetting Justin Henin-Hardenne 6&ndash;4, 6&ndash;4 in the final of the 2006 U.S. Open. 
 
 Maria Sharapova claimed the second grand slam of her fledgling career with a convincing 6-4, 6-4 win over Justine Henin-Hardenne in the final of the US Open today.
 
 
-### Source:
+### Sources:
 
 1. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2006-09-10/sharapova-wins-us-open/1260210)
 1. [Cover Image](http://www.abc.net.au/news/image/1260214-1x1-700x700.jpg)

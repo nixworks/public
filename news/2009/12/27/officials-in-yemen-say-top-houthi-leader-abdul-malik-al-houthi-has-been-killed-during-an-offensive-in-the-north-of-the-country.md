@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/12/27/officials-in-yemen-say-top-houthi-leader-abdul-malik-al-houthi-has-been-killed-during-an-offensive-in-the-north-of-the-country.html)  [JSON](/news/2009/12/27/officials-in-yemen-say-top-houthi-leader-abdul-malik-al-houthi-has-been-killed-during-an-offensive-in-the-north-of-the-country.json)  [XML](/news/2009/12/27/officials-in-yemen-say-top-houthi-leader-abdul-malik-al-houthi-has-been-killed-during-an-offensive-in-the-north-of-the-country.xml)  
+
 ### [2009-12-27](/news/2009/12/27/index.md)
 
+##### Yemen
 #  Officials in Yemen say top Houthi leader Abdul-Malik al-Houthi has been killed during an offensive in the north of the country. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE5BQ0U920091227)
+1. [Reuters](https://www.reuters.com/article/idUSTRE5BQ0U920091227)
 2. [Yemen News Agency](http://www.sabanews.net/en/news201672.htm)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

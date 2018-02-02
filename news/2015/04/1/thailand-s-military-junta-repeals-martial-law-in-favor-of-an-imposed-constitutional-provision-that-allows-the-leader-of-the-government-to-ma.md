@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/1/thailand-s-military-junta-repeals-martial-law-in-favor-of-an-imposed-constitutional-provision-that-allows-the-leader-of-the-government-to-ma.html)  [JSON](/news/2015/04/1/thailand-s-military-junta-repeals-martial-law-in-favor-of-an-imposed-constitutional-provision-that-allows-the-leader-of-the-government-to-ma.json)  [XML](/news/2015/04/1/thailand-s-military-junta-repeals-martial-law-in-favor-of-an-imposed-constitutional-provision-that-allows-the-leader-of-the-government-to-ma.xml)  
+
 ### [2015-04-1](/news/2015/04/1/index.md)
 
+##### Thailand
 # Thailand's military junta repeals martial law in favor of an imposed constitutional provision that allows the leader of the government to make extra-constitutional orders. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/374e3af0ced748a7997dc9e36de23c59/thailand-junta-replace-martial-law-absolute-power)
 
@@ -15,4 +19,4 @@
 2. [The Military junta of Thailand gives the Royal Thai Armed Forces broad police-like powers. The military is now allowed to prevent or suppress over 27 types of offenses. The move created an outcry from human rights organizations and prompted the United States to express its concern over the growing influence of the military in the country. ](/news/2016/04/5/the-military-junta-of-thailand-gives-the-royal-thai-armed-forces-broad-police-like-powers-the-military-is-now-allowed-to-prevent-or-suppres.md) _Context: Thailand, military junta_
 3. [Thailand's National Reform Council (NRC) rejects a controversial new constitution, 135 to 105, with 7 abstentions. This result dissolves the NRC, continues military rule for at least 7 months, and delays the scheduled January 2016 referendum to early 2017 or later. ](/news/2015/09/6/thailand-s-national-reform-council-nrc-rejects-a-controversial-new-constitution-135-to-105-with-7-abstentions-this-result-dissolves-the.md) _Context: Thailand, military junta_
 4. [The Thai military junta announces that it is lifting the nationwide curfew. ](/news/2014/06/13/the-thai-military-junta-announces-that-it-is-lifting-the-nationwide-curfew.md) _Context: Thailand, military junta_
-5. [Thai Prime Minister Prayut Chan-o-cha meets with U.S. President Donald Trump in the Oval Office. Trump says he wants to lower the U.S. trade deficit with Thailand. ](/news/2017/10/2/thai-prime-minister-prayut-chan-o-cha-meets-with-u-s-president-donald-trump-in-the-oval-office-trump-says-he-wants-to-lower-the-u-s-trade.md) _Context: Thailand_
+5. [A motorcycle bomb kills at least three people and wounds 22 others at a market in Thailand's southern Yala Province. ](/news/2018/01/22/a-motorcycle-bomb-kills-at-least-three-people-and-wounds-22-others-at-a-market-in-thailand-s-southern-yala-province.md) _Context: Thailand_

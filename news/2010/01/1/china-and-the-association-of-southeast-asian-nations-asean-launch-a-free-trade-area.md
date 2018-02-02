@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/01/1/china-and-the-association-of-southeast-asian-nations-asean-launch-a-free-trade-area.html)  [JSON](/news/2010/01/1/china-and-the-association-of-southeast-asian-nations-asean-launch-a-free-trade-area.json)  [XML](/news/2010/01/1/china-and-the-association-of-southeast-asian-nations-asean-launch-a-free-trade-area.xml)  
+
 ### [2010-01-1](/news/2010/01/1/index.md)
 
+##### China
 #  China and the Association of Southeast Asian Nations (ASEAN) launch a Free Trade Area. 
 
 The new zone, consisting of China and 10 Southeast Asian nations, will remove tariffs on 90 percent of traded goods.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2010/01/01/business/global/01trade.html)
+1. [New York Times](https://www.nytimes.com/2010/01/01/business/global/01trade.html)
 2. [Xinhua](http://news.xinhuanet.com/english/2010-01/01/content_12739017.htm)
 2. [Cover Image](https://static01.nyt.com/images/2010/01/01/business/01trade_CA0/thumbStandard.jpg)
 

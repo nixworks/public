@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/9/a-chinese-man-is-freed-from-prison-after-10-years-after-the-man-he-had-been-convicted-of-killing-is-found-alive.html)  [JSON](/news/2010/05/9/a-chinese-man-is-freed-from-prison-after-10-years-after-the-man-he-had-been-convicted-of-killing-is-found-alive.json)  [XML](/news/2010/05/9/a-chinese-man-is-freed-from-prison-after-10-years-after-the-man-he-had-been-convicted-of-killing-is-found-alive.xml)  
+
 ### [2010-05-9](/news/2010/05/9/index.md)
 
+##### 
 # A Chinese man is freed from prison after 10 years after the man he had been convicted of killing is found alive. 
 
 A Chinese man who spent nearly 10 years in jail for murder has been cleared after the supposed victim reappeared alive and well.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8671577.stm)
 2. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20100510-269125/China-clears-murderer-after-victim-shows-up-alive)

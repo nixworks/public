@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/11/24/chogm-commonwealth-heads-of-government-meeting-is-currently-underway-in-malta.html)  [JSON](/news/2005/11/24/chogm-commonwealth-heads-of-government-meeting-is-currently-underway-in-malta.json)  [XML](/news/2005/11/24/chogm-commonwealth-heads-of-government-meeting-is-currently-underway-in-malta.xml)  
+
 ### [2005-11-24](/news/2005/11/24/index.md)
 
+##### heads of government
 #  CHOGM - Commonwealth Heads of Government Meeting is currently underway in Malta.
 
 

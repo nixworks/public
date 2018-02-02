@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/05/23/ac-milan-defeats-liverpool-f-c-2-1-in-the-uefa-champions-league-final.html)  [JSON](/news/2007/05/23/ac-milan-defeats-liverpool-f-c-2-1-in-the-uefa-champions-league-final.json)  [XML](/news/2007/05/23/ac-milan-defeats-liverpool-f-c-2-1-in-the-uefa-champions-league-final.xml)  
+
 ### [2007-05-23](/news/2007/05/23/index.md)
 
+##### AC Milan
 #  AC Milan defeats Liverpool F.C. 2-1 in the UEFA Champions League final. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=a_0SgFeo64aY&refer=europe)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601085&sid=a_0SgFeo64aY&refer=europe)
 
 ### Related:
 

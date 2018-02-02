@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/27/internet-retailer-overstock-com-has-amended-its-complaint-in-a-long-standing-lawsuit-against-goldman-sachs-and-merrill-lynch-to-demand-trebl.html)  [JSON](/news/2011/01/27/internet-retailer-overstock-com-has-amended-its-complaint-in-a-long-standing-lawsuit-against-goldman-sachs-and-merrill-lynch-to-demand-trebl.json)  [XML](/news/2011/01/27/internet-retailer-overstock-com-has-amended-its-complaint-in-a-long-standing-lawsuit-against-goldman-sachs-and-merrill-lynch-to-demand-trebl.xml)  
+
 ### [2011-01-27](/news/2011/01/27/index.md)
 
+##### Overstock.com
 # Internet retailer Overstock.com has amended its complaint in a long-standing lawsuit against Goldman Sachs and Merrill Lynch to demand treble damages under New Jersey's racketeering statute. Merrill Lynch is a subsidiary of Bank of America. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press Release](http://investors.overstock.com/phoenix.zhtml?c=131091&p=irol-newsArticle&ID=1521175&highlight=)
 

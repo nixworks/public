@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/18/somali-president-abdullahi-yusuf-ahmed-survives-an-assassination-attempt.html)  [JSON](/news/2008/06/18/somali-president-abdullahi-yusuf-ahmed-survives-an-assassination-attempt.json)  [XML](/news/2008/06/18/somali-president-abdullahi-yusuf-ahmed-survives-an-assassination-attempt.xml)  
+
 ### [2008-06-18](/news/2008/06/18/index.md)
 
+##### Somalia
 #  Somali President Abdullahi Yusuf Ahmed survives an assassination attempt. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7461399.stm)
 

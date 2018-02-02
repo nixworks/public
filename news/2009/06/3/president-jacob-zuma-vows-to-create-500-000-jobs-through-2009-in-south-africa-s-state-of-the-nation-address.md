@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/06/3/president-jacob-zuma-vows-to-create-500-000-jobs-through-2009-in-south-africa-s-state-of-the-nation-address.html)  [JSON](/news/2009/06/3/president-jacob-zuma-vows-to-create-500-000-jobs-through-2009-in-south-africa-s-state-of-the-nation-address.json)  [XML](/news/2009/06/3/president-jacob-zuma-vows-to-create-500-000-jobs-through-2009-in-south-africa-s-state-of-the-nation-address.xml)  
+
 ### [2009-06-3](/news/2009/06/3/index.md)
 
+##### President
 #  President Jacob Zuma vows to create 500,000 jobs through 2009 in South Africa's State of the Nation Address. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8080792.stm)
-2. [Forbes](http://www.forbes.com/feeds/afx/2009/06/03/afx6498090.html)
+2. [Forbes](https://www.forbes.com/feeds/afx/2009/06/03/afx6498090.html)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/19/at-least-27-people-are-dead-and-dozens-missing-after-heavy-rains-in-the-people-s-republic-of-china.html)  [JSON](/news/2011/09/19/at-least-27-people-are-dead-and-dozens-missing-after-heavy-rains-in-the-people-s-republic-of-china.json)  [XML](/news/2011/09/19/at-least-27-people-are-dead-and-dozens-missing-after-heavy-rains-in-the-people-s-republic-of-china.xml)  
+
 ### [2011-09-19](/news/2011/09/19/index.md)
 
+##### China
 # At least 27 people are dead and dozens missing after heavy rains in the People's Republic of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jjFn4pIQse1_Fx86frZntEVaqL-A?docId=CNG.ae64262d1dcb6895c6f8b9cb03b1b8f3.5a1)
 

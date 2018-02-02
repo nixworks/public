@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/18/a-new-cabinet-is-sworn-in-in-egypt-with-half-the-former-members-being-replaced-due-to-ongoing-protests-since-the-2011-egyptian-revolution.html)  [JSON](/news/2011/07/18/a-new-cabinet-is-sworn-in-in-egypt-with-half-the-former-members-being-replaced-due-to-ongoing-protests-since-the-2011-egyptian-revolution.json)  [XML](/news/2011/07/18/a-new-cabinet-is-sworn-in-in-egypt-with-half-the-former-members-being-replaced-due-to-ongoing-protests-since-the-2011-egyptian-revolution.xml)  
+
 ### [2011-07-18](/news/2011/07/18/index.md)
 
+##### Cabinet
 # A new Cabinet is sworn in in Egypt, with half the former members being replaced due to ongoing protests since the 2011 Egyptian revolution. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/news/africa/2011/07/2011717232716512838.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/17/201171794335696371_20.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/11/abortion-in-ireland-three-irish-women-are-taking-the-government-of-ireland-to-the-european-court-of-human-rights-to-challenge-ireland-s-co.html)  [JSON](/news/2005/08/11/abortion-in-ireland-three-irish-women-are-taking-the-government-of-ireland-to-the-european-court-of-human-rights-to-challenge-ireland-s-co.json)  [XML](/news/2005/08/11/abortion-in-ireland-three-irish-women-are-taking-the-government-of-ireland-to-the-european-court-of-human-rights-to-challenge-ireland-s-co.xml)  
+
 ### [2005-08-11](/news/2005/08/11/index.md)
 
+##### Abortion in the Republic of Ireland
 #  Abortion in Ireland: Three Irish women are taking the Government of Ireland to the European Court of Human Rights to challenge Ireland's constitutional ban on Abortion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4140992.stm)
 

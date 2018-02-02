@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/22/the-police-service-of-northern-ireland-says-that-an-incident-at-the-home-of-one-of-its-officers-in-bangor-county-down-on-wednesday-night-w.html)  [JSON](/news/2012/12/22/the-police-service-of-northern-ireland-says-that-an-incident-at-the-home-of-one-of-its-officers-in-bangor-county-down-on-wednesday-night-w.json)  [XML](/news/2012/12/22/the-police-service-of-northern-ireland-says-that-an-incident-at-the-home-of-one-of-its-officers-in-bangor-county-down-on-wednesday-night-w.xml)  
+
 ### [2012-12-22](/news/2012/12/22/index.md)
 
+##### Police Service of Northern Ireland
 # The Police Service of Northern Ireland says that an incident at the home of one of its officers in Bangor, County Down, on Wednesday night was an attempt to murder him. 
 
 Police have said that an incident at the home of a police officer in Bangor, County Down, was an attempt to murder him.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-20828148)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64865000/jpg/_64865700_bangorscene2.jpg)

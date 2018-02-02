@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/20/seattle-based-amazon-com-says-it-will-create-15
 
 ### [2017-02-20](/news/2017/02/20/index.md)
 
+##### Seattle
 # Seattle-based Amazon.com says it will create 15,000 new full-time jobs across Europe by the end of 2017, increasing its European workforce by approximately 30 percent. 
 
 American tech giant Amazon promised to create 15,000 new full-time jobs across Europe by the end of the year. The move will see the Seattle-based company i

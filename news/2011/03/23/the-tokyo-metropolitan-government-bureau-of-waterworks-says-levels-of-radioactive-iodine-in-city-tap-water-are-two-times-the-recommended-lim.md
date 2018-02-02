@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/23/the-tokyo-metropolitan-government-bureau-of-waterworks-says-levels-of-radioactive-iodine-in-city-tap-water-are-two-times-the-recommended-lim.html)  [JSON](/news/2011/03/23/the-tokyo-metropolitan-government-bureau-of-waterworks-says-levels-of-radioactive-iodine-in-city-tap-water-are-two-times-the-recommended-lim.json)  [XML](/news/2011/03/23/the-tokyo-metropolitan-government-bureau-of-waterworks-says-levels-of-radioactive-iodine-in-city-tap-water-are-two-times-the-recommended-lim.xml)  
+
 ### [2011-03-23](/news/2011/03/23/index.md)
 
+##### Tokyo Metropolitan Government Bureau of Waterworks
 # The Tokyo Metropolitan Government Bureau of Waterworks says levels of radioactive iodine in city tap water are two times the recommended limit for infants. 
 
 Tokyo residents were warned not to give babies tap water because of radiation leaking from a nuclear plant crippled in the earthquake and tsunami that devastated northeast Japan.
 
 
-### Source:
+### Sources:
 
 1. [NZ Stuff](http://www.stuff.co.nz/world/asia/japan-earthquake/4801651/Radiation-in-Tokyo-water-double-limit)
 1. [Cover Image](https://static2.stuff.co.nz/1300867652/630/4802630.jpg)

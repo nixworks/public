@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/9/elections-in-malaysia-are-to-occur-in-2017-as-ef
 
 ### [2016-09-9](/news/2016/09/9/index.md)
 
+##### Next Malaysian general election
 # Elections in Malaysia are to occur in 2017 as efforts to challenge the legitimacy of Najib Razak mount. 
 
 There’s the whisper of an early election in the air in Malaysia.

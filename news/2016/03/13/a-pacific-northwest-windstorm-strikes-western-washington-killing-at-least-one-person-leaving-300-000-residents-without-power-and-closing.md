@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/13/a-pacific-northwest-windstorm-strikes-western-w
 
 ### [2016-03-13](/news/2016/03/13/index.md)
 
+##### Pacific Northwest windstorm
 # A Pacific Northwest windstorm strikes Western Washington, killing at least one person, leaving 300,000 residents without power, and closing several bridges. 
 
 A strong wind storm battered much of Western Washington on Sunday, killing a man and causing widespread damage.

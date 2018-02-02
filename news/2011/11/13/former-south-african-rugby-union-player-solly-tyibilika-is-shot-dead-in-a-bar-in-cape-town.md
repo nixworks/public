@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/13/former-south-african-rugby-union-player-solly-tyibilika-is-shot-dead-in-a-bar-in-cape-town.html)  [JSON](/news/2011/11/13/former-south-african-rugby-union-player-solly-tyibilika-is-shot-dead-in-a-bar-in-cape-town.json)  [XML](/news/2011/11/13/former-south-african-rugby-union-player-solly-tyibilika-is-shot-dead-in-a-bar-in-cape-town.xml)  
+
 ### [2011-11-13](/news/2011/11/13/index.md)
 
+##### South Africa
 # Former South African rugby union player Solly Tyibilika is shot dead in a bar in Cape Town. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/rugby_union/15714042.stm)
 2. [Bigpond News](http://bigpondnews.com/articles/Sport/2011/11/14/Sth_African_rugby_player_reported_shot_684816.html)
@@ -17,4 +21,4 @@
 2. [ In rugby union, South Africa defeat New Zealand 32-29 to win the 2009 Tri Nations Series. ](/news/2009/09/12/in-rugby-union-south-africa-defeat-new-zealand-32-29-to-win-the-2009-tri-nations-series.md) _Context: South Africa, rugby union_
 3. [ In rugby union, New Zealand defeat World Cup winners South Africa 19&ndash;8 in the opening match of the Tri Nations. ](/news/2008/07/5/in-rugby-union-new-zealand-defeat-world-cup-winners-south-africa-19-ndash-8-in-the-opening-match-of-the-tri-nations.md) _Context: South Africa, rugby union_
 4. [ Peter de Villiers is appointed the first black coach of the South African rugby union team. ](/news/2008/01/9/peter-de-villiers-is-appointed-the-first-black-coach-of-the-south-african-rugby-union-team.md) _Context: South Africa, rugby union_
-5. [ Up to 10,000 people have been evacuated from Knysna Local Municipality on Garden Route in South Africa after wildfire destroyed 150 homes. The Wildfire is connected to the worst windstorm in 30 years, which already killed at least 8 people in Cape Town. [http:--www.bbc.com-news-world-africa-40199270 (BBC)], [https:--www.enca.com-south-africa-knysna-toddler-dies-on-birthday (ENCA)], [https:--www.rte.ie-news-world-2017-0608-881071-south_africa- (RTE)], [http:--www.aljazeera.com-news-2017-06-storm-kills-displaces-thousands-cape-town-170608052748704.html (Al Jazeera)], [https:--www.nytimes.com-2017-06-07-world-africa-south-africa-cape-town-storm-fires.html "(The New York Times)"]](/news/2017/06/8/up-to-10-000-people-have-been-evacuated-from-knysna-local-municipality-on-garden-route-in-south-africa-after-wildfire-destroyed-150-homes.md) _Context: Cape Town_
+5. [Cape Town announces that they will reach their "zero day", when they run out of all available water reserves, on April 12, 2018. ](/news/2018/01/26/cape-town-announces-that-they-will-reach-their-zero-day-when-they-run-out-of-all-available-water-reserves-on-april-12-2018.md) _Context: Cape Town_

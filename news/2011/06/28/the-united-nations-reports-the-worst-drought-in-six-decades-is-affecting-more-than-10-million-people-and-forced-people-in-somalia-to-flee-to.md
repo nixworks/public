@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/28/the-united-nations-reports-the-worst-drought-in-six-decades-is-affecting-more-than-10-million-people-and-forced-people-in-somalia-to-flee-to.html)  [JSON](/news/2011/06/28/the-united-nations-reports-the-worst-drought-in-six-decades-is-affecting-more-than-10-million-people-and-forced-people-in-somalia-to-flee-to.json)  [XML](/news/2011/06/28/the-united-nations-reports-the-worst-drought-in-six-decades-is-affecting-more-than-10-million-people-and-forced-people-in-somalia-to-flee-to.xml)  
+
 ### [2011-06-28](/news/2011/06/28/index.md)
 
+##### United Nations
 # The United Nations reports the worst drought in six decades is affecting more than 10 million people and forced people in Somalia to flee to Kenya and Ethiopia as they starve to death. 
 
 The UN says the worst drought in 60 years has forced Somalis to flee to Kenya and Ethiopia in search of food.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13944550)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53734000/jpg/_53734917_rs31647_img_0676_habiba_&amp;_ruwayda_(1mnth).jpg)

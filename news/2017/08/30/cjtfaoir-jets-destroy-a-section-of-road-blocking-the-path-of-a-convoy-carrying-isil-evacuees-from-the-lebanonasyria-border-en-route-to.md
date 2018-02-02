@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/30/cjtfaoir-jets-destroy-a-section-of-road-blockin
 
 ### [2017-08-30](/news/2017/08/30/index.md)
 
+##### Syrian Civil War
 # CJTF-OIR jets destroy a section of road, blocking the path of a convoy carrying ISIL evacuees from the Lebanon-Syria border en route to Abu Kamal in the Deir ez-Zor Governorate. The convoy, carrying 308 militants and 331 civilians according to Hezbollah, is now effectively stranded in Syrian government-controlled territory. 
 
 U.S.-led warplanes on Wednesday blocked a convoy of Islamic State fighters and their families from reaching territory the group holds in east Syria and struck some of their comrades traveling to meet them, a coalition spokesman said.

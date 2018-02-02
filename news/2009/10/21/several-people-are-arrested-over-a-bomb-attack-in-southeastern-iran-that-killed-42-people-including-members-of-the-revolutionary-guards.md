@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/21/several-people-are-arrested-over-a-bomb-attack-in-southeastern-iran-that-killed-42-people-including-members-of-the-revolutionary-guards.html)  [JSON](/news/2009/10/21/several-people-are-arrested-over-a-bomb-attack-in-southeastern-iran-that-killed-42-people-including-members-of-the-revolutionary-guards.json)  [XML](/news/2009/10/21/several-people-are-arrested-over-a-bomb-attack-in-southeastern-iran-that-killed-42-people-including-members-of-the-revolutionary-guards.xml)  
+
 ### [2009-10-21](/news/2009/10/21/index.md)
 
+##### bomb attack
 #  Several people are arrested over a bomb attack in southeastern Iran that killed 42 people, including members of the Revolutionary Guards. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gpWpReHv8iWIFgWQQms1aWxfRYmgD9BFLNI00)
 

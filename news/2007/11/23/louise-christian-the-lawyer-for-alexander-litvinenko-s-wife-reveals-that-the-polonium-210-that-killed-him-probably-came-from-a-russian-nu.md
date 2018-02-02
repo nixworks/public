@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/23/louise-christian-the-lawyer-for-alexander-litvinenko-s-wife-reveals-that-the-polonium-210-that-killed-him-probably-came-from-a-russian-nu.html)  [JSON](/news/2007/11/23/louise-christian-the-lawyer-for-alexander-litvinenko-s-wife-reveals-that-the-polonium-210-that-killed-him-probably-came-from-a-russian-nu.json)  [XML](/news/2007/11/23/louise-christian-the-lawyer-for-alexander-litvinenko-s-wife-reveals-that-the-polonium-210-that-killed-him-probably-came-from-a-russian-nu.xml)  
+
 ### [2007-11-23](/news/2007/11/23/index.md)
 
+##### Louise Christian
 #  Louise Christian, the lawyer for Alexander Litvinenko's wife, reveals that the polonium-210 that killed him probably came from a Russian nuclear plant. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/7108634.stm)
 

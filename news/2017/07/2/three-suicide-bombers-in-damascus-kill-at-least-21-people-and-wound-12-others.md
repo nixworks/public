@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/2/three-suicide-bombers-in-damascus-kill-at-least-
 
 ### [2017-07-2](/news/2017/07/2/index.md)
 
+##### Syrian Civil War
 # Three suicide bombers in Damascus kill at least 21 people and wound 12 others. 
 
 

@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/04/8/nasa-announces-that-the-mission-of-spirit-and-opportunity-will-be-extended-by-five-months.html)  [JSON](/news/2004/04/8/nasa-announces-that-the-mission-of-spirit-and-opportunity-will-be-extended-by-five-months.json)  [XML](/news/2004/04/8/nasa-announces-that-the-mission-of-spirit-and-opportunity-will-be-extended-by-five-months.xml)  
+
 ### [2004-04-8](/news/2004/04/8/index.md)
 
+##### NASA
 #  NASA announces that the mission of Spirit and Opportunity will be extended by five months. 
 
-From newly charted astronomical anomalies at the far reaches of the universe to the rise of nanotechnology, nobody covers science and the latest discoveries like Reuters.com.
 
 
-### Source:
+
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/TECH/space/04/08/mars.rovers/)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=4790517&section=news)
-2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=4790517&section=news)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/28/in-the-united-states-the-holidays-of-thanksgiving-and-the-first-day-of-hanukkah-occur-on-the-same-day-the-event-dubbed-thanksgivukkah-las.html)  [JSON](/news/2013/11/28/in-the-united-states-the-holidays-of-thanksgiving-and-the-first-day-of-hanukkah-occur-on-the-same-day-the-event-dubbed-thanksgivukkah-las.json)  [XML](/news/2013/11/28/in-the-united-states-the-holidays-of-thanksgiving-and-the-first-day-of-hanukkah-occur-on-the-same-day-the-event-dubbed-thanksgivukkah-las.xml)  
+
 ### [2013-11-28](/news/2013/11/28/index.md)
 
+##### Thanksgiving
 # In the United States the holidays of Thanksgiving and the first day of Hanukkah occur on the same day. The event, dubbed Thanksgivukkah, last happened in 1888, and will not occur again for another 70,000+ years. 
 
 &#039;Tis a once-in-a-lifetime day for dreidels and dressing! (And hardcore napping)
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/25140033)
 2. [TIME](http://newsfeed.time.com/2013/11/01/everything-you-need-to-know-about-thanksgivukkah/)

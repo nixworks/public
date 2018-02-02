@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/16/a-jewish-cemetery-in-west-ham-has-been-attacked-this-was-the-117th-time-a-jewish-cemetery-in-great-britain-has-been-attacked-in-15-years.html)  [JSON](/news/2005/06/16/a-jewish-cemetery-in-west-ham-has-been-attacked-this-was-the-117th-time-a-jewish-cemetery-in-great-britain-has-been-attacked-in-15-years.json)  [XML](/news/2005/06/16/a-jewish-cemetery-in-west-ham-has-been-attacked-this-was-the-117th-time-a-jewish-cemetery-in-great-britain-has-been-attacked-in-15-years.xml)  
+
 ### [2005-06-16](/news/2005/06/16/index.md)
 
+##### Jewish
 #  A Jewish cemetery in West Ham has been attacked. This was the 117th time a Jewish cemetery in Great Britain has been attacked in 15 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Independent](http://news.independent.co.uk/uk/this_britain/story.jsp?story=647203)
 

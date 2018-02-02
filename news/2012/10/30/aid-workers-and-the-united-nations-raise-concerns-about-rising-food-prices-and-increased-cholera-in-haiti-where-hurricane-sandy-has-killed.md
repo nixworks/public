@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/30/aid-workers-and-the-united-nations-raise-concerns-about-rising-food-prices-and-increased-cholera-in-haiti-where-hurricane-sandy-has-killed.html)  [JSON](/news/2012/10/30/aid-workers-and-the-united-nations-raise-concerns-about-rising-food-prices-and-increased-cholera-in-haiti-where-hurricane-sandy-has-killed.json)  [XML](/news/2012/10/30/aid-workers-and-the-united-nations-raise-concerns-about-rising-food-prices-and-increased-cholera-in-haiti-where-hurricane-sandy-has-killed.xml)  
+
 ### [2012-10-30](/news/2012/10/30/index.md)
 
+##### United Nations
 # Aid workers and the United Nations raise concerns about rising food prices and increased cholera in Haiti, where Hurricane Sandy has killed at least 52 people. 
 
 Officials fear rising food prices and an increase in cholera cases in Caribbean nation where storm killed 52 people.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/10/2012103075846181519.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/images/2012/10/30//2012103075940978734_20.jpg)

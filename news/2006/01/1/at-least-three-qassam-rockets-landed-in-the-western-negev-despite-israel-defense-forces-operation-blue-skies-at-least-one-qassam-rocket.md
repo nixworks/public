@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/1/at-least-three-qassam-rockets-landed-in-the-western-negev-despite-israel-defense-forces-operation-blue-skies-at-least-one-qassam-rocket.html)  [JSON](/news/2006/01/1/at-least-three-qassam-rockets-landed-in-the-western-negev-despite-israel-defense-forces-operation-blue-skies-at-least-one-qassam-rocket.json)  [XML](/news/2006/01/1/at-least-three-qassam-rockets-landed-in-the-western-negev-despite-israel-defense-forces-operation-blue-skies-at-least-one-qassam-rocket.xml)  
+
 ### [2006-01-1](/news/2006/01/1/index.md)
 
+##### Qassam rocket
 #  At least three Qassam rockets landed in the western Negev, despite Israel Defense Forces' Operation Blue Skies. At least one Qassam rocket landed in Sderot, in which the Red Dawn alert system was activated around 15:30. Two Qassam rockets landed in an open area near Israeli communities in the western Negev. In all the cases there were no injuries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3193271,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

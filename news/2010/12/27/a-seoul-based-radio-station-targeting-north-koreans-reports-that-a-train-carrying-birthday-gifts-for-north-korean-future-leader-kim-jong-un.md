@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/27/a-seoul-based-radio-station-targeting-north-koreans-reports-that-a-train-carrying-birthday-gifts-for-north-korean-future-leader-kim-jong-un.html)  [JSON](/news/2010/12/27/a-seoul-based-radio-station-targeting-north-koreans-reports-that-a-train-carrying-birthday-gifts-for-north-korean-future-leader-kim-jong-un.json)  [XML](/news/2010/12/27/a-seoul-based-radio-station-targeting-north-koreans-reports-that-a-train-carrying-birthday-gifts-for-north-korean-future-leader-kim-jong-un.xml)  
+
 ### [2010-12-27](/news/2010/12/27/index.md)
 
+##### Seoul
 # A Seoul-based radio station targeting North Koreans reports that a train carrying birthday gifts for North Korean future leader Kim Jong-un derailed, in what it describes as a possible act of revolt by opponents. South Korea's National Intelligence Service (NIS) states that it is checking the report. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gD9oGvc0WOUWtWTLwboTzQ_JgoPg?docId=CNG.3867fd364625dac2c8503804f0825e3c.4b1)
 2. [Joongang Daily](http://joongangdaily.joins.com/article/view.asp?aid=2930202)

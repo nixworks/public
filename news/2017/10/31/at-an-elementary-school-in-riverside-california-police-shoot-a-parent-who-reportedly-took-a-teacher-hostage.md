@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/31/at-an-elementary-school-in-riverside-california
 
 ### [2017-10-31](/news/2017/10/31/index.md)
 
+##### Crime in California
 # At an elementary school in Riverside, California, police shoot a parent who reportedly took a teacher hostage. 
 
 Police officers swarmed a Riverside elementary school classroom where a parent had taken a teacher hostage, ending an hours-long standoff.

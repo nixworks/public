@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/5/more-than-one-million-tickets-for-the-2010-fifa-world-cup-in-south-africa-go-on-sale-globally.html)  [JSON](/news/2009/12/5/more-than-one-million-tickets-for-the-2010-fifa-world-cup-in-south-africa-go-on-sale-globally.json)  [XML](/news/2009/12/5/more-than-one-million-tickets-for-the-2010-fifa-world-cup-in-south-africa-go-on-sale-globally.xml)  
+
 ### [2009-12-5](/news/2009/12/5/index.md)
 
+##### 2010 FIFA World Cup
 #  More than one million tickets for the 2010 FIFA World Cup in South Africa go on sale globally. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8397094.stm)
 

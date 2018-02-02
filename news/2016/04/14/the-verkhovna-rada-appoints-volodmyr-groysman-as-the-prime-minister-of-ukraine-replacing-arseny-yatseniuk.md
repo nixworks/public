@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/14/the-verkhovna-rada-appoints-volodmyr-groysman-a
 
 ### [2016-04-14](/news/2016/04/14/index.md)
 
+##### parliament
 # The Verkhovna Rada appoints Volodmyr Groysman as the Prime Minister of Ukraine, replacing Arseny Yatseniuk. 
 
 

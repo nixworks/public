@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/21/madagascar-s-president-andry-rajoelina-abandons-the-power-sharing-agreement-after-appointing-a-new-military-prime-minister-colonel-vital-a.html)  [JSON](/news/2009/12/21/madagascar-s-president-andry-rajoelina-abandons-the-power-sharing-agreement-after-appointing-a-new-military-prime-minister-colonel-vital-a.json)  [XML](/news/2009/12/21/madagascar-s-president-andry-rajoelina-abandons-the-power-sharing-agreement-after-appointing-a-new-military-prime-minister-colonel-vital-a.xml)  
+
 ### [2009-12-21](/news/2009/12/21/index.md)
 
+##### Madagascar
 #  Madagascar's President Andry Rajoelina abandons the power sharing agreement after appointing a new military Prime Minister, Colonel Vital Albert Camille. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8424084.stm)
 2. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-44887620091221)

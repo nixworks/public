@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/02/13/the-ca-te-d-ivoire-government-is-dissolved-with-president-laurent-gbagbo-saying-on-state-television-that-the-peace-process-has-broken-down.html)  [JSON](/news/2010/02/13/the-ca-te-d-ivoire-government-is-dissolved-with-president-laurent-gbagbo-saying-on-state-television-that-the-peace-process-has-broken-down.json)  [XML](/news/2010/02/13/the-ca-te-d-ivoire-government-is-dissolved-with-president-laurent-gbagbo-saying-on-state-television-that-the-peace-process-has-broken-down.xml)  
+
 ### [2010-02-13](/news/2010/02/13/index.md)
 
+##### Cote d'Ivoire
 # The Cote d'Ivoire government is dissolved with President Laurent Gbagbo saying on state television that the peace process has broken down. 
 
 President Gbagbo sacks the government and the electoral commission over vote fraud.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/02/2010212204824408749.html)
-2. [Reuters](http://www.reuters.com/article/idUSTRE61B4SB20100212)
+2. [Reuters](https://www.reuters.com/article/idUSTRE61B4SB20100212)
 3. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/ivorian-president-sacks-government-20100213-nxyl.html)
 3. [Cover Image](http://www.aljazeera.com)
 

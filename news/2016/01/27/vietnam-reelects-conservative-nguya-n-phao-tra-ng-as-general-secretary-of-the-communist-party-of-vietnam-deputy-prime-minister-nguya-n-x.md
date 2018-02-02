@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/27/vietnam-reelects-conservative-nguya-n-phao-tra-
 
 ### [2016-01-27](/news/2016/01/27/index.md)
 
+##### Vietnam
 # Vietnam reelects conservative Nguyen Phu Trong as General Secretary of the Communist Party of Vietnam. Deputy Prime Minister Nguyen Xuan Phuc, a member of the Politburo, is expected to replace Nguyen TCNYn Dung as prime minister. Dung is not eligible for another term. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

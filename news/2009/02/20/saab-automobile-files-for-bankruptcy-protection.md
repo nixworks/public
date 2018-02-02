@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/20/saab-automobile-files-for-bankruptcy-protection.html)  [JSON](/news/2009/02/20/saab-automobile-files-for-bankruptcy-protection.json)  [XML](/news/2009/02/20/saab-automobile-files-for-bankruptcy-protection.xml)  
+
 ### [2009-02-20](/news/2009/02/20/index.md)
 
+##### Saab Automobile
 #  Saab Automobile files for bankruptcy protection. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/Saab-Automobile-files-creditor-protection/story.aspx?guid=%7BDDDDAE65%2D9911%2D4289%2D8644%2DD23BEEDB5CFF%7D)
 1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)

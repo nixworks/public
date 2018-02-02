@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/17/in-an-interview-british-prime-minister-tony-blair-says-iraq-is-pretty-much-a-disaster.html)  [JSON](/news/2006/11/17/in-an-interview-british-prime-minister-tony-blair-says-iraq-is-pretty-much-a-disaster.json)  [XML](/news/2006/11/17/in-an-interview-british-prime-minister-tony-blair-says-iraq-is-pretty-much-a-disaster.xml)  
+
 ### [2006-11-17](/news/2006/11/17/index.md)
 
+##### British Prime Minister
 #  In an interview British Prime Minister Tony Blair says Iraq "is pretty much a disaster." 
 
 News and opinion from The Times &amp; The Sunday Times
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/article/0,,2-2459292,00.html)
 1. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)

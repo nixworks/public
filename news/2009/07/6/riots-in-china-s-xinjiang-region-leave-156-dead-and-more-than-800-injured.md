@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/6/riots-in-china-s-xinjiang-region-leave-156-dead-and-more-than-800-injured.html)  [JSON](/news/2009/07/6/riots-in-china-s-xinjiang-region-leave-156-dead-and-more-than-800-injured.json)  [XML](/news/2009/07/6/riots-in-china-s-xinjiang-region-leave-156-dead-and-more-than-800-injured.xml)  
+
 ### [2009-07-6](/news/2009/07/6/index.md)
 
+##### riots
 #  Riots in China's Xinjiang region leave 156 dead and more than 800 injured. 
 
 At least 156 people were killed and more than 800 injured in by far the worst instance of ethnic violence in Urumqi, the capital of China&rsquo;s restive western province of Xinjiang. 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/07/20097641242376417.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8135203.stm)

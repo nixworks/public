@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/18/chad-has-offered-to-send-troops-to-the-central-african-republic-to-help-fight-rebels-it-claims-are-backed-by-sudan.html)  [JSON](/news/2006/11/18/chad-has-offered-to-send-troops-to-the-central-african-republic-to-help-fight-rebels-it-claims-are-backed-by-sudan.json)  [XML](/news/2006/11/18/chad-has-offered-to-send-troops-to-the-central-african-republic-to-help-fight-rebels-it-claims-are-backed-by-sudan.xml)  
+
 ### [2006-11-18](/news/2006/11/18/index.md)
 
+##### Chad
 #  Chad has offered to send troops to the Central African Republic to help fight rebels it claims are backed by Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/NR/exeres/2A4CB483-3C16-40DB-84A0-65DFBF17CA42.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/6157686.stm)

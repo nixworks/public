@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/1/the-black-hole-in-the-milky-way-galaxy-s-v404-cygni-system-wakes-up-becomes-energized-with-a-flow-of-gamma-rays-and-very-brief-intense-fla.html)  [JSON](/news/2015/07/1/the-black-hole-in-the-milky-way-galaxy-s-v404-cygni-system-wakes-up-becomes-energized-with-a-flow-of-gamma-rays-and-very-brief-intense-fla.json)  [XML](/news/2015/07/1/the-black-hole-in-the-milky-way-galaxy-s-v404-cygni-system-wakes-up-becomes-energized-with-a-flow-of-gamma-rays-and-very-brief-intense-fla.xml)  
+
 ### [2015-07-1](/news/2015/07/1/index.md)
 
+##### black hole
 # The black hole in the Milky Way galaxy's V404 Cygni system wakes up (becomes energized, with a flow of gamma rays and very brief intense flashes of light) after 26 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN](http://www.msn.com/en-us/video/wonder/black-hole-in-milky-way-wakes-up-after-26-years/vi-AAcgy5a)
 

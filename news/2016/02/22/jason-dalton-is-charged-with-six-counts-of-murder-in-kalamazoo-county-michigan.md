@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/22/jason-dalton-is-charged-with-six-counts-of-murd
 
 ### [2016-02-22](/news/2016/02/22/index.md)
 
+##### 2016 Kalamazoo shootings
 # Jason Dalton is charged with six counts of murder in Kalamazoo County, Michigan. 
 
 

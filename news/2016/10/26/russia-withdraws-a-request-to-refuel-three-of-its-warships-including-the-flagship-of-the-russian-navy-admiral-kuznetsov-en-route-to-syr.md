@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/26/russia-withdraws-a-request-to-refuel-three-of-i
 
 ### [2016-10-26](/news/2016/10/26/index.md)
 
+##### NATO-Russia relations
 # Russia withdraws a request to refuel three of its warships, including the flagship of the Russian Navy, "Admiral Kuznetsov", en route to Syria, at the Spanish port of Ceuta following NATO pressure on the Spanish government to not allow the warships to dock. 
 
 Russia withdraws a request for Syria-bound warships to refuel in Spain, following concern among Nato allies.

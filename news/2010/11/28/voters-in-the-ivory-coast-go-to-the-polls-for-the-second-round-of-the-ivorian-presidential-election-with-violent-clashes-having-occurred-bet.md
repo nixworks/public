@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/28/voters-in-the-ivory-coast-go-to-the-polls-for-the-second-round-of-the-ivorian-presidential-election-with-violent-clashes-having-occurred-bet.html)  [JSON](/news/2010/11/28/voters-in-the-ivory-coast-go-to-the-polls-for-the-second-round-of-the-ivorian-presidential-election-with-violent-clashes-having-occurred-bet.json)  [XML](/news/2010/11/28/voters-in-the-ivory-coast-go-to-the-polls-for-the-second-round-of-the-ivorian-presidential-election-with-violent-clashes-having-occurred-bet.xml)  
+
 ### [2010-11-28](/news/2010/11/28/index.md)
 
+##### Ivory Coast
 # Voters in the Ivory Coast go to the polls for the second round of the Ivorian presidential election with violent clashes having occurred between rival supporters. 
 
 At least three people have been killed in violence in Ivory Coast, hours before a presidential run-off election, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11855179)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

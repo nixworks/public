@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/21/pope-benedict-xvi-s-butler-paolo-gabriele-is-placed-under-house-arrest-while-awaiting-trial-for-allegedly-leaking-confidential-papers-reve.html)  [JSON](/news/2012/07/21/pope-benedict-xvi-s-butler-paolo-gabriele-is-placed-under-house-arrest-while-awaiting-trial-for-allegedly-leaking-confidential-papers-reve.json)  [XML](/news/2012/07/21/pope-benedict-xvi-s-butler-paolo-gabriele-is-placed-under-house-arrest-while-awaiting-trial-for-allegedly-leaking-confidential-papers-reve.xml)  
+
 ### [2012-07-21](/news/2012/07/21/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI's butler, Paolo Gabriele, is placed under house arrest while awaiting trial for allegedly leaking confidential papers revealing fraud and disputes within the Vatican. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5h3UbFVRZKp229pAIfC76JiIcZ3fw?docId=CNG.0bf32931d87dce5936a12804d88e692f.491)
 

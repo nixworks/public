@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/8/hun-sen-the-prime-minister-of-cambodia-and-abhisit-vejjajiva-the-prime-minister-of-thailand-meet-during-an-asean-summit-meeting-in-jakart.html)  [JSON](/news/2011/05/8/hun-sen-the-prime-minister-of-cambodia-and-abhisit-vejjajiva-the-prime-minister-of-thailand-meet-during-an-asean-summit-meeting-in-jakart.json)  [XML](/news/2011/05/8/hun-sen-the-prime-minister-of-cambodia-and-abhisit-vejjajiva-the-prime-minister-of-thailand-meet-during-an-asean-summit-meeting-in-jakart.xml)  
+
 ### [2011-05-8](/news/2011/05/8/index.md)
 
+##### Hun Sen
 # Hun Sen, the Prime Minister of Cambodia and Abhisit Vejjajiva, the Prime Minister of Thailand, meet during an ASEAN summit meeting in Jakarta to try to resolve an ongoing territorial dispute, but fail. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/42945782)
 

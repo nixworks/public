@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/28/australia-and-indonesia-sign-a-code-of-conduct-to-govern-diplomatic-ties-following-revelations-in-late-2013-that-australia-s-defence-signals.html)  [JSON](/news/2014/08/28/australia-and-indonesia-sign-a-code-of-conduct-to-govern-diplomatic-ties-following-revelations-in-late-2013-that-australia-s-defence-signals.json)  [XML](/news/2014/08/28/australia-and-indonesia-sign-a-code-of-conduct-to-govern-diplomatic-ties-following-revelations-in-late-2013-that-australia-s-defence-signals.xml)  
+
 ### [2014-08-28](/news/2014/08/28/index.md)
 
+##### Australia
 # Australia and Indonesia sign a code of conduct to govern diplomatic ties following revelations in late 2013 that Australia's Defence Signals Directorate had tapped the phones of the President of Indonesia Susilo Bambang Yudhoyono. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/australia-indonesia-to/1333830.html)
 

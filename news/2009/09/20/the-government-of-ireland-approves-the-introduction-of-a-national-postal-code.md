@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/20/the-government-of-ireland-approves-the-introduction-of-a-national-postal-code.html)  [JSON](/news/2009/09/20/the-government-of-ireland-approves-the-introduction-of-a-national-postal-code.json)  [XML](/news/2009/09/20/the-government-of-ireland-approves-the-introduction-of-a-national-postal-code.xml)  
+
 ### [2009-09-20](/news/2009/09/20/index.md)
 
+##### Government of Ireland
 #  The Government of Ireland approves the introduction of a national postal code. 
 
 The Government has approved the introduction of a national postal code.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0920/postcode.html)
 1. [Cover Image](https://img.rasset.ie/00016cdd-1600.jpg)

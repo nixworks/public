@@ -1,16 +1,26 @@
+
+Formats: [HTML](/news/2005/01/16/an-israeli-tank-shell-has-killed-a-palestinian-woman-and-her-son-in-khan-younis-refugee-camp-in-southern-gaza.html)  [JSON](/news/2005/01/16/an-israeli-tank-shell-has-killed-a-palestinian-woman-and-her-son-in-khan-younis-refugee-camp-in-southern-gaza.json)  [XML](/news/2005/01/16/an-israeli-tank-shell-has-killed-a-palestinian-woman-and-her-son-in-khan-younis-refugee-camp-in-southern-gaza.xml)  
+
 ### [2005-01-16](/news/2005/01/16/index.md)
 
+##### Israel
 #  An Israeli tank shell has killed a Palestinian woman and her son in Khan Younis refugee camp in southern Gaza. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://news.yahoo.com/news?tmpl=story&u=/ap/20050117/ap_on_re_mi_ea/israel_palestinians_12)
+1. [AP](https://news.yahoo.com/news?tmpl=story&u=/ap/20050117/ap_on_re_mi_ea/israel_palestinians_12)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4179327.stm)
 3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4179489.stm)
 4. [The Guardian](http://www.guardian.co.uk/israel/Story/0,2763,1391972,00.html)
+
+### Changes:
+
+1. [ Israeli-Palestinian Conflict: An Israeli tank shell has killed a Palestinian woman and her son in Khan Younis refugee camp in southern Gaza. ](/news/2005/01/16/israeli-palestinian-conflict-p-an-israeli-tank-shell-has-killed-a-palestinian-woman-and-her-son-in-khan-younis-refugee-camp-in-southern-gaz.md) _2017-08-25 03:15:32 (First version)_
+2. [ Israeli-Palestinian Conflict:: An Israeli tank shell has killed a Palestinian woman and her son in Khan Younis refugee camp in southern Gaza. ](/news/2005/01/16/israeli-palestinian-conflict-an-israeli-tank-shell-has-killed-a-palestinian-woman-and-her-son-in-khan-younis-refugee-camp-in-southern-gaz.md) _2017-08-27 03:15:33 (Update)_
+2. [ An Israeli tank shell has killed a Palestinian woman and her son in Khan Younis refugee camp in southern Gaza. ](/news/2005/01/16/an-israeli-tank-shell-has-killed-a-palestinian-woman-and-her-son-in-khan-younis-refugee-camp-in-southern-gaza.md) _(Current version)_
 
 ### Related:
 
@@ -19,9 +29,3 @@
 3. [Two Palestinians held in Israeli prisons are reportedly close to death, having refused to eat for 74 days. A further 1,600 prisoners have been on hunger strike since 17 April. Leaders of the strikers wait for a response from the Israeli Prison Service to calls for negotiation on issues such as the allowing of family visits for prisoners from Gaza and the ending of the use of extended solitary confinement. ](/news/2012/05/12/two-palestinians-held-in-israeli-prisons-are-reportedly-close-to-death-having-refused-to-eat-for-74-days-a-further-1-600-prisoners-have-be.md) _Context: Gaza Strip, Israel, Palestinian_
 4. [Israeli-Palestinian clashes subside as a truce between Israel and Palestinians militants in the Gaza Strip comes into effect. ](/news/2012/03/13/israeli-palestinian-clashes-subside-as-a-truce-between-israel-and-palestinians-militants-in-the-gaza-strip-comes-into-effect.md) _Context: Gaza Strip, Israel, Palestinian_
 5. [Palestinian militants on the Gaza Strip fire rockets and mortars into Israel despite a truce. ](/news/2011/08/22/palestinian-militants-on-the-gaza-strip-fire-rockets-and-mortars-into-israel-despite-a-truce.md) _Context: Gaza Strip, Israel, Palestinian_
-
-### Changes:
-
-1. [ Israeli-Palestinian Conflict: An Israeli tank shell has killed a Palestinian woman and her son in Khan Younis refugee camp in southern Gaza. ](/news/2005/01/16/israeli-palestinian-conflict-p-an-israeli-tank-shell-has-killed-a-palestinian-woman-and-her-son-in-khan-younis-refugee-camp-in-southern-gaz.md) _2017-08-25 03:15:32 (First version)_
-2. [ Israeli-Palestinian Conflict:: An Israeli tank shell has killed a Palestinian woman and her son in Khan Younis refugee camp in southern Gaza. ](/news/2005/01/16/israeli-palestinian-conflict-an-israeli-tank-shell-has-killed-a-palestinian-woman-and-her-son-in-khan-younis-refugee-camp-in-southern-gaz.md) _2017-08-27 03:15:33 (Update)_
-2. [ An Israeli tank shell has killed a Palestinian woman and her son in Khan Younis refugee camp in southern Gaza. ](/news/2005/01/16/an-israeli-tank-shell-has-killed-a-palestinian-woman-and-her-son-in-khan-younis-refugee-camp-in-southern-gaza.md) _(Current version)_

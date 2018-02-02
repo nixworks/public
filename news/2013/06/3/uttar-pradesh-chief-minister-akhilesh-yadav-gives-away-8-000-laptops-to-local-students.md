@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/3/uttar-pradesh-chief-minister-akhilesh-yadav-gives-away-8-000-laptops-to-local-students.html)  [JSON](/news/2013/06/3/uttar-pradesh-chief-minister-akhilesh-yadav-gives-away-8-000-laptops-to-local-students.json)  [XML](/news/2013/06/3/uttar-pradesh-chief-minister-akhilesh-yadav-gives-away-8-000-laptops-to-local-students.xml)  
+
 ### [2013-06-3](/news/2013/06/3/index.md)
 
+##### Uttar Pradesh
 # Uttar Pradesh Chief Minister Akhilesh Yadav gives away 8,000 laptops to local students. 
 
 In a function here on Monday, UP chief minister Akhilesh Yadav distributed laptops to about 8,000 students from Ghaziabad and Noida in the presence of senior party leaders.
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/city/noida/Akhileshs-laptop-bonanza-for-8000-students/articleshow/20419535.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)

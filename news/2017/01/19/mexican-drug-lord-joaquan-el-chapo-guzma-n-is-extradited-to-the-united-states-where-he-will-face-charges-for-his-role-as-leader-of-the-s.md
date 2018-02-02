@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/19/mexican-drug-lord-joaquan-el-chapo-guzma-n-is-e
 
 ### [2017-01-19](/news/2017/01/19/index.md)
 
+##### Mexican
 # Mexican drug lord Joaquin "El Chapo" Guzman is extradited to the United States, where he will face charges for his role as leader of the Sinaloa Cartel. 
 
 The Sinaloa cartel kingpin is reportedly headed for New York City, one of several US jurisdictions where he faces indictments.

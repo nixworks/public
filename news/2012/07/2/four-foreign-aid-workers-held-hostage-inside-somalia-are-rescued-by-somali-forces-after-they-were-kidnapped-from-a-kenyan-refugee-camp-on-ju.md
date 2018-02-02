@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/07/2/four-foreign-aid-workers-held-hostage-inside-somalia-are-rescued-by-somali-forces-after-they-were-kidnapped-from-a-kenyan-refugee-camp-on-ju.html)  [JSON](/news/2012/07/2/four-foreign-aid-workers-held-hostage-inside-somalia-are-rescued-by-somali-forces-after-they-were-kidnapped-from-a-kenyan-refugee-camp-on-ju.json)  [XML](/news/2012/07/2/four-foreign-aid-workers-held-hostage-inside-somalia-are-rescued-by-somali-forces-after-they-were-kidnapped-from-a-kenyan-refugee-camp-on-ju.xml)  
+
 ### [2012-07-2](/news/2012/07/2/index.md)
 
+##### Somalia
 # Four foreign aid workers held hostage inside Somalia are rescued by Somali forces after they were kidnapped from a Kenyan refugee camp on June 29. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-18670091)
-2. [Reuters via Yahoo! News](http://news.yahoo.com/four-foreign-aid-workers-rescued-somalia-army-062948312.html)
+2. [Reuters via Yahoo! News](https://news.yahoo.com/four-foreign-aid-workers-rescued-somalia-army-062948312.html)
 2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61307000/jpg/_61307219_0324052584b43512140f6a706700de83-1.jpg)
 
 ### Related:

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/17/in-chicago-illinois-a-stampede-at-the-e2-south-side-nightclub-kills-21-people.html)  [JSON](/news/2003/02/17/in-chicago-illinois-a-stampede-at-the-e2-south-side-nightclub-kills-21-people.json)  [XML](/news/2003/02/17/in-chicago-illinois-a-stampede-at-the-e2-south-side-nightclub-kills-21-people.xml)  
+
 ### [2003-02-17](/news/2003/02/17/index.md)
 
+##### Chicago, Illinois
 #  In Chicago, Illinois, a stampede at the E2 south side nightclub kills 21 people.
 
 

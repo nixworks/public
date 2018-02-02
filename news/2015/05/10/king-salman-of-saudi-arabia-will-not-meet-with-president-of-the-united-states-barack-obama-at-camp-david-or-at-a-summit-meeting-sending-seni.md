@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2015/05/10/king-salman-of-saudi-arabia-will-not-meet-with-president-of-the-united-states-barack-obama-at-camp-david-or-at-a-summit-meeting-sending-seni.html)  [JSON](/news/2015/05/10/king-salman-of-saudi-arabia-will-not-meet-with-president-of-the-united-states-barack-obama-at-camp-david-or-at-a-summit-meeting-sending-seni.json)  [XML](/news/2015/05/10/king-salman-of-saudi-arabia-will-not-meet-with-president-of-the-united-states-barack-obama-at-camp-david-or-at-a-summit-meeting-sending-seni.xml)  
+
 ### [2015-05-10](/news/2015/05/10/index.md)
 
+##### King Salman
 # King Salman of Saudi Arabia will not meet with President of the United States Barack Obama at Camp David or at a summit meeting sending senior Ministers instead reportedly due to disagreement over a nuclear deal with Iran. 
 
+The decision appeared to be a signal of Saudi Arabia’s continued displeasure with the Obama administration over United States relations with Iran, its rising regional adversary.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2015/05/11/world/middleeast/saudi-arabia-king-wont-attend-camp-david-meeting.html?smid=tw-bna&_r=0)
+1. [New York Times](https://www.nytimes.com/2015/05/11/world/middleeast/saudi-arabia-king-wont-attend-camp-david-meeting.html?smid=tw-bna&_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2015/05/11/world/11prexy-web-3/11prexy-web-3-facebookJumbo.jpg)
 
 ### Related:
 

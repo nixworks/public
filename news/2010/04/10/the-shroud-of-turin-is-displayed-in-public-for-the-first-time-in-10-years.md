@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/10/the-shroud-of-turin-is-displayed-in-public-for-the-first-time-in-10-years.html)  [JSON](/news/2010/04/10/the-shroud-of-turin-is-displayed-in-public-for-the-first-time-in-10-years.json)  [XML](/news/2010/04/10/the-shroud-of-turin-is-displayed-in-public-for-the-first-time-in-10-years.xml)  
+
 ### [2010-04-10](/news/2010/04/10/index.md)
 
+##### Shroud of Turin
 # The Shroud of Turin is displayed in public for the first time in 10 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8613258.stm)
 2. [Miami Herald](http://www.miamiherald.com/2010/04/09/1571517/public-to-get-latest-peek-at-shroud.html)

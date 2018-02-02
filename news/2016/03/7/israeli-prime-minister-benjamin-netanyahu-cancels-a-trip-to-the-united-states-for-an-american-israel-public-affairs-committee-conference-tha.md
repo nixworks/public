@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/7/israeli-prime-minister-benjamin-netanyahu-cancel
 
 ### [2016-03-7](/news/2016/03/7/index.md)
 
+##### Israel-United States relations
 # Israeli Prime Minister Benjamin Netanyahu cancels a trip to the United States for an American Israel Public Affairs Committee conference that was to include a meeting with U.S. President Barack Obama. 
 
 Israeli Prime Minister Benjamin Netanyahu said on Tuesday he had declined a proposed meeting with U.S. President Barack Obama in order to steer clear of the U.S. presidential election campaign, as Vice President Joe Biden began a two-day visit to Israel.

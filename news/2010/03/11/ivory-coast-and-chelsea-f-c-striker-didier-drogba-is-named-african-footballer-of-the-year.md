@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/11/ivory-coast-and-chelsea-f-c-striker-didier-drogba-is-named-african-footballer-of-the-year.html)  [JSON](/news/2010/03/11/ivory-coast-and-chelsea-f-c-striker-didier-drogba-is-named-african-footballer-of-the-year.json)  [XML](/news/2010/03/11/ivory-coast-and-chelsea-f-c-striker-didier-drogba-is-named-african-footballer-of-the-year.xml)  
+
 ### [2010-03-11](/news/2010/03/11/index.md)
 
+##### Ivory Coast
 # Ivory Coast and Chelsea F.C. striker Didier Drogba is named African Footballer of the Year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/football/africa/8563526.stm)
 

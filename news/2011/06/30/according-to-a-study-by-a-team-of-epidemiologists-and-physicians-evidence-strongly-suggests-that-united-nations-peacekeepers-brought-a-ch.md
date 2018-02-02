@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/30/according-to-a-study-by-a-team-of-epidemiologists-and-physicians-evidence-strongly-suggests-that-united-nations-peacekeepers-brought-a-ch.html)  [JSON](/news/2011/06/30/according-to-a-study-by-a-team-of-epidemiologists-and-physicians-evidence-strongly-suggests-that-united-nations-peacekeepers-brought-a-ch.json)  [XML](/news/2011/06/30/according-to-a-study-by-a-team-of-epidemiologists-and-physicians-evidence-strongly-suggests-that-united-nations-peacekeepers-brought-a-ch.xml)  
+
 ### [2011-06-30](/news/2011/06/30/index.md)
 
+##### United Nations
 # According to a study by a team of epidemiologists and physicians, evidence "strongly suggests" that United Nations peacekeepers brought a cholera strain to Haiti that has killed thousands of people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5i-JSfU63cFjKa4zKqDD0Vk--r3_Q?docId=b22a00d2328d4930b5eaee7ccae9f0f2)
 2. [Press TV](http://www.presstv.com/detail/186908.html)

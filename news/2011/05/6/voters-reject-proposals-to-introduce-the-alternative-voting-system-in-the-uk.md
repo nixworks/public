@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/6/voters-reject-proposals-to-introduce-the-alternative-voting-system-in-the-uk.html)  [JSON](/news/2011/05/6/voters-reject-proposals-to-introduce-the-alternative-voting-system-in-the-uk.json)  [XML](/news/2011/05/6/voters-reject-proposals-to-introduce-the-alternative-voting-system-in-the-uk.xml)  
+
 ### [2011-05-6](/news/2011/05/6/index.md)
 
+##### Alternative Vote referendum
 # Voters reject proposals to introduce the alternative voting system in the UK. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13297573)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52591000/jpg/_52591202_nocampaign464in_getty.jpg)

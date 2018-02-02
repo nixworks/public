@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/11/30/an-unpublished-list-compiled-by-mexico-s-attorney-general-s-office-is-leaked-showing-that-more-than-25-000-people-disappeared-in-mexico-s-dr.html)  [JSON](/news/2012/11/30/an-unpublished-list-compiled-by-mexico-s-attorney-general-s-office-is-leaked-showing-that-more-than-25-000-people-disappeared-in-mexico-s-dr.json)  [XML](/news/2012/11/30/an-unpublished-list-compiled-by-mexico-s-attorney-general-s-office-is-leaked-showing-that-more-than-25-000-people-disappeared-in-mexico-s-dr.xml)  
+
 ### [2012-11-30](/news/2012/11/30/index.md)
 
+##### Mexico
 # An unpublished list compiled by Mexico's Attorney General's Office is leaked showing that more than 25,000 people disappeared in Mexico's drug war, placing the probable death toll of the six-year conflict at around 100,000 deaths. 
 
 Mexico&#039;s Attorney General has compiled a list showing that more than 25,000 adults and children have gone missing in Mexico in the past six years, according to unpublished government documents.
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/americas/mexico-more-than-25000-people-disappear-in-six-years-8372482.html)
+1. [The Independent](https://www.independent.co.uk/news/world/americas/mexico-more-than-25000-people-disappear-in-six-years-8372482.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/11/30/19/mexico.2.afp.jpg)
 
 ### Related:

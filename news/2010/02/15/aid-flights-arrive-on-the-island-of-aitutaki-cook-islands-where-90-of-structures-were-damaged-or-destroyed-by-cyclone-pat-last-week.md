@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/15/aid-flights-arrive-on-the-island-of-aitutaki-cook-islands-where-90-of-structures-were-damaged-or-destroyed-by-cyclone-pat-last-week.html)  [JSON](/news/2010/02/15/aid-flights-arrive-on-the-island-of-aitutaki-cook-islands-where-90-of-structures-were-damaged-or-destroyed-by-cyclone-pat-last-week.json)  [XML](/news/2010/02/15/aid-flights-arrive-on-the-island-of-aitutaki-cook-islands-where-90-of-structures-were-damaged-or-destroyed-by-cyclone-pat-last-week.xml)  
+
 ### [2010-02-15](/news/2010/02/15/index.md)
 
+##### Aitutaki
 # Aid flights arrive on the island of Aitutaki, Cook Islands, where 90% of structures were damaged or destroyed by Cyclone Pat last week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=51967)
 

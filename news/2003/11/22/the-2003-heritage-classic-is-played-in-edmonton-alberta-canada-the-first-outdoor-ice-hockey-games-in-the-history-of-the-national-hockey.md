@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/22/the-2003-heritage-classic-is-played-in-edmonton-alberta-canada-the-first-outdoor-ice-hockey-games-in-the-history-of-the-national-hockey.html)  [JSON](/news/2003/11/22/the-2003-heritage-classic-is-played-in-edmonton-alberta-canada-the-first-outdoor-ice-hockey-games-in-the-history-of-the-national-hockey.json)  [XML](/news/2003/11/22/the-2003-heritage-classic-is-played-in-edmonton-alberta-canada-the-first-outdoor-ice-hockey-games-in-the-history-of-the-national-hockey.xml)  
+
 ### [2003-11-22](/news/2003/11/22/index.md)
 
+##### 2003 Heritage Classic
 #  The 2003 Heritage Classic is played in Edmonton, Alberta, Canada, the first outdoor ice hockey games in the history of the National Hockey League. Over 50,000 spectators watch the two games.
 
 

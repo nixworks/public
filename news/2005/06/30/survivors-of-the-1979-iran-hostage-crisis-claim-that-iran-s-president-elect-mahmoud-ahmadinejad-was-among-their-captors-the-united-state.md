@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/06/30/survivors-of-the-1979-iran-hostage-crisis-claim-that-iran-s-president-elect-mahmoud-ahmadinejad-was-among-their-captors-the-united-state.html)  [JSON](/news/2005/06/30/survivors-of-the-1979-iran-hostage-crisis-claim-that-iran-s-president-elect-mahmoud-ahmadinejad-was-among-their-captors-the-united-state.json)  [XML](/news/2005/06/30/survivors-of-the-1979-iran-hostage-crisis-claim-that-iran-s-president-elect-mahmoud-ahmadinejad-was-among-their-captors-the-united-state.xml)  
+
 ### [2005-06-30](/news/2005/06/30/index.md)
 
+##### Iran hostage crisis
 #  Survivors of the 1979 Iran hostage crisis claim that Iran's president-elect, Mahmoud Ahmadinejad, was among their captors. The United States is looking into the matter.
 
 

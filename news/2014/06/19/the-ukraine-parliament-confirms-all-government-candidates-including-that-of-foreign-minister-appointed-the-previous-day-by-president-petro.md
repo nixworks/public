@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/19/the-ukraine-parliament-confirms-all-government-candidates-including-that-of-foreign-minister-appointed-the-previous-day-by-president-petro.html)  [JSON](/news/2014/06/19/the-ukraine-parliament-confirms-all-government-candidates-including-that-of-foreign-minister-appointed-the-previous-day-by-president-petro.json)  [XML](/news/2014/06/19/the-ukraine-parliament-confirms-all-government-candidates-including-that-of-foreign-minister-appointed-the-previous-day-by-president-petro.xml)  
+
 ### [2014-06-19](/news/2014/06/19/index.md)
 
+##### Ukraine
 # The Ukraine Parliament confirms all government candidates, including that of foreign minister, appointed the previous day by President Petro Poroshenko. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kyiv Post](http://www.kyivpost.com/content/politics/parliament-confirms-poroshenko-nominations-352516.html)
 

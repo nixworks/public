@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/16/a-pipeline-explosion-near-lagos-nigeria-kills-up-to-100-people.html)  [JSON](/news/2008/05/16/a-pipeline-explosion-near-lagos-nigeria-kills-up-to-100-people.json)  [XML](/news/2008/05/16/a-pipeline-explosion-near-lagos-nigeria-kills-up-to-100-people.xml)  
+
 ### [2008-05-16](/news/2008/05/16/index.md)
 
+##### pipeline explosion
 #  A pipeline explosion near Lagos, Nigeria, kills up to 100 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times Online](http://www.timesonline.co.uk/tol/news/world/africa/article3949781.ece)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/9/the-first-minister-of-scotland-jack-mcconnell-announces-to-the-scottish-parliament-that-the-executive-intends-to-introduce-a-law-to-prohi.html)  [JSON](/news/2004/11/9/the-first-minister-of-scotland-jack-mcconnell-announces-to-the-scottish-parliament-that-the-executive-intends-to-introduce-a-law-to-prohi.json)  [XML](/news/2004/11/9/the-first-minister-of-scotland-jack-mcconnell-announces-to-the-scottish-parliament-that-the-executive-intends-to-introduce-a-law-to-prohi.xml)  
+
 ### [2004-11-9](/news/2004/11/9/index.md)
 
+##### First Minister
 #  The First Minister of Scotland, Jack McConnell, announces to the Scottish Parliament that the Executive intends to introduce a law to prohibit smoking in all public enclosed spaces in Scotland. Both of the ruling coalition parties, as well as the main opposition party, the SNP, are in favour and the move is likely to come into effect in spring 2006. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/scotland/3996587.stm)
 

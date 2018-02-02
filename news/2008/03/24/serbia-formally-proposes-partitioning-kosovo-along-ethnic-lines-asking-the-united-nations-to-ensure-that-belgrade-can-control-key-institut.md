@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/24/serbia-formally-proposes-partitioning-kosovo-along-ethnic-lines-asking-the-united-nations-to-ensure-that-belgrade-can-control-key-institut.html)  [JSON](/news/2008/03/24/serbia-formally-proposes-partitioning-kosovo-along-ethnic-lines-asking-the-united-nations-to-ensure-that-belgrade-can-control-key-institut.json)  [XML](/news/2008/03/24/serbia-formally-proposes-partitioning-kosovo-along-ethnic-lines-asking-the-united-nations-to-ensure-that-belgrade-can-control-key-institut.xml)  
+
 ### [2008-03-24](/news/2008/03/24/index.md)
 
+##### Serbia
 #  Serbia formally proposes partitioning Kosovo along ethnic lines, asking the United Nations to ensure that Belgrade can control key institutions and functions in areas of the newly independent country where Serbs form a majority. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The International Herald Tribune](http://www.iht.com/articles/2008/03/24/europe/kosovo.php)
 

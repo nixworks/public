@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/05/6/office-depot-says-it-will-close-at-least-400-of-its-u-s-stores.html)  [JSON](/news/2014/05/6/office-depot-says-it-will-close-at-least-400-of-its-u-s-stores.json)  [XML](/news/2014/05/6/office-depot-says-it-will-close-at-least-400-of-its-u-s-stores.xml)  
+
 ### [2014-05-6](/news/2014/05/6/index.md)
 
+##### Office Depot
 # Office Depot says it will close at least 400 of its U.S. stores. 
 
 Office Depot Inc ODP.N said it would close at least 400 stores in the United States over two years as it looks to consolidate operations after acquiring OfficeMax, and the company raised its forecast for full-year adjusted operating income.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/05/06/us-office-depot-results-idUSBREA450DC20140506)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140506&t=2&i=894628255&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA450V9K00)
+1. [Reuters](https://www.reuters.com/article/2014/05/06/us-office-depot-results-idUSBREA450DC20140506)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140506&t=2&i=894628255&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA450V9K00)
 
 ### Related:
 

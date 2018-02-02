@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/15/a-former-bbc-radio-1-disc-jockey-is-detained-by-police-in-the-ongoing-investigation-into-the-jimmy-savile-sexual-abuse-scandal.html)  [JSON](/news/2012/11/15/a-former-bbc-radio-1-disc-jockey-is-detained-by-police-in-the-ongoing-investigation-into-the-jimmy-savile-sexual-abuse-scandal.json)  [XML](/news/2012/11/15/a-former-bbc-radio-1-disc-jockey-is-detained-by-police-in-the-ongoing-investigation-into-the-jimmy-savile-sexual-abuse-scandal.xml)  
+
 ### [2012-11-15](/news/2012/11/15/index.md)
 
+##### BBC Radio 1
 # A former BBC Radio 1 disc jockey is detained by police in the ongoing investigation into the Jimmy Savile sexual abuse scandal. 
 
 Dave Lee Travis, the former Radio 1 DJ and Top of the Pops presenter, has been arrested by detectives investigating allegations of sexual abuse.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-20336798)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/jimmy-savile/9680420/Dave-Lee-Travis-arrested-as-part-of-Jimmy-Savile-sex-abuse-probe.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/15/general-motors-announces-plans-to-suspend-its-dividend-sell-off-assets-and-cut-20-off-salaried-costs-in-a-response-to-slumping-car-sales.html)  [JSON](/news/2008/07/15/general-motors-announces-plans-to-suspend-its-dividend-sell-off-assets-and-cut-20-off-salaried-costs-in-a-response-to-slumping-car-sales.json)  [XML](/news/2008/07/15/general-motors-announces-plans-to-suspend-its-dividend-sell-off-assets-and-cut-20-off-salaried-costs-in-a-response-to-slumping-car-sales.xml)  
+
 ### [2008-07-15](/news/2008/07/15/index.md)
 
+##### General Motors
 #  General Motors announces plans to suspend its dividend, sell off assets and cut 20% off salaried costs in a response to slumping car sales. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNNMoney](http://money.cnn.com/2008/07/15/news/companies/GM/?postversion=2008071512)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/29/2011-english-protests-thousands-of-protesters-demonstrate-against-cuts-and-increases-in-tuition-fees-in-england-police-escort-student-lead.html)  [JSON](/news/2011/01/29/2011-english-protests-thousands-of-protesters-demonstrate-against-cuts-and-increases-in-tuition-fees-in-england-police-escort-student-lead.json)  [XML](/news/2011/01/29/2011-english-protests-thousands-of-protesters-demonstrate-against-cuts-and-increases-in-tuition-fees-in-england-police-escort-student-lead.xml)  
+
 ### [2011-01-29](/news/2011/01/29/index.md)
 
+##### England
 # 2011 English protests: Thousands of protesters demonstrate against cuts and increases in tuition fees in England; police escort student leader Aaron Porter away in Manchester amid calls from protesters for his resignation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/education/2011/jan/29/student-protesters-nus-president)
 

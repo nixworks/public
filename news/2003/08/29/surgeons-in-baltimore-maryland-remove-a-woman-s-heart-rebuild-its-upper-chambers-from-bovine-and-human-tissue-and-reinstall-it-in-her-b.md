@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/29/surgeons-in-baltimore-maryland-remove-a-woman-s-heart-rebuild-its-upper-chambers-from-bovine-and-human-tissue-and-reinstall-it-in-her-b.html)  [JSON](/news/2003/08/29/surgeons-in-baltimore-maryland-remove-a-woman-s-heart-rebuild-its-upper-chambers-from-bovine-and-human-tissue-and-reinstall-it-in-her-b.json)  [XML](/news/2003/08/29/surgeons-in-baltimore-maryland-remove-a-woman-s-heart-rebuild-its-upper-chambers-from-bovine-and-human-tissue-and-reinstall-it-in-her-b.xml)  
+
 ### [2003-08-29](/news/2003/08/29/index.md)
 
+##### Baltimore, Maryland
 #  Surgeons in Baltimore, Maryland, remove a woman's heart, rebuild its upper chambers from bovine and human tissue, and reinstall it in her body.
 
 

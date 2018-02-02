@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/16/foreign-ministers-of-pacific-islands-forum-countries-meet-in-vanuatu-and-call-on-fiji-to-hold-elections-within-two-years.html)  [JSON](/news/2007/03/16/foreign-ministers-of-pacific-islands-forum-countries-meet-in-vanuatu-and-call-on-fiji-to-hold-elections-within-two-years.json)  [XML](/news/2007/03/16/foreign-ministers-of-pacific-islands-forum-countries-meet-in-vanuatu-and-call-on-fiji-to-hold-elections-within-two-years.xml)  
+
 ### [2007-03-16](/news/2007/03/16/index.md)
 
+##### Pacific Islands Forum
 #  Foreign ministers of Pacific Islands Forum countries meet in Vanuatu and call on Fiji to hold elections within two years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/am/content/2007/s1874258.htm)
 2. [Radio New Zealand](http://www.rnzi.com/pages/news.php?op=read&id=30813)

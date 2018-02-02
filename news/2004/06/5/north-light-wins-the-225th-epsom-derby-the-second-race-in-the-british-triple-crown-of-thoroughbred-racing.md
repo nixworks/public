@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/5/north-light-wins-the-225th-epsom-derby-the-second-race-in-the-british-triple-crown-of-thoroughbred-racing.html)  [JSON](/news/2004/06/5/north-light-wins-the-225th-epsom-derby-the-second-race-in-the-british-triple-crown-of-thoroughbred-racing.json)  [XML](/news/2004/06/5/north-light-wins-the-225th-epsom-derby-the-second-race-in-the-british-triple-crown-of-thoroughbred-racing.xml)  
+
 ### [2004-06-5](/news/2004/06/5/index.md)
 
+##### North Light
 #  North Light wins the 225th Epsom Derby, the second race in the British Triple Crown of Thoroughbred Racing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/other_sports/horse_racing/3731319.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/1/a-petition-featuring-450-000-international-names-in-opposition-of-uganda-s-anti-homosexuality-bill-is-given-to-the-speaker-of-parliament-ed.html)  [JSON](/news/2010/03/1/a-petition-featuring-450-000-international-names-in-opposition-of-uganda-s-anti-homosexuality-bill-is-given-to-the-speaker-of-parliament-ed.json)  [XML](/news/2010/03/1/a-petition-featuring-450-000-international-names-in-opposition-of-uganda-s-anti-homosexuality-bill-is-given-to-the-speaker-of-parliament-ed.xml)  
+
 ### [2010-03-1](/news/2010/03/1/index.md)
 
+##### petition
 # A petition featuring 450,000 international names in opposition of Uganda's Anti-Homosexuality Bill is given to the speaker of parliament, Edward Ssekandi, by an Anglican priest and an HIV-AIDS activist. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8542341.stm)
 2. [Voice of America](http://www1.voanews.com/english/news/africa/Petition-against-Anti-Gay-Bill-Delivered-to-Ugandan-Parliament-85817192.html)

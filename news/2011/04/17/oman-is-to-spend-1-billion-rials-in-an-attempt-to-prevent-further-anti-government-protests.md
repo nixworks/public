@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/17/oman-is-to-spend-1-billion-rials-in-an-attempt-to-prevent-further-anti-government-protests.html)  [JSON](/news/2011/04/17/oman-is-to-spend-1-billion-rials-in-an-attempt-to-prevent-further-anti-government-protests.json)  [XML](/news/2011/04/17/oman-is-to-spend-1-billion-rials-in-an-attempt-to-prevent-further-anti-government-protests.xml)  
+
 ### [2011-04-17](/news/2011/04/17/index.md)
 
+##### Oman
 # Oman is to spend 1 billion rials in an attempt to prevent further anti-government protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/world/oman-to-boost-pro-reform-spending-1.1057727)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/28/at-least-11-passengers-of-the-lautan-teduh-ferry-which-caught-fire-in-the-sunda-strait-have-been-confirmed-dead-the-remains-of-nine-of-th.html)  [JSON](/news/2011/01/28/at-least-11-passengers-of-the-lautan-teduh-ferry-which-caught-fire-in-the-sunda-strait-have-been-confirmed-dead-the-remains-of-nine-of-th.json)  [XML](/news/2011/01/28/at-least-11-passengers-of-the-lautan-teduh-ferry-which-caught-fire-in-the-sunda-strait-have-been-confirmed-dead-the-remains-of-nine-of-th.xml)  
+
 ### [2011-01-28](/news/2011/01/28/index.md)
 
+##### Lautan Teduh
 # At least 11 passengers of the Lautan Teduh ferry, which caught fire in the Sunda Strait, have been confirmed dead. The remains of nine of the passengers who died in the fire were taken to Krakatau Medika in Cilegon, while the other two were taken to Kalianda Hospital in Lampung. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Jakarta Post](http://www.thejakartapost.com/news/2011/01/28/death-toll-sunda-strait-ferry-fire-soars-11.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/09/14/a-fire-at-an-islamic-boarding-school-for-boys-kills-24-people-most-of-them-students-in-kuala-lumpur-malaysia.html)  [JSON](/news/2017/09/14/a-fire-at-an-islamic-boarding-school-for-boys-kills-24-people-most-of-them-students-in-kuala-lumpur-malaysia.json)  [XML](/news/2017/09/14/a-fire-at-an-islamic-boarding-school-for-boys-kills-24-people-most-of-them-students-in-kuala-lumpur-malaysia.xml)  
+
 ### [2017-09-14](/news/2017/09/14/index.md)
 
+##### 2017 disasters in Malaysia
 # A fire at an Islamic boarding school for boys kills 24 people, most of them students, in Kuala Lumpur, Malaysia. 
 
 A fire at an Islamic boarding school for boys killed at least 24 people, most of them students, in the Malaysian capital of Kuala Lumpur on Thursday morning, officials said.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](https://www.reuters.com/article/us-malaysia-fire/blaze-kills-24-at-islamic-school-in-malaysian-capital-idUSKCN1BP04T)
 1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170914&t=2&i=1201335666&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED8D0CH)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/19/retired-united-states-coast-guard-admiral-thad-allen-the-person-in-charge-of-cleaning-up-the-deepwater-horizon-oil-spill-in-the-gulf-of-mex.html)  [JSON](/news/2010/07/19/retired-united-states-coast-guard-admiral-thad-allen-the-person-in-charge-of-cleaning-up-the-deepwater-horizon-oil-spill-in-the-gulf-of-mex.json)  [XML](/news/2010/07/19/retired-united-states-coast-guard-admiral-thad-allen-the-person-in-charge-of-cleaning-up-the-deepwater-horizon-oil-spill-in-the-gulf-of-mex.xml)  
+
 ### [2010-07-19](/news/2010/07/19/index.md)
 
+##### United States Coast Guard
 # Retired United States Coast Guard Admiral Thad Allen, the person in charge of cleaning up the Deepwater Horizon oil spill in the Gulf of Mexico states that the cap is leaking but it is not a major concern so far. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gIXWYBTpLtSayJtg41LKXpxSxVPAD9H2BG3O3)
 

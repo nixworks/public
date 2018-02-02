@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/23/bishop-of-bruges-since-1984-roger-joseph-vangheluwe-admits-sexually-abusing-a-boy-and-resigns-with-immediate-effect.html)  [JSON](/news/2010/04/23/bishop-of-bruges-since-1984-roger-joseph-vangheluwe-admits-sexually-abusing-a-boy-and-resigns-with-immediate-effect.json)  [XML](/news/2010/04/23/bishop-of-bruges-since-1984-roger-joseph-vangheluwe-admits-sexually-abusing-a-boy-and-resigns-with-immediate-effect.xml)  
+
 ### [2010-04-23](/news/2010/04/23/index.md)
 
+##### Bishop of Bruges
 # Bishop of Bruges since 1984 Roger Joseph Vangheluwe admits sexually abusing a boy and resigns with immediate effect. 
 
 Pope accepts resignation of bishop after he admits sexually abusing a young boy.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/04/2010423111215420413.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8639253.stm)

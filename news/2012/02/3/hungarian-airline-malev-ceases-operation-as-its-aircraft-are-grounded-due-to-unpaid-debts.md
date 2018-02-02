@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/02/3/hungarian-airline-malev-ceases-operation-as-its-aircraft-are-grounded-due-to-unpaid-debts.html)  [JSON](/news/2012/02/3/hungarian-airline-malev-ceases-operation-as-its-aircraft-are-grounded-due-to-unpaid-debts.json)  [XML](/news/2012/02/3/hungarian-airline-malev-ceases-operation-as-its-aircraft-are-grounded-due-to-unpaid-debts.xml)  
+
 ### [2012-02-3](/news/2012/02/3/index.md)
 
+##### Hungarian
 # Hungarian airline Malv ceases operation as its aircraft are grounded due to unpaid debts. 
 
 * All Malev flights grounded as of 0500 GMT on Friday* Comes after EU ruling in January to repay state aid* Malev accounted for 40 pc
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/02/03/malev-stoppage-idUSL5E8D30IC20120203)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/02/03/malev-stoppage-idUSL5E8D30IC20120203)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

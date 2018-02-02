@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/11/texas-stadium-the-former-home-of-the-national-football-league-s-dallas-cowboys-is-demolished-by-implosion.html)  [JSON](/news/2010/04/11/texas-stadium-the-former-home-of-the-national-football-league-s-dallas-cowboys-is-demolished-by-implosion.json)  [XML](/news/2010/04/11/texas-stadium-the-former-home-of-the-national-football-league-s-dallas-cowboys-is-demolished-by-implosion.xml)  
+
 ### [2010-04-11](/news/2010/04/11/index.md)
 
+##### Texas Stadium
 # Texas Stadium, the former home of the National Football League's Dallas Cowboys, is demolished by implosion. 
 
 Texas Stadium came tumbling down this morning in a planned demolition set off by an 11-year-old boy who won an essay contest.
 
 
-### Source:
+### Sources:
 
 1. [ESPN Dallas](http://sports.espn.go.com/dallas/nfl/news/story?id=5075040)
 1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fdal.png)

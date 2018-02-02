@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/25/2011-yemeni-uprising-fifteen-people-die-in-clashes-in-the-yemeni-cities-of-sana-a-and-taiz.html)  [JSON](/news/2011/10/25/2011-yemeni-uprising-fifteen-people-die-in-clashes-in-the-yemeni-cities-of-sana-a-and-taiz.json)  [XML](/news/2011/10/25/2011-yemeni-uprising-fifteen-people-die-in-clashes-in-the-yemeni-cities-of-sana-a-and-taiz.xml)  
+
 ### [2011-10-25](/news/2011/10/25/index.md)
 
+##### 2011 Yemeni uprising
 # 2011 Yemeni uprising: Fifteen people die in clashes in the Yemeni cities of Sana'a and Taiz. 
 
 A truce reached by Yemen’s government and dissidents, who have been locked in bloody battles for weeks, collapsed as soon as it was announced Tuesday with fresh fighting rocking the capital.
 
 
-### Source:
+### Sources:
 
 1. [Daily Star](http://www.dailystar.com.lb/News/Middle-East/2011/Oct-26/152224-15-dead-as-yemen-truce-collapses-immediately.ashx#axzz1bpkc0Dv4)
 1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2011/10/26/31323_img650x420_img650x420_crop.jpg)

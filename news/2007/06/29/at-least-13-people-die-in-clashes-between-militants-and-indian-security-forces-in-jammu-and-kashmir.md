@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/29/at-least-13-people-die-in-clashes-between-militants-and-indian-security-forces-in-jammu-and-kashmir.html)  [JSON](/news/2007/06/29/at-least-13-people-die-in-clashes-between-militants-and-indian-security-forces-in-jammu-and-kashmir.json)  [XML](/news/2007/06/29/at-least-13-people-die-in-clashes-between-militants-and-indian-security-forces-in-jammu-and-kashmir.xml)  
+
 ### [2007-06-29](/news/2007/06/29/index.md)
 
+##### India
 #  At least 13 people die in clashes between militants and Indian security forces in Jammu and Kashmir. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6252096.stm)
 

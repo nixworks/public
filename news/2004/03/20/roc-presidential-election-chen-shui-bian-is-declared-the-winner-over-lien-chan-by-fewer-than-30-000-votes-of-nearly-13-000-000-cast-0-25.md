@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/20/roc-presidential-election-chen-shui-bian-is-declared-the-winner-over-lien-chan-by-fewer-than-30-000-votes-of-nearly-13-000-000-cast-0-25.html)  [JSON](/news/2004/03/20/roc-presidential-election-chen-shui-bian-is-declared-the-winner-over-lien-chan-by-fewer-than-30-000-votes-of-nearly-13-000-000-cast-0-25.json)  [XML](/news/2004/03/20/roc-presidential-election-chen-shui-bian-is-declared-the-winner-over-lien-chan-by-fewer-than-30-000-votes-of-nearly-13-000-000-cast-0-25.xml)  
+
 ### [2004-03-20](/news/2004/03/20/index.md)
 
+##### 2004 presidential election
 #  ROC presidential election: Chen Shui-bian is declared the winner over Lien Chan by fewer than 30,000 votes of nearly 13,000,000 cast (0.25%). Lien calls the result unfair and demands it be voided. A controversial referendum is invalidated by low turnout. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/3551843.stm)
 2. [CNN](http://www.cnn.com/2004/WORLD/asiapcf/03/20/taiwan.elections/index.html)

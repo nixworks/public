@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/1/alain-robert-scales-tower-two-of-the-petronas-towers-in-kuala-lumpur-malaysia-using-no-safety-equipment.html)  [JSON](/news/2009/09/1/alain-robert-scales-tower-two-of-the-petronas-towers-in-kuala-lumpur-malaysia-using-no-safety-equipment.json)  [XML](/news/2009/09/1/alain-robert-scales-tower-two-of-the-petronas-towers-in-kuala-lumpur-malaysia-using-no-safety-equipment.xml)  
+
 ### [2009-09-1](/news/2009/09/1/index.md)
 
+##### Alain "Spiderman" Robert
 #  Alain Robert scales Tower Two of the Petronas Towers in Kuala Lumpur, Malaysia, using no safety equipment. 
 
 Frontpage | New Straits Times : Authoritative source for Malaysia latest news on politics, business, sports, world and entertainment
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/2009915262522767.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8231076.stm)

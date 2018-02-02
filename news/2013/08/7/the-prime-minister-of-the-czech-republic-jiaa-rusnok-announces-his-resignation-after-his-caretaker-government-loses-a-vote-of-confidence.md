@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/7/the-prime-minister-of-the-czech-republic-jiaa-rusnok-announces-his-resignation-after-his-caretaker-government-loses-a-vote-of-confidence.html)  [JSON](/news/2013/08/7/the-prime-minister-of-the-czech-republic-jiaa-rusnok-announces-his-resignation-after-his-caretaker-government-loses-a-vote-of-confidence.json)  [XML](/news/2013/08/7/the-prime-minister-of-the-czech-republic-jiaa-rusnok-announces-his-resignation-after-his-caretaker-government-loses-a-vote-of-confidence.xml)  
+
 ### [2013-08-7](/news/2013/08/7/index.md)
 
+##### Prime Minister of the Czech Republic
 # The Prime Minister of the Czech Republic Jiri Rusnok announces his resignation after his caretaker government loses a vote of confidence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/xinhua/2013-08-08/content_9797842.html)
 

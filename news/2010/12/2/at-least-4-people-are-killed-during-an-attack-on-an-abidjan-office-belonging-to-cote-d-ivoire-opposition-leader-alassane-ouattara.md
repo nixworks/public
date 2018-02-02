@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/2/at-least-4-people-are-killed-during-an-attack-on-an-abidjan-office-belonging-to-cote-d-ivoire-opposition-leader-alassane-ouattara.html)  [JSON](/news/2010/12/2/at-least-4-people-are-killed-during-an-attack-on-an-abidjan-office-belonging-to-cote-d-ivoire-opposition-leader-alassane-ouattara.json)  [XML](/news/2010/12/2/at-least-4-people-are-killed-during-an-attack-on-an-abidjan-office-belonging-to-cote-d-ivoire-opposition-leader-alassane-ouattara.xml)  
+
 ### [2010-12-2](/news/2010/12/2/index.md)
 
+##### Abidjan
 # At least 4 people are killed during an attack on an Abidjan office belonging to Cte d'Ivoire opposition leader Alassane Ouattara. 
 
 An office of Ivory Coast opposition leader Alassane Ouattara is attacked in Abidjan, with at least four people killed, as election results are again delayed.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11897021)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48333000/gif/_48333888_bn-448x252.gif)

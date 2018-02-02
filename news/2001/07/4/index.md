@@ -1,7 +1,7 @@
-## [2001-07-4](/news/2001/07/4/index.md)
 
-### [ The film "Cats & Dogs" is released.](/news/2001/07/4/the-film-cats-dogs-is-released.md)
-_Context: Cats & Dogs_
+Formats: [HTML](2001/07/4/index.html)  [JSON](2001/07/4/index.json)  [XML](2001/07/4/index.xml)  
+
+## [2001-07-4](/news/2001/07/4/index.md)
 
 ## [Previous Day...](/news/2001/07/3/index.md)
 

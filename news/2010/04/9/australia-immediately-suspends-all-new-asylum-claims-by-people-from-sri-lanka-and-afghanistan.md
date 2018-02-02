@@ -1,20 +1,24 @@
+
+Formats: [HTML](/news/2010/04/9/australia-immediately-suspends-all-new-asylum-claims-by-people-from-sri-lanka-and-afghanistan.html)  [JSON](/news/2010/04/9/australia-immediately-suspends-all-new-asylum-claims-by-people-from-sri-lanka-and-afghanistan.json)  [XML](/news/2010/04/9/australia-immediately-suspends-all-new-asylum-claims-by-people-from-sri-lanka-and-afghanistan.xml)  
+
 ### [2010-04-9](/news/2010/04/9/index.md)
 
+##### Australia
 # Australia immediately suspends all new asylum claims by people from Sri Lanka and Afghanistan. 
 
 Australia has suspended processing new claims for asylum from Afghans and Sri Lankans as the government seeks to defuse an election-year row on immigration.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/20104941746310232.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8610679.stm)
 3. [France24](http://www.france24.com/en/20100409-australia-blocks-afghan-sri-lankan-asylum-seekers)
-4. [Reuters](http://www.reuters.com/article/idUSTRE6380QU20100409)
+4. [Reuters](https://www.reuters.com/article/idUSTRE6380QU20100409)
 5. [The Guardian](http://www.guardian.co.uk/world/2010/apr/09/australia-refugees-afghanistan-sri-lanka)
 6. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Australia-stops-accepting-new-Afghan-Sri-Lankan-asylum-seekers/articleshow/5776602.cms)
 7. [The Times](http://www.timesonline.co.uk/tol/news/world/article7092776.ece#cid=OTC-RSS&attr=797093)
-7. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+7. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

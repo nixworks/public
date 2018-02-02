@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/8/up-to-33-indian-troops-die-when-a-bridge-they-are-crossing-collapses-in-himachal-pradesh-north-india.html)  [JSON](/news/2005/09/8/up-to-33-indian-troops-die-when-a-bridge-they-are-crossing-collapses-in-himachal-pradesh-north-india.json)  [XML](/news/2005/09/8/up-to-33-indian-troops-die-when-a-bridge-they-are-crossing-collapses-in-himachal-pradesh-north-india.xml)  
+
 ### [2005-09-8](/news/2005/09/8/index.md)
 
+##### Himachal Pradesh
 #  Up to 33 Indian troops die when a bridge they are crossing collapses in Himachal Pradesh, North India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4226500.stm)
 

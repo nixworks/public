@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/23/john-d-bates-united-states-federal-judge-for-th
 
 ### [2017-01-23](/news/2017/01/23/index.md)
 
+##### John D. Bates
 # John D. Bates, United States federal judge for the United States District Court for the District of Columbia, blocks a proposed merger by health insurance companies Aetna and Humana. 
 
 
@@ -18,4 +19,4 @@ Formats: [HTML](/news/2017/01/23/john-d-bates-united-states-federal-judge-for-th
 2. [Aetna and Humana terminate their proposed merger that had been blocked last month by a U.S. federal judge. Aetna announces it will pay Humana the $1 billion fee for calling off the agreement. ](/news/2017/02/14/aetna-and-humana-terminate-their-proposed-merger-that-had-been-blocked-last-month-by-a-u-s-federal-judge-aetna-announces-it-will-pay-human.md) _Context: Aetna, Humana_
 3. [Shareholders from both companies overwhelmingly approve Aetna's acquisition of Humana for $37 billion. ](/news/2015/10/19/shareholders-from-both-companies-overwhelmingly-approve-aetna-s-acquisition-of-humana-for-37-billion.md) _Context: Aetna, Humana_
 4. [The United States Department of Justice says that it will not invoke antitrust laws to stop the merger of Humana with Arcadian Management Services, two important health insurance companies. ](/news/2012/03/27/the-united-states-department-of-justice-says-that-it-will-not-invoke-antitrust-laws-to-stop-the-merger-of-humana-with-arcadian-management-se.md) _Context: Humana, health insurance_
-5. [ United States Federal Judge John D. Bates rules that enemy combatants incarcerated at the U.S. Air Base in Bagram, Afghanistan, have rights to legal trials. ](/news/2009/04/2/united-states-federal-judge-john-d-bates-rules-that-enemy-combatants-incarcerated-at-the-u-s-air-base-in-bagram-afghanistan-have-rights.md) _Context: John D. Bates, United States federal judge_
+5. [ United States Federal Judge John D. Bates rules that enemy combatants incarcerated at the U.S. Air Base in Bagram, Afghanistan, have rights to legal trials. ](/news/2009/04/2/united-states-federal-judge-john-d-bates-rules-that-enemy-combatants-incarcerated-at-the-u-s-air-base-in-bagram-afghanistan-have-rights.md) _Context: Federal District Judge, John D. Bates_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/15/king-carl-xvi-gustaf-of-sweden-and-his-wife-queen-silvia-of-sweden-are-criticised-after-they-received-and-wore-on-their-trip-to-ha-rnapsa.html)  [JSON](/news/2013/08/15/king-carl-xvi-gustaf-of-sweden-and-his-wife-queen-silvia-of-sweden-are-criticised-after-they-received-and-wore-on-their-trip-to-ha-rnapsa.json)  [XML](/news/2013/08/15/king-carl-xvi-gustaf-of-sweden-and-his-wife-queen-silvia-of-sweden-are-criticised-after-they-received-and-wore-on-their-trip-to-ha-rnapsa.xml)  
+
 ### [2013-08-15](/news/2013/08/15/index.md)
 
+##### Carl XVI Gustaf
 # King Carl XVI Gustaf of Sweden and his wife, Queen Silvia of Sweden, are criticised after they received and wore, on their trip to Harnosand, Palestinian keffiyehs with a message in Arabic language purportedly meaning "Our Aqsa and not their temple". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Dagens industri'' via TT](http://www.di.se/artiklar/2013/8/15/kungaparets-sjalar-vacker-vrede/)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/04/30/apple-initiates-the-largest-ever-non-bank-bond-offering-valued-at-17-billion.html)  [JSON](/news/2013/04/30/apple-initiates-the-largest-ever-non-bank-bond-offering-valued-at-17-billion.json)  [XML](/news/2013/04/30/apple-initiates-the-largest-ever-non-bank-bond-offering-valued-at-17-billion.xml)  
+
 ### [2013-04-30](/news/2013/04/30/index.md)
 
+##### Apple
 # Apple initiates the largest ever non-bank bond offering, valued at $17 billion. 
 
 (Corrects share price decline in 11th paragraph)By John Balassi and Josie CoxNEW YORK/LONDON, April 30 (IFR) - Apple Inc wowed the debtmarke
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/04/30/apple-debt-idUSL2N0DH19720130430)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2013/04/30/apple-debt-idUSL2N0DH19720130430)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

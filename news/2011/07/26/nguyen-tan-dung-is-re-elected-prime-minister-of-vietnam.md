@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/26/nguyen-tan-dung-is-re-elected-prime-minister-of-vietnam.html)  [JSON](/news/2011/07/26/nguyen-tan-dung-is-re-elected-prime-minister-of-vietnam.json)  [XML](/news/2011/07/26/nguyen-tan-dung-is-re-elected-prime-minister-of-vietnam.xml)  
+
 ### [2011-07-26](/news/2011/07/26/index.md)
 
+##### Nguyen Tan Dung
 # Nguyen Tan Dung is re-elected Prime Minister of Vietnam. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Government Web Portal of Vietnam](http://news.gov.vn/Home/VNs-Prime-Minister-reelected/20117/11147.vgp)
 

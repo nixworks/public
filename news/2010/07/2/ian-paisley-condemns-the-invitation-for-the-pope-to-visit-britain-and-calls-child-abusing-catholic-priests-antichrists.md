@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/2/ian-paisley-condemns-the-invitation-for-the-pope-to-visit-britain-and-calls-child-abusing-catholic-priests-antichrists.html)  [JSON](/news/2010/07/2/ian-paisley-condemns-the-invitation-for-the-pope-to-visit-britain-and-calls-child-abusing-catholic-priests-antichrists.json)  [XML](/news/2010/07/2/ian-paisley-condemns-the-invitation-for-the-pope-to-visit-britain-and-calls-child-abusing-catholic-priests-antichrists.xml)  
+
 ### [2010-07-2](/news/2010/07/2/index.md)
 
+##### Ian Paisley
 # Ian Paisley condemns the invitation for the Pope to visit Britain and calls child-abusing Catholic priests "Antichrists". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/paisley-slams-pope-visit-20100702-zri8.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

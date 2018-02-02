@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/26/mongolians-go-to-the-polls-to-elect-a-new-presi
 
 ### [2017-06-26](/news/2017/06/26/index.md)
 
+##### Mongolian presidential election, 2017
 # Mongolians go to the polls to elect a new president. The centre-right Democratic Party's Battulga Khaltmaa wins a plurality of votes, but falls short of a majority, necessitating a second round. 
 
 

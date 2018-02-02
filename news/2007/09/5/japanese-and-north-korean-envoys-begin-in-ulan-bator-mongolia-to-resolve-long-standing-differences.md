@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/5/japanese-and-north-korean-envoys-begin-in-ulan-bator-mongolia-to-resolve-long-standing-differences.html)  [JSON](/news/2007/09/5/japanese-and-north-korean-envoys-begin-in-ulan-bator-mongolia-to-resolve-long-standing-differences.json)  [XML](/news/2007/09/5/japanese-and-north-korean-envoys-begin-in-ulan-bator-mongolia-to-resolve-long-standing-differences.xml)  
+
 ### [2007-09-5](/news/2007/09/5/index.md)
 
+##### Japan
 #  Japanese and North Korean envoys begin in Ulan Bator, Mongolia to resolve long-standing differences. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6979244.stm)
 

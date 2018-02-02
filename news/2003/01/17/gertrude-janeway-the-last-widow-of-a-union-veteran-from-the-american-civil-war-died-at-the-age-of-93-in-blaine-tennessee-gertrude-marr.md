@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/17/gertrude-janeway-the-last-widow-of-a-union-veteran-from-the-american-civil-war-died-at-the-age-of-93-in-blaine-tennessee-gertrude-marr.html)  [JSON](/news/2003/01/17/gertrude-janeway-the-last-widow-of-a-union-veteran-from-the-american-civil-war-died-at-the-age-of-93-in-blaine-tennessee-gertrude-marr.json)  [XML](/news/2003/01/17/gertrude-janeway-the-last-widow-of-a-union-veteran-from-the-american-civil-war-died-at-the-age-of-93-in-blaine-tennessee-gertrude-marr.xml)  
+
 ### [2003-01-17](/news/2003/01/17/index.md)
 
+##### American Civil War
 #  Gertrude Janeway, the last widow of a Union veteran from the American Civil War, died at the age of 93, in Blaine, Tennessee. Gertrude married John Janeway in 1927, when she was 18 and he was 81. He died in 1937. Still alive is Confederate widow Alberta Martin, of Elba, Alabama.
 
 

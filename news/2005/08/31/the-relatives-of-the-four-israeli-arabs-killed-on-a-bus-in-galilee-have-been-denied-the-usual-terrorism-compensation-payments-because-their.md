@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/31/the-relatives-of-the-four-israeli-arabs-killed-on-a-bus-in-galilee-have-been-denied-the-usual-terrorism-compensation-payments-because-their.html)  [JSON](/news/2005/08/31/the-relatives-of-the-four-israeli-arabs-killed-on-a-bus-in-galilee-have-been-denied-the-usual-terrorism-compensation-payments-because-their.json)  [XML](/news/2005/08/31/the-relatives-of-the-four-israeli-arabs-killed-on-a-bus-in-galilee-have-been-denied-the-usual-terrorism-compensation-payments-because-their.xml)  
+
 ### [2005-08-31](/news/2005/08/31/index.md)
 
+##### Israeli Arab
 #  The relatives of the four Israeli Arabs killed on a bus in Galilee have been denied the usual terrorism compensation payments because their killer was a Jew, and thus not an "enemy of Israel" as defined by Israeli law. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4198754.stm)
 

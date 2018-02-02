@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/30/the-iranian-parliament-begins-debating-president-mahmoud-ahmadinejads-choice-of-cabinet.html)  [JSON](/news/2009/08/30/the-iranian-parliament-begins-debating-president-mahmoud-ahmadinejads-choice-of-cabinet.json)  [XML](/news/2009/08/30/the-iranian-parliament-begins-debating-president-mahmoud-ahmadinejads-choice-of-cabinet.xml)  
+
 ### [2009-08-30](/news/2009/08/30/index.md)
 
+##### Iran
 #  The Iranian Parliament begins debating President Mahmoud Ahmadinejads choice of Cabinet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5ixeFBxfLzaSjs8Mb8cuFmtPOT6-wD9AD94P00)
 2. [Fars News Agency](http://english.farsnews.com/NewsV.php?srv=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/21/four-people-are-killed-and-many-more-are-injured-by-police-fire-in-assam-in-india-during-a-protest-by-thousands-against-government-registrat.html)  [JSON](/news/2010/07/21/four-people-are-killed-and-many-more-are-injured-by-police-fire-in-assam-in-india-during-a-protest-by-thousands-against-government-registrat.json)  [XML](/news/2010/07/21/four-people-are-killed-and-many-more-are-injured-by-police-fire-in-assam-in-india-during-a-protest-by-thousands-against-government-registrat.xml)  
+
 ### [2010-07-21](/news/2010/07/21/index.md)
 
+##### Assam
 # Four people are killed and many more are injured by police fire in Assam in India during a protest by thousands against government registration. 
 
 Four people were killed and many more injured in the eastern Indian state of Assam when police opened fire to disperse a crowd of demonstrators.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10720096)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

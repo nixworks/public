@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/04/3/the-efforts-to-plug-the-leaks-at-the-fukushima-i-plant-appear-not-to-be-working.html)  [JSON](/news/2011/04/3/the-efforts-to-plug-the-leaks-at-the-fukushima-i-plant-appear-not-to-be-working.json)  [XML](/news/2011/04/3/the-efforts-to-plug-the-leaks-at-the-fukushima-i-plant-appear-not-to-be-working.xml)  
+
 ### [2011-04-3](/news/2011/04/3/index.md)
 
+##### Fukushima I nuclear accidents
 # The efforts to plug the leaks at the Fukushima I plant appear not to be working. 
 
 A struggle to plug a gush of tainted water appeared to fall short as the radiation threat spread.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2011/04/04/world/asia/04japan.html)
+1. [New York Times](https://www.nytimes.com/2011/04/04/world/asia/04japan.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

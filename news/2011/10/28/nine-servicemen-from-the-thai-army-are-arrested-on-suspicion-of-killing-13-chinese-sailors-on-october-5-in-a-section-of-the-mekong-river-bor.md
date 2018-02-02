@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/28/nine-servicemen-from-the-thai-army-are-arrested-on-suspicion-of-killing-13-chinese-sailors-on-october-5-in-a-section-of-the-mekong-river-bor.html)  [JSON](/news/2011/10/28/nine-servicemen-from-the-thai-army-are-arrested-on-suspicion-of-killing-13-chinese-sailors-on-october-5-in-a-section-of-the-mekong-river-bor.json)  [XML](/news/2011/10/28/nine-servicemen-from-the-thai-army-are-arrested-on-suspicion-of-killing-13-chinese-sailors-on-october-5-in-a-section-of-the-mekong-river-bor.xml)  
+
 ### [2011-10-28](/news/2011/10/28/index.md)
 
+##### Royal Thai Army
 # Nine servicemen from the Thai army are arrested on suspicion of killing 13 Chinese sailors on October 5 in a section of the Mekong River bordering Thailand, Laos and Myanmar. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-10/28/c_122211356.htm)
 

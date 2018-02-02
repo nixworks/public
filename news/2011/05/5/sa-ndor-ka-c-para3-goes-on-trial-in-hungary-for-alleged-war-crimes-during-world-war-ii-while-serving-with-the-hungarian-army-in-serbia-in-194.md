@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/5/sa-ndor-ka-c-para3-goes-on-trial-in-hungary-for-alleged-war-crimes-during-world-war-ii-while-serving-with-the-hungarian-army-in-serbia-in-194.html)  [JSON](/news/2011/05/5/sa-ndor-ka-c-para3-goes-on-trial-in-hungary-for-alleged-war-crimes-during-world-war-ii-while-serving-with-the-hungarian-army-in-serbia-in-194.json)  [XML](/news/2011/05/5/sa-ndor-ka-c-para3-goes-on-trial-in-hungary-for-alleged-war-crimes-during-world-war-ii-while-serving-with-the-hungarian-army-in-serbia-in-194.xml)  
+
 ### [2011-05-5](/news/2011/05/5/index.md)
 
+##### Sandor Kepiro
 # Sandor Kepiro goes on trial in Hungary for alleged war crimes during World War II while serving with the Hungarian Army in Serbia in 1942. 
 
 A 97-year-old Hungarian, Sandor Kepiro, goes on trial in Budapest accused of massacring civilians in Serbia in 1942.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13292464)
 2. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=219327)

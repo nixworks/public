@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/31/a-fuel-spill-pollutes-puerto-rico-s-southwest-coast-from-the-town-of-guanica-to-guayanilla-bay.html)  [JSON](/news/2007/08/31/a-fuel-spill-pollutes-puerto-rico-s-southwest-coast-from-the-town-of-guanica-to-guayanilla-bay.json)  [XML](/news/2007/08/31/a-fuel-spill-pollutes-puerto-rico-s-southwest-coast-from-the-town-of-guanica-to-guayanilla-bay.xml)  
+
 ### [2007-08-31](/news/2007/08/31/index.md)
 
+##### Puerto Rico
 #  A fuel spill pollutes Puerto Rico's southwest coast from the town of Guanica to Guayanilla Bay. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,295466,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/28/sri-lanka-s-former-army-chief-sarath-fonseka-announces-he-will-run-for-president-in-the-presidential-election-next-year.html)  [JSON](/news/2009/11/28/sri-lanka-s-former-army-chief-sarath-fonseka-announces-he-will-run-for-president-in-the-presidential-election-next-year.json)  [XML](/news/2009/11/28/sri-lanka-s-former-army-chief-sarath-fonseka-announces-he-will-run-for-president-in-the-presidential-election-next-year.xml)  
+
 ### [2009-11-28](/news/2009/11/28/index.md)
 
+##### Sri Lanka
 #  Sri Lanka's former army chief Sarath Fonseka announces he will run for President in the presidential election next year. 
 
 Sarath Fonseka says he plans to contest presidential polls - Sri Lanka&#039;s former Army Chief Sarath Fonseka has said he plans to contest the January 26 presidential polls and his goal is to &quot;counter dictatorship&quot; and set up a democratic society.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gHs7-c9V0-ZPeSlGARPSrcBvIRWA)
 2. [Daily News & Analysis](http://www.dnaindia.com/world/report_sarath-fonseka-says-he-plans-to-contest-presidential-polls_1317734)

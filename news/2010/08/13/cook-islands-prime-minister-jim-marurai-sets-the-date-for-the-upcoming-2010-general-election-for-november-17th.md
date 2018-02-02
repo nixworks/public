@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/13/cook-islands-prime-minister-jim-marurai-sets-the-date-for-the-upcoming-2010-general-election-for-november-17th.html)  [JSON](/news/2010/08/13/cook-islands-prime-minister-jim-marurai-sets-the-date-for-the-upcoming-2010-general-election-for-november-17th.json)  [XML](/news/2010/08/13/cook-islands-prime-minister-jim-marurai-sets-the-date-for-the-upcoming-2010-general-election-for-november-17th.xml)  
+
 ### [2010-08-13](/news/2010/08/13/index.md)
 
+##### Cook Islands
 # Cook Islands Prime Minister Jim Marurai sets the date for the upcoming 2010 general election for November 17th. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=55297)
 

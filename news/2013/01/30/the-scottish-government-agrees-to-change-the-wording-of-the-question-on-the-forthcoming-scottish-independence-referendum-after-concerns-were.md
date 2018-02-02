@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/30/the-scottish-government-agrees-to-change-the-wording-of-the-question-on-the-forthcoming-scottish-independence-referendum-after-concerns-were.html)  [JSON](/news/2013/01/30/the-scottish-government-agrees-to-change-the-wording-of-the-question-on-the-forthcoming-scottish-independence-referendum-after-concerns-were.json)  [XML](/news/2013/01/30/the-scottish-government-agrees-to-change-the-wording-of-the-question-on-the-forthcoming-scottish-independence-referendum-after-concerns-were.xml)  
+
 ### [2013-01-30](/news/2013/01/30/index.md)
 
+##### Scottish Government
 # The Scottish Government agrees to change the wording of the question on the forthcoming Scottish independence referendum after concerns were expressed that it could lead people to vote yes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-scotland-politics-21245701)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65588000/jpg/_65588745_017079801-1.jpg)

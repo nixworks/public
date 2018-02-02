@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/9/the-international-rescue-committee-says-that-the-congo-civil-war-is-killing-1000-people-a-day-and-calls-the-international-response-abysmal.html)  [JSON](/news/2004/12/9/the-international-rescue-committee-says-that-the-congo-civil-war-is-killing-1000-people-a-day-and-calls-the-international-response-abysmal.json)  [XML](/news/2004/12/9/the-international-rescue-committee-says-that-the-congo-civil-war-is-killing-1000-people-a-day-and-calls-the-international-response-abysmal.xml)  
+
 ### [2004-12-9](/news/2004/12/9/index.md)
 
+##### International Rescue Committee
 #  The International Rescue Committee says that the Congo Civil War is killing 1000 people a day and calls the international response "abysmal". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4080867.stm)
 

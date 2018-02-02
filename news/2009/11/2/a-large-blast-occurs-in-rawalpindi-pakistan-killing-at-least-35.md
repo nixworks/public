@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/11/2/a-large-blast-occurs-in-rawalpindi-pakistan-killing-at-least-35.html)  [JSON](/news/2009/11/2/a-large-blast-occurs-in-rawalpindi-pakistan-killing-at-least-35.json)  [XML](/news/2009/11/2/a-large-blast-occurs-in-rawalpindi-pakistan-killing-at-least-35.xml)  
+
 ### [2009-11-2](/news/2009/11/2/index.md)
 
+##### large blast
 #  A large blast occurs in Rawalpindi, Pakistan, killing at least 35. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters via the ''New York Times](http://www.nytimes.com/reuters/2009/11/02/world/international-uk-pakistan-blast.html)
+1. [Reuters via the ''New York Times](https://www.nytimes.com/reuters/2009/11/02/world/international-uk-pakistan-blast.html)
 
 ### Related:
 

@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2011/03/2/apple-inc-unveils-the-latest-model-of-its-tablet-computer-the-ipad-2.html)  [JSON](/news/2011/03/2/apple-inc-unveils-the-latest-model-of-its-tablet-computer-the-ipad-2.json)  [XML](/news/2011/03/2/apple-inc-unveils-the-latest-model-of-its-tablet-computer-the-ipad-2.xml)  
+
 ### [2011-03-2](/news/2011/03/2/index.md)
 
+##### Apple Inc
 # Apple Inc unveils the latest model of its tablet computer, the iPad 2. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNet](http://news.cnet.com/8301-13579_3-20038513-37.html?part=rss&subj=news&tag=2547-1_3-0-20)
 
 ### Related:
 
-1. [There is a near riot in the Beijing Apple Store as the Apple iPad 2 goes on sale in the People's Republic of China. ](/news/2011/05/8/there-is-a-near-riot-in-the-beijing-apple-store-as-the-apple-ipad-2-goes-on-sale-in-the-people-s-republic-of-china.md) _Context: Apple Inc., iPad 2_
-2. [Steve Jobs unveils the Apple iPad, a tablet PC at a press conference in San Francisco. ](/news/2010/01/27/steve-jobs-unveils-the-apple-ipad-a-tablet-pc-at-a-press-conference-in-san-francisco.md) _Context: Apple Inc., tablets_
-3. [A group of civil society organizations, "among them groups working on human rights, youth and drug policy reform," have demanded that Apple Inc. remove from its App Store games it said violated the tech firm's guidelines and promoted violence and killings commonplace in the Philippine Drug War. ](/news/2017/10/13/a-group-of-civil-society-organizations-among-them-groups-working-on-human-rights-youth-and-drug-policy-reform-have-demanded-that-apple.md) _Context: Apple Inc._
-4. [Apple Inc. releases the iOS 11 update for most current models of the iPhone and iPad. ](/news/2017/09/19/apple-inc-releases-the-ios-11-update-for-most-current-models-of-the-iphone-and-ipad.md) _Context: Apple Inc._
-5. [Apple Inc. announces three new iPhone models: the iPhone 8, iPhone 8 Plus, and the iPhone X. The Apple Watch Series 3 and a new Apple TV are also announced. ](/news/2017/09/12/apple-inc-announces-three-new-iphone-models-the-iphone-8-iphone-8-plus-and-the-iphone-x-the-apple-watch-series-3-and-a-new-apple-tv-are.md) _Context: Apple Inc._
+1. [Apple Inc announces that it will speed up work on an electric car to be ready by 2019. ](/news/2015/09/21/apple-inc-announces-that-it-will-speed-up-work-on-an-electric-car-to-be-ready-by-2019.md) _Context: Apple Inc_
+2. [The United States International Trade Commission rules that Apple is infringing on a Samsung patent and bans the import of several popular Apple products. ](/news/2013/06/5/the-united-states-international-trade-commission-rules-that-apple-is-infringing-on-a-samsung-patent-and-bans-the-import-of-several-popular-a.md) _Context: Apple Inc_
+3. [Apple Inc unveils iPhone 5 and iOS 6. ](/news/2012/09/12/apple-inc-unveils-iphone-5-and-ios-6.md) _Context: Apple Inc_
+4. [Samsung is barred from selling its Galaxy Nexus phone in the United States due to a patent dispute with Apple Inc. ](/news/2012/06/30/samsung-is-barred-from-selling-its-galaxy-nexus-phone-in-the-united-states-due-to-a-patent-dispute-with-apple-inc.md) _Context: Apple Inc_
+5. [Apple Inc Chief Executive Tim Cook arrives in China for talks with government officials to clear up problems in the firm's biggest growth market, including the contested iPad trademark and treatment of local labor. ](/news/2012/03/27/apple-inc-chief-executive-tim-cook-arrives-in-china-for-talks-with-government-officials-to-clear-up-problems-in-the-firm-s-biggest-growth-ma.md) _Context: Apple Inc_

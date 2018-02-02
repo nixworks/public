@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/17/american-country-music-singer-mindy-mccready-dies-as-the-result-of-a-suspected-suicide-at-the-age-of-37.html)  [JSON](/news/2013/02/17/american-country-music-singer-mindy-mccready-dies-as-the-result-of-a-suspected-suicide-at-the-age-of-37.json)  [XML](/news/2013/02/17/american-country-music-singer-mindy-mccready-dies-as-the-result-of-a-suspected-suicide-at-the-age-of-37.xml)  
+
 ### [2013-02-17](/news/2013/02/17/index.md)
 
+##### American
 # American country music singer Mindy McCready dies as the result of a suspected suicide at the age of 37. 
 
 Musician faced numerous challenges following the Jan. 13 death of her boyfriend songwriter David Wilson
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-21495664)
 2. [E! Online](http://au.eonline.com/news/389186/mindy-mccready-country-singer-dead-at-37)

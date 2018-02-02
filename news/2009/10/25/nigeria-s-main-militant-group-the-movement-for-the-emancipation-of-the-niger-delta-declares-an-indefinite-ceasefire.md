@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/25/nigeria-s-main-militant-group-the-movement-for-the-emancipation-of-the-niger-delta-declares-an-indefinite-ceasefire.html)  [JSON](/news/2009/10/25/nigeria-s-main-militant-group-the-movement-for-the-emancipation-of-the-niger-delta-declares-an-indefinite-ceasefire.json)  [XML](/news/2009/10/25/nigeria-s-main-militant-group-the-movement-for-the-emancipation-of-the-niger-delta-declares-an-indefinite-ceasefire.xml)  
+
 ### [2009-10-25](/news/2009/10/25/index.md)
 
+##### Nigeria
 #  Nigeria's main militant group, the Movement for the Emancipation of the Niger Delta, declares an indefinite ceasefire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=109825)
 2. [NEXT](http://234next.com/csp/cms/sites/Next/Home/5473824-146/MEND_declares_indefinite_ceasefire__.csp)

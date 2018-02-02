@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/11/yad-vashem-bestow-the-honour-of-righteous-among-the-nations-posthumously-upon-a-nazi-major-karl-plagge-plagge-saved-around-1-200-jews.html)  [JSON](/news/2005/04/11/yad-vashem-bestow-the-honour-of-righteous-among-the-nations-posthumously-upon-a-nazi-major-karl-plagge-plagge-saved-around-1-200-jews.json)  [XML](/news/2005/04/11/yad-vashem-bestow-the-honour-of-righteous-among-the-nations-posthumously-upon-a-nazi-major-karl-plagge-plagge-saved-around-1-200-jews.xml)  
+
 ### [2005-04-11](/news/2005/04/11/index.md)
 
+##### Holocaust and Remembrance Center
 #  Yad Vashem bestow the honour of "Righteous Among the Nations" posthumously upon a Nazi Major, Karl Plagge. Plagge saved around 1,200 Jews, mostly women and children, from execution during the Holocaust by putting them in forced labor positions at a vehicle workshop. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4432075.stm)
 

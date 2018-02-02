@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/22/tarija-department-becomes-the-fourth-bolivian-department-to-vote-for-greater-autonomy-from-the-government-of-the-president-of-bolivia-evo-m.html)  [JSON](/news/2008/06/22/tarija-department-becomes-the-fourth-bolivian-department-to-vote-for-greater-autonomy-from-the-government-of-the-president-of-bolivia-evo-m.json)  [XML](/news/2008/06/22/tarija-department-becomes-the-fourth-bolivian-department-to-vote-for-greater-autonomy-from-the-government-of-the-president-of-bolivia-evo-m.xml)  
+
 ### [2008-06-22](/news/2008/06/22/index.md)
 
+##### Tarija Department
 #  Tarija Department becomes the fourth Bolivian department to vote for greater autonomy from the government of the President of Bolivia Evo Morales. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5j268DwsFvlfl1NStXhGv9Xb3hHtw)
 

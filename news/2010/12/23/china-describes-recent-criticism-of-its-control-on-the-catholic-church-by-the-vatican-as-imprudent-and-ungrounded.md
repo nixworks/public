@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/12/23/china-describes-recent-criticism-of-its-control-on-the-catholic-church-by-the-vatican-as-imprudent-and-ungrounded.html)  [JSON](/news/2010/12/23/china-describes-recent-criticism-of-its-control-on-the-catholic-church-by-the-vatican-as-imprudent-and-ungrounded.json)  [XML](/news/2010/12/23/china-describes-recent-criticism-of-its-control-on-the-catholic-church-by-the-vatican-as-imprudent-and-ungrounded.xml)  
+
 ### [2010-12-23](/news/2010/12/23/index.md)
 
+##### Catholic Church
 # China describes recent criticism of its control on the Catholic Church by the Vatican as "imprudent and ungrounded". 
 
 The Chinese government has challenged the role played by the Pope and suggested that the Vatican was misguiding Catholics in the country. The statement indicated intensifying of the old conflict between the two sides.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2010/12/24/world/asia/24iht-letter24.html)
+1. [New York Times](https://www.nytimes.com/2010/12/24/world/asia/24iht-letter24.html)
 2. [Times of India](http://timesofindia.indiatimes.com/world/china/Rift-widens-as-China-lashes-out-at-Pope/articleshow/7150324.cms)
 2. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 

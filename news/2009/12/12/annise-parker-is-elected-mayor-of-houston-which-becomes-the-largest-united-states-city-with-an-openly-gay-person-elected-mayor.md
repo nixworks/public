@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/12/12/annise-parker-is-elected-mayor-of-houston-which-becomes-the-largest-united-states-city-with-an-openly-gay-person-elected-mayor.html)  [JSON](/news/2009/12/12/annise-parker-is-elected-mayor-of-houston-which-becomes-the-largest-united-states-city-with-an-openly-gay-person-elected-mayor.json)  [XML](/news/2009/12/12/annise-parker-is-elected-mayor-of-houston-which-becomes-the-largest-united-states-city-with-an-openly-gay-person-elected-mayor.xml)  
+
 ### [2009-12-12](/news/2009/12/12/index.md)
 
+##### Annise Parker
 #  Annise Parker is elected Mayor of Houston, which becomes the largest United States city with an openly gay person elected mayor. 
 
 The city controller, Annise Parker, who avoided making an issue of her sexual orientation, won a run-off election.
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.khou.com/news/Houston-Mayoral-candidates-Were-ready-79091657.html)
-2. [New York Times](http://www.nytimes.com/2009/12/13/us/politics/13houston.html)
+2. [New York Times](https://www.nytimes.com/2009/12/13/us/politics/13houston.html)
 2. [Cover Image](https://static01.nyt.com/images/2009/12/13/us/13houston02/thumbStandard.jpg)
 
 ### Related:

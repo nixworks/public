@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/3/republican-voters-in-the-us-state-of-washington-go-to-the-polls-for-caucuses-with-mitt-romney-winning.html)  [JSON](/news/2012/03/3/republican-voters-in-the-us-state-of-washington-go-to-the-polls-for-caucuses-with-mitt-romney-winning.json)  [XML](/news/2012/03/3/republican-voters-in-the-us-state-of-washington-go-to-the-polls-for-caucuses-with-mitt-romney-winning.xml)  
+
 ### [2012-03-3](/news/2012/03/3/index.md)
 
+##### Republican
 # Republican voters in the US state of Washington go to the polls for caucuses, with Mitt Romney winning. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Houston Chronicle](http://www.chron.com/news/article/Mitt-Romney-wins-Washington-state-GOP-caucuses-3378916.php)
 2. [MSNBC](http://elections.msnbc.msn.com/ns/politics/2012/washington/republican/caucus/#.T1K584fxo48)

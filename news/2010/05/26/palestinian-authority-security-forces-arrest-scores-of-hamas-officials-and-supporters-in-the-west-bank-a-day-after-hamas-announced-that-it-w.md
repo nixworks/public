@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/26/palestinian-authority-security-forces-arrest-scores-of-hamas-officials-and-supporters-in-the-west-bank-a-day-after-hamas-announced-that-it-w.html)  [JSON](/news/2010/05/26/palestinian-authority-security-forces-arrest-scores-of-hamas-officials-and-supporters-in-the-west-bank-a-day-after-hamas-announced-that-it-w.json)  [XML](/news/2010/05/26/palestinian-authority-security-forces-arrest-scores-of-hamas-officials-and-supporters-in-the-west-bank-a-day-after-hamas-announced-that-it-w.xml)  
+
 ### [2010-05-26](/news/2010/05/26/index.md)
 
+##### Palestinian Authority
 # Palestinian Authority security forces arrest scores of Hamas officials and supporters in the West Bank a day after Hamas announced that it would boycott the Palestinian municipal elections scheduled for July 17. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=176508)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=32175)

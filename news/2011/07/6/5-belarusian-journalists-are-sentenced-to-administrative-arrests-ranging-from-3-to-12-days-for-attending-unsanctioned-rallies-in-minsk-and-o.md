@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/6/5-belarusian-journalists-are-sentenced-to-administrative-arrests-ranging-from-3-to-12-days-for-attending-unsanctioned-rallies-in-minsk-and-o.html)  [JSON](/news/2011/07/6/5-belarusian-journalists-are-sentenced-to-administrative-arrests-ranging-from-3-to-12-days-for-attending-unsanctioned-rallies-in-minsk-and-o.json)  [XML](/news/2011/07/6/5-belarusian-journalists-are-sentenced-to-administrative-arrests-ranging-from-3-to-12-days-for-attending-unsanctioned-rallies-in-minsk-and-o.xml)  
+
 ### [2011-07-6](/news/2011/07/6/index.md)
 
+##### Belarus
 # 5 Belarusian journalists are sentenced to administrative arrests ranging from 3 to 12 days for attending unsanctioned rallies in Minsk and other cities. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/world/20110706/165045628.html)
 

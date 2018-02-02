@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/2/one-person-dies-of-pneumonic-plague-and-eleven-of-his-relatives-are-quarantined-in-hainan-tibetan-autonomous-prefecture.html)  [JSON](/news/2009/08/2/one-person-dies-of-pneumonic-plague-and-eleven-of-his-relatives-are-quarantined-in-hainan-tibetan-autonomous-prefecture.json)  [XML](/news/2009/08/2/one-person-dies-of-pneumonic-plague-and-eleven-of-his-relatives-are-quarantined-in-hainan-tibetan-autonomous-prefecture.xml)  
+
 ### [2009-08-2](/news/2009/08/2/index.md)
 
+##### pneumonic
 #  One person dies of pneumonic plague and eleven of his relatives are quarantined in Hainan Tibetan Autonomous Prefecture. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [People's Daily Online](http://english.people.com.cn/90001/90776/90882/6716284.html)
 

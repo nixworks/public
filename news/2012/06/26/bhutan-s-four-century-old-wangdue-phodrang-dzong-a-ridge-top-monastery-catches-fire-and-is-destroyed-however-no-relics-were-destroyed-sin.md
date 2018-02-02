@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/26/bhutan-s-four-century-old-wangdue-phodrang-dzong-a-ridge-top-monastery-catches-fire-and-is-destroyed-however-no-relics-were-destroyed-sin.html)  [JSON](/news/2012/06/26/bhutan-s-four-century-old-wangdue-phodrang-dzong-a-ridge-top-monastery-catches-fire-and-is-destroyed-however-no-relics-were-destroyed-sin.json)  [XML](/news/2012/06/26/bhutan-s-four-century-old-wangdue-phodrang-dzong-a-ridge-top-monastery-catches-fire-and-is-destroyed-however-no-relics-were-destroyed-sin.xml)  
+
 ### [2012-06-26](/news/2012/06/26/index.md)
 
+##### Bhutan
 # Bhutan's four-century old Wangdue Phodrang Dzong, a ridge-top monastery, catches fire and is destroyed; however no relics were destroyed since the monastery was undergoing a renovation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/06/26/world/asia/bhutan-dzong-fire/index.html?hpt=hp_bn2)
 

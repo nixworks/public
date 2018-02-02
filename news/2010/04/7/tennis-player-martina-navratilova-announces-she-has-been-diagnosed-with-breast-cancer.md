@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/04/7/tennis-player-martina-navratilova-announces-she-has-been-diagnosed-with-breast-cancer.html)  [JSON](/news/2010/04/7/tennis-player-martina-navratilova-announces-she-has-been-diagnosed-with-breast-cancer.json)  [XML](/news/2010/04/7/tennis-player-martina-navratilova-announces-she-has-been-diagnosed-with-breast-cancer.xml)  
+
 ### [2010-04-7](/news/2010/04/7/index.md)
 
+##### Martina Navratilova
 # Tennis player Martina Navratilova announces she has been diagnosed with breast cancer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2010/apr/07/navratilova-breast-cancer-reaction)
-2. [The New York Times](http://www.nytimes.com/reuters/2010/04/07/sports/sports-uk-tennis-navratilova.html?_r=1&partner=rss&emc=rss)
+2. [The New York Times](https://www.nytimes.com/reuters/2010/04/07/sports/sports-uk-tennis-navratilova.html?_r=1&partner=rss&emc=rss)
 
 ### Related:
 

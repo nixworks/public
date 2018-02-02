@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2009/05/7/the-eastern-partnership-conducts-its-inaugural-meeting-in-prague-czech-republic.html)  [JSON](/news/2009/05/7/the-eastern-partnership-conducts-its-inaugural-meeting-in-prague-czech-republic.json)  [XML](/news/2009/05/7/the-eastern-partnership-conducts-its-inaugural-meeting-in-prague-czech-republic.xml)  
+
 ### [2009-05-7](/news/2009/05/7/index.md)
 
+##### Eastern Partnership
 #  The Eastern Partnership conducts its inaugural meeting in Prague, Czech Republic.
 
 

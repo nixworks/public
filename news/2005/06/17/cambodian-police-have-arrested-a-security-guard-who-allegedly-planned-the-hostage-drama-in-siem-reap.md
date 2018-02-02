@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/17/cambodian-police-have-arrested-a-security-guard-who-allegedly-planned-the-hostage-drama-in-siem-reap.html)  [JSON](/news/2005/06/17/cambodian-police-have-arrested-a-security-guard-who-allegedly-planned-the-hostage-drama-in-siem-reap.json)  [XML](/news/2005/06/17/cambodian-police-have-arrested-a-security-guard-who-allegedly-planned-the-hostage-drama-in-siem-reap.xml)  
+
 ### [2005-06-17](/news/2005/06/17/index.md)
 
+##### Cambodia
 #  Cambodian police have arrested a security guard who allegedly planned the hostage drama in Siem Reap. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/153220/1/.html)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-06-17T054732Z_01_N17392039_RTRIDST_0_INTERNATIONAL-CAMBODIA-HOSTAGES-DC.XML)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/11/two-kenyans-two-french-a-bulgarian-and-a-belgian-held-captive-since-november-2008-are-freed-by-their-somali-kidnappers.html)  [JSON](/news/2009/08/11/two-kenyans-two-french-a-bulgarian-and-a-belgian-held-captive-since-november-2008-are-freed-by-their-somali-kidnappers.json)  [XML](/news/2009/08/11/two-kenyans-two-french-a-bulgarian-and-a-belgian-held-captive-since-november-2008-are-freed-by-their-somali-kidnappers.xml)  
+
 ### [2009-08-11](/news/2009/08/11/index.md)
 
+##### Kenya
 #  Two Kenyans, two French, a Bulgarian and a Belgian held captive since November 2008 are freed by their Somali kidnappers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=87&art_id=nw20090811141724457C619710)
 

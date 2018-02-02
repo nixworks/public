@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/14/the-chairman-of-the-nigerian-people-s-democratic-party-pdp-vincent-eze-ogbulafor-resigns-days-after-facing-fraud-charges-in-court.html)  [JSON](/news/2010/05/14/the-chairman-of-the-nigerian-people-s-democratic-party-pdp-vincent-eze-ogbulafor-resigns-days-after-facing-fraud-charges-in-court.json)  [XML](/news/2010/05/14/the-chairman-of-the-nigerian-people-s-democratic-party-pdp-vincent-eze-ogbulafor-resigns-days-after-facing-fraud-charges-in-court.xml)  
+
 ### [2010-05-14](/news/2010/05/14/index.md)
 
+##### Nigeria
 # The chairman of the Nigerian People's Democratic Party (PDP), Vincent Eze Ogbulafor, resigns days after facing fraud charges in court. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8682164.stm)
 

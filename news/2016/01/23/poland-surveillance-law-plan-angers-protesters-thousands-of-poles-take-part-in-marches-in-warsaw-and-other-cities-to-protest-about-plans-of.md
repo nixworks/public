@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/23/poland-surveillance-law-plan-angers-protesters-
 
 ### [2016-01-23](/news/2016/01/23/index.md)
 
+##### Polish Constitutional Court crisis, 2015
 # Poland surveillance law plan angers protesters: Thousands of Poles take part in marches in Warsaw and other cities to protest about plans of the conservative government, which they say will curtail privacy and freedom. 
 
 Thousands of Poles take part in marches in Warsaw and other cities to protest about plans of the conservative government, which they say will curtail privacy and freedom.

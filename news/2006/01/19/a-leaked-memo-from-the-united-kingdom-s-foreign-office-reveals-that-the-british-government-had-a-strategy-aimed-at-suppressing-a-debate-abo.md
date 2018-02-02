@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/19/a-leaked-memo-from-the-united-kingdom-s-foreign-office-reveals-that-the-british-government-had-a-strategy-aimed-at-suppressing-a-debate-abo.html)  [JSON](/news/2006/01/19/a-leaked-memo-from-the-united-kingdom-s-foreign-office-reveals-that-the-british-government-had-a-strategy-aimed-at-suppressing-a-debate-abo.json)  [XML](/news/2006/01/19/a-leaked-memo-from-the-united-kingdom-s-foreign-office-reveals-that-the-british-government-had-a-strategy-aimed-at-suppressing-a-debate-abo.xml)  
+
 ### [2006-01-19](/news/2006/01/19/index.md)
 
+##### Foreign and Commonwealth Office
 #  A leaked memo from the United Kingdom's Foreign Office reveals that the British government had a strategy aimed at suppressing a debate about the US practice of transporting detainees to secret centres where they are at risk of being tortured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian Unlimited](http://www.guardian.co.uk/usa/story/0,,1689853,00.html)
 

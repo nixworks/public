@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/17/two-earthquakes-kill-22-people-in-nangarhar-province-afghanistan.html)  [JSON](/news/2009/04/17/two-earthquakes-kill-22-people-in-nangarhar-province-afghanistan.json)  [XML](/news/2009/04/17/two-earthquakes-kill-22-people-in-nangarhar-province-afghanistan.xml)  
+
 ### [2009-04-17](/news/2009/04/17/index.md)
 
+##### earthquake
 #  Two earthquakes kill 22 people in Nangarhar Province, Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Afghanistan-Two-Earthquakes-Rock-Nangarhar-Province-East-Of-Kabul/Article/200904315263507?lpos=World_News_Top_Stories_Header_2&lid=ARTICLE_15263507_Afghanistan%3A_Two_Earthquakes_Rock_Nangarhar_Province_East_Of_Kabul)
 

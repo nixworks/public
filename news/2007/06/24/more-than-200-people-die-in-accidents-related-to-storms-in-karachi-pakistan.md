@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/24/more-than-200-people-die-in-accidents-related-to-storms-in-karachi-pakistan.html)  [JSON](/news/2007/06/24/more-than-200-people-die-in-accidents-related-to-storms-in-karachi-pakistan.json)  [XML](/news/2007/06/24/more-than-200-people-die-in-accidents-related-to-storms-in-karachi-pakistan.xml)  
+
 ### [2007-06-24](/news/2007/06/24/index.md)
 
+##### storm
 #  More than 200 people die in accidents related to storms in Karachi, Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ITV](http://www.itv.com/news/world_b1ed6babae5ab4afcb7310d567f5c028.html)
 

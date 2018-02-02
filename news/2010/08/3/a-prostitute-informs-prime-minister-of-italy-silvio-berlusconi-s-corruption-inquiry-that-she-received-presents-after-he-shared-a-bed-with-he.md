@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/3/a-prostitute-informs-prime-minister-of-italy-silvio-berlusconi-s-corruption-inquiry-that-she-received-presents-after-he-shared-a-bed-with-he.html)  [JSON](/news/2010/08/3/a-prostitute-informs-prime-minister-of-italy-silvio-berlusconi-s-corruption-inquiry-that-she-received-presents-after-he-shared-a-bed-with-he.json)  [XML](/news/2010/08/3/a-prostitute-informs-prime-minister-of-italy-silvio-berlusconi-s-corruption-inquiry-that-she-received-presents-after-he-shared-a-bed-with-he.xml)  
+
 ### [2010-08-3](/news/2010/08/3/index.md)
 
+##### Italian Prime Minister
 # A prostitute informs Prime Minister of Italy Silvio Berlusconi's corruption inquiry that she received presents after he shared a bed with her and two others. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2010/aug/03/silvio-berlusconi-prostitute-nicolo)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/6/a-team-of-japanese-and-mongolian-archaeologists-announce-that-they-have-found-the-13th-century-palace-of-genghis-khan-at-a-site-about-150.html)  [JSON](/news/2004/10/6/a-team-of-japanese-and-mongolian-archaeologists-announce-that-they-have-found-the-13th-century-palace-of-genghis-khan-at-a-site-about-150.json)  [XML](/news/2004/10/6/a-team-of-japanese-and-mongolian-archaeologists-announce-that-they-have-found-the-13th-century-palace-of-genghis-khan-at-a-site-about-150.xml)  
+
 ### [2004-10-6](/news/2004/10/6/index.md)
 
+##### Mongolia
 #  A team of Japanese and Mongolian archaeologists announce that they have found the 13th-century palace of Genghis Khan, at a site about 150 miles east of Ulan Bator, Mongolia, and that his tomb may be located nearby. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2004/WORLD/asiapcf/10/06/mongolia.genghis.ap/index.html)
 2. [Japan Times](http://www.japantimes.co.jp/cgi-bin/getarticle.pl5?nn20041005f2.htm)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/07/5/the-european-central-bank-and-the-european-commission-release-a-joint-report-on-the-banking-system-in-spain-indicating-that-system-is-solve.html)  [JSON](/news/2013/07/5/the-european-central-bank-and-the-european-commission-release-a-joint-report-on-the-banking-system-in-spain-indicating-that-system-is-solve.json)  [XML](/news/2013/07/5/the-european-central-bank-and-the-european-commission-release-a-joint-report-on-the-banking-system-in-spain-indicating-that-system-is-solve.xml)  
+
 ### [2013-07-5](/news/2013/07/5/index.md)
 
+##### European Central Bank
 # The European Central Bank and the European Commission release a joint report on the banking system in Spain, indicating that system is solvent and will not require "further program disbursements." 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/07/05/us-spain-banks-ec-idUSBRE9640A820130705)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130705&t=2&i=747847625&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9640TOO00)
+1. [Reuters](https://www.reuters.com/article/2013/07/05/us-spain-banks-ec-idUSBRE9640A820130705)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130705&t=2&i=747847625&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9640TOO00)
 
 ### Related:
 

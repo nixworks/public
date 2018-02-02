@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/16/terrorist-incidents-a-series-of-explosions-occurs-in-casablanca-at-least-41-people-are-believed-to-be-dead-including-12-suicide-bombers.html)  [JSON](/news/2003/05/16/terrorist-incidents-a-series-of-explosions-occurs-in-casablanca-at-least-41-people-are-believed-to-be-dead-including-12-suicide-bombers.json)  [XML](/news/2003/05/16/terrorist-incidents-a-series-of-explosions-occurs-in-casablanca-at-least-41-people-are-believed-to-be-dead-including-12-suicide-bombers.xml)  
+
 ### [2003-05-16](/news/2003/05/16/index.md)
 
+##### Terrorist incidents
 #  Terrorist incidents: A series of explosions occurs in Casablanca. At least 41 people are believed to be dead including 12 suicide bombers, and 100 are reported injured. See: Casablanca Attacks.
 
 

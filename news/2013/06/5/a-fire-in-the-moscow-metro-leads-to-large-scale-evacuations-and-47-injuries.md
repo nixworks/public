@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/5/a-fire-in-the-moscow-metro-leads-to-large-scale-evacuations-and-47-injuries.html)  [JSON](/news/2013/06/5/a-fire-in-the-moscow-metro-leads-to-large-scale-evacuations-and-47-injuries.json)  [XML](/news/2013/06/5/a-fire-in-the-moscow-metro-leads-to-large-scale-evacuations-and-47-injuries.xml)  
+
 ### [2013-06-5](/news/2013/06/5/index.md)
 
+##### Moscow Metro
 # A fire in the Moscow Metro leads to large-scale evacuations and 47 injuries. 
 
 A fire on the Moscow metro caused chaos in the Russian capital as tens of thousands of people sought alternative routes to work.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/russia/10100124/Moscow-metro-fire-causes-chaos.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02581/Russia-Metro-Fire_2581589k.jpg)

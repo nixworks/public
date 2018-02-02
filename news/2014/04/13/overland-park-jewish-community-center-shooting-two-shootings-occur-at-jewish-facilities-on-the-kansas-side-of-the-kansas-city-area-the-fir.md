@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/13/overland-park-jewish-community-center-shooting-two-shootings-occur-at-jewish-facilities-on-the-kansas-side-of-the-kansas-city-area-the-fir.html)  [JSON](/news/2014/04/13/overland-park-jewish-community-center-shooting-two-shootings-occur-at-jewish-facilities-on-the-kansas-side-of-the-kansas-city-area-the-fir.json)  [XML](/news/2014/04/13/overland-park-jewish-community-center-shooting-two-shootings-occur-at-jewish-facilities-on-the-kansas-side-of-the-kansas-city-area-the-fir.xml)  
+
 ### [2014-04-13](/news/2014/04/13/index.md)
 
+##### Overland Park Jewish Community Center shooting
 # Overland Park Jewish Community Center shooting. Two shootings occur at Jewish facilities on the Kansas side of the Kansas City area. The first occurs at a Jewish Community Center in Overland Park, and the second takes place at a retirement center in Leawood. Three people are killed. A gunman is arrested. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/04/13/us/kansas-jewish-center-shooting/index.html?hpt=hp_t1)
 

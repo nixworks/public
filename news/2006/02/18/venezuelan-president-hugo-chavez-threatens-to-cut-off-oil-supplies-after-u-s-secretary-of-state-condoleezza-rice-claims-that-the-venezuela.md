@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/18/venezuelan-president-hugo-chavez-threatens-to-cut-off-oil-supplies-after-u-s-secretary-of-state-condoleezza-rice-claims-that-the-venezuela.html)  [JSON](/news/2006/02/18/venezuelan-president-hugo-chavez-threatens-to-cut-off-oil-supplies-after-u-s-secretary-of-state-condoleezza-rice-claims-that-the-venezuela.json)  [XML](/news/2006/02/18/venezuelan-president-hugo-chavez-threatens-to-cut-off-oil-supplies-after-u-s-secretary-of-state-condoleezza-rice-claims-that-the-venezuela.xml)  
+
 ### [2006-02-18](/news/2006/02/18/index.md)
 
+##### Hugo Chvez
 #  Venezuelan president Hugo Chvez threatens to cut off oil supplies after U.S. Secretary of State Condoleezza Rice claims that the Venezuelan government poses "one of the biggest problems" in the region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/WORLD/americas/02/18/chavez.oil.ap/index.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/14/an-ailing-pope-john-paul-ii-visits-the-grotto-of-lourdes-on-a-two-day-pilgrimage-to-one-of-the-roman-catholic-world-s-most-revered-shrines.html)  [JSON](/news/2004/08/14/an-ailing-pope-john-paul-ii-visits-the-grotto-of-lourdes-on-a-two-day-pilgrimage-to-one-of-the-roman-catholic-world-s-most-revered-shrines.json)  [XML](/news/2004/08/14/an-ailing-pope-john-paul-ii-visits-the-grotto-of-lourdes-on-a-two-day-pilgrimage-to-one-of-the-roman-catholic-world-s-most-revered-shrines.xml)  
+
 ### [2004-08-14](/news/2004/08/14/index.md)
 
+##### Pope John Paul II
 #  An ailing Pope John Paul II visits the grotto of Lourdes on a two-day pilgrimage to one of the Roman Catholic world's most revered shrines. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/3563434.stm)
 

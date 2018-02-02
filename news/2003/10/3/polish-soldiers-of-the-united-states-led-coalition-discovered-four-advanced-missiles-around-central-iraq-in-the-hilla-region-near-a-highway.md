@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2003/10/3/polish-soldiers-of-the-united-states-led-coalition-discovered-four-advanced-missiles-around-central-iraq-in-the-hilla-region-near-a-highway.html)  [JSON](/news/2003/10/3/polish-soldiers-of-the-united-states-led-coalition-discovered-four-advanced-missiles-around-central-iraq-in-the-hilla-region-near-a-highway.json)  [XML](/news/2003/10/3/polish-soldiers-of-the-united-states-led-coalition-discovered-four-advanced-missiles-around-central-iraq-in-the-hilla-region-near-a-highway.xml)  
+
 ### [2003-10-3](/news/2003/10/3/index.md)
 
-#  Polish soldiers of the United States-led Coalition discovered four advanced missiles around central Iraq in the Hilla region near a highway. The Roland-type French-made missiles (which are fired from a mobile launcher vehicle against low flying aircraft) were initially believed to have been manufactured earlier in 2003. Arms exports to Iraq had been barred by the United Nations after the 1990 invasion of Kuwait. France says it last shipped Roland missiles to Iraq in 1986. The Polish soldiers were later found to have misinterpreted markings that read 07-01-KND 2003 as a date on the missiles. url=http:--www.reuters.com-newsArticle.jhtml?type=topNews&storyID=3558401 title=Breaking News, Top News & Latest News Headlines - Reuters.com December 2015 
+##### missile
+#  Polish soldiers of the United States-led Coalition discovered four advanced missiles around central Iraq in the Hilla region near a highway. The Roland-type French-made missiles (which are fired from a mobile launcher vehicle against low flying aircraft) were initially believed to have been manufactured earlier in 2003. Arms exports to Iraq had been barred by the United Nations after the 1990 invasion of Kuwait. France says it last shipped Roland missiles to Iraq in 1986. The Polish soldiers were later found to have misinterpreted markings that read 07-01-KND 2003 as a date on the missiles. url=https:--www.reuters.com-newsArticle.jhtml?type=topNews&storyID=3558401 title=Breaking News, Top News & Latest News Headlines - Reuters.com December 2015 
 
 
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/11/12/a-judge-in-taipei-taiwan-rules-that-the-former-president-chen-shui-bian-should-be-held-in-jail-while-prosecutors-seek-his-conviction-on.html)  [JSON](/news/2008/11/12/a-judge-in-taipei-taiwan-rules-that-the-former-president-chen-shui-bian-should-be-held-in-jail-while-prosecutors-seek-his-conviction-on.json)  [XML](/news/2008/11/12/a-judge-in-taipei-taiwan-rules-that-the-former-president-chen-shui-bian-should-be-held-in-jail-while-prosecutors-seek-his-conviction-on.xml)  
+
 ### [2008-11-12](/news/2008/11/12/index.md)
 
+##### Taipei
 #  A judge in Taipei, Taiwan, rules that the former President Chen Shui-bian, should be held in jail while prosecutors seek his conviction on charges of money laundering and corruption. 
 
 A judge in Taipei ruled that former Taiwan president Chen Shui-bian be held in jail while prosecutors in the city pursue money-laundering and corruption charges against him.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/11/13/world/asia/13taiwan.html?ref=world)
+1. [The New York Times](https://www.nytimes.com/2008/11/13/world/asia/13taiwan.html?ref=world)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

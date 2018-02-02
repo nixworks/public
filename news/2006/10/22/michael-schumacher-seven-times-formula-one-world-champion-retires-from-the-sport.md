@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/22/michael-schumacher-seven-times-formula-one-world-champion-retires-from-the-sport.html)  [JSON](/news/2006/10/22/michael-schumacher-seven-times-formula-one-world-champion-retires-from-the-sport.json)  [XML](/news/2006/10/22/michael-schumacher-seven-times-formula-one-world-champion-retires-from-the-sport.xml)  
+
 ### [2006-10-22](/news/2006/10/22/index.md)
 
+##### Michael Schumacher
 #  Michael Schumacher, seven times Formula One World Champion, retires from the sport. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/6075440.stm)
 2. [Canada.com](http://www.canada.com/topics/sports/story.html?id=cee2bcf8-dddd-46ac-a6d6-b486caae0e0f&k=52421)

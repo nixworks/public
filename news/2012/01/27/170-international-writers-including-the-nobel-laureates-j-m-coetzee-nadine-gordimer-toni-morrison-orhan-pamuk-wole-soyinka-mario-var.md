@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/27/170-international-writers-including-the-nobel-laureates-j-m-coetzee-nadine-gordimer-toni-morrison-orhan-pamuk-wole-soyinka-mario-var.html)  [JSON](/news/2012/01/27/170-international-writers-including-the-nobel-laureates-j-m-coetzee-nadine-gordimer-toni-morrison-orhan-pamuk-wole-soyinka-mario-var.json)  [XML](/news/2012/01/27/170-international-writers-including-the-nobel-laureates-j-m-coetzee-nadine-gordimer-toni-morrison-orhan-pamuk-wole-soyinka-mario-var.xml)  
+
 ### [2012-01-27](/news/2012/01/27/index.md)
 
+##### J. M. Coetzee
 # 170 international writers, including the Nobel laureates J. M. Coetzee, Nadine Gordimer, Toni Morrison, Orhan Pamuk, Wole Soyinka, Mario Vargas Llosa and Derek Walcott, take out a full page advert in Mexican newspaper "El Universal" to defend the freedom of journalists from fear and censorship. 
 
 A host of international writers including several Nobel laureates issue a joint statement condemning attacks on journalists in Mexico.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-16767476)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/58147000/jpg/_58147988_013763389-1.jpg)

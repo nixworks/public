@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/20/the-government-of-singapore-s-approval-for-the-building-of-two-casinos-as-part-of-integrated-resorts-in-singapore-s-new-downtown-and-on-se.html)  [JSON](/news/2005/04/20/the-government-of-singapore-s-approval-for-the-building-of-two-casinos-as-part-of-integrated-resorts-in-singapore-s-new-downtown-and-on-se.json)  [XML](/news/2005/04/20/the-government-of-singapore-s-approval-for-the-building-of-two-casinos-as-part-of-integrated-resorts-in-singapore-s-new-downtown-and-on-se.xml)  
+
 ### [2005-04-20](/news/2005/04/20/index.md)
 
+##### Government of Singapore
 #  The Government of Singapore's approval for the building of two casinos as part of integrated resorts in Singapore's new downtown, and on Sentosa island ignites intense speculation on the likely winners from 19 submitted proposals, and caps off more than a year of moral debates in the traditionally conservative city. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4465411.stm)
 2. [CNA](http://www.channelnewsasia.com/stories/singaporelocalnews/view/143548/1/.html)

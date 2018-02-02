@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/20/masked-men-in-camouflage-gear-attack-homes-in-the-mainly-nationalist-short-strand-area-of-east-belfast-with-pipe-bombs-and-molotov-cocktail.html)  [JSON](/news/2011/06/20/masked-men-in-camouflage-gear-attack-homes-in-the-mainly-nationalist-short-strand-area-of-east-belfast-with-pipe-bombs-and-molotov-cocktail.json)  [XML](/news/2011/06/20/masked-men-in-camouflage-gear-attack-homes-in-the-mainly-nationalist-short-strand-area-of-east-belfast-with-pipe-bombs-and-molotov-cocktail.xml)  
+
 ### [2011-06-20](/news/2011/06/20/index.md)
 
+##### Short Strand
 # Masked men in camouflage gear attack homes in the mainly nationalist Short Strand area of East Belfast, with pipe bombs and Molotov cocktails being thrown. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-13851316)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53539000/jpg/_53539463_riot.jpg)

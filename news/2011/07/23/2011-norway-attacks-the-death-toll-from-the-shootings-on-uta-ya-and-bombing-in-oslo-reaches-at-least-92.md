@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/23/2011-norway-attacks-the-death-toll-from-the-shootings-on-uta-ya-and-bombing-in-oslo-reaches-at-least-92.html)  [JSON](/news/2011/07/23/2011-norway-attacks-the-death-toll-from-the-shootings-on-uta-ya-and-bombing-in-oslo-reaches-at-least-92.json)  [XML](/news/2011/07/23/2011-norway-attacks-the-death-toll-from-the-shootings-on-uta-ya-and-bombing-in-oslo-reaches-at-least-92.xml)  
+
 ### [2011-07-23](/news/2011/07/23/index.md)
 
+##### 2011 Norway attacks
 # 2011 Norway attacks: The death toll from the shootings on Utoya and bombing in Oslo reaches at least 92. 
 
 The death toll from the shooting at a Norwegian youth camp rises to 85, as police question a 32-year-old suspect.
 
 
-### Source:
+### Sources:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/43854355/ns/world_news-europe/)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-14259356)

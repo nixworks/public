@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/8/at-least-16-people-including-the-governor-of-kunduz-province-mohammad-omar-are-killed-in-a-bombing.html)  [JSON](/news/2010/10/8/at-least-16-people-including-the-governor-of-kunduz-province-mohammad-omar-are-killed-in-a-bombing.json)  [XML](/news/2010/10/8/at-least-16-people-including-the-governor-of-kunduz-province-mohammad-omar-are-killed-in-a-bombing.xml)  
+
 ### [2010-10-8](/news/2010/10/8/index.md)
 
+##### Kunduz
 # At least 16 people, including the governor of Kunduz province, Mohammad Omar, are killed in a bombing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/10/2010108101226418853.html)
 2. [Voice of America](http://www.voanews.com/english/news/Provincial-Governor-19-Others-Die-in-Afghan-Blast--104577979.html)

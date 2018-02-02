@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/7/bolivia-s-new-constitution-enters-into-force.html)  [JSON](/news/2009/02/7/bolivia-s-new-constitution-enters-into-force.json)  [XML](/news/2009/02/7/bolivia-s-new-constitution-enters-into-force.xml)  
+
 ### [2009-02-7](/news/2009/02/7/index.md)
 
+##### Bolivia
 #  Bolivia's new constitution enters into force. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/7877107.stm)
 

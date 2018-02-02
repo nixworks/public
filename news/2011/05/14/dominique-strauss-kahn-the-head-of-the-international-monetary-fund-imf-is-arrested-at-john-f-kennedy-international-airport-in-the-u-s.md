@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/14/dominique-strauss-kahn-the-head-of-the-international-monetary-fund-imf-is-arrested-at-john-f-kennedy-international-airport-in-the-u-s.html)  [JSON](/news/2011/05/14/dominique-strauss-kahn-the-head-of-the-international-monetary-fund-imf-is-arrested-at-john-f-kennedy-international-airport-in-the-u-s.json)  [XML](/news/2011/05/14/dominique-strauss-kahn-the-head-of-the-international-monetary-fund-imf-is-arrested-at-john-f-kennedy-international-airport-in-the-u-s.xml)  
+
 ### [2011-05-14](/news/2011/05/14/index.md)
 
+##### Dominique Strauss-Kahn
 # Dominique Strauss-Kahn, the head of the International Monetary Fund (IMF), is arrested at John F. Kennedy International Airport in the U.S. city of New York for alleged sexual assault. 
 
 The head of the International Monetary Fund, Dominique Strauss-Kahn, faces sex assault charges over an alleged incident with a New York hotel maid.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13402845)
 2. [New York Daily News](http://www.nydailynews.com/news/world/2011/05/14/2011-05-14_top_french_politician_dominique_strausskahn_dragged_of_flight_at_jfk_accused_of_.html)

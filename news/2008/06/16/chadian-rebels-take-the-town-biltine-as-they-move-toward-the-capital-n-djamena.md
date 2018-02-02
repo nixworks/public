@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/16/chadian-rebels-take-the-town-biltine-as-they-move-toward-the-capital-n-djamena.html)  [JSON](/news/2008/06/16/chadian-rebels-take-the-town-biltine-as-they-move-toward-the-capital-n-djamena.json)  [XML](/news/2008/06/16/chadian-rebels-take-the-town-biltine-as-they-move-toward-the-capital-n-djamena.xml)  
+
 ### [2008-06-16](/news/2008/06/16/index.md)
 
+##### Chad
 #  Chadian rebels take the town Biltine as they move toward the capital N'Djamena. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7457117.stm)
 

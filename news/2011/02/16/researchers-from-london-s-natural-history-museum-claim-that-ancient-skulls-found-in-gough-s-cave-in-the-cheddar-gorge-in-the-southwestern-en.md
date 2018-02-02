@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/16/researchers-from-london-s-natural-history-museum-claim-that-ancient-skulls-found-in-gough-s-cave-in-the-cheddar-gorge-in-the-southwestern-en.html)  [JSON](/news/2011/02/16/researchers-from-london-s-natural-history-museum-claim-that-ancient-skulls-found-in-gough-s-cave-in-the-cheddar-gorge-in-the-southwestern-en.json)  [XML](/news/2011/02/16/researchers-from-london-s-natural-history-museum-claim-that-ancient-skulls-found-in-gough-s-cave-in-the-cheddar-gorge-in-the-southwestern-en.xml)  
+
 ### [2011-02-16](/news/2011/02/16/index.md)
 
+##### London
 # Researchers from London's Natural History Museum claim that ancient skulls found in Gough's Cave in the Cheddar Gorge in the southwestern English county of Somerset show signs of cannibalism. 
 
 By Madeleine Cowley LONDON (Reuters Life!) - Ancient Britons devoured their dead and created gruesome goblets from the skulls of their remain
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/2011/02/16/idINIndia-54947920110216?feedType=RSS&feedName=entertainmentNews&WT.tsrc=Social%20Media&WT.z_smid=twtr-RtrsIN_Entrtnmt&WT.z_smid_dest=Twitter)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

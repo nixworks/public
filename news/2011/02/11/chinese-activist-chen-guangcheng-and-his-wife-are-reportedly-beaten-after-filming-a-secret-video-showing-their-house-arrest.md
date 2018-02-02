@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/11/chinese-activist-chen-guangcheng-and-his-wife-are-reportedly-beaten-after-filming-a-secret-video-showing-their-house-arrest.html)  [JSON](/news/2011/02/11/chinese-activist-chen-guangcheng-and-his-wife-are-reportedly-beaten-after-filming-a-secret-video-showing-their-house-arrest.json)  [XML](/news/2011/02/11/chinese-activist-chen-guangcheng-and-his-wife-are-reportedly-beaten-after-filming-a-secret-video-showing-their-house-arrest.xml)  
+
 ### [2011-02-11](/news/2011/02/11/index.md)
 
+##### China
 # Chinese activist Chen Guangcheng and his wife are reportedly beaten after filming a secret video showing their house arrest. 
 
 A human rights organisation says the activist Chen Guangcheng and his wife were beaten after the release of a video showing them under house arrest.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12428385)
 2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20110211/news_20110211_56_733315.htm)

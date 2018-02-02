@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/25/2011-horn-of-africa-famine-the-world-bank-promises-500-million-in-aid-to-drought-victims-in-east-africa-as-a-united-nations-agency-hosts-a.html)  [JSON](/news/2011/07/25/2011-horn-of-africa-famine-the-world-bank-promises-500-million-in-aid-to-drought-victims-in-east-africa-as-a-united-nations-agency-hosts-a.json)  [XML](/news/2011/07/25/2011-horn-of-africa-famine-the-world-bank-promises-500-million-in-aid-to-drought-victims-in-east-africa-as-a-united-nations-agency-hosts-a.xml)  
+
 ### [2011-07-25](/news/2011/07/25/index.md)
 
+##### famine
 # 2011 Horn of Africa famine: The World Bank promises $500 million in aid to drought victims in East Africa as a United Nations agency hosts an emergency meeting aimed at fighting famine. 
 
 Efforts to save starving Somalis and others suffering from drought in East Africa were intensified Monday, with United Nations agencies pitching for more funding for relief efforts.
 
 
-### Source:
+### Sources:
 
 1. [CBC News](http://www.cbc.ca/news/world/story/2011/07/25/united-nations-drought.html)
 1. [Cover Image](https://i.cbc.ca/1.2051583.1381652454!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-852-famine-cp-01032653.jpg)

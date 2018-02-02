@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2010/12/1/russiaas-gazprom-and-ukraineas-naftogaz-ukrainy-have-agreed-to-set-up-two-joint-ventures-the-russian-company-said-after-a-meeting-betwe.html)  [JSON](/news/2010/12/1/russiaas-gazprom-and-ukraineas-naftogaz-ukrainy-have-agreed-to-set-up-two-joint-ventures-the-russian-company-said-after-a-meeting-betwe.json)  [XML](/news/2010/12/1/russiaas-gazprom-and-ukraineas-naftogaz-ukrainy-have-agreed-to-set-up-two-joint-ventures-the-russian-company-said-after-a-meeting-betwe.xml)  
+
 ### [2010-12-1](/news/2010/12/1/index.md)
 
+##### Russia
 # Russia's Gazprom and Ukraine's Naftogaz Ukrainy have agreed to set up two joint ventures, the Russian company said after a meeting between its CEO Alexei Miller and Ukrainian Fuel and Energy Minister Yuri Boiko. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ITAR](http://itar-tass.com/eng/level2.html?NewsID=15737099&PageNum=0)
+
+### Changes:
+
+1. [Russia-s Gazprom and Ukraine-s Naftogaz Ukrainy have agreed to set up two joint ventures, the Russian company said after a meeting between its CEO Alexei Miller and Ukrainian Fuel and Energy Minister Yuri Boiko. ](/news/2010/12/1/russia-s-gazprom-and-ukraine-s-naftogaz-ukrainy-have-agreed-to-set-up-two-joint-ventures-the-russian-company-said-after-a-meeting-betwe.md) _2017-08-27 03:31:21 (First version)_
+1. [Russia's Gazprom and Ukraine's Naftogaz Ukrainy have agreed to set up two joint ventures, the Russian company said after a meeting between its CEO Alexei Miller and Ukrainian Fuel and Energy Minister Yuri Boiko. ](/news/2010/12/1/russiaas-gazprom-and-ukraineas-naftogaz-ukrainy-have-agreed-to-set-up-two-joint-ventures-the-russian-company-said-after-a-meeting-betwe.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [Russia's state-owned gas giant Gazprom says that Ukraine must pay up front for its gas after the country failed to settle its debt. ](/news/2014/06/16/russia-s-state-owned-gas-giant-gazprom-says-that-ukraine-must-pay-up-front-for-its-gas-after-the-country-failed-to-settle-its-debt.md) _Context: Gazprom, Russia, Ukraine_
 4. [ Russia's Gazprom alleges that Ukraine has blocked three key gas pipelines to Europe, making natural gas delivery there impossible. ](/news/2009/01/6/russia-s-gazprom-alleges-that-ukraine-has-blocked-three-key-gas-pipelines-to-europe-making-natural-gas-delivery-there-impossible.md) _Context: Gazprom, Russia, Ukraine_
 5. [ Ukraine says it cannot resume natural-gas transit because Russia's Gazprom has provided insufficient supplies. ](/news/2009/01/14/ukraine-says-it-cannot-resume-natural-gas-transit-because-russia-s-gazprom-has-provided-insufficient-supplies.md) _Context: Gazprom, Russia, Ukraine_
-
-### Changes:
-
-1. [Russia-s Gazprom and Ukraine-s Naftogaz Ukrainy have agreed to set up two joint ventures, the Russian company said after a meeting between its CEO Alexei Miller and Ukrainian Fuel and Energy Minister Yuri Boiko. ](/news/2010/12/1/russia-s-gazprom-and-ukraine-s-naftogaz-ukrainy-have-agreed-to-set-up-two-joint-ventures-the-russian-company-said-after-a-meeting-betwe.md) _2017-08-27 03:31:21 (First version)_
-1. [Russia's Gazprom and Ukraine's Naftogaz Ukrainy have agreed to set up two joint ventures, the Russian company said after a meeting between its CEO Alexei Miller and Ukrainian Fuel and Energy Minister Yuri Boiko. ](/news/2010/12/1/russiaas-gazprom-and-ukraineas-naftogaz-ukrainy-have-agreed-to-set-up-two-joint-ventures-the-russian-company-said-after-a-meeting-betwe.md) _(Current version)_

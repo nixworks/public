@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/18/2006-ipswich-murder-investigation-police-arrest-a-37-year-old-man-in-trimley-st-martin-near-felixstowe-england-on-suspicion-of-the-murde.html)  [JSON](/news/2006/12/18/2006-ipswich-murder-investigation-police-arrest-a-37-year-old-man-in-trimley-st-martin-near-felixstowe-england-on-suspicion-of-the-murde.json)  [XML](/news/2006/12/18/2006-ipswich-murder-investigation-police-arrest-a-37-year-old-man-in-trimley-st-martin-near-felixstowe-england-on-suspicion-of-the-murde.xml)  
+
 ### [2006-12-18](/news/2006/12/18/index.md)
 
+##### Ipswich murder case
 #  2006 Ipswich murder investigation: Police arrest a 37-year-old man in Trimley St. Martin near Felixstowe, England on suspicion of the murders of five prostitutes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/england/suffolk/6189409.stm)
 2. [Guardian](http://www.guardian.co.uk/suffolkmurders/story/0,,1974640,00.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/23/alexander-litvinenko-the-russian-ex-spy-poisoned-in-london-last-weekend-dies-he-had-previously-been-put-on-a-ventilator-after-suffering.html)  [JSON](/news/2006/11/23/alexander-litvinenko-the-russian-ex-spy-poisoned-in-london-last-weekend-dies-he-had-previously-been-put-on-a-ventilator-after-suffering.json)  [XML](/news/2006/11/23/alexander-litvinenko-the-russian-ex-spy-poisoned-in-london-last-weekend-dies-he-had-previously-been-put-on-a-ventilator-after-suffering.xml)  
+
 ### [2006-11-23](/news/2006/11/23/index.md)
 
+##### Alexander Litvinenko
 #  Alexander Litvinenko, the Russian ex-spy poisoned in London last weekend, dies. He had previously been put on a ventilator after suffering a heart failure, while objects discovered in his body when he was x-rayed are not a "major concern", doctors say. 
 
 News and opinion from The Times &amp; The Sunday Times
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/story/0,23599,20813524-1702,00.html)
 2. [The Times](http://www.timesonline.co.uk/article/0,,2-2469142,00.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/16/a-presidential-election-takes-place-in-nigeria.html)  [JSON](/news/2011/04/16/a-presidential-election-takes-place-in-nigeria.json)  [XML](/news/2011/04/16/a-presidential-election-takes-place-in-nigeria.xml)  
+
 ### [2011-04-16](/news/2011/04/16/index.md)
 
+##### presidential election
 # A presidential election takes place in Nigeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13102541)
 2. [iAfrica](http://news.iafrica.com/worldnews/722333.html)

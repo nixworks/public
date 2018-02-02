@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/17/the-president-of-gabon-ali-bongo-calls-for-calm-following-clashes-between-police-and-anti-government-protesters-and-a-subsequent-attack-on-a.html)  [JSON](/news/2012/08/17/the-president-of-gabon-ali-bongo-calls-for-calm-following-clashes-between-police-and-anti-government-protesters-and-a-subsequent-attack-on-a.json)  [XML](/news/2012/08/17/the-president-of-gabon-ali-bongo-calls-for-calm-following-clashes-between-police-and-anti-government-protesters-and-a-subsequent-attack-on-a.xml)  
+
 ### [2012-08-17](/news/2012/08/17/index.md)
 
+##### Gabon
 # The president of Gabon Ali Bongo calls for calm following clashes between police and anti-government protesters and a subsequent attack on an opposition television station. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/africa/gabon-president-calls-for-calm-1.1365229#.UC6b9qOiE1A)
 

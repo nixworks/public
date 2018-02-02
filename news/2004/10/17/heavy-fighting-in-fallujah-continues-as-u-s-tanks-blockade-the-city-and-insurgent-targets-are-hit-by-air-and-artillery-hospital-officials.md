@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/17/heavy-fighting-in-fallujah-continues-as-u-s-tanks-blockade-the-city-and-insurgent-targets-are-hit-by-air-and-artillery-hospital-officials.html)  [JSON](/news/2004/10/17/heavy-fighting-in-fallujah-continues-as-u-s-tanks-blockade-the-city-and-insurgent-targets-are-hit-by-air-and-artillery-hospital-officials.json)  [XML](/news/2004/10/17/heavy-fighting-in-fallujah-continues-as-u-s-tanks-blockade-the-city-and-insurgent-targets-are-hit-by-air-and-artillery-hospital-officials.xml)  
+
 ### [2004-10-17](/news/2004/10/17/index.md)
 
+##### Fallujah
 #  Heavy fighting in Fallujah continues as U.S. tanks blockade the city and insurgent targets are hit by air and artillery. Hospital officials say four civilians, including a child, were killed. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [  (Reuters](http://reuters.com/newsArticle.jhtml;jsessionid=ULG2CMUHEAMPWCRBAEOCFFA?type=worldNews&storyID=6521278)
 2. [ABC](http://abcnews.go.com/International/wireStory?id=172988)

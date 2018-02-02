@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/18/a-polish-mig-29-crash-lands-in-a-forest-near-mi
 
 ### [2017-12-18](/news/2017/12/18/index.md)
 
+##### MiG-29
 #  A Polish MiG-29 crash lands in a forest near Minsk Mazowiecki. The pilot survived despite not ejecting. 
 
 
@@ -17,7 +18,3 @@ Formats: [HTML](/news/2017/12/18/a-polish-mig-29-crash-lands-in-a-forest-near-mi
 
 1. [ Polish MiG-29 crash lands into a forest near Minsk Mazowiecki. Extremely lucky pilot survives despite not ejecting. ](/news/2017/12/18/polish-mig-29-crash-lands-into-a-forest-near-miask-mazowiecki-extremely-lucky-pilot-survives-despite-not-ejecting.md) _2017-12-19 21:30:07 (First version)_
 1. [ A Polish MiG-29 crash lands in a forest near Minsk Mazowiecki. The pilot survived despite not ejecting. ](/news/2017/12/18/a-polish-mig-29-crash-lands-in-a-forest-near-miask-mazowiecki-the-pilot-survived-despite-not-ejecting.md) _(Current version)_
-
-### Related:
-
-1. [Two Mig-29s of the Slovak Air Force crashed following a mid-air collision near Hnilec in central-eastern Slovakia. One pilot ejected safely, while the other, Major Marian Katuska, was killed in the accident.](/news/2002/11/6/two-mig-29s-of-the-slovak-air-force-crashed-following-a-mid-air-collision-near-hnilec-in-central-eastern-slovakia-one-pilot-ejected-safely.md) _Context: MiG-29_

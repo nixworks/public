@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/19/kathleen-blanco-the-governor-of-the-u-s-state-of-louisiana-calls-in-the-louisiana-national-guard-to-patrol-the-streets-of-new-orleans-fo.html)  [JSON](/news/2006/06/19/kathleen-blanco-the-governor-of-the-u-s-state-of-louisiana-calls-in-the-louisiana-national-guard-to-patrol-the-streets-of-new-orleans-fo.json)  [XML](/news/2006/06/19/kathleen-blanco-the-governor-of-the-u-s-state-of-louisiana-calls-in-the-louisiana-national-guard-to-patrol-the-streets-of-new-orleans-fo.xml)  
+
 ### [2006-06-19](/news/2006/06/19/index.md)
 
+##### Kathleen Blanco
 #  Kathleen Blanco, the Governor of the U.S. state of Louisiana, calls in the Louisiana National Guard to patrol the streets of New Orleans following six deaths on the preceding weekend. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/sns-ap-new-orleans-national-guard,1,5434262.story?track=rss)
 

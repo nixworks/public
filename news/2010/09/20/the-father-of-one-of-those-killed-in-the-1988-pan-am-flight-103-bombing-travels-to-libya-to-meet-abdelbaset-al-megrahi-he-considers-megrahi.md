@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/20/the-father-of-one-of-those-killed-in-the-1988-pan-am-flight-103-bombing-travels-to-libya-to-meet-abdelbaset-al-megrahi-he-considers-megrahi.html)  [JSON](/news/2010/09/20/the-father-of-one-of-those-killed-in-the-1988-pan-am-flight-103-bombing-travels-to-libya-to-meet-abdelbaset-al-megrahi-he-considers-megrahi.json)  [XML](/news/2010/09/20/the-father-of-one-of-those-killed-in-the-1988-pan-am-flight-103-bombing-travels-to-libya-to-meet-abdelbaset-al-megrahi-he-considers-megrahi.xml)  
+
 ### [2010-09-20](/news/2010/09/20/index.md)
 
+##### Lockerbie bombing
 # The father of one of those killed in the 1988 Pan Am Flight 103 bombing travels to Libya to meet Abdelbaset al-Megrahi; he considers Megrahi to be innocent and calls for an inquiry. 
 
 A father who lost his daughter in the Lockerbie bombing has travelled to Libya to meet the man convicted of the atrocity.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-south-scotland-11368387)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/8/london-s-harrod-s-department-store-is-sold-to-the-qatari-royal-family-by-mohamed-al-fayed-who-retires-after-25-years-as-its-chairman.html)  [JSON](/news/2010/05/8/london-s-harrod-s-department-store-is-sold-to-the-qatari-royal-family-by-mohamed-al-fayed-who-retires-after-25-years-as-its-chairman.json)  [XML](/news/2010/05/8/london-s-harrod-s-department-store-is-sold-to-the-qatari-royal-family-by-mohamed-al-fayed-who-retires-after-25-years-as-its-chairman.xml)  
+
 ### [2010-05-8](/news/2010/05/8/index.md)
 
+##### London
 # London's Harrod's department store is sold to the Qatari royal family by Mohamed Al-Fayed who retires after 25 years as its chairman. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/business/2010/05/20105813475659574.html)
 2. [CNN](http://edition.cnn.com/2010/WORLD/europe/05/08/uk.harrods.sale/)
@@ -15,8 +19,8 @@
 
 ### Related:
 
-1. [A car mounts the pedestrian sidewalk near the Natural History Museum on Exhibition Road, and injures 11 people. London police believe the incident is not terror related. They arrested the driver but later released him. ](/news/2017/10/7/a-car-mounts-the-pedestrian-sidewalk-near-the-natural-history-museum-on-exhibition-road-and-injures-11-people-london-police-believe-the-in.md) _Context: London_
-2. [The New York Police Department and London's Metropolitan Police Service open investigations into alleged sexual assault allegations against the American film producer Harvey Weinstein. ](/news/2017/10/12/the-new-york-police-department-and-london-s-metropolitan-police-service-open-investigations-into-alleged-sexual-assault-allegations-against.md) _Context: London_
-3. [Saudi Arabia suspends any dialogue with Qatar, accusing it of "distorting facts" in its reporting of yesterday's phone call between the leaders of both countries which suggested a breakthrough in the Gulf dispute was possible. ](/news/2017/09/9/saudi-arabia-suspends-any-dialogue-with-qatar-accusing-it-of-adistorting-factsa-in-its-reporting-of-yesterday-s-phone-call-between-the.md) _Context: Qatar_
-4. [Qatar announces it will donate USD$ 30 million to help people in Texas recover from Harvey. ](/news/2017/09/7/qatar-announces-it-will-donate-usd-30-million-to-help-people-in-texas-recover-from-harvey.md) _Context: Qatar_
-5. [Kulsoom Nawaz Sharif, wife of ousted former Prime Minister Nawaz Sharif, defeats the opposition party's Yasmin Rashid in the by-election for Nawaz Sharif's National Assembly seat. Kulsoom, represented by her daughter and proxy Maryam, is being treated in London for cancer. ](/news/2017/09/17/kulsoom-nawaz-sharif-wife-of-ousted-former-prime-minister-nawaz-sharif-defeats-the-opposition-party-s-yasmin-rashid-in-the-by-election-for.md) _Context: London_
+1. [Senior politicians express outrage after an investigative report by the "Financial Times" on groping practices at a Dorchester hotel charity gala held by the London-based Presidents Club old boy network. Boris Johnson and Mark Carney both deny knowing that their lunch or tea time was sold as lots in the club's charitable auction. ](/news/2018/01/24/senior-politicians-express-outrage-after-an-investigative-report-by-the-financial-times-on-groping-practices-at-a-dorchester-hotel-charity.md) _Context: London_
+2. [It is revealed that Ecuador granted citizenship to Julian Assange. Ecuador granted him asylum in August 2012 and he has remained in the Embassy of Ecuador in London avoiding extradition to Sweden on rape charges. Subsequently, Swedish authorities dropped the charges in May 2017. ](/news/2018/01/11/it-is-revealed-that-ecuador-granted-citizenship-to-julian-assange-ecuador-granted-him-asylum-in-august-2012-and-he-has-remained-in-the-emba.md) _Context: London_
+3. [A GBP6 billion ($8 billion) deal to sell 24 Eurofighter Typhoons to Qatar is announced. ](/news/2017/12/11/a-agbp6-billion-8-billion-deal-to-sell-24-eurofighter-typhoons-to-qatar-is-announced.md) _Context: Qatar_
+4. [After the United Kingdom withdrawal from the European Union referendum, the European Medicines Agency (EMA) will relocate to Amsterdam and the European Banking Authority (EBA) to Paris from London. ](/news/2017/11/20/after-the-united-kingdom-withdrawal-from-the-european-union-referendum-the-european-medicines-agency-ema-will-relocate-to-amsterdam-and-t.md) _Context: London_
+5. [A car mounts the pedestrian sidewalk near the Natural History Museum on Exhibition Road, and injures 11 people. London police believe the incident is not terror related. They arrested the driver but later released him. ](/news/2017/10/7/a-car-mounts-the-pedestrian-sidewalk-near-the-natural-history-museum-on-exhibition-road-and-injures-11-people-london-police-believe-the-in.md) _Context: London_

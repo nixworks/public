@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/19/former-united-nations-official-and-head-of-the-
 
 ### [2016-03-19](/news/2016/03/19/index.md)
 
+##### United Nations
 # Former United Nations official and head of the UN mission for the Ebola outbreak Anthony Banbury accuses the UN of "colossal mismanagement," saying it had failed to uphold the principles for which it was established. He cited the organization's "Orwellian admonitions and Carrollian logic" of the UN bureaucracy and minimal accountability regarding the widespread rape and sexual abuse by UN peacekeepers. 
 
 Anthony Banbury, who headed the UN mission on Ebola, said the UN had failed to uphold its own principles
@@ -20,8 +21,8 @@ Anthony Banbury, who headed the UN mission on Ebola, said the UN had failed to u
 
 ### Related:
 
-1. [The United Nations announces that peacekeepers in the country will be sent home over a "lack of responsiveness" during an attack on a UN-run refugee camp last February in Malakal that killed at least 40 people. ](/news/2016/06/23/the-united-nations-announces-that-peacekeepers-in-the-country-will-be-sent-home-over-a-lack-of-responsiveness-during-an-attack-on-a-un-run.md) _Context: United Nations, peacekeepers_
-2. [A suicide bombing at a UN patrol base in Mali results in the deaths of 2 UN peacekeepers and the injury of at least 7 others. ](/news/2014/08/17/a-suicide-bombing-at-a-un-patrol-base-in-mali-results-in-the-deaths-of-2-un-peacekeepers-and-the-injury-of-at-least-7-others.md) _Context: United Nations, peacekeepers_
-3. [UN troops in the Democratic Republic of the Congo launch an offensive, shelling positions held by rebels near the eastern city of Goma. ](/news/2013/08/23/un-troops-in-the-democratic-republic-of-the-congo-launch-an-offensive-shelling-positions-held-by-rebels-near-the-eastern-city-of-goma.md) _Context: United Nations, peacekeepers_
-4. [United Nations peacekeepers from Austria start withdrawing from the Golan Heights. ](/news/2013/06/12/united-nations-peacekeepers-from-austria-start-withdrawing-from-the-golan-heights.md) _Context: United Nations, peacekeepers_
-5. [Four Filipino UN peacekeepers are kidnapped by armed men while patrolling the demilitarized area between Syria and the Israeli-annexed Golan Heights. ](/news/2013/05/7/four-filipino-un-peacekeepers-are-kidnapped-by-armed-men-while-patrolling-the-demilitarized-area-between-syria-and-the-israeli-annexed-golan.md) _Context: United Nations, peacekeepers_
+1. [Suspected Allied Democratic Forces militants in North Kivu, DR Congo, kill at least 15 United Nations peacekeepers, mostly Tanzanian, and five Congolese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. ](/news/2017/12/8/suspected-allied-democratic-forces-militants-in-north-kivu-dr-congo-kill-at-least-15-united-nations-peacekeepers-mostly-tanzanian-and-fi.md) _Context: United Nations, peacekeepers_
+2. [The United Nations announces that peacekeepers in the country will be sent home over a "lack of responsiveness" during an attack on a UN-run refugee camp last February in Malakal that killed at least 40 people. ](/news/2016/06/23/the-united-nations-announces-that-peacekeepers-in-the-country-will-be-sent-home-over-a-lack-of-responsiveness-during-an-attack-on-a-un-run.md) _Context: United Nations, peacekeepers_
+3. [A suicide bombing at a UN patrol base in Mali results in the deaths of 2 UN peacekeepers and the injury of at least 7 others. ](/news/2014/08/17/a-suicide-bombing-at-a-un-patrol-base-in-mali-results-in-the-deaths-of-2-un-peacekeepers-and-the-injury-of-at-least-7-others.md) _Context: United Nations, peacekeepers_
+4. [UN troops in the Democratic Republic of the Congo launch an offensive, shelling positions held by rebels near the eastern city of Goma. ](/news/2013/08/23/un-troops-in-the-democratic-republic-of-the-congo-launch-an-offensive-shelling-positions-held-by-rebels-near-the-eastern-city-of-goma.md) _Context: United Nations, peacekeepers_
+5. [United Nations peacekeepers from Austria start withdrawing from the Golan Heights. ](/news/2013/06/12/united-nations-peacekeepers-from-austria-start-withdrawing-from-the-golan-heights.md) _Context: United Nations, peacekeepers_

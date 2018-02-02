@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/24/a-bomb-kills-two-people-and-injures-six-others-in-chechnya-russia.html)  [JSON](/news/2009/06/24/a-bomb-kills-two-people-and-injures-six-others-in-chechnya-russia.json)  [XML](/news/2009/06/24/a-bomb-kills-two-people-and-injures-six-others-in-chechnya-russia.xml)  
+
 ### [2009-06-24](/news/2009/06/24/index.md)
 
+##### Chechnya
 #  A bomb kills two people and injures six others in Chechnya, Russia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/russia/20090624/155341250.html)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-06/24/content_11594679.htm)

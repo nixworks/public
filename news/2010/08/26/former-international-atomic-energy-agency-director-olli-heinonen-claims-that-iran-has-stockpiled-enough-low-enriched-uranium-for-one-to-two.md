@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/26/former-international-atomic-energy-agency-director-olli-heinonen-claims-that-iran-has-stockpiled-enough-low-enriched-uranium-for-one-to-two.html)  [JSON](/news/2010/08/26/former-international-atomic-energy-agency-director-olli-heinonen-claims-that-iran-has-stockpiled-enough-low-enriched-uranium-for-one-to-two.json)  [XML](/news/2010/08/26/former-international-atomic-energy-agency-director-olli-heinonen-claims-that-iran-has-stockpiled-enough-low-enriched-uranium-for-one-to-two.xml)  
+
 ### [2010-08-26](/news/2010/08/26/index.md)
 
+##### IAEA
 # Former International Atomic Energy Agency director Olli Heinonen claims that Iran has stockpiled enough low-enriched uranium for one to two nuclear bombs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/news/international/ex-nuclear-official-iran-has-material-for-1-to-2-atom-bombs-1.310363)
 

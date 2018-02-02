@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/26/the-italian-cabinet-sets-a-constitutional-refor
 
 ### [2016-09-26](/news/2016/09/26/index.md)
 
+##### Italian constitutional referendum, 2016
 # The Italian cabinet sets a constitutional reform vote for December 4. 
 
 The Italian government on Monday decided to set 4 December as the date of a key referendum aimed at re-vamping Italy&#039;s political machinery and creating more stable governance.

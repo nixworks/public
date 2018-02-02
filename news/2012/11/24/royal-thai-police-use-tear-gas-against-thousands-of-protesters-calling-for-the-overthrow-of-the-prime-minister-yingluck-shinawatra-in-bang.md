@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/24/royal-thai-police-use-tear-gas-against-thousands-of-protesters-calling-for-the-overthrow-of-the-prime-minister-yingluck-shinawatra-in-bang.html)  [JSON](/news/2012/11/24/royal-thai-police-use-tear-gas-against-thousands-of-protesters-calling-for-the-overthrow-of-the-prime-minister-yingluck-shinawatra-in-bang.json)  [XML](/news/2012/11/24/royal-thai-police-use-tear-gas-against-thousands-of-protesters-calling-for-the-overthrow-of-the-prime-minister-yingluck-shinawatra-in-bang.xml)  
+
 ### [2012-11-24](/news/2012/11/24/index.md)
 
+##### Thai police
 # Royal Thai Police use tear gas against thousands of protesters calling for the overthrow of the Prime Minister, Yingluck Shinawatra, in Bangkok, Thailand. At least 61 people are injured. 
 
 Police in the Thai capital, Bangkok, use tear gas against thousands of protesters calling for the overthrow of the prime minister.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20475280)
 2. [RIA Novosti](http://en.ria.ru/world/20121124/177716134.html)

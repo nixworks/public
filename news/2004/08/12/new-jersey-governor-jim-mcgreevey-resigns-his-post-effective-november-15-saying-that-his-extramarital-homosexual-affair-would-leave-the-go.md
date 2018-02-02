@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/12/new-jersey-governor-jim-mcgreevey-resigns-his-post-effective-november-15-saying-that-his-extramarital-homosexual-affair-would-leave-the-go.html)  [JSON](/news/2004/08/12/new-jersey-governor-jim-mcgreevey-resigns-his-post-effective-november-15-saying-that-his-extramarital-homosexual-affair-would-leave-the-go.json)  [XML](/news/2004/08/12/new-jersey-governor-jim-mcgreevey-resigns-his-post-effective-november-15-saying-that-his-extramarital-homosexual-affair-would-leave-the-go.xml)  
+
 ### [2004-08-12](/news/2004/08/12/index.md)
 
+##### New Jersey
 #  New Jersey Governor Jim McGreevey resigns his post effective November 15, saying that his extramarital homosexual affair would leave the governor's office "vulnerable to rumors, false allegations and threats of disclosure.". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/ALLPOLITICS/08/12/mcgreevey.nj/index.html)
 

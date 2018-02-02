@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/2/brazilian-defense-minister-nelson-jobim-confirms-that-debris-discovered-in-the-atlantic-ocean-near-fernando-de-noronha-is-the-wreckage-of.html)  [JSON](/news/2009/06/2/brazilian-defense-minister-nelson-jobim-confirms-that-debris-discovered-in-the-atlantic-ocean-near-fernando-de-noronha-is-the-wreckage-of.json)  [XML](/news/2009/06/2/brazilian-defense-minister-nelson-jobim-confirms-that-debris-discovered-in-the-atlantic-ocean-near-fernando-de-noronha-is-the-wreckage-of.xml)  
+
 ### [2009-06-2](/news/2009/06/2/index.md)
 
+##### Brazil
 #  Brazilian Defense Minister Nelson Jobim confirms that debris discovered in the Atlantic Ocean, near Fernando de Noronha, is the wreckage of Air France Flight 447. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2009/WORLD/americas/06/02/brazil.france.plane.missing/index.html)
 

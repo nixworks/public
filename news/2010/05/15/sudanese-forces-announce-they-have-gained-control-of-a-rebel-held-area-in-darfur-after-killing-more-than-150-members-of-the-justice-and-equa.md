@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/15/sudanese-forces-announce-they-have-gained-control-of-a-rebel-held-area-in-darfur-after-killing-more-than-150-members-of-the-justice-and-equa.html)  [JSON](/news/2010/05/15/sudanese-forces-announce-they-have-gained-control-of-a-rebel-held-area-in-darfur-after-killing-more-than-150-members-of-the-justice-and-equa.json)  [XML](/news/2010/05/15/sudanese-forces-announce-they-have-gained-control-of-a-rebel-held-area-in-darfur-after-killing-more-than-150-members-of-the-justice-and-equa.xml)  
+
 ### [2010-05-15](/news/2010/05/15/index.md)
 
+##### Sudan
 # Sudanese forces announce they have gained control of a rebel held area in Darfur after killing more than 150 members of the Justice and Equality Movement. 
 
 More than 150 fighters reported dead as clashes cast further doubt on peace talks.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gHmShkRA51sEpsS8nvt-5VBQAzygD9FNC7Q00)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/201051552310293415.html)

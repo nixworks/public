@@ -1,17 +1,27 @@
+
+Formats: [HTML](/news/2011/01/27/ugandan-gay-rights-activist-david-kato-who-was-named-in-tabloid-paper-rolling-stone-last-year-is-found-murdered.html)  [JSON](/news/2011/01/27/ugandan-gay-rights-activist-david-kato-who-was-named-in-tabloid-paper-rolling-stone-last-year-is-found-murdered.json)  [XML](/news/2011/01/27/ugandan-gay-rights-activist-david-kato-who-was-named-in-tabloid-paper-rolling-stone-last-year-is-found-murdered.xml)  
+
 ### [2011-01-27](/news/2011/01/27/index.md)
 
+##### Uganda
 # Ugandan gay rights activist David Kato, who was named in tabloid paper "Rolling Stone" last year, is found murdered. 
 
 ONE OF Uganda&rsquo;s most prominent gay rights activists has been murdered, weeks after winning a court case against a newspaper that&hellip;
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jtWRJ29m6GwDbZeTjxUWui0iaSUQ?docId=CNG.4bf876aedad10423b2ba2a9c7e0cdc33.5f1)
 2. [CNN](http://edition.cnn.com/2011/WORLD/africa/01/27/uganda.gay.activist.killed/)
 3. [The Guardian](http://www.guardian.co.uk/world/2011/jan/27/uganda-paper-david-kato-death)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/world/2011/0128/1224288457254.html)
 4. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
+
+### Changes:
+
+1. [Murder of David Kato:Ugandan gay rights activist David Kato, who was named in tabloid paper ''Rolling Stone'' last year, is found murdered. ](/news/2011/01/27/murder-of-david-kato-pugandan-gay-rights-activist-david-kato-who-was-named-in-tabloid-paper-rolling-stone-last-year-is-found-murdered.md) _2017-08-25 03:31:56 (First version)_
+2. [Murder of David Kato:: Ugandan gay rights activist David Kato, who was named in tabloid paper "Rolling Stone" last year, is found murdered. ](/news/2011/01/27/murder-of-david-kato-ugandan-gay-rights-activist-david-kato-who-was-named-in-tabloid-paper-rolling-stone-last-year-is-found-murdered.md) _2017-08-27 03:32:04 (Update)_
+2. [Ugandan gay rights activist David Kato, who was named in tabloid paper "Rolling Stone" last year, is found murdered. ](/news/2011/01/27/ugandan-gay-rights-activist-david-kato-who-was-named-in-tabloid-paper-rolling-stone-last-year-is-found-murdered.md) _(Current version)_
 
 ### Related:
 
@@ -20,9 +30,3 @@ ONE OF Uganda&rsquo;s most prominent gay rights activists has been murdered, wee
 3. [A Ugandan LGBT rights group files a lawsuit against U.S. minister Scott Lively in connection with his alleged involvement in a campaign to persecute gay people in Uganda. ](/news/2012/03/15/a-ugandan-lgbt-rights-group-files-a-lawsuit-against-u-s-minister-scott-lively-in-connection-with-his-alleged-involvement-in-a-campaign-to-p.md) _Context: LGBT rights, Uganda_
 4. [Sidney Nsubuga Enoch is jailed for 35 years in Uganda for the murder of gay activist David Kato in January. ](/news/2011/11/11/sidney-nsubuga-enoch-is-jailed-for-35-years-in-uganda-for-the-murder-of-gay-activist-david-kato-in-january.md) _Context: David Kato, Uganda_
 5. [The UK gives a lesbian from Uganda an injunction to temporarily prevent her deportation to the country where gay activist David Kato was murdered earlier this week. ](/news/2011/01/29/the-uk-gives-a-lesbian-from-uganda-an-injunction-to-temporarily-prevent-her-deportation-to-the-country-where-gay-activist-david-kato-was-mur.md) _Context: David Kato, Uganda_
-
-### Changes:
-
-1. [Murder of David Kato:Ugandan gay rights activist David Kato, who was named in tabloid paper ''Rolling Stone'' last year, is found murdered. ](/news/2011/01/27/murder-of-david-kato-pugandan-gay-rights-activist-david-kato-who-was-named-in-tabloid-paper-rolling-stone-last-year-is-found-murdered.md) _2017-08-25 03:31:56 (First version)_
-2. [Murder of David Kato:: Ugandan gay rights activist David Kato, who was named in tabloid paper "Rolling Stone" last year, is found murdered. ](/news/2011/01/27/murder-of-david-kato-ugandan-gay-rights-activist-david-kato-who-was-named-in-tabloid-paper-rolling-stone-last-year-is-found-murdered.md) _2017-08-27 03:32:04 (Update)_
-2. [Ugandan gay rights activist David Kato, who was named in tabloid paper "Rolling Stone" last year, is found murdered. ](/news/2011/01/27/ugandan-gay-rights-activist-david-kato-who-was-named-in-tabloid-paper-rolling-stone-last-year-is-found-murdered.md) _(Current version)_

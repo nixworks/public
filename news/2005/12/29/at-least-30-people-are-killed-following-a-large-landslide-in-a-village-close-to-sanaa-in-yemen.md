@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/29/at-least-30-people-are-killed-following-a-large-landslide-in-a-village-close-to-sanaa-in-yemen.html)  [JSON](/news/2005/12/29/at-least-30-people-are-killed-following-a-large-landslide-in-a-village-close-to-sanaa-in-yemen.json)  [XML](/news/2005/12/29/at-least-30-people-are-killed-following-a-large-landslide-in-a-village-close-to-sanaa-in-yemen.xml)  
+
 ### [2005-12-29](/news/2005/12/29/index.md)
 
+##### landslide
 #  At least 30 people are killed following a large landslide in a village close to Sanaa in Yemen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4565970.stm)
 

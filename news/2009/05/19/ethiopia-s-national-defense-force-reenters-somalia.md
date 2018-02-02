@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/19/ethiopia-s-national-defense-force-reenters-somalia.html)  [JSON](/news/2009/05/19/ethiopia-s-national-defense-force-reenters-somalia.json)  [XML](/news/2009/05/19/ethiopia-s-national-defense-force-reenters-somalia.xml)  
+
 ### [2009-05-19](/news/2009/05/19/index.md)
 
+##### Ethiopia
 #  Ethiopia's National Defense Force reenters Somalia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8057115.stm)
 

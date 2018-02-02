@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/29/scientists-at-the-monterey-bay-aquarium-research-institute-announce-the-discovery-of-a-new-genus-of-deep-sea-worms-osedax-meaning-bone.html)  [JSON](/news/2004/07/29/scientists-at-the-monterey-bay-aquarium-research-institute-announce-the-discovery-of-a-new-genus-of-deep-sea-worms-osedax-meaning-bone.json)  [XML](/news/2004/07/29/scientists-at-the-monterey-bay-aquarium-research-institute-announce-the-discovery-of-a-new-genus-of-deep-sea-worms-osedax-meaning-bone.xml)  
+
 ### [2004-07-29](/news/2004/07/29/index.md)
 
+##### Monterey Bay Aquarium
 #  Scientists at the Monterey Bay Aquarium Research Institute announce the discovery of a new genus of deep sea worms, "Osedax" (meaning "bone devourer"). The worms feed on lipids found in the bones of whale carcasses. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MBARI](http://www.mbari.org/news/news_releases/2004/whalefall.html)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/16/the-bbc-reports-that-former-prime-minister-of-t
 
 ### [2017-12-16](/news/2017/12/16/index.md)
 
+##### China-United Kingdom relations
 # The BBC reports that former Prime Minister of the United Kingdom David Cameron is to head a GBP750 million ($1 billion) U.K. private fund to improve air, road and railway links between China and its trading partners. 
 
 David Cameron is to take on a role with a leading a billion-dollar investment initiative between the UK and China.

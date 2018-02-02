@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/06/5/burma-detains-activist-and-comedian-zarganar-who-has-been-involved-in-private-relief-efforts-for-the-victims-of-cyclone-nargis-and-seize-hi.html)  [JSON](/news/2008/06/5/burma-detains-activist-and-comedian-zarganar-who-has-been-involved-in-private-relief-efforts-for-the-victims-of-cyclone-nargis-and-seize-hi.json)  [XML](/news/2008/06/5/burma-detains-activist-and-comedian-zarganar-who-has-been-involved-in-private-relief-efforts-for-the-victims-of-cyclone-nargis-and-seize-hi.xml)  
+
 ### [2008-06-5](/news/2008/06/5/index.md)
 
+##### Burma
 #  Burma detains activist and comedian Zarganar who has been involved in private relief efforts for the victims of Cyclone Nargis and seize his computer and banned films including "Rambo". 
 
 Myanmar has detained a top activist comedian involved in a private aid effort for cyclone victims, a relative said, as U.S. warships sailed away on Thursday after the military junta refused to accept their aid offer.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSBKK4666720080605)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080605&t=2&i=4650780&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-06-05T062953Z_01_BKK46667_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSBKK4666720080605)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20080605&t=2&i=4650780&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-06-05T062953Z_01_BKK46667_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

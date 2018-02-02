@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/25/at-least-17-people-are-killed-and-71-injured-following-a-fire-in-a-karaoke-bar-on-the-indonesian-island-of-sulawesi.html)  [JSON](/news/2015/10/25/at-least-17-people-are-killed-and-71-injured-following-a-fire-in-a-karaoke-bar-on-the-indonesian-island-of-sulawesi.json)  [XML](/news/2015/10/25/at-least-17-people-are-killed-and-71-injured-following-a-fire-in-a-karaoke-bar-on-the-indonesian-island-of-sulawesi.xml)  
+
 ### [2015-10-25](/news/2015/10/25/index.md)
 
+##### karaoke
 # At least 17 people are killed and 71 injured following a fire in a karaoke bar on the Indonesian island of Sulawesi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2015/10/25/17-killed-dozens-hospitalized-after-fire-breaks-out-at-indonesia-karaoke-bar/)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

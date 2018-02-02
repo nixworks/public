@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/28/tanks-of-the-syrian-army-commence-attacks-against-the-rebel-held-city-of-aleppo.html)  [JSON](/news/2012/07/28/tanks-of-the-syrian-army-commence-attacks-against-the-rebel-held-city-of-aleppo.json)  [XML](/news/2012/07/28/tanks-of-the-syrian-army-commence-attacks-against-the-rebel-held-city-of-aleppo.xml)  
+
 ### [2012-07-28](/news/2012/07/28/index.md)
 
+##### Syrian Army
 # Tanks of the Syrian Army commence attacks against the rebel-held city of Aleppo. 
 
 Syrian forces use mortars and helicopters in a day-long assault on Aleppo, where a BBC journalist sees families fleeing and rebel fighters killed.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19025955)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61877000/jpg/_61877677_61877676.jpg)

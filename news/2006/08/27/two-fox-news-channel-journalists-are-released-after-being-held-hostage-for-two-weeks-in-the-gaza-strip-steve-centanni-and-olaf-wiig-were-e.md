@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/27/two-fox-news-channel-journalists-are-released-after-being-held-hostage-for-two-weeks-in-the-gaza-strip-steve-centanni-and-olaf-wiig-were-e.html)  [JSON](/news/2006/08/27/two-fox-news-channel-journalists-are-released-after-being-held-hostage-for-two-weeks-in-the-gaza-strip-steve-centanni-and-olaf-wiig-were-e.json)  [XML](/news/2006/08/27/two-fox-news-channel-journalists-are-released-after-being-held-hostage-for-two-weeks-in-the-gaza-strip-steve-centanni-and-olaf-wiig-were-e.xml)  
+
 ### [2006-08-27](/news/2006/08/27/index.md)
 
+##### Fox News
 #  Two Fox News Channel journalists are released after being held hostage for two weeks in the Gaza Strip. Steve Centanni and Olaf Wiig were earlier claimed to have been forced by their captors to convert to Islam. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/D739DA78-145C-4319-AD9D-93C55A36977F.htm)
 2. [CBS News](http://www.cbsnews.com/stories/2006/08/27/world/main1936899.shtml)
@@ -15,6 +19,6 @@
 
 1. [ Fox News journalists Steve Centanni and Olaf Wiig are kidnapped in Gaza. ](/news/2006/08/14/fox-news-journalists-steve-centanni-and-olaf-wiig-are-kidnapped-in-gaza.md) _Context: Gaza Strip, Olaf Wiig, Steve Centanni_
 2. [ The Holy Jihad Brigades releases a video showing kidnapped journalists Steve Centanni and Olaf Wiig in good health. No armed men were present. The HJB demands that the United States release "Muslim prisoners" within 72 hours. ](/news/2006/08/23/the-holy-jihad-brigades-releases-a-video-showing-kidnapped-journalists-steve-centanni-and-olaf-wiig-in-good-health-no-armed-men-were-prese.md) _Context: Olaf Wiig, Steve Centanni_
-3. [Palestinian factions, Hamas and Fatah, sign a unity deal in Cairo, that is also publicly supported by the governments of Egypt and Saudi Arabia. The Fatah-controlled Palestinian National Authority (PNA), along with Israel, currently govern the West Bank. According to the signatories of the deal, the PNA will take administrative control of the Gaza Strip, and, along with Hamas, police its borders. The signatories consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. The government of Israel opposes any involvement by Hamas in a Palestinian government. ](/news/2017/10/12/palestinian-factions-hamas-and-fatah-sign-a-unity-deal-in-cairo-that-is-also-publicly-supported-by-the-governments-of-egypt-and-saudi-ara.md) _Context: Gaza Strip_
-4. [Hamas, through Egyptian-mediated talks, agrees to dissolve its Gaza administration, hold talks with the Fatah West Bank government, and hold elections for a Palestinian unity government. ](/news/2017/09/17/hamas-through-egyptian-mediated-talks-agrees-to-dissolve-its-gaza-administration-hold-talks-with-the-fatah-west-bank-government-and-hold.md) _Context: Gaza Strip_
-5. [Dozens of Rohingya Muslims fleeing renewed violence in Rakhine State are detained by Bangladeshi and Burmese authorities after they attempt to cross the border from Myanmar to Bangladesh. Many were en route to Kutupalong Refugee Camp, a refugee camp in Ukhia, Bangladesh, mostly inhabited by Rohingya refugees. ](/news/2017/08/27/dozens-of-rohingya-muslims-fleeing-renewed-violence-in-rakhine-state-are-detained-by-bangladeshi-and-burmese-authorities-after-they-attempt.md) _Context: Muslims_
+3. [Hundreds of people protest on the West Bank and in Gaza for the third day in a row. ](/news/2017/12/9/hundreds-of-people-protest-on-the-west-bank-and-in-gaza-for-the-third-day-in-a-row.md) _Context: Gaza Strip_
+4. [Militant Palestinians fire rockets towards Israel from the Gaza Strip. The Israel Defense Forces say that the Iron Dome system intercepted two missiles, while one rocket fell in a flat open area and nobody was hurt. ](/news/2017/12/13/militant-palestinians-fire-rockets-towards-israel-from-the-gaza-strip-the-israel-defense-forces-say-that-the-iron-dome-system-intercepted-t.md) _Context: Gaza Strip_
+5. [The IDF destroys a partly-completed tunnel from the Gaza Strip border near the town of Khan Yunis that crossed into Israeli territory, killing seven Hamas militants. Several more died in the rescue efforts. ](/news/2017/10/30/the-idf-destroys-a-partly-completed-tunnel-from-the-gaza-strip-border-near-the-town-of-khan-yunis-that-crossed-into-israeli-territory-killi.md) _Context: Gaza Strip_

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/12/14/oil-price-reached-its-lowest-since-december-2008-other-indicators-in-broader-markets-caused-investor-jitters-ahead-of-the-expected-interest.html)  [JSON](/news/2015/12/14/oil-price-reached-its-lowest-since-december-2008-other-indicators-in-broader-markets-caused-investor-jitters-ahead-of-the-expected-interest.json)  [XML](/news/2015/12/14/oil-price-reached-its-lowest-since-december-2008-other-indicators-in-broader-markets-caused-investor-jitters-ahead-of-the-expected-interest.xml)  
+
 ### [2015-12-14](/news/2015/12/14/index.md)
 
+##### U.S. Federal Reserve
 # Oil price reached its lowest since December 2008. Other indicators in broader markets caused investor jitters ahead of the expected interest rate hike by the U.S. central bank on Wednesday. 
 
 Global equity markets swung between gains and losses on Monday, as volatile oil prices rebounded from multi-year lows while weakness in credit markets weighed on sentiment ahead of an expected U.S. interest rate hike later this week.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-global-markets-idUSKBN0TX01D20151214#PCHFPTJO6Pv3W4AT.97)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151214&t=2&i=1102274983&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBD0WO)
+1. [Reuters](https://www.reuters.com/article/us-global-markets-idUSKBN0TX01D20151214#PCHFPTJO6Pv3W4AT.97)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20151214&t=2&i=1102274983&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBD0WO)
 
 ### Related:
 

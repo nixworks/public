@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/23/president-of-iran-mahmoud-ahmadinejad-opens-a-trade-fair-in-bulawayo-on-his-tour-of-zimbabwe-as-the-country-s-president-robert-mugabe-back-s.html)  [JSON](/news/2010/04/23/president-of-iran-mahmoud-ahmadinejad-opens-a-trade-fair-in-bulawayo-on-his-tour-of-zimbabwe-as-the-country-s-president-robert-mugabe-back-s.json)  [XML](/news/2010/04/23/president-of-iran-mahmoud-ahmadinejad-opens-a-trade-fair-in-bulawayo-on-his-tour-of-zimbabwe-as-the-country-s-president-robert-mugabe-back-s.xml)  
+
 ### [2010-04-23](/news/2010/04/23/index.md)
 
+##### President
 # President of Iran Mahmoud Ahmadinejad opens a trade fair in Bulawayo on his tour of Zimbabwe as the country's President Robert Mugabe back's Iran's "just cause" for developing nuclear energy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/2010423132451639514.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8639588.stm)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/30/the-iraqi-parliament-votes-in-favour-of-a-recip
 
 ### [2017-01-30](/news/2017/01/30/index.md)
 
+##### Iraq-United States relations
 # The Iraqi Parliament votes in favour of a reciprocal travel ban on U.S. citizens if U.S. President Donald Trump's executive order barring citizens of Iraq and six other Muslim-majority countries is not reversed. The Iraqi travel ban will not be implemented while tens of thousands of U.S. soldiers and contractors are involved in the fight against ISIL. 
 
 

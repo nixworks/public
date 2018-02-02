@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/9/italian-president-giorgio-napolitano-calls-on-the-british-government-to-explain-why-it-did-not-inform-italy-about-an-attempt-to-rescue-hosta.html)  [JSON](/news/2012/03/9/italian-president-giorgio-napolitano-calls-on-the-british-government-to-explain-why-it-did-not-inform-italy-about-an-attempt-to-rescue-hosta.json)  [XML](/news/2012/03/9/italian-president-giorgio-napolitano-calls-on-the-british-government-to-explain-why-it-did-not-inform-italy-about-an-attempt-to-rescue-hosta.xml)  
+
 ### [2012-03-9](/news/2012/03/9/index.md)
 
+##### Italy
 # Italian President Giorgio Napolitano calls on the British government to explain why it did not inform Italy about an attempt to rescue hostages Chris McManus and Franco Lamolinara until after the operation had been carried out. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-17308416)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58985000/jpg/_58985400_mcmanus_lamolinara464.jpg)

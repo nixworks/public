@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/17/voters-in-france-go-to-the-polls-for-legislative-election-with-the-socialist-party-winning-a-majority.html)  [JSON](/news/2012/06/17/voters-in-france-go-to-the-polls-for-legislative-election-with-the-socialist-party-winning-a-majority.json)  [XML](/news/2012/06/17/voters-in-france-go-to-the-polls-for-legislative-election-with-the-socialist-party-winning-a-majority.xml)  
+
 ### [2012-06-17](/news/2012/06/17/index.md)
 
+##### France
 # Voters in France go to the polls for legislative election with the Socialist Party winning a majority. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Idaho Press-Tribune](http://www.idahopress.com/news/world/socialists-take-french-parliament-sweep-power/article_4802c836-6873-574f-814b-7e085cd8c7d5.html)
 1. [Cover Image](http://bloximages.chicago2.vip.townnews.com/idahopress.com/content/tncms/assets/v3/editorial/2/26/226f2fac-48aa-52f0-9012-0adbd10ce9da/4fe22f7f42a79.preview-620.jpg?resize=493%2C630)

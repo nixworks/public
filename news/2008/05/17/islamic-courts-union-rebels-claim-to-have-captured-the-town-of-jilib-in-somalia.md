@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/05/17/islamic-courts-union-rebels-claim-to-have-captured-the-town-of-jilib-in-somalia.html)  [JSON](/news/2008/05/17/islamic-courts-union-rebels-claim-to-have-captured-the-town-of-jilib-in-somalia.json)  [XML](/news/2008/05/17/islamic-courts-union-rebels-claim-to-have-captured-the-town-of-jilib-in-somalia.xml)  
+
 ### [2008-05-17](/news/2008/05/17/index.md)
 
+##### Islamic Courts Union
 #  Islamic Courts Union rebels claim to have captured the town of Jilib in Somalia. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Forbes](http://www.forbes.com/feeds/ap/2008/05/17/ap5021391.html)
+1. [AP via Forbes](https://www.forbes.com/feeds/ap/2008/05/17/ap5021391.html)
 
 ### Related:
 

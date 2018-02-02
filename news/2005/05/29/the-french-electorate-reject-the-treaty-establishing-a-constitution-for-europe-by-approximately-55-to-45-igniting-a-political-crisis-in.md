@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/05/29/the-french-electorate-reject-the-treaty-establishing-a-constitution-for-europe-by-approximately-55-to-45-igniting-a-political-crisis-in.html)  [JSON](/news/2005/05/29/the-french-electorate-reject-the-treaty-establishing-a-constitution-for-europe-by-approximately-55-to-45-igniting-a-political-crisis-in.json)  [XML](/news/2005/05/29/the-french-electorate-reject-the-treaty-establishing-a-constitution-for-europe-by-approximately-55-to-45-igniting-a-political-crisis-in.xml)  
+
 ### [2005-05-29](/news/2005/05/29/index.md)
 
+##### France
 #  The French electorate reject the Treaty establishing a Constitution for Europe by approximately 55% to 45%, igniting a political crisis in the union and dealing a sharp blow to French President Jacques Chirac. All 25 EU member states must ratify the treaty for it to come into effect - 9 have done so to date, but only Spain has previously held a referendum. 
 
 French voters rejected a proposed European Union constitution Sunday, igniting a political crisis in the alliance and dealing a sharp blow to French President Jacques Chirac.With nearly all ballots...
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4592243.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=a3oVPn4tzM84&refer=europe)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000085&sid=a3oVPn4tzM84&refer=europe)
 3. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-eufrance30may30,1,5607660.story?coll=la-headlines-world)
-4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8637163)
+4. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8637163)
 4. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:

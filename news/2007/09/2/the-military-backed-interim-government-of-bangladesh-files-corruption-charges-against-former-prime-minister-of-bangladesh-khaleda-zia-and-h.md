@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/2/the-military-backed-interim-government-of-bangladesh-files-corruption-charges-against-former-prime-minister-of-bangladesh-khaleda-zia-and-h.html)  [JSON](/news/2007/09/2/the-military-backed-interim-government-of-bangladesh-files-corruption-charges-against-former-prime-minister-of-bangladesh-khaleda-zia-and-h.json)  [XML](/news/2007/09/2/the-military-backed-interim-government-of-bangladesh-files-corruption-charges-against-former-prime-minister-of-bangladesh-khaleda-zia-and-h.xml)  
+
 ### [2007-09-2](/news/2007/09/2/index.md)
 
+##### Bangladesh
 #  The military-backed interim government of Bangladesh files corruption charges against former Prime Minister of Bangladesh Khaleda Zia and her younger son. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press via International Herald Tribune](http://www.iht.com/articles/ap/2007/09/02/asia/AS-GEN-Bangladesh-Ex-Prime-Minister.php)
 

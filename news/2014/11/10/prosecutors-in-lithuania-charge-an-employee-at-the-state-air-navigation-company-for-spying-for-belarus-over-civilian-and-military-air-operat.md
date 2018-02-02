@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/11/10/prosecutors-in-lithuania-charge-an-employee-at-the-state-air-navigation-company-for-spying-for-belarus-over-civilian-and-military-air-operat.html)  [JSON](/news/2014/11/10/prosecutors-in-lithuania-charge-an-employee-at-the-state-air-navigation-company-for-spying-for-belarus-over-civilian-and-military-air-operat.json)  [XML](/news/2014/11/10/prosecutors-in-lithuania-charge-an-employee-at-the-state-air-navigation-company-for-spying-for-belarus-over-civilian-and-military-air-operat.xml)  
+
 ### [2014-11-10](/news/2014/11/10/index.md)
 
+##### Lithuania
 # Prosecutors in Lithuania charge an employee at the state air navigation company for spying for Belarus over civilian and military air operations. 
 
 Lithuanian prosecutors have charged an employee at the state air navigation company for spying for Belarus and possibly Russia over civilian and military air operations, officials said on Monday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/11/10/us-lithuania-spying-idUSKCN0IU1W220141110)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2014/11/10/us-lithuania-spying-idUSKCN0IU1W220141110)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

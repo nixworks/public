@@ -1,9 +1,18 @@
+
+Formats: [HTML](/news/2000/01/1/the-hostages-of-indian-airlines-flight-ic-814-return-home-after-the-government-of-india-releases-the-prisoners-demanded-by-the-hijackers.html)  [JSON](/news/2000/01/1/the-hostages-of-indian-airlines-flight-ic-814-return-home-after-the-government-of-india-releases-the-prisoners-demanded-by-the-hijackers.json)  [XML](/news/2000/01/1/the-hostages-of-indian-airlines-flight-ic-814-return-home-after-the-government-of-india-releases-the-prisoners-demanded-by-the-hijackers.xml)  
+
 ### [2000-01-1](/news/2000/01/1/index.md)
 
+##### Indian Airlines
 # The hostages of Indian Airlines flight IC 814 return home after the Government of India releases the prisoners demanded by the hijackers.
 
 
 
+
+### Changes:
+
+1. [The hostages of Indian Airlines flight IC 814 return home after the Indian Governement releases the prisoners demanded by the hijackers.](/news/2000/01/1/the-hostages-of-indian-airlines-flight-ic-814-return-home-after-the-indian-governement-releases-the-prisoners-demanded-by-the-hijackers.md) _2017-05-29 03:15:07 (First version)_
+1. [The hostages of Indian Airlines flight IC 814 return home after the Government of India releases the prisoners demanded by the hijackers.](/news/2000/01/1/the-hostages-of-indian-airlines-flight-ic-814-return-home-after-the-government-of-india-releases-the-prisoners-demanded-by-the-hijackers.md) _(Current version)_
 
 ### Related:
 
@@ -12,8 +21,3 @@
 3. [Jat protesters reach an agreement with the Indian government on increased reservations similar to those authorized for economically disadvantaged lower castes. Authorities say at least 19 people have been killed in the three-day demonstrations. Protest leaders call for reopening blockaded roads in the northern state of Haryana. Water restrictions, implemented after protesters damaged the water station's New Dehli feed, remain in effect while engineers repair the equipment. ](/news/2016/02/22/jat-protesters-reach-an-agreement-with-the-indian-government-on-increased-reservations-similar-to-those-authorized-for-economically-disadvan.md) _Context: Government of India_
 4. [The Government of India deploys the Army to the state of Gujarat after two days of caste-related violence results in seven deaths. ](/news/2015/08/27/the-government-of-india-deploys-the-army-to-the-state-of-gujarat-after-two-days-of-caste-related-violence-results-in-seven-deaths.md) _Context: Government of India_
 5. [The Government of India approves the construction of seven stealth frigates and six nuclear submarines for the Indian Navy. ](/news/2015/02/18/the-government-of-india-approves-the-construction-of-seven-stealth-frigates-and-six-nuclear-submarines-for-the-indian-navy.md) _Context: Government of India_
-
-### Changes:
-
-1. [The hostages of Indian Airlines flight IC 814 return home after the Indian Governement releases the prisoners demanded by the hijackers.](/news/2000/01/1/the-hostages-of-indian-airlines-flight-ic-814-return-home-after-the-indian-governement-releases-the-prisoners-demanded-by-the-hijackers.md) _2017-05-29 03:15:07 (First version)_
-1. [The hostages of Indian Airlines flight IC 814 return home after the Government of India releases the prisoners demanded by the hijackers.](/news/2000/01/1/the-hostages-of-indian-airlines-flight-ic-814-return-home-after-the-government-of-india-releases-the-prisoners-demanded-by-the-hijackers.md) _(Current version)_

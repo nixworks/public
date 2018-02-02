@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2008/03/4/brett-favre-quarterback-of-the-green-bay-packers-announces-his-retirement-from-the-nfl-after-17-years.html)  [JSON](/news/2008/03/4/brett-favre-quarterback-of-the-green-bay-packers-announces-his-retirement-from-the-nfl-after-17-years.json)  [XML](/news/2008/03/4/brett-favre-quarterback-of-the-green-bay-packers-announces-his-retirement-from-the-nfl-after-17-years.xml)  
+
 ### [2008-03-4](/news/2008/03/4/index.md)
 
+##### Brett Favre
 #  Brett Favre, quarterback of the Green Bay Packers announces his retirement from the NFL after 17 years.
 
 

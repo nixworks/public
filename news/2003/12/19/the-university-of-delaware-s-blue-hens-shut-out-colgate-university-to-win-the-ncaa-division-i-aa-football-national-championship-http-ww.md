@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/19/the-university-of-delaware-s-blue-hens-shut-out-colgate-university-to-win-the-ncaa-division-i-aa-football-national-championship-http-ww.html)  [JSON](/news/2003/12/19/the-university-of-delaware-s-blue-hens-shut-out-colgate-university-to-win-the-ncaa-division-i-aa-football-national-championship-http-ww.json)  [XML](/news/2003/12/19/the-university-of-delaware-s-blue-hens-shut-out-colgate-university-to-win-the-ncaa-division-i-aa-football-national-championship-http-ww.xml)  
+
 ### [2003-12-19](/news/2003/12/19/index.md)
 
+##### University of Delaware
 #  The University of Delaware's Blue Hens shut out Colgate University to win the NCAA Division I-AA football national championship. [http:--www.delawareonline.com-newsjournal-local-2003-12-20hensarenational.html]
 
 

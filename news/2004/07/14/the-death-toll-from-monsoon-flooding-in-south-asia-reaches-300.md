@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/14/the-death-toll-from-monsoon-flooding-in-south-asia-reaches-300.html)  [JSON](/news/2004/07/14/the-death-toll-from-monsoon-flooding-in-south-asia-reaches-300.json)  [XML](/news/2004/07/14/the-death-toll-from-monsoon-flooding-in-south-asia-reaches-300.xml)  
+
 ### [2004-07-14](/news/2004/07/14/index.md)
 
+##### monsoon
 #  The death toll from monsoon flooding in South Asia reaches 300. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC Australia](http://www.abc.net.au/news/newsitems/200407/s1154246.htm)
 

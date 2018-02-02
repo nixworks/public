@@ -1,24 +1,28 @@
+
+Formats: [HTML](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday.html)  [JSON](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday.json)  [XML](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday.xml)  
+
 ### [2017-09-16](/news/2017/09/16/index.md)
 
+##### United States presidential election, 2020
 # California passes a bill that will move the primaries to March near Super Tuesday. 
 
 California would allocate its delegates just after early nominating contests in Iowa, New Hampshire, Nevada and South Carolina.
 
 
-### Source:
+### Sources:
 
 1. [Politico](http://www.politico.com/story/2017/09/16/california-early-primary-2020-elections-242799)
 1. [Cover Image](http://static.politico.com/f2/1c/77a5cc3c41d4ad7e23f159e99a3d/170916-ricardo-lara-ap-1160.jpg)
+
+### Changes:
+
+1. [California passes a bill that will move the primaries to March near Super Tuesday so that Kamala Harris and Eric Garcetti can have better chances at becoming president. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday-so-that-kamala-harris-and-eric-garcetti-can-have-better-ch.md) _2017-09-17 09:30:05 (First version)_
+1. [California passes a bill that will move the primaries to March near Super Tuesday. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday.md) _(Current version)_
 
 ### Related:
 
 1. [California wants to schedule its primaries earlier than usual, possibly on March or Super Tuesday, to have much more influence in comparison to its weight and diversity and to help Californian candidates, such as Eric Garcetti and Kamala Harris. ](/news/2017/09/14/california-wants-to-schedule-its-primaries-earlier-than-usual-possibly-on-march-or-super-tuesday-to-have-much-more-influence-in-comparison.md) _Context: California, Super Tuesday, United States presidential election, 2020_
 2. [ California moves its 2020 presidential primary to March 3, making it fifth in the nominating process after Iowa, New Hampshire, Nevada, and South Carolina. The 2016 primary was held on June 7. ](/news/2017/09/27/california-moves-its-2020-presidential-primary-to-march-3-making-it-fifth-in-the-nominating-process-after-iowa-new-hampshire-nevada-and.md) _Context: California, United States presidential primary_
 3. [ John Kerry wins the Super Tuesday primaries in California, Connecticut, Georgia, Maryland, Massachusetts, New York, Ohio, and Rhode Island and caucus in Minnesota, effectively clinching the nomination. Howard Dean wins in his home state of Vermont even though he is no longer actively campaigning. John Edwards is reported to be withdrawing from the race three hours before polls close in California and just as the caucuses begin in Minnesota.](/news/2004/03/2/john-kerry-wins-the-super-tuesday-primaries-in-california-connecticut-georgia-maryland-massachusetts-new-york-ohio-and-rhode-island.md) _Context: California, Super Tuesday_
-4. [More than a dozen wildfires around Mendocino, Napa, Sonoma, and Yuba counties in California, kill at least ten people, destroy at least 1500 homes and businesses, and force 20 thousand people to evacuate. The Governor of California, Jerry Brown, declares a state of emergency. ](/news/2017/10/9/more-than-a-dozen-wildfires-around-mendocino-napa-sonoma-and-yuba-counties-in-california-kill-at-least-ten-people-destroy-at-least-1500.md) _Context: California_
-5. [Governor Jerry Brown signs legislation to make California a sanctuary state. Next January, this law will prevent police from inquiring about immigration status during routine interactions, and will reduce law enforcement cooperation with U.S. immigration officers. ](/news/2017/10/5/governor-jerry-brown-signs-legislation-to-make-california-a-sanctuary-state-next-january-this-law-will-prevent-police-from-inquiring-about.md) _Context: California_
-
-### Changes:
-
-1. [California passes a bill that will move the primaries to March near Super Tuesday so that Kamala Harris and Eric Garcetti can have better chances at becoming president. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday-so-that-kamala-harris-and-eric-garcetti-can-have-better-ch.md) _2017-09-17 09:30:05 (First version)_
-1. [California passes a bill that will move the primaries to March near Super Tuesday. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday.md) _(Current version)_
+4. [Two 15-year-old students are shot and three others injured at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-shot-and-three-others-injured-at-sal-castro-middle-school-in-los-angeles-california-a-12-year-old-female-stud.md) _Context: California_
+5. [The cost of the Oroville Dam spill rises to US$870 million. The U.S. state of California continues to hope for federal aid for the project. ](/news/2018/01/26/the-cost-of-the-oroville-dam-spill-rises-to-us-870-million-the-u-s-state-of-california-continues-to-hope-for-federal-aid-for-the-project.md) _Context: California_

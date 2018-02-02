@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/9/at-least-40-people-die-in-mogadishu-in-heavy-fighting-between-ethiopian-forces-and-somalian-islamist-insurgents.html)  [JSON](/news/2007/11/9/at-least-40-people-die-in-mogadishu-in-heavy-fighting-between-ethiopian-forces-and-somalian-islamist-insurgents.json)  [XML](/news/2007/11/9/at-least-40-people-die-in-mogadishu-in-heavy-fighting-between-ethiopian-forces-and-somalian-islamist-insurgents.xml)  
+
 ### [2007-11-9](/news/2007/11/9/index.md)
 
+##### Mogadishu
 #  At least 40 people die in Mogadishu in heavy fighting between Ethiopian forces and Somalian Islamist insurgents. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via News Limited](http://www.news.com.au/story/0,10117,22734518-401,00.html)
 

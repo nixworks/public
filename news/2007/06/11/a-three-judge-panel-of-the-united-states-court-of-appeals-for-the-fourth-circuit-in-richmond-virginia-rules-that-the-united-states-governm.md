@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/11/a-three-judge-panel-of-the-united-states-court-of-appeals-for-the-fourth-circuit-in-richmond-virginia-rules-that-the-united-states-governm.html)  [JSON](/news/2007/06/11/a-three-judge-panel-of-the-united-states-court-of-appeals-for-the-fourth-circuit-in-richmond-virginia-rules-that-the-united-states-governm.json)  [XML](/news/2007/06/11/a-three-judge-panel-of-the-united-states-court-of-appeals-for-the-fourth-circuit-in-richmond-virginia-rules-that-the-united-states-governm.xml)  
+
 ### [2007-06-11](/news/2007/06/11/index.md)
 
+##### Fourth Circuit Appeals Court
 #  A three-judge panel of the United States Court of Appeals for the Fourth Circuit in Richmond, Virginia rules that the United States government cannot indefinitely detain U.S. residents as "enemy combatants." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://edition.cnn.com/2007/LAW/06/11/terror.ruling.ap/index.html?eref=rss_world)
 

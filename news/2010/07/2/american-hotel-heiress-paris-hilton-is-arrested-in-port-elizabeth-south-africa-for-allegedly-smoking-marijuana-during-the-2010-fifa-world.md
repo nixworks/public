@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/2/american-hotel-heiress-paris-hilton-is-arrested-in-port-elizabeth-south-africa-for-allegedly-smoking-marijuana-during-the-2010-fifa-world.html)  [JSON](/news/2010/07/2/american-hotel-heiress-paris-hilton-is-arrested-in-port-elizabeth-south-africa-for-allegedly-smoking-marijuana-during-the-2010-fifa-world.json)  [XML](/news/2010/07/2/american-hotel-heiress-paris-hilton-is-arrested-in-port-elizabeth-south-africa-for-allegedly-smoking-marijuana-during-the-2010-fifa-world.xml)  
+
 ### [2010-07-2](/news/2010/07/2/index.md)
 
+##### Paris Hilton
 # American hotel heiress Paris Hilton is arrested in Port Elizabeth, South Africa, for allegedly smoking marijuana during the 2010 FIFA World Cup match between Brazil and the Netherlands. 
 
 Paris Hilton has been arrested in South Africa for allegedly smoking marijuana during a World Cup match.
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/celebritynews/7869412/Paris-Hilton-arrested-for-smoking-marijuana-during-Brazil-Holland-game.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01671/PARIS-HILTON-TWITT_1671814a.jpg)

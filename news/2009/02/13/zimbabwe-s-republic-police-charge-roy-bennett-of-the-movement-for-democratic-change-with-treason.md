@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/13/zimbabwe-s-republic-police-charge-roy-bennett-of-the-movement-for-democratic-change-with-treason.html)  [JSON](/news/2009/02/13/zimbabwe-s-republic-police-charge-roy-bennett-of-the-movement-for-democratic-change-with-treason.json)  [XML](/news/2009/02/13/zimbabwe-s-republic-police-charge-roy-bennett-of-the-movement-for-democratic-change-with-treason.xml)  
+
 ### [2009-02-13](/news/2009/02/13/index.md)
 
+##### Zimbabwe
 #  Zimbabwe's Republic Police charge Roy Bennett of the Movement for Democratic Change with treason. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7889711.stm)
 

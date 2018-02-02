@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/9/silvio-berlusconi-s-centre-right-coalition-is-routed-in-the-italian-local-elections.html)  [JSON](/news/2003/06/9/silvio-berlusconi-s-centre-right-coalition-is-routed-in-the-italian-local-elections.json)  [XML](/news/2003/06/9/silvio-berlusconi-s-centre-right-coalition-is-routed-in-the-italian-local-elections.xml)  
+
 ### [2003-06-9](/news/2003/06/9/index.md)
 
+##### Silvio Berlusconi
 #  Silvio Berlusconi's centre-right coalition is routed in the Italian local elections.
 
 

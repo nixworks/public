@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/10/18/a-referendum-is-held-in-belarus-on-a-proposal-by-president-alexander-lukashenko-to-permit-lukashenko-to-run-for-a-third-term-by-amending-th.html)  [JSON](/news/2004/10/18/a-referendum-is-held-in-belarus-on-a-proposal-by-president-alexander-lukashenko-to-permit-lukashenko-to-run-for-a-third-term-by-amending-th.json)  [XML](/news/2004/10/18/a-referendum-is-held-in-belarus-on-a-proposal-by-president-alexander-lukashenko-to-permit-lukashenko-to-run-for-a-third-term-by-amending-th.xml)  
+
 ### [2004-10-18](/news/2004/10/18/index.md)
 
+##### Monday's referendum
 #  A referendum is held in Belarus on a proposal by President Alexander Lukashenko to permit Lukashenko to run for a third term by amending the country's constitution to remove term limits. The Belarus electoral commission says the referendum won the support of at least 75 percent of voters, but independent elections monitors say that the voting procedures "fell significantly short" of international standards. In Minsk, the capital, more than 2,000 people protest the results of the referendum. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/3752930.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6532252)
-2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6532252)
 
 ### Related:
 

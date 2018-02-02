@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/09/14/the-international-atomic-energy-agency-call-a-united-states-house-of-representatives-committee-report-on-iran-s-nuclear-capabilities-outra.html)  [JSON](/news/2006/09/14/the-international-atomic-energy-agency-call-a-united-states-house-of-representatives-committee-report-on-iran-s-nuclear-capabilities-outra.json)  [XML](/news/2006/09/14/the-international-atomic-energy-agency-call-a-united-states-house-of-representatives-committee-report-on-iran-s-nuclear-capabilities-outra.xml)  
+
 ### [2006-09-14](/news/2006/09/14/index.md)
 
+##### IAEA
 #  The International Atomic Energy Agency call a United States House of Representatives committee report on Iran's nuclear capabilities "outrageous and dishonest." 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/09/13/AR2006091302052.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2006/09/13/AR2006091302052.html)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

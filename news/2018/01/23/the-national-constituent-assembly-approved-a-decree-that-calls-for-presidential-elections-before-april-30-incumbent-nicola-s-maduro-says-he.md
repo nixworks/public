@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/23/the-national-constituent-assembly-approved-a-de
 
 ### [2018-01-23](/news/2018/01/23/index.md)
 
+##### Venezuelan presidential election, 2018
 # The National Constituent Assembly approved a decree that calls for presidential elections before April 30. Incumbent Nicolas Maduro says he will compete for re-election. 
 
 Should the presidential vote be perceived as fraudulent, further foreign sanctions could come, including from US President Donald Trump.

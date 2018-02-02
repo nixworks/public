@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/7/the-nobel-prize-in-physics-is-awarded-jointly-to-alexei-abrikosov-vitaly-ginzburg-and-anthony-leggett-for-their-work-on-the-theory-of-supe.html)  [JSON](/news/2003/10/7/the-nobel-prize-in-physics-is-awarded-jointly-to-alexei-abrikosov-vitaly-ginzburg-and-anthony-leggett-for-their-work-on-the-theory-of-supe.json)  [XML](/news/2003/10/7/the-nobel-prize-in-physics-is-awarded-jointly-to-alexei-abrikosov-vitaly-ginzburg-and-anthony-leggett-for-their-work-on-the-theory-of-supe.xml)  
+
 ### [2003-10-7](/news/2003/10/7/index.md)
 
+##### Nobel Prize in Physics
 #  The Nobel Prize in Physics is awarded jointly to Alexei Abrikosov, Vitaly Ginzburg and Anthony Leggett for their work on the theory of superconductors and superfluids.
 
 

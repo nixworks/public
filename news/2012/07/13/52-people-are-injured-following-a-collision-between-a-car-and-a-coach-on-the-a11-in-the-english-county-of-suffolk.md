@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/13/52-people-are-injured-following-a-collision-between-a-car-and-a-coach-on-the-a11-in-the-english-county-of-suffolk.html)  [JSON](/news/2012/07/13/52-people-are-injured-following-a-collision-between-a-car-and-a-coach-on-the-a11-in-the-english-county-of-suffolk.json)  [XML](/news/2012/07/13/52-people-are-injured-following-a-collision-between-a-car-and-a-coach-on-the-a11-in-the-english-county-of-suffolk.xml)  
+
 ### [2012-07-13](/news/2012/07/13/index.md)
 
+##### A11
 # 52 people are injured following a collision between a car and a coach on the A11 in the English county of Suffolk. 
 
 Nine people are taken to hospital and 43 are left &quot;walking wounded&quot; in a crash between a coach and a car on the A11 in Suffolk.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-suffolk-18832010)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61565000/jpg/_61565574_a11_130712_rushes.jpg)

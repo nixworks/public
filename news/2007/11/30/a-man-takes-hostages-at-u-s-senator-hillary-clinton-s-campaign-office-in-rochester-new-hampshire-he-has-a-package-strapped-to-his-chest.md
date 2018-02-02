@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/11/30/a-man-takes-hostages-at-u-s-senator-hillary-clinton-s-campaign-office-in-rochester-new-hampshire-he-has-a-package-strapped-to-his-chest.html)  [JSON](/news/2007/11/30/a-man-takes-hostages-at-u-s-senator-hillary-clinton-s-campaign-office-in-rochester-new-hampshire-he-has-a-package-strapped-to-his-chest.json)  [XML](/news/2007/11/30/a-man-takes-hostages-at-u-s-senator-hillary-clinton-s-campaign-office-in-rochester-new-hampshire-he-has-a-package-strapped-to-his-chest.xml)  
+
 ### [2007-11-30](/news/2007/11/30/index.md)
 
+##### hostage
 #  A man takes hostages at U.S. Senator Hillary Clinton's campaign office in Rochester, New Hampshire. He has a package strapped to his chest. The siege ends at 6pm with his arrest. 
 
 A man suspected of holding at least four people hostage at a campaign office of Senator Hillary Rodham Clinton in Rochester, N.H., is in custody.
 
 
-### Source:
+### Sources:
 
 1. [Boston Channel](http://www.thebostonchannel.com/news/14737959/detail.html)
-2. [NYT](http://www.nytimes.com/2007/11/30/us/30cnd-hostage.html?_r=1&hp=&adxnnl=1&oref=slogin&adxnnlx=1196465631-RWKROGqt43DANRYZ4uDAgw)
+2. [NYT](https://www.nytimes.com/2007/11/30/us/30cnd-hostage.html?_r=1&hp=&adxnnl=1&oref=slogin&adxnnlx=1196465631-RWKROGqt43DANRYZ4uDAgw)
 3. [WMUR-TV](http://www.wmur.com/news/14737868/detail.html)
 3. [Cover Image](https://static01.nyt.com/images/2007/11/30/us/01hostage-75.jpg)
 

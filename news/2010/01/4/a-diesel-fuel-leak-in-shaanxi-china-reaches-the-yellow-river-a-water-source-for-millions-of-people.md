@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/4/a-diesel-fuel-leak-in-shaanxi-china-reaches-the-yellow-river-a-water-source-for-millions-of-people.html)  [JSON](/news/2010/01/4/a-diesel-fuel-leak-in-shaanxi-china-reaches-the-yellow-river-a-water-source-for-millions-of-people.json)  [XML](/news/2010/01/4/a-diesel-fuel-leak-in-shaanxi-china-reaches-the-yellow-river-a-water-source-for-millions-of-people.xml)  
+
 ### [2010-01-4](/news/2010/01/4/index.md)
 
+##### diesel fuel leak
 # A diesel fuel leak in Shaanxi, China reaches the Yellow River, a water source for millions of people. 
 
 A spill of around 150,000 litresof diesel oil from a broken pipeline in northwestern China intoa river has started reaching the Yellow River, but drinkingwater is safe for now, state media said on Monday.
 
 
-### Source:
+### Sources:
 
 1. [China.org.cn](http://www.china.org.cn/environment/2010-01/04/content_19174047.htm)
 2. [Reuters](http://uk.reuters.com/article/idUKTOE6030A020100104)

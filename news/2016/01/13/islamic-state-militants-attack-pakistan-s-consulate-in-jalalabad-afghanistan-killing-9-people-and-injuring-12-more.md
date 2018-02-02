@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/13/islamic-state-militants-attack-pakistan-s-consu
 
 ### [2016-01-13](/news/2016/01/13/index.md)
 
+##### War in Afghanistan
 # Islamic State militants attack Pakistan's consulate in Jalalabad, Afghanistan, killing 9 people and injuring 12 more. 
 
 Afghan security forces exchanged fire with gunmen barricaded in a house near the Pakistan consulate in the eastern city of Jalalabad after a suicide bomber blew himself up today, officials said.
@@ -22,6 +23,6 @@ Afghan security forces exchanged fire with gunmen barricaded in a house near the
 
 1. [Four militants attack a state television building in Jalalabad, killing at least six people. The militants are also killed after engaging with Afghan police. ISIL claimed responsibility for the attack. ](/news/2017/05/17/four-militants-attack-a-state-television-building-in-jalalabad-killing-at-least-six-people-the-militants-are-also-killed-after-engaging-wi.md) _Context: Jalalabad, War in Afghanistan_
 2. [At least two people are killed and dozens more are wounded in a suicide bombing in Jalalabad, Nangarhar Province. ](/news/2016/07/2/at-least-two-people-are-killed-and-dozens-more-are-wounded-in-a-suicide-bombing-in-jalalabad-nangarhar-province.md) _Context: Jalalabad, War in Afghanistan_
-3. [United States soldier Bowe Bergdahl is convicted of desertion and dishonorably discharged, but is not imprisoned. ](/news/2017/11/3/united-states-soldier-bowe-bergdahl-is-convicted-of-desertion-and-dishonorably-discharged-but-is-not-imprisoned.md) _Context: War in Afghanistan_
-4. [Two fuel tankers are bombed in the Afghan town of Charikar, killing at least 15 people and injuring at least 27. ](/news/2017/11/1/two-fuel-tankers-are-bombed-in-the-afghan-town-of-charikar-killing-at-least-15-people-and-injuring-at-least-27.md) _Context: War in Afghanistan_
-5. [At least 43 Afghan soldiers are killed in a Taliban attack on an army base in Kandahar Province. Around 10 Taliban fighters also died in the attack. ](/news/2017/10/19/at-least-43-afghan-soldiers-are-killed-in-a-taliban-attack-on-an-army-base-in-kandahar-province-around-10-taliban-fighters-also-died-in-the.md) _Context: War in Afghanistan_
+3. [Attackers detonate explosives before storming the offices of the Save the Children charity in the eastern Afghan city of Jalalabad. ](/news/2018/01/24/attackers-detonate-explosives-before-storming-the-offices-of-the-save-the-children-charity-in-the-eastern-afghan-city-of-jalalabad.md) _Context: Jalalabad_
+4. [The United States Central Command launches an investigation into a video posted on YouTube which appears to show a U.S. service member firing on civilians inside a truck on a road in Afghanistan. The montage video, titled "Happy Few Ordnance Symphony", has since been removed. ](/news/2018/01/10/the-united-states-central-command-launches-an-investigation-into-a-video-posted-on-youtube-which-appears-to-show-a-u-s-service-member-firin.md) _Context: War in Afghanistan_
+5. [United States soldier Bowe Bergdahl is convicted of desertion and dishonorably discharged, but is not imprisoned. ](/news/2017/11/3/united-states-soldier-bowe-bergdahl-is-convicted-of-desertion-and-dishonorably-discharged-but-is-not-imprisoned.md) _Context: War in Afghanistan_

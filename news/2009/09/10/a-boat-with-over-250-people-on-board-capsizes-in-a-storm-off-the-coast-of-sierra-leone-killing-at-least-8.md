@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/09/10/a-boat-with-over-250-people-on-board-capsizes-in-a-storm-off-the-coast-of-sierra-leone-killing-at-least-8.html)  [JSON](/news/2009/09/10/a-boat-with-over-250-people-on-board-capsizes-in-a-storm-off-the-coast-of-sierra-leone-killing-at-least-8.json)  [XML](/news/2009/09/10/a-boat-with-over-250-people-on-board-capsizes-in-a-storm-off-the-coast-of-sierra-leone-killing-at-least-8.xml)  
+
 ### [2009-09-10](/news/2009/09/10/index.md)
 
+##### Sierra Leone
 #  A boat with over 250 people on board capsizes in a storm off the coast of Sierra Leone, killing at least 8. 
 
 Schoolchildren and their parents on their way to start the new school year were feared drowned after a packed ferry sank off the coast of Sierra Leone, officials said Thursday.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/09/200999234320873972.html)
 2. [Awareness Times](http://www.news.sl/drwebsite/publish/article_200512949.shtml)
-3. [New York Times](http://www.nytimes.com/2009/09/11/world/africa/11leone.html)
+3. [New York Times](https://www.nytimes.com/2009/09/11/world/africa/11leone.html)
 3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

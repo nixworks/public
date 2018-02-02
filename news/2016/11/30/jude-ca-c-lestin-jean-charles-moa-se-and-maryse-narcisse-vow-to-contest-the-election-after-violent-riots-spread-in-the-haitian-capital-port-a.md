@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/30/jude-ca-c-lestin-jean-charles-moa-se-and-maryse
 
 ### [2016-11-30](/news/2016/11/30/index.md)
 
+##### Haitian presidential election, round 2
 # Jude Celestin, Jean-Charles Moise and Maryse Narcisse vow to contest the election after violent riots spread in the Haitian capital Port-au-Prince. 
 
 Violent protests erupted in Haiti on Tuesday as losing candidates rejected the preliminary results of an election that indicated Jovenel Mo&iuml;&#8203;se would be the next president.
@@ -21,7 +22,7 @@ Violent protests erupted in Haiti on Tuesday as losing candidates rejected the p
 ### Related:
 
 1. [The Haitian national electoral commission promises to release results of the highly contested elections between the candidates Jovenel Moise of the Haitian Tet Kale Party, Maryse Narcisse of the Fanmi Lavalas and Jude Celestin of the Alternative League for Haitian Progress and Emancipation. ](/news/2016/11/28/the-haitian-national-electoral-commission-promises-to-release-results-of-the-highly-contested-elections-between-the-candidates-jovenel-moise.md) _Context: Jude Celestin, Maryse Narcisse_
-2. [Tensions spread in Haiti after both Maryse Narcisse of the Fanmi Lavalas party and Jovenel Moise of the Haitian Tet Kale Party declare themselves winners. ](/news/2016/11/24/tensions-spread-in-haiti-after-both-maryse-narcisse-of-the-fanmi-lavalas-party-and-jovenel-moise-of-the-haitian-ta-t-kale-party-declare-them.md) _Context: Maryse Narcisse_
-3. [Voters in Haiti go to the polls for the first election in four years with some polling places in the capital Port-au-Prince forced to close due to violence. ](/news/2015/08/9/voters-in-haiti-go-to-the-polls-for-the-first-election-in-four-years-with-some-polling-places-in-the-capital-port-au-prince-forced-to-close.md) _Context: Port-au-Prince_
-4. [Carnival festivities are cancelled after at least twenty people are killed in a float accident in Port-au-Prince. ](/news/2015/02/17/carnival-festivities-are-cancelled-after-at-least-twenty-people-are-killed-in-a-float-accident-in-port-au-prince.md) _Context: Port-au-Prince_
-5. [The office of President of Haiti Michel Martelly claims that his motorcade was attacked by people throwing rocks when he was walking through Port-au-Prince. ](/news/2012/02/17/the-office-of-president-of-haiti-michel-martelly-claims-that-his-motorcade-was-attacked-by-people-throwing-rocks-when-he-was-walking-through.md) _Context: Port-au-Prince_
+2. [The United States closes its embassy in Port-au-Prince, Haiti, due to large-scale protests against the policy of U.S. President Donald Trump. ](/news/2018/01/23/the-united-states-closes-its-embassy-in-port-au-prince-haiti-due-to-large-scale-protests-against-the-policy-of-u-s-president-donald-trump.md) _Context: Port-au-Prince_
+3. [Tensions spread in Haiti after both Maryse Narcisse of the Fanmi Lavalas party and Jovenel Moise of the Haitian Tet Kale Party declare themselves winners. ](/news/2016/11/24/tensions-spread-in-haiti-after-both-maryse-narcisse-of-the-fanmi-lavalas-party-and-jovenel-moise-of-the-haitian-ta-t-kale-party-declare-them.md) _Context: Maryse Narcisse_
+4. [Voters in Haiti go to the polls for the first election in four years with some polling places in the capital Port-au-Prince forced to close due to violence. ](/news/2015/08/9/voters-in-haiti-go-to-the-polls-for-the-first-election-in-four-years-with-some-polling-places-in-the-capital-port-au-prince-forced-to-close.md) _Context: Port-au-Prince_
+5. [Carnival festivities are cancelled after at least twenty people are killed in a float accident in Port-au-Prince. ](/news/2015/02/17/carnival-festivities-are-cancelled-after-at-least-twenty-people-are-killed-in-a-float-accident-in-port-au-prince.md) _Context: Port-au-Prince_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/17/at-least-27-people-are-killed-in-an-accidental-explosion-in-batticaloa-eastern-sri-lanka.html)  [JSON](/news/2010/09/17/at-least-27-people-are-killed-in-an-accidental-explosion-in-batticaloa-eastern-sri-lanka.json)  [XML](/news/2010/09/17/at-least-27-people-are-killed-in-an-accidental-explosion-in-batticaloa-eastern-sri-lanka.xml)  
+
 ### [2010-09-17](/news/2010/09/17/index.md)
 
+##### Batticaloa
 # At least 27 people are killed in an accidental explosion in Batticaloa, eastern Sri Lanka. 
 
 Officials in Sri Lanka say 25 people, not the 60 earlier stated, were killed in an accidental explosion at a police station.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hY3KcWbyJ5hiu8aLd_f79lisa_Vw)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-11341236)
@@ -18,5 +22,5 @@ Officials in Sri Lanka say 25 people, not the 60 earlier stated, were killed in 
 1. [ Sri Lankan voters in the Batticaloa district, an area formerly controlled by the Tamil Tigers, go to the polls in local government elections for first time in ten years. ](/news/2008/03/10/sri-lankan-voters-in-the-batticaloa-district-an-area-formerly-controlled-by-the-tamil-tigers-go-to-the-polls-in-local-government-election.md) _Context: Batticaloa, Sri Lanka_
 2. [ Sri Lankan Civil War: Eleven people die in fighting between the Sri Lanka Army and the Tamil Tigers in the Batticaloa district. ](/news/2007/03/21/sri-lankan-civil-war-eleven-people-die-in-fighting-between-the-sri-lanka-army-and-the-tamil-tigers-in-the-batticaloa-district.md) _Context: Batticaloa, Sri Lanka_
 3. [ Joseph Pararajasingham, 71, a pro&ndash;Tamil Tiger politician, was shot dead at a Christmas Midnight Mass in Batticaloa, Sri Lanka. ](/news/2005/12/25/joseph-pararajasingham-71-a-pro-ndash-tamil-tiger-politician-was-shot-dead-at-a-christmas-midnight-mass-in-batticaloa-sri-lanka.md) _Context: Batticaloa, Sri Lanka_
-4. [A journalist for the British newspaper "Financial Times" is killed by a crocodile in Sri Lanka. ](/news/2017/09/15/a-journalist-for-the-british-newspaper-financial-times-is-killed-by-a-crocodile-in-sri-lanka.md) _Context: Sri Lanka_
-5. [At least 126 people are dead, and 97 missing, after mudslides and floods caused by heavy rain in Sri Lanka. Over 100,000 people have been displaced. ](/news/2017/05/28/at-least-126-people-are-dead-and-97-missing-after-mudslides-and-floods-caused-by-heavy-rain-in-sri-lanka-over-100-000-people-have-been-di.md) _Context: Sri Lanka_
+4. [Cyclone Ockhi hits southern India causing 13 deaths in Tamil Nadu and Kerala. The cyclone kills 15 people and displaces another 200,000 persons in Sri Lanka. ](/news/2017/12/2/cyclone-ockhi-hits-southern-india-causing-13-deaths-in-tamil-nadu-and-kerala-the-cyclone-kills-15-people-and-displaces-another-200-000-pers.md) _Context: Sri Lanka_
+5. [A journalist for the British newspaper "Financial Times" is killed by a crocodile in Sri Lanka. ](/news/2017/09/15/a-journalist-for-the-british-newspaper-financial-times-is-killed-by-a-crocodile-in-sri-lanka.md) _Context: Sri Lanka_

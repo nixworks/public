@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/4/australian-troops-enter-the-town-of-same-in-east-timor-where-fugitive-east-timorese-army-officer-alfredo-reinado-was-located-with-orders-to.html)  [JSON](/news/2007/03/4/australian-troops-enter-the-town-of-same-in-east-timor-where-fugitive-east-timorese-army-officer-alfredo-reinado-was-located-with-orders-to.json)  [XML](/news/2007/03/4/australian-troops-enter-the-town-of-same-in-east-timor-where-fugitive-east-timorese-army-officer-alfredo-reinado-was-located-with-orders-to.xml)  
+
 ### [2007-03-4](/news/2007/03/4/index.md)
 
+##### Australia
 #  Australian troops enter the town of Same in East Timor where fugitive East Timorese army officer Alfredo Reinado was located with orders to arrest Reinado from the President of East Timor Xanana GusmGBPo. Reinado evades capture but five of his men are killed in the Battle of Same. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP and AFP via Sydney Morning Herald](http://www.smh.com.au/news/world/fugitive-reinado-escapes-again/2007/03/04/1172943260689.html?s_cid=rss_smh)
 2. [ABC News Australia](http://www.abc.net.au/news/newsitems/200703/s1862405.htm)

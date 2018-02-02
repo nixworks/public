@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/27/myanmar-extends-the-house-arrest-detention-of-opposition-leader-aung-san-suu-kyi-for-another-year-amid-continued-pressure-from-the-u-n-fo.html)  [JSON](/news/2006/05/27/myanmar-extends-the-house-arrest-detention-of-opposition-leader-aung-san-suu-kyi-for-another-year-amid-continued-pressure-from-the-u-n-fo.json)  [XML](/news/2006/05/27/myanmar-extends-the-house-arrest-detention-of-opposition-leader-aung-san-suu-kyi-for-another-year-amid-continued-pressure-from-the-u-n-fo.xml)  
+
 ### [2006-05-27](/news/2006/05/27/index.md)
 
+##### Myanmar
 #  Myanmar extends the house arrest detention of opposition leader Aung San Suu Kyi for another year, amid continued pressure from the U.N. for her release. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/5022626.stm)
 2. [Bangkok Post](http://www.bangkokpost.com/breaking_news/breakingnews.php?id=99290)

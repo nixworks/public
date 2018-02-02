@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/11/the-european-extremely-large-telescope-is-given-the-go-ahead-by-member-states-of-the-european-southern-observatory-organisation.html)  [JSON](/news/2012/06/11/the-european-extremely-large-telescope-is-given-the-go-ahead-by-member-states-of-the-european-southern-observatory-organisation.json)  [XML](/news/2012/06/11/the-european-extremely-large-telescope-is-given-the-go-ahead-by-member-states-of-the-european-southern-observatory-organisation.xml)  
+
 ### [2012-06-11](/news/2012/06/11/index.md)
 
+##### European Extremely Large Telescope
 # The European Extremely Large Telescope is given the go-ahead by member states of the European Southern Observatory organisation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-18396853)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60832000/jpg/_60832239_60832238.jpg)

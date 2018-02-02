@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/3/four-dismembered-bodies-including-two-of-journalists-are-found-in-the-mexican-state-of-veracruz.html)  [JSON](/news/2012/05/3/four-dismembered-bodies-including-two-of-journalists-are-found-in-the-mexican-state-of-veracruz.json)  [XML](/news/2012/05/3/four-dismembered-bodies-including-two-of-journalists-are-found-in-the-mexican-state-of-veracruz.xml)  
+
 ### [2012-05-3](/news/2012/05/3/index.md)
 
+##### Mexican
 # Four dismembered bodies, including two of journalists, are found in the Mexican state of Veracruz. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/05/03/justice/mexico-journalists-killed/index.html)
 

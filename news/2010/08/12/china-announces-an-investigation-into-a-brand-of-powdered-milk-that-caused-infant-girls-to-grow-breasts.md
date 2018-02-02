@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/12/china-announces-an-investigation-into-a-brand-of-powdered-milk-that-caused-infant-girls-to-grow-breasts.html)  [JSON](/news/2010/08/12/china-announces-an-investigation-into-a-brand-of-powdered-milk-that-caused-infant-girls-to-grow-breasts.json)  [XML](/news/2010/08/12/china-announces-an-investigation-into-a-brand-of-powdered-milk-that-caused-infant-girls-to-grow-breasts.xml)  
+
 ### [2010-08-12](/news/2010/08/12/index.md)
 
+##### China
 # China announces an investigation into a brand of powdered milk that caused infant girls to grow breasts. 
 
 The health ministry in China is investigating reports that a brand of powdered milk caused infant girls to grow breasts.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10955585)
 2. [Sify](http://sify.com/news/china-launches-probe-into-milk-powder-controversy-news-international-kimpkejadih.html)

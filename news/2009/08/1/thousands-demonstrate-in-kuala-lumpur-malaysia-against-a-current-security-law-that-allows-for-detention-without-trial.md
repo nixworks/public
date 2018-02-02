@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/1/thousands-demonstrate-in-kuala-lumpur-malaysia-against-a-current-security-law-that-allows-for-detention-without-trial.html)  [JSON](/news/2009/08/1/thousands-demonstrate-in-kuala-lumpur-malaysia-against-a-current-security-law-that-allows-for-detention-without-trial.json)  [XML](/news/2009/08/1/thousands-demonstrate-in-kuala-lumpur-malaysia-against-a-current-security-law-that-allows-for-detention-without-trial.xml)  
+
 ### [2009-08-1](/news/2009/08/1/index.md)
 
+##### Kuala Lumpur
 #  Thousands demonstrate in Kuala Lumpur, Malaysia, against a current security law that allows for detention without trial. 
 
 Police use tear gas against people demonstrating against indefinite detention.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/08/20098174920522755.html)
 2. [Bernama](http://www.bernama.com/bernama/v5/newsgeneral.php?id=429546)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/18/suspected-muslim-insurgents-detonate-a-bomb-in-southern-thailand-killing-one-and-injuring-23-people.html)  [JSON](/news/2011/04/18/suspected-muslim-insurgents-detonate-a-bomb-in-southern-thailand-killing-one-and-injuring-23-people.json)  [XML](/news/2011/04/18/suspected-muslim-insurgents-detonate-a-bomb-in-southern-thailand-killing-one-and-injuring-23-people.xml)  
+
 ### [2011-04-18](/news/2011/04/18/index.md)
 
+##### Muslim
 # Suspected Muslim insurgents detonate a bomb in southern Thailand, killing one and injuring 23 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_658150.html)
 

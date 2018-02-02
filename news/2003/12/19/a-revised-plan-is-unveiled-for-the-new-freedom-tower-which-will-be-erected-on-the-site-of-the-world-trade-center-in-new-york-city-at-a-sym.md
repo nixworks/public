@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/19/a-revised-plan-is-unveiled-for-the-new-freedom-tower-which-will-be-erected-on-the-site-of-the-world-trade-center-in-new-york-city-at-a-sym.html)  [JSON](/news/2003/12/19/a-revised-plan-is-unveiled-for-the-new-freedom-tower-which-will-be-erected-on-the-site-of-the-world-trade-center-in-new-york-city-at-a-sym.json)  [XML](/news/2003/12/19/a-revised-plan-is-unveiled-for-the-new-freedom-tower-which-will-be-erected-on-the-site-of-the-world-trade-center-in-new-york-city-at-a-sym.xml)  
+
 ### [2003-12-19](/news/2003/12/19/index.md)
 
+##### One World Trade Center
 #  A revised plan is unveiled for the new Freedom Tower which will be erected on the site of the World Trade Center in New York City. At a symbolic height of 1,776 feet (541 m) (1776 is significant as the year of the United States Declaration of Independence) the projected edifice will be among the tallest buildings in the world. 
 
 

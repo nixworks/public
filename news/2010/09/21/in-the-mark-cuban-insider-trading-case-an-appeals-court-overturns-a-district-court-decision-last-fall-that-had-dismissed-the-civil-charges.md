@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/21/in-the-mark-cuban-insider-trading-case-an-appeals-court-overturns-a-district-court-decision-last-fall-that-had-dismissed-the-civil-charges.html)  [JSON](/news/2010/09/21/in-the-mark-cuban-insider-trading-case-an-appeals-court-overturns-a-district-court-decision-last-fall-that-had-dismissed-the-civil-charges.json)  [XML](/news/2010/09/21/in-the-mark-cuban-insider-trading-case-an-appeals-court-overturns-a-district-court-decision-last-fall-that-had-dismissed-the-civil-charges.xml)  
+
 ### [2010-09-21](/news/2010/09/21/index.md)
 
+##### Mark Cuban
 # In the Mark Cuban insider trading case, an appeals court overturns a district court decision last fall that had dismissed the civil charges brought against Cuban by the U.S. Securities and Exchange Commission. 
 
 Appeals court says there is sufficient credible evidence to put SEC case back on track.
 
 
-### Source:
+### Sources:
 
 1. [MarketWatch](http://www.marketwatch.com/story/mark-cuban-inside-trading-case-revived-2010-09-21)
 1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)

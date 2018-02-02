@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/01/29/gunmen-attack-a-police-station-in-the-nigerian-city-of-kano-with-boko-haram-believed-responsible.html)  [JSON](/news/2012/01/29/gunmen-attack-a-police-station-in-the-nigerian-city-of-kano-with-boko-haram-believed-responsible.json)  [XML](/news/2012/01/29/gunmen-attack-a-police-station-in-the-nigerian-city-of-kano-with-boko-haram-believed-responsible.xml)  
+
 ### [2012-01-29](/news/2012/01/29/index.md)
 
+##### Nigeria
 # Gunmen attack a police station in the Nigerian city of Kano, with Boko Haram believed responsible. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/01/29/us-nigeria-attack-idUSTRE80S0NE20120129)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/01/29/us-nigeria-attack-idUSTRE80S0NE20120129)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
@@ -16,4 +20,4 @@
 2. [Five members of the Nigerian Islamist group Boko Haram and two Nigerian Army soldiers are killed in fighting in the city of Kano. ](/news/2013/11/9/five-members-of-the-nigerian-islamist-group-boko-haram-and-two-nigerian-army-soldiers-are-killed-in-fighting-in-the-city-of-kano.md) _Context: Boko Haram, Kano, Nigeria_
 3. [Nine women are shot to death in the Nigerian city of Kano. According to reports, all of them were involved in a polio vaccination policy and were most probably killed by the Islamist movement Boko Haram, which has previously threatened to target those involved in vaccinations. ](/news/2013/02/8/nine-women-are-shot-to-death-in-the-nigerian-city-of-kano-according-to-reports-all-of-them-were-involved-in-a-polio-vaccination-policy-and.md) _Context: Boko Haram, Kano, Nigeria_
 4. [The death toll of a series of co-ordinated bombing attacks in Kano, Nigeria, rises to more than 140. The attacks, which targeted police stations across the city, are attributed to Islamist group Boko Haram. ](/news/2012/01/21/the-death-toll-of-a-series-of-co-ordinated-bombing-attacks-in-kano-nigeria-rises-to-more-than-140-the-attacks-which-targeted-police-stat.md) _Context: Boko Haram, Kano, Nigeria_
-5. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _Context: Boko Haram, Nigeria_
+5. [Suspected Boko Haram suicide bombers kill 12 people and injure 48 others, in Maiduguri, Nigeria. ](/news/2018/01/17/suspected-boko-haram-suicide-bombers-kill-12-people-and-injure-48-others-in-maiduguri-nigeria.md) _Context: Boko Haram, Nigeria_

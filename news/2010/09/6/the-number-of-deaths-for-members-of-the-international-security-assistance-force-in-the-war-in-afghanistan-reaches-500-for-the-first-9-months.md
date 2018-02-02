@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/09/6/the-number-of-deaths-for-members-of-the-international-security-assistance-force-in-the-war-in-afghanistan-reaches-500-for-the-first-9-months.html)  [JSON](/news/2010/09/6/the-number-of-deaths-for-members-of-the-international-security-assistance-force-in-the-war-in-afghanistan-reaches-500-for-the-first-9-months.json)  [XML](/news/2010/09/6/the-number-of-deaths-for-members-of-the-international-security-assistance-force-in-the-war-in-afghanistan-reaches-500-for-the-first-9-months.xml)  
+
 ### [2010-09-6](/news/2010/09/6/index.md)
 
+##### International Security Assistance Force
 # The number of deaths for members of the International Security Assistance Force in the War in Afghanistan reaches 500 for the first 9 months of 2010 as opposed to 521 for all of 2009. 
 
 The number of foreign troops killed in Afghanistan this year has reached at least 500, compared with 521 in all of 2009, according to an independent monitoring site on Monday and a tally compiled by Reuters.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6850LL20100906)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100906&t=2&i=198118147&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-09-06T180644Z_01_BTRE6851EBB00_RTROPTP_0_ITALY)
+1. [Reuters](https://www.reuters.com/article/idUSTRE6850LL20100906)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20100906&t=2&i=198118147&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-09-06T180644Z_01_BTRE6851EBB00_RTROPTP_0_ITALY)
 
 ### Related:
 

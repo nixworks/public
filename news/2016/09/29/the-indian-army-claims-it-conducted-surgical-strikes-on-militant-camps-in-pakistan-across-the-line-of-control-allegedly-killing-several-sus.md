@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/29/the-indian-army-claims-it-conducted-surgical-st
 
 ### [2016-09-29](/news/2016/09/29/index.md)
 
+##### 2016 India-Pakistan military confrontation
 # The Indian Army claims it conducted surgical strikes on militant camps in Pakistan across the Line of Control, allegedly-killing several suspected militants. However, Pakistan rejects this claim and terms it cross-border firing that killed two of its soldiers. 
 
 Indian officials said elite troops crossed into Pakistan-ruled Kashmir on Thursday and killed suspected militants preparing to infiltrate and carry out attacks on major cities, in a surprise raid that raised tensions between the nuclear-armed rivals.

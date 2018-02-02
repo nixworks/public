@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/08/19/it-is-reported-that-uk-work-and-pensions-secretary-iain-duncan-smith-s-department-has-made-a-formal-complaint-to-the-bbc-over-claims-of-anti.html)  [JSON](/news/2012/08/19/it-is-reported-that-uk-work-and-pensions-secretary-iain-duncan-smith-s-department-has-made-a-formal-complaint-to-the-bbc-over-claims-of-anti.json)  [XML](/news/2012/08/19/it-is-reported-that-uk-work-and-pensions-secretary-iain-duncan-smith-s-department-has-made-a-formal-complaint-to-the-bbc-over-claims-of-anti.xml)  
+
 ### [2012-08-19](/news/2012/08/19/index.md)
 
+##### Secretary of State for Work and Pensions
 # It is reported that UK Work and Pensions Secretary Iain Duncan Smith's department has made a formal complaint to the BBC over claims of anti-Government bias, as Duncan Smith himself attacks the Corporation in a "Mail on Sunday" article for what he perceives to be its negative stance towards the coalition. 
 
 Work and Pensions Secretary Iain Duncan Smith&#039;s department has made a formal complaint to the BBC claiming its coverage of the Government is biased, it has emerged.
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/uk/politics/iain-duncan-smith-attacks-bbc-correspondent-for-peeing-all-over-british-industry-8061246.html)
+1. [The Independent](https://www.independent.co.uk/news/uk/politics/iain-duncan-smith-attacks-bbc-correspondent-for-peeing-all-over-british-industry-8061246.html)
 2. [The Telegraph](http://www.telegraph.co.uk/news/politics/9485510/Iain-Duncan-Smith-in-attack-on-BBC-over-jobless-figures.html)
 2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/08/19/10/ids.jpg)
 

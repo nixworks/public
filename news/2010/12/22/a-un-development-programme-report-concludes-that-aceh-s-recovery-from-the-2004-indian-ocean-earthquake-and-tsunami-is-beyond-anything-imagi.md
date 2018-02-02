@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/22/a-un-development-programme-report-concludes-that-aceh-s-recovery-from-the-2004-indian-ocean-earthquake-and-tsunami-is-beyond-anything-imagi.html)  [JSON](/news/2010/12/22/a-un-development-programme-report-concludes-that-aceh-s-recovery-from-the-2004-indian-ocean-earthquake-and-tsunami-is-beyond-anything-imagi.json)  [XML](/news/2010/12/22/a-un-development-programme-report-concludes-that-aceh-s-recovery-from-the-2004-indian-ocean-earthquake-and-tsunami-is-beyond-anything-imagi.xml)  
+
 ### [2010-12-22](/news/2010/12/22/index.md)
 
+##### Aceh
 # A UN Development Programme report concludes that Aceh's recovery from the 2004 Indian Ocean earthquake and tsunami is "beyond anything imaginable six years ago" but that more needs to be done concerning poverty and natural disaster impact. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12056882)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

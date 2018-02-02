@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/22/u-s-presidential-election-2008-former-tennessee-senator-fred-thompson-withdraws-his-candidacy.html)  [JSON](/news/2008/01/22/u-s-presidential-election-2008-former-tennessee-senator-fred-thompson-withdraws-his-candidacy.json)  [XML](/news/2008/01/22/u-s-presidential-election-2008-former-tennessee-senator-fred-thompson-withdraws-his-candidacy.xml)  
+
 ### [2008-01-22](/news/2008/01/22/index.md)
 
+##### 2008
 #  U.S. presidential election, 2008: Former Tennessee Senator Fred Thompson withdraws his candidacy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/POLITICS/01/22/thompson.out/index.html)
 

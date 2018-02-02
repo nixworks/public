@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/30/agathon-rwasa-returns-to-burundi-from-exile-in-tanzania-after-an-agreement-between-his-party-for-the-liberation-of-the-hutu-people-and-the.html)  [JSON](/news/2008/05/30/agathon-rwasa-returns-to-burundi-from-exile-in-tanzania-after-an-agreement-between-his-party-for-the-liberation-of-the-hutu-people-and-the.json)  [XML](/news/2008/05/30/agathon-rwasa-returns-to-burundi-from-exile-in-tanzania-after-an-agreement-between-his-party-for-the-liberation-of-the-hutu-people-and-the.xml)  
+
 ### [2008-05-30](/news/2008/05/30/index.md)
 
+##### Agathon Rwasa
 #  Agathon Rwasa returns to Burundi from exile in Tanzania after an agreement between his Party for the Liberation of the Hutu People and the government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7427154.stm)
 

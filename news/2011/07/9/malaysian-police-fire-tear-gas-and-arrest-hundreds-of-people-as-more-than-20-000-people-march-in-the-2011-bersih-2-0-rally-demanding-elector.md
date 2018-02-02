@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/9/malaysian-police-fire-tear-gas-and-arrest-hundreds-of-people-as-more-than-20-000-people-march-in-the-2011-bersih-2-0-rally-demanding-elector.html)  [JSON](/news/2011/07/9/malaysian-police-fire-tear-gas-and-arrest-hundreds-of-people-as-more-than-20-000-people-march-in-the-2011-bersih-2-0-rally-demanding-elector.json)  [XML](/news/2011/07/9/malaysian-police-fire-tear-gas-and-arrest-hundreds-of-people-as-more-than-20-000-people-march-in-the-2011-bersih-2-0-rally-demanding-elector.xml)  
+
 ### [2011-07-9](/news/2011/07/9/index.md)
 
+##### Malaysian police
 # Malaysian police fire tear gas and arrest hundreds of people as more than 20,000 people march in the 2011 Bersih 2.0 rally demanding electoral reform in Kuala Lumpur. 
 
 Police in Malaysia fire tear gas and water cannons and arrest hundreds of protesters trying to assemble for a banned rally in the capital Kuala Lumpur.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Seattle Post-Intelligencer](http://www.seattlepi.com/news/article/Malaysia-arrests-236-ahead-of-banned-rally-1458822.php)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14076424)

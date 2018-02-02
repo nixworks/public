@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/25/in-response-to-the-mortars-fired-into-israel-that-hit-a-government-building-israeli-warplanes-bomb-smuggling-tunnels-between-egypt-and-the.html)  [JSON](/news/2010/06/25/in-response-to-the-mortars-fired-into-israel-that-hit-a-government-building-israeli-warplanes-bomb-smuggling-tunnels-between-egypt-and-the.json)  [XML](/news/2010/06/25/in-response-to-the-mortars-fired-into-israel-that-hit-a-government-building-israeli-warplanes-bomb-smuggling-tunnels-between-egypt-and-the.xml)  
+
 ### [2010-06-25](/news/2010/06/25/index.md)
 
+##### Palestinian rocket attacks on Israel
 # In response to the mortars fired into Israel that hit a government building, Israeli warplanes bomb smuggling tunnels between Egypt and the Gaza Strip, with one person being wounded in an air attack in Rafah. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5g_T_uxXmE8iluIwqfnVd6pYVgc5Q)
 2. [CNN](http://www.cnn.com/2010/WORLD/meast/06/25/israel.tunnels/?hpt=Sbin)

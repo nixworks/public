@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/10/23/a-suicide-bomber-kills-two-chadian-troops-and-injures-six-other-minusma-peacekeepers-in-an-attack-on-a-checkpoint-at-the-entry-to-the-northe.html)  [JSON](/news/2013/10/23/a-suicide-bomber-kills-two-chadian-troops-and-injures-six-other-minusma-peacekeepers-in-an-attack-on-a-checkpoint-at-the-entry-to-the-northe.json)  [XML](/news/2013/10/23/a-suicide-bomber-kills-two-chadian-troops-and-injures-six-other-minusma-peacekeepers-in-an-attack-on-a-checkpoint-at-the-entry-to-the-northe.xml)  
+
 ### [2013-10-23](/news/2013/10/23/index.md)
 
+##### Chad
 # A suicide bomber kills two Chadian troops and injures six other MINUSMA peacekeepers in an attack on a checkpoint at the entry to the northern town of Tessalit, Mali. 
 
 A suicide blast killed two Chadian troops from the U.N. mission in Mali and injured six other peacekeepers in an assault on a checkpoint at the entry to the northern town of Tessalit on Wednesday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/10/23/us-mali-un-attack-idUSBRE99M17720131023)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2013/10/23/us-mali-un-attack-idUSBRE99M17720131023)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2013/06/10/william-hague-answers-parliamentary-questions-on-britain-s-role-in-the-u-s-surveillance-scandal-though-mps-and-activists-express-dissatisf.html)  [JSON](/news/2013/06/10/william-hague-answers-parliamentary-questions-on-britain-s-role-in-the-u-s-surveillance-scandal-though-mps-and-activists-express-dissatisf.json)  [XML](/news/2013/06/10/william-hague-answers-parliamentary-questions-on-britain-s-role-in-the-u-s-surveillance-scandal-though-mps-and-activists-express-dissatisf.xml)  
+
 ### [2013-06-10](/news/2013/06/10/index.md)
 
+##### William Hague
 # William Hague answers parliamentary questions on Britain's role in the U.S. surveillance scandal, though MPs and activists express dissatisfaction with his answers on whether Britain is similarly spying on its own citizens. 
 
 William Hague faced anger from MPs of all parties and civil liberties campaigners as he refused to be drawn on claims that Britons could have been spied on by GCHQ through a covert deal with the American security agencies.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/06/2013610172413277441.html)
 2. [Press TV](http://www.presstv.ir/detail/2013/06/10/308254/spying/)
 3. [The Guardian](http://www.guardian.co.uk/world/2013/jun/10/william-hague-spying-scandal-nsa-statement)
-4. [The Independent](http://www.independent.co.uk/news/uk/politics/prism-scandal-william-hagues-vagueness-on-us-spying-fails-to-reassure-mps-and-public-over-covert-gchq-deal-with-nsa-8651896.html)
+4. [The Independent](https://www.independent.co.uk/news/uk/politics/prism-scandal-william-hagues-vagueness-on-us-spying-fails-to-reassure-mps-and-public-over-covert-gchq-deal-with-nsa-8651896.html)
 4. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/06/06/20/08-william-hague-pa.jpg)
 
 ### Related:

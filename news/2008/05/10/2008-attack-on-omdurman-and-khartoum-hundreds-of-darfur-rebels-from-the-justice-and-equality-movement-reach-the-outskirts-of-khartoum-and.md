@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/10/2008-attack-on-omdurman-and-khartoum-hundreds-of-darfur-rebels-from-the-justice-and-equality-movement-reach-the-outskirts-of-khartoum-and.html)  [JSON](/news/2008/05/10/2008-attack-on-omdurman-and-khartoum-hundreds-of-darfur-rebels-from-the-justice-and-equality-movement-reach-the-outskirts-of-khartoum-and.json)  [XML](/news/2008/05/10/2008-attack-on-omdurman-and-khartoum-hundreds-of-darfur-rebels-from-the-justice-and-equality-movement-reach-the-outskirts-of-khartoum-and.xml)  
+
 ### [2008-05-10](/news/2008/05/10/index.md)
 
+##### 2008 attack on Omdurman and Khartoum
 #  2008 attack on Omdurman and Khartoum: Hundreds of Darfur rebels from the Justice and Equality Movement reach the outskirts of Khartoum and engage in clashes with the Sudanese military. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5g72XI4pMTIS_8vNapA9PDgI4wEoAD90ISVDO0)
 

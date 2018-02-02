@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/15/australia-and-malaysia-remember-the-1945-sandakan-death-marches-on-their-65th-anniversary.html)  [JSON](/news/2010/08/15/australia-and-malaysia-remember-the-1945-sandakan-death-marches-on-their-65th-anniversary.json)  [XML](/news/2010/08/15/australia-and-malaysia-remember-the-1945-sandakan-death-marches-on-their-65th-anniversary.xml)  
+
 ### [2010-08-15](/news/2010/08/15/index.md)
 
+##### Australia
 # Australia and Malaysia remember the 1945 Sandakan Death Marches on their 65th anniversary. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/65-years-since-sandakan-death-marches-20100815-124rn.html)
 

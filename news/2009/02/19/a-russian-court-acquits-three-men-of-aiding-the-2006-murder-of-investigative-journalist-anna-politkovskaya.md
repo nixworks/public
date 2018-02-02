@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/19/a-russian-court-acquits-three-men-of-aiding-the-2006-murder-of-investigative-journalist-anna-politkovskaya.html)  [JSON](/news/2009/02/19/a-russian-court-acquits-three-men-of-aiding-the-2006-murder-of-investigative-journalist-anna-politkovskaya.json)  [XML](/news/2009/02/19/a-russian-court-acquits-three-men-of-aiding-the-2006-murder-of-investigative-journalist-anna-politkovskaya.xml)  
+
 ### [2009-02-19](/news/2009/02/19/index.md)
 
+##### Russia
 #  A Russian court acquits three men of aiding the 2006 murder of investigative journalist Anna Politkovskaya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7899472.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/14/mattel-recalls-over-18-million-toys-made-in-china-that-may-potentially-be-harmful-to-children.html)  [JSON](/news/2007/08/14/mattel-recalls-over-18-million-toys-made-in-china-that-may-potentially-be-harmful-to-children.json)  [XML](/news/2007/08/14/mattel-recalls-over-18-million-toys-made-in-china-that-may-potentially-be-harmful-to-children.xml)  
+
 ### [2007-08-14](/news/2007/08/14/index.md)
 
+##### Mattel
 #  Mattel recalls over 18 million toys made in China that may potentially be harmful to children. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/6946425.stm)
 2. [Herald Sun](http://www.news.com.au/heraldsun/story/0,21985,22248229-5005961,00.html)

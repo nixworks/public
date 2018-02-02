@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/19/mahinda-rajapakse-is-sworn-in-for-a-second-term-as-president-of-sri-lanka-in-colombo.html)  [JSON](/news/2010/11/19/mahinda-rajapakse-is-sworn-in-for-a-second-term-as-president-of-sri-lanka-in-colombo.json)  [XML](/news/2010/11/19/mahinda-rajapakse-is-sworn-in-for-a-second-term-as-president-of-sri-lanka-in-colombo.xml)  
+
 ### [2010-11-19](/news/2010/11/19/index.md)
 
+##### Mahinda Rajapakse
 # Mahinda Rajapakse is sworn in for a second term as President of Sri Lanka in Colombo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5i2ps9A_OcFavii8NZBPOpNujktFg?docId=CNG.7eddc6a51feddbde3d2014b78a92b8a8.661)
 

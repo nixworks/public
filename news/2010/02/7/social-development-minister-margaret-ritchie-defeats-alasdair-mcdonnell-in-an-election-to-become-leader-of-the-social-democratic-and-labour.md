@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/7/social-development-minister-margaret-ritchie-defeats-alasdair-mcdonnell-in-an-election-to-become-leader-of-the-social-democratic-and-labour.html)  [JSON](/news/2010/02/7/social-development-minister-margaret-ritchie-defeats-alasdair-mcdonnell-in-an-election-to-become-leader-of-the-social-democratic-and-labour.json)  [XML](/news/2010/02/7/social-development-minister-margaret-ritchie-defeats-alasdair-mcdonnell-in-an-election-to-become-leader-of-the-social-democratic-and-labour.xml)  
+
 ### [2010-02-7](/news/2010/02/7/index.md)
 
+##### Minister for Social Development
 # Social Development Minister Margaret Ritchie defeats Alasdair McDonnell in an election to become leader of the Social Democratic and Labour Party (SDLP) following Mark Durkan's resignation yesterday. She is the first woman to take charge of the party in its history and the first female leader of a major party in Northern Ireland. 
 
 Taoiseach Brian Cowen has congratulated Margaret Ritchie on her election as leader of Northern Ireland&#39;s Social Democratic and Labour Party.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8502721.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0207/sdlp.html)

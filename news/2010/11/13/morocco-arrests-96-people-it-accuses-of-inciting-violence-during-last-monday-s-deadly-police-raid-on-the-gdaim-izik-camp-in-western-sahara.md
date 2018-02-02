@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/13/morocco-arrests-96-people-it-accuses-of-inciting-violence-during-last-monday-s-deadly-police-raid-on-the-gdaim-izik-camp-in-western-sahara.html)  [JSON](/news/2010/11/13/morocco-arrests-96-people-it-accuses-of-inciting-violence-during-last-monday-s-deadly-police-raid-on-the-gdaim-izik-camp-in-western-sahara.json)  [XML](/news/2010/11/13/morocco-arrests-96-people-it-accuses-of-inciting-violence-during-last-monday-s-deadly-police-raid-on-the-gdaim-izik-camp-in-western-sahara.xml)  
+
 ### [2010-11-13](/news/2010/11/13/index.md)
 
+##### Morocco
 # Morocco arrests 96 people it accuses of inciting violence during last Monday's deadly police raid on the Gdaim Izik camp in Western Sahara. Half a dozen appear before a military court, including activist Annaama Asfari. 
 
 Morocco arrests 96 people accused of inciting violence during police raid on a squatter camp in disputed Western Sahara.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/20101113215415924684.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/13/2010111322755966150_20.jpg)

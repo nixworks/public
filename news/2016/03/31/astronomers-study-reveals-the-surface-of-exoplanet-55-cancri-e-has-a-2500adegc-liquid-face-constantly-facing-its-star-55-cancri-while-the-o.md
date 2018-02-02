@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/03/31/astronomers-study-reveals-the-surface-of-exoplanet-55-cancri-e-has-a-2500adegc-liquid-face-constantly-facing-its-star-55-cancri-while-the-o.html)  [JSON](/news/2016/03/31/astronomers-study-reveals-the-surface-of-exoplanet-55-cancri-e-has-a-2500adegc-liquid-face-constantly-facing-its-star-55-cancri-while-the-o.json)  [XML](/news/2016/03/31/astronomers-study-reveals-the-surface-of-exoplanet-55-cancri-e-has-a-2500adegc-liquid-face-constantly-facing-its-star-55-cancri-while-the-o.xml)  
+
 ### [2016-03-31](/news/2016/03/31/index.md)
 
+##### exoplanet
 # Astronomers' study reveals the surface of exoplanet 55 Cancri e has a 2500degC liquid face, constantly facing its star 55 Cancri, while the other side is relatively colder and solid. 
 
 For the first time, astronomers map a nearby &quot;super-Earth&quot; exoplanet called 55 Cancri e to find that one hemisphere is almost completely molten rock, while the other half is almost completely solid.
 
 
-### Source:
+### Sources:
 
 1. [Discovery via ABC News](http://www.abc.net.au/news/2016-03-31/two-faced-alien-planet-55-cancri-e-has-solid-and-liquid-surfaces/7287638)
 1. [Cover Image](http://www.abc.net.au/cm/rimage/7176744-1x1-large.jpg?v=4)

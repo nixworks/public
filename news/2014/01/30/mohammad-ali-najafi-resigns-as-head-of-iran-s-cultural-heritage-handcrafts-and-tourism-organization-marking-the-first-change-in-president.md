@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/30/mohammad-ali-najafi-resigns-as-head-of-iran-s-cultural-heritage-handcrafts-and-tourism-organization-marking-the-first-change-in-president.html)  [JSON](/news/2014/01/30/mohammad-ali-najafi-resigns-as-head-of-iran-s-cultural-heritage-handcrafts-and-tourism-organization-marking-the-first-change-in-president.json)  [XML](/news/2014/01/30/mohammad-ali-najafi-resigns-as-head-of-iran-s-cultural-heritage-handcrafts-and-tourism-organization-marking-the-first-change-in-president.xml)  
+
 ### [2014-01-30](/news/2014/01/30/index.md)
 
+##### Mohammad-Ali Najafi
 # Mohammad-Ali Najafi resigns as Head of Iran's Cultural Heritage, Handcrafts and Tourism Organization, marking the first change in President Rouhani's cabinet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Trend](http://en.trend.az/news/politics/2236276.html)
 2. [tehrantimes](http://tehrantimes.com/arts-and-culture/113753-chtho-director-mohammad-ali-najafi-offers-his-resignation)

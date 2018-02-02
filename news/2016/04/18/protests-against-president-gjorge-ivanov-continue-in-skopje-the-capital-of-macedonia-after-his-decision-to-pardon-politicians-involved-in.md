@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/18/protests-against-president-gjorge-ivanov-contin
 
 ### [2016-04-18](/news/2016/04/18/index.md)
 
+##### 2016 Macedonian protests
 # Protests against President Gjorge Ivanov continue in Skopje, the capital of Macedonia, after his decision to pardon politicians involved in a scandal. 
 
 

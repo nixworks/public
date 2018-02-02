@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/2/thousands-of-turkish-cypriots-protest-against-government-of-turkey-inspired-spending-cuts-in-nicosia.html)  [JSON](/news/2011/03/2/thousands-of-turkish-cypriots-protest-against-government-of-turkey-inspired-spending-cuts-in-nicosia.json)  [XML](/news/2011/03/2/thousands-of-turkish-cypriots-protest-against-government-of-turkey-inspired-spending-cuts-in-nicosia.xml)  
+
 ### [2011-03-2](/news/2011/03/2/index.md)
 
+##### Turkish
 # Thousands of Turkish Cypriots protest against Government of Turkey inspired spending cuts in Nicosia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Cyprus Mail](http://www.cyprus-mail.com/cyprus/turkish-cypriots-protest-turkish-backed-austerity-steps/20110302?sms_ss=twitter&at_xt=4d6ea2ef04109e63,0)
 

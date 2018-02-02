@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/27/opposition-activists-protest-for-a-second-day-over-president-of-burundi-pierre-nkurunziza-s-decision-to-run-for-a-third-term-in-office-at-l.html)  [JSON](/news/2015/04/27/opposition-activists-protest-for-a-second-day-over-president-of-burundi-pierre-nkurunziza-s-decision-to-run-for-a-third-term-in-office-at-l.json)  [XML](/news/2015/04/27/opposition-activists-protest-for-a-second-day-over-president-of-burundi-pierre-nkurunziza-s-decision-to-run-for-a-third-term-in-office-at-l.xml)  
+
 ### [2015-04-27](/news/2015/04/27/index.md)
 
+##### Presidents
 # Opposition activists protest for a second day over President of Burundi Pierre Nkurunziza's decision to run for a third term in office. At least two people were killed yesterday in protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-32479368)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82603000/jpg/_82603537_burundi_reuters.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/6/2011-yemeni-protests-protests-continue-in-yemen.html)  [JSON](/news/2011/05/6/2011-yemeni-protests-protests-continue-in-yemen.json)  [XML](/news/2011/05/6/2011-yemeni-protests-protests-continue-in-yemen.xml)  
+
 ### [2011-05-6](/news/2011/05/6/index.md)
 
+##### 2011 Yemeni protests
 # 2011 Yemeni protests: Protests continue in Yemen. 
 
 GCC-brokered exit deal on hold as Saleh rejects calls to quit and pro- and anti-government crowds return to the streets.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/201156111244659925.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/6/201156113332871797_20.jpg)

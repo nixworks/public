@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2012/02/5/the-movement-for-the-emancipation-of-the-niger-delta-claims-responsibility-for-attacking-an-eni-spa-pipeline-carrying-oil-to-the-nigerian-ci.html)  [JSON](/news/2012/02/5/the-movement-for-the-emancipation-of-the-niger-delta-claims-responsibility-for-attacking-an-eni-spa-pipeline-carrying-oil-to-the-nigerian-ci.json)  [XML](/news/2012/02/5/the-movement-for-the-emancipation-of-the-niger-delta-claims-responsibility-for-attacking-an-eni-spa-pipeline-carrying-oil-to-the-nigerian-ci.xml)  
+
 ### [2012-02-5](/news/2012/02/5/index.md)
 
+##### Movement for the Emancipation of the Niger Delta
 # The Movement for the Emancipation of the Niger Delta claims responsibility for attacking an Eni SpA pipeline carrying oil to the Nigerian city of Brass. 
 
+The Movement for the Emancipation of the Niger Delta, the main armed group in Nigeria’s oil-rich southern region, attacked and damaged a pipeline belonging to a unit of Italy’s Eni SpA.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2012-02-05/nigerian-militant-group-mend-says-it-attacked-and-damaged-eni-pipeline.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2012-02-05/nigerian-militant-group-mend-says-it-attacked-and-damaged-eni-pipeline.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-tech-7d25a852b6.jpg)
 
 ### Related:
 

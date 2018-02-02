@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/26/university-of-california-at-san-diego-psychology-researcher-tim-gentner-reportedly-discovers-that-songbirds-are-capable-of-learning-simple.html)  [JSON](/news/2006/04/26/university-of-california-at-san-diego-psychology-researcher-tim-gentner-reportedly-discovers-that-songbirds-are-capable-of-learning-simple.json)  [XML](/news/2006/04/26/university-of-california-at-san-diego-psychology-researcher-tim-gentner-reportedly-discovers-that-songbirds-are-capable-of-learning-simple.xml)  
+
 ### [2006-04-26](/news/2006/04/26/index.md)
 
+##### University of California at San Diego
 #  University of California at San Diego psychology researcher Tim Gentner reportedly discovers that songbirds are capable of learning simple grammar, which may disprove Noam Chomsky's long believed hypothesis that humans are the only organism able to comprehend recursive grammar. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.seattlepi.com/national/1501AP_Bird_Grammar.html)
 

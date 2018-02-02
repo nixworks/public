@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/05/6/the-television-sitcom-friends-airs-its-final-episode-in-the-united-states-and-canada.html)  [JSON](/news/2004/05/6/the-television-sitcom-friends-airs-its-final-episode-in-the-united-states-and-canada.json)  [XML](/news/2004/05/6/the-television-sitcom-friends-airs-its-final-episode-in-the-united-states-and-canada.xml)  
+
 ### [2004-05-6](/news/2004/05/6/index.md)
 
+##### sitcom
 #  The television sitcom "Friends" airs its final episode in the United States and Canada.
 
 

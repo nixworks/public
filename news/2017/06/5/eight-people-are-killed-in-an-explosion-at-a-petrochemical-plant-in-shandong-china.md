@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/5/eight-people-are-killed-in-an-explosion-at-a-pet
 
 ### [2017-06-5](/news/2017/06/5/index.md)
 
+##### 2017 disasters in China
 # Eight people are killed in an explosion at a petrochemical plant in Shandong, China. 
 
 

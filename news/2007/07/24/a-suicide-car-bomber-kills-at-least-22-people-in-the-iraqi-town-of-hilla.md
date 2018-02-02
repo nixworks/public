@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/24/a-suicide-car-bomber-kills-at-least-22-people-in-the-iraqi-town-of-hilla.html)  [JSON](/news/2007/07/24/a-suicide-car-bomber-kills-at-least-22-people-in-the-iraqi-town-of-hilla.json)  [XML](/news/2007/07/24/a-suicide-car-bomber-kills-at-least-22-people-in-the-iraqi-town-of-hilla.xml)  
+
 ### [2007-07-24](/news/2007/07/24/index.md)
 
+##### suicide bomber
 #  A suicide car bomber kills at least 22 people in the Iraqi town of Hilla. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6913010.stm)
 

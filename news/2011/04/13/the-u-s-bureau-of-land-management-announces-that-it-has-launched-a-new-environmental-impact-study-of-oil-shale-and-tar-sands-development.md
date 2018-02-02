@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/13/the-u-s-bureau-of-land-management-announces-that-it-has-launched-a-new-environmental-impact-study-of-oil-shale-and-tar-sands-development.html)  [JSON](/news/2011/04/13/the-u-s-bureau-of-land-management-announces-that-it-has-launched-a-new-environmental-impact-study-of-oil-shale-and-tar-sands-development.json)  [XML](/news/2011/04/13/the-u-s-bureau-of-land-management-announces-that-it-has-launched-a-new-environmental-impact-study-of-oil-shale-and-tar-sands-development.xml)  
+
 ### [2011-04-13](/news/2011/04/13/index.md)
 
+##### Bureau of Land Management
 # The U.S. Bureau of Land Management announces that it has launched a new environmental impact study of oil shale and tar sands development. 
 
 Federal government to take a fresh look at oil shale development in the West
 
 
-### Source:
+### Sources:
 
 1. [Denver Post](http://www.denverpost.com/breakingnews/ci_17835135)
 1. [Cover Image](http://www.denverpost.com/wp-content/themes/denverpost/static/images/denverpost.jpg)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/03/2/meta-analysis-of-42-previous-studies-concludes-chocolate-may-be-good-for-the-heart.html)  [JSON](/news/2012/03/2/meta-analysis-of-42-previous-studies-concludes-chocolate-may-be-good-for-the-heart.json)  [XML](/news/2012/03/2/meta-analysis-of-42-previous-studies-concludes-chocolate-may-be-good-for-the-heart.xml)  
+
 ### [2012-03-2](/news/2012/03/2/index.md)
 
+##### Meta-analysis
 # Meta-analysis of 42 previous studies concludes chocolate may be good for the heart. 
 
 Eating chocolate is not only a treat for the tongue -- it may also have some tangible benefits for heart health, such as lowering blood pressure slightly, according to a study involving more than a thousand people.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/03/02/us-chocolate-heart-idUSTRE8210O420120302)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120302&t=2&i=577676662&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE8210Z9H00)
+1. [Reuters](https://www.reuters.com/article/2012/03/02/us-chocolate-heart-idUSTRE8210O420120302)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120302&t=2&i=577676662&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE8210Z9H00)
 
 ### Related:
 

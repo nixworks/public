@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/5/the-last-king-of-romania-michael-i-dies-at-the-a
 
 ### [2017-12-5](/news/2017/12/5/index.md)
 
+##### King of Romania
 # The last King of Romania, Michael I, dies at the age of 96. 
 
 He was forced to abdicate in 1947 after the communists took over Romania following World War Two.

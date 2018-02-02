@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/11/17/the-british-house-of-lords-passes-a-bill-to-allow-same-sex-couples-to-obtain-civil-partnerships-this-is-the-final-legislative-hurdle-for-t.html)  [JSON](/news/2004/11/17/the-british-house-of-lords-passes-a-bill-to-allow-same-sex-couples-to-obtain-civil-partnerships-this-is-the-final-legislative-hurdle-for-t.json)  [XML](/news/2004/11/17/the-british-house-of-lords-passes-a-bill-to-allow-same-sex-couples-to-obtain-civil-partnerships-this-is-the-final-legislative-hurdle-for-t.xml)  
+
 ### [2004-11-17](/news/2004/11/17/index.md)
 
+##### House of Lords
 #  The British House of Lords passes a bill to allow same-sex couples to obtain civil partnerships. This is the final legislative hurdle for the bill, which is expected to receive Royal Assent later in the week.
 
 

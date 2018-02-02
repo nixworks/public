@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/24/manufacturer-foxconn-closes-a-factory-in-taiyuan-in-china-s-shanxi-province-after-a-fight-breaks-out-between-thousands-of-workers.html)  [JSON](/news/2012/09/24/manufacturer-foxconn-closes-a-factory-in-taiyuan-in-china-s-shanxi-province-after-a-fight-breaks-out-between-thousands-of-workers.json)  [XML](/news/2012/09/24/manufacturer-foxconn-closes-a-factory-in-taiyuan-in-china-s-shanxi-province-after-a-fight-breaks-out-between-thousands-of-workers.xml)  
+
 ### [2012-09-24](/news/2012/09/24/index.md)
 
+##### Foxconn
 # Manufacturer Foxconn closes a factory in Taiyuan in China's Shanxi province after a fight breaks out between thousands of workers. 
 
 It supplies the world&#039;s technology giants, including Apple, but Foxconn has been forced to close a factory after thousands fight.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/technology/technology-news/thousands-involved-in-chinese-factory-fight-20120924-26gn1.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/2/6/g/n/c/image.related.articleLeadwide.620x349.26gn1.png)

@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2005/06/16/in-brazil-minister-jose-dirceu-resigns-due-to-allegations-that-he-knew-about-bribery-but-insists-that-he-is-innocent.html)  [JSON](/news/2005/06/16/in-brazil-minister-jose-dirceu-resigns-due-to-allegations-that-he-knew-about-bribery-but-insists-that-he-is-innocent.json)  [XML](/news/2005/06/16/in-brazil-minister-jose-dirceu-resigns-due-to-allegations-that-he-knew-about-bribery-but-insists-that-he-is-innocent.xml)  
+
 ### [2005-06-16](/news/2005/06/16/index.md)
 
+##### Brazil
 #  In Brazil, minister Jos Dirceu resigns due to allegations that he knew about bribery but insists that he is innocent 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4102142.stm)
-2. [Forbes](http://www.forbes.com/home/feeds/afx/2005/06/17/afx2098167.html)
+2. [Forbes](https://www.forbes.com/home/feeds/afx/2005/06/17/afx2098167.html)
 
 ### Related:
 
-1. [A judge in Peru issues an arrest warrant for former President Alejandro Toledo for allegedly receiving US$20 million in bribes from Odebrecht, a Brazilian construction company, in exchange for a contract deal to build a transoceanic highway between Brazil and the Peruvian coast. Toledo denies any wrongdoing. ](/news/2017/02/10/a-judge-in-peru-issues-an-arrest-warrant-for-former-president-alejandro-toledo-for-allegedly-receiving-us-20-million-in-bribes-from-odebrech.md) _Context: Brazil, bribes_
-2. [ In Brazil, heated arguments in the congress result in fighting and the session is suspended. Fighting begun when former chief of staff Jos Dirceu, who had rejoined the congress, tried to defend the government against the bribery allegations ](/news/2005/06/22/in-brazil-heated-arguments-in-the-congress-result-in-fighting-and-the-session-is-suspended-fighting-begun-when-former-chief-of-staff-jose.md) _Context: Brazil, Jos Dirceu_
-3. [In the town of Janauba, Minas Gerais state, Brazil, a recently dismissed security guard set fire to a childcare center, killing at least four children and a teacher and leaving 25 others, mostly children aged four and five, injured. ](/news/2017/10/5/in-the-town-of-janaaoba-minas-gerais-state-brazil-a-recently-dismissed-security-guard-set-fire-to-a-childcare-center-killing-at-least-fo.md) _Context: Brazil_
-4. [Brazilian police detain fugitive Italian former left-wing guerrilla and convicted murderer Cesare Battisti, as he was attempting to flee across the border into Bolivia to avoid extradition back to Italy and facing his life sentence prison term for four murders in the 1970s. ](/news/2017/10/4/brazilian-police-detain-fugitive-italian-former-left-wing-guerrilla-and-convicted-murderer-cesare-battisti-as-he-was-attempting-to-flee-acr.md) _Context: Brazil_
-5. [Brazilian prosecutor Rodrigo Janot files charges in the Supreme Court against officials in President Michel Temer's Brazilian Democratic Movement Party accusing them of forming a criminal organization. Earlier the Court said, next week, it will consider Temer's request to block Janot from issuing further charges. ](/news/2017/09/8/brazilian-prosecutor-rodrigo-janot-files-charges-in-the-supreme-court-against-officials-in-president-michel-temeras-brazilian-democratic-m.md) _Context: Brazil_
+1. [ In Brazil, heated arguments in the congress result in fighting and the session is suspended. Fighting begun when former chief of staff Jos Dirceu, who had rejoined the congress, tried to defend the government against the bribery allegations ](/news/2005/06/22/in-brazil-heated-arguments-in-the-congress-result-in-fighting-and-the-session-is-suspended-fighting-begun-when-former-chief-of-staff-jose.md) _Context: Brazil, Jos Dirceu_
+2. [The state government of Minas Gerais, Brazil, declares a health emergency in three areas, Belo Horizonte, Itabira and Ponte Nova, over an outbreak of yellow fever. ](/news/2018/01/20/the-state-government-of-minas-gerais-brazil-declares-a-health-emergency-in-three-areas-belo-horizonte-itabira-and-ponte-nova-over-an-ou.md) _Context: Brazil_
+3. [Fifteen people are injured and an infant is killed after a car hits a group of pedestrians near Copacabana Beach in Rio de Janeiro, Brazil. The police report that the driver had an epileptic seizure. ](/news/2018/01/19/fifteen-people-are-injured-and-an-infant-is-killed-after-a-car-hits-a-group-of-pedestrians-near-copacabana-beach-in-rio-de-janeiro-brazil.md) _Context: Brazil_
+4. [An apparent gang riot at Colonia Agroindustrial prison in Goiania, Brazil, results in nine deaths and 14 inmates injured. Authorities report 233 prisoners escaped but now only 95 prisoners remain at large. ](/news/2018/01/1/an-apparent-gang-riot-at-colonia-agroindustrial-prison-in-goiac-nia-brazil-results-in-nine-deaths-and-14-inmates-injured-authorities-repor.md) _Context: Brazil_
+5. [Ecuadorian Vice President Jorge Glas is sentenced to six years imprisonment for financial corruption involving the Brazilian construction company Odebrecht. The decision will not be enforced until the court confirms the ruling. The court's decision can be appealed. [http:--www.bbc.com-news-world-latin-america-42346881 ("BBC News")] [https:--www.eluniverso.com-noticias-2017-12-13-nota-6525058-jorge-glas-sentenciado-como-culpable-6-anos-prision-caso-odebrecht ("El Universo")] {{es icon}}](/news/2017/12/13/ecuadorian-vice-president-jorge-glas-is-sentenced-to-six-years-imprisonment-for-financial-corruption-involving-the-brazilian-construction-co.md) _Context: Brazil_

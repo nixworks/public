@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/12/the-chinese-railway-minister-liu-zhijun-is-placed-under-investigation-for-serious-disciplinary-violations.html)  [JSON](/news/2011/02/12/the-chinese-railway-minister-liu-zhijun-is-placed-under-investigation-for-serious-disciplinary-violations.json)  [XML](/news/2011/02/12/the-chinese-railway-minister-liu-zhijun-is-placed-under-investigation-for-serious-disciplinary-violations.xml)  
+
 ### [2011-02-12](/news/2011/02/12/index.md)
 
+##### China
 # The Chinese railway minister Liu Zhijun is placed under investigation for "serious disciplinary violations". 
 
 In a rare move, the Chinese government sacked its railway minister Liu Zhijun and announced he is under investigation.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12440198)
 2. [The Times of India](http://timesofindia.indiatimes.com/world/china/Chinese-railway-minister-sacked-awaits-possible-arrest/articleshow/7483748.cms)

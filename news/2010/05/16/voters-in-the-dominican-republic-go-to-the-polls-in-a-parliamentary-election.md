@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/16/voters-in-the-dominican-republic-go-to-the-polls-in-a-parliamentary-election.html)  [JSON](/news/2010/05/16/voters-in-the-dominican-republic-go-to-the-polls-in-a-parliamentary-election.json)  [XML](/news/2010/05/16/voters-in-the-dominican-republic-go-to-the-polls-in-a-parliamentary-election.xml)  
+
 ### [2010-05-16](/news/2010/05/16/index.md)
 
+##### Dominican Republic
 # Voters in the Dominican Republic go to the polls in a parliamentary election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jmd6R91_xSSqxiDnP06ho6eVn3tw)
 2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gLIyOCS7ddKdKo5UEaWLrqjE0qawD9FO6TC00)

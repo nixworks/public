@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/18/at-least-five-french-foreign-legion-soldiers-ar
 
 ### [2016-01-18](/news/2016/01/18/index.md)
 
+##### Modane avalanche
 # At least five French Foreign Legion soldiers are killed and six injured in an avalanche while on a training exercise in the Alps, close to the Italian border. The soldiers were members of the 2nd Foreign Engineer Regiment. 
 
 Five French Foreign Legionnaires are killed and six injured in an avalanche while on a training exercise in the Alps, days after a similar disaster nearby.
@@ -20,8 +21,8 @@ Five French Foreign Legionnaires are killed and six injured in an avalanche whil
 
 ### Related:
 
-1. [ Seven people die in a series of avalanche incidents in Italy. ](/news/2009/12/28/seven-people-die-in-a-series-of-avalanche-incidents-in-italy.md) _Context: Italy, avalanche_
-2. [ An avalanche kills at least six people in the Central Eastern Alps in Austria. ](/news/2009/05/3/an-avalanche-kills-at-least-six-people-in-the-central-eastern-alps-in-austria.md) _Context: Alps, avalanche_
-3. [ The last French veteran of World War I, Lazare Ponticelli, an Italian immigrant who lied about his age to join the French Foreign Legion and fight in the trenches, dies at 110. ](/news/2008/03/12/the-last-french-veteran-of-world-war-i-lazare-ponticelli-an-italian-immigrant-who-lied-about-his-age-to-join-the-french-foreign-legion-an.md) _Context: French Foreign Legion, Italy_
-4. [ Swiss engineers blast through the Lotschberg Tunnel through the Alps from Germany to Italy. The tunnel will be ready for traffic in two years. ](/news/2005/04/28/swiss-engineers-blast-through-the-laptschberg-tunnel-through-the-alps-from-germany-to-italy-the-tunnel-will-be-ready-for-traffic-in-two-ye.md) _Context: Alps, Italy_
+1. [ The last French veteran of World War I, Lazare Ponticelli, an Italian immigrant who lied about his age to join the French Foreign Legion and fight in the trenches, dies at 110. ](/news/2008/03/12/the-last-french-veteran-of-world-war-i-lazare-ponticelli-an-italian-immigrant-who-lied-about-his-age-to-join-the-french-foreign-legion-an.md) _Context: French Foreign Legion, Italy_
+2. [ Swiss engineers blast through the Lotschberg Tunnel through the Alps from Germany to Italy. The tunnel will be ready for traffic in two years. ](/news/2005/04/28/swiss-engineers-blast-through-the-laptschberg-tunnel-through-the-alps-from-germany-to-italy-the-tunnel-will-be-ready-for-traffic-in-two-ye.md) _Context: Alps, Italy_
+3. [At least three people are killed and over 100 injured in a train derailment near Milan, Italy. ](/news/2018/01/25/at-least-three-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy.md) _Context: Italy_
+4. [An explosion and fire at the Gas Connect Austria pipeline hub in Baumgarten an der March kills one person and injures 21. Service to Hungary, Slovenia, Croatia and Italy is suspended. Italy declares a state of emergency. ](/news/2017/12/12/an-explosion-and-fire-at-the-gas-connect-austria-pipeline-hub-in-baumgarten-an-der-march-kills-one-person-and-injures-21-service-to-hungary.md) _Context: Italy_
 5. [Italian fugitive and 'Ndrangheta member Rocco Morabito is arrested in Montevideo, Uruguay, after 23 years on the run. He is now expected to be extradited to Italy in the coming months. ](/news/2017/09/4/italian-fugitive-and-ndrangheta-member-rocco-morabito-is-arrested-in-montevideo-uruguay-after-23-years-on-the-run-he-is-now-expected-to.md) _Context: Italy_

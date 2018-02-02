@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/6/the-republican-party-candidates-for-president-of-the-united-states-debate-in-two-events-top-tier-candidates-and-lower-tier-candidates-sepa.html)  [JSON](/news/2015/08/6/the-republican-party-candidates-for-president-of-the-united-states-debate-in-two-events-top-tier-candidates-and-lower-tier-candidates-sepa.json)  [XML](/news/2015/08/6/the-republican-party-candidates-for-president-of-the-united-states-debate-in-two-events-top-tier-candidates-and-lower-tier-candidates-sepa.xml)  
+
 ### [2015-08-6](/news/2015/08/6/index.md)
 
+##### Republican
 # The Republican Party candidates for President of the United States debate, in two events (top tier candidates and lower-tier candidates separated) in an informal kick-off event for the 2016 campaign. 
 
 The theatrical drama of the first Republican debate Thursday focused on the man at center stage in Cleveland, Donald Trump , and the bombastic rhetoric he has used to propel himself to the front of the GOP field.
 
 
-### Source:
+### Sources:
 
 1. [The Los Angeles Times](http://www.latimes.com/nation/la-na-gop-debate-analysis-20150807-story.html)
 1. [Cover Image](http://www.trbimg.com/img-55c48536/turbine/la-na-gop-debate-analysis-20150807)

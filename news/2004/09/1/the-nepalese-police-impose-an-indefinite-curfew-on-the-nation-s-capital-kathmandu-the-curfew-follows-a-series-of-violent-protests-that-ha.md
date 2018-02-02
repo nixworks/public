@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/09/1/the-nepalese-police-impose-an-indefinite-curfew-on-the-nation-s-capital-kathmandu-the-curfew-follows-a-series-of-violent-protests-that-ha.html)  [JSON](/news/2004/09/1/the-nepalese-police-impose-an-indefinite-curfew-on-the-nation-s-capital-kathmandu-the-curfew-follows-a-series-of-violent-protests-that-ha.json)  [XML](/news/2004/09/1/the-nepalese-police-impose-an-indefinite-curfew-on-the-nation-s-capital-kathmandu-the-curfew-follows-a-series-of-violent-protests-that-ha.xml)  
+
 ### [2004-09-1](/news/2004/09/1/index.md)
 
+##### Nepal
 #  The Nepalese police impose an indefinite curfew on the nation's capital, Kathmandu. The curfew follows a series of violent protests that have targeted random Muslims and a mosque in retaliation for the killing of 12 Nepali hostages in Iraq]. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/3616712.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6120244)
-2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6120244)
 
 ### Related:
 

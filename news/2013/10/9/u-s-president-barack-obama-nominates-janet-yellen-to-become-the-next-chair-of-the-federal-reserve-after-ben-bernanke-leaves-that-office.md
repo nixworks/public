@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/10/9/u-s-president-barack-obama-nominates-janet-yellen-to-become-the-next-chair-of-the-federal-reserve-after-ben-bernanke-leaves-that-office.html)  [JSON](/news/2013/10/9/u-s-president-barack-obama-nominates-janet-yellen-to-become-the-next-chair-of-the-federal-reserve-after-ben-bernanke-leaves-that-office.json)  [XML](/news/2013/10/9/u-s-president-barack-obama-nominates-janet-yellen-to-become-the-next-chair-of-the-federal-reserve-after-ben-bernanke-leaves-that-office.xml)  
+
 ### [2013-10-9](/news/2013/10/9/index.md)
 
+##### Barack Obama
 # U.S. President Barack Obama nominates Janet Yellen to become the next chair of the Federal Reserve after Ben Bernanke leaves that office. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/10/09/us-usa-fed-idUSBRE99312G20131009)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131009&t=2&i=801462789&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9981J9S00)
+1. [Reuters](https://www.reuters.com/article/2013/10/09/us-usa-fed-idUSBRE99312G20131009)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20131009&t=2&i=801462789&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9981J9S00)
 
 ### Related:
 

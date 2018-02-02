@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/12/the-death-toll-from-the-arkansas-floods-reaches-18.html)  [JSON](/news/2010/06/12/the-death-toll-from-the-arkansas-floods-reaches-18.json)  [XML](/news/2010/06/12/the-death-toll-from-the-arkansas-floods-reaches-18.xml)  
+
 ### [2010-06-12](/news/2010/06/12/index.md)
 
+##### Arkansas
 # The death toll from the Arkansas floods reaches 18. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jjHS8S3jIndU2oI6WHB_KqB-pvwAD9G9VUH80)
 

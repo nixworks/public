@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/15/authorities-in-the-chinese-city-of-tianjin-afte
 
 ### [2016-02-15](/news/2016/02/15/index.md)
 
+##### Tianjin
 # Authorities in the Chinese city of Tianjin after an inquiry into the explosions last year found that the chemical plants were too close to residential areas. 
 
 

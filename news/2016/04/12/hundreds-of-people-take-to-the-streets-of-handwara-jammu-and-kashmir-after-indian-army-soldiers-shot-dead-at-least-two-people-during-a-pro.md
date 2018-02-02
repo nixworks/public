@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/12/hundreds-of-people-take-to-the-streets-of-handw
 
 ### [2016-04-12](/news/2016/04/12/index.md)
 
+##### Handwara
 #  Hundreds of people take to the streets of Handwara, Jammu and Kashmir after Indian Army soldiers shot dead at least two people during a protest against an alleged case of sexual harassment by an army soldier against a young woman. 
 
 

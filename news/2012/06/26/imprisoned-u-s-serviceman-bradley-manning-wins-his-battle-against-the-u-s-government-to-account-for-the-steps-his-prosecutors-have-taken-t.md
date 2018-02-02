@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/26/imprisoned-u-s-serviceman-bradley-manning-wins-his-battle-against-the-u-s-government-to-account-for-the-steps-his-prosecutors-have-taken-t.html)  [JSON](/news/2012/06/26/imprisoned-u-s-serviceman-bradley-manning-wins-his-battle-against-the-u-s-government-to-account-for-the-steps-his-prosecutors-have-taken-t.json)  [XML](/news/2012/06/26/imprisoned-u-s-serviceman-bradley-manning-wins-his-battle-against-the-u-s-government-to-account-for-the-steps-his-prosecutors-have-taken-t.xml)  
+
 ### [2012-06-26](/news/2012/06/26/index.md)
 
+##### Bradley Manning
 # Imprisoned U.S. serviceman Bradley Manning wins his battle against the U.S. government to account for the steps his prosecutors have taken to disclose to his lawyers evidence that could be crucial in his defence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2012/jun/26/bradley-manning-prosecutors-explain-evidence?newsfeed=true)
 

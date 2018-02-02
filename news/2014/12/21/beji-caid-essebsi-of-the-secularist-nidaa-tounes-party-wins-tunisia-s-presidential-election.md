@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/21/beji-caid-essebsi-of-the-secularist-nidaa-tounes-party-wins-tunisia-s-presidential-election.html)  [JSON](/news/2014/12/21/beji-caid-essebsi-of-the-secularist-nidaa-tounes-party-wins-tunisia-s-presidential-election.json)  [XML](/news/2014/12/21/beji-caid-essebsi-of-the-secularist-nidaa-tounes-party-wins-tunisia-s-presidential-election.xml)  
+
 ### [2014-12-21](/news/2014/12/21/index.md)
 
+##### Beji Caid Essebsi
 # Beji Caid Essebsi of the secularist Nidaa Tounes party wins Tunisia's presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Arabiya English](http://english.alarabiya.net/en/News/middle-east/2014/12/21/Tunisians-vote-in-historic-presidential-run-off.html)
 

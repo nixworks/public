@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/12/a-bus-and-a-trolley-car-collide-in-downtown-san-francisco-california-injuring-fifteen-people.html)  [JSON](/news/2013/06/12/a-bus-and-a-trolley-car-collide-in-downtown-san-francisco-california-injuring-fifteen-people.json)  [XML](/news/2013/06/12/a-bus-and-a-trolley-car-collide-in-downtown-san-francisco-california-injuring-fifteen-people.xml)  
+
 ### [2013-06-12](/news/2013/06/12/index.md)
 
+##### bus
 # A bus and a trolley car collide in downtown San Francisco, California, injuring fifteen people. 
 
 A low-speed collision between a Muni bus and historic trolley along bustling Market Street in downtown San Francisco sent 15 people to the hospital Wednesday, including seven children who were, coincidentally, on a field trip to the Cable Car Museum. The crash knocked down bus passengers, who included 31 children from the Vision Academy Day Camp on their way to the Cable Car Museum. Afterward, a group of the kids - who ranged from kindergarten to eighth grade - sat on the sidewalk holding ice packs to their heads. [...] the 24 students who were not transported to the hospital were kept busy - they were offered a free tour of the nearby International Art Museum of America, a small gallery featuring works by Chinese masters and European portraits and landscapes.
 
 
-### Source:
+### Sources:
 
 1. [San Francisco Chronicle](http://www.sfgate.com/bayarea/article/Muni-bus-trolley-collide-15-injured-4596394.php)
 1. [Cover Image](http://ww3.hdnux.com/photos/22/15/71/4775502/10/rawImage.jpg)

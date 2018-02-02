@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/29/amnesty-international-accuses-australian-border-protection-officials-of-illegally-paying-people-smugglers-and-endangering-lives-in-a-bid-to.html)  [JSON](/news/2015/10/29/amnesty-international-accuses-australian-border-protection-officials-of-illegally-paying-people-smugglers-and-endangering-lives-in-a-bid-to.json)  [XML](/news/2015/10/29/amnesty-international-accuses-australian-border-protection-officials-of-illegally-paying-people-smugglers-and-endangering-lives-in-a-bid-to.xml)  
+
 ### [2015-10-29](/news/2015/10/29/index.md)
 
+##### Amnesty International
 # Amnesty International accuses Australian border protection officials of illegally paying people smugglers and endangering lives in a bid to prevent boats of asylum seekers from reaching the country via Operation Sovereign Borders. Australia's government rejects Amnesty's report and denies any wrongdoing.
 
 Amnesty International has accused Australian border protection officials of illegally paying people smugglers and endangering lives in a bid to prevent boats of asylum seekers reaching the country.
 
 
-### Source:
+### Sources:
 
 1. [AI](https://www.amnesty.org/en/press-releases/2015/10/australia-damning-evidence-of-officials-involvement-in-transnational-crime-uncovered/)
 2. [International Business Times](http://www.ibtimes.com/australia-paid-people-smugglers-turn-back-refugee-boats-committed-transnational-crime-2161546)
@@ -14,8 +18,8 @@ Amnesty International has accused Australian border protection officials of ille
 
 ### Related:
 
-1. [NATO, during a two-day meeting, considers request from Turkey and Greece to monitor migrant transit in the Aegean Sea and to combat human traffickers squeezing refugees onto unsafe boats. ](/news/2016/02/10/nato-during-a-two-day-meeting-considers-request-from-turkey-and-greece-to-monitor-migrant-transit-in-the-aegean-sea-and-to-combat-human-tr.md) _Context: people smugglers, refugee_
-2. [A refugee boat en route to Bangladesh from Myanmar capsizes, resulting in at least 12 deaths. ](/news/2017/10/8/a-refugee-boat-en-route-to-bangladesh-from-myanmar-capsizes-resulting-in-at-least-12-deaths.md) _Context: refugee_
+1. [The bodies of ten Syrian men are found after a snowstorm on the Lebanon-Syria border. The Lebanese Army says they tried to enter Lebanon illegally. Two presumed people smugglers are arrested. ](/news/2018/01/19/the-bodies-of-ten-syrian-men-are-found-after-a-snowstorm-on-the-lebanonasyria-border-the-lebanese-army-says-they-tried-to-enter-lebanon-i.md) _Context: people smugglers_
+2. [Sting, Peter Gabriel, Edward Snowden and Ai Weiwei call for president of Amnesty International Turkey Taner Kilic to be released from prison. ](/news/2017/11/24/sting-peter-gabriel-edward-snowden-and-ai-weiwei-call-for-president-of-amnesty-international-turkey-taner-ka-la-ass-to-be-released-from-pri.md) _Context: Amnesty International_
 3. [At the International Astronautical Congress in Adelaide, the Government of Australia announces that it will create an Australian space agency. ](/news/2017/09/25/at-the-international-astronautical-congress-in-adelaide-the-government-of-australia-announces-that-it-will-create-an-australian-space-agenc.md) _Context: Government of Australia_
-4. [The U.S. Supreme Court rules that the Trump administration can block international refugees from entering the United States. ](/news/2017/09/12/the-u-s-supreme-court-rules-that-the-trump-administration-can-block-international-refugees-from-entering-the-united-states.md) _Context: refugee_
-5. [Turkey arrests six people, including the director of Amnesty International, for allegedly "helping an armed terrorist organisation". ](/news/2017/07/18/turkey-arrests-six-people-including-the-director-of-amnesty-international-for-allegedly-helping-an-armed-terrorist-organisation.md) _Context: Amnesty International_
+4. [Turkey arrests six people, including the director of Amnesty International, for allegedly "helping an armed terrorist organisation". ](/news/2017/07/18/turkey-arrests-six-people-including-the-director-of-amnesty-international-for-allegedly-helping-an-armed-terrorist-organisation.md) _Context: Amnesty International_
+5. [An Italian prosecutor says there are "telephone calls" between people smugglers in Libya and some non-governmental organizations. Frontex, the European Border and Coast Guard Agency, says the practices amount to a "taxi service". One NGO says "more would die" if they were not there. ](/news/2017/04/23/an-italian-prosecutor-says-there-are-telephone-calls-between-people-smugglers-in-libya-and-some-non-governmental-organizations-frontex-t.md) _Context: people smugglers_

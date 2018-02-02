@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/11/the-death-toll-from-yesterday-s-bombings-rises-
 
 ### [2016-12-11](/news/2016/12/11/index.md)
 
+##### December 2016 Istanbul bombings
 # The death toll from yesterday's bombings rises to 38 with 155 injured. Thirteen people have been arrested in connection with the bombings. 
 
 Responsibility for bombings in Istanbul has been claimed by the Kurdistan Freedom Hawks (TAK), a splinter group of the Kurdistan Workers Party (PKK). Funerals have begun for the 36 dead, mostly police officers. 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/15/four-people-including-celebrity-photographer-franassois-marie-banier-are-arrested-in-a-tax-evasion-investigation-into-l-ora-c-al-heiress-lili.html)  [JSON](/news/2010/07/15/four-people-including-celebrity-photographer-franassois-marie-banier-are-arrested-in-a-tax-evasion-investigation-into-l-ora-c-al-heiress-lili.json)  [XML](/news/2010/07/15/four-people-including-celebrity-photographer-franassois-marie-banier-are-arrested-in-a-tax-evasion-investigation-into-l-ora-c-al-heiress-lili.xml)  
+
 ### [2010-07-15](/news/2010/07/15/index.md)
 
+##### Francois-Marie Banier
 # Four people, including celebrity photographer Francois-Marie Banier, are arrested in a tax-evasion investigation into L'Oreal heiress Liliane Bettencourt. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10651359)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/48373000/jpg/_48373910_009713570-1.jpg)

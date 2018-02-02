@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/7/at-least-50-people-are-killed-including-33-milit
 
 ### [2016-03-7](/news/2016/03/7/index.md)
 
+##### Insurgency in the Maghreb (2002-present)
 # At least 50 people are killed, including 33 militants, seven civilians and ten soldiers, in armed clashes between the Tunisian Army and Islamist militants in the town of Ben Gardane, near the border with Libya. 
 
 Dozens of Islamist fighters stormed through the Tunisian town of Ben Guerdan near the Libyan border on Monday attacking army and police posts in a raid that killed at least 50 people, including civilians, the government and residents said.
@@ -26,4 +27,4 @@ Dozens of Islamist fighters stormed through the Tunisian town of Ben Guerdan nea
 2. [Tunisia's army and security forces kill another five suspected terrorists in an operation near the Libyan border. ](/news/2016/03/8/tunisia-s-army-and-security-forces-kill-another-five-suspected-terrorists-in-an-operation-near-the-libyan-border.md) _Context: Libya, army_
 3. [The United Kingdom is to send troops to Tunisia to help the Tunisian Army prevent ISIL militants from moving into the country from Libya. ](/news/2016/03/1/the-united-kingdom-is-to-send-troops-to-tunisia-to-help-the-tunisian-army-prevent-isil-militants-from-moving-into-the-country-from-libya.md) _Context: Libya, army_
 4. [Germany is considering sending troops to Tunisia to help train the Tunisian Army in the fight against Islamist militants, particularly ISIL who control territory in neighboring Libya. ](/news/2016/02/21/germany-is-considering-sending-troops-to-tunisia-to-help-train-the-tunisian-army-in-the-fight-against-islamist-militants-particularly-isil.md) _Context: Libya, army_
-5. [In coordination with Libya's internationally recognized government, American special operations forces and FBI agents capture Mustafa al-Imam, a militant who allegedly was involved in the 2012 Benghazi attack, at an unknown location in Libya. ](/news/2017/10/29/in-coordination-with-libyaas-internationally-recognized-government-american-special-operations-forces-and-fbi-agents-capture-mustafa-al-i.md) _Context: Libya_
+5. [A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials. ](/news/2018/01/23/a-double-car-bombing-in-benghazi-libya-kills-at-least-33-people-and-wounds-dozens-of-others-the-victims-include-both-military-personnel.md) _Context: Libya_

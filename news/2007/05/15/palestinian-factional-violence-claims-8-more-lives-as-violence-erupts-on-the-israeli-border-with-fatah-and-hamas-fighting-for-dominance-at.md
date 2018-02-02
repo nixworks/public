@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/05/15/palestinian-factional-violence-claims-8-more-lives-as-violence-erupts-on-the-israeli-border-with-fatah-and-hamas-fighting-for-dominance-at.html)  [JSON](/news/2007/05/15/palestinian-factional-violence-claims-8-more-lives-as-violence-erupts-on-the-israeli-border-with-fatah-and-hamas-fighting-for-dominance-at.json)  [XML](/news/2007/05/15/palestinian-factional-violence-claims-8-more-lives-as-violence-erupts-on-the-israeli-border-with-fatah-and-hamas-fighting-for-dominance-at.xml)  
+
 ### [2007-05-15](/news/2007/05/15/index.md)
 
+##### clashes
 #  Palestinian factional violence claims 8 more lives as violence erupts on the Israeli border with Fatah and Hamas fighting for dominance at the Karni cargo crossing in Gaza, ending Monday night's ceasefire agreement. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/news/world/2007-05-15-gaza_N.htm)
+1. [USA Today](https://www.usatoday.com/news/world/2007-05-15-gaza_N.htm)
 
 ### Related:
 

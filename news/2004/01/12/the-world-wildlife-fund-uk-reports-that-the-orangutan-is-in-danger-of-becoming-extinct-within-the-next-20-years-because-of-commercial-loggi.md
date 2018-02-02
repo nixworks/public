@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/12/the-world-wildlife-fund-uk-reports-that-the-orangutan-is-in-danger-of-becoming-extinct-within-the-next-20-years-because-of-commercial-loggi.html)  [JSON](/news/2004/01/12/the-world-wildlife-fund-uk-reports-that-the-orangutan-is-in-danger-of-becoming-extinct-within-the-next-20-years-because-of-commercial-loggi.json)  [XML](/news/2004/01/12/the-world-wildlife-fund-uk-reports-that-the-orangutan-is-in-danger-of-becoming-extinct-within-the-next-20-years-because-of-commercial-loggi.xml)  
+
 ### [2004-01-12](/news/2004/01/12/index.md)
 
+##### World Wildlife Fund
 #  The World Wildlife Fund-UK reports that the orangutan is in danger of becoming extinct within the next 20 years because of commercial logging and clearance for oil palm plantations.
 
 

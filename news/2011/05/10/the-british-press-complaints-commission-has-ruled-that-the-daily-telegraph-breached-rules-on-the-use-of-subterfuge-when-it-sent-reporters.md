@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2011/05/10/the-british-press-complaints-commission-has-ruled-that-the-daily-telegraph-breached-rules-on-the-use-of-subterfuge-when-it-sent-reporters.html)  [JSON](/news/2011/05/10/the-british-press-complaints-commission-has-ruled-that-the-daily-telegraph-breached-rules-on-the-use-of-subterfuge-when-it-sent-reporters.json)  [XML](/news/2011/05/10/the-british-press-complaints-commission-has-ruled-that-the-daily-telegraph-breached-rules-on-the-use-of-subterfuge-when-it-sent-reporters.xml)  
+
 ### [2011-05-10](/news/2011/05/10/index.md)
 
+##### Press Complaints Commission
 # The British Press Complaints Commission has ruled that the "Daily Telegraph" breached rules on the use of subterfuge when it sent reporters to secretly tape Liberal Democrat ministers, including Secretary of State for Business Vince Cable, late last year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13342013)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52227000/jpg/_52227971_011509696-1.jpg)
+
+### Changes:
+
+1. [The British Press Complaints Commission has ruled that the ''Daily Telegraph'' breached rules on the use of subterfuge when it sent reporters to secretly tape Liberal Democrat ministers, including Secretary of State for Business Vince Cable, late last year. ](/news/2011/05/10/the-british-press-complaints-commission-has-ruled-that-the-daily-telegraph-breached-rules-on-the-use-of-subterfuge-when-it-sent-reporter.md) _2017-08-25 03:33:04 (First version)_
+1. [The British Press Complaints Commission has ruled that the "Daily Telegraph" breached rules on the use of subterfuge when it sent reporters to secretly tape Liberal Democrat ministers, including Secretary of State for Business Vince Cable, late last year. ](/news/2011/05/10/the-british-press-complaints-commission-has-ruled-that-the-daily-telegraph-breached-rules-on-the-use-of-subterfuge-when-it-sent-reporters.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [British Business Secretary Vince Cable apologises after confidential documents are discovered dumped in waste bins outside his constituency office. ](/news/2011/11/4/british-business-secretary-vince-cable-apologises-after-confidential-documents-are-discovered-dumped-in-waste-bins-outside-his-constituency.md) _Context: Secretary of State for Business, Vince Cable_
 4. [The "Daily Telegraph" publishes further details of taped conversations with Liberal Democrat MPs, which include comments that British Prime Minister David Cameron cannot be trusted and Chancellor George Osborne has "a capacity to get up one's nose". ](/news/2010/12/23/the-daily-telegraph-publishes-further-details-of-taped-conversations-with-liberal-democrat-mps-which-include-comments-that-british-prime.md) _Context: Daily Telegraph, Liberal Democrats_
 5. [Vince Cable is acclaimed as Leader of the Liberal Democrats in the United Kingdom after running unopposed. ](/news/2017/07/20/vince-cable-is-acclaimed-as-leader-of-the-liberal-democrats-in-the-united-kingdom-after-running-unopposed.md) _Context: Vince Cable_
-
-### Changes:
-
-1. [The British Press Complaints Commission has ruled that the ''Daily Telegraph'' breached rules on the use of subterfuge when it sent reporters to secretly tape Liberal Democrat ministers, including Secretary of State for Business Vince Cable, late last year. ](/news/2011/05/10/the-british-press-complaints-commission-has-ruled-that-the-daily-telegraph-breached-rules-on-the-use-of-subterfuge-when-it-sent-reporter.md) _2017-08-25 03:33:04 (First version)_
-1. [The British Press Complaints Commission has ruled that the "Daily Telegraph" breached rules on the use of subterfuge when it sent reporters to secretly tape Liberal Democrat ministers, including Secretary of State for Business Vince Cable, late last year. ](/news/2011/05/10/the-british-press-complaints-commission-has-ruled-that-the-daily-telegraph-breached-rules-on-the-use-of-subterfuge-when-it-sent-reporters.md) _(Current version)_

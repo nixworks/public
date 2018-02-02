@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/28/swiss-citizens-vote-on-four-referenda-including
 
 ### [2016-02-28](/news/2016/02/28/index.md)
 
+##### Swiss referendums, 2016
 # Swiss citizens vote on four referenda, including one, proposed by the right-wing Swiss People's Party, that would automatically expel foreigners who commit two minor crimes. Current law calls for deportation of non-citizens convicted of murder or sexual violence. 
 
 People in Switzerland reject a plan to automatically expel foreigners who commit minor crimes.

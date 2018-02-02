@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/6/protests-against-privatisation-of-essential-utilities-continue-in-bolivia.html)  [JSON](/news/2005/06/6/protests-against-privatisation-of-essential-utilities-continue-in-bolivia.json)  [XML](/news/2005/06/6/protests-against-privatisation-of-essential-utilities-continue-in-bolivia.xml)  
+
 ### [2005-06-6](/news/2005/06/6/index.md)
 
+##### Bolivia
 #  Protests against privatisation of essential utilities continue in Bolivia 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N05301971.htm)
 

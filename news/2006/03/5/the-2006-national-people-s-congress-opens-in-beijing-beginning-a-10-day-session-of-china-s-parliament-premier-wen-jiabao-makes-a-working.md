@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/5/the-2006-national-people-s-congress-opens-in-beijing-beginning-a-10-day-session-of-china-s-parliament-premier-wen-jiabao-makes-a-working.html)  [JSON](/news/2006/03/5/the-2006-national-people-s-congress-opens-in-beijing-beginning-a-10-day-session-of-china-s-parliament-premier-wen-jiabao-makes-a-working.json)  [XML](/news/2006/03/5/the-2006-national-people-s-congress-opens-in-beijing-beginning-a-10-day-session-of-china-s-parliament-premier-wen-jiabao-makes-a-working.xml)  
+
 ### [2006-03-5](/news/2006/03/5/index.md)
 
+##### 2006 National People's Congress
 #  The 2006 National People's Congress opens in Beijing, beginning a 10-day session of China's parliament. Premier Wen Jiabao makes a Working Report and vows for support for the poor. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/03/05/china.parliament/)
 2. [People's Daily](http://english.people.com.cn/200603/05/eng20060305_247909.html)

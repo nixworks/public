@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/11/27/roman-catholic-pope-john-paul-nbsp-ii-presents-eastern-orthodox-patriarch-bartholomew-nbsp-i-with-reliquaries-containing-the-bones-of-4th-c.html)  [JSON](/news/2004/11/27/roman-catholic-pope-john-paul-nbsp-ii-presents-eastern-orthodox-patriarch-bartholomew-nbsp-i-with-reliquaries-containing-the-bones-of-4th-c.json)  [XML](/news/2004/11/27/roman-catholic-pope-john-paul-nbsp-ii-presents-eastern-orthodox-patriarch-bartholomew-nbsp-i-with-reliquaries-containing-the-bones-of-4th-c.xml)  
+
 ### [2004-11-27](/news/2004/11/27/index.md)
 
+##### Roman Catholicism
 #  Roman Catholic Pope John Paul&nbsp;II presents Eastern Orthodox Patriarch Bartholomew&nbsp;I with reliquaries containing the bones of 4th-century Patriarchs Gregory Nazianzus and John Chrysostom, brought back to Rome as loot from Constantinople during the Crusades. The ceremony is applauded as a notable gesture of ecumenism between the divided churches. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4047327.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6933821)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6933821)
 
 ### Related:
 

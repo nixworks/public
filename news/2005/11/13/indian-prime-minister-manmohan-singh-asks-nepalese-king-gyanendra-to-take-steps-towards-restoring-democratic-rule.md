@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/13/indian-prime-minister-manmohan-singh-asks-nepalese-king-gyanendra-to-take-steps-towards-restoring-democratic-rule.html)  [JSON](/news/2005/11/13/indian-prime-minister-manmohan-singh-asks-nepalese-king-gyanendra-to-take-steps-towards-restoring-democratic-rule.json)  [XML](/news/2005/11/13/indian-prime-minister-manmohan-singh-asks-nepalese-king-gyanendra-to-take-steps-towards-restoring-democratic-rule.xml)  
+
 ### [2005-11-13](/news/2005/11/13/index.md)
 
+##### India
 #  Indian Prime Minister Manmohan Singh asks Nepalese King Gyanendra to take steps towards restoring democratic rule. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/4432680.stm)
 

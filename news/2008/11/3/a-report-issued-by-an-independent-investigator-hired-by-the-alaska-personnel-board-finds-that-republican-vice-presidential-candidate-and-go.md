@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/3/a-report-issued-by-an-independent-investigator-hired-by-the-alaska-personnel-board-finds-that-republican-vice-presidential-candidate-and-go.html)  [JSON](/news/2008/11/3/a-report-issued-by-an-independent-investigator-hired-by-the-alaska-personnel-board-finds-that-republican-vice-presidential-candidate-and-go.json)  [XML](/news/2008/11/3/a-report-issued-by-an-independent-investigator-hired-by-the-alaska-personnel-board-finds-that-republican-vice-presidential-candidate-and-go.xml)  
+
 ### [2008-11-3](/news/2008/11/3/index.md)
 
+##### Republican
 #  A report issued by an independent investigator hired by the Alaska Personnel Board finds that Republican Vice Presidential candidate and Governor of Alaska Sarah Palin did not violate the law with regards to the so called "Troopergate scandal". However, a previous, separate legislative investigation concluded that she did abuse her office. 
 
 Gov. Sarah Palin violated no ethics laws when she fired her public safety commissioner, the state personnel board concluded in a report released Monday.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/27524238/)
 1. [Cover Image](http://media4.s-nbcnews.com/j/ap/b12d90bf-ebad-4bf1-9a8b-94a8120ac4db.standard.jpg)

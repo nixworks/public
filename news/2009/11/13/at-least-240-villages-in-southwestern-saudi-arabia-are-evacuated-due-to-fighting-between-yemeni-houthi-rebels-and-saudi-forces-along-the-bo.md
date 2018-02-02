@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/11/13/at-least-240-villages-in-southwestern-saudi-arabia-are-evacuated-due-to-fighting-between-yemeni-houthi-rebels-and-saudi-forces-along-the-bo.html)  [JSON](/news/2009/11/13/at-least-240-villages-in-southwestern-saudi-arabia-are-evacuated-due-to-fighting-between-yemeni-houthi-rebels-and-saudi-forces-along-the-bo.json)  [XML](/news/2009/11/13/at-least-240-villages-in-southwestern-saudi-arabia-are-evacuated-due-to-fighting-between-yemeni-houthi-rebels-and-saudi-forces-along-the-bo.xml)  
+
 ### [2009-11-13](/news/2009/11/13/index.md)
 
+##### Saudi Arabia
 #  At least 240 villages in southwestern Saudi Arabia are evacuated due to fighting between Yemeni Houthi rebels and Saudi forces along the border. 
 
 * UNICEF says villages evacuated in S. Arabia, schools shut * Agency reports Yemeni children dying from malnutrition * UNHCR, ICRC say more civi
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/11/20091113133153733615.html)
-2. [Reuters](http://www.reuters.com/article/homepageCrisis/idUSLD714190._CH_.2400)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20090821&t=2&i=11320429&w=&fh=545px&fw=&ll=&pl=&sq=&r=YE-Saada-60)
+2. [Reuters](https://www.reuters.com/article/homepageCrisis/idUSLD714190._CH_.2400)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20090821&t=2&i=11320429&w=&fh=545px&fw=&ll=&pl=&sq=&r=YE-Saada-60)
 
 ### Related:
 

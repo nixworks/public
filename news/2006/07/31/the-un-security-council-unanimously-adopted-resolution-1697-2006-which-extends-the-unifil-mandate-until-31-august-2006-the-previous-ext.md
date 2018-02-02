@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/31/the-un-security-council-unanimously-adopted-resolution-1697-2006-which-extends-the-unifil-mandate-until-31-august-2006-the-previous-ext.html)  [JSON](/news/2006/07/31/the-un-security-council-unanimously-adopted-resolution-1697-2006-which-extends-the-unifil-mandate-until-31-august-2006-the-previous-ext.json)  [XML](/news/2006/07/31/the-un-security-council-unanimously-adopted-resolution-1697-2006-which-extends-the-unifil-mandate-until-31-august-2006-the-previous-ext.xml)  
+
 ### [2006-07-31](/news/2006/07/31/index.md)
 
+##### UN Security Council
 #  The UN Security Council unanimously adopted resolution 1697 (2006), which extends the UNIFIL mandate until 31 August 2006. The previous extension ended 31 July 2006. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ UN Resolution 1697](http://www.un.org/News/Press/docs/2006/sc8793.doc.htm)
 

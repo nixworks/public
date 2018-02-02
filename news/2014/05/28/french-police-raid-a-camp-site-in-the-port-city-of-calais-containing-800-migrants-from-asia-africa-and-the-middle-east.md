@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/28/french-police-raid-a-camp-site-in-the-port-city-of-calais-containing-800-migrants-from-asia-africa-and-the-middle-east.html)  [JSON](/news/2014/05/28/french-police-raid-a-camp-site-in-the-port-city-of-calais-containing-800-migrants-from-asia-africa-and-the-middle-east.json)  [XML](/news/2014/05/28/french-police-raid-a-camp-site-in-the-port-city-of-calais-containing-800-migrants-from-asia-africa-and-the-middle-east.xml)  
+
 ### [2014-05-28](/news/2014/05/28/index.md)
 
+##### French police
 # French police raid a camp site in the port city of Calais containing 800 migrants from Asia, Africa and the Middle East. 
 
 Police in the northern French city of Calais are dismantling camps housing hundreds of migrants from Asia and Africa trying to reach Britain.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-27599827#TWEET1140827)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75138000/jpg/_75138800_75138799.jpg)

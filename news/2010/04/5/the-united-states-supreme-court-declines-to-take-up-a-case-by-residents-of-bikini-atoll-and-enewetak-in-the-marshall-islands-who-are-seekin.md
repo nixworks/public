@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/5/the-united-states-supreme-court-declines-to-take-up-a-case-by-residents-of-bikini-atoll-and-enewetak-in-the-marshall-islands-who-are-seekin.html)  [JSON](/news/2010/04/5/the-united-states-supreme-court-declines-to-take-up-a-case-by-residents-of-bikini-atoll-and-enewetak-in-the-marshall-islands-who-are-seekin.json)  [XML](/news/2010/04/5/the-united-states-supreme-court-declines-to-take-up-a-case-by-residents-of-bikini-atoll-and-enewetak-in-the-marshall-islands-who-are-seekin.xml)  
+
 ### [2010-04-5](/news/2010/04/5/index.md)
 
+##### United States Supreme Court
 # The United States Supreme Court declines to take up a case by residents of Bikini Atoll and Enewetak in the Marshall Islands, who are seeking compensation for U.S. nuclear tests conducted on the islands. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/USA/Justice/2010/0405/Supreme-Court-No-review-of-award-for-US-nuclear-weapons-tests)
 1. [Cover Image](http://www.csmonitor.com/extension/csm_base/design/csm_design/images/csm_logo_1200x630.png)

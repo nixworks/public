@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/24/in-southwest-china-authorities-are-investigating-deaths-of-17-farm-workers-who-died-of-an-unidentified-disease.html)  [JSON](/news/2005/07/24/in-southwest-china-authorities-are-investigating-deaths-of-17-farm-workers-who-died-of-an-unidentified-disease.json)  [XML](/news/2005/07/24/in-southwest-china-authorities-are-investigating-deaths-of-17-farm-workers-who-died-of-an-unidentified-disease.xml)  
+
 ### [2005-07-24](/news/2005/07/24/index.md)
 
+##### China
 #  In Southwest China, authorities are investigating deaths of 17 farm workers who died of an unidentified disease 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/159606/1/.html)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-07-25T030622Z_01_PEK200335_RTRIDST_0_INTERNATIONAL-HEALTH-CHINA-DC.XML)

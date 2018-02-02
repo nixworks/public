@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/30/thomas-masuku-a-senior-judge-in-swaziland-is-suspended-over-allegedly-insults-to-king-mswati-iii.html)  [JSON](/news/2011/06/30/thomas-masuku-a-senior-judge-in-swaziland-is-suspended-over-allegedly-insults-to-king-mswati-iii.json)  [XML](/news/2011/06/30/thomas-masuku-a-senior-judge-in-swaziland-is-suspended-over-allegedly-insults-to-king-mswati-iii.xml)  
+
 ### [2011-06-30](/news/2011/06/30/index.md)
 
+##### Swaziland
 # Thomas Masuku, a senior judge in Swaziland, is suspended over allegedly insults to King Mswati III. 
 
 A top judge in Swaziland, Thomas Masuku, has been suspended for allegedly insulting King Mswati III, the chief justice says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13980535)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53620000/jpg/_53620200_king.jpg)

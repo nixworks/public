@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/1/recreational-marijuana-stores-open-in-colorado.html)  [JSON](/news/2014/01/1/recreational-marijuana-stores-open-in-colorado.json)  [XML](/news/2014/01/1/recreational-marijuana-stores-open-in-colorado.xml)  
+
 ### [2014-01-1](/news/2014/01/1/index.md)
 
+##### addicts
 # Recreational marijuana stores open in Colorado. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/12/31/us/colorado-recreational-marijuana/index.html?hpt=hp_t3)
 

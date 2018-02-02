@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/5/the-fbi-recommends-with-numerous-reservations-ab
 
 ### [2016-07-5](/news/2016/07/5/index.md)
 
+##### Hillary Clinton email investigation
 # The FBI recommends, with numerous reservations about her actions, no charges be filed against Hillary Clinton over her emails. 
 
 The FBI tells Hillary Clinton she will not face criminal charges over her use of private email, hours before her first campaign appearance with President Obama.

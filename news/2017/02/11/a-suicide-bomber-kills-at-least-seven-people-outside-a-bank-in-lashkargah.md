@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/11/a-suicide-bomber-kills-at-least-seven-people-ou
 
 ### [2017-02-11](/news/2017/02/11/index.md)
 
+##### War in Afghanistan (2015-present)
 # A suicide bomber kills at least seven people outside a bank in Lashkargah. 
 
 

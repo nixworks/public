@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/15/former-thai-prime-minister-thaksin-shinawatra-plans-an-early-return-from-exile.html)  [JSON](/news/2012/04/15/former-thai-prime-minister-thaksin-shinawatra-plans-an-early-return-from-exile.json)  [XML](/news/2012/04/15/former-thai-prime-minister-thaksin-shinawatra-plans-an-early-return-from-exile.xml)  
+
 ### [2012-04-15](/news/2012/04/15/index.md)
 
+##### Thailand
 # Former Thai prime minister Thaksin Shinawatra plans an early return from exile. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Mainichi](http://mainichi.jp/english/english/newsselect/news/20120415p2g00m0in056000c.html)
 

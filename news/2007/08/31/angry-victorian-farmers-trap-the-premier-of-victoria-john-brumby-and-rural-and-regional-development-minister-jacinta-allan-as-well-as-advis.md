@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/31/angry-victorian-farmers-trap-the-premier-of-victoria-john-brumby-and-rural-and-regional-development-minister-jacinta-allan-as-well-as-advis.html)  [JSON](/news/2007/08/31/angry-victorian-farmers-trap-the-premier-of-victoria-john-brumby-and-rural-and-regional-development-minister-jacinta-allan-as-well-as-advis.json)  [XML](/news/2007/08/31/angry-victorian-farmers-trap-the-premier-of-victoria-john-brumby-and-rural-and-regional-development-minister-jacinta-allan-as-well-as-advis.xml)  
+
 ### [2007-08-31](/news/2007/08/31/index.md)
 
+##### Victoria
 #  Angry Victorian farmers trap the Premier of Victoria John Brumby and Rural and Regional Development Minister Jacinta Allan as well as advisers and media in a machinery yard outside Colbinabbin, east of Bendigo to raise concerns about the Government's water plans. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Herald Sun](http://www.news.com.au/story/0,23599,22339569-2,00.html)
 

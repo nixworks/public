@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/25/an-audience-member-throws-shoes-at-former-prime-minister-of-australia-john-howard-during-an-appearance-on-q-a-on-abc1.html)  [JSON](/news/2010/10/25/an-audience-member-throws-shoes-at-former-prime-minister-of-australia-john-howard-during-an-appearance-on-q-a-on-abc1.json)  [XML](/news/2010/10/25/an-audience-member-throws-shoes-at-former-prime-minister-of-australia-john-howard-during-an-appearance-on-q-a-on-abc1.xml)  
+
 ### [2010-10-25](/news/2010/10/25/index.md)
 
+##### Australian Prime Minister
 # An audience member throws shoes at former Prime Minister of Australia John Howard during an appearance on Q&A on ABC1. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Canberra Times](http://www.canberratimes.com.au/news/local/news/general/shoes-thrown-at-howard-during-qa-appearance/1978886.aspx)
 

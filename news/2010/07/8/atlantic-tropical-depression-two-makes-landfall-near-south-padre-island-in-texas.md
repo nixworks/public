@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/8/atlantic-tropical-depression-two-makes-landfall-near-south-padre-island-in-texas.html)  [JSON](/news/2010/07/8/atlantic-tropical-depression-two-makes-landfall-near-south-padre-island-in-texas.json)  [XML](/news/2010/07/8/atlantic-tropical-depression-two-makes-landfall-near-south-padre-island-in-texas.xml)  
+
 ### [2010-07-8](/news/2010/07/8/index.md)
 
+##### Atlantic Tropical Depression Two
 # Atlantic Tropical Depression Two makes landfall near South Padre Island in Texas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2010/US/07/08/tropical.depression/index.html)
 

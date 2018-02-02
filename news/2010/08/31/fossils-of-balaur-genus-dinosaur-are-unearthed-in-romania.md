@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2010/08/31/fossils-of-balaur-genus-dinosaur-are-unearthed-in-romania.html)  [JSON](/news/2010/08/31/fossils-of-balaur-genus-dinosaur-are-unearthed-in-romania.json)  [XML](/news/2010/08/31/fossils-of-balaur-genus-dinosaur-are-unearthed-in-romania.xml)  
+
 ### [2010-08-31](/news/2010/08/31/index.md)
 
+##### Fossil
 # Fossils of Balaur genus dinosaur are unearthed in Romania. 
 
 Fossils of a new type of dinosaur, which looks like a beefy version of the predatory Velociraptor, have been unearthed in Romania.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-11137905)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/48925000/jpg/_48925730_010074667-1.jpg)
 
 ### Related:
 
-1. [The journal "Scientific Reports" publishes research from a team, led by Australian Age of Dinosaurs Museum's Stephen Poropat, reporting the discovery of a new Australian dinosaur species, "Savannasaurus elliottorum", using fossils first found in 2005 at Winton, Queensland, Australia. ](/news/2016/10/20/the-journal-scientific-reports-publishes-research-from-a-team-led-by-australian-age-of-dinosaurs-museum-s-stephen-poropat-reporting-the.md) _Context: dinosaur, fossil_
-2. [The extinct reptile "Nyasasaurus" is described as the possible oldest known dinosaur from 243-million-year old fossils discovered in Tanzania. ](/news/2012/12/6/the-extinct-reptile-nyasasaurus-is-described-as-the-possible-oldest-known-dinosaur-from-243-million-year-old-fossils-discovered-in-tanzani.md) _Context: dinosaur, fossil_
-3. [ One of the world's biggest accumulations of dinosaur fossils is found near Zhucheng, China. ](/news/2008/12/31/one-of-the-world-s-biggest-accumulations-of-dinosaur-fossils-is-found-near-zhucheng-china.md) _Context: dinosaur, fossil_
-4. [ The journal" Science" publishes an article on a jawbone of an early modern human found in 2002 near the entrance of the Pestera cu Oase (cave with bones) in the southwestern Carpathian Mountains in Romania. Radiocarbon dating places its age at between 34,000 and 36,000 years, making it the oldest fossil from an early modern human. The jawbone suggests interbreeding between modern humans and Neanderthals.](/news/2003/09/22/the-journal-science-publishes-an-article-on-a-jawbone-of-an-early-modern-human-found-in-2002-near-the-entrance-of-the-pestera-cu-oase-ca.md) _Context: Romania, fossil_
-5. [A fire at a retirement home in Bucharest, Romania, leaves one person dead and 19 others injured. ](/news/2017/09/30/a-fire-at-a-retirement-home-in-bucharest-romania-leaves-one-person-dead-and-19-others-injured.md) _Context: Romania_
+1. [Romanian Prime Minister Mihai Tudose resigns after losing the support of the Social Democratic Party. ](/news/2018/01/15/romanian-prime-minister-mihai-tudose-resigns-after-losing-the-support-of-the-social-democratic-party.md) _Context: Romania_
+2. [A fire at a retirement home in Bucharest, Romania, leaves one person dead and 19 others injured. ](/news/2017/09/30/a-fire-at-a-retirement-home-in-bucharest-romania-leaves-one-person-dead-and-19-others-injured.md) _Context: Romania_
+3. [At least eight people are killed and 137 injured after a strong storm hits western and central Romania. ](/news/2017/09/17/at-least-eight-people-are-killed-and-137-injured-after-a-strong-storm-hits-western-and-central-romania.md) _Context: Romania_
+4. [The Turkish government issues an arrest warrant for NBA Oklahoma City Thunder player Enes Kanter suspected of being a member of a "terror group." Kanter, a vocal supporter of Fethullah Gulen, was returning to the U.S. from a charity tour when, last Saturday, he was detained in Bucharest, Romania, because his Turkish passport had been revoked. Kanter says he plans on becoming a United States citizen. ](/news/2017/05/26/the-turkish-government-issues-an-arrest-warrant-for-nba-oklahoma-city-thunder-player-enes-kanter-suspected-of-being-a-member-of-a-terror-gr.md) _Context: Romania_
+5. [A freight train derails in Hunedoara County, Romania, killing both crew members on board. ](/news/2017/04/8/a-freight-train-derails-in-hunedoara-county-romania-killing-both-crew-members-on-board.md) _Context: Romania_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/10/the-death-toll-from-recent-floods-in-the-philippines-capital-manila-and-surrounding-regions-rises-to-60.html)  [JSON](/news/2012/08/10/the-death-toll-from-recent-floods-in-the-philippines-capital-manila-and-surrounding-regions-rises-to-60.json)  [XML](/news/2012/08/10/the-death-toll-from-recent-floods-in-the-philippines-capital-manila-and-surrounding-regions-rises-to-60.xml)  
+
 ### [2012-08-10](/news/2012/08/10/index.md)
 
+##### Philippines
 # The death toll from recent floods in the Philippines capital Manila and surrounding regions rises to 60. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/1680746/Philippine-flood-death-toll-rises-to-60)
 

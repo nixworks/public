@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/03/7/robert-gates-the-united-states-secretary-of-defense-arrives-in-afghanistan-to-meet-with-the-president-of-afghanistan-hamid-karzai.html)  [JSON](/news/2011/03/7/robert-gates-the-united-states-secretary-of-defense-arrives-in-afghanistan-to-meet-with-the-president-of-afghanistan-hamid-karzai.json)  [XML](/news/2011/03/7/robert-gates-the-united-states-secretary-of-defense-arrives-in-afghanistan-to-meet-with-the-president-of-afghanistan-hamid-karzai.xml)  
+
 ### [2011-03-7](/news/2011/03/7/index.md)
 
+##### Robert Gates
 # Robert Gates, the United States Secretary of Defense, arrives in Afghanistan to meet with the President of Afghanistan Hamid Karzai. 
 
 Defense Secretary Robert Gates described the mistaken killing of nine Afghan boys by NATO aircraft as a &quot;setback&quot; on Monday as the issue overshadowed a visit to Afghanistan to assess security progress.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/03/07/us-afghanistan-gates-idUSTRE7260P220110307)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110307&t=2&i=355857414&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-07T215512Z_01_BTRE7261AGU00_RTROPTP_0_AFGHANISTAN-GATES-APOLOGY)
+1. [Reuters](https://www.reuters.com/article/2011/03/07/us-afghanistan-gates-idUSTRE7260P220110307)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20110307&t=2&i=355857414&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-07T215512Z_01_BTRE7261AGU00_RTROPTP_0_AFGHANISTAN-GATES-APOLOGY)
 
 ### Related:
 

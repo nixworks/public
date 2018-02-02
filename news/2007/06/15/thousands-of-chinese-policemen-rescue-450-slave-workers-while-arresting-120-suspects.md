@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/15/thousands-of-chinese-policemen-rescue-450-slave-workers-while-arresting-120-suspects.html)  [JSON](/news/2007/06/15/thousands-of-chinese-policemen-rescue-450-slave-workers-while-arresting-120-suspects.json)  [XML](/news/2007/06/15/thousands-of-chinese-policemen-rescue-450-slave-workers-while-arresting-120-suspects.xml)  
+
 ### [2007-06-15](/news/2007/06/15/index.md)
 
+##### Ministry of Public Security of the People's Republic of China
 #  Thousands of Chinese policemen rescue 450 slave workers while arresting 120 suspects. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA](http://voanews.com/english/2007-06-15-voa18.cfm)
 

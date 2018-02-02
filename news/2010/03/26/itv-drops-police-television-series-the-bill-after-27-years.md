@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/26/itv-drops-police-television-series-the-bill-after-27-years.html)  [JSON](/news/2010/03/26/itv-drops-police-television-series-the-bill-after-27-years.json)  [XML](/news/2010/03/26/itv-drops-police-television-series-the-bill-after-27-years.xml)  
+
 ### [2010-03-26](/news/2010/03/26/index.md)
 
+##### ITV
 # ITV drops police television series "The Bill" after 27 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/arts/2010/0326/thebill.html)
 2. [The Guardian](http://www.guardian.co.uk/media/2010/mar/26/the-bill-itv)

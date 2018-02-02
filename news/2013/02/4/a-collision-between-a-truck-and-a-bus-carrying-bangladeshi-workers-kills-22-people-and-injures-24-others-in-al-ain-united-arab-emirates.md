@@ -1,21 +1,25 @@
+
+Formats: [HTML](/news/2013/02/4/a-collision-between-a-truck-and-a-bus-carrying-bangladeshi-workers-kills-22-people-and-injures-24-others-in-al-ain-united-arab-emirates.html)  [JSON](/news/2013/02/4/a-collision-between-a-truck-and-a-bus-carrying-bangladeshi-workers-kills-22-people-and-injures-24-others-in-al-ain-united-arab-emirates.json)  [XML](/news/2013/02/4/a-collision-between-a-truck-and-a-bus-carrying-bangladeshi-workers-kills-22-people-and-injures-24-others-in-al-ain-united-arab-emirates.xml)  
+
 ### [2013-02-4](/news/2013/02/4/index.md)
 
-# A collision between a truck and a bus carrying Bangladeshi workers kills 22 people and injures 24 others in Al Ain, United Arab Emirates.
+##### Bangladesh
+# A collision between a truck and a bus carrying Bangladeshi workers kills 22 people and injures 24 others in Al Ain, United Arab Emirates. 
 
 At least 22 people were killed when a truck laden with gravel collided with a bus carrying 46 Asian migrant workers in the oasis town of al-Ain in the United Arab Emirates, police said on Monday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/02/04/us-emirates-traffic-collision-idUSBRE9130JU20130204)
+1. [Reuters](https://www.reuters.com/article/2013/02/04/us-emirates-traffic-collision-idUSBRE9130JU20130204)
 2. [The Australian](http://www.theaustralian.com.au/news/breaking-news/asian-workers-killed-in-uae-bus-crash/story-fn3dxix6-1226570438123)
 3. [Travelers Today](http://www.travelerstoday.com/articles/4529/20130204/22-killed-collision-uae-truck-carrying-gravel.htm)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
-1. [A refugee boat en route to Bangladesh from Myanmar capsizes, resulting in at least 12 deaths. ](/news/2017/10/8/a-refugee-boat-en-route-to-bangladesh-from-myanmar-capsizes-resulting-in-at-least-12-deaths.md) _Context: Bangladesh_
-2. [Bangladesh accuses the Myanmar Army of laying landmines on the border between both countries to prevent the return of fleeing Rohingya refugees. Myanmar denies the Bangladeshi claims. ](/news/2017/09/6/bangladesh-accuses-the-myanmar-army-of-laying-landmines-on-the-border-between-both-countries-to-prevent-the-return-of-fleeing-rohingya-refug.md) _Context: Bangladesh_
-3. [More than 123,000 Rohingya refugees have fled Myanmar and crossed into Bangladesh due to escalating violence by the Myanmar Army. ](/news/2017/09/5/more-than-123-000-rohingya-refugees-have-fled-myanmar-and-crossed-into-bangladesh-due-to-escalating-violence-by-the-myanmar-army.md) _Context: Bangladesh_
-4. [Thailand's Ministry of Foreign Affairs says it is "closely following the situation" in Rakhine State and offers aid for the governments of Myanmar and Bangladesh. ](/news/2017/09/30/thailand-s-ministry-of-foreign-affairs-says-it-is-closely-following-the-situation-in-rakhine-state-and-offers-aid-for-the-governments-of-m.md) _Context: Bangladesh_
-5. [At least 14 Rohingya people, including 10 children, fleeing violence in Myanmar are killed when their boat apparently hits a submerged object and capsizes just yards from the Bangladesh coast. ](/news/2017/09/28/at-least-14-rohingya-people-including-10-children-fleeing-violence-in-myanmar-are-killed-when-their-boat-apparently-hits-a-submerged-objec.md) _Context: Bangladesh_
+1. [United Arab Emirates-backed Southern Transitional Council (STC) fighters seize control of government buildings in the southern Yemeni city of Aden, after clashing with forces loyal to President Abdrabbuh Mansur Hadi. At least 10 people are reportedly killed and 30 wounded. Yemeni Prime Minister Ahmed Obeid bin Daghr accuses the separatists of mounting a coup. ](/news/2018/01/28/united-arab-emirates-backed-southern-transitional-council-stc-fighters-seize-control-of-government-buildings-in-the-southern-yemeni-city-o.md) _Context: United Arab Emirates_
+2. [Win Myat Aye, Myanmar's minister of social welfare, relief and resettlement, announced that his country would begin repatriating Rohingya refugees in Bangladesh beginning on January 23, 2018. Burmese officials also promised that a newly built camp for repatriated refugees would also be finished by that date. ](/news/2018/01/15/win-myat-aye-myanmar-s-minister-of-social-welfare-relief-and-resettlement-announced-that-his-country-would-begin-repatriating-rohingya-re.md) _Context: Bangladesh_
+3. [Value Added Tax (VAT) has been introduced in Saudi Arabia and the United Arab Emirates for the first time. ](/news/2018/01/1/value-added-tax-vat-has-been-introduced-in-saudi-arabia-and-the-united-arab-emirates-for-the-first-time.md) _Context: United Arab Emirates_
+4. [At a GCC summit in Kuwait City, the United Arab Emirates announce a political and military alliance with Saudi Arabia. ](/news/2017/12/5/at-a-gcc-summit-in-kuwait-city-the-united-arab-emirates-announce-a-political-and-military-alliance-with-saudi-arabia.md) _Context: United Arab Emirates_
+5. [The lawyer of Ahmed Shafiq, a candidate for the spring 2018 presidential elections in Egypt, says she met him in a hotel room in Cairo following his arrest the day before in Dubai, U.A.E., after saying earlier today that his family didn't know his whereabouts. ](/news/2017/12/3/the-lawyer-of-ahmed-shafiq-a-candidate-for-the-spring-2018-presidential-elections-in-egypt-says-she-met-him-in-a-hotel-room-in-cairo-follo.md) _Context: United Arab Emirates_

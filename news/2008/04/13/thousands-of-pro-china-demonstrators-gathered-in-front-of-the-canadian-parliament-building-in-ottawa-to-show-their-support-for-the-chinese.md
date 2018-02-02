@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/13/thousands-of-pro-china-demonstrators-gathered-in-front-of-the-canadian-parliament-building-in-ottawa-to-show-their-support-for-the-chinese.html)  [JSON](/news/2008/04/13/thousands-of-pro-china-demonstrators-gathered-in-front-of-the-canadian-parliament-building-in-ottawa-to-show-their-support-for-the-chinese.json)  [XML](/news/2008/04/13/thousands-of-pro-china-demonstrators-gathered-in-front-of-the-canadian-parliament-building-in-ottawa-to-show-their-support-for-the-chinese.xml)  
+
 ### [2008-04-13](/news/2008/04/13/index.md)
 
+##### China
 #  Thousands of pro-China demonstrators gathered in front of the Canadian Parliament Building in Ottawa to show their support for the Chinese government and 2008 Beijing Olympics. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20080413/OTT_chinese_protest_080413/20080413?hub=TopStories)
 

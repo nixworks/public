@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/17/the-sudanese-government-says-that-a-recent-attempted-coup-d-a-c-tat-did-not-have-the-support-of-the-united-states-government-contrary-to-pre.html)  [JSON](/news/2007/07/17/the-sudanese-government-says-that-a-recent-attempted-coup-d-a-c-tat-did-not-have-the-support-of-the-united-states-government-contrary-to-pre.json)  [XML](/news/2007/07/17/the-sudanese-government-says-that-a-recent-attempted-coup-d-a-c-tat-did-not-have-the-support-of-the-united-states-government-contrary-to-pre.xml)  
+
 ### [2007-07-17](/news/2007/07/17/index.md)
 
+##### Sudan
 #  The Sudanese government says that a recent attempted coup d'etat did not have the support of the United States government, contrary to previous accusations from Nafi Ali Nafi, Sudanese President Omar al-Bashir's assistant. The government has arrested 14 members of the Umma Reform and Renewal Party for plotting the coup. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA News](http://www.voanews.com/english/2007-07-16-voa38.cfm)
 

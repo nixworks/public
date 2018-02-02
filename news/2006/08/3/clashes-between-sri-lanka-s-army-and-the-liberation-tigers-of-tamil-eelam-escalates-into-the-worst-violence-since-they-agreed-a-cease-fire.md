@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/08/3/clashes-between-sri-lanka-s-army-and-the-liberation-tigers-of-tamil-eelam-escalates-into-the-worst-violence-since-they-agreed-a-cease-fire.html)  [JSON](/news/2006/08/3/clashes-between-sri-lanka-s-army-and-the-liberation-tigers-of-tamil-eelam-escalates-into-the-worst-violence-since-they-agreed-a-cease-fire.json)  [XML](/news/2006/08/3/clashes-between-sri-lanka-s-army-and-the-liberation-tigers-of-tamil-eelam-escalates-into-the-worst-violence-since-they-agreed-a-cease-fire.xml)  
+
 ### [2006-08-3](/news/2006/08/3/index.md)
 
+##### Sri Lankan military
 #  Clashes between Sri Lanka's army and the Liberation Tigers of Tamil Eelam escalates into the worst violence since they agreed a cease-fire in 2002. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601080&sid=axEpeLqr0.5U&refer=asia)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601080&sid=axEpeLqr0.5U&refer=asia)
 
 ### Related:
 

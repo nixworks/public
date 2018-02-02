@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/24/lara-giddings-is-elected-as-the-first-female-premier-of-the-australian-state-of-tasmania.html)  [JSON](/news/2011/01/24/lara-giddings-is-elected-as-the-first-female-premier-of-the-australian-state-of-tasmania.json)  [XML](/news/2011/01/24/lara-giddings-is-elected-as-the-first-female-premier-of-the-australian-state-of-tasmania.xml)  
+
 ### [2011-01-24](/news/2011/01/24/index.md)
 
+##### Lara Giddings
 # Lara Giddings is elected as the first female Premier of the Australian state of Tasmania. 
 
 Lara Giddings has been sworn in as Tasmania&#039;s first female premier after being elected as leader by the state&#039;s Labor caucus this morning.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/01/24/3119679.htm?section=justin)
 1. [Cover Image](http://www.abc.net.au/news/image/1915204-1x1-700x700.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/5/former-malaysian-premier-mahathir-mohamad-hosts-a-conference-calling-for-george-w-bush-and-tony-blair-to-be-tried-by-an-unofficial-tribuna.html)  [JSON](/news/2007/02/5/former-malaysian-premier-mahathir-mohamad-hosts-a-conference-calling-for-george-w-bush-and-tony-blair-to-be-tried-by-an-unofficial-tribuna.json)  [XML](/news/2007/02/5/former-malaysian-premier-mahathir-mohamad-hosts-a-conference-calling-for-george-w-bush-and-tony-blair-to-be-tried-by-an-unofficial-tribuna.xml)  
+
 ### [2007-02-5](/news/2007/02/5/index.md)
 
+##### Malaysia
 #  Former Malaysian premier Mahathir Mohamad hosts a conference calling for George W. Bush and Tony Blair to be tried by an unofficial tribunal for war crimes in Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.today.reuters.com/News/newsArticle.aspx?type=worldNews&storyID=2007-02-05T141504Z_01_NOOTR_RTRJONC_0_India-286397-1.xml)
 

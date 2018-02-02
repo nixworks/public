@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/23/tunisian-police-arrest-two-politicians-linked-to-former-president-zine-el-abidine-ben-ali-who-was-recently-ousted-in-a-popular-uprising.html)  [JSON](/news/2011/01/23/tunisian-police-arrest-two-politicians-linked-to-former-president-zine-el-abidine-ben-ali-who-was-recently-ousted-in-a-popular-uprising.json)  [XML](/news/2011/01/23/tunisian-police-arrest-two-politicians-linked-to-former-president-zine-el-abidine-ben-ali-who-was-recently-ousted-in-a-popular-uprising.xml)  
+
 ### [2011-01-23](/news/2011/01/23/index.md)
 
+##### Tunisia
 # Tunisian police arrest two politicians linked to former President Zine El Abidine Ben Ali, who was recently ousted in a popular uprising. 
 
 Police in Tunisia detain two politicians and a media executive close to ousted President Zine al-Abidine Ben Ali, state media report, as protests continue.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12261911)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

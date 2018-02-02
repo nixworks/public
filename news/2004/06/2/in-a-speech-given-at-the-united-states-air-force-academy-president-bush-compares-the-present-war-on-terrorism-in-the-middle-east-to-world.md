@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/2/in-a-speech-given-at-the-united-states-air-force-academy-president-bush-compares-the-present-war-on-terrorism-in-the-middle-east-to-world.html)  [JSON](/news/2004/06/2/in-a-speech-given-at-the-united-states-air-force-academy-president-bush-compares-the-present-war-on-terrorism-in-the-middle-east-to-world.json)  [XML](/news/2004/06/2/in-a-speech-given-at-the-united-states-air-force-academy-president-bush-compares-the-present-war-on-terrorism-in-the-middle-east-to-world.xml)  
+
 ### [2004-06-2](/news/2004/06/2/index.md)
 
+##### United States Air Force Academy
 #  In a speech given at the United States Air Force Academy, President Bush compares the present War on Terrorism in the Middle East to World War&nbsp;II in Europe. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://apnews.myway.com/article/20040602/D82V24301.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/3771401.stm)

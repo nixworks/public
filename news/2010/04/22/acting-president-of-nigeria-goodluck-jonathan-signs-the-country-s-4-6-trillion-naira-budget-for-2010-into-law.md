@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/22/acting-president-of-nigeria-goodluck-jonathan-signs-the-country-s-4-6-trillion-naira-budget-for-2010-into-law.html)  [JSON](/news/2010/04/22/acting-president-of-nigeria-goodluck-jonathan-signs-the-country-s-4-6-trillion-naira-budget-for-2010-into-law.json)  [XML](/news/2010/04/22/acting-president-of-nigeria-goodluck-jonathan-signs-the-country-s-4-6-trillion-naira-budget-for-2010-into-law.xml)  
+
 ### [2010-04-22](/news/2010/04/22/index.md)
 
+##### President
 # Acting President of Nigeria Goodluck Jonathan signs the country's 4.6 trillion naira budget for 2010 into law. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE63L0CF20100422)
 

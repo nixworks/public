@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/12/20/midwest-airlines-flight-210-lands-safely-at-boston-s-logan-international-airport-with-a-landing-gear-problem-late-tuesday-after-circling-th.html)  [JSON](/news/2005/12/20/midwest-airlines-flight-210-lands-safely-at-boston-s-logan-international-airport-with-a-landing-gear-problem-late-tuesday-after-circling-th.json)  [XML](/news/2005/12/20/midwest-airlines-flight-210-lands-safely-at-boston-s-logan-international-airport-with-a-landing-gear-problem-late-tuesday-after-circling-th.xml)  
+
 ### [2005-12-20](/news/2005/12/20/index.md)
 
+##### Boston
 #  Midwest Airlines Flight 210 lands safely at Boston's Logan International Airport with a landing-gear problem late Tuesday after circling the airport for approximately two hours. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo!](http://news.yahoo.com/s/ap/20051221/ap_on_re_us/logan_plane)
+1. [AP via Yahoo!](https://news.yahoo.com/s/ap/20051221/ap_on_re_us/logan_plane)
 
 ### Related:
 

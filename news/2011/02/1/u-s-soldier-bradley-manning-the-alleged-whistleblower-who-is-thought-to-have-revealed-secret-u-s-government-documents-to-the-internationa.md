@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/1/u-s-soldier-bradley-manning-the-alleged-whistleblower-who-is-thought-to-have-revealed-secret-u-s-government-documents-to-the-internationa.html)  [JSON](/news/2011/02/1/u-s-soldier-bradley-manning-the-alleged-whistleblower-who-is-thought-to-have-revealed-secret-u-s-government-documents-to-the-internationa.json)  [XML](/news/2011/02/1/u-s-soldier-bradley-manning-the-alleged-whistleblower-who-is-thought-to-have-revealed-secret-u-s-government-documents-to-the-internationa.xml)  
+
 ### [2011-02-1](/news/2011/02/1/index.md)
 
+##### Bradley Manning
 # U.S. soldier Bradley Manning, the alleged whistleblower who is thought to have revealed secret U.S. government documents to the international public, is reported to be held in solitary confinement awaiting trial by the United States for seven months now, treatment which the United Nations deems a form of torture when used for such prolonged periods. 
 
 US soldier accused of giving a dossier of secret documents to WikiLeaks is held in solitary confinement awaiting trial.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/video/americas/2011/02/20112154519935748.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/1/20112162727563784_20.jpg)

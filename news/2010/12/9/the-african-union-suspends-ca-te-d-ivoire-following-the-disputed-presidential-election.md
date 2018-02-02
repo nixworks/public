@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/9/the-african-union-suspends-ca-te-d-ivoire-following-the-disputed-presidential-election.html)  [JSON](/news/2010/12/9/the-african-union-suspends-ca-te-d-ivoire-following-the-disputed-presidential-election.json)  [XML](/news/2010/12/9/the-african-union-suspends-ca-te-d-ivoire-following-the-disputed-presidential-election.xml)  
+
 ### [2010-12-9](/news/2010/12/9/index.md)
 
+##### African Union
 # The African Union suspends Cote d'Ivoire following the disputed presidential election. 
 
 The African Union suspends Ivory Coast, following a disputed presidential election in the West African nation.
 
 
-### Source:
+### Sources:
 
 1. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=136791)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11963694)

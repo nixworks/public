@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/8/soul-singer-aretha-franklin-is-reported-to-have-pancreatic-cancer.html)  [JSON](/news/2010/12/8/soul-singer-aretha-franklin-is-reported-to-have-pancreatic-cancer.json)  [XML](/news/2010/12/8/soul-singer-aretha-franklin-is-reported-to-have-pancreatic-cancer.xml)  
+
 ### [2010-12-8](/news/2010/12/8/index.md)
 
+##### Aretha Franklin
 # Soul singer Aretha Franklin is reported to have pancreatic cancer. 
 
 Aretha Franklin, who recently underwent surgery for undisclosed issues, reportedly has pancreatic cancer.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC News](http://www.abc.net.au/news/stories/2010/12/09/3088694.htm?section=justin)
 1. [Cover Image](http://www.abc.net.au/news/image/271580-1x1-700x700.jpg)

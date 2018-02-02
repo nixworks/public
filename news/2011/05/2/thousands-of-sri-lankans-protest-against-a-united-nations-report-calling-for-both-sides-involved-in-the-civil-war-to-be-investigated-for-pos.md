@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/2/thousands-of-sri-lankans-protest-against-a-united-nations-report-calling-for-both-sides-involved-in-the-civil-war-to-be-investigated-for-pos.html)  [JSON](/news/2011/05/2/thousands-of-sri-lankans-protest-against-a-united-nations-report-calling-for-both-sides-involved-in-the-civil-war-to-be-investigated-for-pos.json)  [XML](/news/2011/05/2/thousands-of-sri-lankans-protest-against-a-united-nations-report-calling-for-both-sides-involved-in-the-civil-war-to-be-investigated-for-pos.xml)  
+
 ### [2011-05-2](/news/2011/05/2/index.md)
 
+##### Sri Lanka
 # Thousands of Sri Lankans protest against a United Nations report calling for both sides involved in the civil war to be investigated for possible war crimes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2011/4/18/Thousands-protest-Sri-Lanka-against-report,578e0304-8b03-46bd-9f63-a45c12fac016.html)
 

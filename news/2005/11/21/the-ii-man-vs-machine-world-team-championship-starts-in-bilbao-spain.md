@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/21/the-ii-man-vs-machine-world-team-championship-starts-in-bilbao-spain.html)  [JSON](/news/2005/11/21/the-ii-man-vs-machine-world-team-championship-starts-in-bilbao-spain.json)  [XML](/news/2005/11/21/the-ii-man-vs-machine-world-team-championship-starts-in-bilbao-spain.xml)  
+
 ### [2005-11-21](/news/2005/11/21/index.md)
 
+##### Man vs Machine World Team Championship
 #  The II Man vs Machine World Team Championship starts in Bilbao, Spain. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ChessBase](http://www.chessbase.com/eventlist.asp?eventname=Bilbao%20man%20vs%20machine)
 

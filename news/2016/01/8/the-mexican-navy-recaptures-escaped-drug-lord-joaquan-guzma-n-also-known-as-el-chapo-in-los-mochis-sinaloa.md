@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/8/the-mexican-navy-recaptures-escaped-drug-lord-jo
 
 ### [2016-01-8](/news/2016/01/8/index.md)
 
+##### Mexican Drug War
 # The Mexican Navy recaptures escaped drug lord Joaquin Guzman, also known as "El Chapo", in Los Mochis, Sinaloa. 
 
 The notorious Mexican drug lord Joaquin “El Chapo” Guzman has been arrested after his scandalous prison break last year, the Mexican president announced, praising the success of a months-long criminal and intelligence investigation.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/29/violent-anti-government-protests-in-antananarivo-madagascar-are-temporarily-halted.html)  [JSON](/news/2009/01/29/violent-anti-government-protests-in-antananarivo-madagascar-are-temporarily-halted.json)  [XML](/news/2009/01/29/violent-anti-government-protests-in-antananarivo-madagascar-are-temporarily-halted.xml)  
+
 ### [2009-01-29](/news/2009/01/29/index.md)
 
+##### government
 #  Violent anti-government protests in Antananarivo, Madagascar, are temporarily halted. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [France 24](http://www.france24.com/en/20090129-capital-becomes-ghost-town-after-protests-madagascar-mayor)
 

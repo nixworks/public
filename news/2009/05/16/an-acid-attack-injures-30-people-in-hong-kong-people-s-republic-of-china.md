@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/16/an-acid-attack-injures-30-people-in-hong-kong-people-s-republic-of-china.html)  [JSON](/news/2009/05/16/an-acid-attack-injures-30-people-in-hong-kong-people-s-republic-of-china.json)  [XML](/news/2009/05/16/an-acid-attack-injures-30-people-in-hong-kong-people-s-republic-of-china.xml)  
+
 ### [2009-05-16](/news/2009/05/16/index.md)
 
+##### acid
 #  An acid attack injures 30 people in Hong Kong, People's Republic of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8053645.stm)
 

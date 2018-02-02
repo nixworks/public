@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/23/bangladesh-sentences-a-further-23-soldiers-from-the-bangladesh-rifles-to-imprisonment-over-a-mutiny-in-february-2009.html)  [JSON](/news/2010/11/23/bangladesh-sentences-a-further-23-soldiers-from-the-bangladesh-rifles-to-imprisonment-over-a-mutiny-in-february-2009.json)  [XML](/news/2010/11/23/bangladesh-sentences-a-further-23-soldiers-from-the-bangladesh-rifles-to-imprisonment-over-a-mutiny-in-february-2009.xml)  
+
 ### [2010-11-23](/news/2010/11/23/index.md)
 
+##### Bangladesh
 # Bangladesh sentences a further 23 soldiers from the Bangladesh Rifles to imprisonment over a mutiny in February 2009. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/23/c_13618934.htm)
 

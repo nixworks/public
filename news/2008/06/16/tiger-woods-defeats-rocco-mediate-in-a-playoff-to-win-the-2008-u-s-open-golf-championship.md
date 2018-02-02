@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/06/16/tiger-woods-defeats-rocco-mediate-in-a-playoff-to-win-the-2008-u-s-open-golf-championship.html)  [JSON](/news/2008/06/16/tiger-woods-defeats-rocco-mediate-in-a-playoff-to-win-the-2008-u-s-open-golf-championship.json)  [XML](/news/2008/06/16/tiger-woods-defeats-rocco-mediate-in-a-playoff-to-win-the-2008-u-s-open-golf-championship.xml)  
+
 ### [2008-06-16](/news/2008/06/16/index.md)
 
+##### Tiger Woods
 #  Tiger Woods defeats Rocco Mediate in a playoff to win the 2008 U.S. Open Golf Championship. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The New York Times](http://www.nytimes.com/aponline/sports/AP-GLF-US-Open.html)
+1. [AP via ''The New York Times](https://www.nytimes.com/aponline/sports/AP-GLF-US-Open.html)
 
 ### Related:
 

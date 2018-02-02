@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/26/researchers-at-the-slac-national-accelerator-la
 
 ### [2016-12-26](/news/2016/12/26/index.md)
 
+##### SLAC National Accelerator Laboratory
 # Researchers at the SLAC National Accelerator Laboratory find a way to make thinner electrical wires that measure just three atoms wide. 
 
 SLAC National Accelerator Laboratory is a U.S. Department of Energy (DOE) Office of Science laboratory operated by Stanford University.

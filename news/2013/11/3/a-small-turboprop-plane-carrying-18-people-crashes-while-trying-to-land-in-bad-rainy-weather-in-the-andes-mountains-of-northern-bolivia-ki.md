@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/3/a-small-turboprop-plane-carrying-18-people-crashes-while-trying-to-land-in-bad-rainy-weather-in-the-andes-mountains-of-northern-bolivia-ki.html)  [JSON](/news/2013/11/3/a-small-turboprop-plane-carrying-18-people-crashes-while-trying-to-land-in-bad-rainy-weather-in-the-andes-mountains-of-northern-bolivia-ki.json)  [XML](/news/2013/11/3/a-small-turboprop-plane-carrying-18-people-crashes-while-trying-to-land-in-bad-rainy-weather-in-the-andes-mountains-of-northern-bolivia-ki.xml)  
+
 ### [2013-11-3](/news/2013/11/3/index.md)
 
+##### turboprop
 # A small turboprop plane carrying 18 people crashes while trying to land in bad, rainy weather in the Andes Mountains of northern Bolivia, killing 8, and injuring 10, including the pilot and co-pilot, on a trip from Trinidad, Bolivia to Riberalta, Bolivia, in El Beni Department near Brazil. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://worldnews.nbcnews.com/_news/2013/11/03/21299131-8-killed-10-injured-in-bolivia-plane-crash?lite=)
 

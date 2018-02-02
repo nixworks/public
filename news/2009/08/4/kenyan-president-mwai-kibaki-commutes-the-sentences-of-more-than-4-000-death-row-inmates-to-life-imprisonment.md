@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/4/kenyan-president-mwai-kibaki-commutes-the-sentences-of-more-than-4-000-death-row-inmates-to-life-imprisonment.html)  [JSON](/news/2009/08/4/kenyan-president-mwai-kibaki-commutes-the-sentences-of-more-than-4-000-death-row-inmates-to-life-imprisonment.json)  [XML](/news/2009/08/4/kenyan-president-mwai-kibaki-commutes-the-sentences-of-more-than-4-000-death-row-inmates-to-life-imprisonment.xml)  
+
 ### [2009-08-4](/news/2009/08/4/index.md)
 
+##### Kenya
 #  Kenyan President Mwai Kibaki commutes the sentences of more than 4,000 death row inmates to life imprisonment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=87&art_id=nw20090803221644412C330964)
 

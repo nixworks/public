@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/4/a-man-with-a-knife-embarks-on-a-fatal-slashing-rampage-in-a-kindergarten-in-zibo-shandong.html)  [JSON](/news/2010/08/4/a-man-with-a-knife-embarks-on-a-fatal-slashing-rampage-in-a-kindergarten-in-zibo-shandong.json)  [XML](/news/2010/08/4/a-man-with-a-knife-embarks-on-a-fatal-slashing-rampage-in-a-kindergarten-in-zibo-shandong.xml)  
+
 ### [2010-08-4](/news/2010/08/4/index.md)
 
+##### fatal slashing rampage
 # A man with a knife embarks on a fatal slashing rampage in a kindergarten in Zibo, Shandong. 
 
 A wave of violent attacks on Chinese schools has left many asking whether social support has kept up with the pace of change.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10869013)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/man-kills-3-children-teacher-in-china-20100804-11d96.html)

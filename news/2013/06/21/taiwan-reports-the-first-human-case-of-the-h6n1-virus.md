@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/21/taiwan-reports-the-first-human-case-of-the-h6n1-virus.html)  [JSON](/news/2013/06/21/taiwan-reports-the-first-human-case-of-the-h6n1-virus.json)  [XML](/news/2013/06/21/taiwan-reports-the-first-human-case-of-the-h6n1-virus.xml)  
+
 ### [2013-06-21](/news/2013/06/21/index.md)
 
+##### Taiwan
 # Taiwan reports the first human case of the H6N1 virus. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Focus Taiwan](http://focustaiwan.tw/news/aall/201306210025.aspx)
 1. [Cover Image](http://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20130621/201306210025t0002.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/22/an-indonesian-ferry-carrying-over-200-passengers-sinks-off-the-cost-of-sumatra.html)  [JSON](/news/2009/11/22/an-indonesian-ferry-carrying-over-200-passengers-sinks-off-the-cost-of-sumatra.json)  [XML](/news/2009/11/22/an-indonesian-ferry-carrying-over-200-passengers-sinks-off-the-cost-of-sumatra.xml)  
+
 ### [2009-11-22](/news/2009/11/22/index.md)
 
+##### Indonesia
 #  An Indonesian ferry carrying over 200 passengers sinks off the cost of Sumatra. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/story/0,23599,26384321-1702,00.html)
 2. [China Daily](http://www.chinadaily.com.cn/world/2009-11/22/content_9019455.htm)

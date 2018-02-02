@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/14/the-14th-dalai-lama-formally-submits-his-resignation-as-tibet-s-political-leader-to-the-tibetan-parliament-in-exile-in-dharamsala-india.html)  [JSON](/news/2011/03/14/the-14th-dalai-lama-formally-submits-his-resignation-as-tibet-s-political-leader-to-the-tibetan-parliament-in-exile-in-dharamsala-india.json)  [XML](/news/2011/03/14/the-14th-dalai-lama-formally-submits-his-resignation-as-tibet-s-political-leader-to-the-tibetan-parliament-in-exile-in-dharamsala-india.xml)  
+
 ### [2011-03-14](/news/2011/03/14/index.md)
 
+##### 14th Dalai Lama
 # The 14th Dalai Lama formally submits his resignation as Tibet's political leader to the Tibetan Parliament-in-exile in Dharamsala, India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2011/03/14/Dalai-Lama-formally-resigns/UPI-38011300126321/)
 1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/38011300126321/2011/1/0500c7c20b4a1380900a85bebb3cc56a/v2.1/Dalai-Lama-formally-resigns.jpg)

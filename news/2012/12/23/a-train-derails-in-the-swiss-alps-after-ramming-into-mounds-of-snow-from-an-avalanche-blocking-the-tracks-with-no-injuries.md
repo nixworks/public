@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/23/a-train-derails-in-the-swiss-alps-after-ramming-into-mounds-of-snow-from-an-avalanche-blocking-the-tracks-with-no-injuries.html)  [JSON](/news/2012/12/23/a-train-derails-in-the-swiss-alps-after-ramming-into-mounds-of-snow-from-an-avalanche-blocking-the-tracks-with-no-injuries.json)  [XML](/news/2012/12/23/a-train-derails-in-the-swiss-alps-after-ramming-into-mounds-of-snow-from-an-avalanche-blocking-the-tracks-with-no-injuries.xml)  
+
 ### [2012-12-23](/news/2012/12/23/index.md)
 
+##### train
 # A train derails in the Swiss Alps after ramming into mounds of snow from an avalanche blocking the tracks with no injuries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The New Age](http://www.thenewage.co.za/75222-1020-53-Swiss_train_derails_due_to_avalanche_rail_operator)
 

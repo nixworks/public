@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2004/09/16/united-nations-secretary-general-kofi-annan-reluctantly-describes-the-2003-u-s-led-invasion-of-iraq-as-an-illegal-violation-of-the-un-ch.html)  [JSON](/news/2004/09/16/united-nations-secretary-general-kofi-annan-reluctantly-describes-the-2003-u-s-led-invasion-of-iraq-as-an-illegal-violation-of-the-un-ch.json)  [XML](/news/2004/09/16/united-nations-secretary-general-kofi-annan-reluctantly-describes-the-2003-u-s-led-invasion-of-iraq-as-an-illegal-violation-of-the-un-ch.xml)  
+
 ### [2004-09-16](/news/2004/09/16/index.md)
 
+##### United Nations Secretary-General
 #  United Nations Secretary-General Kofi Annan reluctantly describes the 2003 U.S.-led invasion of Iraq as an "illegal" violation of the UN Charter, in response to repeated questions on the subject during a press conference. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3661134.stm)
 2. [Boston Globe](http://www.boston.com/dailynews/259/world/U_N_chief_says_U_S_led_Iraq_wa:.shtml)
 3. [ITN](http://www.itv.com/news/index_1969667.html)
-4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6248462)
+4. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6248462)
 
 ### Related:
 

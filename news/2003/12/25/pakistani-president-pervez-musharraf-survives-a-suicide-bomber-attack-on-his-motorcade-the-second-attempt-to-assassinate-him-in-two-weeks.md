@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2003/12/25/pakistani-president-pervez-musharraf-survives-a-suicide-bomber-attack-on-his-motorcade-the-second-attempt-to-assassinate-him-in-two-weeks.html)  [JSON](/news/2003/12/25/pakistani-president-pervez-musharraf-survives-a-suicide-bomber-attack-on-his-motorcade-the-second-attempt-to-assassinate-him-in-two-weeks.json)  [XML](/news/2003/12/25/pakistani-president-pervez-musharraf-survives-a-suicide-bomber-attack-on-his-motorcade-the-second-attempt-to-assassinate-him-in-two-weeks.xml)  
+
 ### [2003-12-25](/news/2003/12/25/index.md)
 
-#  Pakistani President Pervez Musharraf survives a suicide bomber attack on his motorcade, the second attempt to assassinate him in two weeks. [http:--www.nytimes.com-2003-12-26-international-asia-26STAN.html]
+##### Pakistan
+#  Pakistani President Pervez Musharraf survives a suicide bomber attack on his motorcade, the second attempt to assassinate him in two weeks. [https:--www.nytimes.com-2003-12-26-international-asia-26STAN.html]
 
 
 

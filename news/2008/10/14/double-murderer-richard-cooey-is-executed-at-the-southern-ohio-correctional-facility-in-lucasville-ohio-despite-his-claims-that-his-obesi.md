@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/14/double-murderer-richard-cooey-is-executed-at-the-southern-ohio-correctional-facility-in-lucasville-ohio-despite-his-claims-that-his-obesi.html)  [JSON](/news/2008/10/14/double-murderer-richard-cooey-is-executed-at-the-southern-ohio-correctional-facility-in-lucasville-ohio-despite-his-claims-that-his-obesi.json)  [XML](/news/2008/10/14/double-murderer-richard-cooey-is-executed-at-the-southern-ohio-correctional-facility-in-lucasville-ohio-despite-his-claims-that-his-obesi.xml)  
+
 ### [2008-10-14](/news/2008/10/14/index.md)
 
+##### Richard Cooey
 #  Double murderer Richard Cooey is executed at the Southern Ohio Correctional Facility in Lucasville, Ohio, despite his claims that his obesity made lethal injection inhumane. 
 
 An Ohio man convicted of raping, beating and killing two women two decades ago was executed Tuesday by lethal injection at the state prison in Lucasville.
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/2008/10/14/Ohio_executes_double_murderer/UPI-74301223997438/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/3/hassan-nasrallah-head-of-hezbollah-openly-states-for-the-first-time-that-the-governments-of-iran-and-syria-are-supporting-hezbollah-finan.html)  [JSON](/news/2007/02/3/hassan-nasrallah-head-of-hezbollah-openly-states-for-the-first-time-that-the-governments-of-iran-and-syria-are-supporting-hezbollah-finan.json)  [XML](/news/2007/02/3/hassan-nasrallah-head-of-hezbollah-openly-states-for-the-first-time-that-the-governments-of-iran-and-syria-are-supporting-hezbollah-finan.xml)  
+
 ### [2007-02-3](/news/2007/02/3/index.md)
 
+##### Hassan Nasrallah
 #  Hassan Nasrallah, head of Hezbollah, openly states for the first time that the governments of Iran and Syria are supporting Hezbollah financially, with weapons, and with training, and "everybody knows it." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?c=JPArticle&cid=1170359771711&pagename=JPost%2FJPArticle%2FShowFull)
 

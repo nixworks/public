@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/1/a-gunman-opens-fire-in-a-nightclub-in-istanbul-o
 
 ### [2017-01-1](/news/2017/01/1/index.md)
 
+##### 2017 Istanbul nightclub attack
 # A gunman opens fire in a nightclub in Istanbul, on the European coast of the Bosphorus, killing at least 39 people with an additional 69 wounded. 
 
 A gunman is on the run after at least 39 people were killed in an attack on an Istanbul nightclub.

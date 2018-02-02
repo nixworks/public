@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/11/an-australian-senate-report-on-poverty-is-immediately-dismissed-by-prime-minister-john-howard-the-report-shows-between-2-and-3-5-million-a.html)  [JSON](/news/2004/03/11/an-australian-senate-report-on-poverty-is-immediately-dismissed-by-prime-minister-john-howard-the-report-shows-between-2-and-3-5-million-a.json)  [XML](/news/2004/03/11/an-australian-senate-report-on-poverty-is-immediately-dismissed-by-prime-minister-john-howard-the-report-shows-between-2-and-3-5-million-a.xml)  
+
 ### [2004-03-11](/news/2004/03/11/index.md)
 
+##### Senator
 #  An Australian Senate report on poverty is immediately dismissed by Prime Minister John Howard. The report shows between 2 and 3.5 million Australians, or up to 19 per cent of the population, are living in poverty. 
 
 Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAsia featuring Business, World, Sport, Entertainment, Technology, Health, Lifestyle and Live Streaming.
 
 
-### Source:
+### Sources:
 
 1. [Age](http://www.theage.com.au/articles/2004/03/11/1078594504330.html)
 2. [Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,8942044%255E2702,00.html)

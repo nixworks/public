@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/12/9/president-george-w-bush-nominates-jim-nicholson-united-states-ambassador-to-the-holy-see-as-his-nominee-for-secretary-of-veterans-affair.html)  [JSON](/news/2004/12/9/president-george-w-bush-nominates-jim-nicholson-united-states-ambassador-to-the-holy-see-as-his-nominee-for-secretary-of-veterans-affair.json)  [XML](/news/2004/12/9/president-george-w-bush-nominates-jim-nicholson-united-states-ambassador-to-the-holy-see-as-his-nominee-for-secretary-of-veterans-affair.xml)  
+
 ### [2004-12-9](/news/2004/12/9/index.md)
 
+##### Jim Nicholson
 #  President George W. Bush nominates Jim Nicholson, United States Ambassador to the Holy See, as his nominee for Secretary of Veterans Affairs, replacing outgoing Secretary Anthony Principi.
 
 

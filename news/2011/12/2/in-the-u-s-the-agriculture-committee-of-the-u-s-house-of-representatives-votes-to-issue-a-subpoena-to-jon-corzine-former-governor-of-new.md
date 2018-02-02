@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/2/in-the-u-s-the-agriculture-committee-of-the-u-s-house-of-representatives-votes-to-issue-a-subpoena-to-jon-corzine-former-governor-of-new.html)  [JSON](/news/2011/12/2/in-the-u-s-the-agriculture-committee-of-the-u-s-house-of-representatives-votes-to-issue-a-subpoena-to-jon-corzine-former-governor-of-new.json)  [XML](/news/2011/12/2/in-the-u-s-the-agriculture-committee-of-the-u-s-house-of-representatives-votes-to-issue-a-subpoena-to-jon-corzine-former-governor-of-new.xml)  
+
 ### [2011-12-2](/news/2011/12/2/index.md)
 
+##### Agriculture Committee
 # In the U.S., the Agriculture Committee of the U.S. House of Representatives votes to issue a subpoena to Jon Corzine, former Governor of New Jersey, in connection with the collapse of MF Global and the disappearance of customer funds. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Committee press release](http://agriculture.house.gov/press/PRArticle.aspx?NewsID=1489)
 

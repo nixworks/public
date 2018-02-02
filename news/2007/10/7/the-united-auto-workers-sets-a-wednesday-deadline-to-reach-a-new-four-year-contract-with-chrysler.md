@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/10/7/the-united-auto-workers-sets-a-wednesday-deadline-to-reach-a-new-four-year-contract-with-chrysler.html)  [JSON](/news/2007/10/7/the-united-auto-workers-sets-a-wednesday-deadline-to-reach-a-new-four-year-contract-with-chrysler.json)  [XML](/news/2007/10/7/the-united-auto-workers-sets-a-wednesday-deadline-to-reach-a-new-four-year-contract-with-chrysler.xml)  
+
 ### [2007-10-7](/news/2007/10/7/index.md)
 
+##### United Auto Workers
 #  The United Auto Workers sets a Wednesday deadline to reach a new four-year contract with Chrysler. 
 
 The United Automobile Workers union has set a Wednesday strike deadline in talks with Chrysler, people with direct knowledge of the negotiations said.
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/2007/10/08/business/08auto.html?ex=1349582400&en=e31a9cb7f42b0834&ei=5088&partner=rssnyt&emc=rss)
+1. [NYT](https://www.nytimes.com/2007/10/08/business/08auto.html?ex=1349582400&en=e31a9cb7f42b0834&ei=5088&partner=rssnyt&emc=rss)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

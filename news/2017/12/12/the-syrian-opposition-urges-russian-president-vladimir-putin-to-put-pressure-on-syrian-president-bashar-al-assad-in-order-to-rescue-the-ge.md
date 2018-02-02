@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/12/the-syrian-opposition-urges-russian-president-v
 
 ### [2017-12-12](/news/2017/12/12/index.md)
 
+##### Syrian Civil War
 # The Syrian opposition urges Russian president Vladimir Putin to put pressure on Syrian president Bashar al-Assad in order to "rescue" the Geneva peace talks and begin face-to-face bilateral talks. 
 
 Vladimir Putin needs to apply decisive pressure on Bashar al-Assad at Geneva, says leading member of Syrian opposition

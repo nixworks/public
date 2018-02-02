@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/17/former-iranian-president-akbar-hashemi-rafsanjani-holds-friday-prayers-in-tehran-and-calls-for-the-release-of-political-prisoners-from-the.html)  [JSON](/news/2009/07/17/former-iranian-president-akbar-hashemi-rafsanjani-holds-friday-prayers-in-tehran-and-calls-for-the-release-of-political-prisoners-from-the.json)  [XML](/news/2009/07/17/former-iranian-president-akbar-hashemi-rafsanjani-holds-friday-prayers-in-tehran-and-calls-for-the-release-of-political-prisoners-from-the.xml)  
+
 ### [2009-07-17](/news/2009/07/17/index.md)
 
+##### Iranian President
 #  Former Iranian President Akbar Hashemi Rafsanjani holds Friday prayers in Tehran and calls for the release of political prisoners from the election protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jGSJEAPs_r2T2wxsL5G3t4z-jajQD99G4MD80)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8155203.stm)

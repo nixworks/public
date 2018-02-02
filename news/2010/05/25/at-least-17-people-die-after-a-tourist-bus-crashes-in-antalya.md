@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/25/at-least-17-people-die-after-a-tourist-bus-crashes-in-antalya.html)  [JSON](/news/2010/05/25/at-least-17-people-die-after-a-tourist-bus-crashes-in-antalya.json)  [XML](/news/2010/05/25/at-least-17-people-die-after-a-tourist-bus-crashes-in-antalya.xml)  
+
 ### [2010-05-25](/news/2010/05/25/index.md)
 
+##### Antalya
 # At least 17 people die after a tourist bus crashes in Antalya. 
 
 Sixteen people are killed when a coach carrying Russian tourists crashes off a bridge in southern Turkey, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10151869.stm)
 2. [CBS News](http://www.cbsnews.com/stories/2010/05/25/world/main6516654.shtml)

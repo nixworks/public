@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/22/hong-kong-braces-for-the-impact-of-typhoon-usagi-after-two-people-are-killed-in-the-philippines.html)  [JSON](/news/2013/09/22/hong-kong-braces-for-the-impact-of-typhoon-usagi-after-two-people-are-killed-in-the-philippines.json)  [XML](/news/2013/09/22/hong-kong-braces-for-the-impact-of-typhoon-usagi-after-two-people-are-killed-in-the-philippines.xml)  
+
 ### [2013-09-22](/news/2013/09/22/index.md)
 
+##### Hong Kong
 # Hong Kong braces for the impact of Typhoon Usagi after two people are killed in the Philippines. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/severe-typhoon-hits-taiwan-and-philippines)
 

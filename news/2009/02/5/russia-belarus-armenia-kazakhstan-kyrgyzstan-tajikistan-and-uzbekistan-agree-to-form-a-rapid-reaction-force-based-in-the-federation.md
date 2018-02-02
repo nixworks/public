@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/5/russia-belarus-armenia-kazakhstan-kyrgyzstan-tajikistan-and-uzbekistan-agree-to-form-a-rapid-reaction-force-based-in-the-federation.html)  [JSON](/news/2009/02/5/russia-belarus-armenia-kazakhstan-kyrgyzstan-tajikistan-and-uzbekistan-agree-to-form-a-rapid-reaction-force-based-in-the-federation.json)  [XML](/news/2009/02/5/russia-belarus-armenia-kazakhstan-kyrgyzstan-tajikistan-and-uzbekistan-agree-to-form-a-rapid-reaction-force-based-in-the-federation.xml)  
+
 ### [2009-02-5](/news/2009/02/5/index.md)
 
+##### Russia
 #  Russia, Belarus, Armenia, Kazakhstan, Kyrgyzstan, Tajikistan, and Uzbekistan agree to form a rapid reaction force based in the Federation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Australian](http://www.theaustralian.news.com.au/story/0,25197,25010552-12377,00.html)
 

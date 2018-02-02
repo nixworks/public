@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/28/arab-and-middle-east-leaders-meet-in-riyadh-saudi-arabia-to-discuss-reviving-the-middle-east-peace-process.html)  [JSON](/news/2007/03/28/arab-and-middle-east-leaders-meet-in-riyadh-saudi-arabia-to-discuss-reviving-the-middle-east-peace-process.json)  [XML](/news/2007/03/28/arab-and-middle-east-leaders-meet-in-riyadh-saudi-arabia-to-discuss-reviving-the-middle-east-peace-process.xml)  
+
 ### [2007-03-28](/news/2007/03/28/index.md)
 
+##### Arab
 #  Arab and Middle East leaders meet in Riyadh, Saudi Arabia to discuss reviving the Middle East peace process. 
 
 Bush administration attempts to revive Arab-Israeli peace talks suffered a setback Wednesday as leaders at an Arab League summit here, including the heads of state of several U.S. allies, condemned...
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-arabs29mar29,0,7532362.story?coll=la-home-world)
 1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

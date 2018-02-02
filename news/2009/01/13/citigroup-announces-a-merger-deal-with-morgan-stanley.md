@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/01/13/citigroup-announces-a-merger-deal-with-morgan-stanley.html)  [JSON](/news/2009/01/13/citigroup-announces-a-merger-deal-with-morgan-stanley.json)  [XML](/news/2009/01/13/citigroup-announces-a-merger-deal-with-morgan-stanley.xml)  
+
 ### [2009-01-13](/news/2009/01/13/index.md)
 
+##### Citigroup
 #  Citigroup announces a merger deal with Morgan Stanley. 
 
 Citigroup Inc faced growing uncertainty on Wednesday about whether it could ever function well, leading investors to drive its shares down below $5.00 to their lowest level since the bank won a government rescue in November.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/ousiv/idUSN1234412520090114)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090114&t=2&i=7856202&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-01-14T194153Z_01_BTRE50D0UXS00_RTROPTP_0_CITIGROUP)
+1. [Reuters](https://www.reuters.com/article/ousiv/idUSN1234412520090114)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20090114&t=2&i=7856202&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-01-14T194153Z_01_BTRE50D0UXS00_RTROPTP_0_CITIGROUP)
 
 ### Related:
 

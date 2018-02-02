@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/23/exiled-russian-business-oligarch-boris-berezovsky-is-found-dead-at-his-home-in-surrey-england.html)  [JSON](/news/2013/03/23/exiled-russian-business-oligarch-boris-berezovsky-is-found-dead-at-his-home-in-surrey-england.json)  [XML](/news/2013/03/23/exiled-russian-business-oligarch-boris-berezovsky-is-found-dead-at-his-home-in-surrey-england.xml)  
+
 ### [2013-03-23](/news/2013/03/23/index.md)
 
+##### Exile
 # Exiled Russian business oligarch Boris Berezovsky is found dead at his home in Surrey, England. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21913356)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66571000/jpg/_66571144_66571142.jpg)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/05/1/smarty-jones-wins-the-kentucky-derby.html)  [JSON](/news/2004/05/1/smarty-jones-wins-the-kentucky-derby.json)  [XML](/news/2004/05/1/smarty-jones-wins-the-kentucky-derby.xml)  
+
 ### [2004-05-1](/news/2004/05/1/index.md)
 
+##### Smarty Jones
 #  Smarty Jones wins the Kentucky Derby. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://sports.yahoo.com/rah/news;_ylc=X3oDMTBpZTVxN2k3BF9TAzk2MDY4Mzc1BHNlYwN0bQ--?slug=ap-derby-winningowner&prov=ap&type=lgns)
+1. [AP](https://sports.yahoo.com/rah/news;_ylc=X3oDMTBpZTVxN2k3BF9TAzk2MDY4Mzc1BHNlYwN0bQ--?slug=ap-derby-winningowner&prov=ap&type=lgns)
 
 ### Related:
 

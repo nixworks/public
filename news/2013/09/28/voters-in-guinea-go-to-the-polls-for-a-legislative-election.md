@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/28/voters-in-guinea-go-to-the-polls-for-a-legislative-election.html)  [JSON](/news/2013/09/28/voters-in-guinea-go-to-the-polls-for-a-legislative-election.json)  [XML](/news/2013/09/28/voters-in-guinea-go-to-the-polls-for-a-legislative-election.xml)  
+
 ### [2013-09-28](/news/2013/09/28/index.md)
 
+##### Guinea
 # Voters in Guinea go to the polls for a legislative election. 
 
 The people of Guinea have voted in their first parliamentary election since a military coup in 2008, after a campaign marred by violence.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-24314199)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70166000/jpg/_70166657_toaxchgz.jpg)

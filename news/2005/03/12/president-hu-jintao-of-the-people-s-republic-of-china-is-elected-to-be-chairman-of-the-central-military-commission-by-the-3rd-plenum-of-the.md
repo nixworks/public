@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2005/03/12/president-hu-jintao-of-the-people-s-republic-of-china-is-elected-to-be-chairman-of-the-central-military-commission-by-the-3rd-plenum-of-the.html)  [JSON](/news/2005/03/12/president-hu-jintao-of-the-people-s-republic-of-china-is-elected-to-be-chairman-of-the-central-military-commission-by-the-3rd-plenum-of-the.json)  [XML](/news/2005/03/12/president-hu-jintao-of-the-people-s-republic-of-china-is-elected-to-be-chairman-of-the-central-military-commission-by-the-3rd-plenum-of-the.xml)  
+
 ### [2005-03-12](/news/2005/03/12/index.md)
 
+##### Chinese President
 #  President Hu Jintao of the People's Republic of China is elected to be chairman of the Central Military Commission by the 3rd Plenum of the 10th National People's Congress. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [CCTV](http://news.cctv.com/news/special/C13558/20050312/100798.shtml)
 2. [NBC-WTSM](http://www.wstm.com/Global/story.asp?S=3069127)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7884180)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7884180)
 4. [Xinhua](http://news.xinhuanet.com/english/2005-03/13/content_2690671.htm)
-4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+4. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

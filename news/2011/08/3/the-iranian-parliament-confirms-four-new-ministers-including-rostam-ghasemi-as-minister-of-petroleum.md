@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/3/the-iranian-parliament-confirms-four-new-ministers-including-rostam-ghasemi-as-minister-of-petroleum.html)  [JSON](/news/2011/08/3/the-iranian-parliament-confirms-four-new-ministers-including-rostam-ghasemi-as-minister-of-petroleum.json)  [XML](/news/2011/08/3/the-iranian-parliament-confirms-four-new-ministers-including-rostam-ghasemi-as-minister-of-petroleum.xml)  
+
 ### [2011-08-3](/news/2011/08/3/index.md)
 
+##### MPs
 # The Iranian parliament confirms four new ministers including Rostam Ghasemi as Minister of Petroleum. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [جلس (Tabnak](http://www.tabnak.ir/fa/news/181150/بررسی-صلاحیت-۴-وزیر-پیشنهادی-دولت-در-�)
 

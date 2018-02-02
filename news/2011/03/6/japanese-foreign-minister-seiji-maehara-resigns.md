@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/6/japanese-foreign-minister-seiji-maehara-resigns.html)  [JSON](/news/2011/03/6/japanese-foreign-minister-seiji-maehara-resigns.json)  [XML](/news/2011/03/6/japanese-foreign-minister-seiji-maehara-resigns.xml)  
+
 ### [2011-03-6](/news/2011/03/6/index.md)
 
+##### Seiji Maehara
 # Japanese Foreign Minister Seiji Maehara resigns. 
 
 Japan Foreign Minister Seiji Maehara resigns after being criticised for accepting a donation from a foreign national.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/03/201136132933681887.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12659629)

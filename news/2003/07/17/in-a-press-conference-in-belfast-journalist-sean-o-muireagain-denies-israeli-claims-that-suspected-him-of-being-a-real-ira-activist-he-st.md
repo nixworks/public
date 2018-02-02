@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/17/in-a-press-conference-in-belfast-journalist-sean-o-muireagain-denies-israeli-claims-that-suspected-him-of-being-a-real-ira-activist-he-st.html)  [JSON](/news/2003/07/17/in-a-press-conference-in-belfast-journalist-sean-o-muireagain-denies-israeli-claims-that-suspected-him-of-being-a-real-ira-activist-he-st.json)  [XML](/news/2003/07/17/in-a-press-conference-in-belfast-journalist-sean-o-muireagain-denies-israeli-claims-that-suspected-him-of-being-a-real-ira-activist-he-st.xml)  
+
 ### [2003-07-17](/news/2003/07/17/index.md)
 
+##### Belfast
 #  In a press conference in Belfast, journalist Sen  Muireagin denies Israeli claims that suspected him of being a Real IRA activist. He states that he is not, and never has been, a member or supporter of the IRA. Israel repeats that the arrest of  Muireagin was "unfortunate", but refuses to apologise. Israel's treatment of  Muireagin is strongly criticised in Ireland. SDLP ex-minister Sean Farren states that  Muireagin is "well known and respected" in Northern Ireland.
 
 

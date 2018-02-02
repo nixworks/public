@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/14/president-of-italy-giorgio-napolitano-will-announce-his-resignation-today.html)  [JSON](/news/2015/01/14/president-of-italy-giorgio-napolitano-will-announce-his-resignation-today.json)  [XML](/news/2015/01/14/president-of-italy-giorgio-napolitano-will-announce-his-resignation-today.xml)  
+
 ### [2015-01-14](/news/2015/01/14/index.md)
 
+##### President of Italy
 # President of Italy Giorgio Napolitano will announce his resignation today. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg via ''Business Week](http://www.businessweek.com/news/2015-01-13/italy-president-napolitano-poised-to-resign-in-dilemma-for-renzi)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/05/11/greek-police-fire-teargas-at-leftist-demonstrators-as-thousands-of-striking-greeks-protest-against-austerity-measures.html)  [JSON](/news/2011/05/11/greek-police-fire-teargas-at-leftist-demonstrators-as-thousands-of-striking-greeks-protest-against-austerity-measures.json)  [XML](/news/2011/05/11/greek-police-fire-teargas-at-leftist-demonstrators-as-thousands-of-striking-greeks-protest-against-austerity-measures.xml)  
+
 ### [2011-05-11](/news/2011/05/11/index.md)
 
+##### Greek police
 # Greek police fire teargas at leftist demonstrators, as thousands of striking Greeks protest against austerity measures. 
 
 Greek police fired teargas atdozens of leftist demonstrators in the centre of Athens onWednesday, as thousands of striking Greeks marched through thecentre of Athens to protest against EU/IMF-prescibed austerity. (Reporting by Renee Maltezou)
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/05/11/greece-teargas-idUSLDE74A17320110511)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/05/11/greece-teargas-idUSLDE74A17320110511)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

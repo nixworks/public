@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/9/the-supreme-court-of-pakistan-dismisses-a-petition-seeking-the-release-from-house-arrest-of-nuclear-scientist-abdul-qadeer-khan-for-health.html)  [JSON](/news/2004/11/9/the-supreme-court-of-pakistan-dismisses-a-petition-seeking-the-release-from-house-arrest-of-nuclear-scientist-abdul-qadeer-khan-for-health.json)  [XML](/news/2004/11/9/the-supreme-court-of-pakistan-dismisses-a-petition-seeking-the-release-from-house-arrest-of-nuclear-scientist-abdul-qadeer-khan-for-health.xml)  
+
 ### [2004-11-9](/news/2004/11/9/index.md)
 
+##### Supreme Court
 #  The Supreme Court of Pakistan dismisses a petition seeking the release from house arrest of nuclear scientist Abdul Qadeer Khan for health reasons. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA](http://www.voanews.com/english/2004-11-10-voa68.cfm)
 

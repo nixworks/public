@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/1/several-events-are-held-to-celebrate-the-125th-anniversary-of-the-gaelic-athletic-association.html)  [JSON](/news/2009/11/1/several-events-are-held-to-celebrate-the-125th-anniversary-of-the-gaelic-athletic-association.json)  [XML](/news/2009/11/1/several-events-are-held-to-celebrate-the-125th-anniversary-of-the-gaelic-athletic-association.xml)  
+
 ### [2009-11-1](/news/2009/11/1/index.md)
 
+##### 125th anniversary
 #  Several events are held to celebrate the 125th anniversary of the Gaelic Athletic Association. 
 
 A number of events were held today to mark the 125th anniversary of the foundation of the Gaelic Athletic Association.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1101/gaa.html)
 1. [Cover Image](https://img.rasset.ie/00020ac6-1600.jpg)

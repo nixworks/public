@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/27/a-controlled-explosion-is-carried-out-by-an-army-bomb-disposal-squad-on-dublin-s-o-connell-street-after-a-security-alert-on-an-aircoach-bus.html)  [JSON](/news/2006/10/27/a-controlled-explosion-is-carried-out-by-an-army-bomb-disposal-squad-on-dublin-s-o-connell-street-after-a-security-alert-on-an-aircoach-bus.json)  [XML](/news/2006/10/27/a-controlled-explosion-is-carried-out-by-an-army-bomb-disposal-squad-on-dublin-s-o-connell-street-after-a-security-alert-on-an-aircoach-bus.xml)  
+
 ### [2006-10-27](/news/2006/10/27/index.md)
 
+##### Dublin
 #  A controlled explosion is carried out by an Army Bomb Disposal squad on Dublin's O'Connell Street after a security alert on an Aircoach bus, although no explosive material was found. Traffic in the city has been severely affected. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2006/1027/dublin.html?rss)
 1. [Cover Image](https://img.rasset.ie/0000507e-1600.jpg)

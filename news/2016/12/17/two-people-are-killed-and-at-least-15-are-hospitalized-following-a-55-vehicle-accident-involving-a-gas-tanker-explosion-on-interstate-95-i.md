@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/17/two-people-are-killed-and-at-least-15-are-hospi
 
 ### [2016-12-17](/news/2016/12/17/index.md)
 
+##### 2016-17 North American winter
 # Two people are killed and at least 15 are hospitalized following a 55-vehicle accident, involving a gas tanker explosion, on Interstate 95 in Baltimore, Maryland, as cold air causes rain and wet roads to freeze across the Eastern U.S. Three other deaths are reported from other accidents in the Baltimore-Washington, D.C. area. At least six people have been killed in total on icy roads. 
 
 A winter storm of snow, freezing rain and bone-chilling temperatures socked the nation&#039;s mid-section and East Coast on Saturday, causing hundreds of accidents on icy roads and putting a crimp on Christmas shopping. At least…

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/3/google-is-ordered-to-divulge-the-viewing-habits-of-every-user-to-viacom-if-they-have-watched-youtube-videos.html)  [JSON](/news/2008/07/3/google-is-ordered-to-divulge-the-viewing-habits-of-every-user-to-viacom-if-they-have-watched-youtube-videos.json)  [XML](/news/2008/07/3/google-is-ordered-to-divulge-the-viewing-habits-of-every-user-to-viacom-if-they-have-watched-youtube-videos.xml)  
+
 ### [2008-07-3](/news/2008/07/3/index.md)
 
+##### Google
 #  Google is ordered to divulge the viewing habits of every user to Viacom if they have watched YouTube videos. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/technology/7488009.stm)
 

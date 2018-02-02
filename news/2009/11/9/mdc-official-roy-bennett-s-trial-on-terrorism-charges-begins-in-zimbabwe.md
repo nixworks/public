@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/9/mdc-official-roy-bennett-s-trial-on-terrorism-charges-begins-in-zimbabwe.html)  [JSON](/news/2009/11/9/mdc-official-roy-bennett-s-trial-on-terrorism-charges-begins-in-zimbabwe.json)  [XML](/news/2009/11/9/mdc-official-roy-bennett-s-trial-on-terrorism-charges-begins-in-zimbabwe.xml)  
+
 ### [2009-11-9](/news/2009/11/9/index.md)
 
+##### Movement for Democratic Change
 #  MDC official Roy Bennett's trial on terrorism charges begins in Zimbabwe. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/11/2009119101729158559.html)
 2. [Reuters South Africa](http://af.reuters.com/article/topNews/idAFJOE5A80FS20091109)

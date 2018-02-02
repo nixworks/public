@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/02/1/the-enhanced-fujita-scale-begins-operational-use-this-scale-measures-the-intensity-of-tornadoes-based-on-the-damage-they-cause-in-the-unit.html)  [JSON](/news/2007/02/1/the-enhanced-fujita-scale-begins-operational-use-this-scale-measures-the-intensity-of-tornadoes-based-on-the-damage-they-cause-in-the-unit.json)  [XML](/news/2007/02/1/the-enhanced-fujita-scale-begins-operational-use-this-scale-measures-the-intensity-of-tornadoes-based-on-the-damage-they-cause-in-the-unit.xml)  
+
 ### [2007-02-1](/news/2007/02/1/index.md)
 
+##### EF-2
 #  The Enhanced Fujita scale begins operational use. This scale measures the intensity of tornadoes based on the damage they cause in the United States.
 
 

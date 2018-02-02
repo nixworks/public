@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/4/archaeologists-in-israel-discover-a-mosaic-floor-depicting-the-biblical-figure-of-samson-and-a-hebrew-inscription-in-an-ancient-synagogue-in.html)  [JSON](/news/2012/07/4/archaeologists-in-israel-discover-a-mosaic-floor-depicting-the-biblical-figure-of-samson-and-a-hebrew-inscription-in-an-ancient-synagogue-in.json)  [XML](/news/2012/07/4/archaeologists-in-israel-discover-a-mosaic-floor-depicting-the-biblical-figure-of-samson-and-a-hebrew-inscription-in-an-ancient-synagogue-in.xml)  
+
 ### [2012-07-4](/news/2012/07/4/index.md)
 
+##### Archaeology of Israel
 # Archaeologists in Israel discover a mosaic floor depicting the biblical figure of Samson and a Hebrew inscription in an ancient synagogue in the Galilee region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/07/04/world/meast/israel-synagogue-samson/index.html?hpt=wo_t4)
 

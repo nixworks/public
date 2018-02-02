@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/10/18/2011-syrian-uprising-at-least-25-people-are-killed-in-the-syrian-city-of-homs-after-tanks-and-security-troops-open-fire-on-anti-regime-prot.html)  [JSON](/news/2011/10/18/2011-syrian-uprising-at-least-25-people-are-killed-in-the-syrian-city-of-homs-after-tanks-and-security-troops-open-fire-on-anti-regime-prot.json)  [XML](/news/2011/10/18/2011-syrian-uprising-at-least-25-people-are-killed-in-the-syrian-city-of-homs-after-tanks-and-security-troops-open-fire-on-anti-regime-prot.xml)  
+
 ### [2011-10-18](/news/2011/10/18/index.md)
 
+##### 2011 Syrian uprising
 # 2011 Syrian uprising: At least 25 people are killed in the Syrian city of Homs after tanks and security troops open fire on anti-regime protesters. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/10/17/us-syria-idUSTRE79G3MT20111017)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/10/17/us-syria-idUSTRE79G3MT20111017)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

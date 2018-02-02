@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/09/15/voters-in-bavaria-go-to-the-polls-for-a-state-election.html)  [JSON](/news/2013/09/15/voters-in-bavaria-go-to-the-polls-for-a-state-election.json)  [XML](/news/2013/09/15/voters-in-bavaria-go-to-the-polls-for-a-state-election.xml)  
+
 ### [2013-09-15](/news/2013/09/15/index.md)
 
+##### Bavaria
 # Voters in Bavaria go to the polls for a state election. 
 
 Bavarians go to the polls with Chancellor Angela Merkel hoping for momentum ahead of general elections in a week.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/09/201391582139526665.html)
-2. [Reuters](http://www.reuters.com/article/2013/09/15/us-germany-bavaria-election-idUSBRE98D0CJ20130915)
+2. [Reuters](https://www.reuters.com/article/2013/09/15/us-germany-bavaria-election-idUSBRE98D0CJ20130915)
 2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/7/27//2013727125144926580_20.jpg)
 
 ### Related:

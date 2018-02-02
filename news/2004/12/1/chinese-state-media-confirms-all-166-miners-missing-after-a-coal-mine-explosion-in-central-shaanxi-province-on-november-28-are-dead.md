@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/1/chinese-state-media-confirms-all-166-miners-missing-after-a-coal-mine-explosion-in-central-shaanxi-province-on-november-28-are-dead.html)  [JSON](/news/2004/12/1/chinese-state-media-confirms-all-166-miners-missing-after-a-coal-mine-explosion-in-central-shaanxi-province-on-november-28-are-dead.json)  [XML](/news/2004/12/1/chinese-state-media-confirms-all-166-miners-missing-after-a-coal-mine-explosion-in-central-shaanxi-province-on-november-28-are-dead.xml)  
+
 ### [2004-12-1](/news/2004/12/1/index.md)
 
+##### Chinese state media
 # Chinese state media confirms all 166 miners missing after a coal mine explosion in central Shaanxi province on November 28 are dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4053795.stm)
 2. [Xinhua](http://news.xinhuanet.com/english/2004-12/01/content_2281914.htm)

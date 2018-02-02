@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/20/the-sino-singapore-tianjin-eco-city-holds-a-groundbreaking-ceremony-for-its-eco-technology-park-in-binhai-new-area-a-key-national-strategic.html)  [JSON](/news/2010/10/20/the-sino-singapore-tianjin-eco-city-holds-a-groundbreaking-ceremony-for-its-eco-technology-park-in-binhai-new-area-a-key-national-strategic.json)  [XML](/news/2010/10/20/the-sino-singapore-tianjin-eco-city-holds-a-groundbreaking-ceremony-for-its-eco-technology-park-in-binhai-new-area-a-key-national-strategic.xml)  
+
 ### [2010-10-20](/news/2010/10/20/index.md)
 
+##### Sino-Singapore Tianjin Eco-city
 # The Sino-Singapore Tianjin Eco-city holds a groundbreaking ceremony for its Eco-technology Park in Binhai New Area a key national strategic area in Tianjin. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www2.chinadaily.com.cn/m/tianjin/e/2010-09/29/content_11369282.htm)
 2. [enorth](http://english.enorth.com.cn/system/2009/08/18/004166044.shtml)

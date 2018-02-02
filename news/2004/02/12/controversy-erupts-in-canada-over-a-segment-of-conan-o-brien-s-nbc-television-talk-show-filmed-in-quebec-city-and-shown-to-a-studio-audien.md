@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/12/controversy-erupts-in-canada-over-a-segment-of-conan-o-brien-s-nbc-television-talk-show-filmed-in-quebec-city-and-shown-to-a-studio-audien.html)  [JSON](/news/2004/02/12/controversy-erupts-in-canada-over-a-segment-of-conan-o-brien-s-nbc-television-talk-show-filmed-in-quebec-city-and-shown-to-a-studio-audien.json)  [XML](/news/2004/02/12/controversy-erupts-in-canada-over-a-segment-of-conan-o-brien-s-nbc-television-talk-show-filmed-in-quebec-city-and-shown-to-a-studio-audien.xml)  
+
 ### [2004-02-12](/news/2004/02/12/index.md)
 
+##### Conan O'Brien
 #  Controversy erupts in Canada over a segment of Conan O'Brien's NBC television talk show, filmed in Quebec City and shown to a studio audience in Toronto, featuring his character Triumph the Insult Dog making ethnic insults against French-Canadians, including telling them to speak English. The Canadian government condemns the comments. The Government of Ontario, which had paid $1 million to sponsor the taping of four episodes of the show in Toronto to promote the city, also distances itself from the comments.
 
 

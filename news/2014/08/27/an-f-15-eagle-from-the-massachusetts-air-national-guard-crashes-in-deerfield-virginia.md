@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/27/an-f-15-eagle-from-the-massachusetts-air-national-guard-crashes-in-deerfield-virginia.html)  [JSON](/news/2014/08/27/an-f-15-eagle-from-the-massachusetts-air-national-guard-crashes-in-deerfield-virginia.json)  [XML](/news/2014/08/27/an-f-15-eagle-from-the-massachusetts-air-national-guard-crashes-in-deerfield-virginia.xml)  
+
 ### [2014-08-27](/news/2014/08/27/index.md)
 
+##### F-15 Eagle
 # An F-15 Eagle from the Massachusetts Air National Guard crashes in Deerfield, Virginia. 
 
 The Massachusetts Air National Guard F-15C was headed to New Orleans when it went down.
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/pilot-missing-after-f-15-fighter-jet-crashes-virginia-n190121)
 1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2014_35/638451/140827-va-jet-crash-1115a_fb781a7d2792954d32e88680a3a0b339.nbcnews-fp-1200-800.jpg)

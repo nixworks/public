@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/17/swedish-divers-find-the-wreckage-of-the-warship-sva-rdet-sunk-in-1676-during-the-battle-of-aland.html)  [JSON](/news/2011/11/17/swedish-divers-find-the-wreckage-of-the-warship-sva-rdet-sunk-in-1676-during-the-battle-of-aland.json)  [XML](/news/2011/11/17/swedish-divers-find-the-wreckage-of-the-warship-sva-rdet-sunk-in-1676-during-the-battle-of-aland.xml)  
+
 ### [2011-11-17](/news/2011/11/17/index.md)
 
+##### Swede
 # Swedish divers find the wreckage of the warship "Svardet", sunk in 1676 during the Battle of Oland. 
 
 Battle of Öland. Claus Møinichen, 1686.Wikimedia Commons.Swedish divers have discovered the wreck of one of the largest 17th century warships.Found off the coast of the Baltic island of Öland at a depth of between 160 and 320 feet, the wooden wreck is believed to be that of the royal warship Svärdet...
 
 
-### Source:
+### Sources:
 
 1. [Discovery](http://news.discovery.com/history/battle-of-%C3%B6land-111117.html#mkcpgn=rssnws1)
 1. [Cover Image](https://seekernetwork-img.rbl.ms/simage/https%3A%2F%2Fassets.rbl.ms%2F5111890%2F980x.jpg/2000%2C2000/X5qq4h9gYhmHD3yM/img.jpg)

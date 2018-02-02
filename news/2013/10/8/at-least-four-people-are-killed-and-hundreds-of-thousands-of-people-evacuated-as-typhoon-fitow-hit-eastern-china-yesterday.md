@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/10/8/at-least-four-people-are-killed-and-hundreds-of-thousands-of-people-evacuated-as-typhoon-fitow-hit-eastern-china-yesterday.html)  [JSON](/news/2013/10/8/at-least-four-people-are-killed-and-hundreds-of-thousands-of-people-evacuated-as-typhoon-fitow-hit-eastern-china-yesterday.json)  [XML](/news/2013/10/8/at-least-four-people-are-killed-and-hundreds-of-thousands-of-people-evacuated-as-typhoon-fitow-hit-eastern-china-yesterday.xml)  
+
 ### [2013-10-8](/news/2013/10/8/index.md)
 
+##### Typhoon Nari
 # At least four people are killed and hundreds of thousands of people evacuated as Typhoon Fitow hit eastern China yesterday. 
 
 Four people were killed and hundreds of thousands evacuated after Typhoon Fitow hit eastern China, destroying houses and farmlands and closing ports and airports.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/10/08/us-china-typhoon-idUSBRE99702B20131008)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131008&t=2&i=800954524&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99706U300)
+1. [Reuters](https://www.reuters.com/article/2013/10/08/us-china-typhoon-idUSBRE99702B20131008)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20131008&t=2&i=800954524&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99706U300)
 
 ### Related:
 

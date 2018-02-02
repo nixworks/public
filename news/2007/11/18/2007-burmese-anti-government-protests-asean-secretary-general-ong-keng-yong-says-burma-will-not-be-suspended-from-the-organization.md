@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/18/2007-burmese-anti-government-protests-asean-secretary-general-ong-keng-yong-says-burma-will-not-be-suspended-from-the-organization.html)  [JSON](/news/2007/11/18/2007-burmese-anti-government-protests-asean-secretary-general-ong-keng-yong-says-burma-will-not-be-suspended-from-the-organization.json)  [XML](/news/2007/11/18/2007-burmese-anti-government-protests-asean-secretary-general-ong-keng-yong-says-burma-will-not-be-suspended-from-the-organization.xml)  
+
 ### [2007-11-18](/news/2007/11/18/index.md)
 
+##### 2007 Burmese anti-government protests
 #  2007 Burmese anti-government protests: ASEAN Secretary General Ong Keng Yong says Burma will not be suspended from the organization. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7100411.stm)
 

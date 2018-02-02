@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/3/new-hampshire-s-famous-landmark-rock-formation-the-old-man-of-the-mountain-collapses-overnight.html)  [JSON](/news/2003/05/3/new-hampshire-s-famous-landmark-rock-formation-the-old-man-of-the-mountain-collapses-overnight.json)  [XML](/news/2003/05/3/new-hampshire-s-famous-landmark-rock-formation-the-old-man-of-the-mountain-collapses-overnight.xml)  
+
 ### [2003-05-3](/news/2003/05/3/index.md)
 
+##### New Hampshire
 #  New Hampshire's famous landmark rock formation, the Old Man of the Mountain, collapses overnight.
 
 

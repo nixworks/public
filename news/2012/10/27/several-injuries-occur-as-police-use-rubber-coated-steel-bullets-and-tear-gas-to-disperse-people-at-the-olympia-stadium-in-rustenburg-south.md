@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/27/several-injuries-occur-as-police-use-rubber-coated-steel-bullets-and-tear-gas-to-disperse-people-at-the-olympia-stadium-in-rustenburg-south.html)  [JSON](/news/2012/10/27/several-injuries-occur-as-police-use-rubber-coated-steel-bullets-and-tear-gas-to-disperse-people-at-the-olympia-stadium-in-rustenburg-south.json)  [XML](/news/2012/10/27/several-injuries-occur-as-police-use-rubber-coated-steel-bullets-and-tear-gas-to-disperse-people-at-the-olympia-stadium-in-rustenburg-south.xml)  
+
 ### [2012-10-27](/news/2012/10/27/index.md)
 
+##### Olympia Stadium
 # Several injuries occur as police use rubber-coated steel bullets and tear gas to disperse people at the Olympia Stadium in Rustenburg, South Africa. 
 
 Several people injured as police use rubber-coated steel bullets to disperse unions engaged in Rustenburg skirmishes.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/10/20121027111355834610.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/27/20121027112112153734_20.jpg)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/10/4/one-million-french-transportation-workers-and-teachers-hold-a-nationwide-strike-in-opposition-to-the-prime-minister-dominique-de-villepin-s.html)  [JSON](/news/2005/10/4/one-million-french-transportation-workers-and-teachers-hold-a-nationwide-strike-in-opposition-to-the-prime-minister-dominique-de-villepin-s.json)  [XML](/news/2005/10/4/one-million-french-transportation-workers-and-teachers-hold-a-nationwide-strike-in-opposition-to-the-prime-minister-dominique-de-villepin-s.xml)  
+
 ### [2005-10-4](/news/2005/10/4/index.md)
 
+##### Prime Minister
 #  One million French transportation workers and teachers hold a nationwide strike in opposition to the Prime Minister Dominique de Villepin's economic and labor policies, forcing the closure of schools and airports. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://news.yahoo.com/s/ap/20051004/ap_on_re_eu/france_strikes)
+1. [Reuters](https://news.yahoo.com/s/ap/20051004/ap_on_re_eu/france_strikes)
 
 ### Related:
 

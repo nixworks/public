@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/3/a-boiler-explosion-at-a-missouri-box-company-in-
 
 ### [2017-04-3](/news/2017/04/3/index.md)
 
+##### Missouri
 # A boiler explosion at a Missouri box company in St. Louis's historic Soulard neighborhood kills three people and injures four others. 
 
 Explosion sent boiler from box company nearly a block, where it crashed into the offices of a laundry company.

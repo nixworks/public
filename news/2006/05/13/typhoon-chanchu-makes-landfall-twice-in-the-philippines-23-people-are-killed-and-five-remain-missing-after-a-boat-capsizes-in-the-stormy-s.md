@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/13/typhoon-chanchu-makes-landfall-twice-in-the-philippines-23-people-are-killed-and-five-remain-missing-after-a-boat-capsizes-in-the-stormy-s.html)  [JSON](/news/2006/05/13/typhoon-chanchu-makes-landfall-twice-in-the-philippines-23-people-are-killed-and-five-remain-missing-after-a-boat-capsizes-in-the-stormy-s.json)  [XML](/news/2006/05/13/typhoon-chanchu-makes-landfall-twice-in-the-philippines-23-people-are-killed-and-five-remain-missing-after-a-boat-capsizes-in-the-stormy-s.xml)  
+
 ### [2006-05-13](/news/2006/05/13/index.md)
 
+##### Typhoon Chanchu
 #  Typhoon Chanchu makes landfall twice in the Philippines. 23 people are killed and five remain missing after a boat capsizes in the stormy seas off Masbate island. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [CNEWS](http://cnews.canoe.ca/CNEWS/World/2006/05/13/1578191-ap.html)
 2. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/05/13/philippines.typhoon.reut/index.html)

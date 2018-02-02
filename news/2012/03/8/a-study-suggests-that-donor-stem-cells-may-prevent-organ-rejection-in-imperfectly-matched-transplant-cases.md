@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/8/a-study-suggests-that-donor-stem-cells-may-prevent-organ-rejection-in-imperfectly-matched-transplant-cases.html)  [JSON](/news/2012/03/8/a-study-suggests-that-donor-stem-cells-may-prevent-organ-rejection-in-imperfectly-matched-transplant-cases.json)  [XML](/news/2012/03/8/a-study-suggests-that-donor-stem-cells-may-prevent-organ-rejection-in-imperfectly-matched-transplant-cases.xml)  
+
 ### [2012-03-8](/news/2012/03/8/index.md)
 
+##### stem cells
 # A study suggests that donor stem cells may prevent organ rejection in imperfectly matched transplant cases. 
 
 Patients who are lucky enough to get a transplant for a failed organ usually face a lifetime on anti-rejection drugs, which are expensive, dangerous and not always effective. But in the future,...
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/health/la-he-kidney-transplant-stem-cells-20120308,0,6483577.story)
 1. [Cover Image](http://www.latimes.com/media/photo/2012-03/68655610.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/16/wildfires-in-spain-and-portugal-kill-at-least-3
 
 ### [2017-10-16](/news/2017/10/16/index.md)
 
+##### October 2017 Iberian wildfires
 # Wildfires in Spain and Portugal kill at least 31 people, which were worsened by strong winds brought by Hurricane Ophelia. 
 
 At least 31 people are dead in Portugal and three in Spain as dozens of wildfires spread.

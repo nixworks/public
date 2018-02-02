@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/05/18/the-space-shuttle-endeavour-docks-at-the-international-space-station-for-the-final-time.html)  [JSON](/news/2011/05/18/the-space-shuttle-endeavour-docks-at-the-international-space-station-for-the-final-time.json)  [XML](/news/2011/05/18/the-space-shuttle-endeavour-docks-at-the-international-space-station-for-the-final-time.xml)  
+
 ### [2011-05-18](/news/2011/05/18/index.md)
 
+##### Space Shuttle ''Endeavour''
 # The Space Shuttle "Endeavour" docks at the International Space Station for the final time. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Space via Yahoo](http://news.yahoo.com/s/space/20110518/sc_space/shuttleendeavourdocksatspacestationforthelasttime)
+1. [Space via Yahoo](https://news.yahoo.com/s/space/20110518/sc_space/shuttleendeavourdocksatspacestationforthelasttime)
 
 ### Related:
 

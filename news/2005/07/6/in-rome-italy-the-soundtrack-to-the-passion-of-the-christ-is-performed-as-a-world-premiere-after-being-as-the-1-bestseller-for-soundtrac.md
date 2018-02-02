@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/07/6/in-rome-italy-the-soundtrack-to-the-passion-of-the-christ-is-performed-as-a-world-premiere-after-being-as-the-1-bestseller-for-soundtrac.html)  [JSON](/news/2005/07/6/in-rome-italy-the-soundtrack-to-the-passion-of-the-christ-is-performed-as-a-world-premiere-after-being-as-the-1-bestseller-for-soundtrac.json)  [XML](/news/2005/07/6/in-rome-italy-the-soundtrack-to-the-passion-of-the-christ-is-performed-as-a-world-premiere-after-being-as-the-1-bestseller-for-soundtrac.xml)  
+
 ### [2005-07-6](/news/2005/07/6/index.md)
 
+##### Rome, Italy
 #  In Rome, Italy, the soundtrack to The Passion of the Christ is performed as a world premiere after being as the #1 bestseller for soundtracks.
 
 

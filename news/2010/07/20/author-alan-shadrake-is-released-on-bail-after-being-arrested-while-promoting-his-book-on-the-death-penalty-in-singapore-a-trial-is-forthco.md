@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/20/author-alan-shadrake-is-released-on-bail-after-being-arrested-while-promoting-his-book-on-the-death-penalty-in-singapore-a-trial-is-forthco.html)  [JSON](/news/2010/07/20/author-alan-shadrake-is-released-on-bail-after-being-arrested-while-promoting-his-book-on-the-death-penalty-in-singapore-a-trial-is-forthco.json)  [XML](/news/2010/07/20/author-alan-shadrake-is-released-on-bail-after-being-arrested-while-promoting-his-book-on-the-death-penalty-in-singapore-a-trial-is-forthco.xml)  
+
 ### [2010-07-20](/news/2010/07/20/index.md)
 
+##### Alan Shadrake
 # Author Alan Shadrake is released on bail after being arrested while promoting his book on the death penalty in Singapore; a trial is forthcoming on 30 July. 
 
 Writer of book on death penalty out on bail ahead of trial for alleged defamation.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/20107205453162505.html)
 1. [Cover Image](http://www.aljazeera.com)

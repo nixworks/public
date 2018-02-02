@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/04/7/there-are-reports-that-the-poincare-conjecture-may-have-been-solved-by-martin-dunwoody.html)  [JSON](/news/2002/04/7/there-are-reports-that-the-poincare-conjecture-may-have-been-solved-by-martin-dunwoody.json)  [XML](/news/2002/04/7/there-are-reports-that-the-poincare-conjecture-may-have-been-solved-by-martin-dunwoody.xml)  
+
 ### [2002-04-7](/news/2002/04/7/index.md)
 
+##### Poincar conjecture
 # There are reports that the Poincar conjecture may have been solved by Martin Dunwoody.
 
 

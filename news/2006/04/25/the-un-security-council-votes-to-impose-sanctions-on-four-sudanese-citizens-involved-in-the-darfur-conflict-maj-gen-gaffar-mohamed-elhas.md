@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/25/the-un-security-council-votes-to-impose-sanctions-on-four-sudanese-citizens-involved-in-the-darfur-conflict-maj-gen-gaffar-mohamed-elhas.html)  [JSON](/news/2006/04/25/the-un-security-council-votes-to-impose-sanctions-on-four-sudanese-citizens-involved-in-the-darfur-conflict-maj-gen-gaffar-mohamed-elhas.json)  [XML](/news/2006/04/25/the-un-security-council-votes-to-impose-sanctions-on-four-sudanese-citizens-involved-in-the-darfur-conflict-maj-gen-gaffar-mohamed-elhas.xml)  
+
 ### [2006-04-25](/news/2006/04/25/index.md)
 
+##### UN Security Council
 #  The UN Security Council votes to impose sanctions on four Sudanese citizens involved in the Darfur conflict: Maj.-Gen. Gaffar Mohamed Elhassan of the Sudanese Air Force; Sheikh Musa Hilal, paramount chief of the Jalul Janjaweed tribe in North Darfur; Commander Adam Yacub Shant of the Sudanese Liberation Army; and Commander Gabril Abdul Kareem Badri of the National Movement for Reform and Development. The vote marks the first time UN sanctions have been adopted against individuals involved in this conflict. 
 
 The United Nations Security Council has voted to impose sanctions on four citizens of Sudan accused of involvement in the conflict in Darfur.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4942026.stm)
 2. [CBC](http://www.cbc.ca/world/story/2006/04/25/darfur060425.html)

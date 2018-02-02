@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/13/police-arrest-more-than-550-people-in-connection-with-two-days-of-riots-in-uganda-s-capital-kampala-as-the-death-toll-rises-to-14.html)  [JSON](/news/2009/09/13/police-arrest-more-than-550-people-in-connection-with-two-days-of-riots-in-uganda-s-capital-kampala-as-the-death-toll-rises-to-14.json)  [XML](/news/2009/09/13/police-arrest-more-than-550-people-in-connection-with-two-days-of-riots-in-uganda-s-capital-kampala-as-the-death-toll-rises-to-14.xml)  
+
 ### [2009-09-13](/news/2009/09/13/index.md)
 
+##### Uganda
 #  Police arrest more than 550 people in connection with two days of riots in Uganda's capital Kampala, as the death toll rises to 14. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090913121045211C157541)
 

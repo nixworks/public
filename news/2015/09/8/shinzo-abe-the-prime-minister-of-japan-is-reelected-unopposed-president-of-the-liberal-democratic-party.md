@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/09/8/shinzo-abe-the-prime-minister-of-japan-is-reelected-unopposed-president-of-the-liberal-democratic-party.html)  [JSON](/news/2015/09/8/shinzo-abe-the-prime-minister-of-japan-is-reelected-unopposed-president-of-the-liberal-democratic-party.json)  [XML](/news/2015/09/8/shinzo-abe-the-prime-minister-of-japan-is-reelected-unopposed-president-of-the-liberal-democratic-party.xml)  
+
 ### [2015-09-8](/news/2015/09/8/index.md)
 
+##### Shinzo Abe
 # Shinzo Abe, the Prime Minister of Japan, is reelected (unopposed) President of the Liberal Democratic Party. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The New York Times](http://www.nytimes.com/aponline/2015/09/07/world/asia/ap-as-japan-politics.html)
+1. [AP via ''The New York Times](https://www.nytimes.com/aponline/2015/09/07/world/asia/ap-as-japan-politics.html)
 
 ### Related:
 

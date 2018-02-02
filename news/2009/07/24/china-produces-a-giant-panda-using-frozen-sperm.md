@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/07/24/china-produces-a-giant-panda-using-frozen-sperm.html)  [JSON](/news/2009/07/24/china-produces-a-giant-panda-using-frozen-sperm.json)  [XML](/news/2009/07/24/china-produces-a-giant-panda-using-frozen-sperm.xml)  
+
 ### [2009-07-24](/news/2009/07/24/index.md)
 
+##### China
 #  China produces a giant panda using frozen sperm. 
 
 SUMMER IS panda baby time, and the Chinese media is full of feel-good stories about the birth of cubs at various zoos and research&hellip;
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8168491.stm)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/world/2009/0725/1224251307368.html)
-3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/07/25/AR2009072500976.html)
+3. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2009/07/25/AR2009072500976.html)
 4. [Xinhua](http://news.xinhuanet.com/english/2009-07/24/content_11766726.htm)
 4. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 

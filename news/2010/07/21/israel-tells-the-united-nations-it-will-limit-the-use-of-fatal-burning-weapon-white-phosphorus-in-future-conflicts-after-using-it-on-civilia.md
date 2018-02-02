@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/21/israel-tells-the-united-nations-it-will-limit-the-use-of-fatal-burning-weapon-white-phosphorus-in-future-conflicts-after-using-it-on-civilia.html)  [JSON](/news/2010/07/21/israel-tells-the-united-nations-it-will-limit-the-use-of-fatal-burning-weapon-white-phosphorus-in-future-conflicts-after-using-it-on-civilia.json)  [XML](/news/2010/07/21/israel-tells-the-united-nations-it-will-limit-the-use-of-fatal-burning-weapon-white-phosphorus-in-future-conflicts-after-using-it-on-civilia.xml)  
+
 ### [2010-07-21](/news/2010/07/21/index.md)
 
+##### Israel
 # Israel tells the United Nations it will limit the use of fatal burning weapon white phosphorus in future conflicts after using it on civilians during its War on Gaza. 
 
 The Israeli military tells the UN it will limit the use of a controversial weapon in future conflicts.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10711086)
 2. [France24](http://www.france24.com/en/20100721-israel-restrict-use-white-phosphorus-munitions)

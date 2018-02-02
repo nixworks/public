@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/9/the-tunisian-national-dialogue-quartet-wins-the-2015-nobel-peace-prize-for-its-decisive-contribution-to-the-building-of-a-pluralistic-democ.html)  [JSON](/news/2015/10/9/the-tunisian-national-dialogue-quartet-wins-the-2015-nobel-peace-prize-for-its-decisive-contribution-to-the-building-of-a-pluralistic-democ.json)  [XML](/news/2015/10/9/the-tunisian-national-dialogue-quartet-wins-the-2015-nobel-peace-prize-for-its-decisive-contribution-to-the-building-of-a-pluralistic-democ.xml)  
+
 ### [2015-10-9](/news/2015/10/9/index.md)
 
+##### Tunisian National Dialogue Quartet
 # The Tunisian National Dialogue Quartet wins the 2015 Nobel Peace Prize for its "decisive contribution to the building of a pluralistic democracy in Tunisia in the wake of the Jasmine Revolution of 2011." The Tunisian General Labour Union (UGTT), the Tunisian Confederation of Industry, Trade and Handicrafts (UTICA), the Tunisian Human Rights League (LTDH), and the Tunisian Order of Lawyers comprise the quartet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-34485865)
 2. [CNN](http://www.cnn.com/2015/10/09/world/nobel-peace-prize/index.html)
@@ -15,7 +19,7 @@
 ### Related:
 
 1. [Voters in Tunisia go to the polls Sunday in the first free presidential election since the Arab Spring's Jasmine Revolution. ](/news/2014/11/23/voters-in-tunisia-go-to-the-polls-sunday-in-the-first-free-presidential-election-since-the-arab-spring-s-jasmine-revolution.md) _Context: Jasmine Revolution of 2011, Tunisia_
-2. [Former President of Tunisia Zine El Abidine Ben Ali is sentenced to 20 years imprisonment "in absentia" by a Tunisian military court for inciting murder and violence during the revolution that ousted him from power in January 2011. ](/news/2012/06/13/former-president-of-tunisia-zine-el-abidine-ben-ali-is-sentenced-to-20-years-imprisonment-in-absentia-by-a-tunisian-military-court-for-inc.md) _Context: Jasmine Revolution of 2011, Tunisia_
-3. [Voters in Tunisia go to the polls for the country's first election since the Tunisian Revolution. ](/news/2011/10/23/voters-in-tunisia-go-to-the-polls-for-the-country-s-first-election-since-the-tunisian-revolution.md) _Context: Jasmine Revolution of 2011, Tunisia_
-4. [A train and a bus collide in Tunis, Tunisia, killing 5 and injuring around 52. ](/news/2016/12/28/a-train-and-a-bus-collide-in-tunis-tunisia-killing-5-and-injuring-around-52.md) _Context: Tunisia_
-5. [The 24-year-old Tunisian who is suspected of driving the truck that smashed through a Berlin market is killed in a shoot-out in Milan. ](/news/2016/12/23/the-24-year-old-tunisian-who-is-suspected-of-driving-the-truck-that-smashed-through-a-berlin-market-is-killed-in-a-shoot-out-in-milan.md) _Context: Tunisia_
+2. [Voters in Tunisia go to the polls for the country's first election since the Tunisian Revolution. ](/news/2011/10/23/voters-in-tunisia-go-to-the-polls-for-the-country-s-first-election-since-the-tunisian-revolution.md) _Context: Jasmine Revolution of 2011, Tunisia_
+3. [Amid protests against rising prices and tax increases, a protestor is killed and five others are injured in clashes with security forces in the Tunisian town of Tebourba. ](/news/2018/01/8/amid-protests-against-rising-prices-and-tax-increases-a-protestor-is-killed-and-five-others-are-injured-in-clashes-with-security-forces-in.md) _Context: Tunisia_
+4. [The Tunisian government announces a wave of social and economic reforms after violent anti-austerity protests that have resulted in at least one death and the arrest of more than eight hundred people. ](/news/2018/01/14/the-tunisian-government-announces-a-wave-of-social-and-economic-reforms-after-violent-anti-austerity-protests-that-have-resulted-in-at-least.md) _Context: Tunisia_
+5. [More than two hundred people are arrested across Tunisia as protests against economic conditions continue to grip the North African country. At least 49 police officers have been injured during clashes with protesters. ](/news/2018/01/10/more-than-two-hundred-people-are-arrested-across-tunisia-as-protests-against-economic-conditions-continue-to-grip-the-north-african-country.md) _Context: Tunisia_

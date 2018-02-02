@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/1/venezuelan-opposition-leaders-leopoldo-la3pez-an
 
 ### [2017-08-1](/news/2017/08/1/index.md)
 
+##### Crisis in Venezuela
 # Venezuelan opposition leaders Leopoldo Lopez and Mayor of Caracas Antonio Ledezma are seized at their homes overnight by the Bolivarian Intelligence Service (SEBIN) and taken to Ramo Verde Prison. They had been arrested previously by the Venezuelan government, but were under house arrest at the time of being seized. 
 
 Two leading activists were taken to a military jail by security forces in the middle of the night.

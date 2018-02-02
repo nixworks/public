@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/15/the-australian-broadcasting-corporation-reports-that-the-son-of-the-acting-prime-minister-of-papua-new-guinea-sam-abal-has-been-arrested-on.html)  [JSON](/news/2011/06/15/the-australian-broadcasting-corporation-reports-that-the-son-of-the-acting-prime-minister-of-papua-new-guinea-sam-abal-has-been-arrested-on.json)  [XML](/news/2011/06/15/the-australian-broadcasting-corporation-reports-that-the-son-of-the-acting-prime-minister-of-papua-new-guinea-sam-abal-has-been-arrested-on.xml)  
+
 ### [2011-06-15](/news/2011/06/15/index.md)
 
+##### Australian Broadcasting Corporation
 # The Australian Broadcasting Corporation reports that the son of the acting Prime Minister of Papua New Guinea Sam Abal has been arrested on murder charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jVg8R7fVjgTHtlfZ9YdqfQC73ncg?docId=04309d90a7534a4b89d40bb0dbf14c27)
 

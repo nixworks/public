@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/6/hawaii-u-s-senator-brian-schatz-criticizes-donal
 
 ### [2016-08-6](/news/2016/08/6/index.md)
 
+##### 2016 U.S. presidential election
 # Hawaii U.S. Senator Brian Schatz criticizes Donald Trump for calling the Philippines a 'terrorist' country. 
 
 

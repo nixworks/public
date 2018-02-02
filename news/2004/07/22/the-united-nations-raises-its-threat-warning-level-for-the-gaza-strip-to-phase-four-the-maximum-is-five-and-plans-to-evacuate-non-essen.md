@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/07/22/the-united-nations-raises-its-threat-warning-level-for-the-gaza-strip-to-phase-four-the-maximum-is-five-and-plans-to-evacuate-non-essen.html)  [JSON](/news/2004/07/22/the-united-nations-raises-its-threat-warning-level-for-the-gaza-strip-to-phase-four-the-maximum-is-five-and-plans-to-evacuate-non-essen.json)  [XML](/news/2004/07/22/the-united-nations-raises-its-threat-warning-level-for-the-gaza-strip-to-phase-four-the-maximum-is-five-and-plans-to-evacuate-non-essen.xml)  
+
 ### [2004-07-22](/news/2004/07/22/index.md)
 
+##### United Nations
 #  The United Nations raises its threat warning level for the Gaza Strip to "Phase Four" (the maximum is five) and plans to evacuate non-essential foreign staff from the Gaza Strip. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5743863)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5743863)
 
 ### Related:
 

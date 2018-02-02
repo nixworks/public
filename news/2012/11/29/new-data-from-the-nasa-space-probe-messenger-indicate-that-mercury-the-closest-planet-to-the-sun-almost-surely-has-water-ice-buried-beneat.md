@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/11/29/new-data-from-the-nasa-space-probe-messenger-indicate-that-mercury-the-closest-planet-to-the-sun-almost-surely-has-water-ice-buried-beneat.html)  [JSON](/news/2012/11/29/new-data-from-the-nasa-space-probe-messenger-indicate-that-mercury-the-closest-planet-to-the-sun-almost-surely-has-water-ice-buried-beneat.json)  [XML](/news/2012/11/29/new-data-from-the-nasa-space-probe-messenger-indicate-that-mercury-the-closest-planet-to-the-sun-almost-surely-has-water-ice-buried-beneat.xml)  
+
 ### [2012-11-29](/news/2012/11/29/index.md)
 
+##### NASA
 # New data from the NASA space probe MESSENGER indicate that Mercury, the closest planet to the Sun, almost surely has water ice buried beneath the surface at its north pole. 
 
 A Goddard-built instrument on NASA&#039;s MESSENGER mission provided one of three new lines of evidence that water ice exists near the north pole of Mercury.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted2.ap.org/APDefault/*/Article_2012-11-29-Mercury/id-36874bcfa8b24e888a862b2a848e9fbc)
-2. [Forbes](http://www.forbes.com/sites/alexknapp/2012/11/29/nasa-has-discovered-water-ice-on-mercury/)
+2. [Forbes](https://www.forbes.com/sites/alexknapp/2012/11/29/nasa-has-discovered-water-ice-on-mercury/)
 3. [NASA](http://www.nasa.gov/centers/goddard/news/features/2012/mercury-altimeter.html)
 3. [Cover Image](http://www.nasa.gov/sites/default/files/images/709571main_mercurypole-670.jpg)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/18/villagers-revolting-in-wukan-southern-china-threaten-to-march-on-government-offices-this-week-if-detained-protesters-are-not-released.html)  [JSON](/news/2011/12/18/villagers-revolting-in-wukan-southern-china-threaten-to-march-on-government-offices-this-week-if-detained-protesters-are-not-released.json)  [XML](/news/2011/12/18/villagers-revolting-in-wukan-southern-china-threaten-to-march-on-government-offices-this-week-if-detained-protesters-are-not-released.xml)  
+
 ### [2011-12-18](/news/2011/12/18/index.md)
 
+##### rebellion by villagers in Wukan
 # Villagers revolting in Wukan, southern China, threaten to march on government offices this week if detained protesters are not released. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/asia/271385/china-villagers-threaten-to-march-on-government-offices)
 

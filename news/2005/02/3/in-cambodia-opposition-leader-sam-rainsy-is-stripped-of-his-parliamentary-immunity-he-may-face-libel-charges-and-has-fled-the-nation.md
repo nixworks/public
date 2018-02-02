@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/3/in-cambodia-opposition-leader-sam-rainsy-is-stripped-of-his-parliamentary-immunity-he-may-face-libel-charges-and-has-fled-the-nation.html)  [JSON](/news/2005/02/3/in-cambodia-opposition-leader-sam-rainsy-is-stripped-of-his-parliamentary-immunity-he-may-face-libel-charges-and-has-fled-the-nation.json)  [XML](/news/2005/02/3/in-cambodia-opposition-leader-sam-rainsy-is-stripped-of-his-parliamentary-immunity-he-may-face-libel-charges-and-has-fled-the-nation.xml)  
+
 ### [2005-02-3](/news/2005/02/3/index.md)
 
+##### Cambodia
 #  In Cambodia, opposition leader Sam Rainsy is stripped of his parliamentary immunity. He may face libel charges, and has fled the nation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4231771.stm)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/BKK215881.htm)

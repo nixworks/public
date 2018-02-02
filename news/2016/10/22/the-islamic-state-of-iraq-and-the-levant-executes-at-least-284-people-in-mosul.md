@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/22/the-islamic-state-of-iraq-and-the-levant-execut
 
 ### [2016-10-22](/news/2016/10/22/index.md)
 
+##### Iraqi Civil War (2014-present)
 # The Islamic State of Iraq and the Levant executes at least 284 people in Mosul. 
 
 Islamic State militants have allegedly executed at least 284 men and boys in the Iraqi city of Mosul and nearby villages. Jihadists, who had used them as human shields, dumped the victims’ bodies in a mass grave, according to a report. 

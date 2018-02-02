@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/20/speaking-to-government-workers-at-the-president
 
 ### [2017-09-20](/news/2017/09/20/index.md)
 
+##### drug crackdown
 # Speaking to government workers at the presidential palace in Manila, President Rodrigo Duterte orders police to kill his eldest son, Paulo Duterte, if drug trafficking allegations against him are proven true, and adds that those who carried out the execution would be protected from prosecution. 
 
 Rodrigo Duterte has ordered police to kill his eldest son if drug trafficking allegations against him are proven true. The Philippine President added he would make sure those who carried out the execution would be protected from prosecution. 

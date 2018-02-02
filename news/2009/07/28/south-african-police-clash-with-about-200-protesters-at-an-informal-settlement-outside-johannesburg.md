@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/28/south-african-police-clash-with-about-200-protesters-at-an-informal-settlement-outside-johannesburg.html)  [JSON](/news/2009/07/28/south-african-police-clash-with-about-200-protesters-at-an-informal-settlement-outside-johannesburg.json)  [XML](/news/2009/07/28/south-african-police-clash-with-about-200-protesters-at-an-informal-settlement-outside-johannesburg.xml)  
+
 ### [2009-07-28](/news/2009/07/28/index.md)
 
+##### South Africa
 #  South African police clash with about 200 protesters at an informal settlement outside Johannesburg. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8173148.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/24/the-united-states-imposes-sanctions-on-271-empl
 
 ### [2017-04-24](/news/2017/04/24/index.md)
 
+##### Syria-United States relations
 # The United States imposes sanctions on 271 employees of the Syrian Scientific Studies and Research Center for their alleged role in developing weapons used in the Khan Shaykhun chemical attack. 
 
 The US has issued sanctions against hundreds of Syrian scientists and officials for their role in developing chemical weapons. The measures come after a poison gas attack killed over 80 people in a rebel-held province.

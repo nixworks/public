@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/8/ruben-gonzalez-the-successful-cuban-pianist-dies-at-home-in-havana-at-the-age-of-84-http-www-guardian-co-uk-obituaries-story-0-3604-1.html)  [JSON](/news/2003/12/8/ruben-gonzalez-the-successful-cuban-pianist-dies-at-home-in-havana-at-the-age-of-84-http-www-guardian-co-uk-obituaries-story-0-3604-1.json)  [XML](/news/2003/12/8/ruben-gonzalez-the-successful-cuban-pianist-dies-at-home-in-havana-at-the-age-of-84-http-www-guardian-co-uk-obituaries-story-0-3604-1.xml)  
+
 ### [2003-12-8](/news/2003/12/8/index.md)
 
+##### Rubn Gonzlez
 # Rubn Gonzlez, the successful Cuban pianist, dies at home in Havana, at the age of 84. [http:--www.guardian.co.uk-obituaries-story-0,3604,1103619,00.html]
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/19/former-governor-of-alaska-vice-presidential-can
 
 ### [2016-01-19](/news/2016/01/19/index.md)
 
+##### 2016 U.S. presidential election
 # Former Governor of Alaska, vice presidential candidate (2008), and Tea Party activist Sarah Palin endorses Republican Party presidential candidate Donald Trump for President of the United States. 
 
 

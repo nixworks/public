@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/18/demonstrations-occur-against-japan-in-beijing-shanghai-shenyang-and-chongqing-on-the-anniversary-of-the-mukden-incident.html)  [JSON](/news/2010/09/18/demonstrations-occur-against-japan-in-beijing-shanghai-shenyang-and-chongqing-on-the-anniversary-of-the-mukden-incident.json)  [XML](/news/2010/09/18/demonstrations-occur-against-japan-in-beijing-shanghai-shenyang-and-chongqing-on-the-anniversary-of-the-mukden-incident.xml)  
+
 ### [2010-09-18](/news/2010/09/18/index.md)
 
+##### Japan
 # Demonstrations occur against Japan in Beijing, Shanghai, Shenyang and Chongqing on the anniversary of the Mukden Incident. 
 
 Small protests against Japan are held in several Chinese cities on a senstitive anniversary, amid already heightened tensions.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11354735)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE68H09Y20100918)

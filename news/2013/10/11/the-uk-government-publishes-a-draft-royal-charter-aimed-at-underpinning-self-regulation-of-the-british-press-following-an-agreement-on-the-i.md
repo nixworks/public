@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/11/the-uk-government-publishes-a-draft-royal-charter-aimed-at-underpinning-self-regulation-of-the-british-press-following-an-agreement-on-the-i.html)  [JSON](/news/2013/10/11/the-uk-government-publishes-a-draft-royal-charter-aimed-at-underpinning-self-regulation-of-the-british-press-following-an-agreement-on-the-i.json)  [XML](/news/2013/10/11/the-uk-government-publishes-a-draft-royal-charter-aimed-at-underpinning-self-regulation-of-the-british-press-following-an-agreement-on-the-i.xml)  
+
 ### [2013-10-11](/news/2013/10/11/index.md)
 
+##### 10 Downing Street
 # The UK government publishes a draft royal charter aimed at underpinning self-regulation of the British press following an agreement on the issue by the country's three main political parties. However, the proposals are greeted with concerns about press freedom by the industry. 
 
 A deal is done between the three main political parties for a Royal Charter covering press regulation.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-24498662)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/70434000/jpg/_70434521_getty.jpg)

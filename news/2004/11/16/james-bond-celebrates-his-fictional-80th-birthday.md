@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/16/james-bond-celebrates-his-fictional-80th-birthday.html)  [JSON](/news/2004/11/16/james-bond-celebrates-his-fictional-80th-birthday.json)  [XML](/news/2004/11/16/james-bond-celebrates-his-fictional-80th-birthday.xml)  
+
 ### [2004-11-16](/news/2004/11/16/index.md)
 
+##### James Bond
 #  James Bond celebrates his fictional 80th birthday 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Mi6.co.uk](http://www.mi6.co.uk/news/index.php?itemid=1857&catid=4)
 

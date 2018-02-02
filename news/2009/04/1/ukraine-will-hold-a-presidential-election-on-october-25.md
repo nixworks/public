@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/1/ukraine-will-hold-a-presidential-election-on-october-25.html)  [JSON](/news/2009/04/1/ukraine-will-hold-a-presidential-election-on-october-25.json)  [XML](/news/2009/04/1/ukraine-will-hold-a-presidential-election-on-october-25.xml)  
+
 ### [2009-04-1](/news/2009/04/1/index.md)
 
+##### Ukraine
 #  Ukraine will hold a presidential election on October 25. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gbLU-LbvlslNMWB5OMnhTI8IFK-w)
 

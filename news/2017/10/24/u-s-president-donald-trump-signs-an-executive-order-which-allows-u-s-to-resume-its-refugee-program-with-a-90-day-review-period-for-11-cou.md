@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/24/u-s-president-donald-trump-signs-an-executive-o
 
 ### [2017-10-24](/news/2017/10/24/index.md)
 
+##### Immigration policy of Donald Trump
 # U.S. President Donald Trump signs an executive order which allows U.S. to resume its refugee program, with a 90-day review period for 11 countries identified as "high risk". 
 
 Executive order ends 120-day suspension of refugee processing as White House refuses to name 11 countries facing 90-day review
@@ -19,4 +20,4 @@ Executive order ends 120-day suspension of refugee processing as White House ref
 2. [The Supreme Court of the United States partially reinstates President Donald Trump's travel ban and invalidates certain injunctions that were put on the order by two federal appeals courts earlier. Final oral hearings concerning the legality of the Executive Order 13780 will be held in October 2017 at the Supreme Court. ](/news/2017/06/26/the-supreme-court-of-the-united-states-partially-reinstates-president-donald-trump-s-travel-ban-and-invalidates-certain-injunctions-that-wer.md) _Context: Donald Trump, Immigration policy of Donald Trump_
 3. [U.S. District Court Judge William Orrick rules that President Donald Trump's executive order withholding federal funds from sanctuary cities is unconstitutional. ](/news/2017/04/25/u-s-district-court-judge-william-orrick-rules-that-president-donald-trump-s-executive-order-withholding-federal-funds-from-sanctuary-cities.md) _Context: Donald Trump, Immigration policy of Donald Trump_
 4. [U.S. President Trump signs an executive order undoing former President Obama's climate change policies. ](/news/2017/03/28/u-s-president-trump-signs-an-executive-order-undoing-former-president-obama-s-climate-change-policies.md) _Context: Donald Trump, executive order_
-5. [Donald Trump approves California's request for an emergency declaration, allowing the Federal Emergency Management Agency to coordinate disaster relief efforts across five Southern California counties. ](/news/2017/12/8/donald-trump-approves-california-s-request-for-an-emergency-declaration-allowing-the-federal-emergency-management-agency-to-coordinate-disa.md) _Context: Donald Trump_
+5. [Steve Bannon steps down as executive chairman of Breitbart News amid a dispute with U.S. President Donald Trump over comments he made about the Trump family in Michael Wolff's "Fire and Fury". ](/news/2018/01/9/steve-bannon-steps-down-as-executive-chairman-of-breitbart-news-amid-a-dispute-with-u-s-president-donald-trump-over-comments-he-made-about.md) _Context: Donald Trump_

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/9/ethiopia-s-government-declares-a-six-month-state
 
 ### [2016-10-9](/news/2016/10/9/index.md)
 
+##### 2016 Ethiopian protests
 # Ethiopia's government declares a six-month state of emergency amid continuing protests, especially in the restive Oromia Region. 
 
 Ethiopia declares a six-month state of emergency following months of anti-government protests by members of the two largest ethnic groups.

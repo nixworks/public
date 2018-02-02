@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/25/the-nominees-for-the-77-th-academy-awards-are-announced-with-the-aviator-and-finding-neverland-leading-with-11-and-7-nominations-respe.html)  [JSON](/news/2005/01/25/the-nominees-for-the-77-th-academy-awards-are-announced-with-the-aviator-and-finding-neverland-leading-with-11-and-7-nominations-respe.json)  [XML](/news/2005/01/25/the-nominees-for-the-77-th-academy-awards-are-announced-with-the-aviator-and-finding-neverland-leading-with-11-and-7-nominations-respe.xml)  
+
 ### [2005-01-25](/news/2005/01/25/index.md)
 
+##### 77<sup>th</sup> Academy Awards
 #  The nominees for the 77 th Academy Awards are announced, with "The Aviator" and "Finding Neverland" leading with 11 and 7 nominations respectively. 
 
 The ultimate news source for music, celebrity, entertainment, movies, and current events on the web. It&amp;#039;s pop culture on steroids.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/entertainment/film/4203219.stm)
 2. [MSNBC](http://msnbc.msn.com/id/6865817/)

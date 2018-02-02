@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/25/typhoon-kaemi-hits-taiwan-with-119-kilometre-winds-injuring-four-people-the-landfall-in-jinjiang-fujian-4-hours-later-prompts-the-evacua.html)  [JSON](/news/2006/07/25/typhoon-kaemi-hits-taiwan-with-119-kilometre-winds-injuring-four-people-the-landfall-in-jinjiang-fujian-4-hours-later-prompts-the-evacua.json)  [XML](/news/2006/07/25/typhoon-kaemi-hits-taiwan-with-119-kilometre-winds-injuring-four-people-the-landfall-in-jinjiang-fujian-4-hours-later-prompts-the-evacua.xml)  
+
 ### [2006-07-25](/news/2006/07/25/index.md)
 
+##### Typhoon Kaemi
 #  Typhoon Kaemi hits Taiwan with 119 kilometre winds, injuring four people. The landfall in Jinjiang, Fujian 4 hours later prompts the evacuation of more than 500,000 residents in Fujian and Zhejiang, where Typhoon Bilis claimed 612 lives. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/news/181_1752319,0005.htm)
 2. [Xinhua](http://news.xinhuanet.com/english/2006-07/26/content_4878062.htm)

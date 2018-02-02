@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/6/bolivian-president-carlos-mesa-offers-his-resignation-when-unrest-continues.html)  [JSON](/news/2005/06/6/bolivian-president-carlos-mesa-offers-his-resignation-when-unrest-continues.json)  [XML](/news/2005/06/6/bolivian-president-carlos-mesa-offers-his-resignation-when-unrest-continues.xml)  
+
 ### [2005-06-6](/news/2005/06/6/index.md)
 
+##### Bolivia
 #  Bolivian president Carlos Mesa offers his resignation when unrest continues.
 
 
 
 
-### Source:
+### Sources:
 
 1. [El Clarin](http://www.clarin.com/diario/2005/06/06/um/m-990458)
 

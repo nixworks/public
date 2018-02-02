@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/11/a-man-is-killed-and-two-wounded-in-a-triple-sho
 
 ### [2016-12-11](/news/2016/12/11/index.md)
 
+##### New Orleans
 #  A man is killed and two wounded in a triple shooting in Algiers neighborhood of New Orleans 
 
 New Orleans police are investigating a fatal shooting at Flanders and Socrates streets in Algiers.

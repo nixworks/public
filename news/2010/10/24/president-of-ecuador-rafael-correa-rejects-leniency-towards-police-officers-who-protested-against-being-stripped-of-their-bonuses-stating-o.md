@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/24/president-of-ecuador-rafael-correa-rejects-leniency-towards-police-officers-who-protested-against-being-stripped-of-their-bonuses-stating-o.html)  [JSON](/news/2010/10/24/president-of-ecuador-rafael-correa-rejects-leniency-towards-police-officers-who-protested-against-being-stripped-of-their-bonuses-stating-o.json)  [XML](/news/2010/10/24/president-of-ecuador-rafael-correa-rejects-leniency-towards-police-officers-who-protested-against-being-stripped-of-their-bonuses-stating-o.xml)  
+
 ### [2010-10-24](/news/2010/10/24/index.md)
 
+##### President of Ecuador
 # President of Ecuador Rafael Correa rejects leniency towards police officers who protested against being stripped of their bonuses, stating on radio that "this will tear us apart as a society". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/10/20101024470672366.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/30/2010930211722457580_20.jpg)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/06/12/palestinian-factional-violence-hamas-officials-report-that-a-rocket-propelled-grenade-has-been-fired-at-the-house-of-prime-minister-ismail.html)  [JSON](/news/2007/06/12/palestinian-factional-violence-hamas-officials-report-that-a-rocket-propelled-grenade-has-been-fired-at-the-house-of-prime-minister-ismail.json)  [XML](/news/2007/06/12/palestinian-factional-violence-hamas-officials-report-that-a-rocket-propelled-grenade-has-been-fired-at-the-house-of-prime-minister-ismail.xml)  
+
 ### [2007-06-12](/news/2007/06/12/index.md)
 
+##### clashes
 #  Palestinian factional violence: Hamas officials report that a rocket-propelled grenade has been fired at the house of Prime Minister Ismail Haniyeh, causing damage but no injuries. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Forbes](http://www.forbes.com/feeds/ap/2007/06/12/ap3810726.html)
+1. [AP via Forbes](https://www.forbes.com/feeds/ap/2007/06/12/ap3810726.html)
 
 ### Related:
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/12/10/global-food-price-crisis-the-food-and-agriculture-organization-of-the-united-nations-estimates-that-963-million-people-are-suffering-from.html)  [JSON](/news/2008/12/10/global-food-price-crisis-the-food-and-agriculture-organization-of-the-united-nations-estimates-that-963-million-people-are-suffering-from.json)  [XML](/news/2008/12/10/global-food-price-crisis-the-food-and-agriculture-organization-of-the-united-nations-estimates-that-963-million-people-are-suffering-from.xml)  
+
 ### [2008-12-10](/news/2008/12/10/index.md)
 
+##### Global food price crisis
 #  Global food price crisis: The Food and Agriculture Organization of the United Nations estimates that 963 million people are suffering from prolonged food deficiency around the world. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601100&sid=aGgQrD5EwniQ&refer=germany)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601100&sid=aGgQrD5EwniQ&refer=germany)
 
 ### Related:
 

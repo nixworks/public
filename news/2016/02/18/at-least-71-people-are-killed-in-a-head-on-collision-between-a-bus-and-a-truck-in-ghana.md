@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/18/at-least-71-people-are-killed-in-a-head-on-coll
 
 ### [2016-02-18](/news/2016/02/18/index.md)
 
+##### Ghana
 # At least 71 people are killed in a head-on collision between a bus and a truck in Ghana. 
 
 Rescuers are forced to use chainsaws to cut through the mangled wreckage after one of the deadliest road accidents in years.

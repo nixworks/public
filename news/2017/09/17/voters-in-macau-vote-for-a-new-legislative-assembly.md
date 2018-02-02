@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/09/17/voters-in-macau-vote-for-a-new-legislative-assembly.html)  [JSON](/news/2017/09/17/voters-in-macau-vote-for-a-new-legislative-assembly.json)  [XML](/news/2017/09/17/voters-in-macau-vote-for-a-new-legislative-assembly.xml)  
+
 ### [2017-09-17](/news/2017/09/17/index.md)
 
+##### Macanese legislative election
 # Voters in Macau vote for a new Legislative Assembly. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [South China Morning Post](http://www.scmp.com/news/hong-kong/politics/article/2111503/macau-votes-new-legislature-most-hotly-contested-polls-years)
 

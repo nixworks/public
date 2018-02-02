@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/28/scandinavian-airlines-decides-to-immediately-and-permanently-discontinue-services-based-on-the-use-of-its-24-dash-8-q400-after-a-series-of.html)  [JSON](/news/2007/10/28/scandinavian-airlines-decides-to-immediately-and-permanently-discontinue-services-based-on-the-use-of-its-24-dash-8-q400-after-a-series-of.json)  [XML](/news/2007/10/28/scandinavian-airlines-decides-to-immediately-and-permanently-discontinue-services-based-on-the-use-of-its-24-dash-8-q400-after-a-series-of.xml)  
+
 ### [2007-10-28](/news/2007/10/28/index.md)
 
+##### Scandinavian Airlines
 #  Scandinavian Airlines decides to immediately and permanently discontinue services based on the use of its 24 Dash 8 Q400 after a series of crash landings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://ca.today.reuters.com/news/newsArticle.aspx?type=businessNews&storyID=2007-10-28T163917Z_01_N28436038_RTRIDST_0_BUSINESS-SAS-FLIGHTS-COL.XML&archived=False)
 

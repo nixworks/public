@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/20/the-federal-constitutional-court-of-germany-rul
 
 ### [2016-04-20](/news/2016/04/20/index.md)
 
+##### Federal Constitutional Court of Germany
 # The Federal Constitutional Court of Germany rules that an anti-terrorism law is unconstitutional and violates right to privacy. 
 
 

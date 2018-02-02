@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/26/a-massive-fire-severely-damages-the-national-mu
 
 ### [2016-04-26](/news/2016/04/26/index.md)
 
+##### National Museum of Natural History
 # A massive fire severely damages the National Museum of Natural History in the Indian capital New Delhi. 
 
 

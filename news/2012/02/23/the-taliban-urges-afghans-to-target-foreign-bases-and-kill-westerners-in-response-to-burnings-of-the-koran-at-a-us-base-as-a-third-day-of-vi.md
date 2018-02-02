@@ -1,26 +1,30 @@
+
+Formats: [HTML](/news/2012/02/23/the-taliban-urges-afghans-to-target-foreign-bases-and-kill-westerners-in-response-to-burnings-of-the-koran-at-a-us-base-as-a-third-day-of-vi.html)  [JSON](/news/2012/02/23/the-taliban-urges-afghans-to-target-foreign-bases-and-kill-westerners-in-response-to-burnings-of-the-koran-at-a-us-base-as-a-third-day-of-vi.json)  [XML](/news/2012/02/23/the-taliban-urges-afghans-to-target-foreign-bases-and-kill-westerners-in-response-to-burnings-of-the-koran-at-a-us-base-as-a-third-day-of-vi.xml)  
+
 ### [2012-02-23](/news/2012/02/23/index.md)
 
+##### Taliban
 # The Taliban urges Afghans to target foreign bases and kill westerners in response to burnings of the Koran at a US base as a third day of violent protests occurs, with six people having been shot dead so far. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Alertnet](http://www.trust.org/alertnet/news/afghan-protesters-attack-norwegian-base-over-koran-burning)
-2. [Reuters](http://www.reuters.com/article/2012/02/23/us-afghanistan-korans-idUSTRE81K09T20120223)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120223&t=2&i=574429560&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE81M19UU00)
-
-### Related:
-
-1. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Taliban_
-2. [Pakistani troops rescue Joshua Boyle and Caitlan Coleman, who have been held captive since 2012, and their three children from the Taliban. ](/news/2017/10/11/pakistani-troops-rescue-joshua-boyle-and-caitlan-coleman-who-have-been-held-captive-since-2012-and-their-three-children-from-the-taliban.md) _Context: Taliban_
-3. [At least 11 Afghan civilians are killed and 16 wounded when a NATO helicopter attacked a house where Taliban insurgents had taken shelter in Logar Province, east of Kabul. ](/news/2017/08/30/at-least-11-afghan-civilians-are-killed-and-16-wounded-when-a-nato-helicopter-attacked-a-house-where-taliban-insurgents-had-taken-shelter-in.md) _Context: Taliban_
-4. [A suicide bomber kills five people at the entrance of a Kabul Bank subsidiary near the Embassy of the United States in Kabul. The Taliban claims their attack targeted soldiers and police withdrawing their salaries. ](/news/2017/08/29/a-suicide-bomber-kills-five-people-at-the-entrance-of-a-kabul-bank-subsidiary-near-the-embassy-of-the-united-states-in-kabul-the-taliban-cl.md) _Context: Taliban_
-5. [According to the Defense Ministry, between 26 and 30 military personnel are dead and over 80 Taliban militants have been either killed or wounded amid intense fighting at a military base in Kandahar Province. ](/news/2017/07/26/according-to-the-defense-ministry-between-26-and-30-military-personnel-are-dead-and-over-80-taliban-militants-have-been-either-killed-or-wo.md) _Context: Taliban_
+2. [Reuters](https://www.reuters.com/article/2012/02/23/us-afghanistan-korans-idUSTRE81K09T20120223)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120223&t=2&i=574429560&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE81M19UU00)
 
 ### Changes:
 
 1. [Afghanistan:The Taliban urges Afghans to target foreign bases and kill westerners in response to burnings of the Koran at a US base as a third day of violent protests occurs, with six people having been shot dead so far. ](/news/2012/02/23/afghanistan-pthe-taliban-urges-afghans-to-target-foreign-bases-and-kill-westerners-in-response-to-burnings-of-the-koran-at-a-us-base-as-a-th.md) _2017-08-25 03:35:07 (First version)_
 2. [Afghanistan:: The Taliban urges Afghans to target foreign bases and kill westerners in response to burnings of the Koran at a US base as a third day of violent protests occurs, with six people having been shot dead so far. ](/news/2012/02/23/afghanistan-the-taliban-urges-afghans-to-target-foreign-bases-and-kill-westerners-in-response-to-burnings-of-the-koran-at-a-us-base-as-a-t.md) _2017-08-27 03:35:16 (Update)_
 2. [The Taliban urges Afghans to target foreign bases and kill westerners in response to burnings of the Koran at a US base as a third day of violent protests occurs, with six people having been shot dead so far. ](/news/2012/02/23/the-taliban-urges-afghans-to-target-foreign-bases-and-kill-westerners-in-response-to-burnings-of-the-koran-at-a-us-base-as-a-third-day-of-vi.md) _(Current version)_
+
+### Related:
+
+1. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: Taliban_
+2. [Six insurgents kill at least 18 people, including 4 Afghans and 14 foreigners, in a 13-hour gun battle. The Afghan Interior Ministry says that the siege ended when the last gunman was shot dead. NATO reports that "no foreign troops" died. The Taliban claim that they sent five suicide bombers armed with hand grenades and AK-47 assault rifles. The Afghan government blames the attack on the Pakistan-based Haqqani network. ](/news/2018/01/21/six-insurgents-kill-at-least-18-people-including-4-afghans-and-14-foreigners-in-a-13-hour-gun-battle-the-afghan-interior-ministry-says-th.md) _Context: Taliban_
+3. [Joshua Boyle, a Canadian man recently rescued from a Taliban linked group, is arrested on 15 charges, including assault, sexual assault, and unlawful confinement. ](/news/2018/01/2/joshua-boyle-a-canadian-man-recently-rescued-from-a-taliban-linked-group-is-arrested-on-15-charges-including-assault-sexual-assault-and.md) _Context: Taliban_
+4. [At least 43 Afghan soldiers are killed in a Taliban attack on an army base in Kandahar Province. Around 10 Taliban fighters also died in the attack. ](/news/2017/10/19/at-least-43-afghan-soldiers-are-killed-in-a-taliban-attack-on-an-army-base-in-kandahar-province-around-10-taliban-fighters-also-died-in-the.md) _Context: Taliban_
+5. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Taliban_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/25/a-seoul-court-orders-chung-mong-koo-the-chairman-of-the-south-korean-hyundai-kia-automotive-group-to-pay-us-73-1-million-in-compensation-t.html)  [JSON](/news/2011/02/25/a-seoul-court-orders-chung-mong-koo-the-chairman-of-the-south-korean-hyundai-kia-automotive-group-to-pay-us-73-1-million-in-compensation-t.json)  [XML](/news/2011/02/25/a-seoul-court-orders-chung-mong-koo-the-chairman-of-the-south-korean-hyundai-kia-automotive-group-to-pay-us-73-1-million-in-compensation-t.xml)  
+
 ### [2011-02-25](/news/2011/02/25/index.md)
 
+##### Seoul
 # A Seoul court orders Chung Mong-koo, the Chairman of the South Korean Hyundai Kia Automotive Group, to pay US$73.1 million in compensation to his own company. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/news/2011/02/25/0200000000AEN20110225004000315.HTML)
 

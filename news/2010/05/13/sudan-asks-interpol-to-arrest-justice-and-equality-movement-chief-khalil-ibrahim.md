@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/13/sudan-asks-interpol-to-arrest-justice-and-equality-movement-chief-khalil-ibrahim.html)  [JSON](/news/2010/05/13/sudan-asks-interpol-to-arrest-justice-and-equality-movement-chief-khalil-ibrahim.json)  [XML](/news/2010/05/13/sudan-asks-interpol-to-arrest-justice-and-equality-movement-chief-khalil-ibrahim.xml)  
+
 ### [2010-05-13](/news/2010/05/13/index.md)
 
+##### Sudan
 # Sudan asks Interpol to arrest Justice and Equality Movement chief Khalil Ibrahim. 
 
 Sudan has asked Interpol to arrest Khalil Ibrahim, chief of JEM wherever he might be.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/2010511131739135364.html)
 1. [Cover Image](http://www.aljazeera.com)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/28/a-dornier-do-228-light-aircraft-operated-by-sita-air-crashes-on-the-outskirts-of-the-nepalese-capital-of-kathmandu-killing-all-16-passenger.html)  [JSON](/news/2012/09/28/a-dornier-do-228-light-aircraft-operated-by-sita-air-crashes-on-the-outskirts-of-the-nepalese-capital-of-kathmandu-killing-all-16-passenger.json)  [XML](/news/2012/09/28/a-dornier-do-228-light-aircraft-operated-by-sita-air-crashes-on-the-outskirts-of-the-nepalese-capital-of-kathmandu-killing-all-16-passenger.xml)  
+
 ### [2012-09-28](/news/2012/09/28/index.md)
 
+##### Dornier Do 228
 # A Dornier Do 228 light aircraft operated by Sita Air crashes on the outskirts of the Nepalese capital of Kathmandu, killing all 16 passengers and three crew on board. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gdM7acvLKf9GeIfLS17SLNBtfREQ?docId=CNG.47ef138169d66b9712d77617c60d53a9.191)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-19754351)

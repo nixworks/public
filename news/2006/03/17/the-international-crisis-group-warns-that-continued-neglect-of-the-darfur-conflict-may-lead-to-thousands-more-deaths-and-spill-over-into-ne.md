@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/17/the-international-crisis-group-warns-that-continued-neglect-of-the-darfur-conflict-may-lead-to-thousands-more-deaths-and-spill-over-into-ne.html)  [JSON](/news/2006/03/17/the-international-crisis-group-warns-that-continued-neglect-of-the-darfur-conflict-may-lead-to-thousands-more-deaths-and-spill-over-into-ne.json)  [XML](/news/2006/03/17/the-international-crisis-group-warns-that-continued-neglect-of-the-darfur-conflict-may-lead-to-thousands-more-deaths-and-spill-over-into-ne.xml)  
+
 ### [2006-03-17](/news/2006/03/17/index.md)
 
+##### International Crisis Group
 #  The International Crisis Group warns that continued neglect of the Darfur conflict may lead to thousands more deaths and spill over into neighboring countries, further destabilizing the region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2006-03-17T133614Z_01_L17497238_RTRUKOC_0_UK-SUDAN.xml&archived=False)
 

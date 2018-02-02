@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/9/barbara-kingsolver-wins-the-orange-prize-for-fiction-for-her-sixth-novel-the-lacuna.html)  [JSON](/news/2010/06/9/barbara-kingsolver-wins-the-orange-prize-for-fiction-for-her-sixth-novel-the-lacuna.json)  [XML](/news/2010/06/9/barbara-kingsolver-wins-the-orange-prize-for-fiction-for-her-sixth-novel-the-lacuna.xml)  
+
 ### [2010-06-9](/news/2010/06/9/index.md)
 
+##### Barbara Kingsolver
 # Barbara Kingsolver wins the Orange Prize for Fiction for her sixth novel, "The Lacuna". 
 
 BARBARA KINGSOLVER&#039;S epic, ambitious novel straddling the Mexican revolution and the crazed communist witch-hunts of 1950s America has won this year&#039;s Orange prize for fiction.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment_and_arts/10279952.stm)
 2. [The Guardian](http://www.guardian.co.uk/books/2010/jun/10/barbara-kingsolver-orange-prize)

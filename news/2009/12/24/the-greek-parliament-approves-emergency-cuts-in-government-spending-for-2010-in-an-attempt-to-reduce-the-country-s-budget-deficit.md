@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/24/the-greek-parliament-approves-emergency-cuts-in-government-spending-for-2010-in-an-attempt-to-reduce-the-country-s-budget-deficit.html)  [JSON](/news/2009/12/24/the-greek-parliament-approves-emergency-cuts-in-government-spending-for-2010-in-an-attempt-to-reduce-the-country-s-budget-deficit.json)  [XML](/news/2009/12/24/the-greek-parliament-approves-emergency-cuts-in-government-spending-for-2010-in-an-attempt-to-reduce-the-country-s-budget-deficit.xml)  
+
 ### [2009-12-24](/news/2009/12/24/index.md)
 
+##### Hellenic Parliament
 #  The Greek parliament approves emergency cuts in government spending for 2010 in an attempt to reduce the country's budget deficit. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/business/8428180.stm)
 2. [Financial Times](http://www.ft.com/cms/s/0/86b42d82-f07b-11de-839a-00144feab49a.html)

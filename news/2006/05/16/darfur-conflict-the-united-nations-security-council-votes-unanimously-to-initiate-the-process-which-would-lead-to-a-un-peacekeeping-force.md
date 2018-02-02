@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/16/darfur-conflict-the-united-nations-security-council-votes-unanimously-to-initiate-the-process-which-would-lead-to-a-un-peacekeeping-force.html)  [JSON](/news/2006/05/16/darfur-conflict-the-united-nations-security-council-votes-unanimously-to-initiate-the-process-which-would-lead-to-a-un-peacekeeping-force.json)  [XML](/news/2006/05/16/darfur-conflict-the-united-nations-security-council-votes-unanimously-to-initiate-the-process-which-would-lead-to-a-un-peacekeeping-force.xml)  
+
 ### [2006-05-16](/news/2006/05/16/index.md)
 
+##### Darfur conflict
 #  Darfur conflict: The United Nations Security Council votes unanimously to initiate the process which would lead to a UN peacekeeping force relieving the beleaguered African Union peacekeepers in the war-torn Darfur region of Sudan. The Government of Sudan opposes the move. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4987414.stm)
 2. [VoA](http://www.voanews.com/english/2006-05-16-voa75.cfm)

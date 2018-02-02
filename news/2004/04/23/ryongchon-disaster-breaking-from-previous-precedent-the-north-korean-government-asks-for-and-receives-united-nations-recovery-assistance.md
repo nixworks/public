@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/23/ryongchon-disaster-breaking-from-previous-precedent-the-north-korean-government-asks-for-and-receives-united-nations-recovery-assistance.html)  [JSON](/news/2004/04/23/ryongchon-disaster-breaking-from-previous-precedent-the-north-korean-government-asks-for-and-receives-united-nations-recovery-assistance.json)  [XML](/news/2004/04/23/ryongchon-disaster-breaking-from-previous-precedent-the-north-korean-government-asks-for-and-receives-united-nations-recovery-assistance.xml)  
+
 ### [2004-04-23](/news/2004/04/23/index.md)
 
+##### Ryongchon disaster
 #  Ryongchon disaster: Breaking from previous precedent, the North Korean government asks for and receives United Nations recovery assistance. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/WORLD/asiapcf/04/23/nkorea.train/index.html)
 

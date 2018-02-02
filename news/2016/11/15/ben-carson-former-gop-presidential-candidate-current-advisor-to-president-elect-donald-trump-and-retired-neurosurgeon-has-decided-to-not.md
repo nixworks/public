@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/15/ben-carson-former-gop-presidential-candidate-cu
 
 ### [2016-11-15](/news/2016/11/15/index.md)
 
+##### Presidential transition of Donald Trump
 # Ben Carson, former GOP presidential candidate, current advisor to President-elect Donald Trump and retired neurosurgeon, has decided to not accept a Cabinet position in the Trump administration. 
 
 Retired neurosurgeon Ben Carson, a former 2016 Republican presidential candidate who is an adviser to President-elect Donald Trump, has opted against accepting a Cabinet position in the Trump administration, his spokesman said on Tuesday.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/27/a-senior-united-nations-official-vijay-nambiar-meets-with-burmese-opposition-leader-aung-san-suu-kyi-in-yangon.html)  [JSON](/news/2010/11/27/a-senior-united-nations-official-vijay-nambiar-meets-with-burmese-opposition-leader-aung-san-suu-kyi-in-yangon.json)  [XML](/news/2010/11/27/a-senior-united-nations-official-vijay-nambiar-meets-with-burmese-opposition-leader-aung-san-suu-kyi-in-yangon.xml)  
+
 ### [2010-11-27](/news/2010/11/27/index.md)
 
+##### United Nations
 # A senior United Nations official, Vijay Nambiar, meets with Burmese opposition leader Aung San Suu Kyi in Yangon. 
 
 Myanmar pro-democracy leader holds talks with UN special representative after her recent release from house arrest.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/11/2010112742422382675.html)
 2. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE6AQ0TR20101127?sp=true)

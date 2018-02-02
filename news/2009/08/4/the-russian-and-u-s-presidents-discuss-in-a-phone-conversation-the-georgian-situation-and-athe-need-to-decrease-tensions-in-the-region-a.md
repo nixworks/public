@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/4/the-russian-and-u-s-presidents-discuss-in-a-phone-conversation-the-georgian-situation-and-athe-need-to-decrease-tensions-in-the-region-a.html)  [JSON](/news/2009/08/4/the-russian-and-u-s-presidents-discuss-in-a-phone-conversation-the-georgian-situation-and-athe-need-to-decrease-tensions-in-the-region-a.json)  [XML](/news/2009/08/4/the-russian-and-u-s-presidents-discuss-in-a-phone-conversation-the-georgian-situation-and-athe-need-to-decrease-tensions-in-the-region-a.xml)  
+
 ### [2009-08-4](/news/2009/08/4/index.md)
 
+##### Georgia
 #  The Russian and U.S. Presidents discuss in a phone conversation the Georgian situation and "the need to decrease tensions in the region," America's White House claims. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jEiy78W9ItqeJtR-QG_72065oWnQ)
 2. [Civil](http://www.civil.ge/eng/article.php?id=21330)
@@ -13,16 +17,16 @@
 4. [Rustavi 2](http://rustavi2.com/news/news_text.php?id_news=33033&pg=1&im=main&ct=0&wth=)
 5. [Rustavi2](http://rustavi2.com/news/news_text.php?id_news=33020&pg=1&im=main&ct=0&wth=)
 
-### Related:
-
-1. [The "New York Times" reports that Russian hackers read President of the United States unclassified emails indicating that the breach of the White House's computer system was more extensive than previously revealed. ](/news/2015/04/25/the-new-york-times-reports-that-russian-hackers-read-president-of-the-united-states-unclassified-emails-indicating-that-the-breach-of-the.md) _Context: Russia, White House_
-2. [A fire at the Sindika Trade Center, a construction materials shopping center in the northwestern edge of Moscow, Russia, forces the evacuation of at least 3000 people. ](/news/2017/10/9/a-fire-at-the-sindika-trade-center-a-construction-materials-shopping-center-in-the-northwestern-edge-of-moscow-russia-forces-the-evacuati.md) _Context: Russia_
-3. [According to the Syrian Observatory for Human Rights, Russian airstrikes kill at least 14 civilians, including three children, as they cross the Euphrates river near the ISIL-held city of Mayadin in eastern Syria while fleeing the village of Mahkan. ](/news/2017/10/6/according-to-the-syrian-observatory-for-human-rights-russian-airstrikes-kill-at-least-14-civilians-including-three-children-as-they-cross.md) _Context: Russia_
-4. [A train hits a bus on a crossing in Vladimir, Russia, killing at least 19 people on the bus. No train passengers were injured. ](/news/2017/10/6/a-train-hits-a-bus-on-a-crossing-in-vladimir-russia-killing-at-least-19-people-on-the-bus-no-train-passengers-were-injured.md) _Context: Russia_
-5. [Alleged Russian government-backed hackers stole highly classified U.S. cyber secrets in 2015 from the National Security Agency after a contractor put information on his home computer. The entrance to the computer was speculated to have possibly been through an installed Kaspersky Lab antivirus. U.S. rules governing federal computers now ban installation of Kaspersky Lab software. ](/news/2017/10/5/alleged-russian-government-backed-hackers-stole-highly-classified-u-s-cyber-secrets-in-2015-from-the-national-security-agency-after-a-contr.md) _Context: Russia_
-
 ### Changes:
 
 1. [ The Russian and U.S. Presidents discuss in a phone conversation the Georgian situation and "the need to decrease tensions in the region," America's White House claims. ](/news/2009/08/4/the-russian-and-u-s-presidents-discuss-in-a-phone-conversation-the-georgian-situation-and-athe-need-to-decrease-tensions-in-the-region.md) _2017-08-25 03:25:21 (First version)_
 2. [ Georgia: The Russian and U.S. Presidents discuss in a phone conversation the Georgian situation and -the need to decrease tensions in the region,- America's White House claims. ](/news/2009/08/4/georgia-the-russian-and-u-s-presidents-discuss-in-a-phone-conversation-the-georgian-situation-and-the-need-to-decrease-tensions-in-the.md) _2017-08-27 03:25:14 (Update)_
 2. [ The Russian and U.S. Presidents discuss in a phone conversation the Georgian situation and "the need to decrease tensions in the region," America's White House claims. ](/news/2009/08/4/the-russian-and-u-s-presidents-discuss-in-a-phone-conversation-the-georgian-situation-and-athe-need-to-decrease-tensions-in-the-region-a.md) _(Current version)_
+
+### Related:
+
+1. [The "New York Times" reports that Russian hackers read President of the United States unclassified emails indicating that the breach of the White House's computer system was more extensive than previously revealed. ](/news/2015/04/25/the-new-york-times-reports-that-russian-hackers-read-president-of-the-united-states-unclassified-emails-indicating-that-the-breach-of-the.md) _Context: Russia, White House_
+2. [An Amtrak train carrying Republican lawmakers to a retreat in West Virginia collides with a garbage truck in Crozet, Virginia. At least one person dies and one person is seriously injured. The White House states that there are no serious injuries among members of Congress or their staff. ](/news/2018/01/31/an-amtrak-train-carrying-republican-lawmakers-to-a-retreat-in-west-virginia-collides-with-a-garbage-truck-in-crozet-virginia-at-least-one.md) _Context: White House_
+3. [Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was.md) _Context: Russia_
+4. [Russian opposition politician Alexei Navalny is arrested by police at a protest rally in Moscow. His arrest comes shortly after police raid the headquarters of his unregistered Progress Party in an apparent attempt to disrupt online broadcasts of opposition rallies against Vladimir Putin, while police say they were looking for a bomb. Navalny is released from police custody without charge late Sunday but needs to appear in court later. ](/news/2018/01/28/russian-opposition-politician-alexei-navalny-is-arrested-by-police-at-a-protest-rally-in-moscow-his-arrest-comes-shortly-after-police-raid.md) _Context: Russia_
+5. [Incumbent Milos Zeman, who opposes immigration and objects to EU sanctions against Russia, is elected to a second term as President of the Czech Republic, after receiving 51.8 percent of the votes in the run-off election over pro-EU challenger Jiri Drahos. ](/news/2018/01/27/incumbent-miloa-zeman-who-opposes-immigration-and-objects-to-eu-sanctions-against-russia-is-elected-to-a-second-term-as-president-of-the.md) _Context: Russia_

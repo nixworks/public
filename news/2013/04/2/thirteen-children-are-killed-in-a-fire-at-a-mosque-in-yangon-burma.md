@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/04/2/thirteen-children-are-killed-in-a-fire-at-a-mosque-in-yangon-burma.html)  [JSON](/news/2013/04/2/thirteen-children-are-killed-in-a-fire-at-a-mosque-in-yangon-burma.json)  [XML](/news/2013/04/2/thirteen-children-are-killed-in-a-fire-at-a-mosque-in-yangon-burma.xml)  
+
 ### [2013-04-2](/news/2013/04/2/index.md)
 
+##### mosque
 # Thirteen children are killed in a fire at a mosque in Yangon, Burma. 
 
 The police in Myanmar said Tuesday that 13 children died when an electrical fire broke out at a mosque in Yangon, the country’s largest city.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2013/04/02/world/asia/myanmar-fire-at-mosque-kills-13-children.html)
+1. [The New York Times](https://www.nytimes.com/2013/04/02/world/asia/myanmar-fire-at-mosque-kills-13-children.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

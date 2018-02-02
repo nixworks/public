@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/27/the-macedonian-parliament-is-stormed-by-protest
 
 ### [2017-04-27](/news/2017/04/27/index.md)
 
+##### 2017 storming of Macedonian Parliament
 # The Macedonian Parliament is stormed by protesters opposing the election of Talat Xhaferi, an ethnic Albanian, as Speaker of the Assembly. 
 
 

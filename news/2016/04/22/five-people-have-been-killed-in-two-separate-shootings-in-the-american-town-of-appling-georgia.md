@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/22/five-people-have-been-killed-in-two-separate-sh
 
 ### [2016-04-22](/news/2016/04/22/index.md)
 
+##### Appling, Georgia
 # Five people have been killed in two separate shootings in the American town of Appling, Georgia. 
 
 Five people died in what appeared to be a pair of domestic-related shootings in Appling, Georgia, Friday night, according to multiple media reports.

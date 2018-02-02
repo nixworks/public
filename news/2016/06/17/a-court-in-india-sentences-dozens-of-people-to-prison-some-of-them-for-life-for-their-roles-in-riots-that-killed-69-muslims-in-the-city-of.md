@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/17/a-court-in-india-sentences-dozens-of-people-to-
 
 ### [2016-06-17](/news/2016/06/17/index.md)
 
+##### 2002 Gujarat riots
 # A court in India sentences dozens of people to prison, some of them for life, for their roles in riots that killed 69 Muslims in the city of Ahmedabad in 2002. 
 
 A court in India sentences 11 people to life in prison for their roles in a notorious massacre during the 2002 anti-Muslim riots in Gujarat.

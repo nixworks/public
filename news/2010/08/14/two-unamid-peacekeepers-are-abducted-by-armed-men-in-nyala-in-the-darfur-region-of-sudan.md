@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/08/14/two-unamid-peacekeepers-are-abducted-by-armed-men-in-nyala-in-the-darfur-region-of-sudan.html)  [JSON](/news/2010/08/14/two-unamid-peacekeepers-are-abducted-by-armed-men-in-nyala-in-the-darfur-region-of-sudan.json)  [XML](/news/2010/08/14/two-unamid-peacekeepers-are-abducted-by-armed-men-in-nyala-in-the-darfur-region-of-sudan.xml)  
+
 ### [2010-08-14](/news/2010/08/14/index.md)
 
+##### UNAMID
 # Two UNAMID peacekeepers are abducted by armed men in Nyala in the Darfur region of Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20100814/wl_nm/us_sudan_darfur_abduction)
+1. [Reuters via Yahoo! News](https://news.yahoo.com/s/nm/20100814/wl_nm/us_sudan_darfur_abduction)
 
 ### Related:
 

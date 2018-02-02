@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/22/germany-and-france-celebrate-the-40th-anniversary-of-their-friendship-in-versailles-elysee-treaty.html)  [JSON](/news/2003/01/22/germany-and-france-celebrate-the-40th-anniversary-of-their-friendship-in-versailles-elysee-treaty.json)  [XML](/news/2003/01/22/germany-and-france-celebrate-the-40th-anniversary-of-their-friendship-in-versailles-elysee-treaty.xml)  
+
 ### [2003-01-22](/news/2003/01/22/index.md)
 
+##### Palace of Versailles
 #  Germany and France celebrate the 40th anniversary of their friendship in Versailles (Elyse Treaty).
 
 

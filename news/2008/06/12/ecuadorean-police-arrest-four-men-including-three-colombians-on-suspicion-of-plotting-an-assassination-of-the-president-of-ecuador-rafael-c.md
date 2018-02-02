@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/12/ecuadorean-police-arrest-four-men-including-three-colombians-on-suspicion-of-plotting-an-assassination-of-the-president-of-ecuador-rafael-c.html)  [JSON](/news/2008/06/12/ecuadorean-police-arrest-four-men-including-three-colombians-on-suspicion-of-plotting-an-assassination-of-the-president-of-ecuador-rafael-c.json)  [XML](/news/2008/06/12/ecuadorean-police-arrest-four-men-including-three-colombians-on-suspicion-of-plotting-an-assassination-of-the-president-of-ecuador-rafael-c.xml)  
+
 ### [2008-06-12](/news/2008/06/12/index.md)
 
+##### Ecuador
 #  Ecuadorean police arrest four men including three Colombians on suspicion of plotting an assassination of the President of Ecuador Rafael Correa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''International Herald Tribune](http://www.iht.com/articles/ap/2008/06/13/news/Ecuador-President.php)
 

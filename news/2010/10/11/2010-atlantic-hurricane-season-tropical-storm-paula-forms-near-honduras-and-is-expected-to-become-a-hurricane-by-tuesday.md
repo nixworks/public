@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/11/2010-atlantic-hurricane-season-tropical-storm-paula-forms-near-honduras-and-is-expected-to-become-a-hurricane-by-tuesday.html)  [JSON](/news/2010/10/11/2010-atlantic-hurricane-season-tropical-storm-paula-forms-near-honduras-and-is-expected-to-become-a-hurricane-by-tuesday.json)  [XML](/news/2010/10/11/2010-atlantic-hurricane-season-tropical-storm-paula-forms-near-honduras-and-is-expected-to-become-a-hurricane-by-tuesday.xml)  
+
 ### [2010-10-11](/news/2010/10/11/index.md)
 
+##### 2010 Atlantic hurricane season
 # 2010 Atlantic hurricane season: Tropical Storm Paula forms near Honduras and is expected to become a hurricane by Tuesday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted2.ap.org/apdefault/d6fa762983c344c38a1e9b5fe6e142e3/Article_2010-10-11-Tropical-Weather/id-4970e59909f44ad3811203293760fb3c)
 

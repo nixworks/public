@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/17/south-korea-develops-a-long-range-cruise-missile-capable-of-striking-north-korea-japan-russia-and-china.html)  [JSON](/news/2010/07/17/south-korea-develops-a-long-range-cruise-missile-capable-of-striking-north-korea-japan-russia-and-china.json)  [XML](/news/2010/07/17/south-korea-develops-a-long-range-cruise-missile-capable-of-striking-north-korea-japan-russia-and-china.xml)  
+
 ### [2010-07-17](/news/2010/07/17/index.md)
 
+##### South Korea
 # South Korea develops a long-range cruise missile capable of striking North Korea, Japan, Russia and China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [WAtoday](http://www.watoday.com.au/breaking-news-world/south-korea-develops-cruise-missile-20100717-10ew0.html)
 

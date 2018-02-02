@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/10/u-s-president-obama-nominates-general-john-r-allen-for-the-saceur-function-general-joseph-dunford-would-succeed-allen-as-isaf-commander-i.html)  [JSON](/news/2012/10/10/u-s-president-obama-nominates-general-john-r-allen-for-the-saceur-function-general-joseph-dunford-would-succeed-allen-as-isaf-commander-i.json)  [XML](/news/2012/10/10/u-s-president-obama-nominates-general-john-r-allen-for-the-saceur-function-general-joseph-dunford-would-succeed-allen-as-isaf-commander-i.xml)  
+
 ### [2012-10-10](/news/2012/10/10/index.md)
 
+##### John R. Allen
 # U.S. President Obama nominates general John R. Allen for the SACEUR function. General Joseph Dunford would succeed Allen as ISAF commander in Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://security.blogs.cnn.com/2012/10/10/top-military-commanders-would-have-steep-challenges-in-new-jobs/)
 

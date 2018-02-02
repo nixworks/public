@@ -1,7 +1,7 @@
-## [2000-11-15](/news/2000/11/15/index.md)
 
-### [ A new Indian state called Jharkhand is formed carving out South Chhota Nagpur area from Bihar.](/news/2000/11/15/a-new-indian-state-called-jharkhand-is-formed-carving-out-south-chhota-nagpur-area-from-bihar.md)
-_Context: Bihar, Chhota Nagpur, Jharkhand_
+Formats: [HTML](2000/11/15/index.html)  [JSON](2000/11/15/index.json)  [XML](2000/11/15/index.xml)  
+
+## [2000-11-15](/news/2000/11/15/index.md)
 
 ## [Previous Day...](/news/2000/11/14/index.md)
 

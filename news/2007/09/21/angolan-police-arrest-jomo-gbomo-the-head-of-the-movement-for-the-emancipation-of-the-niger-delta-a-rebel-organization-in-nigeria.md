@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/21/angolan-police-arrest-jomo-gbomo-the-head-of-the-movement-for-the-emancipation-of-the-niger-delta-a-rebel-organization-in-nigeria.html)  [JSON](/news/2007/09/21/angolan-police-arrest-jomo-gbomo-the-head-of-the-movement-for-the-emancipation-of-the-niger-delta-a-rebel-organization-in-nigeria.json)  [XML](/news/2007/09/21/angolan-police-arrest-jomo-gbomo-the-head-of-the-movement-for-the-emancipation-of-the-niger-delta-a-rebel-organization-in-nigeria.xml)  
+
 ### [2007-09-21](/news/2007/09/21/index.md)
 
+##### Angola
 #  Angolan police arrest Jomo Gbomo, the head of the Movement for the Emancipation of the Niger Delta, a rebel organization in Nigeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.suntimes.co.za/News/Article.aspx?id=569986)
 

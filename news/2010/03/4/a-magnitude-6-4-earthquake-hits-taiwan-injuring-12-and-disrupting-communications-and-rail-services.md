@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/4/a-magnitude-6-4-earthquake-hits-taiwan-injuring-12-and-disrupting-communications-and-rail-services.html)  [JSON](/news/2010/03/4/a-magnitude-6-4-earthquake-hits-taiwan-injuring-12-and-disrupting-communications-and-rail-services.json)  [XML](/news/2010/03/4/a-magnitude-6-4-earthquake-hits-taiwan-injuring-12-and-disrupting-communications-and-rail-services.xml)  
+
 ### [2010-03-4](/news/2010/03/4/index.md)
 
+##### 6.4 earthquake
 # A magnitude 6.4 earthquake hits Taiwan, injuring 12 and disrupting communications and rail services. 
 
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jG5hZlCCO3i3V4jYnlNrmMShKbrAD9E7N6SO0)
 2. [China Daily](http://chinadaily.cn/china/2010-03/04/content_9535323.htm)

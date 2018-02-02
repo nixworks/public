@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/10/8/yevgeny-dzhugashvili-launches-a-court-action-claiming-the-novaya-gazeta-newspaper-has-defamed-his-grandfather-joseph-stalin.html)  [JSON](/news/2009/10/8/yevgeny-dzhugashvili-launches-a-court-action-claiming-the-novaya-gazeta-newspaper-has-defamed-his-grandfather-joseph-stalin.json)  [XML](/news/2009/10/8/yevgeny-dzhugashvili-launches-a-court-action-claiming-the-novaya-gazeta-newspaper-has-defamed-his-grandfather-joseph-stalin.xml)  
+
 ### [2009-10-8](/news/2009/10/8/index.md)
 
+##### Yevgeny Dzhugashvili
 #  Yevgeny Dzhugashvili launches a court action claiming the "Novaya Gazeta" newspaper has defamed his grandfather, Joseph Stalin. 
 
 Hearings began today in a libel case brought by the grandson of Joseph Stalin against a prominent Russian newspaper. Yevgeny Dzhugashvili, the Soviet dictator’s grandson, took offence at an article published by the liberal paper Novaya Gazeta that accused Stalin of personally signing death warrants for thousands of people.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8296902.stm)
 2. [Miami Herald](http://www.miamiherald.com/news/world/AP/story/1272849.html)
-3. [The Independent](http://www.independent.co.uk/news/world/europe/grandson-sues-newspaper-for-stalin-libel-1799728.html)
+3. [The Independent](https://www.independent.co.uk/news/world/europe/grandson-sues-newspaper-for-stalin-libel-1799728.html)
 
 ### Related:
 

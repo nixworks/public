@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/1/the-world-bank-agrees-to-fund-a-controversial-hydroelectric-dam-project-in-laos.html)  [JSON](/news/2005/04/1/the-world-bank-agrees-to-fund-a-controversial-hydroelectric-dam-project-in-laos.json)  [XML](/news/2005/04/1/the-world-bank-agrees-to-fund-a-controversial-hydroelectric-dam-project-in-laos.xml)  
+
 ### [2005-04-1](/news/2005/04/1/index.md)
 
+##### World Bank
 #  The World Bank agrees to fund a controversial hydroelectric dam project in Laos. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4399587.stm)
 2. [Planet Ark](http://www.planetark.com/dailynewsstory.cfm/newsid/30185/story.htm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/24/30-people-are-killed-across-syria-as-syrian-army-tanks-storm-the-town-of-saraqeb-and-are-met-by-resistance-from-syrian-army-defectors.html)  [JSON](/news/2012/03/24/30-people-are-killed-across-syria-as-syrian-army-tanks-storm-the-town-of-saraqeb-and-are-met-by-resistance-from-syrian-army-defectors.json)  [XML](/news/2012/03/24/30-people-are-killed-across-syria-as-syrian-army-tanks-storm-the-town-of-saraqeb-and-are-met-by-resistance-from-syrian-army-defectors.xml)  
+
 ### [2012-03-24](/news/2012/03/24/index.md)
 
+##### Syria
 # 30 people are killed across Syria as Syrian Army tanks storm the town of Saraqeb and are met by resistance from Syrian Army defectors. 
 
 Security forces, tanks storm rebel-held town of Saraqeb in latest effort to break down resistance
 
 
-### Source:
+### Sources:
 
 1. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4207143,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

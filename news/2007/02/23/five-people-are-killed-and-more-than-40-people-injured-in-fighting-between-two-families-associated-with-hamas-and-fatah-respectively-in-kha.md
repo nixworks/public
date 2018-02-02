@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/02/23/five-people-are-killed-and-more-than-40-people-injured-in-fighting-between-two-families-associated-with-hamas-and-fatah-respectively-in-kha.html)  [JSON](/news/2007/02/23/five-people-are-killed-and-more-than-40-people-injured-in-fighting-between-two-families-associated-with-hamas-and-fatah-respectively-in-kha.json)  [XML](/news/2007/02/23/five-people-are-killed-and-more-than-40-people-injured-in-fighting-between-two-families-associated-with-hamas-and-fatah-respectively-in-kha.xml)  
+
 ### [2007-02-23](/news/2007/02/23/index.md)
 
+##### Hamas
 #  Five people are killed and more than 40 people injured in fighting between two families associated with Hamas and Fatah respectively in Khan Younis on the Gaza Strip. 
 
 Though clashes in the town of Khan Younis were being portrayed in the Palestinian news media as a feud between families, they also took on a factional hue.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2007/02/25/world/middleeast/25mideast.html?ex=1330059600&en=338b9489051c004f&ei=5088&partner=rssnyt&emc=rss)
+1. [New York Times](https://www.nytimes.com/2007/02/25/world/middleeast/25mideast.html?ex=1330059600&en=338b9489051c004f&ei=5088&partner=rssnyt&emc=rss)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

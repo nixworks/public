@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/19/at-least-ten-palestinians-are-killed-in-rafah-gaza-strip-by-an-explosion-following-warning-shots-fired-by-the-idf-the-road-used-by-the-p.html)  [JSON](/news/2004/05/19/at-least-ten-palestinians-are-killed-in-rafah-gaza-strip-by-an-explosion-following-warning-shots-fired-by-the-idf-the-road-used-by-the-p.json)  [XML](/news/2004/05/19/at-least-ten-palestinians-are-killed-in-rafah-gaza-strip-by-an-explosion-following-warning-shots-fired-by-the-idf-the-road-used-by-the-p.xml)  
+
 ### [2004-05-19](/news/2004/05/19/index.md)
 
+##### Palestinians
 #  At least ten Palestinians are killed in Rafah, Gaza Strip, by an explosion following warning shots fired by the IDF. The road used by the Palestinians was strewn with explosives. 
 
 Israeli forces said their tanks and helicopters fired near, not into, the crowd of women and children, but television footage showed an explosion in the middle of the crowd.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3728681.stm)
 2. [CNN](http://edition.cnn.com/2004/WORLD/meast/05/19/mideast/index.html)

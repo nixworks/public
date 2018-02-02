@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/8/following-the-state-funeral-of-former-president-of-venezuela-hugo-cha-vez-vice-president-nicola-s-maduro-is-officially-sworn-in-as-interim.html)  [JSON](/news/2013/03/8/following-the-state-funeral-of-former-president-of-venezuela-hugo-cha-vez-vice-president-nicola-s-maduro-is-officially-sworn-in-as-interim.json)  [XML](/news/2013/03/8/following-the-state-funeral-of-former-president-of-venezuela-hugo-cha-vez-vice-president-nicola-s-maduro-is-officially-sworn-in-as-interim.xml)  
+
 ### [2013-03-8](/news/2013/03/8/index.md)
 
+##### recently deceased
 # Following the state funeral of former President of Venezuela Hugo Chavez, Vice President Nicolas Maduro is officially sworn in as Interim President. 
 
 Vice-President Nicolas Maduro is due to be sworn in as acting president of Venezuela.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-21711587)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66273000/jpg/_66273497_crowdgetty.jpg)

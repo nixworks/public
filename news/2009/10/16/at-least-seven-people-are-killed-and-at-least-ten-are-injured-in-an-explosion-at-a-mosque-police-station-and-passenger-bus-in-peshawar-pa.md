@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/16/at-least-seven-people-are-killed-and-at-least-ten-are-injured-in-an-explosion-at-a-mosque-police-station-and-passenger-bus-in-peshawar-pa.html)  [JSON](/news/2009/10/16/at-least-seven-people-are-killed-and-at-least-ten-are-injured-in-an-explosion-at-a-mosque-police-station-and-passenger-bus-in-peshawar-pa.json)  [XML](/news/2009/10/16/at-least-seven-people-are-killed-and-at-least-ten-are-injured-in-an-explosion-at-a-mosque-police-station-and-passenger-bus-in-peshawar-pa.xml)  
+
 ### [2009-10-16](/news/2009/10/16/index.md)
 
+##### mosque
 #  At least seven people are killed and at least ten are injured in an explosion at a mosque, police station and passenger bus in Peshawar, Pakistan. 
 
 12 people have died after a twin suicide attack tore through a police compound in Pakistan.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8310117.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/1016/pakistan.html)

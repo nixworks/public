@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/03/7/physicists-from-fermi-national-accelerator-laboratory-report-data-suggesting-the-elusive-hypothesized-higgs-boson-god-particle-may-have.html)  [JSON](/news/2012/03/7/physicists-from-fermi-national-accelerator-laboratory-report-data-suggesting-the-elusive-hypothesized-higgs-boson-god-particle-may-have.json)  [XML](/news/2012/03/7/physicists-from-fermi-national-accelerator-laboratory-report-data-suggesting-the-elusive-hypothesized-higgs-boson-god-particle-may-have.xml)  
+
 ### [2012-03-7](/news/2012/03/7/index.md)
 
+##### Fermi National Accelerator Laboratory
 # Physicists from Fermi National Accelerator Laboratory report data suggesting the elusive hypothesized Higgs boson ("God particle") may have been detected. 
 
 Physicists say they have found a bump in their data that might be the Higgs boson, a hypothesized particle that is responsible for endowing other elementary particles with mass.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2012/03/07/science/higgs-boson-may-be-indicated-in-new-data.html)
+1. [New York Times](https://www.nytimes.com/2012/03/07/science/higgs-boson-may-be-indicated-in-new-data.html)
 1. [Cover Image](https://static01.nyt.com/images/2012/03/07/world/07HIGGS/07HIGGS-thumbStandard-v2.jpg)
 
 ### Related:

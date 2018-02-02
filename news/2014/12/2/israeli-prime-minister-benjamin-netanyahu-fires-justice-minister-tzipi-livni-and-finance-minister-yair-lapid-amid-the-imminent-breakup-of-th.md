@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/2/israeli-prime-minister-benjamin-netanyahu-fires-justice-minister-tzipi-livni-and-finance-minister-yair-lapid-amid-the-imminent-breakup-of-th.html)  [JSON](/news/2014/12/2/israeli-prime-minister-benjamin-netanyahu-fires-justice-minister-tzipi-livni-and-finance-minister-yair-lapid-amid-the-imminent-breakup-of-th.json)  [XML](/news/2014/12/2/israeli-prime-minister-benjamin-netanyahu-fires-justice-minister-tzipi-livni-and-finance-minister-yair-lapid-amid-the-imminent-breakup-of-th.xml)  
+
 ### [2014-12-2](/news/2014/12/2/index.md)
 
+##### Benjamin Netanyahu
 # Israeli prime minister Benjamin Netanyahu fires Justice Minister Tzipi Livni and Finance Minister Yair Lapid amid the imminent breakup of the government coalition and dissolution of the Knesset ahead of new elections. 
 
 PM says he won&#8217;t tolerate presence of cabinet members who &#8216;attack government policies&#8217;; Yesh Atid party: Sacking minister &#8216;is an act of cowardice and loss of control&#8217;
 
 
-### Source:
+### Sources:
 
 1. [Times of Israel](http://www.timesofisrael.com/netanyahu-fires-lapid-livni-from-ministerial-posts/#ixzz3KlGVXWkf)
 1. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/01/F130801UL012.jpg)

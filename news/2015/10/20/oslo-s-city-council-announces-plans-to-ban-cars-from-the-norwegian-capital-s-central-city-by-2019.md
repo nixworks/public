@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2015/10/20/oslo-s-city-council-announces-plans-to-ban-cars-from-the-norwegian-capital-s-central-city-by-2019.html)  [JSON](/news/2015/10/20/oslo-s-city-council-announces-plans-to-ban-cars-from-the-norwegian-capital-s-central-city-by-2019.json)  [XML](/news/2015/10/20/oslo-s-city-council-announces-plans-to-ban-cars-from-the-norwegian-capital-s-central-city-by-2019.xml)  
+
 ### [2015-10-20](/news/2015/10/20/index.md)
 
+##### Oslo
 # Oslo's city council announces plans to ban cars from the Norwegian capital's central city by 2019. 
 
 Cars will be banned from central Oslo by 2019 to help reduce pollution, local politicians said on Monday, in what they said would be the first comprehensive and permanent ban for a European capital.
 
 
-### Source:
+### Sources:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/Environment/Energy/2015/1020/Why-Oslo-is-banning-cars-from-the-city-center)
-2. [Reuters](http://www.reuters.com/article/2015/10/19/us-norway-environment-oslo-idUSKCN0SD1GI20151019)
-2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151019&t=2&i=1088096041&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9I0RQ)
+2. [Reuters](https://www.reuters.com/article/2015/10/19/us-norway-environment-oslo-idUSKCN0SD1GI20151019)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20151019&t=2&i=1088096041&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9I0RQ)
 
 ### Related:
 

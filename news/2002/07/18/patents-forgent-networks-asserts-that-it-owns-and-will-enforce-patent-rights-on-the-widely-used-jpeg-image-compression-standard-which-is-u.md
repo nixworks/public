@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/07/18/patents-forgent-networks-asserts-that-it-owns-and-will-enforce-patent-rights-on-the-widely-used-jpeg-image-compression-standard-which-is-u.html)  [JSON](/news/2002/07/18/patents-forgent-networks-asserts-that-it-owns-and-will-enforce-patent-rights-on-the-widely-used-jpeg-image-compression-standard-which-is-u.json)  [XML](/news/2002/07/18/patents-forgent-networks-asserts-that-it-owns-and-will-enforce-patent-rights-on-the-widely-used-jpeg-image-compression-standard-which-is-u.xml)  
+
 ### [2002-07-18](/news/2002/07/18/index.md)
 
+##### Patent
 #  Patents: Forgent Networks asserts that it owns and will enforce patent rights on the widely used JPEG image compression standard which is used widely on the World Wide Web. The announcement creates a furore remisicent of Unisys' attempts to assert its rights over the GIF image compression standard.
 
 

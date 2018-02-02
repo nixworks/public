@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/11/the-lower-house-of-the-irish-parliament-passes-the-protection-of-life-during-pregnancy-bill-legalising-abortion-when-the-woman-s-life-is-at.html)  [JSON](/news/2013/07/11/the-lower-house-of-the-irish-parliament-passes-the-protection-of-life-during-pregnancy-bill-legalising-abortion-when-the-woman-s-life-is-at.json)  [XML](/news/2013/07/11/the-lower-house-of-the-irish-parliament-passes-the-protection-of-life-during-pregnancy-bill-legalising-abortion-when-the-woman-s-life-is-at.xml)  
+
 ### [2013-07-11](/news/2013/07/11/index.md)
 
+##### lower house
 # The lower house of the Irish parliament passes the Protection of Life During Pregnancy Bill, legalising abortion when the woman's life is at risk. 
 
 The Government has passed legislation for the first time allowing for abortion in limited circumstances.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2013/0712/462013-abortion-law/)
 1. [Cover Image](https://img.rasset.ie/00079b94-1600.jpg)

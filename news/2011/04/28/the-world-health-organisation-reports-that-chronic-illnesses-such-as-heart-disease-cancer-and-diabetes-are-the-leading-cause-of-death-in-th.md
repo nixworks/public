@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/28/the-world-health-organisation-reports-that-chronic-illnesses-such-as-heart-disease-cancer-and-diabetes-are-the-leading-cause-of-death-in-th.html)  [JSON](/news/2011/04/28/the-world-health-organisation-reports-that-chronic-illnesses-such-as-heart-disease-cancer-and-diabetes-are-the-leading-cause-of-death-in-th.json)  [XML](/news/2011/04/28/the-world-health-organisation-reports-that-chronic-illnesses-such-as-heart-disease-cancer-and-diabetes-are-the-leading-cause-of-death-in-th.xml)  
+
 ### [2011-04-28](/news/2011/04/28/index.md)
 
+##### World Health Organisation
 # The World Health Organisation reports that chronic illnesses such as heart disease, cancer and diabetes are the leading cause of death in the world causing more than 36 million deaths in 2008. 
 
 Chronic illnesses such as heart disease, cancer and diabetes are the leading cause of death globally, according to the World Health Organization.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/health-13207595)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52361000/jpg/_52361188_m3701030-spl.h.jpg)

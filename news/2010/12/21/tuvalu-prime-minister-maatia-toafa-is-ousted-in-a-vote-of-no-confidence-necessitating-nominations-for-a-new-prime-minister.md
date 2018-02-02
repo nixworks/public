@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/21/tuvalu-prime-minister-maatia-toafa-is-ousted-in-a-vote-of-no-confidence-necessitating-nominations-for-a-new-prime-minister.html)  [JSON](/news/2010/12/21/tuvalu-prime-minister-maatia-toafa-is-ousted-in-a-vote-of-no-confidence-necessitating-nominations-for-a-new-prime-minister.json)  [XML](/news/2010/12/21/tuvalu-prime-minister-maatia-toafa-is-ousted-in-a-vote-of-no-confidence-necessitating-nominations-for-a-new-prime-minister.xml)  
+
 ### [2010-12-21](/news/2010/12/21/index.md)
 
+##### Tuvalu
 # Tuvalu Prime Minister Maatia Toafa is ousted in a vote of no confidence, necessitating nominations for a new Prime Minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=57819)
 2. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=57833)

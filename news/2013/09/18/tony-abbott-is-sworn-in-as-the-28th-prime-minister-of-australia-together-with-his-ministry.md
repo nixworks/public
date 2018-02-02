@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/18/tony-abbott-is-sworn-in-as-the-28th-prime-minister-of-australia-together-with-his-ministry.html)  [JSON](/news/2013/09/18/tony-abbott-is-sworn-in-as-the-28th-prime-minister-of-australia-together-with-his-ministry.json)  [XML](/news/2013/09/18/tony-abbott-is-sworn-in-as-the-28th-prime-minister-of-australia-together-with-his-ministry.xml)  
+
 ### [2013-09-18](/news/2013/09/18/index.md)
 
+##### Tony Abbott
 # Tony Abbott is sworn in as the 28th Prime Minister of Australia together with his Ministry. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-24121938)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69887000/jpg/_69887039_69887038.jpg)

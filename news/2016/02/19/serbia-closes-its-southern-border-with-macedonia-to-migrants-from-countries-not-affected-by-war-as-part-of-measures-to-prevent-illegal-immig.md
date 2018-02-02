@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/19/serbia-closes-its-southern-border-with-macedoni
 
 ### [2016-02-19](/news/2016/02/19/index.md)
 
+##### European migrant crisis
 # Serbia closes its southern border with Macedonia to migrants from countries not affected by war as part of measures to prevent illegal immigration. 
 
 Serbia has closed its border with Macedonia to unregistered refugees, imposing stricter border controls for the purpose of preventing illegal migration, local state TV reported citing officials.

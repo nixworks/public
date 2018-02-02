@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2011/07/3/thailand-votes-in-its-26th-general-election-with-results-showing-the-pheu-thai-party-loyal-to-former-prime-minister-thaksin-shinawatra-winni.html)  [JSON](/news/2011/07/3/thailand-votes-in-its-26th-general-election-with-results-showing-the-pheu-thai-party-loyal-to-former-prime-minister-thaksin-shinawatra-winni.json)  [XML](/news/2011/07/3/thailand-votes-in-its-26th-general-election-with-results-showing-the-pheu-thai-party-loyal-to-former-prime-minister-thaksin-shinawatra-winni.xml)  
+
 ### [2011-07-3](/news/2011/07/3/index.md)
 
+##### Thailand
 # Thailand votes in its 26th general election with results showing the Pheu Thai Party loyal to former Prime Minister Thaksin Shinawatra winning a majority. Yingluck Shinawatra, the opposition party leader, is expected to be the first female Prime Minister of Thailand. 
 
-Thailand will have its first female prime minister after the Red Shirt-backed opposition won landmark elections.
+The sister of ousted leader Thaksin Shinawatra was set for victory in Thailand’s elections, five years since he was deposed in a coup, after Prime Minister Abhisit Vejjajiva conceded defeat.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/07/03/3259845.htm)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/07/2011739048966149.html)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14004755)
 4. [Bangkok Post](http://www.bangkokpost.com/news/politics/245126/poll-result-to-be-known-around-10pm)
-5. [Bloomberg](http://www.bloomberg.com/news/2011-07-03/pro-thaksin-party-to-win-parliamentary-majority-thailand-exit-poll-shows.html)
+5. [Bloomberg](https://www.bloomberg.com/news/2011-07-03/pro-thaksin-party-to-win-parliamentary-majority-thailand-exit-poll-shows.html)
 6. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/232248.html)
-6. [Cover Image](http://www.abc.net.au/news/image/2783096-1x1-700x700.jpg)
+6. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

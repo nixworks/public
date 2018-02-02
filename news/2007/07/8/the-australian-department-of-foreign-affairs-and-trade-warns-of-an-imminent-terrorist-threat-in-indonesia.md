@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/8/the-australian-department-of-foreign-affairs-and-trade-warns-of-an-imminent-terrorist-threat-in-indonesia.html)  [JSON](/news/2007/07/8/the-australian-department-of-foreign-affairs-and-trade-warns-of-an-imminent-terrorist-threat-in-indonesia.json)  [XML](/news/2007/07/8/the-australian-department-of-foreign-affairs-and-trade-warns-of-an-imminent-terrorist-threat-in-indonesia.xml)  
+
 ### [2007-07-8](/news/2007/07/8/index.md)
 
+##### Australia
 # The Australian Department of Foreign Affairs and Trade warns of an imminent terrorist threat in Indonesia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via News Limited](http://www.news.com.au/story/0,23599,22037933-2,00.html)
 

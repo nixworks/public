@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/13/cuba-releases-two-more-political-prisoners.html)  [JSON](/news/2011/02/13/cuba-releases-two-more-political-prisoners.json)  [XML](/news/2011/02/13/cuba-releases-two-more-political-prisoners.xml)  
+
 ### [2011-02-13](/news/2011/02/13/index.md)
 
+##### Cuba
 # Cuba releases two more political prisoners. 
 
 Cuba releases the political prisoners Hector Maseda and Angel Moya, after a seven-month delay following their refusal to go into exile in Spain.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12441483)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

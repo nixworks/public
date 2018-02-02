@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/14/the-farc-organisation-in-colombia-releases-a-fourth-hostage-in-the-past-week.html)  [JSON](/news/2011/02/14/the-farc-organisation-in-colombia-releases-a-fourth-hostage-in-the-past-week.json)  [XML](/news/2011/02/14/the-farc-organisation-in-colombia-releases-a-fourth-hostage-in-the-past-week.xml)  
+
 ### [2011-02-14](/news/2011/02/14/index.md)
 
+##### Revolutionary Armed Forces of Colombia
 # The FARC organisation in Colombia releases a fourth hostage in the past week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12444820)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

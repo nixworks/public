@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/19/further-cases-of-patients-and-staff-infected-with-a-new-strain-of-mrsa-are-revealed-in-a-uk-hospital-after-two-people-die-from-the-superbug.html)  [JSON](/news/2006/12/19/further-cases-of-patients-and-staff-infected-with-a-new-strain-of-mrsa-are-revealed-in-a-uk-hospital-after-two-people-die-from-the-superbug.json)  [XML](/news/2006/12/19/further-cases-of-patients-and-staff-infected-with-a-new-strain-of-mrsa-are-revealed-in-a-uk-hospital-after-two-people-die-from-the-superbug.xml)  
+
 ### [2006-12-19](/news/2006/12/19/index.md)
 
+##### MRSA
 #  Further cases of patients and staff infected with a new strain of MRSA are revealed in a UK hospital after two people die from the superbug. 
 
 News and opinion from The Times &amp; The Sunday Times
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/article/0,,2-2511307,00.html)
 1. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)

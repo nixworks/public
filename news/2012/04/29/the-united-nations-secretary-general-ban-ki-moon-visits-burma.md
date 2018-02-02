@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/29/the-united-nations-secretary-general-ban-ki-moon-visits-burma.html)  [JSON](/news/2012/04/29/the-united-nations-secretary-general-ban-ki-moon-visits-burma.json)  [XML](/news/2012/04/29/the-united-nations-secretary-general-ban-ki-moon-visits-burma.xml)  
+
 ### [2012-04-29](/news/2012/04/29/index.md)
 
+##### United Nations
 # The United Nations Secretary-General Ban Ki-moon visits Burma. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/04/29/world/asia/myanmar-un-visit/)
 

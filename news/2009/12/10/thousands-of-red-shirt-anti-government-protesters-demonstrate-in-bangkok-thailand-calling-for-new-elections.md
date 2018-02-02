@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/10/thousands-of-red-shirt-anti-government-protesters-demonstrate-in-bangkok-thailand-calling-for-new-elections.html)  [JSON](/news/2009/12/10/thousands-of-red-shirt-anti-government-protesters-demonstrate-in-bangkok-thailand-calling-for-new-elections.json)  [XML](/news/2009/12/10/thousands-of-red-shirt-anti-government-protesters-demonstrate-in-bangkok-thailand-calling-for-new-elections.xml)  
+
 ### [2009-12-10](/news/2009/12/10/index.md)
 
+##### red shirt
 #  Thousands of "red shirt" anti-government protesters demonstrate in Bangkok, Thailand, calling for new elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jfFE9AGpPsUPu-piajwMInBXifAQ)
 2. [Thai News Agency](http://enews.mcot.net/view.php?id=13207)

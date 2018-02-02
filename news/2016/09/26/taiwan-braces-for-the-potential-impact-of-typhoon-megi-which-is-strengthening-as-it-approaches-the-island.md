@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/26/taiwan-braces-for-the-potential-impact-of-typho
 
 ### [2016-09-26](/news/2016/09/26/index.md)
 
+##### 2016 Pacific typhoon season
 # Taiwan braces for the potential impact of Typhoon Megi which is strengthening as it approaches the island. 
 
 Typhoon Megi will threaten lives and property across Taiwan and eastern China into the middle of the week.

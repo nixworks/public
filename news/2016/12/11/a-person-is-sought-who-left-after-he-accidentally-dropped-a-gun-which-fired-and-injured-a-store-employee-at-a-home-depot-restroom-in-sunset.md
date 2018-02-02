@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/11/a-person-is-sought-who-left-after-he-accidental
 
 ### [2016-12-11](/news/2016/12/11/index.md)
 
+##### 
 #  A person is sought who left after he accidentally dropped a gun which fired and injured a store employee at a Home Depot restroom in Sunset Hills near St Louis Missouri. 
 
 The gun belonged to a customer, according to a company spokesman who said shoppers can open carry firearms in Home Depot stores in accordance with local law.

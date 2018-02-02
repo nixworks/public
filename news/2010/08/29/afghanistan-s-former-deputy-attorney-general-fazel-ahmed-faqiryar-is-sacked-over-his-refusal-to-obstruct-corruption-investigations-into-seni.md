@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/29/afghanistan-s-former-deputy-attorney-general-fazel-ahmed-faqiryar-is-sacked-over-his-refusal-to-obstruct-corruption-investigations-into-seni.html)  [JSON](/news/2010/08/29/afghanistan-s-former-deputy-attorney-general-fazel-ahmed-faqiryar-is-sacked-over-his-refusal-to-obstruct-corruption-investigations-into-seni.json)  [XML](/news/2010/08/29/afghanistan-s-former-deputy-attorney-general-fazel-ahmed-faqiryar-is-sacked-over-his-refusal-to-obstruct-corruption-investigations-into-seni.xml)  
+
 ### [2010-08-29](/news/2010/08/29/index.md)
 
+##### Afghanistan
 # Afghanistan's former deputy attorney-general Fazel Ahmed Faqiryar is sacked over his refusal to obstruct corruption investigations into senior government officials; Faqiryar is critical of President Hamid Karzai. 
 
 Official says Hamid Karzai tried to block him from probing high-level corruption cases.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/20108294428881711.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/8/27/201082723316609734_20.jpg)

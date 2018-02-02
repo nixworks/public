@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/7/the-israel-police-kill-a-palestinian-terrorist-in-east-jerusalem-as-he-rams-them-with-his-tractor.html)  [JSON](/news/2009/04/7/the-israel-police-kill-a-palestinian-terrorist-in-east-jerusalem-as-he-rams-them-with-his-tractor.json)  [XML](/news/2009/04/7/the-israel-police-kill-a-palestinian-terrorist-in-east-jerusalem-as-he-rams-them-with-his-tractor.xml)  
+
 ### [2009-04-7](/news/2009/04/7/index.md)
 
+##### Israel
 #  The Israel Police kill a Palestinian terrorist in East Jerusalem as he rams them with his tractor. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/04/20094782942845991.html)
 1. [Cover Image](http://www.aljazeera.com)

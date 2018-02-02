@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/26/a-clash-between-ethnic-bugis-and-tidung-tarakan-indigenous-people-claimed-one-life-in-juwata-sub-district-tarakan-east-kalimantan.html)  [JSON](/news/2010/09/26/a-clash-between-ethnic-bugis-and-tidung-tarakan-indigenous-people-claimed-one-life-in-juwata-sub-district-tarakan-east-kalimantan.json)  [XML](/news/2010/09/26/a-clash-between-ethnic-bugis-and-tidung-tarakan-indigenous-people-claimed-one-life-in-juwata-sub-district-tarakan-east-kalimantan.xml)  
+
 ### [2010-09-26](/news/2010/09/26/index.md)
 
+##### Bugis
 # A clash between ethnic Bugis and Tidung (Tarakan indigenous people) claimed one life in Juwata sub-district, Tarakan, East Kalimantan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jakarta Post](http://www.thejakartapost.com/news/2010/09/27/one-killed-ethnic-clash-east-kalimantan.html)
 

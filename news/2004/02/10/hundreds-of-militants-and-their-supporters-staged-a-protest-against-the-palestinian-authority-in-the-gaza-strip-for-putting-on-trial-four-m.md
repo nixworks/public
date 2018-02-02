@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/10/hundreds-of-militants-and-their-supporters-staged-a-protest-against-the-palestinian-authority-in-the-gaza-strip-for-putting-on-trial-four-m.html)  [JSON](/news/2004/02/10/hundreds-of-militants-and-their-supporters-staged-a-protest-against-the-palestinian-authority-in-the-gaza-strip-for-putting-on-trial-four-m.json)  [XML](/news/2004/02/10/hundreds-of-militants-and-their-supporters-staged-a-protest-against-the-palestinian-authority-in-the-gaza-strip-for-putting-on-trial-four-m.xml)  
+
 ### [2004-02-10](/news/2004/02/10/index.md)
 
+##### Palestinian Authority
 #  Hundreds of militants and their supporters staged a protest against the Palestinian Authority in the Gaza Strip for putting on trial four men charged in the bombing of a United States diplomatic convoy which killed three Americans. The closed military trial began on February 7.
 
 

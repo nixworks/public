@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/17/the-supreme-court-of-pakistan-hears-petitions-as-to-whether-pervez-musharraf-should-remain-as-head-of-the-pakistani-army-while-serving-as-t.html)  [JSON](/news/2007/09/17/the-supreme-court-of-pakistan-hears-petitions-as-to-whether-pervez-musharraf-should-remain-as-head-of-the-pakistani-army-while-serving-as-t.json)  [XML](/news/2007/09/17/the-supreme-court-of-pakistan-hears-petitions-as-to-whether-pervez-musharraf-should-remain-as-head-of-the-pakistani-army-while-serving-as-t.xml)  
+
 ### [2007-09-17](/news/2007/09/17/index.md)
 
+##### Supreme Court
 #  The Supreme Court of Pakistan hears petitions as to whether Pervez Musharraf should remain as head of the Pakistani Army while serving as the President of Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6998143.stm)
 

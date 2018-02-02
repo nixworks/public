@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/3/authorities-declare-that-the-republican-party-le
 
 ### [2017-04-3](/news/2017/04/3/index.md)
 
+##### Armenian parliamentary election, 2017
 # Authorities declare that the Republican Party, led by President Serzh Sargsyan, wins the Armenia election amid accusations by opposition parties and the Organization for Security and Co-operation in Europe of voting irregularities. 
 
 European observers also report &#39;pressure on civil servants&#39; in elections won by President Serzh Sarksyan.

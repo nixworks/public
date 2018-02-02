@@ -1,17 +1,27 @@
+
+Formats: [HTML](/news/2015/09/11/cnn-announces-the-september-16-prime-time-presidential-debate-panel-carly-fiorina-who-had-sufficient-poll-support-following-the-first-deb.html)  [JSON](/news/2015/09/11/cnn-announces-the-september-16-prime-time-presidential-debate-panel-carly-fiorina-who-had-sufficient-poll-support-following-the-first-deb.json)  [XML](/news/2015/09/11/cnn-announces-the-september-16-prime-time-presidential-debate-panel-carly-fiorina-who-had-sufficient-poll-support-following-the-first-deb.xml)  
+
 ### [2015-09-11](/news/2015/09/11/index.md)
 
+##### Republican Party presidential debates, 2016
 # CNN announces the September 16, prime time presidential debate panel. Carly Fiorina, who had sufficient poll support following the first debate, will join the top 10 leaders, such as Donald Trump, Jeb Bush, Scott Walker, and Ben Carson. The remaining four candidates, Rick Santorum, Bobby Jindal, George Pataki and Lindsey Graham, will appear earlier that evening. Because he did not get sufficient poll numbers, Jim Gilmore is now excluded. 
 
 Carly Fiorina will join 10 other Republican presidential hopefuls at the next presidential debate at the Ronald Reagan Presidential Library next Wednesday.CNN announced the lineup of candidates invited to participate in the primetime debate. The remaining candidates will participate in a separate debate that afternoon.
 
 
-### Source:
+### Sources:
 
 1. [ABC Go](http://abcnews.go.com/Politics/rick-perry-drops-2016-presidential-race/story?id=33696891)
 2. [Boston Herald](http://www.bostonherald.com/news_opinion/us_politics/2015/09/carly_fiorina_makes_it_to_main_stage_at_cnns_next_gop_debate)
 3. [CNN](http://www.cnn.com/2015/09/10/politics/cnn-reagan-debate-lineup/)
 4. [National Journal](http://www.nationaljournal.com/hotline/2014/09/03/Wehby-Ad-Highlights-Medical-Career?mref=scroll)
 4. [Cover Image](http://www.bostonherald.com/sites/default/files/styles/gallery/public/media/ap/beee0bd6be4e455c97a7c3fca61be119.jpg?itok=awJUTp2b)
+
+### Changes:
+
+1. [CNN announces the September 16, prime time presidential debate panel. Carly Fiorina, who had sufficient poll support following the first debate, will join the top 10 leaders, such as Donald Trump, Jeb Bush, Scott Walker, and Ben Carson. The remaining four candidates, Rick Santorum, Bobby Jindal, George Pataki and Lindsey Graham, will appear earlier that evening. Because he did not get sufficient poll numbers, Jim Gilmore is now excluded. ](/news/2015/09/11/cnn-announces-the-september-16-prime-time-presidential-debate-panel-carly-fiorina-who-had-sufficient-poll-support-following-the-first-d.md) _2017-08-25 03:42:44 (First version)_
+2. [Republican Party presidential debates, 2016: CNN announces the September 16, prime time presidential debate panel. Carly Fiorina, who had sufficient poll support following the first debate, will join the top 10 leaders, such as Donald Trump, Jeb Bush, Scott Walker, and Ben Carson. The remaining four candidates, Rick Santorum, Bobby Jindal, George Pataki and Lindsey Graham, will appear earlier that evening. Because he did not get sufficient poll numbers, Jim Gilmore is now excluded. ](/news/2015/09/11/republican-party-presidential-debates-2016-cnn-announces-the-september-16-prime-time-presidential-debate-panel-carly-fiorina-who-had-su.md) _2017-08-27 03:43:01 (Update)_
+2. [CNN announces the September 16, prime time presidential debate panel. Carly Fiorina, who had sufficient poll support following the first debate, will join the top 10 leaders, such as Donald Trump, Jeb Bush, Scott Walker, and Ben Carson. The remaining four candidates, Rick Santorum, Bobby Jindal, George Pataki and Lindsey Graham, will appear earlier that evening. Because he did not get sufficient poll numbers, Jim Gilmore is now excluded. ](/news/2015/09/11/cnn-announces-the-september-16-prime-time-presidential-debate-panel-carly-fiorina-who-had-sufficient-poll-support-following-the-first-deb.md) _(Current version)_
 
 ### Related:
 
@@ -20,9 +30,3 @@ Carly Fiorina will join 10 other Republican presidential hopefuls at the next pr
 3. [CNN is accused of threatening to reveal the personal identity of a Reddit user who made a GIF depicting United States President Donald Trump tackling a man to the ground, with CNN's logo superimposed on the man's face. The GIF was modified and posted on Trump's Twitter feed. ](/news/2017/07/4/cnn-is-accused-of-threatening-to-reveal-the-personal-identity-of-a-reddit-user-who-made-a-gif-depicting-united-states-president-donald-trump.md) _Context: CNN, Donald Trump_
 4. [Three CNN journalists, Thomas Frank, Eric Lichtblau, and Lex Haris, resign after the publication of a Russia-related article involving President Donald Trump that was retracted. ](/news/2017/06/26/three-cnn-journalists-thomas-frank-eric-lichtblau-and-lex-haris-resign-after-the-publication-of-a-russia-related-article-involving-presi.md) _Context: CNN, Donald Trump_
 5. [CNN terminates its "New Year's Eve Live" contract with Kathy Griffin after she released a photograph of her holding a mock decapitated head of President Donald Trump. ](/news/2017/05/31/cnn-terminates-its-new-year-s-eve-live-contract-with-kathy-griffin-after-she-released-a-photograph-of-her-holding-a-mock-decapitated-head.md) _Context: CNN, Donald Trump_
-
-### Changes:
-
-1. [CNN announces the September 16, prime time presidential debate panel. Carly Fiorina, who had sufficient poll support following the first debate, will join the top 10 leaders, such as Donald Trump, Jeb Bush, Scott Walker, and Ben Carson. The remaining four candidates, Rick Santorum, Bobby Jindal, George Pataki and Lindsey Graham, will appear earlier that evening. Because he did not get sufficient poll numbers, Jim Gilmore is now excluded. ](/news/2015/09/11/cnn-announces-the-september-16-prime-time-presidential-debate-panel-carly-fiorina-who-had-sufficient-poll-support-following-the-first-d.md) _2017-08-25 03:42:44 (First version)_
-2. [Republican Party presidential debates, 2016: CNN announces the September 16, prime time presidential debate panel. Carly Fiorina, who had sufficient poll support following the first debate, will join the top 10 leaders, such as Donald Trump, Jeb Bush, Scott Walker, and Ben Carson. The remaining four candidates, Rick Santorum, Bobby Jindal, George Pataki and Lindsey Graham, will appear earlier that evening. Because he did not get sufficient poll numbers, Jim Gilmore is now excluded. ](/news/2015/09/11/republican-party-presidential-debates-2016-cnn-announces-the-september-16-prime-time-presidential-debate-panel-carly-fiorina-who-had-su.md) _2017-08-27 03:43:01 (Update)_
-2. [CNN announces the September 16, prime time presidential debate panel. Carly Fiorina, who had sufficient poll support following the first debate, will join the top 10 leaders, such as Donald Trump, Jeb Bush, Scott Walker, and Ben Carson. The remaining four candidates, Rick Santorum, Bobby Jindal, George Pataki and Lindsey Graham, will appear earlier that evening. Because he did not get sufficient poll numbers, Jim Gilmore is now excluded. ](/news/2015/09/11/cnn-announces-the-september-16-prime-time-presidential-debate-panel-carly-fiorina-who-had-sufficient-poll-support-following-the-first-deb.md) _(Current version)_

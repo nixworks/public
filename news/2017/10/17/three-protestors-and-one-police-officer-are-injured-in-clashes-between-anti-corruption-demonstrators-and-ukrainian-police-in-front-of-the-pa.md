@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/17/three-protestors-and-one-police-officer-are-inj
 
 ### [2017-10-17](/news/2017/10/17/index.md)
 
+##### Ukrainian crisis
 # Three protestors and one police officer are injured in clashes between anti-corruption demonstrators and Ukrainian police in front of the parliament building in Kiev, Ukraine. 
 
 Demonstrators demanding major anti-corruption reforms vow to stay put, setting up tents in Kiev.

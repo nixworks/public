@@ -1,7 +1,7 @@
-## [2002-07-11](/news/2002/07/11/index.md)
 
-### [ A group of Moroccan soldiers set up base on the Perejil Island.](/news/2002/07/11/a-group-of-moroccan-soldiers-set-up-base-on-the-perejil-island.md)
-_Context: Morocco, Perejil Island_
+Formats: [HTML](2002/07/11/index.html)  [JSON](2002/07/11/index.json)  [XML](2002/07/11/index.xml)  
+
+## [2002-07-11](/news/2002/07/11/index.md)
 
 ## [Previous Day...](/news/2002/07/10/index.md)
 

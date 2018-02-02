@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/26/incumbent-ivorian-leader-laurent-gbagbo-orders-the-seizure-of-all-local-branches-of-the-central-bank-of-west-african-states.html)  [JSON](/news/2011/01/26/incumbent-ivorian-leader-laurent-gbagbo-orders-the-seizure-of-all-local-branches-of-the-central-bank-of-west-african-states.json)  [XML](/news/2011/01/26/incumbent-ivorian-leader-laurent-gbagbo-orders-the-seizure-of-all-local-branches-of-the-central-bank-of-west-african-states.xml)  
+
 ### [2011-01-26](/news/2011/01/26/index.md)
 
+##### Ivory Coast
 # Incumbent Ivorian leader Laurent Gbagbo orders the seizure of all local branches of the Central Bank of West African States. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12286440)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

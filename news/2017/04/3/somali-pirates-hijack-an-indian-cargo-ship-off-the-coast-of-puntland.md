@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/3/somali-pirates-hijack-an-indian-cargo-ship-off-t
 
 ### [2017-04-3](/news/2017/04/3/index.md)
 
+##### Piracy off the coast of Somalia
 # Somali pirates hijack an Indian cargo ship off the coast of Puntland. 
 
 A new attack is reported off the central coast of Somalia some two weeks after another hijacking.

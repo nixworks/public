@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/30/13-people-are-killed-during-attacks-in-iraq-4-people-die-in-the-town-of-beiji.html)  [JSON](/news/2010/06/30/13-people-are-killed-during-attacks-in-iraq-4-people-die-in-the-town-of-beiji.json)  [XML](/news/2010/06/30/13-people-are-killed-during-attacks-in-iraq-4-people-die-in-the-town-of-beiji.xml)  
+
 ### [2010-06-30](/news/2010/06/30/index.md)
 
+##### Iraq
 # 13 people are killed during attacks in Iraq: 4 people die in the town of Beiji. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TRT](http://www.trtenglish.com/trtinternational/en/newsDetail.aspx?HaberKodu=ed4785a0-5ddf-4790-bc26-0ce8cd2b931d)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/12/3/after-rowing-for-81-days-and-2-962-nautical-miles-5486-nbsp-km-tori-murden-becomes-the-first-woman-to-cross-the-atlantic-ocean-by-rowboa.html)  [JSON](/news/1999/12/3/after-rowing-for-81-days-and-2-962-nautical-miles-5486-nbsp-km-tori-murden-becomes-the-first-woman-to-cross-the-atlantic-ocean-by-rowboa.json)  [XML](/news/1999/12/3/after-rowing-for-81-days-and-2-962-nautical-miles-5486-nbsp-km-tori-murden-becomes-the-first-woman-to-cross-the-atlantic-ocean-by-rowboa.xml)  
+
 ### [1999-12-3](/news/1999/12/3/index.md)
 
+##### Tori Murden
 #  After rowing for 81 days and 2,962 nautical miles (5486&nbsp;km), Tori Murden becomes the first woman to cross the Atlantic Ocean by rowboat alone when she reaches Guadeloupe from the Canary Islands
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/19/o-le-ao-o-le-malo-tufuga-efi-is-re-elected-unopposed-by-the-parliament-of-samoa.html)  [JSON](/news/2012/07/19/o-le-ao-o-le-malo-tufuga-efi-is-re-elected-unopposed-by-the-parliament-of-samoa.json)  [XML](/news/2012/07/19/o-le-ao-o-le-malo-tufuga-efi-is-re-elected-unopposed-by-the-parliament-of-samoa.xml)  
+
 ### [2012-07-19](/news/2012/07/19/index.md)
 
+##### O le Ao o le Malo
 # O le Ao o le Malo Tufuga Efi is re-elected unopposed by the Parliament of Samoa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=69698)
 

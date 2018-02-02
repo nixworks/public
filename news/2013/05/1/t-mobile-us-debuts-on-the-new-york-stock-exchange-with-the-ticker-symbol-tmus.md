@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/05/1/t-mobile-us-debuts-on-the-new-york-stock-exchange-with-the-ticker-symbol-tmus.html)  [JSON](/news/2013/05/1/t-mobile-us-debuts-on-the-new-york-stock-exchange-with-the-ticker-symbol-tmus.json)  [XML](/news/2013/05/1/t-mobile-us-debuts-on-the-new-york-stock-exchange-with-the-ticker-symbol-tmus.xml)  
+
 ### [2013-05-1](/news/2013/05/1/index.md)
 
+##### T-Mobile
 # T-Mobile US debuts on the New York Stock Exchange with the ticker symbol TMUS. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/05/01/us-tmobileus-metropcs-idUSBRE9400KP20130501)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130501&t=2&i=727669802&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE94018E700)
+1. [Reuters](https://www.reuters.com/article/2013/05/01/us-tmobileus-metropcs-idUSBRE9400KP20130501)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130501&t=2&i=727669802&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE94018E700)
 
 ### Related:
 

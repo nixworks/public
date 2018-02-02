@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/23/the-nigerian-government-extends-a-curfew-in-port-harcourt-after-hundreds-die-in-gang-violence-this-month.html)  [JSON](/news/2007/08/23/the-nigerian-government-extends-a-curfew-in-port-harcourt-after-hundreds-die-in-gang-violence-this-month.json)  [XML](/news/2007/08/23/the-nigerian-government-extends-a-curfew-in-port-harcourt-after-hundreds-die-in-gang-violence-this-month.xml)  
+
 ### [2007-08-23](/news/2007/08/23/index.md)
 
+##### Nigeria
 #  The Nigerian government extends a curfew in Port Harcourt after hundreds die in gang violence this month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Alertnet](http://www.alertnet.org/db/blogs/20316/2007/07/24-145418-1.htm)
 

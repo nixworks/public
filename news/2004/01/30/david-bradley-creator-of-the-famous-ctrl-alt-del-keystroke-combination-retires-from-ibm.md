@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/30/david-bradley-creator-of-the-famous-ctrl-alt-del-keystroke-combination-retires-from-ibm.html)  [JSON](/news/2004/01/30/david-bradley-creator-of-the-famous-ctrl-alt-del-keystroke-combination-retires-from-ibm.json)  [XML](/news/2004/01/30/david-bradley-creator-of-the-famous-ctrl-alt-del-keystroke-combination-retires-from-ibm.xml)  
+
 ### [2004-01-30](/news/2004/01/30/index.md)
 
+##### David Bradley
 #  David Bradley, creator of the famous "Ctrl-Alt-Del" keystroke combination, retires from IBM.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/26/newly-declassified-cia-documents-show-that-top-officials-in-the-reagan-administration-agreed-to-give-iraq-information-on-the-location-of-ira.html)  [JSON](/news/2013/08/26/newly-declassified-cia-documents-show-that-top-officials-in-the-reagan-administration-agreed-to-give-iraq-information-on-the-location-of-ira.json)  [XML](/news/2013/08/26/newly-declassified-cia-documents-show-that-top-officials-in-the-reagan-administration-agreed-to-give-iraq-information-on-the-location-of-ira.xml)  
+
 ### [2013-08-26](/news/2013/08/26/index.md)
 
+##### CIA
 # Newly declassified CIA documents show that top officials in the Reagan administration agreed to give Iraq information on the location of Iranian troops during the Iran-Iraq War despite awareness of Saddam Hussein's intention to use chemical weapons. 
 
 They concealed evidence, then shared information on Iran.
 
 
-### Source:
+### Sources:
 
 1. [Daily Mail](http://www.dailymail.co.uk/news/article-2402174/CIA-helped-Saddam-Hussein-carry-chemical-weapons-attack-Iran-1988-Ronald-Reagan.html)
 2. [New York](http://nymag.com/daily/intelligencer/2013/08/cia-files-us-aided-iraq-with-iran-gas-attacks.html)

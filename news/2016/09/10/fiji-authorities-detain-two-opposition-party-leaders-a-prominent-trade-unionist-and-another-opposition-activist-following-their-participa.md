@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/10/fiji-authorities-detain-two-opposition-party-le
 
 ### [2016-09-10](/news/2016/09/10/index.md)
 
+##### Fiji
 # Fiji authorities detain two opposition party leaders, a prominent trade unionist, and another opposition activist, following their participation in Wednesday's forum on the Pacific island's 2013 constitution. A police spokesperson told the "Fiji Times" that several people were being questioned about comments made at the forum that, "Could affect the safety and security of all Fijians." 
 
 The leaders of Fiji&#39;s two opposition parties remained in police custody on Sunday, after their arrest over a meeting regarding the constitution.

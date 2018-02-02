@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/1/the-prime-minister-of-fiji-laisenia-qarase-reportedly-meets-with-his-security-chiefs-this-morning-after-yesterday-trying-to-sack-fiji-s-mil.html)  [JSON](/news/2006/11/1/the-prime-minister-of-fiji-laisenia-qarase-reportedly-meets-with-his-security-chiefs-this-morning-after-yesterday-trying-to-sack-fiji-s-mil.json)  [XML](/news/2006/11/1/the-prime-minister-of-fiji-laisenia-qarase-reportedly-meets-with-his-security-chiefs-this-morning-after-yesterday-trying-to-sack-fiji-s-mil.xml)  
+
 ### [2006-11-1](/news/2006/11/1/index.md)
 
+##### Prime Minister
 #  The Prime Minister of Fiji Laisenia Qarase reportedly meets with his security chiefs this morning after yesterday trying to sack Fiji's military commander Frank Bainimarama. Alexander Downer, the Foreign Minister of Australia, has raised concerns about a coup. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200611/s1778415.htm)
 

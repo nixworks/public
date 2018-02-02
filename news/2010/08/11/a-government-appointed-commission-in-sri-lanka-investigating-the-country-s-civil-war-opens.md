@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/11/a-government-appointed-commission-in-sri-lanka-investigating-the-country-s-civil-war-opens.html)  [JSON](/news/2010/08/11/a-government-appointed-commission-in-sri-lanka-investigating-the-country-s-civil-war-opens.json)  [XML](/news/2010/08/11/a-government-appointed-commission-in-sri-lanka-investigating-the-country-s-civil-war-opens.xml)  
+
 ### [2010-08-11](/news/2010/08/11/index.md)
 
+##### Sri Lanka
 # A government-appointed commission in Sri Lanka investigating the country's civil war opens. 
 
 Eight-member government panel to focus on breakdown of 2002 truce with Tamil Tigers.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5j2OeVRmLxI1ruq3G2OnH5XEWucAwD9HH6US00)
 2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/20108117241491813.html)

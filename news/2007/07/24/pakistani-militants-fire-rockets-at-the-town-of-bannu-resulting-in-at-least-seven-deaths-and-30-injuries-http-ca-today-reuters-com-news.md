@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/07/24/pakistani-militants-fire-rockets-at-the-town-of-bannu-resulting-in-at-least-seven-deaths-and-30-injuries-http-ca-today-reuters-com-news.html)  [JSON](/news/2007/07/24/pakistani-militants-fire-rockets-at-the-town-of-bannu-resulting-in-at-least-seven-deaths-and-30-injuries-http-ca-today-reuters-com-news.json)  [XML](/news/2007/07/24/pakistani-militants-fire-rockets-at-the-town-of-bannu-resulting-in-at-least-seven-deaths-and-30-injuries-http-ca-today-reuters-com-news.xml)  
+
 ### [2007-07-24](/news/2007/07/24/index.md)
 
+##### Pakistan
 #  Pakistani militants fire rockets at the town of Bannu resulting in at least seven deaths and 30 injuries. [http:--ca.today.reuters.com-news-newsArticle.aspx?type=topNews&storyID=2007-07-24T235556Z_01_ISL166536_RTRIDST_0_NEWS-PAKISTAN-VIOLENCE-COL.XML&archived=False (Reuters via Canada)] In another attack in the North Waziristan region, about 35 militants attacked on security forces killing 4 and injuring 6. 
 
 

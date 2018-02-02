@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/30/walgreens-boots-alliance-reduces-its-offer-pric
 
 ### [2017-01-30](/news/2017/01/30/index.md)
 
+##### Walgreens Boots Alliance
 # Walgreens Boots Alliance reduces its offer price for Rite Aid and defers the expected closing date by six months due to concerns about regulatory approval. 
 
  Drugstore chain Walgreens Boots Alliance Inc said its deal to buy smaller rival Rite Aid Corp would now take six months longer to close and also reduced its of

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/26/the-president-of-the-republic-of-macedonia-boris-trajkovski-died-in-an-airplane-accident.html)  [JSON](/news/2004/02/26/the-president-of-the-republic-of-macedonia-boris-trajkovski-died-in-an-airplane-accident.json)  [XML](/news/2004/02/26/the-president-of-the-republic-of-macedonia-boris-trajkovski-died-in-an-airplane-accident.xml)  
+
 ### [2004-02-26](/news/2004/02/26/index.md)
 
+##### Macedonian
 #  The President of the Republic of Macedonia Boris Trajkovski died in an airplane accident.
 
 

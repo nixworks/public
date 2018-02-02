@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/1/the-president-of-myanmar-thein-sein-declares-a-state-of-emergency-in-four-regions-chin-state-magwe-region-sagaing-region-and-rakhine-stat.html)  [JSON](/news/2015/08/1/the-president-of-myanmar-thein-sein-declares-a-state-of-emergency-in-four-regions-chin-state-magwe-region-sagaing-region-and-rakhine-stat.json)  [XML](/news/2015/08/1/the-president-of-myanmar-thein-sein-declares-a-state-of-emergency-in-four-regions-chin-state-magwe-region-sagaing-region-and-rakhine-stat.xml)  
+
 ### [2015-08-1](/news/2015/08/1/index.md)
 
+##### Myanmar's president's office
 # The President of Myanmar Thein Sein declares a state of emergency in four regions, Chin State, Magwe Region, Sagaing Region and Rakhine State, after floods kill at least 27 people. 
 
 As torrential rain continues, dozens die in eastern India and neighbouring Myanmar, where disaster zones have been declared.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-33745840)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/71DF/production/_84615192_ddde62cd-ef54-4ad4-9d62-151ee9475a12.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/20/afghanistan-s-election-commission-orders-a-run-off-election-for-november-7-in-the-afghan-presidential-election.html)  [JSON](/news/2009/10/20/afghanistan-s-election-commission-orders-a-run-off-election-for-november-7-in-the-afghan-presidential-election.json)  [XML](/news/2009/10/20/afghanistan-s-election-commission-orders-a-run-off-election-for-november-7-in-the-afghan-presidential-election.xml)  
+
 ### [2009-10-20](/news/2009/10/20/index.md)
 
+##### Afghanistan
 #  Afghanistan's election commission orders a run-off election for November 7 in the Afghan presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Jamaica Observer](http://www.jamaicaobserver.com/news/html/20091020T200000-0500_162166_OBS_ELECTION_COMMISSION_ORDERS_RUN_OFF_IN_AFGHANISTAN.asp)
 

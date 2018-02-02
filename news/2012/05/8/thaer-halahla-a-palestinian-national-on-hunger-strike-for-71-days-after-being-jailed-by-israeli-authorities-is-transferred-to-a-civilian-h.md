@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/8/thaer-halahla-a-palestinian-national-on-hunger-strike-for-71-days-after-being-jailed-by-israeli-authorities-is-transferred-to-a-civilian-h.html)  [JSON](/news/2012/05/8/thaer-halahla-a-palestinian-national-on-hunger-strike-for-71-days-after-being-jailed-by-israeli-authorities-is-transferred-to-a-civilian-h.json)  [XML](/news/2012/05/8/thaer-halahla-a-palestinian-national-on-hunger-strike-for-71-days-after-being-jailed-by-israeli-authorities-is-transferred-to-a-civilian-h.xml)  
+
 ### [2012-05-8](/news/2012/05/8/index.md)
 
+##### hunger strike
 # Thaer Halahla, a Palestinian national on hunger strike for 71 days after being jailed by Israeli authorities, is transferred to a civilian hospital. 
 
 A Palestinian who has been on hunger strike for 71 days in protest at his detention by the Israeli authorities is transferred to a civilian hospital.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17993499)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60093000/jpg/_60093499_60093498.jpg)

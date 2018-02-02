@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/15/voters-in-kyrgyzstan-go-to-the-polls-to-elect-a
 
 ### [2017-10-15](/news/2017/10/15/index.md)
 
+##### Kyrgyz presidential election, 2017
 # Voters in Kyrgyzstan go to the polls to elect a new president, with current president Almazbek Atambayev constitutionally barred from seeking a second term in office. 
 
 For the first time, an elected president is due to peacefully hand over power.

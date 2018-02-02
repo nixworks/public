@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/31/syrian-army-troops-reportedly-raid-neighbourhoods-in-the-town-of-hama-looking-for-anti-government-activists.html)  [JSON](/news/2011/08/31/syrian-army-troops-reportedly-raid-neighbourhoods-in-the-town-of-hama-looking-for-anti-government-activists.json)  [XML](/news/2011/08/31/syrian-army-troops-reportedly-raid-neighbourhoods-in-the-town-of-hama-looking-for-anti-government-activists.xml)  
+
 ### [2011-08-31](/news/2011/08/31/index.md)
 
+##### Syrian Army
 # Syrian Army troops reportedly raid neighbourhoods in the town of Hama looking for anti-government activists. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=236090)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=353023)

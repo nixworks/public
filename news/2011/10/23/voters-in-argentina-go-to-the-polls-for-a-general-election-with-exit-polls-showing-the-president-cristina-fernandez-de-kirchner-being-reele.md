@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/23/voters-in-argentina-go-to-the-polls-for-a-general-election-with-exit-polls-showing-the-president-cristina-fernandez-de-kirchner-being-reele.html)  [JSON](/news/2011/10/23/voters-in-argentina-go-to-the-polls-for-a-general-election-with-exit-polls-showing-the-president-cristina-fernandez-de-kirchner-being-reele.json)  [XML](/news/2011/10/23/voters-in-argentina-go-to-the-polls-for-a-general-election-with-exit-polls-showing-the-president-cristina-fernandez-de-kirchner-being-reele.xml)  
+
 ### [2011-10-23](/news/2011/10/23/index.md)
 
+##### Argentina
 # Voters in Argentina go to the polls for a general election, with exit polls showing the President Cristina Fernndez de Kirchner being reelected in a landslide. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg via ''Business Week](http://www.businessweek.com/news/2011-10-23/argentine-president-fernandez-won-re-election-polls-show.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2011/oct/20/argentina-cristina-kirchner-cruises-re-election)

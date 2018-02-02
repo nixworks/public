@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/9/the-pentagon-announces-the-death-of-islamic-stat
 
 ### [2016-05-9](/news/2016/05/9/index.md)
 
+##### Iraqi Civil War (2014-present)
 #  The Pentagon announces the death of Islamic State of Iraq and Syria (ISIL) leader Abu Waheeb and three other militants in an airstrike near the town of Rutba, Iraq. 
 
 A U.S. airstrike on Friday killed four Islamic State fighters in western Iraq, including a leader who appeared in ISIS execution videos and was considered an heir apparent to terror mastermind Abu Musab al-Zarqawi, the Pentagon announced Monday.
@@ -23,7 +24,7 @@ A U.S. airstrike on Friday killed four Islamic State fighters in western Iraq, i
 
 ### Related:
 
-1. [ At least 69 people are killed and 230 injured in a series of bomb attacks targeting Shiite neighborhoods in Baghdad, Iraq. Islamic State of Iraq and Syria claims responsibility for some of the attacks. ](/news/2016/05/17/at-least-69-people-are-killed-and-230-injured-in-a-series-of-bomb-attacks-targeting-shiite-neighborhoods-in-baghdad-iraq-islamic-state-of.md) _Context: Iraq, Iraqi Civil War (2014-present), Islamic State of Iraq and Syria_
+1. [A double suicide bombing kills at least 35 people and injures over 90 in Baghdad, Iraq. ](/news/2018/01/15/a-double-suicide-bombing-kills-at-least-35-people-and-injures-over-90-in-baghdad-iraq.md) _Context: Iraq, Iraqi Civil War (2014-present)_
 2. [The Iraqi Armed Forces enter the town of Al-Qa'im, close to the border with Syria. Al-Qa'im is one of the last towns in Iraq still held by ISIL. ](/news/2017/11/3/the-iraqi-armed-forces-enter-the-town-of-al-qa-im-close-to-the-border-with-syria-al-qa-im-is-one-of-the-last-towns-in-iraq-still-held-by-i.md) _Context: Iraq, Iraqi Civil War (2014-present)_
 3. [The pro-government Popular Mobilization Forces militia takes control of the mostly destroyed ancient city of Hatra in Iraq's Nineveh Governorate, following clashes with ISIL, who seized the ruins in 2014. ](/news/2017/04/26/the-pro-government-popular-mobilization-forces-militia-takes-control-of-the-mostly-destroyed-ancient-city-of-hatra-in-iraq-s-nineveh-governo.md) _Context: Iraq, Iraqi Civil War (2014-present)_
 4. [Suicide bombers strike in the cities of Tikrit and Samarra in Iraq, killing at least 21. ](/news/2016/11/6/suicide-bombers-strike-in-the-cities-of-tikrit-and-samarra-in-iraq-killing-at-least-21.md) _Context: Iraq, Iraqi Civil War (2014-present)_

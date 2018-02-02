@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2011/10/19/the-rock-group-coldplay-released-their-fifth-studio-album-mylo-xyloto-by-emi.html)  [JSON](/news/2011/10/19/the-rock-group-coldplay-released-their-fifth-studio-album-mylo-xyloto-by-emi.json)  [XML](/news/2011/10/19/the-rock-group-coldplay-released-their-fifth-studio-album-mylo-xyloto-by-emi.xml)  
+
 ### [2011-10-19](/news/2011/10/19/index.md)
 
+##### Coldplay
 # The rock group Coldplay released their fifth studio album, Mylo Xyloto, by EMI.
 
 

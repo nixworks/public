@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/6/a-passenger-train-with-about-60-passengers-travelling-between-glasgow-and-oban-derails-leaving-the-carriages-perched-over-an-embankment.html)  [JSON](/news/2010/06/6/a-passenger-train-with-about-60-passengers-travelling-between-glasgow-and-oban-derails-leaving-the-carriages-perched-over-an-embankment.json)  [XML](/news/2010/06/6/a-passenger-train-with-about-60-passengers-travelling-between-glasgow-and-oban-derails-leaving-the-carriages-perched-over-an-embankment.xml)  
+
 ### [2010-06-6](/news/2010/06/6/index.md)
 
+##### Glasgow
 # A passenger train, with about 60 passengers, travelling between Glasgow and Oban derails leaving the carriages perched over an embankment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/scotland/glasgow_and_west/10251545.stm)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/48015000/jpg/_48015266_hi009471216.jpg)

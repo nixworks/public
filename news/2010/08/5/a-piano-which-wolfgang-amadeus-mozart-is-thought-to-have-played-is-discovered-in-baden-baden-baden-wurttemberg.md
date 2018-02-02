@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/5/a-piano-which-wolfgang-amadeus-mozart-is-thought-to-have-played-is-discovered-in-baden-baden-baden-wurttemberg.html)  [JSON](/news/2010/08/5/a-piano-which-wolfgang-amadeus-mozart-is-thought-to-have-played-is-discovered-in-baden-baden-baden-wurttemberg.json)  [XML](/news/2010/08/5/a-piano-which-wolfgang-amadeus-mozart-is-thought-to-have-played-is-discovered-in-baden-baden-baden-wurttemberg.xml)  
+
 ### [2010-08-5](/news/2010/08/5/index.md)
 
+##### Mozart's
 # A piano which Wolfgang Amadeus Mozart is thought to have played is discovered in Baden-Baden, Baden-Wrttemberg. 
 
 An early piano believed to have been played by Wolfgang Amadeus Mozart has surfaced in Germany and could be worth millions of dollars, a radio station reported.
 
 
-### Source:
+### Sources:
 
 1. [The Age](http://news.theage.com.au/breaking-news-world/piano-played-by-mozart-discovered-20100805-11jcf.html)
 1. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)

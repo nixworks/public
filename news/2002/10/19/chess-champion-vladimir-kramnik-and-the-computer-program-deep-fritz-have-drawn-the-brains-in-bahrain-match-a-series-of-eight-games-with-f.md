@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/19/chess-champion-vladimir-kramnik-and-the-computer-program-deep-fritz-have-drawn-the-brains-in-bahrain-match-a-series-of-eight-games-with-f.html)  [JSON](/news/2002/10/19/chess-champion-vladimir-kramnik-and-the-computer-program-deep-fritz-have-drawn-the-brains-in-bahrain-match-a-series-of-eight-games-with-f.json)  [XML](/news/2002/10/19/chess-champion-vladimir-kramnik-and-the-computer-program-deep-fritz-have-drawn-the-brains-in-bahrain-match-a-series-of-eight-games-with-f.xml)  
+
 ### [2002-10-19](/news/2002/10/19/index.md)
 
+##### Vladimir Kramnik
 #  Chess champion Vladimir Kramnik and the computer program Deep Fritz have drawn the Brains in Bahrain match, a series of eight games, with four points each.
 
 

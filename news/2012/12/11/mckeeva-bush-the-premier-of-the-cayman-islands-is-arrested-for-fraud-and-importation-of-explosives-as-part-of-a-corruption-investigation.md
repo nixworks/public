@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/11/mckeeva-bush-the-premier-of-the-cayman-islands-is-arrested-for-fraud-and-importation-of-explosives-as-part-of-a-corruption-investigation.html)  [JSON](/news/2012/12/11/mckeeva-bush-the-premier-of-the-cayman-islands-is-arrested-for-fraud-and-importation-of-explosives-as-part-of-a-corruption-investigation.json)  [XML](/news/2012/12/11/mckeeva-bush-the-premier-of-the-cayman-islands-is-arrested-for-fraud-and-importation-of-explosives-as-part-of-a-corruption-investigation.xml)  
+
 ### [2012-12-11](/news/2012/12/11/index.md)
 
+##### McKeeva Bush
 # McKeeva Bush, the Premier of the Cayman Islands, is arrested for fraud and importation of explosives as part of a corruption investigation. 
 
 Cayman Islands premier McKeeva Bush is arrested as part of a corruption investigation, local police announce.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-20679259)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64694000/jpg/_64694042_cayman_bush304_ap.jpg)

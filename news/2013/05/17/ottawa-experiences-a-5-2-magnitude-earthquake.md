@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/17/ottawa-experiences-a-5-2-magnitude-earthquake.html)  [JSON](/news/2013/05/17/ottawa-experiences-a-5-2-magnitude-earthquake.json)  [XML](/news/2013/05/17/ottawa-experiences-a-5-2-magnitude-earthquake.xml)  
+
 ### [2013-05-17](/news/2013/05/17/index.md)
 
+##### Ottawa
 # Ottawa experiences a 5.2 magnitude earthquake. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CTV](http://www.ctvnews.ca/canada/earthquakes-felt-across-eastern-ontario-southwestern-quebec-1.1285923)
 1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1286795.1368828344!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)

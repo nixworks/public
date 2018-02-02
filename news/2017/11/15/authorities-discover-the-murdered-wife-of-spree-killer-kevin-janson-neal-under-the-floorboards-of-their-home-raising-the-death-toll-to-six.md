@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/15/authorities-discover-the-murdered-wife-of-spree
 
 ### [2017-11-15](/news/2017/11/15/index.md)
 
+##### Rancho Tehama Reserve shootings
 # Authorities discover the murdered wife of spree killer Kevin Janson Neal under the floorboards of their home, raising the death toll to six with ten others wounded in eight separate shootings. 
 
 Rancho Tehama Elementary School is closed until Thanksgiving in the wake of a shooting that injured a student and left four adults dead, as well as the gunman.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/23/national-congress-and-tutsi-leader-laurent-nkunda-is-arrested-in-rwanda.html)  [JSON](/news/2009/01/23/national-congress-and-tutsi-leader-laurent-nkunda-is-arrested-in-rwanda.json)  [XML](/news/2009/01/23/national-congress-and-tutsi-leader-laurent-nkunda-is-arrested-in-rwanda.xml)  
+
 ### [2009-01-23](/news/2009/01/23/index.md)
 
+##### CNDP
 #  National Congress and Tutsi leader Laurent Nkunda is arrested in Rwanda. 
 
 In a startling turn against its former ally, Rwanda has arrested Congo rebel leader Laurent Nkunda.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/28807477/)
 1. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Photo/_new/090123-NKunda-hmed-225a.standard.jpg)

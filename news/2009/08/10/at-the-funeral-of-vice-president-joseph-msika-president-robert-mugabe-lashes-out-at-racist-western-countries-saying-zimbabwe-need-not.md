@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/10/at-the-funeral-of-vice-president-joseph-msika-president-robert-mugabe-lashes-out-at-racist-western-countries-saying-zimbabwe-need-not.html)  [JSON](/news/2009/08/10/at-the-funeral-of-vice-president-joseph-msika-president-robert-mugabe-lashes-out-at-racist-western-countries-saying-zimbabwe-need-not.json)  [XML](/news/2009/08/10/at-the-funeral-of-vice-president-joseph-msika-president-robert-mugabe-lashes-out-at-racist-western-countries-saying-zimbabwe-need-not.xml)  
+
 ### [2009-08-10](/news/2009/08/10/index.md)
 
+##### Joseph Msika
 #  At the funeral of Vice-President Joseph Msika, President Robert Mugabe lashes out at "racist" western countries, saying "Zimbabwe need not be tied to any one corner of the world, least of all, to a corner of former imperialist and racist colonisers". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090810154035697C805191)
 2. [The Times](http://www.thetimes.co.za/News/Article.aspx?id=1047710)

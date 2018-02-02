@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/14/six-people-are-killed-in-a-stabbing-incident-on-the-channel-island-of-jersey.html)  [JSON](/news/2011/08/14/six-people-are-killed-in-a-stabbing-incident-on-the-channel-island-of-jersey.json)  [XML](/news/2011/08/14/six-people-are-killed-in-a-stabbing-incident-on-the-channel-island-of-jersey.xml)  
+
 ### [2011-08-14](/news/2011/08/14/index.md)
 
+##### Channel Islands
 # Six people are killed in a stabbing incident on the Channel Island of Jersey 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-jersey-14523741)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54600000/jpg/_54600281_jex_1137095_de26-1.jpg)

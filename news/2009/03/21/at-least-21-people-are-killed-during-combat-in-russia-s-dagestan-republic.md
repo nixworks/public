@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/21/at-least-21-people-are-killed-during-combat-in-russia-s-dagestan-republic.html)  [JSON](/news/2009/03/21/at-least-21-people-are-killed-during-combat-in-russia-s-dagestan-republic.json)  [XML](/news/2009/03/21/at-least-21-people-are-killed-during-combat-in-russia-s-dagestan-republic.xml)  
+
 ### [2009-03-21](/news/2009/03/21/index.md)
 
+##### war zone
 #  At least 21 people are killed during combat in Russia's Dagestan Republic. 
 
 Russian security forces in the southern region of Dagestan on Saturday said they had ended an operation against militants after three days of clashes in which they said 21 people were killed.
 
 
-### Source:
+### Sources:
 
 1. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-38634320090321)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

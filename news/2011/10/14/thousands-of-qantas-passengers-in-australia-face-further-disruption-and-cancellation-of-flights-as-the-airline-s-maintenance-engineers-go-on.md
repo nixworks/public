@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/14/thousands-of-qantas-passengers-in-australia-face-further-disruption-and-cancellation-of-flights-as-the-airline-s-maintenance-engineers-go-on.html)  [JSON](/news/2011/10/14/thousands-of-qantas-passengers-in-australia-face-further-disruption-and-cancellation-of-flights-as-the-airline-s-maintenance-engineers-go-on.json)  [XML](/news/2011/10/14/thousands-of-qantas-passengers-in-australia-face-further-disruption-and-cancellation-of-flights-as-the-airline-s-maintenance-engineers-go-on.xml)  
+
 ### [2011-10-14](/news/2011/10/14/index.md)
 
+##### Qantas
 # Thousands of Qantas passengers in Australia face further disruption and cancellation of flights as the airline's maintenance engineers go on strike. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SBS](http://www.sbs.com.au/news/article/1596453/Qantas-woes-worsen,-7000-affected)
 

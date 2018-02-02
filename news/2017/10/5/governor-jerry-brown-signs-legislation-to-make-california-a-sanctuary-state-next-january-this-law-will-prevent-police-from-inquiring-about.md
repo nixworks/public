@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/5/governor-jerry-brown-signs-legislation-to-make-c
 
 ### [2017-10-5](/news/2017/10/5/index.md)
 
+##### Jerry Brown
 # Governor Jerry Brown signs legislation to make California a sanctuary state. Next January, this law will prevent police from inquiring about immigration status during routine interactions, and will reduce law enforcement cooperation with U.S. immigration officers. 
 
 A bill to make California a sanctuary state, by preventing police from inquiring about immigration status and curtailing law enforcement cooperation with immigration officers, was signed into law by the governor on Thursday.

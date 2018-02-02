@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/12/12/a-chinese-fishing-boat-captain-allegedly-stabs-a-republic-of-korea-coast-guard-officer-killing-him-after-his-boat-is-stopped-for-illegally.html)  [JSON](/news/2011/12/12/a-chinese-fishing-boat-captain-allegedly-stabs-a-republic-of-korea-coast-guard-officer-killing-him-after-his-boat-is-stopped-for-illegally.json)  [XML](/news/2011/12/12/a-chinese-fishing-boat-captain-allegedly-stabs-a-republic-of-korea-coast-guard-officer-killing-him-after-his-boat-is-stopped-for-illegally.xml)  
+
 ### [2011-12-12](/news/2011/12/12/index.md)
 
+##### Chinese
 # A Chinese fishing boat captain allegedly stabs a Republic of Korea Coast Guard officer, killing him, after his boat is stopped for illegally fishing in South Korean waters. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/asia-pacific/skorea-says-2-coast-guard-officers-stabbed-by-chinese-sailors-stopped-for-illegal-fishing/2011/12/11/gIQAjg1FoO_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/asia-pacific/skorea-says-2-coast-guard-officers-stabbed-by-chinese-sailors-stopped-for-illegal-fishing/2011/12/11/gIQAjg1FoO_story.html)
 
 ### Related:
 

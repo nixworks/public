@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/5/for-the-first-time-in-more-than-two-months-no-new-deaths-were-reported-yesterday-from-sars-the-latest-indication-that-the-epidemic-is-sub.html)  [JSON](/news/2003/06/5/for-the-first-time-in-more-than-two-months-no-new-deaths-were-reported-yesterday-from-sars-the-latest-indication-that-the-epidemic-is-sub.json)  [XML](/news/2003/06/5/for-the-first-time-in-more-than-two-months-no-new-deaths-were-reported-yesterday-from-sars-the-latest-indication-that-the-epidemic-is-sub.xml)  
+
 ### [2003-06-5](/news/2003/06/5/index.md)
 
+##### SARS
 #  For the first time in more than two months, no new deaths were reported yesterday from SARS, the latest indication that the epidemic is subsiding, the World Health Organization said.
 
 

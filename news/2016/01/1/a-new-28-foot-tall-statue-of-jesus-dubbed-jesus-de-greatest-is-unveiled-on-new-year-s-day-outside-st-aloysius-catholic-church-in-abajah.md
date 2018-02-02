@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/1/a-new-28-foot-tall-statue-of-jesus-dubbed-jesus-
 
 ### [2016-01-1](/news/2016/01/1/index.md)
 
+##### Jesus
 # A new 28-foot tall statue of Jesus, dubbed "Jesus de Greatest," is unveiled on New Year's Day outside St. Aloysius Catholic Church in Abajah village, Nigeria's Imo state, which is described as the tallest Jesus statue in Africa. 
 
 

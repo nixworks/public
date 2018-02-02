@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/5/in-the-mekong-river-massacre-two-chinese-cargo-boats-are-hijacked-and-13-crew-members-murdered-in-the-golden-triangle-region-of-southeast-a.html)  [JSON](/news/2011/10/5/in-the-mekong-river-massacre-two-chinese-cargo-boats-are-hijacked-and-13-crew-members-murdered-in-the-golden-triangle-region-of-southeast-a.json)  [XML](/news/2011/10/5/in-the-mekong-river-massacre-two-chinese-cargo-boats-are-hijacked-and-13-crew-members-murdered-in-the-golden-triangle-region-of-southeast-a.xml)  
+
 ### [2011-10-5](/news/2011/10/5/index.md)
 
+##### Mekong River massacre
 # In the Mekong River massacre, two Chinese cargo boats are hijacked and 13 crew members murdered in the Golden Triangle region of Southeast Asia. 
 
 China joins Burma, Laos and Thailand in river patrols along the Mekong after killing of 13 Chinese sailors.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16119515)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/06/28/ugandan-parliament-votes-to-remove-the-law-that-limits-presidential-terms-to-two-5-year-terms-opposition-critics-say-that-it-intended-to-m.html)  [JSON](/news/2005/06/28/ugandan-parliament-votes-to-remove-the-law-that-limits-presidential-terms-to-two-5-year-terms-opposition-critics-say-that-it-intended-to-m.json)  [XML](/news/2005/06/28/ugandan-parliament-votes-to-remove-the-law-that-limits-presidential-terms-to-two-5-year-terms-opposition-critics-say-that-it-intended-to-m.xml)  
+
 ### [2005-06-28](/news/2005/06/28/index.md)
 
+##### Uganda
 #  Ugandan parliament votes to remove the law that limits presidential terms to two 5-year terms. Opposition critics say that it intended to make Yoweri Museveni president-for-life. Police disperses opposition demonstrators with tear gas. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4630209.stm)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/bcd62c18388987c485bb2429b08188de.htm)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8916599)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8916599)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

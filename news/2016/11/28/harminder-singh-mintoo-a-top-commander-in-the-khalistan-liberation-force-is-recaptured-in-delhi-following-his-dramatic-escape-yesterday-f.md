@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/28/harminder-singh-mintoo-a-top-commander-in-the-k
 
 ### [2016-11-28](/news/2016/11/28/index.md)
 
+##### Khalistan Liberation Force
 #  Harminder Singh Mintoo, a top commander in the Khalistan Liberation Force, is recaptured in Delhi following his dramatic escape yesterday from a high-security prison in Punjab. 
 
 Harminder Singh had been sprung from prison in Punjab state along with four other inmates a day earlier.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/26/the-university-of-virginia-reinstates-president-teresa-sullivan-after-she-was-ousted-without-a-formal-vote-earlier-this-month.html)  [JSON](/news/2012/06/26/the-university-of-virginia-reinstates-president-teresa-sullivan-after-she-was-ousted-without-a-formal-vote-earlier-this-month.json)  [XML](/news/2012/06/26/the-university-of-virginia-reinstates-president-teresa-sullivan-after-she-was-ousted-without-a-formal-vote-earlier-this-month.xml)  
+
 ### [2012-06-26](/news/2012/06/26/index.md)
 
+##### University of Virginia
 # The University of Virginia reinstates President Teresa Sullivan after she was ousted without a formal vote earlier this month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [My Northwest](http://mynorthwest.com/15/694933/UVa-board-reinstates-ousted-president-after-outcry)
 

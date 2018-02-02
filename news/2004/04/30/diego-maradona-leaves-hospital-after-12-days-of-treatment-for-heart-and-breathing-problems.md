@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/04/30/diego-maradona-leaves-hospital-after-12-days-of-treatment-for-heart-and-breathing-problems.html)  [JSON](/news/2004/04/30/diego-maradona-leaves-hospital-after-12-days-of-treatment-for-heart-and-breathing-problems.json)  [XML](/news/2004/04/30/diego-maradona-leaves-hospital-after-12-days-of-treatment-for-heart-and-breathing-problems.xml)  
+
 ### [2004-04-30](/news/2004/04/30/index.md)
 
+##### Diego Maradona
 #  Diego Maradona leaves hospital after 12 days of treatment for heart and breathing problems.
 
 

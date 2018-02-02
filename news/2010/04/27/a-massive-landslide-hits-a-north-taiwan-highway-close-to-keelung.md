@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/27/a-massive-landslide-hits-a-north-taiwan-highway-close-to-keelung.html)  [JSON](/news/2010/04/27/a-massive-landslide-hits-a-north-taiwan-highway-close-to-keelung.json)  [XML](/news/2010/04/27/a-massive-landslide-hits-a-north-taiwan-highway-close-to-keelung.xml)  
+
 ### [2010-04-27](/news/2010/04/27/index.md)
 
+##### Taiwan
 #  A massive landslide hits a north Taiwan highway close to Keelung. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [People](http://english.people.com.cn/90001/90783/91300/6964261.html)
 

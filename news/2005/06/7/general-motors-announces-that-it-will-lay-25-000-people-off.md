@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/7/general-motors-announces-that-it-will-lay-25-000-people-off.html)  [JSON](/news/2005/06/7/general-motors-announces-that-it-will-lay-25-000-people-off.json)  [XML](/news/2005/06/7/general-motors-announces-that-it-will-lay-25-000-people-off.xml)  
+
 ### [2005-06-7](/news/2005/06/7/index.md)
 
+##### General Motors
 #  General Motors announces that it will lay 25,000 people off. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/business/4070556.stm)
 

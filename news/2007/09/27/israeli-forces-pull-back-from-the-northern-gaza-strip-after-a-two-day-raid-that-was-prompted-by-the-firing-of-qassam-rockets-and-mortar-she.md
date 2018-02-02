@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/09/27/israeli-forces-pull-back-from-the-northern-gaza-strip-after-a-two-day-raid-that-was-prompted-by-the-firing-of-qassam-rockets-and-mortar-she.html)  [JSON](/news/2007/09/27/israeli-forces-pull-back-from-the-northern-gaza-strip-after-a-two-day-raid-that-was-prompted-by-the-firing-of-qassam-rockets-and-mortar-she.json)  [XML](/news/2007/09/27/israeli-forces-pull-back-from-the-northern-gaza-strip-after-a-two-day-raid-that-was-prompted-by-the-firing-of-qassam-rockets-and-mortar-she.xml)  
+
 ### [2007-09-27](/news/2007/09/27/index.md)
 
+##### Gaza Strip
 #  Israeli forces pull back from the Northern Gaza Strip after a two day raid that was prompted by the firing of Qassam rockets and mortar shells into Israel. The raid left 11 Palestinians, including civilians and members of Hamas and the Army of Islam, dead and 20 wounded. 
 
 A total of 11 Palestinians were killed during a two-day raid designed to repress rocket fire into Israel. 
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/2007/09/27/world/middleeast/27cnd-israel.html)
+1. [NYT](https://www.nytimes.com/2007/09/27/world/middleeast/27cnd-israel.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

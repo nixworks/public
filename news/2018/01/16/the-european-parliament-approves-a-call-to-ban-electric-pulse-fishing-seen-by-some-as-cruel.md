@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/16/the-european-parliament-approves-a-call-to-ban-
 
 ### [2018-01-16](/news/2018/01/16/index.md)
 
+##### Animal welfare and rights in Europe
 # The European Parliament approves a call to ban electric pulse fishing, seen by some as cruel. 
 
 

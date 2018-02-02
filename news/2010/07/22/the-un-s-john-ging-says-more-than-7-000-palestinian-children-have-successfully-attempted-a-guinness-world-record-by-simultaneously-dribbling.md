@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/22/the-un-s-john-ging-says-more-than-7-000-palestinian-children-have-successfully-attempted-a-guinness-world-record-by-simultaneously-dribbling.html)  [JSON](/news/2010/07/22/the-un-s-john-ging-says-more-than-7-000-palestinian-children-have-successfully-attempted-a-guinness-world-record-by-simultaneously-dribbling.json)  [XML](/news/2010/07/22/the-un-s-john-ging-says-more-than-7-000-palestinian-children-have-successfully-attempted-a-guinness-world-record-by-simultaneously-dribbling.xml)  
+
 ### [2010-07-22](/news/2010/07/22/index.md)
 
+##### John Ging
 # The UN's John Ging says more than 7,000 Palestinian children have successfully attempted a Guinness World Record by simultaneously dribbling basketballs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5giuWVbdpeN0OT4-iuGU3rlgoUlbQD9H478380)
 2. [CNN](http://edition.cnn.com/2010/WORLD/meast/07/22/gaza.basketball.record/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/14/three-students-of-mit-successfully-submit-a-paper-rooter-a-methodology-for-the-typical-unification-of-access-points-and-redundancy-into.html)  [JSON](/news/2005/04/14/three-students-of-mit-successfully-submit-a-paper-rooter-a-methodology-for-the-typical-unification-of-access-points-and-redundancy-into.json)  [XML](/news/2005/04/14/three-students-of-mit-successfully-submit-a-paper-rooter-a-methodology-for-the-typical-unification-of-access-points-and-redundancy-into.xml)  
+
 ### [2005-04-14](/news/2005/04/14/index.md)
 
+##### Massachusetts Institute of Technology
 #  Three students of MIT successfully submit a paper "Rooter: A Methodology for the Typical Unification of Access Points and Redundancy" into World Multiconference on Systemics, Cybernetics and Informatics. The paper was made of computer-generated nonsense. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Boston Herald](http://business.bostonherald.com/technologyNews/view.bg?articleid=78365)
 2. [CNN](http://edition.cnn.com/2005/TECH/science/04/14/mit.prank.reut/)

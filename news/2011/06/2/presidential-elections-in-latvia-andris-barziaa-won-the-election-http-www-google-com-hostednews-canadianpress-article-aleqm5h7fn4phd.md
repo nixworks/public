@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2011/06/2/presidential-elections-in-latvia-andris-barziaa-won-the-election-http-www-google-com-hostednews-canadianpress-article-aleqm5h7fn4phd.html)  [JSON](/news/2011/06/2/presidential-elections-in-latvia-andris-barziaa-won-the-election-http-www-google-com-hostednews-canadianpress-article-aleqm5h7fn4phd.json)  [XML](/news/2011/06/2/presidential-elections-in-latvia-andris-barziaa-won-the-election-http-www-google-com-hostednews-canadianpress-article-aleqm5h7fn4phd.xml)  
+
 ### [2011-06-2](/news/2011/06/2/index.md)
 
+##### Presidential elections
 # Presidential elections in Latvia. Andris Berzins won the election. [http:--www.google.com-hostednews-canadianpress-article-ALeqM5h7Fn4phdTPXHp45GeSmGMx6DhTiA?docId=7021348]
 
 

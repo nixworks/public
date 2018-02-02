@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/19/governor-of-tokyo-naoki-inose-submits-his-resignation-after-intense-questioning-amid-a-political-funds-scandal.html)  [JSON](/news/2013/12/19/governor-of-tokyo-naoki-inose-submits-his-resignation-after-intense-questioning-amid-a-political-funds-scandal.json)  [XML](/news/2013/12/19/governor-of-tokyo-naoki-inose-submits-his-resignation-after-intense-questioning-amid-a-political-funds-scandal.xml)  
+
 ### [2013-12-19](/news/2013/12/19/index.md)
 
+##### Governor of Tokyo
 # Governor of Tokyo Naoki Inose submits his resignation after intense questioning amid a political funds scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/12/19/world/asia/tokyo-governor-resignation/)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/24/the-american-university-of-afghanistan-in-kabul
 
 ### [2016-08-24](/news/2016/08/24/index.md)
 
+##### War in Afghanistan (2015-present)
 # The American University of Afghanistan in Kabul is attacked by suspected Taliban militants, resulting in at least 13 deaths and 30 injured. 
 
 At least 13 people were killed and 36 others were wounded when gunmen attacked the American University of Afghanistan in Kabul, Afghan officials said early Thursday.

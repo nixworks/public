@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/29/at-least-three-suspected-militants-are-killed-b
 
 ### [2017-01-29](/news/2017/01/29/index.md)
 
+##### Insurgency in the North Caucasus
 # At least three suspected militants are killed by Russian security forces during a firefight in Khasavyurt, Dagestan. 
 
 

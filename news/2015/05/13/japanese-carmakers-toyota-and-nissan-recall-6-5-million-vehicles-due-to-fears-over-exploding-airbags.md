@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/05/13/japanese-carmakers-toyota-and-nissan-recall-6-5-million-vehicles-due-to-fears-over-exploding-airbags.html)  [JSON](/news/2015/05/13/japanese-carmakers-toyota-and-nissan-recall-6-5-million-vehicles-due-to-fears-over-exploding-airbags.json)  [XML](/news/2015/05/13/japanese-carmakers-toyota-and-nissan-recall-6-5-million-vehicles-due-to-fears-over-exploding-airbags.xml)  
+
 ### [2015-05-13](/news/2015/05/13/index.md)
 
+##### Toyota
 # Japanese carmakers Toyota and Nissan recall 6.5 million vehicles due to fears over exploding airbags. 
 
 Japanese auto giants Toyota and Nissan on Wednesday said they were recalling 6.5 million vehicles globally in the latest chapter of an exploding airbag crisis linked to several deaths. The world&#x27;s biggest automaker said its recall of five million vehicles affected 35 models globally produced between
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo!](http://news.yahoo.com/toyota-nissan-recall-6-5-mln-cars-over-055536436--finance.html)
-1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/3q9EfKqN1cldQQp0TnqBJA--/aD0yMjU7dz00MDA7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en-US/video/video.cnbc2.com/9367b6eddbc9e1d179ebef2e7bcadcad)
+1. [AFP via Yahoo!](https://news.yahoo.com/toyota-nissan-recall-6-5-mln-cars-over-055536436--finance.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/i9kIALBLL7wrr.tXHWM8XQ--~B/aD0yMjU7dz00MDA7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en-US/video/video.cnbc2.com/9367b6eddbc9e1d179ebef2e7bcadcad)
 
 ### Related:
 

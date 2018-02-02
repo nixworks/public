@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/8/the-queen-mary-2-is-christened-by-queen-elizabeth-ii.html)  [JSON](/news/2004/01/8/the-queen-mary-2-is-christened-by-queen-elizabeth-ii.json)  [XML](/news/2004/01/8/the-queen-mary-2-is-christened-by-queen-elizabeth-ii.xml)  
+
 ### [2004-01-8](/news/2004/01/8/index.md)
 
+##### Elizabeth II
 #  The Queen Mary 2 is christened by Queen Elizabeth II.
 
 

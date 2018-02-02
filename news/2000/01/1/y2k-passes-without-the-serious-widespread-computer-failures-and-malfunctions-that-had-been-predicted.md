@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/01/1/y2k-passes-without-the-serious-widespread-computer-failures-and-malfunctions-that-had-been-predicted.html)  [JSON](/news/2000/01/1/y2k-passes-without-the-serious-widespread-computer-failures-and-malfunctions-that-had-been-predicted.json)  [XML](/news/2000/01/1/y2k-passes-without-the-serious-widespread-computer-failures-and-malfunctions-that-had-been-predicted.xml)  
+
 ### [2000-01-1](/news/2000/01/1/index.md)
 
+##### Year 2000 problem
 # Y2K passes without the serious, widespread computer failures and malfunctions that had been predicted.
 
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/09/7/subprime-mortgage-crisis-the-united-states-federal-government-places-mortgage-financing-companies-freddie-mac-and-fannie-mae-into-conserva.html)  [JSON](/news/2008/09/7/subprime-mortgage-crisis-the-united-states-federal-government-places-mortgage-financing-companies-freddie-mac-and-fannie-mae-into-conserva.json)  [XML](/news/2008/09/7/subprime-mortgage-crisis-the-united-states-federal-government-places-mortgage-financing-companies-freddie-mac-and-fannie-mae-into-conserva.xml)  
+
 ### [2008-09-7](/news/2008/09/7/index.md)
 
+##### housing crisis
 #  Subprime mortgage crisis: The United States federal government places mortgage financing companies Freddie Mac and Fannie Mae into conservatorship. The Federal Housing Finance Agency will manage the companies on a temporary basis. 
 
 The U.S. government on Sunday seized control of mortgage finance companies Fannie Mae and Freddie Mac in an aggressive move to help the distressed U.S. housing market and economy.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/businessNews/idINIndia-35361320080907)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080907&t=2&i=5892121&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2008-09-07T210757Z_01_NOOTR_RTRMDNC_0_India-353613-2)
+1. [Reuters](https://www.reuters.com/article/businessNews/idINIndia-35361320080907)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20080907&t=2&i=5892121&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2008-09-07T210757Z_01_NOOTR_RTRMDNC_0_India-353613-2)
 
 ### Related:
 

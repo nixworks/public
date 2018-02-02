@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/5/grenada-releases-the-last-seven-prisoners-convicted-in-the-murder-of-grenadian-prime-minister-maurice-bishop-during-the-1983-coup-includin.html)  [JSON](/news/2009/09/5/grenada-releases-the-last-seven-prisoners-convicted-in-the-murder-of-grenadian-prime-minister-maurice-bishop-during-the-1983-coup-includin.json)  [XML](/news/2009/09/5/grenada-releases-the-last-seven-prisoners-convicted-in-the-murder-of-grenadian-prime-minister-maurice-bishop-during-the-1983-coup-includin.xml)  
+
 ### [2009-09-5](/news/2009/09/5/index.md)
 
+##### Grenada
 #  Grenada releases the last seven prisoners convicted in the murder of Grenadian Prime Minister Maurice Bishop during the 1983 coup, including former deputy prime minister Bernard Coard. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [France 24](http://www.france24.com/en/20090906-last-1983-grenada-coup-prisoners-released)
 

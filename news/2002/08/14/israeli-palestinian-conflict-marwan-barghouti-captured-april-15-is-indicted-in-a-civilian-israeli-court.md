@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/08/14/israeli-palestinian-conflict-marwan-barghouti-captured-april-15-is-indicted-in-a-civilian-israeli-court.html)  [JSON](/news/2002/08/14/israeli-palestinian-conflict-marwan-barghouti-captured-april-15-is-indicted-in-a-civilian-israeli-court.json)  [XML](/news/2002/08/14/israeli-palestinian-conflict-marwan-barghouti-captured-april-15-is-indicted-in-a-civilian-israeli-court.xml)  
+
 ### [2002-08-14](/news/2002/08/14/index.md)
 
+##### Israeli-Palestinian conflict
 #  Israeli-Palestinian conflict: Marwan Barghouti, captured April 15, is indicted in a civilian Israeli court.
 
 

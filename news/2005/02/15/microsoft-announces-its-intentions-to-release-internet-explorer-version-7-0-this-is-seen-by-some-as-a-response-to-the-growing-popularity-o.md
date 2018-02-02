@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/15/microsoft-announces-its-intentions-to-release-internet-explorer-version-7-0-this-is-seen-by-some-as-a-response-to-the-growing-popularity-o.html)  [JSON](/news/2005/02/15/microsoft-announces-its-intentions-to-release-internet-explorer-version-7-0-this-is-seen-by-some-as-a-response-to-the-growing-popularity-o.json)  [XML](/news/2005/02/15/microsoft-announces-its-intentions-to-release-internet-explorer-version-7-0-this-is-seen-by-some-as-a-response-to-the-growing-popularity-o.xml)  
+
 ### [2005-02-15](/news/2005/02/15/index.md)
 
+##### Microsoft
 #  Microsoft announces its intentions to release Internet Explorer version 7.0. This is seen by some as a response to the growing popularity of the Mozilla Firefox browser. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News.com](http://news.com.com/Reversal+Next+IE+update+divorced+from+Windows/2100-1032_3-5577263.html?tag=nl)
 2. [Reuters UK](http://today.reuters.co.uk/news/newsArticle.aspx?type=technologyNews&storyID=2005-02-16T002412Z_01_N1519247_RTRIDST_0_TECH-TECH-MICROSOFT-BROWSER-DC.XML)

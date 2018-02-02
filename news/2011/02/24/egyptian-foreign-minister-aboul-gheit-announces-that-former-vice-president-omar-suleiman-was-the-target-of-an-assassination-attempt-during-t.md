@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/24/egyptian-foreign-minister-aboul-gheit-announces-that-former-vice-president-omar-suleiman-was-the-target-of-an-assassination-attempt-during-t.html)  [JSON](/news/2011/02/24/egyptian-foreign-minister-aboul-gheit-announces-that-former-vice-president-omar-suleiman-was-the-target-of-an-assassination-attempt-during-t.json)  [XML](/news/2011/02/24/egyptian-foreign-minister-aboul-gheit-announces-that-former-vice-president-omar-suleiman-was-the-target-of-an-assassination-attempt-during-t.xml)  
+
 ### [2011-02-24](/news/2011/02/24/index.md)
 
+##### Aboul Gheit
 # Egyptian Foreign Minister Aboul Gheit announces that former Vice President Omar Suleiman was the target of an assassination attempt during the recent uprising. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CBS](http://www.cbsnews.com/stories/2011/02/24/ap/world/main20035991.shtml)
 

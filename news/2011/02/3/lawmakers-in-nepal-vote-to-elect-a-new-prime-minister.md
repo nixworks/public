@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/3/lawmakers-in-nepal-vote-to-elect-a-new-prime-minister.html)  [JSON](/news/2011/02/3/lawmakers-in-nepal-vote-to-elect-a-new-prime-minister.json)  [XML](/news/2011/02/3/lawmakers-in-nepal-vote-to-elect-a-new-prime-minister.xml)  
+
 ### [2011-02-3](/news/2011/02/3/index.md)
 
+##### Nepal
 # Lawmakers in Nepal vote to elect a new Prime Minister. 
 
 Lawmakers in Nepal are set to vote for the 17th time to elect a new prime minister.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12352525)
 2. [Review Nepal](http://www.reviewnepal.com/detail_news.php?id=1734)

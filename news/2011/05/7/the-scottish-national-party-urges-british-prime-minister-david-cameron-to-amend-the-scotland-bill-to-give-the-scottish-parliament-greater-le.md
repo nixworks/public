@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/7/the-scottish-national-party-urges-british-prime-minister-david-cameron-to-amend-the-scotland-bill-to-give-the-scottish-parliament-greater-le.html)  [JSON](/news/2011/05/7/the-scottish-national-party-urges-british-prime-minister-david-cameron-to-amend-the-scotland-bill-to-give-the-scottish-parliament-greater-le.json)  [XML](/news/2011/05/7/the-scottish-national-party-urges-british-prime-minister-david-cameron-to-amend-the-scotland-bill-to-give-the-scottish-parliament-greater-le.xml)  
+
 ### [2011-05-7](/news/2011/05/7/index.md)
 
+##### Scottish National Party
 # The Scottish National Party urges British Prime Minister David Cameron to amend the Scotland Bill to give the Scottish Parliament greater legislative powers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-13321478)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52594000/jpg/_52594934_011917199-1.jpg)

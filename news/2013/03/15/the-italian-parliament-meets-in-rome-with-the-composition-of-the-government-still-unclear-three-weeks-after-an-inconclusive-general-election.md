@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/03/15/the-italian-parliament-meets-in-rome-with-the-composition-of-the-government-still-unclear-three-weeks-after-an-inconclusive-general-election.html)  [JSON](/news/2013/03/15/the-italian-parliament-meets-in-rome-with-the-composition-of-the-government-still-unclear-three-weeks-after-an-inconclusive-general-election.json)  [XML](/news/2013/03/15/the-italian-parliament-meets-in-rome-with-the-composition-of-the-government-still-unclear-three-weeks-after-an-inconclusive-general-election.xml)  
+
 ### [2013-03-15](/news/2013/03/15/index.md)
 
+##### Italian Parliament
 # The Italian Parliament meets in Rome with the composition of the government still unclear three weeks after an inconclusive general election. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/03/15/us-italy-vote-parliament-idUSBRE92E0PO20130315)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130315&t=2&i=713048150&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE92E16PG00)
+1. [Reuters](https://www.reuters.com/article/2013/03/15/us-italy-vote-parliament-idUSBRE92E0PO20130315)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130315&t=2&i=713048150&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE92E16PG00)
 
 ### Related:
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/8/the-u-s-district-court-for-the-district-of-colum
 
 ### [2017-02-8](/news/2017/02/8/index.md)
 
+##### U.S. District Court for the District of Columbia
 # The U.S. District Court for the District of Columbia blocks health insurer Anthem Inc.'s proposed $54 billion merger with rival Cigna because it would have exacerbated an already highly concentrated market and likely raised prices. 
 
 

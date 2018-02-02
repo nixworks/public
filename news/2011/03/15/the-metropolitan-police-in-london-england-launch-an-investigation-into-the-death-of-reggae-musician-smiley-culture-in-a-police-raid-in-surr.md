@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/15/the-metropolitan-police-in-london-england-launch-an-investigation-into-the-death-of-reggae-musician-smiley-culture-in-a-police-raid-in-surr.html)  [JSON](/news/2011/03/15/the-metropolitan-police-in-london-england-launch-an-investigation-into-the-death-of-reggae-musician-smiley-culture-in-a-police-raid-in-surr.json)  [XML](/news/2011/03/15/the-metropolitan-police-in-london-england-launch-an-investigation-into-the-death-of-reggae-musician-smiley-culture-in-a-police-raid-in-surr.xml)  
+
 ### [2011-03-15](/news/2011/03/15/index.md)
 
+##### Metropolitan Police
 # The Metropolitan Police in London, England launch an investigation into the death of reggae musician Smiley Culture in a police raid in Surrey. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/music/2011/mar/15/smiley-culture-dies-police-raid?CMP=twt_fd)
 

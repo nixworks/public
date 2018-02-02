@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/17/protesters-gather-outside-the-hong-kong-legislative-council-ahead-of-a-contentious-vote-on-election-of-the-chief-executive-of-hong-kong.html)  [JSON](/news/2015/06/17/protesters-gather-outside-the-hong-kong-legislative-council-ahead-of-a-contentious-vote-on-election-of-the-chief-executive-of-hong-kong.json)  [XML](/news/2015/06/17/protesters-gather-outside-the-hong-kong-legislative-council-ahead-of-a-contentious-vote-on-election-of-the-chief-executive-of-hong-kong.xml)  
+
 ### [2015-06-17](/news/2015/06/17/index.md)
 
+##### Hong Kong Legislative Council
 # Protesters gather outside the Hong Kong Legislative Council ahead of a contentious vote on election of the Chief Executive of Hong Kong. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw.de/protesters-gather-in-hk-ahead-of-electoral-reform-debate/a-18521612?maca=en-TWITTER-EN-2004-xml-mrss)
 

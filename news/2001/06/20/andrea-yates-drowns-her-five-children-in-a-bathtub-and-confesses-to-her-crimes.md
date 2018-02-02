@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/06/20/andrea-yates-drowns-her-five-children-in-a-bathtub-and-confesses-to-her-crimes.html)  [JSON](/news/2001/06/20/andrea-yates-drowns-her-five-children-in-a-bathtub-and-confesses-to-her-crimes.json)  [XML](/news/2001/06/20/andrea-yates-drowns-her-five-children-in-a-bathtub-and-confesses-to-her-crimes.xml)  
+
 ### [2001-06-20](/news/2001/06/20/index.md)
 
+##### Andrea Yates
 #  Andrea Yates drowns her five children in a bathtub and confesses to her crimes.
 
 

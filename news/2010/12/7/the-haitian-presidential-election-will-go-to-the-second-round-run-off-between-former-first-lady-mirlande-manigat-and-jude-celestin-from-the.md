@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/12/7/the-haitian-presidential-election-will-go-to-the-second-round-run-off-between-former-first-lady-mirlande-manigat-and-jude-celestin-from-the.html)  [JSON](/news/2010/12/7/the-haitian-presidential-election-will-go-to-the-second-round-run-off-between-former-first-lady-mirlande-manigat-and-jude-celestin-from-the.json)  [XML](/news/2010/12/7/the-haitian-presidential-election-will-go-to-the-second-round-run-off-between-former-first-lady-mirlande-manigat-and-jude-celestin-from-the.xml)  
+
 ### [2010-12-7](/news/2010/12/7/index.md)
 
+##### Haitian general election, 2010-2011
 # The Haitian presidential election will go to the second round run-off between former first lady Mirlande Manigat and Jude Celestin from the governing Unity Party. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6B70HJ20101208)
+1. [Reuters](https://www.reuters.com/article/idUSTRE6B70HJ20101208)
 1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20101208&t=2&i=270269138&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-12-08T225818Z_01_BTRE6B71RT900_RTROPTP_0_HAITI-ELECTIONS)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/27/walgreens-boots-alliance-agrees-to-buy-rite-aid-for-us-9-4-billion-in-a-move-which-will-create-a-retail-pharmaceutical-giant-with-13-000-sto.html)  [JSON](/news/2015/10/27/walgreens-boots-alliance-agrees-to-buy-rite-aid-for-us-9-4-billion-in-a-move-which-will-create-a-retail-pharmaceutical-giant-with-13-000-sto.json)  [XML](/news/2015/10/27/walgreens-boots-alliance-agrees-to-buy-rite-aid-for-us-9-4-billion-in-a-move-which-will-create-a-retail-pharmaceutical-giant-with-13-000-sto.xml)  
+
 ### [2015-10-27](/news/2015/10/27/index.md)
 
+##### Walgreens Boots Alliance
 # Walgreens Boots Alliance agrees to buy Rite Aid for US$9.4 billion in a move which will create a retail pharmaceutical giant with 13,000 stores. 
 
 The move would create a drugstore giant at a time when companies in nearly every corner of the health-care industry are seeking to gain advantage from bulking up.
 
 
-### Source:
+### Sources:
 
 1. [Dow Jones via Fox Business](http://www.foxbusiness.com/markets/2015/10/27/walgreens-boots-to-buy-rite-aid-in-172-billion-deal/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-business/markets/2015/10/27/walgreens-boots-to-buy-rite-aid-in-172-billion-deal/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1445982530841.jpg?ve=1)

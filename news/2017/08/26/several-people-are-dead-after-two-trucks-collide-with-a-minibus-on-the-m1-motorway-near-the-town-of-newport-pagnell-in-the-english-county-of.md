@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/26/several-people-are-dead-after-two-trucks-collid
 
 ### [2017-08-26](/news/2017/08/26/index.md)
 
+##### 2017 M1 motorway crash
 # Several people are dead after two trucks collide with a minibus on the M1 motorway near the town of Newport Pagnell in the English county of Buckinghamshire. 
 
 Several people have died after a motorway crash involving two lorries and a minibus in England.

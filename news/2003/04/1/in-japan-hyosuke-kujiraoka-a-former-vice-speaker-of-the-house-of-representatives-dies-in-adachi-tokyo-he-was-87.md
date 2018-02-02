@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/1/in-japan-hyosuke-kujiraoka-a-former-vice-speaker-of-the-house-of-representatives-dies-in-adachi-tokyo-he-was-87.html)  [JSON](/news/2003/04/1/in-japan-hyosuke-kujiraoka-a-former-vice-speaker-of-the-house-of-representatives-dies-in-adachi-tokyo-he-was-87.json)  [XML](/news/2003/04/1/in-japan-hyosuke-kujiraoka-a-former-vice-speaker-of-the-house-of-representatives-dies-in-adachi-tokyo-he-was-87.xml)  
+
 ### [2003-04-1](/news/2003/04/1/index.md)
 
+##### Hyosuke Kujiraoka
 #  In Japan, Hyosuke Kujiraoka, a former vice speaker of the House of Representatives, dies in Adachi, Tokyo. He was 87.
 
 

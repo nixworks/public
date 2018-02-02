@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/29/three-judges-in-egypt-chairing-the-trial-of-the-leaders-muslim-brotherhood-step-down-citing-reasons-of-conscience.html)  [JSON](/news/2013/10/29/three-judges-in-egypt-chairing-the-trial-of-the-leaders-muslim-brotherhood-step-down-citing-reasons-of-conscience.json)  [XML](/news/2013/10/29/three-judges-in-egypt-chairing-the-trial-of-the-leaders-muslim-brotherhood-step-down-citing-reasons-of-conscience.xml)  
+
 ### [2013-10-29](/news/2013/10/29/index.md)
 
+##### Egypt
 # Three judges in Egypt chairing the trial of the leaders Muslim Brotherhood step down, citing reasons of conscience. 
 
 Cairo court Judges, who presided over the trial of Muslim Brotherhood leaders, step down for reason of conscience.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/10/judges-egypt-brotherhood-trial-quit-20131029133759618623.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/10/29/2013102914811230734_20.jpg)

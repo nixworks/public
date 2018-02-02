@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/31/a-the-nation-group-s-newspaper-critical-of-thai-prime-minister-thaksin-shinawatra-agrees-to-stop-publishing-for-five-days-amid-protests-abo.html)  [JSON](/news/2006/03/31/a-the-nation-group-s-newspaper-critical-of-thai-prime-minister-thaksin-shinawatra-agrees-to-stop-publishing-for-five-days-amid-protests-abo.json)  [XML](/news/2006/03/31/a-the-nation-group-s-newspaper-critical-of-thai-prime-minister-thaksin-shinawatra-agrees-to-stop-publishing-for-five-days-amid-protests-abo.xml)  
+
 ### [2006-03-31](/news/2006/03/31/index.md)
 
+##### The Nation Group
 #  A The Nation Group's newspaper critical of Thai Prime Minister Thaksin Shinawatra agrees to stop publishing for five days amid protests about the way it referred to the King of Thailand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/News/31Mar2006_news01.php)
 

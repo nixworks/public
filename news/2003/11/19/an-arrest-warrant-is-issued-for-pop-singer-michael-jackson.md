@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/19/an-arrest-warrant-is-issued-for-pop-singer-michael-jackson.html)  [JSON](/news/2003/11/19/an-arrest-warrant-is-issued-for-pop-singer-michael-jackson.json)  [XML](/news/2003/11/19/an-arrest-warrant-is-issued-for-pop-singer-michael-jackson.xml)  
+
 ### [2003-11-19](/news/2003/11/19/index.md)
 
+##### Michael Jackson
 #  An arrest warrant is issued for pop singer Michael Jackson.
 
 

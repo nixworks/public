@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/2/a-minibus-collides-with-a-truck-in-the-northern-philippine-province-of-ilocos-norte-killing-at-least-10-people.html)  [JSON](/news/2012/10/2/a-minibus-collides-with-a-truck-in-the-northern-philippine-province-of-ilocos-norte-killing-at-least-10-people.json)  [XML](/news/2012/10/2/a-minibus-collides-with-a-truck-in-the-northern-philippine-province-of-ilocos-norte-killing-at-least-10-people.xml)  
+
 ### [2012-10-2](/news/2012/10/2/index.md)
 
+##### Philippine
 # A minibus collides with a truck in the northern Philippine province of Ilocos Norte, killing at least 10 people. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/10-dead-road-collision-northern-philippines-17373411#.UGwCq5jMiMk)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/19/in-the-philippine-general-election-the-liberal-
 
 ### [2016-05-19](/news/2016/05/19/index.md)
 
+##### Philippine general election, 2016
 #  In the Philippine general election, the Liberal Party emerges as the party with a plurality of seats in the Philippine Senate election, 2016 and Philippine House of Representatives elections, 2016. 
 
 

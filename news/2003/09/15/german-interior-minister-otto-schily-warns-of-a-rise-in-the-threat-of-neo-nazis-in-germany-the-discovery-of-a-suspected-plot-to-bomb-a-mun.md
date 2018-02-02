@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/15/german-interior-minister-otto-schily-warns-of-a-rise-in-the-threat-of-neo-nazis-in-germany-the-discovery-of-a-suspected-plot-to-bomb-a-mun.html)  [JSON](/news/2003/09/15/german-interior-minister-otto-schily-warns-of-a-rise-in-the-threat-of-neo-nazis-in-germany-the-discovery-of-a-suspected-plot-to-bomb-a-mun.json)  [XML](/news/2003/09/15/german-interior-minister-otto-schily-warns-of-a-rise-in-the-threat-of-neo-nazis-in-germany-the-discovery-of-a-suspected-plot-to-bomb-a-mun.xml)  
+
 ### [2003-09-15](/news/2003/09/15/index.md)
 
+##### German Interior Minister
 #  German Interior Minister Otto Schily warns of a rise in the threat of neo-Nazis in Germany. The discovery of a suspected plot to bomb a Munich Jewish centre during a visit by the German president has "dramatically confirmed" the danger to society.
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/14/bulgarian-prime-minister-boyko-borissov-resigns
 
 ### [2016-11-14](/news/2016/11/14/index.md)
 
+##### Bulgarian presidential election, 2016
 # Bulgarian Prime Minister Boyko Borissov resigns as a result of Socialist-backed Rumen Radev winning the presidential election. 
 
 

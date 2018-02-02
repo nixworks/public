@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/10/prosecutors-in-croatia-issue-an-arrest-warrant-for-former-prime-minister-ivo-sanader-on-suspected-corruption-charges-he-is-then-arrested.html)  [JSON](/news/2010/12/10/prosecutors-in-croatia-issue-an-arrest-warrant-for-former-prime-minister-ivo-sanader-on-suspected-corruption-charges-he-is-then-arrested.json)  [XML](/news/2010/12/10/prosecutors-in-croatia-issue-an-arrest-warrant-for-former-prime-minister-ivo-sanader-on-suspected-corruption-charges-he-is-then-arrested.xml)  
+
 ### [2010-12-10](/news/2010/12/10/index.md)
 
+##### Croatia
 # Prosecutors in Croatia issue an arrest warrant for former Prime Minister Ivo Sanader on suspected corruption charges. He is then arrested. 
 
 Ivo Sanader, wanted for corruption, has been arrested by Austrian police near Salzburgon on an international warrant.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5j7zt_sE9Ar9dS_yVmPO6UcOHH4Yw?docId=cc721a9f74ee4dba92bec60e865860c0)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/20101210165914745706.html)

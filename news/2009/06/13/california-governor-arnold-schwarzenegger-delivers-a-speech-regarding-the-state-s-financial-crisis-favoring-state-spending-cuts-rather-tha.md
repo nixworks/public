@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/13/california-governor-arnold-schwarzenegger-delivers-a-speech-regarding-the-state-s-financial-crisis-favoring-state-spending-cuts-rather-tha.html)  [JSON](/news/2009/06/13/california-governor-arnold-schwarzenegger-delivers-a-speech-regarding-the-state-s-financial-crisis-favoring-state-spending-cuts-rather-tha.json)  [XML](/news/2009/06/13/california-governor-arnold-schwarzenegger-delivers-a-speech-regarding-the-state-s-financial-crisis-favoring-state-spending-cuts-rather-tha.xml)  
+
 ### [2009-06-13](/news/2009/06/13/index.md)
 
+##### California
 #  California Governor Arnold Schwarzenegger delivers a speech regarding the state's financial crisis, favoring state spending cuts rather than the issuing of bonds. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/news/local/la-me-budget13-2009jun13,0,6569624.story?track=rss)
 1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

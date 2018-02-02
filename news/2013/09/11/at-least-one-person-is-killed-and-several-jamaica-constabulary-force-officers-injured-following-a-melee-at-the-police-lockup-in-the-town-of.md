@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/11/at-least-one-person-is-killed-and-several-jamaica-constabulary-force-officers-injured-following-a-melee-at-the-police-lockup-in-the-town-of.html)  [JSON](/news/2013/09/11/at-least-one-person-is-killed-and-several-jamaica-constabulary-force-officers-injured-following-a-melee-at-the-police-lockup-in-the-town-of.json)  [XML](/news/2013/09/11/at-least-one-person-is-killed-and-several-jamaica-constabulary-force-officers-injured-following-a-melee-at-the-police-lockup-in-the-town-of.xml)  
+
 ### [2013-09-11](/news/2013/09/11/index.md)
 
+##### Jamaica Constabulary Force
 # At least one person is killed and several Jamaica Constabulary Force officers injured following a melee at the police lockup in the town of Mandeville. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/melee-lockup-leaves-prisoner-dead-jamaica-20230787)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/21/a-trade-route-opens-within-pakistan-administered-kashmir-and-india-s-jammu-and-kashmir-state-after-a-60-year-barrier.html)  [JSON](/news/2008/10/21/a-trade-route-opens-within-pakistan-administered-kashmir-and-india-s-jammu-and-kashmir-state-after-a-60-year-barrier.json)  [XML](/news/2008/10/21/a-trade-route-opens-within-pakistan-administered-kashmir-and-india-s-jammu-and-kashmir-state-after-a-60-year-barrier.xml)  
+
 ### [2008-10-21](/news/2008/10/21/index.md)
 
+##### Pakistan
 #  A trade route opens within Pakistan-administered Kashmir and India's Jammu and Kashmir state after a 60-year barrier. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7681320.stm)
 

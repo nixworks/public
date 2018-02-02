@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/1/puerto-rico-fails-to-make-a-58-million-bond-repayment-due-today-gubernatorial-chief-of-staff-vactor-sua-rez-said-the-government-still-hop.html)  [JSON](/news/2015/08/1/puerto-rico-fails-to-make-a-58-million-bond-repayment-due-today-gubernatorial-chief-of-staff-vactor-sua-rez-said-the-government-still-hop.json)  [XML](/news/2015/08/1/puerto-rico-fails-to-make-a-58-million-bond-repayment-due-today-gubernatorial-chief-of-staff-vactor-sua-rez-said-the-government-still-hop.xml)  
+
 ### [2015-08-1](/news/2015/08/1/index.md)
 
+##### Puerto Rico
 # Puerto Rico fails to make a $58 million bond repayment due today. Gubernatorial Chief of Staff Victor Suarez said the government still hopes to reach an agreement with creditors on renegotiating its debts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MyWay](http://apnews.myway.com/article/20150801/cb--puerto_rico-economy-8f09ed6f52.html)
 2. [Analyst Rating Reports](http://www.analystratingreports.com/puerto-rico-heading-towards-a-default-government-says-cant-make-bond-payments/67919/)

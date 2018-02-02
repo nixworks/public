@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/16/super-typhoon-sanba-reaches-the-ryukyu-islands-on-its-way-to-korea.html)  [JSON](/news/2012/09/16/super-typhoon-sanba-reaches-the-ryukyu-islands-on-its-way-to-korea.json)  [XML](/news/2012/09/16/super-typhoon-sanba-reaches-the-ryukyu-islands-on-its-way-to-korea.xml)  
+
 ### [2012-09-16](/news/2012/09/16/index.md)
 
+##### Typhoon
 # Super Typhoon Sanba reaches the Ryukyu Islands on its way to Korea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Huffington Post](http://www.huffingtonpost.com/2012/09/15/super-typhoon-japan-2012-path-tracker-map_n_1885375.html)
 2. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120916p2a00m0na008000c.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/28/at-least-58-people-are-killed-at-a-large-opposition-rally-in-guinea-against-moussa-dadis-camara-who-seized-power-in-a-coup-last-year.html)  [JSON](/news/2009/09/28/at-least-58-people-are-killed-at-a-large-opposition-rally-in-guinea-against-moussa-dadis-camara-who-seized-power-in-a-coup-last-year.json)  [XML](/news/2009/09/28/at-least-58-people-are-killed-at-a-large-opposition-rally-in-guinea-against-moussa-dadis-camara-who-seized-power-in-a-coup-last-year.xml)  
+
 ### [2009-09-28](/news/2009/09/28/index.md)
 
+##### massacre of opposition protesters
 #  At least 58 people are killed at a large opposition rally in Guinea against Moussa Dadis Camara who seized power in a coup last year. 
 
 Security forces open fire on opposition supporters in capital, human rights group says.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/09/200992815223645889.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8279103.stm)

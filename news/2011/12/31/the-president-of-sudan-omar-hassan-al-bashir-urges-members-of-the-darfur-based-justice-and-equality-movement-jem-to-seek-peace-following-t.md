@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/31/the-president-of-sudan-omar-hassan-al-bashir-urges-members-of-the-darfur-based-justice-and-equality-movement-jem-to-seek-peace-following-t.html)  [JSON](/news/2011/12/31/the-president-of-sudan-omar-hassan-al-bashir-urges-members-of-the-darfur-based-justice-and-equality-movement-jem-to-seek-peace-following-t.json)  [XML](/news/2011/12/31/the-president-of-sudan-omar-hassan-al-bashir-urges-members-of-the-darfur-based-justice-and-equality-movement-jem-to-seek-peace-following-t.xml)  
+
 ### [2011-12-31](/news/2011/12/31/index.md)
 
+##### President of Sudan
 # The President of Sudan Omar Hassan al-Bashir urges members of the Darfur based Justice and Equality Movement (JEM) to seek peace following the recent death of rebel leader Ibrahim Khalil. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE7BU0FF20111231)
 

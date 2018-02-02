@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/5/u-n-secretary-general-kofi-annan-appoints-former-mozambican-president-joaquim-chissano-as-the-new-united-nations-envoy-to-negotiations-bet.html)  [JSON](/news/2006/12/5/u-n-secretary-general-kofi-annan-appoints-former-mozambican-president-joaquim-chissano-as-the-new-united-nations-envoy-to-negotiations-bet.json)  [XML](/news/2006/12/5/u-n-secretary-general-kofi-annan-appoints-former-mozambican-president-joaquim-chissano-as-the-new-united-nations-envoy-to-negotiations-bet.xml)  
+
 ### [2006-12-5](/news/2006/12/5/index.md)
 
+##### United Nations Secretary-General
 #  U.N. Secretary-General Kofi Annan appoints former Mozambican President Joaquim Chissano as the new United Nations-envoy to negotiations between the Government of Uganda and the Lord's Resistance Army, a rebel paramilitary group. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/africa/6209424.stm)
 

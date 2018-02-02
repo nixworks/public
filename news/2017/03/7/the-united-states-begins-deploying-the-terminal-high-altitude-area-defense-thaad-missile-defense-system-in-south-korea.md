@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/7/the-united-states-begins-deploying-the-terminal-
 
 ### [2017-03-7](/news/2017/03/7/index.md)
 
+##### South Korea-United States relations
 # The United States begins deploying the Terminal High Altitude Area Defense (THAAD) missile defense system in South Korea. 
 
 The start of the Thaad deployment comes a day after North Korea launched four ballistic missiles.

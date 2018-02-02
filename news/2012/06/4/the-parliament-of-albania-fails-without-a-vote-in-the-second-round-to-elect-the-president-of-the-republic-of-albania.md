@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/4/the-parliament-of-albania-fails-without-a-vote-in-the-second-round-to-elect-the-president-of-the-republic-of-albania.html)  [JSON](/news/2012/06/4/the-parliament-of-albania-fails-without-a-vote-in-the-second-round-to-elect-the-president-of-the-republic-of-albania.json)  [XML](/news/2012/06/4/the-parliament-of-albania-fails-without-a-vote-in-the-second-round-to-elect-the-president-of-the-republic-of-albania.xml)  
+
 ### [2012-06-4](/news/2012/06/4/index.md)
 
+##### parliament
 # The Parliament of Albania fails without a vote in the second round to elect the President of the Republic of Albania. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Ansa](http://ansamed.ansa.it/ansamed/en/news/nations/albania/2012/06/04/Albania-candidates-running-election-presidency_6979703.html)
 

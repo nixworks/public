@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/9/wang-huayuan-a-top-anti-corruption-official-in-china-s-shandong-province-is-sentenced-to-death-for-accepting-1-million-in-bribes.html)  [JSON](/news/2010/09/9/wang-huayuan-a-top-anti-corruption-official-in-china-s-shandong-province-is-sentenced-to-death-for-accepting-1-million-in-bribes.json)  [XML](/news/2010/09/9/wang-huayuan-a-top-anti-corruption-official-in-china-s-shandong-province-is-sentenced-to-death-for-accepting-1-million-in-bribes.xml)  
+
 ### [2010-09-9](/news/2010/09/9/index.md)
 
+##### corruption
 # Wang Huayuan, a top anti-corruption official in China's Shandong province, is sentenced to death for accepting $1 million in bribes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gB0QESfMiErg5qfi7oLSkPKO6dWgD9I498UO0)
 

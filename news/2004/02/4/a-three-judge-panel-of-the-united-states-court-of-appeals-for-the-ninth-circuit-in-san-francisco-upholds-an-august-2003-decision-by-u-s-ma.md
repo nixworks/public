@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/4/a-three-judge-panel-of-the-united-states-court-of-appeals-for-the-ninth-circuit-in-san-francisco-upholds-an-august-2003-decision-by-u-s-ma.html)  [JSON](/news/2004/02/4/a-three-judge-panel-of-the-united-states-court-of-appeals-for-the-ninth-circuit-in-san-francisco-upholds-an-august-2003-decision-by-u-s-ma.json)  [XML](/news/2004/02/4/a-three-judge-panel-of-the-united-states-court-of-appeals-for-the-ninth-circuit-in-san-francisco-upholds-an-august-2003-decision-by-u-s-ma.xml)  
+
 ### [2004-02-4](/news/2004/02/4/index.md)
 
+##### United States Court of Appeals for the Ninth Circuit
 #  A three-judge panel of the United States Court of Appeals for the Ninth Circuit in San Francisco upholds an August 2003 decision by U.S. Magistrate Judge John Jelderks in Portland that the remains of the Kennewick Man can be studied. In a decision was written by Judge Ronald M. Gould, the court denies the request of the Nez Perce, Umatilla, Colville, and Yakama Indian tribes, which wanted the bones to be turned over to them for burial, holding that the remains do not fall under the Native American Graves Protection and Repatriation Act and can be studied under the Archaeological Resources Protection Act.
 
 

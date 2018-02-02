@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/7/united-states-senator-al-franken-announces-that-
 
 ### [2017-12-7](/news/2017/12/7/index.md)
 
+##### 2017 United States political sexual scandals
 # United States Senator Al Franken announces that he will resign "in the coming weeks" amid sexual harassment allegations. 
 
 &quot;In the coming weeks, I will be resigning as a member of the United States Senate&quot; 

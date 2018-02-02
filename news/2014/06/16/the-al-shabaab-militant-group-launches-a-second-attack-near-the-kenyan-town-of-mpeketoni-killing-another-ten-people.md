@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/16/the-al-shabaab-militant-group-launches-a-second-attack-near-the-kenyan-town-of-mpeketoni-killing-another-ten-people.html)  [JSON](/news/2014/06/16/the-al-shabaab-militant-group-launches-a-second-attack-near-the-kenyan-town-of-mpeketoni-killing-another-ten-people.json)  [XML](/news/2014/06/16/the-al-shabaab-militant-group-launches-a-second-attack-near-the-kenyan-town-of-mpeketoni-killing-another-ten-people.xml)  
+
 ### [2014-06-16](/news/2014/06/16/index.md)
 
+##### Al-Shabaab
 # The Al-Shabaab militant group launches a second attack near the Kenyan town of Mpeketoni killing another ten people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-27882084#)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75579000/jpg/_75579516_75552942.jpg)

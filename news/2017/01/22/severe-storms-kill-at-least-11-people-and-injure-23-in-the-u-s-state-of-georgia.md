@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/22/severe-storms-kill-at-least-11-people-and-injur
 
 ### [2017-01-22](/news/2017/01/22/index.md)
 
+##### January 21-22, 2017 tornado outbreak
 # Severe storms kill at least 11 people and injure 23 in the U.S. state of Georgia. 
 
 Seven of those killed were in a Georgia trailer park apparently struck by a tornado.

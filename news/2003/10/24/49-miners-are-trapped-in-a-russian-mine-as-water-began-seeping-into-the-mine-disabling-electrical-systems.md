@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/24/49-miners-are-trapped-in-a-russian-mine-as-water-began-seeping-into-the-mine-disabling-electrical-systems.html)  [JSON](/news/2003/10/24/49-miners-are-trapped-in-a-russian-mine-as-water-began-seeping-into-the-mine-disabling-electrical-systems.json)  [XML](/news/2003/10/24/49-miners-are-trapped-in-a-russian-mine-as-water-began-seeping-into-the-mine-disabling-electrical-systems.xml)  
+
 ### [2003-10-24](/news/2003/10/24/index.md)
 
+##### miner
 #  49 miners are trapped in a Russian mine as water began seeping into the mine, disabling electrical systems.
 
 

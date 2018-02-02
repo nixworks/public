@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/9/four-members-of-the-nato-led-international-security-assistance-force-are-killed-in-afghanistan-s-kapisa-province.html)  [JSON](/news/2012/06/9/four-members-of-the-nato-led-international-security-assistance-force-are-killed-in-afghanistan-s-kapisa-province.json)  [XML](/news/2012/06/9/four-members-of-the-nato-led-international-security-assistance-force-are-killed-in-afghanistan-s-kapisa-province.xml)  
+
 ### [2012-06-9](/news/2012/06/9/index.md)
 
+##### NATO
 # Four members of the NATO-led International Security Assistance Force are killed in Afghanistan's Kapisa province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=273232)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=353023)

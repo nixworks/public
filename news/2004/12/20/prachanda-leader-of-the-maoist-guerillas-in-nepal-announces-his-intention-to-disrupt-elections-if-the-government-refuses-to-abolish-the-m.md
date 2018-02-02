@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/20/prachanda-leader-of-the-maoist-guerillas-in-nepal-announces-his-intention-to-disrupt-elections-if-the-government-refuses-to-abolish-the-m.html)  [JSON](/news/2004/12/20/prachanda-leader-of-the-maoist-guerillas-in-nepal-announces-his-intention-to-disrupt-elections-if-the-government-refuses-to-abolish-the-m.json)  [XML](/news/2004/12/20/prachanda-leader-of-the-maoist-guerillas-in-nepal-announces-his-intention-to-disrupt-elections-if-the-government-refuses-to-abolish-the-m.xml)  
+
 ### [2004-12-20](/news/2004/12/20/index.md)
 
+##### Prachanda
 #  Prachanda, leader of the Maoist guerillas in Nepal, announces his intention to disrupt elections if the government refuses to abolish the monarchy. Prime Minister Sher Bahadur Deuba has given them until January 13, 2005, to begin peace talks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.co.uk/newsArticle.jhtml?type=worldNews&storyID=641182)
 

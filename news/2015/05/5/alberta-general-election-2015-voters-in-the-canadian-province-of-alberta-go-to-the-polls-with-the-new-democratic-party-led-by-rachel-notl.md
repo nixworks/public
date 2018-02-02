@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/05/5/alberta-general-election-2015-voters-in-the-canadian-province-of-alberta-go-to-the-polls-with-the-new-democratic-party-led-by-rachel-notl.html)  [JSON](/news/2015/05/5/alberta-general-election-2015-voters-in-the-canadian-province-of-alberta-go-to-the-polls-with-the-new-democratic-party-led-by-rachel-notl.json)  [XML](/news/2015/05/5/alberta-general-election-2015-voters-in-the-canadian-province-of-alberta-go-to-the-polls-with-the-new-democratic-party-led-by-rachel-notl.xml)  
+
 ### [2015-05-5](/news/2015/05/5/index.md)
 
+##### Alberta general election, 2015
 # Alberta general election, 2015: Voters in the Canadian province of Alberta go to the polls with the New Democratic Party, led by Rachel Notley, winning a majority of seats in the Legislative Assembly for the first time ever. The Progressive Conservative Party, which had ruled for more than 40 years, not only loses its majority, but also finishes behind the Wildrose Party. 
 
 Seismic shift in politics in province where Progressive Conservatives had recorded 12 straight majority wins
 
 
-### Source:
+### Sources:
 
-1. [The Globe and Mail](http://www.theglobeandmail.com/news/alberta/alberta-votes-2015/article24269623/)
-1. [Cover Image](http://static.theglobeandmail.ca/b64/incoming/article24277836.ece/ALTERNATES/w620/EDM14-CANADA-POLITICS+ALBER.JPG)
+1. [The Globe and Mail](https://www.theglobeandmail.com/news/alberta/alberta-votes-2015/article24269623/)
+1. [Cover Image](https://www.theglobeandmail.com/resizer/m-u6TqHBs4dV-ynFqHKHr0qNKrw=/1200x0/filters:quality(100)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/BHKK5QQJB5A75OPHREHWAOYITE)
 
 ### Related:
 

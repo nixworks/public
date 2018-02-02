@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/11/ashraf-jehangir-qazi-is-nominated-by-kofi-annan-to-be-the-un-new-envoy-to-iraq.html)  [JSON](/news/2004/07/11/ashraf-jehangir-qazi-is-nominated-by-kofi-annan-to-be-the-un-new-envoy-to-iraq.json)  [XML](/news/2004/07/11/ashraf-jehangir-qazi-is-nominated-by-kofi-annan-to-be-the-un-new-envoy-to-iraq.xml)  
+
 ### [2004-07-11](/news/2004/07/11/index.md)
 
+##### Ashraf Jehangir Qazi
 #  Ashraf Jehangir Qazi is nominated by Kofi Annan to be the UN new envoy to Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Rediff News](http://in.rediff.com/news/2004/jul/12iraq.htm)
 1. [Cover Image](//imworld.rediff.com/worldrediff/pix/r-shareicon.png)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/4/a-train-carrying-toxic-flammable-chemicals-derails-and-causes-a-major-fire-near-the-belgian-town-of-wetteren-killing-two-and-wounding-forty.html)  [JSON](/news/2013/05/4/a-train-carrying-toxic-flammable-chemicals-derails-and-causes-a-major-fire-near-the-belgian-town-of-wetteren-killing-two-and-wounding-forty.json)  [XML](/news/2013/05/4/a-train-carrying-toxic-flammable-chemicals-derails-and-causes-a-major-fire-near-the-belgian-town-of-wetteren-killing-two-and-wounding-forty.xml)  
+
 ### [2013-05-4](/news/2013/05/4/index.md)
 
+##### Belgian
 # A train carrying toxic flammable chemicals derails and causes a major fire near the Belgian town of Wetteren, killing two and wounding forty-nine. 
 
 Two people die and 14 others are injured as a train carrying toxic and flammable chemicals derails, causing a major fire near the Belgian city of Ghent.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-22415757)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67421000/jpg/_67421735_67421734.jpg)

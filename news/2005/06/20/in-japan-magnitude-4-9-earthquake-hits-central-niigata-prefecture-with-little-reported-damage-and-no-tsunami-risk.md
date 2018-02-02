@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/20/in-japan-magnitude-4-9-earthquake-hits-central-niigata-prefecture-with-little-reported-damage-and-no-tsunami-risk.html)  [JSON](/news/2005/06/20/in-japan-magnitude-4-9-earthquake-hits-central-niigata-prefecture-with-little-reported-damage-and-no-tsunami-risk.json)  [XML](/news/2005/06/20/in-japan-magnitude-4-9-earthquake-hits-central-niigata-prefecture-with-little-reported-damage-and-no-tsunami-risk.xml)  
+
 ### [2005-06-20](/news/2005/06/20/index.md)
 
+##### earthquake
 #  In Japan, magnitude 4.9 earthquake hits central Niigata Prefecture, with little reported damage and no tsunami risk 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Japan Today](http://japantoday.com/e/?content=news&cat=9&id=340874)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/T146838.htm)

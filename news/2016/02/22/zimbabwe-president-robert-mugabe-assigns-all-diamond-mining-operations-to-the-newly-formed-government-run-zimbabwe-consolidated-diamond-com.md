@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/22/zimbabwe-president-robert-mugabe-assigns-all-di
 
 ### [2016-02-22](/news/2016/02/22/index.md)
 
+##### President
 # Zimbabwe President Robert Mugabe assigns all diamond mining operations to the newly formed, government-run Zimbabwe Consolidated Diamond Company, and orders eight foreign diamond mining companies from the country. 
 
 Zimbabwe President Robert Mugabe ordered the expulsion of eight foreign diamond mining companies.

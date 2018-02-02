@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/15/facebook-founder-mark-zuckerberg-is-time-s-2010-person-of-the-year-wikileaks-founder-julian-assange-wins-top-place-in-the-reader-s-poll.html)  [JSON](/news/2010/12/15/facebook-founder-mark-zuckerberg-is-time-s-2010-person-of-the-year-wikileaks-founder-julian-assange-wins-top-place-in-the-reader-s-poll.json)  [XML](/news/2010/12/15/facebook-founder-mark-zuckerberg-is-time-s-2010-person-of-the-year-wikileaks-founder-julian-assange-wins-top-place-in-the-reader-s-poll.xml)  
+
 ### [2010-12-15](/news/2010/12/15/index.md)
 
+##### Facebook
 # Facebook founder Mark Zuckerberg is TIME's 2010 Person of the Year. WikiLeaks founder Julian Assange wins top place in the reader's poll. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CS Monitor](http://www.csmonitor.com/Innovation/Horizons/2010/1215/Mark-Zuckerberg-in-Assange-out.-Did-Time-choose-the-wrong-person-of-the-year)
 2. [Time](http://www.time.com/time/specials/packages/0,28757,2036683,00.html)

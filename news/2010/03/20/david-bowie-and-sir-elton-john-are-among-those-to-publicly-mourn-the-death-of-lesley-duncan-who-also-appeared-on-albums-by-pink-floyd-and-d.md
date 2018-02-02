@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/20/david-bowie-and-sir-elton-john-are-among-those-to-publicly-mourn-the-death-of-lesley-duncan-who-also-appeared-on-albums-by-pink-floyd-and-d.html)  [JSON](/news/2010/03/20/david-bowie-and-sir-elton-john-are-among-those-to-publicly-mourn-the-death-of-lesley-duncan-who-also-appeared-on-albums-by-pink-floyd-and-d.json)  [XML](/news/2010/03/20/david-bowie-and-sir-elton-john-are-among-those-to-publicly-mourn-the-death-of-lesley-duncan-who-also-appeared-on-albums-by-pink-floyd-and-d.xml)  
+
 ### [2010-03-20](/news/2010/03/20/index.md)
 
+##### David Bowie
 # David Bowie and Sir Elton John are among those to publicly mourn the death of Lesley Duncan, who also appeared on albums by Pink Floyd and Dusty Springfield. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/scotland/glasgow_and_west/8577839.stm)
 2. [The Scotsman](http://www.scotsman.com/news/Elton-and-Bowie-mourn-Mull39s.6167799.jp)

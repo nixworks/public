@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/22/an-ex-convict-kills-3-people-and-injures-6-others-at-a-school-near-the-city-of-zamboanga-in-the-philippines.html)  [JSON](/news/2010/10/22/an-ex-convict-kills-3-people-and-injures-6-others-at-a-school-near-the-city-of-zamboanga-in-the-philippines.json)  [XML](/news/2010/10/22/an-ex-convict-kills-3-people-and-injures-6-others-at-a-school-near-the-city-of-zamboanga-in-the-philippines.xml)  
+
 ### [2010-10-22](/news/2010/10/22/index.md)
 
+##### Zamboanga City
 # An ex-convict kills 3 people and injures 6 others at a school near the city of Zamboanga in the Philippines. 
 
 MANILA, Philippines (UPDATE 5) - An ex-convict went on a stabbing spree inside an elementary school in Zamboanga City Friday, killing 3 people and injuring 6 others before he was mauled to death by angry parents and villagers.
 
 
-### Source:
+### Sources:
 
 1. [ABS-CBN News](http://www.abs-cbnnews.com/nation/regions/10/22/10/ex-convict-kills-2-zambo-school-attack)
 2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5js_HW7qaigL2AHa7_qY7i-VTihiA?docId=CNG.2f057538640f1e680daa7203d3609eff.131)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/1/an-aeroplane-carrying-aid-materials-for-the-2010-chile-earthquake-crashes-killing-at-least-six-people.html)  [JSON](/news/2010/03/1/an-aeroplane-carrying-aid-materials-for-the-2010-chile-earthquake-crashes-killing-at-least-six-people.json)  [XML](/news/2010/03/1/an-aeroplane-carrying-aid-materials-for-the-2010-chile-earthquake-crashes-killing-at-least-six-people.xml)  
+
 ### [2010-03-1](/news/2010/03/1/index.md)
 
+##### 2010 Chile earthquake
 # An aeroplane carrying aid materials for the 2010 Chile earthquake crashes killing at least six people. 
 
 A small plane has crashed while carrying an aid team to the Chilean city of Concepcion, which was heavily damaged in Saturday&#039;s earthquake.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/stories/2010/03/02/2833997.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

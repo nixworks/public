@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/19/christiana-figueres-executive-secretary-of-the-
 
 ### [2016-02-19](/news/2016/02/19/index.md)
 
+##### Christiana Figueres
 # Christiana Figueres, executive secretary of the UN Framework Convention on Climate Change, announces she will resign in July when her appointment ends. 
 
 

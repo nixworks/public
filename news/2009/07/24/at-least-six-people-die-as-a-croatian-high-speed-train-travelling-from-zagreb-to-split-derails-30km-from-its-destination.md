@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/24/at-least-six-people-die-as-a-croatian-high-speed-train-travelling-from-zagreb-to-split-derails-30km-from-its-destination.html)  [JSON](/news/2009/07/24/at-least-six-people-die-as-a-croatian-high-speed-train-travelling-from-zagreb-to-split-derails-30km-from-its-destination.json)  [XML](/news/2009/07/24/at-least-six-people-die-as-a-croatian-high-speed-train-travelling-from-zagreb-to-split-derails-30km-from-its-destination.xml)  
+
 ### [2009-07-24](/news/2009/07/24/index.md)
 
+##### Croatia
 #  At least six people die as a Croatian high-speed train travelling from Zagreb to Split derails 30km from its destination. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hD5D6X0XVTPUcyHJi6py6gqtnCGQD99KUJQG1)
 

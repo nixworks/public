@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/26/the-government-of-moldova-announces-that-it-will-stand-down-before-the-opening-of-parliament-on-28-august.html)  [JSON](/news/2009/08/26/the-government-of-moldova-announces-that-it-will-stand-down-before-the-opening-of-parliament-on-28-august.json)  [XML](/news/2009/08/26/the-government-of-moldova-announces-that-it-will-stand-down-before-the-opening-of-parliament-on-28-august.xml)  
+
 ### [2009-08-26](/news/2009/08/26/index.md)
 
+##### Moldova
 #  The government of Moldova announces that it will stand down before the opening of parliament on 28 August. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8222999.stm)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/08/31/a-kansas-court-convicts-white-supremacist-frazier-glenn-miller-jr-also-known-as-frazier-glenn-cross-of-three-counts-of-murder-outside-tw.html)  [JSON](/news/2015/08/31/a-kansas-court-convicts-white-supremacist-frazier-glenn-miller-jr-also-known-as-frazier-glenn-cross-of-three-counts-of-murder-outside-tw.json)  [XML](/news/2015/08/31/a-kansas-court-convicts-white-supremacist-frazier-glenn-miller-jr-also-known-as-frazier-glenn-cross-of-three-counts-of-murder-outside-tw.xml)  
+
 ### [2015-08-31](/news/2015/08/31/index.md)
 
+##### Kansas
 # A Kansas court convicts white supremacist Frazier Glenn Miller, Jr. (also known as Frazier Glenn Cross) of three counts of murder outside two Jewish centers. 
 
 A man who admitted in court to wanting to kill Jews was found guilty on Monday of murdering three people, including a teenage boy, outside two Jewish centers in Kansas last year. A seven-man, five-woman jury took less than two hours to convict Frazier Glenn Cross, 74, on the three murders as well as
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo](http://news.yahoo.com/murder-charges-against-white-supremacist-jury-kansas-193612145.html)
+1. [AP via Yahoo](https://news.yahoo.com/murder-charges-against-white-supremacist-jury-kansas-193612145.html)
 1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/3/in-the-trial-of-martha-stewart-and-her-broker-judge-miriam-goldman-gives-the-jury-its-instructions.html)  [JSON](/news/2004/03/3/in-the-trial-of-martha-stewart-and-her-broker-judge-miriam-goldman-gives-the-jury-its-instructions.json)  [XML](/news/2004/03/3/in-the-trial-of-martha-stewart-and-her-broker-judge-miriam-goldman-gives-the-jury-its-instructions.xml)  
+
 ### [2004-03-3](/news/2004/03/3/index.md)
 
+##### Martha Stewart
 #  In the trial of Martha Stewart and her broker, Judge Miriam Goldman gives the jury its instructions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TheStreet](http://www.thestreet.com/_tscfoc/funds/gregggreenberg/10146815.html)
 

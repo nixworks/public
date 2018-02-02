@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/29/ikililou-dhoinine-is-elected-president-by-residents-of-the-comoros-islands.html)  [JSON](/news/2010/12/29/ikililou-dhoinine-is-elected-president-by-residents-of-the-comoros-islands.json)  [XML](/news/2010/12/29/ikililou-dhoinine-is-elected-president-by-residents-of-the-comoros-islands.xml)  
+
 ### [2010-12-29](/news/2010/12/29/index.md)
 
+##### Ikililou Dhoinine
 # Ikililou Dhoinine is elected president by residents of the Comoros Islands. 
 
 The&#x20;former&#x20;vice&#x20;president&#x20;of&#x20;Comoros&#x20;and&#x20;ruling&#x20;party&#x20;candidate,&#x20;Ikililou&#x20;Dhoinine&#x20;&#x28;pictured&#x29;,&#x20;was&#x20;declared&#x20;the&#x20;winner&#x20;of&#x20;the&#x20;island&#x20;nation&#x27;s&#x20;presidential&#x20;poll&#x20;in&#x20;official&#x20;results&#x20;Wednesday&#x20;amid&#x20;opposition&#x20;claims&#x20;that&#x20;the&#x20;vote&#x20;was&#x20;fraudulent.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12089809)
 2. [Pretoria News](http://www.pretorianews.co.za/dhoinine-wins-comoros-election-1.1006183)

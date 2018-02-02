@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/12/two-indian-border-security-force-soldiers-are-k
 
 ### [2016-03-12](/news/2016/03/12/index.md)
 
+##### Naxalite-Maoist insurgency
 # Two Indian Border Security Force soldiers are killed and four injured in a conflict in the state of Chhattisgarh. 
 
 Skirmish with Maoists took place at around 2.30am when a composite squad of BSF and district force was on a special operation in the interior forests of Bande police station area...

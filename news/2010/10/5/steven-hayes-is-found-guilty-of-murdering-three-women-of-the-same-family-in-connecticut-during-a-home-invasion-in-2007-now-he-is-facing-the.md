@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/5/steven-hayes-is-found-guilty-of-murdering-three-women-of-the-same-family-in-connecticut-during-a-home-invasion-in-2007-now-he-is-facing-the.html)  [JSON](/news/2010/10/5/steven-hayes-is-found-guilty-of-murdering-three-women-of-the-same-family-in-connecticut-during-a-home-invasion-in-2007-now-he-is-facing-the.json)  [XML](/news/2010/10/5/steven-hayes-is-found-guilty-of-murdering-three-women-of-the-same-family-in-connecticut-during-a-home-invasion-in-2007-now-he-is-facing-the.xml)  
+
 ### [2010-10-5](/news/2010/10/5/index.md)
 
+##### Petit family home invasion
 # Steven Hayes is found guilty of murdering three women of the same family in Connecticut during a home invasion in 2007, now he is facing the death sentence or life imprisonment.
 
 A paroled burglar was found guilty Tuesday of murdering a mother and her two daughters in a 2007 home invasion in an affluent Connecticut town. The killer, Steven Hayes, one of two men charged in the murders, now could be sentenced to death.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/us/2010/10/05/connecticut-man-face-death-jury-convicts-deadly-home-invasion/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2010/10/05/connecticut-man-face-death-jury-convicts-deadly-home-invasion/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1449015150816.jpg?ve=1)

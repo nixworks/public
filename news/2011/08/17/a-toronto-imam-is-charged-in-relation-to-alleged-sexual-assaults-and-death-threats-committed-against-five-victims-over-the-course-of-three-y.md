@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/08/17/a-toronto-imam-is-charged-in-relation-to-alleged-sexual-assaults-and-death-threats-committed-against-five-victims-over-the-course-of-three-y.html)  [JSON](/news/2011/08/17/a-toronto-imam-is-charged-in-relation-to-alleged-sexual-assaults-and-death-threats-committed-against-five-victims-over-the-course-of-three-y.json)  [XML](/news/2011/08/17/a-toronto-imam-is-charged-in-relation-to-alleged-sexual-assaults-and-death-threats-committed-against-five-victims-over-the-course-of-three-y.xml)  
+
 ### [2011-08-17](/news/2011/08/17/index.md)
 
+##### Toronto
 # A Toronto Imam is charged in relation to alleged sexual assaults and death threats committed against five victims over the course of three years. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Toronto Star](http://www.thestar.com/news/crime/article/1040602--imam-charged-with-sex-assaults)
+1. [Toronto Star](https://www.thestar.com/news/crime/article/1040602--imam-charged-with-sex-assaults)
 
 ### Related:
 

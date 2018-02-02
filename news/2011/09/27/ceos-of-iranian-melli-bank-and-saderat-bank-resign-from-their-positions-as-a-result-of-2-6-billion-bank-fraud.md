@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/27/ceos-of-iranian-melli-bank-and-saderat-bank-resign-from-their-positions-as-a-result-of-2-6-billion-bank-fraud.html)  [JSON](/news/2011/09/27/ceos-of-iranian-melli-bank-and-saderat-bank-resign-from-their-positions-as-a-result-of-2-6-billion-bank-fraud.json)  [XML](/news/2011/09/27/ceos-of-iranian-melli-bank-and-saderat-bank-resign-from-their-positions-as-a-result-of-2-6-billion-bank-fraud.xml)  
+
 ### [2011-09-27](/news/2011/09/27/index.md)
 
+##### CEO
 # CEOs of Iranian Melli Bank and Saderat Bank resign from their positions as a result of $2.6 billion bank fraud. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TABNAK](http://www.tabnak.ir/fa/news/193142/%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D9%84%DB%8C-%D8%A7%D8%B3%D8%AA%D8%B9%D9%81%D8%A7-%D8%AF%D8%A7%D8%AF%D8%8C-%D9%85%D8%AF%DB%8C%D8%B1-%D8%B9%D8%A7%D9%85%D9%84-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%85%D8%A7...!%D8%9F)
 

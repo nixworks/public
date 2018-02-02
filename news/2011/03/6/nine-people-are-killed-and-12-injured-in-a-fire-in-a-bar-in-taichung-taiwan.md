@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/6/nine-people-are-killed-and-12-injured-in-a-fire-in-a-bar-in-taichung-taiwan.html)  [JSON](/news/2011/03/6/nine-people-are-killed-and-12-injured-in-a-fire-in-a-bar-in-taichung-taiwan.json)  [XML](/news/2011/03/6/nine-people-are-killed-and-12-injured-in-a-fire-in-a-bar-in-taichung-taiwan.xml)  
+
 ### [2011-03-6](/news/2011/03/6/index.md)
 
+##### Taichung
 # Nine people are killed and 12 injured in a fire in a bar in Taichung, Taiwan. 
 
 Nine people are killed and 11 more injured after a fire breaks out in a bar in the Taiwanese city of Taichung, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12658370)
 2. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aALL&ID=201103060014)

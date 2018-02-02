@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/18/new-brunswick-general-election-2006-new-brunswickers-oust-bernard-lord-s-tories-and-elect-a-liberal-majority-government-under-shawn-graha.html)  [JSON](/news/2006/09/18/new-brunswick-general-election-2006-new-brunswickers-oust-bernard-lord-s-tories-and-elect-a-liberal-majority-government-under-shawn-graha.json)  [XML](/news/2006/09/18/new-brunswick-general-election-2006-new-brunswickers-oust-bernard-lord-s-tories-and-elect-a-liberal-majority-government-under-shawn-graha.xml)  
+
 ### [2006-09-18](/news/2006/09/18/index.md)
 
+##### New Brunswick general election, 2006
 #  New Brunswick general election, 2006: New Brunswickers oust Bernard Lord's Tories and elect a Liberal majority government under Shawn Graham. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/nbvotes2006/story/2006/09/18/nb-libwinclose.html)
 

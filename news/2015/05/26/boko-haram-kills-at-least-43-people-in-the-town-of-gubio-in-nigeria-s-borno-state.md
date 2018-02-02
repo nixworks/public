@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/05/26/boko-haram-kills-at-least-43-people-in-the-town-of-gubio-in-nigeria-s-borno-state.html)  [JSON](/news/2015/05/26/boko-haram-kills-at-least-43-people-in-the-town-of-gubio-in-nigeria-s-borno-state.json)  [XML](/news/2015/05/26/boko-haram-kills-at-least-43-people-in-the-town-of-gubio-in-nigeria-s-borno-state.xml)  
+
 ### [2015-05-26](/news/2015/05/26/index.md)
 
+##### Boko Haram
 # Boko Haram kills at least 43 people in the town of Gubio in Nigeria's Borno State. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/05/26/us-nigeria-violence-bokoharam-idUSKBN0OB24220150526?feedType=RSS&feedName=worldNews)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/05/26/us-nigeria-violence-bokoharam-idUSKBN0OB24220150526?feedType=RSS&feedName=worldNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [Boko Haram: Boko Haram kills at least 43 people in the town of Gubio in Nigeria's Borno State. ](/news/2015/05/26/boko-haram-boko-haram-kills-at-least-43-people-in-the-town-of-gubio-in-nigeria-s-borno-state.md) _2017-08-27 03:42:24 (First version)_
+1. [Boko Haram kills at least 43 people in the town of Gubio in Nigeria's Borno State. ](/news/2015/05/26/boko-haram-kills-at-least-43-people-in-the-town-of-gubio-in-nigeria-s-borno-state.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [The United Nations suspends aid to dangerous areas of Nigeria's northeastern Borno State following Thursday's attack by Boko Haram (ISIL in Africa) on a humanitarian convoy where two soldiers and three civilians were wounded. However, UNICEF noted, aid will continue to the capital Maiduguri. ](/news/2016/07/29/the-united-nations-suspends-aid-to-dangerous-areas-of-nigeria-s-northeastern-borno-state-following-thursday-s-attack-by-boko-haram-isil-in.md) _Context: Boko Haram, Borno State, Nigeria_
 4. [Fighting in various remote villages in the Borno State of Nigeria kill at least one civilian and six Boko Haram militants. According to the Nigerian Army, they've rescued more than 5,000 hostages from the militants. ](/news/2016/06/26/fighting-in-various-remote-villages-in-the-borno-state-of-nigeria-kill-at-least-one-civilian-and-six-boko-haram-militants-according-to-the.md) _Context: Boko Haram, Borno State, Nigeria_
 5. [At least 30 people are killed after Boko Haram militants attack three villages in Nigeria's northeast Borno state. ](/news/2015/12/15/at-least-30-people-are-killed-after-boko-haram-militants-attack-three-villages-in-nigeria-s-northeast-borno-state.md) _Context: Boko Haram, Borno State, Nigeria_
-
-### Changes:
-
-1. [Boko Haram: Boko Haram kills at least 43 people in the town of Gubio in Nigeria's Borno State. ](/news/2015/05/26/boko-haram-boko-haram-kills-at-least-43-people-in-the-town-of-gubio-in-nigeria-s-borno-state.md) _2017-08-27 03:42:24 (First version)_
-1. [Boko Haram kills at least 43 people in the town of Gubio in Nigeria's Borno State. ](/news/2015/05/26/boko-haram-kills-at-least-43-people-in-the-town-of-gubio-in-nigeria-s-borno-state.md) _(Current version)_

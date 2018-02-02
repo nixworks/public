@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/21/rescuers-are-focusing-on-10-collapsed-buildings
 
 ### [2017-09-21](/news/2017/09/21/index.md)
 
+##### 2017 Central Mexico earthquake
 # Rescuers are focusing on 10 collapsed buildings where people may still be alive. Mexico City Mayor Miguel Angel Mancera reports the death toll is now at least 273, with 50 people still missing. 
 
 

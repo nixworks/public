@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/4/the-national-congress-of-bolivia-backs-a-new-law-on-child-labour-allowing-10-year-olds-into-the-workforce-under-special-conditions.html)  [JSON](/news/2014/07/4/the-national-congress-of-bolivia-backs-a-new-law-on-child-labour-allowing-10-year-olds-into-the-workforce-under-special-conditions.json)  [XML](/news/2014/07/4/the-national-congress-of-bolivia-backs-a-new-law-on-child-labour-allowing-10-year-olds-into-the-workforce-under-special-conditions.xml)  
+
 ### [2014-07-4](/news/2014/07/4/index.md)
 
+##### National Congress of Bolivia
 # The National Congress of Bolivia backs a new law on child labour, allowing 10-year-olds into the workforce under special conditions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AlJazeera](http://www.aljazeera.com/news/americas/2014/07/bolivia-congress-approves-child-labour-law-20147322484792982.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/images/2014/7/3//20147323148336734_20.jpg)

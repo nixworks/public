@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/13/ma-ying-jeou-the-party-chairman-of-the-kuomintang-resigns-after-being-indicted-by-the-taiwan-high-prosecutors-office-on-charges-of-embezz.html)  [JSON](/news/2007/02/13/ma-ying-jeou-the-party-chairman-of-the-kuomintang-resigns-after-being-indicted-by-the-taiwan-high-prosecutors-office-on-charges-of-embezz.json)  [XML](/news/2007/02/13/ma-ying-jeou-the-party-chairman-of-the-kuomintang-resigns-after-being-indicted-by-the-taiwan-high-prosecutors-office-on-charges-of-embezz.xml)  
+
 ### [2007-02-13](/news/2007/02/13/index.md)
 
+##### Ma Ying-jeou
 #  Ma Ying-jeou, the party chairman of the Kuomintang, resigns after being indicted by the Taiwan High Prosecutors Office on charges of embezzlement during his tenure as the mayor of Taipei. 
 
 Chinese Nationalist Party (KMT) chief Ma Ying-jeou (馬英九) stepped down
 
 
-### Source:
+### Sources:
 
 1. [Taipei Times News](http://www.taipeitimes.com/News/front/archives/2007/02/13/2003348887)
 1. [Cover Image](http://www.taipeitimes.com/images/logo.gif)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/20/romanian-protests-thousands-of-people-demonstrate-demanding-the-resignation-of-president-traian-basescu-and-the-boc-ii-cabinet.html)  [JSON](/news/2012/01/20/romanian-protests-thousands-of-people-demonstrate-demanding-the-resignation-of-president-traian-basescu-and-the-boc-ii-cabinet.json)  [XML](/news/2012/01/20/romanian-protests-thousands-of-people-demonstrate-demanding-the-resignation-of-president-traian-basescu-and-the-boc-ii-cabinet.xml)  
+
 ### [2012-01-20](/news/2012/01/20/index.md)
 
+##### major social and political unrest
 # Romanian protests: Thousands of people demonstrate demanding the resignation of president Traian Basescu and the Boc II Cabinet. 
 
 Thursday saw some of the largest protests in Romania in years as thousands of people gathered in the capital Bucharest, calling on the government to resign.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-16644330)
 1. [Cover Image](http://playlists.bbc.co.uk/news/world-europe-16644330A/playlist.sxml)

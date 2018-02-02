@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/1/goalkeeper-kodjovi-obilala-c-shot-in-the-togo-national-football-team-attack-prior-to-the-2010-africa-cup-of-nations-in-angola-is-to-return.html)  [JSON](/news/2010/03/1/goalkeeper-kodjovi-obilala-c-shot-in-the-togo-national-football-team-attack-prior-to-the-2010-africa-cup-of-nations-in-angola-is-to-return.json)  [XML](/news/2010/03/1/goalkeeper-kodjovi-obilala-c-shot-in-the-togo-national-football-team-attack-prior-to-the-2010-africa-cup-of-nations-in-angola-is-to-return.xml)  
+
 ### [2010-03-1](/news/2010/03/1/index.md)
 
+##### Kodjovi Obilale
 # Goalkeeper Kodjovi Obilale, shot in the Togo national football team attack prior to the 2010 Africa Cup of Nations in Angola, is to return to France after emergency surgery in Johannesburg. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Netherlands Worldwide](http://www.rnw.nl/africa/article/shot-togolese-goalkeeper-return-france)
 2. [Reuters South Africa](http://af.reuters.com/article/sportsNews/idAFJOE6200BU20100301)

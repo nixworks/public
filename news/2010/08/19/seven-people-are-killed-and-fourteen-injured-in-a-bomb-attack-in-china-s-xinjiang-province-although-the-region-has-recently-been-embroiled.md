@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/08/19/seven-people-are-killed-and-fourteen-injured-in-a-bomb-attack-in-china-s-xinjiang-province-although-the-region-has-recently-been-embroiled.html)  [JSON](/news/2010/08/19/seven-people-are-killed-and-fourteen-injured-in-a-bomb-attack-in-china-s-xinjiang-province-although-the-region-has-recently-been-embroiled.json)  [XML](/news/2010/08/19/seven-people-are-killed-and-fourteen-injured-in-a-bomb-attack-in-china-s-xinjiang-province-although-the-region-has-recently-been-embroiled.xml)  
+
 ### [2010-08-19](/news/2010/08/19/index.md)
 
+##### bomb attack
 # Seven people are killed and fourteen injured in a bomb attack in China's Xinjiang province. Although the region has recently been embroiled in violence including Muslim separatists and majority Han Chinese, the attack is being investigated as a criminal case. 
 
 Blast hits crowd of people in restive west, officials blame a minority Uighur.
 
 
-### Source:
+### Sources:
 
-1. [AP](http://news.yahoo.com/s/ap/20100819/ap_on_re_as/as_china_xinjiang_explosion)
+1. [AP](https://news.yahoo.com/s/ap/20100819/ap_on_re_as/as_china_xinjiang_explosion)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/2010819102454243887.html)
 2. [Cover Image](http://www.aljazeera.com)
 

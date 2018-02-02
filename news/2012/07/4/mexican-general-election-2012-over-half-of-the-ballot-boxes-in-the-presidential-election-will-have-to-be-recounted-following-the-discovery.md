@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/4/mexican-general-election-2012-over-half-of-the-ballot-boxes-in-the-presidential-election-will-have-to-be-recounted-following-the-discovery.html)  [JSON](/news/2012/07/4/mexican-general-election-2012-over-half-of-the-ballot-boxes-in-the-presidential-election-will-have-to-be-recounted-following-the-discovery.json)  [XML](/news/2012/07/4/mexican-general-election-2012-over-half-of-the-ballot-boxes-in-the-presidential-election-will-have-to-be-recounted-following-the-discovery.xml)  
+
 ### [2012-07-4](/news/2012/07/4/index.md)
 
+##### Mexican presidential elections
 # Mexican general election, 2012: Over half of the ballot boxes in the Presidential election will have to be recounted following the discovery of voting irregularities. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://latino.foxnews.com/latino/politics/2012/07/04/mexican-elections-partial-recount-needed-amid-inconsistencies/)
 

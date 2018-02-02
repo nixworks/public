@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/10/a-group-of-german-jews-prepare-to-send-a-ship-with-humanitarian-aid-to-the-blockaded-gaza-strip.html)  [JSON](/news/2010/06/10/a-group-of-german-jews-prepare-to-send-a-ship-with-humanitarian-aid-to-the-blockaded-gaza-strip.json)  [XML](/news/2010/06/10/a-group-of-german-jews-prepare-to-send-a-ship-with-humanitarian-aid-to-the-blockaded-gaza-strip.xml)  
+
 ### [2010-06-10](/news/2010/06/10/index.md)
 
+##### German
 # A group of German Jews prepare to send a ship with humanitarian aid to the blockaded Gaza Strip. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iTX2VDU-9pMxFVsHkOPlsxJ2SuPw)
 

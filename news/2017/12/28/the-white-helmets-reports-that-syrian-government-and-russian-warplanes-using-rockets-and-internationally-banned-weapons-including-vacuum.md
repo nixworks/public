@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/28/the-white-helmets-reports-that-syrian-governmen
 
 ### [2017-12-28](/news/2017/12/28/index.md)
 
+##### Syrian Civil War
 # The White Helmets reports that Syrian government and Russian warplanes, using rockets and internationally-banned weapons - including vacuum bombs, repeatedly strike residential areas in the town of Al-Lataminah and six villages in Idlib province, killing 22 people. 
 
 
@@ -17,6 +18,6 @@ Formats: [HTML](/news/2017/12/28/the-white-helmets-reports-that-syrian-governmen
 
 1. [A Russian airstrike using napalm kills at least ten civilians, including four children and six women from one family, in Idlib's town of Khan Shaykhun, according to the leader of the White Helmets. ](/news/2017/12/17/a-russian-airstrike-using-napalm-kills-at-least-ten-civilians-including-four-children-and-six-women-from-one-family-in-idlib-s-town-of-kha.md) _Context: Syrian Civil War, White Helmets_
 2. [Seven members of the White Helmets are shot dead by unidentified gunmen who stormed their office in rebel-held Sarmin, in northwestern Syria. ](/news/2017/08/12/seven-members-of-the-white-helmets-are-shot-dead-by-unidentified-gunmen-who-stormed-their-office-in-rebel-held-sarmin-in-northwestern-syria.md) _Context: Syrian Civil War, White Helmets_
-3. [The Syrian Observatory for Human Rights claims that 10 people have been killed in an air strike on a hospital in the town of Milis in Syria's Idlib province. ](/news/2016/08/6/the-syrian-observatory-for-human-rights-claims-that-10-people-have-been-killed-in-an-air-strike-on-a-hospital-in-the-town-of-milis-in-syria.md) _Context: Idlib province, Syrian Civil War_
-4. [Russian and Syrian government jets conduct 26 airstrikes across Idlib province, killing 122 civilians. ](/news/2016/08/14/russian-and-syrian-government-jets-conduct-26-airstrikes-across-idlib-province-killing-122-civilians.md) _Context: Idlib province, Syrian Civil War_
-5. [Russian jets carry out airstrikes in a village in the northwestern Idlib Governorate, where a de-escalation zone exists, killing at least five civilians. ](/news/2017/12/8/russian-jets-carry-out-airstrikes-in-a-village-in-the-northwestern-idlib-governorate-where-a-de-escalation-zone-exists-killing-at-least-fi.md) _Context: Syrian Civil War_
+3. [Russian and Syrian government jets conduct 26 airstrikes across Idlib province, killing 122 civilians. ](/news/2016/08/14/russian-and-syrian-government-jets-conduct-26-airstrikes-across-idlib-province-killing-122-civilians.md) _Context: Idlib province, Syrian Civil War_
+4. [An explosion at the headquarters of the Chechen-led Ajnad al-Kavkaz rebel group in Idlib, Syria, kills at least 23 people, while several people remain unaccounted for, according to the Syrian Observatory for Human Rights. ](/news/2018/01/7/an-explosion-at-the-headquarters-of-the-chechen-led-ajnad-al-kavkaz-rebel-group-in-idlib-syria-kills-at-least-23-people-while-several-peo.md) _Context: Syrian Civil War_
+5. [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md) _Context: Syrian Civil War_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/9/vice-president-of-afghanistan-mohammed-fahim-dies-at-the-age-of-57-due-to-natural-causes.html)  [JSON](/news/2014/03/9/vice-president-of-afghanistan-mohammed-fahim-dies-at-the-age-of-57-due-to-natural-causes.json)  [XML](/news/2014/03/9/vice-president-of-afghanistan-mohammed-fahim-dies-at-the-age-of-57-due-to-natural-causes.xml)  
+
 ### [2014-03-9](/news/2014/03/9/index.md)
 
+##### Vice President of Afghanistan
 # Vice President of Afghanistan Mohammed Fahim dies at the age of 57 due to natural causes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/2014/03/09/afghanistan-vp-dies-idINDEEA2803C20140309)
 1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140309&t=2&i=857795755&w=&fh=545px&fw=&ll=&pl=&sq=&r=CDEEA280PQ700)

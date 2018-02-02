@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/29/in-taiwan-thousands-of-mourners-attend-the-funeral-of-reputed-gangster-hsu-hai-ching.html)  [JSON](/news/2005/05/29/in-taiwan-thousands-of-mourners-attend-the-funeral-of-reputed-gangster-hsu-hai-ching.json)  [XML](/news/2005/05/29/in-taiwan-thousands-of-mourners-attend-the-funeral-of-reputed-gangster-hsu-hai-ching.xml)  
+
 ### [2005-05-29](/news/2005/05/29/index.md)
 
+##### Taiwan
 #  In Taiwan, thousands of mourners attend the funeral of reputed gangster Hsu Hai-ching. 
 
 About 10,000 black-clad gangsters, friends and family took part in the funeral of veteran gangster Hsu Hai-ching (許海清) in Taipei yesterday afternoon as police videotaped the funeral procession to keep tabs on criminals.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4592285.stm)
 2. [Taipei Times](http://www.taipeitimes.com/News/taiwan/archives/2005/05/30/2003257192)

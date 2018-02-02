@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/3/the-commander-of-u-s-forces-at-guantanamo-bay-cuba-reported-five-known-incidents-of-mishandling-the-qur-an-by-guards-at-the-detention-fac.html)  [JSON](/news/2005/06/3/the-commander-of-u-s-forces-at-guantanamo-bay-cuba-reported-five-known-incidents-of-mishandling-the-qur-an-by-guards-at-the-detention-fac.json)  [XML](/news/2005/06/3/the-commander-of-u-s-forces-at-guantanamo-bay-cuba-reported-five-known-incidents-of-mishandling-the-qur-an-by-guards-at-the-detention-fac.xml)  
+
 ### [2005-06-3](/news/2005/06/3/index.md)
 
+##### Qur'an
 #  The commander of U.S. Forces at Guantnamo Bay, Cuba reported five known incidents of mishandling the Qur'an by guards at the detention facility, including one incident in which a Qur'an was accidentally splashed with urine. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4608949.stm)
 

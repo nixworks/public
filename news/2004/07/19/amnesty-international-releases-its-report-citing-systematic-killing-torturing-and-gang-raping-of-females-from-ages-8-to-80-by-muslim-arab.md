@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/07/19/amnesty-international-releases-its-report-citing-systematic-killing-torturing-and-gang-raping-of-females-from-ages-8-to-80-by-muslim-arab.html)  [JSON](/news/2004/07/19/amnesty-international-releases-its-report-citing-systematic-killing-torturing-and-gang-raping-of-females-from-ages-8-to-80-by-muslim-arab.json)  [XML](/news/2004/07/19/amnesty-international-releases-its-report-citing-systematic-killing-torturing-and-gang-raping-of-females-from-ages-8-to-80-by-muslim-arab.xml)  
+
 ### [2004-07-19](/news/2004/07/19/index.md)
 
+##### Amnesty International
 #  Amnesty International releases its report citing systematic killing, torturing and gang raping of females from ages 8 to 80 by Muslim Arab Janjaweed militia in the Darfur region of Sudan. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [Amnesty](http://web.amnesty.org/library/index/engafr540842004)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5705469&section=news)
-2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5705469&section=news)
 
 ### Related:
 

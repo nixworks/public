@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/31/the-final-flight-of-an-air-france-concorde-takes-place-landing-at-charles-de-gaulle-airport-british-airways-plans-to-retire-its-concorde.html)  [JSON](/news/2003/05/31/the-final-flight-of-an-air-france-concorde-takes-place-landing-at-charles-de-gaulle-airport-british-airways-plans-to-retire-its-concorde.json)  [XML](/news/2003/05/31/the-final-flight-of-an-air-france-concorde-takes-place-landing-at-charles-de-gaulle-airport-british-airways-plans-to-retire-its-concorde.xml)  
+
 ### [2003-05-31](/news/2003/05/31/index.md)
 
+##### Air France
 #  The final flight of an Air France Concorde takes place, landing at Charles de Gaulle Airport. British Airways plans to retire its Concorde fleet at the end of October.
 
 

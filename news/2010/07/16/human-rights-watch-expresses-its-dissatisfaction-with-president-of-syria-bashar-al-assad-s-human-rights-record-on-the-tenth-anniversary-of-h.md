@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/16/human-rights-watch-expresses-its-dissatisfaction-with-president-of-syria-bashar-al-assad-s-human-rights-record-on-the-tenth-anniversary-of-h.html)  [JSON](/news/2010/07/16/human-rights-watch-expresses-its-dissatisfaction-with-president-of-syria-bashar-al-assad-s-human-rights-record-on-the-tenth-anniversary-of-h.json)  [XML](/news/2010/07/16/human-rights-watch-expresses-its-dissatisfaction-with-president-of-syria-bashar-al-assad-s-human-rights-record-on-the-tenth-anniversary-of-h.xml)  
+
 ### [2010-07-16](/news/2010/07/16/index.md)
 
+##### Human Rights Watch
 # Human Rights Watch expresses its dissatisfaction with President of Syria Bashar al-Assad's human rights record on the tenth anniversary of his rise to the top, calling it "a wasted decade". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/2010716124717853939.html)
 1. [Cover Image](http://www.aljazeera.com)

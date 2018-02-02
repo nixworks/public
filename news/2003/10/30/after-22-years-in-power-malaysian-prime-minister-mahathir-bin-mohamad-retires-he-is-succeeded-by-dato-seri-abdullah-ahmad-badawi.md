@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/30/after-22-years-in-power-malaysian-prime-minister-mahathir-bin-mohamad-retires-he-is-succeeded-by-dato-seri-abdullah-ahmad-badawi.html)  [JSON](/news/2003/10/30/after-22-years-in-power-malaysian-prime-minister-mahathir-bin-mohamad-retires-he-is-succeeded-by-dato-seri-abdullah-ahmad-badawi.json)  [XML](/news/2003/10/30/after-22-years-in-power-malaysian-prime-minister-mahathir-bin-mohamad-retires-he-is-succeeded-by-dato-seri-abdullah-ahmad-badawi.xml)  
+
 ### [2003-10-30](/news/2003/10/30/index.md)
 
+##### Mahathir Mohamad
 #  After 22 years in power, Malaysian Prime Minister Mahathir bin Mohamad retires. He is succeeded by Dato' Seri Abdullah Ahmad Badawi
 
 

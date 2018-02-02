@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/07/16/bashar-assad-is-sworn-in-to-serve-his-third-term-as-president-of-syria.html)  [JSON](/news/2014/07/16/bashar-assad-is-sworn-in-to-serve-his-third-term-as-president-of-syria.json)  [XML](/news/2014/07/16/bashar-assad-is-sworn-in-to-serve-his-third-term-as-president-of-syria.xml)  
+
 ### [2014-07-16](/news/2014/07/16/index.md)
 
+##### Bashar Assad's
 # Bashar Assad is sworn in to serve his third term as President of Syria. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/middle_east/syrian-president-assad-to-be-sworn-in-for-3rd-term/2014/07/16/6e80ba64-0cc8-11e4-bd4e-462c357f0998_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/middle_east/syrian-president-assad-to-be-sworn-in-for-3rd-term/2014/07/16/6e80ba64-0cc8-11e4-bd4e-462c357f0998_story.html)
 
 ### Related:
 

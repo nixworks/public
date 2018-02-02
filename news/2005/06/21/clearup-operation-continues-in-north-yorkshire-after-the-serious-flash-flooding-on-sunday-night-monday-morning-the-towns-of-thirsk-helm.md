@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/06/21/clearup-operation-continues-in-north-yorkshire-after-the-serious-flash-flooding-on-sunday-night-monday-morning-the-towns-of-thirsk-helm.html)  [JSON](/news/2005/06/21/clearup-operation-continues-in-north-yorkshire-after-the-serious-flash-flooding-on-sunday-night-monday-morning-the-towns-of-thirsk-helm.json)  [XML](/news/2005/06/21/clearup-operation-continues-in-north-yorkshire-after-the-serious-flash-flooding-on-sunday-night-monday-morning-the-towns-of-thirsk-helm.xml)  
+
 ### [2005-06-21](/news/2005/06/21/index.md)
 
+##### North Yorkshire
 #  Clearup operation continues in North Yorkshire after the serious flash flooding on Sunday Night - Monday Morning. The towns of Thirsk, Helmsley and Hawnby were seriously affected, as were several villages when the rivers Swale and Rye burst their banks.
 
 

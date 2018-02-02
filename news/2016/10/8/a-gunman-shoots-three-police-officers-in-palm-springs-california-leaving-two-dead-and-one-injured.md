@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/8/a-gunman-shoots-three-police-officers-in-palm-sp
 
 ### [2016-10-8](/news/2016/10/8/index.md)
 
+##### Palm Springs, California
 # A gunman shoots three police officers in Palm Springs, California, leaving two dead and one injured. 
 
 Suspect arrested 12 hours after fatal shooting of two Palm Springs police officers.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/22/thousands-of-students-in-rebel-islamist-controlled-northern-mali-leave-schools-after-the-imposition-of-sharia-law.html)  [JSON](/news/2012/06/22/thousands-of-students-in-rebel-islamist-controlled-northern-mali-leave-schools-after-the-imposition-of-sharia-law.json)  [XML](/news/2012/06/22/thousands-of-students-in-rebel-islamist-controlled-northern-mali-leave-schools-after-the-imposition-of-sharia-law.xml)  
+
 ### [2012-06-22](/news/2012/06/22/index.md)
 
+##### Islamist
 # Thousands of students in rebel Islamist-controlled northern Mali leave schools after the imposition of Sharia law. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IRIN](http://www.irinnews.org/Report/95713/MALI-Students-flee-Sharia-in-northern-schools)
 

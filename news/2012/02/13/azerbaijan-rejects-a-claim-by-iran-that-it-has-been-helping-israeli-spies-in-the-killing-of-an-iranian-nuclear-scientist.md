@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/13/azerbaijan-rejects-a-claim-by-iran-that-it-has-been-helping-israeli-spies-in-the-killing-of-an-iranian-nuclear-scientist.html)  [JSON](/news/2012/02/13/azerbaijan-rejects-a-claim-by-iran-that-it-has-been-helping-israeli-spies-in-the-killing-of-an-iranian-nuclear-scientist.json)  [XML](/news/2012/02/13/azerbaijan-rejects-a-claim-by-iran-that-it-has-been-helping-israeli-spies-in-the-killing-of-an-iranian-nuclear-scientist.xml)  
+
 ### [2012-02-13](/news/2012/02/13/index.md)
 
+##### Azerbaijan
 # Azerbaijan rejects a claim by Iran that it has been helping Israeli spies in the killing of an Iranian nuclear scientist. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Trend News Agency](http://en.trend.az/regions/scaucasus/azerbaijan/1991494.html)
 

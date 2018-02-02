@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2006/06/6/the-sudanese-janjaweed-steal-350-head-of-cattle-from-goz-beida-chad.html)  [JSON](/news/2006/06/6/the-sudanese-janjaweed-steal-350-head-of-cattle-from-goz-beida-chad.json)  [XML](/news/2006/06/6/the-sudanese-janjaweed-steal-350-head-of-cattle-from-goz-beida-chad.xml)  
+
 ### [2006-06-6](/news/2006/06/6/index.md)
 
+##### Chad-Sudan conflict
 #  The Sudanese Janjaweed steal 350 head of cattle from Goz Beida, Chad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Mail and Guardian](http://www.mg.co.za/articlepage.aspx?area=/breaking_news/breaking_news__africa/&articleid=273709)
 2. [Voice of America](http://www.voanews.com/english/2006-06-06-voa17.cfm)
+
+### Changes:
+
+1. [ Chad-Sudan conflict: The Sudanese Janjaweed steal 350 head of cattle from Goz Beida, Chad. ](/news/2006/06/6/chad-sudan-conflict-the-sudanese-janjaweed-steal-350-head-of-cattle-from-goz-beida-chad.md) _2017-08-27 03:17:44 (First version)_
+1. [ The Sudanese Janjaweed steal 350 head of cattle from Goz Beida, Chad. ](/news/2006/06/6/the-sudanese-janjaweed-steal-350-head-of-cattle-from-goz-beida-chad.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [ Janjaweed militants cross the Sudanese border into Chad and attack the villages of Boroto, Ade, and Moudaina, killing nine and seriously wounding three others. Chad once again warns Sudan that it will retaliate for attacks by Janjaweed and UFDC rebel attacks. ](/news/2006/01/6/janjaweed-militants-cross-the-sudanese-border-into-chad-and-attack-the-villages-of-boroto-ade-and-moudaina-killing-nine-and-seriously-wo.md) _Context: Chad, Janjaweed, Sudan_
 4. [ United States Secretary of State Colin Powell declares that the actions of the Janjaweed Arab militia in Darfur constitute genocide. Powell holds the government of Sudan responsible. Up to 50,000 ethnic Africans have been killed and 2.2 million displaced into refugee camps in neighboring Chad by ethnic Arab militias. ](/news/2004/09/9/united-states-secretary-of-state-colin-powell-declares-that-the-actions-of-the-janjaweed-arab-militia-in-darfur-constitute-genocide-powell.md) _Context: Chad, Janjaweed, Sudan_
 5. [The White House announces that citizens of North Korea, Venezuela, and Chad will be restricted from travelling to the United States, along with citizens of the six nations previously listed in Executive Order 13780 with the exception of Sudan. ](/news/2017/09/24/the-white-house-announces-that-citizens-of-north-korea-venezuela-and-chad-will-be-restricted-from-travelling-to-the-united-states-along-w.md) _Context: Chad, Sudan_
-
-### Changes:
-
-1. [ Chad-Sudan conflict: The Sudanese Janjaweed steal 350 head of cattle from Goz Beida, Chad. ](/news/2006/06/6/chad-sudan-conflict-the-sudanese-janjaweed-steal-350-head-of-cattle-from-goz-beida-chad.md) _2017-08-27 03:17:44 (First version)_
-1. [ The Sudanese Janjaweed steal 350 head of cattle from Goz Beida, Chad. ](/news/2006/06/6/the-sudanese-janjaweed-steal-350-head-of-cattle-from-goz-beida-chad.md) _(Current version)_

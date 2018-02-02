@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/5/newly-released-files-which-can-be.html)  [JSON](/news/2010/08/5/newly-released-files-which-can-be.json)  [XML](/news/2010/08/5/newly-released-files-which-can-be.xml)  
+
 ### [2010-08-5](/news/2010/08/5/index.md)
 
+##### 
 # Newly released files, which can be 
 
 Declassified files from the last century show government concerns over UFOs, and reveal that Winston Churchill ordered a cover-up to prevent &quot;mass panic&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-10853905)
 2. [France24](http://www.france24.com/en/20100805-churchill-banned-ufo-report-avoid-mass-panic)

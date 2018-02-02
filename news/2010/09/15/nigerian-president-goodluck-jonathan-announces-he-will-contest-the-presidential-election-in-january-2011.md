@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/15/nigerian-president-goodluck-jonathan-announces-he-will-contest-the-presidential-election-in-january-2011.html)  [JSON](/news/2010/09/15/nigerian-president-goodluck-jonathan-announces-he-will-contest-the-presidential-election-in-january-2011.json)  [XML](/news/2010/09/15/nigerian-president-goodluck-jonathan-announces-he-will-contest-the-presidential-election-in-january-2011.xml)  
+
 ### [2010-09-15](/news/2010/09/15/index.md)
 
+##### Nigeria
 # Nigerian President Goodluck Jonathan announces he will contest the presidential election in January 2011. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hnjE8uDziqc5aQ7vnIkOTkqrogywD9I8G9CG0)
 2. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=131909)

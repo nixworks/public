@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/11/13/microsoft-admits-that-the-windows-7-usb-dvd-download-tool-contains-code-that-is-covered-by-the-gnu-general-public-license-and-offers-to-mak.html)  [JSON](/news/2009/11/13/microsoft-admits-that-the-windows-7-usb-dvd-download-tool-contains-code-that-is-covered-by-the-gnu-general-public-license-and-offers-to-mak.json)  [XML](/news/2009/11/13/microsoft-admits-that-the-windows-7-usb-dvd-download-tool-contains-code-that-is-covered-by-the-gnu-general-public-license-and-offers-to-mak.xml)  
+
 ### [2009-11-13](/news/2009/11/13/index.md)
 
+##### Microsoft
 #  Microsoft admits that the Windows 7 USB-DVD download tool contains code that is covered by the GNU General Public License and offers to make it available under the terms of that license. 
 
 Microsoft has acknowledged that it incorporated open-source code into a Windows 7 download tool. As a result, it will make that tool&#39;s source code available to the community.
 
 
-### Source:
+### Sources:
 
-1. [PC Magazine](http://www.pcmag.com/article2/0,2817,2355892,00.asp)
+1. [PC Magazine](https://www.pcmag.com/article2/0,2817,2355892,00.asp)
 
 ### Related:
 

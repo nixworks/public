@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/28/egypt-s-general-prosecutor-imposes-a-travel-ban-on-former-president-hosni-mubarak-and-his-family.html)  [JSON](/news/2011/02/28/egypt-s-general-prosecutor-imposes-a-travel-ban-on-former-president-hosni-mubarak-and-his-family.json)  [XML](/news/2011/02/28/egypt-s-general-prosecutor-imposes-a-travel-ban-on-former-president-hosni-mubarak-and-his-family.xml)  
+
 ### [2011-02-28](/news/2011/02/28/index.md)
 
+##### Egypt
 # Egypt's general prosecutor imposes a travel ban on former President Hosni Mubarak and his family. 
 
 Prosecutor also orders financial assets of former president and his family inside country frozen pending investigation.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011228111333371538.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/14/2011214153126911436_20.jpg)

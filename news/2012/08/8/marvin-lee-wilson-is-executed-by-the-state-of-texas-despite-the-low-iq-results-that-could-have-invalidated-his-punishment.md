@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/8/marvin-lee-wilson-is-executed-by-the-state-of-texas-despite-the-low-iq-results-that-could-have-invalidated-his-punishment.html)  [JSON](/news/2012/08/8/marvin-lee-wilson-is-executed-by-the-state-of-texas-despite-the-low-iq-results-that-could-have-invalidated-his-punishment.json)  [XML](/news/2012/08/8/marvin-lee-wilson-is-executed-by-the-state-of-texas-despite-the-low-iq-results-that-could-have-invalidated-his-punishment.xml)  
+
 ### [2012-08-8](/news/2012/08/8/index.md)
 
+##### Marvin Lee Wilson
 # Marvin Lee Wilson is executed by the state of Texas despite the low IQ results that could have invalidated his punishment. 
 
 Marvin Wilson was convicted for killing a police informant in 1992; Prosecutors said low IQ test result was faulty
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/8301-201_162-57488757/texas-executes-man-despite-low-iq-claims/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/08/07/d00a3b7b-a644-11e2-a3f0-029118418759/marvin_wilson_AP91608893215.jpg)

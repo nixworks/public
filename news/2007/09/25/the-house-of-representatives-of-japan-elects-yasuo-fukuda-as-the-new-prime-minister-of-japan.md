@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/25/the-house-of-representatives-of-japan-elects-yasuo-fukuda-as-the-new-prime-minister-of-japan.html)  [JSON](/news/2007/09/25/the-house-of-representatives-of-japan-elects-yasuo-fukuda-as-the-new-prime-minister-of-japan.json)  [XML](/news/2007/09/25/the-house-of-representatives-of-japan-elects-yasuo-fukuda-as-the-new-prime-minister-of-japan.xml)  
+
 ### [2007-09-25](/news/2007/09/25/index.md)
 
+##### House of Representatives
 #  The House of Representatives of Japan elects Yasuo Fukuda as the new Prime Minister of Japan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/09/25/japan.pm.ap/index.html?eref=rss_topstories)
 

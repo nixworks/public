@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/19/three-soldiers-are-killed-in-an-ambush-in-assam
 
 ### [2016-11-19](/news/2016/11/19/index.md)
 
+##### Insurgency in Northeast India
 #  Three soldiers are killed in an ambush in Assam. 
 
 DIBRUGARH/GUWAHATI: In one of the biggest attacks on security forces in Assam in two decades, three Army jawans were killed and four seriously injured when suspected Ulfa (Independent) and NSCN(K) militants ambushed their convoy after triggering an IED blast in Pengeri area in Tinsukia district on Saturday.

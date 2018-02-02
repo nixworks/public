@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2012/12/17/famous-actor-ga-c-rard-depardieu-decides-to-give-up-his-french-citizenship-and-move-to-belgium-for-a-permanent-residence-to-avoid-taxes.html)  [JSON](/news/2012/12/17/famous-actor-ga-c-rard-depardieu-decides-to-give-up-his-french-citizenship-and-move-to-belgium-for-a-permanent-residence-to-avoid-taxes.json)  [XML](/news/2012/12/17/famous-actor-ga-c-rard-depardieu-decides-to-give-up-his-french-citizenship-and-move-to-belgium-for-a-permanent-residence-to-avoid-taxes.xml)  
+
 ### [2012-12-17](/news/2012/12/17/index.md)
 
+##### Gerard Depardieu
 # Famous actor Gerard Depardieu decides to give up his French citizenship and move to Belgium for a permanent residence to avoid taxes. 
 
 French actor Gerard Depardieu says he is handing back his French passport after the prime minister criticised him for moving to Belgium to avoid taxes.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20750593)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/9750433/Belgium-says-it-will-not-be-scapegoat-over-Gerard-Depardieu.html)
-3. [The Washington Post](http://www.washingtonpost.com/business/president-salutes-french-entrepreneurs-who-stay-after-actor-depardieu-fuels-tax-exile-debate/2012/12/17/a45458f4-4874-11e2-8af9-9b50cb4605a7_story.html)
+3. [The Washington Post](https://www.washingtonpost.com/business/president-salutes-french-entrepreneurs-who-stay-after-actor-depardieu-fuels-tax-exile-debate/2012/12/17/a45458f4-4874-11e2-8af9-9b50cb4605a7_story.html)
 3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64797000/jpg/_64797500_016755399.jpg)
 
 ### Related:

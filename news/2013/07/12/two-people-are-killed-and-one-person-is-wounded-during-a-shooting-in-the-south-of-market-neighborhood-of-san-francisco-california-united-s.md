@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/12/two-people-are-killed-and-one-person-is-wounded-during-a-shooting-in-the-south-of-market-neighborhood-of-san-francisco-california-united-s.html)  [JSON](/news/2013/07/12/two-people-are-killed-and-one-person-is-wounded-during-a-shooting-in-the-south-of-market-neighborhood-of-san-francisco-california-united-s.json)  [XML](/news/2013/07/12/two-people-are-killed-and-one-person-is-wounded-during-a-shooting-in-the-south-of-market-neighborhood-of-san-francisco-california-united-s.xml)  
+
 ### [2013-07-12](/news/2013/07/12/index.md)
 
+##### South of Market
 # Two people are killed and one person is wounded during a shooting in the South of Market neighborhood of San Francisco, California, United States. A suspect is in custody. 
 
 Two women were killed and a man was injured Friday at a South of Market jewelry store, with the blood-soaked suspect emptying his revolver at police officers before surrendering, San Francisco police said. After talking to people in the five-story Gift Center and Jewelry Mart at 888 Brannan St. at Eighth Street, police concluded that &quot;this was not the first time (the suspect) had been seen in the building,&quot; the chief said. Esther Ishag, who works in the family-owned Design Jewelers, said she first heard of the shooting when a man passed her store and told them there was a man with a gun in the building. Shoppers have to have invitations from a shop owner because they need passes to get into the building. Besides the revolver, police also recovered a folding knife. Inside the jewelry mart, police found the bodies of two women inside the Victoga jewelry store in the basement, one of more than 100 small shops in the building. Hundreds of people in nearby stores and buildings, including the REI store and Zynga headquarters, were ordered to shelter in place while officers conducted their search of the building.
 
 
-### Source:
+### Sources:
 
 1. [San Francisco Chronicle](http://www.sfgate.com/bayarea/article/Two-shot-in-South-of-Market-4662510.php?cmpid=twitter)
 1. [Cover Image](http://ww3.hdnux.com/photos/22/56/50/4909582/6/rawImage.jpg)

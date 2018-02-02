@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/19/part-of-a-tunnel-in-the-moscow-metro-collapses-on-a-train-setting-the-train-on-fire-russian-emergency-services-were-dispatched-to-the-scen.html)  [JSON](/news/2006/03/19/part-of-a-tunnel-in-the-moscow-metro-collapses-on-a-train-setting-the-train-on-fire-russian-emergency-services-were-dispatched-to-the-scen.json)  [XML](/news/2006/03/19/part-of-a-tunnel-in-the-moscow-metro-collapses-on-a-train-setting-the-train-on-fire-russian-emergency-services-were-dispatched-to-the-scen.xml)  
+
 ### [2006-03-19](/news/2006/03/19/index.md)
 
+##### Moscow Metro
 #  Part of a tunnel in the Moscow Metro collapses on a train setting the train on fire. Russian emergency services were dispatched to the scene, passengers were evacuated, and no one was hurt. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4822440.stm)
 

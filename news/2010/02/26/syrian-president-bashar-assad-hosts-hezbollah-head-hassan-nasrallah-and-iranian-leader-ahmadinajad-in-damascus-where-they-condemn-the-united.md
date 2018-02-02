@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/26/syrian-president-bashar-assad-hosts-hezbollah-head-hassan-nasrallah-and-iranian-leader-ahmadinajad-in-damascus-where-they-condemn-the-united.html)  [JSON](/news/2010/02/26/syrian-president-bashar-assad-hosts-hezbollah-head-hassan-nasrallah-and-iranian-leader-ahmadinajad-in-damascus-where-they-condemn-the-united.json)  [XML](/news/2010/02/26/syrian-president-bashar-assad-hosts-hezbollah-head-hassan-nasrallah-and-iranian-leader-ahmadinajad-in-damascus-where-they-condemn-the-united.xml)  
+
 ### [2010-02-26](/news/2010/02/26/index.md)
 
+##### Syria
 # Syrian President Bashar Assad hosts Hezbollah head Hassan Nasrallah and Iranian leader Ahmadinajad in Damascus where they condemn the United States and Israel 
 
 Ahmadinejad, Nasrallah and Assad have dinner together, discuss &quot;threats.&quot;
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2010/WORLD/meast/02/25/iran.syria.talks/index.html)
 2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=169748)

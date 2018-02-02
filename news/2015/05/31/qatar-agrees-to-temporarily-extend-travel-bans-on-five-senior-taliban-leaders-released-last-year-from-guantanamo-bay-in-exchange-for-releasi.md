@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/05/31/qatar-agrees-to-temporarily-extend-travel-bans-on-five-senior-taliban-leaders-released-last-year-from-guantanamo-bay-in-exchange-for-releasi.html)  [JSON](/news/2015/05/31/qatar-agrees-to-temporarily-extend-travel-bans-on-five-senior-taliban-leaders-released-last-year-from-guantanamo-bay-in-exchange-for-releasi.json)  [XML](/news/2015/05/31/qatar-agrees-to-temporarily-extend-travel-bans-on-five-senior-taliban-leaders-released-last-year-from-guantanamo-bay-in-exchange-for-releasi.xml)  
+
 ### [2015-05-31](/news/2015/05/31/index.md)
 
+##### Qatar
 # Qatar agrees to temporarily extend travel bans on five senior Taliban leaders released last year from Guantanamo Bay in exchange for releasing American sergeant Bowe Bergdahl. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/qatar-extends-travel-ban-ex-gitmo-inmates-talks-205720572--politics.html)
+1. [AP via Yahoo! News](https://news.yahoo.com/qatar-extends-travel-ban-ex-gitmo-inmates-talks-205720572--politics.html)
 
 ### Related:
 

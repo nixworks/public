@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/28/24-is-cancelled.html)  [JSON](/news/2010/03/28/24-is-cancelled.json)  [XML](/news/2010/03/28/24-is-cancelled.xml)  
+
 ### [2010-03-28](/news/2010/03/28/index.md)
 
+##### 24
 # "24" is cancelled. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8591709.stm)
 

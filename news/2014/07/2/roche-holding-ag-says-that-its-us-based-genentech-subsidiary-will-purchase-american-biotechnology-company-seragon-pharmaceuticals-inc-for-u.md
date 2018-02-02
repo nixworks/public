@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/2/roche-holding-ag-says-that-its-us-based-genentech-subsidiary-will-purchase-american-biotechnology-company-seragon-pharmaceuticals-inc-for-u.html)  [JSON](/news/2014/07/2/roche-holding-ag-says-that-its-us-based-genentech-subsidiary-will-purchase-american-biotechnology-company-seragon-pharmaceuticals-inc-for-u.json)  [XML](/news/2014/07/2/roche-holding-ag-says-that-its-us-based-genentech-subsidiary-will-purchase-american-biotechnology-company-seragon-pharmaceuticals-inc-for-u.xml)  
+
 ### [2014-07-2](/news/2014/07/2/index.md)
 
+##### Roche Holding AG
 # Roche Holding AG says that its US-based Genentech subsidiary will purchase American biotechnology company Seragon Pharmaceuticals, Inc for up to $1.725 billion in cash and contingency payments. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_SWITZERLAND_ROCHE_SERAGON?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

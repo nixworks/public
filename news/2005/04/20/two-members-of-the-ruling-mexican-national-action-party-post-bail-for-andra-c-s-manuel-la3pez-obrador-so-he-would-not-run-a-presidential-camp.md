@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/04/20/two-members-of-the-ruling-mexican-national-action-party-post-bail-for-andra-c-s-manuel-la3pez-obrador-so-he-would-not-run-a-presidential-camp.html)  [JSON](/news/2005/04/20/two-members-of-the-ruling-mexican-national-action-party-post-bail-for-andra-c-s-manuel-la3pez-obrador-so-he-would-not-run-a-presidential-camp.json)  [XML](/news/2005/04/20/two-members-of-the-ruling-mexican-national-action-party-post-bail-for-andra-c-s-manuel-la3pez-obrador-so-he-would-not-run-a-presidential-camp.xml)  
+
 ### [2005-04-20](/news/2005/04/20/index.md)
 
+##### Mexico
 #  Two members of the ruling Mexican National Action Party post bail for Andres Manuel Lopez Obrador so he would not run a presidential campaign from jail. He cannot return to his post as mayor of Mexico City. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8245269)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8245269)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

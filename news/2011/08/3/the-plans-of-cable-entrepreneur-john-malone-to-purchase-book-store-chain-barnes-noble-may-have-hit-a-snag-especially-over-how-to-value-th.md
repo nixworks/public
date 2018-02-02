@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/3/the-plans-of-cable-entrepreneur-john-malone-to-purchase-book-store-chain-barnes-noble-may-have-hit-a-snag-especially-over-how-to-value-th.html)  [JSON](/news/2011/08/3/the-plans-of-cable-entrepreneur-john-malone-to-purchase-book-store-chain-barnes-noble-may-have-hit-a-snag-especially-over-how-to-value-th.json)  [XML](/news/2011/08/3/the-plans-of-cable-entrepreneur-john-malone-to-purchase-book-store-chain-barnes-noble-may-have-hit-a-snag-especially-over-how-to-value-th.xml)  
+
 ### [2011-08-3](/news/2011/08/3/index.md)
 
+##### John Malone
 # The plans of cable entrepreneur John Malone to purchase book store chain Barnes & Noble may have hit a snag, especially over how to value the B&N eReader, the Nook. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New York Post](http://www.nypost.com/p/news/business/malone_deal_to_buy_of_hits_snag_jkXdaK2dOParUfiDFuJSmM)
 

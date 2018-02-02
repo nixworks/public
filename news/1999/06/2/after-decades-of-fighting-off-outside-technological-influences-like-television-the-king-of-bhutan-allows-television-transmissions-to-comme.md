@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/06/2/after-decades-of-fighting-off-outside-technological-influences-like-television-the-king-of-bhutan-allows-television-transmissions-to-comme.html)  [JSON](/news/1999/06/2/after-decades-of-fighting-off-outside-technological-influences-like-television-the-king-of-bhutan-allows-television-transmissions-to-comme.json)  [XML](/news/1999/06/2/after-decades-of-fighting-off-outside-technological-influences-like-television-the-king-of-bhutan-allows-television-transmissions-to-comme.xml)  
+
 ### [1999-06-2](/news/1999/06/2/index.md)
 
+##### King of Bhutan
 #  After decades of fighting off outside technological influences like television, the King of Bhutan allows television transmissions to commence in the Kingdom for the first time, coinciding with the King's silver jubilee (see Bhutan Broadcasting Service).
 
 

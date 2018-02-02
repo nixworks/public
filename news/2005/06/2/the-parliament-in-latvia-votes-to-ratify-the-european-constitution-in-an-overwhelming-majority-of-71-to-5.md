@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/2/the-parliament-in-latvia-votes-to-ratify-the-european-constitution-in-an-overwhelming-majority-of-71-to-5.html)  [JSON](/news/2005/06/2/the-parliament-in-latvia-votes-to-ratify-the-european-constitution-in-an-overwhelming-majority-of-71-to-5.json)  [XML](/news/2005/06/2/the-parliament-in-latvia-votes-to-ratify-the-european-constitution-in-an-overwhelming-majority-of-71-to-5.xml)  
+
 ### [2005-06-2](/news/2005/06/2/index.md)
 
+##### Latvia
 #  The parliament in Latvia votes to ratify the European Constitution in an overwhelming majority of 71 to 5. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Spiegel online, German](http://www.spiegel.de/politik/ausland/0,1518,358659,00.html)
 

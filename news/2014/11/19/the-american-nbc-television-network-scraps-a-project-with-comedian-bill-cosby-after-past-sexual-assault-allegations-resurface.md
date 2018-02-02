@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/19/the-american-nbc-television-network-scraps-a-project-with-comedian-bill-cosby-after-past-sexual-assault-allegations-resurface.html)  [JSON](/news/2014/11/19/the-american-nbc-television-network-scraps-a-project-with-comedian-bill-cosby-after-past-sexual-assault-allegations-resurface.json)  [XML](/news/2014/11/19/the-american-nbc-television-network-scraps-a-project-with-comedian-bill-cosby-after-past-sexual-assault-allegations-resurface.xml)  
+
 ### [2014-11-19](/news/2014/11/19/index.md)
 
+##### NBC
 # The American NBC television network scraps a project with comedian Bill Cosby after past sexual assault allegations resurface. 
 
 US TV network NBC scraps a proposed Bill Cosby project after accusations that he sexually assaulted women resurfaced in recent weeks.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-30123343)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/79138000/jpg/_79138866_79138278.jpg)

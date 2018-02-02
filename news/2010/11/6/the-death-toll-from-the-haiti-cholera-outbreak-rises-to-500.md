@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/6/the-death-toll-from-the-haiti-cholera-outbreak-rises-to-500.html)  [JSON](/news/2010/11/6/the-death-toll-from-the-haiti-cholera-outbreak-rises-to-500.json)  [XML](/news/2010/11/6/the-death-toll-from-the-haiti-cholera-outbreak-rises-to-500.xml)  
+
 ### [2010-11-6](/news/2010/11/6/index.md)
 
+##### Haiti cholera outbreak
 # The death toll from the Haiti cholera outbreak rises to 500. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iBTf47ce60MW1p3dH7T5kkAp0cFw?docId=CNG.b7b0e11361e7847889195c6db3707f9e.1311)
 

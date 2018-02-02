@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/07/12/apple-s-chief-patent-lawyer-is-leaving-the-company-reuters-reports-amidst-a-slew-of-patent-related-conflicts-with-google-samsung-nokia.html)  [JSON](/news/2011/07/12/apple-s-chief-patent-lawyer-is-leaving-the-company-reuters-reports-amidst-a-slew-of-patent-related-conflicts-with-google-samsung-nokia.json)  [XML](/news/2011/07/12/apple-s-chief-patent-lawyer-is-leaving-the-company-reuters-reports-amidst-a-slew-of-patent-related-conflicts-with-google-samsung-nokia.xml)  
+
 ### [2011-07-12](/news/2011/07/12/index.md)
 
+##### Apple Inc.
 # Apple's chief patent lawyer is leaving the company, Reuters reports, amidst a slew of patent-related conflicts with Google, Samsung, Nokia, others. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/07/12/us-apple-hp-patent-idUSTRE76B0SF20110712)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110712&t=2&i=457490536&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-07-12T183511Z_01_BTRE76B0HVV00_RTROPTP_0_APPLE)
+1. [Reuters](https://www.reuters.com/article/2011/07/12/us-apple-hp-patent-idUSTRE76B0SF20110712)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20110712&t=2&i=457490536&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-07-12T183511Z_01_BTRE76B0HVV00_RTROPTP_0_APPLE)
 
 ### Related:
 

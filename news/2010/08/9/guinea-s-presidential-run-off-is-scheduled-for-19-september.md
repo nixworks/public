@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/9/guinea-s-presidential-run-off-is-scheduled-for-19-september.html)  [JSON](/news/2010/08/9/guinea-s-presidential-run-off-is-scheduled-for-19-september.json)  [XML](/news/2010/08/9/guinea-s-presidential-run-off-is-scheduled-for-19-september.xml)  
+
 ### [2010-08-9](/news/2010/08/9/index.md)
 
+##### Guinea
 # Guinea's presidential run-off is scheduled for 19 September. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10920366)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

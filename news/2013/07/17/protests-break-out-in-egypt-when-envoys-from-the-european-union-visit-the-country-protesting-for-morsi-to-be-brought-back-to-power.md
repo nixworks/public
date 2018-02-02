@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2013/07/17/protests-break-out-in-egypt-when-envoys-from-the-european-union-visit-the-country-protesting-for-morsi-to-be-brought-back-to-power.html)  [JSON](/news/2013/07/17/protests-break-out-in-egypt-when-envoys-from-the-european-union-visit-the-country-protesting-for-morsi-to-be-brought-back-to-power.json)  [XML](/news/2013/07/17/protests-break-out-in-egypt-when-envoys-from-the-european-union-visit-the-country-protesting-for-morsi-to-be-brought-back-to-power.xml)  
+
 ### [2013-07-17](/news/2013/07/17/index.md)
 
+##### Egypt
 # Protests break out in Egypt when envoys from the European Union visit the country, protesting for Morsi to be brought back to power. 
 
 Crowds again fill Cairo after EU foreign policy chief calls for deposed president to be freed from custody.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/07/2013717124459915328.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/7/18/20137182125535734_20.jpg)
 
 ### Related:
 
-1. [Thirty-thousand North Korean rocket propelled grenades are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (EGBP406 million-W20 billion). ](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.md) _Context: Egypt_
-2. [Palestinian factions, Hamas and Fatah, sign a unity deal in Cairo, that is also publicly supported by the governments of Egypt and Saudi Arabia. The Fatah-controlled Palestinian National Authority (PNA), along with Israel, currently govern the West Bank. According to the signatories of the deal, the PNA will take administrative control of the Gaza Strip, and, along with Hamas, police its borders. The signatories consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. The government of Israel opposes any involvement by Hamas in a Palestinian government. ](/news/2017/10/12/palestinian-factions-hamas-and-fatah-sign-a-unity-deal-in-cairo-that-is-also-publicly-supported-by-the-governments-of-egypt-and-saudi-ara.md) _Context: Egypt_
-3. [Egypt announces the discovery of a tomb in Luxor belonging to a royal goldsmith who lived more than 3,500 years ago in the 18th Dynasty. ](/news/2017/09/9/egypt-announces-the-discovery-of-a-tomb-in-luxor-belonging-to-a-royal-goldsmith-who-lived-more-than-3-500-years-ago-in-the-18th-dynasty.md) _Context: Egypt_
-4. [The European Court of Justice dismisses complaints by Slovakia and Hungary about EU migration policy, upholding Brussels' right to force member states to take in asylum seekers. ](/news/2017/09/6/the-european-court-of-justice-dismisses-complaints-by-slovakia-and-hungary-about-eu-migration-policy-upholding-brusselsa-right-to-force-m.md) _Context: EU_
-5. [Hamas, through Egyptian-mediated talks, agrees to dissolve its Gaza administration, hold talks with the Fatah West Bank government, and hold elections for a Palestinian unity government. ](/news/2017/09/17/hamas-through-egyptian-mediated-talks-agrees-to-dissolve-its-gaza-administration-hold-talks-with-the-fatah-west-bank-government-and-hold.md) _Context: Egypt_
+1. [Turkish President Recep Tayyip Erdogan says he is "tired" of waiting for the European Union to approve Turkey's membership in the political union. ](/news/2018/01/5/turkish-president-recep-tayyip-erdoaan-says-he-is-tired-of-waiting-for-the-european-union-to-approve-turkey-s-membership-in-the-political.md) _Context: European Union_
+2. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Egypt_
+3. [After a meeting with the President of the State of Palestine Mahmoud Abbas, High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini again assures President Abbas that the European Union supports his ambition to have East Jerusalem as capital of a Palestinian state. ](/news/2018/01/22/after-a-meeting-with-the-president-of-the-state-of-palestine-mahmoud-abbas-high-representative-of-the-union-for-foreign-affairs-and-securit.md) _Context: European Union_
+4. [Archaeologists in Egypt display items, including figurines, masks and a mummy, from one of two previously unexplored tombs, Kampp 150 and Kampp 161, in the ancient Nile city of Luxor. ](/news/2017/12/9/archaeologists-in-egypt-display-items-including-figurines-masks-and-a-mummy-from-one-of-two-previously-unexplored-tombs-kampp-150-and-ka.md) _Context: Egypt_
+5. [The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the U.K. and Ireland. ](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-u-k-a.md) _Context: European Union_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/28/the-government-of-sudan-expels-kenya-s-ambassador-following-the-kenyan-high-court-s-ruling-that-it-will-arrest-omar-al-bashir-the-presiden.html)  [JSON](/news/2011/11/28/the-government-of-sudan-expels-kenya-s-ambassador-following-the-kenyan-high-court-s-ruling-that-it-will-arrest-omar-al-bashir-the-presiden.json)  [XML](/news/2011/11/28/the-government-of-sudan-expels-kenya-s-ambassador-following-the-kenyan-high-court-s-ruling-that-it-will-arrest-omar-al-bashir-the-presiden.xml)  
+
 ### [2011-11-28](/news/2011/11/28/index.md)
 
+##### Sudan
 # The government of Sudan expels Kenya's ambassador, following the Kenyan High Court's ruling that it will arrest Omar al-Bashir, the President of Sudan, if he enters Kenya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/11/28/world/africa/kenya-bashir/index.html?npt=NP1)
 

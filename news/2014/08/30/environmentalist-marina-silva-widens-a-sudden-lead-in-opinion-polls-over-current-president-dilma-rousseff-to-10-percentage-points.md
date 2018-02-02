@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2014/08/30/environmentalist-marina-silva-widens-a-sudden-lead-in-opinion-polls-over-current-president-dilma-rousseff-to-10-percentage-points.html)  [JSON](/news/2014/08/30/environmentalist-marina-silva-widens-a-sudden-lead-in-opinion-polls-over-current-president-dilma-rousseff-to-10-percentage-points.json)  [XML](/news/2014/08/30/environmentalist-marina-silva-widens-a-sudden-lead-in-opinion-polls-over-current-president-dilma-rousseff-to-10-percentage-points.xml)  
+
 ### [2014-08-30](/news/2014/08/30/index.md)
 
+##### 2014
 # Environmentalist Marina Silva widens a sudden lead in opinion polls over current president Dilma Rousseff to 10 percentage points. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/08/30/us-brazil-election-idUSKBN0GT2N420140830)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20140830&t=2&i=968740222&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA7S11I)
+1. [Reuters](https://www.reuters.com/article/2014/08/30/us-brazil-election-idUSKBN0GT2N420140830)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20140830&t=2&i=968740222&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA7S11I)
+
+### Changes:
+
+1. [Brazilian general election, 2014: Environmentalist Marina Silva widens a sudden lead in opinion polls over current president Dilma Rousseff to 10 percentage points. ](/news/2014/08/30/brazilian-general-election-2014-environmentalist-marina-silva-widens-a-sudden-lead-in-opinion-polls-over-current-president-dilma-rousseff.md) _2017-08-27 03:41:13 (First version)_
+1. [Environmentalist Marina Silva widens a sudden lead in opinion polls over current president Dilma Rousseff to 10 percentage points. ](/news/2014/08/30/environmentalist-marina-silva-widens-a-sudden-lead-in-opinion-polls-over-current-president-dilma-rousseff-to-10-percentage-points.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [Voters in Brazil go to the polls for the second round of a presidential election with incumbent President Dilma Rousseff re-elected. ](/news/2014/10/26/voters-in-brazil-go-to-the-polls-for-the-second-round-of-a-presidential-election-with-incumbent-president-dilma-rousseff-re-elected.md) _Context: 2014, Dilma Rousseff_
 4. [Environmentalist Marina Silva, who came third in the first round of the presidential elections, decides to back centre-right candidate Aecio Neves following an open letter from Neves to the nation where he promises to include in his manifesto issues such as land reform, the demarcation of indigenous lands, the rights of rural communities and environmental concerns. ](/news/2014/10/13/environmentalist-marina-silva-who-came-third-in-the-first-round-of-the-presidential-elections-decides-to-back-centre-right-candidate-aa-c-ci.md) _Context: 2014, Marina Silva_
 5. [The internationally-acclaimed environmental campaigner Marina Silva replaces Eduardo Campos, who died in a plane crash on August 13, as the presidential candidate of the Brazilian Socialist Party, with polls suggesting she could surpass Aecio Neves in the first round and current president Dilma Rousseff in the second. ](/news/2014/08/21/the-internationally-acclaimed-environmental-campaigner-marina-silva-replaces-eduardo-campos-who-died-in-a-plane-crash-on-august-13-as-the.md) _Context: Dilma Rousseff, Marina Silva_
-
-### Changes:
-
-1. [Brazilian general election, 2014: Environmentalist Marina Silva widens a sudden lead in opinion polls over current president Dilma Rousseff to 10 percentage points. ](/news/2014/08/30/brazilian-general-election-2014-environmentalist-marina-silva-widens-a-sudden-lead-in-opinion-polls-over-current-president-dilma-rousseff.md) _2017-08-27 03:41:13 (First version)_
-1. [Environmentalist Marina Silva widens a sudden lead in opinion polls over current president Dilma Rousseff to 10 percentage points. ](/news/2014/08/30/environmentalist-marina-silva-widens-a-sudden-lead-in-opinion-polls-over-current-president-dilma-rousseff-to-10-percentage-points.md) _(Current version)_

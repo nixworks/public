@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/18/north-rhine-westphalians-party-on-the-autobahn-between-duisburg-and-dortmund.html)  [JSON](/news/2010/07/18/north-rhine-westphalians-party-on-the-autobahn-between-duisburg-and-dortmund.json)  [XML](/news/2010/07/18/north-rhine-westphalians-party-on-the-autobahn-between-duisburg-and-dortmund.xml)  
+
 ### [2010-07-18](/news/2010/07/18/index.md)
 
+##### North Rhine-Westphalia
 # North Rhine-Westphalians party on the autobahn between Duisburg and Dortmund. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10676728)
 2. [Sky News](http://news.sky.com/skynews/Home/Strange-News/Three-Million-Party-On-German-A40-Autobahn-Between-Dortmund-And-Bochum-With-Worlds-Longest-Table/Article/201007315666986?f=rss)

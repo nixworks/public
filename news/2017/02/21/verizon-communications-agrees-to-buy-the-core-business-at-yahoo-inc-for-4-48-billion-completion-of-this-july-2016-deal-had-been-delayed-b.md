@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/21/verizon-communications-agrees-to-buy-the-core-b
 
 ### [2017-02-21](/news/2017/02/21/index.md)
 
+##### Verizon Communications
 # Verizon Communications agrees to buy the core business at Yahoo Inc. for $4.48 billion. Completion of this July 2016 deal had been delayed because of two data breaches Yahoo disclosed last year. 
 
 

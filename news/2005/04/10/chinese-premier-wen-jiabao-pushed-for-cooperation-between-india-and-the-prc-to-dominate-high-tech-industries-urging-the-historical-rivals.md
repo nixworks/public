@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/10/chinese-premier-wen-jiabao-pushed-for-cooperation-between-india-and-the-prc-to-dominate-high-tech-industries-urging-the-historical-rivals.html)  [JSON](/news/2005/04/10/chinese-premier-wen-jiabao-pushed-for-cooperation-between-india-and-the-prc-to-dominate-high-tech-industries-urging-the-historical-rivals.json)  [XML](/news/2005/04/10/chinese-premier-wen-jiabao-pushed-for-cooperation-between-india-and-the-prc-to-dominate-high-tech-industries-urging-the-historical-rivals.xml)  
+
 ### [2005-04-10](/news/2005/04/10/index.md)
 
+##### China
 #  Chinese Premier Wen Jiabao pushed for cooperation between India and the PRC to dominate high-tech industries. Urging the historical rivals to forget past tension, Wen said cooperation "will signify the coming of the Asian century of the IT industry." 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory?id=657151)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/22/the-european-union-announces-it-is-considering-
 
 ### [2016-04-22](/news/2016/04/22/index.md)
 
+##### 2016 Macedonian protests
 # The European Union announces it is considering imposing sanctions on Macedonia's leaders for reneging on an agreement last year to investigate corruption in the ruling class and issuing an amnesty instead to those involved. 
 
 

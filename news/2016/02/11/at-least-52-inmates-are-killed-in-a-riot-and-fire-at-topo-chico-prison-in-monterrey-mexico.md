@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/11/at-least-52-inmates-are-killed-in-a-riot-and-fi
 
 ### [2016-02-11](/news/2016/02/11/index.md)
 
+##### Topo Chico prison riot
 # At least 52 inmates are killed in a riot and fire at Topo Chico prison in Monterrey, Mexico. 
 
 A fire and riot broke out Thursday at a prison in northern Mexico, killing at least 52 inmates just days ahead of a planned visit by Pope Francis to another prison in the country.

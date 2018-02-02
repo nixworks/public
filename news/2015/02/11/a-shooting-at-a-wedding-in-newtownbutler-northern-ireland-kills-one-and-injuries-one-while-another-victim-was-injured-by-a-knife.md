@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/11/a-shooting-at-a-wedding-in-newtownbutler-northern-ireland-kills-one-and-injuries-one-while-another-victim-was-injured-by-a-knife.html)  [JSON](/news/2015/02/11/a-shooting-at-a-wedding-in-newtownbutler-northern-ireland-kills-one-and-injuries-one-while-another-victim-was-injured-by-a-knife.json)  [XML](/news/2015/02/11/a-shooting-at-a-wedding-in-newtownbutler-northern-ireland-kills-one-and-injuries-one-while-another-victim-was-injured-by-a-knife.xml)  
+
 ### [2015-02-11](/news/2015/02/11/index.md)
 
+##### Newtownbutler
 # A shooting at a wedding in Newtownbutler, Northern Ireland kills one and injuries one while another victim was injured by a knife. 
 
 A man in his 60s dies after being shot outside a Catholic church in County Fermanagh where a wedding was taking place.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-31424976)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/80943000/jpg/_80943528_wedding-dress-blurred.jpg)

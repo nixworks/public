@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/20/a-powerful-earthquake-in-northeastern-indonesia-sparks-a-tsunami-warning.html)  [JSON](/news/2007/02/20/a-powerful-earthquake-in-northeastern-indonesia-sparks-a-tsunami-warning.json)  [XML](/news/2007/02/20/a-powerful-earthquake-in-northeastern-indonesia-sparks-a-tsunami-warning.xml)  
+
 ### [2007-02-20](/news/2007/02/20/index.md)
 
+##### earthquake
 #  A powerful earthquake in northeastern Indonesia sparks a tsunami warning. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via IHT](http://www.iht.com/articles/ap/2007/02/20/asia/AS-GEN-Indonesia-Earthquake.php)
 

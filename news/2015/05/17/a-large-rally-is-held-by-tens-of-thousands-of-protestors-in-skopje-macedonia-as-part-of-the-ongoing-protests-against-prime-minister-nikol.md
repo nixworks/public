@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/17/a-large-rally-is-held-by-tens-of-thousands-of-protestors-in-skopje-macedonia-as-part-of-the-ongoing-protests-against-prime-minister-nikol.html)  [JSON](/news/2015/05/17/a-large-rally-is-held-by-tens-of-thousands-of-protestors-in-skopje-macedonia-as-part-of-the-ongoing-protests-against-prime-minister-nikol.json)  [XML](/news/2015/05/17/a-large-rally-is-held-by-tens-of-thousands-of-protestors-in-skopje-macedonia-as-part-of-the-ongoing-protests-against-prime-minister-nikol.xml)  
+
 ### [2015-05-17](/news/2015/05/17/index.md)
 
+##### 2015 Macedonian protests
 #  A large rally is held by tens of thousands of protestors in Skopje, Macedonia, as part of the ongoing protests against Prime Minister Nikola Gruevski. 
 
 Tens of thousands of protesters in the Macedonian capital Skopje demand the resignation of Prime Minister Nikola Gruevski.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.com/news/world-europe-32771233)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/83051000/jpg/_83051474_027253175.jpg)

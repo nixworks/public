@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2003/07/8/ladan-and-laleh-bijani-die-during-their-unsuccessful-separation-operation-in-singapore.html)  [JSON](/news/2003/07/8/ladan-and-laleh-bijani-die-during-their-unsuccessful-separation-operation-in-singapore.json)  [XML](/news/2003/07/8/ladan-and-laleh-bijani-die-during-their-unsuccessful-separation-operation-in-singapore.xml)  
+
 ### [2003-07-8](/news/2003/07/8/index.md)
 
+##### Ladan and Laleh Bijani
 #  Ladan and Laleh Bijani die during their unsuccessful separation operation in Singapore. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/3055016.stm)
 

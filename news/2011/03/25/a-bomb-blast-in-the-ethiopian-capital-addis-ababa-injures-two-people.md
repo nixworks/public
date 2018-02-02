@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/25/a-bomb-blast-in-the-ethiopian-capital-addis-ababa-injures-two-people.html)  [JSON](/news/2011/03/25/a-bomb-blast-in-the-ethiopian-capital-addis-ababa-injures-two-people.json)  [XML](/news/2011/03/25/a-bomb-blast-in-the-ethiopian-capital-addis-ababa-injures-two-people.xml)  
+
 ### [2011-03-25](/news/2011/03/25/index.md)
 
+##### Ethiopia
 # A bomb blast in the Ethiopian capital Addis Ababa injures two people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE72O0DO20110325)
 

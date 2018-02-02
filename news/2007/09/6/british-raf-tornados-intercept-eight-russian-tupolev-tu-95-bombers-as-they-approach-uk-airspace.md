@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/6/british-raf-tornados-intercept-eight-russian-tupolev-tu-95-bombers-as-they-approach-uk-airspace.html)  [JSON](/news/2007/09/6/british-raf-tornados-intercept-eight-russian-tupolev-tu-95-bombers-as-they-approach-uk-airspace.json)  [XML](/news/2007/09/6/british-raf-tornados-intercept-eight-russian-tupolev-tu-95-bombers-as-they-approach-uk-airspace.xml)  
+
 ### [2007-09-6](/news/2007/09/6/index.md)
 
+##### RAF
 #  British RAF Tornados intercept eight Russian Tupolev Tu-95 bombers as they approach UK airspace. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/article/0,,30200-1283041,00.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/2/the-spanish-government-discloses-that-a-powerful-bomb-has-been-discovered-on-the-high-speed-ave-railway-line-between-madrid-and-seville.html)  [JSON](/news/2004/04/2/the-spanish-government-discloses-that-a-powerful-bomb-has-been-discovered-on-the-high-speed-ave-railway-line-between-madrid-and-seville.json)  [XML](/news/2004/04/2/the-spanish-government-discloses-that-a-powerful-bomb-has-been-discovered-on-the-high-speed-ave-railway-line-between-madrid-and-seville.xml)  
+
 ### [2004-04-2](/news/2004/04/2/index.md)
 
+##### AVE
 #  The Spanish government discloses that a powerful bomb has been discovered on the high-speed AVE railway line between Madrid and Seville. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/3593927.stm)
 2. [CBC](http://www.cbc.ca/stories/2004/04/03/world/spain_bomb040403)

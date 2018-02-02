@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/12/prime-minister-of-israel-benjamin-netanyahu-states-that-10-month-restrictions-on-the-building-of-israeli-settlements-in-the-west-bank-will-n.html)  [JSON](/news/2010/09/12/prime-minister-of-israel-benjamin-netanyahu-states-that-10-month-restrictions-on-the-building-of-israeli-settlements-in-the-west-bank-will-n.json)  [XML](/news/2010/09/12/prime-minister-of-israel-benjamin-netanyahu-states-that-10-month-restrictions-on-the-building-of-israeli-settlements-in-the-west-bank-will-n.xml)  
+
 ### [2010-09-12](/news/2010/09/12/index.md)
 
+##### Israeli Prime Minister
 # Prime Minister of Israel Benjamin Netanyahu states that 10-month restrictions on the building of Israeli settlements in the West Bank will no longer apply after they expire later this month. 
 
 Israeli PM says current restrictions on building in West Bank to end, but indicates possible limits on future building.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/09/2010912201832209651.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/12/2010912202835270734_20.jpg)

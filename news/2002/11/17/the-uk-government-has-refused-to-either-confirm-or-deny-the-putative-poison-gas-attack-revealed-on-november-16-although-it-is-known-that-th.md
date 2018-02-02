@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/11/17/the-uk-government-has-refused-to-either-confirm-or-deny-the-putative-poison-gas-attack-revealed-on-november-16-although-it-is-known-that-th.html)  [JSON](/news/2002/11/17/the-uk-government-has-refused-to-either-confirm-or-deny-the-putative-poison-gas-attack-revealed-on-november-16-although-it-is-known-that-th.json)  [XML](/news/2002/11/17/the-uk-government-has-refused-to-either-confirm-or-deny-the-putative-poison-gas-attack-revealed-on-november-16-although-it-is-known-that-th.xml)  
+
 ### [2002-11-17](/news/2002/11/17/index.md)
 
+##### Terrorism Act
 # The UK government has refused to either confirm or deny the putative poison gas attack revealed on November 16, although it is known that three men are currently being held and investigated under the terms of the Terrorism Act 2000.
 
 

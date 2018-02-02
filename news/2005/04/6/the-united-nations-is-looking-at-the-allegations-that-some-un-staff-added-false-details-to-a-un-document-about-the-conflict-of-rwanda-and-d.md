@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/6/the-united-nations-is-looking-at-the-allegations-that-some-un-staff-added-false-details-to-a-un-document-about-the-conflict-of-rwanda-and-d.html)  [JSON](/news/2005/04/6/the-united-nations-is-looking-at-the-allegations-that-some-un-staff-added-false-details-to-a-un-document-about-the-conflict-of-rwanda-and-d.json)  [XML](/news/2005/04/6/the-united-nations-is-looking-at-the-allegations-that-some-un-staff-added-false-details-to-a-un-document-about-the-conflict-of-rwanda-and-d.xml)  
+
 ### [2005-04-6](/news/2005/04/6/index.md)
 
+##### United Nations
 #  The United Nations is looking at the allegations that some UN staff added false details to a UN document about the conflict of Rwanda and Democratic Republic of Congo. William Church, former UN employee and US intelligence analyst, says that some UN staff added false information about Rwandan military incursions to Congo last year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4415061.stm)
 

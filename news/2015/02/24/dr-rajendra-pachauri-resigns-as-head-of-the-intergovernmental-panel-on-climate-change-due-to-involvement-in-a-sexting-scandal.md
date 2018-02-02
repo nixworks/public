@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/24/dr-rajendra-pachauri-resigns-as-head-of-the-intergovernmental-panel-on-climate-change-due-to-involvement-in-a-sexting-scandal.html)  [JSON](/news/2015/02/24/dr-rajendra-pachauri-resigns-as-head-of-the-intergovernmental-panel-on-climate-change-due-to-involvement-in-a-sexting-scandal.json)  [XML](/news/2015/02/24/dr-rajendra-pachauri-resigns-as-head-of-the-intergovernmental-panel-on-climate-change-due-to-involvement-in-a-sexting-scandal.xml)  
+
 ### [2015-02-24](/news/2015/02/24/index.md)
 
+##### Rajendra Pachauri
 # Dr Rajendra Pachauri resigns as head of the Intergovernmental Panel on Climate Change due to involvement in a sexting scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times'' via ''The Australian](http://www.theaustralian.com.au/news/world/climate-chief-rajendra-pachauri-quits-after-sexting-meltdown/story-fnb64oi6-1227238463214)
 

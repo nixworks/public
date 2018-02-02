@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/8/air-france-cancels-long-haul-flights-due-to-a-strike-by-staff.html)  [JSON](/news/2012/02/8/air-france-cancels-long-haul-flights-due-to-a-strike-by-staff.json)  [XML](/news/2012/02/8/air-france-cancels-long-haul-flights-due-to-a-strike-by-staff.xml)  
+
 ### [2012-02-8](/news/2012/02/8/index.md)
 
+##### Air France
 # Air France cancels long-haul flights due to a strike by staff. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/travel/travel-news/air-france-cancels-longhaul-flights-as-staff-strike-20120208-1raro.html)
 

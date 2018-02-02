@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/11/1/bank-of-japan-began-to-issue-new-japanese-yen-banknotes-known-as-series-e.html)  [JSON](/news/2004/11/1/bank-of-japan-began-to-issue-new-japanese-yen-banknotes-known-as-series-e.json)  [XML](/news/2004/11/1/bank-of-japan-began-to-issue-new-japanese-yen-banknotes-known-as-series-e.xml)  
+
 ### [2004-11-1](/news/2004/11/1/index.md)
 
+##### Bank of Japan
 #  Bank of Japan began to issue new Japanese yen banknotes, known as "Series E".
 
 

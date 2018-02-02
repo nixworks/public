@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/11/three-filipino-soldiers-are-killed-and-17-other
 
 ### [2016-12-11](/news/2016/12/11/index.md)
 
+##### Moro conflict
 # Three Filipino soldiers are killed and 17 others injured in fighting with Abu Sayyaf militants in the province of Sulu, Philippines. 
 
 Three Filipino soldiers were killed and 17 others wounded in nearly two hours of fighting with about 150 Muslim militants in the south, the military said Sunday.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/30/white-house-press-secretary-sean-spicer-during-
 
 ### [2017-01-30](/news/2017/01/30/index.md)
 
+##### Executive Order 13769
 # White House Press Secretary Sean Spicer, during the daily press briefing, says State Department officials should follow the President's program or get new jobs . 
 
 The White House clashed Monday with a large group of American diplomats who are voicing dissent with Donald Trump’s temporary travel ban on citizens from seven Muslim majority countries.

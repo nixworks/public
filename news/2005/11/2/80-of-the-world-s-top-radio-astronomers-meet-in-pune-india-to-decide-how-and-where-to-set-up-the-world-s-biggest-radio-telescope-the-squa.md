@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/2/80-of-the-world-s-top-radio-astronomers-meet-in-pune-india-to-decide-how-and-where-to-set-up-the-world-s-biggest-radio-telescope-the-squa.html)  [JSON](/news/2005/11/2/80-of-the-world-s-top-radio-astronomers-meet-in-pune-india-to-decide-how-and-where-to-set-up-the-world-s-biggest-radio-telescope-the-squa.json)  [XML](/news/2005/11/2/80-of-the-world-s-top-radio-astronomers-meet-in-pune-india-to-decide-how-and-where-to-set-up-the-world-s-biggest-radio-telescope-the-squa.xml)  
+
 ### [2005-11-2](/news/2005/11/2/index.md)
 
+##### Pune
 #  80 of the world's top radio astronomers meet in Pune, India to decide how and where to set up the world's biggest radio telescope, the Square Kilometre Array. 
 
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/morenews/showmorestory.asp?category=National&slug=Radio+astronomers+meet+in+Pune&id=80802)
 1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)

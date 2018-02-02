@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/19/brazilian-oil-company-petrobras-and-the-people-s-republic-of-china-finalize-a-us-10-billion-agreement.html)  [JSON](/news/2009/05/19/brazilian-oil-company-petrobras-and-the-people-s-republic-of-china-finalize-a-us-10-billion-agreement.json)  [XML](/news/2009/05/19/brazilian-oil-company-petrobras-and-the-people-s-republic-of-china-finalize-a-us-10-billion-agreement.xml)  
+
 ### [2009-05-19](/news/2009/05/19/index.md)
 
+##### Brazil
 #  Brazilian oil company Petrobras and the People's Republic of China finalize a US$10-billion agreement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [WSJ](http://online.wsj.com/article/SB124274623930634997.html?mod=googlenews_wsj)
 

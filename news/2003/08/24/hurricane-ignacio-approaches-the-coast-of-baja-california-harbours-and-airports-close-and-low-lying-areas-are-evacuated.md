@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/24/hurricane-ignacio-approaches-the-coast-of-baja-california-harbours-and-airports-close-and-low-lying-areas-are-evacuated.html)  [JSON](/news/2003/08/24/hurricane-ignacio-approaches-the-coast-of-baja-california-harbours-and-airports-close-and-low-lying-areas-are-evacuated.json)  [XML](/news/2003/08/24/hurricane-ignacio-approaches-the-coast-of-baja-california-harbours-and-airports-close-and-low-lying-areas-are-evacuated.xml)  
+
 ### [2003-08-24](/news/2003/08/24/index.md)
 
+##### Hurricane
 #  Hurricane Ignacio approaches the coast of Baja California. Harbours and airports close and low-lying areas are evacuated.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/17/japanese-company-huser-s-president-susumu-ojima-receives-a-summons-of-a-witness-by-the-diet-because-of-suspicions-etc-that-he-instructed-o.html)  [JSON](/news/2006/01/17/japanese-company-huser-s-president-susumu-ojima-receives-a-summons-of-a-witness-by-the-diet-because-of-suspicions-etc-that-he-instructed-o.json)  [XML](/news/2006/01/17/japanese-company-huser-s-president-susumu-ojima-receives-a-summons-of-a-witness-by-the-diet-because-of-suspicions-etc-that-he-instructed-o.xml)  
+
 ### [2006-01-17](/news/2006/01/17/index.md)
 
+##### Huser
 #  Japanese company Huser's president Susumu Ojima receives a summons of a witness by the Diet because of suspicions etc. that he instructed one-class authorized architect Hidetsugu Aneha to reduce the quantity of reinforced concrete. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Japan Times Online](http://www.japantimes.co.jp/cgi-bin/getarticle.pl5?nn20060118a1.htm)
 

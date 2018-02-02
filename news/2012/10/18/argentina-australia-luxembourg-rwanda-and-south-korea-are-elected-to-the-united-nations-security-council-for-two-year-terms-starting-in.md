@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2012/10/18/argentina-australia-luxembourg-rwanda-and-south-korea-are-elected-to-the-united-nations-security-council-for-two-year-terms-starting-in.html)  [JSON](/news/2012/10/18/argentina-australia-luxembourg-rwanda-and-south-korea-are-elected-to-the-united-nations-security-council-for-two-year-terms-starting-in.json)  [XML](/news/2012/10/18/argentina-australia-luxembourg-rwanda-and-south-korea-are-elected-to-the-united-nations-security-council-for-two-year-terms-starting-in.xml)  
+
 ### [2012-10-18](/news/2012/10/18/index.md)
 
+##### Argentina
 # Argentina, Australia, Luxembourg, Rwanda, and South Korea are elected to the United Nations Security Council for two-year terms starting in 2013.
 
 

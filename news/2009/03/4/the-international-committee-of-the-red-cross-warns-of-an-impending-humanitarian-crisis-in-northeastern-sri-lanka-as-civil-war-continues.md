@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/4/the-international-committee-of-the-red-cross-warns-of-an-impending-humanitarian-crisis-in-northeastern-sri-lanka-as-civil-war-continues.html)  [JSON](/news/2009/03/4/the-international-committee-of-the-red-cross-warns-of-an-impending-humanitarian-crisis-in-northeastern-sri-lanka-as-civil-war-continues.json)  [XML](/news/2009/03/4/the-international-committee-of-the-red-cross-warns-of-an-impending-humanitarian-crisis-in-northeastern-sri-lanka-as-civil-war-continues.xml)  
+
 ### [2009-03-4](/news/2009/03/4/index.md)
 
+##### International Committee of the Red Cross
 #  The International Committee of the Red Cross warns of an impending humanitarian crisis in northeastern Sri Lanka as civil war continues. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/7922096.stm)
 

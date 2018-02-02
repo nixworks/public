@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/15/the-cambodian-parliament-votes-to-reappoint-hun-sen-as-prime-minister-following-an-11-month-deadlock.html)  [JSON](/news/2004/07/15/the-cambodian-parliament-votes-to-reappoint-hun-sen-as-prime-minister-following-an-11-month-deadlock.json)  [XML](/news/2004/07/15/the-cambodian-parliament-votes-to-reappoint-hun-sen-as-prime-minister-following-an-11-month-deadlock.xml)  
+
 ### [2004-07-15](/news/2004/07/15/index.md)
 
+##### Cambodia
 #  The Cambodian parliament votes to reappoint Hun Sen as Prime Minister, following an 11-month deadlock. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/3895553.stm)
 2. [Xinhua](http://news.xinhuanet.com/english/2004-07/15/content_1602796.htm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/23/top-british-tennis-player-tim-henman-has-confirmed-he-will-retire-from-the-sport-after-this-year-s-davis-cup-in-croatia.html)  [JSON](/news/2007/08/23/top-british-tennis-player-tim-henman-has-confirmed-he-will-retire-from-the-sport-after-this-year-s-davis-cup-in-croatia.json)  [XML](/news/2007/08/23/top-british-tennis-player-tim-henman-has-confirmed-he-will-retire-from-the-sport-after-this-year-s-davis-cup-in-croatia.xml)  
+
 ### [2007-08-23](/news/2007/08/23/index.md)
 
+##### Tim Henman
 #  Top British tennis player Tim Henman has confirmed he will retire from the sport after this year's Davis Cup in Croatia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/article/0,,70131-1281159,00.html)
 

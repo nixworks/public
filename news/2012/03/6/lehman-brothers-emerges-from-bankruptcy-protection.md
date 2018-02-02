@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/6/lehman-brothers-emerges-from-bankruptcy-protection.html)  [JSON](/news/2012/03/6/lehman-brothers-emerges-from-bankruptcy-protection.json)  [XML](/news/2012/03/6/lehman-brothers-emerges-from-bankruptcy-protection.xml)  
+
 ### [2012-03-6](/news/2012/03/6/index.md)
 
+##### Lehman Brothers
 # Lehman Brothers emerges from bankruptcy protection. 
 
 Lehman Brothers, the US investment bank that collapsed in 2008, exits bankruptcy protection to sell its remaining assets.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-17279897)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58914000/jpg/_58914762_014183401-1.jpg)

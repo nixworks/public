@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/6/a-mexican-military-bell-412-model-helicopter-cra
 
 ### [2017-10-6](/news/2017/10/6/index.md)
 
+##### Mexico
 # A Mexican military Bell 412 model helicopter crashes northeast of the town of El Salto in the mountainous state of Durango, seriously injuring one military member aboard and likely killing seven others. 
 
 A Mexican military helicopter crashed on Friday in the northern state of Durango, seriously injuring one military member aboard and likely killing seven others, the defense ministry said in a statement.
@@ -19,4 +20,4 @@ A Mexican military helicopter crashed on Friday in the northern state of Durango
 2. [Eight severed heads are discovered in four locations in the Mexican state of Durango. ](/news/2010/07/28/eight-severed-heads-are-discovered-in-four-locations-in-the-mexican-state-of-durango.md) _Context: Durango, Mexico_
 3. [10 children, youths and young adults between the ages of 8 and 21 are gunned down, presumably by drug traffickers, in the northern Mexican state of Durango. ](/news/2010/03/30/10-children-youths-and-young-adults-between-the-ages-of-8-and-21-are-gunned-down-presumably-by-drug-traffickers-in-the-northern-mexican-s.md) _Context: Durango, Mexico_
 4. [ A prison riot in the Mexican state of Durango leaves at least 19 people dead and 20 injured. ](/news/2009/08/15/a-prison-riot-in-the-mexican-state-of-durango-leaves-at-least-19-people-dead-and-20-injured.md) _Context: Durango, Mexico_
-5. [A tour bus crash in Mexico leaves at least 12 people dead and 18 injured. The cause of the crash is under investigation. ](/news/2017/12/19/a-tour-bus-crash-in-mexico-leaves-at-least-12-people-dead-and-18-injured-the-cause-of-the-crash-is-under-investigation.md) _Context: Mexico_
+5. [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-pea-a-nieto-and-foreign-secretary-luis-videgaray.md) _Context: Mexico_

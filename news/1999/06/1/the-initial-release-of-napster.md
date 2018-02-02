@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/06/1/the-initial-release-of-napster.html)  [JSON](/news/1999/06/1/the-initial-release-of-napster.json)  [XML](/news/1999/06/1/the-initial-release-of-napster.xml)  
+
 ### [1999-06-1](/news/1999/06/1/index.md)
 
+##### Napster
 #  The initial release of Napster
 
 

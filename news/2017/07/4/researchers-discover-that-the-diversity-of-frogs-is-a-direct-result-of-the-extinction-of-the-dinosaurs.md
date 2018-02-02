@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/4/researchers-discover-that-the-diversity-of-frogs
 
 ### [2017-07-4](/news/2017/07/4/index.md)
 
+##### Evolution
 # Researchers discover that the diversity of frogs is a direct result of the extinction of the dinosaurs. 
 
 Frogs are &quot;master survivors,&quot; able to take advantage of the ecological vacuum left behind by extinct animals. Scientists say 9 in 10 frog species descended from three surviving frog lineages.

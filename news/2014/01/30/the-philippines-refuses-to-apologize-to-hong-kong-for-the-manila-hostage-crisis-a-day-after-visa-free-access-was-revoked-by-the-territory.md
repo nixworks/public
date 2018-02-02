@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2014/01/30/the-philippines-refuses-to-apologize-to-hong-kong-for-the-manila-hostage-crisis-a-day-after-visa-free-access-was-revoked-by-the-territory.html)  [JSON](/news/2014/01/30/the-philippines-refuses-to-apologize-to-hong-kong-for-the-manila-hostage-crisis-a-day-after-visa-free-access-was-revoked-by-the-territory.json)  [XML](/news/2014/01/30/the-philippines-refuses-to-apologize-to-hong-kong-for-the-manila-hostage-crisis-a-day-after-visa-free-access-was-revoked-by-the-territory.xml)  
+
 ### [2014-01-30](/news/2014/01/30/index.md)
 
+##### Philippines
 # The Philippines refuses to apologize to Hong Kong for the Manila hostage crisis a day after visa-free access was revoked by the territory. 
 
+The Philippines has rejected demands from Hong Kong for an apology to victims of a 2010 hostage crisis in Manila and said it regrets sanctions imposed by the Chinese city.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg Businessweek](http://www.bloomberg.com/news/2014-01-30/philippines-rejects-hong-kong-apology-demand-after-sanctions-1-.html)
+1. [Bloomberg Businessweek](https://www.bloomberg.com/news/2014-01-30/philippines-rejects-hong-kong-apology-demand-after-sanctions-1-.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

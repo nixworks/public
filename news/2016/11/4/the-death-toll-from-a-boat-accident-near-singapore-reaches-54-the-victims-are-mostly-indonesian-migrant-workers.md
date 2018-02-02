@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/11/4/the-death-toll-from-a-boat-accident-near-singapore-reaches-54-the-victims-are-mostly-indonesian-migrant-workers.html)  [JSON](/news/2016/11/4/the-death-toll-from-a-boat-accident-near-singapore-reaches-54-the-victims-are-mostly-indonesian-migrant-workers.json)  [XML](/news/2016/11/4/the-death-toll-from-a-boat-accident-near-singapore-reaches-54-the-victims-are-mostly-indonesian-migrant-workers.xml)  
+
 ### [2016-11-4](/news/2016/11/4/index.md)
 
+##### Singapore
 # The death toll from a boat accident near Singapore reaches 54. The victims are mostly Indonesian migrant workers. 
 
 BATAM, Indonesia (AFP) - The death toll from aboat accident in Indonesia has climbed to 54, an official said on Friday (Nov 4), after dozens of bodies were found floating in the ocean.. Read more at straitstimes.com.
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/asia/se-asia/death-toll-in-indonesia-boat-accident-rises-to-54-as-dozens-of-bodies-found)
 1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2016/11/04/jt-40406412_-_02_11_2016_-_indonesia-boat_.jpg?itok=lzeZO30q)

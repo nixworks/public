@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/11/australian-prime-minister-kevin-rudd-and-leader-of-the-opposition-tony-abbott-participate-in-the-first-of-three-televised-leaders-debates-ah.html)  [JSON](/news/2013/08/11/australian-prime-minister-kevin-rudd-and-leader-of-the-opposition-tony-abbott-participate-in-the-first-of-three-televised-leaders-debates-ah.json)  [XML](/news/2013/08/11/australian-prime-minister-kevin-rudd-and-leader-of-the-opposition-tony-abbott-participate-in-the-first-of-three-televised-leaders-debates-ah.xml)  
+
 ### [2013-08-11](/news/2013/08/11/index.md)
 
+##### Australian Prime Minister
 # Australian Prime Minister Kevin Rudd and Leader of the Opposition Tony Abbott participate in the first of three televised leaders debates ahead of September's federal election. 
 
 Australian PM Kevin Rudd and opposition leader Tony Abbott clash over the economy and immigration in the first televised debate of the election campaign.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23654148)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69225000/jpg/_69225915_69225914.jpg)

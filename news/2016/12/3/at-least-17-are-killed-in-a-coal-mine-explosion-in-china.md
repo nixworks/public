@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/3/at-least-17-are-killed-in-a-coal-mine-explosion-
 
 ### [2016-12-3](/news/2016/12/3/index.md)
 
+##### Chinese
 #  At least 17 are killed in a coal mine explosion in China. 
 
 Chinese state media say a coal mine explosion in a northern region has trapped 36 people, killing 17 of them.
@@ -15,8 +16,8 @@ Chinese state media say a coal mine explosion in a northern region has trapped 3
 
 ### Related:
 
-1. [News breaks only today that Wu Yongning, an "unprotected high-altitude extreme challenger" from China, fell to his death from a 62-story building in Changsha on November 8. ](/news/2017/12/11/news-breaks-only-today-that-wu-yongning-an-unprotected-high-altitude-extreme-challenger-from-china-fell-to-his-death-from-a-62-story-bui.md) _Context: China_
-2. [Scientists at the Wuhan Institute of Virology trace the source of the deadly 2002-2004 SARS virus outbreak, which killed 774 people in 37 countries, to a colony of cave-dwelling horseshoe bats in China's Yunnan province. ](/news/2017/12/10/scientists-at-the-wuhan-institute-of-virology-trace-the-source-of-the-deadly-2002a2004-sars-virus-outbreak-which-killed-774-people-in-37.md) _Context: China_
-3. [A large factory explosion in Ningbo, China, kills at least 2 people and injures more than 30. ](/news/2017/11/26/a-large-factory-explosion-in-ningbo-china-kills-at-least-2-people-and-injures-more-than-30.md) _Context: China_
-4. [Chinese delegates visiting the Burmese capital of Naypyidaw propose a three-phase plan to resolve the conflict in Myanmar's Rakhine State. The governments of Myanmar and Bangladesh expressed support for the plan, which included repatriating refugees that have fled from violence in Rakhine State. ](/news/2017/11/19/chinese-delegates-visiting-the-burmese-capital-of-naypyidaw-propose-a-three-phase-plan-to-resolve-the-conflict-in-myanmar-s-rakhine-state-t.md) _Context: China_
-5. [An Indian Air Force Mi-17 helicopter ferrying military officials crashes in Tawang, Arunachal Pradesh, a remote mountain region near the border with China, killing all seven personnel on board. ](/news/2017/10/6/an-indian-air-force-mi-17-helicopter-ferrying-military-officials-crashes-in-tawang-arunachal-pradesh-a-remote-mountain-region-near-the-bor.md) _Context: China_
+1. [Sanchi is still ablaze this morning and it continues to leak oil. Chinese officials mention the danger of explosion and sinking. ](/news/2018/01/8/sanchi-is-still-ablaze-this-morning-and-it-continues-to-leak-oil-chinese-officials-mention-the-danger-of-explosion-and-sinking.md) _Context: Chinese_
+2. [Thirty-two sailors are missing after Iranian oil tanker Sanchi and Chinese freighter "CF-Crystal" collide off the east coast of China. The collision ignites the oil tanker, which carried a 136,000-tonne load. ](/news/2018/01/6/thirty-two-sailors-are-missing-after-iranian-oil-tanker-sanchi-and-chinese-freighter-cf-crystal-collide-off-the-east-coast-of-china-the-c.md) _Context: Chinese_
+3. [Chinese scientists announce they have successfully cloned crab-eating macaques using somatic cell nuclear transfer (SCNT), making them the first primates to be cloned. The monkeys were named Zhong Zhong and Hua Hua. ](/news/2018/01/24/chinese-scientists-announce-they-have-successfully-cloned-crab-eating-macaques-using-somatic-cell-nuclear-transfer-scnt-making-them-the-f.md) _Context: Chinese_
+4. [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md) _Context: Chinese_
+5. [The National Iranian Tanker Company-operated Sanchi sinks, following its January 6 collision with a Hong Kong-flagged cargo ship off Shanghai, China, leaving no survivors. ](/news/2018/01/14/the-national-iranian-tanker-company-operated-sanchi-sinks-following-its-january-6-collision-with-a-hong-kong-flagged-cargo-ship-off-shangha.md) _Context: Chinese_

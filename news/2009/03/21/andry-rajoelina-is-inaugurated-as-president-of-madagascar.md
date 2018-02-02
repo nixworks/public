@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/21/andry-rajoelina-is-inaugurated-as-president-of-madagascar.html)  [JSON](/news/2009/03/21/andry-rajoelina-is-inaugurated-as-president-of-madagascar.json)  [XML](/news/2009/03/21/andry-rajoelina-is-inaugurated-as-president-of-madagascar.xml)  
+
 ### [2009-03-21](/news/2009/03/21/index.md)
 
+##### Andry Rajoelina
 #  Andry Rajoelina is inaugurated as President of Madagascar. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7956496.stm)
 

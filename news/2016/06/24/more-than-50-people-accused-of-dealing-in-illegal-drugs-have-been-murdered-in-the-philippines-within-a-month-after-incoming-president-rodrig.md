@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/24/more-than-50-people-accused-of-dealing-in-illeg
 
 ### [2016-06-24](/news/2016/06/24/index.md)
 
+##### drug crackdown
 # More than 50 people accused of dealing in illegal drugs have been murdered in the Philippines within a month after incoming president Rodrigo Duterte called for more extrajudicial killings against suspected criminals. 
 
 

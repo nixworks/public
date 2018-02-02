@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/20/joko-widodo-is-sworn-in-as-president-of-indonesia.html)  [JSON](/news/2014/10/20/joko-widodo-is-sworn-in-as-president-of-indonesia.json)  [XML](/news/2014/10/20/joko-widodo-is-sworn-in-as-president-of-indonesia.xml)  
+
 ### [2014-10-20](/news/2014/10/20/index.md)
 
+##### Joko Widodo
 # Joko Widodo is sworn in as President of Indonesia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-29684776)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/78390000/jpg/_78390707_024394585-1.jpg)

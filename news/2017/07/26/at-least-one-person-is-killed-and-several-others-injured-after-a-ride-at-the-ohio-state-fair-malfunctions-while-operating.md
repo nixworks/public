@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/07/26/at-least-one-person-is-killed-and-several-others-injured-after-a-ride-at-the-ohio-state-fair-malfunctions-while-operating.html)  [JSON](/news/2017/07/26/at-least-one-person-is-killed-and-several-others-injured-after-a-ride-at-the-ohio-state-fair-malfunctions-while-operating.json)  [XML](/news/2017/07/26/at-least-one-person-is-killed-and-several-others-injured-after-a-ride-at-the-ohio-state-fair-malfunctions-while-operating.xml)  
+
 ### [2017-07-26](/news/2017/07/26/index.md)
 
+##### Ohio State Fair
 # At least one person is killed and several others injured after a ride at the Ohio State Fair malfunctions while operating. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2017/07/26/us/ohio-state-fair-ride-incident/index.html)
 

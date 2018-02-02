@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/04/23/umaru-yar-adua-is-declared-the-winner-of-nigeria-s-presidential-election-that-eu-observers-said-cannot-be-considered-to-have-been-credible.html)  [JSON](/news/2007/04/23/umaru-yar-adua-is-declared-the-winner-of-nigeria-s-presidential-election-that-eu-observers-said-cannot-be-considered-to-have-been-credible.json)  [XML](/news/2007/04/23/umaru-yar-adua-is-declared-the-winner-of-nigeria-s-presidential-election-that-eu-observers-said-cannot-be-considered-to-have-been-credible.xml)  
+
 ### [2007-04-23](/news/2007/04/23/index.md)
 
+##### Umaru Yar'Adua
 #  Umaru Yar'Adua is declared the winner of Nigeria's presidential election that EU observers said "cannot be considered to have been credible." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6584393.stm)
-2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/04/23/AR2007042300438.html)
+2. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2007/04/23/AR2007042300438.html)
 
 ### Related:
 

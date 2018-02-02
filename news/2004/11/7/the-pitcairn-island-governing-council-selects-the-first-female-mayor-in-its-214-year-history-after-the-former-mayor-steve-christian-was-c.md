@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/7/the-pitcairn-island-governing-council-selects-the-first-female-mayor-in-its-214-year-history-after-the-former-mayor-steve-christian-was-c.html)  [JSON](/news/2004/11/7/the-pitcairn-island-governing-council-selects-the-first-female-mayor-in-its-214-year-history-after-the-former-mayor-steve-christian-was-c.json)  [XML](/news/2004/11/7/the-pitcairn-island-governing-council-selects-the-first-female-mayor-in-its-214-year-history-after-the-former-mayor-steve-christian-was-c.xml)  
+
 ### [2004-11-7](/news/2004/11/7/index.md)
 
+##### Pitcairn Island
 #  The Pitcairn Island governing council selects the first female mayor in its 214-year history after the former mayor, Steve Christian, was convicted of rape. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/3991523.stm)
 

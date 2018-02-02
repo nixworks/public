@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/25/the-united-nations-says-a-new-foreign-judge-at-the-khmer-rouge-trial-can-continue-cases-without-the-support-of-cambodia.html)  [JSON](/news/2012/01/25/the-united-nations-says-a-new-foreign-judge-at-the-khmer-rouge-trial-can-continue-cases-without-the-support-of-cambodia.json)  [XML](/news/2012/01/25/the-united-nations-says-a-new-foreign-judge-at-the-khmer-rouge-trial-can-continue-cases-without-the-support-of-cambodia.xml)  
+
 ### [2012-01-25](/news/2012/01/25/index.md)
 
+##### United Nations
 # The United Nations says a new foreign judge at the Khmer Rouge trial can continue cases without the support of Cambodia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hpYTYfSHEZr_IIkjqYZNtwHltYew?docId=CNG.395cbff6513ef279d9abe6e1e7878179.c1)
 

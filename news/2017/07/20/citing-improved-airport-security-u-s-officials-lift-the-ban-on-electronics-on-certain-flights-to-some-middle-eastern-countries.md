@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/20/citing-improved-airport-security-u-s-officials-
 
 ### [2017-07-20](/news/2017/07/20/index.md)
 
+##### 2017 electronics ban
 # Citing improved airport security, U.S. officials lift the ban on electronics on certain flights to some Middle Eastern countries. 
 
 

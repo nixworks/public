@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/7/iranian-police-clash-with-thousands-of-opposition-supporters-at-the-annual-student-s-day-in-tehran-with-reports-of-gunfire-being-heard.html)  [JSON](/news/2009/12/7/iranian-police-clash-with-thousands-of-opposition-supporters-at-the-annual-student-s-day-in-tehran-with-reports-of-gunfire-being-heard.json)  [XML](/news/2009/12/7/iranian-police-clash-with-thousands-of-opposition-supporters-at-the-annual-student-s-day-in-tehran-with-reports-of-gunfire-being-heard.xml)  
+
 ### [2009-12-7](/news/2009/12/7/index.md)
 
+##### Iran
 #  Iranian police clash with thousands of opposition supporters at the annual Student's Day in Tehran, with reports of gunfire being heard. 
 
 Riot police fire tear gas at opposition supporters in central Tehran, witnesses say.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/12/20091277850229658.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8398615.stm)

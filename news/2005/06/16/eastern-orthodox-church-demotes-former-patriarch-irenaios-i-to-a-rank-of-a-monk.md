@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/16/eastern-orthodox-church-demotes-former-patriarch-irenaios-i-to-a-rank-of-a-monk.html)  [JSON](/news/2005/06/16/eastern-orthodox-church-demotes-former-patriarch-irenaios-i-to-a-rank-of-a-monk.json)  [XML](/news/2005/06/16/eastern-orthodox-church-demotes-former-patriarch-irenaios-i-to-a-rank-of-a-monk.xml)  
+
 ### [2005-06-16](/news/2005/06/16/index.md)
 
+##### Eastern Orthodox
 #  Eastern Orthodox Church demotes former patriarch Irenaios I to a rank of a monk 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4101886.stm)
 2. [Jerusalem Post/AP](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1118888337168)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/11/the-irish-national-liberation-army-inla-announces-an-end-to-violence-in-northern-ireland.html)  [JSON](/news/2009/10/11/the-irish-national-liberation-army-inla-announces-an-end-to-violence-in-northern-ireland.json)  [XML](/news/2009/10/11/the-irish-national-liberation-army-inla-announces-an-end-to-violence-in-northern-ireland.xml)  
+
 ### [2009-10-11](/news/2009/10/11/index.md)
 
+##### INLA
 #  The Irish National Liberation Army (INLA) announces an end to violence in Northern Ireland. 
 
 An Irish republican paramilitary group responsible for dozens of murders during three decades of violence in Northern Ireland has renounced its armed struggle, its political wing said.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2009/10/12/2711061.htm?section=world)
 2. [The Guardian](http://www.guardian.co.uk/uk/2009/oct/11/northern-ireland-republican-group-disband)

@@ -1,7 +1,7 @@
-## [2003-01-26](/news/2003/01/26/index.md)
 
-### [ American football Super Bowl XXXVII: The Tampa Bay Buccaneers defeated the Oakland Raiders, 48-21.](/news/2003/01/26/american-football-super-bowl-xxxvii-the-tampa-bay-buccaneers-defeated-the-oakland-raiders-48a21.md)
-_Context: American football, Oakland Raiders, Super Bowl XXXVII, Tampa Bay Buccaneers_
+Formats: [HTML](2003/01/26/index.html)  [JSON](2003/01/26/index.json)  [XML](2003/01/26/index.xml)  
+
+## [2003-01-26](/news/2003/01/26/index.md)
 
 ## [Previous Day...](/news/2003/01/25/index.md)
 

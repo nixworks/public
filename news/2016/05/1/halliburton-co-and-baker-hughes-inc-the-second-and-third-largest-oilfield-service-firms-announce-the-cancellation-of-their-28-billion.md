@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/1/halliburton-co-and-baker-hughes-inc-the-second-a
 
 ### [2016-05-1](/news/2016/05/1/index.md)
 
+##### Halliburton
 # Halliburton Co. and Baker Hughes Inc., the second- and third-largest oilfield service firms, announce the cancellation of their $28 billion merger which has faced opposition from U.S. and European antitrust regulators. Halliburton will reportedly have to pay Baker Hughes a $3.5 billion termination fee if the deal is called off. 
 
 Halliburton Co. and Baker Hughes Inc. called off their $28 billion merger that faced stiff resistance from regulators in the U.S. and Europe over antitrust concerns.

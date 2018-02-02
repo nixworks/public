@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/7/a-study-shows-that-a-married-person-s-risk-of-encountering-marriage-troubles-increases-by-up-to-75-if-a-co-worker-friend-or-a-family-memb.html)  [JSON](/news/2010/07/7/a-study-shows-that-a-married-person-s-risk-of-encountering-marriage-troubles-increases-by-up-to-75-if-a-co-worker-friend-or-a-family-memb.json)  [XML](/news/2010/07/7/a-study-shows-that-a-married-person-s-risk-of-encountering-marriage-troubles-increases-by-up-to-75-if-a-co-worker-friend-or-a-family-memb.xml)  
+
 ### [2010-07-7](/news/2010/07/7/index.md)
 
+##### divorce
 # A study shows that a married person's risk of encountering marriage troubles increases by up to 75% if a co-worker, friend, or a family member gets a divorce. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Vitals](http://spotlight.vitals.com/2010/07/dr-rose-mcdermott-warns-that-divorce-can-be-contagious/)
 

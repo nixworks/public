@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2015/10/24/the-three-week-synod-on-the-family-convened-by-pope-francis-at-the-vatican-concludes-with-traditional-catholic-orientations-toward-marriage.html)  [JSON](/news/2015/10/24/the-three-week-synod-on-the-family-convened-by-pope-francis-at-the-vatican-concludes-with-traditional-catholic-orientations-toward-marriage.json)  [XML](/news/2015/10/24/the-three-week-synod-on-the-family-convened-by-pope-francis-at-the-vatican-concludes-with-traditional-catholic-orientations-toward-marriage.xml)  
+
 ### [2015-10-24](/news/2015/10/24/index.md)
 
+##### synod on the family
 # The three-week synod on the family convened by Pope Francis at the Vatican concludes with traditional Catholic orientations toward marriage and the family intact. 
 
+Pope Francis called this assembly to reconsider the church’s approach to marriage and family at a time when the very definition of family is changing.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2015/10/25/world/europe/synod-makes-overture-to-the-divorced-but-rejects-gay-marriage.html?_r=0)
+1. [New York Times](https://www.nytimes.com/2015/10/25/world/europe/synod-makes-overture-to-the-divorced-but-rejects-gay-marriage.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2015/10/25/world/25POPE/25POPE-facebookJumbo.jpg)
 
 ### Related:
 

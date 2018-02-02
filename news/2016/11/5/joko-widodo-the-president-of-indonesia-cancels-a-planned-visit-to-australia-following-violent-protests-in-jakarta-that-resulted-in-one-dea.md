@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/11/5/joko-widodo-the-president-of-indonesia-cancels-a-planned-visit-to-australia-following-violent-protests-in-jakarta-that-resulted-in-one-dea.html)  [JSON](/news/2016/11/5/joko-widodo-the-president-of-indonesia-cancels-a-planned-visit-to-australia-following-violent-protests-in-jakarta-that-resulted-in-one-dea.json)  [XML](/news/2016/11/5/joko-widodo-the-president-of-indonesia-cancels-a-planned-visit-to-australia-following-violent-protests-in-jakarta-that-resulted-in-one-dea.xml)  
+
 ### [2016-11-5](/news/2016/11/5/index.md)
 
+##### Joko Widodo
 # Joko Widodo, the President of Indonesia, cancels a planned visit to Australia following violent protests in Jakarta that resulted in one death and 12 injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-37882216)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/8FC8/production/_92280863_indo.jpg)

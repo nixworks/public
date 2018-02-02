@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/8/2008-canadian-parliamentary-dispute-stephane-dion-announces-his-plans-to-resign-as-leader-of-the-liberal-party-of-canada.html)  [JSON](/news/2008/12/8/2008-canadian-parliamentary-dispute-stephane-dion-announces-his-plans-to-resign-as-leader-of-the-liberal-party-of-canada.json)  [XML](/news/2008/12/8/2008-canadian-parliamentary-dispute-stephane-dion-announces-his-plans-to-resign-as-leader-of-the-liberal-party-of-canada.xml)  
+
 ### [2008-12-8](/news/2008/12/8/index.md)
 
+##### proposed opposition coalition
 #  2008 Canadian parliamentary dispute: Stphane Dion announces his plans to resign as leader of the Liberal Party of Canada. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Ottawa Citizen](http://www.ottawacitizen.com/Dion+announces+resignation/1048255/story.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/2/rupiah-banda-of-the-movement-for-multi-party-democracy-is-sworn-in-as-president-of-zambia-after-being-elected-on-october-30.html)  [JSON](/news/2008/11/2/rupiah-banda-of-the-movement-for-multi-party-democracy-is-sworn-in-as-president-of-zambia-after-being-elected-on-october-30.json)  [XML](/news/2008/11/2/rupiah-banda-of-the-movement-for-multi-party-democracy-is-sworn-in-as-president-of-zambia-after-being-elected-on-october-30.xml)  
+
 ### [2008-11-2](/news/2008/11/2/index.md)
 
+##### Rupiah Banda
 #  Rupiah Banda of the Movement for Multi-Party Democracy is sworn in as President of Zambia after being elected on October 30. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Canadian Press via Google](http://canadianpress.google.com/article/ALeqM5g5JrTegUHb1YOLmWvCQ73nO6gr5Q)
 

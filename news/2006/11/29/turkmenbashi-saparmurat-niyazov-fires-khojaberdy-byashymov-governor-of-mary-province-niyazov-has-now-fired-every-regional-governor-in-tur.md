@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/29/turkmenbashi-saparmurat-niyazov-fires-khojaberdy-byashymov-governor-of-mary-province-niyazov-has-now-fired-every-regional-governor-in-tur.html)  [JSON](/news/2006/11/29/turkmenbashi-saparmurat-niyazov-fires-khojaberdy-byashymov-governor-of-mary-province-niyazov-has-now-fired-every-regional-governor-in-tur.json)  [XML](/news/2006/11/29/turkmenbashi-saparmurat-niyazov-fires-khojaberdy-byashymov-governor-of-mary-province-niyazov-has-now-fired-every-regional-governor-in-tur.xml)  
+
 ### [2006-11-29](/news/2006/11/29/index.md)
 
+##### Turkmenbashi
 #  Turkmenbashi Saparmurat Niyazov fires Khojaberdy Byashymov, Governor of Mary Province. Niyazov has now fired every regional governor in Turkmenistan since the beginning of November. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RFE/RL](http://www.rferl.org/featuresarticle/2006/11/795B2FB9-686D-4D2B-A14B-9B50A63CFE7C.html)
 

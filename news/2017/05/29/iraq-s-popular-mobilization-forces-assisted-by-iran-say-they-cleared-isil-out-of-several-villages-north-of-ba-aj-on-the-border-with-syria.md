@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/29/iraq-s-popular-mobilization-forces-assisted-by-
 
 ### [2017-05-29](/news/2017/05/29/index.md)
 
+##### Iraqi Civil War
 # Iraq's Popular Mobilization Forces, assisted by Iran, say they cleared ISIL out of several villages north of Ba'aj on the border with Syria. 
 
 
@@ -24,4 +25,4 @@ Formats: [HTML](/news/2017/05/29/iraq-s-popular-mobilization-forces-assisted-by-
 2. [United States President Barack Obama, at the Gulf Cooperation Council Summit in Saudi Arabia, says the United States will continue to deter and confront aggression against Gulf Arab states; joins others in warning the fragile cease-fire in Syria is on the verge of collapse; pledges vigilance about Iran's destabilizing activities in the Middle East; wants Gulf allies to offer more democratic reforms and improve human rights; and, says the U.S. and its Gulf partners should wait to see whether Iraq can resolve its political crisis before committing more financial aid which is impeding the fight against ISIL. ](/news/2016/04/21/united-states-president-barack-obama-at-the-gulf-cooperation-council-summit-in-saudi-arabia-says-the-united-states-will-continue-to-deter.md) _Context: ISIL, Iran, Syria_
 3. [The United States Secretary of State John Kerry says ISIL has committed genocide against Christians, Yazidis and Shias in areas it controls in Syria and Iraq. ](/news/2016/03/17/the-united-states-secretary-of-state-john-kerry-says-isil-has-committed-genocide-against-christians-yazidis-and-shias-in-areas-it-controls.md) _Context: ISIL, Iraqi Civil War, Syria_
 4. [Iranian state television says Revolutionary Guard brigadier general, Hossein Hamadani, has been killed on the outskirts of Syria's Aleppo by Islamic State of Iraq and the Levant militants. This is the latest in a string of high-ranking Iranian commanders killed in Iraq and Syria in the last six months. ](/news/2015/10/9/iranian-state-television-says-revolutionary-guard-brigadier-general-hossein-hamadani-has-been-killed-on-the-outskirts-of-syria-s-aleppo-by.md) _Context: ISIL, Iran, Syria_
-5. [During a visit to Syria, his first, President Vladimir Putin announces that a significant part of Russian forces will withdraw from Syria now that ISIL has been defeated in the country. ](/news/2017/12/11/during-a-visit-to-syria-his-first-president-vladimir-putin-announces-that-a-significant-part-of-russian-forces-will-withdraw-from-syria-no.md) _Context: ISIL, Syria_
+5. [The U.S.-led coalition against ISIL says it has killed up to 150 militants in air strikes on a headquarters in Deir ez-Zor Governorate, Syria. ](/news/2018/01/24/the-u-s-led-coalition-against-isil-says-it-has-killed-up-to-150-militants-in-air-strikes-on-a-headquarters-in-deir-ez-zor-governorate-syri.md) _Context: ISIL, Syria_

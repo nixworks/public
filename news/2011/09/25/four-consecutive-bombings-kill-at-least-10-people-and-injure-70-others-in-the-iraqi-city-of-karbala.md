@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/25/four-consecutive-bombings-kill-at-least-10-people-and-injure-70-others-in-the-iraqi-city-of-karbala.html)  [JSON](/news/2011/09/25/four-consecutive-bombings-kill-at-least-10-people-and-injure-70-others-in-the-iraqi-city-of-karbala.json)  [XML](/news/2011/09/25/four-consecutive-bombings-kill-at-least-10-people-and-injure-70-others-in-the-iraqi-city-of-karbala.xml)  
+
 ### [2011-09-25](/news/2011/09/25/index.md)
 
+##### Iraq
 # Four consecutive bombings kill at least 10 people and injure 70 others in the Iraqi city of Karbala. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/09/25/world/meast/iraq-violence/index.html?hpt=wo_c2)
 

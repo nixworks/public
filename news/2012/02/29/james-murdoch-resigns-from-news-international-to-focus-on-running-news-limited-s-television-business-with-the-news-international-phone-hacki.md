@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/29/james-murdoch-resigns-from-news-international-to-focus-on-running-news-limited-s-television-business-with-the-news-international-phone-hacki.html)  [JSON](/news/2012/02/29/james-murdoch-resigns-from-news-international-to-focus-on-running-news-limited-s-television-business-with-the-news-international-phone-hacki.json)  [XML](/news/2012/02/29/james-murdoch-resigns-from-news-international-to-focus-on-running-news-limited-s-television-business-with-the-news-international-phone-hacki.xml)  
+
 ### [2012-02-29](/news/2012/02/29/index.md)
 
+##### James
 # James Murdoch resigns from News International to focus on running News Limited's television business with the News International phone hacking scandal as a factor in the decision. 
 
 James Murdoch has resigned as chairman of News International a day after its parent company revealed it may sell off its publishing business.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/business/james-murdoch-quits-as-hacking-claims-keep-coming-20120301-1u3xe.html)
 2. [The Telegraph](http://www.telegraph.co.uk/news/uknews/phone-hacking/9114105/James-Murdoch-resigns-from-News-International-as-firm-admits-papers-could-be-sold-off.html)

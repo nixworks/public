@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/2/polling-closes-in-the-mexican-general-election-with-voters-electing-a-new-president-both-houses-of-congress-and-four-state-district-gove.html)  [JSON](/news/2006/07/2/polling-closes-in-the-mexican-general-election-with-voters-electing-a-new-president-both-houses-of-congress-and-four-state-district-gove.json)  [XML](/news/2006/07/2/polling-closes-in-the-mexican-general-election-with-voters-electing-a-new-president-both-houses-of-congress-and-four-state-district-gove.xml)  
+
 ### [2006-07-2](/news/2006/07/2/index.md)
 
+##### Mexico
 #  Polling closes in the Mexican general election, with voters electing a new President, both houses of Congress, and four state-district governors. Exit polls show the presidential race between Felipe Caldern of the National Action Party and Andrs Manuel Lpez Obrador, a former mayor of Mexico City, as too close to call. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/stories/2006/07/02/world/main1773846.shtml)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2006/07/02/d3de7d0f-a642-11e2-a3f0-029118418759/image1773888x.jpg)

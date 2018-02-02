@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/08/19/attorney-general-mohammad-ishaq-aloko-is-fired-by-afghan-president-hamid-karzai-over-an-unsanctioned-meeting-with-taliban-peace-negotiators.html)  [JSON](/news/2013/08/19/attorney-general-mohammad-ishaq-aloko-is-fired-by-afghan-president-hamid-karzai-over-an-unsanctioned-meeting-with-taliban-peace-negotiators.json)  [XML](/news/2013/08/19/attorney-general-mohammad-ishaq-aloko-is-fired-by-afghan-president-hamid-karzai-over-an-unsanctioned-meeting-with-taliban-peace-negotiators.xml)  
+
 ### [2013-08-19](/news/2013/08/19/index.md)
 
+##### Mohammad Ishaq Aloko
 # Attorney general Mohammad Ishaq Aloko is fired by Afghan President Hamid Karzai, over an unsanctioned meeting with Taliban peace negotiators in the United Arab Emirates. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters via Yahoo!](http://news.yahoo.com/afghan-official-says-attorney-general-sacked-over-secret-062454126.html)
+1. [Reuters via Yahoo!](https://news.yahoo.com/afghan-official-says-attorney-general-sacked-over-secret-062454126.html)
 
 ### Related:
 

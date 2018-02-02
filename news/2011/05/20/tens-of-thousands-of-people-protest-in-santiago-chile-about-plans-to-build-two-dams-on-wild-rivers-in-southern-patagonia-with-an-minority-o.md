@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/20/tens-of-thousands-of-people-protest-in-santiago-chile-about-plans-to-build-two-dams-on-wild-rivers-in-southern-patagonia-with-an-minority-o.html)  [JSON](/news/2011/05/20/tens-of-thousands-of-people-protest-in-santiago-chile-about-plans-to-build-two-dams-on-wild-rivers-in-southern-patagonia-with-an-minority-o.json)  [XML](/news/2011/05/20/tens-of-thousands-of-people-protest-in-santiago-chile-about-plans-to-build-two-dams-on-wild-rivers-in-southern-patagonia-with-an-minority-o.xml)  
+
 ### [2011-05-20](/news/2011/05/20/index.md)
 
+##### Santiago
 # Tens of thousands of people protest in Santiago, Chile about plans to build two dams on wild rivers in southern Patagonia with an minority of people turning violent. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/43118024)
 

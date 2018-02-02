@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/1/activist-dymtro-bulatov-reappears-after-allegedly-being-tortured-by-the-government.html)  [JSON](/news/2014/02/1/activist-dymtro-bulatov-reappears-after-allegedly-being-tortured-by-the-government.json)  [XML](/news/2014/02/1/activist-dymtro-bulatov-reappears-after-allegedly-being-tortured-by-the-government.xml)  
+
 ### [2014-02-1](/news/2014/02/1/index.md)
 
+##### 
 # Activist Dymtro Bulatov reappears after allegedly being tortured by the government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/01/31/world/europe/ukraine-unrest/)
 

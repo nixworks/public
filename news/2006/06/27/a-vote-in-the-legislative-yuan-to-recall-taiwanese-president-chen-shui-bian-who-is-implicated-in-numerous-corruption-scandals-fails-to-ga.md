@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2006/06/27/a-vote-in-the-legislative-yuan-to-recall-taiwanese-president-chen-shui-bian-who-is-implicated-in-numerous-corruption-scandals-fails-to-ga.html)  [JSON](/news/2006/06/27/a-vote-in-the-legislative-yuan-to-recall-taiwanese-president-chen-shui-bian-who-is-implicated-in-numerous-corruption-scandals-fails-to-ga.json)  [XML](/news/2006/06/27/a-vote-in-the-legislative-yuan-to-recall-taiwanese-president-chen-shui-bian-who-is-implicated-in-numerous-corruption-scandals-fails-to-ga.xml)  
+
 ### [2006-06-27](/news/2006/06/27/index.md)
 
+##### legislative chamber
 #  A vote in the Legislative Yuan to recall Taiwanese President Chen Shui-bian, who is implicated in numerous corruption scandals, fails to gain the necessary two-thirds majority. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://www.washingtonpost.com/wp-dyn/content/article/2006/06/27/AR2006062700055.html)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=azTIQJ3kJLxM&refer=top_world_news)
+1. [AP](https://www.washingtonpost.com/wp-dyn/content/article/2006/06/27/AR2006062700055.html)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000087&sid=azTIQJ3kJLxM&refer=top_world_news)
 2. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

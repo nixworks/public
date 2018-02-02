@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/24/france-states-its-joint-effort-with-mauritania-to-free-a-french-hostage-is-over-but-no-word-is-released-on-the-whereabouts-of-the-hostage-o.html)  [JSON](/news/2010/07/24/france-states-its-joint-effort-with-mauritania-to-free-a-french-hostage-is-over-but-no-word-is-released-on-the-whereabouts-of-the-hostage-o.json)  [XML](/news/2010/07/24/france-states-its-joint-effort-with-mauritania-to-free-a-french-hostage-is-over-but-no-word-is-released-on-the-whereabouts-of-the-hostage-o.xml)  
+
 ### [2010-07-24](/news/2010/07/24/index.md)
 
+##### Mauritanian
 # France states its joint effort with Mauritania to free a French hostage is over, but no word is released on the whereabouts of the hostage or if he is even still alive. 
 
 French-backed Mauritanian raid gives no news of the French hostage taken by al-Qaeda.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/2010724145143658524.html)
 1. [Cover Image](http://www.aljazeera.com)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/11/the-boy-scouts-of-america-announces-that-girls-
 
 ### [2017-10-11](/news/2017/10/11/index.md)
 
+##### Boy Scouts of America membership policies
 # The Boy Scouts of America announces that girls may join as full members of the Cub Scouts beginning in 2018. Young women may join as full members of the Boy Scouts and earn the highest rank of Eagle Scout beginning in 2019. 
 
  NEW YORK (AP) — In its latest momentous policy shift, the Boy Scouts of America will admit girls into the Cub Scouts starting next year and establish a new program for older girls

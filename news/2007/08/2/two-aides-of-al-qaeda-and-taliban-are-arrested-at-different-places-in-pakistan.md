@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/08/2/two-aides-of-al-qaeda-and-taliban-are-arrested-at-different-places-in-pakistan.html)  [JSON](/news/2007/08/2/two-aides-of-al-qaeda-and-taliban-are-arrested-at-different-places-in-pakistan.json)  [XML](/news/2007/08/2/two-aides-of-al-qaeda-and-taliban-are-arrested-at-different-places-in-pakistan.xml)  
+
 ### [2007-08-2](/news/2007/08/2/index.md)
 
+##### al Qaeda
 #  Two aides of al Qaeda and Taliban are arrested at different places in Pakistan. 
 
 
@@ -7,8 +11,8 @@
 
 ### Related:
 
-1. [ United States Secretary of Defense Robert Gates says the U.S. is "ready and willing" to send troops to Pakistan to combat al-Qaeda and the Taliban. ](/news/2008/01/25/united-states-secretary-of-defense-robert-gates-says-the-u-s-is-ready-and-willing-to-send-troops-to-pakistan-to-combat-al-qaeda-and-the.md) _Context: Pakistan, Taliban, al-Qaeda_
-2. [ Pakistan raises concerns about a draft bill adopted by the United States Congress that ties United States foreign aid to progress in the fight against Al Qaeda and the Taliban. ](/news/2007/07/28/pakistan-raises-concerns-about-a-draft-bill-adopted-by-the-united-states-congress-that-ties-united-states-foreign-aid-to-progress-in-the-fi.md) _Context: Pakistan, Taliban, al-Qaeda_
-3. [ Khurshid Kasuri, the Foreign Minister of Pakistan warns the United States that it would be completely counterproductive" to launch a strike against Al Qaeda and Taliban positions in the tribal areas of Pakistan. ](/news/2007/07/22/khurshid-kasuri-the-foreign-minister-of-pakistan-warns-the-united-states-that-it-would-be-completely-counterproductive-to-launch-a-strike.md) _Context: Pakistan, Taliban, al-Qaeda_
-4. [ Vice President of the United States Dick Cheney makes surprise visits to Pakistan and Afghanistan to encourage President of Pakistan Pervez Musharraf and President of Afghanistan Hamid Karzai to increase border security between the two countries and to take further action against the Taliban and al-Qaeda. ](/news/2007/02/26/vice-president-of-the-united-states-dick-cheney-makes-surprise-visits-to-pakistan-and-afghanistan-to-encourage-president-of-pakistan-pervez.md) _Context: Pakistan, Taliban, al-Qaeda_
-5. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Pakistan, Taliban_
+1. [Six insurgents kill at least 18 people, including 4 Afghans and 14 foreigners, in a 13-hour gun battle. The Afghan Interior Ministry says that the siege ended when the last gunman was shot dead. NATO reports that "no foreign troops" died. The Taliban claim that they sent five suicide bombers armed with hand grenades and AK-47 assault rifles. The Afghan government blames the attack on the Pakistan-based Haqqani network. ](/news/2018/01/21/six-insurgents-kill-at-least-18-people-including-4-afghans-and-14-foreigners-in-a-13-hour-gun-battle-the-afghan-interior-ministry-says-th.md) _Context: Pakistan, Taliban_
+2. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Pakistan, Taliban_
+3. [ Unidentified gunmen shoot dead Khurram Zaki, a Pakistani rights activist known for speaking out against the Taliban. ](/news/2016/05/8/unidentified-gunmen-shoot-dead-khurram-zaki-a-pakistani-rights-activist-known-for-speaking-out-against-the-taliban.md) _Context: Pakistan, Taliban_
+4. [The Taliban leadership council reportedly meets to determine a successor to Mullah Akhtar Mansour, killed this weekend during an American drone strike in Pakistan. ](/news/2016/05/23/the-taliban-leadership-council-reportedly-meets-to-determine-a-successor-to-mullah-akhtar-mansour-killed-this-weekend-during-an-american-dr.md) _Context: Pakistan, Taliban_
+5. [The Taliban's Qatar office confirms its leaders are in Pakistan to talk about Afghan refugees and the release of prisoners. The representative did not say if the delegation will discuss the peace process. ](/news/2016/04/27/the-taliban-s-qatar-office-confirms-its-leaders-are-in-pakistan-to-talk-about-afghan-refugees-and-the-release-of-prisoners-the-representati.md) _Context: Pakistan, Taliban_

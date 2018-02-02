@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/9/police-in-uganda-fire-tear-gas-at-demonstrators-protesting-the-win-of-incumbent-president-yoweri-museveni-in-elections.html)  [JSON](/news/2011/03/9/police-in-uganda-fire-tear-gas-at-demonstrators-protesting-the-win-of-incumbent-president-yoweri-museveni-in-elections.json)  [XML](/news/2011/03/9/police-in-uganda-fire-tear-gas-at-demonstrators-protesting-the-win-of-incumbent-president-yoweri-museveni-in-elections.xml)  
+
 ### [2011-03-9](/news/2011/03/9/index.md)
 
+##### Uganda
 # Police in Uganda fire tear gas at demonstrators protesting the win of incumbent President Yoweri Museveni in elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE7280CH20110309?sp=true)
 

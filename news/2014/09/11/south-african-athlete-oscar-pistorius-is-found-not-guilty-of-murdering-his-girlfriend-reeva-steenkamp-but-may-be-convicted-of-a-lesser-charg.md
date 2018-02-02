@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/11/south-african-athlete-oscar-pistorius-is-found-not-guilty-of-murdering-his-girlfriend-reeva-steenkamp-but-may-be-convicted-of-a-lesser-charg.html)  [JSON](/news/2014/09/11/south-african-athlete-oscar-pistorius-is-found-not-guilty-of-murdering-his-girlfriend-reeva-steenkamp-but-may-be-convicted-of-a-lesser-charg.json)  [XML](/news/2014/09/11/south-african-athlete-oscar-pistorius-is-found-not-guilty-of-murdering-his-girlfriend-reeva-steenkamp-but-may-be-convicted-of-a-lesser-charg.xml)  
+
 ### [2014-09-11](/news/2014/09/11/index.md)
 
+##### South Africa
 # South African athlete Oscar Pistorius is found not guilty of murdering his girlfriend Reeva Steenkamp but may be convicted of a lesser charge. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-09-11-AF--Pistorius-Trial/id-be578ca4ff854ac381a5d34053aa0de4)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/27/in-kyrgyzstan-about-400-vamshi-uzbek-refugees-who-fled-from-uzbekistan-after-crushing-of-an-uprising-last-may-will-be-moved-to-romania.html)  [JSON](/news/2005/07/27/in-kyrgyzstan-about-400-vamshi-uzbek-refugees-who-fled-from-uzbekistan-after-crushing-of-an-uprising-last-may-will-be-moved-to-romania.json)  [XML](/news/2005/07/27/in-kyrgyzstan-about-400-vamshi-uzbek-refugees-who-fled-from-uzbekistan-after-crushing-of-an-uprising-last-may-will-be-moved-to-romania.xml)  
+
 ### [2005-07-27](/news/2005/07/27/index.md)
 
+##### Kyrgyzstan
 #  In Kyrgyzstan, about 400 Vamshi Uzbek refugees who fled from Uzbekistan after crushing of an uprising last May will be moved to Romania 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4720181.stm)
 2. [MosNews](http://www.mosnews.com/news/2005/07/27/uzbekrefugees.shtml)

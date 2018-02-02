@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/8/the-president-of-pakistan-asif-ali-zardari-arrives-in-india-on-the-first-visit-by-a-pakistani-president-in-seven-years.html)  [JSON](/news/2012/04/8/the-president-of-pakistan-asif-ali-zardari-arrives-in-india-on-the-first-visit-by-a-pakistani-president-in-seven-years.json)  [XML](/news/2012/04/8/the-president-of-pakistan-asif-ali-zardari-arrives-in-india-on-the-first-visit-by-a-pakistani-president-in-seven-years.xml)  
+
 ### [2012-04-8](/news/2012/04/8/index.md)
 
+##### president
 # The President of Pakistan Asif Ali Zardari arrives in India on the first visit by a Pakistani President in seven years. 
 
 President Asif Ali Zardari of Pakistan holds &quot;friendly&quot; talks with Indian Prime Minister Manmohan Singh on a rare visit to India.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17648622)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59549000/jpg/_59549900_014466353-1.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/15/the-constitution-of-kosovo-comes-into-effect.html)  [JSON](/news/2008/06/15/the-constitution-of-kosovo-comes-into-effect.json)  [XML](/news/2008/06/15/the-constitution-of-kosovo-comes-into-effect.xml)  
+
 ### [2008-06-15](/news/2008/06/15/index.md)
 
+##### constitution
 #  The constitution of Kosovo comes into effect. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7455171.stm)
 

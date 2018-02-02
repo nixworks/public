@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/2/13-hostages-were-rescued-following-a-standoff-wi
 
 ### [2016-07-2](/news/2016/07/2/index.md)
 
+##### 2016 Gulshan attack
 # 13 hostages were rescued following a standoff with the Rapid Action Battalion. 
 
 Bangladesh Prime Minister Sheikh Hasina said on Saturday that 13 hostages were rescued from a besieged cafe in Dhaka on Saturday, but some had been killed.

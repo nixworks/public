@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/02/24/the-national-front-marches-on-thailand-s-government-house-demanding-an-early-election.html)  [JSON](/news/2009/02/24/the-national-front-marches-on-thailand-s-government-house-demanding-an-early-election.json)  [XML](/news/2009/02/24/the-national-front-marches-on-thailand-s-government-house-demanding-an-early-election.xml)  
+
 ### [2009-02-24](/news/2009/02/24/index.md)
 
+##### red shirt
 #  The National Front marches on Thailand's Government House, demanding an early election. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601080&sid=asSwEsf6oGQ0&refer=asia)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601080&sid=asSwEsf6oGQ0&refer=asia)
 
 ### Related:
 

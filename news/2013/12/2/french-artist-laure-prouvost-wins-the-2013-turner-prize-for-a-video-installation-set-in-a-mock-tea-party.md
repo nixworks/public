@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/12/2/french-artist-laure-prouvost-wins-the-2013-turner-prize-for-a-video-installation-set-in-a-mock-tea-party.html)  [JSON](/news/2013/12/2/french-artist-laure-prouvost-wins-the-2013-turner-prize-for-a-video-installation-set-in-a-mock-tea-party.json)  [XML](/news/2013/12/2/french-artist-laure-prouvost-wins-the-2013-turner-prize-for-a-video-installation-set-in-a-mock-tea-party.xml)  
+
 ### [2013-12-2](/news/2013/12/2/index.md)
 
+##### French-born
 # French artist Laure Prouvost wins the 2013 Turner Prize for a video installation set in a mock tea party. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo News](http://news.yahoo.com/french-artist-laure-prouvost-wins-britains-turner-prize-201339630.html)
+1. [AFP via Yahoo News](https://news.yahoo.com/french-artist-laure-prouvost-wins-britains-turner-prize-201339630.html)
 
 ### Related:
 

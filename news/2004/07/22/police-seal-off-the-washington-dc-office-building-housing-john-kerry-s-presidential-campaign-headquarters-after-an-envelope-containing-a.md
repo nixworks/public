@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/22/police-seal-off-the-washington-dc-office-building-housing-john-kerry-s-presidential-campaign-headquarters-after-an-envelope-containing-a.html)  [JSON](/news/2004/07/22/police-seal-off-the-washington-dc-office-building-housing-john-kerry-s-presidential-campaign-headquarters-after-an-envelope-containing-a.json)  [XML](/news/2004/07/22/police-seal-off-the-washington-dc-office-building-housing-john-kerry-s-presidential-campaign-headquarters-after-an-envelope-containing-a.xml)  
+
 ### [2004-07-22](/news/2004/07/22/index.md)
 
+##### Washington, DC
 #  Police seal off the Washington, DC, office building housing John Kerry's presidential campaign headquarters after an envelope containing a suspicious white powder is opened by a Kerry staff member. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/wire/Politics/ap20040722_1880.html)
 

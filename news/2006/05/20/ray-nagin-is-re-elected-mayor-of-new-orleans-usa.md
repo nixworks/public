@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/20/ray-nagin-is-re-elected-mayor-of-new-orleans-usa.html)  [JSON](/news/2006/05/20/ray-nagin-is-re-elected-mayor-of-new-orleans-usa.json)  [XML](/news/2006/05/20/ray-nagin-is-re-elected-mayor-of-new-orleans-usa.xml)  
+
 ### [2006-05-20](/news/2006/05/20/index.md)
 
+##### Ray Nagin
 #  Ray Nagin is re-elected Mayor of New Orleans, USA.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/5000660.stm)
 

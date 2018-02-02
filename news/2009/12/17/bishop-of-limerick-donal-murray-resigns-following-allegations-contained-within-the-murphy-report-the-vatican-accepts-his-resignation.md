@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/17/bishop-of-limerick-donal-murray-resigns-following-allegations-contained-within-the-murphy-report-the-vatican-accepts-his-resignation.html)  [JSON](/news/2009/12/17/bishop-of-limerick-donal-murray-resigns-following-allegations-contained-within-the-murphy-report-the-vatican-accepts-his-resignation.json)  [XML](/news/2009/12/17/bishop-of-limerick-donal-murray-resigns-following-allegations-contained-within-the-murphy-report-the-vatican-accepts-his-resignation.xml)  
+
 ### [2009-12-17](/news/2009/12/17/index.md)
 
+##### Bishop of Limerick
 #  Bishop of Limerick Donal Murray resigns following allegations contained within the Murphy Report. The Vatican accepts his resignation. 
 
 The Vatican has confirmed that Pope Benedict XVI has accepted the resignation of Bishop of Limerick Donal Murray.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8419447.stm)
 2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/1025455/1/.html)

@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2014/08/31/at-least-three-people-have-been-killed-in-clashes-between-the-pakistani-police-and-opponents-of-prime-minister-nawaz-sharif.html)  [JSON](/news/2014/08/31/at-least-three-people-have-been-killed-in-clashes-between-the-pakistani-police-and-opponents-of-prime-minister-nawaz-sharif.json)  [XML](/news/2014/08/31/at-least-three-people-have-been-killed-in-clashes-between-the-pakistani-police-and-opponents-of-prime-minister-nawaz-sharif.xml)  
+
 ### [2014-08-31](/news/2014/08/31/index.md)
 
+##### Pakistan
 # At least three people have been killed in clashes between the Pakistani police and opponents of Prime Minister Nawaz Sharif. 
 
+At least three people died in clashes with the police when demonstrators, calling for Prime Minister Nawaz Sharif’s resignation, marched toward his official residence.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2014/09/01/world/asia/pakistani-unrest.html)
+1. [New York Times](https://www.nytimes.com/2014/09/01/world/asia/pakistani-unrest.html)
+1. [Cover Image](https://static01.nyt.com/images/2014/08/31/world/asia/01PAKISTAN1/01PAKISTAN1-videoSixteenByNine1050.jpg)
 
 ### Related:
 

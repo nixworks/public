@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/14/south-african-amputee-sprint-runner-oscar-pistorius-who-competed-in-the-2012-summer-olympics-is-charged-with-the-murder-of-his-girlfriend.html)  [JSON](/news/2013/02/14/south-african-amputee-sprint-runner-oscar-pistorius-who-competed-in-the-2012-summer-olympics-is-charged-with-the-murder-of-his-girlfriend.json)  [XML](/news/2013/02/14/south-african-amputee-sprint-runner-oscar-pistorius-who-competed-in-the-2012-summer-olympics-is-charged-with-the-murder-of-his-girlfriend.xml)  
+
 ### [2013-02-14](/news/2013/02/14/index.md)
 
+##### South Africa
 # South African amputee sprint runner Oscar Pistorius, who competed in the 2012 Summer Olympics, is charged with the murder of his girlfriend, Reeva Steenkamp, who was shot dead at Pistorius's home in Pretoria. 
 
 South African runner faces premeditated murder charge over fatal shooting of girlfriend at his home in Pretoria.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/02/201321464236891351.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-21459240)

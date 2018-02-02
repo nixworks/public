@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/26/nearly-70-000-people-attend-a-rally-in-the-u-s-city-of-madison-wisconsin-over-plans-by-the-governor-of-wisconsin-scott-walker-to-remove-co.html)  [JSON](/news/2011/02/26/nearly-70-000-people-attend-a-rally-in-the-u-s-city-of-madison-wisconsin-over-plans-by-the-governor-of-wisconsin-scott-walker-to-remove-co.json)  [XML](/news/2011/02/26/nearly-70-000-people-attend-a-rally-in-the-u-s-city-of-madison-wisconsin-over-plans-by-the-governor-of-wisconsin-scott-walker-to-remove-co.xml)  
+
 ### [2011-02-26](/news/2011/02/26/index.md)
 
+##### 2011 Wisconsin budget protests
 # Nearly 70,000 people attend a rally in the U.S. city of Madison, Wisconsin over plans by the Governor of Wisconsin Scott Walker to remove collective bargaining rights from most state employees. 
 
 For a second straight Saturday, tens of thousands of protesters filled the streets around the state Capitol in what organizers hoped would be the largest day in the struggle to
 
 
-### Source:
+### Sources:
 
 1. [Wisconsin State Journal](http://host.madison.com/wsj/news/local/govt-and-politics/article_19c56fb6-41d7-11e0-820b-001cc4c03286.html)
 1. [Cover Image](http://bloximages.chicago2.vip.townnews.com/host.madison.com/content/tncms/assets/v3/editorial/4/4d/44dfd533-911f-5fd7-9e84-971879f58a4d/4d699e4c16fc1.preview-1024.jpg?resize=946%2C630)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/2/the-census-of-marine-life-is-released-after-10-years-of-study-of-the-worlds-oceans-showing-that-there-are-230-000-species-of-animal-living-t.html)  [JSON](/news/2010/08/2/the-census-of-marine-life-is-released-after-10-years-of-study-of-the-worlds-oceans-showing-that-there-are-230-000-species-of-animal-living-t.json)  [XML](/news/2010/08/2/the-census-of-marine-life-is-released-after-10-years-of-study-of-the-worlds-oceans-showing-that-there-are-230-000-species-of-animal-living-t.xml)  
+
 ### [2010-08-2](/news/2010/08/2/index.md)
 
+##### Census of Marine Life
 # The Census of Marine Life is released after 10 years of study of the worlds oceans showing that there are 230,000 species of animal living there. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/scitech/2010/08/02/scientists-release-results-census-sea/?test=faces)
 2. [The Guardian](http://www.guardian.co.uk/environment/2010/aug/02/census-marine-life-sea)

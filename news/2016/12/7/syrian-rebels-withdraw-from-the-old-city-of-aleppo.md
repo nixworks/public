@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/7/syrian-rebels-withdraw-from-the-old-city-of-alep
 
 ### [2016-12-7](/news/2016/12/7/index.md)
 
+##### Syrian Civil War
 #  Syrian rebels withdraw from the old city of Aleppo. 
 
 Turkish warplanes pounded 12 Islamic State targets in the al-Bab region of northern Syria on Wednesday, killing 23 militants, the military said.

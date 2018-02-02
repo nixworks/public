@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/9/a-u-s-federal-judge-denies-a-request-to-stop-con
 
 ### [2016-09-9](/news/2016/09/9/index.md)
 
+##### Dakota Access Pipeline
 # A U.S. federal judge denies a request to stop construction of a pipeline that runs through the Standing Rock Reservation of the Sioux people. 
 
 But federal authorities quickly said the pipeline near a lake will not go forward pending more reviews, and said the case highlights need for reform.

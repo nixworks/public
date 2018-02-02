@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/11/at-least-54-hindu-pilgrims-have-been-killed-when-a-dam-in-the-madhya-pradesh-state-in-india-is-apparently-opened-by-mistake.html)  [JSON](/news/2005/04/11/at-least-54-hindu-pilgrims-have-been-killed-when-a-dam-in-the-madhya-pradesh-state-in-india-is-apparently-opened-by-mistake.json)  [XML](/news/2005/04/11/at-least-54-hindu-pilgrims-have-been-killed-when-a-dam-in-the-madhya-pradesh-state-in-india-is-apparently-opened-by-mistake.xml)  
+
 ### [2005-04-11](/news/2005/04/11/index.md)
 
+##### Hindu
 #  At least 54 Hindu pilgrims have been killed when a dam in the Madhya Pradesh state in India is apparently opened by mistake. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4432347.stm)
 

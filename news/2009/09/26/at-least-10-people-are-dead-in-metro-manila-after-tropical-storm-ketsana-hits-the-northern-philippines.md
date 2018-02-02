@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/26/at-least-10-people-are-dead-in-metro-manila-after-tropical-storm-ketsana-hits-the-northern-philippines.html)  [JSON](/news/2009/09/26/at-least-10-people-are-dead-in-metro-manila-after-tropical-storm-ketsana-hits-the-northern-philippines.json)  [XML](/news/2009/09/26/at-least-10-people-are-dead-in-metro-manila-after-tropical-storm-ketsana-hits-the-northern-philippines.xml)  
+
 ### [2009-09-26](/news/2009/09/26/index.md)
 
+##### Metro Manila
 #  At least 10 people are dead in Metro Manila after Tropical Storm Ketsana hits the northern Philippines. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iRUDyeGrHCZ6Bd9LyEdrne0FN6hA)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8276347.stm)

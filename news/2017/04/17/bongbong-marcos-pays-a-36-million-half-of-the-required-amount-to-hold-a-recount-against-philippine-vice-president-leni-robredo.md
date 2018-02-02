@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/17/bongbong-marcos-pays-a-36-million-half-of-the-r
 
 ### [2017-04-17](/news/2017/04/17/index.md)
 
+##### Philippine presidential election, 2016
 # Bongbong Marcos pays [?]36 million, half of the required amount to hold a recount against Philippine vice president Leni Robredo.
 
 

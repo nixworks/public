@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/19/professional-golfer-tiger-woods-make-a-public-apology-over-reports-of-having-extramarital-affairs.html)  [JSON](/news/2010/02/19/professional-golfer-tiger-woods-make-a-public-apology-over-reports-of-having-extramarital-affairs.json)  [XML](/news/2010/02/19/professional-golfer-tiger-woods-make-a-public-apology-over-reports-of-having-extramarital-affairs.xml)  
+
 ### [2010-02-19](/news/2010/02/19/index.md)
 
+##### Tiger Woods
 # Professional golfer Tiger Woods make a public apology over reports of having extramarital affairs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/golf/8521060.stm)
 2. [CBS News](http://www.cbsnews.com/stories/2010/02/18/sportsline/main6220458.shtml)

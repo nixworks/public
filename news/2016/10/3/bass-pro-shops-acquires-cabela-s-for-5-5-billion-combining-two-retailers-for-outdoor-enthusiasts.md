@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/3/bass-pro-shops-acquires-cabela-s-for-5-5-billion
 
 ### [2016-10-3](/news/2016/10/3/index.md)
 
+##### Bass Pro Shops
 # Bass Pro Shops acquires Cabela's for $5.5 billion, combining two retailers for outdoor enthusiasts. 
 
 

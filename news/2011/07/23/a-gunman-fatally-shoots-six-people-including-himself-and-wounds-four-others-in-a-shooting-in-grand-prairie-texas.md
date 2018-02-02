@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/23/a-gunman-fatally-shoots-six-people-including-himself-and-wounds-four-others-in-a-shooting-in-grand-prairie-texas.html)  [JSON](/news/2011/07/23/a-gunman-fatally-shoots-six-people-including-himself-and-wounds-four-others-in-a-shooting-in-grand-prairie-texas.json)  [XML](/news/2011/07/23/a-gunman-fatally-shoots-six-people-including-himself-and-wounds-four-others-in-a-shooting-in-grand-prairie-texas.xml)  
+
 ### [2011-07-23](/news/2011/07/23/index.md)
 
+##### Grand Prairie
 # A gunman fatally shoots six people, including himself, and wounds four others in a shooting in Grand Prairie, Texas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2011/jul/24/gunman-texas-birthday-party)
 

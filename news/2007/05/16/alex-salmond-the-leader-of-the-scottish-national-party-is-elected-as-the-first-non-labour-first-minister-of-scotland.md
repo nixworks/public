@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/16/alex-salmond-the-leader-of-the-scottish-national-party-is-elected-as-the-first-non-labour-first-minister-of-scotland.html)  [JSON](/news/2007/05/16/alex-salmond-the-leader-of-the-scottish-national-party-is-elected-as-the-first-non-labour-first-minister-of-scotland.json)  [XML](/news/2007/05/16/alex-salmond-the-leader-of-the-scottish-national-party-is-elected-as-the-first-non-labour-first-minister-of-scotland.xml)  
+
 ### [2007-05-16](/news/2007/05/16/index.md)
 
+##### Alex Salmond
 #  Alex Salmond, the leader of the Scottish National Party, is elected as the first non-Labour First Minister of Scotland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/scotland/6659531.stm)
 

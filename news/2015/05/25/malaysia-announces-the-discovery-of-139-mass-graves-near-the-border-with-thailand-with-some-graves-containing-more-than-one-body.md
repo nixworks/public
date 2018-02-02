@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/25/malaysia-announces-the-discovery-of-139-mass-graves-near-the-border-with-thailand-with-some-graves-containing-more-than-one-body.html)  [JSON](/news/2015/05/25/malaysia-announces-the-discovery-of-139-mass-graves-near-the-border-with-thailand-with-some-graves-containing-more-than-one-body.json)  [XML](/news/2015/05/25/malaysia-announces-the-discovery-of-139-mass-graves-near-the-border-with-thailand-with-some-graves-containing-more-than-one-body.xml)  
+
 ### [2015-05-25](/news/2015/05/25/index.md)
 
+##### Malaysia
 # Malaysia announces the discovery of 139 mass graves near the border with Thailand with some graves containing more than one body. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3095721/Malaysia-139-graves-believed-contain-migrants-police-chief.html#ixzz3b7ZH42Y2)
 

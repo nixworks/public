@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/3/mexico-and-peru-recall-their-ambassadors-from-cuba-citing-recent-offensive-comments-by-cuban-head-of-state-fidel-castro-the-cuban-ambas.html)  [JSON](/news/2004/05/3/mexico-and-peru-recall-their-ambassadors-from-cuba-citing-recent-offensive-comments-by-cuban-head-of-state-fidel-castro-the-cuban-ambas.json)  [XML](/news/2004/05/3/mexico-and-peru-recall-their-ambassadors-from-cuba-citing-recent-offensive-comments-by-cuban-head-of-state-fidel-castro-the-cuban-ambas.xml)  
+
 ### [2004-05-3](/news/2004/05/3/index.md)
 
+##### Peru
 #  Mexico and Peru recall their ambassadors from Cuba, citing recent "offensive" comments by Cuban head of state Fidel Castro. The Cuban ambassador to Mexico is also expelled, for "activities incompatible with his diplomatic status". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/3679469.stm)
 2. [VOA](http://www.voanews.com/article.cfm?objectID=F41057E8-EFC6-4319-9FBFA4BF033FA9DB)

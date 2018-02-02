@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/10/war-on-terrorism-an-israeli-warplane-targeted-the-apartment-building-which-is-home-of-the-senior-hamas-leader-mahmoud-al-zahar-in-gaza.html)  [JSON](/news/2003/09/10/war-on-terrorism-an-israeli-warplane-targeted-the-apartment-building-which-is-home-of-the-senior-hamas-leader-mahmoud-al-zahar-in-gaza.json)  [XML](/news/2003/09/10/war-on-terrorism-an-israeli-warplane-targeted-the-apartment-building-which-is-home-of-the-senior-hamas-leader-mahmoud-al-zahar-in-gaza.xml)  
+
 ### [2003-09-10](/news/2003/09/10/index.md)
 
+##### War on Terrorism
 #  War on Terrorism: An Israeli warplane targeted the apartment building which is home of the senior Hamas leader, Mahmoud al-Zahar, in Gaza. Al-Zahar is lightly wounded; his adult son and a bodyguard are killed in the attack. A half-ton bomb destroys the building, marking the first time a Hamas leader has been attacked in his home, an escalation of Israel's campaign against the group. Twenty-five people were wounded, including Zahar's wife and a daughter.
 
 

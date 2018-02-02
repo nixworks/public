@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/16/us-senator-russ-feingold-introduces-a-bill-to-halt-the-information-awareness-office-and-total-information-awareness-pending-a-review-of-pri.html)  [JSON](/news/2003/01/16/us-senator-russ-feingold-introduces-a-bill-to-halt-the-information-awareness-office-and-total-information-awareness-pending-a-review-of-pri.json)  [XML](/news/2003/01/16/us-senator-russ-feingold-introduces-a-bill-to-halt-the-information-awareness-office-and-total-information-awareness-pending-a-review-of-pri.xml)  
+
 ### [2003-01-16](/news/2003/01/16/index.md)
 
+##### US Senator
 #  US Senator Russ Feingold introduces a bill to halt the Information Awareness Office and Total Information Awareness pending a review of privacy issues involved. The US Congress attempting to suspend an internal Department of Defense project is a highly unusual step.
 
 

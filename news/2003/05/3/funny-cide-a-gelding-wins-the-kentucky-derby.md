@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/3/funny-cide-a-gelding-wins-the-kentucky-derby.html)  [JSON](/news/2003/05/3/funny-cide-a-gelding-wins-the-kentucky-derby.json)  [XML](/news/2003/05/3/funny-cide-a-gelding-wins-the-kentucky-derby.xml)  
+
 ### [2003-05-3](/news/2003/05/3/index.md)
 
+##### Funny Cide
 #  Funny Cide, a gelding, wins the Kentucky Derby.
 
 

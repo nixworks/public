@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/18/the-us-centers-for-disease-control-warn-of-a-possible-severe-flu-season-and-urges-americans-to-get-a-vaccination.html)  [JSON](/news/2003/11/18/the-us-centers-for-disease-control-warn-of-a-possible-severe-flu-season-and-urges-americans-to-get-a-vaccination.json)  [XML](/news/2003/11/18/the-us-centers-for-disease-control-warn-of-a-possible-severe-flu-season-and-urges-americans-to-get-a-vaccination.xml)  
+
 ### [2003-11-18](/news/2003/11/18/index.md)
 
+##### Centers for Disease Control
 #  The US Centers for Disease Control warn of a possible severe flu season and urges Americans to get a vaccination.
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/5/a-group-of-people-are-arrested-in-the-peruvian-v
 
 ### [2017-07-5](/news/2017/07/5/index.md)
 
+##### Muqui
 # A group of people are arrested in the Peruvian village of Muqui, located in the Andes, after they painted a wall with allusive symbols and messages to the far-left terrorist organization, Shining Path, responsible for crimes against humanity in Peru from 1980 to 1992. Police later clarified that the true intentions of the arrested, some of them students of a technical training institute, were to make a short film. 
 
 

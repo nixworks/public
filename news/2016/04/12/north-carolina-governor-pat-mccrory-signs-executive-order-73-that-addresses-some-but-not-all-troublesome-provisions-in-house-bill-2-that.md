@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/12/north-carolina-governor-pat-mccrory-signs-execu
 
 ### [2016-04-12](/news/2016/04/12/index.md)
 
+##### North Carolina House Bill 2
 #  North Carolina Governor Pat McCrory signs Executive Order 73 that addresses some, but not all, troublesome provisions in House Bill 2 that caused businesses, traveling recording stars, etc., to stay clear of the state. The order does expand the state's anti-discrimination employment policy to include LBGT protection, but reiterates that people use the marked facility consistent with "... their biological sex." The American Civil Liberties Union says the order, "... fall(s) far short of correcting the damage done ... (and that)... transgender people are still explicitly targeted by being forced to use the wrong restroom." Equality North Carolina says, "... the order doubles down on the Governor's support for some of the most problematic provisions of HB2." 
 
 North Carolina Gov. Pat McCrory has issued an executive order that &quot;seeks legislation to reinstate the right to sue in state court for discrimination.&quot;

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/17/robin-cook-leader-of-the-british-house-of-commons-resigned-from-the-uk-cabinet-over-the-plan-to-invade-iraq.html)  [JSON](/news/2003/03/17/robin-cook-leader-of-the-british-house-of-commons-resigned-from-the-uk-cabinet-over-the-plan-to-invade-iraq.json)  [XML](/news/2003/03/17/robin-cook-leader-of-the-british-house-of-commons-resigned-from-the-uk-cabinet-over-the-plan-to-invade-iraq.xml)  
+
 ### [2003-03-17](/news/2003/03/17/index.md)
 
+##### Robin Cook
 #  Robin Cook, Leader of the British House of Commons, resigned from the UK cabinet over the plan to invade Iraq;,
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/7/japan-tells-the-united-nations-it-should-get-a-permanent-seat-on-the-security-council-because-of-its-participation-in-the-multinational-for.html)  [JSON](/news/2004/07/7/japan-tells-the-united-nations-it-should-get-a-permanent-seat-on-the-security-council-because-of-its-participation-in-the-multinational-for.json)  [XML](/news/2004/07/7/japan-tells-the-united-nations-it-should-get-a-permanent-seat-on-the-security-council-because-of-its-participation-in-the-multinational-for.xml)  
+
 ### [2004-07-7](/news/2004/07/7/index.md)
 
+##### United Nations
 #  Japan tells the United Nations it should get a permanent seat on the Security Council because of its participation in the multinational force in Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [JapanToday](http://www.japantoday.com/e/?content=news&cat=9&id=304636)
 2. [VOA](http://www.voanews.com/article.cfm?objectID=AF764B04-72B7-46F0-8F236B37B4589796&title=Japan%20Wants%20Permanent%20UN%20Security%20Council%20Seat&catOID=45C9C78B-88AD-11D4-A57200A0CC5EE46C&categoryname=Asia%20Pacific)

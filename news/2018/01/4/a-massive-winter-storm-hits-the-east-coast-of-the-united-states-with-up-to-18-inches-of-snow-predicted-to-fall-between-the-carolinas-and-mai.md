@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/4/a-massive-winter-storm-hits-the-east-coast-of-th
 
 ### [2018-01-4](/news/2018/01/4/index.md)
 
+##### January 2018 North American blizzard
 # A massive winter storm hits the East Coast of the United States with up to 18 inches of snow predicted to fall between The Carolinas and Maine. So far, three people have died in North Carolina and a person has died in Philadelphia, Pennsylvania. 
 
 HARTFORD, Conn. (AP) — A massive winter storm roared into the East Coast on Thursday, threatening to dump as much as 18 inches of snow from the Carolinas to Maine and unleashing hurricane-force winds and flooding that closed schools and offices and halted transportation systems.

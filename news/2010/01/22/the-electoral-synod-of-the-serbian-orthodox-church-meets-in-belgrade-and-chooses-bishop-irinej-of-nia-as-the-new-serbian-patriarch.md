@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/22/the-electoral-synod-of-the-serbian-orthodox-church-meets-in-belgrade-and-chooses-bishop-irinej-of-nia-as-the-new-serbian-patriarch.html)  [JSON](/news/2010/01/22/the-electoral-synod-of-the-serbian-orthodox-church-meets-in-belgrade-and-chooses-bishop-irinej-of-nia-as-the-new-serbian-patriarch.json)  [XML](/news/2010/01/22/the-electoral-synod-of-the-serbian-orthodox-church-meets-in-belgrade-and-chooses-bishop-irinej-of-nia-as-the-new-serbian-patriarch.xml)  
+
 ### [2010-01-22](/news/2010/01/22/index.md)
 
+##### Electoral Synod
 # The Electoral Synod of the Serbian Orthodox Church meets in Belgrade and chooses Bishop Irinej of Nis as the new Serbian Patriarch. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [B92](http://www.b92.net/eng/news/politics-article.php?yyyy=2010&mm=01&dd=22&nav_id=64668)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8475608.stm)

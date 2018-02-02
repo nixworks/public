@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/30/a-roadside-bomb-targeting-the-african-union-mission-to-somalia-kills-seven-people-in-the-capital-mogadishu.html)  [JSON](/news/2010/10/30/a-roadside-bomb-targeting-the-african-union-mission-to-somalia-kills-seven-people-in-the-capital-mogadishu.json)  [XML](/news/2010/10/30/a-roadside-bomb-targeting-the-african-union-mission-to-somalia-kills-seven-people-in-the-capital-mogadishu.xml)  
+
 ### [2010-10-30](/news/2010/10/30/index.md)
 
+##### AMISOM
 # A roadside bomb targeting the African Union Mission to Somalia kills seven people in the capital Mogadishu. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AHN](http://www.allheadlinenews.com/articles/7020381651?Roadside%20Bomb%20Targeting%20AMISOM%20Leaves%207%20Dead%20In%20Somalia)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/9/camorra-s-michele-zagaria-caught-in-underground-bunker.html)  [JSON](/news/2011/12/9/camorra-s-michele-zagaria-caught-in-underground-bunker.json)  [XML](/news/2011/12/9/camorra-s-michele-zagaria-caught-in-underground-bunker.xml)  
+
 ### [2011-12-9](/news/2011/12/9/index.md)
 
+##### Camorra
 # Camorra's Michele Zagaria caught in underground bunker 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ANSAmed](http://www.ansamed.info/ansamed/en/news/regions/campania/2011/12/07/visualizza_new.html_8500484.html)
 2. [EuroNews](http://www.euronews.net/2011/12/07/italian-premier-monti-hails-big-mafia-arrest/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/10/wayne-swan-the-treasurer-of-australia-will-deliver-his-fourth-budget.html)  [JSON](/news/2011/05/10/wayne-swan-the-treasurer-of-australia-will-deliver-his-fourth-budget.json)  [XML](/news/2011/05/10/wayne-swan-the-treasurer-of-australia-will-deliver-his-fourth-budget.xml)  
+
 ### [2011-05-10](/news/2011/05/10/index.md)
 
+##### Wayne Swan
 # Wayne Swan, the Treasurer of Australia, will deliver his fourth budget. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/national-affairs/capital-circle/budget-day/story-fn59nqgy-1226052986049)
 

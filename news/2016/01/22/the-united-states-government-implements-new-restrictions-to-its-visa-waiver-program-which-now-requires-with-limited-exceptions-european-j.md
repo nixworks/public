@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/22/the-united-states-government-implements-new-res
 
 ### [2016-01-22](/news/2016/01/22/index.md)
 
+##### European migrant crisis
 # The United States government implements new restrictions to its visa waiver program which now requires, with limited exceptions, European, Japanese and Australian travelers to the United States who either have been visitors in the last five years to or are dual-citizens of Iran, Iraq, Syria and Sudan to obtain a travel visa. The new visa policies were mandated by legislation which was passed, in the aftermath of November 2015 Paris attacks, by Congress on the grounds of national security. 
 
 Travelers who hold dual citizenship from Iran, Iraq, Sudan or Syria, or have visited one of those countries in the last five years, may no longer participate in the visa-waiver program.

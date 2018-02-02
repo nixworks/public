@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2015/09/21/many-skype-users-are-unable-to-access-the-service-the-microsoft-owned-company-acknowledges-the-problem.html)  [JSON](/news/2015/09/21/many-skype-users-are-unable-to-access-the-service-the-microsoft-owned-company-acknowledges-the-problem.json)  [XML](/news/2015/09/21/many-skype-users-are-unable-to-access-the-service-the-microsoft-owned-company-acknowledges-the-problem.xml)  
+
 ### [2015-09-21](/news/2015/09/21/index.md)
 
+##### Skype
 # Many Skype users are unable to access the service. The Microsoft-owned company acknowledges the problem. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/09/21/us-microsoft-skype-idUSKCN0RL0YC20150921)
+1. [Reuters](https://www.reuters.com/article/2015/09/21/us-microsoft-skype-idUSKCN0RL0YC20150921)
 2. [Skype](http://heartbeat.skype.com/2015/09/skype_presence_issues.html)
-2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150921&t=2&i=1081050947&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB8K0HL)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20150921&t=2&i=1081050947&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB8K0HL)
 
 ### Related:
 

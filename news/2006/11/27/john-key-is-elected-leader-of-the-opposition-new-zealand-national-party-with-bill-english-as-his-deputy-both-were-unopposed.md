@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/27/john-key-is-elected-leader-of-the-opposition-new-zealand-national-party-with-bill-english-as-his-deputy-both-were-unopposed.html)  [JSON](/news/2006/11/27/john-key-is-elected-leader-of-the-opposition-new-zealand-national-party-with-bill-english-as-his-deputy-both-were-unopposed.json)  [XML](/news/2006/11/27/john-key-is-elected-leader-of-the-opposition-new-zealand-national-party-with-bill-english-as-his-deputy-both-were-unopposed.xml)  
+
 ### [2006-11-27](/news/2006/11/27/index.md)
 
+##### John Key
 #  John Key is elected leader of the opposition New Zealand National Party, with Bill English as his deputy. Both were unopposed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NZ Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=1&ObjectID=10412658)
 

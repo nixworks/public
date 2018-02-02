@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/01/12/a-severe-7-0-magnitude-earthquake-strikes-haiti-tsunami-watches-issued-across-the-caribbean.html)  [JSON](/news/2010/01/12/a-severe-7-0-magnitude-earthquake-strikes-haiti-tsunami-watches-issued-across-the-caribbean.json)  [XML](/news/2010/01/12/a-severe-7-0-magnitude-earthquake-strikes-haiti-tsunami-watches-issued-across-the-caribbean.xml)  
+
 ### [2010-01-12](/news/2010/01/12/index.md)
 
+##### 2010 Haiti earthquake
 # A severe 7.0 magnitude earthquake strikes Haiti. Tsunami watches issued across the Caribbean. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8455629.stm)
 2. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20100112/haiti_earthquake_100112/20100112?hub=TopStoriesV2)
-3. [USGS](http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010rja6.php)
+3. [USGS](https://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010rja6.php)
 
 ### Related:
 

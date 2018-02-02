@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/1/fossils-discovered-at-the-franceville-site-in-gabon-are-claimed-to-be-evidence-that-multicellular-life-on-earth-began-at-least-1-5-billion-y.html)  [JSON](/news/2010/07/1/fossils-discovered-at-the-franceville-site-in-gabon-are-claimed-to-be-evidence-that-multicellular-life-on-earth-began-at-least-1-5-billion-y.json)  [XML](/news/2010/07/1/fossils-discovered-at-the-franceville-site-in-gabon-are-claimed-to-be-evidence-that-multicellular-life-on-earth-began-at-least-1-5-billion-y.xml)  
+
 ### [2010-07-1](/news/2010/07/1/index.md)
 
+##### Fossils
 # Fossils discovered at the Franceville site in Gabon are claimed to be evidence that multicellular life on Earth began at least 1.5 billion years earlier than currently reckoned. 
 
 Scientists report the discovery of centimetre-sized fossils that may be the earliest known examples of multicellular life.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science_and_environment/10471599.stm)
 2. [The Australian](http://www.theaustralian.com.au/news/health-science/fossils-found-in-gabon-rewrite-timeline-of-life-on-earth/story-e6frg8y6-1225886648406)

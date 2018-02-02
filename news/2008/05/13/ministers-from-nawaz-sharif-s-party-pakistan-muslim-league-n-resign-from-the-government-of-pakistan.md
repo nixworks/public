@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/13/ministers-from-nawaz-sharif-s-party-pakistan-muslim-league-n-resign-from-the-government-of-pakistan.html)  [JSON](/news/2008/05/13/ministers-from-nawaz-sharif-s-party-pakistan-muslim-league-n-resign-from-the-government-of-pakistan.json)  [XML](/news/2008/05/13/ministers-from-nawaz-sharif-s-party-pakistan-muslim-league-n-resign-from-the-government-of-pakistan.xml)  
+
 ### [2008-05-13](/news/2008/05/13/index.md)
 
+##### Nawaz Sharif
 #  Ministers from Nawaz Sharif's party Pakistan Muslim League (N) resign from the Government of Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7397580.stm)
 

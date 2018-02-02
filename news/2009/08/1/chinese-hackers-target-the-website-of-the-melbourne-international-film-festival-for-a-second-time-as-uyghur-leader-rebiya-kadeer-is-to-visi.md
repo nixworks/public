@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/08/1/chinese-hackers-target-the-website-of-the-melbourne-international-film-festival-for-a-second-time-as-uyghur-leader-rebiya-kadeer-is-to-visi.html)  [JSON](/news/2009/08/1/chinese-hackers-target-the-website-of-the-melbourne-international-film-festival-for-a-second-time-as-uyghur-leader-rebiya-kadeer-is-to-visi.json)  [XML](/news/2009/08/1/chinese-hackers-target-the-website-of-the-melbourne-international-film-festival-for-a-second-time-as-uyghur-leader-rebiya-kadeer-is-to-visi.xml)  
+
 ### [2009-08-1](/news/2009/08/1/index.md)
 
+##### China
 #  Chinese hackers target the website of the Melbourne International Film Festival for a second time as Uyghur leader Rebiya Kadeer is to visit the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jpZFYahI9N9qj5Liw_uPVEAm1MUQ)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aPebY5NlFs7A)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=aPebY5NlFs7A)
 3. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,25866348-5006785,00.html)
 
 ### Related:

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/7/electric-light-orchestra-joan-baez-journey-pearl
 
 ### [2017-04-7](/news/2017/04/7/index.md)
 
+##### Electric Light Orchestra
 # Electric Light Orchestra, Joan Baez, Journey, Pearl Jam, Tupac Shakur, and Yes are the six acts inducted into the Rock and Roll Hall of Fame. 
 
 Seattle rockers Pearl Jam, the late rapper Tupac Shakur and 1970s hitmaking band Journey were inducted into the Rock and Roll Hall of Fame on Friday night. Joan Baez, Electric Light Orchestra and Y…

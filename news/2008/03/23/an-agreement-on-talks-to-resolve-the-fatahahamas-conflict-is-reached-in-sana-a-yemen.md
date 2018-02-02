@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2008/03/23/an-agreement-on-talks-to-resolve-the-fatahahamas-conflict-is-reached-in-sana-a-yemen.html)  [JSON](/news/2008/03/23/an-agreement-on-talks-to-resolve-the-fatahahamas-conflict-is-reached-in-sana-a-yemen.json)  [XML](/news/2008/03/23/an-agreement-on-talks-to-resolve-the-fatahahamas-conflict-is-reached-in-sana-a-yemen.xml)  
+
 ### [2008-03-23](/news/2008/03/23/index.md)
 
+##### Fatah-Hamas conflict
 #  An agreement on talks to resolve the Fatah-Hamas conflict is reached in Sana'a, Yemen. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2008/03/23/AR2008032300397.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2008/03/23/AR2008032300397.html)
+
+### Changes:
+
+1. [ An agreement on talks to resolve the Fatah-Hamas conflict is reached in Sana'a, Yemen. ](/news/2008/03/23/an-agreement-on-talks-to-resolve-the-fatah-hamas-conflict-is-reached-in-sana-a-yemen.md) _2017-08-27 03:21:52 (First version)_
+1. [ An agreement on talks to resolve the Fatah-Hamas conflict is reached in Sana'a, Yemen. ](/news/2008/03/23/an-agreement-on-talks-to-resolve-the-fatahahamas-conflict-is-reached-in-sana-a-yemen.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [Saudi Arabian-led air raids on the Yemeni capital Sana'a resume after a truce ends. ](/news/2016/10/23/saudi-arabian-led-air-raids-on-the-yemeni-capital-sana-a-resume-after-a-truce-ends.md) _Context: Sana'a, Yemen_
 4. [At least 14 people are killed after Saudi-led coalition airstrikes hit a food factory in Yemen's capital Sana'a. The airstrikes come just days after the suspension of inconclusive peace talks in Kuwait. ](/news/2016/08/9/at-least-14-people-are-killed-after-saudi-led-coalition-airstrikes-hit-a-food-factory-in-yemen-s-capital-sana-a-the-airstrikes-come-just-da.md) _Context: Sana'a, Yemen_
 5. [At least 30 people are killed in an airstrike on a market near the Yemeni capital Sana'a. ](/news/2016/02/27/at-least-30-people-are-killed-in-an-airstrike-on-a-market-near-the-yemeni-capital-sana-a.md) _Context: Sana'a, Yemen_
-
-### Changes:
-
-1. [ An agreement on talks to resolve the Fatah-Hamas conflict is reached in Sana'a, Yemen. ](/news/2008/03/23/an-agreement-on-talks-to-resolve-the-fatah-hamas-conflict-is-reached-in-sana-a-yemen.md) _2017-08-27 03:21:52 (First version)_
-1. [ An agreement on talks to resolve the Fatah-Hamas conflict is reached in Sana'a, Yemen. ](/news/2008/03/23/an-agreement-on-talks-to-resolve-the-fatahahamas-conflict-is-reached-in-sana-a-yemen.md) _(Current version)_

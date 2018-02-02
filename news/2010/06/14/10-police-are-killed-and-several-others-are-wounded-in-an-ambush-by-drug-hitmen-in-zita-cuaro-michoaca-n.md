@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/14/10-police-are-killed-and-several-others-are-wounded-in-an-ambush-by-drug-hitmen-in-zita-cuaro-michoaca-n.html)  [JSON](/news/2010/06/14/10-police-are-killed-and-several-others-are-wounded-in-an-ambush-by-drug-hitmen-in-zita-cuaro-michoaca-n.json)  [XML](/news/2010/06/14/10-police-are-killed-and-several-others-are-wounded-in-an-ambush-by-drug-hitmen-in-zita-cuaro-michoaca-n.xml)  
+
 ### [2010-06-14](/news/2010/06/14/index.md)
 
+##### Zitacuaro
 # 10 police are killed and several others are wounded in an ambush by drug hitmen in Zitacuaro Michoacan. 
 
 Armed attacks on Mexican federal police Monday in violent Michoacan state sparked shootouts that killed at least 10 officers and an unknown number of gunmen, authorities said.The twin ambushes in...
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gMi5B2USfJStXxfqgWWr2xjRYpOgD9GBCBDO1)
 2. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-mexico-shooting-20100615,0,2088105.story)

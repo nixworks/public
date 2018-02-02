@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2008/06/8/robert-kubica-of-the-bmw-sauber-team-wins-the-2008-canadian-grand-prix-becoming-the-first-pole-to-win-a-formula-one-grand-prix-auto-race.html)  [JSON](/news/2008/06/8/robert-kubica-of-the-bmw-sauber-team-wins-the-2008-canadian-grand-prix-becoming-the-first-pole-to-win-a-formula-one-grand-prix-auto-race.json)  [XML](/news/2008/06/8/robert-kubica-of-the-bmw-sauber-team-wins-the-2008-canadian-grand-prix-becoming-the-first-pole-to-win-a-formula-one-grand-prix-auto-race.xml)  
+
 ### [2008-06-8](/news/2008/06/8/index.md)
 
+##### Robert Kubica
 #  Robert Kubica of the BMW Sauber team wins the 2008 Canadian Grand Prix, becoming the first Pole to win a Formula One Grand Prix auto race, and giving BMW its first win as a constructor. [http:--en.f1-live.com-f1-en-headlines-news-detail-080608211341.shtml (F1-live)] [http:--www.formula1.com-results-season-2008-793-6520- (Formula1)] (Wikinews)
 
 

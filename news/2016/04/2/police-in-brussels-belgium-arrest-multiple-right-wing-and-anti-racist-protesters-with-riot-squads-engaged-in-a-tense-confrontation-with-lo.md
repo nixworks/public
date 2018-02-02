@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/2/police-in-brussels-belgium-arrest-multiple-right
 
 ### [2016-04-2](/news/2016/04/2/index.md)
 
+##### 2016 Brussels bombings
 # Police in Brussels, Belgium arrest multiple right-wing and anti-racist protesters, with riot squads engaged in a tense confrontation with local youths in the district of Sint-Jans-Molenbeek. A standoff grew when far-right protesters faced a counter-demonstration, despite protests being banned by local authorities who were fearful of last Sunday's event, in which police forcefully dispersed a right-wing protest with water cannons. 
 
 Belgian police made a series of arrests of right-wing and anti-racist protesters in Brussels on Saturday, and riot squads engaged in a tense confrontation with local youths in the district of Molenbeek.

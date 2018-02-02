@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/6/canadian-police-arrest-justin-bourque-wanted-for-the-alleged-murder-of-three-royal-canadian-mounted-police-officers-and-shooting-two-others.html)  [JSON](/news/2014/06/6/canadian-police-arrest-justin-bourque-wanted-for-the-alleged-murder-of-three-royal-canadian-mounted-police-officers-and-shooting-two-others.json)  [XML](/news/2014/06/6/canadian-police-arrest-justin-bourque-wanted-for-the-alleged-murder-of-three-royal-canadian-mounted-police-officers-and-shooting-two-others.xml)  
+
 ### [2014-06-6](/news/2014/06/6/index.md)
 
+##### Canadian police
 # Canadian police arrest Justin Bourque, wanted for the alleged murder of three Royal Canadian Mounted Police officers and shooting two others in Moncton, New Brunswick. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2014/06/06/world/canada-shooting/index.html?eref=edition)
 

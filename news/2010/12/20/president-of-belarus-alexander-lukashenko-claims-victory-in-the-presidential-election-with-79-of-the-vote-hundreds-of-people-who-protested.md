@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/20/president-of-belarus-alexander-lukashenko-claims-victory-in-the-presidential-election-with-79-of-the-vote-hundreds-of-people-who-protested.html)  [JSON](/news/2010/12/20/president-of-belarus-alexander-lukashenko-claims-victory-in-the-presidential-election-with-79-of-the-vote-hundreds-of-people-who-protested.json)  [XML](/news/2010/12/20/president-of-belarus-alexander-lukashenko-claims-victory-in-the-presidential-election-with-79-of-the-vote-hundreds-of-people-who-protested.xml)  
+
 ### [2010-12-20](/news/2010/12/20/index.md)
 
+##### Belarussian President
 # President of Belarus Alexander Lukashenko claims victory in the presidential election with 79% of the vote. Hundreds of people who protested the vote are arrested. 
 
 Police in Belarus beat and arrest scores of protesters and several presidential candidates, drawing international condemnation.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12037486)
 2. [CNN](http://edition.cnn.com/2010/WORLD/europe/12/20/belarus.election/index.html?eref=edition)

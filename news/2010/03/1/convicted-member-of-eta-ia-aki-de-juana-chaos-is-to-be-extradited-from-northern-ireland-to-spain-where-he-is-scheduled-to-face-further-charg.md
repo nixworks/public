@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/1/convicted-member-of-eta-ia-aki-de-juana-chaos-is-to-be-extradited-from-northern-ireland-to-spain-where-he-is-scheduled-to-face-further-charg.html)  [JSON](/news/2010/03/1/convicted-member-of-eta-ia-aki-de-juana-chaos-is-to-be-extradited-from-northern-ireland-to-spain-where-he-is-scheduled-to-face-further-charg.json)  [XML](/news/2010/03/1/convicted-member-of-eta-ia-aki-de-juana-chaos-is-to-be-extradited-from-northern-ireland-to-spain-where-he-is-scheduled-to-face-further-charg.xml)  
+
 ### [2010-03-1](/news/2010/03/1/index.md)
 
+##### ETA
 # Convicted member of ETA Inaki de Juana Chaos is to be extradited from Northern Ireland to Spain where he is scheduled to face further charges. 
 
 A convicted member of the Basque separatist group ETA is to be extradited to Spain from NI to face charges of justifying terrorism.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8543846.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0301/juanachaosi.html)

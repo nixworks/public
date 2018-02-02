@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/13/israel-s-state-comptroller-criticises-prime-minister-benjamin-netanyahu-s-decision-making-during-the-2010-gaza-flotilla-raid.html)  [JSON](/news/2012/06/13/israel-s-state-comptroller-criticises-prime-minister-benjamin-netanyahu-s-decision-making-during-the-2010-gaza-flotilla-raid.json)  [XML](/news/2012/06/13/israel-s-state-comptroller-criticises-prime-minister-benjamin-netanyahu-s-decision-making-during-the-2010-gaza-flotilla-raid.xml)  
+
 ### [2012-06-13](/news/2012/06/13/index.md)
 
+##### Israel
 # Israel's State Comptroller criticises prime minister Benjamin Netanyahu's decision-making during the 2010 Gaza flotilla raid. 
 
 Government report criticises Netanyahu decision-making in 2010 naval raid on Gaza-bound flotilla.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/201261392543333854.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18428785)

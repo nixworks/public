@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/2/two-bombings-in-quick-succession-hit-a-russian-police-convoy-in-the-town-of-khasavyurt-in-the-republic-of-dagestan.html)  [JSON](/news/2008/03/2/two-bombings-in-quick-succession-hit-a-russian-police-convoy-in-the-town-of-khasavyurt-in-the-republic-of-dagestan.json)  [XML](/news/2008/03/2/two-bombings-in-quick-succession-hit-a-russian-police-convoy-in-the-town-of-khasavyurt-in-the-republic-of-dagestan.xml)  
+
 ### [2008-03-2](/news/2008/03/2/index.md)
 
+##### Russia
 #  Two bombings in quick succession hit a Russian police convoy in the town of Khasavyurt in the Republic of Dagestan. 
 
 Two bombings hit a police convoy Sunday in a town in southern Russia near Chechnya, leaving an unspecified number of dead and injured.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,334377,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

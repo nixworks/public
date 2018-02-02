@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/27/at-least-30-people-are-killed-in-an-airstrike-o
 
 ### [2016-02-27](/news/2016/02/27/index.md)
 
+##### Yemeni Civil War (2015-present)
 # At least 30 people are killed in an airstrike on a market near the Yemeni capital Sana'a. 
 
 At least 30 people have been killed in an air strike on a market near the Yemeni capital, Sanaa, witnesses say.

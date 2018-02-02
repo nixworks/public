@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/2/three-top-staffers-leave-the-democratic-national
 
 ### [2016-08-2](/news/2016/08/2/index.md)
 
+##### Democratic National Committee
 # Three top staffers leave the Democratic National Committee 100 days before elections in early November as a result of the email leak. 
 
 The departures come a week after hacked DNC emails showed party officials conspiring against Sanders.

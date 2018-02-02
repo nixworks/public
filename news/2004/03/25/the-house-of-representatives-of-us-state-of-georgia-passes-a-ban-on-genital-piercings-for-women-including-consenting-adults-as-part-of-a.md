@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/25/the-house-of-representatives-of-us-state-of-georgia-passes-a-ban-on-genital-piercings-for-women-including-consenting-adults-as-part-of-a.html)  [JSON](/news/2004/03/25/the-house-of-representatives-of-us-state-of-georgia-passes-a-ban-on-genital-piercings-for-women-including-consenting-adults-as-part-of-a.json)  [XML](/news/2004/03/25/the-house-of-representatives-of-us-state-of-georgia-passes-a-ban-on-genital-piercings-for-women-including-consenting-adults-as-part-of-a.xml)  
+
 ### [2004-03-25](/news/2004/03/25/index.md)
 
+##### House of Representatives
 #  The House of Representatives of US state of Georgia passes a ban on genital piercings for women, including consenting adults, as part of a bill to ban female genital mutilation as performed by some Muslim populations, among others. The ban does not apply to men. The provision is not included in the version passed by Georgia's Senate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.accessnorthga.com/news/ap_newfullstory.asp?ID=34411)
 

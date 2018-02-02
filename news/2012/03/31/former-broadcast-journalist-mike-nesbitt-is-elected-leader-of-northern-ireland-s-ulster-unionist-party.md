@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/31/former-broadcast-journalist-mike-nesbitt-is-elected-leader-of-northern-ireland-s-ulster-unionist-party.html)  [JSON](/news/2012/03/31/former-broadcast-journalist-mike-nesbitt-is-elected-leader-of-northern-ireland-s-ulster-unionist-party.json)  [XML](/news/2012/03/31/former-broadcast-journalist-mike-nesbitt-is-elected-leader-of-northern-ireland-s-ulster-unionist-party.xml)  
+
 ### [2012-03-31](/news/2012/03/31/index.md)
 
+##### broadcast journalist
 # Former broadcast journalist Mike Nesbitt is elected leader of Northern Ireland's Ulster Unionist Party. 
 
 Former broadcaster Mike Nesbitt is elected the new leader of the Ulster Unionist Party.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-17572015)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/59415000/jpg/_59415679_nesbitttv.jpg)

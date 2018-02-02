@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/19/fidel-castro-resigns-from-the-cuban-communist-party-s-central-committee-formalising-his-gradual-retreat-from-the-spotlight-that-started-in.html)  [JSON](/news/2011/04/19/fidel-castro-resigns-from-the-cuban-communist-party-s-central-committee-formalising-his-gradual-retreat-from-the-spotlight-that-started-in.json)  [XML](/news/2011/04/19/fidel-castro-resigns-from-the-cuban-communist-party-s-central-committee-formalising-his-gradual-retreat-from-the-spotlight-that-started-in.xml)  
+
 ### [2011-04-19](/news/2011/04/19/index.md)
 
+##### Fidel Castro
 # Fidel Castro resigns from the Cuban Communist Party's central committee, formalising his gradual retreat from the spotlight that started in 2006. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Euronews.net](http://www.euronews.net/2011/04/19/fidel-quits-communist-party-leadership-as-cuba-looks-to-reform/)
 

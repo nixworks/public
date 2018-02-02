@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2013/03/3/at-least-16-people-die-in-clashes-in-bangladesh-as-a-strike-organized-by-jamaat-e-islami-begins.html)  [JSON](/news/2013/03/3/at-least-16-people-die-in-clashes-in-bangladesh-as-a-strike-organized-by-jamaat-e-islami-begins.json)  [XML](/news/2013/03/3/at-least-16-people-die-in-clashes-in-bangladesh-as-a-strike-organized-by-jamaat-e-islami-begins.xml)  
+
 ### [2013-03-3](/news/2013/03/3/index.md)
 
+##### Bangladesh
 # At least 16 people die in clashes in Bangladesh as a strike organized by Jamaat-e-Islami begins. 
 
 At least 16 people die in continuing violence in Bangladesh as a strike called over a death sentence given to an Islamist party leader starts.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21646233)
-2. [Reuters](http://www.reuters.com/article/2013/03/03/us-bangladesh-violence-idUSBRE92203M20130303)
+2. [Reuters](https://www.reuters.com/article/2013/03/03/us-bangladesh-violence-idUSBRE92203M20130303)
 2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66174000/jpg/_66174354_66174353.jpg)
+
+### Changes:
+
+1. [2013 Bangladesh protests:At least 16 people die in clashes in Bangladesh as a strike organized by Jamaat-e-Islami begins. ](/news/2013/03/3/2013-bangladesh-protests-pat-least-16-people-die-in-clashes-in-bangladesh-as-a-strike-organized-by-jamaat-e-islami-begins.md) _2017-08-25 03:37:42 (First version)_
+2. [2013 Bangladesh protests:: At least 16 people die in clashes in Bangladesh as a strike organized by Jamaat-e-Islami begins. ](/news/2013/03/3/2013-bangladesh-protests-at-least-16-people-die-in-clashes-in-bangladesh-as-a-strike-organized-by-jamaat-e-islami-begins.md) _2017-08-27 03:37:53 (Update)_
+2. [At least 16 people die in clashes in Bangladesh as a strike organized by Jamaat-e-Islami begins. ](/news/2013/03/3/at-least-16-people-die-in-clashes-in-bangladesh-as-a-strike-organized-by-jamaat-e-islami-begins.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ At least 16 people die in continuing violence in Bangladesh as a strike called o
 3. [Bangladeshi Jamaat-e-Islami leader Muhammad Kamaruzzaman is executed for war crimes committed during the 1971 Liberation War. ](/news/2015/04/11/bangladeshi-jamaat-e-islami-leader-muhammad-kamaruzzaman-is-executed-for-war-crimes-committed-during-the-1971-liberation-war.md) _Context: Bangladesh, Bangladesh Jamaat-e-Islami_
 4. [Bangladesh hangs Abdul Kader Mullah, a leader of the Bangladesh Jamaat-e-Islami, for committing atrocities in the Bangladesh Liberation War in 1971. ](/news/2013/12/12/bangladesh-hangs-abdul-kader-mullah-a-leader-of-the-bangladesh-jamaat-e-islami-for-committing-atrocities-in-the-bangladesh-liberation-war.md) _Context: Bangladesh, Bangladesh Jamaat-e-Islami_
 5. [The Dhaka High Court rules the registration of Bangladesh's largest Islamic group Jamaat-e-Islami as a political party illegal making it potentially ineligible to contest elections. ](/news/2013/08/1/the-dhaka-high-court-rules-the-registration-of-bangladesh-s-largest-islamic-group-jamaat-e-islami-as-a-political-party-illegal-making-it-pot.md) _Context: Bangladesh, Bangladesh Jamaat-e-Islami_
-
-### Changes:
-
-1. [2013 Bangladesh protests:At least 16 people die in clashes in Bangladesh as a strike organized by Jamaat-e-Islami begins. ](/news/2013/03/3/2013-bangladesh-protests-pat-least-16-people-die-in-clashes-in-bangladesh-as-a-strike-organized-by-jamaat-e-islami-begins.md) _2017-08-25 03:37:42 (First version)_
-2. [2013 Bangladesh protests:: At least 16 people die in clashes in Bangladesh as a strike organized by Jamaat-e-Islami begins. ](/news/2013/03/3/2013-bangladesh-protests-at-least-16-people-die-in-clashes-in-bangladesh-as-a-strike-organized-by-jamaat-e-islami-begins.md) _2017-08-27 03:37:53 (Update)_
-2. [At least 16 people die in clashes in Bangladesh as a strike organized by Jamaat-e-Islami begins. ](/news/2013/03/3/at-least-16-people-die-in-clashes-in-bangladesh-as-a-strike-organized-by-jamaat-e-islami-begins.md) _(Current version)_

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/4/the-suspect-in-the-murder-investigation-of-forme
 
 ### [2016-02-4](/news/2016/02/4/index.md)
 
+##### Deputy Prime Minister of the Netherlands
 # The suspect in the murder investigation of former Deputy Prime Minister of the Netherlands Els Borst admits to have assassinated her citing political motivations. 
 
 

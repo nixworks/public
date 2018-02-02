@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/9/the-houston-astros-beat-the-atlanta-braves-7-6-in-the-18th-inning-of-the-longest-post-season-game-in-major-league-baseball-history.html)  [JSON](/news/2005/10/9/the-houston-astros-beat-the-atlanta-braves-7-6-in-the-18th-inning-of-the-longest-post-season-game-in-major-league-baseball-history.json)  [XML](/news/2005/10/9/the-houston-astros-beat-the-atlanta-braves-7-6-in-the-18th-inning-of-the-longest-post-season-game-in-major-league-baseball-history.xml)  
+
 ### [2005-10-9](/news/2005/10/9/index.md)
 
+##### Houston Astros
 #  The Houston Astros beat the Atlanta Braves 7-6 in the 18th inning of the longest post-season game in Major League Baseball history. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Houston Chronicle](http://www.chron.com/cs/CDA/ssistory.mpl/topstory/3389330)
 1. [Cover Image](http://www.chron.com/img/pages/article/opengraph_default.jpg)

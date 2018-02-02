@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/9/two-police-officers-are-shot-dead-in-the-american-town-of-hattiesburg-mississippi.html)  [JSON](/news/2015/05/9/two-police-officers-are-shot-dead-in-the-american-town-of-hattiesburg-mississippi.json)  [XML](/news/2015/05/9/two-police-officers-are-shot-dead-in-the-american-town-of-hattiesburg-mississippi.xml)  
+
 ### [2015-05-9](/news/2015/05/9/index.md)
 
+##### Hattiesburg
 # Two police officers are shot dead in the American town of Hattiesburg, Mississippi. 
 
 Get the latest breaking news across the U.S. on ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/US/wireStory/officials-mississippi-police-officers-shot-fatally-30933654)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/11/2/park-geun-hye-seeks-to-appoint-kim-byong-joon-as-the-new-prime-minister-of-south-korea-in-a-bid-to-restore-confidence-after-a-political-scan.html)  [JSON](/news/2016/11/2/park-geun-hye-seeks-to-appoint-kim-byong-joon-as-the-new-prime-minister-of-south-korea-in-a-bid-to-restore-confidence-after-a-political-scan.json)  [XML](/news/2016/11/2/park-geun-hye-seeks-to-appoint-kim-byong-joon-as-the-new-prime-minister-of-south-korea-in-a-bid-to-restore-confidence-after-a-political-scan.xml)  
+
 ### [2016-11-2](/news/2016/11/2/index.md)
 
+##### Park Geun-hye
 # Park Geun-hye seeks to appoint Kim Byong-joon as the new Prime Minister of South Korea in a bid to restore confidence after a political scandal. Kim Byong-joon replaces sacked prime minister Hwang Kyo-ahn. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_SKOREA_POLITICS_ASOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [CNN](http://edition.cnn.com/2016/11/02/asia/south-korea-park-guen-hye-choi-soon-sil/index.html)

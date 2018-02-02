@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/28/swiss-voters-overwhelmingly-approve-government-proposals-to-permit-research-using-stem-cells-of-human-embryos.html)  [JSON](/news/2004/11/28/swiss-voters-overwhelmingly-approve-government-proposals-to-permit-research-using-stem-cells-of-human-embryos.json)  [XML](/news/2004/11/28/swiss-voters-overwhelmingly-approve-government-proposals-to-permit-research-using-stem-cells-of-human-embryos.xml)  
+
 ### [2004-11-28](/news/2004/11/28/index.md)
 
+##### stem cells
 #  Swiss voters overwhelmingly approve government proposals to permit research using stem cells of human embryos. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4049141.stm)
 

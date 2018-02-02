@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/22/pakistan-arrests-seven-militants-in-peshawar-in-connection-with-the-london-bombings-of-july-7-2005.html)  [JSON](/news/2009/01/22/pakistan-arrests-seven-militants-in-peshawar-in-connection-with-the-london-bombings-of-july-7-2005.json)  [XML](/news/2009/01/22/pakistan-arrests-seven-militants-in-peshawar-in-connection-with-the-london-bombings-of-july-7-2005.xml)  
+
 ### [2009-01-22](/news/2009/01/22/index.md)
 
+##### Pakistan
 #  Pakistan arrests seven militants in Peshawar in connection with the London bombings of July 7, 2005. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/story/0,10117,24947130-401,00.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/14/the-world-food-program-predicts-that-285-000-people-in-mozambique-will-require-food-aid-after-severe-flooding.html)  [JSON](/news/2007/02/14/the-world-food-program-predicts-that-285-000-people-in-mozambique-will-require-food-aid-after-severe-flooding.json)  [XML](/news/2007/02/14/the-world-food-program-predicts-that-285-000-people-in-mozambique-will-require-food-aid-after-severe-flooding.xml)  
+
 ### [2007-02-14](/news/2007/02/14/index.md)
 
+##### World Food Program
 #  The World Food Program predicts that 285,000 people in Mozambique will require food aid after severe flooding. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6361957.stm)
 

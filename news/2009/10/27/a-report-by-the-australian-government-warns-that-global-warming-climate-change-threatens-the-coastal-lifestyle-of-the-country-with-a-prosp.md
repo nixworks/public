@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/27/a-report-by-the-australian-government-warns-that-global-warming-climate-change-threatens-the-coastal-lifestyle-of-the-country-with-a-prosp.html)  [JSON](/news/2009/10/27/a-report-by-the-australian-government-warns-that-global-warming-climate-change-threatens-the-coastal-lifestyle-of-the-country-with-a-prosp.json)  [XML](/news/2009/10/27/a-report-by-the-australian-government-warns-that-global-warming-climate-change-threatens-the-coastal-lifestyle-of-the-country-with-a-prosp.xml)  
+
 ### [2009-10-27](/news/2009/10/27/index.md)
 
+##### Australia
 #  A report by the Australian government warns that global warming climate change threatens the coastal lifestyle of the country, with a prospect of a ban on coastal homes. 
 
 Australians could be banned from living on the coast under a radical environmental plan to protect the population from rising sea levels.
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/australia/6445352/Australians-could-be-banned-from-living-on-the-coast.html)
 2. [The Guardian](http://www.guardian.co.uk/environment/2009/oct/27/rising-sea-levels-australia-beaches)

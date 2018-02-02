@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/09/9/four-or-possibly-five-palestinians-including-a-nine-year-old-boy-a-hamas-militant-and-two-young-palestinian-men-are-killed-as-israeli.html)  [JSON](/news/2004/09/9/four-or-possibly-five-palestinians-including-a-nine-year-old-boy-a-hamas-militant-and-two-young-palestinian-men-are-killed-as-israeli.json)  [XML](/news/2004/09/9/four-or-possibly-five-palestinians-including-a-nine-year-old-boy-a-hamas-militant-and-two-young-palestinian-men-are-killed-as-israeli.xml)  
+
 ### [2004-09-9](/news/2004/09/9/index.md)
 
+##### Palestinians
 #  Four (or possibly five) Palestinians, including a nine-year-old boy, a Hamas militant, and two young Palestinian men, are killed as Israeli tanks force their way into the Jabaliya refugee camp in northern Gaza while receiving gunfire from scores of gunmen opposed to the invasion. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3640212.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6193620)
-2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6193620)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/23/china-considers-removing-the-death-penalty-for-several-economic-crimes.html)  [JSON](/news/2010/08/23/china-considers-removing-the-death-penalty-for-several-economic-crimes.json)  [XML](/news/2010/08/23/china-considers-removing-the-death-penalty-for-several-economic-crimes.xml)  
+
 ### [2010-08-23](/news/2010/08/23/index.md)
 
+##### China
 # China considers removing the death penalty for several economic crimes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hz8ZCvzigmNBUacr-c1xBWIE43fA)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11055235)

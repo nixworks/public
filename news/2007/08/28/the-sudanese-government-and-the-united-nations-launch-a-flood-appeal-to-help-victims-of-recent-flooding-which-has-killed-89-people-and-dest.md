@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/28/the-sudanese-government-and-the-united-nations-launch-a-flood-appeal-to-help-victims-of-recent-flooding-which-has-killed-89-people-and-dest.html)  [JSON](/news/2007/08/28/the-sudanese-government-and-the-united-nations-launch-a-flood-appeal-to-help-victims-of-recent-flooding-which-has-killed-89-people-and-dest.json)  [XML](/news/2007/08/28/the-sudanese-government-and-the-united-nations-launch-a-flood-appeal-to-help-victims-of-recent-flooding-which-has-killed-89-people-and-dest.xml)  
+
 ### [2007-08-28](/news/2007/08/28/index.md)
 
+##### Sudan
 #  The Sudanese Government and the United Nations launch a flood appeal to help victims of recent flooding which has killed 89 people and destroyed 73,000 homes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6967978.stm)
 

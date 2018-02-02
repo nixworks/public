@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/1/more-than-150-israeli-academics-say-they-will-no-longer-lecture-or-work-in-jewish-settlements-in-the-west-bank.html)  [JSON](/news/2010/09/1/more-than-150-israeli-academics-say-they-will-no-longer-lecture-or-work-in-jewish-settlements-in-the-west-bank.json)  [XML](/news/2010/09/1/more-than-150-israeli-academics-say-they-will-no-longer-lecture-or-work-in-jewish-settlements-in-the-west-bank.xml)  
+
 ### [2010-09-1](/news/2010/09/1/index.md)
 
+##### Israel
 # More than 150 Israeli academics say they will no longer lecture or work in Jewish settlements in the West Bank. 
 
 More than 150 Israeli academics say they will no longer lecture or work in Jewish settlements in the West Bank.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11141774)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

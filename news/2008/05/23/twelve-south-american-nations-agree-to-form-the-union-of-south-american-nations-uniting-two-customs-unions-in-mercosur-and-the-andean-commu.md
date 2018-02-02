@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/23/twelve-south-american-nations-agree-to-form-the-union-of-south-american-nations-uniting-two-customs-unions-in-mercosur-and-the-andean-commu.html)  [JSON](/news/2008/05/23/twelve-south-american-nations-agree-to-form-the-union-of-south-american-nations-uniting-two-customs-unions-in-mercosur-and-the-andean-commu.json)  [XML](/news/2008/05/23/twelve-south-american-nations-agree-to-form-the-union-of-south-american-nations-uniting-two-customs-unions-in-mercosur-and-the-andean-commu.xml)  
+
 ### [2008-05-23](/news/2008/05/23/index.md)
 
+##### South America
 #  Twelve South American nations agree to form the Union of South American Nations uniting two customs unions in Mercosur and the Andean Community. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Euronews](http://www.euronews.net/index.php?page=info&article=489166&lng=1)
 

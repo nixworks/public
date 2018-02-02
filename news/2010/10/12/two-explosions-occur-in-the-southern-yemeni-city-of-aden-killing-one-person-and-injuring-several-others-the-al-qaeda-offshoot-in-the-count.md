@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/12/two-explosions-occur-in-the-southern-yemeni-city-of-aden-killing-one-person-and-injuring-several-others-the-al-qaeda-offshoot-in-the-count.html)  [JSON](/news/2010/10/12/two-explosions-occur-in-the-southern-yemeni-city-of-aden-killing-one-person-and-injuring-several-others-the-al-qaeda-offshoot-in-the-count.json)  [XML](/news/2010/10/12/two-explosions-occur-in-the-southern-yemeni-city-of-aden-killing-one-person-and-injuring-several-others-the-al-qaeda-offshoot-in-the-count.xml)  
+
 ### [2010-10-12](/news/2010/10/12/index.md)
 
+##### Yemen
 # Two explosions occur in the southern Yemeni city of Aden, killing one person and injuring several others. The Al-Qaeda offshoot in the country also states its intention to establish a "new army" to overthrow the President. 
 
 Medical workers in the city of Aden in southern Yemen say two explosions there have killed at least one person and injured at eight others.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/2010101121103332192.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11521093)
@@ -15,7 +19,7 @@ Medical workers in the city of Aden in southern Yemen say two explosions there h
 ### Related:
 
 1. [Airstrikes on the Al-Qaeda-held Al-Mansoura district in the port city of Aden, kill at least 17 militants and injure 20 civilians, according to local medics and a Yemeni security official. ](/news/2016/03/12/airstrikes-on-the-al-qaeda-held-al-mansoura-district-in-the-port-city-of-aden-kill-at-least-17-militants-and-injure-20-civilians-according.md) _Context: Aden, Yemen, al-Qaida_
-2. [Thousands of supporters of Yemen's secessionists rally in the southern city of Aden, backing a new group led by former head of Aden Governorate Aidarus al-Zoubaidi that advocates for autonomy of the country's south. ](/news/2017/07/7/thousands-of-supporters-of-yemen-s-secessionists-rally-in-the-southern-city-of-aden-backing-a-new-group-led-by-former-head-of-aden-governor.md) _Context: Aden, Yemen_
-3. [A suspected U.S. drone strike kills two al-Qaida militants in central Shabwa province, according to Yemeni security and tribal officials. ](/news/2017/01/30/a-suspected-u-s-drone-strike-kills-two-al-qaida-militants-in-central-shabwa-province-according-to-yemeni-security-and-tribal-officials.md) _Context: Yemen, al-Qaida_
-4. [A U.S. military raid takes place in Yemen's southern Al Bayda Governorate. According to medics on the scene as reported by Reuters, "around 30" were killed, among which were at least three senior Al-Qaeda members, at least one U.S. service member, and 10 women and children. ](/news/2017/01/29/a-u-s-military-raid-takes-place-in-yemen-s-southern-al-bayda-governorate-according-to-medics-on-the-scene-as-reported-by-reuters-around.md) _Context: Yemen, al-Qaida_
-5. [A suicide bomber kills at least 50 soldiers and injures 70 more at a military barracks in Aden, Yemen. ](/news/2016/12/10/a-suicide-bomber-kills-at-least-50-soldiers-and-injures-70-more-at-a-military-barracks-in-aden-yemen.md) _Context: Aden, Yemen_
+2. [The Southern Transitional Council (STC) takes control of the Yemeni port city of Aden following two days of fierce fighting in the city which has left dozens dead. Yemeni Prime Minister Ahmed Obeid bin Daghr, and members of the President Abdrabbuh Mansur Hadi-led government are confined to the presidential palace which has been surrounded. ](/news/2018/01/30/the-southern-transitional-council-stc-takes-control-of-the-yemeni-port-city-of-aden-following-two-days-of-fierce-fighting-in-the-city-whic.md) _Context: Aden, Yemen_
+3. [United Arab Emirates-backed Southern Transitional Council (STC) fighters seize control of government buildings in the southern Yemeni city of Aden, after clashing with forces loyal to President Abdrabbuh Mansur Hadi. At least 10 people are reportedly killed and 30 wounded. Yemeni Prime Minister Ahmed Obeid bin Daghr accuses the separatists of mounting a coup. ](/news/2018/01/28/united-arab-emirates-backed-southern-transitional-council-stc-fighters-seize-control-of-government-buildings-in-the-southern-yemeni-city-o.md) _Context: Aden, Yemen_
+4. [Thousands of supporters of Yemen's secessionists rally in the southern city of Aden, backing a new group led by former head of Aden Governorate Aidarus al-Zoubaidi that advocates for autonomy of the country's south. ](/news/2017/07/7/thousands-of-supporters-of-yemen-s-secessionists-rally-in-the-southern-city-of-aden-backing-a-new-group-led-by-former-head-of-aden-governor.md) _Context: Aden, Yemen_
+5. [A suspected U.S. drone strike kills two al-Qaida militants in central Shabwa province, according to Yemeni security and tribal officials. ](/news/2017/01/30/a-suspected-u-s-drone-strike-kills-two-al-qaida-militants-in-central-shabwa-province-according-to-yemeni-security-and-tribal-officials.md) _Context: Yemen, al-Qaida_

@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2015/10/26/israeli-prime-minister-benjamin-netanyahu-orders-a-review-of-the-status-of-certain-palestinian-neighborhoods-in-east-jerusalem-netanyahu-sa.html)  [JSON](/news/2015/10/26/israeli-prime-minister-benjamin-netanyahu-orders-a-review-of-the-status-of-certain-palestinian-neighborhoods-in-east-jerusalem-netanyahu-sa.json)  [XML](/news/2015/10/26/israeli-prime-minister-benjamin-netanyahu-orders-a-review-of-the-status-of-certain-palestinian-neighborhoods-in-east-jerusalem-netanyahu-sa.xml)  
+
 ### [2015-10-26](/news/2015/10/26/index.md)
 
+##### Israel
 # Israeli Prime Minister Benjamin Netanyahu orders a review of the status of certain Palestinian neighborhoods in East Jerusalem. Netanyahu says he is considering revoking residency status for Palestinians living there, according to Israel's Channel 2. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/b24e25763d514433b461f5fe88e758de/israeli-army-palestinian-stabs-israeli-shot-dead)
 2. [UPI](http://www.upi.com/Top_News/World-News/2015/10/26/Netanyahu-Revoke-residency-for-East-Jerusalem-Arabs/7011445874640/?spt=hs&or=tn_int)
 2. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/7011445874640/2015/2/af7ca540fe7f4916183873bec3303cec/v1.5/Netanyahu-Revoke-residency-for-East-Jerusalem-Arabs.jpg)
+
+### Changes:
+
+1. [Israeli Prime Minister Benjamin Netanyahu orders a review of the status of certain Palestinian neighborhoods in East Jerusalem. Netanyahu says he is considering revoking residency status for Palestinians living there, according to Israel's Channel 2. ](/news/2015/10/26/israeli-prime-minister-benjamin-netanyahu-orders-a-review-of-the-status-of-certain-palestinian-neighborhoods-in-east-jerusalem-netanyahu-s.md) _2017-08-25 03:43:13 (First version)_
+1. [Israeli Prime Minister Benjamin Netanyahu orders a review of the status of certain Palestinian neighborhoods in East Jerusalem. Netanyahu says he is considering revoking residency status for Palestinians living there, according to Israel's Channel 2. ](/news/2015/10/26/israeli-prime-minister-benjamin-netanyahu-orders-a-review-of-the-status-of-certain-palestinian-neighborhoods-in-east-jerusalem-netanyahu-sa.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@
 3. [The Attorney General of Israel Avichai Mandelblit orders a criminal investigation of Israeli Prime Minister Benjamin Netanyahu for alleged corruption in two different cases. ](/news/2016/12/28/the-attorney-general-of-israel-avichai-mandelblit-orders-a-criminal-investigation-of-israeli-prime-minister-benjamin-netanyahu-for-alleged-c.md) _Context: Benjamin Netanyahu, Israel, Israeli Prime Minister_
 4. [Israeli Prime Minister Benjamin Netanyahu asks Yisrael Beiteinu party leader and former Foreign Minister Avigdor Lieberman to be Defense Minister. Current defense minister and former army chief of staff Moshe Ya'alon's role in the future government is unclear. Leiberman is known for his hawkish and uncompromising views. ](/news/2016/05/19/israeli-prime-minister-benjamin-netanyahu-asks-yisrael-beiteinu-party-leader-and-former-foreign-minister-avigdor-lieberman-to-be-defense-min.md) _Context: Benjamin Netanyahu, Israel, Israeli Prime Minister_
 5. [The Prime Minister of Israel Benjamin Netanyahu vows that the Israeli-occupied Golan Heights, recognized as part of Syria, will forever stay in the country's hands and called on the international community to recognize Israeli sovereignty over the area. ](/news/2016/04/17/the-prime-minister-of-israel-benjamin-netanyahu-vows-that-the-israeli-occupied-golan-heights-recognized-as-part-of-syria-will-forever-stay.md) _Context: Benjamin Netanyahu, Israel, Israeli Prime Minister_
-
-### Changes:
-
-1. [Israeli Prime Minister Benjamin Netanyahu orders a review of the status of certain Palestinian neighborhoods in East Jerusalem. Netanyahu says he is considering revoking residency status for Palestinians living there, according to Israel's Channel 2. ](/news/2015/10/26/israeli-prime-minister-benjamin-netanyahu-orders-a-review-of-the-status-of-certain-palestinian-neighborhoods-in-east-jerusalem-netanyahu-s.md) _2017-08-25 03:43:13 (First version)_
-1. [Israeli Prime Minister Benjamin Netanyahu orders a review of the status of certain Palestinian neighborhoods in East Jerusalem. Netanyahu says he is considering revoking residency status for Palestinians living there, according to Israel's Channel 2. ](/news/2015/10/26/israeli-prime-minister-benjamin-netanyahu-orders-a-review-of-the-status-of-certain-palestinian-neighborhoods-in-east-jerusalem-netanyahu-sa.md) _(Current version)_

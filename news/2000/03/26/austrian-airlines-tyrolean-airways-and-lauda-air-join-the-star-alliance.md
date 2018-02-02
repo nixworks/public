@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/03/26/austrian-airlines-tyrolean-airways-and-lauda-air-join-the-star-alliance.html)  [JSON](/news/2000/03/26/austrian-airlines-tyrolean-airways-and-lauda-air-join-the-star-alliance.json)  [XML](/news/2000/03/26/austrian-airlines-tyrolean-airways-and-lauda-air-join-the-star-alliance.xml)  
+
 ### [2000-03-26](/news/2000/03/26/index.md)
 
+##### Austrian Airlines
 # Austrian Airlines, Tyrolean Airways and Lauda Air join the Star Alliance.
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/22/ahmad-al-mahdi-pleads-guilty-at-the-start-of-hi
 
 ### [2016-08-22](/news/2016/08/22/index.md)
 
+##### Ahmad al-Mahdi
 # Ahmad al-Mahdi pleads guilty at the start of his trial before the International Criminal Court for the war crime of destroying cultural sites in Timbuktu. 
 
 An Islamist rebel says he regrets destroying cultural and religious sites in Timbuktu, Mali, in a landmark trial at the International Criminal Court.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/1/a-bomb-explodes-outside-a-coptic-church-in-alexandria-egypt-killing-at-least-21-people-and-wounding-97-more-street-disturbances-between-c.html)  [JSON](/news/2011/01/1/a-bomb-explodes-outside-a-coptic-church-in-alexandria-egypt-killing-at-least-21-people-and-wounding-97-more-street-disturbances-between-c.json)  [XML](/news/2011/01/1/a-bomb-explodes-outside-a-coptic-church-in-alexandria-egypt-killing-at-least-21-people-and-wounding-97-more-street-disturbances-between-c.xml)  
+
 ### [2011-01-1](/news/2011/01/1/index.md)
 
+##### New Year's Day church bombing
 # A bomb explodes outside a Coptic church in Alexandria, Egypt, killing at least 21 people and wounding 97 more; street disturbances between Christians and Muslims ensue. 
 
 Egypt blames a suicide bomber with foreign links for a blast which killed at least 21 people at an Alexandria church and sparked a Christian-Muslim clash.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/20111114553109742.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12101748)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/7/a-manhunt-is-underway-for-a-gunman-who-shot-and-seriously-wounded-presiding-travis-county-texas-state-district-judge-julie-kocurek-at-the.html)  [JSON](/news/2015/11/7/a-manhunt-is-underway-for-a-gunman-who-shot-and-seriously-wounded-presiding-travis-county-texas-state-district-judge-julie-kocurek-at-the.json)  [XML](/news/2015/11/7/a-manhunt-is-underway-for-a-gunman-who-shot-and-seriously-wounded-presiding-travis-county-texas-state-district-judge-julie-kocurek-at-the.xml)  
+
 ### [2015-11-7](/news/2015/11/7/index.md)
 
+##### Travis County, Texas
 #  A manhunt is underway for a gunman who shot and seriously wounded presiding Travis County, Texas State District Judge Julie Kocurek at the driveway of her home in West Austin, Texas. It was unclear whether she and-or her family members were targeted (they were arriving home) or if it was a botched robbery. She was listed in serious condition at University Medical Center Brackenridge in Austin but is expected to recover. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [USA Today, via MSN](http://www.msn.com/en-us/news/crime/manhunt-underway-after-texas-judge-shot-outside-her-home/ar-CC4wxu?li=AAa0dzB&ocid=iehp)
 

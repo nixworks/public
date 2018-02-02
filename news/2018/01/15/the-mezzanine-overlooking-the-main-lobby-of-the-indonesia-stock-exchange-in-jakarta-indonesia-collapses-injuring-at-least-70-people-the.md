@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/15/the-mezzanine-overlooking-the-main-lobby-of-the
 
 ### [2018-01-15](/news/2018/01/15/index.md)
 
+##### mezzanine
 # The mezzanine overlooking the main lobby of the Indonesia Stock Exchange in Jakarta, Indonesia, collapses, injuring at least 70 people. The Indonesian National Police ruled out terrorism as the cause. 
 
 MORE than 70 people are said to be injured after a floor of the Indonesian stock exchange in Jakarta collapsed in a shower of glass leaving people scrambling to flee to safety.

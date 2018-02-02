@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/01/8/ozzie-smith-is-elected-to-the-baseball-hall-of-fame.html)  [JSON](/news/2002/01/8/ozzie-smith-is-elected-to-the-baseball-hall-of-fame.json)  [XML](/news/2002/01/8/ozzie-smith-is-elected-to-the-baseball-hall-of-fame.xml)  
+
 ### [2002-01-8](/news/2002/01/8/index.md)
 
+##### Ozzie Smith
 # Ozzie Smith is elected to the Baseball Hall of Fame
 
 

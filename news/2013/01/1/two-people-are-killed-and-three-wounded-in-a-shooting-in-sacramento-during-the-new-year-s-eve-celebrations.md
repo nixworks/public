@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/1/two-people-are-killed-and-three-wounded-in-a-shooting-in-sacramento-during-the-new-year-s-eve-celebrations.html)  [JSON](/news/2013/01/1/two-people-are-killed-and-three-wounded-in-a-shooting-in-sacramento-during-the-new-year-s-eve-celebrations.json)  [XML](/news/2013/01/1/two-people-are-killed-and-three-wounded-in-a-shooting-in-sacramento-during-the-new-year-s-eve-celebrations.xml)  
+
 ### [2013-01-1](/news/2013/01/1/index.md)
 
+##### Sacramento, California
 # Two people are killed and three wounded in a shooting in Sacramento during the New Year's Eve celebrations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Sacramento Bee](http://www.sacbee.com/2012/12/31/5085810/sacramento-police-say-2-dead-3.html)
 2. [CNN](http://www.cnn.com/2013/01/01/us/california-new-years-eve-shooting/)

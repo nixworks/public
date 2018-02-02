@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/11/tropical-storm-gordon-forms-in-the-open-atlantic-ocean-with-45-mph-winds-and-is-expected-to-head-towards-bermuda.html)  [JSON](/news/2006/09/11/tropical-storm-gordon-forms-in-the-open-atlantic-ocean-with-45-mph-winds-and-is-expected-to-head-towards-bermuda.json)  [XML](/news/2006/09/11/tropical-storm-gordon-forms-in-the-open-atlantic-ocean-with-45-mph-winds-and-is-expected-to-head-towards-bermuda.xml)  
+
 ### [2006-09-11](/news/2006/09/11/index.md)
 
+##### Tropical Storm Gordon
 #  Tropical Storm Gordon forms in the open Atlantic Ocean with 45 mph winds and is expected to head towards Bermuda. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.dailycomet.com/apps/pbcs.dll/article?AID=/20060911/API/609110520)
 

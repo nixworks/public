@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/30/a-volcanic-eruption-continues-on-bogoslof-islan
 
 ### [2016-12-30](/news/2016/12/30/index.md)
 
+##### Bogoslof Island
 # A volcanic eruption continues on Bogoslof Island near Unalaska, in the Aleutian Islands of Alaska. The eruption has impacted air transportation routes. 
 
 Seismic unrest continues at Bogoslof volcano. Scientists are watching the eruption around the clock -- even though monitoring stations are far from the site. Listen Now
@@ -21,4 +22,4 @@ Seismic unrest continues at Bogoslof volcano. Scientists are watching the erupti
 2. [Two nearby boats, responding to a Coast Guard emergency broadcast, rescue 46 people from the sinking 220-foot "Alaska Juris" fishing boat in the Bering Sea off Alaska's Aleutian Islands. There are no reports of injuries; all on board were wearing survival suits. ](/news/2016/07/26/two-nearby-boats-responding-to-a-coast-guard-emergency-broadcast-rescue-46-people-from-the-sinking-220-foot-alaska-juris-fishing-boat-in.md) _Context: Alaska, Aleutian Islands_
 3. [ The United States Coast Guard and Alaska Air National Guard rescue twenty-three crew members from a capsized cargo ship south of the Aleutian Islands, on its way from Japan to Vancouver. ](/news/2006/07/24/the-united-states-coast-guard-and-alaska-air-national-guard-rescue-twenty-three-crew-members-from-a-capsized-cargo-ship-south-of-the-aleuti.md) _Context: Alaska, Aleutian Islands_
 4. [ A 7.5-magnitude earthquake in the Aleutian Islands in Alaska triggers tsunami warnings.](/news/2003/11/16/a-7-5-magnitude-earthquake-in-the-aleutian-islands-in-alaska-triggers-tsunami-warnings.md) _Context: Alaska, Aleutian Islands_
-5. [A large fire continues to burn at the Peter Pan Seafoods fish processing plant in Port Moller, Alaska, on the Alaska Peninsula. Much of the facility has been destroyed, and the plant is out of commission. Power is out in the village. ](/news/2017/08/17/a-large-fire-continues-to-burn-at-the-peter-pan-seafoods-fish-processing-plant-in-port-moller-alaska-on-the-alaska-peninsula-much-of-the.md) _Context: Alaska_
+5. [A 7.9 magnitude earthquake occurs in the Gulf of Alaska. A tsunami warning is issued for coastal Alaska and British Columbia, and the entire U.S. West Coast is placed under a tsunami watch. Areas of Alaska remain under a tsunami advisory. It is tied as the sixth-largest earthquake ever recorded in the United States, but there are no reports of significant damage or fatalities. ](/news/2018/01/23/a-7-9-magnitude-earthquake-occurs-in-the-gulf-of-alaska-a-tsunami-warning-is-issued-for-coastal-alaska-and-british-columbia-and-the-entire.md) _Context: Alaska_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/30/pope-benedict-xvi-says-he-wants-to-heal-the-rift-with-the-orthodox-church-during-his-papacy-he-spoke-to-hundreds-of-thousands-of-people-at.html)  [JSON](/news/2005/05/30/pope-benedict-xvi-says-he-wants-to-heal-the-rift-with-the-orthodox-church-during-his-papacy-he-spoke-to-hundreds-of-thousands-of-people-at.json)  [XML](/news/2005/05/30/pope-benedict-xvi-says-he-wants-to-heal-the-rift-with-the-orthodox-church-during-his-papacy-he-spoke-to-hundreds-of-thousands-of-people-at.xml)  
+
 ### [2005-05-30](/news/2005/05/30/index.md)
 
+##### Pope Benedict XVI
 #  Pope Benedict XVI says he wants to heal the rift with the Orthodox Church during his papacy. He spoke to hundreds-of-thousands of people attending a mass in the southern Italian city of Bari during his first pilgrimage away from the Vatican since he was elected less than two months ago. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA News](http://www.voanews.com/english/2005-05-29-voa7.cfm)
 

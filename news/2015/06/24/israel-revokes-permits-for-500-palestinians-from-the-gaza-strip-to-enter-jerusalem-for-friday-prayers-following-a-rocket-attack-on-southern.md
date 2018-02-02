@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/24/israel-revokes-permits-for-500-palestinians-from-the-gaza-strip-to-enter-jerusalem-for-friday-prayers-following-a-rocket-attack-on-southern.html)  [JSON](/news/2015/06/24/israel-revokes-permits-for-500-palestinians-from-the-gaza-strip-to-enter-jerusalem-for-friday-prayers-following-a-rocket-attack-on-southern.json)  [XML](/news/2015/06/24/israel-revokes-permits-for-500-palestinians-from-the-gaza-strip-to-enter-jerusalem-for-friday-prayers-following-a-rocket-attack-on-southern.xml)  
+
 ### [2015-06-24](/news/2015/06/24/index.md)
 
+##### Israel
 # Israel revokes permits for 500 Palestinians from the Gaza Strip to enter Jerusalem for Friday prayers following a rocket attack on southern Israel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via France 24](http://www.france24.com/en/20150624-israel-bars-jerusalem-entry-500-gazans-after-rocket?ns_campaign=reseaux_sociaux&ns_source=twitter&ns_mchannel=social&ns_linkname=editorial&aef_campaign_ref=partage_aef&aef_campaign_date=2015-06-24&dlvrit=66745)
 

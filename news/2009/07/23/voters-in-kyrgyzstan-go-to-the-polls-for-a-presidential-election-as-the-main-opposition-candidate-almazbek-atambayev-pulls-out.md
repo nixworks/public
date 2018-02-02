@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/23/voters-in-kyrgyzstan-go-to-the-polls-for-a-presidential-election-as-the-main-opposition-candidate-almazbek-atambayev-pulls-out.html)  [JSON](/news/2009/07/23/voters-in-kyrgyzstan-go-to-the-polls-for-a-presidential-election-as-the-main-opposition-candidate-almazbek-atambayev-pulls-out.json)  [XML](/news/2009/07/23/voters-in-kyrgyzstan-go-to-the-polls-for-a-presidential-election-as-the-main-opposition-candidate-almazbek-atambayev-pulls-out.xml)  
+
 ### [2009-07-23](/news/2009/07/23/index.md)
 
+##### Kyrgyzstan
 #  Voters in Kyrgyzstan go to the polls for a presidential election, as the main opposition candidate Almazbek Atambayev pulls out. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hcWnLRKupuLcYgNm3FMrrg-yAX1g)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8164277.stm)

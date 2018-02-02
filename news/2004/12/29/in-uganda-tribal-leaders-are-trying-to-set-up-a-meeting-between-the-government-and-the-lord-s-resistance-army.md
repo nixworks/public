@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/29/in-uganda-tribal-leaders-are-trying-to-set-up-a-meeting-between-the-government-and-the-lord-s-resistance-army.html)  [JSON](/news/2004/12/29/in-uganda-tribal-leaders-are-trying-to-set-up-a-meeting-between-the-government-and-the-lord-s-resistance-army.json)  [XML](/news/2004/12/29/in-uganda-tribal-leaders-are-trying-to-set-up-a-meeting-between-the-government-and-the-lord-s-resistance-army.xml)  
+
 ### [2004-12-29](/news/2004/12/29/index.md)
 
+##### Uganda
 #  In Uganda, tribal leaders are trying to set up a meeting between the government and the Lord's Resistance Army. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4130055.stm)
 

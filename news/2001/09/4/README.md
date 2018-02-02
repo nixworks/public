@@ -1,7 +1,7 @@
-## [2001-09-4](/news/2001/09/4/index.md)
 
-### [ Google is awarded 6285999, for the PageRank search algorithm used in the Google search engine.](/news/2001/09/4/google-is-awarded-6285999-for-the-pagerank-search-algorithm-used-in-the-google-search-engine.md)
-_Context: Google, PageRank, search algorithm, search engine_
+Formats: [HTML](2001/09/4/index.html)  [JSON](2001/09/4/index.json)  [XML](2001/09/4/index.xml)  
+
+## [2001-09-4](/news/2001/09/4/index.md)
 
 ## [Previous Day...](/news/2001/09/3/index.md)
 

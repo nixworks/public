@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/18/madagascar-s-constitutional-court-supports-the-installation-of-andry-rajoelina-as-president.html)  [JSON](/news/2009/03/18/madagascar-s-constitutional-court-supports-the-installation-of-andry-rajoelina-as-president.json)  [XML](/news/2009/03/18/madagascar-s-constitutional-court-supports-the-installation-of-andry-rajoelina-as-president.xml)  
+
 ### [2009-03-18](/news/2009/03/18/index.md)
 
+##### Madagascar
 #  Madagascar's constitutional court supports the installation of Andry Rajoelina as President. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7950183.stm)
 

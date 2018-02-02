@@ -1,22 +1,26 @@
+
+Formats: [HTML](/news/2010/07/20/lesbian-student-constance-mcmillen-banned-by-a-high-school-in-the-united-states-from-bringing-her-girlfriend-to-her-leavers-dinner-is-to.html)  [JSON](/news/2010/07/20/lesbian-student-constance-mcmillen-banned-by-a-high-school-in-the-united-states-from-bringing-her-girlfriend-to-her-leavers-dinner-is-to.json)  [XML](/news/2010/07/20/lesbian-student-constance-mcmillen-banned-by-a-high-school-in-the-united-states-from-bringing-her-girlfriend-to-her-leavers-dinner-is-to.xml)  
+
 ### [2010-07-20](/news/2010/07/20/index.md)
 
+##### Lesbian
 # Lesbian student Constance McMillen, banned by a high school in the United States from bringing her girlfriend to her leavers' dinner, is to receive a $35,000 settlement in response to a discrimination lawsuit. 
 
 A school district which cancelled its prom rather than allow a lesbian student to attend with her girlfriend will pay damages to the student.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10706956)
 2. [Miami Herald](http://miamiherald.typepad.com/gaysouthflorida/2010/07/aclu-mississippi-school-to-revise-policy-pay-damages-to-lesbian-teen-denied-her-prom.html)
-3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/07/20/AR2010072002584.html)
+3. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/07/20/AR2010072002584.html)
 4. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2010/07/mississippi-district-settles-lesbians-suit-over-canceled-prom/1?csp=34news)
 4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 
-1. [A charter bus carrying high school students from Philadelphia crashes when it attempted to pass under a low bridge in Boston, United States, injuring 34 people. ](/news/2013/02/3/a-charter-bus-carrying-high-school-students-from-philadelphia-crashes-when-it-attempted-to-pass-under-a-low-bridge-in-boston-united-states.md) _Context: United States, high school_
-2. [Two children are prevented by the Roman Catholic Archdiocese of Denver from enrolling in a Catholic school in Boulder, Colorado, United States because their parents are lesbians. ](/news/2010/03/11/two-children-are-prevented-by-the-roman-catholic-archdiocese-of-denver-from-enrolling-in-a-catholic-school-in-boulder-colorado-united-stat.md) _Context: United States, lesbian_
-3. [ A bus carrying high school band students tips over on Interstate 94 northwest of Minneapolis, Minnesota, United States, killing one person and leaving three others in critical condition. ](/news/2008/04/5/a-bus-carrying-high-school-band-students-tips-over-on-interstate-94-northwest-of-minneapolis-minnesota-united-states-killing-one-person.md) _Context: United States, high school_
-4. [The Nobel Prize committee awards American Richard Thaler the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-his.md) _Context: United States_
-5. [Tropical Storm Nate heads for the Gulf Coast of the United States after causing dozens of deaths in Central America and severe flooding in the Nicaraguan town of Rivas. ](/news/2017/10/6/tropical-storm-nate-heads-for-the-gulf-coast-of-the-united-states-after-causing-dozens-of-deaths-in-central-america-and-severe-flooding-in-t.md) _Context: United States_
+1. [A charter bus carrying high school students from Philadelphia crashes when it attempted to pass under a low bridge in Boston, United States, injuring 34 people. ](/news/2013/02/3/a-charter-bus-carrying-high-school-students-from-philadelphia-crashes-when-it-attempted-to-pass-under-a-low-bridge-in-boston-united-states.md) _Context: U.S., high school_
+2. [ A bus carrying high school band students tips over on Interstate 94 northwest of Minneapolis, Minnesota, United States, killing one person and leaving three others in critical condition. ](/news/2008/04/5/a-bus-carrying-high-school-band-students-tips-over-on-interstate-94-northwest-of-minneapolis-minnesota-united-states-killing-one-person.md) _Context: U.S., high school_
+3. [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md) _Context: U.S._
+4. [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md) _Context: U.S._
+5. [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md) _Context: U.S._

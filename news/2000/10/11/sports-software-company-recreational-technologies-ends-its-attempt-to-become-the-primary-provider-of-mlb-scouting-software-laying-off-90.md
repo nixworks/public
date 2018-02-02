@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/10/11/sports-software-company-recreational-technologies-ends-its-attempt-to-become-the-primary-provider-of-mlb-scouting-software-laying-off-90.html)  [JSON](/news/2000/10/11/sports-software-company-recreational-technologies-ends-its-attempt-to-become-the-primary-provider-of-mlb-scouting-software-laying-off-90.json)  [XML](/news/2000/10/11/sports-software-company-recreational-technologies-ends-its-attempt-to-become-the-primary-provider-of-mlb-scouting-software-laying-off-90.xml)  
+
 ### [2000-10-11](/news/2000/10/11/index.md)
 
+##### MLB
 #  Sports software company Recreational Technologies ends its attempt to become the primary provider of MLB scouting software, laying off 90% of its development staff.
 
 

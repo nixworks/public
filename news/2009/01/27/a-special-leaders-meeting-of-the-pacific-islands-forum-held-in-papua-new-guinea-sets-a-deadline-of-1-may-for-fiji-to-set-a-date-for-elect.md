@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/27/a-special-leaders-meeting-of-the-pacific-islands-forum-held-in-papua-new-guinea-sets-a-deadline-of-1-may-for-fiji-to-set-a-date-for-elect.html)  [JSON](/news/2009/01/27/a-special-leaders-meeting-of-the-pacific-islands-forum-held-in-papua-new-guinea-sets-a-deadline-of-1-may-for-fiji-to-set-a-date-for-elect.json)  [XML](/news/2009/01/27/a-special-leaders-meeting-of-the-pacific-islands-forum-held-in-papua-new-guinea-sets-a-deadline-of-1-may-for-fiji-to-set-a-date-for-elect.xml)  
+
 ### [2009-01-27](/news/2009/01/27/index.md)
 
+##### Pacific Islands Forum
 #  A special leaders meeting of the Pacific Islands Forum, held in Papua New Guinea, sets a deadline of 1 May for Fiji to set a date for elections before the end of the year. Fiji rejects the deadline. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2009-01/28/content_10728151.htm)
 

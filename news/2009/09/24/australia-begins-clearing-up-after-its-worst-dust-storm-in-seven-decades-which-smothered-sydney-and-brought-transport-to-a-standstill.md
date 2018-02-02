@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/24/australia-begins-clearing-up-after-its-worst-dust-storm-in-seven-decades-which-smothered-sydney-and-brought-transport-to-a-standstill.html)  [JSON](/news/2009/09/24/australia-begins-clearing-up-after-its-worst-dust-storm-in-seven-decades-which-smothered-sydney-and-brought-transport-to-a-standstill.json)  [XML](/news/2009/09/24/australia-begins-clearing-up-after-its-worst-dust-storm-in-seven-decades-which-smothered-sydney-and-brought-transport-to-a-standstill.xml)  
+
 ### [2009-09-24](/news/2009/09/24/index.md)
 
+##### Australia
 #  Australia begins clearing up after its worst dust storm in seven decades, which smothered Sydney and brought transport to a standstill. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8272128.stm)
 

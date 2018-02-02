@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/9/president-donald-trump-claims-that-james-comey-c
 
 ### [2017-06-9](/news/2017/06/9/index.md)
 
+##### James Comey Senate Intelligence Committee testimony
 # President Donald Trump claims that James Comey committed perjury during his testimony yesterday, and offers to give his own testimony, "under oath," refuting that he requested Comey to drop the Flynn investigation and that he had asked for Comey's allegence. 
 
 
@@ -23,4 +24,4 @@ Formats: [HTML](/news/2017/06/9/president-donald-trump-claims-that-james-comey-c
 2. [U.S. President Donald Trump clarifies that he did not record any private conversations with former FBI Director James Comey. ](/news/2017/06/22/u-s-president-donald-trump-clarifies-that-he-did-not-record-any-private-conversations-with-former-fbi-director-james-comey.md) _Context: Donald Trump, James Comey_
 3. [U.S. President Donald Trump removes James Comey as Director of the Federal Bureau of Investigation, with Andrew G. McCabe stepping in as acting director. ](/news/2017/05/9/u-s-president-donald-trump-removes-james-comey-as-director-of-the-federal-bureau-of-investigation-with-andrew-g-mccabe-stepping-in-as-act.md) _Context: Donald Trump, James Comey_
 4. ["The New York Times" reports that a memo from James Comey, read in part to a reporter by a Comey associate, revealed that President Donald Trump asked him to end the F.B.I. investigation of Michael T. Flynn. The White House denies the version of events in the memo. ](/news/2017/05/16/the-new-york-times-reports-that-a-memo-from-james-comey-read-in-part-to-a-reporter-by-a-comey-associate-revealed-that-president-donald-t.md) _Context: Donald Trump, James Comey_
-5. [Donald Trump approves California's request for an emergency declaration, allowing the Federal Emergency Management Agency to coordinate disaster relief efforts across five Southern California counties. ](/news/2017/12/8/donald-trump-approves-california-s-request-for-an-emergency-declaration-allowing-the-federal-emergency-management-agency-to-coordinate-disa.md) _Context: Donald Trump_
+5. [Steve Bannon steps down as executive chairman of Breitbart News amid a dispute with U.S. President Donald Trump over comments he made about the Trump family in Michael Wolff's "Fire and Fury". ](/news/2018/01/9/steve-bannon-steps-down-as-executive-chairman-of-breitbart-news-amid-a-dispute-with-u-s-president-donald-trump-over-comments-he-made-about.md) _Context: Donald Trump_

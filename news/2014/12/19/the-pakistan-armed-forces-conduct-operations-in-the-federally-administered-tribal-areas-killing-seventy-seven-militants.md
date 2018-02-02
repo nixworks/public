@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2014/12/19/the-pakistan-armed-forces-conduct-operations-in-the-federally-administered-tribal-areas-killing-seventy-seven-militants.html)  [JSON](/news/2014/12/19/the-pakistan-armed-forces-conduct-operations-in-the-federally-administered-tribal-areas-killing-seventy-seven-militants.json)  [XML](/news/2014/12/19/the-pakistan-armed-forces-conduct-operations-in-the-federally-administered-tribal-areas-killing-seventy-seven-militants.xml)  
+
 ### [2014-12-19](/news/2014/12/19/index.md)
 
+##### War in North-West Pakistan
 # The Pakistan Armed Forces conduct operations in the Federally Administered Tribal Areas, killing seventy-seven militants. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Houston Chronicle](http://www.chron.com/news/crime/article/Pakistani-jets-ground-forces-kill-27-militants-5967588.php)
+
+### Changes:
+
+1. [War in North-West Pakistan: The Pakistan Armed Forces conduct operations in the Federally Administered Tribal Areas, killing seventy-seven militants. ](/news/2014/12/19/war-in-north-west-pakistan-the-pakistan-armed-forces-conduct-operations-in-the-federally-administered-tribal-areas-killing-seventy-seven-m.md) _2017-08-27 03:41:39 (First version)_
+1. [The Pakistan Armed Forces conduct operations in the Federally Administered Tribal Areas, killing seventy-seven militants. ](/news/2014/12/19/the-pakistan-armed-forces-conduct-operations-in-the-federally-administered-tribal-areas-killing-seventy-seven-militants.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [At least 22 people are killed and around 90 injured after a bomb explodes at a vegetable market in Parachinar in the Federally Administered Tribal Areas of Pakistan. ](/news/2017/01/21/at-least-22-people-are-killed-and-around-90-injured-after-a-bomb-explodes-at-a-vegetable-market-in-parachinar-in-the-federally-administered.md) _Context: Federally Administered Tribal Areas, War in North-West Pakistan_
 4. [Pakistan says seven of its soldiers have been killed in the South Waziristan tribal region by fire from across the border with Afghanistan. The soldiers belonged to the Frontier Corps; the attack targeted a checkpoint northeast of the border village of Angoor Adda. ](/news/2015/10/27/pakistan-says-seven-of-its-soldiers-have-been-killed-in-the-south-waziristan-tribal-region-by-fire-from-across-the-border-with-afghanistan.md) _Context: Federally Administered Tribal Areas, War in North-West Pakistan_
 5. [The Pakistan Armed Forces attacks two Pakistani Taliban positions near Peshawar, killing 5 militants. ](/news/2014/12/20/the-pakistan-armed-forces-attacks-two-pakistani-taliban-positions-near-peshawar-killing-5-militants.md) _Context: Pakistani military, War in North-West Pakistan_
-
-### Changes:
-
-1. [War in North-West Pakistan: The Pakistan Armed Forces conduct operations in the Federally Administered Tribal Areas, killing seventy-seven militants. ](/news/2014/12/19/war-in-north-west-pakistan-the-pakistan-armed-forces-conduct-operations-in-the-federally-administered-tribal-areas-killing-seventy-seven-m.md) _2017-08-27 03:41:39 (First version)_
-1. [The Pakistan Armed Forces conduct operations in the Federally Administered Tribal Areas, killing seventy-seven militants. ](/news/2014/12/19/the-pakistan-armed-forces-conduct-operations-in-the-federally-administered-tribal-areas-killing-seventy-seven-militants.md) _(Current version)_

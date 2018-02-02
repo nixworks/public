@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/31/the-national-assembly-of-niger-passes-a-motion-of-no-confidence-in-the-government-of-prime-minister-of-niger-hama-amadou.html)  [JSON](/news/2007/05/31/the-national-assembly-of-niger-passes-a-motion-of-no-confidence-in-the-government-of-prime-minister-of-niger-hama-amadou.json)  [XML](/news/2007/05/31/the-national-assembly-of-niger-passes-a-motion-of-no-confidence-in-the-government-of-prime-minister-of-niger-hama-amadou.xml)  
+
 ### [2007-05-31](/news/2007/05/31/index.md)
 
+##### National Assembly
 #  The National Assembly of Niger passes a motion of no-confidence in the Government of Prime Minister of Niger Hama Amadou. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6710419.stm)
 

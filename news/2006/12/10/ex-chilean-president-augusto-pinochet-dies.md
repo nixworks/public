@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2006/12/10/ex-chilean-president-augusto-pinochet-dies.html)  [JSON](/news/2006/12/10/ex-chilean-president-augusto-pinochet-dies.json)  [XML](/news/2006/12/10/ex-chilean-president-augusto-pinochet-dies.xml)  
+
 ### [2006-12-10](/news/2006/12/10/index.md)
 
+##### Chile
 #  Ex Chilean president Augusto Pinochet dies. 
 
 Augusto Pinochet, who ruled Chile from 1973 to 1990, and spent his old age fighting human rights, fraud and corruption charges, died a week after suffering a heart attack.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/WORLD/americas/12/10/pinochet.ap/index.html)
-2. [The New York Times](http://www.nytimes.com/2006/12/10/world/americas/10cnd-pinochet.html?_r=1&oref=slogin)
+2. [The New York Times](https://www.nytimes.com/2006/12/10/world/americas/10cnd-pinochet.html?_r=1&oref=slogin)
 2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

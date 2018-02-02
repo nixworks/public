@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/02/6/boko-haram-attacks-two-towns-in-niger-but-is-repulsed-by-the-niger-army-with-assistance-from-the-chad-air-force.html)  [JSON](/news/2015/02/6/boko-haram-attacks-two-towns-in-niger-but-is-repulsed-by-the-niger-army-with-assistance-from-the-chad-air-force.json)  [XML](/news/2015/02/6/boko-haram-attacks-two-towns-in-niger-but-is-repulsed-by-the-niger-army-with-assistance-from-the-chad-air-force.xml)  
+
 ### [2015-02-6](/news/2015/02/6/index.md)
 
+##### Boko Haram
 # Boko Haram attacks two towns in Niger but is repulsed by the Niger Army with assistance from the Chad Air Force. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via St Louis Post Dispatch](http://www.stltoday.com/news/world/boko-haram-attacks-town-inside-niger-after-cameroon/article_d77e8109-715a-5757-9a45-82221d8d17d1.html)
 2. [Nigerian Guardian](http://www.ngrguardiannews.com/news/national-news/196944-nigerien-chadian-forces-repel-boko-haram-attack)
+
+### Changes:
+
+1. [Boko Haram: Boko Haram attacks two towns in Niger but is repulsed by the Niger Army with assistance from the Chad Air Force. ](/news/2015/02/6/boko-haram-boko-haram-attacks-two-towns-in-niger-but-is-repulsed-by-the-niger-army-with-assistance-from-the-chad-air-force.md) _2017-08-27 03:41:53 (First version)_
+1. [Boko Haram attacks two towns in Niger but is repulsed by the Niger Army with assistance from the Chad Air Force. ](/news/2015/02/6/boko-haram-attacks-two-towns-in-niger-but-is-repulsed-by-the-niger-army-with-assistance-from-the-chad-air-force.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [An overnight raid by suspected Boko Haram militants on Niger's southern border town of Abadam, kills two Nigerien Army soldiers and three civilians. And, separately, a suicide-bomb attack on Lake Chad killed three of the attackers but no one else. A military convoy was also ambushed by militants in northern Cameroon, although there were no reported deaths. ](/news/2015/12/23/an-overnight-raid-by-suspected-boko-haram-militants-on-niger-s-southern-border-town-of-abadam-kills-two-nigerien-army-soldiers-and-three-ci.md) _Context: Boko Haram, Niger_
 4. [At least 18 people are killed and over 100 homes torched after Boko Haram militants attacked a village near the commune of Bosso in Niger's southern Diffa Region. ](/news/2015/11/26/at-least-18-people-are-killed-and-over-100-homes-torched-after-boko-haram-militants-attacked-a-village-near-the-commune-of-bosso-in-niger-s.md) _Context: Boko Haram, Niger_
 5. [Suspected Boko Haram militants kill 14 civilians in the southeast Diffa Region of Niger near the Nigerian border. The Nigerien government recently approved a law prolonging a 15-day state of emergency for the Diffa region by three months in a bid to boost security. ](/news/2015/10/28/suspected-boko-haram-militants-kill-14-civilians-in-the-southeast-diffa-region-of-niger-near-the-nigerian-border-the-nigerien-government-re.md) _Context: Boko Haram, Niger_
-
-### Changes:
-
-1. [Boko Haram: Boko Haram attacks two towns in Niger but is repulsed by the Niger Army with assistance from the Chad Air Force. ](/news/2015/02/6/boko-haram-boko-haram-attacks-two-towns-in-niger-but-is-repulsed-by-the-niger-army-with-assistance-from-the-chad-air-force.md) _2017-08-27 03:41:53 (First version)_
-1. [Boko Haram attacks two towns in Niger but is repulsed by the Niger Army with assistance from the Chad Air Force. ](/news/2015/02/6/boko-haram-attacks-two-towns-in-niger-but-is-repulsed-by-the-niger-army-with-assistance-from-the-chad-air-force.md) _(Current version)_

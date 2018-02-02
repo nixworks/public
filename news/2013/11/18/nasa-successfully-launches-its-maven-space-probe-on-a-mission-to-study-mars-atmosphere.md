@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/11/18/nasa-successfully-launches-its-maven-space-probe-on-a-mission-to-study-mars-atmosphere.html)  [JSON](/news/2013/11/18/nasa-successfully-launches-its-maven-space-probe-on-a-mission-to-study-mars-atmosphere.json)  [XML](/news/2013/11/18/nasa-successfully-launches-its-maven-space-probe-on-a-mission-to-study-mars-atmosphere.xml)  
+
 ### [2013-11-18](/news/2013/11/18/index.md)
 
+##### NASA
 # NASA successfully launches its MAVEN space probe on a mission to study Mars' atmosphere. 
 
 The idea of humans one day colonizing Mars is a tantalizing one, but there are some obvious obstacles to our long-term residency on the red planet. Chief among them? The absence of water. Research...
 
 
-### Source:
+### Sources:
 
-1. [The Verge](http://www.theverge.com/2013/11/18/5117312/maven-nasa-mission-to-mars-what-to-know)
-1. [Cover Image](https://cdn0.vox-cdn.com/thumbor/w4DzSqdzz0lrNDqWcVSaS4_IR60=/0x52:1000x615/1600x900/cdn0.vox-cdn.com/assets/3590735/maven-final-use.png)
+1. [The Verge](https://www.theverge.com/2013/11/18/5117312/maven-nasa-mission-to-mars-what-to-know)
+1. [Cover Image](https://cdn.vox-cdn.com/thumbor/xzPHFt4qRyYQrmaHpuoyTdt28LE=/0x52:1000x615/1600x900/cdn.vox-cdn.com/assets/3590735/maven-final-use.png)
 
 ### Related:
 
@@ -16,4 +20,4 @@ The idea of humans one day colonizing Mars is a tantalizing one, but there are s
 2. [New data from the NASA space probe MESSENGER indicate that Mercury, the closest planet to the Sun, almost surely has water ice buried beneath the surface at its north pole. ](/news/2012/11/29/new-data-from-the-nasa-space-probe-messenger-indicate-that-mercury-the-closest-planet-to-the-sun-almost-surely-has-water-ice-buried-beneat.md) _Context: NASA, space probe_
 3. [NASA's MESSENGER space probe becomes the first space craft ever to enter into orbit around Mercury. ](/news/2011/03/17/nasa-s-messenger-space-probe-becomes-the-first-space-craft-ever-to-enter-into-orbit-around-mercury.md) _Context: NASA, space probe_
 4. [ NASA announces that methane in Mars' atmosphere "could be produced either by geological activity or by life." ](/news/2009/01/15/nasa-announces-that-methane-in-mars-atmosphere-could-be-produced-either-by-geological-activity-or-by-life.md) _Context: Mars' atmosphere, NASA_
-5. [ NASA mission scientists raise concerns that ongoing prolonged Martian dust storms could disable the Mars Exploration Rovers. ](/news/2007/07/21/nasa-mission-scientists-raise-concerns-that-ongoing-prolonged-martian-dust-storms-could-disable-the-mars-exploration-rovers.md) _Context: Mars' atmosphere, NASA_
+5. [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md) _Context: NASA_

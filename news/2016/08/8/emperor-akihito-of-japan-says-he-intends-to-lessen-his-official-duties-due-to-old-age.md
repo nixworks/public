@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/8/emperor-akihito-of-japan-says-he-intends-to-less
 
 ### [2016-08-8](/news/2016/08/8/index.md)
 
+##### Emperor
 # Emperor Akihito of Japan says he intends to lessen his official duties due to old age. 
 
 

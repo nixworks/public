@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/30/42-killed-11-injured-in-bus-crash-55-miles-south-of-quito-ecuador.html)  [JSON](/news/2010/08/30/42-killed-11-injured-in-bus-crash-55-miles-south-of-quito-ecuador.json)  [XML](/news/2010/08/30/42-killed-11-injured-in-bus-crash-55-miles-south-of-quito-ecuador.xml)  
+
 ### [2010-08-30](/news/2010/08/30/index.md)
 
+##### Quito
 # 42 killed, 11 injured in bus crash 55 miles south of Quito, Ecuador.
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/americas/08/30/ecuador.bus.crash/?hpt=T2#fbid=RC6uh4kM-Oh&wom=false)
 

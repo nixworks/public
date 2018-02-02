@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/7/one-us-soldier-is-killed-and-two-are-injured-sunday-in-mosul-when-a-convoy-is-attacked-http-www-cnn-com-2003-world-meast-12-07-sprj-irq.html)  [JSON](/news/2003/12/7/one-us-soldier-is-killed-and-two-are-injured-sunday-in-mosul-when-a-convoy-is-attacked-http-www-cnn-com-2003-world-meast-12-07-sprj-irq.json)  [XML](/news/2003/12/7/one-us-soldier-is-killed-and-two-are-injured-sunday-in-mosul-when-a-convoy-is-attacked-http-www-cnn-com-2003-world-meast-12-07-sprj-irq.xml)  
+
 ### [2003-12-7](/news/2003/12/7/index.md)
 
+##### Mosul
 # One US soldier is killed and two are injured Sunday in Mosul when a convoy is attacked. [http:--www.cnn.com-2003-WORLD-meast-12-07-sprj.irq.main-index.html]
 
 

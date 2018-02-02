@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/7/at-least-five-people-are-killed-in-a-blast-outside-a-court-complex-in-peshawar-pakistan.html)  [JSON](/news/2009/12/7/at-least-five-people-are-killed-in-a-blast-outside-a-court-complex-in-peshawar-pakistan.json)  [XML](/news/2009/12/7/at-least-five-people-are-killed-in-a-blast-outside-a-court-complex-in-peshawar-pakistan.xml)  
+
 ### [2009-12-7](/news/2009/12/7/index.md)
 
+##### court
 #  At least five people are killed in a blast outside a court complex in Peshawar, Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Financial Times](http://www.ft.com/cms/s/0/0a150016-e311-11de-b965-00144feab49a.html)
 2. [Hindustan Times](http://www.hindustantimes.com/5-killed-50-hurt-in-suicide-attack-outside-Peshawar-court/H1-Article1-483835.aspx)

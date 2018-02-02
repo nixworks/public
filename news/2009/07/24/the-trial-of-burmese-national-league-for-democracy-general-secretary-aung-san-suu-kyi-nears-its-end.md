@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/24/the-trial-of-burmese-national-league-for-democracy-general-secretary-aung-san-suu-kyi-nears-its-end.html)  [JSON](/news/2009/07/24/the-trial-of-burmese-national-league-for-democracy-general-secretary-aung-san-suu-kyi-nears-its-end.json)  [XML](/news/2009/07/24/the-trial-of-burmese-national-league-for-democracy-general-secretary-aung-san-suu-kyi-nears-its-end.xml)  
+
 ### [2009-07-24](/news/2009/07/24/index.md)
 
+##### Burma
 #  The trial of Burmese National League for Democracy General Secretary Aung San Suu Kyi nears its end. 
 
 Prosecution given extra time to compile final arguments against Nobel prize winner.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/07/2009724114148441717.html)
 2. [Jakarta Globe](http://thejakartaglobe.com/afp/myanmar-defiant-as-suu-kyi-trial-enters-final-stage/319966)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/8/the-government-of-prime-minister-of-romania-sori
 
 ### [2017-02-8](/news/2017/02/8/index.md)
 
+##### 2017 Romanian protests
 # The government of Prime Minister of Romania Sorin Grindeanu survives a no-confidence motion over proposed decriminalisation of certain corruption offences, with 161 MPs voting in favor of the motion, short of the 232 votes needed for it to pass. 
 
 Motion follows biggest protests in decades against decree that would have decriminalised some corruption offences.

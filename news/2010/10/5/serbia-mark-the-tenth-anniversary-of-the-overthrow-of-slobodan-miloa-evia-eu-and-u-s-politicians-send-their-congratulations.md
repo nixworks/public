@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/5/serbia-mark-the-tenth-anniversary-of-the-overthrow-of-slobodan-miloa-evia-eu-and-u-s-politicians-send-their-congratulations.html)  [JSON](/news/2010/10/5/serbia-mark-the-tenth-anniversary-of-the-overthrow-of-slobodan-miloa-evia-eu-and-u-s-politicians-send-their-congratulations.json)  [XML](/news/2010/10/5/serbia-mark-the-tenth-anniversary-of-the-overthrow-of-slobodan-miloa-evia-eu-and-u-s-politicians-send-their-congratulations.xml)  
+
 ### [2010-10-5](/news/2010/10/5/index.md)
 
+##### Serbia
 # Serbia mark the tenth anniversary of the overthrow of Slobodan Milosevic. EU and U.S. politicians send their congratulations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11478533)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

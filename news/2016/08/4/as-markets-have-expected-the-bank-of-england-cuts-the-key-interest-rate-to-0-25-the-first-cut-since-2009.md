@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/4/as-markets-have-expected-the-bank-of-england-cut
 
 ### [2016-08-4](/news/2016/08/4/index.md)
 
+##### Bank of England
 # As markets have expected, the Bank of England cuts the key interest rate to 0.25, the first cut since 2009. 
 
 

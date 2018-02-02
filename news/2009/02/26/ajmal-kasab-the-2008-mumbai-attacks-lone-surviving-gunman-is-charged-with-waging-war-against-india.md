@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/26/ajmal-kasab-the-2008-mumbai-attacks-lone-surviving-gunman-is-charged-with-waging-war-against-india.html)  [JSON](/news/2009/02/26/ajmal-kasab-the-2008-mumbai-attacks-lone-surviving-gunman-is-charged-with-waging-war-against-india.json)  [XML](/news/2009/02/26/ajmal-kasab-the-2008-mumbai-attacks-lone-surviving-gunman-is-charged-with-waging-war-against-india.xml)  
+
 ### [2009-02-26](/news/2009/02/26/index.md)
 
+##### Ajmal Kasab
 #  Ajmal Kasab, the 2008 Mumbai attacks' lone surviving gunman, is charged with waging war against India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Mumbai-Attacks-Surviving-Gunman-Mohammed-Ajmal-Kasab-One-Of-38-Charged-Over-Attacks/Article/200902415229850?lpos=World_News_First_World_News_Article_Teaser_Region_2&lid=ARTICLE_15229850_Mumbai_Attacks%3A_Surviving_Gunman_Mohammed_Ajmal_Kasab_One_Of_38_Charged_Over_Attacks)
 

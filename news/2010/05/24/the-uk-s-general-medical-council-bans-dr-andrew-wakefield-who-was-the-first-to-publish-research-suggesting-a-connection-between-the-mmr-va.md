@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/05/24/the-uk-s-general-medical-council-bans-dr-andrew-wakefield-who-was-the-first-to-publish-research-suggesting-a-connection-between-the-mmr-va.html)  [JSON](/news/2010/05/24/the-uk-s-general-medical-council-bans-dr-andrew-wakefield-who-was-the-first-to-publish-research-suggesting-a-connection-between-the-mmr-va.json)  [XML](/news/2010/05/24/the-uk-s-general-medical-council-bans-dr-andrew-wakefield-who-was-the-first-to-publish-research-suggesting-a-connection-between-the-mmr-va.xml)  
+
 ### [2010-05-24](/news/2010/05/24/index.md)
 
+##### General Medical Council
 # The UK's General Medical Council bans Dr. Andrew Wakefield, who was the first to publish research suggesting a connection between the MMR vaccine and autism, from practicing in the country, finding him guilty of "serious professional misconduct." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ikJETNVBSJw_7bjEVDbFBwncE0EAD9FT78D00)
 2. [BBC](http://news.bbc.co.uk/2/hi/health/8700611.stm)
-3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/05/24/AR2010052400563.html)
+3. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/05/24/AR2010052400563.html)
 4. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748704113504575263994195318772.html?mod=rss_Today's_Most_Popular)
 
 ### Related:

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/25/at-least-two-people-are-killed-and-seven-are-in
 
 ### [2016-04-25](/news/2016/04/25/index.md)
 
+##### Yerevan
 # At least two people are killed and seven are injured following an explosion on a bus in Yerevan, Armenia. The cause of the blast is being investigated. 
 
 At least two people have been killed and seven injured after a bus exploded in central Yerevan, Armenia’s capital, according to the national emergencies ministry.

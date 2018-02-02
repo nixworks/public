@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/4/indonesian-coordinating-minister-for-public-welfare-affairs-agung-laksono-said-here-on-tuesday-that-the-massive-flood-in-wasior-west-papua.html)  [JSON](/news/2010/10/4/indonesian-coordinating-minister-for-public-welfare-affairs-agung-laksono-said-here-on-tuesday-that-the-massive-flood-in-wasior-west-papua.json)  [XML](/news/2010/10/4/indonesian-coordinating-minister-for-public-welfare-affairs-agung-laksono-said-here-on-tuesday-that-the-massive-flood-in-wasior-west-papua.xml)  
+
 ### [2010-10-4](/news/2010/10/4/index.md)
 
+##### Indonesia
 # Indonesian Coordinating Minister for Public Welfare Affairs Agung Laksono said here on Tuesday that the massive flood in Wasior, West Papua that continuously occurred from Sunday to Monday has claimed 56 lives. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/05/c_13543549.htm)
 

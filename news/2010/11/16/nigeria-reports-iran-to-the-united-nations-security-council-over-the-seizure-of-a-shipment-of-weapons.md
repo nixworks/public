@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/16/nigeria-reports-iran-to-the-united-nations-security-council-over-the-seizure-of-a-shipment-of-weapons.html)  [JSON](/news/2010/11/16/nigeria-reports-iran-to-the-united-nations-security-council-over-the-seizure-of-a-shipment-of-weapons.json)  [XML](/news/2010/11/16/nigeria-reports-iran-to-the-united-nations-security-council-over-the-seizure-of-a-shipment-of-weapons.xml)  
+
 ### [2010-11-16](/news/2010/11/16/index.md)
 
+##### Nigeria
 # Nigeria reports Iran to the United Nations Security Council over the seizure of a shipment of weapons. 
 
 Foreign minister says it has reported Iran to UN Security Council for possible sanctions violation.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/20101116444792700.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11765935)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/14/in-new-zealand-s-north-island-heavy-rains-cause-flooding-on-the-kapiti-coast-in-the-wellington-region-prompting-evacuations-and-closing-road.html)  [JSON](/news/2015/05/14/in-new-zealand-s-north-island-heavy-rains-cause-flooding-on-the-kapiti-coast-in-the-wellington-region-prompting-evacuations-and-closing-road.json)  [XML](/news/2015/05/14/in-new-zealand-s-north-island-heavy-rains-cause-flooding-on-the-kapiti-coast-in-the-wellington-region-prompting-evacuations-and-closing-road.xml)  
+
 ### [2015-05-14](/news/2015/05/14/index.md)
 
+##### New Zealand
 # In New Zealand's North Island heavy rains cause flooding on the Kapiti Coast in the Wellington Region prompting evacuations and closing road and rail links. 
 
 Flooding caused widespread flooding and damage in Kapiti Coast yesterday.
 
 
-### Source:
+### Sources:
 
 1. [Fairfax New Zealand](http://www.stuff.co.nz/national/68535256/evacuations-after-heavy-rain-floods-and-slips-in-kapiti-live-blog)
 2. [TVNZ](http://tvnz.co.nz/national-news/pictures-flooding-turns-kapiti-coast-roads-into-rivers-6313081)

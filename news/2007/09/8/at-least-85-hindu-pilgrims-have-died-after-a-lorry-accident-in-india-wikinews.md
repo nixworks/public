@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/8/at-least-85-hindu-pilgrims-have-died-after-a-lorry-accident-in-india-wikinews.html)  [JSON](/news/2007/09/8/at-least-85-hindu-pilgrims-have-died-after-a-lorry-accident-in-india-wikinews.json)  [XML](/news/2007/09/8/at-least-85-hindu-pilgrims-have-died-after-a-lorry-accident-in-india-wikinews.xml)  
+
 ### [2007-09-8](/news/2007/09/8/index.md)
 
+##### Hindu
 #  At least 85 Hindu pilgrims have died after a lorry accident in India. (Wikinews) 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/6984855.stm)
 

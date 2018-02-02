@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/5/the-first-plenary-session-of-the-11th-national-people-s-congress-begins-in-china-premier-wen-jiabao-delivers-the-last-annual-government-re.html)  [JSON](/news/2008/03/5/the-first-plenary-session-of-the-11th-national-people-s-congress-begins-in-china-premier-wen-jiabao-delivers-the-last-annual-government-re.json)  [XML](/news/2008/03/5/the-first-plenary-session-of-the-11th-national-people-s-congress-begins-in-china-premier-wen-jiabao-delivers-the-last-annual-government-re.xml)  
+
 ### [2008-03-5](/news/2008/03/5/index.md)
 
+##### 2008 National People's Congress
 #  The first plenary session of the 11th National People's Congress begins in China. Premier Wen Jiabao delivers the last annual government report in his first term of office. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2008-03/05/content_7719556.htm)
 

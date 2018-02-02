@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/27/a-suicide-bomber-attacks-the-lebanese-village-o
 
 ### [2016-06-27](/news/2016/06/27/index.md)
 
+##### Syrian Civil War spillover in Lebanon
 # A suicide bomber attacks the Lebanese village of Qaa near the Syrian border, with at least six people dead and 13 people injured. 
 
 At least five people have been killed in multiple suicide bombings in a mainly Christian village in north-eastern Lebanon, medics say.

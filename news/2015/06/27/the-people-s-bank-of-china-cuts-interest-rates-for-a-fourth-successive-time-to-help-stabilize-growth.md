@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/06/27/the-people-s-bank-of-china-cuts-interest-rates-for-a-fourth-successive-time-to-help-stabilize-growth.html)  [JSON](/news/2015/06/27/the-people-s-bank-of-china-cuts-interest-rates-for-a-fourth-successive-time-to-help-stabilize-growth.json)  [XML](/news/2015/06/27/the-people-s-bank-of-china-cuts-interest-rates-for-a-fourth-successive-time-to-help-stabilize-growth.xml)  
+
 ### [2015-06-27](/news/2015/06/27/index.md)
 
+##### People's Bank of China
 # The People's Bank of China cuts interest rates for a fourth successive time to help stabilize growth. 
 
 After more than a week of a brutal selloff in Chinese stocks, the country’s central bank took a rare easing step, cutting both its benchmark interest rates and the amount of reserves certain banks are required to hold.
 
 
-### Source:
+### Sources:
 
-1. [Wall Street Journal](http://www.wsj.com/articles/peoples-bank-of-china-cuts-rates-1435397932?mod=djemalertAsianews)
+1. [Wall Street Journal](https://www.wsj.com/articles/peoples-bank-of-china-cuts-rates-1435397932?mod=djemalertAsianews)
 1. [Cover Image](https://si.wsj.net/public/resources/images/OG-AE963m_crate_E_20150627131843.jpg)
 
 ### Related:

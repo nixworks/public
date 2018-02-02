@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/12/bill-english-is-elected-as-the-leader-of-the-ne
 
 ### [2016-12-12](/news/2016/12/12/index.md)
 
+##### New Zealand National Party leadership election, 2016
 # Bill English is elected as the leader of the New Zealand National Party and is now the country's Prime Minister. Paula Bennett is elected as English's deputy. 
 
 More than a decade after he tried and failed to become the country&#039;s leader, Bill English becomes New Zealand&#039;s 39th Prime Minister.

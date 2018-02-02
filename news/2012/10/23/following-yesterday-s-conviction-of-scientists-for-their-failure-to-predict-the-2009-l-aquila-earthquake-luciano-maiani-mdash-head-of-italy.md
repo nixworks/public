@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/23/following-yesterday-s-conviction-of-scientists-for-their-failure-to-predict-the-2009-l-aquila-earthquake-luciano-maiani-mdash-head-of-italy.html)  [JSON](/news/2012/10/23/following-yesterday-s-conviction-of-scientists-for-their-failure-to-predict-the-2009-l-aquila-earthquake-luciano-maiani-mdash-head-of-italy.json)  [XML](/news/2012/10/23/following-yesterday-s-conviction-of-scientists-for-their-failure-to-predict-the-2009-l-aquila-earthquake-luciano-maiani-mdash-head-of-italy.xml)  
+
 ### [2012-10-23](/news/2012/10/23/index.md)
 
+##### 2009 L'Aquila earthquake
 # Following yesterday's conviction of scientists for their failure to predict the 2009 L'Aquila earthquake, Luciano Maiani&mdash;head of Italy's disaster body&mdash;resigns in protest at the harsh treatment of his colleagues. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/10/201210231594456401.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-20039769)

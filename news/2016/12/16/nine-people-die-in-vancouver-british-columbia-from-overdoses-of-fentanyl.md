@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/16/nine-people-die-in-vancouver-british-columbia-f
 
 ### [2016-12-16](/news/2016/12/16/index.md)
 
+##### Vancouver
 # Nine people die in Vancouver, British Columbia from overdoses of fentanyl. 
 
 The BC coroners&rsquo; service says up to 13 people died from drug overdoses in the province within hours, six of them in Vancouver&rsquo;s Downtown Eastside.

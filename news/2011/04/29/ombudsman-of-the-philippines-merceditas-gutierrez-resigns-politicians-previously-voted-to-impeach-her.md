@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/29/ombudsman-of-the-philippines-merceditas-gutierrez-resigns-politicians-previously-voted-to-impeach-her.html)  [JSON](/news/2011/04/29/ombudsman-of-the-philippines-merceditas-gutierrez-resigns-politicians-previously-voted-to-impeach-her.json)  [XML](/news/2011/04/29/ombudsman-of-the-philippines-merceditas-gutierrez-resigns-politicians-previously-voted-to-impeach-her.xml)  
+
 ### [2011-04-29](/news/2011/04/29/index.md)
 
+##### Office of the Ombudsman
 # Ombudsman of the Philippines Merceditas Gutierrez resigns. Politicians previously voted to impeach her. 
 
 The top Philippine anti-corruption official resigns weeks after politicians voted to impeach her over an alleged failure to probe allegations against former leader Arroyo.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13237826)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52398000/jpg/_52398497_011856790-1.jpg)

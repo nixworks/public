@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/13/the-incumbent-president-of-zimbabwe-robert-mugabe-determines-that-elections-will-be-scheduled-for-31-july-2013-however-mugabe-s-leading-p.html)  [JSON](/news/2013/06/13/the-incumbent-president-of-zimbabwe-robert-mugabe-determines-that-elections-will-be-scheduled-for-31-july-2013-however-mugabe-s-leading-p.json)  [XML](/news/2013/06/13/the-incumbent-president-of-zimbabwe-robert-mugabe-determines-that-elections-will-be-scheduled-for-31-july-2013-however-mugabe-s-leading-p.xml)  
+
 ### [2013-06-13](/news/2013/06/13/index.md)
 
+##### Zimbabwe
 # The incumbent President of Zimbabwe, Robert Mugabe, determines that elections will be scheduled for 31 July 2013, however Mugabe's leading presidential contestant and primary political rival Morgan Tsvangirai rejects this as being "a unilateral and flagrant breach of the constitution". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [allAfrica](http://allafrica.com/view/group/main/main/id/00023912.html?aa_source=ri-headline)
 

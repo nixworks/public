@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/26/france-is-deploying-more-than-10-000-personnel-to-provide-security-for-the-two-week-un-climate-change-conference-that-opens-in-le-bourget-in.html)  [JSON](/news/2015/11/26/france-is-deploying-more-than-10-000-personnel-to-provide-security-for-the-two-week-un-climate-change-conference-that-opens-in-le-bourget-in.json)  [XML](/news/2015/11/26/france-is-deploying-more-than-10-000-personnel-to-provide-security-for-the-two-week-un-climate-change-conference-that-opens-in-le-bourget-in.xml)  
+
 ### [2015-11-26](/news/2015/11/26/index.md)
 
+##### France
 # France is deploying more than 10,000 personnel to provide security for the two-week UN Climate Change Conference that opens in Le Bourget in Paris on Monday, November 30, 2015. Around 150 heads of state or government are expected to attend COP21's opening day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua News Agency](http://news.xinhuanet.com/english/video/2015-11/26/c_134858311.htm)
 

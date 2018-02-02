@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/27/philippines-president-benigno-aquino-iii-asks-indonesian-president-joko-widodo-to-spare-the-life-of-mary-jane-veloso-a-migrant-domestic-wor.html)  [JSON](/news/2015/04/27/philippines-president-benigno-aquino-iii-asks-indonesian-president-joko-widodo-to-spare-the-life-of-mary-jane-veloso-a-migrant-domestic-wor.json)  [XML](/news/2015/04/27/philippines-president-benigno-aquino-iii-asks-indonesian-president-joko-widodo-to-spare-the-life-of-mary-jane-veloso-a-migrant-domestic-wor.xml)  
+
 ### [2015-04-27](/news/2015/04/27/index.md)
 
+##### Philippines
 # Philippines President Benigno Aquino III asks Indonesian President Joko Widodo to spare the life of Mary Jane Veloso, a migrant domestic worker sentenced to death for drug trafficking. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Australian Broadcasting Corporation](http://mobile.abc.net.au/news/2015-04-27/death-row-drug-smuggler-could-be-victim-of-human-trafficking/6424758)
 

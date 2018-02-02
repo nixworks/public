@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/15/nascar-driver-matt-kenseth-wins-the-rain-shortened-2009-daytona-500-at-daytona-international-speedway-after-152-of-200-laps.html)  [JSON](/news/2009/02/15/nascar-driver-matt-kenseth-wins-the-rain-shortened-2009-daytona-500-at-daytona-international-speedway-after-152-of-200-laps.json)  [XML](/news/2009/02/15/nascar-driver-matt-kenseth-wins-the-rain-shortened-2009-daytona-500-at-daytona-international-speedway-after-152-of-200-laps.xml)  
+
 ### [2009-02-15](/news/2009/02/15/index.md)
 
+##### NASCAR
 #  NASCAR driver Matt Kenseth wins the rain-shortened 2009 Daytona 500 at Daytona International Speedway after 152 of 200 laps. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NASCAR.com](http://www.nascar.com/2009/news/headlines/cup/02/15/post-race.mkenseth.wins.daytona.500/index.html)
 1. [Cover Image](http://www.nascar.com/)

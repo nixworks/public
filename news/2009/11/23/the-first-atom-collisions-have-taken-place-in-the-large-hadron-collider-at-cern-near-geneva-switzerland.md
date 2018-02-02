@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/23/the-first-atom-collisions-have-taken-place-in-the-large-hadron-collider-at-cern-near-geneva-switzerland.html)  [JSON](/news/2009/11/23/the-first-atom-collisions-have-taken-place-in-the-large-hadron-collider-at-cern-near-geneva-switzerland.json)  [XML](/news/2009/11/23/the-first-atom-collisions-have-taken-place-in-the-large-hadron-collider-at-cern-near-geneva-switzerland.xml)  
+
 ### [2009-11-23](/news/2009/11/23/index.md)
 
+##### Large Hadron Collider
 #  The first atom collisions have taken place in the Large Hadron Collider at CERN, near Geneva, Switzerland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/sci/tech/8372737.stm)
 2. [The Times](http://www.timesonline.co.uk/tol/news/science/physics/article6928411.ece)

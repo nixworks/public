@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/6/two-male-bodies-and-several-luggage-items-are-recovered-from-air-france-flight-447-in-the-atlantic-ocean.html)  [JSON](/news/2009/06/6/two-male-bodies-and-several-luggage-items-are-recovered-from-air-france-flight-447-in-the-atlantic-ocean.json)  [XML](/news/2009/06/6/two-male-bodies-and-several-luggage-items-are-recovered-from-air-france-flight-447-in-the-atlantic-ocean.xml)  
+
 ### [2009-06-6](/news/2009/06/6/index.md)
 
+##### Air France
 #  Two male bodies and several luggage items are recovered from Air France Flight 447 in the Atlantic Ocean. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8087303.stm)
 

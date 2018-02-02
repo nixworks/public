@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/8/the-supreme-court-of-the-philippines-in-a-9-6-ru
 
 ### [2016-03-8](/news/2016/03/8/index.md)
 
+##### Philippine presidential election, 2016
 # The Supreme Court of the Philippines, in a 9-6 ruling, reverses the Commission on Elections order that had disqualified Senator Grace Poe from running in the May 9, 2016, presidential election. The petitioners plan to file a motion for reconsideration. 
 
 

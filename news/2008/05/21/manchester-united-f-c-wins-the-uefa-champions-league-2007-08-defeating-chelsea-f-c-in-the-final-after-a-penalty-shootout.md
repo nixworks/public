@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/21/manchester-united-f-c-wins-the-uefa-champions-league-2007-08-defeating-chelsea-f-c-in-the-final-after-a-penalty-shootout.html)  [JSON](/news/2008/05/21/manchester-united-f-c-wins-the-uefa-champions-league-2007-08-defeating-chelsea-f-c-in-the-final-after-a-penalty-shootout.json)  [XML](/news/2008/05/21/manchester-united-f-c-wins-the-uefa-champions-league-2007-08-defeating-chelsea-f-c-in-the-final-after-a-penalty-shootout.xml)  
+
 ### [2008-05-21](/news/2008/05/21/index.md)
 
+##### Manchester United
 #  Manchester United F.C. wins the UEFA Champions League 2007-08 defeating Chelsea F.C. in the final after a penalty shootout. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press Association via Google News](http://ukpress.google.com/article/ALeqM5gIKobGIhMglAe6AaaplihhWEMzVA)
 

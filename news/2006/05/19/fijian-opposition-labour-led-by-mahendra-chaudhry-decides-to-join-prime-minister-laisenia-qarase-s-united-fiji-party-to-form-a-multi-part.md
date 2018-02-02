@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/19/fijian-opposition-labour-led-by-mahendra-chaudhry-decides-to-join-prime-minister-laisenia-qarase-s-united-fiji-party-to-form-a-multi-part.html)  [JSON](/news/2006/05/19/fijian-opposition-labour-led-by-mahendra-chaudhry-decides-to-join-prime-minister-laisenia-qarase-s-united-fiji-party-to-form-a-multi-part.json)  [XML](/news/2006/05/19/fijian-opposition-labour-led-by-mahendra-chaudhry-decides-to-join-prime-minister-laisenia-qarase-s-united-fiji-party-to-form-a-multi-part.xml)  
+
 ### [2006-05-19](/news/2006/05/19/index.md)
 
+##### Fiji
 #  Fijian opposition (Labour) led by Mahendra Chaudhry decides to join Prime Minister Laisenia Qarase's United Fiji Party to form a multi-party multi-ethnic cabinet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4996388.stm)
 

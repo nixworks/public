@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/19/three-senior-figures-in-the-bharatiya-janata-pa
 
 ### [2017-04-19](/news/2017/04/19/index.md)
 
+##### Bharatiya Janata Party
 # Three senior figures in the Bharatiya Janata Party, L.K. Advani, Uma Bharati and Murli Manohar Joshi, will be tried for their alleged role in the destruction of the Babri Masjid Mosque in the northern Indian town of Ayodhya. 
 
 

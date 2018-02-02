@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/27/former-nepalese-prime-minister-sher-bahadur-deuba-is-arrested-for-alleged-corruption-after-he-refuses-to-appear-in-court.html)  [JSON](/news/2005/04/27/former-nepalese-prime-minister-sher-bahadur-deuba-is-arrested-for-alleged-corruption-after-he-refuses-to-appear-in-court.json)  [XML](/news/2005/04/27/former-nepalese-prime-minister-sher-bahadur-deuba-is-arrested-for-alleged-corruption-after-he-refuses-to-appear-in-court.xml)  
+
 ### [2005-04-27](/news/2005/04/27/index.md)
 
+##### Nepal
 #  Former Nepalese Prime Minister Sher Bahadur Deuba is arrested for alleged corruption after he refuses to appear in court. 
 
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/template/template.asp?template=Nepalturmoil&slug=Deuba+held+in+Nepal&id=16766&callid=0&category=International)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/BOM201576.htm)

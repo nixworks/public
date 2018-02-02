@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/05/8/the-u-s-department-of-defense-announces-plans-to-deploy-35-000-troops-in-iraq-starting-from-august-2007.html)  [JSON](/news/2007/05/8/the-u-s-department-of-defense-announces-plans-to-deploy-35-000-troops-in-iraq-starting-from-august-2007.json)  [XML](/news/2007/05/8/the-u-s-department-of-defense-announces-plans-to-deploy-35-000-troops-in-iraq-starting-from-august-2007.xml)  
+
 ### [2007-05-8](/news/2007/05/8/index.md)
 
+##### U.S.
 #  The U.S. Department of Defense announces plans to deploy 35,000 troops in Iraq starting from August 2007. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/05/08/AR2007050802096.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2007/05/08/AR2007050802096.html)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

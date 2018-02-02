@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/18/98-year-old-la-szla3-csata-ry-is-charged-in-hungary-and-slovakia-with-participation-in-nazi-war-crimes.html)  [JSON](/news/2013/06/18/98-year-old-la-szla3-csata-ry-is-charged-in-hungary-and-slovakia-with-participation-in-nazi-war-crimes.json)  [XML](/news/2013/06/18/98-year-old-la-szla3-csata-ry-is-charged-in-hungary-and-slovakia-with-participation-in-nazi-war-crimes.xml)  
+
 ### [2013-06-18](/news/2013/06/18/index.md)
 
+##### Laszlo Csatary
 # 98-year-old Laszlo Csatary is charged in Hungary and Slovakia with participation in Nazi war crimes. 
 
 A 98-year-old Nazi war crimes suspect, Laszlo Csatary, linked to the murder of Jews in World War II, is charged in Hungary.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-22949611)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68232000/jpg/_68232315_csataryreut.jpg)

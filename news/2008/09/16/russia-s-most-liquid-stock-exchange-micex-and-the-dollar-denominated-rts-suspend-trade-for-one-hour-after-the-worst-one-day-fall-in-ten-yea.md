@@ -1,14 +1,25 @@
+
+Formats: [HTML](/news/2008/09/16/russia-s-most-liquid-stock-exchange-micex-and-the-dollar-denominated-rts-suspend-trade-for-one-hour-after-the-worst-one-day-fall-in-ten-yea.html)  [JSON](/news/2008/09/16/russia-s-most-liquid-stock-exchange-micex-and-the-dollar-denominated-rts-suspend-trade-for-one-hour-after-the-worst-one-day-fall-in-ten-yea.json)  [XML](/news/2008/09/16/russia-s-most-liquid-stock-exchange-micex-and-the-dollar-denominated-rts-suspend-trade-for-one-hour-after-the-worst-one-day-fall-in-ten-yea.xml)  
+
 ### [2008-09-16](/news/2008/09/16/index.md)
 
+##### Russia
 #  Russia's most liquid stock exchange MICEX and the dollar-denominated RTS suspend trade for one hour after the worst one-day fall in ten years as Finance Minister Alexei Kudrin reassured markets there was no "systemic" crisis. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/rbssFinancialServicesAndRealEstateNews/idUSLG65392720080916)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/rbssFinancialServicesAndRealEstateNews/idUSLG65392720080916)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [ 2008 Russian financial crisis: Russia's most liquid stock exchange MICEX and the dollar-denominated RTS suspend trade for one hour after the worst one-day fall in ten years as Finance Minister Alexei Kudrin reassured markets there was no "systemic" crisis. ](/news/2008/09/16/2008-russian-financial-crisis-p-russia-s-most-liquid-stock-exchange-micex-and-the-dollar-denominated-rts-suspend-trade-for-one-hour-after.md) _2017-05-25 03:23:27 (First version)_
+2. [ 2008 Russian financial crisis: Russia's most liquid stock exchange MICEX and the dollar-denominated RTS suspend trade for one hour after the worst one-day fall in ten years as Finance Minister Alexei Kudrin reassured markets there was no "systemic" crisis. ](/news/2008/09/16/2008-russian-financial-crisis-p-russia-s-most-liquid-stock-exchange-micex-and-the-dollar-denominated-rts-suspend-trade-for-one-hour-after-t.md) _2017-08-25 03:22:52 (Update)_
+3. [ 2008 Russian financial crisis:: Russia's most liquid stock exchange MICEX and the dollar-denominated RTS suspend trade for one hour after the worst one-day fall in ten years as Finance Minister Alexei Kudrin reassured markets there was no "systemic" crisis. ](/news/2008/09/16/2008-russian-financial-crisis-russia-s-most-liquid-stock-exchange-micex-and-the-dollar-denominated-rts-suspend-trade-for-one-hour-after-t.md) _2017-08-27 03:22:46 (Update)_
+3. [ Russia's most liquid stock exchange MICEX and the dollar-denominated RTS suspend trade for one hour after the worst one-day fall in ten years as Finance Minister Alexei Kudrin reassured markets there was no "systemic" crisis. ](/news/2008/09/16/russia-s-most-liquid-stock-exchange-micex-and-the-dollar-denominated-rts-suspend-trade-for-one-hour-after-the-worst-one-day-fall-in-ten-yea.md) _(Current version)_
 
 ### Related:
 
@@ -17,10 +28,3 @@
 3. [ Trading is suspended for the second day in succession on Russia's two main stock exchanges (the MICEX and the dollar-denominated RTS) after shares fall dramatically, forcing the central bank in Moscow to intervene. ](/news/2008/09/17/trading-is-suspended-for-the-second-day-in-succession-on-russia-s-two-main-stock-exchanges-the-micex-and-the-dollar-denominated-rts-after.md) _Context: MICEX, RTS, Russia_
 4. [ The RTS and MICEX stock exchanges halt trading until Friday after opening for just more than half an hour as prices plummeted in tune with the overall situation in the world's stock markets and falling oil prices. ](/news/2008/10/8/the-rts-and-micex-stock-exchanges-halt-trading-until-friday-after-opening-for-just-more-than-half-an-hour-as-prices-plummeted-in-tune-with.md) _Context: MICEX, RTS_
 5. [ Russian Finance Minister Alexei Kudrin and state electricity chief Anatoly Chubais call for a less hawkish foreign policy. Analysts claim the two are close to the likely next President of Russia Dmitry Medvedev. ](/news/2008/01/30/russian-finance-minister-alexei-kudrin-and-state-electricity-chief-anatoly-chubais-call-for-a-less-hawkish-foreign-policy-analysts-claim-t.md) _Context: Alexei Kudrin, Russia_
-
-### Changes:
-
-1. [ 2008 Russian financial crisis: Russia's most liquid stock exchange MICEX and the dollar-denominated RTS suspend trade for one hour after the worst one-day fall in ten years as Finance Minister Alexei Kudrin reassured markets there was no "systemic" crisis. ](/news/2008/09/16/2008-russian-financial-crisis-p-russia-s-most-liquid-stock-exchange-micex-and-the-dollar-denominated-rts-suspend-trade-for-one-hour-after.md) _2017-05-25 03:23:27 (First version)_
-2. [ 2008 Russian financial crisis: Russia's most liquid stock exchange MICEX and the dollar-denominated RTS suspend trade for one hour after the worst one-day fall in ten years as Finance Minister Alexei Kudrin reassured markets there was no "systemic" crisis. ](/news/2008/09/16/2008-russian-financial-crisis-p-russia-s-most-liquid-stock-exchange-micex-and-the-dollar-denominated-rts-suspend-trade-for-one-hour-after-t.md) _2017-08-25 03:22:52 (Update)_
-3. [ 2008 Russian financial crisis:: Russia's most liquid stock exchange MICEX and the dollar-denominated RTS suspend trade for one hour after the worst one-day fall in ten years as Finance Minister Alexei Kudrin reassured markets there was no "systemic" crisis. ](/news/2008/09/16/2008-russian-financial-crisis-russia-s-most-liquid-stock-exchange-micex-and-the-dollar-denominated-rts-suspend-trade-for-one-hour-after-t.md) _2017-08-27 03:22:46 (Update)_
-3. [ Russia's most liquid stock exchange MICEX and the dollar-denominated RTS suspend trade for one hour after the worst one-day fall in ten years as Finance Minister Alexei Kudrin reassured markets there was no "systemic" crisis. ](/news/2008/09/16/russia-s-most-liquid-stock-exchange-micex-and-the-dollar-denominated-rts-suspend-trade-for-one-hour-after-the-worst-one-day-fall-in-ten-yea.md) _(Current version)_

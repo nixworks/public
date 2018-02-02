@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/13/twenty-ecuadoran-lawmakers-clash-with-police-after-trying-to-regain-their-seats-in-congress-the-legislators-were-part-of-a-group-of-57-dis.html)  [JSON](/news/2007/03/13/twenty-ecuadoran-lawmakers-clash-with-police-after-trying-to-regain-their-seats-in-congress-the-legislators-were-part-of-a-group-of-57-dis.json)  [XML](/news/2007/03/13/twenty-ecuadoran-lawmakers-clash-with-police-after-trying-to-regain-their-seats-in-congress-the-legislators-were-part-of-a-group-of-57-dis.xml)  
+
 ### [2007-03-13](/news/2007/03/13/index.md)
 
+##### Ecuador
 #  Twenty Ecuadoran lawmakers clash with police after trying to regain their seats in Congress. The legislators were part of a group of 57 dismissed by President Rafael Correa for trying to block a referendum. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6448403.stm)
 

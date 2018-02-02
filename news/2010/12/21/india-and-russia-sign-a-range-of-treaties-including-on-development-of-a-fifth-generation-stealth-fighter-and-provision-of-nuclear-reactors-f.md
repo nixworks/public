@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/21/india-and-russia-sign-a-range-of-treaties-including-on-development-of-a-fifth-generation-stealth-fighter-and-provision-of-nuclear-reactors-f.html)  [JSON](/news/2010/12/21/india-and-russia-sign-a-range-of-treaties-including-on-development-of-a-fifth-generation-stealth-fighter-and-provision-of-nuclear-reactors-f.json)  [XML](/news/2010/12/21/india-and-russia-sign-a-range-of-treaties-including-on-development-of-a-fifth-generation-stealth-fighter-and-provision-of-nuclear-reactors-f.xml)  
+
 ### [2010-12-21](/news/2010/12/21/index.md)
 
+##### India
 # India and Russia sign a range of treaties including on development of a fifth-generation stealth fighter and provision of nuclear reactors from Russia to India. 
 
 Taking defence cooperation to a new level, India and Russia on Tuesday signed a deal for design and development of advanced fifth generation fighter aircraft (FGFA) estimated to cost $ 295 million, th
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12046974)
 2. [RIA Novosti](http://en.rian.ru/mlitary_news/20101221/161867153.html)

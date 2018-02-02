@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/28/an-angry-mob-in-dili-east-timor-attacks-a-refugee-camp-as-the-2006-east-timor-crisis-continues.html)  [JSON](/news/2006/06/28/an-angry-mob-in-dili-east-timor-attacks-a-refugee-camp-as-the-2006-east-timor-crisis-continues.json)  [XML](/news/2006/06/28/an-angry-mob-in-dili-east-timor-attacks-a-refugee-camp-as-the-2006-east-timor-crisis-continues.xml)  
+
 ### [2006-06-28](/news/2006/06/28/index.md)
 
+##### Dili
 #  An angry mob in Dili, East Timor, attacks a refugee camp as the 2006 East Timor crisis continues. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Melbourne Age](http://www.theage.com.au/news/world/mob-rampage-rocks-dili/2006/06/28/1151174248557.html?page=fullpage#contentSwap1)
 

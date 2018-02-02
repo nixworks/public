@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/1/fiji-is-suspended-from-the-commonwealth-of-nations-only-the-second-full-suspension-in-the-organization-s-history.html)  [JSON](/news/2009/09/1/fiji-is-suspended-from-the-commonwealth-of-nations-only-the-second-full-suspension-in-the-organization-s-history.json)  [XML](/news/2009/09/1/fiji-is-suspended-from-the-commonwealth-of-nations-only-the-second-full-suspension-in-the-organization-s-history.xml)  
+
 ### [2009-09-1](/news/2009/09/1/index.md)
 
+##### Fiji
 #  Fiji is suspended from the Commonwealth of Nations, only the second full suspension in the organization's history. 
 
 Military-ruled Fiji was on Tuesday suspended from the Commonwealth of Nations after it ignored a deadline set by the 53-member grouping to take effective steps towards restoration of democracy. 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8231717.stm)
 2. [Times of India](http://timesofindia.indiatimes.com/news/world/rest-of-world/Fiji-suspended-from-Commonwealth-over-failure-to-restore-democracy/articleshow/4961084.cms)

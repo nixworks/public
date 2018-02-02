@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/3/australian-justice-minister-chris-ellison-wants-to-create-tough-laws-against-practice-of-sending-young-girls-overseas-to-forced-marriages.html)  [JSON](/news/2005/08/3/australian-justice-minister-chris-ellison-wants-to-create-tough-laws-against-practice-of-sending-young-girls-overseas-to-forced-marriages.json)  [XML](/news/2005/08/3/australian-justice-minister-chris-ellison-wants-to-create-tough-laws-against-practice-of-sending-young-girls-overseas-to-forced-marriages.xml)  
+
 ### [2005-08-3](/news/2005/08/3/index.md)
 
+##### Chris Ellison
 #  Australian justice minister Chris Ellison wants to create tough laws against practice of sending young girls overseas to forced marriages. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4740871.stm)
 2. [The Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,16135589%255E2702,00.html)

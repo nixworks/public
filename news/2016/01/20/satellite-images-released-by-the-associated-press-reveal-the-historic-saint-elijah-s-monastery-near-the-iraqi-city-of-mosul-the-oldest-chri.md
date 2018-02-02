@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/20/satellite-images-released-by-the-associated-pre
 
 ### [2016-01-20](/news/2016/01/20/index.md)
 
+##### Iraqi Civil War (2014-present)
 # Satellite images released by the Associated Press reveal the historic Saint Elijah's Monastery near the Iraqi city of Mosul, the oldest Christian monastery in Iraq that predates Islam, has been completely razed by Islamic State of Iraq and the Levant militants. 
 
 The Isis jihadist group has completely destroyed a 1,400-year-old Christian monastery in Iraq, the oldest of its kind in the country. Satellite images released on Wednesday by the Associated Press showed just a pile of rubble where St Elijah&#039;s Monastery used to stand on a hill above Mosul, Isis&#039;s stronghold in Iraq.

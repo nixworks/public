@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/21/nigerian-authorities-relax-a-24-hour-curfew-put-in-place-in-jos-due-to-recent-religious-violence.html)  [JSON](/news/2010/01/21/nigerian-authorities-relax-a-24-hour-curfew-put-in-place-in-jos-due-to-recent-religious-violence.json)  [XML](/news/2010/01/21/nigerian-authorities-relax-a-24-hour-curfew-put-in-place-in-jos-due-to-recent-religious-violence.xml)  
+
 ### [2010-01-21](/news/2010/01/21/index.md)
 
+##### Nigeria
 # Nigerian authorities relax a 24 hour curfew put in place in Jos due to recent religious violence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Afrique en ligne](http://www.afriquejet.com/news/africa-news/curfew-relaxed-in-nigerian-city-after-violence-2010012142539.html)
 2. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE60K06A20100121)

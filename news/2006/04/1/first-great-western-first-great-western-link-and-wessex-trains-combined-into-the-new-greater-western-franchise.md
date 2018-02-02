@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/1/first-great-western-first-great-western-link-and-wessex-trains-combined-into-the-new-greater-western-franchise.html)  [JSON](/news/2006/04/1/first-great-western-first-great-western-link-and-wessex-trains-combined-into-the-new-greater-western-franchise.json)  [XML](/news/2006/04/1/first-great-western-first-great-western-link-and-wessex-trains-combined-into-the-new-greater-western-franchise.xml)  
+
 ### [2006-04-1](/news/2006/04/1/index.md)
 
+##### First Great Western
 #  First Great Western, First Great Western Link and Wessex Trains combined into the new Greater Western franchise. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/business/4523592.stm)
 

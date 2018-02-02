@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2009/01/18/hamas-agrees-to-a-one-week-ceasefire-but-fires-at-least-two-rockets-into-israel-afterward.html)  [JSON](/news/2009/01/18/hamas-agrees-to-a-one-week-ceasefire-but-fires-at-least-two-rockets-into-israel-afterward.json)  [XML](/news/2009/01/18/hamas-agrees-to-a-one-week-ceasefire-but-fires-at-least-two-rockets-into-israel-afterward.xml)  
+
 ### [2009-01-18](/news/2009/01/18/index.md)
 
+##### Hamas
 #  Hamas agrees to a one-week ceasefire, but fires at least two rockets into Israel afterward. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/meast/01/18/israel.gaza/index.html)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-01/19/content_10679802.htm)
+
+### Changes:
+
+1. [ 2008-2009 Israel-Gaza conflict: Hamas agrees to a one-week ceasefire, but fires at least two rockets into Israel afterward. ](/news/2009/01/18/2008a2009-israelagaza-conflict-p-hamas-agrees-to-a-one-week-ceasefire-but-fires-at-least-two-rockets-into-israel-afterward.md) _2017-08-25 03:23:30 (First version)_
+2. [ 2008-2009 Israel-Gaza conflict:: Hamas agrees to a one-week ceasefire, but fires at least two rockets into Israel afterward. ](/news/2009/01/18/2008-2009-israel-gaza-conflict-hamas-agrees-to-a-one-week-ceasefire-but-fires-at-least-two-rockets-into-israel-afterward.md) _2017-08-27 03:23:22 (Update)_
+2. [ Hamas agrees to a one-week ceasefire, but fires at least two rockets into Israel afterward. ](/news/2009/01/18/hamas-agrees-to-a-one-week-ceasefire-but-fires-at-least-two-rockets-into-israel-afterward.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@
 3. [A ceasefire between Israel and Hamas, announced by Egyptian Foreign Minister Mohamed Kamel Amr and US Secretary of State Hillary Clinton, comes into effect at 7:00 pm local time. ](/news/2012/11/21/a-ceasefire-between-israel-and-hamas-announced-by-egyptian-foreign-minister-mohamed-kamel-amr-and-us-secretary-of-state-hillary-clinton-co.md) _Context: Hamas, Israel, ceasefire_
 4. [Hamas states that it will agree to a ceasefire and halt their rocket fire at Israel if Israel stops attacking targets in the Gaza Strip. ](/news/2011/03/26/hamas-states-that-it-will-agree-to-a-ceasefire-and-halt-their-rocket-fire-at-israel-if-israel-stops-attacking-targets-in-the-gaza-strip.md) _Context: Hamas, Israel, ceasefire_
 5. [ Prime Minister Ehud Olmert says Israel will not negotiate any long-term ceasefire in its conflict with Hamas unless prisoner-of-war Gilad Shalit is released. ](/news/2009/02/14/prime-minister-ehud-olmert-says-israel-will-not-negotiate-any-long-term-ceasefire-in-its-conflict-with-hamas-unless-prisoner-of-war-gilad-s.md) _Context: Hamas, Israel, ceasefire_
-
-### Changes:
-
-1. [ 2008-2009 Israel-Gaza conflict: Hamas agrees to a one-week ceasefire, but fires at least two rockets into Israel afterward. ](/news/2009/01/18/2008a2009-israelagaza-conflict-p-hamas-agrees-to-a-one-week-ceasefire-but-fires-at-least-two-rockets-into-israel-afterward.md) _2017-08-25 03:23:30 (First version)_
-2. [ 2008-2009 Israel-Gaza conflict:: Hamas agrees to a one-week ceasefire, but fires at least two rockets into Israel afterward. ](/news/2009/01/18/2008-2009-israel-gaza-conflict-hamas-agrees-to-a-one-week-ceasefire-but-fires-at-least-two-rockets-into-israel-afterward.md) _2017-08-27 03:23:22 (Update)_
-2. [ Hamas agrees to a one-week ceasefire, but fires at least two rockets into Israel afterward. ](/news/2009/01/18/hamas-agrees-to-a-one-week-ceasefire-but-fires-at-least-two-rockets-into-israel-afterward.md) _(Current version)_

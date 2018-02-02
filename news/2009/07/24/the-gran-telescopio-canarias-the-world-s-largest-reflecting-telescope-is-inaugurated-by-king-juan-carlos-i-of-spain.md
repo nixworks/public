@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/07/24/the-gran-telescopio-canarias-the-world-s-largest-reflecting-telescope-is-inaugurated-by-king-juan-carlos-i-of-spain.html)  [JSON](/news/2009/07/24/the-gran-telescopio-canarias-the-world-s-largest-reflecting-telescope-is-inaugurated-by-king-juan-carlos-i-of-spain.json)  [XML](/news/2009/07/24/the-gran-telescopio-canarias-the-world-s-largest-reflecting-telescope-is-inaugurated-by-king-juan-carlos-i-of-spain.xml)  
+
 ### [2009-07-24](/news/2009/07/24/index.md)
 
+##### Gran Telescopio Canarias
 #  The Gran Telescopio Canarias, the world's largest reflecting telescope, is inaugurated by King Juan Carlos I of Spain. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2009/07/24/science/AP-EU-SCI-Spain-Giant-Telescope.html)
+1. [The New York Times](https://www.nytimes.com/aponline/2009/07/24/science/AP-EU-SCI-Spain-Giant-Telescope.html)
 
 ### Related:
 

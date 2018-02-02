@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/09/27/several-thousand-people-marched-in-denver-colorado-to-protest-the-u-s-plan-to-invade-iraq-when-president-bush-visited-the-city.html)  [JSON](/news/2002/09/27/several-thousand-people-marched-in-denver-colorado-to-protest-the-u-s-plan-to-invade-iraq-when-president-bush-visited-the-city.json)  [XML](/news/2002/09/27/several-thousand-people-marched-in-denver-colorado-to-protest-the-u-s-plan-to-invade-iraq-when-president-bush-visited-the-city.xml)  
+
 ### [2002-09-27](/news/2002/09/27/index.md)
 
+##### Denver, Colorado
 #  Several thousand people marched in Denver, Colorado, to protest the U.S. plan to invade Iraq when President Bush visited the city.
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/29/the-polish-government-buys-the-internationally-
 
 ### [2016-12-29](/news/2016/12/29/index.md)
 
+##### Czartoryski Museum
 # The Polish government buys the internationally-known Czartoryski collection of art. Based in the city of Krakow and consisting of around 86,000 pieces, this features works by Leonardo da Vinci, Rembrandt and Pierre-Auguste Renoir. 
 
 Poland buys the Czartoryski collection of about 86,000 artefacts for about 5% of its market value.

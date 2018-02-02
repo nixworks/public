@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/1/two-women-indonesian-siti-aisyah-and-vietnamese-
 
 ### [2017-03-1](/news/2017/03/1/index.md)
 
+##### Kim Jong-nam's assassination
 # Two women, Indonesian Siti Aisyah and Vietnamese Doan Thi Huong, are charged with murder in relation to the death of Kim Jong-nam, the estranged half-brother of North Korean leader Kim Jong-un, at Kuala Lumpur International Airport. The women, who reportedly thought they were involved in a prank TV show, did not enter pleas. 
 
 

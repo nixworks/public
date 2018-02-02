@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/18/at-least-14-are-killed-in-clashes-with-suspecte
 
 ### [2016-11-18](/news/2016/11/18/index.md)
 
+##### Moro conflict
 #  At least 14 are killed in clashes with suspected Abu Sayyaf militants in Sulu, Philippines. 
 
 

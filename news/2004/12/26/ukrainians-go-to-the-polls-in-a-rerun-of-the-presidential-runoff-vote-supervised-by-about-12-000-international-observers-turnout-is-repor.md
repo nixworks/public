@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/26/ukrainians-go-to-the-polls-in-a-rerun-of-the-presidential-runoff-vote-supervised-by-about-12-000-international-observers-turnout-is-repor.html)  [JSON](/news/2004/12/26/ukrainians-go-to-the-polls-in-a-rerun-of-the-presidential-runoff-vote-supervised-by-about-12-000-international-observers-turnout-is-repor.json)  [XML](/news/2004/12/26/ukrainians-go-to-the-polls-in-a-rerun-of-the-presidential-runoff-vote-supervised-by-about-12-000-international-observers-turnout-is-repor.xml)  
+
 ### [2004-12-26](/news/2004/12/26/index.md)
 
+##### Ukrainian
 #  Ukrainians go to the polls in a rerun of the presidential runoff vote, supervised by about 12,000 international observers. Turnout is reported to be comparable to the two previous votes, just short of 55 percent at 1300 GMT. Early exit polls suggest opposition leader Viktor Yushchenko has won by a wide margin 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4125297.stm)
 2. [Guardian](http://www.guardian.co.uk/international/story/0,3604,1379873,00.html)

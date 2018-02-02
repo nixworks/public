@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/28/the-swedish-academy-announces-that-swedish-writer-klas-astergren-is-appointed-new-member-succeeding-late-art-critic-ulf-linde-on-seat-no.html)  [JSON](/news/2014/02/28/the-swedish-academy-announces-that-swedish-writer-klas-astergren-is-appointed-new-member-succeeding-late-art-critic-ulf-linde-on-seat-no.json)  [XML](/news/2014/02/28/the-swedish-academy-announces-that-swedish-writer-klas-astergren-is-appointed-new-member-succeeding-late-art-critic-ulf-linde-on-seat-no.xml)  
+
 ### [2014-02-28](/news/2014/02/28/index.md)
 
+##### Swedish Academy
 # The Swedish Academy announces that Swedish writer Klas Ostergren is appointed new member, succeeding late art critic Ulf Linde on seat No. 11. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TT via ''Dagens Nyheter](http://www.dn.se/kultur-noje/klas-ostergren-ny-i-akademien-1/)
 1. [Cover Image](https://cached-images.bonnier.news/cms30/UploadedImages/2014/2/28/ba575a13-32a3-4342-b8c8-bd62edfd994c/original.jpg?interpolation=lanczos-none&fit=inside|470:246&output-quality=80&output-format=jpeg)

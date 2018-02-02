@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/21/a-homeopathic-doctor-is-hacked-to-death-in-bang
 
 ### [2016-05-21](/news/2016/05/21/index.md)
 
+##### Attacks on secularists in Bangladesh
 #  A homeopathic doctor is hacked to death in Bangladesh. The Islamic State of Iraq and the Levant claim responsibility. 
 
 Machete-wielding assailants hacked to death a village doctor and wounded a university teacher in Bangladesh on Friday, in what police suspected was the latest in a series attacks by Islamists in the majority-Muslim nation.

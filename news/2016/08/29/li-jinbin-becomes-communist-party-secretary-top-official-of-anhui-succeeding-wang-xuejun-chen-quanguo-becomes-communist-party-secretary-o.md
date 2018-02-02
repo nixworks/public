@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/29/li-jinbin-becomes-communist-party-secretary-top
 
 ### [2016-08-29](/news/2016/08/29/index.md)
 
+##### Li Jinbin
 # Li Jinbin becomes Communist Party Secretary (top official) of Anhui, succeeding Wang Xuejun.Chen Quanguo becomes Communist Party Secretary of the Xinjiang Uyghur Autonomous Region, succeeding Zhang Chunxian, who will take on another office.Li Jiheng becomes Communist Party Secretary of the Inner Mongolia Autonomous Region, succeeding Wang Jun. 
 
 

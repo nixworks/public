@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/1/at-least-8-people-are-suffocated-at-the-samuel-k-doe-stadium-in-monrovia-liberia-in-a-2010-world-cup-qualification-match-between-liberia.html)  [JSON](/news/2008/06/1/at-least-8-people-are-suffocated-at-the-samuel-k-doe-stadium-in-monrovia-liberia-in-a-2010-world-cup-qualification-match-between-liberia.json)  [XML](/news/2008/06/1/at-least-8-people-are-suffocated-at-the-samuel-k-doe-stadium-in-monrovia-liberia-in-a-2010-world-cup-qualification-match-between-liberia.xml)  
+
 ### [2008-06-1](/news/2008/06/1/index.md)
 
+##### Samuel K. Doe
 #  At least 8 people are suffocated at the Samuel K. Doe stadium in Monrovia, Liberia in a 2010 World Cup qualification match between Liberia and Gambia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNNSI](http://sportsillustrated.cnn.com/2008/soccer/06/01/bc.liberia.stadiumdeaths.ap/index.html)
 

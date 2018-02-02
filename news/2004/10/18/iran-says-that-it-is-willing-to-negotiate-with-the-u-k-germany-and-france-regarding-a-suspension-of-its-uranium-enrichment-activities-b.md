@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/10/18/iran-says-that-it-is-willing-to-negotiate-with-the-u-k-germany-and-france-regarding-a-suspension-of-its-uranium-enrichment-activities-b.html)  [JSON](/news/2004/10/18/iran-says-that-it-is-willing-to-negotiate-with-the-u-k-germany-and-france-regarding-a-suspension-of-its-uranium-enrichment-activities-b.json)  [XML](/news/2004/10/18/iran-says-that-it-is-willing-to-negotiate-with-the-u-k-germany-and-france-regarding-a-suspension-of-its-uranium-enrichment-activities-b.xml)  
+
 ### [2004-10-18](/news/2004/10/18/index.md)
 
+##### Iran
 #  Iran says that it is willing to negotiate with the U.K., Germany, and France regarding a suspension of its uranium enrichment activities, but that it will never renounce its right to enrich uranium. Iran's nuclear program is currently under investigation by the International Atomic Energy Agency. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6527468)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6527468)
 
 ### Related:
 

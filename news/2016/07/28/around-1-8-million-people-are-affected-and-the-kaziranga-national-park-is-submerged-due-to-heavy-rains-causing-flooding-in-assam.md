@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/28/around-1-8-million-people-are-affected-and-the-
 
 ### [2016-07-28](/news/2016/07/28/index.md)
 
+##### Kaziranga National Park
 # Around 1.8 million people are affected, and the Kaziranga National Park is submerged, due to heavy rains causing flooding in Assam. 
 
 Outlook grim for state of Assam, with heavy rain that has buried hundreds of villages and displaced wildlife set to continue for two days

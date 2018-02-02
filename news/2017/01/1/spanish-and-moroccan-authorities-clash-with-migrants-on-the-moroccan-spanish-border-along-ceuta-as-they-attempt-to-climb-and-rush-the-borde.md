@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/1/spanish-and-moroccan-authorities-clash-with-migr
 
 ### [2017-01-1](/news/2017/01/1/index.md)
 
+##### Ceuta
 # Spanish and Moroccan authorities clash with migrants on the Moroccan-Spanish border along Ceuta, as they attempt to climb and rush the border fence. 
 
 

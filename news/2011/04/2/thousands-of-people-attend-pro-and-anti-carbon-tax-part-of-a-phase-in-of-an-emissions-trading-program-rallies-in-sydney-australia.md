@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/2/thousands-of-people-attend-pro-and-anti-carbon-tax-part-of-a-phase-in-of-an-emissions-trading-program-rallies-in-sydney-australia.html)  [JSON](/news/2011/04/2/thousands-of-people-attend-pro-and-anti-carbon-tax-part-of-a-phase-in-of-an-emissions-trading-program-rallies-in-sydney-australia.json)  [XML](/news/2011/04/2/thousands-of-people-attend-pro-and-anti-carbon-tax-part-of-a-phase-in-of-an-emissions-trading-program-rallies-in-sydney-australia.xml)  
+
 ### [2011-04-2](/news/2011/04/2/index.md)
 
+##### pro- and anti
 # Thousands of people attend pro- and anti-carbon tax (part of a phase-in of an emissions trading program) rallies in Sydney, Australia. 
 
 Thousands protest in Sydney parks to denounce and to support a carbon tax.
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''Sydney Morning Herald](http://www.smh.com.au/environment/climate-change/thousands-demonstrate-for-and-against-carbon-tax-20110402-1cs36.html)
 2. [ABC  News online](http://www.abc.net.au/news/stories/2011/04/02/3180643.htm)

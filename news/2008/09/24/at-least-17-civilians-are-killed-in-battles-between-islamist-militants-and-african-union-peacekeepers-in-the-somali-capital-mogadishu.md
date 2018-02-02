@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/24/at-least-17-civilians-are-killed-in-battles-between-islamist-militants-and-african-union-peacekeepers-in-the-somali-capital-mogadishu.html)  [JSON](/news/2008/09/24/at-least-17-civilians-are-killed-in-battles-between-islamist-militants-and-african-union-peacekeepers-in-the-somali-capital-mogadishu.json)  [XML](/news/2008/09/24/at-least-17-civilians-are-killed-in-battles-between-islamist-militants-and-african-union-peacekeepers-in-the-somali-capital-mogadishu.xml)  
+
 ### [2008-09-24](/news/2008/09/24/index.md)
 
+##### Islamist
 #  At least 17 civilians are killed in battles between Islamist militants and African Union peacekeepers in the Somali capital Mogadishu. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/africa/09/24/somalia.fighting/)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/3/in-abidjan-cote-d-ivoire-police-fire-tear-gas-at-hundreds-of-protesters-who-want-france-to-withdraw-its-3-800-peacekeepers-so-that-the-ch.html)  [JSON](/news/2003/12/3/in-abidjan-cote-d-ivoire-police-fire-tear-gas-at-hundreds-of-protesters-who-want-france-to-withdraw-its-3-800-peacekeepers-so-that-the-ch.json)  [XML](/news/2003/12/3/in-abidjan-cote-d-ivoire-police-fire-tear-gas-at-hundreds-of-protesters-who-want-france-to-withdraw-its-3-800-peacekeepers-so-that-the-ch.xml)  
+
 ### [2003-12-3](/news/2003/12/3/index.md)
 
+##### Abidjan
 #  In Abidjan, Cte d'Ivoire, police fire tear gas at hundreds of protesters who want France to withdraw its 3,800 peacekeepers so that the Christian and animist government of President Laurent Gbagbo in the south can march against Muslim rebel-held areas in the north. [http:--news.bbc.co.uk-1-hi-world-africa-3257264.stm][http:--www.iht.com-articles-119994.html]
 
 

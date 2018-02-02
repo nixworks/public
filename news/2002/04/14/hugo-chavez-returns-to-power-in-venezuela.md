@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/04/14/hugo-chavez-returns-to-power-in-venezuela.html)  [JSON](/news/2002/04/14/hugo-chavez-returns-to-power-in-venezuela.json)  [XML](/news/2002/04/14/hugo-chavez-returns-to-power-in-venezuela.xml)  
+
 ### [2002-04-14](/news/2002/04/14/index.md)
 
+##### Hugo Chvez
 # Hugo Chvez returns to power in Venezuela.
 
 

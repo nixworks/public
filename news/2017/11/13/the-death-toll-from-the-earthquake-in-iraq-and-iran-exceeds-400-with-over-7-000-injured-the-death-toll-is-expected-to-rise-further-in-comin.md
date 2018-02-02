@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-
 
 ### [2017-11-13](/news/2017/11/13/index.md)
 
+##### 2017 Iran-Iraq earthquake
 # The death toll from the earthquake in Iraq and Iran exceeds 400 with over 7,000 injured. The death toll is expected to rise further in coming days. 
 
 The 7.3 earthquake struck the Iraqi side of the border, but has caused widespread damage in western Iran.

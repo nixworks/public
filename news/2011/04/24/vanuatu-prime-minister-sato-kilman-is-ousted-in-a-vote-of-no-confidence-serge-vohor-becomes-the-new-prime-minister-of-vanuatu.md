@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2011/04/24/vanuatu-prime-minister-sato-kilman-is-ousted-in-a-vote-of-no-confidence-serge-vohor-becomes-the-new-prime-minister-of-vanuatu.html)  [JSON](/news/2011/04/24/vanuatu-prime-minister-sato-kilman-is-ousted-in-a-vote-of-no-confidence-serge-vohor-becomes-the-new-prime-minister-of-vanuatu.json)  [XML](/news/2011/04/24/vanuatu-prime-minister-sato-kilman-is-ousted-in-a-vote-of-no-confidence-serge-vohor-becomes-the-new-prime-minister-of-vanuatu.xml)  
+
 ### [2011-04-24](/news/2011/04/24/index.md)
 
+##### Vanuatu
 # Vanuatu Prime Minister Sato Kilman is ousted in a vote of no confidence. Serge Vohor becomes the new Prime Minister of Vanuatu. 
 
 

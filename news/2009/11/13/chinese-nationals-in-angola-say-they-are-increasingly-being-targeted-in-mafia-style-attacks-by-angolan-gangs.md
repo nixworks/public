@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/13/chinese-nationals-in-angola-say-they-are-increasingly-being-targeted-in-mafia-style-attacks-by-angolan-gangs.html)  [JSON](/news/2009/11/13/chinese-nationals-in-angola-say-they-are-increasingly-being-targeted-in-mafia-style-attacks-by-angolan-gangs.json)  [XML](/news/2009/11/13/chinese-nationals-in-angola-say-they-are-increasingly-being-targeted-in-mafia-style-attacks-by-angolan-gangs.xml)  
+
 ### [2009-11-13](/news/2009/11/13/index.md)
 
+##### China
 #  Chinese nationals in Angola say they are increasingly being targeted in "mafia-style" attacks by Angolan gangs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g_gW2hBccvI62XvbiwRGLr0GU7Gg)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8358919.stm)

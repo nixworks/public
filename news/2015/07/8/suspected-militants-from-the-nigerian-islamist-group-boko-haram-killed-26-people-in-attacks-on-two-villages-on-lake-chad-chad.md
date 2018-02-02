@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/8/suspected-militants-from-the-nigerian-islamist-group-boko-haram-killed-26-people-in-attacks-on-two-villages-on-lake-chad-chad.html)  [JSON](/news/2015/07/8/suspected-militants-from-the-nigerian-islamist-group-boko-haram-killed-26-people-in-attacks-on-two-villages-on-lake-chad-chad.json)  [XML](/news/2015/07/8/suspected-militants-from-the-nigerian-islamist-group-boko-haram-killed-26-people-in-attacks-on-two-villages-on-lake-chad-chad.xml)  
+
 ### [2015-07-8](/news/2015/07/8/index.md)
 
+##### Boko Haram insurgency
 # Suspected militants from the Nigerian Islamist group Boko Haram killed 26 people in attacks on two villages on Lake Chad, Chad. 
 
 Suspected militants from the Nigerian Islamist group Boko Haram killed 26 people in attacks on two villages on Lake Chad, local authorities in Chad told Reuters
 
 
-### Source:
+### Sources:
 
 1. [Daily Star via Reuters](https://www.dailystar.com.lb/News/World/2015/Jul-08/305740-suspected-boko-haram-militants-kill-26-people-in-attacks-in-chad.ashx)
 1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/07/08/427824_img650x420_img650x420_crop.jpg)

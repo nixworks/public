@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/20/the-european-court-of-human-rights-rules-that-r
 
 ### [2017-06-20](/news/2017/06/20/index.md)
 
+##### LGBT rights in Russia
 # The European Court of Human Rights rules that Russia's gay propaganda law encourages homophobia, reinforces prejudice and violates the right to freedom of speech. 
 
 Russia’s so-called gay propaganda law reinforces “stigma and prejudice” and violates the right to freedom of expression, the European Court of Human Rights (ECHR) has ruled. The law, which bans the promotion of homosexual behaviour to minors, has been in place since 2013.

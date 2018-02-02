@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/8/war-in-somalia-african-union-peacekeepers-are-ambushed-by-insurgents-in-mogadishu-for-a-second-successive-day.html)  [JSON](/news/2007/03/8/war-in-somalia-african-union-peacekeepers-are-ambushed-by-insurgents-in-mogadishu-for-a-second-successive-day.json)  [XML](/news/2007/03/8/war-in-somalia-african-union-peacekeepers-are-ambushed-by-insurgents-in-mogadishu-for-a-second-successive-day.xml)  
+
 ### [2007-03-8](/news/2007/03/8/index.md)
 
+##### War in Somalia
 #  War in Somalia: African Union peacekeepers are ambushed by insurgents in Mogadishu for a second successive day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6428969.stm)
 

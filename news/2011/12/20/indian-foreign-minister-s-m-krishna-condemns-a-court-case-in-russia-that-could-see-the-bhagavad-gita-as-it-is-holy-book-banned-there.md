@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/20/indian-foreign-minister-s-m-krishna-condemns-a-court-case-in-russia-that-could-see-the-bhagavad-gita-as-it-is-holy-book-banned-there.html)  [JSON](/news/2011/12/20/indian-foreign-minister-s-m-krishna-condemns-a-court-case-in-russia-that-could-see-the-bhagavad-gita-as-it-is-holy-book-banned-there.json)  [XML](/news/2011/12/20/indian-foreign-minister-s-m-krishna-condemns-a-court-case-in-russia-that-could-see-the-bhagavad-gita-as-it-is-holy-book-banned-there.xml)  
+
 ### [2011-12-20](/news/2011/12/20/index.md)
 
+##### India
 # Indian Foreign Minister S. M. Krishna condemns a court case in Russia that could see the "Bhagavad Gita As It Is" holy book banned there. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-16260767)
 2. [Hindustan Times](http://www.hindustantimes.com/India-news/NewDelhi/Declare-Bhagavad-Gita-as-national-book-demands-BJP/Article1-784744.aspx)

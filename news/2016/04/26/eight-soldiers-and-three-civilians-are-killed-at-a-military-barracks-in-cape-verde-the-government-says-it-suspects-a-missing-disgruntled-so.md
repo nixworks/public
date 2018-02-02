@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/26/eight-soldiers-and-three-civilians-are-killed-a
 
 ### [2016-04-26](/news/2016/04/26/index.md)
 
+##### Monte Tchota massacre
 # Eight soldiers and three civilians are killed at a military barracks in Cape Verde. The government says it suspects a missing disgruntled soldier is responsible for the incident. 
 
 Eleven men were shot dead in Cape Verde on Tuesday, including eight soldiers, a local civilian and two Spanish citizens, the minister of Internal Administration for the archipelago off the African coast said in a statement.

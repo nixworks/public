@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/04/5/183-women-and-children-are-taken-into-protective-custody-from-the-yfz-ranch-compound-linked-to-polygamist-warren-jeffs.html)  [JSON](/news/2008/04/5/183-women-and-children-are-taken-into-protective-custody-from-the-yfz-ranch-compound-linked-to-polygamist-warren-jeffs.json)  [XML](/news/2008/04/5/183-women-and-children-are-taken-into-protective-custody-from-the-yfz-ranch-compound-linked-to-polygamist-warren-jeffs.xml)  
+
 ### [2008-04-5](/news/2008/04/5/index.md)
 
+##### YFZ Ranch
 #  183 women and children are taken into protective custody from the YFZ Ranch compound linked to polygamist Warren Jeffs. 
 
 Texas officials removed more people on Sunday from a ranch belonging to a breakaway Mormon sect linked to jailed polygamist leader Warren Jeffs but have yet to find a young woman whose complaints sparked the raids.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/newsOne/idUSN0443225320080406)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080406&t=2&i=3780587&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-04-06T223155Z_01_N04432253_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/newsOne/idUSN0443225320080406)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20080406&t=2&i=3780587&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-04-06T223155Z_01_N04432253_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

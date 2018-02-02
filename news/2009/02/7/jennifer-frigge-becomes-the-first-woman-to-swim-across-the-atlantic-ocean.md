@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/7/jennifer-frigge-becomes-the-first-woman-to-swim-across-the-atlantic-ocean.html)  [JSON](/news/2009/02/7/jennifer-frigge-becomes-the-first-woman-to-swim-across-the-atlantic-ocean.json)  [XML](/news/2009/02/7/jennifer-frigge-becomes-the-first-woman-to-swim-across-the-atlantic-ocean.xml)  
+
 ### [2009-02-7](/news/2009/02/7/index.md)
 
+##### Jennifer Frigge
 #  Jennifer Frigge becomes the first woman to swim across the Atlantic Ocean. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kansas City Star](http://www.kansascity.com/news/nation/story/1023356.html)
 

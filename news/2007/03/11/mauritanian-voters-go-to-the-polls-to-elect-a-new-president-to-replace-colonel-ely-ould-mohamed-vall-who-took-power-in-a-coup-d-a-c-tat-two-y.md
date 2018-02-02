@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/11/mauritanian-voters-go-to-the-polls-to-elect-a-new-president-to-replace-colonel-ely-ould-mohamed-vall-who-took-power-in-a-coup-d-a-c-tat-two-y.html)  [JSON](/news/2007/03/11/mauritanian-voters-go-to-the-polls-to-elect-a-new-president-to-replace-colonel-ely-ould-mohamed-vall-who-took-power-in-a-coup-d-a-c-tat-two-y.json)  [XML](/news/2007/03/11/mauritanian-voters-go-to-the-polls-to-elect-a-new-president-to-replace-colonel-ely-ould-mohamed-vall-who-took-power-in-a-coup-d-a-c-tat-two-y.xml)  
+
 ### [2007-03-11](/news/2007/03/11/index.md)
 
+##### Mauritanian
 #  Mauritanian voters go to the polls to elect a new President to replace Colonel Ely Ould Mohamed Vall who took power in a coup d'etat two years ago. It is likely that a runoff election will be held as there is no clear frontrunner. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6438667.stm)
 

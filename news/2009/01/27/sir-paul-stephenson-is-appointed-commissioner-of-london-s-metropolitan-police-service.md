@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/27/sir-paul-stephenson-is-appointed-commissioner-of-london-s-metropolitan-police-service.html)  [JSON](/news/2009/01/27/sir-paul-stephenson-is-appointed-commissioner-of-london-s-metropolitan-police-service.json)  [XML](/news/2009/01/27/sir-paul-stephenson-is-appointed-commissioner-of-london-s-metropolitan-police-service.xml)  
+
 ### [2009-01-27](/news/2009/01/27/index.md)
 
+##### Sir
 #  Sir Paul Stephenson is appointed Commissioner of London's Metropolitan Police Service. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/7854843.stm)
 

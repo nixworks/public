@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/19/taylor-swift-wins-eight-awards-including-top-album-and-top-artist-at-the-billboard-music-awards.html)  [JSON](/news/2013/05/19/taylor-swift-wins-eight-awards-including-top-album-and-top-artist-at-the-billboard-music-awards.json)  [XML](/news/2013/05/19/taylor-swift-wins-eight-awards-including-top-album-and-top-artist-at-the-billboard-music-awards.xml)  
+
 ### [2013-05-19](/news/2013/05/19/index.md)
 
+##### Taylor Swift
 # Taylor Swift wins eight awards, including top album and top artist, at the Billboard Music Awards. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/music/2013/may/20/taylor-swift-eight-billboard-awards)
 

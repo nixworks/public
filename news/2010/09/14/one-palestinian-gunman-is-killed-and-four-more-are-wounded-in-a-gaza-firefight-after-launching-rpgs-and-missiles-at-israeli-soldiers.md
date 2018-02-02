@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/14/one-palestinian-gunman-is-killed-and-four-more-are-wounded-in-a-gaza-firefight-after-launching-rpgs-and-missiles-at-israeli-soldiers.html)  [JSON](/news/2010/09/14/one-palestinian-gunman-is-killed-and-four-more-are-wounded-in-a-gaza-firefight-after-launching-rpgs-and-missiles-at-israeli-soldiers.json)  [XML](/news/2010/09/14/one-palestinian-gunman-is-killed-and-four-more-are-wounded-in-a-gaza-firefight-after-launching-rpgs-and-missiles-at-israeli-soldiers.xml)  
+
 ### [2010-09-14](/news/2010/09/14/index.md)
 
+##### Palestinian
 # One Palestinian gunman is killed and four more are wounded in a Gaza firefight after launching RPGs and missiles at Israeli soldiers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3954243,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

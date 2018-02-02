@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/5/south-korea-begins-a-huge-anti-submarine-exercise-in-the-yellow-sea-near-the-disputed-maritime-border-in-what-it-sees-as-a-show-of-strengt.html)  [JSON](/news/2010/08/5/south-korea-begins-a-huge-anti-submarine-exercise-in-the-yellow-sea-near-the-disputed-maritime-border-in-what-it-sees-as-a-show-of-strengt.json)  [XML](/news/2010/08/5/south-korea-begins-a-huge-anti-submarine-exercise-in-the-yellow-sea-near-the-disputed-maritime-border-in-what-it-sees-as-a-show-of-strengt.xml)  
+
 ### [2010-08-5](/news/2010/08/5/index.md)
 
+##### South Korea
 # South Korea begins a huge anti-submarine exercise in the Yellow Sea, near the disputed maritime border, in what it sees as a show of strength against North Korea and "to be fully prepared for combat"; North Korea disapproves of the exercise. 
 
 South Korea starts a huge anti-submarine exercise amid continuing anger over the sinking of a warship, despite warnings of retaliation from the North.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10875916)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE6731QK20100804)

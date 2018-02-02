@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/8/mysterious-lights-from-an-unidentified-flying-object-spook-people-in-arizona-california-and-nevada-it-was-later-confirmed-as-a-test-fligh.html)  [JSON](/news/2015/11/8/mysterious-lights-from-an-unidentified-flying-object-spook-people-in-arizona-california-and-nevada-it-was-later-confirmed-as-a-test-fligh.json)  [XML](/news/2015/11/8/mysterious-lights-from-an-unidentified-flying-object-spook-people-in-arizona-california-and-nevada-it-was-later-confirmed-as-a-test-fligh.xml)  
+
 ### [2015-11-8](/news/2015/11/8/index.md)
 
+##### UFO
 # Mysterious lights from an unidentified flying object spook people in Arizona, California, and Nevada. It was later confirmed as a test flight of a UGM-133 Trident II missile. 
 
 A mysterious bright light in the sky over Los Angeles sends Californians into panic - only for it to be explained as an offshore missile test.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-34759177)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/104B1/production/_86573766_86573762.jpg)

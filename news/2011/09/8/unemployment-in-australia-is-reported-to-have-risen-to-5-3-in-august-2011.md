@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2011/09/8/unemployment-in-australia-is-reported-to-have-risen-to-5-3-in-august-2011.html)  [JSON](/news/2011/09/8/unemployment-in-australia-is-reported-to-have-risen-to-5-3-in-august-2011.json)  [XML](/news/2011/09/8/unemployment-in-australia-is-reported-to-have-risen-to-5-3-in-august-2011.xml)  
+
 ### [2011-09-8](/news/2011/09/8/index.md)
 
+##### Unemployment
 # Unemployment in Australia is reported to have risen to 5.3% in August 2011. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Market Watch](http://www.marketwatch.com/story/australian-unemployment-rate-climbs-to-53-2011-09-07)
 1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)
 
 ### Related:
 
-1. [Last year a hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware after breaching the network of a defense contractor. ](/news/2017/10/11/last-year-a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-after-breac.md) _Context: Australia_
-2. [Australia and East Timor settle a dispute between the two countries in the Timor Sea. ](/news/2017/09/2/australia-and-east-timor-settle-a-dispute-between-the-two-countries-in-the-timor-sea.md) _Context: Australia_
-3. [The search for three members of the United States Marines Corps lost in a MV-22 Osprey crash in Shoalwater Bay in the Australian state of Queensland is called off. ](/news/2017/08/6/the-search-for-three-members-of-the-united-states-marines-corps-lost-in-a-mv-22-osprey-crash-in-shoalwater-bay-in-the-australian-state-of-qu.md) _Context: Australia_
-4. [Searches are underway for three members of the United States Marine Corps missing after a MV-22 Osprey crashed off the coast of the Australian state of Queensland. Twenty three of the twenty six people on board have been rescued. ](/news/2017/08/5/searches-are-underway-for-three-members-of-the-united-states-marine-corps-missing-after-a-mv-22-osprey-crashed-off-the-coast-of-the-australi.md) _Context: Australia_
-5. [The U.S. economy added over 200,000 jobs last month, dropping the country's unemployment rate to match a previous 16-year low at 4.3%. Wage growth remained below the Federal Reserve Board's target of 3.5%. ](/news/2017/08/4/the-u-s-economy-added-over-200-000-jobs-last-month-dropping-the-country-s-unemployment-rate-to-match-a-previous-16-year-low-at-4-3-wage.md) _Context: unemployment_
+1. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Australia_
+2. [In a world's first, a drone rescues two swimmers off the coast of Lennox Head, New South Wales in Australia by dropping a safety device to them. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. ](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-swimmers-off-the-coast-of-lennox-head-new-south-wales-in-australia-by-dropping-a-safety-device-to-t.md) _Context: Australia_
+3. [The Parliament of Australia votes to make same-sex marriage legal in Australia. ](/news/2017/12/7/the-parliament-of-australia-votes-to-make-same-sex-marriage-legal-in-australia.md) _Context: Australia_
+4. [A large number of fireworks accidentally go off in a barge at a New Year's Day show in Terrigal, NSW, Australia, causing thousands to be evacuated from the beach by police and the two people on the barge to suffer minor injuries. ](/news/2017/12/31/a-large-number-of-fireworks-accidentally-go-off-in-a-barge-at-a-new-year-s-day-show-in-terrigal-nsw-australia-causing-thousands-to-be-eva.md) _Context: Australia_
+5. [Nineteen people are injured after a car crashes into pedestrians at the corner of Flinders Street and Elizabeth Street in Melbourne, Australia. The driver is arrested. Victoria Police believe that the incident was a "deliberate act" but not terrorism-related. ](/news/2017/12/21/nineteen-people-are-injured-after-a-car-crashes-into-pedestrians-at-the-corner-of-flinders-street-and-elizabeth-street-in-melbourne-austral.md) _Context: Australia_

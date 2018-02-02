@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/5/inception-and-the-social-network-win-top-prizes-at-the-writers-guild-of-america-awards.html)  [JSON](/news/2011/02/5/inception-and-the-social-network-win-top-prizes-at-the-writers-guild-of-america-awards.json)  [XML](/news/2011/02/5/inception-and-the-social-network-win-top-prizes-at-the-writers-guild-of-america-awards.xml)  
+
 ### [2011-02-5](/news/2011/02/5/index.md)
 
+##### Inception
 # "Inception" and "The Social Network" win top prizes at the Writers Guild of America awards. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/news/local/la-et-writers-guild-20110206,0,2837606.story)
 1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

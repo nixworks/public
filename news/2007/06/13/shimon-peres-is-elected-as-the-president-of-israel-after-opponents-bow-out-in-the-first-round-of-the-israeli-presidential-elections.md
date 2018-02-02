@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/13/shimon-peres-is-elected-as-the-president-of-israel-after-opponents-bow-out-in-the-first-round-of-the-israeli-presidential-elections.html)  [JSON](/news/2007/06/13/shimon-peres-is-elected-as-the-president-of-israel-after-opponents-bow-out-in-the-first-round-of-the-israeli-presidential-elections.json)  [XML](/news/2007/06/13/shimon-peres-is-elected-as-the-president-of-israel-after-opponents-bow-out-in-the-first-round-of-the-israeli-presidential-elections.xml)  
+
 ### [2007-06-13](/news/2007/06/13/index.md)
 
+##### Shimon Peres
 #  Shimon Peres is elected as the President of Israel after opponents bow out in the first round of the Israeli presidential elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/hasen/spages/870542.html)
 2. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-peres14jun14,0,7457647.story?coll=la-home-world)

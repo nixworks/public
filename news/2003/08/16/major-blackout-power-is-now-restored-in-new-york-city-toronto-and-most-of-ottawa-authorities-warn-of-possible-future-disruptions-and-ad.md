@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/16/major-blackout-power-is-now-restored-in-new-york-city-toronto-and-most-of-ottawa-authorities-warn-of-possible-future-disruptions-and-ad.html)  [JSON](/news/2003/08/16/major-blackout-power-is-now-restored-in-new-york-city-toronto-and-most-of-ottawa-authorities-warn-of-possible-future-disruptions-and-ad.json)  [XML](/news/2003/08/16/major-blackout-power-is-now-restored-in-new-york-city-toronto-and-most-of-ottawa-authorities-warn-of-possible-future-disruptions-and-ad.xml)  
+
 ### [2003-08-16](/news/2003/08/16/index.md)
 
+##### North American blackout
 #  Major blackout: Power is now restored in New York City, Toronto, and most of Ottawa. Authorities warn of possible future disruptions and advise conservation as work continues to restore power to the entire grid. Theories as to the cause of the event, meanwhile, are becoming more substantial and coherent.
 
 

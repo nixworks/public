@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/7/valerie-amos-the-united-nations-under-secretary-general-for-humanitarian-affairs-and-emergency-relief-coordinator-visits-the-baba-amr-dist.html)  [JSON](/news/2012/03/7/valerie-amos-the-united-nations-under-secretary-general-for-humanitarian-affairs-and-emergency-relief-coordinator-visits-the-baba-amr-dist.json)  [XML](/news/2012/03/7/valerie-amos-the-united-nations-under-secretary-general-for-humanitarian-affairs-and-emergency-relief-coordinator-visits-the-baba-amr-dist.xml)  
+
 ### [2012-03-7](/news/2012/03/7/index.md)
 
+##### Valerie Amos
 # Valerie Amos, the United Nations Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, visits the Baba Amr district in the Syrian city of Homs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17290058)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58929000/jpg/_58929107_58929106.jpg)

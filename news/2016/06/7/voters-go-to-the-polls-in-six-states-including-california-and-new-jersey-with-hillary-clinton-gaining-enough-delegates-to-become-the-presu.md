@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/7/voters-go-to-the-polls-in-six-states-including-c
 
 ### [2016-06-7](/news/2016/06/7/index.md)
 
+##### 2016 U.S. presidential election
 # Voters go to the polls in six states, including California and New Jersey, with Hillary Clinton gaining enough delegates to become the presumptive nominee of the Democratic Party. She will be the first woman nominee by a major party to run for President of the United States. 
 
 U.S. presidential candidates Hillary Clinton and Donald Trump kicked off a fierce general election battle, with Democrats accusing Trump of erratic behavior and the Republican threatening to bring up old Clinton scandals.

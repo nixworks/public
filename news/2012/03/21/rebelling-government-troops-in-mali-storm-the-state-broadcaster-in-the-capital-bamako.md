@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/21/rebelling-government-troops-in-mali-storm-the-state-broadcaster-in-the-capital-bamako.html)  [JSON](/news/2012/03/21/rebelling-government-troops-in-mali-storm-the-state-broadcaster-in-the-capital-bamako.json)  [XML](/news/2012/03/21/rebelling-government-troops-in-mali-storm-the-state-broadcaster-in-the-capital-bamako.xml)  
+
 ### [2012-03-21](/news/2012/03/21/index.md)
 
+##### Mali
 # Rebelling government troops in Mali storm the state broadcaster in the capital Bamako. 
 
 Heavy weapons fire in Bamako as soldiers attacked presidential palace in protest over handling of Tuareg-led rebellion.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/03/2012321184549658627.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/22/20123225638211734_20.jpg)

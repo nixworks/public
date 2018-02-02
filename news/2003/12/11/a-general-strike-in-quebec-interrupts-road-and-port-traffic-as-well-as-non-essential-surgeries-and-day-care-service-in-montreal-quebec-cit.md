@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/11/a-general-strike-in-quebec-interrupts-road-and-port-traffic-as-well-as-non-essential-surgeries-and-day-care-service-in-montreal-quebec-cit.html)  [JSON](/news/2003/12/11/a-general-strike-in-quebec-interrupts-road-and-port-traffic-as-well-as-non-essential-surgeries-and-day-care-service-in-montreal-quebec-cit.json)  [XML](/news/2003/12/11/a-general-strike-in-quebec-interrupts-road-and-port-traffic-as-well-as-non-essential-surgeries-and-day-care-service-in-montreal-quebec-cit.xml)  
+
 ### [2003-12-11](/news/2003/12/11/index.md)
 
+##### strike
 #  A general strike in Quebec interrupts road and port traffic as well as non-essential surgeries and day-care service in Montreal, Quebec City, and Trois-Rivires. The strike was called in opposition to the Charest government's policies. [http:--www.cbc.ca-stories-2003-12-11-quebec_031211]
 
 

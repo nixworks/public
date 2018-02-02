@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/21/the-government-of-japan-publishes-a-reconstruction-plan-for-areas-devastated-by-the-2011-tahoku-earthquake-and-tsunami.html)  [JSON](/news/2011/07/21/the-government-of-japan-publishes-a-reconstruction-plan-for-areas-devastated-by-the-2011-tahoku-earthquake-and-tsunami.json)  [XML](/news/2011/07/21/the-government-of-japan-publishes-a-reconstruction-plan-for-areas-devastated-by-the-2011-tahoku-earthquake-and-tsunami.xml)  
+
 ### [2011-07-21](/news/2011/07/21/index.md)
 
+##### Japanese government
 # The Government of Japan publishes a reconstruction plan for areas devastated by the 2011 Tohoku earthquake and tsunami. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NHK World](http://www3.nhk.or.jp/daily/english/21_08.html)
 

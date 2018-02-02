@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/19/saab-automobile-officially-files-for-bankruptcy.html)  [JSON](/news/2011/12/19/saab-automobile-officially-files-for-bankruptcy.json)  [XML](/news/2011/12/19/saab-automobile-officially-files-for-bankruptcy.xml)  
+
 ### [2011-12-19](/news/2011/12/19/index.md)
 
+##### Saab Automobile
 # Saab Automobile officially files for bankruptcy.
 
 SAAB cars has filed for bankruptcy, bringing to an end a two-year effort to rescue the Swedish brand.
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/business/saab-hits-the-end-of-the-road/story-e6frfm1i-1226226317975)
 1. [Cover Image](http://cdn.newsapi.com.au/image/v1/0f7be16602e3c8c1e342c8ba5384ff84)

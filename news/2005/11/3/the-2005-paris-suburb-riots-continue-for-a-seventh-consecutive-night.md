@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/11/3/the-2005-paris-suburb-riots-continue-for-a-seventh-consecutive-night.html)  [JSON](/news/2005/11/3/the-2005-paris-suburb-riots-continue-for-a-seventh-consecutive-night.json)  [XML](/news/2005/11/3/the-2005-paris-suburb-riots-continue-for-a-seventh-consecutive-night.xml)  
+
 ### [2005-11-3](/news/2005/11/3/index.md)
 
+##### 2005 Paris suburb riots
 #  The 2005 Paris suburb riots continue for a seventh consecutive night.
 
 

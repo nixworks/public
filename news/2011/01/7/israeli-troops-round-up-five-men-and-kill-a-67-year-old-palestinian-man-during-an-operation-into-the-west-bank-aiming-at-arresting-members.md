@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/7/israeli-troops-round-up-five-men-and-kill-a-67-year-old-palestinian-man-during-an-operation-into-the-west-bank-aiming-at-arresting-members.html)  [JSON](/news/2011/01/7/israeli-troops-round-up-five-men-and-kill-a-67-year-old-palestinian-man-during-an-operation-into-the-west-bank-aiming-at-arresting-members.json)  [XML](/news/2011/01/7/israeli-troops-round-up-five-men-and-kill-a-67-year-old-palestinian-man-during-an-operation-into-the-west-bank-aiming-at-arresting-members.xml)  
+
 ### [2011-01-7](/news/2011/01/7/index.md)
 
+##### Israel Defense Forces
 # Israeli troops round up five men and kill a 67-year-old Palestinian man during an operation into the West Bank, aiming at arresting members of Hamas. 
 
 IDF raided Hebron to re-arrest Hamas members, including senior member who assisted man who planned 2008 suicide bombing in Dimona.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12133918)
 2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/idf-says-it-regrets-killing-civilian-in-hebron-raid-but-defends-operation-1.335781?localLinksEnabled=false)

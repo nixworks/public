@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/1/a-three-story-building-housing-apartments-and-a-grocery-store-explodes-and-burns-in-the-cedar-riverside-neighborhood-of-minneapolis-minne.html)  [JSON](/news/2014/01/1/a-three-story-building-housing-apartments-and-a-grocery-store-explodes-and-burns-in-the-cedar-riverside-neighborhood-of-minneapolis-minne.json)  [XML](/news/2014/01/1/a-three-story-building-housing-apartments-and-a-grocery-store-explodes-and-burns-in-the-cedar-riverside-neighborhood-of-minneapolis-minne.xml)  
+
 ### [2014-01-1](/news/2014/01/1/index.md)
 
+##### Cedar-Riverside
 # A three-story building, housing apartments and a grocery store, explodes and burns in the Cedar-Riverside neighborhood of Minneapolis, Minnesota, injuring 13 people, some critically. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/01/01/us/minnesota-blast/index.html?hpt=hp_t2)
 

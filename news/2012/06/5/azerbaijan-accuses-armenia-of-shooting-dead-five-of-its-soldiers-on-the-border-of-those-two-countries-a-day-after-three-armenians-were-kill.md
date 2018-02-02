@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/5/azerbaijan-accuses-armenia-of-shooting-dead-five-of-its-soldiers-on-the-border-of-those-two-countries-a-day-after-three-armenians-were-kill.html)  [JSON](/news/2012/06/5/azerbaijan-accuses-armenia-of-shooting-dead-five-of-its-soldiers-on-the-border-of-those-two-countries-a-day-after-three-armenians-were-kill.json)  [XML](/news/2012/06/5/azerbaijan-accuses-armenia-of-shooting-dead-five-of-its-soldiers-on-the-border-of-those-two-countries-a-day-after-three-armenians-were-kill.xml)  
+
 ### [2012-06-5](/news/2012/06/5/index.md)
 
+##### Azerbaijan
 # Azerbaijan accuses Armenia of shooting dead five of its soldiers on the border of those two countries, a day after three Armenians were killed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18328690)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60700000/jpg/_60700299_afp.jpg)

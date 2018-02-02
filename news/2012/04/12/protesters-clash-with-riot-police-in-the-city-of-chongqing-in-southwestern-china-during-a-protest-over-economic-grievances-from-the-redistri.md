@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/04/12/protesters-clash-with-riot-police-in-the-city-of-chongqing-in-southwestern-china-during-a-protest-over-economic-grievances-from-the-redistri.html)  [JSON](/news/2012/04/12/protesters-clash-with-riot-police-in-the-city-of-chongqing-in-southwestern-china-during-a-protest-over-economic-grievances-from-the-redistri.json)  [XML](/news/2012/04/12/protesters-clash-with-riot-police-in-the-city-of-chongqing-in-southwestern-china-during-a-protest-over-economic-grievances-from-the-redistri.xml)  
+
 ### [2012-04-12](/news/2012/04/12/index.md)
 
+##### Chongqing
 # Protesters clash with riot police in the city of Chongqing in southwestern China during a protest over economic grievances from the redistricting of Wansheng District. 
 
 Order was being restored Wednesday after thousands of people clashed with police in a district of Chongqing that is struggling economically, a local official said.
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo!](http://news.yahoo.com/protesters-clash-riot-police-chinese-city-115041602.html)
+1. [AP via Yahoo!](https://news.yahoo.com/protesters-clash-riot-police-chinese-city-115041602.html)
 1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:

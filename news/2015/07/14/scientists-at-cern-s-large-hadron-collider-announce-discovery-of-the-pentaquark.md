@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/14/scientists-at-cern-s-large-hadron-collider-announce-discovery-of-the-pentaquark.html)  [JSON](/news/2015/07/14/scientists-at-cern-s-large-hadron-collider-announce-discovery-of-the-pentaquark.json)  [XML](/news/2015/07/14/scientists-at-cern-s-large-hadron-collider-announce-discovery-of-the-pentaquark.xml)  
+
 ### [2015-07-14](/news/2015/07/14/index.md)
 
+##### CERN
 # Scientists at CERN's Large Hadron Collider announce discovery of the pentaquark. 
 
 Scientists at the Large Hadron Collider have announced the discovery of a new particle called the pentaquark.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Technology/large-hadron-collider-discovers-long-elusive-pentaquark-particle/story?id=32448944)
 2. [BBC](http://www.bbc.com/news/science-environment-33517492)

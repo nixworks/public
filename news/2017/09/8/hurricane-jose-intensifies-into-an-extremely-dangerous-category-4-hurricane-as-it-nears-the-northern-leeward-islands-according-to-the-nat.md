@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/8/hurricane-jose-intensifies-into-an-extremely-dan
 
 ### [2017-09-8](/news/2017/09/8/index.md)
 
+##### Hurricane Jose
 # Hurricane Jose intensifies into an "extremely dangerous" Category 4 hurricane as it nears the northern Leeward Islands, according to the National Hurricane Center. 
 
 Hurricane Jose threatening Caribbean islands already devastated by Hurricane Irma

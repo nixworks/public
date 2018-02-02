@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/2/suspected-islamist-fighters-go-on-the-rampage-in-chibok-nigeria-killing-10-christians-with-guns-and-machetes-and-burning-down-their-houses.html)  [JSON](/news/2012/12/2/suspected-islamist-fighters-go-on-the-rampage-in-chibok-nigeria-killing-10-christians-with-guns-and-machetes-and-burning-down-their-houses.json)  [XML](/news/2012/12/2/suspected-islamist-fighters-go-on-the-rampage-in-chibok-nigeria-killing-10-christians-with-guns-and-machetes-and-burning-down-their-houses.xml)  
+
 ### [2012-12-2](/news/2012/12/2/index.md)
 
+##### Islamist
 # Suspected Islamist fighters go on the rampage in Chibok, Nigeria, killing 10 Christians with guns and machetes and burning down their houses. 
 
 Suspected Islamist fighters went on the rampage in northeast Nigeria overnight, killing 10 Christians with guns and machetes and burning down their houses, witnesses said on Sunday.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2012/12/02/uk-nigeria-violence-idUKBRE8B10E120121202)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/17/republic-of-congo-a-gunbattle-breaks-out-in-brazzaville-http-story-news-yahoo-com-news-tmpl-story-u-ap-20031217-ap_on_re_af-republic_of.html)  [JSON](/news/2003/12/17/republic-of-congo-a-gunbattle-breaks-out-in-brazzaville-http-story-news-yahoo-com-news-tmpl-story-u-ap-20031217-ap_on_re_af-republic_of.json)  [XML](/news/2003/12/17/republic-of-congo-a-gunbattle-breaks-out-in-brazzaville-http-story-news-yahoo-com-news-tmpl-story-u-ap-20031217-ap_on_re_af-republic_of.xml)  
+
 ### [2003-12-17](/news/2003/12/17/index.md)
 
+##### Republic of Congo
 # Republic of Congo: A gunbattle breaks out in Brazzaville.[http:--story.news.yahoo.com-news?tmpl=story&u=-ap-20031217-ap_on_re_af-republic_of_congo_fighting]
 
 

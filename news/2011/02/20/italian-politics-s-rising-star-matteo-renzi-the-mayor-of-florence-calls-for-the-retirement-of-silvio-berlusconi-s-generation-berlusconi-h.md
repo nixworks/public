@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/20/italian-politics-s-rising-star-matteo-renzi-the-mayor-of-florence-calls-for-the-retirement-of-silvio-berlusconi-s-generation-berlusconi-h.html)  [JSON](/news/2011/02/20/italian-politics-s-rising-star-matteo-renzi-the-mayor-of-florence-calls-for-the-retirement-of-silvio-berlusconi-s-generation-berlusconi-h.json)  [XML](/news/2011/02/20/italian-politics-s-rising-star-matteo-renzi-the-mayor-of-florence-calls-for-the-retirement-of-silvio-berlusconi-s-generation-berlusconi-h.xml)  
+
 ### [2011-02-20](/news/2011/02/20/index.md)
 
+##### Matteo Renzi
 # Italian politics's rising star Matteo Renzi, the Mayor of Florence, calls for the retirement of Silvio Berlusconi's generation, Berlusconi himself being "only six years younger than my granny". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Observer](http://www.guardian.co.uk/world/2011/feb/20/matteo-renzi-challenge-berlusconi-sleaze)
 

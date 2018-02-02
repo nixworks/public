@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/15/at-least-two-people-are-killed-and-43-injured-after-a-5-1-magnitude-earthquake-strikes-northern-algeria.html)  [JSON](/news/2010/05/15/at-least-two-people-are-killed-and-43-injured-after-a-5-1-magnitude-earthquake-strikes-northern-algeria.json)  [XML](/news/2010/05/15/at-least-two-people-are-killed-and-43-injured-after-a-5-1-magnitude-earthquake-strikes-northern-algeria.xml)  
+
 ### [2010-05-15](/news/2010/05/15/index.md)
 
+##### 5.1 magnitude earthquake
 # At least two people are killed and 43 injured after a 5.1 magnitude earthquake strikes Northern Algeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Alertnet](http://www.alertnet.org/thenews/newsdesk/LDE64D1XX.htm)
 

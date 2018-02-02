@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/06/18/chrysler-agrees-to-recall-1-56-million-jeeps-in-the-united-states.html)  [JSON](/news/2013/06/18/chrysler-agrees-to-recall-1-56-million-jeeps-in-the-united-states.json)  [XML](/news/2013/06/18/chrysler-agrees-to-recall-1-56-million-jeeps-in-the-united-states.xml)  
+
 ### [2013-06-18](/news/2013/06/18/index.md)
 
+##### Chrysler
 # Chrysler agrees to recall 1.56 million Jeeps in the United States. 
 
-The government cut the number of Jeeps it wants recalled and in turn, Chrysler said Tuesday it&#39;ll agree to a recall it has fought for two weeks.
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/money/cars/2013/06/18/chrysler-changes-mind-recalls-jeeps-government-sought/2434955/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/money/cars/2013/06/18/chrysler-changes-mind-recalls-jeeps-government-sought/2434955/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

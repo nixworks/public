@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/2/around-10-000-papuan-people-demonstrate-in-support-of-independence-from-indonesia-in-the-papuan-capital-of-jayapura.html)  [JSON](/news/2011/08/2/around-10-000-papuan-people-demonstrate-in-support-of-independence-from-indonesia-in-the-papuan-capital-of-jayapura.json)  [XML](/news/2011/08/2/around-10-000-papuan-people-demonstrate-in-support-of-independence-from-indonesia-in-the-papuan-capital-of-jayapura.xml)  
+
 ### [2011-08-2](/news/2011/08/2/index.md)
 
+##### Papuan people
 # Around 10,000 Papuan people demonstrate in support of independence from Indonesia in the Papuan capital of Jayapura. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_697591.html)
 

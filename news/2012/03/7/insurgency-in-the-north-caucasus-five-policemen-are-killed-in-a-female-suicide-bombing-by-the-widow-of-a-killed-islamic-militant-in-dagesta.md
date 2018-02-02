@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/7/insurgency-in-the-north-caucasus-five-policemen-are-killed-in-a-female-suicide-bombing-by-the-widow-of-a-killed-islamic-militant-in-dagesta.html)  [JSON](/news/2012/03/7/insurgency-in-the-north-caucasus-five-policemen-are-killed-in-a-female-suicide-bombing-by-the-widow-of-a-killed-islamic-militant-in-dagesta.json)  [XML](/news/2012/03/7/insurgency-in-the-north-caucasus-five-policemen-are-killed-in-a-female-suicide-bombing-by-the-widow-of-a-killed-islamic-militant-in-dagesta.xml)  
+
 ### [2012-03-7](/news/2012/03/7/index.md)
 
+##### Insurgency in the North Caucasus
 # Insurgency in the North Caucasus: Five policemen are killed in a female suicide bombing by the widow of a killed Islamic militant in Dagestan, Russia. 
 
 At least five policemen have been killed and two injured after a &ldquo;Black Widow&rdquo; suicide bomber detonated explosives outside a police checkpoint in the troubled Russian region of Dagestan.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/russia/9127907/Five-policemen-killed-by-Russian-Black-Widow-suicide-bomber.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02160/Dagestan_2160790k.jpg)

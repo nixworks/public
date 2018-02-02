@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/7/british-lieutenant-general-nick-houghton-announces-that-the-uk-s-8-000-soldiers-in-iraq-could-begin-leaving-the-country-within-weeks-most.html)  [JSON](/news/2006/03/7/british-lieutenant-general-nick-houghton-announces-that-the-uk-s-8-000-soldiers-in-iraq-could-begin-leaving-the-country-within-weeks-most.json)  [XML](/news/2006/03/7/british-lieutenant-general-nick-houghton-announces-that-the-uk-s-8-000-soldiers-in-iraq-could-begin-leaving-the-country-within-weeks-most.xml)  
+
 ### [2006-03-7](/news/2006/03/7/index.md)
 
+##### British Army
 #  British Lieutenant General Nick Houghton announces that the UK's 8,000 soldiers in Iraq could begin leaving the country within weeks. Most would be home by 2008, he says. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian Unlimited](http://www.guardian.co.uk/Iraq/Story/0,,1725556,00.html)
 

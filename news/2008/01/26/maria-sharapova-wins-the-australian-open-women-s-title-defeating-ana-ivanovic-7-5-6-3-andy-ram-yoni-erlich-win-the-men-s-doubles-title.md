@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/26/maria-sharapova-wins-the-australian-open-women-s-title-defeating-ana-ivanovic-7-5-6-3-andy-ram-yoni-erlich-win-the-men-s-doubles-title.html)  [JSON](/news/2008/01/26/maria-sharapova-wins-the-australian-open-women-s-title-defeating-ana-ivanovic-7-5-6-3-andy-ram-yoni-erlich-win-the-men-s-doubles-title.json)  [XML](/news/2008/01/26/maria-sharapova-wins-the-australian-open-women-s-title-defeating-ana-ivanovic-7-5-6-3-andy-ram-yoni-erlich-win-the-men-s-doubles-title.xml)  
+
 ### [2008-01-26](/news/2008/01/26/index.md)
 
+##### Maria Sharapova
 #  Maria Sharapova wins the Australian Open women's title defeating Ana Ivanovic 7-5, 6-3. Andy Ram & Yoni Erlich win the men's doubles title. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/sport2/hi/tennis/7209242.stm)
 

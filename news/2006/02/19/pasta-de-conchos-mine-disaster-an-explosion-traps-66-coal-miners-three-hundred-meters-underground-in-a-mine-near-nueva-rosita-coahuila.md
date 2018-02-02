@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/19/pasta-de-conchos-mine-disaster-an-explosion-traps-66-coal-miners-three-hundred-meters-underground-in-a-mine-near-nueva-rosita-coahuila.html)  [JSON](/news/2006/02/19/pasta-de-conchos-mine-disaster-an-explosion-traps-66-coal-miners-three-hundred-meters-underground-in-a-mine-near-nueva-rosita-coahuila.json)  [XML](/news/2006/02/19/pasta-de-conchos-mine-disaster-an-explosion-traps-66-coal-miners-three-hundred-meters-underground-in-a-mine-near-nueva-rosita-coahuila.xml)  
+
 ### [2006-02-19](/news/2006/02/19/index.md)
 
+##### Pasta de Conchos mine disaster
 #  Pasta de Conchos mine disaster: An explosion traps 66 coal miners three hundred meters underground in a mine near Nueva Rosita, Coahuila. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/WORLD/americas/02/19/mexico.mine.reut/index.html)
 

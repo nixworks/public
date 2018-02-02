@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/6/russian-military-sailors-release-the-tanker-mv-moscow-university-from-somali-pirates.html)  [JSON](/news/2010/05/6/russian-military-sailors-release-the-tanker-mv-moscow-university-from-somali-pirates.json)  [XML](/news/2010/05/6/russian-military-sailors-release-the-tanker-mv-moscow-university-from-somali-pirates.xml)  
+
 ### [2010-05-6](/news/2010/05/6/index.md)
 
+##### MV ''Moscow University''
 # Russian military sailors release the tanker MV "Moscow University" from Somali pirates. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/russia/20100506/158893551.html)
 

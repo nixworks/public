@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/30/mars-reconnaissance-orbiter-successfully-completed-aerobraking-and-is-preparing-to-enter-a-sun-synchronized-science-orbit-at-mars.html)  [JSON](/news/2006/08/30/mars-reconnaissance-orbiter-successfully-completed-aerobraking-and-is-preparing-to-enter-a-sun-synchronized-science-orbit-at-mars.json)  [XML](/news/2006/08/30/mars-reconnaissance-orbiter-successfully-completed-aerobraking-and-is-preparing-to-enter-a-sun-synchronized-science-orbit-at-mars.xml)  
+
 ### [2006-08-30](/news/2006/08/30/index.md)
 
+##### Mars Reconnaissance Orbiter
 #  Mars Reconnaissance Orbiter successfully completed aerobraking, and is preparing to enter a Sun synchronized science orbit at Mars. 
 
 BOULDER, Colorado – Ground controllers today successfully performed a major maneuver of NASA’s Mars Reconnaissance Orbiter (MOR)—an “end game” tactic that puts the orbiting probe a step closer to studying the red planet with its entire suite of science se
 
 
-### Source:
+### Sources:
 
 1. [Space.com](http://www.space.com/missionlaunches/060830_mro_brake.html)
 1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL3NpdGUvc3BhY2UtYmxhY2sucG5n)

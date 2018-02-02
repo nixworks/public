@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/2/a-human-rights-protester-throws-a-shoe-at-chinese-premier-wen-jiabao-during-a-speech-at-cambridge-university.html)  [JSON](/news/2009/02/2/a-human-rights-protester-throws-a-shoe-at-chinese-premier-wen-jiabao-during-a-speech-at-cambridge-university.json)  [XML](/news/2009/02/2/a-human-rights-protester-throws-a-shoe-at-chinese-premier-wen-jiabao-during-a-speech-at-cambridge-university.xml)  
+
 ### [2009-02-2](/news/2009/02/2/index.md)
 
+##### human rights
 #  A human rights protester throws a shoe at Chinese Premier Wen Jiabao during a speech at Cambridge University. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/europe/02/02/china.uk.shoe.protest/index.html?eref=rss_topstories)
 

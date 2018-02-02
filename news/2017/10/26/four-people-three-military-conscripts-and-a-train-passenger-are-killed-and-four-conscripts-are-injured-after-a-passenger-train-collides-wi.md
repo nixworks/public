@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/26/four-people-three-military-conscripts-and-a-tra
 
 ### [2017-10-26](/news/2017/10/26/index.md)
 
+##### Rail accidents in 2017
 # Four people (three military conscripts and a train passenger) are killed and four conscripts are injured after a passenger train collides with an off-road military truck in Raseborg, Finland. 
 
 An accident between a train and an off-road military lorry in the southern coastal municipality of Raseborg has killed four people. New reports say that eight military conscripts were involved in the crash, three of whom of died and four were injured. The fourth victim was a passenger on the train.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/15/police-in-anchorage-alaska-link-a-gun-that-a-su
 
 ### [2016-11-15](/news/2016/11/15/index.md)
 
+##### Anchorage, Alaska
 # Police in Anchorage, Alaska link a gun that a suspect used in the attempted murder of a police officer, to five unsolved homicides in the city which occurred over the summer. The suspect was killed during the murder attempt. 
 
 A gun used to shoot a police officer Saturday morning was the same weapon used in at least five homicides in the city so far this year, including two double homicides, Anchorage police said.

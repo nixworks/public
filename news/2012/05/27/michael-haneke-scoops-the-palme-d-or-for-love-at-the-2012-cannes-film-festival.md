@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/27/michael-haneke-scoops-the-palme-d-or-for-love-at-the-2012-cannes-film-festival.html)  [JSON](/news/2012/05/27/michael-haneke-scoops-the-palme-d-or-for-love-at-the-2012-cannes-film-festival.json)  [XML](/news/2012/05/27/michael-haneke-scoops-the-palme-d-or-for-love-at-the-2012-cannes-film-festival.xml)  
+
 ### [2012-05-27](/news/2012/05/27/index.md)
 
+##### Michael Haneke
 # Michael Haneke scoops the Palme d'Or for "Love" at the 2012 Cannes Film Festival. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18230598)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60522000/jpg/_60522417_014868524-1.jpg)

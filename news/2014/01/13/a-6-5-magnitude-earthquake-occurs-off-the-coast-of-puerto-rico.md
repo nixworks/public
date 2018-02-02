@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/13/a-6-5-magnitude-earthquake-occurs-off-the-coast-of-puerto-rico.html)  [JSON](/news/2014/01/13/a-6-5-magnitude-earthquake-occurs-off-the-coast-of-puerto-rico.json)  [XML](/news/2014/01/13/a-6-5-magnitude-earthquake-occurs-off-the-coast-of-puerto-rico.xml)  
+
 ### [2014-01-13](/news/2014/01/13/index.md)
 
+##### Puerto Rico
 # A 6.5 magnitude earthquake occurs off the coast of Puerto Rico. 
 
 A strong quake of magnitude 6.5 struck north off Puerto Rico on Monday and could trigger a local tsunami, the U.S. Geological Survey (USGS) and the Pacific Tsunami Warning Center said.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via CBC](http://www.cbc.ca/news/world/puerto-rico-rocked-by-6-5-magnitude-earthquake-1.2494091)
 1. [Cover Image](https://i.cbc.ca/1.2494102.1389587596!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/puerto-rico-earthquake.jpg)

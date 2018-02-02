@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/10/the-south-korean-government-announces-that-the-country-s-capital-is-to-be-moved-from-seoul-to-a-new-site-at-gongju-in-south-chungcheong-pro.html)  [JSON](/news/2004/08/10/the-south-korean-government-announces-that-the-country-s-capital-is-to-be-moved-from-seoul-to-a-new-site-at-gongju-in-south-chungcheong-pro.json)  [XML](/news/2004/08/10/the-south-korean-government-announces-that-the-country-s-capital-is-to-be-moved-from-seoul-to-a-new-site-at-gongju-in-south-chungcheong-pro.xml)  
+
 ### [2004-08-10](/news/2004/08/10/index.md)
 
+##### South Korea
 #  The South Korean government announces that the country's capital is to be moved from Seoul to a new site at Gongju in South Chungcheong province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/3554296.stm)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/09/14/the-pakistan-peoples-party-unanimously-decides-that-benazir-bhutto-will-return-to-pakistan-on-october-18-2007.html)  [JSON](/news/2007/09/14/the-pakistan-peoples-party-unanimously-decides-that-benazir-bhutto-will-return-to-pakistan-on-october-18-2007.json)  [XML](/news/2007/09/14/the-pakistan-peoples-party-unanimously-decides-that-benazir-bhutto-will-return-to-pakistan-on-october-18-2007.xml)  
+
 ### [2007-09-14](/news/2007/09/14/index.md)
 
+##### Pakistan Peoples Party
 #  The Pakistan Peoples Party unanimously decides that Benazir Bhutto will return to Pakistan on October 18, 2007. 
 
 

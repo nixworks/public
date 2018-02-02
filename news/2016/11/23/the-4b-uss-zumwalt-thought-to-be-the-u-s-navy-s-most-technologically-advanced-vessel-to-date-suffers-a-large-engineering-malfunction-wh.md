@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/23/the-4b-uss-zumwalt-thought-to-be-the-u-s-navy-s
 
 ### [2016-11-23](/news/2016/11/23/index.md)
 
+##### USS Zumwalt
 #  The $4B USS Zumwalt, thought to be the U.S. Navy's most technologically advanced vessel to date, suffers a large engineering malfunction while crossing the Panama Canal. This is the craft's second major malfunction since its launch less than a month prior. 
 
 

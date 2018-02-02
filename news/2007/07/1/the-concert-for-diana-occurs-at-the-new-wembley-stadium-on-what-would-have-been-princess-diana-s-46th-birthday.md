@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/1/the-concert-for-diana-occurs-at-the-new-wembley-stadium-on-what-would-have-been-princess-diana-s-46th-birthday.html)  [JSON](/news/2007/07/1/the-concert-for-diana-occurs-at-the-new-wembley-stadium-on-what-would-have-been-princess-diana-s-46th-birthday.json)  [XML](/news/2007/07/1/the-concert-for-diana-occurs-at-the-new-wembley-stadium-on-what-would-have-been-princess-diana-s-46th-birthday.xml)  
+
 ### [2007-07-1](/news/2007/07/1/index.md)
 
+##### Concert for Diana
 #  The Concert for Diana occurs at the new Wembley Stadium on what would have been Princess Diana's 46th birthday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/low/entertainment/6257986.stm)
 

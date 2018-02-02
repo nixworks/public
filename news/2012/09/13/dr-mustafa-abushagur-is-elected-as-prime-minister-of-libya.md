@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/13/dr-mustafa-abushagur-is-elected-as-prime-minister-of-libya.html)  [JSON](/news/2012/09/13/dr-mustafa-abushagur-is-elected-as-prime-minister-of-libya.json)  [XML](/news/2012/09/13/dr-mustafa-abushagur-is-elected-as-prime-minister-of-libya.xml)  
+
 ### [2012-09-13](/news/2012/09/13/index.md)
 
+##### Mustafa A.G. Abushagur
 # Dr. Mustafa Abushagur is elected as prime minister of Libya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fairport-East Rochester Post](http://www.fairport-erpost.com/latestnews/x1885027516/Former-RIT-professor-Dr-Mustafa-Abusagur-elected-prime-minister-of-Libya)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/6/an-israeli-soldier-is-killed-during-a-car-rammin
 
 ### [2017-04-6](/news/2017/04/6/index.md)
 
+##### Israel
 # An Israeli soldier is killed during a car ramming attack near Ofra, in the West Bank. Another Israeli soldier was injured. A Palestinian suspected of committing the attack is taken into custody. 
 
 Second Israeli lightly wounded after Palestinian ploughed into two Israelis, both in their 20s, at junction outside of the settlement of Ofra

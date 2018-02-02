@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/11/19/jose-bove-member-of-the-anti-globalization-movement-will-have-to-carry-out-a-fourteen-months-time-in-prison-for-destruction-of-the-transg.html)  [JSON](/news/2002/11/19/jose-bove-member-of-the-anti-globalization-movement-will-have-to-carry-out-a-fourteen-months-time-in-prison-for-destruction-of-the-transg.json)  [XML](/news/2002/11/19/jose-bove-member-of-the-anti-globalization-movement-will-have-to-carry-out-a-fourteen-months-time-in-prison-for-destruction-of-the-transg.xml)  
+
 ### [2002-11-19](/news/2002/11/19/index.md)
 
+##### Jos Bov
 #  Jos Bov, member of the anti-globalization movement, will have to carry out a fourteen months time in prison for destruction of the transgenic rice seedlings in France. * Hunter Andrew Crossman born.
 
 

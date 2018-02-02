@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/2/italian-leader-romano-prodi-is-reinstated-as-prime-minister-after-winning-his-second-and-final-confidence-vote-in-the-parliament-ending-a.html)  [JSON](/news/2007/03/2/italian-leader-romano-prodi-is-reinstated-as-prime-minister-after-winning-his-second-and-final-confidence-vote-in-the-parliament-ending-a.json)  [XML](/news/2007/03/2/italian-leader-romano-prodi-is-reinstated-as-prime-minister-after-winning-his-second-and-final-confidence-vote-in-the-parliament-ending-a.xml)  
+
 ### [2007-03-2](/news/2007/03/2/index.md)
 
+##### Italy
 #  Italian leader Romano Prodi is reinstated as prime minister after winning his second and final confidence vote in the Parliament, ending a political crisis that began last week when Prodi resigned after losing a foreign policy vote. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/europe/03/02/italy.prodi.reut/index.html)
 

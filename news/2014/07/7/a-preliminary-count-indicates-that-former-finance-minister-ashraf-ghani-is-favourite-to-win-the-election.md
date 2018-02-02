@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2014/07/7/a-preliminary-count-indicates-that-former-finance-minister-ashraf-ghani-is-favourite-to-win-the-election.html)  [JSON](/news/2014/07/7/a-preliminary-count-indicates-that-former-finance-minister-ashraf-ghani-is-favourite-to-win-the-election.json)  [XML](/news/2014/07/7/a-preliminary-count-indicates-that-former-finance-minister-ashraf-ghani-is-favourite-to-win-the-election.xml)  
+
 ### [2014-07-7](/news/2014/07/7/index.md)
 
+##### Afghan presidential election, 2014
 # A preliminary count indicates that former finance minister Ashraf Ghani is favourite to win the election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Euronews](http://www.euronews.com/2014/07/07/preliminary-count-gives-afghanistan-s-ghani-victory-in-presidential-poll/)
+
+### Changes:
+
+1. [Afghan presidential election, 2014: A preliminary count indicates that former finance minister Ashraf Ghani is favourite to win the election. ](/news/2014/07/7/afghan-presidential-election-2014-a-preliminary-count-indicates-that-former-finance-minister-ashraf-ghani-is-favourite-to-win-the-election.md) _2017-08-27 03:40:56 (First version)_
+1. [A preliminary count indicates that former finance minister Ashraf Ghani is favourite to win the election. ](/news/2014/07/7/a-preliminary-count-indicates-that-former-finance-minister-ashraf-ghani-is-favourite-to-win-the-election.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [Dr. Abdullah Abdullah, former foreign minister is leading in Afghan presidential election, 2014 with 44% votes followed by Ashraf Ghani with 33% votes, according to latest partial results. ](/news/2014/04/20/dr-abdullah-abdullah-former-foreign-minister-is-leading-in-afghan-presidential-election-2014-with-44-votes-followed-by-ashraf-ghani-with.md) _Context: Afghan presidential election, 2014, Ashraf Ghani_
 4. [Afghanistan President Ashraf Ghani says Pakistan must take military action against Taliban, operating from Pakistan, who are waging an increasingly deadly insurgency across his country. Otherwise, "... we will be forced to turn to the UN Security Council and start serious diplomatic efforts." ](/news/2016/04/25/afghanistan-president-ashraf-ghani-says-pakistan-must-take-military-action-against-taliban-operating-from-pakistan-who-are-waging-an-incre.md) _Context: Ashraf Ghani_
 5. [Ashraf Ghani is sworn in as new president of Afghanistan. ](/news/2014/09/29/ashraf-ghani-is-sworn-in-as-new-president-of-afghanistan.md) _Context: Ashraf Ghani_
-
-### Changes:
-
-1. [Afghan presidential election, 2014: A preliminary count indicates that former finance minister Ashraf Ghani is favourite to win the election. ](/news/2014/07/7/afghan-presidential-election-2014-a-preliminary-count-indicates-that-former-finance-minister-ashraf-ghani-is-favourite-to-win-the-election.md) _2017-08-27 03:40:56 (First version)_
-1. [A preliminary count indicates that former finance minister Ashraf Ghani is favourite to win the election. ](/news/2014/07/7/a-preliminary-count-indicates-that-former-finance-minister-ashraf-ghani-is-favourite-to-win-the-election.md) _(Current version)_

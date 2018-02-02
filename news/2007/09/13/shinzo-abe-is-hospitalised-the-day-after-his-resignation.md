@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/13/shinzo-abe-is-hospitalised-the-day-after-his-resignation.html)  [JSON](/news/2007/09/13/shinzo-abe-is-hospitalised-the-day-after-his-resignation.json)  [XML](/news/2007/09/13/shinzo-abe-is-hospitalised-the-day-after-his-resignation.xml)  
+
 ### [2007-09-13](/news/2007/09/13/index.md)
 
+##### Shinzo Abe
 #  Shinzo Abe is hospitalised the day after his resignation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/EB74820F-3AC4-4455-B654-EE88C0DDE9B0.htm)
 

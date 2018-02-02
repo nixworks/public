@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/3/ukrainian-president-viktor-yushchenko-nominates-his-political-rival-viktor-yanukovich-to-become-prime-minister.html)  [JSON](/news/2006/08/3/ukrainian-president-viktor-yushchenko-nominates-his-political-rival-viktor-yanukovich-to-become-prime-minister.json)  [XML](/news/2006/08/3/ukrainian-president-viktor-yushchenko-nominates-his-political-rival-viktor-yanukovich-to-become-prime-minister.xml)  
+
 ### [2006-08-3](/news/2006/08/3/index.md)
 
+##### Ukraine
 #  Ukrainian President Viktor Yushchenko nominates his political rival Viktor Yanukovich to become prime minister.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2006-08-03T003633Z_01_L0272646_RTRUKOC_0_UK-UKRAINE.xml&archived=False)
 

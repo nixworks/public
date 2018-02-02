@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/17/madagascar-s-military-installs-former-antananarivo-mayor-andry-rajoelina-as-the-country-s-new-president-replacing-marc-ravalomanana.html)  [JSON](/news/2009/03/17/madagascar-s-military-installs-former-antananarivo-mayor-andry-rajoelina-as-the-country-s-new-president-replacing-marc-ravalomanana.json)  [XML](/news/2009/03/17/madagascar-s-military-installs-former-antananarivo-mayor-andry-rajoelina-as-the-country-s-new-president-replacing-marc-ravalomanana.xml)  
+
 ### [2009-03-17](/news/2009/03/17/index.md)
 
+##### Madagascar
 #  Madagascar's military installs former Antananarivo Mayor Andry Rajoelina as the country's new President, replacing Marc Ravalomanana. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7948196.stm)
 

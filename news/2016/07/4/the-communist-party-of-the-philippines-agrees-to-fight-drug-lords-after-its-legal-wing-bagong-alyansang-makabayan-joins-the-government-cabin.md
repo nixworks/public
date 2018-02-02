@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/4/the-communist-party-of-the-philippines-agrees-to
 
 ### [2016-07-4](/news/2016/07/4/index.md)
 
+##### drug crackdown
 # The Communist Party of the Philippines agrees to fight drug lords after its legal wing Bagong Alyansang Makabayan joins the government cabinet of Rodrigo Duterte. 
 
 

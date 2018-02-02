@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/8/a-french-air-traffic-controllers-strike-causes-the-cancellation-of-hundreds-of-flights-throughout-europe.html)  [JSON](/news/2015/04/8/a-french-air-traffic-controllers-strike-causes-the-cancellation-of-hundreds-of-flights-throughout-europe.json)  [XML](/news/2015/04/8/a-french-air-traffic-controllers-strike-causes-the-cancellation-of-hundreds-of-flights-throughout-europe.xml)  
+
 ### [2015-04-8](/news/2015/04/8/index.md)
 
+##### French-born
 # A French air traffic controllers strike causes the cancellation of hundreds of flights throughout Europe. 
 
 Hundreds of flights in France are cancelled as air traffic controllers launch a two-day strike over working conditions.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2015-04-09/flights-cancelled-as-french-air-traffic-controllers-strike/6379422)
 1. [Cover Image](http://www.abc.net.au/news/image/6379424-1x1-700x700.jpg)

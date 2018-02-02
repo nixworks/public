@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/14/the-san-antonio-spurs-defeat-the-cleveland-cavaliers-in-game-4-of-the-2007-nba-finals-to-win-the-2007-national-basketball-association-champ.html)  [JSON](/news/2007/06/14/the-san-antonio-spurs-defeat-the-cleveland-cavaliers-in-game-4-of-the-2007-nba-finals-to-win-the-2007-national-basketball-association-champ.json)  [XML](/news/2007/06/14/the-san-antonio-spurs-defeat-the-cleveland-cavaliers-in-game-4-of-the-2007-nba-finals-to-win-the-2007-national-basketball-association-champ.xml)  
+
 ### [2007-06-14](/news/2007/06/14/index.md)
 
+##### San Antonio Spurs
 #  The San Antonio Spurs defeat the Cleveland Cavaliers in Game 4 of the 2007 NBA Finals to win the 2007 National Basketball Association Championship. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SI](http://sportsillustrated.cnn.com/basketball/nba/boxscores/2007/06/14/22005_boxscore.html)
 

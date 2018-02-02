@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/30/at-least-nine-children-are-killed-and-another-twenty-injured-after-their-school-bus-collides-with-a-truck-in-the-indian-city-of-hanumangarh.html)  [JSON](/news/2013/07/30/at-least-nine-children-are-killed-and-another-twenty-injured-after-their-school-bus-collides-with-a-truck-in-the-indian-city-of-hanumangarh.json)  [XML](/news/2013/07/30/at-least-nine-children-are-killed-and-another-twenty-injured-after-their-school-bus-collides-with-a-truck-in-the-indian-city-of-hanumangarh.xml)  
+
 ### [2013-07-30](/news/2013/07/30/index.md)
 
+##### India
 # At least nine children are killed and another twenty injured after their school bus collides with a truck in the Indian city of Hanumangarh in Rajasthan state. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/schoolchildren-killed-road-accident-india-19811378)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/09/26/two-car-bomb-blasts-kill-at-least-12-people-in-northwestern-pakistan.html)  [JSON](/news/2009/09/26/two-car-bomb-blasts-kill-at-least-12-people-in-northwestern-pakistan.json)  [XML](/news/2009/09/26/two-car-bomb-blasts-kill-at-least-12-people-in-northwestern-pakistan.xml)  
+
 ### [2009-09-26](/news/2009/09/26/index.md)
 
+##### car bomb
 #  Two car bomb blasts kill at least 12 people in northwestern Pakistan. 
 
 Police officers and civilians among casualties of car-bomb attacks in Bannu and Peshawar.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/09/200992625241814252.html)
-2. [Reuters](http://www.reuters.com/article/featuredCrisis/idUSSP396592)
+2. [Reuters](https://www.reuters.com/article/featuredCrisis/idUSSP396592)
 3. [Times of India](http://timesofindia.indiatimes.com/news/world/pakistan/14-killed-in-renewed-suicide-attacks-in-Pakistans-NWFP/articleshow/5058770.cms)
 3. [Cover Image](http://www.aljazeera.com)
 

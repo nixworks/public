@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/14/gerry-adams-the-president-of-sinn-fa-c-in-announces-that-he-will-resign-his-positions-in-the-northern-ireland-assembly-and-the-parliament-of.html)  [JSON](/news/2010/11/14/gerry-adams-the-president-of-sinn-fa-c-in-announces-that-he-will-resign-his-positions-in-the-northern-ireland-assembly-and-the-parliament-of.json)  [XML](/news/2010/11/14/gerry-adams-the-president-of-sinn-fa-c-in-announces-that-he-will-resign-his-positions-in-the-northern-ireland-assembly-and-the-parliament-of.xml)  
+
 ### [2010-11-14](/news/2010/11/14/index.md)
 
+##### Gerry Adams
 # Gerry Adams, the President of Sinn Fein, announces that he will resign his positions in the Northern Ireland Assembly and the Parliament of the United Kingdom to stand for the Dail. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/politics/2010/nov/14/gerry-adams-irish-parliament-run)
 2. [The Times'' via ''The Australian](http://www.theaustralian.com.au/news/world/gerry-adams-to-quit-british-politics-to-stand-in-ireland/story-e6frg6so-1225953656270?from=public_rss)

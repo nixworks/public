@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/09/16/andrei-lugovoy-the-former-kgb-agent-accused-by-british-authorities-of-murdering-alexander-litvinenko-with-a-radioactive-isotope-in-london.html)  [JSON](/news/2007/09/16/andrei-lugovoy-the-former-kgb-agent-accused-by-british-authorities-of-murdering-alexander-litvinenko-with-a-radioactive-isotope-in-london.json)  [XML](/news/2007/09/16/andrei-lugovoy-the-former-kgb-agent-accused-by-british-authorities-of-murdering-alexander-litvinenko-with-a-radioactive-isotope-in-london.xml)  
+
 ### [2007-09-16](/news/2007/09/16/index.md)
 
+##### Andrei Lugovoy
 #  Andrei Lugovoy, the former KGB agent accused by British authorities of murdering Alexander Litvinenko with a radioactive isotope in London last November, says he will run for parliament on the party list of the Liberal Democratic Party of Russia. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/09/16/AR2007091600382.html?hpid=topnews)
+1. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2007/09/16/AR2007091600382.html?hpid=topnews)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

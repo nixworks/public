@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/18/china-commences-surveillance-of-text-messages-with-customers-from-the-country-s-two-largest-operators-being-blocked-for-lewd-messages-mean.html)  [JSON](/news/2010/01/18/china-commences-surveillance-of-text-messages-with-customers-from-the-country-s-two-largest-operators-being-blocked-for-lewd-messages-mean.json)  [XML](/news/2010/01/18/china-commences-surveillance-of-text-messages-with-customers-from-the-country-s-two-largest-operators-being-blocked-for-lewd-messages-mean.xml)  
+
 ### [2010-01-18](/news/2010/01/18/index.md)
 
+##### China
 # China commences surveillance of text messages, with customers from the country's two largest operators being blocked for lewd messages. Meanwhile, text messaging returns to Xinjiang, after riots last July. 
 
 CHINA has started scanning text messages in the latest move to step up censorship.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/201011883518837762.html)
 2. [The Sydney Morning Herald](http://www.smh.com.au/technology/chinese-censors-take-aim-at-texts-20100117-mee2.html)

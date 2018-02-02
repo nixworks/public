@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/13/sco-v-ibm-sco-group-files-subpoenas-for-richard-stallman-and-linus-torvalds.html)  [JSON](/news/2003/11/13/sco-v-ibm-sco-group-files-subpoenas-for-richard-stallman-and-linus-torvalds.json)  [XML](/news/2003/11/13/sco-v-ibm-sco-group-files-subpoenas-for-richard-stallman-and-linus-torvalds.xml)  
+
 ### [2003-11-13](/news/2003/11/13/index.md)
 
+##### SCO v. IBM
 #  "SCO v. IBM:" SCO Group files subpoenas for Richard Stallman and Linus Torvalds.
 
 

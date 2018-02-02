@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/30/sudanese-president-omar-al-bashir-says-the-government-will-withdraw-from-peace-talks-with-rebels-from-darfur-unless-a-deal-is-reached-this-w.html)  [JSON](/news/2010/12/30/sudanese-president-omar-al-bashir-says-the-government-will-withdraw-from-peace-talks-with-rebels-from-darfur-unless-a-deal-is-reached-this-w.json)  [XML](/news/2010/12/30/sudanese-president-omar-al-bashir-says-the-government-will-withdraw-from-peace-talks-with-rebels-from-darfur-unless-a-deal-is-reached-this-w.xml)  
+
 ### [2010-12-30](/news/2010/12/30/index.md)
 
+##### Sudan
 # Sudanese President Omar al-Bashir says the government will withdraw from peace talks with rebels from Darfur unless a deal is reached this week. 
 
 Al-Bashir tells Darfur rebels there will be no more peace talks if no deal is reached at summit in Doha.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/201012307480550532.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/18/2010121821259191734_20.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/8/a-pakistani-taliban-car-bomb-attack-on-a-federal-investigation-agency-fia-building-in-lahore-kills-at-least-11-wounds-60.html)  [JSON](/news/2010/03/8/a-pakistani-taliban-car-bomb-attack-on-a-federal-investigation-agency-fia-building-in-lahore-kills-at-least-11-wounds-60.json)  [XML](/news/2010/03/8/a-pakistani-taliban-car-bomb-attack-on-a-federal-investigation-agency-fia-building-in-lahore-kills-at-least-11-wounds-60.xml)  
+
 ### [2010-03-8](/news/2010/03/8/index.md)
 
+##### Pakistani Taliban
 # A Pakistani Taliban car bomb attack on a Federal Investigation Agency (FIA) building in Lahore kills at least 11, wounds 60. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8554850.stm)
 

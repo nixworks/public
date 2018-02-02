@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/17/a-general-strike-in-nepal-called-by-political-parties-opposed-to-king-gyanendra-enters-its-12th-day-with-food-shortages-and-price-rises-tr.html)  [JSON](/news/2006/04/17/a-general-strike-in-nepal-called-by-political-parties-opposed-to-king-gyanendra-enters-its-12th-day-with-food-shortages-and-price-rises-tr.json)  [XML](/news/2006/04/17/a-general-strike-in-nepal-called-by-political-parties-opposed-to-king-gyanendra-enters-its-12th-day-with-food-shortages-and-price-rises-tr.xml)  
+
 ### [2006-04-17](/news/2006/04/17/index.md)
 
+##### April 2006 Nepalese general strike
 #  A general strike in Nepal called by political parties opposed to King Gyanendra enters its 12th day, with food shortages and price rises triggering panic buying in some areas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4915108.stm)
 2. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/04/17/nepal.ap/index.html)

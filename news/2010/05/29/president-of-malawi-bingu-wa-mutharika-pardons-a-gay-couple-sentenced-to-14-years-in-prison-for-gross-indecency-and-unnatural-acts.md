@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/29/president-of-malawi-bingu-wa-mutharika-pardons-a-gay-couple-sentenced-to-14-years-in-prison-for-gross-indecency-and-unnatural-acts.html)  [JSON](/news/2010/05/29/president-of-malawi-bingu-wa-mutharika-pardons-a-gay-couple-sentenced-to-14-years-in-prison-for-gross-indecency-and-unnatural-acts.json)  [XML](/news/2010/05/29/president-of-malawi-bingu-wa-mutharika-pardons-a-gay-couple-sentenced-to-14-years-in-prison-for-gross-indecency-and-unnatural-acts.xml)  
+
 ### [2010-05-29](/news/2010/05/29/index.md)
 
+##### President of Malawi
 # President of Malawi Bingu wa Mutharika pardons a gay couple sentenced to 14 years in prison for "gross indecency and unnatural acts". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/10190653.stm)
 2. [CNN](http://edition.cnn.com/2010/WORLD/africa/05/29/malawi.gay.couple/index.html)

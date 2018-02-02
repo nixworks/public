@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/3/the-british-government-will-designate-and-ban-tehreek-e-nafaz-e-shariat-e-mohammadi-and-jamaat-ul-mujahideen-bangladesh-as-terrorist-organi.html)  [JSON](/news/2007/07/3/the-british-government-will-designate-and-ban-tehreek-e-nafaz-e-shariat-e-mohammadi-and-jamaat-ul-mujahideen-bangladesh-as-terrorist-organi.json)  [XML](/news/2007/07/3/the-british-government-will-designate-and-ban-tehreek-e-nafaz-e-shariat-e-mohammadi-and-jamaat-ul-mujahideen-bangladesh-as-terrorist-organi.xml)  
+
 ### [2007-07-3](/news/2007/07/3/index.md)
 
+##### British government
 #  The British government will designate and ban Tehreek-e-Nafaz-e-Shariat-e-Mohammadi and Jamaat-ul-Mujahideen Bangladesh as terrorist organizations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Nasdaq](http://www.nasdaq.com/aspxcontent/NewsStory.aspx?cpath=20070703%5cACQDJON200707030820DOWJONESDJONLINE000318.htm&)
 1. [Cover Image](http://www.nasdaq.com/images/Q-logo.jpg)

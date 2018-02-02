@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/3/the-president-of-the-united-states-visits-estonia-in-a-move-to-reassure-the-baltic-states-ahead-of-a-nato-summit-in-wales.html)  [JSON](/news/2014/09/3/the-president-of-the-united-states-visits-estonia-in-a-move-to-reassure-the-baltic-states-ahead-of-a-nato-summit-in-wales.json)  [XML](/news/2014/09/3/the-president-of-the-united-states-visits-estonia-in-a-move-to-reassure-the-baltic-states-ahead-of-a-nato-summit-in-wales.xml)  
+
 ### [2014-09-3](/news/2014/09/3/index.md)
 
+##### U.S. President
 # The President of the United States visits Estonia in a move to reassure the Baltic states ahead of a NATO summit in Wales. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2014/09/03/politics/obama-europe-trip/index.html)
 

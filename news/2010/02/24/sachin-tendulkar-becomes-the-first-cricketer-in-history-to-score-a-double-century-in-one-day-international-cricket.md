@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/24/sachin-tendulkar-becomes-the-first-cricketer-in-history-to-score-a-double-century-in-one-day-international-cricket.html)  [JSON](/news/2010/02/24/sachin-tendulkar-becomes-the-first-cricketer-in-history-to-score-a-double-century-in-one-day-international-cricket.json)  [XML](/news/2010/02/24/sachin-tendulkar-becomes-the-first-cricketer-in-history-to-score-a-double-century-in-one-day-international-cricket.xml)  
+
 ### [2010-02-24](/news/2010/02/24/index.md)
 
+##### Sachin Tendulkar
 # Sachin Tendulkar becomes the first cricketer in history to score a double century in One Day International cricket. 
 
 Sachin Tendulkar hit the first double century in the history of ODI cricket to lead India to a crushing 153-run victory against South Africa in the second One-Day International, in Gwalior, on Wednesday. Tendulkar was at his vintage best as he blazed his way to 200 from a mere 147 deliveries, inclusive of 25 boundaries and three sixes. In carrying his bat through the innings he propelled India to a mammoth 401 for three in 50 overs. | Tendulkar double ton leads India to series win
 
 
-### Source:
+### Sources:
 
 1. [Rediff](http://cricket.rediff.com/report/2010/feb/24/updates-india-south-africa-2nd-odi-gwalior.htm)
 1. [Cover Image](http://im.rediff.com/300-300/cricket/2010/feb/24ten.jpg)

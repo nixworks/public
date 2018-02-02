@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/12/windows-8-along-with-internet-explorer-versions
 
 ### [2016-01-12](/news/2016/01/12/index.md)
 
+##### Windows 8
 # Windows 8 along with Internet Explorer versions 8, 9 and 10 are now officially unsupported by Microsoft. 
 
 Microsoft will no longer support Windows 8, this is why...

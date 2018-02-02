@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/27/at-least-12-people-associated-with-the-kangleyuan-rest-home-in-the-chinese-city-of-pingdingshan-in-henan-province-which-was-destroyed-by-fi.html)  [JSON](/news/2015/05/27/at-least-12-people-associated-with-the-kangleyuan-rest-home-in-the-chinese-city-of-pingdingshan-in-henan-province-which-was-destroyed-by-fi.json)  [XML](/news/2015/05/27/at-least-12-people-associated-with-the-kangleyuan-rest-home-in-the-chinese-city-of-pingdingshan-in-henan-province-which-was-destroyed-by-fi.xml)  
+
 ### [2015-05-27](/news/2015/05/27/index.md)
 
+##### Chinese
 # At least 12 people, associated with the Kangleyuan Rest Home in the Chinese city of Pingdingshan in Henan province which was destroyed by fire with the loss of 38 lives, are detained for questioning. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/9d67a1e33e4c45dfbe845680085fb8c9/rest-home-fire-central-china-kills-38)
 

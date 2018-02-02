@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/11/in-china-the-central-commission-for-discipline-
 
 ### [2016-09-11](/news/2016/09/11/index.md)
 
+##### China
 # In China, the Central Commission for Discipline Inspection places under investigation Tianjin mayor Huang Xingguo, who is also serving as acting Communist Party Secretary. 
 
 City’s acting Communist party chief is accused of ‘serious discipline breaches’ by investigators

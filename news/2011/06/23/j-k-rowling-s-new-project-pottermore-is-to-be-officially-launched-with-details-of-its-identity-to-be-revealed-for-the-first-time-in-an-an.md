@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/23/j-k-rowling-s-new-project-pottermore-is-to-be-officially-launched-with-details-of-its-identity-to-be-revealed-for-the-first-time-in-an-an.html)  [JSON](/news/2011/06/23/j-k-rowling-s-new-project-pottermore-is-to-be-officially-launched-with-details-of-its-identity-to-be-revealed-for-the-first-time-in-an-an.json)  [XML](/news/2011/06/23/j-k-rowling-s-new-project-pottermore-is-to-be-officially-launched-with-details-of-its-identity-to-be-revealed-for-the-first-time-in-an-an.xml)  
+
 ### [2011-06-23](/news/2011/06/23/index.md)
 
+##### J. K. Rowling
 # J. K. Rowling's new project Pottermore is to be officially launched, with details of its identity to be revealed for the first time in an announcement by the writer at the Victoria and Albert Museum in South Kensington. 
 
 The seven Harry Potter novels are to be sold as e-books for the first time in October, author JK Rowling announces.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13889578)
 2. [The Guardian](http://www.guardian.co.uk/books/2011/jun/22/harry-potter-internet-treasure-hunt-game)

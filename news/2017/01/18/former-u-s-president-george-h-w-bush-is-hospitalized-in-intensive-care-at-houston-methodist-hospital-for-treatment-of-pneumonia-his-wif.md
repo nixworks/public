@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/01/18/former-u-s-president-george-h-w-bush-is-hospitalized-in-intensive-care-at-houston-methodist-hospital-for-treatment-of-pneumonia-his-wif.html)  [JSON](/news/2017/01/18/former-u-s-president-george-h-w-bush-is-hospitalized-in-intensive-care-at-houston-methodist-hospital-for-treatment-of-pneumonia-his-wif.json)  [XML](/news/2017/01/18/former-u-s-president-george-h-w-bush-is-hospitalized-in-intensive-care-at-houston-methodist-hospital-for-treatment-of-pneumonia-his-wif.xml)  
+
 ### [2017-01-18](/news/2017/01/18/index.md)
 
+##### U.S. President
 #  Former U.S. President George H. W. Bush is hospitalized in intensive care at Houston Methodist Hospital for treatment of pneumonia. His wife, Barbara is also hospitalized. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/politics/la-na-pol-george-hw-bush-hospitalized-20170118-story.html)
 1. [Cover Image](http://www.trbimg.com/img-587fe567/turbine/la-na-pol-george-hw-bush-hospitalized-20170118)
@@ -16,4 +20,4 @@
 2. [George H. W. Bush is admitted in stable condition to The Methodist Hospital of the Texas Medical Center in Houston, Texas. The 88-year-old served as the 41st President of the United States from 1989 till 1993 and was hospitalized due to a severe cough and bronchitis but is expected to be discharged within 72 hours. ](/news/2012/11/29/george-h-w-bush-is-admitted-in-stable-condition-to-the-methodist-hospital-of-the-texas-medical-center-in-houston-texas-the-88-year-old-s.md) _Context: George H. W. Bush, U.S. President_
 3. [ Former United States President Gerald Ford is hospitalized with pneumonia. ](/news/2006/01/16/former-united-states-president-gerald-ford-is-hospitalized-with-pneumonia.md) _Context: U.S. President, pneumonia_
 4. [ Former US Presidents George H. W. Bush and Bill Clinton toured parts of Thailand that were ravaged by the Asian Tsunami. ""'[Newslink missing]""' ](/news/2005/02/19/former-us-presidents-george-h-w-bush-and-bill-clinton-toured-parts-of-thailand-that-were-ravaged-by-the-asian-tsunami-newslink-missi.md) _Context: George H. W. Bush, U.S. President_
-5. [ A Gulfstream II airplane heading to pick up former United States President George H.W. Bush crashes before landing, killing all three people on board, in Houston, Texas. ](/news/2004/11/22/a-gulfstream-ii-airplane-heading-to-pick-up-former-united-states-president-george-h-w-bush-crashes-before-landing-killing-all-three-peopl.md) _Context: George H. W. Bush, U.S. President_
+5. [Steve Bannon steps down as executive chairman of Breitbart News amid a dispute with U.S. President Donald Trump over comments he made about the Trump family in Michael Wolff's "Fire and Fury". ](/news/2018/01/9/steve-bannon-steps-down-as-executive-chairman-of-breitbart-news-amid-a-dispute-with-u-s-president-donald-trump-over-comments-he-made-about.md) _Context: U.S. President_

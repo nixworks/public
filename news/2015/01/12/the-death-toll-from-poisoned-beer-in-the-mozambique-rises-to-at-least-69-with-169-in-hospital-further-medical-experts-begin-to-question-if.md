@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2015/01/12/the-death-toll-from-poisoned-beer-in-the-mozambique-rises-to-at-least-69-with-169-in-hospital-further-medical-experts-begin-to-question-if.html)  [JSON](/news/2015/01/12/the-death-toll-from-poisoned-beer-in-the-mozambique-rises-to-at-least-69-with-169-in-hospital-further-medical-experts-begin-to-question-if.json)  [XML](/news/2015/01/12/the-death-toll-from-poisoned-beer-in-the-mozambique-rises-to-at-least-69-with-169-in-hospital-further-medical-experts-begin-to-question-if.xml)  
+
 ### [2015-01-12](/news/2015/01/12/index.md)
 
+##### contaminated beer
 # The death toll from poisoned beer in the Mozambique rises to at least 69 with 169 in hospital. Further, medical experts begin to question if the source of the contamination was the deliberate addition of crocodile bile or instead the often used foxglove flowers (which contain digitalis) for homebrewing locally-derived Pombe beer. 
 
+Radio Mozambique has updated the story this morning, confirming that 69 people have died and 196 are hospitalized after having attended a funeral on Friday in the village of Chitima in the western part of the country. The mourners had gathered later in the day in a neighborhood where Pombe (or Phombe) is sold, a fermented mix of sorghum, bran, corn, and sugar.
 
 
-
-### Source:
+### Sources:
 
 1. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/2015-01-13/mozambique-beer-poisoning-death-toll-rises-to-69/6013506)
-2. [Forbes](http://www.forbes.com/sites/davidkroll/2015/01/12/what-is-crocodile-bile-and-is-it-really-poisonous/)
-2. [Cover Image](http://www.abc.net.au/news/image/6013554-1x1-700x700.jpg)
+2. [Forbes](https://www.forbes.com/sites/davidkroll/2015/01/12/what-is-crocodile-bile-and-is-it-really-poisonous/)
+2. [Cover Image](https://thumbor.forbes.com/thumbor/600x315/smart/https%3A%2F%2Fblogs-images.forbes.com%2Fdavidkroll%2Ffiles%2F2015%2F01%2FCrocodylus_niloticus_in_Lake_Chamo_02.jpg)
 
 ### Related:
 

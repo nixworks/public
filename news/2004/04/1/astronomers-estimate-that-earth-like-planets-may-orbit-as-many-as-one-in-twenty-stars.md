@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/1/astronomers-estimate-that-earth-like-planets-may-orbit-as-many-as-one-in-twenty-stars.html)  [JSON](/news/2004/04/1/astronomers-estimate-that-earth-like-planets-may-orbit-as-many-as-one-in-twenty-stars.json)  [XML](/news/2004/04/1/astronomers-estimate-that-earth-like-planets-may-orbit-as-many-as-one-in-twenty-stars.xml)  
+
 ### [2004-04-1](/news/2004/04/1/index.md)
 
+##### Astronomer
 #  Astronomers estimate that Earth-like planets may orbit as many as one in twenty stars. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/3588721.stm)
 2. [Webindia123](http://www.webindia123.com/news/showdetails.asp?id=34978&cat=Science)

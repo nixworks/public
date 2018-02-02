@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/3/the-decision-to-award-the-rail-franchise-for-the-united-kingdom-s-west-coast-main-line-to-firstgroup-is-scrapped-by-the-government-after-wha.html)  [JSON](/news/2012/10/3/the-decision-to-award-the-rail-franchise-for-the-united-kingdom-s-west-coast-main-line-to-firstgroup-is-scrapped-by-the-government-after-wha.json)  [XML](/news/2012/10/3/the-decision-to-award-the-rail-franchise-for-the-united-kingdom-s-west-coast-main-line-to-firstgroup-is-scrapped-by-the-government-after-wha.xml)  
+
 ### [2012-10-3](/news/2012/10/3/index.md)
 
+##### West Coast Main Line
 # The decision to award the rail franchise for the United Kingdom's West Coast Main Line to FirstGroup is scrapped by the government after what are described as "significant technical flaws" in the bidding process.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-19809717)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63257000/jpg/_63257667_virgintrains.jpg)

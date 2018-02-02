@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/18/singapore-s-best-known-watercolour-artist-cultural-medallion-recipient-ong-kim-seng-donates-eight-works-to-the-country-s-new-national-art.html)  [JSON](/news/2009/09/18/singapore-s-best-known-watercolour-artist-cultural-medallion-recipient-ong-kim-seng-donates-eight-works-to-the-country-s-new-national-art.json)  [XML](/news/2009/09/18/singapore-s-best-known-watercolour-artist-cultural-medallion-recipient-ong-kim-seng-donates-eight-works-to-the-country-s-new-national-art.xml)  
+
 ### [2009-09-18](/news/2009/09/18/index.md)
 
+##### Singapore
 #  Singapore's best-known watercolour artist, Cultural Medallion recipient Ong Kim Seng, donates eight works to the country's new national art gallery. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/Singapore/Story/STIStory_431682.html)
 

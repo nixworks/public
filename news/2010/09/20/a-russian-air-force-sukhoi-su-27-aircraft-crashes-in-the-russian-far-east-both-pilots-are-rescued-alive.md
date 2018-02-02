@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/20/a-russian-air-force-sukhoi-su-27-aircraft-crashes-in-the-russian-far-east-both-pilots-are-rescued-alive.html)  [JSON](/news/2010/09/20/a-russian-air-force-sukhoi-su-27-aircraft-crashes-in-the-russian-far-east-both-pilots-are-rescued-alive.json)  [XML](/news/2010/09/20/a-russian-air-force-sukhoi-su-27-aircraft-crashes-in-the-russian-far-east-both-pilots-are-rescued-alive.xml)  
+
 ### [2010-09-20](/news/2010/09/20/index.md)
 
+##### Russian Air Force
 # A Russian Air Force Sukhoi Su-27 aircraft crashes in the Russian Far East; both pilots are rescued alive. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/russia/20100920/160647473.html)
 

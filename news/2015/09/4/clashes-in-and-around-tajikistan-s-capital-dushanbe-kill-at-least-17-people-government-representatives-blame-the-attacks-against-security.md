@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/4/clashes-in-and-around-tajikistan-s-capital-dushanbe-kill-at-least-17-people-government-representatives-blame-the-attacks-against-security.html)  [JSON](/news/2015/09/4/clashes-in-and-around-tajikistan-s-capital-dushanbe-kill-at-least-17-people-government-representatives-blame-the-attacks-against-security.json)  [XML](/news/2015/09/4/clashes-in-and-around-tajikistan-s-capital-dushanbe-kill-at-least-17-people-government-representatives-blame-the-attacks-against-security.xml)  
+
 ### [2015-09-4](/news/2015/09/4/index.md)
 
+##### Tajikistan
 #  Clashes in and around Tajikistan's capital Dushanbe kill at least 17 people. Government representatives blame the attacks against security forces on former Deputy Defense Minister Aduhalim Nazarzoda, who fought against government forces in the Tajikistan Civil War. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-34157441)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/9BB1/production/_85375893_gettyimages-77907289.jpg)

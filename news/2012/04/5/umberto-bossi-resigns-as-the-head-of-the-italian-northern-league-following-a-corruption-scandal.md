@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/5/umberto-bossi-resigns-as-the-head-of-the-italian-northern-league-following-a-corruption-scandal.html)  [JSON](/news/2012/04/5/umberto-bossi-resigns-as-the-head-of-the-italian-northern-league-following-a-corruption-scandal.json)  [XML](/news/2012/04/5/umberto-bossi-resigns-as-the-head-of-the-italian-northern-league-following-a-corruption-scandal.xml)  
+
 ### [2012-04-5](/news/2012/04/5/index.md)
 
+##### Umberto Bossi
 # Umberto Bossi resigns as the head of the Italian Northern League following a corruption scandal. 
 
 Leading Italian populist politician Umberto Bossi resigns as head of the Northern League after a financial scandal engulfs the party.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17630364)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59522000/jpg/_59522697_014446432-1.jpg)

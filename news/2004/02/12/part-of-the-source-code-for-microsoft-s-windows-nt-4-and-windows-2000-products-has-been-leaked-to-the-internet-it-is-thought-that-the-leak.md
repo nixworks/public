@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/12/part-of-the-source-code-for-microsoft-s-windows-nt-4-and-windows-2000-products-has-been-leaked-to-the-internet-it-is-thought-that-the-leak.html)  [JSON](/news/2004/02/12/part-of-the-source-code-for-microsoft-s-windows-nt-4-and-windows-2000-products-has-been-leaked-to-the-internet-it-is-thought-that-the-leak.json)  [XML](/news/2004/02/12/part-of-the-source-code-for-microsoft-s-windows-nt-4-and-windows-2000-products-has-been-leaked-to-the-internet-it-is-thought-that-the-leak.xml)  
+
 ### [2004-02-12](/news/2004/02/12/index.md)
 
+##### code
 #  Part of the source code for Microsoft's Windows NT 4 and Windows 2000 products has been leaked to the internet. It is thought that the leak constitutes only a part of the source, and may have originated from Mainsoft. Copies of something purporting to be the Windows source have been reported to be available on various file sharing networks.
 
 

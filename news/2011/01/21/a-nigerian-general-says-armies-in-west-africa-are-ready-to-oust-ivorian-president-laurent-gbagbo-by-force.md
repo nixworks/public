@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/21/a-nigerian-general-says-armies-in-west-africa-are-ready-to-oust-ivorian-president-laurent-gbagbo-by-force.html)  [JSON](/news/2011/01/21/a-nigerian-general-says-armies-in-west-africa-are-ready-to-oust-ivorian-president-laurent-gbagbo-by-force.json)  [XML](/news/2011/01/21/a-nigerian-general-says-armies-in-west-africa-are-ready-to-oust-ivorian-president-laurent-gbagbo-by-force.xml)  
+
 ### [2011-01-21](/news/2011/01/21/index.md)
 
+##### Nigeria
 # A Nigerian general says armies in West Africa are ready to oust Ivorian president Laurent Gbagbo by force. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/201112173355327825.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/21/201112173336217580_20.jpg)

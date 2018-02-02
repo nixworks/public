@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/13/hamas-militants-kill-at-least-16-palestinians-including-2-unrwa-workers-and-13-fatah-members-as-clashes-intensify-in-the-gaza-strip.html)  [JSON](/news/2007/06/13/hamas-militants-kill-at-least-16-palestinians-including-2-unrwa-workers-and-13-fatah-members-as-clashes-intensify-in-the-gaza-strip.json)  [XML](/news/2007/06/13/hamas-militants-kill-at-least-16-palestinians-including-2-unrwa-workers-and-13-fatah-members-as-clashes-intensify-in-the-gaza-strip.xml)  
+
 ### [2007-06-13](/news/2007/06/13/index.md)
 
+##### Hamas
 #  Hamas militants kill at least 16 Palestinians, including 2 UNRWA workers and 13 Fatah members, as clashes intensify in the Gaza Strip. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/hasen/spages/870548.html)
 

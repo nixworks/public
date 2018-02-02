@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/03/1/the-president-of-armenia-robert-kocharyan-declares-a-state-of-emergency-following-anti-government-protests-in-yerevan.html)  [JSON](/news/2008/03/1/the-president-of-armenia-robert-kocharyan-declares-a-state-of-emergency-following-anti-government-protests-in-yerevan.json)  [XML](/news/2008/03/1/the-president-of-armenia-robert-kocharyan-declares-a-state-of-emergency-following-anti-government-protests-in-yerevan.xml)  
+
 ### [2008-03-1](/news/2008/03/1/index.md)
 
+##### Armenian President
 #  The President of Armenia Robert Kocharyan declares a state of emergency following anti-government protests in Yerevan. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSL0153930520080301?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080301&t=2&i=3358466&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-03-01T234124Z_01_L01539305_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSL0153930520080301?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20080301&t=2&i=3358466&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-03-01T234124Z_01_L01539305_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

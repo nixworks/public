@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/10/a-magnitude-5-7-earthquake-occurs-in-northern-t
 
 ### [2016-09-10](/news/2016/09/10/index.md)
 
+##### 2016 Tanzanian earthquake
 # A magnitude 5.7 earthquake occurs in northern Tanzania, near Lake Victoria, killing at least 13 people and injuring 200 others. Tanzanian authorities report significant damage in the town of Bukoba. The governments of Burundi, Kenya, Rwanda, and Uganda report tremors. 
 
 A magnitude 5.7 earthquake kills at least 13 people and injures more than 200 in northern Tanzania.

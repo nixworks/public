@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/7/philippines-president-rodrigo-duterte-accuses-th
 
 ### [2016-12-7](/news/2016/12/7/index.md)
 
+##### drug crackdown
 # Philippines president Rodrigo Duterte accuses the opposition Liberal Party of trying to oust him and install the current vice president Leni Robredo to the presidency. 
 
 

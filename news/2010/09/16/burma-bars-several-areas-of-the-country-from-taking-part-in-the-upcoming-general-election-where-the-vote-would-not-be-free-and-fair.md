@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/16/burma-bars-several-areas-of-the-country-from-taking-part-in-the-upcoming-general-election-where-the-vote-would-not-be-free-and-fair.html)  [JSON](/news/2010/09/16/burma-bars-several-areas-of-the-country-from-taking-part-in-the-upcoming-general-election-where-the-vote-would-not-be-free-and-fair.json)  [XML](/news/2010/09/16/burma-bars-several-areas-of-the-country-from-taking-part-in-the-upcoming-general-election-where-the-vote-would-not-be-free-and-fair.xml)  
+
 ### [2010-09-16](/news/2010/09/16/index.md)
 
+##### Burma
 # Burma bars several areas of the country from taking part in the upcoming general election where the vote would "not be free and fair". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11334399)
 2. [Mizzima](http://www.mizzima.com/news/breaking-and-news-brief/4370-elections-not-viable-in-some-ethnic-areas-poll-watchdog.html)

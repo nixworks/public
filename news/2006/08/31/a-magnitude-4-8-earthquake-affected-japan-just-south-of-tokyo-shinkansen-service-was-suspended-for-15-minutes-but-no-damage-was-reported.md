@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/08/31/a-magnitude-4-8-earthquake-affected-japan-just-south-of-tokyo-shinkansen-service-was-suspended-for-15-minutes-but-no-damage-was-reported.html)  [JSON](/news/2006/08/31/a-magnitude-4-8-earthquake-affected-japan-just-south-of-tokyo-shinkansen-service-was-suspended-for-15-minutes-but-no-damage-was-reported.json)  [XML](/news/2006/08/31/a-magnitude-4-8-earthquake-affected-japan-just-south-of-tokyo-shinkansen-service-was-suspended-for-15-minutes-but-no-damage-was-reported.xml)  
+
 ### [2006-08-31](/news/2006/08/31/index.md)
 
+##### Japan
 #  A magnitude 4.8 earthquake affected Japan just south of Tokyo. Shinkansen service was suspended for 15 minutes but no damage was reported. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601101&sid=a0fBizbRB.vU&refer=japan)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601101&sid=a0fBizbRB.vU&refer=japan)
 2. [Mainichi](http://mdn.mainichi-msn.co.jp/national/news/20060831p2a00m0na031000c.html)
 
 ### Related:

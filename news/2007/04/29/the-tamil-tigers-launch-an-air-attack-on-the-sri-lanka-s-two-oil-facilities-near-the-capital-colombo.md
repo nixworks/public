@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/04/29/the-tamil-tigers-launch-an-air-attack-on-the-sri-lanka-s-two-oil-facilities-near-the-capital-colombo.html)  [JSON](/news/2007/04/29/the-tamil-tigers-launch-an-air-attack-on-the-sri-lanka-s-two-oil-facilities-near-the-capital-colombo.json)  [XML](/news/2007/04/29/the-tamil-tigers-launch-an-air-attack-on-the-sri-lanka-s-two-oil-facilities-near-the-capital-colombo.xml)  
+
 ### [2007-04-29](/news/2007/04/29/index.md)
 
+##### Tamil Tigers
 #  The Tamil Tigers launch an air attack on the Sri Lanka's two oil facilities near the capital Colombo. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSL285489020070428)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20070428&t=2&i=716679&w=&fh=545px&fw=&ll=&pl=&sq=&r=716679)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSL285489020070428)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20070428&t=2&i=716679&w=&fh=545px&fw=&ll=&pl=&sq=&r=716679)
 
 ### Related:
 

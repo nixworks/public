@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/07/6/in-bolivia-the-senate-decides-to-call-for-early-elections-there-will-also-be-a-referendum-on-regional-autonomy-next-july.html)  [JSON](/news/2005/07/6/in-bolivia-the-senate-decides-to-call-for-early-elections-there-will-also-be-a-referendum-on-regional-autonomy-next-july.json)  [XML](/news/2005/07/6/in-bolivia-the-senate-decides-to-call-for-early-elections-there-will-also-be-a-referendum-on-regional-autonomy-next-july.xml)  
+
 ### [2005-07-6](/news/2005/07/6/index.md)
 
+##### Bolivia
 #  In Bolivia, the senate decides to call for early elections. There will also be a referendum on regional autonomy next July. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4652531.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=a0Q724f_JuvM&refer=latin_america)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000086&sid=a0Q724f_JuvM&refer=latin_america)
 
 ### Related:
 

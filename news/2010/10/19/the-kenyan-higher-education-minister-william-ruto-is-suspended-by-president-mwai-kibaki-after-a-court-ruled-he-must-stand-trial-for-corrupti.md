@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/19/the-kenyan-higher-education-minister-william-ruto-is-suspended-by-president-mwai-kibaki-after-a-court-ruled-he-must-stand-trial-for-corrupti.html)  [JSON](/news/2010/10/19/the-kenyan-higher-education-minister-william-ruto-is-suspended-by-president-mwai-kibaki-after-a-court-ruled-he-must-stand-trial-for-corrupti.json)  [XML](/news/2010/10/19/the-kenyan-higher-education-minister-william-ruto-is-suspended-by-president-mwai-kibaki-after-a-court-ruled-he-must-stand-trial-for-corrupti.xml)  
+
 ### [2010-10-19](/news/2010/10/19/index.md)
 
+##### Kenya
 # The Kenyan Higher Education Minister William Ruto is suspended by President Mwai Kibaki after a court ruled he must stand trial for corruption allegations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Nation](http://www.nation.co.ke/News/politics/Kenya%20minister%20suspended%20over%20fraud%20case/-/1064/1035980/-/ic7vawz/-/)
 2. [Reuters](http://af.reuters.com/article/kenyaNews/idAFLDE69I2B820101019)

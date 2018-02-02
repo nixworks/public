@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/14/typhoon-meranti-hits-southern-taiwan-with-recor
 
 ### [2016-09-14](/news/2016/09/14/index.md)
 
+##### 2016 Pacific typhoon season
 # Typhoon Meranti hits southern Taiwan with record breaking winds and heavy rains, disrupting transport and knocking out power to tens of thousands of people. 
 
 Record-breaking winds and heavy rains disrupted transport today as Super-Typhoon Meranti cut a path across southern Taiwan and headed toward China.

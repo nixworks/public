@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/3/a-fire-destroys-one-of-africa-s-most-popular-markets-in-kumasi-ghana.html)  [JSON](/news/2010/01/3/a-fire-destroys-one-of-africa-s-most-popular-markets-in-kumasi-ghana.json)  [XML](/news/2010/01/3/a-fire-destroys-one-of-africa-s-most-popular-markets-in-kumasi-ghana.xml)  
+
 ### [2010-01-3](/news/2010/01/3/index.md)
 
+##### Africa
 # A fire destroys one of Africa's most popular markets in Kumasi, Ghana. 
 
 Fire gutted a large and popular market in Kumasi, Ghana, known for attracting traders from throughout West Africa, authorities said.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8438242.stm)
 2. [My Joy Online](http://news.myjoyonline.com/news/201001/40010.asp)

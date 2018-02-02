@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2004/12/26/an-earthquake-of-magnitude-9-3-the-strongest-earthquake-in-40-years-strikes-in-the-indian-ocean-off-the-western-coast-of-sumatra-while-i.html)  [JSON](/news/2004/12/26/an-earthquake-of-magnitude-9-3-the-strongest-earthquake-in-40-years-strikes-in-the-indian-ocean-off-the-western-coast-of-sumatra-while-i.json)  [XML](/news/2004/12/26/an-earthquake-of-magnitude-9-3-the-strongest-earthquake-in-40-years-strikes-in-the-indian-ocean-off-the-western-coast-of-sumatra-while-i.xml)  
+
 ### [2004-12-26](/news/2004/12/26/index.md)
 
+##### 2004 Indian Ocean earthquake
 #  An earthquake of magnitude 9.3, the strongest earthquake in 40 years, strikes in the Indian Ocean off the western coast of Sumatra. While initial reports state that the resulting tsunamis killed approximately 100 people, by the end of the day 250,000 people in coastal areas of Thailand, Sri Lanka, the Maldives, India, Bangladesh, Burma, Indonesia and Malaysia had been reported dead or missing. Tremors are also felt as far as Singapore, eastern countries of Africa, and north-western Australia. A state of emergency is declared in Sri Lanka, where over 31,000 people are feared dead. 
 
 Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAsia featuring Business, World, Sport, Entertainment, Technology, Health, Lifestyle and Live Streaming.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4125481.stm)
 2. [CNN](http://www.cnn.com/2004/WORLD/asiapcf/12/26/asia.quake/index.html)
 3. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/124091/1/.html)
 4. [The Star](http://thestar.com.my/news/story.asp?file=/2004/12/26/latest/20333Earthquake&sec=latest)
 5. [The Times of India](http://timesofindia.indiatimes.com/articleshow/971314.cms)
-6. [USGS](http://earthquake.usgs.gov/recenteqsww/Quakes/usslav.htm)
+6. [USGS](https://earthquake.usgs.gov/recenteqsww/Quakes/usslav.htm)
 
 ### Related:
 

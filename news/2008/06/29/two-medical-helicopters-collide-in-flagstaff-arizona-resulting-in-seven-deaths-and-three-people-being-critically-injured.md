@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/29/two-medical-helicopters-collide-in-flagstaff-arizona-resulting-in-seven-deaths-and-three-people-being-critically-injured.html)  [JSON](/news/2008/06/29/two-medical-helicopters-collide-in-flagstaff-arizona-resulting-in-seven-deaths-and-three-people-being-critically-injured.json)  [XML](/news/2008/06/29/two-medical-helicopters-collide-in-flagstaff-arizona-resulting-in-seven-deaths-and-three-people-being-critically-injured.xml)  
+
 ### [2008-06-29](/news/2008/06/29/index.md)
 
+##### Flagstaff, Arizona
 #  Two medical helicopters collide in Flagstaff, Arizona, resulting in seven deaths and three people being critically injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5g6HZJXqz62cEtqvtmre1oRCneshgD91K2PCO2)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/14/russia-s-air-force-says-the-country-may-base-strategic-bombers-in-cuba-or-on-a-venezuelan-island.html)  [JSON](/news/2009/03/14/russia-s-air-force-says-the-country-may-base-strategic-bombers-in-cuba-or-on-a-venezuelan-island.json)  [XML](/news/2009/03/14/russia-s-air-force-says-the-country-may-base-strategic-bombers-in-cuba-or-on-a-venezuelan-island.xml)  
+
 ### [2009-03-14](/news/2009/03/14/index.md)
 
+##### Russia
 #  Russia's Air Force says the country may base strategic bombers in Cuba or on a Venezuelan island. 
 
 A Russian Air Force chief said Saturday that the country could base some strategic bombers in Cuba or on an island offered by Venezuela, the Interfax news agency reported.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/29691183/)
 1. [Cover Image](http://media2.s-nbcnews.com/j/ap/b2ebf0ce-8a1e-4bcb-87e0-99b1b52ab266.standard.jpg)

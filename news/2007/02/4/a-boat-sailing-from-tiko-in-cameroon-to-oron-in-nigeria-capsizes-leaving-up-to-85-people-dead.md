@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/4/a-boat-sailing-from-tiko-in-cameroon-to-oron-in-nigeria-capsizes-leaving-up-to-85-people-dead.html)  [JSON](/news/2007/02/4/a-boat-sailing-from-tiko-in-cameroon-to-oron-in-nigeria-capsizes-leaving-up-to-85-people-dead.json)  [XML](/news/2007/02/4/a-boat-sailing-from-tiko-in-cameroon-to-oron-in-nigeria-capsizes-leaving-up-to-85-people-dead.xml)  
+
 ### [2007-02-4](/news/2007/02/4/index.md)
 
+##### Tiko
 #  A boat sailing from Tiko in Cameroon to Oron in Nigeria capsizes, leaving up to 85 people dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/6331383.stm)
 

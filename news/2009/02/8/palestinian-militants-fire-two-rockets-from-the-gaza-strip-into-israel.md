@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/8/palestinian-militants-fire-two-rockets-from-the-gaza-strip-into-israel.html)  [JSON](/news/2009/02/8/palestinian-militants-fire-two-rockets-from-the-gaza-strip-into-israel.json)  [XML](/news/2009/02/8/palestinian-militants-fire-two-rockets-from-the-gaza-strip-into-israel.xml)  
+
 ### [2009-02-8](/news/2009/02/8/index.md)
 
+##### Palestinian
 #  Palestinian militants fire two rockets from the Gaza Strip into Israel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://haaretz.com/hasen/spages/1062454.html)
 

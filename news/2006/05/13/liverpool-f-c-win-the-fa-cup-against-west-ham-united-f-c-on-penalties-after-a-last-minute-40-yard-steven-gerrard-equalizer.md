@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/13/liverpool-f-c-win-the-fa-cup-against-west-ham-united-f-c-on-penalties-after-a-last-minute-40-yard-steven-gerrard-equalizer.html)  [JSON](/news/2006/05/13/liverpool-f-c-win-the-fa-cup-against-west-ham-united-f-c-on-penalties-after-a-last-minute-40-yard-steven-gerrard-equalizer.json)  [XML](/news/2006/05/13/liverpool-f-c-win-the-fa-cup-against-west-ham-united-f-c-on-penalties-after-a-last-minute-40-yard-steven-gerrard-equalizer.xml)  
+
 ### [2006-05-13](/news/2006/05/13/index.md)
 
+##### Liverpool
 #  Liverpool F.C. win the FA Cup against West Ham United F.C. on penalties after a last minute 40-yard Steven Gerrard equalizer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/football/4316423.stm)
 

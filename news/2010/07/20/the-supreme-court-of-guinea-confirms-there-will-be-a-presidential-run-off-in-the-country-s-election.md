@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/20/the-supreme-court-of-guinea-confirms-there-will-be-a-presidential-run-off-in-the-country-s-election.html)  [JSON](/news/2010/07/20/the-supreme-court-of-guinea-confirms-there-will-be-a-presidential-run-off-in-the-country-s-election.json)  [XML](/news/2010/07/20/the-supreme-court-of-guinea-confirms-there-will-be-a-presidential-run-off-in-the-country-s-election.xml)  
+
 ### [2010-07-20](/news/2010/07/20/index.md)
 
+##### Supreme Court
 # The Supreme Court of Guinea confirms there will be a presidential run-off in the country's election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10707406)
 2. [Miami Herald](http://www.miamiherald.com/2010/07/20/1739231/court-guinea-presidential-vote.html)

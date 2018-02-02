@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/21/japanese-prime-minister-taro-aso-dissolves-the-house-of-representatives-setting-the-stage-for-a-general-election-on-august-30.html)  [JSON](/news/2009/07/21/japanese-prime-minister-taro-aso-dissolves-the-house-of-representatives-setting-the-stage-for-a-general-election-on-august-30.json)  [XML](/news/2009/07/21/japanese-prime-minister-taro-aso-dissolves-the-house-of-representatives-setting-the-stage-for-a-general-election-on-august-30.xml)  
+
 ### [2009-07-21](/news/2009/07/21/index.md)
 
+##### Japan
 #  Japanese Prime Minister Taro Aso dissolves the House of Representatives, setting the stage for a general election on August 30. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2009-07/21/content_11743925.htm)
 

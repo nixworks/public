@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/30/the-death-toll-from-a-fake-medicine-crisis-at-a-cardiology-hospital-in-lahore-pakistan-reaches-112.html)  [JSON](/news/2012/01/30/the-death-toll-from-a-fake-medicine-crisis-at-a-cardiology-hospital-in-lahore-pakistan-reaches-112.json)  [XML](/news/2012/01/30/the-death-toll-from-a-fake-medicine-crisis-at-a-cardiology-hospital-in-lahore-pakistan-reaches-112.xml)  
+
 ### [2012-01-30](/news/2012/01/30/index.md)
 
+##### fake medicine crisis
 # The death toll from a fake medicine crisis at a cardiology hospital in Lahore, Pakistan, reaches 112. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Express Tribune](http://tribune.com.pk/story/328886/fake-medicine-unofficial-death-toll-reaches-111/)
 1. [Cover Image](https://c.tribune.com.pk/2012/01/328886-MedicineDESIGNANAMHALEEM-1327826701-857-640x480.JPG)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/24/sri-lankan-civil-war-two-suspected-tamil-tiger-rebels-are-shot-dead-in-batticaloa-while-being-caught-planting-mines-after-rebels-reported.html)  [JSON](/news/2006/04/24/sri-lankan-civil-war-two-suspected-tamil-tiger-rebels-are-shot-dead-in-batticaloa-while-being-caught-planting-mines-after-rebels-reported.json)  [XML](/news/2006/04/24/sri-lankan-civil-war-two-suspected-tamil-tiger-rebels-are-shot-dead-in-batticaloa-while-being-caught-planting-mines-after-rebels-reported.xml)  
+
 ### [2006-04-24](/news/2006/04/24/index.md)
 
+##### Sri Lankan Civil War
 #  Sri Lankan Civil War: Two suspected Tamil Tiger rebels are shot dead in Batticaloa while being caught planting mines, after rebels reportedly hacked a young mother to death. In the eastern part of the island, two Sinhalese guards are killed as they returned from a funeral and one Tamil is shot dead by unidentified gunmen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4937624.stm)
 

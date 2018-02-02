@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/12/bulk-carrier-m-v-new-flame-collides-with-an-oil-tanker-and-runs-aground-near-the-southernmost-tip-of-gibraltar.html)  [JSON](/news/2007/08/12/bulk-carrier-m-v-new-flame-collides-with-an-oil-tanker-and-runs-aground-near-the-southernmost-tip-of-gibraltar.json)  [XML](/news/2007/08/12/bulk-carrier-m-v-new-flame-collides-with-an-oil-tanker-and-runs-aground-near-the-southernmost-tip-of-gibraltar.xml)  
+
 ### [2007-08-12](/news/2007/08/12/index.md)
 
+##### Bulk-carrier
 #  Bulk-carrier M-V "New Flame" collides with an oil tanker and runs aground near the southernmost tip of Gibraltar. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [International Herald Tribune](http://www.iht.com/articles/ap/2007/08/22/europe/EU-GEN-Spain-Gibraltar-Ship.php)
 

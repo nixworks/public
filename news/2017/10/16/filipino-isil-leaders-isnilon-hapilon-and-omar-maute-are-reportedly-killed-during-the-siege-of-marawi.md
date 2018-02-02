@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/16/filipino-isil-leaders-isnilon-hapilon-and-omar-
 
 ### [2017-10-16](/news/2017/10/16/index.md)
 
+##### Moro conflict
 # Filipino ISIL leaders Isnilon Hapilon and Omar Maute are reportedly killed during the siege of Marawi. 
 
 Omar Maute and Isnilon Hapilon, top leaders of Islamic State-inspired extremists Maute group, were killed in a military assault early Monday, an official said. 

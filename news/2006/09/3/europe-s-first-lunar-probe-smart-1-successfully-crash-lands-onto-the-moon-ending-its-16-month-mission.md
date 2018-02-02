@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/3/europe-s-first-lunar-probe-smart-1-successfully-crash-lands-onto-the-moon-ending-its-16-month-mission.html)  [JSON](/news/2006/09/3/europe-s-first-lunar-probe-smart-1-successfully-crash-lands-onto-the-moon-ending-its-16-month-mission.json)  [XML](/news/2006/09/3/europe-s-first-lunar-probe-smart-1-successfully-crash-lands-onto-the-moon-ending-its-16-month-mission.xml)  
+
 ### [2006-09-3](/news/2006/09/3/index.md)
 
+##### Europe
 #  Europe's first lunar probe, "SMART-1," successfully crash-lands onto the moon, ending its 16-month mission. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/5309656.stm)
 

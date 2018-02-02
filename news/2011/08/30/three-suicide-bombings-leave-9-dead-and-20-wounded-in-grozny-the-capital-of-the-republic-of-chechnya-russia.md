@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/30/three-suicide-bombings-leave-9-dead-and-20-wounded-in-grozny-the-capital-of-the-republic-of-chechnya-russia.html)  [JSON](/news/2011/08/30/three-suicide-bombings-leave-9-dead-and-20-wounded-in-grozny-the-capital-of-the-republic-of-chechnya-russia.json)  [XML](/news/2011/08/30/three-suicide-bombings-leave-9-dead-and-20-wounded-in-grozny-the-capital-of-the-republic-of-chechnya-russia.xml)  
+
 ### [2011-08-30](/news/2011/08/30/index.md)
 
+##### Grozny
 # Three suicide bombings leave 9 dead and 20 wounded in Grozny, the capital of the Republic of Chechnya, Russia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/europe/08/31/chechnya.suicide.bombing/)
 1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/europe/08/31/chechnya.suicide.bombing/tzvids.fighter.afp.gi.jpg)

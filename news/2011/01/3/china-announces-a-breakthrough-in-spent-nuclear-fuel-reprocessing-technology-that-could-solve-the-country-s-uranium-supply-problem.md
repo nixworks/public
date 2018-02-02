@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/3/china-announces-a-breakthrough-in-spent-nuclear-fuel-reprocessing-technology-that-could-solve-the-country-s-uranium-supply-problem.html)  [JSON](/news/2011/01/3/china-announces-a-breakthrough-in-spent-nuclear-fuel-reprocessing-technology-that-could-solve-the-country-s-uranium-supply-problem.json)  [XML](/news/2011/01/3/china-announces-a-breakthrough-in-spent-nuclear-fuel-reprocessing-technology-that-could-solve-the-country-s-uranium-supply-problem.xml)  
+
 ### [2011-01-3](/news/2011/01/3/index.md)
 
+##### China
 # China announces a breakthrough in spent nuclear fuel reprocessing technology that could solve the country's uranium supply problem. 
 
 China has developed its own technologies that will enable it to reprocess spent nuclear fuel, state television reports.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12107126)
 2. [China Daily](http://www.chinadaily.com.cn/china/2011-01/03/content_11788159.htm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/30/fighting-in-the-proposed-somali-capital-of-baidoa-threatens-the-stability-of-the-transitional-federal-government-of-somalia.html)  [JSON](/news/2005/05/30/fighting-in-the-proposed-somali-capital-of-baidoa-threatens-the-stability-of-the-transitional-federal-government-of-somalia.json)  [XML](/news/2005/05/30/fighting-in-the-proposed-somali-capital-of-baidoa-threatens-the-stability-of-the-transitional-federal-government-of-somalia.xml)  
+
 ### [2005-05-30](/news/2005/05/30/index.md)
 
+##### Somalia
 #  Fighting in the proposed Somali capital of Baidoa threatens the stability of the Transitional Federal Government of Somalia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4592953.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/31/darfur-conflict-rwanda-begins-deploying-a-contingent-of-237-troops-to-darfur-sudan-as-part-of-an-african-union-mission-to-bring-stabilit.html)  [JSON](/news/2004/10/31/darfur-conflict-rwanda-begins-deploying-a-contingent-of-237-troops-to-darfur-sudan-as-part-of-an-african-union-mission-to-bring-stabilit.json)  [XML](/news/2004/10/31/darfur-conflict-rwanda-begins-deploying-a-contingent-of-237-troops-to-darfur-sudan-as-part-of-an-african-union-mission-to-bring-stabilit.xml)  
+
 ### [2004-10-31](/news/2004/10/31/index.md)
 
+##### Darfur conflict
 #  Darfur conflict: Rwanda begins deploying a contingent of 237 troops to Darfur, Sudan, as part of an African Union mission to bring stability to the troubled region. Sixty-five soldiers have been sent this weekend; the rest will be deployed as the week progresses. Rwanda already had some troops in Darfur. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/WORLD/africa/10/31/sudan.talks.troops.ap/index.html)
 

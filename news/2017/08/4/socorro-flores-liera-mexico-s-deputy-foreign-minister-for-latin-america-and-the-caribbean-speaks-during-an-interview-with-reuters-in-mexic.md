@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/4/socorro-flores-liera-mexico-s-deputy-foreign-min
 
 ### [2017-08-4](/news/2017/08/4/index.md)
 
+##### Crisis in Venezuela
 # Socorro Flores Liera, Mexico's deputy foreign minister for Latin America and the Caribbean, speaks during an interview with Reuters in Mexico City, that during the first half of 2017, 1,420 Venezuelans have sought asylum in Mexico, a nearly four-fold jump compared to the 361 total Venezuelan asylum applicants for all of 2016, as the result of Venezuela's deepening political and economic crisis. 
 
 

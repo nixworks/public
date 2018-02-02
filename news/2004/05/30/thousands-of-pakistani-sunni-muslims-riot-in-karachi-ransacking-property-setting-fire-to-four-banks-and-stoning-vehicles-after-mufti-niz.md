@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2004/05/30/thousands-of-pakistani-sunni-muslims-riot-in-karachi-ransacking-property-setting-fire-to-four-banks-and-stoning-vehicles-after-mufti-niz.html)  [JSON](/news/2004/05/30/thousands-of-pakistani-sunni-muslims-riot-in-karachi-ransacking-property-setting-fire-to-four-banks-and-stoning-vehicles-after-mufti-niz.json)  [XML](/news/2004/05/30/thousands-of-pakistani-sunni-muslims-riot-in-karachi-ransacking-property-setting-fire-to-four-banks-and-stoning-vehicles-after-mufti-niz.xml)  
+
 ### [2004-05-30](/news/2004/05/30/index.md)
 
+##### Sunni
 #  Thousands of Pakistani Sunni Muslims riot in Karachi, ransacking property, setting fire to four banks, and stoning vehicles after Mufti Nizamuddin Shamzai, an influential pro-Taliban cleric, is killed in a drive-by shooting. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/3761409.stm)
-2. [NYT](http://www.nytimes.com/aponline/international/AP-Pakistan-Cleric-Killed.html)
+2. [NYT](https://www.nytimes.com/aponline/international/AP-Pakistan-Cleric-Killed.html)
 
 ### Related:
 
-1. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Taliban_
-2. [Pakistani troops rescue Joshua Boyle and Caitlan Coleman, who have been held captive since 2012, and their three children from the Taliban. ](/news/2017/10/11/pakistani-troops-rescue-joshua-boyle-and-caitlan-coleman-who-have-been-held-captive-since-2012-and-their-three-children-from-the-taliban.md) _Context: Taliban_
-3. [At least 11 Afghan civilians are killed and 16 wounded when a NATO helicopter attacked a house where Taliban insurgents had taken shelter in Logar Province, east of Kabul. ](/news/2017/08/30/at-least-11-afghan-civilians-are-killed-and-16-wounded-when-a-nato-helicopter-attacked-a-house-where-taliban-insurgents-had-taken-shelter-in.md) _Context: Taliban_
-4. [A suicide bomber kills five people at the entrance of a Kabul Bank subsidiary near the Embassy of the United States in Kabul. The Taliban claims their attack targeted soldiers and police withdrawing their salaries. ](/news/2017/08/29/a-suicide-bomber-kills-five-people-at-the-entrance-of-a-kabul-bank-subsidiary-near-the-embassy-of-the-united-states-in-kabul-the-taliban-cl.md) _Context: Taliban_
-5. [According to the Defense Ministry, between 26 and 30 military personnel are dead and over 80 Taliban militants have been either killed or wounded amid intense fighting at a military base in Kandahar Province. ](/news/2017/07/26/according-to-the-defense-ministry-between-26-and-30-military-personnel-are-dead-and-over-80-taliban-militants-have-been-either-killed-or-wo.md) _Context: Taliban_
+1. [ More than 200 people die in accidents related to storms in Karachi, Pakistan. ](/news/2018/06/24/more-than-200-people-die-in-accidents-related-to-storms-in-karachi-pakistan.md) _Context: Karachi_
+2. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: Taliban_
+3. [Six insurgents kill at least 18 people, including 4 Afghans and 14 foreigners, in a 13-hour gun battle. The Afghan Interior Ministry says that the siege ended when the last gunman was shot dead. NATO reports that "no foreign troops" died. The Taliban claim that they sent five suicide bombers armed with hand grenades and AK-47 assault rifles. The Afghan government blames the attack on the Pakistan-based Haqqani network. ](/news/2018/01/21/six-insurgents-kill-at-least-18-people-including-4-afghans-and-14-foreigners-in-a-13-hour-gun-battle-the-afghan-interior-ministry-says-th.md) _Context: Taliban_
+4. [Joshua Boyle, a Canadian man recently rescued from a Taliban linked group, is arrested on 15 charges, including assault, sexual assault, and unlawful confinement. ](/news/2018/01/2/joshua-boyle-a-canadian-man-recently-rescued-from-a-taliban-linked-group-is-arrested-on-15-charges-including-assault-sexual-assault-and.md) _Context: Taliban_
+5. [Oliver Ivanovic, the head politician of the Kosovo Serb party Freedom, Democracy, Justice, is killed outside his office in North Mitrovica in a drive-by shooting. Aleksandar Vucic, the President of Serbia says his government treats this as an act of terrorism. ](/news/2018/01/16/oliver-ivanovia-the-head-politician-of-the-kosovo-serb-party-freedom-democracy-justice-is-killed-outside-his-office-in-north-mitrovica.md) _Context: drive-by shooting_

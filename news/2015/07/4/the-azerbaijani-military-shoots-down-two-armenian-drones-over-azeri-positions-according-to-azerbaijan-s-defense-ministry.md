@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2015/07/4/the-azerbaijani-military-shoots-down-two-armenian-drones-over-azeri-positions-according-to-azerbaijan-s-defense-ministry.html)  [JSON](/news/2015/07/4/the-azerbaijani-military-shoots-down-two-armenian-drones-over-azeri-positions-according-to-azerbaijan-s-defense-ministry.json)  [XML](/news/2015/07/4/the-azerbaijani-military-shoots-down-two-armenian-drones-over-azeri-positions-according-to-azerbaijan-s-defense-ministry.xml)  
+
 ### [2015-07-4](/news/2015/07/4/index.md)
 
+##### Nagorno-Karabakh conflict
 #  The Azerbaijani military shoots down two Armenian drones over Azeri positions according to Azerbaijan's defense ministry. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TREND](http://en.trend.az/azerbaijan/karabakh/2414186.html)
+
+### Changes:
+
+1. [ Nagorno-Karabakh conflict: The Azerbaijani military shoots down two Armenian drones over Azeri positions according to Azerbaijan's defense ministry. ](/news/2015/07/4/nagorno-karabakh-conflict-the-azerbaijani-military-shoots-down-two-armenian-drones-over-azeri-positions-according-to-azerbaijan-s-defense.md) _2017-08-27 03:42:39 (First version)_
+1. [ The Azerbaijani military shoots down two Armenian drones over Azeri positions according to Azerbaijan's defense ministry. ](/news/2015/07/4/the-azerbaijani-military-shoots-down-two-armenian-drones-over-azeri-positions-according-to-azerbaijan-s-defense-ministry.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [The government of Armenia claims that Azerbaijani forces shelled Tavush Province resulting in three deaths. ](/news/2015/09/24/the-government-of-armenia-claims-that-azerbaijani-forces-shelled-tavush-province-resulting-in-three-deaths.md) _Context: Armenia, Nagorno-Karabakh conflict_
 4. [At least eight Azeri soldiers are killed following clashes with Armenian troops on the border and near the disputed Nagorno-Karabakh region. Azerbaijan said Armenia had also suffered losses, although it did not provide any details. ](/news/2014/08/1/at-least-eight-azeri-soldiers-are-killed-following-clashes-with-armenian-troops-on-the-border-and-near-the-disputed-nagorno-karabakh-region.md) _Context: Armenia, Nagorno-Karabakh conflict_
 5. [Authorities declare that the Republican Party, led by President Serzh Sargsyan, wins the Armenia election amid accusations by opposition parties and the Organization for Security and Co-operation in Europe of voting irregularities. ](/news/2017/04/3/authorities-declare-that-the-republican-party-led-by-president-serzh-sargsyan-wins-the-armenia-election-amid-accusations-by-opposition-par.md) _Context: Armenia_
-
-### Changes:
-
-1. [ Nagorno-Karabakh conflict: The Azerbaijani military shoots down two Armenian drones over Azeri positions according to Azerbaijan's defense ministry. ](/news/2015/07/4/nagorno-karabakh-conflict-the-azerbaijani-military-shoots-down-two-armenian-drones-over-azeri-positions-according-to-azerbaijan-s-defense.md) _2017-08-27 03:42:39 (First version)_
-1. [ The Azerbaijani military shoots down two Armenian drones over Azeri positions according to Azerbaijan's defense ministry. ](/news/2015/07/4/the-azerbaijani-military-shoots-down-two-armenian-drones-over-azeri-positions-according-to-azerbaijan-s-defense-ministry.md) _(Current version)_

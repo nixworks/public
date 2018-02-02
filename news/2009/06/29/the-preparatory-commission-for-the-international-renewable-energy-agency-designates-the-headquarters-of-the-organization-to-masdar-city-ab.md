@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2009/06/29/the-preparatory-commission-for-the-international-renewable-energy-agency-designates-the-headquarters-of-the-organization-to-masdar-city-ab.html)  [JSON](/news/2009/06/29/the-preparatory-commission-for-the-international-renewable-energy-agency-designates-the-headquarters-of-the-organization-to-masdar-city-ab.json)  [XML](/news/2009/06/29/the-preparatory-commission-for-the-international-renewable-energy-agency-designates-the-headquarters-of-the-organization-to-masdar-city-ab.xml)  
+
 ### [2009-06-29](/news/2009/06/29/index.md)
 
+##### International Renewable Energy Agency
 #  The Preparatory Commission for the International Renewable Energy Agency designates the headquarters of the organization to Masdar City, Abu Dhabi. [http:--www.dw-world.de-dw-article-0,,4442082,00.html?maca=en-en_nr-1893-xml-atom "(Deutsche Welle)"]
 
 

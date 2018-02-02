@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/10/the-international-monetary-fund-warns-of-a-slowdown-of-the-global-economy-in-2008-as-a-result-of-financial-turmoil-on-global-markets.html)  [JSON](/news/2007/10/10/the-international-monetary-fund-warns-of-a-slowdown-of-the-global-economy-in-2008-as-a-result-of-financial-turmoil-on-global-markets.json)  [XML](/news/2007/10/10/the-international-monetary-fund-warns-of-a-slowdown-of-the-global-economy-in-2008-as-a-result-of-financial-turmoil-on-global-markets.xml)  
+
 ### [2007-10-10](/news/2007/10/10/index.md)
 
+##### International Monetary Fund
 #  The International Monetary Fund warns of a slowdown of the global economy in 2008 as a result of financial turmoil on global markets. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/7037005.stm)
 

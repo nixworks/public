@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/7/the-philippines-commemorates-the-anniversary-of-typhoon-haiyan-yolanda-which-destroyed-much-of-the-city-of-tacloban.html)  [JSON](/news/2014/11/7/the-philippines-commemorates-the-anniversary-of-typhoon-haiyan-yolanda-which-destroyed-much-of-the-city-of-tacloban.json)  [XML](/news/2014/11/7/the-philippines-commemorates-the-anniversary-of-typhoon-haiyan-yolanda-which-destroyed-much-of-the-city-of-tacloban.xml)  
+
 ### [2014-11-7](/news/2014/11/7/index.md)
 
+##### Philippines
 # The Philippines commemorates the anniversary of Typhoon Haiyan (Yolanda) which destroyed much of the city of Tacloban. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/11/06/world/asia/philippines-typhoon-haiyan-one-year/)
 

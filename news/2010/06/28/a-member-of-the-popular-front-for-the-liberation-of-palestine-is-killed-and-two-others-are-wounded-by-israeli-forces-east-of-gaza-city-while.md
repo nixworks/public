@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/28/a-member-of-the-popular-front-for-the-liberation-of-palestine-is-killed-and-two-others-are-wounded-by-israeli-forces-east-of-gaza-city-while.html)  [JSON](/news/2010/06/28/a-member-of-the-popular-front-for-the-liberation-of-palestine-is-killed-and-two-others-are-wounded-by-israeli-forces-east-of-gaza-city-while.json)  [XML](/news/2010/06/28/a-member-of-the-popular-front-for-the-liberation-of-palestine-is-killed-and-two-others-are-wounded-by-israeli-forces-east-of-gaza-city-while.xml)  
+
 ### [2010-06-28](/news/2010/06/28/index.md)
 
+##### PFLP
 # A member of the Popular Front for the Liberation of Palestine is killed and two others are wounded by Israeli forces east of Gaza City while firing rockets into Israel 
 
 Member of Popular Front&#39;s military wing killed by army after firing mortar shells at troops
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hSyCbiZcw2XUDyeLs4obqIqXNWJg)
 2. [JTA](http://www.jta.org/news/article/2010/06/28/2739816/gazan-palestinian-killed-in-israeli-air-strike)

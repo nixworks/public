@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/25/pete-sampras-announces-his-retirement-from-competitive-tennis.html)  [JSON](/news/2003/08/25/pete-sampras-announces-his-retirement-from-competitive-tennis.json)  [XML](/news/2003/08/25/pete-sampras-announces-his-retirement-from-competitive-tennis.xml)  
+
 ### [2003-08-25](/news/2003/08/25/index.md)
 
+##### Pete Sampras
 #  Pete Sampras announces his retirement from competitive tennis.
 
 

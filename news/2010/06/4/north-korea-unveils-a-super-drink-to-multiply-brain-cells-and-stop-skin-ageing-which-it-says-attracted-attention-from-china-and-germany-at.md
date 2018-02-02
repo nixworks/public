@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/4/north-korea-unveils-a-super-drink-to-multiply-brain-cells-and-stop-skin-ageing-which-it-says-attracted-attention-from-china-and-germany-at.html)  [JSON](/news/2010/06/4/north-korea-unveils-a-super-drink-to-multiply-brain-cells-and-stop-skin-ageing-which-it-says-attracted-attention-from-china-and-germany-at.json)  [XML](/news/2010/06/4/north-korea-unveils-a-super-drink-to-multiply-brain-cells-and-stop-skin-ageing-which-it-says-attracted-attention-from-china-and-germany-at.xml)  
+
 ### [2010-06-4](/news/2010/06/4/index.md)
 
+##### North Korea
 # North Korea unveils a "super drink" to multiply brain cells and stop skin ageing which it says attracted attention from China and Germany at a trade fair in Pyongyang. 
 
 North Korea announces the development of a &quot;super drink&quot; that, it says, can multiply brain cells and stop skin ageing.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10237314.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE6531GD20100604)

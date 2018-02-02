@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/24/apple-computer-announces-a-recall-of-1-8-million-batteries-for-its-powerbook-g4-and-ibook-g4-models.html)  [JSON](/news/2006/08/24/apple-computer-announces-a-recall-of-1-8-million-batteries-for-its-powerbook-g4-and-ibook-g4-models.json)  [XML](/news/2006/08/24/apple-computer-announces-a-recall-of-1-8-million-batteries-for-its-powerbook-g4-and-ibook-g4-models.xml)  
+
 ### [2006-08-24](/news/2006/08/24/index.md)
 
+##### Apple Computer
 #  Apple Computer announces a recall of 1.8 million batteries for its PowerBook G4 and iBook G4 models. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2006/08/24/technology/apple_recall/index.htm?cnn=yes)
 

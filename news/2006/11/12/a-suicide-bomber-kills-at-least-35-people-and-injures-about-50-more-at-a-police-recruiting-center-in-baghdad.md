@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/12/a-suicide-bomber-kills-at-least-35-people-and-injures-about-50-more-at-a-police-recruiting-center-in-baghdad.html)  [JSON](/news/2006/11/12/a-suicide-bomber-kills-at-least-35-people-and-injures-about-50-more-at-a-police-recruiting-center-in-baghdad.json)  [XML](/news/2006/11/12/a-suicide-bomber-kills-at-least-35-people-and-injures-about-50-more-at-a-police-recruiting-center-in-baghdad.xml)  
+
 ### [2006-11-12](/news/2006/11/12/index.md)
 
+##### suicide bomber
 #  A suicide bomber kills at least 35 people and injures about 50 more at a police recruiting center in Baghdad. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory?id=2647285&CMP=OTC-RSSFeeds0312)
 

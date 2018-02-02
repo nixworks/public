@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/1/fifa-suspends-bosnia-and-herzegovina-from-international-football-after-its-failure-to-drop-a-rotating-presidential-system-between-a-muslim.html)  [JSON](/news/2011/04/1/fifa-suspends-bosnia-and-herzegovina-from-international-football-after-its-failure-to-drop-a-rotating-presidential-system-between-a-muslim.json)  [XML](/news/2011/04/1/fifa-suspends-bosnia-and-herzegovina-from-international-football-after-its-failure-to-drop-a-rotating-presidential-system-between-a-muslim.xml)  
+
 ### [2011-04-1](/news/2011/04/1/index.md)
 
+##### FIFA
 # FIFA suspends Bosnia and Herzegovina from international football after its failure to drop a rotating presidential system between a Muslim, a Serb and a Croat, which is similar to the country's complex political system. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/football/12933096.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/13/mercedes-benz-s-2009-sales-rise-77-in-the-people-s-republic-of-china.html)  [JSON](/news/2010/01/13/mercedes-benz-s-2009-sales-rise-77-in-the-people-s-republic-of-china.json)  [XML](/news/2010/01/13/mercedes-benz-s-2009-sales-rise-77-in-the-people-s-republic-of-china.xml)  
+
 ### [2010-01-13](/news/2010/01/13/index.md)
 
+##### Mercedes-Benz
 # Mercedes-Benz's 2009 sales rise 77% in the People's Republic of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2010-01/12/content_12798388.htm)
 

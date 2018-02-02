@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/16/a-book-written-by-chinese-dissident-yu-jie-critical-of-premier-wen-jiabao-goes-on-sale-in-hong-kong-with-threats-of-imprisonment-from-the-m.html)  [JSON](/news/2010/08/16/a-book-written-by-chinese-dissident-yu-jie-critical-of-premier-wen-jiabao-goes-on-sale-in-hong-kong-with-threats-of-imprisonment-from-the-m.json)  [XML](/news/2010/08/16/a-book-written-by-chinese-dissident-yu-jie-critical-of-premier-wen-jiabao-goes-on-sale-in-hong-kong-with-threats-of-imprisonment-from-the-m.xml)  
+
 ### [2010-08-16](/news/2010/08/16/index.md)
 
+##### China
 # A book written by Chinese dissident Yu Jie critical of Premier Wen Jiabao goes on sale in Hong Kong, with threats of imprisonment from the mainland. 
 
 A book criticising the Chinese premier went on sale in Hong Kong Monday, despite alleged threats by Beijing against its author. Writer Yu Jie says he was...
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10983310)
 2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?hightlight&20100816&56&691335)

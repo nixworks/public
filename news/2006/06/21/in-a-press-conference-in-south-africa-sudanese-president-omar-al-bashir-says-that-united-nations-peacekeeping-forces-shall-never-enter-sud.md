@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/21/in-a-press-conference-in-south-africa-sudanese-president-omar-al-bashir-says-that-united-nations-peacekeeping-forces-shall-never-enter-sud.html)  [JSON](/news/2006/06/21/in-a-press-conference-in-south-africa-sudanese-president-omar-al-bashir-says-that-united-nations-peacekeeping-forces-shall-never-enter-sud.json)  [XML](/news/2006/06/21/in-a-press-conference-in-south-africa-sudanese-president-omar-al-bashir-says-that-united-nations-peacekeeping-forces-shall-never-enter-sud.xml)  
+
 ### [2006-06-21](/news/2006/06/21/index.md)
 
+##### South Africa
 #  In a press conference in South Africa, Sudanese President Omar al-Bashir says that United Nations peacekeeping forces shall never enter Sudan because they are controlled by an international Jewish conspiracy involving "heavy propaganda and media campaigns." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SudanTribune](http://www.sudantribune.com/article.php3?id_article=16309)
 

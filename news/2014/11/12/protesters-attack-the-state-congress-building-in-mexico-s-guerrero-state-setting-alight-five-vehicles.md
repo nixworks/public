@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2014/11/12/protesters-attack-the-state-congress-building-in-mexico-s-guerrero-state-setting-alight-five-vehicles.html)  [JSON](/news/2014/11/12/protesters-attack-the-state-congress-building-in-mexico-s-guerrero-state-setting-alight-five-vehicles.json)  [XML](/news/2014/11/12/protesters-attack-the-state-congress-building-in-mexico-s-guerrero-state-setting-alight-five-vehicles.xml)  
+
 ### [2014-11-12](/news/2014/11/12/index.md)
 
+##### 2014 Iguala mass kidnapping
 # Protesters attack the State Congress building in Mexico's Guerrero state setting alight five vehicles. 
 
 Demonstrators attack the Guerrero state congress building in south-west Mexico, in new protests over the case of 43 missing students.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-30031500)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78951000/jpg/_78951554_78951553.jpg)
+
+### Changes:
+
+1. [2014 Iguala mass kidnapping: Protesters attack the State Congress building in Mexico's Guerrero state setting alight five vehicles. ](/news/2014/11/12/2014-iguala-mass-kidnapping-protesters-attack-the-state-congress-building-in-mexico-s-guerrero-state-setting-alight-five-vehicles.md) _2017-08-27 03:41:30 (First version)_
+1. [Protesters attack the State Congress building in Mexico's Guerrero state setting alight five vehicles. ](/news/2014/11/12/protesters-attack-the-state-congress-building-in-mexico-s-guerrero-state-setting-alight-five-vehicles.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Demonstrators attack the Guerrero state congress building in south-west Mexico, 
 3. [The bodies of six people are found in a rural village in Guerrero state in southern Mexico. ](/news/2016/01/7/the-bodies-of-six-people-are-found-in-a-rural-village-in-guerrero-state-in-southern-mexico.md) _Context: Guerrero, Mexico_
 4. [Forensic specialists at the University of Innsbruck confirm the identity of the first of the 43 missing students in Guerrero. The remains were located at a municipal dump in Cocula, Guerrero. ](/news/2014/12/6/forensic-specialists-at-the-university-of-innsbruck-confirm-the-identity-of-the-first-of-the-43-missing-students-in-guerrero-the-remains-we.md) _Context: 2014 Iguala mass kidnapping, Guerrero_
 5. [Protesters in the Mexican state of Guerrero attack the state government headquarters in the state capital Chilpancingo over the disappearance of 43 students. ](/news/2014/10/13/protesters-in-the-mexican-state-of-guerrero-attack-the-state-government-headquarters-in-the-state-capital-chilpancingo-over-the-disappearanc.md) _Context: Guerrero, Mexico_
-
-### Changes:
-
-1. [2014 Iguala mass kidnapping: Protesters attack the State Congress building in Mexico's Guerrero state setting alight five vehicles. ](/news/2014/11/12/2014-iguala-mass-kidnapping-protesters-attack-the-state-congress-building-in-mexico-s-guerrero-state-setting-alight-five-vehicles.md) _2017-08-27 03:41:30 (First version)_
-1. [Protesters attack the State Congress building in Mexico's Guerrero state setting alight five vehicles. ](/news/2014/11/12/protesters-attack-the-state-congress-building-in-mexico-s-guerrero-state-setting-alight-five-vehicles.md) _(Current version)_

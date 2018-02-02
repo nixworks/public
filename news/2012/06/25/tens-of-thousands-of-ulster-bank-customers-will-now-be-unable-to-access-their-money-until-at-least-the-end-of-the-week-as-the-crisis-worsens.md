@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/25/tens-of-thousands-of-ulster-bank-customers-will-now-be-unable-to-access-their-money-until-at-least-the-end-of-the-week-as-the-crisis-worsens.html)  [JSON](/news/2012/06/25/tens-of-thousands-of-ulster-bank-customers-will-now-be-unable-to-access-their-money-until-at-least-the-end-of-the-week-as-the-crisis-worsens.json)  [XML](/news/2012/06/25/tens-of-thousands-of-ulster-bank-customers-will-now-be-unable-to-access-their-money-until-at-least-the-end-of-the-week-as-the-crisis-worsens.xml)  
+
 ### [2012-06-25](/news/2012/06/25/index.md)
 
+##### Ulster Bank
 # Tens of thousands of Ulster Bank customers will now be unable to access their money until at least the end of the week as the crisis worsens, with monthly salaries due to be paid this week. 
 
 A BACKLOG in payments affecting more than 100,000 Ulster Bank customers will not be resolved until the end of the week, the bank&hellip;
 
 
-### Source:
+### Sources:
 
 1. [Irish Examiner](http://www.irishexaminer.com/ireland/ulster-bank-fiasco-to-continue-until-at-least-end-of-week-198653.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2012/0625/1224318625113.html)

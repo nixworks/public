@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/1/conflict-in-iraq-at-least-six-us-marines-have-died-following-an-insurgent-attack-in-haditha-140-miles-northwest-of-baghdad-iraq.html)  [JSON](/news/2005/08/1/conflict-in-iraq-at-least-six-us-marines-have-died-following-an-insurgent-attack-in-haditha-140-miles-northwest-of-baghdad-iraq.json)  [XML](/news/2005/08/1/conflict-in-iraq-at-least-six-us-marines-have-died-following-an-insurgent-attack-in-haditha-140-miles-northwest-of-baghdad-iraq.xml)  
+
 ### [2005-08-1](/news/2005/08/1/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: At least six US Marines have died following an insurgent attack in Haditha, 140 miles northwest of Baghdad, Iraq. 
 
 Get local DC, Maryland and Virginia news plus DC breaking news, business, green, national, and world news from NBC4 Washington.
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://www.nbc4.com/news/4798419/detail.html)
 1. [Cover Image](http://media.nbcwashington.com/designimages/nbcdc_station_logo.jpg?ak=bc)

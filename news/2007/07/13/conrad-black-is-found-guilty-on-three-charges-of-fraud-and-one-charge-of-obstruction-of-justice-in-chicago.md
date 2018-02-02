@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/13/conrad-black-is-found-guilty-on-three-charges-of-fraud-and-one-charge-of-obstruction-of-justice-in-chicago.html)  [JSON](/news/2007/07/13/conrad-black-is-found-guilty-on-three-charges-of-fraud-and-one-charge-of-obstruction-of-justice-in-chicago.json)  [XML](/news/2007/07/13/conrad-black-is-found-guilty-on-three-charges-of-fraud-and-one-charge-of-obstruction-of-justice-in-chicago.xml)  
+
 ### [2007-07-13](/news/2007/07/13/index.md)
 
+##### Conrad Black
 #  Conrad Black is found guilty on three charges of fraud and one charge of obstruction of justice in Chicago. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/6897991.stm)
 

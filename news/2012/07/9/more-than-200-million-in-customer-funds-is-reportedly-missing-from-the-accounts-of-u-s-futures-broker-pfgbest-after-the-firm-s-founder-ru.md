@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/9/more-than-200-million-in-customer-funds-is-reportedly-missing-from-the-accounts-of-u-s-futures-broker-pfgbest-after-the-firm-s-founder-ru.html)  [JSON](/news/2012/07/9/more-than-200-million-in-customer-funds-is-reportedly-missing-from-the-accounts-of-u-s-futures-broker-pfgbest-after-the-firm-s-founder-ru.json)  [XML](/news/2012/07/9/more-than-200-million-in-customer-funds-is-reportedly-missing-from-the-accounts-of-u-s-futures-broker-pfgbest-after-the-firm-s-founder-ru.xml)  
+
 ### [2012-07-9](/news/2012/07/9/index.md)
 
+##### PFGBest
 # More than $200 million in customer funds is reportedly missing from the accounts of U.S. futures broker PFGBest, after the firm's founder Russell Wasendorf attempted suicide outside the company's Iowa headquarters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/business/2012/jul/10/pfgbest-founder-200m-accounts?newsfeed=true)
 

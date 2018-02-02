@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/7/thousands-of-striking-bus-workers-march-through-south-africa-s-biggest-city-johannesburg.html)  [JSON](/news/2013/05/7/thousands-of-striking-bus-workers-march-through-south-africa-s-biggest-city-johannesburg.json)  [XML](/news/2013/05/7/thousands-of-striking-bus-workers-march-through-south-africa-s-biggest-city-johannesburg.xml)  
+
 ### [2013-05-7](/news/2013/05/7/index.md)
 
+##### South Africa
 # Thousands of striking bus workers march through South Africa's biggest city, Johannesburg. 
 
 Thousands of striking bus drivers are expected to march through the streets of Johannesburg to demand a wage increase. 
 
 
-### Source:
+### Sources:
 
 1. [News 24](http://www.news24.com/SouthAfrica/News/Striking-bus-workers-to-march-in-Joburg-20130507)
 1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2116/c6af67c1e1a941cd913b371dc149afc6.jpg)

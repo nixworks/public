@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/8/dr-margaret-chan-former-director-of-hong-kong-health-department-represented-china-to-win-the-nomination-to-the-director-general-of-the-w.html)  [JSON](/news/2006/11/8/dr-margaret-chan-former-director-of-hong-kong-health-department-represented-china-to-win-the-nomination-to-the-director-general-of-the-w.json)  [XML](/news/2006/11/8/dr-margaret-chan-former-director-of-hong-kong-health-department-represented-china-to-win-the-nomination-to-the-director-general-of-the-w.xml)  
+
 ### [2006-11-8](/news/2006/11/8/index.md)
 
+##### Margaret Chan
 #  Dr. Margaret Chan, former director of Hong Kong Health Department, represented China to win the nomination to the Director-General of the World Health Organization. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/health/6128220.stm)
 2. [Peoples' Daily Online](http://english.people.com.cn/200611/08/eng20061108_319651.html)

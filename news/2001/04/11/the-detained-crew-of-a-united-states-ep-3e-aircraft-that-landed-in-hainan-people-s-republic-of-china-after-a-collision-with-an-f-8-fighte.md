@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/04/11/the-detained-crew-of-a-united-states-ep-3e-aircraft-that-landed-in-hainan-people-s-republic-of-china-after-a-collision-with-an-f-8-fighte.html)  [JSON](/news/2001/04/11/the-detained-crew-of-a-united-states-ep-3e-aircraft-that-landed-in-hainan-people-s-republic-of-china-after-a-collision-with-an-f-8-fighte.json)  [XML](/news/2001/04/11/the-detained-crew-of-a-united-states-ep-3e-aircraft-that-landed-in-hainan-people-s-republic-of-china-after-a-collision-with-an-f-8-fighte.xml)  
+
 ### [2001-04-11](/news/2001/04/11/index.md)
 
+##### EP-3E
 #  The detained crew of a United States EP-3E aircraft that landed in Hainan, People's Republic of China, after a collision with an F-8 fighter, is released.
 
 

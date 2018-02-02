@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/21/india-s-supreme-court-sentences-actor-and-politician-sanjay-dutt-to-5-years-in-prison-over-illegal-arms-possession-related-to-the-1993-mumb.html)  [JSON](/news/2013/03/21/india-s-supreme-court-sentences-actor-and-politician-sanjay-dutt-to-5-years-in-prison-over-illegal-arms-possession-related-to-the-1993-mumb.json)  [XML](/news/2013/03/21/india-s-supreme-court-sentences-actor-and-politician-sanjay-dutt-to-5-years-in-prison-over-illegal-arms-possession-related-to-the-1993-mumb.xml)  
+
 ### [2013-03-21](/news/2013/03/21/index.md)
 
+##### India
 # India's Supreme Court sentences actor and politician Sanjay Dutt to 5 years in prison over illegal arms possession, related to the 1993 Mumbai bombings. The death sentence of Yakub Memon, convicted mastermind of the bombings, has been upheld. 
 
 SC upheld the conviction of Sanjay Dutt in the Mumbai serial blasts case and sentenced him to 5 years imprisonment. The actor has one month to surrender.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-21873316)
 2. [Times of India](http://timesofindia.indiatimes.com/india/Sanjay-Dutt-gets-5-years-in-jail-in-1993-Mumbai-blasts-case/articleshow/19104492.cms)

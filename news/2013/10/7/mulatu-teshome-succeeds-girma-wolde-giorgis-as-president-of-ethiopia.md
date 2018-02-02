@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/7/mulatu-teshome-succeeds-girma-wolde-giorgis-as-president-of-ethiopia.html)  [JSON](/news/2013/10/7/mulatu-teshome-succeeds-girma-wolde-giorgis-as-president-of-ethiopia.json)  [XML](/news/2013/10/7/mulatu-teshome-succeeds-girma-wolde-giorgis-as-president-of-ethiopia.xml)  
+
 ### [2013-10-7](/news/2013/10/7/index.md)
 
+##### Mulatu Teshome
 # Mulatu Teshome succeeds Girma Wolde-Giorgis as President of Ethiopia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ERTA](http://www.ertagov.com/news/index.php/component/k2/item/1684-dr-mulatu-teshome-elected-new-president-of-ethiopia)
 

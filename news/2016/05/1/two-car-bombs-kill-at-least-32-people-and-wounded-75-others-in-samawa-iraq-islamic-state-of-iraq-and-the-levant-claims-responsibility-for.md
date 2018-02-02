@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/1/two-car-bombs-kill-at-least-32-people-and-wounde
 
 ### [2016-05-1](/news/2016/05/1/index.md)
 
+##### Iraqi Civil War
 #  Two car bombs kill at least 32 people and wounded 75 others in Samawa, Iraq. Islamic State of Iraq and the Levant claims responsibility for the attack. 
 
 Two suicide car bombs claimed by Islamic State killed at least 32 people and wounded 75 others in the center of the southern Iraqi city of Samawa on Sunday, police and medics said.

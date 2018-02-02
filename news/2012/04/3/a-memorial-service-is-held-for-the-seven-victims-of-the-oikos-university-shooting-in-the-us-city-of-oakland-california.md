@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/3/a-memorial-service-is-held-for-the-seven-victims-of-the-oikos-university-shooting-in-the-us-city-of-oakland-california.html)  [JSON](/news/2012/04/3/a-memorial-service-is-held-for-the-seven-victims-of-the-oikos-university-shooting-in-the-us-city-of-oakland-california.json)  [XML](/news/2012/04/3/a-memorial-service-is-held-for-the-seven-victims-of-the-oikos-university-shooting-in-the-us-city-of-oakland-california.xml)  
+
 ### [2012-04-3](/news/2012/04/3/index.md)
 
+##### Oikos University shooting
 # A memorial service is held for the seven victims of the Oikos University shooting in the US city of Oakland, California. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/04/03/us/california-shooting/)
 

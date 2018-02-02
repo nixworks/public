@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/07/4/shareholders-of-french-liquor-distributor-pernod-ricard-approve-its-acquisition-of-britain-s-allied-domecq-parent-company-of-us-coffee-and.html)  [JSON](/news/2005/07/4/shareholders-of-french-liquor-distributor-pernod-ricard-approve-its-acquisition-of-britain-s-allied-domecq-parent-company-of-us-coffee-and.json)  [XML](/news/2005/07/4/shareholders-of-french-liquor-distributor-pernod-ricard-approve-its-acquisition-of-britain-s-allied-domecq-parent-company-of-us-coffee-and.xml)  
+
 ### [2005-07-4](/news/2005/07/4/index.md)
 
+##### Pernod Ricard
 #  Shareholders of French liquor distributor Pernod Ricard approve its acquisition of Britain's Allied Domecq, parent company of US coffee and baked goods chain Dunkin' Donuts
 
 

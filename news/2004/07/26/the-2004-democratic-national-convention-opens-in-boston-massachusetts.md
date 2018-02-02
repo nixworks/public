@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/26/the-2004-democratic-national-convention-opens-in-boston-massachusetts.html)  [JSON](/news/2004/07/26/the-2004-democratic-national-convention-opens-in-boston-massachusetts.json)  [XML](/news/2004/07/26/the-2004-democratic-national-convention-opens-in-boston-massachusetts.xml)  
+
 ### [2004-07-26](/news/2004/07/26/index.md)
 
+##### Democratic Convention
 #  The 2004 Democratic National Convention opens in Boston, Massachusetts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/3925421.stm)
 2. [Guardian](http://www.guardian.co.uk/uselections2004/story/0,13918,1269340,00.html)

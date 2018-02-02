@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/12/taliban-militants-kill-26-people-in-attacks-on-three-government-buildings-in-kabul-afghanistan.html)  [JSON](/news/2009/02/12/taliban-militants-kill-26-people-in-attacks-on-three-government-buildings-in-kabul-afghanistan.json)  [XML](/news/2009/02/12/taliban-militants-kill-26-people-in-attacks-on-three-government-buildings-in-kabul-afghanistan.xml)  
+
 ### [2009-02-12](/news/2009/02/12/index.md)
 
+##### Taliban
 #  Taliban militants kill 26 people in attacks on three government buildings in Kabul, Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://www.skynews.com.au/news/article.aspx?id=302346)
 

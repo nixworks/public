@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/13/at-least-one-person-is-killed-and-another-eight
 
 ### [2017-03-13](/news/2017/03/13/index.md)
 
+##### War in Afghanistan (2015-present)
 # At least one person is killed and another eight are wounded after a suicide bomber attacks a bus carrying government employees in Kabul. 
 
 Apparent roadside bomb attack targeting state telecom workers strikes in smart Kabul district, killing at least one. 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/27/former-wbo-heavyweight-champion-herbie-hide-is-questioned-by-police-in-connection-with-the-supply-of-illegal-drugs-after-he-voluntarily-atte.html)  [JSON](/news/2013/02/27/former-wbo-heavyweight-champion-herbie-hide-is-questioned-by-police-in-connection-with-the-supply-of-illegal-drugs-after-he-voluntarily-atte.json)  [XML](/news/2013/02/27/former-wbo-heavyweight-champion-herbie-hide-is-questioned-by-police-in-connection-with-the-supply-of-illegal-drugs-after-he-voluntarily-atte.xml)  
+
 ### [2013-02-27](/news/2013/02/27/index.md)
 
+##### WBO
 # Former WBO heavyweight champion Herbie Hide is questioned by police in connection with the supply of illegal drugs after he voluntarily attended a police station. He denies the allegation by "The Sun" newspaper that he offered to throw a fight for GBP1 million. 
 
 Boxer Herbie Hide has been questioned by police in connection with the supply of illegal drugs after he voluntarily attended a police station.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-norfolk-21608418)
 2. [The Sun](http://www.thesun.co.uk/sol/homepage/news/4809904/Herbie-Hide-peddles-cocaine-and-offers-to-throw-title-fight.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/29/the-philadelphia-phillies-win-the-2008-world-series-4-games-to-1-defeating-the-tampa-bay-rays-4-3-in-game-5.html)  [JSON](/news/2008/10/29/the-philadelphia-phillies-win-the-2008-world-series-4-games-to-1-defeating-the-tampa-bay-rays-4-3-in-game-5.json)  [XML](/news/2008/10/29/the-philadelphia-phillies-win-the-2008-world-series-4-games-to-1-defeating-the-tampa-bay-rays-4-3-in-game-5.xml)  
+
 ### [2008-10-29](/news/2008/10/29/index.md)
 
+##### Philadelphia Phillies
 #  The Philadelphia Phillies win the 2008 World Series 4 games to 1, defeating the Tampa Bay Rays 4-3 in Game 5. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The New York Times](http://bats.blogs.nytimes.com/?hp)
 

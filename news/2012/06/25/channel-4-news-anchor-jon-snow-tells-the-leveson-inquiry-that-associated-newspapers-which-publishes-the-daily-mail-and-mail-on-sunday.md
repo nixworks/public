@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/25/channel-4-news-anchor-jon-snow-tells-the-leveson-inquiry-that-associated-newspapers-which-publishes-the-daily-mail-and-mail-on-sunday.html)  [JSON](/news/2012/06/25/channel-4-news-anchor-jon-snow-tells-the-leveson-inquiry-that-associated-newspapers-which-publishes-the-daily-mail-and-mail-on-sunday.json)  [XML](/news/2012/06/25/channel-4-news-anchor-jon-snow-tells-the-leveson-inquiry-that-associated-newspapers-which-publishes-the-daily-mail-and-mail-on-sunday.xml)  
+
 ### [2012-06-25](/news/2012/06/25/index.md)
 
+##### Channel 4
 # Channel 4 news anchor Jon Snow tells the Leveson Inquiry that Associated Newspapers, which publishes the "Daily Mail" and "Mail on Sunday", is worse than News International's titles, that it has a "pernicious" and sometimes "mendacious" agenda to undermine people in public life, and predicts that "very possibly they will go after me for saying so". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/media/2012/jun/25/jon-snow-leveson-inquiry)
 

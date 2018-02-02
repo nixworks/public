@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/9/the-german-airline-lufthansa-suspends-929-flights-leaving-113-000-passengers-stranded-as-a-result-of-a-cabin-crew-strike.html)  [JSON](/news/2015/11/9/the-german-airline-lufthansa-suspends-929-flights-leaving-113-000-passengers-stranded-as-a-result-of-a-cabin-crew-strike.json)  [XML](/news/2015/11/9/the-german-airline-lufthansa-suspends-929-flights-leaving-113-000-passengers-stranded-as-a-result-of-a-cabin-crew-strike.xml)  
+
 ### [2015-11-9](/news/2015/11/9/index.md)
 
+##### Lufthansa
 # The German airline Lufthansa suspends 929 flights leaving 113,000 passengers stranded as a result of a cabin crew strike. 
 
 Germany&#x27;s biggest airline Lufthansa scrapped 929 flights on Monday, grounding 113,000 passengers as cabin crew expanded their strike, and the walkout was set to continue despite a new offer from the company. The action, in its third day, is expected to last a week, becoming the longest in Lufthansa
 
 
-### Source:
+### Sources:
 
 1. [AFP via Yahoo! finance](http://finance.yahoo.com/news/lufthansa-cabin-crew-strike-leaves-113-000-passengers-005000126.html)
 1. [Cover Image](http://l.yimg.com/uu/api/res/1.2/7bvBSPV2BhdXxA9JyFohbQ--/aD02Njg7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-DV-DV2176270-1-1-0.jpg)

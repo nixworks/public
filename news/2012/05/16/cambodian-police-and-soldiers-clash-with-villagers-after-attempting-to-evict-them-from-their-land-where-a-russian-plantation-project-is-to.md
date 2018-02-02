@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/16/cambodian-police-and-soldiers-clash-with-villagers-after-attempting-to-evict-them-from-their-land-where-a-russian-plantation-project-is-to.html)  [JSON](/news/2012/05/16/cambodian-police-and-soldiers-clash-with-villagers-after-attempting-to-evict-them-from-their-land-where-a-russian-plantation-project-is-to.json)  [XML](/news/2012/05/16/cambodian-police-and-soldiers-clash-with-villagers-after-attempting-to-evict-them-from-their-land-where-a-russian-plantation-project-is-to.xml)  
+
 ### [2012-05-16](/news/2012/05/16/index.md)
 
+##### Cambodia
 # Cambodian police and soldiers clash with villagers after attempting to evict them from their land, where a Russian plantation project is to be headquartered. A teenage girl has reportedly been killed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Jakarta Post](http://www.thejakartapost.com/news/2012/05/16/cambodian-forces-evict-more-farmers-homes.html)
 

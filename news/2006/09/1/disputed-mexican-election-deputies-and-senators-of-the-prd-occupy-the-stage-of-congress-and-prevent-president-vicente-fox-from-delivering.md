@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2006/09/1/disputed-mexican-election-deputies-and-senators-of-the-prd-occupy-the-stage-of-congress-and-prevent-president-vicente-fox-from-delivering.html)  [JSON](/news/2006/09/1/disputed-mexican-election-deputies-and-senators-of-the-prd-occupy-the-stage-of-congress-and-prevent-president-vicente-fox-from-delivering.json)  [XML](/news/2006/09/1/disputed-mexican-election-deputies-and-senators-of-the-prd-occupy-the-stage-of-congress-and-prevent-president-vicente-fox-from-delivering.xml)  
+
 ### [2006-09-1](/news/2006/09/1/index.md)
 
+##### Disputed Mexican election
 #  Disputed Mexican election: Deputies and senators of the PRD occupy the stage of Congress and prevent President Vicente Fox from delivering his final State of the Nation speech. Fox later addresses the nation on an all-channel telecast. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.phillyburbs.com/pb-dyn/news/88-09012006-706373.html)
-2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/09/01/AR2006090100206.html?nav=rss_email/components)
+2. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2006/09/01/AR2006090100206.html?nav=rss_email/components)
 2. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/27/taoiseach-enda-kenny-makes-a-televised-address-on-the-european-fiscal-compact-ahead-of-thursday-s-referendum.html)  [JSON](/news/2012/05/27/taoiseach-enda-kenny-makes-a-televised-address-on-the-european-fiscal-compact-ahead-of-thursday-s-referendum.json)  [XML](/news/2012/05/27/taoiseach-enda-kenny-makes-a-televised-address-on-the-european-fiscal-compact-ahead-of-thursday-s-referendum.xml)  
+
 ### [2012-05-27](/news/2012/05/27/index.md)
 
+##### Enda Kenny
 # Taoiseach Enda Kenny makes a televised address on the European Fiscal Compact ahead of Thursday's referendum. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/0527/breaking6.html)
 1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)

@@ -1,20 +1,24 @@
+
+Formats: [HTML](/news/2013/10/7/six-egyptian-soldiers-are-killed-in-an-ambush-west-of-ismaa-lia-close-to-the-suez-canal-in-the-south-sinai-a-suicide-bomber-kills-3-and-i.html)  [JSON](/news/2013/10/7/six-egyptian-soldiers-are-killed-in-an-ambush-west-of-ismaa-lia-close-to-the-suez-canal-in-the-south-sinai-a-suicide-bomber-kills-3-and-i.json)  [XML](/news/2013/10/7/six-egyptian-soldiers-are-killed-in-an-ambush-west-of-ismaa-lia-close-to-the-suez-canal-in-the-south-sinai-a-suicide-bomber-kills-3-and-i.xml)  
+
 ### [2013-10-7](/news/2013/10/7/index.md)
 
+##### Islamist protests in Egypt (July 2013-present)
 # Six Egyptian soldiers are killed in an ambush west of Ismailia, close to the Suez Canal. In the South Sinai, a suicide bomber kills 3 and injures 55 others after an attack against security buildings in the provincial capital El-Tor. 
 
 Suspected militants killed six Egyptian soldiers near the Suez Canal and fired rocket-propelled grenades at a state satellite station in Cairo on Monday, suggesting an Islamist insurgency was gathering pace three months after an army takeover.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/10/egypt-unrest-continues-with-series-attacks-201310716028596332.html)
-2. [Reuters](http://www.reuters.com/article/2013/10/07/us-egypt-protests-idUSBRE99506720131007)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131007&t=2&i=800739533&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9960W1600)
+2. [Reuters](https://www.reuters.com/article/2013/10/07/us-egypt-protests-idUSBRE99506720131007)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20131007&t=2&i=800739533&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9960W1600)
 
 ### Related:
 
-1. [A suicide bombing took place near a Pakistan army truck in Quetta, Balochistan, Pakistan, leaving 15 people dead including 8 soldiers, while injuring 40 others. ](/news/2017/08/12/a-suicide-bombing-took-place-near-a-pakistan-army-truck-in-quetta-balochistan-pakistan-leaving-15-people-dead-including-8-soldiers-while.md) _Context: suicide bombing_
-2. [A coordinated suicide bombing attack on a police station in the town of Gardez in Paktia Province results in dozens of people killed and injured. ](/news/2017/06/18/a-coordinated-suicide-bombing-attack-on-a-police-station-in-the-town-of-gardez-in-paktia-province-results-in-dozens-of-people-killed-and-inj.md) _Context: suicide bombing_
-3. [A suicide bombing occurs in Kabul near the German embassy with at least 90 killed and 461 injured. ](/news/2017/05/31/a-suicide-bombing-occurs-in-kabul-near-the-german-embassy-with-at-least-90-killed-and-461-injured.md) _Context: suicide bombing_
-4. [A suicide bombing attack on a NATO convoy in Kabul kills eight civilians and wounds at least 28 people. ](/news/2017/05/3/a-suicide-bombing-attack-on-a-nato-convoy-in-kabul-kills-eight-civilians-and-wounds-at-least-28-people.md) _Context: suicide bombing_
-5. [At least 32 people are killed and another 80 injured in a suicide bombing at a Kabul Shia mosque. ISIL claims responsibility. ](/news/2016/11/21/at-least-32-people-are-killed-and-another-80-injured-in-a-suicide-bombing-at-a-kabul-shia-mosque-isil-claims-responsibility.md) _Context: suicide bombing_
+1. [Suicide bombings kill at least 23 people across Iraq. ](/news/2014/11/12/suicide-bombings-kill-at-least-23-people-across-iraq.md) _Context: Suicide bombing_
+2. [An Egyptian court sentences 26 people to death in absentia for plotting attacks on ships passing through the Suez Canal. ](/news/2014/02/26/an-egyptian-court-sentences-26-people-to-death-in-absentia-for-plotting-attacks-on-ships-passing-through-the-suez-canal.md) _Context: Suez Canal_
+3. [A bomb targeting an Egyptian military intelligence building north of Cairo in the village of Anshas wounds four soldiers. ](/news/2013/12/29/a-bomb-targeting-an-egyptian-military-intelligence-building-north-of-cairo-in-the-village-of-anshas-wounds-four-soldiers.md) _Context: Islamist protests in Egypt (July 2013-present)_
+4. [Supporters of the Islamist Muslim Brotherhood clash with police at Al-Azhar University in Cairo, Egypt. One person is killed and two campus buildings are set on fire. ](/news/2013/12/28/supporters-of-the-islamist-muslim-brotherhood-clash-with-police-at-al-azhar-university-in-cairo-egypt-one-person-is-killed-and-two-campus.md) _Context: Islamist protests in Egypt (July 2013-present)_
+5. [Two tourists, an Israeli and a Norwegian, are kidnapped in the South Sinai of Egypt by armed tribesmen. ](/news/2013/03/22/two-tourists-an-israeli-and-a-norwegian-are-kidnapped-in-the-south-sinai-of-egypt-by-armed-tribesmen.md) _Context: South Sinai_

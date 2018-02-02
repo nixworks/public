@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/24/one-person-dies-and-another-two-are-injured-when-a-shell-left-over-from-the-vietnam-war-explodes-in-the-central-province-of-quang-ngai.html)  [JSON](/news/2010/06/24/one-person-dies-and-another-two-are-injured-when-a-shell-left-over-from-the-vietnam-war-explodes-in-the-central-province-of-quang-ngai.json)  [XML](/news/2010/06/24/one-person-dies-and-another-two-are-injured-when-a-shell-left-over-from-the-vietnam-war-explodes-in-the-central-province-of-quang-ngai.xml)  
+
 ### [2010-06-24](/news/2010/06/24/index.md)
 
+##### Vietnam War
 # One person dies and another two are injured when a shell left over from the Vietnam War explodes in the central province of Quang Ngai. 
 
 One person died and another two were injured when a shell leftover from the Vietnam War exploded in the central province of Quang Ngai on Thursday.
 
 
-### Source:
+### Sources:
 
 1. [Thanhnien News](http://www.thanhniennews.com/2010/Pages/20100625163641.aspx)
 1. [Cover Image](http://static.thanhniennews.com/Uploaded/2013/2010/Pictures/June262010/bom17710.jpg)

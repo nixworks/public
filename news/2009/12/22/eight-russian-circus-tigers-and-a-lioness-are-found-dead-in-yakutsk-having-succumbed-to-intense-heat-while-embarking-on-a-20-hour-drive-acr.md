@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/22/eight-russian-circus-tigers-and-a-lioness-are-found-dead-in-yakutsk-having-succumbed-to-intense-heat-while-embarking-on-a-20-hour-drive-acr.html)  [JSON](/news/2009/12/22/eight-russian-circus-tigers-and-a-lioness-are-found-dead-in-yakutsk-having-succumbed-to-intense-heat-while-embarking-on-a-20-hour-drive-acr.json)  [XML](/news/2009/12/22/eight-russian-circus-tigers-and-a-lioness-are-found-dead-in-yakutsk-having-succumbed-to-intense-heat-while-embarking-on-a-20-hour-drive-acr.xml)  
+
 ### [2009-12-22](/news/2009/12/22/index.md)
 
+##### Yakutsk
 #  Eight Russian circus tigers and a lioness are found dead in Yakutsk having succumbed to intense heat while embarking on a 20-hour drive across Siberia. One dog survives. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8426884.stm)
 

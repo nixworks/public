@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/20/the-turkish-republic-of-northern-cyprus-votes-in-its-early-general-election-the-election-was-called-by-president-rauf-denktaa-after-the-c.html)  [JSON](/news/2005/02/20/the-turkish-republic-of-northern-cyprus-votes-in-its-early-general-election-the-election-was-called-by-president-rauf-denktaa-after-the-c.json)  [XML](/news/2005/02/20/the-turkish-republic-of-northern-cyprus-votes-in-its-early-general-election-the-election-was-called-by-president-rauf-denktaa-after-the-c.xml)  
+
 ### [2005-02-20](/news/2005/02/20/index.md)
 
+##### TRNC
 #  The Turkish Republic of Northern Cyprus votes in its early general election. The election was called by President Rauf Denktas after the coalition led by Mehmet Ali Talat finally lost its parliamentary majority. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4277671.stm)
 2. [DW](http://www.dw-world.de/dw/article/0,1564,1492636,00.html)

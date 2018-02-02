@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/14/japanese-prime-minister-taro-aso-survives-a-vote-of-no-confidence.html)  [JSON](/news/2009/07/14/japanese-prime-minister-taro-aso-survives-a-vote-of-no-confidence.json)  [XML](/news/2009/07/14/japanese-prime-minister-taro-aso-survives-a-vote-of-no-confidence.xml)  
+
 ### [2009-07-14](/news/2009/07/14/index.md)
 
+##### Japan
 #  Japanese Prime Minister Taro Aso survives a vote of no-confidence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hlQO-kyvIEyrc0I90V5l0LFN7JTwD99E3NT00)
 2. [Mainichi Daily News](http://mdn.mainichi.jp/mdnnews/national/news/20090714p2g00m0dm026000c.html)

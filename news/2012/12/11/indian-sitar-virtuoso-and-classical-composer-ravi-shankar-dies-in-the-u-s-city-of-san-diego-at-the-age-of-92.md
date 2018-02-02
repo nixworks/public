@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/11/indian-sitar-virtuoso-and-classical-composer-ravi-shankar-dies-in-the-u-s-city-of-san-diego-at-the-age-of-92.html)  [JSON](/news/2012/12/11/indian-sitar-virtuoso-and-classical-composer-ravi-shankar-dies-in-the-u-s-city-of-san-diego-at-the-age-of-92.json)  [XML](/news/2012/12/11/indian-sitar-virtuoso-and-classical-composer-ravi-shankar-dies-in-the-u-s-city-of-san-diego-at-the-age-of-92.xml)  
+
 ### [2012-12-11](/news/2012/12/11/index.md)
 
+##### Indians
 # Indian sitar virtuoso and classical composer Ravi Shankar dies in the U.S. city of San Diego at the age of 92. 
 
 Sitar player Ravi Shankar, who popularised Indian music around the world, dies in hospital in the United States at the age of 92.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-20690632)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/64708000/jpg/_64708410_64708409.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/4/spacex-s-falcon-9-rocket-is-successfully-launched-on-its-maiden-test-flight.html)  [JSON](/news/2010/06/4/spacex-s-falcon-9-rocket-is-successfully-launched-on-its-maiden-test-flight.json)  [XML](/news/2010/06/4/spacex-s-falcon-9-rocket-is-successfully-launched-on-its-maiden-test-flight.xml)  
+
 ### [2010-06-4](/news/2010/06/4/index.md)
 
+##### SpaceX
 # SpaceX's Falcon 9 rocket is successfully launched on its maiden test flight. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science_and_environment/10209704.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

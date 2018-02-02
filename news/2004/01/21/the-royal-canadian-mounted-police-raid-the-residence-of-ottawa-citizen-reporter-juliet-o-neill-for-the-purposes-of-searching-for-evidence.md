@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/21/the-royal-canadian-mounted-police-raid-the-residence-of-ottawa-citizen-reporter-juliet-o-neill-for-the-purposes-of-searching-for-evidence.html)  [JSON](/news/2004/01/21/the-royal-canadian-mounted-police-raid-the-residence-of-ottawa-citizen-reporter-juliet-o-neill-for-the-purposes-of-searching-for-evidence.json)  [XML](/news/2004/01/21/the-royal-canadian-mounted-police-raid-the-residence-of-ottawa-citizen-reporter-juliet-o-neill-for-the-purposes-of-searching-for-evidence.xml)  
+
 ### [2004-01-21](/news/2004/01/21/index.md)
 
+##### Royal Canadian Mounted Police
 #  The Royal Canadian Mounted Police raid the residence of "Ottawa Citizen" reporter Juliet O'Neill for the purposes of searching for evidence of leaked information in the Maher Arar deportation scandal. It was widely denounced by media groups and civil libertarians
 
 

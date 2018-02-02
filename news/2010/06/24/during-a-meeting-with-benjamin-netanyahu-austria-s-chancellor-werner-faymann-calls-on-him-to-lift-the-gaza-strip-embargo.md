@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/24/during-a-meeting-with-benjamin-netanyahu-austria-s-chancellor-werner-faymann-calls-on-him-to-lift-the-gaza-strip-embargo.html)  [JSON](/news/2010/06/24/during-a-meeting-with-benjamin-netanyahu-austria-s-chancellor-werner-faymann-calls-on-him-to-lift-the-gaza-strip-embargo.json)  [XML](/news/2010/06/24/during-a-meeting-with-benjamin-netanyahu-austria-s-chancellor-werner-faymann-calls-on-him-to-lift-the-gaza-strip-embargo.xml)  
+
 ### [2010-06-24](/news/2010/06/24/index.md)
 
+##### Benjamin Netanyahu
 # During a meeting with Benjamin Netanyahu, Austria's Chancellor Werner Faymann calls on him to lift the Gaza Strip embargo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Austrian Independent](http://austrianindependent.com/news/Politics/2010-06-24/3287/Faymann_calls_for_end_of_Gaza_embargo)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/25/at-least-five-people-are-shot-dead-in-two-locations-in-the-us-state-of-indiana.html)  [JSON](/news/2011/09/25/at-least-five-people-are-shot-dead-in-two-locations-in-the-us-state-of-indiana.json)  [XML](/news/2011/09/25/at-least-five-people-are-shot-dead-in-two-locations-in-the-us-state-of-indiana.xml)  
+
 ### [2011-09-25](/news/2011/09/25/index.md)
 
+##### Indiana
 # At least five people are shot dead in two locations in the US state of Indiana. 
 
 Get the latest breaking news across the U.S. on ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/US/wireStory/police-dead-se-indiana-locations-14604526)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/20/ram-nath-kovind-has-won-the-indian-presidential
 
 ### [2017-07-20](/news/2017/07/20/index.md)
 
+##### Ram Nath Kovind
 # Ram Nath Kovind has won the Indian presidential election after securing over two-thirds of the total electoral college votes. 
 
 He defeats Opposition candidate Meira Kumar, garnering more than 65 per cent of the votes in the Electoral College,

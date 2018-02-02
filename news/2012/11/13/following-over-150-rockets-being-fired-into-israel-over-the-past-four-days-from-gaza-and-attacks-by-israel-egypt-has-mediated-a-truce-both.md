@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/13/following-over-150-rockets-being-fired-into-israel-over-the-past-four-days-from-gaza-and-attacks-by-israel-egypt-has-mediated-a-truce-both.html)  [JSON](/news/2012/11/13/following-over-150-rockets-being-fired-into-israel-over-the-past-four-days-from-gaza-and-attacks-by-israel-egypt-has-mediated-a-truce-both.json)  [XML](/news/2012/11/13/following-over-150-rockets-being-fired-into-israel-over-the-past-four-days-from-gaza-and-attacks-by-israel-egypt-has-mediated-a-truce-both.xml)  
+
 ### [2012-11-13](/news/2012/11/13/index.md)
 
+##### Israel
 # Following over 150 rockets being fired into Israel over the past four days from Gaza and attacks by Israel, Egypt has mediated a truce. Both Hamas and Ehud Barak praise the efforts for peace. 
 
 Israel and Hamas agree to hold their fire unless attacked; Defense Minister Barak praises &quot;resilience&quot; of rocket-wracked South.
 
 
-### Source:
+### Sources:
 
 1. [JPost](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=291678)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=207044)

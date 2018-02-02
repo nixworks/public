@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/07/23/a-wave-of-car-bombings-kills-at-least-17-people-in-baghdad.html)  [JSON](/news/2007/07/23/a-wave-of-car-bombings-kills-at-least-17-people-in-baghdad.json)  [XML](/news/2007/07/23/a-wave-of-car-bombings-kills-at-least-17-people-in-baghdad.xml)  
+
 ### [2007-07-23](/news/2007/07/23/index.md)
 
+##### car bomb
 #  A wave of car bombings kills at least 17 people in Baghdad. 
 
 The United States accused Iran in talks on Tuesday of increasing support for militias involved in bloodshed in Iraq but, in a rare sign of cooperation, agreed with Tehran to set up a panel to improve security.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSYAT71336220070724?feedType=RSS)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070724&t=2&i=1181750&w=&fh=545px&fw=&ll=&pl=&sq=&r=1181750)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSYAT71336220070724?feedType=RSS)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20070724&t=2&i=1181750&w=&fh=545px&fw=&ll=&pl=&sq=&r=1181750)
 
 ### Related:
 

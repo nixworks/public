@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/09/1/beslan-hostage-crisis-approximately-30-armed-men-and-women-seize-a-school-in-beslan-north-ossetia-a-russian-city-close-to-chechnya-taki.html)  [JSON](/news/2004/09/1/beslan-hostage-crisis-approximately-30-armed-men-and-women-seize-a-school-in-beslan-north-ossetia-a-russian-city-close-to-chechnya-taki.json)  [XML](/news/2004/09/1/beslan-hostage-crisis-approximately-30-armed-men-and-women-seize-a-school-in-beslan-north-ossetia-a-russian-city-close-to-chechnya-taki.xml)  
+
 ### [2004-09-1](/news/2004/09/1/index.md)
 
+##### Beslan hostage crisis
 #  Beslan hostage crisis: Approximately 30 armed men and women seize a school in Beslan, North Ossetia, a Russian city close to Chechnya, taking over 1,300 adults and children hostage. Russian police and army units quickly surround the school, beginning a three-day standoff. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/in_depth/3616868.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6125624)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6125624)
 
 ### Related:
 

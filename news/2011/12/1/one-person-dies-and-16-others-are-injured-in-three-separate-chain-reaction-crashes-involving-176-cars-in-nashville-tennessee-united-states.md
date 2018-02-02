@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/1/one-person-dies-and-16-others-are-injured-in-three-separate-chain-reaction-crashes-involving-176-cars-in-nashville-tennessee-united-states.html)  [JSON](/news/2011/12/1/one-person-dies-and-16-others-are-injured-in-three-separate-chain-reaction-crashes-involving-176-cars-in-nashville-tennessee-united-states.json)  [XML](/news/2011/12/1/one-person-dies-and-16-others-are-injured-in-three-separate-chain-reaction-crashes-involving-176-cars-in-nashville-tennessee-united-states.xml)  
+
 ### [2011-12-1](/news/2011/12/1/index.md)
 
+##### Nashville, Tennessee
 # One person dies and 16 others are injured in three separate chain-reaction crashes involving 176 cars in Nashville, Tennessee, United States. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/12/01/us/tennessee-crashes/index.html?npt=NP1)
 

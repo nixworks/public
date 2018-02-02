@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/06/8/260-miles-420-km-of-the-missouri-river-are-closed-to-boaters-as-residents-of-the-us-states-of-iowa-nebraska-and-missouri-continue-to-prep.html)  [JSON](/news/2011/06/8/260-miles-420-km-of-the-missouri-river-are-closed-to-boaters-as-residents-of-the-us-states-of-iowa-nebraska-and-missouri-continue-to-prep.json)  [XML](/news/2011/06/8/260-miles-420-km-of-the-missouri-river-are-closed-to-boaters-as-residents-of-the-us-states-of-iowa-nebraska-and-missouri-continue-to-prep.xml)  
+
 ### [2011-06-8](/news/2011/06/8/index.md)
 
+##### Missouri River
 # 260 miles (420 km) of the Missouri River are closed to boaters as residents of the US states of Iowa, Nebraska and Missouri continue to prepare for heavy flooding, with rain in Montana making the situation worse. 
 
 With the heaviest flooding yet to come, officials closed 260 miles of the Missouri River to boaters and residents from Iowa through Nebraska and Missouri were sandbagging on Wednesday to hold back the waters.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/06/09/us-usa-flooding-plains-idUSTRE75748J20110609)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/06/09/us-usa-flooding-plains-idUSTRE75748J20110609)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

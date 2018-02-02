@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/3/the-people-s-republic-of-china-says-it-may-delay-talks-on-a-free-trade-agreement-with-singapore-following-a-recent-visit-to-taiwan-by-singa.html)  [JSON](/news/2004/08/3/the-people-s-republic-of-china-says-it-may-delay-talks-on-a-free-trade-agreement-with-singapore-following-a-recent-visit-to-taiwan-by-singa.json)  [XML](/news/2004/08/3/the-people-s-republic-of-china-says-it-may-delay-talks-on-a-free-trade-agreement-with-singapore-following-a-recent-visit-to-taiwan-by-singa.xml)  
+
 ### [2004-08-3](/news/2004/08/3/index.md)
 
+##### free trade
 #  The People's Republic of China says it may delay talks on a free trade agreement with Singapore following a recent visit to Taiwan by Singapore's deputy prime minister Lee Hsien Loong. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AtOL](http://www.atimes.com/atimes/Southeast_Asia/FH04Ae02.html)
 2. [StraitsTimes](http://straitstimes.asia1.com.sg/topstories/story/0,4386,264986,00.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/13/tyco-international-announces-that-it-will-split-itself-into-three-companies-spinning-off-tyco-healthcare-and-tyco-electronics.html)  [JSON](/news/2006/01/13/tyco-international-announces-that-it-will-split-itself-into-three-companies-spinning-off-tyco-healthcare-and-tyco-electronics.json)  [XML](/news/2006/01/13/tyco-international-announces-that-it-will-split-itself-into-three-companies-spinning-off-tyco-healthcare-and-tyco-electronics.xml)  
+
 ### [2006-01-13](/news/2006/01/13/index.md)
 
+##### Tyco International
 #  Tyco International announces that it will split itself into three companies, spinning off Tyco Healthcare and Tyco Electronics. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Tyco](http://www.tyco.com/livesite/Page/Tyco/Who+We+Are/Press+Center/Press+Releases+Details/??&DCRID=621740718)
 

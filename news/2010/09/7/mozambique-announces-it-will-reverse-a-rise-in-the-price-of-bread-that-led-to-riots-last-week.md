@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/7/mozambique-announces-it-will-reverse-a-rise-in-the-price-of-bread-that-led-to-riots-last-week.html)  [JSON](/news/2010/09/7/mozambique-announces-it-will-reverse-a-rise-in-the-price-of-bread-that-led-to-riots-last-week.json)  [XML](/news/2010/09/7/mozambique-announces-it-will-reverse-a-rise-in-the-price-of-bread-that-led-to-riots-last-week.xml)  
+
 ### [2010-09-7](/news/2010/09/7/index.md)
 
+##### Mozambique
 # Mozambique announces it will reverse a rise in the price of bread that led to riots last week. 
 
 Mozambique says it will reverse the increase in the price of bread that sparked deadly riots last week.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/09/201097131921161458.html)
 2. [BBC](http://www.bbc.co.uk/news/business-11216009)

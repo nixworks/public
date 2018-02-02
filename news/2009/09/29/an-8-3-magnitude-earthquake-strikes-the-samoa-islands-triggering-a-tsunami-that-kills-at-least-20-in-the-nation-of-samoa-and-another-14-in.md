@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/09/29/an-8-3-magnitude-earthquake-strikes-the-samoa-islands-triggering-a-tsunami-that-kills-at-least-20-in-the-nation-of-samoa-and-another-14-in.html)  [JSON](/news/2009/09/29/an-8-3-magnitude-earthquake-strikes-the-samoa-islands-triggering-a-tsunami-that-kills-at-least-20-in-the-nation-of-samoa-and-another-14-in.json)  [XML](/news/2009/09/29/an-8-3-magnitude-earthquake-strikes-the-samoa-islands-triggering-a-tsunami-that-kills-at-least-20-in-the-nation-of-samoa-and-another-14-in.xml)  
+
 ### [2009-09-29](/news/2009/09/29/index.md)
 
+##### magnitude
 #  An 8.3 magnitude earthquake strikes the Samoa Islands, triggering a tsunami that kills at least 20 in the nation of Samoa and another 14 in American Samoa. 
 
 Authorities canceled a Pacific tsunami warning on Wednesday after a huge sub-sea quake sent waves over the Samoa islands, reportedly killing about 14 people but falling short of a regional disaster.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8281616.stm)
-2. [Reuters](http://www.reuters.com/article/newsOne/idUSN2916050620090929)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090929&t=2&i=11769982&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-09-29T220125Z_01_BTRE58S1P6H00_RTROPTP_0_QUAKE-PACIFIC)
+2. [Reuters](https://www.reuters.com/article/newsOne/idUSN2916050620090929)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20090929&t=2&i=11769982&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-09-29T220125Z_01_BTRE58S1P6H00_RTROPTP_0_QUAKE-PACIFIC)
 
 ### Related:
 

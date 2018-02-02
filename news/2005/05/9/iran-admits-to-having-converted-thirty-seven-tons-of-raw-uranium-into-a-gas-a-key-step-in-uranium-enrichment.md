@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/9/iran-admits-to-having-converted-thirty-seven-tons-of-raw-uranium-into-a-gas-a-key-step-in-uranium-enrichment.html)  [JSON](/news/2005/05/9/iran-admits-to-having-converted-thirty-seven-tons-of-raw-uranium-into-a-gas-a-key-step-in-uranium-enrichment.json)  [XML](/news/2005/05/9/iran-admits-to-having-converted-thirty-seven-tons-of-raw-uranium-into-a-gas-a-key-step-in-uranium-enrichment.xml)  
+
 ### [2005-05-9](/news/2005/05/9/index.md)
 
+##### Iran
 #  Iran admits to having converted thirty-seven tons of raw uranium into a gas, a key step in uranium enrichment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-4994127,00.html)
 

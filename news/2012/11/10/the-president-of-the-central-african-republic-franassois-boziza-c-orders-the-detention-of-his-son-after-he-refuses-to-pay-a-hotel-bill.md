@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/10/the-president-of-the-central-african-republic-franassois-boziza-c-orders-the-detention-of-his-son-after-he-refuses-to-pay-a-hotel-bill.html)  [JSON](/news/2012/11/10/the-president-of-the-central-african-republic-franassois-boziza-c-orders-the-detention-of-his-son-after-he-refuses-to-pay-a-hotel-bill.json)  [XML](/news/2012/11/10/the-president-of-the-central-african-republic-franassois-boziza-c-orders-the-detention-of-his-son-after-he-refuses-to-pay-a-hotel-bill.xml)  
+
 ### [2012-11-10](/news/2012/11/10/index.md)
 
+##### Central African Republic
 # The president of the Central African Republic Francois Bozize orders the detention of his son after he refuses to pay a hotel bill. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gIzQ9zqzTV1qzflbwIMlPClPG8-g?docId=CNG.bd0e91d4bd40b9b76e5d9d53d600ba74.501)
 

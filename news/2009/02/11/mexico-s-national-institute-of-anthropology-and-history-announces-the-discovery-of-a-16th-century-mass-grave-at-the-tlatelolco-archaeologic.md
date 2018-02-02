@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/02/11/mexico-s-national-institute-of-anthropology-and-history-announces-the-discovery-of-a-16th-century-mass-grave-at-the-tlatelolco-archaeologic.html)  [JSON](/news/2009/02/11/mexico-s-national-institute-of-anthropology-and-history-announces-the-discovery-of-a-16th-century-mass-grave-at-the-tlatelolco-archaeologic.json)  [XML](/news/2009/02/11/mexico-s-national-institute-of-anthropology-and-history-announces-the-discovery-of-a-16th-century-mass-grave-at-the-tlatelolco-archaeologic.xml)  
+
 ### [2009-02-11](/news/2009/02/11/index.md)
 
+##### Mexico
 #  Mexico's National Institute of Anthropology and History announces the discovery of a 16th-century mass grave at the Tlatelolco archaeological site in Mexico City. 
 
 Archeologists have found a mass grave in Mexico City with four dozen human skeletons laid out in neat lines that could reveal clues about the 16th century Spanish conquest that killed millions.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/scienceNews/idUSTRE51A0J920090211)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090211&t=2&i=8217417&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-11T133627Z_01_BTRE51A11SX00_RTROPTP_0_MEXICO-GRAVES)
+1. [Reuters](https://www.reuters.com/article/scienceNews/idUSTRE51A0J920090211)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20090211&t=2&i=8217417&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-11T133627Z_01_BTRE51A11SX00_RTROPTP_0_MEXICO-GRAVES)
 
 ### Related:
 

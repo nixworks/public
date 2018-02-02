@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2014/10/31/a-mexican-judge-releases-a-united-states-marine-corps-member-detained-for-crossing-the-border-with-loaded-guns-eight-months-ago.html)  [JSON](/news/2014/10/31/a-mexican-judge-releases-a-united-states-marine-corps-member-detained-for-crossing-the-border-with-loaded-guns-eight-months-ago.json)  [XML](/news/2014/10/31/a-mexican-judge-releases-a-united-states-marine-corps-member-detained-for-crossing-the-border-with-loaded-guns-eight-months-ago.xml)  
+
 ### [2014-10-31](/news/2014/10/31/index.md)
 
+##### Mexico
 # A Mexican judge releases a United States Marine Corps member detained for crossing the border with loaded guns eight months ago. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_MARINE_RELEASED?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 
 ### Related:
 
-1. [A Mexican military Bell 412 model helicopter crashes northeast of the town of El Salto in the mountainous state of Durango, seriously injuring one military member aboard and likely killing seven others. ](/news/2017/10/6/a-mexican-military-bell-412-model-helicopter-crashes-northeast-of-the-town-of-el-salto-in-the-mountainous-state-of-durango-seriously-injuri.md) _Context: Mexico_
-2. [U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Mirza Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. ](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-mirza-hekmati-a-u-s-marine-who-was-imprisoned-in-iran.md) _Context: U.S. Marine_
-3. [A riot at Cadereyta Jimenez prison located outside the city of Monterrey, Nuevo Leon, Mexico, kills at least 13 people. ](/news/2017/10/10/a-riot-at-cadereyta-jima-c-nez-prison-located-outside-the-city-of-monterrey-nuevo-leon-mexico-kills-at-least-13-people.md) _Context: Mexico_
-4. [The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md) _Context: Mexico_
-5. [Tsunami waves are reported in Mexico from the earthquake late yesterday with the biggest wave measuring 2.3 feet. ](/news/2017/09/8/tsunami-waves-are-reported-in-mexico-from-the-earthquake-late-yesterday-with-the-biggest-wave-measuring-2-3-feet.md) _Context: Mexico_
+1. [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-pea-a-nieto-and-foreign-secretary-luis-videgaray.md) _Context: Mexico_
+2. [Eleven people are killed in La Concepcion, Mexico, near the Pacific coast resort of Acapulco, following violent clashes involving gunmen, a community police force, and state police in the southern state of Guerrero. ](/news/2018/01/7/eleven-people-are-killed-in-la-concepcia3n-mexico-near-the-pacific-coast-resort-of-acapulco-following-violent-clashes-involving-gunmen-a.md) _Context: Mexico_
+3. [Ten people are killed and two are injured in a car crash near Acapulco, Mexico. ](/news/2017/12/30/ten-people-are-killed-and-two-are-injured-in-a-car-crash-near-acapulco-mexico.md) _Context: Mexico_
+4. [The Federal Bureau of Investigation arrests Everitt Aaron Jameson, a 25-year-old former Marine, on suspicion of planning a terrorist attack in the Pier 39 area over Christmas.](/news/2017/12/22/the-federal-bureau-of-investigation-arrests-everitt-aaron-jameson-a-25-year-old-former-marine-on-suspicion-of-planning-a-terrorist-attack.md) _Context: Marine_
+5. [A tour bus crash in Mexico leaves at least 12 people dead and 18 injured. The cause of the crash is under investigation. ](/news/2017/12/19/a-tour-bus-crash-in-mexico-leaves-at-least-12-people-dead-and-18-injured-the-cause-of-the-crash-is-under-investigation.md) _Context: Mexico_

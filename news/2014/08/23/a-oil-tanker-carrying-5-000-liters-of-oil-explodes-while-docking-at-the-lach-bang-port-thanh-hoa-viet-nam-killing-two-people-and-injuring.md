@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/23/a-oil-tanker-carrying-5-000-liters-of-oil-explodes-while-docking-at-the-lach-bang-port-thanh-hoa-viet-nam-killing-two-people-and-injuring.html)  [JSON](/news/2014/08/23/a-oil-tanker-carrying-5-000-liters-of-oil-explodes-while-docking-at-the-lach-bang-port-thanh-hoa-viet-nam-killing-two-people-and-injuring.json)  [XML](/news/2014/08/23/a-oil-tanker-carrying-5-000-liters-of-oil-explodes-while-docking-at-the-lach-bang-port-thanh-hoa-viet-nam-killing-two-people-and-injuring.xml)  
+
 ### [2014-08-23](/news/2014/08/23/index.md)
 
+##### Thanh Hoa
 # A oil tanker carrying 5,000 liters of oil explodes while docking at the Lach Bang port, Thanh Hoa, Viet Nam killing two people and injuring four others. The fire is ignited either in the oil compartments or from the cooking gas cylinder. 
 
 A oil tanker has exploded while docking at the northern port of Lach Bang, Thanh Hoa Province, killing two people and injuring four others, three of them severely, police said Sunday.
 
 
-### Source:
+### Sources:
 
 1. [Thanh Nien News](http://www.thanhniennews.com/society/2-killed-4-injured-in-vietnam-oil-tanker-explosion-30292.html)
 1. [Cover Image](http://static.thanhniennews.com/Uploaded/danghanh/2014_08_24/1_OVTS.jpg)

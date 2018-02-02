@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/01/28/the-undertaker-wins-the-royal-rumble-match-earning-a-title-shot-at-wrestlemania-23.html)  [JSON](/news/2007/01/28/the-undertaker-wins-the-royal-rumble-match-earning-a-title-shot-at-wrestlemania-23.json)  [XML](/news/2007/01/28/the-undertaker-wins-the-royal-rumble-match-earning-a-title-shot-at-wrestlemania-23.xml)  
+
 ### [2007-01-28](/news/2007/01/28/index.md)
 
+##### The Undertaker
 #  The Undertaker wins the Royal Rumble match earning a title shot at WrestleMania 23
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/8/former-chinese-railways-minister-liu-zhijun-is-given-a-suspended-death-sentence-for-corruption.html)  [JSON](/news/2013/07/8/former-chinese-railways-minister-liu-zhijun-is-given-a-suspended-death-sentence-for-corruption.json)  [XML](/news/2013/07/8/former-chinese-railways-minister-liu-zhijun-is-given-a-suspended-death-sentence-for-corruption.xml)  
+
 ### [2013-07-8](/news/2013/07/8/index.md)
 
+##### Chinese
 # Former Chinese Railways Minister Liu Zhijun is given a suspended death sentence for corruption. 
 
 A Chinese court gives former Railways Minister Liu Zhijun a suspended death sentence for bribery and abuse of power, state media report.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-23222240)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/68072000/jpg/_68072460_68072459.jpg)

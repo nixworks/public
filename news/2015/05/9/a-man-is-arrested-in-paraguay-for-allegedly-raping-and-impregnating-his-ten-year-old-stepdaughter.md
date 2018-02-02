@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/9/a-man-is-arrested-in-paraguay-for-allegedly-raping-and-impregnating-his-ten-year-old-stepdaughter.html)  [JSON](/news/2015/05/9/a-man-is-arrested-in-paraguay-for-allegedly-raping-and-impregnating-his-ten-year-old-stepdaughter.json)  [XML](/news/2015/05/9/a-man-is-arrested-in-paraguay-for-allegedly-raping-and-impregnating-his-ten-year-old-stepdaughter.xml)  
+
 ### [2015-05-9](/news/2015/05/9/index.md)
 
+##### Paraguay
 # A man is arrested in Paraguay for allegedly raping and impregnating his ten-year-old stepdaughter. 
 
 A man who allegedly sexually abused and impregnated his 10-year-old stepdaughter is arrested in Paraguay.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC Online](http://www.abc.net.au/news/2015-05-10/paraguayan-man-arrested-over-rape-of-stepdaughter/6458352)
 1. [Cover Image](http://www.abc.net.au/news/image/6457532-1x1-700x700.jpg)

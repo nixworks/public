@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/09/17/the-united-states-federal-reserve-decides-to-leave-interest-rates-at-a-record-low.html)  [JSON](/news/2015/09/17/the-united-states-federal-reserve-decides-to-leave-interest-rates-at-a-record-low.json)  [XML](/news/2015/09/17/the-united-states-federal-reserve-decides-to-leave-interest-rates-at-a-record-low.xml)  
+
 ### [2015-09-17](/news/2015/09/17/index.md)
 
+##### United States Federal Reserve
 # The United States Federal Reserve decides to leave interest rates at a record low. 
 
 The U.S. Federal Reserve kept interest rates unchanged on Thursday in a bow to worries about the global economy, financial market volatility and sluggish inflation at home, but left open the possibility of a modest policy tightening later this year.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/09/17/us-usa-fed-idUSKCN0RH0GH20150917)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150917&t=2&i=1080196399&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB8G156)
+1. [Reuters](https://www.reuters.com/article/2015/09/17/us-usa-fed-idUSKCN0RH0GH20150917)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20150917&t=2&i=1080196399&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB8G156)
 
 ### Related:
 

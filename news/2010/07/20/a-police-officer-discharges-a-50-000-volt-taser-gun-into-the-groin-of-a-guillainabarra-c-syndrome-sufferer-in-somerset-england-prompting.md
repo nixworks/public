@@ -1,16 +1,25 @@
+
+Formats: [HTML](/news/2010/07/20/a-police-officer-discharges-a-50-000-volt-taser-gun-into-the-groin-of-a-guillainabarra-c-syndrome-sufferer-in-somerset-england-prompting.html)  [JSON](/news/2010/07/20/a-police-officer-discharges-a-50-000-volt-taser-gun-into-the-groin-of-a-guillainabarra-c-syndrome-sufferer-in-somerset-england-prompting.json)  [XML](/news/2010/07/20/a-police-officer-discharges-a-50-000-volt-taser-gun-into-the-groin-of-a-guillainabarra-c-syndrome-sufferer-in-somerset-england-prompting.xml)  
+
 ### [2010-07-20](/news/2010/07/20/index.md)
 
+##### Taser
 # A police officer discharges a 50,000-volt Taser gun into the groin of a Guillain-Barre syndrome sufferer in Somerset, England, prompting a possible legal battle; he denies he was acting in an aggressive manner. 
 
 Police were investigating today after an officer accidentally discharged a 50,000 volt Taser weapon into a man&#039;s groin.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-somerset-10701733)
 2. [Daily Mail](http://www.dailymail.co.uk/news/article-1296195/Police-officer-accidentally-blasts-man-groin-50-000-volt-Taser.html)
-3. [The Independent](http://www.independent.co.uk/news/uk/crime/taser-accidentally-discharged-into-mans-groin-2030889.html)
+3. [The Independent](https://www.independent.co.uk/news/uk/crime/taser-accidentally-discharged-into-mans-groin-2030889.html)
 3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
+
+### Changes:
+
+1. [A police officer discharges a 50,000-volt Taser gun into the groin of a Guillain-Barre syndrome sufferer in Somerset, England, prompting a possible legal battle; he denies he was acting in an aggressive manner. ](/news/2010/07/20/a-police-officer-discharges-a-50-000-volt-taser-gun-into-the-groin-of-a-guillain-barra-c-syndrome-sufferer-in-somerset-england-prompting.md) _2017-08-27 03:28:56 (First version)_
+1. [A police officer discharges a 50,000-volt Taser gun into the groin of a Guillain-Barre syndrome sufferer in Somerset, England, prompting a possible legal battle; he denies he was acting in an aggressive manner. ](/news/2010/07/20/a-police-officer-discharges-a-50-000-volt-taser-gun-into-the-groin-of-a-guillainabarra-c-syndrome-sufferer-in-somerset-england-prompting.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +28,3 @@ Police were investigating today after an officer accidentally discharged a 50,00
 3. [Researchers from London's Natural History Museum claim that ancient skulls found in Gough's Cave in the Cheddar Gorge in the southwestern English county of Somerset show signs of cannibalism. ](/news/2011/02/16/researchers-from-london-s-natural-history-museum-claim-that-ancient-skulls-found-in-gough-s-cave-in-the-cheddar-gorge-in-the-southwestern-en.md) _Context: England, Somerset_
 4. [A hoard of 52,503 Roman coins dating to the third century is found in Somerset, England. ](/news/2010/07/8/a-hoard-of-52-503-roman-coins-dating-to-the-third-century-is-found-in-somerset-england.md) _Context: England, Somerset_
 5. [ A fire destroys the Grand Pier at Weston-super-Mare, Somerset, England. ](/news/2008/07/28/a-fire-destroys-the-grand-pier-at-weston-super-mare-somerset-england.md) _Context: England, Somerset_
-
-### Changes:
-
-1. [A police officer discharges a 50,000-volt Taser gun into the groin of a Guillain-Barre syndrome sufferer in Somerset, England, prompting a possible legal battle; he denies he was acting in an aggressive manner. ](/news/2010/07/20/a-police-officer-discharges-a-50-000-volt-taser-gun-into-the-groin-of-a-guillain-barra-c-syndrome-sufferer-in-somerset-england-prompting.md) _2017-08-27 03:28:56 (First version)_
-1. [A police officer discharges a 50,000-volt Taser gun into the groin of a Guillain-Barre syndrome sufferer in Somerset, England, prompting a possible legal battle; he denies he was acting in an aggressive manner. ](/news/2010/07/20/a-police-officer-discharges-a-50-000-volt-taser-gun-into-the-groin-of-a-guillainabarra-c-syndrome-sufferer-in-somerset-england-prompting.md) _(Current version)_

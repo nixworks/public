@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/30/goodluck-jonathan-suspends-the-nigeria-national-football-team-from-international-competition-for-two-years-due-to-poor-performances-in-the-2.html)  [JSON](/news/2010/06/30/goodluck-jonathan-suspends-the-nigeria-national-football-team-from-international-competition-for-two-years-due-to-poor-performances-in-the-2.json)  [XML](/news/2010/06/30/goodluck-jonathan-suspends-the-nigeria-national-football-team-from-international-competition-for-two-years-due-to-poor-performances-in-the-2.xml)  
+
 ### [2010-06-30](/news/2010/06/30/index.md)
 
+##### Goodluck Jonathan
 # Goodluck Jonathan suspends the Nigeria national football team from international competition for two years due to poor performances in the 2010 FIFA World Cup in South Africa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8777118.stm)
 2. [Reuters](http://af.reuters.com/article/nigeriaNews/idAFLDE65T1YS20100630?feedType=RSS&feedName=nigeriaNews)

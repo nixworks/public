@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/31/twelve-chileans-including-a-catholic-priest-are-charged-for-alleged-involvement-in-death-squads-during-the-rule-of-general-augusto-pinochet.html)  [JSON](/news/2007/08/31/twelve-chileans-including-a-catholic-priest-are-charged-for-alleged-involvement-in-death-squads-during-the-rule-of-general-augusto-pinochet.json)  [XML](/news/2007/08/31/twelve-chileans-including-a-catholic-priest-are-charged-for-alleged-involvement-in-death-squads-during-the-rule-of-general-augusto-pinochet.xml)  
+
 ### [2007-08-31](/news/2007/08/31/index.md)
 
+##### Chile
 #  Twelve Chileans including a Catholic priest are charged for alleged involvement in death squads during the rule of General Augusto Pinochet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6973614.stm)
 

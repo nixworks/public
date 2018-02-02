@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/30/three-journalists-jailed-in-eritrea-for-over-a-decade-have-died-in-prison-according-to-prison-guards-who-fled-the-country.html)  [JSON](/news/2012/08/30/three-journalists-jailed-in-eritrea-for-over-a-decade-have-died-in-prison-according-to-prison-guards-who-fled-the-country.json)  [XML](/news/2012/08/30/three-journalists-jailed-in-eritrea-for-over-a-decade-have-died-in-prison-according-to-prison-guards-who-fled-the-country.xml)  
+
 ### [2012-08-30](/news/2012/08/30/index.md)
 
+##### Eritrea
 # Three journalists jailed in Eritrea for over a decade have died in prison, according to prison guards who fled the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/africa/jailed-journos-die-in-prison-1.1372945#.UD-ZrJaiE1A)
 

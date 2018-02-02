@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/8/gunmen-attack-a-party-office-of-former-prime-minister-benazir-bhutto-in-karachi-pakistan-killing-three-supporters.html)  [JSON](/news/2007/12/8/gunmen-attack-a-party-office-of-former-prime-minister-benazir-bhutto-in-karachi-pakistan-killing-three-supporters.json)  [XML](/news/2007/12/8/gunmen-attack-a-party-office-of-former-prime-minister-benazir-bhutto-in-karachi-pakistan-killing-three-supporters.xml)  
+
 ### [2007-12-8](/news/2007/12/8/index.md)
 
+##### Prime Minister
 #  Gunmen attack a party office of former Prime Minister Benazir Bhutto in Karachi, Pakistan, killing three supporters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5jIE0IUn4WIiaMBpjG8SI_6H5RXzgD8TD303G0)
 

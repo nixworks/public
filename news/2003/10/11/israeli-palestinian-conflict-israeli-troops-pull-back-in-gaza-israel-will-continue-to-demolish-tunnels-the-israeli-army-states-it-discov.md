@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/11/israeli-palestinian-conflict-israeli-troops-pull-back-in-gaza-israel-will-continue-to-demolish-tunnels-the-israeli-army-states-it-discov.html)  [JSON](/news/2003/10/11/israeli-palestinian-conflict-israeli-troops-pull-back-in-gaza-israel-will-continue-to-demolish-tunnels-the-israeli-army-states-it-discov.json)  [XML](/news/2003/10/11/israeli-palestinian-conflict-israeli-troops-pull-back-in-gaza-israel-will-continue-to-demolish-tunnels-the-israeli-army-states-it-discov.xml)  
+
 ### [2003-10-11](/news/2003/10/11/index.md)
 
+##### Israeli-Palestinian conflict
 #  Israeli-Palestinian conflict: Israeli troops pull back in Gaza. Israel will continue to demolish tunnels. The Israeli army states it discovers three tunnels in the camp, but no weapons have been found. A Palestinian teenager is shot dead and up to 10 homes were demolished and [ater and electricity facilities were hit. Palestinian militants were seeking to smuggle from Egypt shoulder-fired missiles that could be used against tanks, helicopters, and fighter jets.
 
 

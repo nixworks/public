@@ -1,27 +1,31 @@
+
+Formats: [HTML](/news/2013/03/9/nigerian-militant-group-ansaru-announces-that-it-has-killed-seven-foreigners-that-were-being-held-hostage.html)  [JSON](/news/2013/03/9/nigerian-militant-group-ansaru-announces-that-it-has-killed-seven-foreigners-that-were-being-held-hostage.json)  [XML](/news/2013/03/9/nigerian-militant-group-ansaru-announces-that-it-has-killed-seven-foreigners-that-were-being-held-hostage.xml)  
+
 ### [2013-03-9](/news/2013/03/9/index.md)
 
+##### Nigeria
 # Nigerian militant group Ansaru announces that it has killed seven foreigners that were being held hostage. 
 
 Diplomats investigate claims by Nigerian militant group Ansaru that it has killed seven foreign hostages.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21726993)
-2. [Reuters](http://www.reuters.com/article/2013/03/09/us-nigeria-hostages-idUSBRE9280BO20130309)
+2. [Reuters](https://www.reuters.com/article/2013/03/09/us-nigeria-hostages-idUSBRE9280BO20130309)
 3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/nigeria/9919656/Nigerian-militants-kill-seven-hostages-including-Briton.html)
 3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66296000/jpg/_66296732_66296731.jpg)
-
-### Related:
-
-1. [Nigeria's army says it has arrested Khalid al-Barnawi, a leader of the Boko Haram splinter group Ansaru. ](/news/2016/04/4/nigeria-s-army-says-it-has-arrested-khalid-al-barnawi-a-leader-of-the-boko-haram-splinter-group-ansaru.md) _Context: Ansaru, Nigeria_
-2. [Nigerian militants belonging to Ansar al-Muslimeen claim responsibility to kidnapping and killing Italian, Greek, and British construction workers in Northern Nigeria. ](/news/2013/03/10/nigerian-militants-belonging-to-ansar-al-muslimeen-claim-responsibility-to-kidnapping-and-killing-italian-greek-and-british-construction-w.md) _Context: Ansaru, Nigeria_
-3. [Gunmen attack the Ogba Zoo in Benin City, Nigeria, killing three police officers and abduct the zoo's director. There is no information on who the gunmen and abductors are, or whether they have made any demands. ](/news/2017/09/25/gunmen-attack-the-ogba-zoo-in-benin-city-nigeria-killing-three-police-officers-and-abduct-the-zoo-s-director-there-is-no-information-on-w.md) _Context: Nigeria_
-4. [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Nigeria_
-5. [Three suicide bombers kill 27 people and wound 83 near Maiduguri, Nigeria. ](/news/2017/08/15/three-suicide-bombers-kill-27-people-and-wound-83-near-maiduguri-nigeria.md) _Context: Nigeria_
 
 ### Changes:
 
 1. [Nigerian Sharia conflict:Nigerian militant group Ansaru announces that it has killed seven foreigners that were being held hostage. ](/news/2013/03/9/nigerian-sharia-conflict-pnigerian-militant-group-ansaru-announces-that-it-has-killed-seven-foreigners-that-were-being-held-hostage.md) _2017-08-25 03:37:46 (First version)_
 2. [Nigerian Sharia conflict:: Nigerian militant group Ansaru announces that it has killed seven foreigners that were being held hostage. ](/news/2013/03/9/nigerian-sharia-conflict-nigerian-militant-group-ansaru-announces-that-it-has-killed-seven-foreigners-that-were-being-held-hostage.md) _2017-08-27 03:37:57 (Update)_
 2. [Nigerian militant group Ansaru announces that it has killed seven foreigners that were being held hostage. ](/news/2013/03/9/nigerian-militant-group-ansaru-announces-that-it-has-killed-seven-foreigners-that-were-being-held-hostage.md) _(Current version)_
+
+### Related:
+
+1. [Nigeria's army says it has arrested Khalid al-Barnawi, a leader of the Boko Haram splinter group Ansaru. ](/news/2016/04/4/nigeria-s-army-says-it-has-arrested-khalid-al-barnawi-a-leader-of-the-boko-haram-splinter-group-ansaru.md) _Context: Ansaru, Nigeria_
+2. [Nigerian militants belonging to Ansar al-Muslimeen claim responsibility to kidnapping and killing Italian, Greek, and British construction workers in Northern Nigeria. ](/news/2013/03/10/nigerian-militants-belonging-to-ansar-al-muslimeen-claim-responsibility-to-kidnapping-and-killing-italian-greek-and-british-construction-w.md) _Context: Ansaru, Nigeria_
+3. [A suicide bomber attacks a mosque in Gamboru, Nigeria, killing 11 people. ](/news/2018/01/3/a-suicide-bomber-attacks-a-mosque-in-gamboru-nigeria-killing-11-people.md) _Context: Nigeria_
+4. [Two Americans and two Canadians are abducted by unknown gunmen in Kaduna State, Nigeria. Two police officers are killed after engaging in a firefight with the abductors. ](/news/2018/01/17/two-americans-and-two-canadians-are-abducted-by-unknown-gunmen-in-kaduna-state-nigeria-two-police-officers-are-killed-after-engaging-in-a.md) _Context: Nigeria_
+5. [Suspected Boko Haram suicide bombers kill 12 people and injure 48 others, in Maiduguri, Nigeria. ](/news/2018/01/17/suspected-boko-haram-suicide-bombers-kill-12-people-and-injure-48-others-in-maiduguri-nigeria.md) _Context: Nigeria_

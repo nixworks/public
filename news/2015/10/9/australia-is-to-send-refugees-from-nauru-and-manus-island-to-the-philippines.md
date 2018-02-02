@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/9/australia-is-to-send-refugees-from-nauru-and-manus-island-to-the-philippines.html)  [JSON](/news/2015/10/9/australia-is-to-send-refugees-from-nauru-and-manus-island-to-the-philippines.json)  [XML](/news/2015/10/9/australia-is-to-send-refugees-from-nauru-and-manus-island-to-the-philippines.xml)  
+
 ### [2015-10-9](/news/2015/10/9/index.md)
 
+##### Australia
 # Australia is to send refugees from Nauru and Manus Island to the Philippines. 
 
 Refugees who travelled to Australia by boat could be permanently resettled in the Philippines under a deal being negotiated, but senior government sources fear the premature leaking of the deal to the media could see the proposal scuttled.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://m.smh.com.au/federal-politics/political-news/coalition-government-in-talks-to-resettle-refugees-in-the-philippines-20151008-gk4u5m.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/g/j/w/5/s/s/image.related.socialLead.620x349.gk4u5m.png/1444387404552.jpg)

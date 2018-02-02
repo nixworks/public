@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2015/04/1/california-governor-jerry-brown-announces-mandatory-water-restrictions-in-response-to-the-worst-drought-in-california-history.html)  [JSON](/news/2015/04/1/california-governor-jerry-brown-announces-mandatory-water-restrictions-in-response-to-the-worst-drought-in-california-history.json)  [XML](/news/2015/04/1/california-governor-jerry-brown-announces-mandatory-water-restrictions-in-response-to-the-worst-drought-in-california-history.xml)  
+
 ### [2015-04-1](/news/2015/04/1/index.md)
 
+##### California
 # California governor Jerry Brown announces mandatory water restrictions in response to the worst drought in California history. 
 
+The move by Gov. Jerry Brown comes as California’s drought has reached near-crisis proportions after a winter that brought record-low snowfalls.
 
 
+### Sources:
 
-### Source:
-
-1. [The New York Times](http://www.nytimes.com/2015/04/02/us/california-imposes-first-ever-water-restrictions-to-deal-with-drought.html?_r=0)
+1. [The New York Times](https://www.nytimes.com/2015/04/02/us/california-imposes-first-ever-water-restrictions-to-deal-with-drought.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2015/04/02/us/DROUGHT1/DROUGHT1-facebookJumbo.jpg)
 
 ### Related:
 

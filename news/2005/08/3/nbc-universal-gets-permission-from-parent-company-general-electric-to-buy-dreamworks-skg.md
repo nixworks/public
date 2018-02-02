@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/08/3/nbc-universal-gets-permission-from-parent-company-general-electric-to-buy-dreamworks-skg.html)  [JSON](/news/2005/08/3/nbc-universal-gets-permission-from-parent-company-general-electric-to-buy-dreamworks-skg.json)  [XML](/news/2005/08/3/nbc-universal-gets-permission-from-parent-company-general-electric-to-buy-dreamworks-skg.xml)  
+
 ### [2005-08-3](/news/2005/08/3/index.md)
 
+##### NBC Universal
 #  NBC Universal gets permission from parent company General Electric to buy DreamWorks SKG. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Yahoo](http://news.yahoo.com/news?tmpl=story&u=/nm/20050801/media_nm/industry_dreamworks_dc_1)
+1. [Yahoo](https://news.yahoo.com/news?tmpl=story&u=/nm/20050801/media_nm/industry_dreamworks_dc_1)
 
 ### Related:
 

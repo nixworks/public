@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/15/the-u-s-refused-to-abide-by-a-north-american-free-trade-agreement-nafta-ruling-on-the-u-s-canada-softwood-lumber-dispute-leading-to-ca.html)  [JSON](/news/2005/08/15/the-u-s-refused-to-abide-by-a-north-american-free-trade-agreement-nafta-ruling-on-the-u-s-canada-softwood-lumber-dispute-leading-to-ca.json)  [XML](/news/2005/08/15/the-u-s-refused-to-abide-by-a-north-american-free-trade-agreement-nafta-ruling-on-the-u-s-canada-softwood-lumber-dispute-leading-to-ca.xml)  
+
 ### [2005-08-15](/news/2005/08/15/index.md)
 
+##### North American Free Trade Agreement
 #  The U.S. refused to abide by a North American Free Trade Agreement (NAFTA) ruling on the U.S.-Canada softwood lumber dispute, leading to Canada's Finance Minister Ralph Goodale saying he was considering trade sanctions on the US. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Boston Globe](http://www.boston.com/news/local/maine/articles/2005/08/15/canada_to_take_action_against_us_in_softwood_dispute/)
 

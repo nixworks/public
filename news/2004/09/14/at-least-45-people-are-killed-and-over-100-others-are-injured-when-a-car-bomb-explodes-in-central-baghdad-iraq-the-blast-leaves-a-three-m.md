@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/14/at-least-45-people-are-killed-and-over-100-others-are-injured-when-a-car-bomb-explodes-in-central-baghdad-iraq-the-blast-leaves-a-three-m.html)  [JSON](/news/2004/09/14/at-least-45-people-are-killed-and-over-100-others-are-injured-when-a-car-bomb-explodes-in-central-baghdad-iraq-the-blast-leaves-a-three-m.json)  [XML](/news/2004/09/14/at-least-45-people-are-killed-and-over-100-others-are-injured-when-a-car-bomb-explodes-in-central-baghdad-iraq-the-blast-leaves-a-three-m.xml)  
+
 ### [2004-09-14](/news/2004/09/14/index.md)
 
+##### car bomb
 #  At least 45 people are killed and over 100 others are injured when a car bomb explodes in central Baghdad, Iraq. The blast leaves a three-meter (10&nbsp;ft) crater in the road in a busy shopping area; many of the dead are Iraqi job-seekers who were queuing up outside a nearby police station. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3654176.stm)
 

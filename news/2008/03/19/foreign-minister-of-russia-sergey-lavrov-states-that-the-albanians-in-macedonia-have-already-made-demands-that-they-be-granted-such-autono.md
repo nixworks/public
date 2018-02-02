@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/19/foreign-minister-of-russia-sergey-lavrov-states-that-the-albanians-in-macedonia-have-already-made-demands-that-they-be-granted-such-autono.html)  [JSON](/news/2008/03/19/foreign-minister-of-russia-sergey-lavrov-states-that-the-albanians-in-macedonia-have-already-made-demands-that-they-be-granted-such-autono.json)  [XML](/news/2008/03/19/foreign-minister-of-russia-sergey-lavrov-states-that-the-albanians-in-macedonia-have-already-made-demands-that-they-be-granted-such-autono.xml)  
+
 ### [2008-03-19](/news/2008/03/19/index.md)
 
+##### Foreign Minister of Russia
 #  Foreign Minister of Russia Sergey Lavrov states that "the Albanians in Macedonia have already made demands that they be granted such autonomy...which could be seen as a move towards independence." The Foreign Ministry also linked the events in Tibet with the declaration of independence by Kosovo, showing a growing movement of groups seeking independence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Makfax](http://makfax.com.mk/look/novina/article.tpl?IdLanguage=1&IdPublication=2&NrArticle=105436&NrIssue=611&NrSection=10&search_x=10&search_y=2)
 2. [Ria Novosti](http://en.rian.ru/russia/20080318/101564953.html)

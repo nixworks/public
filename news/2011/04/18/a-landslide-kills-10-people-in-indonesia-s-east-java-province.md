@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/18/a-landslide-kills-10-people-in-indonesia-s-east-java-province.html)  [JSON](/news/2011/04/18/a-landslide-kills-10-people-in-indonesia-s-east-java-province.json)  [XML](/news/2011/04/18/a-landslide-kills-10-people-in-indonesia-s-east-java-province.xml)  
+
 ### [2011-04-18](/news/2011/04/18/index.md)
 
+##### Indonesia
 # A landslide kills 10 people in Indonesia's East Java province. 
 
 A landslide killed at least 10 people and injured seven in Indonesia’s East Java province, state-run media said Monday. A steep cliff collapsed Sunday in the hamlet of Klangon in Malang district after
 
 
-### Source:
+### Sources:
 
 1. [Jakarta Post](http://www.thejakartaglobe.com/home/landslide-kills-10-in-east-java/436054)
 2. [The Hindu](http://www.thehindu.com/news/international/article1705923.ece)

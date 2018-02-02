@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/7/current-barclays-capital-chief-robert-diamond-one-of-the-world-s-highest-paid-bankers-is-to-become-chief-executive-of-barclays-bank-plc-su.html)  [JSON](/news/2010/09/7/current-barclays-capital-chief-robert-diamond-one-of-the-world-s-highest-paid-bankers-is-to-become-chief-executive-of-barclays-bank-plc-su.json)  [XML](/news/2010/09/7/current-barclays-capital-chief-robert-diamond-one-of-the-world-s-highest-paid-bankers-is-to-become-chief-executive-of-barclays-bank-plc-su.xml)  
+
 ### [2010-09-7](/news/2010/09/7/index.md)
 
+##### Barclays Capital
 # Current Barclays Capital chief Robert Diamond, one of the world's highest paid bankers, is to become chief executive of Barclays Bank plc succeeding the present incumbent John Varley next year. 
 
 Bob Diamond is to become chief executive of Barclays, while HSBC chairman Stephen Green steps down to become a government trade minister.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-11209416)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

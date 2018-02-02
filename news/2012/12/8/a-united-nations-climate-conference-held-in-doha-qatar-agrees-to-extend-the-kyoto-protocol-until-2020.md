@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/12/8/a-united-nations-climate-conference-held-in-doha-qatar-agrees-to-extend-the-kyoto-protocol-until-2020.html)  [JSON](/news/2012/12/8/a-united-nations-climate-conference-held-in-doha-qatar-agrees-to-extend-the-kyoto-protocol-until-2020.json)  [XML](/news/2012/12/8/a-united-nations-climate-conference-held-in-doha-qatar-agrees-to-extend-the-kyoto-protocol-until-2020.xml)  
+
 ### [2012-12-8](/news/2012/12/8/index.md)
 
+##### United Nations
 # A United Nations climate conference held in Doha, Qatar, agrees to extend the Kyoto Protocol until 2020. 
 
 Seeking to control global warming, nearly 200 countries agreed Saturday to extend the Kyoto Protocol, a treaty that limits the greenhouse gas output of some rich countries, but will only cover about 15 percent of global emissions.
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo News](http://news.yahoo.com/un-conference-adopts-extension-kyoto-accord-161126143.html)
+1. [AP via Yahoo News](https://news.yahoo.com/un-conference-adopts-extension-kyoto-accord-161126143.html)
 1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/14/elections-to-choose-the-successor-to-yasser-arafat-are-to-be-held-on-9-january-2005-palestine-authority-interim-president-rawhi-fattuh-ann.html)  [JSON](/news/2004/11/14/elections-to-choose-the-successor-to-yasser-arafat-are-to-be-held-on-9-january-2005-palestine-authority-interim-president-rawhi-fattuh-ann.json)  [XML](/news/2004/11/14/elections-to-choose-the-successor-to-yasser-arafat-are-to-be-held-on-9-january-2005-palestine-authority-interim-president-rawhi-fattuh-ann.xml)  
+
 ### [2004-11-14](/news/2004/11/14/index.md)
 
+##### Elections
 #  Elections to choose the successor to Yasser Arafat are to be held on 9 January 2005, Palestine Authority interim President Rawhi Fattuh announced today. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4011065.stm)
 

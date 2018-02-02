@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/15/2006-european-floods-the-danube-rises-to-its-highest-level-in-more-than-a-century.html)  [JSON](/news/2006/04/15/2006-european-floods-the-danube-rises-to-its-highest-level-in-more-than-a-century.json)  [XML](/news/2006/04/15/2006-european-floods-the-danube-rises-to-its-highest-level-in-more-than-a-century.xml)  
+
 ### [2006-04-15](/news/2006/04/15/index.md)
 
+##### 2006 European floods
 #  2006 European floods: The Danube rises to its highest level in more than a century. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/WEATHER/04/15/danube.floods.reut/index.html)
 

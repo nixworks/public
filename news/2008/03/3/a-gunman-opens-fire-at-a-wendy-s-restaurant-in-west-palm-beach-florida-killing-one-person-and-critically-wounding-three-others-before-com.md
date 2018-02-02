@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/03/3/a-gunman-opens-fire-at-a-wendy-s-restaurant-in-west-palm-beach-florida-killing-one-person-and-critically-wounding-three-others-before-com.html)  [JSON](/news/2008/03/3/a-gunman-opens-fire-at-a-wendy-s-restaurant-in-west-palm-beach-florida-killing-one-person-and-critically-wounding-three-others-before-com.json)  [XML](/news/2008/03/3/a-gunman-opens-fire-at-a-wendy-s-restaurant-in-west-palm-beach-florida-killing-one-person-and-critically-wounding-three-others-before-com.xml)  
+
 ### [2008-03-3](/news/2008/03/3/index.md)
 
+##### Wendy's
 #  A gunman opens fire at a Wendy's restaurant in West Palm Beach, Florida, killing one person and critically wounding three others before committing suicide. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/US/story?id=4378769)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080303/ap_on_re_us/wendy_s_shooting)
+2. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20080303/ap_on_re_us/wendy_s_shooting)
 
 ### Related:
 

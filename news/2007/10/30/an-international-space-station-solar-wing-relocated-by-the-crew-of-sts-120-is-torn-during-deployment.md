@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/30/an-international-space-station-solar-wing-relocated-by-the-crew-of-sts-120-is-torn-during-deployment.html)  [JSON](/news/2007/10/30/an-international-space-station-solar-wing-relocated-by-the-crew-of-sts-120-is-torn-during-deployment.json)  [XML](/news/2007/10/30/an-international-space-station-solar-wing-relocated-by-the-crew-of-sts-120-is-torn-during-deployment.xml)  
+
 ### [2007-10-30](/news/2007/10/30/index.md)
 
+##### International Space Station
 #  An International Space Station solar wing relocated by the crew of STS-120 is torn during deployment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [spaceflightnow.com](http://www.spaceflightnow.com/shuttle/sts120/071030fd8/index7.html)
 

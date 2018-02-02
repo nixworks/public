@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/11/steve-huffman-is-re-appointed-as-the-ceo-of-reddit-as-ellen-pao-steps-down-over-a-dispute-with-the-website-s-users-over-the-firing-of-a-popu.html)  [JSON](/news/2015/07/11/steve-huffman-is-re-appointed-as-the-ceo-of-reddit-as-ellen-pao-steps-down-over-a-dispute-with-the-website-s-users-over-the-firing-of-a-popu.json)  [XML](/news/2015/07/11/steve-huffman-is-re-appointed-as-the-ceo-of-reddit-as-ellen-pao-steps-down-over-a-dispute-with-the-website-s-users-over-the-firing-of-a-popu.xml)  
+
 ### [2015-07-11](/news/2015/07/11/index.md)
 
+##### Steve Huffman
 # Steve Huffman is re-appointed as the CEO of Reddit as Ellen Pao steps down over a dispute with the website's users over the firing of a popular employee. 
 
 Ellen Pao took on the entrenched sexist culture of Silicon Valley 
 
 
-### Source:
+### Sources:
 
 1. [Irish Times](http://www.irishtimes.com/business/technology/reddit-chief-executive-ousted-by-rebellion-from-site-s-users-1.2281924)
 1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.2281923&origw=960)

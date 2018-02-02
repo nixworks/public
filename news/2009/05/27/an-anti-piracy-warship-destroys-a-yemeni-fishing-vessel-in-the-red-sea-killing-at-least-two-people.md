@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2009/05/27/an-anti-piracy-warship-destroys-a-yemeni-fishing-vessel-in-the-red-sea-killing-at-least-two-people.html)  [JSON](/news/2009/05/27/an-anti-piracy-warship-destroys-a-yemeni-fishing-vessel-in-the-red-sea-killing-at-least-two-people.json)  [XML](/news/2009/05/27/an-anti-piracy-warship-destroys-a-yemeni-fishing-vessel-in-the-red-sea-killing-at-least-two-people.xml)  
+
 ### [2009-05-27](/news/2009/05/27/index.md)
 
+##### Somali pirates
 #  An anti-piracy warship destroys a Yemeni fishing vessel in the Red Sea, killing at least two people.
 
 

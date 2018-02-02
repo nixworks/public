@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/10/24/the-terrafrica-partnership-a-us-4-billion-12-year-campaign-supported-by-the-african-union-world-bank-united-nations-european-commissio.html)  [JSON](/news/2005/10/24/the-terrafrica-partnership-a-us-4-billion-12-year-campaign-supported-by-the-african-union-world-bank-united-nations-european-commissio.json)  [XML](/news/2005/10/24/the-terrafrica-partnership-a-us-4-billion-12-year-campaign-supported-by-the-african-union-world-bank-united-nations-european-commissio.xml)  
+
 ### [2005-10-24](/news/2005/10/24/index.md)
 
+##### Terrafrica partnership
 #  The Terrafrica partnership, a US$4 billion, 12-year campaign supported by the African Union, World Bank, United Nations, European Commission, and regional African governments, and aimed at fighting current, and preventing future desertification in Africa, begins. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://news.yahoo.com/s/nm/20051024/sc_nm/africa_desert_dc;_ylt=Al8lMbUeciJpvZnBf3GQgA.s0NUE;_ylu=X3oDMTA3MzV0MTdmBHNlYwM3NTM-)
+1. [Reuters](https://news.yahoo.com/s/nm/20051024/sc_nm/africa_desert_dc;_ylt=Al8lMbUeciJpvZnBf3GQgA.s0NUE;_ylu=X3oDMTA3MzV0MTdmBHNlYwM3NTM-)
 
 ### Related:
 

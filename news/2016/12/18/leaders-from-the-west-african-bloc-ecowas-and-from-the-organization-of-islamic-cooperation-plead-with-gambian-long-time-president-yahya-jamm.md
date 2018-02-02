@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/18/leaders-from-the-west-african-bloc-ecowas-and-f
 
 ### [2016-12-18](/news/2016/12/18/index.md)
 
+##### Gambian presidential election, 2016
 # Leaders from the West African bloc ECOWAS and from the Organization of Islamic Cooperation plead with Gambian long-time President Yahya Jammeh who lost in the recently held elections to step aside or face consequences. 
 
 Jammeh once said that he would rule for “one billion years” if “Allah says so.”

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/24/serial-rapist-delroy-grant-is-convicted-of-18-sexual-assaults-and-rapes-in-london-england-with-fears-that-he-may-have-committed-hundreds-o.html)  [JSON](/news/2011/03/24/serial-rapist-delroy-grant-is-convicted-of-18-sexual-assaults-and-rapes-in-london-england-with-fears-that-he-may-have-committed-hundreds-o.json)  [XML](/news/2011/03/24/serial-rapist-delroy-grant-is-convicted-of-18-sexual-assaults-and-rapes-in-london-england-with-fears-that-he-may-have-committed-hundreds-o.xml)  
+
 ### [2011-03-24](/news/2011/03/24/index.md)
 
+##### Delroy Grant
 # Serial rapist Delroy Grant is convicted of 18 sexual assaults and rapes in London, England, with fears that he may have committed hundreds of offences. 
 
 A British man dubbed the Night Stalker has been convicted of being one of the most prolific and depraved sex attackers in British history. Police apologised for botched chances to stop Delroy Grant, 53, earlier as he was found guilty of preying on the elderly in a campaign of perverted terror lasting 17 years.
 
 
-### Source:
+### Sources:
 
 1. [PA via ''Sydney Morning Herald](http://www.smh.com.au/world/night-stalker-guilty-after-campaign-of-perverted-terror-20110324-1c8pl.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/1/c/8/w/c/image.related.articleLeadwide.620x349.1c8pl.png/1300995797343.jpg)

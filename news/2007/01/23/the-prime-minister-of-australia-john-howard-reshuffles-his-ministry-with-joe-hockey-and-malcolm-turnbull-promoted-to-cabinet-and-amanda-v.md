@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/23/the-prime-minister-of-australia-john-howard-reshuffles-his-ministry-with-joe-hockey-and-malcolm-turnbull-promoted-to-cabinet-and-amanda-v.html)  [JSON](/news/2007/01/23/the-prime-minister-of-australia-john-howard-reshuffles-his-ministry-with-joe-hockey-and-malcolm-turnbull-promoted-to-cabinet-and-amanda-v.json)  [XML](/news/2007/01/23/the-prime-minister-of-australia-john-howard-reshuffles-his-ministry-with-joe-hockey-and-malcolm-turnbull-promoted-to-cabinet-and-amanda-v.xml)  
+
 ### [2007-01-23](/news/2007/01/23/index.md)
 
+##### Australian Prime Minister
 #  The Prime Minister of Australia, John Howard, reshuffles his Ministry with Joe Hockey and Malcolm Turnbull promoted to Cabinet and Amanda Vanstone losing her position. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200701/s1831946.htm)
 

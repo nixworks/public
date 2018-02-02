@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/10/thailand-s-highest-court-rules-that-a-corruption-case-may-proceed-against-former-prime-minister-of-thailand-thaksin-shinawatra.html)  [JSON](/news/2007/07/10/thailand-s-highest-court-rules-that-a-corruption-case-may-proceed-against-former-prime-minister-of-thailand-thaksin-shinawatra.json)  [XML](/news/2007/07/10/thailand-s-highest-court-rules-that-a-corruption-case-may-proceed-against-former-prime-minister-of-thailand-thaksin-shinawatra.xml)  
+
 ### [2007-07-10](/news/2007/07/10/index.md)
 
+##### Thailand
 #  Thailand's highest court rules that a corruption case may proceed against former Prime Minister of Thailand Thaksin Shinawatra. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://abc.net.au/news/stories/2007/07/10/1974941.htm?section=justin)
 

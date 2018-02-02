@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/01/10/15-people-are-killed-and-15-are-injured-five-seriously-when-a-bus-and-truck-collide-on-a-major-highway-in-the-sahara-desert-in-ghardaa-a-p.html)  [JSON](/news/2010/01/10/15-people-are-killed-and-15-are-injured-five-seriously-when-a-bus-and-truck-collide-on-a-major-highway-in-the-sahara-desert-in-ghardaa-a-p.json)  [XML](/news/2010/01/10/15-people-are-killed-and-15-are-injured-five-seriously-when-a-bus-and-truck-collide-on-a-major-highway-in-the-sahara-desert-in-ghardaa-a-p.xml)  
+
 ### [2010-01-10](/news/2010/01/10/index.md)
 
+##### Sahara
 # 15 people are killed and 15 are injured, five seriously, when a bus and truck collide on a major highway in the Sahara Desert in Ghardaia Province, Algeria. 
 
 A collision between a bus and a truck in Algeria Sunday killed 15 people and injured another 15, state radio reported.
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://www.presstv.ir/detail.aspx?id=115839&sectionid=351020506)
-2. [Reuters](http://www.reuters.com/article/idUSTRE6091GO20100110)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/idUSTRE6091GO20100110)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

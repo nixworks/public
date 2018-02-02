@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/12/the-bodleian-libraries-of-the-university-of-oxford-and-the-vatican-library-announce-they-will-make-1-5-million-pages-of-ancient-texts-availa.html)  [JSON](/news/2012/04/12/the-bodleian-libraries-of-the-university-of-oxford-and-the-vatican-library-announce-they-will-make-1-5-million-pages-of-ancient-texts-availa.json)  [XML](/news/2012/04/12/the-bodleian-libraries-of-the-university-of-oxford-and-the-vatican-library-announce-they-will-make-1-5-million-pages-of-ancient-texts-availa.xml)  
+
 ### [2012-04-12](/news/2012/04/12/index.md)
 
+##### Bodleian Libraries
 # The Bodleian Libraries of the University of Oxford and the Vatican Library announce they will make 1.5 million pages of ancient texts available on the Internet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Vatican Radio](http://www.news.va/en/news/vatican-library-going-on-line)
 

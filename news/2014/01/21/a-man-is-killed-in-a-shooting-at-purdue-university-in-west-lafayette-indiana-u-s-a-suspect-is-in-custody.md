@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/21/a-man-is-killed-in-a-shooting-at-purdue-university-in-west-lafayette-indiana-u-s-a-suspect-is-in-custody.html)  [JSON](/news/2014/01/21/a-man-is-killed-in-a-shooting-at-purdue-university-in-west-lafayette-indiana-u-s-a-suspect-is-in-custody.json)  [XML](/news/2014/01/21/a-man-is-killed-in-a-shooting-at-purdue-university-in-west-lafayette-indiana-u-s-a-suspect-is-in-custody.xml)  
+
 ### [2014-01-21](/news/2014/01/21/index.md)
 
+##### Purdue University
 # A man is killed in a shooting at Purdue University in West Lafayette, Indiana, U.S. A suspect is in custody. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/01/21/justice/purdue-shooting-report/index.html?hpt=hp_t2)
 

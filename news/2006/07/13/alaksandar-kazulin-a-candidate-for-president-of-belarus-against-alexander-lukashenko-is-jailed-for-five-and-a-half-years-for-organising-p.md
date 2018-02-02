@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/13/alaksandar-kazulin-a-candidate-for-president-of-belarus-against-alexander-lukashenko-is-jailed-for-five-and-a-half-years-for-organising-p.html)  [JSON](/news/2006/07/13/alaksandar-kazulin-a-candidate-for-president-of-belarus-against-alexander-lukashenko-is-jailed-for-five-and-a-half-years-for-organising-p.json)  [XML](/news/2006/07/13/alaksandar-kazulin-a-candidate-for-president-of-belarus-against-alexander-lukashenko-is-jailed-for-five-and-a-half-years-for-organising-p.xml)  
+
 ### [2006-07-13](/news/2006/07/13/index.md)
 
+##### Alaksandar Kazulin
 #  Alaksandar Kazulin, a candidate for President of Belarus against Alexander Lukashenko, is jailed for five and a half years for organising protests against Lukashenko's re-election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.alertnet.org/thenews/newsdesk/L13697523.htm)
 

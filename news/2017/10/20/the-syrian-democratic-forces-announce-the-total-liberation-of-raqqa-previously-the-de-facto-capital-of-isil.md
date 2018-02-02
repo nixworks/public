@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/20/the-syrian-democratic-forces-announce-the-total
 
 ### [2017-10-20](/news/2017/10/20/index.md)
 
+##### Syrian Civil War
 # The Syrian Democratic Forces announce the "total liberation" of Raqqa, previously the "de facto" capital of ISIL. 
 
 

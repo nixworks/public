@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/27/at-least-two-people-are-killed-and-72-are-injur
 
 ### [2016-06-27](/news/2016/06/27/index.md)
 
+##### Mahamasina Municipal Stadium
 # At least two people are killed and 72 are injured following a grenade attack on a concert at the Mahamasina Municipal Stadium in Madagascar's capital, Antananarivo. 
 
 

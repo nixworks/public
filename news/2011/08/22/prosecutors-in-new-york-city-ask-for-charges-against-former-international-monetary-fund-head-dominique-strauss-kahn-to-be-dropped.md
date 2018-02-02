@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/22/prosecutors-in-new-york-city-ask-for-charges-against-former-international-monetary-fund-head-dominique-strauss-kahn-to-be-dropped.html)  [JSON](/news/2011/08/22/prosecutors-in-new-york-city-ask-for-charges-against-former-international-monetary-fund-head-dominique-strauss-kahn-to-be-dropped.json)  [XML](/news/2011/08/22/prosecutors-in-new-york-city-ask-for-charges-against-former-international-monetary-fund-head-dominique-strauss-kahn-to-be-dropped.xml)  
+
 ### [2011-08-22](/news/2011/08/22/index.md)
 
+##### New York City
 # Prosecutors in New York City ask for charges against former International Monetary Fund head Dominique Strauss-Kahn to be dropped. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC Online](http://www.abc.net.au/worldtoday/content/2011/s3299840.htm)
 

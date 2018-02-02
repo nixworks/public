@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/30/fighting-intensifies-in-the-east-as-ukraine-forces-recapture-control-of-the-strategic-town-of-avdiivka-from-pro-russian-insurgents.html)  [JSON](/news/2014/07/30/fighting-intensifies-in-the-east-as-ukraine-forces-recapture-control-of-the-strategic-town-of-avdiivka-from-pro-russian-insurgents.json)  [XML](/news/2014/07/30/fighting-intensifies-in-the-east-as-ukraine-forces-recapture-control-of-the-strategic-town-of-avdiivka-from-pro-russian-insurgents.xml)  
+
 ### [2014-07-30](/news/2014/07/30/index.md)
 
+##### Avdiivka
 # Fighting intensifies in the east as Ukraine forces recapture control of the strategic town of Avdiivka from pro-Russian insurgents. 
 
 The Ukrainian army says it has seized the town of Avdiivka, near the rebel stronghold of Donetsk, amid intense fighting in the area around the downed MH17 flight.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-28559482)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/76619000/jpg/_76619164_023341925-2.jpg)

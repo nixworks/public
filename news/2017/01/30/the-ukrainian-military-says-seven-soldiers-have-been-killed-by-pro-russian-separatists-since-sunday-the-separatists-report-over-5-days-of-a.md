@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/30/the-ukrainian-military-says-seven-soldiers-have
 
 ### [2017-01-30](/news/2017/01/30/index.md)
 
+##### War in Donbass
 # The Ukrainian military says seven soldiers have been killed by pro-Russian separatists since Sunday. The separatists report over 5 days of artillery attacks on them by the Ukrainian side. 
 
 

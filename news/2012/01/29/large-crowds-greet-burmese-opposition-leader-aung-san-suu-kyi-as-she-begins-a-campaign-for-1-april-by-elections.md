@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/29/large-crowds-greet-burmese-opposition-leader-aung-san-suu-kyi-as-she-begins-a-campaign-for-1-april-by-elections.html)  [JSON](/news/2012/01/29/large-crowds-greet-burmese-opposition-leader-aung-san-suu-kyi-as-she-begins-a-campaign-for-1-april-by-elections.json)  [XML](/news/2012/01/29/large-crowds-greet-burmese-opposition-leader-aung-san-suu-kyi-as-she-begins-a-campaign-for-1-april-by-elections.xml)  
+
 ### [2012-01-29](/news/2012/01/29/index.md)
 
+##### Burma
 # Large crowds greet Burmese opposition leader Aung San Suu Kyi as she begins a campaign for 1 April by-elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/asia/277344/thousands-greet-suu-kyi-on-burma-campaign-trail)
 

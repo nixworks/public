@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/21/the-crypt-of-daniel-o-connell-at-glasnevin-cemetery-in-dublin-is-refurbished-and-opened-to-tourists.html)  [JSON](/news/2009/10/21/the-crypt-of-daniel-o-connell-at-glasnevin-cemetery-in-dublin-is-refurbished-and-opened-to-tourists.json)  [XML](/news/2009/10/21/the-crypt-of-daniel-o-connell-at-glasnevin-cemetery-in-dublin-is-refurbished-and-opened-to-tourists.xml)  
+
 ### [2009-10-21](/news/2009/10/21/index.md)
 
+##### Daniel O'Connell
 #  The crypt of Daniel O'Connell at Glasnevin Cemetery in Dublin is refurbished and opened to tourists . 
 
 The crypt of Daniel O&#39;Connell at Glasnevin Cemetery in Dublin has been refurbished and will be open to visiting groups every day from now on.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1021/oconnelld.html)
 1. [Cover Image](https://img.rasset.ie/0002b127-1600.jpg)

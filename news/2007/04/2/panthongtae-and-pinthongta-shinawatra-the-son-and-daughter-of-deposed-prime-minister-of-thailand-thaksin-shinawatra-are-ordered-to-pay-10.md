@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/2/panthongtae-and-pinthongta-shinawatra-the-son-and-daughter-of-deposed-prime-minister-of-thailand-thaksin-shinawatra-are-ordered-to-pay-10.html)  [JSON](/news/2007/04/2/panthongtae-and-pinthongta-shinawatra-the-son-and-daughter-of-deposed-prime-minister-of-thailand-thaksin-shinawatra-are-ordered-to-pay-10.json)  [XML](/news/2007/04/2/panthongtae-and-pinthongta-shinawatra-the-son-and-daughter-of-deposed-prime-minister-of-thailand-thaksin-shinawatra-are-ordered-to-pay-10.xml)  
+
 ### [2007-04-2](/news/2007/04/2/index.md)
 
+##### Panthongtae
 #  Panthongtae and Pinthongta Shinawatra, the son and daughter of deposed prime minister of Thailand Thaksin Shinawatra are ordered to pay 10 billion baht in back taxes owed in connection with the sale of Shin Corporation stock to Temasek Holdings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Nation](http://www.nationmultimedia.com/2007/04/03/headlines/headlines_30030966.php)
 

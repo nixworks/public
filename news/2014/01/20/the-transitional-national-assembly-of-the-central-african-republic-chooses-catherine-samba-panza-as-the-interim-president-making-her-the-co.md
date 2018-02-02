@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/01/20/the-transitional-national-assembly-of-the-central-african-republic-chooses-catherine-samba-panza-as-the-interim-president-making-her-the-co.html)  [JSON](/news/2014/01/20/the-transitional-national-assembly-of-the-central-african-republic-chooses-catherine-samba-panza-as-the-interim-president-making-her-the-co.json)  [XML](/news/2014/01/20/the-transitional-national-assembly-of-the-central-african-republic-chooses-catherine-samba-panza-as-the-interim-president-making-her-the-co.xml)  
+
 ### [2014-01-20](/news/2014/01/20/index.md)
 
+##### legislature
 # The transitional National Assembly of the Central African Republic chooses Catherine Samba-Panza as the interim President, making her the country's first female head of state. 
 
 Marin Ngoupana and Adrian Croft
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/01/20/us-centralafrican-idUSBREA0J0VT20140120)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140120&t=2&i=831090551&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA0J15B800)
+1. [Reuters](https://www.reuters.com/article/2014/01/20/us-centralafrican-idUSBREA0J0VT20140120)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140120&t=2&i=831090551&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA0J15B800)
 
 ### Related:
 

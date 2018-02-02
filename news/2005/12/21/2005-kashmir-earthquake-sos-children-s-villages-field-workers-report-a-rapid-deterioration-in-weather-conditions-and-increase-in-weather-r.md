@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/21/2005-kashmir-earthquake-sos-children-s-villages-field-workers-report-a-rapid-deterioration-in-weather-conditions-and-increase-in-weather-r.html)  [JSON](/news/2005/12/21/2005-kashmir-earthquake-sos-children-s-villages-field-workers-report-a-rapid-deterioration-in-weather-conditions-and-increase-in-weather-r.json)  [XML](/news/2005/12/21/2005-kashmir-earthquake-sos-children-s-villages-field-workers-report-a-rapid-deterioration-in-weather-conditions-and-increase-in-weather-r.xml)  
+
 ### [2005-12-21](/news/2005/12/21/index.md)
 
+##### 2005 Kashmir earthquake
 #  2005 Kashmir earthquake. SOS Children's Villages field workers report a rapid deterioration in weather conditions and increase in weather-related death. 64 more children believed orphaned have been taken into emergency care this week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SOS](http://www.soschildrensvillages.org.uk/charity-news/pakistan-earthquake-21-dec.htm)
 

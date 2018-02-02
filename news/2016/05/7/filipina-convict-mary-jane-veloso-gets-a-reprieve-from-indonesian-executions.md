@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2016/05/7/filipina-convict-mary-jane-veloso-gets-a-reprieve-from-indonesian-executions.html)  [JSON](/news/2016/05/7/filipina-convict-mary-jane-veloso-gets-a-reprieve-from-indonesian-executions.json)  [XML](/news/2016/05/7/filipina-convict-mary-jane-veloso-gets-a-reprieve-from-indonesian-executions.xml)  
+
 ### [2016-05-7](/news/2016/05/7/index.md)
 
+##### Indonesia-Philippines relations
 # Filipina convict Mary Jane Veloso gets a reprieve from Indonesian executions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Philippine Daily Inquirer](http://globalnation.inquirer.net/139308/mary-jane-veloso-gets-new-lease-lawyer-relieved)
+
+### Changes:
+
+1. [Indonesia-Philippines relations: Filipina convict Mary Jane Veloso gets a reprieve from Indonesian executions. ](/news/2016/05/7/indonesia-philippines-relations-filipina-convict-mary-jane-veloso-gets-a-reprieve-from-indonesian-executions.md) _2017-08-27 03:45:59 (First version)_
+1. [Filipina convict Mary Jane Veloso gets a reprieve from Indonesian executions. ](/news/2016/05/7/filipina-convict-mary-jane-veloso-gets-a-reprieve-from-indonesian-executions.md) _(Current version)_
 
 ### Related:
 
@@ -15,9 +24,4 @@
 2. [Filipino domestic helper Mary Jane Veloso commemorates the first anniversary of her being spared from the death penalty in Indonesia for allegedly smuggling controlled substances. A trial to determine her innocence is ongoing. ](/news/2016/04/28/filipino-domestic-helper-mary-jane-veloso-commemorates-the-first-anniversary-of-her-being-spared-from-the-death-penalty-in-indonesia-for-all.md) _Context: Indonesia, Mary Jane Veloso_
 3. [Indonesia and the Philippines discuss their borders after the Indonesian Navy sinks four Filipino fishing vessels off the coast of the Philippines triggering a diplomatic dispute. ](/news/2015/11/6/indonesia-and-the-philippines-discuss-their-borders-after-the-indonesian-navy-sinks-four-filipino-fishing-vessels-off-the-coast-of-the-phili.md) _Context: Indonesia, Indonesia-Philippines relations_
 4. [Philippines President Benigno Aquino III asks Indonesian President Joko Widodo to spare the life of Mary Jane Veloso, a migrant domestic worker sentenced to death for drug trafficking. ](/news/2015/04/27/philippines-president-benigno-aquino-iii-asks-indonesian-president-joko-widodo-to-spare-the-life-of-mary-jane-veloso-a-migrant-domestic-wor.md) _Context: Indonesia, Mary Jane Veloso_
-5. [More than 134,000 people on the island of Bali, Indonesia, have been taken to shelters as the Mount Agung volcano continues to release smoke. The alert level for an eruption has been raised to the second highest level, 4. In addition, the entire population of Vanuatu's Aoba Island, also at alert level 4, is being moved from the path of the increasingly active Lombenben volcano. ](/news/2017/09/28/more-than-134-000-people-on-the-island-of-bali-indonesia-have-been-taken-to-shelters-as-the-mount-agung-volcano-continues-to-release-smoke.md) _Context: Indonesia_
-
-### Changes:
-
-1. [Indonesia-Philippines relations: Filipina convict Mary Jane Veloso gets a reprieve from Indonesian executions. ](/news/2016/05/7/indonesia-philippines-relations-filipina-convict-mary-jane-veloso-gets-a-reprieve-from-indonesian-executions.md) _2017-08-27 03:45:59 (First version)_
-1. [Filipina convict Mary Jane Veloso gets a reprieve from Indonesian executions. ](/news/2016/05/7/filipina-convict-mary-jane-veloso-gets-a-reprieve-from-indonesian-executions.md) _(Current version)_
+5. [The mezzanine overlooking the main lobby of the Indonesia Stock Exchange in Jakarta, Indonesia, collapses, injuring at least 70 people. The Indonesian National Police ruled out terrorism as the cause. ](/news/2018/01/15/the-mezzanine-overlooking-the-main-lobby-of-the-indonesia-stock-exchange-in-jakarta-indonesia-collapses-injuring-at-least-70-people-the.md) _Context: Indonesia_

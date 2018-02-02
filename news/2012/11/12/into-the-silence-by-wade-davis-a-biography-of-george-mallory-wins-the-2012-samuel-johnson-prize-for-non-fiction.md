@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/12/into-the-silence-by-wade-davis-a-biography-of-george-mallory-wins-the-2012-samuel-johnson-prize-for-non-fiction.html)  [JSON](/news/2012/11/12/into-the-silence-by-wade-davis-a-biography-of-george-mallory-wins-the-2012-samuel-johnson-prize-for-non-fiction.json)  [XML](/news/2012/11/12/into-the-silence-by-wade-davis-a-biography-of-george-mallory-wins-the-2012-samuel-johnson-prize-for-non-fiction.xml)  
+
 ### [2012-11-12](/news/2012/11/12/index.md)
 
+##### Wade Davis
 # "Into the Silence" by Wade Davis, a biography of George Mallory wins the 2012 Samuel Johnson Prize for Non Fiction. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-20298350)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64085000/jpg/_64085105_wadedavis.jpg)

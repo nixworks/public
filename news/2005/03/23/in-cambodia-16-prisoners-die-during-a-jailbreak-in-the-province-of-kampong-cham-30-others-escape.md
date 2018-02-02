@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/23/in-cambodia-16-prisoners-die-during-a-jailbreak-in-the-province-of-kampong-cham-30-others-escape.html)  [JSON](/news/2005/03/23/in-cambodia-16-prisoners-die-during-a-jailbreak-in-the-province-of-kampong-cham-30-others-escape.json)  [XML](/news/2005/03/23/in-cambodia-16-prisoners-die-during-a-jailbreak-in-the-province-of-kampong-cham-30-others-escape.xml)  
+
 ### [2005-03-23](/news/2005/03/23/index.md)
 
+##### Cambodia
 #  In Cambodia, 16 prisoners die during a jailbreak in the province of Kampong Cham; 30 others escape. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4375587.stm)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/BKK156113.htm)

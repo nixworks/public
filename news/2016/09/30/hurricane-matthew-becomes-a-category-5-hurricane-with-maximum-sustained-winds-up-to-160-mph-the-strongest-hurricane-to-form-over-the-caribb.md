@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/30/hurricane-matthew-becomes-a-category-5-hurrican
 
 ### [2016-09-30](/news/2016/09/30/index.md)
 
+##### 2016 Atlantic hurricane season
 # Hurricane Matthew becomes a category-5 hurricane with maximum sustained winds up to 160 mph, the strongest hurricane to form over the Caribbean Sea since Hurricane Felix in 2007. It is expected to impact parts of Haiti, Jamaica and eastern Cuba. 
 
 Hurricane Matthew is gaining strength in the Caribbean, its current track from the National Hurricane Center has it going east of Florida.

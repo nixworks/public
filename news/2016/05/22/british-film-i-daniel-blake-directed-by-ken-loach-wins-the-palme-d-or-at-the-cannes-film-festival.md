@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/22/british-film-i-daniel-blake-directed-by-ken-loa
 
 ### [2016-05-22](/news/2016/05/22/index.md)
 
+##### 2016 Cannes Film Festival
 # British film "I, Daniel Blake", directed by Ken Loach, wins the Palme d'Or at the Cannes Film Festival. 
 
 All the awards at the 69th Cannes film festival, as it happens, with Ken Loach’s powerful polemic winning the big prize

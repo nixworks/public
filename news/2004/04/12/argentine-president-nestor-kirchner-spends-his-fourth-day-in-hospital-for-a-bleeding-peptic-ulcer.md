@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/12/argentine-president-nestor-kirchner-spends-his-fourth-day-in-hospital-for-a-bleeding-peptic-ulcer.html)  [JSON](/news/2004/04/12/argentine-president-nestor-kirchner-spends-his-fourth-day-in-hospital-for-a-bleeding-peptic-ulcer.json)  [XML](/news/2004/04/12/argentine-president-nestor-kirchner-spends-his-fourth-day-in-hospital-for-a-bleeding-peptic-ulcer.xml)  
+
 ### [2004-04-12](/news/2004/04/12/index.md)
 
+##### Argentina
 #  Argentine president Nstor Kirchner spends his fourth day in hospital for a bleeding peptic ulcer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Mercopress](http://www.falkland-malvinas.com/Detalle.asp?NUM=3510)
 

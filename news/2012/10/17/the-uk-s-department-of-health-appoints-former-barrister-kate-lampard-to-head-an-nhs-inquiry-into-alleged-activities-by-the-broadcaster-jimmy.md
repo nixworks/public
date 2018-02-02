@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/17/the-uk-s-department-of-health-appoints-former-barrister-kate-lampard-to-head-an-nhs-inquiry-into-alleged-activities-by-the-broadcaster-jimmy.html)  [JSON](/news/2012/10/17/the-uk-s-department-of-health-appoints-former-barrister-kate-lampard-to-head-an-nhs-inquiry-into-alleged-activities-by-the-broadcaster-jimmy.json)  [XML](/news/2012/10/17/the-uk-s-department-of-health-appoints-former-barrister-kate-lampard-to-head-an-nhs-inquiry-into-alleged-activities-by-the-broadcaster-jimmy.xml)  
+
 ### [2012-10-17](/news/2012/10/17/index.md)
 
+##### Department of Health
 # The UK's Department of Health appoints former barrister Kate Lampard to head an NHS inquiry into alleged activities by the broadcaster Jimmy Savile at various hospitals at which he was involved. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-19980979)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63549000/jpg/_63549897_016207503.jpg)

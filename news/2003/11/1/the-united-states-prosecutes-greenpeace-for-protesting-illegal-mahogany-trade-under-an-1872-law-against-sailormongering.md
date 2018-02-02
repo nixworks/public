@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/1/the-united-states-prosecutes-greenpeace-for-protesting-illegal-mahogany-trade-under-an-1872-law-against-sailormongering.html)  [JSON](/news/2003/11/1/the-united-states-prosecutes-greenpeace-for-protesting-illegal-mahogany-trade-under-an-1872-law-against-sailormongering.json)  [XML](/news/2003/11/1/the-united-states-prosecutes-greenpeace-for-protesting-illegal-mahogany-trade-under-an-1872-law-against-sailormongering.xml)  
+
 ### [2003-11-1](/news/2003/11/1/index.md)
 
+##### Greenpeace India's
 #  The United States prosecutes Greenpeace for protesting illegal mahogany trade under an 1872 law against "sailormongering".
 
 

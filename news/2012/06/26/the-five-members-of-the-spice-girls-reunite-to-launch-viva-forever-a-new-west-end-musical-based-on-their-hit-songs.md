@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/26/the-five-members-of-the-spice-girls-reunite-to-launch-viva-forever-a-new-west-end-musical-based-on-their-hit-songs.html)  [JSON](/news/2012/06/26/the-five-members-of-the-spice-girls-reunite-to-launch-viva-forever-a-new-west-end-musical-based-on-their-hit-songs.json)  [XML](/news/2012/06/26/the-five-members-of-the-spice-girls-reunite-to-launch-viva-forever-a-new-west-end-musical-based-on-their-hit-songs.xml)  
+
 ### [2012-06-26](/news/2012/06/26/index.md)
 
+##### Spice Girls
 # The five members of the Spice Girls reunite to launch "Viva Forever!", a new West End musical based on their hit songs. 
 
 The five members of the Spice Girls reunite to launch Viva Forever!, a new West End musical based on their hit songs.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18576789)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/61173000/jpg/_61173363_spicegirls2_ap.jpg)

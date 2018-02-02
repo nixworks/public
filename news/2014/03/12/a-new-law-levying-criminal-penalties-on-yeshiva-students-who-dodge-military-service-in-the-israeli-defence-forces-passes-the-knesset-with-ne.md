@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/12/a-new-law-levying-criminal-penalties-on-yeshiva-students-who-dodge-military-service-in-the-israeli-defence-forces-passes-the-knesset-with-ne.html)  [JSON](/news/2014/03/12/a-new-law-levying-criminal-penalties-on-yeshiva-students-who-dodge-military-service-in-the-israeli-defence-forces-passes-the-knesset-with-ne.json)  [XML](/news/2014/03/12/a-new-law-levying-criminal-penalties-on-yeshiva-students-who-dodge-military-service-in-the-israeli-defence-forces-passes-the-knesset-with-ne.xml)  
+
 ### [2014-03-12](/news/2014/03/12/index.md)
 
+##### yeshiva
 # A new law levying criminal penalties on yeshiva students who dodge military service in the Israeli Defence Forces passes the Knesset with near unanimous support as the entire opposition boycotts the vote; Yoni Chetboun from Jewish Home is the lone no-voter. 
 
 Jewish Home MK lone &#8216;no&#8217; vote on bill to levy criminal sanctions on draft dodgers; opposition boycotts session
 
 
-### Source:
+### Sources:
 
 1. [Times of Israel](http://www.timesofisrael.com/bill-to-draft-ultra-orthodox-into-idf-passes-knesset/)
 1. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/03/lapid-bennett-e1394625857662.jpg)

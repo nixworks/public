@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/4/about-70-indian-police-personnel-are-reported-missing-in-chhattisgarh-forests-amid-a-major-engagement-with-maoist-guerrillas-they-are-later.html)  [JSON](/news/2010/08/4/about-70-indian-police-personnel-are-reported-missing-in-chhattisgarh-forests-amid-a-major-engagement-with-maoist-guerrillas-they-are-later.json)  [XML](/news/2010/08/4/about-70-indian-police-personnel-are-reported-missing-in-chhattisgarh-forests-amid-a-major-engagement-with-maoist-guerrillas-they-are-later.xml)  
+
 ### [2010-08-4](/news/2010/08/4/index.md)
 
+##### Indian police
 # About 70 Indian police personnel are reported missing in Chhattisgarh forests amid a major engagement with Maoist guerrillas; they are later found. No casualties have been reported. 
 
 A fierce encounter took place on Wednesday between a police party of 75 personnel and Maoists near Kirandul in Dantewada district of Chhattisgarh. The police party is safe and there were no casualties.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201084131150549882.html)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-10866353)

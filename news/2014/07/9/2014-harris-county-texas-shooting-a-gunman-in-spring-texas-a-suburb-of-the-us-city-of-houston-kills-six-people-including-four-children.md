@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2014/07/9/2014-harris-county-texas-shooting-a-gunman-in-spring-texas-a-suburb-of-the-us-city-of-houston-kills-six-people-including-four-children.html)  [JSON](/news/2014/07/9/2014-harris-county-texas-shooting-a-gunman-in-spring-texas-a-suburb-of-the-us-city-of-houston-kills-six-people-including-four-children.json)  [XML](/news/2014/07/9/2014-harris-county-texas-shooting-a-gunman-in-spring-texas-a-suburb-of-the-us-city-of-houston-kills-six-people-including-four-children.xml)  
+
 ### [2014-07-9](/news/2014/07/9/index.md)
 
+##### 2014 Harris County, Texas shooting
 # 2014 Harris County, Texas shooting: A gunman in Spring, Texas, a suburb of the US city of Houston, kills six people including four children. 
 
 

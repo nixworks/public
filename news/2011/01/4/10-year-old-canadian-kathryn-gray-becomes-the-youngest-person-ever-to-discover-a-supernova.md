@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/4/10-year-old-canadian-kathryn-gray-becomes-the-youngest-person-ever-to-discover-a-supernova.html)  [JSON](/news/2011/01/4/10-year-old-canadian-kathryn-gray-becomes-the-youngest-person-ever-to-discover-a-supernova.json)  [XML](/news/2011/01/4/10-year-old-canadian-kathryn-gray-becomes-the-youngest-person-ever-to-discover-a-supernova.xml)  
+
 ### [2011-01-4](/news/2011/01/4/index.md)
 
+##### Canadian
 # 10-year-old Canadian Kathryn Gray becomes the youngest person ever to discover a supernova. 
 
 A 10-year-old girl in Canada is the youngest person to discover a supernova - an exploding star which can briefly outshine a whole galaxy.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-12110747)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

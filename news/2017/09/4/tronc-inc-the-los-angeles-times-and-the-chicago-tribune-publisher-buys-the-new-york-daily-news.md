@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/4/tronc-inc-the-los-angeles-times-and-the-chicago-
 
 ### [2017-09-4](/news/2017/09/4/index.md)
 
+##### Media of the United States
 # Tronc Inc., the "Los Angeles Times" and the "Chicago Tribune" publisher, buys the "New York Daily News". 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/11/japan-pledges-over-21m-in-support-of-a-united-nations-backed-independent-tribunal-of-khmer-rouge-leaders-in-cambodia-the-proposed-tribuna.html)  [JSON](/news/2005/02/11/japan-pledges-over-21m-in-support-of-a-united-nations-backed-independent-tribunal-of-khmer-rouge-leaders-in-cambodia-the-proposed-tribuna.json)  [XML](/news/2005/02/11/japan-pledges-over-21m-in-support-of-a-united-nations-backed-independent-tribunal-of-khmer-rouge-leaders-in-cambodia-the-proposed-tribuna.xml)  
+
 ### [2005-02-11](/news/2005/02/11/index.md)
 
+##### United Nations
 #  Japan pledges over $21M in support of a United Nations-backed independent tribunal of Khmer Rouge leaders in Cambodia. The proposed tribunal is for crimes against humanity. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4252649.stm)
 2. [ChannelNews Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/131814/1/.html)

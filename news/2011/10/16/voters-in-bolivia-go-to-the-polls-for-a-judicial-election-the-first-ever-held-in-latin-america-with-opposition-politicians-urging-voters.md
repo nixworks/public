@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/16/voters-in-bolivia-go-to-the-polls-for-a-judicial-election-the-first-ever-held-in-latin-america-with-opposition-politicians-urging-voters.html)  [JSON](/news/2011/10/16/voters-in-bolivia-go-to-the-polls-for-a-judicial-election-the-first-ever-held-in-latin-america-with-opposition-politicians-urging-voters.json)  [XML](/news/2011/10/16/voters-in-bolivia-go-to-the-polls-for-a-judicial-election-the-first-ever-held-in-latin-america-with-opposition-politicians-urging-voters.xml)  
+
 ### [2011-10-16](/news/2011/10/16/index.md)
 
+##### Bolivia
 # Voters in Bolivia go to the polls for a judicial election - the first ever held in Latin America - with opposition politicians urging voters to spoil their ballots in protest against the government of incumbent President Evo Morales. 
 
 Most Bolivians voting in the first ever ballot to elect top judges cast invalid votes, exit polls suggest, in an apparent protest against President Evo Morales.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-15330703)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56095000/jpg/_56095614_013165634-1.jpg)

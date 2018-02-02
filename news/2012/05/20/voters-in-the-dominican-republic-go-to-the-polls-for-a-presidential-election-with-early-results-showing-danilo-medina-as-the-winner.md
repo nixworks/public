@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/05/20/voters-in-the-dominican-republic-go-to-the-polls-for-a-presidential-election-with-early-results-showing-danilo-medina-as-the-winner.html)  [JSON](/news/2012/05/20/voters-in-the-dominican-republic-go-to-the-polls-for-a-presidential-election-with-early-results-showing-danilo-medina-as-the-winner.json)  [XML](/news/2012/05/20/voters-in-the-dominican-republic-go-to-the-polls-for-a-presidential-election-with-early-results-showing-danilo-medina-as-the-winner.xml)  
+
 ### [2012-05-20](/news/2012/05/20/index.md)
 
+##### Dominican Republic
 # Voters in the Dominican Republic go to the polls for a presidential election with early results showing Danilo Medina as the winner. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC America](http://abcnews.go.com/International/wireStory/fear-versus-frustration-dominican-republic-vote-16386854#.T7hbUNxo3TA)
-2. [Reuters via Yahoo News](http://news.yahoo.com/ruling-party-headed-1st-round-win-dominican-election-033525811.html)
+2. [Reuters via Yahoo News](https://news.yahoo.com/ruling-party-headed-1st-round-win-dominican-election-033525811.html)
 
 ### Related:
 

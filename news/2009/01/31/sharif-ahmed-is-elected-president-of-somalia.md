@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/31/sharif-ahmed-is-elected-president-of-somalia.html)  [JSON](/news/2009/01/31/sharif-ahmed-is-elected-president-of-somalia.json)  [XML](/news/2009/01/31/sharif-ahmed-is-elected-president-of-somalia.xml)  
+
 ### [2009-01-31](/news/2009/01/31/index.md)
 
+##### Sharif Ahmed
 #  Sharif Ahmed is elected President of Somalia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hqbt6MCSOAJ-wR0_vggTX44eXL-g)
 

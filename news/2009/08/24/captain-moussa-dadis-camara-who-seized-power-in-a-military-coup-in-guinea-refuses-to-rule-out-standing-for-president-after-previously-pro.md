@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/24/captain-moussa-dadis-camara-who-seized-power-in-a-military-coup-in-guinea-refuses-to-rule-out-standing-for-president-after-previously-pro.html)  [JSON](/news/2009/08/24/captain-moussa-dadis-camara-who-seized-power-in-a-military-coup-in-guinea-refuses-to-rule-out-standing-for-president-after-previously-pro.json)  [XML](/news/2009/08/24/captain-moussa-dadis-camara-who-seized-power-in-a-military-coup-in-guinea-refuses-to-rule-out-standing-for-president-after-previously-pro.xml)  
+
 ### [2009-08-24](/news/2009/08/24/index.md)
 
+##### Moussa Dadis Camara
 #  Captain Moussa Dadis Camara who seized power in a military coup in Guinea, refuses to rule out standing for President, after previously promising not to. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gyJXjZ9R2fsZaO3cqaDZ6dvltWRA)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8218591.stm)

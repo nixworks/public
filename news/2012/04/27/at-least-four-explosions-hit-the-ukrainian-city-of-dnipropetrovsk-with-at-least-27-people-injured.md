@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/27/at-least-four-explosions-hit-the-ukrainian-city-of-dnipropetrovsk-with-at-least-27-people-injured.html)  [JSON](/news/2012/04/27/at-least-four-explosions-hit-the-ukrainian-city-of-dnipropetrovsk-with-at-least-27-people-injured.json)  [XML](/news/2012/04/27/at-least-four-explosions-hit-the-ukrainian-city-of-dnipropetrovsk-with-at-least-27-people-injured.xml)  
+
 ### [2012-04-27](/news/2012/04/27/index.md)
 
+##### 2012 Dnipropetrovsk explosions
 # At least four explosions hit the Ukrainian city of Dnipropetrovsk with at least 27 people injured. 
 
 Four explosions rock the city of Dnipropetrovsk in eastern Ukraine, injuring at least 27 people.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-17869249)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59905000/jpg/_59905588_medicsap.jpg)

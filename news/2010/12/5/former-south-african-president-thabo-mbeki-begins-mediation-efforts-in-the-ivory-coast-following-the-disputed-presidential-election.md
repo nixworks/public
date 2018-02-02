@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/5/former-south-african-president-thabo-mbeki-begins-mediation-efforts-in-the-ivory-coast-following-the-disputed-presidential-election.html)  [JSON](/news/2010/12/5/former-south-african-president-thabo-mbeki-begins-mediation-efforts-in-the-ivory-coast-following-the-disputed-presidential-election.json)  [XML](/news/2010/12/5/former-south-african-president-thabo-mbeki-begins-mediation-efforts-in-the-ivory-coast-following-the-disputed-presidential-election.xml)  
+
 ### [2010-12-5](/news/2010/12/5/index.md)
 
+##### South Africa
 # Former South African President Thabo Mbeki begins mediation efforts in the Ivory Coast following the disputed presidential election. 
 
 Former&#x20;South&#x20;African&#x20;President&#x20;Thabo&#x20;Mbeki&#x20;is&#x20;meeting&#x20;with&#x20;rival&#x20;contenders&#x20;for&#x20;the&#x20;Ivorian&#x20;presidency&#x20;Laurent&#x20;Gbagbo&#x20;and&#x20;Alassane&#x20;Ouattara&#x20;in&#x20;Abidjan&#x20;on&#x20;Sunday&#x20;in&#x20;an&#x20;attempt&#x20;to&#x20;mediate&#x20;a&#x20;resolution&#x20;to&#x20;the&#x20;current&#x20;political&#x20;crisis.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/201012515239370715.html)
 2. [France 24](http://www.france24.com/en/20101205-ivory-coast-mbeki-holds-crisis-talks-gbagbo-ouattara-election-dispute)

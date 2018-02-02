@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/20/united-kingdom-referendum-on-the-european-constitution-p-m-tony-blair-confirms-that-a-referendum-will-be-held-on-the-uk-s-ratification-of.html)  [JSON](/news/2004/04/20/united-kingdom-referendum-on-the-european-constitution-p-m-tony-blair-confirms-that-a-referendum-will-be-held-on-the-uk-s-ratification-of.json)  [XML](/news/2004/04/20/united-kingdom-referendum-on-the-european-constitution-p-m-tony-blair-confirms-that-a-referendum-will-be-held-on-the-uk-s-ratification-of.xml)  
+
 ### [2004-04-20](/news/2004/04/20/index.md)
 
+##### United Kingdom referendum on the European Constitution
 #  United Kingdom referendum on the European Constitution: P.M. Tony Blair confirms that a referendum will be held on the UK's ratification of the future EU constitution. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/politics/3640949.stm)
 

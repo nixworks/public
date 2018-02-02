@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/28/the-iconic-sport-and-concert-venue-k-b-hallen-copenhagen-from-1938-burns-down.html)  [JSON](/news/2011/09/28/the-iconic-sport-and-concert-venue-k-b-hallen-copenhagen-from-1938-burns-down.json)  [XML](/news/2011/09/28/the-iconic-sport-and-concert-venue-k-b-hallen-copenhagen-from-1938-burns-down.xml)  
+
 ### [2011-09-28](/news/2011/09/28/index.md)
 
+##### K.B. Hallen
 # The iconic sport and concert venue K.B. Hallen, Copenhagen from 1938 burns down. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Copenhagen Post](http://www.cphpost.dk/news/national/88-national/52219-fire-destroys-kb-hallen-before-sex-fair-opening.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/27/china-claims-all-gold-and-silver-medals-in-the-table-tennis-world-championships-in-zagreb-croatia.html)  [JSON](/news/2007/05/27/china-claims-all-gold-and-silver-medals-in-the-table-tennis-world-championships-in-zagreb-croatia.json)  [XML](/news/2007/05/27/china-claims-all-gold-and-silver-medals-in-the-table-tennis-world-championships-in-zagreb-croatia.xml)  
+
 ### [2007-05-27](/news/2007/05/27/index.md)
 
+##### China
 #  China claims all gold and silver medals in the Table Tennis World Championships in Zagreb, Croatia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://www.chinadaily.com.cn/sports/2007-05/27/content_881116.htm)
 

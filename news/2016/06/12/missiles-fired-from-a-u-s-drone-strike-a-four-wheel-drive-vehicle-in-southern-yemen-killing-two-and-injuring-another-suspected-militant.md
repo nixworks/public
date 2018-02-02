@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/12/missiles-fired-from-a-u-s-drone-strike-a-four-w
 
 ### [2016-06-12](/news/2016/06/12/index.md)
 
+##### Yemeni civil war
 # Missiles, fired from a U.S. drone, strike a four-wheel drive vehicle in southern Yemen, killing two and injuring another suspected militant. 
 
 
@@ -20,8 +21,8 @@ Formats: [HTML](/news/2016/06/12/missiles-fired-from-a-u-s-drone-strike-a-four-w
 
 ### Related:
 
-1. [A senior UN official warns that Yemen faces the world's largest famine in decades "with millions of victims" if aid deliveries do not resume. ](/news/2017/11/9/a-senior-un-official-warns-that-yemen-faces-the-world-s-largest-famine-in-decades-with-millions-of-victims-if-aid-deliveries-do-not-resume.md) _Context: Yemen, Yemeni Civil War_
-2. [Thousands of supporters of Yemen's secessionists rally in the southern city of Aden, backing a new group led by former head of Aden Governorate Aidarus al-Zoubaidi that advocates for autonomy of the country's south. ](/news/2017/07/7/thousands-of-supporters-of-yemen-s-secessionists-rally-in-the-southern-city-of-aden-backing-a-new-group-led-by-former-head-of-aden-governor.md) _Context: Yemen, Yemeni Civil War_
-3. [According to the International Committee of the Red Cross, a cholera outbreak has since April 27 killed at least 115 people and left another 8,500 ill across Yemen. ](/news/2017/05/14/according-to-the-international-committee-of-the-red-cross-a-cholera-outbreak-has-since-april-27-killed-at-least-115-people-and-left-another.md) _Context: Yemen, Yemeni Civil War_
-4. [A suspected U.S. drone strike kills two al-Qaida militants in central Shabwa province, according to Yemeni security and tribal officials. ](/news/2017/01/30/a-suspected-u-s-drone-strike-kills-two-al-qaida-militants-in-central-shabwa-province-according-to-yemeni-security-and-tribal-officials.md) _Context: Yemen, Yemeni Civil War_
-5. [Seven Pakistani crew members on Iranian cargo ship MV "Joya", sailing from Egypt to Dubai, UAE, are killed in a rocket attack off Yemen's coast. ](/news/2016/12/22/seven-pakistani-crew-members-on-iranian-cargo-ship-mv-joya-sailing-from-egypt-to-dubai-uae-are-killed-in-a-rocket-attack-off-yemen-s-co.md) _Context: Yemen, Yemeni Civil War_
+1. [The Southern Transitional Council (STC) takes control of the Yemeni port city of Aden following two days of fierce fighting in the city which has left dozens dead. Yemeni Prime Minister Ahmed Obeid bin Daghr, and members of the President Abdrabbuh Mansur Hadi-led government are confined to the presidential palace which has been surrounded. ](/news/2018/01/30/the-southern-transitional-council-stc-takes-control-of-the-yemeni-port-city-of-aden-following-two-days-of-fierce-fighting-in-the-city-whic.md) _Context: Yemen_
+2. [United Arab Emirates-backed Southern Transitional Council (STC) fighters seize control of government buildings in the southern Yemeni city of Aden, after clashing with forces loyal to President Abdrabbuh Mansur Hadi. At least 10 people are reportedly killed and 30 wounded. Yemeni Prime Minister Ahmed Obeid bin Daghr accuses the separatists of mounting a coup. ](/news/2018/01/28/united-arab-emirates-backed-southern-transitional-council-stc-fighters-seize-control-of-government-buildings-in-the-southern-yemeni-city-o.md) _Context: Yemen_
+3. [After 1,000 days of civil war in Yemen, eight million people are at risk of starvation. ](/news/2017/12/22/after-1-000-days-of-civil-war-in-yemen-eight-million-people-are-at-risk-of-starvation.md) _Context: Yemen_
+4. [Nikki Haley, the U.S. Ambassador to the United Nations, accuses Iran of violating the 2015 nuclear deal by allegedly supplying the missile fired last month on Saudi Arabia from Yemen. Iran refutes the claim as based on "fabricated" evidence. ](/news/2017/12/14/nikki-haley-the-u-s-ambassador-to-the-united-nations-accuses-iran-of-violating-the-2015-nuclear-deal-by-allegedly-supplying-the-missile-f.md) _Context: Yemen_
+5. [At least 30 people are reported to have been killed in Saudi-led coalition air strikes on a rebel military police camp in Yemen's capital, Sanaa. ](/news/2017/12/13/at-least-30-people-are-reported-to-have-been-killed-in-saudi-led-coalition-air-strikes-on-a-rebel-military-police-camp-in-yemen-s-capital-s.md) _Context: Yemen_

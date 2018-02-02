@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/1/former-polish-prime-minister-donald-tusk-becomes-the-second-full-time-president-of-the-european-union.html)  [JSON](/news/2014/12/1/former-polish-prime-minister-donald-tusk-becomes-the-second-full-time-president-of-the-european-union.json)  [XML](/news/2014/12/1/former-polish-prime-minister-donald-tusk-becomes-the-second-full-time-president-of-the-european-union.xml)  
+
 ### [2014-12-1](/news/2014/12/1/index.md)
 
+##### Donald Tusk
 # Former Polish prime minister Donald Tusk becomes the second full-time President of the European Union. 
 
 EU Council chief Van Rompuy is ending his five-year term true to his nature, with no glam or pomp. But his legacy is significant, particularly in the eurozone crisis and its institutional follow-up.
 
 
-### Source:
+### Sources:
 
 1. [EUobserver](http://euobserver.com/institutional/126725)
 1. [Cover Image](https://s3.eu-central-1.amazonaws.com/euobs-media/c1bf5180ef9e6a8943b775e46242d5e1-480x.jpg)

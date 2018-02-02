@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/4/john-yettaw-detained-in-burma-for-making-an-uninvited-visit-to-aung-san-suu-kyi-is-taken-to-hospital-suffering-seizures.html)  [JSON](/news/2009/08/4/john-yettaw-detained-in-burma-for-making-an-uninvited-visit-to-aung-san-suu-kyi-is-taken-to-hospital-suffering-seizures.json)  [XML](/news/2009/08/4/john-yettaw-detained-in-burma-for-making-an-uninvited-visit-to-aung-san-suu-kyi-is-taken-to-hospital-suffering-seizures.xml)  
+
 ### [2009-08-4](/news/2009/08/4/index.md)
 
+##### John Yettaw
 #  John Yettaw, detained in Burma for making an uninvited visit to Aung San Suu Kyi, is taken to hospital suffering seizures. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jqswjMyad1iFY58_U_hI5WrmWGZw)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8182774.stm)

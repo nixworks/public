@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/21/remains-of-the-first-dwelling-in-nazareth-that-can-be-dated-back-to-the-time-of-jesus-have-been-found-by-israeli-archaeologists.html)  [JSON](/news/2009/12/21/remains-of-the-first-dwelling-in-nazareth-that-can-be-dated-back-to-the-time-of-jesus-have-been-found-by-israeli-archaeologists.json)  [XML](/news/2009/12/21/remains-of-the-first-dwelling-in-nazareth-that-can-be-dated-back-to-the-time-of-jesus-have-been-found-by-israeli-archaeologists.xml)  
+
 ### [2009-12-21](/news/2009/12/21/index.md)
 
+##### Nazareth
 #  Remains of the first dwelling in Nazareth that can be dated back to the time of Jesus have been found by Israeli archaeologists. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1261364468185&pagename=JPost%2FJPArticle%2FShowFull)
 

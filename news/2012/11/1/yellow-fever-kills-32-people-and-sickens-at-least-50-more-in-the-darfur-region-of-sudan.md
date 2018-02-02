@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/1/yellow-fever-kills-32-people-and-sickens-at-least-50-more-in-the-darfur-region-of-sudan.html)  [JSON](/news/2012/11/1/yellow-fever-kills-32-people-and-sickens-at-least-50-more-in-the-darfur-region-of-sudan.json)  [XML](/news/2012/11/1/yellow-fever-kills-32-people-and-sickens-at-least-50-more-in-the-darfur-region-of-sudan.xml)  
+
 ### [2012-11-1](/news/2012/11/1/index.md)
 
+##### Yellow fever
 # Yellow fever kills 32 people and sickens at least 50 more in the Darfur region of Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hqsEhQV7zviTH3ikkjsxG1-2XnOA?docId=CNG.9d9bb5d97241aa39684f8140764984ed.711)
 2. [All Africa](http://allafrica.com/stories/201211010063.html)

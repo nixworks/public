@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/6/the-united-states-puts-forth-a-un-security-council-resolution-seeking-to-freeze-the-assets-of-charles-taylor-the-exiled-former-president-o.html)  [JSON](/news/2004/03/6/the-united-states-puts-forth-a-un-security-council-resolution-seeking-to-freeze-the-assets-of-charles-taylor-the-exiled-former-president-o.json)  [XML](/news/2004/03/6/the-united-states-puts-forth-a-un-security-council-resolution-seeking-to-freeze-the-assets-of-charles-taylor-the-exiled-former-president-o.xml)  
+
 ### [2004-03-6](/news/2004/03/6/index.md)
 
+##### UN Security Council
 #  The United States puts forth a UN Security Council resolution seeking to freeze the assets of Charles Taylor, the exiled former president of Liberia. The U.S. also announces that it is pledging $35 million to help rebuild Liberia's armed forces and that it supports the cancellation of Liberia's international debt, providing that economic reforms are implemented. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/3538553.stm)
 

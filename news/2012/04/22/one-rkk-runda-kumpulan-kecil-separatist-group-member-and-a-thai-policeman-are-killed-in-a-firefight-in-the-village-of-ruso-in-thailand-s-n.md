@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/22/one-rkk-runda-kumpulan-kecil-separatist-group-member-and-a-thai-policeman-are-killed-in-a-firefight-in-the-village-of-ruso-in-thailand-s-n.html)  [JSON](/news/2012/04/22/one-rkk-runda-kumpulan-kecil-separatist-group-member-and-a-thai-policeman-are-killed-in-a-firefight-in-the-village-of-ruso-in-thailand-s-n.json)  [XML](/news/2012/04/22/one-rkk-runda-kumpulan-kecil-separatist-group-member-and-a-thai-policeman-are-killed-in-a-firefight-in-the-village-of-ruso-in-thailand-s-n.xml)  
+
 ### [2012-04-22](/news/2012/04/22/index.md)
 
+##### RKK
 # One RKK (Runda Kumpulan Kecil) separatist group member and a Thai policeman are killed in a firefight in the village of Ruso in Thailand's Narathiwat Province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/breakingnews/289889/one-rkk-member-killed-in-narathiwat)
 

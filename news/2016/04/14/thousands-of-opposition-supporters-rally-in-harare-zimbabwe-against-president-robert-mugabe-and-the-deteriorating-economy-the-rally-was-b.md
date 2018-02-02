@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/14/thousands-of-opposition-supporters-rally-in-har
 
 ### [2016-04-14](/news/2016/04/14/index.md)
 
+##### Harare
 # Thousands of opposition supporters rally in Harare, Zimbabwe, against President Robert Mugabe and the deteriorating economy. The rally was banned by the police, however, it went ahead after a ruling by the High Court sanctioned the protest. 
 
 Some 2,000 Zimbabwean opposition supporters, some calling on President Mugabe to resign, rally in Harare, the biggest such protest in many years.

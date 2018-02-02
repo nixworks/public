@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/05/20/the-legislature-in-the-american-state-of-nebraska-votes-to-abolish-the-death-penalty.html)  [JSON](/news/2015/05/20/the-legislature-in-the-american-state-of-nebraska-votes-to-abolish-the-death-penalty.json)  [XML](/news/2015/05/20/the-legislature-in-the-american-state-of-nebraska-votes-to-abolish-the-death-penalty.xml)  
+
 ### [2015-05-20](/news/2015/05/20/index.md)
 
+##### Legislature
 # The legislature in the American state of Nebraska votes to abolish the death penalty. 
 
 Deeply-red Nebraska is on the verge of becoming the 19th state to abolish the death penalty.
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/news/post-nation/wp/2015/05/20/nebraska-lawmakers-vote-to-abolish-the-death-penalty-despite-veto-threat-from-governor/)
+1. [Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2015/05/20/nebraska-lawmakers-vote-to-abolish-the-death-penalty-despite-veto-threat-from-governor/)
 
 ### Related:
 

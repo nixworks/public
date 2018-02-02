@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/17/malagasy-president-andry-rajoelina-issues-an-arrest-warrant-for-former-president-marc-ravalomanana.html)  [JSON](/news/2009/04/17/malagasy-president-andry-rajoelina-issues-an-arrest-warrant-for-former-president-marc-ravalomanana.json)  [XML](/news/2009/04/17/malagasy-president-andry-rajoelina-issues-an-arrest-warrant-for-former-president-marc-ravalomanana.xml)  
+
 ### [2009-04-17](/news/2009/04/17/index.md)
 
+##### Madagascar
 #  Malagasy President Andry Rajoelina issues an arrest warrant for former President Marc Ravalomanana. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News 24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_2503094,00.html)
 1. [Cover Image](http://graph.facebook.com/10227041841/picture)

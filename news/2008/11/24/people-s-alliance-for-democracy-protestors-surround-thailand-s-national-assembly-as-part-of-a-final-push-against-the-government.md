@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/24/people-s-alliance-for-democracy-protestors-surround-thailand-s-national-assembly-as-part-of-a-final-push-against-the-government.html)  [JSON](/news/2008/11/24/people-s-alliance-for-democracy-protestors-surround-thailand-s-national-assembly-as-part-of-a-final-push-against-the-government.json)  [XML](/news/2008/11/24/people-s-alliance-for-democracy-protestors-surround-thailand-s-national-assembly-as-part-of-a-final-push-against-the-government.xml)  
+
 ### [2008-11-24](/news/2008/11/24/index.md)
 
+##### yellow shirt
 #  People's Alliance for Democracy protestors surround Thailand's National Assembly as part of a "final push" against the government. 
 
 Thousands of Thai protesters surrounded parliament Monday in an effort to prevent lawmakers from meeting in what they say is their final push in a six-month campaign against the government.
 
 
-### Source:
+### Sources:
 
 1. [AFP via The Melbourne Age](http://news.theage.com.au/world/thai-protesters-surround-parliament-for-final-battle-20081124-6fjp.html)
 1. [Cover Image](http://images.theage.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)

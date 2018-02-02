@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/4/the-clergy-and-lay-people-of-the-episcopal-church-in-the-united-states-of-america-by-a-comfortable-margin-vote-in-favor-of-the-appointmen.html)  [JSON](/news/2003/08/4/the-clergy-and-lay-people-of-the-episcopal-church-in-the-united-states-of-america-by-a-comfortable-margin-vote-in-favor-of-the-appointmen.json)  [XML](/news/2003/08/4/the-clergy-and-lay-people-of-the-episcopal-church-in-the-united-states-of-america-by-a-comfortable-margin-vote-in-favor-of-the-appointmen.xml)  
+
 ### [2003-08-4](/news/2003/08/4/index.md)
 
+##### United States Episcopal Church
 #  The clergy and lay people of the Episcopal Church in the United States of America, by a comfortable margin, vote in favor of the appointment of an openly gay bishop. The vote is thought likely to get confirmation from the bishops' collegium, which however is delayed due to last minute independent allegations of misconduct and intense conservative opposition.
 
 

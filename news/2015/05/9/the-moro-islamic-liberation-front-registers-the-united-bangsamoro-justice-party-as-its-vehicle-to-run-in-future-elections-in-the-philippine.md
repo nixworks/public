@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/9/the-moro-islamic-liberation-front-registers-the-united-bangsamoro-justice-party-as-its-vehicle-to-run-in-future-elections-in-the-philippine.html)  [JSON](/news/2015/05/9/the-moro-islamic-liberation-front-registers-the-united-bangsamoro-justice-party-as-its-vehicle-to-run-in-future-elections-in-the-philippine.json)  [XML](/news/2015/05/9/the-moro-islamic-liberation-front-registers-the-united-bangsamoro-justice-party-as-its-vehicle-to-run-in-future-elections-in-the-philippine.xml)  
+
 ### [2015-05-9](/news/2015/05/9/index.md)
 
+##### Moro Islamic Liberation Front
 #  The Moro Islamic Liberation Front registers the United Bangsamoro Justice Party as its vehicle to run in future elections in the Philippines. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Inquirer](http://newsinfo.inquirer.net/690242/milf-forms-own-political-party)
 

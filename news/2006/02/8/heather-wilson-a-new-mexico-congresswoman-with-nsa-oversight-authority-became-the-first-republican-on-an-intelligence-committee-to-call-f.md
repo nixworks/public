@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2006/02/8/heather-wilson-a-new-mexico-congresswoman-with-nsa-oversight-authority-became-the-first-republican-on-an-intelligence-committee-to-call-f.html)  [JSON](/news/2006/02/8/heather-wilson-a-new-mexico-congresswoman-with-nsa-oversight-authority-became-the-first-republican-on-an-intelligence-committee-to-call-f.json)  [XML](/news/2006/02/8/heather-wilson-a-new-mexico-congresswoman-with-nsa-oversight-authority-became-the-first-republican-on-an-intelligence-committee-to-call-f.xml)  
+
 ### [2006-02-8](/news/2006/02/8/index.md)
 
+##### Heather Wilson
 #  Heather Wilson, a New Mexico Congresswoman with NSA oversight authority, became the first Republican on an intelligence committee to call for a congressional investigation into Bush's warrantless wiretap program. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [NY Times](http://www.nytimes.com/2006/02/08/politics/08nsa.html)
-1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+1. [NY Times](https://www.nytimes.com/2006/02/08/politics/08nsa.html)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/19/the-president-of-east-timor-josa-c-ramos-horta-concedes-defeat-in-the-east-timorese-presidential-election-with-taur-matan-ruak-and-francisco.html)  [JSON](/news/2012/03/19/the-president-of-east-timor-josa-c-ramos-horta-concedes-defeat-in-the-east-timorese-presidential-election-with-taur-matan-ruak-and-francisco.json)  [XML](/news/2012/03/19/the-president-of-east-timor-josa-c-ramos-horta-concedes-defeat-in-the-east-timorese-presidential-election-with-taur-matan-ruak-and-francisco.xml)  
+
 ### [2012-03-19](/news/2012/03/19/index.md)
 
+##### President
 # The President of East Timor Jose Ramos-Horta concedes defeat in the East Timorese presidential election with Taur Matan Ruak and Francisco Guterres likely to contest a runoff in April. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Newsday](http://www.newsday.com/news/nation/east-timor-president-concedes-defeat-in-election-1.3609732)
 

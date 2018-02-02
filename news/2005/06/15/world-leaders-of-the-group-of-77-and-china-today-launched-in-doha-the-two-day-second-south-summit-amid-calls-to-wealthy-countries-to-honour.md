@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/15/world-leaders-of-the-group-of-77-and-china-today-launched-in-doha-the-two-day-second-south-summit-amid-calls-to-wealthy-countries-to-honour.html)  [JSON](/news/2005/06/15/world-leaders-of-the-group-of-77-and-china-today-launched-in-doha-the-two-day-second-south-summit-amid-calls-to-wealthy-countries-to-honour.json)  [XML](/news/2005/06/15/world-leaders-of-the-group-of-77-and-china-today-launched-in-doha-the-two-day-second-south-summit-amid-calls-to-wealthy-countries-to-honour.xml)  
+
 ### [2005-06-15](/news/2005/06/15/index.md)
 
+##### World
 #  World leaders of the Group of 77 and China today launched in Doha the two-day second South Summit amid calls to wealthy countries to honour pledges of additional aid to close the gap between the rich and poor. 
 
 Reuters India offers top Business and market news updates covering Indian Stock market news, finance, investment and more news headlines. Read breaking news from India in business, stocks, sensex, market, entertainment and more with videos, pictures, discussions & more Indian news.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.co.in/locales/c_newsArticle.jsp?type=businessNews&localeKey=en_IN&storyID=8796388)
 2. [Xinhua](http://news.xinhuanet.com/english/2005-06/16/content_3091337.htm)

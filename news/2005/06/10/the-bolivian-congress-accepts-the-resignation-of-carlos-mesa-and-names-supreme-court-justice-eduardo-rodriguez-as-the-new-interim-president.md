@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/06/10/the-bolivian-congress-accepts-the-resignation-of-carlos-mesa-and-names-supreme-court-justice-eduardo-rodriguez-as-the-new-interim-president.html)  [JSON](/news/2005/06/10/the-bolivian-congress-accepts-the-resignation-of-carlos-mesa-and-names-supreme-court-justice-eduardo-rodriguez-as-the-new-interim-president.json)  [XML](/news/2005/06/10/the-bolivian-congress-accepts-the-resignation-of-carlos-mesa-and-names-supreme-court-justice-eduardo-rodriguez-as-the-new-interim-president.xml)  
+
 ### [2005-06-10](/news/2005/06/10/index.md)
 
+##### Bolivia
 #  The Bolivian Congress accepts the resignation of Carlos Mesa and names Supreme Court justice Eduardo Rodrguez as the new interim president 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aSVL57ppxA6I&refer=top_world_news)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000087&sid=aSVL57ppxA6I&refer=top_world_news)
 2. [IHT](http://www.iht.com/articles/2005/06/10/news/bolivia.php)
 
 ### Related:

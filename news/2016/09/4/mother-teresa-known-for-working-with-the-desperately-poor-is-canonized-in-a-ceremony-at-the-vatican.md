@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/4/mother-teresa-known-for-working-with-the-despera
 
 ### [2016-09-4](/news/2016/09/4/index.md)
 
+##### Mother Teresa
 # Mother Teresa, known for working with the desperately poor, is canonized in a ceremony at the Vatican. 
 
 Mother Teresa, revered for her work with the poor in India, is proclaimed a saint by Pope Francis in a Vatican ceremony attended by tens of thousands.

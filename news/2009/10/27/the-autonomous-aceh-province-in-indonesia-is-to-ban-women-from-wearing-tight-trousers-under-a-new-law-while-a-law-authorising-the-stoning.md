@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/27/the-autonomous-aceh-province-in-indonesia-is-to-ban-women-from-wearing-tight-trousers-under-a-new-law-while-a-law-authorising-the-stoning.html)  [JSON](/news/2009/10/27/the-autonomous-aceh-province-in-indonesia-is-to-ban-women-from-wearing-tight-trousers-under-a-new-law-while-a-law-authorising-the-stoning.json)  [XML](/news/2009/10/27/the-autonomous-aceh-province-in-indonesia-is-to-ban-women-from-wearing-tight-trousers-under-a-new-law-while-a-law-authorising-the-stoning.xml)  
+
 ### [2009-10-27](/news/2009/10/27/index.md)
 
+##### Aceh
 #  The autonomous Aceh province in Indonesia is to ban women from wearing tight trousers under a new law, while a law authorising the stoning to death of adulterers and the whipping of homosexuals will be reviewed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jakarta Globe](http://thejakartaglobe.com/home/west-aceh-to-ban-tight-trousers-shorts/337941)
 2. [Reuters South Africa](http://af.reuters.com/article/oddlyEnoughNews/idAFTRE59Q14Z20091027)

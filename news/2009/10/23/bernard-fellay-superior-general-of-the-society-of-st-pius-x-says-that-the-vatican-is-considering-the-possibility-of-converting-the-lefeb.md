@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/23/bernard-fellay-superior-general-of-the-society-of-st-pius-x-says-that-the-vatican-is-considering-the-possibility-of-converting-the-lefeb.html)  [JSON](/news/2009/10/23/bernard-fellay-superior-general-of-the-society-of-st-pius-x-says-that-the-vatican-is-considering-the-possibility-of-converting-the-lefeb.json)  [XML](/news/2009/10/23/bernard-fellay-superior-general-of-the-society-of-st-pius-x-says-that-the-vatican-is-considering-the-possibility-of-converting-the-lefeb.xml)  
+
 ### [2009-10-23](/news/2009/10/23/index.md)
 
+##### Bernard Fellay
 #  Bernard Fellay, Superior General of the Society of St. Pius X, says that the Vatican is considering the possibility of converting the Lefebvrist group into a personal prelature. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Pakistan Christian TV](http://pakistanchristian.tv/news/2009-10-24_Vatican_could_convert_Lefebvrists_into_personal_prelature_Fellay.cfm)
 

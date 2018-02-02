@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/4/toyota-extends-production-cuts-in-japan-and-thailand-due-to-parts-shortages-caused-by-the-2011-thailand-floods.html)  [JSON](/news/2011/11/4/toyota-extends-production-cuts-in-japan-and-thailand-due-to-parts-shortages-caused-by-the-2011-thailand-floods.json)  [XML](/news/2011/11/4/toyota-extends-production-cuts-in-japan-and-thailand-due-to-parts-shortages-caused-by-the-2011-thailand-floods.xml)  
+
 ### [2011-11-4](/news/2011/11/4/index.md)
 
+##### Toyota
 # Toyota extends production cuts in Japan and Thailand due to parts shortages caused by the 2011 Thailand floods. 
 
 Toyota extends production cuts at its factories in Thailand and Japan due to shortage of parts in wake of floods in Thailand.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-15587229)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56467000/jpg/_56467503_toyota2.jpg)

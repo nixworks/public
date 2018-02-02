@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/21/2013-north-india-floods-nearly-14-000-people-are-believed-to-be-missing-in-uttarakhand-state-with-another-60-000-stranded-and-150-killed.html)  [JSON](/news/2013/06/21/2013-north-india-floods-nearly-14-000-people-are-believed-to-be-missing-in-uttarakhand-state-with-another-60-000-stranded-and-150-killed.json)  [XML](/news/2013/06/21/2013-north-india-floods-nearly-14-000-people-are-believed-to-be-missing-in-uttarakhand-state-with-another-60-000-stranded-and-150-killed.xml)  
+
 ### [2013-06-21](/news/2013/06/21/index.md)
 
+##### 2013 North India floods
 # 2013 North India floods: Nearly 14,000 people are believed to be missing in Uttarakhand state, with another 60,000 stranded and 150 killed. 
 
 Heroic rescue efforts by the army have rescued 14,000 people days after Uttarakhand was pounded by landslides and torrential rain. But 60,000 people are still stranded, and some of the worst-affected areas, near the famous Kedarnath temple, remain inaccessible.
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/article/cheat-sheet/uttarakhand-nearly-14-000-people-missing-60-000-still-stranded-382394)
 1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/1/the-common-chimpanzee-genome-sequence-has-been-released-revealing-genetic-differences-between-chimps-and-humans-including-differences-in-a.html)  [JSON](/news/2005/09/1/the-common-chimpanzee-genome-sequence-has-been-released-revealing-genetic-differences-between-chimps-and-humans-including-differences-in-a.json)  [XML](/news/2005/09/1/the-common-chimpanzee-genome-sequence-has-been-released-revealing-genetic-differences-between-chimps-and-humans-including-differences-in-a.xml)  
+
 ### [2005-09-1](/news/2005/09/1/index.md)
 
+##### Common Chimpanzee
 #  The Common Chimpanzee genome sequence has been released, revealing genetic differences between chimps and humans including differences in a region of the genome thought to be involved in speech acquisition. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VoA](http://www.voanews.com/english/2005-08-31-voa82.cfm)
 

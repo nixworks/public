@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/3/king-albert-ii-of-belgium-announces-his-abdication-effective-july-21-for-health-reasons-in-favour-of-his-son-prince-philippe-duke-of-brab.html)  [JSON](/news/2013/07/3/king-albert-ii-of-belgium-announces-his-abdication-effective-july-21-for-health-reasons-in-favour-of-his-son-prince-philippe-duke-of-brab.json)  [XML](/news/2013/07/3/king-albert-ii-of-belgium-announces-his-abdication-effective-july-21-for-health-reasons-in-favour-of-his-son-prince-philippe-duke-of-brab.xml)  
+
 ### [2013-07-3](/news/2013/07/3/index.md)
 
+##### Albert II of Belgium
 # King Albert II of Belgium announces his abdication (effective July 21) for health reasons in favour of his son Prince Philippe, Duke of Brabant. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [DeRedactie.be](http://www.deredactie.be/cm/vrtnieuws/binnenland/130702_koningalbert_toespraak)
 2. [Nieuwsblad](http://www.nieuwsblad.be/article/detail.aspx?articleid=DMF20130703_00645593)

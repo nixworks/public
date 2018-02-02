@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/17/evelyn-wever-croes-becomes-the-first-female-pri
 
 ### [2017-11-17](/news/2017/11/17/index.md)
 
+##### Evelyn Wever-Croes
 # Evelyn Wever-Croes becomes the first female Prime Minister of Aruba following the 2017 general election in September. 
 
 

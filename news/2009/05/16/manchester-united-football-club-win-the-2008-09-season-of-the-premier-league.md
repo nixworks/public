@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/16/manchester-united-football-club-win-the-2008-09-season-of-the-premier-league.html)  [JSON](/news/2009/05/16/manchester-united-football-club-win-the-2008-09-season-of-the-premier-league.json)  [XML](/news/2009/05/16/manchester-united-football-club-win-the-2008-09-season-of-the-premier-league.xml)  
+
 ### [2009-05-16](/news/2009/05/16/index.md)
 
+##### Manchester United
 #  Manchester United Football Club win the 2008-09 season of the Premier League. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Australian](http://www.theaustralian.news.com.au/story/0,25197,25495731-2722,00.html)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/21/a-federal-jury-orders-dupont-to-pay-2-million-t
 
 ### [2016-12-21](/news/2016/12/21/index.md)
 
+##### DuPont
 #  A federal jury orders DuPont to pay $2 million to a man with testicular cancer after finding the company liable for diseases linked to C8, a Teflon-making chemical. 
 
 The verdict is the third time DuPont has been found liable for diseases linked to Teflon chemical exposure.

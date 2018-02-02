@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/10/japan-goes-on-full-alert-as-north-korea-announces-it-has-delayed-its-launch-of-a-long-range-unha-rocket-until-29-december.html)  [JSON](/news/2012/12/10/japan-goes-on-full-alert-as-north-korea-announces-it-has-delayed-its-launch-of-a-long-range-unha-rocket-until-29-december.json)  [XML](/news/2012/12/10/japan-goes-on-full-alert-as-north-korea-announces-it-has-delayed-its-launch-of-a-long-range-unha-rocket-until-29-december.xml)  
+
 ### [2012-12-10](/news/2012/12/10/index.md)
 
+##### Japan
 # Japan goes on full alert as North Korea announces it has delayed its launch of a long range Unha rocket until 29 December. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jgbYYFM76LyXsUZpYU9QovK-UTvQ)
 2. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2012-12-09-NKorea-Rocket%20Launch/id-72a54c399df54ecaa92547776795ce77)

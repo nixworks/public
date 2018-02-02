@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/19/aljazeera-s-manama-bureau-is-shut-down-by-the-bahrain-government-for-a-breach-of-media-norms-after-the-channel-broadcasts-a-report-on-pove.html)  [JSON](/news/2010/05/19/aljazeera-s-manama-bureau-is-shut-down-by-the-bahrain-government-for-a-breach-of-media-norms-after-the-channel-broadcasts-a-report-on-pove.json)  [XML](/news/2010/05/19/aljazeera-s-manama-bureau-is-shut-down-by-the-bahrain-government-for-a-breach-of-media-norms-after-the-channel-broadcasts-a-report-on-pove.xml)  
+
 ### [2010-05-19](/news/2010/05/19/index.md)
 
+##### Aljazeera
 # Aljazeera's Manama bureau is shut down by the Bahrain government for a "breach of media norms" after the channel broadcasts a report on poverty in the country. 
 
 News network to stop broadcasting from Bahrain after airing story about local poverty
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/05/2010519123656935254.html)
 2. [BusinessWeek](http://www.businessweek.com/ap/financialnews/D9FQ018O5.htm)

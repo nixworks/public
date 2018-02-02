@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/10/president-elect-of-the-united-states-donald-tru
 
 ### [2016-11-10](/news/2016/11/10/index.md)
 
+##### Presidential transition of Donald Trump
 # President-elect of the United States Donald Trump meets with President Barack Obama for the first time at the White House. 
 
 President Barack Obama describes White House transition talks with Donald Trump as &quot;excellent&quot;.

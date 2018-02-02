@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/30/u-k-home-secretary-david-blunkett-defends-his-actions-after-newspaper-allegations-that-he-used-his-position-to-acquire-a-fast-track-visa-a.html)  [JSON](/news/2004/11/30/u-k-home-secretary-david-blunkett-defends-his-actions-after-newspaper-allegations-that-he-used-his-position-to-acquire-a-fast-track-visa-a.json)  [XML](/news/2004/11/30/u-k-home-secretary-david-blunkett-defends-his-actions-after-newspaper-allegations-that-he-used-his-position-to-acquire-a-fast-track-visa-a.xml)  
+
 ### [2004-11-30](/news/2004/11/30/index.md)
 
+##### Home Secretary
 #  U.K. Home Secretary David Blunkett defends his actions after newspaper allegations that he used his position to acquire a fast-track visa application for his former lover's nanny, ordering an independent enquiry into his own actions and denying any impropriety, whilst apologising for inadvertently misusing government funds to obtain her a first class train ticket. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/4056987.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/30/former-rebel-leader-agathon-rwasa-of-the-national-liberation-forces-in-burundi-is-selected-as-a-candidate-in-next-year-s-presidential-ele.html)  [JSON](/news/2009/11/30/former-rebel-leader-agathon-rwasa-of-the-national-liberation-forces-in-burundi-is-selected-as-a-candidate-in-next-year-s-presidential-ele.json)  [XML](/news/2009/11/30/former-rebel-leader-agathon-rwasa-of-the-national-liberation-forces-in-burundi-is-selected-as-a-candidate-in-next-year-s-presidential-ele.xml)  
+
 ### [2009-11-30](/news/2009/11/30/index.md)
 
+##### Agathon Rwasa
 #  Former rebel leader Agathon Rwasa, of the National Liberation Forces in Burundi, is selected as a candidate in next year's presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8385756.stm)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE5AT05R20091130)

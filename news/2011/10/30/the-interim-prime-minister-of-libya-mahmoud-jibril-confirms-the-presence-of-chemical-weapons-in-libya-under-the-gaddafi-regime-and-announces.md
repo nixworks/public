@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/10/30/the-interim-prime-minister-of-libya-mahmoud-jibril-confirms-the-presence-of-chemical-weapons-in-libya-under-the-gaddafi-regime-and-announces.html)  [JSON](/news/2011/10/30/the-interim-prime-minister-of-libya-mahmoud-jibril-confirms-the-presence-of-chemical-weapons-in-libya-under-the-gaddafi-regime-and-announces.json)  [XML](/news/2011/10/30/the-interim-prime-minister-of-libya-mahmoud-jibril-confirms-the-presence-of-chemical-weapons-in-libya-under-the-gaddafi-regime-and-announces.xml)  
+
 ### [2011-10-30](/news/2011/10/30/index.md)
 
+##### Libyan Prime Minister
 # The interim Prime Minister of Libya Mahmoud Jibril confirms the presence of chemical weapons in Libya under the Gaddafi regime and announces that weapons inspectors would be visiting the country to help get rid of them. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/middle-east/libyas-prime-minister-confirms-presence-of-chemical-weapons-inspectors-to-arrive-this-week/2011/10/30/gIQAM1S8WM_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/middle-east/libyas-prime-minister-confirms-presence-of-chemical-weapons-inspectors-to-arrive-this-week/2011/10/30/gIQAM1S8WM_story.html)
 
 ### Related:
 

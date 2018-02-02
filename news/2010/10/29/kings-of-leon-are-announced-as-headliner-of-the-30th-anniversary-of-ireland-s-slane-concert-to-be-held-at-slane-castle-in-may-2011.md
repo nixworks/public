@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/29/kings-of-leon-are-announced-as-headliner-of-the-30th-anniversary-of-ireland-s-slane-concert-to-be-held-at-slane-castle-in-may-2011.html)  [JSON](/news/2010/10/29/kings-of-leon-are-announced-as-headliner-of-the-30th-anniversary-of-ireland-s-slane-concert-to-be-held-at-slane-castle-in-may-2011.json)  [XML](/news/2010/10/29/kings-of-leon-are-announced-as-headliner-of-the-30th-anniversary-of-ireland-s-slane-concert-to-be-held-at-slane-castle-in-may-2011.xml)  
+
 ### [2010-10-29](/news/2010/10/29/index.md)
 
+##### Kings of Leon
 # Kings of Leon are announced as headliner of the 30th anniversary of Ireland's Slane Concert, to be held at Slane Castle in May 2011. 
 
 American rock band The Kings of Leon have been confirmed as the headline act for the Slane Castle concert next summer.
 
 
-### Source:
+### Sources:
 
 1. [Hot Press](http://www.hotpress.com/Kings%20Of%20Leon/news/Kings-Of-Leon-to-headline-Slane-2011/7202435.html)
 2. [Irish Independent](http://www.independent.ie/national-news/rock-royalty-to-headline-slane-2400556.html)

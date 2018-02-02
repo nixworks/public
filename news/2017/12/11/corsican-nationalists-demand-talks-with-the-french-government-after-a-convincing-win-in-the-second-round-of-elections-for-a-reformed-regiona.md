@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/11/corsican-nationalists-demand-talks-with-the-fre
 
 ### [2017-12-11](/news/2017/12/11/index.md)
 
+##### Politics of France
 # Corsican nationalists demand talks with the French government after a convincing win in the second round of elections for a reformed regional government in Corsica. 
 
 President Macron under pressure to negotiate after nationalists demand talks in wake of Sunday’s regional election triumph
@@ -15,7 +16,7 @@ President Macron under pressure to negotiate after nationalists demand talks in 
 
 ### Related:
 
-1. [The pro-autonomy coalition party Pe a Corsica obtains 45% of the votes in the first round of the Corsican Assembly elections preceding the replacement of the departments of Haute Corse and Corse-du-Sud and the region of Corsica, France, with a single territorial collectivity. Two "miscellaneous right" parties and La Republique En Marche! also achieve the 7% election threshold to reach the secound round. ](/news/2017/12/3/the-pro-autonomy-coalition-party-pa-a-corsica-obtains-45-of-the-votes-in-the-first-round-of-the-corsican-assembly-elections-preceding-the.md) _Context: Corsica, regional government_
+1. [The pro-autonomy coalition party Pe a Corsica obtains 45% of the votes in the first round of the Corsican Assembly elections preceding the replacement of the departments of Haute Corse and Corse-du-Sud and the region of Corsica, France, with a single territorial collectivity. Two "miscellaneous right" parties and La Republique En Marche! also achieve the 7% election threshold to reach the secound round. ](/news/2017/12/3/the-pro-autonomy-coalition-party-pa-a-corsica-obtains-45-of-the-votes-in-the-first-round-of-the-corsican-assembly-elections-preceding-the.md) _Context: Corsica_
 2. [Firefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/firefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md) _Context: Corsica_
 3. [France's National Front leader Marine Le Pen is under investigation for alleged misuse of European Union funding. ](/news/2017/06/30/france-s-national-front-leader-marine-le-pen-is-under-investigation-for-alleged-misuse-of-european-union-funding.md) _Context: Politics of France_
 4. [With most of the votes counted, the opposition conservatives of former president Nicolas Sarkozy's party win in six of the country's 13 regions and lead in the Paris region. The ruling Socialists of President Francois Hollande's party capture five regions. The winner in Corsica is not affiliated with a major party. France's far-right National Front (FN) fails to win a single region but did record its best showing in its history. Voter turnout was 58 percent. Definitive results are expected Monday. ](/news/2015/12/13/with-most-of-the-votes-counted-the-opposition-conservatives-of-former-president-nicolas-sarkozy-s-party-win-in-six-of-the-countryas-13-re.md) _Context: Corsica_

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/06/11/oklahoma-city-bomber-timothy-mcveigh-is-executed-at-a-complex-in-terre-haute-indiana.html)  [JSON](/news/2001/06/11/oklahoma-city-bomber-timothy-mcveigh-is-executed-at-a-complex-in-terre-haute-indiana.json)  [XML](/news/2001/06/11/oklahoma-city-bomber-timothy-mcveigh-is-executed-at-a-complex-in-terre-haute-indiana.xml)  
+
 ### [2001-06-11](/news/2001/06/11/index.md)
 
+##### Oklahoma City bombing
 #  Oklahoma City bomber Timothy McVeigh is executed at a complex in Terre Haute, Indiana.
 
 

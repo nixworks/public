@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/10/fifty-thousand-people-protest-living-costs-in-guadeloupe-and-martinique.html)  [JSON](/news/2009/02/10/fifty-thousand-people-protest-living-costs-in-guadeloupe-and-martinique.json)  [XML](/news/2009/02/10/fifty-thousand-people-protest-living-costs-in-guadeloupe-and-martinique.xml)  
+
 ### [2009-02-10](/news/2009/02/10/index.md)
 
+##### ongoing general strikes
 #  Fifty thousand people protest living costs in Guadeloupe and Martinique. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/29146606/)
 

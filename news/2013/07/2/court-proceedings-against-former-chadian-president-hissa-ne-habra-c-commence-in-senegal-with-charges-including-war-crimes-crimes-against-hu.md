@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/2/court-proceedings-against-former-chadian-president-hissa-ne-habra-c-commence-in-senegal-with-charges-including-war-crimes-crimes-against-hu.html)  [JSON](/news/2013/07/2/court-proceedings-against-former-chadian-president-hissa-ne-habra-c-commence-in-senegal-with-charges-including-war-crimes-crimes-against-hu.json)  [XML](/news/2013/07/2/court-proceedings-against-former-chadian-president-hissa-ne-habra-c-commence-in-senegal-with-charges-including-war-crimes-crimes-against-hu.xml)  
+
 ### [2013-07-2](/news/2013/07/2/index.md)
 
+##### Chad
 # Court proceedings against former Chadian President Hissene Habre commence in Senegal, with charges including war crimes, crimes against humanity, and torture. 
 
 Former Chad leader Hissene Habre has appeared in court in the Senagalese capital Dakar. The 70-year-old has been charged with crimes against
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-23153532)
 2. [Deutsche Welle](http://www.dw.de/ex-chad-dictator-hissene-habre-charged-with-war-crimes/a-16924945)

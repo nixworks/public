@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/26/a-russian-mi-8-helicopter-crashes-into-the-sea-
 
 ### [2017-10-26](/news/2017/10/26/index.md)
 
+##### Helicopter accidents and incidents
 # A Russian Mi-8 helicopter crashes into the sea off Svalbard with eight people reported missing. A search and rescue operation is underway. 
 
 Eight Russians are feared dead after their Mi-8 helicopter crashed in the sea off Svalbard.

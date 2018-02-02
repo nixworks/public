@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/11/a-strong-earthquake-with-the-magnitude-6-8-hits-northern-burma-killing-at-least-12-people.html)  [JSON](/news/2012/11/11/a-strong-earthquake-with-the-magnitude-6-8-hits-northern-burma-killing-at-least-12-people.json)  [XML](/news/2012/11/11/a-strong-earthquake-with-the-magnitude-6-8-hits-northern-burma-killing-at-least-12-people.xml)  
+
 ### [2012-11-11](/news/2012/11/11/index.md)
 
+##### strong earthquake
 # A strong earthquake with the magnitude 6.8 hits northern Burma, killing at least 12 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2012/nov/11/deadly-earthquake-northern-burma)
 

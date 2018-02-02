@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2006/12/15/assistant-secretary-of-state-jendayi-frazer-announces-that-the-united-states-has-no-plans-to-commit-troops-to-intervene-in-the-somali-civil.html)  [JSON](/news/2006/12/15/assistant-secretary-of-state-jendayi-frazer-announces-that-the-united-states-has-no-plans-to-commit-troops-to-intervene-in-the-somali-civil.json)  [XML](/news/2006/12/15/assistant-secretary-of-state-jendayi-frazer-announces-that-the-united-states-has-no-plans-to-commit-troops-to-intervene-in-the-somali-civil.xml)  
+
 ### [2006-12-15](/news/2006/12/15/index.md)
 
+##### Jendayi Frazer
 #  Assistant Secretary of State Jendayi Frazer announces that the United States has no plans to commit troops to intervene in the Somali civil war to root out al Qaeda cells operating in the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [U.S. State Department](http://www.america.gov/st/washfile-english/2006/December/20061215170307MVyelwarC0.629574.html)
 
 ### Related:
 
-1. [Tahrir al-Sham, al-Qaeda's branch in Syria, claims responsibility for yesterday's twin bomb attacks in Damascus which left dozens dead. ](/news/2017/03/12/tahrir-al-sham-al-qaeda-s-branch-in-syria-claims-responsibility-for-yesterday-s-twin-bomb-attacks-in-damascus-which-left-dozens-dead.md) _Context: al-Qaeda_
-2. [The Obama Administration and Bush Administration had failed to publicly disclose up to thousands of lethal airstrikes the U.S. made in Afghanistan, Iraq, and Syria against ISIL, Al-Qaeda, and the Taliban via U.S. Army helicopters and drones. ](/news/2017/02/5/the-obama-administration-and-bush-administration-had-failed-to-publicly-disclose-up-to-thousands-of-lethal-airstrikes-the-u-s-made-in-afgha.md) _Context: al-Qaeda_
-3. [Six Al Qaeda insurgents are killed by the Arab coalition in Yemen. ](/news/2016/11/8/six-al-qaeda-insurgents-are-killed-by-the-arab-coalition-in-yemen.md) _Context: al-Qaeda_
-4. [Four UN peacekeepers are killed in a suspected Al-Qaeda attack in northern Mali. ](/news/2016/06/1/four-un-peacekeepers-are-killed-in-a-suspected-al-qaeda-attack-in-northern-mali.md) _Context: al-Qaeda_
-5. [ The Pentagon rejects a Russian proposal to stage joint airstrikes against Al-Qaeda linked groups in Syria. ](/news/2016/05/21/the-pentagon-rejects-a-russian-proposal-to-stage-joint-airstrikes-against-al-qaeda-linked-groups-in-syria.md) _Context: al-Qaeda_
+1. [ U.S. officials say unmanned airstrikes in southern Somalia killed about a dozen suspected militants from the al Qaeda-linked group al Shabaab on Monday and Tuesday. ](/news/2016/04/12/u-s-officials-say-unmanned-airstrikes-in-southern-somalia-killed-about-a-dozen-suspected-militants-from-the-al-qaeda-linked-group-al-shaba.md) _Context: al Qaeda_
+2. [An al Qaeda affiliate has freed Jocelyn Elliott, an Australian woman kidnapped in Burkina Faso along with her husband. ](/news/2016/02/6/an-al-qaeda-affiliate-has-freed-jocelyn-elliott-an-australian-woman-kidnapped-in-burkina-faso-along-with-her-husband.md) _Context: al Qaeda_
+3. [Some 1,200 people escape from a Yemeni prison including al Qaeda members. ](/news/2015/06/30/some-1-200-people-escape-from-a-yemeni-prison-including-al-qaeda-members.md) _Context: al Qaeda_
+4. [In Peshawar, an unknown assailant shoots and kills Pakistani lawyer Samiullah Afridi, who had defended Dr. Shakil Afridi (in regards to assisting CIA agents hunt al Qaeda leader Osama bin Laden), with two Pakistan militant groups, Jundullah and Jamaatul Ahrar, both claiming responsibility. ](/news/2015/03/17/in-peshawar-an-unknown-assailant-shoots-and-kills-pakistani-lawyer-samiullah-afridi-who-had-defended-dr-shakil-afridi-in-regards-to-assi.md) _Context: al Qaeda_
+5. [An air strike intended to target an al Qaeda convoy in Al-Bayda province in central Yemen mistakenly attacks a wedding procession, killing 15 civilians. ](/news/2013/12/12/an-air-strike-intended-to-target-an-al-qaeda-convoy-in-al-bayda-province-in-central-yemen-mistakenly-attacks-a-wedding-procession-killing-1.md) _Context: al Qaeda_

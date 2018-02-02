@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/14/members-of-the-united-kingdom-s-two-main-teaching-unions-the-national-union-of-teachers-and-the-association-of-teachers-and-lecturers-have.html)  [JSON](/news/2011/06/14/members-of-the-united-kingdom-s-two-main-teaching-unions-the-national-union-of-teachers-and-the-association-of-teachers-and-lecturers-have.json)  [XML](/news/2011/06/14/members-of-the-united-kingdom-s-two-main-teaching-unions-the-national-union-of-teachers-and-the-association-of-teachers-and-lecturers-have.xml)  
+
 ### [2011-06-14](/news/2011/06/14/index.md)
 
+##### National Union of Teachers
 # Members of the United Kingdom's two main teaching unions, the National Union of Teachers and the Association of Teachers and Lecturers have voted to take industrial action over changes to their pensions. They are first expected to walk out on 30 June. Other public sector workers may join them on that day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/education-13761147)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53395000/jpg/_53395390_53395389.jpg)

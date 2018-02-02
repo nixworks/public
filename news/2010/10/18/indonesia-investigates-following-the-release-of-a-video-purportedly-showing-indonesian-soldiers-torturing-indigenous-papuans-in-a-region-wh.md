@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/18/indonesia-investigates-following-the-release-of-a-video-purportedly-showing-indonesian-soldiers-torturing-indigenous-papuans-in-a-region-wh.html)  [JSON](/news/2010/10/18/indonesia-investigates-following-the-release-of-a-video-purportedly-showing-indonesian-soldiers-torturing-indigenous-papuans-in-a-region-wh.json)  [XML](/news/2010/10/18/indonesia-investigates-following-the-release-of-a-video-purportedly-showing-indonesian-soldiers-torturing-indigenous-papuans-in-a-region-wh.xml)  
+
 ### [2010-10-18](/news/2010/10/18/index.md)
 
+##### Indonesia
 # Indonesia investigates following the release of a video purportedly showing Indonesian soldiers torturing indigenous Papuans, in a region where a small group of rebels has waged a war for independence from Indonesia for the last few decades. 
 
 Indonesian police are investigating whether or not a video allegedly showing Indonesian soldiers torturing indigenous Papuans is authentic.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ipmuv99EM4S0wgrUqf-b24sCA4ng?docId=CNG.d4d0f825ef3d6854a8a802b54eb17116.971)
 2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hP24hdX6iwB2ZgcyM59U0C3LvYqw?docId=54ae3086bd5e4357915bff50fc1d2050)

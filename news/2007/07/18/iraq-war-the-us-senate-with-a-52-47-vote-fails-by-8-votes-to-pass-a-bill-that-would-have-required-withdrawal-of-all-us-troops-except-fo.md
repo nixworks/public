@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/18/iraq-war-the-us-senate-with-a-52-47-vote-fails-by-8-votes-to-pass-a-bill-that-would-have-required-withdrawal-of-all-us-troops-except-fo.html)  [JSON](/news/2007/07/18/iraq-war-the-us-senate-with-a-52-47-vote-fails-by-8-votes-to-pass-a-bill-that-would-have-required-withdrawal-of-all-us-troops-except-fo.json)  [XML](/news/2007/07/18/iraq-war-the-us-senate-with-a-52-47-vote-fails-by-8-votes-to-pass-a-bill-that-would-have-required-withdrawal-of-all-us-troops-except-fo.xml)  
+
 ### [2007-07-18](/news/2007/07/18/index.md)
 
+##### Iraq War
 #  Iraq War: The US Senate, with a 52-47 vote, fails by 8 votes to pass a bill that would have required withdrawal of all US troops (except for a small force) from Iraq by April 30, 2008.
 
 
 
 
-### Source:
+### Sources:
 
 1. [TIME Magazine](http://www.time.com/time/politics/article/0,8599,1644621,00.html)
 

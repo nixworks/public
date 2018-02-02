@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/03/27/iwao-hakamada-the-world-s-longest-serving-death-row-inmate-is-freed-from-a-japanese-prison-and-granted-a-retrial-after-serving-48-years.html)  [JSON](/news/2014/03/27/iwao-hakamada-the-world-s-longest-serving-death-row-inmate-is-freed-from-a-japanese-prison-and-granted-a-retrial-after-serving-48-years.json)  [XML](/news/2014/03/27/iwao-hakamada-the-world-s-longest-serving-death-row-inmate-is-freed-from-a-japanese-prison-and-granted-a-retrial-after-serving-48-years.xml)  
+
 ### [2014-03-27](/news/2014/03/27/index.md)
 
+##### Iwao Hakamada
 # Iwao Hakamada, the world's longest serving death row inmate, is freed from a Japanese prison and granted a retrial after serving 48 years. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/world/asia_pacific/japan-orders-longest-held-death-row-inmate-freed/2014/03/27/e4f9c148-b568-11e3-bab2-b9602293021d_story.html)
+1. [Washington Post](https://www.washingtonpost.com/world/asia_pacific/japan-orders-longest-held-death-row-inmate-freed/2014/03/27/e4f9c148-b568-11e3-bab2-b9602293021d_story.html)
 
 ### Related:
 

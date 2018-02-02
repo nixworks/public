@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/21/gazprom-russia-s-state-controlled-gas-monopoly-cuts-15-of-belarus-gas-supplies-over-alleged-debt-and-threatens-to-gradually-cut-up-to-8.html)  [JSON](/news/2010/06/21/gazprom-russia-s-state-controlled-gas-monopoly-cuts-15-of-belarus-gas-supplies-over-alleged-debt-and-threatens-to-gradually-cut-up-to-8.json)  [XML](/news/2010/06/21/gazprom-russia-s-state-controlled-gas-monopoly-cuts-15-of-belarus-gas-supplies-over-alleged-debt-and-threatens-to-gradually-cut-up-to-8.xml)  
+
 ### [2010-06-21](/news/2010/06/21/index.md)
 
+##### Gazprom
 # Gazprom, Russia's state-controlled gas monopoly, cuts 15% of Belarus' gas supplies over alleged debt, and threatens to gradually cut up to 85% of Belarus' gas supplies if the debt remains unpaid. 
 
 Supply may be reduced by as much as 85 per cent in row over $192m unpaid debt.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/201062153922225505.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/10362731.stm)

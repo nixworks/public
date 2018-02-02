@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/24/the-bhutan-peace-and-prosperity-party-wins-bhutan-s-first-democratic-general-election-making-lyonpo-jigme-thinley-the-new-prime-minister-e.html)  [JSON](/news/2008/03/24/the-bhutan-peace-and-prosperity-party-wins-bhutan-s-first-democratic-general-election-making-lyonpo-jigme-thinley-the-new-prime-minister-e.json)  [XML](/news/2008/03/24/the-bhutan-peace-and-prosperity-party-wins-bhutan-s-first-democratic-general-election-making-lyonpo-jigme-thinley-the-new-prime-minister-e.xml)  
+
 ### [2008-03-24](/news/2008/03/24/index.md)
 
+##### Bhutan Peace and Prosperity Party
 #  The Bhutan Peace and Prosperity Party wins Bhutan's first democratic general election, making Lyonpo Jigme Thinley the new Prime Minister elect. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://ca.reuters.com/article/topNews/idCAISL4141920080324)
 

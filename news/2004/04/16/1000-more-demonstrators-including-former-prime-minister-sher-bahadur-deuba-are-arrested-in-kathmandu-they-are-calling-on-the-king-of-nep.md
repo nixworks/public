@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/16/1000-more-demonstrators-including-former-prime-minister-sher-bahadur-deuba-are-arrested-in-kathmandu-they-are-calling-on-the-king-of-nep.html)  [JSON](/news/2004/04/16/1000-more-demonstrators-including-former-prime-minister-sher-bahadur-deuba-are-arrested-in-kathmandu-they-are-calling-on-the-king-of-nep.json)  [XML](/news/2004/04/16/1000-more-demonstrators-including-former-prime-minister-sher-bahadur-deuba-are-arrested-in-kathmandu-they-are-calling-on-the-king-of-nep.xml)  
+
 ### [2004-04-16](/news/2004/04/16/index.md)
 
+##### Sher Bahadur Deuba
 #  1000 more demonstrators, including former prime minister Sher Bahadur Deuba, are arrested in Kathmandu. They are calling on the King of Nepal to restore democracy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Morning Star](http://www.morningstaronline.co.uk/index.php/star_news/world/nepal_police_arrest_1_000_democracy_protesters)
 

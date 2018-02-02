@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/5/tens-of-thousands-of-people-demonstrate-in-london-and-other-european-capitals-ahead-of-a-united-nations-climate-change-summit-in-copenhagen.html)  [JSON](/news/2009/12/5/tens-of-thousands-of-people-demonstrate-in-london-and-other-european-capitals-ahead-of-a-united-nations-climate-change-summit-in-copenhagen.json)  [XML](/news/2009/12/5/tens-of-thousands-of-people-demonstrate-in-london-and-other-european-capitals-ahead-of-a-united-nations-climate-change-summit-in-copenhagen.xml)  
+
 ### [2009-12-5](/news/2009/12/5/index.md)
 
+##### 2009 United Nations Climate Change Conference
 #  Tens of thousands of people demonstrate in London and other European capitals ahead of a United Nations climate change summit in Copenhagen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jH_ZfJ2MSlMskdTw31n4I79QQaJg)
 2. [BBC](http://news.bbc.co.uk/1/hi/uk/8396696.stm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/20/narendra-modi-the-chief-minister-of-the-indian-state-of-gujarat-orders-an-inquiry-into-the-death-of-six-people-at-a-stampede-at-the-bhavna.html)  [JSON](/news/2012/02/20/narendra-modi-the-chief-minister-of-the-indian-state-of-gujarat-orders-an-inquiry-into-the-death-of-six-people-at-a-stampede-at-the-bhavna.json)  [XML](/news/2012/02/20/narendra-modi-the-chief-minister-of-the-indian-state-of-gujarat-orders-an-inquiry-into-the-death-of-six-people-at-a-stampede-at-the-bhavna.xml)  
+
 ### [2012-02-20](/news/2012/02/20/index.md)
 
+##### Narendra Modi
 # Narendra Modi, the Chief Minister of the Indian state of Gujarat, orders an inquiry into the death of six people at a stampede at the Bhavnath Hindu temple in the Junagadh district over the weekend. 
 
 Gujarat chief minister Narendra Modi has ordered an inquiry in the stampede at the Bhavnath temple in Junagadh district, where six devotees including three women were killed. At least 30 others were injured in the incident that took place during the annual Mahashivratri fair held at the foothills of Mount Girnar. Till about midnight, the injured were still being shifted to Junagadh Civil Hospital.
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/article/india/modi-orders-inquiry-after-six-dead-in-temple-stampede-177796&cp)
 1. [Cover Image](http://i.ndtvimg.com/mt/2012-02/Gujarat_temple_stampede_295x200.jpg)

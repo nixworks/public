@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/22/the-japanese-diet-votes-to-extend-its-session-until-august-31-so-that-it-can-consider-key-legislation.html)  [JSON](/news/2011/06/22/the-japanese-diet-votes-to-extend-its-session-until-august-31-so-that-it-can-consider-key-legislation.json)  [XML](/news/2011/06/22/the-japanese-diet-votes-to-extend-its-session-until-august-31-so-that-it-can-consider-key-legislation.xml)  
+
 ### [2011-06-22](/news/2011/06/22/index.md)
 
+##### Japan
 # The Japanese Diet votes to extend its session until August 31 so that it can consider key legislation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NHK World](http://www3.nhk.or.jp/daily/english/22_25.html)
 

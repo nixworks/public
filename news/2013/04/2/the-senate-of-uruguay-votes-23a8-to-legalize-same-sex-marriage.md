@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2013/04/2/the-senate-of-uruguay-votes-23a8-to-legalize-same-sex-marriage.html)  [JSON](/news/2013/04/2/the-senate-of-uruguay-votes-23a8-to-legalize-same-sex-marriage.json)  [XML](/news/2013/04/2/the-senate-of-uruguay-votes-23a8-to-legalize-same-sex-marriage.xml)  
+
 ### [2013-04-2](/news/2013/04/2/index.md)
 
+##### Senate
 # The Senate of Uruguay votes 23-8 to legalize same-sex marriage. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/uruguays-senate-debates-legalizing-gay-marriage-18863193)
+
+### Changes:
+
+1. [The Senate of Uruguay votes 23-8 to legalize same-sex marriage. ](/news/2013/04/2/the-senate-of-uruguay-votes-23-8-to-legalize-same-sex-marriage.md) _2017-08-27 03:38:19 (First version)_
+1. [The Senate of Uruguay votes 23-8 to legalize same-sex marriage. ](/news/2013/04/2/the-senate-of-uruguay-votes-23a8-to-legalize-same-sex-marriage.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@ Get the latest international news and world events from Asia, Europe, the Middle
 3. [Authorities cannot contact the South Korean cargo freighter "Stellar Daisy". It is believed that the ship sunk off the coast of Uruguay. ](/news/2017/04/1/authorities-cannot-contact-the-south-korean-cargo-freighter-stellar-daisy-it-is-believed-that-the-ship-sunk-off-the-coast-of-uruguay.md) _Context: Uruguay_
 4. [Violent storms cause floods across Uruguay with seven people killed and more than 2,000 left homeless. Four of those were killed by a tornado that struck Dolores. Four million people in the Chilean capital of Santiago were left without tap water as heavy rains triggered landslides. This led to the fouling of the city's water supply. ](/news/2016/04/18/violent-storms-cause-floods-across-uruguay-with-seven-people-killed-and-more-than-2-000-left-homeless-four-of-those-were-killed-by-a-tornad.md) _Context: Uruguay_
 5. [A tornado hits the Uruguayan town of Dolores resulting in at least four deaths and seven injuries. ](/news/2016/04/15/a-tornado-hits-the-uruguayan-town-of-dolores-resulting-in-at-least-four-deaths-and-seven-injuries.md) _Context: Uruguay_
-
-### Changes:
-
-1. [The Senate of Uruguay votes 23-8 to legalize same-sex marriage. ](/news/2013/04/2/the-senate-of-uruguay-votes-23-8-to-legalize-same-sex-marriage.md) _2017-08-27 03:38:19 (First version)_
-1. [The Senate of Uruguay votes 23-8 to legalize same-sex marriage. ](/news/2013/04/2/the-senate-of-uruguay-votes-23a8-to-legalize-same-sex-marriage.md) _(Current version)_

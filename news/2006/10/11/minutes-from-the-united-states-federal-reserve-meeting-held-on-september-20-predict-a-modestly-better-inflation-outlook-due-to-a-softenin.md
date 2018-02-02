@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/11/minutes-from-the-united-states-federal-reserve-meeting-held-on-september-20-predict-a-modestly-better-inflation-outlook-due-to-a-softenin.html)  [JSON](/news/2006/10/11/minutes-from-the-united-states-federal-reserve-meeting-held-on-september-20-predict-a-modestly-better-inflation-outlook-due-to-a-softenin.json)  [XML](/news/2006/10/11/minutes-from-the-united-states-federal-reserve-meeting-held-on-september-20-predict-a-modestly-better-inflation-outlook-due-to-a-softenin.xml)  
+
 ### [2006-10-11](/news/2006/10/11/index.md)
 
+##### Federal Reserve
 #  Minutes from the United States Federal Reserve meeting held on September 20 predict a "modestly better inflation outlook" due to a softening economy and lower energy prices. The Federal Reserve held interest rates steady. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,219897,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

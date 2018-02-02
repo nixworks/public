@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/29/australian-prime-minister-john-howard-announces-that-the-2004-australian-federal-election-will-take-place-on-october-9-2004.html)  [JSON](/news/2004/08/29/australian-prime-minister-john-howard-announces-that-the-2004-australian-federal-election-will-take-place-on-october-9-2004.json)  [XML](/news/2004/08/29/australian-prime-minister-john-howard-announces-that-the-2004-australian-federal-election-will-take-place-on-october-9-2004.xml)  
+
 ### [2004-08-29](/news/2004/08/29/index.md)
 
+##### Australian Prime Minister
 #  Australian Prime Minister John Howard announces that the 2004 Australian federal election will take place on October 9, 2004. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC Au](http://www.abc.net.au/news/newsitems/s1187484.htm)
 

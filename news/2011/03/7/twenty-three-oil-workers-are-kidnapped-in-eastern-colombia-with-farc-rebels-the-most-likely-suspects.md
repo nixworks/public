@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/7/twenty-three-oil-workers-are-kidnapped-in-eastern-colombia-with-farc-rebels-the-most-likely-suspects.html)  [JSON](/news/2011/03/7/twenty-three-oil-workers-are-kidnapped-in-eastern-colombia-with-farc-rebels-the-most-likely-suspects.json)  [XML](/news/2011/03/7/twenty-three-oil-workers-are-kidnapped-in-eastern-colombia-with-farc-rebels-the-most-likely-suspects.xml)  
+
 ### [2011-03-7](/news/2011/03/7/index.md)
 
+##### kidnapping
 # Twenty-three oil workers are kidnapped in eastern Colombia with FARC rebels the most likely suspects. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://www.voanews.com/english/news/americas/23-Oil-Workers-Kidnapped-in-Colombia-117559088.html)
 

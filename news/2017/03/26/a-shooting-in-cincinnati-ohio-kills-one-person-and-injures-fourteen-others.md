@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/26/a-shooting-in-cincinnati-ohio-kills-one-person-
 
 ### [2017-03-26](/news/2017/03/26/index.md)
 
+##### Cincinnati, Ohio
 # A shooting in Cincinnati, Ohio, kills one person and injures fourteen others. 
 
 

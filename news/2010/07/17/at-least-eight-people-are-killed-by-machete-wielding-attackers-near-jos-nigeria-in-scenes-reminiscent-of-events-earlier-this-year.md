@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/17/at-least-eight-people-are-killed-by-machete-wielding-attackers-near-jos-nigeria-in-scenes-reminiscent-of-events-earlier-this-year.html)  [JSON](/news/2010/07/17/at-least-eight-people-are-killed-by-machete-wielding-attackers-near-jos-nigeria-in-scenes-reminiscent-of-events-earlier-this-year.json)  [XML](/news/2010/07/17/at-least-eight-people-are-killed-by-machete-wielding-attackers-near-jos-nigeria-in-scenes-reminiscent-of-events-earlier-this-year.xml)  
+
 ### [2010-07-17](/news/2010/07/17/index.md)
 
+##### machete
 # At least eight people are killed by machete-wielding attackers near Jos, Nigeria in scenes reminiscent of events earlier this year. 
 
 At least eight people are killed by attackers with machetes near Jos in Nigeria, the scene of deadly sectarian violence this year.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/07/201071717329277497.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-10674389)

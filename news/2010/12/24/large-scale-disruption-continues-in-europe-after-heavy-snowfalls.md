@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/24/large-scale-disruption-continues-in-europe-after-heavy-snowfalls.html)  [JSON](/news/2010/12/24/large-scale-disruption-continues-in-europe-after-heavy-snowfalls.json)  [XML](/news/2010/12/24/large-scale-disruption-continues-in-europe-after-heavy-snowfalls.xml)  
+
 ### [2010-12-24](/news/2010/12/24/index.md)
 
+##### Europe
 # Large-scale disruption continues in Europe after heavy snowfalls. 
 
 Thousands of travellers face transport disruptions in many European countries, amid further snowfalls in the busy Christmas period.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12073501)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

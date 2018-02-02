@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/03/14/a-vietnamese-cargo-ship-sinks-in-the-south-china-sea-killing-three-people.html)  [JSON](/news/2009/03/14/a-vietnamese-cargo-ship-sinks-in-the-south-china-sea-killing-three-people.json)  [XML](/news/2009/03/14/a-vietnamese-cargo-ship-sinks-in-the-south-china-sea-killing-three-people.xml)  
+
 ### [2009-03-14](/news/2009/03/14/index.md)
 
+##### Vietnam
 #  A Vietnamese cargo ship sinks in the South China Sea, killing three people. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/latestCrisis/idUSSHA221835)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/latestCrisis/idUSSHA221835)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

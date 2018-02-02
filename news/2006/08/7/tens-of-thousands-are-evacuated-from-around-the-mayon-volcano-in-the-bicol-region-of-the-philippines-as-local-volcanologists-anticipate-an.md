@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/7/tens-of-thousands-are-evacuated-from-around-the-mayon-volcano-in-the-bicol-region-of-the-philippines-as-local-volcanologists-anticipate-an.html)  [JSON](/news/2006/08/7/tens-of-thousands-are-evacuated-from-around-the-mayon-volcano-in-the-bicol-region-of-the-philippines-as-local-volcanologists-anticipate-an.json)  [XML](/news/2006/08/7/tens-of-thousands-are-evacuated-from-around-the-mayon-volcano-in-the-bicol-region-of-the-philippines-as-local-volcanologists-anticipate-an.xml)  
+
 ### [2006-08-7](/news/2006/08/7/index.md)
 
+##### Mayon Volcano
 #  Tens of thousands are evacuated from around the Mayon Volcano in the Bicol Region of the Philippines as local volcanologists anticipate an imminent eruption. 
 
 Mayon appeared ready to blow its top Monday as six explosions sent ash columns up to a half-mile high and led officials to evacuate 50,000 people from an extended danger zone.
 
 
-### Source:
+### Sources:
 
 1. [FoxNews.com](http://www.foxnews.com/story/0,2933,207253,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/9/new-zealand-prime-minister-john-key-visits-fiji-
 
 ### [2016-06-9](/news/2016/06/9/index.md)
 
+##### Fiji-New Zealand relations
 # New Zealand Prime Minister John Key visits Fiji, the first time a Kiwi leader has done so since the 2006 coup d'etat. Key is hoping to improve relations between the two countries though it's clear their political tensions don't have easy solutions. 
 
 WELLINGTON, New Zealand (AP) — A New Zealand leader has visited Fiji for the first time since a military coup there a decade ago, although it&#039;s clear that political tensions remain. Prime Minister John Key&#039;s two-day visit,…

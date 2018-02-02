@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/3/kosovo-s-parliament-elects-a-former-kla-commander-ramush-haradinaj-who-has-been-questioned-twice-by-un-war-crimes-investigators.html)  [JSON](/news/2004/12/3/kosovo-s-parliament-elects-a-former-kla-commander-ramush-haradinaj-who-has-been-questioned-twice-by-un-war-crimes-investigators.json)  [XML](/news/2004/12/3/kosovo-s-parliament-elects-a-former-kla-commander-ramush-haradinaj-who-has-been-questioned-twice-by-un-war-crimes-investigators.xml)  
+
 ### [2004-12-3](/news/2004/12/3/index.md)
 
+##### Kosovo
 #  Kosovo's parliament elects a former KLA commander, Ramush Haradinaj, who has been questioned twice by UN war crimes investigators. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4066181.stm)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/03/6/paul-burrell-princess-diana-s-butler-refuses-to-be-questioned-about-whether-he-lied-to-the-inquest-into-her-death-in-1997.html)  [JSON](/news/2008/03/6/paul-burrell-princess-diana-s-butler-refuses-to-be-questioned-about-whether-he-lied-to-the-inquest-into-her-death-in-1997.json)  [XML](/news/2008/03/6/paul-burrell-princess-diana-s-butler-refuses-to-be-questioned-about-whether-he-lied-to-the-inquest-into-her-death-in-1997.xml)  
+
 ### [2008-03-6](/news/2008/03/6/index.md)
 
+##### Paul Burrell
 #  Paul Burrell, Princess Diana's butler, refuses to be questioned about whether he lied to the inquest into her death in 1997. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/lifestyleMolt/idUSL0685678320080306)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080306&t=2&i=3421955&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-03-06T121546Z_01_L06856783_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/lifestyleMolt/idUSL0685678320080306)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20080306&t=2&i=3421955&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-03-06T121546Z_01_L06856783_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

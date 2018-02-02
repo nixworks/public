@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/14/a-top-iranian-official-confirms-that-iran-has-resumed-small-scale-enrichment-of-uranium-at-one-of-its-main-nuclear-facilities-last-week.html)  [JSON](/news/2006/02/14/a-top-iranian-official-confirms-that-iran-has-resumed-small-scale-enrichment-of-uranium-at-one-of-its-main-nuclear-facilities-last-week.json)  [XML](/news/2006/02/14/a-top-iranian-official-confirms-that-iran-has-resumed-small-scale-enrichment-of-uranium-at-one-of-its-main-nuclear-facilities-last-week.xml)  
+
 ### [2006-02-14](/news/2006/02/14/index.md)
 
+##### Iran
 #  A top Iranian official confirms that Iran has resumed small-scale enrichment of uranium at one of its main nuclear facilities last week. 
 
 Iran confirmed on Tuesday it had resumed small-scale enrichment of uranium last week at one of its main nuclear facilities, said a top Iranian official.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/world/story/2006/02/14/iran-uranium060214.html)
 1. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)

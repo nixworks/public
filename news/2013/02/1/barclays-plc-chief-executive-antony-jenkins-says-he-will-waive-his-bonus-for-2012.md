@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/1/barclays-plc-chief-executive-antony-jenkins-says-he-will-waive-his-bonus-for-2012.html)  [JSON](/news/2013/02/1/barclays-plc-chief-executive-antony-jenkins-says-he-will-waive-his-bonus-for-2012.json)  [XML](/news/2013/02/1/barclays-plc-chief-executive-antony-jenkins-says-he-will-waive-his-bonus-for-2012.xml)  
+
 ### [2013-02-1](/news/2013/02/1/index.md)
 
+##### Barclays plc
 # Barclays plc chief executive Antony Jenkins says he will waive his bonus for 2012. 
 
 The chief executive of Barclays, Antony Jenkins, is to waive his bonus of about £1m following a &quot;difficult&quot; year for the bank.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-21294720)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65644000/jpg/_65644725_barclays.jpg)

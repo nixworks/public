@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/16/two-people-are-killed-in-a-bombing-near-police-headquarters-in-bordj-menaa-el-algeria.html)  [JSON](/news/2011/07/16/two-people-are-killed-in-a-bombing-near-police-headquarters-in-bordj-menaa-el-algeria.json)  [XML](/news/2011/07/16/two-people-are-killed-in-a-bombing-near-police-headquarters-in-bordj-menaa-el-algeria.xml)  
+
 ### [2011-07-16](/news/2011/07/16/index.md)
 
+##### Bordj Menaiel
 # Two people are killed in a bombing near police headquarters in Bordj Menaiel, Algeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/africa/algeria-bombing-kills-at-least-two-1.1100293)
 

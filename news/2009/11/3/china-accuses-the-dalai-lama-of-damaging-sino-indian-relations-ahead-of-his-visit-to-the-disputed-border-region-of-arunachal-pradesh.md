@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/3/china-accuses-the-dalai-lama-of-damaging-sino-indian-relations-ahead-of-his-visit-to-the-disputed-border-region-of-arunachal-pradesh.html)  [JSON](/news/2009/11/3/china-accuses-the-dalai-lama-of-damaging-sino-indian-relations-ahead-of-his-visit-to-the-disputed-border-region-of-arunachal-pradesh.json)  [XML](/news/2009/11/3/china-accuses-the-dalai-lama-of-damaging-sino-indian-relations-ahead-of-his-visit-to-the-disputed-border-region-of-arunachal-pradesh.xml)  
+
 ### [2009-11-3](/news/2009/11/3/index.md)
 
+##### China
 #  China accuses the Dalai Lama of damaging Sino-Indian relations ahead of his visit to the disputed border region of Arunachal Pradesh. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/china/2009-11/03/content_8907897.htm)
 2. [Times of India](http://timesofindia.indiatimes.com/india/China-accuses-Dalai-Lama-of-damaging-ties-with-India/articleshow/5192704.cms)

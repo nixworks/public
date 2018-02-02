@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/16/over-18-people-have-been-wounded-by-approximately-thirty-qassam-rockets-being-fired-from-the-gaza-strip-into-israel-hamas-has-claimed-resp.html)  [JSON](/news/2007/05/16/over-18-people-have-been-wounded-by-approximately-thirty-qassam-rockets-being-fired-from-the-gaza-strip-into-israel-hamas-has-claimed-resp.json)  [XML](/news/2007/05/16/over-18-people-have-been-wounded-by-approximately-thirty-qassam-rockets-being-fired-from-the-gaza-strip-into-israel-hamas-has-claimed-resp.xml)  
+
 ### [2007-05-16](/news/2007/05/16/index.md)
 
+##### Qassam rocket
 #  Over 18 people have been wounded by approximately thirty Qassam rockets being fired from the Gaza Strip into Israel. Hamas has claimed responsibility and sources believe the rocket attacks are an attempt to lure Israel into the ongoing internal conflict between Hamas and Fatah. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [JPost](http://www.jpost.com/servlet/Satellite?cid=1178708607977&pagename=JPost%2FJPArticle%2FShowFull)
 

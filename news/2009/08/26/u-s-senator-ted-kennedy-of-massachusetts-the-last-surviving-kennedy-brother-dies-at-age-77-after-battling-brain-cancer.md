@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/08/26/u-s-senator-ted-kennedy-of-massachusetts-the-last-surviving-kennedy-brother-dies-at-age-77-after-battling-brain-cancer.html)  [JSON](/news/2009/08/26/u-s-senator-ted-kennedy-of-massachusetts-the-last-surviving-kennedy-brother-dies-at-age-77-after-battling-brain-cancer.json)  [XML](/news/2009/08/26/u-s-senator-ted-kennedy-of-massachusetts-the-last-surviving-kennedy-brother-dies-at-age-77-after-battling-brain-cancer.xml)  
+
 ### [2009-08-26](/news/2009/08/26/index.md)
 
+##### United States Senate
 #  U.S. Senator Ted Kennedy of Massachusetts, the last surviving Kennedy brother, dies at age 77, after battling brain cancer. 
 
 Senator Kennedy, a man who knew acclaim and tragedy in near-equal measure, will be remembered as one of the most effective lawmakers in the history of the Senate.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2009/08/27/us/politics/27kennedy.html)
+1. [New York Times](https://www.nytimes.com/2009/08/27/us/politics/27kennedy.html)
 1. [Cover Image](https://static01.nyt.com/images/2009/08/25/us/26kennedy_75.jpg)
 
 ### Related:

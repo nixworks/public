@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/29/the-paraguayan-people-s-army-kills-a-german-couple-who-lived-on-a-ranch-near-yby-yaao-in-northern-paraguay.html)  [JSON](/news/2015/01/29/the-paraguayan-people-s-army-kills-a-german-couple-who-lived-on-a-ranch-near-yby-yaao-in-northern-paraguay.json)  [XML](/news/2015/01/29/the-paraguayan-people-s-army-kills-a-german-couple-who-lived-on-a-ranch-near-yby-yaao-in-northern-paraguay.xml)  
+
 ### [2015-01-29](/news/2015/01/29/index.md)
 
+##### Paraguayan People's Army
 # The Paraguayan People's Army kills a German couple who lived on a ranch near Yby Yau in northern Paraguay. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw.de/german-couple-killed-in-paraguay-by-guerrilla-kidnappers/a-18225293?maca=en-TWITTER-EN-2004-xml-mrss)
 

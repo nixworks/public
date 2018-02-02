@@ -1,21 +1,24 @@
+
+Formats: [HTML](/news/2004/03/17/unrest-in-kosovo-after-two-albanian-children-are-found-drowned-in-the-ibar-river-in-kosovo-with-a-third-still-missing-riots-erupt-in-the.html)  [JSON](/news/2004/03/17/unrest-in-kosovo-after-two-albanian-children-are-found-drowned-in-the-ibar-river-in-kosovo-with-a-third-still-missing-riots-erupt-in-the.json)  [XML](/news/2004/03/17/unrest-in-kosovo-after-two-albanian-children-are-found-drowned-in-the-ibar-river-in-kosovo-with-a-third-still-missing-riots-erupt-in-the.xml)  
+
 ### [2004-03-17](/news/2004/03/17/index.md)
 
+##### Unrest in Kosovo
 #  Unrest in Kosovo: After two Albanian children are found drowned in the Ibar river in Kosovo, with a third still missing, riots erupt in the town of Kosovska Mitrovica and later spread to the entire province. Mitrovica Serbs are blamed by Albanian media for forcing the children into the river, but this is later denied by United Nations officials. At least 22 people are killed by the end of the day with hundreds injured in clashes between Serbs and Albanians; enclaves of Kosovo Serbs elsewhere in the province experience attacks by Kosovo Albanians as well as offices of UN officials which were abandoned. In reaction to the violence in Kosovo, demonstrators in Serbia march in Belgrade and set ablaze mosques in Belgrade and Nish. 
 
-United Nations officials described the clashes as the worst violence in Kosovo since the world body took over its administration almost five years ago.
 
 
-### Source:
+
+### Sources:
 
 1. [B92](http://www.b92.net/english/news/index.php?&nav_category=&nav_id=27483&order=priority&style=headlines)
 2. [B92](http://www.b92.net/english/news/index.php?&nav_category=&nav_id=27517&order=priority&style=headlines)
 3. [B92](http://www.b92.net/english/news/index.php?&nav_category=&nav_id=27520&order=priority&style=headlines)
 4. [BBC](http://news.bbc.co.uk/1/hi/world/europe/3521068.stm)
 5. [CNN](http://www.cnn.com/2004/WORLD/europe/03/17/kosovo.clash.ap/index.html)
-6. [NYT](http://www.nytimes.com/2004/03/17/international/europe/17CND-KOSO.html?hp)
+6. [NYT](https://www.nytimes.com/2004/03/17/international/europe/17CND-KOSO.html?hp)
 7. [RTS, in Serbian](http://www.rts.rs/jedna_vest.asp?source=komentar&IDNews=71242)
 8. [SwissInfo](http://www.swissinfo.org/sen/Swissinfo.html?siteSect=143&sid=4798093)
-8. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

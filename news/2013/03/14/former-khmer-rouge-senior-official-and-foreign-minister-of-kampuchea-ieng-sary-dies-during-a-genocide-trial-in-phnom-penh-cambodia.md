@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/14/former-khmer-rouge-senior-official-and-foreign-minister-of-kampuchea-ieng-sary-dies-during-a-genocide-trial-in-phnom-penh-cambodia.html)  [JSON](/news/2013/03/14/former-khmer-rouge-senior-official-and-foreign-minister-of-kampuchea-ieng-sary-dies-during-a-genocide-trial-in-phnom-penh-cambodia.json)  [XML](/news/2013/03/14/former-khmer-rouge-senior-official-and-foreign-minister-of-kampuchea-ieng-sary-dies-during-a-genocide-trial-in-phnom-penh-cambodia.xml)  
+
 ### [2013-03-14](/news/2013/03/14/index.md)
 
+##### Khmer Rouge
 # Former Khmer Rouge senior official and Foreign Minister of Kampuchea Ieng Sary dies during a genocide trial in Phnom Penh, Cambodia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2013-03-13-AS-Obit-Cambodia-Ieng-Sary/id-29fa9eab429b498c8976e3fdc8401634)
 

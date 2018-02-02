@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/15/colombia-announces-it-will-release-four-detained-members-of-the-venezuelan-national-guard-who-were-arrested-on-colombian-territory.html)  [JSON](/news/2009/11/15/colombia-announces-it-will-release-four-detained-members-of-the-venezuelan-national-guard-who-were-arrested-on-colombian-territory.json)  [XML](/news/2009/11/15/colombia-announces-it-will-release-four-detained-members-of-the-venezuelan-national-guard-who-were-arrested-on-colombian-territory.xml)  
+
 ### [2009-11-15](/news/2009/11/15/index.md)
 
+##### Colombia
 #  Colombia announces it will release four detained members of the Venezuelan National Guard who were arrested on Colombian territory. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8360999.stm)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=111306&sectionid=351020703)

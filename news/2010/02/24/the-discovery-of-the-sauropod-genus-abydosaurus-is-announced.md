@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/24/the-discovery-of-the-sauropod-genus-abydosaurus-is-announced.html)  [JSON](/news/2010/02/24/the-discovery-of-the-sauropod-genus-abydosaurus-is-announced.json)  [XML](/news/2010/02/24/the-discovery-of-the-sauropod-genus-abydosaurus-is-announced.xml)  
+
 ### [2010-02-24](/news/2010/02/24/index.md)
 
+##### sauropod
 # The discovery of the sauropod genus "Abydosaurus" is announced. 
 
 FOSSIL HUNTERS have done it again, unearthing a previously unknown species of dinosaur
 
 
-### Source:
+### Sources:
 
 1. [Irish Times](http://www.irishtimes.com/newspaper/sciencetoday/2010/0225/1224265137694.html)
 2. [ScienceDaily](http://www.sciencedaily.com/releases/2010/02/100223161829.htm)

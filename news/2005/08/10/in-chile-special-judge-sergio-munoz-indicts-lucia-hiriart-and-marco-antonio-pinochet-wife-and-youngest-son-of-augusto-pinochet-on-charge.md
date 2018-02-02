@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/10/in-chile-special-judge-sergio-munoz-indicts-lucia-hiriart-and-marco-antonio-pinochet-wife-and-youngest-son-of-augusto-pinochet-on-charge.html)  [JSON](/news/2005/08/10/in-chile-special-judge-sergio-munoz-indicts-lucia-hiriart-and-marco-antonio-pinochet-wife-and-youngest-son-of-augusto-pinochet-on-charge.json)  [XML](/news/2005/08/10/in-chile-special-judge-sergio-munoz-indicts-lucia-hiriart-and-marco-antonio-pinochet-wife-and-youngest-son-of-augusto-pinochet-on-charge.xml)  
+
 ### [2005-08-10](/news/2005/08/10/index.md)
 
+##### Sergio Muoz
 #  In Chile, special Judge Sergio Muoz indicts Luca Hiriart and Marco Antonio Pinochet, wife and youngest son of Augusto Pinochet, on charges of tax evasion. Hiriart is confined in a military facility in Santiago and Marco Pinochet in Santiago's Capuchinos Jail 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4139388.stm)
 

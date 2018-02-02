@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/8/islamic-insurgents-kill-14-people-in-an-attack-outside-algiers-trapping-the-victims-at-a-fake-roadblock-then-killing-them-and-burning-the.html)  [JSON](/news/2005/04/8/islamic-insurgents-kill-14-people-in-an-attack-outside-algiers-trapping-the-victims-at-a-fake-roadblock-then-killing-them-and-burning-the.json)  [XML](/news/2005/04/8/islamic-insurgents-kill-14-people-in-an-attack-outside-algiers-trapping-the-victims-at-a-fake-roadblock-then-killing-them-and-burning-the.xml)  
+
 ### [2005-04-8](/news/2005/04/8/index.md)
 
+##### Islamic
 #  Islamic insurgents kill 14 people in an attack outside Algiers, trapping the victims at a fake roadblock, then killing them and burning their vehicles. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP\Ynet News](http://www.ynetnews.com/articles/0,7340,L-3069916,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

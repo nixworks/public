@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/04/12/sheila-abdus-salaam-an-incumbent-associate-judge-of-the-new-york-court-of-appeals-and-the-first-african-american-woman-to-serve-on-the-cour.html)  [JSON](/news/2017/04/12/sheila-abdus-salaam-an-incumbent-associate-judge-of-the-new-york-court-of-appeals-and-the-first-african-american-woman-to-serve-on-the-cour.json)  [XML](/news/2017/04/12/sheila-abdus-salaam-an-incumbent-associate-judge-of-the-new-york-court-of-appeals-and-the-first-african-american-woman-to-serve-on-the-cour.xml)  
+
 ### [2017-04-12](/news/2017/04/12/index.md)
 
+##### Sheila Abdus-Salaam
 # Sheila Abdus-Salaam, an incumbent associate judge of the New York Court of Appeals and the first African-American woman to serve on the Court of Appeals is found dead in the Hudson River. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NY1 News](http://www.ny1.com/nyc/all-boroughs/news/2017/04/12/court-of-appeals-judge-found-dead-in-hudson-river.html)
 1. [Cover Image](http://s7d2.scene7.com/is/image/TWCNews/sheila-abdus-salaamjpg?wid=640)

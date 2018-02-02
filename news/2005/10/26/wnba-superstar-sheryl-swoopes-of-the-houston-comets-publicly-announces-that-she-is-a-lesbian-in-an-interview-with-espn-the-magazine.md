@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/26/wnba-superstar-sheryl-swoopes-of-the-houston-comets-publicly-announces-that-she-is-a-lesbian-in-an-interview-with-espn-the-magazine.html)  [JSON](/news/2005/10/26/wnba-superstar-sheryl-swoopes-of-the-houston-comets-publicly-announces-that-she-is-a-lesbian-in-an-interview-with-espn-the-magazine.json)  [XML](/news/2005/10/26/wnba-superstar-sheryl-swoopes-of-the-houston-comets-publicly-announces-that-she-is-a-lesbian-in-an-interview-with-espn-the-magazine.xml)  
+
 ### [2005-10-26](/news/2005/10/26/index.md)
 
+##### WNBA
 #  WNBA superstar Sheryl Swoopes of the Houston Comets publicly announces that she is a lesbian in an interview with ESPN The Magazine. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://sports.espn.go.com/wnba/news/story?id=2204322)
 1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)

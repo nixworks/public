@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/23/a-collision-between-a-tour-bus-and-a-tractor-tr
 
 ### [2016-10-23](/news/2016/10/23/index.md)
 
+##### Desert Hot Springs, California
 # A collision between a tour bus and a tractor-trailer kills at least 13 people, and injures 31 others in Desert Hot Springs, California, United States. 
 
 

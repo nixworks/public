@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/10/nurses-in-fiji-end-industrial-action-after-18-days.html)  [JSON](/news/2007/08/10/nurses-in-fiji-end-industrial-action-after-18-days.json)  [XML](/news/2007/08/10/nurses-in-fiji-end-industrial-action-after-18-days.xml)  
+
 ### [2007-08-10](/news/2007/08/10/index.md)
 
+##### Fiji
 #  Nurses in Fiji end industrial action after 18 days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Fiji](http://www.radiofiji.com.fj/fullstory.php?id=2755)
 

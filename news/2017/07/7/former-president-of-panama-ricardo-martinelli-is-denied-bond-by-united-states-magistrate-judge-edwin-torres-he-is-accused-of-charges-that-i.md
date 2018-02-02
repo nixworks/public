@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/7/former-president-of-panama-ricardo-martinelli-is
 
 ### [2017-07-7](/news/2017/07/7/index.md)
 
+##### Panama
 # Former president of Panama Ricardo Martinelli is denied bond by United States magistrate judge Edwin Torres. He is accused of charges that include illegally monitoring phone and other conversations of at least 150 people. Martinelli was arrested in Miami last month on an extradition warrant from Panama. 
 
 

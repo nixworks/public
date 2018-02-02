@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/1/a-ship-carrying-458-people-capsizes-on-yangtze-river-in-china-s-hubei-province-so-far-just-seven-have-been-rescued.html)  [JSON](/news/2015/06/1/a-ship-carrying-458-people-capsizes-on-yangtze-river-in-china-s-hubei-province-so-far-just-seven-have-been-rescued.json)  [XML](/news/2015/06/1/a-ship-carrying-458-people-capsizes-on-yangtze-river-in-china-s-hubei-province-so-far-just-seven-have-been-rescued.xml)  
+
 ### [2015-06-1](/news/2015/06/1/index.md)
 
+##### A ship
 # A ship carrying 458 people capsizes on Yangtze River in China's Hubei province. So far, just seven have been rescued. 
 
 “A ship carrying more than 400 people capsized Monday night in the Hubei section of China&#39;s Yangtze River.”
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/world/breaking-news/people-on-ship-disaster-in-china/story-e6frfkui-1227379115507?from=public_rss)
 2. [Xinhua via Twitter](https://twitter.com/XHNews/status/605477102117216256)

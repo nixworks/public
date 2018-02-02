@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/4/two-laptop-computers-that-contain-personal-information-on-northern-ireland-s-30-000-civil-servants-are-stolen-from-the-department-of-financ.html)  [JSON](/news/2009/06/4/two-laptop-computers-that-contain-personal-information-on-northern-ireland-s-30-000-civil-servants-are-stolen-from-the-department-of-financ.json)  [XML](/news/2009/06/4/two-laptop-computers-that-contain-personal-information-on-northern-ireland-s-30-000-civil-servants-are-stolen-from-the-department-of-financ.xml)  
+
 ### [2009-06-4](/news/2009/06/4/index.md)
 
+##### laptop
 #  Two laptop computers that contain personal information on Northern Ireland's 30,000 civil servants are stolen from the Department of Finance and Personnel in Belfast. 
 
 The personal details of thousands of civil servants were on laptop computers stolen during a break-in at government offices in Northern Ireland.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0604/northcrime.html)
 1. [Cover Image](https://img.rasset.ie/00018473-1600.jpg)

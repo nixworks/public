@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/03/28/new-details-about-the-sandy-hook-elementary-school-shooting-are-revealed-showing-that-the-massacre-was-less-than-300-seconds-long-search-w.html)  [JSON](/news/2013/03/28/new-details-about-the-sandy-hook-elementary-school-shooting-are-revealed-showing-that-the-massacre-was-less-than-300-seconds-long-search-w.json)  [XML](/news/2013/03/28/new-details-about-the-sandy-hook-elementary-school-shooting-are-revealed-showing-that-the-massacre-was-less-than-300-seconds-long-search-w.xml)  
+
 ### [2013-03-28](/news/2013/03/28/index.md)
 
+##### Sandy Hook Elementary School shooting
 # New details about the Sandy Hook Elementary School shooting are revealed, showing that the massacre was less than 300 seconds long. Search warrants show that perpetrator Adam Lanza had an arsenal in his home. 
 
-Hundreds of rounds of ammunition, guns, knives and three samurai swords were among the items seized from the home of Adam Lanza in the days after the Sandy Hook tragedy, warrants released Thursday revealed.
 
 
-### Source:
+
+### Sources:
 
 1. [CNN](http://news.blogs.cnn.com/2013/03/28/newtown-probe-1-4k-ammo-rounds-in-lanza-home)
-2. [USA Today](http://www.usatoday.com/story/news/nation/2013/03/28/newtown-search-warrants-released/2027639/)
+2. [USA Today](https://www.usatoday.com/story/news/nation/2013/03/28/newtown-search-warrants-released/2027639/)
 2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

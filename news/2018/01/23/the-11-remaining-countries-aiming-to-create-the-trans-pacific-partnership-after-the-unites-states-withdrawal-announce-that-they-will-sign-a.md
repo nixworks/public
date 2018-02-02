@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/23/the-11-remaining-countries-aiming-to-create-the
 
 ### [2018-01-23](/news/2018/01/23/index.md)
 
+##### Trans-Pacific Partnership
 # The 11 remaining countries aiming to create the Trans-Pacific Partnership after the Unites States' withdrawal announce that they will sign an agreement in Chile this March. 
 
 

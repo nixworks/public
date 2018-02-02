@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2012/12/11/the-prime-minister-of-mali-cheick-modibo-diarra-resigns-himself-and-his-government-on-television-after-his-arrest-hours-earlier-by-leaders-o.html)  [JSON](/news/2012/12/11/the-prime-minister-of-mali-cheick-modibo-diarra-resigns-himself-and-his-government-on-television-after-his-arrest-hours-earlier-by-leaders-o.json)  [XML](/news/2012/12/11/the-prime-minister-of-mali-cheick-modibo-diarra-resigns-himself-and-his-government-on-television-after-his-arrest-hours-earlier-by-leaders-o.xml)  
+
 ### [2012-12-11](/news/2012/12/11/index.md)
 
+##### Prime Minister of Mali
 # The Prime Minister of Mali Cheick Modibo Diarra resigns himself and his government on television after his arrest hours earlier by leaders of the recent Malian coup d'tat. 
 
 Mali&#039;s prime minister Cheick Modibo Diarra has resigned hours after he was arrested by soldiers as he prepared to leave the country for France.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/mali/9736266/Mali-PM-Cheick-Modibo-Diarra-arrested-by-soldiers.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-20674573)
-3. [Reuters](http://www.reuters.com/article/2012/12/11/us-mali-primeminister-idUSBRE8BA03V20121211)
+3. [Reuters](https://www.reuters.com/article/2012/12/11/us-mali-primeminister-idUSBRE8BA03V20121211)
 3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02196/Mali-PM-Diarra_2196277k.jpg)
 
 ### Related:

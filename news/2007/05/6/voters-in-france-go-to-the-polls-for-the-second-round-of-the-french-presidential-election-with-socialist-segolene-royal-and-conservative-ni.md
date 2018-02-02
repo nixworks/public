@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/6/voters-in-france-go-to-the-polls-for-the-second-round-of-the-french-presidential-election-with-socialist-segolene-royal-and-conservative-ni.html)  [JSON](/news/2007/05/6/voters-in-france-go-to-the-polls-for-the-second-round-of-the-french-presidential-election-with-socialist-segolene-royal-and-conservative-ni.json)  [XML](/news/2007/05/6/voters-in-france-go-to-the-polls-for-the-second-round-of-the-french-presidential-election-with-socialist-segolene-royal-and-conservative-ni.xml)  
+
 ### [2007-05-6](/news/2007/05/6/index.md)
 
+##### France
 #  Voters in France go to the polls for the second round of the French presidential election with socialist Sgolne Royal and conservative Nicolas Sarkozy as the two contenders. Exit polls indicate that Nicolas Sarkozy has won the runoff poll in the election with 53% of the vote, beating Sgolne Royal who has 47% of the vote. She later concedes defeat. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6629077.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/6630797.stm)

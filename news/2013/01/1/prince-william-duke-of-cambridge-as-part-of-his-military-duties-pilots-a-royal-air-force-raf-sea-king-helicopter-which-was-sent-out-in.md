@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/1/prince-william-duke-of-cambridge-as-part-of-his-military-duties-pilots-a-royal-air-force-raf-sea-king-helicopter-which-was-sent-out-in.html)  [JSON](/news/2013/01/1/prince-william-duke-of-cambridge-as-part-of-his-military-duties-pilots-a-royal-air-force-raf-sea-king-helicopter-which-was-sent-out-in.json)  [XML](/news/2013/01/1/prince-william-duke-of-cambridge-as-part-of-his-military-duties-pilots-a-royal-air-force-raf-sea-king-helicopter-which-was-sent-out-in.xml)  
+
 ### [2013-01-1](/news/2013/01/1/index.md)
 
+##### Duke of Cambridge
 # Prince William, Duke of Cambridge, as part of his military duties, pilots a Royal Air Force (RAF) Sea King helicopter which was sent out in the early morning hours to an as of yet unsuccessful search for a Blackpool, England man swept out to sea there. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://todaynews.today.com/_news/2013/01/02/16304408-prince-william-leads-rescue-attempt-at-sea-on-new-years-day)
 

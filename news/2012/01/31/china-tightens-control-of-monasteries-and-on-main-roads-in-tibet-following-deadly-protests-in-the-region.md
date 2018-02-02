@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/31/china-tightens-control-of-monasteries-and-on-main-roads-in-tibet-following-deadly-protests-in-the-region.html)  [JSON](/news/2012/01/31/china-tightens-control-of-monasteries-and-on-main-roads-in-tibet-following-deadly-protests-in-the-region.json)  [XML](/news/2012/01/31/china-tightens-control-of-monasteries-and-on-main-roads-in-tibet-following-deadly-protests-in-the-region.xml)  
+
 ### [2012-01-31](/news/2012/01/31/index.md)
 
+##### China
 # China tightens control of monasteries and on main roads in Tibet following deadly protests in the region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Indian Express](http://www.indianexpress.com/news/china-tightens-controls-over-temples-monasteries-in-tibet/906045/)
 

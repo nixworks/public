@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/8/pakistan-s-former-leader-pervez-musharraf-is-directed-to-appear-before-the-country-s-supreme-court-on-allegations-of-treason.html)  [JSON](/news/2013/04/8/pakistan-s-former-leader-pervez-musharraf-is-directed-to-appear-before-the-country-s-supreme-court-on-allegations-of-treason.json)  [XML](/news/2013/04/8/pakistan-s-former-leader-pervez-musharraf-is-directed-to-appear-before-the-country-s-supreme-court-on-allegations-of-treason.xml)  
+
 ### [2013-04-8](/news/2013/04/8/index.md)
 
+##### Pakistan
 # Pakistan's former leader Pervez Musharraf is directed to appear before the country's Supreme Court on allegations of treason. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-22062324)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66768000/jpg/_66768289_66768288.jpg)

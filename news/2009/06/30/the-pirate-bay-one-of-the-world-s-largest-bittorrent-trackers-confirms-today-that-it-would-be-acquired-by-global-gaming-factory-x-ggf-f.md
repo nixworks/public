@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/30/the-pirate-bay-one-of-the-world-s-largest-bittorrent-trackers-confirms-today-that-it-would-be-acquired-by-global-gaming-factory-x-ggf-f.html)  [JSON](/news/2009/06/30/the-pirate-bay-one-of-the-world-s-largest-bittorrent-trackers-confirms-today-that-it-would-be-acquired-by-global-gaming-factory-x-ggf-f.json)  [XML](/news/2009/06/30/the-pirate-bay-one-of-the-world-s-largest-bittorrent-trackers-confirms-today-that-it-would-be-acquired-by-global-gaming-factory-x-ggf-f.xml)  
+
 ### [2009-06-30](/news/2009/06/30/index.md)
 
+##### The Pirate Bay
 #  The Pirate Bay, one of the world's largest BitTorrent trackers, confirms today that it would be acquired by Global Gaming Factory X (GGF) for 7.8 million USD. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Pirate Bay blog](http://thepiratebay.org/blog/164)
 

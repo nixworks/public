@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/7/gunmen-attack-a-bbc-news-team-in-riyadh-saudi-arabia-killing-cameraman-simon-cumbers-and-seriously-injuring-correspondent-frank-gardner.html)  [JSON](/news/2004/06/7/gunmen-attack-a-bbc-news-team-in-riyadh-saudi-arabia-killing-cameraman-simon-cumbers-and-seriously-injuring-correspondent-frank-gardner.json)  [XML](/news/2004/06/7/gunmen-attack-a-bbc-news-team-in-riyadh-saudi-arabia-killing-cameraman-simon-cumbers-and-seriously-injuring-correspondent-frank-gardner.xml)  
+
 ### [2004-06-7](/news/2004/06/7/index.md)
 
+##### BBC
 #  Gunmen attack a BBC news team in Riyadh, Saudi Arabia, killing cameraman Simon Cumbers and seriously injuring correspondent Frank Gardner. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3783799.stm)
 

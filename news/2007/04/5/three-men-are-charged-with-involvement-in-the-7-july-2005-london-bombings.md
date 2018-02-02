@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/5/three-men-are-charged-with-involvement-in-the-7-july-2005-london-bombings.html)  [JSON](/news/2007/04/5/three-men-are-charged-with-involvement-in-the-7-july-2005-london-bombings.json)  [XML](/news/2007/04/5/three-men-are-charged-with-involvement-in-the-7-july-2005-london-bombings.xml)  
+
 ### [2007-04-5](/news/2007/04/5/index.md)
 
+##### 7 July
 #  Three men are charged with involvement in the 7 July 2005 London bombings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/6529643.stm)
 

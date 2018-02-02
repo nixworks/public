@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2007/09/13/hurricane-humberto-makes-landfall-on-the-southeast-texas-coast-near-the-louisiana-border.html)  [JSON](/news/2007/09/13/hurricane-humberto-makes-landfall-on-the-southeast-texas-coast-near-the-louisiana-border.json)  [XML](/news/2007/09/13/hurricane-humberto-makes-landfall-on-the-southeast-texas-coast-near-the-louisiana-border.xml)  
+
 ### [2007-09-13](/news/2007/09/13/index.md)
 
+##### Hurricane Humberto
 #  Hurricane Humberto makes landfall on the southeast Texas coast near the Louisiana border. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://afp.google.com/article/ALeqM5gVuF90MntClPYAPva0SEiyT5SqQg)
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/6992692.stm)
 3. [CBS via Topix](http://www.topix.net/content/cbs/2007/09/humberto-weakens-after-blasting-texas-2)
+
+### Changes:
+
+1. [ 2007 Atlantic hurricane season: Hurricane Humberto makes landfall on the southeast Texas coast near the Louisiana border. ](/news/2007/09/13/2007-atlantic-hurricane-season-p-hurricane-humberto-makes-landfall-on-the-southeast-texas-coast-near-the-louisiana-border.md) _2017-08-25 03:20:57 (First version)_
+2. [ 2007 Atlantic hurricane season:: Hurricane Humberto makes landfall on the southeast Texas coast near the Louisiana border. ](/news/2007/09/13/2007-atlantic-hurricane-season-hurricane-humberto-makes-landfall-on-the-southeast-texas-coast-near-the-louisiana-border.md) _2017-08-27 03:20:53 (Update)_
+2. [ Hurricane Humberto makes landfall on the southeast Texas coast near the Louisiana border. ](/news/2007/09/13/hurricane-humberto-makes-landfall-on-the-southeast-texas-coast-near-the-louisiana-border.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@
 3. [Six people have been killed in Louisiana, Texas, and Oklahoma, with two Mississippi fishermen missing, in this week's flooding in the America's Deep South. More than 24 inches of rain has fallen in some of the hardest-hit areas with more rain today that is expected to lead to additional flooding later this week. ](/news/2016/03/13/six-people-have-been-killed-in-louisiana-texas-and-oklahoma-with-two-mississippi-fishermen-missing-in-this-week-s-flooding-in-the-americ.md) _Context: Louisiana, Texas_
 4. [London-based BP agrees, pending court approval, to pay $US18.7 billion to compensate the United States government and the five Gulf Coast states--Alabama, Florida, Louisiana, Mississippi and Texas--for damages stemming from the 2010 Gulf of Mexico oil spill. The settlement includes a civil penalty of $US5.5 billion under the Clean Water Act. ](/news/2015/07/2/london-based-bp-agrees-pending-court-approval-to-pay-us18-7-billion-to-compensate-the-united-states-government-and-the-five-gulf-coast-st.md) _Context: Louisiana, Texas_
 5. [A moderate severe weather outbreak pounds several southern U.S. states on Christmas Day, including Texas, Alabama, Mississippi and Louisiana. More than 30 tornadoes are reported as the storms leave at least six people dead. The system is expected to move northeast and affect the East Coast with high winds and heavy snowfall. ](/news/2012/12/26/a-moderate-severe-weather-outbreak-pounds-several-southern-u-s-states-on-christmas-day-including-texas-alabama-mississippi-and-louisiana.md) _Context: Louisiana, Texas_
-
-### Changes:
-
-1. [ 2007 Atlantic hurricane season: Hurricane Humberto makes landfall on the southeast Texas coast near the Louisiana border. ](/news/2007/09/13/2007-atlantic-hurricane-season-p-hurricane-humberto-makes-landfall-on-the-southeast-texas-coast-near-the-louisiana-border.md) _2017-08-25 03:20:57 (First version)_
-2. [ 2007 Atlantic hurricane season:: Hurricane Humberto makes landfall on the southeast Texas coast near the Louisiana border. ](/news/2007/09/13/2007-atlantic-hurricane-season-hurricane-humberto-makes-landfall-on-the-southeast-texas-coast-near-the-louisiana-border.md) _2017-08-27 03:20:53 (Update)_
-2. [ Hurricane Humberto makes landfall on the southeast Texas coast near the Louisiana border. ](/news/2007/09/13/hurricane-humberto-makes-landfall-on-the-southeast-texas-coast-near-the-louisiana-border.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/31/the-sudan-people-s-liberation-army-pledges-to-demobilise-all-of-its-child-soldiers-by-the-end-of-the-year.html)  [JSON](/news/2010/08/31/the-sudan-people-s-liberation-army-pledges-to-demobilise-all-of-its-child-soldiers-by-the-end-of-the-year.json)  [XML](/news/2010/08/31/the-sudan-people-s-liberation-army-pledges-to-demobilise-all-of-its-child-soldiers-by-the-end-of-the-year.xml)  
+
 ### [2010-08-31](/news/2010/08/31/index.md)
 
+##### Sudan People's Liberation Army
 # The Sudan People's Liberation Army pledges to demobilise all of its child soldiers by the end of the year. 
 
 The army in south Sudan pledges to demobilise all child soldiers by the end of the year.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11135426)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

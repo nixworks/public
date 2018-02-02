@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/24/incumbent-jeremy-corbyn-wins-the-leadership-con
 
 ### [2016-09-24](/news/2016/09/24/index.md)
 
+##### Labour Party (UK) leadership election, 2016
 # Incumbent Jeremy Corbyn wins the leadership contest over Owen Smith with 61.8% of the vote. 
 
 Jeremy Corbyn and Owen Smith are preparing to find out who has won the Labour leadership election - amid calls for party unity after months of in-fighting.

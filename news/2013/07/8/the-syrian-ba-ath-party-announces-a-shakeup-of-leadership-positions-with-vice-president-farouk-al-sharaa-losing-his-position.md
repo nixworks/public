@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/8/the-syrian-ba-ath-party-announces-a-shakeup-of-leadership-positions-with-vice-president-farouk-al-sharaa-losing-his-position.html)  [JSON](/news/2013/07/8/the-syrian-ba-ath-party-announces-a-shakeup-of-leadership-positions-with-vice-president-farouk-al-sharaa-losing-his-position.json)  [XML](/news/2013/07/8/the-syrian-ba-ath-party-announces-a-shakeup-of-leadership-positions-with-vice-president-farouk-al-sharaa-losing-his-position.xml)  
+
 ### [2013-07-8](/news/2013/07/8/index.md)
 
+##### Syrian Ba'ath Party
 # The Syrian Ba'ath Party announces a shakeup of leadership positions with Vice President Farouk al-Sharaa losing his position. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Fox News](http://www.foxnews.com/world/2013/07/08/syria-baath-party-leadership-replaced-including-vp/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2013/07/08/syria-baath-party-leadership-replaced-including-vp/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422585621890.jpg?ve=1)

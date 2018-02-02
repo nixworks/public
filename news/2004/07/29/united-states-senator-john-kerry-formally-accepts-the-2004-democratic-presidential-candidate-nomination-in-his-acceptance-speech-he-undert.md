@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/29/united-states-senator-john-kerry-formally-accepts-the-2004-democratic-presidential-candidate-nomination-in-his-acceptance-speech-he-undert.html)  [JSON](/news/2004/07/29/united-states-senator-john-kerry-formally-accepts-the-2004-democratic-presidential-candidate-nomination-in-his-acceptance-speech-he-undert.json)  [XML](/news/2004/07/29/united-states-senator-john-kerry-formally-accepts-the-2004-democratic-presidential-candidate-nomination-in-his-acceptance-speech-he-undert.xml)  
+
 ### [2004-07-29](/news/2004/07/29/index.md)
 
+##### John Kerry
 #  United States Senator John Kerry formally accepts the 2004 Democratic Presidential candidate nomination. In his acceptance speech he undertakes to "restore trust and credibility to the White House". 
 
 After pledging to &#8220;restore trust and credibility to the White House,&#8221; Sen. John Kerry during this acceptance speech as the Democratic presidential nominee Thursday, he and vp nominee John Edwards begin U.S. tour.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/5344731/)
 1. [Cover Image](http://media4.s-nbcnews.com/j/msnbc/Components/Photos/040729/040729_kerry_730p_vmed.standard.jpg)

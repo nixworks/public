@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/10/more-than-40-people-are-arrested-after-clashes-between-anti-islamic-and-anti-racist-demonstrations-in-manchester-england.html)  [JSON](/news/2009/10/10/more-than-40-people-are-arrested-after-clashes-between-anti-islamic-and-anti-racist-demonstrations-in-manchester-england.json)  [XML](/news/2009/10/10/more-than-40-people-are-arrested-after-clashes-between-anti-islamic-and-anti-racist-demonstrations-in-manchester-england.xml)  
+
 ### [2009-10-10](/news/2009/10/10/index.md)
 
+##### Islam
 #  More than 40 people are arrested after clashes between anti-Islamic and anti-racist demonstrations in Manchester, England. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/england/manchester/8300431.stm)
 2. [The Times](http://www.timesonline.co.uk/tol/news/uk/article6869327.ece)

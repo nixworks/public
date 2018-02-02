@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/10/the-other-2005-nobel-prizes-are-handed-out-in-stockholm-to-barry-j-marshall-and-robin-warren-physiology-or-medicine-roy-j-glauber-and.html)  [JSON](/news/2005/12/10/the-other-2005-nobel-prizes-are-handed-out-in-stockholm-to-barry-j-marshall-and-robin-warren-physiology-or-medicine-roy-j-glauber-and.json)  [XML](/news/2005/12/10/the-other-2005-nobel-prizes-are-handed-out-in-stockholm-to-barry-j-marshall-and-robin-warren-physiology-or-medicine-roy-j-glauber-and.xml)  
+
 ### [2005-12-10](/news/2005/12/10/index.md)
 
+##### Nobel Prize
 #  The other 2005 Nobel Prizes are handed out in Stockholm to Barry J. Marshall and Robin Warren (Physiology or Medicine), Roy J. Glauber and John L. Hall and Theodor W. Hnsch (Physics), Robert H. Grubbs, Richard R. Schrock and Yves Chauvin (Chemistry), Robert J. Aumann and Thomas C. Schelling (Economics), and Harold Pinter (Literature). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2005/WORLD/europe/12/10/nobel.prizes.ap/index.html)
 

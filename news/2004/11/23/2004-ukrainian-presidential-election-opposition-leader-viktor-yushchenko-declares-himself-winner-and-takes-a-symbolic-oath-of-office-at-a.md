@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/23/2004-ukrainian-presidential-election-opposition-leader-viktor-yushchenko-declares-himself-winner-and-takes-a-symbolic-oath-of-office-at-a.html)  [JSON](/news/2004/11/23/2004-ukrainian-presidential-election-opposition-leader-viktor-yushchenko-declares-himself-winner-and-takes-a-symbolic-oath-of-office-at-a.json)  [XML](/news/2004/11/23/2004-ukrainian-presidential-election-opposition-leader-viktor-yushchenko-declares-himself-winner-and-takes-a-symbolic-oath-of-office-at-a.xml)  
+
 ### [2004-11-23](/news/2004/11/23/index.md)
 
+##### Ukrainian presidential election controversy
 #  2004 Ukrainian presidential election: Opposition leader Viktor Yushchenko declares himself winner and takes a symbolic oath of office at a parliament special session, boycotted by pro-government MPs. Crowds of around 200,000 Yushchenko supporters rally outside the parliament building in Kiev. Freedom House releases a statement saying that the runoff election was "tainted by massive voter fraud." Russian Foreign Ministry expresses "extreme concern" about the disobedience actions by the Ukrainian opposition. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4036867.stm)
 2. [FH](http://freedomhouse.org/media/pressrel/112204.htm)

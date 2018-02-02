@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/06/25/in-destin-florida-a-14-year-old-louisiana-girl-is-killed-in-a-shark-attack.html)  [JSON](/news/2005/06/25/in-destin-florida-a-14-year-old-louisiana-girl-is-killed-in-a-shark-attack.json)  [XML](/news/2005/06/25/in-destin-florida-a-14-year-old-louisiana-girl-is-killed-in-a-shark-attack.xml)  
+
 ### [2005-06-25](/news/2005/06/25/index.md)
 
+##### Destin, Florida
 #  In Destin, Florida, a 14-year-old Louisiana girl is killed in a shark attack.
 
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/10/21/poland-s-parliamentary-speaker-radoslaw-sikorski-says-that-russian-president-vladimir-putin-proposed-to-poland-s-then-leader-donald-tusk-i.html)  [JSON](/news/2014/10/21/poland-s-parliamentary-speaker-radoslaw-sikorski-says-that-russian-president-vladimir-putin-proposed-to-poland-s-then-leader-donald-tusk-i.json)  [XML](/news/2014/10/21/poland-s-parliamentary-speaker-radoslaw-sikorski-says-that-russian-president-vladimir-putin-proposed-to-poland-s-then-leader-donald-tusk-i.xml)  
+
 ### [2014-10-21](/news/2014/10/21/index.md)
 
+##### Radoslaw Sikorski
 # Poland's parliamentary speaker, Radoslaw Sikorski, says that Russian President Vladimir Putin proposed to Poland's then leader Donald Tusk in 2008 that they divide Ukraine between themselves. Sikorski later retracted the claim stating he had "mis-remembered". 
 
 WARSAW (Reuters) - Poland&#x27;s parliamentary speaker, Radoslaw Sikorski, has been quoted as saying that Russian President Vladimir Putin proposed to Poland&#x27;s then leader in 2008 that they divide Ukraine between themselves. Sikorski, who until September served as Poland&#x27;s foreign minister, was
 
 
-### Source:
+### Sources:
 
 1. [Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-2801977/Polands-speaker-backs-claim-Putin-proposed-dividing-Ukraine.html)
-2. [Reuters via Yahoo News](http://news.yahoo.com/putin-offered-divide-ukraine-poland-polish-ex-minister-210859509.html)
+2. [Reuters via Yahoo News](https://news.yahoo.com/putin-offered-divide-ukraine-poland-polish-ex-minister-210859509.html)
 2. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:

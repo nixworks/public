@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/5/online-retailer-amazon-com-begins-operations-in-india.html)  [JSON](/news/2013/06/5/online-retailer-amazon-com-begins-operations-in-india.json)  [XML](/news/2013/06/5/online-retailer-amazon-com-begins-operations-in-india.xml)  
+
 ### [2013-06-5](/news/2013/06/5/index.md)
 
+##### Amazon.com
 # Online retailer Amazon.com begins operations in India. 
 
 Amazons India launch is expected to add to the pressure on incumbent online retailers which are cutting costs after a spending spree to win new customers.
 
 
-### Source:
+### Sources:
 
 1. [Economic Times](http://economictimes.indiatimes.com/tech/internet/amazon-debuts-in-india-with-marketplace-model-fierce-competition-ahead/articleshow/20453002.cms)
 1. [Cover Image](http://img.etimg.com/thumb/msid-20453073,width-672,resizemode-4,imglength-27645/tech/internet/amazon-debuts-in-india-with-marketplace-model-fierce-competition-ahead.jpg)

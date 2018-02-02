@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/25/iraq-s-council-of-representatives-lifts-the-immunity-of-mohammed-al-dayni-an-mp-accused-of-organizing-the-2007-bombing-of-parliament.html)  [JSON](/news/2009/02/25/iraq-s-council-of-representatives-lifts-the-immunity-of-mohammed-al-dayni-an-mp-accused-of-organizing-the-2007-bombing-of-parliament.json)  [XML](/news/2009/02/25/iraq-s-council-of-representatives-lifts-the-immunity-of-mohammed-al-dayni-an-mp-accused-of-organizing-the-2007-bombing-of-parliament.xml)  
+
 ### [2009-02-25](/news/2009/02/25/index.md)
 
+##### Iraq
 #  Iraq's Council of Representatives lifts the immunity of Mohammed al-Dayni, an MP accused of organizing the 2007 bombing of Parliament. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.com/news/articles/34/Iraq_Hunts_Fugitive_MP_in_Parliament_Bombing.html)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/5/philippine-candidate-grace-poe-denies-she-will-g
 
 ### [2016-05-5](/news/2016/05/5/index.md)
 
+##### Philippine general election, 2016
 # Philippine candidate Grace Poe denies she will give way in favor of administration bet Mar Roxas 
 
 Anti-establishment Philippine politician Rodrigo Duterte&#039;s rollicking ride to presidential favouritism triggers warnings of a coup should he win next week&#039;s election.

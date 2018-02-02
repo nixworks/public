@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/15/zimbabwe-defence-forces-troops-seize-control-of
 
 ### [2017-11-15](/news/2017/11/15/index.md)
 
+##### 2017 Zimbabwean coup d'tat
 # Zimbabwe Defence Forces troops seize control of the Zimbabwe Broadcasting Corporation headquarters as explosions are heard in the capital Harare amid reports of a coup against President Robert Mugabe. 
 
 Military spokesman Maj Gen SB Moyo has addressed the nation after troops took over the state broadcaster ZBC. Read his statement in full

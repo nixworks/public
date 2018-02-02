@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/8/cambodian-health-officials-identify-enterovirus-71-as-a-possible-cause-for-an-outbreak-in-which-at-least-64-children-have-died.html)  [JSON](/news/2012/07/8/cambodian-health-officials-identify-enterovirus-71-as-a-possible-cause-for-an-outbreak-in-which-at-least-64-children-have-died.json)  [XML](/news/2012/07/8/cambodian-health-officials-identify-enterovirus-71-as-a-possible-cause-for-an-outbreak-in-which-at-least-64-children-have-died.xml)  
+
 ### [2012-07-8](/news/2012/07/8/index.md)
 
+##### Cambodia
 # Cambodian health officials identify Enterovirus 71 as a possible cause for an outbreak in which at least 64 children have died. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/07/08/world/asia/cambodia-children-disease/index.html?hpt=wo_c2)
 

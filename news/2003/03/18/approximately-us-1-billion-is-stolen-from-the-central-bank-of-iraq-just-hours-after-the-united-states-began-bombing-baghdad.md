@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/18/approximately-us-1-billion-is-stolen-from-the-central-bank-of-iraq-just-hours-after-the-united-states-began-bombing-baghdad.html)  [JSON](/news/2003/03/18/approximately-us-1-billion-is-stolen-from-the-central-bank-of-iraq-just-hours-after-the-united-states-began-bombing-baghdad.json)  [XML](/news/2003/03/18/approximately-us-1-billion-is-stolen-from-the-central-bank-of-iraq-just-hours-after-the-united-states-began-bombing-baghdad.xml)  
+
 ### [2003-03-18](/news/2003/03/18/index.md)
 
+##### Central Bank of Iraq
 #  Approximately US$1 billion is stolen from the Central Bank of Iraq, just hours after the United States began bombing Baghdad.
 
 

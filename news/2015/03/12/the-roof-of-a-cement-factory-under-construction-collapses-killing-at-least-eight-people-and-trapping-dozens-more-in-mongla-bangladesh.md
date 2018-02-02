@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/12/the-roof-of-a-cement-factory-under-construction-collapses-killing-at-least-eight-people-and-trapping-dozens-more-in-mongla-bangladesh.html)  [JSON](/news/2015/03/12/the-roof-of-a-cement-factory-under-construction-collapses-killing-at-least-eight-people-and-trapping-dozens-more-in-mongla-bangladesh.json)  [XML](/news/2015/03/12/the-roof-of-a-cement-factory-under-construction-collapses-killing-at-least-eight-people-and-trapping-dozens-more-in-mongla-bangladesh.xml)  
+
 ### [2015-03-12](/news/2015/03/12/index.md)
 
+##### Mongla
 # The roof of a cement factory under construction collapses killing at least eight people and trapping dozens more in Mongla, Bangladesh. 
 
 A cement warehouse partially collapses in Bangladesh, with at least eight people killed, according to police.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/2015-03-12/bangladesh-factory-collapse-traps-workers-leaves-three-dead/6310858)
 2. [BBC](http://www.bbc.com/news/world-asia-31849576)

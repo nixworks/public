@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/11/general-motors-acquires-cruise-automation-a-thr
 
 ### [2016-03-11](/news/2016/03/11/index.md)
 
+##### General Motors
 # General Motors acquires Cruise Automation, a three-year old software company that's been testing self-driving cars on the streets of San Francisco. 
 
 

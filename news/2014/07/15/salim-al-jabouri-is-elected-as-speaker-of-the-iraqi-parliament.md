@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/15/salim-al-jabouri-is-elected-as-speaker-of-the-iraqi-parliament.html)  [JSON](/news/2014/07/15/salim-al-jabouri-is-elected-as-speaker-of-the-iraqi-parliament.json)  [XML](/news/2014/07/15/salim-al-jabouri-is-elected-as-speaker-of-the-iraqi-parliament.xml)  
+
 ### [2014-07-15](/news/2014/07/15/index.md)
 
+##### Salim al-Jabouri
 # Salim al-Jabouri is elected as speaker of the Iraqi parliament. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://blogs.wsj.com/frontiers/2014/07/15/iraqi-parliament-breaks-deadlock-to-elect-a-new-speaker/)
 1. [Cover Image](http://s.wsj.net/blogs/img/WSJ_Logo_BlackBackground_1200x630social)

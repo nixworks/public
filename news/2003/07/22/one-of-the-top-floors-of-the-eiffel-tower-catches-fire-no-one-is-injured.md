@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/22/one-of-the-top-floors-of-the-eiffel-tower-catches-fire-no-one-is-injured.html)  [JSON](/news/2003/07/22/one-of-the-top-floors-of-the-eiffel-tower-catches-fire-no-one-is-injured.json)  [XML](/news/2003/07/22/one-of-the-top-floors-of-the-eiffel-tower-catches-fire-no-one-is-injured.xml)  
+
 ### [2003-07-22](/news/2003/07/22/index.md)
 
+##### Eiffel Tower
 #  One of the top floors of the Eiffel Tower catches fire. No one is injured.
 
 

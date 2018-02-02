@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2015/01/5/lebanon-implements-stricter-immigration-rules-on-its-syrian-border-in-response-to-the-refugee-crisis-caused-by-the-syrian-civil-war.html)  [JSON](/news/2015/01/5/lebanon-implements-stricter-immigration-rules-on-its-syrian-border-in-response-to-the-refugee-crisis-caused-by-the-syrian-civil-war.json)  [XML](/news/2015/01/5/lebanon-implements-stricter-immigration-rules-on-its-syrian-border-in-response-to-the-refugee-crisis-caused-by-the-syrian-civil-war.xml)  
+
 ### [2015-01-5](/news/2015/01/5/index.md)
 
+##### Lebanon
 # Lebanon implements stricter immigration rules on its Syrian border in response to the refugee crisis caused by the Syrian Civil War. 
 
 Lebanon enforced new immigration controls at the Syrian border on Monday in a move to gain control of the steady stream of refugees from its much larger neighbor.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/01/05/us-mideast-crisis-lebanon-refugees-idUSKBN0KE10C20150105)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150105&t=2&i=1012999990&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB040GZ)
+1. [Reuters](https://www.reuters.com/article/2015/01/05/us-mideast-crisis-lebanon-refugees-idUSKBN0KE10C20150105)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20150105&t=2&i=1012999990&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB040GZ)
 
 ### Related:
 
-1. [A missile-strike in Jaramana in southern Syria kills high-ranking Lebanese Hezbollah commander Samir Kuntar and eight National Defence Force (NDF) personnel. The responsibility for the incident taken by the Free Syrian Army, though Hezbollah alleges Israeli involvement. Kuntar was the longest serving Lebanese prisoner in Israel until his release in 2008. On April 22, 1979 Kuntar and his team broke into an apartment building and kidnapped a father, 31-year-old Danny Haran, and his 4-year-old daughter, Einat, taking them to a nearby beach and killing them. ](/news/2015/12/20/a-missile-strike-in-jaramana-in-southern-syria-kills-high-ranking-lebanese-hezbollah-commander-samir-kuntar-and-eight-national-defence-force.md) _Context: Lebanese, Syria, Syrian Civil War_
-2. [The Israeli Air Force reportedly conducts an airstrike near Damascus International Airport, in Syria's capital, the target apparently a weapons shipment reportedly intended for Lebanese terrorist organization Hezbollah, according to Syrian opposition groups. ](/news/2015/11/11/the-israeli-air-force-reportedly-conducts-an-airstrike-near-damascus-international-airport-in-syria-s-capital-the-target-apparently-a-weap.md) _Context: Lebanese, Syria, Syrian Civil War_
-3. [Fighting resumes in Syria near the Lebanese border and Idlib Governorate as a temporary ceasefire between the Syrian government, its ally Hezbollah and an alliance of insurgent groups ends. ](/news/2015/08/15/fighting-resumes-in-syria-near-the-lebanese-border-and-idlib-governorate-as-a-temporary-ceasefire-between-the-syrian-government-its-ally-he.md) _Context: Lebanese, Syria, Syrian Civil War_
-4. [Saudi Arabia grants Lebanon US$1 billion to help the country in its conflict with self-declared jihadist fighters on the border with Syria. ](/news/2014/08/6/saudi-arabia-grants-lebanon-us-1-billion-to-help-the-country-in-its-conflict-with-self-declared-jihadist-fighters-on-the-border-with-syria.md) _Context: Lebanese, Syria, Syrian Civil War_
-5. [Several people are killed in clashes in the Lebanese city of Tripoli between supporters and opponents of the Syrian president Bashar al-Assad, in a violent spillover from the Syrian civil war. ](/news/2012/05/13/several-people-are-killed-in-clashes-in-the-lebanese-city-of-tripoli-between-supporters-and-opponents-of-the-syrian-president-bashar-al-assa.md) _Context: Lebanese, Syria, Syrian Civil War_
+1. [A missile-strike in Jaramana in southern Syria kills high-ranking Lebanese Hezbollah commander Samir Kuntar and eight National Defence Force (NDF) personnel. The responsibility for the incident taken by the Free Syrian Army, though Hezbollah alleges Israeli involvement. Kuntar was the longest serving Lebanese prisoner in Israel until his release in 2008. On April 22, 1979 Kuntar and his team broke into an apartment building and kidnapped a father, 31-year-old Danny Haran, and his 4-year-old daughter, Einat, taking them to a nearby beach and killing them. ](/news/2015/12/20/a-missile-strike-in-jaramana-in-southern-syria-kills-high-ranking-lebanese-hezbollah-commander-samir-kuntar-and-eight-national-defence-force.md) _Context: Lebanon, Syria, Syrian Civil War_
+2. [The Israeli Air Force reportedly conducts an airstrike near Damascus International Airport, in Syria's capital, the target apparently a weapons shipment reportedly intended for Lebanese terrorist organization Hezbollah, according to Syrian opposition groups. ](/news/2015/11/11/the-israeli-air-force-reportedly-conducts-an-airstrike-near-damascus-international-airport-in-syria-s-capital-the-target-apparently-a-weap.md) _Context: Lebanon, Syria, Syrian Civil War_
+3. [Fighting resumes in Syria near the Lebanese border and Idlib Governorate as a temporary ceasefire between the Syrian government, its ally Hezbollah and an alliance of insurgent groups ends. ](/news/2015/08/15/fighting-resumes-in-syria-near-the-lebanese-border-and-idlib-governorate-as-a-temporary-ceasefire-between-the-syrian-government-its-ally-he.md) _Context: Lebanon, Syria, Syrian Civil War_
+4. [Saudi Arabia grants Lebanon US$1 billion to help the country in its conflict with self-declared jihadist fighters on the border with Syria. ](/news/2014/08/6/saudi-arabia-grants-lebanon-us-1-billion-to-help-the-country-in-its-conflict-with-self-declared-jihadist-fighters-on-the-border-with-syria.md) _Context: Lebanon, Syria, Syrian Civil War_
+5. [An explosion at the headquarters of the Chechen-led Ajnad al-Kavkaz rebel group in Idlib, Syria, kills at least 23 people, while several people remain unaccounted for, according to the Syrian Observatory for Human Rights. ](/news/2018/01/7/an-explosion-at-the-headquarters-of-the-chechen-led-ajnad-al-kavkaz-rebel-group-in-idlib-syria-kills-at-least-23-people-while-several-peo.md) _Context: Syria, Syrian Civil War_

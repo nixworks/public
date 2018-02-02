@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/29/google-expands-its-google-maps-map-data-coverage-of-north-korea-for-what-has-been-blank-on-most-of-that-country-satellite-images-on-its-sear.html)  [JSON](/news/2013/01/29/google-expands-its-google-maps-map-data-coverage-of-north-korea-for-what-has-been-blank-on-most-of-that-country-satellite-images-on-its-sear.json)  [XML](/news/2013/01/29/google-expands-its-google-maps-map-data-coverage-of-north-korea-for-what-has-been-blank-on-most-of-that-country-satellite-images-on-its-sear.xml)  
+
 ### [2013-01-29](/news/2013/01/29/index.md)
 
+##### Google
 # Google expands its Google Maps map data coverage of North Korea for what has been blank on most of that country satellite images on its search engine. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-21226623)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65542000/png/_65542017_pyongyangbeforeandafter(1).png)

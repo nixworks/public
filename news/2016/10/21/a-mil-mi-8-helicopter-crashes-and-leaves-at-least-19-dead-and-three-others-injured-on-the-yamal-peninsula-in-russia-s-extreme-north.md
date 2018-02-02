@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/21/a-mil-mi-8-helicopter-crashes-and-leaves-at-lea
 
 ### [2016-10-21](/news/2016/10/21/index.md)
 
+##### Mi-8
 # A Mil Mi-8 helicopter crashes and leaves at least 19 dead and three others injured on the Yamal Peninsula in Russia's Extreme North. 
 
 

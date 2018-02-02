@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/9/ten-year-old-sussex-spaniel-clussexx-three-d-grinchy-glee-wins-the-2009-westminster-kennel-club-dog-show-s-best-in-show-award.html)  [JSON](/news/2009/02/9/ten-year-old-sussex-spaniel-clussexx-three-d-grinchy-glee-wins-the-2009-westminster-kennel-club-dog-show-s-best-in-show-award.json)  [XML](/news/2009/02/9/ten-year-old-sussex-spaniel-clussexx-three-d-grinchy-glee-wins-the-2009-westminster-kennel-club-dog-show-s-best-in-show-award.xml)  
+
 ### [2009-02-9](/news/2009/02/9/index.md)
 
+##### Sussex spaniel
 #  Ten-year-old Sussex spaniel Clussexx Three D Grinchy Glee wins the 2009 Westminster Kennel Club Dog Show's Best-in-Show Award. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://latimesblogs.latimes.com/unleashed/2009/02/westminster-w-1.html)
 

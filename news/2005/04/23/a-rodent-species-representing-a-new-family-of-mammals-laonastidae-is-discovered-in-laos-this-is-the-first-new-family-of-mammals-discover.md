@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/23/a-rodent-species-representing-a-new-family-of-mammals-laonastidae-is-discovered-in-laos-this-is-the-first-new-family-of-mammals-discover.html)  [JSON](/news/2005/04/23/a-rodent-species-representing-a-new-family-of-mammals-laonastidae-is-discovered-in-laos-this-is-the-first-new-family-of-mammals-discover.json)  [XML](/news/2005/04/23/a-rodent-species-representing-a-new-family-of-mammals-laonastidae-is-discovered-in-laos-this-is-the-first-new-family-of-mammals-discover.xml)  
+
 ### [2005-04-23](/news/2005/04/23/index.md)
 
+##### mammal
 #  A rodent species representing a new family of mammals, Laonastidae, is discovered in Laos. This is the first new family of mammals discovered since 1974. 
 
 Welcome to Cambridge Core
 
 
-### Source:
+### Sources:
 
 1. [Cambridge Journals](http://journals.cambridge.org/bin/bladerunner?REQUNIQ=1114272586&REQSESS=6569750&118000REQEVENT=&REQINT1=292893&REQAUTH=0)
 

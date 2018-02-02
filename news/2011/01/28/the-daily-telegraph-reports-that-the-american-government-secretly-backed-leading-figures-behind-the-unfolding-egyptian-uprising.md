@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/28/the-daily-telegraph-reports-that-the-american-government-secretly-backed-leading-figures-behind-the-unfolding-egyptian-uprising.html)  [JSON](/news/2011/01/28/the-daily-telegraph-reports-that-the-american-government-secretly-backed-leading-figures-behind-the-unfolding-egyptian-uprising.json)  [XML](/news/2011/01/28/the-daily-telegraph-reports-that-the-american-government-secretly-backed-leading-figures-behind-the-unfolding-egyptian-uprising.xml)  
+
 ### [2011-01-28](/news/2011/01/28/index.md)
 
+##### Daily Telegraph
 # "The Daily Telegraph" reports that the American government secretly backed leading figures behind the unfolding Egyptian uprising. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Vancouver Sun](http://www.vancouversun.com/technology/America+secret+backing+behind+Egyptian+uprising/4183120/story.html)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/27/catalonia-declares-independence-from-spain-as-t
 
 ### [2017-10-27](/news/2017/10/27/index.md)
 
+##### 2017 Spanish constitutional crisis
 # Catalonia declares independence from Spain as the Catalan Republic. 
 
 The move comes as the Spanish government is on the brink of imposing direct rule on the region.

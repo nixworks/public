@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2004/10/25/yasser-arafat-undergoes-minor-exploratory-surgery-for-stomach-pains-and-vomiting.html)  [JSON](/news/2004/10/25/yasser-arafat-undergoes-minor-exploratory-surgery-for-stomach-pains-and-vomiting.json)  [XML](/news/2004/10/25/yasser-arafat-undergoes-minor-exploratory-surgery-for-stomach-pains-and-vomiting.xml)  
+
 ### [2004-10-25](/news/2004/10/25/index.md)
 
+##### Yasser Arafat
 #  Yasser Arafat undergoes minor exploratory surgery for stomach pains and vomiting. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6597711)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6602474)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6603469)
-3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6597711)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6602474)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6603469)
 
 ### Related:
 

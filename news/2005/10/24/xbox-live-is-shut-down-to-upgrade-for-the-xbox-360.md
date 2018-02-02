@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/10/24/xbox-live-is-shut-down-to-upgrade-for-the-xbox-360.html)  [JSON](/news/2005/10/24/xbox-live-is-shut-down-to-upgrade-for-the-xbox-360.json)  [XML](/news/2005/10/24/xbox-live-is-shut-down-to-upgrade-for-the-xbox-360.xml)  
+
 ### [2005-10-24](/news/2005/10/24/index.md)
 
+##### Xbox Live
 #  Xbox Live is shut down to upgrade for the Xbox 360.
 
 

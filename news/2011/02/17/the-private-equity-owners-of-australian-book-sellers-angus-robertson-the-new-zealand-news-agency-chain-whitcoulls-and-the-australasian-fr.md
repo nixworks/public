@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/17/the-private-equity-owners-of-australian-book-sellers-angus-robertson-the-new-zealand-news-agency-chain-whitcoulls-and-the-australasian-fr.html)  [JSON](/news/2011/02/17/the-private-equity-owners-of-australian-book-sellers-angus-robertson-the-new-zealand-news-agency-chain-whitcoulls-and-the-australasian-fr.json)  [XML](/news/2011/02/17/the-private-equity-owners-of-australian-book-sellers-angus-robertson-the-new-zealand-news-agency-chain-whitcoulls-and-the-australasian-fr.xml)  
+
 ### [2011-02-17](/news/2011/02/17/index.md)
 
+##### private equity
 # The private equity owners of Australian book sellers Angus & Robertson, the New Zealand news agency chain Whitcoulls and the Australasian franchise of Borders goes into voluntary administration. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/business/borders-angus-robertson-parent-redgroup-retail-in-voluntary-administration/story-e6frg8zx-1226007712326)
 2. [The Sydney Morning Herald](http://www.smh.com.au/business/borders-angus--robertson-go-bust-20110217-1axt9.html)

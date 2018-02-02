@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/15/lindowsos-changes-its-name-to-linspire-in-a-move-to-counter-microsoft-s-lawsuit-strategy-against-the-company.html)  [JSON](/news/2004/04/15/lindowsos-changes-its-name-to-linspire-in-a-move-to-counter-microsoft-s-lawsuit-strategy-against-the-company.json)  [XML](/news/2004/04/15/lindowsos-changes-its-name-to-linspire-in-a-move-to-counter-microsoft-s-lawsuit-strategy-against-the-company.xml)  
+
 ### [2004-04-15](/news/2004/04/15/index.md)
 
+##### LindowsOS
 #  LindowsOS changes its name to Linspire, in a move to counter Microsoft's lawsuit strategy against the company. 
 
 HP needs 6-8 weeks to ship additional TouchPads, according to a leaked email sent to customers. HP is prepping one last run for its defunct tablet.
 
 
-### Source:
+### Sources:
 
 1. [eWeek](http://www.eweek.com/article2/0,1759,1568023,00.asp)
 1. [Cover Image](http://www.eweek.com/bundles/eweekbase/images/logo_eweek.jpg)

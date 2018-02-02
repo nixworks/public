@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/10/the-first-tropical-depression-of-the-2006-atlantic-hurricane-season-forms-in-the-northwestern-caribbean-sea.html)  [JSON](/news/2006/06/10/the-first-tropical-depression-of-the-2006-atlantic-hurricane-season-forms-in-the-northwestern-caribbean-sea.json)  [XML](/news/2006/06/10/the-first-tropical-depression-of-the-2006-atlantic-hurricane-season-forms-in-the-northwestern-caribbean-sea.xml)  
+
 ### [2006-06-10](/news/2006/06/10/index.md)
 
+##### 2006 Atlantic hurricane season
 #  The first tropical depression of the 2006 Atlantic hurricane season forms in the northwestern Caribbean Sea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/WEATHER/06/10/tropical.weather.ap/index.html)
 

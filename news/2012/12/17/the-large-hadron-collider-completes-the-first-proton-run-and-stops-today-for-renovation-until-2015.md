@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/17/the-large-hadron-collider-completes-the-first-proton-run-and-stops-today-for-renovation-until-2015.html)  [JSON](/news/2012/12/17/the-large-hadron-collider-completes-the-first-proton-run-and-stops-today-for-renovation-until-2015.json)  [XML](/news/2012/12/17/the-large-hadron-collider-completes-the-first-proton-run-and-stops-today-for-renovation-until-2015.xml)  
+
 ### [2012-12-17](/news/2012/12/17/index.md)
 
+##### Large Hadron Collider
 # The Large Hadron Collider completes the first proton run and stops today for renovation until 2015. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CERN](http://press.web.cern.ch/press-releases/2012/12/first-lhc-protons-run-ends-new-milestone)
 2. [Science Daily](http://www.sciencedaily.com/releases/2012/12/121217110645.htm)

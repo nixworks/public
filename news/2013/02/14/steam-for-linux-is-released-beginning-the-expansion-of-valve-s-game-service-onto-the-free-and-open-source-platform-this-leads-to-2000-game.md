@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2013/02/14/steam-for-linux-is-released-beginning-the-expansion-of-valve-s-game-service-onto-the-free-and-open-source-platform-this-leads-to-2000-game.html)  [JSON](/news/2013/02/14/steam-for-linux-is-released-beginning-the-expansion-of-valve-s-game-service-onto-the-free-and-open-source-platform-this-leads-to-2000-game.json)  [XML](/news/2013/02/14/steam-for-linux-is-released-beginning-the-expansion-of-valve-s-game-service-onto-the-free-and-open-source-platform-this-leads-to-2000-game.xml)  
+
 ### [2013-02-14](/news/2013/02/14/index.md)
 
+##### Steam
 # Steam for Linux is released, beginning the expansion of Valve's game service onto the free and open-source platform. This leads to 2000 games being ported to the platform in a span of a little over 3 years.
 
 

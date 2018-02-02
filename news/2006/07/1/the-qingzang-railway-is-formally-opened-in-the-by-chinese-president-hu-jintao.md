@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/1/the-qingzang-railway-is-formally-opened-in-the-by-chinese-president-hu-jintao.html)  [JSON](/news/2006/07/1/the-qingzang-railway-is-formally-opened-in-the-by-chinese-president-hu-jintao.json)  [XML](/news/2006/07/1/the-qingzang-railway-is-formally-opened-in-the-by-chinese-president-hu-jintao.xml)  
+
 ### [2006-07-1](/news/2006/07/1/index.md)
 
+##### Qingzang railway
 #  The Qingzang railway is formally opened in the by Chinese President Hu Jintao. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/5133220.stm)
 

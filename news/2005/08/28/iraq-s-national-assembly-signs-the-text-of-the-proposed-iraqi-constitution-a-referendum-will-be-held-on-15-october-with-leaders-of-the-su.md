@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/28/iraq-s-national-assembly-signs-the-text-of-the-proposed-iraqi-constitution-a-referendum-will-be-held-on-15-october-with-leaders-of-the-su.html)  [JSON](/news/2005/08/28/iraq-s-national-assembly-signs-the-text-of-the-proposed-iraqi-constitution-a-referendum-will-be-held-on-15-october-with-leaders-of-the-su.json)  [XML](/news/2005/08/28/iraq-s-national-assembly-signs-the-text-of-the-proposed-iraqi-constitution-a-referendum-will-be-held-on-15-october-with-leaders-of-the-su.xml)  
+
 ### [2005-08-28](/news/2005/08/28/index.md)
 
+##### Iraq
 #  Iraq's National Assembly signs the text of the proposed Iraqi constitution. A referendum will be held on 15 October, with leaders of the Sunni community already calling for a "no" vote. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4192122.stm)
 

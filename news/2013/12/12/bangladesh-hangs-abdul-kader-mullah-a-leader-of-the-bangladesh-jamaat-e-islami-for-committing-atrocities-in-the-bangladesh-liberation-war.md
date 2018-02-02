@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/12/bangladesh-hangs-abdul-kader-mullah-a-leader-of-the-bangladesh-jamaat-e-islami-for-committing-atrocities-in-the-bangladesh-liberation-war.html)  [JSON](/news/2013/12/12/bangladesh-hangs-abdul-kader-mullah-a-leader-of-the-bangladesh-jamaat-e-islami-for-committing-atrocities-in-the-bangladesh-liberation-war.json)  [XML](/news/2013/12/12/bangladesh-hangs-abdul-kader-mullah-a-leader-of-the-bangladesh-jamaat-e-islami-for-committing-atrocities-in-the-bangladesh-liberation-war.xml)  
+
 ### [2013-12-12](/news/2013/12/12/index.md)
 
+##### Bangladesh
 # Bangladesh hangs Abdul Kader Mullah, a leader of the Bangladesh Jamaat-e-Islami, for committing atrocities in the Bangladesh Liberation War in 1971. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-25356034#)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69887000/jpg/_69887627_69887626.jpg)

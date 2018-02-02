@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/03/1/in-afghanistan-president-hamid-karzai-appoints-abdul-rashid-dostum-as-his-chief-of-staff-dostum-has-been-accused-of-involvement-in-human.html)  [JSON](/news/2005/03/1/in-afghanistan-president-hamid-karzai-appoints-abdul-rashid-dostum-as-his-chief-of-staff-dostum-has-been-accused-of-involvement-in-human.json)  [XML](/news/2005/03/1/in-afghanistan-president-hamid-karzai-appoints-abdul-rashid-dostum-as-his-chief-of-staff-dostum-has-been-accused-of-involvement-in-human.xml)  
+
 ### [2005-03-1](/news/2005/03/1/index.md)
 
+##### Afghanistan
 #  In Afghanistan, president Hamid Karzai appoints Abdul Rashid Dostum as his chief-of-staff. Dostum has been accused of involvement in human rights abuses. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4308683.stm)
 2. [Daily Times, Pakistan](http://www.dailytimes.com.pk/default.asp?page=story_2-3-2005_pg4_16)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7773789)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7773789)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

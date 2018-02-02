@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/1/the-discovery-of-two-additional-moons-of-pluto-is-announced.html)  [JSON](/news/2005/11/1/the-discovery-of-two-additional-moons-of-pluto-is-announced.json)  [XML](/news/2005/11/1/the-discovery-of-two-additional-moons-of-pluto-is-announced.xml)  
+
 ### [2005-11-1](/news/2005/11/1/index.md)
 
+##### moons
 #  The discovery of two additional moons of Pluto is announced. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2005/TECH/space/10/31/pluto.moons.reut/index.html)
 

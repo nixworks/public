@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/25/israel-strikes-two-syrian-army-artillery-positi
 
 ### [2017-06-25](/news/2017/06/25/index.md)
 
+##### Israeli-Syrian ceasefire line incidents during the Syrian Civil War
 # Israel strikes two Syrian Army artillery positions and an ammunition truck in Quneitra Governorate, after stray shells from Syria land in the northern Golan Heights for a second day in a row. 
 
 

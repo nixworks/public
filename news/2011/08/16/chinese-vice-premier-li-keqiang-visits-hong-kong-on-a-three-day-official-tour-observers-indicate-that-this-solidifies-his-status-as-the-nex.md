@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/16/chinese-vice-premier-li-keqiang-visits-hong-kong-on-a-three-day-official-tour-observers-indicate-that-this-solidifies-his-status-as-the-nex.html)  [JSON](/news/2011/08/16/chinese-vice-premier-li-keqiang-visits-hong-kong-on-a-three-day-official-tour-observers-indicate-that-this-solidifies-his-status-as-the-nex.json)  [XML](/news/2011/08/16/chinese-vice-premier-li-keqiang-visits-hong-kong-on-a-three-day-official-tour-observers-indicate-that-this-solidifies-his-status-as-the-nex.xml)  
+
 ### [2011-08-16](/news/2011/08/16/index.md)
 
+##### China
 # Chinese Vice-Premier Li Keqiang visits Hong Kong on a three-day official tour; observers indicate that this solidifies his status as the next Premier of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://online.wsj.com/article/SB10001424053111903918104576503311098645364.html)
 

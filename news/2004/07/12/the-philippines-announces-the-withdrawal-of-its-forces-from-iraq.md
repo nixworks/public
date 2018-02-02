@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/07/12/the-philippines-announces-the-withdrawal-of-its-forces-from-iraq.html)  [JSON](/news/2004/07/12/the-philippines-announces-the-withdrawal-of-its-forces-from-iraq.json)  [XML](/news/2004/07/12/the-philippines-announces-the-withdrawal-of-its-forces-from-iraq.xml)  
+
 ### [2004-07-12](/news/2004/07/12/index.md)
 
+##### Philippines
 #  The Philippines announces the withdrawal of its forces from Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=5648509)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=5648509)
 
 ### Related:
 
@@ -15,4 +19,4 @@
 2. [ Following the decision of the Philippines to accede to hostage-takers' demands that it withdraw all 51 soldiers from Iraq, militants in Iraq abduct three Indians, two Kenyans and an Egyptian, announcing that the hostages would be beheaded unless their countries immediately announce the withdrawal of troops from Iraq.](/news/2004/07/21/following-the-decision-of-the-philippines-to-accede-to-hostage-takers-demands-that-it-withdraw-all-51-soldiers-from-iraq-militants-in-ira.md) _Context: Iraq, Philippines_
 3. [ Gloria Arroyo, President of the Philippines, confirms that hostage Angelo de la Cruz has been freed by his captors after their demands for a one-month-early withdrawal of all 51 Filipino troops from Iraq were met. ](/news/2004/07/20/gloria-arroyo-president-of-the-philippines-confirms-that-hostage-angelo-de-la-cruz-has-been-freed-by-his-captors-after-their-demands-for.md) _Context: Iraq, Philippines_
 4. [ Acceding to the demands of Iraqi militants who kidnapped and threaten to behead truck driver Angelo de la Cruz, the Philippines agrees to withdraw from Iraq. Eleven soldiers leave today, while the remaining 32 are slated to withdraw at a later date. ](/news/2004/07/16/acceding-to-the-demands-of-iraqi-militants-who-kidnapped-and-threaten-to-behead-truck-driver-angelo-de-la-cruz-the-philippines-agrees-to-w.md) _Context: Iraq, Philippines_
-5. [The Iraqi Army and allied paramilitary fighters storm the ISIL-held city of Hawija in the Kirkuk Governorate. Hawija is one of the last remaining ISIL strongholds in Iraq. ](/news/2017/10/4/the-iraqi-army-and-allied-paramilitary-fighters-storm-the-isil-held-city-of-hawija-in-the-kirkuk-governorate-hawija-is-one-of-the-last-rema.md) _Context: Iraq_
+5. [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md) _Context: Iraq_

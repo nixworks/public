@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/28/british-airways-it-expert-rajib-karim-is-convicted-on-charges-related-to-plotting-to-blow-up-a-plane.html)  [JSON](/news/2011/02/28/british-airways-it-expert-rajib-karim-is-convicted-on-charges-related-to-plotting-to-blow-up-a-plane.json)  [XML](/news/2011/02/28/british-airways-it-expert-rajib-karim-is-convicted-on-charges-related-to-plotting-to-blow-up-a-plane.xml)  
+
 ### [2011-02-28](/news/2011/02/28/index.md)
 
+##### British Airways
 # British Airways IT expert Rajib Karim is convicted on charges related to plotting to blow up a plane. 
 
 A British Airways worker based in Newcastle is convicted of using his job to plot acts including trying to blow up a plane.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-tyne-12561994)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

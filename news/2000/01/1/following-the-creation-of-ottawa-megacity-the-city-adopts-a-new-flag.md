@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/01/1/following-the-creation-of-ottawa-megacity-the-city-adopts-a-new-flag.html)  [JSON](/news/2000/01/1/following-the-creation-of-ottawa-megacity-the-city-adopts-a-new-flag.json)  [XML](/news/2000/01/1/following-the-creation-of-ottawa-megacity-the-city-adopts-a-new-flag.xml)  
+
 ### [2000-01-1](/news/2000/01/1/index.md)
 
+##### Ottawa
 # Following the creation of Ottawa "megacity", the city adopts a new flag.
 
 

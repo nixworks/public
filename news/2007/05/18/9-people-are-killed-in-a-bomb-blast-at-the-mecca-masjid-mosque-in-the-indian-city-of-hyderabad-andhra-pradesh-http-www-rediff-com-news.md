@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/05/18/9-people-are-killed-in-a-bomb-blast-at-the-mecca-masjid-mosque-in-the-indian-city-of-hyderabad-andhra-pradesh-http-www-rediff-com-news.html)  [JSON](/news/2007/05/18/9-people-are-killed-in-a-bomb-blast-at-the-mecca-masjid-mosque-in-the-indian-city-of-hyderabad-andhra-pradesh-http-www-rediff-com-news.json)  [XML](/news/2007/05/18/9-people-are-killed-in-a-bomb-blast-at-the-mecca-masjid-mosque-in-the-indian-city-of-hyderabad-andhra-pradesh-http-www-rediff-com-news.xml)  
+
 ### [2007-05-18](/news/2007/05/18/index.md)
 
+##### killed in a bomb blast
 #  9 people are killed in a bomb blast at the Mecca Masjid mosque in the Indian city of Hyderabad, Andhra Pradesh. [http:--www.rediff.com-news-2007-may-18blast.htm]
 
 

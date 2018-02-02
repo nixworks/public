@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/07/28/assassins-kill-the-military-commander-of-libya-s-national-transitional-council-general-abdul-fatah-younis-and-two-other-officers.html)  [JSON](/news/2011/07/28/assassins-kill-the-military-commander-of-libya-s-national-transitional-council-general-abdul-fatah-younis-and-two-other-officers.json)  [XML](/news/2011/07/28/assassins-kill-the-military-commander-of-libya-s-national-transitional-council-general-abdul-fatah-younis-and-two-other-officers.xml)  
+
 ### [2011-07-28](/news/2011/07/28/index.md)
 
+##### assassinated
 # Assassins kill the military commander of Libya's National Transitional Council General Abdul Fatah Younis and two other officers. 
 
 Assassins killed Libya’s top rebel military commander, stirring fears that a tribal feud could divide the forces.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2011/07/29/world/africa/29libya.html?_r=1)
+1. [New York Times](https://www.nytimes.com/2011/07/29/world/africa/29libya.html?_r=1)
 1. [Cover Image](https://static01.nyt.com/images/2011/07/29/world/29libya/29libya-thumbStandard-v2.jpg)
 
 ### Related:

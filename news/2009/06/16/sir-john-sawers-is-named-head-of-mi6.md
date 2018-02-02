@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/16/sir-john-sawers-is-named-head-of-mi6.html)  [JSON](/news/2009/06/16/sir-john-sawers-is-named-head-of-mi6.json)  [XML](/news/2009/06/16/sir-john-sawers-is-named-head-of-mi6.xml)  
+
 ### [2009-06-16](/news/2009/06/16/index.md)
 
+##### John Sawers
 #  Sir John Sawers is named head of MI6. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8104141.stm)
 

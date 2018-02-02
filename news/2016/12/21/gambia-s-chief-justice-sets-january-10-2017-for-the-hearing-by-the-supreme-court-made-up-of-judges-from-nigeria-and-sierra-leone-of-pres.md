@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/21/gambia-s-chief-justice-sets-january-10-2017-for
 
 ### [2016-12-21](/news/2016/12/21/index.md)
 
+##### Gambian presidential election, 2016
 # Gambia's Chief Justice sets January 10, 2017, for the hearing by the Supreme Court, made up of judges from Nigeria and Sierra Leone, of President Yahya Jammeh's ruling party's legal challenge of the December 1 election results. 
 
 

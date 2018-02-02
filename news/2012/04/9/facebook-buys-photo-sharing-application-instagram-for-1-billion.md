@@ -1,18 +1,23 @@
+
+Formats: [HTML](/news/2012/04/9/facebook-buys-photo-sharing-application-instagram-for-1-billion.html)  [JSON](/news/2012/04/9/facebook-buys-photo-sharing-application-instagram-for-1-billion.json)  [XML](/news/2012/04/9/facebook-buys-photo-sharing-application-instagram-for-1-billion.xml)  
+
 ### [2012-04-9](/news/2012/04/9/index.md)
 
+##### Facebook
 # Facebook buys photo sharing application Instagram for $1 billion. 
 
+$1 billion for the photo-sharing service appears to be the most ever paid for an app.
 
 
+### Sources:
 
-### Source:
-
-1. [USA Today](http://www.usatoday.com/tech/news/story/2012-04-09/facebook-instagram/54134668/1)
+1. [USA Today](https://www.usatoday.com/tech/news/story/2012-04-09/facebook-instagram/54134668/1)
+1. [Cover Image](http://i.usatoday.net/tech/_photos/2012/04/09/Facebook-acquires-Instagram-in-1-billion-deal-8C19E8PB-x.jpg)
 
 ### Related:
 
 1. [Social networking service Facebook, and its photo-sharing subsidiary Instagram, ban private, person-to-person sales of guns via their services. ](/news/2016/01/30/social-networking-service-facebook-and-its-photo-sharing-subsidiary-instagram-ban-private-person-to-person-sales-of-guns-via-their-servic.md) _Context: Facebook, Instagram_
-2. [Facebook tells congressional investigators an operation, traced to a Russian company seeking to target voters, spent $100,000 on thousands of U.S. ads promoting divisive social and political messages during the 2016 U.S. election. ](/news/2017/09/6/facebook-tells-congressional-investigators-an-operation-traced-to-a-russian-company-seeking-to-target-voters-spent-100-000-on-thousands-o.md) _Context: Facebook_
-3. [Business leaders from various U.S. companies, including Facebook, Marriott International, JPMorgan Chase, and Microsoft, lobby to members of Congress to work on a permanent solution for DREAMers to stay legally in the country, many of whom are their employees. ](/news/2017/09/6/business-leaders-from-various-u-s-companies-including-facebook-marriott-international-jpmorgan-chase-and-microsoft-lobby-to-members-of.md) _Context: Facebook_
-4. [ Facebook, Google, and Twitter executives have been asked to testify before the House of Representatives Intelligence Committee in October and the Senate Intelligence Committee on November 1, according to committee sources. ](/news/2017/09/27/facebook-google-and-twitter-executives-have-been-asked-to-testify-before-the-house-of-representatives-intelligence-committee-in-october-a.md) _Context: Facebook_
-5. [Facebook agrees to disclose ads that ran in the U.S. in 2016 from accounts associated with a Russian entity known as the Internet Research Agency to United States Congressional investigators. Earlier, this information was provided to Special Counsel Robert Mueller. ](/news/2017/09/21/facebook-agrees-to-disclose-ads-that-ran-in-the-u-s-in-2016-from-accounts-associated-with-a-russian-entity-known-as-the-internet-research-a.md) _Context: Facebook_
+2. [Senior General Min Aung Hlaing posts on Facebook that Myanmar Army troops and Rakhine State villagers killed 10 Rohingya Muslims whose bodies were found in a mass grave in Inn Din village. This is the first time Myanmar's military has officially acknowledged extrajudicial actions against the Rohingya. Fortify Rights chief executive officer Matthew Smith says the two Reuters journalists who have been jailed since December 12, 2017, were investigating the same mass grave referenced by Min Aung Hlaing. ](/news/2018/01/10/senior-general-min-aung-hlaing-posts-on-facebook-that-myanmar-army-troops-and-rakhine-state-villagers-killed-10-rohingya-muslims-whose-bodie.md) _Context: Facebook_
+3. [Iran blocks access to Telegram and Instagram as the largest anti-government protests since 2009 continue. ](/news/2017/12/31/iran-blocks-access-to-telegram-and-instagram-as-the-largest-anti-government-protests-since-2009-continue.md) _Context: Instagram_
+4. [U.S. senators question lawyers representing Facebook, Twitter and Google about Russian activity on their platforms during the 2016 United States presidential election. ](/news/2017/10/31/u-s-senators-question-lawyers-representing-facebook-twitter-and-google-about-russian-activity-on-their-platforms-during-the-2016-united-st.md) _Context: Facebook_
+5. [A Palestinian man in the occupied West Bank is arrested and questioned for a few hours by Israeli police after Facebook mistranslates his Arabic-language message saying "good morning" into Hebrew for "attack them". ](/news/2017/10/22/a-palestinian-man-in-the-occupied-west-bank-is-arrested-and-questioned-for-a-few-hours-by-israeli-police-after-facebook-mistranslates-his-ar.md) _Context: Facebook_

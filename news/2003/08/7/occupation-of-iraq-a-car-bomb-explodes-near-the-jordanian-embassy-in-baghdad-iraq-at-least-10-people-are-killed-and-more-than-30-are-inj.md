@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/7/occupation-of-iraq-a-car-bomb-explodes-near-the-jordanian-embassy-in-baghdad-iraq-at-least-10-people-are-killed-and-more-than-30-are-inj.html)  [JSON](/news/2003/08/7/occupation-of-iraq-a-car-bomb-explodes-near-the-jordanian-embassy-in-baghdad-iraq-at-least-10-people-are-killed-and-more-than-30-are-inj.json)  [XML](/news/2003/08/7/occupation-of-iraq-a-car-bomb-explodes-near-the-jordanian-embassy-in-baghdad-iraq-at-least-10-people-are-killed-and-more-than-30-are-inj.xml)  
+
 ### [2003-08-7](/news/2003/08/7/index.md)
 
+##### U.S. presence in Iraq
 #  Occupation of Iraq: A car bomb explodes near the Jordanian Embassy in Baghdad, Iraq. At least 10 people are killed and more than 30 are injured. The bomb, hidden in a minibus, is believed to be detonated remotely.
 
 

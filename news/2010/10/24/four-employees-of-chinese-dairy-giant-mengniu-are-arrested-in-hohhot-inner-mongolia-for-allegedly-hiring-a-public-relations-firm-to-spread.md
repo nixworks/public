@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/24/four-employees-of-chinese-dairy-giant-mengniu-are-arrested-in-hohhot-inner-mongolia-for-allegedly-hiring-a-public-relations-firm-to-spread.html)  [JSON](/news/2010/10/24/four-employees-of-chinese-dairy-giant-mengniu-are-arrested-in-hohhot-inner-mongolia-for-allegedly-hiring-a-public-relations-firm-to-spread.json)  [XML](/news/2010/10/24/four-employees-of-chinese-dairy-giant-mengniu-are-arrested-in-hohhot-inner-mongolia-for-allegedly-hiring-a-public-relations-firm-to-spread.xml)  
+
 ### [2010-10-24](/news/2010/10/24/index.md)
 
+##### Mengniu
 # Four employees of Chinese dairy giant Mengniu are arrested in Hohhot, Inner Mongolia for allegedly hiring a public relations firm to spread false rumours online about products of industry rival Yili Group. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Global Times](http://china.globaltimes.cn/society/2010-10/584566.html)
 

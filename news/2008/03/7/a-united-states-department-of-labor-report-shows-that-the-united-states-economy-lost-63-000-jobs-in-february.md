@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/7/a-united-states-department-of-labor-report-shows-that-the-united-states-economy-lost-63-000-jobs-in-february.html)  [JSON](/news/2008/03/7/a-united-states-department-of-labor-report-shows-that-the-united-states-economy-lost-63-000-jobs-in-february.json)  [XML](/news/2008/03/7/a-united-states-department-of-labor-report-shows-that-the-united-states-economy-lost-63-000-jobs-in-february.xml)  
+
 ### [2008-03-7](/news/2008/03/7/index.md)
 
+##### United States Department of Labor
 #  A United States Department of Labor report shows that the United States economy lost 63,000 jobs in February. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.afp.com/english/news/stories/newsmlmmd.3fad6aa6495d12742a5045e09aa988e9.221.html)
 

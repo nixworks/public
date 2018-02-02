@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/05/5/the-dalai-lama-ends-his-visit-to-canada-with-a-ceremony-initiating-thousands-in-tibetan-buddhism.html)  [JSON](/news/2004/05/5/the-dalai-lama-ends-his-visit-to-canada-with-a-ceremony-initiating-thousands-in-tibetan-buddhism.json)  [XML](/news/2004/05/5/the-dalai-lama-ends-his-visit-to-canada-with-a-ceremony-initiating-thousands-in-tibetan-buddhism.xml)  
+
 ### [2004-05-5](/news/2004/05/5/index.md)
 
+##### Dalai Lama
 #  The Dalai Lama ends his visit to Canada with a ceremony initiating thousands in Tibetan Buddhism. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1083751689544&call_pageid=968332188492&col=968705899037)
+1. [Toronto Star](https://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1083751689544&call_pageid=968332188492&col=968705899037)
 
 ### Related:
 

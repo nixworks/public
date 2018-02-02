@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/30/researchers-at-the-breakthrough-listen-initiati
 
 ### [2017-08-30](/news/2017/08/30/index.md)
 
+##### Breakthrough Listen
 # Researchers at the Breakthrough Listen initiative announce they have detected 15 new powerful fast radio bursts (FRB) from FRB 121102, located in a dwarf galaxy about three billion light-years from Earth. FRB 121102 was first detected in 2012, and gained further attention after FRBs were detected from there again in 2015. 
 
 Breakthrough Listen detected more radio pulses from the famous repeating source FRB 121102. They’re higher frequency than previous ones but we still don’t know what causes them

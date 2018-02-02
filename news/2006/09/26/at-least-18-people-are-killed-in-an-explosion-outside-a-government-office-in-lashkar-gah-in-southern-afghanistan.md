@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/26/at-least-18-people-are-killed-in-an-explosion-outside-a-government-office-in-lashkar-gah-in-southern-afghanistan.html)  [JSON](/news/2006/09/26/at-least-18-people-are-killed-in-an-explosion-outside-a-government-office-in-lashkar-gah-in-southern-afghanistan.json)  [XML](/news/2006/09/26/at-least-18-people-are-killed-in-an-explosion-outside-a-government-office-in-lashkar-gah-in-southern-afghanistan.xml)  
+
 ### [2006-09-26](/news/2006/09/26/index.md)
 
+##### Lashkar Gah
 #  At least 18 people are killed in an explosion outside a government office in Lashkar Gah in southern Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/5380376.stm)
 

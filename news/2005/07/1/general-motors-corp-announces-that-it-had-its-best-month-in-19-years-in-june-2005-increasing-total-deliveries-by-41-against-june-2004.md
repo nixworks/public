@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/1/general-motors-corp-announces-that-it-had-its-best-month-in-19-years-in-june-2005-increasing-total-deliveries-by-41-against-june-2004.html)  [JSON](/news/2005/07/1/general-motors-corp-announces-that-it-had-its-best-month-in-19-years-in-june-2005-increasing-total-deliveries-by-41-against-june-2004.json)  [XML](/news/2005/07/1/general-motors-corp-announces-that-it-had-its-best-month-in-19-years-in-june-2005-increasing-total-deliveries-by-41-against-june-2004.xml)  
+
 ### [2005-07-1](/news/2005/07/1/index.md)
 
+##### General Motors
 #  General Motors Corp. announces that it had its best month in 19 years in June 2005, increasing total deliveries by 41% against June 2004, 
 
 
 
 
-### Source:
+### Sources:
 
 1. [GM website](http://media.gm.com/servlet/GatewayServlet?target=http://image.emerald.gm.com/gmnews/viewmonthlyreleasedetail.do?domain=74&docid=16338)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/7/major-league-baseball-player-alex-rodriguez-allegedly-tested-positive-for-two-anabolic-steroids-in-2003.html)  [JSON](/news/2009/02/7/major-league-baseball-player-alex-rodriguez-allegedly-tested-positive-for-two-anabolic-steroids-in-2003.json)  [XML](/news/2009/02/7/major-league-baseball-player-alex-rodriguez-allegedly-tested-positive-for-two-anabolic-steroids-in-2003.xml)  
+
 ### [2009-02-7](/news/2009/02/7/index.md)
 
+##### Major League Baseball
 #  Major League Baseball player Alex Rodriguez allegedly tested positive for two anabolic steroids in 2003. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sports Illustrated](http://sportsillustrated.cnn.com/2009/baseball/mlb/02/07/alex-rodriguez-steroids/index.html?eref=T1)
 

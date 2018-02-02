@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/03/10/tracy-mcgrady-of-the-orlando-magic-scores-62-points-against-the-washington-wizards-setting-the-record-for-most-points-scored-in-one-game-f.html)  [JSON](/news/2004/03/10/tracy-mcgrady-of-the-orlando-magic-scores-62-points-against-the-washington-wizards-setting-the-record-for-most-points-scored-in-one-game-f.json)  [XML](/news/2004/03/10/tracy-mcgrady-of-the-orlando-magic-scores-62-points-against-the-washington-wizards-setting-the-record-for-most-points-scored-in-one-game-f.xml)  
+
 ### [2004-03-10](/news/2004/03/10/index.md)
 
+##### Tracy McGrady
 #  Tracy McGrady of the Orlando Magic scores 62 points against the Washington Wizards, setting the record for most points scored in one game for the Orlando Magic franchise.
 
 

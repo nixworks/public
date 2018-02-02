@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/7/jordan-opens-its-government-schools-to-iraqi-refugees.html)  [JSON](/news/2007/08/7/jordan-opens-its-government-schools-to-iraqi-refugees.json)  [XML](/news/2007/08/7/jordan-opens-its-government-schools-to-iraqi-refugees.xml)  
+
 ### [2007-08-7](/news/2007/08/7/index.md)
 
+##### Jordan
 #  Jordan opens its government schools to Iraqi refugees. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6935002.stm)
 

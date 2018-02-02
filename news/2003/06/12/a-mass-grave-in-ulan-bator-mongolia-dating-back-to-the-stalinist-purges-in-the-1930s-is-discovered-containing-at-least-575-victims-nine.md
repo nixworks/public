@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/12/a-mass-grave-in-ulan-bator-mongolia-dating-back-to-the-stalinist-purges-in-the-1930s-is-discovered-containing-at-least-575-victims-nine.html)  [JSON](/news/2003/06/12/a-mass-grave-in-ulan-bator-mongolia-dating-back-to-the-stalinist-purges-in-the-1930s-is-discovered-containing-at-least-575-victims-nine.json)  [XML](/news/2003/06/12/a-mass-grave-in-ulan-bator-mongolia-dating-back-to-the-stalinist-purges-in-the-1930s-is-discovered-containing-at-least-575-victims-nine.xml)  
+
 ### [2003-06-12](/news/2003/06/12/index.md)
 
+##### Ulan Bator
 #  A mass grave in Ulan Bator, Mongolia, dating back to the Stalinist purges in the 1930s, is discovered containing at least 575 victims. Ninety percent of the dead were found with the remains of yellow and red garments and religious items usually worn by Buddhist monks. The number could top 1,000, investigators said.
 
 

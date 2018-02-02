@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/17/the-iraqi-army-captures-the-town-of-rawa-from-t
 
 ### [2017-11-17](/news/2017/11/17/index.md)
 
+##### Iraqi Civil War (2014-present)
 # The Iraqi Army captures the town of Rawa from the Islamic State in Iraq and the Levant (ISIL). It was the last town held by ISIL in Iraq. 
 
 

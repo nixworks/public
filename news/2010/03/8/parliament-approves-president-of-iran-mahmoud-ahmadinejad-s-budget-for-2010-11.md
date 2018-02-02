@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/03/8/parliament-approves-president-of-iran-mahmoud-ahmadinejad-s-budget-for-2010-11.html)  [JSON](/news/2010/03/8/parliament-approves-president-of-iran-mahmoud-ahmadinejad-s-budget-for-2010-11.json)  [XML](/news/2010/03/8/parliament-approves-president-of-iran-mahmoud-ahmadinejad-s-budget-for-2010-11.xml)  
+
 ### [2010-03-8](/news/2010/03/8/index.md)
 
+##### President
 # Parliament approves President of Iran Mahmoud Ahmadinejad's budget for 2010-11. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6274XD20100308)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20100308&t=2&i=72551668&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-03-08T182028Z_01_BTRE6271EYB00_RTROPTP_0_IRAN)
+1. [Reuters](https://www.reuters.com/article/idUSTRE6274XD20100308)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20100308&t=2&i=72551668&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-03-08T182028Z_01_BTRE6271EYB00_RTROPTP_0_IRAN)
 
 ### Related:
 

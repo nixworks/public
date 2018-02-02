@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/13/joseph-kony-head-of-the-lord-s-resistance-army-terrorist-organization-in-uganda-meets-with-jan-egeland-the-united-nations-highest-human.html)  [JSON](/news/2006/11/13/joseph-kony-head-of-the-lord-s-resistance-army-terrorist-organization-in-uganda-meets-with-jan-egeland-the-united-nations-highest-human.json)  [XML](/news/2006/11/13/joseph-kony-head-of-the-lord-s-resistance-army-terrorist-organization-in-uganda-meets-with-jan-egeland-the-united-nations-highest-human.xml)  
+
 ### [2006-11-13](/news/2006/11/13/index.md)
 
+##### Joseph Kony
 #  Joseph Kony, head of the Lord's Resistance Army terrorist organization in Uganda, meets with Jan Egeland, the United Nations' highest humanitarian official. 
 
 News and opinion from The Times &amp; The Sunday Times
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/article/0,,3-2451731,00.html)
 1. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)

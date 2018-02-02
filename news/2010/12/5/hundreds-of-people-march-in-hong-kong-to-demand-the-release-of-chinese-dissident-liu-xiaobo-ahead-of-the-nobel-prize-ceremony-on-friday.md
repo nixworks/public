@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/5/hundreds-of-people-march-in-hong-kong-to-demand-the-release-of-chinese-dissident-liu-xiaobo-ahead-of-the-nobel-prize-ceremony-on-friday.html)  [JSON](/news/2010/12/5/hundreds-of-people-march-in-hong-kong-to-demand-the-release-of-chinese-dissident-liu-xiaobo-ahead-of-the-nobel-prize-ceremony-on-friday.json)  [XML](/news/2010/12/5/hundreds-of-people-march-in-hong-kong-to-demand-the-release-of-chinese-dissident-liu-xiaobo-ahead-of-the-nobel-prize-ceremony-on-friday.xml)  
+
 ### [2010-12-5](/news/2010/12/5/index.md)
 
+##### Hong Kong
 # Hundreds of people march in Hong Kong to demand the release of Chinese dissident Liu Xiaobo ahead of the Nobel Prize ceremony on Friday. 
 
 Hong Kong, Dec 5 (DPA) Hundreds of protesters marched to Beijings de facto embassy in Hong Kong Sunday calling for the release of jailed dissident and...
 
 
-### Source:
+### Sources:
 
 1. [IOL South Africa](http://www.iol.co.za/news/world/free-liu-xiaobo-1.950919)
 2. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?hightlight&20101206&56&717696)

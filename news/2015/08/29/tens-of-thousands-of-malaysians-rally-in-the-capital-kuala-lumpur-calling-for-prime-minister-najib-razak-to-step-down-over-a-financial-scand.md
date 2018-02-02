@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/29/tens-of-thousands-of-malaysians-rally-in-the-capital-kuala-lumpur-calling-for-prime-minister-najib-razak-to-step-down-over-a-financial-scand.html)  [JSON](/news/2015/08/29/tens-of-thousands-of-malaysians-rally-in-the-capital-kuala-lumpur-calling-for-prime-minister-najib-razak-to-step-down-over-a-financial-scand.json)  [XML](/news/2015/08/29/tens-of-thousands-of-malaysians-rally-in-the-capital-kuala-lumpur-calling-for-prime-minister-najib-razak-to-step-down-over-a-financial-scand.xml)  
+
 ### [2015-08-29](/news/2015/08/29/index.md)
 
+##### Bersih 4 rally
 # Tens of thousands of Malaysians rally in the capital Kuala Lumpur calling for Prime Minister Najib Razak to step down over a financial scandal where a MYR 2.672 billion (USD 700 million) payment was made to his bank account from unnamed foreign donors. 
 
 Tens of thousands of Malaysians protest in Kuala Lumpur, calling for PM Najib Razak to quit over a financial scandal.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.com/news/world-asia-34093338)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/BF4F/production/_85257984_hi028758837.jpg)

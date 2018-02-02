@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/07/21/the-united-states-drug-enforcement-administration-conducted-operation-web-tryp-arresting-10-people-and-closing-down-five-suppliers-of-res.html)  [JSON](/news/2004/07/21/the-united-states-drug-enforcement-administration-conducted-operation-web-tryp-arresting-10-people-and-closing-down-five-suppliers-of-res.json)  [XML](/news/2004/07/21/the-united-states-drug-enforcement-administration-conducted-operation-web-tryp-arresting-10-people-and-closing-down-five-suppliers-of-res.xml)  
+
 ### [2004-07-21](/news/2004/07/21/index.md)
 
+##### Drug Enforcement Administration
 #  The United States' Drug Enforcement Administration conducted Operation Web Tryp, arresting 10 people and closing down five suppliers of research chemicals.
 
 

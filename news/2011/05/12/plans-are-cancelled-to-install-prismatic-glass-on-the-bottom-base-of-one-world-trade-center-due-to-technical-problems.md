@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2011/05/12/plans-are-cancelled-to-install-prismatic-glass-on-the-bottom-base-of-one-world-trade-center-due-to-technical-problems.html)  [JSON](/news/2011/05/12/plans-are-cancelled-to-install-prismatic-glass-on-the-bottom-base-of-one-world-trade-center-due-to-technical-problems.json)  [XML](/news/2011/05/12/plans-are-cancelled-to-install-prismatic-glass-on-the-bottom-base-of-one-world-trade-center-due-to-technical-problems.xml)  
+
 ### [2011-05-12](/news/2011/05/12/index.md)
 
+##### One World Trade Center
 # Plans are cancelled to install prismatic glass on the bottom base of One World Trade Center due to technical problems.
 
 

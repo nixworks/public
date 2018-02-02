@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/7/a-man-is-arrested-on-suspicion-of-burglary-trespass-and-criminal-damage-after-scaling-a-fence-to-get-into-buckingham-palace.html)  [JSON](/news/2013/09/7/a-man-is-arrested-on-suspicion-of-burglary-trespass-and-criminal-damage-after-scaling-a-fence-to-get-into-buckingham-palace.json)  [XML](/news/2013/09/7/a-man-is-arrested-on-suspicion-of-burglary-trespass-and-criminal-damage-after-scaling-a-fence-to-get-into-buckingham-palace.xml)  
+
 ### [2013-09-7](/news/2013/09/7/index.md)
 
+##### Buckingham Palace
 # A man is arrested on suspicion of burglary, trespass and criminal damage after scaling a fence to get into Buckingham Palace. 
 
 A man is arrested on suspicion of burglary, trespass and criminal damage after scaling a fence to get into Buckingham Palace, police say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-23999047)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69704000/jpg/_69704222_018747787.jpg)

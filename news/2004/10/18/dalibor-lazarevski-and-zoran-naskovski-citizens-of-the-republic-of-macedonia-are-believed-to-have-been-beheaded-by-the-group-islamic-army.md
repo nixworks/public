@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2004/10/18/dalibor-lazarevski-and-zoran-naskovski-citizens-of-the-republic-of-macedonia-are-believed-to-have-been-beheaded-by-the-group-islamic-army.html)  [JSON](/news/2004/10/18/dalibor-lazarevski-and-zoran-naskovski-citizens-of-the-republic-of-macedonia-are-believed-to-have-been-beheaded-by-the-group-islamic-army.json)  [XML](/news/2004/10/18/dalibor-lazarevski-and-zoran-naskovski-citizens-of-the-republic-of-macedonia-are-believed-to-have-been-beheaded-by-the-group-islamic-army.xml)  
+
 ### [2004-10-18](/news/2004/10/18/index.md)
 
+##### Macedonian
 #  Dalibor Lazarevski and Zoran Naskovski, citizens of the Republic of Macedonia, are believed to have been beheaded by the group Islamic Army in Iraq. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [Arabic News](http://www.arabicnews.com/ansub/Daily/Day/041018/2004101806.html)
-2. [NYT](http://www.nytimes.com/aponline/international/AP-US-Iraq.html?oref=login)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6531375)
-3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [NYT](https://www.nytimes.com/aponline/international/AP-US-Iraq.html?oref=login)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6531375)
 
 ### Related:
 

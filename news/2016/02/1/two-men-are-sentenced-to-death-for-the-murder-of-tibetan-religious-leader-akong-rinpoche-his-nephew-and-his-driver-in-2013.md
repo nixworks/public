@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/1/two-men-are-sentenced-to-death-for-the-murder-of
 
 ### [2016-02-1](/news/2016/02/1/index.md)
 
+##### Tibetan
 # Two men are sentenced to death for the murder of Tibetan religious leader Akong Rinpoche, his nephew and his driver in 2013. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/28/somali-and-african-union-forces-launch-a-coordinated-assault-on-the-somali-port-city-of-kismayo-to-take-back-the-city-from-al-shabaab-milita.html)  [JSON](/news/2012/09/28/somali-and-african-union-forces-launch-a-coordinated-assault-on-the-somali-port-city-of-kismayo-to-take-back-the-city-from-al-shabaab-milita.json)  [XML](/news/2012/09/28/somali-and-african-union-forces-launch-a-coordinated-assault-on-the-somali-port-city-of-kismayo-to-take-back-the-city-from-al-shabaab-milita.xml)  
+
 ### [2012-09-28](/news/2012/09/28/index.md)
 
+##### Somalia army soldiers
 # Somali and African Union forces launch a coordinated assault on the Somali port city of Kismayo to take back the city from al-Shabaab militants. 
 
 African Union forces launch a pre-dawn beach assault in an attempt to seize the Somali port of Kismayo, the last major Islamist militant stronghold.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19754639)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/63177000/jpg/_63177624_63177623.jpg)

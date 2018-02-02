@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/17/two-students-a-male-and-a-female-in-stable-condition-are-each-shot-in-the-arm-by-an-at-large-gunman-who-may-be-a-student-at-philadelphia.html)  [JSON](/news/2014/01/17/two-students-a-male-and-a-female-in-stable-condition-are-each-shot-in-the-arm-by-an-at-large-gunman-who-may-be-a-student-at-philadelphia.json)  [XML](/news/2014/01/17/two-students-a-male-and-a-female-in-stable-condition-are-each-shot-in-the-arm-by-an-at-large-gunman-who-may-be-a-student-at-philadelphia.xml)  
+
 ### [2014-01-17](/news/2014/01/17/index.md)
 
+##### Philadelphia
 # Two students, a male and a female in stable condition, are each shot in the arm by an at-large gunman, who may be a student, at Philadelphia, Pennsylvania's Delaware Valley Charter School high school. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN](http://news.msn.com/crime-justice/police-2-philadelphia-high-school-students-shot)
 

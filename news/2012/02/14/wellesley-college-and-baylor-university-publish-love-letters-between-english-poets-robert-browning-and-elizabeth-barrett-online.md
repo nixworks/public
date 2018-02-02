@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/14/wellesley-college-and-baylor-university-publish-love-letters-between-english-poets-robert-browning-and-elizabeth-barrett-online.html)  [JSON](/news/2012/02/14/wellesley-college-and-baylor-university-publish-love-letters-between-english-poets-robert-browning-and-elizabeth-barrett-online.json)  [XML](/news/2012/02/14/wellesley-college-and-baylor-university-publish-love-letters-between-english-poets-robert-browning-and-elizabeth-barrett-online.xml)  
+
 ### [2012-02-14](/news/2012/02/14/index.md)
 
+##### Wellesley College
 # Wellesley College and Baylor University publish love letters between English poets Robert Browning and Elizabeth Barrett online. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via WVEC](http://hosted.ap.org/dynamic/stories/U/US_POETS_LOVE_LETTERS?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
 

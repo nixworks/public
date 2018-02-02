@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/12/26/hackers-cause-the-playstation-network-and-xbox-live-to-suffer-connection-difficulties-on-christmas-day.html)  [JSON](/news/2014/12/26/hackers-cause-the-playstation-network-and-xbox-live-to-suffer-connection-difficulties-on-christmas-day.json)  [XML](/news/2014/12/26/hackers-cause-the-playstation-network-and-xbox-live-to-suffer-connection-difficulties-on-christmas-day.xml)  
+
 ### [2014-12-26](/news/2014/12/26/index.md)
 
+##### PlayStation Network
 # Hackers cause the PlayStation Network and Xbox Live to suffer connection difficulties on Christmas Day. 
 
-Online game networks Xbox Live and PlayStation Network have been offline much of Christmas Day because of hacking attacks.
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/tech/gaming/2014/12/25/xbox-live-playstation-network-hack/20895113/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/tech/gaming/2014/12/25/xbox-live-playstation-network-hack/20895113/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

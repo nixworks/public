@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/12/12/the-international-olympic-committee-strips-sprinter-marion-jones-of-five-medals-from-the-2000-summer-olympics-after-she-admits-to-having-ta.html)  [JSON](/news/2007/12/12/the-international-olympic-committee-strips-sprinter-marion-jones-of-five-medals-from-the-2000-summer-olympics-after-she-admits-to-having-ta.json)  [XML](/news/2007/12/12/the-international-olympic-committee-strips-sprinter-marion-jones-of-five-medals-from-the-2000-summer-olympics-after-she-admits-to-having-ta.xml)  
+
 ### [2007-12-12](/news/2007/12/12/index.md)
 
+##### International Olympic Committee
 #  The International Olympic Committee strips sprinter Marion Jones of five medals from the 2000 Summer Olympics after she admits to having taken banned substances. 
 
 The International Olympic Committee ended the once stellar Olympic career of U.S. sprinter Marion Jones on Wednesday, taking back her five Sydney 2000 Games medals after she admitted to taking drugs.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/domesticNews/idUSL1220829120071212)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20071212&t=2&i=2470267&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-12-12T182602Z_01_L12208291_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/domesticNews/idUSL1220829120071212)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20071212&t=2&i=2470267&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-12-12T182602Z_01_L12208291_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

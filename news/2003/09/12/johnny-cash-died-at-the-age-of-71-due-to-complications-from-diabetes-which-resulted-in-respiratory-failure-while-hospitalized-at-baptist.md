@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/12/johnny-cash-died-at-the-age-of-71-due-to-complications-from-diabetes-which-resulted-in-respiratory-failure-while-hospitalized-at-baptist.html)  [JSON](/news/2003/09/12/johnny-cash-died-at-the-age-of-71-due-to-complications-from-diabetes-which-resulted-in-respiratory-failure-while-hospitalized-at-baptist.json)  [XML](/news/2003/09/12/johnny-cash-died-at-the-age-of-71-due-to-complications-from-diabetes-which-resulted-in-respiratory-failure-while-hospitalized-at-baptist.xml)  
+
 ### [2003-09-12](/news/2003/09/12/index.md)
 
+##### Johnny Cash
 #  Johnny Cash died at the age of 71 due to complications from diabetes, which resulted in respiratory failure, while hospitalized at Baptist Hospital in Nashville, Tennessee. He was interred next to his wife in Hendersonville Memory Gardens near his home in Hendersonville, Tennessee.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/20/admiral-thad-allen-of-the-united-states-coast-guard-the-man-responsible-for-leading-the-cleanup-of-the-deepwater-horizon-oil-spill-declare.html)  [JSON](/news/2010/09/20/admiral-thad-allen-of-the-united-states-coast-guard-the-man-responsible-for-leading-the-cleanup-of-the-deepwater-horizon-oil-spill-declare.json)  [XML](/news/2010/09/20/admiral-thad-allen-of-the-united-states-coast-guard-the-man-responsible-for-leading-the-cleanup-of-the-deepwater-horizon-oil-spill-declare.xml)  
+
 ### [2010-09-20](/news/2010/09/20/index.md)
 
+##### admiral
 # Admiral Thad Allen of the United States Coast Guard, the man responsible for leading the cleanup of the Deepwater Horizon oil spill, declares that BP's Macondo well is sealed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal'' via ''The Australian](http://www.theaustralian.com.au/business/news/gulf-of-mexico-macondo-oil-well-permanently-sealed-says-admiral-allen/story-e6frg90x-1225926546261)
 

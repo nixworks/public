@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/14/in-india-muslim-charity-sunni-waqf-board-claims-ownership-of-the-taj-mahal-they-demand-opposing-evidence-from-the-archaeological-survey-o.html)  [JSON](/news/2005/03/14/in-india-muslim-charity-sunni-waqf-board-claims-ownership-of-the-taj-mahal-they-demand-opposing-evidence-from-the-archaeological-survey-o.json)  [XML](/news/2005/03/14/in-india-muslim-charity-sunni-waqf-board-claims-ownership-of-the-taj-mahal-they-demand-opposing-evidence-from-the-archaeological-survey-o.xml)  
+
 ### [2005-03-14](/news/2005/03/14/index.md)
 
+##### India
 #  In India, Muslim charity Sunni Waqf Board claims ownership of the Taj Mahal. They demand opposing evidence from the Archaeological Survey of India 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4348663.stm)
 2. [Express Newsline](http://www.expressnewsline.com/phpnews2.php?action=fullnews&showcomments=1&id=23)
@@ -18,4 +22,4 @@
 2. [ The New Seven Wonders of the World are announced. These are The Great Wall of China, Petra in Jordan, the Christ the Redeemer statue in Brazil, Machu Picchu in Peru, Mexico's Chichen Itza Mayan site, the Colosseum in Rome and the Taj Mahal in India. ](/news/2007/07/7/the-new-seven-wonders-of-the-world-are-announced-these-are-the-great-wall-of-china-petra-in-jordan-the-christ-the-redeemer-statue-in-bra.md) _Context: India, Taj Mahal_
 3. [ In India, the government has dismissed a claim of Sunni Waqf Board that it should own the Taj Mahal. ](/news/2005/07/17/in-india-the-government-has-dismissed-a-claim-of-sunni-waqf-board-that-it-should-own-the-taj-mahal.md) _Context: Sunni Waqf Board, Taj Mahal_
 4. [ Indian divers have found more evidence of possible underwater ruins of a port city near the Tamil Nadu coast. The ruins were revealed after the 2004 Indian Ocean earthquake. Archaeological Survey of India connects them to the legendary city of Mahabalipuram ](/news/2005/02/27/indian-divers-have-found-more-evidence-of-possible-underwater-ruins-of-a-port-city-near-the-tamil-nadu-coast-the-ruins-were-revealed-after.md) _Context: Archaeological Survey of India, India_
-5. [Prominent Indian journalist and "Lankesh Patrike" editor Gauri Lankesh is shot dead by unidentified men outside her house in the city of Bengaluru. ](/news/2017/09/5/prominent-indian-journalist-and-lankesh-patrike-editor-gauri-lankesh-is-shot-dead-by-unidentified-men-outside-her-house-in-the-city-of-ben.md) _Context: India_
+5. [A bus plunges into the Bhairab River after falling off a bridge in Murshidabad district, West Bengal, India, killing at least 36 people. The late response by rescuers to save passengers leads to violence between local residents and police. ](/news/2018/01/29/a-bus-plunges-into-the-bhairab-river-after-falling-off-a-bridge-in-murshidabad-district-west-bengal-india-killing-at-least-36-people-the.md) _Context: India_

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/10/1/around-150-venezuelan-students-end-a-weeklong-hunger-strike-protesting-against-alleged-human-rights-abuses-in-venezuela-after-organization.html)  [JSON](/news/2009/10/1/around-150-venezuelan-students-end-a-weeklong-hunger-strike-protesting-against-alleged-human-rights-abuses-in-venezuela-after-organization.json)  [XML](/news/2009/10/1/around-150-venezuelan-students-end-a-weeklong-hunger-strike-protesting-against-alleged-human-rights-abuses-in-venezuela-after-organization.xml)  
+
 ### [2009-10-1](/news/2009/10/1/index.md)
 
+##### Venezuela
 #  Around 150 Venezuelan students end a weeklong hunger strike protesting against alleged human rights abuses in Venezuela, after Organization of American States officials agree to meet the students and one of their leaders is released. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [El Universal](http://english.eluniversal.com/2009/10/01/en_pol_esp_students-lift-hunger_01A2821051.shtml)
-2. [Reuters](http://www.reuters.com/article/latestCrisis/idUSN01265579)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/latestCrisis/idUSN01265579)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

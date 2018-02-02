@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/10/president-of-sinn-fa-c-in-gerry-adams-receives-a-death-threat.html)  [JSON](/news/2010/01/10/president-of-sinn-fa-c-in-gerry-adams-receives-a-death-threat.json)  [XML](/news/2010/01/10/president-of-sinn-fa-c-in-gerry-adams-receives-a-death-threat.xml)  
+
 ### [2010-01-10](/news/2010/01/10/index.md)
 
+##### Sinn Fein
 # President of Sinn Fein Gerry Adams receives a death threat. 
 
 A Sinn Féin spokesperson has said party President Gerry Adams has received a death threat from a loyalist paramilitary group called the Orange Volunteers.
 
 
-### Source:
+### Sources:
 
 1. [Ireland Online](http://breakingnews.iol.ie/news/ireland/adams-receives-death-threats-from-loyalists-441397.html)
 2. [RTÉ](http://www.rte.ie/news/2010/0110/adamsg.html)

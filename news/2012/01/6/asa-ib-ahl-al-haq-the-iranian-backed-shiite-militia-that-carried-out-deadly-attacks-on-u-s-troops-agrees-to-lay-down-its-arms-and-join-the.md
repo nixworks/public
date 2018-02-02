@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/6/asa-ib-ahl-al-haq-the-iranian-backed-shiite-militia-that-carried-out-deadly-attacks-on-u-s-troops-agrees-to-lay-down-its-arms-and-join-the.html)  [JSON](/news/2012/01/6/asa-ib-ahl-al-haq-the-iranian-backed-shiite-militia-that-carried-out-deadly-attacks-on-u-s-troops-agrees-to-lay-down-its-arms-and-join-the.json)  [XML](/news/2012/01/6/asa-ib-ahl-al-haq-the-iranian-backed-shiite-militia-that-carried-out-deadly-attacks-on-u-s-troops-agrees-to-lay-down-its-arms-and-join-the.xml)  
+
 ### [2012-01-6](/news/2012/01/6/index.md)
 
+##### Asa'ib Ahl al-Haq
 # Asa'ib Ahl al-Haq, the Iranian-backed Shiite militia that carried out deadly attacks on U.S. troops agrees to lay down its arms and join the political process in Iraq. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/bombs-kill-shiite-pilgrims-baghdad-15303124#.TwcmWDU7WAg)
 

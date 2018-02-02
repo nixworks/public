@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/30/30-suspected-mobsters-arrested-around-naples-in-war-against-the-camorra.html)  [JSON](/news/2008/09/30/30-suspected-mobsters-arrested-around-naples-in-war-against-the-camorra.json)  [XML](/news/2008/09/30/30-suspected-mobsters-arrested-around-naples-in-war-against-the-camorra.xml)  
+
 ### [2008-09-30](/news/2008/09/30/index.md)
 
+##### Naples
 #  30 suspected mobsters arrested around Naples in "war against the Camorra". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7644290.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/29/a-controversial-beauty-pageant-for-survivors-of-the-holocaust-is-held-for-the-first-time-in-the-israeli-city-of-haifa-critics-describe-it-a.html)  [JSON](/news/2012/06/29/a-controversial-beauty-pageant-for-survivors-of-the-holocaust-is-held-for-the-first-time-in-the-israeli-city-of-haifa-critics-describe-it-a.json)  [XML](/news/2012/06/29/a-controversial-beauty-pageant-for-survivors-of-the-holocaust-is-held-for-the-first-time-in-the-israeli-city-of-haifa-critics-describe-it-a.xml)  
+
 ### [2012-06-29](/news/2012/06/29/index.md)
 
+##### Holocaust
 # A controversial beauty pageant for survivors of The Holocaust is held for the first time in the Israeli city of Haifa. Critics describe it as "offensive" and "macabre." 
 
 A beauty pageant for Holocaust survivors has been held in Israel for the first time, stirring controversy.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18638941)
 2. [The Times of Israel](http://www.timesofisrael.com/miss-holocaust-survivor-crowned/)

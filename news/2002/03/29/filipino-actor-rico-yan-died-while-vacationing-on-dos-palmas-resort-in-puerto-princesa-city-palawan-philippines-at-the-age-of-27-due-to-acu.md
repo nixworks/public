@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/03/29/filipino-actor-rico-yan-died-while-vacationing-on-dos-palmas-resort-in-puerto-princesa-city-palawan-philippines-at-the-age-of-27-due-to-acu.html)  [JSON](/news/2002/03/29/filipino-actor-rico-yan-died-while-vacationing-on-dos-palmas-resort-in-puerto-princesa-city-palawan-philippines-at-the-age-of-27-due-to-acu.json)  [XML](/news/2002/03/29/filipino-actor-rico-yan-died-while-vacationing-on-dos-palmas-resort-in-puerto-princesa-city-palawan-philippines-at-the-age-of-27-due-to-acu.xml)  
+
 ### [2002-03-29](/news/2002/03/29/index.md)
 
+##### Filipino
 # Filipino actor Rico Yan died while vacationing on Dos Palmas Resort in Puerto Princesa City,Palawan, Philippines at the age of 27 due to acute hemorrhagic pancreatitis. 
 
 

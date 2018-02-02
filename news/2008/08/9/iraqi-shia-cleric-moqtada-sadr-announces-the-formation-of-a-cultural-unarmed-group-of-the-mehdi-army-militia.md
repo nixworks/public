@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/9/iraqi-shia-cleric-moqtada-sadr-announces-the-formation-of-a-cultural-unarmed-group-of-the-mehdi-army-militia.html)  [JSON](/news/2008/08/9/iraqi-shia-cleric-moqtada-sadr-announces-the-formation-of-a-cultural-unarmed-group-of-the-mehdi-army-militia.json)  [XML](/news/2008/08/9/iraqi-shia-cleric-moqtada-sadr-announces-the-formation-of-a-cultural-unarmed-group-of-the-mehdi-army-militia.xml)  
+
 ### [2008-08-9](/news/2008/08/9/index.md)
 
+##### Iraq
 #  Iraqi Shia cleric Moqtada Sadr announces the formation of a cultural unarmed group of the Mehdi Army militia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7549643.stm)
 

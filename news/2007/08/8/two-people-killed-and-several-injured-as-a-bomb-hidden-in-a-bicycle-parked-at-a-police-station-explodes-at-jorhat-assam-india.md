@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/08/8/two-people-killed-and-several-injured-as-a-bomb-hidden-in-a-bicycle-parked-at-a-police-station-explodes-at-jorhat-assam-india.html)  [JSON](/news/2007/08/8/two-people-killed-and-several-injured-as-a-bomb-hidden-in-a-bicycle-parked-at-a-police-station-explodes-at-jorhat-assam-india.json)  [XML](/news/2007/08/8/two-people-killed-and-several-injured-as-a-bomb-hidden-in-a-bicycle-parked-at-a-police-station-explodes-at-jorhat-assam-india.xml)  
+
 ### [2007-08-8](/news/2007/08/8/index.md)
 
+##### Jorhat
 #  Two people killed and several injured as a bomb hidden in a bicycle parked at a police station explodes at Jorhat, Assam, India
 
 

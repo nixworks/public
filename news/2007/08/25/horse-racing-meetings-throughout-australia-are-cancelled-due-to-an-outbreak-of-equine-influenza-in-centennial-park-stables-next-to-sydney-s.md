@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/25/horse-racing-meetings-throughout-australia-are-cancelled-due-to-an-outbreak-of-equine-influenza-in-centennial-park-stables-next-to-sydney-s.html)  [JSON](/news/2007/08/25/horse-racing-meetings-throughout-australia-are-cancelled-due-to-an-outbreak-of-equine-influenza-in-centennial-park-stables-next-to-sydney-s.json)  [XML](/news/2007/08/25/horse-racing-meetings-throughout-australia-are-cancelled-due-to-an-outbreak-of-equine-influenza-in-centennial-park-stables-next-to-sydney-s.xml)  
+
 ### [2007-08-25](/news/2007/08/25/index.md)
 
+##### racehorse
 #  Horse racing meetings throughout Australia are cancelled due to an outbreak of equine influenza in Centennial Park stables next to Sydney's Randwick Racecourse. Peter McGauran, the Federal Minister for Agriculture, issues a 72-hour ban on horse movement throughout Australia. 
 
 Racing authorities in Victoria, South Australia, Western Australia and Tasmania have followed their New South Wales and Queensland counterparts in suspending all today&#039;s race meetings amid an equine influenza scare.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/08/25/2015018.htm)
 2. [ABC News](http://www.abc.net.au/news/stories/2007/08/25/2015088.htm)

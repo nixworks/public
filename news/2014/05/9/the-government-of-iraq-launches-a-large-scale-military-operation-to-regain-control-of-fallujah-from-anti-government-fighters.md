@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/9/the-government-of-iraq-launches-a-large-scale-military-operation-to-regain-control-of-fallujah-from-anti-government-fighters.html)  [JSON](/news/2014/05/9/the-government-of-iraq-launches-a-large-scale-military-operation-to-regain-control-of-fallujah-from-anti-government-fighters.json)  [XML](/news/2014/05/9/the-government-of-iraq-launches-a-large-scale-military-operation-to-regain-control-of-fallujah-from-anti-government-fighters.xml)  
+
 ### [2014-05-9](/news/2014/05/9/index.md)
 
+##### federal government
 # The government of Iraq launches a large-scale military operation to regain control of Fallujah from anti-government fighters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/05/09/world/meast/iraq-violence/index.html?hpt=wo_c2)
 

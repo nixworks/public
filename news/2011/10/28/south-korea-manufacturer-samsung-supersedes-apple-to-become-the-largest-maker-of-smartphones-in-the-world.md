@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/10/28/south-korea-manufacturer-samsung-supersedes-apple-to-become-the-largest-maker-of-smartphones-in-the-world.html)  [JSON](/news/2011/10/28/south-korea-manufacturer-samsung-supersedes-apple-to-become-the-largest-maker-of-smartphones-in-the-world.json)  [XML](/news/2011/10/28/south-korea-manufacturer-samsung-supersedes-apple-to-become-the-largest-maker-of-smartphones-in-the-world.xml)  
+
 ### [2011-10-28](/news/2011/10/28/index.md)
 
+##### South Korea
 # South Korea manufacturer Samsung supersedes Apple to become the largest maker of smartphones in the world. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/10/28/us-samsung-idUSTRE79R0B620111028)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111028&t=2&i=523816291&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE79R05SE00)
+1. [Reuters](https://www.reuters.com/article/2011/10/28/us-samsung-idUSTRE79R0B620111028)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111028&t=2&i=523816291&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE79R05SE00)
 
 ### Related:
 

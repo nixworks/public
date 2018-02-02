@@ -1,18 +1,23 @@
+
+Formats: [HTML](/news/2015/10/27/in-a-plea-bargain-with-u-s-federal-prosecutors-rohit-bansal-a-former-goldman-sachs-banker-accused-of-using-private-information-leaked-by.html)  [JSON](/news/2015/10/27/in-a-plea-bargain-with-u-s-federal-prosecutors-rohit-bansal-a-former-goldman-sachs-banker-accused-of-using-private-information-leaked-by.json)  [XML](/news/2015/10/27/in-a-plea-bargain-with-u-s-federal-prosecutors-rohit-bansal-a-former-goldman-sachs-banker-accused-of-using-private-information-leaked-by.xml)  
+
 ### [2015-10-27](/news/2015/10/27/index.md)
 
+##### plea bargain
 # In a plea bargain with U.S. federal prosecutors, Rohit Bansal, a former Goldman Sachs banker accused of using private information leaked by source inside the Federal Reserve Bank of New York, has agreed to plead guilty. The leaked information was said to have given Goldman an undue advantage regarding client advisement. Goldman also faces fines from the New York State's Department of Financial Services. 
 
+A former Goldman Sachs banker admitted his guilt in taking confidential documents from an employee at the Federal Reserve Bank of New York, who also agreed to plead guilty.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2015/10/27/business/dealbook/criminal-charges-and-50-million-fine-expected-in-goldman-new-york-fed-case.html?ref=business)
+1. [New York Times](https://www.nytimes.com/2015/10/27/business/dealbook/criminal-charges-and-50-million-fine-expected-in-goldman-new-york-fed-case.html?ref=business)
+1. [Cover Image](https://static01.nyt.com/images/2015/10/27/business/db-goldman-web3/db-goldman-web3-facebookJumbo.jpg)
 
 ### Related:
 
-1. [Goldman Sachs agrees to pay $5.06 billion to settle allegations that it sold packages of shoddy mortgages prior to the global financial crisis.. The U.S. Justice Department settlement includes a $2.385 billion civil penalty, and $1.8 billion for distressed borrowers and communities affected by the housing crisis. ](/news/2016/04/11/goldman-sachs-agrees-to-pay-5-06-billion-to-settle-allegations-that-it-sold-packages-of-shoddy-mortgages-prior-to-the-global-financial-cris.md) _Context: Department of Justice, Goldman Sachs_
-2. [The Trump administration, through the Department of Justice, reverses an Obama-era policy which used Title VII of the Civil Rights Act to protect transgender employees from discrimination. ](/news/2017/10/5/the-trump-administration-through-the-department-of-justice-reverses-an-obama-era-policy-which-used-title-vii-of-the-civil-rights-act-to-pr.md) _Context: Department of Justice_
-3. [The U.S. Justice Department announces Roman Seleznev, the son of Russian parliament member Valery Seleznev, pleaded guilty in a $50 million identity theft probe. This past April, Roman Seleznev was sentenced to 27 years in prison on 38 counts of hacking crimes. ](/news/2017/09/8/the-u-s-justice-department-announces-roman-seleznev-the-son-of-russian-parliament-member-valery-seleznev-pleaded-guilty-in-a-50-million.md) _Context: Department of Justice_
-4. [The United States Department of Justice has requested Moscow-based Russian media channel RT America to register as a foreign lobbying firm in the United States. ](/news/2017/09/12/the-united-states-department-of-justice-has-requested-moscow-based-russian-media-channel-rt-america-to-register-as-a-foreign-lobbying-firm-i.md) _Context: Department of Justice_
-5. [The U.S. Justice Department announces internally that it is to start investigating colleges which have admissions policies that are seen as unfair to Asian Americans. ](/news/2017/08/2/the-u-s-justice-department-announces-internally-that-it-is-to-start-investigating-colleges-which-have-admissions-policies-that-are-seen-as.md) _Context: Department of Justice_
+1. [Goldman Sachs agrees to pay $5.06 billion to settle allegations that it sold packages of shoddy mortgages prior to the global financial crisis.. The U.S. Justice Department settlement includes a $2.385 billion civil penalty, and $1.8 billion for distressed borrowers and communities affected by the housing crisis. ](/news/2016/04/11/goldman-sachs-agrees-to-pay-5-06-billion-to-settle-allegations-that-it-sold-packages-of-shoddy-mortgages-prior-to-the-global-financial-cris.md) _Context: Goldman Sachs, U.S. Justice Department_
+2. [The United States Department of Justice antitrust chief has told AT&T that it must sell off either DirecTV or Turner Broadcasting System (the parent of CNN) in order to complete its acquisition of Time Warner. ([http:--money.cnn.com-2017-11-08-media-att-time-warner-index.html CNN])](/news/2017/11/8/the-united-states-department-of-justice-antitrust-chief-has-told-at-t-that-it-must-sell-off-either-directv-or-turner-broadcasting-system-th.md) _Context: U.S. Justice Department_
+3. [The United States and Russia begin fighting over the extradition of Yevgeniy Nikulin, who was detained in October 2016 in the Czech Republic, after the U.S. Justice Department issued an international arrest warrant for him. However, soon after the U.S. issued its arrest warrant, Russian authorities also sought his extradition. The Russian charge accuses Nikulin of stealing from an online money transfer company back in 2009. ](/news/2017/11/25/the-united-states-and-russia-begin-fighting-over-the-extradition-of-yevgeniy-nikulin-who-was-detained-in-october-2016-in-the-czech-republic.md) _Context: U.S. Justice Department_
+4. [RT America registers with the U.S. Department of Justice as a foreign agent in the United States. ](/news/2017/11/13/rt-america-registers-with-the-u-s-department-of-justice-as-a-foreign-agent-in-the-united-states.md) _Context: U.S. Justice Department_
+5. [The Trump administration, through the Department of Justice, reverses an Obama-era policy which used Title VII of the Civil Rights Act to protect transgender employees from discrimination. ](/news/2017/10/5/the-trump-administration-through-the-department-of-justice-reverses-an-obama-era-policy-which-used-title-vii-of-the-civil-rights-act-to-pr.md) _Context: U.S. Justice Department_

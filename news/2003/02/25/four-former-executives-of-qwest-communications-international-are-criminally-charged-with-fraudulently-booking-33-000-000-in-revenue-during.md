@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/25/four-former-executives-of-qwest-communications-international-are-criminally-charged-with-fraudulently-booking-33-000-000-in-revenue-during.html)  [JSON](/news/2003/02/25/four-former-executives-of-qwest-communications-international-are-criminally-charged-with-fraudulently-booking-33-000-000-in-revenue-during.json)  [XML](/news/2003/02/25/four-former-executives-of-qwest-communications-international-are-criminally-charged-with-fraudulently-booking-33-000-000-in-revenue-during.xml)  
+
 ### [2003-02-25](/news/2003/02/25/index.md)
 
+##### Qwest Communications International
 #  Four former executives of Qwest Communications International are criminally charged with fraudulently booking $33,000,000 in revenue during 2001. The U.S. Securities and Exchange Commission (SEC) also files a civil suit against seven former (including the four criminally charged) and one current Qwest executives, alleging fraudulent accounting practices in violation of SEC rules.
 
 

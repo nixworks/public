@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/29/three-british-airways-planes-are-grounded-in-london-and-moscow-due-to-positive-traces-of-radiation-as-the-investigation-into-the-death-of-a.html)  [JSON](/news/2006/11/29/three-british-airways-planes-are-grounded-in-london-and-moscow-due-to-positive-traces-of-radiation-as-the-investigation-into-the-death-of-a.json)  [XML](/news/2006/11/29/three-british-airways-planes-are-grounded-in-london-and-moscow-due-to-positive-traces-of-radiation-as-the-investigation-into-the-death-of-a.xml)  
+
 ### [2006-11-29](/news/2006/11/29/index.md)
 
+##### British Airways
 #  Three British Airways planes are grounded in London and Moscow due to positive traces of radiation as the investigation into the death of Alexander Litvinenko widens. British Airways will attempt to contact the thousands of passengers who have travelled on the planes recently. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/WORLD/europe/11/29/uk.spy.ba.ap/index.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/12/the-philippines-sends-another-ship-to-join-the-current-ship-it-has-involved-in-a-confrontation-with-two-chinese-surveillance-ships-on-the-so.html)  [JSON](/news/2012/04/12/the-philippines-sends-another-ship-to-join-the-current-ship-it-has-involved-in-a-confrontation-with-two-chinese-surveillance-ships-on-the-so.json)  [XML](/news/2012/04/12/the-philippines-sends-another-ship-to-join-the-current-ship-it-has-involved-in-a-confrontation-with-two-chinese-surveillance-ships-on-the-so.xml)  
+
 ### [2012-04-12](/news/2012/04/12/index.md)
 
+##### Philippines
 # The Philippines sends another ship to join the current ship it has involved in a confrontation with two Chinese surveillance ships on the South China Sea, although both sides claim to be committed to a peaceful solution. 
 
 The Philippines says it has withdrawn its largest warship from a stand-off with Chinese vessels in the South China Sea, as both sides pledge diplomacy.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17686107)
 2. [Wall Street Journal](http://online.wsj.com/article/SB10001424052702303624004577337651683294064.html)

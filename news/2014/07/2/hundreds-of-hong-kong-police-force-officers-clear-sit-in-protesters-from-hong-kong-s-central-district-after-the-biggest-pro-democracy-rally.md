@@ -1,14 +1,19 @@
+
+Formats: [HTML](/news/2014/07/2/hundreds-of-hong-kong-police-force-officers-clear-sit-in-protesters-from-hong-kong-s-central-district-after-the-biggest-pro-democracy-rally.html)  [JSON](/news/2014/07/2/hundreds-of-hong-kong-police-force-officers-clear-sit-in-protesters-from-hong-kong-s-central-district-after-the-biggest-pro-democracy-rally.json)  [XML](/news/2014/07/2/hundreds-of-hong-kong-police-force-officers-clear-sit-in-protesters-from-hong-kong-s-central-district-after-the-biggest-pro-democracy-rally.xml)  
+
 ### [2014-07-2](/news/2014/07/2/index.md)
 
+##### Hong Kong Police Force
 # Hundreds of Hong Kong Police Force officers clear sit-in protesters from Hong Kong's Central District after the biggest pro-democracy rally in a decade yesterday. Over 500 people are arrested for illegal assembly and disrupting traffic in Chater Road. 
 
+July 2 (Bloomberg) -- Hundreds of police cleared protesters
 
 
-
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/big-hk-democracy-rally-fueled-fury-beijing)
-2. [Bloomberg](http://www.bloomberg.com/news/2014-07-01/thousands-to-protest-on-anniversary-of-hong-kong-return-to-china.html)
+2. [Bloomberg](https://www.bloomberg.com/news/2014-07-01/thousands-to-protest-on-anniversary-of-hong-kong-return-to-china.html)
+2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

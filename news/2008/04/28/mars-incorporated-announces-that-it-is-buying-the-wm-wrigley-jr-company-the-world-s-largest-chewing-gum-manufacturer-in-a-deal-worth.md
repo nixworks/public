@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/04/28/mars-incorporated-announces-that-it-is-buying-the-wm-wrigley-jr-company-the-world-s-largest-chewing-gum-manufacturer-in-a-deal-worth.html)  [JSON](/news/2008/04/28/mars-incorporated-announces-that-it-is-buying-the-wm-wrigley-jr-company-the-world-s-largest-chewing-gum-manufacturer-in-a-deal-worth.json)  [XML](/news/2008/04/28/mars-incorporated-announces-that-it-is-buying-the-wm-wrigley-jr-company-the-world-s-largest-chewing-gum-manufacturer-in-a-deal-worth.xml)  
+
 ### [2008-04-28](/news/2008/04/28/index.md)
 
+##### Mars Canada Inc.
 #  Mars, Incorporated announces that it is buying the Wm. Wrigley Jr. Company, the world's largest chewing gum manufacturer, in a deal worth $23 billion. The deal is being partly financed by Warren Buffett's Berkshire Hathaway company. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aKdZ2tfLbPDs&refer=home)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=aKdZ2tfLbPDs&refer=home)
 
 ### Related:
 

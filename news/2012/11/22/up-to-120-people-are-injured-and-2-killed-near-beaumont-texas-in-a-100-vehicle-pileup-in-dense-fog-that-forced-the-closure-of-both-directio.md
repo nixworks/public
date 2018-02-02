@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/11/22/up-to-120-people-are-injured-and-2-killed-near-beaumont-texas-in-a-100-vehicle-pileup-in-dense-fog-that-forced-the-closure-of-both-directio.html)  [JSON](/news/2012/11/22/up-to-120-people-are-injured-and-2-killed-near-beaumont-texas-in-a-100-vehicle-pileup-in-dense-fog-that-forced-the-closure-of-both-directio.json)  [XML](/news/2012/11/22/up-to-120-people-are-injured-and-2-killed-near-beaumont-texas-in-a-100-vehicle-pileup-in-dense-fog-that-forced-the-closure-of-both-directio.xml)  
+
 ### [2012-11-22](/news/2012/11/22/index.md)
 
+##### Beaumont, Texas
 # Up to 120 people are injured and 2 killed near Beaumont, Texas in a 100-vehicle pileup in dense fog that forced the closure of both directions of Interstate 10 in Southeast Texas. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/11/22/us-usa-texas-crash-idUSBRE8AL0RB20121122)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121122&t=2&i=677218373&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8AL1JN800)
+1. [Reuters](https://www.reuters.com/article/2012/11/22/us-usa-texas-crash-idUSBRE8AL0RB20121122)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20121122&t=2&i=677218373&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8AL1JN800)
 
 ### Related:
 

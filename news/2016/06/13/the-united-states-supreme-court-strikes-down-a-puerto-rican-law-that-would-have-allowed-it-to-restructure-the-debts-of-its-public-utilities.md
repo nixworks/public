@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/13/the-united-states-supreme-court-strikes-down-a-
 
 ### [2016-06-13](/news/2016/06/13/index.md)
 
+##### United States Supreme Court
 #  The United States Supreme Court strikes down a Puerto Rican law that would have allowed it to restructure the debts of its public utilities over the objections of creditors. Puerto Rico's agencies have a $2 billion debt payment due July 1 and has already defaulted on a $370 million debt payment for its Government Development Bank back on May 1. 
 
 The U.S. Supreme Court rejected Puerto Rico’s bid to let its public utilities restructure bonds over the objection of creditors, leaving the island’s $70 billion debt crisis squarely in the hands of Congress.

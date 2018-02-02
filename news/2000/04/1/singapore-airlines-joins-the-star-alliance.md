@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/04/1/singapore-airlines-joins-the-star-alliance.html)  [JSON](/news/2000/04/1/singapore-airlines-joins-the-star-alliance.json)  [XML](/news/2000/04/1/singapore-airlines-joins-the-star-alliance.xml)  
+
 ### [2000-04-1](/news/2000/04/1/index.md)
 
+##### Singapore Airlines
 # Singapore Airlines joins the Star Alliance.
 
 

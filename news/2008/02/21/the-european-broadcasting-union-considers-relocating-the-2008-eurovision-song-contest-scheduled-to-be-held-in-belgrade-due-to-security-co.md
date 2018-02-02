@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/21/the-european-broadcasting-union-considers-relocating-the-2008-eurovision-song-contest-scheduled-to-be-held-in-belgrade-due-to-security-co.html)  [JSON](/news/2008/02/21/the-european-broadcasting-union-considers-relocating-the-2008-eurovision-song-contest-scheduled-to-be-held-in-belgrade-due-to-security-co.json)  [XML](/news/2008/02/21/the-european-broadcasting-union-considers-relocating-the-2008-eurovision-song-contest-scheduled-to-be-held-in-belgrade-due-to-security-co.xml)  
+
 ### [2008-02-21](/news/2008/02/21/index.md)
 
+##### European Broadcasting Union
 #  The European Broadcasting Union considers relocating the 2008 Eurovision Song Contest, scheduled to be held in Belgrade, due to security concerns. In the meantime, the Serbian National Final for the Eurovision Song Contest is postponed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Expressen](http://www.expressen.se/nyheter/1.1057464/finalen-i-belgrad-hotad)
 1. [Cover Image](http://www.expressen.se/static/images/wasp-for-facebook.png)

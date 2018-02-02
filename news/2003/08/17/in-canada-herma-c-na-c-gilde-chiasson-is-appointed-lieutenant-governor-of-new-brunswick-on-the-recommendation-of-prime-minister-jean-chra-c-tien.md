@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/17/in-canada-herma-c-na-c-gilde-chiasson-is-appointed-lieutenant-governor-of-new-brunswick-on-the-recommendation-of-prime-minister-jean-chra-c-tien.html)  [JSON](/news/2003/08/17/in-canada-herma-c-na-c-gilde-chiasson-is-appointed-lieutenant-governor-of-new-brunswick-on-the-recommendation-of-prime-minister-jean-chra-c-tien.json)  [XML](/news/2003/08/17/in-canada-herma-c-na-c-gilde-chiasson-is-appointed-lieutenant-governor-of-new-brunswick-on-the-recommendation-of-prime-minister-jean-chra-c-tien.xml)  
+
 ### [2003-08-17](/news/2003/08/17/index.md)
 
+##### Hermenegilde Chiasson
 #  In Canada, Hermenegilde Chiasson is appointed lieutenant governor of New Brunswick on the recommendation of Prime Minister Jean Chretien.
 
 

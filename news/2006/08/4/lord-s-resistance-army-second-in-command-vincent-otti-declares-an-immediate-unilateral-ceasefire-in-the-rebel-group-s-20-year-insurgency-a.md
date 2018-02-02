@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/4/lord-s-resistance-army-second-in-command-vincent-otti-declares-an-immediate-unilateral-ceasefire-in-the-rebel-group-s-20-year-insurgency-a.html)  [JSON](/news/2006/08/4/lord-s-resistance-army-second-in-command-vincent-otti-declares-an-immediate-unilateral-ceasefire-in-the-rebel-group-s-20-year-insurgency-a.json)  [XML](/news/2006/08/4/lord-s-resistance-army-second-in-command-vincent-otti-declares-an-immediate-unilateral-ceasefire-in-the-rebel-group-s-20-year-insurgency-a.xml)  
+
 ### [2006-08-4](/news/2006/08/4/index.md)
 
+##### Lord's Resistance Army
 #  Lord's Resistance Army second-in-command Vincent Otti declares an immediate, unilateral ceasefire in the rebel group's 20-year insurgency against the government of Uganda.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/5243038.stm)
 

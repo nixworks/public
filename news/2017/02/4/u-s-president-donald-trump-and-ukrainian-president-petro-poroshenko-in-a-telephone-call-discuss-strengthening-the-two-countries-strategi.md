@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/4/u-s-president-donald-trump-and-ukrainian-preside
 
 ### [2017-02-4](/news/2017/02/4/index.md)
 
+##### Ukraine-United States relations
 # U.S. President Donald Trump and Ukrainian President Petro Poroshenko, in a telephone call, discuss strengthening the two countries' strategic partnership with particular attention to the conflict in the Donbass, a Ukrainian region that borders Russia. 
 
 

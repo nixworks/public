@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/15/media-magnate-conrad-black-has-been-sued-for-fraud-by-the-u-s-securities-and-exchange-commission.html)  [JSON](/news/2004/11/15/media-magnate-conrad-black-has-been-sued-for-fraud-by-the-u-s-securities-and-exchange-commission.json)  [XML](/news/2004/11/15/media-magnate-conrad-black-has-been-sued-for-fraud-by-the-u-s-securities-and-exchange-commission.xml)  
+
 ### [2004-11-15](/news/2004/11/15/index.md)
 
+##### Conrad Black
 #  Media magnate Conrad Black has been sued for fraud by the U.S. Securities and Exchange Commission. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/4014083.stm)
 2. [Bloomberg](http://quote.bloomberg.com/apps/news?pid=10000006&sid=ajGXWQzlt_Zs)

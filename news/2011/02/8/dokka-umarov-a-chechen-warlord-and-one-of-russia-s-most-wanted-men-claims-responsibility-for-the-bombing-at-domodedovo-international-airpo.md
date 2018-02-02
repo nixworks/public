@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/8/dokka-umarov-a-chechen-warlord-and-one-of-russia-s-most-wanted-men-claims-responsibility-for-the-bombing-at-domodedovo-international-airpo.html)  [JSON](/news/2011/02/8/dokka-umarov-a-chechen-warlord-and-one-of-russia-s-most-wanted-men-claims-responsibility-for-the-bombing-at-domodedovo-international-airpo.json)  [XML](/news/2011/02/8/dokka-umarov-a-chechen-warlord-and-one-of-russia-s-most-wanted-men-claims-responsibility-for-the-bombing-at-domodedovo-international-airpo.xml)  
+
 ### [2011-02-8](/news/2011/02/8/index.md)
 
+##### Dokka Umarov
 # Dokka Umarov, a Chechen warlord and one of Russia's most wanted men, claims responsibility for the bombing at Domodedovo International Airport last month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/02/20112821940675696.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-12388681)

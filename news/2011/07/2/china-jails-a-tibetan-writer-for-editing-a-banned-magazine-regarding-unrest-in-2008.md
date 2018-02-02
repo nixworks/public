@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2011/07/2/china-jails-a-tibetan-writer-for-editing-a-banned-magazine-regarding-unrest-in-2008.html)  [JSON](/news/2011/07/2/china-jails-a-tibetan-writer-for-editing-a-banned-magazine-regarding-unrest-in-2008.json)  [XML](/news/2011/07/2/china-jails-a-tibetan-writer-for-editing-a-banned-magazine-regarding-unrest-in-2008.xml)  
+
 ### [2011-07-2](/news/2011/07/2/index.md)
 
+##### China
 # China jails a Tibetan writer for editing a banned magazine regarding unrest in 2008. 
 
 A Tibetan writer was sentenced to four years in jail last month after helping edit a magazine critical of Chinese policy in the restive region, a Tibetan self-determination advocacy group said.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jzZQCl0IStRvLQas7a_zg26B_GfA?docId=CNG.34a11628a7892b6c861a8ffb743aafa7.631)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14001956)
-3. [Reuters](http://www.reuters.com/article/2011/07/02/us-china-tibet-writer-idUSTRE7610GJ20110702)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/article/2011/07/02/us-china-tibet-writer-idUSTRE7610GJ20110702)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

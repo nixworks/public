@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/30/the-african-union-meets-at-sharm-el-sheikh-in-egypt-with-robert-mugabe-recently-reelected-as-president-of-zimbabwe-representing-zimbabwe.html)  [JSON](/news/2008/06/30/the-african-union-meets-at-sharm-el-sheikh-in-egypt-with-robert-mugabe-recently-reelected-as-president-of-zimbabwe-representing-zimbabwe.json)  [XML](/news/2008/06/30/the-african-union-meets-at-sharm-el-sheikh-in-egypt-with-robert-mugabe-recently-reelected-as-president-of-zimbabwe-representing-zimbabwe.xml)  
+
 ### [2008-06-30](/news/2008/06/30/index.md)
 
+##### African Union
 #  The African Union meets at Sharm el-Sheikh in Egypt with Robert Mugabe recently reelected as President of Zimbabwe representing Zimbabwe. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Herald'' via AllAfrica](http://allafrica.com/stories/200806300062.html)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/11/29/iranian-born-dutch-national-seyed-mahmoud-namini-is-being-detained-by-the-canadian-government-as-a-potential-security-threat-he-was-arrest.html)  [JSON](/news/2004/11/29/iranian-born-dutch-national-seyed-mahmoud-namini-is-being-detained-by-the-canadian-government-as-a-potential-security-threat-he-was-arrest.json)  [XML](/news/2004/11/29/iranian-born-dutch-national-seyed-mahmoud-namini-is-being-detained-by-the-canadian-government-as-a-potential-security-threat-he-was-arrest.xml)  
+
 ### [2004-11-29](/news/2004/11/29/index.md)
 
+##### Iran
 #  Iranian-born Dutch national Seyed Mahmoud Namini is being detained by the Canadian government as a potential security threat. He was arrested a month ago when 30 books related to Kurdish revolts in Iran were found in his bag. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&call_pageid=971358637177&c=Article&cid=1101595809064)
+1. [Toronto Star](https://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&call_pageid=971358637177&c=Article&cid=1101595809064)
 
 ### Related:
 

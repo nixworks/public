@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/16/the-international-astronomical-union-proposes-a-new-definition-for-a-planet-to-be-voted-on-august-24-which-would-include-charon-eris-and.html)  [JSON](/news/2006/08/16/the-international-astronomical-union-proposes-a-new-definition-for-a-planet-to-be-voted-on-august-24-which-would-include-charon-eris-and.json)  [XML](/news/2006/08/16/the-international-astronomical-union-proposes-a-new-definition-for-a-planet-to-be-voted-on-august-24-which-would-include-charon-eris-and.xml)  
+
 ### [2006-08-16](/news/2006/08/16/index.md)
 
+##### International Astronomical Union
 #  The International Astronomical Union proposes a new definition for a planet to be voted on August 24 which would include Charon, Eris, and Ceres as planets. 
 
 Get the latest science news and technology news, read tech reviews and more at ABC News.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/Technology/wireStory?id=2318597)
 2. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/4795755.stm)

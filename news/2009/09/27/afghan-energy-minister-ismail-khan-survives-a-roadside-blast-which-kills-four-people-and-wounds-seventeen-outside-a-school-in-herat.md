@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/27/afghan-energy-minister-ismail-khan-survives-a-roadside-blast-which-kills-four-people-and-wounds-seventeen-outside-a-school-in-herat.html)  [JSON](/news/2009/09/27/afghan-energy-minister-ismail-khan-survives-a-roadside-blast-which-kills-four-people-and-wounds-seventeen-outside-a-school-in-herat.json)  [XML](/news/2009/09/27/afghan-energy-minister-ismail-khan-survives-a-roadside-blast-which-kills-four-people-and-wounds-seventeen-outside-a-school-in-herat.xml)  
+
 ### [2009-09-27](/news/2009/09/27/index.md)
 
+##### Afghanistan
 #  Afghan Energy Minister Ismail Khan survives a roadside blast which kills four people and wounds seventeen outside a school in Herat. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8277048.stm)
 2. [Times of India](http://timesofindia.indiatimes.com/news/world/south-asia/Afghan-energy-minister-survives-roadside-attack-four-civilians-killed/articleshow/5061909.cms)

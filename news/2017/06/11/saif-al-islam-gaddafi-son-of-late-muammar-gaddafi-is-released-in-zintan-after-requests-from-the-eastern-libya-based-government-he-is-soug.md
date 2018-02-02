@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/11/saif-al-islam-gaddafi-son-of-late-muammar-gadda
 
 ### [2017-06-11](/news/2017/06/11/index.md)
 
+##### Gaddafi family
 # Saif al-Islam Gaddafi, son of late Muammar Gaddafi, is released in Zintan after requests from the eastern Libya-based government. He is sought by the International Criminal Court and was condemned to the death penalty by the Tripoli-based government. His whereabouts are now unknown. 
 
 Saif al-Islam Gaddafi has been freed by an armed group in western Libya where he was being held following the 2011 revolt against his late father, former leader Muammar Gaddafi, one of his lawyers and the brigade involved said.

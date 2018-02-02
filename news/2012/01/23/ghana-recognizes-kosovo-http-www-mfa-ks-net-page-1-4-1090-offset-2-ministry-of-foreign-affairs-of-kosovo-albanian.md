@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2012/01/23/ghana-recognizes-kosovo-http-www-mfa-ks-net-page-1-4-1090-offset-2-ministry-of-foreign-affairs-of-kosovo-albanian.html)  [JSON](/news/2012/01/23/ghana-recognizes-kosovo-http-www-mfa-ks-net-page-1-4-1090-offset-2-ministry-of-foreign-affairs-of-kosovo-albanian.json)  [XML](/news/2012/01/23/ghana-recognizes-kosovo-http-www-mfa-ks-net-page-1-4-1090-offset-2-ministry-of-foreign-affairs-of-kosovo-albanian.xml)  
+
 ### [2012-01-23](/news/2012/01/23/index.md)
 
+##### Ghana
 # Ghana recognizes Kosovo [http:--www.mfa-ks.net-?page=1,4,1090&offset=2 (Ministry of Foreign Affairs of Kosovo)] (Albanian)
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/8/protesters-in-potosa-bolivia-strengthen-an-anti-government-protest-by-starting-a-hunger-strike-and-cutting-rail-links-to-chile.html)  [JSON](/news/2010/08/8/protesters-in-potosa-bolivia-strengthen-an-anti-government-protest-by-starting-a-hunger-strike-and-cutting-rail-links-to-chile.json)  [XML](/news/2010/08/8/protesters-in-potosa-bolivia-strengthen-an-anti-government-protest-by-starting-a-hunger-strike-and-cutting-rail-links-to-chile.xml)  
+
 ### [2010-08-8](/news/2010/08/8/index.md)
 
+##### Potosi
 # Protesters in Potosi, Bolivia, strengthen an anti-government protest by starting a hunger strike and cutting rail links to Chile. 
 
 Protesters who have been holding a Bolivian city hostage for 10 days have now cut off the rail line to Chile and started a hunger strike.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/08/09/2977080.htm)
 2. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5jHAaBtISHk-SqED6EyWQByyVWi5Q)

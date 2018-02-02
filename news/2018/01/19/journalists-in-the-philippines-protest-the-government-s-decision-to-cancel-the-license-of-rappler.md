@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/19/journalists-in-the-philippines-protest-the-gove
 
 ### [2018-01-19](/news/2018/01/19/index.md)
 
+##### Protests against Rodrigo Duterte
 # Journalists in the Philippines protest the government's decision to cancel the license of Rappler. 
 
 A protest for press freedom set to be staged in Quezon City on Friday evening is a testament that freedom and democracy are alive in the country, Malacañang said. 

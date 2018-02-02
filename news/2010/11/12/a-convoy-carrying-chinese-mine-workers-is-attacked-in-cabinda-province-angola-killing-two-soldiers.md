@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/12/a-convoy-carrying-chinese-mine-workers-is-attacked-in-cabinda-province-angola-killing-two-soldiers.html)  [JSON](/news/2010/11/12/a-convoy-carrying-chinese-mine-workers-is-attacked-in-cabinda-province-angola-killing-two-soldiers.json)  [XML](/news/2010/11/12/a-convoy-carrying-chinese-mine-workers-is-attacked-in-cabinda-province-angola-killing-two-soldiers.xml)  
+
 ### [2010-11-12](/news/2010/11/12/index.md)
 
+##### China
 # A convoy carrying Chinese mine workers is attacked in Cabinda Province, Angola, killing two soldiers. 
 
 An Angolan minister tells the BBC that a convoy carrying Chinese mine workers was attacked in the region of Cabinda this week.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11741356)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

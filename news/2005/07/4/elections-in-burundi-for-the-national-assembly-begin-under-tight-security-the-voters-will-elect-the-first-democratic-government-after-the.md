@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/4/elections-in-burundi-for-the-national-assembly-begin-under-tight-security-the-voters-will-elect-the-first-democratic-government-after-the.html)  [JSON](/news/2005/07/4/elections-in-burundi-for-the-national-assembly-begin-under-tight-security-the-voters-will-elect-the-first-democratic-government-after-the.json)  [XML](/news/2005/07/4/elections-in-burundi-for-the-national-assembly-begin-under-tight-security-the-voters-will-elect-the-first-democratic-government-after-the.xml)  
+
 ### [2005-07-4](/news/2005/07/4/index.md)
 
+##### Elections in Burundi
 #  Elections in Burundi for the National Assembly begin under tight security. The voters will elect the first democratic government after the civil war. The vote is expected to favor the Hutu group Forces for the Defence of Democracy. The Hutu Forces for National Liberation are the only group that have not laid down their arms. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4647409.stm)
 2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1731511,00.html)

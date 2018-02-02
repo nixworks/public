@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/9/the-united-nations-security-council-issues-a-presidential-statement-condemning-the-sinking-of-the-south-korean-warship-roks-cheonan.html)  [JSON](/news/2010/07/9/the-united-nations-security-council-issues-a-presidential-statement-condemning-the-sinking-of-the-south-korean-warship-roks-cheonan.json)  [XML](/news/2010/07/9/the-united-nations-security-council-issues-a-presidential-statement-condemning-the-sinking-of-the-south-korean-warship-roks-cheonan.xml)  
+
 ### [2010-07-9](/news/2010/07/9/index.md)
 
+##### United Nations Security Council
 # The United Nations Security Council issues a Presidential Statement condemning the sinking of the South Korean warship ROKS "Cheonan". 
 
 The UN Security Council has condemned a deadly attack on a South Korean warship that killed 46 sailors in March.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/politics/story/2010/07/09/un-korea009.html)
 2. [United Nations](http://www.un.org/News/Press/docs/2010/sc9975.doc.htm)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/16/the-obama-administration-agrees-to-have-the-uni
 
 ### [2016-09-16](/news/2016/09/16/index.md)
 
+##### South China Sea disputes
 # The Obama administration agrees to have the United States Armed Forces assist Japan on conducting joint patrols in the South China Sea. 
 
 

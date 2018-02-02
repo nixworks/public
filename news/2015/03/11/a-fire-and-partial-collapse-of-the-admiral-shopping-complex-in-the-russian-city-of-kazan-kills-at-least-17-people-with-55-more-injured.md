@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/11/a-fire-and-partial-collapse-of-the-admiral-shopping-complex-in-the-russian-city-of-kazan-kills-at-least-17-people-with-55-more-injured.html)  [JSON](/news/2015/03/11/a-fire-and-partial-collapse-of-the-admiral-shopping-complex-in-the-russian-city-of-kazan-kills-at-least-17-people-with-55-more-injured.json)  [XML](/news/2015/03/11/a-fire-and-partial-collapse-of-the-admiral-shopping-complex-in-the-russian-city-of-kazan-kills-at-least-17-people-with-55-more-injured.xml)  
+
 ### [2015-03-11](/news/2015/03/11/index.md)
 
+##### fire and partial collapse
 # A fire and partial collapse of the Admiral shopping complex in the Russian city of Kazan kills at least 17 people with 55 more injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe](http://www.rferl.org/content/russia-tatarstan-kazan-fire/26900701.html)
 
@@ -13,6 +17,6 @@
 
 1. [Fifty people are killed after a passenger Boeing 737 crash lands in the city of Kazan in central Russia. ](/news/2013/11/17/fifty-people-are-killed-after-a-passenger-boeing-737-crash-lands-in-the-city-of-kazan-in-central-russia.md) _Context: Kazan, Russia_
 2. [Russian investigators find the bodies of two murdered women in an apartment in Kazan and the shout ""Free! Pussy Riot"" written on the wall. The perpetrator is as of yet unknown. Observers warn against radicalism and false flags. ](/news/2012/08/30/russian-investigators-find-the-bodies-of-two-murdered-women-in-an-apartment-in-kazan-and-the-shout-free-pussy-riot-written-on-the-wall.md) _Context: Kazan, Russia_
-3. [A fire at the Sindika Trade Center, a construction materials shopping center in the northwestern edge of Moscow, Russia, forces the evacuation of at least 3000 people. ](/news/2017/10/9/a-fire-at-the-sindika-trade-center-a-construction-materials-shopping-center-in-the-northwestern-edge-of-moscow-russia-forces-the-evacuati.md) _Context: Russia_
-4. [According to the Syrian Observatory for Human Rights, Russian airstrikes kill at least 14 civilians, including three children, as they cross the Euphrates river near the ISIL-held city of Mayadin in eastern Syria while fleeing the village of Mahkan. ](/news/2017/10/6/according-to-the-syrian-observatory-for-human-rights-russian-airstrikes-kill-at-least-14-civilians-including-three-children-as-they-cross.md) _Context: Russia_
-5. [A train hits a bus on a crossing in Vladimir, Russia, killing at least 19 people on the bus. No train passengers were injured. ](/news/2017/10/6/a-train-hits-a-bus-on-a-crossing-in-vladimir-russia-killing-at-least-19-people-on-the-bus-no-train-passengers-were-injured.md) _Context: Russia_
+3. [Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was.md) _Context: Russia_
+4. [Russian opposition politician Alexei Navalny is arrested by police at a protest rally in Moscow. His arrest comes shortly after police raid the headquarters of his unregistered Progress Party in an apparent attempt to disrupt online broadcasts of opposition rallies against Vladimir Putin, while police say they were looking for a bomb. Navalny is released from police custody without charge late Sunday but needs to appear in court later. ](/news/2018/01/28/russian-opposition-politician-alexei-navalny-is-arrested-by-police-at-a-protest-rally-in-moscow-his-arrest-comes-shortly-after-police-raid.md) _Context: Russia_
+5. [Incumbent Milos Zeman, who opposes immigration and objects to EU sanctions against Russia, is elected to a second term as President of the Czech Republic, after receiving 51.8 percent of the votes in the run-off election over pro-EU challenger Jiri Drahos. ](/news/2018/01/27/incumbent-miloa-zeman-who-opposes-immigration-and-objects-to-eu-sanctions-against-russia-is-elected-to-a-second-term-as-president-of-the.md) _Context: Russia_

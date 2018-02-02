@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/22/rescue-teams-scour-eastern-bhutan-after-at-least-11-people-are-killed-by-an-earthquake-which-struck-the-region.html)  [JSON](/news/2009/09/22/rescue-teams-scour-eastern-bhutan-after-at-least-11-people-are-killed-by-an-earthquake-which-struck-the-region.json)  [XML](/news/2009/09/22/rescue-teams-scour-eastern-bhutan-after-at-least-11-people-are-killed-by-an-earthquake-which-struck-the-region.xml)  
+
 ### [2009-09-22](/news/2009/09/22/index.md)
 
+##### Bhutan
 #  Rescue teams scour eastern Bhutan after at least 11 people are killed by an earthquake which struck the region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8268205.stm)
 

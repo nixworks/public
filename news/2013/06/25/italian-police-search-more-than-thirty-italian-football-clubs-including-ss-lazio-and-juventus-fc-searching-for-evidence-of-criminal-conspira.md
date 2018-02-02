@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/06/25/italian-police-search-more-than-thirty-italian-football-clubs-including-ss-lazio-and-juventus-fc-searching-for-evidence-of-criminal-conspira.html)  [JSON](/news/2013/06/25/italian-police-search-more-than-thirty-italian-football-clubs-including-ss-lazio-and-juventus-fc-searching-for-evidence-of-criminal-conspira.json)  [XML](/news/2013/06/25/italian-police-search-more-than-thirty-italian-football-clubs-including-ss-lazio-and-juventus-fc-searching-for-evidence-of-criminal-conspira.xml)  
+
 ### [2013-06-25](/news/2013/06/25/index.md)
 
+##### Italian
 # Italian police search more than thirty Italian football clubs including SS Lazio and Juventus FC searching for evidence of criminal conspiracy, international tax evasion, money laundering and invoice falsification. 
 
 Italian police searches on Tuesday of more than 30 Italian soccer clubs includes two teams listed on the stock exchange, SS Lazio and Juventus FC, judicial and police sources told Reuters.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/06/25/us-italy-soccer-probe-idUSBRE95O0B920130625)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2013/06/25/us-italy-soccer-probe-idUSBRE95O0B920130625)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

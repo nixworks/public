@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/23/2011-egyptian-revolution-activists-gather-in-the-egyptian-capital-cairo-calling-for-the-end-of-the-post-hosni-mubarak-military-regime.html)  [JSON](/news/2011/12/23/2011-egyptian-revolution-activists-gather-in-the-egyptian-capital-cairo-calling-for-the-end-of-the-post-hosni-mubarak-military-regime.json)  [XML](/news/2011/12/23/2011-egyptian-revolution-activists-gather-in-the-egyptian-capital-cairo-calling-for-the-end-of-the-post-hosni-mubarak-military-regime.xml)  
+
 ### [2011-12-23](/news/2011/12/23/index.md)
 
+##### 2011 Egyptian revolution
 # 2011 Egyptian revolution: Activists gather in the Egyptian capital Cairo, calling for the end of the post-Hosni Mubarak military regime. 
 
 Tens of thousands gather for rally in Tahrir Square, as competing demonstrators display support for ruling military.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2011/12/2011122374830994443.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/23/20111223194417685734_20.jpg)

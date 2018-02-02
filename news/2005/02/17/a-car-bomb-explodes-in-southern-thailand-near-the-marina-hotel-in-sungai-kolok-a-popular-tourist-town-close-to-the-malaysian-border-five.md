@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/02/17/a-car-bomb-explodes-in-southern-thailand-near-the-marina-hotel-in-sungai-kolok-a-popular-tourist-town-close-to-the-malaysian-border-five.html)  [JSON](/news/2005/02/17/a-car-bomb-explodes-in-southern-thailand-near-the-marina-hotel-in-sungai-kolok-a-popular-tourist-town-close-to-the-malaysian-border-five.json)  [XML](/news/2005/02/17/a-car-bomb-explodes-in-southern-thailand-near-the-marina-hotel-in-sungai-kolok-a-popular-tourist-town-close-to-the-malaysian-border-five.xml)  
+
 ### [2005-02-17](/news/2005/02/17/index.md)
 
+##### car bomb
 #  A car bomb explodes in southern Thailand near the Marina Hotel in Sungai Kolok, a popular tourist town close to the Malaysian border. Five people are killed and more than 40 injured. The car bomb is believed to be the first to explode in the Muslim-dominated region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4274169.stm)
 2. [Boston Globe](http://www.boston.com/news/world/asia/articles/2005/02/17/car_bomb_kills_5_injures_40_in_thai_tourist_town/)
-3. [Yahoo!](http://news.yahoo.com/news?tmpl=story&u=/ap/20050217/ap_on_re_as/thailand_violence)
+3. [Yahoo!](https://news.yahoo.com/news?tmpl=story&u=/ap/20050217/ap_on_re_as/thailand_violence)
 
 ### Related:
 

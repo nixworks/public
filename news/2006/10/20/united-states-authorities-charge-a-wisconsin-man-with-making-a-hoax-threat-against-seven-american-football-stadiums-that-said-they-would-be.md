@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/20/united-states-authorities-charge-a-wisconsin-man-with-making-a-hoax-threat-against-seven-american-football-stadiums-that-said-they-would-be.html)  [JSON](/news/2006/10/20/united-states-authorities-charge-a-wisconsin-man-with-making-a-hoax-threat-against-seven-american-football-stadiums-that-said-they-would-be.json)  [XML](/news/2006/10/20/united-states-authorities-charge-a-wisconsin-man-with-making-a-hoax-threat-against-seven-american-football-stadiums-that-said-they-would-be.xml)  
+
 ### [2006-10-20](/news/2006/10/20/index.md)
 
+##### Wisconsin
 #  United States authorities charge a Wisconsin man with making a hoax threat against seven American football stadiums that said they would be targeted by terrorists with radiological dirty bombs on the weekend. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via WCBS](http://wcbs880.com/pages/111550.php?contentType=4&contentId=226942)
 

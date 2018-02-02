@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/26/the-japanese-national-police-agency-reveals-that-90-per-cent-of-cyberattacks-on-its-web-site-on-july-10-came-from-internet-protocol-addresse.html)  [JSON](/news/2011/08/26/the-japanese-national-police-agency-reveals-that-90-per-cent-of-cyberattacks-on-its-web-site-on-july-10-came-from-internet-protocol-addresse.json)  [XML](/news/2011/08/26/the-japanese-national-police-agency-reveals-that-90-per-cent-of-cyberattacks-on-its-web-site-on-july-10-came-from-internet-protocol-addresse.xml)  
+
 ### [2011-08-26](/news/2011/08/26/index.md)
 
+##### Japan
 # The Japanese National Police Agency reveals that 90 per cent of cyberattacks on its web site on July 10 came from Internet Protocol addresses in the People's Republic of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MDN](http://mdn.mainichi.jp/mdnnews/national/news/20110826p2g00m0dm011000c.html)
 

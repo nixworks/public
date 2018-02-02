@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/08/25/a-school-bus-collides-with-a-train-in-cape-town-south-africa-killing-at-least-nine-pupils-and-injuring-five-others.html)  [JSON](/news/2010/08/25/a-school-bus-collides-with-a-train-in-cape-town-south-africa-killing-at-least-nine-pupils-and-injuring-five-others.json)  [XML](/news/2010/08/25/a-school-bus-collides-with-a-train-in-cape-town-south-africa-killing-at-least-nine-pupils-and-injuring-five-others.xml)  
+
 ### [2010-08-25](/news/2010/08/25/index.md)
 
+##### school bus
 # A school bus collides with a train in Cape Town, South Africa, killing at least nine pupils and injuring five others. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The Globe and Mail](http://www.theglobeandmail.com/news/world/africa-mideast/train-hits-school-van-in-cape-town-killing-nine-kids/article1684330/)
+1. [AP via ''The Globe and Mail](https://www.theglobeandmail.com/news/world/africa-mideast/train-hits-school-van-in-cape-town-killing-nine-kids/article1684330/)
 
 ### Related:
 

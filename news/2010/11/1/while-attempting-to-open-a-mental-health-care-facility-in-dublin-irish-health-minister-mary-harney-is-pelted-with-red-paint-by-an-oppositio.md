@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/1/while-attempting-to-open-a-mental-health-care-facility-in-dublin-irish-health-minister-mary-harney-is-pelted-with-red-paint-by-an-oppositio.html)  [JSON](/news/2010/11/1/while-attempting-to-open-a-mental-health-care-facility-in-dublin-irish-health-minister-mary-harney-is-pelted-with-red-paint-by-an-oppositio.json)  [XML](/news/2010/11/1/while-attempting-to-open-a-mental-health-care-facility-in-dublin-irish-health-minister-mary-harney-is-pelted-with-red-paint-by-an-oppositio.xml)  
+
 ### [2010-11-1](/news/2010/11/1/index.md)
 
+##### Dublin
 # While attempting to open a mental health care facility in Dublin, Irish Health Minister Mary Harney is pelted with red paint by an opposition politician highlighting the "blood budget" which "will result in the unnecessary and avoidable deaths of hundreds, if not thousands, of people over the coming years". Harney is overseeing hospital cuts of EUR1 billion. 
 
 A councillor from the Éirígí party has been questioned by gardaí after red paint was thrown at Minister for Health Mary Harney at an event in Dublin.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Business/wireStory?id=12022960)
 2. [RTÉ](http://www.rte.ie/news/2010/1101/harneym.html)

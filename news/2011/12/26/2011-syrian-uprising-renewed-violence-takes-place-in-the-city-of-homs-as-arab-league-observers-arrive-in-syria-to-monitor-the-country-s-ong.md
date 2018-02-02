@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/26/2011-syrian-uprising-renewed-violence-takes-place-in-the-city-of-homs-as-arab-league-observers-arrive-in-syria-to-monitor-the-country-s-ong.html)  [JSON](/news/2011/12/26/2011-syrian-uprising-renewed-violence-takes-place-in-the-city-of-homs-as-arab-league-observers-arrive-in-syria-to-monitor-the-country-s-ong.json)  [XML](/news/2011/12/26/2011-syrian-uprising-renewed-violence-takes-place-in-the-city-of-homs-as-arab-league-observers-arrive-in-syria-to-monitor-the-country-s-ong.xml)  
+
 ### [2011-12-26](/news/2011/12/26/index.md)
 
+##### 2011 Syrian uprising
 # 2011 Syrian uprising: Renewed violence takes place in the city of Homs as Arab League observers arrive in Syria to monitor the country's ongoing uprising. 
 
 More Arab League observers are set to arrive in Syria as human rights activists say at least 13 people are killed in the central city of Homs.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16330810)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57569000/jpg/_57569797_013579933-1.jpg)

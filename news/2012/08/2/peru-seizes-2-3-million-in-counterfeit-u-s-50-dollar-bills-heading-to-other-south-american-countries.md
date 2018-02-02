@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2012/08/2/peru-seizes-2-3-million-in-counterfeit-u-s-50-dollar-bills-heading-to-other-south-american-countries.html)  [JSON](/news/2012/08/2/peru-seizes-2-3-million-in-counterfeit-u-s-50-dollar-bills-heading-to-other-south-american-countries.json)  [XML](/news/2012/08/2/peru-seizes-2-3-million-in-counterfeit-u-s-50-dollar-bills-heading-to-other-south-american-countries.xml)  
+
 ### [2012-08-2](/news/2012/08/2/index.md)
 
+##### Peru
 # Peru seizes $2.3 million in counterfeit U.S. 50 dollar bills heading to other South American countries. 
 
 Aug. 2 - Peruvian police seize over $2 million counterfeit U.S. bills heading to other South American countries. Sophia Soo reports.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/video/2012/08/01/police-seize-counterfeit-dollar-bills?videoId=236801752&videoChannel=1)
-1. [Cover Image](http://yospace-cds1.reuters.com/u/resize~ad1~1200/0/f/~image_jpeg~9999-1/1/m/f/7/7/d/gmo7/reuters04?videoId=44534802)
+1. [Reuters](https://www.reuters.com/video/2012/08/01/police-seize-counterfeit-dollar-bills?videoId=236801752&videoChannel=1)
+1. [Cover Image](https://yospace-cds1.reuters.com/u/resize~ad1~1200/0/f/~image_jpeg~9999-1/1/m/f/7/7/d/gmo7/reuters04?videoId=44534802)
 
 ### Related:
 
-1. [Pope Francis arrives in Colombia for a five-day visit. In early 2016, Francis promised he would visit the South American country once a civil war peace agreement was in place. ](/news/2017/09/6/pope-francis-arrives-in-colombia-for-a-five-day-visit-in-early-2016-francis-promised-he-would-visit-the-south-american-country-once-a-civi.md) _Context: South America_
-2. [Chilean lawmakers have approved a bill that would legalize abortion in limited circumstances and end the socially conservative country's status as the last in South America with a blanket ban on the procedure. ](/news/2017/08/3/chilean-lawmakers-have-approved-a-bill-that-would-legalize-abortion-in-limited-circumstances-and-end-the-socially-conservative-country-s-sta.md) _Context: South America_
-3. [The face of the Peruvian Moche mummy the Lady of Cao is reconstructed from its skull structure, using forensic archaeology techniques and ethnographic research. ](/news/2017/07/5/the-face-of-the-peruvian-moche-mummy-the-lady-of-cao-is-reconstructed-from-its-skull-structure-using-forensic-archaeology-techniques-and-et.md) _Context: Peru_
-4. [A group of people are arrested in the Peruvian village of Muqui, located in the Andes, after they painted a wall with allusive symbols and messages to the far-left terrorist organization, Shining Path, responsible for crimes against humanity in Peru from 1980 to 1992. Police later clarified that the true intentions of the arrested, some of them students of a technical training institute, were to make a short film. ](/news/2017/07/5/a-group-of-people-are-arrested-in-the-peruvian-village-of-muqui-located-in-the-andes-after-they-painted-a-wall-with-allusive-symbols-and-m.md) _Context: Peru_
-5. [Equatorial Guinea, Ivory Coast, Kuwait, Peru and Poland are elected to the United Nations Security Council for a two-year term beginning on January 1, 2018. ](/news/2017/06/2/equatorial-guinea-ivory-coast-kuwait-peru-and-poland-are-elected-to-the-united-nations-security-council-for-a-two-year-term-beginning-on.md) _Context: Peru_
+1. [A coach bus plunges off a cliff on a coastal road in Peru, killing at least 48 people. ](/news/2018/01/2/a-coach-bus-plunges-off-a-cliff-on-a-coastal-road-in-peru-killing-at-least-48-people.md) _Context: Peru_
+2. [A 7.1 magnitude earthquake strikes in the Pacific Ocean near Acari in Peru's Arequipa Region resulting in 1 death and 65 injured. ](/news/2018/01/14/a-7-1-magnitude-earthquake-strikes-in-the-pacific-ocean-near-acara-in-peru-s-arequipa-region-resulting-in-1-death-and-65-injured.md) _Context: Peru_
+3. [Former Peru president Alberto Fujimori is taken, from prison, to a local hospital for treatment for abnormally low blood pressure. ](/news/2017/12/23/former-peru-president-alberto-fujimori-is-taken-from-prison-to-a-local-hospital-for-treatment-for-abnormally-low-blood-pressure.md) _Context: Peru_
+4. [The main opposition party of Peru, Popular Force, which has the absolute majority in Congress, gives the president Pedro Pablo Kuczynski less than 24 hours to present his resignation. This comes after it revealed that he received large sums of money from the Odebrecht construction company, through a financial advisory firm of his property, in exchange of the concession of important infrastructures for the country. ](/news/2017/12/14/the-main-opposition-party-of-peru-popular-force-which-has-the-absolute-majority-in-congress-gives-the-president-pedro-pablo-kuczynski-les.md) _Context: Peru_
+5. [A 22-year-old student is found dead inside the National University of San Marcos, of Lima, and the most important and oldest of Peru. Everything seems to indicate that he had been killed. Authorities have identified a possible suspect, who is also a student at the university. ](/news/2017/12/12/a-22-year-old-student-is-found-dead-inside-the-national-university-of-san-marcos-of-lima-and-the-most-important-and-oldest-of-peru-everyt.md) _Context: Peru_

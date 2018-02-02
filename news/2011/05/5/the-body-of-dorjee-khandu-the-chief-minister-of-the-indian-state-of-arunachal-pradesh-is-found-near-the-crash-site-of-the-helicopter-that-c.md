@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/5/the-body-of-dorjee-khandu-the-chief-minister-of-the-indian-state-of-arunachal-pradesh-is-found-near-the-crash-site-of-the-helicopter-that-c.html)  [JSON](/news/2011/05/5/the-body-of-dorjee-khandu-the-chief-minister-of-the-indian-state-of-arunachal-pradesh-is-found-near-the-crash-site-of-the-helicopter-that-c.json)  [XML](/news/2011/05/5/the-body-of-dorjee-khandu-the-chief-minister-of-the-indian-state-of-arunachal-pradesh-is-found-near-the-crash-site-of-the-helicopter-that-c.xml)  
+
 ### [2011-05-5](/news/2011/05/5/index.md)
 
+##### Dorjee Khandu
 # The body of Dorjee Khandu, the Chief Minister of the Indian state of Arunachal Pradesh is found near the crash site of the helicopter that crashed in the Himalayan foothills on April 30. 
 
 India says the body of the chief minister of a northeastern state has been recovered from the wreckage of a helicopter that crashed in a densely forested area in the Himalayan foothills.
 
 
-### Source:
+### Sources:
 
 1. [AP via Yahoo News](http://in.news.yahoo.com/india-top-officials-body-found-crash-070525501.html)
 2. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/05/india.missing.helicopter/index.html)

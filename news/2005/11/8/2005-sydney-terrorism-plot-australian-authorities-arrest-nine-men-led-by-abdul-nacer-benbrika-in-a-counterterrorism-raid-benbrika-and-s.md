@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/8/2005-sydney-terrorism-plot-australian-authorities-arrest-nine-men-led-by-abdul-nacer-benbrika-in-a-counterterrorism-raid-benbrika-and-s.html)  [JSON](/news/2005/11/8/2005-sydney-terrorism-plot-australian-authorities-arrest-nine-men-led-by-abdul-nacer-benbrika-in-a-counterterrorism-raid-benbrika-and-s.json)  [XML](/news/2005/11/8/2005-sydney-terrorism-plot-australian-authorities-arrest-nine-men-led-by-abdul-nacer-benbrika-in-a-counterterrorism-raid-benbrika-and-s.xml)  
+
 ### [2005-11-8](/news/2005/11/8/index.md)
 
+##### 2005 Sydney terrorism plot
 #  2005 Sydney terrorism plot: Australian authorities arrest nine men, led by Abdul Nacer Benbrika, in a counterterrorism raid. Benbrika and six other men are later convicted of terrorism-related offenses. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/news/national/terror-targets-not-known/2005/11/08/1131212028240.html)
 

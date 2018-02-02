@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/8/john-lennon-is-celebrated-on-the-30th-anniversary-of-his-murder.html)  [JSON](/news/2010/12/8/john-lennon-is-celebrated-on-the-30th-anniversary-of-his-murder.json)  [XML](/news/2010/12/8/john-lennon-is-celebrated-on-the-30th-anniversary-of-his-murder.xml)  
+
 ### [2010-12-8](/news/2010/12/8/index.md)
 
+##### John Lennon
 # John Lennon is celebrated on the 30th anniversary of his murder. 
 
 Fans around the world gather to sing John Lennon songs and pay tribute to the former Beatle on the 30th anniversary of his death.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11947118)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

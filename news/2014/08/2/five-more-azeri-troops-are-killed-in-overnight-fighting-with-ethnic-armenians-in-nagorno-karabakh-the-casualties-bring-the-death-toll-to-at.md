@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/2/five-more-azeri-troops-are-killed-in-overnight-fighting-with-ethnic-armenians-in-nagorno-karabakh-the-casualties-bring-the-death-toll-to-at.html)  [JSON](/news/2014/08/2/five-more-azeri-troops-are-killed-in-overnight-fighting-with-ethnic-armenians-in-nagorno-karabakh-the-casualties-bring-the-death-toll-to-at.json)  [XML](/news/2014/08/2/five-more-azeri-troops-are-killed-in-overnight-fighting-with-ethnic-armenians-in-nagorno-karabakh-the-casualties-bring-the-death-toll-to-at.xml)  
+
 ### [2014-08-2](/news/2014/08/2/index.md)
 
+##### Nagorno-Karabakh conflict
 # Five more Azeri troops are killed in overnight fighting with ethnic Armenians in Nagorno-Karabakh. The casualties bring the death toll to at least 13 in a flare-up of violence over the last few days around Nagorno-Karabakh. Russia has said that any further escalation is unacceptable. 
 
 Five more soldiers were killed in skirmishes between Azeri government forces and ethnic Armenian separatists controlling the breakaway Nagorno-Karabakh enclave of Azerbaijan, officials from both sides said on Saturday.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2014/08/02/uk-armenia-azerbaijan-conflict-idUKKBN0G20EP20140802)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

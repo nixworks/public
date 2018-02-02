@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/06/10/president-of-afghanistan-hamid-karzai-escapes-an-apparent-assassination-attempt.html)  [JSON](/news/2007/06/10/president-of-afghanistan-hamid-karzai-escapes-an-apparent-assassination-attempt.json)  [XML](/news/2007/06/10/president-of-afghanistan-hamid-karzai-escapes-an-apparent-assassination-attempt.xml)  
+
 ### [2007-06-10](/news/2007/06/10/index.md)
 
+##### Afghanistan President
 #  President of Afghanistan Hamid Karzai escapes an apparent assassination attempt.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/30/iran-threatens-to-cut-off-israel-s-feet-if-israel-attacks-syria.html)  [JSON](/news/2010/04/30/iran-threatens-to-cut-off-israel-s-feet-if-israel-attacks-syria.json)  [XML](/news/2010/04/30/iran-threatens-to-cut-off-israel-s-feet-if-israel-attacks-syria.xml)  
+
 ### [2010-04-30](/news/2010/04/30/index.md)
 
+##### Iran
 # Iran threatens to "cut off Israel's feet" if Israel attacks Syria. 
 
 Ahmadinejad set to speak at UN nuke conference on May 3.
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=174400)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=141645)

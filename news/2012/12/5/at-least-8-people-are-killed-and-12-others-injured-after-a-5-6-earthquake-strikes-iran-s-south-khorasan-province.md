@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/12/5/at-least-8-people-are-killed-and-12-others-injured-after-a-5-6-earthquake-strikes-iran-s-south-khorasan-province.html)  [JSON](/news/2012/12/5/at-least-8-people-are-killed-and-12-others-injured-after-a-5-6-earthquake-strikes-iran-s-south-khorasan-province.json)  [XML](/news/2012/12/5/at-least-8-people-are-killed-and-12-others-injured-after-a-5-6-earthquake-strikes-iran-s-south-khorasan-province.xml)  
+
 ### [2012-12-5](/news/2012/12/5/index.md)
 
+##### At least 8 people are killed
 # At least 8 people are killed and 12 others injured after a 5.6 earthquake strikes Iran's South Khorasan Province. 
 
 At least five people have been killed and several injured by a 5.5 magnitude earthquake in eastern Iran, say officials.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20617496)
-2. [Reuters](http://www.reuters.com/article/2012/12/05/us-quake-iran-idUSBRE8B413520121205)
+2. [Reuters](https://www.reuters.com/article/2012/12/05/us-quake-iran-idUSBRE8B413520121205)
 2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52908000/jpg/_52908535_bn-448x252.jpg)
 
 ### Related:

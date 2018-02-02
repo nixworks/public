@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/8/prominent-religious-leader-maulvi-showkat-ahmed-shah-is-killed-when-explosives-attached-to-a-bicycle-are-detonated-outside-a-mosque-in-srina.html)  [JSON](/news/2011/04/8/prominent-religious-leader-maulvi-showkat-ahmed-shah-is-killed-when-explosives-attached-to-a-bicycle-are-detonated-outside-a-mosque-in-srina.json)  [XML](/news/2011/04/8/prominent-religious-leader-maulvi-showkat-ahmed-shah-is-killed-when-explosives-attached-to-a-bicycle-are-detonated-outside-a-mosque-in-srina.xml)  
+
 ### [2011-04-8](/news/2011/04/8/index.md)
 
+##### mosque
 # Prominent religious leader Maulvi Showkat Ahmed Shah is killed when explosives attached to a bicycle are detonated outside a mosque in Srinagar, Kashmir, thought to be the first attack of its kind in about two years. The capital's shops shut down and traffic is suspended. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13009558)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/03/13/the-body-of-mar-paulos-faraj-rahho-the-chaldean-catholic-archbishop-of-mosul-who-was-kidnapped-in-iraq-on-february-29-is-found-in-a-shall.html)  [JSON](/news/2008/03/13/the-body-of-mar-paulos-faraj-rahho-the-chaldean-catholic-archbishop-of-mosul-who-was-kidnapped-in-iraq-on-february-29-is-found-in-a-shall.json)  [XML](/news/2008/03/13/the-body-of-mar-paulos-faraj-rahho-the-chaldean-catholic-archbishop-of-mosul-who-was-kidnapped-in-iraq-on-february-29-is-found-in-a-shall.xml)  
+
 ### [2008-03-13](/news/2008/03/13/index.md)
 
+##### Mar Paulos Faraj Rahho
 #  The body of Mar Paulos Faraj Rahho, the Chaldean Catholic archbishop of Mosul who was kidnapped in Iraq on February 29, is found in a shallow grave close to the city. 
 
 A Chaldean Catholic archbishop who was kidnapped in Iraq last month was found dead on Thursday, his body half-buried in an empty lot in the northern city of Mosul, police said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/newsMaps/idUSRAT00361720080313)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080313&t=2&i=3514187&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-03-13T220754Z_01_RAT003617_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/newsMaps/idUSRAT00361720080313)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20080313&t=2&i=3514187&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-03-13T220754Z_01_RAT003617_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

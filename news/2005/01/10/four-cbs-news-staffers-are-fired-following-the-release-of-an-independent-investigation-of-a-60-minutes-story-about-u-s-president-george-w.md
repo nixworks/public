@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/10/four-cbs-news-staffers-are-fired-following-the-release-of-an-independent-investigation-of-a-60-minutes-story-about-u-s-president-george-w.html)  [JSON](/news/2005/01/10/four-cbs-news-staffers-are-fired-following-the-release-of-an-independent-investigation-of-a-60-minutes-story-about-u-s-president-george-w.json)  [XML](/news/2005/01/10/four-cbs-news-staffers-are-fired-following-the-release-of-an-independent-investigation-of-a-60-minutes-story-about-u-s-president-george-w.xml)  
+
 ### [2005-01-10](/news/2005/01/10/index.md)
 
+##### CBS News
 #  Four CBS News staffers are fired following the release of an independent investigation of a 60 Minutes story about U.S. President George W. Bush's military service that relied on forged documents. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2005/SHOWBIZ/TV/01/10/cbs.guard.ap/index.html)
 

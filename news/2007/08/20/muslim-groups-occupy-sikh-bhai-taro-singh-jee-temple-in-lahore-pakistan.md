@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/08/20/muslim-groups-occupy-sikh-bhai-taro-singh-jee-temple-in-lahore-pakistan.html)  [JSON](/news/2007/08/20/muslim-groups-occupy-sikh-bhai-taro-singh-jee-temple-in-lahore-pakistan.json)  [XML](/news/2007/08/20/muslim-groups-occupy-sikh-bhai-taro-singh-jee-temple-in-lahore-pakistan.xml)  
+
 ### [2007-08-20](/news/2007/08/20/index.md)
 
+##### Muslim
 #  Muslim groups occupy Sikh Bhai Taro Singh Jee temple in Lahore, Pakistan 
 
 

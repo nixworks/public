@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/13/in-baghdad-a-suicide-bomber-detonates-an-explosive-belt-in-a-line-of-people-waiting-to-receive-government-payments-killing-at-least-eight.html)  [JSON](/news/2006/02/13/in-baghdad-a-suicide-bomber-detonates-an-explosive-belt-in-a-line-of-people-waiting-to-receive-government-payments-killing-at-least-eight.json)  [XML](/news/2006/02/13/in-baghdad-a-suicide-bomber-detonates-an-explosive-belt-in-a-line-of-people-waiting-to-receive-government-payments-killing-at-least-eight.xml)  
+
 ### [2006-02-13](/news/2006/02/13/index.md)
 
+##### Baghdad
 #  In Baghdad, a suicide bomber detonates an explosive belt in a line of people waiting to receive government payments, killing at least eight other people and wounding about 30, including children and police. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060212/iraq_violence_060213/20060213?hub=World)
 

@@ -1,7 +1,7 @@
-## [2003-06-30](/news/2003/06/30/index.md)
 
-### [ Comedian and actor Buddy Hackett dies at his home in Malibu at the age of 78.](/news/2003/06/30/comedian-and-actor-buddy-hackett-dies-at-his-home-in-malibu-at-the-age-of-78.md)
-_Context: Buddy Hackett, Malibu, California_
+Formats: [HTML](2003/06/30/index.html)  [JSON](2003/06/30/index.json)  [XML](2003/06/30/index.xml)  
+
+## [2003-06-30](/news/2003/06/30/index.md)
 
 ## [Previous Day...](/news/2003/06/29/index.md)
 

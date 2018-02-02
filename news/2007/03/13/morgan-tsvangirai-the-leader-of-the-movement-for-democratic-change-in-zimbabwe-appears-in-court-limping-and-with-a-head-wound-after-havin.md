@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/03/13/morgan-tsvangirai-the-leader-of-the-movement-for-democratic-change-in-zimbabwe-appears-in-court-limping-and-with-a-head-wound-after-havin.html)  [JSON](/news/2007/03/13/morgan-tsvangirai-the-leader-of-the-movement-for-democratic-change-in-zimbabwe-appears-in-court-limping-and-with-a-head-wound-after-havin.json)  [XML](/news/2007/03/13/morgan-tsvangirai-the-leader-of-the-movement-for-democratic-change-in-zimbabwe-appears-in-court-limping-and-with-a-head-wound-after-havin.xml)  
+
 ### [2007-03-13](/news/2007/03/13/index.md)
 
+##### Morgan Tsvangirai
 #  Morgan Tsvangirai, the leader of the Movement for Democratic Change in Zimbabwe, appears in court limping and with a head wound after having been arrested on Sunday. Tsvangarai is later taken from court to a hospital under police guard. 
 
 Morgan Tsvangirai was jailed and beaten for his role in a banned anti-government meeting.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2007/03/13/world/africa/13cnd-zimbabwe.html?_r=1&hp&oref=slogin)
+1. [New York Times](https://www.nytimes.com/2007/03/13/world/africa/13cnd-zimbabwe.html?_r=1&hp&oref=slogin)
 1. [Cover Image](https://static01.nyt.com/images/2007/03/13/world/zim.7575.jpg)
 
 ### Related:

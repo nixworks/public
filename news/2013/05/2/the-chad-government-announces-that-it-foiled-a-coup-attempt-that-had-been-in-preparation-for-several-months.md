@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/2/the-chad-government-announces-that-it-foiled-a-coup-attempt-that-had-been-in-preparation-for-several-months.html)  [JSON](/news/2013/05/2/the-chad-government-announces-that-it-foiled-a-coup-attempt-that-had-been-in-preparation-for-several-months.json)  [XML](/news/2013/05/2/the-chad-government-announces-that-it-foiled-a-coup-attempt-that-had-been-in-preparation-for-several-months.xml)  
+
 ### [2013-05-2](/news/2013/05/2/index.md)
 
+##### Chad
 # The Chad government announces that it foiled a coup attempt that "had been in preparation for several months." 
 
 CHAD-COUP/(URGENT):Chad government says it foils coup attempt
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.trust.org/item/20130502004304-rj2im)
 1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/ad660e4d-61a8-4d36-af63-3aaa66ed7e5b/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)

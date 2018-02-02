@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/08/28/free-and-open-source-software-advocacy-theopencd-the-free-software-foundation-and-the-open-source-initiative-celebrate-the-first-annual-s.html)  [JSON](/news/2004/08/28/free-and-open-source-software-advocacy-theopencd-the-free-software-foundation-and-the-open-source-initiative-celebrate-the-first-annual-s.json)  [XML](/news/2004/08/28/free-and-open-source-software-advocacy-theopencd-the-free-software-foundation-and-the-open-source-initiative-celebrate-the-first-annual-s.xml)  
+
 ### [2004-08-28](/news/2004/08/28/index.md)
 
+##### Open Source
 #  Free and Open Source Software advocacy: TheOpenCD, the Free Software Foundation and the Open Source Initiative celebrate the first annual Software Freedom Day.
 
 
@@ -7,8 +11,6 @@
 
 ### Related:
 
-1. [Swede Alex Yucel pleads guilty in the United States to distributing Blackshades software that was used to hack into 500,000 computers worldwide. ](/news/2015/02/18/swede-alex-yucel-pleads-guilty-in-the-united-states-to-distributing-blackshades-software-that-was-used-to-hack-into-500-000-computers-worldw.md) _Context: software_
-2. [The U.S. Supreme Court cuts back sharply on the range of patentable software, in a case involving business methods. ](/news/2014/06/19/the-u-s-supreme-court-cuts-back-sharply-on-the-range-of-patentable-software-in-a-case-involving-business-methods.md) _Context: software_
-3. [Google removes a privacy feature from its Android mobile software, despite objections from groups such as the Electronic Frontier Foundation. ](/news/2013/12/13/google-removes-a-privacy-feature-from-its-android-mobile-software-despite-objections-from-groups-such-as-the-electronic-frontier-foundation.md) _Context: software_
-4. [Software engineer Atul Chitnis, known as India's "open source guru", dies at age 50. ](/news/2013/06/3/software-engineer-atul-chitnis-known-as-india-s-open-source-guru-dies-at-age-50.md) _Context: open source_
-5. [The U.S. Supreme Court upholds a 2009 jury verdict in a patent dispute at the expense of software giant Microsoft in favor of Canadian company i4i. ](/news/2011/06/9/the-u-s-supreme-court-upholds-a-2009-jury-verdict-in-a-patent-dispute-at-the-expense-of-software-giant-microsoft-in-favor-of-canadian-compa.md) _Context: software_
+1. [Software company Oracle announces that it is looking for damages "in the billions of dollars" from Google in an ongoing patent law action over the smartphone. ](/news/2011/06/16/software-company-oracle-announces-that-it-is-looking-for-damages-in-the-billions-of-dollars-from-google-in-an-ongoing-patent-law-action-ov.md) _Context: Software_
+2. [ Free Software Foundation filed a lawsuit against Cisco for using is GPL-licensed components on its Linksys but failed to fulfill the requirements of the General Public License (GPL). ](/news/2008/12/11/free-software-foundation-filed-a-lawsuit-against-cisco-for-using-is-gpl-licensed-components-on-its-linksys-but-failed-to-fulfill-the-requir.md) _Context: Free Software Foundation_
+3. [ SCO v. IBM: In an open letter to the Linux community published by Silicon Graphics (SGI), SGI states it conducted a comprehensive comparison of the Linux kernel and the UNIX System&nbsp;V source code owned by The SCO Group. According to the letter (authored by SGI Vice President of Software Rich Altmaier), SGI's ""exhaustive comparison"" of the source codes turned up only ""trivial"" code segments that ""may arguably be related"" to SCO's software. The letter also disputed SCO's claims that SGI inappropriately contributed its XFS (eXtensible File System).](/news/2003/10/6/sco-v-ibm-in-an-open-letter-to-the-linux-community-published-by-silicon-graphics-sgi-sgi-states-it-conducted-a-comprehensive-compariso.md) _Context: Software_

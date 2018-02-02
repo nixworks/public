@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/05/6/as-a-result-of-an-ongoing-lawsuit-from-the-world-wildlife-fund-over-the-use-of-the-initials-wwf-the-company-formerly-known-as-the-world.html)  [JSON](/news/2002/05/6/as-a-result-of-an-ongoing-lawsuit-from-the-world-wildlife-fund-over-the-use-of-the-initials-wwf-the-company-formerly-known-as-the-world.json)  [XML](/news/2002/05/6/as-a-result-of-an-ongoing-lawsuit-from-the-world-wildlife-fund-over-the-use-of-the-initials-wwf-the-company-formerly-known-as-the-world.xml)  
+
 ### [2002-05-6](/news/2002/05/6/index.md)
 
+##### World Wildlife Fund
 #  As a result of an ongoing lawsuit from the World Wildlife Fund over the use of the initials 'WWF,' the company formerly known as the World Wrestling Federation is forced to change its name to World Wrestling Entertainment.
 
 

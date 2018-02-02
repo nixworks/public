@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/27/the-iraqi-army-announces-it-is-in-full-control-
 
 ### [2017-08-27](/news/2017/08/27/index.md)
 
+##### Iraqi Civil War
 # The Iraqi Army announces it is in full control of the Iraqi Turkmen city of Tal Afar in the Nineveh Governorate, after eight days of clashes with ISIL militants inside the city. 
 
  &nbsp; TAL AFAR, Iraq &ndash; The Iraqi army has announced that their forces are now in full control of the city of Tal Afar, just eight days after the launch of the operation against ISIS militants. &nbsp; Lt. Gen. Abdulamir Rashid Yaralla, commander of the Tal Afar operation, stated that the...

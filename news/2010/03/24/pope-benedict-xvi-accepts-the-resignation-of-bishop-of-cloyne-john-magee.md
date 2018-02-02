@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/24/pope-benedict-xvi-accepts-the-resignation-of-bishop-of-cloyne-john-magee.html)  [JSON](/news/2010/03/24/pope-benedict-xvi-accepts-the-resignation-of-bishop-of-cloyne-john-magee.json)  [XML](/news/2010/03/24/pope-benedict-xvi-accepts-the-resignation-of-bishop-of-cloyne-john-magee.xml)  
+
 ### [2010-03-24](/news/2010/03/24/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI accepts the resignation of Bishop of Cloyne John Magee. 
 
 Pope Benedict XVI has accepted the resignation of Bishop of Cloyne John Magee.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/03/2010324112959794112.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8585012.stm)

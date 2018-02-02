@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/16/senior-gop-rules-committee-member-curly-hauglan
 
 ### [2016-03-16](/news/2016/03/16/index.md)
 
+##### Curly Haugland
 # Senior GOP rules committee member Curly Haugland says that "We (RCN committee members) choose the nominee, not the voters". 
 
 

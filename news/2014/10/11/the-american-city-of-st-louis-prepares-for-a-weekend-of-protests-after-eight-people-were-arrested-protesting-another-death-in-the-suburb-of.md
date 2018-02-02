@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/10/11/the-american-city-of-st-louis-prepares-for-a-weekend-of-protests-after-eight-people-were-arrested-protesting-another-death-in-the-suburb-of.html)  [JSON](/news/2014/10/11/the-american-city-of-st-louis-prepares-for-a-weekend-of-protests-after-eight-people-were-arrested-protesting-another-death-in-the-suburb-of.json)  [XML](/news/2014/10/11/the-american-city-of-st-louis-prepares-for-a-weekend-of-protests-after-eight-people-were-arrested-protesting-another-death-in-the-suburb-of.xml)  
+
 ### [2014-10-11](/news/2014/10/11/index.md)
 
+##### American
 # The American city of St. Louis prepares for a weekend of protests after eight people were arrested protesting another death in the suburb of Ferguson, Missouri this week. 
 
 Thousands of protesters marched through St. Louis on Saturday as part of a weekend of demonstrations against police violence organized after the fatal shooting of an unarmed black teenager by a white officer last summer.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/10/11/us-usa-missouri-shooting-idUSKCN0HZ25E20141011?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20141011&t=2&i=982702720&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEA9A0C6)
+1. [Reuters](https://www.reuters.com/article/2014/10/11/us-usa-missouri-shooting-idUSKCN0HZ25E20141011?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20141011&t=2&i=982702720&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEA9A0C6)
 
 ### Related:
 

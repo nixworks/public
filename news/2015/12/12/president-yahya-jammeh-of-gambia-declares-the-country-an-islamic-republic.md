@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/12/12/president-yahya-jammeh-of-gambia-declares-the-country-an-islamic-republic.html)  [JSON](/news/2015/12/12/president-yahya-jammeh-of-gambia-declares-the-country-an-islamic-republic.json)  [XML](/news/2015/12/12/president-yahya-jammeh-of-gambia-declares-the-country-an-islamic-republic.xml)  
+
 ### [2015-12-12](/news/2015/12/12/index.md)
 
+##### Yahya Jammeh
 # President Yahya Jammeh of Gambia declares the country an Islamic republic. 
 
 Leader who quit Commonwealth in 2013 says Muslim-majority state will still respect others citizens’ faiths but he wants to shake off ‘colonial legacy’
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2015/dec/12/gambia-now-an-islamic-republic-says-president-yahya-jammeh)
+1. [The Guardian](https://www.theguardian.com/world/2015/dec/12/gambia-now-an-islamic-republic-says-president-yahya-jammeh)
 1. [Cover Image](https://i.guim.co.uk/img/media/6f222c43283d7b796586b39d8e677c8889d2ebc8/1352_521_1821_1092/master/1821.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=606b8740951a242ef3bd60dc7e785433)
 
 ### Related:

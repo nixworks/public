@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/1/internet-analytics-company-comscore-says-google-s-gmail-has-edged-out-microsoft-s-hotmail-as-the-world-s-top-e-mail-service.html)  [JSON](/news/2012/11/1/internet-analytics-company-comscore-says-google-s-gmail-has-edged-out-microsoft-s-hotmail-as-the-world-s-top-e-mail-service.json)  [XML](/news/2012/11/1/internet-analytics-company-comscore-says-google-s-gmail-has-edged-out-microsoft-s-hotmail-as-the-world-s-top-e-mail-service.xml)  
+
 ### [2012-11-1](/news/2012/11/1/index.md)
 
+##### ComScore
 # Internet analytics company ComScore says Google's Gmail has edged out Microsoft's Hotmail as the world's top e-mail service. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNET](http://news.cnet.com/8301-1023_3-57543177-93/googles-gmail-now-worlds-top-e-mail-service/?ttag=gpwl)
 

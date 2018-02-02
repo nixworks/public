@@ -1,11 +1,9 @@
 
-### Formats:
+Formats: [HTML](/news/2017/08/17/an-english-language-chinese-propaganda-video-from-xinhua-entitled-the-spark-7-sins-of-india-about-the-doklam-stand-off-involving-china.html)  [JSON](/news/2017/08/17/an-english-language-chinese-propaganda-video-from-xinhua-entitled-the-spark-7-sins-of-india-about-the-doklam-stand-off-involving-china.json)  [XML](/news/2017/08/17/an-english-language-chinese-propaganda-video-from-xinhua-entitled-the-spark-7-sins-of-india-about-the-doklam-stand-off-involving-china.xml)  
 
-* [HTML](/news/2017/08/17/an-english-language-chinese-propaganda-video-from-xinhua-entitled-the-spark-7-sins-of-india-about-the-doklam-stand-off-involving-china.html)
-* [JSON](/news/2017/08/17/an-english-language-chinese-propaganda-video-from-xinhua-entitled-the-spark-7-sins-of-india-about-the-doklam-stand-off-involving-china.json)
-* [XML](/news/2017/08/17/an-english-language-chinese-propaganda-video-from-xinhua-entitled-the-spark-7-sins-of-india-about-the-doklam-stand-off-involving-china.xml)
 ### [2017-08-17](/news/2017/08/17/index.md)
 
+##### 2017 China-India border standoff
 # An English-language Chinese propaganda video from Xinhua, entitled "The Spark: 7 Sins of India" about the Doklam stand-off involving China, India and Bhutan, goes viral and sparks anger within India. 
 
 It features a Chinese actor in a turban and fake beard, mockingly assuming an Indian accent.

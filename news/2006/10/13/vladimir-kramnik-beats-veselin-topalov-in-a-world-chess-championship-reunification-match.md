@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/10/13/vladimir-kramnik-beats-veselin-topalov-in-a-world-chess-championship-reunification-match.html)  [JSON](/news/2006/10/13/vladimir-kramnik-beats-veselin-topalov-in-a-world-chess-championship-reunification-match.json)  [XML](/news/2006/10/13/vladimir-kramnik-beats-veselin-topalov-in-a-world-chess-championship-reunification-match.xml)  
+
 ### [2006-10-13](/news/2006/10/13/index.md)
 
+##### Vladimir Kramnik
 #  Vladimir Kramnik beats Veselin Topalov in a World Chess Championship reunification match. 
 
 In a finale without precedent in world chess championship history, Vladimir Kramnik clinched the title in a playoff.
 
 
-### Source:
+### Sources:
 
-1. [NY Times](http://www.nytimes.com/2006/10/13/crosswords/chess/13cnd-chess.html?_r=1&hp&ex=1160798400&en=7596b78508c4dbf2&ei=5094&partner=homepage&oref=slogin)
+1. [NY Times](https://www.nytimes.com/2006/10/13/crosswords/chess/13cnd-chess.html?_r=1&hp&ex=1160798400&en=7596b78508c4dbf2&ei=5094&partner=homepage&oref=slogin)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

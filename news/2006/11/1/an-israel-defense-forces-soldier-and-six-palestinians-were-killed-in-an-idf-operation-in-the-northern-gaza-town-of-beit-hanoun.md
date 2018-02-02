@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/1/an-israel-defense-forces-soldier-and-six-palestinians-were-killed-in-an-idf-operation-in-the-northern-gaza-town-of-beit-hanoun.html)  [JSON](/news/2006/11/1/an-israel-defense-forces-soldier-and-six-palestinians-were-killed-in-an-idf-operation-in-the-northern-gaza-town-of-beit-hanoun.json)  [XML](/news/2006/11/1/an-israel-defense-forces-soldier-and-six-palestinians-were-killed-in-an-idf-operation-in-the-northern-gaza-town-of-beit-hanoun.xml)  
+
 ### [2006-11-1](/news/2006/11/1/index.md)
 
+##### Israel Defense Forces
 #  An Israel Defense Forces soldier and six Palestinians were killed in an IDF operation in the northern Gaza town of Beit Hanoun. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/middle_east/6104858.stm)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/782090.html)

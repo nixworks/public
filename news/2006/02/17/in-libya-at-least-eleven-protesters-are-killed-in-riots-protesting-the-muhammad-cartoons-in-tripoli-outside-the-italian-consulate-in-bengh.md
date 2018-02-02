@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2006/02/17/in-libya-at-least-eleven-protesters-are-killed-in-riots-protesting-the-muhammad-cartoons-in-tripoli-outside-the-italian-consulate-in-bengh.html)  [JSON](/news/2006/02/17/in-libya-at-least-eleven-protesters-are-killed-in-riots-protesting-the-muhammad-cartoons-in-tripoli-outside-the-italian-consulate-in-bengh.json)  [XML](/news/2006/02/17/in-libya-at-least-eleven-protesters-are-killed-in-riots-protesting-the-muhammad-cartoons-in-tripoli-outside-the-italian-consulate-in-bengh.xml)  
+
 ### [2006-02-17](/news/2006/02/17/index.md)
 
+##### Libya
 #  In Libya, at least eleven protesters are killed in riots protesting the Muhammad cartoons in Tripoli outside the Italian consulate in Benghazi. 
 
 Nigerian Muslims protesting caricatures of the Prophet Muhammad attacked Christians and burned churches on Saturday, killing at least 15 people in the deadliest confrontation yet in the whirlwind of Muslim anger over the drawings.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/11383819/)
-2. [New York Times](http://www.nytimes.com/2006/02/17/international/europe/17cnd-russia.html)
+2. [New York Times](https://www.nytimes.com/2006/02/17/international/europe/17cnd-russia.html)
 2. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)
 
 ### Related:

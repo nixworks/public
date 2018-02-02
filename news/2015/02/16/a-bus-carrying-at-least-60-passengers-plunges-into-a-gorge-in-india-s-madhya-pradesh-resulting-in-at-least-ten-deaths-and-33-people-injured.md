@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/16/a-bus-carrying-at-least-60-passengers-plunges-into-a-gorge-in-india-s-madhya-pradesh-resulting-in-at-least-ten-deaths-and-33-people-injured.html)  [JSON](/news/2015/02/16/a-bus-carrying-at-least-60-passengers-plunges-into-a-gorge-in-india-s-madhya-pradesh-resulting-in-at-least-ten-deaths-and-33-people-injured.json)  [XML](/news/2015/02/16/a-bus-carrying-at-least-60-passengers-plunges-into-a-gorge-in-india-s-madhya-pradesh-resulting-in-at-least-ten-deaths-and-33-people-injured.xml)  
+
 ### [2015-02-16](/news/2015/02/16/index.md)
 
+##### India
 # A bus carrying at least 60 passengers plunges into a gorge in India's Madhya Pradesh resulting in at least ten deaths and 33 people injured. 
 
 A private bus with around 60 passengers on board plunged into a gorge near Machaliya Ghat in Dhar district on Monday evening, killing over 10 passengers and injuring dozens of others.
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/city/indore/Bus-with-over-60-passengers-plunges-from-hill-into-gorge-in-Madhya-Pradesh-at-least-10-dead/articleshow/46267896.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/46271668.cms)

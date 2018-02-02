@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/11/japan-s-sendai-nuclear-power-plant-in-satsumasendai-in-kagoshima-prefecture-on-kyushu-restarts-reactor-no-1-this-is-the-first-of-50-plus-s.html)  [JSON](/news/2015/08/11/japan-s-sendai-nuclear-power-plant-in-satsumasendai-in-kagoshima-prefecture-on-kyushu-restarts-reactor-no-1-this-is-the-first-of-50-plus-s.json)  [XML](/news/2015/08/11/japan-s-sendai-nuclear-power-plant-in-satsumasendai-in-kagoshima-prefecture-on-kyushu-restarts-reactor-no-1-this-is-the-first-of-50-plus-s.xml)  
+
 ### [2015-08-11](/news/2015/08/11/index.md)
 
+##### Japan
 # Japan's Sendai Nuclear Power Plant in Satsumasendai in Kagoshima Prefecture on Kyushu restarts reactor no. 1. This is the first of 50-plus shut-down nuclear reactors to go back online since the 2011 Fukushima Daiichi nuclear disaster. The problems discovered in the reactor model after the disaster have not been fixed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2015/08/11/asia/japan-nuclear-reactor/)
 2. [UPI](http://www.upi.com/Business_News/Energy-Resources/2015/08/11/Japan-restarts-nuclear-reactor-first-since-Fukushima/4611439285816/)

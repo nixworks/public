@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/8/one-of-southeast-asia-s-most-wanted-terror-suspects-noordin-mohammed-top-is-allegedly-killed-after-a-16-hour-siege-at-a-house-in-java-in.html)  [JSON](/news/2009/08/8/one-of-southeast-asia-s-most-wanted-terror-suspects-noordin-mohammed-top-is-allegedly-killed-after-a-16-hour-siege-at-a-house-in-java-in.json)  [XML](/news/2009/08/8/one-of-southeast-asia-s-most-wanted-terror-suspects-noordin-mohammed-top-is-allegedly-killed-after-a-16-hour-siege-at-a-house-in-java-in.xml)  
+
 ### [2009-08-8](/news/2009/08/8/index.md)
 
+##### Asia
 #  One of Southeast Asia's most wanted terror suspects, Noordin Mohammed Top, is allegedly killed after a 16 hour siege at a house in Java, Indonesia. 
 
 Police raid house where Noordin Mohammed Top and accomplices believed to be hiding.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/08/200987213621943955.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8190071.stm)

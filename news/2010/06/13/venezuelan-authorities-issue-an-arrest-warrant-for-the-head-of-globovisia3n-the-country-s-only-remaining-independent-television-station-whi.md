@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/13/venezuelan-authorities-issue-an-arrest-warrant-for-the-head-of-globovisia3n-the-country-s-only-remaining-independent-television-station-whi.html)  [JSON](/news/2010/06/13/venezuelan-authorities-issue-an-arrest-warrant-for-the-head-of-globovisia3n-the-country-s-only-remaining-independent-television-station-whi.json)  [XML](/news/2010/06/13/venezuelan-authorities-issue-an-arrest-warrant-for-the-head-of-globovisia3n-the-country-s-only-remaining-independent-television-station-whi.xml)  
+
 ### [2010-06-13](/news/2010/06/13/index.md)
 
+##### Venezuela
 # Venezuelan authorities issue an arrest warrant for the head of Globovision, the country's only remaining independent television station which criticises President of Venezuela Hugo Chavez. 
 
 Warrant issued for head of only remaining independent TV station critical of Hugo Chavez.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/06/20106131536642627.html)
 1. [Cover Image](http://www.aljazeera.com)

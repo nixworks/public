@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/11/28/south-korea-s-yonhap-news-agency-reports-north-korea-appears-to-conduct-a-submarine-launched-ballistic-missile-test-that-ended-in-failure-wi.html)  [JSON](/news/2015/11/28/south-korea-s-yonhap-news-agency-reports-north-korea-appears-to-conduct-a-submarine-launched-ballistic-missile-test-that-ended-in-failure-wi.json)  [XML](/news/2015/11/28/south-korea-s-yonhap-news-agency-reports-north-korea-appears-to-conduct-a-submarine-launched-ballistic-missile-test-that-ended-in-failure-wi.xml)  
+
 ### [2015-11-28](/news/2015/11/28/index.md)
 
+##### South Korea
 # South Korea's Yonhap news agency reports North Korea appears to conduct a submarine-launched ballistic missile test that ended in failure with no indication that the missile successfully ejected from the vessel and took off. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/28/us-northkorea-missile-idUSKBN0TH09M20151128)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151128&t=2&i=1098283074&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBAR05K)
+1. [Reuters](https://www.reuters.com/article/2015/11/28/us-northkorea-missile-idUSKBN0TH09M20151128)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20151128&t=2&i=1098283074&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBAR05K)
 
 ### Related:
 

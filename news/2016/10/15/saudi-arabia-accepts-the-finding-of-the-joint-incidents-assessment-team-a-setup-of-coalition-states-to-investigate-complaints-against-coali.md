@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/15/saudi-arabia-accepts-the-finding-of-the-joint-i
 
 ### [2016-10-15](/news/2016/10/15/index.md)
 
+##### Saudi Arabian-led intervention in Yemen
 # Saudi Arabia accepts the finding of the Joint Incidents Assessment Team, a setup of coalition states to investigate complaints against coalitions conduct in Decisive Storm, that the October 8 coalition's bombardment at a funeral ceremony in Sana'a, in which over 140 people were killed and more than 600 injured, was based on wrong information. 
 
 JEDDAH: A joint investigation team on Saturday found that the Saudi-led Coalition bombed a funeral ceremony in Sanaa last week based on wrong information that the hall was packed with Houthi leaders. Some 140 people were killed in the bombing and more than 600 were wounded in the air strike on Oct.

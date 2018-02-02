@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/10/three-men-are-detained-in-relation-to-the-theft-of-the-corpse-of-former-cypriot-president-tassos-papadopoulos.html)  [JSON](/news/2010/03/10/three-men-are-detained-in-relation-to-the-theft-of-the-corpse-of-former-cypriot-president-tassos-papadopoulos.json)  [XML](/news/2010/03/10/three-men-are-detained-in-relation-to-the-theft-of-the-corpse-of-former-cypriot-president-tassos-papadopoulos.xml)  
+
 ### [2010-03-10](/news/2010/03/10/index.md)
 
+##### Cyprus
 # Three men are detained in relation to the theft of the corpse of former Cypriot President Tassos Papadopoulos. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8558979.stm)
 

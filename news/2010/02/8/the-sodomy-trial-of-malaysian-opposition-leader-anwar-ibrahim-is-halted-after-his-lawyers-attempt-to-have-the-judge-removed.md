@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/8/the-sodomy-trial-of-malaysian-opposition-leader-anwar-ibrahim-is-halted-after-his-lawyers-attempt-to-have-the-judge-removed.html)  [JSON](/news/2010/02/8/the-sodomy-trial-of-malaysian-opposition-leader-anwar-ibrahim-is-halted-after-his-lawyers-attempt-to-have-the-judge-removed.json)  [XML](/news/2010/02/8/the-sodomy-trial-of-malaysian-opposition-leader-anwar-ibrahim-is-halted-after-his-lawyers-attempt-to-have-the-judge-removed.xml)  
+
 ### [2010-02-8](/news/2010/02/8/index.md)
 
+##### sodomy
 # The sodomy trial of Malaysian opposition leader Anwar Ibrahim is halted after his lawyers attempt to have the judge removed. 
 
 Proceedings halted as lawyers for opposition leader seeks to remove presiding judge.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/02/20102882054509647.html)
 2. [Bernama](http://www.bernama.com/bernama/v5/newsindex.php?id=474210)

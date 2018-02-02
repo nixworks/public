@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/18/the-u-s-abandons-its-criminal-investigation-of-angelo-mozilo-former-chairman-of-countrywide-financial-in-connection-with-countrywide-s-col.html)  [JSON](/news/2011/02/18/the-u-s-abandons-its-criminal-investigation-of-angelo-mozilo-former-chairman-of-countrywide-financial-in-connection-with-countrywide-s-col.json)  [XML](/news/2011/02/18/the-u-s-abandons-its-criminal-investigation-of-angelo-mozilo-former-chairman-of-countrywide-financial-in-connection-with-countrywide-s-col.xml)  
+
 ### [2011-02-18](/news/2011/02/18/index.md)
 
+##### Angelo Mozilo
 # The U.S. abandons its criminal investigation of Angelo Mozilo former chairman of Countrywide Financial, in connection with Countrywide's collapse in 2007-08. Mozilo settled a civil action four months ago. 
 
 Federal prosecutors have shelved a criminal investigation of Angelo R. Mozilo after determining that his actions in the mortgage meltdown — which led to $67.5-million settlement against him —...
 
 
-### Source:
+### Sources:
 
 1. [L.A. Times](http://articles.latimes.com/2011/feb/18/business/la-fi-mozilo-20110219)
 1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

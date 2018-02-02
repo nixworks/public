@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/17/zamboanga-bombings-two-bombs-exploded-in-the-main-shopping-district-of-the-mostly-christian-city-of-zamboanga-in-the-southern-philippines.html)  [JSON](/news/2002/10/17/zamboanga-bombings-two-bombs-exploded-in-the-main-shopping-district-of-the-mostly-christian-city-of-zamboanga-in-the-southern-philippines.json)  [XML](/news/2002/10/17/zamboanga-bombings-two-bombs-exploded-in-the-main-shopping-district-of-the-mostly-christian-city-of-zamboanga-in-the-southern-philippines.xml)  
+
 ### [2002-10-17](/news/2002/10/17/index.md)
 
+##### bombings
 #  Zamboanga bombings: Two bombs exploded in the main shopping district of the mostly Christian city of Zamboanga in the southern Philippines, killing six and wounding about 150. It was the second major evident terrorist incident in southeast Asia in less than a week. Suspicion immediately focused on Jemaah Islamiyah, an Islamic extremist group also being investigated for the October 11 Bali car bombing, in which more than 180 people died.
 
 

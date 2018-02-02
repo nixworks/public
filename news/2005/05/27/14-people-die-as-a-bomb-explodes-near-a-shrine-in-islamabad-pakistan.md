@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/05/27/14-people-die-as-a-bomb-explodes-near-a-shrine-in-islamabad-pakistan.html)  [JSON](/news/2005/05/27/14-people-die-as-a-bomb-explodes-near-a-shrine-in-islamabad-pakistan.json)  [XML](/news/2005/05/27/14-people-die-as-a-bomb-explodes-near-a-shrine-in-islamabad-pakistan.xml)  
+
 ### [2005-05-27](/news/2005/05/27/index.md)
 
+##### Islamabad
 #  14 people die as a bomb explodes near a shrine in Islamabad, Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/525469AC-9239-4B85-8EE5-4B625927FD77.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4585489.stm)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aRYK95UQ35DA&refer=top_world_news)
+3. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000087&sid=aRYK95UQ35DA&refer=top_world_news)
 
 ### Related:
 
@@ -17,4 +21,4 @@
 2. [The Afghan Taliban releases a statement rejecting peace talks with the government of Afghanistan until foreign forces stop attacking their positions and withdraw from the country. Direct peace talks between the government and the Taliban were expected to take place in Islamabad, Pakistan next week. ](/news/2016/03/5/the-afghan-taliban-releases-a-statement-rejecting-peace-talks-with-the-government-of-afghanistan-until-foreign-forces-stop-attacking-their-p.md) _Context: Islamabad, Pakistan_
 3. [The government of Pakistan warns that it will push to clear the Islamist protests occurring in Islamabad. Protests have broken out in the capital and other cities ever since Mumtaz Qadri was executed last February for his role in killing Punjab governor Salmaan Taseer in 2011 because he opposed Pakistan's blasphemy laws. ](/news/2016/03/30/the-government-of-pakistan-warns-that-it-will-push-to-clear-the-islamist-protests-occurring-in-islamabad-protests-have-broken-out-in-the-ca.md) _Context: Islamabad, Pakistan_
 4. [Sartaj Aziz, a top foreign affairs adviser for Pakistan, publicly admits for the first time that the Afghan Taliban's leadership is living in the country and that Islamabad has "considerable influence" over them. ](/news/2016/03/3/sartaj-aziz-a-top-foreign-affairs-adviser-for-pakistan-publicly-admits-for-the-first-time-that-the-afghan-taliban-s-leadership-is-living-i.md) _Context: Islamabad, Pakistan_
-5. [Thousands of protestors rally in front of the Parliament of Pakistan in Islamabad in support of Mumtaz Qadri, the killer of reformist Punjab governor Salmaan Taseer in 2011 who was subsequently executed last February. The Pakistan Army was called in to control the situation. ](/news/2016/03/28/thousands-of-protestors-rally-in-front-of-the-parliament-of-pakistan-in-islamabad-in-support-of-mumtaz-qadri-the-killer-of-reformist-punjab.md) _Context: Islamabad, Pakistan_
+5. [ Thousands of protestors rally in front of the Parliament of Pakistan in Islamabad in support of Mumtaz Qadri, the killer of reformist Punjab governor Salmaan Taseer in 2011 who was subsequently executed last February. The Pakistan Army was called in to control the situation. ](/news/2016/03/28/thousands-of-protestors-rally-in-front-of-the-parliament-of-pakistan-in-islamabad-in-support-of-mumtaz-qadri-the-killer-of-reformist-punja.md) _Context: Islamabad, Pakistan_

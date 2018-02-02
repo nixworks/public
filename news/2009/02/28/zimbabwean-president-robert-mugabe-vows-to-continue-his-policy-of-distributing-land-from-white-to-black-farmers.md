@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/28/zimbabwean-president-robert-mugabe-vows-to-continue-his-policy-of-distributing-land-from-white-to-black-farmers.html)  [JSON](/news/2009/02/28/zimbabwean-president-robert-mugabe-vows-to-continue-his-policy-of-distributing-land-from-white-to-black-farmers.json)  [XML](/news/2009/02/28/zimbabwean-president-robert-mugabe-vows-to-continue-his-policy-of-distributing-land-from-white-to-black-farmers.xml)  
+
 ### [2009-02-28](/news/2009/02/28/index.md)
 
+##### Zimbabwe
 #  Zimbabwean President Robert Mugabe vows to continue his policy of distributing land from white to black farmers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7916312.stm)
 

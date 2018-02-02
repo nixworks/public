@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/13/a-fatal-attack-on-a-tourist-by-a-dinosaur-sized-shark-off-the-coast-of-cape-town-south-africa-prompts-the-closure-of-several-beaches.html)  [JSON](/news/2010/01/13/a-fatal-attack-on-a-tourist-by-a-dinosaur-sized-shark-off-the-coast-of-cape-town-south-africa-prompts-the-closure-of-several-beaches.json)  [XML](/news/2010/01/13/a-fatal-attack-on-a-tourist-by-a-dinosaur-sized-shark-off-the-coast-of-cape-town-south-africa-prompts-the-closure-of-several-beaches.xml)  
+
 ### [2010-01-13](/news/2010/01/13/index.md)
 
+##### Cape Town
 # A fatal attack on a tourist by a "dinosaur-sized" shark off the coast of Cape Town, South Africa, prompts the closure of several beaches. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jxTLzs7LQ7toyoAbN2Bcq_f6zddg)
 2. [Discovery News](http://news.discovery.com/animals/dinosaur-sized-shark-kills-tourist.html)

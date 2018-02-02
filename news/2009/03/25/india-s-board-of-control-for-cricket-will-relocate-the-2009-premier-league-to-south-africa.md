@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/25/india-s-board-of-control-for-cricket-will-relocate-the-2009-premier-league-to-south-africa.html)  [JSON](/news/2009/03/25/india-s-board-of-control-for-cricket-will-relocate-the-2009-premier-league-to-south-africa.json)  [XML](/news/2009/03/25/india-s-board-of-control-for-cricket-will-relocate-the-2009-premier-league-to-south-africa.xml)  
+
 ### [2009-03-25](/news/2009/03/25/index.md)
 
+##### India
 #  India's Board of Control for Cricket will relocate the 2009 Premier League to South Africa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/cricket/7958664.stm)
 

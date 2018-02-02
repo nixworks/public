@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2011/01/12/the-jamaican-coast-guard-intercepts-a-honduran-vessel-fishing-near-pedro-cays-killing-the-captain-and-wounding-two-crewmen.html)  [JSON](/news/2011/01/12/the-jamaican-coast-guard-intercepts-a-honduran-vessel-fishing-near-pedro-cays-killing-the-captain-and-wounding-two-crewmen.json)  [XML](/news/2011/01/12/the-jamaican-coast-guard-intercepts-a-honduran-vessel-fishing-near-pedro-cays-killing-the-captain-and-wounding-two-crewmen.xml)  
+
 ### [2011-01-12](/news/2011/01/12/index.md)
 
+##### Jamaica
 # The Jamaican Coast Guard intercepts a Honduran vessel fishing near Pedro Cays, killing the captain and wounding two crewmen. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC](http://abcnews.go.com/International/wireStory?id=12593832)
 
 ### Related:
 
-1. [Four people, including a pregnant woman, are killed and dozens injured when a rush of fans try to enter an already-at-capacity Tiburcio Caras Andino Stadium before the Honduran Clausura final in Tegucigalpa, Honduras. Police are investigating possible overselling of tickets. ](/news/2017/05/28/four-people-including-a-pregnant-woman-are-killed-and-dozens-injured-when-a-rush-of-fans-try-to-enter-an-already-at-capacity-tiburcio-cari.md) _Context: Honduras_
-2. [Heavy rains from Hurricane Matthew's outer bands drench Haiti and Jamaica, killing a Haitian fisherman. The Category 4 storm, with 140 mph ((220 km-h) maximum sustained winds), is heading towards western Haiti, eastern Cuba, and the southeastern and central Bahamas. ](/news/2016/10/3/heavy-rains-from-hurricane-matthew-s-outer-bands-drench-haiti-and-jamaica-killing-a-haitian-fisherman-the-category-4-storm-with-140-mph.md) _Context: Jamaica_
-3. [Hurricane Matthew, at Category 4 strength with maximum sustained winds of 150 mph (240 km-h), temporarily stalls as it heads towards Jamaica and Haiti. Weather forecasters expect tropical storm conditions today with landfall tomorrow. Further, they expect rainfall of 20 inches, with up to 40 inches in some parts of southern Haiti. ](/news/2016/10/2/hurricane-matthew-at-category-4-strength-with-maximum-sustained-winds-of-150-mph-240-km-h-temporarily-stalls-as-it-heads-towards-jamaica.md) _Context: Jamaica_
-4. [Hurricane Matthew becomes a category-5 hurricane with maximum sustained winds up to 160 mph, the strongest hurricane to form over the Caribbean Sea since Hurricane Felix in 2007. It is expected to impact parts of Haiti, Jamaica and eastern Cuba. ](/news/2016/09/30/hurricane-matthew-becomes-a-category-5-hurricane-with-maximum-sustained-winds-up-to-160-mph-the-strongest-hurricane-to-form-over-the-caribb.md) _Context: Jamaica_
-5. [A 6.1 magnitude earthquake hits the northwestern coast of Nicaragua not far from the Honduran border. "La Prensa" reports the walls of a church collapsed in the city of Chinandega. There are no immediate reports of casualties. ](/news/2016/06/9/a-6-1-magnitude-earthquake-hits-the-northwestern-coast-of-nicaragua-not-far-from-the-honduran-border-la-prensa-reports-the-walls-of-a-chu.md) _Context: Honduras_
+1. [A magnitude 7.6 earthquake strikes north of Honduras, resulting in tsunami warnings in the Caribbean. ](/news/2018/01/9/a-magnitude-7-6-earthquake-strikes-north-of-honduras-resulting-in-tsunami-warnings-in-the-caribbean.md) _Context: Honduras_
+2. [Six people are killed, including Hilda Hernandez, sister of Honduran President Juan Orlando Hernandez, in a helicopter accident that was headed to Comayagua from Toncontin International Airport in Tegucigalpa. ](/news/2017/12/16/six-people-are-killed-including-hilda-herna-ndez-sister-of-honduran-president-juan-orlando-herna-ndez-in-a-helicopter-accident-that-was-h.md) _Context: Honduras_
+3. [The government of Honduran President Juan Orlando Hernndez, who is seeking re-election, imposes a ten-day curfew after allegations of electoral fraud and calls for an election recount resulted in violent protests across the country. ](/news/2017/12/1/the-government-of-honduran-president-juan-orlando-hernandez-who-is-seeking-re-election-imposes-a-ten-day-curfew-after-allegations-of-elect.md) _Context: Honduras_
+4. [The United States will end the temporary protected status program (TPS) for more than 300,000 refugees from El Salvador, Haiti, Honduras, and Nicaragua. Many of the refugees have already left for Canada, where it is easier to get asylum. ](/news/2017/11/4/the-united-states-will-end-the-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-el-salvador-haiti-honduras-an.md) _Context: Honduras_
+5. [Voters in Honduras go to the polls to elect a president for the country, with current President Juan Orlando Hernndez running for a second term, marking the first time a sitting president sought reelection. ](/news/2017/11/26/voters-in-honduras-go-to-the-polls-to-elect-a-president-for-the-country-with-current-president-juan-orlando-hernandez-running-for-a-second.md) _Context: Honduras_

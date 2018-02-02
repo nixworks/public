@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/6/us-president-bush-signs-partial-birth-abortion-ban-act-this-new-law-supported-by-70-of-americans-takes-effect-in-all-states-but-nebrask.html)  [JSON](/news/2003/11/6/us-president-bush-signs-partial-birth-abortion-ban-act-this-new-law-supported-by-70-of-americans-takes-effect-in-all-states-but-nebrask.json)  [XML](/news/2003/11/6/us-president-bush-signs-partial-birth-abortion-ban-act-this-new-law-supported-by-70-of-americans-takes-effect-in-all-states-but-nebrask.xml)  
+
 ### [2003-11-6](/news/2003/11/6/index.md)
 
+##### George W. Bush
 #  US President Bush signs Partial-Birth Abortion Ban Act. This new law, supported by 70% of Americans, takes effect in all states but Nebraska.
 
 

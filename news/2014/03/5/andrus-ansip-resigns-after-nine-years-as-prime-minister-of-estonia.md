@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/5/andrus-ansip-resigns-after-nine-years-as-prime-minister-of-estonia.html)  [JSON](/news/2014/03/5/andrus-ansip-resigns-after-nine-years-as-prime-minister-of-estonia.json)  [XML](/news/2014/03/5/andrus-ansip-resigns-after-nine-years-as-prime-minister-of-estonia.xml)  
+
 ### [2014-03-5](/news/2014/03/5/index.md)
 
+##### Andrus Ansip
 # Andrus Ansip resigns after nine years as prime minister of Estonia. 
 
 After nine years in office, Estonian PM Andrus Ansip announces his resignation to enable a successor to lead his party into 2015 elections.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-26430899)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73348000/jpg/_73348676_020403375-1.jpg)

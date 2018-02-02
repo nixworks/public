@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/09/22/the-emergency-economic-stabilization-act-of-2008-is-debated-on-by-the-110th-united-states-congress.html)  [JSON](/news/2008/09/22/the-emergency-economic-stabilization-act-of-2008-is-debated-on-by-the-110th-united-states-congress.json)  [XML](/news/2008/09/22/the-emergency-economic-stabilization-act-of-2008-is-debated-on-by-the-110th-united-states-congress.xml)  
+
 ### [2008-09-22](/news/2008/09/22/index.md)
 
+##### Emergency Economic Stabilization Act
 #  The Emergency Economic Stabilization Act of 2008 is debated on by the 110th United States Congress. 
 
 A week of intense negotiation is expected as Congressional Democrats said they wanted greater oversight of the Treasury, among other measures.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/09/22/business/22paulson.html)
-2. [The New York Times](http://www.nytimes.com/2008/09/23/business/23markets.html)
+1. [The New York Times](https://www.nytimes.com/2008/09/22/business/22paulson.html)
+2. [The New York Times](https://www.nytimes.com/2008/09/23/business/23markets.html)
 2. [Cover Image](https://static01.nyt.com/images/2008/09/22/business/22paulson-inline1-75.jpg)
 
 ### Related:

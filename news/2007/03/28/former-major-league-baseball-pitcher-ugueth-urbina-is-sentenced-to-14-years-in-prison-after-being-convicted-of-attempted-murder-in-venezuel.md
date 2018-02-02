@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2007/03/28/former-major-league-baseball-pitcher-ugueth-urbina-is-sentenced-to-14-years-in-prison-after-being-convicted-of-attempted-murder-in-venezuel.html)  [JSON](/news/2007/03/28/former-major-league-baseball-pitcher-ugueth-urbina-is-sentenced-to-14-years-in-prison-after-being-convicted-of-attempted-murder-in-venezuel.json)  [XML](/news/2007/03/28/former-major-league-baseball-pitcher-ugueth-urbina-is-sentenced-to-14-years-in-prison-after-being-convicted-of-attempted-murder-in-venezuel.xml)  
+
 ### [2007-03-28](/news/2007/03/28/index.md)
 
+##### Major League Baseball
 #  Former Major League Baseball pitcher Ugueth Urbina is sentenced to 14 years in prison after being convicted of attempted murder in Venezuela. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://sports.espn.go.com/mlb/news/story?id=2815590)
 1. [Cover Image](http://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fmlb%2F500%2Fphi.png)
 
 ### Related:
 
-1. [Roy Halladay pitches the 20th perfect game in Major League Baseball history in the Philadelphia Phillies' 1-0 win over the Florida Marlins. ](/news/2010/05/29/roy-halladay-pitches-the-20th-perfect-game-in-major-league-baseball-history-in-the-philadelphia-phillies-1a0-win-over-the-florida-marlins.md) _Context: Major League Baseball, pitcher_
-2. [ Former Major League Baseball pitcher Roger Clemens testifies to the United States House Committee on Oversight and Government Reform regarding performance enhancing drugs. ](/news/2008/02/13/former-major-league-baseball-pitcher-roger-clemens-testifies-to-the-united-states-house-committee-on-oversight-and-government-reform-regard.md) _Context: Major League Baseball, pitcher_
-3. [Voters in Venezuela go to the polls to elect new state governors, resulting in the incumbent socialist party winning the majority of the governorships, a result disputed by the opposition. ](/news/2017/10/15/voters-in-venezuela-go-to-the-polls-to-elect-new-state-governors-resulting-in-the-incumbent-socialist-party-winning-the-majority-of-the-gov.md) _Context: Venezuela_
-4. [The White House announces that citizens of North Korea, Venezuela, and Chad will be restricted from travelling to the United States, along with citizens of the six nations previously listed in Executive Order 13780 with the exception of Sudan. ](/news/2017/09/24/the-white-house-announces-that-citizens-of-north-korea-venezuela-and-chad-will-be-restricted-from-travelling-to-the-united-states-along-w.md) _Context: Venezuela_
-5. [The U.S. imposes new sanctions on eight Venezuelan officials, including Secretary of the 2017 Constituent Assembly Adan Chavez - the late President Hugo Chavez's brother, to "deter further democratic backsliding" in the South American country. ](/news/2017/08/9/the-u-s-imposes-new-sanctions-on-eight-venezuelan-officials-including-secretary-of-the-2017-constituent-assembly-ada-n-cha-vez-the-late.md) _Context: Venezuela_
+1. [ Former Major League Baseball pitcher Roger Clemens testifies to the United States House Committee on Oversight and Government Reform regarding performance enhancing drugs. ](/news/2008/02/13/former-major-league-baseball-pitcher-roger-clemens-testifies-to-the-united-states-house-committee-on-oversight-and-government-reform-regard.md) _Context: Major League Baseball, pitcher_
+2. [Venezuelan President Nicolas Maduro announces the creation of the petro cryptocurrency in a bid to ease the country's ongoing socioeconomic crisis. ](/news/2017/12/3/venezuelan-president-nicola-s-maduro-announces-the-creation-of-the-petro-cryptocurrency-in-a-bid-to-ease-the-country-s-ongoing-socioeconomic.md) _Context: Venezuela_
+3. [Venezuela and Rosneft sign agreements on gas exploration and exploitation. ](/news/2017/12/17/venezuela-and-rosneft-sign-agreements-on-gas-exploration-and-exploitation.md) _Context: Venezuela_
+4. [Venezuelan President Nicolas Maduro, who is up for re-election, bans the main opposition parties, Justice First, Democratic Action and Popular Will from running in next year's presidential election. ](/news/2017/12/10/venezuelan-president-nicola-s-maduro-who-is-up-for-re-election-bans-the-main-opposition-parties-justice-first-democratic-action-and-popu.md) _Context: Venezuela_
+5. [Venezuela defaults on sovereign debt and bonds issued by state oil firm PDVSA (Petroleos de Venezuela, S.A.). ](/news/2017/11/16/venezuela-defaults-on-sovereign-debt-and-bonds-issued-by-state-oil-firm-pdvsa-petra3leos-de-venezuela-s-a.md) _Context: Venezuela_

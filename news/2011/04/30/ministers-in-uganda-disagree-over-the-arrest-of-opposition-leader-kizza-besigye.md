@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/30/ministers-in-uganda-disagree-over-the-arrest-of-opposition-leader-kizza-besigye.html)  [JSON](/news/2011/04/30/ministers-in-uganda-disagree-over-the-arrest-of-opposition-leader-kizza-besigye.json)  [XML](/news/2011/04/30/ministers-in-uganda-disagree-over-the-arrest-of-opposition-leader-kizza-besigye.xml)  
+
 ### [2011-04-30](/news/2011/04/30/index.md)
 
+##### Uganda
 # Ministers in Uganda disagree over the arrest of opposition leader Kizza Besigye. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Nation](http://www.nation.co.ke/News/africa/Ugandan+ministers+differ+over+arrest+of+Besigye+/-/1066/1154012/-/8ie9ej/-/)
 

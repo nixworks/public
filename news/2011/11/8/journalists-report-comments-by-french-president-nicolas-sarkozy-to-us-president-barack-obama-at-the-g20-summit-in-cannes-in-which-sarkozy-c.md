@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/8/journalists-report-comments-by-french-president-nicolas-sarkozy-to-us-president-barack-obama-at-the-g20-summit-in-cannes-in-which-sarkozy-c.html)  [JSON](/news/2011/11/8/journalists-report-comments-by-french-president-nicolas-sarkozy-to-us-president-barack-obama-at-the-g20-summit-in-cannes-in-which-sarkozy-c.json)  [XML](/news/2011/11/8/journalists-report-comments-by-french-president-nicolas-sarkozy-to-us-president-barack-obama-at-the-g20-summit-in-cannes-in-which-sarkozy-c.xml)  
+
 ### [2011-11-8](/news/2011/11/8/index.md)
 
+##### French President
 # Journalists report comments by French President Nicolas Sarkozy to US President Barack Obama at the G20 summit in Cannes, in which Sarkozy called Israeli Prime Minister Benjamin Netanyahu a "liar". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-15635476)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/56557000/jpg/_56557557_sarkobamagetty.jpg)

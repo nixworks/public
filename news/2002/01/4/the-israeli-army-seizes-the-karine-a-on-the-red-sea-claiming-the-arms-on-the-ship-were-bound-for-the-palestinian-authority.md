@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/01/4/the-israeli-army-seizes-the-karine-a-on-the-red-sea-claiming-the-arms-on-the-ship-were-bound-for-the-palestinian-authority.html)  [JSON](/news/2002/01/4/the-israeli-army-seizes-the-karine-a-on-the-red-sea-claiming-the-arms-on-the-ship-were-bound-for-the-palestinian-authority.json)  [XML](/news/2002/01/4/the-israeli-army-seizes-the-karine-a-on-the-red-sea-claiming-the-arms-on-the-ship-were-bound-for-the-palestinian-authority.xml)  
+
 ### [2002-01-4](/news/2002/01/4/index.md)
 
+##### Israeli Army
 # The Israeli Army seizes the Karine A on the Red Sea, claiming the arms on the ship were bound for the Palestinian Authority.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/23/cambodia-and-thailand-clash-on-their-border.html)  [JSON](/news/2011/04/23/cambodia-and-thailand-clash-on-their-border.json)  [XML](/news/2011/04/23/cambodia-and-thailand-clash-on-their-border.xml)  
+
 ### [2011-04-23](/news/2011/04/23/index.md)
 
+##### Cambodia
 # Cambodia and Thailand clash on their border. 
 
 At least four soldiers die in renewed fighting on the Thai-Cambodia border, bringing the death toll to 10 in two days.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/04/201142323946554672.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13173906)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/26/noma-located-in-copenhagen-denmark-is-named-as-the-world-s-best-restaurant-in-restaurant-magazine-s-annual-survey.html)  [JSON](/news/2010/04/26/noma-located-in-copenhagen-denmark-is-named-as-the-world-s-best-restaurant-in-restaurant-magazine-s-annual-survey.json)  [XML](/news/2010/04/26/noma-located-in-copenhagen-denmark-is-named-as-the-world-s-best-restaurant-in-restaurant-magazine-s-annual-survey.xml)  
+
 ### [2010-04-26](/news/2010/04/26/index.md)
 
+##### Noma
 # Noma, located in Copenhagen, Denmark, is named as the "world's best restaurant" in "Restaurant" magazine's annual survey. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/lifeandstyle/2010/apr/26/rene-redzepi-noma-best-restaurant)
 

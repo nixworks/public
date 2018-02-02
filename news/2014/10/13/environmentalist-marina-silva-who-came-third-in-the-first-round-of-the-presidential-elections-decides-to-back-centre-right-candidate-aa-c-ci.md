@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2014/10/13/environmentalist-marina-silva-who-came-third-in-the-first-round-of-the-presidential-elections-decides-to-back-centre-right-candidate-aa-c-ci.html)  [JSON](/news/2014/10/13/environmentalist-marina-silva-who-came-third-in-the-first-round-of-the-presidential-elections-decides-to-back-centre-right-candidate-aa-c-ci.json)  [XML](/news/2014/10/13/environmentalist-marina-silva-who-came-third-in-the-first-round-of-the-presidential-elections-decides-to-back-centre-right-candidate-aa-c-ci.xml)  
+
 ### [2014-10-13](/news/2014/10/13/index.md)
 
+##### 2014
 # Environmentalist Marina Silva, who came third in the first round of the presidential elections, decides to back centre-right candidate Aecio Neves following an open letter from Neves to the nation where he promises to include in his manifesto issues such as land reform, the demarcation of indigenous lands, the rights of rural communities and environmental concerns. 
 
 Influential Brazilian environmentalist Marina Silva backs opposition candidate Aecio Neves against Dilma Rousseff in the presidential poll run-off.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-29590608)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/78168000/jpg/_78168012_024175955-1.jpg)
+
+### Changes:
+
+1. [Brazilian general election, 2014: Environmentalist Marina Silva, who came third in the first round of the presidential elections, decides to back centre-right candidate Aecio Neves following an open letter from Neves to the nation where he promises to include in his manifesto issues such as land reform, the demarcation of indigenous lands, the rights of rural communities and environmental concerns. ](/news/2014/10/13/brazilian-general-election-2014-environmentalist-marina-silva-who-came-third-in-the-first-round-of-the-presidential-elections-decides-to.md) _2017-08-27 03:41:24 (First version)_
+1. [Environmentalist Marina Silva, who came third in the first round of the presidential elections, decides to back centre-right candidate Aecio Neves following an open letter from Neves to the nation where he promises to include in his manifesto issues such as land reform, the demarcation of indigenous lands, the rights of rural communities and environmental concerns. ](/news/2014/10/13/environmentalist-marina-silva-who-came-third-in-the-first-round-of-the-presidential-elections-decides-to-back-centre-right-candidate-aa-c-ci.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Influential Brazilian environmentalist Marina Silva backs opposition candidate A
 3. [Kazakhstan police detain dozens of protesters during rallies against proposed land reforms in the former Central Asian Soviet Republic. ](/news/2016/05/21/kazakhstan-police-detain-dozens-of-protesters-during-rallies-against-proposed-land-reforms-in-the-former-central-asian-soviet-republic.md) _Context: land reform_
 4. [A committee of Brazil's Chamber of Deputies votes 38-27 to recommend the impeachment of President Dilma Rousseff, who faces charges of breaking budget laws to support her re-election in 2014. ](/news/2016/04/11/a-committee-of-brazil-s-chamber-of-deputies-votes-38-27-to-recommend-the-impeachment-of-president-dilma-rousseff-who-faces-charges-of-break.md) _Context: 2014_
 5. [Brazilians vote in a presidential general election using electronic machines. ](/news/2014/10/5/brazilians-vote-in-a-presidential-general-election-using-electronic-machines.md) _Context: 2014_
-
-### Changes:
-
-1. [Brazilian general election, 2014: Environmentalist Marina Silva, who came third in the first round of the presidential elections, decides to back centre-right candidate Aecio Neves following an open letter from Neves to the nation where he promises to include in his manifesto issues such as land reform, the demarcation of indigenous lands, the rights of rural communities and environmental concerns. ](/news/2014/10/13/brazilian-general-election-2014-environmentalist-marina-silva-who-came-third-in-the-first-round-of-the-presidential-elections-decides-to.md) _2017-08-27 03:41:24 (First version)_
-1. [Environmentalist Marina Silva, who came third in the first round of the presidential elections, decides to back centre-right candidate Aecio Neves following an open letter from Neves to the nation where he promises to include in his manifesto issues such as land reform, the demarcation of indigenous lands, the rights of rural communities and environmental concerns. ](/news/2014/10/13/environmentalist-marina-silva-who-came-third-in-the-first-round-of-the-presidential-elections-decides-to-back-centre-right-candidate-aa-c-ci.md) _(Current version)_

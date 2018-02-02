@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/31/the-u-s-supreme-court-has-overturned-the-conviction-of-defunct-accounting-giant-arthur-andersen-on-charges-arising-from-the-enron-scandal.html)  [JSON](/news/2005/05/31/the-u-s-supreme-court-has-overturned-the-conviction-of-defunct-accounting-giant-arthur-andersen-on-charges-arising-from-the-enron-scandal.json)  [XML](/news/2005/05/31/the-u-s-supreme-court-has-overturned-the-conviction-of-defunct-accounting-giant-arthur-andersen-on-charges-arising-from-the-enron-scandal.xml)  
+
 ### [2005-05-31](/news/2005/05/31/index.md)
 
+##### U.S. Supreme Court
 #  The U.S. Supreme Court has overturned the conviction of defunct accounting giant Arthur Andersen on charges arising from the Enron scandal, on the ground that the jury instructions were faulty, 
 
 
 
 
-### Source:
+### Sources:
 
 1. [thestreet.com](http://www.thestreet.com/markets/matthewgoldstein/10225791.html)
 

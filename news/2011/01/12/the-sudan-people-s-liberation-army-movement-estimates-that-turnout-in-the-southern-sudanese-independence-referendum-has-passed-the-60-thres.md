@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/12/the-sudan-people-s-liberation-army-movement-estimates-that-turnout-in-the-southern-sudanese-independence-referendum-has-passed-the-60-thres.html)  [JSON](/news/2011/01/12/the-sudan-people-s-liberation-army-movement-estimates-that-turnout-in-the-southern-sudanese-independence-referendum-has-passed-the-60-thres.json)  [XML](/news/2011/01/12/the-sudan-people-s-liberation-army-movement-estimates-that-turnout-in-the-southern-sudanese-independence-referendum-has-passed-the-60-thres.xml)  
+
 ### [2011-01-12](/news/2011/01/12/index.md)
 
+##### Sudan People's Liberation Army/Movement
 # The Sudan People's Liberation Army-Movement estimates that turnout in the Southern Sudanese independence referendum has passed the 60% threshold for the result to be declared valid. 
 
 Officials say the 60 per cent benchmark needed to validate secession referendum has been met by fourth day of voting.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iVIrJgu59Y8m9FEcf4hUkiDxS7ZA?docId=CNG.79051d79183e793007bb7e2a0ac433c8.191)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/201111295248314494.html)

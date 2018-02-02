@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/21/former-british-prime-minister-margaret-thatcher-undergoes-surgery-for-a-growth-in-her-bladder.html)  [JSON](/news/2012/12/21/former-british-prime-minister-margaret-thatcher-undergoes-surgery-for-a-growth-in-her-bladder.json)  [XML](/news/2012/12/21/former-british-prime-minister-margaret-thatcher-undergoes-surgery-for-a-growth-in-her-bladder.xml)  
+
 ### [2012-12-21](/news/2012/12/21/index.md)
 
+##### Prime Minister
 # Former British Prime Minister Margaret Thatcher undergoes surgery for a growth in her bladder. 
 
 Former UK prime minister Margaret Thatcher is recovering in hospital after having a growth removed from her bladder.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20820887)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64909000/jpg/_64909799_64909798.jpg)

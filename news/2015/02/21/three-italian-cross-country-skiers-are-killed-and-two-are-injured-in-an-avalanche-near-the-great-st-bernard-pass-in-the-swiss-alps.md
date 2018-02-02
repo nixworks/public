@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/21/three-italian-cross-country-skiers-are-killed-and-two-are-injured-in-an-avalanche-near-the-great-st-bernard-pass-in-the-swiss-alps.html)  [JSON](/news/2015/02/21/three-italian-cross-country-skiers-are-killed-and-two-are-injured-in-an-avalanche-near-the-great-st-bernard-pass-in-the-swiss-alps.json)  [XML](/news/2015/02/21/three-italian-cross-country-skiers-are-killed-and-two-are-injured-in-an-avalanche-near-the-great-st-bernard-pass-in-the-swiss-alps.xml)  
+
 ### [2015-02-21](/news/2015/02/21/index.md)
 
+##### Italian
 # Three Italian cross-country skiers are killed and two are injured in an avalanche near the Great St Bernard Pass in the Swiss Alps. 
 
 Three Italians are killed after an avalanche in an area known as Death Valley in the Swiss Alps, police say.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2015-02-22/three-italians-killed-in-swiss-alps-avalanche-police/6188814)
 1. [Cover Image](http://www.abc.net.au/news/image/6189316-1x1-700x700.jpg)

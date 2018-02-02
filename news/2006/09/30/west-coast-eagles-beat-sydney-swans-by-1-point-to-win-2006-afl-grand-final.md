@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/09/30/west-coast-eagles-beat-sydney-swans-by-1-point-to-win-2006-afl-grand-final.html)  [JSON](/news/2006/09/30/west-coast-eagles-beat-sydney-swans-by-1-point-to-win-2006-afl-grand-final.json)  [XML](/news/2006/09/30/west-coast-eagles-beat-sydney-swans-by-1-point-to-win-2006-afl-grand-final.xml)  
+
 ### [2006-09-30](/news/2006/09/30/index.md)
 
+##### West Coast Eagles
 #  West Coast Eagles beat Sydney Swans by 1 point to win 2006 AFL Grand Final.
 
 

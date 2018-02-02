@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/5/china-emphasizes-domestic-demand-and-targets-8-economic-growth-in-2009.html)  [JSON](/news/2009/03/5/china-emphasizes-domestic-demand-and-targets-8-economic-growth-in-2009.json)  [XML](/news/2009/03/5/china-emphasizes-domestic-demand-and-targets-8-economic-growth-in-2009.xml)  
+
 ### [2009-03-5](/news/2009/03/5/index.md)
 
+##### China
 #  China emphasizes domestic demand and targets 8% economic growth in 2009. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua News](http://news.xinhuanet.com/english/2009-03/05/content_10948049.htm)
 

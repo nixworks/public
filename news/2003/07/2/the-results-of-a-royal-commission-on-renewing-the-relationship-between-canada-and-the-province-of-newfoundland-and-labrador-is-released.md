@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2003/07/2/the-results-of-a-royal-commission-on-renewing-the-relationship-between-canada-and-the-province-of-newfoundland-and-labrador-is-released.html)  [JSON](/news/2003/07/2/the-results-of-a-royal-commission-on-renewing-the-relationship-between-canada-and-the-province-of-newfoundland-and-labrador-is-released.json)  [XML](/news/2003/07/2/the-results-of-a-royal-commission-on-renewing-the-relationship-between-canada-and-the-province-of-newfoundland-and-labrador-is-released.xml)  
+
 ### [2003-07-2](/news/2003/07/2/index.md)
 
+##### Royal Commission
 #  The results of a Royal Commission on renewing the relationship between Canada and the province of Newfoundland and Labrador is released. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Canadian Government](http://www.gov.nf.ca/royalcomm/finalreport/default.html)
 

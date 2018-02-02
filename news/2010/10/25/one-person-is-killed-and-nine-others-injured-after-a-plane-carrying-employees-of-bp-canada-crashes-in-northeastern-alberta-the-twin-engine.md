@@ -1,17 +1,20 @@
+
+Formats: [HTML](/news/2010/10/25/one-person-is-killed-and-nine-others-injured-after-a-plane-carrying-employees-of-bp-canada-crashes-in-northeastern-alberta-the-twin-engine.html)  [JSON](/news/2010/10/25/one-person-is-killed-and-nine-others-injured-after-a-plane-carrying-employees-of-bp-canada-crashes-in-northeastern-alberta-the-twin-engine.json)  [XML](/news/2010/10/25/one-person-is-killed-and-nine-others-injured-after-a-plane-carrying-employees-of-bp-canada-crashes-in-northeastern-alberta-the-twin-engine.xml)  
+
 ### [2010-10-25](/news/2010/10/25/index.md)
 
+##### BP Canada
 # One person is killed and nine others injured after a plane carrying employees of BP Canada crashes in northeastern Alberta. The twin-engine King Air 100 was on its way from Edmonton City Centre Airport to Kirby Lake, southeast of Conklin. 
 
 BP Canada employees aboard aircraft that went down near Conklin
 
 
-### Source:
+### Sources:
 
 1. [Calgary Herald](http://www.calgaryherald.com/news/dead+nine+hurt+northern+Alberta+plane+crash+carrying+Canada+oilpatch/3724414/story.html)
 2. [Canada](http://www.canada.com/news/dead+hurt+northern+Alberta+plane+crash/3723305/story.html)
 3. [Edmonton Journal](http://www.edmontonjournal.com/news/dead+nine+hurt+northern+Alberta+plane+crash/3723180/story.html)
-4. [Globe and mail](http://www.theglobeandmail.com/news/national/plane-carrying-oil-workers-crash-lands-in-northern-alberta-at-least-1-dead/article1772073/)
-4. [Cover Image](http://beta.images.theglobeandmail.com/media/www/images/flag/gam-square.png)
+4. [Globe and mail](https://www.theglobeandmail.com/news/national/plane-carrying-oil-workers-crash-lands-in-northern-alberta-at-least-1-dead/article1772073/)
 
 ### Related:
 

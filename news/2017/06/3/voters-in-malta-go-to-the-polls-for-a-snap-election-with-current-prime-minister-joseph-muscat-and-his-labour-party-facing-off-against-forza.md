@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/3/voters-in-malta-go-to-the-polls-for-a-snap-elect
 
 ### [2017-06-3](/news/2017/06/3/index.md)
 
+##### Maltese general election, 2017
 # Voters in Malta go to the polls for a snap election, with current Prime Minister Joseph Muscat and his Labour Party facing off against Forza Nazzjonali, led by Simon Busuttil. The election comes amid corruption allegations leveled against Muscat's associates. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/22/hundreds-of-thousands-of-muslim-kashmiris-demonstrate-in-the-indian-state-of-jammu-and-kashmir-demanding-independence-from-india.html)  [JSON](/news/2008/08/22/hundreds-of-thousands-of-muslim-kashmiris-demonstrate-in-the-indian-state-of-jammu-and-kashmir-demanding-independence-from-india.json)  [XML](/news/2008/08/22/hundreds-of-thousands-of-muslim-kashmiris-demonstrate-in-the-indian-state-of-jammu-and-kashmir-demanding-independence-from-india.xml)  
+
 ### [2008-08-22](/news/2008/08/22/index.md)
 
+##### India
 #  Hundreds of thousands of Muslim Kashmiris demonstrate in the Indian state of Jammu and Kashmir demanding independence from India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7576156.stm)
 

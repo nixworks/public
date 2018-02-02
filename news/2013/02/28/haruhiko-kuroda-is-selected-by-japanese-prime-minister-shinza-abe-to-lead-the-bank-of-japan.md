@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/28/haruhiko-kuroda-is-selected-by-japanese-prime-minister-shinza-abe-to-lead-the-bank-of-japan.html)  [JSON](/news/2013/02/28/haruhiko-kuroda-is-selected-by-japanese-prime-minister-shinza-abe-to-lead-the-bank-of-japan.json)  [XML](/news/2013/02/28/haruhiko-kuroda-is-selected-by-japanese-prime-minister-shinza-abe-to-lead-the-bank-of-japan.xml)  
+
 ### [2013-02-28](/news/2013/02/28/index.md)
 
+##### Haruhiko Kuroda
 # Haruhiko Kuroda is selected by Japanese Prime Minister Shinzo Abe to lead the Bank of Japan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2013/02/27/news/economy/kuroda-bank-of-japan/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/4/nicolas-sarkozy-has-reportedly-told-david-cameron-that-it-was-stupid-of-him-to-pull-the-conservative-party-out-of-the-european-people-s-p.html)  [JSON](/news/2009/10/4/nicolas-sarkozy-has-reportedly-told-david-cameron-that-it-was-stupid-of-him-to-pull-the-conservative-party-out-of-the-european-people-s-p.json)  [XML](/news/2009/10/4/nicolas-sarkozy-has-reportedly-told-david-cameron-that-it-was-stupid-of-him-to-pull-the-conservative-party-out-of-the-european-people-s-p.xml)  
+
 ### [2009-10-4](/news/2009/10/4/index.md)
 
+##### Nicolas Sarkozy
 #  Nicolas Sarkozy has reportedly told David Cameron that it was "stupid" of him to pull the Conservative Party out of the European People's Party, with other world leaders such as Angela Merkel and Barack Obama also expressing their surprise at the move. 
 
 French President Nicolas Sarkozy angrily told David Cameron he was &#034;stupid&#034; for pulling the Conservatives out of the main centre-right grouping in the European Parliament.
 
 
-### Source:
+### Sources:
 
 1. [The Sunday Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/david-cameron/6257715/Nicolas-Sarkozy-told-David-Cameron-he-was-stupid-for-pulling-out-of-European-group.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01494/cameron_sarkozy_1494990a.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/13/dr-carla-hayden-is-confirmed-to-be-the-14th-lib
 
 ### [2016-07-13](/news/2016/07/13/index.md)
 
+##### Carla Hayden
 # Dr. Carla Hayden is confirmed to be the 14th Librarian of Congress, becoming the first woman and African-American to lead the Library of Congress.
 
 

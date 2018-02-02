@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/21/french-national-front-presidential-candidate-ma
 
 ### [2017-02-21](/news/2017/02/21/index.md)
 
+##### France-Lebanon relations
 # French National Front presidential candidate Marine Le Pen leaves before her scheduled meeting in Beirut with Lebanon's top Sunni Muslim religious leader, Grand Mufti Abdellatif Deryan, following her refusal to accept the offered headscarf to cover her hair. Le Pen's aides had been informed earlier about the traditional, religious need for a headscarf for this meeting. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/20/a-pilot-dies-as-an-raf-red-arrows-aeroplane-crashes-at-the-bournemouth-air-festival-following-a-display.html)  [JSON](/news/2011/08/20/a-pilot-dies-as-an-raf-red-arrows-aeroplane-crashes-at-the-bournemouth-air-festival-following-a-display.json)  [XML](/news/2011/08/20/a-pilot-dies-as-an-raf-red-arrows-aeroplane-crashes-at-the-bournemouth-air-festival-following-a-display.xml)  
+
 ### [2011-08-20](/news/2011/08/20/index.md)
 
+##### Royal Air Force
 # A pilot dies as an RAF Red Arrows aeroplane crashes at the Bournemouth Air Festival following a display. 
 
 An RAF Red Arrows pilot dies when his plane crashes following a display at the Bournemouth Air Festival in Dorset.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-14602900)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54719000/jpg/_54719639_red4-fltltjonegging.jpg)

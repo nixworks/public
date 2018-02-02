@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/17/the-archbishop-of-canterbury-rowan-williams-the-leader-of-the-world-wide-anglican-communion-is-challenged-to-rethink-his-personal-stance.html)  [JSON](/news/2005/11/17/the-archbishop-of-canterbury-rowan-williams-the-leader-of-the-world-wide-anglican-communion-is-challenged-to-rethink-his-personal-stance.json)  [XML](/news/2005/11/17/the-archbishop-of-canterbury-rowan-williams-the-leader-of-the-world-wide-anglican-communion-is-challenged-to-rethink-his-personal-stance.xml)  
+
 ### [2005-11-17](/news/2005/11/17/index.md)
 
+##### Archbishop of Canterbury
 #  The Archbishop of Canterbury Rowan Williams, the leader of the world-wide Anglican Communion, is challenged to rethink his personal stance on the ordination of gay clergy in the light of scripture by nearly half of all the Anglican Primates. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian Online](http://www.guardian.co.uk/religion/Story/0,2763,1644268,00.html)
 

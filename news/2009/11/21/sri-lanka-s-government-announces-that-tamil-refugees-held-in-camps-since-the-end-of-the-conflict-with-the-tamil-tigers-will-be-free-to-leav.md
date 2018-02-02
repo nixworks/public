@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/21/sri-lanka-s-government-announces-that-tamil-refugees-held-in-camps-since-the-end-of-the-conflict-with-the-tamil-tigers-will-be-free-to-leav.html)  [JSON](/news/2009/11/21/sri-lanka-s-government-announces-that-tamil-refugees-held-in-camps-since-the-end-of-the-conflict-with-the-tamil-tigers-will-be-free-to-leav.json)  [XML](/news/2009/11/21/sri-lanka-s-government-announces-that-tamil-refugees-held-in-camps-since-the-end-of-the-conflict-with-the-tamil-tigers-will-be-free-to-leav.xml)  
+
 ### [2009-11-21](/news/2009/11/21/index.md)
 
+##### Sri Lanka
 #  Sri Lanka's government announces that Tamil refugees held in camps since the end of the conflict with the Tamil Tigers will be free to leave the camps next month. 
 
 Government official says last batch of inmates of detention camps to go home in December.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/11/200911219933906785.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8371820.stm)

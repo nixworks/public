@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/10/voting-concludes-in-the-marathon-elections-in-india.html)  [JSON](/news/2004/05/10/voting-concludes-in-the-marathon-elections-in-india.json)  [XML](/news/2004/05/10/voting-concludes-in-the-marathon-elections-in-india.xml)  
+
 ### [2004-05-10](/news/2004/05/10/index.md)
 
+##### marathon elections
 #  Voting concludes in the marathon elections in India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IHT](http://www.iht.com/articles/519230.html)
 

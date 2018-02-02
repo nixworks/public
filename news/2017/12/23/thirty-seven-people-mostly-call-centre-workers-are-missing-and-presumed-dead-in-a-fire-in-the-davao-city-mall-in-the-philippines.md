@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/23/thirty-seven-people-mostly-call-centre-workers-
 
 ### [2017-12-23](/news/2017/12/23/index.md)
 
+##### 2017 Davao City mall fire
 # Thirty-seven people, mostly call centre workers, are missing and presumed dead in a fire in the Davao City Mall in the Philippines. 
 
 A DEVASTATING fire ravaged a popular shopping mall that has left at least 37 people feared dead, it has emerged.

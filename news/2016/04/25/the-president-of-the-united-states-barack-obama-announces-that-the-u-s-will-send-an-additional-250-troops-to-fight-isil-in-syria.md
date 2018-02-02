@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/25/the-president-of-the-united-states-barack-obama
 
 ### [2016-04-25](/news/2016/04/25/index.md)
 
+##### American-led intervention in Syria
 # The President of the United States Barack Obama announces that the U.S. will send an additional 250 troops to fight ISIL in Syria. 
 
 US president expected to give details of new deployment during visit to Hanover

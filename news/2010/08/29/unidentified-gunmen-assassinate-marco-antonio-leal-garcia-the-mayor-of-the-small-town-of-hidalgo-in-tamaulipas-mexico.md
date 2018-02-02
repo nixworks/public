@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/29/unidentified-gunmen-assassinate-marco-antonio-leal-garcia-the-mayor-of-the-small-town-of-hidalgo-in-tamaulipas-mexico.html)  [JSON](/news/2010/08/29/unidentified-gunmen-assassinate-marco-antonio-leal-garcia-the-mayor-of-the-small-town-of-hidalgo-in-tamaulipas-mexico.json)  [XML](/news/2010/08/29/unidentified-gunmen-assassinate-marco-antonio-leal-garcia-the-mayor-of-the-small-town-of-hidalgo-in-tamaulipas-mexico.xml)  
+
 ### [2010-08-29](/news/2010/08/29/index.md)
 
+##### mayor
 # Unidentified gunmen assassinate Marco Antonio Leal Garcia, the mayor of the small town of Hidalgo in Tamaulipas, Mexico. 
 
 Gunmen murdered the mayor of a town in the Mexican state of Tamaulipas where 72 migrants were massacred last week.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/mayor-assassinated-in-mexico-20100830-13y8g.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

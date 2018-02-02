@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/2/president-of-china-hu-jintao-warns-of-attempts-to-westernise-the-country-by-hostile-powers.html)  [JSON](/news/2012/01/2/president-of-china-hu-jintao-warns-of-attempts-to-westernise-the-country-by-hostile-powers.json)  [XML](/news/2012/01/2/president-of-china-hu-jintao-warns-of-attempts-to-westernise-the-country-by-hostile-powers.xml)  
+
 ### [2012-01-2](/news/2012/01/2/index.md)
 
+##### Chinese President
 # President of China Hu Jintao warns of attempts to "westernise" the country by "hostile powers". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/world/hu-jintao-laments-westernisation-1.1206941)
 

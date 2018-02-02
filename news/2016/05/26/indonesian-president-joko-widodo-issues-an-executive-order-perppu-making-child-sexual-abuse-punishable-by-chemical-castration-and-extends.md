@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/26/indonesian-president-joko-widodo-issues-an-exec
 
 ### [2016-05-26](/news/2016/05/26/index.md)
 
+##### President of Indonesia
 # Indonesian President Joko Widodo issues an executive order (Perppu) making child sexual abuse punishable by chemical castration and extends the maximum penalty to death. 
 
 Indonesian President Joko Widodo on Wednesday signed an executive order declaring that child sexual abuse is punishable by chemical castration and death.

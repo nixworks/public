@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/06/16/the-police-chief-of-nuevo-laredo-mexico-alejandro-dominguez-is-gunned-down-just-seven-hours-after-his-inauguration.html)  [JSON](/news/2005/06/16/the-police-chief-of-nuevo-laredo-mexico-alejandro-dominguez-is-gunned-down-just-seven-hours-after-his-inauguration.json)  [XML](/news/2005/06/16/the-police-chief-of-nuevo-laredo-mexico-alejandro-dominguez-is-gunned-down-just-seven-hours-after-his-inauguration.xml)  
+
 ### [2005-06-16](/news/2005/06/16/index.md)
 
+##### Nuevo Laredo
 #  The police chief of Nuevo Laredo, Mexico, Alejandro Domnguez, is gunned down just seven hours after his inauguration.
 
 

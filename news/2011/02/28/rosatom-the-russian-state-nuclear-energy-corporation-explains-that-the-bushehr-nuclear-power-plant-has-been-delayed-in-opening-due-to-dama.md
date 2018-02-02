@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/02/28/rosatom-the-russian-state-nuclear-energy-corporation-explains-that-the-bushehr-nuclear-power-plant-has-been-delayed-in-opening-due-to-dama.html)  [JSON](/news/2011/02/28/rosatom-the-russian-state-nuclear-energy-corporation-explains-that-the-bushehr-nuclear-power-plant-has-been-delayed-in-opening-due-to-dama.json)  [XML](/news/2011/02/28/rosatom-the-russian-state-nuclear-energy-corporation-explains-that-the-bushehr-nuclear-power-plant-has-been-delayed-in-opening-due-to-dama.xml)  
+
 ### [2011-02-28](/news/2011/02/28/index.md)
 
+##### Rosatom
 # Rosatom, the Russian state nuclear energy corporation, explains that the Bushehr Nuclear Power Plant has been delayed in opening due to damage to the nuclear reactor's cooling pumps. 
 
 The account of what happened at the Bushehr plant was the first official rationale for a delay in its planned opening.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2011/03/01/world/middleeast/01nuke.html)
+1. [New York Times](https://www.nytimes.com/2011/03/01/world/middleeast/01nuke.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

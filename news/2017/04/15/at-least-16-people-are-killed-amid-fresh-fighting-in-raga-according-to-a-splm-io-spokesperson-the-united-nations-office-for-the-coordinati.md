@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/15/at-least-16-people-are-killed-amid-fresh-fighti
 
 ### [2017-04-15](/news/2017/04/15/index.md)
 
+##### South Sudanese Civil War
 # At least 16 people are killed amid fresh fighting in Raga, according to a SPLM-IO spokesperson. The United Nations Office for the Coordination of Humanitarian Affairs said that over 60 humanitarian aid workers were forced to flee. 
 
 Violence in eastern South Sudan forces 60 aid workers to flee as new battles erupt in the northwestern town of Raga.

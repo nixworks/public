@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2014/02/11/a-military-transport-plane-has-crashed-in-a-mountainous-area-of-oum-el-bouaghi-province-in-eastern-algeria-killing-77-people.html)  [JSON](/news/2014/02/11/a-military-transport-plane-has-crashed-in-a-mountainous-area-of-oum-el-bouaghi-province-in-eastern-algeria-killing-77-people.json)  [XML](/news/2014/02/11/a-military-transport-plane-has-crashed-in-a-mountainous-area-of-oum-el-bouaghi-province-in-eastern-algeria-killing-77-people.xml)  
+
 ### [2014-02-11](/news/2014/02/11/index.md)
 
+##### military transport plane has crashed
 # A military transport plane has crashed in a mountainous area of Oum El Bouaghi Province in eastern Algeria, killing 77 people. 
 
 A military transport plane carrying members of the Algerian armed forces and their relatives crashed into a mountain on Tuesday, killing 77 people, the worst air disaster in the North African country in a decade.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-26138101)
-2. [Reuters](http://www.reuters.com/article/2014/02/11/us-algeria-crash-idUSBREA1A0YK20140211?feedType=RSS&feedName=topNews)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140211&t=2&i=837436045&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA1A1N5S00)
+2. [Reuters](https://www.reuters.com/article/2014/02/11/us-algeria-crash-idUSBREA1A0YK20140211?feedType=RSS&feedName=topNews)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140211&t=2&i=837436045&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA1A1N5S00)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/23/two-supporters-of-defeated-independent-state-candidate-angelina-teny-are-killed-by-police-and-four-others-are-injured-during-post-election-p.html)  [JSON](/news/2010/04/23/two-supporters-of-defeated-independent-state-candidate-angelina-teny-are-killed-by-police-and-four-others-are-injured-during-post-election-p.json)  [XML](/news/2010/04/23/two-supporters-of-defeated-independent-state-candidate-angelina-teny-are-killed-by-police-and-four-others-are-injured-during-post-election-p.xml)  
+
 ### [2010-04-23](/news/2010/04/23/index.md)
 
+##### Angelina Teny
 # Two supporters of defeated independent state candidate Angelina Teny are killed by police and four others are injured during post-election protests in Bentiu. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8641331.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE63M52Z20100423?feedType=RSS&feedName=worldNews)

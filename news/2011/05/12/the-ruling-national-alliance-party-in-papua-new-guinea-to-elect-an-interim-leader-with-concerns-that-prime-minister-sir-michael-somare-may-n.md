@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/12/the-ruling-national-alliance-party-in-papua-new-guinea-to-elect-an-interim-leader-with-concerns-that-prime-minister-sir-michael-somare-may-n.html)  [JSON](/news/2011/05/12/the-ruling-national-alliance-party-in-papua-new-guinea-to-elect-an-interim-leader-with-concerns-that-prime-minister-sir-michael-somare-may-n.json)  [XML](/news/2011/05/12/the-ruling-national-alliance-party-in-papua-new-guinea-to-elect-an-interim-leader-with-concerns-that-prime-minister-sir-michael-somare-may-n.xml)  
+
 ### [2011-05-12](/news/2011/05/12/index.md)
 
+##### National Alliance Party
 # The ruling National Alliance Party in Papua New Guinea to elect an interim leader with concerns that Prime Minister Sir Michael Somare may not return to office after having heart surgery in Singapore. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''The Australian](http://www.theaustralian.com.au/news/png-meets-to-appoint-new-leader-with-concerns-prime-minister-sir-michael-somare-may-not-return-to-office/story-e6frg6n6-1226054738634)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/26/colombian-forces-kill-32-farc-rebels-in-the-latest-government-offensive.html)  [JSON](/news/2012/03/26/colombian-forces-kill-32-farc-rebels-in-the-latest-government-offensive.json)  [XML](/news/2012/03/26/colombian-forces-kill-32-farc-rebels-in-the-latest-government-offensive.xml)  
+
 ### [2012-03-26](/news/2012/03/26/index.md)
 
+##### Colombia
 # Colombian forces kill 32 FARC rebels in the latest government offensive. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/03/2012326174841341915.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/2/27/201222722580480734_20.jpg)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/11/3/ousted-egyptian-president-mohamed-morsi-s-trial-starts-in-cairo-s-police-academy-he-faces-charges-of-inciting-violence-and-murder-in-connec.html)  [JSON](/news/2013/11/3/ousted-egyptian-president-mohamed-morsi-s-trial-starts-in-cairo-s-police-academy-he-faces-charges-of-inciting-violence-and-murder-in-connec.json)  [XML](/news/2013/11/3/ousted-egyptian-president-mohamed-morsi-s-trial-starts-in-cairo-s-police-academy-he-faces-charges-of-inciting-violence-and-murder-in-connec.xml)  
+
 ### [2013-11-3](/news/2013/11/3/index.md)
 
+##### Mohamed Morsi
 # Ousted Egyptian president Mohamed Morsi's trial starts in Cairo's police academy. He faces charges of inciting violence and murder in connection with clashes at the presidential palace in Cairo in December 2012. 
 
 The trial of deposed Egyptian president Mohammed Mursi has been adjourned until 8 January.
 
 
-### Source:
+### Sources:
 
 1. [RTE](http://www.rte.ie/news/2013/1104/484445-mohamed-morsi-egypt/)
-2. [Reuters](http://www.reuters.com/article/2013/11/04/us-egypt-mursi-trial-idUSBRE9A303P20131104)
+2. [Reuters](https://www.reuters.com/article/2013/11/04/us-egypt-mursi-trial-idUSBRE9A303P20131104)
 2. [Cover Image](https://img.rasset.ie/00081596-1600.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/19/pope-francis-names-a-new-pontifical-commission-to-investigate-current-accounting-practices-among-all-vatican-offices-and-bodies-and-to-help.html)  [JSON](/news/2013/07/19/pope-francis-names-a-new-pontifical-commission-to-investigate-current-accounting-practices-among-all-vatican-offices-and-bodies-and-to-help.json)  [XML](/news/2013/07/19/pope-francis-names-a-new-pontifical-commission-to-investigate-current-accounting-practices-among-all-vatican-offices-and-bodies-and-to-help.xml)  
+
 ### [2013-07-19](/news/2013/07/19/index.md)
 
+##### Pope Francis
 # Pope Francis names a new Pontifical Commission to investigate current accounting practices among all Vatican offices and bodies and to help devise new strategies for greater fiscal responsibility and fiscal transparency. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Catholic News Service](http://www.catholicnews.com/data/stories/cns/1303112.htm)
 

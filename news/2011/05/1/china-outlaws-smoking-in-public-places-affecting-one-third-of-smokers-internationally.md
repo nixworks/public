@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/1/china-outlaws-smoking-in-public-places-affecting-one-third-of-smokers-internationally.html)  [JSON](/news/2011/05/1/china-outlaws-smoking-in-public-places-affecting-one-third-of-smokers-internationally.json)  [XML](/news/2011/05/1/china-outlaws-smoking-in-public-places-affecting-one-third-of-smokers-internationally.xml)  
+
 ### [2011-05-1](/news/2011/05/1/index.md)
 
+##### China
 # China outlaws smoking in public places, affecting one third of smokers internationally. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/13251926)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52386000/jpg/_52386680_chinasmoker.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/16/maoist-guerillas-kill-six-villagers-in-an-alleged-revenge-attack-in-chhattisgarh-india.html)  [JSON](/news/2010/05/16/maoist-guerillas-kill-six-villagers-in-an-alleged-revenge-attack-in-chhattisgarh-india.json)  [XML](/news/2010/05/16/maoist-guerillas-kill-six-villagers-in-an-alleged-revenge-attack-in-chhattisgarh-india.xml)  
+
 ### [2010-05-16](/news/2010/05/16/index.md)
 
+##### Naxalite-Maoist insurgency
 # Maoist guerillas kill six villagers in an alleged revenge attack in Chhattisgarh, India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jZkSPT5PFJ8RooKIE6sHFMC34zTg)
 2. [Hindustan Times](http://www.hindustantimes.com/Six-civilians-two-Maoists-killed-in-Chhattisgarh/H1-Article3-544342.aspx)

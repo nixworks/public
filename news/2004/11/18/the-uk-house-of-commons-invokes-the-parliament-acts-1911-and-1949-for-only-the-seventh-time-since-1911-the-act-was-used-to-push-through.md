@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/18/the-uk-house-of-commons-invokes-the-parliament-acts-1911-and-1949-for-only-the-seventh-time-since-1911-the-act-was-used-to-push-through.html)  [JSON](/news/2004/11/18/the-uk-house-of-commons-invokes-the-parliament-acts-1911-and-1949-for-only-the-seventh-time-since-1911-the-act-was-used-to-push-through.json)  [XML](/news/2004/11/18/the-uk-house-of-commons-invokes-the-parliament-acts-1911-and-1949-for-only-the-seventh-time-since-1911-the-act-was-used-to-push-through.xml)  
+
 ### [2004-11-18](/news/2004/11/18/index.md)
 
+##### British House of Commons
 #  The UK House of Commons invokes the Parliament Acts 1911 and 1949 for only the seventh time (since 1911). The Act was used to push through a bill which bans 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/4024171.stm)
 2. [Hunting with dogs](http://news.bbc.co.uk/1/hi/uk_politics/4021627.stm)

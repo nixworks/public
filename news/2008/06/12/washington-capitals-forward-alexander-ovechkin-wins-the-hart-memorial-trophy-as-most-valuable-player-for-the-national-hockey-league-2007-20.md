@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2008/06/12/washington-capitals-forward-alexander-ovechkin-wins-the-hart-memorial-trophy-as-most-valuable-player-for-the-national-hockey-league-2007-20.html)  [JSON](/news/2008/06/12/washington-capitals-forward-alexander-ovechkin-wins-the-hart-memorial-trophy-as-most-valuable-player-for-the-national-hockey-league-2007-20.json)  [XML](/news/2008/06/12/washington-capitals-forward-alexander-ovechkin-wins-the-hart-memorial-trophy-as-most-valuable-player-for-the-national-hockey-league-2007-20.xml)  
+
 ### [2008-06-12](/news/2008/06/12/index.md)
 
+##### Washington Capitals
 #  Washington Capitals forward Alexander Ovechkin wins the Hart Memorial Trophy as most valuable player for the National Hockey League 2007-2008 season as well as the Art Ross Trophy for most points and the Rocket Richard Trophy for top goal scorer. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [TSN](http://www.tsn.ca/nhl/story/?id=240513&lid=headline&lpos=topStory_main)
-1. [Cover Image](http://www.tsn.ca/img/tsn/logos/tsn-logo.png)
+1. [TSN](https://www.tsn.ca/nhl/story/?id=240513&lid=headline&lpos=topStory_main)
 
 ### Related:
 

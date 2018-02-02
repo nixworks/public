@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/11/5/the-400th-anniversary-of-guy-fawkes-attempt-to-blown-up-parliament-with-king-james-i-of-england-inside.html)  [JSON](/news/2005/11/5/the-400th-anniversary-of-guy-fawkes-attempt-to-blown-up-parliament-with-king-james-i-of-england-inside.json)  [XML](/news/2005/11/5/the-400th-anniversary-of-guy-fawkes-attempt-to-blown-up-parliament-with-king-james-i-of-england-inside.xml)  
+
 ### [2005-11-5](/news/2005/11/5/index.md)
 
+##### Guy Fawkes
 #  The 400th anniversary of Guy Fawkes' attempt to blown up parliament with King James I of England inside.
 
 

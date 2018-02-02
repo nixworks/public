@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/28/one-trainee-member-of-the-philippine-national-police-is-killed-and-six-injured-in-an-ambush-in-mountain-province.html)  [JSON](/news/2013/06/28/one-trainee-member-of-the-philippine-national-police-is-killed-and-six-injured-in-an-ambush-in-mountain-province.json)  [XML](/news/2013/06/28/one-trainee-member-of-the-philippine-national-police-is-killed-and-six-injured-in-an-ambush-in-mountain-province.xml)  
+
 ### [2013-06-28](/news/2013/06/28/index.md)
 
+##### Philippine National Police
 # One trainee member of the Philippine National Police is killed and six injured in an ambush in Mountain Province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABS-CBN News](http://www.abs-cbnnews.com/nation/06/28/13/1-pnp-trainee-killed-6-wounded-ambush)
 1. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/topics/tvpatrol/2012september/121310_npa.jpg)

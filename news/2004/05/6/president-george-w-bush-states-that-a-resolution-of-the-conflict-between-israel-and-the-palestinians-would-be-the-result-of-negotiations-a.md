@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/05/6/president-george-w-bush-states-that-a-resolution-of-the-conflict-between-israel-and-the-palestinians-would-be-the-result-of-negotiations-a.html)  [JSON](/news/2004/05/6/president-george-w-bush-states-that-a-resolution-of-the-conflict-between-israel-and-the-palestinians-would-be-the-result-of-negotiations-a.json)  [XML](/news/2004/05/6/president-george-w-bush-states-that-a-resolution-of-the-conflict-between-israel-and-the-palestinians-would-be-the-result-of-negotiations-a.xml)  
+
 ### [2004-05-6](/news/2004/05/6/index.md)
 
+##### George W. Bush
 #  President George W. Bush states that a resolution of the conflict between Israel and the Palestinians would be the result of negotiations and that the United States would oppose "any developments in the region that might endanger your (Jordan's) interests." 
 
 
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/2004/05/07/politics/07prexy.html)
-1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+1. [NYT](https://www.nytimes.com/2004/05/07/politics/07prexy.html)
 
 ### Related:
 

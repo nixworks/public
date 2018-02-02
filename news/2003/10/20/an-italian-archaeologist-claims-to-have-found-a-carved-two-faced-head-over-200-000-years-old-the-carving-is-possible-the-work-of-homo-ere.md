@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/20/an-italian-archaeologist-claims-to-have-found-a-carved-two-faced-head-over-200-000-years-old-the-carving-is-possible-the-work-of-homo-ere.html)  [JSON](/news/2003/10/20/an-italian-archaeologist-claims-to-have-found-a-carved-two-faced-head-over-200-000-years-old-the-carving-is-possible-the-work-of-homo-ere.json)  [XML](/news/2003/10/20/an-italian-archaeologist-claims-to-have-found-a-carved-two-faced-head-over-200-000-years-old-the-carving-is-possible-the-work-of-homo-ere.xml)  
+
 ### [2003-10-20](/news/2003/10/20/index.md)
 
+##### Homo erectus
 #  An Italian archaeologist claims to have found a carved two-faced head over 200,000 years old. The carving is possible the work of "Homo erectus".
 
 

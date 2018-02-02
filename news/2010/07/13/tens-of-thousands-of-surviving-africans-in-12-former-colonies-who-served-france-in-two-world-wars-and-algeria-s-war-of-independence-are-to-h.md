@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/13/tens-of-thousands-of-surviving-africans-in-12-former-colonies-who-served-france-in-two-world-wars-and-algeria-s-war-of-independence-are-to-h.html)  [JSON](/news/2010/07/13/tens-of-thousands-of-surviving-africans-in-12-former-colonies-who-served-france-in-two-world-wars-and-algeria-s-war-of-independence-are-to-h.json)  [XML](/news/2010/07/13/tens-of-thousands-of-surviving-africans-in-12-former-colonies-who-served-france-in-two-world-wars-and-algeria-s-war-of-independence-are-to-h.xml)  
+
 ### [2010-07-13](/news/2010/07/13/index.md)
 
+##### Nicolas Sarkozy
 # Tens of thousands of surviving Africans in 12 former colonies who served France in two world wars and Algeria's war of independence are to have their war pensions raised to the same level as those of their French comrades, according to Nicolas Sarkozy. 
 
 France is to raise pensions for its African war veterans to the same level as those of their French comrades, Nicolas Sarkozy says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10617955.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

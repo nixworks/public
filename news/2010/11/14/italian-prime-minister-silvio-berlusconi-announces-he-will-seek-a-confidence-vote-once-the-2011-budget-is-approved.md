@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/11/14/italian-prime-minister-silvio-berlusconi-announces-he-will-seek-a-confidence-vote-once-the-2011-budget-is-approved.html)  [JSON](/news/2010/11/14/italian-prime-minister-silvio-berlusconi-announces-he-will-seek-a-confidence-vote-once-the-2011-budget-is-approved.json)  [XML](/news/2010/11/14/italian-prime-minister-silvio-berlusconi-announces-he-will-seek-a-confidence-vote-once-the-2011-budget-is-approved.xml)  
+
 ### [2010-11-14](/news/2010/11/14/index.md)
 
+##### Italian Prime Minister
 # Italian Prime Minister Silvio Berlusconi announces he will seek a confidence vote once the 2011 budget is approved. 
 
 Italian Prime Minister Silvio Berlusconi, fighting for the survival of his government, said on Saturday he would seek a confidence vote in parliament after the 2011 budget has been approved.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6AC28N20101113)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20101113&t=2&i=248408336&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-13T195406Z_01_BTRE6AC1JAK00_RTROPTP_0_EU-BUDGET-BRITAIN)
+1. [Reuters](https://www.reuters.com/article/idUSTRE6AC28N20101113)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20101113&t=2&i=248408336&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-13T195406Z_01_BTRE6AC1JAK00_RTROPTP_0_EU-BUDGET-BRITAIN)
 
 ### Related:
 

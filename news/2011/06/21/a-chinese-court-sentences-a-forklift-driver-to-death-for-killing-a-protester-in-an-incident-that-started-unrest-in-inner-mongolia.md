@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/21/a-chinese-court-sentences-a-forklift-driver-to-death-for-killing-a-protester-in-an-incident-that-started-unrest-in-inner-mongolia.html)  [JSON](/news/2011/06/21/a-chinese-court-sentences-a-forklift-driver-to-death-for-killing-a-protester-in-an-incident-that-started-unrest-in-inner-mongolia.json)  [XML](/news/2011/06/21/a-chinese-court-sentences-a-forklift-driver-to-death-for-killing-a-protester-in-an-incident-that-started-unrest-in-inner-mongolia.xml)  
+
 ### [2011-06-21](/news/2011/06/21/index.md)
 
+##### China
 # A Chinese court sentences a forklift driver to death for killing a protester in an incident that started unrest in Inner Mongolia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_682301.html)
 

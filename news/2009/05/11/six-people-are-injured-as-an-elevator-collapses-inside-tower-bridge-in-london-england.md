@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/11/six-people-are-injured-as-an-elevator-collapses-inside-tower-bridge-in-london-england.html)  [JSON](/news/2009/05/11/six-people-are-injured-as-an-elevator-collapses-inside-tower-bridge-in-london-england.json)  [XML](/news/2009/05/11/six-people-are-injured-as-an-elevator-collapses-inside-tower-bridge-in-london-england.xml)  
+
 ### [2009-05-11](/news/2009/05/11/index.md)
 
+##### elevator
 #  Six people are injured as an elevator collapses inside Tower Bridge in London, England. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/tol/news/uk/article6266614.ece)
 

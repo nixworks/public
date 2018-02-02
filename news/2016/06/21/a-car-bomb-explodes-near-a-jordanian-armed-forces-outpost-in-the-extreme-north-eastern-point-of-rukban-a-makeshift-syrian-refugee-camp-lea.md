@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/21/a-car-bomb-explodes-near-a-jordanian-armed-forc
 
 ### [2016-06-21](/news/2016/06/21/index.md)
 
+##### Jordanian-Syrian border incidents during the Syrian Civil War
 # A car-bomb explodes near a Jordanian Armed Forces outpost in the extreme north-eastern point of Rukban, a makeshift Syrian refugee camp, leaving 6 soldiers dead and 14 injured. 
 
 Six Jordanian security personnel are killed in a suicide truck bomb attack near a makeshift refugee camp on the border with Syria, officials say.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/16/the-pentagon-announces-that-secretary-of-the-air-force-dr-james-g-roche-has-submitted-his-resignation.html)  [JSON](/news/2004/11/16/the-pentagon-announces-that-secretary-of-the-air-force-dr-james-g-roche-has-submitted-his-resignation.json)  [XML](/news/2004/11/16/the-pentagon-announces-that-secretary-of-the-air-force-dr-james-g-roche-has-submitted-his-resignation.xml)  
+
 ### [2004-11-16](/news/2004/11/16/index.md)
 
+##### United States military
 #  The Pentagon announces that Secretary of the Air Force, Dr. James G. Roche, has submitted his resignation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.alertnet.org/thenews/newsdesk/WAT002189.htm)
 

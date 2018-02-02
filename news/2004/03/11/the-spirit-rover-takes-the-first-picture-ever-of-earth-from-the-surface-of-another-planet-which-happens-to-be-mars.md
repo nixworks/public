@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/11/the-spirit-rover-takes-the-first-picture-ever-of-earth-from-the-surface-of-another-planet-which-happens-to-be-mars.html)  [JSON](/news/2004/03/11/the-spirit-rover-takes-the-first-picture-ever-of-earth-from-the-surface-of-another-planet-which-happens-to-be-mars.json)  [XML](/news/2004/03/11/the-spirit-rover-takes-the-first-picture-ever-of-earth-from-the-surface-of-another-planet-which-happens-to-be-mars.xml)  
+
 ### [2004-03-11](/news/2004/03/11/index.md)
 
+##### Mars Exploration Rover Mission
 #  The Spirit rover takes the first picture "ever" of Earth from the surface of another planet which happens to be Mars. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Space.com](http://www.space.com/scienceastronomy/mars_earth_040311.html)
 

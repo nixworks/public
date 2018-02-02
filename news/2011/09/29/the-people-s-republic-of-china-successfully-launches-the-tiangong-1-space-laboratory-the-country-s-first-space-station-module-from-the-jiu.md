@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/29/the-people-s-republic-of-china-successfully-launches-the-tiangong-1-space-laboratory-the-country-s-first-space-station-module-from-the-jiu.html)  [JSON](/news/2011/09/29/the-people-s-republic-of-china-successfully-launches-the-tiangong-1-space-laboratory-the-country-s-first-space-station-module-from-the-jiu.json)  [XML](/news/2011/09/29/the-people-s-republic-of-china-successfully-launches-the-tiangong-1-space-laboratory-the-country-s-first-space-station-module-from-the-jiu.xml)  
+
 ### [2011-09-29](/news/2011/09/29/index.md)
 
+##### China
 # The People's Republic of China successfully launches the Tiangong 1 space laboratory, the country's first space station module, from the Jiuquan Satellite Launch Center in Gansu Province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://usa.chinadaily.com.cn/china/2011-09/29/content_13815162.htm)
 

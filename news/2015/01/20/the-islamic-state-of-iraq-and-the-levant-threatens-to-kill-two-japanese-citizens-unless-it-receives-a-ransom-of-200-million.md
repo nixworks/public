@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2015/01/20/the-islamic-state-of-iraq-and-the-levant-threatens-to-kill-two-japanese-citizens-unless-it-receives-a-ransom-of-200-million.html)  [JSON](/news/2015/01/20/the-islamic-state-of-iraq-and-the-levant-threatens-to-kill-two-japanese-citizens-unless-it-receives-a-ransom-of-200-million.json)  [XML](/news/2015/01/20/the-islamic-state-of-iraq-and-the-levant-threatens-to-kill-two-japanese-citizens-unless-it-receives-a-ransom-of-200-million.xml)  
+
 ### [2015-01-20](/news/2015/01/20/index.md)
 
+##### ISIL
 # The Islamic State of Iraq and the Levant threatens to kill two Japanese citizens unless it receives a ransom of $200 million. 
 
 The militant group Islamic State released an online video on Tuesday purporting to show two Japanese captives and threatening to kill them unless it received $200 million in ransom.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/01/20/us-mideast-crisis-islamicstate-japan-idUSKBN0KT0GI20150120)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150120&t=2&i=1017666486&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0J0I7)
+1. [Reuters](https://www.reuters.com/article/2015/01/20/us-mideast-crisis-islamicstate-japan-idUSKBN0KT0GI20150120)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20150120&t=2&i=1017666486&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0J0I7)
 
 ### Related:
 
 1. [A monitoring group claims that ISIL has reportedly released a video showing the execution of Japanese hostage Kenji Goto. ](/news/2015/01/31/a-monitoring-group-claims-that-isil-has-reportedly-released-a-video-showing-the-execution-of-japanese-hostage-kenji-goto.md) _Context: ISIL, Japanese_
-2. [The Iraqi Army fully retakes the city of Hawija in the Kirkuk Governorate from ISIL. Fighting continues to the north and east of the city as Iraqi troops continue anti-ISIL operations in the Hawija District. ](/news/2017/10/5/the-iraqi-army-fully-retakes-the-city-of-hawija-in-the-kirkuk-governorate-from-isil-fighting-continues-to-the-north-and-east-of-the-city-as.md) _Context: ISIL_
-3. [The Iraqi Army and allied paramilitary fighters storm the ISIL-held city of Hawija in the Kirkuk Governorate. Hawija is one of the last remaining ISIL strongholds in Iraq. ](/news/2017/10/4/the-iraqi-army-and-allied-paramilitary-fighters-storm-the-isil-held-city-of-hawija-in-the-kirkuk-governorate-hawija-is-one-of-the-last-rema.md) _Context: ISIL_
-4. [U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Mirza Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. ](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-mirza-hekmati-a-u-s-marine-who-was-imprisoned-in-iran.md) _Context: $_
-5. [ISIL releases video footage of two alleged Russian soldiers it captured. However, Russia denies the claims. ](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-russia-denies-the-claims.md) _Context: ISIL_
+2. [A suicide bomber attack near a group of security personnel investigating illegal drugs and alcohol dealing in Kabul, Afghanistan, kills at least 20, wounding another 27 policemen. The Islamic State claims responsibility for the attack. ](/news/2018/01/4/a-suicide-bomber-attack-near-a-group-of-security-personnel-investigating-illegal-drugs-and-alcohol-dealing-in-kabul-afghanistan-kills-at-l.md) _Context: ISIL_
+3. [The U.S.-led coalition against ISIL says it has killed up to 150 militants in air strikes on a headquarters in Deir ez-Zor Governorate, Syria. ](/news/2018/01/24/the-u-s-led-coalition-against-isil-says-it-has-killed-up-to-150-militants-in-air-strikes-on-a-headquarters-in-deir-ez-zor-governorate-syri.md) _Context: ISIL_
+4. [Iraq announces that its war against Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vile-occupati.md) _Context: ISIL_
+5. [President Vladimir Putin declares victory over the Islamic State terror group across both banks of the river Euphrates. ](/news/2017/12/6/president-vladimir-putin-declares-victory-over-the-islamic-state-terror-group-across-both-banks-of-the-river-euphrates.md) _Context: ISIL_

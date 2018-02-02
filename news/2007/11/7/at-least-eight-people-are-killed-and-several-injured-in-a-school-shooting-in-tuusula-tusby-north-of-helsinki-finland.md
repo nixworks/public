@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/7/at-least-eight-people-are-killed-and-several-injured-in-a-school-shooting-in-tuusula-tusby-north-of-helsinki-finland.html)  [JSON](/news/2007/11/7/at-least-eight-people-are-killed-and-several-injured-in-a-school-shooting-in-tuusula-tusby-north-of-helsinki-finland.json)  [XML](/news/2007/11/7/at-least-eight-people-are-killed-and-several-injured-in-a-school-shooting-in-tuusula-tusby-north-of-helsinki-finland.xml)  
+
 ### [2007-11-7](/news/2007/11/7/index.md)
 
+##### school shooting
 #  At least eight people are killed and several injured in a school shooting in Tuusula (Tusby), north of Helsinki, Finland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7082795.stm)
 

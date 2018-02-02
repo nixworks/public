@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/23/india-forms-two-new-military-divisions-comprising-more-than-36-000-men-to-be-deployed-in-arunachal-pradesh-near-the-border-with-china.html)  [JSON](/news/2010/11/23/india-forms-two-new-military-divisions-comprising-more-than-36-000-men-to-be-deployed-in-arunachal-pradesh-near-the-border-with-china.json)  [XML](/news/2010/11/23/india-forms-two-new-military-divisions-comprising-more-than-36-000-men-to-be-deployed-in-arunachal-pradesh-near-the-border-with-china.xml)  
+
 ### [2010-11-23](/news/2010/11/23/index.md)
 
+##### India
 # India forms two new military divisions, comprising more than 36,000 men, to be deployed in Arunachal Pradesh near the border with China. 
 
 India forms two new army divisions - comprising more than 36,000 men - to defend the north-eastern state of Arunachal Pradesh.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11818840)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

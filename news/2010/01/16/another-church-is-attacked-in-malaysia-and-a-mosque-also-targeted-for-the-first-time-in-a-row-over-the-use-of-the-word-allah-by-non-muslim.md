@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/16/another-church-is-attacked-in-malaysia-and-a-mosque-also-targeted-for-the-first-time-in-a-row-over-the-use-of-the-word-allah-by-non-muslim.html)  [JSON](/news/2010/01/16/another-church-is-attacked-in-malaysia-and-a-mosque-also-targeted-for-the-first-time-in-a-row-over-the-use-of-the-word-allah-by-non-muslim.json)  [XML](/news/2010/01/16/another-church-is-attacked-in-malaysia-and-a-mosque-also-targeted-for-the-first-time-in-a-row-over-the-use-of-the-word-allah-by-non-muslim.xml)  
+
 ### [2010-01-16](/news/2010/01/16/index.md)
 
+##### Malaysia
 # Another church is attacked in Malaysia and a mosque also targeted for the first time in a row over the use of the word "Allah" by non-Muslims. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h0i9-h0mddYgQqODh6diEE-Lxpog)
 2. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Malaysian-mosque-vandalised-amid-Allah-row-/articleshow/5452621.cms)

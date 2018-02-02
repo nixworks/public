@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/15/the-international-maritime-bureau-claims-that-pirates-have-hijacked-a-bulk-carrier-with-21-crew-members-in-the-gulf-of-aden-near-somalia.html)  [JSON](/news/2008/10/15/the-international-maritime-bureau-claims-that-pirates-have-hijacked-a-bulk-carrier-with-21-crew-members-in-the-gulf-of-aden-near-somalia.json)  [XML](/news/2008/10/15/the-international-maritime-bureau-claims-that-pirates-have-hijacked-a-bulk-carrier-with-21-crew-members-in-the-gulf-of-aden-near-somalia.xml)  
+
 ### [2008-10-15](/news/2008/10/15/index.md)
 
+##### International Maritime Bureau
 #  The International Maritime Bureau claims that pirates have hijacked a bulk carrier with 21 crew members in the Gulf of Aden near Somalia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via the Charlotte Observer](http://www.charlotteobserver.com/world/story/288398.html)
 

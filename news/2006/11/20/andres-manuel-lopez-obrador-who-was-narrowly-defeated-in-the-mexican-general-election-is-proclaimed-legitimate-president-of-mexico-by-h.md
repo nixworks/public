@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/20/andres-manuel-lopez-obrador-who-was-narrowly-defeated-in-the-mexican-general-election-is-proclaimed-legitimate-president-of-mexico-by-h.html)  [JSON](/news/2006/11/20/andres-manuel-lopez-obrador-who-was-narrowly-defeated-in-the-mexican-general-election-is-proclaimed-legitimate-president-of-mexico-by-h.json)  [XML](/news/2006/11/20/andres-manuel-lopez-obrador-who-was-narrowly-defeated-in-the-mexican-general-election-is-proclaimed-legitimate-president-of-mexico-by-h.xml)  
+
 ### [2006-11-20](/news/2006/11/20/index.md)
 
+##### Andrs Manuel Lpez Obrador
 #  Andrs Manuel Lpez Obrador, who was narrowly defeated in the Mexican general election, is proclaimed "Legitimate President of Mexico" by his supporters and promises to set up a "parallel government". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6166908.stm)
 

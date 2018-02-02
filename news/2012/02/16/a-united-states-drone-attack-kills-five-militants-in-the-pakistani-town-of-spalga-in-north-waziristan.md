@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2012/02/16/a-united-states-drone-attack-kills-five-militants-in-the-pakistani-town-of-spalga-in-north-waziristan.html)  [JSON](/news/2012/02/16/a-united-states-drone-attack-kills-five-militants-in-the-pakistani-town-of-spalga-in-north-waziristan.json)  [XML](/news/2012/02/16/a-united-states-drone-attack-kills-five-militants-in-the-pakistani-town-of-spalga-in-north-waziristan.xml)  
+
 ### [2012-02-16](/news/2012/02/16/index.md)
 
+##### U.S.
 # A United States drone attack kills five militants in the Pakistani town of Spalga in north Waziristan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Dawn](http://www.dawn.com/2012/02/16/us-drone-strike-kills-five-militants-in-pakistan-officials.html)
 
 ### Related:
 
-1. [A drone attack conducted by the United States kills at least five people in Datta Khel, North Waziristan, Pakistan. ](/news/2013/04/14/a-drone-attack-conducted-by-the-united-states-kills-at-least-five-people-in-datta-khel-north-waziristan-pakistan.md) _Context: North Waziristan, Pakistan, United States, drones launch_
-2. [A United States drone attack kills ten people in the North Waziristan region of Pakistan. ](/news/2012/05/24/a-united-states-drone-attack-kills-ten-people-in-the-north-waziristan-region-of-pakistan.md) _Context: North Waziristan, Pakistan, United States, drones launch_
-3. [Pakistani officials claim that US drone missiles have killed ten people in Spalga village in North Waziristan. ](/news/2012/02/8/pakistani-officials-claim-that-us-drone-missiles-have-killed-ten-people-in-spalga-village-in-north-waziristan.md) _Context: North Waziristan, Pakistan, Spalga, drones launch_
-4. [A United States drone attack kills six militants in Pakistan's North Waziristan region. ](/news/2011/10/30/a-united-states-drone-attack-kills-six-militants-in-pakistan-s-north-waziristan-region.md) _Context: North Waziristan, Pakistan, United States, drones launch_
-5. [A United States drone attack in the Pakistani province of North Waziristan kills four militants. ](/news/2011/08/16/a-united-states-drone-attack-in-the-pakistani-province-of-north-waziristan-kills-four-militants.md) _Context: North Waziristan, Pakistan, United States, drones launch_
+1. [A United States drone attack kills ten people in the North Waziristan region of Pakistan. ](/news/2012/05/24/a-united-states-drone-attack-kills-ten-people-in-the-north-waziristan-region-of-pakistan.md) _Context: Pakistan, U.S., drone attack_
+2. [Fourteen people are killed in United States drone attacks in North Waziristan, Pakistan. ](/news/2010/11/7/fourteen-people-are-killed-in-united-states-drone-attacks-in-north-waziristan-pakistan.md) _Context: Pakistan, U.S., drone attack_
+3. [A United States drone attack kills six people in northwest Pakistan. ](/news/2010/11/1/a-united-states-drone-attack-kills-six-people-in-northwest-pakistan.md) _Context: Pakistan, U.S., drone attack_
+4. [At least 12 people die in Pakistan's North Waziristan province as United States drone attacks continue for a second day. ](/news/2010/09/15/at-least-12-people-die-in-pakistan-s-north-waziristan-province-as-united-states-drone-attacks-continue-for-a-second-day.md) _Context: Pakistan, U.S., drone attack_
+5. [Former President Pervez Musharraf travels to Dubai for medical treatment of his back and leg, before moving on to either the U.S. or U.K. for additional treatment, spokesperson Aasia Ishaque said. Musharraf, 72, will return to Pakistan to face all pending legal cases. Earlier this week, Prime Minister Nawaz Sharif's government implemented the Supreme Court ruling, and lifted the 2013 ban that barred Musharraf from international trips. ](/news/2016/03/18/former-president-pervez-musharraf-travels-to-dubai-for-medical-treatment-of-his-back-and-leg-before-moving-on-to-either-the-u-s-or-u-k-fo.md) _Context: Pakistan, U.S._

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/24/pope-francis-visits-pope-emeritus-benedict-xvi-before-celebrating-his-first-christmas-mass.html)  [JSON](/news/2013/12/24/pope-francis-visits-pope-emeritus-benedict-xvi-before-celebrating-his-first-christmas-mass.json)  [XML](/news/2013/12/24/pope-francis-visits-pope-emeritus-benedict-xvi-before-celebrating-his-first-christmas-mass.xml)  
+
 ### [2013-12-24](/news/2013/12/24/index.md)
 
+##### Pope Francis
 # Pope Francis visits Pope Emeritus Benedict XVI before celebrating his first Christmas Mass. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Slate](http://www.slate.com/blogs/the_slatest/2013/12/23/pope_francis_and_pope_benedict_meet_publically_for_only_the_second_time.html)
 

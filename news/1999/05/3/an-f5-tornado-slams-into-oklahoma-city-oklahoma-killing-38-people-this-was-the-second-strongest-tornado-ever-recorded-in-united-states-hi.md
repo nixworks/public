@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/05/3/an-f5-tornado-slams-into-oklahoma-city-oklahoma-killing-38-people-this-was-the-second-strongest-tornado-ever-recorded-in-united-states-hi.html)  [JSON](/news/1999/05/3/an-f5-tornado-slams-into-oklahoma-city-oklahoma-killing-38-people-this-was-the-second-strongest-tornado-ever-recorded-in-united-states-hi.json)  [XML](/news/1999/05/3/an-f5-tornado-slams-into-oklahoma-city-oklahoma-killing-38-people-this-was-the-second-strongest-tornado-ever-recorded-in-united-states-hi.xml)  
+
 ### [1999-05-3](/news/1999/05/3/index.md)
 
+##### Fujita scale
 #  An F5 tornado slams into Oklahoma City, Oklahoma killing 38 people. This was the second strongest tornado ever recorded in United States history. (See 1999 Oklahoma tornado outbreak). A possible tornado outbreak that has a similar force to it will take place sometime in the next 250-500 years.
 
 

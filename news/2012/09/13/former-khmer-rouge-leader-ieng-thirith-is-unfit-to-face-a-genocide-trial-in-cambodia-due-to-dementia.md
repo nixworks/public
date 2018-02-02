@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/09/13/former-khmer-rouge-leader-ieng-thirith-is-unfit-to-face-a-genocide-trial-in-cambodia-due-to-dementia.html)  [JSON](/news/2012/09/13/former-khmer-rouge-leader-ieng-thirith-is-unfit-to-face-a-genocide-trial-in-cambodia-due-to-dementia.json)  [XML](/news/2012/09/13/former-khmer-rouge-leader-ieng-thirith-is-unfit-to-face-a-genocide-trial-in-cambodia-due-to-dementia.xml)  
+
 ### [2012-09-13](/news/2012/09/13/index.md)
 
+##### Khmer Rouge
 # Former Khmer Rouge leader Ieng Thirith is unfit to face a genocide trial in Cambodia due to dementia. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/asia_pacific/khmer-rouge-defendant-ieng-thirith-ruled-unfit-for-cambodian-genocide-trial-due-to-dementia/2012/09/13/fb9b0c34-fd6a-11e1-98c6-ec0a0a93f8eb_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/asia_pacific/khmer-rouge-defendant-ieng-thirith-ruled-unfit-for-cambodian-genocide-trial-due-to-dementia/2012/09/13/fb9b0c34-fd6a-11e1-98c6-ec0a0a93f8eb_story.html)
 
 ### Related:
 

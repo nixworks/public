@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/9/in-guatemala-city-fifteen-people-die-and-twenty-are-hurt-when-a-public-bus-collides-with-a-crane.html)  [JSON](/news/2004/01/9/in-guatemala-city-fifteen-people-die-and-twenty-are-hurt-when-a-public-bus-collides-with-a-crane.json)  [XML](/news/2004/01/9/in-guatemala-city-fifteen-people-die-and-twenty-are-hurt-when-a-public-bus-collides-with-a-crane.xml)  
+
 ### [2004-01-9](/news/2004/01/9/index.md)
 
+##### Guatemala City
 #  In Guatemala City, fifteen people die and twenty are hurt when a public bus collides with a crane.
 
 

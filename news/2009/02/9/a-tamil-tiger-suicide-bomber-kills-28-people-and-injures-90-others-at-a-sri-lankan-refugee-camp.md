@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/9/a-tamil-tiger-suicide-bomber-kills-28-people-and-injures-90-others-at-a-sri-lankan-refugee-camp.html)  [JSON](/news/2009/02/9/a-tamil-tiger-suicide-bomber-kills-28-people-and-injures-90-others-at-a-sri-lankan-refugee-camp.json)  [XML](/news/2009/02/9/a-tamil-tiger-suicide-bomber-kills-28-people-and-injures-90-others-at-a-sri-lankan-refugee-camp.xml)  
+
 ### [2009-02-9](/news/2009/02/9/index.md)
 
+##### LTTE
 #  A Tamil Tiger suicide bomber kills 28 people and injures 90 others at a Sri Lankan refugee camp. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Sri-Lanka-Tamil-Tiger-Suicide-Bomber-Strikes-At-Refugee-Camp-Among-Soldiers-And-Civilians/Article/200902215219180?lpos=World_News_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15219180_Sri_Lanka%3A_Tamil_Tiger_Suicide_Bomber_Strikes_At_Refugee_Camp_Among_Soldiers_And_Civilians)
 

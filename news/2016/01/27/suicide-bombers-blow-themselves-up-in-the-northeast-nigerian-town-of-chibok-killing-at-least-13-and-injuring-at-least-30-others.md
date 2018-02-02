@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/27/suicide-bombers-blow-themselves-up-in-the-north
 
 ### [2016-01-27](/news/2016/01/27/index.md)
 
+##### Boko Haram insurgency
 # Suicide bombers blow themselves up in the northeast Nigerian town of Chibok, killing at least 13 and injuring at least 30 others. 
 
 At least 13 people were killed on Wednesday when three suicide bombers blew themselves up in the northeast Nigerian town of Chibok, where Boko Haram kidnapped more than 200 schoolgirls. The blasts happened at about midday (1100 GMT) as the remote town in Borno state was packed with traders from surrounding
@@ -24,7 +25,7 @@ At least 13 people were killed on Wednesday when three suicide bombers blew them
 ### Related:
 
 1. [Nigerian officials report, as a result of negotiations, Boko Haram has released an estimated 82 schoolgirls who were among about 220 kidnapped from a secondary school in Chibok in Borno State in April 2014. ](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-an-estimated-82-schoolgirls-who-were-among-about-220-kidnapp.md) _Context: Boko Haram insurgency, Chibok, Nigeria_
-2. [An estimated 50 people are killed when a suicide bomber attacks a mosque during morning prayers in Mubi, Nigeria. ](/news/2017/11/21/an-estimated-50-people-are-killed-when-a-suicide-bomber-attacks-a-mosque-during-morning-prayers-in-mubi-nigeria.md) _Context: Boko Haram insurgency, Nigeria_
-3. [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Boko Haram insurgency, Nigeria_
-4. [Three suicide bombers kill 27 people and wound 83 near Maiduguri, Nigeria. ](/news/2017/08/15/three-suicide-bombers-kill-27-people-and-wound-83-near-maiduguri-nigeria.md) _Context: Boko Haram insurgency, Nigeria_
-5. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _Context: Boko Haram insurgency, Nigeria_
+2. [A suicide bomber attacks a mosque in Gamboru, Nigeria, killing 11 people. ](/news/2018/01/3/a-suicide-bomber-attacks-a-mosque-in-gamboru-nigeria-killing-11-people.md) _Context: Boko Haram insurgency, Nigeria_
+3. [Suspected Boko Haram suicide bombers kill 12 people and injure 48 others, in Maiduguri, Nigeria. ](/news/2018/01/17/suspected-boko-haram-suicide-bombers-kill-12-people-and-injure-48-others-in-maiduguri-nigeria.md) _Context: Boko Haram insurgency, Nigeria_
+4. [An estimated 50 people are killed when a suicide bomber attacks a mosque during morning prayers in Mubi, Nigeria. ](/news/2017/11/21/an-estimated-50-people-are-killed-when-a-suicide-bomber-attacks-a-mosque-during-morning-prayers-in-mubi-nigeria.md) _Context: Boko Haram insurgency, Nigeria_
+5. [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Boko Haram insurgency, Nigeria_

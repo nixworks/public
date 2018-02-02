@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/15/the-new-york-stock-exchange-reaches-an-out-of-court-settlement-with-some-of-its-seat-holders-who-had-filed-a-lawsuit-in-an-effort-to-preven.html)  [JSON](/news/2005/11/15/the-new-york-stock-exchange-reaches-an-out-of-court-settlement-with-some-of-its-seat-holders-who-had-filed-a-lawsuit-in-an-effort-to-preven.json)  [XML](/news/2005/11/15/the-new-york-stock-exchange-reaches-an-out-of-court-settlement-with-some-of-its-seat-holders-who-had-filed-a-lawsuit-in-an-effort-to-preven.xml)  
+
 ### [2005-11-15](/news/2005/11/15/index.md)
 
+##### New York Stock Exchange
 #  The New York Stock Exchange reaches an out-of-court settlement with some of its seat holders who had filed a lawsuit in an effort to prevent the NYSE's proposed acquisition of electronic trading firm Archipelago Holdings. The settlement requires a new independent financial review of the merits of the deal. Dissidents complain that the NYSE is over-paying. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/business/newsArticle.aspx?type=ousiv&storyID=2005-11-16T012630Z_01_KRA580492_RTRIDST_0_BUSINESSPRO-FINANCIAL-NYSE-LAWSUIT-DC.XML)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/12/an-explosion-at-shanghai-pudong-international-a
 
 ### [2016-06-12](/news/2016/06/12/index.md)
 
+##### Shanghai Pudong International Airport
 # An explosion at Shanghai Pudong International Airport injures at least three people; the explosive appears to be homemade. 
 
 Explosion at check-in desk seems to have been caused by homemade explosive, says management

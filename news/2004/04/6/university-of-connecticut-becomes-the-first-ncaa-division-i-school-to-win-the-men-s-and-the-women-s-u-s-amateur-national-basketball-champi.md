@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/6/university-of-connecticut-becomes-the-first-ncaa-division-i-school-to-win-the-men-s-and-the-women-s-u-s-amateur-national-basketball-champi.html)  [JSON](/news/2004/04/6/university-of-connecticut-becomes-the-first-ncaa-division-i-school-to-win-the-men-s-and-the-women-s-u-s-amateur-national-basketball-champi.json)  [XML](/news/2004/04/6/university-of-connecticut-becomes-the-first-ncaa-division-i-school-to-win-the-men-s-and-the-women-s-u-s-amateur-national-basketball-champi.xml)  
+
 ### [2004-04-6](/news/2004/04/6/index.md)
 
+##### University of Connecticut
 #  University of Connecticut becomes the first NCAA Division I school to win the men's and the women's U.S. amateur national basketball championships in the same season, after the women's team three-peats. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://sports.espn.go.com/ncw/ncaatourney04/news/story?id=1777154)
 2. [Sports Illustrated](http://sportsillustrated.cnn.com/2004/basketball/ncaa/women/specials/ncaa_tourney/2004/04/06/uconn.tenn.ap/)

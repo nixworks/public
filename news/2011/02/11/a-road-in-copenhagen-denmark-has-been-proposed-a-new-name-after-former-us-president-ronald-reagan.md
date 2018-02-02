@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/11/a-road-in-copenhagen-denmark-has-been-proposed-a-new-name-after-former-us-president-ronald-reagan.html)  [JSON](/news/2011/02/11/a-road-in-copenhagen-denmark-has-been-proposed-a-new-name-after-former-us-president-ronald-reagan.json)  [XML](/news/2011/02/11/a-road-in-copenhagen-denmark-has-been-proposed-a-new-name-after-former-us-president-ronald-reagan.xml)  
+
 ### [2011-02-11](/news/2011/02/11/index.md)
 
+##### Copenhagen
 # A road in Copenhagen, Denmark has been proposed a new name after former US president Ronald Reagan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jyllandsposten](http://jp.dk/uknews/article2336716.ece)
 

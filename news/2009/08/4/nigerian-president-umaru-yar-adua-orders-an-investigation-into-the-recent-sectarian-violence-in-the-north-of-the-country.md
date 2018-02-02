@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/08/4/nigerian-president-umaru-yar-adua-orders-an-investigation-into-the-recent-sectarian-violence-in-the-north-of-the-country.html)  [JSON](/news/2009/08/4/nigerian-president-umaru-yar-adua-orders-an-investigation-into-the-recent-sectarian-violence-in-the-north-of-the-country.json)  [XML](/news/2009/08/4/nigerian-president-umaru-yar-adua-orders-an-investigation-into-the-recent-sectarian-violence-in-the-north-of-the-country.xml)  
+
 ### [2009-08-4](/news/2009/08/4/index.md)
 
+##### Nigeria
 #  Nigerian President Umaru Yar'Adua orders an investigation into the recent sectarian violence in the north of the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NEXT](http://www.234next.com/csp/cms/sites/Next/News/5441232-147/story.csp)
-2. [Reuters](http://www.reuters.com/article/africaCrisis/idUSL4619553)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/africaCrisis/idUSL4619553)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

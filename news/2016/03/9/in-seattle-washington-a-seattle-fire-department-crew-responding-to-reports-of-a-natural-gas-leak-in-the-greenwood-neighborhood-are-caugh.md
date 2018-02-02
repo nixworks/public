@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/9/in-seattle-washington-a-seattle-fire-department-
 
 ### [2016-03-9](/news/2016/03/9/index.md)
 
+##### Seattle
 # In Seattle, Washington, a Seattle Fire Department crew, responding to reports of a natural gas leak in the Greenwood neighborhood, are caught in an explosion that injures nine firefighters. The explosion blew out windows in businesses and storefronts in the surrounding blocks, destroying three businesses and heavily damaging a fourth. 
 
 Seattle fire investigators have determined a massive natural gas explosion in the Greenwood neighborhood was accidental.

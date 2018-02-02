@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/10/28/12-people-ndash-including-six-united-nations-staff-ndash-are-killed-after-taliban-militants-assault-an-international-guesthouse-in-the.html)  [JSON](/news/2009/10/28/12-people-ndash-including-six-united-nations-staff-ndash-are-killed-after-taliban-militants-assault-an-international-guesthouse-in-the.json)  [XML](/news/2009/10/28/12-people-ndash-including-six-united-nations-staff-ndash-are-killed-after-taliban-militants-assault-an-international-guesthouse-in-the.xml)  
+
 ### [2009-10-28](/news/2009/10/28/index.md)
 
+##### United Nations
 #  12 people &ndash; including six United Nations staff &ndash; are killed after Taliban militants assault an international guesthouse in the Afghan capital Kabul. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hvWEqwq3CrRvaQCmt21MfoYhjZJQD9BK2EI00)
-2. [New York Times](http://www.nytimes.com/reuters/2009/10/28/world/international-us-afghanistan.html)
+2. [New York Times](https://www.nytimes.com/reuters/2009/10/28/world/international-us-afghanistan.html)
 
 ### Related:
 

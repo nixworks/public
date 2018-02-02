@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/24/a-magnitude-7-0-undersea-earthquake-strikes-off-the-coast-of-eastern-indonesia.html)  [JSON](/news/2009/10/24/a-magnitude-7-0-undersea-earthquake-strikes-off-the-coast-of-eastern-indonesia.json)  [XML](/news/2009/10/24/a-magnitude-7-0-undersea-earthquake-strikes-off-the-coast-of-eastern-indonesia.xml)  
+
 ### [2009-10-24](/news/2009/10/24/index.md)
 
+##### earthquake
 #  A magnitude 7.0 undersea earthquake strikes off the coast of eastern Indonesia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gCeFe6qrUA2J6TpqBUjMoyp8nthAD9BHI0FO0)
 2. [Jakarta Post](http://www.thejakartapost.com/news/2009/10/24/strong-earthquake-jolts-maluku.html)

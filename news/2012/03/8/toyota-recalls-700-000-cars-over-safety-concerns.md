@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/8/toyota-recalls-700-000-cars-over-safety-concerns.html)  [JSON](/news/2012/03/8/toyota-recalls-700-000-cars-over-safety-concerns.json)  [XML](/news/2012/03/8/toyota-recalls-700-000-cars-over-safety-concerns.xml)  
+
 ### [2012-03-8](/news/2012/03/8/index.md)
 
+##### Toyota
 # Toyota recalls 700,000 cars over safety concerns. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/business/2012/mar/08/toyota-recalls-tacoma-camry-venza?newsfeed=true)
 

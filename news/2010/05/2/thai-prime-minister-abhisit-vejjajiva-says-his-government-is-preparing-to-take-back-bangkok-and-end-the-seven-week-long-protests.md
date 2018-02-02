@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/2/thai-prime-minister-abhisit-vejjajiva-says-his-government-is-preparing-to-take-back-bangkok-and-end-the-seven-week-long-protests.html)  [JSON](/news/2010/05/2/thai-prime-minister-abhisit-vejjajiva-says-his-government-is-preparing-to-take-back-bangkok-and-end-the-seven-week-long-protests.json)  [XML](/news/2010/05/2/thai-prime-minister-abhisit-vejjajiva-says-his-government-is-preparing-to-take-back-bangkok-and-end-the-seven-week-long-protests.xml)  
+
 ### [2010-05-2](/news/2010/05/2/index.md)
 
+##### Thailand
 # Thai Prime Minister Abhisit Vejjajiva says his government is preparing to take back Bangkok and end the seven-week-long protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA](http://www1.voanews.com/english/news/asia/Thai-Cabinet-Approves-Extra-Funds-to-Contain-Protests-92619294.html)
 

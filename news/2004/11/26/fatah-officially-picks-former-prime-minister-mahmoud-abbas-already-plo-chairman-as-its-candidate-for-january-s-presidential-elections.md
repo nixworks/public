@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/11/26/fatah-officially-picks-former-prime-minister-mahmoud-abbas-already-plo-chairman-as-its-candidate-for-january-s-presidential-elections.html)  [JSON](/news/2004/11/26/fatah-officially-picks-former-prime-minister-mahmoud-abbas-already-plo-chairman-as-its-candidate-for-january-s-presidential-elections.json)  [XML](/news/2004/11/26/fatah-officially-picks-former-prime-minister-mahmoud-abbas-already-plo-chairman-as-its-candidate-for-january-s-presidential-elections.xml)  
+
 ### [2004-11-26](/news/2004/11/26/index.md)
 
+##### Fatah
 #  Fatah officially picks former Prime Minister Mahmoud Abbas, already PLO chairman, as its candidate for January's presidential elections. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4043065.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6921618)
-2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6921618)
 
 ### Related:
 

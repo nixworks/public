@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/10/the-republic-of-china-taiwan-celebrates-its-97th-national-anniversary-on-double-ten-day-with-its-newly-elected-president-ma-ying-jeou.html)  [JSON](/news/2008/10/10/the-republic-of-china-taiwan-celebrates-its-97th-national-anniversary-on-double-ten-day-with-its-newly-elected-president-ma-ying-jeou.json)  [XML](/news/2008/10/10/the-republic-of-china-taiwan-celebrates-its-97th-national-anniversary-on-double-ten-day-with-its-newly-elected-president-ma-ying-jeou.xml)  
+
 ### [2008-10-10](/news/2008/10/10/index.md)
 
+##### Taiwan
 #  The Republic of China (Taiwan) celebrates its 97th National Anniversary on Double Ten Day, with its newly elected President Ma Ying-jeou. 
 
 Taiwan will celebrate its “Double Ten” National Day today. On October 10, 1911, an uprising occurred in Wuchang, China. Provincial leaders then declared independence to topple the Qing Manchu Dynasty. The Republic of China was proclaimed on January 1, 1912.
 
 
-### Source:
+### Sources:
 
 1. [The China Post](http://www.chinapost.com.tw/taiwan/national/national-news/2008/10/10/177969/Nation-marks.htm)
 1. [Cover Image](http://www.chinapost.com.tw/news_images/20081010/p1a.jpg)

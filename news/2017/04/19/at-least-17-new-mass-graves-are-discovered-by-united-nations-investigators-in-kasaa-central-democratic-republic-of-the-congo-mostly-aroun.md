@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/19/at-least-17-new-mass-graves-are-discovered-by-u
 
 ### [2017-04-19](/news/2017/04/19/index.md)
 
+##### Kamwina Nsapu rebellion
 # At least 17 new mass graves are discovered by United Nations investigators in Kasai-Central, Democratic Republic of the Congo, mostly around the town of Tshimbulu. 
 
 ICC will investigate reports of rapes and killings by soldiers if DRC government fails to, UN rights chief says.

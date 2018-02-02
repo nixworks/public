@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/5/the-u-s-securities-and-exchange-commission-accuses-mexican-broadcaster-tv-azteca-of-involvement-in-a-massive-debt-fraud-tv-azteca-stock-o.html)  [JSON](/news/2005/01/5/the-u-s-securities-and-exchange-commission-accuses-mexican-broadcaster-tv-azteca-of-involvement-in-a-massive-debt-fraud-tv-azteca-stock-o.json)  [XML](/news/2005/01/5/the-u-s-securities-and-exchange-commission-accuses-mexican-broadcaster-tv-azteca-of-involvement-in-a-massive-debt-fraud-tv-azteca-stock-o.xml)  
+
 ### [2005-01-5](/news/2005/01/5/index.md)
 
+##### Securities and Exchange Commission
 #  The U.S. Securities and Exchange Commission accuses Mexican broadcaster TV Azteca of involvement in a massive debt fraud; TV Azteca stock on the New York and Mexico City exchanges drops 9% on the news. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/4147975.stm)
 

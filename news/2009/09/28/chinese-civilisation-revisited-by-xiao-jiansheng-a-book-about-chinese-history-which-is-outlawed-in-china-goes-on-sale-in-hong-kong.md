@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/28/chinese-civilisation-revisited-by-xiao-jiansheng-a-book-about-chinese-history-which-is-outlawed-in-china-goes-on-sale-in-hong-kong.html)  [JSON](/news/2009/09/28/chinese-civilisation-revisited-by-xiao-jiansheng-a-book-about-chinese-history-which-is-outlawed-in-china-goes-on-sale-in-hong-kong.json)  [XML](/news/2009/09/28/chinese-civilisation-revisited-by-xiao-jiansheng-a-book-about-chinese-history-which-is-outlawed-in-china-goes-on-sale-in-hong-kong.xml)  
+
 ### [2009-09-28](/news/2009/09/28/index.md)
 
+##### Chinese Civilisation Revisited
 #  "Chinese Civilisation Revisited" by Xiao Jiansheng, a book about Chinese history which is outlawed in China, goes on sale in Hong Kong. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AsiaOne](http://news.asiaone.com/News/Latest%2BNews/Asia/Story/A1Story20090928-170503.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8278014.stm)

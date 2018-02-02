@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/24/police-arrest-two-men-on-suspicion-of-endangering-an-aircraft-after-british-fighter-jets-escort-a-pakistan-international-airlines-passenger.html)  [JSON](/news/2013/05/24/police-arrest-two-men-on-suspicion-of-endangering-an-aircraft-after-british-fighter-jets-escort-a-pakistan-international-airlines-passenger.json)  [XML](/news/2013/05/24/police-arrest-two-men-on-suspicion-of-endangering-an-aircraft-after-british-fighter-jets-escort-a-pakistan-international-airlines-passenger.xml)  
+
 ### [2013-05-24](/news/2013/05/24/index.md)
 
+##### Pakistan International Airlines
 # Police arrest two men on suspicion of endangering an aircraft, after British fighter jets escort a Pakistan International Airlines passenger plane to London Stansted Airport. 
 
 British fighter jets have escorted a Pakistan International Airlines passenger plane to Stansted Airport near London, where police went on board and arrested two men on suspicion of endangering an aircraft.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via News24](http://www.news24.com/news24/World/News/UK-cops-make-arrests-aboard-Pakistani-plane-20130524)
 1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2140/6ad6678c9a43412c97b692cbbf74dff6.jpg)

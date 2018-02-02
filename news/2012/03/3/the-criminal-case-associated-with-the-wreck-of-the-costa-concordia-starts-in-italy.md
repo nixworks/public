@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/03/3/the-criminal-case-associated-with-the-wreck-of-the-costa-concordia-starts-in-italy.html)  [JSON](/news/2012/03/3/the-criminal-case-associated-with-the-wreck-of-the-costa-concordia-starts-in-italy.json)  [XML](/news/2012/03/3/the-criminal-case-associated-with-the-wreck-of-the-costa-concordia-starts-in-italy.xml)  
+
 ### [2012-03-3](/news/2012/03/3/index.md)
 
+##### Costa Concordia
 # The criminal case associated with the wreck of the "Costa Concordia" starts in Italy. 
 
 Lawyers and survivors of the Costa Concordia accident converged on Saturday for the first evidence hearing in the case against the ship’s captain and others.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2012/03/04/world/europe/criminal-case-on-costa-concordia-wreck-opens.html?_r=1)
+1. [New York Times](https://www.nytimes.com/2012/03/04/world/europe/criminal-case-on-costa-concordia-wreck-opens.html?_r=1)
 1. [Cover Image](https://static01.nyt.com/images/2012/03/04/world/04italy/04italy-videoSixteenByNine600.jpg)
 
 ### Related:

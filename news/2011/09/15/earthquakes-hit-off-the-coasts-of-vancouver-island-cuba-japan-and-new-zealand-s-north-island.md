@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/15/earthquakes-hit-off-the-coasts-of-vancouver-island-cuba-japan-and-new-zealand-s-north-island.html)  [JSON](/news/2011/09/15/earthquakes-hit-off-the-coasts-of-vancouver-island-cuba-japan-and-new-zealand-s-north-island.json)  [XML](/news/2011/09/15/earthquakes-hit-off-the-coasts-of-vancouver-island-cuba-japan-and-new-zealand-s-north-island.xml)  
+
 ### [2011-09-15](/news/2011/09/15/index.md)
 
+##### Vancouver Island
 # Earthquakes hit off the coasts of Vancouver Island, Cuba, Japan, and New Zealand's north island. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/44536889)
 

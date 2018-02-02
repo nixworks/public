@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2011/08/6/ilya-shikshin-won-the-european-go-championship.html)  [JSON](/news/2011/08/6/ilya-shikshin-won-the-european-go-championship.json)  [XML](/news/2011/08/6/ilya-shikshin-won-the-european-go-championship.xml)  
+
 ### [2011-08-6](/news/2011/08/6/index.md)
 
+##### Ilya Shikshin
 # Ilya Shikshin won the European Go Championship
 
 

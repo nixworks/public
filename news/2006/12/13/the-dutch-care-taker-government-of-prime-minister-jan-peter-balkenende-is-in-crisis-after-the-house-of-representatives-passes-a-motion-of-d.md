@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/13/the-dutch-care-taker-government-of-prime-minister-jan-peter-balkenende-is-in-crisis-after-the-house-of-representatives-passes-a-motion-of-d.html)  [JSON](/news/2006/12/13/the-dutch-care-taker-government-of-prime-minister-jan-peter-balkenende-is-in-crisis-after-the-house-of-representatives-passes-a-motion-of-d.json)  [XML](/news/2006/12/13/the-dutch-care-taker-government-of-prime-minister-jan-peter-balkenende-is-in-crisis-after-the-house-of-representatives-passes-a-motion-of-d.xml)  
+
 ### [2006-12-13](/news/2006/12/13/index.md)
 
+##### Dutch care-taker government
 #  The Dutch care-taker government of prime minister Jan Peter Balkenende is in crisis after the House of Representatives passes a motion of disapproval against immigration minister Rita Verdonk. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Financial Times](http://www.ft.com/cms/s/928d4580-8a8f-11db-8940-0000779e2340.html)
 

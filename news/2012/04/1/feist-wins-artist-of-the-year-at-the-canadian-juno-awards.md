@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/1/feist-wins-artist-of-the-year-at-the-canadian-juno-awards.html)  [JSON](/news/2012/04/1/feist-wins-artist-of-the-year-at-the-canadian-juno-awards.json)  [XML](/news/2012/04/1/feist-wins-artist-of-the-year-at-the-canadian-juno-awards.xml)  
+
 ### [2012-04-1](/news/2012/04/1/index.md)
 
+##### Feist
 # Feist wins Artist of the Year at the Canadian Juno Awards. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Newsday](http://www.newsday.com/news/nation/leslie-feist-wins-juno-for-artist-of-the-year-1.3637065)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/27/the-people-s-republic-of-china-angrily-rejects-us-anti-dumping-measures-on-imports-of-televisions-from-china-saying-that-the-us-measures-b.html)  [JSON](/news/2003/11/27/the-people-s-republic-of-china-angrily-rejects-us-anti-dumping-measures-on-imports-of-televisions-from-china-saying-that-the-us-measures-b.json)  [XML](/news/2003/11/27/the-people-s-republic-of-china-angrily-rejects-us-anti-dumping-measures-on-imports-of-televisions-from-china-saying-that-the-us-measures-b.xml)  
+
 ### [2003-11-27](/news/2003/11/27/index.md)
 
+##### WTO
 #  The People's Republic of China angrily rejects US anti-dumping measures on imports of televisions from China, saying that the US measures breach WTO agreements and discriminate against Chinese firms; Premier Wen Jiabao is due to visit Washington, DC, next month.
 
 

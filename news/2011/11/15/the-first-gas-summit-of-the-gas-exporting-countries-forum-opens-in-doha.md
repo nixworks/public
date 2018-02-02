@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/15/the-first-gas-summit-of-the-gas-exporting-countries-forum-opens-in-doha.html)  [JSON](/news/2011/11/15/the-first-gas-summit-of-the-gas-exporting-countries-forum-opens-in-doha.json)  [XML](/news/2011/11/15/the-first-gas-summit-of-the-gas-exporting-countries-forum-opens-in-doha.xml)  
+
 ### [2011-11-15](/news/2011/11/15/index.md)
 
+##### Gas Exporting Countries Forum
 # The first Gas Summit of the Gas Exporting Countries Forum opens in Doha. 
 
 Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much more
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iDPJgH0cbk8c8WYE5PWgSrnol4Rw?docId=CNG.e4e461402118db348f30ab6275a98e25.171)
 2. [Gulf Times](http://www.gulf-times.com/site/topics/article.asp?cu_no=2&item_no=470095&version=1&template_id=48&parent_id=28)

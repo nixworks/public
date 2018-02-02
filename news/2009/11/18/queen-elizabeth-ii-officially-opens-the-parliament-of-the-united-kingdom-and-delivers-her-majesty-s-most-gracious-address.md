@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/18/queen-elizabeth-ii-officially-opens-the-parliament-of-the-united-kingdom-and-delivers-her-majesty-s-most-gracious-address.html)  [JSON](/news/2009/11/18/queen-elizabeth-ii-officially-opens-the-parliament-of-the-united-kingdom-and-delivers-her-majesty-s-most-gracious-address.json)  [XML](/news/2009/11/18/queen-elizabeth-ii-officially-opens-the-parliament-of-the-united-kingdom-and-delivers-her-majesty-s-most-gracious-address.xml)  
+
 ### [2009-11-18](/news/2009/11/18/index.md)
 
+##### Elizabeth II
 #  Queen Elizabeth II officially opens the Parliament of the United Kingdom and delivers Her Majesty's Most Gracious Address. 
 
 The Government has unveiled its final legislative package before the General Election , with the Queen&#039;s Speech containing pledges to help the neediest pensioners and crack down on excesses in the financial sector.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/8364858.stm)
 2. [Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/6596414/Queens-Speech-sets-out-election-battle-lines.html)

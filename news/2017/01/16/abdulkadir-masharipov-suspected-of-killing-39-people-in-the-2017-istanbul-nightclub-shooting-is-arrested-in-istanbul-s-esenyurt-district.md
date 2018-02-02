@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/16/abdulkadir-masharipov-suspected-of-killing-39-p
 
 ### [2017-01-16](/news/2017/01/16/index.md)
 
+##### Abdulkadir Masharipov
 # Abdulkadir Masharipov, suspected of killing 39 people in the 2017 Istanbul nightclub shooting, is arrested in Istanbul's Esenyurt district. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/28/the-death-toll-in-the-worst-flooding-in-the-philippines-for-forty-years-reaches-140-as-the-capital-manila-is-overwhelmed.html)  [JSON](/news/2009/09/28/the-death-toll-in-the-worst-flooding-in-the-philippines-for-forty-years-reaches-140-as-the-capital-manila-is-overwhelmed.json)  [XML](/news/2009/09/28/the-death-toll-in-the-worst-flooding-in-the-philippines-for-forty-years-reaches-140-as-the-capital-manila-is-overwhelmed.xml)  
+
 ### [2009-09-28](/news/2009/09/28/index.md)
 
+##### Typhoon Ketsana
 #  The death toll in the worst flooding in the Philippines for forty years reaches 140 as the capital Manila is "overwhelmed". 
 
 The death toll from devastating floods in the Philippine capital, Manila, and surrounding areas has climbed to 140, with 32 people still missing, the government said on Monday.
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/philippines/6239022/Philippine-flood-death-toll-rises.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2009/sep/28/philippines-storm-death-toll)

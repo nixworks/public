@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/28/the-holy-see-claims-that-the-roman-catholic-church-s-number-of-priests-is-slowly-rising.html)  [JSON](/news/2009/02/28/the-holy-see-claims-that-the-roman-catholic-church-s-number-of-priests-is-slowly-rising.json)  [XML](/news/2009/02/28/the-holy-see-claims-that-the-roman-catholic-church-s-number-of-priests-is-slowly-rising.xml)  
+
 ### [2009-02-28](/news/2009/02/28/index.md)
 
+##### Holy See
 #  The Holy See claims that the Roman Catholic Church's number of priests is slowly rising. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7916749.stm)
 

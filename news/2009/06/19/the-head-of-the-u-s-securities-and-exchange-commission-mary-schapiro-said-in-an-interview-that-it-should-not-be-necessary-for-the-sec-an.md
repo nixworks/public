@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/19/the-head-of-the-u-s-securities-and-exchange-commission-mary-schapiro-said-in-an-interview-that-it-should-not-be-necessary-for-the-sec-an.html)  [JSON](/news/2009/06/19/the-head-of-the-u-s-securities-and-exchange-commission-mary-schapiro-said-in-an-interview-that-it-should-not-be-necessary-for-the-sec-an.json)  [XML](/news/2009/06/19/the-head-of-the-u-s-securities-and-exchange-commission-mary-schapiro-said-in-an-interview-that-it-should-not-be-necessary-for-the-sec-an.xml)  
+
 ### [2009-06-19](/news/2009/06/19/index.md)
 
+##### Securities and Exchange Commission
 #  The head of the U.S. Securities and Exchange Commission, Mary Schapiro, said in an interview that it should not be necessary for the SEC and the Commodity Futures Trading Commission to align all their rules and regulation, although she does expect some harmonization. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.news.yahoo.com/137/20090619/746/tbs-interview-not-all-sec-cftc-rules-mus.html)
 

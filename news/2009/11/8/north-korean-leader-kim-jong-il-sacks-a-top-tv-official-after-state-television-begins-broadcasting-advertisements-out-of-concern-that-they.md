@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/11/8/north-korean-leader-kim-jong-il-sacks-a-top-tv-official-after-state-television-begins-broadcasting-advertisements-out-of-concern-that-they.html)  [JSON](/news/2009/11/8/north-korean-leader-kim-jong-il-sacks-a-top-tv-official-after-state-television-begins-broadcasting-advertisements-out-of-concern-that-they.json)  [XML](/news/2009/11/8/north-korean-leader-kim-jong-il-sacks-a-top-tv-official-after-state-television-begins-broadcasting-advertisements-out-of-concern-that-they.xml)  
+
 ### [2009-11-8](/news/2009/11/8/index.md)
 
+##### North Korea
 #  North Korean leader Kim Jong-il sacks a top TV official after state television begins broadcasting advertisements, out of concern that they were "increasing the influence of capitalism". 
 
 North Korea&#039;s leader Kim Jong-Il has fired his top TV official after state television aired a series of advertisements which apparently represented too much capitalist influence, a news report said yesterday.
 
 
-### Source:
+### Sources:
 
 1. [Joongang Daily](http://joongangdaily.joins.com/article/view.asp?aid=2912303)
 2. [RTHK](http://www.rthk.org.hk/rthk/news/einternational/news.htm?einternational&20091109&56&625267)
-3. [The Independent](http://www.independent.co.uk/news/world/asia/north-korea-judges-tv-ads--a-step-too-far-1817273.html)
+3. [The Independent](https://www.independent.co.uk/news/world/asia/north-korea-judges-tv-ads--a-step-too-far-1817273.html)
 
 ### Related:
 

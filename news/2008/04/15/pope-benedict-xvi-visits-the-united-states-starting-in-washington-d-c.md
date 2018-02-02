@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2008/04/15/pope-benedict-xvi-visits-the-united-states-starting-in-washington-d-c.html)  [JSON](/news/2008/04/15/pope-benedict-xvi-visits-the-united-states-starting-in-washington-d-c.json)  [XML](/news/2008/04/15/pope-benedict-xvi-visits-the-united-states-starting-in-washington-d-c.xml)  
+
 ### [2008-04-15](/news/2008/04/15/index.md)
 
+##### Pope Benedict XVI
 #  Pope Benedict XVI visits the United States, starting in Washington, D.C.
 
 

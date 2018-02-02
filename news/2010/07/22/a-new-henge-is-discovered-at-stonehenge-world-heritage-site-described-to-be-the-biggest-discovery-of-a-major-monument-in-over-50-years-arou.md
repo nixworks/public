@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/22/a-new-henge-is-discovered-at-stonehenge-world-heritage-site-described-to-be-the-biggest-discovery-of-a-major-monument-in-over-50-years-arou.html)  [JSON](/news/2010/07/22/a-new-henge-is-discovered-at-stonehenge-world-heritage-site-described-to-be-the-biggest-discovery-of-a-major-monument-in-over-50-years-arou.json)  [XML](/news/2010/07/22/a-new-henge-is-discovered-at-stonehenge-world-heritage-site-described-to-be-the-biggest-discovery-of-a-major-monument-in-over-50-years-arou.xml)  
+
 ### [2010-07-22](/news/2010/07/22/index.md)
 
+##### henge
 # A new henge is discovered at Stonehenge World Heritage Site, described to be the biggest discovery of a major monument in over 50 years around Stonehenge. 
 
 Archaeologists discover a second henge at Stonehenge, described as the most exciting find at the site in 50 years.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/uk-england-10718522)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

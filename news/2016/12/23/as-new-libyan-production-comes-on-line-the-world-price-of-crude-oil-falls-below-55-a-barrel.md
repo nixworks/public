@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/23/as-new-libyan-production-comes-on-line-the-worl
 
 ### [2016-12-23](/news/2016/12/23/index.md)
 
+##### Libya
 # As new Libyan production comes on line, the world price of crude oil falls below $55 a barrel. 
 
 U.S. oil prices closed at a 17-month high on Friday in quiet trade ahead of the Christmas and New Year holiday week, even though the gain was small, as the market waits to see how OPEC manages its planned output cuts with Libya expecting to boost production.
@@ -16,7 +17,7 @@ U.S. oil prices closed at a 17-month high on Friday in quiet trade ahead of the 
 ### Related:
 
 1. [Uncertainty in Libya leads to falls in world stock markets and increases in crude oil prices. ](/news/2011/02/22/uncertainty-in-libya-leads-to-falls-in-world-stock-markets-and-increases-in-crude-oil-prices.md) _Context: Libya, crude oil_
-2. [In coordination with Libya's internationally recognized government, American special operations forces and FBI agents capture Mustafa al-Imam, a militant who allegedly was involved in the 2012 Benghazi attack, at an unknown location in Libya. ](/news/2017/10/29/in-coordination-with-libyaas-internationally-recognized-government-american-special-operations-forces-and-fbi-agents-capture-mustafa-al-i.md) _Context: Libya_
-3. [At least five migrants have died and ninety are missing after their boat sinks off the western coast of Libya. ](/news/2017/09/21/at-least-five-migrants-have-died-and-ninety-are-missing-after-their-boat-sinks-off-the-western-coast-of-libya.md) _Context: Libya_
-4. [The European Union restricts the exports of inflatable boats to Libya. ](/news/2017/07/17/the-european-union-restricts-the-exports-of-inflatable-boats-to-libya.md) _Context: Libya_
-5. [Bahrain, Egypt, Libya, the Maldives, Saudi Arabia, the United Arab Emirates, and the internationally recognized government of Yemen sever diplomatic ties with Qatar, ordering Qatari citizens in those countries to be expelled as well as cutting all land, air and sea connections. "National security," "media incitement" and Qatar's support of Iran are variously cited. ](/news/2017/06/5/bahrain-egypt-libya-the-maldives-saudi-arabia-the-united-arab-emirates-and-the-internationally-recognized-government-of-yemen-sever-di.md) _Context: Libya_
+2. [A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials. ](/news/2018/01/23/a-double-car-bombing-in-benghazi-libya-kills-at-least-33-people-and-wounds-dozens-of-others-the-victims-include-both-military-personnel.md) _Context: Libya_
+3. [The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" - allegedly bound for Libya, loaded with 410 tonnes of explosives - in Heraklion, Greece. 102 safety deficiencies are found, and 8 crew members are arrested. ](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-flagged-cargo-ship-andromeda-a-allegedly-bound-for-libya-loaded-with-410-tonnes-of-explos.md) _Context: Libya_
+4. [Gunmen shoot dead the Mayor of Misurata, Libya, Mohamed Eshtewi, and wound his brother, after they chase down his car. ](/news/2017/12/17/gunmen-shoot-dead-the-mayor-of-misurata-libya-mohamed-eshtewi-and-wound-his-brother-after-they-chase-down-his-car.md) _Context: Libya_
+5. [In coordination with Libya's internationally recognized government, American special operations forces and FBI agents capture Mustafa al-Imam, a militant who allegedly was involved in the 2012 Benghazi attack, at an unknown location in Libya. ](/news/2017/10/29/in-coordination-with-libyaas-internationally-recognized-government-american-special-operations-forces-and-fbi-agents-capture-mustafa-al-i.md) _Context: Libya_

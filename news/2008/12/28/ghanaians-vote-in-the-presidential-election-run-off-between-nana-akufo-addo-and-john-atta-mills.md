@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/28/ghanaians-vote-in-the-presidential-election-run-off-between-nana-akufo-addo-and-john-atta-mills.html)  [JSON](/news/2008/12/28/ghanaians-vote-in-the-presidential-election-run-off-between-nana-akufo-addo-and-john-atta-mills.json)  [XML](/news/2008/12/28/ghanaians-vote-in-the-presidential-election-run-off-between-nana-akufo-addo-and-john-atta-mills.xml)  
+
 ### [2008-12-28](/news/2008/12/28/index.md)
 
+##### Ghana
 #  Ghanaians vote in the presidential election run-off between Nana Akufo-Addo and John Atta Mills. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7801638.stm)
 

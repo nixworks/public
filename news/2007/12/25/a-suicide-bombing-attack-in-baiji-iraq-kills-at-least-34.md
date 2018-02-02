@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/25/a-suicide-bombing-attack-in-baiji-iraq-kills-at-least-34.html)  [JSON](/news/2007/12/25/a-suicide-bombing-attack-in-baiji-iraq-kills-at-least-34.json)  [XML](/news/2007/12/25/a-suicide-bombing-attack-in-baiji-iraq-kills-at-least-34.xml)  
+
 ### [2007-12-25](/news/2007/12/25/index.md)
 
+##### Baiji
 #  A suicide bombing attack in Baiji, Iraq kills at least 34. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/meast/12/25/iraq.main/index.html)
 

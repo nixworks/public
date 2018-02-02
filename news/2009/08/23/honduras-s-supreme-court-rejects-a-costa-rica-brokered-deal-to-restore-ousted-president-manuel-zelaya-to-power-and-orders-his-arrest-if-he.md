@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/23/honduras-s-supreme-court-rejects-a-costa-rica-brokered-deal-to-restore-ousted-president-manuel-zelaya-to-power-and-orders-his-arrest-if-he.html)  [JSON](/news/2009/08/23/honduras-s-supreme-court-rejects-a-costa-rica-brokered-deal-to-restore-ousted-president-manuel-zelaya-to-power-and-orders-his-arrest-if-he.json)  [XML](/news/2009/08/23/honduras-s-supreme-court-rejects-a-costa-rica-brokered-deal-to-restore-ousted-president-manuel-zelaya-to-power-and-orders-his-arrest-if-he.xml)  
+
 ### [2009-08-23](/news/2009/08/23/index.md)
 
+##### Honduras
 #  Honduras's Supreme Court rejects a Costa Rica-brokered deal to restore ousted President Manuel Zelaya to power and orders his arrest if he returns. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8217393.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/13/ansar-dine-a-militant-islamist-group-linked-to-
 
 ### [2016-02-13](/news/2016/02/13/index.md)
 
+##### Northern Mali conflict
 # Ansar Dine, a militant Islamist group linked to Al-Qaeda in the Islamic Maghreb claims responsibility for yesterday's attack on a United Nations base in Kidal, northern Mali, that killed six UN peacekeepers, all from neighboring Guinea. 
 
 Malian Islamist militant group Ansar Dine said it carried out a suicide and rocket attack on a U.N. base in Kidal, north Mali on Friday that killed six peacekeepers, the SITE Intelligence Group said.

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/07/16/a-united-nations-tribunal-trying-the-alleged-masterminds-of-rwanda-s-1994-genocide-convicts-former-finance-minister-emmanuel-ndindabahizi-o.html)  [JSON](/news/2004/07/16/a-united-nations-tribunal-trying-the-alleged-masterminds-of-rwanda-s-1994-genocide-convicts-former-finance-minister-emmanuel-ndindabahizi-o.json)  [XML](/news/2004/07/16/a-united-nations-tribunal-trying-the-alleged-masterminds-of-rwanda-s-1994-genocide-convicts-former-finance-minister-emmanuel-ndindabahizi-o.xml)  
+
 ### [2004-07-16](/news/2004/07/16/index.md)
 
+##### United Nations
 #  A United Nations tribunal trying the alleged masterminds of Rwanda's 1994 genocide convicts former finance minister Emmanuel Ndindabahizi on three counts of genocide and crimes against humanity, sentencing him to life in prison.
 
 

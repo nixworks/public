@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/06/29/venezuela-forms-petrocaribe-an-energy-cooperation-pact-with-13-caribbean-states-to-supply-them-with-cheaper-oil-trinidad-and-tobago-and-b.html)  [JSON](/news/2005/06/29/venezuela-forms-petrocaribe-an-energy-cooperation-pact-with-13-caribbean-states-to-supply-them-with-cheaper-oil-trinidad-and-tobago-and-b.json)  [XML](/news/2005/06/29/venezuela-forms-petrocaribe-an-energy-cooperation-pact-with-13-caribbean-states-to-supply-them-with-cheaper-oil-trinidad-and-tobago-and-b.xml)  
+
 ### [2005-06-29](/news/2005/06/29/index.md)
 
+##### Venezuela
 #  Venezuela forms Petrocaribe, an energy cooperation pact with 13 Caribbean states to supply them with cheaper oil. Trinidad and Tobago and Barbados opt out 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=aUHur910fpqA&refer=latin_america)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000086&sid=aUHur910fpqA&refer=latin_america)
 2. [Caribbean Net News](http://www.caribbeannetnews.com/2005/06/30/regional.shtml)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8934470)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8934470)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

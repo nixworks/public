@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/29/76th-academy-awards-the-lord-of-the-rings-the-return-of-the-king-wins-best-picture-and-director-awards-and-nine-others-for-a-total-of-1.html)  [JSON](/news/2004/02/29/76th-academy-awards-the-lord-of-the-rings-the-return-of-the-king-wins-best-picture-and-director-awards-and-nine-others-for-a-total-of-1.json)  [XML](/news/2004/02/29/76th-academy-awards-the-lord-of-the-rings-the-return-of-the-king-wins-best-picture-and-director-awards-and-nine-others-for-a-total-of-1.xml)  
+
 ### [2004-02-29](/news/2004/02/29/index.md)
 
+##### 76th Academy Awards
 #  76th Academy Awards: "The Lord of the Rings: The Return of the King" wins Best Picture and Director awards and nine others for a total of 11 Academy Awards, a tie for the most ever won by a single film, and the largest sweep ever for a single film, having received 11 nominations. Acting honors were as follows: Best Actor: Sean Penn for "Mystic River", Best Actress: Charlize Theron for "Monster", Best Supporting Actor: Tim Robbins for "Mystic River", Best Supporting Actress: Renee Zellweger for "Cold Mountain". 
 
 Breaking News, data &amp; opinions in business, sports, entertainment, travel, lifestyle, plus much more. Newsday.com is the leading news source for Long Island &amp; NYC.
 
 
-### Source:
+### Sources:
 
 1. [Box Office Mojo](http://www.boxofficemojo.com/oscar/chart/?view=allcategories&yr=2003&p=.htm)
 2. [IMDB](http://www.imdb.com/)

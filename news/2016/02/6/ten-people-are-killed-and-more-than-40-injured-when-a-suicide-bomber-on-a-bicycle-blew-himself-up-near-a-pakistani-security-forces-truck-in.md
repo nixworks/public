@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/02/6/ten-people-are-killed-and-more-than-40-injured-when-a-suicide-bomber-on-a-bicycle-blew-himself-up-near-a-pakistani-security-forces-truck-in.html)  [JSON](/news/2016/02/6/ten-people-are-killed-and-more-than-40-injured-when-a-suicide-bomber-on-a-bicycle-blew-himself-up-near-a-pakistani-security-forces-truck-in.json)  [XML](/news/2016/02/6/ten-people-are-killed-and-more-than-40-injured-when-a-suicide-bomber-on-a-bicycle-blew-himself-up-near-a-pakistani-security-forces-truck-in.xml)  
+
 ### [2016-02-6](/news/2016/02/6/index.md)
 
+##### Pakistani security forces
 # Ten people are killed and more than 40 injured when a suicide bomber on a bicycle blew himself up near a Pakistani security forces truck in Quetta, Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2016/02/06/asia/pakistan-suicide-attack/)
 2. [The Nation](http://nation.com.pk/national/07-Feb-2016/bomber-kills-10-outside-quetta-district-courts)

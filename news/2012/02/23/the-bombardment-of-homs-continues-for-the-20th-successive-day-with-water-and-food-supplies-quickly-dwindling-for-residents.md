@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/23/the-bombardment-of-homs-continues-for-the-20th-successive-day-with-water-and-food-supplies-quickly-dwindling-for-residents.html)  [JSON](/news/2012/02/23/the-bombardment-of-homs-continues-for-the-20th-successive-day-with-water-and-food-supplies-quickly-dwindling-for-residents.json)  [XML](/news/2012/02/23/the-bombardment-of-homs-continues-for-the-20th-successive-day-with-water-and-food-supplies-quickly-dwindling-for-residents.xml)  
+
 ### [2012-02-23](/news/2012/02/23/index.md)
 
+##### bombardment
 # The bombardment of Homs continues for the 20th successive day, with water and food supplies quickly dwindling for residents. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [DPA via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/syrian-forces-bombard-homs-for-20th-day-20120224-1trdn.html)
 

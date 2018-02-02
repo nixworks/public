@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/11/the-chinese-academy-of-social-sciences-reports-that-more-than-24-million-chinese-men-of-marrying-age-will-be-without-spouses-by-the-end-of-t.html)  [JSON](/news/2010/01/11/the-chinese-academy-of-social-sciences-reports-that-more-than-24-million-chinese-men-of-marrying-age-will-be-without-spouses-by-the-end-of-t.json)  [XML](/news/2010/01/11/the-chinese-academy-of-social-sciences-reports-that-more-than-24-million-chinese-men-of-marrying-age-will-be-without-spouses-by-the-end-of-t.xml)  
+
 ### [2010-01-11](/news/2010/01/11/index.md)
 
+##### Chinese Academy of Social Sciences
 # The Chinese Academy of Social Sciences reports that more than 24 million Chinese men of marrying age will be without spouses by the end of the decade, citing an uneven birth rate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8451289.stm)
 2. [Global Times](http://china.globaltimes.cn/society/2010-01/497474.html)

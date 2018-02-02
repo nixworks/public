@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/4/lockheed-martin-s-skunk-works-undertakes-to-build-a-successor-to-the-sr-71-blackbird-capable-of-mach-6-speed-flight-by-2030.html)  [JSON](/news/2013/11/4/lockheed-martin-s-skunk-works-undertakes-to-build-a-successor-to-the-sr-71-blackbird-capable-of-mach-6-speed-flight-by-2030.json)  [XML](/news/2013/11/4/lockheed-martin-s-skunk-works-undertakes-to-build-a-successor-to-the-sr-71-blackbird-capable-of-mach-6-speed-flight-by-2030.xml)  
+
 ### [2013-11-4](/news/2013/11/4/index.md)
 
+##### Lockheed
 # Lockheed Martin's Skunk Works undertakes to build a successor to the SR-71 Blackbird capable of mach 6 speed flight by 2030. 
 
 A new hypersonic spy plane is coming from the company that perfected the technology -- and this one will fly six times the speed of sound.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/tech/2013/11/04/lockheed-martin-skunkworks-to-build-successor-to-sr-71-blackbird/?intcmp=obnetwork)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/tech/2013/11/04/lockheed-martin-skunkworks-to-build-successor-to-sr-71-blackbird/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1446576418015.jpg?ve=1)

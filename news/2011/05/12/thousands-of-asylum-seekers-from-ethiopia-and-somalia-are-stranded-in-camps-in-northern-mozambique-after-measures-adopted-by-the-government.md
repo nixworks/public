@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/12/thousands-of-asylum-seekers-from-ethiopia-and-somalia-are-stranded-in-camps-in-northern-mozambique-after-measures-adopted-by-the-government.html)  [JSON](/news/2011/05/12/thousands-of-asylum-seekers-from-ethiopia-and-somalia-are-stranded-in-camps-in-northern-mozambique-after-measures-adopted-by-the-government.json)  [XML](/news/2011/05/12/thousands-of-asylum-seekers-from-ethiopia-and-somalia-are-stranded-in-camps-in-northern-mozambique-after-measures-adopted-by-the-government.xml)  
+
 ### [2011-05-12](/news/2011/05/12/index.md)
 
+##### Ethiopia
 # Thousands of asylum seekers from Ethiopia and Somalia are stranded in camps in northern Mozambique after measures adopted by the government to restrict their movements. 
 
 Thousands of frustrate
 
 
-### Source:
+### Sources:
 
 1. [IRIN](http://www.irinnews.org/Report.aspx?ReportID=92690)
 

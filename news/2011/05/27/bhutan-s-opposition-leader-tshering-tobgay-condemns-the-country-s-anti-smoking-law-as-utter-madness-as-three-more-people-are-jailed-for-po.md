@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/27/bhutan-s-opposition-leader-tshering-tobgay-condemns-the-country-s-anti-smoking-law-as-utter-madness-as-three-more-people-are-jailed-for-po.html)  [JSON](/news/2011/05/27/bhutan-s-opposition-leader-tshering-tobgay-condemns-the-country-s-anti-smoking-law-as-utter-madness-as-three-more-people-are-jailed-for-po.json)  [XML](/news/2011/05/27/bhutan-s-opposition-leader-tshering-tobgay-condemns-the-country-s-anti-smoking-law-as-utter-madness-as-three-more-people-are-jailed-for-po.xml)  
+
 ### [2011-05-27](/news/2011/05/27/index.md)
 
+##### Bhutan
 # Bhutan's opposition leader Tshering Tobgay condemns the country's anti-smoking law as "utter madness" as three more people are jailed for possessing cigarettes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iPv-PzDtoRv6gDh-clGsc081qGmw?docId=CNG.97e7beb3ccd09ba5b15138c14a923753.4a1)
 

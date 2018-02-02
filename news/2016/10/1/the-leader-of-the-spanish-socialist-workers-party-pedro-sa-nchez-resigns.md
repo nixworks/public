@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/1/the-leader-of-the-spanish-socialist-workers-part
 
 ### [2016-10-1](/news/2016/10/1/index.md)
 
+##### Socialist Workers' Party
 # The leader of the Spanish Socialist Workers' Party, Pedro Sanchez, resigns. 
 
 

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/09/19/thirteen-people-including-a-three-year-old-are-shot-and-wounded-in-the-back-of-the-yards-neighborhood-of-the-american-city-of-chicago-ill.html)  [JSON](/news/2013/09/19/thirteen-people-including-a-three-year-old-are-shot-and-wounded-in-the-back-of-the-yards-neighborhood-of-the-american-city-of-chicago-ill.json)  [XML](/news/2013/09/19/thirteen-people-including-a-three-year-old-are-shot-and-wounded-in-the-back-of-the-yards-neighborhood-of-the-american-city-of-chicago-ill.xml)  
+
 ### [2013-09-19](/news/2013/09/19/index.md)
 
+##### Back of the Yards
 # Thirteen people, including a three-year-old, are shot and wounded in the Back of the Yards neighborhood of the American city of Chicago, Illinois. 
 
 Thirteen people, including 3-year-old Deonta&apos; Howard, who suffered a gunshot wound to the head, were shot at a Chicago park Thursday night.
 
 
-### Source:
+### Sources:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-multiple-people-including-3yearold-shot-in-south-side-attack-20130919,0,352520.story)
-2. [The New York Times](http://www.nytimes.com/2013/09/21/us/chicago-shooting.html?_r=0)
-3. [Yahoo News](http://news.yahoo.com/12-including-child-3-shot-chicago-park-060122294.html)
+2. [The New York Times](https://www.nytimes.com/2013/09/21/us/chicago-shooting.html?_r=0)
+3. [Yahoo News](https://news.yahoo.com/12-including-child-3-shot-chicago-park-060122294.html)
 3. [Cover Image](http://www.trbimg.com/img-523c8608/turbine/chi-multiple-people-including-3yearold-shot-in-south-side-attack-20130919)
 
 ### Related:

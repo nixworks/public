@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/22/tens-of-thousands-of-people-gather-in-the-venezuelan-capital-of-caracas-to-protest-against-the-government-of-nicola-s-maduro.html)  [JSON](/news/2014/02/22/tens-of-thousands-of-people-gather-in-the-venezuelan-capital-of-caracas-to-protest-against-the-government-of-nicola-s-maduro.json)  [XML](/news/2014/02/22/tens-of-thousands-of-people-gather-in-the-venezuelan-capital-of-caracas-to-protest-against-the-government-of-nicola-s-maduro.xml)  
+
 ### [2014-02-22](/news/2014/02/22/index.md)
 
+##### Caracas
 # Tens of thousands of people gather in the Venezuelan capital of Caracas to protest against the government of Nicolas Maduro. 
 
 CARACAS, Venezuela -- Massive demonstrations by opponents and supporters of President Nicolas Maduro were underway Saturday in central Caracas as the official death toll rose to eight on the 10th day of civil unrest roiling Venezuela.
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/world/worldnow/la-fg-wn-venezuela-turmoil-20140222,0,859013.story#axzz2u5glttcf)
 1. [Cover Image](http://www.trbimg.com/img-5308f80f/turbine/la-fg-wn-venezuela-turmoil-20140222)

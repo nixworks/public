@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/20/2004-canadian-federal-election-belinda-stronach-officially-announces-her-run-for-leadership-of-the-conservative-party-of-canada-http-ww.html)  [JSON](/news/2004/01/20/2004-canadian-federal-election-belinda-stronach-officially-announces-her-run-for-leadership-of-the-conservative-party-of-canada-http-ww.json)  [XML](/news/2004/01/20/2004-canadian-federal-election-belinda-stronach-officially-announces-her-run-for-leadership-of-the-conservative-party-of-canada-http-ww.xml)  
+
 ### [2004-01-20](/news/2004/01/20/index.md)
 
+##### 2004 federal election
 # 2004 Canadian Federal Election: Belinda Stronach officially announces her run for leadership of the Conservative Party of Canada. [http:--www.thestar.ca-NASApp-cs-ContentServer?pagename=thestar-Layout-Article_Type1&c=Article&cid=1074596565057&call_pageid=968332188492&col=968793972154]
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/27/the-turkish-national-police-warns-of-possible-bomb-attacks-on-crowded-places-in-central-istanbul-including-metro-stations-and-bus-stops-fo.html)  [JSON](/news/2015/07/27/the-turkish-national-police-warns-of-possible-bomb-attacks-on-crowded-places-in-central-istanbul-including-metro-stations-and-bus-stops-fo.json)  [XML](/news/2015/07/27/the-turkish-national-police-warns-of-possible-bomb-attacks-on-crowded-places-in-central-istanbul-including-metro-stations-and-bus-stops-fo.xml)  
+
 ### [2015-07-27](/news/2015/07/27/index.md)
 
+##### Turkish police
 # The Turkish National Police warns of possible bomb attacks on crowded places in central Istanbul, including metro stations and bus stops, following the escalation of Turkey-ISIL conflict. 
 
 The Istanbul Police Department has issued of bomb attack warnings on crowded places in central Istanbul, such as metro stations and bus stops, several media reports said
 
 
-### Source:
+### Sources:
 
 1. [Hürriyet Daily News](http://www.hurriyetdailynews.com/bomb-warning-issued-for-istanbul-media-reports-claim.aspx?pageID=238&nID=86011&NewsCatID=341)
 1. [Cover Image](http://www.hurriyetdailynews.com/images/news/201507/n_86011_1.jpg)

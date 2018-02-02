@@ -1,14 +1,25 @@
+
+Formats: [HTML](/news/2013/01/14/islamists-rebels-capture-the-malian-town-of-diabaly-after-fierce-fighting-with-government-troops-as-french-airplanes-strike-targets-in-gao.html)  [JSON](/news/2013/01/14/islamists-rebels-capture-the-malian-town-of-diabaly-after-fierce-fighting-with-government-troops-as-french-airplanes-strike-targets-in-gao.json)  [XML](/news/2013/01/14/islamists-rebels-capture-the-malian-town-of-diabaly-after-fierce-fighting-with-government-troops-as-french-airplanes-strike-targets-in-gao.xml)  
+
 ### [2013-01-14](/news/2013/01/14/index.md)
 
+##### Mali
 # Islamists rebels capture the Malian town of Diabaly after fierce fighting with government troops, as French airplanes strike targets in Gao. 
 
 West African defense chiefs will on Tuesday approve plans to speed up the deployment of African troops against Islamist rebels in northern Mali, with some regional soldiers seen arriving next week.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/01/14/us-mali-rebels-idUSBRE90D0FX20130114)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130114&t=2&i=694098005&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE90D1QQZ00)
+1. [Reuters](https://www.reuters.com/article/2013/01/14/us-mali-rebels-idUSBRE90D0FX20130114)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130114&t=2&i=694098005&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE90D1QQZ00)
+
+### Changes:
+
+1. [Northern Mali conflict (2012-present): Islamists rebels capture the Malian town of Diabaly after fierce fighting with government troops, as French airplanes strike targets in Gao. ](/news/2013/01/14/northern-mali-conflict-2012apresent-pislamists-rebels-capture-the-malian-town-of-diabaly-after-fierce-fighting-with-government-troops.md) _2017-05-25 03:38:45 (First version)_
+2. [Northern Mali conflict (2012-present):Islamists rebels capture the Malian town of Diabaly after fierce fighting with government troops, as French airplanes strike targets in Gao. ](/news/2013/01/14/northern-mali-conflict-2012apresent-pislamists-rebels-capture-the-malian-town-of-diabaly-after-fierce-fighting-with-government-troops-a.md) _2017-08-25 03:37:15 (Update)_
+3. [Northern Mali conflict (2012-present):: Islamists rebels capture the Malian town of Diabaly after fierce fighting with government troops, as French airplanes strike targets in Gao. ](/news/2013/01/14/northern-mali-conflict-2012-present-islamists-rebels-capture-the-malian-town-of-diabaly-after-fierce-fighting-with-government-troops.md) _2017-08-27 03:37:25 (Update)_
+3. [Islamists rebels capture the Malian town of Diabaly after fierce fighting with government troops, as French airplanes strike targets in Gao. ](/news/2013/01/14/islamists-rebels-capture-the-malian-town-of-diabaly-after-fierce-fighting-with-government-troops-as-french-airplanes-strike-targets-in-gao.md) _(Current version)_
 
 ### Related:
 
@@ -17,10 +28,3 @@ West African defense chiefs will on Tuesday approve plans to speed up the deploy
 3. [French-led troops in Mali take control of Gao International Airport in the northern town and Islamist stronghold of Gao. ](/news/2013/01/26/french-led-troops-in-mali-take-control-of-gao-international-airport-in-the-northern-town-and-islamist-stronghold-of-gao.md) _Context: France, Gao, Mali_
 4. [French and Malian troops retake Diabaly and Douentza as Islamist forces retreat. ](/news/2013/01/21/french-and-malian-troops-retake-diabaly-and-douentza-as-islamist-forces-retreat.md) _Context: Diabaly, France, Mali_
 5. [A suicide bomber detonates a vehicle full of explosives at a military camp in Gao, Mali, killing at least 76 people and wounding scores more in Mali's deadliest terrorist attack in history. ](/news/2017/01/18/a-suicide-bomber-detonates-a-vehicle-full-of-explosives-at-a-military-camp-in-gao-mali-killing-at-least-76-people-and-wounding-scores-more.md) _Context: Gao, Mali_
-
-### Changes:
-
-1. [Northern Mali conflict (2012-present): Islamists rebels capture the Malian town of Diabaly after fierce fighting with government troops, as French airplanes strike targets in Gao. ](/news/2013/01/14/northern-mali-conflict-2012apresent-pislamists-rebels-capture-the-malian-town-of-diabaly-after-fierce-fighting-with-government-troops.md) _2017-05-25 03:38:45 (First version)_
-2. [Northern Mali conflict (2012-present):Islamists rebels capture the Malian town of Diabaly after fierce fighting with government troops, as French airplanes strike targets in Gao. ](/news/2013/01/14/northern-mali-conflict-2012apresent-pislamists-rebels-capture-the-malian-town-of-diabaly-after-fierce-fighting-with-government-troops-a.md) _2017-08-25 03:37:15 (Update)_
-3. [Northern Mali conflict (2012-present):: Islamists rebels capture the Malian town of Diabaly after fierce fighting with government troops, as French airplanes strike targets in Gao. ](/news/2013/01/14/northern-mali-conflict-2012-present-islamists-rebels-capture-the-malian-town-of-diabaly-after-fierce-fighting-with-government-troops.md) _2017-08-27 03:37:25 (Update)_
-3. [Islamists rebels capture the Malian town of Diabaly after fierce fighting with government troops, as French airplanes strike targets in Gao. ](/news/2013/01/14/islamists-rebels-capture-the-malian-town-of-diabaly-after-fierce-fighting-with-government-troops-as-french-airplanes-strike-targets-in-gao.md) _(Current version)_

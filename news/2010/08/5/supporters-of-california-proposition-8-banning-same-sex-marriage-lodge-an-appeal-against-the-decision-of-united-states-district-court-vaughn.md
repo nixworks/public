@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/5/supporters-of-california-proposition-8-banning-same-sex-marriage-lodge-an-appeal-against-the-decision-of-united-states-district-court-vaughn.html)  [JSON](/news/2010/08/5/supporters-of-california-proposition-8-banning-same-sex-marriage-lodge-an-appeal-against-the-decision-of-united-states-district-court-vaughn.json)  [XML](/news/2010/08/5/supporters-of-california-proposition-8-banning-same-sex-marriage-lodge-an-appeal-against-the-decision-of-united-states-district-court-vaughn.xml)  
+
 ### [2010-08-5](/news/2010/08/5/index.md)
 
+##### California
 # Supporters of California Proposition 8 banning same-sex marriage lodge an appeal against the decision of United States district court Vaughn R. Walker overturning it. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2010/US/08/05/california.same.sex.ruling/?hpt=C1)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/22/opposition-leader-kizza-besigye-is-arrested-whi
 
 ### [2016-02-22](/news/2016/02/22/index.md)
 
+##### Ugandan general election, 2016
 # Opposition leader Kizza Besigye is arrested while trying to obtain copies of the official election results. 
 
 

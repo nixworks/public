@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/4/women-and-children-march-towards-mahmoud-al-zahar-s-house-in-gaza-to-hand-him-a-letter-calling-on-hamas-to-insist-on-the-release-of-1-000-is.html)  [JSON](/news/2010/07/4/women-and-children-march-towards-mahmoud-al-zahar-s-house-in-gaza-to-hand-him-a-letter-calling-on-hamas-to-insist-on-the-release-of-1-000-is.json)  [XML](/news/2010/07/4/women-and-children-march-towards-mahmoud-al-zahar-s-house-in-gaza-to-hand-him-a-letter-calling-on-hamas-to-insist-on-the-release-of-1-000-is.xml)  
+
 ### [2010-07-4](/news/2010/07/4/index.md)
 
+##### Mahmoud al-Zahar
 # Women and children march towards Mahmoud al-Zahar's house in Gaza to hand him a letter calling on Hamas to insist on the release of 1,000 Israeli-held Palestinian prisoners during their talks with Israel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/04/c_13383283.htm)
 

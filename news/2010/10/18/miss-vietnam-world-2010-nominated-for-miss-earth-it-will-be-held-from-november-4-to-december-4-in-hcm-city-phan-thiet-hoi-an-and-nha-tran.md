@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/18/miss-vietnam-world-2010-nominated-for-miss-earth-it-will-be-held-from-november-4-to-december-4-in-hcm-city-phan-thiet-hoi-an-and-nha-tran.html)  [JSON](/news/2010/10/18/miss-vietnam-world-2010-nominated-for-miss-earth-it-will-be-held-from-november-4-to-december-4-in-hcm-city-phan-thiet-hoi-an-and-nha-tran.json)  [XML](/news/2010/10/18/miss-vietnam-world-2010-nominated-for-miss-earth-it-will-be-held-from-november-4-to-december-4-in-hcm-city-phan-thiet-hoi-an-and-nha-tran.xml)  
+
 ### [2010-10-18](/news/2010/10/18/index.md)
 
+##### Miss Vietnam World
 # Miss Vietnam World 2010 nominated for Miss Earth. It will be held from November 4 to December 4 in HCM City, Phan Thiet, Hoi An and Nha Trang. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [vietnamnet](http://english.vietnamnet.vn/en/arts-entertainment/468/miss-vietnam-world-2010-nominated-for-miss-earth.html)
 

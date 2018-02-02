@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/27/in-senegal-unofficial-results-from-government-sources-indicate-that-incumbent-president-abdoulaye-wade-has-won-the-2007-presidential-elect.html)  [JSON](/news/2007/02/27/in-senegal-unofficial-results-from-government-sources-indicate-that-incumbent-president-abdoulaye-wade-has-won-the-2007-presidential-elect.json)  [XML](/news/2007/02/27/in-senegal-unofficial-results-from-government-sources-indicate-that-incumbent-president-abdoulaye-wade-has-won-the-2007-presidential-elect.xml)  
+
 ### [2007-02-27](/news/2007/02/27/index.md)
 
+##### Senegal
 #  In Senegal, unofficial results from government sources indicate that incumbent President Abdoulaye Wade has won the 2007 presidential election with more than 50% of the votes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/africa/02/27/senegal.election.reut/index.html)
 

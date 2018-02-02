@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/25/india-offers-nepal-an-additional-billion-dollars-to-help-it-recover-from-the-april-2015-nepal-earthquake.html)  [JSON](/news/2015/06/25/india-offers-nepal-an-additional-billion-dollars-to-help-it-recover-from-the-april-2015-nepal-earthquake.json)  [XML](/news/2015/06/25/india-offers-nepal-an-additional-billion-dollars-to-help-it-recover-from-the-april-2015-nepal-earthquake.xml)  
+
 ### [2015-06-25](/news/2015/06/25/index.md)
 
+##### India
 # India offers Nepal an additional billion dollars to help it recover from the April 2015 Nepal earthquake. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3138599/India-pledges-1-bln-quake-aid-Nepal.html#ixzz3e2xYzqW6)
 

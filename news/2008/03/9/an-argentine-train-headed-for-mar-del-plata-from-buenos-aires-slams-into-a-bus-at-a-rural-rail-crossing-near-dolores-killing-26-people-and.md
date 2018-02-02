@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/9/an-argentine-train-headed-for-mar-del-plata-from-buenos-aires-slams-into-a-bus-at-a-rural-rail-crossing-near-dolores-killing-26-people-and.html)  [JSON](/news/2008/03/9/an-argentine-train-headed-for-mar-del-plata-from-buenos-aires-slams-into-a-bus-at-a-rural-rail-crossing-near-dolores-killing-26-people-and.json)  [XML](/news/2008/03/9/an-argentine-train-headed-for-mar-del-plata-from-buenos-aires-slams-into-a-bus-at-a-rural-rail-crossing-near-dolores-killing-26-people-and.xml)  
+
 ### [2008-03-9](/news/2008/03/9/index.md)
 
+##### Argentina
 #  An Argentine train headed for Mar del Plata from Buenos Aires slams into a bus at a rural rail crossing near Dolores, killing 26 people and leaving at least 60 others injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Gaulia](http://www.gaulia.com)
 2. [Xinhua News Agency](http://news.xinhuanet.com/english/2008-03/10/content_7756884.htm)

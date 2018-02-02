@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2012/11/1/new-york-mayor-michael-bloomberg-endorses-u-s-president-barack-obama-over-mitt-romney-citing-the-need-to-deal-with-climate-change-in-the-w.html)  [JSON](/news/2012/11/1/new-york-mayor-michael-bloomberg-endorses-u-s-president-barack-obama-over-mitt-romney-citing-the-need-to-deal-with-climate-change-in-the-w.json)  [XML](/news/2012/11/1/new-york-mayor-michael-bloomberg-endorses-u-s-president-barack-obama-over-mitt-romney-citing-the-need-to-deal-with-climate-change-in-the-w.xml)  
+
 ### [2012-11-1](/news/2012/11/1/index.md)
 
+##### New York Mayor
 # New York Mayor Michael Bloomberg endorses U.S. President Barack Obama over Mitt Romney, citing the need to deal with climate change in the wake of Hurricane Sandy as a reason for his choice. 
 
 New York Mayor Bloomberg endorses Obama for re-election, cites leadership on climate change.
 
 
-### Source:
+### Sources:
 
 1. [BusinessWeek](http://www.businessweek.com/ap/2012-11-01/new-york-mayor-bloomberg-endorses-obama)
 2. [Fox News](http://www.foxnews.com/politics/2012/11/01/nyc-mayor-bloomberg-backs-obama-for-re-election-citing-climate-change/)
-3. [New York Times](http://www.nytimes.com/2012/11/02/nyregion/bloomberg-endorses-obama-saying-hurricane-sandy-affected-decision.html)
+3. [New York Times](https://www.nytimes.com/2012/11/02/nyregion/bloomberg-endorses-obama-saying-hurricane-sandy-affected-decision.html)
 3. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2012/11/01/nyc-mayor-bloomberg-backs-obama-for-re-election-citing-climate-change/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1421999080531.jpg?ve=1)
 
 ### Related:

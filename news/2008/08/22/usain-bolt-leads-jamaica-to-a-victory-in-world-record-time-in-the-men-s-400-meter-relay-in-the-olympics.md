@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/22/usain-bolt-leads-jamaica-to-a-victory-in-world-record-time-in-the-men-s-400-meter-relay-in-the-olympics.html)  [JSON](/news/2008/08/22/usain-bolt-leads-jamaica-to-a-victory-in-world-record-time-in-the-men-s-400-meter-relay-in-the-olympics.json)  [XML](/news/2008/08/22/usain-bolt-leads-jamaica-to-a-victory-in-world-record-time-in-the-men-s-400-meter-relay-in-the-olympics.xml)  
+
 ### [2008-08-22](/news/2008/08/22/index.md)
 
+##### Usain Bolt
 #  Usain Bolt leads Jamaica to a victory in world-record time in the men's 400-meter relay in the Olympics. 
 
 U.S. decathlete Bryan Clay was walking slowly next to the Olympic Stadium track on a victory lap, and he reached the top of the homestretch just about the time Usain Bolt did while finishing the...
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/sports/la-sp-olytrack23-2008aug23,0,7820552.story)
 1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

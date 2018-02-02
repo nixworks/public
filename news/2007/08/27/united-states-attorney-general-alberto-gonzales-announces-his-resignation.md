@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/08/27/united-states-attorney-general-alberto-gonzales-announces-his-resignation.html)  [JSON](/news/2007/08/27/united-states-attorney-general-alberto-gonzales-announces-his-resignation.json)  [XML](/news/2007/08/27/united-states-attorney-general-alberto-gonzales-announces-his-resignation.xml)  
+
 ### [2007-08-27](/news/2007/08/27/index.md)
 
+##### United States Attorney General
 #  United States Attorney General Alberto Gonzales announces his resignation. 
 
 President Bush today praised Attorney General Alberto R. Gonzales, whose tenure has been marred by accusations of perjury before Congress, as “a man of integrity, decency and principle.”
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/2007/08/27/washington/27cnd-gonzales.html?_r=1&hp&oref=slogin)
+1. [NYT](https://www.nytimes.com/2007/08/27/washington/27cnd-gonzales.html?_r=1&hp&oref=slogin)
 1. [Cover Image](https://static01.nyt.com/images/2007/08/27/us/gonzales.1-75.jpg)
 
 ### Related:

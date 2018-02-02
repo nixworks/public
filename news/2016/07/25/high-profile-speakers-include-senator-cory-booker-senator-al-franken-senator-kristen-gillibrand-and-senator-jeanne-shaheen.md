@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/25/high-profile-speakers-include-senator-cory-book
 
 ### [2016-07-25](/news/2016/07/25/index.md)
 
+##### 2016 Democratic National Convention
 # High profile speakers include Senator Cory Booker, Senator Al Franken, Senator Kristen Gillibrand and Senator Jeanne Shaheen. 
 
 Democrats are kicking off their convention with a prime-time lineup of some of the party&apos;s biggest names. At least the biggest names wh...
@@ -25,7 +26,7 @@ Democrats are kicking off their convention with a prime-time lineup of some of t
 ### Related:
 
 1. [United States Senator Al Franken announces that he will resign "in the coming weeks" amid sexual harassment allegations. ](/news/2017/12/7/united-states-senator-al-franken-announces-that-he-will-resign-in-the-coming-weeks-amid-sexual-harassment-allegations.md) _Context: Al Franken_
-2. [Hillary Clinton accepts her party's nomination as the candidate for this year's presidential election. ](/news/2016/07/28/hillary-clinton-accepts-her-party-s-nomination-as-the-candidate-for-this-year-s-presidential-election.md) _Context: 2016 Democratic National Convention_
-3. [U.S. President Barack Obama's advocates for Hillary Clinton stating there has never been anyone more qualified than Hillary to serve as president. ](/news/2016/07/27/u-s-president-barack-obama-s-advocates-for-hillary-clinton-stating-there-has-never-been-anyone-more-qualified-than-hillary-to-serve-as-pres.md) _Context: 2016 Democratic National Convention_
-4. [Hillary Clinton is nominated as the Democratic Party candidate for this year's presidential election. She becomes the first woman ever to be nominated for president by a major party in the United States.](/news/2016/07/26/hillary-clinton-is-nominated-as-the-democratic-party-candidate-for-this-year-s-presidential-election-she-becomes-the-first-woman-ever-to-be.md) _Context: 2016 Democratic National Convention_
-5. [Debbie Wasserman Schultz resigns from her position as Chairperson of the Democratic National Committee. Wasserman Schultz had reportedly been removed from a speaking role after a WikiLeaks email leak proved her implicit support of Hillary Clinton's campaign during the primaries. Her resignation will take effect upon the close of the convention. Donna Brazile will serve as interim chair. ](/news/2016/07/24/debbie-wasserman-schultz-resigns-from-her-position-as-chairperson-of-the-democratic-national-committee-wasserman-schultz-had-reportedly-bee.md) _Context: 2016 Democratic National Convention_
+2. [Minnesota Governor Mark Dayton announces the appointment of Lt. Gov. Tina Smith to replace resigning Sen. Al Franken in the United States Senate. ](/news/2017/12/13/minnesota-governor-mark-dayton-announces-the-appointment-of-lt-gov-tina-smith-to-replace-resigning-sen-al-franken-in-the-united-states-se.md) _Context: Al Franken_
+3. [Hillary Clinton accepts her party's nomination as the candidate for this year's presidential election. ](/news/2016/07/28/hillary-clinton-accepts-her-party-s-nomination-as-the-candidate-for-this-year-s-presidential-election.md) _Context: 2016 Democratic National Convention_
+4. [U.S. President Barack Obama's advocates for Hillary Clinton stating there has never been anyone more qualified than Hillary to serve as president. ](/news/2016/07/27/u-s-president-barack-obama-s-advocates-for-hillary-clinton-stating-there-has-never-been-anyone-more-qualified-than-hillary-to-serve-as-pres.md) _Context: 2016 Democratic National Convention_
+5. [Hillary Clinton is nominated as the Democratic Party candidate for this year's presidential election. She becomes the first woman ever to be nominated for president by a major party in the United States.](/news/2016/07/26/hillary-clinton-is-nominated-as-the-democratic-party-candidate-for-this-year-s-presidential-election-she-becomes-the-first-woman-ever-to-be.md) _Context: 2016 Democratic National Convention_

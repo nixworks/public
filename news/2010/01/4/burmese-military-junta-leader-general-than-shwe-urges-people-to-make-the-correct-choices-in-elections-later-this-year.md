@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/4/burmese-military-junta-leader-general-than-shwe-urges-people-to-make-the-correct-choices-in-elections-later-this-year.html)  [JSON](/news/2010/01/4/burmese-military-junta-leader-general-than-shwe-urges-people-to-make-the-correct-choices-in-elections-later-this-year.json)  [XML](/news/2010/01/4/burmese-military-junta-leader-general-than-shwe-urges-people-to-make-the-correct-choices-in-elections-later-this-year.xml)  
+
 ### [2010-01-4](/news/2010/01/4/index.md)
 
+##### Burma
 # Burmese military junta leader General Than Shwe urges people to make the "correct choices" in elections later this year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8439160.stm)
 2. [Bernama](http://www.bernama.com/bernama/v5/newsworld.php?id=465849)

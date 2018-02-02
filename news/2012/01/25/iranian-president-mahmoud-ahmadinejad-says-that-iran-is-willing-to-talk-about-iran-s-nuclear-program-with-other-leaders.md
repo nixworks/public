@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/25/iranian-president-mahmoud-ahmadinejad-says-that-iran-is-willing-to-talk-about-iran-s-nuclear-program-with-other-leaders.html)  [JSON](/news/2012/01/25/iranian-president-mahmoud-ahmadinejad-says-that-iran-is-willing-to-talk-about-iran-s-nuclear-program-with-other-leaders.json)  [XML](/news/2012/01/25/iranian-president-mahmoud-ahmadinejad-says-that-iran-is-willing-to-talk-about-iran-s-nuclear-program-with-other-leaders.xml)  
+
 ### [2012-01-25](/news/2012/01/25/index.md)
 
+##### President
 # Iranian President Mahmoud Ahmadinejad says that Iran is willing to talk about Iran's nuclear program with other leaders. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/01/201212616169630477.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/26/20121261623949580_20.jpg)

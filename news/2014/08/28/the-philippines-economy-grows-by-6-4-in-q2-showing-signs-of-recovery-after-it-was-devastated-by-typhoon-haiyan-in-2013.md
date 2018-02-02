@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/08/28/the-philippines-economy-grows-by-6-4-in-q2-showing-signs-of-recovery-after-it-was-devastated-by-typhoon-haiyan-in-2013.html)  [JSON](/news/2014/08/28/the-philippines-economy-grows-by-6-4-in-q2-showing-signs-of-recovery-after-it-was-devastated-by-typhoon-haiyan-in-2013.json)  [XML](/news/2014/08/28/the-philippines-economy-grows-by-6-4-in-q2-showing-signs-of-recovery-after-it-was-devastated-by-typhoon-haiyan-in-2013.xml)  
+
 ### [2014-08-28](/news/2014/08/28/index.md)
 
+##### Philippines
 # The Philippines economy grows by 6.4% in Q2 showing signs of recovery after it was devastated by Typhoon Haiyan in 2013. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/business/philippine-economy-grows-64-percent-in-2q/2014/08/28/6be7987a-2e6c-11e4-be9e-60cc44c01e7f_story.html)
+1. [Washington Post](https://www.washingtonpost.com/business/philippine-economy-grows-64-percent-in-2q/2014/08/28/6be7987a-2e6c-11e4-be9e-60cc44c01e7f_story.html)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/23/a-car-bomb-is-located-and-defused-near-a-shopping-mall-in-haifa-israel.html)  [JSON](/news/2009/03/23/a-car-bomb-is-located-and-defused-near-a-shopping-mall-in-haifa-israel.json)  [XML](/news/2009/03/23/a-car-bomb-is-located-and-defused-near-a-shopping-mall-in-haifa-israel.xml)  
+
 ### [2009-03-23](/news/2009/03/23/index.md)
 
+##### car bomb
 #  A car bomb is located and defused near a shopping mall in Haifa, Israel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/7958724.stm)
 

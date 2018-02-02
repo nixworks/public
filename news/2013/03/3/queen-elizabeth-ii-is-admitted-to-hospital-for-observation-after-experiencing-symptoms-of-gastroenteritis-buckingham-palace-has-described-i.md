@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/3/queen-elizabeth-ii-is-admitted-to-hospital-for-observation-after-experiencing-symptoms-of-gastroenteritis-buckingham-palace-has-described-i.html)  [JSON](/news/2013/03/3/queen-elizabeth-ii-is-admitted-to-hospital-for-observation-after-experiencing-symptoms-of-gastroenteritis-buckingham-palace-has-described-i.json)  [XML](/news/2013/03/3/queen-elizabeth-ii-is-admitted-to-hospital-for-observation-after-experiencing-symptoms-of-gastroenteritis-buckingham-palace-has-described-i.xml)  
+
 ### [2013-03-3](/news/2013/03/3/index.md)
 
+##### Elizabeth II
 # Queen Elizabeth II is admitted to hospital for observation after experiencing symptoms of gastroenteritis. Buckingham Palace has described it as a "precaution". 
 
 The Queen is in hospital as a precaution, while she is assessed for symptoms of gastroenteritis, Buckingham Palace says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21649494)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66177000/jpg/_66177445_nag37j1u.jpg)

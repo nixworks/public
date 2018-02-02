@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/5/sting-cancels-a-performance-in-astana-kazakhstan-in-support-of-striking-oil-and-gas-workers-and-calls-for-the-spotlight-of-the-internatio.html)  [JSON](/news/2011/07/5/sting-cancels-a-performance-in-astana-kazakhstan-in-support-of-striking-oil-and-gas-workers-and-calls-for-the-spotlight-of-the-internatio.json)  [XML](/news/2011/07/5/sting-cancels-a-performance-in-astana-kazakhstan-in-support-of-striking-oil-and-gas-workers-and-calls-for-the-spotlight-of-the-internatio.xml)  
+
 ### [2011-07-5](/news/2011/07/5/index.md)
 
+##### Sting
 # Sting cancels a performance in Astana, Kazakhstan, in support of striking oil and gas workers and calls for "the spotlight of the international media [to be shone] on their situation in the hope of bringing about positive change". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/music/2011/jul/05/sting-cancels-kazakhstan-concert)
 

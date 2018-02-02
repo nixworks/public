@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/20/the-2d-version-of-the-film-avatar-is-pulled-from-theaters-in-china.html)  [JSON](/news/2010/01/20/the-2d-version-of-the-film-avatar-is-pulled-from-theaters-in-china.json)  [XML](/news/2010/01/20/the-2d-version-of-the-film-avatar-is-pulled-from-theaters-in-china.xml)  
+
 ### [2010-01-20](/news/2010/01/20/index.md)
 
+##### 2D
 # The 2D version of the film "Avatar" is pulled from theaters in China.
 
 A controversy over the withdrawal of Avatar from 2D cinema halls has forced the powerful State Administration of Radio, Film and Television in China to come out saying it is not involved in any such move.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/entertainment/8469672.stm)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/1143894.html)

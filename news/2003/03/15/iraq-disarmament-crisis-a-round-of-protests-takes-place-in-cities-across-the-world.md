@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/15/iraq-disarmament-crisis-a-round-of-protests-takes-place-in-cities-across-the-world.html)  [JSON](/news/2003/03/15/iraq-disarmament-crisis-a-round-of-protests-takes-place-in-cities-across-the-world.json)  [XML](/news/2003/03/15/iraq-disarmament-crisis-a-round-of-protests-takes-place-in-cities-across-the-world.xml)  
+
 ### [2003-03-15](/news/2003/03/15/index.md)
 
+##### Iraq disarmament crisis
 #  Iraq disarmament crisis: A round of protests takes place in cities across the world.
 
 

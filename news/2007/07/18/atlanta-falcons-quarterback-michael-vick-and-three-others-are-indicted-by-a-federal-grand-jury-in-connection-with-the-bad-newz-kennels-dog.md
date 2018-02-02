@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/18/atlanta-falcons-quarterback-michael-vick-and-three-others-are-indicted-by-a-federal-grand-jury-in-connection-with-the-bad-newz-kennels-dog.html)  [JSON](/news/2007/07/18/atlanta-falcons-quarterback-michael-vick-and-three-others-are-indicted-by-a-federal-grand-jury-in-connection-with-the-bad-newz-kennels-dog.json)  [XML](/news/2007/07/18/atlanta-falcons-quarterback-michael-vick-and-three-others-are-indicted-by-a-federal-grand-jury-in-connection-with-the-bad-newz-kennels-dog.xml)  
+
 ### [2007-07-18](/news/2007/07/18/index.md)
 
+##### Atlanta Falcons
 #  Atlanta Falcons quarterback Michael Vick and three others are indicted by a federal grand jury in connection with the Bad Newz Kennels dog fighting investigation. 
 
 Michael Vick has been indicted by a federal grand jury in connection with the dogfighting probe of his property in Virginia.
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://sports.espn.go.com/nfl/news/story?id=2940065)
 1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fheadshots%2Fnfl%2Fplayers%2Ffull%2F2549.png)

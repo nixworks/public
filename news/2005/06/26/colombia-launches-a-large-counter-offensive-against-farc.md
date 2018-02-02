@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/26/colombia-launches-a-large-counter-offensive-against-farc.html)  [JSON](/news/2005/06/26/colombia-launches-a-large-counter-offensive-against-farc.json)  [XML](/news/2005/06/26/colombia-launches-a-large-counter-offensive-against-farc.xml)  
+
 ### [2005-06-26](/news/2005/06/26/index.md)
 
+##### Colombia
 #  Colombia launches a large counter-offensive against FARC 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4625433.stm)
 2. [CNN](http://edition.cnn.com/2005/WORLD/americas/06/26/colombian.soldiers.ap/index.html)

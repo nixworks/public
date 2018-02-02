@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/16/evacuations-following-the-failed-ceasefire-are-
 
 ### [2016-12-16](/news/2016/12/16/index.md)
 
+##### Aleppo offensive (November-December 2016)
 #  Evacuations following the failed ceasefire are once again disrupted by the Syrian forces for reasons withheld. An estimate of 8000 people, mostly civilians, successfully fled the remains of the city. 
 
 The evacuation breakdown came a day after more than 8,000 people from eastern Aleppo had been taken out. Many thousands are said to remain.

@@ -1,17 +1,20 @@
+
+Formats: [HTML](/news/2004/11/11/yasser-arafat-s-funeral-procession-is-held-in-cairo-egypt-arafat-is-given-full-military-honours-and-his-coffin-is-led-by-a-horse-drawn-ca.html)  [JSON](/news/2004/11/11/yasser-arafat-s-funeral-procession-is-held-in-cairo-egypt-arafat-is-given-full-military-honours-and-his-coffin-is-led-by-a-horse-drawn-ca.json)  [XML](/news/2004/11/11/yasser-arafat-s-funeral-procession-is-held-in-cairo-egypt-arafat-is-given-full-military-honours-and-his-coffin-is-led-by-a-horse-drawn-ca.xml)  
+
 ### [2004-11-11](/news/2004/11/11/index.md)
 
+##### death
 #  Yasser Arafat's funeral procession is held in Cairo, Egypt. Arafat is given full military honours and his coffin is led by a horse-drawn carriage. Leaders of Muslim and Arab countries as well as other dignitaries attend, including Khaled Meshaal, head of Hamas, who is currently sought by Israel. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4005027.stm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4005605.stm)
 3. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4005751.stm)
-4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6798182&section=news)
-4. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+4. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6798182&section=news)
 
 ### Related:
 

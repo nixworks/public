@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/25/u-s-president-barack-obama-nominates-ben-bernanke-for-his-second-term-as-chairman-of-the-federal-reserve.html)  [JSON](/news/2009/08/25/u-s-president-barack-obama-nominates-ben-bernanke-for-his-second-term-as-chairman-of-the-federal-reserve.json)  [XML](/news/2009/08/25/u-s-president-barack-obama-nominates-ben-bernanke-for-his-second-term-as-chairman-of-the-federal-reserve.xml)  
+
 ### [2009-08-25](/news/2009/08/25/index.md)
 
+##### Barack Obama
 #  U.S. President Barack Obama nominates Ben Bernanke for his second term as chairman of the Federal Reserve. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg](http://bloomberg.com/apps/news?pid=20601087&sid=aYMPMvyXHSgk)
 

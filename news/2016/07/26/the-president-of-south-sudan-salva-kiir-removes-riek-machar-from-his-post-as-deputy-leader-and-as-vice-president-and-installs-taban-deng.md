@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/26/the-president-of-south-sudan-salva-kiir-removes
 
 ### [2016-07-26](/news/2016/07/26/index.md)
 
+##### President of South Sudan
 # The President of South Sudan, Salva Kiir, removes Riek Machar from his post as deputy leader and as vice president, and installs Taban Deng Gai in his place. 
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/12/protests-against-american-president-elect-donal
 
 ### [2016-11-12](/news/2016/11/12/index.md)
 
+##### Anti-Trump protests
 # Protests against American president-elect Donald Trump continue in his hometown New York City. 
 
 Beyond the commotion in the streets, liberal activists are preparing legislative challenges and getting ready to support social services they assume will be gutted.

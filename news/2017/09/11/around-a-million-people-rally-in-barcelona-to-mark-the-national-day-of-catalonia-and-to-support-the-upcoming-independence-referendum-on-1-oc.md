@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/11/around-a-million-people-rally-in-barcelona-to-m
 
 ### [2017-09-11](/news/2017/09/11/index.md)
 
+##### Catalan independence
 # Around a million people rally in Barcelona to mark the National Day of Catalonia and to support the upcoming independence referendum on 1 October. 
 
 

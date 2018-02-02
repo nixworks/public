@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/16/police-clash-with-hundreds-of-protesters-in-peru-demonstrating-over-the-failure-of-president-alan-garcia-s-government-to-rebuild-the-city-o.html)  [JSON](/news/2009/08/16/police-clash-with-hundreds-of-protesters-in-peru-demonstrating-over-the-failure-of-president-alan-garcia-s-government-to-rebuild-the-city-o.json)  [XML](/news/2009/08/16/police-clash-with-hundreds-of-protesters-in-peru-demonstrating-over-the-failure-of-president-alan-garcia-s-government-to-rebuild-the-city-o.xml)  
+
 ### [2009-08-16](/news/2009/08/16/index.md)
 
+##### Peru
 #  Police clash with hundreds of protesters in Peru demonstrating over the failure of President Alan Garca's government to rebuild the city of Pisco two years since it was devastated by a powerful earthquake. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0816/breaking119.htm)
 1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/16/a-study-done-by-the-potsdam-institute-for-climate-impact-research-concluded-that-reduced-wintertime-arctic-sea-ice-cover-could-create-anomal.html)  [JSON](/news/2010/11/16/a-study-done-by-the-potsdam-institute-for-climate-impact-research-concluded-that-reduced-wintertime-arctic-sea-ice-cover-could-create-anomal.json)  [XML](/news/2010/11/16/a-study-done-by-the-potsdam-institute-for-climate-impact-research-concluded-that-reduced-wintertime-arctic-sea-ice-cover-could-create-anomal.xml)  
+
 ### [2010-11-16](/news/2010/11/16/index.md)
 
+##### Potsdam Institute for Climate Impact Research
 # A study done by the Potsdam Institute for Climate Impact Research concluded that reduced wintertime Arctic sea ice cover could create anomalies in wind patterns, resulting in overall cooler winters in continents across the northern hemisphere. 
 
 Get the latest science news and technology news, read tech reviews and more at ABC News.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Technology/wireStory?id=12160105)
 

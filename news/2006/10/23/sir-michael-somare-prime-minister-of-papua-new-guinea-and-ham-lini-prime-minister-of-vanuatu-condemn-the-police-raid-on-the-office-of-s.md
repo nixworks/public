@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/23/sir-michael-somare-prime-minister-of-papua-new-guinea-and-ham-lini-prime-minister-of-vanuatu-condemn-the-police-raid-on-the-office-of-s.html)  [JSON](/news/2006/10/23/sir-michael-somare-prime-minister-of-papua-new-guinea-and-ham-lini-prime-minister-of-vanuatu-condemn-the-police-raid-on-the-office-of-s.json)  [XML](/news/2006/10/23/sir-michael-somare-prime-minister-of-papua-new-guinea-and-ham-lini-prime-minister-of-vanuatu-condemn-the-police-raid-on-the-office-of-s.xml)  
+
 ### [2006-10-23](/news/2006/10/23/index.md)
 
+##### Michael Somare
 #  Sir Michael Somare, Prime Minister of Papua New Guinea, and Ham Lini, Prime Minister of Vanuatu, condemn the police raid on the office of Solomon Islands Prime Minister Manasseh Sogavare. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200610/s1771095.htm)
 

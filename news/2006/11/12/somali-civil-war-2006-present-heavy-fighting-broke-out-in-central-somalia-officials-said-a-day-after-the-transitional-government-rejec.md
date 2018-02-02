@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/12/somali-civil-war-2006-present-heavy-fighting-broke-out-in-central-somalia-officials-said-a-day-after-the-transitional-government-rejec.html)  [JSON](/news/2006/11/12/somali-civil-war-2006-present-heavy-fighting-broke-out-in-central-somalia-officials-said-a-day-after-the-transitional-government-rejec.json)  [XML](/news/2006/11/12/somali-civil-war-2006-present-heavy-fighting-broke-out-in-central-somalia-officials-said-a-day-after-the-transitional-government-rejec.xml)  
+
 ### [2006-11-12](/news/2006/11/12/index.md)
 
+##### Somali Civil War
 #  Somali Civil War (2006-present): Heavy fighting broke out in central Somalia, officials said, a day after the transitional government rejected a peace initiative with the country's Islamic movement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1162378380597&pagename=JPost%2FJPArticle%2FShowFull)
 

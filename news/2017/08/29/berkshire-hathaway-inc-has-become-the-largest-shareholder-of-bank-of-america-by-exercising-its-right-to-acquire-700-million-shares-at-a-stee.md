@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/29/berkshire-hathaway-inc-has-become-the-largest-s
 
 ### [2017-08-29](/news/2017/08/29/index.md)
 
+##### Banking in the United States
 # Berkshire Hathaway Inc has become the largest shareholder of Bank of America by exercising its right to acquire 700 million shares at a steep discount, more than tripling an investment it made six years ago. Bank of America on Tuesday announced the exercise of the warrants, which gave Berkshire, controlled by Warren Buffett, the right to buy the bank's shares for about $7.14 each. Bank of America shares closed down 14 cents at $23.58 on the same day. 
 
 

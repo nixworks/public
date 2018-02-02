@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/13/an-apartment-block-in-the-north-korean-capital-pyongyang-containing-100-families-collapses.html)  [JSON](/news/2014/05/13/an-apartment-block-in-the-north-korean-capital-pyongyang-containing-100-families-collapses.json)  [XML](/news/2014/05/13/an-apartment-block-in-the-north-korean-capital-pyongyang-containing-100-families-collapses.xml)  
+
 ### [2014-05-13](/news/2014/05/13/index.md)
 
+##### North Korea
 # An apartment block in the North Korean capital Pyongyang containing 100 families collapses. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/pyongyang-unit-block-collapses-on-residents/story-e6frg6so-1226921719729)
 

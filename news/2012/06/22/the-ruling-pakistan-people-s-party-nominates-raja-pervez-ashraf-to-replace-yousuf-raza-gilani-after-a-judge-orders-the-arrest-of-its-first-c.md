@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/22/the-ruling-pakistan-people-s-party-nominates-raja-pervez-ashraf-to-replace-yousuf-raza-gilani-after-a-judge-orders-the-arrest-of-its-first-c.html)  [JSON](/news/2012/06/22/the-ruling-pakistan-people-s-party-nominates-raja-pervez-ashraf-to-replace-yousuf-raza-gilani-after-a-judge-orders-the-arrest-of-its-first-c.json)  [XML](/news/2012/06/22/the-ruling-pakistan-people-s-party-nominates-raja-pervez-ashraf-to-replace-yousuf-raza-gilani-after-a-judge-orders-the-arrest-of-its-first-c.xml)  
+
 ### [2012-06-22](/news/2012/06/22/index.md)
 
+##### Pakistan People's Party
 # The ruling Pakistan People's Party nominates Raja Pervez Ashraf to replace Yousuf Raza Gilani after a judge orders the arrest of its first choice candidate Makhdoom Shahabuddin for alleged illegal importation of drugs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18546921)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/61068000/jpg/_61068203_015126743-1.jpg)

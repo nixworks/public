@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/30/irish-minister-for-justice-and-law-reform-dermot-ahern-announces-he-is-not-to-contest-his-seat-in-da-il-aireann-at-the-next-general-electio.html)  [JSON](/news/2010/11/30/irish-minister-for-justice-and-law-reform-dermot-ahern-announces-he-is-not-to-contest-his-seat-in-da-il-aireann-at-the-next-general-electio.json)  [XML](/news/2010/11/30/irish-minister-for-justice-and-law-reform-dermot-ahern-announces-he-is-not-to-contest-his-seat-in-da-il-aireann-at-the-next-general-electio.xml)  
+
 ### [2010-11-30](/news/2010/11/30/index.md)
 
+##### Minister for Justice and Equality
 # Irish Minister for Justice and Law Reform Dermot Ahern announces he is not to contest his seat in Dail Eireann at the next general election (due in 2011) as he has "a painful medical condition necessitating heavy medication". 
 
 Minister for Justice Dermot Ahern has said that he will not contest his Dáil seat at the next General Election.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-11874589)
 2. [Irish Independent](http://www.independent.ie/national-news/taoiseach-pays-tribute-to-dermot-ahern-2441936.html)

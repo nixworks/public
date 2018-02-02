@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/27/romano-prodi-the-president-of-the-european-commission-survives-a-letter-bomb-attack.html)  [JSON](/news/2003/12/27/romano-prodi-the-president-of-the-european-commission-survives-a-letter-bomb-attack.json)  [XML](/news/2003/12/27/romano-prodi-the-president-of-the-european-commission-survives-a-letter-bomb-attack.xml)  
+
 ### [2003-12-27](/news/2003/12/27/index.md)
 
+##### Romano Prodi
 #  Romano Prodi, the President of the European Commission, survives a letter bomb attack. 
 
 

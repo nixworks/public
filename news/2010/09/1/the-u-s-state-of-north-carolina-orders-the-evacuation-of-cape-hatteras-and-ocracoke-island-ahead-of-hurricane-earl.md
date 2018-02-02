@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/1/the-u-s-state-of-north-carolina-orders-the-evacuation-of-cape-hatteras-and-ocracoke-island-ahead-of-hurricane-earl.html)  [JSON](/news/2010/09/1/the-u-s-state-of-north-carolina-orders-the-evacuation-of-cape-hatteras-and-ocracoke-island-ahead-of-hurricane-earl.json)  [XML](/news/2010/09/1/the-u-s-state-of-north-carolina-orders-the-evacuation-of-cape-hatteras-and-ocracoke-island-ahead-of-hurricane-earl.xml)  
+
 ### [2010-09-1](/news/2010/09/1/index.md)
 
+##### U.S. state
 # The U.S. state of North Carolina orders the evacuation of Cape Hatteras and Ocracoke Island ahead of Hurricane Earl. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/USA/2010/0901/Hurricane-Earl-path-evacuation-of-Ocracoke-Island-watch-in-Virginia|+All+Stories))
 

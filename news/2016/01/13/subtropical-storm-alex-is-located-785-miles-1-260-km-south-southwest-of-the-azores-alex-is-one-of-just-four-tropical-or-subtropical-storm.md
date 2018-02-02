@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/13/subtropical-storm-alex-is-located-785-miles-1-2
 
 ### [2016-01-13](/news/2016/01/13/index.md)
 
+##### 2016 Atlantic hurricane season
 # Subtropical Storm Alex is located 785 miles (1,260 km) south-southwest of the Azores. Alex is one of just four tropical or subtropical storms to occur in January since 1851, the first year records were kept. The hurricane season begins on June 1 of each year. Alex is expected to hit the Azores on Friday with average rain accumulations of 3 to 5 inches. 
 
 

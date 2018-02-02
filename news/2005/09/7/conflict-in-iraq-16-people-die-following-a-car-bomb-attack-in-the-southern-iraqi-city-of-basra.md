@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/7/conflict-in-iraq-16-people-die-following-a-car-bomb-attack-in-the-southern-iraqi-city-of-basra.html)  [JSON](/news/2005/09/7/conflict-in-iraq-16-people-die-following-a-car-bomb-attack-in-the-southern-iraqi-city-of-basra.json)  [XML](/news/2005/09/7/conflict-in-iraq-16-people-die-following-a-car-bomb-attack-in-the-southern-iraqi-city-of-basra.xml)  
+
 ### [2005-09-7](/news/2005/09/7/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: 16 people die following a car bomb attack in the southern Iraqi city of Basra. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4224344.stm)
 2. [dailybulletin](http://www2.dailybulletin.com/news/ci_3009530)

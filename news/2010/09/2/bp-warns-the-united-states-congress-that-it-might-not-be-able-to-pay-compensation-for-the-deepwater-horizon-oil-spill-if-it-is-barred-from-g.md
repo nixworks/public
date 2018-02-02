@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/09/2/bp-warns-the-united-states-congress-that-it-might-not-be-able-to-pay-compensation-for-the-deepwater-horizon-oil-spill-if-it-is-barred-from-g.html)  [JSON](/news/2010/09/2/bp-warns-the-united-states-congress-that-it-might-not-be-able-to-pay-compensation-for-the-deepwater-horizon-oil-spill-if-it-is-barred-from-g.json)  [XML](/news/2010/09/2/bp-warns-the-united-states-congress-that-it-might-not-be-able-to-pay-compensation-for-the-deepwater-horizon-oil-spill-if-it-is-barred-from-g.xml)  
+
 ### [2010-09-2](/news/2010/09/2/index.md)
 
+##### BP
 # BP warns the United States Congress that it might not be able to pay compensation for the Deepwater Horizon oil spill if it is barred from getting new offshore drilling permits. 
 
 The company says proposed legislation could disrupt its efforts to set aside $20 billion for claims and penalties.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2010/09/03/business/03bp.html?_r=1&emc=na)
+1. [New York Times](https://www.nytimes.com/2010/09/03/business/03bp.html?_r=1&emc=na)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

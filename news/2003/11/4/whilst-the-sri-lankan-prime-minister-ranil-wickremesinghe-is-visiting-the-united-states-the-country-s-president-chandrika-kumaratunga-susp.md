@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/4/whilst-the-sri-lankan-prime-minister-ranil-wickremesinghe-is-visiting-the-united-states-the-country-s-president-chandrika-kumaratunga-susp.html)  [JSON](/news/2003/11/4/whilst-the-sri-lankan-prime-minister-ranil-wickremesinghe-is-visiting-the-united-states-the-country-s-president-chandrika-kumaratunga-susp.json)  [XML](/news/2003/11/4/whilst-the-sri-lankan-prime-minister-ranil-wickremesinghe-is-visiting-the-united-states-the-country-s-president-chandrika-kumaratunga-susp.xml)  
+
 ### [2003-11-4](/news/2003/11/4/index.md)
 
+##### Sri Lankan prime minister
 #  Whilst the Sri Lankan prime minister Ranil Wickremesinghe is visiting the United States, the country's president Chandrika Kumaratunga suspends parliament and deploys troops, effectively putting the country into a state of martial law.
 
 

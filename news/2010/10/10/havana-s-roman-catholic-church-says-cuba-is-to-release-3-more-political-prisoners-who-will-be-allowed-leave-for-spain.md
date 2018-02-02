@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/10/havana-s-roman-catholic-church-says-cuba-is-to-release-3-more-political-prisoners-who-will-be-allowed-leave-for-spain.html)  [JSON](/news/2010/10/10/havana-s-roman-catholic-church-says-cuba-is-to-release-3-more-political-prisoners-who-will-be-allowed-leave-for-spain.json)  [XML](/news/2010/10/10/havana-s-roman-catholic-church-says-cuba-is-to-release-3-more-political-prisoners-who-will-be-allowed-leave-for-spain.xml)  
+
 ### [2010-10-10](/news/2010/10/10/index.md)
 
+##### Havana
 # Havana's Roman Catholic Church says Cuba is to release 3 more political prisoners who will be allowed leave for Spain. 
 
 Cuba is to release three more political prisoners, the Catholic Church in Havana says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11509383)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

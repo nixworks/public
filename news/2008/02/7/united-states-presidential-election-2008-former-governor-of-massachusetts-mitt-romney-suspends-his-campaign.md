@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/7/united-states-presidential-election-2008-former-governor-of-massachusetts-mitt-romney-suspends-his-campaign.html)  [JSON](/news/2008/02/7/united-states-presidential-election-2008-former-governor-of-massachusetts-mitt-romney-suspends-his-campaign.json)  [XML](/news/2008/02/7/united-states-presidential-election-2008-former-governor-of-massachusetts-mitt-romney-suspends-his-campaign.xml)  
+
 ### [2008-02-7](/news/2008/02/7/index.md)
 
+##### 2008
 #  United States presidential election, 2008: Former Governor of Massachusetts Mitt Romney suspends his campaign. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/POLITICS/02/07/romney.campaign/index.html)
 

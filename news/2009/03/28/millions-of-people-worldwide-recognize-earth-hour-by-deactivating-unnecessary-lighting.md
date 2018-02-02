@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/28/millions-of-people-worldwide-recognize-earth-hour-by-deactivating-unnecessary-lighting.html)  [JSON](/news/2009/03/28/millions-of-people-worldwide-recognize-earth-hour-by-deactivating-unnecessary-lighting.json)  [XML](/news/2009/03/28/millions-of-people-worldwide-recognize-earth-hour-by-deactivating-unnecessary-lighting.xml)  
+
 ### [2009-03-28](/news/2009/03/28/index.md)
 
+##### Earth Hour
 #  Millions of people worldwide recognize Earth Hour by deactivating unnecessary lighting. 
 
 Millions of people across the world have marked Earth Hour by switching off lights.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/7969515.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0328/earthhour.html)

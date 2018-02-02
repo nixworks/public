@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/10/9/japan-s-third-biggest-steelmaker-kobe-steel-admits-to-falsification-of-product-data-about-four-percent-of-the-aluminum-and-copper-product.html)  [JSON](/news/2017/10/9/japan-s-third-biggest-steelmaker-kobe-steel-admits-to-falsification-of-product-data-about-four-percent-of-the-aluminum-and-copper-product.json)  [XML](/news/2017/10/9/japan-s-third-biggest-steelmaker-kobe-steel-admits-to-falsification-of-product-data-about-four-percent-of-the-aluminum-and-copper-product.xml)  
+
 ### [2017-10-9](/news/2017/10/9/index.md)
 
+##### 2017 Kobe Steel falsification of data scandal
 # Japan's third-biggest steelmaker, Kobe Steel, admits to falsification of product data. About four percent of the aluminum and copper products that it shipped from September 2016 to August 2017 were falsely labeled as meeting the specifications requested by 200 customers, including Toyota Motor Corp, Central Japan Railway Company, Mitsubishi Heavy Industries, Mazda Motor Corp, and Subaru Corp. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](https://www.reuters.com/article/us-japan-kobe-steel/kobe-steel-under-the-gun-after-firm-admits-data-falsification-idUSKBN1CF006)
 1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20171010&t=2&i=1204851024&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED990BW)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/20/ehud-barak-the-new-minister-for-defense-states-that-israel-will-admit-humanitarian-cases-of-palestinians-fleeing-the-hamas-controlled-g.html)  [JSON](/news/2007/06/20/ehud-barak-the-new-minister-for-defense-states-that-israel-will-admit-humanitarian-cases-of-palestinians-fleeing-the-hamas-controlled-g.json)  [XML](/news/2007/06/20/ehud-barak-the-new-minister-for-defense-states-that-israel-will-admit-humanitarian-cases-of-palestinians-fleeing-the-hamas-controlled-g.xml)  
+
 ### [2007-06-20](/news/2007/06/20/index.md)
 
+##### Ehud Barak
 #  Ehud Barak, the new Minister for Defense, states that Israel will admit "humanitarian cases" of Palestinians fleeing the Hamas-controlled Gaza Strip. 
 
 Israel will allow an unspecified number of Palestinians desperately fleeing the Hamas-controlled Gaza Strip to enter Israel, the Defence Ministry says.
 
 
-### Source:
+### Sources:
 
 1. [AP via CBC](http://www.cbc.ca/world/story/2007/06/20/israel-palestinians.html)
 1. [Cover Image](https://i.cbc.ca/1.2269771.1383018968!/httpImage/image.jpg_gen/derivatives/16x9_1180/top-erez-cp-3167673.jpg)

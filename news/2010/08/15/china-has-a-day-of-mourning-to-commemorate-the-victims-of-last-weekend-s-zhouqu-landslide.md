@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/08/15/china-has-a-day-of-mourning-to-commemorate-the-victims-of-last-weekend-s-zhouqu-landslide.html)  [JSON](/news/2010/08/15/china-has-a-day-of-mourning-to-commemorate-the-victims-of-last-weekend-s-zhouqu-landslide.json)  [XML](/news/2010/08/15/china-has-a-day-of-mourning-to-commemorate-the-victims-of-last-weekend-s-zhouqu-landslide.xml)  
+
 ### [2010-08-15](/news/2010/08/15/index.md)
 
+##### China
 # China has a day of mourning to commemorate the victims of last weekend's Zhouqu landslide. 
 
 Flags fly at half mast and entertainment suspended on national day of mourning.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/20108152252905447.html)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-08/15/content_11154941.htm)
-3. [Reuters](http://www.reuters.com/article/idUSTRE67E05520100815)
+3. [Reuters](https://www.reuters.com/article/idUSTRE67E05520100815)
 3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:

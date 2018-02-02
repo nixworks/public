@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/16/the-vegetarian-written-by-han-kang-and-translat
 
 ### [2016-05-16](/news/2016/05/16/index.md)
 
+##### The Vegetarian
 #  "The Vegetarian", written by Han Kang and translated by Deborah Smith, wins the Man Booker International Prize. 
 
 A South Korean novel about a woman who &quot;wants to reject human brutality&quot; and gives up eating meat, has won the 2016 Man Booker International Prize.

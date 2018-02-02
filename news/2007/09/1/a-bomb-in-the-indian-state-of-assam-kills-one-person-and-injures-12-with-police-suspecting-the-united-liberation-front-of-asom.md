@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/1/a-bomb-in-the-indian-state-of-assam-kills-one-person-and-injures-12-with-police-suspecting-the-united-liberation-front-of-asom.html)  [JSON](/news/2007/09/1/a-bomb-in-the-indian-state-of-assam-kills-one-person-and-injures-12-with-police-suspecting-the-united-liberation-front-of-asom.json)  [XML](/news/2007/09/1/a-bomb-in-the-indian-state-of-assam-kills-one-person-and-injures-12-with-police-suspecting-the-united-liberation-front-of-asom.xml)  
+
 ### [2007-09-1](/news/2007/09/1/index.md)
 
+##### India
 #  A bomb in the Indian state of Assam kills one person and injures 12, with police suspecting the United Liberation Front of Asom. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via IHT](http://www.iht.com/articles/ap/2007/09/01/asia/AS-GEN-India-Blast.php)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/15/a-suspected-drone-attack-in-pakistan-s-north-waziristan-province-kills-six-militants.html)  [JSON](/news/2011/11/15/a-suspected-drone-attack-in-pakistan-s-north-waziristan-province-kills-six-militants.json)  [XML](/news/2011/11/15/a-suspected-drone-attack-in-pakistan-s-north-waziristan-province-kills-six-militants.xml)  
+
 ### [2011-11-15](/news/2011/11/15/index.md)
 
+##### Pakistan
 # A suspected drone attack in Pakistan's North Waziristan province kills six militants. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-15732204)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52140000/jpg/_52140600_008664042-1.jpg)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/12/13/google-removes-a-privacy-feature-from-its-android-mobile-software-despite-objections-from-groups-such-as-the-electronic-frontier-foundation.html)  [JSON](/news/2013/12/13/google-removes-a-privacy-feature-from-its-android-mobile-software-despite-objections-from-groups-such-as-the-electronic-frontier-foundation.json)  [XML](/news/2013/12/13/google-removes-a-privacy-feature-from-its-android-mobile-software-despite-objections-from-groups-such-as-the-electronic-frontier-foundation.xml)  
+
 ### [2013-12-13](/news/2013/12/13/index.md)
 
+##### Google
 # Google removes a privacy feature from its Android mobile software, despite objections from groups such as the Electronic Frontier Foundation. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/12/13/us-google-android-idUSBRE9BC0YO20131213)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131213&t=2&i=820151555&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9BC1OBS00)
+1. [Reuters](https://www.reuters.com/article/2013/12/13/us-google-android-idUSBRE9BC0YO20131213)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20131213&t=2&i=820151555&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9BC1OBS00)
 
 ### Related:
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/30/two-security-officers-are-killed-in-a-shooting-
 
 ### [2017-12-30](/news/2017/12/30/index.md)
 
+##### Arizona Charlie's Decatur
 # Two security officers are killed in a shooting at the hotel-casino Arizona Charlie's Decatur in Las Vegas. 
 
 Las Vegas police are investigating a deadly incident at a hotel-casino where two security guards were shot and killed Saturday morning. 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/23/the-dalai-lama-warns-that-he-is-losing-confidence-in-chinese-officials-and-that-the-tibetan-people-are-facing-great-danger.html)  [JSON](/news/2008/11/23/the-dalai-lama-warns-that-he-is-losing-confidence-in-chinese-officials-and-that-the-tibetan-people-are-facing-great-danger.json)  [XML](/news/2008/11/23/the-dalai-lama-warns-that-he-is-losing-confidence-in-chinese-officials-and-that-the-tibetan-people-are-facing-great-danger.xml)  
+
 ### [2008-11-23](/news/2008/11/23/index.md)
 
+##### Dalai Lama
 #  The Dalai Lama warns that he is losing confidence in Chinese officials and that the Tibetan people are facing "great danger". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gGUWwStUA4zCho70OTGulXLqAUIg)
 

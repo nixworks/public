@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/1/sudanese-president-omar-al-bashir-names-vice-pre
 
 ### [2017-03-1](/news/2017/03/1/index.md)
 
+##### Sudan
 # Sudanese President Omar al-Bashir names Vice President Bakri Hassan Saleh as Prime Minister of Sudan, the first person to hold the post since it was abolished following the 1989 Sudanese coup d'etat. 
 
  Sudanese President Omar Hassan al-Bashir named his first vice president and long-time ally Hassan Saleh to the newly created post of prime minister on Wednesda

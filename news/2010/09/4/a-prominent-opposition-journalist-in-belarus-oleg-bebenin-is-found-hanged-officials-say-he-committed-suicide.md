@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/4/a-prominent-opposition-journalist-in-belarus-oleg-bebenin-is-found-hanged-officials-say-he-committed-suicide.html)  [JSON](/news/2010/09/4/a-prominent-opposition-journalist-in-belarus-oleg-bebenin-is-found-hanged-officials-say-he-committed-suicide.json)  [XML](/news/2010/09/4/a-prominent-opposition-journalist-in-belarus-oleg-bebenin-is-found-hanged-officials-say-he-committed-suicide.xml)  
+
 ### [2010-09-4](/news/2010/09/4/index.md)
 
+##### Belarus
 # A prominent opposition journalist in Belarus, Oleg Bebenin, is found hanged; officials say he committed suicide. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11189609)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=24&art_id=nw20100904175309614C736503)

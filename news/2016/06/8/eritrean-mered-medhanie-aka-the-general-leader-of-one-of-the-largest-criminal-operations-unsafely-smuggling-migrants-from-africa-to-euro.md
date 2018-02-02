@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/8/eritrean-mered-medhanie-aka-the-general-leader-o
 
 ### [2016-06-8](/news/2016/06/8/index.md)
 
+##### Eritrea
 # Eritrean Mered Medhanie, aka "The General", leader of one of the largest criminal operations unsafely smuggling migrants from Africa to Europe for up to EUR5,000 (GBP3,900; $5,680), is extradited to Italy. Police say in one attempt at least 359 migrants died when their boat sank near the Italian island of Lampedusa in October 2013. 
 
 An Eritrean man thought to be at the heart of the operation to smuggle migrants from Africa to Europe is extradited from Sudan to Italy, prosecutors say.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/7/in-broward-county-officials-find-the-software-used-in-broward-can-handle-only-32-000-votes-per-precinct-after-that-the-system-starts-cou.html)  [JSON](/news/2004/11/7/in-broward-county-officials-find-the-software-used-in-broward-can-handle-only-32-000-votes-per-precinct-after-that-the-system-starts-cou.json)  [XML](/news/2004/11/7/in-broward-county-officials-find-the-software-used-in-broward-can-handle-only-32-000-votes-per-precinct-after-that-the-system-starts-cou.xml)  
+
 ### [2004-11-7](/news/2004/11/7/index.md)
 
+##### Broward
 #  In Broward County, officials find the software used in Broward can handle only 32,000 votes per precinct. After that, the system starts counting backward. The problem affected running tallies and not the final vote totals. All absentee ballots had been placed in a single precinct to be counted and only the votes for constitutional amendments reached the threshold and encountered the problem. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Palm Beach Post](http://www.palmbeachpost.com/politics/content/news/epaper/2004/11/05/a29a_BROWVOTE_1105.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/24/nasa-s-orbiting-carbon-observatory-lands-in-the-pacific-ocean-near-antarctica-after-failing-to-reach-earth-s-orbit.html)  [JSON](/news/2009/02/24/nasa-s-orbiting-carbon-observatory-lands-in-the-pacific-ocean-near-antarctica-after-failing-to-reach-earth-s-orbit.json)  [XML](/news/2009/02/24/nasa-s-orbiting-carbon-observatory-lands-in-the-pacific-ocean-near-antarctica-after-failing-to-reach-earth-s-orbit.xml)  
+
 ### [2009-02-24](/news/2009/02/24/index.md)
 
+##### NASA
 #  NASA's Orbiting Carbon Observatory lands in the Pacific Ocean near Antarctica after failing to reach Earth's orbit. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Nasa-Climate-Change-Satellite-Fails-To-Make-It-To-Orbit-After-Not-Separting-From-Rocket/Article/200902415228722?lpos=World_News_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15228722_Nasa_Climate_Change_Satellite_Fails_To_Make_It_To_Orbit_After_Not_Separting_From_Rocket)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/24/african-heads-of-state-meet.html)  [JSON](/news/2010/07/24/african-heads-of-state-meet.json)  [XML](/news/2010/07/24/african-heads-of-state-meet.xml)  
+
 ### [2010-07-24](/news/2010/07/24/index.md)
 
+##### 
 # African heads of state meet. 
 
 African Union leaders meeting in Uganda agree to reinforce their peacekeeping force in Somalia to counter al-Shabab militants.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-10750077)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-10750780)

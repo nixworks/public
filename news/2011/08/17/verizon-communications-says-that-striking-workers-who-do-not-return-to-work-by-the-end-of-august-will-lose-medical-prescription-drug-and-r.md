@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2011/08/17/verizon-communications-says-that-striking-workers-who-do-not-return-to-work-by-the-end-of-august-will-lose-medical-prescription-drug-and-r.html)  [JSON](/news/2011/08/17/verizon-communications-says-that-striking-workers-who-do-not-return-to-work-by-the-end-of-august-will-lose-medical-prescription-drug-and-r.json)  [XML](/news/2011/08/17/verizon-communications-says-that-striking-workers-who-do-not-return-to-work-by-the-end-of-august-will-lose-medical-prescription-drug-and-r.xml)  
+
 ### [2011-08-17](/news/2011/08/17/index.md)
 
+##### Verizon Communications
 # Verizon Communications says that striking workers who do not return to work by the end of August will lose medical, prescription drug, and related benefits. 
 
+Verizon Communications Inc. told 45,000 striking workers that it will suspend certain benefits at the end of the month if they haven’t returned to their jobs, a move that a union official called a “scare” tactic.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2011-08-17/verizon-tells-striking-workers-it-plans-to-suspend-benefits.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2011-08-17/verizon-tells-striking-workers-it-plans-to-suspend-benefits.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-tech-7d25a852b6.jpg)
 
 ### Related:
 

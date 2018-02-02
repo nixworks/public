@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/8/police-kill-micah-x-johnson-the-gunman-believed-
 
 ### [2016-07-8](/news/2016/07/8/index.md)
 
+##### the shooting of Dallas police officers
 # Police kill Micah X Johnson, the gunman believed responsible for the killing of five police officers and shooting of seven more in Dallas, Texas following a standoff. 
 
 The gunman involved in the shooting of 12 police officers in Dallas was a former Army reservist who served in Afghanistan.

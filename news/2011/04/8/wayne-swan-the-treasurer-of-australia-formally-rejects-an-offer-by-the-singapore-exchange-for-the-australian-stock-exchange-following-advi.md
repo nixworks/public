@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/8/wayne-swan-the-treasurer-of-australia-formally-rejects-an-offer-by-the-singapore-exchange-for-the-australian-stock-exchange-following-advi.html)  [JSON](/news/2011/04/8/wayne-swan-the-treasurer-of-australia-formally-rejects-an-offer-by-the-singapore-exchange-for-the-australian-stock-exchange-following-advi.json)  [XML](/news/2011/04/8/wayne-swan-the-treasurer-of-australia-formally-rejects-an-offer-by-the-singapore-exchange-for-the-australian-stock-exchange-following-advi.xml)  
+
 ### [2011-04-8](/news/2011/04/8/index.md)
 
+##### Wayne Swan
 # Wayne Swan, the Treasurer of Australia, formally rejects an offer by the Singapore Exchange for the Australian Stock Exchange following advice from the Foreign Investment Review Board. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg via ''Business Week](http://www.businessweek.com/news/2011-04-08/australia-says-rejecting-singaporean-asx-bid-a-no-brainer-.html)
 

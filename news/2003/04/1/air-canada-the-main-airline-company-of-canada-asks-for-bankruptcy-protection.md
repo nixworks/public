@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/1/air-canada-the-main-airline-company-of-canada-asks-for-bankruptcy-protection.html)  [JSON](/news/2003/04/1/air-canada-the-main-airline-company-of-canada-asks-for-bankruptcy-protection.json)  [XML](/news/2003/04/1/air-canada-the-main-airline-company-of-canada-asks-for-bankruptcy-protection.xml)  
+
 ### [2003-04-1](/news/2003/04/1/index.md)
 
+##### Air Canada
 #  Air Canada, the main airline company of Canada asks for bankruptcy protection.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/18/dozens-of-civilians-sheltering-in-a-un-base-in-the-south-sudan-town-of-bor-are-killed-in-an-attack-by-armed-men.html)  [JSON](/news/2014/04/18/dozens-of-civilians-sheltering-in-a-un-base-in-the-south-sudan-town-of-bor-are-killed-in-an-attack-by-armed-men.json)  [XML](/news/2014/04/18/dozens-of-civilians-sheltering-in-a-un-base-in-the-south-sudan-town-of-bor-are-killed-in-an-attack-by-armed-men.xml)  
+
 ### [2014-04-18](/news/2014/04/18/index.md)
 
+##### United Nations
 # Dozens of civilians sheltering in a UN base in the South Sudan town of Bor are killed in an attack by armed men. 
 
 Dozens of civilians sheltering in a UN base in the South Sudan city of Bor have been killed in an attack by armed youths, the UN says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-27074635)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71985000/jpg/_71985621_71985620.jpg)

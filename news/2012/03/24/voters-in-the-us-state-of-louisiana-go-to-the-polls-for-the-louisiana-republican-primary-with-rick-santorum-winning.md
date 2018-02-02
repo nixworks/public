@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/24/voters-in-the-us-state-of-louisiana-go-to-the-polls-for-the-louisiana-republican-primary-with-rick-santorum-winning.html)  [JSON](/news/2012/03/24/voters-in-the-us-state-of-louisiana-go-to-the-polls-for-the-louisiana-republican-primary-with-rick-santorum-winning.json)  [XML](/news/2012/03/24/voters-in-the-us-state-of-louisiana-go-to-the-polls-for-the-louisiana-republican-primary-with-rick-santorum-winning.xml)  
+
 ### [2012-03-24](/news/2012/03/24/index.md)
 
+##### Louisiana
 # Voters in the US state of Louisiana go to the polls for the Louisiana Republican primary with Rick Santorum winning. 
 
 Rick Santorum is charging into the Louisiana primary Saturday holding onto a healthy lead in the polls as he looks to shake off his latest losses to Mitt Romney. 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17502873)
 2. [Fox News](http://www.foxnews.com/politics/2012/03/23/gop-candidates-tackle-major-issues-ahead-louisiana-primary/)

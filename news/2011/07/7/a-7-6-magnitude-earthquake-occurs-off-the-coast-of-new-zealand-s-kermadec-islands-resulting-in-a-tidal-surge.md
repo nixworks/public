@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/7/a-7-6-magnitude-earthquake-occurs-off-the-coast-of-new-zealand-s-kermadec-islands-resulting-in-a-tidal-surge.html)  [JSON](/news/2011/07/7/a-7-6-magnitude-earthquake-occurs-off-the-coast-of-new-zealand-s-kermadec-islands-resulting-in-a-tidal-surge.json)  [XML](/news/2011/07/7/a-7-6-magnitude-earthquake-occurs-off-the-coast-of-new-zealand-s-kermadec-islands-resulting-in-a-tidal-surge.xml)  
+
 ### [2011-07-7](/news/2011/07/7/index.md)
 
+##### earthquake
 # A 7.6 magnitude earthquake occurs off the coast of New Zealand's Kermadec Islands resulting in a tidal surge. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TV New Zealand](http://tvnz.co.nz/world-news/first-tidal-surge-hits-nz-after-7-6-quake-4289781?ref=rss)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/26/at-least-three-people-die-in-clashes-over-a-new-draft-constitution-in-sucre-bolivia.html)  [JSON](/news/2007/11/26/at-least-three-people-die-in-clashes-over-a-new-draft-constitution-in-sucre-bolivia.json)  [XML](/news/2007/11/26/at-least-three-people-die-in-clashes-over-a-new-draft-constitution-in-sucre-bolivia.xml)  
+
 ### [2007-11-26](/news/2007/11/26/index.md)
 
+##### draft constitution
 #  At least three people die in clashes over a new draft constitution in Sucre, Bolivia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/7112456.stm)
 

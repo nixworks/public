@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2008/12/28/operation-cast-lead.html)  [JSON](/news/2008/12/28/operation-cast-lead.json)  [XML](/news/2008/12/28/operation-cast-lead.xml)  
+
 ### [2008-12-28](/news/2008/12/28/index.md)
 
+##### fire
 #  Operation Cast Lead
 
 

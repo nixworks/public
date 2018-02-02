@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/21/amnesty-international-announces-that-authorities-are-investigating-alleged-crimes-against-humanity-committed-during-jean-claude-duvalier-s-1.html)  [JSON](/news/2011/01/21/amnesty-international-announces-that-authorities-are-investigating-alleged-crimes-against-humanity-committed-during-jean-claude-duvalier-s-1.json)  [XML](/news/2011/01/21/amnesty-international-announces-that-authorities-are-investigating-alleged-crimes-against-humanity-committed-during-jean-claude-duvalier-s-1.xml)  
+
 ### [2011-01-21](/news/2011/01/21/index.md)
 
+##### Amnesty International
 # Amnesty International announces that authorities are investigating alleged crimes against humanity committed during Jean-Claude Duvalier's 1971-86 rule over Haiti. Duvalier sneaks out of his upmarket hotel via a rear exit, avoiding journalists. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2011/jan/21/baby-doc-duvalier-haiti-charges)
 

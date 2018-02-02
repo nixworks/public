@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/23/the-death-toll-from-the-earthquake-passes-650-w
 
 ### [2016-04-23](/news/2016/04/23/index.md)
 
+##### earthquake
 # The death toll from the earthquake passes 650 with over 50 people missing. It is now the deadliest earthquake in South America this century. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

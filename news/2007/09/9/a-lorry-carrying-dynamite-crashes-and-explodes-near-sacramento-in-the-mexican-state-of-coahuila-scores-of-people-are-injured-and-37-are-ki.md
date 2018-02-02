@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/9/a-lorry-carrying-dynamite-crashes-and-explodes-near-sacramento-in-the-mexican-state-of-coahuila-scores-of-people-are-injured-and-37-are-ki.html)  [JSON](/news/2007/09/9/a-lorry-carrying-dynamite-crashes-and-explodes-near-sacramento-in-the-mexican-state-of-coahuila-scores-of-people-are-injured-and-37-are-ki.json)  [XML](/news/2007/09/9/a-lorry-carrying-dynamite-crashes-and-explodes-near-sacramento-in-the-mexican-state-of-coahuila-scores-of-people-are-injured-and-37-are-ki.xml)  
+
 ### [2007-09-9](/news/2007/09/9/index.md)
 
+##### dynamite
 #  A lorry carrying dynamite crashes and explodes near Sacramento in the Mexican state of Coahuila; scores of people are injured and 37 are killed, including three local reporters covering the story. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6987399.stm)
 

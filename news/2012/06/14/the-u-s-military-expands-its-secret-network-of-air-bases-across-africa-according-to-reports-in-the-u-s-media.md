@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/06/14/the-u-s-military-expands-its-secret-network-of-air-bases-across-africa-according-to-reports-in-the-u-s-media.html)  [JSON](/news/2012/06/14/the-u-s-military-expands-its-secret-network-of-air-bases-across-africa-according-to-reports-in-the-u-s-media.json)  [XML](/news/2012/06/14/the-u-s-military-expands-its-secret-network-of-air-bases-across-africa-according-to-reports-in-the-u-s-media.xml)  
+
 ### [2012-06-14](/news/2012/06/14/index.md)
 
+##### Africa
 # The U.S. military expands its secret network of air bases across Africa, according to reports in the U.S. media. 
 
 Unmarked planes with sensors being flown between secret air bases and bush strips for surveillance, says report.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/06/20126146354300436.html)
-2. [Washington Post](http://www.washingtonpost.com/world/national-security/us-expands-secret-intelligence-operations-in-africa/2012/06/13/gJQAHyvAbV_story.html)
+2. [Washington Post](https://www.washingtonpost.com/world/national-security/us-expands-secret-intelligence-operations-in-africa/2012/06/13/gJQAHyvAbV_story.html)
 2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/14/201261465038333734_20.jpg)
 
 ### Related:

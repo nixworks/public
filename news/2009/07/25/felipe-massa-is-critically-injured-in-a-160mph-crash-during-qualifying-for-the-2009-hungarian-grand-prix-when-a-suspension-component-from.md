@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2009/07/25/felipe-massa-is-critically-injured-in-a-160mph-crash-during-qualifying-for-the-2009-hungarian-grand-prix-when-a-suspension-component-from.html)  [JSON](/news/2009/07/25/felipe-massa-is-critically-injured-in-a-160mph-crash-during-qualifying-for-the-2009-hungarian-grand-prix-when-a-suspension-component-from.json)  [XML](/news/2009/07/25/felipe-massa-is-critically-injured-in-a-160mph-crash-during-qualifying-for-the-2009-hungarian-grand-prix-when-a-suspension-component-from.xml)  
+
 ### [2009-07-25](/news/2009/07/25/index.md)
 
+##### Felipe Massa
 #  Felipe Massa is critically injured in a 160mph crash during qualifying for the 2009 Hungarian Grand Prix, when a suspension component from Rubens Barrichello's car hits him on his helmet. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [TSN](http://www.tsn.ca/story/?id=285781)
-1. [Cover Image](http://www.tsn.ca/img/tsn/logos/tsn-logo.png)
+1. [TSN](https://www.tsn.ca/story/?id=285781)
 
 ### Related:
 

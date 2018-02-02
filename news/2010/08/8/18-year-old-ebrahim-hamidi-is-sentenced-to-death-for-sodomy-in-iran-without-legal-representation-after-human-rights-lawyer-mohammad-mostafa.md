@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/8/18-year-old-ebrahim-hamidi-is-sentenced-to-death-for-sodomy-in-iran-without-legal-representation-after-human-rights-lawyer-mohammad-mostafa.html)  [JSON](/news/2010/08/8/18-year-old-ebrahim-hamidi-is-sentenced-to-death-for-sodomy-in-iran-without-legal-representation-after-human-rights-lawyer-mohammad-mostafa.json)  [XML](/news/2010/08/8/18-year-old-ebrahim-hamidi-is-sentenced-to-death-for-sodomy-in-iran-without-legal-representation-after-human-rights-lawyer-mohammad-mostafa.xml)  
+
 ### [2010-08-8](/news/2010/08/8/index.md)
 
+##### Ebrahim Hamidi
 # 18-year-old Ebrahim Hamidi is sentenced to death for sodomy in Iran, without legal representation after human rights lawyer Mohammad Mostafaei flees in the wake of the Sakineh Mohammadi Ashtiani case. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Observer](http://www.guardian.co.uk/world/2010/aug/08/iran-mohammad-mostafaei-rights-lawyer)
 

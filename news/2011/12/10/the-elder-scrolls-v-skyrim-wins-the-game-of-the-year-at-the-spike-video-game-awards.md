@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/10/the-elder-scrolls-v-skyrim-wins-the-game-of-the-year-at-the-spike-video-game-awards.html)  [JSON](/news/2011/12/10/the-elder-scrolls-v-skyrim-wins-the-game-of-the-year-at-the-spike-video-game-awards.json)  [XML](/news/2011/12/10/the-elder-scrolls-v-skyrim-wins-the-game-of-the-year-at-the-spike-video-game-awards.xml)  
+
 ### [2011-12-10](/news/2011/12/10/index.md)
 
+##### The Elder Scrolls V: Skyrim
 # The Elder Scrolls V: Skyrim wins the game of the year at the Spike Video Game Awards. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via WVEC](http://hosted.ap.org/dynamic/stories/U/US_SPIKE_VIDEO_GAME_AWARDS?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
 

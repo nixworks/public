@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/15/a-war-crimes-tribunal-finds-bangladeshi-ex-politician-ghulam-azam-former-leader-of-the-bangladesh-jamaat-e-islami-guilty-of-war-crimes-dur.html)  [JSON](/news/2013/07/15/a-war-crimes-tribunal-finds-bangladeshi-ex-politician-ghulam-azam-former-leader-of-the-bangladesh-jamaat-e-islami-guilty-of-war-crimes-dur.json)  [XML](/news/2013/07/15/a-war-crimes-tribunal-finds-bangladeshi-ex-politician-ghulam-azam-former-leader-of-the-bangladesh-jamaat-e-islami-guilty-of-war-crimes-dur.xml)  
+
 ### [2013-07-15](/news/2013/07/15/index.md)
 
+##### Bangladesh
 # A war crimes tribunal finds Bangladeshi ex-politician Ghulam Azam, former leader of the Bangladesh Jamaat-e-Islami, guilty of war crimes during the Bangladesh Liberation War in 1971. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23310518)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68734000/jpg/_68734973_018652924.jpg)

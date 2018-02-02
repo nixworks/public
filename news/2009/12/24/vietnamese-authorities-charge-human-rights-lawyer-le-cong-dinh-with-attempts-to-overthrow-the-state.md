@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/24/vietnamese-authorities-charge-human-rights-lawyer-le-cong-dinh-with-attempts-to-overthrow-the-state.html)  [JSON](/news/2009/12/24/vietnamese-authorities-charge-human-rights-lawyer-le-cong-dinh-with-attempts-to-overthrow-the-state.json)  [XML](/news/2009/12/24/vietnamese-authorities-charge-human-rights-lawyer-le-cong-dinh-with-attempts-to-overthrow-the-state.xml)  
+
 ### [2009-12-24](/news/2009/12/24/index.md)
 
+##### Vietnam
 #  Vietnamese authorities charge human rights lawyer Le Cong Dinh with attempts to "overthrow the state". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8429351.stm)
 2. [MSN Malaysia](http://news.malaysia.msn.com/regional/article.aspx?cp-documentid=3761810)

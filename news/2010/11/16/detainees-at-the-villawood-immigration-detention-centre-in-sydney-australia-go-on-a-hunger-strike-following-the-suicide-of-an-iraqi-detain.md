@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/16/detainees-at-the-villawood-immigration-detention-centre-in-sydney-australia-go-on-a-hunger-strike-following-the-suicide-of-an-iraqi-detain.html)  [JSON](/news/2010/11/16/detainees-at-the-villawood-immigration-detention-centre-in-sydney-australia-go-on-a-hunger-strike-following-the-suicide-of-an-iraqi-detain.json)  [XML](/news/2010/11/16/detainees-at-the-villawood-immigration-detention-centre-in-sydney-australia-go-on-a-hunger-strike-following-the-suicide-of-an-iraqi-detain.xml)  
+
 ### [2010-11-16](/news/2010/11/16/index.md)
 
+##### Villawood Immigration Detention Centre
 # Detainees at the Villawood Immigration Detention Centre in Sydney, Australia, go on a hunger strike following the suicide of an Iraqi detainee. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via the ''Daily Telegraph](http://www.dailytelegraph.com.au/news/villawood-detainees-plan-hunger-strike/story-e6freuy9-1225954129377)
 

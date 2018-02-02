@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2011/07/25/moody-s-cuts-greece-s-credit-rating-further-to-ca-on-the-grounds-that-a-proposed-debt-swap-is-equivalent-to-a-default.html)  [JSON](/news/2011/07/25/moody-s-cuts-greece-s-credit-rating-further-to-ca-on-the-grounds-that-a-proposed-debt-swap-is-equivalent-to-a-default.json)  [XML](/news/2011/07/25/moody-s-cuts-greece-s-credit-rating-further-to-ca-on-the-grounds-that-a-proposed-debt-swap-is-equivalent-to-a-default.xml)  
+
 ### [2011-07-25](/news/2011/07/25/index.md)
 
+##### Moody's
 # Moody's cuts Greece's credit rating further to Ca on the grounds that a proposed debt swap is equivalent to a default. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-14271936)
 
 ### Related:
 
-1. [Puerto Rico fails to make a scheduled payment of US$58 million to service its debts of $72 billion. Moody's considers the commonwealth in default. ](/news/2015/08/3/puerto-rico-fails-to-make-a-scheduled-payment-of-us-58-million-to-service-its-debts-of-72-billion-moody-s-considers-the-commonwealth-in-de.md) _Context: Moody's, defaults_
-2. [The European Commission denounces international credit ratings agencies as "questionable" after Portugal is downgraded by Moody's, while Greece's foreign minister Stavros Lambrinidis calls their behaviour "madness". ](/news/2011/07/6/the-european-commission-denounces-international-credit-ratings-agencies-as-questionable-after-portugal-is-downgraded-by-moody-s-while-gre.md) _Context: Greek, Moody's_
-3. [Aftershocks cause panic in the Greek island of Kos after a deadly earthquake that injured hundreds. ](/news/2017/07/22/aftershocks-cause-panic-in-the-greek-island-of-kos-after-a-deadly-earthquake-that-injured-hundreds.md) _Context: Greek_
-4. [A 6.7 magnitude earthquake in the Aegean Sea near Greece and Turkey kills two people and injures more than 520 others. ](/news/2017/07/21/a-6-7-magnitude-earthquake-in-the-aegean-sea-near-greece-and-turkey-kills-two-people-and-injures-more-than-520-others.md) _Context: Greek_
-5. [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing one death. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-one-death-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md) _Context: Greek_
+1. [Puerto Rico fails to make a scheduled payment of US$58 million to service its debts of $72 billion. Moody's considers the commonwealth in default. ](/news/2015/08/3/puerto-rico-fails-to-make-a-scheduled-payment-of-us-58-million-to-service-its-debts-of-72-billion-moody-s-considers-the-commonwealth-in-de.md) _Context: Moody's, default_
+2. [Following a court order that payments to most bondholders be stopped until holdouts were paid, Argentina has defaulted on some of its bonds after negotiations fell short of reaching a deal with hedge fund investors demanding a full payout of US$1.3 billion on bonds. ](/news/2014/07/31/following-a-court-order-that-payments-to-most-bondholders-be-stopped-until-holdouts-were-paid-argentina-has-defaulted-on-some-of-its-bonds.md) _Context: default_
+3. [Moody's warns the United States that it faces a downgrade in its credit rating before 2014 if the government fails to act on managing its debt. ](/news/2012/09/11/moody-s-warns-the-united-states-that-it-faces-a-downgrade-in-its-credit-rating-before-2014-if-the-government-fails-to-act-on-managing-its-de.md) _Context: Moody's_
+4. [Moody's and Standard and Poor's lower their rating for Barclays from stable to negative in the wake of the Libor scandal. ](/news/2012/07/5/moody-s-and-standard-and-poor-s-lower-their-rating-for-barclays-from-stable-to-negative-in-the-wake-of-the-libor-scandal.md) _Context: Moody's_
+5. [Credit rating agency Moody's downgrades the ratings of France's three biggest banks, Credit Agricole, BNP Paribas and Societe Generale. ](/news/2011/12/9/credit-rating-agency-moody-s-downgrades-the-ratings-of-france-s-three-biggest-banks-cra-c-dit-agricole-bnp-paribas-and-socia-c-ta-c-ga-c-na-c-rale.md) _Context: Moody's_

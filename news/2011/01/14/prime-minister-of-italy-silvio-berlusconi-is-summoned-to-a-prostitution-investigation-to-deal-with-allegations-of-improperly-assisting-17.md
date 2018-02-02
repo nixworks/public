@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/14/prime-minister-of-italy-silvio-berlusconi-is-summoned-to-a-prostitution-investigation-to-deal-with-allegations-of-improperly-assisting-17.html)  [JSON](/news/2011/01/14/prime-minister-of-italy-silvio-berlusconi-is-summoned-to-a-prostitution-investigation-to-deal-with-allegations-of-improperly-assisting-17.json)  [XML](/news/2011/01/14/prime-minister-of-italy-silvio-berlusconi-is-summoned-to-a-prostitution-investigation-to-deal-with-allegations-of-improperly-assisting-17.xml)  
+
 ### [2011-01-14](/news/2011/01/14/index.md)
 
+##### Italian Prime Minister
 # Prime Minister of Italy Silvio Berlusconi is summoned to a prostitution investigation to deal with allegations of "improperly assisting" 17-year-old nightclub dancer he had at one of his private parties. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/2011114124929346350.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2011/jan/14/berlusconi-investigated-teenage-prostitution-case)

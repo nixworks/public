@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/06/16/hundreds-of-taliban-militants-swarm-in-the-arghandab-district-of-kandahar-province-with-the-afghan-government-sending-reinforcements-to-the.html)  [JSON](/news/2008/06/16/hundreds-of-taliban-militants-swarm-in-the-arghandab-district-of-kandahar-province-with-the-afghan-government-sending-reinforcements-to-the.json)  [XML](/news/2008/06/16/hundreds-of-taliban-militants-swarm-in-the-arghandab-district-of-kandahar-province-with-the-afghan-government-sending-reinforcements-to-the.xml)  
+
 ### [2008-06-16](/news/2008/06/16/index.md)
 
+##### Taliban
 #  Hundreds of Taliban militants swarm in the Arghandab District of Kandahar Province with the Afghan government sending reinforcements to the nearby city of Kandahar. 
 
 Hundreds of Taliban fighters have swarmed an area outside Kandahar, in an apparent push for control just days after 400 Taliban members escaped from the Kandahar prison.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/06/17/world/asia/17afghan.html)
+1. [The New York Times](https://www.nytimes.com/2008/06/17/world/asia/17afghan.html)
 1. [Cover Image](https://static01.nyt.com/images/2008/06/18/world/18afghan-span-75.jpg)
 
 ### Related:

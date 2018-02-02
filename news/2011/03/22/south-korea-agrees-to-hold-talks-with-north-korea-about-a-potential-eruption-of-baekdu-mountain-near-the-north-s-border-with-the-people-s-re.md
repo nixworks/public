@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/22/south-korea-agrees-to-hold-talks-with-north-korea-about-a-potential-eruption-of-baekdu-mountain-near-the-north-s-border-with-the-people-s-re.html)  [JSON](/news/2011/03/22/south-korea-agrees-to-hold-talks-with-north-korea-about-a-potential-eruption-of-baekdu-mountain-near-the-north-s-border-with-the-people-s-re.json)  [XML](/news/2011/03/22/south-korea-agrees-to-hold-talks-with-north-korea-about-a-potential-eruption-of-baekdu-mountain-near-the-north-s-border-with-the-people-s-re.xml)  
+
 ### [2011-03-22](/news/2011/03/22/index.md)
 
+##### South Korea
 # South Korea agrees to hold talks with North Korea about a potential eruption of Baekdu Mountain near the North's border with the People's Republic of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yonhap News](http://english.yonhapnews.co.kr/northkorea/2011/03/22/55/0401000000AEN20110322003500315F.HTML)
 

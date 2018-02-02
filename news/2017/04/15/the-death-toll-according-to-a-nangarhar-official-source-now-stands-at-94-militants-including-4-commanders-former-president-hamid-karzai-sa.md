@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/15/the-death-toll-according-to-a-nangarhar-officia
 
 ### [2017-04-15](/news/2017/04/15/index.md)
 
+##### 2017 Nangarhar airstrike
 # The death toll according to a Nangarhar official source now stands at 94 militants, including 4 commanders. Former president Hamid Karzai says the strike was in violation of national sovereignty. 
 
 Nangarhar police said that the bombing, a Massive Ordnance Air Blast (MOAB), destroyed Daesh hideouts, tunnels and weapon caches.

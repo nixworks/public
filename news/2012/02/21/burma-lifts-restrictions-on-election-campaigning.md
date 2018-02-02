@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/21/burma-lifts-restrictions-on-election-campaigning.html)  [JSON](/news/2012/02/21/burma-lifts-restrictions-on-election-campaigning.json)  [XML](/news/2012/02/21/burma-lifts-restrictions-on-election-campaigning.xml)  
+
 ### [2012-02-21](/news/2012/02/21/index.md)
 
+##### Burma
 # Burma lifts restrictions on election campaigning. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17093553)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58060000/jpg/_58060532_013758220-1.jpg)

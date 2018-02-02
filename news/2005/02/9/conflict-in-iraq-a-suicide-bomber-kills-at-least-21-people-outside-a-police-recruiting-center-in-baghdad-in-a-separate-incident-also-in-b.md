@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/9/conflict-in-iraq-a-suicide-bomber-kills-at-least-21-people-outside-a-police-recruiting-center-in-baghdad-in-a-separate-incident-also-in-b.html)  [JSON](/news/2005/02/9/conflict-in-iraq-a-suicide-bomber-kills-at-least-21-people-outside-a-police-recruiting-center-in-baghdad-in-a-separate-incident-also-in-b.json)  [XML](/news/2005/02/9/conflict-in-iraq-a-suicide-bomber-kills-at-least-21-people-outside-a-police-recruiting-center-in-baghdad-in-a-separate-incident-also-in-b.xml)  
+
 ### [2005-02-9](/news/2005/02/9/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: A suicide bomber kills at least 21 people outside a police recruiting center in Baghdad. In a separate incident also in Baghdad, three policemen die from a firefight in the notoriously dangerous neighborhood of Ghazaliyah. 
 
 Breaking News, data &amp; opinions in business, sports, entertainment, travel, lifestyle, plus much more. Newsday.com is the leading news source for Long Island &amp; NYC.
 
 
-### Source:
+### Sources:
 
 1. [Newsday/AP](http://www.newsday.com/ny-woiraq0208,0,2619531.story?coll=ny-homepage-big-pix)
 1. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)

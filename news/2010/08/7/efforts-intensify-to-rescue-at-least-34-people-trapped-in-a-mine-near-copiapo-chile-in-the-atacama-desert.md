@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/7/efforts-intensify-to-rescue-at-least-34-people-trapped-in-a-mine-near-copiapo-chile-in-the-atacama-desert.html)  [JSON](/news/2010/08/7/efforts-intensify-to-rescue-at-least-34-people-trapped-in-a-mine-near-copiapo-chile-in-the-atacama-desert.json)  [XML](/news/2010/08/7/efforts-intensify-to-rescue-at-least-34-people-trapped-in-a-mine-near-copiapo-chile-in-the-atacama-desert.xml)  
+
 ### [2010-08-7](/news/2010/08/7/index.md)
 
+##### Copiap
 # Efforts intensify to rescue at least 34 people trapped in a mine near Copiap, Chile, in the Atacama Desert. 
 
 At least 34 people trapped in collapsed mine near Copiapo city in the Atacama desert.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/201086235533819605.html)
 2. [Bangkok Post](http://www.bangkokpost.com/news/world/189985/in-chile-desperate-search-continues-for-trapped-miners)
@@ -16,7 +20,7 @@ At least 34 people trapped in collapsed mine near Copiapo city in the Atacama de
 ### Related:
 
 1. [The European Southern Observatory's ALMA telescope begins service in Chile's Atacama Desert. ](/news/2013/03/13/the-european-southern-observatory-s-alma-telescope-begins-service-in-chile-s-atacama-desert.md) _Context: Atacama Desert, Chile_
-2. [It is expected to take 120 days (4 months) to free the 33 miners trapped underground near Copiap in the Atacama Desert after it is confirmed that they are all currently alive. ](/news/2010/08/23/it-is-expected-to-take-120-days-4-months-to-free-the-33-miners-trapped-underground-near-copiapo-in-the-atacama-desert-after-it-is-confirme.md) _Context: Atacama Desert, Copiapo_
-3. [Relatives accuse authorities of not doing enough to save 33 miners who have spent the past 15 days trapped in a collapsed mine near Copiap in the Atacama Desert. ](/news/2010/08/21/relatives-accuse-authorities-of-not-doing-enough-to-save-33-miners-who-have-spent-the-past-15-days-trapped-in-a-collapsed-mine-near-copiapo.md) _Context: Atacama Desert, Copiapo_
-4. [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both same-gender and different-gender couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md) _Context: Chile_
-5. [Four people are killed as intense rains and snowstorms hit central and southern Chile. About 3,000 people are homeless, and hundreds of thousands have lost power. ](/news/2017/06/17/four-people-are-killed-as-intense-rains-and-snowstorms-hit-central-and-southern-chile-about-3-000-people-are-homeless-and-hundreds-of-thou.md) _Context: Chile_
+2. [It is expected to take 120 days (4 months) to free the 33 miners trapped underground near Copiap in the Atacama Desert after it is confirmed that they are all currently alive. ](/news/2010/08/23/it-is-expected-to-take-120-days-4-months-to-free-the-33-miners-trapped-underground-near-copiapo-in-the-atacama-desert-after-it-is-confirme.md) _Context: Atacama Desert, Copiap_
+3. [Relatives accuse authorities of not doing enough to save 33 miners who have spent the past 15 days trapped in a collapsed mine near Copiap in the Atacama Desert. ](/news/2010/08/21/relatives-accuse-authorities-of-not-doing-enough-to-save-33-miners-who-have-spent-the-past-15-days-trapped-in-a-collapsed-mine-near-copiapo.md) _Context: Atacama Desert, Copiap_
+4. [The 11 remaining countries aiming to create the Trans-Pacific Partnership after the Unites States' withdrawal announce that they will sign an agreement in Chile this March. ](/news/2018/01/23/the-11-remaining-countries-aiming-to-create-the-trans-pacific-partnership-after-the-unites-states-withdrawal-announce-that-they-will-sign-a.md) _Context: Chile_
+5. [Five people are killed and at least 15 missing in a mudslide in Villa Santa Lucia, a remote village in southern Chile, after more than 4.5 inches (11.4 cm) of rain the previous 24 hours. President Michelle Bachelet declares a state of emergency. Sunday is the run-off election for Chile's next president. ](/news/2017/12/16/five-people-are-killed-and-at-least-15-missing-in-a-mudslide-in-villa-santa-lucaa-a-remote-village-in-southern-chile-after-more-than-4-5.md) _Context: Chile_

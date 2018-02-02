@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/07/5/eric-gagne-former-three-time-all-star-major-league-baseball-closer-and-2003-nl-cy-young-award-winner-has-his-record-for-consecutive-games.html)  [JSON](/news/2004/07/5/eric-gagne-former-three-time-all-star-major-league-baseball-closer-and-2003-nl-cy-young-award-winner-has-his-record-for-consecutive-games.json)  [XML](/news/2004/07/5/eric-gagne-former-three-time-all-star-major-league-baseball-closer-and-2003-nl-cy-young-award-winner-has-his-record-for-consecutive-games.xml)  
+
 ### [2004-07-5](/news/2004/07/5/index.md)
 
+##### ric Gagn
 #  ric Gagn, former three-time All-Star Major League Baseball closer and 2003 NL Cy Young Award winner, has his record for consecutive games saved broken at 84.
 
 

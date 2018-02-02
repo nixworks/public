@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/10/the-local-kgb-in-minsk-arrests-about-100-ukrainian-and-30-belarusian-soccer-fans-at-a-qualifying-match-between-ukraine-and-belarus-for-the-2.html)  [JSON](/news/2014/10/10/the-local-kgb-in-minsk-arrests-about-100-ukrainian-and-30-belarusian-soccer-fans-at-a-qualifying-match-between-ukraine-and-belarus-for-the-2.json)  [XML](/news/2014/10/10/the-local-kgb-in-minsk-arrests-about-100-ukrainian-and-30-belarusian-soccer-fans-at-a-qualifying-match-between-ukraine-and-belarus-for-the-2.xml)  
+
 ### [2014-10-10](/news/2014/10/10/index.md)
 
+##### KGB
 # The local KGB in Minsk arrests about 100 Ukrainian and 30 Belarusian soccer fans at a qualifying match between Ukraine and Belarus for the 2016 European Championship after they a sang the song, Putin-Huilo! (which roughly translates as "Putin is a dickhead!"). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [FP](http://blog.foreignpolicy.com/posts/2014/10/10/soccer_fans_in_belarus_call_putin_a_dickhead_get_arrested_by_kgb)
 

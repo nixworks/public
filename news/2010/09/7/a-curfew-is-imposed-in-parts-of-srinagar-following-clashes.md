@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/7/a-curfew-is-imposed-in-parts-of-srinagar-following-clashes.html)  [JSON](/news/2010/09/7/a-curfew-is-imposed-in-parts-of-srinagar-following-clashes.json)  [XML](/news/2010/09/7/a-curfew-is-imposed-in-parts-of-srinagar-following-clashes.xml)  
+
 ### [2010-09-7](/news/2010/09/7/index.md)
 
+##### Srinagar
 # A curfew is imposed in parts of Srinagar following clashes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [samaylive](http://english.samaylive.com/nation/676473014.html)
 

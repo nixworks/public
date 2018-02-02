@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/23/the-war-crimes-trial-of-the-khmer-rouge-in-cambodia-hears-its-final-arguments.html)  [JSON](/news/2009/11/23/the-war-crimes-trial-of-the-khmer-rouge-in-cambodia-hears-its-final-arguments.json)  [XML](/news/2009/11/23/the-war-crimes-trial-of-the-khmer-rouge-in-cambodia-hears-its-final-arguments.xml)  
+
 ### [2009-11-23](/news/2009/11/23/index.md)
 
+##### Extraordinary Chambers in the Courts of Cambodia
 #  The war crimes trial of the Khmer Rouge in Cambodia hears its final arguments. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/11/2009112355144281591.html)
 2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/11/23/cambodia.duch.trial/)

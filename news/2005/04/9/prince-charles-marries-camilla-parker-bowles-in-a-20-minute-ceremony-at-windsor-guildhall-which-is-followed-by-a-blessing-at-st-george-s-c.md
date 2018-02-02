@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/9/prince-charles-marries-camilla-parker-bowles-in-a-20-minute-ceremony-at-windsor-guildhall-which-is-followed-by-a-blessing-at-st-george-s-c.html)  [JSON](/news/2005/04/9/prince-charles-marries-camilla-parker-bowles-in-a-20-minute-ceremony-at-windsor-guildhall-which-is-followed-by-a-blessing-at-st-george-s-c.json)  [XML](/news/2005/04/9/prince-charles-marries-camilla-parker-bowles-in-a-20-minute-ceremony-at-windsor-guildhall-which-is-followed-by-a-blessing-at-st-george-s-c.xml)  
+
 ### [2005-04-9](/news/2005/04/9/index.md)
 
+##### Prince Charles
 #  Prince Charles marries Camilla Parker Bowles in a 20-minute ceremony at Windsor Guildhall, which is followed by a blessing at St George's Chapel in Windsor Castle. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/4428161.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4426993.stm)

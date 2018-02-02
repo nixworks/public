@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/4/the-armed-forces-in-madagascar-reject-calls-by-opposition-groups-to-take-over-the-country-s-institutions-for-an-interim-period.html)  [JSON](/news/2009/09/4/the-armed-forces-in-madagascar-reject-calls-by-opposition-groups-to-take-over-the-country-s-institutions-for-an-interim-period.json)  [XML](/news/2009/09/4/the-armed-forces-in-madagascar-reject-calls-by-opposition-groups-to-take-over-the-country-s-institutions-for-an-interim-period.xml)  
+
 ### [2009-09-4](/news/2009/09/4/index.md)
 
+##### Madagascan Army
 #  The armed forces in Madagascar reject calls by opposition groups to take over the country's institutions for an interim period. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hSYSk49cuu7Yo3lZwW4bgpLohR0g)
 2. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090904105333929C180646)

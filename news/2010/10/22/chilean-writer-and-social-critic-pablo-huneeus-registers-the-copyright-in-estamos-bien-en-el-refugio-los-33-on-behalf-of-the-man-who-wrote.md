@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/22/chilean-writer-and-social-critic-pablo-huneeus-registers-the-copyright-in-estamos-bien-en-el-refugio-los-33-on-behalf-of-the-man-who-wrote.html)  [JSON](/news/2010/10/22/chilean-writer-and-social-critic-pablo-huneeus-registers-the-copyright-in-estamos-bien-en-el-refugio-los-33-on-behalf-of-the-man-who-wrote.json)  [XML](/news/2010/10/22/chilean-writer-and-social-critic-pablo-huneeus-registers-the-copyright-in-estamos-bien-en-el-refugio-los-33-on-behalf-of-the-man-who-wrote.xml)  
+
 ### [2010-10-22](/news/2010/10/22/index.md)
 
+##### Chile
 # Chilean writer and social critic Pablo Huneeus registers the copyright in "Estamos bien en el refugio los 33" on behalf of the man who wrote it. 
 
 Chilean miner Jose Ojada obtains the copyright for the note he wrote which let the world know &quot;the 33&quot; men trapped in the San Jose mine were safe.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11605409)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
@@ -16,4 +20,4 @@ Chilean miner Jose Ojada obtains the copyright for the note he wrote which let t
 2. [Miners in Chile rescued from the 2010 Copiapo mining accident return home after receiving hospital treatment. ](/news/2010/10/15/miners-in-chile-rescued-from-the-2010-copiapa3-mining-accident-return-home-after-receiving-hospital-treatment.md) _Context: Chile, rescue 33 miners trapped_
 3. [Rescue efforts conclude for the Chilean miners trapped in the 2010 Copiapo mining accident, with the last miner being rescued at 9:56PM local time. ](/news/2010/10/13/rescue-efforts-conclude-for-the-chilean-miners-trapped-in-the-2010-copiapa3-mining-accident-with-the-last-miner-being-rescued-at-9-56pm-loc.md) _Context: Chile, rescue 33 miners trapped_
 4. [Chile begins attempts to rescue 33 miners trapped underground as a result of the 2010 Copiapo mining accident. ](/news/2010/10/12/chile-begins-attempts-to-rescue-33-miners-trapped-underground-as-a-result-of-the-2010-copiapa3-mining-accident.md) _Context: Chile, rescue 33 miners trapped_
-5. [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both same-gender and different-gender couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md) _Context: Chile_
+5. [The 11 remaining countries aiming to create the Trans-Pacific Partnership after the Unites States' withdrawal announce that they will sign an agreement in Chile this March. ](/news/2018/01/23/the-11-remaining-countries-aiming-to-create-the-trans-pacific-partnership-after-the-unites-states-withdrawal-announce-that-they-will-sign-a.md) _Context: Chile_

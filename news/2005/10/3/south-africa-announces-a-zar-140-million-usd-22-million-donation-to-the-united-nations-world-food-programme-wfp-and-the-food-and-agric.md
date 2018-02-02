@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/3/south-africa-announces-a-zar-140-million-usd-22-million-donation-to-the-united-nations-world-food-programme-wfp-and-the-food-and-agric.html)  [JSON](/news/2005/10/3/south-africa-announces-a-zar-140-million-usd-22-million-donation-to-the-united-nations-world-food-programme-wfp-and-the-food-and-agric.json)  [XML](/news/2005/10/3/south-africa-announces-a-zar-140-million-usd-22-million-donation-to-the-united-nations-world-food-programme-wfp-and-the-food-and-agric.xml)  
+
 ### [2005-10-3](/news/2005/10/3/index.md)
 
+##### South Africa
 #  South Africa announces a ZAR 140 million (USD $22 million) donation to the United Nations World Food Programme (WFP) and the Food and Agriculture Organization (FAO) to alleviate food shortages in Southern Africa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [allAfrica](http://allafrica.com/stories/200510030672.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/25/the-board-of-the-naacp-unanimously-selects-business-executive-bruce-s-gordon-as-the-civil-rights-organization-s-next-president.html)  [JSON](/news/2005/06/25/the-board-of-the-naacp-unanimously-selects-business-executive-bruce-s-gordon-as-the-civil-rights-organization-s-next-president.json)  [XML](/news/2005/06/25/the-board-of-the-naacp-unanimously-selects-business-executive-bruce-s-gordon-as-the-civil-rights-organization-s-next-president.xml)  
+
 ### [2005-06-25](/news/2005/06/25/index.md)
 
+##### NAACP
 #  The board of the NAACP unanimously selects business executive Bruce S. Gordon as the civil rights organization's next president. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-5098780,00.html)
 

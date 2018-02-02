@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/02/17/the-us-faa-announces-it-will-attempt-to-require-a-fuel-tank-inerting-system-in-most-large-airliners-in-an-effort-to-prevent-fuel-tank-explo.html)  [JSON](/news/2004/02/17/the-us-faa-announces-it-will-attempt-to-require-a-fuel-tank-inerting-system-in-most-large-airliners-in-an-effort-to-prevent-fuel-tank-explo.json)  [XML](/news/2004/02/17/the-us-faa-announces-it-will-attempt-to-require-a-fuel-tank-inerting-system-in-most-large-airliners-in-an-effort-to-prevent-fuel-tank-explo.xml)  
+
 ### [2004-02-17](/news/2004/02/17/index.md)
 
+##### Federal Aviation Administration
 #  The US FAA announces it will attempt to require a fuel tank inerting system in most large airliners in an effort to prevent fuel tank explosions such as the one which apparently destroyed TWA Flight 800 in 1996. The order could take two years to complete and then would require a retrofit of about 3,800 large Boeing and Airbus jets over the next seven years. 
 
 Breaking News, data &amp; opinions in business, sports, entertainment, travel, lifestyle, plus much more. Newsday.com is the leading news source for Long Island &amp; NYC.
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/2004/02/17/politics/17CND-FUEL.html?ex=1077685200&en=a6919999ea77849f&ei=5062&partner=GOOGLE)
+1. [NYT](https://www.nytimes.com/2004/02/17/politics/17CND-FUEL.html?ex=1077685200&en=a6919999ea77849f&ei=5062&partner=GOOGLE)
 2. [Newsday](http://www.newsday.com/business/ny-faa-release,0,5969466.story?coll=ny-business-headlines)
 2. [Cover Image](https://www.newsday.com/img/blog-share-nd.jpg)
 

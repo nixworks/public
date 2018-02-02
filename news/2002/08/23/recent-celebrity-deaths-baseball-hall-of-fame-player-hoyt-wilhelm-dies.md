@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/08/23/recent-celebrity-deaths-baseball-hall-of-fame-player-hoyt-wilhelm-dies.html)  [JSON](/news/2002/08/23/recent-celebrity-deaths-baseball-hall-of-fame-player-hoyt-wilhelm-dies.json)  [XML](/news/2002/08/23/recent-celebrity-deaths-baseball-hall-of-fame-player-hoyt-wilhelm-dies.xml)  
+
 ### [2002-08-23](/news/2002/08/23/index.md)
 
+##### Recent celebrity deaths
 #  Recent celebrity deaths: Baseball Hall of Fame player Hoyt Wilhelm dies.
 
 

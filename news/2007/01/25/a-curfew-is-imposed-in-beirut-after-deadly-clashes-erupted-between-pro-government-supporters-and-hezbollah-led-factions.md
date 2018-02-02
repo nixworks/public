@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/25/a-curfew-is-imposed-in-beirut-after-deadly-clashes-erupted-between-pro-government-supporters-and-hezbollah-led-factions.html)  [JSON](/news/2007/01/25/a-curfew-is-imposed-in-beirut-after-deadly-clashes-erupted-between-pro-government-supporters-and-hezbollah-led-factions.json)  [XML](/news/2007/01/25/a-curfew-is-imposed-in-beirut-after-deadly-clashes-erupted-between-pro-government-supporters-and-hezbollah-led-factions.xml)  
+
 ### [2007-01-25](/news/2007/01/25/index.md)
 
+##### curfew
 #  A curfew is imposed in Beirut after deadly clashes erupted between pro-government supporters and Hezbollah-led factions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2007/WORLD/meast/01/25/lebanon.protests/index.html)
 

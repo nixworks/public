@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/28/king-mohammed-vi-of-morocco-is-hospitalized-for-five-days-for-treatment-of-a-rotavirus-and-dehydration.html)  [JSON](/news/2009/08/28/king-mohammed-vi-of-morocco-is-hospitalized-for-five-days-for-treatment-of-a-rotavirus-and-dehydration.json)  [XML](/news/2009/08/28/king-mohammed-vi-of-morocco-is-hospitalized-for-five-days-for-treatment-of-a-rotavirus-and-dehydration.xml)  
+
 ### [2009-08-28](/news/2009/08/28/index.md)
 
+##### King Mohammed VI of Morocco
 #  King Mohammed VI of Morocco is hospitalized for five days for treatment of a rotavirus and dehydration. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Monsters & Critics](http://www.monstersandcritics.com/people/royalwatch/news/article_1497725.php/King-Mohammed-hospitalised)
 

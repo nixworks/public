@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/18/hamas-leader-mahmoud-al-zahar-issues-an-ultimatum-to-the-palestinian-army-of-islam-to-free-kidnapped-bbc-journalist-alan-johnston-or-face-m.html)  [JSON](/news/2007/06/18/hamas-leader-mahmoud-al-zahar-issues-an-ultimatum-to-the-palestinian-army-of-islam-to-free-kidnapped-bbc-journalist-alan-johnston-or-face-m.json)  [XML](/news/2007/06/18/hamas-leader-mahmoud-al-zahar-issues-an-ultimatum-to-the-palestinian-army-of-islam-to-free-kidnapped-bbc-journalist-alan-johnston-or-face-m.xml)  
+
 ### [2007-06-18](/news/2007/06/18/index.md)
 
+##### Hamas
 #  Hamas leader Mahmoud al-Zahar issues an ultimatum to the Palestinian Army of Islam to free kidnapped BBC journalist Alan Johnston or face military action. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6764679.stm)
 

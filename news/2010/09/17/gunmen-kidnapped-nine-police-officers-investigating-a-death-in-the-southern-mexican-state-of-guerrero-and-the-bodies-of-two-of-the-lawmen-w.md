@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/17/gunmen-kidnapped-nine-police-officers-investigating-a-death-in-the-southern-mexican-state-of-guerrero-and-the-bodies-of-two-of-the-lawmen-w.html)  [JSON](/news/2010/09/17/gunmen-kidnapped-nine-police-officers-investigating-a-death-in-the-southern-mexican-state-of-guerrero-and-the-bodies-of-two-of-the-lawmen-w.json)  [XML](/news/2010/09/17/gunmen-kidnapped-nine-police-officers-investigating-a-death-in-the-southern-mexican-state-of-guerrero-and-the-bodies-of-two-of-the-lawmen-w.xml)  
+
 ### [2010-09-17](/news/2010/09/17/index.md)
 
+##### Guerrero
 # Gunmen kidnapped nine police officers investigating a death in the southern Mexican state of Guerrero, and the bodies of two of the lawmen were found later. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via npr](http://www.npr.org/templates/story/story.php?storyId=103181125)
 2. [Sina](http://english.sina.com/world/p/2010/0918/340195.html)

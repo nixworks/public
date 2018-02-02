@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/3/kentucky-senator-rand-paul-suspends-his-campaign
 
 ### [2016-02-3](/news/2016/02/3/index.md)
 
+##### 2016 U.S. presidential election
 # Kentucky Senator Rand Paul suspends his campaign for the Republican Party nomination for President of the United States. 
 
 Paul was running for a GOP that turned out not to exist.

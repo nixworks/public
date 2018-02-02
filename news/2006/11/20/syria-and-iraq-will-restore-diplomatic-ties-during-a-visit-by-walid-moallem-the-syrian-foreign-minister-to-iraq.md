@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/20/syria-and-iraq-will-restore-diplomatic-ties-during-a-visit-by-walid-moallem-the-syrian-foreign-minister-to-iraq.html)  [JSON](/news/2006/11/20/syria-and-iraq-will-restore-diplomatic-ties-during-a-visit-by-walid-moallem-the-syrian-foreign-minister-to-iraq.json)  [XML](/news/2006/11/20/syria-and-iraq-will-restore-diplomatic-ties-during-a-visit-by-walid-moallem-the-syrian-foreign-minister-to-iraq.xml)  
+
 ### [2006-11-20](/news/2006/11/20/index.md)
 
+##### Syria
 #  Syria and Iraq will restore diplomatic ties during a visit by Walid Moallem, the Syrian Foreign Minister, to Iraq. 
 
 Diplomatic Relations Were Severed In 1982; Iran Invites Syria, Iraq To Summit
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/stories/2006/11/20/world/main2200557.shtml)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2006/11/20/d4daed87-a642-11e2-a3f0-029118418759/image2201284x.jpg)

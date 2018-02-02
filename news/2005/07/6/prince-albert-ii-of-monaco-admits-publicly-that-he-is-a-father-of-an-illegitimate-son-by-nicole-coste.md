@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/6/prince-albert-ii-of-monaco-admits-publicly-that-he-is-a-father-of-an-illegitimate-son-by-nicole-coste.html)  [JSON](/news/2005/07/6/prince-albert-ii-of-monaco-admits-publicly-that-he-is-a-father-of-an-illegitimate-son-by-nicole-coste.json)  [XML](/news/2005/07/6/prince-albert-ii-of-monaco-admits-publicly-that-he-is-a-father-of-an-illegitimate-son-by-nicole-coste.xml)  
+
 ### [2005-07-6](/news/2005/07/6/index.md)
 
+##### Albert II, Prince of Monaco
 #  Prince Albert II of Monaco admits publicly that he is a father of an illegitimate son by Nicole Coste 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4656797.stm)
 

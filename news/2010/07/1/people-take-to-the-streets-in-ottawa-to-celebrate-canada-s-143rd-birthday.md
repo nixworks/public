@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/1/people-take-to-the-streets-in-ottawa-to-celebrate-canada-s-143rd-birthday.html)  [JSON](/news/2010/07/1/people-take-to-the-streets-in-ottawa-to-celebrate-canada-s-143rd-birthday.json)  [XML](/news/2010/07/1/people-take-to-the-streets-in-ottawa-to-celebrate-canada-s-143rd-birthday.xml)  
+
 ### [2010-07-1](/news/2010/07/1/index.md)
 
+##### Ottawa
 # People take to the streets in Ottawa to celebrate Canada's 143rd birthday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CTV](http://www.ctv.ca/CTVNews/TopStories/20100701/canada-day-queen-100701)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/23/hurricane-irene-reaches-category-2-strength-as-it-hits-the-island-of-hispaniola-containing-haiti-and-the-dominican-republic.html)  [JSON](/news/2011/08/23/hurricane-irene-reaches-category-2-strength-as-it-hits-the-island-of-hispaniola-containing-haiti-and-the-dominican-republic.json)  [XML](/news/2011/08/23/hurricane-irene-reaches-category-2-strength-as-it-hits-the-island-of-hispaniola-containing-haiti-and-the-dominican-republic.xml)  
+
 ### [2011-08-23](/news/2011/08/23/index.md)
 
+##### Hurricane Irene
 # Hurricane Irene reaches Category 2 strength as it hits the island of Hispaniola containing Haiti and the Dominican Republic. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/americas/08/23/tropical.weather/index.html?eref=rss_us)
 1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/americas/08/23/tropical.weather/tzvids.irene.tropical.storm.cnn.jpg)

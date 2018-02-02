@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/25/two-british-police-officers-were-assaulted-with
 
 ### [2017-08-25](/news/2017/08/25/index.md)
 
+##### 2017 Buckingham Palace incident
 # Two British police officers were assaulted with a sword while trying to arrest a man outside Buckingham Palace. 
 
 

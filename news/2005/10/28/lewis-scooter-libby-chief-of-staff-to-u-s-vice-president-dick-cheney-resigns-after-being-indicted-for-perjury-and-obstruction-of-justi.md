@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/28/lewis-scooter-libby-chief-of-staff-to-u-s-vice-president-dick-cheney-resigns-after-being-indicted-for-perjury-and-obstruction-of-justi.html)  [JSON](/news/2005/10/28/lewis-scooter-libby-chief-of-staff-to-u-s-vice-president-dick-cheney-resigns-after-being-indicted-for-perjury-and-obstruction-of-justi.json)  [XML](/news/2005/10/28/lewis-scooter-libby-chief-of-staff-to-u-s-vice-president-dick-cheney-resigns-after-being-indicted-for-perjury-and-obstruction-of-justi.xml)  
+
 ### [2005-10-28](/news/2005/10/28/index.md)
 
+##### Scooter Libby
 #  Lewis "Scooter" Libby, Chief of Staff to U.S. Vice President Dick Cheney, resigns after being indicted for perjury and obstruction of justice by a grand jury. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4386748.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/15/former-president-of-zambia-frederick-chiluba-awaits-the-verdict-in-his-trial-into-his-criminal-case-for-being-accused-of-plundering-the-n.html)  [JSON](/news/2009/08/15/former-president-of-zambia-frederick-chiluba-awaits-the-verdict-in-his-trial-into-his-criminal-case-for-being-accused-of-plundering-the-n.json)  [XML](/news/2009/08/15/former-president-of-zambia-frederick-chiluba-awaits-the-verdict-in-his-trial-into-his-criminal-case-for-being-accused-of-plundering-the-n.xml)  
+
 ### [2009-08-15](/news/2009/08/15/index.md)
 
+##### President
 #  Former President of Zambia, Frederick Chiluba, awaits the verdict in his trial into his criminal case for being accused of plundering the national economy during his decade-long rule. 
 
 JOHANNESBURG: A former president of Zambia faces jail after a trial that may send a shiver down the spines of Africa&#039;s once-untouchable autocrats.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/world/africa-watches-as-autocrat-faces-jail-20090814-el7v.html)
 1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)

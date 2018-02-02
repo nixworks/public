@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/02/27/advisers-to-the-food-and-drug-administration-recommend-that-the-agency-approve-a-sanofi-aventis-sa-bird-flu-vaccine.html)  [JSON](/news/2007/02/27/advisers-to-the-food-and-drug-administration-recommend-that-the-agency-approve-a-sanofi-aventis-sa-bird-flu-vaccine.json)  [XML](/news/2007/02/27/advisers-to-the-food-and-drug-administration-recommend-that-the-agency-approve-a-sanofi-aventis-sa-bird-flu-vaccine.xml)  
+
 ### [2007-02-27](/news/2007/02/27/index.md)
 
+##### Food and Drug Administration
 #  Advisers to the Food and Drug Administration recommend that the agency approve a Sanofi-Aventis SA bird flu vaccine. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601081&sid=aE3woIDYdxkQ)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601081&sid=aE3woIDYdxkQ)
 
 ### Related:
 

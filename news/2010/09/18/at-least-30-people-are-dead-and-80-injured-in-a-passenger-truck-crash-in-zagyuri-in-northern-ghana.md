@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/18/at-least-30-people-are-dead-and-80-injured-in-a-passenger-truck-crash-in-zagyuri-in-northern-ghana.html)  [JSON](/news/2010/09/18/at-least-30-people-are-dead-and-80-injured-in-a-passenger-truck-crash-in-zagyuri-in-northern-ghana.json)  [XML](/news/2010/09/18/at-least-30-people-are-dead-and-80-injured-in-a-passenger-truck-crash-in-zagyuri-in-northern-ghana.xml)  
+
 ### [2010-09-18](/news/2010/09/18/index.md)
 
+##### truck
 # At least 30 people are dead and 80 injured in a passenger truck crash in Zagyuri in northern Ghana. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/19/c_13518888.htm)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/9/albania-says-it-will-send-troops-to-join-any-war-against-iraq-largely-a-symbolic-measure-thanking-the-united-states-and-nato-for-interveni.html)  [JSON](/news/2003/03/9/albania-says-it-will-send-troops-to-join-any-war-against-iraq-largely-a-symbolic-measure-thanking-the-united-states-and-nato-for-interveni.json)  [XML](/news/2003/03/9/albania-says-it-will-send-troops-to-join-any-war-against-iraq-largely-a-symbolic-measure-thanking-the-united-states-and-nato-for-interveni.xml)  
+
 ### [2003-03-9](/news/2003/03/9/index.md)
 
+##### Albania
 #  Albania says it will send troops to join any war against Iraq, largely a symbolic measure thanking the United States and NATO for intervening in Kosovo in the 1999 Kosovo War.
 
 

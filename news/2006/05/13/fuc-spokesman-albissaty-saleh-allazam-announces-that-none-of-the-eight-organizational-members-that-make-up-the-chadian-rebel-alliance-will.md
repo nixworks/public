@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2006/05/13/fuc-spokesman-albissaty-saleh-allazam-announces-that-none-of-the-eight-organizational-members-that-make-up-the-chadian-rebel-alliance-will.html)  [JSON](/news/2006/05/13/fuc-spokesman-albissaty-saleh-allazam-announces-that-none-of-the-eight-organizational-members-that-make-up-the-chadian-rebel-alliance-will.json)  [XML](/news/2006/05/13/fuc-spokesman-albissaty-saleh-allazam-announces-that-none-of-the-eight-organizational-members-that-make-up-the-chadian-rebel-alliance-will.xml)  
+
 ### [2006-05-13](/news/2006/05/13/index.md)
 
+##### UFDC
 #  FUC spokesman Albissaty Saleh Allazam announces that none of the eight organizational members that make up the Chadian rebel alliance will end attacks on the Dby administration despite the recent peace deal between ARFWS and the Government of Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/WORLD/africa/05/12/ChadRebels.reut/index.html?section=cnn_latest)
 2. [IRIN](http://www.irinnews.org/report.asp?ReportID=53330&SelectRegion=West_Africa&SelectCountry=CHAD-SUDAN)
+
+### Changes:
+
+1. [ Chad: FUC spokesman Albissaty Saleh Allazam announces that none of the eight organizational members that make up the Chadian rebel alliance will end attacks on the Dby administration despite the recent peace deal between ARFWS and the Government of Sudan. ](/news/2006/05/13/chad-p-fuc-spokesman-albissaty-saleh-allazam-announces-that-none-of-the-eight-organizational-members-that-make-up-the-chadian-rebel-allianc.md) _2017-08-25 03:17:38 (First version)_
+2. [ Chad:: FUC spokesman Albissaty Saleh Allazam announces that none of the eight organizational members that make up the Chadian rebel alliance will end attacks on the Dby administration despite the recent peace deal between ARFWS and the Government of Sudan. ](/news/2006/05/13/chad-fuc-spokesman-albissaty-saleh-allazam-announces-that-none-of-the-eight-organizational-members-that-make-up-the-chadian-rebel-allianc.md) _2017-08-27 03:17:38 (Update)_
+2. [ FUC spokesman Albissaty Saleh Allazam announces that none of the eight organizational members that make up the Chadian rebel alliance will end attacks on the Dby administration despite the recent peace deal between ARFWS and the Government of Sudan. ](/news/2006/05/13/fuc-spokesman-albissaty-saleh-allazam-announces-that-none-of-the-eight-organizational-members-that-make-up-the-chadian-rebel-alliance-will.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@
 3. [ The governments of Chad and Sudan sign an accord officially ending the Chadian-Sudanese conflict. The deal has many provisions similar to that of the Tripoli Accord, which Sudan has violated four times by aiding Janjaweed, UFDC, and anti-Boziz rebels and genocidaires. ](/news/2006/07/26/the-governments-of-chad-and-sudan-sign-an-accord-officially-ending-the-chadian-sudanese-conflict-the-deal-has-many-provisions-similar-to-t.md) _Context: UFDC, second Dby administration_
 4. [ Human Rights Watch estimates that several hundred civilians in eastern Chad have been massacred by Sudanese Janjaweed and UFDC attacks in the past week alone. HRW also accuses the Government of Sudan of using child soldiers. HRW Africa Director Peter Takirambudde refers to the attacks as "havoc," and that civilians "are trapped between the carnage in Darfur and Chad's downward spiral into chaos." ](/news/2006/06/23/human-rights-watch-estimates-that-several-hundred-civilians-in-eastern-chad-have-been-massacred-by-sudanese-janjaweed-and-ufdc-attacks-in-t.md) _Context: Sudanese cabinet, UFDC_
 5. [ The Government of Chad demands that the Security Council act to stop Janjaweed and UFDC incursions into Chad. ](/news/2006/06/21/the-government-of-chad-demands-that-the-security-council-act-to-stop-janjaweed-and-ufdc-incursions-into-chad.md) _Context: UFDC, second Dby administration_
-
-### Changes:
-
-1. [ Chad: FUC spokesman Albissaty Saleh Allazam announces that none of the eight organizational members that make up the Chadian rebel alliance will end attacks on the Dby administration despite the recent peace deal between ARFWS and the Government of Sudan. ](/news/2006/05/13/chad-p-fuc-spokesman-albissaty-saleh-allazam-announces-that-none-of-the-eight-organizational-members-that-make-up-the-chadian-rebel-allianc.md) _2017-08-25 03:17:38 (First version)_
-2. [ Chad:: FUC spokesman Albissaty Saleh Allazam announces that none of the eight organizational members that make up the Chadian rebel alliance will end attacks on the Dby administration despite the recent peace deal between ARFWS and the Government of Sudan. ](/news/2006/05/13/chad-fuc-spokesman-albissaty-saleh-allazam-announces-that-none-of-the-eight-organizational-members-that-make-up-the-chadian-rebel-allianc.md) _2017-08-27 03:17:38 (Update)_
-2. [ FUC spokesman Albissaty Saleh Allazam announces that none of the eight organizational members that make up the Chadian rebel alliance will end attacks on the Dby administration despite the recent peace deal between ARFWS and the Government of Sudan. ](/news/2006/05/13/fuc-spokesman-albissaty-saleh-allazam-announces-that-none-of-the-eight-organizational-members-that-make-up-the-chadian-rebel-alliance-will.md) _(Current version)_

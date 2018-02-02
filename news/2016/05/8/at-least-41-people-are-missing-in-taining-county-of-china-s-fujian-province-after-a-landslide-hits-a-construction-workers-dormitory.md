@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/8/at-least-41-people-are-missing-in-taining-county
 
 ### [2016-05-8](/news/2016/05/8/index.md)
 
+##### Taining County
 # At least 41 people are missing in Taining County of China's Fujian province after a landslide hits a construction workers dormitory. 
 
 

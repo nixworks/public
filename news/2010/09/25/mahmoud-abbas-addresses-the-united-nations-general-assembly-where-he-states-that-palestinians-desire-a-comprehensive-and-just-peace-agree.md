@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/25/mahmoud-abbas-addresses-the-united-nations-general-assembly-where-he-states-that-palestinians-desire-a-comprehensive-and-just-peace-agree.html)  [JSON](/news/2010/09/25/mahmoud-abbas-addresses-the-united-nations-general-assembly-where-he-states-that-palestinians-desire-a-comprehensive-and-just-peace-agree.json)  [XML](/news/2010/09/25/mahmoud-abbas-addresses-the-united-nations-general-assembly-where-he-states-that-palestinians-desire-a-comprehensive-and-just-peace-agree.xml)  
+
 ### [2010-09-25](/news/2010/09/25/index.md)
 
+##### Mahmoud Abbas
 # Mahmoud Abbas addresses the United Nations General Assembly, where he states that Palestinians desire "a comprehensive and just" peace agreement and requests that Israel cease its policy of building settlements in the West Bank. 
 
 Palestinians are willing and ready to reach a comprehensive and just peace agreement, Palestinian leader Mahmoud Abbas tells the UN.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/09/2010925164625386949.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11412630)

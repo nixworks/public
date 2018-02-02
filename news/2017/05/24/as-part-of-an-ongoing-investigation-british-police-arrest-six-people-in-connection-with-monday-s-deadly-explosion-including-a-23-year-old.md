@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/24/as-part-of-an-ongoing-investigation-british-pol
 
 ### [2017-05-24](/news/2017/05/24/index.md)
 
+##### 2017 Manchester Arena bombing
 # As part of an ongoing investigation, British police arrest six people in connection with Monday's deadly explosion, including a 23-year-old man who was taken into custody Tuesday. 
 
 Three more arrests have been made in connection with the deadly suicide bombing at an Ariana Grande concert in Manchester, England, Monday, that killed 22 people including children and a police officer, authorities said today. The three men were arrested after police executed search warrants in...

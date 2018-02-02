@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/23/david-thompson-the-prime-minister-of-barbados-dies-of-pancreatic-cancer-with-freundel-stuart-being-sworn-in-as-the-new-prime-minister.html)  [JSON](/news/2010/10/23/david-thompson-the-prime-minister-of-barbados-dies-of-pancreatic-cancer-with-freundel-stuart-being-sworn-in-as-the-new-prime-minister.json)  [XML](/news/2010/10/23/david-thompson-the-prime-minister-of-barbados-dies-of-pancreatic-cancer-with-freundel-stuart-being-sworn-in-as-the-new-prime-minister.xml)  
+
 ### [2010-10-23](/news/2010/10/23/index.md)
 
+##### David Thompson
 # David Thompson, the Prime Minister of Barbados, dies of pancreatic cancer with Freundel Stuart being sworn in as the new Prime Minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC News Online](http://www.abc.net.au/news/stories/2010/10/24/3046643.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/8/pharmaceutical-company-pfizer-discontinues-resea
 
 ### [2018-01-8](/news/2018/01/8/index.md)
 
+##### Pfizer
 # Pharmaceutical company Pfizer discontinues research into treating patients with Alzheimer's disease and Parkinson's disease. [http:--www.telegraph.co.uk-science-2018-01-08-hunt-alzheimers-cure-suffers-heavy-blow-pfizer-pulls-research- "(The Telegraph)" ]
 
 

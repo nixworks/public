@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/24/thongsing-thammavong-is-named-as-the-new-prime-minister-of-laos-a-day-after-the-unexpected-resignation-of-bouasone-bouphavanh.html)  [JSON](/news/2010/12/24/thongsing-thammavong-is-named-as-the-new-prime-minister-of-laos-a-day-after-the-unexpected-resignation-of-bouasone-bouphavanh.json)  [XML](/news/2010/12/24/thongsing-thammavong-is-named-as-the-new-prime-minister-of-laos-a-day-after-the-unexpected-resignation-of-bouasone-bouphavanh.xml)  
+
 ### [2010-12-24](/news/2010/12/24/index.md)
 
+##### Thongsing Thammavong
 # Thongsing Thammavong is named as the new Prime Minister of Laos, a day after the unexpected resignation of Bouasone Bouphavanh. 
 
 Laos approves a new prime minister after the surprise resignation of Bouasone Bouphavanh, citing &quot;family issues&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12072846)
 2. [RFA](http://www.rfa.org/english/news/laos/resign-12232010182250.html)

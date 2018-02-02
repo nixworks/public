@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/11/the-dpj-led-ruling-coalition-loses-its-majority-in-the-upper-house-of-the-diet-of-japan.html)  [JSON](/news/2010/07/11/the-dpj-led-ruling-coalition-loses-its-majority-in-the-upper-house-of-the-diet-of-japan.json)  [XML](/news/2010/07/11/the-dpj-led-ruling-coalition-loses-its-majority-in-the-upper-house-of-the-diet-of-japan.xml)  
+
 ### [2010-07-11](/news/2010/07/11/index.md)
 
+##### Democratic Party
 # The DPJ-led ruling coalition loses its majority in the upper house of the Diet of Japan. 
 
 The Asahi Shimbun is widely regarded for its journalism as the most respected daily newspaper in Japan. The English version offers selected articles from the vernacular Asahi Shimbun, as well as extensive coverage of cool Japan,focusing on manga, travel and other timely news
 
 
-### Source:
+### Sources:
 
 1. [Ahasi](http://www.asahi.com/english/TKY201007110385.html)
 2. [BBC News](http://news.bbc.co.uk/2/hi/world/asia_pacific/10594186.stm)

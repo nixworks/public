@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/6/emmerson-mnangagwa-is-fired-as-vice-president-by
 
 ### [2017-11-6](/news/2017/11/6/index.md)
 
+##### Politics of Zimbabwe
 # Emmerson Mnangagwa is fired as Vice President by Zimbabwe President Robert Mugabe. The public and the media widely perceives Mugabe's wife Grace as his likely successor after his death with Mnangagwa having been seen as her rival. 
 
 Dismissal of Emmerson Mnangagwa, seen as likely successor to Zimbabwe’s president, paves way for Grace Mugabe to take over

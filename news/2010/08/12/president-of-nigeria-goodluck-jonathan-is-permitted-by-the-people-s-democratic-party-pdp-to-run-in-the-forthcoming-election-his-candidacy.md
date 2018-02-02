@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/12/president-of-nigeria-goodluck-jonathan-is-permitted-by-the-people-s-democratic-party-pdp-to-run-in-the-forthcoming-election-his-candidacy.html)  [JSON](/news/2010/08/12/president-of-nigeria-goodluck-jonathan-is-permitted-by-the-people-s-democratic-party-pdp-to-run-in-the-forthcoming-election-his-candidacy.json)  [XML](/news/2010/08/12/president-of-nigeria-goodluck-jonathan-is-permitted-by-the-people-s-democratic-party-pdp-to-run-in-the-forthcoming-election-his-candidacy.xml)  
+
 ### [2010-08-12](/news/2010/08/12/index.md)
 
+##### President
 # President of Nigeria Goodluck Jonathan is permitted by the People's Democratic Party (PDP) to run in the forthcoming election; his candidacy would have breached informal election rules. 
 
 Ruling party says presidential rotation policy should not apply in forthcoming election.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/08/2010812164240208906.html)
 1. [Cover Image](http://www.aljazeera.com)

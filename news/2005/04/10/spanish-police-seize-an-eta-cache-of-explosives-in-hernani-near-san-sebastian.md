@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/10/spanish-police-seize-an-eta-cache-of-explosives-in-hernani-near-san-sebastian.html)  [JSON](/news/2005/04/10/spanish-police-seize-an-eta-cache-of-explosives-in-hernani-near-san-sebastian.json)  [XML](/news/2005/04/10/spanish-police-seize-an-eta-cache-of-explosives-in-hernani-near-san-sebastian.xml)  
+
 ### [2005-04-10](/news/2005/04/10/index.md)
 
+##### Spain
 #  Spanish police seize an ETA cache of explosives in Hernani, near San Sebastin. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [EITB](http://www.eitb24.com/noticia_en.php?id=51868)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L10693416.htm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/17/u-s-president-george-w-bush-signs-the-intelligence-reform-and-terrorism-prevention-act-creating-the-office-of-the-director-of-national-i.html)  [JSON](/news/2004/12/17/u-s-president-george-w-bush-signs-the-intelligence-reform-and-terrorism-prevention-act-creating-the-office-of-the-director-of-national-i.json)  [XML](/news/2004/12/17/u-s-president-george-w-bush-signs-the-intelligence-reform-and-terrorism-prevention-act-creating-the-office-of-the-director-of-national-i.xml)  
+
 ### [2004-12-17](/news/2004/12/17/index.md)
 
+##### U.S. President
 #  U.S. President George W. Bush signs the Intelligence Reform and Terrorism Prevention Act, creating the office of the Director of National Intelligence to oversee the country's fifteen spy agencies. 
 
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Politics/wireStory?id=339405)
 

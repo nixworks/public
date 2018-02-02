@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/07/17/typhoon-conson-makes-landfall-near-hai-phong-vietnam-after-devastating-southern-china-and-the-philippines-with-at-least-65-dead.html)  [JSON](/news/2010/07/17/typhoon-conson-makes-landfall-near-hai-phong-vietnam-after-devastating-southern-china-and-the-philippines-with-at-least-65-dead.json)  [XML](/news/2010/07/17/typhoon-conson-makes-landfall-near-hai-phong-vietnam-after-devastating-southern-china-and-the-philippines-with-at-least-65-dead.xml)  
+
 ### [2010-07-17](/news/2010/07/17/index.md)
 
+##### Typhoon Conson
 # Typhoon Conson makes landfall near Hai Phong, Vietnam, after devastating Southern China and the Philippines with at least 65 dead. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [JTWC](http://www.webcitation.org/5rI8qAaAo)
+1. [JTWC](https://www.webcitation.org/5rI8qAaAo)
 2. [NDCC](http://www.ndcc.gov.ph/attachments/052_NDCC%20Update%20Sitrep%20No%2014%20as%20of%2017%20July%202010%203PM.pdf)
 
 ### Related:

@@ -1,9 +1,18 @@
+
+Formats: [HTML](/news/2003/03/5/a-man-exploded-a-bomb-in-a-bus-in-haifa-israel-killing-at-least-ten-people.html)  [JSON](/news/2003/03/5/a-man-exploded-a-bomb-in-a-bus-in-haifa-israel-killing-at-least-ten-people.json)  [XML](/news/2003/03/5/a-man-exploded-a-bomb-in-a-bus-in-haifa-israel-killing-at-least-ten-people.xml)  
+
 ### [2003-03-5](/news/2003/03/5/index.md)
 
+##### bomb
 #  A man exploded a bomb in a bus in Haifa, Israel, killing at least ten people.
 
 
 
+
+### Changes:
+
+1. [ A car bomb exploded in Cucuta, Colombia killing at least seven people.](/news/2003/03/5/a-car-bomb-exploded-in-caocuta-colombia-killing-at-least-seven-people.md) _2017-10-17 03:15:28 (First version)_
+1. [ A man exploded a bomb in a bus in Haifa, Israel, killing at least ten people.](/news/2003/03/5/a-man-exploded-a-bomb-in-a-bus-in-haifa-israel-killing-at-least-ten-people.md) _(Current version)_
 
 ### Related:
 
@@ -12,8 +21,3 @@
 3. [Around 50,000 people are evacuated as fires rage throughout the Israeli city of Haifa. The Minister of Public Security Gilad Erdan says at least half the fires are to due to arson. ](/news/2016/11/24/around-50-000-people-are-evacuated-as-fires-rage-throughout-the-israeli-city-of-haifa-the-minister-of-public-security-gilad-erdan-says-at-l.md) _Context: Haifa, Israel_
 4. [A controversial beauty pageant for survivors of The Holocaust is held for the first time in the Israeli city of Haifa. Critics describe it as "offensive" and "macabre." ](/news/2012/06/29/a-controversial-beauty-pageant-for-survivors-of-the-holocaust-is-held-for-the-first-time-in-the-israeli-city-of-haifa-critics-describe-it-a.md) _Context: Haifa, Israel_
 5. [At least 40 people are killed during a forest fire near Haifa in Israel. ](/news/2010/12/2/at-least-40-people-are-killed-during-a-forest-fire-near-haifa-in-israel.md) _Context: Haifa, Israel_
-
-### Changes:
-
-1. [ A car bomb exploded in Cucuta, Colombia killing at least seven people.](/news/2003/03/5/a-car-bomb-exploded-in-caocuta-colombia-killing-at-least-seven-people.md) _2017-10-16 03:15:29 (First version)_
-1. [ A man exploded a bomb in a bus in Haifa, Israel, killing at least ten people.](/news/2003/03/5/a-man-exploded-a-bomb-in-a-bus-in-haifa-israel-killing-at-least-ten-people.md) _(Current version)_

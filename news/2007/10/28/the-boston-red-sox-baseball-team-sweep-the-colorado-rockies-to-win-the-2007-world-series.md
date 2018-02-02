@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/28/the-boston-red-sox-baseball-team-sweep-the-colorado-rockies-to-win-the-2007-world-series.html)  [JSON](/news/2007/10/28/the-boston-red-sox-baseball-team-sweep-the-colorado-rockies-to-win-the-2007-world-series.json)  [XML](/news/2007/10/28/the-boston-red-sox-baseball-team-sweep-the-colorado-rockies-to-win-the-2007-world-series.xml)  
+
 ### [2007-10-28](/news/2007/10/28/index.md)
 
+##### Boston Red Sox
 #  The Boston Red Sox baseball team sweep the Colorado Rockies to win the 2007 World Series. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Providence Journal](http://www.projo.com/redsox/content/sp_bb_sox29_10-29-07_4B7LF7D_v24.34b79ec.html)
 1. [Cover Image](http://www.providencejournal.com/Global/images/head/nameplate/providencejournal_logo.png)

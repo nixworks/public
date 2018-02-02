@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/15/u-n-secretary-general-ban-ki-moon-and-danish-hosts-urge-countries-on-to-compromise-to-salvage-agreement-on-a-new-u-n-pact-aimed-at-averti.html)  [JSON](/news/2009/12/15/u-n-secretary-general-ban-ki-moon-and-danish-hosts-urge-countries-on-to-compromise-to-salvage-agreement-on-a-new-u-n-pact-aimed-at-averti.json)  [XML](/news/2009/12/15/u-n-secretary-general-ban-ki-moon-and-danish-hosts-urge-countries-on-to-compromise-to-salvage-agreement-on-a-new-u-n-pact-aimed-at-averti.xml)  
+
 ### [2009-12-15](/news/2009/12/15/index.md)
 
+##### U.N.
 #  U.N. Secretary-General Ban Ki-moon and Danish hosts urge countries on to compromise to salvage agreement on a new U.N. pact aimed at averting dangerous climate change and global warming. P:GW 
 
 U.N. Secretary-General Ban Ki-moon and Danish conference hosts warned ministers Tuesday to compromise at deadlocked global talks to salvage agreement on a new U.N. climate pact.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/idUKTRE5BD1K220091215)
 1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20091215&t=2&i=31839976&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-12-15T194410Z_01_BTRE5BE1ITQ00_RTROPTP_0_CLIMATE-COPENHAGEN)

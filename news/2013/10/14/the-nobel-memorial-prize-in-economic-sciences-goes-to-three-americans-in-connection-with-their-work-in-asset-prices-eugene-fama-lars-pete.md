@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/14/the-nobel-memorial-prize-in-economic-sciences-goes-to-three-americans-in-connection-with-their-work-in-asset-prices-eugene-fama-lars-pete.html)  [JSON](/news/2013/10/14/the-nobel-memorial-prize-in-economic-sciences-goes-to-three-americans-in-connection-with-their-work-in-asset-prices-eugene-fama-lars-pete.json)  [XML](/news/2013/10/14/the-nobel-memorial-prize-in-economic-sciences-goes-to-three-americans-in-connection-with-their-work-in-asset-prices-eugene-fama-lars-pete.xml)  
+
 ### [2013-10-14](/news/2013/10/14/index.md)
 
+##### Nobel Memorial Prize in Economic Sciences
 # The Nobel Memorial Prize in Economic Sciences goes to three Americans, in connection with their work in asset prices: Eugene Fama, Lars Peter Hansen, and Robert Shiller. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Royal Swedish Academy of Sciences](http://www.kva.se/en/pressroom/Press-releases-2013/The-Prize-in-Economic-Sciences-2013/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/15/muslim-fundamentalists-kill-two-people-an-army-colonel-and-the-military-commander-of-bejaia-in-northern-algeria.html)  [JSON](/news/2010/01/15/muslim-fundamentalists-kill-two-people-an-army-colonel-and-the-military-commander-of-bejaia-in-northern-algeria.json)  [XML](/news/2010/01/15/muslim-fundamentalists-kill-two-people-an-army-colonel-and-the-military-commander-of-bejaia-in-northern-algeria.xml)  
+
 ### [2010-01-15](/news/2010/01/15/index.md)
 
+##### Bjaa
 # Muslim fundamentalists kill two people, an army colonel and the military commander of Bjaa in northern Algeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20100115173110851C131765)
 

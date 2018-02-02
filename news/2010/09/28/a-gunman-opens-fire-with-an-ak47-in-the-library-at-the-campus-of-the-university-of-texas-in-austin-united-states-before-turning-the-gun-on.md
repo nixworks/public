@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/28/a-gunman-opens-fire-with-an-ak47-in-the-library-at-the-campus-of-the-university-of-texas-in-austin-united-states-before-turning-the-gun-on.html)  [JSON](/news/2010/09/28/a-gunman-opens-fire-with-an-ak47-in-the-library-at-the-campus-of-the-university-of-texas-in-austin-united-states-before-turning-the-gun-on.json)  [XML](/news/2010/09/28/a-gunman-opens-fire-with-an-ak47-in-the-library-at-the-campus-of-the-university-of-texas-in-austin-united-states-before-turning-the-gun-on.xml)  
+
 ### [2010-09-28](/news/2010/09/28/index.md)
 
+##### AK47
 # A gunman opens fire with an AK47 in the library at the campus of the University of Texas in Austin, United States, before turning the gun on himself and taking his own life. No other injuries are reported. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Austin American Statesman](http://www.statesman.com/blogs/content/shared-gen/blogs/austin/blotter/entries/2010/09/28/police_on_scene_of_shooting_on.html)
 

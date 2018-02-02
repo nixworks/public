@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/4/denmark-s-prince-henrik-announces-he-won-t-be-bu
 
 ### [2017-08-4](/news/2017/08/4/index.md)
 
+##### Danish royal consorts
 # Denmark's Prince Henrik announces he won't be buried next to Queen Margrethe II in the Roskilde Cathedral where Danish royals have been buried since 1559. The 83-year-old, French-born Henrik has been dissatisfied with his non-equal role as Prince consort. The 77-year old Margrethe, who had a specially designed sarcophagus made for the couple, accepts Henrik's decision, according to a royal house spokeswoman. 
 
 

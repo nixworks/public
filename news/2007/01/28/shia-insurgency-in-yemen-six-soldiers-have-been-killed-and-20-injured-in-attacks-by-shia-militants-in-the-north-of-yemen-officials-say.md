@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/28/shia-insurgency-in-yemen-six-soldiers-have-been-killed-and-20-injured-in-attacks-by-shia-militants-in-the-north-of-yemen-officials-say.html)  [JSON](/news/2007/01/28/shia-insurgency-in-yemen-six-soldiers-have-been-killed-and-20-injured-in-attacks-by-shia-militants-in-the-north-of-yemen-officials-say.json)  [XML](/news/2007/01/28/shia-insurgency-in-yemen-six-soldiers-have-been-killed-and-20-injured-in-attacks-by-shia-militants-in-the-north-of-yemen-officials-say.xml)  
+
 ### [2007-01-28](/news/2007/01/28/index.md)
 
+##### Shia insurgency in Yemen
 #  Shia insurgency in Yemen: Six soldiers have been killed and 20 injured in attacks by Shia militants in the north of Yemen, officials say. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6307703.stm)
 

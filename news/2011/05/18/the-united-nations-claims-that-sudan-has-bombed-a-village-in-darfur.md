@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/18/the-united-nations-claims-that-sudan-has-bombed-a-village-in-darfur.html)  [JSON](/news/2011/05/18/the-united-nations-claims-that-sudan-has-bombed-a-village-in-darfur.json)  [XML](/news/2011/05/18/the-united-nations-claims-that-sudan-has-bombed-a-village-in-darfur.xml)  
+
 ### [2011-05-18](/news/2011/05/18/index.md)
 
+##### United Nations
 # The United Nations claims that Sudan has bombed a village in Darfur. 
 
 Sudan has carried out another air strike on a village in the troubled western region of Darfur, according to the UN.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13446911)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52824000/jpg/_52824969_004820745-1.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/21/u-s-president-george-w-bush-addresses-a-skeptical-united-nations-audience-to-discuss-his-plans-regarding-iraq.html)  [JSON](/news/2004/09/21/u-s-president-george-w-bush-addresses-a-skeptical-united-nations-audience-to-discuss-his-plans-regarding-iraq.json)  [XML](/news/2004/09/21/u-s-president-george-w-bush-addresses-a-skeptical-united-nations-audience-to-discuss-his-plans-regarding-iraq.xml)  
+
 ### [2004-09-21](/news/2004/09/21/index.md)
 
+##### U.S. President
 #  U.S. President George W. Bush addresses a skeptical United Nations audience to discuss his plans regarding Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Boston Globe](http://www.boston.com/news/world/articles/2004/09/22/at_un_bush_still_finds_his_iraq_plan_hard_to_sell)
 

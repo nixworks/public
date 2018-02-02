@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/12/around-10-000-people-attend-a-street-party-in-f
 
 ### [2016-06-12](/news/2016/06/12/index.md)
 
+##### Buckingham Palace
 # Around 10,000 people attend a street party in front of Buckingham Palace to celebrate Queen Elizabeth II's 90th birthday. 
 
 

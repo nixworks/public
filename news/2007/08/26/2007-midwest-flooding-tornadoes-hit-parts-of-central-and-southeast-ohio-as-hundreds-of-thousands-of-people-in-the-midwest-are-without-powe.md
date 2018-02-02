@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2007/08/26/2007-midwest-flooding-tornadoes-hit-parts-of-central-and-southeast-ohio-as-hundreds-of-thousands-of-people-in-the-midwest-are-without-powe.html)  [JSON](/news/2007/08/26/2007-midwest-flooding-tornadoes-hit-parts-of-central-and-southeast-ohio-as-hundreds-of-thousands-of-people-in-the-midwest-are-without-powe.json)  [XML](/news/2007/08/26/2007-midwest-flooding-tornadoes-hit-parts-of-central-and-southeast-ohio-as-hundreds-of-thousands-of-people-in-the-midwest-are-without-powe.xml)  
+
 ### [2007-08-26](/news/2007/08/26/index.md)
 
+##### 2007 Midwest flooding
 #  2007 Midwest flooding: Tornadoes hit parts of central and southeast Ohio as hundreds of thousands of people in the Midwest are without power. 
 
 Beleaguered residents of flood-ravaged Midwest find fresh damage from a batch of tornado-bearing thunderstorms that knocked out power to hundreds of thousands of customers.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,294591,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
 
 ### Related:
 
-1. [ A storm system comprising at least three tornadoes sweeps across northern Ohio, killing a woman in Marion, Ohio and leaving thousands without power. ](/news/2007/08/10/a-storm-system-comprising-at-least-three-tornadoes-sweeps-across-northern-ohio-killing-a-woman-in-marion-ohio-and-leaving-thousands-witho.md) _Context: Ohio, tornado_
-2. [Robert Bentley, the Governor of Alabama, declares a state of emergency due to forecasts of storms with the threat of tornadoes during the day. The neighboring state of Georgia also faces the threat of severe weather. ](/news/2017/04/4/robert-bentley-the-governor-of-alabama-declares-a-state-of-emergency-due-to-forecasts-of-storms-with-the-threat-of-tornadoes-during-the-da.md) _Context: tornado_
-3. [The death tolls from tornadoes and floods in the midwestern and southern United States rises to ten with two people missing. ](/news/2017/04/30/the-death-tolls-from-tornadoes-and-floods-in-the-midwestern-and-southern-united-states-rises-to-ten-with-two-people-missing.md) _Context: tornado_
-4. [ISIL supporter, Terrence J. McNeil, of Akron, Ohio, pleads guilty to five counts of soliciting to commit criminal violence and communicating interstate threats in calls to kill U.S. military personnel. He is scheduled to be sentenced in August and faces up to 20 years in prison.](/news/2017/04/20/isil-supporter-terrence-j-mcneil-of-akron-ohio-pleads-guilty-to-five-counts-of-soliciting-to-commit-criminal-violence-and-communicating.md) _Context: Ohio_
-5. [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md) _Context: Ohio_
+1. [ISIL supporter, Terrence J. McNeil, of Akron, Ohio, pleads guilty to five counts of soliciting to commit criminal violence and communicating interstate threats in calls to kill U.S. military personnel. He is scheduled to be sentenced in August and faces up to 20 years in prison.](/news/2017/04/20/isil-supporter-terrence-j-mcneil-of-akron-ohio-pleads-guilty-to-five-counts-of-soliciting-to-commit-criminal-violence-and-communicating.md) _Context: Ohio_
+2. [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md) _Context: Ohio_
+3. [Nine people are injured in a shooting at the J&R Party Hall after-hours club in Columbus, Ohio. Two are in critical condition. ](/news/2017/04/16/nine-people-are-injured-in-a-shooting-at-the-j-r-party-hall-after-hours-club-in-columbus-ohio-two-are-in-critical-condition.md) _Context: Ohio_
+4. [Four state Democratic Parties sue the Donald Trump presidential campaign, the state Republican Parties, and "Stop the Steal" group founder Roger Stone for voter intimidation in the states of Ohio, Pennsylvania, Nevada, and Arizona. ](/news/2016/11/1/four-state-democratic-parties-sue-the-donald-trump-presidential-campaign-the-state-republican-parties-and-stop-the-steal-group-founder-r.md) _Context: Ohio_
+5. [The 2016 Republican National Convention gets underway in Cleveland, Ohio. With the day's theme being national and local security, notable speakers include reality television star Willie Robertson, actor Scott Baio, former Governor of Texas Rick Perry, former Mayor of New York City Rudy Giuliani, Milwaukee County sheriff David Clarke, retired United States Army lieutenant general Michael T. Flynn and Melania Trump, wife of presumptive Republican nominee for President of the United States Donald Trump. ](/news/2016/07/18/the-2016-republican-national-convention-gets-underway-in-cleveland-ohio-with-the-day-s-theme-being-national-and-local-security-notable-sp.md) _Context: Ohio_

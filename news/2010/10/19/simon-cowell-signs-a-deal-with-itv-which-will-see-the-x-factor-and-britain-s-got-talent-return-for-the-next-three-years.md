@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/19/simon-cowell-signs-a-deal-with-itv-which-will-see-the-x-factor-and-britain-s-got-talent-return-for-the-next-three-years.html)  [JSON](/news/2010/10/19/simon-cowell-signs-a-deal-with-itv-which-will-see-the-x-factor-and-britain-s-got-talent-return-for-the-next-three-years.json)  [XML](/news/2010/10/19/simon-cowell-signs-a-deal-with-itv-which-will-see-the-x-factor-and-britain-s-got-talent-return-for-the-next-three-years.xml)  
+
 ### [2010-10-19](/news/2010/10/19/index.md)
 
+##### Simon Cowell
 # Simon Cowell signs a deal with ITV which will see "The X Factor" and "Britain's Got Talent" return for the next three years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Peace FM](http://foreign.peacefmonline.com/entertainment/201010/94863.php)
 

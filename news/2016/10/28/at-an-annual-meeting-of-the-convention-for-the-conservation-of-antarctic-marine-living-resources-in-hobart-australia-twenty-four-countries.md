@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/28/at-an-annual-meeting-of-the-convention-for-the-
 
 ### [2016-10-28](/news/2016/10/28/index.md)
 
+##### Convention for the Conservation of Antarctic Marine Living Resources
 # At an annual meeting of the Convention for the Conservation of Antarctic Marine Living Resources in Hobart, Australia, twenty-four countries and the European Union agree to create the world's largest marine park in Antarctica's Ross Sea. The marine park will cover more than 12 percent of the Southern Ocean, and will be protected from commercial fishing for 35 years. 
 
 

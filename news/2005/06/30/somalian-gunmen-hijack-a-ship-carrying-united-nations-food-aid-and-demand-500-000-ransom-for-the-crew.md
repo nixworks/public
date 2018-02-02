@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/06/30/somalian-gunmen-hijack-a-ship-carrying-united-nations-food-aid-and-demand-500-000-ransom-for-the-crew.html)  [JSON](/news/2005/06/30/somalian-gunmen-hijack-a-ship-carrying-united-nations-food-aid-and-demand-500-000-ransom-for-the-crew.json)  [XML](/news/2005/06/30/somalian-gunmen-hijack-a-ship-carrying-united-nations-food-aid-and-demand-500-000-ransom-for-the-crew.xml)  
+
 ### [2005-06-30](/news/2005/06/30/index.md)
 
+##### Somalia
 #  Somalian gunmen hijack a ship carrying United Nations food aid and demand $500.000 ransom for the crew.
 
 

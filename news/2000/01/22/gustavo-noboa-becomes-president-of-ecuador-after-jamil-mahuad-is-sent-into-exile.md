@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/01/22/gustavo-noboa-becomes-president-of-ecuador-after-jamil-mahuad-is-sent-into-exile.html)  [JSON](/news/2000/01/22/gustavo-noboa-becomes-president-of-ecuador-after-jamil-mahuad-is-sent-into-exile.json)  [XML](/news/2000/01/22/gustavo-noboa-becomes-president-of-ecuador-after-jamil-mahuad-is-sent-into-exile.xml)  
+
 ### [2000-01-22](/news/2000/01/22/index.md)
 
+##### Gustavo Noboa
 # Gustavo Noboa becomes President of Ecuador, after Jamil Mahuad is sent into exile.
 
 

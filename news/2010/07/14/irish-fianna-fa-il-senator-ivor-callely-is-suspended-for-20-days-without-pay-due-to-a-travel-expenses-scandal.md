@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/14/irish-fianna-fa-il-senator-ivor-callely-is-suspended-for-20-days-without-pay-due-to-a-travel-expenses-scandal.html)  [JSON](/news/2010/07/14/irish-fianna-fa-il-senator-ivor-callely-is-suspended-for-20-days-without-pay-due-to-a-travel-expenses-scandal.json)  [XML](/news/2010/07/14/irish-fianna-fa-il-senator-ivor-callely-is-suspended-for-20-days-without-pay-due-to-a-travel-expenses-scandal.xml)  
+
 ### [2010-07-14](/news/2010/07/14/index.md)
 
+##### Fianna Fail
 # Irish Fianna Fail Senator Ivor Callely is suspended for 20 days without pay due to a travel expenses scandal. 
 
 The Seanad has agreed without a vote to suspend Senator Callely for 20 days without pay.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0714/callelyi.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/frontpage/2010/0715/1224274740154.html)

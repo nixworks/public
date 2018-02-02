@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/5/iran-and-india-develop-a-stop-gap-plan-to-continue-the-flow-of-oil-from-the-former-to-the-latter-and-payments-in-the-opposite-direction-da.html)  [JSON](/news/2011/01/5/iran-and-india-develop-a-stop-gap-plan-to-continue-the-flow-of-oil-from-the-former-to-the-latter-and-payments-in-the-opposite-direction-da.json)  [XML](/news/2011/01/5/iran-and-india-develop-a-stop-gap-plan-to-continue-the-flow-of-oil-from-the-former-to-the-latter-and-payments-in-the-opposite-direction-da.xml)  
+
 ### [2011-01-5](/news/2011/01/5/index.md)
 
+##### Iran
 # Iran and India develop a stop-gap plan to continue the flow of oil from the former to the latter, and payments in the opposite direction, days after India withdrew from the Asian Clearing Union. The new plan involves payments through the EIH Bank, in Hamburg, Germany. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Domain-b](http://www.domain-b.com/industry/oil_gas/20110105_payments_channels.html)
 

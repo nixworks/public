@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2013/01/1/2013-houphoua-t-boigny-stampede-at-least-60-people-are-killed-and-more-than-200-injured-in-a-stampede-during-a-new-year-s-fireworks-celebra.html)  [JSON](/news/2013/01/1/2013-houphoua-t-boigny-stampede-at-least-60-people-are-killed-and-more-than-200-injured-in-a-stampede-during-a-new-year-s-fireworks-celebra.json)  [XML](/news/2013/01/1/2013-houphoua-t-boigny-stampede-at-least-60-people-are-killed-and-more-than-200-injured-in-a-stampede-during-a-new-year-s-fireworks-celebra.xml)  
+
 ### [2013-01-1](/news/2013/01/1/index.md)
 
+##### 2013 Houphouet-Boigny stampede
 # 2013 Houphouet-Boigny stampede: At least 60 people are killed and more than 200 injured in a stampede during a New Year's fireworks celebration near the Stade Felix Houphouet-Boigny in Abidjan, Ivory Coast. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20881552)
 2. [CNN](http://www.cnn.com/2013/01/01/world/africa/ivory-coast-deaths)
-3. [Reuters](http://www.reuters.com/article/2013/01/01/us-ivorycoast-stadium-idUSBRE90003Z20130101)
-3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130101&t=2&i=690129330&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9001MTF00)
+3. [Reuters](https://www.reuters.com/article/2013/01/01/us-ivorycoast-stadium-idUSBRE90003Z20130101)
+3. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130101&t=2&i=690129330&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9001MTF00)
 
 ### Related:
 

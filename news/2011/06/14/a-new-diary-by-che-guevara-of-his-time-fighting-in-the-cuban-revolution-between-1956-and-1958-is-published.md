@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/14/a-new-diary-by-che-guevara-of-his-time-fighting-in-the-cuban-revolution-between-1956-and-1958-is-published.html)  [JSON](/news/2011/06/14/a-new-diary-by-che-guevara-of-his-time-fighting-in-the-cuban-revolution-between-1956-and-1958-is-published.json)  [XML](/news/2011/06/14/a-new-diary-by-che-guevara-of-his-time-fighting-in-the-cuban-revolution-between-1956-and-1958-is-published.xml)  
+
 ### [2011-06-14](/news/2011/06/14/index.md)
 
+##### Che Guevara
 # A new diary by Che Guevara of his time fighting in the Cuban Revolution between 1956 and 1958 is published. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2011/jun/15/che-guevara-diary-published)
 

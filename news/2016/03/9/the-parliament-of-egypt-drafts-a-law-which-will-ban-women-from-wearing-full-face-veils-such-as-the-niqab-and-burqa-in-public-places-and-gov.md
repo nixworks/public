@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/9/the-parliament-of-egypt-drafts-a-law-which-will-
 
 ### [2016-03-9](/news/2016/03/9/index.md)
 
+##### Niqab in Egypt
 # The Parliament of Egypt drafts a law which will ban women from wearing full-face veils such as the niqab and burqa in public places and government institutions. The move comes after Cairo University recently banned nurses and doctors from wearing veils in medical schools and in teaching hospitals, arguing the ban would "protect patients' rights and interests". 
 
 The Egyptian parliament is drafting a law banning women from wearing the niqab veil. The ban will apply to wearing the clothing in public places and government institutions, it has been reported. The full-face veil is worn by some followers of Islam and typically covers all of the wearer’s face other than their eyes. The clothing is common in Egypt which is a predominantly Muslim country.
@@ -20,8 +21,8 @@ The Egyptian parliament is drafting a law banning women from wearing the niqab v
 
 ### Related:
 
-1. [Austria agrees to ban the full-face veil (burqa and niqab) in public spaces, part of a larger deal struck by the center-left Social Democratic Party and the center-right Austrian People's Party to avoid the collapse of the ruling coalition government. ](/news/2017/01/31/austria-agrees-to-ban-the-full-face-veil-burqa-and-niqab-in-public-spaces-part-of-a-larger-deal-struck-by-the-center-left-social-democra.md) _Context: burqa, niqab_
-2. [The French law banning the burqa and niqab comes into effect. ](/news/2011/04/11/the-french-law-banning-the-burqa-and-niqab-comes-into-effect.md) _Context: burqa, niqab_
-3. [The new right wing coalition in the Netherlands have agreed to ban full Islamic veils, such as the Burqa and Niqab ](/news/2010/09/30/the-new-right-wing-coalition-in-the-netherlands-have-agreed-to-ban-full-islamic-veils-such-as-the-burqa-and-niqab.md) _Context: burqa, niqab_
-4. [France's lower house of parliament approves a bill that bans wearing burqa and niqab in public. ](/news/2010/07/13/france-s-lower-house-of-parliament-approves-a-bill-that-bans-wearing-burqa-and-niqab-in-public.md) _Context: burqa, niqab_
-5. [The Egyptian parliament approves the transfer of two uninhabited Red Sea islands, Tiran Island and Sanafir Island, to Saudi Arabia. ](/news/2017/06/14/the-egyptian-parliament-approves-the-transfer-of-two-uninhabited-red-sea-islands-tiran-island-and-sanafir-island-to-saudi-arabia.md) _Context: Egyptian parliament_
+1. [France's lower house of parliament approves a bill that bans wearing burqa and niqab in public. ](/news/2010/07/13/france-s-lower-house-of-parliament-approves-a-bill-that-bans-wearing-burqa-and-niqab-in-public.md) _Context: burqa, niqab_
+2. [The Parliament of Egypt approves, with a two-thirds majority in favour, extending the nationwide state of emergency for a further three months, starting January 13. ](/news/2018/01/9/the-parliament-of-egypt-approves-with-a-two-thirds-majority-in-favour-extending-the-nationwide-state-of-emergency-for-a-further-three-mont.md) _Context: Parliament of Egypt_
+3. [The Egyptian parliament approves the transfer of two uninhabited Red Sea islands, Tiran Island and Sanafir Island, to Saudi Arabia. ](/news/2017/06/14/the-egyptian-parliament-approves-the-transfer-of-two-uninhabited-red-sea-islands-tiran-island-and-sanafir-island-to-saudi-arabia.md) _Context: Parliament of Egypt_
+4. [The Bundestag approves a ban on burqas being worn by members of the German civil service. ](/news/2017/04/27/the-bundestag-approves-a-ban-on-burqas-being-worn-by-members-of-the-german-civil-service.md) _Context: burqa_
+5. [The Islamic State of Iraq and the Levant bans burqas in northern Iraq after a series of fatal attacks on its members by veiled women. ](/news/2016/09/6/the-islamic-state-of-iraq-and-the-levant-bans-burqas-in-northern-iraq-after-a-series-of-fatal-attacks-on-its-members-by-veiled-women.md) _Context: burqa_

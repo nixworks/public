@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/18/british-singer-ian-watkins-lostprophets-is-sentenced-to-29-years-imprisonment-and-6-years-on-licence-at-cardiff-crown-court-for-a-range-of.html)  [JSON](/news/2013/12/18/british-singer-ian-watkins-lostprophets-is-sentenced-to-29-years-imprisonment-and-6-years-on-licence-at-cardiff-crown-court-for-a-range-of.json)  [XML](/news/2013/12/18/british-singer-ian-watkins-lostprophets-is-sentenced-to-29-years-imprisonment-and-6-years-on-licence-at-cardiff-crown-court-for-a-range-of.xml)  
+
 ### [2013-12-18](/news/2013/12/18/index.md)
 
+##### British
 # British singer Ian Watkins (Lostprophets) is sentenced to 29 years imprisonment and 6 years on licence at Cardiff Crown Court for a range of child sex offences including the attempted rape of a baby. 
 
 The paedophile singer of Welsh rock band Lostprophets is sentenced to 35 years for child sex offences, as police say they are treating him as a serial offender.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-25412675)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71358000/jpg/_71358817_ianwatkins.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/1/2012-mali-counter-coup-attempt-heavy-fighting-takes-place-in-the-malian-capital-bamako-between-coup-supporters-and-opponents.html)  [JSON](/news/2012/05/1/2012-mali-counter-coup-attempt-heavy-fighting-takes-place-in-the-malian-capital-bamako-between-coup-supporters-and-opponents.json)  [XML](/news/2012/05/1/2012-mali-counter-coup-attempt-heavy-fighting-takes-place-in-the-malian-capital-bamako-between-coup-supporters-and-opponents.xml)  
+
 ### [2012-05-1](/news/2012/05/1/index.md)
 
+##### 2012 Mali counter-coup attempt
 # 2012 Mali counter-coup attempt: Heavy fighting takes place in the Malian capital Bamako between coup supporters and opponents. 
 
 Current military leaders say they retain hold of key locations in Bamako after attempted counter-coup claimed 14 lives.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/05/20125113377698960.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/1/201251141452469580_20.jpg)

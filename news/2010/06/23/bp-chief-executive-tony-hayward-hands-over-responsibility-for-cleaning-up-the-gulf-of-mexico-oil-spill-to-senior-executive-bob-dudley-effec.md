@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/23/bp-chief-executive-tony-hayward-hands-over-responsibility-for-cleaning-up-the-gulf-of-mexico-oil-spill-to-senior-executive-bob-dudley-effec.html)  [JSON](/news/2010/06/23/bp-chief-executive-tony-hayward-hands-over-responsibility-for-cleaning-up-the-gulf-of-mexico-oil-spill-to-senior-executive-bob-dudley-effec.json)  [XML](/news/2010/06/23/bp-chief-executive-tony-hayward-hands-over-responsibility-for-cleaning-up-the-gulf-of-mexico-oil-spill-to-senior-executive-bob-dudley-effec.xml)  
+
 ### [2010-06-23](/news/2010/06/23/index.md)
 
+##### BP
 # BP chief executive Tony Hayward hands over responsibility for cleaning up the Gulf of Mexico oil spill to senior executive Bob Dudley "effective immediately". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via the ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/bps-hayward-hands-over-gulf-spill-management-20100623-yz5t.html)
 

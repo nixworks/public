@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/27/chinese-police-investigate-claims-that-a-security-firm-colluded-with-officials-to-detain-protesters-in-secret-prisons.html)  [JSON](/news/2010/09/27/chinese-police-investigate-claims-that-a-security-firm-colluded-with-officials-to-detain-protesters-in-secret-prisons.json)  [XML](/news/2010/09/27/chinese-police-investigate-claims-that-a-security-firm-colluded-with-officials-to-detain-protesters-in-secret-prisons.xml)  
+
 ### [2010-09-27](/news/2010/09/27/index.md)
 
+##### China
 # Chinese police investigate claims that a security firm colluded with officials to detain protesters in secret prisons. 
 
 State media in China say police are checking claims that a security firm was paid to abduct people trying to report injustices to Beijing authorities.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5imWnlnHjdcR3sLTlyankeEemuTbgD9IG4VJO0)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11420443)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/8/occupation-of-iraq-at-his-ranch-in-crawford-texas-president-bush-noted-the-100th-day-since-overt-military-action-in-iraq-ended-saying-t.html)  [JSON](/news/2003/08/8/occupation-of-iraq-at-his-ranch-in-crawford-texas-president-bush-noted-the-100th-day-since-overt-military-action-in-iraq-ended-saying-t.json)  [XML](/news/2003/08/8/occupation-of-iraq-at-his-ranch-in-crawford-texas-president-bush-noted-the-100th-day-since-overt-military-action-in-iraq-ended-saying-t.xml)  
+
 ### [2003-08-8](/news/2003/08/8/index.md)
 
+##### U.S. presence in Iraq
 #  Occupation of Iraq: At his ranch in Crawford, Texas, President Bush noted the 100th day since overt military action in Iraq ended, saying that the United States has made "good progress" in helping Iraq's democratic processes, overall national security, and economy.
 
 

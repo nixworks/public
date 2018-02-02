@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/1/the-united-nations-launches-a-food-assistance-program-to-assist-iraqi-refugees-in-syria.html)  [JSON](/news/2007/09/1/the-united-nations-launches-a-food-assistance-program-to-assist-iraqi-refugees-in-syria.json)  [XML](/news/2007/09/1/the-united-nations-launches-a-food-assistance-program-to-assist-iraqi-refugees-in-syria.xml)  
+
 ### [2007-09-1](/news/2007/09/1/index.md)
 
+##### United Nations
 #  The United Nations launches a food assistance program to assist Iraqi refugees in Syria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via International Herald Tribune](http://www.iht.com/articles/ap/2007/09/01/africa/ME-GEN-Syria-Iraq-UN-Refugees.php)
 

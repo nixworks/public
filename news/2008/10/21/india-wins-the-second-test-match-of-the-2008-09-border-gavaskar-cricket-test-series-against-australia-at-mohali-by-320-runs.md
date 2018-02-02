@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/21/india-wins-the-second-test-match-of-the-2008-09-border-gavaskar-cricket-test-series-against-australia-at-mohali-by-320-runs.html)  [JSON](/news/2008/10/21/india-wins-the-second-test-match-of-the-2008-09-border-gavaskar-cricket-test-series-against-australia-at-mohali-by-320-runs.json)  [XML](/news/2008/10/21/india-wins-the-second-test-match-of-the-2008-09-border-gavaskar-cricket-test-series-against-australia-at-mohali-by-320-runs.xml)  
+
 ### [2008-10-21](/news/2008/10/21/index.md)
 
+##### India
 #  India wins the second test match of the 2008-09 Border-Gavaskar cricket test series against Australia at Mohali by 320 runs
 
 
 
 
-### Source:
+### Sources:
 
 1. [Cricinfo](http://content-ind.cricinfo.com/indvaus2008/engine/current/match/345670.html)
 1. [Cover Image](http://i.imgci.com/espncricinfo/facebook/3.jpg)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/29/the-us-fda-approves-risperdal-consta-risperidone-long-acting-injection-for-the-treatment-of-schizophrenia-although-already-approved-in-s.html)  [JSON](/news/2003/10/29/the-us-fda-approves-risperdal-consta-risperidone-long-acting-injection-for-the-treatment-of-schizophrenia-although-already-approved-in-s.json)  [XML](/news/2003/10/29/the-us-fda-approves-risperdal-consta-risperidone-long-acting-injection-for-the-treatment-of-schizophrenia-although-already-approved-in-s.xml)  
+
 ### [2003-10-29](/news/2003/10/29/index.md)
 
+##### Food and Drug Administration
 #  The US FDA approves Risperdal Consta (Risperidone long-acting injection) for the treatment of schizophrenia. Although already approved in several other countries, it is the first long-acting, atypical antipsychotic medication to be approved by the FDA.
 
 

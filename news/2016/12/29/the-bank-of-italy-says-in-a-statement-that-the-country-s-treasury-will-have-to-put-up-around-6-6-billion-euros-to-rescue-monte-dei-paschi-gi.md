@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/29/the-bank-of-italy-says-in-a-statement-that-the-
 
 ### [2016-12-29](/news/2016/12/29/index.md)
 
+##### Bank of Italy
 # The Bank of Italy says in a statement that the country's treasury will have to put up around 6.6 billion euros to rescue Monte dei Paschi given the European Central Bank's estimate of Monte dei Paschi's capital shortfall. 
 
 

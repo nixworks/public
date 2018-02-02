@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/27/japan-s-coast-guard-sends-a-rescue-team-to-the-russian-fishing-trawler-alanet-with-24-fishermen-on-board-which-is-in-distress-off-japanese.html)  [JSON](/news/2012/12/27/japan-s-coast-guard-sends-a-rescue-team-to-the-russian-fishing-trawler-alanet-with-24-fishermen-on-board-which-is-in-distress-off-japanese.json)  [XML](/news/2012/12/27/japan-s-coast-guard-sends-a-rescue-team-to-the-russian-fishing-trawler-alanet-with-24-fishermen-on-board-which-is-in-distress-off-japanese.xml)  
+
 ### [2012-12-27](/news/2012/12/27/index.md)
 
+##### Japan
 # Japan's Coast Guard sends a rescue team to the Russian fishing trawler "Alanet" with 24 fishermen on board which is in distress off Japanese Hokkaido Island. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ITAR-TASS](http://www.itar-tass.com/c32/611023.html)
 2. [The Voice of Russia](http://english.ruvr.ru/2012_12_27/Japan-offers-aid-to-rescue-Russian-trawler/)

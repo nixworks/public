@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/10/24/an-assassination-attempt-on-president-of-the-chechen-republic-ramzan-kadyrov-is-averted.html)  [JSON](/news/2009/10/24/an-assassination-attempt-on-president-of-the-chechen-republic-ramzan-kadyrov-is-averted.json)  [XML](/news/2009/10/24/an-assassination-attempt-on-president-of-the-chechen-republic-ramzan-kadyrov-is-averted.xml)  
+
 ### [2009-10-24](/news/2009/10/24/index.md)
 
+##### President of the Chechen Republic
 #  An assassination attempt on President of the Chechen Republic Ramzan Kadyrov is averted. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=a9rZA8kcGD58)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=a9rZA8kcGD58)
 2. [RIA Novosti](http://en.rian.ru/russia/20091023/156570480.html)
 
 ### Related:

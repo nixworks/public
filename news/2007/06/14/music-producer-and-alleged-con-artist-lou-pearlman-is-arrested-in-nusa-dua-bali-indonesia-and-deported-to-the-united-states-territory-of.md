@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/14/music-producer-and-alleged-con-artist-lou-pearlman-is-arrested-in-nusa-dua-bali-indonesia-and-deported-to-the-united-states-territory-of.html)  [JSON](/news/2007/06/14/music-producer-and-alleged-con-artist-lou-pearlman-is-arrested-in-nusa-dua-bali-indonesia-and-deported-to-the-united-states-territory-of.json)  [XML](/news/2007/06/14/music-producer-and-alleged-con-artist-lou-pearlman-is-arrested-in-nusa-dua-bali-indonesia-and-deported-to-the-united-states-territory-of.xml)  
+
 ### [2007-06-14](/news/2007/06/14/index.md)
 
+##### Music producer
 #  Music producer and alleged con artist Lou Pearlman is arrested in Nusa Dua, Bali, Indonesia and deported to the United States territory of Guam. He is accused of defrauding over 1,800 individual investors out of a total of $317-million. He will eventually be returned to Florida to face criminal charges and a growing list of civil litigation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Orlando Sentinel](http://www.orlandosentinel.com/news/local/state/orl-bk-pearlman061407,0,49595.story?coll=orl-home-headlines)
 

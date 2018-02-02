@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/24/flooding-on-the-red-river-of-the-north-forces-the-evacuation-of-the-roseau-river-anishinabe-first-nation-community-in-manitoba.html)  [JSON](/news/2011/04/24/flooding-on-the-red-river-of-the-north-forces-the-evacuation-of-the-roseau-river-anishinabe-first-nation-community-in-manitoba.json)  [XML](/news/2011/04/24/flooding-on-the-red-river-of-the-north-forces-the-evacuation-of-the-roseau-river-anishinabe-first-nation-community-in-manitoba.xml)  
+
 ### [2011-04-24](/news/2011/04/24/index.md)
 
+##### Red River of the North
 # Flooding on the Red River of the North forces the evacuation of the Roseau River Anishinabe First Nation community in Manitoba. 
 
 The evacuation of Roseau River Anishinabe First Nation continued Sunday with about 90% of residents expected to have left the southern Manitoba community of 800 by the end of the day. 
 
 
-### Source:
+### Sources:
 
 1. [Winnipeg Sun](http://www.winnipegsun.com/2011/04/24/roseau-river-evacuates-90-of-residents)
 1. [Cover Image](http://storage.winnipegsun.com/v1/suns-prod-images/1297162310353_LARGE_BOX.jpg?quality=80&stmp=1490883402902)

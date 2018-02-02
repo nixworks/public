@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/11/former-prime-minister-of-fiji-sitiveni-rabuka-is-cleared-of-two-charges-of-mutiny-in-relation-to-the-mutinies-of-the-2000-fijian-coup-d-eta.html)  [JSON](/news/2006/12/11/former-prime-minister-of-fiji-sitiveni-rabuka-is-cleared-of-two-charges-of-mutiny-in-relation-to-the-mutinies-of-the-2000-fijian-coup-d-eta.json)  [XML](/news/2006/12/11/former-prime-minister-of-fiji-sitiveni-rabuka-is-cleared-of-two-charges-of-mutiny-in-relation-to-the-mutinies-of-the-2000-fijian-coup-d-eta.xml)  
+
 ### [2006-12-11](/news/2006/12/11/index.md)
 
+##### Prime Minister
 #  Former Prime Minister of Fiji Sitiveni Rabuka is cleared of two charges of mutiny in relation to the mutinies of the 2000 Fijian coup d'tat. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200612/s1809005.htm)
 

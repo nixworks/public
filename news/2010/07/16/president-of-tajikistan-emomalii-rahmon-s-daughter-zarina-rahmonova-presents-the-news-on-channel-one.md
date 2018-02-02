@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/16/president-of-tajikistan-emomalii-rahmon-s-daughter-zarina-rahmonova-presents-the-news-on-channel-one.html)  [JSON](/news/2010/07/16/president-of-tajikistan-emomalii-rahmon-s-daughter-zarina-rahmonova-presents-the-news-on-channel-one.json)  [XML](/news/2010/07/16/president-of-tajikistan-emomalii-rahmon-s-daughter-zarina-rahmonova-presents-the-news-on-channel-one.xml)  
+
 ### [2010-07-16](/news/2010/07/16/index.md)
 
+##### President
 # President of Tajikistan Emomalii Rahmon's daughter Zarina Rahmonova presents the news on Channel One. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-10667242)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

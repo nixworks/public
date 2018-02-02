@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/12/a-false-alarm-causes-the-diversion-of-american-airlines-flight-136-the-plane-crew-was-concerned-that-a-passenger-of-middle-eastern-descent.html)  [JSON](/news/2007/07/12/a-false-alarm-causes-the-diversion-of-american-airlines-flight-136-the-plane-crew-was-concerned-that-a-passenger-of-middle-eastern-descent.json)  [XML](/news/2007/07/12/a-false-alarm-causes-the-diversion-of-american-airlines-flight-136-the-plane-crew-was-concerned-that-a-passenger-of-middle-eastern-descent.xml)  
+
 ### [2007-07-12](/news/2007/07/12/index.md)
 
+##### false alarm
 #  A false alarm causes the diversion of American Airlines Flight 136. The plane crew was concerned that a passenger of Middle Eastern descent might have bypassed security controls. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6295398.stm)
 

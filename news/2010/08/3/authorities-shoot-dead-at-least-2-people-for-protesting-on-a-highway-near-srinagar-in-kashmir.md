@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/3/authorities-shoot-dead-at-least-2-people-for-protesting-on-a-highway-near-srinagar-in-kashmir.html)  [JSON](/news/2010/08/3/authorities-shoot-dead-at-least-2-people-for-protesting-on-a-highway-near-srinagar-in-kashmir.json)  [XML](/news/2010/08/3/authorities-shoot-dead-at-least-2-people-for-protesting-on-a-highway-near-srinagar-in-kashmir.xml)  
+
 ### [2010-08-3](/news/2010/08/3/index.md)
 
+##### Srinagar
 # Authorities shoot dead at least 2 people for protesting on a highway near Srinagar in Kashmir. 
 
 At least two killed as security forces fire on protesters defying curfew.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201083101614202860.html)
 1. [Cover Image](http://www.aljazeera.com)

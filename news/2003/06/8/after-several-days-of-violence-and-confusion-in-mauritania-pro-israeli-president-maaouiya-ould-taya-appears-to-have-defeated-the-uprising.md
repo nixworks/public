@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/8/after-several-days-of-violence-and-confusion-in-mauritania-pro-israeli-president-maaouiya-ould-taya-appears-to-have-defeated-the-uprising.html)  [JSON](/news/2003/06/8/after-several-days-of-violence-and-confusion-in-mauritania-pro-israeli-president-maaouiya-ould-taya-appears-to-have-defeated-the-uprising.json)  [XML](/news/2003/06/8/after-several-days-of-violence-and-confusion-in-mauritania-pro-israeli-president-maaouiya-ould-taya-appears-to-have-defeated-the-uprising.xml)  
+
 ### [2003-06-8](/news/2003/06/8/index.md)
 
+##### Mauritanian
 #  After several days of violence and confusion in Mauritania, Pro-Israeli President Maaouiya Ould Taya appears to have defeated the uprising against him.
 
 

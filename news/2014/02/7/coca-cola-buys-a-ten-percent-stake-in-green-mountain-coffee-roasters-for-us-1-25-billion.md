@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/7/coca-cola-buys-a-ten-percent-stake-in-green-mountain-coffee-roasters-for-us-1-25-billion.html)  [JSON](/news/2014/02/7/coca-cola-buys-a-ten-percent-stake-in-green-mountain-coffee-roasters-for-us-1-25-billion.json)  [XML](/news/2014/02/7/coca-cola-buys-a-ten-percent-stake-in-green-mountain-coffee-roasters-for-us-1-25-billion.xml)  
+
 ### [2014-02-7](/news/2014/02/7/index.md)
 
+##### Coca-Cola
 # Coca-Cola buys a ten percent stake in Green Mountain Coffee Roasters for US$1.25 billion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Mail](http://www.dailymail.co.uk/news/article-2553893/So-secret-recipe-Coca-cola-start-letting-people-make-soda-home.html)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/07/10/luxembourg-says-yes-to-the-eu-constitution-in-a-referendum-wikinews.html)  [JSON](/news/2005/07/10/luxembourg-says-yes-to-the-eu-constitution-in-a-referendum-wikinews.json)  [XML](/news/2005/07/10/luxembourg-says-yes-to-the-eu-constitution-in-a-referendum-wikinews.xml)  
+
 ### [2005-07-10](/news/2005/07/10/index.md)
 
+##### Luxembourg
 #  Luxembourg says "yes" to the EU Constitution in a referendum. (wikinews)
 
 

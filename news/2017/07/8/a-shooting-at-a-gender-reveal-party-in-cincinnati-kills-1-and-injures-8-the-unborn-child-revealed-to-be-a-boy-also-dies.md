@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/8/a-shooting-at-a-gender-reveal-party-in-cincinnat
 
 ### [2017-07-8](/news/2017/07/8/index.md)
 
+##### Crime in Cincinnati
 # A shooting at a gender reveal party in Cincinnati kills 1 and injures 8. The unborn child, revealed to be a boy, also dies. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/10/officials-in-haiti-state-that-at-least-230-000-people-died-in-the-2010-haiti-earthquake-but-that-number-may-yet-grow-approaching-the-2004.html)  [JSON](/news/2010/02/10/officials-in-haiti-state-that-at-least-230-000-people-died-in-the-2010-haiti-earthquake-but-that-number-may-yet-grow-approaching-the-2004.json)  [XML](/news/2010/02/10/officials-in-haiti-state-that-at-least-230-000-people-died-in-the-2010-haiti-earthquake-but-that-number-may-yet-grow-approaching-the-2004.xml)  
+
 ### [2010-02-10](/news/2010/02/10/index.md)
 
+##### Haiti
 # Officials in Haiti state that at least 230,000 people died in the 2010 Haiti earthquake, but that number may yet grow, approaching the 2004 Indian Ocean earthquake as the deadliest natural disaster of the 21st century thus far. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8507531.stm)
 

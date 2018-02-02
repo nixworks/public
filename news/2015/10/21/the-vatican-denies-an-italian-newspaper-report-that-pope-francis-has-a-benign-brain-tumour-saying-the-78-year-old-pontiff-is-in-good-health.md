@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/21/the-vatican-denies-an-italian-newspaper-report-that-pope-francis-has-a-benign-brain-tumour-saying-the-78-year-old-pontiff-is-in-good-health.html)  [JSON](/news/2015/10/21/the-vatican-denies-an-italian-newspaper-report-that-pope-francis-has-a-benign-brain-tumour-saying-the-78-year-old-pontiff-is-in-good-health.json)  [XML](/news/2015/10/21/the-vatican-denies-an-italian-newspaper-report-that-pope-francis-has-a-benign-brain-tumour-saying-the-78-year-old-pontiff-is-in-good-health.xml)  
+
 ### [2015-10-21](/news/2015/10/21/index.md)
 
+##### Holy See
 # The Vatican denies an Italian newspaper report that Pope Francis has a benign brain tumour, saying the 78-year-old pontiff is in good health, and denounces the article as utterly reprehensible. 
 
 The Vatican denied an Italian newspaper report on Wednesday that Pope Francis has a benign brain tumour, saying the 78-year-old pontiff was in good health and denouncing the article as &quot;inexcusable&quot;.
 
 
-### Source:
+### Sources:
 
 1. [AP via Philly.com](http://www.philly.com/philly/news/nation_world/20151021_ap_d5009b7f244a45caba8107267fd5b0db.html)
 2. [Reuters](http://in.reuters.com/article/2015/10/21/pope-tumor-denial-idINKCN0SF0I220151021)

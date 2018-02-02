@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/03/20/the-syrian-army-shoots-down-an-israel-defense-forces-idf-skylark-drone-over-syria-s-quneitra-governorate.html)  [JSON](/news/2017/03/20/the-syrian-army-shoots-down-an-israel-defense-forces-idf-skylark-drone-over-syria-s-quneitra-governorate.json)  [XML](/news/2017/03/20/the-syrian-army-shoots-down-an-israel-defense-forces-idf-skylark-drone-over-syria-s-quneitra-governorate.xml)  
+
 ### [2017-03-20](/news/2017/03/20/index.md)
 
+##### Israeli-Syrian ceasefire line incidents during the Syrian Civil War
 # The Syrian Army shoots down an Israel Defense Forces (IDF) Skylark drone over Syria's Quneitra Governorate. 
 
 Military says no immediate fear classified info could be retrieved from UAV downed Monday
 
 
-### Source:
+### Sources:
 
 1. [The Times of Israel](http://www.timesofisrael.com/idf-confirms-israeli-drone-shot-down-in-syria/)
 1. [Cover Image](http://cdn.timesofisrael.com/uploads/2013/07/skylark-e1383481325699.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/6/somalia-s-state-minister-for-defence-sheikh-yusuf-mohammad-siad-is-detained-by-security-forces-in-uganda-siad-s-detention-was-originally-r.html)  [JSON](/news/2009/10/6/somalia-s-state-minister-for-defence-sheikh-yusuf-mohammad-siad-is-detained-by-security-forces-in-uganda-siad-s-detention-was-originally-r.json)  [XML](/news/2009/10/6/somalia-s-state-minister-for-defence-sheikh-yusuf-mohammad-siad-is-detained-by-security-forces-in-uganda-siad-s-detention-was-originally-r.xml)  
+
 ### [2009-10-6](/news/2009/10/6/index.md)
 
+##### Somalia
 #  Somalia's State Minister for Defence Sheikh Yusuf Mohammad Siad is detained by security forces in Uganda. Siad's detention was originally reported as a kidnapping. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [France 24](http://www.france24.com/en/20091006-somalia-state-minister-defence-kidnapped-kampala-uganda-yusuf-siad-indaade)
 

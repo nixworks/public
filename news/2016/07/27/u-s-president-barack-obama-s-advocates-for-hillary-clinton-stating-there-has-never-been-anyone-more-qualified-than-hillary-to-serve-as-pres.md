@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/27/u-s-president-barack-obama-s-advocates-for-hill
 
 ### [2016-07-27](/news/2016/07/27/index.md)
 
+##### 2016 Democratic National Convention
 # U.S. President Barack Obama's advocates for Hillary Clinton stating there has never been anyone more qualified than Hillary to serve as president. 
 
 The speech also marks 12 years since Obama was introduced to the national stage.

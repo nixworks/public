@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/3/yahoo-reports-that-all-three-billion-of-its-acco
 
 ### [2017-10-3](/news/2017/10/3/index.md)
 
+##### Yahoo! data breaches
 # Yahoo! reports that all three billion of its accounts were hacked in the August 2013 data theft. 
 
 Yahoo on Tuesday said that all 3 billion of its accounts were hacked in a 2013 data theft, tripling its earlier estimate of the size of the largest breach in history, in a disclosure that attorneys said sharply increased the legal exposure of its new owner, Verizon Communications Inc .

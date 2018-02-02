@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/12/a-new-government-headed-by-the-bharatiya-janata-party-india-s-main-opposition-party-takes-office-in-the-state-of-karnataka.html)  [JSON](/news/2007/11/12/a-new-government-headed-by-the-bharatiya-janata-party-india-s-main-opposition-party-takes-office-in-the-state-of-karnataka.json)  [XML](/news/2007/11/12/a-new-government-headed-by-the-bharatiya-janata-party-india-s-main-opposition-party-takes-office-in-the-state-of-karnataka.xml)  
+
 ### [2007-11-12](/news/2007/11/12/index.md)
 
+##### government
 #  A new government headed by the Bharatiya Janata Party, India's main opposition party, takes office in the state of Karnataka. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7090884.stm)
 

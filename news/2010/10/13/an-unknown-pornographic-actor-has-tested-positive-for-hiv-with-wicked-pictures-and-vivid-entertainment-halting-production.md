@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/13/an-unknown-pornographic-actor-has-tested-positive-for-hiv-with-wicked-pictures-and-vivid-entertainment-halting-production.html)  [JSON](/news/2010/10/13/an-unknown-pornographic-actor-has-tested-positive-for-hiv-with-wicked-pictures-and-vivid-entertainment-halting-production.json)  [XML](/news/2010/10/13/an-unknown-pornographic-actor-has-tested-positive-for-hiv-with-wicked-pictures-and-vivid-entertainment-halting-production.xml)  
+
 ### [2010-10-13](/news/2010/10/13/index.md)
 
+##### pornographic actor
 # An unknown pornographic actor has tested positive for HIV, with Wicked Pictures and Vivid Entertainment halting production. 
 
 Get the latest health&nbsp;news, diet &amp; fitness information, medical research, health care trends and health issues that affect you and your family on ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Health/AIDS/wireStory?id=11864833)
 

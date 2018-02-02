@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/13/at-least-six-people-are-killed-in-further-clashes-three-in-menzel-bourguiba-one-in-bizerte-and-one-in-tataouine.html)  [JSON](/news/2011/01/13/at-least-six-people-are-killed-in-further-clashes-three-in-menzel-bourguiba-one-in-bizerte-and-one-in-tataouine.json)  [XML](/news/2011/01/13/at-least-six-people-are-killed-in-further-clashes-three-in-menzel-bourguiba-one-in-bizerte-and-one-in-tataouine.xml)  
+
 ### [2011-01-13](/news/2011/01/13/index.md)
 
+##### Menzel Bourguiba
 # At least six people are killed in further clashes: three in Menzel Bourguiba, one in Bizerte and one in Tataouine. 
 
 In bid to placate protesters, Zine El Abidine Ben Ali vows to broaden political freedoms and allow freedom of speech.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/2011113104024658794.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/2011113192110570350.html)

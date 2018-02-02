@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/12/la-la-land-wins-five-awards-i-daniel-blake-wins
 
 ### [2017-02-12](/news/2017/02/12/index.md)
 
+##### 70th British Academy Film Awards
 # "La La Land" wins five awards. "I, Daniel Blake" wins Best British Film. Emma Stone, Casey Affleck, Viola Davis and Dev Patel win in their respective acting categories. 
 
 La La Land scoops five Bafta film awards, with Lion star Dev Patel among the British winners.

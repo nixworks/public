@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/08/27/christine-lagarde-the-chief-of-the-international-monetary-fund-is-placed-under-investigation-in-france-for-alleged-negligence-dating-back.html)  [JSON](/news/2014/08/27/christine-lagarde-the-chief-of-the-international-monetary-fund-is-placed-under-investigation-in-france-for-alleged-negligence-dating-back.json)  [XML](/news/2014/08/27/christine-lagarde-the-chief-of-the-international-monetary-fund-is-placed-under-investigation-in-france-for-alleged-negligence-dating-back.xml)  
+
 ### [2014-08-27](/news/2014/08/27/index.md)
 
+##### Christine Lagarde
 # Christine Lagarde, the Chief of the International Monetary Fund, is placed under investigation in France for alleged negligence dating back to her time as Minister of Finance. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/business/imf-chief-lagarde-under-investigation-in-france/2014/08/27/e7c703f4-2dcc-11e4-be9e-60cc44c01e7f_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/business/imf-chief-lagarde-under-investigation-in-france/2014/08/27/e7c703f4-2dcc-11e4-be9e-60cc44c01e7f_story.html)
 
 ### Related:
 

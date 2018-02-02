@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/25/a-united-states-department-of-defense-report-warns-of-the-growing-power-of-the-chinese-military.html)  [JSON](/news/2007/05/25/a-united-states-department-of-defense-report-warns-of-the-growing-power-of-the-chinese-military.json)  [XML](/news/2007/05/25/a-united-states-department-of-defense-report-warns-of-the-growing-power-of-the-chinese-military.xml)  
+
 ### [2007-05-25](/news/2007/05/25/index.md)
 
+##### U.S. military
 #  A United States Department of Defense report warns of the growing power of the Chinese military. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/POLITICS/05/25/china.military/index.html?eref=rss_world)
 

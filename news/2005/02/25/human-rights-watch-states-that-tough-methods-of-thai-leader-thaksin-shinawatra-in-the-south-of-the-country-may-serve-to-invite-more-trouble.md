@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/25/human-rights-watch-states-that-tough-methods-of-thai-leader-thaksin-shinawatra-in-the-south-of-the-country-may-serve-to-invite-more-trouble.html)  [JSON](/news/2005/02/25/human-rights-watch-states-that-tough-methods-of-thai-leader-thaksin-shinawatra-in-the-south-of-the-country-may-serve-to-invite-more-trouble.json)  [XML](/news/2005/02/25/human-rights-watch-states-that-tough-methods-of-thai-leader-thaksin-shinawatra-in-the-south-of-the-country-may-serve-to-invite-more-trouble.xml)  
+
 ### [2005-02-25](/news/2005/02/25/index.md)
 
+##### Human Rights Watch
 #  Human Rights Watch states that tough methods of Thai leader Thaksin Shinawatra in the south of the country may serve to invite more trouble 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4294343.stm)
 2. [Bangkok Post](http://www.bangkokpost.com/News/25Feb2005_news03.php)

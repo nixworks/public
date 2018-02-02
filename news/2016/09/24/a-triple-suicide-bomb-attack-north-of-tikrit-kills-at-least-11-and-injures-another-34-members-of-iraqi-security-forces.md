@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/24/a-triple-suicide-bomb-attack-north-of-tikrit-ki
 
 ### [2016-09-24](/news/2016/09/24/index.md)
 
+##### Iraqi Civil War (2014-present)
 # A triple suicide bomb attack north of Tikrit kills at least 11 and injures another 34 members of Iraqi security forces. 
 
 

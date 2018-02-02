@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/13/bomb-and-mortar-attacks-kill-23-iraqis-and-wound-at-least-52-in-baghdad-and-kirkuk.html)  [JSON](/news/2006/12/13/bomb-and-mortar-attacks-kill-23-iraqis-and-wound-at-least-52-in-baghdad-and-kirkuk.json)  [XML](/news/2006/12/13/bomb-and-mortar-attacks-kill-23-iraqis-and-wound-at-least-52-in-baghdad-and-kirkuk.xml)  
+
 ### [2006-12-13](/news/2006/12/13/index.md)
 
+##### Iraq
 #  Bomb and mortar attacks kill 23 Iraqis and wound at least 52 in Baghdad and Kirkuk. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/WORLD/meast/12/13/iraq.main/index.html)
 

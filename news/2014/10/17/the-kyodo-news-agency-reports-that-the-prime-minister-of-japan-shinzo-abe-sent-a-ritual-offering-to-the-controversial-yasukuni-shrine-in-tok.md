@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/10/17/the-kyodo-news-agency-reports-that-the-prime-minister-of-japan-shinzo-abe-sent-a-ritual-offering-to-the-controversial-yasukuni-shrine-in-tok.html)  [JSON](/news/2014/10/17/the-kyodo-news-agency-reports-that-the-prime-minister-of-japan-shinzo-abe-sent-a-ritual-offering-to-the-controversial-yasukuni-shrine-in-tok.json)  [XML](/news/2014/10/17/the-kyodo-news-agency-reports-that-the-prime-minister-of-japan-shinzo-abe-sent-a-ritual-offering-to-the-controversial-yasukuni-shrine-in-tok.xml)  
+
 ### [2014-10-17](/news/2014/10/17/index.md)
 
+##### Kyodo
 # The Kyodo news agency reports that the Prime Minister of Japan Shinzo Abe sent a ritual offering to the controversial Yasukuni Shrine in Tokyo that could complicate relations with China and South Korea. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/10/16/us-abe-yasukuni-idUSKCN0I52VF20141016)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20141016&t=2&i=984052404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEA9F12X)
+1. [Reuters](https://www.reuters.com/article/2014/10/16/us-abe-yasukuni-idUSKCN0I52VF20141016)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20141016&t=2&i=984052404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEA9F12X)
 
 ### Related:
 

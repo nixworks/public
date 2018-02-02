@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/30/tropical-storm-arlene-the-first-tropical-storm-of-the-2011-atlantic-hurricane-season-makes-landfall-near-cabo-rojo-bringing-heavy-rain-to.html)  [JSON](/news/2011/06/30/tropical-storm-arlene-the-first-tropical-storm-of-the-2011-atlantic-hurricane-season-makes-landfall-near-cabo-rojo-bringing-heavy-rain-to.json)  [XML](/news/2011/06/30/tropical-storm-arlene-the-first-tropical-storm-of-the-2011-atlantic-hurricane-season-makes-landfall-near-cabo-rojo-bringing-heavy-rain-to.xml)  
+
 ### [2011-06-30](/news/2011/06/30/index.md)
 
+##### Tropical Storm Arlene
 # Tropical Storm Arlene, the first tropical storm of the 2011 Atlantic hurricane season, makes landfall near Cabo Rojo bringing heavy rain to Mexico and southern Texas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Houston Chronicle](http://www.chron.com/news/specials/hurricane/)
 2. [National Hurricane Centre](http://www.nhc.noaa.gov/#ARLENE)

@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2012/05/29/2012-south-sudanasudan-border-conflict-sudan-and-south-sudan-restart-talks-to-avoid-war-amid-accusations-of-bombing-raids.html)  [JSON](/news/2012/05/29/2012-south-sudanasudan-border-conflict-sudan-and-south-sudan-restart-talks-to-avoid-war-amid-accusations-of-bombing-raids.json)  [XML](/news/2012/05/29/2012-south-sudanasudan-border-conflict-sudan-and-south-sudan-restart-talks-to-avoid-war-amid-accusations-of-bombing-raids.xml)  
+
 ### [2012-05-29](/news/2012/05/29/index.md)
 
+##### 2012 South Sudan-Sudan border conflict
 # 2012 South Sudan-Sudan border conflict: Sudan and South Sudan restart talks to avoid war amid accusations of bombing raids. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/energyOilNews/idAFL5E8GTFZX20120529?sp=true)
+
+### Changes:
+
+1. [2012 South Sudan-Sudan border conflict: Sudan and South Sudan restart talks to avoid war amid accusations of bombing raids. ](/news/2012/05/29/2012-south-sudan-sudan-border-conflict-sudan-and-south-sudan-restart-talks-to-avoid-war-amid-accusations-of-bombing-raids.md) _2017-08-27 03:35:57 (First version)_
+1. [2012 South Sudan-Sudan border conflict: Sudan and South Sudan restart talks to avoid war amid accusations of bombing raids. ](/news/2012/05/29/2012-south-sudanasudan-border-conflict-sudan-and-south-sudan-restart-talks-to-avoid-war-amid-accusations-of-bombing-raids.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [2012 South Sudan-Sudan border conflict: South Sudan's troops pull out of Sudan's oil-producing Heglig area, easing tensions after two days of clashes between the neighbours threatened to escalate a simmering conflict. ](/news/2012/03/28/2012-south-sudanasudan-border-conflict-south-sudan-s-troops-pull-out-of-sudan-s-oil-producing-heglig-area-easing-tensions-after-two-days.md) _Context: 2012 South Sudan-Sudan border conflict, South Sudan, Sudan_
 4. [The President of Sudan Omar Hassan al-Bashir cancels planned meetings with the government of South Sudan following border clashes yesterday. ](/news/2012/03/27/the-president-of-sudan-omar-hassan-al-bashir-cancels-planned-meetings-with-the-government-of-south-sudan-following-border-clashes-yesterday.md) _Context: 2012 South Sudan-Sudan border conflict, South Sudan, Sudan_
 5. [The government of Sudan denies allegations from South Sudan that it is supporting rebels threatening oil fields in its southern neighbour. ](/news/2015/05/25/the-government-of-sudan-denies-allegations-from-south-sudan-that-it-is-supporting-rebels-threatening-oil-fields-in-its-southern-neighbour.md) _Context: South Sudan, Sudan_
-
-### Changes:
-
-1. [2012 South Sudan-Sudan border conflict: Sudan and South Sudan restart talks to avoid war amid accusations of bombing raids. ](/news/2012/05/29/2012-south-sudan-sudan-border-conflict-sudan-and-south-sudan-restart-talks-to-avoid-war-amid-accusations-of-bombing-raids.md) _2017-08-27 03:35:57 (First version)_
-1. [2012 South Sudan-Sudan border conflict: Sudan and South Sudan restart talks to avoid war amid accusations of bombing raids. ](/news/2012/05/29/2012-south-sudanasudan-border-conflict-sudan-and-south-sudan-restart-talks-to-avoid-war-amid-accusations-of-bombing-raids.md) _(Current version)_

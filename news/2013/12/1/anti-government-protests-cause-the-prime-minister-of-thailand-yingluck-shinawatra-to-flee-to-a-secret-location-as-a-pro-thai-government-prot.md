@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2013/12/1/anti-government-protests-cause-the-prime-minister-of-thailand-yingluck-shinawatra-to-flee-to-a-secret-location-as-a-pro-thai-government-prot.html)  [JSON](/news/2013/12/1/anti-government-protests-cause-the-prime-minister-of-thailand-yingluck-shinawatra-to-flee-to-a-secret-location-as-a-pro-thai-government-prot.json)  [XML](/news/2013/12/1/anti-government-protests-cause-the-prime-minister-of-thailand-yingluck-shinawatra-to-flee-to-a-secret-location-as-a-pro-thai-government-prot.xml)  
+
 ### [2013-12-1](/news/2013/12/1/index.md)
 
+##### Prime Minister
 # Anti-government protests cause the Prime Minister of Thailand Yingluck Shinawatra to flee to a secret location as a pro-Thai government protester is killed. 
 
 Fighting between supporters and opponents of prime minister Yingluck Shinawatra turns deadly in Bangkok
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2013/dec/01/thailand-protest-yingluck-shinawatra-violence)
+1. [The Guardian](https://www.theguardian.com/world/2013/dec/01/thailand-protest-yingluck-shinawatra-violence)
 1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/12/1/1385858688320/Bangkok-protests-008.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0271b4d1358dcce3ebe342e5e541a421)
+
+### Changes:
+
+1. [2013 Thai protests:Anti-government protests cause the Prime Minister of Thailand Yingluck Shinawatra to flee to a secret location as a pro-Thai government protester is killed. ](/news/2013/12/1/2013-thai-protests-panti-government-protests-cause-the-prime-minister-of-thailand-yingluck-shinawatra-to-flee-to-a-secret-location-as-a-pro.md) _2017-08-25 03:39:36 (First version)_
+2. [2013 Thai protests:: Anti-government protests cause the Prime Minister of Thailand Yingluck Shinawatra to flee to a secret location as a pro-Thai government protester is killed. ](/news/2013/12/1/2013-thai-protests-anti-government-protests-cause-the-prime-minister-of-thailand-yingluck-shinawatra-to-flee-to-a-secret-location-as-a-pro.md) _2017-08-27 03:39:55 (Update)_
+2. [Anti-government protests cause the Prime Minister of Thailand Yingluck Shinawatra to flee to a secret location as a pro-Thai government protester is killed. ](/news/2013/12/1/anti-government-protests-cause-the-prime-minister-of-thailand-yingluck-shinawatra-to-flee-to-a-secret-location-as-a-pro-thai-government-prot.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@ Fighting between supporters and opponents of prime minister Yingluck Shinawatra 
 3. [Former Prime Minister of Thailand Yingluck Shinawatra appears in court to face corruption charges. ](/news/2016/01/15/former-prime-minister-of-thailand-yingluck-shinawatra-appears-in-court-to-face-corruption-charges.md) _Context: Prime Minister, Yingluck Shinawatra_
 4. [Former Prime Minister of Thailand Yingluck Shinawatra will be indicted over a controversial rice subsidy scheme. ](/news/2015/02/19/former-prime-minister-of-thailand-yingluck-shinawatra-will-be-indicted-over-a-controversial-rice-subsidy-scheme.md) _Context: Prime Minister, Yingluck Shinawatra_
 5. [Former Prime Minister of Thailand Yingluck Shinawatra appears to face impeachment charges over a failed rice subsidy scheme. ](/news/2015/01/9/former-prime-minister-of-thailand-yingluck-shinawatra-appears-to-face-impeachment-charges-over-a-failed-rice-subsidy-scheme.md) _Context: Prime Minister, Yingluck Shinawatra_
-
-### Changes:
-
-1. [2013 Thai protests:Anti-government protests cause the Prime Minister of Thailand Yingluck Shinawatra to flee to a secret location as a pro-Thai government protester is killed. ](/news/2013/12/1/2013-thai-protests-panti-government-protests-cause-the-prime-minister-of-thailand-yingluck-shinawatra-to-flee-to-a-secret-location-as-a-pro.md) _2017-08-25 03:39:36 (First version)_
-2. [2013 Thai protests:: Anti-government protests cause the Prime Minister of Thailand Yingluck Shinawatra to flee to a secret location as a pro-Thai government protester is killed. ](/news/2013/12/1/2013-thai-protests-anti-government-protests-cause-the-prime-minister-of-thailand-yingluck-shinawatra-to-flee-to-a-secret-location-as-a-pro.md) _2017-08-27 03:39:55 (Update)_
-2. [Anti-government protests cause the Prime Minister of Thailand Yingluck Shinawatra to flee to a secret location as a pro-Thai government protester is killed. ](/news/2013/12/1/anti-government-protests-cause-the-prime-minister-of-thailand-yingluck-shinawatra-to-flee-to-a-secret-location-as-a-pro-thai-government-prot.md) _(Current version)_

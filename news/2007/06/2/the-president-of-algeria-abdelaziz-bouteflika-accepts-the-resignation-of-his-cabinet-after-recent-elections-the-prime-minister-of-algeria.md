@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/2/the-president-of-algeria-abdelaziz-bouteflika-accepts-the-resignation-of-his-cabinet-after-recent-elections-the-prime-minister-of-algeria.html)  [JSON](/news/2007/06/2/the-president-of-algeria-abdelaziz-bouteflika-accepts-the-resignation-of-his-cabinet-after-recent-elections-the-prime-minister-of-algeria.json)  [XML](/news/2007/06/2/the-president-of-algeria-abdelaziz-bouteflika-accepts-the-resignation-of-his-cabinet-after-recent-elections-the-prime-minister-of-algeria.xml)  
+
 ### [2007-06-2](/news/2007/06/2/index.md)
 
+##### President
 #  The President of Algeria Abdelaziz Bouteflika accepts the resignation of his Cabinet after recent elections. The Prime Minister of Algeria Abdelaziz Belkhadem is expected to retain his position when a new Cabinet is chosen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6714363.stm)
 

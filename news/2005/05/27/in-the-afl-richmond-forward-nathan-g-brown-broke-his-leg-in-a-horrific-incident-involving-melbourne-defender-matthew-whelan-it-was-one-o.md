@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/05/27/in-the-afl-richmond-forward-nathan-g-brown-broke-his-leg-in-a-horrific-incident-involving-melbourne-defender-matthew-whelan-it-was-one-o.html)  [JSON](/news/2005/05/27/in-the-afl-richmond-forward-nathan-g-brown-broke-his-leg-in-a-horrific-incident-involving-melbourne-defender-matthew-whelan-it-was-one-o.json)  [XML](/news/2005/05/27/in-the-afl-richmond-forward-nathan-g-brown-broke-his-leg-in-a-horrific-incident-involving-melbourne-defender-matthew-whelan-it-was-one-o.xml)  
+
 ### [2005-05-27](/news/2005/05/27/index.md)
 
+##### Australian Football League
 #  In the AFL, Richmond forward Nathan G. Brown broke his leg in a horrific incident involving Melbourne defender Matthew Whelan. It was one of the most shocking injuries suffered by an AFL player ever.
 
 

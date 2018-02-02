@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/6/australian-telecommunication-company-telstra-s-share-price-tumbles-to-a-two-year-low-of-4-32au-as-prime-minister-john-howard-condemns-thei.html)  [JSON](/news/2005/09/6/australian-telecommunication-company-telstra-s-share-price-tumbles-to-a-two-year-low-of-4-32au-as-prime-minister-john-howard-condemns-thei.json)  [XML](/news/2005/09/6/australian-telecommunication-company-telstra-s-share-price-tumbles-to-a-two-year-low-of-4-32au-as-prime-minister-john-howard-condemns-thei.xml)  
+
 ### [2005-09-6](/news/2005/09/6/index.md)
 
+##### Australia
 #  Australian telecommunication company Telstra's share price tumbles to a two year low of $4.32AU as Prime Minister John Howard condemns their new management team as disgraceful and the Australian Securities and Investment Commission launches a criminal probe of Telstra's leaked and negative statements. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,16518806%255E601,00.html)
 2. [The Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,16552277%255E601,00.html)

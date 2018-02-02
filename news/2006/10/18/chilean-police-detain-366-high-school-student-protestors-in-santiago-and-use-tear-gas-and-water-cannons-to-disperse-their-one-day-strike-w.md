@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/18/chilean-police-detain-366-high-school-student-protestors-in-santiago-and-use-tear-gas-and-water-cannons-to-disperse-their-one-day-strike-w.html)  [JSON](/news/2006/10/18/chilean-police-detain-366-high-school-student-protestors-in-santiago-and-use-tear-gas-and-water-cannons-to-disperse-their-one-day-strike-w.json)  [XML](/news/2006/10/18/chilean-police-detain-366-high-school-student-protestors-in-santiago-and-use-tear-gas-and-water-cannons-to-disperse-their-one-day-strike-w.xml)  
+
 ### [2006-10-18](/news/2006/10/18/index.md)
 
+##### Chile
 #  Chilean police detain 366 high school student protestors in Santiago, and use tear gas and water cannons to disperse their one day strike which called on the government to reform the education law, originally enacted under Augusto Pinochet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Presse-Agentur](http://news.monstersandcritics.com/southamerica/article_1212504.php/Chilean_police_detain_366_demonstrating_students)
 

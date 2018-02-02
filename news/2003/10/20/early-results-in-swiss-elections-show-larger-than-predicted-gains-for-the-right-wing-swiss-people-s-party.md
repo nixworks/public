@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/20/early-results-in-swiss-elections-show-larger-than-predicted-gains-for-the-right-wing-swiss-people-s-party.html)  [JSON](/news/2003/10/20/early-results-in-swiss-elections-show-larger-than-predicted-gains-for-the-right-wing-swiss-people-s-party.json)  [XML](/news/2003/10/20/early-results-in-swiss-elections-show-larger-than-predicted-gains-for-the-right-wing-swiss-people-s-party.xml)  
+
 ### [2003-10-20](/news/2003/10/20/index.md)
 
+##### Swiss elections
 #  Early results in Swiss elections show larger-than-predicted gains for the right-wing Swiss People's Party.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/10/in-the-first-move-of-a-possible-major-realignment-of-u-s-college-sports-the-pacific-10-conference-announces-that-the-university-of-colorad.html)  [JSON](/news/2010/06/10/in-the-first-move-of-a-possible-major-realignment-of-u-s-college-sports-the-pacific-10-conference-announces-that-the-university-of-colorad.json)  [XML](/news/2010/06/10/in-the-first-move-of-a-possible-major-realignment-of-u-s-college-sports-the-pacific-10-conference-announces-that-the-university-of-colorad.xml)  
+
 ### [2010-06-10](/news/2010/06/10/index.md)
 
+##### possible major realignment
 # In the first move of a possible major realignment of U.S. college sports, the Pacific-10 Conference announces that the University of Colorado, a current member of the Big 12 Conference, has accepted the Pac-10's invitation to join that conference. 
 
 Colorado is leaving the Big 12 to join the Pac-10.
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://sports.espn.go.com/ncaa/news/story?id=5271438)
 1. [Cover Image](http://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fncaa%2F500%2F142.png)

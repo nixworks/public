@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/1/former-prime-minister-of-pakistan-benazir-bhutto-promises-to-return-to-pakistan-very-soon.html)  [JSON](/news/2007/09/1/former-prime-minister-of-pakistan-benazir-bhutto-promises-to-return-to-pakistan-very-soon.json)  [XML](/news/2007/09/1/former-prime-minister-of-pakistan-benazir-bhutto-promises-to-return-to-pakistan-very-soon.xml)  
+
 ### [2007-09-1](/news/2007/09/1/index.md)
 
+##### Prime Minister
 #  Former Prime Minister of Pakistan Benazir Bhutto promises to return to Pakistan very soon. 
 
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 
-### Source:
+### Sources:
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/09/01/wpak201.xml)
 

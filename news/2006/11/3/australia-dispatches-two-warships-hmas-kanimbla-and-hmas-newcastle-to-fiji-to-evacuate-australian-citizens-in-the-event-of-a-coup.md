@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/3/australia-dispatches-two-warships-hmas-kanimbla-and-hmas-newcastle-to-fiji-to-evacuate-australian-citizens-in-the-event-of-a-coup.html)  [JSON](/news/2006/11/3/australia-dispatches-two-warships-hmas-kanimbla-and-hmas-newcastle-to-fiji-to-evacuate-australian-citizens-in-the-event-of-a-coup.json)  [XML](/news/2006/11/3/australia-dispatches-two-warships-hmas-kanimbla-and-hmas-newcastle-to-fiji-to-evacuate-australian-citizens-in-the-event-of-a-coup.xml)  
+
 ### [2006-11-3](/news/2006/11/3/index.md)
 
+##### Australia
 #  Australia dispatches two warships, HMAS "Kanimbla" and HMAS "Newcastle", to Fiji to evacuate Australian citizens in the event of a coup. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Melbourne Age](http://www.theage.com.au/news/world/warships-not-gunboat-diplomacy/2006/11/03/1162340026347.html)
 

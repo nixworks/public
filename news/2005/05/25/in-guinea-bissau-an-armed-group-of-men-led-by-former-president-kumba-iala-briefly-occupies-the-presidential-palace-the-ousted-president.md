@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/25/in-guinea-bissau-an-armed-group-of-men-led-by-former-president-kumba-iala-briefly-occupies-the-presidential-palace-the-ousted-president.html)  [JSON](/news/2005/05/25/in-guinea-bissau-an-armed-group-of-men-led-by-former-president-kumba-iala-briefly-occupies-the-presidential-palace-the-ousted-president.json)  [XML](/news/2005/05/25/in-guinea-bissau-an-armed-group-of-men-led-by-former-president-kumba-iala-briefly-occupies-the-presidential-palace-the-ousted-president.xml)  
+
 ### [2005-05-25](/news/2005/05/25/index.md)
 
+##### Guinea-Bissau
 #  In Guinea-Bissau, an armed group of men led by former President Kumba Iala briefly occupies the presidential palace. The ousted president claims that he is still in charge. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4578305.stm)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/09/8/jeff-smisek-resigns-as-ceo-of-united-airlines-due-to-allegations-that-he-tried-to-improperly-influence-officials-at-the-port-authority-of-ne.html)  [JSON](/news/2015/09/8/jeff-smisek-resigns-as-ceo-of-united-airlines-due-to-allegations-that-he-tried-to-improperly-influence-officials-at-the-port-authority-of-ne.json)  [XML](/news/2015/09/8/jeff-smisek-resigns-as-ceo-of-united-airlines-due-to-allegations-that-he-tried-to-improperly-influence-officials-at-the-port-authority-of-ne.xml)  
+
 ### [2015-09-8](/news/2015/09/8/index.md)
 
+##### Jeff Smisek
 # Jeff Smisek resigns as CEO of United Airlines due to allegations that he tried to improperly influence officials at the Port Authority of New York and New Jersey. 
 
 United Continental CEO Jeff Smisek and two top lieutenants stepped down as the result of a federal investigation into the airline’s relationship with the former chairman of the Port Authority of New York and New Jersey.
 
 
-### Source:
+### Sources:
 
-1. [Wall Street Journal](http://www.wsj.com/articles/united-continental-ceo-jeff-smisek-departs-1441746428?mod=djemalertNEWS)
+1. [Wall Street Journal](https://www.wsj.com/articles/united-continental-ceo-jeff-smisek-departs-1441746428?mod=djemalertNEWS)
 1. [Cover Image](https://si.wsj.net/public/resources/images/BN-KF084_SMISEK_G_20150908174709.jpg)
 
 ### Related:

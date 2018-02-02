@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/15/police-in-bahrain-detain-prominent-blogger-zainab-alkhawaja-during-a-protest-near-the-capital-manama.html)  [JSON](/news/2011/12/15/police-in-bahrain-detain-prominent-blogger-zainab-alkhawaja-during-a-protest-near-the-capital-manama.json)  [XML](/news/2011/12/15/police-in-bahrain-detain-prominent-blogger-zainab-alkhawaja-during-a-protest-near-the-capital-manama.xml)  
+
 ### [2011-12-15](/news/2011/12/15/index.md)
 
+##### Bahrain
 # Police in Bahrain detain prominent blogger Zainab Alkhawaja during a protest near the capital Manama. 
 
 Police in Bahrain detain prominent blogger and rights activist Zainab al-Khawaja during a protest near the capital Manama, reports say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16210922)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/57363000/jpg/_57363310_57363309.jpg)

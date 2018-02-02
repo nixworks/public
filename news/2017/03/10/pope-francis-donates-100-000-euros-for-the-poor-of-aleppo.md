@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/10/pope-francis-donates-100-000-euros-for-the-poor
 
 ### [2017-03-10](/news/2017/03/10/index.md)
 
+##### Pope Francis
 # Pope Francis donates 100,000 euros for the poor of Aleppo. 
 
  Pope Francis has sent 100,000 euros ($106,090) to the poor in the ravaged Syrian city of Aleppo, a Vatican spokeswoman said in a statement on Friday.

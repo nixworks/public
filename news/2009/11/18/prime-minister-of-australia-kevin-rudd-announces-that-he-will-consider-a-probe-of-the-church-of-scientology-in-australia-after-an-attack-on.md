@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/18/prime-minister-of-australia-kevin-rudd-announces-that-he-will-consider-a-probe-of-the-church-of-scientology-in-australia-after-an-attack-on.html)  [JSON](/news/2009/11/18/prime-minister-of-australia-kevin-rudd-announces-that-he-will-consider-a-probe-of-the-church-of-scientology-in-australia-after-an-attack-on.json)  [XML](/news/2009/11/18/prime-minister-of-australia-kevin-rudd-announces-that-he-will-consider-a-probe-of-the-church-of-scientology-in-australia-after-an-attack-on.xml)  
+
 ### [2009-11-18](/news/2009/11/18/index.md)
 
+##### Australian Prime Minister
 #  Prime Minister of Australia Kevin Rudd announces that he will consider a probe of the Church of Scientology in Australia after an attack on the organization by independent parliamentarian Nick Xenophon. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8365606.stm)
 

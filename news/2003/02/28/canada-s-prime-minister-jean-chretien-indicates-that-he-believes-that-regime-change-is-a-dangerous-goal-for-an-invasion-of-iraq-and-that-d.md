@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/28/canada-s-prime-minister-jean-chretien-indicates-that-he-believes-that-regime-change-is-a-dangerous-goal-for-an-invasion-of-iraq-and-that-d.html)  [JSON](/news/2003/02/28/canada-s-prime-minister-jean-chretien-indicates-that-he-believes-that-regime-change-is-a-dangerous-goal-for-an-invasion-of-iraq-and-that-d.json)  [XML](/news/2003/02/28/canada-s-prime-minister-jean-chretien-indicates-that-he-believes-that-regime-change-is-a-dangerous-goal-for-an-invasion-of-iraq-and-that-d.xml)  
+
 ### [2003-02-28](/news/2003/02/28/index.md)
 
+##### Jean Chrtien
 #  Canada's prime minister Jean Chrtien indicates that he believes that regime change is a dangerous goal for an invasion of Iraq, and that disarmament only should be the goal of international pressure.
 
 

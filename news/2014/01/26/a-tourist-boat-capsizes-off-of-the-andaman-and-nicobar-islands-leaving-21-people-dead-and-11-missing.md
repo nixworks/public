@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/26/a-tourist-boat-capsizes-off-of-the-andaman-and-nicobar-islands-leaving-21-people-dead-and-11-missing.html)  [JSON](/news/2014/01/26/a-tourist-boat-capsizes-off-of-the-andaman-and-nicobar-islands-leaving-21-people-dead-and-11-missing.json)  [XML](/news/2014/01/26/a-tourist-boat-capsizes-off-of-the-andaman-and-nicobar-islands-leaving-21-people-dead-and-11-missing.xml)  
+
 ### [2014-01-26](/news/2014/01/26/index.md)
 
+##### Andaman and Nicobar Islands
 # A tourist boat capsizes off of the Andaman and Nicobar Islands, leaving 21 people dead and 11 missing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-25904592)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72537000/jpg/_72537809_72537637.jpg)

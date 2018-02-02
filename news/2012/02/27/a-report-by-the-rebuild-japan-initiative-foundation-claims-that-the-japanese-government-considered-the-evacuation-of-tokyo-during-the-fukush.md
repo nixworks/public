@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/02/27/a-report-by-the-rebuild-japan-initiative-foundation-claims-that-the-japanese-government-considered-the-evacuation-of-tokyo-during-the-fukush.html)  [JSON](/news/2012/02/27/a-report-by-the-rebuild-japan-initiative-foundation-claims-that-the-japanese-government-considered-the-evacuation-of-tokyo-during-the-fukush.json)  [XML](/news/2012/02/27/a-report-by-the-rebuild-japan-initiative-foundation-claims-that-the-japanese-government-considered-the-evacuation-of-tokyo-during-the-fukush.xml)  
+
 ### [2012-02-27](/news/2012/02/27/index.md)
 
+##### Japanese government
 # A report by the Rebuild Japan Initiative Foundation claims that the Japanese government considered the evacuation of Tokyo during the Fukushima Daiichi nuclear disaster. 
 
 In the darkest moments of last year’s nuclear accident, leaders secretly considered the possibility of evacuating the Japanese capital.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2012/02/28/world/asia/japan-considered-tokyo-evacuation-during-the-nuclear-crisis-report-says.html?_r=1)
+1. [New York Times](https://www.nytimes.com/2012/02/28/world/asia/japan-considered-tokyo-evacuation-during-the-nuclear-crisis-report-says.html?_r=1)
 1. [Cover Image](https://static01.nyt.com/images/2012/02/28/world/asia/28japan-1/28japan-1-thumbStandard.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/19/egyptian-election-officials-fail-to-confirm-the-date-of-the-first-presidential-election-since-hosni-mubarak-was-ousted-from-power-in-last-ye.html)  [JSON](/news/2012/02/19/egyptian-election-officials-fail-to-confirm-the-date-of-the-first-presidential-election-since-hosni-mubarak-was-ousted-from-power-in-last-ye.json)  [XML](/news/2012/02/19/egyptian-election-officials-fail-to-confirm-the-date-of-the-first-presidential-election-since-hosni-mubarak-was-ousted-from-power-in-last-ye.xml)  
+
 ### [2012-02-19](/news/2012/02/19/index.md)
 
+##### Hosni Mubarak
 # Egyptian election officials fail to confirm the date of the first presidential election since Hosni Mubarak was ousted from power in last year's revolution. 
 
 Egypt election officials fail to confirm the date of the first presidential election since the overthrow of Hosni Mubarak a year ago.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17089433)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/58585000/jpg/_58585502_013930716-1.jpg)

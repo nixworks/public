@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/5/amid-frustrations-with-the-ongoing-economic-cris
 
 ### [2016-06-5](/news/2016/06/5/index.md)
 
+##### Puerto Rico Democratic primary, 2016
 # Amid frustrations with the ongoing economic crisis, Puerto Rican Democrats vote in the Commonwealth's primary with front-runner Hillary Clinton forecast to win following yesterday's sweep in the Virgin Islands' caucus, moving even closer to locking up her party's presidential nomination. There are 60 pledged delegates at stake. 
 
 SAN JUAN, Puerto Rico (AP) — Hillary Clinton overwhelmed Bernie Sanders in Puerto Rico&#039;s Democratic presidential primary on Sunday, putting her within striking distance of capturing her party&#039;s nomination. After a blowout…

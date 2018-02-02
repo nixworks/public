@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/12/21/continental-airlines-flight-1404-skids-off-the-runway-at-denver-international-airport-injuring-38-of-the-110-passengers-on-board.html)  [JSON](/news/2008/12/21/continental-airlines-flight-1404-skids-off-the-runway-at-denver-international-airport-injuring-38-of-the-110-passengers-on-board.json)  [XML](/news/2008/12/21/continental-airlines-flight-1404-skids-off-the-runway-at-denver-international-airport-injuring-38-of-the-110-passengers-on-board.xml)  
+
 ### [2008-12-21](/news/2008/12/21/index.md)
 
+##### Continental Airlines
 #  Continental Airlines Flight 1404 skids off the runway at Denver International Airport, injuring 38 of the 110 passengers on board. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=abqbJSN.BW7E&refer=home)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=abqbJSN.BW7E&refer=home)
 
 ### Related:
 

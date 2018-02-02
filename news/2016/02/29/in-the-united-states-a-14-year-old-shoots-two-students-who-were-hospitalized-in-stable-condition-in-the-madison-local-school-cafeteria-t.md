@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/29/in-the-united-states-a-14-year-old-shoots-two-s
 
 ### [2016-02-29](/news/2016/02/29/index.md)
 
+##### Madison Local School
 # In the United States, a 14-year-old shoots two students, who were hospitalized in stable condition, in the Madison Local School cafeteria. Two other teenagers are injured, none seriously. The southwestern Ohio school, which had practiced for such an event, immediately went into lockdown; Tuesday classes are cancelled. 
 
 Four teenage students were injured after a 14-year-old classmate pulled a gun and opened fire in the lunchroom, authorities said.

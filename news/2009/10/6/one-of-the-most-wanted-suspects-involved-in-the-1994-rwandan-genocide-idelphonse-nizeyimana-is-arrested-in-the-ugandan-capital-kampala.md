@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/6/one-of-the-most-wanted-suspects-involved-in-the-1994-rwandan-genocide-idelphonse-nizeyimana-is-arrested-in-the-ugandan-capital-kampala.html)  [JSON](/news/2009/10/6/one-of-the-most-wanted-suspects-involved-in-the-1994-rwandan-genocide-idelphonse-nizeyimana-is-arrested-in-the-ugandan-capital-kampala.json)  [XML](/news/2009/10/6/one-of-the-most-wanted-suspects-involved-in-the-1994-rwandan-genocide-idelphonse-nizeyimana-is-arrested-in-the-ugandan-capital-kampala.xml)  
+
 ### [2009-10-6](/news/2009/10/6/index.md)
 
+##### Rwandan Genocide
 #  One of the most wanted suspects involved in the 1994 Rwandan Genocide, Idelphonse Nizeyimana, is arrested in the Ugandan capital Kampala. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/8292252.stm)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=107977&sectionid=351020506)

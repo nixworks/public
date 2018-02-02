@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/6/palestinian-authority-prime-minister-mahmoud-abbas-submits-his-resignation-to-the-president-of-the-palestinian-authority-yasser-arafat-a.html)  [JSON](/news/2003/09/6/palestinian-authority-prime-minister-mahmoud-abbas-submits-his-resignation-to-the-president-of-the-palestinian-authority-yasser-arafat-a.json)  [XML](/news/2003/09/6/palestinian-authority-prime-minister-mahmoud-abbas-submits-his-resignation-to-the-president-of-the-palestinian-authority-yasser-arafat-a.xml)  
+
 ### [2003-09-6](/news/2003/09/6/index.md)
 
+##### Palestinian Authority
 #  Palestinian Authority: Prime Minister Mahmoud Abbas submits his resignation to the President of the Palestinian Authority, Yasser Arafat. According to Palestinian sources, he will play a "caretaker" role of the position until a new prime minister is sworn in.
 
 

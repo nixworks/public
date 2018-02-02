@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/01/11/an-israeli-missile-attack-kills-a-palestinian-militant-while-he-was-riding-a-motorcycle-in-the-gaza-strip.html)  [JSON](/news/2011/01/11/an-israeli-missile-attack-kills-a-palestinian-militant-while-he-was-riding-a-motorcycle-in-the-gaza-strip.json)  [XML](/news/2011/01/11/an-israeli-missile-attack-kills-a-palestinian-militant-while-he-was-riding-a-motorcycle-in-the-gaza-strip.xml)  
+
 ### [2011-01-11](/news/2011/01/11/index.md)
 
+##### Israeli missile attack
 # An Israeli missile attack kills a Palestinian militant while he was riding a motorcycle in the Gaza Strip.
 
 A missile fired by an Israeli aircraft killed a Palestinian militant riding a motorcycle in the Gaza Strip close to the border with Israel Tuesday, the Israeli army and the Islamic Jihad militant group said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE70A7G820110111)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110111&t=2&i=302925055&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-11T234834Z_01_BTRE70A1U5100_RTROPTP_0_PALESTINIANS-ISRAEL-GAZA)
+1. [Reuters](https://www.reuters.com/article/idUSTRE70A7G820110111)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20110111&t=2&i=302925055&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-11T234834Z_01_BTRE70A1U5100_RTROPTP_0_PALESTINIANS-ISRAEL-GAZA)
 
 ### Related:
 

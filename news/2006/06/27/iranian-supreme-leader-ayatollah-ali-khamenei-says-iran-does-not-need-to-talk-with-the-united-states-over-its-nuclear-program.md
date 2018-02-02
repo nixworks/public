@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/27/iranian-supreme-leader-ayatollah-ali-khamenei-says-iran-does-not-need-to-talk-with-the-united-states-over-its-nuclear-program.html)  [JSON](/news/2006/06/27/iranian-supreme-leader-ayatollah-ali-khamenei-says-iran-does-not-need-to-talk-with-the-united-states-over-its-nuclear-program.json)  [XML](/news/2006/06/27/iranian-supreme-leader-ayatollah-ali-khamenei-says-iran-does-not-need-to-talk-with-the-united-states-over-its-nuclear-program.xml)  
+
 ### [2006-06-27](/news/2006/06/27/index.md)
 
+##### Iran
 #  Iranian Supreme Leader Ayatollah Ali Khamenei says Iran does "not need" to talk with the United States over its nuclear program. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/stories/2006/06/27/world/main1754300.shtml)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2006/06/04/d3db969b-a642-11e2-a3f0-029118418759/image1680192x.jpg)

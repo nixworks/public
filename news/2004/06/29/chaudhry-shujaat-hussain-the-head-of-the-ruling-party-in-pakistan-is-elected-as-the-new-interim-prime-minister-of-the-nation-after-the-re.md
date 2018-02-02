@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/29/chaudhry-shujaat-hussain-the-head-of-the-ruling-party-in-pakistan-is-elected-as-the-new-interim-prime-minister-of-the-nation-after-the-re.html)  [JSON](/news/2004/06/29/chaudhry-shujaat-hussain-the-head-of-the-ruling-party-in-pakistan-is-elected-as-the-new-interim-prime-minister-of-the-nation-after-the-re.json)  [XML](/news/2004/06/29/chaudhry-shujaat-hussain-the-head-of-the-ruling-party-in-pakistan-is-elected-as-the-new-interim-prime-minister-of-the-nation-after-the-re.xml)  
+
 ### [2004-06-29](/news/2004/06/29/index.md)
 
+##### Chaudhry Shujaat Hussain
 #  Chaudhry Shujaat Hussain, the head of the ruling party in Pakistan, is elected as the new interim Prime Minister of the nation after the resignation of Zafarullah Khan Jamali. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-4257990,00.html)
 

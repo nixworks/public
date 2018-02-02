@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/03/31/jack-abramoff-scandals-lobbyist-tony-c-rudy-former-chief-of-staff-for-rep-tom-delay-r-tx-pleads-guilty-to-conspiracy-and-agrees-to-c.html)  [JSON](/news/2006/03/31/jack-abramoff-scandals-lobbyist-tony-c-rudy-former-chief-of-staff-for-rep-tom-delay-r-tx-pleads-guilty-to-conspiracy-and-agrees-to-c.json)  [XML](/news/2006/03/31/jack-abramoff-scandals-lobbyist-tony-c-rudy-former-chief-of-staff-for-rep-tom-delay-r-tx-pleads-guilty-to-conspiracy-and-agrees-to-c.xml)  
+
 ### [2006-03-31](/news/2006/03/31/index.md)
 
+##### Jack Abramoff scandals
 #  Jack Abramoff scandals: Lobbyist Tony C. Rudy, former chief of staff for Rep. Tom DeLay (R-TX), pleads guilty to conspiracy and agrees to cooperate with the ongoing investigation into the Jack Abramoff Indian lobbying scandal. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/03/31/AR2006033100638.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2006/03/31/AR2006033100638.html)
 
 ### Related:
 

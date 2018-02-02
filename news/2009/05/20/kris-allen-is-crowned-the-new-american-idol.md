@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2009/05/20/kris-allen-is-crowned-the-new-american-idol.html)  [JSON](/news/2009/05/20/kris-allen-is-crowned-the-new-american-idol.json)  [XML](/news/2009/05/20/kris-allen-is-crowned-the-new-american-idol.xml)  
+
 ### [2009-05-20](/news/2009/05/20/index.md)
 
+##### Kris Allen
 #  Kris Allen is crowned the new "American Idol".
 
 

@@ -1,11 +1,9 @@
 
-### Formats:
+Formats: [HTML](/news/2017/08/18/the-controversial-national-constituent-assembly-votes-unanimously-to-assume-the-powers-of-the-opposition-led-national-assembly-of-venezuela.html)  [JSON](/news/2017/08/18/the-controversial-national-constituent-assembly-votes-unanimously-to-assume-the-powers-of-the-opposition-led-national-assembly-of-venezuela.json)  [XML](/news/2017/08/18/the-controversial-national-constituent-assembly-votes-unanimously-to-assume-the-powers-of-the-opposition-led-national-assembly-of-venezuela.xml)  
 
-* [HTML](/news/2017/08/18/the-controversial-national-constituent-assembly-votes-unanimously-to-assume-the-powers-of-the-opposition-led-national-assembly-of-venezuela.html)
-* [JSON](/news/2017/08/18/the-controversial-national-constituent-assembly-votes-unanimously-to-assume-the-powers-of-the-opposition-led-national-assembly-of-venezuela.json)
-* [XML](/news/2017/08/18/the-controversial-national-constituent-assembly-votes-unanimously-to-assume-the-powers-of-the-opposition-led-national-assembly-of-venezuela.xml)
 ### [2017-08-18](/news/2017/08/18/index.md)
 
+##### democratic opposition
 # The controversial National Constituent Assembly votes unanimously to assume the powers of the opposition-led National Assembly of Venezuela. 
 
 The opposition-led parliament says the move will be rejected by Venezuelans.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/16/an-explosion-at-a-coal-mine-in-shizuishan-city-in-the-ningxia-hui-autonomous-region-in-the-people-s-republic-of-china-results-in-at-least-1.html)  [JSON](/news/2008/10/16/an-explosion-at-a-coal-mine-in-shizuishan-city-in-the-ningxia-hui-autonomous-region-in-the-people-s-republic-of-china-results-in-at-least-1.json)  [XML](/news/2008/10/16/an-explosion-at-a-coal-mine-in-shizuishan-city-in-the-ningxia-hui-autonomous-region-in-the-people-s-republic-of-china-results-in-at-least-1.xml)  
+
 ### [2008-10-16](/news/2008/10/16/index.md)
 
+##### explosion
 #  An explosion at a coal mine in Shizuishan city in the Ningxia Hui Autonomous Region in the People's Republic of China results in at least 16 deaths. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via IHT](http://www.iht.com/articles/ap/2008/10/17/asia/AS-China-Mine-Blas.php)
 

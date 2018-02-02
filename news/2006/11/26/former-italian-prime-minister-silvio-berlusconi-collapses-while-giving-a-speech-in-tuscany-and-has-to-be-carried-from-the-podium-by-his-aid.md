@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/26/former-italian-prime-minister-silvio-berlusconi-collapses-while-giving-a-speech-in-tuscany-and-has-to-be-carried-from-the-podium-by-his-aid.html)  [JSON](/news/2006/11/26/former-italian-prime-minister-silvio-berlusconi-collapses-while-giving-a-speech-in-tuscany-and-has-to-be-carried-from-the-podium-by-his-aid.json)  [XML](/news/2006/11/26/former-italian-prime-minister-silvio-berlusconi-collapses-while-giving-a-speech-in-tuscany-and-has-to-be-carried-from-the-podium-by-his-aid.xml)  
+
 ### [2006-11-26](/news/2006/11/26/index.md)
 
+##### Italian Prime Minister
 #  Former Italian Prime Minister Silvio Berlusconi collapses while giving a speech in Tuscany and has to be carried from the podium by his aides. Doctors treating him afterwards blamed a sudden drop in blood pressure. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/6185514.stm)
 

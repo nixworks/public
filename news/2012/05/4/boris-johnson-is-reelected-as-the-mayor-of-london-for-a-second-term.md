@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/4/boris-johnson-is-reelected-as-the-mayor-of-london-for-a-second-term.html)  [JSON](/news/2012/05/4/boris-johnson-is-reelected-as-the-mayor-of-london-for-a-second-term.json)  [XML](/news/2012/05/4/boris-johnson-is-reelected-as-the-mayor-of-london-for-a-second-term.xml)  
+
 ### [2012-05-4](/news/2012/05/4/index.md)
 
+##### Boris Johnson
 # Boris Johnson is reelected as the Mayor of London for a second term. 
 
 The results confirmed late Friday install him as the host of the upcoming 2012 Olympics.
 
 
-### Source:
+### Sources:
 
 1. [Politico](http://www.politico.com/news/stories/0512/75941.html)
 1. [Cover Image](http://s3-origin-images.politico.com/2012/05/120503_boris_johnson_ap_605.jpg)

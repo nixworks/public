@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/15/a-united-nations-official-says-that-about-70-000-people-have-died-in-the-troubled-darfur-region-of-sudan-since-march.html)  [JSON](/news/2004/10/15/a-united-nations-official-says-that-about-70-000-people-have-died-in-the-troubled-darfur-region-of-sudan-since-march.json)  [XML](/news/2004/10/15/a-united-nations-official-says-that-about-70-000-people-have-died-in-the-troubled-darfur-region-of-sudan-since-march.xml)  
+
 ### [2004-10-15](/news/2004/10/15/index.md)
 
+##### Darfur
 #  A United Nations official says that about 70,000 people have died in the troubled Darfur region of Sudan since March. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/3747380.stm)
 

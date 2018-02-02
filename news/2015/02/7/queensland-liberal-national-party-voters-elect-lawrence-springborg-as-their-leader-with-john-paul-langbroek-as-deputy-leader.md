@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/7/queensland-liberal-national-party-voters-elect-lawrence-springborg-as-their-leader-with-john-paul-langbroek-as-deputy-leader.html)  [JSON](/news/2015/02/7/queensland-liberal-national-party-voters-elect-lawrence-springborg-as-their-leader-with-john-paul-langbroek-as-deputy-leader.json)  [XML](/news/2015/02/7/queensland-liberal-national-party-voters-elect-lawrence-springborg-as-their-leader-with-john-paul-langbroek-as-deputy-leader.xml)  
+
 ### [2015-02-7](/news/2015/02/7/index.md)
 
+##### Queensland
 # Queensland Liberal National Party voters elect Lawrence Springborg as their leader with John-Paul Langbroek as deputy leader. 
 
 Lawrence Springborg has been elected as leader of Qld&#039;s Liberal National Party, with John-Paul Langbroek as deputy leader.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-02-07/lawrence-springborg-new-lnp-leader-queensland/6077536)
 1. [Cover Image](http://www.abc.net.au/news/image/6077742-1x1-700x700.jpg)

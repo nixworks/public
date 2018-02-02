@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/25/a-report-by-dame-janet-smith-finds-that-managem
 
 ### [2016-02-25](/news/2016/02/25/index.md)
 
+##### Jimmy Savile sexual abuse scandal
 # A report by Dame Janet Smith finds that management at the BBC staff knew of complaints against Jimmy Savile but did not advise senior management due to a "culture of fear". 
 
 The BBC missed opportunities to stop &quot;monstrous&quot; abuse by DJ Jimmy Savile and broadcaster Stuart Hall because of a &quot;culture of fear&quot;, an inquiry says.

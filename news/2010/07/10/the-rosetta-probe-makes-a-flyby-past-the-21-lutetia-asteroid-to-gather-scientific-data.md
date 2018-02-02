@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/10/the-rosetta-probe-makes-a-flyby-past-the-21-lutetia-asteroid-to-gather-scientific-data.html)  [JSON](/news/2010/07/10/the-rosetta-probe-makes-a-flyby-past-the-21-lutetia-asteroid-to-gather-scientific-data.json)  [XML](/news/2010/07/10/the-rosetta-probe-makes-a-flyby-past-the-21-lutetia-asteroid-to-gather-scientific-data.xml)  
+
 ### [2010-07-10](/news/2010/07/10/index.md)
 
+##### ''Rosetta'' space probe
 # The Rosetta probe makes a flyby past the 21 Lutetia asteroid to gather scientific data. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/science_and_environment/10587674.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

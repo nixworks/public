@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/1/police-in-portugal-announce-that-they-are-closing-the-investigation-on-the-disappearance-of-madeleine-mccann.html)  [JSON](/news/2008/07/1/police-in-portugal-announce-that-they-are-closing-the-investigation-on-the-disappearance-of-madeleine-mccann.json)  [XML](/news/2008/07/1/police-in-portugal-announce-that-they-are-closing-the-investigation-on-the-disappearance-of-madeleine-mccann.xml)  
+
 ### [2008-07-1](/news/2008/07/1/index.md)
 
+##### Madeleine McCann
 #  Police in Portugal announce that they are closing the investigation on the disappearance of Madeleine McCann. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NineMsn news](http://news.ninemsn.com.au/article.aspx?id=589996)
 

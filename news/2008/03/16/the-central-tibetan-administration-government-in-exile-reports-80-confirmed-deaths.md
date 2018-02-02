@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2008/03/16/the-central-tibetan-administration-government-in-exile-reports-80-confirmed-deaths.html)  [JSON](/news/2008/03/16/the-central-tibetan-administration-government-in-exile-reports-80-confirmed-deaths.json)  [XML](/news/2008/03/16/the-central-tibetan-administration-government-in-exile-reports-80-confirmed-deaths.xml)  
+
 ### [2008-03-16](/news/2008/03/16/index.md)
 
+##### Central Tibetan Administration
 #  The Central Tibetan Administration government in exile reports 80 confirmed deaths. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7299132.stm)
 2. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7299212.stm)
 3. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7299597.stm)
+
+### Changes:
+
+1. [ 2008 unrest in Tibet: The Central Tibetan Administration government in exile reports 80 confirmed deaths. ](/news/2008/03/16/2008-unrest-in-tibet-p-the-central-tibetan-administration-government-in-exile-reports-80-confirmed-deaths.md) _2017-08-25 03:21:55 (First version)_
+2. [ 2008 unrest in Tibet:: The Central Tibetan Administration government in exile reports 80 confirmed deaths. ](/news/2008/03/16/2008-unrest-in-tibet-the-central-tibetan-administration-government-in-exile-reports-80-confirmed-deaths.md) _2017-08-27 03:21:49 (Update)_
+2. [ The Central Tibetan Administration government in exile reports 80 confirmed deaths. ](/news/2008/03/16/the-central-tibetan-administration-government-in-exile-reports-80-confirmed-deaths.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@
 2. [The 14th Dalai Lama's submitted resignation as Head of State of the Central Tibetan Administration is denied by the Tibetan Parliament-in-exile. ](/news/2011/03/19/the-14th-dalai-lama-s-submitted-resignation-as-head-of-state-of-the-central-tibetan-administration-is-denied-by-the-tibetan-parliament-in-ex.md) _Context: Central Tibetan Administration_
 3. [ Tibet's Central Administration claims that China's accusations of the Dalai Lama's "genocide" are "fabricated." ](/news/2009/03/10/tibet-s-central-administration-claims-that-china-s-accusations-of-the-dalai-lama-s-genocide-are-fabricated.md) _Context: Central Tibetan Administration_
 4. [ In Somalia, thousands greet Abdullahi Yusuf Ahmed and Mohammed Ali Ghedi, leaders of the exiled Somalian government, when they begin a week-long tour in the country. They led a delegation that studies a possibility to finally relocate the government from Kenya to Somalia ](/news/2005/02/24/in-somalia-thousands-greet-abdullahi-yusuf-ahmed-and-mohammed-ali-ghedi-leaders-of-the-exiled-somalian-government-when-they-begin-a-week.md) _Context: government in exile_
-
-### Changes:
-
-1. [ 2008 unrest in Tibet: The Central Tibetan Administration government in exile reports 80 confirmed deaths. ](/news/2008/03/16/2008-unrest-in-tibet-p-the-central-tibetan-administration-government-in-exile-reports-80-confirmed-deaths.md) _2017-08-25 03:21:55 (First version)_
-2. [ 2008 unrest in Tibet:: The Central Tibetan Administration government in exile reports 80 confirmed deaths. ](/news/2008/03/16/2008-unrest-in-tibet-the-central-tibetan-administration-government-in-exile-reports-80-confirmed-deaths.md) _2017-08-27 03:21:49 (Update)_
-2. [ The Central Tibetan Administration government in exile reports 80 confirmed deaths. ](/news/2008/03/16/the-central-tibetan-administration-government-in-exile-reports-80-confirmed-deaths.md) _(Current version)_

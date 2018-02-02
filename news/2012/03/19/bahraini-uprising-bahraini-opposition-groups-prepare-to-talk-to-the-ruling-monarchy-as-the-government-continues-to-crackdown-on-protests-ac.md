@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/19/bahraini-uprising-bahraini-opposition-groups-prepare-to-talk-to-the-ruling-monarchy-as-the-government-continues-to-crackdown-on-protests-ac.html)  [JSON](/news/2012/03/19/bahraini-uprising-bahraini-opposition-groups-prepare-to-talk-to-the-ruling-monarchy-as-the-government-continues-to-crackdown-on-protests-ac.json)  [XML](/news/2012/03/19/bahraini-uprising-bahraini-opposition-groups-prepare-to-talk-to-the-ruling-monarchy-as-the-government-continues-to-crackdown-on-protests-ac.xml)  
+
 ### [2012-03-19](/news/2012/03/19/index.md)
 
+##### 2011-2012 Bahraini uprising
 # Bahraini uprising: Bahraini opposition groups prepare to talk to the ruling monarchy as the government continues to crackdown on protests across the nation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/03/201231915643806429.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/19/201231915168659580_20.jpg)

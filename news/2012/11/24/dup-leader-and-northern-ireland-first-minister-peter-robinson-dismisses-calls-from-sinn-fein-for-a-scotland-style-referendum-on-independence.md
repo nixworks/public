@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/24/dup-leader-and-northern-ireland-first-minister-peter-robinson-dismisses-calls-from-sinn-fein-for-a-scotland-style-referendum-on-independence.html)  [JSON](/news/2012/11/24/dup-leader-and-northern-ireland-first-minister-peter-robinson-dismisses-calls-from-sinn-fein-for-a-scotland-style-referendum-on-independence.json)  [XML](/news/2012/11/24/dup-leader-and-northern-ireland-first-minister-peter-robinson-dismisses-calls-from-sinn-fein-for-a-scotland-style-referendum-on-independence.xml)  
+
 ### [2012-11-24](/news/2012/11/24/index.md)
 
+##### Democratic Unionist Party
 # DUP leader and Northern Ireland First Minister Peter Robinson dismisses calls from Sinn Fin for a Scotland-style referendum on independence for Northern Ireland, telling his party's annual conference that a majority of Catholics want Northern Ireland to stay part of the United Kingdom. 
 
 Stormont First Minister Peter Robinson tells the DUP conference he believes a majority of Catholics now support Northern Ireland staying within the UK.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-20475919)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/64357000/jpg/_64357224_robinson2.jpg)

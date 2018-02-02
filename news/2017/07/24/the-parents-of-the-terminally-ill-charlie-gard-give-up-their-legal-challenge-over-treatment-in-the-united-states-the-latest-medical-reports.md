@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/24/the-parents-of-the-terminally-ill-charlie-gard-
 
 ### [2017-07-24](/news/2017/07/24/index.md)
 
+##### Charlie Gard case
 # The parents of the terminally ill Charlie Gard give up their legal challenge over treatment in the United States. The latest medical reports indicate that the window of opportunity no longer exists. 
 
 

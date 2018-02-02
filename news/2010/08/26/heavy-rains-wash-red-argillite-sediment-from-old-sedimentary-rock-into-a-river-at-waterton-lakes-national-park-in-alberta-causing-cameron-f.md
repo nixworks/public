@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/26/heavy-rains-wash-red-argillite-sediment-from-old-sedimentary-rock-into-a-river-at-waterton-lakes-national-park-in-alberta-causing-cameron-f.html)  [JSON](/news/2010/08/26/heavy-rains-wash-red-argillite-sediment-from-old-sedimentary-rock-into-a-river-at-waterton-lakes-national-park-in-alberta-causing-cameron-f.json)  [XML](/news/2010/08/26/heavy-rains-wash-red-argillite-sediment-from-old-sedimentary-rock-into-a-river-at-waterton-lakes-national-park-in-alberta-causing-cameron-f.xml)  
+
 ### [2010-08-26](/news/2010/08/26/index.md)
 
+##### argillite
 # Heavy rains wash red argillite sediment from old sedimentary rock into a river at Waterton Lakes National Park in Alberta, causing Cameron Falls to turn red. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Mail](http://www.dailymail.co.uk/news/worldnews/article-1306378/River-turns-colour-tomato-soup-storm.html)
 

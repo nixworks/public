@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/4/rodrigo-duterte-says-that-the-sinaloa-cartel-and
 
 ### [2016-08-4](/news/2016/08/4/index.md)
 
+##### drug crackdown
 # Rodrigo Duterte says that the Sinaloa cartel and the Chinese triad are active in the Philippine narcotic trade. 
 
 Manila Standard | Defining The News

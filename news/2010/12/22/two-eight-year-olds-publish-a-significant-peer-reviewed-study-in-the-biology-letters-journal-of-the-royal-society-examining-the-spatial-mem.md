@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/22/two-eight-year-olds-publish-a-significant-peer-reviewed-study-in-the-biology-letters-journal-of-the-royal-society-examining-the-spatial-mem.html)  [JSON](/news/2010/12/22/two-eight-year-olds-publish-a-significant-peer-reviewed-study-in-the-biology-letters-journal-of-the-royal-society-examining-the-spatial-mem.json)  [XML](/news/2010/12/22/two-eight-year-olds-publish-a-significant-peer-reviewed-study-in-the-biology-letters-journal-of-the-royal-society-examining-the-spatial-mem.xml)  
+
 ### [2010-12-22](/news/2010/12/22/index.md)
 
+##### peer-reviewed
 # Two eight-year-olds publish a significant peer-reviewed study in the Biology Letters journal of the Royal Society, examining the spatial memory of bumblebees. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Agence Presse-France](http://www.google.com/hostednews/afp/article/ALeqM5iT4S9cVytbmVuKn61FsMErM1W_ow)
 2. [Los Angeles Times](http://www.latimes.com/news/science/wire/sns-ap-eu-britain-child-scientists,0,3436003.story)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/3/the-united-states-secretary-of-defense-donald-rumsfeld-likens-venezuela-s-president-hugo-cha-vez-to-adolf-hitler-in-retaliation-venezuela.html)  [JSON](/news/2006/02/3/the-united-states-secretary-of-defense-donald-rumsfeld-likens-venezuela-s-president-hugo-cha-vez-to-adolf-hitler-in-retaliation-venezuela.json)  [XML](/news/2006/02/3/the-united-states-secretary-of-defense-donald-rumsfeld-likens-venezuela-s-president-hugo-cha-vez-to-adolf-hitler-in-retaliation-venezuela.xml)  
+
 ### [2006-02-3](/news/2006/02/3/index.md)
 
+##### United States Secretary of Defense
 #  The United States Secretary of Defense Donald Rumsfeld likens Venezuela's President Hugo Chavez to Adolf Hitler. In retaliation, Venezuelan Vice President Jose Vicente Rangel refers to the US as the Third Reich. 
 
 Defense Secretary Donald H. Rumsfeld likened Venezuelan President Hugo Chavez to Adolf Hitler, reflecting ongoing tension in relations between the United States and the Latin American government.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://espanol.news.yahoo.com/060203/1/16vpr.html)
 2. [AP](http://msnbc.msn.com/id/11159503/)

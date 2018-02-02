@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/6/hamid-karzai-the-president-of-afghanistan-warns-general-david-petraeus-the-head-of-united-states-and-nato-forces-in-afghanistan-that-civil.html)  [JSON](/news/2011/03/6/hamid-karzai-the-president-of-afghanistan-warns-general-david-petraeus-the-head-of-united-states-and-nato-forces-in-afghanistan-that-civil.json)  [XML](/news/2011/03/6/hamid-karzai-the-president-of-afghanistan-warns-general-david-petraeus-the-head-of-united-states-and-nato-forces-in-afghanistan-that-civil.xml)  
+
 ### [2011-03-6](/news/2011/03/6/index.md)
 
+##### Hamid Karzai
 # Hamid Karzai, the President of Afghanistan, warns General David Petraeus the head of United States and NATO forces in Afghanistan that civilian casualties in the Afghanistan war and rejects an apology for the mistaken killings of nine boys in a NATO air attack. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.mobi/quickPage.html?page=22995&content=49041783&pageNum=-1)
 

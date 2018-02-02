@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/19/a-fight-amongst-inmates-leads-to-a-prison-riot-in-the-mexican-city-of-apodaca-nuevo-lea3n-with-44-people-dead.html)  [JSON](/news/2012/02/19/a-fight-amongst-inmates-leads-to-a-prison-riot-in-the-mexican-city-of-apodaca-nuevo-lea3n-with-44-people-dead.json)  [XML](/news/2012/02/19/a-fight-amongst-inmates-leads-to-a-prison-riot-in-the-mexican-city-of-apodaca-nuevo-lea3n-with-44-people-dead.xml)  
+
 ### [2012-02-19](/news/2012/02/19/index.md)
 
+##### Mexican
 # A fight amongst inmates leads to a prison riot in the Mexican city of Apodaca, Nuevo Leon, with 44 people dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Herald-Sun](http://www.heraldsun.com.au/news/world/forty-four-inmates-killed-in-mexico-prison-riot/story-e6frf7lf-1226275426245)
 

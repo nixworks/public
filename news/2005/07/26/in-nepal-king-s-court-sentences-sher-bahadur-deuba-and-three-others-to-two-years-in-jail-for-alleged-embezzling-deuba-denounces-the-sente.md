@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/26/in-nepal-king-s-court-sentences-sher-bahadur-deuba-and-three-others-to-two-years-in-jail-for-alleged-embezzling-deuba-denounces-the-sente.html)  [JSON](/news/2005/07/26/in-nepal-king-s-court-sentences-sher-bahadur-deuba-and-three-others-to-two-years-in-jail-for-alleged-embezzling-deuba-denounces-the-sente.json)  [XML](/news/2005/07/26/in-nepal-king-s-court-sentences-sher-bahadur-deuba-and-three-others-to-two-years-in-jail-for-alleged-embezzling-deuba-denounces-the-sente.xml)  
+
 ### [2005-07-26](/news/2005/07/26/index.md)
 
+##### Nepal
 #  In Nepal, king's court sentences Sher Bahadur Deuba and three others to two years in jail for alleged embezzling. Deuba denounces the sentence as "character assassination". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kantipur Online](http://www.kantipuronline.com/kolnews.php?&nid=46898)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/DEL75306.htm)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/11/the-ligo-scientific-collaboration-experiment-an
 
 ### [2016-02-11](/news/2016/02/11/index.md)
 
+##### LIGO Scientific Collaboration
 # The LIGO Scientific Collaboration experiment announces the first direct observation of gravitational waves. 
 
 ‘We are going to see things that we never knew existed’ say scientists announcing the detection of gravitational waves

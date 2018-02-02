@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/21/a-stonewall-study-indicates-that-young-people-rarely-see-positive-portrayals-of-lesbian-and-gay-people-on-television-usually-depicted-as-p.html)  [JSON](/news/2010/07/21/a-stonewall-study-indicates-that-young-people-rarely-see-positive-portrayals-of-lesbian-and-gay-people-on-television-usually-depicted-as-p.json)  [XML](/news/2010/07/21/a-stonewall-study-indicates-that-young-people-rarely-see-positive-portrayals-of-lesbian-and-gay-people-on-television-usually-depicted-as-p.xml)  
+
 ### [2010-07-21](/news/2010/07/21/index.md)
 
+##### Stonewall
 # A Stonewall study indicates that young people rarely see positive portrayals of lesbian and gay people on television, usually depicted as "promiscuous, predatory, or figures of fun", particularly on BBC One. 
 
 Young people rarely see positive portrayals of lesbian and gay people on television, according to Stonewall.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-10720924)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

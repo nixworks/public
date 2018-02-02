@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/28/voters-in-the-us-states-of-michigan-and-arizona-go-to-the-polls-for-republican-party-primaries-mitt-romney-wins-both-states.html)  [JSON](/news/2012/02/28/voters-in-the-us-states-of-michigan-and-arizona-go-to-the-polls-for-republican-party-primaries-mitt-romney-wins-both-states.json)  [XML](/news/2012/02/28/voters-in-the-us-states-of-michigan-and-arizona-go-to-the-polls-for-republican-party-primaries-mitt-romney-wins-both-states.xml)  
+
 ### [2012-02-28](/news/2012/02/28/index.md)
 
+##### Mich.
 # Voters in the US states of Michigan and Arizona go to the polls for Republican Party primaries. Mitt Romney wins both states. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://blogs.voanews.com/breaking-news/2012/02/27/michigan-arizona-hold-republican-primaries-tuesday-3/)
 

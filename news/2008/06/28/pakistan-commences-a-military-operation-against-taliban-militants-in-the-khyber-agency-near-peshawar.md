@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/28/pakistan-commences-a-military-operation-against-taliban-militants-in-the-khyber-agency-near-peshawar.html)  [JSON](/news/2008/06/28/pakistan-commences-a-military-operation-against-taliban-militants-in-the-khyber-agency-near-peshawar.json)  [XML](/news/2008/06/28/pakistan-commences-a-military-operation-against-taliban-militants-in-the-khyber-agency-near-peshawar.xml)  
+
 ### [2008-06-28](/news/2008/06/28/index.md)
 
+##### Pakistan
 #  Pakistan commences a military operation against Taliban militants in the Khyber Agency near Peshawar. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Guardian](http://www.guardian.co.uk/world/feedarticle/7616520)
 

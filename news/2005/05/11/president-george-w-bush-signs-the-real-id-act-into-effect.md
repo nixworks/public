@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/05/11/president-george-w-bush-signs-the-real-id-act-into-effect.html)  [JSON](/news/2005/05/11/president-george-w-bush-signs-the-real-id-act-into-effect.json)  [XML](/news/2005/05/11/president-george-w-bush-signs-the-real-id-act-into-effect.xml)  
+
 ### [2005-05-11](/news/2005/05/11/index.md)
 
+##### George W. Bush
 #  President George W. Bush signs the Real ID Act into effect.
 
 

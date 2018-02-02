@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/28/police-in-ukraine-states-that-they-have-identified-people-who-kidnapped-and-killed-journalist-georgiy-gongadze-in-september-2000.html)  [JSON](/news/2005/02/28/police-in-ukraine-states-that-they-have-identified-people-who-kidnapped-and-killed-journalist-georgiy-gongadze-in-september-2000.json)  [XML](/news/2005/02/28/police-in-ukraine-states-that-they-have-identified-people-who-kidnapped-and-killed-journalist-georgiy-gongadze-in-september-2000.xml)  
+
 ### [2005-02-28](/news/2005/02/28/index.md)
 
+##### Georgiy Gongadze
 #  Police in Ukraine states that they have identified people who kidnapped and killed journalist Georgiy Gongadze in September 2000 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4304133.stm)
 2. [Forum](http://eng.for-ua.com/news/?id=175)

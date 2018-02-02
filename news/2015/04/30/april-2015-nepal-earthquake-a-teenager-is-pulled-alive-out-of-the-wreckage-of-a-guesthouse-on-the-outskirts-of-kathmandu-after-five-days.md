@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/30/april-2015-nepal-earthquake-a-teenager-is-pulled-alive-out-of-the-wreckage-of-a-guesthouse-on-the-outskirts-of-kathmandu-after-five-days.html)  [JSON](/news/2015/04/30/april-2015-nepal-earthquake-a-teenager-is-pulled-alive-out-of-the-wreckage-of-a-guesthouse-on-the-outskirts-of-kathmandu-after-five-days.json)  [XML](/news/2015/04/30/april-2015-nepal-earthquake-a-teenager-is-pulled-alive-out-of-the-wreckage-of-a-guesthouse-on-the-outskirts-of-kathmandu-after-five-days.xml)  
+
 ### [2015-04-30](/news/2015/04/30/index.md)
 
+##### suspicions
 # April 2015 Nepal earthquake: A teenager is pulled alive out of the wreckage of a guesthouse on the outskirts of Kathmandu after five days. 
 
 Rescuers on Thursday pulled a teenage boy out alive from under the wreckage of a guesthouse in Nepal five days after it collapsed in a massive weekend earthquake.
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/world/south-asia/Teenager-pulled-alive-from-rubble-five-days-after-Nepal-quake/articleshow/47107058.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/47110318.cms)

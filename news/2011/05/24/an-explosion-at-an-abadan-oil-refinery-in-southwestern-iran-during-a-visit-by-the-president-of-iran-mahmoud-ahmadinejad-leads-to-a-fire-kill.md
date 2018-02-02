@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/05/24/an-explosion-at-an-abadan-oil-refinery-in-southwestern-iran-during-a-visit-by-the-president-of-iran-mahmoud-ahmadinejad-leads-to-a-fire-kill.html)  [JSON](/news/2011/05/24/an-explosion-at-an-abadan-oil-refinery-in-southwestern-iran-during-a-visit-by-the-president-of-iran-mahmoud-ahmadinejad-leads-to-a-fire-kill.json)  [XML](/news/2011/05/24/an-explosion-at-an-abadan-oil-refinery-in-southwestern-iran-during-a-visit-by-the-president-of-iran-mahmoud-ahmadinejad-leads-to-a-fire-kill.xml)  
+
 ### [2011-05-24](/news/2011/05/24/index.md)
 
+##### Abadan
 # An explosion at an Abadan oil refinery in southwestern Iran during a visit by the President of Iran Mahmoud Ahmadinejad leads to a fire killing two workers and injuring 20. 
 
 A deadly blast during the inauguration of a major oil refinery by Iranian President Mahmoud Ahmadinejad killed at least four and injured 20.
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/blast-during-ahmadinejad-opening-of-refinery-kills-two/2011/05/24/AFXqMKAH_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/blast-during-ahmadinejad-opening-of-refinery-kills-two/2011/05/24/AFXqMKAH_story.html)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4073069,00.html)
 2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 

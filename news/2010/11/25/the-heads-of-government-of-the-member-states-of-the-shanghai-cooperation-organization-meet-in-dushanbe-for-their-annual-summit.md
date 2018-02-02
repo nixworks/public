@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/25/the-heads-of-government-of-the-member-states-of-the-shanghai-cooperation-organization-meet-in-dushanbe-for-their-annual-summit.html)  [JSON](/news/2010/11/25/the-heads-of-government-of-the-member-states-of-the-shanghai-cooperation-organization-meet-in-dushanbe-for-their-annual-summit.json)  [XML](/news/2010/11/25/the-heads-of-government-of-the-member-states-of-the-shanghai-cooperation-organization-meet-in-dushanbe-for-their-annual-summit.xml)  
+
 ### [2010-11-25](/news/2010/11/25/index.md)
 
+##### Shanghai Cooperation Organization
 # The heads of government of the member states of the Shanghai Cooperation Organization meet in Dushanbe for their annual summit. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-11/26/c_13622709.htm)
 

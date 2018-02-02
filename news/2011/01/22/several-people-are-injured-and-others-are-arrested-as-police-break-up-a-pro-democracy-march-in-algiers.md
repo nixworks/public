@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/22/several-people-are-injured-and-others-are-arrested-as-police-break-up-a-pro-democracy-march-in-algiers.html)  [JSON](/news/2011/01/22/several-people-are-injured-and-others-are-arrested-as-police-break-up-a-pro-democracy-march-in-algiers.json)  [XML](/news/2011/01/22/several-people-are-injured-and-others-are-arrested-as-police-break-up-a-pro-democracy-march-in-algiers.xml)  
+
 ### [2011-01-22](/news/2011/01/22/index.md)
 
+##### a pro-democracy march
 # Several people are injured and others are arrested as police break up a pro-democracy march in Algiers. 
 
 Several injured as police disperse 300 people who defied a ban and attempted to demonstrate in capital, Algiers.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/2011122105819527114.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12258449)

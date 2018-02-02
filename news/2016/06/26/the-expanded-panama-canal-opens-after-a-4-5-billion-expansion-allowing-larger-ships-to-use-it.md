@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/06/26/the-expanded-panama-canal-opens-after-a-4-5-billion-expansion-allowing-larger-ships-to-use-it.html)  [JSON](/news/2016/06/26/the-expanded-panama-canal-opens-after-a-4-5-billion-expansion-allowing-larger-ships-to-use-it.json)  [XML](/news/2016/06/26/the-expanded-panama-canal-opens-after-a-4-5-billion-expansion-allowing-larger-ships-to-use-it.xml)  
+
 ### [2016-06-26](/news/2016/06/26/index.md)
 
+##### expanded
 # The expanded Panama Canal opens after a $4.5 billion expansion allowing larger ships to use it. 
 
 Chinese freighter laden with nearly 9,500 metal cargo containers transited the expanded Panama Canal on Sunday, inaugurating the interoceanic waterway and opening a new era in global trade.
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/world/mexico-americas/la-fg-panama-canal-expansion-20160626-snap-story.html)
 1. [Cover Image](http://www.trbimg.com/img-57707968/turbine/la-fg-panama-canal-expansion-20160626-snap)

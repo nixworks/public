@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/5/a-rocket-fired-from-egypt-s-sinai-desert-hits-the-israeli-city-of-eilat-but-causes-no-injuries-or-property-damage.html)  [JSON](/news/2012/04/5/a-rocket-fired-from-egypt-s-sinai-desert-hits-the-israeli-city-of-eilat-but-causes-no-injuries-or-property-damage.json)  [XML](/news/2012/04/5/a-rocket-fired-from-egypt-s-sinai-desert-hits-the-israeli-city-of-eilat-but-causes-no-injuries-or-property-damage.xml)  
+
 ### [2012-04-5](/news/2012/04/5/index.md)
 
+##### Egypt
 # A rocket fired from Egypt's Sinai desert hits the Israeli city of Eilat but causes no injuries or property damage. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/egyptNews/idAFL6E8F504820120405)
 

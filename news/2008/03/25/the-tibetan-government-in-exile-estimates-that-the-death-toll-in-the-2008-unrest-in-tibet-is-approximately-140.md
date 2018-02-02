@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/25/the-tibetan-government-in-exile-estimates-that-the-death-toll-in-the-2008-unrest-in-tibet-is-approximately-140.html)  [JSON](/news/2008/03/25/the-tibetan-government-in-exile-estimates-that-the-death-toll-in-the-2008-unrest-in-tibet-is-approximately-140.json)  [XML](/news/2008/03/25/the-tibetan-government-in-exile-estimates-that-the-death-toll-in-the-2008-unrest-in-tibet-is-approximately-140.xml)  
+
 ### [2008-03-25](/news/2008/03/25/index.md)
 
+##### Tibet
 #  The Tibetan government in exile estimates that the death toll in the 2008 unrest in Tibet is approximately 140. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The International Herald Tribune](http://www.iht.com/articles/ap/2008/03/25/asia/AS-GEN-Tibet-Protests.php)
 

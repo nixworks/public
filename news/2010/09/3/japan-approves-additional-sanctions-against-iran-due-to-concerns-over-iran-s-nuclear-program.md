@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/3/japan-approves-additional-sanctions-against-iran-due-to-concerns-over-iran-s-nuclear-program.html)  [JSON](/news/2010/09/3/japan-approves-additional-sanctions-against-iran-due-to-concerns-over-iran-s-nuclear-program.json)  [XML](/news/2010/09/3/japan-approves-additional-sanctions-against-iran-due-to-concerns-over-iran-s-nuclear-program.xml)  
+
 ### [2010-09-3](/news/2010/09/3/index.md)
 
+##### Japan
 # Japan approves additional sanctions against Iran due to concerns over Iran's nuclear program. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory?id=11549421)
 

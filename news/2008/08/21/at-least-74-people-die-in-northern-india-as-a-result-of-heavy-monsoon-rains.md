@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/21/at-least-74-people-die-in-northern-india-as-a-result-of-heavy-monsoon-rains.html)  [JSON](/news/2008/08/21/at-least-74-people-die-in-northern-india-as-a-result-of-heavy-monsoon-rains.json)  [XML](/news/2008/08/21/at-least-74-people-die-in-northern-india-as-a-result-of-heavy-monsoon-rains.xml)  
+
 ### [2008-08-21](/news/2008/08/21/index.md)
 
+##### India
 #  At least 74 people die in northern India as a result of heavy monsoon rains. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5hNs0VcJkP5R71flklWzmI2sK6_xAD92MEBN80)
 

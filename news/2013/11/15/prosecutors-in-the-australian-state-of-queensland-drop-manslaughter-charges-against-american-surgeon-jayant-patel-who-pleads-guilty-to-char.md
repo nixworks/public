@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/15/prosecutors-in-the-australian-state-of-queensland-drop-manslaughter-charges-against-american-surgeon-jayant-patel-who-pleads-guilty-to-char.html)  [JSON](/news/2013/11/15/prosecutors-in-the-australian-state-of-queensland-drop-manslaughter-charges-against-american-surgeon-jayant-patel-who-pleads-guilty-to-char.json)  [XML](/news/2013/11/15/prosecutors-in-the-australian-state-of-queensland-drop-manslaughter-charges-against-american-surgeon-jayant-patel-who-pleads-guilty-to-char.xml)  
+
 ### [2013-11-15](/news/2013/11/15/index.md)
 
+##### Australia
 # Prosecutors in the Australian state of Queensland drop manslaughter charges against American surgeon Jayant Patel, who pleads guilty to charges of fraud. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/us-surgeon-cleared-australian-death-charges)
 

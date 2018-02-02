@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/4/a-former-volkswagen-executive-pleads-guilty-to-d
 
 ### [2017-08-4](/news/2017/08/4/index.md)
 
+##### Volkswagen emissions scandal
 # A former Volkswagen executive pleads guilty to defrauding the United States and violating the Clean Air Act. 
 
 Oliver Schmidt faces up to seven years in prison for his role in the Volkswagen emissions scandal.

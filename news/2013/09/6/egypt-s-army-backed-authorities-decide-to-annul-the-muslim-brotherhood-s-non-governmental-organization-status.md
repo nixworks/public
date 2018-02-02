@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/09/6/egypt-s-army-backed-authorities-decide-to-annul-the-muslim-brotherhood-s-non-governmental-organization-status.html)  [JSON](/news/2013/09/6/egypt-s-army-backed-authorities-decide-to-annul-the-muslim-brotherhood-s-non-governmental-organization-status.json)  [XML](/news/2013/09/6/egypt-s-army-backed-authorities-decide-to-annul-the-muslim-brotherhood-s-non-governmental-organization-status.xml)  
+
 ### [2013-09-6](/news/2013/09/6/index.md)
 
+##### Egypt
 # Egypt's army-backed authorities decide to annul the Muslim Brotherhood's non-governmental organization status. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/09/06/us-egypt-protests-brotherhood-ngo-idUSBRE9850KJ20130906)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2013/09/06/us-egypt-protests-brotherhood-ngo-idUSBRE9850KJ20130906)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

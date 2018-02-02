@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/24/president-hu-jintao-of-china-arrives-in-ottawa-on-a-three-day-state-visit-to-canada-the-two-countries-sign-a-tourism-agreement.html)  [JSON](/news/2010/06/24/president-hu-jintao-of-china-arrives-in-ottawa-on-a-three-day-state-visit-to-canada-the-two-countries-sign-a-tourism-agreement.json)  [XML](/news/2010/06/24/president-hu-jintao-of-china-arrives-in-ottawa-on-a-three-day-state-visit-to-canada-the-two-countries-sign-a-tourism-agreement.xml)  
+
 ### [2010-06-24](/news/2010/06/24/index.md)
 
+##### Hu Jintao
 # President Hu Jintao of China arrives in Ottawa on a three-day state visit to Canada. The two countries sign a tourism agreement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Global Times](http://china.globaltimes.cn/diplomacy/2010-06/545521.html)
 

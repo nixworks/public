@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/25/a-new-york-police-department-officer-6-year-employee-gilberto-valle-iii-along-with-an-unnamed-co-conspirator-is-charged-with-allegedly-con.html)  [JSON](/news/2012/10/25/a-new-york-police-department-officer-6-year-employee-gilberto-valle-iii-along-with-an-unnamed-co-conspirator-is-charged-with-allegedly-con.json)  [XML](/news/2012/10/25/a-new-york-police-department-officer-6-year-employee-gilberto-valle-iii-along-with-an-unnamed-co-conspirator-is-charged-with-allegedly-con.xml)  
+
 ### [2012-10-25](/news/2012/10/25/index.md)
 
+##### New York Police Department
 # A New York Police Department officer, 6-year employee Gilberto Valle III along with an unnamed co-conspirator, is charged with allegedly conspiring to cross state lines and kidnap, torture, cook, and eat women (at least 100 names and pictures, some with physical descriptions, were found on his computer). He could get up to life in prison. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN](http://t.news.msn.com/pop-culture/ny-police-officer-charged-with-plan-to-cook-eat-women-1)
 

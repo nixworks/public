@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/3/a-new-study-suggests-that-common-cholesterol-reducing-drugs-may-also-prevent-macular-degeneration.html)  [JSON](/news/2013/04/3/a-new-study-suggests-that-common-cholesterol-reducing-drugs-may-also-prevent-macular-degeneration.json)  [XML](/news/2013/04/3/a-new-study-suggests-that-common-cholesterol-reducing-drugs-may-also-prevent-macular-degeneration.xml)  
+
 ### [2013-04-3](/news/2013/04/3/index.md)
 
+##### cholesterol
 # A new study suggests that common cholesterol reducing drugs may also prevent macular degeneration. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Health Central](http://www.healthcentral.com/dailydose/cf/2013/04/3/cholesterol_drugs_may_prevent_blindness)
 

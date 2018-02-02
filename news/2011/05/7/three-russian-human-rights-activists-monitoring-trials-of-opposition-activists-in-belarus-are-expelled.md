@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/7/three-russian-human-rights-activists-monitoring-trials-of-opposition-activists-in-belarus-are-expelled.html)  [JSON](/news/2011/05/7/three-russian-human-rights-activists-monitoring-trials-of-opposition-activists-in-belarus-are-expelled.json)  [XML](/news/2011/05/7/three-russian-human-rights-activists-monitoring-trials-of-opposition-activists-in-belarus-are-expelled.xml)  
+
 ### [2011-05-7](/news/2011/05/7/index.md)
 
+##### Russia
 # Three Russian human rights activists monitoring trials of opposition activists in Belarus are expelled. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/world/20110507/163908323.html)
 

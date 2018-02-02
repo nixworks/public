@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/08/23/the-governor-general-of-jamaica-kenneth-octavius-hall-announces-that-the-jamaican-general-election-2007-is-postponed-to-september-3-due-to.html)  [JSON](/news/2007/08/23/the-governor-general-of-jamaica-kenneth-octavius-hall-announces-that-the-jamaican-general-election-2007-is-postponed-to-september-3-due-to.json)  [XML](/news/2007/08/23/the-governor-general-of-jamaica-kenneth-octavius-hall-announces-that-the-jamaican-general-election-2007-is-postponed-to-september-3-due-to.xml)  
+
 ### [2007-08-23](/news/2007/08/23/index.md)
 
+##### Governor General of Jamaica
 #  The Governor General of Jamaica Kenneth Octavius Hall announces that the Jamaican general election, 2007 is postponed to September 3 due to the impact of Hurricane Dean. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSN2212503520070825)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSN2212503520070825)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

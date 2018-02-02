@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2008/09/23/pakistani-soldiers-and-tribesmen-reportedly-shoot-down-a-suspected-u-s-military-drone-near-the-village-of-jalal-khel-in-south-waziristan.html)  [JSON](/news/2008/09/23/pakistani-soldiers-and-tribesmen-reportedly-shoot-down-a-suspected-u-s-military-drone-near-the-village-of-jalal-khel-in-south-waziristan.json)  [XML](/news/2008/09/23/pakistani-soldiers-and-tribesmen-reportedly-shoot-down-a-suspected-u-s-military-drone-near-the-village-of-jalal-khel-in-south-waziristan.xml)  
+
 ### [2008-09-23](/news/2008/09/23/index.md)
 
+##### Pakistani
 #  Pakistani soldiers and tribesmen reportedly shoot down a suspected U.S. military drone near the village of Jalal Khel in South Waziristan. The report comes a day after intelligence officers said two United States helicopters crossed a mile into Pakistan over North Waziristan, but flew off after Pakistani troops and tribesmen opened fire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5hkiMxbHNH0BqgpWA2ZG6VD6wVTmAD93CN8T01)
 
 ### Related:
 
-1. [Six suspected militants are killed in a United States drone attack in the tribal area of North Waziristan. ](/news/2015/09/1/six-suspected-militants-are-killed-in-a-united-states-drone-attack-in-the-tribal-area-of-north-waziristan.md) _Context: North Waziristan, United States_
-2. [A United States drone attack kills at least five people in the Pakistani city of Wana, located in the South Waziristan Agency. ](/news/2013/04/17/a-united-states-drone-attack-kills-at-least-five-people-in-the-pakistani-city-of-wana-located-in-the-south-waziristan-agency.md) _Context: South Waziristan, United States_
-3. [A drone attack conducted by the United States kills at least five people in Datta Khel, North Waziristan, Pakistan. ](/news/2013/04/14/a-drone-attack-conducted-by-the-united-states-kills-at-least-five-people-in-datta-khel-north-waziristan-pakistan.md) _Context: North Waziristan, United States_
-4. [A drone attack conducted by the United States kills at least ten people (suspected militants) in South Waziristan, Pakistan. ](/news/2013/01/6/a-drone-attack-conducted-by-the-united-states-kills-at-least-ten-people-suspected-militants-in-south-waziristan-pakistan.md) _Context: South Waziristan, United States_
-5. [A drone attack conducted by the United States kills two suspected militants outside their hideout in South Waziristan in northwestern Pakistan. ](/news/2012/06/2/a-drone-attack-conducted-by-the-united-states-kills-two-suspected-militants-outside-their-hideout-in-south-waziristan-in-northwestern-pakist.md) _Context: South Waziristan, United States_
+1. [Six suspected militants are killed in a United States drone attack in the tribal area of North Waziristan. ](/news/2015/09/1/six-suspected-militants-are-killed-in-a-united-states-drone-attack-in-the-tribal-area-of-north-waziristan.md) _Context: North Waziristan, U.S._
+2. [A United States drone attack kills at least five people in the Pakistani city of Wana, located in the South Waziristan Agency. ](/news/2013/04/17/a-united-states-drone-attack-kills-at-least-five-people-in-the-pakistani-city-of-wana-located-in-the-south-waziristan-agency.md) _Context: South Waziristan, U.S._
+3. [A drone attack conducted by the United States kills at least five people in Datta Khel, North Waziristan, Pakistan. ](/news/2013/04/14/a-drone-attack-conducted-by-the-united-states-kills-at-least-five-people-in-datta-khel-north-waziristan-pakistan.md) _Context: North Waziristan, U.S._
+4. [A drone attack conducted by the United States kills at least ten people (suspected militants) in South Waziristan, Pakistan. ](/news/2013/01/6/a-drone-attack-conducted-by-the-united-states-kills-at-least-ten-people-suspected-militants-in-south-waziristan-pakistan.md) _Context: South Waziristan, U.S._
+5. [A drone attack conducted by the United States kills two suspected militants outside their hideout in South Waziristan in northwestern Pakistan. ](/news/2012/06/2/a-drone-attack-conducted-by-the-united-states-kills-two-suspected-militants-outside-their-hideout-in-south-waziristan-in-northwestern-pakist.md) _Context: South Waziristan, U.S._

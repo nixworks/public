@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2012/07/14/italian-and-french-rescue-crews-recover-the-bodies-of-two-climbers-on-mont-blanc-in-the-alps-two-days-following-an-avalanche-that-swept-awa.html)  [JSON](/news/2012/07/14/italian-and-french-rescue-crews-recover-the-bodies-of-two-climbers-on-mont-blanc-in-the-alps-two-days-following-an-avalanche-that-swept-awa.json)  [XML](/news/2012/07/14/italian-and-french-rescue-crews-recover-the-bodies-of-two-climbers-on-mont-blanc-in-the-alps-two-days-following-an-avalanche-that-swept-awa.xml)  
+
 ### [2012-07-14](/news/2012/07/14/index.md)
 
+##### Italy
 # Italian and French rescue crews recover the bodies of two climbers on Mont Blanc in the Alps, two days following an avalanche that swept away nine climbers. 
 
+Rescue crews in Italy and France say two more climbers have died on Mont Blanc in the Alps following the deaths of nine people last week.
 
 
+### Sources:
 
-### Source:
-
-1. [AP via ''USA Today](http://www.usatoday.com/news/world/story/2012-07-15/alps-deaths/56233346/1)
+1. [AP via ''USA Today](https://www.usatoday.com/news/world/story/2012-07-15/alps-deaths/56233346/1)
+1. [Cover Image](http://i.usatoday.net/news/_photos/2012/07/15/2-more-deaths-in-Alps-friends-sought-help-IU1S5KUN-x.jpg)
 
 ### Related:
 

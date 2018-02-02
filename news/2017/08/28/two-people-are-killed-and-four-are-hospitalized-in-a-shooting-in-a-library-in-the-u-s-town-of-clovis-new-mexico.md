@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/28/two-people-are-killed-and-four-are-hospitalized
 
 ### [2017-08-28](/news/2017/08/28/index.md)
 
+##### Crime in New Mexico
 # Two people are killed and four are hospitalized in a shooting in a library in the U.S. town of Clovis, New Mexico. 
 
 A teenager who killed two people and wounded four others in a shooting at a small-town New Mexico library had a troubled past but appeared to have turned his life around after joining a local church, his pastor said Tuesday.

@@ -1,25 +1,29 @@
+
+Formats: [HTML](/news/2014/03/18/the-united-states-expels-all-syrian-diplomats-and-closes-the-syrian-embassy-in-washington-d-c.html)  [JSON](/news/2014/03/18/the-united-states-expels-all-syrian-diplomats-and-closes-the-syrian-embassy-in-washington-d-c.json)  [XML](/news/2014/03/18/the-united-states-expels-all-syrian-diplomats-and-closes-the-syrian-embassy-in-washington-d-c.xml)  
+
 ### [2014-03-18](/news/2014/03/18/index.md)
 
+##### U.S.
 # The United States expels all Syrian diplomats and closes the Syrian embassy in Washington D.C. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/03/18/syria-crisis-usa-idUSL2N0MF0ZE20140318)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
-
-### Related:
-
-1. [Six teenagers, four males and two females, from a Burundi robotics team are reported missing after competing in the FIRST Global Robotics Competition in Washington, D.C. A 16-year-old boy and a 17-year old girl reportedly crossed the United States border into Canada. There is no indication of foul play. ](/news/2017/07/20/six-teenagers-four-males-and-two-females-from-a-burundi-robotics-team-are-reported-missing-after-competing-in-the-first-global-robotics-co.md) _Context: District of Columbia, United States_
-2. [In response to the annual military drills, North Korea threatens to destroy Seoul and Washington, D.C. through nuclear weapons if provoked. Both South Korea and the United States insist the drills are for defense. ](/news/2016/08/23/in-response-to-the-annual-military-drills-north-korea-threatens-to-destroy-seoul-and-washington-d-c-through-nuclear-weapons-if-provoked.md) _Context: District of Columbia, United States_
-3. [In the United States, 14 of 175 cars of a CSX freight train derail in northeastern Washington, D.C., near a city subway station. There were three leaks; one, sodium hydroxide, is a hazardous material. All leaks, and a nearby gas line that was ruptured, are contained. Officials are unable to say when cleanup will be completed nor when train service will be restored. There were no injuries reported, and there was no residential evacuation. Amtrak and a Baltimore-Washington commuter rail service also use the line. ](/news/2016/05/1/in-the-united-states-14-of-175-cars-of-a-csx-freight-train-derail-in-northeastern-washington-d-c-near-a-city-subway-station-there-were.md) _Context: District of Columbia, United States_
-4. [A group of United States mayors forms ""Mayors Against Discrimination"" in the wake of recent discriminatory laws enacted in North Carolina and Mississippi against LBGT individuals. The founding members are city leaders from Honolulu, New York City, Philadelphia, Portland, Oakland, San Francisco, Sante Fe, Seattle, Tampa, and Washington, D.C. ](/news/2016/04/8/a-group-of-united-states-mayors-forms-mayors-against-discrimination-in-the-wake-of-recent-discriminatory-laws-enacted-in-north-carolina.md) _Context: District of Columbia, United States_
-5. [ The Health Information Trust Alliance, a nonprofit industry group, warns that hospitals in the United States must prepare for more ransomware attacks. A review late last year of some 30 mid-sized U.S. hospitals found 52 percent were infected with malicious software. This week, an attack on MedStar Health forced the largest healthcare provider in the Washington, D.C. area, to shut down much of its computer network. ](/news/2016/04/3/the-health-information-trust-alliance-a-nonprofit-industry-group-warns-that-hospitals-in-the-united-states-must-prepare-for-more-ransomwa.md) _Context: District of Columbia, United States_
+1. [Reuters](https://www.reuters.com/article/2014/03/18/syria-crisis-usa-idUSL2N0MF0ZE20140318)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Changes:
 
 1. [United States-Syria relations:The United States expels all Syrian diplomats and closes the Syrian embassy in Washington D.C. ](/news/2014/03/18/united-states-syria-relations-pthe-united-states-expels-all-syrian-diplomats-and-closes-the-syrian-embassy-in-washington-d-c.md) _2017-08-25 03:40:11 (First version)_
 2. [United States-Syria relations:: The United States expels all Syrian diplomats and closes the Syrian embassy in Washington D.C. ](/news/2014/03/18/united-states-syria-relations-the-united-states-expels-all-syrian-diplomats-and-closes-the-syrian-embassy-in-washington-d-c.md) _2017-08-27 03:40:29 (Update)_
 2. [The United States expels all Syrian diplomats and closes the Syrian embassy in Washington D.C. ](/news/2014/03/18/the-united-states-expels-all-syrian-diplomats-and-closes-the-syrian-embassy-in-washington-d-c.md) _(Current version)_
+
+### Related:
+
+1. [Pope Francis arrives in the U.S. from his last stop in Cuba, Santiago de Cuba, at Joint Base Andrews (formerly, Andrews Air Force Base), near Washington D.C., to start his first tour of the United States. He is received by U.S. President Barack Obama, his wife, U.S. First Lady Michelle Obama, Malia and Sasha Obama, Marian Lois Robinson, U.S. Vice President Joseph R. Biden, his wife, U.S. Second Lady Dr. Jill Biden, two Biden granddaughters, the Apostolic Nuncio to the U.S. Archbishop Carlo Maria Vigano, military and base leaders, and Washington's Cardinal Donald Wuerl. He will be received tomorrow morning in a second arrival ceremony, at the White House, and will meet with the President there. ](/news/2015/09/22/pope-francis-arrives-in-the-u-s-from-his-last-stop-in-cuba-santiago-de-cuba-at-joint-base-andrews-formerly-andrews-air-force-base-nea.md) _Context: U.S., Washington D.C._
+2. [The United States commemorates the anniversary of the September 11 attacks with events in New York City, the Pentagon Memorial in Washington D.C. and in Shanksville, Pennsylvania, near where United Airlines Flight 93 crashed. ](/news/2010/09/11/the-united-states-commemorates-the-anniversary-of-the-september-11-attacks-with-events-in-new-york-city-the-pentagon-memorial-in-washington.md) _Context: U.S., Washington D.C._
+3. [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md) _Context: U.S._
+4. [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md) _Context: U.S._
+5. [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md) _Context: U.S._

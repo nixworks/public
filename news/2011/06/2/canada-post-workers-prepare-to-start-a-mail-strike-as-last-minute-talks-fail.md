@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/2/canada-post-workers-prepare-to-start-a-mail-strike-as-last-minute-talks-fail.html)  [JSON](/news/2011/06/2/canada-post-workers-prepare-to-start-a-mail-strike-as-last-minute-talks-fail.json)  [XML](/news/2011/06/2/canada-post-workers-prepare-to-start-a-mail-strike-as-last-minute-talks-fail.xml)  
+
 ### [2011-06-2](/news/2011/06/2/index.md)
 
+##### Canada Post
 # Canada Post workers prepare to start a mail strike as last minute talks fail. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/story/2011/06/01/canada-post.html)
 

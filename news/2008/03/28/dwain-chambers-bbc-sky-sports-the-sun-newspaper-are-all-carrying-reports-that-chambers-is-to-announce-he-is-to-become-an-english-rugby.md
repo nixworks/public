@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/28/dwain-chambers-bbc-sky-sports-the-sun-newspaper-are-all-carrying-reports-that-chambers-is-to-announce-he-is-to-become-an-english-rugby.html)  [JSON](/news/2008/03/28/dwain-chambers-bbc-sky-sports-the-sun-newspaper-are-all-carrying-reports-that-chambers-is-to-announce-he-is-to-become-an-english-rugby.json)  [XML](/news/2008/03/28/dwain-chambers-bbc-sky-sports-the-sun-newspaper-are-all-carrying-reports-that-chambers-is-to-announce-he-is-to-become-an-english-rugby.xml)  
+
 ### [2008-03-28](/news/2008/03/28/index.md)
 
+##### Dwain Chambers
 #  Dwain Chambers: BBC, Sky Sports & The Sun newspaper are all carrying reports that Chambers is to announce he is to become an English rugby league player with Castleford Tigers. Chambers was previously an athlete and American Football player. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/sport1/hi/rugby_league/super_league/castleford/7319868.stm)
 

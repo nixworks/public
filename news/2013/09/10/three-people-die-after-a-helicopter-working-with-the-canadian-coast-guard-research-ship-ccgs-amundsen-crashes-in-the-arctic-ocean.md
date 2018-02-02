@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/10/three-people-die-after-a-helicopter-working-with-the-canadian-coast-guard-research-ship-ccgs-amundsen-crashes-in-the-arctic-ocean.html)  [JSON](/news/2013/09/10/three-people-die-after-a-helicopter-working-with-the-canadian-coast-guard-research-ship-ccgs-amundsen-crashes-in-the-arctic-ocean.json)  [XML](/news/2013/09/10/three-people-die-after-a-helicopter-working-with-the-canadian-coast-guard-research-ship-ccgs-amundsen-crashes-in-the-arctic-ocean.xml)  
+
 ### [2013-09-10](/news/2013/09/10/index.md)
 
+##### helicopter
 # Three people die after a helicopter working with the Canadian Coast Guard research ship CCGS "Amundsen" crashes in the Arctic Ocean. 
 
 A Canadian Coast Guard helicopter crashed into the Arctic Ocean Monday, killing all three people on board.
 
 
-### Source:
+### Sources:
 
 1. [CTV News](http://www.ctvnews.ca/canada/3-dead-after-chopper-working-in-arctic-with-coast-guard-crashes-1.1448050)
 1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1449349.1378867252!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)

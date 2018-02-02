@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/30/morocco-and-the-polisario-front-agree-to-united-nations-sponsored-talks-about-the-future-of-western-sahara.html)  [JSON](/news/2007/04/30/morocco-and-the-polisario-front-agree-to-united-nations-sponsored-talks-about-the-future-of-western-sahara.json)  [XML](/news/2007/04/30/morocco-and-the-polisario-front-agree-to-united-nations-sponsored-talks-about-the-future-of-western-sahara.xml)  
+
 ### [2007-04-30](/news/2007/04/30/index.md)
 
+##### Morocco
 #  Morocco and the Polisario Front agree to United Nations sponsored talks about the future of Western Sahara. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6610191.stm)
 

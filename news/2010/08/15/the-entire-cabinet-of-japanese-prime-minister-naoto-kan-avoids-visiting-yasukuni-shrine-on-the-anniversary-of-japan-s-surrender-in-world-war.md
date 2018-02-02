@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/15/the-entire-cabinet-of-japanese-prime-minister-naoto-kan-avoids-visiting-yasukuni-shrine-on-the-anniversary-of-japan-s-surrender-in-world-war.html)  [JSON](/news/2010/08/15/the-entire-cabinet-of-japanese-prime-minister-naoto-kan-avoids-visiting-yasukuni-shrine-on-the-anniversary-of-japan-s-surrender-in-world-war.json)  [XML](/news/2010/08/15/the-entire-cabinet-of-japanese-prime-minister-naoto-kan-avoids-visiting-yasukuni-shrine-on-the-anniversary-of-japan-s-surrender-in-world-war.xml)  
+
 ### [2010-08-15](/news/2010/08/15/index.md)
 
+##### Cabinet of Japan
 # The entire cabinet of Japanese Prime Minister Naoto Kan avoids visiting Yasukuni Shrine on the anniversary of Japan's surrender in World War II. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jFD4LbJ-QVq-8_zG-lgt2B9cmRlwD9HJNGCO0)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10978571)

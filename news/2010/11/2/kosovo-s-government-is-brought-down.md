@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/2/kosovo-s-government-is-brought-down.html)  [JSON](/news/2010/11/2/kosovo-s-government-is-brought-down.json)  [XML](/news/2010/11/2/kosovo-s-government-is-brought-down.xml)  
+
 ### [2010-11-2](/news/2010/11/2/index.md)
 
+##### Kosovo
 # Kosovo's government is brought down. 
 
 The Kosovan government has been brought down by a vote of no-confidence less than three years after Kosovo declared itself independent.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11677809)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

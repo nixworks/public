@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/4/the-venezuelan-government-announces-that-president-hugo-cha-vez-is-being-treated-for-a-respiratory-deficiency-after-complications-from-a-s.html)  [JSON](/news/2013/01/4/the-venezuelan-government-announces-that-president-hugo-cha-vez-is-being-treated-for-a-respiratory-deficiency-after-complications-from-a-s.json)  [XML](/news/2013/01/4/the-venezuelan-government-announces-that-president-hugo-cha-vez-is-being-treated-for-a-respiratory-deficiency-after-complications-from-a-s.xml)  
+
 ### [2013-01-4](/news/2013/01/4/index.md)
 
+##### Venezuela
 # The Venezuelan government announces that president Hugo Chavez is being treated for a "respiratory deficiency" after complications from a severe lung infection. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/01/20131445634382974.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/1/4/2013145123334734_20.jpg)

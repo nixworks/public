@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/28/italian-officials-evacuate-a-newly-built-hospital-in-agrigento-in-western-sicily-after-tests-show-it-risked-collapse-in-an-earthquake.html)  [JSON](/news/2009/07/28/italian-officials-evacuate-a-newly-built-hospital-in-agrigento-in-western-sicily-after-tests-show-it-risked-collapse-in-an-earthquake.json)  [XML](/news/2009/07/28/italian-officials-evacuate-a-newly-built-hospital-in-agrigento-in-western-sicily-after-tests-show-it-risked-collapse-in-an-earthquake.xml)  
+
 ### [2009-07-28](/news/2009/07/28/index.md)
 
+##### Italy
 #  Italian officials evacuate a newly built hospital in Agrigento in western Sicily after tests show it risked collapse in an earthquake. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8173680.stm)
 

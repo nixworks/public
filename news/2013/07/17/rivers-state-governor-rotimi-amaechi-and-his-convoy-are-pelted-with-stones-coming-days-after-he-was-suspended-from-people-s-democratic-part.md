@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/17/rivers-state-governor-rotimi-amaechi-and-his-convoy-are-pelted-with-stones-coming-days-after-he-was-suspended-from-people-s-democratic-part.html)  [JSON](/news/2013/07/17/rivers-state-governor-rotimi-amaechi-and-his-convoy-are-pelted-with-stones-coming-days-after-he-was-suspended-from-people-s-democratic-part.json)  [XML](/news/2013/07/17/rivers-state-governor-rotimi-amaechi-and-his-convoy-are-pelted-with-stones-coming-days-after-he-was-suspended-from-people-s-democratic-part.xml)  
+
 ### [2013-07-17](/news/2013/07/17/index.md)
 
+##### Rivers State
 # Rivers State governor Rotimi Amaechi and his convoy are pelted with stones, coming days after he was suspended from People's Democratic Party, allegedly for lodging his opposition against Goodluck Jonathan. 
 
 Powerful Nigerian governor Rotimi Amaechi, who recently fell out with the president, and four of his northern counterparts are pelted with stones by opponents.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-23340663)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67836000/jpg/_67836581_67836580.jpg)

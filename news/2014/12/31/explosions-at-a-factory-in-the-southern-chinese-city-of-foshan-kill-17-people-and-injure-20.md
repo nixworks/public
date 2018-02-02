@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/12/31/explosions-at-a-factory-in-the-southern-chinese-city-of-foshan-kill-17-people-and-injure-20.html)  [JSON](/news/2014/12/31/explosions-at-a-factory-in-the-southern-chinese-city-of-foshan-kill-17-people-and-injure-20.json)  [XML](/news/2014/12/31/explosions-at-a-factory-in-the-southern-chinese-city-of-foshan-kill-17-people-and-injure-20.xml)  
+
 ### [2014-12-31](/news/2014/12/31/index.md)
 
+##### Foshan
 # Explosions at a factory in the southern Chinese city of Foshan kill 17 people and injure 20. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/12/31/us-china-blast-punishment-idUSKBN0K903520141231)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20141231&t=2&i=1009487206&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEABU046)
+1. [Reuters](https://www.reuters.com/article/2014/12/31/us-china-blast-punishment-idUSKBN0K903520141231)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20141231&t=2&i=1009487206&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEABU046)
 
 ### Related:
 

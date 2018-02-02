@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/16/tens-of-thousands-of-refugees-are-homeless-in-the-western-sahara-after-rains-wiped-out-their-shelters.html)  [JSON](/news/2006/02/16/tens-of-thousands-of-refugees-are-homeless-in-the-western-sahara-after-rains-wiped-out-their-shelters.json)  [XML](/news/2006/02/16/tens-of-thousands-of-refugees-are-homeless-in-the-western-sahara-after-rains-wiped-out-their-shelters.xml)  
+
 ### [2006-02-16](/news/2006/02/16/index.md)
 
+##### refugees
 #  Tens of thousands of refugees are homeless in the Western Sahara after rains wiped out their shelters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica.com](http://allafrica.com/stories/200602160180.html)
 

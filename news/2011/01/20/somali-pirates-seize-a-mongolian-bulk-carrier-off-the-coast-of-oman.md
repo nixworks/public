@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/20/somali-pirates-seize-a-mongolian-bulk-carrier-off-the-coast-of-oman.html)  [JSON](/news/2011/01/20/somali-pirates-seize-a-mongolian-bulk-carrier-off-the-coast-of-oman.json)  [XML](/news/2011/01/20/somali-pirates-seize-a-mongolian-bulk-carrier-off-the-coast-of-oman.xml)  
+
 ### [2011-01-20](/news/2011/01/20/index.md)
 
+##### Somali pirates
 # Somali pirates seize a Mongolian bulk carrier off the coast of Oman. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE70J0DY20110120)
 

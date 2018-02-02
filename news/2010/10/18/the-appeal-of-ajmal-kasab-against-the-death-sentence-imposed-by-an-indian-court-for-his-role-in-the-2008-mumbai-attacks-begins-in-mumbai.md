@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/18/the-appeal-of-ajmal-kasab-against-the-death-sentence-imposed-by-an-indian-court-for-his-role-in-the-2008-mumbai-attacks-begins-in-mumbai.html)  [JSON](/news/2010/10/18/the-appeal-of-ajmal-kasab-against-the-death-sentence-imposed-by-an-indian-court-for-his-role-in-the-2008-mumbai-attacks-begins-in-mumbai.json)  [XML](/news/2010/10/18/the-appeal-of-ajmal-kasab-against-the-death-sentence-imposed-by-an-indian-court-for-his-role-in-the-2008-mumbai-attacks-begins-in-mumbai.xml)  
+
 ### [2010-10-18](/news/2010/10/18/index.md)
 
+##### Ajmal Kasab
 # The appeal of Ajmal Kasab against the death sentence imposed by an Indian court for his role in the 2008 Mumbai attacks begins in Mumbai. 
 
 The sole surviving gunman of the 2008 Mumbai attacks is launching an appeal against his death sentence.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-south-asia-11563003)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

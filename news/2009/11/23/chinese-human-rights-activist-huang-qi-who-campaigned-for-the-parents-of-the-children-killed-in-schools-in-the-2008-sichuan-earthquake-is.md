@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/23/chinese-human-rights-activist-huang-qi-who-campaigned-for-the-parents-of-the-children-killed-in-schools-in-the-2008-sichuan-earthquake-is.html)  [JSON](/news/2009/11/23/chinese-human-rights-activist-huang-qi-who-campaigned-for-the-parents-of-the-children-killed-in-schools-in-the-2008-sichuan-earthquake-is.json)  [XML](/news/2009/11/23/chinese-human-rights-activist-huang-qi-who-campaigned-for-the-parents-of-the-children-killed-in-schools-in-the-2008-sichuan-earthquake-is.xml)  
+
 ### [2009-11-23](/news/2009/11/23/index.md)
 
+##### China
 #  Chinese human rights activist Huang Qi, who campaigned for the parents of the children killed in schools in the 2008 Sichuan earthquake, is sentenced to three years in prison for "illegally holding state secrets". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jouJ1bQD5KIreC7T-zKPnekGp_KQ)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8373573.stm)

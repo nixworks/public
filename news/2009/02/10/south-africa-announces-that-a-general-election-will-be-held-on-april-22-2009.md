@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/10/south-africa-announces-that-a-general-election-will-be-held-on-april-22-2009.html)  [JSON](/news/2009/02/10/south-africa-announces-that-a-general-election-will-be-held-on-april-22-2009.json)  [XML](/news/2009/02/10/south-africa-announces-that-a-general-election-will-be-held-on-april-22-2009.xml)  
+
 ### [2009-02-10](/news/2009/02/10/index.md)
 
+##### loses
 #  South Africa announces that a general election will be held on April 22, 2009. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/africa/02/10/south.africa.elections/)
 

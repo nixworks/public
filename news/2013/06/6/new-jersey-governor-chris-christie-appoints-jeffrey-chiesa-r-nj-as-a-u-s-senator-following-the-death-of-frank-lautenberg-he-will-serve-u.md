@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/6/new-jersey-governor-chris-christie-appoints-jeffrey-chiesa-r-nj-as-a-u-s-senator-following-the-death-of-frank-lautenberg-he-will-serve-u.html)  [JSON](/news/2013/06/6/new-jersey-governor-chris-christie-appoints-jeffrey-chiesa-r-nj-as-a-u-s-senator-following-the-death-of-frank-lautenberg-he-will-serve-u.json)  [XML](/news/2013/06/6/new-jersey-governor-chris-christie-appoints-jeffrey-chiesa-r-nj-as-a-u-s-senator-following-the-death-of-frank-lautenberg-he-will-serve-u.xml)  
+
 ### [2013-06-6](/news/2013/06/6/index.md)
 
+##### New Jersey
 # New Jersey Governor Chris Christie appoints Jeffrey Chiesa (R-NJ) as a U.S. Senator following the death of Frank Lautenberg. He will serve until a special election is held later this year. 
 
 New Jersey Gov. Chris Christie announced Thursday he will appoint the state&rsquo;s Republican attorney general Jeffrey Chiesa to serve as an interim senator to succeed the late Sen. Frank Lautenberg. Chiesa, a longtime Christie aide and former feder
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://firstread.nbcnews.com/_news/2013/06/06/18803535-christie-selects-new-jersey-ag-to-fill-senate-vacancy?lite)
 1. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/f_chrste_ltnbrgsus_130606.vmodv4.jpg)

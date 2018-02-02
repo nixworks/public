@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/5/a-suicide-bombing-in-the-northeastern-nigerian-city-of-damaturu-kills-at-least-five-soldiers.html)  [JSON](/news/2012/08/5/a-suicide-bombing-in-the-northeastern-nigerian-city-of-damaturu-kills-at-least-five-soldiers.json)  [XML](/news/2012/08/5/a-suicide-bombing-in-the-northeastern-nigerian-city-of-damaturu-kills-at-least-five-soldiers.xml)  
+
 ### [2012-08-5](/news/2012/08/5/index.md)
 
+##### suicide bombing
 # A suicide bombing in the northeastern Nigerian city of Damaturu kills at least five soldiers. 
 
 A suicide bomber in the north-eastern Nigerian city of Damaturu has killed at least six soldiers and two civilians, police say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19140828)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60960000/gif/_60960574_nigeria_zaria_06_12.gif)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/14/authorities-in-jammu-and-kashmir-impose-a-curfe
 
 ### [2016-04-14](/news/2016/04/14/index.md)
 
+##### Jammu and Kashmir
 # Authorities in Jammu and Kashmir impose a curfew around the capital of Srinagar, Handwara, and neighbouring villages as protests turn violent. People began to protest last Tuesday when allegations were circulated by residents in Handwara that an Indian Army soldier tried to sexually assault a teenage schoolgirl. 
 
 Seventy-year old woman latest to die as protesters face off with police for a second day in Indian-administered Kashmir.

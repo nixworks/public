@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/27/justin-cannon-a-former-blackwater-worldwide-now-called-xe-services-llc-employee-is-sentenced-to-thirty-months-in-jail-for-involuntary-ma.html)  [JSON](/news/2011/06/27/justin-cannon-a-former-blackwater-worldwide-now-called-xe-services-llc-employee-is-sentenced-to-thirty-months-in-jail-for-involuntary-ma.json)  [XML](/news/2011/06/27/justin-cannon-a-former-blackwater-worldwide-now-called-xe-services-llc-employee-is-sentenced-to-thirty-months-in-jail-for-involuntary-ma.xml)  
+
 ### [2011-06-27](/news/2011/06/27/index.md)
 
+##### Blackwater Worldwide
 # Justin Cannon, a former Blackwater Worldwide (now called Xe Services LLC) employee, is sentenced to thirty months in jail for involuntary manslaughter of an Afghan civilian in a shooting in 2009. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Virginian Pilot](http://hamptonroads.com/2011/06/2nd-exblackwater-worker-gets-30-months-manslaughter)
 

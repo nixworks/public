@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/29/president-of-colombia-juan-manuel-santos-announces-the-death-of-pedro-guerrero-one-of-the-country-s-most-wanted-men-who-was-killed-in-a-gun.html)  [JSON](/news/2010/12/29/president-of-colombia-juan-manuel-santos-announces-the-death-of-pedro-guerrero-one-of-the-country-s-most-wanted-men-who-was-killed-in-a-gun.json)  [XML](/news/2010/12/29/president-of-colombia-juan-manuel-santos-announces-the-death-of-pedro-guerrero-one-of-the-country-s-most-wanted-men-who-was-killed-in-a-gun.xml)  
+
 ### [2010-12-29](/news/2010/12/29/index.md)
 
+##### Colombian President
 # President of Colombia Juan Manuel Santos announces the death of Pedro Guerrero, one of the country's most wanted men who was killed in a gunbattle with police while he celebrated Christmas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12087873)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

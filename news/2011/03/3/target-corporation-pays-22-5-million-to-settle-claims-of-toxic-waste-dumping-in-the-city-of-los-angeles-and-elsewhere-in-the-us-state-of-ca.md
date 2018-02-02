@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/3/target-corporation-pays-22-5-million-to-settle-claims-of-toxic-waste-dumping-in-the-city-of-los-angeles-and-elsewhere-in-the-us-state-of-ca.html)  [JSON](/news/2011/03/3/target-corporation-pays-22-5-million-to-settle-claims-of-toxic-waste-dumping-in-the-city-of-los-angeles-and-elsewhere-in-the-us-state-of-ca.json)  [XML](/news/2011/03/3/target-corporation-pays-22-5-million-to-settle-claims-of-toxic-waste-dumping-in-the-city-of-los-angeles-and-elsewhere-in-the-us-state-of-ca.xml)  
+
 ### [2011-03-3](/news/2011/03/3/index.md)
 
+##### Target Corporation
 # Target Corporation pays $22.5 million to settle claims of toxic waste dumping in the city of Los Angeles and elsewhere in the US state of California. 
 
 Target Corp. will pay $22.5 million to settle claims that it illegally dumped toxic waste in California.
 
 
-### Source:
+### Sources:
 
 1. [NBC Los Angeles](http://www.nbclosangeles.com/news/local/Target-to-Pay-225-Million-to-Settle-Toxic-Waists-Dumping-Claims-117367493.html)
 1. [Cover Image](http://media.nbclosangeles.com/images/1200*675/Investigation+Photo1+copy1.jpg)

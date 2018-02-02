@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/21/fifteen-egyptian-army-soldiers-are-killed-and-another-injured-after-their-bus-crashes-into-a-truck-on-a-highway-on-the-mediterranean-coast.html)  [JSON](/news/2013/07/21/fifteen-egyptian-army-soldiers-are-killed-and-another-injured-after-their-bus-crashes-into-a-truck-on-a-highway-on-the-mediterranean-coast.json)  [XML](/news/2013/07/21/fifteen-egyptian-army-soldiers-are-killed-and-another-injured-after-their-bus-crashes-into-a-truck-on-a-highway-on-the-mediterranean-coast.xml)  
+
 ### [2013-07-21](/news/2013/07/21/index.md)
 
+##### Egyptian Army
 # Fifteen Egyptian Army soldiers are killed and another injured after their bus crashes into a truck on a highway on the Mediterranean coast. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Montreal Gazette](http://www.montrealgazette.com/news/world/Egyptian+soldiers+killed+when+their+crashes+into+truck/8688288/story.html)
 

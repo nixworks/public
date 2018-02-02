@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/22/the-international-atomic-energy-agency-states-that-iran-has-denied-inspectors-access-to-the-parchin-military-site-where-it-believes-that-sus.html)  [JSON](/news/2012/02/22/the-international-atomic-energy-agency-states-that-iran-has-denied-inspectors-access-to-the-parchin-military-site-where-it-believes-that-sus.json)  [XML](/news/2012/02/22/the-international-atomic-energy-agency-states-that-iran-has-denied-inspectors-access-to-the-parchin-military-site-where-it-believes-that-sus.xml)  
+
 ### [2012-02-22](/news/2012/02/22/index.md)
 
+##### IAEA
 # The International Atomic Energy Agency states that Iran has denied inspectors access to the Parchin military site where it believes that suspicious nuclear activities may be taking place. 
 
 IAEA head says Tehran refused to allow its inspectors to visit the Parchin weapons development complex.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/02/201222202920481596.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/2/22/201222211335631734_20.jpg)

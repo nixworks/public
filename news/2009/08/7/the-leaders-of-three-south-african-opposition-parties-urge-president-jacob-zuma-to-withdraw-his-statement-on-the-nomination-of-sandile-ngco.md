@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/7/the-leaders-of-three-south-african-opposition-parties-urge-president-jacob-zuma-to-withdraw-his-statement-on-the-nomination-of-sandile-ngco.html)  [JSON](/news/2009/08/7/the-leaders-of-three-south-african-opposition-parties-urge-president-jacob-zuma-to-withdraw-his-statement-on-the-nomination-of-sandile-ngco.json)  [XML](/news/2009/08/7/the-leaders-of-three-south-african-opposition-parties-urge-president-jacob-zuma-to-withdraw-his-statement-on-the-nomination-of-sandile-ngco.xml)  
+
 ### [2009-08-7](/news/2009/08/7/index.md)
 
+##### South Africa
 #  The leaders of three South African opposition parties urge President Jacob Zuma to withdraw his statement on the nomination of Sandile Ngcobo to replace outgoing Chief Justice Pius Langa, calling it "unconstitutional". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=13&art_id=nw20090807153123971C665735)
 

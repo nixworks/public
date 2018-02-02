@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/02/14/vodafone-s-chief-executive-arun-sarin-says-the-company-will-spend-us-2-billion-to-enhance-its-investments-in-india.html)  [JSON](/news/2007/02/14/vodafone-s-chief-executive-arun-sarin-says-the-company-will-spend-us-2-billion-to-enhance-its-investments-in-india.json)  [XML](/news/2007/02/14/vodafone-s-chief-executive-arun-sarin-says-the-company-will-spend-us-2-billion-to-enhance-its-investments-in-india.xml)  
+
 ### [2007-02-14](/news/2007/02/14/index.md)
 
+##### Vodafone Group Plc
 #  Vodafone's Chief Executive, Arun Sarin, says the company will spend US$2 billion to enhance its investments in India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BusinessWeek](http://www.businessweek.com/ap/financialnews/D8N9ICO02.htm)
-2. [Forbes](http://www.forbes.com/feeds/ap/2007/02/14/ap3426203.html)
+2. [Forbes](https://www.forbes.com/feeds/ap/2007/02/14/ap3426203.html)
 
 ### Related:
 

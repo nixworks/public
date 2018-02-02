@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/10/thailand-s-ousted-prime-minister-thaksin-shinawatra-arrives-in-cambodia-to-take-up-his-new-appointment-as-economic-adviser-to-the-cambodian.html)  [JSON](/news/2009/11/10/thailand-s-ousted-prime-minister-thaksin-shinawatra-arrives-in-cambodia-to-take-up-his-new-appointment-as-economic-adviser-to-the-cambodian.json)  [XML](/news/2009/11/10/thailand-s-ousted-prime-minister-thaksin-shinawatra-arrives-in-cambodia-to-take-up-his-new-appointment-as-economic-adviser-to-the-cambodian.xml)  
+
 ### [2009-11-10](/news/2009/11/10/index.md)
 
+##### Thailand
 #  Thailand's ousted Prime Minister Thaksin Shinawatra arrives in Cambodia to take up his new appointment as economic adviser to the Cambodian government. 
 
 Former Thai PM stirs up diplomatic tensions as he takes up government advisory role.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2009/11/10/2738876.htm?section=justin)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/11/2009111035244522763.html)

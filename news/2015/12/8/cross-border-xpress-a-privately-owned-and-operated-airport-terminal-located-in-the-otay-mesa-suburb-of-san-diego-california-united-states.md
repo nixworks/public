@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2015/12/8/cross-border-xpress-a-privately-owned-and-operated-airport-terminal-located-in-the-otay-mesa-suburb-of-san-diego-california-united-states.html)  [JSON](/news/2015/12/8/cross-border-xpress-a-privately-owned-and-operated-airport-terminal-located-in-the-otay-mesa-suburb-of-san-diego-california-united-states.json)  [XML](/news/2015/12/8/cross-border-xpress-a-privately-owned-and-operated-airport-terminal-located-in-the-otay-mesa-suburb-of-san-diego-california-united-states.xml)  
+
 ### [2015-12-8](/news/2015/12/8/index.md)
 
+##### Cross Border Xpress
 # Cross Border Xpress, a privately owned and operated airport terminal located in the Otay Mesa suburb of San Diego, California, United States, will open tomorrow with a connecting walkway to Tijuana International Airport in Tijuana, Baja California, Mexico. This facility, the final step of a project first proposed in the early 1990s, will be just the second cross-border airport in the world. U.S. Customs will operate a checkpoint on the bridge for those entering the country. 
 
-Sleek terminal in San Diego has bridge over razor-wire border fence to Tijuana&#39;s old airport.
+A purple pedestrian bridge between two terminals that link Tijuana International Airport and San Diego over the U.S.-Mexico border opened to passengers Wednesday morning.
 
 
-### Source:
+### Sources:
 
 1. [AP Q&A via ''San Francisco Chronicle](http://www.sfchronicle.com/news/us/article/Questions-and-answers-about-cross-border-airport-6681280.php)
-2. [AP via USA Today](http://www.usatoday.com/story/travel/flights/todayinthesky/2015/12/07/californias-newest-airport-terminal-extends-mexico/76911984/)
+2. [AP via USA Today](https://www.usatoday.com/story/travel/flights/todayinthesky/2015/12/07/californias-newest-airport-terminal-extends-mexico/76911984/)
 3. [Los Angeles Times](http://www.latimes.com/travel/california/la-trb-tijuana-airport-bridge-to-san-diego-20151207-story.html)
-3. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
+3. [Cover Image](http://www.trbimg.com/img-566619e0/turbine/la-trb-tijuana-airport-bridge-to-san-diego-20151207)
 
 ### Related:
 

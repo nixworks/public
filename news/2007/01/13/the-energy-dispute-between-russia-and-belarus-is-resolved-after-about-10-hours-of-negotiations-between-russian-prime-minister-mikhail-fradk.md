@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/13/the-energy-dispute-between-russia-and-belarus-is-resolved-after-about-10-hours-of-negotiations-between-russian-prime-minister-mikhail-fradk.html)  [JSON](/news/2007/01/13/the-energy-dispute-between-russia-and-belarus-is-resolved-after-about-10-hours-of-negotiations-between-russian-prime-minister-mikhail-fradk.json)  [XML](/news/2007/01/13/the-energy-dispute-between-russia-and-belarus-is-resolved-after-about-10-hours-of-negotiations-between-russian-prime-minister-mikhail-fradk.xml)  
+
 ### [2007-01-13](/news/2007/01/13/index.md)
 
+##### energy dispute
 #  The energy dispute between Russia and Belarus is resolved after about 10 hours of negotiations between Russian Prime Minister Mikhail Fradkov and his Belarusian counterpart, Sergey Sidorsky. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/6257745.stm)
 

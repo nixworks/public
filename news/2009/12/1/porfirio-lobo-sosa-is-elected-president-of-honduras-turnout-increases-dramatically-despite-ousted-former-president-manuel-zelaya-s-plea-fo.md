@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/1/porfirio-lobo-sosa-is-elected-president-of-honduras-turnout-increases-dramatically-despite-ousted-former-president-manuel-zelaya-s-plea-fo.html)  [JSON](/news/2009/12/1/porfirio-lobo-sosa-is-elected-president-of-honduras-turnout-increases-dramatically-despite-ousted-former-president-manuel-zelaya-s-plea-fo.json)  [XML](/news/2009/12/1/porfirio-lobo-sosa-is-elected-president-of-honduras-turnout-increases-dramatically-despite-ousted-former-president-manuel-zelaya-s-plea-fo.xml)  
+
 ### [2009-12-1](/news/2009/12/1/index.md)
 
+##### Porfirio Lobo Sosa
 #  Porfirio Lobo Sosa is elected President of Honduras. Turnout increases dramatically despite ousted former President Manuel Zelaya's plea for a boycott. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Huffington Post](http://www.huffingtonpost.com/2009/11/30/porfirio-lobo-elected-pre_n_373552.html)
 

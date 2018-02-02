@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/8/in-tennis-rafael-nadal-wins-the-men-s-singles-title-at-the-2008-french-open-for-the-fourth-year-in-a-row-equalling-bjorn-borg-s-record.html)  [JSON](/news/2008/06/8/in-tennis-rafael-nadal-wins-the-men-s-singles-title-at-the-2008-french-open-for-the-fourth-year-in-a-row-equalling-bjorn-borg-s-record.json)  [XML](/news/2008/06/8/in-tennis-rafael-nadal-wins-the-men-s-singles-title-at-the-2008-french-open-for-the-fourth-year-in-a-row-equalling-bjorn-borg-s-record.xml)  
+
 ### [2008-06-8](/news/2008/06/8/index.md)
 
+##### Rafael Nadal
 #  In tennis, Rafael Nadal wins the men's singles title at the 2008 French Open for the fourth year in a row, equalling Bjorn Borg's record. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/sport1/hi/tennis/7441733.stm)
 

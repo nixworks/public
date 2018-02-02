@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/2/the-united-nations-orders-israel-to-stop-evicting-palestinians-from-east-jerusalem.html)  [JSON](/news/2009/05/2/the-united-nations-orders-israel-to-stop-evicting-palestinians-from-east-jerusalem.json)  [XML](/news/2009/05/2/the-united-nations-orders-israel-to-stop-evicting-palestinians-from-east-jerusalem.xml)  
+
 ### [2009-05-2](/news/2009/05/2/index.md)
 
+##### United Nations
 #  The United Nations orders Israel to stop evicting Palestinians from East Jerusalem. 
 
 Israel must freeze all pending east Jerusalem home demolitions, UN report says.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/05/20095113927141744.html)
 1. [Cover Image](http://www.aljazeera.com)

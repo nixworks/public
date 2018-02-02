@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/11/donald-trump-postpones-a-rally-at-the-universit
 
 ### [2016-03-11](/news/2016/03/11/index.md)
 
+##### 2016 U.S. presidential election
 # Donald Trump postpones a rally at the University of Illinois at Chicago due to security issues amid fights between protestors and supporters. Five people are arrested, and two officers injured, according to Chicago police. 
 
 Thousands of protesters force Republican presidential candidate Donald Trump to cancel a campaign rally in Chicago over security concerns.

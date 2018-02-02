@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/20/china-s-state-backed-church-appoints-a-bishop-without-the-approval-of-pope-benedict-xvi.html)  [JSON](/news/2010/11/20/china-s-state-backed-church-appoints-a-bishop-without-the-approval-of-pope-benedict-xvi.json)  [XML](/news/2010/11/20/china-s-state-backed-church-appoints-a-bishop-without-the-approval-of-pope-benedict-xvi.xml)  
+
 ### [2010-11-20](/news/2010/11/20/index.md)
 
+##### China
 # China's state-backed church appoints a bishop without the approval of Pope Benedict XVI. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11802821)
 2. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1438515&lang=eng_news)

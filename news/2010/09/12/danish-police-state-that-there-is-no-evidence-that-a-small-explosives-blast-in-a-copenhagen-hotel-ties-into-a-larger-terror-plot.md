@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/12/danish-police-state-that-there-is-no-evidence-that-a-small-explosives-blast-in-a-copenhagen-hotel-ties-into-a-larger-terror-plot.html)  [JSON](/news/2010/09/12/danish-police-state-that-there-is-no-evidence-that-a-small-explosives-blast-in-a-copenhagen-hotel-ties-into-a-larger-terror-plot.json)  [XML](/news/2010/09/12/danish-police-state-that-there-is-no-evidence-that-a-small-explosives-blast-in-a-copenhagen-hotel-ties-into-a-larger-terror-plot.xml)  
+
 ### [2010-09-12](/news/2010/09/12/index.md)
 
+##### Denmark
 # Danish police state that there is no evidence that a small explosives blast in a Copenhagen hotel ties into a larger terror plot. 
 
 Police say they have no information if man suspected of setting off blast in Copenhagen was part of bigger plot.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/09/201091213221416941.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/10/2010910164743842734_20.jpg)

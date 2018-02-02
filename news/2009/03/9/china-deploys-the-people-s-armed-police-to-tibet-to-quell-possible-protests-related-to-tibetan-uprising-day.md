@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/03/9/china-deploys-the-people-s-armed-police-to-tibet-to-quell-possible-protests-related-to-tibetan-uprising-day.html)  [JSON](/news/2009/03/9/china-deploys-the-people-s-armed-police-to-tibet-to-quell-possible-protests-related-to-tibetan-uprising-day.json)  [XML](/news/2009/03/9/china-deploys-the-people-s-armed-police-to-tibet-to-quell-possible-protests-related-to-tibetan-uprising-day.xml)  
+
 ### [2009-03-9](/news/2009/03/9/index.md)
 
+##### China
 #  China deploys the People's Armed Police to Tibet to quell possible protests related to Tibetan Uprising Day. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=atSlKaAyXIkQ&refer=home)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=atSlKaAyXIkQ&refer=home)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-03/09/content_10975566.htm)
 
 ### Related:

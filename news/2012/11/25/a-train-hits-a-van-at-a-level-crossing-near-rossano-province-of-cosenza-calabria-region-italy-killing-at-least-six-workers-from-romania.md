@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2012/11/25/a-train-hits-a-van-at-a-level-crossing-near-rossano-province-of-cosenza-calabria-region-italy-killing-at-least-six-workers-from-romania.html)  [JSON](/news/2012/11/25/a-train-hits-a-van-at-a-level-crossing-near-rossano-province-of-cosenza-calabria-region-italy-killing-at-least-six-workers-from-romania.json)  [XML](/news/2012/11/25/a-train-hits-a-van-at-a-level-crossing-near-rossano-province-of-cosenza-calabria-region-italy-killing-at-least-six-workers-from-romania.xml)  
+
 ### [2012-11-25](/news/2012/11/25/index.md)
 
+##### train
 # A train hits a van at a level crossing near Rossano, Province of Cosenza, Calabria region, Italy, killing at least six workers from Romania and Bulgaria. 
 
 A train hit a van in southern Italyon Saturday, killing at least six people, the Italian fireservice said on Saturday.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/11/24/world/europe/italy-train-deaths/)
-2. [Reuters](http://www.reuters.com/article/2012/11/24/italy-crash-idUSL5E8MO1CI20121124)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/2012/11/24/italy-crash-idUSL5E8MO1CI20121124)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

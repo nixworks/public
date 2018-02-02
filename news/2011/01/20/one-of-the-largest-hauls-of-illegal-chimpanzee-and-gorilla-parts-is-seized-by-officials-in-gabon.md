@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/20/one-of-the-largest-hauls-of-illegal-chimpanzee-and-gorilla-parts-is-seized-by-officials-in-gabon.html)  [JSON](/news/2011/01/20/one-of-the-largest-hauls-of-illegal-chimpanzee-and-gorilla-parts-is-seized-by-officials-in-gabon.json)  [XML](/news/2011/01/20/one-of-the-largest-hauls-of-illegal-chimpanzee-and-gorilla-parts-is-seized-by-officials-in-gabon.xml)  
+
 ### [2011-01-20](/news/2011/01/20/index.md)
 
+##### chimpanzee
 # One of the largest hauls of illegal chimpanzee and gorilla parts is seized by officials in Gabon. 
 
 One of the biggest hauls of illegal ape parts in Central Africa is seized by officials in Gabon, the global campaign group WWF says.
 
 
-### Source:
+### Sources:
 
 1. [Afrol News](http://www.afrol.com/articles/37122)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12238900)

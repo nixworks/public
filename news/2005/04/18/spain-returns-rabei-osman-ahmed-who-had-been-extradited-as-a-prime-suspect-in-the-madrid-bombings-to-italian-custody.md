@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/18/spain-returns-rabei-osman-ahmed-who-had-been-extradited-as-a-prime-suspect-in-the-madrid-bombings-to-italian-custody.html)  [JSON](/news/2005/04/18/spain-returns-rabei-osman-ahmed-who-had-been-extradited-as-a-prime-suspect-in-the-madrid-bombings-to-italian-custody.json)  [XML](/news/2005/04/18/spain-returns-rabei-osman-ahmed-who-had-been-extradited-as-a-prime-suspect-in-the-madrid-bombings-to-italian-custody.xml)  
+
 ### [2005-04-18](/news/2005/04/18/index.md)
 
+##### Rabei Osman Ahmed
 #  Spain returns Rabei Osman Ahmed, who had been extradited as a prime suspect in the Madrid bombings, to Italian custody. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4456411.stm)
 2. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L18619786.htm)

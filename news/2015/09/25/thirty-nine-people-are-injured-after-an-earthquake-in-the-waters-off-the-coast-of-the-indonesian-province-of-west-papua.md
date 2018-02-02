@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/25/thirty-nine-people-are-injured-after-an-earthquake-in-the-waters-off-the-coast-of-the-indonesian-province-of-west-papua.html)  [JSON](/news/2015/09/25/thirty-nine-people-are-injured-after-an-earthquake-in-the-waters-off-the-coast-of-the-indonesian-province-of-west-papua.json)  [XML](/news/2015/09/25/thirty-nine-people-are-injured-after-an-earthquake-in-the-waters-off-the-coast-of-the-indonesian-province-of-west-papua.xml)  
+
 ### [2015-09-25](/news/2015/09/25/index.md)
 
+##### Indonesia
 # Thirty-nine people are injured after an earthquake in the waters off the coast of the Indonesian province of West Papua. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New York Daily News](http://www.nydailynews.com/news/world/39-injured-earthquake-strikes-indonesia-article-1.2373938)
 

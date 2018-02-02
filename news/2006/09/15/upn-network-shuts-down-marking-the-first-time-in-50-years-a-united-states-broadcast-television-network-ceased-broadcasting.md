@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/09/15/upn-network-shuts-down-marking-the-first-time-in-50-years-a-united-states-broadcast-television-network-ceased-broadcasting.html)  [JSON](/news/2006/09/15/upn-network-shuts-down-marking-the-first-time-in-50-years-a-united-states-broadcast-television-network-ceased-broadcasting.json)  [XML](/news/2006/09/15/upn-network-shuts-down-marking-the-first-time-in-50-years-a-united-states-broadcast-television-network-ceased-broadcasting.xml)  
+
 ### [2006-09-15](/news/2006/09/15/index.md)
 
+##### UPN
 #  UPN network shuts down, marking the first time in 50 years a United States broadcast television network ceased broadcasting.
 
 

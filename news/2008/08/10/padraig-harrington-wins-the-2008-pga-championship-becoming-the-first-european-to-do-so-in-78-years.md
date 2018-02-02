@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/10/padraig-harrington-wins-the-2008-pga-championship-becoming-the-first-european-to-do-so-in-78-years.html)  [JSON](/news/2008/08/10/padraig-harrington-wins-the-2008-pga-championship-becoming-the-first-european-to-do-so-in-78-years.json)  [XML](/news/2008/08/10/padraig-harrington-wins-the-2008-pga-championship-becoming-the-first-european-to-do-so-in-78-years.xml)  
+
 ### [2008-08-10](/news/2008/08/10/index.md)
 
+##### Pdraig Harrington
 #  Pdraig Harrington wins the 2008 PGA Championship, becoming the first European to do so in 78 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5hiB5X8KLqc1R0ju_JfMJau3zC7NA)
 

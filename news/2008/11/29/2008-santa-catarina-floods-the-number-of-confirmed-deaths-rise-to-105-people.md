@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/29/2008-santa-catarina-floods-the-number-of-confirmed-deaths-rise-to-105-people.html)  [JSON](/news/2008/11/29/2008-santa-catarina-floods-the-number-of-confirmed-deaths-rise-to-105-people.json)  [XML](/news/2008/11/29/2008-santa-catarina-floods-the-number-of-confirmed-deaths-rise-to-105-people.xml)  
+
 ### [2008-11-29](/news/2008/11/29/index.md)
 
+##### 2008 Santa Catarina floods
 #  2008 Santa Catarina floods: The number of confirmed deaths rise to 105 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [G1](http://g1.globo.com/Noticias/Brasil/0,,MUL883128-5598,00.html)
 

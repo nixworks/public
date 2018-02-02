@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/23/english-american-actress-elizabeth-taylor-dies-at-the-age-of-79-in-los-angeles.html)  [JSON](/news/2011/03/23/english-american-actress-elizabeth-taylor-dies-at-the-age-of-79-in-los-angeles.json)  [XML](/news/2011/03/23/english-american-actress-elizabeth-taylor-dies-at-the-age-of-79-in-los-angeles.xml)  
+
 ### [2011-03-23](/news/2011/03/23/index.md)
 
+##### Elizabeth Taylor
 # English-American actress Elizabeth Taylor dies at the age of 79 in Los Angeles. 
 
 Check out our breaking stories on Hollywood?s hottest stars! Get the latest news on celebrity scandals, engagements, and divorces! 
 
 
-### Source:
+### Sources:
 
 1. [E Online](http://au.eonline.com/uberblog/b232408_elizabeth_taylor_remembering_hollywoods.html)
 

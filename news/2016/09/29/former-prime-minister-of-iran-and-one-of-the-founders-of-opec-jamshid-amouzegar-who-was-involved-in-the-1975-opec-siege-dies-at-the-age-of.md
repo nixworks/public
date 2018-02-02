@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/29/former-prime-minister-of-iran-and-one-of-the-fo
 
 ### [2016-09-29](/news/2016/09/29/index.md)
 
+##### Prime Minister of Iran
 # Former Prime Minister of Iran and one of the founders of OPEC Jamshid Amouzegar, who was involved in the 1975 OPEC siege, dies at the age of 93. 
 
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/12/8/american-football-player-josh-brent-of-the-dallas-cowboys-is-arrested-for-driving-while-intoxicated-and-vehicular-manslaughter-in-relation-t.html)  [JSON](/news/2012/12/8/american-football-player-josh-brent-of-the-dallas-cowboys-is-arrested-for-driving-while-intoxicated-and-vehicular-manslaughter-in-relation-t.json)  [XML](/news/2012/12/8/american-football-player-josh-brent-of-the-dallas-cowboys-is-arrested-for-driving-while-intoxicated-and-vehicular-manslaughter-in-relation-t.xml)  
+
 ### [2012-12-8](/news/2012/12/8/index.md)
 
+##### American football
 # American football player Josh Brent of the Dallas Cowboys is arrested for driving while intoxicated and vehicular manslaughter in relation to the death of teammate Jerry Brown. 
 
-Dallas Cowboys nose tackle Josh Brent was arrested on charges of intoxication manslaughter after flipping his car Saturday morning in an accident that killed Cowboys practice-squad player Jerry Brown.
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/sports/nfl/cowboys/2012/12/08/josh-brent-arrest/1755831/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/sports/nfl/cowboys/2012/12/08/josh-brent-arrest/1755831/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

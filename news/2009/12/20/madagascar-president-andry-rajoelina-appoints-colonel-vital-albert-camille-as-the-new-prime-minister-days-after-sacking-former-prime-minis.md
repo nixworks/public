@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/20/madagascar-president-andry-rajoelina-appoints-colonel-vital-albert-camille-as-the-new-prime-minister-days-after-sacking-former-prime-minis.html)  [JSON](/news/2009/12/20/madagascar-president-andry-rajoelina-appoints-colonel-vital-albert-camille-as-the-new-prime-minister-days-after-sacking-former-prime-minis.json)  [XML](/news/2009/12/20/madagascar-president-andry-rajoelina-appoints-colonel-vital-albert-camille-as-the-new-prime-minister-days-after-sacking-former-prime-minis.xml)  
+
 ### [2009-12-20](/news/2009/12/20/index.md)
 
+##### Madagascar
 #  Madagascar President Andry Rajoelina appoints Colonel Vital Albert Camille as the new Prime Minister, days after sacking former Prime Minister Eugene Mangalaza, who had been appointed as part of a power sharing agreement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8423773.stm)
 

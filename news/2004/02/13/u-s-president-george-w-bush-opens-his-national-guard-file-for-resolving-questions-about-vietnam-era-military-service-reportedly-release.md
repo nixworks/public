@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/13/u-s-president-george-w-bush-opens-his-national-guard-file-for-resolving-questions-about-vietnam-era-military-service-reportedly-release.html)  [JSON](/news/2004/02/13/u-s-president-george-w-bush-opens-his-national-guard-file-for-resolving-questions-about-vietnam-era-military-service-reportedly-release.json)  [XML](/news/2004/02/13/u-s-president-george-w-bush-opens-his-national-guard-file-for-resolving-questions-about-vietnam-era-military-service-reportedly-release.xml)  
+
 ### [2004-02-13](/news/2004/02/13/index.md)
 
+##### George W. Bush
 #  U.S. President George W. Bush opens his National Guard file for resolving questions about Vietnam era military service. Reportedly, released papers do not document Bush's Alabama service. Roswell businessman John Calhoun, 69, remembers Lt. George W. Bush worked weekends at an Air Force base in Montgomery.
 
 

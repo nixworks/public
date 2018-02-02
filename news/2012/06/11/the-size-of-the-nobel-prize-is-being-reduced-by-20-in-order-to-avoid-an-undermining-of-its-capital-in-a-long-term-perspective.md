@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/11/the-size-of-the-nobel-prize-is-being-reduced-by-20-in-order-to-avoid-an-undermining-of-its-capital-in-a-long-term-perspective.html)  [JSON](/news/2012/06/11/the-size-of-the-nobel-prize-is-being-reduced-by-20-in-order-to-avoid-an-undermining-of-its-capital-in-a-long-term-perspective.json)  [XML](/news/2012/06/11/the-size-of-the-nobel-prize-is-being-reduced-by-20-in-order-to-avoid-an-undermining-of-its-capital-in-a-long-term-perspective.xml)  
+
 ### [2012-06-11](/news/2012/06/11/index.md)
 
+##### Nobel Prize
 # The size of the Nobel Prize is being reduced by 20% in order to avoid an undermining of its capital in a long-term perspective. 
 
 The Nobel Prize organisers cut the amount of prize money on offer by 20%, meaning future winners will receive about $1.1m.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18403328)
 2. [Nobel Foundation](http://www.nobelprize.org/press/nobelfoundation/press_releases/2012/prize_amount.html)

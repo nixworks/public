@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2014/10/23/a-man-attacks-a-group-of-police-officers-in-new-york-city-with-a-hatchet-injuring-2-before-being-shot-dead-police-suspect-the-attacker-was.html)  [JSON](/news/2014/10/23/a-man-attacks-a-group-of-police-officers-in-new-york-city-with-a-hatchet-injuring-2-before-being-shot-dead-police-suspect-the-attacker-was.json)  [XML](/news/2014/10/23/a-man-attacks-a-group-of-police-officers-in-new-york-city-with-a-hatchet-injuring-2-before-being-shot-dead-police-suspect-the-attacker-was.xml)  
+
 ### [2014-10-23](/news/2014/10/23/index.md)
 
+##### New York City
 # A man attacks a group of police officers in New York City with a hatchet, injuring 2 before being shot dead. Police suspect the attacker was motivated by radical Islamic ideals. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://ac360.blogs.cnn.com/2014/10/23/police-release-video-of-nyc-hatchet-attack/?hpt=ac_mid)
 
 ### Related:
 
-1. [Both the FBI and NSD declare that they possess no records indicating that Trump Tower in New York City, New York was wiretapped earlier in March. ](/news/2017/09/2/both-the-fbi-and-nsd-declare-that-they-possess-no-records-indicating-that-trump-tower-in-new-york-city-new-york-was-wiretapped-earlier-in-m.md) _Context: New York City_
-2. [A fire at an Islamic boarding school for boys kills 24 people, most of them students, in Kuala Lumpur, Malaysia. ](/news/2017/09/14/a-fire-at-an-islamic-boarding-school-for-boys-kills-24-people-most-of-them-students-in-kuala-lumpur-malaysia.md) _Context: Islamic_
-3. [SpaceX CEO Elon Musk says he has received federal government approval for The Boring Company to build an underground 760mph Hyperloop that will connect New York City and Washington, D.C.. ](/news/2017/07/20/spacex-ceo-elon-musk-says-he-has-received-federal-government-approval-for-the-boring-company-to-build-an-underground-760mph-hyperloop-that-w.md) _Context: New York City_
-4. [A doctor thought to be formerly employed with the Bronx-Lebanon Hospital Center kills one and wounds five others at the facility in New York City. ](/news/2017/06/30/a-doctor-thought-to-be-formerly-employed-with-the-bronx-lebanon-hospital-center-kills-one-and-wounds-five-others-at-the-facility-in-new-york.md) _Context: New York City_
-5. [The Tony Awards are held in New York City with "Dear Evan Hansen" winning six awards including Best Musical and "Oslo" winning best play. ](/news/2017/06/11/the-tony-awards-are-held-in-new-york-city-with-dear-evan-hansen-winning-six-awards-including-best-musical-and-oslo-winning-best-play.md) _Context: New York City_
+1. [Celebrities Alyssa Milano, Michael Moore and Mark Ruffalo organize a "People's State of the Union"-themed concert on Monday in New York City. Common and Andra Day are scheduled to perform. ](/news/2018/01/26/celebrities-alyssa-milano-michael-moore-and-mark-ruffalo-organize-a-people-s-state-of-the-union-themed-concert-on-monday-in-new-york-city.md) _Context: New York City_
+2. [The New York Metropolitan Museum of Art is brought to reply to an online petition signed by thousands of people. The museum refuses to stop displaying a Balthus painting, "Therese revant". ](/news/2017/12/6/the-new-york-metropolitan-museum-of-art-is-brought-to-reply-to-an-online-petition-signed-by-thousands-of-people-the-museum-refuses-to-stop.md) _Context: New York City_
+3. [Twelve people are dead in an apartment fire in The Bronx area of New York City. ](/news/2017/12/28/twelve-people-are-dead-in-an-apartment-fire-in-the-bronx-area-of-new-york-city.md) _Context: New York City_
+4. [An attempted terrorist attack occurs when a homemade pipe bomb worn by a man exploded near New York City's Port Authority Bus Terminal. Three people, as well as the attacker, are injured. The suspect, identified as Akayed Ullah, is in custody. ](/news/2017/12/11/an-attempted-terrorist-attack-occurs-when-a-homemade-pipe-bomb-worn-by-a-man-exploded-near-new-york-city-s-port-authority-bus-terminal-thre.md) _Context: New York City_
+5. [Refuse Fascism holds protests against U.S. President Donald Trump in several major cities, including New York City, Chicago, and San Francisco. ](/news/2017/11/4/refuse-fascism-holds-protests-against-u-s-president-donald-trump-in-several-major-cities-including-new-york-city-chicago-and-san-francis.md) _Context: New York City_

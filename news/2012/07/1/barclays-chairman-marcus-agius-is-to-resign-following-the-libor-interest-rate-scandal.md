@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/1/barclays-chairman-marcus-agius-is-to-resign-following-the-libor-interest-rate-scandal.html)  [JSON](/news/2012/07/1/barclays-chairman-marcus-agius-is-to-resign-following-the-libor-interest-rate-scandal.json)  [XML](/news/2012/07/1/barclays-chairman-marcus-agius-is-to-resign-following-the-libor-interest-rate-scandal.xml)  
+
 ### [2012-07-1](/news/2012/07/1/index.md)
 
+##### Barclays
 # Barclays chairman Marcus Agius is to resign following the Libor interest rate scandal. 
 
 Marcus Agius is to resign on Monday as the chairman of Barclays following the Libor inter-bank lending rate scandal.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18665719)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61292000/jpg/_61292208_61292207.jpg)

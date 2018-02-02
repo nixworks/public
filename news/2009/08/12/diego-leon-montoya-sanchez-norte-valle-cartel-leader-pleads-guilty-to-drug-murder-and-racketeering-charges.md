@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/12/diego-leon-montoya-sanchez-norte-valle-cartel-leader-pleads-guilty-to-drug-murder-and-racketeering-charges.html)  [JSON](/news/2009/08/12/diego-leon-montoya-sanchez-norte-valle-cartel-leader-pleads-guilty-to-drug-murder-and-racketeering-charges.json)  [XML](/news/2009/08/12/diego-leon-montoya-sanchez-norte-valle-cartel-leader-pleads-guilty-to-drug-murder-and-racketeering-charges.xml)  
+
 ### [2009-08-12](/news/2009/08/12/index.md)
 
+##### Diego Len Montoya Snchez
 #  Diego Len Montoya Snchez, Norte Valle Cartel leader, pleads guilty to drug, murder and racketeering charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [www.BackgroundNow.com](http://www.backgroundnow.com/diego-montoya-sanchez-pleads-guilty-to-drug-murder-and-racketeering-charges/)
 

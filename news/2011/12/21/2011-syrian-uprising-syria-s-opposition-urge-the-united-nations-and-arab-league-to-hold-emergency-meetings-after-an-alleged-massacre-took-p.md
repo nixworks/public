@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/21/2011-syrian-uprising-syria-s-opposition-urge-the-united-nations-and-arab-league-to-hold-emergency-meetings-after-an-alleged-massacre-took-p.html)  [JSON](/news/2011/12/21/2011-syrian-uprising-syria-s-opposition-urge-the-united-nations-and-arab-league-to-hold-emergency-meetings-after-an-alleged-massacre-took-p.json)  [XML](/news/2011/12/21/2011-syrian-uprising-syria-s-opposition-urge-the-united-nations-and-arab-league-to-hold-emergency-meetings-after-an-alleged-massacre-took-p.xml)  
+
 ### [2011-12-21](/news/2011/12/21/index.md)
 
+##### 2011 Syrian uprising
 # 2011 Syrian uprising: Syria's opposition urge the United Nations and Arab League to hold emergency meetings after an alleged massacre took place in the northwest of the country, before Arab League monitors enter the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_747655.html)
 

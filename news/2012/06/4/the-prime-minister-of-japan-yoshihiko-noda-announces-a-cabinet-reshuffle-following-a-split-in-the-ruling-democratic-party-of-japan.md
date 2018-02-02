@@ -1,14 +1,19 @@
+
+Formats: [HTML](/news/2012/06/4/the-prime-minister-of-japan-yoshihiko-noda-announces-a-cabinet-reshuffle-following-a-split-in-the-ruling-democratic-party-of-japan.html)  [JSON](/news/2012/06/4/the-prime-minister-of-japan-yoshihiko-noda-announces-a-cabinet-reshuffle-following-a-split-in-the-ruling-democratic-party-of-japan.json)  [XML](/news/2012/06/4/the-prime-minister-of-japan-yoshihiko-noda-announces-a-cabinet-reshuffle-following-a-split-in-the-ruling-democratic-party-of-japan.xml)  
+
 ### [2012-06-4](/news/2012/06/4/index.md)
 
+##### Prime Minister of Japan
 # The Prime Minister of Japan Yoshihiko Noda announces a Cabinet reshuffle following a split in the ruling Democratic Party of Japan. 
 
+Japanese Prime Minister Yoshihiko Noda reshuffled his Cabinet in an effort to win opposition backing for his bill to double the consumption tax, after his bid to heal a breach in the ruling party failed.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2012-06-03/japan-s-noda-to-reshuffle-cabinet-in-bid-for-opposition-backing.html)
-2. [Washington Post](http://www.washingtonpost.com/world/asia_pacific/japans-prime-minister-reshuffles-his-cabinet-again-to-gain-support-for-tax-hike-bill/2012/06/04/gJQAjbPqCV_story.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2012-06-03/japan-s-noda-to-reshuffle-cabinet-in-bid-for-opposition-backing.html)
+2. [Washington Post](https://www.washingtonpost.com/world/asia_pacific/japans-prime-minister-reshuffles-his-cabinet-again-to-gain-support-for-tax-hike-bill/2012/06/04/gJQAjbPqCV_story.html)
+2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

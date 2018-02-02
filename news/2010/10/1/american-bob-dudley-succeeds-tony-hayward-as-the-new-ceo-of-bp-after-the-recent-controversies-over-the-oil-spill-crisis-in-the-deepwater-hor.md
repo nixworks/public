@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/1/american-bob-dudley-succeeds-tony-hayward-as-the-new-ceo-of-bp-after-the-recent-controversies-over-the-oil-spill-crisis-in-the-deepwater-hor.html)  [JSON](/news/2010/10/1/american-bob-dudley-succeeds-tony-hayward-as-the-new-ceo-of-bp-after-the-recent-controversies-over-the-oil-spill-crisis-in-the-deepwater-hor.json)  [XML](/news/2010/10/1/american-bob-dudley-succeeds-tony-hayward-as-the-new-ceo-of-bp-after-the-recent-controversies-over-the-oil-spill-crisis-in-the-deepwater-hor.xml)  
+
 ### [2010-10-1](/news/2010/10/1/index.md)
 
+##### Bob Dudley
 # American Bob Dudley succeeds Tony Hayward as the new CEO of BP after the recent controversies over the Oil Spill crisis in the Deepwater Horizon. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gIXWYBTpLtSayJtg41LKXpxSxVPAD9IJ3ABG0?docId=D9IJ3ABG0)
 

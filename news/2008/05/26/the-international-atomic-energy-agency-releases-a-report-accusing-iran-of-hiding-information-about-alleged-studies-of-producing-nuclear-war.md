@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/26/the-international-atomic-energy-agency-releases-a-report-accusing-iran-of-hiding-information-about-alleged-studies-of-producing-nuclear-war.html)  [JSON](/news/2008/05/26/the-international-atomic-energy-agency-releases-a-report-accusing-iran-of-hiding-information-about-alleged-studies-of-producing-nuclear-war.json)  [XML](/news/2008/05/26/the-international-atomic-energy-agency-releases-a-report-accusing-iran-of-hiding-information-about-alleged-studies-of-producing-nuclear-war.xml)  
+
 ### [2008-05-26](/news/2008/05/26/index.md)
 
+##### IAEA
 #  The International Atomic Energy Agency releases a report accusing Iran of hiding information about alleged studies of producing nuclear warheads and defying demands to suspend its uranium enrichment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.afp.com/english/news/stories/newsmlmmd.af735d8f03be0bb6566db00c1315dacd.61.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/1/2007-russian-north-pole-expedition-a-russian-expedition-with-the-aim-of-claiming-petroleum-beneath-the-arctic-reaches-the-north-pole.html)  [JSON](/news/2007/08/1/2007-russian-north-pole-expedition-a-russian-expedition-with-the-aim-of-claiming-petroleum-beneath-the-arctic-reaches-the-north-pole.json)  [XML](/news/2007/08/1/2007-russian-north-pole-expedition-a-russian-expedition-with-the-aim-of-claiming-petroleum-beneath-the-arctic-reaches-the-north-pole.xml)  
+
 ### [2007-08-1](/news/2007/08/1/index.md)
 
+##### 2007 Russian North Pole expedition
 #  2007 Russian North Pole expedition: A Russian expedition with the aim of claiming petroleum beneath the Arctic reaches the North Pole. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://edition.cnn.com/2007/WORLD/asiapcf/08/01/arctic.grab.ap/index.html?eref=rss_topstories)
 

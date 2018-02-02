@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/18/last-surviving-battle-of-jutland-veteran-and-last-surviving-founder-member-of-the-royal-air-force-henry-allingham-dies-at-the-age-of-113-a.html)  [JSON](/news/2009/07/18/last-surviving-battle-of-jutland-veteran-and-last-surviving-founder-member-of-the-royal-air-force-henry-allingham-dies-at-the-age-of-113-a.json)  [XML](/news/2009/07/18/last-surviving-battle-of-jutland-veteran-and-last-surviving-founder-member-of-the-royal-air-force-henry-allingham-dies-at-the-age-of-113-a.xml)  
+
 ### [2009-07-18](/news/2009/07/18/index.md)
 
+##### Battle of Jutland
 #  Last surviving Battle of Jutland veteran and last surviving founder member of the Royal Air Force Henry Allingham dies at the age of 113. At the time of his death he was the oldest living man in the world. 
 
 Henry Allingham, who was the world&#39;s oldest man and oldest World War I veteran, has died at the age of 113.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hhwMA4Dwt4_3-v8g8kqJY6dnyTxw)
 2. [BBC](http://news.bbc.co.uk/1/hi/uk/8157128.stm)

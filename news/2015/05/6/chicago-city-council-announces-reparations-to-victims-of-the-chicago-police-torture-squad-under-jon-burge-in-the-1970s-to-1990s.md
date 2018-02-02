@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/6/chicago-city-council-announces-reparations-to-victims-of-the-chicago-police-torture-squad-under-jon-burge-in-the-1970s-to-1990s.html)  [JSON](/news/2015/05/6/chicago-city-council-announces-reparations-to-victims-of-the-chicago-police-torture-squad-under-jon-burge-in-the-1970s-to-1990s.json)  [XML](/news/2015/05/6/chicago-city-council-announces-reparations-to-victims-of-the-chicago-police-torture-squad-under-jon-burge-in-the-1970s-to-1990s.xml)  
+
 ### [2015-05-6](/news/2015/05/6/index.md)
 
+##### Chicago police
 #  Chicago City Council announces "reparations" to victims of the Chicago police torture squad under Jon Burge in the 1970s to 1990s. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ (''Philly.com](http://www.philly.com/philly/news/nation_world/20150507_Chicago_to_pay_victims_of_torture.html)
 

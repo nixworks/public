@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/26/levels-of-radiation-in-tokyo-s-water-supply-return-to-normal.html)  [JSON](/news/2011/03/26/levels-of-radiation-in-tokyo-s-water-supply-return-to-normal.json)  [XML](/news/2011/03/26/levels-of-radiation-in-tokyo-s-water-supply-return-to-normal.xml)  
+
 ### [2011-03-26](/news/2011/03/26/index.md)
 
+##### radiation
 # Levels of radiation in Tokyo's water supply return to normal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20110327a7.html)
 

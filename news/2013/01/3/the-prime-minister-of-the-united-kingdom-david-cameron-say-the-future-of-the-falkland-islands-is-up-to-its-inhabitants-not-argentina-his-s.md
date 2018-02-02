@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2013/01/3/the-prime-minister-of-the-united-kingdom-david-cameron-say-the-future-of-the-falkland-islands-is-up-to-its-inhabitants-not-argentina-his-s.html)  [JSON](/news/2013/01/3/the-prime-minister-of-the-united-kingdom-david-cameron-say-the-future-of-the-falkland-islands-is-up-to-its-inhabitants-not-argentina-his-s.json)  [XML](/news/2013/01/3/the-prime-minister-of-the-united-kingdom-david-cameron-say-the-future-of-the-falkland-islands-is-up-to-its-inhabitants-not-argentina-his-s.xml)  
+
 ### [2013-01-3](/news/2013/01/3/index.md)
 
+##### Prime Minister
 # The Prime Minister of the United Kingdom David Cameron say the future of the Falkland Islands is up to its inhabitants, not Argentina. His statement comes after the President of Argentina Cristina Fernndez de Kirchner urged the prime minister to abide by a 1965 UN resolution to "negotiate a solution" to the dispute. 
 
 Prime Minister David Cameron strongly rebuffs a call by Argentine President Cristina Fernandez de Kirchner for the UK to return the South Atlantic islands.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20897675)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65049000/jpg/_65049899_fernandez-pa.jpg)
+
+### Changes:
+
+1. [The Prime Minister of the United Kingdom David Cameron say the future of the Falkland Islands is up to its inhabitants, not Argentina. His statement comes after the President of Argentina Cristina Fernndez de Kirchner urged the prime minister to abide by a 1965 UN resolution to "negotiate a solution" to the dispute. ](/news/2013/01/3/the-prime-minister-of-the-united-kingdom-david-cameron-say-the-future-of-the-falkland-islands-is-up-to-its-inhabitants-not-argentina-his.md) _2017-08-25 03:37:11 (First version)_
+1. [The Prime Minister of the United Kingdom David Cameron say the future of the Falkland Islands is up to its inhabitants, not Argentina. His statement comes after the President of Argentina Cristina Fernndez de Kirchner urged the prime minister to abide by a 1965 UN resolution to "negotiate a solution" to the dispute. ](/news/2013/01/3/the-prime-minister-of-the-united-kingdom-david-cameron-say-the-future-of-the-falkland-islands-is-up-to-its-inhabitants-not-argentina-his-s.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Prime Minister David Cameron strongly rebuffs a call by Argentine President Cris
 3. [Cristina Fernandez de Kirchner, the President of Argentina, states that Argentina will lodge a complaint with the United Nations Security Council and the United Nations General Assembly about the alleged "militarisation" of the area around the Falkland Islands by the United Kingdom. ](/news/2012/02/7/cristina-ferna-ndez-de-kirchner-the-president-of-argentina-states-that-argentina-will-lodge-a-complaint-with-the-united-nations-security-c.md) _Context: Argentina, Falkland Islands, President of Argentina_
 4. [Voters in Argentina go to the polls for a general election, with exit polls showing the President Cristina Fernndez de Kirchner being reelected in a landslide. ](/news/2011/10/23/voters-in-argentina-go-to-the-polls-for-a-general-election-with-exit-polls-showing-the-president-cristina-fernandez-de-kirchner-being-reele.md) _Context: Argentina, Cristina Kirchner, President of Argentina_
 5. [ Argentina's association football championship kicks off after President Cristina Fernndez de Kirchner puts it on the state payroll to avoid a financial crisis. ](/news/2009/08/21/argentina-s-association-football-championship-kicks-off-after-president-cristina-fernandez-de-kirchner-puts-it-on-the-state-payroll-to-avoi.md) _Context: Argentina, Cristina Kirchner, President of Argentina_
-
-### Changes:
-
-1. [The Prime Minister of the United Kingdom David Cameron say the future of the Falkland Islands is up to its inhabitants, not Argentina. His statement comes after the President of Argentina Cristina Fernndez de Kirchner urged the prime minister to abide by a 1965 UN resolution to "negotiate a solution" to the dispute. ](/news/2013/01/3/the-prime-minister-of-the-united-kingdom-david-cameron-say-the-future-of-the-falkland-islands-is-up-to-its-inhabitants-not-argentina-his.md) _2017-08-25 03:37:11 (First version)_
-1. [The Prime Minister of the United Kingdom David Cameron say the future of the Falkland Islands is up to its inhabitants, not Argentina. His statement comes after the President of Argentina Cristina Fernndez de Kirchner urged the prime minister to abide by a 1965 UN resolution to "negotiate a solution" to the dispute. ](/news/2013/01/3/the-prime-minister-of-the-united-kingdom-david-cameron-say-the-future-of-the-falkland-islands-is-up-to-its-inhabitants-not-argentina-his-s.md) _(Current version)_

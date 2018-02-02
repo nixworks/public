@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/25/a-car-bomb-exploded-in-the-mexican-border-city-of-nuevo-laredo-injuring-10-police-officers-during-the-mexican-drug-war-the-attack-was-beli.html)  [JSON](/news/2012/05/25/a-car-bomb-exploded-in-the-mexican-border-city-of-nuevo-laredo-injuring-10-police-officers-during-the-mexican-drug-war-the-attack-was-beli.json)  [XML](/news/2012/05/25/a-car-bomb-exploded-in-the-mexican-border-city-of-nuevo-laredo-injuring-10-police-officers-during-the-mexican-drug-war-the-attack-was-beli.xml)  
+
 ### [2012-05-25](/news/2012/05/25/index.md)
 
+##### bomb exploded
 # A car bomb exploded in the Mexican border city of Nuevo Laredo, injuring 10 police officers during the Mexican Drug War. The attack was believed to have been carried out by Los Zetas, one of Mexico's most powerful drug trafficking organizations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/05/25/world/americas/mexico-violence/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/30/the-parliament-of-iran-gives-a-vote-of-confidence-to-ali-akbar-salehi-who-has-led-the-atomic-energy-organisation-of-iran-since-july-2009-an.html)  [JSON](/news/2011/01/30/the-parliament-of-iran-gives-a-vote-of-confidence-to-ali-akbar-salehi-who-has-led-the-atomic-energy-organisation-of-iran-since-july-2009-an.json)  [XML](/news/2011/01/30/the-parliament-of-iran-gives-a-vote-of-confidence-to-ali-akbar-salehi-who-has-led-the-atomic-energy-organisation-of-iran-since-july-2009-an.xml)  
+
 ### [2011-01-30](/news/2011/01/30/index.md)
 
+##### MPs
 # The Parliament of Iran gives a vote of confidence to Ali Akbar Salehi, who has led the Atomic Energy Organisation of Iran since July 2009 and Iran's nuclear program, and is President Mahmoud Ahmadinejad's candidate to become Minister of Foreign Affairs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j8aELSIP1Ic1m-gIMa3Z2VFYmeVw?docId=CNG.30ff0b57ab72bd5eaa39bfcd8d0f2119.251)
 2. [PressTV](http://www.presstv.ir/detail/162674.html)

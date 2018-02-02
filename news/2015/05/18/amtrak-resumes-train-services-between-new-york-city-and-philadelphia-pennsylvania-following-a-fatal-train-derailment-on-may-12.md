@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/18/amtrak-resumes-train-services-between-new-york-city-and-philadelphia-pennsylvania-following-a-fatal-train-derailment-on-may-12.html)  [JSON](/news/2015/05/18/amtrak-resumes-train-services-between-new-york-city-and-philadelphia-pennsylvania-following-a-fatal-train-derailment-on-may-12.json)  [XML](/news/2015/05/18/amtrak-resumes-train-services-between-new-york-city-and-philadelphia-pennsylvania-following-a-fatal-train-derailment-on-may-12.xml)  
+
 ### [2015-05-18](/news/2015/05/18/index.md)
 
+##### Amtrak
 # Amtrak resumes train services between New York City and Philadelphia, Pennsylvania, following a fatal train derailment on May 12. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Huffington Post](http://www.huffingtonpost.com/2015/05/17/amtrak-philadelphia-new-york_n_7301992.html)
 

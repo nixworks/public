@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/9/according-to-a-military-spokesman-of-the-rebel-s
 
 ### [2016-07-9](/news/2016/07/9/index.md)
 
+##### South Sudanese Civil War
 # According to a military spokesman of the rebel SPLM-IO, at least 115 soldiers between the two rival Sudan People's Liberation Army factions are killed in clashes in the capital, Juba. 
 
 

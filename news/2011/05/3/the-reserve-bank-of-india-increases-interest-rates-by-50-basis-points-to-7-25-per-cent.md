@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/05/3/the-reserve-bank-of-india-increases-interest-rates-by-50-basis-points-to-7-25-per-cent.html)  [JSON](/news/2011/05/3/the-reserve-bank-of-india-increases-interest-rates-by-50-basis-points-to-7-25-per-cent.json)  [XML](/news/2011/05/3/the-reserve-bank-of-india-increases-interest-rates-by-50-basis-points-to-7-25-per-cent.xml)  
+
 ### [2011-05-3](/news/2011/05/3/index.md)
 
+##### Reserve Bank of India
 # The Reserve Bank of India increases interest rates by 50 basis points to 7.25 per cent. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/05/03/us-india-economy-idUSTRE7421BN20110503?feedType=RSS&feedName=topNews)
+1. [Reuters](https://www.reuters.com/article/2011/05/03/us-india-economy-idUSTRE7421BN20110503?feedType=RSS&feedName=topNews)
 1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:

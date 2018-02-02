@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2006/02/3/the-united-states-expels-venezuelan-diplomat-jeny-figueredo-frias-in-retaliation-for-yesterday-s-expulsion-of-suspected-us-spy-john-correa.html)  [JSON](/news/2006/02/3/the-united-states-expels-venezuelan-diplomat-jeny-figueredo-frias-in-retaliation-for-yesterday-s-expulsion-of-suspected-us-spy-john-correa.json)  [XML](/news/2006/02/3/the-united-states-expels-venezuelan-diplomat-jeny-figueredo-frias-in-retaliation-for-yesterday-s-expulsion-of-suspected-us-spy-john-correa.xml)  
+
 ### [2006-02-3](/news/2006/02/3/index.md)
 
+##### persona non grata
 #  The United States expels Venezuelan diplomat Jeny Figueredo Frias in retaliation for yesterday's expulsion of suspected US spy John Correa from Venezuela. A State Department spokesman described the move as part of "tit-for-tat diplomatic games". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA](http://www.voanews.com/english/2006-02-03-voa61.cfm)
 
 ### Related:
 
-1. [The Trump administration, through the Department of State and Secretary of State Rex Tillerson, expels 15 Cuban diplomats, after pulling half of its own embassy staff from Havana on Sept. 29, due to the alleged failure of Cuba to take appropriate steps to protect American personnel against the mysterious health attacks. ](/news/2017/10/3/the-trump-administration-through-the-department-of-state-and-secretary-of-state-rex-tillerson-expels-15-cuban-diplomats-after-pulling-hal.md) _Context: Department of State_
-2. [Voters in Venezuela go to the polls to elect new state governors, resulting in the incumbent socialist party winning the majority of the governorships, a result disputed by the opposition. ](/news/2017/10/15/voters-in-venezuela-go-to-the-polls-to-elect-new-state-governors-resulting-in-the-incumbent-socialist-party-winning-the-majority-of-the-gov.md) _Context: Venezuela_
-3. [The U.S. State Department removes all families of employees and nonessential personnel from Cuba following apparent sonic attacks that injured 21 personnel on the island. Cuba denies any involvement and has authorized the FBI to travel to the island to help the ongoing investigation into the causes. ](/news/2017/09/29/the-u-s-state-department-removes-all-families-of-employees-and-nonessential-personnel-from-cuba-following-apparent-sonic-attacks-that-injur.md) _Context: Department of State_
-4. [The White House announces that citizens of North Korea, Venezuela, and Chad will be restricted from travelling to the United States, along with citizens of the six nations previously listed in Executive Order 13780 with the exception of Sudan. ](/news/2017/09/24/the-white-house-announces-that-citizens-of-north-korea-venezuela-and-chad-will-be-restricted-from-travelling-to-the-united-states-along-w.md) _Context: Venezuela_
-5. [The U.S. imposes new sanctions on eight Venezuelan officials, including Secretary of the 2017 Constituent Assembly Adan Chavez - the late President Hugo Chavez's brother, to "deter further democratic backsliding" in the South American country. ](/news/2017/08/9/the-u-s-imposes-new-sanctions-on-eight-venezuelan-officials-including-secretary-of-the-2017-constituent-assembly-ada-n-cha-vez-the-late.md) _Context: Venezuela_
+1. [Tom Shannon, the United States under secretary of state for political affairs announces he will be resigning for personal reasons. The State Department's third-ranking official and its most senior career diplomat says he will stay on until a successor is named. ](/news/2018/02/1/tom-shannon-the-united-states-under-secretary-of-state-for-political-affairs-announces-he-will-be-resigning-for-personal-reasons-the-state.md) _Context: State Department's_
+2. [An anonymous senior State Department official says that United States Secretary of State Rex Tillerson decided to convene a special-panel Accountability Review Board to further investigate the "attacks" at the U.S. embassy in Havana. ](/news/2018/01/9/an-anonymous-senior-state-department-official-says-that-united-states-secretary-of-state-rex-tillerson-decided-to-convene-a-special-panel-ac.md) _Context: State Department's_
+3. [An anonymous U.S. State Department official says no decision has been made on the scheduled January 1, 2018, $125-million payment to the UNRWA (United Nations Relief and Works Agency), which administers aid for Palestinian refugees. Media reports had stated the money was frozen. The official added the government is still reviewing U.S. assistance to the Palestinian Authority and has until January 15 to resolve the issue. ](/news/2018/01/5/an-anonymous-u-s-state-department-official-says-no-decision-has-been-made-on-the-scheduled-january-1-2018-125-million-payment-to-the-unr.md) _Context: State Department's_
+4. [Iraq announces that its war against Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vile-occupati.md) _Context: State Department's_
+5. [U.S. President Donald Trump recognizes Jerusalem as the capital of Israel and says the U.S. starts the process of moving its embassy from Tel Aviv to Jerusalem. The United States Department of State issues an internal travel warning to Israel, Jerusalem and the West Bank until December 20. The U.S. embassy in Amman temporarily suspends routine public services and stops embassy travel around Jordan. Embassies in Berlin and London issue vigilance warnings to U.S. citizens. ](/news/2017/12/6/u-s-president-donald-trump-recognizes-jerusalem-as-the-capital-of-israel-and-says-the-u-s-starts-the-process-of-moving-its-embassy-from-te.md) _Context: State Department's_

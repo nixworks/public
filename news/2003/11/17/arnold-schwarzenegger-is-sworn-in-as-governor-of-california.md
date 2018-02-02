@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/17/arnold-schwarzenegger-is-sworn-in-as-governor-of-california.html)  [JSON](/news/2003/11/17/arnold-schwarzenegger-is-sworn-in-as-governor-of-california.json)  [XML](/news/2003/11/17/arnold-schwarzenegger-is-sworn-in-as-governor-of-california.xml)  
+
 ### [2003-11-17](/news/2003/11/17/index.md)
 
+##### Arnold Schwarzenegger
 #  Arnold Schwarzenegger is sworn in as Governor of California.
 
 

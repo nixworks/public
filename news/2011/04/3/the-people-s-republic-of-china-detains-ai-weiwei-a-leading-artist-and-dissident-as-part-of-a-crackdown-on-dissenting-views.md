@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/3/the-people-s-republic-of-china-detains-ai-weiwei-a-leading-artist-and-dissident-as-part-of-a-crackdown-on-dissenting-views.html)  [JSON](/news/2011/04/3/the-people-s-republic-of-china-detains-ai-weiwei-a-leading-artist-and-dissident-as-part-of-a-crackdown-on-dissenting-views.json)  [XML](/news/2011/04/3/the-people-s-republic-of-china-detains-ai-weiwei-a-leading-artist-and-dissident-as-part-of-a-crackdown-on-dissenting-views.xml)  
+
 ### [2011-04-3](/news/2011/04/3/index.md)
 
+##### China
 # The People's Republic of China detains Ai Weiwei, a leading artist and dissident, as part of a crackdown on dissenting views. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748704587004576240510275778784.html)
 

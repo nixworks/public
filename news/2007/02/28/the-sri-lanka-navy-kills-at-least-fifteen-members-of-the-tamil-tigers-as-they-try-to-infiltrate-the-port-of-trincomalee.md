@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/28/the-sri-lanka-navy-kills-at-least-fifteen-members-of-the-tamil-tigers-as-they-try-to-infiltrate-the-port-of-trincomalee.html)  [JSON](/news/2007/02/28/the-sri-lanka-navy-kills-at-least-fifteen-members-of-the-tamil-tigers-as-they-try-to-infiltrate-the-port-of-trincomalee.json)  [XML](/news/2007/02/28/the-sri-lanka-navy-kills-at-least-fifteen-members-of-the-tamil-tigers-as-they-try-to-infiltrate-the-port-of-trincomalee.xml)  
+
 ### [2007-02-28](/news/2007/02/28/index.md)
 
+##### Sri Lanka
 #  The Sri Lanka Navy kills at least fifteen members of the Tamil Tigers as they try to infiltrate the port of Trincomalee. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via the Hindu](http://www.hindu.com/thehindu/holnus/001200702281040.htm)
 

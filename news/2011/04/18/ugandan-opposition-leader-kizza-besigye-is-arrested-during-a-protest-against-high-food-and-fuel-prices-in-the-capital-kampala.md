@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/18/ugandan-opposition-leader-kizza-besigye-is-arrested-during-a-protest-against-high-food-and-fuel-prices-in-the-capital-kampala.html)  [JSON](/news/2011/04/18/ugandan-opposition-leader-kizza-besigye-is-arrested-during-a-protest-against-high-food-and-fuel-prices-in-the-capital-kampala.json)  [XML](/news/2011/04/18/ugandan-opposition-leader-kizza-besigye-is-arrested-during-a-protest-against-high-food-and-fuel-prices-in-the-capital-kampala.xml)  
+
 ### [2011-04-18](/news/2011/04/18/index.md)
 
+##### Uganda
 # Ugandan opposition leader Kizza Besigye is arrested during a protest against high food and fuel prices in the capital Kampala. 
 
 Kizza Besigye, who challenged incumbent president, among those arrested for staging protest.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/04/201141874445864220.html)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE73H00420110418)

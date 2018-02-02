@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/04/1/the-us-national-highway-traffic-safety-administration-reports-that-the-number-of-traffic-deaths-has-fallen-to-32-788-in-2010-the-lowest-lev.html)  [JSON](/news/2011/04/1/the-us-national-highway-traffic-safety-administration-reports-that-the-number-of-traffic-deaths-has-fallen-to-32-788-in-2010-the-lowest-lev.json)  [XML](/news/2011/04/1/the-us-national-highway-traffic-safety-administration-reports-that-the-number-of-traffic-deaths-has-fallen-to-32-788-in-2010-the-lowest-lev.xml)  
+
 ### [2011-04-1](/news/2011/04/1/index.md)
 
+##### The U.S. National Highway Traffic Safety Administration
 # The US National Highway Traffic Safety Administration reports that the number of traffic deaths has fallen to 32,788 in 2010, the lowest level since 1949. 
 
 An estimated 32,788 people were killed in traffic accidents in 2010, the fewest in more than 60 years.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2011/04/01/us/01driving.html)
+1. [New York Times](https://www.nytimes.com/2011/04/01/us/01driving.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

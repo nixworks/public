@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/11/former-ku-klux-klan-organizer-and-convicted-mur
 
 ### [2018-01-11](/news/2018/01/11/index.md)
 
+##### 1964 Murders of Chaney, Goodman, and Schwerner
 # Former Ku Klux Klan organizer and convicted murderer Edgar Ray Killen dies in prison at the age of 92. [https:--www.nytimes.com-2018-01-12-obituaries-edgar-ray-killen-convicted-in-64-killings-of-rights-worker-dies-at-92.html "(The New York Times)"]
 
 

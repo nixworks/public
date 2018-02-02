@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/14/the-general-synod-of-the-church-of-england-meeting-in-york-votes-to-allow-women-to-become-bishops.html)  [JSON](/news/2014/07/14/the-general-synod-of-the-church-of-england-meeting-in-york-votes-to-allow-women-to-become-bishops.json)  [XML](/news/2014/07/14/the-general-synod-of-the-church-of-england-meeting-in-york-votes-to-allow-women-to-become-bishops.xml)  
+
 ### [2014-07-14](/news/2014/07/14/index.md)
 
+##### General Synod
 # The General Synod of the Church of England meeting in York votes to allow women to become bishops. 
 
 The General Synod of the Church of England votes to allow women to become bishops after years of debate and controversy.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-28300618#TWEET1183643)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/76258000/jpg/_76258416_vote.jpg)

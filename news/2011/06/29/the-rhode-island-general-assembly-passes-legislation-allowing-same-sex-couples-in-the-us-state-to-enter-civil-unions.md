@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/29/the-rhode-island-general-assembly-passes-legislation-allowing-same-sex-couples-in-the-us-state-to-enter-civil-unions.html)  [JSON](/news/2011/06/29/the-rhode-island-general-assembly-passes-legislation-allowing-same-sex-couples-in-the-us-state-to-enter-civil-unions.json)  [XML](/news/2011/06/29/the-rhode-island-general-assembly-passes-legislation-allowing-same-sex-couples-in-the-us-state-to-enter-civil-unions.xml)  
+
 ### [2011-06-29](/news/2011/06/29/index.md)
 
+##### Rhode Island General Assembly
 # The Rhode Island General Assembly passes legislation allowing same-sex couples in the US state to enter civil unions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC 6](http://www.abc6.com/story/14998925/gay-advocates-urge-veto-of-ri-civil-unions-bill)
 

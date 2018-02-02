@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/20/three-female-bodies-are-found-in-plastic-sheets-in-east-cleveland-ohio-a-35-year-old-sex-offender-was-arrested-on-suspicion-of-all-three-c.html)  [JSON](/news/2013/07/20/three-female-bodies-are-found-in-plastic-sheets-in-east-cleveland-ohio-a-35-year-old-sex-offender-was-arrested-on-suspicion-of-all-three-c.json)  [XML](/news/2013/07/20/three-female-bodies-are-found-in-plastic-sheets-in-east-cleveland-ohio-a-35-year-old-sex-offender-was-arrested-on-suspicion-of-all-three-c.xml)  
+
 ### [2013-07-20](/news/2013/07/20/index.md)
 
+##### East Cleveland, Ohio
 # Three female bodies are found in plastic sheets in East Cleveland, Ohio; a 35-year-old sex offender was arrested on suspicion of all three cases, but has not been charged. Police say he may have been influenced by convicted Cleveland serial killer Anthony Sowell. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Peoria Journal Star](http://hosted2.ap.org/ILPEO/APUSNews/Article_2013-07-21-Ohio%20Bodies/id-041e00a2f00240e29d347418c97139da)
 

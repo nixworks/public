@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/1/iraq-is-to-free-up-to-6-000-sunni-insurgents-in-an-attempt-at-reconciliation-by-the-government.html)  [JSON](/news/2007/09/1/iraq-is-to-free-up-to-6-000-sunni-insurgents-in-an-attempt-at-reconciliation-by-the-government.json)  [XML](/news/2007/09/1/iraq-is-to-free-up-to-6-000-sunni-insurgents-in-an-attempt-at-reconciliation-by-the-government.xml)  
+
 ### [2007-09-1](/news/2007/09/1/index.md)
 
+##### Iraq
 #  Iraq is to free up to 6,000 Sunni insurgents in an attempt at reconciliation by the Government. 
 
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/09/02/wirq102.xml)
 

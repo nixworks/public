@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2012/07/31/the-syrian-military-continues-to-pound-aleppo-with-artillery-opposition-forces-claim-that-they-have-driven-the-syrian-army-out-of-the-city.html)  [JSON](/news/2012/07/31/the-syrian-military-continues-to-pound-aleppo-with-artillery-opposition-forces-claim-that-they-have-driven-the-syrian-army-out-of-the-city.json)  [XML](/news/2012/07/31/the-syrian-military-continues-to-pound-aleppo-with-artillery-opposition-forces-claim-that-they-have-driven-the-syrian-army-out-of-the-city.xml)  
+
 ### [2012-07-31](/news/2012/07/31/index.md)
 
+##### government forces
 # The Syrian military continues to pound Aleppo with artillery. Opposition forces claim that they have driven the Syrian army out of the city. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/2012/07/31/syria-crisis-idINL6E8IUL2320120731)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
-1. [The Syrian Army says it is now in full control of the city of Aleppo following the evacuation of the last group of rebels to the Idlib Governorate. ](/news/2016/12/22/the-syrian-army-says-it-is-now-in-full-control-of-the-city-of-aleppo-following-the-evacuation-of-the-last-group-of-rebels-to-the-idlib-gover.md) _Context: Aleppo, Syrian Army_
-2. [The Syrian Army clashes with insurgents in the 1070 Apartments district of Aleppo. ](/news/2016/09/27/the-syrian-army-clashes-with-insurgents-in-the-1070-apartments-district-of-aleppo.md) _Context: Aleppo, Syrian Army_
-3. [Airstrikes hit Darkush in Idlib Province near the Turkish border, killing at least 23 people, according to the Syrian Observatory for Human Rights. At least 25 died when rebels shelled government-held areas of Aleppo. Friday is the last day of a 72-hour Syrian Army-sponsored ceasefire. ](/news/2016/07/8/airstrikes-hit-darkush-in-idlib-province-near-the-turkish-border-killing-at-least-23-people-according-to-the-syrian-observatory-for-human.md) _Context: Aleppo, Syrian Army_
-4. [Rebels in Aleppo launch an assault on government-controlled areas in the city. This comes after the Syrian Army blocked off the only road leading into opposition-controlled areas. According to state media, at least eight people have been killed and dozens more are wounded. ](/news/2016/07/11/rebels-in-aleppo-launch-an-assault-on-government-controlled-areas-in-the-city-this-comes-after-the-syrian-army-blocked-off-the-only-road-le.md) _Context: Aleppo, Syrian Army_
-5. [The Syrian Army and its allies launch an offensive south of Aleppo. ](/news/2016/04/6/the-syrian-army-and-its-allies-launch-an-offensive-south-of-aleppo.md) _Context: Aleppo, Syrian Army_
+1. [Islamic State fighters take control of a section of road running between the towns of Khanaser and Ithriya, southeast of Aleppo, according to a monitoring group. This threatens the Syrian army's only supply route into the city. ](/news/2015/10/23/islamic-state-fighters-take-control-of-a-section-of-road-running-between-the-towns-of-khanaser-and-ithriya-southeast-of-aleppo-according-t.md) _Context: Aleppo, Syrian army's_
+2. [Fighting between Syrian rebels and government forces rages around the Aleppo Central Prison in the war-torn city of Aleppo, but it is unclear whether rebels control all or part of the facility. ](/news/2014/02/6/fighting-between-syrian-rebels-and-government-forces-rages-around-the-aleppo-central-prison-in-the-war-torn-city-of-aleppo-but-it-is-unclea.md) _Context: Aleppo, government forces_
+3. [Syrian Republican Guard major general Issam Zahreddine, known for leading battles against the rebels in Homs and Aleppo, is killed by a landmine in Deir ez-Zor, according to Syrian media. ](/news/2017/10/18/syrian-republican-guard-major-general-issam-zahreddine-known-for-leading-battles-against-the-rebels-in-homs-and-aleppo-is-killed-by-a-land.md) _Context: Aleppo_
+4. [Violent clashes break out between the Syrian rebels and Syrian Democratic Forces on the outskirts of al-Muhsenli Village, in the northeastern countryside of Aleppo, but no casualties are reported. ](/news/2017/07/21/violent-clashes-break-out-between-the-syrian-rebels-and-syrian-democratic-forces-on-the-outskirts-of-al-muhsenli-village-in-the-northeaster.md) _Context: Aleppo_
+5. [A car bomb strikes a convoy of buses near Aleppo which were carrying evacuees from the pro-government towns of Al-Fu'ah and Kafriya. Over 100 people are killed. ](/news/2017/04/15/a-car-bomb-strikes-a-convoy-of-buses-near-aleppo-which-were-carrying-evacuees-from-the-pro-government-towns-of-al-fu-ah-and-kafriya-over-10.md) _Context: Aleppo_

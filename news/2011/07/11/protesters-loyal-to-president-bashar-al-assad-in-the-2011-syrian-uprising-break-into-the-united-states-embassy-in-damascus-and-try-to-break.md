@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/11/protesters-loyal-to-president-bashar-al-assad-in-the-2011-syrian-uprising-break-into-the-united-states-embassy-in-damascus-and-try-to-break.html)  [JSON](/news/2011/07/11/protesters-loyal-to-president-bashar-al-assad-in-the-2011-syrian-uprising-break-into-the-united-states-embassy-in-damascus-and-try-to-break.json)  [XML](/news/2011/07/11/protesters-loyal-to-president-bashar-al-assad-in-the-2011-syrian-uprising-break-into-the-united-states-embassy-in-damascus-and-try-to-break.xml)  
+
 ### [2011-07-11](/news/2011/07/11/index.md)
 
+##### President
 # Protesters loyal to President Bashar al-Assad in the 2011 Syrian uprising break into the United States embassy in Damascus and try to break into the French embassy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/news/breaking-news/syrian-loyalists-break-into-us-embassy-in-damascus/story-fn3dxity-1226092714961)
 

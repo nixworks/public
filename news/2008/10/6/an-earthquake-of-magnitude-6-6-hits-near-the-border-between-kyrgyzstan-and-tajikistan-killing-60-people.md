@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/10/6/an-earthquake-of-magnitude-6-6-hits-near-the-border-between-kyrgyzstan-and-tajikistan-killing-60-people.html)  [JSON](/news/2008/10/6/an-earthquake-of-magnitude-6-6-hits-near-the-border-between-kyrgyzstan-and-tajikistan-killing-60-people.json)  [XML](/news/2008/10/6/an-earthquake-of-magnitude-6-6-hits-near-the-border-between-kyrgyzstan-and-tajikistan-killing-60-people.xml)  
+
 ### [2008-10-6](/news/2008/10/6/index.md)
 
+##### An earthquake
 #  An earthquake of magnitude 6.6 hits near the border between Kyrgyzstan and Tajikistan, killing 60 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2008/WORLD/asiapcf/10/06/kyrgyzstan.quake/index.html)
-2. [USGS](http://earthquake.usgs.gov/eqcenter/eqinthenews/2008/us2008xuay/#details)
+2. [USGS](https://earthquake.usgs.gov/eqcenter/eqinthenews/2008/us2008xuay/#details)
 
 ### Related:
 

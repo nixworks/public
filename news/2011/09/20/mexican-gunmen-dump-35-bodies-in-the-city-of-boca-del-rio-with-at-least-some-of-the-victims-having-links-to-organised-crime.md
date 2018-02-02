@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2011/09/20/mexican-gunmen-dump-35-bodies-in-the-city-of-boca-del-rio-with-at-least-some-of-the-victims-having-links-to-organised-crime.html)  [JSON](/news/2011/09/20/mexican-gunmen-dump-35-bodies-in-the-city-of-boca-del-rio-with-at-least-some-of-the-victims-having-links-to-organised-crime.json)  [XML](/news/2011/09/20/mexican-gunmen-dump-35-bodies-in-the-city-of-boca-del-rio-with-at-least-some-of-the-victims-having-links-to-organised-crime.xml)  
+
 ### [2011-09-20](/news/2011/09/20/index.md)
 
+##### Mexican
 # Mexican gunmen dump 35 bodies in the city of Boca del Rio, with at least some of the victims having links to organised crime. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Bakersfield Now](http://www.bakersfieldnow.com/news/national/130242818.html)
 
 ### Related:
 
-1. [A gunfight between La Lnea gang members and a rival cartel in Madera Municipality, Chihuahua, leaves at least 14 people dead. ](/news/2017/07/5/a-gunfight-between-la-linea-gang-members-and-a-rival-cartel-in-madera-municipality-chihuahua-leaves-at-least-14-people-dead.md) _Context: Mexican Drug War_
-2. [An unknown gunman shoots and kills veteran journalist Javier Valdez Crdenas, who is noted for his investigative reporting on Mexico's war on drugs, in Culiacn, Sinaloa. ](/news/2017/05/15/an-unknown-gunman-shoots-and-kills-veteran-journalist-javier-valdez-cardenas-who-is-noted-for-his-investigative-reporting-on-mexico-s-war-o.md) _Context: Mexican Drug War_
-3. [Mexican drug lord Joaquin "El Chapo" Guzman is extradited to the United States, where he will face charges for his role as leader of the Sinaloa Cartel. ](/news/2017/01/19/mexican-drug-lord-joaquan-el-chapo-guzma-n-is-extradited-to-the-united-states-where-he-will-face-charges-for-his-role-as-leader-of-the-s.md) _Context: Mexican_
-4. [A gang shoots down a police helicopter near Apatzingan, Michoacan, killing four people. The police had been conducting an operation against criminal groups and drug cartels. ](/news/2016/09/7/a-gang-shoots-down-a-police-helicopter-near-apatzinga-n-michoaca-n-killing-four-people-the-police-had-been-conducting-an-operation-agains.md) _Context: Mexican Drug War_
-5. [Mexican police come under attack in a two-hour gunfight in the city of Acapulco, killing one gunman. At the same time, a separate group of gunmen attacked a federal police base in the city. ](/news/2016/04/25/mexican-police-come-under-attack-in-a-two-hour-gunfight-in-the-city-of-acapulco-killing-one-gunman-at-the-same-time-a-separate-group-of-g.md) _Context: Mexican Drug War_
+1. [Mexican drug lord Joaquin "El Chapo" Guzman is extradited to the United States, where he will face charges for his role as leader of the Sinaloa Cartel. ](/news/2017/01/19/mexican-drug-lord-joaquan-el-chapo-guzma-n-is-extradited-to-the-united-states-where-he-will-face-charges-for-his-role-as-leader-of-the-s.md) _Context: Mexican_
+2. [Egyptian security forces open fire on a Mexican tourist convoy in the Western Desert while pursuing militants with at least twelve people killed and 10 injured. ](/news/2015/09/13/egyptian-security-forces-open-fire-on-a-mexican-tourist-convoy-in-the-western-desert-while-pursuing-militants-with-at-least-twelve-people-ki.md) _Context: Mexican_
+3. [Mexican drug kingpin Joaquin Guzman Loera escapes from a maximum security prison the Federal Social Readaptation Center No. 1. ](/news/2015/07/11/mexican-drug-kingpin-joaquan-guzma-n-loera-escapes-from-a-maximum-security-prison-the-federal-social-readaptation-center-no-1.md) _Context: Mexican_
+4. [A woman, Kathryn Steinle, is shot dead in a random attack at the busy Embarcadero district in San Francisco, California. A Mexican national is arrested in connection with her death. ](/news/2015/07/1/a-woman-kathryn-steinle-is-shot-dead-in-a-random-attack-at-the-busy-embarcadero-district-in-san-francisco-california-a-mexican-national.md) _Context: Mexican_
+5. [Alejandro Gonzalez Inarritu becomes the second Mexican director to win Academy Award for Best Director for "Birdman". "Birdman" then wins the Academy Award for Best Picture. ](/news/2015/02/22/alejandro-gonza-lez-ia-a-rritu-becomes-the-second-mexican-director-to-win-academy-award-for-best-director-for-birdman-birdman-then-wins.md) _Context: Mexican_

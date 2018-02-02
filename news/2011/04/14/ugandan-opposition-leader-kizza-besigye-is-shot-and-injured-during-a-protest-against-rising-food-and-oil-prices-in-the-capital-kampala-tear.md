@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/14/ugandan-opposition-leader-kizza-besigye-is-shot-and-injured-during-a-protest-against-rising-food-and-oil-prices-in-the-capital-kampala-tear.html)  [JSON](/news/2011/04/14/ugandan-opposition-leader-kizza-besigye-is-shot-and-injured-during-a-protest-against-rising-food-and-oil-prices-in-the-capital-kampala-tear.json)  [XML](/news/2011/04/14/ugandan-opposition-leader-kizza-besigye-is-shot-and-injured-during-a-protest-against-rising-food-and-oil-prices-in-the-capital-kampala-tear.xml)  
+
 ### [2011-04-14](/news/2011/04/14/index.md)
 
+##### Uganda
 # Ugandan opposition leader Kizza Besigye is shot and injured during a protest against rising food and oil prices in the capital Kampala; tear gas is also fired by police to disperse protesters. 
 
 Ugandan opposition leader Kizza Besigye is injured as soldiers open fire to disperse protesters in the capital, Kampala.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13079335)
 2. [Capital FM Kenya](http://www.capitalfm.co.ke/news/Kenyanews/Besigye-besieged-in-Uganda-12419.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/30/the-death-toll-from-the-2011-thailand-floods-reaches-790.html)  [JSON](/news/2011/12/30/the-death-toll-from-the-2011-thailand-floods-reaches-790.json)  [XML](/news/2011/12/30/the-death-toll-from-the-2011-thailand-floods-reaches-790.xml)  
+
 ### [2011-12-30](/news/2011/12/30/index.md)
 
+##### floods
 # The death toll from the 2011 Thailand floods reaches 790. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jakarta Post](http://www.thejakartapost.com/news/2011/12/30/death-toll-thai-floods-rises-790.html)
 

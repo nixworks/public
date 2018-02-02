@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/10/all-four-defendants-in-the-2012-delhi-gang-rape-case-are-found-guilty-of-rape-and-murder.html)  [JSON](/news/2013/09/10/all-four-defendants-in-the-2012-delhi-gang-rape-case-are-found-guilty-of-rape-and-murder.json)  [XML](/news/2013/09/10/all-four-defendants-in-the-2012-delhi-gang-rape-case-are-found-guilty-of-rape-and-murder.xml)  
+
 ### [2013-09-10](/news/2013/09/10/index.md)
 
+##### 2012 Delhi gang rape case
 # All four defendants in the 2012 Delhi gang rape case are found guilty of rape and murder. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The News](http://www.thenews.com.pk/article-117578-All-four-Delhi-gang-rape-suspects-guilty-of-rape,-murder)
 

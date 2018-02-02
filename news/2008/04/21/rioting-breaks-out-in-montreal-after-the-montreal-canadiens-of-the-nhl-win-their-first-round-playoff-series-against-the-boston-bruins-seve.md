@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/04/21/rioting-breaks-out-in-montreal-after-the-montreal-canadiens-of-the-nhl-win-their-first-round-playoff-series-against-the-boston-bruins-seve.html)  [JSON](/news/2008/04/21/rioting-breaks-out-in-montreal-after-the-montreal-canadiens-of-the-nhl-win-their-first-round-playoff-series-against-the-boston-bruins-seve.json)  [XML](/news/2008/04/21/rioting-breaks-out-in-montreal-after-the-montreal-canadiens-of-the-nhl-win-their-first-round-playoff-series-against-the-boston-bruins-seve.xml)  
+
 ### [2008-04-21](/news/2008/04/21/index.md)
 
+##### Montreal
 #  Rioting breaks out in Montreal after the Montreal Canadiens of the NHL win their first round playoff series against the Boston Bruins. Several police cars are torched, but there are no reports of any serious injuries. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Canadian Press via Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20080422.wmontrealriot22/BNStory/National/home)
+1. [Canadian Press via Globe and Mail](https://www.theglobeandmail.com/servlet/story/RTGAM.20080422.wmontrealriot22/BNStory/National/home)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/10/morgan-tsvangarai-the-leader-of-the-movement-for-democratic-change-in-zimbabwe-announces-that-he-will-contest-a-runoff-election-in-the-zi.html)  [JSON](/news/2008/05/10/morgan-tsvangarai-the-leader-of-the-movement-for-democratic-change-in-zimbabwe-announces-that-he-will-contest-a-runoff-election-in-the-zi.json)  [XML](/news/2008/05/10/morgan-tsvangarai-the-leader-of-the-movement-for-democratic-change-in-zimbabwe-announces-that-he-will-contest-a-runoff-election-in-the-zi.xml)  
+
 ### [2008-05-10](/news/2008/05/10/index.md)
 
+##### Morgan Tsvangarai
 #  Morgan Tsvangarai, the Leader of the Movement for Democratic Change in Zimbabwe, announces that he will contest a runoff election in the Zimbabwean presidential election, 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7393629.stm)
 

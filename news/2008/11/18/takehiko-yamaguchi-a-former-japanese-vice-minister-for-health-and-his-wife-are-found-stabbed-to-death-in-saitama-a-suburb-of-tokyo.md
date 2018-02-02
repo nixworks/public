@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/18/takehiko-yamaguchi-a-former-japanese-vice-minister-for-health-and-his-wife-are-found-stabbed-to-death-in-saitama-a-suburb-of-tokyo.html)  [JSON](/news/2008/11/18/takehiko-yamaguchi-a-former-japanese-vice-minister-for-health-and-his-wife-are-found-stabbed-to-death-in-saitama-a-suburb-of-tokyo.json)  [XML](/news/2008/11/18/takehiko-yamaguchi-a-former-japanese-vice-minister-for-health-and-his-wife-are-found-stabbed-to-death-in-saitama-a-suburb-of-tokyo.xml)  
+
 ### [2008-11-18](/news/2008/11/18/index.md)
 
+##### Japan
 #  Takehiko Yamaguchi, a former Japanese Vice Minister for Health, and his wife are found stabbed to death in Saitama, a suburb of Tokyo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7736706.stm)
 

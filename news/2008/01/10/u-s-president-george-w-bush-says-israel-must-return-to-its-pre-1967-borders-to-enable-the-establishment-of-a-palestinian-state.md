@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/10/u-s-president-george-w-bush-says-israel-must-return-to-its-pre-1967-borders-to-enable-the-establishment-of-a-palestinian-state.html)  [JSON](/news/2008/01/10/u-s-president-george-w-bush-says-israel-must-return-to-its-pre-1967-borders-to-enable-the-establishment-of-a-palestinian-state.json)  [XML](/news/2008/01/10/u-s-president-george-w-bush-says-israel-must-return-to-its-pre-1967-borders-to-enable-the-establishment-of-a-palestinian-state.xml)  
+
 ### [2008-01-10](/news/2008/01/10/index.md)
 
+##### U.S. President
 #  U.S. President George W. Bush says Israel must return to its pre-1967 borders to enable the establishment of a Palestinian state. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7181658.stm)
 

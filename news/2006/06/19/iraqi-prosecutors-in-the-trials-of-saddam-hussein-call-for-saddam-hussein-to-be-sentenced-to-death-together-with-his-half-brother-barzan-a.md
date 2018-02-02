@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/19/iraqi-prosecutors-in-the-trials-of-saddam-hussein-call-for-saddam-hussein-to-be-sentenced-to-death-together-with-his-half-brother-barzan-a.html)  [JSON](/news/2006/06/19/iraqi-prosecutors-in-the-trials-of-saddam-hussein-call-for-saddam-hussein-to-be-sentenced-to-death-together-with-his-half-brother-barzan-a.json)  [XML](/news/2006/06/19/iraqi-prosecutors-in-the-trials-of-saddam-hussein-call-for-saddam-hussein-to-be-sentenced-to-death-together-with-his-half-brother-barzan-a.xml)  
+
 ### [2006-06-19](/news/2006/06/19/index.md)
 
+##### Iraq
 #  Iraqi prosecutors in the Trials of Saddam Hussein call for Saddam Hussein to be sentenced to death, together with his half brother Barzan al-Tikriti and former vice-president Taha Yassin Ramadan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Mail](http://www.dailymail.co.uk/pages/live/articles/news/worldnews.html?in_article_id=391369&in_page_id=1811&in_a_source=reuters&ito=1490)
 

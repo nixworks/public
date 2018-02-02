@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/10/the-nobel-peace-prize-winner-liu-xiaobo-is-in-c
 
 ### [2017-07-10](/news/2017/07/10/index.md)
 
+##### Human rights in China
 # The Nobel Peace Prize winner Liu Xiaobo is in "critical condition," according to Chinese doctors. 
 
 The government offered little hope that Liu Xiaobo, the country’s most famous political prisoner, would be allowed to go abroad for treatment, as he has requested.

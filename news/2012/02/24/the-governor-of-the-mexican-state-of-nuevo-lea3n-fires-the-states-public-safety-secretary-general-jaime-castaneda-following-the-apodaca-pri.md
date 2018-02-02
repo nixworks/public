@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/24/the-governor-of-the-mexican-state-of-nuevo-lea3n-fires-the-states-public-safety-secretary-general-jaime-castaneda-following-the-apodaca-pri.html)  [JSON](/news/2012/02/24/the-governor-of-the-mexican-state-of-nuevo-lea3n-fires-the-states-public-safety-secretary-general-jaime-castaneda-following-the-apodaca-pri.json)  [XML](/news/2012/02/24/the-governor-of-the-mexican-state-of-nuevo-lea3n-fires-the-states-public-safety-secretary-general-jaime-castaneda-following-the-apodaca-pri.xml)  
+
 ### [2012-02-24](/news/2012/02/24/index.md)
 
+##### Governor
 # The Governor of the Mexican state of Nuevo Leon fires the states' public safety secretary General Jaime Castaneda following the Apodaca prison riot where 44 inmates were killed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5iFPeQWRI8eS9EgGhseQ6-9mCEFhg?docId=f8f6adbcd8b0472a85fee341144d00d8)
 
@@ -14,5 +18,5 @@
 1. [President-elect Donald Trump announces that his team has made a deal with Carrier Corporation that would save around 1,000 jobs at an Indiana factory. Carrier had planned to move production from a key factory in that state to Nuevo Leon, Mexico. ](/news/2016/11/30/president-elect-donald-trump-announces-that-his-team-has-made-a-deal-with-carrier-corporation-that-would-save-around-1-000-jobs-at-an-indian.md) _Context: Mexico, Nuevo Leon_
 2. [A mass grave containing at least 50 tortured and burned corpses is unearthed east of Monterrey, Nuevo Leon, in Mexico. ](/news/2010/07/24/a-mass-grave-containing-at-least-50-tortured-and-burned-corpses-is-unearthed-east-of-monterrey-nuevo-lea3n-in-mexico.md) _Context: Mexico, Nuevo Leon_
 3. [ The United States Food and Drug Administration finds the salmonella strain responsible for the 2008 United States salmonellosis outbreak in irrigation water at a serrano pepper at a farm in Nuevo Leon, Mexico. ](/news/2008/07/30/the-united-states-food-and-drug-administration-finds-the-salmonella-strain-responsible-for-the-2008-united-states-salmonellosis-outbreak-in.md) _Context: Mexico, Nuevo Leon_
-4. [A Mexican military Bell 412 model helicopter crashes northeast of the town of El Salto in the mountainous state of Durango, seriously injuring one military member aboard and likely killing seven others. ](/news/2017/10/6/a-mexican-military-bell-412-model-helicopter-crashes-northeast-of-the-town-of-el-salto-in-the-mountainous-state-of-durango-seriously-injuri.md) _Context: Mexico_
-5. [A riot at Cadereyta Jimenez prison located outside the city of Monterrey, Nuevo Leon, Mexico, kills at least 13 people. ](/news/2017/10/10/a-riot-at-cadereyta-jima-c-nez-prison-located-outside-the-city-of-monterrey-nuevo-leon-mexico-kills-at-least-13-people.md) _Context: Mexico_
+4. [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-pea-a-nieto-and-foreign-secretary-luis-videgaray.md) _Context: Mexico_
+5. [Eleven people are killed in La Concepcion, Mexico, near the Pacific coast resort of Acapulco, following violent clashes involving gunmen, a community police force, and state police in the southern state of Guerrero. ](/news/2018/01/7/eleven-people-are-killed-in-la-concepcia3n-mexico-near-the-pacific-coast-resort-of-acapulco-following-violent-clashes-involving-gunmen-a.md) _Context: Mexico_

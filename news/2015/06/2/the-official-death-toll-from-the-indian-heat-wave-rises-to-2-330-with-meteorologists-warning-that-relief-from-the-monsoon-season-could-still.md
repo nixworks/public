@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2015/06/2/the-official-death-toll-from-the-indian-heat-wave-rises-to-2-330-with-meteorologists-warning-that-relief-from-the-monsoon-season-could-still.html)  [JSON](/news/2015/06/2/the-official-death-toll-from-the-indian-heat-wave-rises-to-2-330-with-meteorologists-warning-that-relief-from-the-monsoon-season-could-still.json)  [XML](/news/2015/06/2/the-official-death-toll-from-the-indian-heat-wave-rises-to-2-330-with-meteorologists-warning-that-relief-from-the-monsoon-season-could-still.xml)  
+
 ### [2015-06-2](/news/2015/06/2/index.md)
 
+##### 2015 Indian heat wave
 # The official death toll from the Indian heat wave rises to 2,330 with meteorologists warning that relief from the monsoon season could still be days away. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2015/06/01/asia/india-heat-wave-deaths/index.html?eref=edition)
+
+### Changes:
+
+1. [2015 Indian heat wave: The official death toll from the Indian heat wave rises to 2,330 with meteorologists warning that relief from the monsoon season could still be days away. ](/news/2015/06/2/2015-indian-heat-wave-the-official-death-toll-from-the-indian-heat-wave-rises-to-2-330-with-meteorologists-warning-that-relief-from-the-mon.md) _2017-08-27 03:42:28 (First version)_
+1. [The official death toll from the Indian heat wave rises to 2,330 with meteorologists warning that relief from the monsoon season could still be days away. ](/news/2015/06/2/the-official-death-toll-from-the-indian-heat-wave-rises-to-2-330-with-meteorologists-warning-that-relief-from-the-monsoon-season-could-still.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [At least 134 people are dead and dozens are missing in landslides caused by days of heavy monsoonal rain in Bangladesh. ](/news/2017/06/13/at-least-134-people-are-dead-and-dozens-are-missing-in-landslides-caused-by-days-of-heavy-monsoonal-rain-in-bangladesh.md) _Context: monsoon_
 4. [At least 64 people die in Nepal after heavy monsoonal rain triggers floods and landslides. ](/news/2016/07/28/at-least-64-people-die-in-nepal-after-heavy-monsoonal-rain-triggers-floods-and-landslides.md) _Context: monsoon_
 5. [Floods resulting from the annual monsoon season cause 22 deaths and make 100,000 people homeless in India. ](/news/2016/07/11/floods-resulting-from-the-annual-monsoon-season-cause-22-deaths-and-make-100-000-people-homeless-in-india.md) _Context: monsoon_
-
-### Changes:
-
-1. [2015 Indian heat wave: The official death toll from the Indian heat wave rises to 2,330 with meteorologists warning that relief from the monsoon season could still be days away. ](/news/2015/06/2/2015-indian-heat-wave-the-official-death-toll-from-the-indian-heat-wave-rises-to-2-330-with-meteorologists-warning-that-relief-from-the-mon.md) _2017-08-27 03:42:28 (First version)_
-1. [The official death toll from the Indian heat wave rises to 2,330 with meteorologists warning that relief from the monsoon season could still be days away. ](/news/2015/06/2/the-official-death-toll-from-the-indian-heat-wave-rises-to-2-330-with-meteorologists-warning-that-relief-from-the-monsoon-season-could-still.md) _(Current version)_

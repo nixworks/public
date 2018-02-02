@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/29/the-united-states-senate-republican-party-leadership-requests-that-senator-larry-craig-of-idaho-stand-aside-from-his-senate-committees-unti.html)  [JSON](/news/2007/08/29/the-united-states-senate-republican-party-leadership-requests-that-senator-larry-craig-of-idaho-stand-aside-from-his-senate-committees-unti.json)  [XML](/news/2007/08/29/the-united-states-senate-republican-party-leadership-requests-that-senator-larry-craig-of-idaho-stand-aside-from-his-senate-committees-unti.xml)  
+
 ### [2007-08-29](/news/2007/08/29/index.md)
 
+##### United States Senate
 #  The United States Senate Republican Party leadership requests that Senator Larry Craig of Idaho stand aside from his Senate committees until the United States Senate Select Committee on Ethics makes a ruling on his situation. Senator Craig agrees. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [WSJ](http://blogs.wsj.com/washwire/2007/08/29/sen-craig-pushed-from-committee-posts/)
 1. [Cover Image](http://s.wsj.net/blogs/img/WSJ_Logo_BlackBackground_1200x630social)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/17/ethiopia-s-prime-minister-meles-zenawi-denounces-an-international-crisis-group-icg-report-that-warns-his-country-could-descend-into-ethni.html)  [JSON](/news/2009/09/17/ethiopia-s-prime-minister-meles-zenawi-denounces-an-international-crisis-group-icg-report-that-warns-his-country-could-descend-into-ethni.json)  [XML](/news/2009/09/17/ethiopia-s-prime-minister-meles-zenawi-denounces-an-international-crisis-group-icg-report-that-warns-his-country-could-descend-into-ethni.xml)  
+
 ### [2009-09-17](/news/2009/09/17/index.md)
 
+##### Ethiopia
 #  Ethiopia's Prime Minister Meles Zenawi denounces an International Crisis Group (ICG) report that warns his country could descend into ethnic violence ahead of its first national election since a 2005 poll triggered deadly street clashes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=87&art_id=nw20090917101252698C892021)
 

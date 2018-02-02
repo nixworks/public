@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/16/a-zimbabwean-judge-clears-two-british-journalists-of-reporting-on-the-2008-presidential-election-without-accreditation.html)  [JSON](/news/2008/04/16/a-zimbabwean-judge-clears-two-british-journalists-of-reporting-on-the-2008-presidential-election-without-accreditation.json)  [XML](/news/2008/04/16/a-zimbabwean-judge-clears-two-british-journalists-of-reporting-on-the-2008-presidential-election-without-accreditation.xml)  
+
 ### [2008-04-16](/news/2008/04/16/index.md)
 
+##### Zimbabwe
 #  A Zimbabwean judge clears two British journalists of reporting on the 2008 presidential election without accreditation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via the ''San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2008/04/16/international/i021612D18.DTL&type=politics)
 

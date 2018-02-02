@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/6/nepalese-authorities-ban-exiled-tibetans-from-celebrating-the-dalai-lama-s-birthday-for-fears-that-the-gatherings-will-turn-anti-chinese.html)  [JSON](/news/2011/07/6/nepalese-authorities-ban-exiled-tibetans-from-celebrating-the-dalai-lama-s-birthday-for-fears-that-the-gatherings-will-turn-anti-chinese.json)  [XML](/news/2011/07/6/nepalese-authorities-ban-exiled-tibetans-from-celebrating-the-dalai-lama-s-birthday-for-fears-that-the-gatherings-will-turn-anti-chinese.xml)  
+
 ### [2011-07-6](/news/2011/07/6/index.md)
 
+##### Nepal
 # Nepalese authorities ban exiled Tibetans from celebrating the Dalai Lama's birthday for fears that the gatherings will turn anti-Chinese. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/43649818)
 
@@ -13,6 +17,6 @@
 
 1. [A teenage Tibetan Buddhist nun Tenzin Choedon dies after setting herself on fire in protest against Chinese rule of Tibet in Sichuan province. ](/news/2012/02/12/a-teenage-tibetan-buddhist-nun-tenzin-choedon-dies-after-setting-herself-on-fire-in-protest-against-chinese-rule-of-tibet-in-sichuan-provinc.md) _Context: Chinese, Tibetan_
 2. [Ten Tibetans arrested after crossing into Nepal are handed over to the United Nations High Commissioner for Refugees in Kathmandu, reversing an earlier decision to deport them back to China. ](/news/2010/01/18/ten-tibetans-arrested-after-crossing-into-nepal-are-handed-over-to-the-united-nations-high-commissioner-for-refugees-in-kathmandu-reversing.md) _Context: Nepal, Tibetan_
-3. [At least 14 people are killed in the Indian city of Mumbai as nearly a month's average rainfall fell yesterday during the worst monsoon in years. More than 1,200 people have been killed across India, Nepal and Bangladesh. ](/news/2017/08/30/at-least-14-people-are-killed-in-the-indian-city-of-mumbai-as-nearly-a-month-s-average-rainfall-fell-yesterday-during-the-worst-monsoon-in-y.md) _Context: Nepal_
-4. [Flooding in South Asia has displaced tens of thousands of people and resulted in an estimated 500 deaths across India, Bangladesh, and Nepal. ](/news/2017/08/18/flooding-in-south-asia-has-displaced-tens-of-thousands-of-people-and-resulted-in-an-estimated-500-deaths-across-india-bangladesh-and-nepal.md) _Context: Nepal_
-5. [Flooding in Nepal leaves at least 36 dead and dozens more missing. ](/news/2017/08/12/flooding-in-nepal-leaves-at-least-36-dead-and-dozens-more-missing.md) _Context: Nepal_
+3. [The Parliament of Catalonia opens the new legislature. Roger Torrent (ERC) is named Speaker. Three parliamentarians in jail vote through proxies, the five parlementarians in exile in Belgium do not. Carles Puigdemont (PDeCAT, JuntsxCat), through his spokesman, considers it "perfectly plausible" for him to be president remotely. Spanish Prime Minister Mariano Rajoy says that he will not restore Catalonia's autonomous powers if the regional parliament permits Puigdemont to lead the government from exile. ](/news/2018/01/17/the-parliament-of-catalonia-opens-the-new-legislature-roger-torrent-erc-is-named-speaker-three-parliamentarians-in-jail-vote-through-pro.md) _Context: exile_
+4. [Voters in Nepal go to the polls for the second round of a historic legislative election. The turnout is 67%, up from 65% in the first round. ](/news/2017/12/7/voters-in-nepal-go-to-the-polls-for-the-second-round-of-a-historic-legislative-election-the-turnout-is-67-up-from-65-in-the-first-round.md) _Context: Nepal_
+5. [Nepal bans solo climbers, double amputees and blind climbers from scaling its mountains, including Mount Everest, in a bid to reduce accidents. This has been criticized by successful double-amputee Everest climbers. ](/news/2017/12/30/nepal-bans-solo-climbers-double-amputees-and-blind-climbers-from-scaling-its-mountains-including-mount-everest-in-a-bid-to-reduce-acciden.md) _Context: Nepal_

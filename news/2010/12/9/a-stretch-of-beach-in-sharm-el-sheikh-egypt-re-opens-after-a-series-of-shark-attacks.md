@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/9/a-stretch-of-beach-in-sharm-el-sheikh-egypt-re-opens-after-a-series-of-shark-attacks.html)  [JSON](/news/2010/12/9/a-stretch-of-beach-in-sharm-el-sheikh-egypt-re-opens-after-a-series-of-shark-attacks.json)  [XML](/news/2010/12/9/a-stretch-of-beach-in-sharm-el-sheikh-egypt-re-opens-after-a-series-of-shark-attacks.xml)  
+
 ### [2010-12-9](/news/2010/12/9/index.md)
 
+##### Sharm el-Sheikh
 # A stretch of beach in Sharm el-Sheikh, Egypt, re-opens after a series of shark attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jRf2pUS_TqDVG56RKyHibhIxXEEQ?docId=e165c35176e14a6ebf50a916a22d0907)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/11/azerbaijan-air-force-lieutenant-general-rail-rzayev-is-killed-in-baku.html)  [JSON](/news/2009/02/11/azerbaijan-air-force-lieutenant-general-rail-rzayev-is-killed-in-baku.json)  [XML](/news/2009/02/11/azerbaijan-air-force-lieutenant-general-rail-rzayev-is-killed-in-baku.xml)  
+
 ### [2009-02-11](/news/2009/02/11/index.md)
 
+##### Azerbaijan
 #  Azerbaijan Air Force Lieutenant General Rail Rzayev is killed in Baku. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7882911.stm)
 

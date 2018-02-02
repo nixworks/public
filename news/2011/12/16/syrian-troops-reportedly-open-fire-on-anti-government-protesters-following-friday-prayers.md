@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/16/syrian-troops-reportedly-open-fire-on-anti-government-protesters-following-friday-prayers.html)  [JSON](/news/2011/12/16/syrian-troops-reportedly-open-fire-on-anti-government-protesters-following-friday-prayers.json)  [XML](/news/2011/12/16/syrian-troops-reportedly-open-fire-on-anti-government-protesters-following-friday-prayers.xml)  
+
 ### [2011-12-16](/news/2011/12/16/index.md)
 
+##### Syria
 # Syrian troops reportedly open fire on anti-government protesters following Friday prayers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5hn9Vltibrm1jARGW4dKrjGAry6Gg?docId=e178af1630fa417dbb7f1f800c66d6b7)
 

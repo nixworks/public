@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/7/the-ukrainian-supreme-court-rejects-viktor-yanukovych-s-appeal-against-the-electoral-commission-s-decision-that-he-lost-the-presidential-el.html)  [JSON](/news/2005/01/7/the-ukrainian-supreme-court-rejects-viktor-yanukovych-s-appeal-against-the-electoral-commission-s-decision-that-he-lost-the-presidential-el.json)  [XML](/news/2005/01/7/the-ukrainian-supreme-court-rejects-viktor-yanukovych-s-appeal-against-the-electoral-commission-s-decision-that-he-lost-the-presidential-el.xml)  
+
 ### [2005-01-7](/news/2005/01/7/index.md)
 
+##### Ukraine
 #  The Ukrainian Supreme Court rejects Viktor Yanukovych's appeal against the electoral commission's decision that he lost the presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4152737.stm)
 2. [Reuters](http://www.reuters.co.uk/newsArticle.jhtml?type=worldNews&storyID=649874)

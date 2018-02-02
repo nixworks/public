@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/26/dr-ezzeldeen-abu-al-aish-files-a-lawsuit-against-israel-one-day-before-the-second-anniversary-of-israel-s-war-on-gaza-abu-al-aish-s-three-d.html)  [JSON](/news/2010/12/26/dr-ezzeldeen-abu-al-aish-files-a-lawsuit-against-israel-one-day-before-the-second-anniversary-of-israel-s-war-on-gaza-abu-al-aish-s-three-d.json)  [XML](/news/2010/12/26/dr-ezzeldeen-abu-al-aish-files-a-lawsuit-against-israel-one-day-before-the-second-anniversary-of-israel-s-war-on-gaza-abu-al-aish-s-three-d.xml)  
+
 ### [2010-12-26](/news/2010/12/26/index.md)
 
+##### Ezzeldeen Abu al-Aish
 # Dr Ezzeldeen Abu al-Aish files a lawsuit against Israel one day before the second anniversary of Israel's War on Gaza. Abu al-Aish's three daughters were killed at home by Israeli forces on live television on 16 January 2009 as the gynaecologist was doing an interview with Israel's Channel 10 television. 
 
 Father of three daughters killed by Israeli forces files case after failing to reach compensation deal.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/2010122692144549633.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/26/20101226940236112_20.jpg)

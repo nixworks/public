@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/12/9/the-space-shuttle-discovery-makes-a-rare-night-time-launch.html)  [JSON](/news/2006/12/9/the-space-shuttle-discovery-makes-a-rare-night-time-launch.json)  [XML](/news/2006/12/9/the-space-shuttle-discovery-makes-a-rare-night-time-launch.xml)  
+
 ### [2006-12-9](/news/2006/12/9/index.md)
 
+##### Discovery
 #  The Space Shuttle "Discovery" makes a rare night time launch. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Yahoo/AP](http://news.yahoo.com/s/ap/20061210/ap_on_sc/space_shuttle)
+1. [Yahoo/AP](https://news.yahoo.com/s/ap/20061210/ap_on_sc/space_shuttle)
 
 ### Related:
 

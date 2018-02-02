@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/16/ali-akbar-salehi-former-iranian-foreign-minister-is-appointed-as-head-of-atomic-energy-organization-of-iran.html)  [JSON](/news/2013/08/16/ali-akbar-salehi-former-iranian-foreign-minister-is-appointed-as-head-of-atomic-energy-organization-of-iran.json)  [XML](/news/2013/08/16/ali-akbar-salehi-former-iranian-foreign-minister-is-appointed-as-head-of-atomic-energy-organization-of-iran.xml)  
+
 ### [2013-08-16](/news/2013/08/16/index.md)
 
+##### Ali Akbar Salehi
 # Ali Akbar Salehi, former Iranian foreign minister, is appointed as head of Atomic Energy Organization of Iran. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IRNA](http://www3.sari.irna.ir/en/News/80775590/Politic/President_appoints_Salehi_as_Nuclear_Energy_Organization_Chief)
 

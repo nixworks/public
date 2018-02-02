@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/28/the-united-nations-accuses-eritrea-of-attempting-to-bomb-an-african-union-summit-in-ethiopia.html)  [JSON](/news/2011/07/28/the-united-nations-accuses-eritrea-of-attempting-to-bomb-an-african-union-summit-in-ethiopia.json)  [XML](/news/2011/07/28/the-united-nations-accuses-eritrea-of-attempting-to-bomb-an-african-union-summit-in-ethiopia.xml)  
+
 ### [2011-07-28](/news/2011/07/28/index.md)
 
+##### United Nations
 # The United Nations accuses Eritrea of attempting to bomb an African Union summit in Ethiopia. 
 
 A United Nations report accuses Eritrea of planning to set off a car bomb at a summit of the African Union in Ethiopia last January.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-14335752)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54330000/jpg/_54330236_sized2_au-hi012337546.jpg)

@@ -1,14 +1,19 @@
+
+Formats: [HTML](/news/2011/03/21/efforts-continue-to-cool-the-reactors-at-the-fukushima-i-nuclear-power-plant-following-recent-accidents-with-signs-that-the-treatment-effort.html)  [JSON](/news/2011/03/21/efforts-continue-to-cool-the-reactors-at-the-fukushima-i-nuclear-power-plant-following-recent-accidents-with-signs-that-the-treatment-effort.json)  [XML](/news/2011/03/21/efforts-continue-to-cool-the-reactors-at-the-fukushima-i-nuclear-power-plant-following-recent-accidents-with-signs-that-the-treatment-effort.xml)  
+
 ### [2011-03-21](/news/2011/03/21/index.md)
 
+##### Fukushima I Nuclear Power Plant
 # Efforts continue to cool the reactors at the Fukushima I Nuclear Power Plant following recent accidents with signs that the treatment efforts are working. 
 
+Japanese Prime Minister Naoto Kan said he can see “light at the end of the tunnel” even as smoke at two reactors hampered efforts to restore cooling systems at the troubled Fukushima Daiichi nuclear plant.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2011-03-21/japan-s-nuclear-crisis-eases-as-spent-fuel-pools-cool-below-boiling-point.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2011-03-21/japan-s-nuclear-crisis-eases-as-spent-fuel-pools-cool-below-boiling-point.html)
 2. [Kyodo News](http://english.kyodonews.jp/news/2011/03/79865.html)
+2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

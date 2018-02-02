@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/13/a-bomb-explodes-on-the-rajdhani-express-in-assam-india-near-chungajan-killing-five-passengers.html)  [JSON](/news/2007/12/13/a-bomb-explodes-on-the-rajdhani-express-in-assam-india-near-chungajan-killing-five-passengers.json)  [XML](/news/2007/12/13/a-bomb-explodes-on-the-rajdhani-express-in-assam-india-near-chungajan-killing-five-passengers.xml)  
+
 ### [2007-12-13](/news/2007/12/13/index.md)
 
+##### Rajdhani Express
 #  A bomb explodes on the Rajdhani Express in Assam, India near Chungajan killing five passengers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5jecC6kXo0ouj1ysvwGRNbzYJ_uYQD8TGB5DO0)
 

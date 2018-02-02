@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/4/a-court-in-burma-agrees-to-hear-an-appeal-by-detained-national-league-for-democracy-leader-aung-san-suu-kyi.html)  [JSON](/news/2009/09/4/a-court-in-burma-agrees-to-hear-an-appeal-by-detained-national-league-for-democracy-leader-aung-san-suu-kyi.json)  [XML](/news/2009/09/4/a-court-in-burma-agrees-to-hear-an-appeal-by-detained-national-league-for-democracy-leader-aung-san-suu-kyi.xml)  
+
 ### [2009-09-4](/news/2009/09/4/index.md)
 
+##### Burma
 #  A court in Burma agrees to hear an appeal by detained National League for Democracy leader Aung San Suu Kyi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jakarta Post](http://www.thejakartapost.com/news/2009/09/04/myanmar-court-accepts-suu-kyi-appeal.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2009/sep/04/aung-san-suu-kyi-appeal)

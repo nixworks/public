@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/19/the-liberal-party-of-canada-announces-it-has-scheduled-the-vote-for-a-new-leader-for-december-3.html)  [JSON](/news/2006/03/19/the-liberal-party-of-canada-announces-it-has-scheduled-the-vote-for-a-new-leader-for-december-3.json)  [XML](/news/2006/03/19/the-liberal-party-of-canada-announces-it-has-scheduled-the-vote-for-a-new-leader-for-december-3.xml)  
+
 ### [2006-03-19](/news/2006/03/19/index.md)
 
+##### Liberal Party's
 #  The Liberal Party of Canada announces it has scheduled the vote for a new leader for December 3. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2006/03/19/sliberals-race060319.html)
 

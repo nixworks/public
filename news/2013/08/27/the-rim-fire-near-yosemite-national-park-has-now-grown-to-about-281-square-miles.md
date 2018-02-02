@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/27/the-rim-fire-near-yosemite-national-park-has-now-grown-to-about-281-square-miles.html)  [JSON](/news/2013/08/27/the-rim-fire-near-yosemite-national-park-has-now-grown-to-about-281-square-miles.json)  [XML](/news/2013/08/27/the-rim-fire-near-yosemite-national-park-has-now-grown-to-about-281-square-miles.xml)  
+
 ### [2013-08-27](/news/2013/08/27/index.md)
 
+##### Rim Fire
 # The Rim Fire near Yosemite National Park has now grown to about 281 square miles. 
 
 Crews made some progress overnight on the aggressive wildfire burning in parts of Yosemite National Park, but the fire grew to 179,481 acres.
 
 
-### Source:
+### Sources:
 
 1. [Southern California Public Radio](http://www.scpr.org/news/2013/08/27/38900/rim-fire-yosemite-wildfire-now-7th-largest-in-cali/)
 1. [Cover Image](http://a.scpr.org/i/b6cf190266c328ec41bd58104d903db7/67104-full.jpg)

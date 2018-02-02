@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/19/jose-maria-aznar-s-government-in-spain-is-dissolved-prior-to-march-general-elections-he-has-said-he-will-not-run-for-a-third-term-of-offic.html)  [JSON](/news/2004/01/19/jose-maria-aznar-s-government-in-spain-is-dissolved-prior-to-march-general-elections-he-has-said-he-will-not-run-for-a-third-term-of-offic.json)  [XML](/news/2004/01/19/jose-maria-aznar-s-government-in-spain-is-dissolved-prior-to-march-general-elections-he-has-said-he-will-not-run-for-a-third-term-of-offic.xml)  
+
 ### [2004-01-19](/news/2004/01/19/index.md)
 
+##### Jos Mara Aznar
 #  Jos Mara Aznar's government in Spain is dissolved prior to March general elections. He has said he will not run for a third term of office.
 
 

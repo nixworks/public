@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/31/more-than-5-000-royal-police-are-deployed-to-bangkok-thailand-as-supporters-of-deposed-prime-minister-thaksin-shinawatra-protest.html)  [JSON](/news/2009/01/31/more-than-5-000-royal-police-are-deployed-to-bangkok-thailand-as-supporters-of-deposed-prime-minister-thaksin-shinawatra-protest.json)  [XML](/news/2009/01/31/more-than-5-000-royal-police-are-deployed-to-bangkok-thailand-as-supporters-of-deposed-prime-minister-thaksin-shinawatra-protest.xml)  
+
 ### [2009-01-31](/news/2009/01/31/index.md)
 
+##### Thai police
 #  More than 5,000 Royal Police are deployed to Bangkok, Thailand, as supporters of deposed Prime Minister Thaksin Shinawatra protest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5j3CHHWs21qn_1GpbK1npE5q3REJA)
 

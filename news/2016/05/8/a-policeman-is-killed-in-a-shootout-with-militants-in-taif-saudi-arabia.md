@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/8/a-policeman-is-killed-in-a-shootout-with-militan
 
 ### [2016-05-8](/news/2016/05/8/index.md)
 
+##### Terrorism in Saudi Arabia
 #  A policeman is killed in a shootout with militants in Taif, Saudi Arabia. 
 
 A Saudi soldier died in a gunbattle with militants in the western Taif region outside Mecca on Sunday, state news agency SPA said.
@@ -25,4 +26,4 @@ A Saudi soldier died in a gunbattle with militants in the western Taif region ou
 2. [A man shoots six people dead at an education centre in Jizan Province, Saudi Arabia. ](/news/2016/02/11/a-man-shoots-six-people-dead-at-an-education-centre-in-jizan-province-saudi-arabia.md) _Context: Saudi Arabia, Terrorism in Saudi Arabia_
 3. [At least 3 people are killed and 7 wounded in an attack on a Shia mosque in Saudi Arabia's Eastern Province. ](/news/2016/01/29/at-least-3-people-are-killed-and-7-wounded-in-an-attack-on-a-shia-mosque-in-saudi-arabia-s-eastern-province.md) _Context: Saudi Arabia, Terrorism in Saudi Arabia_
 4. [A gunman from the Islamic State opens fire on a Shiite meeting hall in Saudi Arabia, killing five people. ](/news/2015/10/17/a-gunman-from-the-islamic-state-opens-fire-on-a-shiite-meeting-hall-in-saudi-arabia-killing-five-people.md) _Context: Saudi Arabia, Terrorism in Saudi Arabia_
-5. [Saudi Arabia's Crown Prince Mohammad bin Salman accuses Iran of an act of "direct military aggression" by supplying missiles to rebels in Yemen. ](/news/2017/11/7/saudi-arabia-s-crown-prince-mohammad-bin-salman-accuses-iran-of-an-act-of-direct-military-aggression-by-supplying-missiles-to-rebels-in-ye.md) _Context: Saudi Arabia_
+5. [For the first time, Saudi Arabia allows women to spectate at football matches, part of an easing of strict rules on gender separation by the ultra-conservative Muslim country. ](/news/2018/01/12/for-the-first-time-saudi-arabia-allows-women-to-spectate-at-football-matches-part-of-an-easing-of-strict-rules-on-gender-separation-by-the.md) _Context: Saudi Arabia_

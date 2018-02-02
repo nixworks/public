@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/25/occupation-of-iraq-at-least-two-rockets-are-reported-fired-near-the-us-compound-in-central-baghdad.html)  [JSON](/news/2003/11/25/occupation-of-iraq-at-least-two-rockets-are-reported-fired-near-the-us-compound-in-central-baghdad.json)  [XML](/news/2003/11/25/occupation-of-iraq-at-least-two-rockets-are-reported-fired-near-the-us-compound-in-central-baghdad.xml)  
+
 ### [2003-11-25](/news/2003/11/25/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: At least two rockets are reported fired near the US compound in central Baghdad.
 
 

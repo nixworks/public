@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/19/the-eurasian-economic-community-led-by-russia-offers-belarus-a-3-billion-bailout-package.html)  [JSON](/news/2011/05/19/the-eurasian-economic-community-led-by-russia-offers-belarus-a-3-billion-bailout-package.json)  [XML](/news/2011/05/19/the-eurasian-economic-community-led-by-russia-offers-belarus-a-3-billion-bailout-package.xml)  
+
 ### [2011-05-19](/news/2011/05/19/index.md)
 
+##### Eurasian Economic Community
 # The Eurasian Economic Community, led by Russia, offers Belarus a $3 billion bailout package. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Financial Times](http://www.ft.com/cms/s/0/0a19e488-8242-11e0-961e-00144feabdc0.html?ftcamp=rss#axzz1MqXk69DD)
 

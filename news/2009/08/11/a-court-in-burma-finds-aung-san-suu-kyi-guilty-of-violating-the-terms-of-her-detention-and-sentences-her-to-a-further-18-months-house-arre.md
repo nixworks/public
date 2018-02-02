@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/11/a-court-in-burma-finds-aung-san-suu-kyi-guilty-of-violating-the-terms-of-her-detention-and-sentences-her-to-a-further-18-months-house-arre.html)  [JSON](/news/2009/08/11/a-court-in-burma-finds-aung-san-suu-kyi-guilty-of-violating-the-terms-of-her-detention-and-sentences-her-to-a-further-18-months-house-arre.json)  [XML](/news/2009/08/11/a-court-in-burma-finds-aung-san-suu-kyi-guilty-of-violating-the-terms-of-her-detention-and-sentences-her-to-a-further-18-months-house-arre.xml)  
+
 ### [2009-08-11](/news/2009/08/11/index.md)
 
+##### Burma
 #  A court in Burma finds Aung San Suu Kyi guilty of violating the terms of her detention, and sentences her to a further 18 months house arrest. 
 
 Court finds Myanmar opposition leader guilty of breaking internal security laws.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/07/20097312108211206.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8194596.stm)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/24/the-death-toll-from-the-two-mile-high-mount-sin
 
 ### [2016-07-24](/news/2016/07/24/index.md)
 
+##### Mount Sinabung
 # The death toll from the two-mile high Mount Sinabung ash eruption Saturday has risen to seven, with two others in critical condition. All victims were working farms in the village of Gamber in the Karo Regency of North Sumatra, within the volcano's "red zone" that Indonesian authorities have declared off-limits. 
 
 A volcanic eruption has killed 7 in Indonesia.

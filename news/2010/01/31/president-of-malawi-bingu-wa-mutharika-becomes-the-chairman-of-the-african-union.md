@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/31/president-of-malawi-bingu-wa-mutharika-becomes-the-chairman-of-the-african-union.html)  [JSON](/news/2010/01/31/president-of-malawi-bingu-wa-mutharika-becomes-the-chairman-of-the-african-union.json)  [XML](/news/2010/01/31/president-of-malawi-bingu-wa-mutharika-becomes-the-chairman-of-the-african-union.xml)  
+
 ### [2010-01-31](/news/2010/01/31/index.md)
 
+##### President of Malawi
 # President of Malawi Bingu wa Mutharika becomes the Chairman of the African Union. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gPjhhpQJ-vzks_SQGdxnjuyYL46g)
 

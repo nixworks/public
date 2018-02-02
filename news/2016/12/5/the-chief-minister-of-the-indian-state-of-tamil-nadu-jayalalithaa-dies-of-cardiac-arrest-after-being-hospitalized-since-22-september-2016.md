@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/5/the-chief-minister-of-the-indian-state-of-tamil-
 
 ### [2016-12-5](/news/2016/12/5/index.md)
 
+##### Tamil Nadu
 #  The chief minister of the Indian state of Tamil Nadu, Jayalalithaa, dies of cardiac arrest after being hospitalized since 22 September 2016. 
 
 Dismissing the reports as &quot;totally baseless and false&quot;, Apollo asked news channels to rectify their &quot;mistake&quot;.

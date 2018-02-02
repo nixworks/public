@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/05/23/2007-israel-gaza-conflict-militants-in-the-gaza-strip-fire-eight-rockets-at-the-southern-israeli-cities-of-sderot-and-kibbutz-nir-am-the.html)  [JSON](/news/2007/05/23/2007-israel-gaza-conflict-militants-in-the-gaza-strip-fire-eight-rockets-at-the-southern-israeli-cities-of-sderot-and-kibbutz-nir-am-the.json)  [XML](/news/2007/05/23/2007-israel-gaza-conflict-militants-in-the-gaza-strip-fire-eight-rockets-at-the-southern-israeli-cities-of-sderot-and-kibbutz-nir-am-the.xml)  
+
 ### [2007-05-23](/news/2007/05/23/index.md)
 
+##### 2007 Israel-Gaza conflict
 #  2007 Israel-Gaza conflict: Militants in the Gaza Strip fire eight rockets at the southern Israeli cities of Sderot and Kibbutz Nir Am. The IAF makes an air strike on the Gaza Strip, in which they destroy two buildings. 
 
 Following relatively quiet day in southern Israel, two Qassams land south of Ashkelon, another two fall near Sderot, one of them killing mare in Kibbutz Nir Am. Two IDF soldiers lightly injured by gunshots in northern Gaza
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSL1731780720070523)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSL1731780720070523)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3403677,00.html)
 2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 

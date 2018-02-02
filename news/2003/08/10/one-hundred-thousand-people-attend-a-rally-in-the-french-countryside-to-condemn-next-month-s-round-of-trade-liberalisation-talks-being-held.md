@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/10/one-hundred-thousand-people-attend-a-rally-in-the-french-countryside-to-condemn-next-month-s-round-of-trade-liberalisation-talks-being-held.html)  [JSON](/news/2003/08/10/one-hundred-thousand-people-attend-a-rally-in-the-french-countryside-to-condemn-next-month-s-round-of-trade-liberalisation-talks-being-held.json)  [XML](/news/2003/08/10/one-hundred-thousand-people-attend-a-rally-in-the-french-countryside-to-condemn-next-month-s-round-of-trade-liberalisation-talks-being-held.xml)  
+
 ### [2003-08-10](/news/2003/08/10/index.md)
 
+##### Cancun
 #  One hundred thousand people attend a rally in the French countryside to condemn next month's round of trade liberalisation talks being held under auspices of the World Trade Organisation (WTO) in Cancun in Mexico.
 
 

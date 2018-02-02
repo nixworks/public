@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/15/the-european-union-suspends-direct-financial-ai
 
 ### [2016-03-15](/news/2016/03/15/index.md)
 
+##### Burundian unrest (2015-present)
 # The European Union suspends direct financial aid to Burundi after concluding that the Burundian authorities had not done enough to find a political solution to the ongoing conflict occurring in the country. 
 
 EU withholds direct financial support to Bujumbura after concluding that authorities have not done enough to end conflict in Burundi

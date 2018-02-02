@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/2/a-burmese-court-rejects-aung-san-suu-kyi-s-appeal-against-her-extended-detention.html)  [JSON](/news/2009/10/2/a-burmese-court-rejects-aung-san-suu-kyi-s-appeal-against-her-extended-detention.json)  [XML](/news/2009/10/2/a-burmese-court-rejects-aung-san-suu-kyi-s-appeal-against-her-extended-detention.xml)  
+
 ### [2009-10-2](/news/2009/10/2/index.md)
 
+##### Burma
 #  A Burmese court rejects Aung San Suu Kyi's appeal against her extended detention. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/asia/155897/burma-judges-reject-suu-kyi-appeal-lawyers)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-10/02/content_12172788.htm)

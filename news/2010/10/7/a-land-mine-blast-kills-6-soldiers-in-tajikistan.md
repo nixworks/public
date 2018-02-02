@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/7/a-land-mine-blast-kills-6-soldiers-in-tajikistan.html)  [JSON](/news/2010/10/7/a-land-mine-blast-kills-6-soldiers-in-tajikistan.json)  [XML](/news/2010/10/7/a-land-mine-blast-kills-6-soldiers-in-tajikistan.xml)  
+
 ### [2010-10-7](/news/2010/10/7/index.md)
 
+##### Tajikistan
 # A land mine blast kills 6 soldiers in Tajikistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/world/04-tajikistan-mine-blast-qs-04)
 

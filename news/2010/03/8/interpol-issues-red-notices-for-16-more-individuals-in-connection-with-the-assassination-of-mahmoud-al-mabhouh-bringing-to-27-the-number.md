@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/8/interpol-issues-red-notices-for-16-more-individuals-in-connection-with-the-assassination-of-mahmoud-al-mabhouh-bringing-to-27-the-number.html)  [JSON](/news/2010/03/8/interpol-issues-red-notices-for-16-more-individuals-in-connection-with-the-assassination-of-mahmoud-al-mabhouh-bringing-to-27-the-number.json)  [XML](/news/2010/03/8/interpol-issues-red-notices-for-16-more-individuals-in-connection-with-the-assassination-of-mahmoud-al-mabhouh-bringing-to-27-the-number.xml)  
+
 ### [2010-03-8](/news/2010/03/8/index.md)
 
+##### Interpol
 # Interpol issues "red notices" for 16 more individuals in connection with the assassination of Mahmoud al-Mabhouh, bringing to 27 the number of people wanted for the assassination. 
 
 International Criminal Police Organization announces 27 people now wanted for alleged involvement in Hamas figure&#39;s killing. Interpol secretary-general says Dubai police&#39;s thorough probe has established clear link between passport records, security footage, DNA 
 
 
-### Source:
+### Sources:
 
 1. [Ha'aretz](http://www.haaretz.com/hasen/spages/1154922.html)
 2. [RTÉ](http://www.rte.ie/news/2010/0308/dubai.html)

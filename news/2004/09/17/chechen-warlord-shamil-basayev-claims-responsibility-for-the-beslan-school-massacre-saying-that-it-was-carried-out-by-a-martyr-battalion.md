@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/17/chechen-warlord-shamil-basayev-claims-responsibility-for-the-beslan-school-massacre-saying-that-it-was-carried-out-by-a-martyr-battalion.html)  [JSON](/news/2004/09/17/chechen-warlord-shamil-basayev-claims-responsibility-for-the-beslan-school-massacre-saying-that-it-was-carried-out-by-a-martyr-battalion.json)  [XML](/news/2004/09/17/chechen-warlord-shamil-basayev-claims-responsibility-for-the-beslan-school-massacre-saying-that-it-was-carried-out-by-a-martyr-battalion.xml)  
+
 ### [2004-09-17](/news/2004/09/17/index.md)
 
+##### Chechnya
 #  Chechen warlord Shamil Basayev claims responsibility for the Beslan school massacre, saying that it was carried out by a "martyr battalion" from Riyadus-Salikhin, the group that he heads. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC Au](http://www.abc.net.au/news/newsitems/200409/s1201684.htm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/3664864.stm)

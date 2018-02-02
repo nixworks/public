@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/12/six-taiwanese-prisoners-commit-suicide-after-releasing-hostages-captured-yesterday-in-kaohsiung-the-prisoners-were-protesting-their-sentenc.html)  [JSON](/news/2015/02/12/six-taiwanese-prisoners-commit-suicide-after-releasing-hostages-captured-yesterday-in-kaohsiung-the-prisoners-were-protesting-their-sentenc.json)  [XML](/news/2015/02/12/six-taiwanese-prisoners-commit-suicide-after-releasing-hostages-captured-yesterday-in-kaohsiung-the-prisoners-were-protesting-their-sentenc.xml)  
+
 ### [2015-02-12](/news/2015/02/12/index.md)
 
+##### Taiwanese
 # Six Taiwanese prisoners commit suicide after releasing hostages captured yesterday in Kaohsiung. The prisoners were protesting their sentences and alleged poor conditions of the Taiwanese prison system. 
 
 Six inmates who held a warden and guard hostage at a prison in Kaohsiung, Taiwan for 14 hours have killed themselves, says the justice ministry.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-31433538)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/80952000/jpg/_80952176_80952006.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/26/bolivia-s-deputy-interior-minister-rodolfo-illa
 
 ### [2016-08-26](/news/2016/08/26/index.md)
 
+##### Bolivia
 # Bolivia's deputy interior minister, Rodolfo Illanes, is kidnapped and beaten to death by striking miners. 
 
 Bolivian authorities say the deputy interior minister has been kidnapped and killed by striking miners.

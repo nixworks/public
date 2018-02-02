@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/28/2010-tunisian-protests-protests-in-tunisia-over-unemployment-and-poor-living-conditions-are-criticized-by-president-zine-el-abidine-ben-ali.html)  [JSON](/news/2010/12/28/2010-tunisian-protests-protests-in-tunisia-over-unemployment-and-poor-living-conditions-are-criticized-by-president-zine-el-abidine-ben-ali.json)  [XML](/news/2010/12/28/2010-tunisian-protests-protests-in-tunisia-over-unemployment-and-poor-living-conditions-are-criticized-by-president-zine-el-abidine-ben-ali.xml)  
+
 ### [2010-12-28](/news/2010/12/28/index.md)
 
+##### protests
 # 2010 Tunisian protests: Protests in Tunisia over unemployment and poor living conditions are criticized by President Zine El Abidine Ben Ali during a national television broadcast; he warns of "firm" punishment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hB6Da_RgG_Fe1nhTtpHR0dYX8vpA?docId=CNG.db5f496d7a6019b7bcd92dbc14c460ef.8a1)
 2. [Ahram Online](http://english.ahram.org.eg/NewsContent/3/15/2778/Business/Region/Youth-unemployment-sparks-Tunisian-tinderbox.aspx)

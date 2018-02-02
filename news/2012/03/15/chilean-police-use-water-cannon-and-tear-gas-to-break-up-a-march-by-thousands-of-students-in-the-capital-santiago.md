@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/15/chilean-police-use-water-cannon-and-tear-gas-to-break-up-a-march-by-thousands-of-students-in-the-capital-santiago.html)  [JSON](/news/2012/03/15/chilean-police-use-water-cannon-and-tear-gas-to-break-up-a-march-by-thousands-of-students-in-the-capital-santiago.json)  [XML](/news/2012/03/15/chilean-police-use-water-cannon-and-tear-gas-to-break-up-a-march-by-thousands-of-students-in-the-capital-santiago.xml)  
+
 ### [2012-03-15](/news/2012/03/15/index.md)
 
+##### Chilean police
 # Chilean police use water cannon and tear gas to break up a march by thousands of students in the capital Santiago. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Atlanta Journal Constitution](http://www.ajc.com/news/nation-world/police-in-chiles-capital-1386549.html)
 

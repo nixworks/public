@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/10/novell-wins-the-rights-to-the-copyrights-for-unix-from-the-sco-group-in-sco-v-novell-decided-in-the-united-states-district-court-in-utah.html)  [JSON](/news/2007/08/10/novell-wins-the-rights-to-the-copyrights-for-unix-from-the-sco-group-in-sco-v-novell-decided-in-the-united-states-district-court-in-utah.json)  [XML](/news/2007/08/10/novell-wins-the-rights-to-the-copyrights-for-unix-from-the-sco-group-in-sco-v-novell-decided-in-the-united-states-district-court-in-utah.xml)  
+
 ### [2007-08-10](/news/2007/08/10/index.md)
 
+##### Novell
 #  Novell wins the rights to the copyrights for Unix from the SCO Group in SCO v. Novell decided in the United States District Court in Utah. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Computer World](http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9030298&intsrc=news_ts_head)
 

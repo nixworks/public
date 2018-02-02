@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/24/a-group-of-15-israeli-jewish-worshipers-entered-the-palestinian-city-of-nablus-to-pray-in-the-jewish-holy-site-joseph-s-tomb-without-coordi.html)  [JSON](/news/2011/04/24/a-group-of-15-israeli-jewish-worshipers-entered-the-palestinian-city-of-nablus-to-pray-in-the-jewish-holy-site-joseph-s-tomb-without-coordi.json)  [XML](/news/2011/04/24/a-group-of-15-israeli-jewish-worshipers-entered-the-palestinian-city-of-nablus-to-pray-in-the-jewish-holy-site-joseph-s-tomb-without-coordi.xml)  
+
 ### [2011-04-24](/news/2011/04/24/index.md)
 
+##### Israelis
 # A group of 15 Israeli Jewish worshipers entered the Palestinian city of Nablus to pray in the Jewish holy site Joseph's Tomb, without coordinating their visit with the IDF as required by law. After finishing praying, as the Jewish worshipers were leaving Nablus, their cars came under fire from a Palestinian Authority police jeep. Five Israelis were injured in the attack and the nephew of Israeli Culture and Sport Minister Limor Livnat was killed.
 
 Group of Israelis heading to Joseph&#39;s Tomb for prayers comes under Palestinian fire, which leaves one dead, five in serious to mild condition. IDF, PA investigating: Shooters believed to be Palestinian policemen 
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/Home/Article.aspx?id=217690)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4060103,00.html)

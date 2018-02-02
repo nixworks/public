@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/08/6/vladimir-putin-the-prime-minister-of-russia-bans-export-of-flour-and-wheat-from-august-15-to-december-31-due-to-the-worst-drought-in-russi.html)  [JSON](/news/2010/08/6/vladimir-putin-the-prime-minister-of-russia-bans-export-of-flour-and-wheat-from-august-15-to-december-31-due-to-the-worst-drought-in-russi.json)  [XML](/news/2010/08/6/vladimir-putin-the-prime-minister-of-russia-bans-export-of-flour-and-wheat-from-august-15-to-december-31-due-to-the-worst-drought-in-russi.xml)  
+
 ### [2010-08-6](/news/2010/08/6/index.md)
 
+##### Vladimir Putin
 # Vladimir Putin, the Prime Minister of Russia, bans export of flour and wheat from August 15 to December 31 due to the worst drought in Russian history. 
 
 Wheat markets tumbled the daily limit on Friday, posting their biggest daily percentage loss in 14 months as investors took profits a day after pushing prices higher with Russia suspending grain shipments due to its worst drought in a century.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6742QQ20100806)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100806&t=2&i=173145302&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-08-06T070249Z_01_BTRE6750JKS00_RTROPTP_0_BELARUS)
+1. [Reuters](https://www.reuters.com/article/idUSTRE6742QQ20100806)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20100806&t=2&i=173145302&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-08-06T070249Z_01_BTRE6750JKS00_RTROPTP_0_BELARUS)
 
 ### Related:
 

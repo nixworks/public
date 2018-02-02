@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/03/20/floods-in-afghanistan-kill-more-than-200-coalition-helicopters-are-dispatched-to-save-people.html)  [JSON](/news/2005/03/20/floods-in-afghanistan-kill-more-than-200-coalition-helicopters-are-dispatched-to-save-people.json)  [XML](/news/2005/03/20/floods-in-afghanistan-kill-more-than-200-coalition-helicopters-are-dispatched-to-save-people.xml)  
+
 ### [2005-03-20](/news/2005/03/20/index.md)
 
+##### Flood
 #  Floods in Afghanistan kill more than 200. Coalition helicopters are dispatched to save people 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4365623.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aB7kOq6GW2Go&refer=asia)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000080&sid=aB7kOq6GW2Go&refer=asia)
 3. [Hi Pakistan](http://www.hipakistan.com/en/detail.php?newsId=en77245&F_catID=&f_type=source)
 
 ### Related:

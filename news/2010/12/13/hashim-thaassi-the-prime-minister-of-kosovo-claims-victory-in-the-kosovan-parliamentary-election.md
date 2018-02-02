@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/13/hashim-thaassi-the-prime-minister-of-kosovo-claims-victory-in-the-kosovan-parliamentary-election.html)  [JSON](/news/2010/12/13/hashim-thaassi-the-prime-minister-of-kosovo-claims-victory-in-the-kosovan-parliamentary-election.json)  [XML](/news/2010/12/13/hashim-thaassi-the-prime-minister-of-kosovo-claims-victory-in-the-kosovan-parliamentary-election.xml)  
+
 ### [2010-12-13](/news/2010/12/13/index.md)
 
+##### Hashim Thaci
 # Hashim Thaci, the Prime Minister of Kosovo, claims victory in the Kosovan parliamentary election. 
 
 Hashim Thaci, the incumbent prime minister, has claimed victory in Kosovo&#039;s first general election since the province declared independence from Serbia, as an independent exit poll showed his Democratic Party of Kosovo 6 percentage points ahead of its rival.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/kosovo/8198189/Kosovo-elections-PM-wins-first-post-independence-vote.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01759/kosovoSUM_1759675a.jpg)

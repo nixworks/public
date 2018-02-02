@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/20/floods-and-mudslides-on-the-island-of-madeira-leave-at-least-32-dead-and-68-injured.html)  [JSON](/news/2010/02/20/floods-and-mudslides-on-the-island-of-madeira-leave-at-least-32-dead-and-68-injured.json)  [XML](/news/2010/02/20/floods-and-mudslides-on-the-island-of-madeira-leave-at-least-32-dead-and-68-injured.xml)  
+
 ### [2010-02-20](/news/2010/02/20/index.md)
 
+##### Floods and mudslides
 # Floods and mudslides on the island of Madeira leave at least 32 dead and 68 injured. 
 
 At least 32 killed in floods and mudslides triggered by torrential rain in Madeira.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/02/2010220174931512140.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8526288.stm)

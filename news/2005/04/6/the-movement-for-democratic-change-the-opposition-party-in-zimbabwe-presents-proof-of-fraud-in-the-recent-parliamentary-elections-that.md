@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/6/the-movement-for-democratic-change-the-opposition-party-in-zimbabwe-presents-proof-of-fraud-in-the-recent-parliamentary-elections-that.html)  [JSON](/news/2005/04/6/the-movement-for-democratic-change-the-opposition-party-in-zimbabwe-presents-proof-of-fraud-in-the-recent-parliamentary-elections-that.json)  [XML](/news/2005/04/6/the-movement-for-democratic-change-the-opposition-party-in-zimbabwe-presents-proof-of-fraud-in-the-recent-parliamentary-elections-that.xml)  
+
 ### [2005-04-6](/news/2005/04/6/index.md)
 
+##### Movement for Democratic Change
 #  The Movement for Democratic Change, the opposition party in Zimbabwe, presents 'proof of fraud' in the recent parliamentary elections that kept Robert Mugabe and the ruling Zimbabwe African National Union - Patriotic Front in office. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4416311.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/1/the-australian-federal-police-charges-six-senior-executives-all-former-employees-of-two-companies-owned-by-the-reserve-bank-of-australia-s.html)  [JSON](/news/2011/07/1/the-australian-federal-police-charges-six-senior-executives-all-former-employees-of-two-companies-owned-by-the-reserve-bank-of-australia-s.json)  [XML](/news/2011/07/1/the-australian-federal-police-charges-six-senior-executives-all-former-employees-of-two-companies-owned-by-the-reserve-bank-of-australia-s.xml)  
+
 ### [2011-07-1](/news/2011/07/1/index.md)
 
+##### Australian Federal Police
 # The Australian Federal Police charges six senior executives, all former employees of two companies owned by the Reserve Bank of Australia, Securency and Note Printing Australia, in relation to alleged bribery of officials in Malaysia, Vietnam and Indonesia. 
 
 EXCLUSIVE: Climax to bribery scandal as Federal Police raid Melbourne homes of former banknote company executives.
 
 
-### Source:
+### Sources:
 
 1. [Herald-Sun](http://www.heraldsun.com.au/news/more-news/six-people-linked-to-note-maker-securency-arrest-for-alleged-bribery/story-fn7x8me2-1226085465195)
 2. [Sydney Morning Herald](http://www.smh.com.au/business/securency-bosses-arrested-20110701-1gtr8.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/4/josefa-iloilo-is-restored-as-president-of-fiji-by-commodore-frank-bainimarama-leader-of-the-december-2006-coup-d-a-c-tat.html)  [JSON](/news/2007/01/4/josefa-iloilo-is-restored-as-president-of-fiji-by-commodore-frank-bainimarama-leader-of-the-december-2006-coup-d-a-c-tat.json)  [XML](/news/2007/01/4/josefa-iloilo-is-restored-as-president-of-fiji-by-commodore-frank-bainimarama-leader-of-the-december-2006-coup-d-a-c-tat.xml)  
+
 ### [2007-01-4](/news/2007/01/4/index.md)
 
+##### Josefa Iloilo
 #  Josefa Iloilo is restored as President of Fiji by Commodore Frank Bainimarama, leader of the December 2006 coup d'etat. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.theage.com.au/news/world/fiji-army-chief-cedes-powers/2007/01/04/1167777204488.html)
 

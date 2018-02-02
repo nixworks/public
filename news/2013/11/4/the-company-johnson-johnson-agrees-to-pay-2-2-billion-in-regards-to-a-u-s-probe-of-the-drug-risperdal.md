@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/11/4/the-company-johnson-johnson-agrees-to-pay-2-2-billion-in-regards-to-a-u-s-probe-of-the-drug-risperdal.html)  [JSON](/news/2013/11/4/the-company-johnson-johnson-agrees-to-pay-2-2-billion-in-regards-to-a-u-s-probe-of-the-drug-risperdal.json)  [XML](/news/2013/11/4/the-company-johnson-johnson-agrees-to-pay-2-2-billion-in-regards-to-a-u-s-probe-of-the-drug-risperdal.xml)  
+
 ### [2013-11-4](/news/2013/11/4/index.md)
 
+##### Johnson & Johnson
 # The company Johnson & Johnson agrees to pay $2.2 billion in regards to a U.S. probe of the drug risperdal. 
 
 In one of the largest health care fraud settlements in U.S. history, Johnson & Johnson will pay $2.2 billion to end civil and criminal investigations into kickbacks to pharmacists and the marketing of pharmaceuticals for off-label uses, U.S. Attorney General Eric Holder said on Monday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/11/04/us-jnj-settlement-idUSBRE9A30MM20131104)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2013/11/04/us-jnj-settlement-idUSBRE9A30MM20131104)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

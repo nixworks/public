@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/5/paul-ryan-announces-that-the-republican-party-wi
 
 ### [2017-01-5](/news/2017/01/5/index.md)
 
+##### Obamacare repeal efforts
 # Paul Ryan announces that the Republican party will, as part of its efforts to repeal Obamacare, seek to stop using federal money to fund Planned Parenthood. 
 
 

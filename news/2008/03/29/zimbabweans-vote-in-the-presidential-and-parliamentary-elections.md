@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/03/29/zimbabweans-vote-in-the-presidential-and-parliamentary-elections.html)  [JSON](/news/2008/03/29/zimbabweans-vote-in-the-presidential-and-parliamentary-elections.json)  [XML](/news/2008/03/29/zimbabweans-vote-in-the-presidential-and-parliamentary-elections.xml)  
+
 ### [2008-03-29](/news/2008/03/29/index.md)
 
+##### Zimbabwe
 #  Zimbabweans vote in the presidential and parliamentary elections. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/newsOne/idUSL2880883820080329)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080329&t=2&i=3690679&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-03-29T223511Z_01_L28808838_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/newsOne/idUSL2880883820080329)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20080329&t=2&i=3690679&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-03-29T223511Z_01_L28808838_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

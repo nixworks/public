@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/30/police-shoot-and-kill-two-people-in-podor-during-protests-over-a-decision-by-the-constitutional-council-that-president-of-senegal-abdoulaye.html)  [JSON](/news/2012/01/30/police-shoot-and-kill-two-people-in-podor-during-protests-over-a-decision-by-the-constitutional-council-that-president-of-senegal-abdoulaye.json)  [XML](/news/2012/01/30/police-shoot-and-kill-two-people-in-podor-during-protests-over-a-decision-by-the-constitutional-council-that-president-of-senegal-abdoulaye.xml)  
+
 ### [2012-01-30](/news/2012/01/30/index.md)
 
+##### Podor
 # Police shoot and kill two people in Podor during protests over a decision by the Constitutional Council that President of Senegal Abdoulaye Wade can run for re-election. 
 
 Two people are shot dead in northern Senegal during protests after a court ruled that President Abdoulaye Wade could seek a third term, witnesses say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-16801199)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58169000/jpg/_58169127_013856750-1.jpg)

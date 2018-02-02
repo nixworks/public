@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/07/22/2011-syrian-uprising-hundreds-of-thousands-of-people-take-to-the-streets-after-friday-prayers-in-cities-across-syria.html)  [JSON](/news/2011/07/22/2011-syrian-uprising-hundreds-of-thousands-of-people-take-to-the-streets-after-friday-prayers-in-cities-across-syria.json)  [XML](/news/2011/07/22/2011-syrian-uprising-hundreds-of-thousands-of-people-take-to-the-streets-after-friday-prayers-in-cities-across-syria.xml)  
+
 ### [2011-07-22](/news/2011/07/22/index.md)
 
+##### 2011 Syrian uprising
 # 2011 Syrian uprising: Hundreds of thousands of people take to the streets after Friday prayers in cities across Syria. 
 
 Syrian forces shot dead at least 11 people during mass protests on Friday against President Bashar al-Assad, rights activists and witnesses said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/07/22/us-syria-idUSTRE76L1P720110722)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110722&t=2&i=463980719&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-07-22T150142Z_01_BTRE76L15QX00_RTROPTP_0_SYRIA)
+1. [Reuters](https://www.reuters.com/article/2011/07/22/us-syria-idUSTRE76L1P720110722)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20110722&t=2&i=463980719&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-07-22T150142Z_01_BTRE76L15QX00_RTROPTP_0_SYRIA)
 
 ### Related:
 

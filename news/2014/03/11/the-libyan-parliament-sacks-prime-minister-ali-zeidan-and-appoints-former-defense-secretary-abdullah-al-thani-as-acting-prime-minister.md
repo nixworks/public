@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/11/the-libyan-parliament-sacks-prime-minister-ali-zeidan-and-appoints-former-defense-secretary-abdullah-al-thani-as-acting-prime-minister.html)  [JSON](/news/2014/03/11/the-libyan-parliament-sacks-prime-minister-ali-zeidan-and-appoints-former-defense-secretary-abdullah-al-thani-as-acting-prime-minister.json)  [XML](/news/2014/03/11/the-libyan-parliament-sacks-prime-minister-ali-zeidan-and-appoints-former-defense-secretary-abdullah-al-thani-as-acting-prime-minister.xml)  
+
 ### [2014-03-11](/news/2014/03/11/index.md)
 
+##### Libyan Parliament
 # The Libyan Parliament sacks Prime Minister Ali Zeidan and appoints former defense secretary Abdullah al-Thani as acting prime minister. 
 
 * Parliament appoints defence minister as acting PM* Clashes between rebels, pro-government militias reported* Western powers fear chaos in o
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/2014/03/11/libya-oil-idINL6N0M835520140311)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

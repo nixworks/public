@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/22/thousands-of-people-in-the-new-zealand-city-of-christchurch-commemorate-the-first-anniversary-of-the-earthquake-that-killed-185-people-last.html)  [JSON](/news/2012/02/22/thousands-of-people-in-the-new-zealand-city-of-christchurch-commemorate-the-first-anniversary-of-the-earthquake-that-killed-185-people-last.json)  [XML](/news/2012/02/22/thousands-of-people-in-the-new-zealand-city-of-christchurch-commemorate-the-first-anniversary-of-the-earthquake-that-killed-185-people-last.xml)  
+
 ### [2012-02-22](/news/2012/02/22/index.md)
 
+##### New Zealand
 # Thousands of people in the New Zealand city of Christchurch commemorate the first anniversary of the earthquake that killed 185 people last year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TV New Zealand](http://tvnz.co.nz/national-news/live-updates-christchurch-quake-anniversary-4736342)
 

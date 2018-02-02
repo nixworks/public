@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/6/seven-people-are-missing-after-a-mobile-home-park-fire-near-lake-granbury-texas.html)  [JSON](/news/2011/03/6/seven-people-are-missing-after-a-mobile-home-park-fire-near-lake-granbury-texas.json)  [XML](/news/2011/03/6/seven-people-are-missing-after-a-mobile-home-park-fire-near-lake-granbury-texas.xml)  
+
 ### [2011-03-6](/news/2011/03/6/index.md)
 
+##### mobile home
 # Seven people are missing after a mobile home park fire near Lake Granbury, Texas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [WFAA](http://www.wfaa.com/news/local/lake-granbury-fire-117487298.html)
 

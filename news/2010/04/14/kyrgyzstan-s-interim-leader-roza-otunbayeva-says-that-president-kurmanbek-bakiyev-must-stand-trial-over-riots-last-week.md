@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/14/kyrgyzstan-s-interim-leader-roza-otunbayeva-says-that-president-kurmanbek-bakiyev-must-stand-trial-over-riots-last-week.html)  [JSON](/news/2010/04/14/kyrgyzstan-s-interim-leader-roza-otunbayeva-says-that-president-kurmanbek-bakiyev-must-stand-trial-over-riots-last-week.json)  [XML](/news/2010/04/14/kyrgyzstan-s-interim-leader-roza-otunbayeva-says-that-president-kurmanbek-bakiyev-must-stand-trial-over-riots-last-week.xml)  
+
 ### [2010-04-14](/news/2010/04/14/index.md)
 
+##### Kyrgyzstan
 # Kyrgyzstan's interim leader Roza Otunbayeva says that President Kurmanbek Bakiyev must stand trial over riots last week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/201041482412294846.html)
 2. [Times of India](http://timesofindia.indiatimes.com/world/europe/Ousted-Kyrgyz-president-must-stand-trial-New-leader/articleshow/5802494.cms)

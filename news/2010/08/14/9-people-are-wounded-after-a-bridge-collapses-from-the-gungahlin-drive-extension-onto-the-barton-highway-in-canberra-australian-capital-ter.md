@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/14/9-people-are-wounded-after-a-bridge-collapses-from-the-gungahlin-drive-extension-onto-the-barton-highway-in-canberra-australian-capital-ter.html)  [JSON](/news/2010/08/14/9-people-are-wounded-after-a-bridge-collapses-from-the-gungahlin-drive-extension-onto-the-barton-highway-in-canberra-australian-capital-ter.json)  [XML](/news/2010/08/14/9-people-are-wounded-after-a-bridge-collapses-from-the-gungahlin-drive-extension-onto-the-barton-highway-in-canberra-australian-capital-ter.xml)  
+
 ### [2010-08-14](/news/2010/08/14/index.md)
 
+##### Gungahlin Drive Extension
 # 9 people are wounded after a bridge collapses from the Gungahlin Drive Extension onto the Barton Highway in Canberra, Australian Capital Territory. 
 
 Nine people have been taken to hospital after part of a bridge collapsed in north Canberra.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/nine-hurt-in-canberra-bridge-collapse-20100814-123wn.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

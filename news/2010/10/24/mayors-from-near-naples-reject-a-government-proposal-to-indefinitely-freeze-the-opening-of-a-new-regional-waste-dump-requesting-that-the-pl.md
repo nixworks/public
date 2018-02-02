@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/24/mayors-from-near-naples-reject-a-government-proposal-to-indefinitely-freeze-the-opening-of-a-new-regional-waste-dump-requesting-that-the-pl.html)  [JSON](/news/2010/10/24/mayors-from-near-naples-reject-a-government-proposal-to-indefinitely-freeze-the-opening-of-a-new-regional-waste-dump-requesting-that-the-pl.json)  [XML](/news/2010/10/24/mayors-from-near-naples-reject-a-government-proposal-to-indefinitely-freeze-the-opening-of-a-new-regional-waste-dump-requesting-that-the-pl.xml)  
+
 ### [2010-10-24](/news/2010/10/24/index.md)
 
+##### Naples
 # Mayors from near Naples reject a government proposal to indefinitely freeze the opening of a new regional waste dump, requesting that the plan be permanently abandoned. People peacefully demonstrate against the plan in Terzigno. 
 
 Naples mayors reject a government offer to indefinitely freeze the opening of a new rubbish dump, saying they want it permanently scrapped.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11615969)
 2. [Reuters via ''Arab News](http://arabnews.com/world/article169049.ece)

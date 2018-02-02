@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/22/nominations-have-been-called-for-the-first-nunatsiavut-assembly-general-election-the-election-will-be-held-on-october-3-2006.html)  [JSON](/news/2006/08/22/nominations-have-been-called-for-the-first-nunatsiavut-assembly-general-election-the-election-will-be-held-on-october-3-2006.json)  [XML](/news/2006/08/22/nominations-have-been-called-for-the-first-nunatsiavut-assembly-general-election-the-election-will-be-held-on-october-3-2006.xml)  
+
 ### [2006-08-22](/news/2006/08/22/index.md)
 
+##### Nunatsiavut
 #  Nominations have been called for the first Nunatsiavut Assembly General Election. The election will be held on October 3, 2006. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOCM](http://www.vocm.com/news-info.asp?id=14057)
 

@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2012/08/31/apple-loses-a-patent-dispute-against-samsung-electronics-smartphones-and-tablets-in-tokyo-japan.html)  [JSON](/news/2012/08/31/apple-loses-a-patent-dispute-against-samsung-electronics-smartphones-and-tablets-in-tokyo-japan.json)  [XML](/news/2012/08/31/apple-loses-a-patent-dispute-against-samsung-electronics-smartphones-and-tablets-in-tokyo-japan.xml)  
+
 ### [2012-08-31](/news/2012/08/31/index.md)
 
+##### Apple
 # Apple loses a patent dispute against Samsung Electronics smartphones and tablets in Tokyo, Japan. 
 
+Apple Inc. lost a patent lawsuit in Japan as a Tokyo judge ruled that Samsung Electronics Co. smartphones and a tablet computer didn’t infringe on an Apple invention for synchronizing music and video data with servers.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2012-08-31/apple-loses-japan-patent-lawsuit-against-samsung-over-devices.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2012-08-31/apple-loses-japan-patent-lawsuit-against-samsung-over-devices.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-tech-7d25a852b6.jpg)
 
 ### Related:
 

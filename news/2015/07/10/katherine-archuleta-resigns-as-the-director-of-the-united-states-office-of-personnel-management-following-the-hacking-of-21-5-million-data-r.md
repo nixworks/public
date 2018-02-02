@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/10/katherine-archuleta-resigns-as-the-director-of-the-united-states-office-of-personnel-management-following-the-hacking-of-21-5-million-data-r.html)  [JSON](/news/2015/07/10/katherine-archuleta-resigns-as-the-director-of-the-united-states-office-of-personnel-management-following-the-hacking-of-21-5-million-data-r.json)  [XML](/news/2015/07/10/katherine-archuleta-resigns-as-the-director-of-the-united-states-office-of-personnel-management-following-the-hacking-of-21-5-million-data-r.xml)  
+
 ### [2015-07-10](/news/2015/07/10/index.md)
 
+##### Katherine Archuleta
 # Katherine Archuleta resigns as the director of the United States Office of Personnel Management following the hacking of 21.5 million data records. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2015/07/10/politics/opm-director-resigns-katherine-archuleta/index.html)
 

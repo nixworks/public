@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/9/the-democratic-party-of-japan-agrees-to-form-a-coalition-with-two-other-parties-the-social-democratic-party-and-people-s-new-party.html)  [JSON](/news/2009/09/9/the-democratic-party-of-japan-agrees-to-form-a-coalition-with-two-other-parties-the-social-democratic-party-and-people-s-new-party.json)  [XML](/news/2009/09/9/the-democratic-party-of-japan-agrees-to-form-a-coalition-with-two-other-parties-the-social-democratic-party-and-people-s-new-party.xml)  
+
 ### [2009-09-9](/news/2009/09/9/index.md)
 
+##### Democratic Party
 #  The Democratic Party of Japan agrees to form a coalition with two other parties, the Social Democratic Party and People's New Party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8245483.stm)
 2. [Mainichi Shimbun](http://mdn.mainichi.jp/mdnnews/news/20090909p2a00m0na015000c.html)

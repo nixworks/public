@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/5/latvian-prime-minister-aigars-kalva-tis-resigns.html)  [JSON](/news/2007/12/5/latvian-prime-minister-aigars-kalva-tis-resigns.json)  [XML](/news/2007/12/5/latvian-prime-minister-aigars-kalva-tis-resigns.xml)  
+
 ### [2007-12-5](/news/2007/12/5/index.md)
 
+##### Latvia
 #  Latvian Prime Minister Aigars Kalvitis resigns. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Baltic Times](http://www.baltictimes.com/news/articles/19414/)
 

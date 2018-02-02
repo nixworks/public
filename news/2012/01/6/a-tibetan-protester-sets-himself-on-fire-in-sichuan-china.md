@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/6/a-tibetan-protester-sets-himself-on-fire-in-sichuan-china.html)  [JSON](/news/2012/01/6/a-tibetan-protester-sets-himself-on-fire-in-sichuan-china.json)  [XML](/news/2012/01/6/a-tibetan-protester-sets-himself-on-fire-in-sichuan-china.xml)  
+
 ### [2012-01-6](/news/2012/01/6/index.md)
 
+##### Tibet
 # A Tibetan protester sets himself on fire in Sichuan, China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-16451191)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

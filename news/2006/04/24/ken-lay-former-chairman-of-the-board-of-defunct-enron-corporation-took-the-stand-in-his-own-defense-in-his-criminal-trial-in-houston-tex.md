@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/24/ken-lay-former-chairman-of-the-board-of-defunct-enron-corporation-took-the-stand-in-his-own-defense-in-his-criminal-trial-in-houston-tex.html)  [JSON](/news/2006/04/24/ken-lay-former-chairman-of-the-board-of-defunct-enron-corporation-took-the-stand-in-his-own-defense-in-his-criminal-trial-in-houston-tex.json)  [XML](/news/2006/04/24/ken-lay-former-chairman-of-the-board-of-defunct-enron-corporation-took-the-stand-in-his-own-defense-in-his-criminal-trial-in-houston-tex.xml)  
+
 ### [2006-04-24](/news/2006/04/24/index.md)
 
+##### Ken Lay
 #  Ken Lay, former chairman of the board of defunct Enron Corporation, took the stand in his own defense in his criminal trial in Houston, Texas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Houston Chronicle](http://www.chron.com/disp/story.mpl/special/enron/3814875)
 1. [Cover Image](http://www.chron.com/img/pages/article/opengraph_default.jpg)

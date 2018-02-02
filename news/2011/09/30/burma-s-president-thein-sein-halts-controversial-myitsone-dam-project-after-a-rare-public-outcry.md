@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/30/burma-s-president-thein-sein-halts-controversial-myitsone-dam-project-after-a-rare-public-outcry.html)  [JSON](/news/2011/09/30/burma-s-president-thein-sein-halts-controversial-myitsone-dam-project-after-a-rare-public-outcry.json)  [XML](/news/2011/09/30/burma-s-president-thein-sein-halts-controversial-myitsone-dam-project-after-a-rare-public-outcry.xml)  
+
 ### [2011-09-30](/news/2011/09/30/index.md)
 
+##### Thein Sein
 # Burma's President Thein Sein halts controversial Myitsone Dam project after a rare public outcry. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-15121801)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/55740000/jpg/_55740655_012978602-1.jpg)

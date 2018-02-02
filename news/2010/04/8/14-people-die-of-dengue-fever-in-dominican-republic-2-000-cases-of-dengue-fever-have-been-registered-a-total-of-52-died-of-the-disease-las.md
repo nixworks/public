@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/8/14-people-die-of-dengue-fever-in-dominican-republic-2-000-cases-of-dengue-fever-have-been-registered-a-total-of-52-died-of-the-disease-las.html)  [JSON](/news/2010/04/8/14-people-die-of-dengue-fever-in-dominican-republic-2-000-cases-of-dengue-fever-have-been-registered-a-total-of-52-died-of-the-disease-las.json)  [XML](/news/2010/04/8/14-people-die-of-dengue-fever-in-dominican-republic-2-000-cases-of-dengue-fever-have-been-registered-a-total-of-52-died-of-the-disease-las.xml)  
+
 ### [2010-04-8](/news/2010/04/8/index.md)
 
+##### Dominican Republic
 # 14 people die of dengue fever in Dominican Republic. 2,000 cases of dengue fever have been registered. A total of 52 died of the disease last year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/health/2010-04/08/c_13242181.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/7/nintendo-s-next-generation-gaming-console-the-wii-is-released-in-australia.html)  [JSON](/news/2006/12/7/nintendo-s-next-generation-gaming-console-the-wii-is-released-in-australia.json)  [XML](/news/2006/12/7/nintendo-s-next-generation-gaming-console-the-wii-is-released-in-australia.xml)  
+
 ### [2006-12-7](/news/2006/12/7/index.md)
 
+##### Nintendo
 #  Nintendo's next generation gaming console, the Wii, is released in Australia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/news/games/the-wait-for-wii-is-over/2006/12/07/1165081028998.html)
 

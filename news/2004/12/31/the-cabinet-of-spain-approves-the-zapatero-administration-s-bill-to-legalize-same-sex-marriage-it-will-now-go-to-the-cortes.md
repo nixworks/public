@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/12/31/the-cabinet-of-spain-approves-the-zapatero-administration-s-bill-to-legalize-same-sex-marriage-it-will-now-go-to-the-cortes.html)  [JSON](/news/2004/12/31/the-cabinet-of-spain-approves-the-zapatero-administration-s-bill-to-legalize-same-sex-marriage-it-will-now-go-to-the-cortes.json)  [XML](/news/2004/12/31/the-cabinet-of-spain-approves-the-zapatero-administration-s-bill-to-legalize-same-sex-marriage-it-will-now-go-to-the-cortes.xml)  
+
 ### [2004-12-31](/news/2004/12/31/index.md)
 
+##### Jose Luis Rodriguez Zapatero
 #  The cabinet of Spain approves the Zapatero administration's bill to legalize same-sex marriage. It will now go to the Cortes.
 
 

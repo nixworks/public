@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/1/shinza-abe-is-officially-reinstated-as-prime-min
 
 ### [2017-11-1](/news/2017/11/1/index.md)
 
+##### Japanese general election, 2017
 # Shinzo Abe is officially reinstated as Prime Minister of Japan following the election on 22 October 2017. 
 
 

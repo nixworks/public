@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/18/a-hydro-one-electrical-transformer-undergoing-repairs-in-the-richview-neighbourhood-of-toronto-catches-on-fire-and-is-sustained-by-burning-m.html)  [JSON](/news/2011/03/18/a-hydro-one-electrical-transformer-undergoing-repairs-in-the-richview-neighbourhood-of-toronto-catches-on-fire-and-is-sustained-by-burning-m.json)  [XML](/news/2011/03/18/a-hydro-one-electrical-transformer-undergoing-repairs-in-the-richview-neighbourhood-of-toronto-catches-on-fire-and-is-sustained-by-burning-m.xml)  
+
 ### [2011-03-18](/news/2011/03/18/index.md)
 
+##### Hydro One
 # A Hydro One electrical transformer undergoing repairs in the Richview neighbourhood of Toronto catches on fire and is sustained by burning mineral oil near Pearson International Airport, causing a local power outage and forcing the evacuation of an apartment complex and the temporary closure of part of Highway 401. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/toronto/story/2011/03/18/tor-airport-fire-transformer.html)
 2. [CTV Toronto](http://toronto.ctv.ca/servlet/an/local/CTVNews/20110319/hydro-transformer-fire-richview-black-smoke-110319/20110319/?hub=TorontoNewHome)

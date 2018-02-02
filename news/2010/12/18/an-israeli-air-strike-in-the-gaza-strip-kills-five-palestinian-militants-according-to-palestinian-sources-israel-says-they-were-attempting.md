@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/18/an-israeli-air-strike-in-the-gaza-strip-kills-five-palestinian-militants-according-to-palestinian-sources-israel-says-they-were-attempting.html)  [JSON](/news/2010/12/18/an-israeli-air-strike-in-the-gaza-strip-kills-five-palestinian-militants-according-to-palestinian-sources-israel-says-they-were-attempting.json)  [XML](/news/2010/12/18/an-israeli-air-strike-in-the-gaza-strip-kills-five-palestinian-militants-according-to-palestinian-sources-israel-says-they-were-attempting.xml)  
+
 ### [2010-12-18](/news/2010/12/18/index.md)
 
+##### Gaza Strip
 # An Israeli air-strike in the Gaza Strip kills five Palestinian militants according to Palestinian sources; Israel says they were attempting to fire missiles into Israel. 
 
 An Israeli air strike kills five people in the Gaza Strip, Palestinian and Israeli sources say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12029802)
 2. [CNN](http://www.cnn.com/2010/WORLD/meast/12/18/gaza.israel.strike/)

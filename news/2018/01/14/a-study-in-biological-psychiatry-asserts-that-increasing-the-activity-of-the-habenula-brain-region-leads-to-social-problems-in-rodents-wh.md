@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/14/a-study-in-biological-psychiatry-asserts-that-i
 
 ### [2018-01-14](/news/2018/01/14/index.md)
 
+##### Biological Psychiatry
 # A study in "Biological Psychiatry" asserts that increasing the activity of the habenula brain region leads to social problems in rodents, whereas decreasing activity of the region prevents social problems. 
 
 

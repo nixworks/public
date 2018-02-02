@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/21/ranil-wickremesinghe-is-sworn-in-as-the-new-prime-minister-of-sri-lanka-following-a-strong-performance-by-his-united-national-front-for-good.html)  [JSON](/news/2015/08/21/ranil-wickremesinghe-is-sworn-in-as-the-new-prime-minister-of-sri-lanka-following-a-strong-performance-by-his-united-national-front-for-good.json)  [XML](/news/2015/08/21/ranil-wickremesinghe-is-sworn-in-as-the-new-prime-minister-of-sri-lanka-following-a-strong-performance-by-his-united-national-front-for-good.xml)  
+
 ### [2015-08-21](/news/2015/08/21/index.md)
 
+##### Ranil Wickremesinghe
 # Ranil Wickremesinghe is sworn in as the new Prime Minister of Sri Lanka following a strong performance by his United National Front for Good Governance in last Monday's election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Star Tribune](http://www.startribune.com/new-prime-minister-takes-office-in-sri-lanka/322480201/)
 

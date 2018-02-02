@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/16/the-u-s-justice-department-tells-the-ninth-circ
 
 ### [2017-02-16](/news/2017/02/16/index.md)
 
+##### Legal challenges to U.S. immigration suspension order
 # The U.S. Justice Department tells the Ninth Circuit Court of Appeals that it won't be seeking further action by the court since this executive order will soon be replaced by a different one. Justice added they expect the Ninth Circuit ruling will be vacated once the new executive order is issued. 
 
 The DOJ told a federal court Thursday that there&#x27;s no point in further court battles over President Trump&#x27;s executive order on immigration.

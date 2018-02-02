@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/10/4/first-case-of-anthrax-in-the-us-attack-is-announced-by-federal-officials.html)  [JSON](/news/2001/10/4/first-case-of-anthrax-in-the-us-attack-is-announced-by-federal-officials.json)  [XML](/news/2001/10/4/first-case-of-anthrax-in-the-us-attack-is-announced-by-federal-officials.xml)  
+
 ### [2001-10-4](/news/2001/10/4/index.md)
 
+##### case of anthrax
 #  First case of anthrax in the US (attack) is announced by federal officials.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/26/yannis-stournaras-is-appointed-as-greece-s-new-finance-minister.html)  [JSON](/news/2012/06/26/yannis-stournaras-is-appointed-as-greece-s-new-finance-minister.json)  [XML](/news/2012/06/26/yannis-stournaras-is-appointed-as-greece-s-new-finance-minister.xml)  
+
 ### [2012-06-26](/news/2012/06/26/index.md)
 
+##### Yannis Stournaras
 # Yannis Stournaras is appointed as Greece's new finance minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://ca.reuters.com/article/topNews/idCABRE85M0AW20120626)
 

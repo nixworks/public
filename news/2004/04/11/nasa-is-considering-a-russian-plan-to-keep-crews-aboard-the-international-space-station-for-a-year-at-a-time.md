@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/11/nasa-is-considering-a-russian-plan-to-keep-crews-aboard-the-international-space-station-for-a-year-at-a-time.html)  [JSON](/news/2004/04/11/nasa-is-considering-a-russian-plan-to-keep-crews-aboard-the-international-space-station-for-a-year-at-a-time.json)  [XML](/news/2004/04/11/nasa-is-considering-a-russian-plan-to-keep-crews-aboard-the-international-space-station-for-a-year-at-a-time.xml)  
+
 ### [2004-04-11](/news/2004/04/11/index.md)
 
+##### NASA
 #  NASA is considering a Russian plan to keep crews aboard the International Space Station for a year at a time. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/3618599.stm)
 

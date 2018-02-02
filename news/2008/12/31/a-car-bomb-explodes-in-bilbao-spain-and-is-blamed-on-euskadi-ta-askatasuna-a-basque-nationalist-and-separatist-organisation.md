@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/31/a-car-bomb-explodes-in-bilbao-spain-and-is-blamed-on-euskadi-ta-askatasuna-a-basque-nationalist-and-separatist-organisation.html)  [JSON](/news/2008/12/31/a-car-bomb-explodes-in-bilbao-spain-and-is-blamed-on-euskadi-ta-askatasuna-a-basque-nationalist-and-separatist-organisation.json)  [XML](/news/2008/12/31/a-car-bomb-explodes-in-bilbao-spain-and-is-blamed-on-euskadi-ta-askatasuna-a-basque-nationalist-and-separatist-organisation.xml)  
+
 ### [2008-12-31](/news/2008/12/31/index.md)
 
+##### car bomb
 #  A car bomb explodes in Bilbao, Spain, and is blamed on Euskadi Ta Askatasuna, a Basque nationalist and separatist organisation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/europe/12/31/spain.eta.bomb.blast/index.html?eref=rss_world)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/28/there-are-reports-that-burmese-troops-from-middle-myanmar-have-started-to-march-towards-yangon-the-reported-troops-are-from-the-central-co.html)  [JSON](/news/2007/09/28/there-are-reports-that-burmese-troops-from-middle-myanmar-have-started-to-march-towards-yangon-the-reported-troops-are-from-the-central-co.json)  [XML](/news/2007/09/28/there-are-reports-that-burmese-troops-from-middle-myanmar-have-started-to-march-towards-yangon-the-reported-troops-are-from-the-central-co.xml)  
+
 ### [2007-09-28](/news/2007/09/28/index.md)
 
+##### Taungoo
 #  There are reports that Burmese troops from middle Myanmar have started to march towards Yangon. The reported troops are from the Central Command based in Taungoo and the South East Command. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2007/WORLD/asiapcf/09/28/myanmar.dissidents/index.html)
 2. [Dagens Nyheter](http://www.dn.se/DNet/jsp/polopoly.jsp?d=148&a=698244)

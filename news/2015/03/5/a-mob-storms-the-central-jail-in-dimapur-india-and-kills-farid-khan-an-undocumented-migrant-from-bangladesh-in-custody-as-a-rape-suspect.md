@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/5/a-mob-storms-the-central-jail-in-dimapur-india-and-kills-farid-khan-an-undocumented-migrant-from-bangladesh-in-custody-as-a-rape-suspect.html)  [JSON](/news/2015/03/5/a-mob-storms-the-central-jail-in-dimapur-india-and-kills-farid-khan-an-undocumented-migrant-from-bangladesh-in-custody-as-a-rape-suspect.json)  [XML](/news/2015/03/5/a-mob-storms-the-central-jail-in-dimapur-india-and-kills-farid-khan-an-undocumented-migrant-from-bangladesh-in-custody-as-a-rape-suspect.xml)  
+
 ### [2015-03-5](/news/2015/03/5/index.md)
 
+##### Dimapur
 # A mob storms the central jail in Dimapur, India, and kills Farid Khan, an undocumented migrant from Bangladesh in custody as a rape suspect. The mob ransacks and destroys over 20 shops and torches ten vehicles including a police jeep. 
 
 A rape accused was lynched by a mob in Dimapur; one person died in police firing
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.thehindu.com/news/national/other-states/centre-concerned-as-tensions-run-high-in-nagaland/article6966122.ece)
 1. [Cover Image](http://www.thehindu.com/migration_catalog/article10513901.ece/ALTERNATES/LANDSCAPE_615/nagaland)

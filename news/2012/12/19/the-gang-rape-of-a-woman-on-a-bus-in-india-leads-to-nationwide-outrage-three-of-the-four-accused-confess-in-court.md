@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/19/the-gang-rape-of-a-woman-on-a-bus-in-india-leads-to-nationwide-outrage-three-of-the-four-accused-confess-in-court.html)  [JSON](/news/2012/12/19/the-gang-rape-of-a-woman-on-a-bus-in-india-leads-to-nationwide-outrage-three-of-the-four-accused-confess-in-court.json)  [XML](/news/2012/12/19/the-gang-rape-of-a-woman-on-a-bus-in-india-leads-to-nationwide-outrage-three-of-the-four-accused-confess-in-court.xml)  
+
 ### [2012-12-19](/news/2012/12/19/index.md)
 
+##### 2012 Delhi gang rape case
 # The gang rape of a woman on a bus in India leads to nationwide outrage; three of the four accused confess in court. 
 
 Gang rape of woman on bus triggers nationwide outrage as three of four accused confess to the crime in court.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/12/20121219991194318.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2012/dec/19/delhi-bus-gang-rape)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/12/a-house-fire-in-memphis-kills-at-least-11-peopl
 
 ### [2016-09-12](/news/2016/09/12/index.md)
 
+##### Memphis
 # A house fire in Memphis kills at least 11 people. 
 
 Seven children were among 11 people who died when a horrific fire trapped them inside a one-story Memphis home early Monday morning.

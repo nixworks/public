@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/15/the-united-nations-seeks-emergency-aid-for-sri-lanka-as-many-as-390-000-people-are-made-homeless-and-thousands-of-houses-are-destroyed-in-t.html)  [JSON](/news/2011/01/15/the-united-nations-seeks-emergency-aid-for-sri-lanka-as-many-as-390-000-people-are-made-homeless-and-thousands-of-houses-are-destroyed-in-t.json)  [XML](/news/2011/01/15/the-united-nations-seeks-emergency-aid-for-sri-lanka-as-many-as-390-000-people-are-made-homeless-and-thousands-of-houses-are-destroyed-in-t.xml)  
+
 ### [2011-01-15](/news/2011/01/15/index.md)
 
+##### United Nations
 # The United Nations seeks emergency aid for Sri Lanka: as many as 390,000 people are made homeless and thousands of houses are destroyed in the disaster there. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2011/jan/15/united-nations-flood-sri-lanka)
 

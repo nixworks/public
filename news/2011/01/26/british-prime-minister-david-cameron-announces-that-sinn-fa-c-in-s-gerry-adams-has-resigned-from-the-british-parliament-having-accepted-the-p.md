@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/26/british-prime-minister-david-cameron-announces-that-sinn-fa-c-in-s-gerry-adams-has-resigned-from-the-british-parliament-having-accepted-the-p.html)  [JSON](/news/2011/01/26/british-prime-minister-david-cameron-announces-that-sinn-fa-c-in-s-gerry-adams-has-resigned-from-the-british-parliament-having-accepted-the-p.json)  [XML](/news/2011/01/26/british-prime-minister-david-cameron-announces-that-sinn-fa-c-in-s-gerry-adams-has-resigned-from-the-british-parliament-having-accepted-the-p.xml)  
+
 ### [2011-01-26](/news/2011/01/26/index.md)
 
+##### David Cameron
 # British Prime Minister David Cameron announces that Sinn Fein's Gerry Adams has resigned from the British parliament, having accepted the position of Crown Steward and Bailiff of the Manor of Northstead. 
 
 House of Commons Speaker John Bercow rules that Gerry Adams has been disqualified from Parliament.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-12294406)
 2. [The Independent](http://www.independent.ie/national-news/elections/adams-resigns-from-westminister-seat-2512403.html)

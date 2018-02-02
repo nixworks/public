@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/7/isps-in-africa-have-service-disruption-after-the-seacom-underwater-cable-failed-emergency-repairs-are-expected-to-take-days-to-complete.html)  [JSON](/news/2010/07/7/isps-in-africa-have-service-disruption-after-the-seacom-underwater-cable-failed-emergency-repairs-are-expected-to-take-days-to-complete.json)  [XML](/news/2010/07/7/isps-in-africa-have-service-disruption-after-the-seacom-underwater-cable-failed-emergency-repairs-are-expected-to-take-days-to-complete.xml)  
+
 ### [2010-07-7](/news/2010/07/7/index.md)
 
+##### Africa
 # ISPs in Africa have service disruption after the SEACOM underwater cable failed. Emergency repairs are expected to take days to complete. 
 
 An undersea cable that brought high-speed net access to East Africa for the first time is hit by a fault, knocking many offline.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/10536273.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

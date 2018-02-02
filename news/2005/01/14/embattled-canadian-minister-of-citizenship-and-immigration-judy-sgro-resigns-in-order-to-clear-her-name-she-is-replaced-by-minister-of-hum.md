@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/01/14/embattled-canadian-minister-of-citizenship-and-immigration-judy-sgro-resigns-in-order-to-clear-her-name-she-is-replaced-by-minister-of-hum.html)  [JSON](/news/2005/01/14/embattled-canadian-minister-of-citizenship-and-immigration-judy-sgro-resigns-in-order-to-clear-her-name-she-is-replaced-by-minister-of-hum.json)  [XML](/news/2005/01/14/embattled-canadian-minister-of-citizenship-and-immigration-judy-sgro-resigns-in-order-to-clear-her-name-she-is-replaced-by-minister-of-hum.xml)  
+
 ### [2005-01-14](/news/2005/01/14/index.md)
 
+##### Minister of Citizenship and Immigration
 #  Embattled Canadian Minister of Citizenship and Immigration Judy Sgro resigns in order to clear her name. She is replaced by Minister of Human Resources and Skills Development Joe Volpe who in turn is replaced in that ministry by Minister of Intergovernmental Affairs Lucienne Robillard. [http:--www.cbc.ca-canada-story-2005-01-14-sgro-resigning050114.html]
 
 

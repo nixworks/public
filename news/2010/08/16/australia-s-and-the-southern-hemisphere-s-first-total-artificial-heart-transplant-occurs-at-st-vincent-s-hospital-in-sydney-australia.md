@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/16/australia-s-and-the-southern-hemisphere-s-first-total-artificial-heart-transplant-occurs-at-st-vincent-s-hospital-in-sydney-australia.html)  [JSON](/news/2010/08/16/australia-s-and-the-southern-hemisphere-s-first-total-artificial-heart-transplant-occurs-at-st-vincent-s-hospital-in-sydney-australia.json)  [XML](/news/2010/08/16/australia-s-and-the-southern-hemisphere-s-first-total-artificial-heart-transplant-occurs-at-st-vincent-s-hospital-in-sydney-australia.xml)  
+
 ### [2010-08-16](/news/2010/08/16/index.md)
 
+##### Southern Hemisphere
 # Australia's (and the Southern Hemisphere's) first total artificial heart transplant occurs at St Vincent's Hospital in Sydney, Australia. 
 
 An Australian hospital says it has performed the southern hemisphere&#39;s first total artificial heart transplant.
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''Herald-Sun](http://www.heraldsun.com.au/news/national/sydney-man-gets-first-heart-transplant-at-st-vincents-hospital/story-e6frf7l6-1225905908289)
 2. [International Business Times](http://au.ibtimes.com/contents/20100816/surgeons-complete-australiafirst-artificial-heart-transplant.htm)

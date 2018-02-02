@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/9/israeli-troops-kill-at-least-four-palestinians-found-crawling-into-egypt-on-the-gaza-border.html)  [JSON](/news/2004/12/9/israeli-troops-kill-at-least-four-palestinians-found-crawling-into-egypt-on-the-gaza-border.json)  [XML](/news/2004/12/9/israeli-troops-kill-at-least-four-palestinians-found-crawling-into-egypt-on-the-gaza-border.xml)  
+
 ### [2004-12-9](/news/2004/12/9/index.md)
 
+##### Israel
 #  Israeli troops kill at least four Palestinians found crawling into Egypt on the Gaza Border. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4080709.stm)
 2. [China View](http://news.xinhuanet.com/english/2004-12/09/content_2313779.htm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/21/for-the-second-time-previous-was-august-2000-the-avalon-at-edgewater-apartments-in-edgewater-new-jersey-burn-down-among-the-400-people-e.html)  [JSON](/news/2015/01/21/for-the-second-time-previous-was-august-2000-the-avalon-at-edgewater-apartments-in-edgewater-new-jersey-burn-down-among-the-400-people-e.json)  [XML](/news/2015/01/21/for-the-second-time-previous-was-august-2000-the-avalon-at-edgewater-apartments-in-edgewater-new-jersey-burn-down-among-the-400-people-e.xml)  
+
 ### [2015-01-21](/news/2015/01/21/index.md)
 
+##### Edgewater, New Jersey
 # For the second time (previous was August 2000) the Avalon at Edgewater apartments in Edgewater, New Jersey burn down. Among the 400 people evacuated, New York Yankees announcer John Sterling is one of the victims. 
 
 An extra-alarm fire destroyed hundreds of apartemnts Wednesday evening in complex in Edgewater, New Jersey -- and grew so enormous that it even appeared on weather radar.
 
 
-### Source:
+### Sources:
 
 1. [CBS](http://newyork.cbslocal.com/2015/01/21/fire-rips-through-apartment-complex-in-edgewater-new-jersey/)
 2. [NJ.com](http://www.nj.com/bergen/index.ssf/2015/01/yankees_announcer_loses_everything_in_devastating.html)

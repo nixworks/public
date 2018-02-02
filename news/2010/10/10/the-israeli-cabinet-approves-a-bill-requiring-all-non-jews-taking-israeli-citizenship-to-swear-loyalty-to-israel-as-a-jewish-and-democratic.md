@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/10/the-israeli-cabinet-approves-a-bill-requiring-all-non-jews-taking-israeli-citizenship-to-swear-loyalty-to-israel-as-a-jewish-and-democratic.html)  [JSON](/news/2010/10/10/the-israeli-cabinet-approves-a-bill-requiring-all-non-jews-taking-israeli-citizenship-to-swear-loyalty-to-israel-as-a-jewish-and-democratic.json)  [XML](/news/2010/10/10/the-israeli-cabinet-approves-a-bill-requiring-all-non-jews-taking-israeli-citizenship-to-swear-loyalty-to-israel-as-a-jewish-and-democratic.xml)  
+
 ### [2010-10-10](/news/2010/10/10/index.md)
 
+##### Israel
 # The Israeli cabinet approves a bill requiring all non-Jews taking Israeli citizenship to swear loyalty to Israel as a "Jewish and democratic state". 
 
 New non-Jewish citizens will be obligated to pledge allegiance to &#39;Jewish, democratic state&#39; from now on, after bill passes 22-8. Barak withdraws support at last minute for fear bill will become &#39;racist tool.&#39; MK Ben-Ari: Decision proves Kahane was right
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/2010101013028364300.html)
 2. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-3967149,00.html)

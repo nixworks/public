@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/16/jundallah-militants-set-off-a-second-bomb-in-zahedan-iran-firefights-with-iranian-police-ensue-casualties-are-unknown.html)  [JSON](/news/2007/02/16/jundallah-militants-set-off-a-second-bomb-in-zahedan-iran-firefights-with-iranian-police-ensue-casualties-are-unknown.json)  [XML](/news/2007/02/16/jundallah-militants-set-off-a-second-bomb-in-zahedan-iran-firefights-with-iranian-police-ensue-casualties-are-unknown.xml)  
+
 ### [2007-02-16](/news/2007/02/16/index.md)
 
+##### Jundallah
 #  Jundallah militants set off a second bomb in Zahedan, Iran. Firefights with Iranian police ensue. Casualties are unknown. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/stories/2007/02/16/world/ap/main2489584.shtml)
 

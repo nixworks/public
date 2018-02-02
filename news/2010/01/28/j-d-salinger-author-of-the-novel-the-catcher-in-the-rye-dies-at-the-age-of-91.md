@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/28/j-d-salinger-author-of-the-novel-the-catcher-in-the-rye-dies-at-the-age-of-91.html)  [JSON](/news/2010/01/28/j-d-salinger-author-of-the-novel-the-catcher-in-the-rye-dies-at-the-age-of-91.json)  [XML](/news/2010/01/28/j-d-salinger-author-of-the-novel-the-catcher-in-the-rye-dies-at-the-age-of-91.xml)  
+
 ### [2010-01-28](/news/2010/01/28/index.md)
 
+##### J. D. Salinger
 # J. D. Salinger, author of the novel "The Catcher in the Rye", dies at the age of 91. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8486169.stm)
 2. [CBC](http://www.cbc.ca/news/yourview/2010/01/the-catcher-in-the-rye-what-did-it-mean-to-you.html)

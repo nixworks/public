@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/4/at-least-13-people-are-killed-and-53-injured-aft
 
 ### [2016-05-4](/news/2016/05/4/index.md)
 
+##### India
 # At least 13 people are killed and 53 injured after a bus skids off a bridge while travelling between India's Jharkhand state to Raipur, capital of Chhattisgarh state. 
 
 

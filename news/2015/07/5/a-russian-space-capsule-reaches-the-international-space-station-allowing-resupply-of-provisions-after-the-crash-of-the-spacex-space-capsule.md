@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/5/a-russian-space-capsule-reaches-the-international-space-station-allowing-resupply-of-provisions-after-the-crash-of-the-spacex-space-capsule.html)  [JSON](/news/2015/07/5/a-russian-space-capsule-reaches-the-international-space-station-allowing-resupply-of-provisions-after-the-crash-of-the-spacex-space-capsule.json)  [XML](/news/2015/07/5/a-russian-space-capsule-reaches-the-international-space-station-allowing-resupply-of-provisions-after-the-crash-of-the-spacex-space-capsule.xml)  
+
 ### [2015-07-5](/news/2015/07/5/index.md)
 
+##### Russia
 # A Russian space capsule reaches the International Space Station allowing resupply of provisions after the crash of the SpaceX space capsule last week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2015/07/05/us/international-space-station-resupply/index.html?eref=edition)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/2/hamid-karzai-the-president-of-afghanistan-opens-a-national-peace-conference-to-discuss-negotiating-with-the-taliban-a-rocket-lands-near-t.html)  [JSON](/news/2010/06/2/hamid-karzai-the-president-of-afghanistan-opens-a-national-peace-conference-to-discuss-negotiating-with-the-taliban-a-rocket-lands-near-t.json)  [XML](/news/2010/06/2/hamid-karzai-the-president-of-afghanistan-opens-a-national-peace-conference-to-discuss-negotiating-with-the-taliban-a-rocket-lands-near-t.xml)  
+
 ### [2010-06-2](/news/2010/06/2/index.md)
 
+##### Hamid Karzai
 # Hamid Karzai, the President of Afghanistan, opens a national peace conference to discuss negotiating with the Taliban. A rocket lands near the venue of the conference in Kabul and a suicide bomber sets off explosives outside the conference. 
 
 Suicide bombing and rocket attacks as delegates discuss plan for reconciliation.
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hvWEqwq3CrRvaQCmt21MfoYhjZJQD9G2VAGG0)
 2. [AP via Palm Beach Post](http://www.palmbeachpost.com/news/world/gunfire-heard-near-afghan-peace-conference-721777.html)

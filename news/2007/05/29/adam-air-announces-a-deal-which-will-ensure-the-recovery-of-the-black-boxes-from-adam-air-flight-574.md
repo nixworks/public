@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/29/adam-air-announces-a-deal-which-will-ensure-the-recovery-of-the-black-boxes-from-adam-air-flight-574.html)  [JSON](/news/2007/05/29/adam-air-announces-a-deal-which-will-ensure-the-recovery-of-the-black-boxes-from-adam-air-flight-574.json)  [XML](/news/2007/05/29/adam-air-announces-a-deal-which-will-ensure-the-recovery-of-the-black-boxes-from-adam-air-flight-574.xml)  
+
 ### [2007-05-29](/news/2007/05/29/index.md)
 
+##### Adam Air
 #  Adam Air announces a deal which will ensure the recovery of the black boxes from Adam Air Flight 574. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aero-News](http://www.aero-news.net/index.cfm?ContentBlockID=6bd232b1-10a1-44a1-8526-0d0e1010b9c7)
 

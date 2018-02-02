@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/27/ukrainian-intelligence-officer-and-head-of-a-sp
 
 ### [2017-06-27](/news/2017/06/27/index.md)
 
+##### Ukrainian crisis
 # Ukrainian intelligence officer and head of a special forces unit, Maksym Shapoval, is assassinated in Kiev by car bomb. 
 
 Analysts believe the attack could be connected to the Russian-backed insurgency in eastern Ukraine.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/28/the-armenian-american-community-responds-with-o
 
 ### [2016-04-28](/news/2016/04/28/index.md)
 
+##### Armenian-American
 # The Armenian-American community responds with outrage after the "The Wall Street Journal" publishes an ad denying the Armenian Genocide. 
 
 The ad, which follows billboards in the Boston and Chicago areas, comes just before the 101st anniversary of the genocide’s start.

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/10/5/the-united-states-department-of-defense-calls-back-350-000-of-its-furloughed-civilian-workers.html)  [JSON](/news/2013/10/5/the-united-states-department-of-defense-calls-back-350-000-of-its-furloughed-civilian-workers.json)  [XML](/news/2013/10/5/the-united-states-department-of-defense-calls-back-350-000-of-its-furloughed-civilian-workers.xml)  
+
 ### [2013-10-5](/news/2013/10/5/index.md)
 
+##### U.S. military
 # The United States Department of Defense calls back 350,000 of its furloughed civilian workers. 
 
 Defense secretary says a bill passed by Congress last week exempts workers who give &lsquo;direct support.&rsquo;
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/politics/pentagon-to-recall-most-furloughed-workers-hagel-says/2013/10/05/eb7ed346-2deb-11e3-8ade-a1f23cda135e_story.html)
+1. [Washington Post](https://www.washingtonpost.com/politics/pentagon-to-recall-most-furloughed-workers-hagel-says/2013/10/05/eb7ed346-2deb-11e3-8ade-a1f23cda135e_story.html)
 
 ### Related:
 

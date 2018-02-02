@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/10/a-judicial-recount-in-the-2004-taiwanese-presidential-election-begins.html)  [JSON](/news/2004/05/10/a-judicial-recount-in-the-2004-taiwanese-presidential-election-begins.json)  [XML](/news/2004/05/10/a-judicial-recount-in-the-2004-taiwanese-presidential-election-begins.xml)  
+
 ### [2004-05-10](/news/2004/05/10/index.md)
 
+##### 2004 presidential election
 #  A judicial recount in the 2004 Taiwanese presidential election begins. 
 
 Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAsia featuring Business, World, Sport, Entertainment, Technology, Health, Lifestyle and Live Streaming.
 
 
-### Source:
+### Sources:
 
 1. [CNA](http://www.channelnewsasia.com/stories/eastasia/view/84175/1/.html)
 2. [VOA](http://www.voanews.com/article.cfm?objectID=B02E172B-B50A-431E-B1F02862D4A9A19C)

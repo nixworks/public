@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/05/21/general-motors-announces-that-it-is-recalling-218-000-older-model-chevrolet-aveos-due-to-a-fire-hazard.html)  [JSON](/news/2014/05/21/general-motors-announces-that-it-is-recalling-218-000-older-model-chevrolet-aveos-due-to-a-fire-hazard.json)  [XML](/news/2014/05/21/general-motors-announces-that-it-is-recalling-218-000-older-model-chevrolet-aveos-due-to-a-fire-hazard.xml)  
+
 ### [2014-05-21](/news/2014/05/21/index.md)
 
+##### General Motors
 # General Motors announces that it is recalling 218,000 older model Chevrolet Aveos due to a fire hazard. 
 
 General Motors Co is recalling more than 284,000 older Chevrolet small cars in the United States and other markets because of a potential fire hazard, bringing U.S. recalls at the automaker this year to 29 and a record number of vehicles.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/05/21/us-gm-recall-aveo-idUSBREA4K0G420140521?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140521&t=2&i=898728769&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA4K1C5000)
+1. [Reuters](https://www.reuters.com/article/2014/05/21/us-gm-recall-aveo-idUSBREA4K0G420140521?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140521&t=2&i=898728769&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA4K1C5000)
 
 ### Related:
 

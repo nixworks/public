@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2004/08/31/a-female-suicide-bomber-kills-ten-and-injures-51-others-near-a-subway-station-in-moscow.html)  [JSON](/news/2004/08/31/a-female-suicide-bomber-kills-ten-and-injures-51-others-near-a-subway-station-in-moscow.json)  [XML](/news/2004/08/31/a-female-suicide-bomber-kills-ten-and-injures-51-others-near-a-subway-station-in-moscow.xml)  
+
 ### [2004-08-31](/news/2004/08/31/index.md)
 
+##### female suicide bombing
 #  A female suicide bomber kills ten and injures 51 others near a subway station in Moscow. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/3615970.stm)
 2. [CNN](http://www.cnn.com/2004/WORLD/europe/08/31/russia.carblast/index.html)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6116156)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6116156)
 
 ### Related:
 

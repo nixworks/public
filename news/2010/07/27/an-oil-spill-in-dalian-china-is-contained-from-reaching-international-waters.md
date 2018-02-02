@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/27/an-oil-spill-in-dalian-china-is-contained-from-reaching-international-waters.html)  [JSON](/news/2010/07/27/an-oil-spill-in-dalian-china-is-contained-from-reaching-international-waters.json)  [XML](/news/2010/07/27/an-oil-spill-in-dalian-china-is-contained-from-reaching-international-waters.xml)  
+
 ### [2010-07-27](/news/2010/07/27/index.md)
 
+##### oil spill
 # An oil spill in Dalian, China, is contained from reaching international waters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/china/2010-07/27/content_11052491.htm)
 

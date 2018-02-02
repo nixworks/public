@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/18/montreal-mayor-michael-applebaum-resigns-following-fraud-and-corruption-charges-he-had-replaced-ga-c-rald-tremblay-who-resigned-because-of-si.html)  [JSON](/news/2013/06/18/montreal-mayor-michael-applebaum-resigns-following-fraud-and-corruption-charges-he-had-replaced-ga-c-rald-tremblay-who-resigned-because-of-si.json)  [XML](/news/2013/06/18/montreal-mayor-michael-applebaum-resigns-following-fraud-and-corruption-charges-he-had-replaced-ga-c-rald-tremblay-who-resigned-because-of-si.xml)  
+
 ### [2013-06-18](/news/2013/06/18/index.md)
 
+##### Montreal
 # Montreal mayor Michael Applebaum resigns following fraud and corruption charges; he had replaced Gerald Tremblay who resigned because of similar allegations. 
 
 Montreal Mayor Michael Applebaum has resigned in the wake of corruption charges being laid against him, although he maintains he is innocent.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/montreal/story/2013/06/18/montreal-mayor-michael-applebaum-arrested-charged-fraud.html)
 1. [Cover Image](https://i.cbc.ca/1.1393176.1378971079!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-applepresser.jpg)

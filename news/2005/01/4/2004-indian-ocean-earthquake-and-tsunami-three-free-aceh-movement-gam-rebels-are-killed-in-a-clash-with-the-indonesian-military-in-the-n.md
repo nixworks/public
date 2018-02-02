@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/4/2004-indian-ocean-earthquake-and-tsunami-three-free-aceh-movement-gam-rebels-are-killed-in-a-clash-with-the-indonesian-military-in-the-n.html)  [JSON](/news/2005/01/4/2004-indian-ocean-earthquake-and-tsunami-three-free-aceh-movement-gam-rebels-are-killed-in-a-clash-with-the-indonesian-military-in-the-n.json)  [XML](/news/2005/01/4/2004-indian-ocean-earthquake-and-tsunami-three-free-aceh-movement-gam-rebels-are-killed-in-a-clash-with-the-indonesian-military-in-the-n.xml)  
+
 ### [2005-01-4](/news/2005/01/4/index.md)
 
+##### 2004 Indian Ocean earthquake and tsunami
 #  2004 Indian Ocean earthquake and tsunami: Three Free Aceh Movement (GAM) rebels are killed in a clash with the Indonesian military in the northern Aceh province. Fighting broke out apparently when Indonesian troops attempted to escort aid trucks. Both sides claim the other are taking advantage of the devastation left from the tsunamis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC Australia](http://www.abc.net.au/news/newsitems/200501/s1275409.htm)
 2. [News.com.au](http://www.theaustralian.news.com.au/common/story_page/0,5744,11853722%255E401,00.html)

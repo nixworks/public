@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/21/a-ruling-party-official-says-that-sudanese-president-omar-al-bashir-will-not-stand-for-re-election.html)  [JSON](/news/2011/02/21/a-ruling-party-official-says-that-sudanese-president-omar-al-bashir-will-not-stand-for-re-election.json)  [XML](/news/2011/02/21/a-ruling-party-official-says-that-sudanese-president-omar-al-bashir-will-not-stand-for-re-election.xml)  
+
 ### [2011-02-21](/news/2011/02/21/index.md)
 
+##### Sudan
 # A ruling party official says that Sudanese President Omar al-Bashir will not stand for re-election. 
 
 Sudanese President Omar al-Bashir will not stand in the next presidential election due in four years, a ruling party official says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12521427)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

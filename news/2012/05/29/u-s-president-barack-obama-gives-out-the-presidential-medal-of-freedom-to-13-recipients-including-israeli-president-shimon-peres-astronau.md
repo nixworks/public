@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/29/u-s-president-barack-obama-gives-out-the-presidential-medal-of-freedom-to-13-recipients-including-israeli-president-shimon-peres-astronau.html)  [JSON](/news/2012/05/29/u-s-president-barack-obama-gives-out-the-presidential-medal-of-freedom-to-13-recipients-including-israeli-president-shimon-peres-astronau.json)  [XML](/news/2012/05/29/u-s-president-barack-obama-gives-out-the-presidential-medal-of-freedom-to-13-recipients-including-israeli-president-shimon-peres-astronau.xml)  
+
 ### [2012-05-29](/news/2012/05/29/index.md)
 
+##### Barack Obama
 # U.S. president Barack Obama gives out the Presidential Medal of Freedom to 13 recipients, including Israeli president Shimon Peres, astronaut John Glenn and musician Bob Dylan, at the White House. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-18258990)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60573000/jpg/_60573079_60573078.jpg)

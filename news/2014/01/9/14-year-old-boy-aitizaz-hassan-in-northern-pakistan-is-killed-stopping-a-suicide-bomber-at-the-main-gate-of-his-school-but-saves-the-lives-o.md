@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/9/14-year-old-boy-aitizaz-hassan-in-northern-pakistan-is-killed-stopping-a-suicide-bomber-at-the-main-gate-of-his-school-but-saves-the-lives-o.html)  [JSON](/news/2014/01/9/14-year-old-boy-aitizaz-hassan-in-northern-pakistan-is-killed-stopping-a-suicide-bomber-at-the-main-gate-of-his-school-but-saves-the-lives-o.json)  [XML](/news/2014/01/9/14-year-old-boy-aitizaz-hassan-in-northern-pakistan-is-killed-stopping-a-suicide-bomber-at-the-main-gate-of-his-school-but-saves-the-lives-o.xml)  
+
 ### [2014-01-9](/news/2014/01/9/index.md)
 
+##### Aitizaz Hassan
 # 14-year-old boy Aitizaz Hassan in northern Pakistan is killed stopping a suicide bomber at the main gate of his school but saves the lives of all of his schoolmates gathered for their morning assembly. The Sunni group Lashkar-e-Jhangvi claims responsibility for the attack. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2014/01/pakistan-teen-dies-stopping-suicide-bomber-201411093049572374.html)
 2. [CNN](http://www.cnn.com/2014/01/09/world/asia/pakistan-boy-stops-suicide-bomber/index.html?hpt=wo_c2)

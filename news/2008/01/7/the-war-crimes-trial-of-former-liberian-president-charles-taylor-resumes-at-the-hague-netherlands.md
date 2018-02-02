@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2008/01/7/the-war-crimes-trial-of-former-liberian-president-charles-taylor-resumes-at-the-hague-netherlands.html)  [JSON](/news/2008/01/7/the-war-crimes-trial-of-former-liberian-president-charles-taylor-resumes-at-the-hague-netherlands.json)  [XML](/news/2008/01/7/the-war-crimes-trial-of-former-liberian-president-charles-taylor-resumes-at-the-hague-netherlands.xml)  
+
 ### [2008-01-7](/news/2008/01/7/index.md)
 
+##### war crimes
 #  The war crimes trial of former Liberian President Charles Taylor resumes at The Hague, Netherlands. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/africa/01/07/taylor.trial/index.html)
 
 ### Related:
 
-1. [The Special Court for Sierra Leone at The Hague delivers its verdict in the trial of former President of Liberia Charles Taylor on charges of arming Sierra Leone's rebels in return for "blood diamonds" in the 1990s. He is convicted on charges related to aiding and abetting war crimes but acquitted of charges of ordering them. ](/news/2012/04/26/the-special-court-for-sierra-leone-at-the-hague-delivers-its-verdict-in-the-trial-of-former-president-of-liberia-charles-taylor-on-charges-o.md) _Context: Charles Taylor, President, The Hague_
-2. [The trial of former President of Liberia Charles Taylor is adjourned until Friday after he does not attend court in The Hague. ](/news/2011/02/9/the-trial-of-former-president-of-liberia-charles-taylor-is-adjourned-until-friday-after-he-does-not-attend-court-in-the-hague.md) _Context: Charles Taylor, President, The Hague_
-3. [The lawyer for former Liberian President Charles Taylor walks out of court protesting that his client's rights to a fair trial had been abused. ](/news/2011/02/8/the-lawyer-for-former-liberian-president-charles-taylor-walks-out-of-court-protesting-that-his-client-s-rights-to-a-fair-trial-had-been-abus.md) _Context: Charles Taylor, Liberia, President_
-4. [Former President of Liberia Charles Taylor's trial in The Hague is extended. ](/news/2011/02/11/former-president-of-liberia-charles-taylor-s-trial-in-the-hague-is-extended.md) _Context: Charles Taylor, President, The Hague_
-5. [Actress Mia Farrow gives evidence in the trial of former President of Liberia Charles Taylor before the United Nations Special Court for Sierra Leone. ](/news/2010/08/9/actress-mia-farrow-gives-evidence-in-the-trial-of-former-president-of-liberia-charles-taylor-before-the-united-nations-special-court-for-sie.md) _Context: Charles Taylor, Liberia, President_
+1. [ Former Liberian leader Charles Taylor denies cannibalism at his war trial in The Hague. ](/news/2009/07/27/former-liberian-leader-charles-taylor-denies-cannibalism-at-his-war-trial-in-the-hague.md) _Context: Charles Taylor, Liberia, The Hague_
+2. [An appeals court in The Hague rules that Netherlands is partly to blame for the deaths of some 350 Muslim Bosnian men in the 1995 Srebrenica genocide and, in a move considered landmark, orders it to pay limited damages. ](/news/2017/06/27/an-appeals-court-in-the-hague-rules-that-netherlands-is-partly-to-blame-for-the-deaths-of-some-350-muslim-bosnian-men-in-the-1995-srebrenica.md) _Context: Netherlands, The Hague_
+3. [A Filipino lawyer files a complaint of "mass murder and crimes against humanity" against Philippines president Rodrigo Duterte and eleven other officials at the International Criminal Court in The Hague, Netherlands. ](/news/2017/04/24/a-filipino-lawyer-files-a-complaint-of-mass-murder-and-crimes-against-humanity-against-philippines-president-rodrigo-duterte-and-eleven-ot.md) _Context: Netherlands, The Hague_
+4. [Dutch businessman Guus Kouwenhoven is found guilty of war crimes and arms trafficking for using his lumber business to sell weapons to Liberia's former president Charles Taylor during the country's civil war between 2000 and 2003 and is sentenced to 19 years in prison. ](/news/2017/04/22/dutch-businessman-guus-kouwenhoven-is-found-guilty-of-war-crimes-and-arms-trafficking-for-using-his-lumber-business-to-sell-weapons-to-liber.md) _Context: Liberia, Netherlands_
+5. [Congolese war crimes suspect Bosco Ntaganda appears before the International Criminal Court at The Hague for the first time, following his surprise surrender last week. ](/news/2013/03/26/congolese-war-crimes-suspect-bosco-ntaganda-appears-before-the-international-criminal-court-at-the-hague-for-the-first-time-following-his-s.md) _Context: The Hague, war crimes_

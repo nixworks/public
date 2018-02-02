@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/12/president-of-iran-mahmoud-ahmadinejad-calls-israel-nothing-more-than-a-mosquito-and-downplays-the-idea-of-war-between-the-two-countries-a.html)  [JSON](/news/2012/05/12/president-of-iran-mahmoud-ahmadinejad-calls-israel-nothing-more-than-a-mosquito-and-downplays-the-idea-of-war-between-the-two-countries-a.json)  [XML](/news/2012/05/12/president-of-iran-mahmoud-ahmadinejad-calls-israel-nothing-more-than-a-mosquito-and-downplays-the-idea-of-war-between-the-two-countries-a.xml)  
+
 ### [2012-05-12](/news/2012/05/12/index.md)
 
+##### President
 # President of Iran Mahmoud Ahmadinejad calls Israel "nothing more than a mosquito" and downplays the idea of war between the two countries, ahead of talks regarding Iran's nuclear program. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/05/12/world/meast/iran-ahmadinejad-israel/index.html?hpt=hp_t3)
 

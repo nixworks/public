@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2004/03/22/the-former-chief-counter-terrorism-aide-to-u-s-president-bush-richard-clarke-claims-that-bush-diverted-attention-towards-iraq-ignoring.html)  [JSON](/news/2004/03/22/the-former-chief-counter-terrorism-aide-to-u-s-president-bush-richard-clarke-claims-that-bush-diverted-attention-towards-iraq-ignoring.json)  [XML](/news/2004/03/22/the-former-chief-counter-terrorism-aide-to-u-s-president-bush-richard-clarke-claims-that-bush-diverted-attention-towards-iraq-ignoring.xml)  
+
 ### [2004-03-22](/news/2004/03/22/index.md)
 
+##### George W. Bush
 #  The former chief counter-terrorism aide to U.S. President Bush, Richard Clarke, claims that Bush diverted attention towards Iraq, ignoring the main threat of Al-Qaida. Clarke was the administration's senior counter-terrorism official when 9-11 took place. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/3559087.stm)
 2. [FT](http://news.ft.com/servlet/ContentServer?pagename=FT.com/StoryFT/FullStory&c=StoryFT&cid=1079419814589)
 3. [Guardian](http://www.guardian.co.uk/uselections2004/story/0,13918,1175070,00.html)
-4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=politicsNews&storyID=4615469)
+4. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=politicsNews&storyID=4615469)
 
 ### Related:
 

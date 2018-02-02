@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/28/republic-of-china-foreign-minister-mark-chen-calls-singapore-the-size-of-a-piece-of-snot-after-singaporean-foreign-minister-george-yeo-de.html)  [JSON](/news/2004/09/28/republic-of-china-foreign-minister-mark-chen-calls-singapore-the-size-of-a-piece-of-snot-after-singaporean-foreign-minister-george-yeo-de.json)  [XML](/news/2004/09/28/republic-of-china-foreign-minister-mark-chen-calls-singapore-the-size-of-a-piece-of-snot-after-singaporean-foreign-minister-george-yeo-de.xml)  
+
 ### [2004-09-28](/news/2004/09/28/index.md)
 
+##### Taiwan
 #  Republic of China foreign minister Mark Chen calls Singapore "the size of a piece of snot" after Singaporean foreign minister George Yeo declared opposition to Taiwan independence. He later apologized for his "improper wording". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/3697244.stm)
 2. [China Post](http://www.chinapost.com.tw/i_latestdetail.asp?id=22940)

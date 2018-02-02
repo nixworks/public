@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/2/thai-police-dig-up-a-campsite-in-southern-thailand-used-by-human-traffickers-with-30-grave-sites.html)  [JSON](/news/2015/05/2/thai-police-dig-up-a-campsite-in-southern-thailand-used-by-human-traffickers-with-30-grave-sites.json)  [XML](/news/2015/05/2/thai-police-dig-up-a-campsite-in-southern-thailand-used-by-human-traffickers-with-30-grave-sites.xml)  
+
 ### [2015-05-2](/news/2015/05/2/index.md)
 
+##### Thai police officers
 # Thai police dig up a campsite in southern Thailand used by human traffickers with 30 grave sites. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3065203/Thai-police-dig-graves-suspected-trafficking-camp.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/10/adair-turner-former-head-of-the-u-k-s-financial
 
 ### [2016-02-10](/news/2016/02/10/index.md)
 
+##### Adair Turner
 # Adair Turner former head of the U.K.'s Financial Services Authority, warns against the growth of peer-to-peer lending, telling the BBC that the practice will cause grave losses over the next five to ten years. 
 
 Former City regulator Adair Turner warns that without radical policies, the UK economy could be stuck with low interest rates &quot;almost indefinitely&quot;.

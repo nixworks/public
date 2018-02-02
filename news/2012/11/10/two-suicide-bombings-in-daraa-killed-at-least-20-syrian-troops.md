@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2012/11/10/two-suicide-bombings-in-daraa-killed-at-least-20-syrian-troops.html)  [JSON](/news/2012/11/10/two-suicide-bombings-in-daraa-killed-at-least-20-syrian-troops.json)  [XML](/news/2012/11/10/two-suicide-bombings-in-daraa-killed-at-least-20-syrian-troops.xml)  
+
 ### [2012-11-10](/news/2012/11/10/index.md)
 
+##### Daraa
 # Two suicide bombings in Daraa killed at least 20 Syrian troops. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/world/2012/11/10/twin-explosions-strike-city-in-southern-syria-causing-multiple-casualties-state/)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
+
+### Changes:
+
+1. [Syrian civil war:Two suicide bombings in Daraa killed at least 20 Syrian troops. ](/news/2012/11/10/syrian-civil-war-ptwo-suicide-bombings-in-daraa-killed-at-least-20-syrian-troops.md) _2017-08-25 03:36:48 (First version)_
+2. [Syrian civil war:: Two suicide bombings in Daraa killed at least 20 Syrian troops. ](/news/2012/11/10/syrian-civil-war-two-suicide-bombings-in-daraa-killed-at-least-20-syrian-troops.md) _2017-08-27 03:36:58 (Update)_
+2. [Two suicide bombings in Daraa killed at least 20 Syrian troops. ](/news/2012/11/10/two-suicide-bombings-in-daraa-killed-at-least-20-syrian-troops.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@
 3. [Syrian armed forces continue to shell the city of Hama and at least 59 civilians are reported killed across Syria, in Idlib, Homs, Hama, Daraa, Lattakia, Aleppo and Damascus. ](/news/2012/03/22/syrian-armed-forces-continue-to-shell-the-city-of-hama-and-at-least-59-civilians-are-reported-killed-across-syria-in-idlib-homs-hama-dar.md) _Context: Daraa_
 4. [2011-2012 Syrian uprising: Protests referred to by activists as "The Friday for International Military Intervention" spread from the northern city of Aleppo to the central regions of Hama and Homs, and southern province of Daraa. ](/news/2012/03/16/2011a2012-syrian-uprising-protests-referred-to-by-activists-as-the-friday-for-international-military-intervention-spread-from-the-north.md) _Context: Daraa_
 5. [Opposition activists claim that at least 38 people, including six children, have been killed by security forces across Syria: 16 in the city of Homs, 10 in Idlib, six in Hama, three in the suburbs of Damascus and three in Daraa. ](/news/2011/11/10/opposition-activists-claim-that-at-least-38-people-including-six-children-have-been-killed-by-security-forces-across-syria-16-in-the-city.md) _Context: Daraa_
-
-### Changes:
-
-1. [Syrian civil war:Two suicide bombings in Daraa killed at least 20 Syrian troops. ](/news/2012/11/10/syrian-civil-war-ptwo-suicide-bombings-in-daraa-killed-at-least-20-syrian-troops.md) _2017-08-25 03:36:48 (First version)_
-2. [Syrian civil war:: Two suicide bombings in Daraa killed at least 20 Syrian troops. ](/news/2012/11/10/syrian-civil-war-two-suicide-bombings-in-daraa-killed-at-least-20-syrian-troops.md) _2017-08-27 03:36:58 (Update)_
-2. [Two suicide bombings in Daraa killed at least 20 Syrian troops. ](/news/2012/11/10/two-suicide-bombings-in-daraa-killed-at-least-20-syrian-troops.md) _(Current version)_

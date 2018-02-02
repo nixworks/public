@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/08/2/ukrainian-forces-retake-control-of-the-towns-of-krasnohorivka-and-staromykhailivka-outside-the-pro-russian-rebels-stronghold-of-donetsk.html)  [JSON](/news/2014/08/2/ukrainian-forces-retake-control-of-the-towns-of-krasnohorivka-and-staromykhailivka-outside-the-pro-russian-rebels-stronghold-of-donetsk.json)  [XML](/news/2014/08/2/ukrainian-forces-retake-control-of-the-towns-of-krasnohorivka-and-staromykhailivka-outside-the-pro-russian-rebels-stronghold-of-donetsk.xml)  
+
 ### [2014-08-2](/news/2014/08/2/index.md)
 
+##### Krasnohorivka
 # Ukrainian forces retake control of the towns of Krasnohorivka and Staromykhailivka, outside the pro-Russian rebels' stronghold of Donetsk. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters'' via ''New York Times](http://www.nytimes.com/reuters/2014/08/02/world/europe/02reuters-urkaine-crisis-east.html?ref=world&_r=0)
+1. [Reuters'' via ''New York Times](https://www.nytimes.com/reuters/2014/08/02/world/europe/02reuters-urkaine-crisis-east.html?ref=world&_r=0)
 
 ### Related:
 

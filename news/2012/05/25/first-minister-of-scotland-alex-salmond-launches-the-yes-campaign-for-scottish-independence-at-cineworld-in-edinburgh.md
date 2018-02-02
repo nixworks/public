@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/25/first-minister-of-scotland-alex-salmond-launches-the-yes-campaign-for-scottish-independence-at-cineworld-in-edinburgh.html)  [JSON](/news/2012/05/25/first-minister-of-scotland-alex-salmond-launches-the-yes-campaign-for-scottish-independence-at-cineworld-in-edinburgh.json)  [XML](/news/2012/05/25/first-minister-of-scotland-alex-salmond-launches-the-yes-campaign-for-scottish-independence-at-cineworld-in-edinburgh.xml)  
+
 ### [2012-05-25](/news/2012/05/25/index.md)
 
+##### First Minister
 # First Minister of Scotland Alex Salmond launches the "Yes" campaign for Scottish independence at Cineworld in Edinburgh. 
 
 The &quot;yes&quot; campaign for independence wants one million Scots to sign a declaration of support by the time of the referendum in the autumn of 2014.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-scotland-politics-18162832)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60500000/jpg/_60500212_014850800-1.jpg)

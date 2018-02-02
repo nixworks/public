@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/20/afghan-finance-minister-omar-zakhilwal-is-reported-to-be-running-out-of-patience-with-the-international-monetary-fund-imf-over-the-imf-s.html)  [JSON](/news/2011/06/20/afghan-finance-minister-omar-zakhilwal-is-reported-to-be-running-out-of-patience-with-the-international-monetary-fund-imf-over-the-imf-s.json)  [XML](/news/2011/06/20/afghan-finance-minister-omar-zakhilwal-is-reported-to-be-running-out-of-patience-with-the-international-monetary-fund-imf-over-the-imf-s.xml)  
+
 ### [2011-06-20](/news/2011/06/20/index.md)
 
+##### Omar Zakhilwal
 # Afghan finance minister Omar Zakhilwal is reported to be "running out of patience" with the International Monetary Fund (IMF) over the IMF's rejection of a plan to deal with Kabul Bank. Zakhilwal is also reported to have said that further talks with the IMF would be "a waste of time". 
 
 Afghanistan says it is &quot;running out of patience&quot; with the IMF after it rejected a plan to deal with the troubled lender Kabul Bank.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13847292)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

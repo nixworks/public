@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/12/albanian-prime-minister-edi-rama-dismisses-four
 
 ### [2017-03-12](/news/2017/03/12/index.md)
 
+##### Albania
 # Albanian Prime Minister Edi Rama dismisses four cabinet ministers, including Minister of Internal Affairs Saimir Tahiri and Minister of Health Ilir Beqaj, in a bid to make the government more technocratic following opposition Democratic Party protests. 
 
  Albanian Prime Minister Edi Rama said on Sunday he would replace four of his ministers this week, a move which failed to satisfy opposition protesters who have

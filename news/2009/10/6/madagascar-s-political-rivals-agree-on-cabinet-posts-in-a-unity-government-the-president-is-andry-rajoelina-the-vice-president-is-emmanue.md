@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/10/6/madagascar-s-political-rivals-agree-on-cabinet-posts-in-a-unity-government-the-president-is-andry-rajoelina-the-vice-president-is-emmanue.html)  [JSON](/news/2009/10/6/madagascar-s-political-rivals-agree-on-cabinet-posts-in-a-unity-government-the-president-is-andry-rajoelina-the-vice-president-is-emmanue.json)  [XML](/news/2009/10/6/madagascar-s-political-rivals-agree-on-cabinet-posts-in-a-unity-government-the-president-is-andry-rajoelina-the-vice-president-is-emmanue.xml)  
+
 ### [2009-10-6](/news/2009/10/6/index.md)
 
+##### Madagascar
 #  Madagascar's political rivals agree on cabinet posts in a unity government; the President is Andry Rajoelina, the Vice-President is Emmanuel Rakotovahiny, and the Prime Minister is Eugene Mangalaza. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8293862.stm)
-2. [Reuters](http://www.reuters.com/article/latestCrisis/idUSL6451249)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/latestCrisis/idUSL6451249)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

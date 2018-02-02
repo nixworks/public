@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/1/prominent-video-journalist-merajuddin-is-hospitalised-in-srinagar-after-being-severely-beaten-with-a-baton-in-his-neck-by-kashmir-police-th.html)  [JSON](/news/2010/10/1/prominent-video-journalist-merajuddin-is-hospitalised-in-srinagar-after-being-severely-beaten-with-a-baton-in-his-neck-by-kashmir-police-th.json)  [XML](/news/2010/10/1/prominent-video-journalist-merajuddin-is-hospitalised-in-srinagar-after-being-severely-beaten-with-a-baton-in-his-neck-by-kashmir-police-th.xml)  
+
 ### [2010-10-1](/news/2010/10/1/index.md)
 
+##### Merajuddin
 # Prominent video journalist Merajuddin is hospitalised in Srinagar after being severely beaten with a baton in his neck by Kashmir police. They also beat up his son and colleague in the latest police attack on the media there. 
 
 A prominent journalist is admitted to hospital in Indian-administered Kashmir after being severely beaten by police.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11454942)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

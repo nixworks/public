@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/16/nato-forces-find-a-small-boat-loaded-with-explosives-outside-the-libyan-port-of-misrata-with-forces-loyal-to-muammar-gaddafi-believed-to-be.html)  [JSON](/news/2011/05/16/nato-forces-find-a-small-boat-loaded-with-explosives-outside-the-libyan-port-of-misrata-with-forces-loyal-to-muammar-gaddafi-believed-to-be.json)  [XML](/news/2011/05/16/nato-forces-find-a-small-boat-loaded-with-explosives-outside-the-libyan-port-of-misrata-with-forces-loyal-to-muammar-gaddafi-believed-to-be.xml)  
+
 ### [2011-05-16](/news/2011/05/16/index.md)
 
+##### NATO
 # NATO forces find a small boat loaded with explosives outside the Libyan port of Misrata, with forces loyal to Muammar Gaddafi believed to be responsible. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/libyaNews/idAFLDE74F20S20110516)
 

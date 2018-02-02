@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/14/airspace-restrictions-are-in-place-in-east-africa-after-the-nabro-volcano-erupts-in-eritrea.html)  [JSON](/news/2011/06/14/airspace-restrictions-are-in-place-in-east-africa-after-the-nabro-volcano-erupts-in-eritrea.json)  [XML](/news/2011/06/14/airspace-restrictions-are-in-place-in-east-africa-after-the-nabro-volcano-erupts-in-eritrea.xml)  
+
 ### [2011-06-14](/news/2011/06/14/index.md)
 
+##### Nabro Volcano
 # Airspace restrictions are in place in East Africa after the Nabro Volcano erupts in Eritrea. 
 
 Nabro erupts for a third day after a series of earthquakes, causing airspace restrictions around East Africa.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/06/2011614171314651149.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/14/2011614173734104734_20.jpg)

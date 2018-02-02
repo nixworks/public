@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/13/an-indian-court-sentences-four-men-to-death-for-the-2012-delhi-gang-rape-case.html)  [JSON](/news/2013/09/13/an-indian-court-sentences-four-men-to-death-for-the-2012-delhi-gang-rape-case.json)  [XML](/news/2013/09/13/an-indian-court-sentences-four-men-to-death-for-the-2012-delhi-gang-rape-case.xml)  
+
 ### [2013-09-13](/news/2013/09/13/index.md)
 
+##### India
 # An Indian court sentences four men to death for the 2012 Delhi gang rape case. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2013/09/13/world/asia/india-gang-rape-sentence/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/9/the-chamber-of-councillors-of-tunisia-passes-legislation-allowing-the-president-to-rule-by-decree.html)  [JSON](/news/2011/02/9/the-chamber-of-councillors-of-tunisia-passes-legislation-allowing-the-president-to-rule-by-decree.json)  [XML](/news/2011/02/9/the-chamber-of-councillors-of-tunisia-passes-legislation-allowing-the-president-to-rule-by-decree.xml)  
+
 ### [2011-02-9](/news/2011/02/9/index.md)
 
+##### Chamber of Councillors of Tunisia
 # The Chamber of Councillors of Tunisia passes legislation allowing the President to rule by decree. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12410704)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

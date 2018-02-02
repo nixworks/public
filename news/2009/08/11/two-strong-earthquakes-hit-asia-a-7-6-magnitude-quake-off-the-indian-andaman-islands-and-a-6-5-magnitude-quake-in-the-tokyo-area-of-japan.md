@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/11/two-strong-earthquakes-hit-asia-a-7-6-magnitude-quake-off-the-indian-andaman-islands-and-a-6-5-magnitude-quake-in-the-tokyo-area-of-japan.html)  [JSON](/news/2009/08/11/two-strong-earthquakes-hit-asia-a-7-6-magnitude-quake-off-the-indian-andaman-islands-and-a-6-5-magnitude-quake-in-the-tokyo-area-of-japan.json)  [XML](/news/2009/08/11/two-strong-earthquakes-hit-asia-a-7-6-magnitude-quake-off-the-indian-andaman-islands-and-a-6-5-magnitude-quake-in-the-tokyo-area-of-japan.xml)  
+
 ### [2009-08-11](/news/2009/08/11/index.md)
 
+##### Asia
 #  Two strong earthquakes hit Asia; a 7.6 magnitude quake off the Indian Andaman Islands and a 6.5 magnitude quake in the Tokyo area of Japan, killing one and injuring dozens. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5glXHCXLgQ2pZmhzM3mB_Kwk7QlJgD9A0GSFO0)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8194563.stm)

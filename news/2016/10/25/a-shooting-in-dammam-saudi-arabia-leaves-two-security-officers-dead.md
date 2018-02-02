@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/25/a-shooting-in-dammam-saudi-arabia-leaves-two-se
 
 ### [2016-10-25](/news/2016/10/25/index.md)
 
+##### Dammam, Saudi Arabia
 # A shooting in Dammam, Saudi Arabia, leaves two security officers dead. 
 
 Gunmen shot dead two Saudi security officers in the eastern city of Dammam on Tuesday, Saudi-owned Arabiya TV reported.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/10/chinese-dissident-zhu-yufi-is-jailed-for-seven-years-for-inciting-subversion-after-publishing-a-poem-in-support-of-freedom.html)  [JSON](/news/2012/02/10/chinese-dissident-zhu-yufi-is-jailed-for-seven-years-for-inciting-subversion-after-publishing-a-poem-in-support-of-freedom.json)  [XML](/news/2012/02/10/chinese-dissident-zhu-yufi-is-jailed-for-seven-years-for-inciting-subversion-after-publishing-a-poem-in-support-of-freedom.xml)  
+
 ### [2012-02-10](/news/2012/02/10/index.md)
 
+##### Zhu Yufi
 # Chinese dissident Zhu Yufi is jailed for seven years for "inciting subversion", after publishing a poem in support of freedom. 
 
 A court in eastern China has sentenced dissident writer Zhu Yufu to seven years in jail for inciting subversion, rights groups say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-16977615)
 2. [Radio Television Hong Kong](http://rthk.hk/rthk/news/englishnews/20120210/news_20120210_56_817637.htm)

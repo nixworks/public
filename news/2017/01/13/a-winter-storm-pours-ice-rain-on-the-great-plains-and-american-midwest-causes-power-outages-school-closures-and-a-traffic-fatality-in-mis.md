@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/13/a-winter-storm-pours-ice-rain-on-the-great-plai
 
 ### [2017-01-13](/news/2017/01/13/index.md)
 
+##### Mid-January 2017 North American ice storm
 # A winter storm pours ice rain on the Great Plains and American Midwest, causes power outages, school closures, and a traffic fatality in Missouri. 
 
  A winter storm bringing icy rain to the Great Plains and Midwest claimed the life of a Missouri woman on Friday, prompted the delay of an NFL football game and

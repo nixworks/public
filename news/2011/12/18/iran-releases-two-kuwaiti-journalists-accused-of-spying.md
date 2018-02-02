@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/18/iran-releases-two-kuwaiti-journalists-accused-of-spying.html)  [JSON](/news/2011/12/18/iran-releases-two-kuwaiti-journalists-accused-of-spying.json)  [XML](/news/2011/12/18/iran-releases-two-kuwaiti-journalists-accused-of-spying.xml)  
+
 ### [2011-12-18](/news/2011/12/18/index.md)
 
+##### Iran
 # Iran releases two Kuwaiti journalists accused of spying. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Arabiya](http://english.alarabiya.net/articles/2011/12/18/183164.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/7/spanish-police-in-the-canary-islands-find-a-drifting-boat-containing-227-african-migrants.html)  [JSON](/news/2005/02/7/spanish-police-in-the-canary-islands-find-a-drifting-boat-containing-227-african-migrants.json)  [XML](/news/2005/02/7/spanish-police-in-the-canary-islands-find-a-drifting-boat-containing-227-african-migrants.xml)  
+
 ### [2005-02-7](/news/2005/02/7/index.md)
 
+##### Canary Islands'
 #  Spanish police in the Canary Islands find a drifting boat containing 227 African migrants. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4242055.stm)
 

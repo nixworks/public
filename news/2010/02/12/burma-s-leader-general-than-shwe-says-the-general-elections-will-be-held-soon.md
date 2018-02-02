@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/12/burma-s-leader-general-than-shwe-says-the-general-elections-will-be-held-soon.html)  [JSON](/news/2010/02/12/burma-s-leader-general-than-shwe-says-the-general-elections-will-be-held-soon.json)  [XML](/news/2010/02/12/burma-s-leader-general-than-shwe-says-the-general-elections-will-be-held-soon.xml)  
+
 ### [2010-02-12](/news/2010/02/12/index.md)
 
+##### Burma
 # Burma's leader General Than Shwe says the general elections will be held "soon". 
 
 Senior General says elections to proceed this year but gives no specific dates.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/02/201021275837638798.html)
 2. [Press Trust of India](http://www.ptinews.com/news/514331_Myanmar-junta-chief-says-elections-will-be--soon-)

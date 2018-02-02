@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/9/tens-of-thousands-of-demonstrators-in-buenos-aires-and-other-cities-in-argentina-protest-against-the-death-of-carlos-fuentealba-a-school-t.html)  [JSON](/news/2007/04/9/tens-of-thousands-of-demonstrators-in-buenos-aires-and-other-cities-in-argentina-protest-against-the-death-of-carlos-fuentealba-a-school-t.json)  [XML](/news/2007/04/9/tens-of-thousands-of-demonstrators-in-buenos-aires-and-other-cities-in-argentina-protest-against-the-death-of-carlos-fuentealba-a-school-t.xml)  
+
 ### [2007-04-9](/news/2007/04/9/index.md)
 
+##### Buenos Aires
 #  Tens of thousands of demonstrators in Buenos Aires and other cities in Argentina protest against the death of Carlos Fuentealba, a school teacher having been severely injured by a tear gas canister fired by police during a protest the previous week over pay and working conditions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6539617.stm)
 

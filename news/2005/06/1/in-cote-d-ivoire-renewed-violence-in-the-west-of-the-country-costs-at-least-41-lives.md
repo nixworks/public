@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/1/in-cote-d-ivoire-renewed-violence-in-the-west-of-the-country-costs-at-least-41-lives.html)  [JSON](/news/2005/06/1/in-cote-d-ivoire-renewed-violence-in-the-west-of-the-country-costs-at-least-41-lives.json)  [XML](/news/2005/06/1/in-cote-d-ivoire-renewed-violence-in-the-west-of-the-country-costs-at-least-41-lives.xml)  
+
 ### [2005-06-1](/news/2005/06/1/index.md)
 
+##### Cte d'Ivoire
 #  In Cte d'Ivoire, renewed violence in the west of the country costs at least 41 lives 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4600059.stm)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/d2e2d8f977b01d653664cc781e49a00c.htm)

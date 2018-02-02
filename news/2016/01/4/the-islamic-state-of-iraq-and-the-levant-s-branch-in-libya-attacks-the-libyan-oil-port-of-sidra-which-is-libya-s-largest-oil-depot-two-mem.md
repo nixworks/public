@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/4/the-islamic-state-of-iraq-and-the-levant-s-branc
 
 ### [2016-01-4](/news/2016/01/4/index.md)
 
+##### Libyan Civil War (2014-present)
 # The Islamic State of Iraq and the Levant's branch in Libya attacks the Libyan oil port of Sidra, which is Libya's largest oil depot. Two members of the Petrol Facilities Guard militia, which is defending Sidra, were reportedly killed in clashes. Islamic State militants were reportedly pushed back from the port, but the group now says it controls the town of Bin Jawad, 30km west of Sidra on the road from its stronghold in Sirte. 
 
 

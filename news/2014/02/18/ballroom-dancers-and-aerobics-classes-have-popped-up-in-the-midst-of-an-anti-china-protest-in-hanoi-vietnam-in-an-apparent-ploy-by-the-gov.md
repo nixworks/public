@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/18/ballroom-dancers-and-aerobics-classes-have-popped-up-in-the-midst-of-an-anti-china-protest-in-hanoi-vietnam-in-an-apparent-ploy-by-the-gov.html)  [JSON](/news/2014/02/18/ballroom-dancers-and-aerobics-classes-have-popped-up-in-the-midst-of-an-anti-china-protest-in-hanoi-vietnam-in-an-apparent-ploy-by-the-gov.json)  [XML](/news/2014/02/18/ballroom-dancers-and-aerobics-classes-have-popped-up-in-the-midst-of-an-anti-china-protest-in-hanoi-vietnam-in-an-apparent-ploy-by-the-gov.xml)  
+
 ### [2014-02-18](/news/2014/02/18/index.md)
 
+##### Ballroom dancers
 # Ballroom dancers and aerobics classes have popped up in the midst of an anti-China protest in Hanoi, Vietnam, in an apparent ploy by the government to break up the event. 
 
 Ballroom dancers pop up at a protest in Vietnam, in a suspected government ploy to foil the event.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/blogs-news-from-elsewhere-26240489)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73062000/jpg/_73062197_172620886.jpg)

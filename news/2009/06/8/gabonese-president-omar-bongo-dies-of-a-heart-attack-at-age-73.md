@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/8/gabonese-president-omar-bongo-dies-of-a-heart-attack-at-age-73.html)  [JSON](/news/2009/06/8/gabonese-president-omar-bongo-dies-of-a-heart-attack-at-age-73.json)  [XML](/news/2009/06/8/gabonese-president-omar-bongo-dies-of-a-heart-attack-at-age-73.xml)  
+
 ### [2009-06-8](/news/2009/06/8/index.md)
 
+##### Gabon
 #  Gabonese President Omar Bongo dies of a heart attack at age 73. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8090056.stm)
 

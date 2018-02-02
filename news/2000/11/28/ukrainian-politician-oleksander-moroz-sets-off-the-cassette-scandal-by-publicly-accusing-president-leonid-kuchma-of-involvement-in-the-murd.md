@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/11/28/ukrainian-politician-oleksander-moroz-sets-off-the-cassette-scandal-by-publicly-accusing-president-leonid-kuchma-of-involvement-in-the-murd.html)  [JSON](/news/2000/11/28/ukrainian-politician-oleksander-moroz-sets-off-the-cassette-scandal-by-publicly-accusing-president-leonid-kuchma-of-involvement-in-the-murd.json)  [XML](/news/2000/11/28/ukrainian-politician-oleksander-moroz-sets-off-the-cassette-scandal-by-publicly-accusing-president-leonid-kuchma-of-involvement-in-the-murd.xml)  
+
 ### [2000-11-28](/news/2000/11/28/index.md)
 
+##### Ukraine
 #  Ukrainian politician Oleksander Moroz sets off the Cassette Scandal by publicly accusing President Leonid Kuchma of involvement in the murder of journalist Georgiy Gongadze.
 
 

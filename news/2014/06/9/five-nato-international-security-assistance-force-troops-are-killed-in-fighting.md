@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2014/06/9/five-nato-international-security-assistance-force-troops-are-killed-in-fighting.html)  [JSON](/news/2014/06/9/five-nato-international-security-assistance-force-troops-are-killed-in-fighting.json)  [XML](/news/2014/06/9/five-nato-international-security-assistance-force-troops-are-killed-in-fighting.xml)  
+
 ### [2014-06-9](/news/2014/06/9/index.md)
 
+##### Afghanistan
 # Five NATO International Security Assistance Force troops are killed in fighting. 
 
 Five American soldiers have been killed accidentally by their own side in southern Afghanistan, US military sources confirm.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-27775676#)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/75414000/jpg/_75414626_75414619.jpg)
+
+### Changes:
+
+1. [Taliban insurgency in Five NATO International Security Assistance Force troops are killed in fighting. ](/news/2014/06/9/taliban-insurgency-in-five-nato-international-security-assistance-force-troops-are-killed-in-fighting.md) _2017-08-25 03:40:31 (First version)_
+2. [Taliban insurgency in Afghanistan: Five NATO International Security Assistance Force troops are killed in fighting. ](/news/2014/06/9/taliban-insurgency-in-afghanistan-five-nato-international-security-assistance-force-troops-are-killed-in-fighting.md) _2017-08-27 03:40:49 (Update)_
+2. [Five NATO International Security Assistance Force troops are killed in fighting. ](/news/2014/06/9/five-nato-international-security-assistance-force-troops-are-killed-in-fighting.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@ Five American soldiers have been killed accidentally by their own side in southe
 3. [A suicide bomber targets a NATO convoy in the Afghan capital Kabul killing at least four Afghans, 13 American troops, and members of the International Security Assistance Force. ](/news/2011/10/29/a-suicide-bomber-targets-a-nato-convoy-in-the-afghan-capital-kabul-killing-at-least-four-afghans-13-american-troops-and-members-of-the-int.md) _Context: Afghanistan, International Security Assistance Force, NATO_
 4. [A member of the Iranian Revolutionary Guard captured in southern Afghanistan is accused of cross-border weapons smuggling by the NATO-led International Security Assistance Force. ](/news/2010/12/24/a-member-of-the-iranian-revolutionary-guard-captured-in-southern-afghanistan-is-accused-of-cross-border-weapons-smuggling-by-the-nato-led-in.md) _Context: Afghanistan, International Security Assistance Force, NATO_
 5. [Nine International Security Assistance Force soldiers are killed in a NATO helicopter crash in southern Afghanistan. ](/news/2010/09/21/nine-international-security-assistance-force-soldiers-are-killed-in-a-nato-helicopter-crash-in-southern-afghanistan.md) _Context: Afghanistan, International Security Assistance Force, NATO_
-
-### Changes:
-
-1. [Taliban insurgency in Five NATO International Security Assistance Force troops are killed in fighting. ](/news/2014/06/9/taliban-insurgency-in-five-nato-international-security-assistance-force-troops-are-killed-in-fighting.md) _2017-08-25 03:40:31 (First version)_
-2. [Taliban insurgency in Afghanistan: Five NATO International Security Assistance Force troops are killed in fighting. ](/news/2014/06/9/taliban-insurgency-in-afghanistan-five-nato-international-security-assistance-force-troops-are-killed-in-fighting.md) _2017-08-27 03:40:49 (Update)_
-2. [Five NATO International Security Assistance Force troops are killed in fighting. ](/news/2014/06/9/five-nato-international-security-assistance-force-troops-are-killed-in-fighting.md) _(Current version)_

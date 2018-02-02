@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2011/10/1/china-calls-on-myanmar-to-protect-interests-of-chinese-companies-after-president-thein-sein-halted-the-controversial-chinese-backed-myitsone.html)  [JSON](/news/2011/10/1/china-calls-on-myanmar-to-protect-interests-of-chinese-companies-after-president-thein-sein-halted-the-controversial-chinese-backed-myitsone.json)  [XML](/news/2011/10/1/china-calls-on-myanmar-to-protect-interests-of-chinese-companies-after-president-thein-sein-halted-the-controversial-chinese-backed-myitsone.xml)  
+
 ### [2011-10-1](/news/2011/10/1/index.md)
 
+##### China
 # China calls on Myanmar to protect interests of Chinese companies after President Thein Sein halted the controversial Chinese-backed Myitsone Dam project. 
 
 China called on Saturday for talks with Myanmar after the government there suspended a controversial $3.6 billion, Chinese-led dam project.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/10/01/us-china-myanmar-dam-idUSTRE7900N120111001)
+1. [Reuters](https://www.reuters.com/article/2011/10/01/us-china-myanmar-dam-idUSTRE7900N120111001)
 2. [Spokesperson's remarks](http://www.fmprc.gov.cn/eng/xwfw/s2510/t864761.htm)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

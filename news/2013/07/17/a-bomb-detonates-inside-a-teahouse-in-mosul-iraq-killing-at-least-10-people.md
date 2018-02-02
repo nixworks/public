@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/07/17/a-bomb-detonates-inside-a-teahouse-in-mosul-iraq-killing-at-least-10-people.html)  [JSON](/news/2013/07/17/a-bomb-detonates-inside-a-teahouse-in-mosul-iraq-killing-at-least-10-people.json)  [XML](/news/2013/07/17/a-bomb-detonates-inside-a-teahouse-in-mosul-iraq-killing-at-least-10-people.xml)  
+
 ### [2013-07-17](/news/2013/07/17/index.md)
 
+##### Mosul
 # A bomb detonates inside a teahouse in Mosul, Iraq killing at least 10 people. 
 
 A bomb blast in a teahouse in the northern Iraqi city of Mosul killed at least seven people on Wednesday, police and medics said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/07/17/us-iraq-violence-idUSBRE96G1A320130717?feedType=RSS&feedName=worldNews)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2013/07/17/us-iraq-violence-idUSBRE96G1A320130717?feedType=RSS&feedName=worldNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

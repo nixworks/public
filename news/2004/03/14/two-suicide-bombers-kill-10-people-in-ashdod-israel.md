@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/14/two-suicide-bombers-kill-10-people-in-ashdod-israel.html)  [JSON](/news/2004/03/14/two-suicide-bombers-kill-10-people-in-ashdod-israel.json)  [XML](/news/2004/03/14/two-suicide-bombers-kill-10-people-in-ashdod-israel.xml)  
+
 ### [2004-03-14](/news/2004/03/14/index.md)
 
+##### suicide bomber
 #  Two suicide bombers kill 10 people in Ashdod, Israel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3510708.stm)
 2. [CNN](http://www.cnn.com/2004/WORLD/meast/03/14/mideast/)

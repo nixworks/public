@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/19/the-attorney-general-of-mexico-issues-an-arrest
 
 ### [2016-10-19](/news/2016/10/19/index.md)
 
+##### Attorney General of Mexico
 # The Attorney General of Mexico issues an arrest warrant for the former Governor of Veracruz, Javier Duarte, for suspected involvement in organized crime and money laundering. 
 
 Mexico has ordered the arrest of an outgoing state governor in the ruling party suspected of corruption, as well as one of his opposition contemporaries, the government said on Wednesday, as it seeks to quell public discontent about its record on graft.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/18/indonesia-recalls-its-ambassador-to-australia-and-will-review-australian-diplomatic-positions-in-jakarta-following-revelations-that-austra.html)  [JSON](/news/2013/11/18/indonesia-recalls-its-ambassador-to-australia-and-will-review-australian-diplomatic-positions-in-jakarta-following-revelations-that-austra.json)  [XML](/news/2013/11/18/indonesia-recalls-its-ambassador-to-australia-and-will-review-australian-diplomatic-positions-in-jakarta-following-revelations-that-austra.xml)  
+
 ### [2013-11-18](/news/2013/11/18/index.md)
 
+##### Indonesia
 # Indonesia recalls its ambassador to Australia and will "review" Australian diplomatic positions in Jakarta following revelations that Australia had tapped the phone of the President Susilo Bambang Yudhoyono and his wife. 
 
 Indonesia has recalled its ambassador to Australia amid fury in Jakarta over revelations that Australian spies tried to tap the phones of the Indonesian President and his wife.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/world/indonesia-recalls-ambassador-to-australia-over-spying-claim-20131118-2xr5x.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/2/x/r/6/t/image.related.articleLeadwide.620x349.2xr5x.png/1384780446400.jpg)

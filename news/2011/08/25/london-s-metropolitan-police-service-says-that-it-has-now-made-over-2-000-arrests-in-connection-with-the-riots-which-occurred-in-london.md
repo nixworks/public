@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/25/london-s-metropolitan-police-service-says-that-it-has-now-made-over-2-000-arrests-in-connection-with-the-riots-which-occurred-in-london.html)  [JSON](/news/2011/08/25/london-s-metropolitan-police-service-says-that-it-has-now-made-over-2-000-arrests-in-connection-with-the-riots-which-occurred-in-london.json)  [XML](/news/2011/08/25/london-s-metropolitan-police-service-says-that-it-has-now-made-over-2-000-arrests-in-connection-with-the-riots-which-occurred-in-london.xml)  
+
 ### [2011-08-25](/news/2011/08/25/index.md)
 
+##### Metropolitan Police Service
 # London's Metropolitan Police Service says that it has now made over 2,000 arrests in connection with the riots which occurred in London. 
 
 The number of people arrested over rioting and looting in London earlier this month passes 2,000, the Metropolitan Police reveal.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14668770)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54651000/jpg/_54651319_012638359-1.jpg)

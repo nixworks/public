@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/07/20/beijing-introduces-traffic-restrictions-and-factory-closures-in-an-effort-to-reduce-air-pollution-for-the-2008-summer-olympics.html)  [JSON](/news/2008/07/20/beijing-introduces-traffic-restrictions-and-factory-closures-in-an-effort-to-reduce-air-pollution-for-the-2008-summer-olympics.json)  [XML](/news/2008/07/20/beijing-introduces-traffic-restrictions-and-factory-closures-in-an-effort-to-reduce-air-pollution-for-the-2008-summer-olympics.xml)  
+
 ### [2008-07-20](/news/2008/07/20/index.md)
 
+##### Beijing
 #  Beijing introduces traffic restrictions and factory closures in an effort to reduce air pollution for the 2008 Summer Olympics. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/latestCrisis/idUSPEK204360)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/latestCrisis/idUSPEK204360)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

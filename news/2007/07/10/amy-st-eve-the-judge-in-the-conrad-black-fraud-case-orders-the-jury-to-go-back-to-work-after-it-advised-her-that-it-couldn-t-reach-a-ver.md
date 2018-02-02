@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/10/amy-st-eve-the-judge-in-the-conrad-black-fraud-case-orders-the-jury-to-go-back-to-work-after-it-advised-her-that-it-couldn-t-reach-a-ver.html)  [JSON](/news/2007/07/10/amy-st-eve-the-judge-in-the-conrad-black-fraud-case-orders-the-jury-to-go-back-to-work-after-it-advised-her-that-it-couldn-t-reach-a-ver.json)  [XML](/news/2007/07/10/amy-st-eve-the-judge-in-the-conrad-black-fraud-case-orders-the-jury-to-go-back-to-work-after-it-advised-her-that-it-couldn-t-reach-a-ver.xml)  
+
 ### [2007-07-10](/news/2007/07/10/index.md)
 
+##### Amy St. Eve
 #  Amy St. Eve, the judge in the Conrad Black fraud case, orders the jury to go back to work after it advised her that it couldn't reach a verdict on all the counts before it. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Canadian Press via the Edmonton Sun](http://www.edmontonsun.com/News/World/2007/07/10/4328683.html)
 

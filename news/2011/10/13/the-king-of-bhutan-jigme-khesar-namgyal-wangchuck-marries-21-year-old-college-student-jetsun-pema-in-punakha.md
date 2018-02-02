@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/13/the-king-of-bhutan-jigme-khesar-namgyal-wangchuck-marries-21-year-old-college-student-jetsun-pema-in-punakha.html)  [JSON](/news/2011/10/13/the-king-of-bhutan-jigme-khesar-namgyal-wangchuck-marries-21-year-old-college-student-jetsun-pema-in-punakha.json)  [XML](/news/2011/10/13/the-king-of-bhutan-jigme-khesar-namgyal-wangchuck-marries-21-year-old-college-student-jetsun-pema-in-punakha.xml)  
+
 ### [2011-10-13](/news/2011/10/13/index.md)
 
+##### King
 # The King of Bhutan, Jigme Khesar Namgyal Wangchuck, marries 21-year-old college student Jetsun Pema in Punakha. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ (AP via MSNBC](http://www.msnbc.msn.com/id/44885097/ns/world_news-south_and_central_asia/?ocid=twitter)
 

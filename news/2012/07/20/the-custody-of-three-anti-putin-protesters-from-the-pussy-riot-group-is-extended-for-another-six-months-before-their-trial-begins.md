@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/20/the-custody-of-three-anti-putin-protesters-from-the-pussy-riot-group-is-extended-for-another-six-months-before-their-trial-begins.html)  [JSON](/news/2012/07/20/the-custody-of-three-anti-putin-protesters-from-the-pussy-riot-group-is-extended-for-another-six-months-before-their-trial-begins.json)  [XML](/news/2012/07/20/the-custody-of-three-anti-putin-protesters-from-the-pussy-riot-group-is-extended-for-another-six-months-before-their-trial-begins.xml)  
+
 ### [2012-07-20](/news/2012/07/20/index.md)
 
+##### Vladimir Putin
 # The custody of three anti-Putin protesters from the Pussy Riot group is extended for another six months before their trial begins. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gqzAmwHZ6NEJcC2uAyLtPPtoD29Q?docId=e662bdb84beb4a9da28ed353c62615ee)
 2. [RIA Novosti](http://en.ria.ru/society/20120720/174700687.html)
@@ -13,7 +17,7 @@
 ### Related:
 
 1. [Three women from Russian feminist punk rock band Pussy Riot go on trial in Moscow for holding an "unsanctioned performance" which called for the ouster of Vladimir Putin at Moscow's Christ the Saviour Cathedral in February. ](/news/2012/07/30/three-women-from-russian-feminist-punk-rock-band-pussy-riot-go-on-trial-in-moscow-for-holding-an-unsanctioned-performance-which-called-for.md) _Context: Pussy Riot, Vladimir Putin_
-2. [Russian police arrest 290 protesters calling on President Vladimir Putin to resign. ](/news/2017/10/7/russian-police-arrest-290-protesters-calling-on-president-vladimir-putin-to-resign.md) _Context: Vladimir Putin_
-3. [King Salman of Saudi Arabia visits Russian President Vladimir Putin in the Moscow Kremlin. They discuss oil prices and the Syrian Civil War. ](/news/2017/10/5/king-salman-of-saudi-arabia-visits-russian-president-vladimir-putin-in-the-moscow-kremlin-they-discuss-oil-prices-and-the-syrian-civil-war.md) _Context: Vladimir Putin_
-4. [Russian president Vladimir Putin signs decree to implement UNSC sanctions on North Korea. ](/news/2017/10/16/russian-president-vladimir-putin-signs-decree-to-implement-unsc-sanctions-on-north-korea.md) _Context: Vladimir Putin_
-5. [Russian President Vladimir Putin dismisses Nizhny Novgorod Oblast governor Valery Shantsev from his post, the second governor to lose his job in a week after Putin dismissed Samara Oblast governor Nikolay Merkushkin the day before. The dismissals come amid speculation that governors of several federal subjects will resign in anticipation of presidential elections in 2018. ](/news/2017/09/26/russian-president-vladimir-putin-dismisses-nizhny-novgorod-oblast-governor-valery-shantsev-from-his-post-the-second-governor-to-lose-his-jo.md) _Context: Vladimir Putin_
+2. [Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was.md) _Context: Vladimir Putin_
+3. [Russian opposition politician Alexei Navalny is arrested by police at a protest rally in Moscow. His arrest comes shortly after police raid the headquarters of his unregistered Progress Party in an apparent attempt to disrupt online broadcasts of opposition rallies against Vladimir Putin, while police say they were looking for a bomb. Navalny is released from police custody without charge late Sunday but needs to appear in court later. ](/news/2018/01/28/russian-opposition-politician-alexei-navalny-is-arrested-by-police-at-a-protest-rally-in-moscow-his-arrest-comes-shortly-after-police-raid.md) _Context: Vladimir Putin_
+4. [President Vladimir Putin declares victory over the Islamic State terror group across both banks of the river Euphrates. ](/news/2017/12/6/president-vladimir-putin-declares-victory-over-the-islamic-state-terror-group-across-both-banks-of-the-river-euphrates.md) _Context: Vladimir Putin_
+5. [President Vladimir Putin announces his participation in the 2018 presidential election. ](/news/2017/12/6/president-vladimir-putin-announces-his-participation-in-the-2018-presidential-election.md) _Context: Vladimir Putin_

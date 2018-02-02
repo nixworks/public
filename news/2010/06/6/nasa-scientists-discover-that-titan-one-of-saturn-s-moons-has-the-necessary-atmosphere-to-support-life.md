@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/06/6/nasa-scientists-discover-that-titan-one-of-saturn-s-moons-has-the-necessary-atmosphere-to-support-life.html)  [JSON](/news/2010/06/6/nasa-scientists-discover-that-titan-one-of-saturn-s-moons-has-the-necessary-atmosphere-to-support-life.json)  [XML](/news/2010/06/6/nasa-scientists-discover-that-titan-one-of-saturn-s-moons-has-the-necessary-atmosphere-to-support-life.xml)  
+
 ### [2010-06-6](/news/2010/06/6/index.md)
 
+##### NASA
 # NASA scientists discover that Titan, one of Saturn's moons, has the necessary atmosphere to support life. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/tech/science/columnist/vergano/2010-06-06-titan_N.htm)
+1. [USA Today](https://www.usatoday.com/tech/science/columnist/vergano/2010-06-06-titan_N.htm)
 
 ### Related:
 

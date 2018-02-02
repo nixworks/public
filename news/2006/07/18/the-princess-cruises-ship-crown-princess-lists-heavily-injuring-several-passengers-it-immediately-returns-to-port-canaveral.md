@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/18/the-princess-cruises-ship-crown-princess-lists-heavily-injuring-several-passengers-it-immediately-returns-to-port-canaveral.html)  [JSON](/news/2006/07/18/the-princess-cruises-ship-crown-princess-lists-heavily-injuring-several-passengers-it-immediately-returns-to-port-canaveral.json)  [XML](/news/2006/07/18/the-princess-cruises-ship-crown-princess-lists-heavily-injuring-several-passengers-it-immediately-returns-to-port-canaveral.xml)  
+
 ### [2006-07-18](/news/2006/07/18/index.md)
 
+##### Princess Cruises
 #  The Princess Cruises ship "Crown Princess" lists heavily, injuring several passengers. It immediately returns to Port Canaveral. 
 
 The Crown Princess, owned by Princess Cruises, listed heavily due to a steering problem while on its way to New York on Tuesday, injuring some passengers, Coast Guard officials said.
 
 
-### Source:
+### Sources:
 
 1. [FoxNews.com](http://www.foxnews.com/story/0,2933,204274,00.html)
 2. [News.com.au](http://www.news.com.au/story/0,10117,19849953-38198,00.html)

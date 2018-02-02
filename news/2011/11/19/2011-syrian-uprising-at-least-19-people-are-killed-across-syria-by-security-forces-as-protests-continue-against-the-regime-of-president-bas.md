@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/19/2011-syrian-uprising-at-least-19-people-are-killed-across-syria-by-security-forces-as-protests-continue-against-the-regime-of-president-bas.html)  [JSON](/news/2011/11/19/2011-syrian-uprising-at-least-19-people-are-killed-across-syria-by-security-forces-as-protests-continue-against-the-regime-of-president-bas.json)  [XML](/news/2011/11/19/2011-syrian-uprising-at-least-19-people-are-killed-across-syria-by-security-forces-as-protests-continue-against-the-regime-of-president-bas.xml)  
+
 ### [2011-11-19](/news/2011/11/19/index.md)
 
+##### 2011 Syrian uprising
 # 2011 Syrian uprising: At least 19 people are killed across Syria by security forces as protests continue against the regime of President Bashar al-Assad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/11/19/world/meast/syria-violence/index.html?hpt=wo_c2)
 

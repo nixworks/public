@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2009/11/29/a-united-states-senate-report-states-that-osama-bin-laden-was-within-grasp-of-the-united-states-army-in-tora-bora-in-december-2001.html)  [JSON](/news/2009/11/29/a-united-states-senate-report-states-that-osama-bin-laden-was-within-grasp-of-the-united-states-army-in-tora-bora-in-december-2001.json)  [XML](/news/2009/11/29/a-united-states-senate-report-states-that-osama-bin-laden-was-within-grasp-of-the-united-states-army-in-tora-bora-in-december-2001.xml)  
+
 ### [2009-11-29](/news/2009/11/29/index.md)
 
+##### U.S.
 #  A United States Senate report states that Osama bin Laden was "within grasp" of the United States Army in Tora Bora in December 2001. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8384897.stm)
 
 ### Related:
 
-1. [A hearing in the U.S. Senate is held about alleged human rights violations in the Philippines's war against illegal drugs. ](/news/2017/07/20/a-hearing-in-the-u-s-senate-is-held-about-alleged-human-rights-violations-in-the-philippines-s-war-against-illegal-drugs.md) _Context: United States, United States Senate_
-2. [The United States Senate passed by an overwhelming majority a bill ramping-up sanctions against Russia and against Iran. Language in the measure also reaffirms United States' commitment to NATO. ](/news/2017/06/16/the-united-states-senate-passed-by-an-overwhelming-majority-a-bill-ramping-up-sanctions-against-russia-and-against-iran-language-in-the-mea.md) _Context: United States, United States Senate_
-3. [Hamza bin Laden, the son of the slain Osama bin Laden, threatens a genocide against the United States to retaliate for his father's killing. ](/news/2016/07/10/hamza-bin-laden-the-son-of-the-slain-osama-bin-laden-threatens-a-genocide-against-the-united-states-to-retaliate-for-his-father-s-killing.md) _Context: Osama bin Laden, United States_
-4. [The United States Army's elite Delta Force captures their first suspected ISIL operative during a raid in northern Iraq. The detainee is being interrogated by the U.S. and is expected to be turned over to Iraqi officials in the coming days. ](/news/2016/03/1/the-united-states-army-s-elite-delta-force-captures-their-first-suspected-isil-operative-during-a-raid-in-northern-iraq-the-detainee-is-bei.md) _Context: U.S. soldiers, United States_
-5. [The U.S. House of Representatives, defying a veto-threat by President Barack Obama, overwhelmingly passes legislation to suspend the Obama administration's program to admit 10,000 Syrian and Iraqi refugees into the country. The bill will now face a vote in the U.S. Senate. ](/news/2015/11/19/the-u-s-house-of-representatives-defying-a-veto-threat-by-president-barack-obama-overwhelmingly-passes-legislation-to-suspend-the-obama-a.md) _Context: United States, United States Senate_
+1. [ The United States federal government shuts down after the United States Senate fails to pass a budget bill. ](/news/2018/01/20/the-united-states-federal-government-shuts-down-after-the-united-states-senate-fails-to-pass-a-budget-bill.md) _Context: U.S., United States Senate_
+2. [The United States Senate and House of Representatives pass the Tax Cuts and Jobs Act of 2017, which sends it to United States President Donald Trump for signing. This comes after a previous and different version of this legislation was passed by the House yesterday. The law removes the individual insurance mandate from Obamacare. ](/news/2017/12/20/the-united-states-senate-and-house-of-representatives-pass-the-tax-cuts-and-jobs-act-of-2017-which-sends-it-to-united-states-president-dona.md) _Context: U.S., United States Senate_
+3. [The United States House of Representatives passes the Tax Cuts and Jobs Act of 2017 by 227 votes to 203. After being sent to the United States Senate for a vote, the Senate's parliamentarian found that several provisions in the House bill violated Senate rules, which forced the House of Representatives to call a second vote on an altered version of the legislation that has the violating provisions removed. The second vote by the House of Representatives is expected to take place on December 20, 2017. ](/news/2017/12/19/the-united-states-house-of-representatives-passes-the-tax-cuts-and-jobs-act-of-2017-by-227-votes-to-203-after-being-sent-to-the-united-stat.md) _Context: U.S., United States Senate_
+4. [A hearing in the U.S. Senate is held about alleged human rights violations in the Philippines's war against illegal drugs. ](/news/2017/07/20/a-hearing-in-the-u-s-senate-is-held-about-alleged-human-rights-violations-in-the-philippines-s-war-against-illegal-drugs.md) _Context: U.S., United States Senate_
+5. [The United States Senate passed by an overwhelming majority a bill ramping-up sanctions against Russia and against Iran. Language in the measure also reaffirms United States' commitment to NATO. ](/news/2017/06/16/the-united-states-senate-passed-by-an-overwhelming-majority-a-bill-ramping-up-sanctions-against-russia-and-against-iran-language-in-the-mea.md) _Context: U.S., United States Senate_

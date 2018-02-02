@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/9/2003-rugby-union-world-cup-england-beats-wales-to-reach-the-semi-final-of-the-world-cup-but-wales-led-in-the-first-half.html)  [JSON](/news/2003/11/9/2003-rugby-union-world-cup-england-beats-wales-to-reach-the-semi-final-of-the-world-cup-but-wales-led-in-the-first-half.json)  [XML](/news/2003/11/9/2003-rugby-union-world-cup-england-beats-wales-to-reach-the-semi-final-of-the-world-cup-but-wales-led-in-the-first-half.xml)  
+
 ### [2003-11-9](/news/2003/11/9/index.md)
 
+##### Rugby Union World Cup
 #  2003 Rugby Union World Cup: England beats Wales to reach the semi-final of the World Cup, but Wales led in the first half.
 
 

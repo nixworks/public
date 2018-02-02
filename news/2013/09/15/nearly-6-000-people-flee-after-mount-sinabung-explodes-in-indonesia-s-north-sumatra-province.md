@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/15/nearly-6-000-people-flee-after-mount-sinabung-explodes-in-indonesia-s-north-sumatra-province.html)  [JSON](/news/2013/09/15/nearly-6-000-people-flee-after-mount-sinabung-explodes-in-indonesia-s-north-sumatra-province.json)  [XML](/news/2013/09/15/nearly-6-000-people-flee-after-mount-sinabung-explodes-in-indonesia-s-north-sumatra-province.xml)  
+
 ### [2013-09-15](/news/2013/09/15/index.md)
 
+##### Mount Sinabung
 # Nearly 6,000 people flee after Mount Sinabung explodes in Indonesia's North Sumatra province. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/6000-flee-indonesian-volcano-erupts-20265635)
 

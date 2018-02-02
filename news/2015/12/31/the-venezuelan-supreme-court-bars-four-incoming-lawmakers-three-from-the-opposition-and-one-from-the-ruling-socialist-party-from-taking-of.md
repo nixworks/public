@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2015/12/31/the-venezuelan-supreme-court-bars-four-incoming-lawmakers-three-from-the-opposition-and-one-from-the-ruling-socialist-party-from-taking-of.html)  [JSON](/news/2015/12/31/the-venezuelan-supreme-court-bars-four-incoming-lawmakers-three-from-the-opposition-and-one-from-the-ruling-socialist-party-from-taking-of.json)  [XML](/news/2015/12/31/the-venezuelan-supreme-court-bars-four-incoming-lawmakers-three-from-the-opposition-and-one-from-the-ruling-socialist-party-from-taking-of.xml)  
+
 ### [2015-12-31](/news/2015/12/31/index.md)
 
+##### Supreme Court
 # The Venezuelan Supreme Court bars four incoming lawmakers (three from the opposition and one from the ruling Socialist party) from taking office, putting the opposition's two-thirds legislative "supermajority" at risk, won via a landslide victory in the December 6 election by just one seat. The court is yet to specify the quorum for the new House, which would determine the number of seats needed for a two-thirds majority. The new National Assembly convenes Tuesday. 
 
 Responding to a legal challenge filed by supporters of the ruling socialist party, the Supreme Court blocked the four lawmakers from being taking their seats when the new National Assembly convenes Tuesday.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News Latino](http://latino.foxnews.com/latino/news/2015/12/31/venezuelan-supreme-court-bars-four-opposition-legislators-from-taking-office/)
 2. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=2402697&CategoryId=10717)
 2. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2015/12/31/venezuelan-supreme-court-bars-four-opposition-legislators-from-taking-office/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1480702774797.jpg?ve=1)
+
+### Changes:
+
+1. [The Venezuelan Supreme Court bars four incoming lawmakers (three from the opposition and one from the ruling Socialist party) from taking office, putting the opposition's two-thirds legislative "supermajority" at risk, won via a landslide victory in the December 6 election by just one seat. The court is yet to specify the quorum for the new House, which would determine the number of seats needed for a two-thirds majority. The new National Assembly convenes Tuesday. ](/news/2015/12/31/the-venezuelan-supreme-court-bars-four-incoming-lawmakers-three-from-the-opposition-and-one-from-the-ruling-socialist-party-from-taking-o.md) _2017-08-25 03:44:13 (First version)_
+1. [The Venezuelan Supreme Court bars four incoming lawmakers (three from the opposition and one from the ruling Socialist party) from taking office, putting the opposition's two-thirds legislative "supermajority" at risk, won via a landslide victory in the December 6 election by just one seat. The court is yet to specify the quorum for the new House, which would determine the number of seats needed for a two-thirds majority. The new National Assembly convenes Tuesday. ](/news/2015/12/31/the-venezuelan-supreme-court-bars-four-incoming-lawmakers-three-from-the-opposition-and-one-from-the-ruling-socialist-party-from-taking-of.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ Responding to a legal challenge filed by supporters of the ruling socialist part
 3. [In a ruling, Venezuela's Supreme Court says it "guarantees congressional functions will be exercised by" itself, authorizing president Nicolas Maduro to create oil joint ventures without the previously mandated congressional approval. Opposition leaders call it a "coup", while Peru recalls its ambassador. ](/news/2017/03/30/in-a-ruling-venezuela-s-supreme-court-says-it-guarantees-congressional-functions-will-be-exercised-by-itself-authorizing-president-nicol.md) _Context: National Assembly, Supreme Court_
 4. [Venezuela's National Electoral Council announces the opposition Democratic Unity Roundtable (MUD) has won at least 99 seats in the 167-member National Assembly in Sunday's elections. The previous-ruling United Social Party of Venezuela (PSUV) picked up 46. Results for 22 contests remain to be determined. Voter turnout was a stunning 74.3 percent. "Within seconds," President Nicolas Maduro recognized the opposition's win, saying that despite (his party's) adverse result, Venezuela's democracy has triumphed. ](/news/2015/12/7/venezuela-s-national-electoral-council-announces-the-opposition-democratic-unity-roundtable-mud-has-won-at-least-99-seats-in-the-167-membe.md) _Context: Democratic Unity Roundtable, landslide victory in the December 6 election_
 5. [Venezuela announces it will suspend the sale of alcoholic beverages, fireworks and weapons before Sunday's parliamentary elections, starting Friday at 6 p.m. until next Monday at 6 p.m. Civilian permits for the possession and use of firearms and knives will be also be suspended for the same period. ](/news/2015/11/30/venezuela-announces-it-will-suspend-the-sale-of-alcoholic-beverages-fireworks-and-weapons-before-sunday-s-parliamentary-elections-starting.md) _Context: National Assembly, landslide victory in the December 6 election_
-
-### Changes:
-
-1. [The Venezuelan Supreme Court bars four incoming lawmakers (three from the opposition and one from the ruling Socialist party) from taking office, putting the opposition's two-thirds legislative "supermajority" at risk, won via a landslide victory in the December 6 election by just one seat. The court is yet to specify the quorum for the new House, which would determine the number of seats needed for a two-thirds majority. The new National Assembly convenes Tuesday. ](/news/2015/12/31/the-venezuelan-supreme-court-bars-four-incoming-lawmakers-three-from-the-opposition-and-one-from-the-ruling-socialist-party-from-taking-o.md) _2017-08-25 03:44:13 (First version)_
-1. [The Venezuelan Supreme Court bars four incoming lawmakers (three from the opposition and one from the ruling Socialist party) from taking office, putting the opposition's two-thirds legislative "supermajority" at risk, won via a landslide victory in the December 6 election by just one seat. The court is yet to specify the quorum for the new House, which would determine the number of seats needed for a two-thirds majority. The new National Assembly convenes Tuesday. ](/news/2015/12/31/the-venezuelan-supreme-court-bars-four-incoming-lawmakers-three-from-the-opposition-and-one-from-the-ruling-socialist-party-from-taking-of.md) _(Current version)_

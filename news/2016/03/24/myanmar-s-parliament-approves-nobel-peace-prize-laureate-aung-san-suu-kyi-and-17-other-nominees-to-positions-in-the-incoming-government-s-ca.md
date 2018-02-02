@@ -1,17 +1,26 @@
+
+Formats: [HTML](/news/2016/03/24/myanmar-s-parliament-approves-nobel-peace-prize-laureate-aung-san-suu-kyi-and-17-other-nominees-to-positions-in-the-incoming-government-s-ca.html)  [JSON](/news/2016/03/24/myanmar-s-parliament-approves-nobel-peace-prize-laureate-aung-san-suu-kyi-and-17-other-nominees-to-positions-in-the-incoming-government-s-ca.json)  [XML](/news/2016/03/24/myanmar-s-parliament-approves-nobel-peace-prize-laureate-aung-san-suu-kyi-and-17-other-nominees-to-positions-in-the-incoming-government-s-ca.xml)  
+
 ### [2016-03-24](/news/2016/03/24/index.md)
 
+##### Myanmar general election, 2015
 # Myanmar's parliament approves Nobel Peace Prize laureate Aung San Suu Kyi and 17 other nominees to positions in the incoming government's cabinet. Which ministry each will head was not announced. 
 
 Myanmar’s parliament approved Aung San Suu Kyi and 17 other nominees to take positions in the incoming government’s cabinet, though what ministries they will head has yet to be announced.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/amnesty-to-suu-kyi-government-break-cycle-of-repression/2016/03/24/33f6bdfe-f181-11e5-a2a3-d4e9697917d1_story.html)
 2. [Amnesty International](http://www.amnestyusa.org/news/press-releases/new-government-in-myanmar-must-break-vicious-cycle-of-repression-and-political-arrests)
-3. [Bloomberg](http://www.bloomberg.com/news/articles/2016-03-24/myanmar-s-parliament-approves-suu-kyi-for-cabinet-position)
-4. [USA Tday](http://www.usatoday.com/story/news/world/2016/03/24/myanmar-amnesty-international-report-political-prisoners/82171192/)
+3. [Bloomberg](https://www.bloomberg.com/news/articles/2016-03-24/myanmar-s-parliament-approves-suu-kyi-for-cabinet-position)
+4. [USA Tday](https://www.usatoday.com/story/news/world/2016/03/24/myanmar-amnesty-international-report-political-prisoners/82171192/)
 4. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQXWda9p6qYg/v2/1200x847.jpg)
+
+### Changes:
+
+1. [Myanmar general election, 2015: Myanmar's parliament approves Nobel Peace Prize laureate Aung San Suu Kyi and 17 other nominees to positions in the incoming government's cabinet. Which ministry each will head was not announced. ](/news/2016/03/24/myanmar-general-election-2015-myanmar-s-parliament-approves-nobel-peace-prize-laureate-aung-san-suu-kyi-and-17-other-nominees-to-positions.md) _2017-08-27 03:45:21 (First version)_
+1. [Myanmar's parliament approves Nobel Peace Prize laureate Aung San Suu Kyi and 17 other nominees to positions in the incoming government's cabinet. Which ministry each will head was not announced. ](/news/2016/03/24/myanmar-s-parliament-approves-nobel-peace-prize-laureate-aung-san-suu-kyi-and-17-other-nominees-to-positions-in-the-incoming-government-s-ca.md) _(Current version)_
 
 ### Related:
 
@@ -20,8 +29,3 @@ Myanmar’s parliament approved Aung San Suu Kyi and 17 other nominees to take p
 3. [The Myanmar Assembly of the Union, or parliament, selects Htin Kyaw as the new President. Kyaw, a confidant of Aung San Suu Kyi, will be the first civilian president in decades. Suu Kyi, a Nobel Peace Prize recipient, is constitutionally barred from the office. ](/news/2016/03/15/the-myanmar-assembly-of-the-union-or-parliament-selects-htin-kyaw-as-the-new-president-kyaw-a-confidant-of-aung-san-suu-kyi-will-be-the.md) _Context: Aung San Suu Kyi, Myanmar, parliament_
 4. [The Assembly of the Union for Myanmar meets with Aung San Suu Kyi's National League for Democracy having the majority for the first time. ](/news/2016/02/1/the-assembly-of-the-union-for-myanmar-meets-with-aung-san-suu-kyi-s-national-league-for-democracy-having-the-majority-for-the-first-time.md) _Context: Aung San Suu Kyi, Myanmar, parliament_
 5. [Myanmar's democracy icon Aung San Suu Kyi discusses the smooth transfer of power to her National League for Democracy (NLD) party with President Thein Sein, their first public meeting since the November election. The new administration will be sworn in early next year. ](/news/2015/12/2/myanmar-s-democracy-icon-aung-san-suu-kyi-discusses-the-smooth-transfer-of-power-to-her-national-league-for-democracy-nld-party-with-presi.md) _Context: Aung San Suu Kyi, Myanmar, Myanmar general election, 2015_
-
-### Changes:
-
-1. [Myanmar general election, 2015: Myanmar's parliament approves Nobel Peace Prize laureate Aung San Suu Kyi and 17 other nominees to positions in the incoming government's cabinet. Which ministry each will head was not announced. ](/news/2016/03/24/myanmar-general-election-2015-myanmar-s-parliament-approves-nobel-peace-prize-laureate-aung-san-suu-kyi-and-17-other-nominees-to-positions.md) _2017-08-27 03:45:21 (First version)_
-1. [Myanmar's parliament approves Nobel Peace Prize laureate Aung San Suu Kyi and 17 other nominees to positions in the incoming government's cabinet. Which ministry each will head was not announced. ](/news/2016/03/24/myanmar-s-parliament-approves-nobel-peace-prize-laureate-aung-san-suu-kyi-and-17-other-nominees-to-positions-in-the-incoming-government-s-ca.md) _(Current version)_

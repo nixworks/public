@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/3/the-controversial-african-renaissance-monument-which-is-taller-than-the-statue-of-liberty-is-inaugurated-in-the-senegalese-capital-dakar.html)  [JSON](/news/2010/04/3/the-controversial-african-renaissance-monument-which-is-taller-than-the-statue-of-liberty-is-inaugurated-in-the-senegalese-capital-dakar.json)  [XML](/news/2010/04/3/the-controversial-african-renaissance-monument-which-is-taller-than-the-statue-of-liberty-is-inaugurated-in-the-senegalese-capital-dakar.xml)  
+
 ### [2010-04-3](/news/2010/04/3/index.md)
 
+##### African Renaissance Monument
 # The controversial African Renaissance Monument, which is taller than the Statue of Liberty, is inaugurated in the Senegalese capital Dakar. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hqJurZzLGbwBPrHaFg6oVd8SYY4Q)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/201043101020481723.html)

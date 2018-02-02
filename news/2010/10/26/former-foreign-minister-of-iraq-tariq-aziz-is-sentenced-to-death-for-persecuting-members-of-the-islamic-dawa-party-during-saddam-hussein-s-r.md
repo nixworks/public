@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/26/former-foreign-minister-of-iraq-tariq-aziz-is-sentenced-to-death-for-persecuting-members-of-the-islamic-dawa-party-during-saddam-hussein-s-r.html)  [JSON](/news/2010/10/26/former-foreign-minister-of-iraq-tariq-aziz-is-sentenced-to-death-for-persecuting-members-of-the-islamic-dawa-party-during-saddam-hussein-s-r.json)  [XML](/news/2010/10/26/former-foreign-minister-of-iraq-tariq-aziz-is-sentenced-to-death-for-persecuting-members-of-the-islamic-dawa-party-during-saddam-hussein-s-r.xml)  
+
 ### [2010-10-26](/news/2010/10/26/index.md)
 
+##### Iraq
 # Former Foreign Minister of Iraq Tariq Aziz is sentenced to death for persecuting members of the Islamic Dawa Party during Saddam Hussein's regime. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/M/ML_IRAQ?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
 

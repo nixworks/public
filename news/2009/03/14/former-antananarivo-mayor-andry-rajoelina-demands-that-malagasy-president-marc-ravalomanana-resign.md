@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/14/former-antananarivo-mayor-andry-rajoelina-demands-that-malagasy-president-marc-ravalomanana-resign.html)  [JSON](/news/2009/03/14/former-antananarivo-mayor-andry-rajoelina-demands-that-malagasy-president-marc-ravalomanana-resign.json)  [XML](/news/2009/03/14/former-antananarivo-mayor-andry-rajoelina-demands-that-malagasy-president-marc-ravalomanana-resign.xml)  
+
 ### [2009-03-14](/news/2009/03/14/index.md)
 
+##### Antananarivo
 #  Former Antananarivo Mayor Andry Rajoelina demands that Malagasy President Marc Ravalomanana resign. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [France 24](http://www.france24.com/en/20090314-opposition-leader-issues-president-ultimatum-quit-madagascar-rajoelina)
 

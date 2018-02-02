@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/1/the-owner-of-china-s-fourth-most-visited-website-sohu-com-inc-posted-a-better-than-estimated-41-percent-gain-in-profit-after-the-company-r.html)  [JSON](/news/2011/02/1/the-owner-of-china-s-fourth-most-visited-website-sohu-com-inc-posted-a-better-than-estimated-41-percent-gain-in-profit-after-the-company-r.json)  [XML](/news/2011/02/1/the-owner-of-china-s-fourth-most-visited-website-sohu-com-inc-posted-a-better-than-estimated-41-percent-gain-in-profit-after-the-company-r.xml)  
+
 ### [2011-02-1](/news/2011/02/1/index.md)
 
+##### China
 # The owner of China's fourth-most visited website, Sohu.com Inc, posted a better-than-estimated 41 percent gain in profit after the company raised prices and boosted services such as video sharing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://europe.chinadaily.com.cn/2011-02/01/content_11953035.htm)
 

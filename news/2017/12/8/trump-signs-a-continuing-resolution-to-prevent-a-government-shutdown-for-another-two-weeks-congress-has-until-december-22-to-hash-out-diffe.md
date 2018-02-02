@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/8/trump-signs-a-continuing-resolution-to-prevent-a
 
 ### [2017-12-8](/news/2017/12/8/index.md)
 
+##### budget
 # Trump signs a continuing resolution to prevent a government shutdown for another two weeks. Congress has until December 22 to hash out differences over funding DACA, CHIP, tax reform, and military funding within the limits of the Budget Control Act of 2011. 
 
 President Trump signed stopgap legislation Friday to prevent a government shutdown ahead of the midnight Friday deadline.
@@ -21,8 +22,8 @@ President Trump signed stopgap legislation Friday to prevent a government shutdo
 
 ### Related:
 
-1. [France puts the concern on the E.U. Ecofin agenda that the current version of the United States fiscal act would unduly penalize E.U. companies by taxing their U.S. operations beyond locally produced value added. ](/news/2017/12/4/france-puts-the-concern-on-the-e-u-ecofin-agenda-that-the-current-version-of-the-united-states-fiscal-act-would-unduly-penalize-e-u-compan.md) _Context: tax reform_
-2. [The United States Senate passes the Republican tax reform bill with a 51-49 vote. ](/news/2017/12/2/the-united-states-senate-passes-the-republican-tax-reform-bill-with-a-51a49-vote.md) _Context: tax reform_
-3. [The U.S. Senate Budget Committee votes to move the Trump administration's tax bill to the full U.S. Senate. ](/news/2017/11/28/the-u-s-senate-budget-committee-votes-to-move-the-trump-administration-s-tax-bill-to-the-full-u-s-senate.md) _Context: tax reform_
-4. [The University of California files a lawsuit against the potential termination of the Deferred Action for Childhood Arrivals programme which may affect more than 4,000 students. ](/news/2017/09/8/the-university-of-california-files-a-lawsuit-against-the-potential-termination-of-the-deferred-action-for-childhood-arrivals-programme-which.md) _Context: DACA_
-5. [Fifteen states sue the Trump administration over potential violations of the Due Process Clause as a result of actions concerning the rescindment of the DACA program. ](/news/2017/09/7/fifteen-states-sue-the-trump-administration-over-potential-violations-of-the-due-process-clause-as-a-result-of-actions-concerning-the-rescin.md) _Context: DACA_
+1. [House and Senate pass a continuing resolution bill to avert a government shutdown until January 19, 2018. ](/news/2017/12/21/house-and-senate-pass-a-continuing-resolution-bill-to-avert-a-government-shutdown-until-january-19-2018.md) _Context: Government shutdown in the United States, continuing resolution_
+2. [The United States District Court for the Northern District of California issues a nationwide injunction blocking the rescission of the DACA program, ordering the Trump administration to restart and maintain the program as the legal challenge(s) to the president's decision go forward. ](/news/2018/01/9/the-united-states-district-court-for-the-northern-district-of-california-issues-a-nationwide-injunction-blocking-the-rescission-of-the-daca.md) _Context: Deferred Action for Childhood Arrivals_
+3. [ The United States federal government shuts down after the United States Senate fails to pass a budget bill. ](/news/2018/01/20/the-united-states-federal-government-shuts-down-after-the-united-states-senate-fails-to-pass-a-budget-bill.md) _Context: budget_
+4. [The University of California files a lawsuit against the potential termination of the Deferred Action for Childhood Arrivals programme which may affect more than 4,000 students. ](/news/2017/09/8/the-university-of-california-files-a-lawsuit-against-the-potential-termination-of-the-deferred-action-for-childhood-arrivals-programme-which.md) _Context: Deferred Action for Childhood Arrivals_
+5. [Fifteen states sue the Trump administration over potential violations of the Due Process Clause as a result of actions concerning the rescindment of the DACA program. ](/news/2017/09/7/fifteen-states-sue-the-trump-administration-over-potential-violations-of-the-due-process-clause-as-a-result-of-actions-concerning-the-rescin.md) _Context: Deferred Action for Childhood Arrivals_

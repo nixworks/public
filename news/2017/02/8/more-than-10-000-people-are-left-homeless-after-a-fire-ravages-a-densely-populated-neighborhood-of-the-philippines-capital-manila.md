@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/8/more-than-10-000-people-are-left-homeless-after-
 
 ### [2017-02-8](/news/2017/02/8/index.md)
 
+##### Philippines
 # More than 10,000 people are left homeless after a fire ravages a densely populated neighborhood of the Philippines capital Manila. 
 
 A massive fire swept through crowded shanty town near the docks in Manila, destroying houses and leaving 15,000 people homeless, authorities in the Philippine capital said on Wednesday.

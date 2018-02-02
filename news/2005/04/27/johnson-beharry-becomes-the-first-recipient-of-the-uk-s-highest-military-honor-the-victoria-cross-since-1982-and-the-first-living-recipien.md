@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/27/johnson-beharry-becomes-the-first-recipient-of-the-uk-s-highest-military-honor-the-victoria-cross-since-1982-and-the-first-living-recipien.html)  [JSON](/news/2005/04/27/johnson-beharry-becomes-the-first-recipient-of-the-uk-s-highest-military-honor-the-victoria-cross-since-1982-and-the-first-living-recipien.json)  [XML](/news/2005/04/27/johnson-beharry-becomes-the-first-recipient-of-the-uk-s-highest-military-honor-the-victoria-cross-since-1982-and-the-first-living-recipien.xml)  
+
 ### [2005-04-27](/news/2005/04/27/index.md)
 
+##### Johnson Beharry
 #  Johnson Beharry becomes the first recipient of the UK's highest military honor, the Victoria Cross since 1982 and the first living recipient since 1965. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://story.news.yahoo.com/news?tmpl=story&u=/afp/20050427/wl_uk_afp/britainmilitaryiraqaward_050427154803&e=5)
 

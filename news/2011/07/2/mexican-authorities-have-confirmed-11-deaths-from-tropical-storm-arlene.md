@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/07/2/mexican-authorities-have-confirmed-11-deaths-from-tropical-storm-arlene.html)  [JSON](/news/2011/07/2/mexican-authorities-have-confirmed-11-deaths-from-tropical-storm-arlene.json)  [XML](/news/2011/07/2/mexican-authorities-have-confirmed-11-deaths-from-tropical-storm-arlene.xml)  
+
 ### [2011-07-2](/news/2011/07/2/index.md)
 
+##### Mexican
 # Mexican authorities have confirmed 11 deaths from Tropical Storm Arlene. 
 
 Mexican authorities have confirmed 11 deaths from Tropical Storm Arlene and the aftermath of floods, mudslides and overflowing rivers.
 
 
-### Source:
+### Sources:
 
-1. [AP via USA Today](http://www.usatoday.com/news/world/2011-07-02-mexico-tropical-storm-arlene_n.htm)
+1. [AP via USA Today](https://www.usatoday.com/news/world/2011-07-02-mexico-tropical-storm-arlene_n.htm)
 1. [Cover Image](http://i.usatoday.net/news/_photos/2011/07/02/Mexico-confirms-11-dead-from-Arlene-aftermath-RO6URT0-x.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/11/vessels-from-the-philippine-navy-and-chinese-maritime-surveillance-are-at-a-standoff-after-the-philippines-attempted-to-arrest-chinese-fishe.html)  [JSON](/news/2012/04/11/vessels-from-the-philippine-navy-and-chinese-maritime-surveillance-are-at-a-standoff-after-the-philippines-attempted-to-arrest-chinese-fishe.json)  [XML](/news/2012/04/11/vessels-from-the-philippine-navy-and-chinese-maritime-surveillance-are-at-a-standoff-after-the-philippines-attempted-to-arrest-chinese-fishe.xml)  
+
 ### [2012-04-11](/news/2012/04/11/index.md)
 
+##### Philippine Navy
 # Vessels from the Philippine Navy and Chinese maritime surveillance are at a standoff after the Philippines attempted to arrest Chinese fishermen in the South China Sea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_SOUTH_CHINA_SEA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2012-04-10-21-17-50)
 

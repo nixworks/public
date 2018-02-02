@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/9/greek-and-turkish-local-leaders-of-cyprus-resume
 
 ### [2017-01-9](/news/2017/01/9/index.md)
 
+##### Cyprus dispute
 # Greek and Turkish local leaders of Cyprus resume talks to end the division of the island before a high level multilateral conference takes place in Geneva this week in the latest effort to reunify the island. 
 
 Turkish and Greek Cypriot officials say first direct negotiations since 1974 are ‘best and last chance’ for resolution

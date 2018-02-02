@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/21/william-calley-the-former-us-army-officer-found-guilty-of-organizing-mass-killings-in-the-vietnamese-community-of-my-lai-during-the-vietna.html)  [JSON](/news/2009/08/21/william-calley-the-former-us-army-officer-found-guilty-of-organizing-mass-killings-in-the-vietnamese-community-of-my-lai-during-the-vietna.json)  [XML](/news/2009/08/21/william-calley-the-former-us-army-officer-found-guilty-of-organizing-mass-killings-in-the-vietnamese-community-of-my-lai-during-the-vietna.xml)  
+
 ### [2009-08-21](/news/2009/08/21/index.md)
 
+##### William Calley
 #  William Calley, the former US army officer found guilty of organizing mass killings in the Vietnamese community of My Lai during the Vietnam War makes a public apology.
 
 
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/templates/story/story.php?storyId=112125912&ps=cprs)
 1. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)

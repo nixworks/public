@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/12/29/the-chinese-government-blocks-some-of-google-s-gmail-services.html)  [JSON](/news/2014/12/29/the-chinese-government-blocks-some-of-google-s-gmail-services.json)  [XML](/news/2014/12/29/the-chinese-government-blocks-some-of-google-s-gmail-services.xml)  
+
 ### [2014-12-29](/news/2014/12/29/index.md)
 
+##### blocks
 # The Chinese government blocks some of Google's Gmail services. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/12/29/us-google-china-idUSKBN0K70BD20141229)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20141229&t=2&i=1008165002&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEABS06B)
+1. [Reuters](https://www.reuters.com/article/2014/12/29/us-google-china-idUSKBN0K70BD20141229)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20141229&t=2&i=1008165002&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEABS06B)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/3/50-people-are-feared-drowned-and-100-are-missing-after-a-boat-capsized-in-sierra-leone.html)  [JSON](/news/2007/08/3/50-people-are-feared-drowned-and-100-are-missing-after-a-boat-capsized-in-sierra-leone.json)  [XML](/news/2007/08/3/50-people-are-feared-drowned-and-100-are-missing-after-a-boat-capsized-in-sierra-leone.xml)  
+
 ### [2007-08-3](/news/2007/08/3/index.md)
 
+##### Sierra Leone
 #  50 people are feared drowned and 100 are missing after a boat capsized in Sierra Leone 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via CNN](http://edition.cnn.com/2007/WORLD/africa/08/03/sierraleone.capsize.reut/index.html)
 

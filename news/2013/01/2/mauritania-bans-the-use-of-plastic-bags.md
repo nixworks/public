@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/2/mauritania-bans-the-use-of-plastic-bags.html)  [JSON](/news/2013/01/2/mauritania-bans-the-use-of-plastic-bags.json)  [XML](/news/2013/01/2/mauritania-bans-the-use-of-plastic-bags.xml)  
+
 ### [2013-01-2](/news/2013/01/2/index.md)
 
+##### Mauritanian
 # Mauritania bans the use of plastic bags. 
 
 Mauritania bans the use of plastic bags to protect the environment and the lives of animals and fish, the environment minister says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20891539)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65042000/jpg/_65042341_maurit.jpg)

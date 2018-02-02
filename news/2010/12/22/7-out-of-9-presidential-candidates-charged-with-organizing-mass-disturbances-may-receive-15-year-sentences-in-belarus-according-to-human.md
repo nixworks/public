@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/22/7-out-of-9-presidential-candidates-charged-with-organizing-mass-disturbances-may-receive-15-year-sentences-in-belarus-according-to-human.html)  [JSON](/news/2010/12/22/7-out-of-9-presidential-candidates-charged-with-organizing-mass-disturbances-may-receive-15-year-sentences-in-belarus-according-to-human.json)  [XML](/news/2010/12/22/7-out-of-9-presidential-candidates-charged-with-organizing-mass-disturbances-may-receive-15-year-sentences-in-belarus-according-to-human.xml)  
+
 ### [2010-12-22](/news/2010/12/22/index.md)
 
+##### Belarus
 # 7 out of 9 presidential candidates, charged with organizing mass disturbances, may receive 15-year sentences in Belarus, according to human rights groups. 
 
 Seven of nine presidential candidates could receive up to 15-year sentences amid post-election crackdown.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/20101222171735966368.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/22/20101222172630436140_20.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/12/russia-signs-a-nuclear-reactor-deal-with-india-which-will-see-it-build-16-nuclear-reactors-in-india.html)  [JSON](/news/2010/03/12/russia-signs-a-nuclear-reactor-deal-with-india-which-will-see-it-build-16-nuclear-reactors-in-india.json)  [XML](/news/2010/03/12/russia-signs-a-nuclear-reactor-deal-with-india-which-will-see-it-build-16-nuclear-reactors-in-india.xml)  
+
 ### [2010-03-12](/news/2010/03/12/index.md)
 
+##### Russia
 # Russia signs a nuclear reactor deal with India which will see it build 16 nuclear reactors in India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8561365.stm)
 

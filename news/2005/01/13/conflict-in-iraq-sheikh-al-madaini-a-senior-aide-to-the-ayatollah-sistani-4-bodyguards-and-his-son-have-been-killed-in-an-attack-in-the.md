@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/13/conflict-in-iraq-sheikh-al-madaini-a-senior-aide-to-the-ayatollah-sistani-4-bodyguards-and-his-son-have-been-killed-in-an-attack-in-the.html)  [JSON](/news/2005/01/13/conflict-in-iraq-sheikh-al-madaini-a-senior-aide-to-the-ayatollah-sistani-4-bodyguards-and-his-son-have-been-killed-in-an-attack-in-the.json)  [XML](/news/2005/01/13/conflict-in-iraq-sheikh-al-madaini-a-senior-aide-to-the-ayatollah-sistani-4-bodyguards-and-his-son-have-been-killed-in-an-attack-in-the.xml)  
+
 ### [2005-01-13](/news/2005/01/13/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: Sheikh Al-Madaini, a senior aide to the Ayatollah Sistani, 4 bodyguards and his son have been killed in an attack in the Baghdad's suburb Salman Pak. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4170855.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/19/thai-prime-minister-abhisit-vejjajiva-and-nine-cabinet-ministers-survive-a-no-confidence-vote-brought-about-by-the-opposition.html)  [JSON](/news/2011/03/19/thai-prime-minister-abhisit-vejjajiva-and-nine-cabinet-ministers-survive-a-no-confidence-vote-brought-about-by-the-opposition.json)  [XML](/news/2011/03/19/thai-prime-minister-abhisit-vejjajiva-and-nine-cabinet-ministers-survive-a-no-confidence-vote-brought-about-by-the-opposition.xml)  
+
 ### [2011-03-19](/news/2011/03/19/index.md)
 
+##### Thailand
 # Thai Prime Minister Abhisit Vejjajiva and nine cabinet ministers survive a no-confidence vote brought about by the opposition. 
 
 Abhisit Vejjajiva defeats censure motion bought by opposition on grounds of corruption and abuse of power.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/03/20113194843541330.html)
 2. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/183683.html)

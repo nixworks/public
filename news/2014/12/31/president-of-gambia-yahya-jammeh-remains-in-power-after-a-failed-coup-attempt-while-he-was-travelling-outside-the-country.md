@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/31/president-of-gambia-yahya-jammeh-remains-in-power-after-a-failed-coup-attempt-while-he-was-travelling-outside-the-country.html)  [JSON](/news/2014/12/31/president-of-gambia-yahya-jammeh-remains-in-power-after-a-failed-coup-attempt-while-he-was-travelling-outside-the-country.json)  [XML](/news/2014/12/31/president-of-gambia-yahya-jammeh-remains-in-power-after-a-failed-coup-attempt-while-he-was-travelling-outside-the-country.xml)  
+
 ### [2014-12-31](/news/2014/12/31/index.md)
 
+##### President of Gambia
 # President of Gambia Yahya Jammeh remains in power after a failed coup attempt while he was travelling outside the country. 
 
 President Yahya Jammeh arrives in Gambian capital after a failed coup on his presidency, prompting fears of a purge.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2014/12/gambia-leader-return-after-coup-attempt-2014123191702890.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/12/31/2014123144647938734_20.jpg)

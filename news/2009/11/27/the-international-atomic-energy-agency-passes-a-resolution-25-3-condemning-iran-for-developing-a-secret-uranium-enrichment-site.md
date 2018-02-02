@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/27/the-international-atomic-energy-agency-passes-a-resolution-25-3-condemning-iran-for-developing-a-secret-uranium-enrichment-site.html)  [JSON](/news/2009/11/27/the-international-atomic-energy-agency-passes-a-resolution-25-3-condemning-iran-for-developing-a-secret-uranium-enrichment-site.json)  [XML](/news/2009/11/27/the-international-atomic-energy-agency-passes-a-resolution-25-3-condemning-iran-for-developing-a-secret-uranium-enrichment-site.xml)  
+
 ### [2009-11-27](/news/2009/11/27/index.md)
 
+##### IAEA
 #  The International Atomic Energy Agency passes a resolution 25-3 condemning Iran for developing a secret uranium enrichment site. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8382486.stm)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=112310&sectionid=351020104)

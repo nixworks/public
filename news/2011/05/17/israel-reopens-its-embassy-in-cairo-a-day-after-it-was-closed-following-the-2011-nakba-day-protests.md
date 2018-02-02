@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/17/israel-reopens-its-embassy-in-cairo-a-day-after-it-was-closed-following-the-2011-nakba-day-protests.html)  [JSON](/news/2011/05/17/israel-reopens-its-embassy-in-cairo-a-day-after-it-was-closed-following-the-2011-nakba-day-protests.json)  [XML](/news/2011/05/17/israel-reopens-its-embassy-in-cairo-a-day-after-it-was-closed-following-the-2011-nakba-day-protests.xml)  
+
 ### [2011-05-17](/news/2011/05/17/index.md)
 
+##### Israel
 # Israel reopens its embassy in Cairo a day after it was closed following the 2011 Nakba Day protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?ID=221049&R)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=165396)

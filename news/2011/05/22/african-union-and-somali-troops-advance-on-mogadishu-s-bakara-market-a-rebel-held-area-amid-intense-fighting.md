@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/22/african-union-and-somali-troops-advance-on-mogadishu-s-bakara-market-a-rebel-held-area-amid-intense-fighting.html)  [JSON](/news/2011/05/22/african-union-and-somali-troops-advance-on-mogadishu-s-bakara-market-a-rebel-held-area-amid-intense-fighting.json)  [XML](/news/2011/05/22/african-union-and-somali-troops-advance-on-mogadishu-s-bakara-market-a-rebel-held-area-amid-intense-fighting.xml)  
+
 ### [2011-05-22](/news/2011/05/22/index.md)
 
+##### African Union
 # African Union and Somali troops advance on Mogadishu's Bakara market, a rebel-held area, amid intense fighting. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE74L0CS20110522?sp=true)
 

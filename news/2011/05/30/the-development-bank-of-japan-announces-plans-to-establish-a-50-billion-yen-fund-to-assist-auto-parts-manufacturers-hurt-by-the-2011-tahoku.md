@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/30/the-development-bank-of-japan-announces-plans-to-establish-a-50-billion-yen-fund-to-assist-auto-parts-manufacturers-hurt-by-the-2011-tahoku.html)  [JSON](/news/2011/05/30/the-development-bank-of-japan-announces-plans-to-establish-a-50-billion-yen-fund-to-assist-auto-parts-manufacturers-hurt-by-the-2011-tahoku.json)  [XML](/news/2011/05/30/the-development-bank-of-japan-announces-plans-to-establish-a-50-billion-yen-fund-to-assist-auto-parts-manufacturers-hurt-by-the-2011-tahoku.xml)  
+
 ### [2011-05-30](/news/2011/05/30/index.md)
 
+##### Development Bank of Japan
 # The Development Bank of Japan announces plans to establish a 50 billion yen fund to assist auto parts manufacturers hurt by the 2011 Tohoku earthquake and tsunami. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Yomiuri](http://www.yomiuri.co.jp/dy/business/T110529002345.htm)
 

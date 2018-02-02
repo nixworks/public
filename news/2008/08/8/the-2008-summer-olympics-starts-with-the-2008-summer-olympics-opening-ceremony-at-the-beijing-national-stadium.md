@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/8/the-2008-summer-olympics-starts-with-the-2008-summer-olympics-opening-ceremony-at-the-beijing-national-stadium.html)  [JSON](/news/2008/08/8/the-2008-summer-olympics-starts-with-the-2008-summer-olympics-opening-ceremony-at-the-beijing-national-stadium.json)  [XML](/news/2008/08/8/the-2008-summer-olympics-starts-with-the-2008-summer-olympics-opening-ceremony-at-the-beijing-national-stadium.xml)  
+
 ### [2008-08-8](/news/2008/08/8/index.md)
 
+##### 2008 Summer Olympics
 #  The 2008 Summer Olympics starts with the 2008 Summer Olympics Opening Ceremony at the Beijing National Stadium. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Christian Science Monitor](http://features.csmonitor.com/olympics08/2008/08/08/china-welcomes-the-olympics-with-fireworks-%E2%80%93-and-wedding-bells/)
 

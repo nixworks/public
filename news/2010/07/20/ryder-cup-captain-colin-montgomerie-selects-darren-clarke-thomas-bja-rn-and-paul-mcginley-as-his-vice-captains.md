@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/20/ryder-cup-captain-colin-montgomerie-selects-darren-clarke-thomas-bja-rn-and-paul-mcginley-as-his-vice-captains.html)  [JSON](/news/2010/07/20/ryder-cup-captain-colin-montgomerie-selects-darren-clarke-thomas-bja-rn-and-paul-mcginley-as-his-vice-captains.json)  [XML](/news/2010/07/20/ryder-cup-captain-colin-montgomerie-selects-darren-clarke-thomas-bja-rn-and-paul-mcginley-as-his-vice-captains.xml)  
+
 ### [2010-07-20](/news/2010/07/20/index.md)
 
+##### Ryder Cup
 # Ryder Cup captain Colin Montgomerie selects Darren Clarke, Thomas Bjorn and Paul McGinley as his vice-captains. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/sport/2010/jul/20/colin-montgomerie-ryder-cup1)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/4/standard-life-investments-suspends-trading-in-it
 
 ### [2016-07-4](/news/2016/07/4/index.md)
 
+##### United Kingdom withdrawal from the European Union
 # Standard Life Investments suspends trading in its UK property fund, in response to increased withdrawal calls since the vote, to protect the interests of all investors in the fund. 
 
 Standard Life Investments suspends trading in its UK property fund for the first time since the financial crisis due to higher withdrawals following the Brexit vote.

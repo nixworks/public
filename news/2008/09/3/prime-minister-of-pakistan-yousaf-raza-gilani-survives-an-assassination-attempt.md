@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/3/prime-minister-of-pakistan-yousaf-raza-gilani-survives-an-assassination-attempt.html)  [JSON](/news/2008/09/3/prime-minister-of-pakistan-yousaf-raza-gilani-survives-an-assassination-attempt.json)  [XML](/news/2008/09/3/prime-minister-of-pakistan-yousaf-raza-gilani-survives-an-assassination-attempt.xml)  
+
 ### [2008-09-3](/news/2008/09/3/index.md)
 
+##### Prime Minister
 #  Prime Minister of Pakistan Yousaf Raza Gilani survives an assassination attempt. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/south_asia/7595572.stm)
 

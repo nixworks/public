@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/10/the-people-s-republic-of-china-records-its-first-trade-deficit-in-six-years-with-rising-commodity-prices-blamed.html)  [JSON](/news/2011/04/10/the-people-s-republic-of-china-records-its-first-trade-deficit-in-six-years-with-rising-commodity-prices-blamed.json)  [XML](/news/2011/04/10/the-people-s-republic-of-china-records-its-first-trade-deficit-in-six-years-with-rising-commodity-prices-blamed.xml)  
+
 ### [2011-04-10](/news/2011/04/10/index.md)
 
+##### China
 # The People's Republic of China records its first trade deficit in six years with rising commodity prices blamed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CBS Moneywatch](http://moneywatch.bnet.com/economic-news/news/china-posts-1st-quarterly-trade-deficit-in-6-years/6214602/)
 

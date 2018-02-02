@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/6/kevin-barry-wins-one-of-the-world-s-richest-literary-awards-the-international-impac-dublin-literary-award.html)  [JSON](/news/2013/06/6/kevin-barry-wins-one-of-the-world-s-richest-literary-awards-the-international-impac-dublin-literary-award.json)  [XML](/news/2013/06/6/kevin-barry-wins-one-of-the-world-s-richest-literary-awards-the-international-impac-dublin-literary-award.xml)  
+
 ### [2013-06-6](/news/2013/06/6/index.md)
 
+##### Kevin Barry
 # Kevin Barry wins one of the world's richest literary awards, the International IMPAC Dublin Literary Award. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-22795515)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/68031000/jpg/_68031835_impac1.jpg)

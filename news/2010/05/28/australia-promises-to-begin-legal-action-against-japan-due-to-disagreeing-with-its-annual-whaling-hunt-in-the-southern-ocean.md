@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/28/australia-promises-to-begin-legal-action-against-japan-due-to-disagreeing-with-its-annual-whaling-hunt-in-the-southern-ocean.html)  [JSON](/news/2010/05/28/australia-promises-to-begin-legal-action-against-japan-due-to-disagreeing-with-its-annual-whaling-hunt-in-the-southern-ocean.json)  [XML](/news/2010/05/28/australia-promises-to-begin-legal-action-against-japan-due-to-disagreeing-with-its-annual-whaling-hunt-in-the-southern-ocean.xml)  
+
 ### [2010-05-28](/news/2010/05/28/index.md)
 
+##### Australia
 # Australia promises to begin legal action against Japan due to disagreeing with its annual whaling hunt in the Southern Ocean. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10179360.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/09/7/the-swedish-car-maker-saab-automobile-files-for-bankruptcy-in-a-self-managed-reconstruction-process.html)  [JSON](/news/2011/09/7/the-swedish-car-maker-saab-automobile-files-for-bankruptcy-in-a-self-managed-reconstruction-process.json)  [XML](/news/2011/09/7/the-swedish-car-maker-saab-automobile-files-for-bankruptcy-in-a-self-managed-reconstruction-process.xml)  
+
 ### [2011-09-7](/news/2011/09/7/index.md)
 
+##### Swede
 # The Swedish car maker Saab Automobile files for bankruptcy in a self-managed reconstruction process. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Forbes](http://www.forbes.com/feeds/ap/2011/09/07/business-specialized-consumer-services-eu-sweden-saab_8662184.html)
+1. [AP via ''Forbes](https://www.forbes.com/feeds/ap/2011/09/07/business-specialized-consumer-services-eu-sweden-saab_8662184.html)
 
 ### Related:
 

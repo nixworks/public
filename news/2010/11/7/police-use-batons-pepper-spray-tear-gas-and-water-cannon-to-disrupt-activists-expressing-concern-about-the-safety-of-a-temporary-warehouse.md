@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/7/police-use-batons-pepper-spray-tear-gas-and-water-cannon-to-disrupt-activists-expressing-concern-about-the-safety-of-a-temporary-warehouse.html)  [JSON](/news/2010/11/7/police-use-batons-pepper-spray-tear-gas-and-water-cannon-to-disrupt-activists-expressing-concern-about-the-safety-of-a-temporary-warehouse.json)  [XML](/news/2010/11/7/police-use-batons-pepper-spray-tear-gas-and-water-cannon-to-disrupt-activists-expressing-concern-about-the-safety-of-a-temporary-warehouse.xml)  
+
 ### [2010-11-7](/news/2010/11/7/index.md)
 
+##### baton
 # Police use batons, pepper spray, tear gas and water cannon to disrupt activists expressing concern about the safety of a temporary warehouse in Gorleben where nuclear waste is being transported via train from France to Germany. It is thought to be the largest such mobilisation ever. 
 
 Confrontation between protesters and riot police marks journey of train to storage site at Gorleben.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/11/2010117144126704738.html)
 2. [BBC](http://www.bbc.co.uk/news/11706115)

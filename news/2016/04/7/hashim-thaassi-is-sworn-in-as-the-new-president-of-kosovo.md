@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/7/hashim-thaassi-is-sworn-in-as-the-new-president-
 
 ### [2016-04-7](/news/2016/04/7/index.md)
 
+##### Hashim Thaci
 # Hashim Thaci is sworn in as the new President of Kosovo. 
 
 

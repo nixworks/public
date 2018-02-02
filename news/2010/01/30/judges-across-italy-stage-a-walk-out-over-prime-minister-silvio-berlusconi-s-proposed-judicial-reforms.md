@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/01/30/judges-across-italy-stage-a-walk-out-over-prime-minister-silvio-berlusconi-s-proposed-judicial-reforms.html)  [JSON](/news/2010/01/30/judges-across-italy-stage-a-walk-out-over-prime-minister-silvio-berlusconi-s-proposed-judicial-reforms.json)  [XML](/news/2010/01/30/judges-across-italy-stage-a-walk-out-over-prime-minister-silvio-berlusconi-s-proposed-judicial-reforms.xml)  
+
 ### [2010-01-30](/news/2010/01/30/index.md)
 
+##### Italy
 # Judges across Italy stage a walk out over Prime Minister Silvio Berlusconi's proposed judicial reforms. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8489253.stm)
-2. [Reuters](http://www.reuters.com/article/idUSTRE60T1AS20100130)
+2. [Reuters](https://www.reuters.com/article/idUSTRE60T1AS20100130)
 3. [euronews](http://www.euronews.net/2010/01/30/italian-magistrates-protest-over-reforms/)
-3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20100130&t=2&i=53149315&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-01-30T135534Z_01_BTRE60T12OQ00_RTROPTP_0_ITALY-JUSTICE)
+3. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20100130&t=2&i=53149315&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-01-30T135534Z_01_BTRE60T12OQ00_RTROPTP_0_ITALY-JUSTICE)
 
 ### Related:
 

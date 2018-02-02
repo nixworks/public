@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/16/former-haitian-president-jean-claude-duvalier-returns-to-the-country.html)  [JSON](/news/2011/01/16/former-haitian-president-jean-claude-duvalier-returns-to-the-country.json)  [XML](/news/2011/01/16/former-haitian-president-jean-claude-duvalier-returns-to-the-country.xml)  
+
 ### [2011-01-16](/news/2011/01/16/index.md)
 
+##### Haiti
 # Former Haitian President Jean-Claude Duvalier returns to the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://ca.reuters.com/article/topNews/idCATRE70F2Q420110116)
 

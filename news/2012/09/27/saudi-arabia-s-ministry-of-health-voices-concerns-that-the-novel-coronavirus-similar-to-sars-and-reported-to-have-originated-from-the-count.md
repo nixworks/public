@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/27/saudi-arabia-s-ministry-of-health-voices-concerns-that-the-novel-coronavirus-similar-to-sars-and-reported-to-have-originated-from-the-count.html)  [JSON](/news/2012/09/27/saudi-arabia-s-ministry-of-health-voices-concerns-that-the-novel-coronavirus-similar-to-sars-and-reported-to-have-originated-from-the-count.json)  [XML](/news/2012/09/27/saudi-arabia-s-ministry-of-health-voices-concerns-that-the-novel-coronavirus-similar-to-sars-and-reported-to-have-originated-from-the-count.xml)  
+
 ### [2012-09-27](/news/2012/09/27/index.md)
 
+##### Novel coronavirus 2012
 # Saudi Arabia's Ministry of Health voices concerns that the novel coronavirus, similar to SARS and reported to have originated from the country, might affect the Hajj, the religious pilgrimage set to occur next month. The ministry suggests that travelers take the necessary precautions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Health/Wellness/sars-virus-added-list-hajj-health-risks/story?id=17331279#.UGRAhhHLy5I)
 

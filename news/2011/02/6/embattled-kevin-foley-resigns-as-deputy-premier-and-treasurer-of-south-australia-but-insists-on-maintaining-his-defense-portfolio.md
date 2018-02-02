@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/6/embattled-kevin-foley-resigns-as-deputy-premier-and-treasurer-of-south-australia-but-insists-on-maintaining-his-defense-portfolio.html)  [JSON](/news/2011/02/6/embattled-kevin-foley-resigns-as-deputy-premier-and-treasurer-of-south-australia-but-insists-on-maintaining-his-defense-portfolio.json)  [XML](/news/2011/02/6/embattled-kevin-foley-resigns-as-deputy-premier-and-treasurer-of-south-australia-but-insists-on-maintaining-his-defense-portfolio.xml)  
+
 ### [2011-02-6](/news/2011/02/6/index.md)
 
+##### Kevin Foley
 # Embattled Kevin Foley resigns as deputy premier and treasurer of South Australia but insists on maintaining his defense portfolio. 
 
 Embattled Kevin Foley has stepped down as South Australian deputy premier and treasurer, apologising for perhaps being too much of a bully boy.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/foley-steps-down-as-sa-deputy-premier-20110206-1ai62.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

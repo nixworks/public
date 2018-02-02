@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/4/ufdc-rebels-attack-the-chadian-city-of-ade-and-battle-the-military-of-chad-both-the-ufdc-and-the-deby-administration-claim-to-have-control.html)  [JSON](/news/2006/07/4/ufdc-rebels-attack-the-chadian-city-of-ade-and-battle-the-military-of-chad-both-the-ufdc-and-the-deby-administration-claim-to-have-control.json)  [XML](/news/2006/07/4/ufdc-rebels-attack-the-chadian-city-of-ade-and-battle-the-military-of-chad-both-the-ufdc-and-the-deby-administration-claim-to-have-control.xml)  
+
 ### [2006-07-4](/news/2006/07/4/index.md)
 
+##### UFDC
 #  UFDC rebels attack the Chadian city of Ade and battle the Military of Chad. Both the UFDC and the Dby administration claim to have control over the city, stating that opposing forces have fled. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/WORLD/africa/07/03/chad.reut/index.html?section=cnn_latest)
 2. [allAfrica.com](http://allafrica.com/stories/200607040050.html)

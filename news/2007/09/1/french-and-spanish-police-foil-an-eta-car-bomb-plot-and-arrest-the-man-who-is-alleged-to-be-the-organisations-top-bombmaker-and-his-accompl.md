@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/1/french-and-spanish-police-foil-an-eta-car-bomb-plot-and-arrest-the-man-who-is-alleged-to-be-the-organisations-top-bombmaker-and-his-accompl.html)  [JSON](/news/2007/09/1/french-and-spanish-police-foil-an-eta-car-bomb-plot-and-arrest-the-man-who-is-alleged-to-be-the-organisations-top-bombmaker-and-his-accompl.json)  [XML](/news/2007/09/1/french-and-spanish-police-foil-an-eta-car-bomb-plot-and-arrest-the-man-who-is-alleged-to-be-the-organisations-top-bombmaker-and-his-accompl.xml)  
+
 ### [2007-09-1](/news/2007/09/1/index.md)
 
+##### Spain
 #  French and Spanish police foil an ETA car bomb plot and arrest the man who is alleged to be the organisations top bombmaker and his accomplices. 
 
 French and Spanish police foiled a car bomb plot by Basque separatist group ETA, netting its alleged top bomb maker and three colleagues in what analysts termed a major blow for ETA.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/02/2021589.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

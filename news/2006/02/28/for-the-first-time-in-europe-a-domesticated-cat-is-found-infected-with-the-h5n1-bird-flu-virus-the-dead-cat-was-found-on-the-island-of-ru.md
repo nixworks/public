@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2006/02/28/for-the-first-time-in-europe-a-domesticated-cat-is-found-infected-with-the-h5n1-bird-flu-virus-the-dead-cat-was-found-on-the-island-of-ru.html)  [JSON](/news/2006/02/28/for-the-first-time-in-europe-a-domesticated-cat-is-found-infected-with-the-h5n1-bird-flu-virus-the-dead-cat-was-found-on-the-island-of-ru.json)  [XML](/news/2006/02/28/for-the-first-time-in-europe-a-domesticated-cat-is-found-infected-with-the-h5n1-bird-flu-virus-the-dead-cat-was-found-on-the-island-of-ru.xml)  
+
 ### [2006-02-28](/news/2006/02/28/index.md)
 
+##### bird flu
 #  For the first time in Europe, a domesticated cat is found infected with the H5N1 bird flu virus. The dead cat was found on the island of Rgen in Mecklenburg-Western Pomerania, Germany. 
 
 Get the latest health&nbsp;news, diet &amp; fitness information, medical research, health care trends and health issues that affect you and your family on ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP](http://abcnews.go.com/Health/wireStory?id=1670496)
-2. [Handelsblatt](http://www.handelsblatt.com/news/Default.aspx?_p=204493&_t=ft&_b=1041647)
+2. [Handelsblatt](https://www.handelsblatt.com/news/Default.aspx?_p=204493&_t=ft&_b=1041647)
 3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L28468688.htm)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/26/in-liberia-united-nations-peacekeeping-forces-have-sent-troops-and-imposed-a-curfew-to-town-of-harper-to-quell-riots-over-alleged-ritual-k.html)  [JSON](/news/2005/01/26/in-liberia-united-nations-peacekeeping-forces-have-sent-troops-and-imposed-a-curfew-to-town-of-harper-to-quell-riots-over-alleged-ritual-k.json)  [XML](/news/2005/01/26/in-liberia-united-nations-peacekeeping-forces-have-sent-troops-and-imposed-a-curfew-to-town-of-harper-to-quell-riots-over-alleged-ritual-k.xml)  
+
 ### [2005-01-26](/news/2005/01/26/index.md)
 
+##### Liberia
 #  In Liberia, United Nations peacekeeping forces have sent troops and imposed a curfew to town of Harper to quell riots over alleged ritual killings 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4205301.stm)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/ac106ee8c379704257ee70909d0de22f.htm)

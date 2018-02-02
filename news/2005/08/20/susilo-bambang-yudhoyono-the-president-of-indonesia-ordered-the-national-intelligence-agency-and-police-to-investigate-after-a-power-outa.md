@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/08/20/susilo-bambang-yudhoyono-the-president-of-indonesia-ordered-the-national-intelligence-agency-and-police-to-investigate-after-a-power-outa.html)  [JSON](/news/2005/08/20/susilo-bambang-yudhoyono-the-president-of-indonesia-ordered-the-national-intelligence-agency-and-police-to-investigate-after-a-power-outa.json)  [XML](/news/2005/08/20/susilo-bambang-yudhoyono-the-president-of-indonesia-ordered-the-national-intelligence-agency-and-police-to-investigate-after-a-power-outa.xml)  
+
 ### [2005-08-20](/news/2005/08/20/index.md)
 
+##### Susilo Bambang Yudhoyono
 #  Susilo Bambang Yudhoyono, the President of Indonesia, ordered the national intelligence agency and police to investigate after a power outage left about 100 million people without electricity. (Wikinews)
 
 

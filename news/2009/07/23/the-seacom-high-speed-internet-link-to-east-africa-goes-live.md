@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/23/the-seacom-high-speed-internet-link-to-east-africa-goes-live.html)  [JSON](/news/2009/07/23/the-seacom-high-speed-internet-link-to-east-africa-goes-live.json)  [XML](/news/2009/07/23/the-seacom-high-speed-internet-link-to-east-africa-goes-live.xml)  
+
 ### [2009-07-23](/news/2009/07/23/index.md)
 
+##### SEACOM underwater cable
 #  The SEACOM high speed internet link to East Africa goes live. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iHrESmY6eTaALo3tbsjwGSPkPP1Q)
 2. [All Africa.com](http://allafrica.com/stories/200907230701.html)
@@ -13,8 +17,8 @@
 
 ### Related:
 
-1. [Google and Cuba forge a deal about better access to the Internet for the island. ](/news/2016/12/13/google-and-cuba-forge-a-deal-about-better-access-to-the-internet-for-the-island.md) _Context: Internet_
-2. [The Obama administration through the United States Department of Commerce transfers oversight of the technical management of the Internet by the Internet Corporation for Assigned Names and Numbers to an international consortium of stakeholders. ](/news/2016/10/1/the-obama-administration-through-the-united-states-department-of-commerce-transfers-oversight-of-the-technical-management-of-the-internet-by.md) _Context: Internet_
-3. [National "Stay Away" protests, organized over the Internet via the WhatsApp social messaging platform, take place in Zimbabwe, following fears of an economic collapse amid calls for President Robert Mugabe's resignation.](/news/2016/07/6/national-stay-away-protests-organized-over-the-internet-via-the-whatsapp-social-messaging-platform-take-place-in-zimbabwe-following-fea.md) _Context: Internet_
-4. [Goldman Sachs, the American multinational investment banking firm, launches an FDIC-insured, Internet-based savings bank. The Wall Street institution, whose investment banking account minimums are in the millions, sets a minimum deposit of $1 dollar for GSBank.com. ](/news/2016/04/25/goldman-sachs-the-american-multinational-investment-banking-firm-launches-an-fdic-insured-internet-based-savings-bank-the-wall-street-in.md) _Context: Internet_
-5. [American sportscaster Erin Andrews is awarded $55 million damages after a stranger, in 2008, secretly recorded her in the nude through a hotel door peephole, and posted the video on the Internet. ](/news/2016/03/7/american-sportscaster-erin-andrews-is-awarded-55-million-damages-after-a-stranger-in-2008-secretly-recorded-her-in-the-nude-through-a-hot.md) _Context: Internet_
+1. [Turkish Airlines begins a service to Somalia, the first regular service to the capital Mogadishu except regional East African flights to operate in twenty years. ](/news/2012/03/6/turkish-airlines-begins-a-service-to-somalia-the-first-regular-service-to-the-capital-mogadishu-except-regional-east-african-flights-to-ope.md) _Context: East Africa_
+2. [East Africa's high-speed internet access is severely damaged by a ship dropping its anchor onto the fibre-optic cables of the TEAMS and EASSy cable systems off the coast of Mombasa, Kenya. ](/news/2012/02/27/east-africa-s-high-speed-internet-access-is-severely-damaged-by-a-ship-dropping-its-anchor-onto-the-fibre-optic-cables-of-the-teams-and-eass.md) _Context: East Africa_
+3. [2011 Horn of Africa famine: The World Bank promises $500 million in aid to drought victims in East Africa as a United Nations agency hosts an emergency meeting aimed at fighting famine. ](/news/2011/07/25/2011-horn-of-africa-famine-the-world-bank-promises-500-million-in-aid-to-drought-victims-in-east-africa-as-a-united-nations-agency-hosts-a.md) _Context: East Africa_
+4. [At least 10 people are killed in clashes in northern Kenya amid a severe drought affecting East Africa. ](/news/2011/06/25/at-least-10-people-are-killed-in-clashes-in-northern-kenya-amid-a-severe-drought-affecting-east-africa.md) _Context: East Africa_
+5. [Google announces plans to make the U.S. city of Kansas City, Kansas the first site in its ultra-high speed broadband network. ](/news/2011/03/30/google-announces-plans-to-make-the-u-s-city-of-kansas-city-kansas-the-first-site-in-its-ultra-high-speed-broadband-network.md) _Context: broadband_

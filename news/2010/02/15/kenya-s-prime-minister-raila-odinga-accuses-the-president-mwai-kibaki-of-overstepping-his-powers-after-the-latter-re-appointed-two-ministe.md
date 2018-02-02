@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/15/kenya-s-prime-minister-raila-odinga-accuses-the-president-mwai-kibaki-of-overstepping-his-powers-after-the-latter-re-appointed-two-ministe.html)  [JSON](/news/2010/02/15/kenya-s-prime-minister-raila-odinga-accuses-the-president-mwai-kibaki-of-overstepping-his-powers-after-the-latter-re-appointed-two-ministe.json)  [XML](/news/2010/02/15/kenya-s-prime-minister-raila-odinga-accuses-the-president-mwai-kibaki-of-overstepping-his-powers-after-the-latter-re-appointed-two-ministe.xml)  
+
 ### [2010-02-15](/news/2010/02/15/index.md)
 
+##### Kenya
 # Kenya's Prime Minister Raila Odinga accuses the President Mwai Kibaki of "overstepping" his powers after the latter re-appointed two ministers sacked by Odinga over a corruption scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iHGTbI59hL1EZbGu3gbZ6uwCZnvwD9DSJDB05)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8515941.stm)

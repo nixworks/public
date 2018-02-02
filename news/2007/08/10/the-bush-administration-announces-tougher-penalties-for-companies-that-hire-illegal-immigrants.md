@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/10/the-bush-administration-announces-tougher-penalties-for-companies-that-hire-illegal-immigrants.html)  [JSON](/news/2007/08/10/the-bush-administration-announces-tougher-penalties-for-companies-that-hire-illegal-immigrants.json)  [XML](/news/2007/08/10/the-bush-administration-announces-tougher-penalties-for-companies-that-hire-illegal-immigrants.xml)  
+
 ### [2007-08-10](/news/2007/08/10/index.md)
 
+##### George W. Bush
 #  The Bush administration announces tougher penalties for companies that hire illegal immigrants. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6941536.stm)
 

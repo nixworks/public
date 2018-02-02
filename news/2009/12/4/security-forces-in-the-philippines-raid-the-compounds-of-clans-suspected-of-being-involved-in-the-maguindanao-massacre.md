@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/4/security-forces-in-the-philippines-raid-the-compounds-of-clans-suspected-of-being-involved-in-the-maguindanao-massacre.html)  [JSON](/news/2009/12/4/security-forces-in-the-philippines-raid-the-compounds-of-clans-suspected-of-being-involved-in-the-maguindanao-massacre.json)  [XML](/news/2009/12/4/security-forces-in-the-philippines-raid-the-compounds-of-clans-suspected-of-being-involved-in-the-maguindanao-massacre.xml)  
+
 ### [2009-12-4](/news/2009/12/4/index.md)
 
+##### Philippines
 #  Security forces in the Philippines raid the compounds of clans suspected of being involved in the Maguindanao massacre. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g1F3rK2Tld9m648edA-eshNZBSogD9CCFOHG0)
 2. [Philippine Inquirer](http://newsinfo.inquirer.net/topstories/topstories/view/20091204-240054/Firearms-found-enough-to-supply-a-battalionPNP-chief)

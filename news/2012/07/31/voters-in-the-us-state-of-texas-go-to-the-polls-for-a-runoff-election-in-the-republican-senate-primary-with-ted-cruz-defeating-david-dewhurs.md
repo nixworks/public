@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/07/31/voters-in-the-us-state-of-texas-go-to-the-polls-for-a-runoff-election-in-the-republican-senate-primary-with-ted-cruz-defeating-david-dewhurs.html)  [JSON](/news/2012/07/31/voters-in-the-us-state-of-texas-go-to-the-polls-for-a-runoff-election-in-the-republican-senate-primary-with-ted-cruz-defeating-david-dewhurs.json)  [XML](/news/2012/07/31/voters-in-the-us-state-of-texas-go-to-the-polls-for-a-runoff-election-in-the-republican-senate-primary-with-ted-cruz-defeating-david-dewhurs.xml)  
+
 ### [2012-07-31](/news/2012/07/31/index.md)
 
+##### Texas
 # Voters in the US state of Texas go to the polls for a runoff election in the Republican Senate primary with Ted Cruz defeating David Dewhurst. 
 
 The tea party-aligned conservative was once regarded as a long-shot candidate.
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/blogs/the-fix/post/ted-cruz-wins-republican-runoff-for-texas-senate-seat/2012/07/31/gJQADsLtNX_blog.html)
+1. [Washington Post](https://www.washingtonpost.com/blogs/the-fix/post/ted-cruz-wins-republican-runoff-for-texas-senate-seat/2012/07/31/gJQADsLtNX_blog.html)
 
 ### Related:
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/18/according-to-the-government-of-ethiopia-the-dea
 
 ### [2016-04-18](/news/2016/04/18/index.md)
 
+##### Ethnic violence in South Sudan
 # According to the government of Ethiopia, the death toll from a raid carried out by attackers from South Sudan has risen to 208 from a figure of 140 a day earlier, with 108 children being kidnapped in the process. Ethiopian forces killed 60 of the attackers and says it would cross the border into South Sudan to pursue the assailants if necessary. 
 
 Death toll rises from cross-border cattle raid as government says more than 100 children were taken by attackers.

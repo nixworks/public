@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/13/louisiana-governor-john-bel-edwards-signs-an-an
 
 ### [2016-04-13](/news/2016/04/13/index.md)
 
+##### LGBT rights in the United States
 # Louisiana Governor John Bel Edwards signs an anti-discrimination order protecting the rights of gay and transgender people that rescinds one his immediate predecessor, Bobby Jindal, signed that sought to limit same-sex marriage rights and the ability of transgender people to choose which public restrooms they may use. 
 
 

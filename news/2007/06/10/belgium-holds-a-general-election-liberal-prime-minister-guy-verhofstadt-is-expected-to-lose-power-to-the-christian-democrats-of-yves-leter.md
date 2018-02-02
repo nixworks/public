@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/10/belgium-holds-a-general-election-liberal-prime-minister-guy-verhofstadt-is-expected-to-lose-power-to-the-christian-democrats-of-yves-leter.html)  [JSON](/news/2007/06/10/belgium-holds-a-general-election-liberal-prime-minister-guy-verhofstadt-is-expected-to-lose-power-to-the-christian-democrats-of-yves-leter.json)  [XML](/news/2007/06/10/belgium-holds-a-general-election-liberal-prime-minister-guy-verhofstadt-is-expected-to-lose-power-to-the-christian-democrats-of-yves-leter.xml)  
+
 ### [2007-06-10](/news/2007/06/10/index.md)
 
+##### Belgium
 #  Belgium holds a general election. Liberal Prime Minister Guy Verhofstadt is expected to lose power to the Christian Democrats of Yves Leterme. 
 
 Belgian voters punished the liberal-socialist government in an election on Sunday and cleared the way for Flemish premier Yves Leterme to become prime minister and pursue a devolution of power to the regions.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/worldNews/idUKL109422520070610)
 1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20070610&t=2&i=937423&w=&fh=545px&fw=&ll=&pl=&sq=&r=937423)

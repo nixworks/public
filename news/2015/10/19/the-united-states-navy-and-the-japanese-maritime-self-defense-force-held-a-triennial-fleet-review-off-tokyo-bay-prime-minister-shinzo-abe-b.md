@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2015/10/19/the-united-states-navy-and-the-japanese-maritime-self-defense-force-held-a-triennial-fleet-review-off-tokyo-bay-prime-minister-shinzo-abe-b.html)  [JSON](/news/2015/10/19/the-united-states-navy-and-the-japanese-maritime-self-defense-force-held-a-triennial-fleet-review-off-tokyo-bay-prime-minister-shinzo-abe-b.json)  [XML](/news/2015/10/19/the-united-states-navy-and-the-japanese-maritime-self-defense-force-held-a-triennial-fleet-review-off-tokyo-bay-prime-minister-shinzo-abe-b.xml)  
+
 ### [2015-10-19](/news/2015/10/19/index.md)
 
+##### United States Navy
 # The United States Navy and the Japanese Maritime Self-Defense Force held a triennial fleet review off Tokyo Bay. Prime Minister Shinzo Abe became the first sitting Japanese leader to board a U.S. aircraft carrier when he visited the USS "Ronald Reagan". 
 
-The USS Ronald Reagan and the Japanese warship JS Izumo took part in the fleet review.
+Prime Minister Shinzo Abe on Sunday became the first sitting Japanese leader to set foot on a U.S. aircraft carrier when he boarded the USS Ronald Reagan,
 
 
-### Source:
+### Sources:
 
 1. [Japan Times](http://www.japantimes.co.jp/news/2015/10/18/national/politics-diplomacy/japan-flexes-naval-muscle-u-s-signals-wider-engagement-western-pacific/#.ViS-nxNVikp)
-2. [USA Today](http://www.usatoday.com/story/news/world/2015/10/18/us-japanese-naval-forces-stage-show-strength-shinzo-abe/74174426/#cx_ab_test_id=16&cx_ab_test_variant=ctrl&cx_art_pos=1&cx_navSource=sechi-news)
-2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
+2. [USA Today](https://www.usatoday.com/story/news/world/2015/10/18/us-japanese-naval-forces-stage-show-strength-shinzo-abe/74174426/#cx_ab_test_id=16&cx_ab_test_variant=ctrl&cx_art_pos=1&cx_navSource=sechi-news)
+2. [Cover Image](http://www.japantimes.co.jp/wp-content/uploads/2015/10/n-fleetreview-c-20151019-870x632.jpg)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/6/a-5-2-magnitude-earthquake-occurs-in-the-philippines-near-masbate-city-on-the-island-of-masbate-causing-some-injuries.html)  [JSON](/news/2012/03/6/a-5-2-magnitude-earthquake-occurs-in-the-philippines-near-masbate-city-on-the-island-of-masbate-causing-some-injuries.json)  [XML](/news/2012/03/6/a-5-2-magnitude-earthquake-occurs-in-the-philippines-near-masbate-city-on-the-island-of-masbate-causing-some-injuries.xml)  
+
 ### [2012-03-6](/news/2012/03/6/index.md)
 
+##### earthquake
 # A 5.2 magnitude earthquake occurs in the Philippines near Masbate City on the island of Masbate causing some injuries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Seattle Post-Intelligencer](http://www.seattlepi.com/news/article/Philippine-quake-cracks-buildings-injures-9-3383851.php)
 

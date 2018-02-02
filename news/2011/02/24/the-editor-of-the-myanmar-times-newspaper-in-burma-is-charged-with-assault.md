@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/24/the-editor-of-the-myanmar-times-newspaper-in-burma-is-charged-with-assault.html)  [JSON](/news/2011/02/24/the-editor-of-the-myanmar-times-newspaper-in-burma-is-charged-with-assault.json)  [XML](/news/2011/02/24/the-editor-of-the-myanmar-times-newspaper-in-burma-is-charged-with-assault.xml)  
+
 ### [2011-02-24](/news/2011/02/24/index.md)
 
+##### Myanmar Times
 # The editor of the "Myanmar Times" newspaper in Burma is charged with assault. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_638479.html)
 

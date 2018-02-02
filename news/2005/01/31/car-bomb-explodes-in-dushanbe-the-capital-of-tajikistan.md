@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/31/car-bomb-explodes-in-dushanbe-the-capital-of-tajikistan.html)  [JSON](/news/2005/01/31/car-bomb-explodes-in-dushanbe-the-capital-of-tajikistan.json)  [XML](/news/2005/01/31/car-bomb-explodes-in-dushanbe-the-capital-of-tajikistan.xml)  
+
 ### [2005-01-31](/news/2005/01/31/index.md)
 
+##### car bomb
 #  Car bomb explodes in Dushanbe, the capital of Tajikistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4221603.stm)
 2. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=1693936&PageNum=0)

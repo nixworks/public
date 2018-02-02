@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/06/1/the-taliban-kidnaps-approximately-400-people-in-north-west-frontier-province-pakistan.html)  [JSON](/news/2009/06/1/the-taliban-kidnaps-approximately-400-people-in-north-west-frontier-province-pakistan.json)  [XML](/news/2009/06/1/the-taliban-kidnaps-approximately-400-people-in-north-west-frontier-province-pakistan.xml)  
+
 ### [2009-06-1](/news/2009/06/1/index.md)
 
+##### Taliban
 #  The Taliban kidnaps approximately 400 people in North-West Frontier Province, Pakistan. 
 
 Pakistani authorities negotiated on Tuesday for the release of about 200 students and staff from a military-run college abducted by Taliban militants as they traveled home for a holiday.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0601/pakistan.html)
-2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5504KH20090601)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090601&t=2&i=10338448&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-06-01T201504Z_01_BTRE5501K9A00_RTROPTP_0_PAKISTAN-VIOLENCE)
+2. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE5504KH20090601)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20090601&t=2&i=10338448&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-06-01T201504Z_01_BTRE5501K9A00_RTROPTP_0_PAKISTAN-VIOLENCE)
 
 ### Related:
 

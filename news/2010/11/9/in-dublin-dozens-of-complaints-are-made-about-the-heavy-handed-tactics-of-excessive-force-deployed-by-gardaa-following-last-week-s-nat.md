@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/9/in-dublin-dozens-of-complaints-are-made-about-the-heavy-handed-tactics-of-excessive-force-deployed-by-gardaa-following-last-week-s-nat.html)  [JSON](/news/2010/11/9/in-dublin-dozens-of-complaints-are-made-about-the-heavy-handed-tactics-of-excessive-force-deployed-by-gardaa-following-last-week-s-nat.json)  [XML](/news/2010/11/9/in-dublin-dozens-of-complaints-are-made-about-the-heavy-handed-tactics-of-excessive-force-deployed-by-gardaa-following-last-week-s-nat.xml)  
+
 ### [2010-11-9](/news/2010/11/9/index.md)
 
+##### Dublin
 # In Dublin, dozens of complaints are made about the "heavy-handed" tactics of "excessive force" deployed by gardai following last week's nationwide student demonstration against a government-proposed fee increase, the largest such demonstration in a generation. 
 
 The Garda S&iacute;och&aacute;na Ombudsman Commission has received 28 complaints about the behaviour of garda&iacute; at a student demonstration in&hellip;
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2010/1109/education.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1109/breaking20.html)

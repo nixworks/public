@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/12/an-extensive-study-concludes-that-several-factors-aligned-to-cause-the-extinction-of-wooly-mammoths.html)  [JSON](/news/2012/06/12/an-extensive-study-concludes-that-several-factors-aligned-to-cause-the-extinction-of-wooly-mammoths.json)  [XML](/news/2012/06/12/an-extensive-study-concludes-that-several-factors-aligned-to-cause-the-extinction-of-wooly-mammoths.xml)  
+
 ### [2012-06-12](/news/2012/06/12/index.md)
 
+##### extinction
 # An extensive study concludes that several factors aligned to cause the extinction of wooly mammoths. 
 
 A multitude of culprits apparently drove the woolly mammoths to extinction, including climate change, habitat change and human hunting.
 
 
-### Source:
+### Sources:
 
 1. [Live Science](http://www.livescience.com/20894-woolly-mammoths-extinction.html)
 1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAyOC8wMDMvb3JpZ2luYWwvMDgwMzMxLW1hbW1vdGgtMDJiLmpwZw==)

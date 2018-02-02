@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/6/the-nathula-pass-between-india-and-china-sealed-during-the-sino-indian-war-in-1962-reopens-after-44-years.html)  [JSON](/news/2006/07/6/the-nathula-pass-between-india-and-china-sealed-during-the-sino-indian-war-in-1962-reopens-after-44-years.json)  [XML](/news/2006/07/6/the-nathula-pass-between-india-and-china-sealed-during-the-sino-indian-war-in-1962-reopens-after-44-years.xml)  
+
 ### [2006-07-6](/news/2006/07/6/index.md)
 
+##### Nathula Pass
 #  The Nathula Pass between India and China, sealed during the Sino-Indian War in 1962, reopens after 44 years. (
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/5150682.stm)
 2. [Zee News](http://www.zeenews.com/articles.asp?aid=307263&sid=NAT)

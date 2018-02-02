@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/28/the-ivory-billed-woodpecker-long-thought-to-be-extinct-has-been-rediscovered-in-the-big-woods-area-of-arkansas.html)  [JSON](/news/2005/04/28/the-ivory-billed-woodpecker-long-thought-to-be-extinct-has-been-rediscovered-in-the-big-woods-area-of-arkansas.json)  [XML](/news/2005/04/28/the-ivory-billed-woodpecker-long-thought-to-be-extinct-has-been-rediscovered-in-the-big-woods-area-of-arkansas.xml)  
+
 ### [2005-04-28](/news/2005/04/28/index.md)
 
+##### ivory-billed woodpecker
 #  The ivory-billed woodpecker, long thought to be extinct, has been rediscovered in the "Big Woods" area of Arkansas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2005/TECH/science/04/28/woodpecker/index.html)
 

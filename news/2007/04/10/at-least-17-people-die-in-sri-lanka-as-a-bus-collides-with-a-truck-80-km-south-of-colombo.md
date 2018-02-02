@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/10/at-least-17-people-die-in-sri-lanka-as-a-bus-collides-with-a-truck-80-km-south-of-colombo.html)  [JSON](/news/2007/04/10/at-least-17-people-die-in-sri-lanka-as-a-bus-collides-with-a-truck-80-km-south-of-colombo.json)  [XML](/news/2007/04/10/at-least-17-people-die-in-sri-lanka-as-a-bus-collides-with-a-truck-80-km-south-of-colombo.xml)  
+
 ### [2007-04-10](/news/2007/04/10/index.md)
 
+##### Sri Lanka
 #  At least 17 people die in Sri Lanka as a bus collides with a truck 80 km south of Colombo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6540199.stm)
 

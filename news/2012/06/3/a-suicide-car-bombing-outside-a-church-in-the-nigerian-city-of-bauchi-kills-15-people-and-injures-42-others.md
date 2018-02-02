@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/3/a-suicide-car-bombing-outside-a-church-in-the-nigerian-city-of-bauchi-kills-15-people-and-injures-42-others.html)  [JSON](/news/2012/06/3/a-suicide-car-bombing-outside-a-church-in-the-nigerian-city-of-bauchi-kills-15-people-and-injures-42-others.json)  [XML](/news/2012/06/3/a-suicide-car-bombing-outside-a-church-in-the-nigerian-city-of-bauchi-kills-15-people-and-injures-42-others.xml)  
+
 ### [2012-06-3](/news/2012/06/3/index.md)
 
+##### suicide car bombing
 # A suicide car bombing outside a church in the Nigerian city of Bauchi kills 15 people and injures 42 others. 
 
 The Nation Newspaper is Nigeria&#039;s widest circulating newspaper covering News, Politics, Entertainment, Sports, Education and General interest stories.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ihAmjgK3T5xzf6cuvaq-lIUdb63Q?docId=CNG.b7dce36355e4938d9b295fc7dc549e81.911)
 2. [The Nation](http://www.thenationonlineng.net/2011/index.php/news/48949-bombs-kill-15-in-bauchi-churches.html)

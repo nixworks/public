@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/05/8/the-phoenix-arizona-police-arrest-the-suspected-maryvale-serial-shooter.html)  [JSON](/news/2017/05/8/the-phoenix-arizona-police-arrest-the-suspected-maryvale-serial-shooter.json)  [XML](/news/2017/05/8/the-phoenix-arizona-police-arrest-the-suspected-maryvale-serial-shooter.xml)  
+
 ### [2017-05-8](/news/2017/05/8/index.md)
 
+##### Phoenix, Arizona
 # The Phoenix, Arizona police arrest the suspected Maryvale serial shooter. 
 
 A man arrested last month in a 2015 homicide has been charged in the Phoenix serial street shootings case. 
 
 
-### Source:
+### Sources:
 
 1. [ABC 15](http://www.abc15.com/news/region-phoenix-metro/central-phoenix/phoenix-serial-street-shootings-aaron-saucedo-facing-charges-in-shootings)
 1. [Cover Image](http://media2.abc15.com/photo/2017/04/24/SaucedoCar675_1493073614432_58801803_ver1.0_640_480.jpg)

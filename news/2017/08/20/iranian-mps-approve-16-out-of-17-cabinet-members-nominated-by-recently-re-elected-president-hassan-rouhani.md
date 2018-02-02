@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/20/iranian-mps-approve-16-out-of-17-cabinet-member
 
 ### [2017-08-20](/news/2017/08/20/index.md)
 
+##### Politics of Iran
 # Iranian MPs approve 16 out of 17 cabinet members nominated by recently re-elected President Hassan Rouhani. 
 
 Iranian lawmakers on Sunday approved 16 Cabinet members nominated by recently re-elected President Hassan Rouhani, including the first defense minister unaffiliated with the elite, hard-line Revolutionary Guard in 25 years.

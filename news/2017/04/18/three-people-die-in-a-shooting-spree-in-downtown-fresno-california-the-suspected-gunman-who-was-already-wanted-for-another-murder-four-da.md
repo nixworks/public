@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/18/three-people-die-in-a-shooting-spree-in-downtow
 
 ### [2017-04-18](/news/2017/04/18/index.md)
 
+##### 2017 Fresno shootings
 # Three people die in a shooting spree in downtown Fresno, California. The suspected gunman, who was already wanted for another murder four days earlier, and who expressed hatred of whites and the government, is arrested. 
 
 A man shot and killed three people in downtown Fresno and shouted, “Allahu akbar,” before turning himself into authorities, the Fresno Police Department chief said.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/15/an-accidental-fire-severely-burns-a-giant-white-rabbit-erected-by-dutch-artist-florentijn-hofman-in-taoyuan-taiwan.html)  [JSON](/news/2014/09/15/an-accidental-fire-severely-burns-a-giant-white-rabbit-erected-by-dutch-artist-florentijn-hofman-in-taoyuan-taiwan.json)  [XML](/news/2014/09/15/an-accidental-fire-severely-burns-a-giant-white-rabbit-erected-by-dutch-artist-florentijn-hofman-in-taoyuan-taiwan.xml)  
+
 ### [2014-09-15](/news/2014/09/15/index.md)
 
+##### giant white rabbit
 # An accidental fire severely burns a giant white rabbit erected by Dutch artist Florentijn Hofman in Taoyuan, Taiwan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/lifestyle/hofman-s-giant-white/1363406.html)
 2. [New York Times](http://sinosphere.blogs.nytimes.com/2014/09/15/a-burning-man-style-finale-for-a-giant-rabbit-in-taiwan/?_php=true&_type=blogs&_r=0)

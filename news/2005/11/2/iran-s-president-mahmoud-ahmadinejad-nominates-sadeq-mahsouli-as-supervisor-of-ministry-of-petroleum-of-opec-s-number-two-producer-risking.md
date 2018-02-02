@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/2/iran-s-president-mahmoud-ahmadinejad-nominates-sadeq-mahsouli-as-supervisor-of-ministry-of-petroleum-of-opec-s-number-two-producer-risking.html)  [JSON](/news/2005/11/2/iran-s-president-mahmoud-ahmadinejad-nominates-sadeq-mahsouli-as-supervisor-of-ministry-of-petroleum-of-opec-s-number-two-producer-risking.json)  [XML](/news/2005/11/2/iran-s-president-mahmoud-ahmadinejad-nominates-sadeq-mahsouli-as-supervisor-of-ministry-of-petroleum-of-opec-s-number-two-producer-risking.xml)  
+
 ### [2005-11-2](/news/2005/11/2/index.md)
 
+##### Iran
 #  Iran's President Mahmoud Ahmadinejad nominates Sadeq Mahsouli as Supervisor of Ministry of Petroleum of OPEC's number two producer, risking domestic political commotion and a parliamentary veto after already making a disturbance abroad with a call for Israel's destruction. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-11-02T141023Z_01_YUE250978_RTRUKOC_0_UK-IRAN.xml)
 

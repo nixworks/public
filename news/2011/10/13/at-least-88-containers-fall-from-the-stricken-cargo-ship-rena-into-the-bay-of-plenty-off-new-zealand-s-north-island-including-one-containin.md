@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2011/10/13/at-least-88-containers-fall-from-the-stricken-cargo-ship-rena-into-the-bay-of-plenty-off-new-zealand-s-north-island-including-one-containin.html)  [JSON](/news/2011/10/13/at-least-88-containers-fall-from-the-stricken-cargo-ship-rena-into-the-bay-of-plenty-off-new-zealand-s-north-island-including-one-containin.json)  [XML](/news/2011/10/13/at-least-88-containers-fall-from-the-stricken-cargo-ship-rena-into-the-bay-of-plenty-off-new-zealand-s-north-island-including-one-containin.xml)  
+
 ### [2011-10-13](/news/2011/10/13/index.md)
 
+##### Bay of Plenty
 # At least 88 containers fall from the stricken cargo ship Rena into the Bay of Plenty off New Zealand's North Island, including one containing the 
 
 About 88 containers have fallen into the sea, and at least one of them contained the toxic chemical ferrosilicon, authorities say, as NZ&#039;s worst maritime pollution disaster enters its second week.
 
 
-### Source:
+### Sources:
 
 1. [AFP via SBS News Australia](http://www.sbs.com.au/news/article/1596213/Toxic-chemical-in-NZ-ship-toppled-cargo)
 2. [toxic](http://cameochemicals.noaa.gov/chemical/17269)
 2. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/3/9/3906_nz-cargo-ship-l-111013-nzn.jpg)
+
+### Changes:
+
+1. [At least 88 containers fall from the stricken cargo ship {{MV|Rena}} into the Bay of Plenty off New Zealand's North Island, including one containing the ](/news/2011/10/13/at-least-88-containers-fall-from-the-stricken-cargo-ship-mv-rena-into-the-bay-of-plenty-off-new-zealand-s-north-island-including-one-co.md) _2017-05-01 03:36:42 (First version)_
+1. [At least 88 containers fall from the stricken cargo ship Rena into the Bay of Plenty off New Zealand's North Island, including one containing the ](/news/2011/10/13/at-least-88-containers-fall-from-the-stricken-cargo-ship-rena-into-the-bay-of-plenty-off-new-zealand-s-north-island-including-one-containin.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ About 88 containers have fallen into the sea, and at least one of them contained
 3. [A 7.1 magnitude earthquake occurs off the north east coast of North Island, New Zealand. A tsunami warning was issued after the earthquake, and waves of 0.3m have been reported near Gisborne. ](/news/2016/09/1/a-7-1-magnitude-earthquake-occurs-off-the-north-east-coast-of-north-island-new-zealand-a-tsunami-warning-was-issued-after-the-earthquake.md) _Context: New Zealand, North Island_
 4. [In New Zealand's North Island heavy rains cause flooding on the Kapiti Coast in the Wellington Region prompting evacuations and closing road and rail links. ](/news/2015/05/14/in-new-zealand-s-north-island-heavy-rains-cause-flooding-on-the-kapiti-coast-in-the-wellington-region-prompting-evacuations-and-closing-road.md) _Context: New Zealand, North Island_
 5. [A 6.2 magnitude earthquake occurs on the lower North Island of New Zealand near the capital Wellington. ](/news/2014/01/20/a-6-2-magnitude-earthquake-occurs-on-the-lower-north-island-of-new-zealand-near-the-capital-wellington.md) _Context: New Zealand, North Island_
-
-### Changes:
-
-1. [At least 88 containers fall from the stricken cargo ship {{MV|Rena}} into the Bay of Plenty off New Zealand's North Island, including one containing the ](/news/2011/10/13/at-least-88-containers-fall-from-the-stricken-cargo-ship-mv-rena-into-the-bay-of-plenty-off-new-zealand-s-north-island-including-one-co.md) _2017-05-01 03:36:42 (First version)_
-1. [At least 88 containers fall from the stricken cargo ship Rena into the Bay of Plenty off New Zealand's North Island, including one containing the ](/news/2011/10/13/at-least-88-containers-fall-from-the-stricken-cargo-ship-rena-into-the-bay-of-plenty-off-new-zealand-s-north-island-including-one-containin.md) _(Current version)_

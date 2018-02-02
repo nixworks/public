@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/09/18/a-large-storm-in-new-zealand-leaves-100-000-people-without-power-and-takes-the-roof-off-stadium-southland-in-invercargill-on-the-south-islan.html)  [JSON](/news/2010/09/18/a-large-storm-in-new-zealand-leaves-100-000-people-without-power-and-takes-the-roof-off-stadium-southland-in-invercargill-on-the-south-islan.json)  [XML](/news/2010/09/18/a-large-storm-in-new-zealand-leaves-100-000-people-without-power-and-takes-the-roof-off-stadium-southland-in-invercargill-on-the-south-islan.xml)  
+
 ### [2010-09-18](/news/2010/09/18/index.md)
 
+##### New Zealand
 # A large storm in New Zealand leaves 100,000 people without power and takes the roof off Stadium Southland in Invercargill on the South Island. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20100918/ts_afp/nzealandstormweather)
+1. [AFP via Yahoo! News](https://news.yahoo.com/s/afp/20100918/ts_afp/nzealandstormweather)
 
 ### Related:
 

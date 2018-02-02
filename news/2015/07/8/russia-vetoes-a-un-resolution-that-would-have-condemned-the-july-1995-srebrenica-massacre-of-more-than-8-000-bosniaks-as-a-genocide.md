@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/07/8/russia-vetoes-a-un-resolution-that-would-have-condemned-the-july-1995-srebrenica-massacre-of-more-than-8-000-bosniaks-as-a-genocide.html)  [JSON](/news/2015/07/8/russia-vetoes-a-un-resolution-that-would-have-condemned-the-july-1995-srebrenica-massacre-of-more-than-8-000-bosniaks-as-a-genocide.json)  [XML](/news/2015/07/8/russia-vetoes-a-un-resolution-that-would-have-condemned-the-july-1995-srebrenica-massacre-of-more-than-8-000-bosniaks-as-a-genocide.xml)  
+
 ### [2015-07-8](/news/2015/07/8/index.md)
 
+##### Russia
 # Russia vetoes a UN resolution that would have condemned the July 1995 Srebrenica massacre of more than 8,000 Bosniaks as a genocide. 
 
 Russia vetoed a United Nations Security Council resolution on Wednesday that would have condemned the Srebrenica massacre as a genocide to mark the 20th anniversary of the killing of 8,000 Muslim men and boys.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/07/08/us-bosnia-srebrenica-un-idUSKCN0PI1W620150708)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150708&t=2&i=1062598892&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB670U8)
+1. [Reuters](https://www.reuters.com/article/2015/07/08/us-bosnia-srebrenica-un-idUSKCN0PI1W620150708)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20150708&t=2&i=1062598892&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB670U8)
 
 ### Related:
 

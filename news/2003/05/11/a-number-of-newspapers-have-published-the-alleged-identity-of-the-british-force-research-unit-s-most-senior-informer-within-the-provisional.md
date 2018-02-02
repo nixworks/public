@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/11/a-number-of-newspapers-have-published-the-alleged-identity-of-the-british-force-research-unit-s-most-senior-informer-within-the-provisional.html)  [JSON](/news/2003/05/11/a-number-of-newspapers-have-published-the-alleged-identity-of-the-british-force-research-unit-s-most-senior-informer-within-the-provisional.json)  [XML](/news/2003/05/11/a-number-of-newspapers-have-published-the-alleged-identity-of-the-british-force-research-unit-s-most-senior-informer-within-the-provisional.xml)  
+
 ### [2003-05-11](/news/2003/05/11/index.md)
 
+##### Force Research Unit
 #  A number of newspapers have published the alleged identity of the British Force Research Unit's most senior informer within the Provisional IRA, code-named Stakeknife, who is thought to have been head of the Provisional IRA's internal security force, charged with routing out informers like himself. The person named has fled.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/2/u-s-civilian-contractor-thomas-hamill-who-was-taken-hostage-by-iraqi-insurgents-on-april-9-is-found-by-u-s-forces-south-of-tikrit-after.html)  [JSON](/news/2004/05/2/u-s-civilian-contractor-thomas-hamill-who-was-taken-hostage-by-iraqi-insurgents-on-april-9-is-found-by-u-s-forces-south-of-tikrit-after.json)  [XML](/news/2004/05/2/u-s-civilian-contractor-thomas-hamill-who-was-taken-hostage-by-iraqi-insurgents-on-april-9-is-found-by-u-s-forces-south-of-tikrit-after.xml)  
+
 ### [2004-05-2](/news/2004/05/2/index.md)
 
+##### Iraqi insurgency
 #  U.S. civilian contractor Thomas Hamill, who was taken hostage by Iraqi insurgents on April 9, is found by U.S. forces south of Tikrit after escaping his captors. 
 
 Thomas Hamill is tired after his hostage ordeal in Iraq and excited to soon be returning home, his grandmother said Thursday.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://msnbc.msn.com/ID/4884602/)
 1. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Video/040505/tdy_curry_hamill_040505.standard.jpg)

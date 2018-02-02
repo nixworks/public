@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/9/four-people-are-stabbed-in-an-office-in-toronto-ontario-canada.html)  [JSON](/news/2014/04/9/four-people-are-stabbed-in-an-office-in-toronto-ontario-canada.json)  [XML](/news/2014/04/9/four-people-are-stabbed-in-an-office-in-toronto-ontario-canada.xml)  
+
 ### [2014-04-9](/news/2014/04/9/index.md)
 
+##### Toronto
 # Four people are stabbed in an office in Toronto, Ontario, Canada. 
 
 Police have identified the man accused of stabbing four employees at a North Toronto office building, saying he was in the process of being fired when he attacked his superiors. 
 
 
-### Source:
+### Sources:
 
 1. [CTV](http://toronto.ctvnews.ca/toronto-scissors-stabbing-suspect-in-custody-after-multiple-people-injured-1.1767944)
 1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1768097.1397057306!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)

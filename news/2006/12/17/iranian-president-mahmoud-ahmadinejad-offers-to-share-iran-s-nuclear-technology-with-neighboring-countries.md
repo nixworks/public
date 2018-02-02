@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/17/iranian-president-mahmoud-ahmadinejad-offers-to-share-iran-s-nuclear-technology-with-neighboring-countries.html)  [JSON](/news/2006/12/17/iranian-president-mahmoud-ahmadinejad-offers-to-share-iran-s-nuclear-technology-with-neighboring-countries.json)  [XML](/news/2006/12/17/iranian-president-mahmoud-ahmadinejad-offers-to-share-iran-s-nuclear-technology-with-neighboring-countries.xml)  
+
 ### [2006-12-17](/news/2006/12/17/index.md)
 
+##### President
 #  Iranian President Mahmoud Ahmadinejad offers to share Iran's nuclear technology with neighboring countries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Concorde Monitor](http://www.concordmonitor.com/apps/pbcs.dll/article?AID=/20061217/REPOSITORY/612170370/1013/48HOURS)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/17/conflict-in-iraq-a-fuel-truck-bomb-kills-98-people-south-of-baghdad-as-three-more-suicide-car-bombers-strike-the-iraqi-capital.html)  [JSON](/news/2005/07/17/conflict-in-iraq-a-fuel-truck-bomb-kills-98-people-south-of-baghdad-as-three-more-suicide-car-bombers-strike-the-iraqi-capital.json)  [XML](/news/2005/07/17/conflict-in-iraq-a-fuel-truck-bomb-kills-98-people-south-of-baghdad-as-three-more-suicide-car-bombers-strike-the-iraqi-capital.xml)  
+
 ### [2005-07-17](/news/2005/07/17/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: A fuel truck bomb kills 98 people south of Baghdad as three more suicide car bombers strike the Iraqi capital. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Economic Times](http://economictimes.indiatimes.com/articleshow/1173372.cms)
 

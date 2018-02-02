@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/13/the-uk-government-says-that-packages-sent-to-several-army-careers-offices-had-potentially-viable-devices-bearing-hallmarks-of-northern-irel.html)  [JSON](/news/2014/02/13/the-uk-government-says-that-packages-sent-to-several-army-careers-offices-had-potentially-viable-devices-bearing-hallmarks-of-northern-irel.json)  [XML](/news/2014/02/13/the-uk-government-says-that-packages-sent-to-several-army-careers-offices-had-potentially-viable-devices-bearing-hallmarks-of-northern-irel.xml)  
+
 ### [2014-02-13](/news/2014/02/13/index.md)
 
+##### 10 Downing Street
 # The UK Government says that packages sent to several army careers offices had "potentially viable devices bearing hallmarks of Northern Ireland related terrorism". 
 
 Four suspect packages delivered to army careers offices bear &quot;the hallmarks of Northern Ireland-related terrorism&quot;, Downing Street says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-26171896)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72964000/jpg/_72964655_5brightonsuspackage(4).jpg)

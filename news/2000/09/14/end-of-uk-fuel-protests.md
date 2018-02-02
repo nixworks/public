@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/09/14/end-of-uk-fuel-protests.html)  [JSON](/news/2000/09/14/end-of-uk-fuel-protests.json)  [XML](/news/2000/09/14/end-of-uk-fuel-protests.xml)  
+
 ### [2000-09-14](/news/2000/09/14/index.md)
 
+##### UK Fuel protests
 #  End of UK Fuel protests.
 
 

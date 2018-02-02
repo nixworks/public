@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/09/22/armagh-beat-kerry-at-croke-park-dublin-by-a-scoreline-of-1-12-to-0-14-to-win-their-first-all-ireland-senior-football-championship.html)  [JSON](/news/2002/09/22/armagh-beat-kerry-at-croke-park-dublin-by-a-scoreline-of-1-12-to-0-14-to-win-their-first-all-ireland-senior-football-championship.json)  [XML](/news/2002/09/22/armagh-beat-kerry-at-croke-park-dublin-by-a-scoreline-of-1-12-to-0-14-to-win-their-first-all-ireland-senior-football-championship.xml)  
+
 ### [2002-09-22](/news/2002/09/22/index.md)
 
+##### Armagh
 #  Armagh beat Kerry at Croke Park, Dublin by a scoreline of 1-12 to 0-14 to win their first All-Ireland Senior Football Championship.
 
 

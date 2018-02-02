@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/29/iranian-president-mahmoud-ahmadinejad-says-the-government-is-ready-for-a-deal-on-its-nuclear-program.html)  [JSON](/news/2009/10/29/iranian-president-mahmoud-ahmadinejad-says-the-government-is-ready-for-a-deal-on-its-nuclear-program.json)  [XML](/news/2009/10/29/iranian-president-mahmoud-ahmadinejad-says-the-government-is-ready-for-a-deal-on-its-nuclear-program.xml)  
+
 ### [2009-10-29](/news/2009/10/29/index.md)
 
+##### Iran
 #  Iranian President Mahmoud Ahmadinejad says the government is ready for a deal on its nuclear program. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jewish Telegraphic Agency](http://jta.org/news/article/2009/10/29/1008818/ahmadinejad-iran-ready-for-nuclear-cooperation)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=109930&sectionid=351020104)

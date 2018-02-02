@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/6/hamas-co-founder-mohammad-taha-aged-68-is-released-from-an-israeli-prison.html)  [JSON](/news/2004/05/6/hamas-co-founder-mohammad-taha-aged-68-is-released-from-an-israeli-prison.json)  [XML](/news/2004/05/6/hamas-co-founder-mohammad-taha-aged-68-is-released-from-an-israeli-prison.xml)  
+
 ### [2004-05-6](/news/2004/05/6/index.md)
 
+##### Hamas
 #  Hamas co-founder Mohammad Taha, aged 68, is released from an Israeli prison. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [INN](http://www.israelnn.com/news.php3?id=61947)
 

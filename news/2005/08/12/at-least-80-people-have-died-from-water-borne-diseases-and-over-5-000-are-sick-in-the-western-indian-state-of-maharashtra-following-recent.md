@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/12/at-least-80-people-have-died-from-water-borne-diseases-and-over-5-000-are-sick-in-the-western-indian-state-of-maharashtra-following-recent.html)  [JSON](/news/2005/08/12/at-least-80-people-have-died-from-water-borne-diseases-and-over-5-000-are-sick-in-the-western-indian-state-of-maharashtra-following-recent.json)  [XML](/news/2005/08/12/at-least-80-people-have-died-from-water-borne-diseases-and-over-5-000-are-sick-in-the-western-indian-state-of-maharashtra-following-recent.xml)  
+
 ### [2005-08-12](/news/2005/08/12/index.md)
 
+##### India
 #  At least 80 people have died from water-borne diseases and over 5,000 are sick in the western Indian state of Maharashtra following recent floods. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4144402.stm)
 

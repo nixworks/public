@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/23/an-as-yet-uncaptured-shooter-at-a-mall-in-the-t
 
 ### [2016-09-23](/news/2016/09/23/index.md)
 
+##### 2016 Cascade Mall shooting
 # An, as yet, uncaptured shooter at a mall in the town of Burlington, Washington kills at least three people and injures two others. 
 
 

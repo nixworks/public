@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/31/france-strongly-advises-its-citizens-to-leave-the-ivory-coast-1-500-french-nationals-remain-trapped-in-the-airport-of-the-commercial-capita.html)  [JSON](/news/2003/01/31/france-strongly-advises-its-citizens-to-leave-the-ivory-coast-1-500-french-nationals-remain-trapped-in-the-airport-of-the-commercial-capita.json)  [XML](/news/2003/01/31/france-strongly-advises-its-citizens-to-leave-the-ivory-coast-1-500-french-nationals-remain-trapped-in-the-airport-of-the-commercial-capita.xml)  
+
 ### [2003-01-31](/news/2003/01/31/index.md)
 
+##### Ivory Coast
 # France strongly advises its citizens to leave the Ivory Coast. 1,500 French nationals remain trapped in the airport of the commercial capital Abidjan, which is surrounded by a crowd of around 5,000 supporters of President Laurent Gbagbo. Last week, the French brokered a power-sharing deal between the Government and the Northern rebels.
 
 

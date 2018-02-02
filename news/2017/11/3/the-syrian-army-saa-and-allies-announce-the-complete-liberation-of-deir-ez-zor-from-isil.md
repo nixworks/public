@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/3/the-syrian-army-saa-and-allies-announce-the-comp
 
 ### [2017-11-3](/news/2017/11/3/index.md)
 
+##### Syrian Civil War
 # The Syrian Army (SAA) and allies announce the complete liberation of Deir ez-Zor from ISIL. 
 
 

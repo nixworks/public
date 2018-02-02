@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2004/07/28/roman-catholic-bishop-misael-vacca-ramirez-abducted-by-the-left-wing-rebel-group-national-liberation-army-eln-in-colombia-tells-local-t.html)  [JSON](/news/2004/07/28/roman-catholic-bishop-misael-vacca-ramirez-abducted-by-the-left-wing-rebel-group-national-liberation-army-eln-in-colombia-tells-local-t.json)  [XML](/news/2004/07/28/roman-catholic-bishop-misael-vacca-ramirez-abducted-by-the-left-wing-rebel-group-national-liberation-army-eln-in-colombia-tells-local-t.xml)  
+
 ### [2004-07-28](/news/2004/07/28/index.md)
 
+##### Roman Catholic
 #  Roman Catholic Bishop Misael Vacca Ramrez, abducted by the left-wing rebel group National Liberation Army (ELN) in Colombia, tells local television he has been set free. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/3931769.stm)
 
 ### Related:
 
-1. [Pope Benedict XVI tells Roman Catholic bishops around the world they must obey Summorum Pontificum, a papal order allowing priests to say the old-style Tridentine Mass, regardless of their opinion on it. ](/news/2011/05/13/pope-benedict-xvi-tells-roman-catholic-bishops-around-the-world-they-must-obey-summorum-pontificum-a-papal-order-allowing-priests-to-say-th.md) _Context: Roman Catholic, bishop_
-2. [President of Venezuela Hugo Chavez orders a review of Venezuela's ties with the Vatican following tensions between the government and Roman Catholic bishops. ](/news/2010/07/15/president-of-venezuela-hugo-cha-vez-orders-a-review-of-venezuela-s-ties-with-the-vatican-following-tensions-between-the-government-and-roman.md) _Context: Roman Catholic, bishop_
-3. [ At the end of their three-week synod in the Vatican, more than 200 African Roman Catholic bishops issue a 12-page document urging what they call corrupt political leaders on the continent to repent their sins or resign and criticising multinational companies who exploit and destroy the earth. ](/news/2009/10/23/at-the-end-of-their-three-week-synod-in-the-vatican-more-than-200-african-roman-catholic-bishops-issue-a-12-page-document-urging-what-they.md) _Context: Roman Catholic, bishop_
-4. [ Pope Benedict XVI announces he is to hold a special meeting of Roman Catholic bishops to discuss the concerns and challenges of the Church in the Middle East in October 2010. ](/news/2009/09/19/pope-benedict-xvi-announces-he-is-to-hold-a-special-meeting-of-roman-catholic-bishops-to-discuss-the-concerns-and-challenges-of-the-church.md) _Context: Roman Catholic, bishop_
-5. [ A senior Irish Catholic bishop says Roman Catholics can vote "Yes" in the country's second referendum on the Treaty of Lisbon "in good conscience". ](/news/2009/09/17/a-senior-irish-catholic-bishop-says-roman-catholics-can-vote-yes-in-the-country-s-second-referendum-on-the-treaty-of-lisbon-in-good-cons.md) _Context: Roman Catholic, bishop_
+1. [ A roadside bomb hits a United Nations Interim Force in Lebanon patrol, killing six Spanish-speaking peacekeepers (three of whom were Colombian) and injuring two others. ](/news/2018/06/24/a-roadside-bomb-hits-a-united-nations-interim-force-in-lebanon-patrol-killing-six-spanish-speaking-peacekeepers-three-of-whom-were-colomb.md) _Context: Colombia_
+2. [A landslide pushes a bus into a ravine in Colombia, killing 13 people. ](/news/2018/01/22/a-landslide-pushes-a-bus-into-a-ravine-in-colombia-killing-13-people.md) _Context: Colombia_
+3. [A Colombian Army Mi-17 helicopter crashes near Segovia, Antioquia, in northern Colombia, killing at least ten people. ](/news/2018/01/16/a-colombian-army-mi-17-helicopter-crashes-near-segovia-antioquia-in-northern-colombia-killing-at-least-ten-people.md) _Context: Colombia_
+4. [A partially completed bridge in Cundinamarca, Colombia, collapses, killing at least 10 workers. ](/news/2018/01/15/a-partially-completed-bridge-in-cundinamarca-colombia-collapses-killing-at-least-10-workers.md) _Context: Colombia_
+5. [Pope Francis arrives in Colombia for a five-day visit. In early 2016, Francis promised he would visit the South American country once a civil war peace agreement was in place. ](/news/2017/09/6/pope-francis-arrives-in-colombia-for-a-five-day-visit-in-early-2016-francis-promised-he-would-visit-the-south-american-country-once-a-civi.md) _Context: Colombia_

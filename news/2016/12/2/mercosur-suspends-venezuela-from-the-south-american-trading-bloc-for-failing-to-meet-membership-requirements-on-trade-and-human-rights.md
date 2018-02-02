@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/2/mercosur-suspends-venezuela-from-the-south-ameri
 
 ### [2016-12-2](/news/2016/12/2/index.md)
 
+##### Mercosur
 # Mercosur suspends Venezuela from the South American trading bloc for failing to meet membership requirements on trade and human rights. 
 
 The bloc suspends Venezuela for failing to meet basic trade and human rights rules.

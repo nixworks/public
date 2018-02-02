@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/24/today-is-the-deadline-for-u-s-residents-to-sign-up-without-penalty-for-the-patient-protection-and-affordable-care-act-better-known-as-obam.html)  [JSON](/news/2013/12/24/today-is-the-deadline-for-u-s-residents-to-sign-up-without-penalty-for-the-patient-protection-and-affordable-care-act-better-known-as-obam.json)  [XML](/news/2013/12/24/today-is-the-deadline-for-u-s-residents-to-sign-up-without-penalty-for-the-patient-protection-and-affordable-care-act-better-known-as-obam.xml)  
+
 ### [2013-12-24](/news/2013/12/24/index.md)
 
+##### Obamacare
 # Today is the deadline for U.S. residents to sign up without penalty for the Patient Protection and Affordable Care Act, better known as Obamacare. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/politics/2013/12/22/monday-deadline-for-obamacare-is-milestone-and-marker-uncertainty/)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/22/human-rights-watch-hrw-releases-a-report-about-mentally-ill-inmates-of-united-states-prisons-it-concludes-that-mentally-ill-offenders-ar.html)  [JSON](/news/2003/10/22/human-rights-watch-hrw-releases-a-report-about-mentally-ill-inmates-of-united-states-prisons-it-concludes-that-mentally-ill-offenders-ar.json)  [XML](/news/2003/10/22/human-rights-watch-hrw-releases-a-report-about-mentally-ill-inmates-of-united-states-prisons-it-concludes-that-mentally-ill-offenders-ar.xml)  
+
 ### [2003-10-22](/news/2003/10/22/index.md)
 
+##### Human Rights Watch
 #  Human Rights Watch (HRW) releases a report about mentally ill inmates of United States prisons. It concludes that mentally ill offenders are frequently physically abused, punished by staff for self-destructive behavior and not given the treatment they need.
 
 
@@ -7,7 +11,7 @@
 
 ### Related:
 
-1. [ A Human Rights Watch report states that the United States, Britain, the Netherlands and Canada rely on "flimsy" diplomacy in attempts to send foreign terror suspects back to countries that routinely use torture against their Prisoners. ](/news/2005/04/15/a-human-rights-watch-report-states-that-the-united-states-britain-the-netherlands-and-canada-rely-on-flimsy-diplomacy-in-attempts-to-se.md) _Context: Human Rights Watch, prison_
+1. [Human Rights Watch releases a report detailing the alleged systematic rape of Rohingya women and girls by Myanmar's security forces in Rakhine State. ](/news/2017/11/16/human-rights-watch-releases-a-report-detailing-the-alleged-systematic-rape-of-rohingya-women-and-girls-by-myanmar-s-security-forces-in-rakhi.md) _Context: Human Rights Watch_
 2. [Israel denies entry to Omar Shakir, a researcher for Human Rights Watch and an American citizen, because the organization engages in so-called Palestinian propaganda. HRW's Sari Bashi said, "This Israeli government has been narrowing the space for democratic activity," by closing the country off to critics. Later, the Israel government would grant Mr. Shakir a tourist visa while considering HRW's appeal on the work visa. ](/news/2017/02/24/israel-denies-entry-to-omar-shakir-a-researcher-for-human-rights-watch-and-an-american-citizen-because-the-organization-engages-in-so-call.md) _Context: Human Rights Watch_
 3. [Human Rights Watch says that Kurdish Regional Government forces have destroyed Arab homes and villages in northern Iraq in what may amount to a war crime. ](/news/2016/11/13/human-rights-watch-says-that-kurdish-regional-government-forces-have-destroyed-arab-homes-and-villages-in-northern-iraq-in-what-may-amount-t.md) _Context: Human Rights Watch_
 4. [Egypt tries 237 activists, who face jail terms of up to three years, arrested for protesting without permits against President Abdel Fattah el-Sisi. Thousands demonstrated this month following the Sisi government's decision to hand over two uninhabited islands in the Straits of Tiran to Saudi Arabia. Human Rights Watch says at least 382 had been arrested. ](/news/2016/04/30/egypt-tries-237-activists-who-face-jail-terms-of-up-to-three-years-arrested-for-protesting-without-permits-against-president-abdel-fattah.md) _Context: Human Rights Watch_

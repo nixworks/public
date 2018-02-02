@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/2/negotiators-for-the-european-commission-and-the-
 
 ### [2016-02-2](/news/2016/02/2/index.md)
 
+##### European Commission
 # Negotiators for the European Commission and the United States agree on a pact protecting data transfers across the North Atlantic by companies such as Google and Amazon, imposing on such companies certain privacy shield obligations. 
 
  European and U.S. negotiators agreed a data pact on Tuesday that should prevent European Union regulators from restricting data transfers by companies such as 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/01/29/former-papua-new-guinea-army-colonel-yaura-sasa-who-led-a-recent-coup-d-a-c-tat-attempt-to-restore-former-prime-minister-sir-michael-somare-t.html)  [JSON](/news/2012/01/29/former-papua-new-guinea-army-colonel-yaura-sasa-who-led-a-recent-coup-d-a-c-tat-attempt-to-restore-former-prime-minister-sir-michael-somare-t.json)  [XML](/news/2012/01/29/former-papua-new-guinea-army-colonel-yaura-sasa-who-led-a-recent-coup-d-a-c-tat-attempt-to-restore-former-prime-minister-sir-michael-somare-t.xml)  
+
 ### [2012-01-29](/news/2012/01/29/index.md)
 
+##### Papua New Guinea
 # Former Papua New Guinea Army Colonel Yaura Sasa, who led a recent coup d'etat attempt to restore former Prime Minister Sir Michael Somare to power, is charged with mutiny. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/01/29/us-png-politics-update-idUSTRE80S04N20120129)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/01/29/us-png-politics-update-idUSTRE80S04N20120129)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

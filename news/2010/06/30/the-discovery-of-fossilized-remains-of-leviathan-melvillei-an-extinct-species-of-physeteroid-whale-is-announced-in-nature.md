@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/30/the-discovery-of-fossilized-remains-of-leviathan-melvillei-an-extinct-species-of-physeteroid-whale-is-announced-in-nature.html)  [JSON](/news/2010/06/30/the-discovery-of-fossilized-remains-of-leviathan-melvillei-an-extinct-species-of-physeteroid-whale-is-announced-in-nature.json)  [XML](/news/2010/06/30/the-discovery-of-fossilized-remains-of-leviathan-melvillei-an-extinct-species-of-physeteroid-whale-is-announced-in-nature.xml)  
+
 ### [2010-06-30](/news/2010/06/30/index.md)
 
+##### Leviathan melvillei
 # The discovery of fossilized remains of "Leviathan melvillei", an extinct species of physeteroid whale, is announced in "Nature". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g373DLF0KDnyKq0uMHZfVYGImg4wD9GLNGCG5)
 2. [BBC](http://news.bbc.co.uk/2/hi/science_and_environment/10461066.stm)

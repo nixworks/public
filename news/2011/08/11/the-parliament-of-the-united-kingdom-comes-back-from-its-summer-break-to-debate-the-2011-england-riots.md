@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/11/the-parliament-of-the-united-kingdom-comes-back-from-its-summer-break-to-debate-the-2011-england-riots.html)  [JSON](/news/2011/08/11/the-parliament-of-the-united-kingdom-comes-back-from-its-summer-break-to-debate-the-2011-england-riots.json)  [XML](/news/2011/08/11/the-parliament-of-the-united-kingdom-comes-back-from-its-summer-break-to-debate-the-2011-england-riots.xml)  
+
 ### [2011-08-11](/news/2011/08/11/index.md)
 
+##### Parliament
 # The Parliament of the United Kingdom comes back from its summer break to debate the 2011 England riots. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/uk-pm-vows-fightback-birmingham-simmers-20110811-1in72.html)
 

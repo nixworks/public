@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2013/06/18/the-san-antonio-spurs-lead-by-5-points-against-the-miami-heat-with-28-seconds-remaining-in-game-6-of-the-nba-finals-as-a-victory-will-secure.html)  [JSON](/news/2013/06/18/the-san-antonio-spurs-lead-by-5-points-against-the-miami-heat-with-28-seconds-remaining-in-game-6-of-the-nba-finals-as-a-victory-will-secure.json)  [XML](/news/2013/06/18/the-san-antonio-spurs-lead-by-5-points-against-the-miami-heat-with-28-seconds-remaining-in-game-6-of-the-nba-finals-as-a-victory-will-secure.xml)  
+
 ### [2013-06-18](/news/2013/06/18/index.md)
 
+##### 
 # The San Antonio Spurs lead by 5 points against the Miami Heat with 28 seconds remaining in game 6 of the NBA finals as a victory will secure a fifth NBA title for the Spurs. They fail to collect a defensive rebound, allow Miami to score back-to-back three-pointers and go 1 out of 2 on the free throw line. The game is sent to overtime where they eventually lose by three points. 
 
 

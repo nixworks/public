@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/17/death-of-yasser-arafat-le-monde-reports-that-former-palestinian-leader-yasser-arafat-suffered-from-cirrhosis-before-dying.html)  [JSON](/news/2004/11/17/death-of-yasser-arafat-le-monde-reports-that-former-palestinian-leader-yasser-arafat-suffered-from-cirrhosis-before-dying.json)  [XML](/news/2004/11/17/death-of-yasser-arafat-le-monde-reports-that-former-palestinian-leader-yasser-arafat-suffered-from-cirrhosis-before-dying.xml)  
+
 ### [2004-11-17](/news/2004/11/17/index.md)
 
+##### Le Monde
 #  Death of Yasser Arafat: Le Monde reports that former Palestinian leader Yasser Arafat suffered from cirrhosis before dying. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL, Ireland](http://212.2.162.45/news/story.asp?j=124432500&p=yz4433zx6&n=124433260)
 

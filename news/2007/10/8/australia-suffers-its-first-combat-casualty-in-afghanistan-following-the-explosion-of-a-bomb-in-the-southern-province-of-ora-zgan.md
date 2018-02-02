@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/8/australia-suffers-its-first-combat-casualty-in-afghanistan-following-the-explosion-of-a-bomb-in-the-southern-province-of-ora-zgan.html)  [JSON](/news/2007/10/8/australia-suffers-its-first-combat-casualty-in-afghanistan-following-the-explosion-of-a-bomb-in-the-southern-province-of-ora-zgan.json)  [XML](/news/2007/10/8/australia-suffers-its-first-combat-casualty-in-afghanistan-following-the-explosion-of-a-bomb-in-the-southern-province-of-ora-zgan.xml)  
+
 ### [2007-10-8](/news/2007/10/8/index.md)
 
+##### Australia
 #  Australia suffers its first combat casualty in Afghanistan following the explosion of a bomb in the southern province of Oruzgan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Canadian Press](http://canadianpress.google.com/article/ALeqM5jMuOaMNR8CxHbo-VCSmZwRnr9uDg)
 

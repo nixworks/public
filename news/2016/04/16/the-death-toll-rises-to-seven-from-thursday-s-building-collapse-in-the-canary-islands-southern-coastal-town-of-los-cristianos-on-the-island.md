@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/16/the-death-toll-rises-to-seven-from-thursday-s-b
 
 ### [2016-04-16](/news/2016/04/16/index.md)
 
+##### Canary Islands'
 # The death toll rises to seven from Thursday's building collapse in the Canary Islands' southern coastal town of Los Cristianos on the island of Tenerife. 
 
 MADRID (AP) — Spanish emergency services on Saturday recovered the body of a man from the rubble of a four-story apartment building that collapsed in a popular Canary Island tourist town, raising the death toll to seven.…

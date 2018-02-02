@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/28/the-2011-united-nations-climate-change-conference-also-known-as-cop-17-begins-in-durban-south-africa.html)  [JSON](/news/2011/11/28/the-2011-united-nations-climate-change-conference-also-known-as-cop-17-begins-in-durban-south-africa.json)  [XML](/news/2011/11/28/the-2011-united-nations-climate-change-conference-also-known-as-cop-17-begins-in-durban-south-africa.xml)  
+
 ### [2011-11-28](/news/2011/11/28/index.md)
 
+##### 2011 United Nations Climate Change Conference
 # The 2011 United Nations Climate Change Conference (also known as COP 17) begins in Durban, South Africa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Joburg.org.za](http://www.joburg.org.za/index.php?option=com_content&view=article&id=7469&catid=120&Itemid=201)
 

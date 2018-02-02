@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/1/the-new-minatomirai-line-subway-opens-in-yokohama-japan.html)  [JSON](/news/2004/02/1/the-new-minatomirai-line-subway-opens-in-yokohama-japan.json)  [XML](/news/2004/02/1/the-new-minatomirai-line-subway-opens-in-yokohama-japan.xml)  
+
 ### [2004-02-1](/news/2004/02/1/index.md)
 
+##### Minatomirai Line
 #  The new Minatomirai Line subway opens in Yokohama, Japan.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/10/libya-and-chad-sign-seven-agreements-to-boost-trade-security-and-political-co-operation.html)  [JSON](/news/2009/08/10/libya-and-chad-sign-seven-agreements-to-boost-trade-security-and-political-co-operation.json)  [XML](/news/2009/08/10/libya-and-chad-sign-seven-agreements-to-boost-trade-security-and-political-co-operation.xml)  
+
 ### [2009-08-10](/news/2009/08/10/index.md)
 
+##### Libya
 #  Libya and Chad sign seven agreements to boost trade, security and political co-operation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=85&art_id=nw20090809225617625C829599)
 

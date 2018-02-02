@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/08/23/israel-s-president-shimon-peres-stresses-that-circumcision-is-at-the-core-of-jewish-identity-in-a-letter-on-a-controversy-in-germany-over.html)  [JSON](/news/2012/08/23/israel-s-president-shimon-peres-stresses-that-circumcision-is-at-the-core-of-jewish-identity-in-a-letter-on-a-controversy-in-germany-over.json)  [XML](/news/2012/08/23/israel-s-president-shimon-peres-stresses-that-circumcision-is-at-the-core-of-jewish-identity-in-a-letter-on-a-controversy-in-germany-over.xml)  
+
 ### [2012-08-23](/news/2012/08/23/index.md)
 
+##### Shimon Peres
 # Israel's President Shimon Peres stresses that circumcision is "at the core of Jewish identity", in a letter on a controversy in Germany over circumcision. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/peres-circumcision-core-jewish-identity-184757706.html?_esi=1)
+1. [AFP via Yahoo! News](https://news.yahoo.com/peres-circumcision-core-jewish-identity-184757706.html?_esi=1)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/4/an-earthquake-occurs-offshore-near-the-philippines-city-of-surigao-causing-property-damage.html)  [JSON](/news/2011/03/4/an-earthquake-occurs-offshore-near-the-philippines-city-of-surigao-causing-property-damage.json)  [XML](/news/2011/03/4/an-earthquake-occurs-offshore-near-the-philippines-city-of-surigao-causing-property-damage.xml)  
+
 ### [2011-03-4](/news/2011/03/4/index.md)
 
+##### earthquake
 # An earthquake occurs offshore near the Philippines city of Surigao causing property damage. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Atlanta Journal Constitution](http://www.ajc.com/news/nation-world/5-7-magnitude-quake-860163.html)
 

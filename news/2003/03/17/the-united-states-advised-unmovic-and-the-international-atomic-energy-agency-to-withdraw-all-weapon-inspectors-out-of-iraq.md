@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/17/the-united-states-advised-unmovic-and-the-international-atomic-energy-agency-to-withdraw-all-weapon-inspectors-out-of-iraq.html)  [JSON](/news/2003/03/17/the-united-states-advised-unmovic-and-the-international-atomic-energy-agency-to-withdraw-all-weapon-inspectors-out-of-iraq.json)  [XML](/news/2003/03/17/the-united-states-advised-unmovic-and-the-international-atomic-energy-agency-to-withdraw-all-weapon-inspectors-out-of-iraq.xml)  
+
 ### [2003-03-17](/news/2003/03/17/index.md)
 
+##### UNMOVIC
 #  The United States advised UNMOVIC and the International Atomic Energy Agency to withdraw all weapon inspectors out of Iraq;
 
 

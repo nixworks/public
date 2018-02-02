@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/6/loretta-lynch-the-attorney-general-of-the-united
 
 ### [2016-07-6](/news/2016/07/6/index.md)
 
+##### email server
 # Loretta Lynch, the Attorney General of the United States, closes the investigation into Hillary Clinton's use of a personal email system to conduct official business without charges being laid. 
 
 

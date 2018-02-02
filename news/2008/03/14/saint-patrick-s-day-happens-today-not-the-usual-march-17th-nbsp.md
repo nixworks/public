@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/14/saint-patrick-s-day-happens-today-not-the-usual-march-17th-nbsp.html)  [JSON](/news/2008/03/14/saint-patrick-s-day-happens-today-not-the-usual-march-17th-nbsp.json)  [XML](/news/2008/03/14/saint-patrick-s-day-happens-today-not-the-usual-march-17th-nbsp.xml)  
+
 ### [2008-03-14](/news/2008/03/14/index.md)
 
+##### Saint Patrick's Day
 #  Saint Patrick's Day happens today, not the usual March 17th.&nbsp; 
 
 
 
 
-### Source:
+### Sources:
 
 1. [USA Today](http://usatoday30.usatoday.com/news/religion/2008-03-05-stpatrick_N.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/1/ford-announces-that-their-current-chief-executive-officer-alan-mulally-will-be-retiring-in-july-and-that-their-chief-operating-officer-ma.html)  [JSON](/news/2014/05/1/ford-announces-that-their-current-chief-executive-officer-alan-mulally-will-be-retiring-in-july-and-that-their-chief-operating-officer-ma.json)  [XML](/news/2014/05/1/ford-announces-that-their-current-chief-executive-officer-alan-mulally-will-be-retiring-in-july-and-that-their-chief-operating-officer-ma.xml)  
+
 ### [2014-05-1](/news/2014/05/1/index.md)
 
+##### Ford
 # Ford announces that their current chief executive officer, Alan Mulally, will be retiring in July, and that their chief operating officer Mark Fields will be taking his place. 
 
 Ford chief executive Alan Mulally is to retire in July, and will be replaced by chief operating officer Mark Fields, the company announces.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-27238248)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71826000/jpg/_71826959_ford.good.logo.g.jpg)

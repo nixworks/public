@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/2/the-south-african-national-congress-condemns-the-most-reverend-desmond-tutu-s-criticism-of-the-party.html)  [JSON](/news/2009/04/2/the-south-african-national-congress-condemns-the-most-reverend-desmond-tutu-s-criticism-of-the-party.json)  [XML](/news/2009/04/2/the-south-african-national-congress-condemns-the-most-reverend-desmond-tutu-s-criticism-of-the-party.xml)  
+
 ### [2009-04-2](/news/2009/04/2/index.md)
 
+##### South Africa
 #  The South African National Congress condemns the Most Reverend Desmond Tutu's criticism of the party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7979952.stm)
 

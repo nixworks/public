@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/28/a-u-s-official-appears-in-court-charged-with-the-murder-of-two-motorcyclists-shot-dead-in-lahore-pakistan-he-may-be-executed-if-found-gui.html)  [JSON](/news/2011/01/28/a-u-s-official-appears-in-court-charged-with-the-murder-of-two-motorcyclists-shot-dead-in-lahore-pakistan-he-may-be-executed-if-found-gui.json)  [XML](/news/2011/01/28/a-u-s-official-appears-in-court-charged-with-the-murder-of-two-motorcyclists-shot-dead-in-lahore-pakistan-he-may-be-executed-if-found-gui.xml)  
+
 ### [2011-01-28](/news/2011/01/28/index.md)
 
+##### Lahore
 # A U.S. official appears in court charged with the murder of two motorcyclists shot dead in Lahore, Pakistan. He may be executed if found guilty. 
 
 A US consular employee admits shooting dead two motorcyclists on a busy street in the Pakistani city of Lahore, but says it was self-defence.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12305049)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/48333000/gif/_48333888_bn-448x252.gif)

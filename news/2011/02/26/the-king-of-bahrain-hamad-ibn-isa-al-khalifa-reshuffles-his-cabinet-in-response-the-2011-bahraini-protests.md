@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/26/the-king-of-bahrain-hamad-ibn-isa-al-khalifa-reshuffles-his-cabinet-in-response-the-2011-bahraini-protests.html)  [JSON](/news/2011/02/26/the-king-of-bahrain-hamad-ibn-isa-al-khalifa-reshuffles-his-cabinet-in-response-the-2011-bahraini-protests.json)  [XML](/news/2011/02/26/the-king-of-bahrain-hamad-ibn-isa-al-khalifa-reshuffles-his-cabinet-in-response-the-2011-bahraini-protests.xml)  
+
 ### [2011-02-26](/news/2011/02/26/index.md)
 
+##### King of Bahrain
 # The King of Bahrain Hamad ibn Isa Al Khalifa reshuffles his Cabinet in response the 2011 Bahraini protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/meast/02/26/bahrain.protests/index.html?eref=edition)
 

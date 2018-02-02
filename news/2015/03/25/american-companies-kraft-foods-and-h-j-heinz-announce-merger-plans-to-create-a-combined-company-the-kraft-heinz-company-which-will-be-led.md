@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/03/25/american-companies-kraft-foods-and-h-j-heinz-announce-merger-plans-to-create-a-combined-company-the-kraft-heinz-company-which-will-be-led.html)  [JSON](/news/2015/03/25/american-companies-kraft-foods-and-h-j-heinz-announce-merger-plans-to-create-a-combined-company-the-kraft-heinz-company-which-will-be-led.json)  [XML](/news/2015/03/25/american-companies-kraft-foods-and-h-j-heinz-announce-merger-plans-to-create-a-combined-company-the-kraft-heinz-company-which-will-be-led.xml)  
+
 ### [2015-03-25](/news/2015/03/25/index.md)
 
+##### Kraft Foods
 # American companies Kraft Foods and H.J. Heinz announce merger plans to create a combined company, The Kraft Heinz Company, which will be led by the present CEO of Heinz, Bernardo Hees. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/03/25/us-kraft-m-a-heinz-idUSKBN0ML0YK20150325)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150325&t=2&i=1035345102&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB2O13J)
+1. [Reuters](https://www.reuters.com/article/2015/03/25/us-kraft-m-a-heinz-idUSKBN0ML0YK20150325)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20150325&t=2&i=1035345102&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB2O13J)
 
 ### Related:
 

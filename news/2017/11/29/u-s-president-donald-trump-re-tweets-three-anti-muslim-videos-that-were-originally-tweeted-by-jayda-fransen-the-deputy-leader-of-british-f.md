@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/29/u-s-president-donald-trump-re-tweets-three-anti
 
 ### [2017-11-29](/news/2017/11/29/index.md)
 
+##### Donald Trump on social media
 # U.S. President Donald Trump re-tweets three anti-Muslim videos that were originally tweeted by Jayda Fransen, the deputy leader of British far-right political party Britain First, prompting international condemnation and criticism. 
 
 UK Prime Minister Theresa May condemns the tweets and says Britain First &quot;peddle lies&quot;.
@@ -27,8 +28,8 @@ UK Prime Minister Theresa May condemns the tweets and says Britain First &quot;p
 
 ### Related:
 
-1. [U.S. President Donald Trump commutes the prison sentence of Sholom Rubashkin, who in 2009 was sentenced to 27 years in prison for bank fraud and money laundering. ](/news/2017/12/20/u-s-president-donald-trump-commutes-the-prison-sentence-of-sholom-rubashkin-who-in-2009-was-sentenced-to-27-years-in-prison-for-bank-fraud.md) _Context: Donald Trump, U.S. President_
-2. [U.S. President Donald Trump announces the designation of North Korea as a state sponsor of terrorism. ](/news/2017/11/20/u-s-president-donald-trump-announces-the-designation-of-north-korea-as-a-state-sponsor-of-terrorism.md) _Context: Donald Trump, U.S. President_
-3. [U.S. President Donald Trump's main social media account is suspended for 11 minutes. Twitter blames the incident on an employee and says it is "taking steps to prevent this from happening again." ](/news/2017/11/2/u-s-president-donald-trump-s-main-social-media-account-is-suspended-for-11-minutes-twitter-blames-the-incident-on-an-employee-and-says-it.md) _Context: Donald Trump, Donald Trump on social media_
-4. [West Virginia Governor Jim Justice announces, during U.S. President Donald Trump's rally in Huntington, he is changing his party affiliation from Democratic to Republican. ](/news/2017/08/3/west-virginia-governor-jim-justice-announces-during-u-s-president-donald-trump-s-rally-in-huntington-he-is-changing-his-party-affiliation.md) _Context: Donald Trump, U.S. President_
-5. [CNN is accused of threatening to reveal the personal identity of a Reddit user who made a GIF depicting United States President Donald Trump tackling a man to the ground, with CNN's logo superimposed on the man's face. The GIF was modified and posted on Trump's Twitter feed. ](/news/2017/07/4/cnn-is-accused-of-threatening-to-reveal-the-personal-identity-of-a-reddit-user-who-made-a-gif-depicting-united-states-president-donald-trump.md) _Context: Donald Trump, Donald Trump on social media_
+1. [Twitter, in response to criticism over its handling of U.S. President Donald Trump's account, says it will not block world leaders or remove their controversial tweets. ](/news/2018/01/5/twitter-in-response-to-criticism-over-its-handling-of-u-s-president-donald-trump-s-account-says-it-will-not-block-world-leaders-or-remove.md) _Context: Donald Trump, Donald Trump on social media_
+2. [U.S. President Donald Trump commutes the prison sentence of Sholom Rubashkin, who in 2009 was sentenced to 27 years in prison for bank fraud and money laundering. ](/news/2017/12/20/u-s-president-donald-trump-commutes-the-prison-sentence-of-sholom-rubashkin-who-in-2009-was-sentenced-to-27-years-in-prison-for-bank-fraud.md) _Context: Donald Trump, U.S. President_
+3. [U.S. President Donald Trump announces the designation of North Korea as a state sponsor of terrorism. ](/news/2017/11/20/u-s-president-donald-trump-announces-the-designation-of-north-korea-as-a-state-sponsor-of-terrorism.md) _Context: Donald Trump, U.S. President_
+4. [U.S. President Donald Trump's main social media account is suspended for 11 minutes. Twitter blames the incident on an employee and says it is "taking steps to prevent this from happening again." ](/news/2017/11/2/u-s-president-donald-trump-s-main-social-media-account-is-suspended-for-11-minutes-twitter-blames-the-incident-on-an-employee-and-says-it.md) _Context: Donald Trump, Donald Trump on social media_
+5. [West Virginia Governor Jim Justice announces, during U.S. President Donald Trump's rally in Huntington, he is changing his party affiliation from Democratic to Republican. ](/news/2017/08/3/west-virginia-governor-jim-justice-announces-during-u-s-president-donald-trump-s-rally-in-huntington-he-is-changing-his-party-affiliation.md) _Context: Donald Trump, U.S. President_

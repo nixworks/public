@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/17/giorgi-margvelashvili-is-sworn-in-as-the-president-of-georgia-following-the-victory-in-the-october-election.html)  [JSON](/news/2013/11/17/giorgi-margvelashvili-is-sworn-in-as-the-president-of-georgia-following-the-victory-in-the-october-election.json)  [XML](/news/2013/11/17/giorgi-margvelashvili-is-sworn-in-as-the-president-of-georgia-following-the-victory-in-the-october-election.xml)  
+
 ### [2013-11-17](/news/2013/11/17/index.md)
 
+##### Giorgi Margvelashvili
 # Giorgi Margvelashvili is sworn in as the President of Georgia following the victory in the October election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Civil Georgia](http://civil.ge/eng/article.php?id=26692)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/10/at-least-36-people-die-after-an-overloaded-boat-capsizes-on-the-ganges-river-in-the-buxar-district-of-india-s-bihar-state.html)  [JSON](/news/2010/10/10/at-least-36-people-die-after-an-overloaded-boat-capsizes-on-the-ganges-river-in-the-buxar-district-of-india-s-bihar-state.json)  [XML](/news/2010/10/10/at-least-36-people-die-after-an-overloaded-boat-capsizes-on-the-ganges-river-in-the-buxar-district-of-india-s-bihar-state.xml)  
+
 ### [2010-10-10](/news/2010/10/10/index.md)
 
+##### Ganges River
 # At least 36 people die after an overloaded boat capsizes on the Ganges River in the Buxar district of India's Bihar state. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11490697)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

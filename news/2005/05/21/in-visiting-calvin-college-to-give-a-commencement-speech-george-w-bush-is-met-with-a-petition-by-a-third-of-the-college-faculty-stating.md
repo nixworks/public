@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/21/in-visiting-calvin-college-to-give-a-commencement-speech-george-w-bush-is-met-with-a-petition-by-a-third-of-the-college-faculty-stating.html)  [JSON](/news/2005/05/21/in-visiting-calvin-college-to-give-a-commencement-speech-george-w-bush-is-met-with-a-petition-by-a-third-of-the-college-faculty-stating.json)  [XML](/news/2005/05/21/in-visiting-calvin-college-to-give-a-commencement-speech-george-w-bush-is-met-with-a-petition-by-a-third-of-the-college-faculty-stating.xml)  
+
 ### [2005-05-21](/news/2005/05/21/index.md)
 
+##### Calvin College
 #  In visiting Calvin College to give a commencement speech, George W. Bush is met with a petition by a third of the college faculty, stating "We believe your administration has launched an unjust and unjustified war in Iraq.", and strongly criticizing his policies. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,157262,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/10/three-candidates-are-put-forward-to-become-pres
 
 ### [2016-03-10](/news/2016/03/10/index.md)
 
+##### Myanmar's president's office
 # Three candidates are put forward to become President of Myanmar: Htin Kyaw and Sai Nyunt Lwin from the National League for Democracy and Khin Aung Myint from the military. 
 
 A trusted aide of Aung San Suu Kyi looks certain to be become Myanmar&#039;s next president.

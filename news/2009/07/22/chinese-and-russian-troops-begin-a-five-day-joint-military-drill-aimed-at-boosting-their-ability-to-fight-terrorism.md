@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/22/chinese-and-russian-troops-begin-a-five-day-joint-military-drill-aimed-at-boosting-their-ability-to-fight-terrorism.html)  [JSON](/news/2009/07/22/chinese-and-russian-troops-begin-a-five-day-joint-military-drill-aimed-at-boosting-their-ability-to-fight-terrorism.json)  [XML](/news/2009/07/22/chinese-and-russian-troops-begin-a-five-day-joint-military-drill-aimed-at-boosting-their-ability-to-fight-terrorism.xml)  
+
 ### [2009-07-22](/news/2009/07/22/index.md)
 
+##### China
 #  Chinese and Russian troops begin a five-day joint military drill, aimed at boosting their ability to fight terrorism. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2009-07/22/content_11750125.htm)
 

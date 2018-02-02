@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/14/ra-c-jean-hinse-a-quebec-man-wrongly-convicted-of-a-crime-in-the-1960s-before-being-acquitted-by-the-supreme-court-of-canada-30-years-later-r.html)  [JSON](/news/2011/04/14/ra-c-jean-hinse-a-quebec-man-wrongly-convicted-of-a-crime-in-the-1960s-before-being-acquitted-by-the-supreme-court-of-canada-30-years-later-r.json)  [XML](/news/2011/04/14/ra-c-jean-hinse-a-quebec-man-wrongly-convicted-of-a-crime-in-the-1960s-before-being-acquitted-by-the-supreme-court-of-canada-30-years-later-r.xml)  
+
 ### [2011-04-14](/news/2011/04/14/index.md)
 
+##### Rejean Hinse
 # Rejean Hinse, a Quebec man wrongly convicted of a crime in the 1960s before being acquitted by the Supreme Court of Canada 30 years later receives a record $13.1 million in compensation. 
 
 R&eacute;jean Hinse, a Quebecer who was wrongfully imprisoned in the 1960s before being acquitted by the Supreme Court of Canada 30 years later, is getting a record $13.1 million in compensation.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/story/2011/04/14/scoc-wrongful-conviction-compensation.html?ref=rss)
 1. [Cover Image](https://i.cbc.ca/1.2019095.1381644254!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-scoc-852-cp-00430222.jpg)

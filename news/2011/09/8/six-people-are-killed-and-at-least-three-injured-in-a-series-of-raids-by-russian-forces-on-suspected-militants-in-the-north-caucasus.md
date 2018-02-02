@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2011/09/8/six-people-are-killed-and-at-least-three-injured-in-a-series-of-raids-by-russian-forces-on-suspected-militants-in-the-north-caucasus.html)  [JSON](/news/2011/09/8/six-people-are-killed-and-at-least-three-injured-in-a-series-of-raids-by-russian-forces-on-suspected-militants-in-the-north-caucasus.json)  [XML](/news/2011/09/8/six-people-are-killed-and-at-least-three-injured-in-a-series-of-raids-by-russian-forces-on-suspected-militants-in-the-north-caucasus.xml)  
+
 ### [2011-09-8](/news/2011/09/8/index.md)
 
+##### Russia
 # Six people are killed and at least three injured in a series of raids by Russian forces on suspected militants in the North Caucasus. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Interfax](http://www.interfax.co.uk/russia-cis-general-news-bulletins-in-english/over-2600-people-classified-as-missing-in-n-caucasus-prosecutors/)
 2. [Monsters and Critics](http://www.monstersandcritics.com/news/europe/news/article_1661686.php/Russian-forces-launch-new-raids-in-Caucasus-six-dead)
+
+### Changes:
+
+1. [North Caucasus insurgency-Ingushetia civil war:Six people are killed and at least three injured in a series of raids by Russian forces on suspected militants in the North Caucasus. ](/news/2011/09/8/north-caucasus-insurgency-ingushetia-civil-war-psix-people-are-killed-and-at-least-three-injured-in-a-series-of-raids-by-russian-forces-on-s.md) _2017-08-25 03:34:07 (First version)_
+2. [North Caucasus insurgency-Ingushetia civil war:: Six people are killed and at least three injured in a series of raids by Russian forces on suspected militants in the North Caucasus. ](/news/2011/09/8/north-caucasus-insurgency-ingushetia-civil-war-six-people-are-killed-and-at-least-three-injured-in-a-series-of-raids-by-russian-forces-on.md) _2017-08-27 03:34:14 (Update)_
+2. [Six people are killed and at least three injured in a series of raids by Russian forces on suspected militants in the North Caucasus. ](/news/2011/09/8/six-people-are-killed-and-at-least-three-injured-in-a-series-of-raids-by-russian-forces-on-suspected-militants-in-the-north-caucasus.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@
 3. [Russian police kill nine suspected Islamist militants in the North Caucasus region. ](/news/2013/08/20/russian-police-kill-nine-suspected-islamist-militants-in-the-north-caucasus-region.md) _Context: North Caucasus, Russia_
 4. [Georgian forces free 10 hostages held by militants from Russia's North Caucasian republic of Dagestan. Three Georgian police officers and 11 militants die in a clash. ](/news/2012/08/29/georgian-forces-free-10-hostages-held-by-militants-from-russia-s-north-caucasian-republic-of-dagestan-three-georgian-police-officers-and-11.md) _Context: North Caucasus, Russia_
 5. [Seven policemen are killed and at least eight wounded in a suicide bombing attack in Russia's North Caucasus republic of Ingushetia. ](/news/2012/08/19/seven-policemen-are-killed-and-at-least-eight-wounded-in-a-suicide-bombing-attack-in-russia-s-north-caucasus-republic-of-ingushetia.md) _Context: North Caucasus, Russia_
-
-### Changes:
-
-1. [North Caucasus insurgency-Ingushetia civil war:Six people are killed and at least three injured in a series of raids by Russian forces on suspected militants in the North Caucasus. ](/news/2011/09/8/north-caucasus-insurgency-ingushetia-civil-war-psix-people-are-killed-and-at-least-three-injured-in-a-series-of-raids-by-russian-forces-on-s.md) _2017-08-25 03:34:07 (First version)_
-2. [North Caucasus insurgency-Ingushetia civil war:: Six people are killed and at least three injured in a series of raids by Russian forces on suspected militants in the North Caucasus. ](/news/2011/09/8/north-caucasus-insurgency-ingushetia-civil-war-six-people-are-killed-and-at-least-three-injured-in-a-series-of-raids-by-russian-forces-on.md) _2017-08-27 03:34:14 (Update)_
-2. [Six people are killed and at least three injured in a series of raids by Russian forces on suspected militants in the North Caucasus. ](/news/2011/09/8/six-people-are-killed-and-at-least-three-injured-in-a-series-of-raids-by-russian-forces-on-suspected-militants-in-the-north-caucasus.md) _(Current version)_

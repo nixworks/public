@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2010/07/14/beijing-authorities-begin-to-gate-and-lock-some-lower-income-villages-imposing-curfews-in-order-to-control-the-flow-of-migrant-workers.html)  [JSON](/news/2010/07/14/beijing-authorities-begin-to-gate-and-lock-some-lower-income-villages-imposing-curfews-in-order-to-control-the-flow-of-migrant-workers.json)  [XML](/news/2010/07/14/beijing-authorities-begin-to-gate-and-lock-some-lower-income-villages-imposing-curfews-in-order-to-control-the-flow-of-migrant-workers.xml)  
+
 ### [2010-07-14](/news/2010/07/14/index.md)
 
+##### Beijing
 # Beijing authorities begin to gate and lock some lower-income villages, imposing curfews in order to control the flow of migrant workers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gDiiVrk8JJHVS4gIkB8AMDPmS4BgD9GUUCTG0)
 
 ### Related:
 
-1. [A stalemate between China and India leads to fears that the ongoing stand-off over Doklam in the Himalayas, disputed by Bhutan, may continue into the winter. It comes after rumors that Indian National Security Adviser Ajit Doval may travel to Beijing later this month. "[http:--economictimes.indiatimes.com-news-defence-beijing-wont-have-formal-talks-with-india-stand-off-may-continue-till-winter-chinese-expert-articleshow-59615025.cms (Economic Times)]"](/news/2017/07/16/a-stalemate-between-china-and-india-leads-to-fears-that-the-ongoing-stand-off-over-doklam-in-the-himalayas-disputed-by-bhutan-may-continue.md) _Context: Beijing_
-2. [Following the death of 22-year-old U.S. student Otto Warmbier, touring firm Young Pioneer Tours, who arranged Otto's visit to North Korea, say they will no longer be taking U.S. citizens to North Korea as the "risk is too high". Beijing-based Koryo Tours say they are reviewing their positions on taking U.S. citizens to the country. ](/news/2017/06/20/following-the-death-of-22-year-old-u-s-student-otto-warmbier-touring-firm-young-pioneer-tours-who-arranged-otto-s-visit-to-north-korea-s.md) _Context: Beijing_
-3. [The Government of China begins a two-day summit in Beijing, in an attempt to raise international support for its Belt and Road Initiative. ](/news/2017/05/14/the-government-of-china-begins-a-two-day-summit-in-beijing-in-an-attempt-to-raise-international-support-for-its-belt-and-road-initiative.md) _Context: Beijing_
-4. [Prime Minister of Norway Erna Solberg meets with Premier of the People's Republic of China Li Keqiang in Beijing to announce the end of a diplomatic freeze between the countries and the resumption of free trade negotiations between China and Norway. ](/news/2017/04/7/prime-minister-of-norway-erna-solberg-meets-with-premier-of-the-people-s-republic-of-china-li-keqiang-in-beijing-to-announce-the-end-of-a-di.md) _Context: Beijing_
-5. [Pro-Beijing Hong Kong leader CY Leung says he will quit after his term ends. ](/news/2016/12/9/pro-beijing-hong-kong-leader-cy-leung-says-he-will-quit-after-his-term-ends.md) _Context: Beijing_
+1. [The Russian Ministry of Defense says that Russia and China concluded a five-day computer-generated air defense drill in Beijing. ](/news/2017/12/17/the-russian-ministry-of-defense-says-that-russia-and-china-concluded-a-five-day-computer-generated-air-defense-drill-in-beijing.md) _Context: Beijing_
+2. [Authorities in Beijing evict thousands of its migrant population in wake of a fire that left 19 people dead earlier this month, leaving many homeless in sub-zero temperatures. ](/news/2017/11/27/authorities-in-beijing-evict-thousands-of-its-migrant-population-in-wake-of-a-fire-that-left-19-people-dead-earlier-this-month-leaving-many.md) _Context: Beijing_
+3. [A fire in a low-rent apartment in a suburb of Beijing kills 19 people and injures 8. ](/news/2017/11/18/a-fire-in-a-low-rent-apartment-in-a-suburb-of-beijing-kills-19-people-and-injures-8.md) _Context: Beijing_
+4. [The week-long Communist Party congress in Beijing draws to an end, with General Secretary Xi Jinping set to become its most influential leader since Party Chairman Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-general-secretary-xi-jinping-set-to-become-its-most-influential-lead.md) _Context: Beijing_
+5. [ China's leader and Party General Secretary Xi Jinping addresses more than 2,000 delegates in Beijing. The congress is expected to finish next week. ](/news/2017/10/18/china-s-leader-and-party-general-secretary-xi-jinping-addresses-more-than-2-000-delegates-in-beijing-the-congress-is-expected-to-finish-ne.md) _Context: Beijing_

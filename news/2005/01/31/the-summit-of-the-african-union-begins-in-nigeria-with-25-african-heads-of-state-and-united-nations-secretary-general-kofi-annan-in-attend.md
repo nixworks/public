@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/31/the-summit-of-the-african-union-begins-in-nigeria-with-25-african-heads-of-state-and-united-nations-secretary-general-kofi-annan-in-attend.html)  [JSON](/news/2005/01/31/the-summit-of-the-african-union-begins-in-nigeria-with-25-african-heads-of-state-and-united-nations-secretary-general-kofi-annan-in-attend.json)  [XML](/news/2005/01/31/the-summit-of-the-african-union-begins-in-nigeria-with-25-african-heads-of-state-and-united-nations-secretary-general-kofi-annan-in-attend.xml)  
+
 ### [2005-01-31](/news/2005/01/31/index.md)
 
+##### African Union
 #  The summit of the African Union begins in Nigeria, with 25 African heads of state and United Nations Secretary General Kofi Annan in attendance. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4220447.stm)
 2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1654857,00.html)
@@ -14,8 +18,8 @@
 
 ### Related:
 
-1. [ United Nations Secretary-General Kofi Annan calls upon African Union leaders to take action to resolve the crisis in Darfur where an estimated 30,000 black Sudanese have been killed by Sudanese Arabs in cultural and racial strife. ](/news/2004/07/6/united-nations-secretary-general-kofi-annan-calls-upon-african-union-leaders-to-take-action-to-resolve-the-crisis-in-darfur-where-an-estima.md) _Context: African Union, Kofi Annan, United Nations Secretary-General_
-2. [A long-awaited report released by an African Union investigative team led by former Nigerian President Olusegun Obasanjo describes atrocities and the discovery of mass graves in South Sudan, citing government forces and their allies as responsible parties. ](/news/2015/10/29/a-long-awaited-report-released-by-an-african-union-investigative-team-led-by-former-nigerian-president-olusegun-obasanjo-describes-atrocitie.md) _Context: African Union, Nigeria_
-3. [ U.N. Secretary-General Kofi Annan appoints former Mozambican President Joaquim Chissano as the new United Nations-envoy to negotiations between the Government of Uganda and the Lord's Resistance Army, a rebel paramilitary group. ](/news/2006/12/5/u-n-secretary-general-kofi-annan-appoints-former-mozambican-president-joaquim-chissano-as-the-new-united-nations-envoy-to-negotiations-bet.md) _Context: Kofi Annan, United Nations Secretary-General_
-4. [ United Nations Secretary General Kofi Annan warns of "troubling developments" in Burundi that could lead to violence. ](/news/2006/12/24/united-nations-secretary-general-kofi-annan-warns-of-troubling-developments-in-burundi-that-could-lead-to-violence.md) _Context: Kofi Annan, United Nations Secretary-General_
-5. [ United Nations Secretary-General Kofi Annan strongly criticizes the United States, in particular the Bush administration, claiming it has strayed from multilateralism and human rights, in his final speech. ](/news/2006/12/11/united-nations-secretary-general-kofi-annan-strongly-criticizes-the-united-states-in-particular-the-bush-administration-claiming-it-has-s.md) _Context: Kofi Annan, United Nations Secretary-General_
+1. [A long-awaited report released by an African Union investigative team led by former Nigerian President Olusegun Obasanjo describes atrocities and the discovery of mass graves in South Sudan, citing government forces and their allies as responsible parties. ](/news/2015/10/29/a-long-awaited-report-released-by-an-african-union-investigative-team-led-by-former-nigerian-president-olusegun-obasanjo-describes-atrocitie.md) _Context: African Union, Nigeria_
+2. [ United Nations Secretary General Kofi Annan warns of "troubling developments" in Burundi that could lead to violence. ](/news/2006/12/24/united-nations-secretary-general-kofi-annan-warns-of-troubling-developments-in-burundi-that-could-lead-to-violence.md) _Context: Kofi Annan, United Nations Secretary General_
+3. [ The Terrafrica partnership, a US$4 billion, 12-year campaign supported by the African Union, World Bank, United Nations, European Commission, and regional African governments, and aimed at fighting current, and preventing future desertification in Africa, begins. ](/news/2005/10/24/the-terrafrica-partnership-a-us-4-billion-12-year-campaign-supported-by-the-african-union-world-bank-united-nations-european-commissio.md) _Context: Africa, African Union_
+4. [ United Nations Secretary General Kofi Annan dismisses senior official Joseph Stephanides for oil for food scandal ](/news/2005/06/2/united-nations-secretary-general-kofi-annan-dismisses-senior-official-joseph-stephanides-for-oil-for-food-scandal.md) _Context: Kofi Annan, United Nations Secretary General_
+5. [ United Nations Secretary General Kofi Annan announces a report that states that the AIDS epidemic is accelerating despite the major efforts to stop it. ](/news/2005/06/2/united-nations-secretary-general-kofi-annan-announces-a-report-that-states-that-the-aids-epidemic-is-accelerating-despite-the-major-efforts.md) _Context: Kofi Annan, United Nations Secretary General_

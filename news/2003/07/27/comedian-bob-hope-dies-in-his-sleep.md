@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/27/comedian-bob-hope-dies-in-his-sleep.html)  [JSON](/news/2003/07/27/comedian-bob-hope-dies-in-his-sleep.json)  [XML](/news/2003/07/27/comedian-bob-hope-dies-in-his-sleep.xml)  
+
 ### [2003-07-27](/news/2003/07/27/index.md)
 
+##### Bob Hope
 #  Comedian Bob Hope dies in his sleep
 
 

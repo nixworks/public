@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/23/a-texas-jury-awards-t-boone-pickens-and-his-mes
 
 ### [2016-11-23](/news/2016/11/23/index.md)
 
+##### Texas
 # A Texas jury awards T. Boone Pickens and his Mesa Petroleum partners $140 million as a result of systemic underpayment of profits and ownership from 160 oil wells in Reeves and Pecos counties. 
 
 T. Boone Pickens accused J. Cleo Thompson and Delaware Basin Resources of attempting to cheat him out of profits and ownership interests.

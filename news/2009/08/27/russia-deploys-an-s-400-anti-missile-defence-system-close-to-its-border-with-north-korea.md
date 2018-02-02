@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/27/russia-deploys-an-s-400-anti-missile-defence-system-close-to-its-border-with-north-korea.html)  [JSON](/news/2009/08/27/russia-deploys-an-s-400-anti-missile-defence-system-close-to-its-border-with-north-korea.json)  [XML](/news/2009/08/27/russia-deploys-an-s-400-anti-missile-defence-system-close-to-its-border-with-north-korea.xml)  
+
 ### [2009-08-27](/news/2009/08/27/index.md)
 
+##### Russia
 #  Russia deploys an S-400 anti-missile defence system close to its border with North Korea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Tehran Times](http://www.tehrantimes.com/index_View.asp?code=201911)
 2. [The Guardian](http://www.guardian.co.uk/world/2009/aug/27/russia-north-korea-nuclear-missile-defence)

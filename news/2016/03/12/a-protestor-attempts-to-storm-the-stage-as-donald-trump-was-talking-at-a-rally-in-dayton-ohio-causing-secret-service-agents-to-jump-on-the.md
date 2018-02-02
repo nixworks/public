@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/12/a-protestor-attempts-to-storm-the-stage-as-dona
 
 ### [2016-03-12](/news/2016/03/12/index.md)
 
+##### Donald Trump presidential campaign
 # A protestor attempts to storm the stage as Donald Trump was talking at a rally in Dayton, Ohio, causing Secret Service agents to jump on the stage and form a wall around the presidential candidate amid the chaos. The suspect was identified as Thomas Dimassimo, 32, and was charged with disorderly conduct and inducing panic, according to Chief Mike Etter of the Dayton Police Department. Dimassimo is a Black Lives Matter activist. 
 
 &quot;I was ready for him, but it&#x27;s much easier if the cops do it,&quot; Trump said after the disturbance ended.

@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2013/01/8/more-than-130-wildfires-are-burning-on-the-east-coast-of-australia-with-thousands-of-people-forced-to-leave-their-homes.html)  [JSON](/news/2013/01/8/more-than-130-wildfires-are-burning-on-the-east-coast-of-australia-with-thousands-of-people-forced-to-leave-their-homes.json)  [XML](/news/2013/01/8/more-than-130-wildfires-are-burning-on-the-east-coast-of-australia-with-thousands-of-people-forced-to-leave-their-homes.xml)  
+
 ### [2013-01-8](/news/2013/01/8/index.md)
 
+##### wildfire
 # More than 130 wildfires are burning on the east coast of Australia with thousands of people forced to leave their homes. 
 
 More than 100 wildfires have broken out across Australia&#039;s east coast and forced thousands to flee their homes as the nation faces a day of &#034;catastrophic&#034; fire danger.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/australia/9786869/Australia-fires-rage-and-temperatures-soar-on-day-of-catastrophic-danger.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02444/tasmania-bushfire_2444716k.jpg)
 
 ### Related:
 
-1. [Bushfires in the Australian state of Victoria claim at least one life with towns in the Grampians National Park region evacuated. ](/news/2014/01/17/bushfires-in-the-australian-state-of-victoria-claim-at-least-one-life-with-towns-in-the-grampians-national-park-region-evacuated.md) _Context: Australia, Wildfire_
-2. [ The Australian state of Queensland declares a state of emergency after more than 50 wildfires burn out of control. ](/news/2009/10/18/the-australian-state-of-queensland-declares-a-state-of-emergency-after-more-than-50-wildfires-burn-out-of-control.md) _Context: Australia, Wildfire_
-3. [Last year a hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware after breaching the network of a defense contractor. ](/news/2017/10/11/last-year-a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-after-breac.md) _Context: Australia_
-4. [Australia and East Timor settle a dispute between the two countries in the Timor Sea. ](/news/2017/09/2/australia-and-east-timor-settle-a-dispute-between-the-two-countries-in-the-timor-sea.md) _Context: Australia_
-5. [The search for three members of the United States Marines Corps lost in a MV-22 Osprey crash in Shoalwater Bay in the Australian state of Queensland is called off. ](/news/2017/08/6/the-search-for-three-members-of-the-united-states-marines-corps-lost-in-a-mv-22-osprey-crash-in-shoalwater-bay-in-the-australian-state-of-qu.md) _Context: Australia_
+1. [ The Australian state of Queensland declares a state of emergency after more than 50 wildfires burn out of control. ](/news/2009/10/18/the-australian-state-of-queensland-declares-a-state-of-emergency-after-more-than-50-wildfires-burn-out-of-control.md) _Context: Australia, wildfire_
+2. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Australia_
+3. [In a world's first, a drone rescues two swimmers off the coast of Lennox Head, New South Wales in Australia by dropping a safety device to them. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. ](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-swimmers-off-the-coast-of-lennox-head-new-south-wales-in-australia-by-dropping-a-safety-device-to-t.md) _Context: Australia_
+4. [The Parliament of Australia votes to make same-sex marriage legal in Australia. ](/news/2017/12/7/the-parliament-of-australia-votes-to-make-same-sex-marriage-legal-in-australia.md) _Context: Australia_
+5. [A large number of fireworks accidentally go off in a barge at a New Year's Day show in Terrigal, NSW, Australia, causing thousands to be evacuated from the beach by police and the two people on the barge to suffer minor injuries. ](/news/2017/12/31/a-large-number-of-fireworks-accidentally-go-off-in-a-barge-at-a-new-year-s-day-show-in-terrigal-nsw-australia-causing-thousands-to-be-eva.md) _Context: Australia_

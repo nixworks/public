@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/13/the-united-kingdom-boundaries-commission-publishes-proposals-to-redraw-constituency-boundaries-in-england-and-northern-ireland-to-reduce-the.html)  [JSON](/news/2011/09/13/the-united-kingdom-boundaries-commission-publishes-proposals-to-redraw-constituency-boundaries-in-england-and-northern-ireland-to-reduce-the.json)  [XML](/news/2011/09/13/the-united-kingdom-boundaries-commission-publishes-proposals-to-redraw-constituency-boundaries-in-england-and-northern-ireland-to-reduce-the.xml)  
+
 ### [2011-09-13](/news/2011/09/13/index.md)
 
+##### United Kingdom Boundaries Commission
 # The United Kingdom Boundaries Commission publishes proposals to redraw constituency boundaries in England and Northern Ireland to reduce the number of MPs in the House of Commons from 650 to 600 at the next general election. Proposals for Scotland and Wales will be announced later. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-14882741)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/55306000/jpg/_55306243_007444181-1.jpg)

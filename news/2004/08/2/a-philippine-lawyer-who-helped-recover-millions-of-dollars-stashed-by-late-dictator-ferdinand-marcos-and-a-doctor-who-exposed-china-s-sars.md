@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/2/a-philippine-lawyer-who-helped-recover-millions-of-dollars-stashed-by-late-dictator-ferdinand-marcos-and-a-doctor-who-exposed-china-s-sars.html)  [JSON](/news/2004/08/2/a-philippine-lawyer-who-helped-recover-millions-of-dollars-stashed-by-late-dictator-ferdinand-marcos-and-a-doctor-who-exposed-china-s-sars.json)  [XML](/news/2004/08/2/a-philippine-lawyer-who-helped-recover-millions-of-dollars-stashed-by-late-dictator-ferdinand-marcos-and-a-doctor-who-exposed-china-s-sars.xml)  
+
 ### [2004-08-2](/news/2004/08/2/index.md)
 
+##### Philippine
 #  A Philippine lawyer who helped recover millions of dollars stashed by late dictator Ferdinand Marcos and a doctor who exposed China's SARS outbreak are among this year's winners of the Ramon Magsaysay Award, a prestigious prize in Asia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://asia.news.yahoo.com/040802/ap/d8475d880.html)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/24/the-british-pound-and-ftse-100-index-for-the-lo
 
 ### [2016-06-24](/news/2016/06/24/index.md)
 
+##### Brexit impact
 # The British pound and FTSE 100 Index for the London Stock Exchange both fall in trading as early results from the United Kingdom European Union membership referendum show a stronger than expected result for Leave. 
 
 Jeremy Corbyn has appeared to compare Israel to &quot;various self-styled Islamic states and organisations&quot; at the launch of Labour&#39;s antisemitism report.

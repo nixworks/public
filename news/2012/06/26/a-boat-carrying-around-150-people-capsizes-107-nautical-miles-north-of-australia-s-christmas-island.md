@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/06/26/a-boat-carrying-around-150-people-capsizes-107-nautical-miles-north-of-australia-s-christmas-island.html)  [JSON](/news/2012/06/26/a-boat-carrying-around-150-people-capsizes-107-nautical-miles-north-of-australia-s-christmas-island.json)  [XML](/news/2012/06/26/a-boat-carrying-around-150-people-capsizes-107-nautical-miles-north-of-australia-s-christmas-island.xml)  
+
 ### [2012-06-26](/news/2012/06/26/index.md)
 
+##### Christmas Island
 # A boat carrying around 150 people capsizes 107 nautical miles north of Australia's Christmas Island. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/06/27/us-australia-boat-capsizes-idUSBRE85Q02T20120627)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120627&t=2&i=623552610&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE85Q0BHR00)
+1. [Reuters](https://www.reuters.com/article/2012/06/27/us-australia-boat-capsizes-idUSBRE85Q02T20120627)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120627&t=2&i=623552610&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE85Q0BHR00)
 
 ### Related:
 

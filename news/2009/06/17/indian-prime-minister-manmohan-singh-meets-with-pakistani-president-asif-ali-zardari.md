@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/17/indian-prime-minister-manmohan-singh-meets-with-pakistani-president-asif-ali-zardari.html)  [JSON](/news/2009/06/17/indian-prime-minister-manmohan-singh-meets-with-pakistani-president-asif-ali-zardari.json)  [XML](/news/2009/06/17/indian-prime-minister-manmohan-singh-meets-with-pakistani-president-asif-ali-zardari.xml)  
+
 ### [2009-06-17](/news/2009/06/17/index.md)
 
+##### India
 #  Indian Prime Minister Manmohan Singh meets with Pakistani President Asif Ali Zardari. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6520545.ece)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-06/17/content_11556841.htm)

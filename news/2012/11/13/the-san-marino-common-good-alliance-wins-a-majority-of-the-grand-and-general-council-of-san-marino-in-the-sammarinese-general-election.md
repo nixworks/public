@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/13/the-san-marino-common-good-alliance-wins-a-majority-of-the-grand-and-general-council-of-san-marino-in-the-sammarinese-general-election.html)  [JSON](/news/2012/11/13/the-san-marino-common-good-alliance-wins-a-majority-of-the-grand-and-general-council-of-san-marino-in-the-sammarinese-general-election.json)  [XML](/news/2012/11/13/the-san-marino-common-good-alliance-wins-a-majority-of-the-grand-and-general-council-of-san-marino-in-the-sammarinese-general-election.xml)  
+
 ### [2012-11-13](/news/2012/11/13/index.md)
 
+##### San Marino Common Good
 # The San Marino Common Good alliance wins a majority of the Grand and General Council of San Marino in the Sammarinese general election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Politics Abroad](http://www.politicsabroad.com/news/elections/san-marino-common-good-win-general-election/)
 

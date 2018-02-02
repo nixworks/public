@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/13/u-s-president-donald-trump-says-he-is-extending
 
 ### [2018-01-13](/news/2018/01/13/index.md)
 
+##### Joint Comprehensive Plan of Action
 # U.S. President Donald Trump says he is extending sanctions relief for Iran one last time so Europe and the U.S. can fix the nuclear deal's "terrible flaws". 
 
 The US president warns of sanctions if the agreement is not changed within four months.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/13/a-zimbabwe-judge-orders-the-police-to-bring-tendai-biti-the-arrested-secretary-general-of-the-movement-for-democratic-change-to-court-on-s.html)  [JSON](/news/2008/06/13/a-zimbabwe-judge-orders-the-police-to-bring-tendai-biti-the-arrested-secretary-general-of-the-movement-for-democratic-change-to-court-on-s.json)  [XML](/news/2008/06/13/a-zimbabwe-judge-orders-the-police-to-bring-tendai-biti-the-arrested-secretary-general-of-the-movement-for-democratic-change-to-court-on-s.xml)  
+
 ### [2008-06-13](/news/2008/06/13/index.md)
 
+##### Zimbabwe
 #  A Zimbabwe judge orders the police to bring Tendai Biti, the arrested Secretary-General of the Movement for Democratic Change to court on Saturday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Zimbabwe Guardian'' via All Africa](http://allafrica.com/stories/200806130990.html)
 

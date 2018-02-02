@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/07/27/suspended-romanian-president-traian-basescu-urges-his-supporters-to-boycott-this-sunday-s-referendum-on-his-dismissal.html)  [JSON](/news/2012/07/27/suspended-romanian-president-traian-basescu-urges-his-supporters-to-boycott-this-sunday-s-referendum-on-his-dismissal.json)  [XML](/news/2012/07/27/suspended-romanian-president-traian-basescu-urges-his-supporters-to-boycott-this-sunday-s-referendum-on-his-dismissal.xml)  
+
 ### [2012-07-27](/news/2012/07/27/index.md)
 
+##### Romanian President
 # Suspended Romanian President Traian Basescu urges his supporters to boycott this Sunday's referendum on his dismissal. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/07/27/us-romania-politics-referendum-idUSBRE86Q18A20120727)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120727&t=2&i=635121726&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86Q1G1A00)
+1. [Reuters](https://www.reuters.com/article/2012/07/27/us-romania-politics-referendum-idUSBRE86Q18A20120727)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120727&t=2&i=635121726&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86Q1G1A00)
 
 ### Related:
 

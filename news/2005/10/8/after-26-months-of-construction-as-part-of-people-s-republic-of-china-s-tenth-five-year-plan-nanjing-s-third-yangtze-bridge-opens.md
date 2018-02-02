@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/8/after-26-months-of-construction-as-part-of-people-s-republic-of-china-s-tenth-five-year-plan-nanjing-s-third-yangtze-bridge-opens.html)  [JSON](/news/2005/10/8/after-26-months-of-construction-as-part-of-people-s-republic-of-china-s-tenth-five-year-plan-nanjing-s-third-yangtze-bridge-opens.json)  [XML](/news/2005/10/8/after-26-months-of-construction-as-part-of-people-s-republic-of-china-s-tenth-five-year-plan-nanjing-s-third-yangtze-bridge-opens.xml)  
+
 ### [2005-10-8](/news/2005/10/8/index.md)
 
+##### China
 #  After 26 months of construction as part of People's Republic of China's Tenth Five-Year Plan, Nanjing's Third Yangtze Bridge opens. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://www.xhby.net/xhby/content/2005-10/09/content_971949.htm)
 

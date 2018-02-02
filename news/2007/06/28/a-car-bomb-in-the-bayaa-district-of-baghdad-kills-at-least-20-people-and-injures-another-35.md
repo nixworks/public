@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/28/a-car-bomb-in-the-bayaa-district-of-baghdad-kills-at-least-20-people-and-injures-another-35.html)  [JSON](/news/2007/06/28/a-car-bomb-in-the-bayaa-district-of-baghdad-kills-at-least-20-people-and-injures-another-35.json)  [XML](/news/2007/06/28/a-car-bomb-in-the-bayaa-district-of-baghdad-kills-at-least-20-people-and-injures-another-35.xml)  
+
 ### [2007-06-28](/news/2007/06/28/index.md)
 
+##### car bomb
 #  A car bomb in the Bayaa district of Baghdad kills at least 20 people and injures another 35. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L28682349.htm)
 

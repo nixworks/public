@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/09/13/pakistan-cabinet-unanimously-decides-to-re-elect-president-pervez-musharraf-in-uniform-from-the-present-assemblies.html)  [JSON](/news/2007/09/13/pakistan-cabinet-unanimously-decides-to-re-elect-president-pervez-musharraf-in-uniform-from-the-present-assemblies.json)  [XML](/news/2007/09/13/pakistan-cabinet-unanimously-decides-to-re-elect-president-pervez-musharraf-in-uniform-from-the-present-assemblies.xml)  
+
 ### [2007-09-13](/news/2007/09/13/index.md)
 
+##### Pakistan
 #  Pakistan Cabinet unanimously decides to re-elect President Pervez Musharraf in uniform from the present assemblies. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/22/australian-painter-del-kathryn-barton-wins-the-2013-archibald-prize-for-her-portrait-of-actor-hugo-weaving.html)  [JSON](/news/2013/03/22/australian-painter-del-kathryn-barton-wins-the-2013-archibald-prize-for-her-portrait-of-actor-hugo-weaving.json)  [XML](/news/2013/03/22/australian-painter-del-kathryn-barton-wins-the-2013-archibald-prize-for-her-portrait-of-actor-hugo-weaving.xml)  
+
 ### [2013-03-22](/news/2013/03/22/index.md)
 
+##### Australian
 # Australian painter Del Kathryn Barton wins the 2013 Archibald Prize for her portrait of actor Hugo Weaving. 
 
 A portrait of actor Hugo Weaving by Sydney artist Del Kathryn Barton has won this year&#039;s Archibald prize.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-03-22/archibald-prize-winner-declared/4588148)
 2. [The Australian Financial Review](http://www.afr.com/p/national/del_kathryn_barton_wins_an_archibald_RZ2m5XkHB1yePpv88lruGJ)

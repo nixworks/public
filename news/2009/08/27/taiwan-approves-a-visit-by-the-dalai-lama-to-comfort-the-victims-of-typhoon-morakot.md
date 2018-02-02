@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/27/taiwan-approves-a-visit-by-the-dalai-lama-to-comfort-the-victims-of-typhoon-morakot.html)  [JSON](/news/2009/08/27/taiwan-approves-a-visit-by-the-dalai-lama-to-comfort-the-victims-of-typhoon-morakot.json)  [XML](/news/2009/08/27/taiwan-approves-a-visit-by-the-dalai-lama-to-comfort-the-victims-of-typhoon-morakot.xml)  
+
 ### [2009-08-27](/news/2009/08/27/index.md)
 
+##### Taiwan
 #  Taiwan approves a visit by the Dalai Lama to comfort the victims of Typhoon Morakot. 
 
 Visit to survivors of recent typhoon risks triggering angry reaction from Beijing.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/08/200982732945541294.html)
 2. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1042358&lang=eng_news&cate_img=logo_taiwan&cate_rss=TAIWAN_eng)

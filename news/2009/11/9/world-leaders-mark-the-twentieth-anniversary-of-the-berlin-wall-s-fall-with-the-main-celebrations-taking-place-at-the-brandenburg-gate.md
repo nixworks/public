@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/9/world-leaders-mark-the-twentieth-anniversary-of-the-berlin-wall-s-fall-with-the-main-celebrations-taking-place-at-the-brandenburg-gate.html)  [JSON](/news/2009/11/9/world-leaders-mark-the-twentieth-anniversary-of-the-berlin-wall-s-fall-with-the-main-celebrations-taking-place-at-the-brandenburg-gate.json)  [XML](/news/2009/11/9/world-leaders-mark-the-twentieth-anniversary-of-the-berlin-wall-s-fall-with-the-main-celebrations-taking-place-at-the-brandenburg-gate.xml)  
+
 ### [2009-11-9](/news/2009/11/9/index.md)
 
+##### Berlin Wall
 #  World leaders mark the twentieth anniversary of the Berlin Wall's fall, with the main celebrations taking place at the Brandenburg Gate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8349742.stm)
 2. [Bangkok Post](http://www.bangkokpost.com/news/world/159526/leaders-to-fete-fall-of-berlin-wall-at-giant-bash)

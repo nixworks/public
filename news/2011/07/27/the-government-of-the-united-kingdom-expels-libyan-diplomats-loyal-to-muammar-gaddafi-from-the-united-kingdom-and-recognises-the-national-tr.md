@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2011/07/27/the-government-of-the-united-kingdom-expels-libyan-diplomats-loyal-to-muammar-gaddafi-from-the-united-kingdom-and-recognises-the-national-tr.html)  [JSON](/news/2011/07/27/the-government-of-the-united-kingdom-expels-libyan-diplomats-loyal-to-muammar-gaddafi-from-the-united-kingdom-and-recognises-the-national-tr.json)  [XML](/news/2011/07/27/the-government-of-the-united-kingdom-expels-libyan-diplomats-loyal-to-muammar-gaddafi-from-the-united-kingdom-and-recognises-the-national-tr.xml)  
+
 ### [2011-07-27](/news/2011/07/27/index.md)
 
+##### 10 Downing Street
 # The Government of the United Kingdom expels Libyan diplomats loyal to Muammar Gaddafi from the United Kingdom and recognises the National Transitional Council. 
 
-With the cost of intervention rising, a ‘kitchen sink’ of ideas is on the table
+With the cost of intervention rising, a &lsquo;kitchen sink&rsquo; of ideas is on the table
 
 
-### Source:
+### Sources:
 
-1. [The Globe and Mail](http://www.theglobeandmail.com/news/world/as-libya-settles-into-stalemate-the-west-grasps-for-a-way-out/article2112337/)
-1. [Cover Image](http://beta.images.theglobeandmail.com/media/www/images/flag/gam-square.png)
+1. [The Globe and Mail](https://www.theglobeandmail.com/news/world/as-libya-settles-into-stalemate-the-west-grasps-for-a-way-out/article2112337/)
 
 ### Related:
 

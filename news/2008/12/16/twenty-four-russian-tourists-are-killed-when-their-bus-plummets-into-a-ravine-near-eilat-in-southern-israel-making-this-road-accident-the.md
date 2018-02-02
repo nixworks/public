@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/16/twenty-four-russian-tourists-are-killed-when-their-bus-plummets-into-a-ravine-near-eilat-in-southern-israel-making-this-road-accident-the.html)  [JSON](/news/2008/12/16/twenty-four-russian-tourists-are-killed-when-their-bus-plummets-into-a-ravine-near-eilat-in-southern-israel-making-this-road-accident-the.json)  [XML](/news/2008/12/16/twenty-four-russian-tourists-are-killed-when-their-bus-plummets-into-a-ravine-near-eilat-in-southern-israel-making-this-road-accident-the.xml)  
+
 ### [2008-12-16](/news/2008/12/16/index.md)
 
+##### Russia
 #  Twenty-four Russian tourists are killed when their bus plummets into a ravine near Eilat in southern Israel, making this road accident the deadliest in the state's history. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1228728219835&pagename=JPost%2FJPArticle%2FShowFull)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/27/france-says-it-has-carried-out-its-first-air-strikes-against-the-islamic-state-of-iraq-and-the-levant-within-syria-destroying-a-training-ca.html)  [JSON](/news/2015/09/27/france-says-it-has-carried-out-its-first-air-strikes-against-the-islamic-state-of-iraq-and-the-levant-within-syria-destroying-a-training-ca.json)  [XML](/news/2015/09/27/france-says-it-has-carried-out-its-first-air-strikes-against-the-islamic-state-of-iraq-and-the-levant-within-syria-destroying-a-training-ca.xml)  
+
 ### [2015-09-27](/news/2015/09/27/index.md)
 
+##### Syrian Civil War
 # France says it has carried out its first air-strikes against the Islamic State of Iraq and the Levant within Syria, destroying a training camp in the east of the country. Previously, France had only carried out air-strikes in Iraq with consent of the Iraqi government. 
 
 Russia appeared to seize the initiative in international efforts to end the conflict in Syria on Sunday as Washington scrambled to devise a new strategy for the war-ravaged country and France sent warplanes to bomb Islamic State targets.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2015/09/27/uk-mideast-crisis-france-syria-idUKKCN0RR08120150927)
 1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150927&t=2&i=1082626753&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB8Q0A9)

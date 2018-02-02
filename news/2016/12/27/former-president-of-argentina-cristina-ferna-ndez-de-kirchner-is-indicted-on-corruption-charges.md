@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/27/former-president-of-argentina-cristina-ferna-nd
 
 ### [2016-12-27](/news/2016/12/27/index.md)
 
+##### President of Argentina
 # Former President of Argentina Cristina Fernandez de Kirchner is indicted on corruption charges. 
 
 Former Argentine President Cristina Fernandez was indicted on Tuesday on charges she ran a corruption scheme with a public works secretary who was arrested in June while trying to stash millions of dollars in a convent.

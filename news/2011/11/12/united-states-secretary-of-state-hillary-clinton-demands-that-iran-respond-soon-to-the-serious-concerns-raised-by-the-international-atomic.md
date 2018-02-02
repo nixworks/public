@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/12/united-states-secretary-of-state-hillary-clinton-demands-that-iran-respond-soon-to-the-serious-concerns-raised-by-the-international-atomic.html)  [JSON](/news/2011/11/12/united-states-secretary-of-state-hillary-clinton-demands-that-iran-respond-soon-to-the-serious-concerns-raised-by-the-international-atomic.json)  [XML](/news/2011/11/12/united-states-secretary-of-state-hillary-clinton-demands-that-iran-respond-soon-to-the-serious-concerns-raised-by-the-international-atomic.xml)  
+
 ### [2011-11-12](/news/2011/11/12/index.md)
 
+##### United States Secretary of State
 # United States Secretary of State Hillary Clinton demands that Iran respond soon to the "serious concerns" raised by the International Atomic Energy Agency report that Iran appeared to be working on nuclear bomb technology. 
 
 Secretary of State says Iran must &quot;answer the serious questions&quot; raised by IAEA report, repeats calls for Assad to step down.
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/IranianThreat/News/Article.aspx?id=245304)
 2. [The Jerusalem Post](http://www.jpost.com/VideoArticles/Video/Article.aspx?id=245278)

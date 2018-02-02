@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/20/colombia-accuses-venezuelan-troops-of-blowing-up-two-border-bridges-between-the-two-countries.html)  [JSON](/news/2009/11/20/colombia-accuses-venezuelan-troops-of-blowing-up-two-border-bridges-between-the-two-countries.json)  [XML](/news/2009/11/20/colombia-accuses-venezuelan-troops-of-blowing-up-two-border-bridges-between-the-two-countries.xml)  
+
 ### [2009-11-20](/news/2009/11/20/index.md)
 
+##### Colombia
 #  Colombia accuses Venezuelan troops of blowing up two border bridges between the two countries. 
 
 Bogota accuses Caracas of blowing up pedestrian bridges between two countries.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2009/11/2009112004914250182.html)
 2. [Colombia Reports](http://colombiareports.com/colombia-news/news/6955-venezuelan-army-destroyed-two-bridges-in-colombia-ombudsman.html)

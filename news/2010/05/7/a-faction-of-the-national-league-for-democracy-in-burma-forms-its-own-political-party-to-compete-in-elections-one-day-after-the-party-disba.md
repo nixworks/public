@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/7/a-faction-of-the-national-league-for-democracy-in-burma-forms-its-own-political-party-to-compete-in-elections-one-day-after-the-party-disba.html)  [JSON](/news/2010/05/7/a-faction-of-the-national-league-for-democracy-in-burma-forms-its-own-political-party-to-compete-in-elections-one-day-after-the-party-disba.json)  [XML](/news/2010/05/7/a-faction-of-the-national-league-for-democracy-in-burma-forms-its-own-political-party-to-compete-in-elections-one-day-after-the-party-disba.xml)  
+
 ### [2010-05-7](/news/2010/05/7/index.md)
 
+##### National League for Democracy
 # A faction of the National League for Democracy in Burma forms its own political party to compete in elections, one day after the party disbanded. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://arabnews.com/world/article51067.ece)
 

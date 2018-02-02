@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/30/talks-between-the-indonesian-government-and-free-aceh-movement-leaders-in-helsinki-end-a-day-early-possibly-signaling-a-breakdown-in-negot.html)  [JSON](/news/2005/01/30/talks-between-the-indonesian-government-and-free-aceh-movement-leaders-in-helsinki-end-a-day-early-possibly-signaling-a-breakdown-in-negot.json)  [XML](/news/2005/01/30/talks-between-the-indonesian-government-and-free-aceh-movement-leaders-in-helsinki-end-a-day-early-possibly-signaling-a-breakdown-in-negot.xml)  
+
 ### [2005-01-30](/news/2005/01/30/index.md)
 
+##### Indonesia
 #  Talks between the Indonesian government and Free Aceh Movement leaders in Helsinki end a day early, possibly signaling a breakdown in negotiations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IHT](http://www.iht.com/articles/2005/01/30/news/aceh.html)
 

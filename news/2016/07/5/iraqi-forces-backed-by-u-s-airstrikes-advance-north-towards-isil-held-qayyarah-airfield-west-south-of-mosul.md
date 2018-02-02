@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/5/iraqi-forces-backed-by-u-s-airstrikes-advance-no
 
 ### [2016-07-5](/news/2016/07/5/index.md)
 
+##### Iraqi Civil War
 # Iraqi forces, backed by U.S. airstrikes, advance north towards ISIL-held Qayyarah Airfield West south of Mosul. 
 
 Iraqi forces have retaken a cluster of northern villages from Islamic State militants, the government said on Tuesday, pushing closer to an air base that could serve as a springboard for an offensive to retake Mosul, the biggest city held by IS.

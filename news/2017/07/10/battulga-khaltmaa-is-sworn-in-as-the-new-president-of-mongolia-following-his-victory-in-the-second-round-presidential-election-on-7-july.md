@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/10/battulga-khaltmaa-is-sworn-in-as-the-new-presid
 
 ### [2017-07-10](/news/2017/07/10/index.md)
 
+##### Mongolian presidential election, 2017
 # Battulga Khaltmaa is sworn in as the new President of Mongolia following his victory in the second round presidential election on 7 July. 
 
 

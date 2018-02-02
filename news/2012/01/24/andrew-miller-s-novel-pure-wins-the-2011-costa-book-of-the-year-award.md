@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/24/andrew-miller-s-novel-pure-wins-the-2011-costa-book-of-the-year-award.html)  [JSON](/news/2012/01/24/andrew-miller-s-novel-pure-wins-the-2011-costa-book-of-the-year-award.json)  [XML](/news/2012/01/24/andrew-miller-s-novel-pure-wins-the-2011-costa-book-of-the-year-award.xml)  
+
 ### [2012-01-24](/news/2012/01/24/index.md)
 
+##### Andrew Miller
 # Andrew Miller's novel "Pure" wins the 2011 Costa Book of the Year Award. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/books/2012/jan/24/costa-winner-andrew-miller-pure?newsfeed=true)
 

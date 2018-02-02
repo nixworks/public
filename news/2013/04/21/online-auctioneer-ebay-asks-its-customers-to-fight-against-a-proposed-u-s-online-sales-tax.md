@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/21/online-auctioneer-ebay-asks-its-customers-to-fight-against-a-proposed-u-s-online-sales-tax.html)  [JSON](/news/2013/04/21/online-auctioneer-ebay-asks-its-customers-to-fight-against-a-proposed-u-s-online-sales-tax.json)  [XML](/news/2013/04/21/online-auctioneer-ebay-asks-its-customers-to-fight-against-a-proposed-u-s-online-sales-tax.xml)  
+
 ### [2013-04-21](/news/2013/04/21/index.md)
 
+##### eBay
 # Online auctioneer eBay asks its customers to fight against a proposed U.S. online sales tax. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Street](http://www.thestreet.com/story/11900922/1/ebay-urges-users-to-join-tax-fight.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/3/new-zealand-authorities-state-that-they-have-given-up-finding-survivors-from-the-2011-canterbury-earthquake-with-the-final-death-toll-expect.html)  [JSON](/news/2011/03/3/new-zealand-authorities-state-that-they-have-given-up-finding-survivors-from-the-2011-canterbury-earthquake-with-the-final-death-toll-expect.json)  [XML](/news/2011/03/3/new-zealand-authorities-state-that-they-have-given-up-finding-survivors-from-the-2011-canterbury-earthquake-with-the-final-death-toll-expect.xml)  
+
 ### [2011-03-3](/news/2011/03/3/index.md)
 
+##### 2011 Canterbury earthquake
 # New Zealand authorities state that they have given up finding survivors from the 2011 Canterbury earthquake with the final death toll expected to be approximately 240. 
 
 New Zealand rescue teams give up hope of finding more survivors from last week&#39;s earthquake and will look to recover remaining victims, officials said on Thursday.
 
 
-### Source:
+### Sources:
 
 1. [AP, Reuters, via MSNBC](http://www.msnbc.msn.com/id/41880208/ns/world_news-asiapacific/)
 1. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Photo/_new/110302-newZealand-652p.standard.jpg)

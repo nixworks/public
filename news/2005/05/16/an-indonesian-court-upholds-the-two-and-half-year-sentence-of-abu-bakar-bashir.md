@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/16/an-indonesian-court-upholds-the-two-and-half-year-sentence-of-abu-bakar-bashir.html)  [JSON](/news/2005/05/16/an-indonesian-court-upholds-the-two-and-half-year-sentence-of-abu-bakar-bashir.json)  [XML](/news/2005/05/16/an-indonesian-court-upholds-the-two-and-half-year-sentence-of-abu-bakar-bashir.xml)  
+
 ### [2005-05-16](/news/2005/05/16/index.md)
 
+##### Indonesia
 #  An Indonesian court upholds the two-and-half year sentence of Abu Bakar Bashir. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Laksamana](http://www.laksamana.net/vnews.cfm?ncat=45&news_id=8153)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/SP153659.htm)

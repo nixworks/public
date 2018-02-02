@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/15/giorgio-napolitano-is-sworn-in-as-president-of-the-italian-republic-following-his-election-held-on-may-10.html)  [JSON](/news/2006/05/15/giorgio-napolitano-is-sworn-in-as-president-of-the-italian-republic-following-his-election-held-on-may-10.json)  [XML](/news/2006/05/15/giorgio-napolitano-is-sworn-in-as-president-of-the-italian-republic-following-his-election-held-on-may-10.xml)  
+
 ### [2006-05-15](/news/2006/05/15/index.md)
 
+##### Giorgio Napolitano
 #  Giorgio Napolitano is sworn in as President of the Italian Republic, following his election held on May 10. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4773939.stm)
 

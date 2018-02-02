@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/08/5/meng-jianzhu-the-minister-for-public-security-in-the-people-s-republic-of-china-orders-a-clampdown-in-xinjiang-following-recent-unrest.html)  [JSON](/news/2011/08/5/meng-jianzhu-the-minister-for-public-security-in-the-people-s-republic-of-china-orders-a-clampdown-in-xinjiang-following-recent-unrest.json)  [XML](/news/2011/08/5/meng-jianzhu-the-minister-for-public-security-in-the-people-s-republic-of-china-orders-a-clampdown-in-xinjiang-following-recent-unrest.xml)  
+
 ### [2011-08-5](/news/2011/08/5/index.md)
 
+##### Meng Jianzhu
 # Meng Jianzhu, the Minister for Public Security in the People's Republic of China, orders a clampdown in Xinjiang following recent unrest. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/asia-pacific/china-security-chief-orders-new-crackdown-in-restive-xinjiang-following-attacks/2011/08/04/gIQAzvxNvI_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/asia-pacific/china-security-chief-orders-new-crackdown-in-restive-xinjiang-following-attacks/2011/08/04/gIQAzvxNvI_story.html)
 
 ### Related:
 

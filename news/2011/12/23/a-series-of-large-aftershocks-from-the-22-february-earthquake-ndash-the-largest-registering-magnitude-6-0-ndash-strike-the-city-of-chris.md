@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/23/a-series-of-large-aftershocks-from-the-22-february-earthquake-ndash-the-largest-registering-magnitude-6-0-ndash-strike-the-city-of-chris.html)  [JSON](/news/2011/12/23/a-series-of-large-aftershocks-from-the-22-february-earthquake-ndash-the-largest-registering-magnitude-6-0-ndash-strike-the-city-of-chris.json)  [XML](/news/2011/12/23/a-series-of-large-aftershocks-from-the-22-february-earthquake-ndash-the-largest-registering-magnitude-6-0-ndash-strike-the-city-of-chris.xml)  
+
 ### [2011-12-23](/news/2011/12/23/index.md)
 
+##### 2011 Christchurch earthquake
 # A series of large aftershocks from the 22 February earthquake &ndash; the largest registering magnitude 6.0 &ndash; strike the city of Christchurch, New Zealand. 
 
 A series of earthquakes have terrified many already-frazzled Christchurch residents this afternoon, starting with a 5.8 magnitude tremor at 1.58pm. - New Zealand Herald
 
 
-### Source:
+### Sources:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10775043)
 1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201152/SCCZEN_231211CSTGSAFTERSHOCK3_1024x76838006.JPG)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/29/shibu-soren-a-cabinet-minister-in-india-s-coalition-government-is-convicted-of-murdering-his-secretary-the-prime-minister-of-india-manmo.html)  [JSON](/news/2006/11/29/shibu-soren-a-cabinet-minister-in-india-s-coalition-government-is-convicted-of-murdering-his-secretary-the-prime-minister-of-india-manmo.json)  [XML](/news/2006/11/29/shibu-soren-a-cabinet-minister-in-india-s-coalition-government-is-convicted-of-murdering-his-secretary-the-prime-minister-of-india-manmo.xml)  
+
 ### [2006-11-29](/news/2006/11/29/index.md)
 
+##### Shibu Soren
 #  Shibu Soren, a Cabinet Minister in India's coalition government, is convicted of murdering his secretary. The Prime Minister of India Manmohan Singh successfully demands Soren's resignation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/story/0,23599,20846546-401,00.html)
 

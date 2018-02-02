@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/6/about-27-years-after-his-abduction-the-remains-o
 
 ### [2016-09-6](/news/2016/09/6/index.md)
 
+##### Jacob Wetterling
 # About 27 years after his abduction, the remains of Jacob Wetterling are discovered. 
 
 Wetterling was 11 when he was abducted at gunpoint while riding his bike in St. Joseph, Minn. The case helped lead to a national sex offender registry.

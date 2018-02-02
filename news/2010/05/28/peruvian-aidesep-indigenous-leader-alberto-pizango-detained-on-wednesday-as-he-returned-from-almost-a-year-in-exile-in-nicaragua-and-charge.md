@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2010/05/28/peruvian-aidesep-indigenous-leader-alberto-pizango-detained-on-wednesday-as-he-returned-from-almost-a-year-in-exile-in-nicaragua-and-charge.html)  [JSON](/news/2010/05/28/peruvian-aidesep-indigenous-leader-alberto-pizango-detained-on-wednesday-as-he-returned-from-almost-a-year-in-exile-in-nicaragua-and-charge.json)  [XML](/news/2010/05/28/peruvian-aidesep-indigenous-leader-alberto-pizango-detained-on-wednesday-as-he-returned-from-almost-a-year-in-exile-in-nicaragua-and-charge.xml)  
+
 ### [2010-05-28](/news/2010/05/28/index.md)
 
+##### Peru
 # Peruvian AIDESEP indigenous leader Alberto Pizango, detained on Wednesday as he returned from almost a year in exile in Nicaragua and charged with objecting to oil digging in the rainforest, is released on bail. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10170311.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 
-1. [Tropical Storm Nate heads for the Gulf Coast of the United States after causing dozens of deaths in Central America and severe flooding in the Nicaraguan town of Rivas. ](/news/2017/10/6/tropical-storm-nate-heads-for-the-gulf-coast-of-the-united-states-after-causing-dozens-of-deaths-in-central-america-and-severe-flooding-in-t.md) _Context: Nicaragua_
-2. [In Nicaragua, flooding from Tropical Storm Nate, kills at least fifteen people. In Costa Rica, the storm kills at least seven people with fifteen missing. ](/news/2017/10/5/in-nicaragua-flooding-from-tropical-storm-nate-kills-at-least-fifteen-people-in-costa-rica-the-storm-kills-at-least-seven-people-with-fi.md) _Context: Nicaragua_
-3. [The face of the Peruvian Moche mummy the Lady of Cao is reconstructed from its skull structure, using forensic archaeology techniques and ethnographic research. ](/news/2017/07/5/the-face-of-the-peruvian-moche-mummy-the-lady-of-cao-is-reconstructed-from-its-skull-structure-using-forensic-archaeology-techniques-and-et.md) _Context: Peru_
-4. [A group of people are arrested in the Peruvian village of Muqui, located in the Andes, after they painted a wall with allusive symbols and messages to the far-left terrorist organization, Shining Path, responsible for crimes against humanity in Peru from 1980 to 1992. Police later clarified that the true intentions of the arrested, some of them students of a technical training institute, were to make a short film. ](/news/2017/07/5/a-group-of-people-are-arrested-in-the-peruvian-village-of-muqui-located-in-the-andes-after-they-painted-a-wall-with-allusive-symbols-and-m.md) _Context: Peru_
-5. [Equatorial Guinea, Ivory Coast, Kuwait, Peru and Poland are elected to the United Nations Security Council for a two-year term beginning on January 1, 2018. ](/news/2017/06/2/equatorial-guinea-ivory-coast-kuwait-peru-and-poland-are-elected-to-the-united-nations-security-council-for-a-two-year-term-beginning-on.md) _Context: Peru_
+1. [A coach bus plunges off a cliff on a coastal road in Peru, killing at least 48 people. ](/news/2018/01/2/a-coach-bus-plunges-off-a-cliff-on-a-coastal-road-in-peru-killing-at-least-48-people.md) _Context: Peru_
+2. [A 7.1 magnitude earthquake strikes in the Pacific Ocean near Acari in Peru's Arequipa Region resulting in 1 death and 65 injured. ](/news/2018/01/14/a-7-1-magnitude-earthquake-strikes-in-the-pacific-ocean-near-acara-in-peru-s-arequipa-region-resulting-in-1-death-and-65-injured.md) _Context: Peru_
+3. [Former Peru president Alberto Fujimori is taken, from prison, to a local hospital for treatment for abnormally low blood pressure. ](/news/2017/12/23/former-peru-president-alberto-fujimori-is-taken-from-prison-to-a-local-hospital-for-treatment-for-abnormally-low-blood-pressure.md) _Context: Peru_
+4. [The main opposition party of Peru, Popular Force, which has the absolute majority in Congress, gives the president Pedro Pablo Kuczynski less than 24 hours to present his resignation. This comes after it revealed that he received large sums of money from the Odebrecht construction company, through a financial advisory firm of his property, in exchange of the concession of important infrastructures for the country. ](/news/2017/12/14/the-main-opposition-party-of-peru-popular-force-which-has-the-absolute-majority-in-congress-gives-the-president-pedro-pablo-kuczynski-les.md) _Context: Peru_
+5. [A 22-year-old student is found dead inside the National University of San Marcos, of Lima, and the most important and oldest of Peru. Everything seems to indicate that he had been killed. Authorities have identified a possible suspect, who is also a student at the university. ](/news/2017/12/12/a-22-year-old-student-is-found-dead-inside-the-national-university-of-san-marcos-of-lima-and-the-most-important-and-oldest-of-peru-everyt.md) _Context: Peru_

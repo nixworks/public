@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/19/a-kansas-city-police-captain-has-been-shot-dead
 
 ### [2016-07-19](/news/2016/07/19/index.md)
 
+##### Kansas City, Kansas
 # A Kansas City police captain has been shot dead in Kansas City, Kansas. One suspect is in custody and two others are possibly at large. 
 
 KANSAS &#8212; A Kansas City Police Captain has died after being shot in Kansas City, Kansas on Tuesday. The scene is at 22nd and Haskell. KSHB reported: &#8220;According to police, officers responded to a shots fired call. One person was taken into custody. As police pursued two more suspects, more shots were fired, and an officer &hellip;

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/11/former-gam-rebel-leader-irwandi-yusuf-is-elected-governor-of-the-indonesian-province-of-aceh-in-elections-that-are-part-of-a-peace-deal-end.html)  [JSON](/news/2006/12/11/former-gam-rebel-leader-irwandi-yusuf-is-elected-governor-of-the-indonesian-province-of-aceh-in-elections-that-are-part-of-a-peace-deal-end.json)  [XML](/news/2006/12/11/former-gam-rebel-leader-irwandi-yusuf-is-elected-governor-of-the-indonesian-province-of-aceh-in-elections-that-are-part-of-a-peace-deal-end.xml)  
+
 ### [2006-12-11](/news/2006/12/11/index.md)
 
+##### GAM
 #  Former GAM rebel leader Irwandi Yusuf is elected governor of the Indonesian province of Aceh in elections that are part of a peace deal ending the civil war. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bernama](http://www.bernama.com.my/bernama/v3/news.php?id=235821)
 

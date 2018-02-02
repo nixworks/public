@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/23/the-european-centre-for-disease-prevention-and-control-finds-that-the-rate-of-new-cases-of-aids-in-europe-has-doubled-since-1999.html)  [JSON](/news/2007/11/23/the-european-centre-for-disease-prevention-and-control-finds-that-the-rate-of-new-cases-of-aids-in-europe-has-doubled-since-1999.json)  [XML](/news/2007/11/23/the-european-centre-for-disease-prevention-and-control-finds-that-the-rate-of-new-cases-of-aids-in-europe-has-doubled-since-1999.xml)  
+
 ### [2007-11-23](/news/2007/11/23/index.md)
 
+##### European Centre for Disease Prevention and Control
 #  The European Centre for Disease Prevention and Control finds that the rate of new cases of AIDS in Europe has doubled since 1999. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/health/7109139.stm)
 

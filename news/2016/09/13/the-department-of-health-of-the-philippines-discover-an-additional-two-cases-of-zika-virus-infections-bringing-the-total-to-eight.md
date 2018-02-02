@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/13/the-department-of-health-of-the-philippines-dis
 
 ### [2016-09-13](/news/2016/09/13/index.md)
 
+##### 2015-16 Zika virus epidemic
 # The Department of Health of the Philippines discover an additional two cases of Zika virus infections bringing the total to eight. 
 
 The Health Ministry on Tuesday (Sept 13) reported two more cases of locally transmitted Zika infections in the central Philippine city of Iloilo, 600km south of the capital Manila.. Read more at straitstimes.com.

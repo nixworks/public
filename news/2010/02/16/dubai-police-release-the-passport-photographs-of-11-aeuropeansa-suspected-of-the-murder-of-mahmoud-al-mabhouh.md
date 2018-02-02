@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/16/dubai-police-release-the-passport-photographs-of-11-aeuropeansa-suspected-of-the-murder-of-mahmoud-al-mabhouh.html)  [JSON](/news/2010/02/16/dubai-police-release-the-passport-photographs-of-11-aeuropeansa-suspected-of-the-murder-of-mahmoud-al-mabhouh.json)  [XML](/news/2010/02/16/dubai-police-release-the-passport-photographs-of-11-aeuropeansa-suspected-of-the-murder-of-mahmoud-al-mabhouh.xml)  
+
 ### [2010-02-16](/news/2010/02/16/index.md)
 
+##### Mahmoud al-Mabhouh
 # Dubai police release the passport photographs of 11 "Europeans" suspected of the murder of Mahmoud al-Mabhouh. 
 
 Members of a suspected hit squad blamed for the assassination of a Hamas commander in Dubai used fake British and Irish passports, it has emerged.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8516901.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/dubai/7250914/Dubai-Hamas-assassination-suspects-used-fake-passports.html)

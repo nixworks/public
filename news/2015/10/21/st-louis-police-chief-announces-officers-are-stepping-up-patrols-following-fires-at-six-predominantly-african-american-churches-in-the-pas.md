@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/21/st-louis-police-chief-announces-officers-are-stepping-up-patrols-following-fires-at-six-predominantly-african-american-churches-in-the-pas.html)  [JSON](/news/2015/10/21/st-louis-police-chief-announces-officers-are-stepping-up-patrols-following-fires-at-six-predominantly-african-american-churches-in-the-pas.json)  [XML](/news/2015/10/21/st-louis-police-chief-announces-officers-are-stepping-up-patrols-following-fires-at-six-predominantly-african-american-churches-in-the-pas.xml)  
+
 ### [2015-10-21](/news/2015/10/21/index.md)
 
+##### St. Louis
 # St. Louis' police chief announces officers are stepping up patrols following fires at six predominantly African-American churches in the past two weeks. No one has been injured in any of the fires. The reward for information leading to an arrest is now $4,000; the St. Louis Police Officers' Association will match the $2,000 reward being offered by the St. Louis Regional Crime Stoppers and the ATF. The American Civil Liberties Union of Missouri and the Anti-Defamation League suggest the fires may be arson sparked by racist motivations. 
 
 Fires have been set at the front doors of six churches in St. Louis and Jennings since Oct. 8.
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/six-fires-st-louis-churches-under-investigation-reward-offered-n447836)
 2. [St. Louis Post-Dispatch](http://www.stltoday.com/news/local/crime-and-courts/st-louis-police-add-patrols-trying-to-crack-string-of/article_26d2eb76-f517-5394-9a21-f31ccfdc024a.html)

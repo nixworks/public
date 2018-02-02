@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/9/shanghai-metro-line-2-opens-service-to-pudong-international-airport.html)  [JSON](/news/2010/04/9/shanghai-metro-line-2-opens-service-to-pudong-international-airport.json)  [XML](/news/2010/04/9/shanghai-metro-line-2-opens-service-to-pudong-international-airport.xml)  
+
 ### [2010-04-9](/news/2010/04/9/index.md)
 
+##### metro
 # Shanghai Metro Line 2 opens service to Pudong International Airport. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Shanghai Daily](http://www.shanghaidaily.com/sp/article/2010/201004/20100409/article_433686.htm)
 

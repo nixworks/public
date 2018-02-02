@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/17/honda-recalls-nearly-700-000-vehicles-in-the-fit-freed-and-city-model-range-due-to-a-defective-spring.html)  [JSON](/news/2011/02/17/honda-recalls-nearly-700-000-vehicles-in-the-fit-freed-and-city-model-range-due-to-a-defective-spring.json)  [XML](/news/2011/02/17/honda-recalls-nearly-700-000-vehicles-in-the-fit-freed-and-city-model-range-due-to-a-defective-spring.xml)  
+
 ### [2011-02-17](/news/2011/02/17/index.md)
 
+##### Honda Motor Co.
 # Honda recalls nearly 700,000 vehicles in the Fit, Freed, and City model range due to a defective spring. 
 
 Honda is recalling nearly 700,000 Fit, Freed and City compact cars around the world for a defective spring part that may cause the engine to stall.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/41641006/ns/business-autos/from/toolbar)
 1. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Photo/_new/110217-honda_fit.standard.jpg)

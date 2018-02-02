@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/26/a-collision-between-a-bus-and-a-mini-truck-kills-34-people-and-leaves-30-injured-near-the-town-of-badaun-in-uttar-pradesh-state-in-norther.html)  [JSON](/news/2010/12/26/a-collision-between-a-bus-and-a-mini-truck-kills-34-people-and-leaves-30-injured-near-the-town-of-badaun-in-uttar-pradesh-state-in-norther.json)  [XML](/news/2010/12/26/a-collision-between-a-bus-and-a-mini-truck-kills-34-people-and-leaves-30-injured-near-the-town-of-badaun-in-uttar-pradesh-state-in-norther.xml)  
+
 ### [2010-12-26](/news/2010/12/26/index.md)
 
+##### Badaun
 # A collision between a bus and a mini-truck kills 34 people and leaves 30 injured, near the town of Badaun in Uttar Pradesh state, in northern India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jkw0kbSBMUGAx0xBxU84ULlCTxAA?docId=01b584b3901a4b73bcc7e3bfcf4777ad)
 2. [Oneindia](http://news.oneindia.in/2010/12/26/massive-road-mishap-in-up-death-toll-mounts-to-36.html)

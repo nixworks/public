@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/21/japan-issues-a-tourist-visa-to-former-taiwanese-leader-lee-teng-hui-despite-protests-from-the-people-s-republic-of-china-that-such-a-move-w.html)  [JSON](/news/2004/12/21/japan-issues-a-tourist-visa-to-former-taiwanese-leader-lee-teng-hui-despite-protests-from-the-people-s-republic-of-china-that-such-a-move-w.json)  [XML](/news/2004/12/21/japan-issues-a-tourist-visa-to-former-taiwanese-leader-lee-teng-hui-despite-protests-from-the-people-s-republic-of-china-that-such-a-move-w.xml)  
+
 ### [2004-12-21](/news/2004/12/21/index.md)
 
+##### Lee Teng-hui
 #  Japan issues a tourist visa to former Taiwanese leader Lee Teng-hui despite protests from the People's Republic of China that such a move would harm bilateral relations. The PRC considers Lee a Taiwan independence agitator. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4113641.stm)
 

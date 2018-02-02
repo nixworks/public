@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/07/26/swiss-bank-ubs-ag-pays-885m-in-a-settlement-with-american-regulators-over-allegations-that-the-bank-misrepresented-mortgage-backed-bonds-du.html)  [JSON](/news/2013/07/26/swiss-bank-ubs-ag-pays-885m-in-a-settlement-with-american-regulators-over-allegations-that-the-bank-misrepresented-mortgage-backed-bonds-du.json)  [XML](/news/2013/07/26/swiss-bank-ubs-ag-pays-885m-in-a-settlement-with-american-regulators-over-allegations-that-the-bank-misrepresented-mortgage-backed-bonds-du.xml)  
+
 ### [2013-07-26](/news/2013/07/26/index.md)
 
+##### UBS
 # Swiss bank UBS AG pays $885m in a settlement with American regulators over allegations that the bank misrepresented mortgage-backed bonds during the pre-2007 housing bubble, paving the way for billions more to be paid by other banks. 
 
 UBS will pay $885 million in a settlement with a U.S. regulator over allegations the Swiss bank misrepresented mortgage-backed bonds during the housing bubble, paving the way for billions more to be paid by other banks.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/07/26/us-usa-ubs-settlement-idUSBRE96O1FH20130726)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130726&t=2&i=754385962&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE96O1OIW00)
+1. [Reuters](https://www.reuters.com/article/2013/07/26/us-usa-ubs-settlement-idUSBRE96O1FH20130726)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130726&t=2&i=754385962&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE96O1OIW00)
 
 ### Related:
 

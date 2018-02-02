@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/07/23/the-indian-government-unveils-a-solar-power-touch-screen-laptop-cheaper-than-america-s-ipad-expected-to-be-on-sale-next-year.html)  [JSON](/news/2010/07/23/the-indian-government-unveils-a-solar-power-touch-screen-laptop-cheaper-than-america-s-ipad-expected-to-be-on-sale-next-year.json)  [XML](/news/2010/07/23/the-indian-government-unveils-a-solar-power-touch-screen-laptop-cheaper-than-america-s-ipad-expected-to-be-on-sale-next-year.xml)  
+
 ### [2010-07-23](/news/2010/07/23/index.md)
 
+##### iPad
 # The Indian government unveils a solar power touch-screen laptop, cheaper than America's iPad, expected to be on sale next year. 
 
 The Indian government unveils the prototype of an iPad-like touch-screen laptop, with a price tag of $35 (£23), which it hopes to roll out next year.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10740817)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/jul/23/india-unveils-cheapest-laptop)
-3. [The Independent](http://www.independent.co.uk/news/world/asia/india-takes-on-the-ipad-with-16323-touchscreen-tablet-for-students-2034075.html)
+3. [The Independent](https://www.independent.co.uk/news/world/asia/india-takes-on-the-ipad-with-16323-touchscreen-tablet-for-students-2034075.html)
 4. [The Jakarta Post](http://www.thejakartapost.com/news/2010/07/23/india-unveils-prototype-35-tablet-computer.html)
 4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 

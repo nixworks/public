@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/20/a-6-2-magnitude-earthquake-occurs-on-the-lower-north-island-of-new-zealand-near-the-capital-wellington.html)  [JSON](/news/2014/01/20/a-6-2-magnitude-earthquake-occurs-on-the-lower-north-island-of-new-zealand-near-the-capital-wellington.json)  [XML](/news/2014/01/20/a-6-2-magnitude-earthquake-occurs-on-the-lower-north-island-of-new-zealand-near-the-capital-wellington.xml)  
+
 ### [2014-01-20](/news/2014/01/20/index.md)
 
+##### North Island
 # A 6.2 magnitude earthquake occurs on the lower North Island of New Zealand near the capital Wellington. 
 
 Do you have any photos or video? Contact the Herald here . - New Zealand Herald
 
 
-### Source:
+### Sources:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11189343)
 1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/20144/eagle_1024x761.jpg)

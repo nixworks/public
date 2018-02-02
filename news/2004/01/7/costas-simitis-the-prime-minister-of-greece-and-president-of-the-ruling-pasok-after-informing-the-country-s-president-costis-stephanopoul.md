@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/7/costas-simitis-the-prime-minister-of-greece-and-president-of-the-ruling-pasok-after-informing-the-country-s-president-costis-stephanopoul.html)  [JSON](/news/2004/01/7/costas-simitis-the-prime-minister-of-greece-and-president-of-the-ruling-pasok-after-informing-the-country-s-president-costis-stephanopoul.json)  [XML](/news/2004/01/7/costas-simitis-the-prime-minister-of-greece-and-president-of-the-ruling-pasok-after-informing-the-country-s-president-costis-stephanopoul.xml)  
+
 ### [2004-01-7](/news/2004/01/7/index.md)
 
+##### Costas Simitis
 #  Costas Simitis, the prime minister of Greece and president of the ruling PASOK, after informing the country's president Costis Stephanopoulos, announced his resignation. At the same time he announced national elections for March 7, 2004, when PASOK will have a new president, expected to be George Papandreou. PASOK will be challenged by the New Democracy opposition led by Kostas Karamanlis. See, (Greek) and, (English).
 
 

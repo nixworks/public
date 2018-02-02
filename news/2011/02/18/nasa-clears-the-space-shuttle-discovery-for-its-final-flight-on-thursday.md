@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/18/nasa-clears-the-space-shuttle-discovery-for-its-final-flight-on-thursday.html)  [JSON](/news/2011/02/18/nasa-clears-the-space-shuttle-discovery-for-its-final-flight-on-thursday.json)  [XML](/news/2011/02/18/nasa-clears-the-space-shuttle-discovery-for-its-final-flight-on-thursday.xml)  
+
 ### [2011-02-18](/news/2011/02/18/index.md)
 
+##### NASA
 # NASA clears the Space Shuttle Discovery for its final flight on Thursday. 
 
 Top NASA officials met today and unanimously agreed to proceed with the planned launch of the space shuttle Discovery on Feb. 24 – the orbiter&#039;s final mission to the International Space Station before its impending retirement. 
 
 
-### Source:
+### Sources:
 
 1. [Space](http://www.space.com/10903-space-shuttle-discovery-launch-date.html)
 1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAwNy84NzAvb3JpZ2luYWwvc2h1dHRsZS1kaXNjb3ZlcnktZmluYWwtcm9sbG91dC0xMTAxMzEuanBn)

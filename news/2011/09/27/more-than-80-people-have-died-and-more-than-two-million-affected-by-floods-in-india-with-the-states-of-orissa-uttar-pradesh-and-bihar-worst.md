@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/27/more-than-80-people-have-died-and-more-than-two-million-affected-by-floods-in-india-with-the-states-of-orissa-uttar-pradesh-and-bihar-worst.html)  [JSON](/news/2011/09/27/more-than-80-people-have-died-and-more-than-two-million-affected-by-floods-in-india-with-the-states-of-orissa-uttar-pradesh-and-bihar-worst.json)  [XML](/news/2011/09/27/more-than-80-people-have-died-and-more-than-two-million-affected-by-floods-in-india-with-the-states-of-orissa-uttar-pradesh-and-bihar-worst.xml)  
+
 ### [2011-09-27](/news/2011/09/27/index.md)
 
+##### flood
 # More than 80 people have died and more than two million affected by floods in India with the states of Orissa, Uttar Pradesh and Bihar worst affected. 
 
 More than two million people have been affected by floods in India as torrential rains lash Orissa, Uttar Pradesh and Bihar states.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-15070815)
 1. [Cover Image](http://playlists.bbc.co.uk/news/world-south-asia-15070815A/playlist.sxml)

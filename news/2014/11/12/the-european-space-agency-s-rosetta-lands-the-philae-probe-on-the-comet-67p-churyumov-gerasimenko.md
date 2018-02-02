@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/11/12/the-european-space-agency-s-rosetta-lands-the-philae-probe-on-the-comet-67p-churyumov-gerasimenko.html)  [JSON](/news/2014/11/12/the-european-space-agency-s-rosetta-lands-the-philae-probe-on-the-comet-67p-churyumov-gerasimenko.json)  [XML](/news/2014/11/12/the-european-space-agency-s-rosetta-lands-the-philae-probe-on-the-comet-67p-churyumov-gerasimenko.xml)  
+
 ### [2014-11-12](/news/2014/11/12/index.md)
 
+##### European Space Agency
 # The European Space Agency's "Rosetta" lands the "Philae" probe on the comet 67P-Churyumov-Gerasimenko. 
 
 Even before the Philae landing probe approaches the surface of Comet 67P/Churyumov-Gerasimenko today, scientists know the space rock is not what they imagined when the mission launched in 2004. Data collected by the Rosetta orbiter shows that the comet is warmer and shaped differently than expected, and the surface is porous and uneven rather than smooth. That increases the difficulty for today’s first-ever attempt to land a craft on a comet.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-30026398)
-2. [Washington Post](http://apps.washingtonpost.com/g/page/national/for-rosetta-a-comet-up-close/1450/)
+2. [Washington Post](https://apps.washingtonpost.com/g/page/national/for-rosetta-a-comet-up-close/1450/)
 2. [Cover Image](https://www.washingtonpost.com/generic/media/embedder/image/w-Rosetta_S7promo.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/9/lifetime-senator-giorgio-napolitano-is-elected-as-the-new-president-of-the-italian-republic-after-four-ballots.html)  [JSON](/news/2006/05/9/lifetime-senator-giorgio-napolitano-is-elected-as-the-new-president-of-the-italian-republic-after-four-ballots.json)  [XML](/news/2006/05/9/lifetime-senator-giorgio-napolitano-is-elected-as-the-new-president-of-the-italian-republic-after-four-ballots.xml)  
+
 ### [2006-05-9](/news/2006/05/9/index.md)
 
+##### Giorgio Napolitano
 #  Lifetime Senator Giorgio Napolitano is elected as the new President of the Italian Republic after four ballots. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4757895.stm)
 

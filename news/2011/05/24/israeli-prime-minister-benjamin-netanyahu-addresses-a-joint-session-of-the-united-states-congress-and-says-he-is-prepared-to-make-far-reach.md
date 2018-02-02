@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/24/israeli-prime-minister-benjamin-netanyahu-addresses-a-joint-session-of-the-united-states-congress-and-says-he-is-prepared-to-make-far-reach.html)  [JSON](/news/2011/05/24/israeli-prime-minister-benjamin-netanyahu-addresses-a-joint-session-of-the-united-states-congress-and-says-he-is-prepared-to-make-far-reach.json)  [XML](/news/2011/05/24/israeli-prime-minister-benjamin-netanyahu-addresses-a-joint-session-of-the-united-states-congress-and-says-he-is-prepared-to-make-far-reach.xml)  
+
 ### [2011-05-24](/news/2011/05/24/index.md)
 
+##### Israeli Prime Minister
 # Israeli Prime Minister Benjamin Netanyahu addresses a joint session of the United States Congress and says he is prepared to make "far-reaching compromises" for a peace deal with Palestinians, but states that Israel will not return to its pre-1967 borders. 
 
 Israeli Prime Minister Benjamin Netanyahu told a joint meeting of the U.S. Congress Tuesday that he is prepared to make &quot;painful compromises&quot; for a peace deal with Palestinians, but reiterated his insistence that Israel will never return to the boundaries that existed before the 1967 Middle East war.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/meast/05/24/us.netanyahu.speech/index.html?hpt=C2)
 2. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=222023)

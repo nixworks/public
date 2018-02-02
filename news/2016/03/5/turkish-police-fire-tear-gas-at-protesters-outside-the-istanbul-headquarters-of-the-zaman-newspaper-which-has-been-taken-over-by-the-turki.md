@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/5/turkish-police-fire-tear-gas-at-protesters-outsi
 
 ### [2016-03-5](/news/2016/03/5/index.md)
 
+##### Media freedom in Turkey
 # Turkish police fire tear gas at protesters outside the Istanbul headquarters of the "Zaman" newspaper which has been taken over by the Turkish government. 
 
 

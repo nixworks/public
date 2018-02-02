@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/5/in-malawi-president-bingu-wa-mutharika-quits-the-governing-party-the-united-democratic-front-stating-he-is-fed-up-of-criticism-of-his-an.html)  [JSON](/news/2005/02/5/in-malawi-president-bingu-wa-mutharika-quits-the-governing-party-the-united-democratic-front-stating-he-is-fed-up-of-criticism-of-his-an.json)  [XML](/news/2005/02/5/in-malawi-president-bingu-wa-mutharika-quits-the-governing-party-the-united-democratic-front-stating-he-is-fed-up-of-criticism-of-his-an.xml)  
+
 ### [2005-02-5](/news/2005/02/5/index.md)
 
+##### Malawi
 #  In Malawi, President Bingu wa Mutharika quits the governing party, the United Democratic Front, stating he is fed up of criticism of his anti-corruption campaign. The party had debated whether to expel him for alleged misconduct. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4239145.stm)
 2. [IOL, SA](http://www.iol.co.za/index.php?set_id=1&click_id=84&art_id=vn20050207064947534C277512)

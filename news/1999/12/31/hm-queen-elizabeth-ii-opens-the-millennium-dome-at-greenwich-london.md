@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/12/31/hm-queen-elizabeth-ii-opens-the-millennium-dome-at-greenwich-london.html)  [JSON](/news/1999/12/31/hm-queen-elizabeth-ii-opens-the-millennium-dome-at-greenwich-london.json)  [XML](/news/1999/12/31/hm-queen-elizabeth-ii-opens-the-millennium-dome-at-greenwich-london.xml)  
+
 ### [1999-12-31](/news/1999/12/31/index.md)
 
+##### Queen Elizabeth
 #  HM Queen Elizabeth II opens the Millennium Dome at Greenwich, London.
 
 

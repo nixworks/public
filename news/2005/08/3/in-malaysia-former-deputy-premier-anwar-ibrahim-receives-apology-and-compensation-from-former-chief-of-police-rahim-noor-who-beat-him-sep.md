@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/3/in-malaysia-former-deputy-premier-anwar-ibrahim-receives-apology-and-compensation-from-former-chief-of-police-rahim-noor-who-beat-him-sep.html)  [JSON](/news/2005/08/3/in-malaysia-former-deputy-premier-anwar-ibrahim-receives-apology-and-compensation-from-former-chief-of-police-rahim-noor-who-beat-him-sep.json)  [XML](/news/2005/08/3/in-malaysia-former-deputy-premier-anwar-ibrahim-receives-apology-and-compensation-from-former-chief-of-police-rahim-noor-who-beat-him-sep.xml)  
+
 ### [2005-08-3](/news/2005/08/3/index.md)
 
+##### Malaysia
 #  In Malaysia, former deputy premier Anwar Ibrahim receives apology and compensation from former chief of police Rahim Noor, who beat him September 1999 ago when he was arrested on dubious grounds. In return, Ibrahim drops the case again him. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Channel News Aaia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/161291/1/.html)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-08-03T065304Z_01_N03669603_RTRIDST_0_INTERNATIONAL-MALAYSIA-POLITICS-ANWAR-DC.XML)

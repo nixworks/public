@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/14/the-egyptian-parliament-approves-the-transfer-o
 
 ### [2017-06-14](/news/2017/06/14/index.md)
 
+##### Egypt-Saudi Arabia relations
 # The Egyptian parliament approves the transfer of two uninhabited Red Sea islands, Tiran Island and Sanafir Island, to Saudi Arabia. 
 
 

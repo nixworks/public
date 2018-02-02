@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/6/bronisaaw-komorowski-is-officially-sworn-in-as-president-of-poland-following-the-death-of-president-lech-kaczyaski-in-a-plane-crash-in-ap.html)  [JSON](/news/2010/08/6/bronisaaw-komorowski-is-officially-sworn-in-as-president-of-poland-following-the-death-of-president-lech-kaczyaski-in-a-plane-crash-in-ap.json)  [XML](/news/2010/08/6/bronisaaw-komorowski-is-officially-sworn-in-as-president-of-poland-following-the-death-of-president-lech-kaczyaski-in-a-plane-crash-in-ap.xml)  
+
 ### [2010-08-6](/news/2010/08/6/index.md)
 
+##### Bronislaw Komorowski
 # Bronislaw Komorowski is officially sworn in as President of Poland, following the death of President Lech Kaczynski in a plane crash in April. 
 
 Bronislaw Komorowski pledges to strenghten ties with the European Union.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/20108612287752806.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-10891555)

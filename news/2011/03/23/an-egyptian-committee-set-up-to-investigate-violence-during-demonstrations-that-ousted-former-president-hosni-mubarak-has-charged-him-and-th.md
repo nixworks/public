@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/23/an-egyptian-committee-set-up-to-investigate-violence-during-demonstrations-that-ousted-former-president-hosni-mubarak-has-charged-him-and-th.html)  [JSON](/news/2011/03/23/an-egyptian-committee-set-up-to-investigate-violence-during-demonstrations-that-ousted-former-president-hosni-mubarak-has-charged-him-and-th.json)  [XML](/news/2011/03/23/an-egyptian-committee-set-up-to-investigate-violence-during-demonstrations-that-ousted-former-president-hosni-mubarak-has-charged-him-and-th.xml)  
+
 ### [2011-03-23](/news/2011/03/23/index.md)
 
+##### 2011 Egyptian revolution
 # An Egyptian committee set up to investigate violence during demonstrations that ousted former President Hosni Mubarak has charged him and the interior minister with the intentional murder of protesters. 
 
 Investigation of violence during protests says former president and interior minister intentionally murdered over 360 protesters.
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=213411)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=160188)

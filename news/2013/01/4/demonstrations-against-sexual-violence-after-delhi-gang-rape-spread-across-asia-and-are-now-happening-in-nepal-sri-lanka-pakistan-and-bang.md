@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/4/demonstrations-against-sexual-violence-after-delhi-gang-rape-spread-across-asia-and-are-now-happening-in-nepal-sri-lanka-pakistan-and-bang.html)  [JSON](/news/2013/01/4/demonstrations-against-sexual-violence-after-delhi-gang-rape-spread-across-asia-and-are-now-happening-in-nepal-sri-lanka-pakistan-and-bang.json)  [XML](/news/2013/01/4/demonstrations-against-sexual-violence-after-delhi-gang-rape-spread-across-asia-and-are-now-happening-in-nepal-sri-lanka-pakistan-and-bang.xml)  
+
 ### [2013-01-4](/news/2013/01/4/index.md)
 
+##### sexual violence
 # Demonstrations against sexual violence after Delhi gang rape spread across Asia and are now happening in Nepal, Sri Lanka, Pakistan and Bangladesh. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2013/jan/04/rape-protests-spread-beyond-india)
 

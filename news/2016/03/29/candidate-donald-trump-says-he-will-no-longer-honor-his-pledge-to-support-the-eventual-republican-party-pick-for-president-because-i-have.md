@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/29/candidate-donald-trump-says-he-will-no-longer-h
 
 ### [2016-03-29](/news/2016/03/29/index.md)
 
+##### 2016 U.S. presidential election
 # Candidate Donald Trump says he will no longer honor his pledge to support the eventual Republican Party pick for president because, "I have been treated very unfairly." 
 
 Donald Trump, Ted Cruz and John Kasich all backed away from earlier pledges to support the eventual Republican nominee during a CNN town hall.

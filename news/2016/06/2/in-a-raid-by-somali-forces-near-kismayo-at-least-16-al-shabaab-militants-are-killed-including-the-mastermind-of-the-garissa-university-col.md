@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/2/in-a-raid-by-somali-forces-near-kismayo-at-least
 
 ### [2016-06-2](/news/2016/06/2/index.md)
 
+##### War in Somalia (2009-present)
 # In a raid by Somali forces near Kismayo, at least 16 Al-Shabaab militants are killed, including the mastermind of the Garissa University College attack. 
 
 The leader of the deadly 2015 attack on Garissa University in Kenya has been killed, officials in Somalia say.

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/10/western-leaders-are-criticised-at-the-world-summit-on-the-information-society-in-geneva-http-www-reuters-co-uk-newsarticle-jhtml-type-t.html)  [JSON](/news/2003/12/10/western-leaders-are-criticised-at-the-world-summit-on-the-information-society-in-geneva-http-www-reuters-co-uk-newsarticle-jhtml-type-t.json)  [XML](/news/2003/12/10/western-leaders-are-criticised-at-the-world-summit-on-the-information-society-in-geneva-http-www-reuters-co-uk-newsarticle-jhtml-type-t.xml)  
+
 ### [2003-12-10](/news/2003/12/10/index.md)
 
+##### World Summit on the Information Society
 #  Western leaders are criticised at the World Summit on the Information Society in Geneva. [http:--www.reuters.co.uk-newsArticle.jhtml?type=technologyNews&storyID=3968760&section=news]
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/19/one-briton-killed-and-12-people-wounded-by-a-car-bomb-in-doha-qatar.html)  [JSON](/news/2005/03/19/one-briton-killed-and-12-people-wounded-by-a-car-bomb-in-doha-qatar.json)  [XML](/news/2005/03/19/one-briton-killed-and-12-people-wounded-by-a-car-bomb-in-doha-qatar.xml)  
+
 ### [2005-03-19](/news/2005/03/19/index.md)
 
+##### British
 #  One Briton killed and 12 people wounded by a car bomb in Doha, Qatar. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/0BDACDA4-241C-40CD-A216-066F004D3665.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4365039.stm)

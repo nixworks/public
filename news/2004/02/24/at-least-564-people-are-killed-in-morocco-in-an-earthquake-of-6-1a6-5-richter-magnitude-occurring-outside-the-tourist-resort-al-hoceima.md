@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/24/at-least-564-people-are-killed-in-morocco-in-an-earthquake-of-6-1a6-5-richter-magnitude-occurring-outside-the-tourist-resort-al-hoceima.html)  [JSON](/news/2004/02/24/at-least-564-people-are-killed-in-morocco-in-an-earthquake-of-6-1a6-5-richter-magnitude-occurring-outside-the-tourist-resort-al-hoceima.json)  [XML](/news/2004/02/24/at-least-564-people-are-killed-in-morocco-in-an-earthquake-of-6-1a6-5-richter-magnitude-occurring-outside-the-tourist-resort-al-hoceima.xml)  
+
 ### [2004-02-24](/news/2004/02/24/index.md)
 
+##### Morocco
 #  At least 564 people are killed in Morocco, in an earthquake of 6.1-6.5 Richter magnitude, occurring outside the tourist resort Al Hoceima in the middle of the night (0227 UTC). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/3515803.stm)
 

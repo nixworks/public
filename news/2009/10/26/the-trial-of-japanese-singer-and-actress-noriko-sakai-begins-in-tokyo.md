@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/26/the-trial-of-japanese-singer-and-actress-noriko-sakai-begins-in-tokyo.html)  [JSON](/news/2009/10/26/the-trial-of-japanese-singer-and-actress-noriko-sakai-begins-in-tokyo.json)  [XML](/news/2009/10/26/the-trial-of-japanese-singer-and-actress-noriko-sakai-begins-in-tokyo.xml)  
+
 ### [2009-10-26](/news/2009/10/26/index.md)
 
+##### Japan
 #  The trial of Japanese singer and actress Noriko Sakai begins in Tokyo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8326030.stm)
 2. [Japan Today](http://www.japantoday.com/category/crime/view/sakai-admits-to-drug-use-possession-6000-line-up-for-20-gallery-seats)

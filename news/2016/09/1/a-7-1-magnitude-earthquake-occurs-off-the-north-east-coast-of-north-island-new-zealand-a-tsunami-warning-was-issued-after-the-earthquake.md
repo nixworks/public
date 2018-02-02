@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/1/a-7-1-magnitude-earthquake-occurs-off-the-north-
 
 ### [2016-09-1](/news/2016/09/1/index.md)
 
+##### North Island
 # A 7.1 magnitude earthquake occurs off the north east coast of North Island, New Zealand. A tsunami warning was issued after the earthquake, and waves of 0.3m have been reported near Gisborne. 
 
 Residents of a small community in north-east New Zealand are briefly told to evacuate after a powerful quake sparks a tsunami warning.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/18/as-many-as-36-people-are-killed-south-of-baghdad-in-fighting-between-shiite-militiamen-and-british-forces-doing-door-to-door-searches.html)  [JSON](/news/2007/06/18/as-many-as-36-people-are-killed-south-of-baghdad-in-fighting-between-shiite-militiamen-and-british-forces-doing-door-to-door-searches.json)  [XML](/news/2007/06/18/as-many-as-36-people-are-killed-south-of-baghdad-in-fighting-between-shiite-militiamen-and-british-forces-doing-door-to-door-searches.xml)  
+
 ### [2007-06-18](/news/2007/06/18/index.md)
 
+##### Baghdad
 #  As many as 36 people are killed south of Baghdad in fighting between Shiite militiamen and British forces doing door-to-door searches. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via San Jose Mercury News](http://www.mercurynews.com/news/ci_6166695)
 

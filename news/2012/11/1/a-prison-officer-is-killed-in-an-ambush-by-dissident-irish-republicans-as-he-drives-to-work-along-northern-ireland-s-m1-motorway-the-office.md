@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/1/a-prison-officer-is-killed-in-an-ambush-by-dissident-irish-republicans-as-he-drives-to-work-along-northern-ireland-s-m1-motorway-the-office.html)  [JSON](/news/2012/11/1/a-prison-officer-is-killed-in-an-ambush-by-dissident-irish-republicans-as-he-drives-to-work-along-northern-ireland-s-m1-motorway-the-office.json)  [XML](/news/2012/11/1/a-prison-officer-is-killed-in-an-ambush-by-dissident-irish-republicans-as-he-drives-to-work-along-northern-ireland-s-m1-motorway-the-office.xml)  
+
 ### [2012-11-1](/news/2012/11/1/index.md)
 
+##### prison officer
 # A prison officer is killed in an ambush by dissident Irish republicans as he drives to work along Northern Ireland's M1 motorway. The officer, who worked at the province's Maghaberry Prison, is the first member of the Northern Ireland Prison Service to be killed in such an attack in 20 years. 
 
 The family of a Northern Ireland prison officer murdered as he drove to work are &quot;absolutely devastated&quot;, their minister says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-20164370)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/63870000/jpg/_63870633_davidblackprisonofficerkilled02(2).jpg)

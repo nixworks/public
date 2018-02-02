@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/4/philippines-vice-president-leni-robredo-resigns-
 
 ### [2016-12-4](/news/2016/12/4/index.md)
 
+##### Vice President of the Philippines
 # Philippines Vice President Leni Robredo resigns her Cabinet post as housing secretary due to major differences in principles and values. Robredo says she is staying on in her elected position as vice president. 
 
 MANILA, Philippines (AP) — There was no immediate reaction Monday from Philippine President Rodrigo Duterte to the country&#039;s vice president saying she will resign her Cabinet post, citing &quot;major differences in principles…

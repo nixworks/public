@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/22/the-largest-hailstone-ever-recorded-falls-in-aurora-nebraska.html)  [JSON](/news/2003/06/22/the-largest-hailstone-ever-recorded-falls-in-aurora-nebraska.json)  [XML](/news/2003/06/22/the-largest-hailstone-ever-recorded-falls-in-aurora-nebraska.xml)  
+
 ### [2003-06-22](/news/2003/06/22/index.md)
 
+##### hailstone
 #  The largest hailstone ever recorded falls in Aurora, Nebraska.
 
 

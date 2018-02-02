@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/5/media-reports-the-death-toll-from-cyclone-nargis-in-myanmar-to-have-passed-10-000.html)  [JSON](/news/2008/05/5/media-reports-the-death-toll-from-cyclone-nargis-in-myanmar-to-have-passed-10-000.json)  [XML](/news/2008/05/5/media-reports-the-death-toll-from-cyclone-nargis-in-myanmar-to-have-passed-10-000.xml)  
+
 ### [2008-05-5](/news/2008/05/5/index.md)
 
+##### Cyclone Nargis
 #  Media reports the death toll from Cyclone Nargis in Myanmar to have passed 10,000. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7384041.stm)
 

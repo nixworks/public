@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/18/clashes-between-pygmy-and-bantu-tribes-in-tanga
 
 ### [2016-10-18](/news/2016/10/18/index.md)
 
+##### Pygmy
 # Clashes between Pygmy and Bantu tribes in Tanganyika region of Democratic Republic of Congo leave 20 people dead. 
 
 Twenty people were killed after three days of clashes between Pygmies and Bantus in Kabalo in the southeast of the Democratic Republic of Congo.

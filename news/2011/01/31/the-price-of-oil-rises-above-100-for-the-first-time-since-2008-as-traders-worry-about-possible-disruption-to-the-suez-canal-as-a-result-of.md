@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/31/the-price-of-oil-rises-above-100-for-the-first-time-since-2008-as-traders-worry-about-possible-disruption-to-the-suez-canal-as-a-result-of.html)  [JSON](/news/2011/01/31/the-price-of-oil-rises-above-100-for-the-first-time-since-2008-as-traders-worry-about-possible-disruption-to-the-suez-canal-as-a-result-of.json)  [XML](/news/2011/01/31/the-price-of-oil-rises-above-100-for-the-first-time-since-2008-as-traders-worry-about-possible-disruption-to-the-suez-canal-as-a-result-of.xml)  
+
 ### [2011-01-31](/news/2011/01/31/index.md)
 
+##### oil
 # The price of oil rises above $100 for the first time since 2008 as traders worry about possible disruption to the Suez Canal as a result of events in Egypt. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Bangkok Post](http://www.bangkokpost.com/breakingnews/219176/)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/31/five-douglas-county-colorado-sheriff-s-deputies
 
 ### [2017-12-31](/news/2017/12/31/index.md)
 
+##### Copper Canyon Apartment Homes shooting
 # Five Douglas County, Colorado sheriff's deputies are shot, one fatally, and two civilians are injured at a domestic disturbance call. The suspect was also killed. 
 
 

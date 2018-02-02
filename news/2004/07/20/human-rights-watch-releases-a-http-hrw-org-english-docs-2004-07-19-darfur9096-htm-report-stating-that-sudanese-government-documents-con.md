@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/07/20/human-rights-watch-releases-a-http-hrw-org-english-docs-2004-07-19-darfur9096-htm-report-stating-that-sudanese-government-documents-con.html)  [JSON](/news/2004/07/20/human-rights-watch-releases-a-http-hrw-org-english-docs-2004-07-19-darfur9096-htm-report-stating-that-sudanese-government-documents-con.json)  [XML](/news/2004/07/20/human-rights-watch-releases-a-http-hrw-org-english-docs-2004-07-19-darfur9096-htm-report-stating-that-sudanese-government-documents-con.xml)  
+
 ### [2004-07-20](/news/2004/07/20/index.md)
 
+##### Human Rights Watch
 #  Human Rights Watch releases a [http:--hrw.org-english-docs-2004-07-19-darfur9096.htm report] stating that Sudanese government documents confirm support for the Arab Janjaweed militia in their campaign of ethnic cleansing against African Muslims in Darfur.
 
 

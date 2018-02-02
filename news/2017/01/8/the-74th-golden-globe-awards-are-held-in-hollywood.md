@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/8/the-74th-golden-globe-awards-are-held-in-hollywo
 
 ### [2017-01-8](/news/2017/01/8/index.md)
 
+##### 74th Golden Globe Awards
 # The 74th Golden Globe Awards are held in Hollywood. 
 
 IN WHAT was one of the most bland ceremonies in Golden Globes history, the most surprising moment of this year’s show came when the incredibly dreamy Brad Pitt made an unexpected appearance as a presenter.

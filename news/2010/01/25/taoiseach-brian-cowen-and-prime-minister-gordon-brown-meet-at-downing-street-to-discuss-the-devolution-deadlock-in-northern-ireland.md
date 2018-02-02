@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/25/taoiseach-brian-cowen-and-prime-minister-gordon-brown-meet-at-downing-street-to-discuss-the-devolution-deadlock-in-northern-ireland.html)  [JSON](/news/2010/01/25/taoiseach-brian-cowen-and-prime-minister-gordon-brown-meet-at-downing-street-to-discuss-the-devolution-deadlock-in-northern-ireland.json)  [XML](/news/2010/01/25/taoiseach-brian-cowen-and-prime-minister-gordon-brown-meet-at-downing-street-to-discuss-the-devolution-deadlock-in-northern-ireland.xml)  
+
 ### [2010-01-25](/news/2010/01/25/index.md)
 
+##### Taoiseach
 # Taoiseach Brian Cowen and Prime Minister Gordon Brown meet at Downing Street to discuss the devolution deadlock in Northern Ireland. 
 
 Taoiseach Brian Cowen is to meet British Prime Minister Gordon Brown tomorrow to discuss the political situation in Northern Ireland.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0124/northpolitics.html)
 2. [The Guardian](http://www.guardian.co.uk/uk/2010/jan/24/northern-ireland-brown-cowen-powersharing)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/21/sudanese-president-omar-al-bashir-retracts-an-earlier-remark-and-says-there-will-be-no-return-to-civil-war-with-the-south-if-the-referendum.html)  [JSON](/news/2010/10/21/sudanese-president-omar-al-bashir-retracts-an-earlier-remark-and-says-there-will-be-no-return-to-civil-war-with-the-south-if-the-referendum.json)  [XML](/news/2010/10/21/sudanese-president-omar-al-bashir-retracts-an-earlier-remark-and-says-there-will-be-no-return-to-civil-war-with-the-south-if-the-referendum.xml)  
+
 ### [2010-10-21](/news/2010/10/21/index.md)
 
+##### Sudan
 # Sudanese President Omar al-Bashir retracts an earlier remark and says there will be no return to civil war with the south if the referendum on South Sudanese self-determination results in a vote for independence.
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ihALoQ4NcGnyJN77-okv9yOaOHzw?docId=CNG.8ba19bfd5fd769f4c21b71be0ecedf35.1e1)
 2. [Africa News](http://www.africanews.com/site/AlBashir_No_return_to_civil_war/list_messages/35486)

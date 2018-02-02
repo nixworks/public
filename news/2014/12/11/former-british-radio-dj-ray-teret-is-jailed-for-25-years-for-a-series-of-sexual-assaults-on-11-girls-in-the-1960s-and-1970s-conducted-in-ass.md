@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/11/former-british-radio-dj-ray-teret-is-jailed-for-25-years-for-a-series-of-sexual-assaults-on-11-girls-in-the-1960s-and-1970s-conducted-in-ass.html)  [JSON](/news/2014/12/11/former-british-radio-dj-ray-teret-is-jailed-for-25-years-for-a-series-of-sexual-assaults-on-11-girls-in-the-1960s-and-1970s-conducted-in-ass.json)  [XML](/news/2014/12/11/former-british-radio-dj-ray-teret-is-jailed-for-25-years-for-a-series-of-sexual-assaults-on-11-girls-in-the-1960s-and-1970s-conducted-in-ass.xml)  
+
 ### [2014-12-11](/news/2014/12/11/index.md)
 
+##### British
 # Former British radio DJ Ray Teret is jailed for 25 years for a series of sexual assaults on 11 girls in the 1960s and 1970s conducted in association with Jimmy Saville. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Billboard](https://www.billboard.com/biz/articles/news/legal-and-management/6405570/radio-dj-ray-teret-friend-of-jimmy-savile-jailed-for)
 1. [Cover Image](http://www.billboard.com/files/media/ray-teret-2013-billboard-650-b.jpg)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/20/in-comoros-leaders-signed-an-agreement-clearing-the-way-for-legislative-elections-in-april-http-www-irinnews-org-report-asp-reportid-3.html)  [JSON](/news/2003/12/20/in-comoros-leaders-signed-an-agreement-clearing-the-way-for-legislative-elections-in-april-http-www-irinnews-org-report-asp-reportid-3.json)  [XML](/news/2003/12/20/in-comoros-leaders-signed-an-agreement-clearing-the-way-for-legislative-elections-in-april-http-www-irinnews-org-report-asp-reportid-3.xml)  
+
 ### [2003-12-20](/news/2003/12/20/index.md)
 
+##### Comoros
 #  In Comoros, leaders signed an agreement clearing the way for legislative elections in April. [http:--www.irinnews.org-report.asp?ReportID=38549&SelectRegion=Southern_Africa&SelectCountry=COMOROS]
 
 

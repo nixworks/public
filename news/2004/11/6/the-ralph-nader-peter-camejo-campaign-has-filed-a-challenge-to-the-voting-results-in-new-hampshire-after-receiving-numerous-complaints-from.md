@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/6/the-ralph-nader-peter-camejo-campaign-has-filed-a-challenge-to-the-voting-results-in-new-hampshire-after-receiving-numerous-complaints-from.html)  [JSON](/news/2004/11/6/the-ralph-nader-peter-camejo-campaign-has-filed-a-challenge-to-the-voting-results-in-new-hampshire-after-receiving-numerous-complaints-from.json)  [XML](/news/2004/11/6/the-ralph-nader-peter-camejo-campaign-has-filed-a-challenge-to-the-voting-results-in-new-hampshire-after-receiving-numerous-complaints-from.xml)  
+
 ### [2004-11-6](/news/2004/11/6/index.md)
 
+##### Ralph Nader
 #  The Ralph Nader-Peter Camejo campaign has filed a challenge to the voting results in New Hampshire after receiving numerous complaints from voting rights activists. This effort is widely encouraged by Democrats and Independents due to suspected flaws related to Diebold Election Systems voting machines. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Nashua Telegraph](http://www.nashuatelegraph.com/apps/pbcs.dll/article?AID=/20041106/NEWS02/111060040/-1/news)
 2. [Portland Independent Media Center](http://portland.indymedia.org/en/2004/11/302395.shtml)

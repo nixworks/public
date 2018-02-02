@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/30/an-indonesian-court-in-jayapura-indicts-five-papuan-activists-for-declaring-independence-in-october.html)  [JSON](/news/2012/01/30/an-indonesian-court-in-jayapura-indicts-five-papuan-activists-for-declaring-independence-in-october.json)  [XML](/news/2012/01/30/an-indonesian-court-in-jayapura-indicts-five-papuan-activists-for-declaring-independence-in-october.xml)  
+
 ### [2012-01-30](/news/2012/01/30/index.md)
 
+##### Indonesia
 # An Indonesian court in Jayapura indicts five Papuan activists for declaring independence in October. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The West Australian](http://au.news.yahoo.com/thewest/a/-/world/12763298/indonesian-court-indicts-papuan-activists-for-treason/)
 

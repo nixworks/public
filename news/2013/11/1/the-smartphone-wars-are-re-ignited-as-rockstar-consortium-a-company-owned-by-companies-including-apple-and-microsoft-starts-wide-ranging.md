@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/11/1/the-smartphone-wars-are-re-ignited-as-rockstar-consortium-a-company-owned-by-companies-including-apple-and-microsoft-starts-wide-ranging.html)  [JSON](/news/2013/11/1/the-smartphone-wars-are-re-ignited-as-rockstar-consortium-a-company-owned-by-companies-including-apple-and-microsoft-starts-wide-ranging.json)  [XML](/news/2013/11/1/the-smartphone-wars-are-re-ignited-as-rockstar-consortium-a-company-owned-by-companies-including-apple-and-microsoft-starts-wide-ranging.xml)  
+
 ### [2013-11-1](/news/2013/11/1/index.md)
 
+##### smartphone wars
 # The smartphone wars are re-ignited, as Rockstar Consortium, a company owned by companies including Apple and Microsoft, starts wide-ranging legal action against Google, Samsung, and other makers of Android phones. 
 
 The group that owns thousands of former Nortel patents filed a barrage of patent lawsuits on Thursday against cell phone manufacturers including Google, the company it outbid in the Nortel bankruptcy auction.
 
 
-### Source:
+### Sources:
 
-1. [Ars Technica](http://arstechnica.com/tech-policy/2013/10/patent-war-goes-nuclear-microsoft-apple-owned-rockstar-sues-google/)
-2. [Reuters](http://www.reuters.com/article/2013/10/31/us-google-rockstar-lawsuit-idUSBRE99U1EN20131031)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131031&t=2&i=807842849&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99U1R5500)
+1. [Ars Technica](https://arstechnica.com/tech-policy/2013/10/patent-war-goes-nuclear-microsoft-apple-owned-rockstar-sues-google/)
+2. [Reuters](https://www.reuters.com/article/2013/10/31/us-google-rockstar-lawsuit-idUSBRE99U1EN20131031)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20131031&t=2&i=807842849&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99U1R5500)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/8/street-gunbattles-continue-for-a-third-successive-day-in-port-harcourt-nigeria-as-part-of-a-criminal-turf-war.html)  [JSON](/news/2007/08/8/street-gunbattles-continue-for-a-third-successive-day-in-port-harcourt-nigeria-as-part-of-a-criminal-turf-war.json)  [XML](/news/2007/08/8/street-gunbattles-continue-for-a-third-successive-day-in-port-harcourt-nigeria-as-part-of-a-criminal-turf-war.xml)  
+
 ### [2007-08-8](/news/2007/08/8/index.md)
 
+##### Port Harcourt
 #  Street gunbattles continue for a third successive day in Port Harcourt, Nigeria as part of a criminal turf war. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via CNN](http://edition.cnn.com/2007/WORLD/africa/08/08/nigeria.hostages.reut/index.html?eref=rss_world)
 

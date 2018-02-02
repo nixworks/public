@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/10/31/napster-and-bmg-music-announce-a-partnership-that-would-change-the-website-into-a-subscription-based-service-offering-legal-downloads.html)  [JSON](/news/2000/10/31/napster-and-bmg-music-announce-a-partnership-that-would-change-the-website-into-a-subscription-based-service-offering-legal-downloads.json)  [XML](/news/2000/10/31/napster-and-bmg-music-announce-a-partnership-that-would-change-the-website-into-a-subscription-based-service-offering-legal-downloads.xml)  
+
 ### [2000-10-31](/news/2000/10/31/index.md)
 
+##### Napster
 # Napster and BMG Music announce a partnership that would change the website into a subscription-based service offering legal downloads.
 
 

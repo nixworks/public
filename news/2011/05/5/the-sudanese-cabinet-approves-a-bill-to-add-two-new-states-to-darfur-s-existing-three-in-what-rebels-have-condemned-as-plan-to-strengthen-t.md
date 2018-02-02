@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2011/05/5/the-sudanese-cabinet-approves-a-bill-to-add-two-new-states-to-darfur-s-existing-three-in-what-rebels-have-condemned-as-plan-to-strengthen-t.html)  [JSON](/news/2011/05/5/the-sudanese-cabinet-approves-a-bill-to-add-two-new-states-to-darfur-s-existing-three-in-what-rebels-have-condemned-as-plan-to-strengthen-t.json)  [XML](/news/2011/05/5/the-sudanese-cabinet-approves-a-bill-to-add-two-new-states-to-darfur-s-existing-three-in-what-rebels-have-condemned-as-plan-to-strengthen-t.xml)  
+
 ### [2011-05-5](/news/2011/05/5/index.md)
 
+##### Sudanese cabinet
 # The Sudanese cabinet approves a bill to add two new states to Darfur's existing three, in what rebels have condemned as plan to strengthen the central government's control over the region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iHBvq2NZeD7pCR6XqqFHrQs9FA5w?docId=CNG.854889179a7ec590cda41e5232f39aed.3d1)
-2. [Reuters](http://www.reuters.com/article/2011/05/05/us-sudan-darfur-idUSTRE7446E620110505)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/2011/05/05/us-sudan-darfur-idUSTRE7446E620110505)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

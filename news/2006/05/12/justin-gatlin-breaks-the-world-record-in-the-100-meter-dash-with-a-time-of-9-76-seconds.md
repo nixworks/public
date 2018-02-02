@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/12/justin-gatlin-breaks-the-world-record-in-the-100-meter-dash-with-a-time-of-9-76-seconds.html)  [JSON](/news/2006/05/12/justin-gatlin-breaks-the-world-record-in-the-100-meter-dash-with-a-time-of-9-76-seconds.json)  [XML](/news/2006/05/12/justin-gatlin-breaks-the-world-record-in-the-100-meter-dash-with-a-time-of-9-76-seconds.xml)  
+
 ### [2006-05-12](/news/2006/05/12/index.md)
 
+##### Justin Gatlin
 #  Justin Gatlin breaks the world record in the 100 meter dash with a time of 9.76 seconds. 
 
 Find the latest sports news and articles on the NFL, MLB, NBA, NHL, NCAA college football, NCAA college basketball and more at ABC News.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/Sports/wireStory?id=1956261)
 

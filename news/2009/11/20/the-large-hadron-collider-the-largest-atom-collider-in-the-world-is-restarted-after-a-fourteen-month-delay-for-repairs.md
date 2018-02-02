@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2009/11/20/the-large-hadron-collider-the-largest-atom-collider-in-the-world-is-restarted-after-a-fourteen-month-delay-for-repairs.html)  [JSON](/news/2009/11/20/the-large-hadron-collider-the-largest-atom-collider-in-the-world-is-restarted-after-a-fourteen-month-delay-for-repairs.json)  [XML](/news/2009/11/20/the-large-hadron-collider-the-largest-atom-collider-in-the-world-is-restarted-after-a-fourteen-month-delay-for-repairs.xml)  
+
 ### [2009-11-20](/news/2009/11/20/index.md)
 
+##### Large Hadron Collider
 #  The Large Hadron Collider, the largest atom collider in the world, is restarted after a fourteen-month delay for repairs. 
 
 Scientists are restarting a giant sub-atomic particle collider built to reproduce &quot;Big Bang&quot; conditions, the European Organisation for Nuclear Research (CERN) said on Friday.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8371662.stm)
-2. [Reuters](http://www.reuters.com/article/scienceNews/idUSTRE5AJ3TQ20091120)
+2. [Reuters](https://www.reuters.com/article/scienceNews/idUSTRE5AJ3TQ20091120)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/science/large-hadron-collider/6619091/Large-Hadron-Collider-restarts-after-14-months-of-repairs.html)
-3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20091120&t=2&i=15500319&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-11-20T220622Z_01_BTRE5AJ1PER00_RTROPTP_0_CERN)
+3. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20091120&t=2&i=15500319&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-11-20T220622Z_01_BTRE5AJ1PER00_RTROPTP_0_CERN)
 
 ### Related:
 

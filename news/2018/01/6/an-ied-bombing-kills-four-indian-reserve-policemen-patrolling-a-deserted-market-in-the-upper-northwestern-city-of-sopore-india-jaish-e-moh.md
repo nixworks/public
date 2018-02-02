@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/6/an-ied-bombing-kills-four-indian-reserve-policem
 
 ### [2018-01-6](/news/2018/01/6/index.md)
 
+##### Kashmir conflict
 # An IED bombing kills four Indian Reserve policemen patrolling a deserted market in the upper northwestern city of Sopore, India. Jaish-e-Mohammed militants, fighting against Indian rule in Kashmir, claim responsibility for the attack. 
 
 The four personnel belonging to Indian Reserve Police-3rd battalion were on duty in the township in north Kashmir

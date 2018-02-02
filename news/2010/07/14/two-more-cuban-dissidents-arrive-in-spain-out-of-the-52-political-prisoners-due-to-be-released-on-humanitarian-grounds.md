@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/14/two-more-cuban-dissidents-arrive-in-spain-out-of-the-52-political-prisoners-due-to-be-released-on-humanitarian-grounds.html)  [JSON](/news/2010/07/14/two-more-cuban-dissidents-arrive-in-spain-out-of-the-52-political-prisoners-due-to-be-released-on-humanitarian-grounds.json)  [XML](/news/2010/07/14/two-more-cuban-dissidents-arrive-in-spain-out-of-the-52-political-prisoners-due-to-be-released-on-humanitarian-grounds.xml)  
+
 ### [2010-07-14](/news/2010/07/14/index.md)
 
+##### Cuba
 # Two more Cuban dissidents arrive in Spain out of the 52 political prisoners due to be released on humanitarian grounds. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin+america-10635051)
 

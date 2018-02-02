@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/11/australia-s-2day-fm-says-it-will-donate-advertising-profits-to-a-fund-for-the-family-of-king-edward-vii-s-hospital-nurse-jacintha-saldanha.html)  [JSON](/news/2012/12/11/australia-s-2day-fm-says-it-will-donate-advertising-profits-to-a-fund-for-the-family-of-king-edward-vii-s-hospital-nurse-jacintha-saldanha.json)  [XML](/news/2012/12/11/australia-s-2day-fm-says-it-will-donate-advertising-profits-to-a-fund-for-the-family-of-king-edward-vii-s-hospital-nurse-jacintha-saldanha.xml)  
+
 ### [2012-12-11](/news/2012/12/11/index.md)
 
+##### Australia
 # Australia's 2Day FM says it will donate advertising profits to a fund for the family of King Edward VII's Hospital nurse Jacintha Saldanha. 
 
 The Australian radio station whose DJs made a hoax call to a nurse who was later found dead is to donate at least £320,000 to a fund set up for her family.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20673899)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64687000/jpg/_64687994_64687993.jpg)

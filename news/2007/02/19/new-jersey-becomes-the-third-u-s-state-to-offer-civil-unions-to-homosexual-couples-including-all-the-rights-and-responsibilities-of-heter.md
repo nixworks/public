@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/02/19/new-jersey-becomes-the-third-u-s-state-to-offer-civil-unions-to-homosexual-couples-including-all-the-rights-and-responsibilities-of-heter.html)  [JSON](/news/2007/02/19/new-jersey-becomes-the-third-u-s-state-to-offer-civil-unions-to-homosexual-couples-including-all-the-rights-and-responsibilities-of-heter.json)  [XML](/news/2007/02/19/new-jersey-becomes-the-third-u-s-state-to-offer-civil-unions-to-homosexual-couples-including-all-the-rights-and-responsibilities-of-heter.xml)  
+
 ### [2007-02-19](/news/2007/02/19/index.md)
 
+##### New Jersey
 #  New Jersey becomes the third U.S. state to offer civil unions to homosexual couples, including all the rights and responsibilities of heterosexual marriage. 
 
 The stroke of midnight ushered in a new era for same-sex couples in the Garden State.
 
 
-### Source:
+### Sources:
 
-1. [NY Times](http://www.nytimes.com/2007/02/19/nyregion/19civil.html)
+1. [NY Times](https://www.nytimes.com/2007/02/19/nyregion/19civil.html)
 1. [Cover Image](https://static01.nyt.com/images/2007/02/19/nyregion/19gay.751.jpg)
 
 ### Related:

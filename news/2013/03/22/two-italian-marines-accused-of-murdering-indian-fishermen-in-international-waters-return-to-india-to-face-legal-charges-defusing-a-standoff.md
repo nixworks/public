@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/22/two-italian-marines-accused-of-murdering-indian-fishermen-in-international-waters-return-to-india-to-face-legal-charges-defusing-a-standoff.html)  [JSON](/news/2013/03/22/two-italian-marines-accused-of-murdering-indian-fishermen-in-international-waters-return-to-india-to-face-legal-charges-defusing-a-standoff.json)  [XML](/news/2013/03/22/two-italian-marines-accused-of-murdering-indian-fishermen-in-international-waters-return-to-india-to-face-legal-charges-defusing-a-standoff.xml)  
+
 ### [2013-03-22](/news/2013/03/22/index.md)
 
+##### Italy
 # Two Italian marines accused of murdering Indian fishermen in international waters return to India to face legal charges, defusing a standoff between the two countries. 
 
 Arrival of two marines to face murder charges in killing of Indian fishermen ends diplomatic row between two countries.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/03/201332214914193363.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/3/22/2013322144122195734_20.jpg)

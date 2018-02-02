@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/12/south-african-athlete-oscar-pistorius-is-found-guilty-of-the-culpable-homicide-of-his-partner-reeva-steenkamp.html)  [JSON](/news/2014/09/12/south-african-athlete-oscar-pistorius-is-found-guilty-of-the-culpable-homicide-of-his-partner-reeva-steenkamp.json)  [XML](/news/2014/09/12/south-african-athlete-oscar-pistorius-is-found-guilty-of-the-culpable-homicide-of-his-partner-reeva-steenkamp.xml)  
+
 ### [2014-09-12](/news/2014/09/12/index.md)
 
+##### South Africa
 # South African athlete Oscar Pistorius is found guilty of the "culpable homicide" of his partner Reeva Steenkamp. 
 
 Oscar Pistorius is found guilty of culpable homicide over the killing of his girlfriend Reeva Steenkamp, but is bailed until sentencing on 13 October.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-29149581)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/77554000/jpg/_77554891_023869500.jpg)

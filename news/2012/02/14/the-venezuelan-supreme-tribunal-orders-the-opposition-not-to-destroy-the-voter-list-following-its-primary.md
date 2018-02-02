@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/14/the-venezuelan-supreme-tribunal-orders-the-opposition-not-to-destroy-the-voter-list-following-its-primary.html)  [JSON](/news/2012/02/14/the-venezuelan-supreme-tribunal-orders-the-opposition-not-to-destroy-the-voter-list-following-its-primary.json)  [XML](/news/2012/02/14/the-venezuelan-supreme-tribunal-orders-the-opposition-not-to-destroy-the-voter-list-following-its-primary.xml)  
+
 ### [2012-02-14](/news/2012/02/14/index.md)
 
+##### Venezuela
 # The Venezuelan Supreme Tribunal orders the opposition not to destroy the voter list following its primary. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hkuo1PZCaqKEjQlULEfpD3Ldb76Q?docId=21a88b74cdf04dba8da5dcc35e4c2f7c)
 

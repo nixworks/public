@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/4/president-s-rule-is-imposed-in-goa-and-the-goa-assembly-is-placed-under-suspended-animation.html)  [JSON](/news/2005/03/4/president-s-rule-is-imposed-in-goa-and-the-goa-assembly-is-placed-under-suspended-animation.json)  [XML](/news/2005/03/4/president-s-rule-is-imposed-in-goa-and-the-goa-assembly-is-placed-under-suspended-animation.xml)  
+
 ### [2005-03-4](/news/2005/03/4/index.md)
 
+##### President's rule
 #  President's rule is imposed in Goa and the Goa assembly is placed under suspended animation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deccan Herald](http://www.deccanherald.com/deccanherald/mar052005/i1.asp)
 2. [Sify, India](http://sify.com/news/fullstory.php?id=13686504)

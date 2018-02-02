@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/28/u-s-special-envoy-to-south-sudan-donald-e-booth
 
 ### [2016-04-28](/news/2016/04/28/index.md)
 
+##### South Sudan-United States relations
 # U.S. Special Envoy to South Sudan Donald E. Booth said that the United States would consider imposing sanctions or an arms embargo on South Sudan's leaders if they fail to form and cooperate in a proposed unity government to end the country's civil war. 
 
 US envoy says sanctions or an arms embargo may be imposed on political leaders if they fail to keep the peace.

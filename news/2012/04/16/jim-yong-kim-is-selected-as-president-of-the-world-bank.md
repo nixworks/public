@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/16/jim-yong-kim-is-selected-as-president-of-the-world-bank.html)  [JSON](/news/2012/04/16/jim-yong-kim-is-selected-as-president-of-the-world-bank.json)  [XML](/news/2012/04/16/jim-yong-kim-is-selected-as-president-of-the-world-bank.xml)  
+
 ### [2012-04-16](/news/2012/04/16/index.md)
 
+##### Jim Yong Kim
 # Jim Yong Kim is selected as President of the World Bank. 
 
 Selection of Korean-born Jim Yong Kim draws criticism from other candidates over alleged US dominance of powerful post.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/04/2012416151923971344.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/14/2012414122952602734_20.jpg)

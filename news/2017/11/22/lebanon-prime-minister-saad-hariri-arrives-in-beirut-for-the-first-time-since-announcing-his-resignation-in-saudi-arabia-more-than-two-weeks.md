@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/22/lebanon-prime-minister-saad-hariri-arrives-in-b
 
 ### [2017-11-22](/news/2017/11/22/index.md)
 
+##### 2017 Lebanon-Saudi Arabia dispute
 # Lebanon Prime Minister Saad Hariri arrives in Beirut for the first time since announcing his resignation in Saudi Arabia more than two weeks ago. 
 
 Saad Hariri thrust Lebanon into crisis when he resigned during a trip to Saudi Arabia.
@@ -23,6 +24,6 @@ Saad Hariri thrust Lebanon into crisis when he resigned during a trip to Saudi A
 
 1. [Saudi Arabia says Lebanon has declared war against it through acts of aggression. ](/news/2017/11/6/saudi-arabia-says-lebanon-has-declared-war-against-it-through-acts-of-aggression.md) _Context: 2017 Lebanon-Saudi Arabia dispute, Saudi Arabia_
 2. [Saudi Arabia, and subsequently the United Arab Emirates and Kuwait, urge all citizens currently in Lebanon to leave the country immediately. Recently, Saudi Arabia declared that a missile attack on its airport from Yemen was "an act of war" by Lebanon. ](/news/2017/11/10/saudi-arabia-and-subsequently-the-united-arab-emirates-and-kuwait-urge-all-citizens-currently-in-lebanon-to-leave-the-country-immediately.md) _Context: 2017 Lebanon-Saudi Arabia dispute, Saudi Arabia_
-3. [Saudi Arabia's Crown Prince Mohammad bin Salman accuses Iran of an act of "direct military aggression" by supplying missiles to rebels in Yemen. ](/news/2017/11/7/saudi-arabia-s-crown-prince-mohammad-bin-salman-accuses-iran-of-an-act-of-direct-military-aggression-by-supplying-missiles-to-rebels-in-ye.md) _Context: Saudi Arabia_
-4. [A helicopter crashes near Saudi Arabia's border with Yemen, killing Prince Mansour bin Muqrin, and seven other Saudi officials. The cause of the crash is unknown. ](/news/2017/11/5/a-helicopter-crashes-near-saudi-arabia-s-border-with-yemen-killing-prince-mansour-bin-muqrin-and-seven-other-saudi-officials-the-cause-of.md) _Context: Saudi Arabia_
-5. [Saudi Arabia announces the arrest of billionaire investor Prince Al-Waleed bin Talal, plus at least 10 other princes, four government ministers and tens of former ministers by Crown Prince Mohammad bin Salman's newly formed anti-corruption agency. ](/news/2017/11/4/saudi-arabia-announces-the-arrest-of-billionaire-investor-prince-al-waleed-bin-talal-plus-at-least-10-other-princes-four-government-minist.md) _Context: Saudi Arabia_
+3. [For the first time, Saudi Arabia allows women to spectate at football matches, part of an easing of strict rules on gender separation by the ultra-conservative Muslim country. ](/news/2018/01/12/for-the-first-time-saudi-arabia-allows-women-to-spectate-at-football-matches-part-of-an-easing-of-strict-rules-on-gender-separation-by-the.md) _Context: Saudi Arabia_
+4. [Value Added Tax (VAT) has been introduced in Saudi Arabia and the United Arab Emirates for the first time. ](/news/2018/01/1/value-added-tax-vat-has-been-introduced-in-saudi-arabia-and-the-united-arab-emirates-for-the-first-time.md) _Context: Saudi Arabia_
+5. [The Lebanese cautiously welcome a political agreement that enables Prime Minister Saad Hariri to officially withdraw his unexpected November 4 resignation. ](/news/2017/12/6/the-lebanese-cautiously-welcome-a-political-agreement-that-enables-prime-minister-saad-hariri-to-officially-withdraw-his-unexpected-november.md) _Context: Saad Hariri_

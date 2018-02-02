@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/12/5/mexico-s-supreme-court-of-justice-of-the-nation-rules-that-a-ban-on-same-sex-marriage-in-oaxaca-state-is-illegal.html)  [JSON](/news/2012/12/5/mexico-s-supreme-court-of-justice-of-the-nation-rules-that-a-ban-on-same-sex-marriage-in-oaxaca-state-is-illegal.json)  [XML](/news/2012/12/5/mexico-s-supreme-court-of-justice-of-the-nation-rules-that-a-ban-on-same-sex-marriage-in-oaxaca-state-is-illegal.xml)  
+
 ### [2012-12-5](/news/2012/12/5/index.md)
 
+##### Mexico
 # Mexico's Supreme Court of Justice of the Nation rules that a ban on same-sex marriage in Oaxaca state is illegal. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/world/the_americas/mexican-supreme-court-rules-in-favor-of-same-sex-marriage-in-southern-oaxaca-state/2012/12/05/13549720-3f5e-11e2-8a5c-473797be602c_story.html)
+1. [The Washington Post](https://www.washingtonpost.com/world/the_americas/mexican-supreme-court-rules-in-favor-of-same-sex-marriage-in-southern-oaxaca-state/2012/12/05/13549720-3f5e-11e2-8a5c-473797be602c_story.html)
 
 ### Related:
 

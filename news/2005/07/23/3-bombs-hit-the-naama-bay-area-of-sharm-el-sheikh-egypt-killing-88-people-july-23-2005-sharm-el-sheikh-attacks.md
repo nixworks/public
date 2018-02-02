@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/07/23/3-bombs-hit-the-naama-bay-area-of-sharm-el-sheikh-egypt-killing-88-people-july-23-2005-sharm-el-sheikh-attacks.html)  [JSON](/news/2005/07/23/3-bombs-hit-the-naama-bay-area-of-sharm-el-sheikh-egypt-killing-88-people-july-23-2005-sharm-el-sheikh-attacks.json)  [XML](/news/2005/07/23/3-bombs-hit-the-naama-bay-area-of-sharm-el-sheikh-egypt-killing-88-people-july-23-2005-sharm-el-sheikh-attacks.xml)  
+
 ### [2005-07-23](/news/2005/07/23/index.md)
 
+##### Sharm el-Sheikh
 #  3 bombs hit the Naama Bay area of Sharm el-Sheikh, Egypt, killing 88 people. July 23, 2005 Sharm el-Sheikh attacks.
 
 

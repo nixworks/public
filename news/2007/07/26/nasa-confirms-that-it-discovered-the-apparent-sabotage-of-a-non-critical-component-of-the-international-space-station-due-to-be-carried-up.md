@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/26/nasa-confirms-that-it-discovered-the-apparent-sabotage-of-a-non-critical-component-of-the-international-space-station-due-to-be-carried-up.html)  [JSON](/news/2007/07/26/nasa-confirms-that-it-discovered-the-apparent-sabotage-of-a-non-critical-component-of-the-international-space-station-due-to-be-carried-up.json)  [XML](/news/2007/07/26/nasa-confirms-that-it-discovered-the-apparent-sabotage-of-a-non-critical-component-of-the-international-space-station-due-to-be-carried-up.xml)  
+
 ### [2007-07-26](/news/2007/07/26/index.md)
 
+##### NASA
 #  NASA confirms that it discovered the apparent sabotage of a non-critical component of the International Space Station due to be carried up by the Space Shuttle Endeavour on August 7. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/US/07/26/nasa.computers.reut/index.html?eref=rss_topstories)
 

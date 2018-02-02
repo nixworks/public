@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/9/the-death-toll-from-clashes-at-a-camp-in-western-sahara-between-sahrawi-protesters-and-moroccan-police-rises-to-eleven.html)  [JSON](/news/2010/11/9/the-death-toll-from-clashes-at-a-camp-in-western-sahara-between-sahrawi-protesters-and-moroccan-police-rises-to-eleven.json)  [XML](/news/2010/11/9/the-death-toll-from-clashes-at-a-camp-in-western-sahara-between-sahrawi-protesters-and-moroccan-police-rises-to-eleven.xml)  
+
 ### [2010-11-9](/news/2010/11/9/index.md)
 
+##### Western Sahara
 # The death toll from clashes at a camp in Western Sahara between Sahrawi protesters and Moroccan police rises to eleven. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hXgpw1mgchuQ5aiavZrIrwuFxN6g?docId=CNG.40880d6c436251246c06760ddff2a10c.281)
 

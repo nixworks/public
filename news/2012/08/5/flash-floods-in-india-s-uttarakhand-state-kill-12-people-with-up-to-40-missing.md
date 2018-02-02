@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/5/flash-floods-in-india-s-uttarakhand-state-kill-12-people-with-up-to-40-missing.html)  [JSON](/news/2012/08/5/flash-floods-in-india-s-uttarakhand-state-kill-12-people-with-up-to-40-missing.json)  [XML](/news/2012/08/5/flash-floods-in-india-s-uttarakhand-state-kill-12-people-with-up-to-40-missing.xml)  
+
 ### [2012-08-5](/news/2012/08/5/index.md)
 
+##### India
 # Flash floods in India's Uttarakhand state kill 12 people with up to 40 missing. 
 
 ITBP and police personnel on Sunday searched debris of flattened homes and dug rubbles to look for more bodies in rain-ravaged Uttarakhand where the toll due to the incessant downpour reached 34.
 
 
-### Source:
+### Sources:
 
 1. [Jagran Post](http://post.jagran.com/12-killed-40-missing-in-uttarakhand-flash-floods-1344151259)
 1. [Cover Image](http://images.jagran.com/uttrakhand-flash-floods-bb-.jpg)

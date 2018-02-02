@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/14/michael-ogio-is-elected-governor-general-of-papua-new-guinea-by-parliament-defeating-sir-pato-kakaraya-by-a-65-to-23-vote-margin.html)  [JSON](/news/2011/01/14/michael-ogio-is-elected-governor-general-of-papua-new-guinea-by-parliament-defeating-sir-pato-kakaraya-by-a-65-to-23-vote-margin.json)  [XML](/news/2011/01/14/michael-ogio-is-elected-governor-general-of-papua-new-guinea-by-parliament-defeating-sir-pato-kakaraya-by-a-65-to-23-vote-margin.xml)  
+
 ### [2011-01-14](/news/2011/01/14/index.md)
 
+##### Michael Ogio
 # Michael Ogio is elected Governor-General of Papua New Guinea by parliament, defeating Sir Pato Kakaraya, by a 65 to 23 vote margin. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Australia](http://www.radioaustralianews.net.au/stories/201101/3113138.htm?desktop)
 

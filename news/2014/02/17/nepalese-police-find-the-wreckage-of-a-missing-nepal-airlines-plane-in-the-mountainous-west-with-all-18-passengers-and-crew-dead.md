@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/02/17/nepalese-police-find-the-wreckage-of-a-missing-nepal-airlines-plane-in-the-mountainous-west-with-all-18-passengers-and-crew-dead.html)  [JSON](/news/2014/02/17/nepalese-police-find-the-wreckage-of-a-missing-nepal-airlines-plane-in-the-mountainous-west-with-all-18-passengers-and-crew-dead.json)  [XML](/news/2014/02/17/nepalese-police-find-the-wreckage-of-a-missing-nepal-airlines-plane-in-the-mountainous-west-with-all-18-passengers-and-crew-dead.xml)  
+
 ### [2014-02-17](/news/2014/02/17/index.md)
 
+##### Nepalese police
 # Nepalese police find the wreckage of a missing Nepal Airlines plane in the mountainous West with all 18 passengers and crew dead. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/nepal-police-plane-wreckage-no-survivors-032040382.html)
+1. [AFP via Yahoo! News](https://news.yahoo.com/nepal-police-plane-wreckage-no-survivors-032040382.html)
 
 ### Related:
 

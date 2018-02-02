@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/17/barcelona-win-the-uefa-champions-league-defeating-arsenal-2-1-in-the-final-arsenal-goalkeeper-jens-lehmann-became-the-first-player-ever-s.html)  [JSON](/news/2006/05/17/barcelona-win-the-uefa-champions-league-defeating-arsenal-2-1-in-the-final-arsenal-goalkeeper-jens-lehmann-became-the-first-player-ever-s.json)  [XML](/news/2006/05/17/barcelona-win-the-uefa-champions-league-defeating-arsenal-2-1-in-the-final-arsenal-goalkeeper-jens-lehmann-became-the-first-player-ever-s.xml)  
+
 ### [2006-05-17](/news/2006/05/17/index.md)
 
+##### FC Barcelona
 #  Barcelona win the UEFA Champions League, defeating Arsenal 2-1 in the final. Arsenal goalkeeper Jens Lehmann became the first player ever sent off in a Champions League final. Barcelona's goals were scored by Belletti and Samuel Eto'o; Arsenal's goal was scored by Sol Campbell. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/football/europe/4773353.stm)
 2. [SkySports](http://home.skysports.com/matchreport.asp?fxid=295875&amp;cpid=5)

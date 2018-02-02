@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/30/general-sonthi-boonyaratglin-who-helped-depose-prime-minister-thaksin-shinawatra-in-the-2006-thai-coup-d-a-c-tat-resigned-as-head-of-the-co.html)  [JSON](/news/2007/09/30/general-sonthi-boonyaratglin-who-helped-depose-prime-minister-thaksin-shinawatra-in-the-2006-thai-coup-d-a-c-tat-resigned-as-head-of-the-co.json)  [XML](/news/2007/09/30/general-sonthi-boonyaratglin-who-helped-depose-prime-minister-thaksin-shinawatra-in-the-2006-thai-coup-d-a-c-tat-resigned-as-head-of-the-co.xml)  
+
 ### [2007-09-30](/news/2007/09/30/index.md)
 
+##### Sonthi Boonyaratglin
 #  General Sonthi Boonyaratglin, who helped depose Prime Minister Thaksin Shinawatra in the 2006 Thai coup d'etat, resigned as head of the Council for National Security. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7022113.stm)
 

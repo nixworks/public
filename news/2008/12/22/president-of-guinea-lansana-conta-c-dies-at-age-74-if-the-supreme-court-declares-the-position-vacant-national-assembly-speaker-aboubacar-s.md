@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/22/president-of-guinea-lansana-conta-c-dies-at-age-74-if-the-supreme-court-declares-the-position-vacant-national-assembly-speaker-aboubacar-s.html)  [JSON](/news/2008/12/22/president-of-guinea-lansana-conta-c-dies-at-age-74-if-the-supreme-court-declares-the-position-vacant-national-assembly-speaker-aboubacar-s.json)  [XML](/news/2008/12/22/president-of-guinea-lansana-conta-c-dies-at-age-74-if-the-supreme-court-declares-the-position-vacant-national-assembly-speaker-aboubacar-s.xml)  
+
 ### [2008-12-22](/news/2008/12/22/index.md)
 
+##### President
 #  President of Guinea Lansana Conte dies at age 74. If the Supreme Court declares the position vacant, National Assembly Speaker Aboubacar Sompare will take over for 60 days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via the ''Canberra Times](http://www.canberratimes.com.au/news/local/news/general/guinea-strongman-lansana-conte-dies/1393756.aspx?src=rss)
 

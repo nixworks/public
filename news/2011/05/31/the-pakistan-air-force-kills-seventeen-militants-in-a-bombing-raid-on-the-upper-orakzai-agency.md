@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/31/the-pakistan-air-force-kills-seventeen-militants-in-a-bombing-raid-on-the-upper-orakzai-agency.html)  [JSON](/news/2011/05/31/the-pakistan-air-force-kills-seventeen-militants-in-a-bombing-raid-on-the-upper-orakzai-agency.json)  [XML](/news/2011/05/31/the-pakistan-air-force-kills-seventeen-militants-in-a-bombing-raid-on-the-upper-orakzai-agency.xml)  
+
 ### [2011-05-31](/news/2011/05/31/index.md)
 
+##### Pakistan Air Force
 # The Pakistan Air Force kills seventeen militants in a bombing raid on the upper Orakzai Agency. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Dawn](http://www.dawn.com/2011/05/31/seventeen-militants-killed-in-orakzai-agency.html)
 

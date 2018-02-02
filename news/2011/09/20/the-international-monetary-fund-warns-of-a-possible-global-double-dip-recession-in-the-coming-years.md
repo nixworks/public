@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/20/the-international-monetary-fund-warns-of-a-possible-global-double-dip-recession-in-the-coming-years.html)  [JSON](/news/2011/09/20/the-international-monetary-fund-warns-of-a-possible-global-double-dip-recession-in-the-coming-years.json)  [XML](/news/2011/09/20/the-international-monetary-fund-warns-of-a-possible-global-double-dip-recession-in-the-coming-years.xml)  
+
 ### [2011-09-20](/news/2011/09/20/index.md)
 
+##### International Monetary Fund
 # The International Monetary Fund warns of a possible global double-dip recession in the coming years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/home/business/article/16073633)
 

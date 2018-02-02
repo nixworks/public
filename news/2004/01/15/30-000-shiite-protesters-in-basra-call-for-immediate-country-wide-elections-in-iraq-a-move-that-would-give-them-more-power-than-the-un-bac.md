@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/15/30-000-shiite-protesters-in-basra-call-for-immediate-country-wide-elections-in-iraq-a-move-that-would-give-them-more-power-than-the-un-bac.html)  [JSON](/news/2004/01/15/30-000-shiite-protesters-in-basra-call-for-immediate-country-wide-elections-in-iraq-a-move-that-would-give-them-more-power-than-the-un-bac.json)  [XML](/news/2004/01/15/30-000-shiite-protesters-in-basra-call-for-immediate-country-wide-elections-in-iraq-a-move-that-would-give-them-more-power-than-the-un-bac.xml)  
+
 ### [2004-01-15](/news/2004/01/15/index.md)
 
+##### Shiite
 #  30,000 Shiite protesters in Basra call for immediate country-wide elections in Iraq, a move that would give them more power than the UN-backed plan for regional caucuses mandated by the US-led coalition
 
 

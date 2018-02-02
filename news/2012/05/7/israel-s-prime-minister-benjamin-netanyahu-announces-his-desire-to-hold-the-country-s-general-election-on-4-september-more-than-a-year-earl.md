@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/7/israel-s-prime-minister-benjamin-netanyahu-announces-his-desire-to-hold-the-country-s-general-election-on-4-september-more-than-a-year-earl.html)  [JSON](/news/2012/05/7/israel-s-prime-minister-benjamin-netanyahu-announces-his-desire-to-hold-the-country-s-general-election-on-4-september-more-than-a-year-earl.json)  [XML](/news/2012/05/7/israel-s-prime-minister-benjamin-netanyahu-announces-his-desire-to-hold-the-country-s-general-election-on-4-september-more-than-a-year-earl.xml)  
+
 ### [2012-05-7](/news/2012/05/7/index.md)
 
+##### Israel
 # Israel's prime minister Benjamin Netanyahu announces his desire to hold the country's general election on 4 September, more than a year early. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17975315)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60076000/jpg/_60076650_60076649.jpg)

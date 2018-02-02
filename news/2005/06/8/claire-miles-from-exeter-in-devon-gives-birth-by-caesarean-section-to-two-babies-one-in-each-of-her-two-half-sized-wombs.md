@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/8/claire-miles-from-exeter-in-devon-gives-birth-by-caesarean-section-to-two-babies-one-in-each-of-her-two-half-sized-wombs.html)  [JSON](/news/2005/06/8/claire-miles-from-exeter-in-devon-gives-birth-by-caesarean-section-to-two-babies-one-in-each-of-her-two-half-sized-wombs.json)  [XML](/news/2005/06/8/claire-miles-from-exeter-in-devon-gives-birth-by-caesarean-section-to-two-babies-one-in-each-of-her-two-half-sized-wombs.xml)  
+
 ### [2005-06-8](/news/2005/06/8/index.md)
 
+##### Exeter
 #  Claire Miles from Exeter in Devon gives birth by Caesarean section to two babies, one in each of her two half sized wombs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/low/england/devon/4394308.stm)
 

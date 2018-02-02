@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/18/president-of-china-hu-jintao-visits-survivors-in-the-earthquake-zone-as-the-death-toll-climbs-to-more-than-1-700-people.html)  [JSON](/news/2010/04/18/president-of-china-hu-jintao-visits-survivors-in-the-earthquake-zone-as-the-death-toll-climbs-to-more-than-1-700-people.json)  [XML](/news/2010/04/18/president-of-china-hu-jintao-visits-survivors-in-the-earthquake-zone-as-the-death-toll-climbs-to-more-than-1-700-people.xml)  
+
 ### [2010-04-18](/news/2010/04/18/index.md)
 
+##### Hu Jintao
 # President of China Hu Jintao visits survivors in the earthquake zone as the death toll climbs to more than 1,700 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8627946.stm)
 

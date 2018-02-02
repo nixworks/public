@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/4/dokka-umarov-denies-he-has-quit-as-head-of-chechnya-s-armed-separatist-group.html)  [JSON](/news/2010/08/4/dokka-umarov-denies-he-has-quit-as-head-of-chechnya-s-armed-separatist-group.json)  [XML](/news/2010/08/4/dokka-umarov-denies-he-has-quit-as-head-of-chechnya-s-armed-separatist-group.xml)  
+
 ### [2010-08-4](/news/2010/08/4/index.md)
 
+##### Dokka Umarov
 # Dokka Umarov denies he has quit as head of Chechnya's armed separatist group. 
 
 Doku Umarov appears in new video posting saying he will not step down from his post.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/201084123832188820.html)
 1. [Cover Image](http://www.aljazeera.com)

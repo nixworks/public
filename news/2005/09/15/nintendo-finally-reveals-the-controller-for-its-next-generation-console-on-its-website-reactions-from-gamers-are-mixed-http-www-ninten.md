@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/09/15/nintendo-finally-reveals-the-controller-for-its-next-generation-console-on-its-website-reactions-from-gamers-are-mixed-http-www-ninten.html)  [JSON](/news/2005/09/15/nintendo-finally-reveals-the-controller-for-its-next-generation-console-on-its-website-reactions-from-gamers-are-mixed-http-www-ninten.json)  [XML](/news/2005/09/15/nintendo-finally-reveals-the-controller-for-its-next-generation-console-on-its-website-reactions-from-gamers-are-mixed-http-www-ninten.xml)  
+
 ### [2005-09-15](/news/2005/09/15/index.md)
 
+##### Nintendo
 #  Nintendo finally reveals the controller for its next generation console on its website. Reactions from gamers are mixed. [http:--www.nintendo.com-newsarticle?articleid=TfyOgnUc7zB-ZlzdQvMhKJOgS5LsR2nK (Nintendo)]url=https:--web.archive.org-web-20071012202551-http:--www.nintendo.com-newsarticle?articleid=TfyOgnUc7zB-ZlzdQvMhKJOgS5LsR2nK 12, 2007 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/18/hundreds-of-people-are-feared-dead-after-a-boat-carrying-people-from-libya-to-italy-capsizes-in-the-mediterranean-sea-twenty-eight-people-h.html)  [JSON](/news/2015/04/18/hundreds-of-people-are-feared-dead-after-a-boat-carrying-people-from-libya-to-italy-capsizes-in-the-mediterranean-sea-twenty-eight-people-h.json)  [XML](/news/2015/04/18/hundreds-of-people-are-feared-dead-after-a-boat-carrying-people-from-libya-to-italy-capsizes-in-the-mediterranean-sea-twenty-eight-people-h.xml)  
+
 ### [2015-04-18](/news/2015/04/18/index.md)
 
+##### Libya
 # Hundreds of people are feared dead after a boat carrying people from Libya to Italy capsizes in the Mediterranean Sea. Twenty-eight people have been rescued. 
 
 Updated Monday morning with survivor&#039;s comments Prime Minister Joseph Muscat is to hold urgent talks with Italian Prime Minister Matteo Renzi today following the latest tragedy in the Mediterranean which left hundreds of migrants dead. Reports indicated that a large fishing boat was carrying...
 
 
-### Source:
+### Sources:
 
 1. [Times of Malta](http://www.timesofmalta.com/articles/view/20150419/local/new-migrants-emergency-28-rescued-many-corpses-found-as-boat-with-700.564511)
 1. [Cover Image](https://cdn-attachments.timesofmalta.com/61d80c7bca03b0de6dd3b607ecc2d37da71a9212-1429468383-5533f4df-620x348.jpg)

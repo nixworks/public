@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/30/australia-south-korea-and-taiwan-issue-travel-a
 
 ### [2016-08-30](/news/2016/08/30/index.md)
 
+##### 2015-16 Zika virus epidemic
 # Australia, South Korea and Taiwan issue travel advisories concerning Singapore after cases of Zika virus infection in the city-state passes 50. 
 
 Confirmed cases of Zika virus in Singapore rose to 82 on Tuesday, as the United States joined a growing list of countries warning pregnant women or those trying to get pregnant to avoid travel to the city-state.

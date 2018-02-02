@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/6/six-people-are-injured-in-a-knife-attack-at-a-chinese-train-station-in-guangzhou.html)  [JSON](/news/2014/05/6/six-people-are-injured-in-a-knife-attack-at-a-chinese-train-station-in-guangzhou.json)  [XML](/news/2014/05/6/six-people-are-injured-in-a-knife-attack-at-a-chinese-train-station-in-guangzhou.xml)  
+
 ### [2014-05-6](/news/2014/05/6/index.md)
 
+##### knife attack
 # Six people are injured in a knife attack at a Chinese train station in Guangzhou. 
 
 At least six people are injured in a knife attack at a station in Guangzhou, Chinese officials say, in the third such attack on a transport hub in three months.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-27289398)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74653000/jpg/_74653594_488386179(1).jpg)

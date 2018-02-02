@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/6/a-rush-hour-explosion-targeting-a-bus-in-colombo-sri-lanka-kills-at-least-21-people-and-injures-80.html)  [JSON](/news/2008/06/6/a-rush-hour-explosion-targeting-a-bus-in-colombo-sri-lanka-kills-at-least-21-people-and-injures-80.json)  [XML](/news/2008/06/6/a-rush-hour-explosion-targeting-a-bus-in-colombo-sri-lanka-kills-at-least-21-people-and-injures-80.xml)  
+
 ### [2008-06-6](/news/2008/06/6/index.md)
 
+##### Colombo
 #  A rush-hour explosion targeting a bus in Colombo, Sri Lanka kills at least 21 people and injures 80. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7439193.stm)
 

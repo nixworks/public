@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/17/at-least-18-people-drown-after-an-overloaded-boat-sinks-north-of-benin-s-commercial-capital-cotonou.html)  [JSON](/news/2012/12/17/at-least-18-people-drown-after-an-overloaded-boat-sinks-north-of-benin-s-commercial-capital-cotonou.json)  [XML](/news/2012/12/17/at-least-18-people-drown-after-an-overloaded-boat-sinks-north-of-benin-s-commercial-capital-cotonou.xml)  
+
 ### [2012-12-17](/news/2012/12/17/index.md)
 
+##### Beninese
 # At least 18 people drown after an overloaded boat sinks north of Benin's commercial capital Cotonou. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.trust.org/alertnet/news/at-least-18-drown-in-benin-boat-accident/)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/27/british-prime-minister-tony-blair-narrowly-defeats-a-rebellion-in-his-own-party-over-the-higher-education-bill-nbsp-a-a-highly-controvers.html)  [JSON](/news/2004/01/27/british-prime-minister-tony-blair-narrowly-defeats-a-rebellion-in-his-own-party-over-the-higher-education-bill-nbsp-a-a-highly-controvers.json)  [XML](/news/2004/01/27/british-prime-minister-tony-blair-narrowly-defeats-a-rebellion-in-his-own-party-over-the-higher-education-bill-nbsp-a-a-highly-controvers.xml)  
+
 ### [2004-01-27](/news/2004/01/27/index.md)
 
+##### Tony Blair
 #  British Prime Minister Tony Blair narrowly defeats a rebellion in his own party over the Higher Education Bill&nbsp;- a highly controversial bill to reform higher education funding, including the introduction of increased and variable tuition fees. It is approved in the House of Commons by 316 votes to 311.
 
 

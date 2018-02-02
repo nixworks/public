@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2008/12/1/the-people-s-alliance-for-democracy-leaves-protesting-at-the-thai-government-house-and-distributes-protesters-to-bangkok-s-two-airports-su.html)  [JSON](/news/2008/12/1/the-people-s-alliance-for-democracy-leaves-protesting-at-the-thai-government-house-and-distributes-protesters-to-bangkok-s-two-airports-su.json)  [XML](/news/2008/12/1/the-people-s-alliance-for-democracy-leaves-protesting-at-the-thai-government-house-and-distributes-protesters-to-bangkok-s-two-airports-su.xml)  
+
 ### [2008-12-1](/news/2008/12/1/index.md)
 
+##### yellow shirt
 #  The People's Alliance for Democracy leaves protesting at the Thai Government House and distributes protesters to Bangkok's two airports, Suvarnabhumi and Don Muang, for security reasons. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7757866.stm)
 2. [Bangkok Post](http://www.bangkokpost.com/topstories/topstories.php?id=132387)
 3. [Nation Multimedia](http://www.nationmultimedia.com/2008/12/01/politics/politics_30089870.php)
+
+### Changes:
+
+1. [ 2008 Thai political crisis: The People's Alliance for Democracy leaves protesting at the Thai Government House and distributes protesters to Bangkok's two airports, Suvarnabhumi and Don Muang, for security reasons. ](/news/2008/12/1/2008-thai-political-crisis-p-the-people-s-alliance-for-democracy-leaves-protesting-at-the-thai-government-house-and-distributes-protesters.md) _2017-08-25 03:23:15 (First version)_
+2. [ 2008 Thai political crisis:: The People's Alliance for Democracy leaves protesting at the Thai Government House and distributes protesters to Bangkok's two airports, Suvarnabhumi and Don Muang, for security reasons. ](/news/2008/12/1/2008-thai-political-crisis-the-people-s-alliance-for-democracy-leaves-protesting-at-the-thai-government-house-and-distributes-protesters.md) _2017-08-27 03:23:08 (Update)_
+2. [ The People's Alliance for Democracy leaves protesting at the Thai Government House and distributes protesters to Bangkok's two airports, Suvarnabhumi and Don Muang, for security reasons. ](/news/2008/12/1/the-people-s-alliance-for-democracy-leaves-protesting-at-the-thai-government-house-and-distributes-protesters-to-bangkok-s-two-airports-su.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@
 3. [ Pro and anti government protestors demonstrate in the Thai capital Bangkok and near the Preah Vihear Temple along the border with Cambodia. ](/news/2009/09/19/pro-and-anti-government-protestors-demonstrate-in-the-thai-capital-bangkok-and-near-the-preah-vihear-temple-along-the-border-with-cambodia.md) _Context: yellow shirt_
 4. [ People's Alliance for Democracy leader Sondhi Limthongkul is injured in an apparent assassination attempt in Bangkok, Thailand. ](/news/2009/04/17/people-s-alliance-for-democracy-leader-sondhi-limthongkul-is-injured-in-an-apparent-assassination-attempt-in-bangkok-thailand.md) _Context: yellow shirt_
 5. [ 2008 Thai political crisis: A grenade attack on a People's Alliance for Democracy rally in Bangkok injures at least 46 people. ](/news/2008/11/30/2008-thai-political-crisis-a-grenade-attack-on-a-people-s-alliance-for-democracy-rally-in-bangkok-injures-at-least-46-people.md) _Context: yellow shirt_
-
-### Changes:
-
-1. [ 2008 Thai political crisis: The People's Alliance for Democracy leaves protesting at the Thai Government House and distributes protesters to Bangkok's two airports, Suvarnabhumi and Don Muang, for security reasons. ](/news/2008/12/1/2008-thai-political-crisis-p-the-people-s-alliance-for-democracy-leaves-protesting-at-the-thai-government-house-and-distributes-protesters.md) _2017-08-25 03:23:15 (First version)_
-2. [ 2008 Thai political crisis:: The People's Alliance for Democracy leaves protesting at the Thai Government House and distributes protesters to Bangkok's two airports, Suvarnabhumi and Don Muang, for security reasons. ](/news/2008/12/1/2008-thai-political-crisis-the-people-s-alliance-for-democracy-leaves-protesting-at-the-thai-government-house-and-distributes-protesters.md) _2017-08-27 03:23:08 (Update)_
-2. [ The People's Alliance for Democracy leaves protesting at the Thai Government House and distributes protesters to Bangkok's two airports, Suvarnabhumi and Don Muang, for security reasons. ](/news/2008/12/1/the-people-s-alliance-for-democracy-leaves-protesting-at-the-thai-government-house-and-distributes-protesters-to-bangkok-s-two-airports-su.md) _(Current version)_

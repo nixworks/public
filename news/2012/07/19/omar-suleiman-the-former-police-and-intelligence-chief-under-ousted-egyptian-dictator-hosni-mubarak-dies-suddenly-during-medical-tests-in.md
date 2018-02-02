@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/19/omar-suleiman-the-former-police-and-intelligence-chief-under-ousted-egyptian-dictator-hosni-mubarak-dies-suddenly-during-medical-tests-in.html)  [JSON](/news/2012/07/19/omar-suleiman-the-former-police-and-intelligence-chief-under-ousted-egyptian-dictator-hosni-mubarak-dies-suddenly-during-medical-tests-in.json)  [XML](/news/2012/07/19/omar-suleiman-the-former-police-and-intelligence-chief-under-ousted-egyptian-dictator-hosni-mubarak-dies-suddenly-during-medical-tests-in.xml)  
+
 ### [2012-07-19](/news/2012/07/19/index.md)
 
+##### Omar Suleiman
 # Omar Suleiman, the former police and intelligence chief under ousted Egyptian dictator Hosni Mubarak, dies suddenly during medical tests in the United States. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18899004)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61677000/jpg/_61677228_suleimna.jpg)

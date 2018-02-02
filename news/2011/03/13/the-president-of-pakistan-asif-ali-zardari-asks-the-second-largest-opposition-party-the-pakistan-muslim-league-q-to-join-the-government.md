@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/13/the-president-of-pakistan-asif-ali-zardari-asks-the-second-largest-opposition-party-the-pakistan-muslim-league-q-to-join-the-government.html)  [JSON](/news/2011/03/13/the-president-of-pakistan-asif-ali-zardari-asks-the-second-largest-opposition-party-the-pakistan-muslim-league-q-to-join-the-government.json)  [XML](/news/2011/03/13/the-president-of-pakistan-asif-ali-zardari-asks-the-second-largest-opposition-party-the-pakistan-muslim-league-q-to-join-the-government.xml)  
+
 ### [2011-03-13](/news/2011/03/13/index.md)
 
+##### president
 # The President of Pakistan Asif Ali Zardari asks the second largest Opposition party, the Pakistan Muslim League-Q, to join the Government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [One Pakistan](http://www.onepakistan.com/news/top-stories/91075-zardari-asks-pml-q-to-join-government.html)
 

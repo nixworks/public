@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/23/sudanese-president-omar-al-bashir-and-the-main-darfur-rebel-group-the-justice-and-equality-movement-sign-a-ceasefire-deal.html)  [JSON](/news/2010/02/23/sudanese-president-omar-al-bashir-and-the-main-darfur-rebel-group-the-justice-and-equality-movement-sign-a-ceasefire-deal.json)  [XML](/news/2010/02/23/sudanese-president-omar-al-bashir-and-the-main-darfur-rebel-group-the-justice-and-equality-movement-sign-a-ceasefire-deal.xml)  
+
 ### [2010-02-23](/news/2010/02/23/index.md)
 
+##### Sudan
 # Sudanese President Omar al-Bashir and the main Darfur rebel group, the Justice and Equality Movement, sign a ceasefire deal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8530033.stm)
 2. [CNN](http://edition.cnn.com/2010/WORLD/africa/02/23/sudan.peace.agreement/)

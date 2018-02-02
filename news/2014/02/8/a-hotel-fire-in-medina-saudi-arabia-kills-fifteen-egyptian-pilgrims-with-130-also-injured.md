@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/02/8/a-hotel-fire-in-medina-saudi-arabia-kills-fifteen-egyptian-pilgrims-with-130-also-injured.html)  [JSON](/news/2014/02/8/a-hotel-fire-in-medina-saudi-arabia-kills-fifteen-egyptian-pilgrims-with-130-also-injured.json)  [XML](/news/2014/02/8/a-hotel-fire-in-medina-saudi-arabia-kills-fifteen-egyptian-pilgrims-with-130-also-injured.xml)  
+
 ### [2014-02-8](/news/2014/02/8/index.md)
 
+##### hotel fire
 # A hotel fire in Medina, Saudi Arabia kills fifteen Egyptian pilgrims with 130 also injured. 
 
 Fifteen people died and around 130 were injured when a fire broke out in a hotel packed with Muslim pilgrims in the Saudi Arabian city of Medina on Saturday, the state news agency said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/02/08/us-saudi-fire-idUSBREA170OP20140208)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2014/02/08/us-saudi-fire-idUSBREA170OP20140208)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

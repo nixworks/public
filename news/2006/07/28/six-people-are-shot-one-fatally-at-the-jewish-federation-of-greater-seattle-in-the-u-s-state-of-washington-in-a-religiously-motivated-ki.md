@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/28/six-people-are-shot-one-fatally-at-the-jewish-federation-of-greater-seattle-in-the-u-s-state-of-washington-in-a-religiously-motivated-ki.html)  [JSON](/news/2006/07/28/six-people-are-shot-one-fatally-at-the-jewish-federation-of-greater-seattle-in-the-u-s-state-of-washington-in-a-religiously-motivated-ki.json)  [XML](/news/2006/07/28/six-people-are-shot-one-fatally-at-the-jewish-federation-of-greater-seattle-in-the-u-s-state-of-washington-in-a-religiously-motivated-ki.xml)  
+
 ### [2006-07-28](/news/2006/07/28/index.md)
 
+##### U.S. state
 #  Six people are shot, one fatally, at the Jewish Federation of Greater Seattle in the U.S. state of Washington in a religiously-motivated killing spree. The killer identified himself as a Muslim American who was angry over the 2006 Israel-Lebanon conflict. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://hosted.ap.org/dynamic/stories/S/SEATTLE_SHOOTING?SITE=7219&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2006-07-28-20-03-32)
 

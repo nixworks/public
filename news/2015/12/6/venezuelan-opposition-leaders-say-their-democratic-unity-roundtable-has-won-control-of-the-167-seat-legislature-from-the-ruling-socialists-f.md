@@ -1,16 +1,26 @@
+
+Formats: [HTML](/news/2015/12/6/venezuelan-opposition-leaders-say-their-democratic-unity-roundtable-has-won-control-of-the-167-seat-legislature-from-the-ruling-socialists-f.html)  [JSON](/news/2015/12/6/venezuelan-opposition-leaders-say-their-democratic-unity-roundtable-has-won-control-of-the-167-seat-legislature-from-the-ruling-socialists-f.json)  [XML](/news/2015/12/6/venezuelan-opposition-leaders-say-their-democratic-unity-roundtable-has-won-control-of-the-167-seat-legislature-from-the-ruling-socialists-f.xml)  
+
 ### [2015-12-6](/news/2015/12/6/index.md)
 
+##### landslide victory in the December 6 election
 # Venezuelan opposition leaders say their Democratic Unity Roundtable has won control of the 167-seat legislature from the ruling Socialists for the first time since 1998. There is no confirmation on Sunday's election from the national electoral board. An opposition victory would be a major setback for the socialist revolution started 17 years ago by the late Hugo Chavez. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/08f41ab3928b490f81647579ab2f1dcb/challenge-socialists-venezuelans-elect-legislature)
 2. [AP](http://hosted.ap.org/dynamic/stories/L/LT_VENEZUELA_ELECTIONS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
-3. [Reuters](http://www.reuters.com/article/us-venezuela-election-idUSKBN0TP03Y20151207#kBG7mf0wty4AB8cq.97)
-3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151207&t=2&i=1100499644&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB60M6)
+3. [Reuters](https://www.reuters.com/article/us-venezuela-election-idUSKBN0TP03Y20151207#kBG7mf0wty4AB8cq.97)
+3. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20151207&t=2&i=1100499644&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB60M6)
+
+### Changes:
+
+1. [Venezuelan opposition leaders say their Democratic Unity Roundtable has won control of the 167-seat legislature from the ruling Socialists for the first time since 1998. There is no confirmation on Sunday's election from the national electoral board. An opposition victory would be a major setback for the socialist revolution started 17 years ago by the late Hugo Chavez. ](/news/2015/12/6/venezuelan-opposition-leaders-say-their-democratic-unity-roundtable-has-won-control-of-the-167-seat-legislature-from-the-ruling-socialists.md) _2017-08-25 03:43:51 (First version)_
+2. [Venezuelan parliamentary election, 2015: Venezuelan opposition leaders say their Democratic Unity Roundtable has won control of the 167-seat legislature from the ruling Socialists for the first time since 1998. There is no confirmation on Sunday's election from the national electoral board. An opposition victory would be a major setback for the socialist revolution started 17 years ago by the late Hugo Chavez. ](/news/2015/12/6/venezuelan-parliamentary-election-2015-venezuelan-opposition-leaders-say-their-democratic-unity-roundtable-has-won-control-of-the-167-seat.md) _2017-08-27 03:44:12 (Update)_
+2. [Venezuelan opposition leaders say their Democratic Unity Roundtable has won control of the 167-seat legislature from the ruling Socialists for the first time since 1998. There is no confirmation on Sunday's election from the national electoral board. An opposition victory would be a major setback for the socialist revolution started 17 years ago by the late Hugo Chavez. ](/news/2015/12/6/venezuelan-opposition-leaders-say-their-democratic-unity-roundtable-has-won-control-of-the-167-seat-legislature-from-the-ruling-socialists-f.md) _(Current version)_
 
 ### Related:
 
@@ -19,9 +29,3 @@
 3. [Venezuela announces it will suspend the sale of alcoholic beverages, fireworks and weapons before Sunday's parliamentary elections, starting Friday at 6 p.m. until next Monday at 6 p.m. Civilian permits for the possession and use of firearms and knives will be also be suspended for the same period. ](/news/2015/11/30/venezuela-announces-it-will-suspend-the-sale-of-alcoholic-beverages-fireworks-and-weapons-before-sunday-s-parliamentary-elections-starting.md) _Context: National Assembly, Venezuela, landslide victory in the December 6 election_
 4. [Voters in Venezuela go to the polls for gubernatorial elections with Hugo Chavez's Socialist Party winning in at least 19 of 23 states. ](/news/2012/12/16/voters-in-venezuela-go-to-the-polls-for-gubernatorial-elections-with-hugo-cha-vez-s-socialist-party-winning-in-at-least-19-of-23-states.md) _Context: Hugo Chavez, United Social Party of Venezuela, Venezuela_
 5. [The U.S. imposes new sanctions on eight Venezuelan officials, including Secretary of the 2017 Constituent Assembly Adan Chavez - the late President Hugo Chavez's brother, to "deter further democratic backsliding" in the South American country. ](/news/2017/08/9/the-u-s-imposes-new-sanctions-on-eight-venezuelan-officials-including-secretary-of-the-2017-constituent-assembly-ada-n-cha-vez-the-late.md) _Context: Hugo Chavez, Venezuela_
-
-### Changes:
-
-1. [Venezuelan opposition leaders say their Democratic Unity Roundtable has won control of the 167-seat legislature from the ruling Socialists for the first time since 1998. There is no confirmation on Sunday's election from the national electoral board. An opposition victory would be a major setback for the socialist revolution started 17 years ago by the late Hugo Chavez. ](/news/2015/12/6/venezuelan-opposition-leaders-say-their-democratic-unity-roundtable-has-won-control-of-the-167-seat-legislature-from-the-ruling-socialists.md) _2017-08-25 03:43:51 (First version)_
-2. [Venezuelan parliamentary election, 2015: Venezuelan opposition leaders say their Democratic Unity Roundtable has won control of the 167-seat legislature from the ruling Socialists for the first time since 1998. There is no confirmation on Sunday's election from the national electoral board. An opposition victory would be a major setback for the socialist revolution started 17 years ago by the late Hugo Chavez. ](/news/2015/12/6/venezuelan-parliamentary-election-2015-venezuelan-opposition-leaders-say-their-democratic-unity-roundtable-has-won-control-of-the-167-seat.md) _2017-08-27 03:44:12 (Update)_
-2. [Venezuelan opposition leaders say their Democratic Unity Roundtable has won control of the 167-seat legislature from the ruling Socialists for the first time since 1998. There is no confirmation on Sunday's election from the national electoral board. An opposition victory would be a major setback for the socialist revolution started 17 years ago by the late Hugo Chavez. ](/news/2015/12/6/venezuelan-opposition-leaders-say-their-democratic-unity-roundtable-has-won-control-of-the-167-seat-legislature-from-the-ruling-socialists-f.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/3/the-president-robert-mugabe-of-zimbabwe-signs-the-interception-of-communication-act-into-law-allowing-the-zimbabwean-government-to-listen.html)  [JSON](/news/2007/08/3/the-president-robert-mugabe-of-zimbabwe-signs-the-interception-of-communication-act-into-law-allowing-the-zimbabwean-government-to-listen.json)  [XML](/news/2007/08/3/the-president-robert-mugabe-of-zimbabwe-signs-the-interception-of-communication-act-into-law-allowing-the-zimbabwean-government-to-listen.xml)  
+
 ### [2007-08-3](/news/2007/08/3/index.md)
 
+##### President of Zimbabwe
 #  The President Robert Mugabe of Zimbabwe signs the Interception of Communication Act into law, allowing the Zimbabwean government to listen to private telephone conversations, open mail and intercept faxes and e-mail. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Africaasia](http://www.africasia.com/services/news/newsitem.php?area=africa&item=070803153908.xvg5lw74.php)
 

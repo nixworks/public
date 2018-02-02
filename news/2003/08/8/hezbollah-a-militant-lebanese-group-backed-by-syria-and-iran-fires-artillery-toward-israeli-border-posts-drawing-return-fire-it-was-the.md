@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2003/08/8/hezbollah-a-militant-lebanese-group-backed-by-syria-and-iran-fires-artillery-toward-israeli-border-posts-drawing-return-fire-it-was-the.html)  [JSON](/news/2003/08/8/hezbollah-a-militant-lebanese-group-backed-by-syria-and-iran-fires-artillery-toward-israeli-border-posts-drawing-return-fire-it-was-the.json)  [XML](/news/2003/08/8/hezbollah-a-militant-lebanese-group-backed-by-syria-and-iran-fires-artillery-toward-israeli-border-posts-drawing-return-fire-it-was-the.xml)  
+
 ### [2003-08-8](/news/2003/08/8/index.md)
 
+##### Hezbollah
 #  Hezbollah, a militant Lebanese group backed by Syria and Iran, fires artillery toward Israeli border posts, drawing return fire. It was the first such exchange in eight months. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP story](http://www.washtimes.com/world/20030810-115910-5380r.htm)
 

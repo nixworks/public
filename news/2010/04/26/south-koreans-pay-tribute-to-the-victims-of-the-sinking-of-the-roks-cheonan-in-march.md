@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/26/south-koreans-pay-tribute-to-the-victims-of-the-sinking-of-the-roks-cheonan-in-march.html)  [JSON](/news/2010/04/26/south-koreans-pay-tribute-to-the-victims-of-the-sinking-of-the-roks-cheonan-in-march.json)  [XML](/news/2010/04/26/south-koreans-pay-tribute-to-the-victims-of-the-sinking-of-the-roks-cheonan-in-march.xml)  
+
 ### [2010-04-26](/news/2010/04/26/index.md)
 
+##### South Korea
 #  South Koreans pay tribute to the victims of the sinking of the ROKS "Cheonan" in March. 
 
 Five-day mourning begins for 46 navy personnel who died aboard warship that sank last month.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/201042665814361110.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-04/26/c_13267777.htm)

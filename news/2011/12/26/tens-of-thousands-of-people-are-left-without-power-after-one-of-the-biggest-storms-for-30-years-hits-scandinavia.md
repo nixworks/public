@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/26/tens-of-thousands-of-people-are-left-without-power-after-one-of-the-biggest-storms-for-30-years-hits-scandinavia.html)  [JSON](/news/2011/12/26/tens-of-thousands-of-people-are-left-without-power-after-one-of-the-biggest-storms-for-30-years-hits-scandinavia.json)  [XML](/news/2011/12/26/tens-of-thousands-of-people-are-left-without-power-after-one-of-the-biggest-storms-for-30-years-hits-scandinavia.xml)  
+
 ### [2011-12-26](/news/2011/12/26/index.md)
 
+##### Scandinavians
 # Tens of thousands of people are left without power after one of the biggest storms for 30 years hits Scandinavia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/weather/2011/12/2011122610824200416.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/26/2011122695937750734_20.jpg)

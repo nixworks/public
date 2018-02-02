@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/24/slovakia-defeat-defending-champion-italy-by-a-3-2-score-following-france-s-elimination-on-tuesday-this-marks-the-first-time-in-world-cup-h.html)  [JSON](/news/2010/06/24/slovakia-defeat-defending-champion-italy-by-a-3-2-score-following-france-s-elimination-on-tuesday-this-marks-the-first-time-in-world-cup-h.json)  [XML](/news/2010/06/24/slovakia-defeat-defending-champion-italy-by-a-3-2-score-following-france-s-elimination-on-tuesday-this-marks-the-first-time-in-world-cup-h.xml)  
+
 ### [2010-06-24](/news/2010/06/24/index.md)
 
+##### Slovakia
 # Slovakia defeat defending champion Italy by a 3-2 score; following France's elimination on Tuesday, this marks the first time in World Cup history that both previous finalists fail to progress beyond the first round of play. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ (BBC News](http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_41/default.stm)
 

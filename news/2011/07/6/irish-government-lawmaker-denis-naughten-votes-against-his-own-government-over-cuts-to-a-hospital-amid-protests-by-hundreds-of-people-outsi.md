@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/6/irish-government-lawmaker-denis-naughten-votes-against-his-own-government-over-cuts-to-a-hospital-amid-protests-by-hundreds-of-people-outsi.html)  [JSON](/news/2011/07/6/irish-government-lawmaker-denis-naughten-votes-against-his-own-government-over-cuts-to-a-hospital-amid-protests-by-hundreds-of-people-outsi.json)  [XML](/news/2011/07/6/irish-government-lawmaker-denis-naughten-votes-against-his-own-government-over-cuts-to-a-hospital-amid-protests-by-hundreds-of-people-outsi.xml)  
+
 ### [2011-07-6](/news/2011/07/6/index.md)
 
+##### Denis Naughten
 # Irish government lawmaker Denis Naughten votes against his own government over cuts to a hospital, amid protests by hundreds of people outside Dail Eireann; he now faces expulsion from Fine Gael with the hospital's emergency department to close on Monday. 
 
 Roscommon-Leitrim South Fine Gael TD Denis Naughten has voted against the Government on a motion relating to the downgrading &hellip;
 
 
-### Source:
+### Sources:
 
 1. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/naughten-votes-against-govt-in-roscommon-hospital-dail-motion-511794.html)
 2. [RTÉ](http://www.rte.ie/news/2011/0706/roscommon.html)

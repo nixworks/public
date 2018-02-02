@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/27/syria-is-reported-to-have-handed-over-saddam-husseins-half-brother-sabawi-ibrahim-al-hasan-al-tikriti-to-the-interim-iraqi-government.html)  [JSON](/news/2005/02/27/syria-is-reported-to-have-handed-over-saddam-husseins-half-brother-sabawi-ibrahim-al-hasan-al-tikriti-to-the-interim-iraqi-government.json)  [XML](/news/2005/02/27/syria-is-reported-to-have-handed-over-saddam-husseins-half-brother-sabawi-ibrahim-al-hasan-al-tikriti-to-the-interim-iraqi-government.xml)  
+
 ### [2005-02-27](/news/2005/02/27/index.md)
 
+##### Syria
 #  Syria is reported to have handed over Saddam Husseins' half-brother, Sabawi Ibrahim al-Hasan al-Tikriti, to the interim Iraqi government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4303037.stm)
 

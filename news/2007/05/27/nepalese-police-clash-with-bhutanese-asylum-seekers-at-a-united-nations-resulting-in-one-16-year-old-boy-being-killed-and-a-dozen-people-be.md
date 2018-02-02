@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/27/nepalese-police-clash-with-bhutanese-asylum-seekers-at-a-united-nations-resulting-in-one-16-year-old-boy-being-killed-and-a-dozen-people-be.html)  [JSON](/news/2007/05/27/nepalese-police-clash-with-bhutanese-asylum-seekers-at-a-united-nations-resulting-in-one-16-year-old-boy-being-killed-and-a-dozen-people-be.json)  [XML](/news/2007/05/27/nepalese-police-clash-with-bhutanese-asylum-seekers-at-a-united-nations-resulting-in-one-16-year-old-boy-being-killed-and-a-dozen-people-be.xml)  
+
 ### [2007-05-27](/news/2007/05/27/index.md)
 
+##### Nepal
 #  Nepalese police clash with Bhutanese asylum seekers at a United Nations resulting in one 16-year-old boy being killed and a dozen people being injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/DEL204322.htm)
 

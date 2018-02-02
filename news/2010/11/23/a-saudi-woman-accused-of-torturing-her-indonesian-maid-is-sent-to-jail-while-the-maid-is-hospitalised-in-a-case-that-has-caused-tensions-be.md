@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/23/a-saudi-woman-accused-of-torturing-her-indonesian-maid-is-sent-to-jail-while-the-maid-is-hospitalised-in-a-case-that-has-caused-tensions-be.html)  [JSON](/news/2010/11/23/a-saudi-woman-accused-of-torturing-her-indonesian-maid-is-sent-to-jail-while-the-maid-is-hospitalised-in-a-case-that-has-caused-tensions-be.json)  [XML](/news/2010/11/23/a-saudi-woman-accused-of-torturing-her-indonesian-maid-is-sent-to-jail-while-the-maid-is-hospitalised-in-a-case-that-has-caused-tensions-be.xml)  
+
 ### [2010-11-23](/news/2010/11/23/index.md)
 
+##### Saudi Arabia
 # A Saudi woman accused of torturing her Indonesian maid is sent to jail while the maid is hospitalised, in a case that has caused tensions between the two countries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iNj6kACJlPmLv06KptburaDYtFFg?docId=CNG.97ffb7066ad167278b24b4a27965b533.7b1)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/7/voters-in-northern-ireland-go-to-the-polls-to-elect-new-members-to-the-northern-ireland-assembly.html)  [JSON](/news/2007/03/7/voters-in-northern-ireland-go-to-the-polls-to-elect-new-members-to-the-northern-ireland-assembly.json)  [XML](/news/2007/03/7/voters-in-northern-ireland-go-to-the-polls-to-elect-new-members-to-the-northern-ireland-assembly.xml)  
+
 ### [2007-03-7](/news/2007/03/7/index.md)
 
+##### Northern Ireland
 #  Voters in Northern Ireland go to the polls to elect new members to the Northern Ireland Assembly. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/6422879.stm)
 2. [BreakingNews.ie](http://www.breakingnews.ie/ireland/?jp=MHAUKFAUCWMH&rss=rss2)

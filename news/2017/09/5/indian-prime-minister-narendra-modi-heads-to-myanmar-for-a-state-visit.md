@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/5/indian-prime-minister-narendra-modi-heads-to-mya
 
 ### [2017-09-5](/news/2017/09/5/index.md)
 
+##### India-Myanmar relations
 # Indian Prime Minister Narendra Modi heads to Myanmar for a state visit. 
 
 Prime Minister Narendra Modi on Tuesday left for Nay Pyi Taw for his first bilateral visit to Myanmar with an aim of charting a roadmap for closer cooperation between the two countries in areas like s

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/18/the-argentine-navy-continues-searching-in-the-s
 
 ### [2017-11-18](/news/2017/11/18/index.md)
 
+##### Disappearance of ARA San Juan
 # The Argentine Navy continues searching in the South Atlantic for the ARA Juan submarine, which went missing on 15 November 2017. 
 
 

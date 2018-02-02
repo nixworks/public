@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/07/8/chinese-stock-market-collapse-the-shanghai-stock-market-falls-30-over-the-past-three-weeks-as-1-400-companies-or-more-than-half-listed.html)  [JSON](/news/2015/07/8/chinese-stock-market-collapse-the-shanghai-stock-market-falls-30-over-the-past-three-weeks-as-1-400-companies-or-more-than-half-listed.json)  [XML](/news/2015/07/8/chinese-stock-market-collapse-the-shanghai-stock-market-falls-30-over-the-past-three-weeks-as-1-400-companies-or-more-than-half-listed.xml)  
+
 ### [2015-07-8](/news/2015/07/8/index.md)
 
+##### Chinese stock market collapse
 #  Chinese stock market collapse: The Shanghai stock market falls 30% over the past three weeks as 1,400 companies, or more than half listed, file for a trading halt in an attempt to prevent further losses. 
 
 Main markets open sharply down as nearly 700 companies request their shares be suspended in unprecedented move
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/business/2015/jul/08/china-stock-markets-continue-nosedive-as-regulator-warns-of-panic)
+1. [The Guardian](https://www.theguardian.com/business/2015/jul/08/china-stock-markets-continue-nosedive-as-regulator-warns-of-panic)
 1. [Cover Image](https://i.guim.co.uk/img/media/acf28d45e0f27d08538dccdc2d444f92efda26b2/0_37_3000_1801/master/3000.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=78d5b88ad296d540c15f23d856855b59)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/1/the-indian-air-force-searches-unsuccessfully-for-a-helicopter-containing-dorjee-khandu-the-chief-minister-of-arunachal-pradesh-state-and-fo.html)  [JSON](/news/2011/05/1/the-indian-air-force-searches-unsuccessfully-for-a-helicopter-containing-dorjee-khandu-the-chief-minister-of-arunachal-pradesh-state-and-fo.json)  [XML](/news/2011/05/1/the-indian-air-force-searches-unsuccessfully-for-a-helicopter-containing-dorjee-khandu-the-chief-minister-of-arunachal-pradesh-state-and-fo.xml)  
+
 ### [2011-05-1](/news/2011/05/1/index.md)
 
+##### Indian Air Force
 # The Indian Air Force searches unsuccessfully for a helicopter containing Dorjee Khandu, the Chief Minister of Arunachal Pradesh state and four others. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/05/01/india.missing.helicopter/index.html?eref=edition)
 1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/05/01/india.missing.helicopter/tzvids.dorjee.khandu.gi.jpg)

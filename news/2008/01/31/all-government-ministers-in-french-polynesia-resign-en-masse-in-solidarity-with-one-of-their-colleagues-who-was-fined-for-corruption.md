@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/31/all-government-ministers-in-french-polynesia-resign-en-masse-in-solidarity-with-one-of-their-colleagues-who-was-fined-for-corruption.html)  [JSON](/news/2008/01/31/all-government-ministers-in-french-polynesia-resign-en-masse-in-solidarity-with-one-of-their-colleagues-who-was-fined-for-corruption.json)  [XML](/news/2008/01/31/all-government-ministers-in-french-polynesia-resign-en-masse-in-solidarity-with-one-of-their-colleagues-who-was-fined-for-corruption.xml)  
+
 ### [2008-01-31](/news/2008/01/31/index.md)
 
+##### French Polynesia
 #  All government ministers in French Polynesia resign en masse in solidarity with one of their colleagues, who was fined for corruption. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand](http://www.rnzi.com/pages/news.php?op=read&id=37765)
 

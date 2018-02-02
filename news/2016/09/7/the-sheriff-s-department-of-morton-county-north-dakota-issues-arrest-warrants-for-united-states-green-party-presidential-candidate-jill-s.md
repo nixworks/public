@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/7/the-sheriff-s-department-of-morton-county-north-
 
 ### [2016-09-7](/news/2016/09/7/index.md)
 
+##### Morton County, North Dakota
 # The sheriff's department of Morton County, North Dakota, issues arrest warrants for United States Green Party presidential candidate, Jill Stein, and her running-mate, Ajamu Baraka on charges of criminal trespass and criminal mischief. The county sheriff's department says that Stein and Baraka vandalized equipment at a controversial pipeline construction site. 
 
 

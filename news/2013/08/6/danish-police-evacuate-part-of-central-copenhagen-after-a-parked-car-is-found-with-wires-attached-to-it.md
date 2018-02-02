@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/6/danish-police-evacuate-part-of-central-copenhagen-after-a-parked-car-is-found-with-wires-attached-to-it.html)  [JSON](/news/2013/08/6/danish-police-evacuate-part-of-central-copenhagen-after-a-parked-car-is-found-with-wires-attached-to-it.json)  [XML](/news/2013/08/6/danish-police-evacuate-part-of-central-copenhagen-after-a-parked-car-is-found-with-wires-attached-to-it.xml)  
+
 ### [2013-08-6](/news/2013/08/6/index.md)
 
+##### Danish police
 # Danish police evacuate part of central Copenhagen after a parked car is found with wires attached to it. 
 
 DENMARK-EVACUATION/ :Police evacuate area of Copenhagen over suspect car
 
 
-### Source:
+### Sources:
 
 1. [Reuters Trust](http://www.trust.org/item/20130806093203-owuni/?source=hpbreaking)
 1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/57bcf1fb-e35e-460a-ad1b-0160644d0ca4/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)

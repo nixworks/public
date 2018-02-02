@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/24/pope-john-paul-ii-returns-to-hospital-in-rome-for-more-specialist-treatments-and-tests.html)  [JSON](/news/2005/02/24/pope-john-paul-ii-returns-to-hospital-in-rome-for-more-specialist-treatments-and-tests.json)  [XML](/news/2005/02/24/pope-john-paul-ii-returns-to-hospital-in-rome-for-more-specialist-treatments-and-tests.xml)  
+
 ### [2005-02-24](/news/2005/02/24/index.md)
 
+##### Pope John Paul II
 #  Pope John Paul II returns to hospital in Rome for more specialist treatments and tests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ANSA](http://www.ansa.it/main/notizie/fdg/200502241141188480/200502241141188480.html)
 

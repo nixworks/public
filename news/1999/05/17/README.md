@@ -1,7 +1,7 @@
-## [1999-05-17](/news/1999/05/17/index.md)
 
-### [ Ehud Barak is elected prime minister of Israel.](/news/1999/05/17/ehud-barak-is-elected-prime-minister-of-israel.md)
-_Context: Ehud Barak, Israel_
+Formats: [HTML](1999/05/17/index.html)  [JSON](1999/05/17/index.json)  [XML](1999/05/17/index.xml)  
+
+## [1999-05-17](/news/1999/05/17/index.md)
 
 ## [Previous Day...](/news/1999/05/16/index.md)
 

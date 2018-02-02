@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/20/agents-of-the-united-states-charge-127-alleged-mafia-members-in-the-northeast-of-the-country.html)  [JSON](/news/2011/01/20/agents-of-the-united-states-charge-127-alleged-mafia-members-in-the-northeast-of-the-country.json)  [XML](/news/2011/01/20/agents-of-the-united-states-charge-127-alleged-mafia-members-in-the-northeast-of-the-country.xml)  
+
 ### [2011-01-20](/news/2011/01/20/index.md)
 
+##### U.S.
 # Agents of the United States charge 127 alleged mafia members in the northeast of the country. 
 
 US federal agents charge 127 suspected mobsters in the New York region in the largest single-day FBI mafia crackdown in US history.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Guardian](http://www.guardian.co.uk/world/2011/jan/20/fbi-arrests-mafia-suspects)
 2. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/01/2011120153718558130.html)
@@ -14,8 +18,8 @@ US federal agents charge 127 suspected mobsters in the New York region in the la
 
 ### Related:
 
-1. [Schools in the Midwestern and Northeast United States close for a second successive day due to bitterly cold temperatures. ](/news/2015/01/8/schools-in-the-midwestern-and-northeast-united-states-close-for-a-second-successive-day-due-to-bitterly-cold-temperatures.md) _Context: Northeast, United States_
-2. [ There are mass arrests in the United States and Italy in an anti-Mafia sweep including three suspected senior members of the Gambino crime family. ](/news/2008/02/7/there-are-mass-arrests-in-the-united-states-and-italy-in-an-anti-mafia-sweep-including-three-suspected-senior-members-of-the-gambino-crime.md) _Context: Mafia, United States_
-3. [The Nobel Prize committee awards American Richard Thaler the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-his.md) _Context: United States_
-4. [Tropical Storm Nate heads for the Gulf Coast of the United States after causing dozens of deaths in Central America and severe flooding in the Nicaraguan town of Rivas. ](/news/2017/10/6/tropical-storm-nate-heads-for-the-gulf-coast-of-the-united-states-after-causing-dozens-of-deaths-in-central-america-and-severe-flooding-in-t.md) _Context: United States_
-5. [An apparent ambush in Niger near the Malian border leaves three U.S. Special Forces soldiers and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-u-s-special-forces-soldiers-and-five-nigerien-soldiers-dead-during-a-joint.md) _Context: United States_
+1. [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md) _Context: U.S._
+2. [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md) _Context: U.S._
+3. [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md) _Context: U.S._
+4. [During a session of the United Nations Security Council, the United States repeat its "unapologetic" support for the ongoing Iranian protests. Russia denounces the "veiled [U.S.] attempt to use the current moment to continue to undermine" the JCPOA. France calls to "be wary of any attempt to exploit this crisis for personal ends". ](/news/2018/01/5/during-a-session-of-the-united-nations-security-council-the-united-states-repeat-its-unapologetic-support-for-the-ongoing-iranian-protest.md) _Context: U.S._
+5. [Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was.md) _Context: U.S._

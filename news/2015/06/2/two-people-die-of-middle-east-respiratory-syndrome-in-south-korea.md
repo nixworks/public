@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/2/two-people-die-of-middle-east-respiratory-syndrome-in-south-korea.html)  [JSON](/news/2015/06/2/two-people-die-of-middle-east-respiratory-syndrome-in-south-korea.json)  [XML](/news/2015/06/2/two-people-die-of-middle-east-respiratory-syndrome-in-south-korea.xml)  
+
 ### [2015-06-2](/news/2015/06/2/index.md)
 
+##### 2015 Middle East respiratory syndrome coronavirus outbreak in South Korea
 # Two people die of Middle East respiratory syndrome in South Korea. 
 
 South Korea has reported 24 cases of the virus since diagnosing the its first MERS illness last month in a man who had traveled to the Middle East.
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://www.nbcnews.com/storyline/mers-mystery/two-die-mers-south-korea-n368141)
 1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2015_23/1055066/150602-south-korea-mers-1248a_c180bc489cf287ec6a381b2c2aaadc93.nbcnews-fp-1200-800.jpg)
@@ -16,4 +20,4 @@ South Korea has reported 24 cases of the virus since diagnosing the its first ME
 2. [The number of confirmed MERS cases in South Korea rises by 9 to 50. ](/news/2015/06/6/the-number-of-confirmed-mers-cases-in-south-korea-rises-by-9-to-50.md) _Context: 2015 Middle East respiratory syndrome coronavirus outbreak in South Korea, South Korea_
 3. [Four people have now died of MERS in South Korea with five new cases reported. ](/news/2015/06/5/four-people-have-now-died-of-mers-in-south-korea-with-five-new-cases-reported.md) _Context: 2015 Middle East respiratory syndrome coronavirus outbreak in South Korea, South Korea_
 4. [ The number of people with Middle Eastern Respiratory Syndrome (MERS) in South Korea rises to 35 with over 700 schools suspending classes due to fears of the syndrome. ](/news/2015/06/4/the-number-of-people-with-middle-eastern-respiratory-syndrome-mers-in-south-korea-rises-to-35-with-over-700-schools-suspending-classes-du.md) _Context: 2015 Middle East respiratory syndrome coronavirus outbreak in South Korea, South Korea_
-5. [A South Korean lawmaker claims that in 2016, North Korean hackers stole classified military documents detailing joint operations between the South Korean and United States military forces in the event of war with North Korea. ](/news/2017/10/10/a-south-korean-lawmaker-claims-that-in-2016-north-korean-hackers-stole-classified-military-documents-detailing-joint-operations-between-the.md) _Context: South Korea_
+5. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: South Korea_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/6/the-british-army-raises-its-maximum-recruitment-age-from-26-years-to-33-but-denies-that-this-is-a-reaction-to-a-failure-to-recruit-suffici.html)  [JSON](/news/2007/01/6/the-british-army-raises-its-maximum-recruitment-age-from-26-years-to-33-but-denies-that-this-is-a-reaction-to-a-failure-to-recruit-suffici.json)  [XML](/news/2007/01/6/the-british-army-raises-its-maximum-recruitment-age-from-26-years-to-33-but-denies-that-this-is-a-reaction-to-a-failure-to-recruit-suffici.xml)  
+
 ### [2007-01-6](/news/2007/01/6/index.md)
 
+##### British Army
 #  The British Army raises its maximum recruitment age from 26 years to 33, but denies that this is a reaction to a failure to recruit sufficient young people. The normal term of engagement remains 22 years, meaning that some soldiers could still be serving to age 55. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/uk/6236345.stm)
 

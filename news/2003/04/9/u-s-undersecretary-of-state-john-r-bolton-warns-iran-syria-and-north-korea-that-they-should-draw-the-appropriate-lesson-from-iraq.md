@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/9/u-s-undersecretary-of-state-john-r-bolton-warns-iran-syria-and-north-korea-that-they-should-draw-the-appropriate-lesson-from-iraq.html)  [JSON](/news/2003/04/9/u-s-undersecretary-of-state-john-r-bolton-warns-iran-syria-and-north-korea-that-they-should-draw-the-appropriate-lesson-from-iraq.json)  [XML](/news/2003/04/9/u-s-undersecretary-of-state-john-r-bolton-warns-iran-syria-and-north-korea-that-they-should-draw-the-appropriate-lesson-from-iraq.xml)  
+
 ### [2003-04-9](/news/2003/04/9/index.md)
 
+##### John R. Bolton
 #  U.S. Undersecretary of State, John R. Bolton, warns Iran, Syria, and North Korea that they should "draw the appropriate lesson from Iraq".
 
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/09/10/michael-jackson-performs-his-second-30th-anniversary-because-of-his-career-concert-in-new-york.html)  [JSON](/news/2001/09/10/michael-jackson-performs-his-second-30th-anniversary-because-of-his-career-concert-in-new-york.json)  [XML](/news/2001/09/10/michael-jackson-performs-his-second-30th-anniversary-because-of-his-career-concert-in-new-york.xml)  
+
 ### [2001-09-10](/news/2001/09/10/index.md)
 
+##### Michael Jackson
 #  Michael Jackson performs his second 30th anniversary (because of his career) concert in New York.
 
 

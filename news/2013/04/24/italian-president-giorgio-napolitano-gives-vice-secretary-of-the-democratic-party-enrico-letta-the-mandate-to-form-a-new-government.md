@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/24/italian-president-giorgio-napolitano-gives-vice-secretary-of-the-democratic-party-enrico-letta-the-mandate-to-form-a-new-government.html)  [JSON](/news/2013/04/24/italian-president-giorgio-napolitano-gives-vice-secretary-of-the-democratic-party-enrico-letta-the-mandate-to-form-a-new-government.json)  [XML](/news/2013/04/24/italian-president-giorgio-napolitano-gives-vice-secretary-of-the-democratic-party-enrico-letta-the-mandate-to-form-a-new-government.xml)  
+
 ### [2013-04-24](/news/2013/04/24/index.md)
 
+##### President of Italy
 # Italian President Giorgio Napolitano gives vice-secretary of the Democratic Party Enrico Letta the mandate to form a new government. 
 
 Enrico&#x20;Letta,&#x20;deputy&#x20;leader&#x20;of&#x20;Italy&#x2019;s&#x20;Democratic&#x20;Party,&#x20;appears&#x20;set&#x20;to&#x20;become&#x20;the&#x20;country&#x2019;s&#x20;prime&#x20;minister&#x20;after&#x20;being&#x20;asked&#x20;to&#x20;form&#x20;a&#x20;new&#x20;government&#x20;on&#x20;Wednesday&#x20;in&#x20;a&#x20;bid&#x20;to&#x20;end&#x20;the&#x20;country&#x2019;s&#x20;months-long&#x20;political&#x20;crisis.
 
 
-### Source:
+### Sources:
 
 1. [France 24](http://www.france24.com/en/20130424-italy-president-enrico-letta-prime-minister)
 2. [The Guardian](http://www.guardian.co.uk/business/2013/apr/24/eurozone-crisis-italy-prime-minister-markets)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/2/eight-people-die-in-a-car-bomb-explosion-at-a-tourist-site-in-yemen.html)  [JSON](/news/2007/07/2/eight-people-die-in-a-car-bomb-explosion-at-a-tourist-site-in-yemen.json)  [XML](/news/2007/07/2/eight-people-die-in-a-car-bomb-explosion-at-a-tourist-site-in-yemen.xml)  
+
 ### [2007-07-2](/news/2007/07/2/index.md)
 
+##### car bomb
 #  Eight people die in a car bomb explosion at a tourist site in Yemen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky](http://news.sky.com/skynews/article/0,,70131-1273294,00.html)
 
@@ -13,6 +17,6 @@
 
 1. [A car bomb explodes behind a military hospital in the Yemeni capital Sana'a causing 28 casualties. Islamic State has claimed responsibility. ](/news/2015/06/29/a-car-bomb-explodes-behind-a-military-hospital-in-the-yemeni-capital-sana-a-causing-28-casualties-islamic-state-has-claimed-responsibility.md) _Context: Yemen, car bomb_
 2. [A car bomb in the Yemeni port of Aden kills at least eight Army soldiers and wounds scores. ](/news/2011/07/24/a-car-bomb-in-the-yemeni-port-of-aden-kills-at-least-eight-army-soldiers-and-wounds-scores.md) _Context: Yemen, car bomb_
-3. [Houthi forces claim to have shot down a U.S. MQ-9 Reaper drone over the Yemeni capital Sana'a. Footage released by Saba News Agency appears to show crowds gathering around the wreckage of an aircraft. ](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.md) _Context: Yemen_
-4. [An American UH-60 Black Hawk helicopter on a training mission crashes off the coast of Yemen with six aboard, five of whom have been rescued. The search continues for the other U.S. service member. ](/news/2017/08/25/an-american-uh-60-black-hawk-helicopter-on-a-training-mission-crashes-off-the-coast-of-yemen-with-six-aboard-five-of-whom-have-been-rescued.md) _Context: Yemen_
-5. [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Yemen_
+3. [The Southern Transitional Council (STC) takes control of the Yemeni port city of Aden following two days of fierce fighting in the city which has left dozens dead. Yemeni Prime Minister Ahmed Obeid bin Daghr, and members of the President Abdrabbuh Mansur Hadi-led government are confined to the presidential palace which has been surrounded. ](/news/2018/01/30/the-southern-transitional-council-stc-takes-control-of-the-yemeni-port-city-of-aden-following-two-days-of-fierce-fighting-in-the-city-whic.md) _Context: Yemen_
+4. [United Arab Emirates-backed Southern Transitional Council (STC) fighters seize control of government buildings in the southern Yemeni city of Aden, after clashing with forces loyal to President Abdrabbuh Mansur Hadi. At least 10 people are reportedly killed and 30 wounded. Yemeni Prime Minister Ahmed Obeid bin Daghr accuses the separatists of mounting a coup. ](/news/2018/01/28/united-arab-emirates-backed-southern-transitional-council-stc-fighters-seize-control-of-government-buildings-in-the-southern-yemeni-city-o.md) _Context: Yemen_
+5. [After 1,000 days of civil war in Yemen, eight million people are at risk of starvation. ](/news/2017/12/22/after-1-000-days-of-civil-war-in-yemen-eight-million-people-are-at-risk-of-starvation.md) _Context: Yemen_

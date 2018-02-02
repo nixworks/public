@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/17/the-iraqi-government-recaptures-the-main-govern
 
 ### [2016-06-17](/news/2016/06/17/index.md)
 
+##### Military intervention against ISIL
 # The Iraqi government recaptures the main government compound in Fallujah. 
 
 

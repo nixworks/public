@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/9/space-shuttle-discovery-the-craft-for-the-sts-114-mission-lands-at-05-12-pdt-12-12-utc-at-edwards-air-force-base-in-california.html)  [JSON](/news/2005/08/9/space-shuttle-discovery-the-craft-for-the-sts-114-mission-lands-at-05-12-pdt-12-12-utc-at-edwards-air-force-base-in-california.json)  [XML](/news/2005/08/9/space-shuttle-discovery-the-craft-for-the-sts-114-mission-lands-at-05-12-pdt-12-12-utc-at-edwards-air-force-base-in-california.xml)  
+
 ### [2005-08-9](/news/2005/08/9/index.md)
 
+##### Discovery
 #  Space Shuttle "Discovery", the craft for the STS-114 mission, lands at 05:12 PDT (12:12 UTC) at Edwards Air Force Base in California. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/4133680.stm)
 2. [BBC](http://www.bbc.co.uk/go/homepage/int/who/ne/nhdr/h1/t/-/news/1/hi/sci/tech/4134986.stm)

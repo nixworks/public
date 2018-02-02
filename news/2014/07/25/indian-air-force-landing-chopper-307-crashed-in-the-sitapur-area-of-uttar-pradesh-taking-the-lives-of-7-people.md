@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/25/indian-air-force-landing-chopper-307-crashed-in-the-sitapur-area-of-uttar-pradesh-taking-the-lives-of-7-people.html)  [JSON](/news/2014/07/25/indian-air-force-landing-chopper-307-crashed-in-the-sitapur-area-of-uttar-pradesh-taking-the-lives-of-7-people.json)  [XML](/news/2014/07/25/indian-air-force-landing-chopper-307-crashed-in-the-sitapur-area-of-uttar-pradesh-taking-the-lives-of-7-people.xml)  
+
 ### [2014-07-25](/news/2014/07/25/index.md)
 
+##### Indian Air Force
 # Indian Air Force landing chopper-307 crashed in the Sitapur area of Uttar Pradesh, taking the lives of 7 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Patrika Group](http://www.patrika.com/news/indian-air-force-chopper-crashes-in-uttar-pradesh-7-feared-killed/1019889)
 

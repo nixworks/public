@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/4/typhoon-talim-brings-torrential-rains-and-landslides-in-east-people-s-republic-of-china-s-anhui-province-claiming-53-lives-and-leaving-12.html)  [JSON](/news/2005/09/4/typhoon-talim-brings-torrential-rains-and-landslides-in-east-people-s-republic-of-china-s-anhui-province-claiming-53-lives-and-leaving-12.json)  [XML](/news/2005/09/4/typhoon-talim-brings-torrential-rains-and-landslides-in-east-people-s-republic-of-china-s-anhui-province-claiming-53-lives-and-leaving-12.xml)  
+
 ### [2005-09-4](/news/2005/09/4/index.md)
 
+##### Typhoon Talim
 #  Typhoon Talim brings torrential rains and landslides in east People's Republic of China's Anhui Province, claiming 53 lives and leaving 12 missing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4212636.stm)
 2. [Xinhua](http://news.xinhuanet.com/english/2005-09/04/content_3442526.htm)

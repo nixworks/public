@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/10/iran-digs-mass-graves-in-khuzestan-province-using-psychological-warfare-in-preparation-for-an-invasion-by-the-united-states-armed-forces-af.html)  [JSON](/news/2010/08/10/iran-digs-mass-graves-in-khuzestan-province-using-psychological-warfare-in-preparation-for-an-invasion-by-the-united-states-armed-forces-af.json)  [XML](/news/2010/08/10/iran-digs-mass-graves-in-khuzestan-province-using-psychological-warfare-in-preparation-for-an-invasion-by-the-united-states-armed-forces-af.xml)  
+
 ### [2010-08-10](/news/2010/08/10/index.md)
 
+##### Iran
 # Iran digs mass graves in Khuzestan province, using psychological warfare in preparation for an invasion by the United States armed forces after the United Nations Security Council Resolution 1929, and warns that Iran will attack American bases in the Middle East if American forces attack. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://www1.voanews.com/english/news/middle-east/Iran-Digging-Mass-Graves-For-US-Troops-100353724.html)
 

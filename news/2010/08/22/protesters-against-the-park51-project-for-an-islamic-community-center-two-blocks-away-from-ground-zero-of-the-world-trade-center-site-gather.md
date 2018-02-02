@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/22/protesters-against-the-park51-project-for-an-islamic-community-center-two-blocks-away-from-ground-zero-of-the-world-trade-center-site-gather.html)  [JSON](/news/2010/08/22/protesters-against-the-park51-project-for-an-islamic-community-center-two-blocks-away-from-ground-zero-of-the-world-trade-center-site-gather.json)  [XML](/news/2010/08/22/protesters-against-the-park51-project-for-an-islamic-community-center-two-blocks-away-from-ground-zero-of-the-world-trade-center-site-gather.xml)  
+
 ### [2010-08-22](/news/2010/08/22/index.md)
 
+##### Park51
 # Protesters against the Park51 project for an Islamic community center two blocks away from Ground Zero of the World Trade Center site gather in New York City. 
 
 Opponents of a planned Islamic community center two blocks from Ground Zero in New York shouted &quot;Enough is enough&quot; at supporters of the project, as the two sides squared off today in dueling demonstrations.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/US/Politics/ground-mosque-opponents-supporters-turn-demonstrate/story?id=11455698)
 2. [CNN](http://www.cnn.com/2010/US/08/22/new.york.mosque.protests/)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/28/sayfullo-saipov-the-suspect-of-the-attack-plead
 
 ### [2017-11-28](/news/2017/11/28/index.md)
 
+##### 2017 New York City truck attack
 # Sayfullo Saipov, the suspect of the attack, pleads not guilty to all charges of murder and terrorism. 
 
 Uzbekistan-born Saipov, 29, accused of killing eight people by speeding a rental truck down a New York City bike path in October

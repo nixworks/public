@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/26/ken-starr-the-president-of-baylor-university-is
 
 ### [2016-05-26](/news/2016/05/26/index.md)
 
+##### Ken Starr
 # Ken Starr, the president of Baylor University, is stripped of his title after an investigation revealed the university mishandled accusations of sexual assault against its football players. The university's football coach, Art Briles, is also fired. 
 
 The decisions came after the university concluded that accusations of sexual assault committed by athletes had not been handled correctly.

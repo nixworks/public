@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/2/police-in-colombo-sri-lanka-arrest-three-sinhalese-buddhist-monks-for-torching-a-muslim-owned-clothing-store-raising-fears-for-safety-amo.html)  [JSON](/news/2013/04/2/police-in-colombo-sri-lanka-arrest-three-sinhalese-buddhist-monks-for-torching-a-muslim-owned-clothing-store-raising-fears-for-safety-amo.json)  [XML](/news/2013/04/2/police-in-colombo-sri-lanka-arrest-three-sinhalese-buddhist-monks-for-torching-a-muslim-owned-clothing-store-raising-fears-for-safety-amo.xml)  
+
 ### [2013-04-2](/news/2013/04/2/index.md)
 
+##### Police
 # Police in Colombo, Sri Lanka, arrest three Sinhalese Buddhist monks for torching a Muslim-owned clothing store, raising fears for safety among Muslims. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/04/20134271249861360.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/4/2/20134272614528734_20.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/25/aids-pandemic-the-united-nations-children-s-fund-unicef-unaids-and-other-partners-launch-a-global-campaign-known-as-unite-for-childre.html)  [JSON](/news/2005/10/25/aids-pandemic-the-united-nations-children-s-fund-unicef-unaids-and-other-partners-launch-a-global-campaign-known-as-unite-for-childre.json)  [XML](/news/2005/10/25/aids-pandemic-the-united-nations-children-s-fund-unicef-unaids-and-other-partners-launch-a-global-campaign-known-as-unite-for-childre.xml)  
+
 ### [2005-10-25](/news/2005/10/25/index.md)
 
+##### AIDS pandemic
 #  AIDS pandemic: The United Nations Children's Fund (Unicef), UNAIDS and other partners launch a global campaign, known as "Unite for Children, Unite Against AIDS", to spur action for the millions of children affected by HIV-AIDS. Fewer than 5 percent of HIV-positive children are receiving treatment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Unicef](http://www.unicef.org/uniteforchildren)
 

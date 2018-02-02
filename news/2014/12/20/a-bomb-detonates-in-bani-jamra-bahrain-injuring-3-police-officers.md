@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/12/20/a-bomb-detonates-in-bani-jamra-bahrain-injuring-3-police-officers.html)  [JSON](/news/2014/12/20/a-bomb-detonates-in-bani-jamra-bahrain-injuring-3-police-officers.json)  [XML](/news/2014/12/20/a-bomb-detonates-in-bani-jamra-bahrain-injuring-3-police-officers.xml)  
+
 ### [2014-12-20](/news/2014/12/20/index.md)
 
+##### Bani Jamra
 # A bomb detonates in Bani Jamra, Bahrain, injuring 3 police officers. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Wall Street Journal](http://www.wsj.com/articles/bahrain-blast-wounds-three-policemen-1419077098)
+1. [AP via ''Wall Street Journal](https://www.wsj.com/articles/bahrain-blast-wounds-three-policemen-1419077098)
 
 ### Related:
 

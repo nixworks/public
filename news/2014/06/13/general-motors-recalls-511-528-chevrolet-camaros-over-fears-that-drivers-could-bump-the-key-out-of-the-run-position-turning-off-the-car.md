@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/13/general-motors-recalls-511-528-chevrolet-camaros-over-fears-that-drivers-could-bump-the-key-out-of-the-run-position-turning-off-the-car.html)  [JSON](/news/2014/06/13/general-motors-recalls-511-528-chevrolet-camaros-over-fears-that-drivers-could-bump-the-key-out-of-the-run-position-turning-off-the-car.json)  [XML](/news/2014/06/13/general-motors-recalls-511-528-chevrolet-camaros-over-fears-that-drivers-could-bump-the-key-out-of-the-run-position-turning-off-the-car.xml)  
+
 ### [2014-06-13](/news/2014/06/13/index.md)
 
+##### General Motors
 # General Motors recalls 511,528 Chevrolet Camaros over fears that drivers could bump the key out of the "run" position, turning off the car. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Toronto Star](http://read.thestar.com/?origref=http%3A%2F%2Fnews.google.com%2F#!/article/539b2007ec0691a04a000c06-another-gm-recall-511-528-chevy-camaros-have-key-fob-defect)
 

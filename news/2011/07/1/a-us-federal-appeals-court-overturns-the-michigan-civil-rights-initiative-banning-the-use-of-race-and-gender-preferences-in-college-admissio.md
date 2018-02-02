@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/1/a-us-federal-appeals-court-overturns-the-michigan-civil-rights-initiative-banning-the-use-of-race-and-gender-preferences-in-college-admissio.html)  [JSON](/news/2011/07/1/a-us-federal-appeals-court-overturns-the-michigan-civil-rights-initiative-banning-the-use-of-race-and-gender-preferences-in-college-admissio.json)  [XML](/news/2011/07/1/a-us-federal-appeals-court-overturns-the-michigan-civil-rights-initiative-banning-the-use-of-race-and-gender-preferences-in-college-admissio.xml)  
+
 ### [2011-07-1](/news/2011/07/1/index.md)
 
+##### Federal appeals court
 # A US Federal Appeals Court overturns the Michigan Civil Rights Initiative banning the use of race and gender preferences in college admissions and government hiring and contracting in the US state of Michigan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Detroit News](http://detnews.com/article/20110701/SCHOOLS/107010416/State-to-fight-ruling-against-ban-on-race-in-college-admissions#ixzz1QtJdL7BL)
 

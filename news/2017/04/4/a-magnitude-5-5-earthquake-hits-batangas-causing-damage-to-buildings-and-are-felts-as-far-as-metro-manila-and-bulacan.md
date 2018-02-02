@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/4/a-magnitude-5-5-earthquake-hits-batangas-causing
 
 ### [2017-04-4](/news/2017/04/4/index.md)
 
+##### 2017 Batangas earthquakes
 # A magnitude 5.5 earthquake hits Batangas, causing damage to buildings and are felts as far as Metro Manila and Bulacan. 
 
 (Updated) A magnitude-5.5 earthquake struck off the coast of Batangas on Tuesday night and was felt in Metro Manila. 

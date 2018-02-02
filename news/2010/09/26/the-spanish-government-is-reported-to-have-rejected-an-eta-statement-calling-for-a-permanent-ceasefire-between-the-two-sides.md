@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/26/the-spanish-government-is-reported-to-have-rejected-an-eta-statement-calling-for-a-permanent-ceasefire-between-the-two-sides.html)  [JSON](/news/2010/09/26/the-spanish-government-is-reported-to-have-rejected-an-eta-statement-calling-for-a-permanent-ceasefire-between-the-two-sides.json)  [XML](/news/2010/09/26/the-spanish-government-is-reported-to-have-rejected-an-eta-statement-calling-for-a-permanent-ceasefire-between-the-two-sides.xml)  
+
 ### [2010-09-26](/news/2010/09/26/index.md)
 
+##### ETA
 # The Spanish government is reported to have rejected an ETA statement calling for a permanent ceasefire between the two sides. 
 
 The Spanish government has rejected a statement by the Basque separatist group Eta that it is ready for a permanent ceasefire, reports say.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/spain-rejects-eta-ceasefire-offer-20100927-15sno.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/09/201092615611273210.html)

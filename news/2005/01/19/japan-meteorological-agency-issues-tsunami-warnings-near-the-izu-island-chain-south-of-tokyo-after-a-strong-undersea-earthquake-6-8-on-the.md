@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/01/19/japan-meteorological-agency-issues-tsunami-warnings-near-the-izu-island-chain-south-of-tokyo-after-a-strong-undersea-earthquake-6-8-on-the.html)  [JSON](/news/2005/01/19/japan-meteorological-agency-issues-tsunami-warnings-near-the-izu-island-chain-south-of-tokyo-after-a-strong-undersea-earthquake-6-8-on-the.json)  [XML](/news/2005/01/19/japan-meteorological-agency-issues-tsunami-warnings-near-the-izu-island-chain-south-of-tokyo-after-a-strong-undersea-earthquake-6-8-on-the.xml)  
+
 ### [2005-01-19](/news/2005/01/19/index.md)
 
+##### Japan Meteorological Agency
 #  Japan Meteorological Agency issues tsunami warnings near the Izu island chain south of Tokyo after a strong undersea earthquake (6.8 on the Richter scale). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4186601.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000101&sid=a.0Ut6ZRfFx0&refer=japan)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000101&sid=a.0Ut6ZRfFx0&refer=japan)
 3. [Xinhua](http://news.xinhuanet.com/english/2005-01/19/content_2481339.htm)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/18/the-leonid-meteor-shower-was-visible-across-much-of-the-us-early-this-morning.html)  [JSON](/news/2010/11/18/the-leonid-meteor-shower-was-visible-across-much-of-the-us-early-this-morning.json)  [XML](/news/2010/11/18/the-leonid-meteor-shower-was-visible-across-much-of-the-us-early-this-morning.xml)  
+
 ### [2010-11-18](/news/2010/11/18/index.md)
 
+##### Leonid
 # The Leonid meteor shower was visible across much of the US early this morning. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [USA Today](http://content.usatoday.com/communities/sciencefair/post/2010/11/check-out-the-leonid-meteor-shower-tonight)
 

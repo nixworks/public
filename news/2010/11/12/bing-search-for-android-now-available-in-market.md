@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/12/bing-search-for-android-now-available-in-market.html)  [JSON](/news/2010/11/12/bing-search-for-android-now-available-in-market.json)  [XML](/news/2010/11/12/bing-search-for-android-now-available-in-market.xml)  
+
 ### [2010-11-12](/news/2010/11/12/index.md)
 
+##### Bing Search
 # Bing Search for Android now available in market. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Mobileburn](http://www.mobileburn.com/news.jsp?Id=11656)
 

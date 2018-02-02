@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/7/in-pakistan-president-pervez-musharraf-pledges-that-pakistan-will-match-india-s-military-spending-spree.html)  [JSON](/news/2003/11/7/in-pakistan-president-pervez-musharraf-pledges-that-pakistan-will-match-india-s-military-spending-spree.json)  [XML](/news/2003/11/7/in-pakistan-president-pervez-musharraf-pledges-that-pakistan-will-match-india-s-military-spending-spree.xml)  
+
 ### [2003-11-7](/news/2003/11/7/index.md)
 
+##### Pakistan
 #  In Pakistan, President Pervez Musharraf pledges that Pakistan will match India's military spending spree.
 
 

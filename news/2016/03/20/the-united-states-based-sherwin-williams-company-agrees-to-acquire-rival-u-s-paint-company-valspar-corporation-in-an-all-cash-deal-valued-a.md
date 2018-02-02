@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/20/the-united-states-based-sherwin-williams-compan
 
 ### [2016-03-20](/news/2016/03/20/index.md)
 
+##### Cleveland
 # The United States-based Sherwin-Williams Company agrees to acquire rival U.S. paint company Valspar Corporation in an all-cash deal valued at about $9.3 billion (8.2 billion euros). 
 
 The Sherwin-Williams Co (SHW.N) has agreed to acquire rival U.S. paint company Valspar Corp VAL.N, the companies said on Sunday, in an all-cash deal valued at about $9.3 billion.

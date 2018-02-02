@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/1/the-fourth-international-polar-year-a-1-5-billion-research-program-to-study-both-the-north-pole-and-south-pole-is-launched-in-paris-fran.html)  [JSON](/news/2007/03/1/the-fourth-international-polar-year-a-1-5-billion-research-program-to-study-both-the-north-pole-and-south-pole-is-launched-in-paris-fran.json)  [XML](/news/2007/03/1/the-fourth-international-polar-year-a-1-5-billion-research-program-to-study-both-the-north-pole-and-south-pole-is-launched-in-paris-fran.xml)  
+
 ### [2007-03-1](/news/2007/03/1/index.md)
 
+##### International Polar Year
 #  The fourth International Polar Year, a $1.5 billion research program to study both the North Pole and South Pole is launched in Paris, France. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/6406735.stm)
 

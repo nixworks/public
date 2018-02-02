@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/4/voters-in-hong-kong-go-to-the-polls-for-a-legisl
 
 ### [2016-09-4](/news/2016/09/4/index.md)
 
+##### Hong Kong legislative election, 2016
 # Voters in Hong Kong go to the polls for a Legislative Council election, the first major election since the 2014 pro-democracy street protests. Several young pro-independence candidates win seats in the election. 
 
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/06/7/two-gunmen-attack-a-drug-rehabilitation-facility-in-the-mexican-city-of-torreon-in-coahuila.html)  [JSON](/news/2011/06/7/two-gunmen-attack-a-drug-rehabilitation-facility-in-the-mexican-city-of-torreon-in-coahuila.json)  [XML](/news/2011/06/7/two-gunmen-attack-a-drug-rehabilitation-facility-in-the-mexican-city-of-torreon-in-coahuila.xml)  
+
 ### [2011-06-7](/news/2011/06/7/index.md)
 
+##### drug rehabilitation
 # Two gunmen attack a drug rehabilitation facility in the Mexican city of Torreon in Coahuila. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/2-gunmen-attack-drug-rehab-center-in-northern-mexico-killing-11-people-and-wounding-2/2011/06/07/AGjuFXLH_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/2-gunmen-attack-drug-rehab-center-in-northern-mexico-killing-11-people-and-wounding-2/2011/06/07/AGjuFXLH_story.html)
 
 ### Related:
 

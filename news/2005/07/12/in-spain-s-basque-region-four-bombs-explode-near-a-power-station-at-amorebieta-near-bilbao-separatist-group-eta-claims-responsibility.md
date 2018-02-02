@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/12/in-spain-s-basque-region-four-bombs-explode-near-a-power-station-at-amorebieta-near-bilbao-separatist-group-eta-claims-responsibility.html)  [JSON](/news/2005/07/12/in-spain-s-basque-region-four-bombs-explode-near-a-power-station-at-amorebieta-near-bilbao-separatist-group-eta-claims-responsibility.json)  [XML](/news/2005/07/12/in-spain-s-basque-region-four-bombs-explode-near-a-power-station-at-amorebieta-near-bilbao-separatist-group-eta-claims-responsibility.xml)  
+
 ### [2005-07-12](/news/2005/07/12/index.md)
 
+##### Spain
 #  In Spain's Basque region, four bombs explode near a power station at Amorebieta near Bilbao. Separatist group ETA claims responsibility 
 
 
 
 
-### Source:
+### Sources:
 
 1. [EITB](http://www.eitb24.com/noticia_en.php?id=75268)
 2. [EuroNews](http://euronews.net/create_html.php?page=detail_info&article=298862&lng=1)

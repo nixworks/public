@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/23/a-container-truck-slams-into-several-vehicles-in-sukabumi-west-java-indonesia-killing-16-people-and-injuring-several-others.html)  [JSON](/news/2013/02/23/a-container-truck-slams-into-several-vehicles-in-sukabumi-west-java-indonesia-killing-16-people-and-injuring-several-others.json)  [XML](/news/2013/02/23/a-container-truck-slams-into-several-vehicles-in-sukabumi-west-java-indonesia-killing-16-people-and-injuring-several-others.xml)  
+
 ### [2013-02-23](/news/2013/02/23/index.md)
 
+##### truck
 # A container truck slams into several vehicles in Sukabumi, West Java, Indonesia, killing 16 people and injuring several others. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10867274)
 

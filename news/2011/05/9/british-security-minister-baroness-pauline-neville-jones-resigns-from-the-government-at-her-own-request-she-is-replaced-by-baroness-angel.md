@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/9/british-security-minister-baroness-pauline-neville-jones-resigns-from-the-government-at-her-own-request-she-is-replaced-by-baroness-angel.html)  [JSON](/news/2011/05/9/british-security-minister-baroness-pauline-neville-jones-resigns-from-the-government-at-her-own-request-she-is-replaced-by-baroness-angel.json)  [XML](/news/2011/05/9/british-security-minister-baroness-pauline-neville-jones-resigns-from-the-government-at-her-own-request-she-is-replaced-by-baroness-angel.xml)  
+
 ### [2011-05-9](/news/2011/05/9/index.md)
 
+##### Pauline Neville-Jones
 # British Security Minister Baroness Pauline Neville-Jones resigns from the government "at her own request". She is replaced by Baroness Angela Browning. 
 
 Security minister Baroness Neville-Jones has stepped down from the government &quot;at her own request&quot;, Downing Street says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13338508)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52629000/jpg/_52629127_006282574-1.jpg)

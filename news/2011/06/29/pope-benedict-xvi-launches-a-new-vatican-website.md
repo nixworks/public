@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/29/pope-benedict-xvi-launches-a-new-vatican-website.html)  [JSON](/news/2011/06/29/pope-benedict-xvi-launches-a-new-vatican-website.json)  [XML](/news/2011/06/29/pope-benedict-xvi-launches-a-new-vatican-website.xml)  
+
 ### [2011-06-29](/news/2011/06/29/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI launches a new Vatican website, 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Herald-Sun](http://www.heraldsun.com.au/news/world/pope-benedict-xvi-praises-jesus-in-first-tweet/story-e6frf7lf-1226084049398)
 2. [news.va](http://www.news.va)

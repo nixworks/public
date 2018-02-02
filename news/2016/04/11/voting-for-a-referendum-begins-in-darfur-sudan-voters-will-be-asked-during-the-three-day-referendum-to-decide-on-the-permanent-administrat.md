@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/11/voting-for-a-referendum-begins-in-darfur-sudan-
 
 ### [2016-04-11](/news/2016/04/11/index.md)
 
+##### Darfurian status referendum, 2016
 # Voting for a referendum begins in Darfur, Sudan. Voters will be asked during the three-day referendum to decide on the permanent administrative status of the region. The choices are for the creation of a Darfur Region composed of the States of Darfur, or the retention of the status quo states system. Darfur is currently divided into five states. Voters will decide this week whether the area should go back to being one region, as it was until 1994. However, there are fears of voter apathy and if the referendum will be credible. 
 
 Darfur voters are divided on whether or not the referendum is a priority concern.

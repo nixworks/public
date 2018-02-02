@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/23/japan-begins-a-renewed-effort-to-halt-the-leak-of-radioactive-material-from-the-tsunami-damaged-fukushima-daiichi-nuclear-power-plant.html)  [JSON](/news/2013/07/23/japan-begins-a-renewed-effort-to-halt-the-leak-of-radioactive-material-from-the-tsunami-damaged-fukushima-daiichi-nuclear-power-plant.json)  [XML](/news/2013/07/23/japan-begins-a-renewed-effort-to-halt-the-leak-of-radioactive-material-from-the-tsunami-damaged-fukushima-daiichi-nuclear-power-plant.xml)  
+
 ### [2013-07-23](/news/2013/07/23/index.md)
 
+##### Japan
 # Japan begins a renewed effort to halt the leak of radioactive material from the tsunami-damaged Fukushima Daiichi nuclear power plant. 
 
 Japan says it is taking steps to prevent contaminated water from the crippled Fukushima nuclear plant leaking into the sea.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23419325)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68798000/jpg/_68798607_68798606.jpg)

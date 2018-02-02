@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/5/sudanese-government-and-two-rebels-groups-including-sudan-liberation-movement-and-justice-and-equality-movement-sign-a-declaration-of-pri.html)  [JSON](/news/2005/07/5/sudanese-government-and-two-rebels-groups-including-sudan-liberation-movement-and-justice-and-equality-movement-sign-a-declaration-of-pri.json)  [XML](/news/2005/07/5/sudanese-government-and-two-rebels-groups-including-sudan-liberation-movement-and-justice-and-equality-movement-sign-a-declaration-of-pri.xml)  
+
 ### [2005-07-5](/news/2005/07/5/index.md)
 
+##### Sudan
 #  Sudanese government and two rebels groups, including Sudan Liberation Movement and Justice and Equality Movement, sign a declaration of principles towards the peace talks. This ends three weeks of negotiations in the Nigerian capital Abuja. Talks are adjourned until August 24. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4654305.stm)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L05556775.htm)

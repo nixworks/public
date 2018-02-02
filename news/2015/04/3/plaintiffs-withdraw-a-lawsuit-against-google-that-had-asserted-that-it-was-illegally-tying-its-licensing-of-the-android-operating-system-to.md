@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/04/3/plaintiffs-withdraw-a-lawsuit-against-google-that-had-asserted-that-it-was-illegally-tying-its-licensing-of-the-android-operating-system-to.html)  [JSON](/news/2015/04/3/plaintiffs-withdraw-a-lawsuit-against-google-that-had-asserted-that-it-was-illegally-tying-its-licensing-of-the-android-operating-system-to.json)  [XML](/news/2015/04/3/plaintiffs-withdraw-a-lawsuit-against-google-that-had-asserted-that-it-was-illegally-tying-its-licensing-of-the-android-operating-system-to.xml)  
+
 ### [2015-04-3](/news/2015/04/3/index.md)
 
+##### Google
 #  Plaintiffs withdraw a lawsuit against Google that had asserted that it was illegally tying its licensing of the Android operating system to the favorable treatment of Google apps. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/04/04/google-apps-lawsuit-idUSL3N0X100C20150404)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/04/04/google-apps-lawsuit-idUSL3N0X100C20150404)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

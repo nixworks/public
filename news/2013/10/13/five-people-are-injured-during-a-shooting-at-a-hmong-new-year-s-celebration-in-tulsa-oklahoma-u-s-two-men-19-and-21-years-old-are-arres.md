@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/13/five-people-are-injured-during-a-shooting-at-a-hmong-new-year-s-celebration-in-tulsa-oklahoma-u-s-two-men-19-and-21-years-old-are-arres.html)  [JSON](/news/2013/10/13/five-people-are-injured-during-a-shooting-at-a-hmong-new-year-s-celebration-in-tulsa-oklahoma-u-s-two-men-19-and-21-years-old-are-arres.json)  [XML](/news/2013/10/13/five-people-are-injured-during-a-shooting-at-a-hmong-new-year-s-celebration-in-tulsa-oklahoma-u-s-two-men-19-and-21-years-old-are-arres.xml)  
+
 ### [2013-10-13](/news/2013/10/13/index.md)
 
+##### Hmong New Year
 # Five people are injured during a shooting at a Hmong New Year's celebration in Tulsa, Oklahoma, U.S. Two men, 19 and 21 years old, are arrested. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/10/13/justice/tulsa-hmong-shooting/index.html?hpt=hp_t2)
 

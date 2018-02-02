@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/1/ukraine-starts-a-missile-test-near-crimea-annexe
 
 ### [2016-12-1](/news/2016/12/1/index.md)
 
+##### Ukrainian crisis
 # Ukraine starts a missile test near Crimea, annexed by Russia in 2014, while Russia puts its air-defense and naval forces in the region on high alert. 
 
 

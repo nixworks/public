@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/8/the-high-court-of-zimbabwe-overturns-bans-on-pro
 
 ### [2016-09-8](/news/2016/09/8/index.md)
 
+##### 2016 Zimbabwe protests
 # The High Court of Zimbabwe overturns bans on protests in Harare. 
 
 Judge lifts police ban, days after president accused courts of recklessness for allowing rallies that turned violent.

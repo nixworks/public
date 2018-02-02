@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/10/frontier-airlines-files-for-bankruptcy-protection.html)  [JSON](/news/2008/04/10/frontier-airlines-files-for-bankruptcy-protection.json)  [XML](/news/2008/04/10/frontier-airlines-files-for-bankruptcy-protection.xml)  
+
 ### [2008-04-10](/news/2008/04/10/index.md)
 
+##### Frontier Airlines
 #  Frontier Airlines files for bankruptcy protection. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5ijDA5bgxiHlTvS_r-SSjskS1Tq1wD8VVG5E00)
 

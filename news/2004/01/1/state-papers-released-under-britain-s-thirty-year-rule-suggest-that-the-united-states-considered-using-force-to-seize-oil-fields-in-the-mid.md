@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/01/1/state-papers-released-under-britain-s-thirty-year-rule-suggest-that-the-united-states-considered-using-force-to-seize-oil-fields-in-the-mid.html)  [JSON](/news/2004/01/1/state-papers-released-under-britain-s-thirty-year-rule-suggest-that-the-united-states-considered-using-force-to-seize-oil-fields-in-the-mid.json)  [XML](/news/2004/01/1/state-papers-released-under-britain-s-thirty-year-rule-suggest-that-the-united-states-considered-using-force-to-seize-oil-fields-in-the-mid.xml)  
+
 ### [2004-01-1](/news/2004/01/1/index.md)
 
+##### Thirty Year Rule
 #  State papers released under Britain's Thirty Year Rule suggest that the United States considered using force to seize oil fields in the Middle East during an oil embargo by Arab states in 1973. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/3363809.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3333995.stm)

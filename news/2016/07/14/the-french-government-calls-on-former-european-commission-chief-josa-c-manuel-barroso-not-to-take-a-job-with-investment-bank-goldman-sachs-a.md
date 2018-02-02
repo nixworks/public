@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/14/the-french-government-calls-on-former-european-
 
 ### [2016-07-14](/news/2016/07/14/index.md)
 
+##### European Commission
 # The French government calls on former European Commission chief Jose Manuel Barroso not to take a job with investment bank Goldman Sachs, after some EU politicians demanded Barroso be sanctioned for accepting the new position that raises questions about the EU's conflict of interest rules. 
 
 France calls on former European Commission head, Jose Manuel Barroso, not to take up job advising US investment bank Goldman Sachs on Brexit.
@@ -19,4 +20,4 @@ France calls on former European Commission head, Jose Manuel Barroso, not to tak
 2. [ The European Parliament approves the new make-up of the European Commission, headed by Jose Manuel Barroso. ](/news/2004/11/18/the-european-parliament-approves-the-new-make-up-of-the-european-commission-headed-by-josa-c-manuel-barroso.md) _Context: European Commission, Jose Manuel Barroso_
 3. [ A vote by the European Parliament over the approval of the new European Commission has been delayed, after incoming president Jose Manuel Barroso asks for more time to reshuffle his team. ](/news/2004/10/27/a-vote-by-the-european-parliament-over-the-approval-of-the-new-european-commission-has-been-delayed-after-incoming-president-josa-c-manuel.md) _Context: European Commission, Jose Manuel Barroso_
 4. [ European Union leaders formally nominate Portuguese Prime Minister Jose Manuel Barroso to the post of European Commission president. ](/news/2004/06/29/european-union-leaders-formally-nominate-portuguese-prime-minister-josa-c-manuel-barroso-to-the-post-of-european-commission-president.md) _Context: European Commission, Jose Manuel Barroso_
-5. [The European Commission scraps the draft legislation that would have permitted the EBA regulator to order "too big to fail" banks to split off their trading activities, citing "no foreseeable agreement" in sight on criteria. The draft was supposed to be the EU's answer to the United States' Volcker Rule. ](/news/2017/10/24/the-european-commission-scraps-the-draft-legislation-that-would-have-permitted-the-eba-regulator-to-order-too-big-to-fail-banks-to-split-o.md) _Context: European Commission_
+5. [The European Commission orders Poland, the Czech Republic and Hungary to court over their refusal to incorporate more refugees. This is the third step in a process that may lead to fines and loss of the countries' voting rights in the European Union. ](/news/2017/12/7/the-european-commission-orders-poland-the-czech-republic-and-hungary-to-court-over-their-refusal-to-incorporate-more-refugees-this-is-the.md) _Context: European Commission_

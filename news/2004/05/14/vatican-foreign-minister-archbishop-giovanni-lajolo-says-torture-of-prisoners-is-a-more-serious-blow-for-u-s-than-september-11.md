@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/14/vatican-foreign-minister-archbishop-giovanni-lajolo-says-torture-of-prisoners-is-a-more-serious-blow-for-u-s-than-september-11.html)  [JSON](/news/2004/05/14/vatican-foreign-minister-archbishop-giovanni-lajolo-says-torture-of-prisoners-is-a-more-serious-blow-for-u-s-than-september-11.json)  [XML](/news/2004/05/14/vatican-foreign-minister-archbishop-giovanni-lajolo-says-torture-of-prisoners-is-a-more-serious-blow-for-u-s-than-september-11.xml)  
+
 ### [2004-05-14](/news/2004/05/14/index.md)
 
+##### Holy See
 #  Vatican foreign minister Archbishop Giovanni Lajolo says torture of prisoners is a "more serious" blow for U.S. than September 11 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeerah](http://www.aljazeerah.info/News%20archives/2004%20News%20archives/May/13n/Abuse,%20beheading%20dogs%20US.htm)
 2. [Catholic News](http://www.catholicnews.com/data/stories/cns/20040514c.htm)

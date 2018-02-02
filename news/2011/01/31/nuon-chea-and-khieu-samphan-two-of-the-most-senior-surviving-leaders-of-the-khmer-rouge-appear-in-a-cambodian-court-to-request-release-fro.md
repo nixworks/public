@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/31/nuon-chea-and-khieu-samphan-two-of-the-most-senior-surviving-leaders-of-the-khmer-rouge-appear-in-a-cambodian-court-to-request-release-fro.html)  [JSON](/news/2011/01/31/nuon-chea-and-khieu-samphan-two-of-the-most-senior-surviving-leaders-of-the-khmer-rouge-appear-in-a-cambodian-court-to-request-release-fro.json)  [XML](/news/2011/01/31/nuon-chea-and-khieu-samphan-two-of-the-most-senior-surviving-leaders-of-the-khmer-rouge-appear-in-a-cambodian-court-to-request-release-fro.xml)  
+
 ### [2011-01-31](/news/2011/01/31/index.md)
 
+##### Nuon Chea
 # Nuon Chea and Khieu Samphan, two of the most senior surviving leaders of the Khmer Rouge, appear in a Cambodian court to request release from pre-trial detention. 
 
 Three of the most senior surviving leaders of the Khmer Rouge appear in court in Cambodia to request release from pre-trial detention.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12320935)
 2. [Phnom Penh Post](http://www.phnompenhpost.com/index.php/2011013146489/National-news/kr-suspects-face-court.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/6/kenya-arrests-six-somali-islamist-al-shabaab-fighters-in-the-border-town-of-mandera.html)  [JSON](/news/2011/03/6/kenya-arrests-six-somali-islamist-al-shabaab-fighters-in-the-border-town-of-mandera.json)  [XML](/news/2011/03/6/kenya-arrests-six-somali-islamist-al-shabaab-fighters-in-the-border-town-of-mandera.xml)  
+
 ### [2011-03-6](/news/2011/03/6/index.md)
 
+##### Kenya
 # Kenya arrests six Somali Islamist al-Shabaab fighters in the border town of Mandera. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE7250BM20110306)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/7/fortune-magazine-lists-mexican-businessman-carlos-slim-as-the-richest-man-in-the-world-ahead-of-microsoft-founder-bill-gates.html)  [JSON](/news/2007/08/7/fortune-magazine-lists-mexican-businessman-carlos-slim-as-the-richest-man-in-the-world-ahead-of-microsoft-founder-bill-gates.json)  [XML](/news/2007/08/7/fortune-magazine-lists-mexican-businessman-carlos-slim-as-the-richest-man-in-the-world-ahead-of-microsoft-founder-bill-gates.xml)  
+
 ### [2007-08-7](/news/2007/08/7/index.md)
 
+##### ''Fortune'' magazine
 #  "Fortune" magazine lists Mexican businessman Carlos Slim as the richest man in the world ahead of Microsoft founder Bill Gates. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/6934418.stm)
 

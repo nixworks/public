@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/25/queen-elizabeth-nbsp-ii-sends-her-annual-christmas-message-to-the-uk-and-the-commonwealth-her-theme-is-religious-and-cultural-diversity-an.html)  [JSON](/news/2004/12/25/queen-elizabeth-nbsp-ii-sends-her-annual-christmas-message-to-the-uk-and-the-commonwealth-her-theme-is-religious-and-cultural-diversity-an.json)  [XML](/news/2004/12/25/queen-elizabeth-nbsp-ii-sends-her-annual-christmas-message-to-the-uk-and-the-commonwealth-her-theme-is-religious-and-cultural-diversity-an.xml)  
+
 ### [2004-12-25](/news/2004/12/25/index.md)
 
+##### Queen Elizabeth
 #  Queen Elizabeth&nbsp;II sends her annual Christmas Message to the UK and the Commonwealth. Her theme is religious and cultural diversity and the benefits of a tolerant society. In a break from tradition, the Queen also sends a special radio Christmas Message to the UK armed forces - the first time she has made a separate radio broadcast. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/4125011.stm)
 2. [BBC](http://news.bbc.co.uk/1/hi/uk/4125193.stm)

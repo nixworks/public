@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/9/on-the-country-s-independence-day-snow-falls-in-buenos-aires-argentina-for-the-first-time-in-89-years-and-the-second-time-in-recorded-hi.html)  [JSON](/news/2007/07/9/on-the-country-s-independence-day-snow-falls-in-buenos-aires-argentina-for-the-first-time-in-89-years-and-the-second-time-in-recorded-hi.json)  [XML](/news/2007/07/9/on-the-country-s-independence-day-snow-falls-in-buenos-aires-argentina-for-the-first-time-in-89-years-and-the-second-time-in-recorded-hi.xml)  
+
 ### [2007-07-9](/news/2007/07/9/index.md)
 
+##### Independence Day
 #  On the country's Independence Day, snow falls in Buenos Aires, Argentina, for the first time in 89 years and the second time in recorded history. Two people die of exposure in Argentina while one person dies in Chile. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6286484.stm)
 

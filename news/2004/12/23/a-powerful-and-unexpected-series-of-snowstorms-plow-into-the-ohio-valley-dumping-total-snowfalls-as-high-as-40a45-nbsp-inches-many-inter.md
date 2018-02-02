@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/12/23/a-powerful-and-unexpected-series-of-snowstorms-plow-into-the-ohio-valley-dumping-total-snowfalls-as-high-as-40a45-nbsp-inches-many-inter.html)  [JSON](/news/2004/12/23/a-powerful-and-unexpected-series-of-snowstorms-plow-into-the-ohio-valley-dumping-total-snowfalls-as-high-as-40a45-nbsp-inches-many-inter.json)  [XML](/news/2004/12/23/a-powerful-and-unexpected-series-of-snowstorms-plow-into-the-ohio-valley-dumping-total-snowfalls-as-high-as-40a45-nbsp-inches-many-inter.xml)  
+
 ### [2004-12-23](/news/2004/12/23/index.md)
 
+##### Ohio Valley
 #  A powerful and unexpected series of snowstorms plow into the Ohio Valley dumping total snowfalls as high as 40-45&nbsp;inches. Many Interstates in the region become frozen parking lots as motorist are unable to move and get buried in snowfall. The snowstorms were so powerful that it snowed in Galveston, Texas.
 
 

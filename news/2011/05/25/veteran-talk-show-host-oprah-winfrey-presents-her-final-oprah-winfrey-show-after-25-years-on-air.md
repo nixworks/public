@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/25/veteran-talk-show-host-oprah-winfrey-presents-her-final-oprah-winfrey-show-after-25-years-on-air.html)  [JSON](/news/2011/05/25/veteran-talk-show-host-oprah-winfrey-presents-her-final-oprah-winfrey-show-after-25-years-on-air.json)  [XML](/news/2011/05/25/veteran-talk-show-host-oprah-winfrey-presents-her-final-oprah-winfrey-show-after-25-years-on-air.xml)  
+
 ### [2011-05-25](/news/2011/05/25/index.md)
 
+##### Oprah Winfrey
 # Veteran talk show host Oprah Winfrey presents her final "Oprah Winfrey Show", after 25 years on air. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13540204)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52954000/jpg/_52954940_52954939.jpg)

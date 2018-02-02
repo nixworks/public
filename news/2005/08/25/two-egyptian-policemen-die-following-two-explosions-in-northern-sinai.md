@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/25/two-egyptian-policemen-die-following-two-explosions-in-northern-sinai.html)  [JSON](/news/2005/08/25/two-egyptian-policemen-die-following-two-explosions-in-northern-sinai.json)  [XML](/news/2005/08/25/two-egyptian-policemen-die-following-two-explosions-in-northern-sinai.xml)  
+
 ### [2005-08-25](/news/2005/08/25/index.md)
 
+##### Egypt
 #  Two Egyptian policemen die following two explosions in northern Sinai. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4183942.stm)
 

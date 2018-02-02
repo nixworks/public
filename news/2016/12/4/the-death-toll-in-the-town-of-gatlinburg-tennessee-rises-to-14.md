@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/4/the-death-toll-in-the-town-of-gatlinburg-tenness
 
 ### [2016-12-4](/news/2016/12/4/index.md)
 
+##### 2016 Great Smoky Mountains wildfires
 # The death toll in the town of Gatlinburg, Tennessee rises to 14. 
 
 The death toll in the historic Gatlinburg fires is now at 14, Park Service spokeswoman Dana Soehn confirmed Sunday.

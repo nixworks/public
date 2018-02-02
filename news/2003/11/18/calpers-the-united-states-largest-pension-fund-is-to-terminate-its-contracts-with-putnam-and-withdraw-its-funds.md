@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/18/calpers-the-united-states-largest-pension-fund-is-to-terminate-its-contracts-with-putnam-and-withdraw-its-funds.html)  [JSON](/news/2003/11/18/calpers-the-united-states-largest-pension-fund-is-to-terminate-its-contracts-with-putnam-and-withdraw-its-funds.json)  [XML](/news/2003/11/18/calpers-the-united-states-largest-pension-fund-is-to-terminate-its-contracts-with-putnam-and-withdraw-its-funds.xml)  
+
 ### [2003-11-18](/news/2003/11/18/index.md)
 
+##### CalPERS
 #  CalPERS, the United States' largest pension fund, is to terminate its contracts with Putnam and withdraw its funds.
 
 

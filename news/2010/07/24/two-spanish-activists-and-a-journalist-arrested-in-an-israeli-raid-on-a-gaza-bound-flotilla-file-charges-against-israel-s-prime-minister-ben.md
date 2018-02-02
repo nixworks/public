@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/24/two-spanish-activists-and-a-journalist-arrested-in-an-israeli-raid-on-a-gaza-bound-flotilla-file-charges-against-israel-s-prime-minister-ben.html)  [JSON](/news/2010/07/24/two-spanish-activists-and-a-journalist-arrested-in-an-israeli-raid-on-a-gaza-bound-flotilla-file-charges-against-israel-s-prime-minister-ben.json)  [XML](/news/2010/07/24/two-spanish-activists-and-a-journalist-arrested-in-an-israeli-raid-on-a-gaza-bound-flotilla-file-charges-against-israel-s-prime-minister-ben.xml)  
+
 ### [2010-07-24](/news/2010/07/24/index.md)
 
+##### Spain
 # Two Spanish activists and a journalist arrested in an Israeli raid on a Gaza-bound flotilla file charges against Israel's prime minister Benjamin Netanyahu. 
 
 Three Spaniards arrested by Israel during a raid on a Gaza-bound aid flotilla are filing a court case against the Israeli prime minister.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10741416)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

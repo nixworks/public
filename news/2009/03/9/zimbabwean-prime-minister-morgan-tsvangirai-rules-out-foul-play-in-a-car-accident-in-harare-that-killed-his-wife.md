@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/9/zimbabwean-prime-minister-morgan-tsvangirai-rules-out-foul-play-in-a-car-accident-in-harare-that-killed-his-wife.html)  [JSON](/news/2009/03/9/zimbabwean-prime-minister-morgan-tsvangirai-rules-out-foul-play-in-a-car-accident-in-harare-that-killed-his-wife.json)  [XML](/news/2009/03/9/zimbabwean-prime-minister-morgan-tsvangirai-rules-out-foul-play-in-a-car-accident-in-harare-that-killed-his-wife.xml)  
+
 ### [2009-03-9](/news/2009/03/9/index.md)
 
+##### Zimbabwe
 #  Zimbabwean Prime Minister Morgan Tsvangirai rules out foul play in a car accident in Harare that killed his wife. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/world/2009/mar/09/tsvangirai-says-crash-was-accident)
 

@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2010/03/24/united-kingdom-chancellor-alistair-darling-presents-his-2010-united-kingdom-budget-to-the-house-of-commons.html)  [JSON](/news/2010/03/24/united-kingdom-chancellor-alistair-darling-presents-his-2010-united-kingdom-budget-to-the-house-of-commons.json)  [XML](/news/2010/03/24/united-kingdom-chancellor-alistair-darling-presents-his-2010-united-kingdom-budget-to-the-house-of-commons.xml)  
+
 ### [2010-03-24](/news/2010/03/24/index.md)
 
+##### Chancellor of the Exchequer
 # United Kingdom Chancellor Alistair Darling presents his 2010 United Kingdom Budget to the House of Commons.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/programmes/the_daily_politics/8585164.stm?ls)
 
 ### Related:
 
-1. [After six days of debate, the House of Commons of the United Kingdom votes to approve, with 323 votes for and 309 against, the policies set out in the Queen's Speech. In order to avoid a 'regret' amendment, Chancellor of the Exchequer Philip Hammond says that England's National Health Service is to provide free abortions to women from Northern Ireland with funds from the Government Equalities Office. ](/news/2017/06/29/after-six-days-of-debate-the-house-of-commons-of-the-united-kingdom-votes-to-approve-with-323-votes-for-and-309-against-the-policies-set.md) _Context: Chancellor of the Exchequer, House of Commons of the United Kingdom_
+1. [After six days of debate, the House of Commons of the United Kingdom votes to approve, with 323 votes for and 309 against, the policies set out in the Queen's Speech. In order to avoid a 'regret' amendment, Chancellor of the Exchequer Philip Hammond says that England's National Health Service is to provide free abortions to women from Northern Ireland with funds from the Government Equalities Office. ](/news/2017/06/29/after-six-days-of-debate-the-house-of-commons-of-the-united-kingdom-votes-to-approve-with-323-votes-for-and-309-against-the-policies-set.md) _Context: Chancellor of the Exchequer, the House of Commons_
 2. [Former UK Chancellor of the Exchequer Alistair Darling launches Better Together, the "no" campaign for the forthcoming referendum on Scottish independence. ](/news/2012/06/25/former-uk-chancellor-of-the-exchequer-alistair-darling-launches-better-together-the-no-campaign-for-the-forthcoming-referendum-on-scottis.md) _Context: Alistair Darling, Chancellor of the Exchequer_
 3. [ British Chancellor of the Exchequer Alistair Darling delivers the pre Budget report, with tax rises and spending cuts to reduce the government debt. ](/news/2009/12/9/british-chancellor-of-the-exchequer-alistair-darling-delivers-the-pre-budget-report-with-tax-rises-and-spending-cuts-to-reduce-the-governm.md) _Context: Alistair Darling, Chancellor of the Exchequer_
 4. [ Britain's Chancellor of the Exchequer Alistair Darling releases details of a rescue package aimed at restoring confidence in British Banks. As part of the deal the British Government will provide GBP50bn of investment, provide a further GBP200bn in short term loans and guarantee up to GBP250bn of intra-bank loans ](/news/2008/10/8/britain-s-chancellor-of-the-exchequer-alistair-darling-releases-details-of-a-rescue-package-aimed-at-restoring-confidence-in-british-banks.md) _Context: Alistair Darling, Chancellor of the Exchequer_

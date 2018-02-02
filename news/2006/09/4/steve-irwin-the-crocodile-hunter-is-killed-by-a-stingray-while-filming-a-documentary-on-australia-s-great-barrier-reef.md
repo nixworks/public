@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/4/steve-irwin-the-crocodile-hunter-is-killed-by-a-stingray-while-filming-a-documentary-on-australia-s-great-barrier-reef.html)  [JSON](/news/2006/09/4/steve-irwin-the-crocodile-hunter-is-killed-by-a-stingray-while-filming-a-documentary-on-australia-s-great-barrier-reef.json)  [XML](/news/2006/09/4/steve-irwin-the-crocodile-hunter-is-killed-by-a-stingray-while-filming-a-documentary-on-australia-s-great-barrier-reef.xml)  
+
 ### [2006-09-4](/news/2006/09/4/index.md)
 
+##### Steve Irwin
 #  Steve Irwin, "The Crocodile Hunter", is killed by a stingray while filming a documentary on Australia's Great Barrier Reef. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [News.com.au](http://www.news.com.au/story/0,23599,20349888-2,00.html)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-09-04T053821Z_01_SP34161_RTRUKOC_0_US-AUSTRALIA-IRWIN.xml&WTmodLoc=Home-C2-TopNews-newsOne-4)

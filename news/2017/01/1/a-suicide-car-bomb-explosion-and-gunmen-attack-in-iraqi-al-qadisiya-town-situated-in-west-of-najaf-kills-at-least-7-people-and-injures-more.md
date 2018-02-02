@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/1/a-suicide-car-bomb-explosion-and-gunmen-attack-i
 
 ### [2017-01-1](/news/2017/01/1/index.md)
 
+##### al-Qadisiya town
 # A suicide car bomb explosion and gunmen attack in Iraqi al-Qadisiya town situated in west of Najaf, kills at least 7 people and injures more than 17 others. Yesterday, 29 people were killed in a bomb explosion at a busy market in Iraq's capital Baghdad. ISIS claims responsibility. 
 
  Islamic State attacked an Iraqi police checkpoint near the southern city of Najaf on Sunday, killing seven policemen as government forces in the north made mor

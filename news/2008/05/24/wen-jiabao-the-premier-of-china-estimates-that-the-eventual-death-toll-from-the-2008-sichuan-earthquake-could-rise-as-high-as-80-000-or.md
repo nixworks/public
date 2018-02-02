@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/24/wen-jiabao-the-premier-of-china-estimates-that-the-eventual-death-toll-from-the-2008-sichuan-earthquake-could-rise-as-high-as-80-000-or.html)  [JSON](/news/2008/05/24/wen-jiabao-the-premier-of-china-estimates-that-the-eventual-death-toll-from-the-2008-sichuan-earthquake-could-rise-as-high-as-80-000-or.json)  [XML](/news/2008/05/24/wen-jiabao-the-premier-of-china-estimates-that-the-eventual-death-toll-from-the-2008-sichuan-earthquake-could-rise-as-high-as-80-000-or.xml)  
+
 ### [2008-05-24](/news/2008/05/24/index.md)
 
+##### Wen Jiabao
 #  Wen Jiabao, the Premier of China, estimates that the eventual death toll from the 2008 Sichuan earthquake could rise as high as "80,000 or more". 
 
 The death toll from the earthquake in central China could rise as high as 80,000 &quot;or more,&quot; Premier Wen Jiabao said Saturday.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/world/story/2008/05/24/china-quake.html)
 1. [Cover Image](https://i.cbc.ca/1.2212423.1382675432!/httpImage/image.jpg_gen/derivatives/16x9_1180/top-china-cp-4890527.jpg)

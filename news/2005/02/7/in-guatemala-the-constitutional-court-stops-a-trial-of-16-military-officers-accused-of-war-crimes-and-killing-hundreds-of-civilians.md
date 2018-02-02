@@ -1,20 +1,24 @@
+
+Formats: [HTML](/news/2005/02/7/in-guatemala-the-constitutional-court-stops-a-trial-of-16-military-officers-accused-of-war-crimes-and-killing-hundreds-of-civilians.html)  [JSON](/news/2005/02/7/in-guatemala-the-constitutional-court-stops-a-trial-of-16-military-officers-accused-of-war-crimes-and-killing-hundreds-of-civilians.json)  [XML](/news/2005/02/7/in-guatemala-the-constitutional-court-stops-a-trial-of-16-military-officers-accused-of-war-crimes-and-killing-hundreds-of-civilians.xml)  
+
 ### [2005-02-7](/news/2005/02/7/index.md)
 
+##### Guatemala
 #  In Guatemala, the constitutional court stops a trial of 16 military officers accused of war crimes and killing hundreds of civilians. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4238417.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7545678)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7545678)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
-1. [Police in Chimaltenango, Guatemala capture ngel Gabriel Reyes Marroquin, a leader of the notorious Mara Salvatrucha, or MS-13, street gang. Prosecutors say he is connected to the deaths of at least 287 people. In 2014 Reyes escaped while facing charges including murder from a maximum security prison. Currently, he was also wanted for an August 17 armed attack on Roosevelt Hospital in Guatemala City in which seven people were shot dead. ](/news/2017/10/13/police-in-chimaltenango-guatemala-capture-angel-gabriel-reyes-marroquin-a-leader-of-the-notorious-mara-salvatrucha-or-ms-13-street-gang.md) _Context: Guatemala_
-2. [The Venerable Rev. Father Stanley Rother, a priest of the Roman Catholic Archdiocese of Oklahoma City (born in Okarche, Oklahoma), is beatified at the Cox Convention Center in Oklahoma City by Cardinal Angelo Amato, head of the sainthood Congregation in the Roman Curia and Pope Francis's delegate. Rother, who became a missionary, was assassinated in July 1981 in the poor rural village of Santiago Atitlan, Guatemala, and is the first Catholic martyr born a citizen of the United States. ](/news/2017/09/23/the-venerable-rev-father-stanley-rother-a-priest-of-the-roman-catholic-archdiocese-of-oklahoma-city-born-in-okarche-oklahoma-is-beatif.md) _Context: Guatemala_
-3. [The International Criminal Court issues an arrest warrant against Mahmoud al-Werfalli for the war crime of murder following the circulation of several videos in which he appears to oversee the execution of over 30 prisoners. ](/news/2017/08/15/the-international-criminal-court-issues-an-arrest-warrant-against-mahmoud-al-werfalli-for-the-war-crime-of-murder-following-the-circulation.md) _Context: war crime_
-4. [A 6.8-magnitude earthquake strikes off the coast of Puerto San Jose, Guatemala. ](/news/2017/06/22/a-6-8-magnitude-earthquake-strikes-off-the-coast-of-puerto-san-josa-c-guatemala.md) _Context: Guatemala_
-5. [At least six people are killed and seven injured by a 6.9 magnitude earthquake in western Guatemala. ](/news/2017/06/14/at-least-six-people-are-killed-and-seven-injured-by-a-6-9-magnitude-earthquake-in-western-guatemala.md) _Context: Guatemala_
+1. [Guatemalan President Jimmy Morales presents his second government report and starts the second half of his term surrounded by accusations of corruption and protests. Alvaro Arzu Escobar takes office as President of the Congress. Arzu is the son of former president Alvaro Arzu and both are accused of corruption. ](/news/2018/01/14/guatemalan-president-jimmy-morales-presents-his-second-government-report-and-starts-the-second-half-of-his-term-surrounded-by-accusations-of.md) _Context: Guatemala_
+2. [The Supreme Court of Justice of Guatemala rules not to allow the implementation of a usage manual from the Procuratorate of Human Rights for talks and workshops about sexuality due to the document's views on abortion, which, except risk for mother's life, is illegal in the country. ](/news/2017/12/14/the-supreme-court-of-justice-of-guatemala-rules-not-to-allow-the-implementation-of-a-usage-manual-from-the-procuratorate-of-human-rights-for.md) _Context: Guatemala_
+3. [Retired Croatian Army general Slobodan Praljak, upon hearing at a UN tribunal that the international tribunal upheld his war crime conviction, drinks a small vial that apparently contained poison, and later dies in a hospital in The Hague. ](/news/2017/11/29/retired-croatian-army-general-slobodan-praljak-upon-hearing-at-a-un-tribunal-that-the-international-tribunal-upheld-his-war-crime-convictio.md) _Context: war crime_
+4. [Ratko Mladic, the former Chief of Staff of the Bosnian Serb army during the Bosnian War, is found guilty of genocide, war crimes, and crimes against humanity by the International Criminal Tribunal for the former Yugoslavia and is sentenced to life imprisonment. ](/news/2017/11/22/ratko-mladia-the-former-chief-of-staff-of-the-bosnian-serb-army-during-the-bosnian-war-is-found-guilty-of-genocide-war-crimes-and-crime.md) _Context: war crime_
+5. [Police in Chimaltenango, Guatemala capture ngel Gabriel Reyes Marroquin, a leader of the notorious Mara Salvatrucha, or MS-13, street gang. Prosecutors say he is connected to the deaths of at least 287 people. In 2014 Reyes escaped while facing charges including murder from a maximum security prison. Currently, he was also wanted for an August 17 armed attack on Roosevelt Hospital in Guatemala City in which seven people were shot dead. ](/news/2017/10/13/police-in-chimaltenango-guatemala-capture-angel-gabriel-reyes-marroquin-a-leader-of-the-notorious-mara-salvatrucha-or-ms-13-street-gang.md) _Context: Guatemala_

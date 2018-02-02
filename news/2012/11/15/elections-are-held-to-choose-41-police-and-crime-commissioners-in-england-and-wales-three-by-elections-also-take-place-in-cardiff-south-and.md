@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/15/elections-are-held-to-choose-41-police-and-crime-commissioners-in-england-and-wales-three-by-elections-also-take-place-in-cardiff-south-and.html)  [JSON](/news/2012/11/15/elections-are-held-to-choose-41-police-and-crime-commissioners-in-england-and-wales-three-by-elections-also-take-place-in-cardiff-south-and.json)  [XML](/news/2012/11/15/elections-are-held-to-choose-41-police-and-crime-commissioners-in-england-and-wales-three-by-elections-also-take-place-in-cardiff-south-and.xml)  
+
 ### [2012-11-15](/news/2012/11/15/index.md)
 
+##### Elections
 # Elections are held to choose 41 Police and Crime Commissioners in England and Wales. Three by-elections also take place in Cardiff South and Penarth, Corby and Manchester Central. 
 
 Voters are heading to the polls to elect the first police and crime commissioners for England and Wales.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-20331720)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/64165000/jpg/_64165510_64165509.jpg)

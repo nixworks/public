@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2014/08/26/taiwan-scrambles-fighter-jets-to-intercept-two-chinese-military-aircraft-that-breached-taiwanese-airspace.html)  [JSON](/news/2014/08/26/taiwan-scrambles-fighter-jets-to-intercept-two-chinese-military-aircraft-that-breached-taiwanese-airspace.json)  [XML](/news/2014/08/26/taiwan-scrambles-fighter-jets-to-intercept-two-chinese-military-aircraft-that-breached-taiwanese-airspace.xml)  
+
 ### [2014-08-26](/news/2014/08/26/index.md)
 
+##### Taiwan
 # Taiwan scrambles fighter jets to intercept two Chinese military aircraft that breached Taiwanese airspace. 
 
 Taiwan said on Tuesday it had scrambled jets to intercept two Chinese military aircrafts, which breached its airspace four times.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/08/26/us-china-taiwan-idUSKBN0GQ0RZ20140826)
+1. [Reuters](https://www.reuters.com/article/2014/08/26/us-china-taiwan-idUSKBN0GQ0RZ20140826)
 2. [Voice of America](http://www.voanews.com/content/taiwan-says-chinese-jets-breached-its-airspace/2428238.html)
-2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140826&t=2&i=967077943&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA7P0IV)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20140826&t=2&i=967077943&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA7P0IV)
 
 ### Related:
 

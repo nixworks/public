@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/2/chinese-police-detain-a-further-319-people-over-unrest-in-the-xinjiang-region-last-month.html)  [JSON](/news/2009/08/2/chinese-police-detain-a-further-319-people-over-unrest-in-the-xinjiang-region-last-month.json)  [XML](/news/2009/08/2/chinese-police-detain-a-further-319-people-over-unrest-in-the-xinjiang-region-last-month.xml)  
+
 ### [2009-08-2](/news/2009/08/2/index.md)
 
+##### China
 #  Chinese police detain a further 319 people over unrest in the Xinjiang region last month. 
 
 Chinese police detained 319people suspected of involvement in deadly ethnic rioting innorthwestern Xinjiang region last month, after a &quot;wanted&quot; listof suspects spurred tip-offs, the official Xinhua agency said onSunday.
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://www.presstv.ir/detail.aspx?id=102304&sectionid=351020404)
 2. [Reuters India](http://in.reuters.com/article/oilRpt/idINPEK14834420090802)

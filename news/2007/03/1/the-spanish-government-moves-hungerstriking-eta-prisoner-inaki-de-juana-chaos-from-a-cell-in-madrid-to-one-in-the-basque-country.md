@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/1/the-spanish-government-moves-hungerstriking-eta-prisoner-inaki-de-juana-chaos-from-a-cell-in-madrid-to-one-in-the-basque-country.html)  [JSON](/news/2007/03/1/the-spanish-government-moves-hungerstriking-eta-prisoner-inaki-de-juana-chaos-from-a-cell-in-madrid-to-one-in-the-basque-country.json)  [XML](/news/2007/03/1/the-spanish-government-moves-hungerstriking-eta-prisoner-inaki-de-juana-chaos-from-a-cell-in-madrid-to-one-in-the-basque-country.xml)  
+
 ### [2007-03-1](/news/2007/03/1/index.md)
 
+##### hunger strike
 #  The Spanish Government moves hungerstriking ETA prisoner Iaki de Juana Chaos from a cell in Madrid to one in the Basque Country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via the Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/4595248.html)
 

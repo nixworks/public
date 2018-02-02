@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/12/unrest-continues-in-burma-as-more-buildings-are-burned.html)  [JSON](/news/2012/06/12/unrest-continues-in-burma-as-more-buildings-are-burned.json)  [XML](/news/2012/06/12/unrest-continues-in-burma-as-more-buildings-are-burned.xml)  
+
 ### [2012-06-12](/news/2012/06/12/index.md)
 
+##### fighting between Buddhists and Muslims
 # Unrest continues in Burma as more buildings are burned. 
 
 Gunshots are heard and buildings set on fire in an area affected by deadly violence between Buddhists and Muslims in western Burma, reports say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18406370)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60849000/jpg/_60849193_015014053-1.jpg)

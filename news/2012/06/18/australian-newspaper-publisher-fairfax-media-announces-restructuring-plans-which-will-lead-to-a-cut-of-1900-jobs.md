@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/18/australian-newspaper-publisher-fairfax-media-announces-restructuring-plans-which-will-lead-to-a-cut-of-1900-jobs.html)  [JSON](/news/2012/06/18/australian-newspaper-publisher-fairfax-media-announces-restructuring-plans-which-will-lead-to-a-cut-of-1900-jobs.json)  [XML](/news/2012/06/18/australian-newspaper-publisher-fairfax-media-announces-restructuring-plans-which-will-lead-to-a-cut-of-1900-jobs.xml)  
+
 ### [2012-06-18](/news/2012/06/18/index.md)
 
+##### Australian
 # Australian newspaper publisher Fairfax Media announces restructuring plans which will lead to a cut of 1900 jobs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/media/fairfax-slashes-jobs-goes-tabloid/story-e6frg996-1226398372154)
 

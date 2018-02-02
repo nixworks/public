@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/4/saboteurs-bomb-an-egyptian-pipeline-at-nagah-in-the-sinai-peninsula-delivering-gas-to-israel-and-jordan.html)  [JSON](/news/2011/07/4/saboteurs-bomb-an-egyptian-pipeline-at-nagah-in-the-sinai-peninsula-delivering-gas-to-israel-and-jordan.json)  [XML](/news/2011/07/4/saboteurs-bomb-an-egyptian-pipeline-at-nagah-in-the-sinai-peninsula-delivering-gas-to-israel-and-jordan.xml)  
+
 ### [2011-07-4](/news/2011/07/4/index.md)
 
+##### Egypt
 # Saboteurs bomb an Egyptian pipeline at Nagah in the Sinai Peninsula delivering gas to Israel and Jordan. 
 
 Unknown attackers blow up Sinai pipeline that supplies gas to Jordan and Israel.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Jakarta Post](http://www.thejakartaglobe.com/afp/saboteurs-bomb-egypt-gas-pipeline-to-israel-jordan/450645)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/2011740176861868.html)

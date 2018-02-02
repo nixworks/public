@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/8/strikes-by-70-000-workers-in-south-africa-halt-work-on-the-world-cup-2010-stadiums.html)  [JSON](/news/2009/07/8/strikes-by-70-000-workers-in-south-africa-halt-work-on-the-world-cup-2010-stadiums.json)  [XML](/news/2009/07/8/strikes-by-70-000-workers-in-south-africa-halt-work-on-the-world-cup-2010-stadiums.xml)  
+
 ### [2009-07-8](/news/2009/07/8/index.md)
 
+##### South Africa
 #  Strikes by 70,000 workers in South Africa halt work on the World Cup 2010 stadiums. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hT6-u8E9DQRrdmfjPRhH5_vAR6UQ)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8140433.stm)

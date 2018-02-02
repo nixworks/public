@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/10/the-settlement-minister-of-the-palestinian-authority-ziad-abu-ein-dies-after-a-confrontation-with-israeli-soldiers-during-a-west-bank-prot.html)  [JSON](/news/2014/12/10/the-settlement-minister-of-the-palestinian-authority-ziad-abu-ein-dies-after-a-confrontation-with-israeli-soldiers-during-a-west-bank-prot.json)  [XML](/news/2014/12/10/the-settlement-minister-of-the-palestinian-authority-ziad-abu-ein-dies-after-a-confrontation-with-israeli-soldiers-during-a-west-bank-prot.xml)  
+
 ### [2014-12-10](/news/2014/12/10/index.md)
 
+##### Palestinian Authority
 # The settlement minister of the Palestinian Authority, Ziad Abu Ein, dies after a confrontation with Israeli soldiers during a West Bank protest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/12/10/world/meast/palestinian-official-dies/index.html?hpt=wo_c1)
 

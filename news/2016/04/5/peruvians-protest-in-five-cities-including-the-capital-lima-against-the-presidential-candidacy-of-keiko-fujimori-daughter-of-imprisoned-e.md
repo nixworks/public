@@ -1,16 +1,25 @@
+
+Formats: [HTML](/news/2016/04/5/peruvians-protest-in-five-cities-including-the-capital-lima-against-the-presidential-candidacy-of-keiko-fujimori-daughter-of-imprisoned-e.html)  [JSON](/news/2016/04/5/peruvians-protest-in-five-cities-including-the-capital-lima-against-the-presidential-candidacy-of-keiko-fujimori-daughter-of-imprisoned-e.json)  [XML](/news/2016/04/5/peruvians-protest-in-five-cities-including-the-capital-lima-against-the-presidential-candidacy-of-keiko-fujimori-daughter-of-imprisoned-e.xml)  
+
 ### [2016-04-5](/news/2016/04/5/index.md)
 
+##### Peruvian general election, 2016
 # Peruvians protest in five cities, including the capital Lima, against the presidential candidacy of Keiko Fujimori, daughter of imprisoned ex-president Alberto Fujimori, who exactly 24 years ago this day carried out a coup by shutting down Congress and taking over the courts with the support of the military. Keiko Fujimori is the front runner in Sunday's April 10, 2016, election. Yesterday, Fujimori committed to respect democratic liberties and the rule of law, and to work against corruption, which some opponents have rejected. The Organization of American States says the election could lack credibility unless two recently disqualified candidates are allowed to run. 
 
 Protesters gathered in downtown Lima against the candidacy of Keiko Fujimori, daughter of imprisoned ex-president Alberto Fujimori.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/the_americas/peruvians-protest-fujimoris-rule-as-daughter-leads-in-polls/2016/04/05/64a51e52-fb84-11e5-813a-90ab563f0dde_story.html)
 2. [NBC News](http://www.nbcnews.com/slideshow/presidential-panic-peru-protests-frontrunner-days-election-n551471)
 3. [Prensa Latina](http://plenglish.com/index.php?option=com_content&task=view&id=4758361&Itemid=1)
 3. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2016_14/1485766/ss-160405-peru-keiko-protest-03_94f4ea214f325ae3f9f0d8bd1775a735.nbcnews-fp-1200-800.jpg)
+
+### Changes:
+
+1. [Peruvian general election, 2016: Peruvians protest in five cities, including the capital Lima, against the presidential candidacy of Keiko Fujimori, daughter of imprisoned ex-president Alberto Fujimori, who exactly 24 years ago this day carried out a coup by shutting down Congress and taking over the courts with the support of the military. Keiko Fujimori is the front runner in Sunday's April 10, 2016, election. Yesterday, Fujimori committed to respect democratic liberties and the rule of law, and to work against corruption, which some opponents have rejected. The Organization of American States says the election could lack credibility unless two recently-disqualified candidates are allowed to run. ](/news/2016/04/5/peruvian-general-election-2016-peruvians-protest-in-five-cities-including-the-capital-lima-against-the-presidential-candidacy-of-keiko-f.md) _2017-08-27 03:45:30 (First version)_
+1. [Peruvians protest in five cities, including the capital Lima, against the presidential candidacy of Keiko Fujimori, daughter of imprisoned ex-president Alberto Fujimori, who exactly 24 years ago this day carried out a coup by shutting down Congress and taking over the courts with the support of the military. Keiko Fujimori is the front runner in Sunday's April 10, 2016, election. Yesterday, Fujimori committed to respect democratic liberties and the rule of law, and to work against corruption, which some opponents have rejected. The Organization of American States says the election could lack credibility unless two recently disqualified candidates are allowed to run. ](/news/2016/04/5/peruvians-protest-in-five-cities-including-the-capital-lima-against-the-presidential-candidacy-of-keiko-fujimori-daughter-of-imprisoned-e.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +28,3 @@ Protesters gathered in downtown Lima against the candidacy of Keiko Fujimori, da
 3. [Voters in Peru go to the polls for the second round of voting in a presidential election where Keiko Fujimori and Pedro Pablo Kuczynski are the remaining candidates. ](/news/2016/06/5/voters-in-peru-go-to-the-polls-for-the-second-round-of-voting-in-a-presidential-election-where-keiko-fujimori-and-pedro-pablo-kuczynski-are.md) _Context: Keiko Fujimori, Peruvian general election, 2016_
 4. [Voters in Peru go to the polls for a general election with Keiko Fujimori and Pedro Kuczynski going through to the second round. ](/news/2016/04/10/voters-in-peru-go-to-the-polls-for-a-general-election-with-keiko-fujimori-and-pedro-kuczynski-going-through-to-the-second-round.md) _Context: Keiko Fujimori, Peruvian general election, 2016_
 5. [ Former President of Peru Alberto Fujimori is sentenced to six years in jail for corruption by a court in Lima. ](/news/2009/09/30/former-president-of-peru-alberto-fujimori-is-sentenced-to-six-years-in-jail-for-corruption-by-a-court-in-lima.md) _Context: Alberto Fujimori, Lima_
-
-### Changes:
-
-1. [Peruvian general election, 2016: Peruvians protest in five cities, including the capital Lima, against the presidential candidacy of Keiko Fujimori, daughter of imprisoned ex-president Alberto Fujimori, who exactly 24 years ago this day carried out a coup by shutting down Congress and taking over the courts with the support of the military. Keiko Fujimori is the front runner in Sunday's April 10, 2016, election. Yesterday, Fujimori committed to respect democratic liberties and the rule of law, and to work against corruption, which some opponents have rejected. The Organization of American States says the election could lack credibility unless two recently-disqualified candidates are allowed to run. ](/news/2016/04/5/peruvian-general-election-2016-peruvians-protest-in-five-cities-including-the-capital-lima-against-the-presidential-candidacy-of-keiko-f.md) _2017-08-27 03:45:30 (First version)_
-1. [Peruvians protest in five cities, including the capital Lima, against the presidential candidacy of Keiko Fujimori, daughter of imprisoned ex-president Alberto Fujimori, who exactly 24 years ago this day carried out a coup by shutting down Congress and taking over the courts with the support of the military. Keiko Fujimori is the front runner in Sunday's April 10, 2016, election. Yesterday, Fujimori committed to respect democratic liberties and the rule of law, and to work against corruption, which some opponents have rejected. The Organization of American States says the election could lack credibility unless two recently disqualified candidates are allowed to run. ](/news/2016/04/5/peruvians-protest-in-five-cities-including-the-capital-lima-against-the-presidential-candidacy-of-keiko-fujimori-daughter-of-imprisoned-e.md) _(Current version)_

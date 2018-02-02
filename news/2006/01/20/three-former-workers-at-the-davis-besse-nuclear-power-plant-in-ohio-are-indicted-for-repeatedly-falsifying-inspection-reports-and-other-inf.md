@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/20/three-former-workers-at-the-davis-besse-nuclear-power-plant-in-ohio-are-indicted-for-repeatedly-falsifying-inspection-reports-and-other-inf.html)  [JSON](/news/2006/01/20/three-former-workers-at-the-davis-besse-nuclear-power-plant-in-ohio-are-indicted-for-repeatedly-falsifying-inspection-reports-and-other-inf.json)  [XML](/news/2006/01/20/three-former-workers-at-the-davis-besse-nuclear-power-plant-in-ohio-are-indicted-for-repeatedly-falsifying-inspection-reports-and-other-inf.xml)  
+
 ### [2006-01-20](/news/2006/01/20/index.md)
 
+##### Davis-Besse
 #  Three former workers at the Davis-Besse nuclear power plant in Ohio are indicted for repeatedly falsifying inspection reports and other information to the US Nuclear Regulatory Commission. The plant's owner, FirstEnergy Corporation, accepts a plea bargain and $28 million in fines in lieu of criminal prosecution. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Toledo Blade](http://toledoblade.com/apps/pbcs.dll/article?AID=/20060121/NEWS02/60121001)
 

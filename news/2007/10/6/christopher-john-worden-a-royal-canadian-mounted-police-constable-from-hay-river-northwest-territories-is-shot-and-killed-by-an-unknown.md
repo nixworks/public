@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2007/10/6/christopher-john-worden-a-royal-canadian-mounted-police-constable-from-hay-river-northwest-territories-is-shot-and-killed-by-an-unknown.html)  [JSON](/news/2007/10/6/christopher-john-worden-a-royal-canadian-mounted-police-constable-from-hay-river-northwest-territories-is-shot-and-killed-by-an-unknown.json)  [XML](/news/2007/10/6/christopher-john-worden-a-royal-canadian-mounted-police-constable-from-hay-river-northwest-territories-is-shot-and-killed-by-an-unknown.xml)  
+
 ### [2007-10-6](/news/2007/10/6/index.md)
 
+##### Royal Canadian Mounted Police
 #  Christopher John Worden, a Royal Canadian Mounted Police constable from Hay River, Northwest Territories, is shot and killed by an unknown assailant. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC News](http://www.cbc.ca/canada/story/2007/10/06/rcmp-injured.html)
 2. [CTV News](http://cfcn.ctv.ca/servlet/ArticleNews/scfcn/CTVNews/20071008/police_procedures_071009)
 2. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.846393.1459491012!/httpImage/image.jpeg_gen/derivatives/landscape_960/image.jpeg)
+
+### Changes:
+
+1. [ Christopher John Worden, a Royal Canadian Mounted Police constable from Hay River, Northwest Territories, is shot and killed by an unknown assailant. ](/news/2007/10/6/christopher-john-worden-a-royal-canadian-mounted-police-constable-from-hay-river-northwest-territories-is-shot-and-killed-by-an-unknow.md) _2017-08-25 03:21:08 (First version)_
+1. [ Christopher John Worden, a Royal Canadian Mounted Police constable from Hay River, Northwest Territories, is shot and killed by an unknown assailant. ](/news/2007/10/6/christopher-john-worden-a-royal-canadian-mounted-police-constable-from-hay-river-northwest-territories-is-shot-and-killed-by-an-unknown.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@
 3. [At least five people are dead, one missing, and 21 rescued, from a tour boat carrying 27 people that sinks west of Vargas Island, off the coast of Tofino on Vancouver Island, British Columbia, Canada. The RCMP is responsible for the missing person now that the search has been called off. ](/news/2015/10/25/at-least-five-people-are-dead-one-missing-and-21-rescued-from-a-tour-boat-carrying-27-people-that-sinks-west-of-vargas-island-off-the-co.md) _Context: Royal Canadian Mounted Police_
 4. [Canadian Police foil a planned Valentines Day massacre in Halifax, Nova Scotia. ](/news/2015/02/14/canadian-police-foil-a-planned-valentines-day-massacre-in-halifax-nova-scotia.md) _Context: Royal Canadian Mounted Police_
 5. [Canadian police arrest Justin Bourque, wanted for the alleged murder of three Royal Canadian Mounted Police officers and shooting two others in Moncton, New Brunswick. ](/news/2014/06/6/canadian-police-arrest-justin-bourque-wanted-for-the-alleged-murder-of-three-royal-canadian-mounted-police-officers-and-shooting-two-others.md) _Context: Royal Canadian Mounted Police_
-
-### Changes:
-
-1. [ Christopher John Worden, a Royal Canadian Mounted Police constable from Hay River, Northwest Territories, is shot and killed by an unknown assailant. ](/news/2007/10/6/christopher-john-worden-a-royal-canadian-mounted-police-constable-from-hay-river-northwest-territories-is-shot-and-killed-by-an-unknow.md) _2017-08-25 03:21:08 (First version)_
-1. [ Christopher John Worden, a Royal Canadian Mounted Police constable from Hay River, Northwest Territories, is shot and killed by an unknown assailant. ](/news/2007/10/6/christopher-john-worden-a-royal-canadian-mounted-police-constable-from-hay-river-northwest-territories-is-shot-and-killed-by-an-unknown.md) _(Current version)_

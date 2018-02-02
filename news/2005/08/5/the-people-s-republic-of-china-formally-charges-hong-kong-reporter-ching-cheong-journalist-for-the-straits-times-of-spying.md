@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/5/the-people-s-republic-of-china-formally-charges-hong-kong-reporter-ching-cheong-journalist-for-the-straits-times-of-spying.html)  [JSON](/news/2005/08/5/the-people-s-republic-of-china-formally-charges-hong-kong-reporter-ching-cheong-journalist-for-the-straits-times-of-spying.json)  [XML](/news/2005/08/5/the-people-s-republic-of-china-formally-charges-hong-kong-reporter-ching-cheong-journalist-for-the-straits-times-of-spying.xml)  
+
 ### [2005-08-5](/news/2005/08/5/index.md)
 
+##### China
 #  The People's Republic of China formally charges Hong Kong reporter Ching Cheong, journalist for "The Straits Times", of spying. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/161634/1/.html)
 2. [China Post](http://www.chinapost.com.tw/i_latestdetail.asp?id=29678)

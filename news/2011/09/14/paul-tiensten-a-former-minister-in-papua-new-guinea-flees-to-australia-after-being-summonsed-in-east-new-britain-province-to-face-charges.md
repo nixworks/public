@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/14/paul-tiensten-a-former-minister-in-papua-new-guinea-flees-to-australia-after-being-summonsed-in-east-new-britain-province-to-face-charges.html)  [JSON](/news/2011/09/14/paul-tiensten-a-former-minister-in-papua-new-guinea-flees-to-australia-after-being-summonsed-in-east-new-britain-province-to-face-charges.json)  [XML](/news/2011/09/14/paul-tiensten-a-former-minister-in-papua-new-guinea-flees-to-australia-after-being-summonsed-in-east-new-britain-province-to-face-charges.xml)  
+
 ### [2011-09-14](/news/2011/09/14/index.md)
 
+##### Paul Tiensten
 # Paul Tiensten, a former Minister in Papua New Guinea, flees to Australia after being summonsed in East New Britain Province to face charges of fraud and corruption. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''The Australian](http://www.theaustralian.com.au/news/nation/papua-new-guinea-minister-flees-to-australia-over-corruption-allegations/story-e6frg6nf-1226137899684)
 

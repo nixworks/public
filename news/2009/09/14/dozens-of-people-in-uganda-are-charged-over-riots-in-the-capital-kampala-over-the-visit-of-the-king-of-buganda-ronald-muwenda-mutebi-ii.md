@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/14/dozens-of-people-in-uganda-are-charged-over-riots-in-the-capital-kampala-over-the-visit-of-the-king-of-buganda-ronald-muwenda-mutebi-ii.html)  [JSON](/news/2009/09/14/dozens-of-people-in-uganda-are-charged-over-riots-in-the-capital-kampala-over-the-visit-of-the-king-of-buganda-ronald-muwenda-mutebi-ii.json)  [XML](/news/2009/09/14/dozens-of-people-in-uganda-are-charged-over-riots-in-the-capital-kampala-over-the-visit-of-the-king-of-buganda-ronald-muwenda-mutebi-ii.xml)  
+
 ### [2009-09-14](/news/2009/09/14/index.md)
 
+##### Uganda
 #  Dozens of people in Uganda are charged over riots in the capital Kampala over the visit of the King of Buganda, Ronald Muwenda Mutebi II. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8254080.stm)
 

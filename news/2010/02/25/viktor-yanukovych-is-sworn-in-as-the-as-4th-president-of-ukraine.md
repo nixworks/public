@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/25/viktor-yanukovych-is-sworn-in-as-the-as-4th-president-of-ukraine.html)  [JSON](/news/2010/02/25/viktor-yanukovych-is-sworn-in-as-the-as-4th-president-of-ukraine.json)  [XML](/news/2010/02/25/viktor-yanukovych-is-sworn-in-as-the-as-4th-president-of-ukraine.xml)  
+
 ### [2010-02-25](/news/2010/02/25/index.md)
 
+##### Viktor Yanukovych
 # Viktor Yanukovych is sworn in as the as 4th President of Ukraine. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC Europe](http://news.bbc.co.uk/2/hi/europe/8535778.stm)
 2. [CNN](http://edition.cnn.com/2010/WORLD/europe/02/25/ukraine.yanukovich.inauguration/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/11/a-gold-mining-operation-is-investigated-by-chinese-authorities-after-allegations-it-has-damaged-part-of-the-great-wall-of-china-in-inner-mo.html)  [JSON](/news/2009/11/11/a-gold-mining-operation-is-investigated-by-chinese-authorities-after-allegations-it-has-damaged-part-of-the-great-wall-of-china-in-inner-mo.json)  [XML](/news/2009/11/11/a-gold-mining-operation-is-investigated-by-chinese-authorities-after-allegations-it-has-damaged-part-of-the-great-wall-of-china-in-inner-mo.xml)  
+
 ### [2009-11-11](/news/2009/11/11/index.md)
 
+##### China
 #  A gold mining operation is investigated by Chinese authorities after allegations it has damaged part of the Great Wall of China in Inner Mongolia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8354987.stm)
 2. [Times of South Africa](http://www.timeslive.co.za/news/world/article190638.ece)

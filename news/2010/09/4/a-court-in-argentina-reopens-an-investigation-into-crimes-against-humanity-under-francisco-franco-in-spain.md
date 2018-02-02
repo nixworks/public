@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/4/a-court-in-argentina-reopens-an-investigation-into-crimes-against-humanity-under-francisco-franco-in-spain.html)  [JSON](/news/2010/09/4/a-court-in-argentina-reopens-an-investigation-into-crimes-against-humanity-under-francisco-franco-in-spain.json)  [XML](/news/2010/09/4/a-court-in-argentina-reopens-an-investigation-into-crimes-against-humanity-under-francisco-franco-in-spain.xml)  
+
 ### [2010-09-4](/news/2010/09/4/index.md)
 
+##### Argentina
 # A court in Argentina reopens an investigation into crimes against humanity under Francisco Franco in Spain. 
 
 An Argentine court reopens an investigation into alleged crimes against humanity under General Franco in Spain.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11189926)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

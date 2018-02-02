@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/10/four-united-nations-peacekeepers-are-shot-while-on-patrol-in-the-disputed-abyei-district-of-sudan.html)  [JSON](/news/2011/05/10/four-united-nations-peacekeepers-are-shot-while-on-patrol-in-the-disputed-abyei-district-of-sudan.json)  [XML](/news/2011/05/10/four-united-nations-peacekeepers-are-shot-while-on-patrol-in-the-disputed-abyei-district-of-sudan.xml)  
+
 ### [2011-05-10](/news/2011/05/10/index.md)
 
+##### United Nations
 # Four United Nations peacekeepers are shot while on patrol in the disputed Abyei district of Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [United Nations](http://www.un.org/apps/news/story.asp?NewsID=38330&Cr=sudan&Cr1=)
 1. [Cover Image](/News/dh/photos/large/2011/461539-sudan.jpg)

@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2011/09/15/the-prime-minister-of-thailand-yingluck-shinawatra-visits-cambodia-in-an-effort-to-improve-relations-after-the-border-clashes-near-the-preah.html)  [JSON](/news/2011/09/15/the-prime-minister-of-thailand-yingluck-shinawatra-visits-cambodia-in-an-effort-to-improve-relations-after-the-border-clashes-near-the-preah.json)  [XML](/news/2011/09/15/the-prime-minister-of-thailand-yingluck-shinawatra-visits-cambodia-in-an-effort-to-improve-relations-after-the-border-clashes-near-the-preah.xml)  
+
 ### [2011-09-15](/news/2011/09/15/index.md)
 
+##### Prime Minister
 # The Prime Minister of Thailand Yingluck Shinawatra visits Cambodia in an effort to improve relations after the border clashes near the Preah Vihear Temple earlier this year which led to the deaths of twenty people. 
 
+Thai Prime Minister Yingluck Shinawatra will visit Cambodia today in a sign of improving ties after border fighting under her predecessor killed more than 20 people and led the United Nations to intervene.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2011-09-15/yingluck-visits-cambodia-as-thailand-seeks-to-mend-links-hurt-by-clashes.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2011-09-15/yingluck-visits-cambodia-as-thailand-seeks-to-mend-links-hurt-by-clashes.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

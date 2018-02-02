@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/23/die-zeit-a-german-newspaper-publishes-an-opinion-poll-which-claims-that-almost-one-in-three-germans-under-the-age-of-30-believe-the-uni.html)  [JSON](/news/2003/07/23/die-zeit-a-german-newspaper-publishes-an-opinion-poll-which-claims-that-almost-one-in-three-germans-under-the-age-of-30-believe-the-uni.json)  [XML](/news/2003/07/23/die-zeit-a-german-newspaper-publishes-an-opinion-poll-which-claims-that-almost-one-in-three-germans-under-the-age-of-30-believe-the-uni.xml)  
+
 ### [2003-07-23](/news/2003/07/23/index.md)
 
+##### Die Zeit
 #  "Die Zeit", a German newspaper, publishes an opinion poll which claims that almost one in three Germans under the age of 30 believe the United States government "could have ordered the September 11 attacks [on the World Trade Center and the Pentagon] itself". 1000 people took part in the survey.
 
 

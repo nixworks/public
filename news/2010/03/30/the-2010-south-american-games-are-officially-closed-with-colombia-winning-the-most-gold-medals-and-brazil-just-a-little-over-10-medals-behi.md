@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2010/03/30/the-2010-south-american-games-are-officially-closed-with-colombia-winning-the-most-gold-medals-and-brazil-just-a-little-over-10-medals-behi.html)  [JSON](/news/2010/03/30/the-2010-south-american-games-are-officially-closed-with-colombia-winning-the-most-gold-medals-and-brazil-just-a-little-over-10-medals-behi.json)  [XML](/news/2010/03/30/the-2010-south-american-games-are-officially-closed-with-colombia-winning-the-most-gold-medals-and-brazil-just-a-little-over-10-medals-behi.xml)  
+
 ### [2010-03-30](/news/2010/03/30/index.md)
 
+##### 2010 South American Games
 # The 2010 South American Games are officially closed, with Colombia winning the most gold medals and Brazil just a little over 10 medals behind.
 
 

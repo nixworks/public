@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/29/a-curfew-has-ended-in-the-indian-state-of-jammu
 
 ### [2016-08-29](/news/2016/08/29/index.md)
 
+##### 2016 Kashmir unrest
 # A curfew has ended in the Indian state of Jammu and Kashmir after 52 days of protest allowing for an all-party delegation to visit the state on Sunday. 
 
 For the first time in 52 days, cur the first time in 52 days, curfew was lifted from the entire Kashmir valley , barring three police stations, on Monday, setting the stage for the visit of an all-party delegation to the state on September 4.

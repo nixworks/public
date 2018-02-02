@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/30/an-afghan-national-security-forces-convoy-outsi
 
 ### [2016-06-30](/news/2016/06/30/index.md)
 
+##### War in Afghanistan (2015-present)
 # An Afghan National Security Forces convoy outside Kabul is attacked in a coordinated ambush including suicide bombers and heavy machine guns resulting in over 40 deaths. 
 
 Taliban bombers attack an Afghan police convoy outside Kabul, killing at least 30 people and wounding 50 others, officials say.

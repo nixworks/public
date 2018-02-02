@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/11/dominique-de-villepin-announces-his-candidacy-for-president-of-france.html)  [JSON](/news/2011/12/11/dominique-de-villepin-announces-his-candidacy-for-president-of-france.json)  [XML](/news/2011/12/11/dominique-de-villepin-announces-his-candidacy-for-president-of-france.xml)  
+
 ### [2011-12-11](/news/2011/12/11/index.md)
 
+##### Dominique de Villepin
 # Dominique de Villepin announces his candidacy for President of France. 
 
 French former prime minister and centre-right politician Dominique de Villepin announces he will stand for president in the 2012 election.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-16133598)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57262000/jpg/_57262444_013508885-1.jpg)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/08/12/us-airways-declares-bankruptcy-caused-by-the-air-travel-slowdown-following-the-september-11-2001-terrorist-attack.html)  [JSON](/news/2002/08/12/us-airways-declares-bankruptcy-caused-by-the-air-travel-slowdown-following-the-september-11-2001-terrorist-attack.json)  [XML](/news/2002/08/12/us-airways-declares-bankruptcy-caused-by-the-air-travel-slowdown-following-the-september-11-2001-terrorist-attack.xml)  
+
 ### [2002-08-12](/news/2002/08/12/index.md)
 
+##### US Airways
 #  US Airways declares bankruptcy, caused by the air travel slowdown following the September 11, 2001, Terrorist Attack.
 
 

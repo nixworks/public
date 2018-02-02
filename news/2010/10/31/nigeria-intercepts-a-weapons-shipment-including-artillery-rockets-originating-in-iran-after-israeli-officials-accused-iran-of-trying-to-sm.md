@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/31/nigeria-intercepts-a-weapons-shipment-including-artillery-rockets-originating-in-iran-after-israeli-officials-accused-iran-of-trying-to-sm.html)  [JSON](/news/2010/10/31/nigeria-intercepts-a-weapons-shipment-including-artillery-rockets-originating-in-iran-after-israeli-officials-accused-iran-of-trying-to-sm.json)  [XML](/news/2010/10/31/nigeria-intercepts-a-weapons-shipment-including-artillery-rockets-originating-in-iran-after-israeli-officials-accused-iran-of-trying-to-sm.xml)  
+
 ### [2010-10-31](/news/2010/10/31/index.md)
 
+##### Nigeria
 # Nigeria intercepts a weapons shipment including artillery rockets, originating in Iran, after Israeli officials accused Iran of trying to smuggle the weapons into the Hamas-controlled Gaza Strip. 
 
 Confirmation comes after Israeli officials accuse Teheran of attempting to smuggle shipment including rockets into Gaza through Africa.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/africa/10/30/nigeria.smuggled.weapons/index.html?iref=NS1)
 2. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=193335)

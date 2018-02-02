@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/1/the-u-s-court-of-appeals-federal-circuit-upheld-an-injunction-issued-by-a-federal-district-court-in-indiana-in-2009-enjoining-teva-pharm.html)  [JSON](/news/2010/09/1/the-u-s-court-of-appeals-federal-circuit-upheld-an-injunction-issued-by-a-federal-district-court-in-indiana-in-2009-enjoining-teva-pharm.json)  [XML](/news/2010/09/1/the-u-s-court-of-appeals-federal-circuit-upheld-an-injunction-issued-by-a-federal-district-court-in-indiana-in-2009-enjoining-teva-pharm.xml)  
+
 ### [2010-09-1](/news/2010/09/1/index.md)
 
+##### Federal Circuit
 # The U.S. Court of Appeals, Federal Circuit, upheld an injunction issued by a federal district court in Indiana in 2009, enjoining Teva Pharmaceuticals from the marketing of its drug for the treatment of osteoporosis. The district court found, and the appellate court agrees, that Teva's drug is in violation of a valid patent held by Eli Lilly & Co.. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fierce Pharma](http://www.fiercepharma.com/story/lilly-gets-patent-support-appeals-court/2010-09-02)
 

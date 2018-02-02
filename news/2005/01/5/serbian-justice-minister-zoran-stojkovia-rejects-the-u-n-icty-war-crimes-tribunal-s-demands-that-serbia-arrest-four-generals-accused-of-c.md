@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/5/serbian-justice-minister-zoran-stojkovia-rejects-the-u-n-icty-war-crimes-tribunal-s-demands-that-serbia-arrest-four-generals-accused-of-c.html)  [JSON](/news/2005/01/5/serbian-justice-minister-zoran-stojkovia-rejects-the-u-n-icty-war-crimes-tribunal-s-demands-that-serbia-arrest-four-generals-accused-of-c.json)  [XML](/news/2005/01/5/serbian-justice-minister-zoran-stojkovia-rejects-the-u-n-icty-war-crimes-tribunal-s-demands-that-serbia-arrest-four-generals-accused-of-c.xml)  
+
 ### [2005-01-5](/news/2005/01/5/index.md)
 
+##### Serbia
 #  Serbian Justice Minister Zoran Stojkovic rejects the U.N. ICTY war crimes tribunal's demands that Serbia arrest four generals accused of committing atrocities in Kosovo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [B92](http://www.b92.net/english/news/index.php?&nav_category=&nav_id=30994&order=priority&style=headlines)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/4147551.stm)

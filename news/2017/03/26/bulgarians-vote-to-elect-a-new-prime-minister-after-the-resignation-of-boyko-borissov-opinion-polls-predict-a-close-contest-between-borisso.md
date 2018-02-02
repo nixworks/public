@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/26/bulgarians-vote-to-elect-a-new-prime-minister-a
 
 ### [2017-03-26](/news/2017/03/26/index.md)
 
+##### Bulgarian parliamentary election, 2017
 # Bulgarians vote to elect a new Prime Minister after the resignation of Boyko Borissov. Opinion polls predict a close contest between Borissov's centre-right GERB and the Socialist Party. 
 
 

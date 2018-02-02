@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/4/prime-minister-vladimir-putin-says-russia-may-be-forced-to-cut-gas-supplies-to-ukraine-if-the-latter-does-not-fulfil-the-agreements-on-pa.html)  [JSON](/news/2008/12/4/prime-minister-vladimir-putin-says-russia-may-be-forced-to-cut-gas-supplies-to-ukraine-if-the-latter-does-not-fulfil-the-agreements-on-pa.json)  [XML](/news/2008/12/4/prime-minister-vladimir-putin-says-russia-may-be-forced-to-cut-gas-supplies-to-ukraine-if-the-latter-does-not-fulfil-the-agreements-on-pa.xml)  
+
 ### [2008-12-4](/news/2008/12/4/index.md)
 
+##### Prime Minister of Russia
 #  Prime Minister Vladimir Putin says Russia may be forced to cut gas supplies to Ukraine if the latter "does not fulfil the agreements" on payment for gas already consumed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7765052.stm)
 

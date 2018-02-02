@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/05/25/carrie-underwood-won-the-fourth-season-of-american-idol.html)  [JSON](/news/2005/05/25/carrie-underwood-won-the-fourth-season-of-american-idol.json)  [XML](/news/2005/05/25/carrie-underwood-won-the-fourth-season-of-american-idol.xml)  
+
 ### [2005-05-25](/news/2005/05/25/index.md)
 
+##### Carrie Underwood
 #  Carrie Underwood won the fourth season of American Idol. 
 
 

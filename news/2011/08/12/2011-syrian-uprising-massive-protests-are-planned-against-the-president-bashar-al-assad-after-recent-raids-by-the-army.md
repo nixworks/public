@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/12/2011-syrian-uprising-massive-protests-are-planned-against-the-president-bashar-al-assad-after-recent-raids-by-the-army.html)  [JSON](/news/2011/08/12/2011-syrian-uprising-massive-protests-are-planned-against-the-president-bashar-al-assad-after-recent-raids-by-the-army.json)  [XML](/news/2011/08/12/2011-syrian-uprising-massive-protests-are-planned-against-the-president-bashar-al-assad-after-recent-raids-by-the-army.xml)  
+
 ### [2011-08-12](/news/2011/08/12/index.md)
 
+##### 2011 Syrian uprising
 # 2011 Syrian uprising: Massive protests are planned against the President Bashar al-Assad, after recent raids by the Army. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Arabiya](http://english.alarabiya.net/articles/2011/08/12/161922.html)
 

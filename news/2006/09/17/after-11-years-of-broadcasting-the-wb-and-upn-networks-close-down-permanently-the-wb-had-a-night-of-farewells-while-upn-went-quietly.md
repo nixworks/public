@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/09/17/after-11-years-of-broadcasting-the-wb-and-upn-networks-close-down-permanently-the-wb-had-a-night-of-farewells-while-upn-went-quietly.html)  [JSON](/news/2006/09/17/after-11-years-of-broadcasting-the-wb-and-upn-networks-close-down-permanently-the-wb-had-a-night-of-farewells-while-upn-went-quietly.json)  [XML](/news/2006/09/17/after-11-years-of-broadcasting-the-wb-and-upn-networks-close-down-permanently-the-wb-had-a-night-of-farewells-while-upn-went-quietly.xml)  
+
 ### [2006-09-17](/news/2006/09/17/index.md)
 
+##### WB
 #  After 11 years of broadcasting, the WB and UPN networks close down permanently. The WB had a Night of Farewells while UPN went quietly.
 
 

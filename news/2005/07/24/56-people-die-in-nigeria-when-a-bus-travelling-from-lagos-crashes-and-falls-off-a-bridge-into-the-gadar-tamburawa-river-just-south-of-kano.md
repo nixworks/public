@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/24/56-people-die-in-nigeria-when-a-bus-travelling-from-lagos-crashes-and-falls-off-a-bridge-into-the-gadar-tamburawa-river-just-south-of-kano.html)  [JSON](/news/2005/07/24/56-people-die-in-nigeria-when-a-bus-travelling-from-lagos-crashes-and-falls-off-a-bridge-into-the-gadar-tamburawa-river-just-south-of-kano.json)  [XML](/news/2005/07/24/56-people-die-in-nigeria-when-a-bus-travelling-from-lagos-crashes-and-falls-off-a-bridge-into-the-gadar-tamburawa-river-just-south-of-kano.xml)  
+
 ### [2005-07-24](/news/2005/07/24/index.md)
 
+##### Nigeria
 #  56 people die in Nigeria when a bus travelling from Lagos crashes and falls off a bridge into the Gadar Tamburawa river, just south of Kano. It is believed that the driver fell asleep as he drove. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4712657.stm)
 

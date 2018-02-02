@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/2/the-australian-dollar-reaches-1-10-in-united-states-dollars-its-highest-level-since-the-australian-dollar-was-floated-in-1983.html)  [JSON](/news/2011/05/2/the-australian-dollar-reaches-1-10-in-united-states-dollars-its-highest-level-since-the-australian-dollar-was-floated-in-1983.json)  [XML](/news/2011/05/2/the-australian-dollar-reaches-1-10-in-united-states-dollars-its-highest-level-since-the-australian-dollar-was-floated-in-1983.xml)  
+
 ### [2011-05-2](/news/2011/05/2/index.md)
 
+##### A$
 # The Australian dollar reaches $1.10 in United States dollars, its highest level since the Australian dollar was floated in 1983. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/national-affairs/mine-boom-raises-fears-of-inflation/story-fn59niix-1226048231433)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/27/british-secretary-of-state-for-culture-media-and-sport-jeremy-hunt-agrees-to-hand-over-private-emails-to-the-leveson-inquiry-relating-to-th.html)  [JSON](/news/2012/04/27/british-secretary-of-state-for-culture-media-and-sport-jeremy-hunt-agrees-to-hand-over-private-emails-to-the-leveson-inquiry-relating-to-th.json)  [XML](/news/2012/04/27/british-secretary-of-state-for-culture-media-and-sport-jeremy-hunt-agrees-to-hand-over-private-emails-to-the-leveson-inquiry-relating-to-th.xml)  
+
 ### [2012-04-27](/news/2012/04/27/index.md)
 
+##### Secretary of State for Culture, Media and Sport
 # British Secretary of State for Culture, Media and Sport Jeremy Hunt agrees to hand over private emails to the Leveson Inquiry relating to the BSkyB takeover as pressure mounts for a separate inquiry into his conduct. 
 
 Jeremy Hunt has said he will hand over emails about the BSkyB takeover bid to the Leveson Inquiry as Labour accuses David Cameron of a &quot;cover-up&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-17867537)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59898000/jpg/_59898678_014609893-1.jpg)

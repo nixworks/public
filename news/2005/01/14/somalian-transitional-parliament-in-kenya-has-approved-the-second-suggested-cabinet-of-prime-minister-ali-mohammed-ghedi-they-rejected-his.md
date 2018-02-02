@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/14/somalian-transitional-parliament-in-kenya-has-approved-the-second-suggested-cabinet-of-prime-minister-ali-mohammed-ghedi-they-rejected-his.html)  [JSON](/news/2005/01/14/somalian-transitional-parliament-in-kenya-has-approved-the-second-suggested-cabinet-of-prime-minister-ali-mohammed-ghedi-they-rejected-his.json)  [XML](/news/2005/01/14/somalian-transitional-parliament-in-kenya-has-approved-the-second-suggested-cabinet-of-prime-minister-ali-mohammed-ghedi-they-rejected-his.xml)  
+
 ### [2005-01-14](/news/2005/01/14/index.md)
 
+##### Somalia
 #  Somalian transitional parliament in Kenya has approved the second suggested cabinet of prime minister Ali Mohammed Ghedi. They rejected his earlier suggested cabinet four weeks ago 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica](http://allafrica.com/stories/200501130008.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4170729.stm)

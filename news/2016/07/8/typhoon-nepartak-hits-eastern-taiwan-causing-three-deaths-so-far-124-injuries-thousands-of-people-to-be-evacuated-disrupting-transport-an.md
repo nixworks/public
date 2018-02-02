@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/8/typhoon-nepartak-hits-eastern-taiwan-causing-thr
 
 ### [2016-07-8](/news/2016/07/8/index.md)
 
+##### 2016 Pacific typhoon season
 # Typhoon Nepartak hits eastern Taiwan causing three deaths so far, 124 injuries, thousands of people to be evacuated, disrupting transport and power supplies. 
 
 Super typhoon Nepartak hit Taiwan on Friday, driving thousands of people from their homes, disrupting power supplies and grounding more than 600 flights, authorities said.

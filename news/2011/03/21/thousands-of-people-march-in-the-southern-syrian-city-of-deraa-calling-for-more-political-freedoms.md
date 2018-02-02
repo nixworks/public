@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/21/thousands-of-people-march-in-the-southern-syrian-city-of-deraa-calling-for-more-political-freedoms.html)  [JSON](/news/2011/03/21/thousands-of-people-march-in-the-southern-syrian-city-of-deraa-calling-for-more-political-freedoms.json)  [XML](/news/2011/03/21/thousands-of-people-march-in-the-southern-syrian-city-of-deraa-calling-for-more-political-freedoms.xml)  
+
 ### [2011-03-21](/news/2011/03/21/index.md)
 
+##### protestors
 # Thousands of people march in the southern Syrian city of Deraa calling for more political freedoms. 
 
 Thousands of demonstrators march through the southern Syrian city of Deraa calling for greater freedoms, following the funeral of a protester killed on Sunday.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12809566)
 2. [Times LIVE South Africa](http://www.timeslive.co.za/world/article979072.ece/Thousands-march-in-Syrian-protest-town)

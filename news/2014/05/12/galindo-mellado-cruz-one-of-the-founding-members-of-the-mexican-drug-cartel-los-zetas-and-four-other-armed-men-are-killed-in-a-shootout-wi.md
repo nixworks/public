@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2014/05/12/galindo-mellado-cruz-one-of-the-founding-members-of-the-mexican-drug-cartel-los-zetas-and-four-other-armed-men-are-killed-in-a-shootout-wi.html)  [JSON](/news/2014/05/12/galindo-mellado-cruz-one-of-the-founding-members-of-the-mexican-drug-cartel-los-zetas-and-four-other-armed-men-are-killed-in-a-shootout-wi.json)  [XML](/news/2014/05/12/galindo-mellado-cruz-one-of-the-founding-members-of-the-mexican-drug-cartel-los-zetas-and-four-other-armed-men-are-killed-in-a-shootout-wi.xml)  
+
 ### [2014-05-12](/news/2014/05/12/index.md)
 
+##### Mexican drug cartel
 # Galindo Mellado Cruz, one of the founding members of the Mexican drug cartel Los Zetas, and four other armed men are killed in a shootout with Mexican security forces after they raided Cruz's hideout in the city of Reynosa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-27370457)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74784000/jpg/_74784980_zetas.jpg)
+
+### Changes:
+
+1. [Mexican Drug War:Galindo Mellado Cruz, one of the founding members of the Mexican drug cartel Los Zetas, and four other armed men are killed in a shootout with Mexican security forces after they raided Cruz's hideout in the city of Reynosa. ](/news/2014/05/12/mexican-drug-war-pgalindo-mellado-cruz-one-of-the-founding-members-of-the-mexican-drug-cartel-los-zetas-and-four-other-armed-men-are-kille.md) _2017-08-25 03:40:23 (First version)_
+2. [Mexican Drug War:: Galindo Mellado Cruz, one of the founding members of the Mexican drug cartel Los Zetas, and four other armed men are killed in a shootout with Mexican security forces after they raided Cruz's hideout in the city of Reynosa. ](/news/2014/05/12/mexican-drug-war-galindo-mellado-cruz-one-of-the-founding-members-of-the-mexican-drug-cartel-los-zetas-and-four-other-armed-men-are-kill.md) _2017-08-27 03:40:41 (Update)_
+2. [Galindo Mellado Cruz, one of the founding members of the Mexican drug cartel Los Zetas, and four other armed men are killed in a shootout with Mexican security forces after they raided Cruz's hideout in the city of Reynosa. ](/news/2014/05/12/galindo-mellado-cruz-one-of-the-founding-members-of-the-mexican-drug-cartel-los-zetas-and-four-other-armed-men-are-killed-in-a-shootout-wi.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@
 3. [Mexican Drug War: 49 dismembered bodies are discovered by Mexican authorities on Mexican Federal Highway 40. The decapitated and mutilated bodies were dumped on a roadside near the northern city of Monterrey, presumably by members of the powerful Los Zetas drug cartel. ](/news/2012/05/13/mexican-drug-war-49-dismembered-bodies-are-discovered-by-mexican-authorities-on-mexican-federal-highway-40-the-decapitated-and-mutilated-b.md) _Context: Los Zetas, Mexico_
 4. [The Mexican Army rescues 44 Guatemalan immigrants in Reynosa in northern Mexico. ](/news/2011/02/8/the-mexican-army-rescues-44-guatemalan-immigrants-in-reynosa-in-northern-mexico.md) _Context: Mexico, Reynosa_
 5. [Mexican Drug War: The Mexican Los Zetas drug cartel threatens to launch a war in northern Guatemala where the government declared a "state of siege". ](/news/2010/12/29/mexican-drug-war-the-mexican-los-zetas-drug-cartel-threatens-to-launch-a-war-in-northern-guatemala-where-the-government-declared-a-state-o.md) _Context: Los Zetas, Mexico_
-
-### Changes:
-
-1. [Mexican Drug War:Galindo Mellado Cruz, one of the founding members of the Mexican drug cartel Los Zetas, and four other armed men are killed in a shootout with Mexican security forces after they raided Cruz's hideout in the city of Reynosa. ](/news/2014/05/12/mexican-drug-war-pgalindo-mellado-cruz-one-of-the-founding-members-of-the-mexican-drug-cartel-los-zetas-and-four-other-armed-men-are-kille.md) _2017-08-25 03:40:23 (First version)_
-2. [Mexican Drug War:: Galindo Mellado Cruz, one of the founding members of the Mexican drug cartel Los Zetas, and four other armed men are killed in a shootout with Mexican security forces after they raided Cruz's hideout in the city of Reynosa. ](/news/2014/05/12/mexican-drug-war-galindo-mellado-cruz-one-of-the-founding-members-of-the-mexican-drug-cartel-los-zetas-and-four-other-armed-men-are-kill.md) _2017-08-27 03:40:41 (Update)_
-2. [Galindo Mellado Cruz, one of the founding members of the Mexican drug cartel Los Zetas, and four other armed men are killed in a shootout with Mexican security forces after they raided Cruz's hideout in the city of Reynosa. ](/news/2014/05/12/galindo-mellado-cruz-one-of-the-founding-members-of-the-mexican-drug-cartel-los-zetas-and-four-other-armed-men-are-killed-in-a-shootout-wi.md) _(Current version)_

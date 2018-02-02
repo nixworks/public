@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/10/the-airline-catering-firm-gate-gourmet-sack-670-workers-at-london-s-heathrow-airport-sparking-a-sympathy-strike-from-british-airways-staff.html)  [JSON](/news/2005/08/10/the-airline-catering-firm-gate-gourmet-sack-670-workers-at-london-s-heathrow-airport-sparking-a-sympathy-strike-from-british-airways-staff.json)  [XML](/news/2005/08/10/the-airline-catering-firm-gate-gourmet-sack-670-workers-at-london-s-heathrow-airport-sparking-a-sympathy-strike-from-british-airways-staff.xml)  
+
 ### [2005-08-10](/news/2005/08/10/index.md)
 
+##### Gate Gourmet
 #  The airline catering firm Gate Gourmet sack 670 workers at London's Heathrow Airport, sparking a sympathy strike from British Airways staff. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TGWU](http://www.tgwu.org.uk/Templates/News.asp?NodeID=91861&int1stParentNodeID=42438&int2ndParentNodeID=42438&Action=Display)
 

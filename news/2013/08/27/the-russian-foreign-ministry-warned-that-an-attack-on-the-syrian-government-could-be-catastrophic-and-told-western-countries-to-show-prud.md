@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/27/the-russian-foreign-ministry-warned-that-an-attack-on-the-syrian-government-could-be-catastrophic-and-told-western-countries-to-show-prud.html)  [JSON](/news/2013/08/27/the-russian-foreign-ministry-warned-that-an-attack-on-the-syrian-government-could-be-catastrophic-and-told-western-countries-to-show-prud.json)  [XML](/news/2013/08/27/the-russian-foreign-ministry-warned-that-an-attack-on-the-syrian-government-could-be-catastrophic-and-told-western-countries-to-show-prud.xml)  
+
 ### [2013-08-27](/news/2013/08/27/index.md)
 
+##### Syrian civil war
 # The Russian foreign ministry warned that an attack on the Syrian government could be "catastrophic" and told Western countries to show "prudence" over the crisis happening there. 
 
 Russia&#x20;warned&#x20;that&#x20;a&#x20;military&#x20;intervention&#x20;in&#x20;Syria&#x20;could&#x20;have&#x20;&quot;catastrophic&#x20;consequences&quot;&#x20;on&#x20;Tuesday&#x20;and&#x20;called&#x20;on&#x20;Western&#x20;powers&#x20;to&#x20;show&#x20;&quot;prudence&quot;&#x20;over&#x20;the&#x20;crisis,&#x20;as&#x20;the&#x20;UK&#x20;military&#x20;began&#x20;to&#x20;draw&#x20;up&#x20;contingency&#x20;plans&#x20;for&#x20;a&#x20;possible&#x20;attack.
 
 
-### Source:
+### Sources:
 
 1. [ (France 24](http://www.france24.com/en/20130827-russia-warns-attack-syria-uk-plans-usa)
 2. [BBC](http://www.bbc.co.uk/news/uk-23851292)
@@ -16,15 +20,15 @@ Russia&#x20;warned&#x20;that&#x20;a&#x20;military&#x20;intervention&#x20;in&#x20
 7. [Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/10268547/Syria-Russia-evacuates-citizens-ahead-of-military-strikes-in-the-next-few-days.html)
 7. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/syrie_229.jpg)
 
-### Related:
-
-1. [Russian and Syrian warplanes carry out airstrikes in southern Idlib, killing three civilians and wounding others. ](/news/2017/09/21/russian-and-syrian-warplanes-carry-out-airstrikes-in-southern-idlib-killing-three-civilians-and-wounding-others.md) _Context: Russia, Syria, Syrian Civil War_
-2. [The Russian air force bombards the city of Madan and Zor Shamr Camp, south and east of Raqqa, Syria, with cluster bombs, killing six civilians and wounding 19 others. Nearby Alburamadan town was also struck; there are no reports of casualties. ](/news/2017/07/23/the-russian-air-force-bombards-the-city-of-madan-and-zor-shamr-camp-south-and-east-of-raqqa-syria-with-cluster-bombs-killing-six-civilia.md) _Context: Russia, Syria, Syrian Civil War_
-3. [The Royal Australian Air Force (RAAF) suspends combat missions against ISIL over Syria, following Russia's threat that it would treat any aircraft from the U.S.-led coalition flying west of the Euphrates as a potential target. ](/news/2017/06/20/the-royal-australian-air-force-raaf-suspends-combat-missions-against-isil-over-syria-following-russia-s-threat-that-it-would-treat-any-ai.md) _Context: Russia, Syria, Syrian Civil War_
-4. [After yesterday's downing of a Syrian Su-22 jet, Russia shuts down a deconfliction channel and says it will follow any aircraft west of the Euphrates as a target. ](/news/2017/06/19/after-yesterday-s-downing-of-a-syrian-su-22-jet-russia-shuts-down-a-deconfliction-channel-and-says-it-will-follow-any-aircraft-west-of-the.md) _Context: Russia, Syria, Syrian Civil War_
-5. [A memorandum is signed by Russia, Iran, and Turkey calling for de-escalation of the Syrian Civil War, although neither the Syrian government nor the Syrian opposition are signatories. ](/news/2017/05/4/a-memorandum-is-signed-by-russia-iran-and-turkey-calling-for-de-escalation-of-the-syrian-civil-war-although-neither-the-syrian-government.md) _Context: Russia, Syria, Syrian Civil War_
-
 ### Changes:
 
 1. [Syrian civil war: The Russian foreign ministry warned that an attack on the Syrian government could be "catastrophic" and told Western countries to show "prudence" over the crisis happening there. ](/news/2013/08/27/syrian-civil-war-the-russian-foreign-ministry-warned-that-an-attack-on-the-syrian-government-could-be-catastrophic-and-told-western-count.md) _2017-08-27 03:39:28 (First version)_
 1. [The Russian foreign ministry warned that an attack on the Syrian government could be "catastrophic" and told Western countries to show "prudence" over the crisis happening there. ](/news/2013/08/27/the-russian-foreign-ministry-warned-that-an-attack-on-the-syrian-government-could-be-catastrophic-and-told-western-countries-to-show-prud.md) _(Current version)_
+
+### Related:
+
+1. [The Obama administration through the U.S. State Department announces the suspension of bilateral talks with Russia about the cessation of hostilities in Syria, as Russia and the Syrian government continue to pursue a military course despite the ceasefire accord. ](/news/2016/10/3/the-obama-administration-through-the-u-s-state-department-announces-the-suspension-of-bilateral-talks-with-russia-about-the-cessation-of-ho.md) _Context: Russia, Syria, Syrian civil war_
+2. [Russian and Syrian government attacks on rebel-held east Aleppo kill two people and injure 13 others. The Syrian American Medical Society reports the city's main trauma hospital closes. ](/news/2016/10/1/russian-and-syrian-government-attacks-on-rebel-held-east-aleppo-kill-two-people-and-injure-13-others-the-syrian-american-medical-society-re.md) _Context: Russia, Syria, Syrian civil war_
+3. [A Russian Mil Mi-8 military helicopter carrying humanitarian aid onboard is shot down by rebels in northern Syria. All five members of the crew die in the crash. ](/news/2016/08/1/a-russian-mil-mi-8-military-helicopter-carrying-humanitarian-aid-onboard-is-shot-down-by-rebels-in-northern-syria-all-five-members-of-the-c.md) _Context: Russia, Syria, Syrian civil war_
+4. [Russian Defense Minister Sergei Shoigu says Russia and Syria will open humanitarian corridors to Aleppo, and will provide a way for rebel fighters to lay down their arms. ](/news/2016/07/28/russian-defense-minister-sergei-shoigu-says-russia-and-syria-will-open-humanitarian-corridors-to-aleppo-and-will-provide-a-way-for-rebel-fi.md) _Context: Russia, Syria, Syrian civil war_
+5. [Turkey threatens to "strangle" the United States-backed Syrian Border Security Force "before it's even born", while Syria vows to crush it and expel American military personnel from the country. Russia called the plans "a plot to dismember Syria". ](/news/2018/01/15/turkey-threatens-to-strangle-the-united-states-backed-syrian-border-security-force-before-it-s-even-born-while-syria-vows-to-crush-it-a.md) _Context: Russia, Syria_

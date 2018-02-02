@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/6/2006-toronto-terrorism-case-toronto-police-uncover-an-alleged-subplot-where-steven-vikash-chand-alias-abdul-shakur-intended-to-lead-an-i.html)  [JSON](/news/2006/06/6/2006-toronto-terrorism-case-toronto-police-uncover-an-alleged-subplot-where-steven-vikash-chand-alias-abdul-shakur-intended-to-lead-an-i.json)  [XML](/news/2006/06/6/2006-toronto-terrorism-case-toronto-police-uncover-an-alleged-subplot-where-steven-vikash-chand-alias-abdul-shakur-intended-to-lead-an-i.xml)  
+
 ### [2006-06-6](/news/2006/06/6/index.md)
 
+##### 2006 Toronto terrorism case
 #  2006 Toronto terrorism case: Toronto police uncover an alleged subplot where Steven Vikash Chand, alias Abdul Shakur, intended to lead an invasion of the Parliament of Canada building and assassinate Prime Minister Stephen Harper. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2006/06/06/suspects-hearing.html)
 

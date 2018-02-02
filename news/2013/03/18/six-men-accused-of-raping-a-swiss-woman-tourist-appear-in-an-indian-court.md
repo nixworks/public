@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2013/03/18/six-men-accused-of-raping-a-swiss-woman-tourist-appear-in-an-indian-court.html)  [JSON](/news/2013/03/18/six-men-accused-of-raping-a-swiss-woman-tourist-appear-in-an-indian-court.json)  [XML](/news/2013/03/18/six-men-accused-of-raping-a-swiss-woman-tourist-appear-in-an-indian-court.xml)  
+
 ### [2013-03-18](/news/2013/03/18/index.md)
 
+##### Swiss
 # Six men accused of raping a Swiss woman tourist appear in an Indian court. 
 
+Six men arrested over the alleged gang rape of a 39-year-old Swiss woman as she camped with her husband in a forest in central India will appear in court today.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2013-03-18/six-men-accused-of-raping-swiss-woman-to-appear-in-indian-court.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2013-03-18/six-men-accused-of-raping-swiss-woman-to-appear-in-indian-court.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/30/mexico-city-facing-the-capital-s-worst-air-qual
 
 ### [2016-03-30](/news/2016/03/30/index.md)
 
+##### Air pollution in Mexico City
 # Mexico City, facing the capital's worst air-quality crisis in over a decade, issues a temporary order that all cars remain idle one day a week. Today, authorities report a pollution index of 108 (bad) after low readings during Holy Week. Vehicles will also be forced from the roads one Saturday a month. The measure will begin next Tuesday, April 5, and run until Thursday, June 30, 2016. Starting July 1, improved technology will be in place at smog-check centers where all vehicles must be tested every six months. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/11/former-khmer-rouge-foreign-minister-ieng-sary-and-his-wife-ieng-thirith-are-arrested-in-phnom-penh-to-face-charges-before-that-country-s.html)  [JSON](/news/2007/11/11/former-khmer-rouge-foreign-minister-ieng-sary-and-his-wife-ieng-thirith-are-arrested-in-phnom-penh-to-face-charges-before-that-country-s.json)  [XML](/news/2007/11/11/former-khmer-rouge-foreign-minister-ieng-sary-and-his-wife-ieng-thirith-are-arrested-in-phnom-penh-to-face-charges-before-that-country-s.xml)  
+
 ### [2007-11-11](/news/2007/11/11/index.md)
 
+##### Khmer Rouge
 #  Former Khmer Rouge Foreign Minister, Ieng Sary and his wife, Ieng Thirith are arrested in Phnom Penh to face charges before that country's U.N. genocide tribunal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via FOX News](http://www.foxnews.com/wires/2007Nov12/0,4670,CambodiaKhmerRouge,00.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/30/wake-island-is-evacuated-in-preparation-for-its-predicted-inundation-by-typhoon-ioke-now-classified-as-a-super-typhoon-which-is-expected.html)  [JSON](/news/2006/08/30/wake-island-is-evacuated-in-preparation-for-its-predicted-inundation-by-typhoon-ioke-now-classified-as-a-super-typhoon-which-is-expected.json)  [XML](/news/2006/08/30/wake-island-is-evacuated-in-preparation-for-its-predicted-inundation-by-typhoon-ioke-now-classified-as-a-super-typhoon-which-is-expected.xml)  
+
 ### [2006-08-30](/news/2006/08/30/index.md)
 
+##### Wake Island
 #  Wake Island is evacuated, in preparation for its predicted inundation by Typhoon Ioke, now classified as a super typhoon, which is expected to destroy almost all structures on the island. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/WEATHER/08/29/wake.island.evac.ap/index.html)
 

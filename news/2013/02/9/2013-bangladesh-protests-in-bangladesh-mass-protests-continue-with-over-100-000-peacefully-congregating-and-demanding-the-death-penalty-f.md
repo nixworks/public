@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/9/2013-bangladesh-protests-in-bangladesh-mass-protests-continue-with-over-100-000-peacefully-congregating-and-demanding-the-death-penalty-f.html)  [JSON](/news/2013/02/9/2013-bangladesh-protests-in-bangladesh-mass-protests-continue-with-over-100-000-peacefully-congregating-and-demanding-the-death-penalty-f.json)  [XML](/news/2013/02/9/2013-bangladesh-protests-in-bangladesh-mass-protests-continue-with-over-100-000-peacefully-congregating-and-demanding-the-death-penalty-f.xml)  
+
 ### [2013-02-9](/news/2013/02/9/index.md)
 
+##### 2013 Bangladesh protests
 # 2013 Bangladesh protests: In Bangladesh, mass protests continue, with over 100,000 peacefully congregating and demanding the death penalty for the atrocities committed during the Bangladesh Liberation War. 
 
 Hundreds of thousands rally in Bangladesh to demand the death penalty for a political leader convicted of war crimes from the 1971 independence war.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21383632)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65786000/jpg/_65786608_08-02-13-projonmochottor_sahabagh-2.jpg)

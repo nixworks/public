@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/13/six-crew-members-are-missing-after-china-s-mv-changhai-178-capsizes-in-the-south-china-sea.html)  [JSON](/news/2009/02/13/six-crew-members-are-missing-after-china-s-mv-changhai-178-capsizes-in-the-south-china-sea.json)  [XML](/news/2009/02/13/six-crew-members-are-missing-after-china-s-mv-changhai-178-capsizes-in-the-south-china-sea.xml)  
+
 ### [2009-02-13](/news/2009/02/13/index.md)
 
+##### China
 #  Six crew members are missing after China's MV "Changhai 178" capsizes in the South China Sea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2009-02/13/content_10816837.htm)
 

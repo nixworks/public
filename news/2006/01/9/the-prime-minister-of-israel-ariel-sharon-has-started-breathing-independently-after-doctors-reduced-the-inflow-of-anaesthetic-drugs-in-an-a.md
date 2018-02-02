@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/9/the-prime-minister-of-israel-ariel-sharon-has-started-breathing-independently-after-doctors-reduced-the-inflow-of-anaesthetic-drugs-in-an-a.html)  [JSON](/news/2006/01/9/the-prime-minister-of-israel-ariel-sharon-has-started-breathing-independently-after-doctors-reduced-the-inflow-of-anaesthetic-drugs-in-an-a.json)  [XML](/news/2006/01/9/the-prime-minister-of-israel-ariel-sharon-has-started-breathing-independently-after-doctors-reduced-the-inflow-of-anaesthetic-drugs-in-an-a.xml)  
+
 ### [2006-01-9](/news/2006/01/9/index.md)
 
+##### Israeli Prime Minister
 #  The Prime Minister of Israel Ariel Sharon has started breathing independently after doctors reduced the inflow of anaesthetic drugs in an attempt to waken the prime minister from deep sedation. 
 
 (VIDEO) Hadassah director tells press doctors have started rousing Sharon from induced coma by reducing anesthetic drugs; says the prime minister is able to breathe on his own while connected to a respirator; earlier, doctors held consultation and conducted series of tests; over 60 lords, senators, congressmen visit hospital to wish PM full recovery
 
 
-### Source:
+### Sources:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3197415,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

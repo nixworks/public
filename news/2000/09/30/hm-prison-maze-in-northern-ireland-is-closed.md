@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/09/30/hm-prison-maze-in-northern-ireland-is-closed.html)  [JSON](/news/2000/09/30/hm-prison-maze-in-northern-ireland-is-closed.json)  [XML](/news/2000/09/30/hm-prison-maze-in-northern-ireland-is-closed.xml)  
+
 ### [2000-09-30](/news/2000/09/30/index.md)
 
+##### prisons
 #  HM Prison Maze in Northern Ireland is closed.
 
 

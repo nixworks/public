@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/14/rena-c-anga-c-lil-manager-and-husband-of-singer
 
 ### [2016-01-14](/news/2016/01/14/index.md)
 
+##### Rene Angelil
 # Rene Angelil, manager and husband of singer Celine Dion, dies at age 73 after a long battle with throat cancer.
 
 Rene Angelil, the husband and former manager of singer Celine Dion, dies aged 73.

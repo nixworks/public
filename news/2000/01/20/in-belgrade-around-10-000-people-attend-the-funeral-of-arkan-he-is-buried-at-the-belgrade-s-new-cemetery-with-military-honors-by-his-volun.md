@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/01/20/in-belgrade-around-10-000-people-attend-the-funeral-of-arkan-he-is-buried-at-the-belgrade-s-new-cemetery-with-military-honors-by-his-volun.html)  [JSON](/news/2000/01/20/in-belgrade-around-10-000-people-attend-the-funeral-of-arkan-he-is-buried-at-the-belgrade-s-new-cemetery-with-military-honors-by-his-volun.json)  [XML](/news/2000/01/20/in-belgrade-around-10-000-people-attend-the-funeral-of-arkan-he-is-buried-at-the-belgrade-s-new-cemetery-with-military-honors-by-his-volun.xml)  
+
 ### [2000-01-20](/news/2000/01/20/index.md)
 
+##### Belgrade
 # In Belgrade, around 10,000 people attend the funeral of Arkan. He is buried at the Belgrade's New Cemetery with military honors by his volunteers and with funeral rites.
 
 

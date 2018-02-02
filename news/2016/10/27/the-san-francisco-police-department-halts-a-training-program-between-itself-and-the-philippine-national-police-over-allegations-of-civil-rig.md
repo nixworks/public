@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/27/the-san-francisco-police-department-halts-a-tra
 
 ### [2016-10-27](/news/2016/10/27/index.md)
 
+##### Philippines-United States relations
 # The San Francisco Police Department halts a training program between itself and the Philippine National Police over allegations of civil rights violations committed under the guise of the Philippine Drug War. 
 
 

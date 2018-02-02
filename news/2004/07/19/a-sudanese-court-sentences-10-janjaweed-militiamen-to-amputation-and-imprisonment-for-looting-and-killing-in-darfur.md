@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/07/19/a-sudanese-court-sentences-10-janjaweed-militiamen-to-amputation-and-imprisonment-for-looting-and-killing-in-darfur.html)  [JSON](/news/2004/07/19/a-sudanese-court-sentences-10-janjaweed-militiamen-to-amputation-and-imprisonment-for-looting-and-killing-in-darfur.json)  [XML](/news/2004/07/19/a-sudanese-court-sentences-10-janjaweed-militiamen-to-amputation-and-imprisonment-for-looting-and-killing-in-darfur.xml)  
+
 ### [2004-07-19](/news/2004/07/19/index.md)
 
+##### Sudan
 #  A Sudanese court sentences 10 Janjaweed militiamen to amputation and imprisonment for looting and killing in Darfur. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5709160)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5709160)
 
 ### Related:
 

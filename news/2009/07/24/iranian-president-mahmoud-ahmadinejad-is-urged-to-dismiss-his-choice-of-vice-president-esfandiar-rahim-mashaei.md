@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/24/iranian-president-mahmoud-ahmadinejad-is-urged-to-dismiss-his-choice-of-vice-president-esfandiar-rahim-mashaei.html)  [JSON](/news/2009/07/24/iranian-president-mahmoud-ahmadinejad-is-urged-to-dismiss-his-choice-of-vice-president-esfandiar-rahim-mashaei.json)  [XML](/news/2009/07/24/iranian-president-mahmoud-ahmadinejad-is-urged-to-dismiss-his-choice-of-vice-president-esfandiar-rahim-mashaei.xml)  
+
 ### [2009-07-24](/news/2009/07/24/index.md)
 
+##### Iran
 #  Iranian President Mahmoud Ahmadinejad is urged to dismiss his choice of Vice President, Esfandiar Rahim Mashaei. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hWwhfDRFoOdvTxSte5ak4cFKMAaQD99KQT7O0)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=101536&sectionid=351020101)

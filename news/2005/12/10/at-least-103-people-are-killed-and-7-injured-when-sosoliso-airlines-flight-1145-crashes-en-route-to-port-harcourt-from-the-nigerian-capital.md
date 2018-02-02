@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/10/at-least-103-people-are-killed-and-7-injured-when-sosoliso-airlines-flight-1145-crashes-en-route-to-port-harcourt-from-the-nigerian-capital.html)  [JSON](/news/2005/12/10/at-least-103-people-are-killed-and-7-injured-when-sosoliso-airlines-flight-1145-crashes-en-route-to-port-harcourt-from-the-nigerian-capital.json)  [XML](/news/2005/12/10/at-least-103-people-are-killed-and-7-injured-when-sosoliso-airlines-flight-1145-crashes-en-route-to-port-harcourt-from-the-nigerian-capital.xml)  
+
 ### [2005-12-10](/news/2005/12/10/index.md)
 
+##### Sosoliso Airlines Flight 1145
 #  At least 103 people are killed and 7 injured when Sosoliso Airlines Flight 1145 crashes en route to Port Harcourt from the Nigerian capital Abuja. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2005/WORLD/africa/12/10/nigeria.crash.ap/index.html)
 

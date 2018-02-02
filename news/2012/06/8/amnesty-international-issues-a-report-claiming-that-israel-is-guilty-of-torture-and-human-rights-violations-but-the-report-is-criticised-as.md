@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/8/amnesty-international-issues-a-report-claiming-that-israel-is-guilty-of-torture-and-human-rights-violations-but-the-report-is-criticised-as.html)  [JSON](/news/2012/06/8/amnesty-international-issues-a-report-claiming-that-israel-is-guilty-of-torture-and-human-rights-violations-but-the-report-is-criticised-as.json)  [XML](/news/2012/06/8/amnesty-international-issues-a-report-claiming-that-israel-is-guilty-of-torture-and-human-rights-violations-but-the-report-is-criticised-as.xml)  
+
 ### [2012-06-8](/news/2012/06/8/index.md)
 
+##### Amnesty International
 # Amnesty International issues a report claiming that Israel is guilty of torture and human rights violations, but the report is criticised as biased because of the alleged involvement of an anti-Israel activist in its writing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jewish Telegraphic Agency](http://www.jta.org/news/article/2012/06/08/3097666/amnesty-israel-guilty-of-torture-unfairly-detains-palestinians)
 

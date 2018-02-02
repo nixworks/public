@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/18/extinct-mammoth-mitochondrial-dna-decoded.html)  [JSON](/news/2005/12/18/extinct-mammoth-mitochondrial-dna-decoded.json)  [XML](/news/2005/12/18/extinct-mammoth-mitochondrial-dna-decoded.xml)  
+
 ### [2005-12-18](/news/2005/12/18/index.md)
 
+##### mammoth
 #  Extinct mammoth mitochondrial DNA decoded. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/4535190.stm)
 

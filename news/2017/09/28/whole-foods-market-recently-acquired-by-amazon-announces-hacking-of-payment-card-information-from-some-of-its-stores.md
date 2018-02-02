@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/09/28/whole-foods-market-recently-acquired-by-amazon-announces-hacking-of-payment-card-information-from-some-of-its-stores.html)  [JSON](/news/2017/09/28/whole-foods-market-recently-acquired-by-amazon-announces-hacking-of-payment-card-information-from-some-of-its-stores.json)  [XML](/news/2017/09/28/whole-foods-market-recently-acquired-by-amazon-announces-hacking-of-payment-card-information-from-some-of-its-stores.xml)  
+
 ### [2017-09-28](/news/2017/09/28/index.md)
 
+##### Credit card fraud
 # Whole Foods Market, recently acquired by Amazon, announces hacking of payment card information from some of its stores. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](https://www.reuters.com/article/us-amazon-com-cyber/whole-foods-says-taprooms-restaurants-hacked-idUSKCN1C33DF)
 1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170929&t=2&i=1203412136&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED8R1XV)

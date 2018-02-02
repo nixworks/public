@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/30/prime-minister-manmohan-singh-announced-india-would-give-us-50-million-in-additional-aid-for-the-reconstruction-of-afghanistan-during-his-m.html)  [JSON](/news/2005/08/30/prime-minister-manmohan-singh-announced-india-would-give-us-50-million-in-additional-aid-for-the-reconstruction-of-afghanistan-during-his-m.json)  [XML](/news/2005/08/30/prime-minister-manmohan-singh-announced-india-would-give-us-50-million-in-additional-aid-for-the-reconstruction-of-afghanistan-during-his-m.xml)  
+
 ### [2005-08-30](/news/2005/08/30/index.md)
 
+##### Prime Minister
 #  Prime Minister Manmohan Singh announced India would give US$50 million in additional aid for the reconstruction of Afghanistan during his meetings with Hamid Karzai. Earlier, it had pledged US$500 million to help rebuild the war-ravaged country.
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN](http://autofeed.msn.co.in/pandorav3/output/News/6e9421c2-a537-4b1a-be74-b5eb3a0756bc.aspx)
 

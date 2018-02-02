@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/4/michael-dell-head-of-dell-computers-announces-that-he-will-step-down-as-ceo-of-the-computer-manufacturer-however-he-will-still-retain-hi.html)  [JSON](/news/2004/03/4/michael-dell-head-of-dell-computers-announces-that-he-will-step-down-as-ceo-of-the-computer-manufacturer-however-he-will-still-retain-hi.json)  [XML](/news/2004/03/4/michael-dell-head-of-dell-computers-announces-that-he-will-step-down-as-ceo-of-the-computer-manufacturer-however-he-will-still-retain-hi.xml)  
+
 ### [2004-03-4](/news/2004/03/4/index.md)
 
+##### Michael Dell
 #  Michael Dell, head of Dell Computers announces that he will step down as CEO of the computer manufacturer. However, he will still retain his position as chairman of the board. Dell president and COO, Kevin Rollins will assume the role of CEO. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2004/03/04/technology/dell_ceo/index.htm)
 

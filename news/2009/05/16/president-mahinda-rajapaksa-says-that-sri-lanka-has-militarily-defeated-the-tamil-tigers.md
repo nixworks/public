@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/16/president-mahinda-rajapaksa-says-that-sri-lanka-has-militarily-defeated-the-tamil-tigers.html)  [JSON](/news/2009/05/16/president-mahinda-rajapaksa-says-that-sri-lanka-has-militarily-defeated-the-tamil-tigers.json)  [XML](/news/2009/05/16/president-mahinda-rajapaksa-says-that-sri-lanka-has-militarily-defeated-the-tamil-tigers.xml)  
+
 ### [2009-05-16](/news/2009/05/16/index.md)
 
+##### President of Sri Lanka
 #  President Mahinda Rajapaksa says that Sri Lanka has "militarily defeated the Tamil Tigers". 
 
 Sri Lanka declared Monday it had crushed the Tamil Tiger rebels, killing their chief, Velupillai Prabhakaran, and ending his three-decade quest for an independent homeland for Tamils. 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/30765851/)
 1. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Photo/_new/090518-srilanka-hmed-230a.standard.jpg)

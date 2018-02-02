@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/18/haiti-s-final-decision-on-its-presidential-election-candidates-is-delayed-until-friday-due-to-eligibility-issues-it-had-initially-been-expe.html)  [JSON](/news/2010/08/18/haiti-s-final-decision-on-its-presidential-election-candidates-is-delayed-until-friday-due-to-eligibility-issues-it-had-initially-been-expe.json)  [XML](/news/2010/08/18/haiti-s-final-decision-on-its-presidential-election-candidates-is-delayed-until-friday-due-to-eligibility-issues-it-had-initially-been-expe.xml)  
+
 ### [2010-08-18](/news/2010/08/18/index.md)
 
+##### Haiti
 # Haiti's final decision on its presidential election candidates is delayed until Friday due to eligibility issues; it had initially been expected yesterday. 
 
 Electoral commission to rule of presidential bid by Wyclef Jean and others on Friday.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/2010818183714693940.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11013105)
@@ -14,16 +18,16 @@ Electoral commission to rule of presidential bid by Wyclef Jean and others on Fr
 5. [The Guardian](http://www.guardian.co.uk/world/2010/aug/18/wyclef-jean-death-threats-haiti)
 5. [Cover Image](http://www.aljazeera.com)
 
-### Related:
-
-1. [Voters in Haiti go to the polls for a general election, amid confusion and disorganization resulting from the cholera epidemic and the aftermath of the January earthquake ](/news/2010/11/28/voters-in-haiti-go-to-the-polls-for-a-general-election-amid-confusion-and-disorganization-resulting-from-the-cholera-epidemic-and-the-after.md) _Context: Haiti, Haiti's presidential election_
-2. [Musician Wyclef Jean is formally declared unsuitable as a presidential candidate in Haiti's election. ](/news/2010/08/21/musician-wyclef-jean-is-formally-declared-unsuitable-as-a-presidential-candidate-in-haiti-s-election.md) _Context: Haiti, Haiti's presidential election_
-3. [Haiti will reinstate its armed forces after 20 years of having none. ](/news/2017/07/11/haiti-will-reinstate-its-armed-forces-after-20-years-of-having-none.md) _Context: Haiti_
-4. [A bus driver in the Haitian city of Gonaives ploughs into crowds of people celebrating Rara while speeding away from an earlier accident which left one person dead, killing at least 38 people, including a group of street musicians, and injures 17 others. ](/news/2017/03/12/a-bus-driver-in-the-haitian-city-of-gonaa-ves-ploughs-into-crowds-of-people-celebrating-rara-while-speeding-away-from-an-earlier-accident-wh.md) _Context: Haiti_
-5. [Jovenel Moise provisionally wins the Haitian election. With Moise earning over 50% of the vote, a runoff election will not be required unless the losing candidates contest the result. ](/news/2016/11/29/jovenel-moa-se-provisionally-wins-the-haitian-election-with-moa-se-earning-over-50-of-the-vote-a-runoff-election-will-not-be-required-unl.md) _Context: Haiti_
-
 ### Changes:
 
 1. [Elections in Haiti:Haiti's final decision on its presidential election candidates is delayed until Friday due to eligibility issues; it had initially been expected yesterday. ](/news/2010/08/18/elections-in-haiti-phaiti-s-final-decision-on-its-presidential-election-candidates-is-delayed-until-friday-due-to-eligibility-issues-it-had.md) _2017-08-25 03:29:31 (First version)_
 2. [Elections in Haiti:: Haiti's final decision on its presidential election candidates is delayed until Friday due to eligibility issues; it had initially been expected yesterday. ](/news/2010/08/18/elections-in-haiti-haiti-s-final-decision-on-its-presidential-election-candidates-is-delayed-until-friday-due-to-eligibility-issues-it-ha.md) _2017-08-27 03:29:36 (Update)_
 2. [Haiti's final decision on its presidential election candidates is delayed until Friday due to eligibility issues; it had initially been expected yesterday. ](/news/2010/08/18/haiti-s-final-decision-on-its-presidential-election-candidates-is-delayed-until-friday-due-to-eligibility-issues-it-had-initially-been-expe.md) _(Current version)_
+
+### Related:
+
+1. [Voters in Haiti go to the polls for a general election, amid confusion and disorganization resulting from the cholera epidemic and the aftermath of the January earthquake ](/news/2010/11/28/voters-in-haiti-go-to-the-polls-for-a-general-election-amid-confusion-and-disorganization-resulting-from-the-cholera-epidemic-and-the-after.md) _Context: Haiti, Haiti's presidential election_
+2. [Musician Wyclef Jean is formally declared unsuitable as a presidential candidate in Haiti's election. ](/news/2010/08/21/musician-wyclef-jean-is-formally-declared-unsuitable-as-a-presidential-candidate-in-haiti-s-election.md) _Context: Haiti, Haiti's presidential election_
+3. [The United States closes its embassy in Port-au-Prince, Haiti, due to large-scale protests against the policy of U.S. President Donald Trump. ](/news/2018/01/23/the-united-states-closes-its-embassy-in-port-au-prince-haiti-due-to-large-scale-protests-against-the-policy-of-u-s-president-donald-trump.md) _Context: Haiti_
+4. [The U.S. Department of Homeland Security discontinues the eligibility of citizens of Belize, Haiti, and Samoa to obtain H-2A and H-2B visas for temporary work. ](/news/2018/01/17/the-u-s-department-of-homeland-security-discontinues-the-eligibility-of-citizens-of-belize-haiti-and-samoa-to-obtain-h-2a-and-h-2b-visas.md) _Context: Haiti_
+5. [The United States will end the temporary protected status program (TPS) for more than 300,000 refugees from El Salvador, Haiti, Honduras, and Nicaragua. Many of the refugees have already left for Canada, where it is easier to get asylum. ](/news/2017/11/4/the-united-states-will-end-the-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-el-salvador-haiti-honduras-an.md) _Context: Haiti_

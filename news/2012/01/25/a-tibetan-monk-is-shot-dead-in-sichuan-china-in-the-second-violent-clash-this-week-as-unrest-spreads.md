@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/25/a-tibetan-monk-is-shot-dead-in-sichuan-china-in-the-second-violent-clash-this-week-as-unrest-spreads.html)  [JSON](/news/2012/01/25/a-tibetan-monk-is-shot-dead-in-sichuan-china-in-the-second-violent-clash-this-week-as-unrest-spreads.json)  [XML](/news/2012/01/25/a-tibetan-monk-is-shot-dead-in-sichuan-china-in-the-second-violent-clash-this-week-as-unrest-spreads.xml)  
+
 ### [2012-01-25](/news/2012/01/25/index.md)
 
+##### Tibet
 # A Tibetan monk is shot dead in Sichuan, China, in the second violent clash this week as unrest spreads. 
 
 China confirms that a Tibetan was shot dead by security forces in Sichuan province, in the second day of unrest this week.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-16713380)
 2. [Times of Oman](http://www.timesofoman.com/innercat.asp?detail=54021&rand=)

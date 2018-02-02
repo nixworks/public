@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/3/french-police-arrest-300-protesters-as-a-nato-summit-begins-in-strasbourg.html)  [JSON](/news/2009/04/3/french-police-arrest-300-protesters-as-a-nato-summit-begins-in-strasbourg.json)  [XML](/news/2009/04/3/french-police-arrest-300-protesters-as-a-nato-summit-begins-in-strasbourg.xml)  
+
 ### [2009-04-3](/news/2009/04/3/index.md)
 
+##### France
 #  French police arrest 300 protesters as a NATO summit begins in Strasbourg. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/Politics/Nato-Summit-Violence-Ahead-Of-Meeting-In-Strasbourg-And-Baden-Baden-Where-Afghanistan-On-Agenda/Article/200904115254923?lpos=Politics_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15254923_Nato_Summit%3A_Violence_Ahead_Of_Meeting_In_Strasbourg_And_Baden-Baden_Where_Afghanistan_On_Agenda)
 

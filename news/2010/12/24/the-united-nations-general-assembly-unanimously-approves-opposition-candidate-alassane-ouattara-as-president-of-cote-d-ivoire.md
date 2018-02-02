@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/24/the-united-nations-general-assembly-unanimously-approves-opposition-candidate-alassane-ouattara-as-president-of-cote-d-ivoire.html)  [JSON](/news/2010/12/24/the-united-nations-general-assembly-unanimously-approves-opposition-candidate-alassane-ouattara-as-president-of-cote-d-ivoire.json)  [XML](/news/2010/12/24/the-united-nations-general-assembly-unanimously-approves-opposition-candidate-alassane-ouattara-as-president-of-cote-d-ivoire.xml)  
+
 ### [2010-12-24](/news/2010/12/24/index.md)
 
+##### United Nations General Assembly
 # The United Nations General Assembly unanimously approves opposition candidate Alassane Ouattara as President of Cte d'Ivoire. 
 
 State television in Ivory Coast goes off air outside the main city, Abidjan, amid heightened tensions over the disputed presidency.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12074006)
 2. [The Hindu](http://www.thehindu.com/news/international/article974135.ece)

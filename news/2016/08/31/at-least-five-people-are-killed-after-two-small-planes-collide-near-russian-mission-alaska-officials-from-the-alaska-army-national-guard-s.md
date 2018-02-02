@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/31/at-least-five-people-are-killed-after-two-small
 
 ### [2016-08-31](/news/2016/08/31/index.md)
 
+##### Russian Mission, Alaska
 # At least five people are killed after two small planes collide near Russian Mission, Alaska. Officials from the Alaska Army National Guard say the planes involved were a Cessna 208 Caravan and a Piper PA-18 Super Cub. 
 
 Alaska State Troopers say all those on board two small planes died in a midair collision in the western part of the state.

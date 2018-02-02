@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/10/31/roman-catholic-church-and-lutheran-church-leaders-sign-the-joint-declaration-on-the-doctrine-of-justification-ending-a-centuries-old-doctr.html)  [JSON](/news/1999/10/31/roman-catholic-church-and-lutheran-church-leaders-sign-the-joint-declaration-on-the-doctrine-of-justification-ending-a-centuries-old-doctr.json)  [XML](/news/1999/10/31/roman-catholic-church-and-lutheran-church-leaders-sign-the-joint-declaration-on-the-doctrine-of-justification-ending-a-centuries-old-doctr.xml)  
+
 ### [1999-10-31](/news/1999/10/31/index.md)
 
+##### Roman Catholic Church
 #  Roman Catholic Church and Lutheran Church leaders sign the Joint Declaration on the Doctrine of Justification, ending a centuries-old doctrinal dispute over the nature of faith and salvation.
 
 

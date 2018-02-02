@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/12/2/pope-francis-meets-with-the-prime-minister-of-israel-benjamin-netanyahu-at-the-vatican-to-discuss-global-affairs-including-the-nuclear-progr.html)  [JSON](/news/2013/12/2/pope-francis-meets-with-the-prime-minister-of-israel-benjamin-netanyahu-at-the-vatican-to-discuss-global-affairs-including-the-nuclear-progr.json)  [XML](/news/2013/12/2/pope-francis-meets-with-the-prime-minister-of-israel-benjamin-netanyahu-at-the-vatican-to-discuss-global-affairs-including-the-nuclear-progr.xml)  
+
 ### [2013-12-2](/news/2013/12/2/index.md)
 
+##### Pope Francis
 # Pope Francis meets with the Prime Minister of Israel Benjamin Netanyahu at the Vatican to discuss global affairs including the nuclear program of Iran. 
 
-VATICAN CITY – Pope Francis met Monday with Prime Minister Benjamin Netanyahu in a closed-door meeting at the Vatican to discuss several matters that are highly political and an illustration of the pontiff&#39;s
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/world/2013/12/02/pope-francis-netanyahu/3802667/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/news/world/2013/12/02/pope-francis-netanyahu/3802667/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

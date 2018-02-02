@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/9/the-chicago-blackhawks-defeat-the-philadelphia-flyers-4-3-in-overtime-to-win-the-2010-stanley-cup-finals-in-six-games-blackhawks-captain-j.html)  [JSON](/news/2010/06/9/the-chicago-blackhawks-defeat-the-philadelphia-flyers-4-3-in-overtime-to-win-the-2010-stanley-cup-finals-in-six-games-blackhawks-captain-j.json)  [XML](/news/2010/06/9/the-chicago-blackhawks-defeat-the-philadelphia-flyers-4-3-in-overtime-to-win-the-2010-stanley-cup-finals-in-six-games-blackhawks-captain-j.xml)  
+
 ### [2010-06-9](/news/2010/06/9/index.md)
 
+##### Chicago Blackhawks
 # The Chicago Blackhawks defeat the Philadelphia Flyers 4-3 in overtime to win the 2010 Stanley Cup Finals in six games. Blackhawks' captain Jonathan Toews is awarded the Conn Smythe Trophy as Most Valuable Player. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TSN](http://tsn.ca/nhl/story/?id=324148)
 

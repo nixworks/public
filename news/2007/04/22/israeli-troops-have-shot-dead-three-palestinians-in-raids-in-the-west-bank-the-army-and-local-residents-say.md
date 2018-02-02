@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/22/israeli-troops-have-shot-dead-three-palestinians-in-raids-in-the-west-bank-the-army-and-local-residents-say.html)  [JSON](/news/2007/04/22/israeli-troops-have-shot-dead-three-palestinians-in-raids-in-the-west-bank-the-army-and-local-residents-say.json)  [XML](/news/2007/04/22/israeli-troops-have-shot-dead-three-palestinians-in-raids-in-the-west-bank-the-army-and-local-residents-say.xml)  
+
 ### [2007-04-22](/news/2007/04/22/index.md)
 
+##### Israel
 #  Israeli troops have shot dead three Palestinians in raids in the West Bank, the army and local residents say.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6581465.stm)
 

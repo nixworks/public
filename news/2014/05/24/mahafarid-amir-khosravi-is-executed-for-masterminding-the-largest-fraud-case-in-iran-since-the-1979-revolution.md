@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/05/24/mahafarid-amir-khosravi-is-executed-for-masterminding-the-largest-fraud-case-in-iran-since-the-1979-revolution.html)  [JSON](/news/2014/05/24/mahafarid-amir-khosravi-is-executed-for-masterminding-the-largest-fraud-case-in-iran-since-the-1979-revolution.json)  [XML](/news/2014/05/24/mahafarid-amir-khosravi-is-executed-for-masterminding-the-largest-fraud-case-in-iran-since-the-1979-revolution.xml)  
+
 ### [2014-05-24](/news/2014/05/24/index.md)
 
+##### Mahafarid Amir Khosravi
 # Mahafarid Amir Khosravi is executed for masterminding the largest fraud case in Iran since the 1979 Revolution. 
 
-TEHRAN, Iran (AP) — A billionaire businessman at the heart of a $2.6 billion state bank scam in Iran, the largest fraud case since the country&#39;s 1979 Islamic Revolution, was executed Saturday, state television
 
 
-### Source:
 
-1. [AP via ''USA Today](http://www.usatoday.com/story/money/business/2014/05/24/iran-billionaire-executed-over-26b-bank-fraud/9535639/)
+### Sources:
+
+1. [AP via ''USA Today](https://www.usatoday.com/story/money/business/2014/05/24/iran-billionaire-executed-over-26b-bank-fraud/9535639/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

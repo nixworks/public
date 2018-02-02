@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/4/heavy-rains-in-the-indian-state-of-uttarakhand-causes-the-loss-of-at-least-six-lives-in-floods-and-landslides.html)  [JSON](/news/2012/08/4/heavy-rains-in-the-indian-state-of-uttarakhand-causes-the-loss-of-at-least-six-lives-in-floods-and-landslides.json)  [XML](/news/2012/08/4/heavy-rains-in-the-indian-state-of-uttarakhand-causes-the-loss-of-at-least-six-lives-in-floods-and-landslides.xml)  
+
 ### [2012-08-4](/news/2012/08/4/index.md)
 
+##### India
 # Heavy rains in the Indian state of Uttarakhand causes the loss of at least six lives in floods and landslides. 
 
 Three jawans of fire services were among six persons killed as torrential rains continued to pound Uttarakhand on Saturday triggering landslides and flash floods which flattened homes and stranded hundreds of pilgrims with the Chardham Yatra coming to a grinding halt.
 
 
-### Source:
+### Sources:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/india/Heavy-rains-create-havoc-in-Uttarakhand-Chardham-Yatra-suspended/articleshow/15349436.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)

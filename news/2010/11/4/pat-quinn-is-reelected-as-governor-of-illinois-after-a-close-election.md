@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/4/pat-quinn-is-reelected-as-governor-of-illinois-after-a-close-election.html)  [JSON](/news/2010/11/4/pat-quinn-is-reelected-as-governor-of-illinois-after-a-close-election.json)  [XML](/news/2010/11/4/pat-quinn-is-reelected-as-governor-of-illinois-after-a-close-election.xml)  
+
 ### [2010-11-4](/news/2010/11/4/index.md)
 
+##### Pat Quinn
 # Pat Quinn is reelected as Governor of Illinois after a close election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [KSDK](http://www.ksdk.com/news/local/story.aspx?storyid=225316)
 

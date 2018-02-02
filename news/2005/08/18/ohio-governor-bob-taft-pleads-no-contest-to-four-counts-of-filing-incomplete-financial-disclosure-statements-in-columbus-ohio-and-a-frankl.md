@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/18/ohio-governor-bob-taft-pleads-no-contest-to-four-counts-of-filing-incomplete-financial-disclosure-statements-in-columbus-ohio-and-a-frankl.html)  [JSON](/news/2005/08/18/ohio-governor-bob-taft-pleads-no-contest-to-four-counts-of-filing-incomplete-financial-disclosure-statements-in-columbus-ohio-and-a-frankl.json)  [XML](/news/2005/08/18/ohio-governor-bob-taft-pleads-no-contest-to-four-counts-of-filing-incomplete-financial-disclosure-statements-in-columbus-ohio-and-a-frankl.xml)  
+
 ### [2005-08-18](/news/2005/08/18/index.md)
 
+##### Ohio
 #  Ohio Governor Bob Taft pleads no contest to four counts of filing incomplete financial disclosure statements in Columbus, Ohio and a Franklin County municipal court judge finds him guilty, fines him $4,000, and orders him to apologize publicly. Taft says he will not resign his office. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Cincinnati Enquirer](http://news.enquirer.com/apps/pbcs.dll/article?AID=/20050819/NEWS01/508190400)
 

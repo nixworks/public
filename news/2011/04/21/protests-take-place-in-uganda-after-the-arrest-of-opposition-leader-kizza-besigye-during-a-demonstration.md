@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2011/04/21/protests-take-place-in-uganda-after-the-arrest-of-opposition-leader-kizza-besigye-during-a-demonstration.html)  [JSON](/news/2011/04/21/protests-take-place-in-uganda-after-the-arrest-of-opposition-leader-kizza-besigye-during-a-demonstration.json)  [XML](/news/2011/04/21/protests-take-place-in-uganda-after-the-arrest-of-opposition-leader-kizza-besigye-during-a-demonstration.xml)  
+
 ### [2011-04-21](/news/2011/04/21/index.md)
 
+##### Uganda
 # Protests take place in Uganda after the arrest of opposition leader Kizza Besigye during a demonstration. 
 
 Opposition leader Kizza Besigye held yet again for marching in a fourth round of protests against high prices.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/04/20114218112393816.html)
 2. [Daily Monitor](http://www.monitor.co.ug/News/National/-/688334/1148900/-/c2na5lz/-/)
-3. [Reuters](http://www.reuters.com/article/2011/04/21/us-uganda-protest-idUSTRE73K1M320110421)
+3. [Reuters](https://www.reuters.com/article/2011/04/21/us-uganda-protest-idUSTRE73K1M320110421)
 3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/19/201141964947390360_20.jpg)
 
 ### Related:

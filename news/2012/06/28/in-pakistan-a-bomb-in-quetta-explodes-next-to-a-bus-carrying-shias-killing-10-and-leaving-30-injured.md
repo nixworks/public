@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/28/in-pakistan-a-bomb-in-quetta-explodes-next-to-a-bus-carrying-shias-killing-10-and-leaving-30-injured.html)  [JSON](/news/2012/06/28/in-pakistan-a-bomb-in-quetta-explodes-next-to-a-bus-carrying-shias-killing-10-and-leaving-30-injured.json)  [XML](/news/2012/06/28/in-pakistan-a-bomb-in-quetta-explodes-next-to-a-bus-carrying-shias-killing-10-and-leaving-30-injured.xml)  
+
 ### [2012-06-28](/news/2012/06/28/index.md)
 
+##### Pakistan
 # In Pakistan, a bomb in Quetta explodes next to a bus carrying Shias, killing 10 and leaving 30 injured.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://ca.reuters.com/article/topNews/idCABRE85R14P20120628)
 

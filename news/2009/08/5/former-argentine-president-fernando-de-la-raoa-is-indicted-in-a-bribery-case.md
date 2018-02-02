@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/5/former-argentine-president-fernando-de-la-raoa-is-indicted-in-a-bribery-case.html)  [JSON](/news/2009/08/5/former-argentine-president-fernando-de-la-raoa-is-indicted-in-a-bribery-case.json)  [XML](/news/2009/08/5/former-argentine-president-fernando-de-la-raoa-is-indicted-in-a-bribery-case.xml)  
+
 ### [2009-08-5](/news/2009/08/5/index.md)
 
+##### Argentina
 #  Former Argentine President Fernando de la Rua is indicted in a bribery case. 
 
 The Argentine Federal Appeals court has confirmed the indictment of ex-president Fernando de la R&uacute;a in a case linking the former Radical president to the payment of bribes at the Senate in 2000 and which ended with a major political crisis.
 
 
-### Source:
+### Sources:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/05/former-argentine-president-de-la-ra-indicted-in-bribes-case)
 1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19723/200x200/263dec87d384e37485c8b99d9d52448c.jpg)

@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2006/12/5/an-outbreak-of-e-coli-bacteria-has-sickened-more-than-a-dozen-people-on-long-island-including-several-who-ate-at-taco-bell-officials-h.html)  [JSON](/news/2006/12/5/an-outbreak-of-e-coli-bacteria-has-sickened-more-than-a-dozen-people-on-long-island-including-several-who-ate-at-taco-bell-officials-h.json)  [XML](/news/2006/12/5/an-outbreak-of-e-coli-bacteria-has-sickened-more-than-a-dozen-people-on-long-island-including-several-who-ate-at-taco-bell-officials-h.xml)  
+
 ### [2006-12-5](/news/2006/12/5/index.md)
 
+##### ''E. coli''
 #  An outbreak of "E. coli" bacteria has sickened more than a dozen people on Long Island, including several who ate at Taco Bell. Officials have asked eight Taco Bell restaurants be closed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS](http://wcbstv.com/topstories/local_story_338093100.html)
+
+### Changes:
+
+1. [ An outbreak of ''E. coli'' bacteria has sickened more than a dozen people on Long Island, including several who ate at Taco Bell. Officials have asked eight Taco Bell restaurants be closed. ](/news/2006/12/5/an-outbreak-of-e-coli-bacteria-has-sickened-more-than-a-dozen-people-on-long-island-including-several-who-ate-at-taco-bell-officials.md) _2017-08-25 03:18:53 (First version)_
+1. [ An outbreak of "E. coli" bacteria has sickened more than a dozen people on Long Island, including several who ate at Taco Bell. Officials have asked eight Taco Bell restaurants be closed. ](/news/2006/12/5/an-outbreak-of-e-coli-bacteria-has-sickened-more-than-a-dozen-people-on-long-island-including-several-who-ate-at-taco-bell-officials-h.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [In the United States, Suffolk County police ask the FBI for more help in their investigation of a possible serial killer who preyed on prostitutes and left their bodies strewn along a Long Island beach in New York. Ten bodies were found along an isolated stretch of the South Shore's Gilgo Beach between December 2010 and April 2011. ](/news/2015/12/10/in-the-united-states-suffolk-county-police-ask-the-fbi-for-more-help-in-their-investigation-of-a-possible-serial-killer-who-preyed-on-prost.md) _Context: Long Island_
 4. [U.S. federal health officials are investigating an outbreak of deadly E. coli bacteria that has sickened 19 people in California, Colorado, Missouri, Montana, Utah, Virginia, and Washington. Preliminary evidence suggests that rotisserie chicken salad made and sold in Costco Wholesale stores is the likely source. This follows a totally unrelated outbreak earlier this month connected to Chipotle Mexican Grill restaurants. Those restaurants have been cleaned, new ingredients ordered, and have been reopened. The Costco E. coli 157 strain, which has caused five people to be hospitalized- two of which developed hemolytic uremic syndrome (HUS; which can readily lead to acute renal failure and sepsis), is more dangerous than the Chipotle E. coli 026 strain, though there have been no deaths yet. ](/news/2015/11/24/u-s-federal-health-officials-are-investigating-an-outbreak-of-deadly-e-coli-bacteria-that-has-sickened-19-people-in-california-colorado.md) _Context: ''E. coli''_
 5. [The World Health Organization states that the strain of E. coli responsible for the 2011 E. coli O104:H4 outbreak had never "been isolated from patients before." ](/news/2011/06/2/the-world-health-organization-states-that-the-strain-of-e-coli-responsible-for-the-2011-e-coli-o104-h4-outbreak-had-never-been-isolated-f.md) _Context: ''E. coli''_
-
-### Changes:
-
-1. [ An outbreak of ''E. coli'' bacteria has sickened more than a dozen people on Long Island, including several who ate at Taco Bell. Officials have asked eight Taco Bell restaurants be closed. ](/news/2006/12/5/an-outbreak-of-e-coli-bacteria-has-sickened-more-than-a-dozen-people-on-long-island-including-several-who-ate-at-taco-bell-officials.md) _2017-08-25 03:18:53 (First version)_
-1. [ An outbreak of "E. coli" bacteria has sickened more than a dozen people on Long Island, including several who ate at Taco Bell. Officials have asked eight Taco Bell restaurants be closed. ](/news/2006/12/5/an-outbreak-of-e-coli-bacteria-has-sickened-more-than-a-dozen-people-on-long-island-including-several-who-ate-at-taco-bell-officials-h.md) _(Current version)_

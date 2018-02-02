@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/18/in-france-labour-unions-are-threatening-to-begin-a-succession-of-strikes-to-protest-against-the-government-of-president-jacques-chirac.html)  [JSON](/news/2005/01/18/in-france-labour-unions-are-threatening-to-begin-a-succession-of-strikes-to-protest-against-the-government-of-president-jacques-chirac.json)  [XML](/news/2005/01/18/in-france-labour-unions-are-threatening-to-begin-a-succession-of-strikes-to-protest-against-the-government-of-president-jacques-chirac.xml)  
+
 ### [2005-01-18](/news/2005/01/18/index.md)
 
+##### France
 #  In France, labour unions are threatening to begin a succession of strikes to protest against the government of president Jacques Chirac. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4182961.stm)
 2. [Expatica](http://www.expatica.com/source/site_article.asp?subchannel_id=58&story_id=15828&name=France+braces+for+week+of+anti-reform+strikes)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/11/palestinian-militants-launch-four-mortar-shells-and-one-qassam-rocket-from-the-gaza-strip-into-israel.html)  [JSON](/news/2009/02/11/palestinian-militants-launch-four-mortar-shells-and-one-qassam-rocket-from-the-gaza-strip-into-israel.json)  [XML](/news/2009/02/11/palestinian-militants-launch-four-mortar-shells-and-one-qassam-rocket-from-the-gaza-strip-into-israel.xml)  
+
 ### [2009-02-11](/news/2009/02/11/index.md)
 
+##### Palestinian
 #  Palestinian militants launch four mortar shells and one Qassam rocket from the Gaza Strip into Israel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://haaretz.com/hasen/spages/1063392.html)
 
@@ -15,4 +19,4 @@
 2. [ Palestinian militants in the Gaza Strip fire four rockets and sixteen mortar shells into Israel's Negev region. ](/news/2009/02/1/palestinian-militants-in-the-gaza-strip-fire-four-rockets-and-sixteen-mortar-shells-into-israel-s-negev-region.md) _Context: Gaza Strip, Israel, Mortar, Palestinian, militant_
 3. [ Palestinian militants fire two rockets from the Gaza Strip into Israel. ](/news/2009/02/8/palestinian-militants-fire-two-rockets-from-the-gaza-strip-into-israel.md) _Context: Gaza Strip, Israel, Palestinian, militant_
 4. [ The Israeli Air Force attacks the Gaza Strip after Palestinian militants fire two rockets into the country. ](/news/2009/02/7/the-israeli-air-force-attacks-the-gaza-strip-after-palestinian-militants-fire-two-rockets-into-the-country.md) _Context: Gaza Strip, Israel, Palestinian, militant_
-5. [ Two Qassam rockets fired out of the Gaza Strip by Palestinian militants landed near the southern Israeli town of Sderot. [http:--www.ynetnews.com-articles-0,7340,L-3133122,00.html (YNETnews)],[http:--www.jpost.com-servlet-Satellite?pagename=JPost-JPArticle-ShowFull&cid=1124938373544 (The Jerusalem Post)] Two mortar rockets were fired from Lebanon towards Israel, one of which struck a chicken coop in the Northern Galilee Moshav of Margaliot, while the other landed in Lebanese territory. Nobody was reported injured. [http:--www.ynetnews.com-articles-0,7340,L-3133122,00.html (YNETnews)],[http:--www.jpost.com-servlet-Satellite?pagename=JPost-JPArticle-ShowFull&cid=1124938373544 (The Jerusalem Post)] Later reports suggest that for the first time, Hizb Allah test-fires an Iranian medium-range rocket near the Lebanese border with Israel. One of the three 240 mm Fajr-3 rockets, launched about six kilometers north of the border, landed in Israel and the other two fell inside Lebanon. ([http:--menewsline.com-stories-2005-august-08_29_1.html MENL])](/news/2005/08/25/two-qassam-rockets-fired-out-of-the-gaza-strip-by-palestinian-militants-landed-near-the-southern-israeli-town-of-sderot-http-www-ynetne.md) _Context: Gaza Strip, Israel, Mortar, Qassam rocket_
+5. [ Israeli-Palestinian Conflict: Two Palestinian children are killed by an explosion in the refugee camp of Khan Yonis in the Gaza Strip. Hospital officials say it was from a tank shell that hit a house. Israeli spokesmen said there had been no army fire in the area. They believe it was either caused when a Palestinian mortar misfired or by the detonation of a roadside bomb. ](/news/2004/11/5/israeli-palestinian-conflict-two-palestinian-children-are-killed-by-an-explosion-in-the-refugee-camp-of-khan-yonis-in-the-gaza-strip-hosp.md) _Context: Gaza Strip, Israel, Mortar, Palestinian_

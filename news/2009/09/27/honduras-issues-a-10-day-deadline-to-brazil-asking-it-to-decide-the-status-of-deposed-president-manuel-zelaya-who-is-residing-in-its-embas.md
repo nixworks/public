@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/09/27/honduras-issues-a-10-day-deadline-to-brazil-asking-it-to-decide-the-status-of-deposed-president-manuel-zelaya-who-is-residing-in-its-embas.html)  [JSON](/news/2009/09/27/honduras-issues-a-10-day-deadline-to-brazil-asking-it-to-decide-the-status-of-deposed-president-manuel-zelaya-who-is-residing-in-its-embas.json)  [XML](/news/2009/09/27/honduras-issues-a-10-day-deadline-to-brazil-asking-it-to-decide-the-status-of-deposed-president-manuel-zelaya-who-is-residing-in-its-embas.xml)  
+
 ### [2009-09-27](/news/2009/09/27/index.md)
 
+##### Honduras
 #  Honduras issues a 10-day deadline to Brazil asking it to decide the status of deposed President Manuel Zelaya, who is residing in its embassy in the capital Tegucigalpa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/americas/09/27/honduras.presidemt/)
-2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE58Q0A320090927)
-2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090927&t=2&i=11739817&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-09-27T155413Z_01_BTRE58Q0G5Y00_RTROPTP_0_HONDURAS)
+2. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE58Q0A320090927)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20090927&t=2&i=11739817&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-09-27T155413Z_01_BTRE58Q0G5Y00_RTROPTP_0_HONDURAS)
 
 ### Related:
 

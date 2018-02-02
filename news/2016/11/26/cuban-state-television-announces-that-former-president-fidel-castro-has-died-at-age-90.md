@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/26/cuban-state-television-announces-that-former-pr
 
 ### [2016-11-26](/news/2016/11/26/index.md)
 
+##### Cuba
 # Cuban state television announces that former President Fidel Castro has died at age 90. 
 
 

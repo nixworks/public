@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/6/sierra-leonean-writer-olufemi-terry-wins-the-caine-prize-for-african-writing.html)  [JSON](/news/2010/07/6/sierra-leonean-writer-olufemi-terry-wins-the-caine-prize-for-african-writing.json)  [XML](/news/2010/07/6/sierra-leonean-writer-olufemi-terry-wins-the-caine-prize-for-african-writing.xml)  
+
 ### [2010-07-6](/news/2010/07/6/index.md)
 
+##### Sierra Leone
 # Sierra Leonean writer Olufemi Terry wins the Caine Prize for African Writing. 
 
 Explore the explosively colourful tattooed portraits of Ricardo Cavolo, the artist behind Kaytranada&#x27;s 99.9% cover art.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10519045.stm)
 2. [CBC](http://www.cbc.ca/arts/books/story/2010/07/06/caine-prize-african-writing.html?ref=rss)

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/12/10/u-s-president-barack-obama-accepts-the-2009-nobel-peace-prize-in-oslo-norway.html)  [JSON](/news/2009/12/10/u-s-president-barack-obama-accepts-the-2009-nobel-peace-prize-in-oslo-norway.json)  [XML](/news/2009/12/10/u-s-president-barack-obama-accepts-the-2009-nobel-peace-prize-in-oslo-norway.xml)  
+
 ### [2009-12-10](/news/2009/12/10/index.md)
 
+##### Barack Obama
 #  U.S. President Barack Obama accepts the 2009 Nobel Peace Prize in Oslo, Norway. 
 
 Formally accepting the Nobel Peace Prize in Oslo on Thursday, President Obama robustly defended the use of military force “on humanitarian grounds” and to preserve peace.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8405033.stm)
 2. [CNN](http://edition.cnn.com/2009/POLITICS/12/10/obama.peace.prize/index.html)
-3. [New York Times](http://www.nytimes.com/2009/12/11/world/europe/11prexy.html)
+3. [New York Times](https://www.nytimes.com/2009/12/11/world/europe/11prexy.html)
 3. [Cover Image](https://static01.nyt.com/images/2009/12/11/world/11prexy-floater_CA0/thumbStandard.jpg)
 
 ### Related:

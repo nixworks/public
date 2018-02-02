@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/4/former-journalist-and-recently-elected-msp-ruth-davidson-is-announced-as-the-new-leader-of-the-scottish-conservative-party.html)  [JSON](/news/2011/11/4/former-journalist-and-recently-elected-msp-ruth-davidson-is-announced-as-the-new-leader-of-the-scottish-conservative-party.json)  [XML](/news/2011/11/4/former-journalist-and-recently-elected-msp-ruth-davidson-is-announced-as-the-new-leader-of-the-scottish-conservative-party.xml)  
+
 ### [2011-11-4](/news/2011/11/4/index.md)
 
+##### Member of the Scottish Parliament
 # Former journalist and recently elected MSP Ruth Davidson is announced as the new leader of the Scottish Conservative Party. 
 
 Newly elected MSP Ruth Davidson has been elected as the new leader of the Scottish Conservatives.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-scotland-politics-15580663)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56486000/jpg/_56486980_hi013280921.jpg)

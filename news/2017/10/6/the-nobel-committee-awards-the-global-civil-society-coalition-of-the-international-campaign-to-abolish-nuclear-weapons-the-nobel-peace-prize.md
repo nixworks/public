@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/6/the-nobel-committee-awards-the-global-civil-soci
 
 ### [2017-10-6](/news/2017/10/6/index.md)
 
+##### Nobel Peace Prize
 # The Nobel Committee awards the global civil society coalition of The International Campaign to Abolish Nuclear Weapons the Nobel Peace Prize "for its work to draw attention to the catastrophic humanitarian consequences of any use of nuclear weapons and for its ground-breaking efforts to achieve a treaty-based prohibition of such weapons". 
 
 The Nobel committee says &quot;the risk of nuclear weapons is greater than it has been for a long time&quot;.

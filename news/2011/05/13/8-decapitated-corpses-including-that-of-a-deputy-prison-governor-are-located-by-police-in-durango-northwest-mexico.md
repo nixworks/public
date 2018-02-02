@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/13/8-decapitated-corpses-including-that-of-a-deputy-prison-governor-are-located-by-police-in-durango-northwest-mexico.html)  [JSON](/news/2011/05/13/8-decapitated-corpses-including-that-of-a-deputy-prison-governor-are-located-by-police-in-durango-northwest-mexico.json)  [XML](/news/2011/05/13/8-decapitated-corpses-including-that-of-a-deputy-prison-governor-are-located-by-police-in-durango-northwest-mexico.xml)  
+
 ### [2011-05-13](/news/2011/05/13/index.md)
 
+##### Durango
 # 8 decapitated corpses, including that of a deputy prison governor, are located by police in Durango, Northwest Mexico. 
 
 The deputy governor of a prison in Durango, in northern Mexico is found decapitated along with seven other headless bodies, three days after being abducted.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-13383662)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52692000/jpg/_52692669_soldiers.jpg)

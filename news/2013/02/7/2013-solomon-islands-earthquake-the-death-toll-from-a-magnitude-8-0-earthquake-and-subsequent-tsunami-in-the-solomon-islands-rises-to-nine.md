@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/7/2013-solomon-islands-earthquake-the-death-toll-from-a-magnitude-8-0-earthquake-and-subsequent-tsunami-in-the-solomon-islands-rises-to-nine.html)  [JSON](/news/2013/02/7/2013-solomon-islands-earthquake-the-death-toll-from-a-magnitude-8-0-earthquake-and-subsequent-tsunami-in-the-solomon-islands-rises-to-nine.json)  [XML](/news/2013/02/7/2013-solomon-islands-earthquake-the-death-toll-from-a-magnitude-8-0-earthquake-and-subsequent-tsunami-in-the-solomon-islands-rises-to-nine.xml)  
+
 ### [2013-02-7](/news/2013/02/7/index.md)
 
+##### 2013 Solomon Islands earthquake
 # 2013 Solomon Islands earthquake: The death toll from a magnitude 8.0 earthquake and subsequent tsunami in the Solomon Islands rises to nine, while government officials express fear regarding remote areas where emergency personnel are arriving. 
 
 A 6.2 aftershock has struck near the Solomon Islands, the US Geological Survey says.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-02-07/emergency-crews-arrive-in-tsunami-hit-solomons/4506228)
 2. [Stuff.co.nz](http://www.stuff.co.nz/world/south-pacific/8271293/Tsunami-surge-hits-Solomon-Islands)

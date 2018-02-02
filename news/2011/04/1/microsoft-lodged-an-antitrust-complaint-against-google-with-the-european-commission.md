@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/1/microsoft-lodged-an-antitrust-complaint-against-google-with-the-european-commission.html)  [JSON](/news/2011/04/1/microsoft-lodged-an-antitrust-complaint-against-google-with-the-european-commission.json)  [XML](/news/2011/04/1/microsoft-lodged-an-antitrust-complaint-against-google-with-the-european-commission.xml)  
+
 ### [2011-04-1](/news/2011/04/1/index.md)
 
+##### Microsoft
 # Microsoft lodged an antitrust complaint against Google with the European Commission. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052748703806304576234074125166728.html?mod=googlenews_wsj)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/12/coronary-specialist-sir-magdi-yacoub-operates-on-welsh-schoolgirl-cardiomyopathy-patient-hannah-clark-whose-original-heart-is-reconnected.html)  [JSON](/news/2006/04/12/coronary-specialist-sir-magdi-yacoub-operates-on-welsh-schoolgirl-cardiomyopathy-patient-hannah-clark-whose-original-heart-is-reconnected.json)  [XML](/news/2006/04/12/coronary-specialist-sir-magdi-yacoub-operates-on-welsh-schoolgirl-cardiomyopathy-patient-hannah-clark-whose-original-heart-is-reconnected.xml)  
+
 ### [2006-04-12](/news/2006/04/12/index.md)
 
+##### Magdi Yacoub
 #  Coronary specialist Sir Magdi Yacoub operates on Welsh schoolgirl cardiomyopathy patient Hannah Clark, whose original heart is reconnected, after a donor heart was rejected by her body. This is a UK-first organ-replacement reversal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/health/4904914.stm)
 

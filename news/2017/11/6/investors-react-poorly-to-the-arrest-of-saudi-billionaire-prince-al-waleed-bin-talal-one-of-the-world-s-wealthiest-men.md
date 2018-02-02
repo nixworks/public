@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/6/investors-react-poorly-to-the-arrest-of-saudi-bi
 
 ### [2017-11-6](/news/2017/11/6/index.md)
 
+##### 2017 Saudi Arabian anti-corruption arrests
 # Investors react poorly to the arrest of Saudi billionaire Prince Al-Waleed bin Talal, one of the world's wealthiest men. 
 
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/11/negotiations-break-down-between-montreal-2006-and-the-federation-of-gay-games-on-having-the-gay-games-in-montreal-in-2006-montreal-2006-in.html)  [JSON](/news/2003/11/11/negotiations-break-down-between-montreal-2006-and-the-federation-of-gay-games-on-having-the-gay-games-in-montreal-in-2006-montreal-2006-in.json)  [XML](/news/2003/11/11/negotiations-break-down-between-montreal-2006-and-the-federation-of-gay-games-on-having-the-gay-games-in-montreal-in-2006-montreal-2006-in.xml)  
+
 ### [2003-11-11](/news/2003/11/11/index.md)
 
+##### Gay Games
 #  Negotiations break down between Montral 2006 and the Federation of Gay Games on having the Gay Games in Montreal in 2006. Montreal 2006 insist that they will still have an event in 2006, while the FGG mull moving the Games to a different city. The two parties were unable to agree on the size of the event.
 
 

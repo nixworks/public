@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/1/president-of-indonesia-susilo-bambang-yudhoyono-receives-a-medal-of-knighthood-of-the-order-of-the-bath-from-queen-elizabeth-ii.html)  [JSON](/news/2012/11/1/president-of-indonesia-susilo-bambang-yudhoyono-receives-a-medal-of-knighthood-of-the-order-of-the-bath-from-queen-elizabeth-ii.json)  [XML](/news/2012/11/1/president-of-indonesia-susilo-bambang-yudhoyono-receives-a-medal-of-knighthood-of-the-order-of-the-bath-from-queen-elizabeth-ii.xml)  
+
 ### [2012-11-1](/news/2012/11/1/index.md)
 
+##### President of Indonesia
 # President of Indonesia Susilo Bambang Yudhoyono receives a medal of Knighthood of the Order of the Bath from Queen Elizabeth II. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Mail](http://www.dailymail.co.uk/femail/article-2225824/Queen-welcomes-President-Indonesia-Buckingham-Palace-state-visit.html)
 2. [The Jakarta Globe](http://www.thejakartaglobe.com/home/sir-susilo-sby-to-be-knighted-during-upcoming-british-visit/552982)

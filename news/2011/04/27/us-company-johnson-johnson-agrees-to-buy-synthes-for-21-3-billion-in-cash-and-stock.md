@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2011/04/27/us-company-johnson-johnson-agrees-to-buy-synthes-for-21-3-billion-in-cash-and-stock.html)  [JSON](/news/2011/04/27/us-company-johnson-johnson-agrees-to-buy-synthes-for-21-3-billion-in-cash-and-stock.json)  [XML](/news/2011/04/27/us-company-johnson-johnson-agrees-to-buy-synthes-for-21-3-billion-in-cash-and-stock.xml)  
+
 ### [2011-04-27](/news/2011/04/27/index.md)
 
+##### Johnson & Johnson
 # US company Johnson & Johnson agrees to buy Synthes for $21.3 billion in cash and stock. 
 
+Johnson &amp; Johnson agreed to buy Synthes Inc. for $21.3 billion in the biggest purchase of the company’s 125-year history, to become the leader in the $5.5 billion market for devices that treat trauma victims.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2011-04-27/j-j-agrees-to-buy-synthes-for-21-3-billion-in-cash-stock.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2011-04-27/j-j-agrees-to-buy-synthes-for-21-3-billion-in-cash-stock.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

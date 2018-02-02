@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/3/mount-sinabung-in-north-sumatra-indonesia-erupts-again.html)  [JSON](/news/2010/09/3/mount-sinabung-in-north-sumatra-indonesia-erupts-again.json)  [XML](/news/2010/09/3/mount-sinabung-in-north-sumatra-indonesia-erupts-again.xml)  
+
 ### [2010-09-3](/news/2010/09/3/index.md)
 
+##### Mount Sinabung
 # Mount Sinabung in North Sumatra, Indonesia, erupts again. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/38982830)
 2. [Bernama](http://www.bernama.com/bernama/v5/newsworld.php?id=525969)

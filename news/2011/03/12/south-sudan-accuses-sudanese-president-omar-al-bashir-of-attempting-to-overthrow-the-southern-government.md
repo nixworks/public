@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/12/south-sudan-accuses-sudanese-president-omar-al-bashir-of-attempting-to-overthrow-the-southern-government.html)  [JSON](/news/2011/03/12/south-sudan-accuses-sudanese-president-omar-al-bashir-of-attempting-to-overthrow-the-southern-government.json)  [XML](/news/2011/03/12/south-sudan-accuses-sudanese-president-omar-al-bashir-of-attempting-to-overthrow-the-southern-government.xml)  
+
 ### [2011-03-12](/news/2011/03/12/index.md)
 
+##### South Sudan
 # South Sudan accuses Sudanese President Omar al-Bashir of attempting to overthrow the southern government. 
 
 South Sudan says it is suspending talks with the north, accusing President Bashir of plotting to overthrow the southern government.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12723872)
 2. [Reuters](http://af.reuters.com/article/sudanNews/idAFHEA25340420110312?sp=true)

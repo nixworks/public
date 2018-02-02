@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/18/more-than-1-000-buddhist-monks-march-peacefully-in-myanmar-as-part-of-a-wave-of-anti-government-protests-the-marches-are-dispersed-using-t.html)  [JSON](/news/2007/09/18/more-than-1-000-buddhist-monks-march-peacefully-in-myanmar-as-part-of-a-wave-of-anti-government-protests-the-marches-are-dispersed-using-t.json)  [XML](/news/2007/09/18/more-than-1-000-buddhist-monks-march-peacefully-in-myanmar-as-part-of-a-wave-of-anti-government-protests-the-marches-are-dispersed-using-t.xml)  
+
 ### [2007-09-18](/news/2007/09/18/index.md)
 
+##### Buddhists
 #  More than 1,000 Buddhist monks march peacefully in Myanmar as part of a wave of anti-government protests. The marches are dispersed using teargas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/09/18/myanmar.monks.ap/index.html?eref=rss_world)
 2. [Xinhua](http://www.chinadaily.com.cn/world/2007-09/19/content_6119136.htm)

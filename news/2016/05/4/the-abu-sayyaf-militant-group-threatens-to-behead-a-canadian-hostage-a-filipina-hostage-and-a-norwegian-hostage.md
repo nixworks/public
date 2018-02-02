@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/4/the-abu-sayyaf-militant-group-threatens-to-behea
 
 ### [2016-05-4](/news/2016/05/4/index.md)
 
+##### Moro conflict
 # The Abu Sayyaf militant group threatens to behead a Canadian hostage, a Filipina hostage, and a Norwegian hostage. 
 
 Video shows captives from Canada, Norway and the Philippines begging governments to listen to demands of Abu Sayyaf fighters after Canadian’s death

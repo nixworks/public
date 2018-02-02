@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/15/the-government-of-the-philippines-and-communist-party-of-the-philippines-hold-their-first-peace-talks-in-six-years-in-oslo-norway.html)  [JSON](/news/2011/02/15/the-government-of-the-philippines-and-communist-party-of-the-philippines-hold-their-first-peace-talks-in-six-years-in-oslo-norway.json)  [XML](/news/2011/02/15/the-government-of-the-philippines-and-communist-party-of-the-philippines-hold-their-first-peace-talks-in-six-years-in-oslo-norway.xml)  
+
 ### [2011-02-15](/news/2011/02/15/index.md)
 
+##### Philippine government
 # The Government of the Philippines and Communist Party of the Philippines hold their first peace talks in six years in Oslo, Norway. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1110838/1/.html)
 

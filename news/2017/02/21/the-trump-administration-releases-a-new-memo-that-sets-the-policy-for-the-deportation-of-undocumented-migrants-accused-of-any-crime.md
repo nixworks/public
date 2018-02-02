@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/21/the-trump-administration-releases-a-new-memo-th
 
 ### [2017-02-21](/news/2017/02/21/index.md)
 
+##### United States immigration ban
 # The Trump administration releases a new memo that sets the policy for the deportation of undocumented migrants accused of any crime. 
 
 Advocates say the immigrant community is bracing for more raids and deportations now that DHS has detailed whom it wants to deport.

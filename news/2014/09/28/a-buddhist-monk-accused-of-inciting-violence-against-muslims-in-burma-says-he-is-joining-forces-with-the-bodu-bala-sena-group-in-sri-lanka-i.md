@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/28/a-buddhist-monk-accused-of-inciting-violence-against-muslims-in-burma-says-he-is-joining-forces-with-the-bodu-bala-sena-group-in-sri-lanka-i.html)  [JSON](/news/2014/09/28/a-buddhist-monk-accused-of-inciting-violence-against-muslims-in-burma-says-he-is-joining-forces-with-the-bodu-bala-sena-group-in-sri-lanka-i.json)  [XML](/news/2014/09/28/a-buddhist-monk-accused-of-inciting-violence-against-muslims-in-burma-says-he-is-joining-forces-with-the-bodu-bala-sena-group-in-sri-lanka-i.xml)  
+
 ### [2014-09-28](/news/2014/09/28/index.md)
 
+##### Buddhists
 # A Buddhist monk accused of inciting violence against Muslims in Burma says he is joining forces with the Bodu Bala Sena group in Sri Lanka in order to combat a "serious threat from jihadist groups". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/southasia/2014/09/buddhist-monk-fight-jihad-threat-asia-2014928153512953861.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/images/2014/9/28//2014928162439831734_20.jpg)

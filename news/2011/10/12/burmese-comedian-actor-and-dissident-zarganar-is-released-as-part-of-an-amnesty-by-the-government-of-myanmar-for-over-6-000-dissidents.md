@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/12/burmese-comedian-actor-and-dissident-zarganar-is-released-as-part-of-an-amnesty-by-the-government-of-myanmar-for-over-6-000-dissidents.html)  [JSON](/news/2011/10/12/burmese-comedian-actor-and-dissident-zarganar-is-released-as-part-of-an-amnesty-by-the-government-of-myanmar-for-over-6-000-dissidents.json)  [XML](/news/2011/10/12/burmese-comedian-actor-and-dissident-zarganar-is-released-as-part-of-an-amnesty-by-the-government-of-myanmar-for-over-6-000-dissidents.xml)  
+
 ### [2011-10-12](/news/2011/10/12/index.md)
 
+##### Burma
 # Burmese comedian, actor and dissident Zarganar is released as part of an amnesty by the government of Myanmar for over 6,000 dissidents. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gdW_olhO1nvn2U63SCri1hmZq7Bw?docId=7f4b0e3f1a854707be1ab046f5cb405b)
 

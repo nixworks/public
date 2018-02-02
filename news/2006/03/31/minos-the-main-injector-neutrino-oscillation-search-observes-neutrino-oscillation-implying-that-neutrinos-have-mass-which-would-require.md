@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/31/minos-the-main-injector-neutrino-oscillation-search-observes-neutrino-oscillation-implying-that-neutrinos-have-mass-which-would-require.html)  [JSON](/news/2006/03/31/minos-the-main-injector-neutrino-oscillation-search-observes-neutrino-oscillation-implying-that-neutrinos-have-mass-which-would-require.json)  [XML](/news/2006/03/31/minos-the-main-injector-neutrino-oscillation-search-observes-neutrino-oscillation-implying-that-neutrinos-have-mass-which-would-require.xml)  
+
 ### [2006-03-31](/news/2006/03/31/index.md)
 
+##### MINOS
 #  MINOS (the Main Injector Neutrino Oscillation Search) observes neutrino oscillation, implying that neutrinos have mass, which would require a substantial revision to the Standard Model of particle physics. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/4862112.stm)
 2. [MINOS](http://www-numi.fnal.gov/talks/results06.html)

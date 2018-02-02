@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/11/five-species-of-shark-and-two-species-of-manta-ray-receive-international-protection-as-part-of-cites.html)  [JSON](/news/2013/03/11/five-species-of-shark-and-two-species-of-manta-ray-receive-international-protection-as-part-of-cites.json)  [XML](/news/2013/03/11/five-species-of-shark-and-two-species-of-manta-ray-receive-international-protection-as-part-of-cites.xml)  
+
 ### [2013-03-11](/news/2013/03/11/index.md)
 
+##### shark
 # Five species of shark and two species of manta ray receive international protection as part of CITES. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Environmental News Service](http://ens-newswire.com/2013/03/11/sharks-win-protection-at-international-trade-conference/)
 

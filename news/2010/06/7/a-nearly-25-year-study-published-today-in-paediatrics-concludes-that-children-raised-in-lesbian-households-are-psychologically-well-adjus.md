@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2010/06/7/a-nearly-25-year-study-published-today-in-paediatrics-concludes-that-children-raised-in-lesbian-households-are-psychologically-well-adjus.html)  [JSON](/news/2010/06/7/a-nearly-25-year-study-published-today-in-paediatrics-concludes-that-children-raised-in-lesbian-households-are-psychologically-well-adjus.json)  [XML](/news/2010/06/7/a-nearly-25-year-study-published-today-in-paediatrics-concludes-that-children-raised-in-lesbian-households-are-psychologically-well-adjus.xml)  
+
 ### [2010-06-7](/news/2010/06/7/index.md)
 
+##### lesbian
 # A nearly 25-year study published today in "Paediatrics" concludes that children raised in lesbian households are "psychologically well-adjusted" and have "fewer behavioral problems than their peers". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/HEALTH/06/07/lesbian.children.adjustment/index.html)
+
+### Changes:
+
+1. [A nearly 25-year study published today in ''Paediatrics'' concludes that children raised in lesbian households are "psychologically well-adjusted" and have "fewer behavioral problems than their peers". ](/news/2010/06/7/a-nearly-25-year-study-published-today-in-paediatrics-concludes-that-children-raised-in-lesbian-households-are-psychologically-well-adj.md) _2017-08-25 03:28:09 (First version)_
+1. [A nearly 25-year study published today in "Paediatrics" concludes that children raised in lesbian households are "psychologically well-adjusted" and have "fewer behavioral problems than their peers". ](/news/2010/06/7/a-nearly-25-year-study-published-today-in-paediatrics-concludes-that-children-raised-in-lesbian-households-are-psychologically-well-adjus.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [The murder of a South African lesbian activist who was stoned and stabbed to death is condemned as part of an "epidemic" of hate crimes against gays in South Africa. ](/news/2011/05/3/the-murder-of-a-south-african-lesbian-activist-who-was-stoned-and-stabbed-to-death-is-condemned-as-part-of-an-epidemic-of-hate-crimes-agai.md) _Context: lesbian_
 4. [The Church of Scotland votes to allow gay men and lesbians to become ministers. ](/news/2011/05/23/the-church-of-scotland-votes-to-allow-gay-men-and-lesbians-to-become-ministers.md) _Context: lesbian_
 5. [The UK gives a lesbian from Uganda an injunction to temporarily prevent her deportation to the country where gay activist David Kato was murdered earlier this week. ](/news/2011/01/29/the-uk-gives-a-lesbian-from-uganda-an-injunction-to-temporarily-prevent-her-deportation-to-the-country-where-gay-activist-david-kato-was-mur.md) _Context: lesbian_
-
-### Changes:
-
-1. [A nearly 25-year study published today in ''Paediatrics'' concludes that children raised in lesbian households are "psychologically well-adjusted" and have "fewer behavioral problems than their peers". ](/news/2010/06/7/a-nearly-25-year-study-published-today-in-paediatrics-concludes-that-children-raised-in-lesbian-households-are-psychologically-well-adj.md) _2017-08-25 03:28:09 (First version)_
-1. [A nearly 25-year study published today in "Paediatrics" concludes that children raised in lesbian households are "psychologically well-adjusted" and have "fewer behavioral problems than their peers". ](/news/2010/06/7/a-nearly-25-year-study-published-today-in-paediatrics-concludes-that-children-raised-in-lesbian-households-are-psychologically-well-adjus.md) _(Current version)_

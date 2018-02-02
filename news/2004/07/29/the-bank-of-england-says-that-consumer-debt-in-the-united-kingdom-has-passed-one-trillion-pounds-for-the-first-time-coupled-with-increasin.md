@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/29/the-bank-of-england-says-that-consumer-debt-in-the-united-kingdom-has-passed-one-trillion-pounds-for-the-first-time-coupled-with-increasin.html)  [JSON](/news/2004/07/29/the-bank-of-england-says-that-consumer-debt-in-the-united-kingdom-has-passed-one-trillion-pounds-for-the-first-time-coupled-with-increasin.json)  [XML](/news/2004/07/29/the-bank-of-england-says-that-consumer-debt-in-the-united-kingdom-has-passed-one-trillion-pounds-for-the-first-time-coupled-with-increasin.xml)  
+
 ### [2004-07-29](/news/2004/07/29/index.md)
 
+##### Bank of England
 #  The Bank of England says that consumer debt in the United Kingdom has passed one trillion pounds for the first time. Coupled with increasing interest rates, this increased amount of debt has caused a sharp rise in the number of people seeking help with money problems &ndash; up 44% on five years ago. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/business/3935671.stm)
 

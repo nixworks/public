@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2012/07/24/the-president-of-ghana-john-atta-mills-dies-and-is-replaced-by-vice-president-john-dramani-mahama.html)  [JSON](/news/2012/07/24/the-president-of-ghana-john-atta-mills-dies-and-is-replaced-by-vice-president-john-dramani-mahama.json)  [XML](/news/2012/07/24/the-president-of-ghana-john-atta-mills-dies-and-is-replaced-by-vice-president-john-dramani-mahama.xml)  
+
 ### [2012-07-24](/news/2012/07/24/index.md)
 
+##### Ghana
 # The President of Ghana, John Atta Mills, dies and is replaced by Vice-President John Dramani Mahama. 
 
 News - Your daily dose of information: European and International latest breaking news, economic news, business news and more. Stay up to date with Euronews.
 
 
-### Source:
+### Sources:
 
 1. [Euronews](http://www.euronews.com/newswires/1595414-ghana-president-mills-dead-presidential-statement/)
-2. [Reuters](http://www.reuters.com/article/2012/07/24/us-ghana-president-idUSBRE86N14720120724)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120724&t=2&i=633916901&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86N1A1200)
+2. [Reuters](https://www.reuters.com/article/2012/07/24/us-ghana-president-idUSBRE86N14720120724)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120724&t=2&i=633916901&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86N1A1200)
 
 ### Related:
 

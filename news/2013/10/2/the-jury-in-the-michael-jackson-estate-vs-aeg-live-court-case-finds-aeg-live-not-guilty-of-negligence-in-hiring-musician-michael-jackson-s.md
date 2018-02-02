@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/2/the-jury-in-the-michael-jackson-estate-vs-aeg-live-court-case-finds-aeg-live-not-guilty-of-negligence-in-hiring-musician-michael-jackson-s.html)  [JSON](/news/2013/10/2/the-jury-in-the-michael-jackson-estate-vs-aeg-live-court-case-finds-aeg-live-not-guilty-of-negligence-in-hiring-musician-michael-jackson-s.json)  [XML](/news/2013/10/2/the-jury-in-the-michael-jackson-estate-vs-aeg-live-court-case-finds-aeg-live-not-guilty-of-negligence-in-hiring-musician-michael-jackson-s.xml)  
+
 ### [2013-10-2](/news/2013/10/2/index.md)
 
+##### Michael Jackson Estate vs. AEG Live
 # The jury in the Michael Jackson Estate vs. AEG Live court case finds AEG Live not guilty of negligence in hiring musician Michael Jackson's physician Conrad Murray. Murray was found guilty of involuntary manslaughter in 2011. 
 
 The singer&#039;s family alleges promoter AEG Live was negligent in hiring Dr Conrad Murray who was convicted of killing him in 2009.
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/story/1149510/michael-jackson-aeg-trial-verdict-reached)
 1. [Cover Image](http://e3.365dm.com/16/07/1600x900/15328339_3635463.jpg?20160706012918)

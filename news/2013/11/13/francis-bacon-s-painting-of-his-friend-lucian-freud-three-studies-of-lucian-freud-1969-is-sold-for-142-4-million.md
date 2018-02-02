@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/13/francis-bacon-s-painting-of-his-friend-lucian-freud-three-studies-of-lucian-freud-1969-is-sold-for-142-4-million.html)  [JSON](/news/2013/11/13/francis-bacon-s-painting-of-his-friend-lucian-freud-three-studies-of-lucian-freud-1969-is-sold-for-142-4-million.json)  [XML](/news/2013/11/13/francis-bacon-s-painting-of-his-friend-lucian-freud-three-studies-of-lucian-freud-1969-is-sold-for-142-4-million.xml)  
+
 ### [2013-11-13](/news/2013/11/13/index.md)
 
+##### Francis Bacon
 # Francis Bacon's painting of his friend Lucian Freud, "Three Studies of Lucian Freud" (1969), is sold for $142.4 million. 
 
 A Francis Bacon painting is sold for $142m (£89m) in New York, becoming the most expensive artwork ever auctioned.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-24922106)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71080000/jpg/_71080589_71080588.jpg)

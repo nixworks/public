@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/21/britain-formally-backs-french-politician-christine-lagarde-to-become-the-next-managing-director-of-the-international-monetary-fund-followin.html)  [JSON](/news/2011/05/21/britain-formally-backs-french-politician-christine-lagarde-to-become-the-next-managing-director-of-the-international-monetary-fund-followin.json)  [XML](/news/2011/05/21/britain-formally-backs-french-politician-christine-lagarde-to-become-the-next-managing-director-of-the-international-monetary-fund-followin.xml)  
+
 ### [2011-05-21](/news/2011/05/21/index.md)
 
+##### Christine Lagarde
 # Britain formally backs French politician Christine Lagarde to become the next managing director of the International Monetary Fund, following the resignation of Dominique Strauss-Kahn over his alleged rape of a hotel chambermaid in New York City. 
 
 UK Chancellor George Osborne is to formally nominate Christine Lagarde for the post of managing director of the International Monetary Fund.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13486709)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52881000/jpg/_52881125_012031647-1.jpg)

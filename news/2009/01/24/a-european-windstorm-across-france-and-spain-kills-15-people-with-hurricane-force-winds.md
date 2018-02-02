@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/24/a-european-windstorm-across-france-and-spain-kills-15-people-with-hurricane-force-winds.html)  [JSON](/news/2009/01/24/a-european-windstorm-across-france-and-spain-kills-15-people-with-hurricane-force-winds.json)  [XML](/news/2009/01/24/a-european-windstorm-across-france-and-spain-kills-15-people-with-hurricane-force-winds.xml)  
+
 ### [2009-01-24](/news/2009/01/24/index.md)
 
+##### Europe
 #  A European windstorm across France and Spain kills 15 people with hurricane-force winds. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/7848719.stm)
 

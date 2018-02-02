@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/10/9/new-york-senator-hillary-clinton-is-inducted-into-the-national-women-s-hall-of-fame.html)  [JSON](/news/2005/10/9/new-york-senator-hillary-clinton-is-inducted-into-the-national-women-s-hall-of-fame.json)  [XML](/news/2005/10/9/new-york-senator-hillary-clinton-is-inducted-into-the-national-women-s-hall-of-fame.xml)  
+
 ### [2005-10-9](/news/2005/10/9/index.md)
 
+##### United States Senate
 #  New York Senator Hillary Clinton is inducted into the National Women's Hall of Fame. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://news.yahoo.com/s/ap/20051009/ap_on_re_us/women_s_hall_of_fame)
+1. [Reuters](https://news.yahoo.com/s/ap/20051009/ap_on_re_us/women_s_hall_of_fame)
 
 ### Related:
 

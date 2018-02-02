@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/28/eleven-colombian-lawmakers-hostages-out-of-twelve-are-killed-by-the-leftist-guerilla-group-farc-abducted-in-2002-the-farc-alleges-that-th.html)  [JSON](/news/2007/06/28/eleven-colombian-lawmakers-hostages-out-of-twelve-are-killed-by-the-leftist-guerilla-group-farc-abducted-in-2002-the-farc-alleges-that-th.json)  [XML](/news/2007/06/28/eleven-colombian-lawmakers-hostages-out-of-twelve-are-killed-by-the-leftist-guerilla-group-farc-abducted-in-2002-the-farc-alleges-that-th.xml)  
+
 ### [2007-06-28](/news/2007/06/28/index.md)
 
+##### Colombia
 #  Eleven Colombian lawmakers hostages out of twelve are killed by the leftist guerilla group FARC. Abducted in 2002, the FARC alleges that the hostages died in a crossfire when an unidentified military group attacked. The FARC blames the Colombian government, but the government says they knew nothing of the location or of any attempt of rescue. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2007/WORLD/americas/06/28/colombia.hostages.reut/index.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/21/april-2006-nepalese-general-strike-king-gyanendra-of-nepal-asks-for-prime-minister-nominations-to-be-made-to-assist-in-ending-unrest-in-th.html)  [JSON](/news/2006/04/21/april-2006-nepalese-general-strike-king-gyanendra-of-nepal-asks-for-prime-minister-nominations-to-be-made-to-assist-in-ending-unrest-in-th.json)  [XML](/news/2006/04/21/april-2006-nepalese-general-strike-king-gyanendra-of-nepal-asks-for-prime-minister-nominations-to-be-made-to-assist-in-ending-unrest-in-th.xml)  
+
 ### [2006-04-21](/news/2006/04/21/index.md)
 
+##### April 2006 Nepalese general strike
 #  April 2006 Nepalese general strike: King Gyanendra of Nepal asks for Prime Minister nominations to be made to assist in ending unrest in the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/4931000.stm)
 

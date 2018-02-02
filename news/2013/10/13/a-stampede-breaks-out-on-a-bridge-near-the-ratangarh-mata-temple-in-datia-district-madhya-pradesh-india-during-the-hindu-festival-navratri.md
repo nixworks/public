@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/13/a-stampede-breaks-out-on-a-bridge-near-the-ratangarh-mata-temple-in-datia-district-madhya-pradesh-india-during-the-hindu-festival-navratri.html)  [JSON](/news/2013/10/13/a-stampede-breaks-out-on-a-bridge-near-the-ratangarh-mata-temple-in-datia-district-madhya-pradesh-india-during-the-hindu-festival-navratri.json)  [XML](/news/2013/10/13/a-stampede-breaks-out-on-a-bridge-near-the-ratangarh-mata-temple-in-datia-district-madhya-pradesh-india-during-the-hindu-festival-navratri.xml)  
+
 ### [2013-10-13](/news/2013/10/13/index.md)
 
+##### A stampede
 # A stampede breaks out on a bridge near the Ratangarh Mata Temple in Datia district, Madhya Pradesh, India during the Hindu festival Navratri, killing 115 people and injuring more than 110. 
 
 The death toll after a stampede at a Hindu festival in the central Indian state of Madhya Pradesh rises to 115, local officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-24516291)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70465000/jpg/_70465234_70465233.jpg)

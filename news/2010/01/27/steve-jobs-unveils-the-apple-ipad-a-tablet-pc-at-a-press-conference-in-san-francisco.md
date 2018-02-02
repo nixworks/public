@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/01/27/steve-jobs-unveils-the-apple-ipad-a-tablet-pc-at-a-press-conference-in-san-francisco.html)  [JSON](/news/2010/01/27/steve-jobs-unveils-the-apple-ipad-a-tablet-pc-at-a-press-conference-in-san-francisco.json)  [XML](/news/2010/01/27/steve-jobs-unveils-the-apple-ipad-a-tablet-pc-at-a-press-conference-in-san-francisco.xml)  
+
 ### [2010-01-27](/news/2010/01/27/index.md)
 
+##### Steve Jobs
 # Steve Jobs unveils the Apple iPad, a tablet PC at a press conference in San Francisco. 
 
 After nearly a decade of rumors and speculation, Apple&#039;s finally unveiled the iPad. It&#039;s a half-inch thick and weighs just 1.5 pounds, with a 9.7-inch capaciti...
 
 
-### Source:
+### Sources:
 
-1. [Engadget](http://www.engadget.com/2010/01/27/the-apple-ipad/)
+1. [Engadget](https://www.engadget.com/2010/01/27/the-apple-ipad/)
 1. [Cover Image](https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&amp;quality=80&amp;image_uri=https%3A%2F%2Fwww.blogcdn.com%2Fwww.engadget.com%2Fmedia%2F2010%2F01%2Fzz7401-27-10ipade132b0.jpg&amp;client=cbc79c14efcebee57402&amp;signature=f84675406c63f33e6715b2fd25533976e7995701)
 
 ### Related:

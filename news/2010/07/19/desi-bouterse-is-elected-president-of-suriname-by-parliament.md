@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/19/desi-bouterse-is-elected-president-of-suriname-by-parliament.html)  [JSON](/news/2010/07/19/desi-bouterse-is-elected-president-of-suriname-by-parliament.json)  [XML](/news/2010/07/19/desi-bouterse-is-elected-president-of-suriname-by-parliament.xml)  
+
 ### [2010-07-19](/news/2010/07/19/index.md)
 
+##### Dsi Bouterse
 # Dsi Bouterse is elected President of Suriname by parliament. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10690930)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/19/fighting-continues-in-cairo-s-tahrir-square-for-a-fourth-successive-day.html)  [JSON](/news/2011/12/19/fighting-continues-in-cairo-s-tahrir-square-for-a-fourth-successive-day.json)  [XML](/news/2011/12/19/fighting-continues-in-cairo-s-tahrir-square-for-a-fourth-successive-day.xml)  
+
 ### [2011-12-19](/news/2011/12/19/index.md)
 
+##### Cairo
 # Fighting continues in Cairo's Tahrir Square for a fourth successive day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://blogs.aljazeera.com/liveblog/egypt-dec-19-2011-0519)
 

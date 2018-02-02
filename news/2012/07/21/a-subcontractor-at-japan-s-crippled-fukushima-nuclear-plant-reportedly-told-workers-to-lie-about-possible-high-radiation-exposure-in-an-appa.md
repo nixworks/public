@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/21/a-subcontractor-at-japan-s-crippled-fukushima-nuclear-plant-reportedly-told-workers-to-lie-about-possible-high-radiation-exposure-in-an-appa.html)  [JSON](/news/2012/07/21/a-subcontractor-at-japan-s-crippled-fukushima-nuclear-plant-reportedly-told-workers-to-lie-about-possible-high-radiation-exposure-in-an-appa.json)  [XML](/news/2012/07/21/a-subcontractor-at-japan-s-crippled-fukushima-nuclear-plant-reportedly-told-workers-to-lie-about-possible-high-radiation-exposure-in-an-appa.xml)  
+
 ### [2012-07-21](/news/2012/07/21/index.md)
 
+##### Japan
 # A subcontractor at Japan's crippled Fukushima nuclear plant reportedly told workers to lie about possible high radiation exposure in an apparent effort to keep its contract. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Asahi Shimbun](http://ajw.asahi.com/article/0311disaster/fukushima/AJ201207210069)
 2. [Oman Daily Observer](http://main.omanobserver.om/node/103852)

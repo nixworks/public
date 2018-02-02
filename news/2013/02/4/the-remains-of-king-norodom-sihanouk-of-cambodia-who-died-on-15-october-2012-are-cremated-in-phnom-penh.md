@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/4/the-remains-of-king-norodom-sihanouk-of-cambodia-who-died-on-15-october-2012-are-cremated-in-phnom-penh.html)  [JSON](/news/2013/02/4/the-remains-of-king-norodom-sihanouk-of-cambodia-who-died-on-15-october-2012-are-cremated-in-phnom-penh.json)  [XML](/news/2013/02/4/the-remains-of-king-norodom-sihanouk-of-cambodia-who-died-on-15-october-2012-are-cremated-in-phnom-penh.xml)  
+
 ### [2013-02-4](/news/2013/02/4/index.md)
 
+##### King Norodom Sihanouk
 # The remains of King Norodom Sihanouk of Cambodia who died on 15 October 2012 are cremated in Phnom Penh. 
 
 Thousands of Cambodians gather in the capital for the cremation of former King Norodom Sihanouk, three months after he died in Beijing.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21318394)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65682000/jpg/_65682033_017122338-1.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/18/eight-hundred-british-army-troops-arrive-in-est
 
 ### [2017-03-18](/news/2017/03/18/index.md)
 
+##### Estonia-United Kingdom relations
 # Eight hundred British Army troops arrive in Estonia as part of NATO's Enhanced Forward Presence to deter Russian aggression in Eastern Europe. 
 
 800 British troops due to be stationed in the Baltic state as part of one of biggest deployments to eastern Europe in decades

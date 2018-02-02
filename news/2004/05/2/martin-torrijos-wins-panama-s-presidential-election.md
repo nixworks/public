@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/2/martin-torrijos-wins-panama-s-presidential-election.html)  [JSON](/news/2004/05/2/martin-torrijos-wins-panama-s-presidential-election.json)  [XML](/news/2004/05/2/martin-torrijos-wins-panama-s-presidential-election.xml)  
+
 ### [2004-05-2](/news/2004/05/2/index.md)
 
+##### Martn Torrijos
 #  Martn Torrijos wins Panama's presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/3677499.stm)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/09/17/justice-antonin-scalia-charges-that-judge-richard-posner-s-characterization-of-the-guns-rights-decision-dc-v-heller-is-bluntly-a-lie.html)  [JSON](/news/2012/09/17/justice-antonin-scalia-charges-that-judge-richard-posner-s-characterization-of-the-guns-rights-decision-dc-v-heller-is-bluntly-a-lie.json)  [XML](/news/2012/09/17/justice-antonin-scalia-charges-that-judge-richard-posner-s-characterization-of-the-guns-rights-decision-dc-v-heller-is-bluntly-a-lie.xml)  
+
 ### [2012-09-17](/news/2012/09/17/index.md)
 
+##### Antonin Scalia
 # Justice Antonin Scalia charges that Judge Richard Posner's characterization of the guns rights decision, DC v. Heller, is "bluntly, a lie." 
 
 Supreme Court Associate Justice Antonin Scalia says he once thought cameras should be in the Supreme Court but now believes they would simply &quot;misinform&quot; the public. He appeared at a live event at Reuters&#039; headquarters in New York....
 
 
-### Source:
+### Sources:
 
-1. [Reuters TV](http://www.reuters.com/video/2012/09/18/reuters-tv-scalia-posners-accusation-about-him-a-li?videoId=237806851&videoChannel=117851&refresh=true)
-1. [Cover Image](http://yospace-cds1.reuters.com/u/resize~ad1~1200/0/f/~image_jpeg~9999-1/1/m/0/9/h/n/h7r9/reuters04?videoId=48285956)
+1. [Reuters TV](https://www.reuters.com/video/2012/09/18/reuters-tv-scalia-posners-accusation-about-him-a-li?videoId=237806851&videoChannel=117851&refresh=true)
+1. [Cover Image](https://yospace-cds1.reuters.com/u/resize~ad1~1200/0/f/~image_jpeg~9999-1/1/m/0/9/h/n/h7r9/reuters04?videoId=48285956)
 
 ### Related:
 

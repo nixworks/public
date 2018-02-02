@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/9/the-united-nations-describes-the-ongoing-2010-pakistan-floods-as-the-worst-natural-disaster-in-years-worse-than-the-2004-indian-ocean-eart.html)  [JSON](/news/2010/08/9/the-united-nations-describes-the-ongoing-2010-pakistan-floods-as-the-worst-natural-disaster-in-years-worse-than-the-2004-indian-ocean-eart.json)  [XML](/news/2010/08/9/the-united-nations-describes-the-ongoing-2010-pakistan-floods-as-the-worst-natural-disaster-in-years-worse-than-the-2004-indian-ocean-eart.xml)  
+
 ### [2010-08-9](/news/2010/08/9/index.md)
 
+##### United Nations
 # The United Nations describes the ongoing 2010 Pakistan floods as the worst natural disaster in years - worse than the 2004 Indian Ocean earthquake and tsunami, the 2005 Kashmir earthquake and the 2010 Haiti earthquake - as the number of people affected reaches an estimated 15 million and the waters and landslides continue to swamp the country. 
 
 UN says flooding triggered by incessant rains is the worst natural disaster in years.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/2010893572554270.html)
 1. [Cover Image](http://www.aljazeera.com)

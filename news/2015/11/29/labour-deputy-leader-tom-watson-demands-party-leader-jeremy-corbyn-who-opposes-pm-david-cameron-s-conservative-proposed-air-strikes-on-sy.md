@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/11/29/labour-deputy-leader-tom-watson-demands-party-leader-jeremy-corbyn-who-opposes-pm-david-cameron-s-conservative-proposed-air-strikes-on-sy.html)  [JSON](/news/2015/11/29/labour-deputy-leader-tom-watson-demands-party-leader-jeremy-corbyn-who-opposes-pm-david-cameron-s-conservative-proposed-air-strikes-on-sy.json)  [XML](/news/2015/11/29/labour-deputy-leader-tom-watson-demands-party-leader-jeremy-corbyn-who-opposes-pm-david-cameron-s-conservative-proposed-air-strikes-on-sy.xml)  
+
 ### [2015-11-29](/news/2015/11/29/index.md)
 
+##### Labour deputy leader
 # Labour deputy leader Tom Watson demands party leader Jeremy Corbyn, who opposes PM David Cameron's (Conservative) proposed air strikes on Syria, to ensure MPs are given a free vote on the proposal this Tuesday. 
 
 Labour’s deputy leader, Tom Watson, has demanded that Jeremy Corbyn abandon plans to force MPs into opposing air strikes on Syria, amid growing alarm that the leader is hardening his stance against military action in preparation for a showdown. In his strongest intervention to date, Mr Watson – who supports extending RAF raids into Syria – has warned Mr Corbyn he needs to back down and ensure MPs are given a free vote to avoid a damaging public split.
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/uk/politics/tom-watson-warns-jeremy-corbyn-you-must-back-down-over-opposing-uk-air-strikes-on-isis-in-syria-a6753146.html)
+1. [The Independent](https://www.independent.co.uk/news/uk/politics/tom-watson-warns-jeremy-corbyn-you-must-back-down-over-opposing-uk-air-strikes-on-isis-in-syria-a6753146.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/11/28/21/Watson.jpg)
 
 ### Related:

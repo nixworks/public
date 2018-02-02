@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/1/greenland-s-government-calls-for-an-early-election-on-november-28-after-an-expenses-scandal-prompts-prime-minister-aleqa-hammond-to-step-dow.html)  [JSON](/news/2014/10/1/greenland-s-government-calls-for-an-early-election-on-november-28-after-an-expenses-scandal-prompts-prime-minister-aleqa-hammond-to-step-dow.json)  [XML](/news/2014/10/1/greenland-s-government-calls-for-an-early-election-on-november-28-after-an-expenses-scandal-prompts-prime-minister-aleqa-hammond-to-step-dow.xml)  
+
 ### [2014-10-1](/news/2014/10/1/index.md)
 
+##### Greenland
 # Greenland's government calls for an early election on November 28 after an expenses scandal prompts Prime Minister Aleqa Hammond to step down as leader of the governing Siumut party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.afp.com/en/news/greenland-government-calls-election-amid-pm-expenses-scandal)
 

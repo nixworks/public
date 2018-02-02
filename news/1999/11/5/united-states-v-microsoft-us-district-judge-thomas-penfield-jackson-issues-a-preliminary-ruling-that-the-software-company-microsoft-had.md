@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/11/5/united-states-v-microsoft-us-district-judge-thomas-penfield-jackson-issues-a-preliminary-ruling-that-the-software-company-microsoft-had.html)  [JSON](/news/1999/11/5/united-states-v-microsoft-us-district-judge-thomas-penfield-jackson-issues-a-preliminary-ruling-that-the-software-company-microsoft-had.json)  [XML](/news/1999/11/5/united-states-v-microsoft-us-district-judge-thomas-penfield-jackson-issues-a-preliminary-ruling-that-the-software-company-microsoft-had.xml)  
+
 ### [1999-11-5](/news/1999/11/5/index.md)
 
+##### United States v. Microsoft
 #  United States v. Microsoft: US District Judge Thomas Penfield Jackson issues a preliminary ruling that the software company Microsoft had "monopoly power" (on April 3, 2000, Jackson found that Microsoft violated the Sherman Anti-Trust Act).
 
 

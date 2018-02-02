@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/17/african-leaders-meet-in-chad-to-discuss-the-great-green-wall-tree-belt-from-senegal-to-djibouti-in-the-battle-against-the-sahara.html)  [JSON](/news/2010/06/17/african-leaders-meet-in-chad-to-discuss-the-great-green-wall-tree-belt-from-senegal-to-djibouti-in-the-battle-against-the-sahara.json)  [XML](/news/2010/06/17/african-leaders-meet-in-chad-to-discuss-the-great-green-wall-tree-belt-from-senegal-to-djibouti-in-the-battle-against-the-sahara.xml)  
+
 ### [2010-06-17](/news/2010/06/17/index.md)
 
+##### Africa
 # African leaders meet in Chad to discuss the Great Green Wall tree belt from Senegal to Djibouti in the battle against the Sahara. 
 
 African leaders meet to push forward the idea of planting a tree belt - the Great Green Wall - across Africa from west to east.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10344622.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/01/1/at-least-two-people-are-killed-in-attacks-on-bars-in-northern-kenya-near-the-border-with-somalia-with-islamist-al-shabaab-militants-possibl.html)  [JSON](/news/2012/01/1/at-least-two-people-are-killed-in-attacks-on-bars-in-northern-kenya-near-the-border-with-somalia-with-islamist-al-shabaab-militants-possibl.json)  [XML](/news/2012/01/1/at-least-two-people-are-killed-in-attacks-on-bars-in-northern-kenya-near-the-border-with-somalia-with-islamist-al-shabaab-militants-possibl.xml)  
+
 ### [2012-01-1](/news/2012/01/1/index.md)
 
+##### Kenya
 # At least two people are killed in attacks on bars in northern Kenya near the border with Somalia, with Islamist al-Shabaab militants possibly responsible. 
 
 Gunmen sprayed bullets at New Year revelers in two bars in northeastern Kenya on Sunday, killing at least two people, a witness and police said, the latest in a wave of attacks near the border with Somalia.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/12/31/us-kenya-violence-idUSTRE7BU0JW20111231?feedType=RSS&feedName=worldNews)
+1. [Reuters](https://www.reuters.com/article/2011/12/31/us-kenya-violence-idUSTRE7BU0JW20111231?feedType=RSS&feedName=worldNews)
 1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:

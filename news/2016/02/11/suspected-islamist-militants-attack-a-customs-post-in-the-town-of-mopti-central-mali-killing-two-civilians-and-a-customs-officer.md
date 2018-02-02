@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/11/suspected-islamist-militants-attack-a-customs-p
 
 ### [2016-02-11](/news/2016/02/11/index.md)
 
+##### Northern Mali conflict
 # Suspected Islamist militants attack a customs post in the town of Mopti, central Mali, killing two civilians and a customs officer. 
 
 Suspected Islamist militants killed two civilians and a customs officer and burned a car in an attack on a customs post in Mopti, central Mali, on Thursday, a defence ministry spokesman said.

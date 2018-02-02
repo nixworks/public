@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/05/27/khilafat-centenary-celebrated-around-the-world-by-the-ahmadiyya-muslim-community.html)  [JSON](/news/2008/05/27/khilafat-centenary-celebrated-around-the-world-by-the-ahmadiyya-muslim-community.json)  [XML](/news/2008/05/27/khilafat-centenary-celebrated-around-the-world-by-the-ahmadiyya-muslim-community.xml)  
+
 ### [2008-05-27](/news/2008/05/27/index.md)
 
+##### Khilafat
 #  Khilafat Centenary celebrated around the world by the Ahmadiyya Muslim Community. 
 
 Islam Ahmadiyya Khilafat Centenary celebration&#39;s clip on CNN. Islam Ahmadiyya is spreading truly Peaceful Islam around the globe. Islam Ahmadiyya slogan is &quot;...
 
 
-### Source:
+### Sources:
 
-1. [CNN](http://www.youtube.com/watch?v=ja4w_C3Eo0s)
+1. [CNN](https://www.youtube.com/watch?v=ja4w_C3Eo0s)
 1. [Cover Image](https://i.ytimg.com/vi/ja4w_C3Eo0s/hqdefault.jpg)
 
 ### Related:

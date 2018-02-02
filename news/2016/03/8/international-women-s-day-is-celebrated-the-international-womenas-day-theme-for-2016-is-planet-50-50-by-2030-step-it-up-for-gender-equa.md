@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/8/international-women-s-day-is-celebrated-the-inte
 
 ### [2016-03-8](/news/2016/03/8/index.md)
 
+##### International Women's Day
 # International Women's Day is celebrated. The International Women's Day theme for 2016 is "Planet 50-50 by 2030: Step It Up for Gender Equality". 
 
 Celebrating women from the Philippines to Afghanistan to Poland and beyond.

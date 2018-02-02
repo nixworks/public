@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/13/north-and-south-sudan-agree-to-demilitarise-the-disputed-abyei-region.html)  [JSON](/news/2011/06/13/north-and-south-sudan-agree-to-demilitarise-the-disputed-abyei-region.json)  [XML](/news/2011/06/13/north-and-south-sudan-agree-to-demilitarise-the-disputed-abyei-region.xml)  
+
 ### [2011-06-13](/news/2011/06/13/index.md)
 
+##### Sudan
 # North and South Sudan agree to demilitarise the disputed Abyei region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5ilQQ4d1hhFDgo_upj-hvCBMuBN2g?docId=3d2076829c5c44e5bb9b3cb54c7ffabd)
 

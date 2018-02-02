@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/2/merpati-nusantara-airlines-flight-9760-a-twin-otter-plane-with-16-on-board-disappears-over-papua-indonesia.html)  [JSON](/news/2009/08/2/merpati-nusantara-airlines-flight-9760-a-twin-otter-plane-with-16-on-board-disappears-over-papua-indonesia.json)  [XML](/news/2009/08/2/merpati-nusantara-airlines-flight-9760-a-twin-otter-plane-with-16-on-board-disappears-over-papua-indonesia.xml)  
+
 ### [2009-08-2](/news/2009/08/2/index.md)
 
+##### Merpati Nusantara Airlines Flight 9760
 #  Merpati Nusantara Airlines Flight 9760, a Twin Otter plane with 16 on board, disappears over Papua, Indonesia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ivTj9M_FysEvB3r1UXJ93tNm_ccA)
 2. [Bernama](http://www.bernama.com/bernama/v5/newsgeneral.php?id=429699)

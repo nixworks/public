@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/17/holy-trinity-university-puerto-princesa-philippines-has-been-named-as-a-new-center-to-research-ancient-palawan-man-tabon-caves-and-large.html)  [JSON](/news/2015/07/17/holy-trinity-university-puerto-princesa-philippines-has-been-named-as-a-new-center-to-research-ancient-palawan-man-tabon-caves-and-large.json)  [XML](/news/2015/07/17/holy-trinity-university-puerto-princesa-philippines-has-been-named-as-a-new-center-to-research-ancient-palawan-man-tabon-caves-and-large.xml)  
+
 ### [2015-07-17](/news/2015/07/17/index.md)
 
+##### Holy Trinity University
 # Holy Trinity University, Puerto Princesa, Philippines has been named as a new center to research ancient Palawan man, Tabon Caves, and large sculptures found along Palawan's coast. 
 
 The Holy Trinity University in Puerto Princesa, Palawan, has been selected for a new college and research center to study...
 
 
-### Source:
+### Sources:
 
 1. [Palawan-News](http://palawan-news.com/htu-named-as-research-center-for-ancient-palawan/)
 1. [Cover Image](http://palawan-news.com/wp-content/uploads/2015/07/Tabon.jpg)
@@ -16,4 +20,4 @@ The Holy Trinity University in Puerto Princesa, Palawan, has been selected for a
 2. [Over 1,000 people in the Philippines are stranded temporarily by Severe Tropical Storm Linfa (Egay) as landslides occur in Palawan province. ](/news/2015/07/5/over-1-000-people-in-the-philippines-are-stranded-temporarily-by-severe-tropical-storm-linfa-egay-as-landslides-occur-in-palawan-province.md) _Context: Palawan, Philippines_
 3. [ Spratly Islands: The Governor of the Philippine state of Palawan has sent Philippine soldiers to take possession of the uninhabited oil-rich Spratly Islands, which are claimed by the Philippines, Brunei, the People's Republic of China, Malaysia, the Republic of China (Taiwan), and Vietnam.](/news/2002/09/23/spratly-islands-the-governor-of-the-philippine-state-of-palawan-has-sent-philippine-soldiers-to-take-possession-of-the-uninhabited-oil-ric.md) _Context: Palawan, Philippines_
 4. [A Philippine Air Force GAF Nomad experiences possible engine trouble after takeoff from Cagayancillo Airport on Cagayancillo off Palawan in the Philippines. Its pilot attempts to return to the airport, but the plane overshoots the runway and crashes into the Sulu Sea, killing 11 of the 12 people on board. Philippine governor Salvatore Socrates and Philippine Air Force Major General Santiago Madrid are among the dead.](/news/2000/07/2/a-philippine-air-force-gaf-nomad-experiences-possible-engine-trouble-after-takeoff-from-cagayancillo-airport-on-cagayancillo-off-palawan-in.md) _Context: Palawan, Philippines_
-5. [The Philippines suspends trade relations with North Korea to comply with a recent United Nations Security Council resolution over its repeated missile tests. ](/news/2017/09/8/the-philippines-suspends-trade-relations-with-north-korea-to-comply-with-a-recent-united-nations-security-council-resolution-over-its-repeat.md) _Context: Philippines_
+5. [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md) _Context: Philippines_

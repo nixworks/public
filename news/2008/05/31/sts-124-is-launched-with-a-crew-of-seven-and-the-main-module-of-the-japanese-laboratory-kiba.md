@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/31/sts-124-is-launched-with-a-crew-of-seven-and-the-main-module-of-the-japanese-laboratory-kiba.html)  [JSON](/news/2008/05/31/sts-124-is-launched-with-a-crew-of-seven-and-the-main-module-of-the-japanese-laboratory-kiba.json)  [XML](/news/2008/05/31/sts-124-is-launched-with-a-crew-of-seven-and-the-main-module-of-the-japanese-laboratory-kiba.xml)  
+
 ### [2008-05-31](/news/2008/05/31/index.md)
 
+##### STS-124
 #  STS-124 is launched with a crew of seven and the main module of the Japanese laboratory Kibo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://us.cnn.com/2008/TECH/space/05/31/space.fuel.ap/index.html)
 

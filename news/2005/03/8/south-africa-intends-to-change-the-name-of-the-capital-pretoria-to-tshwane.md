@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/8/south-africa-intends-to-change-the-name-of-the-capital-pretoria-to-tshwane.html)  [JSON](/news/2005/03/8/south-africa-intends-to-change-the-name-of-the-capital-pretoria-to-tshwane.json)  [XML](/news/2005/03/8/south-africa-intends-to-change-the-name-of-the-capital-pretoria-to-tshwane.xml)  
+
 ### [2005-03-8](/news/2005/03/8/index.md)
 
+##### South Africa
 #  South Africa intends to change the name of the capital Pretoria to Tshwane 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4328445.stm)
 2. [IOL](http://www.iol.co.za/index.php?set_id=14&click_id=6&art_id=vn20050308071333955C396655)

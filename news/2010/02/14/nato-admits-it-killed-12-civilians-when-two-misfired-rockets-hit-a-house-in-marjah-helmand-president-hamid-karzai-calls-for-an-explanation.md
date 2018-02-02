@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/14/nato-admits-it-killed-12-civilians-when-two-misfired-rockets-hit-a-house-in-marjah-helmand-president-hamid-karzai-calls-for-an-explanation.html)  [JSON](/news/2010/02/14/nato-admits-it-killed-12-civilians-when-two-misfired-rockets-hit-a-house-in-marjah-helmand-president-hamid-karzai-calls-for-an-explanation.json)  [XML](/news/2010/02/14/nato-admits-it-killed-12-civilians-when-two-misfired-rockets-hit-a-house-in-marjah-helmand-president-hamid-karzai-calls-for-an-explanation.xml)  
+
 ### [2010-02-14](/news/2010/02/14/index.md)
 
+##### NATO
 # NATO admits it killed 12 civilians when two misfired rockets hit a house in Marjah, Helmand. President Hamid Karzai calls for an explanation. 
 
 TWELVE Afghan civilians have been killed during a major US-led offensive against Taliban in southern Afghanistan, as commanders said booby traps and snipers are slowing progress.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8515141.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE61B4CS20100214?feedType=RSS&feedName=worldNews)

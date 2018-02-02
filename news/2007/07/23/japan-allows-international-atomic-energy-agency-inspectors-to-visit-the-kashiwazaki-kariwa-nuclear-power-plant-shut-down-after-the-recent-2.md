@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/23/japan-allows-international-atomic-energy-agency-inspectors-to-visit-the-kashiwazaki-kariwa-nuclear-power-plant-shut-down-after-the-recent-2.html)  [JSON](/news/2007/07/23/japan-allows-international-atomic-energy-agency-inspectors-to-visit-the-kashiwazaki-kariwa-nuclear-power-plant-shut-down-after-the-recent-2.json)  [XML](/news/2007/07/23/japan-allows-international-atomic-energy-agency-inspectors-to-visit-the-kashiwazaki-kariwa-nuclear-power-plant-shut-down-after-the-recent-2.xml)  
+
 ### [2007-07-23](/news/2007/07/23/index.md)
 
+##### Japan
 #  Japan allows International Atomic Energy Agency inspectors to visit the Kashiwazaki-Kariwa Nuclear Power Plant shut down after the recent 2007 Chuetsu offshore earthquake. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/story/0,10117,22118940-401,00.html)
 

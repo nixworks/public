@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/27/former-speaker-of-the-united-states-house-of-re
 
 ### [2016-04-27](/news/2016/04/27/index.md)
 
+##### U.S. Speaker of the House of Representatives
 # Former Speaker of the United States House of Representatives Dennis Hastert is sentenced to 15 months in prison for breaking banking laws in order to make payments to cover sexual misconduct from past decades. 
 
 A federal judge sentenced former U.S. House Speaker Dennis Hastert to 15 months in prison for evading banking rules in what prosecutors said was a bid to hide sexual misconduct allegations from decades ago.

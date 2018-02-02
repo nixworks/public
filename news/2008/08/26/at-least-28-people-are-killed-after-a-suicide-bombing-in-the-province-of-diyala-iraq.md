@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/26/at-least-28-people-are-killed-after-a-suicide-bombing-in-the-province-of-diyala-iraq.html)  [JSON](/news/2008/08/26/at-least-28-people-are-killed-after-a-suicide-bombing-in-the-province-of-diyala-iraq.json)  [XML](/news/2008/08/26/at-least-28-people-are-killed-after-a-suicide-bombing-in-the-province-of-diyala-iraq.xml)  
+
 ### [2008-08-26](/news/2008/08/26/index.md)
 
+##### Diyala Governorate
 #  At least 28 people are killed after a suicide bombing in the province of Diyala, Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''The Ottawa Citizen](http://www.canada.com/ottawacitizen/news/story.html?id=bbd10bba-9586-48ad-b071-03d59a986aa8)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/06/19/fiji-s-interim-government-agrees-in-principle-to-elections-in-2009-following-a-pacific-islands-forum-assessment-and-calls-for-assistance.html)  [JSON](/news/2007/06/19/fiji-s-interim-government-agrees-in-principle-to-elections-in-2009-following-a-pacific-islands-forum-assessment-and-calls-for-assistance.json)  [XML](/news/2007/06/19/fiji-s-interim-government-agrees-in-principle-to-elections-in-2009-following-a-pacific-islands-forum-assessment-and-calls-for-assistance.xml)  
+
 ### [2007-06-19](/news/2007/06/19/index.md)
 
+##### Fiji
 #  Fiji's interim government agrees in principle to elections in 2009, following a Pacific Islands Forum assessment, and calls for assistance from the European Union and Pacific nations like Australia for funding. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601081&sid=apppFZOgUTSg&refer=australia)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601081&sid=apppFZOgUTSg&refer=australia)
 
 ### Related:
 

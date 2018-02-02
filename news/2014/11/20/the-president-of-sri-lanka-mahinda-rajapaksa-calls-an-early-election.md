@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/11/20/the-president-of-sri-lanka-mahinda-rajapaksa-calls-an-early-election.html)  [JSON](/news/2014/11/20/the-president-of-sri-lanka-mahinda-rajapaksa-calls-an-early-election.json)  [XML](/news/2014/11/20/the-president-of-sri-lanka-mahinda-rajapaksa-calls-an-early-election.xml)  
+
 ### [2014-11-20](/news/2014/11/20/index.md)
 
+##### President of Sri Lanka
 # The President of Sri Lanka Mahinda Rajapaksa calls an early election. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/world/asia_pacific/sri-lanka-president-calls-early-presidential-polls/2014/11/20/e1e9c442-7095-11e4-a2c2-478179fd0489_story.html)
+1. [Washington Post](https://www.washingtonpost.com/world/asia_pacific/sri-lanka-president-calls-early-presidential-polls/2014/11/20/e1e9c442-7095-11e4-a2c2-478179fd0489_story.html)
 
 ### Related:
 

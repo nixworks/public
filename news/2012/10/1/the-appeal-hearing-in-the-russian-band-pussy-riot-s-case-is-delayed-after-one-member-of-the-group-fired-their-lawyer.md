@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/1/the-appeal-hearing-in-the-russian-band-pussy-riot-s-case-is-delayed-after-one-member-of-the-group-fired-their-lawyer.html)  [JSON](/news/2012/10/1/the-appeal-hearing-in-the-russian-band-pussy-riot-s-case-is-delayed-after-one-member-of-the-group-fired-their-lawyer.json)  [XML](/news/2012/10/1/the-appeal-hearing-in-the-russian-band-pussy-riot-s-case-is-delayed-after-one-member-of-the-group-fired-their-lawyer.xml)  
+
 ### [2012-10-1](/news/2012/10/1/index.md)
 
+##### Russia
 # The appeal hearing in the Russian band Pussy Riot's case is delayed after one member of the group fired their lawyer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.ria.ru/russia/20121001/176332910.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/25/the-sudanese-people-s-armed-forces-claim-that-the-leader-of-the-justice-and-equality-movement-in-darfur-khalil-ibrahim-has-been-killed.html)  [JSON](/news/2011/12/25/the-sudanese-people-s-armed-forces-claim-that-the-leader-of-the-justice-and-equality-movement-in-darfur-khalil-ibrahim-has-been-killed.json)  [XML](/news/2011/12/25/the-sudanese-people-s-armed-forces-claim-that-the-leader-of-the-justice-and-equality-movement-in-darfur-khalil-ibrahim-has-been-killed.xml)  
+
 ### [2011-12-25](/news/2011/12/25/index.md)
 
+##### Sudan
 # The Sudanese People's Armed Forces claim that the leader of the Justice and Equality Movement in Darfur, Khalil Ibrahim, has been killed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/world/2011-12/25/c_131325713.htm)
 

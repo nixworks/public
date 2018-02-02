@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/7/hamas-militants-kill-a-fatah-member-and-five-other-palestinians-are-injured-in-a-renewal-of-fighting-between-the-two-groups.html)  [JSON](/news/2007/06/7/hamas-militants-kill-a-fatah-member-and-five-other-palestinians-are-injured-in-a-renewal-of-fighting-between-the-two-groups.json)  [XML](/news/2007/06/7/hamas-militants-kill-a-fatah-member-and-five-other-palestinians-are-injured-in-a-renewal-of-fighting-between-the-two-groups.xml)  
+
 ### [2007-06-7](/news/2007/06/7/index.md)
 
+##### Hamas
 #  Hamas militants kill a Fatah member, and five other Palestinians are injured in a renewal of fighting between the two groups. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via CBS News](http://www.cbsnews.com/stories/2007/06/07/ap/world/main2896187.shtml)
 

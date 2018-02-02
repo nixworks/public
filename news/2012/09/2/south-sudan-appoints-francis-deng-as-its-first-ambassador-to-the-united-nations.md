@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/2/south-sudan-appoints-francis-deng-as-its-first-ambassador-to-the-united-nations.html)  [JSON](/news/2012/09/2/south-sudan-appoints-francis-deng-as-its-first-ambassador-to-the-united-nations.json)  [XML](/news/2012/09/2/south-sudan-appoints-francis-deng-as-its-first-ambassador-to-the-united-nations.xml)  
+
 ### [2012-09-2](/news/2012/09/2/index.md)
 
+##### South Sudan
 # South Sudan appoints Francis Deng as its first ambassador to the United Nations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/africa/south-sudan-names-un-ambassador-1.1374187#.UEOmo5aiE1A)
 

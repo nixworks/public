@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/25/syrian-uprising-united-nations-envoy-kofi-annan-describes-the-situation-in-syria-as-bleak-raising-concerns-about-reports-indicating-that-s.html)  [JSON](/news/2012/04/25/syrian-uprising-united-nations-envoy-kofi-annan-describes-the-situation-in-syria-as-bleak-raising-concerns-about-reports-indicating-that-s.json)  [XML](/news/2012/04/25/syrian-uprising-united-nations-envoy-kofi-annan-describes-the-situation-in-syria-as-bleak-raising-concerns-about-reports-indicating-that-s.xml)  
+
 ### [2012-04-25](/news/2012/04/25/index.md)
 
+##### Syrian uprising (2011-present)
 # Syrian uprising: United Nations envoy Kofi Annan describes the situation in Syria as bleak, raising concerns about reports indicating that Syrian Army forces are conducting operations against opponents. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/home/world-news/article/16215594)
 

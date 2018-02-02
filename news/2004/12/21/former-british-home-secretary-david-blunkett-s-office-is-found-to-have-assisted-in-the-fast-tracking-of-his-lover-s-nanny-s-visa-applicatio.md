@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/21/former-british-home-secretary-david-blunkett-s-office-is-found-to-have-assisted-in-the-fast-tracking-of-his-lover-s-nanny-s-visa-applicatio.html)  [JSON](/news/2004/12/21/former-british-home-secretary-david-blunkett-s-office-is-found-to-have-assisted-in-the-fast-tracking-of-his-lover-s-nanny-s-visa-applicatio.json)  [XML](/news/2004/12/21/former-british-home-secretary-david-blunkett-s-office-is-found-to-have-assisted-in-the-fast-tracking-of-his-lover-s-nanny-s-visa-applicatio.xml)  
+
 ### [2004-12-21](/news/2004/12/21/index.md)
 
+##### Home Secretary
 #  Former British Home Secretary David Blunkett's office is found to have assisted in the fast-tracking of his lover's nanny's visa-application, thereby confirming the allegation that led to his dismissal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/4112109.stm)
 

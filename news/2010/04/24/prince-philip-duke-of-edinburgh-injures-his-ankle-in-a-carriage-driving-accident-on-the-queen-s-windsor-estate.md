@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/24/prince-philip-duke-of-edinburgh-injures-his-ankle-in-a-carriage-driving-accident-on-the-queen-s-windsor-estate.html)  [JSON](/news/2010/04/24/prince-philip-duke-of-edinburgh-injures-his-ankle-in-a-carriage-driving-accident-on-the-queen-s-windsor-estate.json)  [XML](/news/2010/04/24/prince-philip-duke-of-edinburgh-injures-his-ankle-in-a-carriage-driving-accident-on-the-queen-s-windsor-estate.xml)  
+
 ### [2010-04-24](/news/2010/04/24/index.md)
 
+##### Prince Philip, Duke of Edinburgh
 # Prince Philip, Duke of Edinburgh injures his ankle in a carriage driving accident on the Queen's Windsor estate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://arabnews.com/world/article46820.ece)
 

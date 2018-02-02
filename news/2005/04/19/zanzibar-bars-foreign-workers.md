@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/19/zanzibar-bars-foreign-workers.html)  [JSON](/news/2005/04/19/zanzibar-bars-foreign-workers.json)  [XML](/news/2005/04/19/zanzibar-bars-foreign-workers.xml)  
+
 ### [2005-04-19](/news/2005/04/19/index.md)
 
+##### Zanzibar
 #  Zanzibar bars foreign workers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=87&art_id=qw1113892922896B235)
 

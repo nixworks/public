@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/1/tropical-storm-emily-forms-in-the-atlantic-ocean-with-tropical-storm-warnings-issued-for-puerto-rico-guadeloupe-desirade-les-saintes-mar.html)  [JSON](/news/2011/08/1/tropical-storm-emily-forms-in-the-atlantic-ocean-with-tropical-storm-warnings-issued-for-puerto-rico-guadeloupe-desirade-les-saintes-mar.json)  [XML](/news/2011/08/1/tropical-storm-emily-forms-in-the-atlantic-ocean-with-tropical-storm-warnings-issued-for-puerto-rico-guadeloupe-desirade-les-saintes-mar.xml)  
+
 ### [2011-08-1](/news/2011/08/1/index.md)
 
+##### Hurricane Rina
 # Tropical Storm Emily forms in the Atlantic Ocean with tropical storm warnings issued for Puerto Rico, Guadeloupe, Desirade, Les Saintes, Marie Galante and the Dominican Republic. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NOLA.com](http://www.nola.com/hurricane/index.ssf/2011/08/tropical_storm_emily_forms_in.html)
 2. [National Hurricane Centre](http://www.nhc.noaa.gov/#EMILY)

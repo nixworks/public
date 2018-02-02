@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/8/australian-prime-minister-julia-gillard-on-a-trip-to-shanghai-china-announces-that-the-australian-dollar-is-set-to-trade-directly-with-th.html)  [JSON](/news/2013/04/8/australian-prime-minister-julia-gillard-on-a-trip-to-shanghai-china-announces-that-the-australian-dollar-is-set-to-trade-directly-with-th.json)  [XML](/news/2013/04/8/australian-prime-minister-julia-gillard-on-a-trip-to-shanghai-china-announces-that-the-australian-dollar-is-set-to-trade-directly-with-th.xml)  
+
 ### [2013-04-8](/news/2013/04/8/index.md)
 
+##### Australia
 # Australian Prime Minister Julia Gillard, on a trip to Shanghai, China, announces that the Australian dollar is set to trade directly with the Chinese yuan, becoming the third currency to do so. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2013/04/08/investing/china-australia-currency)
 

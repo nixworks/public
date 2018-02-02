@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/12/7/incumbent-president-of-romania-traian-basescu-is-declared-the-winner-of-sunday-s-presidential-election-run-off-with-the-opposition-demand.html)  [JSON](/news/2009/12/7/incumbent-president-of-romania-traian-basescu-is-declared-the-winner-of-sunday-s-presidential-election-run-off-with-the-opposition-demand.json)  [XML](/news/2009/12/7/incumbent-president-of-romania-traian-basescu-is-declared-the-winner-of-sunday-s-presidential-election-run-off-with-the-opposition-demand.xml)  
+
 ### [2009-12-7](/news/2009/12/7/index.md)
 
+##### President
 #  Incumbent President of Romania Traian Basescu is declared the winner of Sunday's presidential election run-off, with the opposition demanding that the Constitutional Court annul the vote due to electoral fraud. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://ca.news.yahoo.com/s/capress/091207/world/eu_romania_presidential_elections)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=aHRgplwWoFT0)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601085&sid=aHRgplwWoFT0)
 3. [realitatea - official final results](http://www.realitatea.net/final-results-–-basescu-wins-presidential-elections-with-50-33prc--of-romanians-votes--bec-says_690922.html)
 
 ### Related:

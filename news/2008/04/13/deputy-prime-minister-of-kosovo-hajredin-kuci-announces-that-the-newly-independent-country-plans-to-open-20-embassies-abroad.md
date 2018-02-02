@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/13/deputy-prime-minister-of-kosovo-hajredin-kuci-announces-that-the-newly-independent-country-plans-to-open-20-embassies-abroad.html)  [JSON](/news/2008/04/13/deputy-prime-minister-of-kosovo-hajredin-kuci-announces-that-the-newly-independent-country-plans-to-open-20-embassies-abroad.json)  [XML](/news/2008/04/13/deputy-prime-minister-of-kosovo-hajredin-kuci-announces-that-the-newly-independent-country-plans-to-open-20-embassies-abroad.xml)  
+
 ### [2008-04-13](/news/2008/04/13/index.md)
 
+##### Prime Minister
 #  Deputy Prime Minister of Kosovo Hajredin Kui announces that the newly independent country plans to open 20 embassies abroad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [PressTV](http://www.presstv.ir/detail.aspx?id=51376&sectionid=351020606)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/30/ehud-olmert-is-indicted-on-three-counts-of-corruption-becoming-the-first-ex-prime-minister-of-israel-to-face-criminal-charges.html)  [JSON](/news/2009/08/30/ehud-olmert-is-indicted-on-three-counts-of-corruption-becoming-the-first-ex-prime-minister-of-israel-to-face-criminal-charges.json)  [XML](/news/2009/08/30/ehud-olmert-is-indicted-on-three-counts-of-corruption-becoming-the-first-ex-prime-minister-of-israel-to-face-criminal-charges.xml)  
+
 ### [2009-08-30](/news/2009/08/30/index.md)
 
+##### Ehud Olmert
 #  Ehud Olmert is indicted on three counts of corruption, becoming the first ex-Prime Minister of Israel to face criminal charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8229521.stm)
 

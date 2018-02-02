@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/13/bob-brown-resigns-as-parliamentary-leader-of-the-australian-greens-and-from-the-senate.html)  [JSON](/news/2012/04/13/bob-brown-resigns-as-parliamentary-leader-of-the-australian-greens-and-from-the-senate.json)  [XML](/news/2012/04/13/bob-brown-resigns-as-parliamentary-leader-of-the-australian-greens-and-from-the-senate.xml)  
+
 ### [2012-04-13](/news/2012/04/13/index.md)
 
+##### Bob Brown
 # Bob Brown resigns as Parliamentary Leader of the Australian Greens and from the Senate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Herald Sun](http://www.heraldsun.com.au/news/more-news/bob-brown-steps-down-as-greens-leader/story-fn7x8me2-1226325658087)
 

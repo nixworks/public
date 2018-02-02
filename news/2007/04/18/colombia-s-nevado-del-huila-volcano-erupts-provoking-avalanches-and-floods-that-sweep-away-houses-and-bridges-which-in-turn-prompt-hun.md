@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/18/colombia-s-nevado-del-huila-volcano-erupts-provoking-avalanches-and-floods-that-sweep-away-houses-and-bridges-which-in-turn-prompt-hun.html)  [JSON](/news/2007/04/18/colombia-s-nevado-del-huila-volcano-erupts-provoking-avalanches-and-floods-that-sweep-away-houses-and-bridges-which-in-turn-prompt-hun.json)  [XML](/news/2007/04/18/colombia-s-nevado-del-huila-volcano-erupts-provoking-avalanches-and-floods-that-sweep-away-houses-and-bridges-which-in-turn-prompt-hun.xml)  
+
 ### [2007-04-18](/news/2007/04/18/index.md)
 
+##### Colombia
 #  Colombia's Nevado del Huila volcano erupts, provoking avalanches and floods that sweep away houses and bridges, which , in turn, prompt hundreds to evacuate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.hindu.com/thehindu/holnus/003200704200313.htm)
 

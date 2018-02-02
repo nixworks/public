@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/26/a-man-kills-eight-and-injures-four-people-with-a-knife-at-a-chinese-high-school-in-ruzhou-henan.html)  [JSON](/news/2004/11/26/a-man-kills-eight-and-injures-four-people-with-a-knife-at-a-chinese-high-school-in-ruzhou-henan.json)  [XML](/news/2004/11/26/a-man-kills-eight-and-injures-four-people-with-a-knife-at-a-chinese-high-school-in-ruzhou-henan.xml)  
+
 ### [2004-11-26](/news/2004/11/26/index.md)
 
+##### Ruzhou
 #  A man kills eight and injures four people with a knife at a Chinese high school in Ruzhou, Henan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4044047.stm)
 2. [Xinhua](http://news.xinhuanet.com/english/2004-11/26/content_2263815.htm)

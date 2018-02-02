@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/14/westlife-singer-shane-filan-is-declared-bankrupt.html)  [JSON](/news/2012/06/14/westlife-singer-shane-filan-is-declared-bankrupt.json)  [XML](/news/2012/06/14/westlife-singer-shane-filan-is-declared-bankrupt.xml)  
+
 ### [2012-06-14](/news/2012/06/14/index.md)
 
+##### Westlife
 # Westlife singer Shane Filan is declared bankrupt. 
 
 Westlife singer Shane Filan is declared bankrupt in the UK after his Irish property development company got into difficulties.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18438032)
 2. [The Guardian](http://www.guardian.co.uk/money/2012/jun/14/westlife-singer-shane-filan-bankrupt)

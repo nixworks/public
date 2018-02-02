@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/19/iranian-president-hassan-rouhani-reshuffles-his
 
 ### [2016-10-19](/news/2016/10/19/index.md)
 
+##### Iran
 # Iranian President Hassan Rouhani reshuffles his cabinet, replacing culture, education, and sports ministers. The new ministers still need the parliament's approval. 
 
 

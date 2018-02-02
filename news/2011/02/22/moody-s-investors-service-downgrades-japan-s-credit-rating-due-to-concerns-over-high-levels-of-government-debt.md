@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2011/02/22/moody-s-investors-service-downgrades-japan-s-credit-rating-due-to-concerns-over-high-levels-of-government-debt.html)  [JSON](/news/2011/02/22/moody-s-investors-service-downgrades-japan-s-credit-rating-due-to-concerns-over-high-levels-of-government-debt.json)  [XML](/news/2011/02/22/moody-s-investors-service-downgrades-japan-s-credit-rating-due-to-concerns-over-high-levels-of-government-debt.xml)  
+
 ### [2011-02-22](/news/2011/02/22/index.md)
 
+##### Moody's Investors Service
 # Moody's Investors Service downgrades Japan's credit rating due to concerns over high levels of government debt. 
 
+Japan’s debt rating outlook was lowered to negative from stable by Moody’s Investors Service on concern that political gridlock will constrain efforts to tackle the biggest debt burden of any nation.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2011-02-22/japan-s-aa2-government-debt-rating-outlook-changed-to-negative-by-moody-s.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2011-02-22/japan-s-aa2-government-debt-rating-outlook-changed-to-negative-by-moody-s.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

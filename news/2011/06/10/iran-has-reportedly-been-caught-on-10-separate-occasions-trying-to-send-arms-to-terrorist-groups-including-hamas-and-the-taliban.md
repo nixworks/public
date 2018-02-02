@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/10/iran-has-reportedly-been-caught-on-10-separate-occasions-trying-to-send-arms-to-terrorist-groups-including-hamas-and-the-taliban.html)  [JSON](/news/2011/06/10/iran-has-reportedly-been-caught-on-10-separate-occasions-trying-to-send-arms-to-terrorist-groups-including-hamas-and-the-taliban.json)  [XML](/news/2011/06/10/iran-has-reportedly-been-caught-on-10-separate-occasions-trying-to-send-arms-to-terrorist-groups-including-hamas-and-the-taliban.xml)  
+
 ### [2011-06-10](/news/2011/06/10/index.md)
 
+##### Iran
 # Iran has reportedly been caught on 10 separate occasions trying to send arms to terrorist groups, including Hamas and the Taliban. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/IranianThreat/News/Article.aspx?id=224399)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=161471)

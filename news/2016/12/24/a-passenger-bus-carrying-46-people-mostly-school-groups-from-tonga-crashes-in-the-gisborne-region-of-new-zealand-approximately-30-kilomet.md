@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/12/24/a-passenger-bus-carrying-46-people-mostly-school-groups-from-tonga-crashes-in-the-gisborne-region-of-new-zealand-approximately-30-kilomet.html)  [JSON](/news/2016/12/24/a-passenger-bus-carrying-46-people-mostly-school-groups-from-tonga-crashes-in-the-gisborne-region-of-new-zealand-approximately-30-kilomet.json)  [XML](/news/2016/12/24/a-passenger-bus-carrying-46-people-mostly-school-groups-from-tonga-crashes-in-the-gisborne-region-of-new-zealand-approximately-30-kilomet.xml)  
+
 ### [2016-12-24](/news/2016/12/24/index.md)
 
+##### Tonga
 # A passenger bus carrying 46 people, mostly school groups from Tonga, crashes in the Gisborne Region of New Zealand, approximately 30 kilometers south of the city of Gisborne. Two people died while several were injured, with some still hospitalized. 
 
 A woman has described the terror at the scene of a bus crash that claimed the lives of two people and injured 44 others south of Gisborne last night. - New Zealand Herald
 
 
-### Source:
+### Sources:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11772810)
 1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201653/scene2_1024x768.jpg)

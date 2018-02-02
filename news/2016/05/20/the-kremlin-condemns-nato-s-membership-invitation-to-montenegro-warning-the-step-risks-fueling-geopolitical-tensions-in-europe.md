@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/20/the-kremlin-condemns-nato-s-membership-invitati
 
 ### [2016-05-20](/news/2016/05/20/index.md)
 
+##### Accession of Montenegro to NATO
 # The Kremlin condemns NATO's membership invitation to Montenegro, warning the step risks fueling geopolitical tensions in Europe. 
 
 

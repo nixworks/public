@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/14/the-united-nations-warns-of-an-imminent-humanitarian-crisis-in-the-darfur-region-of-sudan-where-it-is-alleged-that-arabs-are-waging-a-camp.html)  [JSON](/news/2004/04/14/the-united-nations-warns-of-an-imminent-humanitarian-crisis-in-the-darfur-region-of-sudan-where-it-is-alleged-that-arabs-are-waging-a-camp.json)  [XML](/news/2004/04/14/the-united-nations-warns-of-an-imminent-humanitarian-crisis-in-the-darfur-region-of-sudan-where-it-is-alleged-that-arabs-are-waging-a-camp.xml)  
+
 ### [2004-04-14](/news/2004/04/14/index.md)
 
+##### United Nations
 #  The United Nations warns of an imminent humanitarian crisis in the Darfur region of Sudan, where it is alleged that Arabs are waging a campaign of ethnic cleansing against the African population. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Morning Star](http://www.morningstaronline.co.uk/index.php/star_news/world/un_calls_for_100_million_humanitarian_aid_to_west_sudan)
 

@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2011/08/31/exxonmobil-and-oao-rosneft-reach-a-deal-which-may-reach-500-billion-in-projects-in-the-arctic-gulf-of-mexico-and-the-black-sea.html)  [JSON](/news/2011/08/31/exxonmobil-and-oao-rosneft-reach-a-deal-which-may-reach-500-billion-in-projects-in-the-arctic-gulf-of-mexico-and-the-black-sea.json)  [XML](/news/2011/08/31/exxonmobil-and-oao-rosneft-reach-a-deal-which-may-reach-500-billion-in-projects-in-the-arctic-gulf-of-mexico-and-the-black-sea.xml)  
+
 ### [2011-08-31](/news/2011/08/31/index.md)
 
+##### ExxonMobil Corporation
 # ExxonMobil and OAO Rosneft reach a deal which may reach $500 billion in projects in the Arctic, Gulf of Mexico, and the Black Sea. 
 
-Exxon Mobil Corp and Rosneft signed an agreement to extract oil and gas from the Russian Arctic, in the most significant U.S.-Russian corporate deal since U.S. President Barack Obama began a push to improve ties.
+Exxon Mobil Corp. and OAO Rosneft, Russia’s biggest oil producer, will announce joint international projects by early next year, an official for the Moscow-based company said today during a conference call.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/news/2011-08-31/exxon-rosneft-to-unveil-joint-international-projects-by-2012.html)
-2. [Forbes](http://www.forbes.com/sites/christopherhelman/2011/08/31/rosneft-deal-shows-exxon-to-be-the-only-supermajor-with-heft-in-russia/)
-3. [New York Times](http://www.nytimes.com/2011/08/31/business/global/exxon-and-rosneft-partner-in-russian-oil-deal.html)
-4. [Reuters](http://www.reuters.com/article/2011/08/30/us-rosneft-exxon-idUSTRE77T2OM20110830)
+1. [Bloomberg](https://www.bloomberg.com/news/2011-08-31/exxon-rosneft-to-unveil-joint-international-projects-by-2012.html)
+2. [Forbes](https://www.forbes.com/sites/christopherhelman/2011/08/31/rosneft-deal-shows-exxon-to-be-the-only-supermajor-with-heft-in-russia/)
+3. [New York Times](https://www.nytimes.com/2011/08/31/business/global/exxon-and-rosneft-partner-in-russian-oil-deal.html)
+4. [Reuters](https://www.reuters.com/article/2011/08/30/us-rosneft-exxon-idUSTRE77T2OM20110830)
 5. [Wall Street Journal](http://online.wsj.com/article/SB10001424053111904199404576540350519892620.html)
-6. [Washington Post](http://www.washingtonpost.com/business/putin-says-exxon-rosneft-projects-may-reach-500-billion/2011/08/31/gIQAjFYcrJ_video.html)
-6. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110830&t=2&i=489487867&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-08-30T193106Z_01_BTRE77T15Q400_RTROPTP_0_RUSSIA-FUEL-CRISIS)
+6. [Washington Post](https://www.washingtonpost.com/business/putin-says-exxon-rosneft-projects-may-reach-500-billion/2011/08/31/gIQAjFYcrJ_video.html)
+6. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

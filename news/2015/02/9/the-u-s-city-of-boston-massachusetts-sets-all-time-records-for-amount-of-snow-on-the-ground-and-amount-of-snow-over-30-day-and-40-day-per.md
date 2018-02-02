@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/9/the-u-s-city-of-boston-massachusetts-sets-all-time-records-for-amount-of-snow-on-the-ground-and-amount-of-snow-over-30-day-and-40-day-per.html)  [JSON](/news/2015/02/9/the-u-s-city-of-boston-massachusetts-sets-all-time-records-for-amount-of-snow-on-the-ground-and-amount-of-snow-over-30-day-and-40-day-per.json)  [XML](/news/2015/02/9/the-u-s-city-of-boston-massachusetts-sets-all-time-records-for-amount-of-snow-on-the-ground-and-amount-of-snow-over-30-day-and-40-day-per.xml)  
+
 ### [2015-02-9](/news/2015/02/9/index.md)
 
+##### Boston
 # The U.S. city of Boston, Massachusetts, sets all-time records for amount of snow on the ground and amount of snow over 30-day and 40-day periods in 17 days. 
 
 Boston has recorded more than 69 inches of snow in 30 days, easily topping the record of 58.8 inches in 1978.
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://www.nbcnews.com/news/weather/boston-buried-snow-again-absurd-winter-drags-n303086)
 2. [WCVB](http://www.wcvb.com/weather/snow-sets-historic-records-in-boston/31168556)

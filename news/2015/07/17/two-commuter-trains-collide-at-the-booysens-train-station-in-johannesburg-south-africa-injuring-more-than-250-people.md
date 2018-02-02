@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/17/two-commuter-trains-collide-at-the-booysens-train-station-in-johannesburg-south-africa-injuring-more-than-250-people.html)  [JSON](/news/2015/07/17/two-commuter-trains-collide-at-the-booysens-train-station-in-johannesburg-south-africa-injuring-more-than-250-people.json)  [XML](/news/2015/07/17/two-commuter-trains-collide-at-the-booysens-train-station-in-johannesburg-south-africa-injuring-more-than-250-people.xml)  
+
 ### [2015-07-17](/news/2015/07/17/index.md)
 
+##### Johannesburg
 # Two commuter trains collide at the Booysens train station in Johannesburg, South Africa, injuring more than 250 people. 
 
 Paramedics at the scene of the Booysens station train crash in Johannesburg say they have tended to about 250 injured commuters, and that the number of casualties may still increase.
 
 
-### Source:
+### Sources:
 
 1. [News24](http://m.news24.com/news24/SouthAfrica/News/Joburg-train-crash-Number-of-casualties-continues-to-rise-20150717)
 1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/219/88aaf351e0674a0b952a0fae05c4e046.jpg)

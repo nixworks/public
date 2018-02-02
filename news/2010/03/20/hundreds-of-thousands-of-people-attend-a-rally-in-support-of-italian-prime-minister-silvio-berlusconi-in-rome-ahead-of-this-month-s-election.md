@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/20/hundreds-of-thousands-of-people-attend-a-rally-in-support-of-italian-prime-minister-silvio-berlusconi-in-rome-ahead-of-this-month-s-election.html)  [JSON](/news/2010/03/20/hundreds-of-thousands-of-people-attend-a-rally-in-support-of-italian-prime-minister-silvio-berlusconi-in-rome-ahead-of-this-month-s-election.json)  [XML](/news/2010/03/20/hundreds-of-thousands-of-people-attend-a-rally-in-support-of-italian-prime-minister-silvio-berlusconi-in-rome-ahead-of-this-month-s-election.xml)  
+
 ### [2010-03-20](/news/2010/03/20/index.md)
 
+##### Italy
 # Hundreds of thousands of people attend a rally in support of Italian Prime Minister Silvio Berlusconi in Rome ahead of this month's elections. 
 
 Hundreds of thousands of people have marched through the Italian capital in a massive show of support for PM Silvio Berlusconi ahead of regional elections.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/03/2010320222318513525.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8578502.stm)

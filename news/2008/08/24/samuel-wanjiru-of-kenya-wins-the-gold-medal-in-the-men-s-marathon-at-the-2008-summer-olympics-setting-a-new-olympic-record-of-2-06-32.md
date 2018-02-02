@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2008/08/24/samuel-wanjiru-of-kenya-wins-the-gold-medal-in-the-men-s-marathon-at-the-2008-summer-olympics-setting-a-new-olympic-record-of-2-06-32.html)  [JSON](/news/2008/08/24/samuel-wanjiru-of-kenya-wins-the-gold-medal-in-the-men-s-marathon-at-the-2008-summer-olympics-setting-a-new-olympic-record-of-2-06-32.json)  [XML](/news/2008/08/24/samuel-wanjiru-of-kenya-wins-the-gold-medal-in-the-men-s-marathon-at-the-2008-summer-olympics-setting-a-new-olympic-record-of-2-06-32.xml)  
+
 ### [2008-08-24](/news/2008/08/24/index.md)
 
+##### Samuel Wanjiru
 #  Samuel Wanjiru of Kenya wins the gold medal in the men's marathon at the 2008 Summer Olympics setting a new Olympic record of 2:06:32. 
 
 Visit ESPN to get up-to-the-minute sports news coverage, scores, highlights and commentary for AFL, NRL, Rugby, Cricket, Football and more.
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/oly_ath_men_s_marathon)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/oly_ath_men_s_marathon)
 2. [ESPN](http://sports.espn.go.com/oly/summer08/basketball/men/recap?gameId=834)
 3. [Xinhua](http://news.xinhuanet.com/english/2008-08/25/content_9702076.htm)
+
+### Changes:
+
+1. [ 2008 Summer Olympics: Samuel Wanjiru of Kenya wins the gold medal in the men's marathon at the 2008 Summer Olympics setting a new Olympic record of 2:06:32. ](/news/2008/08/24/2008-summer-olympics-p-samuel-wanjiru-of-kenya-wins-the-gold-medal-in-the-men-s-marathon-at-the-2008-summer-olympics-setting-a-new-olympic.md) _2017-08-25 03:22:45 (First version)_
+2. [ 2008 Summer Olympics:: Samuel Wanjiru of Kenya wins the gold medal in the men's marathon at the 2008 Summer Olympics setting a new Olympic record of 2:06:32. ](/news/2008/08/24/2008-summer-olympics-samuel-wanjiru-of-kenya-wins-the-gold-medal-in-the-men-s-marathon-at-the-2008-summer-olympics-setting-a-new-olympic.md) _2017-08-27 03:22:39 (Update)_
+2. [ Samuel Wanjiru of Kenya wins the gold medal in the men's marathon at the 2008 Summer Olympics setting a new Olympic record of 2:06:32. ](/news/2008/08/24/samuel-wanjiru-of-kenya-wins-the-gold-medal-in-the-men-s-marathon-at-the-2008-summer-olympics-setting-a-new-olympic-record-of-2-06-32.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ Visit ESPN to get up-to-the-minute sports news coverage, scores, highlights and 
 3. [50-year-old Chinese journalist Li Junqi is imprisoned for 16 years after accepting bribes for his part in a mass three-month cover-up of a coal mine disaster in Hebei in which 35 people, including a rescue worker, were killed prior to the 2008 Summer Olympics in Beijing. ](/news/2010/01/6/50-year-old-chinese-journalist-li-junqi-is-imprisoned-for-16-years-after-accepting-bribes-for-his-part-in-a-mass-three-month-cover-up-of-a-c.md) _Context: 2008 Summer Olympics_
 4. [ China has made rules which were introduced for the Olympic Games allowing foreign reporters to interview without applying for permission permanent. ](/news/2008/10/17/china-has-made-rules-which-were-introduced-for-the-olympic-games-allowing-foreign-reporters-to-interview-without-applying-for-permission-pe.md) _Context: 2008 Summer Olympics_
 5. [ Shooter Katerina Emmons of the Czech Republic wins the women's 10 meter air rifle competition, the first gold medal of the 2008 Summer Olympics, setting an Olympic record for both the qualifying and final scores. ](/news/2008/08/9/shooter-kateaina-emmons-of-the-czech-republic-wins-the-women-s-10-meter-air-rifle-competition-the-first-gold-medal-of-the-2008-summer-oly.md) _Context: 2008 Summer Olympics_
-
-### Changes:
-
-1. [ 2008 Summer Olympics: Samuel Wanjiru of Kenya wins the gold medal in the men's marathon at the 2008 Summer Olympics setting a new Olympic record of 2:06:32. ](/news/2008/08/24/2008-summer-olympics-p-samuel-wanjiru-of-kenya-wins-the-gold-medal-in-the-men-s-marathon-at-the-2008-summer-olympics-setting-a-new-olympic.md) _2017-08-25 03:22:45 (First version)_
-2. [ 2008 Summer Olympics:: Samuel Wanjiru of Kenya wins the gold medal in the men's marathon at the 2008 Summer Olympics setting a new Olympic record of 2:06:32. ](/news/2008/08/24/2008-summer-olympics-samuel-wanjiru-of-kenya-wins-the-gold-medal-in-the-men-s-marathon-at-the-2008-summer-olympics-setting-a-new-olympic.md) _2017-08-27 03:22:39 (Update)_
-2. [ Samuel Wanjiru of Kenya wins the gold medal in the men's marathon at the 2008 Summer Olympics setting a new Olympic record of 2:06:32. ](/news/2008/08/24/samuel-wanjiru-of-kenya-wins-the-gold-medal-in-the-men-s-marathon-at-the-2008-summer-olympics-setting-a-new-olympic-record-of-2-06-32.md) _(Current version)_

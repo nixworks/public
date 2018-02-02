@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/9/a-federal-grand-jury-in-the-us-city-of-lubbock-texas-indicts-khalid-aldawsari-on-one-charge-of-attempted-use-of-a-weapon-of-mass-destructio.html)  [JSON](/news/2011/03/9/a-federal-grand-jury-in-the-us-city-of-lubbock-texas-indicts-khalid-aldawsari-on-one-charge-of-attempted-use-of-a-weapon-of-mass-destructio.json)  [XML](/news/2011/03/9/a-federal-grand-jury-in-the-us-city-of-lubbock-texas-indicts-khalid-aldawsari-on-one-charge-of-attempted-use-of-a-weapon-of-mass-destructio.xml)  
+
 ### [2011-03-9](/news/2011/03/9/index.md)
 
+##### Federal grand jury
 # A Federal grand jury in the US city of Lubbock, Texas indicts Khalid Aldawsari on one charge of Attempted Use of a Weapon of Mass Destruction. 
 
 A Lubbock federal grand jury indicts Khalid Aldawsari, 20, on a single charge of Attempted Use of a Weapon of Mass Destruction.&#xD;&#xA;
 
 
-### Source:
+### Sources:
 
 1. [AP via KCBD](http://www.kcbd.com/Global/story.asp?S=14221648)
 1. [Cover Image](http://kcbd.images.worldnow.com/images/14221648_BG1.jpg)

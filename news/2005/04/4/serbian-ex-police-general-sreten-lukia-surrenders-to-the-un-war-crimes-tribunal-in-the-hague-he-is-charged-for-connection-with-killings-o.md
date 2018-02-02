@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/04/4/serbian-ex-police-general-sreten-lukia-surrenders-to-the-un-war-crimes-tribunal-in-the-hague-he-is-charged-for-connection-with-killings-o.html)  [JSON](/news/2005/04/4/serbian-ex-police-general-sreten-lukia-surrenders-to-the-un-war-crimes-tribunal-in-the-hague-he-is-charged-for-connection-with-killings-o.json)  [XML](/news/2005/04/4/serbian-ex-police-general-sreten-lukia-surrenders-to-the-un-war-crimes-tribunal-in-the-hague-he-is-charged-for-connection-with-killings-o.xml)  
+
 ### [2005-04-4](/news/2005/04/4/index.md)
 
+##### Serbia
 #  Serbian ex-police general Sreten Lukic surrenders to the UN war crimes tribunal in The Hague. He is charged for connection with killings of Kosovo Albanians in 1999 when he was a head of paramilitary group MUP. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4408607.stm)
 2. [Kosovareport commentary](http://kosovareport.blogspot.com/2005/04/top-serb-war-crimes-suspect-arrives-at.html)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8075313)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8075313)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

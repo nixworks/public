@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/09/28/ariel-sharon-with-a-large-security-detail-visits-the-temple-mount-palestinian-protest-against-his-visit-and-the-ongoing-israeli-military-o.html)  [JSON](/news/2000/09/28/ariel-sharon-with-a-large-security-detail-visits-the-temple-mount-palestinian-protest-against-his-visit-and-the-ongoing-israeli-military-o.json)  [XML](/news/2000/09/28/ariel-sharon-with-a-large-security-detail-visits-the-temple-mount-palestinian-protest-against-his-visit-and-the-ongoing-israeli-military-o.xml)  
+
 ### [2000-09-28](/news/2000/09/28/index.md)
 
+##### Ariel Sharon
 #  Ariel Sharon with a large security detail visits the Temple Mount. Palestinian protest against his visit and the ongoing Israeli military occupation develops into the Al-Aqsa Intifada. 
 
 

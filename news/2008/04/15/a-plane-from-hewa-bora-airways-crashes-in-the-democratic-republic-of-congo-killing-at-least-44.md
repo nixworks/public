@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/15/a-plane-from-hewa-bora-airways-crashes-in-the-democratic-republic-of-congo-killing-at-least-44.html)  [JSON](/news/2008/04/15/a-plane-from-hewa-bora-airways-crashes-in-the-democratic-republic-of-congo-killing-at-least-44.json)  [XML](/news/2008/04/15/a-plane-from-hewa-bora-airways-crashes-in-the-democratic-republic-of-congo-killing-at-least-44.xml)  
+
 ### [2008-04-15](/news/2008/04/15/index.md)
 
+##### Hewa Bora Airways
 #  A plane from Hewa Bora Airways crashes in the Democratic Republic of Congo, killing at least 44. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.iht.com/articles/ap/2008/04/17/news/Congo-Plane-Crash.php)
 2. [Radio Okapi](http://www.radiookapi.net/index.php?i=53&a=18225)

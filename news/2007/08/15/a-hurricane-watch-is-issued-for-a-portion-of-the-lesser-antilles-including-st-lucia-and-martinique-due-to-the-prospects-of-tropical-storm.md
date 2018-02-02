@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/15/a-hurricane-watch-is-issued-for-a-portion-of-the-lesser-antilles-including-st-lucia-and-martinique-due-to-the-prospects-of-tropical-storm.html)  [JSON](/news/2007/08/15/a-hurricane-watch-is-issued-for-a-portion-of-the-lesser-antilles-including-st-lucia-and-martinique-due-to-the-prospects-of-tropical-storm.json)  [XML](/news/2007/08/15/a-hurricane-watch-is-issued-for-a-portion-of-the-lesser-antilles-including-st-lucia-and-martinique-due-to-the-prospects-of-tropical-storm.xml)  
+
 ### [2007-08-15](/news/2007/08/15/index.md)
 
+##### hurricane
 #  A hurricane watch is issued for a portion of the Lesser Antilles including St. Lucia and Martinique due to the prospects of Tropical Storm Dean becoming a hurricane. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News WLOS](http://www.wlos.com/template/inews_wire/wires.national/2cb61a02-www.wlos.com.shtml)
 

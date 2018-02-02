@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/21/in-a-rare-house-of-commons-procedure-british-mps-have-voted-by-a-majority-of-73-to-have-parts-of-the-controversial-health-and-social-care-b.html)  [JSON](/news/2011/06/21/in-a-rare-house-of-commons-procedure-british-mps-have-voted-by-a-majority-of-73-to-have-parts-of-the-controversial-health-and-social-care-b.json)  [XML](/news/2011/06/21/in-a-rare-house-of-commons-procedure-british-mps-have-voted-by-a-majority-of-73-to-have-parts-of-the-controversial-health-and-social-care-b.xml)  
+
 ### [2011-06-21](/news/2011/06/21/index.md)
 
+##### House of Commons
 # In a rare House of Commons procedure, British MPs have voted by a majority of 73 to have parts of the controversial Health and Social Care Bill re-examined by the Health Select Committee. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13867917)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53562000/jpg/_53562219_012216580-1.jpg)

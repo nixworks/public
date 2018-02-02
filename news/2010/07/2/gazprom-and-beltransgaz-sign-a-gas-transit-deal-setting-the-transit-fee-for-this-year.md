@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/2/gazprom-and-beltransgaz-sign-a-gas-transit-deal-setting-the-transit-fee-for-this-year.html)  [JSON](/news/2010/07/2/gazprom-and-beltransgaz-sign-a-gas-transit-deal-setting-the-transit-fee-for-this-year.json)  [XML](/news/2010/07/2/gazprom-and-beltransgaz-sign-a-gas-transit-deal-setting-the-transit-fee-for-this-year.xml)  
+
 ### [2010-07-2](/news/2010/07/2/index.md)
 
+##### Gazprom
 # Gazprom and Beltransgaz sign a gas transit deal, setting the transit fee for this year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/02/c_13381180.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/3/the-duke-and-duchess-of-cambridge-announce-they-are-expecting-their-first-child-the-baby-could-be-third-in-line-to-the-throne-after-prince.html)  [JSON](/news/2012/12/3/the-duke-and-duchess-of-cambridge-announce-they-are-expecting-their-first-child-the-baby-could-be-third-in-line-to-the-throne-after-prince.json)  [XML](/news/2012/12/3/the-duke-and-duchess-of-cambridge-announce-they-are-expecting-their-first-child-the-baby-could-be-third-in-line-to-the-throne-after-prince.xml)  
+
 ### [2012-12-3](/news/2012/12/3/index.md)
 
+##### Catherine, Duchess of Cambridge
 # The Duke and Duchess of Cambridge announce they are expecting their first child. The baby could be third in line to the throne, after Prince Charles and Prince William. The Duchess is admitted to hospital with severe morning sickness. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20586343)
 2. [NBC News](http://todaynews.today.com/_news/2012/12/03/15576447-duchess-kate-is-pregnant-with-first-child)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/08/5/assembly-demo-party-was-held-in-helsinki-for-the-13th-time.html)  [JSON](/news/2004/08/5/assembly-demo-party-was-held-in-helsinki-for-the-13th-time.json)  [XML](/news/2004/08/5/assembly-demo-party-was-held-in-helsinki-for-the-13th-time.xml)  
+
 ### [2004-08-5](/news/2004/08/5/index.md)
 
+##### Assembly demo party
 #  Assembly demo party was held in Helsinki for the 13th time.
 
 

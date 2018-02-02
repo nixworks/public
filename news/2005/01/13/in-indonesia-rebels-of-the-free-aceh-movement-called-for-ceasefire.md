@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/13/in-indonesia-rebels-of-the-free-aceh-movement-called-for-ceasefire.html)  [JSON](/news/2005/01/13/in-indonesia-rebels-of-the-free-aceh-movement-called-for-ceasefire.json)  [XML](/news/2005/01/13/in-indonesia-rebels-of-the-free-aceh-movement-called-for-ceasefire.xml)  
+
 ### [2005-01-13](/news/2005/01/13/index.md)
 
+##### Indonesia
 #  In Indonesia, rebels of the Free Aceh Movement called for ceasefire 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4170309.stm)
 2. [Jakarta Post](http://www.thejakartapost.com/detaillatestnews.asp?fileid=20050113150431&irec=0)

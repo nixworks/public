@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/27/a-team-of-scientists-led-by-neil-hall-from-the-university-of-liverpool-releases-draft-sequences-of-the-wheat-genome.html)  [JSON](/news/2010/08/27/a-team-of-scientists-led-by-neil-hall-from-the-university-of-liverpool-releases-draft-sequences-of-the-wheat-genome.json)  [XML](/news/2010/08/27/a-team-of-scientists-led-by-neil-hall-from-the-university-of-liverpool-releases-draft-sequences-of-the-wheat-genome.xml)  
+
 ### [2010-08-27](/news/2010/08/27/index.md)
 
+##### University of Liverpool
 # A team of scientists, led by Neil Hall from the University of Liverpool, releases draft sequences of the wheat genome. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-11099378)
 1. [Cover Image](http://news.bbcimg.co.uk/media/images/48881000/jpg/_48881484_e7701124-wheat_harvest-spl-1.jpg)

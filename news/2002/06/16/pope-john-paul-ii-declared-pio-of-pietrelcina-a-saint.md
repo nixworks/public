@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/06/16/pope-john-paul-ii-declared-pio-of-pietrelcina-a-saint.html)  [JSON](/news/2002/06/16/pope-john-paul-ii-declared-pio-of-pietrelcina-a-saint.json)  [XML](/news/2002/06/16/pope-john-paul-ii-declared-pio-of-pietrelcina-a-saint.xml)  
+
 ### [2002-06-16](/news/2002/06/16/index.md)
 
+##### Pope John Paul II
 #  Pope John Paul II declared Pio of Pietrelcina a saint
 
 

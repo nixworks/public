@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/13/japan-s-government-approves-a-compensation-plan-to-assist-with-the-tens-of-billions-of-dollars-for-those-affected-by-the-malfunctions-of-the.html)  [JSON](/news/2011/05/13/japan-s-government-approves-a-compensation-plan-to-assist-with-the-tens-of-billions-of-dollars-for-those-affected-by-the-malfunctions-of-the.json)  [XML](/news/2011/05/13/japan-s-government-approves-a-compensation-plan-to-assist-with-the-tens-of-billions-of-dollars-for-those-affected-by-the-malfunctions-of-the.xml)  
+
 ### [2011-05-13](/news/2011/05/13/index.md)
 
+##### Tokyo Electric Power Company
 # Japan's government approves a compensation plan to assist with the tens of billions of dollars for those affected by the malfunctions of the country's tsunami-crippled nuclear plant, fearing that Tokyo Electric Power Company (Tepco) could go bankrupt without the money. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-13385512)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52538000/jpg/_52538599_011650897-1.jpg)

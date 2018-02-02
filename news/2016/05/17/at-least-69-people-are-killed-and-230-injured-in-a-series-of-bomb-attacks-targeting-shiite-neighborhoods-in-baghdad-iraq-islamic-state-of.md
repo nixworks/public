@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/17/at-least-69-people-are-killed-and-230-injured-i
 
 ### [2016-05-17](/news/2016/05/17/index.md)
 
+##### Iraqi civil war (2014-present)
 #  At least 69 people are killed and 230 injured in a series of bomb attacks targeting Shiite neighborhoods in Baghdad, Iraq. Islamic State of Iraq and Syria claims responsibility for some of the attacks. 
 
 At least 45 people are killed and more than 90 others injured in three bombings in the Iraqi capital of Baghdad.
@@ -23,8 +24,8 @@ At least 45 people are killed and more than 90 others injured in three bombings 
 
 ### Related:
 
-1. [At least 35 people are killed and 60 others injured in an attack on a Shiite mausoleum located in north of Baghdad. Islamic State in Iraq and the Levant have claimed responsibility. ](/news/2016/07/7/at-least-35-people-are-killed-and-60-others-injured-in-an-attack-on-a-shiite-mausoleum-located-in-north-of-baghdad-islamic-state-in-iraq-an.md) _Context: Baghdad, Iraqi Civil War (2014-present), Shiite_
-2. [ The Pentagon announces the death of Islamic State of Iraq and Syria (ISIL) leader Abu Waheeb and three other militants in an airstrike near the town of Rutba, Iraq. ](/news/2016/05/9/the-pentagon-announces-the-death-of-islamic-state-of-iraq-and-syria-isil-leader-abu-waheeb-and-three-other-militants-in-an-airstrike-near.md) _Context: Iraq, Iraqi Civil War (2014-present), Islamic State of Iraq and Syria_
-3. [Three bombings in and around Baghdad kill at least 14, including Shiite pilgrims, and injure more than 30. ](/news/2016/05/2/three-bombings-in-and-around-baghdad-kill-at-least-14-including-shiite-pilgrims-and-injure-more-than-30.md) _Context: Baghdad, Iraqi Civil War (2014-present), Shiite_
-4. [ At least three civilians are killed and 10 others wounded in a bomb attack in Baghdad, Iraq. ](/news/2016/05/19/at-least-three-civilians-are-killed-and-10-others-wounded-in-a-bomb-attack-in-baghdad-iraq.md) _Context: Baghdad, Iraq, Iraqi Civil War (2014-present)_
-5. [A twin suicide bombing attack at a police station in Baghdad kills five people. Yesterday 93 people had been killed and 165 injured in the deadliest day of attacks in Iraq this year. ](/news/2016/05/12/a-twin-suicide-bombing-attack-at-a-police-station-in-baghdad-kills-five-people-yesterday-93-people-had-been-killed-and-165-injured-in-the-d.md) _Context: Baghdad, Iraq, Iraqi Civil War (2014-present)_
+1. [ At least three civilians are killed and 10 others wounded in a bomb attack in Baghdad, Iraq. ](/news/2016/05/19/at-least-three-civilians-are-killed-and-10-others-wounded-in-a-bomb-attack-in-baghdad-iraq.md) _Context: Baghdad, Iraq, Iraqi civil war (2014-present)_
+2. [ Iraqi officials declare a state of emergency for all of Baghdad after protesters loyal to popular Shiite cleric Muqtada al-Sadr stormed into Iraq's parliament in the Green Zone. ](/news/2016/04/30/iraqi-officials-declare-a-state-of-emergency-for-all-of-baghdad-after-protesters-loyal-to-popular-shiite-cleric-muqtada-al-sadr-stormed-int.md) _Context: Baghdad, Iraq, Shiite_
+3. [ Ten thousand Iraqi troops enter Sadr City in Baghdad to seize control from Shiite militants. ](/news/2008/05/20/ten-thousand-iraqi-troops-enter-sadr-city-in-baghdad-to-seize-control-from-shiite-militants.md) _Context: Baghdad, Iraq, Shiite_
+4. [ Iraqi security minister Abd al Karim al Enzi accuses American soldiers accompanied by Iraqi troops to have raided the Mustafa Shiite mosque in eastern Baghdad and executed 37 unarmed people who had been tied up. ](/news/2006/03/27/iraqi-security-minister-abd-al-karim-al-enzi-accuses-american-soldiers-accompanied-by-iraqi-troops-to-have-raided-the-mustafa-shiite-mosque.md) _Context: Baghdad, Iraq, Shiite_
+5. [ Baghdad office of Shiite leader Moqtada al-Sadr is surrounded by U.S. tanks and troops amid efforts to arrest the Iraqi cleric. Some 500 armed Sadr militia burn tires, forming roadblocks and promising jihad near the office. Snipers have also been placed in homes in the neighborhood in the Baghdad slum of Sadr City. ](/news/2004/04/7/baghdad-office-of-shiite-leader-moqtada-al-sadr-is-surrounded-by-u-s-tanks-and-troops-amid-efforts-to-arrest-the-iraqi-cleric-some-500-ar.md) _Context: Baghdad, Iraq, Shiite_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/30/the-eiffel-tower-is-evacuated-for-a-time-after-an-anonymous-caller-made-a-bomb-threat-no-explosives-were-found-police-are-still-searching.html)  [JSON](/news/2013/03/30/the-eiffel-tower-is-evacuated-for-a-time-after-an-anonymous-caller-made-a-bomb-threat-no-explosives-were-found-police-are-still-searching.json)  [XML](/news/2013/03/30/the-eiffel-tower-is-evacuated-for-a-time-after-an-anonymous-caller-made-a-bomb-threat-no-explosives-were-found-police-are-still-searching.xml)  
+
 ### [2013-03-30](/news/2013/03/30/index.md)
 
+##### Eiffel Tower
 # The Eiffel Tower is evacuated for a time after an anonymous caller made a bomb threat. No explosives were found, police are still searching for the caller. 
 
 A terror alert at the Eiffel Tower has been cleared after the monument was evacuated Saturday when an anonymous caller phoned in a bomb threat.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/world/2013/03/30/eiffel-tower-evacuated-after-bomb-threat/)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

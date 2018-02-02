@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/25/flooding-in-indonesia-s-aceh-and-north-sumatra-provinces-has-killed-up-to-80-people-more-than-100-000-people-have-been-forced-out-of-their.html)  [JSON](/news/2006/12/25/flooding-in-indonesia-s-aceh-and-north-sumatra-provinces-has-killed-up-to-80-people-more-than-100-000-people-have-been-forced-out-of-their.json)  [XML](/news/2006/12/25/flooding-in-indonesia-s-aceh-and-north-sumatra-provinces-has-killed-up-to-80-people-more-than-100-000-people-have-been-forced-out-of-their.xml)  
+
 ### [2006-12-25](/news/2006/12/25/index.md)
 
+##### Flood
 #  Flooding in Indonesia's Aceh and North Sumatra provinces has killed up to 80 people. More than 100,000 people have been forced out of their homes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6208647.stm)
 

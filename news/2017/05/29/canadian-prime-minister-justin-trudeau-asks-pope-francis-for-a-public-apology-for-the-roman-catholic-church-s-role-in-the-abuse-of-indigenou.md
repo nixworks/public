@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/29/canadian-prime-minister-justin-trudeau-asks-pop
 
 ### [2017-05-29](/news/2017/05/29/index.md)
 
+##### Canadian Prime Minister
 # Canadian Prime Minister Justin Trudeau asks Pope Francis for a public apology for the Roman Catholic Church's role in the abuse of indigenous children in the residential school system. In 2009, Pope Benedict XVI issued an expression of sorrow after an audience with Assembly of First Nations Chief Phil Fontaine. 
 
 

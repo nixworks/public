@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/19/oppenheimer-blue-a-large-and-rare-blue-diamond-
 
 ### [2016-05-19](/news/2016/05/19/index.md)
 
+##### Oppenheimer Blue
 #  Oppenheimer Blue, a large and rare blue diamond, is sold for $57.6 million USD, the most expensive jewel ever sold at an auction. 
 
 (Bloomberg) -- A blue diamond set a record price for a jewel in auction when it went under the hammer for $58 million in a Christie’s sale in Geneva.

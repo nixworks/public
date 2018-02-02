@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/6/egyptian-army-general-mansour-el-essawy-is-named-as-the-new-minister-of-interior-responsible-for-security-replacing-mahmoud-wagdy.html)  [JSON](/news/2011/03/6/egyptian-army-general-mansour-el-essawy-is-named-as-the-new-minister-of-interior-responsible-for-security-replacing-mahmoud-wagdy.json)  [XML](/news/2011/03/6/egyptian-army-general-mansour-el-essawy-is-named-as-the-new-minister-of-interior-responsible-for-security-replacing-mahmoud-wagdy.xml)  
+
 ### [2011-03-6](/news/2011/03/6/index.md)
 
+##### Egyptian Army
 # Egyptian Army General Mansour el-Essawy is named as the new Minister of Interior responsible for security replacing Mahmoud Wagdy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Arabiya](http://www.alarabiya.net/articles/2011/03/06/140396.html)
 2. [Reuters via Yahoo! Canada](http://ca.news.yahoo.com/egypt-appoints-post-mubarak-interior-minister-20110305-173612-282.html)

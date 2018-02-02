@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/9/prime-minister-of-italy-silvio-berlusconi-brands-disgusting-a-request-by-prosecutors-in-milan-to-have-him-put-on-trial-immediately-in-rela.html)  [JSON](/news/2011/02/9/prime-minister-of-italy-silvio-berlusconi-brands-disgusting-a-request-by-prosecutors-in-milan-to-have-him-put-on-trial-immediately-in-rela.json)  [XML](/news/2011/02/9/prime-minister-of-italy-silvio-berlusconi-brands-disgusting-a-request-by-prosecutors-in-milan-to-have-him-put-on-trial-immediately-in-rela.xml)  
+
 ### [2011-02-9](/news/2011/02/9/index.md)
 
+##### Italian Prime Minister
 # Prime Minister of Italy Silvio Berlusconi brands "disgusting" a request by prosecutors in Milan to have him put on trial immediately in relation to sexual relations with underage prostitutes which allegedly occurred at one of his house parties. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12404554)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/51171000/jpg/_51171755_011221113-1.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/2/at-least-22-people-killed-and-100-injured-in-boi
 
 ### [2017-11-2](/news/2017/11/2/index.md)
 
+##### 2017 NTPC power plant explosion
 # At least 22 people killed and 100 injured in boiler explosion at a coal-fired power plant in Uttar Pradesh state, India. 
 
 

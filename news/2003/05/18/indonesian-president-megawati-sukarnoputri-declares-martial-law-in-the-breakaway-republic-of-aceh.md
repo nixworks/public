@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/18/indonesian-president-megawati-sukarnoputri-declares-martial-law-in-the-breakaway-republic-of-aceh.html)  [JSON](/news/2003/05/18/indonesian-president-megawati-sukarnoputri-declares-martial-law-in-the-breakaway-republic-of-aceh.json)  [XML](/news/2003/05/18/indonesian-president-megawati-sukarnoputri-declares-martial-law-in-the-breakaway-republic-of-aceh.xml)  
+
 ### [2003-05-18](/news/2003/05/18/index.md)
 
+##### Indonesia
 #  Indonesian president Megawati Sukarnoputri declares martial law in the breakaway republic of Aceh.
 
 

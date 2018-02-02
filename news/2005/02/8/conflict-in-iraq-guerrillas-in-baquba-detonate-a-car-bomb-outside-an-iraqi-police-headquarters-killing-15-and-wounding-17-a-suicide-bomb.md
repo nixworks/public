@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/8/conflict-in-iraq-guerrillas-in-baquba-detonate-a-car-bomb-outside-an-iraqi-police-headquarters-killing-15-and-wounding-17-a-suicide-bomb.html)  [JSON](/news/2005/02/8/conflict-in-iraq-guerrillas-in-baquba-detonate-a-car-bomb-outside-an-iraqi-police-headquarters-killing-15-and-wounding-17-a-suicide-bomb.json)  [XML](/news/2005/02/8/conflict-in-iraq-guerrillas-in-baquba-detonate-a-car-bomb-outside-an-iraqi-police-headquarters-killing-15-and-wounding-17-a-suicide-bomb.xml)  
+
 ### [2005-02-8](/news/2005/02/8/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: Guerrillas in Baquba detonate a car bomb outside an Iraqi police headquarters, killing 15 and wounding 17. A suicide bomber in Mosul kills 12 policemen and injures 4 others. In another area of the city, guerrillas fire a dozen mortar rounds at a police station, killing 3 civilians. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Scotsman/AP](http://thescotsman.scotsman.com/international.cfm?id=145912005)
 

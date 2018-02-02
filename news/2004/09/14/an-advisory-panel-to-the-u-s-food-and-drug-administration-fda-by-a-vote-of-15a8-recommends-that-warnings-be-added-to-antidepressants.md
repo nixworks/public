@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/14/an-advisory-panel-to-the-u-s-food-and-drug-administration-fda-by-a-vote-of-15a8-recommends-that-warnings-be-added-to-antidepressants.html)  [JSON](/news/2004/09/14/an-advisory-panel-to-the-u-s-food-and-drug-administration-fda-by-a-vote-of-15a8-recommends-that-warnings-be-added-to-antidepressants.json)  [XML](/news/2004/09/14/an-advisory-panel-to-the-u-s-food-and-drug-administration-fda-by-a-vote-of-15a8-recommends-that-warnings-be-added-to-antidepressants.xml)  
+
 ### [2004-09-14](/news/2004/09/14/index.md)
 
+##### United States Food and Drug Administration
 #  An advisory panel to the U.S. Food and Drug Administration (FDA), by a vote of 15-8, recommends that warnings be added to antidepressants, stating that the medications can be linked to suicidal behavior in some children. The FDA is not required to follow the recommendations of its advisory panels, but usually does so. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [FOX News](http://www.foxnews.com/story/0,2933,132338,00.html)
 2. [Reuters](http://www.reuters.co.uk/newsArticle.jhtml?type=healthNews&storyID=6235839&section=news)

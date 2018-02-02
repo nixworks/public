@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/03/3/at-the-walt-disney-company-s-annual-general-meeting-about-43-of-walt-disney-stockholders-including-several-prominent-pension-funds-vote.html)  [JSON](/news/2004/03/3/at-the-walt-disney-company-s-annual-general-meeting-about-43-of-walt-disney-stockholders-including-several-prominent-pension-funds-vote.json)  [XML](/news/2004/03/3/at-the-walt-disney-company-s-annual-general-meeting-about-43-of-walt-disney-stockholders-including-several-prominent-pension-funds-vote.xml)  
+
 ### [2004-03-3](/news/2004/03/3/index.md)
 
+##### Walt Disney Company
 #  At the Walt Disney Company's Annual General Meeting, about 43% of Walt Disney stockholders, including several prominent pension funds, vote to oppose the re-election of Chairman and CEO Michael Eisner. The board of directors replaces him as Chairman with George J. Mitchell. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2004/03/03/news/companies/disney/index.htm?=)
-2. [TheStreet](http://www.nytimes.com/2004/03/04/business/04DISN.html?ex=1078981200&amp;en=da1851cbc64f2287&amp;ei=5062&amp;partner=GOOGLE)
-2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+2. [TheStreet](https://www.nytimes.com/2004/03/04/business/04DISN.html?ex=1078981200&amp;en=da1851cbc64f2287&amp;ei=5062&amp;partner=GOOGLE)
 
 ### Related:
 

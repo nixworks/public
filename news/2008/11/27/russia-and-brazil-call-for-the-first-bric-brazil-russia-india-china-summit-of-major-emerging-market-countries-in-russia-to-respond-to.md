@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/11/27/russia-and-brazil-call-for-the-first-bric-brazil-russia-india-china-summit-of-major-emerging-market-countries-in-russia-to-respond-to.html)  [JSON](/news/2008/11/27/russia-and-brazil-call-for-the-first-bric-brazil-russia-india-china-summit-of-major-emerging-market-countries-in-russia-to-respond-to.json)  [XML](/news/2008/11/27/russia-and-brazil-call-for-the-first-bric-brazil-russia-india-china-summit-of-major-emerging-market-countries-in-russia-to-respond-to.xml)  
+
 ### [2008-11-27](/news/2008/11/27/index.md)
 
+##### Russia
 #  Russia and Brazil call for the first BRIC (Brazil, Russia, India, China) summit of major emerging market countries in Russia to respond to the financial crisis in 2009. 
 
 Russian President Dmitry Medvedev and his Brazilian counterpart Luiz Inacio Lula da Silva called on Wednesday for the first summit of major emerging market countries known as BRICs in Russia next year.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE4AP5H220081126?feedType=RSS&feedName=worldNews)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20081126&t=2&i=6976392&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-11-26T160015Z_01_BTRE4AP18GU00_RTROPTP_0_BRAZIL)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE4AP5H220081126?feedType=RSS&feedName=worldNews)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20081126&t=2&i=6976392&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-11-26T160015Z_01_BTRE4AP18GU00_RTROPTP_0_BRAZIL)
 
 ### Related:
 

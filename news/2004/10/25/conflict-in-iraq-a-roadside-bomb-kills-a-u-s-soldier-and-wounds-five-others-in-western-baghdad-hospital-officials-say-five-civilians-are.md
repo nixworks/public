@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/10/25/conflict-in-iraq-a-roadside-bomb-kills-a-u-s-soldier-and-wounds-five-others-in-western-baghdad-hospital-officials-say-five-civilians-are.html)  [JSON](/news/2004/10/25/conflict-in-iraq-a-roadside-bomb-kills-a-u-s-soldier-and-wounds-five-others-in-western-baghdad-hospital-officials-say-five-civilians-are.json)  [XML](/news/2004/10/25/conflict-in-iraq-a-roadside-bomb-kills-a-u-s-soldier-and-wounds-five-others-in-western-baghdad-hospital-officials-say-five-civilians-are.xml)  
+
 ### [2004-10-25](/news/2004/10/25/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: A roadside bomb kills a U.S. soldier and wounds five others in western Baghdad. Hospital officials say five civilians are killed from U.S. snipers in the western city of Ramadi. In Kirkuk, a roadside bomb kills an Iraqi civilian. An Estonian soldier is killed and five wounded in a bomb blast in Baghdad. A mortar lands on an Iraqi National Guard checkpoint north of Baghdad, killing an Iraqi civilian. In Mosul, a car bomb kills a tribal leader and two civilians. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3950213.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6601914&pageNumber=0)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6601914&pageNumber=0)
 
 ### Related:
 

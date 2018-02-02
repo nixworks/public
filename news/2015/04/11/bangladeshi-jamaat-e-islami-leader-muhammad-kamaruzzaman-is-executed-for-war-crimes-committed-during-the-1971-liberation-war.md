@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/11/bangladeshi-jamaat-e-islami-leader-muhammad-kamaruzzaman-is-executed-for-war-crimes-committed-during-the-1971-liberation-war.html)  [JSON](/news/2015/04/11/bangladeshi-jamaat-e-islami-leader-muhammad-kamaruzzaman-is-executed-for-war-crimes-committed-during-the-1971-liberation-war.json)  [XML](/news/2015/04/11/bangladeshi-jamaat-e-islami-leader-muhammad-kamaruzzaman-is-executed-for-war-crimes-committed-during-the-1971-liberation-war.xml)  
+
 ### [2015-04-11](/news/2015/04/11/index.md)
 
+##### Bangladesh
 # Bangladeshi Jamaat-e-Islami leader Muhammad Kamaruzzaman is executed for war crimes committed during the 1971 Liberation War. 
 
 Muhammad Kamaruzzaman was found guilty of mass killing, murder, abduction, torture, rape, persecution and abetment of torture in central Mymensingh region.
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.thehindu.com/news/international/execution-of-jamaateislami-leader-muhammad-kamaruzzaman/article7092654.ece)
 1. [Cover Image](http://www.thehindu.com/migration_catalog/article10536535.ece/ALTERNATES/LANDSCAPE_615/THJVN_BANGLADESH_WAR_CRIMES.jpg)

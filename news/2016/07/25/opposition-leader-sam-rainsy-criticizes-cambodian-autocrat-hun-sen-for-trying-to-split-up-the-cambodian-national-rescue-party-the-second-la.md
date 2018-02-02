@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/25/opposition-leader-sam-rainsy-criticizes-cambodi
 
 ### [2016-07-25](/news/2016/07/25/index.md)
 
+##### Sam Rainsy
 # Opposition leader Sam Rainsy criticizes Cambodian autocrat Hun Sen for trying to split up the Cambodian National Rescue Party, the second largest party in parliament. 
 
 Opposition leader-in-exile Sam Rainsy took to the airwaves over the weekend to detail what he said was Prime Minister Hun Sen’s direct involvement in attempts to split the CNRP. In an interview with Radio Free Asia aired on Saturday, Rainsy said that the premier had at various points courted both himself and his deputy, Kem Sokha.

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/11/16/cambodian-opposition-leader-sam-rainsy-delays-his-return-home-from-south-korea-as-tension-comes-to-a-head-between-his-supporters-and-those-o.html)  [JSON](/news/2015/11/16/cambodian-opposition-leader-sam-rainsy-delays-his-return-home-from-south-korea-as-tension-comes-to-a-head-between-his-supporters-and-those-o.json)  [XML](/news/2015/11/16/cambodian-opposition-leader-sam-rainsy-delays-his-return-home-from-south-korea-as-tension-comes-to-a-head-between-his-supporters-and-those-o.xml)  
+
 ### [2015-11-16](/news/2015/11/16/index.md)
 
+##### Cambodia
 # Cambodian opposition leader Sam Rainsy delays his return home from South Korea as tension comes to a head between his supporters and those of Prime Minister Hun Sen. Friday, a Cambodian court issued an arrest warrant related to an old defamation case for which Sam had already received a royal pardon. Today, Parliament stripped him of immunity protection. 
 
 Cambodian opposition leader Sam Rainsy on Monday delayed his return home from South Korea as tension comes to a head between his supporters and those of Prime Minister Hun Sen.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/16/us-cambodia-politics-idUSKCN0T52LH20151116#mUcMM0qBeuwbOPO2.97)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151116&t=2&i=1095464156&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAF163)
+1. [Reuters](https://www.reuters.com/article/2015/11/16/us-cambodia-politics-idUSKCN0T52LH20151116#mUcMM0qBeuwbOPO2.97)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20151116&t=2&i=1095464156&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAF163)
 
 ### Related:
 

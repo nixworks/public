@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/3/the-diamond-jubilee-of-elizabeth-ii-of-the-united-kingdom-reaches-its-peak-with-a-pageant-on-the-river-thames.html)  [JSON](/news/2012/06/3/the-diamond-jubilee-of-elizabeth-ii-of-the-united-kingdom-reaches-its-peak-with-a-pageant-on-the-river-thames.json)  [XML](/news/2012/06/3/the-diamond-jubilee-of-elizabeth-ii-of-the-united-kingdom-reaches-its-peak-with-a-pageant-on-the-river-thames.xml)  
+
 ### [2012-06-3](/news/2012/06/3/index.md)
 
+##### diamond jubilee
 # The Diamond Jubilee of Elizabeth II of the United Kingdom reaches its peak with a pageant on the River Thames. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18312403)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60679000/jpg/_60679661_014931903-1.jpg)

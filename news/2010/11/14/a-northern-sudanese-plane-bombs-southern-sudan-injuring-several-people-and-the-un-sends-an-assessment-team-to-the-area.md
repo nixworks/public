@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/14/a-northern-sudanese-plane-bombs-southern-sudan-injuring-several-people-and-the-un-sends-an-assessment-team-to-the-area.html)  [JSON](/news/2010/11/14/a-northern-sudanese-plane-bombs-southern-sudan-injuring-several-people-and-the-un-sends-an-assessment-team-to-the-area.json)  [XML](/news/2010/11/14/a-northern-sudanese-plane-bombs-southern-sudan-injuring-several-people-and-the-un-sends-an-assessment-team-to-the-area.xml)  
+
 ### [2010-11-14](/news/2010/11/14/index.md)
 
+##### Sudan
 # A northern Sudanese plane bombs Southern Sudan, injuring several people, and the UN sends an assessment team to the area. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11751828)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

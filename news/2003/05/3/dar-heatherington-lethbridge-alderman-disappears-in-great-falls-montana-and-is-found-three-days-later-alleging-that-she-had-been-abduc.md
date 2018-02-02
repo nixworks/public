@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/3/dar-heatherington-lethbridge-alderman-disappears-in-great-falls-montana-and-is-found-three-days-later-alleging-that-she-had-been-abduc.html)  [JSON](/news/2003/05/3/dar-heatherington-lethbridge-alderman-disappears-in-great-falls-montana-and-is-found-three-days-later-alleging-that-she-had-been-abduc.json)  [XML](/news/2003/05/3/dar-heatherington-lethbridge-alderman-disappears-in-great-falls-montana-and-is-found-three-days-later-alleging-that-she-had-been-abduc.xml)  
+
 ### [2003-05-3](/news/2003/05/3/index.md)
 
+##### Dar Heatherington
 #  Dar Heatherington, Lethbridge alderman, disappears in Great Falls, Montana, and is found three days later, alleging that she had been abducted and raped. A series of legal battles later stated that Heatherington had made these charges up, though she maintains her innocence.
 
 

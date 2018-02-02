@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/7/united-states-secretary-of-education-betsy-devos
 
 ### [2017-09-7](/news/2017/09/7/index.md)
 
+##### Presidency of Donald Trump
 # United States Secretary of Education Betsy DeVos plans to change the sexual assault guidelines on college campuses created by the previous administration. 
 
 She says the due-process rights of the accused need to be protected.
@@ -25,5 +26,5 @@ She says the due-process rights of the accused need to be protected.
 1. [The United States Environmental Protection Agency, on behalf of the Trump administration, announces that it will roll back clean energy regulations on greenhouse gas emissions from power plants, imposed under the Obama-era Clean Power Plan. ](/news/2017/10/10/the-united-states-environmental-protection-agency-on-behalf-of-the-trump-administration-announces-that-it-will-roll-back-clean-energy-regu.md) _Context: Obama administration, Presidency of Donald Trump_
 2. [The U.S. Senate confirms, via Vice President Mike Pence's unprecedented tie-breaking vote, Betsy DeVos as Secretary of Education. ](/news/2017/02/7/the-u-s-senate-confirms-via-vice-president-mike-pence-s-unprecedented-tie-breaking-vote-betsy-devos-as-secretary-of-education.md) _Context: Betsy DeVos, United States Secretary of Education_
 3. [The Trump administration revokes Obama-era orders on protection of gender identity under Title IX. ](/news/2017/02/22/the-trump-administration-revokes-obama-era-orders-on-protection-of-gender-identity-under-title-ix.md) _Context: Obama administration, Presidency of Donald Trump_
-4. [The White House announces that Deputy National Security Advisor Dina Powell will leave the Trump administration early 2018. ](/news/2017/12/8/the-white-house-announces-that-deputy-national-security-advisor-dina-powell-will-leave-the-trump-administration-early-2018.md) _Context: Presidency of Donald Trump_
-5. [U.S. President Donald Trump commutes the prison sentence of Sholom Rubashkin, who in 2009 was sentenced to 27 years in prison for bank fraud and money laundering. ](/news/2017/12/20/u-s-president-donald-trump-commutes-the-prison-sentence-of-sholom-rubashkin-who-in-2009-was-sentenced-to-27-years-in-prison-for-bank-fraud.md) _Context: Presidency of Donald Trump_
+4. [Andrew McCabe resigns as Deputy Director of the Federal Bureau of Investigation amid a dispute with President Donald Trump. ](/news/2018/01/29/andrew-mccabe-resigns-as-deputy-director-of-the-federal-bureau-of-investigation-amid-a-dispute-with-president-donald-trump.md) _Context: Presidency of Donald Trump_
+5. [The United States will pay Boeing nearly US$24 million to replace two of the five 27-year-old chiller units on Air Force One, customized to carry 70 cubic feet of refrigerated storage for about 3,000 meals. ](/news/2018/01/27/the-united-states-will-pay-boeing-nearly-us-24-million-to-replace-two-of-the-five-27-year-old-chiller-units-on-air-force-one-customized-to.md) _Context: Presidency of Donald Trump_

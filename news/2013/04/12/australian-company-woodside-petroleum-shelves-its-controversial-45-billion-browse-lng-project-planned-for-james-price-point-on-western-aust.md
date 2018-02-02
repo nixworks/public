@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/12/australian-company-woodside-petroleum-shelves-its-controversial-45-billion-browse-lng-project-planned-for-james-price-point-on-western-aust.html)  [JSON](/news/2013/04/12/australian-company-woodside-petroleum-shelves-its-controversial-45-billion-browse-lng-project-planned-for-james-price-point-on-western-aust.json)  [XML](/news/2013/04/12/australian-company-woodside-petroleum-shelves-its-controversial-45-billion-browse-lng-project-planned-for-james-price-point-on-western-aust.xml)  
+
 ### [2013-04-12](/news/2013/04/12/index.md)
 
+##### Australia
 # Australian company Woodside Petroleum shelves its controversial $45 billion Browse LNG project planned for James Price Point on Western Australia's Dampier Peninsula. 
 
 Woodside is looking at other options after shelving its $45 billion Browse LNG development near Broome.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-04-12/woodside-looking-at-alternative-browse-options/4625064)
 1. [Cover Image](http://www.abc.net.au/news/image/4624672-1x1-700x700.jpg)

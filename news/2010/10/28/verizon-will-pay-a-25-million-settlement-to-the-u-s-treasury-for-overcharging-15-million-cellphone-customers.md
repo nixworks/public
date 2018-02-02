@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/10/28/verizon-will-pay-a-25-million-settlement-to-the-u-s-treasury-for-overcharging-15-million-cellphone-customers.html)  [JSON](/news/2010/10/28/verizon-will-pay-a-25-million-settlement-to-the-u-s-treasury-for-overcharging-15-million-cellphone-customers.json)  [XML](/news/2010/10/28/verizon-will-pay-a-25-million-settlement-to-the-u-s-treasury-for-overcharging-15-million-cellphone-customers.xml)  
+
 ### [2010-10-28](/news/2010/10/28/index.md)
 
+##### Verizon Wireless
 # Verizon will pay a $25 million settlement to the U.S. Treasury for overcharging 15 million cellphone customers. 
 
 The top U.S. mobile service, Verizon Wireless, has agreed to pay the U.S. Treasury $25 million on top of more than $52 million in refunds to consumers for overcharging them, the U.S. regulator said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE69R4X920101028)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/idUSTRE69R4X920101028)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

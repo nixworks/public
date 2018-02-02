@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/1/japan-provokes-protests-from-its-people-by-restarting-the-first-nuclear-reactor-since-last-year-s-fukushima-daiichi-nuclear-disaster.html)  [JSON](/news/2012/07/1/japan-provokes-protests-from-its-people-by-restarting-the-first-nuclear-reactor-since-last-year-s-fukushima-daiichi-nuclear-disaster.json)  [XML](/news/2012/07/1/japan-provokes-protests-from-its-people-by-restarting-the-first-nuclear-reactor-since-last-year-s-fukushima-daiichi-nuclear-disaster.xml)  
+
 ### [2012-07-1](/news/2012/07/1/index.md)
 
+##### Japan
 # Japan provokes protests from its people by restarting the first nuclear reactor since last year's Fukushima Daiichi nuclear disaster. 
 
 Hundreds of protesters gather as Japan restarts the first nuclear reactor since the crisis at Fukushima last year.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18662892)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60949000/jpg/_60949350_jex_1437035_de27-1.jpg)

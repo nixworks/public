@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/23/papua-new-guinea-police-remove-40-refugees-from
 
 ### [2017-11-23](/news/2017/11/23/index.md)
 
+##### Immigration to Australia
 # Papua New Guinea Police remove 40 refugees from the closed Manus Regional Processing Centre, and over 300 refugees remain. 
 
 About 40 people are moved from a Manus Island centre, but more than 300 others are refusing to leave.

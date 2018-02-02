@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/6/robert-mugabe-morgan-tsvangirai-and-arthur-mutambara-in-a-rare-display-of-solidarity-call-for-an-end-to-international-sanctions-on-zimbab.html)  [JSON](/news/2010/05/6/robert-mugabe-morgan-tsvangirai-and-arthur-mutambara-in-a-rare-display-of-solidarity-call-for-an-end-to-international-sanctions-on-zimbab.json)  [XML](/news/2010/05/6/robert-mugabe-morgan-tsvangirai-and-arthur-mutambara-in-a-rare-display-of-solidarity-call-for-an-end-to-international-sanctions-on-zimbab.xml)  
+
 ### [2010-05-6](/news/2010/05/6/index.md)
 
+##### Robert Mugabe
 # Robert Mugabe, Morgan Tsvangirai and Arthur Mutambara, in a rare display of solidarity, call for an end to international sanctions on Zimbabwe and instead request investment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8665412.stm)
 

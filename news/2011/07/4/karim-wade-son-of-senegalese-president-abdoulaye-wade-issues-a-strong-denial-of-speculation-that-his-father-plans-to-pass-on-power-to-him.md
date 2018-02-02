@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/4/karim-wade-son-of-senegalese-president-abdoulaye-wade-issues-a-strong-denial-of-speculation-that-his-father-plans-to-pass-on-power-to-him.html)  [JSON](/news/2011/07/4/karim-wade-son-of-senegalese-president-abdoulaye-wade-issues-a-strong-denial-of-speculation-that-his-father-plans-to-pass-on-power-to-him.json)  [XML](/news/2011/07/4/karim-wade-son-of-senegalese-president-abdoulaye-wade-issues-a-strong-denial-of-speculation-that-his-father-plans-to-pass-on-power-to-him.xml)  
+
 ### [2011-07-4](/news/2011/07/4/index.md)
 
+##### Karim Wade
 # Karim Wade, son of Senegalese president Abdoulaye Wade, issues a strong denial of speculation that his father plans to pass on power to him as if he were a monarch. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-14020986)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53637000/jpg/_53637262_senegalafp.jpg)

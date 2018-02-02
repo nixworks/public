@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/13/barack-obama-the-president-of-the-united-states-presents-16-people-with-the-national-medal-of-arts-at-the-white-house-including-actor-al-p.html)  [JSON](/news/2012/02/13/barack-obama-the-president-of-the-united-states-presents-16-people-with-the-national-medal-of-arts-at-the-white-house-including-actor-al-p.json)  [XML](/news/2012/02/13/barack-obama-the-president-of-the-united-states-presents-16-people-with-the-national-medal-of-arts-at-the-white-house-including-actor-al-p.xml)  
+
 ### [2012-02-13](/news/2012/02/13/index.md)
 
+##### Barack Obama
 # Barack Obama, the President of the United States, presents 16 people with the National Medal of Arts at the White House including actor Al Pacino, country music singer Mel Tillis and former United States Poet Laureate Rita Dove. 
 
 US actor Al Pacino receives the National Medal of Arts at a White House ceremony that sees 16 other individuals and organisations honoured.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17025115)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58489000/jpg/_58489934_pacino1_464getty.jpg)

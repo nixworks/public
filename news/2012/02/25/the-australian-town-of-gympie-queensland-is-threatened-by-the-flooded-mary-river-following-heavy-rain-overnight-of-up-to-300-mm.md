@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/25/the-australian-town-of-gympie-queensland-is-threatened-by-the-flooded-mary-river-following-heavy-rain-overnight-of-up-to-300-mm.html)  [JSON](/news/2012/02/25/the-australian-town-of-gympie-queensland-is-threatened-by-the-flooded-mary-river-following-heavy-rain-overnight-of-up-to-300-mm.json)  [XML](/news/2012/02/25/the-australian-town-of-gympie-queensland-is-threatened-by-the-flooded-mary-river-following-heavy-rain-overnight-of-up-to-300-mm.xml)  
+
 ### [2012-02-25](/news/2012/02/25/index.md)
 
+##### Australia
 # The Australian town of Gympie, Queensland is threatened by the flooded Mary River following heavy rain overnight of up to 300 mm. 
 
 PREMIER Anna Bligh says authorities are watching the Mary River in southern Queensland with concern.
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/breaking-news/national/mary-river-could-flood-gympie/story-e6frfku9-1226281399996)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

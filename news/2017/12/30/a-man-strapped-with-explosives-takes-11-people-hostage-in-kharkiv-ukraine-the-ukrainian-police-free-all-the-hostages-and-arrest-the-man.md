@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/30/a-man-strapped-with-explosives-takes-11-people-
 
 ### [2017-12-30](/news/2017/12/30/index.md)
 
+##### Ukrainian crisis
 # A man strapped with explosives takes 11 people hostage in Kharkiv, Ukraine. The Ukrainian police free all the hostages and arrest the man. 
 
 Ukrainian police on Saturday freed the remaining hostages being held in a post office by an man believed to be strapped with explosives, and arrested the hostage taker after an hours-long standoff in the city of Kharkiv.

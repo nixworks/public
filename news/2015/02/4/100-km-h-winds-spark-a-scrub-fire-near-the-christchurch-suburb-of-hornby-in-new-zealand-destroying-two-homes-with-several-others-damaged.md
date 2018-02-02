@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/4/100-km-h-winds-spark-a-scrub-fire-near-the-christchurch-suburb-of-hornby-in-new-zealand-destroying-two-homes-with-several-others-damaged.html)  [JSON](/news/2015/02/4/100-km-h-winds-spark-a-scrub-fire-near-the-christchurch-suburb-of-hornby-in-new-zealand-destroying-two-homes-with-several-others-damaged.json)  [XML](/news/2015/02/4/100-km-h-winds-spark-a-scrub-fire-near-the-christchurch-suburb-of-hornby-in-new-zealand-destroying-two-homes-with-several-others-damaged.xml)  
+
 ### [2015-02-4](/news/2015/02/4/index.md)
 
+##### 100 km/h winds
 # 100 km-h winds spark a scrub fire near the Christchurch suburb of Hornby in New Zealand destroying two homes with several others damaged. 
 
 At least five homes are damaged and 20 ha of land razed as fire swept through rural Christchurch.
 
 
-### Source:
+### Sources:
 
 1. [Stuff](http://www.stuff.co.nz/national/65774589/enormous-blaze-in-west-christchurch)
 1. [Cover Image](http://www.stuff.co.nz/etc/designs/ffx/nz/stuff/social-media-logos/stuff-200x200.png)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/16/ecuador-issues-a-volcano-alert-for-tungurahua-covering-nearby-tungurahua-and-chimborazo-provinces.html)  [JSON](/news/2012/12/16/ecuador-issues-a-volcano-alert-for-tungurahua-covering-nearby-tungurahua-and-chimborazo-provinces.json)  [XML](/news/2012/12/16/ecuador-issues-a-volcano-alert-for-tungurahua-covering-nearby-tungurahua-and-chimborazo-provinces.xml)  
+
 ### [2012-12-16](/news/2012/12/16/index.md)
 
+##### Ecuador
 # Ecuador issues a volcano alert for Tungurahua covering nearby Tungurahua and Chimborazo provinces. 
 
 ECUADOR has issued an orange alert -- the second-highest warning level -- for towns near the Tungurahua volcano, as its level of activity rose, civil defence officials say.
 
 
-### Source:
+### Sources:
 
 1. [AAP via News Limited](http://www.news.com.au/breaking-news/world/ecuador-declares-volcano-alert/story-e6frfkui-1226538227088)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

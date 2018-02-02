@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/11/heavy-rain-in-southwest-china-causes-floods-and-landslides-with-at-least-9-people-dead-and-62-missing.html)  [JSON](/news/2013/07/11/heavy-rain-in-southwest-china-causes-floods-and-landslides-with-at-least-9-people-dead-and-62-missing.json)  [XML](/news/2013/07/11/heavy-rain-in-southwest-china-causes-floods-and-landslides-with-at-least-9-people-dead-and-62-missing.xml)  
+
 ### [2013-07-11](/news/2013/07/11/index.md)
 
+##### China
 # Heavy rain in southwest China causes floods and landslides with at least 9 people dead and 62 missing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/china-rain-landslides/741264.html)
 

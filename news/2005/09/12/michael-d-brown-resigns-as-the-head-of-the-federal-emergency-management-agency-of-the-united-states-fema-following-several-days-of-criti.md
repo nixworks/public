@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/12/michael-d-brown-resigns-as-the-head-of-the-federal-emergency-management-agency-of-the-united-states-fema-following-several-days-of-criti.html)  [JSON](/news/2005/09/12/michael-d-brown-resigns-as-the-head-of-the-federal-emergency-management-agency-of-the-united-states-fema-following-several-days-of-criti.json)  [XML](/news/2005/09/12/michael-d-brown-resigns-as-the-head-of-the-federal-emergency-management-agency-of-the-united-states-fema-following-several-days-of-criti.xml)  
+
 ### [2005-09-12](/news/2005/09/12/index.md)
 
+##### Michael Brown
 #  Michael D. Brown resigns as the head of the Federal Emergency Management Agency of the United States (FEMA) following several days of criticism concerning his handling of the disaster following Hurricane Katrina, and allegations that his official biography is misleading and contains unsubstantiated claims. 
 
 President Bush has tapped a federal official with three decades of firefighting experience and a background in emergency management to be the new face of his administration&#8217;s response to Hurricane Katrina and other natural disasters.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://msnbc.msn.com/id/9315184/)
 1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Photos/050912/050912_paulison_vmed.standard.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/27/government-forces-push-to-capture-a-houthi-encl
 
 ### [2016-12-27](/news/2016/12/27/index.md)
 
+##### Yemeni Civil War
 # Government forces push to capture a Houthi enclave in Bayhan District, on the border between Shabwa and Marib provinces, resulting at least 28 Houthi militants and 12 Yemeni soldiers killed. 
 
 At least 28 Huthi insurgents and 12 Yemeni soldiers were killed in clashes in the southern Yemen.

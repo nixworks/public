@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/16/in-cambodia-former-khmer-rouge-commander-chhouk-rin-loses-his-final-appeal-against-a-murder-conviction-in-1994-he-ordered-his-soldiers-t.html)  [JSON](/news/2005/02/16/in-cambodia-former-khmer-rouge-commander-chhouk-rin-loses-his-final-appeal-against-a-murder-conviction-in-1994-he-ordered-his-soldiers-t.json)  [XML](/news/2005/02/16/in-cambodia-former-khmer-rouge-commander-chhouk-rin-loses-his-final-appeal-against-a-murder-conviction-in-1994-he-ordered-his-soldiers-t.xml)  
+
 ### [2005-02-16](/news/2005/02/16/index.md)
 
+##### Cambodia
 #  In Cambodia, former Khmer Rouge commander Chhouk Rin loses his final appeal against a murder conviction. In 1994, he ordered his soldiers to attack a train, and as a result, three backpackers from Australia, Britain, and France were killed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4269517.stm)
 2. [Reuters](http://today.reuters.co.uk/News/newsArticle.aspx?type=worldNews&storyID=2005-02-16T083245Z_01_JON630626_RTRUKOC_0_CRIME-CAMBODIA-KHMER-ROUGE.xml)

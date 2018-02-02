@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/13/sir-christopher-rose-is-to-investigate-reports-that-surveillance-tapes-recorded-by-uk-police-spy-mark-kennedy-were-suppressed-by-prosecutors.html)  [JSON](/news/2011/07/13/sir-christopher-rose-is-to-investigate-reports-that-surveillance-tapes-recorded-by-uk-police-spy-mark-kennedy-were-suppressed-by-prosecutors.json)  [XML](/news/2011/07/13/sir-christopher-rose-is-to-investigate-reports-that-surveillance-tapes-recorded-by-uk-police-spy-mark-kennedy-were-suppressed-by-prosecutors.xml)  
+
 ### [2011-07-13](/news/2011/07/13/index.md)
 
+##### Sir Christopher Rose
 # Sir Christopher Rose is to investigate reports that surveillance tapes recorded by UK police spy Mark Kennedy were suppressed by prosecutors. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/environment/2011/jul/13/mark-kennedy-secret-tapes-inquiry)
 

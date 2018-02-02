@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/16/a-lightning-bolt-kills-five-children-at-their-school-in-bamali-cameroon-as-they-are-preparing-to-begin-their-school-day.html)  [JSON](/news/2009/09/16/a-lightning-bolt-kills-five-children-at-their-school-in-bamali-cameroon-as-they-are-preparing-to-begin-their-school-day.json)  [XML](/news/2009/09/16/a-lightning-bolt-kills-five-children-at-their-school-in-bamali-cameroon-as-they-are-preparing-to-begin-their-school-day.xml)  
+
 ### [2009-09-16](/news/2009/09/16/index.md)
 
+##### Bamali
 #  A lightning bolt kills five children at their school in Bamali, Cameroon, as they are preparing to begin their school day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090916224016183C394875)
 

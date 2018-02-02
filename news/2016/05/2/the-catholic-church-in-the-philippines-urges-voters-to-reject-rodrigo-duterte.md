@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/2/the-catholic-church-in-the-philippines-urges-vot
 
 ### [2016-05-2](/news/2016/05/2/index.md)
 
+##### Philippine presidential election, 2016
 # The Catholic Church in the Philippines urges voters to reject Rodrigo Duterte. 
 
 CATHOLIC bishops issued a pastoral letter Sunday that, without mentioning the candidates name, exhorted the faithful not to vote for presidential frontrunner Davao City Mayor Rodrigo Duterte.

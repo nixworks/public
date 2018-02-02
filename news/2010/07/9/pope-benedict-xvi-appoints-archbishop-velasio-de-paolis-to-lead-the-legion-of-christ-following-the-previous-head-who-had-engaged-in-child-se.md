@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/9/pope-benedict-xvi-appoints-archbishop-velasio-de-paolis-to-lead-the-legion-of-christ-following-the-previous-head-who-had-engaged-in-child-se.html)  [JSON](/news/2010/07/9/pope-benedict-xvi-appoints-archbishop-velasio-de-paolis-to-lead-the-legion-of-christ-following-the-previous-head-who-had-engaged-in-child-se.json)  [XML](/news/2010/07/9/pope-benedict-xvi-appoints-archbishop-velasio-de-paolis-to-lead-the-legion-of-christ-following-the-previous-head-who-had-engaged-in-child-se.xml)  
+
 ### [2010-07-9](/news/2010/07/9/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI appoints Archbishop Velasio de Paolis to lead the Legion of Christ following the previous head who had engaged in child sex abuse and a number of other crimes throughout his career. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Asia One](http://news.asiaone.com/News/AsiaOne%2BNews/World/Story/A1Story20100709-226189.html)
 2. [IPS](http://www.ipsnews.net/news.asp?idnews=51302)
@@ -16,4 +20,4 @@
 2. [ Pope Benedict XVI selects Archbishop Timothy Dolan to succeed Cardinal Edward Egan as New York's Archdiocese. ](/news/2009/02/23/pope-benedict-xvi-selects-archbishop-timothy-dolan-to-succeed-cardinal-edward-egan-as-new-york-s-archdiocese.md) _Context: Archbishop, Pope Benedict XVI_
 3. [ Pope Benedict XVI rescinds the excommunications of four bishops consecrated in 1988 by French Archbishop Marcel Lefebvre. ](/news/2009/01/24/pope-benedict-xvi-rescinds-the-excommunications-of-four-bishops-consecrated-in-1988-by-french-archbishop-marcel-lefebvre.md) _Context: Archbishop, Pope Benedict XVI_
 4. [ Pope Benedict XVI will rescind the excommunications of four bishops consecrated in 1988 by French Archbishop Marcel Lefebvre. ](/news/2009/01/22/pope-benedict-xvi-will-rescind-the-excommunications-of-four-bishops-consecrated-in-1988-by-french-archbishop-marcel-lefebvre.md) _Context: Archbishop, Pope Benedict XVI_
-5. [ Zambian archbishop Emmanuel Milingo is excommunicated from the Roman Catholic Church by Pope Benedict XVI. ](/news/2006/09/26/zambian-archbishop-emmanuel-milingo-is-excommunicated-from-the-roman-catholic-church-by-pope-benedict-xvi.md) _Context: Archbishop, Pope Benedict XVI_
+5. [ Marcial Maciel, Mexican founder of Roman Catholic order of Legion of Christ resigns due to his age. The stepping down coincides with the Vatican investigation about claims that he had sexually abused former members. ](/news/2005/01/25/marcial-maciel-mexican-founder-of-roman-catholic-order-of-legion-of-christ-resigns-due-to-his-age-the-stepping-down-coincides-with-the-va.md) _Context: Legion of Christ, previous head_

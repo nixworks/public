@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/12/in-malta-the-malta-labour-party-makes-a-big-victory-in-the-local-council-elections.html)  [JSON](/news/2006/03/12/in-malta-the-malta-labour-party-makes-a-big-victory-in-the-local-council-elections.json)  [XML](/news/2006/03/12/in-malta-the-malta-labour-party-makes-a-big-victory-in-the-local-council-elections.xml)  
+
 ### [2006-03-12](/news/2006/03/12/index.md)
 
+##### Malta
 #  In Malta, the Malta Labour Party makes a big victory in the Local Council Elections 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times of Malta](http://www.timesofmalta.com/core/article.php?id=217541)
 

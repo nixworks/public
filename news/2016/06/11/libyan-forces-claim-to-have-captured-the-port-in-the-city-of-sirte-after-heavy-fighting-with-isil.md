@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/11/libyan-forces-claim-to-have-captured-the-port-i
 
 ### [2016-06-11](/news/2016/06/11/index.md)
 
+##### Libyan Civil War (2014-present)
 # Libyan forces claim to have captured the port in the city of Sirte after heavy fighting with ISIL. 
 
 Libyan forces say they have recaptured the port in the city of Sirte, after fierce fighting with militants from so-called Islamic State.

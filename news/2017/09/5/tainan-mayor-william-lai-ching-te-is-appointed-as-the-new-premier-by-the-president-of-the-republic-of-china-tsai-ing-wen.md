@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/5/tainan-mayor-william-lai-ching-te-is-appointed-a
 
 ### [2017-09-5](/news/2017/09/5/index.md)
 
+##### Politics of Taiwan
 # Tainan Mayor William Lai Ching-te is appointed as the new Premier by the President of the Republic of China Tsai Ing-wen. 
 
 

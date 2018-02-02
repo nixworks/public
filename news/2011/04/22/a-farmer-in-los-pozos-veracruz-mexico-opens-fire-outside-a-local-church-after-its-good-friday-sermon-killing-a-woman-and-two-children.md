@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2011/04/22/a-farmer-in-los-pozos-veracruz-mexico-opens-fire-outside-a-local-church-after-its-good-friday-sermon-killing-a-woman-and-two-children.html)  [JSON](/news/2011/04/22/a-farmer-in-los-pozos-veracruz-mexico-opens-fire-outside-a-local-church-after-its-good-friday-sermon-killing-a-woman-and-two-children.json)  [XML](/news/2011/04/22/a-farmer-in-los-pozos-veracruz-mexico-opens-fire-outside-a-local-church-after-its-good-friday-sermon-killing-a-woman-and-two-children.xml)  
+
 ### [2011-04-22](/news/2011/04/22/index.md)
 
+##### Los Pozos
 # A farmer in Los Pozos, Veracruz, Mexico opens fire outside a local church after its Good Friday sermon, killing a woman and two children. "[http:--www.wlos.com-template-inews_wire-wires.international-3f78254a-www.wlos.com.shtml (WLOS)]"
 
 

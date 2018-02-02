@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/30/somali-pirates-hijack-8-indian-vessels-abducting-120-sailors-biggest-abduction-count-till-date-off-the-coast-of-kismayo.html)  [JSON](/news/2010/03/30/somali-pirates-hijack-8-indian-vessels-abducting-120-sailors-biggest-abduction-count-till-date-off-the-coast-of-kismayo.json)  [XML](/news/2010/03/30/somali-pirates-hijack-8-indian-vessels-abducting-120-sailors-biggest-abduction-count-till-date-off-the-coast-of-kismayo.xml)  
+
 ### [2010-03-30](/news/2010/03/30/index.md)
 
+##### Somali pirates
 # Somali pirates hijack 8 Indian vessels abducting 120 sailors, biggest abduction count till date, off the coast of Kismayo. 
 
 In their biggest hijacking ever, Somali pirates captured 8 boats taking nearly 120 Indian sailors hostage. The sailors, on their way to Dubai, had anchored last in Kismayo to load cargo. They belong to Kutch and Saurashtra regions of Gujarat.
 
 
-### Source:
+### Sources:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/india/Somali-pirates-capture-120-Indian-sailors/articleshow/5741365.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/5737442.cms)

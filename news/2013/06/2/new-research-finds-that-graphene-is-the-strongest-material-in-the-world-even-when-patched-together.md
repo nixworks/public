@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/2/new-research-finds-that-graphene-is-the-strongest-material-in-the-world-even-when-patched-together.html)  [JSON](/news/2013/06/2/new-research-finds-that-graphene-is-the-strongest-material-in-the-world-even-when-patched-together.json)  [XML](/news/2013/06/2/new-research-finds-that-graphene-is-the-strongest-material-in-the-world-even-when-patched-together.xml)  
+
 ### [2013-06-2](/news/2013/06/2/index.md)
 
+##### graphene
 # New research finds that graphene is the strongest material in the world, even when patched together. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Science Recorder](http://www.sciencerecorder.com/news/graphene-even-if-stitched-together-is-strongest-material-in-the-world/)
 

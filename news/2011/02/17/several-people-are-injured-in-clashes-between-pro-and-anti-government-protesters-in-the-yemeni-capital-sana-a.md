@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2011/02/17/several-people-are-injured-in-clashes-between-pro-and-anti-government-protesters-in-the-yemeni-capital-sana-a.html)  [JSON](/news/2011/02/17/several-people-are-injured-in-clashes-between-pro-and-anti-government-protesters-in-the-yemeni-capital-sana-a.json)  [XML](/news/2011/02/17/several-people-are-injured-in-clashes-between-pro-and-anti-government-protesters-in-the-yemeni-capital-sana-a.xml)  
+
 ### [2011-02-17](/news/2011/02/17/index.md)
 
+##### Yemen
 # Several people are injured in clashes between pro and anti-government protesters in the Yemeni capital Sana'a. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hmpeRJDgmkTSYVngEM4jxjw71EHw?docId=CNG.bd33dceeaf0dde60be06b6657efd857c.91)
+
+### Changes:
+
+1. [2011 Yemeni protests:Several people are injured in clashes between pro and anti-government protesters in the Yemeni capital Sana'a. ](/news/2011/02/17/2011-yemeni-protests-pseveral-people-are-injured-in-clashes-between-pro-and-anti-government-protesters-in-the-yemeni-capital-sana-a.md) _2017-08-25 03:32:15 (First version)_
+2. [2011 Yemeni protests:: Several people are injured in clashes between pro and anti-government protesters in the Yemeni capital Sana'a. ](/news/2011/02/17/2011-yemeni-protests-several-people-are-injured-in-clashes-between-pro-and-anti-government-protesters-in-the-yemeni-capital-sana-a.md) _2017-08-27 03:32:22 (Update)_
+2. [Several people are injured in clashes between pro and anti-government protesters in the Yemeni capital Sana'a. ](/news/2011/02/17/several-people-are-injured-in-clashes-between-pro-and-anti-government-protesters-in-the-yemeni-capital-sana-a.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [Saudi Arabian-led air raids on the Yemeni capital Sana'a resume after a truce ends. ](/news/2016/10/23/saudi-arabian-led-air-raids-on-the-yemeni-capital-sana-a-resume-after-a-truce-ends.md) _Context: Sana'a, Yemen_
 4. [At least 14 people are killed after Saudi-led coalition airstrikes hit a food factory in Yemen's capital Sana'a. The airstrikes come just days after the suspension of inconclusive peace talks in Kuwait. ](/news/2016/08/9/at-least-14-people-are-killed-after-saudi-led-coalition-airstrikes-hit-a-food-factory-in-yemen-s-capital-sana-a-the-airstrikes-come-just-da.md) _Context: Sana'a, Yemen_
 5. [At least 30 people are killed in an airstrike on a market near the Yemeni capital Sana'a. ](/news/2016/02/27/at-least-30-people-are-killed-in-an-airstrike-on-a-market-near-the-yemeni-capital-sana-a.md) _Context: Sana'a, Yemen_
-
-### Changes:
-
-1. [2011 Yemeni protests:Several people are injured in clashes between pro and anti-government protesters in the Yemeni capital Sana'a. ](/news/2011/02/17/2011-yemeni-protests-pseveral-people-are-injured-in-clashes-between-pro-and-anti-government-protesters-in-the-yemeni-capital-sana-a.md) _2017-08-25 03:32:15 (First version)_
-2. [2011 Yemeni protests:: Several people are injured in clashes between pro and anti-government protesters in the Yemeni capital Sana'a. ](/news/2011/02/17/2011-yemeni-protests-several-people-are-injured-in-clashes-between-pro-and-anti-government-protesters-in-the-yemeni-capital-sana-a.md) _2017-08-27 03:32:22 (Update)_
-2. [Several people are injured in clashes between pro and anti-government protesters in the Yemeni capital Sana'a. ](/news/2011/02/17/several-people-are-injured-in-clashes-between-pro-and-anti-government-protesters-in-the-yemeni-capital-sana-a.md) _(Current version)_

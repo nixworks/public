@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/09/9/vice-president-raaol-sendic-of-uruguay-resigns-amid-a-graft-investigation.html)  [JSON](/news/2017/09/9/vice-president-raaol-sendic-of-uruguay-resigns-amid-a-graft-investigation.json)  [XML](/news/2017/09/9/vice-president-raaol-sendic-of-uruguay-resigns-amid-a-graft-investigation.xml)  
+
 ### [2017-09-9](/news/2017/09/9/index.md)
 
+##### Politics of Uruguay
 # Vice President Raul Sendic of Uruguay resigns amid a graft investigation. 
 
 Uruguay’s vice president quit on Saturday, hours before a planned meeting of party leaders to discuss possible misuse of his state-run oil company’s credit card.
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg](https://www.bloomberg.com/news/articles/2017-09-09/uruguay-vp-quits-ahead-of-party-meeting-on-alleged-funds-misuse)
 1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYM6auo4t00I/v0/1200x795.jpg)

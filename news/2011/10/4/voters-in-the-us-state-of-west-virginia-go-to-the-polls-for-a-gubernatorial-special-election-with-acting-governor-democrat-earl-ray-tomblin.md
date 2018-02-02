@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/4/voters-in-the-us-state-of-west-virginia-go-to-the-polls-for-a-gubernatorial-special-election-with-acting-governor-democrat-earl-ray-tomblin.html)  [JSON](/news/2011/10/4/voters-in-the-us-state-of-west-virginia-go-to-the-polls-for-a-gubernatorial-special-election-with-acting-governor-democrat-earl-ray-tomblin.json)  [XML](/news/2011/10/4/voters-in-the-us-state-of-west-virginia-go-to-the-polls-for-a-gubernatorial-special-election-with-acting-governor-democrat-earl-ray-tomblin.xml)  
+
 ### [2011-10-4](/news/2011/10/4/index.md)
 
+##### US state
 # Voters in the US state of West Virginia go to the polls for a gubernatorial special election with acting Governor, Democrat Earl Ray Tomblin, being elected as Governor of West Virginia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://politicalticker.blogs.cnn.com/2011/10/03/west-virginia-gubernatorial-election-in-national-spotlight/)
 2. [Charleston Gazette](http://www.wvgazette.com/News/201110042458)
@@ -14,7 +18,7 @@
 ### Related:
 
 1. [West Virginia Governor Earl Ray Tomblin declares a state of emergency for 100,000 West Virginia American Water customers in five counties (Boone, Lincoln, Kanawha, Jackson, and Putnam) because of a spill of 4-methylcyclohexanemethanol into the Elk River. ](/news/2014/01/9/west-virginia-governor-earl-ray-tomblin-declares-a-state-of-emergency-for-100-000-west-virginia-american-water-customers-in-five-counties-b.md) _Context: Earl Ray Tomblin, West Virginia_
-2. [Democratic Robert Byrd of West Virginia, President pro tempore of the United States Senate and the longest serving member its history, dies at age 92 in Washington, D.C. ](/news/2010/06/28/democratic-robert-byrd-of-west-virginia-president-pro-tempore-of-the-united-states-senate-and-the-longest-serving-member-its-history-dies.md) _Context: Democratic, West Virginia_
+2. [Democratic Robert Byrd of West Virginia, President pro tempore of the United States Senate and the longest serving member its history, dies at age 92 in Washington, D.C. ](/news/2010/06/28/democratic-robert-byrd-of-west-virginia-president-pro-tempore-of-the-united-states-senate-and-the-longest-serving-member-its-history-dies.md) _Context: Democrat, West Virginia_
 3. [ Governor of West Virginia Joe Manchin asks for a halt in coal mining following two more coal mining deaths in the state that saw fourteen people die in coal mining disasters in January. ](/news/2006/02/1/governor-of-west-virginia-joe-manchin-asks-for-a-halt-in-coal-mining-following-two-more-coal-mining-deaths-in-the-state-that-saw-fourteen-p.md) _Context: Governor of West Virginia, West Virginia_
-4. [American film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by a report in "The New York Times" that he had settled eight sexual harassment claims made over three decades. Multiple Democratic recipients of Weinstein's political donations give the funds to women's charities. ](/news/2017/10/6/american-film-producer-harvey-weinstein-including-pulp-fiction-clerks-the-crying-game-and-sex-lies-and-videotape-answers-alle.md) _Context: Democratic_
-5. [President Donald Trump, siding with Democrats, reaches a deal with congressional leaders of both parties to extend the U.S. debt limit and fund the federal government until Dec. 15, as well as provide Harvey disaster relief. ](/news/2017/09/6/president-donald-trump-siding-with-democrats-reaches-a-deal-with-congressional-leaders-of-both-parties-to-extend-the-u-s-debt-limit-and-f.md) _Context: Democratic_
+4. [A drawing is held to resolve a tied election between Democrat Shelly Simonds and Republican David Yancey, with Yancey being randomly chosen as the winner. ](/news/2018/01/4/a-drawing-is-held-to-resolve-a-tied-election-between-democrat-shelly-simonds-and-republican-david-yancey-with-yancey-being-randomly-chosen.md) _Context: Democrat_
+5. [An Amtrak train carrying Republican lawmakers to a retreat in West Virginia collides with a garbage truck in Crozet, Virginia. At least one person dies and one person is seriously injured. The White House states that there are no serious injuries among members of Congress or their staff. ](/news/2018/01/31/an-amtrak-train-carrying-republican-lawmakers-to-a-retreat-in-west-virginia-collides-with-a-garbage-truck-in-crozet-virginia-at-least-one.md) _Context: West Virginia_

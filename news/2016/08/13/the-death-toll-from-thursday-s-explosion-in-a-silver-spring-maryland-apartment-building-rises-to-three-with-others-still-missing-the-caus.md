@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/13/the-death-toll-from-thursday-s-explosion-in-a-s
 
 ### [2016-08-13](/news/2016/08/13/index.md)
 
+##### Silver Spring, Maryland
 # The death toll from Thursday's explosion in a Silver Spring, Maryland, apartment building rises to three with others still missing. The cause of the blast has not yet been officially determined. 
 
 Another body has been found after an explosion and fire ripped through at a Maryland apartment complex outside Washington, D.C. last week, bringing the total of known deaths to four with eight people still missing, authorities said on Sunday.

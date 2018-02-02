@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/27/judge-kimba-wood-of-the-united-states-district-court-for-the-southern-district-of-new-york-shuts-down-filesharing-service-limewire.html)  [JSON](/news/2010/10/27/judge-kimba-wood-of-the-united-states-district-court-for-the-southern-district-of-new-york-shuts-down-filesharing-service-limewire.json)  [XML](/news/2010/10/27/judge-kimba-wood-of-the-united-states-district-court-for-the-southern-district-of-new-york-shuts-down-filesharing-service-limewire.xml)  
+
 ### [2010-10-27](/news/2010/10/27/index.md)
 
+##### Kimba Wood
 # Judge Kimba Wood of the United States District Court for the Southern District of New York shuts down filesharing service LimeWire. 
 
 Popular online file-sharing service LimeWire was shut down by a US federal court today following a lawsuit filed by the music industry.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Melbourne Age](http://www.theage.com.au/technology/technology-news/popular-filesharing-service-limewire-shut-down-20101027-172x3.html)
 1. [Cover Image](http://www.theage.com.au/content/dam/images/1/7/2/x/a/image.related.articleLeadwide.620x349.172x3.png)

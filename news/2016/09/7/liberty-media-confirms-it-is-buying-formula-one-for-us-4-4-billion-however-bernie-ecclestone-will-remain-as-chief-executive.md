@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/7/liberty-media-confirms-it-is-buying-formula-one-
 
 ### [2016-09-7](/news/2016/09/7/index.md)
 
+##### Liberty Media
 # Liberty Media confirms it is buying Formula One for US$4.4 billion; however, Bernie Ecclestone will remain as chief executive. 
 
 US firm Liberty Media is buying the racing business Formula 1, with Bernie Ecclestone to remain as chief executive.

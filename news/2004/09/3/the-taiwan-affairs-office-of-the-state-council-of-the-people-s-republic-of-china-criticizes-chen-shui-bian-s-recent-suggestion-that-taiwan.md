@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2004/09/3/the-taiwan-affairs-office-of-the-state-council-of-the-people-s-republic-of-china-criticizes-chen-shui-bian-s-recent-suggestion-that-taiwan.html)  [JSON](/news/2004/09/3/the-taiwan-affairs-office-of-the-state-council-of-the-people-s-republic-of-china-criticizes-chen-shui-bian-s-recent-suggestion-that-taiwan.json)  [XML](/news/2004/09/3/the-taiwan-affairs-office-of-the-state-council-of-the-people-s-republic-of-china-criticizes-chen-shui-bian-s-recent-suggestion-that-taiwan.xml)  
+
 ### [2004-09-3](/news/2004/09/3/index.md)
 
+##### Taiwan Affairs Office
 #  The Taiwan Affairs Office of the State Council of the People's Republic of China criticizes Chen Shui-bian's recent suggestion that "Taiwan" is the best abbreviation for the Republic of China, characterizing it as an attempt to promote Taiwan independence. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [People's Daily](http://english.peopledaily.com.cn/200409/04/eng20040904_155873.html)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6150137)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6150137)
 3. [Taiwan News](http://www.etaiwannews.com/Taiwan/2004/09/04/1094265768.htm)
-3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

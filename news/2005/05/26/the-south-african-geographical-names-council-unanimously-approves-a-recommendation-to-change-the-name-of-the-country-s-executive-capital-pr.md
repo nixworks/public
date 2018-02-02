@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/26/the-south-african-geographical-names-council-unanimously-approves-a-recommendation-to-change-the-name-of-the-country-s-executive-capital-pr.html)  [JSON](/news/2005/05/26/the-south-african-geographical-names-council-unanimously-approves-a-recommendation-to-change-the-name-of-the-country-s-executive-capital-pr.json)  [XML](/news/2005/05/26/the-south-african-geographical-names-council-unanimously-approves-a-recommendation-to-change-the-name-of-the-country-s-executive-capital-pr.xml)  
+
 ### [2005-05-26](/news/2005/05/26/index.md)
 
+##### South Africa
 #  The South African Geographical Names Council unanimously approves a recommendation to change the name of the country's executive capital Pretoria to Tshwane. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4584211.stm)
 

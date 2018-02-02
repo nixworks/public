@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/18/jeremy-ractliffe-resigns-from-the-board-of-the-nelson-mandela-children-s-fund-after-revealing-he-kept-diamonds-given-to-him-by-naomi-campbel.html)  [JSON](/news/2010/08/18/jeremy-ractliffe-resigns-from-the-board-of-the-nelson-mandela-children-s-fund-after-revealing-he-kept-diamonds-given-to-him-by-naomi-campbel.json)  [XML](/news/2010/08/18/jeremy-ractliffe-resigns-from-the-board-of-the-nelson-mandela-children-s-fund-after-revealing-he-kept-diamonds-given-to-him-by-naomi-campbel.xml)  
+
 ### [2010-08-18](/news/2010/08/18/index.md)
 
+##### Jeremy Ractliffe
 # Jeremy Ractliffe resigns from the board of the Nelson Mandela Children's Fund after revealing he kept diamonds given to him by Naomi Campbell. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11019823)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

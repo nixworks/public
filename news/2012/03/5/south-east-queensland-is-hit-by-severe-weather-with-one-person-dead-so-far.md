@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/5/south-east-queensland-is-hit-by-severe-weather-with-one-person-dead-so-far.html)  [JSON](/news/2012/03/5/south-east-queensland-is-hit-by-severe-weather-with-one-person-dead-so-far.json)  [XML](/news/2012/03/5/south-east-queensland-is-hit-by-severe-weather-with-one-person-dead-so-far.xml)  
+
 ### [2012-03-5](/news/2012/03/5/index.md)
 
+##### South East Queensland
 # South East Queensland is hit by severe weather with one person dead so far. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Courier Mail](http://www.couriermail.com.au/news/queensland/south-east-queensland-wakes-to-severe-weather/story-e6freoof-1226288993097)
 

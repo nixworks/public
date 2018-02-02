@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/11/the-first-global-study-of-coral-reefs-finds-that-one-third-of-coral-building-species-face-extinction.html)  [JSON](/news/2008/07/11/the-first-global-study-of-coral-reefs-finds-that-one-third-of-coral-building-species-face-extinction.json)  [XML](/news/2008/07/11/the-first-global-study-of-coral-reefs-finds-that-one-third-of-coral-building-species-face-extinction.xml)  
+
 ### [2008-07-11](/news/2008/07/11/index.md)
 
+##### coral reef
 #  The first global study of coral reefs finds that one-third of coral-building species face extinction. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/science/nature/7498502.stm)
 

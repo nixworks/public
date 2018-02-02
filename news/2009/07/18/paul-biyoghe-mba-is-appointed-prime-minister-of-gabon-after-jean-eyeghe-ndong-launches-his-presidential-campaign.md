@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/07/18/paul-biyoghe-mba-is-appointed-prime-minister-of-gabon-after-jean-eyeghe-ndong-launches-his-presidential-campaign.html)  [JSON](/news/2009/07/18/paul-biyoghe-mba-is-appointed-prime-minister-of-gabon-after-jean-eyeghe-ndong-launches-his-presidential-campaign.json)  [XML](/news/2009/07/18/paul-biyoghe-mba-is-appointed-prime-minister-of-gabon-after-jean-eyeghe-ndong-launches-his-presidential-campaign.xml)  
+
 ### [2009-07-18](/news/2009/07/18/index.md)
 
+##### Paul Biyogh Mba
 #  Paul Biyogh Mba is appointed Prime Minister of Gabon after Jean Eyeghe Ndong launches his presidential campaign. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [France 24](http://www.france24.com/en/20090718-gabon-bongo-president-prime-minister-mba-ndong)
-2. [Reuters](http://www.reuters.com/article/rbssEnergyNews/idUSLH34102120090717)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/rbssEnergyNews/idUSLH34102120090717)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

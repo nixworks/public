@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/1/rio-tinto-alcan-locks-out-hundreds-of-workers-from-a-smelter-in-the-canadian-town-of-alma-quebec.html)  [JSON](/news/2012/01/1/rio-tinto-alcan-locks-out-hundreds-of-workers-from-a-smelter-in-the-canadian-town-of-alma-quebec.json)  [XML](/news/2012/01/1/rio-tinto-alcan-locks-out-hundreds-of-workers-from-a-smelter-in-the-canadian-town-of-alma-quebec.xml)  
+
 ### [2012-01-1](/news/2012/01/1/index.md)
 
+##### Rio Tinto Alcan
 # Rio Tinto Alcan locks out hundreds of workers from a smelter in the Canadian town of Alma, Quebec. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/story/2012/01/01/rio-tinto-alcan-lockout-alma-quebec.html)
 1. [Cover Image](https://i.cbc.ca/1.1514247.1379036857!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-riotinto-852.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/30/nine-tourists-are-killed-as-a-bus-crashes-returning-from-bolivia-s-salar-de-uyuni-salt-flats-to-la-paz.html)  [JSON](/news/2014/08/30/nine-tourists-are-killed-as-a-bus-crashes-returning-from-bolivia-s-salar-de-uyuni-salt-flats-to-la-paz.json)  [XML](/news/2014/08/30/nine-tourists-are-killed-as-a-bus-crashes-returning-from-bolivia-s-salar-de-uyuni-salt-flats-to-la-paz.xml)  
+
 ### [2014-08-30](/news/2014/08/30/index.md)
 
+##### Bolivia
 # Nine tourists are killed as a bus crashes returning from Bolivia's Salar de Uyuni salt flats to La Paz. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''The Australian](http://www.theaustralian.com.au/news/nation/australian-among-nine-tourists-killed-in-bolivian-bus-crash/story-e6frg6nf-1227042877179)
 

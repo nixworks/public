@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/08/20/thai-police-say-that-they-suspect-that-at-least-10-people-were-involved-in-planning-the-attack-on-the-erawan-shrine-but-that-international.html)  [JSON](/news/2015/08/20/thai-police-say-that-they-suspect-that-at-least-10-people-were-involved-in-planning-the-attack-on-the-erawan-shrine-but-that-international.json)  [XML](/news/2015/08/20/thai-police-say-that-they-suspect-that-at-least-10-people-were-involved-in-planning-the-attack-on-the-erawan-shrine-but-that-international.xml)  
+
 ### [2015-08-20](/news/2015/08/20/index.md)
 
+##### 2015 Bangkok bombing
 # Thai police say that they suspect that at least 10 people were involved in planning the attack on the Erawan Shrine, but that international terrorists were unlikely to have been involved. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-33998929)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/161F0/production/_85080609_85080608.jpg)
+
+### Changes:
+
+1. [2015 Bangkok bombing: Thai police say that they suspect that at least 10 people were involved in planning the attack on the Erawan Shrine, but that international terrorists were unlikely to have been involved. ](/news/2015/08/20/2015-bangkok-bombing-thai-police-say-that-they-suspect-that-at-least-10-people-were-involved-in-planning-the-attack-on-the-erawan-shrine-b.md) _2017-08-27 03:42:51 (First version)_
+1. [Thai police say that they suspect that at least 10 people were involved in planning the attack on the Erawan Shrine, but that international terrorists were unlikely to have been involved. ](/news/2015/08/20/thai-police-say-that-they-suspect-that-at-least-10-people-were-involved-in-planning-the-attack-on-the-erawan-shrine-but-that-international.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [A combined bomb and gun attack kills three Thai police officers and injures two others in Yala province. ](/news/2016/09/23/a-combined-bomb-and-gun-attack-kills-three-thai-police-officers-and-injures-two-others-in-yala-province.md) _Context: Thai police officers_
 4. [A Thai military court commences the trial of two Uighurs from the People's Republic of China with the bombing of a popular shrine in Bangkok that killed 20 people. ](/news/2016/08/23/a-thai-military-court-commences-the-trial-of-two-uighurs-from-the-people-s-republic-of-china-with-the-bombing-of-a-popular-shrine-in-bangkok.md) _Context: 2015 Bangkok bombing_
 5. [A military court in Bangkok charges two men, Adem Karadag and Yusufu Miefaili, with offences related to the 2015 Bangkok bombing. ](/news/2015/11/24/a-military-court-in-bangkok-charges-two-men-adem-karadag-and-yusufu-miefaili-with-offences-related-to-the-2015-bangkok-bombing.md) _Context: 2015 Bangkok bombing_
-
-### Changes:
-
-1. [2015 Bangkok bombing: Thai police say that they suspect that at least 10 people were involved in planning the attack on the Erawan Shrine, but that international terrorists were unlikely to have been involved. ](/news/2015/08/20/2015-bangkok-bombing-thai-police-say-that-they-suspect-that-at-least-10-people-were-involved-in-planning-the-attack-on-the-erawan-shrine-b.md) _2017-08-27 03:42:51 (First version)_
-1. [Thai police say that they suspect that at least 10 people were involved in planning the attack on the Erawan Shrine, but that international terrorists were unlikely to have been involved. ](/news/2015/08/20/thai-police-say-that-they-suspect-that-at-least-10-people-were-involved-in-planning-the-attack-on-the-erawan-shrine-but-that-international.md) _(Current version)_

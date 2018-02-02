@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/02/19/north-korea-threatens-merciless-attacks-against-south-korea-over-its-planned-live-fire-drills-near-the-disputed-northern-limit-line.html)  [JSON](/news/2012/02/19/north-korea-threatens-merciless-attacks-against-south-korea-over-its-planned-live-fire-drills-near-the-disputed-northern-limit-line.json)  [XML](/news/2012/02/19/north-korea-threatens-merciless-attacks-against-south-korea-over-its-planned-live-fire-drills-near-the-disputed-northern-limit-line.xml)  
+
 ### [2012-02-19](/news/2012/02/19/index.md)
 
+##### North Korea
 # North Korea threatens "merciless" attacks against South Korea over its planned live-fire drills near the disputed Northern Limit Line. 
 
 North Korea today threatened to launch &quot;merciless&quot; strikes against South Korea over its planned live-fire drills near their disputed sea border.
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/asia/north-korea-threatens-merciless-action-over-drills-7199195.html)
+1. [The Independent](https://www.independent.co.uk/news/world/asia/north-korea-threatens-merciless-action-over-drills-7199195.html)
 
 ### Related:
 

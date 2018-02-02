@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/29/american-television-actor-dustin-diamond-is-convicted-of-two-misdemeanor-charges-stemming-from-a-stabbing-at-a-wisconsin-bar-last-year-but-a.html)  [JSON](/news/2015/05/29/american-television-actor-dustin-diamond-is-convicted-of-two-misdemeanor-charges-stemming-from-a-stabbing-at-a-wisconsin-bar-last-year-but-a.json)  [XML](/news/2015/05/29/american-television-actor-dustin-diamond-is-convicted-of-two-misdemeanor-charges-stemming-from-a-stabbing-at-a-wisconsin-bar-last-year-but-a.xml)  
+
 ### [2015-05-29](/news/2015/05/29/index.md)
 
+##### Dustin Diamond
 # American television actor Dustin Diamond is convicted of two misdemeanor charges stemming from a stabbing at a Wisconsin bar last year but acquitted on felony charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_PEOPLE_DUSTIN_DIAMOND?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

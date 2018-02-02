@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/01/25/north-korea-threatens-to-take-strong-physical-countermeasures-if-south-korea-co-operates-with-new-united-nations-security-council-resoluti.html)  [JSON](/news/2013/01/25/north-korea-threatens-to-take-strong-physical-countermeasures-if-south-korea-co-operates-with-new-united-nations-security-council-resoluti.json)  [XML](/news/2013/01/25/north-korea-threatens-to-take-strong-physical-countermeasures-if-south-korea-co-operates-with-new-united-nations-security-council-resoluti.xml)  
+
 ### [2013-01-25](/news/2013/01/25/index.md)
 
+##### North Korea
 # North Korea threatens to take "strong physical countermeasures" if South Korea co-operates with new United Nations Security Council resolutions against it. 
 
 North Korea issues another warning - this time to Seoul - a day after announcing plans for a third nuclear test.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/01/201312591822380791.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-21191264)
-3. [Reuters](http://www.reuters.com/article/2013/01/25/us-korea-north-idUSBRE90O0AJ20130125)
+3. [Reuters](https://www.reuters.com/article/2013/01/25/us-korea-north-idUSBRE90O0AJ20130125)
 4. [Voice of America](http://www.voanews.com/content/north-korea-threatens-strong-physical-countermeasures-over-un-sanctions/1590610.html)
 4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65500000/jpg/_65500367_65500366.jpg)
 

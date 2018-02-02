@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/1/government-of-kuwait-led-by-nasser-al-sabah-has-resigned-due-to-a-stand-off-with-parliament-potentially-allowing-for-early-elections.html)  [JSON](/news/2011/04/1/government-of-kuwait-led-by-nasser-al-sabah-has-resigned-due-to-a-stand-off-with-parliament-potentially-allowing-for-early-elections.json)  [XML](/news/2011/04/1/government-of-kuwait-led-by-nasser-al-sabah-has-resigned-due-to-a-stand-off-with-parliament-potentially-allowing-for-early-elections.xml)  
+
 ### [2011-04-1](/news/2011/04/1/index.md)
 
+##### Government of Kuwait
 # Government of Kuwait led by Nasser Al-Sabah has resigned due to a stand-off with parliament, potentially allowing for early elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2008/11/200811251041164935.html)
 1. [Cover Image](http://www.aljazeera.com)

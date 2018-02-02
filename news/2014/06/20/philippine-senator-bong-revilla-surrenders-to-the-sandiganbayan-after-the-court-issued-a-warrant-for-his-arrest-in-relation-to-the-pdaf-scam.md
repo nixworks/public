@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/20/philippine-senator-bong-revilla-surrenders-to-the-sandiganbayan-after-the-court-issued-a-warrant-for-his-arrest-in-relation-to-the-pdaf-scam.html)  [JSON](/news/2014/06/20/philippine-senator-bong-revilla-surrenders-to-the-sandiganbayan-after-the-court-issued-a-warrant-for-his-arrest-in-relation-to-the-pdaf-scam.json)  [XML](/news/2014/06/20/philippine-senator-bong-revilla-surrenders-to-the-sandiganbayan-after-the-court-issued-a-warrant-for-his-arrest-in-relation-to-the-pdaf-scam.xml)  
+
 ### [2014-06-20](/news/2014/06/20/index.md)
 
+##### senators
 # Philippine Senator Bong Revilla surrenders to the Sandiganbayan after the court issued a warrant for his arrest in relation to the PDAF scam. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [GMANews](http://www.gmanetwork.com/news/story/366541/news/nation/sen-bong-revilla-surrenders-to-sandiganbayan-files-motion-for-bail)
 

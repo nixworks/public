@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/2/john-kerry-criticizes-the-media-for-its-coverage-of-the-downing-street-memo-and-joins-calls-for-an-inquiry-wikinews.html)  [JSON](/news/2005/06/2/john-kerry-criticizes-the-media-for-its-coverage-of-the-downing-street-memo-and-joins-calls-for-an-inquiry-wikinews.json)  [XML](/news/2005/06/2/john-kerry-criticizes-the-media-for-its-coverage-of-the-downing-street-memo-and-joins-calls-for-an-inquiry-wikinews.xml)  
+
 ### [2005-06-2](/news/2005/06/2/index.md)
 
+##### John Kerry
 #  John Kerry criticizes the media for its coverage of the Downing Street memo, and joins calls for an inquiry. (WikiNews) 
 
 
 
 
-### Source:
+### Sources:
 
 1. [South Coast Today](http://www.southcoasttoday.com/daily/06-05/06-02-05/a01lo167.htm)
 

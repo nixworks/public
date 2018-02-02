@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/24/a-magnitude-6-2-earthquake-hits-southeastern-sulawesi-in-indonesia.html)  [JSON](/news/2011/04/24/a-magnitude-6-2-earthquake-hits-southeastern-sulawesi-in-indonesia.json)  [XML](/news/2011/04/24/a-magnitude-6-2-earthquake-hits-southeastern-sulawesi-in-indonesia.xml)  
+
 ### [2011-04-24](/news/2011/04/24/index.md)
 
+##### Sulawesi island
 # A magnitude 6.2 earthquake hits southeastern Sulawesi in Indonesia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/templates/story/story.php?storyId=135690136)
 2. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE73N2KM20110425)

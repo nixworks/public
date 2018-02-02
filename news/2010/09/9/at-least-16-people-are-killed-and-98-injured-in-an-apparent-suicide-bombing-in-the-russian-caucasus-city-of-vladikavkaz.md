@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/9/at-least-16-people-are-killed-and-98-injured-in-an-apparent-suicide-bombing-in-the-russian-caucasus-city-of-vladikavkaz.html)  [JSON](/news/2010/09/9/at-least-16-people-are-killed-and-98-injured-in-an-apparent-suicide-bombing-in-the-russian-caucasus-city-of-vladikavkaz.json)  [XML](/news/2010/09/9/at-least-16-people-are-killed-and-98-injured-in-an-apparent-suicide-bombing-in-the-russian-caucasus-city-of-vladikavkaz.xml)  
+
 ### [2010-09-9](/news/2010/09/9/index.md)
 
+##### 2010 Vladikavkaz bombing
 # At least 16 people are killed and 98 injured in an apparent suicide bombing in the Russian Caucasus city of Vladikavkaz. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/suicide-bombing-kills-11-in-russian-caucasus-city-20100909-1533a.html)
 2. [RIA Novosti](http://en.rian.ru/russia/20100909/160530811.html)

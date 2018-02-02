@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/21/about-1-000-people-a-day-are-returning-to-iraq-from-syria-and-jordan.html)  [JSON](/news/2007/11/21/about-1-000-people-a-day-are-returning-to-iraq-from-syria-and-jordan.json)  [XML](/news/2007/11/21/about-1-000-people-a-day-are-returning-to-iraq-from-syria-and-jordan.xml)  
+
 ### [2007-11-21](/news/2007/11/21/index.md)
 
+##### Iraq
 #  About 1,000 people a day are returning to Iraq from Syria and Jordan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/7105216.stm)
 

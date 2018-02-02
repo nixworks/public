@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2003/02/27/career-diplomat-john-brady-kiesling-resigns-from-the-u-s-foreign-service-with-a-sharp-public-rebuke-for-the-bush-administration-s-foreign.html)  [JSON](/news/2003/02/27/career-diplomat-john-brady-kiesling-resigns-from-the-u-s-foreign-service-with-a-sharp-public-rebuke-for-the-bush-administration-s-foreign.json)  [XML](/news/2003/02/27/career-diplomat-john-brady-kiesling-resigns-from-the-u-s-foreign-service-with-a-sharp-public-rebuke-for-the-bush-administration-s-foreign.xml)  
+
 ### [2003-02-27](/news/2003/02/27/index.md)
 
+##### John Brady Kiesling
 #  Career diplomat John Brady Kiesling resigns from the U.S. Foreign Service with a sharp public rebuke for the Bush administration's foreign policy, asking "Has "oderint dum metuant" really become our motto?" and "Is the Russia of the late Romanovs really our model, a selfish, superstitious empire thrashing toward self-destruction in the name of a doomed status quo?" 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Full text](http://www.snopes.com/politics/mideast/kiesling.asp)
 

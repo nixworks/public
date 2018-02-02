@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/1/voters-in-iowa-go-to-democratic-and-republican-p
 
 ### [2016-02-1](/news/2016/02/1/index.md)
 
+##### United States presidential election in Iowa, 2016
 # Voters in Iowa go to Democratic and Republican Party caucuses in the first formal stage of the U.S. elections. [https:--www.yahoo.com-politics-iowa-on-our-minds-as-the-campaign-nears-its-063213666.html (Yahoo! politics)]Hillary Clinton narrowly wins the Democratic caucus; this makes her the first woman to win an Iowa caucus. [http:--thehill.com-blogs-ballot-box-presidential-races-bernie-sanders-iowa-results-gain-error-recount-hillary-clinton (The Hill)] [http:--whotv.com-2016-02-01-iowans-could-witness-history-once-again-in-2016- (Who TV)]Ted Cruz wins the Republican caucus; this makes him the first Hispanic person to win an Iowa caucus. [http:--edition.cnn.com-2016-02-01-politics-iowa-caucuses-updates-real-time-index.html (CNN)] [http:--latino.foxnews.com-latino-politics-2016-02-01-iowans-to-choose-trump-aggressiveness-cruz-conservatism-or-rubio-moderation- Fox News Latino]Republican candidate Mike Huckabee suspends his campaign. [http:--abcnews.go.com-Politics-mike-huckabee-suspends-2016-presidential-race-story?id=36654628 (ABC Go)] [http:--edition.cnn.com-2016-02-01-politics-iowa-caucuses-updates-real-time-index.html (CNN)]Democratic candidate Martin O'Malley suspends his campaign. [https:--www.washingtonpost.com-politics-omalley-to-suspend-his-campaign-according-to-campaign-adviser-2016-02-01-4e1a4572-c77c-11e5-a4aa-f25866ba0dc6_story.html "(Washington Post)"]
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/12/indonesia-and-australia-commemorate-the-fifth-anniversary-of-the-2002-bali-bombings.html)  [JSON](/news/2007/10/12/indonesia-and-australia-commemorate-the-fifth-anniversary-of-the-2002-bali-bombings.json)  [XML](/news/2007/10/12/indonesia-and-australia-commemorate-the-fifth-anniversary-of-the-2002-bali-bombings.xml)  
+
 ### [2007-10-12](/news/2007/10/12/index.md)
 
+##### Indonesia
 #  Indonesia and Australia commemorate the fifth anniversary of the 2002 Bali bombings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://abc.net.au/news/stories/2007/10/12/2057503.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7040805.stm)

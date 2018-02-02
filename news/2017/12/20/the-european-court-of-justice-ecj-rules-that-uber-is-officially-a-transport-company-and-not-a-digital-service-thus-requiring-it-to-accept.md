@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/20/the-european-court-of-justice-ecj-rules-that-ub
 
 ### [2017-12-20](/news/2017/12/20/index.md)
 
+##### Uber protests and legal actions
 # The European Court of Justice (ECJ) rules that Uber is officially a transport company and not a digital service, thus requiring it to accept stricter regulation and licensing within the European Union. The case arose after Uber was told to obey local taxi rules in Barcelona. 
 
 Company loses challenge by Barcelona taxi drivers’ group, which argued Uber was directly involved in carrying passengers

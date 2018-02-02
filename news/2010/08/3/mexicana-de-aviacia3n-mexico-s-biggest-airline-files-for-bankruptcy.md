@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/3/mexicana-de-aviacia3n-mexico-s-biggest-airline-files-for-bankruptcy.html)  [JSON](/news/2010/08/3/mexicana-de-aviacia3n-mexico-s-biggest-airline-files-for-bankruptcy.json)  [XML](/news/2010/08/3/mexicana-de-aviacia3n-mexico-s-biggest-airline-files-for-bankruptcy.xml)  
+
 ### [2010-08-3](/news/2010/08/3/index.md)
 
+##### Mexicana de Aviacion
 # Mexicana de Aviacion, Mexico's biggest airline, files for bankruptcy. 
 
 Mexicana Airlines, the busiest foreign carrier at Los Angeles International Airport, announced Tuesday that it had filed for bankruptcy protection in the U.S. and Mexico, blaming much of its...
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/10857774)
 2. [Los Angeles Times](http://www.latimes.com/business/la-fi-mexicana-bankruptcy-20100804,0,7701200.story)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/13/actors-daniel-day-lewis-and-angelina-jolie-and-the-late-charity-campaigner-stephen-sutton-are-among-those-honoured-in-the-2014-birthday-hon.html)  [JSON](/news/2014/06/13/actors-daniel-day-lewis-and-angelina-jolie-and-the-late-charity-campaigner-stephen-sutton-are-among-those-honoured-in-the-2014-birthday-hon.json)  [XML](/news/2014/06/13/actors-daniel-day-lewis-and-angelina-jolie-and-the-late-charity-campaigner-stephen-sutton-are-among-those-honoured-in-the-2014-birthday-hon.xml)  
+
 ### [2014-06-13](/news/2014/06/13/index.md)
 
+##### Daniel Day-Lewis
 # Actors Daniel Day-Lewis and Angelina Jolie, and the late charity campaigner Stephen Sutton are among those honoured in the 2014 Birthday Honours. 
 
 Late cancer fundraiser Stephen Sutton becomes an MBE in a Birthday Honours List also recognising actors Daniel Day-Lewis and Angelina Jolie.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-27830525)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/75515000/jpg/_75515341_honours_comp.jpg)

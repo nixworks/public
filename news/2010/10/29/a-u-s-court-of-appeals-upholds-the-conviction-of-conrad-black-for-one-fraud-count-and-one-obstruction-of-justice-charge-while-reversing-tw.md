@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2010/10/29/a-u-s-court-of-appeals-upholds-the-conviction-of-conrad-black-for-one-fraud-count-and-one-obstruction-of-justice-charge-while-reversing-tw.html)  [JSON](/news/2010/10/29/a-u-s-court-of-appeals-upholds-the-conviction-of-conrad-black-for-one-fraud-count-and-one-obstruction-of-justice-charge-while-reversing-tw.json)  [XML](/news/2010/10/29/a-u-s-court-of-appeals-upholds-the-conviction-of-conrad-black-for-one-fraud-count-and-one-obstruction-of-justice-charge-while-reversing-tw.xml)  
+
 ### [2010-10-29](/news/2010/10/29/index.md)
 
+##### United States Court of Appeals for the Seventh Circuit
 # A U.S. Court of Appeals upholds the conviction of Conrad Black for one fraud count and one obstruction-of-justice charge, while reversing two other fraud counts on the basis of a Supreme Court decision last year. 
 
 Conrad Black faces the prospect of heading back to jail after a U.S. appeal court upheld two of four criminal charges against him.
 
 
-### Source:
+### Sources:
 
-1. [The Globe and Mail](http://www.theglobeandmail.com/report-on-business/us-court-upholds-two-charges-against-black/article1777946/)
-1. [Cover Image](http://beta.images.theglobeandmail.com/media/www/images/flag/gam-square.png)
+1. [The Globe and Mail](https://www.theglobeandmail.com/report-on-business/us-court-upholds-two-charges-against-black/article1777946/)
 
 ### Related:
 

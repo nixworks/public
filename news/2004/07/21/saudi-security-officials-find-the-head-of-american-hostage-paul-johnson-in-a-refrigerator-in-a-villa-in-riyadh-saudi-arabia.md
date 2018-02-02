@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/07/21/saudi-security-officials-find-the-head-of-american-hostage-paul-johnson-in-a-refrigerator-in-a-villa-in-riyadh-saudi-arabia.html)  [JSON](/news/2004/07/21/saudi-security-officials-find-the-head-of-american-hostage-paul-johnson-in-a-refrigerator-in-a-villa-in-riyadh-saudi-arabia.json)  [XML](/news/2004/07/21/saudi-security-officials-find-the-head-of-american-hostage-paul-johnson-in-a-refrigerator-in-a-villa-in-riyadh-saudi-arabia.xml)  
+
 ### [2004-07-21](/news/2004/07/21/index.md)
 
+##### Paul Johnson
 #  Saudi security officials find the head of American hostage Paul Johnson in a refrigerator in a villa in Riyadh, Saudi Arabia. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=5730301)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=5730301)
 
 ### Related:
 

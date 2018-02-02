@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/30/muslims-begin-the-annual-hajj-today-amid-fears-of-a-possible-attack-by-saudi-born-osama-bin-laden-s-al-qaeda-network.html)  [JSON](/news/2004/01/30/muslims-begin-the-annual-hajj-today-amid-fears-of-a-possible-attack-by-saudi-born-osama-bin-laden-s-al-qaeda-network.json)  [XML](/news/2004/01/30/muslims-begin-the-annual-hajj-today-amid-fears-of-a-possible-attack-by-saudi-born-osama-bin-laden-s-al-qaeda-network.xml)  
+
 ### [2004-01-30](/news/2004/01/30/index.md)
 
+##### Hajj
 #  Muslims begin the annual Hajj today amid fears of a possible attack by Saudi-born Osama bin Laden's al Qaeda network.
 
 
@@ -7,8 +11,8 @@
 
 ### Related:
 
-1. [In Peshawar, an unknown assailant shoots and kills Pakistani lawyer Samiullah Afridi, who had defended Dr. Shakil Afridi (in regards to assisting CIA agents hunt al Qaeda leader Osama bin Laden), with two Pakistan militant groups, Jundullah and Jamaatul Ahrar, both claiming responsibility. ](/news/2015/03/17/in-peshawar-an-unknown-assailant-shoots-and-kills-pakistani-lawyer-samiullah-afridi-who-had-defended-dr-shakil-afridi-in-regards-to-assi.md) _Context: Osama bin Laden, al-Qaeda_
-2. [Syrian officers reports that Syrian Army kills senior Saudi Arabian al-Qaeda commander Abu Malik al-Shahri, who is known as 'Bin Laden of Syria', in outskirt of Latakia. ](/news/2013/08/11/syrian-officers-reports-that-syrian-army-kills-senior-saudi-arabian-al-qaeda-commander-abu-malik-al-shahri-who-is-known-as-bin-laden-of-sy.md) _Context: Osama bin Laden, al-Qaeda_
-3. [Sulaiman Abu Ghaith, alleged spokesman for al-Qaeda and said to be the son-in-law of Osama bin Laden, is captured in Jordan and faces criminal charges in the United States. ](/news/2013/03/7/sulaiman-abu-ghaith-alleged-spokesman-for-al-qaeda-and-said-to-be-the-son-in-law-of-osama-bin-laden-is-captured-in-jordan-and-faces-crimin.md) _Context: Osama bin Laden, al-Qaeda_
-4. [Former Al-Qaeda chief Osama bin Laden's wives and children are deported from Pakistan to Saudi Arabia. ](/news/2012/04/27/former-al-qaeda-chief-osama-bin-laden-s-wives-and-children-are-deported-from-pakistan-to-saudi-arabia.md) _Context: Osama bin Laden, al-Qaeda_
-5. [Ayman al-Zawahiri is selected as the successor of leadership of al-Qaeda succeeding Osama bin Laden ](/news/2011/06/16/ayman-al-zawahiri-is-selected-as-the-successor-of-leadership-of-al-qaeda-succeeding-osama-bin-laden.md) _Context: Osama bin Laden, al-Qaeda_
+1. [In Peshawar, an unknown assailant shoots and kills Pakistani lawyer Samiullah Afridi, who had defended Dr. Shakil Afridi (in regards to assisting CIA agents hunt al Qaeda leader Osama bin Laden), with two Pakistan militant groups, Jundullah and Jamaatul Ahrar, both claiming responsibility. ](/news/2015/03/17/in-peshawar-an-unknown-assailant-shoots-and-kills-pakistani-lawyer-samiullah-afridi-who-had-defended-dr-shakil-afridi-in-regards-to-assi.md) _Context: Osama bin Laden, al Qaeda_
+2. [ Al Jazeera television releases an audio tape featuring a message believed to have been recorded by al Qaeda leader Osama bin Laden. ](/news/2007/11/29/al-jazeera-television-releases-an-audio-tape-featuring-a-message-believed-to-have-been-recorded-by-al-qaeda-leader-osama-bin-laden.md) _Context: Osama bin Laden, al Qaeda_
+3. [ An Islamist website claims it will soon carry a new video of al Qaeda leader Osama bin Laden to mark the sixth anniversary of the September 11, 2001 attacks on U.S. cities. ](/news/2007/09/6/an-islamist-website-claims-it-will-soon-carry-a-new-video-of-al-qaeda-leader-osama-bin-laden-to-mark-the-sixth-anniversary-of-the-september.md) _Context: Osama bin Laden, al Qaeda_
+4. [ War on Terrorism: Arab television airs an audio tape allegedly from al Qaeda official Abdel Rahman al-Najdi saying Osama bin Laden and Taliban chief Mullah Omar are alive. The tape advocates Muslims to commit terroristic acts and fight the Coalition forces in Iraq.](/news/2003/08/18/war-on-terrorism-arab-television-airs-an-audio-tape-allegedly-from-al-qaeda-official-abdel-rahman-al-najdi-saying-osama-bin-laden-and-tali.md) _Context: Osama bin Laden, al Qaeda_
+5. [Iran confirms receipt of Saudi Arabian invitation to discuss bilateral talk for Hajj-2017. The Iranian delegation is expected to travel to Saudi Arabia on 23 February this year for participation in the next pilgrimage. ](/news/2017/01/10/iran-confirms-receipt-of-saudi-arabian-invitation-to-discuss-bilateral-talk-for-hajj-2017-the-iranian-delegation-is-expected-to-travel-to-s.md) _Context: Hajj_

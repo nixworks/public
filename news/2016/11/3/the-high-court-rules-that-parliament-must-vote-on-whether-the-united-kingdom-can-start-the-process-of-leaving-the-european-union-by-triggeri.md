@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2016/11/3/the-high-court-rules-that-parliament-must-vote-on-whether-the-united-kingdom-can-start-the-process-of-leaving-the-european-union-by-triggeri.html)  [JSON](/news/2016/11/3/the-high-court-rules-that-parliament-must-vote-on-whether-the-united-kingdom-can-start-the-process-of-leaving-the-european-union-by-triggeri.json)  [XML](/news/2016/11/3/the-high-court-rules-that-parliament-must-vote-on-whether-the-united-kingdom-can-start-the-process-of-leaving-the-european-union-by-triggeri.xml)  
+
 ### [2016-11-3](/news/2016/11/3/index.md)
 
+##### Brexit aftermath
 # The High Court rules that Parliament must vote on whether the United Kingdom can start the process of leaving the European Union by triggering Article 50 of the Treaty on European Union. 
 
 The UK government must consult MPs before triggering Article 50 to leave the EU, a court rules.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-37857785)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/992D/production/_92231293_mediaitem92231288.jpg)
+
+### Changes:
+
+1. [Brexit aftermath: The High Court rules that Parliament must vote on whether the United Kingdom can start the process of leaving the European Union by triggering Article 50 of the Treaty on European Union. ](/news/2016/11/3/brexit-aftermath-the-high-court-rules-that-parliament-must-vote-on-whether-the-united-kingdom-can-start-the-process-of-leaving-the-european.md) _2017-08-27 03:47:10 (First version)_
+1. [The High Court rules that Parliament must vote on whether the United Kingdom can start the process of leaving the European Union by triggering Article 50 of the Treaty on European Union. ](/news/2016/11/3/the-high-court-rules-that-parliament-must-vote-on-whether-the-united-kingdom-can-start-the-process-of-leaving-the-european-union-by-triggeri.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ The UK government must consult MPs before triggering Article 50 to leave the EU,
 3. [British Prime Minister Theresa May announces that her government will trigger article 50, which begins the process of withdrawing from the European Union, on March 29. ](/news/2017/03/20/british-prime-minister-theresa-may-announces-that-her-government-will-trigger-article-50-which-begins-the-process-of-withdrawing-from-the-e.md) _Context: Article 50 of the Treaty on European Union_
 4. [A petition, launched Sunday to cancel U.S. President Donald Trump's state visit to the United Kingdom later this year, tops 1 million signatures, passing the threshold for British Parliament debate. A British government spokesman says the state visit is going ahead as planned. ](/news/2017/01/30/a-petition-launched-sunday-to-cancel-u-s-president-donald-trump-s-state-visit-to-the-united-kingdom-later-this-year-tops-1-million-signat.md) _Context: Parliament_
 5. [The Supreme Court of the United Kingdom rules that the Government of the United Kingdom may not begin the formal Brexit process until Parliament votes in approval of the move. ](/news/2017/01/24/the-supreme-court-of-the-united-kingdom-rules-that-the-government-of-the-united-kingdom-may-not-begin-the-formal-brexit-process-until-parlia.md) _Context: Parliament_
-
-### Changes:
-
-1. [Brexit aftermath: The High Court rules that Parliament must vote on whether the United Kingdom can start the process of leaving the European Union by triggering Article 50 of the Treaty on European Union. ](/news/2016/11/3/brexit-aftermath-the-high-court-rules-that-parliament-must-vote-on-whether-the-united-kingdom-can-start-the-process-of-leaving-the-european.md) _2017-08-27 03:47:10 (First version)_
-1. [The High Court rules that Parliament must vote on whether the United Kingdom can start the process of leaving the European Union by triggering Article 50 of the Treaty on European Union. ](/news/2016/11/3/the-high-court-rules-that-parliament-must-vote-on-whether-the-united-kingdom-can-start-the-process-of-leaving-the-european-union-by-triggeri.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/15/in-the-aftermath-of-nomination-day-for-the-malaysian-general-election-barisan-nasional-wins-four-more-seats-in-various-state-assemblies-an.html)  [JSON](/news/2004/03/15/in-the-aftermath-of-nomination-day-for-the-malaysian-general-election-barisan-nasional-wins-four-more-seats-in-various-state-assemblies-an.json)  [XML](/news/2004/03/15/in-the-aftermath-of-nomination-day-for-the-malaysian-general-election-barisan-nasional-wins-four-more-seats-in-various-state-assemblies-an.xml)  
+
 ### [2004-03-15](/news/2004/03/15/index.md)
 
+##### Malaysian general election
 #  In the aftermath of nomination day for the Malaysian general election, Barisan Nasional wins four more seats in various state assemblies and another parliamentary seat, uncontested. 
 
 Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAsia featuring Business, World, Sport, Entertainment, Technology, Health, Lifestyle and Live Streaming.
 
 
-### Source:
+### Sources:
 
 1. [ChannelNewsAsia](http://www.channelnewsasia.com/stories/southeastasia/view/75656/1/.html)
 2. [Toronto Star](http://thestar.com.my/news/story.asp?file=/2004/3/16/latest/16442Barisanba&sec=latest)

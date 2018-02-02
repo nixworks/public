@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/28/typhoon-nanmadol-kills-eight-people-in-the-philippines-and-is-headed-for-taiwan.html)  [JSON](/news/2011/08/28/typhoon-nanmadol-kills-eight-people-in-the-philippines-and-is-headed-for-taiwan.json)  [XML](/news/2011/08/28/typhoon-nanmadol-kills-eight-people-in-the-philippines-and-is-headed-for-taiwan.xml)  
+
 ### [2011-08-28](/news/2011/08/28/index.md)
 
+##### Typhoon Nanmadol
 # Typhoon Nanmadol kills eight people in the Philippines and is headed for Taiwan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1691252)
 

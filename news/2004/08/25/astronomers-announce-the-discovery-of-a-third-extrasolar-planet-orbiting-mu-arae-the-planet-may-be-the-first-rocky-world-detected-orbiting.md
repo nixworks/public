@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/08/25/astronomers-announce-the-discovery-of-a-third-extrasolar-planet-orbiting-mu-arae-the-planet-may-be-the-first-rocky-world-detected-orbiting.html)  [JSON](/news/2004/08/25/astronomers-announce-the-discovery-of-a-third-extrasolar-planet-orbiting-mu-arae-the-planet-may-be-the-first-rocky-world-detected-orbiting.json)  [XML](/news/2004/08/25/astronomers-announce-the-discovery-of-a-third-extrasolar-planet-orbiting-mu-arae-the-planet-may-be-the-first-rocky-world-detected-orbiting.xml)  
+
 ### [2004-08-25](/news/2004/08/25/index.md)
 
+##### extrasolar planet
 #  Astronomers announce the discovery of a third extrasolar planet orbiting Mu Arae. The planet may be the first rocky world detected orbiting a star other than the Sun.
 
 

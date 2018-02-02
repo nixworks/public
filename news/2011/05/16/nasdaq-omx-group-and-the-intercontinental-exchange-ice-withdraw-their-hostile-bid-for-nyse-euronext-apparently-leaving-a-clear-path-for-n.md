@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/05/16/nasdaq-omx-group-and-the-intercontinental-exchange-ice-withdraw-their-hostile-bid-for-nyse-euronext-apparently-leaving-a-clear-path-for-n.html)  [JSON](/news/2011/05/16/nasdaq-omx-group-and-the-intercontinental-exchange-ice-withdraw-their-hostile-bid-for-nyse-euronext-apparently-leaving-a-clear-path-for-n.json)  [XML](/news/2011/05/16/nasdaq-omx-group-and-the-intercontinental-exchange-ice-withdraw-their-hostile-bid-for-nyse-euronext-apparently-leaving-a-clear-path-for-n.xml)  
+
 ### [2011-05-16](/news/2011/05/16/index.md)
 
+##### Nasdaq OMX Group
 # Nasdaq OMX Group and the Intercontinental Exchange (ICE) withdraw their hostile bid for NYSE Euronext, apparently leaving a clear path for NYSE's friendly merger with Deutsche Boerse AG. 
 
 Nasdaq OMX Group Inc and IntercontinentalExchange withdrew their hostile $11.3 billion bid for rival NYSE Euronext on Monday, citing opposition from U.S. antitrust regulators.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/05/16/us-nasdaq-ice-idUSTRE74F2B820110516)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110516&t=2&i=416016076&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-16T214738Z_01_BTRE74F12CU00_RTROPTP_0_USA)
+1. [Reuters](https://www.reuters.com/article/2011/05/16/us-nasdaq-ice-idUSTRE74F2B820110516)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20110516&t=2&i=416016076&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-16T214738Z_01_BTRE74F12CU00_RTROPTP_0_USA)
 
 ### Related:
 

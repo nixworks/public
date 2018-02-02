@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2010/10/18/bank-of-america-resumes-foreclosures-in-23-states-following-a-temporary-halt-in-foreclosures-due-to-the-2010-foreclosure-crisis.html)  [JSON](/news/2010/10/18/bank-of-america-resumes-foreclosures-in-23-states-following-a-temporary-halt-in-foreclosures-due-to-the-2010-foreclosure-crisis.json)  [XML](/news/2010/10/18/bank-of-america-resumes-foreclosures-in-23-states-following-a-temporary-halt-in-foreclosures-due-to-the-2010-foreclosure-crisis.xml)  
+
 ### [2010-10-18](/news/2010/10/18/index.md)
 
+##### Bank of America
 # Bank of America resumes foreclosures in 23 states following a temporary halt in foreclosures due to the 2010 Foreclosure crisis
 
 

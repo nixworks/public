@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/07/8/iran-says-two-thirds-of-protesters-have-already-been-released-and-another-100-will-be-freed-in-the-aftermath-of-the-disputed-presidential-e.html)  [JSON](/news/2009/07/8/iran-says-two-thirds-of-protesters-have-already-been-released-and-another-100-will-be-freed-in-the-aftermath-of-the-disputed-presidential-e.json)  [XML](/news/2009/07/8/iran-says-two-thirds-of-protesters-have-already-been-released-and-another-100-will-be-freed-in-the-aftermath-of-the-disputed-presidential-e.xml)  
+
 ### [2009-07-8](/news/2009/07/8/index.md)
 
+##### Iran
 #  Iran says two thirds of protesters have already been released and another 100 will be freed in the aftermath of the disputed presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/gc08/idUSTRE5673N020090708)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/gc08/idUSTRE5673N020090708)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

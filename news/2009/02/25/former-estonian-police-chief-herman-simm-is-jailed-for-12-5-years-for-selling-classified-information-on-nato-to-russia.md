@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/25/former-estonian-police-chief-herman-simm-is-jailed-for-12-5-years-for-selling-classified-information-on-nato-to-russia.html)  [JSON](/news/2009/02/25/former-estonian-police-chief-herman-simm-is-jailed-for-12-5-years-for-selling-classified-information-on-nato-to-russia.json)  [XML](/news/2009/02/25/former-estonian-police-chief-herman-simm-is-jailed-for-12-5-years-for-selling-classified-information-on-nato-to-russia.xml)  
+
 ### [2009-02-25](/news/2009/02/25/index.md)
 
+##### Estonia
 #  Former Estonian Police Chief Herman Simm is jailed for 12.5 years for selling classified information on NATO to Russia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7910814.stm)
 

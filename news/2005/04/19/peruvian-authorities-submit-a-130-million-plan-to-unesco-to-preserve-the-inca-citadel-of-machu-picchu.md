@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/19/peruvian-authorities-submit-a-130-million-plan-to-unesco-to-preserve-the-inca-citadel-of-machu-picchu.html)  [JSON](/news/2005/04/19/peruvian-authorities-submit-a-130-million-plan-to-unesco-to-preserve-the-inca-citadel-of-machu-picchu.json)  [XML](/news/2005/04/19/peruvian-authorities-submit-a-130-million-plan-to-unesco-to-preserve-the-inca-citadel-of-machu-picchu.xml)  
+
 ### [2005-04-19](/news/2005/04/19/index.md)
 
+##### Peru
 #  Peruvian authorities submit a $130 million plan to UNESCO to preserve the Inca citadel of Machu Picchu. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4459117.stm)
 

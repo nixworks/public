@@ -1,25 +1,29 @@
+
+Formats: [HTML](/news/2010/10/13/8-people-are-feared-dead-after-a-cargo-plane-crash-near-kabul.html)  [JSON](/news/2010/10/13/8-people-are-feared-dead-after-a-cargo-plane-crash-near-kabul.json)  [XML](/news/2010/10/13/8-people-are-feared-dead-after-a-cargo-plane-crash-near-kabul.xml)  
+
 ### [2010-10-13](/news/2010/10/13/index.md)
 
+##### War in Afghanistan
 # 8 people are feared dead after a cargo plane crash near Kabul. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Washington Examiner](http://www.washingtonexaminer.com/breaking/nato-2-afghan-insurgent-leaders-killed-1-captured-service-member-dies-in-militant-attack-104844584.html)
 2. [AP via anhourago](http://www.anhourago.in/show.aspx?l=6377642&d=502)
 3. [Hindustan Times](http://www.hindustantimes.com/8-feared-dead-after-cargo-plane-crash-near-Kabul/Article1-612197.aspx)
 
-### Related:
-
-1. [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan, killing at least three people and injuring five. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan-killing-at-least-three-people-a.md) _Context: War in Afghanistan_
-2. [A car bomb in Helmand Province kills up to 13 people, including Afghan Army soldiers and civilians, and wounds 18 others, according to government spokesman Omar Zwak. ](/news/2017/08/27/a-car-bomb-in-helmand-province-kills-up-to-13-people-including-afghan-army-soldiers-and-civilians-and-wounds-18-others-according-to-gover.md) _Context: War in Afghanistan_
-3. [New Zealand announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. ](/news/2017/08/25/new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosting-its-military-commitment-to-13.md) _Context: War in Afghanistan_
-4. [A suicide bomber kills two American troops near the Kandahar International Airport in Afghanistan. The Taliban insurgency claims responsibility. ](/news/2017/08/2/a-suicide-bomber-kills-two-american-troops-near-the-kandahar-international-airport-in-afghanistan-the-taliban-insurgency-claims-responsibil.md) _Context: War in Afghanistan_
-5. [According to the Defense Ministry, between 26 and 30 military personnel are dead and over 80 Taliban militants have been either killed or wounded amid intense fighting at a military base in Kandahar Province. ](/news/2017/07/26/according-to-the-defense-ministry-between-26-and-30-military-personnel-are-dead-and-over-80-taliban-militants-have-been-either-killed-or-wo.md) _Context: War in Afghanistan_
-
 ### Changes:
 
 1. [War in Afghanistan: 8 people are feared dead after a cargo plane crash near Kabul. ](/news/2010/10/13/war-in-afghanistan-8-people-are-feared-dead-after-a-cargo-plane-crash-near-kabul.md) _2017-08-27 03:30:35 (First version)_
 1. [8 people are feared dead after a cargo plane crash near Kabul. ](/news/2010/10/13/8-people-are-feared-dead-after-a-cargo-plane-crash-near-kabul.md) _(Current version)_
+
+### Related:
+
+1. [The United States Central Command launches an investigation into a video posted on YouTube which appears to show a U.S. service member firing on civilians inside a truck on a road in Afghanistan. The montage video, titled "Happy Few Ordnance Symphony", has since been removed. ](/news/2018/01/10/the-united-states-central-command-launches-an-investigation-into-a-video-posted-on-youtube-which-appears-to-show-a-u-s-service-member-firin.md) _Context: War in Afghanistan_
+2. [United States soldier Bowe Bergdahl is convicted of desertion and dishonorably discharged, but is not imprisoned. ](/news/2017/11/3/united-states-soldier-bowe-bergdahl-is-convicted-of-desertion-and-dishonorably-discharged-but-is-not-imprisoned.md) _Context: War in Afghanistan_
+3. [Two fuel tankers are bombed in the Afghan town of Charikar, killing at least 15 people and injuring at least 27. ](/news/2017/11/1/two-fuel-tankers-are-bombed-in-the-afghan-town-of-charikar-killing-at-least-15-people-and-injuring-at-least-27.md) _Context: War in Afghanistan_
+4. [At least 43 Afghan soldiers are killed in a Taliban attack on an army base in Kandahar Province. Around 10 Taliban fighters also died in the attack. ](/news/2017/10/19/at-least-43-afghan-soldiers-are-killed-in-a-taliban-attack-on-an-army-base-in-kandahar-province-around-10-taliban-fighters-also-died-in-the.md) _Context: War in Afghanistan_
+5. [A suicide attack on a police compound in Gardez, Paktia Province, kills at least 20 people, while a separate gun attack at a training facility in neighboring Ghazni Province leaves another 15 people dead. ](/news/2017/10/17/a-suicide-attack-on-a-police-compound-in-gardez-paktia-province-kills-at-least-20-people-while-a-separate-gun-attack-at-a-training-facili.md) _Context: War in Afghanistan_

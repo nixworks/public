@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/11/10-000-gabonese-watch-the-body-of-president-omar-bongo-arrive-back-home-from-spain.html)  [JSON](/news/2009/06/11/10-000-gabonese-watch-the-body-of-president-omar-bongo-arrive-back-home-from-spain.json)  [XML](/news/2009/06/11/10-000-gabonese-watch-the-body-of-president-omar-bongo-arrive-back-home-from-spain.xml)  
+
 ### [2009-06-11](/news/2009/06/11/index.md)
 
+##### Gabon
 #  10,000 Gabonese watch the body of President Omar Bongo arrive back home from Spain. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8094606.stm)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/bongos-body-arrives-in-gabon-20090612-c55o.html)

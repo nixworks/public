@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/13/joint-united-nations-programme-on-hiv-aids-figures-demonstrate-a-fall-by-up-to-25-per-cent-in-the-prevalence-of-hiv-among-young-people-aged.html)  [JSON](/news/2010/07/13/joint-united-nations-programme-on-hiv-aids-figures-demonstrate-a-fall-by-up-to-25-per-cent-in-the-prevalence-of-hiv-among-young-people-aged.json)  [XML](/news/2010/07/13/joint-united-nations-programme-on-hiv-aids-figures-demonstrate-a-fall-by-up-to-25-per-cent-in-the-prevalence-of-hiv-among-young-people-aged.xml)  
+
 ### [2010-07-13](/news/2010/07/13/index.md)
 
+##### Joint United Nations Programme on HIV/AIDS
 # Joint United Nations Programme on HIV-AIDS figures demonstrate a fall by up to 25 per cent in the prevalence of HIV among young people aged between 15 and 24 in Africa. 
 
 The prevalence of HIV among young people in Africa falls because of changing sexual behaviour, new UN figures show.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10616274.stm)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE66C0O520100713)

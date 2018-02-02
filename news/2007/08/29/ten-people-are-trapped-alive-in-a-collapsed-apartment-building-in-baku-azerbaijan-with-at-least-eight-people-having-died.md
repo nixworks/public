@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/29/ten-people-are-trapped-alive-in-a-collapsed-apartment-building-in-baku-azerbaijan-with-at-least-eight-people-having-died.html)  [JSON](/news/2007/08/29/ten-people-are-trapped-alive-in-a-collapsed-apartment-building-in-baku-azerbaijan-with-at-least-eight-people-having-died.json)  [XML](/news/2007/08/29/ten-people-are-trapped-alive-in-a-collapsed-apartment-building-in-baku-azerbaijan-with-at-least-eight-people-having-died.xml)  
+
 ### [2007-08-29](/news/2007/08/29/index.md)
 
+##### apartment
 #  Ten people are trapped alive in a collapsed apartment building in Baku, Azerbaijan with at least eight people having died. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via News Limited](http://www.news.com.au/story/0,10117,22329484-401,00.html)
 

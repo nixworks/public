@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/31/the-syrian-opposition-agrees-to-surrender-their
 
 ### [2017-01-31](/news/2017/01/31/index.md)
 
+##### Syrian Civil War
 #  The Syrian opposition agrees to surrender their remaining villages in the stretch between the Wadi Barada area and the Lebanon-Syria border, as well as the Rankous borderange for transportation of at least 250 rebel fighters to their stronghold in the Idlib Governorate. 
 
 BEIRUT, LEBANON (2:00 A.M.) - The jihadist rebels have agreed to surrender the remaining villages between the Lebanese border and Wadi Barada area after a

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/28/lehendakari-juan-jose-ibarretxe-announces-a-referendum-on-the-future-of-the-basque-country-for-25-october-2008.html)  [JSON](/news/2007/09/28/lehendakari-juan-jose-ibarretxe-announces-a-referendum-on-the-future-of-the-basque-country-for-25-october-2008.json)  [XML](/news/2007/09/28/lehendakari-juan-jose-ibarretxe-announces-a-referendum-on-the-future-of-the-basque-country-for-25-october-2008.xml)  
+
 ### [2007-09-28](/news/2007/09/28/index.md)
 
+##### Lehendakari
 #  "Lehendakari" Juan Jos Ibarretxe announces a referendum on the future of the Basque Country for 25 October 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Digital Journal](http://www.digitaljournal.com/article/234324/1ST_LEAD_Basque_region_to_hold_referendum_on_independence_in_2008)
 

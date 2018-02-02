@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2015/11/21/a-suicide-bomb-attack-in-fotokol-a-town-in-cameroon-s-far-north-region-near-the-nigerian-border-kills-at-least-nine-people.html)  [JSON](/news/2015/11/21/a-suicide-bomb-attack-in-fotokol-a-town-in-cameroon-s-far-north-region-near-the-nigerian-border-kills-at-least-nine-people.json)  [XML](/news/2015/11/21/a-suicide-bomb-attack-in-fotokol-a-town-in-cameroon-s-far-north-region-near-the-nigerian-border-kills-at-least-nine-people.xml)  
+
 ### [2015-11-21](/news/2015/11/21/index.md)
 
+##### Boko Haram insurgency
 # A suicide bomb attack in Fotokol, a town in Cameroon's Far North Region near the Nigerian border kills at least nine people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Mail](http://www.dailymail.co.uk/news/article-3328622/Boko-Haram-kill-nine-people-Cameroon-suicide-bombing.html)
+
+### Changes:
+
+1. [Boko Haram insurgency: A suicide bomb attack in Fotokol, a town in Cameroon's Far North Region near the Nigerian border kills at least nine people. ](/news/2015/11/21/boko-haram-insurgency-a-suicide-bomb-attack-in-fotokol-a-town-in-cameroon-s-far-north-region-near-the-nigerian-border-kills-at-least-nine.md) _2017-08-27 03:43:59 (First version)_
+1. [A suicide bomb attack in Fotokol, a town in Cameroon's Far North Region near the Nigerian border kills at least nine people. ](/news/2015/11/21/a-suicide-bomb-attack-in-fotokol-a-town-in-cameroon-s-far-north-region-near-the-nigerian-border-kills-at-least-nine-people.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [Suicide bombers kill at least 32 people and injure 66 others in northern Cameroon, near the border with Nigeria. ](/news/2016/01/25/suicide-bombers-kill-at-least-32-people-and-injure-66-others-in-northern-cameroon-near-the-border-with-nigeria.md) _Context: Boko Haram insurgency, Cameroon, Nigeria_
 4. [Boko Haram militants attack the northeast Nigerian city of Maiduguri with rocket-propelled grenades and multiple suicide bombers. At least 30 people are reportedly killed. ](/news/2015/12/27/boko-haram-militants-attack-the-northeast-nigerian-city-of-maiduguri-with-rocket-propelled-grenades-and-multiple-suicide-bombers-at-least-3.md) _Context: Boko Haram insurgency, Nigeria, suicide bombing_
 5. [Boko Haram militants reportedly raid the Cameroonian town of Fotokol in Cameroon's Far North Region with scores of people killed. ](/news/2015/02/4/boko-haram-militants-reportedly-raid-the-cameroonian-town-of-fotokol-in-cameroon-s-far-north-region-with-scores-of-people-killed.md) _Context: Cameroon, Far North Region, Fotokol_
-
-### Changes:
-
-1. [Boko Haram insurgency: A suicide bomb attack in Fotokol, a town in Cameroon's Far North Region near the Nigerian border kills at least nine people. ](/news/2015/11/21/boko-haram-insurgency-a-suicide-bomb-attack-in-fotokol-a-town-in-cameroon-s-far-north-region-near-the-nigerian-border-kills-at-least-nine.md) _2017-08-27 03:43:59 (First version)_
-1. [A suicide bomb attack in Fotokol, a town in Cameroon's Far North Region near the Nigerian border kills at least nine people. ](/news/2015/11/21/a-suicide-bomb-attack-in-fotokol-a-town-in-cameroon-s-far-north-region-near-the-nigerian-border-kills-at-least-nine-people.md) _(Current version)_

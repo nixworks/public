@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/28/a-bomb-explodes-in-yangon-burma-injuring-eight-people.html)  [JSON](/news/2011/02/28/a-bomb-explodes-in-yangon-burma-injuring-eight-people.json)  [XML](/news/2011/02/28/a-bomb-explodes-in-yangon-burma-injuring-eight-people.xml)  
+
 ### [2011-02-28](/news/2011/02/28/index.md)
 
+##### Yangon
 # A bomb explodes in Yangon, Burma, injuring eight people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_639672.html)
 

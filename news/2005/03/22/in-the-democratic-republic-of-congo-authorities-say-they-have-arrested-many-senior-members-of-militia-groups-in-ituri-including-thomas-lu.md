@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/22/in-the-democratic-republic-of-congo-authorities-say-they-have-arrested-many-senior-members-of-militia-groups-in-ituri-including-thomas-lu.html)  [JSON](/news/2005/03/22/in-the-democratic-republic-of-congo-authorities-say-they-have-arrested-many-senior-members-of-militia-groups-in-ituri-including-thomas-lu.json)  [XML](/news/2005/03/22/in-the-democratic-republic-of-congo-authorities-say-they-have-arrested-many-senior-members-of-militia-groups-in-ituri-including-thomas-lu.xml)  
+
 ### [2005-03-22](/news/2005/03/22/index.md)
 
+##### Democratic Republic of Congo
 #  In the Democratic Republic of Congo, authorities say they have arrested many senior members of militia groups in Ituri, including Thomas Lubanga of the Union of Congolese Patriots. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4370843.stm)
 2. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/RMOI-6AQ2TZ?OpenDocument)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/26/the-result-of-a-non-binding-independence-refere
 
 ### [2017-09-26](/news/2017/09/26/index.md)
 
+##### Iraqi Kurdistan independence referendum, 2017
 # The result of a non-binding independence referendum by Iraqi Kurdistan will to be announced within 72 hours. The vote is widely expected to be in favor of independence. 
 
 Turkey and Iran, traditional foes, have established common ground in Iraq, Syria and Qatar as regional alliances shift.

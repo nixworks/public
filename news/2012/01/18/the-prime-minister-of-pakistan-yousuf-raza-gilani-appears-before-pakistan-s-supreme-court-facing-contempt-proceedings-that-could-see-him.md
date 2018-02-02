@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/18/the-prime-minister-of-pakistan-yousuf-raza-gilani-appears-before-pakistan-s-supreme-court-facing-contempt-proceedings-that-could-see-him.html)  [JSON](/news/2012/01/18/the-prime-minister-of-pakistan-yousuf-raza-gilani-appears-before-pakistan-s-supreme-court-facing-contempt-proceedings-that-could-see-him.json)  [XML](/news/2012/01/18/the-prime-minister-of-pakistan-yousuf-raza-gilani-appears-before-pakistan-s-supreme-court-facing-contempt-proceedings-that-could-see-him.xml)  
+
 ### [2012-01-18](/news/2012/01/18/index.md)
 
+##### Prime Minister
 # The Prime Minister of Pakistan, Yousuf Raza Gilani, appears before Pakistan's Supreme Court, facing contempt proceedings that could see him barred from holding public office if found guilty. 
 
 Pakistani PM Yousuf Raza Gilani goes before the Supreme Court to defend his decision not to reopen a corruption case against President Zardari.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16615934)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57973000/jpg/_57973670_013748533-1.jpg)

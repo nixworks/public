@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/11/at-least-three-people-are-injured-by-authorities-as-protesters-attempt-to-storm-dail-eireann-in-a-campaign-against-bank-bail-outs.html)  [JSON](/news/2010/05/11/at-least-three-people-are-injured-by-authorities-as-protesters-attempt-to-storm-dail-eireann-in-a-campaign-against-bank-bail-outs.json)  [XML](/news/2010/05/11/at-least-three-people-are-injured-by-authorities-as-protesters-attempt-to-storm-dail-eireann-in-a-campaign-against-bank-bail-outs.xml)  
+
 ### [2010-05-11](/news/2010/05/11/index.md)
 
+##### lower house
 # At least three people are injured by authorities as protesters attempt to storm Dil ireann in a campaign against bank bail-outs. 
 
 A number of people were injured outside the DÃ¡il tonight after a disturbance broke out at the gates of Leinster House.
 
 
-### Source:
+### Sources:
 
 1. [Irish Independent](http://www.independent.ie/national-news/gardai-bring-out-batons-as-breakaway-protesters-try-to-storm-leinster-house-2176173.html)
 2. [RTÉ](http://www.rte.ie/news/2010/0511/dail.html)

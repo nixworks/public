@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/04/26/revelations-surface-that-ousted-chinese-official-bo-xilai-spied-on-chinese-president-and-communist-party-leader-hu-jintao.html)  [JSON](/news/2012/04/26/revelations-surface-that-ousted-chinese-official-bo-xilai-spied-on-chinese-president-and-communist-party-leader-hu-jintao.json)  [XML](/news/2012/04/26/revelations-surface-that-ousted-chinese-official-bo-xilai-spied-on-chinese-president-and-communist-party-leader-hu-jintao.xml)  
+
 ### [2012-04-26](/news/2012/04/26/index.md)
 
+##### Bo Xilai
 # Revelations surface that ousted Chinese official Bo Xilai spied on Chinese President and Communist Party leader Hu Jintao. 
 
 Bo Xilai was toppled amid accusations that his wife arranged the killing of a British businessman, but wiretapping may have been another compelling reason party officials turned on him.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2012/04/26/world/asia/bo-xilai-said-to-have-spied-on-top-china-officials.html)
+1. [The New York Times](https://www.nytimes.com/2012/04/26/world/asia/bo-xilai-said-to-have-spied-on-top-china-officials.html)
 1. [Cover Image](https://static01.nyt.com/images/2012/04/26/world/JP-CHINA-1/JP-CHINA-1-superJumbo.jpg)
 
 ### Related:

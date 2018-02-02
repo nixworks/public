@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/29/thailand-completes-its-repatriation-of-over-4-000-hmong-refugees-to-neighbouring-laos.html)  [JSON](/news/2009/12/29/thailand-completes-its-repatriation-of-over-4-000-hmong-refugees-to-neighbouring-laos.json)  [XML](/news/2009/12/29/thailand-completes-its-repatriation-of-over-4-000-hmong-refugees-to-neighbouring-laos.xml)  
+
 ### [2009-12-29](/news/2009/12/29/index.md)
 
+##### Thailand
 #  Thailand completes its repatriation of over 4,000 Hmong refugees to neighbouring Laos. 
 
 More than 4,000 ethnic Hmong returned to Laos after being deported from Thailand.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/12/2009122965747934902.html)
 2. [Bangkok Post](http://www.bangkokpost.com/news/asia/163932/safety-fears-for-hmong-after-expulsion)

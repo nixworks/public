@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2012/05/13/chinese-security-tsar-and-politburo-standing-committee-member-zhou-yongkang-reportedly-transfers-his-security-related-duties-to-minister-o.html)  [JSON](/news/2012/05/13/chinese-security-tsar-and-politburo-standing-committee-member-zhou-yongkang-reportedly-transfers-his-security-related-duties-to-minister-o.json)  [XML](/news/2012/05/13/chinese-security-tsar-and-politburo-standing-committee-member-zhou-yongkang-reportedly-transfers-his-security-related-duties-to-minister-o.xml)  
+
 ### [2012-05-13](/news/2012/05/13/index.md)
 
+##### Politburo Standing Committee
 # Chinese security "tsar" and Politburo Standing Committee member Zhou Yongkang reportedly transfers his security-related duties to Minister of Public Security Meng Jianzhu, following the Bo Xilai scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Financial Times](http://www.ft.com/intl/cms/s/0/929411e8-9ce6-11e1-aa39-00144feabdc0.html#axzz1unSACrrQ)
+
+### Changes:
+
+1. [Chinese security ''tsar'' and Politburo Standing Committee member Zhou Yongkang reportedly transfers his security-related duties to Minister of Public Security Meng Jianzhu, following the Bo Xilai scandal. ](/news/2012/05/13/chinese-security-tsar-and-politburo-standing-committee-member-zhou-yongkang-reportedly-transfers-his-security-related-duties-to-minister.md) _2017-08-25 03:35:41 (First version)_
+1. [Chinese security "tsar" and Politburo Standing Committee member Zhou Yongkang reportedly transfers his security-related duties to Minister of Public Security Meng Jianzhu, following the Bo Xilai scandal. ](/news/2012/05/13/chinese-security-tsar-and-politburo-standing-committee-member-zhou-yongkang-reportedly-transfers-his-security-related-duties-to-minister-o.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [China's former security chief Zhou Yongkang is given a life sentence for bribery, leaking state secrets and abuse of power. ](/news/2015/06/11/china-s-former-security-chief-zhou-yongkang-is-given-a-life-sentence-for-bribery-leaking-state-secrets-and-abuse-of-power.md) _Context: Zhou Yongkang_
 4. [China's Supreme People's Procuratorate arrests former Politburo Standing Committee member Zhou Yongkang on corruption charges and expels him from the Communist Party of China. ](/news/2014/12/5/china-s-supreme-people-s-procuratorate-arrests-former-politburo-standing-committee-member-zhou-yongkang-on-corruption-charges-and-expels-him.md) _Context: Zhou Yongkang_
 5. [A group of Chinese Communist Party veterans call for the removal of security chief Zhou Yongkang. ](/news/2012/05/17/a-group-of-chinese-communist-party-veterans-call-for-the-removal-of-security-chief-zhou-yongkang.md) _Context: Zhou Yongkang_
-
-### Changes:
-
-1. [Chinese security ''tsar'' and Politburo Standing Committee member Zhou Yongkang reportedly transfers his security-related duties to Minister of Public Security Meng Jianzhu, following the Bo Xilai scandal. ](/news/2012/05/13/chinese-security-tsar-and-politburo-standing-committee-member-zhou-yongkang-reportedly-transfers-his-security-related-duties-to-minister.md) _2017-08-25 03:35:41 (First version)_
-1. [Chinese security "tsar" and Politburo Standing Committee member Zhou Yongkang reportedly transfers his security-related duties to Minister of Public Security Meng Jianzhu, following the Bo Xilai scandal. ](/news/2012/05/13/chinese-security-tsar-and-politburo-standing-committee-member-zhou-yongkang-reportedly-transfers-his-security-related-duties-to-minister-o.md) _(Current version)_

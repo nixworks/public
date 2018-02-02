@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/1/nineteen-moro-islamic-liberation-front-rebels-are-killed-by-filipino-military-air-strikes-in-the-southern-part-of-the-island-of-mindanao.html)  [JSON](/news/2008/11/1/nineteen-moro-islamic-liberation-front-rebels-are-killed-by-filipino-military-air-strikes-in-the-southern-part-of-the-island-of-mindanao.json)  [XML](/news/2008/11/1/nineteen-moro-islamic-liberation-front-rebels-are-killed-by-filipino-military-air-strikes-in-the-southern-part-of-the-island-of-mindanao.xml)  
+
 ### [2008-11-1](/news/2008/11/1/index.md)
 
+##### Moro Islamic Liberation Front
 #  Nineteen Moro Islamic Liberation Front rebels are killed by Filipino military air strikes in the southern part of the island of Mindanao. 
 
 Nineteen Muslim separatist rebels have been killed in fresh air strikes carried out by Philippine troops on southern Mindanao island, an official said.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC](http://www.abc.net.au/news/stories/2008/11/01/2407633.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

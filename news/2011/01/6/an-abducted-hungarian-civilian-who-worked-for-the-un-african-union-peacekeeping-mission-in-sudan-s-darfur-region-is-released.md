@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/6/an-abducted-hungarian-civilian-who-worked-for-the-un-african-union-peacekeeping-mission-in-sudan-s-darfur-region-is-released.html)  [JSON](/news/2011/01/6/an-abducted-hungarian-civilian-who-worked-for-the-un-african-union-peacekeeping-mission-in-sudan-s-darfur-region-is-released.json)  [XML](/news/2011/01/6/an-abducted-hungarian-civilian-who-worked-for-the-un-african-union-peacekeeping-mission-in-sudan-s-darfur-region-is-released.xml)  
+
 ### [2011-01-6](/news/2011/01/6/index.md)
 
+##### conflict
 # An abducted Hungarian civilian, who worked for the UN-African Union peacekeeping mission in Sudan's Darfur region, is released. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ (All Africa](http://allafrica.com/stories/201101060074.html)
 2. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i3ozM8Z68BPckoisWhTGyhqIVNhQ?docId=CNG.05a6e85bfb37cddd7fe037aaf5164bc0.691)

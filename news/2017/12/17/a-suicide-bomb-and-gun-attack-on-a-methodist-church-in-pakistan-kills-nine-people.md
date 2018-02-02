@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/17/a-suicide-bomb-and-gun-attack-on-a-methodist-ch
 
 ### [2017-12-17](/news/2017/12/17/index.md)
 
+##### 2017 Quetta church attack
 # A suicide bomb and gun attack on a Methodist church in Pakistan kills nine people. 
 
 At least 30 injured; police, eyewitnesses say timely response prevented more casualties.

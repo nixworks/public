@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/18/in-london-the-high-court-dismisses-a-lawsuit-against-former-directors-of-the-london-branch-of-bernard-madoff-s-operations-including-his-on.html)  [JSON](/news/2013/10/18/in-london-the-high-court-dismisses-a-lawsuit-against-former-directors-of-the-london-branch-of-bernard-madoff-s-operations-including-his-on.json)  [XML](/news/2013/10/18/in-london-the-high-court-dismisses-a-lawsuit-against-former-directors-of-the-london-branch-of-bernard-madoff-s-operations-including-his-on.xml)  
+
 ### [2013-10-18](/news/2013/10/18/index.md)
 
+##### High Court
 # In London, the High Court dismisses a lawsuit against former directors of the London branch of Bernard Madoff's operations, including his one living and one deceased son. The judge, Mr. Justice Popplewell, spoke rather harshly of the plaintiffs, praising the "commendable dignity and restraint" of certain of the defendants. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Financial Times](http://www.ft.com/intl/cms/s/0/4d7e680e-3805-11e3-8668-00144feab7de.html#axzz2iHzNDnXz)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/18/at-the-munich-security-conference-a-truce-betwe
 
 ### [2017-02-18](/news/2017/02/18/index.md)
 
+##### War in Donbass
 # At the Munich Security Conference, a truce between Russian-backed separatists and the Ukrainian army, per the Minsk Protocol, takes effect Monday. Pending a permanent political agreement, Russian President Vladimir Putin orders that civil registration documents issued in separatist-held areas of Donetsk and Luhansk in eastern Ukraine be temporarily recognized. Ukrainian authorities say this violates provisions in the Minsk agreement. This is the third such agreement because the previous two in 2014 and 2015 were violated. Low-level fighting and artillery fire never fully stopped. 
 
 Russia, Ukraine and allies agree to ensure peace in eastern Ukraine as Kremlin indirectly recognises breakaway regions.

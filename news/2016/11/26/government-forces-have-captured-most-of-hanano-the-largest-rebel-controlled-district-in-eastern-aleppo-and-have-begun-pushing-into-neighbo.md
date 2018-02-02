@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/26/government-forces-have-captured-most-of-hanano-
 
 ### [2016-11-26](/news/2016/11/26/index.md)
 
+##### Syrian Civil War
 # Government forces have captured most of Hanano, the largest rebel-controlled district in eastern Aleppo, and have begun pushing into neighboring 'Ard Al-Hamra and Jabal Badro districts. 
 
 Syrian forces retake the largest rebel-held district in eastern Aleppo, with civilians fleeing the offensive.

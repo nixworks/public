@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/12/27/allen-stanford-s-lawyers-seek-a-two-year-postponement-of-his-trial-and-for-his-release-from-prison-in-the-meanwhile-he-is-charged-with-runn.html)  [JSON](/news/2010/12/27/allen-stanford-s-lawyers-seek-a-two-year-postponement-of-his-trial-and-for-his-release-from-prison-in-the-meanwhile-he-is-charged-with-runn.json)  [XML](/news/2010/12/27/allen-stanford-s-lawyers-seek-a-two-year-postponement-of-his-trial-and-for-his-release-from-prison-in-the-meanwhile-he-is-charged-with-runn.xml)  
+
 ### [2010-12-27](/news/2010/12/27/index.md)
 
+##### Allen Stanford
 # Allen Stanford's lawyers seek a two-year postponement of his trial and for his release from prison in the meanwhile. He is charged with running a $7 billion Ponzi scheme. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6BQ2Y920101227)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20101227&t=2&i=288163926&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-12-27T193830Z_01_BTRE6BQ1IK800_RTROPTP_0_STANFORD)
+1. [Reuters](https://www.reuters.com/article/idUSTRE6BQ2Y920101227)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20101227&t=2&i=288163926&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-12-27T193830Z_01_BTRE6BQ1IK800_RTROPTP_0_STANFORD)
 
 ### Related:
 

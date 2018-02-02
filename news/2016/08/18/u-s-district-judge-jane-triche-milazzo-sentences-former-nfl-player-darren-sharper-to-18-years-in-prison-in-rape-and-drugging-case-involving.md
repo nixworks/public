@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/18/u-s-district-judge-jane-triche-milazzo-sentence
 
 ### [2016-08-18](/news/2016/08/18/index.md)
 
+##### Jane Triche Milazzo
 # U.S. District Judge Jane Triche Milazzo sentences former NFL player Darren Sharper to 18 years in prison in rape and drugging case involving as many as 16 women in several U.S. states. 
 
 Former American football star Darren Sharper is sentenced to 18 years in prison in a rape case involving as many as 16 women in several US states.

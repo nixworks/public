@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/9/a-uyghur-man-is-sentenced-to-16-months-imprisonment-for-spying-on-a-uyghur-community-in-sweden-and-passing-information-to-china.html)  [JSON](/news/2010/03/9/a-uyghur-man-is-sentenced-to-16-months-imprisonment-for-spying-on-a-uyghur-community-in-sweden-and-passing-information-to-china.json)  [XML](/news/2010/03/9/a-uyghur-man-is-sentenced-to-16-months-imprisonment-for-spying-on-a-uyghur-community-in-sweden-and-passing-information-to-china.xml)  
+
 ### [2010-03-9](/news/2010/03/9/index.md)
 
+##### Uyghur
 # A Uyghur man is sentenced to 16 months imprisonment for spying on a Uyghur community in Sweden and passing information to China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8557777.stm)
 2. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2010/3/9/apworld/20100309191140&sec=apworld)

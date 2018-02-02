@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/26/burma-myanmar-forgoes-2006-chairmanship-of-asean.html)  [JSON](/news/2005/07/26/burma-myanmar-forgoes-2006-chairmanship-of-asean.json)  [XML](/news/2005/07/26/burma-myanmar-forgoes-2006-chairmanship-of-asean.xml)  
+
 ### [2005-07-26](/news/2005/07/26/index.md)
 
+##### Burma
 #  Burma-Myanmar forgoes 2006 chairmanship of ASEAN 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/159895/1/.html)
 

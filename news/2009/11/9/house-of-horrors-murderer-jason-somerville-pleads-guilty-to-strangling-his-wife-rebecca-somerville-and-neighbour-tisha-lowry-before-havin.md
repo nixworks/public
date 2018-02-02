@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/9/house-of-horrors-murderer-jason-somerville-pleads-guilty-to-strangling-his-wife-rebecca-somerville-and-neighbour-tisha-lowry-before-havin.html)  [JSON](/news/2009/11/9/house-of-horrors-murderer-jason-somerville-pleads-guilty-to-strangling-his-wife-rebecca-somerville-and-neighbour-tisha-lowry-before-havin.json)  [XML](/news/2009/11/9/house-of-horrors-murderer-jason-somerville-pleads-guilty-to-strangling-his-wife-rebecca-somerville-and-neighbour-tisha-lowry-before-havin.xml)  
+
 ### [2009-11-9](/news/2009/11/9/index.md)
 
+##### Jason Somerville
 #  "House of Horrors" murderer Jason Somerville pleads guilty to strangling his wife Rebecca Somerville and neighbour Tisha Lowry before having sex with their corpses in Christchurch, New Zealand. 
 
 &#034;House of horrors&#034; murderer Jason Somerville strangled his wife Rebecca Somerville and neighbour Tisha Lowry before having sex with their bodies.
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand](http://www.radionz.co.nz/news/stories/2009/11/09/1245d36bdb87)
 2. [The Sydney Morning Herald](http://www.smh.com.au/world/house-of-horrors-guilty-plea-20091109-i4m1.html)

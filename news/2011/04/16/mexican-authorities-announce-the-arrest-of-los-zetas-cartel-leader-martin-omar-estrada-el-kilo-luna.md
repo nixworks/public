@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/16/mexican-authorities-announce-the-arrest-of-los-zetas-cartel-leader-martin-omar-estrada-el-kilo-luna.html)  [JSON](/news/2011/04/16/mexican-authorities-announce-the-arrest-of-los-zetas-cartel-leader-martin-omar-estrada-el-kilo-luna.json)  [XML](/news/2011/04/16/mexican-authorities-announce-the-arrest-of-los-zetas-cartel-leader-martin-omar-estrada-el-kilo-luna.xml)  
+
 ### [2011-04-16](/news/2011/04/16/index.md)
 
+##### Mexican police
 # Mexican authorities announce the arrest of Los Zetas Cartel leader Martin Omar Estrada "El Kilo" Luna. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/americas/04/17/mexico.drug.arrest/)
 

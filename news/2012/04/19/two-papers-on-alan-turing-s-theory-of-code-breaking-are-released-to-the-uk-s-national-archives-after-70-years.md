@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/19/two-papers-on-alan-turing-s-theory-of-code-breaking-are-released-to-the-uk-s-national-archives-after-70-years.html)  [JSON](/news/2012/04/19/two-papers-on-alan-turing-s-theory-of-code-breaking-are-released-to-the-uk-s-national-archives-after-70-years.json)  [XML](/news/2012/04/19/two-papers-on-alan-turing-s-theory-of-code-breaking-are-released-to-the-uk-s-national-archives-after-70-years.xml)  
+
 ### [2012-04-19](/news/2012/04/19/index.md)
 
+##### Alan Turing
 # Two papers on Alan Turing's theory of code-breaking are released to the UK's National Archives after 70 years. 
 
 After 70 years, two papers on the theory of code breaking by mathematician Alan Turing are released to the National Archives.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/technology-17771962)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59745000/jpg/_59745030_turing.jpg)

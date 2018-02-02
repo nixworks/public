@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/26/intelligence-services-report-7-as-the-death-toll-resulting-from-2-u-s-drone-aircraft-missile-strikes-in-north-waziristan.html)  [JSON](/news/2010/09/26/intelligence-services-report-7-as-the-death-toll-resulting-from-2-u-s-drone-aircraft-missile-strikes-in-north-waziristan.json)  [XML](/news/2010/09/26/intelligence-services-report-7-as-the-death-toll-resulting-from-2-u-s-drone-aircraft-missile-strikes-in-north-waziristan.xml)  
+
 ### [2010-09-26](/news/2010/09/26/index.md)
 
+##### drone aircraft
 # Intelligence services report 7 as the death toll resulting from 2 U.S. drone aircraft missile strikes in North Waziristan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11414684)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

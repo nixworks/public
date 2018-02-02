@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/10/12/the-nigerian-government-announces-that-last-month-nigerian-sharia-courts-sentenced-two-women-one-of-whom-is-pregnant-to-death-by-stoning.html)  [JSON](/news/2004/10/12/the-nigerian-government-announces-that-last-month-nigerian-sharia-courts-sentenced-two-women-one-of-whom-is-pregnant-to-death-by-stoning.json)  [XML](/news/2004/10/12/the-nigerian-government-announces-that-last-month-nigerian-sharia-courts-sentenced-two-women-one-of-whom-is-pregnant-to-death-by-stoning.xml)  
+
 ### [2004-10-12](/news/2004/10/12/index.md)
 
+##### Nigeria
 #  The Nigerian government announces that last month, Nigerian Sharia courts sentenced two women, one of whom is pregnant, to death by stoning on charges of committing adultery, while acquitting the two men involved. The sentence may still be appealed. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6480190)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6480190)
 
 ### Related:
 

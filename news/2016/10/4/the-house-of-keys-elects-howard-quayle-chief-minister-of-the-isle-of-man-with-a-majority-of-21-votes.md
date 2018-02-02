@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/4/the-house-of-keys-elects-howard-quayle-chief-min
 
 ### [2016-10-4](/news/2016/10/4/index.md)
 
+##### Manx general election, 2016
 # The House of Keys elects Howard Quayle Chief Minister of the Isle of Man with a majority of 21 votes 
 
 

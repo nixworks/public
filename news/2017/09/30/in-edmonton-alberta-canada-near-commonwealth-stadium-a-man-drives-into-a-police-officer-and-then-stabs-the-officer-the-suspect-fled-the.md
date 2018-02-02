@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/30/in-edmonton-alberta-canada-near-commonwealth-st
 
 ### [2017-09-30](/news/2017/09/30/index.md)
 
+##### 2017 Edmonton attack
 # In Edmonton, Alberta, Canada, near Commonwealth Stadium, a man drives into a police officer and then stabs the officer. The suspect fled the scene and was later arrested that night following a police pursuit, where four pedestrians were hit by the suspect in a rental truck. Police are investigating the incident as an act of terrorism. 
 
 The suspect remains at large, but police have not provided a description. 

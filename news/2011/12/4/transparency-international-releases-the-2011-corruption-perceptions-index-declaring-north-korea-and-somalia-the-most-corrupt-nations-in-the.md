@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/4/transparency-international-releases-the-2011-corruption-perceptions-index-declaring-north-korea-and-somalia-the-most-corrupt-nations-in-the.html)  [JSON](/news/2011/12/4/transparency-international-releases-the-2011-corruption-perceptions-index-declaring-north-korea-and-somalia-the-most-corrupt-nations-in-the.json)  [XML](/news/2011/12/4/transparency-international-releases-the-2011-corruption-perceptions-index-declaring-north-korea-and-somalia-the-most-corrupt-nations-in-the.xml)  
+
 ### [2011-12-4](/news/2011/12/4/index.md)
 
+##### Transparency International
 # Transparency International releases the 2011 Corruption Perceptions Index, declaring North Korea and Somalia the most corrupt nations in the world, and New Zealand the least corrupt. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN.com](http://www.cnn.com/2011/12/03/world/corruption-perceptions-index/index.html?hpt=hp_t3)
 2. [Transparency.org](http://cpi.transparency.org/cpi2011/results/)

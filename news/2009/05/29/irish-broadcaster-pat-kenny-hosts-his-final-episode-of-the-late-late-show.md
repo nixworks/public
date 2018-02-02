@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/29/irish-broadcaster-pat-kenny-hosts-his-final-episode-of-the-late-late-show.html)  [JSON](/news/2009/05/29/irish-broadcaster-pat-kenny-hosts-his-final-episode-of-the-late-late-show.json)  [XML](/news/2009/05/29/irish-broadcaster-pat-kenny-hosts-his-final-episode-of-the-late-late-show.xml)  
+
 ### [2009-05-29](/news/2009/05/29/index.md)
 
+##### broadcaster
 #  Irish broadcaster Pat Kenny hosts his final episode of "The Late Late Show". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8045336.stm)
 2. [RTÉ](http://www.rte.ie/arts/2009/0520/kennyp.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/24/the-united-nations-calls-for-the-international-community-to-increase-support-to-somalia-as-the-country-approaches-the-twentieth-anniversary.html)  [JSON](/news/2011/01/24/the-united-nations-calls-for-the-international-community-to-increase-support-to-somalia-as-the-country-approaches-the-twentieth-anniversary.json)  [XML](/news/2011/01/24/the-united-nations-calls-for-the-international-community-to-increase-support-to-somalia-as-the-country-approaches-the-twentieth-anniversary.xml)  
+
 ### [2011-01-24](/news/2011/01/24/index.md)
 
+##### United Nations
 # The United Nations calls for the international community to increase support to Somalia as the country approaches the twentieth anniversary since the start of its civil war. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/24/c_13705072.htm)
 

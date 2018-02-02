@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/22/south-africa-s-north-gauteng-high-court-rules-t
 
 ### [2017-02-22](/news/2017/02/22/index.md)
 
+##### South Africa
 # South Africa's North Gauteng High Court rules the government's decision last October to withdraw from the Rome Statute of the International Criminal Court was unconstitutional, and instructs the government to revoke its notice of withdrawal. 
 
 JOHANNESBURG (AP) — A South African court ruled Wednesday that the government&#039;s decision to withdraw from the International Criminal Court without parliament&#039;s approval was unconstitutional. The country had been set to…

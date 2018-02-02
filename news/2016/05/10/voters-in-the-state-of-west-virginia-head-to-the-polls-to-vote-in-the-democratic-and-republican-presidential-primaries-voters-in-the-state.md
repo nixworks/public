@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/10/voters-in-the-state-of-west-virginia-head-to-th
 
 ### [2016-05-10](/news/2016/05/10/index.md)
 
+##### United States presidential election in West Virginia, 2016
 # Voters in the state of West Virginia head to the polls to vote in the Democratic and Republican presidential primaries. Voters in the state of Nebraska vote in the Republican presidential primary with Donald Trump just 169 delegates short of securing the nomination. 
 
 West Virginia election results from the 2016 general election.

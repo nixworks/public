@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/04/15/gunfire-disrupts-a-rally-in-support-of-former-president-of-kyrgyzstan-kurmanbek-bakiyev-in-the-southern-city-of-osh.html)  [JSON](/news/2010/04/15/gunfire-disrupts-a-rally-in-support-of-former-president-of-kyrgyzstan-kurmanbek-bakiyev-in-the-southern-city-of-osh.json)  [XML](/news/2010/04/15/gunfire-disrupts-a-rally-in-support-of-former-president-of-kyrgyzstan-kurmanbek-bakiyev-in-the-southern-city-of-osh.xml)  
+
 ### [2010-04-15](/news/2010/04/15/index.md)
 
+##### president
 # Gunfire disrupts a rally in support of former President of Kyrgyzstan Kurmanbek Bakiyev in the southern city of Osh. 
 
 Ousted President Kurmanbek Bakiyev fled Kyrgyzstan on Thursday and a government source said he had quit, a week after an uprising against his five-year rule sparked fears of civil war.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/20104156123795859.html)
-2. [Reuters](http://www.reuters.com/article/idUSTRE6363CR20100415)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100415&t=2&i=92466514&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-04-15T205032Z_01_BTRE63E13M400_RTROPTP_0_KYRGYZSTAN-UNREST-USA)
+2. [Reuters](https://www.reuters.com/article/idUSTRE6363CR20100415)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20100415&t=2&i=92466514&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-04-15T205032Z_01_BTRE63E13M400_RTROPTP_0_KYRGYZSTAN-UNREST-USA)
 
 ### Related:
 

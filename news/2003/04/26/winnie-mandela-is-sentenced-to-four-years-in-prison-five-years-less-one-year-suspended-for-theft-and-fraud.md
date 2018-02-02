@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/26/winnie-mandela-is-sentenced-to-four-years-in-prison-five-years-less-one-year-suspended-for-theft-and-fraud.html)  [JSON](/news/2003/04/26/winnie-mandela-is-sentenced-to-four-years-in-prison-five-years-less-one-year-suspended-for-theft-and-fraud.json)  [XML](/news/2003/04/26/winnie-mandela-is-sentenced-to-four-years-in-prison-five-years-less-one-year-suspended-for-theft-and-fraud.xml)  
+
 ### [2003-04-26](/news/2003/04/26/index.md)
 
+##### Winnie Mandela
 #  Winnie Mandela is sentenced to four years in prison (five years, less one-year suspended) for theft and fraud.
 
 

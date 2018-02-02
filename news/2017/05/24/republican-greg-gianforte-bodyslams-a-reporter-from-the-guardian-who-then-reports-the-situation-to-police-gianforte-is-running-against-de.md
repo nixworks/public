@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/24/republican-greg-gianforte-bodyslams-a-reporter-
 
 ### [2017-05-24](/news/2017/05/24/index.md)
 
+##### Montana's at-large congressional district special election, 2017
 # Republican Greg Gianforte bodyslams a reporter from "The Guardian" who then reports the situation to police. Gianforte is running against Democrat Rob Quist. 
 
 Audio of Greg Gianforte attacking Ben Jacobs corroborated by Fox News journalists in the room, who described candidate ‘slamming him to the ground’

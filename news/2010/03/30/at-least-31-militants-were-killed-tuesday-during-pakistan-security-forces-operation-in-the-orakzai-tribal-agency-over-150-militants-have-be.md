@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/30/at-least-31-militants-were-killed-tuesday-during-pakistan-security-forces-operation-in-the-orakzai-tribal-agency-over-150-militants-have-be.html)  [JSON](/news/2010/03/30/at-least-31-militants-were-killed-tuesday-during-pakistan-security-forces-operation-in-the-orakzai-tribal-agency-over-150-militants-have-be.json)  [XML](/news/2010/03/30/at-least-31-militants-were-killed-tuesday-during-pakistan-security-forces-operation-in-the-orakzai-tribal-agency-over-150-militants-have-be.xml)  
+
 ### [2010-03-30](/news/2010/03/30/index.md)
 
+##### Pakistan Security Forces
 # At least 31 militants were killed Tuesday during Pakistan Security Forces operation in the Orakzai tribal agency. Over 150 militants have been killed in the last six days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [People Dialy](http://english.peopledaily.com.cn/90001/90777/90851/6935244.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/14/attacks-all-across-pakistan-leave-dozens-dead-with-the-most-violence-centered-in-peshawar-and-quetta.html)  [JSON](/news/2014/03/14/attacks-all-across-pakistan-leave-dozens-dead-with-the-most-violence-centered-in-peshawar-and-quetta.json)  [XML](/news/2014/03/14/attacks-all-across-pakistan-leave-dozens-dead-with-the-most-violence-centered-in-peshawar-and-quetta.xml)  
+
 ### [2014-03-14](/news/2014/03/14/index.md)
 
+##### Pakistan
 # Attacks all across Pakistan leave dozens dead, with the most violence centered in Peshawar and Quetta. 
 
 * Splinter group claims responsibility* Government trying to engage militants in talks* Doubts over peace process as attacks persist (Adds
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/2014/03/14/pakistan-attacks-idINL3N0MB3PH20140314)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

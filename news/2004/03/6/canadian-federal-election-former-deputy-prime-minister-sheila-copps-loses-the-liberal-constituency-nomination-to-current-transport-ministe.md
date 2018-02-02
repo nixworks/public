@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/03/6/canadian-federal-election-former-deputy-prime-minister-sheila-copps-loses-the-liberal-constituency-nomination-to-current-transport-ministe.html)  [JSON](/news/2004/03/6/canadian-federal-election-former-deputy-prime-minister-sheila-copps-loses-the-liberal-constituency-nomination-to-current-transport-ministe.json)  [XML](/news/2004/03/6/canadian-federal-election-former-deputy-prime-minister-sheila-copps-loses-the-liberal-constituency-nomination-to-current-transport-ministe.xml)  
+
 ### [2004-03-6](/news/2004/03/6/index.md)
 
+##### 2004 federal election
 #  Canadian federal election: Former deputy prime minister Sheila Copps loses the Liberal constituency nomination to current Transport Minister Tony Valeri by 311 votes. She will likely appeal; there is some speculation that if the loss remains, she will either run as an independent or for the New Democratic Party. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1078614610252&call_pageid=968332188492&col=968793972154)
+1. [Toronto Star](https://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1078614610252&call_pageid=968332188492&col=968793972154)
 
 ### Related:
 

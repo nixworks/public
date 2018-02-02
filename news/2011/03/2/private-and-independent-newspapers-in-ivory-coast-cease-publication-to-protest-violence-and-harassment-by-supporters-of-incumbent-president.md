@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2011/03/2/private-and-independent-newspapers-in-ivory-coast-cease-publication-to-protest-violence-and-harassment-by-supporters-of-incumbent-president.html)  [JSON](/news/2011/03/2/private-and-independent-newspapers-in-ivory-coast-cease-publication-to-protest-violence-and-harassment-by-supporters-of-incumbent-president.json)  [XML](/news/2011/03/2/private-and-independent-newspapers-in-ivory-coast-cease-publication-to-protest-violence-and-harassment-by-supporters-of-incumbent-president.xml)  
+
 ### [2011-03-2](/news/2011/03/2/index.md)
 
+##### Ivory Coast
 # Private and independent newspapers in Ivory Coast cease publication to protest violence and harassment by supporters of incumbent President Laurent Gbagbo. Radio broadcasts by the BBC and RFI are taken off air. 
 
+Ivory Coast’s eight privately owned opposition newspapers and one independent suspended publication starting yesterday to protest threats and harassment by the supporters of incumbent President Laurent Gbagbo.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2011-03-02/ivory-coast-opposition-papers-suspend-publication-amid-threats.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2011-03-02/ivory-coast-opposition-papers-suspend-publication-amid-threats.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

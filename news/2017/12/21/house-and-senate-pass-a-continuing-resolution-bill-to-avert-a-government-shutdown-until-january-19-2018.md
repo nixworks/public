@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/21/house-and-senate-pass-a-continuing-resolution-b
 
 ### [2017-12-21](/news/2017/12/21/index.md)
 
+##### Government shutdown in the United States
 # House and Senate pass a continuing resolution bill to avert a government shutdown until January 19, 2018. 
 
 

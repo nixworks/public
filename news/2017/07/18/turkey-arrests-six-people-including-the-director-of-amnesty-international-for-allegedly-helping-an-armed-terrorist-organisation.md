@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/18/turkey-arrests-six-people-including-the-directo
 
 ### [2017-07-18](/news/2017/07/18/index.md)
 
+##### Judicial system of Turkey
 # Turkey arrests six people, including the director of Amnesty International, for allegedly "helping an armed terrorist organisation". 
 
 Amnesty International director among the six jailed for &#39;helping an armed terrorist organisation&#39;.

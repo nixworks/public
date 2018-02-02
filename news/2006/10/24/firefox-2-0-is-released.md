@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/24/firefox-2-0-is-released.html)  [JSON](/news/2006/10/24/firefox-2-0-is-released.json)  [XML](/news/2006/10/24/firefox-2-0-is-released.xml)  
+
 ### [2006-10-24](/news/2006/10/24/index.md)
 
+##### Firefox
 #  Firefox 2.0 is released. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNET](http://news.com.com/2061-11199_3-6130035.html)
 

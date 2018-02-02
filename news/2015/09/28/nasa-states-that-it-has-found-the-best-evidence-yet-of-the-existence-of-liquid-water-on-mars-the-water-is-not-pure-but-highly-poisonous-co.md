@@ -1,21 +1,25 @@
+
+Formats: [HTML](/news/2015/09/28/nasa-states-that-it-has-found-the-best-evidence-yet-of-the-existence-of-liquid-water-on-mars-the-water-is-not-pure-but-highly-poisonous-co.html)  [JSON](/news/2015/09/28/nasa-states-that-it-has-found-the-best-evidence-yet-of-the-existence-of-liquid-water-on-mars-the-water-is-not-pure-but-highly-poisonous-co.json)  [XML](/news/2015/09/28/nasa-states-that-it-has-found-the-best-evidence-yet-of-the-existence-of-liquid-water-on-mars-the-water-is-not-pure-but-highly-poisonous-co.xml)  
+
 ### [2015-09-28](/news/2015/09/28/index.md)
 
+##### NASA
 # NASA states that it has found the best evidence yet of the existence of liquid water on Mars. The water is not pure but highly poisonous, containing various dissolved salts that on Earth only an extremophile microbe might survive within. 
 
 NASA will detail a major science finding from the agency’s ongoing exploration of Mars during a news briefing at 11:30 a.m. EDT on Monday, Sept. 28 at the James Webb Auditorium at NASA Headquarters in Washington. The event will be broadcast live on NASA Television and the agency&#039;s website.
 
 
-### Source:
+### Sources:
 
-1. [CNBC](http://www.cnbc.com/2015/09/28/ter-nasa.html)
+1. [CNBC](https://www.cnbc.com/2015/09/28/ter-nasa.html)
 2. [NASA](http://www.nasa.gov/press-release/nasa-to-announce-mars-mystery-solved/)
 3. [News Limited via ''Daily Telegraph](http://www.dailytelegraph.com.au/technology/science/nasa-to-hold-urgent-press-conference-to-announce-major-science-finding-from-mars/story-fnjwlbuc-1227545913251)
 3. [Cover Image](http://www.nasa.gov/sites/default/files/thumbnails/image/m15-145.jpg)
 
 ### Related:
 
-1. [NASA's MRO spacecraft provides images allowing scientists for the first time to create a 3D reconstruction of ancient water channels below the Martian surface. ](/news/2013/03/9/nasa-s-mro-spacecraft-provides-images-allowing-scientists-for-the-first-time-to-create-a-3d-reconstruction-of-ancient-water-channels-below-t.md) _Context: NASA, water on Mars_
-2. [NASA's Mars rover Curiosity extends evidence of water-bearing minerals when studying the rock Tintina. ](/news/2013/03/19/nasa-s-mars-rover-curiosity-extends-evidence-of-water-bearing-minerals-when-studying-the-rock-tintina.md) _Context: NASA, water on Mars_
-3. [As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes a distance of 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.md) _Context: NASA_
-4. [Results of the Juno mission are announced by NASA researchers, revealing new and unexpected information concerning Jupiter's poles, meteorology, and magnetic and gravitational fields. ](/news/2017/05/25/results-of-the-juno-mission-are-announced-by-nasa-researchers-revealing-new-and-unexpected-information-concerning-jupiter-s-poles-meteorol.md) _Context: NASA_
-5. [Peggy Whitson, commander of the International Space Station (ISS), breaks the record for most total days spent in space by any NASA astronaut, at more than 534 days. ](/news/2017/04/24/peggy-whitson-commander-of-the-international-space-station-iss-breaks-the-record-for-most-total-days-spent-in-space-by-any-nasa-astronau.md) _Context: NASA_
+1. [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md) _Context: NASA_
+2. [NASA research, published in "Geophysical Research Letters", implies that the ozone layer is starting to recover due to man's actions. The decline in ozone-depleting chemicals, specifically chlorine from chlorofluorocarbon (an effect from the 1980's CFC ban, say the scientists), has resulted in 20 percent less depletion since 2005. ](/news/2018/01/5/nasa-research-published-in-geophysical-research-letters-implies-that-the-ozone-layer-is-starting-to-recover-due-to-man-s-actions-the-de.md) _Context: NASA_
+3. [U.S. President Donald Trump names former NASA astronaut James F. Reilly as leader of the U.S. Geological Survey. ](/news/2018/01/26/u-s-president-donald-trump-names-former-nasa-astronaut-james-f-reilly-as-leader-of-the-u-s-geological-survey.md) _Context: NASA_
+4. [U.S. President Donald Trump signs the "Space Policy Directive 1" that establishes the foundation for a crewed mission to the Moon, while also maintaining a longer-term NASA goal of landing a man on Mars. ](/news/2017/12/11/u-s-president-donald-trump-signs-the-space-policy-directive-1-that-establishes-the-foundation-for-a-crewed-mission-to-the-moon-while-als.md) _Context: NASA_
+5. [As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes a distance of 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.md) _Context: NASA_

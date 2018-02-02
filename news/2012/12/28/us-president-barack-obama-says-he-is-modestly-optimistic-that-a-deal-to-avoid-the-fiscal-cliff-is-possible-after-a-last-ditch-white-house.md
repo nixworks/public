@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/12/28/us-president-barack-obama-says-he-is-modestly-optimistic-that-a-deal-to-avoid-the-fiscal-cliff-is-possible-after-a-last-ditch-white-house.html)  [JSON](/news/2012/12/28/us-president-barack-obama-says-he-is-modestly-optimistic-that-a-deal-to-avoid-the-fiscal-cliff-is-possible-after-a-last-ditch-white-house.json)  [XML](/news/2012/12/28/us-president-barack-obama-says-he-is-modestly-optimistic-that-a-deal-to-avoid-the-fiscal-cliff-is-possible-after-a-last-ditch-white-house.xml)  
+
 ### [2012-12-28](/news/2012/12/28/index.md)
 
+##### US President
 # US President Barack Obama says he is "modestly optimistic" that a deal to avoid the fiscal cliff is possible, after a last-ditch White House meeting. 
 
 US President Barack Obama says he is &quot;modestly optimistic&quot; that a deal to avoid the &quot;fiscal cliff&quot; is possible, after a last-ditch White House meeting.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-20862716)
-2. [Reuters](http://www.reuters.com/article/2012/12/28/us-usa-fiscal-obama-congress-idUSBRE8BR0M120121228)
+2. [Reuters](https://www.reuters.com/article/2012/12/28/us-usa-fiscal-obama-congress-idUSBRE8BR0M120121228)
 2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64999000/jpg/_64999668_64999667.jpg)
 
 ### Related:

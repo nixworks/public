@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/7/a-5-8-magnitude-earthquake-rocks-northern-japan-it-was-centered-close-to-the-earth-s-surface-in-the-chuetsu-area-of-niigata-prefecture.html)  [JSON](/news/2004/11/7/a-5-8-magnitude-earthquake-rocks-northern-japan-it-was-centered-close-to-the-earth-s-surface-in-the-chuetsu-area-of-niigata-prefecture.json)  [XML](/news/2004/11/7/a-5-8-magnitude-earthquake-rocks-northern-japan-it-was-centered-close-to-the-earth-s-surface-in-the-chuetsu-area-of-niigata-prefecture.xml)  
+
 ### [2004-11-7](/news/2004/11/7/index.md)
 
+##### magnitude
 #  A 5.8 magnitude earthquake rocks northern Japan. It was centered close to the Earth's surface in the Chuetsu area of Niigata prefecture. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2004/WORLD/asiapcf/11/07/new.japan.quake.ap/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/29/a-petition-objecting-to-the-extradition-of-richard-o-dwyer-to-the-united-states-garners-160-000-signatures-in-less-than-five-days.html)  [JSON](/news/2012/06/29/a-petition-objecting-to-the-extradition-of-richard-o-dwyer-to-the-united-states-garners-160-000-signatures-in-less-than-five-days.json)  [XML](/news/2012/06/29/a-petition-objecting-to-the-extradition-of-richard-o-dwyer-to-the-united-states-garners-160-000-signatures-in-less-than-five-days.xml)  
+
 ### [2012-06-29](/news/2012/06/29/index.md)
 
+##### Richard O'Dwyer
 # A petition objecting to the extradition of Richard O'Dwyer to the United States garners 160,000 signatures in less than five days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/uk/2012/jun/29/richard-odwyer-160000)
 

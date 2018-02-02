@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/14/opposition-politicians-walk-out-of-the-russian-lower-house-of-parliament-the-state-duma-alleging-vote-rigging-at-the-weekend-s-elections.html)  [JSON](/news/2009/10/14/opposition-politicians-walk-out-of-the-russian-lower-house-of-parliament-the-state-duma-alleging-vote-rigging-at-the-weekend-s-elections.json)  [XML](/news/2009/10/14/opposition-politicians-walk-out-of-the-russian-lower-house-of-parliament-the-state-duma-alleging-vote-rigging-at-the-weekend-s-elections.xml)  
+
 ### [2009-10-14](/news/2009/10/14/index.md)
 
+##### Russia
 #  Opposition politicians walk out of the Russian lower house of parliament, the State Duma, alleging vote rigging at the weekend's elections which saw the United Russia party winning nearly every poll. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8307709.stm)
 2. [RIA Novosti](http://en.rian.ru/russia/20091014/156463070.html)

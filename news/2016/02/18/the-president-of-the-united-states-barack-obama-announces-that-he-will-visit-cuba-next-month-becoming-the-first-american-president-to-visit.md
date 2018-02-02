@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/18/the-president-of-the-united-states-barack-obama
 
 ### [2016-02-18](/news/2016/02/18/index.md)
 
+##### Cuba-United States relations
 # The President of the United States Barack Obama announces that he will visit Cuba next month becoming the first American president to visit Cuba since 1928. 
 
 President Obama promised to raise human rights concerns when he makes a historic trip to Cuba in March but stopped short of explicitly promising to meet with pro-democracy dissidents.

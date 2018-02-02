@@ -1,14 +1,19 @@
+
+Formats: [HTML](/news/2010/10/14/colonel-abdoulaye-badie-the-second-in-command-in-niger-s-military-government-the-supreme-council-for-the-restoration-of-democracy-is-arre.html)  [JSON](/news/2010/10/14/colonel-abdoulaye-badie-the-second-in-command-in-niger-s-military-government-the-supreme-council-for-the-restoration-of-democracy-is-arre.json)  [XML](/news/2010/10/14/colonel-abdoulaye-badie-the-second-in-command-in-niger-s-military-government-the-supreme-council-for-the-restoration-of-democracy-is-arre.xml)  
+
 ### [2010-10-14](/news/2010/10/14/index.md)
 
+##### Abdoulaye Badie
 # Colonel Abdoulaye Badie, the second in command in Niger's military government, the Supreme Council for the Restoration of Democracy, is arrested. 
 
+Colonel Abdoulaye Badie, the second in comand in Niger’s military government, was arrested yesterday and is being detained at the army’s headquarters, two military officials with knowledge of the arrest said.
 
 
-
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jVMQKv3fbGjLdcrYG_ybh-Sp-QBA?docId=CNG.c490a34eb4dcbad86bdef9d80c9704cf.271)
-2. [Bloomberg](http://www.bloomberg.com/news/2010-10-14/niger-s-abdoulaye-badie-second-in-command-in-junta-has-been-arrested.html)
+2. [Bloomberg](https://www.bloomberg.com/news/2010-10-14/niger-s-abdoulaye-badie-second-in-command-in-junta-has-been-arrested.html)
+2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

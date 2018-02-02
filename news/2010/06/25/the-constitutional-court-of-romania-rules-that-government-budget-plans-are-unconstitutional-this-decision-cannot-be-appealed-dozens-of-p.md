@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/06/25/the-constitutional-court-of-romania-rules-that-government-budget-plans-are-unconstitutional-this-decision-cannot-be-appealed-dozens-of-p.html)  [JSON](/news/2010/06/25/the-constitutional-court-of-romania-rules-that-government-budget-plans-are-unconstitutional-this-decision-cannot-be-appealed-dozens-of-p.json)  [XML](/news/2010/06/25/the-constitutional-court-of-romania-rules-that-government-budget-plans-are-unconstitutional-this-decision-cannot-be-appealed-dozens-of-p.xml)  
+
 ### [2010-06-25](/news/2010/06/25/index.md)
 
+##### Constitutional Court of Romania
 # The Constitutional Court of Romania rules that government budget plans are "unconstitutional"; this decision cannot be appealed. Dozens of people trying to request an audience with President Traian Basescu at his palace are beaten back by riot police. 
 
 A court in Romania rules out a pension cut demanded by the government as part of an austerity package.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10421118.stm)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5732913,00.html)
 3. [France24](http://www.france24.com/en/20100625-romania-prepares-options-cut-deficit-pm)
-4. [Reuters](http://www.reuters.com/article/idUSBUC00372420100625)
+4. [Reuters](https://www.reuters.com/article/idUSBUC00372420100625)
 4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:

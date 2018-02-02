@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/03/12/the-9th-u-s-circuit-court-of-appeals-rules-that-a-22-year-sentence-given-to-ahmed-ressam-for-attempting-to-bomb-the-los-angeles-internation.html)  [JSON](/news/2012/03/12/the-9th-u-s-circuit-court-of-appeals-rules-that-a-22-year-sentence-given-to-ahmed-ressam-for-attempting-to-bomb-the-los-angeles-internation.json)  [XML](/news/2012/03/12/the-9th-u-s-circuit-court-of-appeals-rules-that-a-22-year-sentence-given-to-ahmed-ressam-for-attempting-to-bomb-the-los-angeles-internation.xml)  
+
 ### [2012-03-12](/news/2012/03/12/index.md)
 
+##### 9th U.S. Circuit Court of Appeals
 # The 9th U.S. Circuit Court of Appeals rules that a 22 year sentence given to Ahmed Ressam for attempting to bomb the Los Angeles International Airport as part of the 2000 millennium attack plots was too light. 
 
 4 to overturn prison sentence
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/03/12/usa-bomber-sentencing-idUSL2E8EC4B120120312)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/03/12/usa-bomber-sentencing-idUSL2E8EC4B120120312)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

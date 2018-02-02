@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/2/around-1-500-people-demonstrate-peacefully-in-bremen-city-centre-against-a-weekend-of-celebrations-as-the-20th-anniversary-of-german-reunifi.html)  [JSON](/news/2010/10/2/around-1-500-people-demonstrate-peacefully-in-bremen-city-centre-against-a-weekend-of-celebrations-as-the-20th-anniversary-of-german-reunifi.json)  [XML](/news/2010/10/2/around-1-500-people-demonstrate-peacefully-in-bremen-city-centre-against-a-weekend-of-celebrations-as-the-20th-anniversary-of-german-reunifi.xml)  
+
 ### [2010-10-2](/news/2010/10/2/index.md)
 
+##### Bremen
 # Around 1,500 people demonstrate peacefully in Bremen city centre against a weekend of celebrations as the 20th anniversary of German reunification approaches, discrediting police fears of large-scale riots. 
 
 Germany marks 20 years as a reunified nation, with tens of thousands attending festivities in the city of Bremen.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11461199)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,6068723,00.html)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/22/voters-in-tajikistan-go-to-the-polls-for-a-refe
 
 ### [2016-05-22](/news/2016/05/22/index.md)
 
+##### Tajikistani constitutional referendum, 2016
 # Voters in Tajikistan go to the polls for a referendum to make various amendments to the constitution which include, among other things, the elimination of term limits to allow President Emomali Rahmon and only him to run again for office and lowering the presidential age limit from 35 to 30, which observers believe will position Rahmon's son Rustam Emomali for future succession. 
 
 

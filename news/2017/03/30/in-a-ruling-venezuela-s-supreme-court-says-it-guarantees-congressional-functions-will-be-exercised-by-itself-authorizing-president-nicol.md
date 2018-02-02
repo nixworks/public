@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/30/in-a-ruling-venezuela-s-supreme-court-says-it-g
 
 ### [2017-03-30](/news/2017/03/30/index.md)
 
+##### 2017 dissolution of Venezuelan National Assembly
 # In a ruling, Venezuela's Supreme Court says it "guarantees congressional functions will be exercised by" itself, authorizing president Nicolas Maduro to create oil joint ventures without the previously mandated congressional approval. Opposition leaders call it a "coup", while Peru recalls its ambassador. 
 
 Fears have been raised about democracy after the National Assembly was stripped of powers.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/22/fifty-seventh-national-film-awards-given-away-by-president-pratibha-patel-in-new-delhi.html)  [JSON](/news/2010/10/22/fifty-seventh-national-film-awards-given-away-by-president-pratibha-patel-in-new-delhi.json)  [XML](/news/2010/10/22/fifty-seventh-national-film-awards-given-away-by-president-pratibha-patel-in-new-delhi.xml)  
+
 ### [2010-10-22](/news/2010/10/22/index.md)
 
+##### National Film Awards
 # Fifty-seventh National Film Awards given away by President Pratibha Patel in New Delhi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindu](http://www.thehindu.com/arts/cinema/article845182.ece)
 

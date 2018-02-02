@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/01/8/two-burmese-whistleblowers-are-sentenced-to-death-for-leaking-details-of-secret-government-visits-to-north-korea.html)  [JSON](/news/2010/01/8/two-burmese-whistleblowers-are-sentenced-to-death-for-leaking-details-of-secret-government-visits-to-north-korea.json)  [XML](/news/2010/01/8/two-burmese-whistleblowers-are-sentenced-to-death-for-leaking-details-of-secret-government-visits-to-north-korea.xml)  
+
 ### [2010-01-8](/news/2010/01/8/index.md)
 
+##### Burma
 # Two Burmese whistleblowers are sentenced to death for leaking details of secret government visits to North Korea. 
 
 Two officials in Burma have been sentenced to death for leaking information, in a case reportedly involving secret contact between the junta and North Korea.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2010/01/09/world/asia/09myanmar.html)
+1. [The New York Times](https://www.nytimes.com/2010/01/09/world/asia/09myanmar.html)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/leaking-burmese-officials-to-be-executed-20100108-lyp6.html)
 2. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 

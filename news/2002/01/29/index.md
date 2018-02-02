@@ -1,7 +1,7 @@
-## [2002-01-29](/news/2002/01/29/index.md)
 
-### [George W. Bush delivered his State of the Union Address to Congress.](/news/2002/01/29/george-w-bush-delivered-his-state-of-the-union-address-to-congress.md)
-_Context: George W. Bush, State of the Union Address_
+Formats: [HTML](2002/01/29/index.html)  [JSON](2002/01/29/index.json)  [XML](2002/01/29/index.xml)  
+
+## [2002-01-29](/news/2002/01/29/index.md)
 
 ## [Previous Day...](/news/2002/01/28/index.md)
 

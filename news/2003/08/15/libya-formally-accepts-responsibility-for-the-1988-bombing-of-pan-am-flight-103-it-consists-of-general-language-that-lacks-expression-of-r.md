@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/15/libya-formally-accepts-responsibility-for-the-1988-bombing-of-pan-am-flight-103-it-consists-of-general-language-that-lacks-expression-of-r.html)  [JSON](/news/2003/08/15/libya-formally-accepts-responsibility-for-the-1988-bombing-of-pan-am-flight-103-it-consists-of-general-language-that-lacks-expression-of-r.json)  [XML](/news/2003/08/15/libya-formally-accepts-responsibility-for-the-1988-bombing-of-pan-am-flight-103-it-consists-of-general-language-that-lacks-expression-of-r.xml)  
+
 ### [2003-08-15](/news/2003/08/15/index.md)
 
+##### Libya
 #  Libya formally accepts responsibility for the 1988 bombing of Pan Am Flight 103. It consists of general language that lacks expression of remorse for lives lost. Although some claim the acceptance is just a business deal and not a true admission of guilt.
 
 

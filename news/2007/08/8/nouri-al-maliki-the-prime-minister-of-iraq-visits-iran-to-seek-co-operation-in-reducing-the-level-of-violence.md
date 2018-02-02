@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/08/8/nouri-al-maliki-the-prime-minister-of-iraq-visits-iran-to-seek-co-operation-in-reducing-the-level-of-violence.html)  [JSON](/news/2007/08/8/nouri-al-maliki-the-prime-minister-of-iraq-visits-iran-to-seek-co-operation-in-reducing-the-level-of-violence.json)  [XML](/news/2007/08/8/nouri-al-maliki-the-prime-minister-of-iraq-visits-iran-to-seek-co-operation-in-reducing-the-level-of-violence.xml)  
+
 ### [2007-08-8](/news/2007/08/8/index.md)
 
+##### Nouri al-Maliki
 #  Nouri al-Maliki, the Prime Minister of Iraq, visits Iran to seek co-operation in reducing the level of violence. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Forbes](http://www.forbes.com/feeds/ap/2007/08/08/ap4000ƒ466.html)
+1. [AP via Forbes](https://www.forbes.com/feeds/ap/2007/08/08/ap4000ƒ466.html)
 
 ### Related:
 

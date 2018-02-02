@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/14/3-children-are-wounded-after-a-wheelie-bin-explodes-in-lurgan-county-armagh.html)  [JSON](/news/2010/08/14/3-children-are-wounded-after-a-wheelie-bin-explodes-in-lurgan-county-armagh.json)  [XML](/news/2010/08/14/3-children-are-wounded-after-a-wheelie-bin-explodes-in-lurgan-county-armagh.xml)  
+
 ### [2010-08-14](/news/2010/08/14/index.md)
 
+##### wheelie bin
 # 3 children are wounded after a wheelie bin explodes in Lurgan, County Armagh. 
 
 Police investigating suspicious packages in Lurgan, County Armagh, are attacked with petrol bombs.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-10975548)
 2. [RTÉ](http://www.rte.ie/news/2010/0814/north1.html)

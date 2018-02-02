@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/17/the-united-nations-finds-a-surveillance-bug-in-its-european-headquarters-in-geneva-in-a-room-used-by-ministers-from-major-powers-last-year.html)  [JSON](/news/2004/12/17/the-united-nations-finds-a-surveillance-bug-in-its-european-headquarters-in-geneva-in-a-room-used-by-ministers-from-major-powers-last-year.json)  [XML](/news/2004/12/17/the-united-nations-finds-a-surveillance-bug-in-its-european-headquarters-in-geneva-in-a-room-used-by-ministers-from-major-powers-last-year.xml)  
+
 ### [2004-12-17](/news/2004/12/17/index.md)
 
+##### United Nations
 #  The United Nations finds a surveillance bug in its European headquarters in Geneva in a room used by ministers from major powers last year during private talks on Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4103907.stm)
 

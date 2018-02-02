@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/23/asylum-seekers-at-the-scherger-immigration-detention-centre-near-weipa-in-the-australian-state-of-queensland-start-harming-themselves-in-pro.html)  [JSON](/news/2011/07/23/asylum-seekers-at-the-scherger-immigration-detention-centre-near-weipa-in-the-australian-state-of-queensland-start-harming-themselves-in-pro.json)  [XML](/news/2011/07/23/asylum-seekers-at-the-scherger-immigration-detention-centre-near-weipa-in-the-australian-state-of-queensland-start-harming-themselves-in-pro.xml)  
+
 ### [2011-07-23](/news/2011/07/23/index.md)
 
+##### asylum seekers
 # Asylum seekers at the Scherger Immigration Detention Centre near Weipa in the Australian state of Queensland start harming themselves in protest. 
 
 Detainees in a remote immigration detention centre in Queensland have started self harm as part of a protest, an advocate says.
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/detainees-start-self-harm-in-qld-protest-20110723-1htxc.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

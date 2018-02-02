@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/25/sri-lankan-civil-war-at-least-24-people-are-killed-by-a-blast-on-a-bus-near-colombo.html)  [JSON](/news/2008/04/25/sri-lankan-civil-war-at-least-24-people-are-killed-by-a-blast-on-a-bus-near-colombo.json)  [XML](/news/2008/04/25/sri-lankan-civil-war-at-least-24-people-are-killed-by-a-blast-on-a-bus-near-colombo.xml)  
+
 ### [2008-04-25](/news/2008/04/25/index.md)
 
+##### Sri Lankan Civil War
 #  Sri Lankan Civil War: At least 24 people are killed by a blast on a bus near Colombo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7367468.stm)
 

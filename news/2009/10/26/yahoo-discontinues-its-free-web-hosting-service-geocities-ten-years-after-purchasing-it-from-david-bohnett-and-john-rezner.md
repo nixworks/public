@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/26/yahoo-discontinues-its-free-web-hosting-service-geocities-ten-years-after-purchasing-it-from-david-bohnett-and-john-rezner.html)  [JSON](/news/2009/10/26/yahoo-discontinues-its-free-web-hosting-service-geocities-ten-years-after-purchasing-it-from-david-bohnett-and-john-rezner.json)  [XML](/news/2009/10/26/yahoo-discontinues-its-free-web-hosting-service-geocities-ten-years-after-purchasing-it-from-david-bohnett-and-john-rezner.xml)  
+
 ### [2009-10-26](/news/2009/10/26/index.md)
 
+##### Yahoo!
 #  Yahoo! discontinues its free web hosting service GeoCities, ten years after purchasing it from David Bohnett and John Rezner. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Los Angeles Times](http://latimesblogs.latimes.com/technology/2009/10/geocities-closing.html)
 1. [Cover Image](http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef0120a619c14a970b-120pi)

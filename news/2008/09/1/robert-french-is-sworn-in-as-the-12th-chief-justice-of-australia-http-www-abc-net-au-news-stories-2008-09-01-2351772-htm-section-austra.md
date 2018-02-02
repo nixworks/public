@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2008/09/1/robert-french-is-sworn-in-as-the-12th-chief-justice-of-australia-http-www-abc-net-au-news-stories-2008-09-01-2351772-htm-section-austra.html)  [JSON](/news/2008/09/1/robert-french-is-sworn-in-as-the-12th-chief-justice-of-australia-http-www-abc-net-au-news-stories-2008-09-01-2351772-htm-section-austra.json)  [XML](/news/2008/09/1/robert-french-is-sworn-in-as-the-12th-chief-justice-of-australia-http-www-abc-net-au-news-stories-2008-09-01-2351772-htm-section-austra.xml)  
+
 ### [2008-09-1](/news/2008/09/1/index.md)
 
+##### Robert French
 #  Robert French is sworn in as the 12th Chief Justice of Australia. [http:--www.abc.net.au-news-stories-2008-09-01-2351772.htm?section=australia (ABC (Australia))]
 
 

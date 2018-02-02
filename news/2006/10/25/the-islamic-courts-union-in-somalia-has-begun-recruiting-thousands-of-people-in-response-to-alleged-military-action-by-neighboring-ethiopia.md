@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/25/the-islamic-courts-union-in-somalia-has-begun-recruiting-thousands-of-people-in-response-to-alleged-military-action-by-neighboring-ethiopia.html)  [JSON](/news/2006/10/25/the-islamic-courts-union-in-somalia-has-begun-recruiting-thousands-of-people-in-response-to-alleged-military-action-by-neighboring-ethiopia.json)  [XML](/news/2006/10/25/the-islamic-courts-union-in-somalia-has-begun-recruiting-thousands-of-people-in-response-to-alleged-military-action-by-neighboring-ethiopia.xml)  
+
 ### [2006-10-25](/news/2006/10/25/index.md)
 
+##### Islamic Courts Union
 #  The Islamic Courts Union in Somalia has begun recruiting thousands of people in response to alleged military action by neighboring Ethiopia, amid fears of all-out war across the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/284EE7A7-08AB-4709-AB2E-8FE902602254.htm)
 

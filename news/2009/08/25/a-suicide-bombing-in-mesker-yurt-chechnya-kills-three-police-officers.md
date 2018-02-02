@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/08/25/a-suicide-bombing-in-mesker-yurt-chechnya-kills-three-police-officers.html)  [JSON](/news/2009/08/25/a-suicide-bombing-in-mesker-yurt-chechnya-kills-three-police-officers.json)  [XML](/news/2009/08/25/a-suicide-bombing-in-mesker-yurt-chechnya-kills-three-police-officers.xml)  
+
 ### [2009-08-25](/news/2009/08/25/index.md)
 
+##### Mesker-Yurt
 #  A suicide bombing in Mesker-Yurt, Chechnya, kills three police officers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/8219791.stm)
-2. [Yahoo! news](http://news.yahoo.com/s/ap/20090825/ap_on_re_eu/eu_russia_caucasus_violence)
+2. [Yahoo! news](https://news.yahoo.com/s/ap/20090825/ap_on_re_eu/eu_russia_caucasus_violence)
 
 ### Related:
 

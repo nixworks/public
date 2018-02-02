@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/15/a-man-who-found-what-he-believes-to-be-the-secret-recipe-for-coca-cola-at-an-estate-sale-sells-the-instructions-on-ebay-for-15-million.html)  [JSON](/news/2013/05/15/a-man-who-found-what-he-believes-to-be-the-secret-recipe-for-coca-cola-at-an-estate-sale-sells-the-instructions-on-ebay-for-15-million.json)  [XML](/news/2013/05/15/a-man-who-found-what-he-believes-to-be-the-secret-recipe-for-coca-cola-at-an-estate-sale-sells-the-instructions-on-ebay-for-15-million.xml)  
+
 ### [2013-05-15](/news/2013/05/15/index.md)
 
+##### Coca-Cola
 # A man who found what he believes to be the secret recipe for Coca-Cola at an estate sale sells the instructions on eBay for $15 million. 
 
 A Georgia antiques collector is the latest person to claim he&#039;s found the original recipe for Coca-Cola
 
 
-### Source:
+### Sources:
 
 1. [EBAY](http://www.ebay.com/itm/Coca-Cola-Recipe-Formula-Letter-January-15-1943-Historical-Document-/121110740676?pt=LH_DefaultDomain_0&hash=item1c32c33ec4)
 2. [Time](http://newsfeed.time.com/2013/05/14/original-coca-cola-recipe-for-sale-on-ebay/)

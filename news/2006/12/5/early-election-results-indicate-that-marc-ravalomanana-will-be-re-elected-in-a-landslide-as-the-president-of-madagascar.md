@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/5/early-election-results-indicate-that-marc-ravalomanana-will-be-re-elected-in-a-landslide-as-the-president-of-madagascar.html)  [JSON](/news/2006/12/5/early-election-results-indicate-that-marc-ravalomanana-will-be-re-elected-in-a-landslide-as-the-president-of-madagascar.json)  [XML](/news/2006/12/5/early-election-results-indicate-that-marc-ravalomanana-will-be-re-elected-in-a-landslide-as-the-president-of-madagascar.xml)  
+
 ### [2006-12-5](/news/2006/12/5/index.md)
 
+##### election
 #  Early election results indicate that Marc Ravalomanana will be re-elected in a landslide as the President of Madagascar. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=84&art_id=qw1165267087208B253)
 

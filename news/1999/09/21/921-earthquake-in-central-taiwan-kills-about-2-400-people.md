@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/09/21/921-earthquake-in-central-taiwan-kills-about-2-400-people.html)  [JSON](/news/1999/09/21/921-earthquake-in-central-taiwan-kills-about-2-400-people.json)  [XML](/news/1999/09/21/921-earthquake-in-central-taiwan-kills-about-2-400-people.xml)  
+
 ### [1999-09-21](/news/1999/09/21/index.md)
 
+##### 921 earthquake
 #  921 earthquake in central Taiwan kills about 2,400 people.
 
 

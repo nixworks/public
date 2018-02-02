@@ -1,25 +1,29 @@
+
+Formats: [HTML](/news/2015/12/14/a-palestinian-rams-his-car-into-a-bus-stop-near-the-chords-bridge-at-the-entrance-to-jerusalem-before-being-shot-dead-by-police-fourteen-pe.html)  [JSON](/news/2015/12/14/a-palestinian-rams-his-car-into-a-bus-stop-near-the-chords-bridge-at-the-entrance-to-jerusalem-before-being-shot-dead-by-police-fourteen-pe.json)  [XML](/news/2015/12/14/a-palestinian-rams-his-car-into-a-bus-stop-near-the-chords-bridge-at-the-entrance-to-jerusalem-before-being-shot-dead-by-police-fourteen-pe.xml)  
+
 ### [2015-12-14](/news/2015/12/14/index.md)
 
+##### Israeli-Palestinian conflict (2015)
 # A Palestinian rams his car into a bus stop near the Chords Bridge at the entrance to Jerusalem before being shot dead by police; fourteen people, including a toddler, are injured in the attack. 
 
 Terrorist from East Jerusalem rams his car into people waiting at a bus stop near the Chords Bridge at the entrance to the capital; he was shot dead before he could leave his car; ax found in his vehicle.
 
 
-### Source:
+### Sources:
 
 1. [The Times of Israel](http://www.timesofisrael.com/at-least-9-injured-in-terror-attack-at-jerusalems-chords-bridge/)
 2. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4739169,00.html)
 2. [Cover Image](http://www.ynetnews.com/PicServer4/2015/12/14/6694727/5.jpg)
 
-### Related:
-
-1. [Two Palestinian attackers stab passers-by at the Old City's Jaffa Gate in Jerusalem, Israel, killing two and injuring one; the attackers are shot and killed by two Israeli Border Police officers. ](/news/2015/12/23/two-palestinian-attackers-stab-passers-by-at-the-old-city-s-jaffa-gate-in-jerusalem-israel-killing-two-and-injuring-one-the-attackers-are.md) _Context: Israeli-Palestinian conflict (2015), Jerusalem_
-2. [Three Palestinians are shot dead after attacking Israeli soldiers with knives in the occupied West Bank. Jerusalem's Hadassah Hospital reports that 76-year old American-Israeli Richard Lakin, who was critically injured in a bus attack on October 13, 2015, died of his injuries. ](/news/2015/10/27/three-palestinians-are-shot-dead-after-attacking-israeli-soldiers-with-knives-in-the-occupied-west-bank-jerusalem-s-hadassah-hospital-repor.md) _Context: Israeli-Palestinian conflict (2015), Jerusalem_
-3. [A 6th century mosaic dated from the rule of Justinian I is discovered while installing communication cables in Jerusalem's Old City. ](/news/2017/08/24/a-6th-century-mosaic-dated-from-the-rule-of-justinian-i-is-discovered-while-installing-communication-cables-in-jerusalem-s-old-city.md) _Context: Jerusalem_
-4. [The Israeli government says it will remove metal detectors and some cameras recently installed at the entrances to the Temple Mount in Jerusalem that resulted in a wave of protests and some deaths. Instead, less obtrusive surveillance means will be used. ](/news/2017/07/25/the-israeli-government-says-it-will-remove-metal-detectors-and-some-cameras-recently-installed-at-the-entrances-to-the-temple-mount-in-jerus.md) _Context: Jerusalem_
-5. [A shooting at the Israeli embassy in Amman, Jordan, leaves one person, a Jordanian, dead, and an Israeli and a Jordanian wounded. There is speculation the attack may be linked to recent events at Jerusalem's Al-Aqsa Mosque. Another Jordanian man was killed inadvertently. ](/news/2017/07/23/a-shooting-at-the-israeli-embassy-in-amman-jordan-leaves-one-person-a-jordanian-dead-and-an-israeli-and-a-jordanian-wounded-there-is-s.md) _Context: Jerusalem_
-
 ### Changes:
 
 1. [Israeli-Palestinian conflict (2015): A Palestinian rams his car into a bus stop near the Chords Bridge at the entrance to Jerusalem before being shot dead by police; fourteen people, including a toddler, are injured in the attack. ](/news/2015/12/14/israeli-palestinian-conflict-2015-a-palestinian-rams-his-car-into-a-bus-stop-near-the-chords-bridge-at-the-entrance-to-jerusalem-before-b.md) _2017-08-27 03:44:21 (First version)_
 1. [A Palestinian rams his car into a bus stop near the Chords Bridge at the entrance to Jerusalem before being shot dead by police; fourteen people, including a toddler, are injured in the attack. ](/news/2015/12/14/a-palestinian-rams-his-car-into-a-bus-stop-near-the-chords-bridge-at-the-entrance-to-jerusalem-before-being-shot-dead-by-police-fourteen-pe.md) _(Current version)_
+
+### Related:
+
+1. [Two Palestinian attackers stab passers-by at the Old City's Jaffa Gate in Jerusalem, Israel, killing two and injuring one; the attackers are shot and killed by two Israeli Border Police officers. ](/news/2015/12/23/two-palestinian-attackers-stab-passers-by-at-the-old-city-s-jaffa-gate-in-jerusalem-israel-killing-two-and-injuring-one-the-attackers-are.md) _Context: Israeli-Palestinian conflict (2015), Jerusalem_
+2. [Three Palestinians are shot dead after attacking Israeli soldiers with knives in the occupied West Bank. Jerusalem's Hadassah Hospital reports that 76-year old American-Israeli Richard Lakin, who was critically injured in a bus attack on October 13, 2015, died of his injuries. ](/news/2015/10/27/three-palestinians-are-shot-dead-after-attacking-israeli-soldiers-with-knives-in-the-occupied-west-bank-jerusalem-s-hadassah-hospital-repor.md) _Context: Israeli-Palestinian conflict (2015), Jerusalem_
+3. [U.S. Vice President Mike Pence declares during a speech in the Israeli parliament that the new U.S. embassy located in Jerusalem will open in 2019, sooner than generally expected. ](/news/2018/01/22/u-s-vice-president-mike-pence-declares-during-a-speech-in-the-israeli-parliament-that-the-new-u-s-embassy-located-in-jerusalem-will-open-i.md) _Context: Jerusalem_
+4. [President Donald Trump tweets that the U.S. may withhold future payments to the Palestinian authority, over 350 million dollars per year, because they are "no longer willing to talk peace" with Israel, and that Israel "would have had to pay more" in return for his recognition of Jerusalem as Israel's capital. ](/news/2018/01/2/president-donald-trump-tweets-that-the-u-s-may-withhold-future-payments-to-the-palestinian-authority-over-350-million-dollars-per-year-be.md) _Context: Jerusalem_
+5. [U.S. President Donald Trump recognizes Jerusalem as the capital of Israel and says the U.S. starts the process of moving its embassy from Tel Aviv to Jerusalem. The United States Department of State issues an internal travel warning to Israel, Jerusalem and the West Bank until December 20. The U.S. embassy in Amman temporarily suspends routine public services and stops embassy travel around Jordan. Embassies in Berlin and London issue vigilance warnings to U.S. citizens. ](/news/2017/12/6/u-s-president-donald-trump-recognizes-jerusalem-as-the-capital-of-israel-and-says-the-u-s-starts-the-process-of-moving-its-embassy-from-te.md) _Context: Jerusalem_

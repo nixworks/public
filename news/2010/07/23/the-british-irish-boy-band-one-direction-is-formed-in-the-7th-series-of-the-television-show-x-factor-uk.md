@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/23/the-british-irish-boy-band-one-direction-is-formed-in-the-7th-series-of-the-television-show-x-factor-uk.html)  [JSON](/news/2010/07/23/the-british-irish-boy-band-one-direction-is-formed-in-the-7th-series-of-the-television-show-x-factor-uk.json)  [XML](/news/2010/07/23/the-british-irish-boy-band-one-direction-is-formed-in-the-7th-series-of-the-television-show-x-factor-uk.xml)  
+
 ### [2010-07-23](/news/2010/07/23/index.md)
 
+##### One Direction
 # The British-Irish boy band, One Direction, is formed in the 7th series of the television show, X Factor UK 
 
 
 
 
-### Source:
+### Sources:
 
 1. [www.starpulse.com](http://www.starpulse.com/news/Rachel_Ho/2012/06/18/a_beginners_guide_to_one_direction)
 

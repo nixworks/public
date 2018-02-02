@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/23/at-least-six-people-are-killed-in-a-bomb-blast-
 
 ### [2017-02-23](/news/2017/02/23/index.md)
 
+##### War in North-West Pakistan
 # At least six people are killed in a bomb blast in the Pakistani city of Lahore. 
 
 Police are investigating the cause of the blast, which ripped through a shopping area.

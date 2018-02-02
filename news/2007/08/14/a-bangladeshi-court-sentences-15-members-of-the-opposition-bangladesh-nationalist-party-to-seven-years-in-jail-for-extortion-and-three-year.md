@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/14/a-bangladeshi-court-sentences-15-members-of-the-opposition-bangladesh-nationalist-party-to-seven-years-in-jail-for-extortion-and-three-year.html)  [JSON](/news/2007/08/14/a-bangladeshi-court-sentences-15-members-of-the-opposition-bangladesh-nationalist-party-to-seven-years-in-jail-for-extortion-and-three-year.json)  [XML](/news/2007/08/14/a-bangladeshi-court-sentences-15-members-of-the-opposition-bangladesh-nationalist-party-to-seven-years-in-jail-for-extortion-and-three-year.xml)  
+
 ### [2007-08-14](/news/2007/08/14/index.md)
 
+##### Bangladesh
 #  A Bangladeshi court sentences 15 members of the Opposition Bangladesh Nationalist Party to seven years in jail for extortion and three years for manipulating elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jurist](http://jurist.law.pitt.edu/paperchase/2007/08/bangladesh-court-sentences-15.php)
 

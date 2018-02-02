@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/4/the-bank-of-japan-releases-its-quarterly-tankan-survey-of-business-sentiment-confirming-that-the-recent-2011-tahoku-earthquake-and-tsunami.html)  [JSON](/news/2011/04/4/the-bank-of-japan-releases-its-quarterly-tankan-survey-of-business-sentiment-confirming-that-the-recent-2011-tahoku-earthquake-and-tsunami.json)  [XML](/news/2011/04/4/the-bank-of-japan-releases-its-quarterly-tankan-survey-of-business-sentiment-confirming-that-the-recent-2011-tahoku-earthquake-and-tsunami.xml)  
+
 ### [2011-04-4](/news/2011/04/4/index.md)
 
+##### Bank of Japan
 # The Bank of Japan releases its Quarterly Tankan survey of business sentiment confirming that the recent 2011 Tohoku earthquake and tsunami has had a negative effect on business confidence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kyodo News](http://english.kyodonews.jp/news/2011/04/82941.html)
 

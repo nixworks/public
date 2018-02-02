@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/3/saudi-arabia-deploys-30-000-soldiers-to-its-border-with-iraq-after-iraqi-government-forces-withdrew-from-the-area.html)  [JSON](/news/2014/07/3/saudi-arabia-deploys-30-000-soldiers-to-its-border-with-iraq-after-iraqi-government-forces-withdrew-from-the-area.json)  [XML](/news/2014/07/3/saudi-arabia-deploys-30-000-soldiers-to-its-border-with-iraq-after-iraqi-government-forces-withdrew-from-the-area.xml)  
+
 ### [2014-07-3](/news/2014/07/3/index.md)
 
+##### Saudi Arabia
 # Saudi Arabia deploys 30,000 soldiers to its border with Iraq after Iraqi government forces withdrew from the area. 
 
 Saudi-owned al-Arabiya television said Saudi Arabia had deployed 30,000 soldiers to its border with Iraq on Thursday after Iraqi forces abandoned the area, but Baghdad denied pulling forces back and said it remained in full control of its frontier.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2014/07/03/uk-saudi-iraq-border-idUKKBN0F80J320140703)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

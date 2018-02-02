@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/7/latvian-parliamentary-election-the-governing-coalition-led-by-prime-minister-aigars-kalva-tis-wins-re-election-the-first-latvian-administ.html)  [JSON](/news/2006/10/7/latvian-parliamentary-election-the-governing-coalition-led-by-prime-minister-aigars-kalva-tis-wins-re-election-the-first-latvian-administ.json)  [XML](/news/2006/10/7/latvian-parliamentary-election-the-governing-coalition-led-by-prime-minister-aigars-kalva-tis-wins-re-election-the-first-latvian-administ.xml)  
+
 ### [2006-10-7](/news/2006/10/7/index.md)
 
+##### Latvian parliamentary election
 #  Latvian parliamentary election: The governing coalition led by Prime Minister Aigars Kalvitis wins re-election, the first Latvian administration to be re-elected since independence from the Soviet Union in 1991. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/5416778.stm)
 

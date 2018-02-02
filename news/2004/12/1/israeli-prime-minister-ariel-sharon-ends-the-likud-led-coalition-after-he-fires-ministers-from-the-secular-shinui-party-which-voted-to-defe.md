@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2004/12/1/israeli-prime-minister-ariel-sharon-ends-the-likud-led-coalition-after-he-fires-ministers-from-the-secular-shinui-party-which-voted-to-defe.html)  [JSON](/news/2004/12/1/israeli-prime-minister-ariel-sharon-ends-the-likud-led-coalition-after-he-fires-ministers-from-the-secular-shinui-party-which-voted-to-defe.json)  [XML](/news/2004/12/1/israeli-prime-minister-ariel-sharon-ends-the-likud-led-coalition-after-he-fires-ministers-from-the-secular-shinui-party-which-voted-to-defe.xml)  
+
 ### [2004-12-1](/news/2004/12/1/index.md)
 
+##### Israeli Prime Minister
 # Israeli Prime Minister Ariel Sharon ends the Likud-led coalition after he fires ministers from the secular Shinui party, which voted to defeat the annual budget over subsidies to religious parties. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4059991.stm)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/508663.html)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6970362)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6970362)
 
 ### Related:
 

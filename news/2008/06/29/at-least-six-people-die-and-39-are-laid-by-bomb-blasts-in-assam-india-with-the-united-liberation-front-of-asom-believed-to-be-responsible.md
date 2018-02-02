@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/29/at-least-six-people-die-and-39-are-laid-by-bomb-blasts-in-assam-india-with-the-united-liberation-front-of-asom-believed-to-be-responsible.html)  [JSON](/news/2008/06/29/at-least-six-people-die-and-39-are-laid-by-bomb-blasts-in-assam-india-with-the-united-liberation-front-of-asom-believed-to-be-responsible.json)  [XML](/news/2008/06/29/at-least-six-people-die-and-39-are-laid-by-bomb-blasts-in-assam-india-with-the-united-liberation-front-of-asom-believed-to-be-responsible.xml)  
+
 ### [2008-06-29](/news/2008/06/29/index.md)
 
+##### bomb
 #  At least six people die and 39 are laid by bomb blasts in Assam, India, with the United Liberation Front of Asom believed to be responsible. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5hdG1dgLhDmjAPkV3HbFNbtUryiKQ)
 

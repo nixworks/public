@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/25/the-bank-of-canada-rolls-out-a-new-20-bill-the-latest-piece-of-paper-money-to-be-given-new-anti-counterfeiting-technology-and-a-facelift.html)  [JSON](/news/2004/08/25/the-bank-of-canada-rolls-out-a-new-20-bill-the-latest-piece-of-paper-money-to-be-given-new-anti-counterfeiting-technology-and-a-facelift.json)  [XML](/news/2004/08/25/the-bank-of-canada-rolls-out-a-new-20-bill-the-latest-piece-of-paper-money-to-be-given-new-anti-counterfeiting-technology-and-a-facelift.xml)  
+
 ### [2004-08-25](/news/2004/08/25/index.md)
 
+##### Bank of Canada
 #  The Bank of Canada rolls out a new $20 bill, the latest piece of paper money to be given new anti-counterfeiting technology and a facelift. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/stories/2004/08/25/newtwentybill_040825)
 

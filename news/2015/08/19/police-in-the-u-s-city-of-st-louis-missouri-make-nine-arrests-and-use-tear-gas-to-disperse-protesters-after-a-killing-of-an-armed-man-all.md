@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/19/police-in-the-u-s-city-of-st-louis-missouri-make-nine-arrests-and-use-tear-gas-to-disperse-protesters-after-a-killing-of-an-armed-man-all.html)  [JSON](/news/2015/08/19/police-in-the-u-s-city-of-st-louis-missouri-make-nine-arrests-and-use-tear-gas-to-disperse-protesters-after-a-killing-of-an-armed-man-all.json)  [XML](/news/2015/08/19/police-in-the-u-s-city-of-st-louis-missouri-make-nine-arrests-and-use-tear-gas-to-disperse-protesters-after-a-killing-of-an-armed-man-all.xml)  
+
 ### [2015-08-19](/news/2015/08/19/index.md)
 
+##### St. Louis
 # Police in the U.S. city of St. Louis, Missouri make nine arrests and use tear gas to disperse protesters after a killing of an armed man allegedly aiming a gun at police officers earlier in the day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2015/08/19/us/st-louis-police-shooting/index.html)
 

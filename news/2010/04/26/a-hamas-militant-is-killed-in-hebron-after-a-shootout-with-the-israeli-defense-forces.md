@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/26/a-hamas-militant-is-killed-in-hebron-after-a-shootout-with-the-israeli-defense-forces.html)  [JSON](/news/2010/04/26/a-hamas-militant-is-killed-in-hebron-after-a-shootout-with-the-israeli-defense-forces.json)  [XML](/news/2010/04/26/a-hamas-militant-is-killed-in-hebron-after-a-shootout-with-the-israeli-defense-forces.xml)  
+
 ### [2010-04-26](/news/2010/04/26/index.md)
 
+##### Hamas
 # A Hamas militant is killed in Hebron after a shootout with the Israeli Defense Forces. 
 
 Israeli forces on Monday killed a wanted Hamas operative who had holed up in a house in the southern West Bank, police and the army said.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8643532.stm)
 2. [Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=173965)

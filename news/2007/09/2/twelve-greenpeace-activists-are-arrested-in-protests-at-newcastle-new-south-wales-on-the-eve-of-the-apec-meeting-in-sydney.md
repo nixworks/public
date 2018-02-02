@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/2/twelve-greenpeace-activists-are-arrested-in-protests-at-newcastle-new-south-wales-on-the-eve-of-the-apec-meeting-in-sydney.html)  [JSON](/news/2007/09/2/twelve-greenpeace-activists-are-arrested-in-protests-at-newcastle-new-south-wales-on-the-eve-of-the-apec-meeting-in-sydney.json)  [XML](/news/2007/09/2/twelve-greenpeace-activists-are-arrested-in-protests-at-newcastle-new-south-wales-on-the-eve-of-the-apec-meeting-in-sydney.xml)  
+
 ### [2007-09-2](/news/2007/09/2/index.md)
 
+##### Greenpeace India's
 #  Twelve Greenpeace activists are arrested in protests at Newcastle, New South Wales on the eve of the APEC meeting in Sydney. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via TV New Zealand](http://tvnz.co.nz/view/page/536641/1331891)
 

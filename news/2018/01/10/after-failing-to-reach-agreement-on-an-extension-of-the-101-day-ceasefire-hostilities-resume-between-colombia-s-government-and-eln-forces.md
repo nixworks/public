@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/10/after-failing-to-reach-agreement-on-an-extensio
 
 ### [2018-01-10](/news/2018/01/10/index.md)
 
+##### Colombian conflict
 # After failing to reach agreement on an extension of the 101-day ceasefire, hostilities resume between Colombia's government and ELN forces. 
 
 Colombia&#8217;s military and ELN rebels resumed hostilities on Wednesday after failing to agree to an extension of a bilateral ceasefire, in spite of pleas by victims and the international community&hellip;

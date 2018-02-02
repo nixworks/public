@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/15/a-special-court-is-set-up-at-the-hague-to-try-k
 
 ### [2016-01-15](/news/2016/01/15/index.md)
 
+##### Kosovo War
 # A special court is set up at The Hague to try Kosovo Liberation Army suspects for alleged war crimes against ethnic minorities and political opponents. 
 
 A special court is being set up in The Hague to try war crimes committed during the war in Kosovo, the Dutch government says.

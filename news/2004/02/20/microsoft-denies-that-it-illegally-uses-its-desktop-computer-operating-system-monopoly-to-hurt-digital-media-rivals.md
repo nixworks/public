@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/02/20/microsoft-denies-that-it-illegally-uses-its-desktop-computer-operating-system-monopoly-to-hurt-digital-media-rivals.html)  [JSON](/news/2004/02/20/microsoft-denies-that-it-illegally-uses-its-desktop-computer-operating-system-monopoly-to-hurt-digital-media-rivals.json)  [XML](/news/2004/02/20/microsoft-denies-that-it-illegally-uses-its-desktop-computer-operating-system-monopoly-to-hurt-digital-media-rivals.xml)  
+
 ### [2004-02-20](/news/2004/02/20/index.md)
 
+##### Microsoft
 #  Microsoft denies that it illegally uses its desktop computer operating system monopoly to hurt digital media rivals. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [CNet](http://archive.is/20130119130952/http://news.com.com/2100-1032_3-5162785.html?tag=nefd_lede)
+1. [CNet](https://archive.is/20130119130952/http://news.com.com/2100-1032_3-5162785.html?tag=nefd_lede)
 
 ### Related:
 

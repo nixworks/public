@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/05/7/kosovo-war-in-federal-republic-of-yugoslavia-three-chinese-embassy-workers-are-killed-and-20-wounded-when-a-nato-aircraft-mistakenly-bomb.html)  [JSON](/news/1999/05/7/kosovo-war-in-federal-republic-of-yugoslavia-three-chinese-embassy-workers-are-killed-and-20-wounded-when-a-nato-aircraft-mistakenly-bomb.json)  [XML](/news/1999/05/7/kosovo-war-in-federal-republic-of-yugoslavia-three-chinese-embassy-workers-are-killed-and-20-wounded-when-a-nato-aircraft-mistakenly-bomb.xml)  
+
 ### [1999-05-7](/news/1999/05/7/index.md)
 
+##### Kosovo War
 #  Kosovo War: In Federal Republic of Yugoslavia, three Chinese embassy workers are killed and 20 wounded when a NATO aircraft mistakenly bombs the Chinese embassy in Belgrade.
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/27/the-republic-of-ireland-announces-a-referendum-
 
 ### [2017-09-27](/news/2017/09/27/index.md)
 
+##### Abortion in the Republic of Ireland
 # The Republic of Ireland announces a referendum on abortion will be held between May and June 2018. 
 
 Ireland is to hold a referendum on abortion in 2018, it has been announced. A decision on the eighth amendment, which gives equal right to life to the unborn, will take place in May or June next year, according to Prime Minister Leo Varadkar’s government. The public will then decide if abortion should be legalised “in almost all cases”.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/29/six-people-are-killed-in-a-train-derailment-in-east-java-indonesia.html)  [JSON](/news/2010/06/29/six-people-are-killed-in-a-train-derailment-in-east-java-indonesia.json)  [XML](/news/2010/06/29/six-people-are-killed-in-a-train-derailment-in-east-java-indonesia.xml)  
+
 ### [2010-06-29](/news/2010/06/29/index.md)
 
+##### East Java
 # Six people are killed in a train derailment in East Java, Indonesia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/06/29/indonesia.train.accident/?fbid=Dxrzb6Q-4_O)
 2. [Jakarta Globe](http://www.thejakartaglobe.com/home/breaking-news-train-derailment-in-east-java-kills-six/383211)

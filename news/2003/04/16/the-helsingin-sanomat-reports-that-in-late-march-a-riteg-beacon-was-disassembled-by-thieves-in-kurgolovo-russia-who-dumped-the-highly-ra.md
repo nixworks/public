@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/16/the-helsingin-sanomat-reports-that-in-late-march-a-riteg-beacon-was-disassembled-by-thieves-in-kurgolovo-russia-who-dumped-the-highly-ra.html)  [JSON](/news/2003/04/16/the-helsingin-sanomat-reports-that-in-late-march-a-riteg-beacon-was-disassembled-by-thieves-in-kurgolovo-russia-who-dumped-the-highly-ra.json)  [XML](/news/2003/04/16/the-helsingin-sanomat-reports-that-in-late-march-a-riteg-beacon-was-disassembled-by-thieves-in-kurgolovo-russia-who-dumped-the-highly-ra.xml)  
+
 ### [2003-04-16](/news/2003/04/16/index.md)
 
+##### Helsingin Sanomat
 #  The Helsingin Sanomat reports that in late March, a RITEG-beacon was disassembled by thieves in Kurgolovo, Russia, who dumped the highly radioactive nuclear material into the Gulf of Finland, 100&nbsp;km south of Finland.
 
 

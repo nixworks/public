@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/4/bishop-tawadros-is-selected-as-the-new-118th-pope-of-the-coptic-orthodox-church.html)  [JSON](/news/2012/11/4/bishop-tawadros-is-selected-as-the-new-118th-pope-of-the-coptic-orthodox-church.json)  [XML](/news/2012/11/4/bishop-tawadros-is-selected-as-the-new-118th-pope-of-the-coptic-orthodox-church.xml)  
+
 ### [2012-11-4](/news/2012/11/4/index.md)
 
+##### Tawadros
 # Bishop Tawadros is selected as the new 118th pope of the Coptic Orthodox Church. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20192922)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63919000/jpg/_63919055_1ro9a5hy.jpg)

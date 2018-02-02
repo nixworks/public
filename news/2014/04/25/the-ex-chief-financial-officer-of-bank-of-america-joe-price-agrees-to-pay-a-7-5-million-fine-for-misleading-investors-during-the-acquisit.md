@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/25/the-ex-chief-financial-officer-of-bank-of-america-joe-price-agrees-to-pay-a-7-5-million-fine-for-misleading-investors-during-the-acquisit.html)  [JSON](/news/2014/04/25/the-ex-chief-financial-officer-of-bank-of-america-joe-price-agrees-to-pay-a-7-5-million-fine-for-misleading-investors-during-the-acquisit.json)  [XML](/news/2014/04/25/the-ex-chief-financial-officer-of-bank-of-america-joe-price-agrees-to-pay-a-7-5-million-fine-for-misleading-investors-during-the-acquisit.xml)  
+
 ### [2014-04-25](/news/2014/04/25/index.md)
 
+##### CFO
 # The ex-chief financial officer of Bank of America, Joe Price, agrees to pay a $7.5 million fine for misleading investors during the acquisition of Merrill Lynch. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Fox Business](http://www.foxbusiness.com/industries/2014/04/25/bofa-ex-cfo-agrees-to-settle-ny-lawsuit-over-merrill-wsj/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-business/features/2014/04/25/bofa-ex-cfo-agrees-to-settle-ny-lawsuit-over-merrill-wsj/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1452301883248.jpg?ve=1)

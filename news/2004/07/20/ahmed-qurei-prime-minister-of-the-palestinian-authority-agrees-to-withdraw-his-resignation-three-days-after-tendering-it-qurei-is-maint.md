@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/07/20/ahmed-qurei-prime-minister-of-the-palestinian-authority-agrees-to-withdraw-his-resignation-three-days-after-tendering-it-qurei-is-maint.html)  [JSON](/news/2004/07/20/ahmed-qurei-prime-minister-of-the-palestinian-authority-agrees-to-withdraw-his-resignation-three-days-after-tendering-it-qurei-is-maint.json)  [XML](/news/2004/07/20/ahmed-qurei-prime-minister-of-the-palestinian-authority-agrees-to-withdraw-his-resignation-three-days-after-tendering-it-qurei-is-maint.xml)  
+
 ### [2004-07-20](/news/2004/07/20/index.md)
 
+##### Ahmed Qurei
 #  Ahmed Qurei, Prime Minister of the Palestinian Authority, agrees to withdraw his resignation, three days after tendering it. Qurei is maintaining a threat to quit "because he has no powers". 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml;jsessionid=SOX5QFE02GZRECRBAEZSFFA?type=worldNews&storyID=5716917)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml;jsessionid=SOX5QFE02GZRECRBAEZSFFA?type=worldNews&storyID=5716917)
 
 ### Related:
 

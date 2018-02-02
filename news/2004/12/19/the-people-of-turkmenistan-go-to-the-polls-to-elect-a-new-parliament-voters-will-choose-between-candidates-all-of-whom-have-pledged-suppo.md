@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/19/the-people-of-turkmenistan-go-to-the-polls-to-elect-a-new-parliament-voters-will-choose-between-candidates-all-of-whom-have-pledged-suppo.html)  [JSON](/news/2004/12/19/the-people-of-turkmenistan-go-to-the-polls-to-elect-a-new-parliament-voters-will-choose-between-candidates-all-of-whom-have-pledged-suppo.json)  [XML](/news/2004/12/19/the-people-of-turkmenistan-go-to-the-polls-to-elect-a-new-parliament-voters-will-choose-between-candidates-all-of-whom-have-pledged-suppo.xml)  
+
 ### [2004-12-19](/news/2004/12/19/index.md)
 
+##### Turkmenistan
 #  The people of Turkmenistan go to the polls to elect a new parliament. Voters will choose between candidates, all of whom have pledged support to President Niyazov, the "Turkmenbashi" or "leader of Turkmens". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4108659.stm)
 

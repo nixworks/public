@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/27/the-chief-investigator-of-the-mass-killing-of-72-people-in-mexico-s-tamaulipas-state-has-been-missing-since-wednesday.html)  [JSON](/news/2010/08/27/the-chief-investigator-of-the-mass-killing-of-72-people-in-mexico-s-tamaulipas-state-has-been-missing-since-wednesday.json)  [XML](/news/2010/08/27/the-chief-investigator-of-the-mass-killing-of-72-people-in-mexico-s-tamaulipas-state-has-been-missing-since-wednesday.xml)  
+
 ### [2010-08-27](/news/2010/08/27/index.md)
 
+##### Mexico
 # The chief investigator of the mass killing of 72 people in Mexico's Tamaulipas state has been missing since Wednesday. 
 
 Mexican prosecutors say they are deeply concerned for the safety of a prosecutor leading an investigation into the killing of 72 foreign migrants.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11117697)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/48900000/jpg/_48900859_010044548-1.jpg)

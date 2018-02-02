@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/11/voters-in-sierra-leone-go-to-the-polls-for-the-first-time-since-the-end-of-the-country-s-civil-war-in-2002.html)  [JSON](/news/2007/08/11/voters-in-sierra-leone-go-to-the-polls-for-the-first-time-since-the-end-of-the-country-s-civil-war-in-2002.json)  [XML](/news/2007/08/11/voters-in-sierra-leone-go-to-the-polls-for-the-first-time-since-the-end-of-the-country-s-civil-war-in-2002.xml)  
+
 ### [2007-08-11](/news/2007/08/11/index.md)
 
+##### Sierra Leone
 #  Voters in Sierra Leone go to the polls for the first time since the end of the country's civil war in 2002. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://www.voanews.com/english/NewsAnalysis/SLeone2007-08-10-voa13.cfm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/27/thousands-including-some-from-australia-protest
 
 ### [2016-02-27](/news/2016/02/27/index.md)
 
+##### Australia
 # Thousands, including some from Australia, protest in London, England, against the renewal of the United Kingdom's Trident nuclear deterrent system, the largest anti-nuclear rally since 1983. Leader of the Labour Party Jeremy Corbyn, Scottish National Party leader and First Minister of Scotland Nicola Sturgeon, the Welsh Plaid Cymru Party, and the Green Party participated in the march. A parliamentary vote on renewing Trident is expected this year. 
 
 Demonstrators in London pointed out renewing the nuclear-deterrent system would cost tens of billions of dollars over two decades.

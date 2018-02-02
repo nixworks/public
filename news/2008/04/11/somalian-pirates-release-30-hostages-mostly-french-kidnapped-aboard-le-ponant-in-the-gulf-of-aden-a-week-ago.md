@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/11/somalian-pirates-release-30-hostages-mostly-french-kidnapped-aboard-le-ponant-in-the-gulf-of-aden-a-week-ago.html)  [JSON](/news/2008/04/11/somalian-pirates-release-30-hostages-mostly-french-kidnapped-aboard-le-ponant-in-the-gulf-of-aden-a-week-ago.json)  [XML](/news/2008/04/11/somalian-pirates-release-30-hostages-mostly-french-kidnapped-aboard-le-ponant-in-the-gulf-of-aden-a-week-ago.xml)  
+
 ### [2008-04-11](/news/2008/04/11/index.md)
 
+##### Somalia
 #  Somalian pirates release 30 hostages (mostly French) kidnapped aboard "Le Ponant" in the Gulf of Aden a week ago. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5jFsBj1rwWCGjWODLFbiMyzimGJ5g)
 

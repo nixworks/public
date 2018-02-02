@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/2/as-part-of-one-of-the-four-cases-currently-against-him-italian-prime-minister-silvio-berlusconi-appears-in-court-on-charges-of-corruption-a.html)  [JSON](/news/2011/05/2/as-part-of-one-of-the-four-cases-currently-against-him-italian-prime-minister-silvio-berlusconi-appears-in-court-on-charges-of-corruption-a.json)  [XML](/news/2011/05/2/as-part-of-one-of-the-four-cases-currently-against-him-italian-prime-minister-silvio-berlusconi-appears-in-court-on-charges-of-corruption-a.xml)  
+
 ### [2011-05-2](/news/2011/05/2/index.md)
 
+##### Silvio Berlusconi
 # As part of one of the four cases currently against him, Italian prime minister Silvio Berlusconi appears in court on charges of corruption and attacks his prosecutors again. 
 
 Italian Prime Minister Silvio Berlusconi appears in court, lambasting prosecutors and complaining that he has better things to do.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13260001)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52451000/jpg/_52451639_52451638.jpg)

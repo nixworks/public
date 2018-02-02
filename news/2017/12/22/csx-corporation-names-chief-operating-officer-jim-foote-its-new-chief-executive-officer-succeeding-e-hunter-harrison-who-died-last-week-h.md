@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/22/csx-corporation-names-chief-operating-officer-j
 
 ### [2017-12-22](/news/2017/12/22/index.md)
 
+##### CSX Corporation
 # CSX Corporation names chief operating officer Jim Foote its new chief executive officer, succeeding E. Hunter Harrison who died last week. Harrison had started a restructuring campaign less than a year ago. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/24/a-strong-earthquake-measuring-6-1-strikes-in-the-maluku-islands-north-of-ambon-island.html)  [JSON](/news/2010/04/24/a-strong-earthquake-measuring-6-1-strikes-in-the-maluku-islands-north-of-ambon-island.json)  [XML](/news/2010/04/24/a-strong-earthquake-measuring-6-1-strikes-in-the-maluku-islands-north-of-ambon-island.xml)  
+
 ### [2010-04-24](/news/2010/04/24/index.md)
 
+##### Maluku Islands
 # A strong earthquake measuring 6.1 strikes in the Maluku Islands north of Ambon Island. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://arabnews.com/world/article46814.ece)
 

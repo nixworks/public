@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/29/north-korean-foreign-minister-pak-ui-chun-arrives-in-burma-in-the-first-visit-since-the-two-countries-restored-ties-in-2007-amid-worries-ov.html)  [JSON](/news/2010/07/29/north-korean-foreign-minister-pak-ui-chun-arrives-in-burma-in-the-first-visit-since-the-two-countries-restored-ties-in-2007-amid-worries-ov.json)  [XML](/news/2010/07/29/north-korean-foreign-minister-pak-ui-chun-arrives-in-burma-in-the-first-visit-since-the-two-countries-restored-ties-in-2007-amid-worries-ov.xml)  
+
 ### [2010-07-29](/news/2010/07/29/index.md)
 
+##### North Korea
 # North Korean foreign minister Pak Ui-chun arrives in Burma in the first visit since the two countries restored ties in 2007, amid worries over nuclear cooperation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iWfpZlHTaoNIXHq3cLpYguYaVM5g)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10799210)

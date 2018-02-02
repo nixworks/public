@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/12/18/spanish-police-arrest-thirteen-more-people-bringing-the-total-now-to-more-than-seventy-since-the-november-30th-football-fan-brawl-which-re.html)  [JSON](/news/2014/12/18/spanish-police-arrest-thirteen-more-people-bringing-the-total-now-to-more-than-seventy-since-the-november-30th-football-fan-brawl-which-re.json)  [XML](/news/2014/12/18/spanish-police-arrest-thirteen-more-people-bringing-the-total-now-to-more-than-seventy-since-the-november-30th-football-fan-brawl-which-re.xml)  
+
 ### [2014-12-18](/news/2014/12/18/index.md)
 
+##### Spanish politicians
 # Spanish police arrest thirteen more people, bringing the total now to more than seventy since the November 30th football fan brawl, which resulted in one death, before the Atletico Madrid&ndash;Deportivo La Corua match started in Madrid's Vicente Calderon Stadium. 
 
-3rd suspect charged for death in football fan fight in Spain, 17 more arrested
 
 
-### Source:
 
-1. [AP via USA Today](http://www.usatoday.com/story/sports/soccer/2014/12/18/spain-arrests-13-more-people-in-football-fan-fight/20576277/)
+### Sources:
+
+1. [AP via USA Today](https://www.usatoday.com/story/sports/soccer/2014/12/18/spain-arrests-13-more-people-in-football-fan-fight/20576277/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

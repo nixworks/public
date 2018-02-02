@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/04/25/andra-c-s-manuel-la3pez-obrador-returns-to-his-work-as-a-mayor-of-mexico-city-despite-government-demands-that-he-is-no-longer-eligible.html)  [JSON](/news/2005/04/25/andra-c-s-manuel-la3pez-obrador-returns-to-his-work-as-a-mayor-of-mexico-city-despite-government-demands-that-he-is-no-longer-eligible.json)  [XML](/news/2005/04/25/andra-c-s-manuel-la3pez-obrador-returns-to-his-work-as-a-mayor-of-mexico-city-despite-government-demands-that-he-is-no-longer-eligible.xml)  
+
 ### [2005-04-25](/news/2005/04/25/index.md)
 
+##### Andres Manuel Lopez Obrador
 #  Andres Manuel Lopez Obrador returns to his work as a mayor of Mexico City despite government demands that he is no longer eligible. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4481403.stm)
-2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/04/25/AR2005042501130.html)
+2. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2005/04/25/AR2005042501130.html)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/1/a-french-appeals-court-reduces-former-prime-minister-alain-juppa-c-s-disqualification-from-holding-public-office-from-ten-years-to-one-open.html)  [JSON](/news/2004/12/1/a-french-appeals-court-reduces-former-prime-minister-alain-juppa-c-s-disqualification-from-holding-public-office-from-ten-years-to-one-open.json)  [XML](/news/2004/12/1/a-french-appeals-court-reduces-former-prime-minister-alain-juppa-c-s-disqualification-from-holding-public-office-from-ten-years-to-one-open.xml)  
+
 ### [2004-12-1](/news/2004/12/1/index.md)
 
+##### Prime Minister
 #  A French appeals court reduces former Prime Minister Alain Juppe's disqualification from holding public office from ten years to one, opening up the way for him to contend in the 2007 presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4058821.stm)
 

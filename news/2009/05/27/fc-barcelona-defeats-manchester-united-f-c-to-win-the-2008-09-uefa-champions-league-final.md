@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/27/fc-barcelona-defeats-manchester-united-f-c-to-win-the-2008-09-uefa-champions-league-final.html)  [JSON](/news/2009/05/27/fc-barcelona-defeats-manchester-united-f-c-to-win-the-2008-09-uefa-champions-league-final.json)  [XML](/news/2009/05/27/fc-barcelona-defeats-manchester-united-f-c-to-win-the-2008-09-uefa-champions-league-final.xml)  
+
 ### [2009-05-27](/news/2009/05/27/index.md)
 
+##### FC Barcelona
 #  FC Barcelona defeats Manchester United F.C. to win the 2008-09 UEFA Champions League Final. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/SPORT/football/05/27/champions.league.preview/index.html?section=cnn_latest)
 

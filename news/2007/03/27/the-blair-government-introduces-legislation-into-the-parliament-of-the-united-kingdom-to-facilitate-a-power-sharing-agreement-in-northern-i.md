@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/27/the-blair-government-introduces-legislation-into-the-parliament-of-the-united-kingdom-to-facilitate-a-power-sharing-agreement-in-northern-i.html)  [JSON](/news/2007/03/27/the-blair-government-introduces-legislation-into-the-parliament-of-the-united-kingdom-to-facilitate-a-power-sharing-agreement-in-northern-i.json)  [XML](/news/2007/03/27/the-blair-government-introduces-legislation-into-the-parliament-of-the-united-kingdom-to-facilitate-a-power-sharing-agreement-in-northern-i.xml)  
+
 ### [2007-03-27](/news/2007/03/27/index.md)
 
+##### Tony Blair
 #  The Blair Government introduces legislation into the Parliament of the United Kingdom to facilitate a power-sharing agreement in Northern Ireland between Ian Paisley's Democratic Unionist Party and Sinn Fin. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/6497657.stm)
 

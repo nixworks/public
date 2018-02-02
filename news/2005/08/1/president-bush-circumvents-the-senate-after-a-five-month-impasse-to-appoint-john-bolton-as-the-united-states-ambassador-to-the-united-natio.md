@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2005/08/1/president-bush-circumvents-the-senate-after-a-five-month-impasse-to-appoint-john-bolton-as-the-united-states-ambassador-to-the-united-natio.html)  [JSON](/news/2005/08/1/president-bush-circumvents-the-senate-after-a-five-month-impasse-to-appoint-john-bolton-as-the-united-states-ambassador-to-the-united-natio.json)  [XML](/news/2005/08/1/president-bush-circumvents-the-senate-after-a-five-month-impasse-to-appoint-john-bolton-as-the-united-states-ambassador-to-the-united-natio.xml)  
+
 ### [2005-08-1](/news/2005/08/1/index.md)
 
-#  President Bush circumvents the Senate after a five-month impasse to appoint John Bolton as the United States Ambassador to the United Nations. (Wikinews) [http:--news.yahoo.com-s-ap-un_ambassador;_ylt=AgR019gkpNvaUCA4yIDK7gqs0NUE;_ylu=X3oDMTA2Z2szazkxBHNlYwN0bQ-- (Yahoo News)] (Link dead as of 02:29, 15 January 2007 (UTC))
+##### John R. Bolton
+#  President Bush circumvents the Senate after a five-month impasse to appoint John Bolton as the United States Ambassador to the United Nations. (Wikinews) [https:--news.yahoo.com-s-ap-un_ambassador;_ylt=AgR019gkpNvaUCA4yIDK7gqs0NUE;_ylu=X3oDMTA2Z2szazkxBHNlYwN0bQ-- (Yahoo News)] (Link dead as of 02:29, 15 January 2007 (UTC))
 
 
 

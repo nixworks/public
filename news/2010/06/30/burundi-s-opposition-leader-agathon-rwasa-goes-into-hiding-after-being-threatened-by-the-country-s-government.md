@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/30/burundi-s-opposition-leader-agathon-rwasa-goes-into-hiding-after-being-threatened-by-the-country-s-government.html)  [JSON](/news/2010/06/30/burundi-s-opposition-leader-agathon-rwasa-goes-into-hiding-after-being-threatened-by-the-country-s-government.json)  [XML](/news/2010/06/30/burundi-s-opposition-leader-agathon-rwasa-goes-into-hiding-after-being-threatened-by-the-country-s-government.xml)  
+
 ### [2010-06-30](/news/2010/06/30/index.md)
 
+##### Burundi
 # Burundi's opposition leader Agathon Rwasa goes into hiding after being threatened by the country's government. 
 
 Agathon Rwasa, a former rebel leader, said he had been threatened by the government.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/06/2010630131733366396.html)
 1. [Cover Image](http://www.aljazeera.com)
@@ -16,4 +20,4 @@ Agathon Rwasa, a former rebel leader, said he had been threatened by the governm
 2. [Five opposition candidates, including Burundi's ex-rebel leader Agathon Rwasa, withdraw from forthcoming presidential polls. ](/news/2010/06/1/five-opposition-candidates-including-burundi-s-ex-rebel-leader-agathon-rwasa-withdraw-from-forthcoming-presidential-polls.md) _Context: Agathon Rwasa, Burundi_
 3. [ Former rebel leader Agathon Rwasa, of the National Liberation Forces in Burundi, is selected as a candidate in next year's presidential election. ](/news/2009/11/30/former-rebel-leader-agathon-rwasa-of-the-national-liberation-forces-in-burundi-is-selected-as-a-candidate-in-next-year-s-presidential-ele.md) _Context: Agathon Rwasa, Burundi_
 4. [ Burundi president Domitien Ndayizeye and Agathon Rwasa, leader of the last of the rebel groups, National Liberation Forces, sign a peace deal in a meeting in Dar es Salaam, Tanzania. ](/news/2005/05/15/burundi-president-domitien-ndayizeye-and-agathon-rwasa-leader-of-the-last-of-the-rebel-groups-national-liberation-forces-sign-a-peace-de.md) _Context: Agathon Rwasa, Burundi_
-5. [Six teenagers, four males and two females, from a Burundi robotics team are reported missing after competing in the FIRST Global Robotics Competition in Washington, D.C. A 16-year-old boy and a 17-year old girl reportedly crossed the United States border into Canada. There is no indication of foul play. ](/news/2017/07/20/six-teenagers-four-males-and-two-females-from-a-burundi-robotics-team-are-reported-missing-after-competing-in-the-first-global-robotics-co.md) _Context: Burundi_
+5. [Burundi becomes the first country to leave the International Criminal Court amid accusations the government committed crimes against humanity, including torture of political opponents. Burundi has accused the ICC of deliberately targeting Africans for prosecution. ](/news/2017/10/27/burundi-becomes-the-first-country-to-leave-the-international-criminal-court-amid-accusations-the-government-committed-crimes-against-humanit.md) _Context: Burundi_

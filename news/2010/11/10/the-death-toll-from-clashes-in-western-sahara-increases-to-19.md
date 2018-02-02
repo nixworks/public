@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/10/the-death-toll-from-clashes-in-western-sahara-increases-to-19.html)  [JSON](/news/2010/11/10/the-death-toll-from-clashes-in-western-sahara-increases-to-19.json)  [XML](/news/2010/11/10/the-death-toll-from-clashes-in-western-sahara-increases-to-19.xml)  
+
 ### [2010-11-10](/news/2010/11/10/index.md)
 
+##### Western Sahara
 # The death toll from clashes in Western Sahara increases to 19. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''South Coast Today](http://hosted.ap.org/dynamic/stories/A/AF_MOROCCO_WESTERN_SAHARA?SITE=MABED&SECTION=HOME&TEMPLATE=DEFAULT)
 

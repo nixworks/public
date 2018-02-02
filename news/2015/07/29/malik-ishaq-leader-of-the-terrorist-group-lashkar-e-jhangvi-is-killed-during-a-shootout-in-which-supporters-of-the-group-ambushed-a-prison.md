@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2015/07/29/malik-ishaq-leader-of-the-terrorist-group-lashkar-e-jhangvi-is-killed-during-a-shootout-in-which-supporters-of-the-group-ambushed-a-prison.html)  [JSON](/news/2015/07/29/malik-ishaq-leader-of-the-terrorist-group-lashkar-e-jhangvi-is-killed-during-a-shootout-in-which-supporters-of-the-group-ambushed-a-prison.json)  [XML](/news/2015/07/29/malik-ishaq-leader-of-the-terrorist-group-lashkar-e-jhangvi-is-killed-during-a-shootout-in-which-supporters-of-the-group-ambushed-a-prison.xml)  
+
 ### [2015-07-29](/news/2015/07/29/index.md)
 
+##### War in North-West Pakistan
 # Malik Ishaq, leader of the terrorist group Lashkar-e-Jhangvi, is killed during a shootout in which supporters of the group ambushed a prisoner convoy. The shootout killed 13 of the attackers, injured six police officers, and also killed two of Ishaq's sons. 
 
+The leader of Lashkar-e-Jhangvi, a banned extremist group, died in a shootout after armed supporters tried to free him from police custody, the authorities said.
 
 
+### Sources:
 
-### Source:
+1. [New York Times](https://www.nytimes.com/2015/07/30/world/asia/malik-ishaq-leader-of-lashkar-e-jhangvi-militant-group-in-pakistan-is-said-to-die-in-attack-on-police-convoy.html)
+1. [Cover Image](https://static01.nyt.com/images/2015/07/30/world/30pakistan-web01/30pakistan-web01-facebookJumbo.jpg)
 
-1. [New York Times](http://www.nytimes.com/2015/07/30/world/asia/malik-ishaq-leader-of-lashkar-e-jhangvi-militant-group-in-pakistan-is-said-to-die-in-attack-on-police-convoy.html)
+### Changes:
+
+1. [War in North-West Pakistan: Malik Ishaq, leader of the terrorist group Lashkar-e-Jhangvi, is killed during a shootout in which supporters of the group ambushed a prisoner convoy. The shootout killed 13 of the attackers, injured six police officers, and also killed two of Ishaq's sons. ](/news/2015/07/29/war-in-north-west-pakistan-malik-ishaq-leader-of-the-terrorist-group-lashkar-e-jhangvi-is-killed-during-a-shootout-in-which-supporters-of.md) _2017-08-27 03:42:45 (First version)_
+1. [Malik Ishaq, leader of the terrorist group Lashkar-e-Jhangvi, is killed during a shootout in which supporters of the group ambushed a prisoner convoy. The shootout killed 13 of the attackers, injured six police officers, and also killed two of Ishaq's sons. ](/news/2015/07/29/malik-ishaq-leader-of-the-terrorist-group-lashkar-e-jhangvi-is-killed-during-a-shootout-in-which-supporters-of-the-group-ambushed-a-prison.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +26,3 @@
 3. [A roadside bomb kills five people in Bajaur, Pakistan. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.md) _Context: War in North-West Pakistan_
 4. [A suicide bombing took place near a Pakistan army truck in Quetta, Balochistan, Pakistan, leaving 15 people dead including 8 soldiers, while injuring 40 others. ](/news/2017/08/12/a-suicide-bombing-took-place-near-a-pakistan-army-truck-in-quetta-balochistan-pakistan-leaving-15-people-dead-including-8-soldiers-while.md) _Context: War in North-West Pakistan_
 5. [At least 26 people are killed and over 50 others are injured in a suicide car bombing in southern Lahore. ](/news/2017/07/24/at-least-26-people-are-killed-and-over-50-others-are-injured-in-a-suicide-car-bombing-in-southern-lahore.md) _Context: War in North-West Pakistan_
-
-### Changes:
-
-1. [War in North-West Pakistan: Malik Ishaq, leader of the terrorist group Lashkar-e-Jhangvi, is killed during a shootout in which supporters of the group ambushed a prisoner convoy. The shootout killed 13 of the attackers, injured six police officers, and also killed two of Ishaq's sons. ](/news/2015/07/29/war-in-north-west-pakistan-malik-ishaq-leader-of-the-terrorist-group-lashkar-e-jhangvi-is-killed-during-a-shootout-in-which-supporters-of.md) _2017-08-27 03:42:45 (First version)_
-1. [Malik Ishaq, leader of the terrorist group Lashkar-e-Jhangvi, is killed during a shootout in which supporters of the group ambushed a prisoner convoy. The shootout killed 13 of the attackers, injured six police officers, and also killed two of Ishaq's sons. ](/news/2015/07/29/malik-ishaq-leader-of-the-terrorist-group-lashkar-e-jhangvi-is-killed-during-a-shootout-in-which-supporters-of-the-group-ambushed-a-prison.md) _(Current version)_

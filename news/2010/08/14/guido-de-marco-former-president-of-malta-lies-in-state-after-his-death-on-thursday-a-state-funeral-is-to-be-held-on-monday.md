@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/14/guido-de-marco-former-president-of-malta-lies-in-state-after-his-death-on-thursday-a-state-funeral-is-to-be-held-on-monday.html)  [JSON](/news/2010/08/14/guido-de-marco-former-president-of-malta-lies-in-state-after-his-death-on-thursday-a-state-funeral-is-to-be-held-on-monday.json)  [XML](/news/2010/08/14/guido-de-marco-former-president-of-malta-lies-in-state-after-his-death-on-thursday-a-state-funeral-is-to-be-held-on-monday.xml)  
+
 ### [2010-08-14](/news/2010/08/14/index.md)
 
+##### Guido de Marco
 # Guido de Marco, former President of Malta, lies in state after his death on Thursday. A state funeral is to be held on Monday. 
 
 The Nationalist Party this morning gave an emotional farewell to former President Guido de Marco, its long-serving former deputy leader, as the cortege with his coffin stopped outside party headquarters while on its way from Mater Dei Hospital to the Palace in Valletta. A big banner bearing a...
 
 
-### Source:
+### Sources:
 
 1. [The Times of Malta](http://www.timesofmalta.com/articles/view/20100814/local/pn-in-emotional-farewell-to-guido-de-marco)
 1. [Cover Image](https://cdn-attachments.timesofmalta.com/57cfad5800e7d31684ddd18b1aee0b701682669975-1300497183-4d84031f-620x348.jpg)

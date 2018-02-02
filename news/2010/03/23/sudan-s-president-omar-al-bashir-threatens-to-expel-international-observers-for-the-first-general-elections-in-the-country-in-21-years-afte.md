@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/23/sudan-s-president-omar-al-bashir-threatens-to-expel-international-observers-for-the-first-general-elections-in-the-country-in-21-years-afte.html)  [JSON](/news/2010/03/23/sudan-s-president-omar-al-bashir-threatens-to-expel-international-observers-for-the-first-general-elections-in-the-country-in-21-years-afte.json)  [XML](/news/2010/03/23/sudan-s-president-omar-al-bashir-threatens-to-expel-international-observers-for-the-first-general-elections-in-the-country-in-21-years-afte.xml)  
+
 ### [2010-03-23](/news/2010/03/23/index.md)
 
+##### Sudan
 # Sudan's President Omar al-Bashir threatens to expel international observers for the first general elections in the country in 21 years, after they called for a delay to deal with "logistical" problems. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/03/20103237950965487.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/mar/23/sudan-president-bashir-election-observers)

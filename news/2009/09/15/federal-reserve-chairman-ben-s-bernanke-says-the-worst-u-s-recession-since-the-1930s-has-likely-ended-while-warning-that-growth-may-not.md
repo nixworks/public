@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/09/15/federal-reserve-chairman-ben-s-bernanke-says-the-worst-u-s-recession-since-the-1930s-has-likely-ended-while-warning-that-growth-may-not.html)  [JSON](/news/2009/09/15/federal-reserve-chairman-ben-s-bernanke-says-the-worst-u-s-recession-since-the-1930s-has-likely-ended-while-warning-that-growth-may-not.json)  [XML](/news/2009/09/15/federal-reserve-chairman-ben-s-bernanke-says-the-worst-u-s-recession-since-the-1930s-has-likely-ended-while-warning-that-growth-may-not.xml)  
+
 ### [2009-09-15](/news/2009/09/15/index.md)
 
+##### Federal Reserve
 #  Federal Reserve Chairman Ben S. Bernanke says the worst U.S. recession since the 1930s has likely ended, while warning that growth may not be strong enough to quickly reduce the unemployment rate. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aflWYD0hCPqA)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=aflWYD0hCPqA)
 
 ### Related:
 

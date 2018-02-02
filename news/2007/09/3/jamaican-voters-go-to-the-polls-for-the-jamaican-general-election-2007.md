@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/3/jamaican-voters-go-to-the-polls-for-the-jamaican-general-election-2007.html)  [JSON](/news/2007/09/3/jamaican-voters-go-to-the-polls-for-the-jamaican-general-election-2007.json)  [XML](/news/2007/09/3/jamaican-voters-go-to-the-polls-for-the-jamaican-general-election-2007.xml)  
+
 ### [2007-09-3](/news/2007/09/3/index.md)
 
+##### Jamaica
 #  Jamaican voters go to the polls for the Jamaican general election, 2007. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via IHT](http://www.iht.com/articles/ap/2007/09/02/news/CB-POL-Jamaica-Hurricane-Politics.php)
 

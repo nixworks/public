@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/14/islamic-militants-attack-a-nigerian-army-barracks-in-maiduguri-borno-state.html)  [JSON](/news/2014/03/14/islamic-militants-attack-a-nigerian-army-barracks-in-maiduguri-borno-state.json)  [XML](/news/2014/03/14/islamic-militants-attack-a-nigerian-army-barracks-in-maiduguri-borno-state.xml)  
+
 ### [2014-03-14](/news/2014/03/14/index.md)
 
+##### Islamic
 # Islamic militants attack a Nigerian Army barracks in Maiduguri, Borno State. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://www.voanews.com/content/militants-assault-army-barracks-in-northern-nigeria/1870993.html)
 

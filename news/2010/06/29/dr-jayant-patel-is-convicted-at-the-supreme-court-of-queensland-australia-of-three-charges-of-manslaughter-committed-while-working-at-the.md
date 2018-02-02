@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/29/dr-jayant-patel-is-convicted-at-the-supreme-court-of-queensland-australia-of-three-charges-of-manslaughter-committed-while-working-at-the.html)  [JSON](/news/2010/06/29/dr-jayant-patel-is-convicted-at-the-supreme-court-of-queensland-australia-of-three-charges-of-manslaughter-committed-while-working-at-the.json)  [XML](/news/2010/06/29/dr-jayant-patel-is-convicted-at-the-supreme-court-of-queensland-australia-of-three-charges-of-manslaughter-committed-while-working-at-the.xml)  
+
 ### [2010-06-29](/news/2010/06/29/index.md)
 
+##### Jayant Patel
 # Dr. Jayant Patel is convicted at the Supreme Court of Queensland, Australia of three charges of manslaughter committed while working at the Bundaberg Base Hospital. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''The Australian](http://www.theaustralian.com.au/news/jayant-patel-jury-reaches-verdict-on-manslaughter-case/story-e6frg6n6-1225885849612)
 

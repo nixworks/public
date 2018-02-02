@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/10/china-imposes-pay-limits-for-executive-officers-of-state-owned-financial-institutions.html)  [JSON](/news/2009/04/10/china-imposes-pay-limits-for-executive-officers-of-state-owned-financial-institutions.json)  [XML](/news/2009/04/10/china-imposes-pay-limits-for-executive-officers-of-state-owned-financial-institutions.xml)  
+
 ### [2009-04-10](/news/2009/04/10/index.md)
 
+##### China
 #  China imposes pay limits for executive officers of state-owned financial institutions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2009-04/09/content_11159461.htm)
 

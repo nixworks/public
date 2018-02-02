@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/21/south-sudan-accuses-sudan-of-bombing-its-territory-along-a-disputed-border.html)  [JSON](/news/2012/07/21/south-sudan-accuses-sudan-of-bombing-its-territory-along-a-disputed-border.json)  [XML](/news/2012/07/21/south-sudan-accuses-sudan-of-bombing-its-territory-along-a-disputed-border.xml)  
+
 ### [2012-07-21](/news/2012/07/21/index.md)
 
+##### South Sudan
 # South Sudan accuses Sudan of bombing its territory along a disputed border. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.trust.org/alertnet/news/ssudan-accuses-sudan-of-bombing-suspends-direct-talks)
 

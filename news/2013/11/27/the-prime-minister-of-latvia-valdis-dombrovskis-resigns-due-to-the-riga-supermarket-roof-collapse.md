@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/27/the-prime-minister-of-latvia-valdis-dombrovskis-resigns-due-to-the-riga-supermarket-roof-collapse.html)  [JSON](/news/2013/11/27/the-prime-minister-of-latvia-valdis-dombrovskis-resigns-due-to-the-riga-supermarket-roof-collapse.json)  [XML](/news/2013/11/27/the-prime-minister-of-latvia-valdis-dombrovskis-resigns-due-to-the-riga-supermarket-roof-collapse.xml)  
+
 ### [2013-11-27](/news/2013/11/27/index.md)
 
+##### Prime Minister of Latvia
 # The Prime Minister of Latvia Valdis Dombrovskis resigns due to the Riga supermarket roof collapse. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/latvian-pm-government-resign-wake-tragedy-21026971)
 

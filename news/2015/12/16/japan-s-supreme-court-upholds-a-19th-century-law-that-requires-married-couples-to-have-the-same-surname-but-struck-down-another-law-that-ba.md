@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2015/12/16/japan-s-supreme-court-upholds-a-19th-century-law-that-requires-married-couples-to-have-the-same-surname-but-struck-down-another-law-that-ba.html)  [JSON](/news/2015/12/16/japan-s-supreme-court-upholds-a-19th-century-law-that-requires-married-couples-to-have-the-same-surname-but-struck-down-another-law-that-ba.json)  [XML](/news/2015/12/16/japan-s-supreme-court-upholds-a-19th-century-law-that-requires-married-couples-to-have-the-same-surname-but-struck-down-another-law-that-ba.xml)  
+
 ### [2015-12-16](/news/2015/12/16/index.md)
 
+##### Japan
 # Japan's Supreme Court upholds a 19th-century law that requires married couples to have the same surname, but struck down another law that barred women from remarrying within six months of a divorce as unconstitutional. 
 
 Court decision is a setback for campaigners who argued 19th-century law violates civil rights and in practice forces women to take their husband’s name
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2015/dec/16/japanese-court-rules-married-women-cannot-keep-their-surnames)
+1. [The Guardian](https://www.theguardian.com/world/2015/dec/16/japanese-court-rules-married-women-cannot-keep-their-surnames)
 1. [Cover Image](https://i.guim.co.uk/img/media/a2df5136907a7a5f4f3331786ab7a677a966926a/0_71_4644_2786/master/4644.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=7013067062be5f86af2c4847ce0bc69c)
 
 ### Related:
 
-1. [Japan's third-biggest steelmaker, Kobe Steel, admits to falsification of product data. About four percent of the aluminum and copper products that it shipped from September 2016 to August 2017 were falsely labeled as meeting the specifications requested by 200 customers, including Toyota Motor Corp, Central Japan Railway Company, Mitsubishi Heavy Industries, Mazda Motor Corp, and Subaru Corp. ](/news/2017/10/9/japan-s-third-biggest-steelmaker-kobe-steel-admits-to-falsification-of-product-data-about-four-percent-of-the-aluminum-and-copper-product.md) _Context: Japan_
-2. [The Nobel Committee awards Japanese-born British novelist Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." ](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-novelist-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-fo.md) _Context: Japan_
-3. [Aquatic species from Japan hitched a ride on debris from the 2011 Tohoku earthquake and tsunami and were able to reach the West Coast of the United States alive. ](/news/2017/09/28/aquatic-species-from-japan-hitched-a-ride-on-debris-from-the-2011-tahoku-earthquake-and-tsunami-and-were-able-to-reach-the-west-coast-of-th.md) _Context: Japan_
-4. [Japanese Prime Minister Shinzo Abe is expected to dissolve the House of Representatives on September 28, 2017 to make way for fresh elections. ](/news/2017/09/17/japanese-prime-minister-shinza-abe-is-expected-to-dissolve-the-house-of-representatives-on-september-28-2017-to-make-way-for-fresh-electio.md) _Context: Japan_
-5. [A North Korean missile flies over Hokkaido, Japan, triggering the J-Alert system, following a similar event on 29 August. ](/news/2017/09/15/a-north-korean-missile-flies-over-hokkaido-japan-triggering-the-j-alert-system-following-a-similar-event-on-29-august.md) _Context: Japan_
+1. [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md) _Context: Japan_
+2. [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md) _Context: Japan_
+3. [A 17-pound (8 kg) CH-53E transport helicopter window lands on school grounds in Okinawa, Japan, marking the second time in less than a week that an American aircraft part has fallen on a school there. Today, a child sustains "minor injuries". The United States Marine Corps apologizes. ](/news/2017/12/13/a-17-pound-8-kg-ch-53e-transport-helicopter-window-lands-on-school-grounds-in-okinawa-japan-marking-the-second-time-in-less-than-a-week.md) _Context: Japan_
+4. [Former millionaire Chisako Kakehi (also known as Japan's "Black Widow") is sentenced to death for the murder of 3 men which included a husband. ](/news/2017/11/7/former-millionaire-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-husba.md) _Context: Japan_
+5. [U.S. President Donald Trump visits Japan amidst the 2017 North Korea crisis. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.md) _Context: Japan_

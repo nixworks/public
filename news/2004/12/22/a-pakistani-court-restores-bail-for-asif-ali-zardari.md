@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/22/a-pakistani-court-restores-bail-for-asif-ali-zardari.html)  [JSON](/news/2004/12/22/a-pakistani-court-restores-bail-for-asif-ali-zardari.json)  [XML](/news/2004/12/22/a-pakistani-court-restores-bail-for-asif-ali-zardari.xml)  
+
 ### [2004-12-22](/news/2004/12/22/index.md)
 
+##### Pakistan
 #  A Pakistani court restores bail for Asif Ali Zardari. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4116957.stm)
 2. [GEO](http://www.geo.tv/main_files/pakistan.aspx?id=55765)

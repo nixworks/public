@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/09/2/2007-south-korean-hostage-crisis-in-afghanistan-the-19-freed-hostages-return-to-south-korea.html)  [JSON](/news/2007/09/2/2007-south-korean-hostage-crisis-in-afghanistan-the-19-freed-hostages-return-to-south-korea.json)  [XML](/news/2007/09/2/2007-south-korean-hostage-crisis-in-afghanistan-the-19-freed-hostages-return-to-south-korea.xml)  
+
 ### [2007-09-2](/news/2007/09/2/index.md)
 
+##### 2007 South Korean hostage crisis in Afghanistan
 #  2007 South Korean hostage crisis in Afghanistan: The 19 freed hostages return to South Korea. 
 
 Nineteen South Korean Christian volunteers held hostage by the Taliban in Afghanistan for six weeks returned home to an uncomfortable welcome on Sunday, thanking their government for saving them from death.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSSEO26854720070902?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070902&t=2&i=1392370&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-02T090627Z_01_SEO268547_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSSEO26854720070902?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20070902&t=2&i=1392370&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-02T090627Z_01_SEO268547_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

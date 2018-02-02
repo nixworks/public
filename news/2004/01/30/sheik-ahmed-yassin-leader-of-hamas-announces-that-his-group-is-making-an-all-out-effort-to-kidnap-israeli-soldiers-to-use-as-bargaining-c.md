@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/30/sheik-ahmed-yassin-leader-of-hamas-announces-that-his-group-is-making-an-all-out-effort-to-kidnap-israeli-soldiers-to-use-as-bargaining-c.html)  [JSON](/news/2004/01/30/sheik-ahmed-yassin-leader-of-hamas-announces-that-his-group-is-making-an-all-out-effort-to-kidnap-israeli-soldiers-to-use-as-bargaining-c.json)  [XML](/news/2004/01/30/sheik-ahmed-yassin-leader-of-hamas-announces-that-his-group-is-making-an-all-out-effort-to-kidnap-israeli-soldiers-to-use-as-bargaining-c.xml)  
+
 ### [2004-01-30](/news/2004/01/30/index.md)
 
+##### Ahmed Yassin
 #  Sheik Ahmed Yassin, leader of Hamas, announces that his group is making an all-out effort to kidnap Israeli soldiers to use as bargaining chips for Palestinians in Israeli prisons, following the prisoner exchange between Israel and Hezbollah in which the remains of three Israeli soldiers and a businessman were exchanged for over 400 prisoners on January 29, 2004.
 
 

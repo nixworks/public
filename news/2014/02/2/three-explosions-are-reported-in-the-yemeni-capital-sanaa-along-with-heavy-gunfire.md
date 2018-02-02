@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/2/three-explosions-are-reported-in-the-yemeni-capital-sanaa-along-with-heavy-gunfire.html)  [JSON](/news/2014/02/2/three-explosions-are-reported-in-the-yemeni-capital-sanaa-along-with-heavy-gunfire.json)  [XML](/news/2014/02/2/three-explosions-are-reported-in-the-yemeni-capital-sanaa-along-with-heavy-gunfire.xml)  
+
 ### [2014-02-2](/news/2014/02/2/index.md)
 
+##### Yemen
 # Three explosions are reported in the Yemeni capital Sanaa along with heavy gunfire. 
 
 Three large explosions were heard in Yemen&#39;s capital Sanaa on Sunday, close to the defence ministry, the central bank and the former president&#39;s home, locals told Reuters.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Daily Star](http://www.dailystar.com.lb/News/Middle-East/2014/Feb-02/246181-two-explosions-rock-yemeni-capital-sanaa.ashx#axzz2sDPxtCcn)
 1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2014/02/03/246469_img650x420_img650x420_crop.jpg)

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/05/7/thousands-rally-in-kathmandu-and-other-cities-against-the-six-day-shut-down-of-public-transport-businesses-and-schools-across-nepal-by-mill.html)  [JSON](/news/2010/05/7/thousands-rally-in-kathmandu-and-other-cities-against-the-six-day-shut-down-of-public-transport-businesses-and-schools-across-nepal-by-mill.json)  [XML](/news/2010/05/7/thousands-rally-in-kathmandu-and-other-cities-against-the-six-day-shut-down-of-public-transport-businesses-and-schools-across-nepal-by-mill.xml)  
+
 ### [2010-05-7](/news/2010/05/7/index.md)
 
+##### Kathmandu
 # Thousands rally in Kathmandu and other cities against the six-day shut down of public transport, businesses and schools across Nepal by millions of the country's poor. 
 
 Police fire warning shots as thousands rally in capital against nationwide shutdown.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/05/2010579185369622.html)
 2. [The Hindu](http://beta.thehindu.com/news/international/article424607.ece)
-3. [The New York Times](http://www.nytimes.com/2010/05/08/world/asia/08nepal.html)
+3. [The New York Times](https://www.nytimes.com/2010/05/08/world/asia/08nepal.html)
 3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:

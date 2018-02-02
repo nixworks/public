@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2015/10/15/egypt-senegal-uruguay-japan-and-ukraine-are-elected-to-two-year-non-permanent-seats-on-the-united-nations-security-council-for-2016-17.html)  [JSON](/news/2015/10/15/egypt-senegal-uruguay-japan-and-ukraine-are-elected-to-two-year-non-permanent-seats-on-the-united-nations-security-council-for-2016-17.json)  [XML](/news/2015/10/15/egypt-senegal-uruguay-japan-and-ukraine-are-elected-to-two-year-non-permanent-seats-on-the-united-nations-security-council-for-2016-17.xml)  
+
 ### [2015-10-15](/news/2015/10/15/index.md)
 
-#  Egypt, Senegal, Uruguay, Japan, and Ukraine are elected to two-year, non-permanent seats on the United Nations Security Council for 2016-17, replacing Chad, Chile, Jordan, Lithuania, and Nigeria. [http:--www.nytimes.com-2015-10-16-world-ukraine-and-japan-among-latest-members-of-un-security-council.html?ref=world (New York Times) ] 
+##### 2015 United Nations Security Council election
+#  Egypt, Senegal, Uruguay, Japan, and Ukraine are elected to two-year, non-permanent seats on the United Nations Security Council for 2016-17, replacing Chad, Chile, Jordan, Lithuania, and Nigeria. [https:--www.nytimes.com-2015-10-16-world-ukraine-and-japan-among-latest-members-of-un-security-council.html?ref=world (New York Times) ] 
 
 
 

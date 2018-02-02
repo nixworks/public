@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/2/the-thieves-of-the-famous-edvard-munch-paintings-the-scream-and-madonna-are-sentenced-to-four-and-eight-years-in-prison.html)  [JSON](/news/2006/05/2/the-thieves-of-the-famous-edvard-munch-paintings-the-scream-and-madonna-are-sentenced-to-four-and-eight-years-in-prison.json)  [XML](/news/2006/05/2/the-thieves-of-the-famous-edvard-munch-paintings-the-scream-and-madonna-are-sentenced-to-four-and-eight-years-in-prison.xml)  
+
 ### [2006-05-2](/news/2006/05/2/index.md)
 
+##### Edvard Munch
 #  The thieves of the famous Edvard Munch paintings "The Scream "and "Madonna" are sentenced to four and eight years in prison. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/entertainment/4964872.stm)
 

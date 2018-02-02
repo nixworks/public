@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/17/french-president-sarkozy-appoints-francois-fillon-as-his-prime-minister.html)  [JSON](/news/2007/05/17/french-president-sarkozy-appoints-francois-fillon-as-his-prime-minister.json)  [XML](/news/2007/05/17/french-president-sarkozy-appoints-francois-fillon-as-his-prime-minister.xml)  
+
 ### [2007-05-17](/news/2007/05/17/index.md)
 
+##### France
 #  French President Sarkozy appoints Franois Fillon as his Prime Minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Élysée Palace](http://elysee.fr/elysee/elysee.fr/francais_attente/salle_de_presse/communique_concernant_la_nommination_du_premier_ministre.76689.html)
 

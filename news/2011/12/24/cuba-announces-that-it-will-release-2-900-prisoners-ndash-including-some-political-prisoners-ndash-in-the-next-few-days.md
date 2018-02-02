@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/24/cuba-announces-that-it-will-release-2-900-prisoners-ndash-including-some-political-prisoners-ndash-in-the-next-few-days.html)  [JSON](/news/2011/12/24/cuba-announces-that-it-will-release-2-900-prisoners-ndash-including-some-political-prisoners-ndash-in-the-next-few-days.json)  [XML](/news/2011/12/24/cuba-announces-that-it-will-release-2-900-prisoners-ndash-including-some-political-prisoners-ndash-in-the-next-few-days.xml)  
+
 ### [2011-12-24](/news/2011/12/24/index.md)
 
+##### Cuba
 # Cuba announces that it will release 2,900 prisoners &ndash; including some political prisoners &ndash; in the next few days. 
 
 Cuban President Raul Castro says 2,900 prisoners, including some convicted of political crimes, will be freed in the next few days as a goodwill gesture.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-16324331)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57561000/jpg/_57561555_013580669-1.jpg)

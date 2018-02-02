@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2014/12/23/the-death-toll-from-the-bombings-in-the-nigerian-cities-of-gombe-and-bauchi-reaches-at-least-37.html)  [JSON](/news/2014/12/23/the-death-toll-from-the-bombings-in-the-nigerian-cities-of-gombe-and-bauchi-reaches-at-least-37.json)  [XML](/news/2014/12/23/the-death-toll-from-the-bombings-in-the-nigerian-cities-of-gombe-and-bauchi-reaches-at-least-37.xml)  
+
 ### [2014-12-23](/news/2014/12/23/index.md)
 
+##### Nigeria
 # The death toll from the bombings in the Nigerian cities of Gombe and Bauchi reaches at least 37. 
 
+At least 37 people were killed in bombings at a bus station and market in Nigeria’s northeastern cities of Gombe and Bauchi, according to the police and Red Cross.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2014-12-23/nigerian-bombings-kill-at-least-27-in-two-northeastern-cities.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2014-12-23/nigerian-bombings-kill-at-least-27-in-two-northeastern-cities.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

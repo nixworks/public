@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/05/29/economy-minister-axel-kicillof-of-argentina-reaches-an-agreement-with-the-paris-club-of-creditor-nations-on-debt-repayment-totaling-9-7-bil.html)  [JSON](/news/2014/05/29/economy-minister-axel-kicillof-of-argentina-reaches-an-agreement-with-the-paris-club-of-creditor-nations-on-debt-repayment-totaling-9-7-bil.json)  [XML](/news/2014/05/29/economy-minister-axel-kicillof-of-argentina-reaches-an-agreement-with-the-paris-club-of-creditor-nations-on-debt-repayment-totaling-9-7-bil.xml)  
+
 ### [2014-05-29](/news/2014/05/29/index.md)
 
+##### Axel Kicillof
 # Economy Minister Axel Kicillof of Argentina reaches an agreement with the Paris Club of creditor nations on debt repayment totaling $9.7 billion including interest, over the next five years. 
 
 Argentina reached an agreement on Thursday with the Paris Club of creditor nations on repaying overdue debts in a landmark deal that should help the country put its record default behind it and open up much-needed sources of international financing.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/05/29/us-argentina-debt-parisclub-idUSKBN0E90JI20140529)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140529&t=2&i=901192918&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA4S06V)
+1. [Reuters](https://www.reuters.com/article/2014/05/29/us-argentina-debt-parisclub-idUSKBN0E90JI20140529)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20140529&t=2&i=901192918&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA4S06V)
 
 ### Related:
 

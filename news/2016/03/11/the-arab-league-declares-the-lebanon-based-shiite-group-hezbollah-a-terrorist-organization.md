@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/11/the-arab-league-declares-the-lebanon-based-shii
 
 ### [2016-03-11](/news/2016/03/11/index.md)
 
+##### Arab League
 # The Arab League declares the Lebanon-based Shiite group Hezbollah a terrorist organization. 
 
 

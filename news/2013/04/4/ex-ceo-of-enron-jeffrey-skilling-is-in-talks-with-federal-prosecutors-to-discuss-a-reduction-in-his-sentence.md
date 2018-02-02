@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/4/ex-ceo-of-enron-jeffrey-skilling-is-in-talks-with-federal-prosecutors-to-discuss-a-reduction-in-his-sentence.html)  [JSON](/news/2013/04/4/ex-ceo-of-enron-jeffrey-skilling-is-in-talks-with-federal-prosecutors-to-discuss-a-reduction-in-his-sentence.json)  [XML](/news/2013/04/4/ex-ceo-of-enron-jeffrey-skilling-is-in-talks-with-federal-prosecutors-to-discuss-a-reduction-in-his-sentence.xml)  
+
 ### [2013-04-4](/news/2013/04/4/index.md)
 
+##### CEO
 # Ex-CEO of Enron Jeffrey Skilling is in talks with federal prosecutors to discuss a reduction in his sentence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Wall Street Journal](http://online.wsj.com/article/SB10001424127887324600704578402530896493020.html)
 

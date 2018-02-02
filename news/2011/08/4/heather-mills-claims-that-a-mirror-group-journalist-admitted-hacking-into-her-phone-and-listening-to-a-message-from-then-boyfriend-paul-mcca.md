@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/4/heather-mills-claims-that-a-mirror-group-journalist-admitted-hacking-into-her-phone-and-listening-to-a-message-from-then-boyfriend-paul-mcca.html)  [JSON](/news/2011/08/4/heather-mills-claims-that-a-mirror-group-journalist-admitted-hacking-into-her-phone-and-listening-to-a-message-from-then-boyfriend-paul-mcca.json)  [XML](/news/2011/08/4/heather-mills-claims-that-a-mirror-group-journalist-admitted-hacking-into-her-phone-and-listening-to-a-message-from-then-boyfriend-paul-mcca.xml)  
+
 ### [2011-08-4](/news/2011/08/4/index.md)
 
+##### Heather Mills
 # Heather Mills claims that a Mirror Group journalist admitted hacking into her phone and listening to a message from then-boyfriend Paul McCartney - Piers Morgan has admitted to hearing it although he was not the journalist involved. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14393925)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54404000/jpg/_54404796_003347921-1.jpg)

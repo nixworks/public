@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/14/united-kingdom-took-back-the-reins-of-government-in-northern-ireland-amid-a-crisis-in-the-peace-process-provoked-by-a-spying-scandal-but-v.html)  [JSON](/news/2002/10/14/united-kingdom-took-back-the-reins-of-government-in-northern-ireland-amid-a-crisis-in-the-peace-process-provoked-by-a-spying-scandal-but-v.json)  [XML](/news/2002/10/14/united-kingdom-took-back-the-reins-of-government-in-northern-ireland-amid-a-crisis-in-the-peace-process-provoked-by-a-spying-scandal-but-v.xml)  
+
 ### [2002-10-14](/news/2002/10/14/index.md)
 
+##### Northern Ireland
 #  United Kingdom took back the reins of government in Northern Ireland amid a crisis in the peace process provoked by a spying scandal, but vowed to try and restore home rule early next year. See also Good Friday Agreement.
 
 

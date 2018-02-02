@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/11/north-korea-proposes-a-peace-treaty-replacing-the-korean-war-armistice.html)  [JSON](/news/2010/01/11/north-korea-proposes-a-peace-treaty-replacing-the-korean-war-armistice.json)  [XML](/news/2010/01/11/north-korea-proposes-a-peace-treaty-replacing-the-korean-war-armistice.xml)  
+
 ### [2010-01-11](/news/2010/01/11/index.md)
 
+##### North Korea
 # North Korea proposes a peace treaty, replacing the Korean War armistice. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5heyZS6xq314Wf12N06N07SgRX0sw)
 2. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2010/01/11/48/0401000000AEN20100111009600315F.HTML)

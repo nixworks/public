@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/15/pope-benedict-xvi-begins-a-two-day-meeting-with-all-24-irish-roman-catholic-bishops-to-discuss-child-abuse-in-a-quite-unprecedented-move.html)  [JSON](/news/2010/02/15/pope-benedict-xvi-begins-a-two-day-meeting-with-all-24-irish-roman-catholic-bishops-to-discuss-child-abuse-in-a-quite-unprecedented-move.json)  [XML](/news/2010/02/15/pope-benedict-xvi-begins-a-two-day-meeting-with-all-24-irish-roman-catholic-bishops-to-discuss-child-abuse-in-a-quite-unprecedented-move.xml)  
+
 ### [2010-02-15](/news/2010/02/15/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI begins a two-day meeting with all 24 Irish Roman Catholic bishops to discuss child abuse in a "quite unprecedented" move. 
 
 Pope Benedict XVI&#39;s second-in-command has urged Catholics in Ireland not to let clerical child abuse scandals shake their faith.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/02/201021420236176854.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8515595.stm)

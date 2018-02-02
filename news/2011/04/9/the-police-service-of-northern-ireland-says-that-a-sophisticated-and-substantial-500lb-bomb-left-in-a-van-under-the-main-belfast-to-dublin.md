@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/9/the-police-service-of-northern-ireland-says-that-a-sophisticated-and-substantial-500lb-bomb-left-in-a-van-under-the-main-belfast-to-dublin.html)  [JSON](/news/2011/04/9/the-police-service-of-northern-ireland-says-that-a-sophisticated-and-substantial-500lb-bomb-left-in-a-van-under-the-main-belfast-to-dublin.json)  [XML](/news/2011/04/9/the-police-service-of-northern-ireland-says-that-a-sophisticated-and-substantial-500lb-bomb-left-in-a-van-under-the-main-belfast-to-dublin.xml)  
+
 ### [2011-04-9](/news/2011/04/9/index.md)
 
+##### Police Service of Northern Ireland
 # The Police Service of Northern Ireland says that a "sophisticated and substantial" 500lb bomb left in a van under the main Belfast to Dublin road near Newry had the potential to cause huge loss of life and devastation, and may have been destined for a town centre. 
 
 Police say that a 500lb bomb left in a van under the main Belfast to Dublin road near Newry may have been destined for a town centre.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-13023315)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

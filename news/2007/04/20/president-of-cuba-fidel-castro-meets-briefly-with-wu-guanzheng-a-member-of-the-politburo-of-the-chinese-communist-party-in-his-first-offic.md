@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/20/president-of-cuba-fidel-castro-meets-briefly-with-wu-guanzheng-a-member-of-the-politburo-of-the-chinese-communist-party-in-his-first-offic.html)  [JSON](/news/2007/04/20/president-of-cuba-fidel-castro-meets-briefly-with-wu-guanzheng-a-member-of-the-politburo-of-the-chinese-communist-party-in-his-first-offic.json)  [XML](/news/2007/04/20/president-of-cuba-fidel-castro-meets-briefly-with-wu-guanzheng-a-member-of-the-politburo-of-the-chinese-communist-party-in-his-first-offic.xml)  
+
 ### [2007-04-20](/news/2007/04/20/index.md)
 
+##### President
 #  President of Cuba Fidel Castro meets briefly with Wu Guanzheng, a member of the Politburo of the Chinese Communist Party in his first official duties since transferring power in July 2006. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/4735954.html)
 

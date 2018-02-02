@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/26/macky-sall-former-prime-minister-under-abdoulaye-wade-s-administration-is-elected-president-of-senegal.html)  [JSON](/news/2012/03/26/macky-sall-former-prime-minister-under-abdoulaye-wade-s-administration-is-elected-president-of-senegal.json)  [XML](/news/2012/03/26/macky-sall-former-prime-minister-under-abdoulaye-wade-s-administration-is-elected-president-of-senegal.xml)  
+
 ### [2012-03-26](/news/2012/03/26/index.md)
 
+##### Macky Sall
 # Macky Sall, former Prime Minister under Abdoulaye Wade's administration, is elected President of Senegal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17508098)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59299000/jpg/_59299810_podjntlr.jpg)

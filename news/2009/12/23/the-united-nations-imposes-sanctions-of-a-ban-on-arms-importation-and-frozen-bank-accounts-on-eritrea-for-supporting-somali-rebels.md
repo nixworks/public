@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2009/12/23/the-united-nations-imposes-sanctions-of-a-ban-on-arms-importation-and-frozen-bank-accounts-on-eritrea-for-supporting-somali-rebels.html)  [JSON](/news/2009/12/23/the-united-nations-imposes-sanctions-of-a-ban-on-arms-importation-and-frozen-bank-accounts-on-eritrea-for-supporting-somali-rebels.json)  [XML](/news/2009/12/23/the-united-nations-imposes-sanctions-of-a-ban-on-arms-importation-and-frozen-bank-accounts-on-eritrea-for-supporting-somali-rebels.xml)  
+
 ### [2009-12-23](/news/2009/12/23/index.md)
 
+##### United Nations
 #  The United Nations imposes sanctions of a ban on arms importation and frozen bank accounts on Eritrea for supporting Somali rebels. 
 
 The U.N. Security Council imposed sanctions on the Horn of Africa state of Eritrea on Wednesday because of aid that council members say it has given to Islamist insurgents in nearby Somalia.
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/world/20091223/157336451.html)
-2. [Reuters](http://www.reuters.com/article/idUSTRE5BM2K420091223)
+2. [Reuters](https://www.reuters.com/article/idUSTRE5BM2K420091223)
 3. [The Times](http://www.timesonline.co.uk/tol/news/world/africa/article6966873.ece)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

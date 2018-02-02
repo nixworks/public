@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/20/amisom-troops-raid-islamist-hideouts-in-the-somali-capital-mogadishu.html)  [JSON](/news/2012/01/20/amisom-troops-raid-islamist-hideouts-in-the-somali-capital-mogadishu.json)  [XML](/news/2012/01/20/amisom-troops-raid-islamist-hideouts-in-the-somali-capital-mogadishu.xml)  
+
 ### [2012-01-20](/news/2012/01/20/index.md)
 
+##### AMISOM
 # AMISOM troops raid Islamist hideouts in the Somali capital Mogadishu. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hc6Xm5yYjaAcfu3IWFrI5uxX4F-g?docId=CNG.7660b07cc66bea3af95e87a91afccd5d.bb1)
 

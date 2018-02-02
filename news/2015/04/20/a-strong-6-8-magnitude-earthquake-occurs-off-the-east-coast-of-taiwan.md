@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/20/a-strong-6-8-magnitude-earthquake-occurs-off-the-east-coast-of-taiwan.html)  [JSON](/news/2015/04/20/a-strong-6-8-magnitude-earthquake-occurs-off-the-east-coast-of-taiwan.json)  [XML](/news/2015/04/20/a-strong-6-8-magnitude-earthquake-occurs-off-the-east-coast-of-taiwan.xml)  
+
 ### [2015-04-20](/news/2015/04/20/index.md)
 
+##### Taiwan
 # A strong 6.8 magnitude earthquake occurs off the east coast of Taiwan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3046454/Magnitude-6-8-quake-hits-Taiwan-buildings-sway-Taipei.html)
 

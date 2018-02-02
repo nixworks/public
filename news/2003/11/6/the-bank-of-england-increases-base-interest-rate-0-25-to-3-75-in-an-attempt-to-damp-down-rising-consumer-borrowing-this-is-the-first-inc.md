@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/6/the-bank-of-england-increases-base-interest-rate-0-25-to-3-75-in-an-attempt-to-damp-down-rising-consumer-borrowing-this-is-the-first-inc.html)  [JSON](/news/2003/11/6/the-bank-of-england-increases-base-interest-rate-0-25-to-3-75-in-an-attempt-to-damp-down-rising-consumer-borrowing-this-is-the-first-inc.json)  [XML](/news/2003/11/6/the-bank-of-england-increases-base-interest-rate-0-25-to-3-75-in-an-attempt-to-damp-down-rising-consumer-borrowing-this-is-the-first-inc.xml)  
+
 ### [2003-11-6](/news/2003/11/6/index.md)
 
+##### Bank of England
 #  The Bank of England increases base interest rate 0.25% to 3.75% in an attempt to damp down rising consumer borrowing. This is the first increase in base rate for four years.
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/20/at-least-four-gunmen-launch-an-attack-on-the-in
 
 ### [2018-01-20](/news/2018/01/20/index.md)
 
+##### 2018 Inter-Continental Hotel Kabul attack
 # At least four gunmen launch an attack on the Intercontinental Hotel in Kabul, Afghanistan. 
 
 

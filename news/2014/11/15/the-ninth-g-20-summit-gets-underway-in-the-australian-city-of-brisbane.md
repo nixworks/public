@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/15/the-ninth-g-20-summit-gets-underway-in-the-australian-city-of-brisbane.html)  [JSON](/news/2014/11/15/the-ninth-g-20-summit-gets-underway-in-the-australian-city-of-brisbane.json)  [XML](/news/2014/11/15/the-ninth-g-20-summit-gets-underway-in-the-australian-city-of-brisbane.xml)  
+
 ### [2014-11-15](/news/2014/11/15/index.md)
 
+##### ninth G-20 summit
 # The ninth G-20 summit gets underway in the Australian city of Brisbane. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via NBC News](https://abcnews.go.com/International/wireStory/russia-20-warships-26905621)
 

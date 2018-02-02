@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/28/three-nursing-professors-are-shot-dead-at-the-university-of-arizona-by-a-student-flunking-out-of-the-nursing-program-robert-j-flores-jr.html)  [JSON](/news/2002/10/28/three-nursing-professors-are-shot-dead-at-the-university-of-arizona-by-a-student-flunking-out-of-the-nursing-program-robert-j-flores-jr.json)  [XML](/news/2002/10/28/three-nursing-professors-are-shot-dead-at-the-university-of-arizona-by-a-student-flunking-out-of-the-nursing-program-robert-j-flores-jr.xml)  
+
 ### [2002-10-28](/news/2002/10/28/index.md)
 
+##### University of Arizona
 #  Three nursing professors are shot dead at the University of Arizona by a student flunking out of the nursing program. Robert J. Flores, Jr., 41, shot and killed Robin Rogers, 50, Barbara Monroe, 45, and Cheryl McGaffic, 44, before turning the gun on himself. Two of the teachers were shot in a classroom and the gunman allowed the students to leave before killing himself.
 
 

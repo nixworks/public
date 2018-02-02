@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/1/comet-ison-breaks-up-into-a-cloud-of-debris-after-skimming-the-sun.html)  [JSON](/news/2013/12/1/comet-ison-breaks-up-into-a-cloud-of-debris-after-skimming-the-sun.json)  [XML](/news/2013/12/1/comet-ison-breaks-up-into-a-cloud-of-debris-after-skimming-the-sun.xml)  
+
 ### [2013-12-1](/news/2013/12/1/index.md)
 
+##### Comet ISON
 # Comet ISON breaks up into a cloud of debris after skimming the Sun. 
 
 Previous reports of Comet ISON&#x27;s death may have been somewhat exaggerated, but this time it looks like the real thing.Remnants of the object once touted as the &quot;comet of the century&quot; passed through the viewing field of the Solar and Heliospheric Observatory in the wake of Thursday&#x27;s close encounter with the sun — and as it passed, the bright spot that survived grew dimmer and dimmer.
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://www.nbcnews.com/science/comet-isons-leftovers-fade-away-right-satellites-eyes-2D11674277)
 1. [Cover Image](https://media2.s-nbcnews.com/j/streams/2013/november/131130/2d9814349-131130-coslog-ison.nbcnews-fp-1200-800.jpg)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/02/19/an-oklahoma-city-bombing-museum-is-dedicated-at-the-oklahoma-city-national-memorial.html)  [JSON](/news/2001/02/19/an-oklahoma-city-bombing-museum-is-dedicated-at-the-oklahoma-city-national-memorial.json)  [XML](/news/2001/02/19/an-oklahoma-city-bombing-museum-is-dedicated-at-the-oklahoma-city-national-memorial.xml)  
+
 ### [2001-02-19](/news/2001/02/19/index.md)
 
+##### Oklahoma City bombing
 #  An Oklahoma City bombing museum is dedicated at the Oklahoma City National Memorial.
 
 

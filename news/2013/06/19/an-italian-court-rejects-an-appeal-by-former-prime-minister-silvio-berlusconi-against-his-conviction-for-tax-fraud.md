@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/19/an-italian-court-rejects-an-appeal-by-former-prime-minister-silvio-berlusconi-against-his-conviction-for-tax-fraud.html)  [JSON](/news/2013/06/19/an-italian-court-rejects-an-appeal-by-former-prime-minister-silvio-berlusconi-against-his-conviction-for-tax-fraud.json)  [XML](/news/2013/06/19/an-italian-court-rejects-an-appeal-by-former-prime-minister-silvio-berlusconi-against-his-conviction-for-tax-fraud.xml)  
+
 ### [2013-06-19](/news/2013/06/19/index.md)
 
+##### top court
 # An Italian court rejects an appeal by former Prime Minister Silvio Berlusconi against his conviction for tax fraud. 
 
 An Italian court has rejected an attempt by Silvio Berlusconi to strike down a conviction he received last year for tax fraud.
 
 
-### Source:
+### Sources:
 
 1. [ (''The Telegraph](http://www.telegraph.co.uk/news/worldnews/silvio-berlusconi/10131046/Silvio-Berlusconi-tax-fraud-appeal-rejected.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02492/berlusconi-electio_2492497k.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/16/magistrate-ilda-boccassini-promises-to-cut-pre-trial-hearings-and-have-silvio-berlusconi-s-prostitution-case-in-court-by-the-summer.html)  [JSON](/news/2011/01/16/magistrate-ilda-boccassini-promises-to-cut-pre-trial-hearings-and-have-silvio-berlusconi-s-prostitution-case-in-court-by-the-summer.json)  [XML](/news/2011/01/16/magistrate-ilda-boccassini-promises-to-cut-pre-trial-hearings-and-have-silvio-berlusconi-s-prostitution-case-in-court-by-the-summer.xml)  
+
 ### [2011-01-16](/news/2011/01/16/index.md)
 
+##### Magistrate
 # Magistrate Ilda Boccassini promises to cut pre-trial hearings and have Silvio Berlusconi's prostitution case in court by the summer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Observer](http://www.guardian.co.uk/world/2011/jan/16/silvio-berlusconi-sex-case)
 

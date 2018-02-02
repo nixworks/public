@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/28/twelve-people-are-injured-four-critically-after
 
 ### [2017-02-28](/news/2017/02/28/index.md)
 
+##### Gulf Shores High School
 # Twelve people are injured, four critically, after an SUV hits the Gulf Shores High School Band during the Gulf Shores, Alabama, Mardi Gras parade. The vehicle, in the parade behind the band, accelerated when the 73-year-old driver's foot slipped off the brake pedal onto the gas. 
 
 A vehicle struck members of a high school marching band during the Mardi Gras parade in Gulf Shores, Alabama. Four teenagers were critically injured, and the parade has been canceled.

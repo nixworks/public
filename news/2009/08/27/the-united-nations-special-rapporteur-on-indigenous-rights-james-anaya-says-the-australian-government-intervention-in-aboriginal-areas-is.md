@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/27/the-united-nations-special-rapporteur-on-indigenous-rights-james-anaya-says-the-australian-government-intervention-in-aboriginal-areas-is.html)  [JSON](/news/2009/08/27/the-united-nations-special-rapporteur-on-indigenous-rights-james-anaya-says-the-australian-government-intervention-in-aboriginal-areas-is.json)  [XML](/news/2009/08/27/the-united-nations-special-rapporteur-on-indigenous-rights-james-anaya-says-the-australian-government-intervention-in-aboriginal-areas-is.xml)  
+
 ### [2009-08-27](/news/2009/08/27/index.md)
 
+##### United Nations
 #  The United Nations Special Rapporteur on indigenous rights, James Anaya, says the Australian government intervention in Aboriginal areas is "discriminatory". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8223881.stm)
 2. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,25989388-26103,00.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/7/the-jaxa-probe-akatsuki-successfully-enters-orbit-around-venus-five-years-after-the-first-attempt-this-mission-is-japan-s-first-successful.html)  [JSON](/news/2015/12/7/the-jaxa-probe-akatsuki-successfully-enters-orbit-around-venus-five-years-after-the-first-attempt-this-mission-is-japan-s-first-successful.json)  [XML](/news/2015/12/7/the-jaxa-probe-akatsuki-successfully-enters-orbit-around-venus-five-years-after-the-first-attempt-this-mission-is-japan-s-first-successful.xml)  
+
 ### [2015-12-7](/news/2015/12/7/index.md)
 
+##### JAXA
 #  The JAXA probe Akatsuki successfully enters orbit around Venus five years after the first attempt. This mission is Japan's first successful mission to another planet. The orbital injection was achieved using the probe's attitude control thrusters, a feat which has never been done before. 
 
 Space exploration rarely gives second chances, but the Japanese Aerospace Exploration Agency took one today. The Agency has confirmed that its Akatsuki space probe has successfully made it into orbit around the planet Venus on its second attempt.
 
 
-### Source:
+### Sources:
 
 1. [Gizmag](http://www.gizmag.com/jaxa-venus-akatsuki-orbit/40770/)
 2. [Spaceflight Now](https://spaceflightnow.com/2015/12/06/japanese-space-probe-to-steer-into-orbit-around-venus/)

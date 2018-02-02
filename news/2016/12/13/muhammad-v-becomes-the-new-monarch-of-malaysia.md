@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/13/muhammad-v-becomes-the-new-monarch-of-malaysia.
 
 ### [2016-12-13](/news/2016/12/13/index.md)
 
+##### Muhammad V
 # Muhammad V becomes the new monarch of Malaysia. 
 
 The Sultan of Kelantan, Sultan Muhammad V is set to become the 15th Yang di-Pertuan Agong. Sultan Muhammad V was elected on Oct, 14, to become the next Yang di-Pertuan Agong, the head of state

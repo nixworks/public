@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/9/sian-blake-s-partner-arthur-simpson-kent-is-arre
 
 ### [2016-01-9](/news/2016/01/9/index.md)
 
+##### Sian Blake
 # Sian Blake's partner Arthur Simpson-Kent is arrested in Ghana in connection with the murder of Blake and her two children. 
 
 Arthur Simpson-Kent, who fled following the death of EastEnders actor and her two children, arrested by police

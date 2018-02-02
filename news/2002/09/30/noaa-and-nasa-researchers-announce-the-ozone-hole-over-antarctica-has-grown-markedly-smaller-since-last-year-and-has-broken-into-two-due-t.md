@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/09/30/noaa-and-nasa-researchers-announce-the-ozone-hole-over-antarctica-has-grown-markedly-smaller-since-last-year-and-has-broken-into-two-due-t.html)  [JSON](/news/2002/09/30/noaa-and-nasa-researchers-announce-the-ozone-hole-over-antarctica-has-grown-markedly-smaller-since-last-year-and-has-broken-into-two-due-t.json)  [XML](/news/2002/09/30/noaa-and-nasa-researchers-announce-the-ozone-hole-over-antarctica-has-grown-markedly-smaller-since-last-year-and-has-broken-into-two-due-t.xml)  
+
 ### [2002-09-30](/news/2002/09/30/index.md)
 
+##### NOAA
 #  NOAA and NASA researchers announce the ozone hole over Antarctica has grown markedly smaller since last year and has broken into two, due to warmer temperatures.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/21/arab-israeli-conflict-the-leaders-of-the-gulf-co-operation-council-gcc-urge-us-president-george-w-bush-to-make-the-creation-of-an-indep.html)  [JSON](/news/2004/12/21/arab-israeli-conflict-the-leaders-of-the-gulf-co-operation-council-gcc-urge-us-president-george-w-bush-to-make-the-creation-of-an-indep.json)  [XML](/news/2004/12/21/arab-israeli-conflict-the-leaders-of-the-gulf-co-operation-council-gcc-urge-us-president-george-w-bush-to-make-the-creation-of-an-indep.xml)  
+
 ### [2004-12-21](/news/2004/12/21/index.md)
 
+##### Arab-Israeli Conflict
 #  Arab-Israeli Conflict: The leaders of the Gulf Co-operation Council (GCC) urge US President George W. Bush to make the creation of an independent Palestinian state an absolute priority at their annual meeting, which is being held in Bahrain. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4114967.stm)
 

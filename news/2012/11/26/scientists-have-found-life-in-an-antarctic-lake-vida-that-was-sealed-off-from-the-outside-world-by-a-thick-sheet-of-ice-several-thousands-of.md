@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/26/scientists-have-found-life-in-an-antarctic-lake-vida-that-was-sealed-off-from-the-outside-world-by-a-thick-sheet-of-ice-several-thousands-of.html)  [JSON](/news/2012/11/26/scientists-have-found-life-in-an-antarctic-lake-vida-that-was-sealed-off-from-the-outside-world-by-a-thick-sheet-of-ice-several-thousands-of.json)  [XML](/news/2012/11/26/scientists-have-found-life-in-an-antarctic-lake-vida-that-was-sealed-off-from-the-outside-world-by-a-thick-sheet-of-ice-several-thousands-of.xml)  
+
 ### [2012-11-26](/news/2012/11/26/index.md)
 
+##### Antarctic
 # Scientists have found life in an Antarctic Lake Vida that was sealed off from the outside world by a thick sheet of ice several thousands of years ago. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2012/nov/26/antarctic-lake-vida-find-life)
 

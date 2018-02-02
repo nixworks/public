@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/20/speaking-in-tehran-iranian-islamic-cleric-hojatoleslam-kazem-sedighi-blames-promiscuous-women-for-causing-earthquakes.html)  [JSON](/news/2010/04/20/speaking-in-tehran-iranian-islamic-cleric-hojatoleslam-kazem-sedighi-blames-promiscuous-women-for-causing-earthquakes.json)  [XML](/news/2010/04/20/speaking-in-tehran-iranian-islamic-cleric-hojatoleslam-kazem-sedighi-blames-promiscuous-women-for-causing-earthquakes.xml)  
+
 ### [2010-04-20](/news/2010/04/20/index.md)
 
+##### Tehran
 # Speaking in Tehran, Iranian Islamic cleric Hojatoleslam Kazem Sedighi blames promiscuous women for causing earthquakes. 
 
 A SENIOR Iranian cleric says women who wear revealing clothing and behave promiscuously are to blame for earthquakes.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8631775.stm)
 2. [Fox News](http://gretawire.blogs.foxnews.com/finally-we-learn-the-answer-it-is-promiscuous-women/)

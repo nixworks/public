@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/25/as-many-as-1-000-people-are-killed-in-floods-in-the-dominican-republic-and-haiti.html)  [JSON](/news/2004/05/25/as-many-as-1-000-people-are-killed-in-floods-in-the-dominican-republic-and-haiti.json)  [XML](/news/2004/05/25/as-many-as-1-000-people-are-killed-in-floods-in-the-dominican-republic-and-haiti.xml)  
+
 ### [2004-05-25](/news/2004/05/25/index.md)
 
+##### Dominican Republic
 #  As many as 1,000 people are killed in floods in the Dominican Republic and Haiti. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/3756621.stm)
 2. [CNN](http://www.cnn.com/2004/WEATHER/05/25/caribbean.storms/index.html)

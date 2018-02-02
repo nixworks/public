@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/12/russia-delays-the-return-of-three-astronauts-from-the-international-space-station-due-to-a-recent-failure-of-a-supply-mission.html)  [JSON](/news/2015/05/12/russia-delays-the-return-of-three-astronauts-from-the-international-space-station-due-to-a-recent-failure-of-a-supply-mission.json)  [XML](/news/2015/05/12/russia-delays-the-return-of-three-astronauts-from-the-international-space-station-due-to-a-recent-failure-of-a-supply-mission.xml)  
+
 ### [2015-05-12](/news/2015/05/12/index.md)
 
+##### Russia
 # Russia delays the return of three astronauts from the International Space Station due to a recent failure of a supply mission. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP bia France 24](http://www.france24.com/en/20150512-russia-delays-return-iss-crew-members-after-supply-ship-failure?ns_campaign=reseaux_sociaux&ns_source=twitter&ns_mchannel=social&ns_linkname=editorial&aef_campaign_ref=partage_aef&aef_campaign_date=2015-05-12&dlvrit=66745)
 

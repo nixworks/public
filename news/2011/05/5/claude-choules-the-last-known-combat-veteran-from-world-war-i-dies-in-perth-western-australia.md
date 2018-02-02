@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/5/claude-choules-the-last-known-combat-veteran-from-world-war-i-dies-in-perth-western-australia.html)  [JSON](/news/2011/05/5/claude-choules-the-last-known-combat-veteran-from-world-war-i-dies-in-perth-western-australia.json)  [XML](/news/2011/05/5/claude-choules-the-last-known-combat-veteran-from-world-war-i-dies-in-perth-western-australia.xml)  
+
 ### [2011-05-5](/news/2011/05/5/index.md)
 
+##### Claude Choules
 # Claude Choules, the last known combat veteran from World War I, dies in Perth, Western Australia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/42908450)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13289607)

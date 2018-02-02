@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/7/2007-amirli-bombing-at-least-105-people-are-killed-when-a-suicide-truck-bomber-attacks-a-market-in-amirli-in-northern-iraq-with-a-majority.html)  [JSON](/news/2007/07/7/2007-amirli-bombing-at-least-105-people-are-killed-when-a-suicide-truck-bomber-attacks-a-market-in-amirli-in-northern-iraq-with-a-majority.json)  [XML](/news/2007/07/7/2007-amirli-bombing-at-least-105-people-are-killed-when-a-suicide-truck-bomber-attacks-a-market-in-amirli-in-northern-iraq-with-a-majority.xml)  
+
 ### [2007-07-7](/news/2007/07/7/index.md)
 
+##### 2007 Amirli bombing
 #  2007 Amirli bombing: At least 105 people are killed when a suicide truck bomber attacks a market in Amirli in northern Iraq with a majority Shiite Turkmen population. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC News Australia](http://www.birakma.com)
 

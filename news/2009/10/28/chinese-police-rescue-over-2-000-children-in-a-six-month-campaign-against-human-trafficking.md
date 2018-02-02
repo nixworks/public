@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/28/chinese-police-rescue-over-2-000-children-in-a-six-month-campaign-against-human-trafficking.html)  [JSON](/news/2009/10/28/chinese-police-rescue-over-2-000-children-in-a-six-month-campaign-against-human-trafficking.json)  [XML](/news/2009/10/28/chinese-police-rescue-over-2-000-children-in-a-six-month-campaign-against-human-trafficking.xml)  
+
 ### [2009-10-28](/news/2009/10/28/index.md)
 
+##### China
 #  Chinese police rescue over 2,000 children in a six month campaign against human trafficking. 
 
 More than 2,000 Chinese children have been rescued by police in a six-month campaign against human trafficking.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8329172.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/6452998/Chinese-police-rescue-2000-kidnapped-children.html)

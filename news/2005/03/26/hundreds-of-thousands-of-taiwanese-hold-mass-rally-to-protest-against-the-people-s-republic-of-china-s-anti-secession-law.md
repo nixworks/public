@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/03/26/hundreds-of-thousands-of-taiwanese-hold-mass-rally-to-protest-against-the-people-s-republic-of-china-s-anti-secession-law.html)  [JSON](/news/2005/03/26/hundreds-of-thousands-of-taiwanese-hold-mass-rally-to-protest-against-the-people-s-republic-of-china-s-anti-secession-law.json)  [XML](/news/2005/03/26/hundreds-of-thousands-of-taiwanese-hold-mass-rally-to-protest-against-the-people-s-republic-of-china-s-anti-secession-law.xml)  
+
 ### [2005-03-26](/news/2005/03/26/index.md)
 
+##### Taiwan
 #  Hundreds of thousands of Taiwanese hold mass rally to protest against the People's Republic of China's anti-secession law. 
 
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 
-### Source:
+### Sources:
 
 1. [Taiwan News](http://www.etaiwannews.com/Taiwan/Politics/2005/03/27/1111889747.htm)
-2. [USA Today/AP](http://www.usatoday.com/news/world/2005-03-26-taiwan-china_x.htm)
+2. [USA Today/AP](https://www.usatoday.com/news/world/2005-03-26-taiwan-china_x.htm)
 
 ### Related:
 

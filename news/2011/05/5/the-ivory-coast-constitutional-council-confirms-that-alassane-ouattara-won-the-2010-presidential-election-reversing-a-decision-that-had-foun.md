@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/5/the-ivory-coast-constitutional-council-confirms-that-alassane-ouattara-won-the-2010-presidential-election-reversing-a-decision-that-had-foun.html)  [JSON](/news/2011/05/5/the-ivory-coast-constitutional-council-confirms-that-alassane-ouattara-won-the-2010-presidential-election-reversing-a-decision-that-had-foun.json)  [XML](/news/2011/05/5/the-ivory-coast-constitutional-council-confirms-that-alassane-ouattara-won-the-2010-presidential-election-reversing-a-decision-that-had-foun.xml)  
+
 ### [2011-05-5](/news/2011/05/5/index.md)
 
+##### Ivory Coast Constitutional Council
 # The Ivory Coast Constitutional Council confirms that Alassane Ouattara won the 2010 presidential election reversing a decision that had found in favour of the previous incumbent Laurent Gbagbo. That original decision (now reversed) had sparked a brief war. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/05/2011551910746739.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/12/20114129352647112_20.jpg)

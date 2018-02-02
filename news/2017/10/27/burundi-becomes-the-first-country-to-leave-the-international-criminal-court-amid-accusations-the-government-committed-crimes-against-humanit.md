@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/27/burundi-becomes-the-first-country-to-leave-the-
 
 ### [2017-10-27](/news/2017/10/27/index.md)
 
+##### Burundian unrest (2015-present)
 # Burundi becomes the first country to leave the International Criminal Court amid accusations the government committed crimes against humanity, including torture of political opponents. Burundi has accused the ICC of deliberately targeting Africans for prosecution. 
 
 It accuses the International Criminal Court of deliberately targeting Africans for prosecution.

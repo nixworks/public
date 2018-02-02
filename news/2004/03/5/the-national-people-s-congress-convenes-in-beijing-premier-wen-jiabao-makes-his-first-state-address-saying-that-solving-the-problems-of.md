@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/5/the-national-people-s-congress-convenes-in-beijing-premier-wen-jiabao-makes-his-first-state-address-saying-that-solving-the-problems-of.html)  [JSON](/news/2004/03/5/the-national-people-s-congress-convenes-in-beijing-premier-wen-jiabao-makes-his-first-state-address-saying-that-solving-the-problems-of.json)  [XML](/news/2004/03/5/the-national-people-s-congress-convenes-in-beijing-premier-wen-jiabao-makes-his-first-state-address-saying-that-solving-the-problems-of.xml)  
+
 ### [2004-03-5](/news/2004/03/5/index.md)
 
+##### parliament
 #  The National People's Congress convenes in Beijing. Premier Wen Jiabao makes his first state address, saying that "solving the problems of agriculture, villages and farmers is one of the most crucial parts of our entire work". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/3534833.stm)
 

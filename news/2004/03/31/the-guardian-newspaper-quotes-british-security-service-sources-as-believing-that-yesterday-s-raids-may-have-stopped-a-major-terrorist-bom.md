@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/31/the-guardian-newspaper-quotes-british-security-service-sources-as-believing-that-yesterday-s-raids-may-have-stopped-a-major-terrorist-bom.html)  [JSON](/news/2004/03/31/the-guardian-newspaper-quotes-british-security-service-sources-as-believing-that-yesterday-s-raids-may-have-stopped-a-major-terrorist-bom.json)  [XML](/news/2004/03/31/the-guardian-newspaper-quotes-british-security-service-sources-as-believing-that-yesterday-s-raids-may-have-stopped-a-major-terrorist-bom.xml)  
+
 ### [2004-03-31](/news/2004/03/31/index.md)
 
+##### The Guardian
 #  The "Guardian" newspaper quotes British security service sources as believing that yesterday's raids may have stopped a major terrorist bombing. The sources state that MI5 and MI6 worked with police during the investigation leading to the raids. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/terrorism/story/0,12780,1182570,00.html)
 

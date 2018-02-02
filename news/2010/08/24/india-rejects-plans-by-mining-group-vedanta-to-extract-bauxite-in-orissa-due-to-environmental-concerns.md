@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/24/india-rejects-plans-by-mining-group-vedanta-to-extract-bauxite-in-orissa-due-to-environmental-concerns.html)  [JSON](/news/2010/08/24/india-rejects-plans-by-mining-group-vedanta-to-extract-bauxite-in-orissa-due-to-environmental-concerns.json)  [XML](/news/2010/08/24/india-rejects-plans-by-mining-group-vedanta-to-extract-bauxite-in-orissa-due-to-environmental-concerns.xml)  
+
 ### [2010-08-24](/news/2010/08/24/index.md)
 
+##### India
 # India rejects plans by mining group Vedanta to extract bauxite in Orissa due to environmental concerns. 
 
 India refuses permission for the mining group Vedanta to extract bauxite in the eastern state of Orissa amid concerns for local tribes.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11067678)
 2. [Times of India](http://timesofindia.indiatimes.com/business/india-business/Govt-rejects-Vedanta-mining-plan-on-green-worries/articleshow/6425009.cms)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/10/at-least-eight-people-have-died-in-a-major-fire-at-a-halting-site-for-irish-travellers-in-the-south-of-dublin.html)  [JSON](/news/2015/10/10/at-least-eight-people-have-died-in-a-major-fire-at-a-halting-site-for-irish-travellers-in-the-south-of-dublin.json)  [XML](/news/2015/10/10/at-least-eight-people-have-died-in-a-major-fire-at-a-halting-site-for-irish-travellers-in-the-south-of-dublin.xml)  
+
 ### [2015-10-10](/news/2015/10/10/index.md)
 
+##### halting site
 # At least eight people have died in a major fire at a halting site for Irish travellers in the south of Dublin. 
 
 Fire that broke out in south Dublin in early hours of morning kills members of two families 
 
 
-### Source:
+### Sources:
 
 1. [Irish Times](http://www.irishtimes.com/news/ireland/irish-news/at-least-eight-believed-dead-after-fire-at-dublin-halting-site-1.2387124)
 1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.2387130&origw=1440)

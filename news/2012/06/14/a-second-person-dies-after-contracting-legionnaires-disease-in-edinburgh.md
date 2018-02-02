@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/14/a-second-person-dies-after-contracting-legionnaires-disease-in-edinburgh.html)  [JSON](/news/2012/06/14/a-second-person-dies-after-contracting-legionnaires-disease-in-edinburgh.json)  [XML](/news/2012/06/14/a-second-person-dies-after-contracting-legionnaires-disease-in-edinburgh.xml)  
+
 ### [2012-06-14](/news/2012/06/14/index.md)
 
+##### Legionnaires' disease
 # A second person dies after contracting Legionnaires' disease in Edinburgh. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-18453528)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58142000/jpg/_58142084_000989153-1.jpg)

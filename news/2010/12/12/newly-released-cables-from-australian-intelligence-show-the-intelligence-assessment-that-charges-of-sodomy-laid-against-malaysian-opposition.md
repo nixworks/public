@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/12/newly-released-cables-from-australian-intelligence-show-the-intelligence-assessment-that-charges-of-sodomy-laid-against-malaysian-opposition.html)  [JSON](/news/2010/12/12/newly-released-cables-from-australian-intelligence-show-the-intelligence-assessment-that-charges-of-sodomy-laid-against-malaysian-opposition.json)  [XML](/news/2010/12/12/newly-released-cables-from-australian-intelligence-show-the-intelligence-assessment-that-charges-of-sodomy-laid-against-malaysian-opposition.xml)  
+
 ### [2010-12-12](/news/2010/12/12/index.md)
 
+##### 250,000 documents
 # Newly released cables from Australian intelligence show the intelligence assessment that charges of sodomy laid against Malaysian opposition leader Anwar Ibrahim are due to a "set up job" that he "walked into". Others refer to Malaysia as a "confused and dangerous" state, Thai politicians as corrupt and Crown Prince Maha Vajiralongkorn as "very erratic and easily subject to influence", and Japan as a "big fat loser". 
 
 Malaysian opposition leader Anwar Ibrahim&#039;s sodomy charges are the result of a &#039;set up job&#039; that the politician &#039;walked into&#039;, according to intelligence.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/national/sodomy-charges-were-a-setup-20101211-18ti0.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/1/8/t/q/b/image.related.thumbnail.320x214.18ti0.png/1292104939227.jpg)

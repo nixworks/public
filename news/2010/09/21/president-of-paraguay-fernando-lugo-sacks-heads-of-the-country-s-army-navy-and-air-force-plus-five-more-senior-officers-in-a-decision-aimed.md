@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/21/president-of-paraguay-fernando-lugo-sacks-heads-of-the-country-s-army-navy-and-air-force-plus-five-more-senior-officers-in-a-decision-aimed.html)  [JSON](/news/2010/09/21/president-of-paraguay-fernando-lugo-sacks-heads-of-the-country-s-army-navy-and-air-force-plus-five-more-senior-officers-in-a-decision-aimed.json)  [XML](/news/2010/09/21/president-of-paraguay-fernando-lugo-sacks-heads-of-the-country-s-army-navy-and-air-force-plus-five-more-senior-officers-in-a-decision-aimed.xml)  
+
 ### [2010-09-21](/news/2010/09/21/index.md)
 
+##### Paraguayan President
 # President of Paraguay Fernando Lugo sacks heads of the country's army, navy and air force plus five more senior officers in a decision aimed at "institutionalizing the structure of the armed forces". 
 
 Paraguayan President Fernando Lugo replaces his top military commanders for the fourth time since taking office in 2008.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11378349)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

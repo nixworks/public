@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/01/18/the-iraqi-army-announces-the-liberation-of-the-eastern-part-of-mosul-following-the-collapse-of-isil-defenses.html)  [JSON](/news/2017/01/18/the-iraqi-army-announces-the-liberation-of-the-eastern-part-of-mosul-following-the-collapse-of-isil-defenses.json)  [XML](/news/2017/01/18/the-iraqi-army-announces-the-liberation-of-the-eastern-part-of-mosul-following-the-collapse-of-isil-defenses.xml)  
+
 ### [2017-01-18](/news/2017/01/18/index.md)
 
+##### Iraqi Civil War (2014-present)
 # The Iraqi Army announces the liberation of the eastern part of Mosul following the collapse of ISIL defenses. 
 
 The Iraqi army has announced the &quot;liberation&quot; of east Mosul, following the collapse of Islamic State defences on the left bank of the Tigris River.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2017/01/18/iraqi-army-announces-recapture-east-mosul/)
 1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2017/01/18/JS118144902_AP_mosul-xlarge_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RWtT0gK_6EfZT336f62EI5U.jpg)

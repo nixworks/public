@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/30/134-people-are-reported-to-have-been-killed-in-a-new-wave-of-violence-between-two-rival-tribes-in-sudan-s-darfur-region.html)  [JSON](/news/2013/07/30/134-people-are-reported-to-have-been-killed-in-a-new-wave-of-violence-between-two-rival-tribes-in-sudan-s-darfur-region.json)  [XML](/news/2013/07/30/134-people-are-reported-to-have-been-killed-in-a-new-wave-of-violence-between-two-rival-tribes-in-sudan-s-darfur-region.xml)  
+
 ### [2013-07-30](/news/2013/07/30/index.md)
 
+##### Sudanese nomadic conflicts
 # 134 people are reported to have been killed in a new wave of violence between two rival tribes in Sudan's Darfur region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://www.voanews.com/content/reu-new-clashes-between-rival-tribes-in-sudans-darfur-leaves-134-dead/1712790.html)
 

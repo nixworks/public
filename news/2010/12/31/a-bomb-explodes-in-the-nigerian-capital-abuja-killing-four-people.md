@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/31/a-bomb-explodes-in-the-nigerian-capital-abuja-killing-four-people.html)  [JSON](/news/2010/12/31/a-bomb-explodes-in-the-nigerian-capital-abuja-killing-four-people.json)  [XML](/news/2010/12/31/a-bomb-explodes-in-the-nigerian-capital-abuja-killing-four-people.xml)  
+
 ### [2010-12-31](/news/2010/12/31/index.md)
 
+##### bomb explodes
 # A bomb explodes in the Nigerian capital Abuja, killing four people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times Live South Africa](http://www.timeslive.co.za/sundaytimes/article832114.ece/Barracks-bomb-claims-4-on-New-Years-Eve)
 

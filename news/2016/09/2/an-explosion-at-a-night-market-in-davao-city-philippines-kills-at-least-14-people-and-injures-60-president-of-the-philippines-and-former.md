@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/2/an-explosion-at-a-night-market-in-davao-city-phi
 
 ### [2016-09-2](/news/2016/09/2/index.md)
 
+##### Moro conflict
 # An explosion at a night market in Davao City, Philippines, kills at least 14 people and injures 60. President of the Philippines and former Davao City mayor Rodrigo Duterte was in the city at the time. Abu Sayyaf have claimed responsibility for the attack. 
 
 (6TH UPDATE) A huge explosion rocked a busy night market Friday evening in Davao City, the hometown of President Rodrigo Duterte, killing at least 14 people and injuring more than 60 others, police and local officials said. 

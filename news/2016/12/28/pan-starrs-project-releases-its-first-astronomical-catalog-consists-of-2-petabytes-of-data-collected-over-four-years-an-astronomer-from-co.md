@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/28/pan-starrs-project-releases-its-first-astronomi
 
 ### [2016-12-28](/news/2016/12/28/index.md)
 
+##### Pan-STARRS
 # Pan-STARRS project releases its first astronomical catalog, consists of 2 petabytes of data collected over four years. An astronomer from collaborating institution also discloses that his group has studied new types of supernova explosions and the disruptions of stars by supermassive black holes from data of this Massive Digital Sky. 
 
 The Pan-STARRS project is publicly releasing the world&#039;s largest digital sky survey from the Space Telescope Science Institute (STScI). &quot;The Pan-STARRS1 Surveys allow anyone to access millions of images and use the database and catalogs containing precision measurements of billions of stars and g

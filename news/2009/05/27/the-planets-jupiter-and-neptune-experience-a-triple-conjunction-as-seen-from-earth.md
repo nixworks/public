@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/27/the-planets-jupiter-and-neptune-experience-a-triple-conjunction-as-seen-from-earth.html)  [JSON](/news/2009/05/27/the-planets-jupiter-and-neptune-experience-a-triple-conjunction-as-seen-from-earth.json)  [XML](/news/2009/05/27/the-planets-jupiter-and-neptune-experience-a-triple-conjunction-as-seen-from-earth.xml)  
+
 ### [2009-05-27](/news/2009/05/27/index.md)
 
+##### planet
 #  The planets Jupiter and Neptune experience a triple conjunction as seen from Earth.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8070116.stm)
 

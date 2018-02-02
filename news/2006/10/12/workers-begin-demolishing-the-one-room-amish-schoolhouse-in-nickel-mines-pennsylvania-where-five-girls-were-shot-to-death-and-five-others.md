@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/10/12/workers-begin-demolishing-the-one-room-amish-schoolhouse-in-nickel-mines-pennsylvania-where-five-girls-were-shot-to-death-and-five-others.html)  [JSON](/news/2006/10/12/workers-begin-demolishing-the-one-room-amish-schoolhouse-in-nickel-mines-pennsylvania-where-five-girls-were-shot-to-death-and-five-others.json)  [XML](/news/2006/10/12/workers-begin-demolishing-the-one-room-amish-schoolhouse-in-nickel-mines-pennsylvania-where-five-girls-were-shot-to-death-and-five-others.xml)  
+
 ### [2006-10-12](/news/2006/10/12/index.md)
 
+##### Amish
 #  Workers begin demolishing the one-room Amish schoolhouse in Nickel Mines, Pennsylvania where five girls were shot to death and five others were injured. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Forbes](http://www.forbes.com/home/feeds/ap/2006/10/12/ap3085378.html)
+1. [Forbes](https://www.forbes.com/home/feeds/ap/2006/10/12/ap3085378.html)
 
 ### Related:
 

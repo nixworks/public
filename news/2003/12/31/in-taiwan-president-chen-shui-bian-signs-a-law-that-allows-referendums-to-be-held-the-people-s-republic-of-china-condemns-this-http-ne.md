@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/31/in-taiwan-president-chen-shui-bian-signs-a-law-that-allows-referendums-to-be-held-the-people-s-republic-of-china-condemns-this-http-ne.html)  [JSON](/news/2003/12/31/in-taiwan-president-chen-shui-bian-signs-a-law-that-allows-referendums-to-be-held-the-people-s-republic-of-china-condemns-this-http-ne.json)  [XML](/news/2003/12/31/in-taiwan-president-chen-shui-bian-signs-a-law-that-allows-referendums-to-be-held-the-people-s-republic-of-china-condemns-this-http-ne.xml)  
+
 ### [2003-12-31](/news/2003/12/31/index.md)
 
+##### Taiwan
 # In Taiwan, President Chen Shui-bian signs a law that allows referendums to be held. The People's Republic of China condemns this. [http:--news.bbc.co.uk-1-hi-world-asia-pacific-3358655.stm]
 
 

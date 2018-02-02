@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/08/31/harvard-university-investigates-a-widespread-cheating-allegation-on-a-take-home-test-in-one-of-its-undergraduate-classes-last-spring.html)  [JSON](/news/2012/08/31/harvard-university-investigates-a-widespread-cheating-allegation-on-a-take-home-test-in-one-of-its-undergraduate-classes-last-spring.json)  [XML](/news/2012/08/31/harvard-university-investigates-a-widespread-cheating-allegation-on-a-take-home-test-in-one-of-its-undergraduate-classes-last-spring.xml)  
+
 ### [2012-08-31](/news/2012/08/31/index.md)
 
+##### Harvard University
 # Harvard University investigates a widespread cheating allegation on a take-home test in one of its undergraduate classes last spring. 
 
 Harvard University is investigating whether dozens of undergraduate students cheated on a take-home exam last spring.
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/harvard-dozens-students-may-cheated-062309521.html)
+1. [AP via Yahoo! News](https://news.yahoo.com/harvard-dozens-students-may-cheated-062309521.html)
 1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:

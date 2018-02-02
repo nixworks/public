@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/23/djoomart-otorbaev-resigns-as-the-prime-minister-of-kyrgyzstan.html)  [JSON](/news/2015/04/23/djoomart-otorbaev-resigns-as-the-prime-minister-of-kyrgyzstan.json)  [XML](/news/2015/04/23/djoomart-otorbaev-resigns-as-the-prime-minister-of-kyrgyzstan.xml)  
+
 ### [2015-04-23](/news/2015/04/23/index.md)
 
+##### Djoomart Otorbaev
 # Djoomart Otorbaev resigns as the Prime Minister of Kyrgyzstan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [World Bulletin](http://www.worldbulletin.net/world/158242/kyrgyzstans-pm-says-in-parliament-he-resigns)
 

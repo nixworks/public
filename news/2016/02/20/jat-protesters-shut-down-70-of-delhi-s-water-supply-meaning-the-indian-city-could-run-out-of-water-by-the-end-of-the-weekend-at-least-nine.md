@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/20/jat-protesters-shut-down-70-of-delhi-s-water-su
 
 ### [2016-02-20](/news/2016/02/20/index.md)
 
+##### Jat
 # Jat protesters shut down 70% of Delhi's water supply meaning the Indian city could run out of water by the end of the weekend. At least nine people are killed in fighting. 
 
 The capital is staring at an unprecedented water crisis after 70% of its supply was hit when Jat protesters forcibly shut down the Munak canal in Haryana and its Delhi sub-branch on Saturday morning.

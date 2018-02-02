@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/19/singapore-s-parliament-is-dissolved-for-the-14th-general-election-which-is-to-be-held-on-7-may-2011.html)  [JSON](/news/2011/04/19/singapore-s-parliament-is-dissolved-for-the-14th-general-election-which-is-to-be-held-on-7-may-2011.json)  [XML](/news/2011/04/19/singapore-s-parliament-is-dissolved-for-the-14th-general-election-which-is-to-be-held-on-7-may-2011.xml)  
+
 ### [2011-04-19](/news/2011/04/19/index.md)
 
+##### Singapore
 # Singapore's Parliament is dissolved for the 14th General Election which is to be held on 7 May 2011. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/singaporelocalnews/view/1123672/1/.html)
 2. [Channel News Asia](http://www.channelnewsasia.com/stories/singaporelocalnews/view/1123684/1/.html)

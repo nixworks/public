@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/08/19/martin-strel-is-approaching-memphis-tennessee-in-his-effort-for-peace-to-swim-the-length-of-the-mississippi-river.html)  [JSON](/news/2002/08/19/martin-strel-is-approaching-memphis-tennessee-in-his-effort-for-peace-to-swim-the-length-of-the-mississippi-river.json)  [XML](/news/2002/08/19/martin-strel-is-approaching-memphis-tennessee-in-his-effort-for-peace-to-swim-the-length-of-the-mississippi-river.xml)  
+
 ### [2002-08-19](/news/2002/08/19/index.md)
 
+##### Martin Strel
 #  Martin Strel is approaching Memphis, Tennessee, in his effort for peace to swim the length of the Mississippi River.
 
 

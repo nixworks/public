@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/10/chester-turner-is-sentenced-to-death-for-the-murder-of-ten-women-and-an-unborn-child-in-los-angeles-california-in-the-1980s-and-1990s.html)  [JSON](/news/2007/07/10/chester-turner-is-sentenced-to-death-for-the-murder-of-ten-women-and-an-unborn-child-in-los-angeles-california-in-the-1980s-and-1990s.json)  [XML](/news/2007/07/10/chester-turner-is-sentenced-to-death-for-the-murder-of-ten-women-and-an-unborn-child-in-los-angeles-california-in-the-1980s-and-1990s.xml)  
+
 ### [2007-07-10](/news/2007/07/10/index.md)
 
+##### Chester Turner
 #  Chester Turner is sentenced to death for the murder of ten women and an unborn child in Los Angeles, California in the 1980s and 1990s. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via the IHT](http://www.iht.com/articles/ap/2007/07/10/america/NA-GEN-US-Serial-Killings.php)
 

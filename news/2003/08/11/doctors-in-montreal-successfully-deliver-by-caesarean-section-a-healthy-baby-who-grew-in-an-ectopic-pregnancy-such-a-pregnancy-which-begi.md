@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/11/doctors-in-montreal-successfully-deliver-by-caesarean-section-a-healthy-baby-who-grew-in-an-ectopic-pregnancy-such-a-pregnancy-which-begi.html)  [JSON](/news/2003/08/11/doctors-in-montreal-successfully-deliver-by-caesarean-section-a-healthy-baby-who-grew-in-an-ectopic-pregnancy-such-a-pregnancy-which-begi.json)  [XML](/news/2003/08/11/doctors-in-montreal-successfully-deliver-by-caesarean-section-a-healthy-baby-who-grew-in-an-ectopic-pregnancy-such-a-pregnancy-which-begi.xml)  
+
 ### [2003-08-11](/news/2003/08/11/index.md)
 
+##### Montreal
 #  Doctors in Montreal successfully deliver by Caesarean section a healthy baby who grew in an ectopic pregnancy. Such a pregnancy, which begins outside the uterus, is all but invariably fatal to the fetus and is extremely dangerous to the mother. The woman and her doctors were unaware of the ectopic pregnancy until she went into labour.
 
 

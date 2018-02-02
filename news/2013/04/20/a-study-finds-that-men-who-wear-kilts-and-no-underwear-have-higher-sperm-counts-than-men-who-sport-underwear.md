@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/20/a-study-finds-that-men-who-wear-kilts-and-no-underwear-have-higher-sperm-counts-than-men-who-sport-underwear.html)  [JSON](/news/2013/04/20/a-study-finds-that-men-who-wear-kilts-and-no-underwear-have-higher-sperm-counts-than-men-who-sport-underwear.json)  [XML](/news/2013/04/20/a-study-finds-that-men-who-wear-kilts-and-no-underwear-have-higher-sperm-counts-than-men-who-sport-underwear.xml)  
+
 ### [2013-04-20](/news/2013/04/20/index.md)
 
+##### kilt
 # A study finds that men who wear kilts and no underwear have higher sperm counts than men who sport underwear. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Science Recorder](http://www.sciencerecorder.com/news/sperm-quality-higher-in-kilt-wearers-going-commando-say-researchers/)
 

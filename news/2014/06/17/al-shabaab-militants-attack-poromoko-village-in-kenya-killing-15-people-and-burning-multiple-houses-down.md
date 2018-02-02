@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/06/17/al-shabaab-militants-attack-poromoko-village-in-kenya-killing-15-people-and-burning-multiple-houses-down.html)  [JSON](/news/2014/06/17/al-shabaab-militants-attack-poromoko-village-in-kenya-killing-15-people-and-burning-multiple-houses-down.json)  [XML](/news/2014/06/17/al-shabaab-militants-attack-poromoko-village-in-kenya-killing-15-people-and-burning-multiple-houses-down.xml)  
+
 ### [2014-06-17](/news/2014/06/17/index.md)
 
+##### Al-Shabaab
 # Al-Shabaab militants attack Poromoko village in Kenya, killing 15 people and burning multiple houses down. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/06/17/us-kenya-attacks-idUSKBN0ES0HE20140617)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2014/06/17/us-kenya-attacks-idUSKBN0ES0HE20140617)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/26/memorial-services-around-the-world-including-one-in-banda-aceh-indonesia-attended-by-president-susilo-bambang-yudhoyono-mark-the-first.html)  [JSON](/news/2005/12/26/memorial-services-around-the-world-including-one-in-banda-aceh-indonesia-attended-by-president-susilo-bambang-yudhoyono-mark-the-first.json)  [XML](/news/2005/12/26/memorial-services-around-the-world-including-one-in-banda-aceh-indonesia-attended-by-president-susilo-bambang-yudhoyono-mark-the-first.xml)  
+
 ### [2005-12-26](/news/2005/12/26/index.md)
 
+##### Banda Aceh
 #  Memorial services around the world, including one in Banda Aceh, Indonesia, attended by President Susilo Bambang Yudhoyono, mark the first anniversary of the 2004 Indian Ocean earthquake and tsunami which saw 275,000 people killed or left missing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2005/WORLD/asiapcf/12/26/tsunami.main/index.html)
 

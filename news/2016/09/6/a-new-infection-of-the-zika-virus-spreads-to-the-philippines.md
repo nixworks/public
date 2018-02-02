@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/6/a-new-infection-of-the-zika-virus-spreads-to-the
 
 ### [2016-09-6](/news/2016/09/6/index.md)
 
+##### 2015-16 Zika virus epidemic
 # A new infection of the Zika virus spreads to the Philippines. 
 
 The Philippines confirms its first case of the Zika virus this year and says it is highly likely it has been locally transmitted.

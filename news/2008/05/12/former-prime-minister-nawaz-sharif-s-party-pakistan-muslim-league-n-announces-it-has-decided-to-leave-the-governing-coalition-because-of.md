@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/12/former-prime-minister-nawaz-sharif-s-party-pakistan-muslim-league-n-announces-it-has-decided-to-leave-the-governing-coalition-because-of.html)  [JSON](/news/2008/05/12/former-prime-minister-nawaz-sharif-s-party-pakistan-muslim-league-n-announces-it-has-decided-to-leave-the-governing-coalition-because-of.json)  [XML](/news/2008/05/12/former-prime-minister-nawaz-sharif-s-party-pakistan-muslim-league-n-announces-it-has-decided-to-leave-the-governing-coalition-because-of.xml)  
+
 ### [2008-05-12](/news/2008/05/12/index.md)
 
+##### Prime Minister
 #  Former Prime Minister Nawaz Sharif's party Pakistan Muslim League (N) announces it has decided to leave the governing coalition because of differences over how to restore around 60 judges sacked by President Pervez Musharraf on November 3, 2007. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7395720.stm)
 2. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7396332.stm)

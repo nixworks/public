@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/9/iraq-the-iraqi-governing-council-gains-the-seat-at-the-arab-league-left-open-since-saddam-hussein-s-ouster-by-the-us-led-coalition-earlier.html)  [JSON](/news/2003/09/9/iraq-the-iraqi-governing-council-gains-the-seat-at-the-arab-league-left-open-since-saddam-hussein-s-ouster-by-the-us-led-coalition-earlier.json)  [XML](/news/2003/09/9/iraq-the-iraqi-governing-council-gains-the-seat-at-the-arab-league-left-open-since-saddam-hussein-s-ouster-by-the-us-led-coalition-earlier.xml)  
+
 ### [2003-09-9](/news/2003/09/9/index.md)
 
+##### Iraq
 #  Iraq: The Iraqi Governing Council gains the seat at the Arab League left open since Saddam Hussein's ouster by the US-led coalition earlier that year. The council, which was formed under US auspices, seems to have taken a step toward sovereign legitimacy in the eyes of the international community.
 
 

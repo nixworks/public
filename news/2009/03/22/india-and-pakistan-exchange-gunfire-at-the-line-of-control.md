@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/22/india-and-pakistan-exchange-gunfire-at-the-line-of-control.html)  [JSON](/news/2009/03/22/india-and-pakistan-exchange-gunfire-at-the-line-of-control.json)  [XML](/news/2009/03/22/india-and-pakistan-exchange-gunfire-at-the-line-of-control.xml)  
+
 ### [2009-03-22](/news/2009/03/22/index.md)
 
+##### India
 #  India and Pakistan exchange gunfire at the Line of Control. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IHT](http://www.iht.com/articles/ap/2009/03/21/asia/AS-Kashmir-Shooting.php)
 

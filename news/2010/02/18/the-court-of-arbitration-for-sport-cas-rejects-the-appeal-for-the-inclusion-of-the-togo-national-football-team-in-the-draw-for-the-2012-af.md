@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/18/the-court-of-arbitration-for-sport-cas-rejects-the-appeal-for-the-inclusion-of-the-togo-national-football-team-in-the-draw-for-the-2012-af.html)  [JSON](/news/2010/02/18/the-court-of-arbitration-for-sport-cas-rejects-the-appeal-for-the-inclusion-of-the-togo-national-football-team-in-the-draw-for-the-2012-af.json)  [XML](/news/2010/02/18/the-court-of-arbitration-for-sport-cas-rejects-the-appeal-for-the-inclusion-of-the-togo-national-football-team-in-the-draw-for-the-2012-af.xml)  
+
 ### [2010-02-18](/news/2010/02/18/index.md)
 
+##### Court of Arbitration for Sport
 # The Court of Arbitration for Sport (CAS) rejects the appeal for the inclusion of the Togo national football team in the draw for the 2012 Africa Cup of Nations which resulted from their ban due to the Togo national football team attack prior to the 2010 tournament in Angola. It also says that a new draw will be required if they rule in favor of Togo in upcoming proceedings. 
 
 All the latest Football News, Results &amp; Fixtures, brought to you as it happens, including sports analysis and results from Ireland and around the world.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/football/africa/8522623.stm)
 2. [RTÉ](http://www.rte.ie/sport/soccer/2010/0218/togo.html)

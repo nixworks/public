@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/15/chinese-premier-wen-jiabao-begins-a-trade-visit-to-india.html)  [JSON](/news/2010/12/15/chinese-premier-wen-jiabao-begins-a-trade-visit-to-india.json)  [XML](/news/2010/12/15/chinese-premier-wen-jiabao-begins-a-trade-visit-to-india.xml)  
+
 ### [2010-12-15](/news/2010/12/15/index.md)
 
+##### China
 # Chinese Premier Wen Jiabao begins a trade visit to India. 
 
 Chinese Premier Wen Jiabao leads one of the largest Chinese business delegations ever to visit India as he begins a three-day state visit to shore up a bilateral relationship dogged by disputes.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11997221)
 2. [China Daily](http://www.chinadaily.com.cn/bizchina/2010-12/15/content_11707755.htm)

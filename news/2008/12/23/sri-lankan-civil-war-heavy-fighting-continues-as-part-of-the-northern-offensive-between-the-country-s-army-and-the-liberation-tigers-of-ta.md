@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/23/sri-lankan-civil-war-heavy-fighting-continues-as-part-of-the-northern-offensive-between-the-country-s-army-and-the-liberation-tigers-of-ta.html)  [JSON](/news/2008/12/23/sri-lankan-civil-war-heavy-fighting-continues-as-part-of-the-northern-offensive-between-the-country-s-army-and-the-liberation-tigers-of-ta.json)  [XML](/news/2008/12/23/sri-lankan-civil-war-heavy-fighting-continues-as-part-of-the-northern-offensive-between-the-country-s-army-and-the-liberation-tigers-of-ta.xml)  
+
 ### [2008-12-23](/news/2008/12/23/index.md)
 
+##### Sri Lanka
 #  Sri Lankan Civil War: Heavy fighting continues as part of the Northern offensive between the country's Army and the Liberation Tigers of Tamil Eelam around the city of Kilinochchi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7796441.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/17/voters-in-sagbpo-toma-c-and-prancipe-go-to-the-
 
 ### [2016-07-17](/news/2016/07/17/index.md)
 
+##### SGBPo Tome and Principe presidential election, 2016
 # Voters in SGBPo Tome and Principe go to the polls for a presidential election with former Prime Minister Evaristo Carvalho elected in the first round. 
 
 The ruling party candidate and former prime minister Evaristo Carvalho has won the first round of the presidential election in Sao Tome and Principe held on Sunday with 50.1% of the vote against the i

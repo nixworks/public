@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/25/nine-people-are-killed-overnight-in-ethnic-clashes-in-the-indian-state-of-assam-with-the-total-death-toll-since-last-friday-being-35.html)  [JSON](/news/2012/07/25/nine-people-are-killed-overnight-in-ethnic-clashes-in-the-indian-state-of-assam-with-the-total-death-toll-since-last-friday-being-35.json)  [XML](/news/2012/07/25/nine-people-are-killed-overnight-in-ethnic-clashes-in-the-indian-state-of-assam-with-the-total-death-toll-since-last-friday-being-35.xml)  
+
 ### [2012-07-25](/news/2012/07/25/index.md)
 
+##### India
 # Nine people are killed overnight in ethnic clashes in the Indian state of Assam with the total death toll since last Friday being 35. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''New Straits Times](http://www.nst.com.my/latest/nine-more-killed-in-ne-india-170-000-displaced-1.112494)
 

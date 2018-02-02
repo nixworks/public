@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/10/war-in-afghanistan-taliban-insurgents-are-suspected-in-the-killing-of-seven-police-in-an-ambush-in-kandahar-two-civilians-from-uruzgan-we.html)  [JSON](/news/2005/11/10/war-in-afghanistan-taliban-insurgents-are-suspected-in-the-killing-of-seven-police-in-an-ambush-in-kandahar-two-civilians-from-uruzgan-we.json)  [XML](/news/2005/11/10/war-in-afghanistan-taliban-insurgents-are-suspected-in-the-killing-of-seven-police-in-an-ambush-in-kandahar-two-civilians-from-uruzgan-we.xml)  
+
 ### [2005-11-10](/news/2005/11/10/index.md)
 
+##### War in Afghanistan (2001-present)
 #  War in Afghanistan: Taliban insurgents are suspected in the killing of seven police in an ambush in Kandahar. Two civilians from Uruzgan were also found decapitated. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4423788.stm)
 

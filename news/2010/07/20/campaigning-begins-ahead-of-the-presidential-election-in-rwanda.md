@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/20/campaigning-begins-ahead-of-the-presidential-election-in-rwanda.html)  [JSON](/news/2010/07/20/campaigning-begins-ahead-of-the-presidential-election-in-rwanda.json)  [XML](/news/2010/07/20/campaigning-begins-ahead-of-the-presidential-election-in-rwanda.xml)  
+
 ### [2010-07-20](/news/2010/07/20/index.md)
 
+##### presidential election
 # Campaigning begins ahead of the presidential election in Rwanda. 
 
 Rwandan President Paul Kagame has said he is confident of re-election as he kicked off a campaign already tarnished by a string of political assassinations and arrests.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/07/2010720175421545770.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-10694722)

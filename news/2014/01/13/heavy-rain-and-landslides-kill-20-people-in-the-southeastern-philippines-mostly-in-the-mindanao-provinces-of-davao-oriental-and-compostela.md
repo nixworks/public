@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/13/heavy-rain-and-landslides-kill-20-people-in-the-southeastern-philippines-mostly-in-the-mindanao-provinces-of-davao-oriental-and-compostela.html)  [JSON](/news/2014/01/13/heavy-rain-and-landslides-kill-20-people-in-the-southeastern-philippines-mostly-in-the-mindanao-provinces-of-davao-oriental-and-compostela.json)  [XML](/news/2014/01/13/heavy-rain-and-landslides-kill-20-people-in-the-southeastern-philippines-mostly-in-the-mindanao-provinces-of-davao-oriental-and-compostela.xml)  
+
 ### [2014-01-13](/news/2014/01/13/index.md)
 
+##### Philippines
 # Heavy rain and landslides kill 20 people in the southeastern Philippines, mostly in the Mindanao provinces of Davao Oriental and Compostela Valley. Another 13 are missing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Minneapolis Star Tribune](http://www.startribune.com/world/239895071.html)
 

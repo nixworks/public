@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/28/a-methane-gas-explosion-in-russia-s-listvyazhnaya-mine-which-is-located-in-siberia-near-the-border-with-mongolia-kills-13-people-and-inju.html)  [JSON](/news/2004/10/28/a-methane-gas-explosion-in-russia-s-listvyazhnaya-mine-which-is-located-in-siberia-near-the-border-with-mongolia-kills-13-people-and-inju.json)  [XML](/news/2004/10/28/a-methane-gas-explosion-in-russia-s-listvyazhnaya-mine-which-is-located-in-siberia-near-the-border-with-mongolia-kills-13-people-and-inju.xml)  
+
 ### [2004-10-28](/news/2004/10/28/index.md)
 
+##### methane
 #  A methane gas explosion in Russia's Listvyazhnaya mine, which is located in Siberia near the border with Mongolia, kills 13 people and injures 23. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.co.uk/newsPackageArticle.jhtml?type=worldNews&storyID=610775&section=news)
 

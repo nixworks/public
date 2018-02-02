@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/10/eta-declares-a-permanent-and-general-ceasefire-which-will-be-verifiable-by-the-international-community.html)  [JSON](/news/2011/01/10/eta-declares-a-permanent-and-general-ceasefire-which-will-be-verifiable-by-the-international-community.json)  [XML](/news/2011/01/10/eta-declares-a-permanent-and-general-ceasefire-which-will-be-verifiable-by-the-international-community.xml)  
+
 ### [2011-01-10](/news/2011/01/10/index.md)
 
+##### ETA
 # ETA declares a permanent and general ceasefire which will be verifiable by the international community. 
 
 Basque separatists Eta call a permanent ceasefire in its fight for independence from Spain, but the Spanish government downplays the statement.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12151597)
 2. [Gara](http://www.gara.net/agiriak/110108_declaration.pdf)

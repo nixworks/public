@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/06/17/an-internal-chinese-government-report-mistakenly-made-public-shows-that-more-than-ten-thousand-corrupt-officials-transferred-us-123-billio.html)  [JSON](/news/2011/06/17/an-internal-chinese-government-report-mistakenly-made-public-shows-that-more-than-ten-thousand-corrupt-officials-transferred-us-123-billio.json)  [XML](/news/2011/06/17/an-internal-chinese-government-report-mistakenly-made-public-shows-that-more-than-ten-thousand-corrupt-officials-transferred-us-123-billio.xml)  
+
 ### [2011-06-17](/news/2011/06/17/index.md)
 
+##### government
 # An internal Chinese government report, mistakenly made public, shows that more than ten thousand corrupt officials transferred US$123 billion worth of embezzled funds out of the country over 15 years. 
 
 A media storm over corrupt officials is embarrassing China’s Communist Party as it prepares to celebrate its 90th birthday on July 1.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2011/06/17/world/asia/17briefs-China.html)
+1. [The New York Times](https://www.nytimes.com/2011/06/17/world/asia/17briefs-China.html)
 2. [The Times'' via ''The Australian](http://www.theaustralian.com.au/news/world/accidentally-released-report-reveals-embarrassing-extent-of-chinese-corruption/story-e6frg6so-1226076938605)
 3. [Wall Street Journal](http://blogs.wsj.com/chinarealtime/2011/06/16/report-corrupt-chinese-officials-take-123-billion-overseas/)
 3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/22/former-pakistani-president-pervez-musharraf-is-granted-protective-bail-in-several-cases-paving-the-way-for-his-return-to-pakistan-from-self.html)  [JSON](/news/2013/03/22/former-pakistani-president-pervez-musharraf-is-granted-protective-bail-in-several-cases-paving-the-way-for-his-return-to-pakistan-from-self.json)  [XML](/news/2013/03/22/former-pakistani-president-pervez-musharraf-is-granted-protective-bail-in-several-cases-paving-the-way-for-his-return-to-pakistan-from-self.xml)  
+
 ### [2013-03-22](/news/2013/03/22/index.md)
 
+##### Pakistan
 # Former Pakistani President Pervez Musharraf is granted protective bail in several cases, paving the way for his return to Pakistan from self-imposed exile. 
 
 Former Pakistani President Pervez Musharraf has been granted protective bail in several cases, paving the way for his return, his lawyers say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21898362)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66552000/jpg/_66552799_66552798.jpg)

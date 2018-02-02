@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/19/a-car-bomb-explodes-in-the-wadajir-district-of-
 
 ### [2017-02-19](/news/2017/02/19/index.md)
 
+##### War in Somalia (2009-present)
 # A car bomb explodes in the Wadajir District of Mogadishu, killing at least 20 people and injuring 50 more. 
 
 Car bomb rips through a crowded market in Mogadishu, killing 39 people days after Somalia elected a new president.

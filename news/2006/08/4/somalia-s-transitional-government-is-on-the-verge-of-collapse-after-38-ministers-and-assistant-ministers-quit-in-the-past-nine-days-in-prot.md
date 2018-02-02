@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/4/somalia-s-transitional-government-is-on-the-verge-of-collapse-after-38-ministers-and-assistant-ministers-quit-in-the-past-nine-days-in-prot.html)  [JSON](/news/2006/08/4/somalia-s-transitional-government-is-on-the-verge-of-collapse-after-38-ministers-and-assistant-ministers-quit-in-the-past-nine-days-in-prot.json)  [XML](/news/2006/08/4/somalia-s-transitional-government-is-on-the-verge-of-collapse-after-38-ministers-and-assistant-ministers-quit-in-the-past-nine-days-in-prot.xml)  
+
 ### [2006-08-4](/news/2006/08/4/index.md)
 
+##### Somalia
 #  Somalia's transitional government is on the verge of collapse after 38 ministers and assistant ministers quit in the past nine days in protest against the governments failure to make a deal with the Supreme Islamic Courts Council. 
 
 Four more ministers quit on Thursday, making 38 in nine days.
 
 
-### Source:
+### Sources:
 
 1. [csmonitor](http://www.csmonitor.com/2006/0804/p05s01-woaf.html)
 1. [Cover Image](http://www.csmonitor.com/extension/csm_base/design/csm_design/images/csm_logo_1200x630.png)

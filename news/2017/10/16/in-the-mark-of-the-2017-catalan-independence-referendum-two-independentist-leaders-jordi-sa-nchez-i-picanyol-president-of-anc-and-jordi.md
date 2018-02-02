@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/16/in-the-mark-of-the-2017-catalan-independence-re
 
 ### [2017-10-16](/news/2017/10/16/index.md)
 
+##### 2017 Spanish constitutional crisis
 # In the mark of the 2017 Catalan independence referendum, two independentist leaders, Jordi Sanchez i Picanyol (President of ANC) and Jordi Cuixart i Navarro (President of Omnium Cultural), are in pre-trial detention during the sedition trial. These events outraged the population of the State and the Government of Catalonia, causing a new escalation of tension between both governments. 
 
 A Spanish judge has ruled that the leaders of the two biggest grassroots pro-independence associations in Catalonia should remain in prison without bail on possible charges of sedition - for which, if convicted, they could face prison sentences of up to 10 years.

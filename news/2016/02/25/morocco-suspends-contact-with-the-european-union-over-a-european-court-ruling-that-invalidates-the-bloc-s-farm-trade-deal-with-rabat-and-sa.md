@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/25/morocco-suspends-contact-with-the-european-unio
 
 ### [2016-02-25](/news/2016/02/25/index.md)
 
+##### Morocco-European Union relations
 # Morocco suspends contact with the European Union over a European court ruling that invalidates the bloc's farm trade deal with Rabat, and saying it should exclude the disputed Moroccan-controlled territory of Western Sahara. 
 
 Morocco said on Thursday it had suspended contact with European Union institutions over a court ruling invalidating their farm trade accord with Rabat and saying it should exclude the disputed territory of Western Sahara.

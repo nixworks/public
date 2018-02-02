@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/31/a-section-of-the-berlin-wall-is-re-erected-at-the-former-checkpoint-charlie-as-a-memorial-to-the-1-065-people-who-were-killed-trying-to-esc.html)  [JSON](/news/2004/10/31/a-section-of-the-berlin-wall-is-re-erected-at-the-former-checkpoint-charlie-as-a-memorial-to-the-1-065-people-who-were-killed-trying-to-esc.json)  [XML](/news/2004/10/31/a-section-of-the-berlin-wall-is-re-erected-at-the-former-checkpoint-charlie-as-a-memorial-to-the-1-065-people-who-were-killed-trying-to-esc.xml)  
+
 ### [2004-10-31](/news/2004/10/31/index.md)
 
+##### Berlin Wall
 #  A section of the Berlin Wall is re-erected at the former Checkpoint Charlie as a memorial to the 1,065 people who were killed trying to escape from East Germany. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/3970191.stm)
 

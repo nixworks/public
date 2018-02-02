@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/3/cambridge-boat-club-defeats-oxford-boat-club-to-win-the-156th-university-boat-race-in-london-england.html)  [JSON](/news/2010/04/3/cambridge-boat-club-defeats-oxford-boat-club-to-win-the-156th-university-boat-race-in-london-england.json)  [XML](/news/2010/04/3/cambridge-boat-club-defeats-oxford-boat-club-to-win-the-156th-university-boat-race-in-london-england.xml)  
+
 ### [2010-04-3](/news/2010/04/3/index.md)
 
+##### Cambridge Boat Club
 # Cambridge Boat Club defeats Oxford Boat Club to win the 156th University Boat Race in London, England. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/other_sports/rowing/8572343.stm)
 

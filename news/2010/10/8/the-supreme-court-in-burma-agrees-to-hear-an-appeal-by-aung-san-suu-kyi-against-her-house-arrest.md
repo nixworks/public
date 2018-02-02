@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/8/the-supreme-court-in-burma-agrees-to-hear-an-appeal-by-aung-san-suu-kyi-against-her-house-arrest.html)  [JSON](/news/2010/10/8/the-supreme-court-in-burma-agrees-to-hear-an-appeal-by-aung-san-suu-kyi-against-her-house-arrest.json)  [XML](/news/2010/10/8/the-supreme-court-in-burma-agrees-to-hear-an-appeal-by-aung-san-suu-kyi-against-her-house-arrest.xml)  
+
 ### [2010-10-8](/news/2010/10/8/index.md)
 
+##### Burma
 # The Supreme Court in Burma agrees to hear an appeal by Aung San Suu Kyi against her house arrest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5glCv7UGubEMt1flTEsM_ZkvPsv6A?docId=4775428)
 

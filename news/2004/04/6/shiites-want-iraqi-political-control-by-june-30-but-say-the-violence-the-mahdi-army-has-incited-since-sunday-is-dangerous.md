@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/6/shiites-want-iraqi-political-control-by-june-30-but-say-the-violence-the-mahdi-army-has-incited-since-sunday-is-dangerous.html)  [JSON](/news/2004/04/6/shiites-want-iraqi-political-control-by-june-30-but-say-the-violence-the-mahdi-army-has-incited-since-sunday-is-dangerous.json)  [XML](/news/2004/04/6/shiites-want-iraqi-political-control-by-june-30-but-say-the-violence-the-mahdi-army-has-incited-since-sunday-is-dangerous.xml)  
+
 ### [2004-04-6](/news/2004/04/6/index.md)
 
+##### Shiite
 #  Shiites want Iraqi political control by June 30 but say the violence the Mahdi Army has incited since Sunday is dangerous. 
 
 Shiites want Iraqi political control by June 30 but say the violence the Mahdi Army has incited since Sunday is dangerous.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.signonsandiego.com/news/world/iraq/20040406-1308-iraq.html)
 2. [Al Jazeera](http://english.aljazeera.net/NR/exeres/ECBD601F-972F-4413-A7DD-BB3A8F5DFEBB.htm)

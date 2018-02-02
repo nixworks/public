@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/23/china-fires-twelve-officials-for-misconduct-in-the-sichuan-earthquake-relief-effort.html)  [JSON](/news/2008/06/23/china-fires-twelve-officials-for-misconduct-in-the-sichuan-earthquake-relief-effort.json)  [XML](/news/2008/06/23/china-fires-twelve-officials-for-misconduct-in-the-sichuan-earthquake-relief-effort.xml)  
+
 ### [2008-06-23](/news/2008/06/23/index.md)
 
+##### China
 #  China fires twelve officials for misconduct in the Sichuan earthquake relief effort. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7469813.stm)
 

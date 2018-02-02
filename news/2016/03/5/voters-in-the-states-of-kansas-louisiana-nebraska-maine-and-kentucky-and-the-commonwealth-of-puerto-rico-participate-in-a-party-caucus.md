@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/5/voters-in-the-states-of-kansas-louisiana-nebrask
 
 ### [2016-03-5](/news/2016/03/5/index.md)
 
+##### presidential primaries
 # Voters in the states of Kansas, Louisiana, Nebraska, Maine, and Kentucky, and the Commonwealth of Puerto Rico participate in a party caucus or vote in a primary election. 
 
 Kansas awarding 40 delegates in the Republican primary race

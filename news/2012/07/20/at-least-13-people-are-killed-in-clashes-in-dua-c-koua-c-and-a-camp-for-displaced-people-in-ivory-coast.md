@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/20/at-least-13-people-are-killed-in-clashes-in-dua-c-koua-c-and-a-camp-for-displaced-people-in-ivory-coast.html)  [JSON](/news/2012/07/20/at-least-13-people-are-killed-in-clashes-in-dua-c-koua-c-and-a-camp-for-displaced-people-in-ivory-coast.json)  [XML](/news/2012/07/20/at-least-13-people-are-killed-in-clashes-in-dua-c-koua-c-and-a-camp-for-displaced-people-in-ivory-coast.xml)  
+
 ### [2012-07-20](/news/2012/07/20/index.md)
 
+##### Duekoue
 # At least 13 people are killed in clashes in Duekoue and a camp for displaced people in Ivory Coast. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/africa/13-dead-in-ivory-coast-clashes-1.1346196#.UAnKyKO8j_k)
 

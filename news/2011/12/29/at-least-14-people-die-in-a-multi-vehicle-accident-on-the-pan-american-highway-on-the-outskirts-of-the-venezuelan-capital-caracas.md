@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/29/at-least-14-people-die-in-a-multi-vehicle-accident-on-the-pan-american-highway-on-the-outskirts-of-the-venezuelan-capital-caracas.html)  [JSON](/news/2011/12/29/at-least-14-people-die-in-a-multi-vehicle-accident-on-the-pan-american-highway-on-the-outskirts-of-the-venezuelan-capital-caracas.json)  [XML](/news/2011/12/29/at-least-14-people-die-in-a-multi-vehicle-accident-on-the-pan-american-highway-on-the-outskirts-of-the-venezuelan-capital-caracas.xml)  
+
 ### [2011-12-29](/news/2011/12/29/index.md)
 
+##### Pan American Highway
 # At least 14 people die in a multi-vehicle accident on the Pan American Highway on the outskirts of the Venezuelan capital Caracas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [El Universal](http://www.eluniversal.com/nacional-y-politica/111229/authorities-confirm-14-deaths-by-fire-at-the-pan-american-highway)
 

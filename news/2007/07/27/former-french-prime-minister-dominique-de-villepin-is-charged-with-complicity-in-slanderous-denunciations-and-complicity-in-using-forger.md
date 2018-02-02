@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/27/former-french-prime-minister-dominique-de-villepin-is-charged-with-complicity-in-slanderous-denunciations-and-complicity-in-using-forger.html)  [JSON](/news/2007/07/27/former-french-prime-minister-dominique-de-villepin-is-charged-with-complicity-in-slanderous-denunciations-and-complicity-in-using-forger.json)  [XML](/news/2007/07/27/former-french-prime-minister-dominique-de-villepin-is-charged-with-complicity-in-slanderous-denunciations-and-complicity-in-using-forger.xml)  
+
 ### [2007-07-27](/news/2007/07/27/index.md)
 
+##### France
 #  Former French Prime Minister Dominique de Villepin is charged with "complicity in slanderous denunciations" and "complicity in using forgeries" for allegedly trying to discredit current President Nicolas Sarkozy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/convergence/ndtv/story.aspx?id=NEWEN20070020509&ch=7/27/2007%2010:56:00%20PM)
 

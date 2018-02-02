@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/22/judge-richard-fred-suhrheinrich-of-the-united-states-court-of-appeals-for-the-sixth-circuit-arguing-that-the-us-constitution-does-not-incl.html)  [JSON](/news/2005/12/22/judge-richard-fred-suhrheinrich-of-the-united-states-court-of-appeals-for-the-sixth-circuit-arguing-that-the-us-constitution-does-not-incl.json)  [XML](/news/2005/12/22/judge-richard-fred-suhrheinrich-of-the-united-states-court-of-appeals-for-the-sixth-circuit-arguing-that-the-us-constitution-does-not-incl.xml)  
+
 ### [2005-12-22](/news/2005/12/22/index.md)
 
+##### Richard Fred Suhrheinrich
 #  Judge Richard Fred Suhrheinrich of the United States Court of Appeals for the Sixth Circuit, arguing that the US Constitution does not include "a wall of separation between church and state," denies a claim by the ACLU, thereby approving the continued display of the Ten Commandments in a Kentucky courthouse. 
 
 A chief provider and curator of Catholic information on the web since 1996. Our editorial voice, always faithful to the teachings of the Church, assists and inspires Catholic clergy and laity.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.kentucky.com/mld/kentucky/news/local/13453457.htm)
 2. [Catholic World News](http://www.cwnews.com/news/viewstory.cfm?recnum=41403)

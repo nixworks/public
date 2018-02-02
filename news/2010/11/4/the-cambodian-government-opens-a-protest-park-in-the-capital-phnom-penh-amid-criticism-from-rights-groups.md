@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/4/the-cambodian-government-opens-a-protest-park-in-the-capital-phnom-penh-amid-criticism-from-rights-groups.html)  [JSON](/news/2010/11/4/the-cambodian-government-opens-a-protest-park-in-the-capital-phnom-penh-amid-criticism-from-rights-groups.json)  [XML](/news/2010/11/4/the-cambodian-government-opens-a-protest-park-in-the-capital-phnom-penh-amid-criticism-from-rights-groups.xml)  
+
 ### [2010-11-4](/news/2010/11/4/index.md)
 
+##### Government of Cambodia
 # The Cambodian government opens a "protest park" in the capital Phnom Penh, amid criticism from rights groups. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5ixTqsiMHn8aXr0KJ9U_BrHHHzwBA?docId=5030735)
 2. [Phnom Penh Post](http://www.phnompenhpost.com/index.php/2010110444492/National-news/freedom-park-inaugurated.html)

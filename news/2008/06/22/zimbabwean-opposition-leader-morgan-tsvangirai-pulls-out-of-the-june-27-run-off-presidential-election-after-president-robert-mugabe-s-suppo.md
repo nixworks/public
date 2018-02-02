@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2008/06/22/zimbabwean-opposition-leader-morgan-tsvangirai-pulls-out-of-the-june-27-run-off-presidential-election-after-president-robert-mugabe-s-suppo.html)  [JSON](/news/2008/06/22/zimbabwean-opposition-leader-morgan-tsvangirai-pulls-out-of-the-june-27-run-off-presidential-election-after-president-robert-mugabe-s-suppo.json)  [XML](/news/2008/06/22/zimbabwean-opposition-leader-morgan-tsvangirai-pulls-out-of-the-june-27-run-off-presidential-election-after-president-robert-mugabe-s-suppo.xml)  
+
 ### [2008-06-22](/news/2008/06/22/index.md)
 
+##### Zimbabwe
 #  Zimbabwean opposition leader Morgan Tsvangirai pulls out of the June 27 run-off presidential election after President Robert Mugabe's supporters attacked his rally. 
 
 Zimbabwean opposition leader Morgan Tsvangirai pulled out of a run-off election against President Robert Mugabe on Sunday, saying his supporters would be risking their lives if they voted.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aez5d63T2B.c&refer=home)
-2. [Reuters](http://www.reuters.com/article/newsOne/idUSL2026827820080622)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080622&t=2&i=4862380&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-06-22T192936Z_01_L20268278_RTRUKOP_0_PICTURE0)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=aez5d63T2B.c&refer=home)
+2. [Reuters](https://www.reuters.com/article/newsOne/idUSL2026827820080622)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20080622&t=2&i=4862380&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-06-22T192936Z_01_L20268278_RTRUKOP_0_PICTURE0)
+
+### Changes:
+
+1. [ Zimbabwe Electoral Crisis Zimbabwean opposition leader Morgan Tsvangirai pulls out of the June 27 run-off presidential election after President Robert Mugabe's supporters attacked his rally. ](/news/2008/06/22/zimbabwe-electoral-crisisp-zimbabwean-opposition-leader-morgan-tsvangirai-pulls-out-of-the-june-27-run-off-presidential-election-after-pres.md) _2017-08-25 03:22:27 (First version)_
+2. [ Zimbabwe Electoral Crisis: Zimbabwean opposition leader Morgan Tsvangirai pulls out of the June 27 run-off presidential election after President Robert Mugabe's supporters attacked his rally. ](/news/2008/06/22/zimbabwe-electoral-crisis-zimbabwean-opposition-leader-morgan-tsvangirai-pulls-out-of-the-june-27-run-off-presidential-election-after-pres.md) _2017-08-27 03:22:20 (Update)_
+2. [ Zimbabwean opposition leader Morgan Tsvangirai pulls out of the June 27 run-off presidential election after President Robert Mugabe's supporters attacked his rally. ](/news/2008/06/22/zimbabwean-opposition-leader-morgan-tsvangirai-pulls-out-of-the-june-27-run-off-presidential-election-after-president-robert-mugabe-s-suppo.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ Zimbabwean opposition leader Morgan Tsvangirai pulled out of a run-off election 
 3. [Zimbabwean Prime Minister Morgan Tsvangirai charges his President Robert Mugabe with violating the constitution and unilateral decision-making. Mugabe and his party fail to respond in public. ](/news/2010/10/7/zimbabwean-prime-minister-morgan-tsvangirai-charges-his-president-robert-mugabe-with-violating-the-constitution-and-unilateral-decision-maki.md) _Context: Morgan Tsvangirai, Robert Mugabe, Zimbabwe_
 4. [Robert Mugabe, Morgan Tsvangirai and Arthur Mutambara, in a rare display of solidarity, call for an end to international sanctions on Zimbabwe and instead request investment. ](/news/2010/05/6/robert-mugabe-morgan-tsvangirai-and-arthur-mutambara-in-a-rare-display-of-solidarity-call-for-an-end-to-international-sanctions-on-zimbab.md) _Context: Morgan Tsvangirai, Robert Mugabe, Zimbabwe_
 5. [ Movement for Democratic Change President Morgan Tsvangirai agrees to become Zimbabwe's Prime Minister on February 11 in a deal with President Robert Mugabe. ](/news/2009/01/31/movement-for-democratic-change-president-morgan-tsvangirai-agrees-to-become-zimbabwe-s-prime-minister-on-february-11-in-a-deal-with-preside.md) _Context: Morgan Tsvangirai, Robert Mugabe, Zimbabwe_
-
-### Changes:
-
-1. [ Zimbabwe Electoral Crisis Zimbabwean opposition leader Morgan Tsvangirai pulls out of the June 27 run-off presidential election after President Robert Mugabe's supporters attacked his rally. ](/news/2008/06/22/zimbabwe-electoral-crisisp-zimbabwean-opposition-leader-morgan-tsvangirai-pulls-out-of-the-june-27-run-off-presidential-election-after-pres.md) _2017-08-25 03:22:27 (First version)_
-2. [ Zimbabwe Electoral Crisis: Zimbabwean opposition leader Morgan Tsvangirai pulls out of the June 27 run-off presidential election after President Robert Mugabe's supporters attacked his rally. ](/news/2008/06/22/zimbabwe-electoral-crisis-zimbabwean-opposition-leader-morgan-tsvangirai-pulls-out-of-the-june-27-run-off-presidential-election-after-pres.md) _2017-08-27 03:22:20 (Update)_
-2. [ Zimbabwean opposition leader Morgan Tsvangirai pulls out of the June 27 run-off presidential election after President Robert Mugabe's supporters attacked his rally. ](/news/2008/06/22/zimbabwean-opposition-leader-morgan-tsvangirai-pulls-out-of-the-june-27-run-off-presidential-election-after-president-robert-mugabe-s-suppo.md) _(Current version)_

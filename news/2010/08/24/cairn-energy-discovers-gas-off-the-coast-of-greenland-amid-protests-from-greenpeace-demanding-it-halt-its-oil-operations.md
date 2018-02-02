@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/24/cairn-energy-discovers-gas-off-the-coast-of-greenland-amid-protests-from-greenpeace-demanding-it-halt-its-oil-operations.html)  [JSON](/news/2010/08/24/cairn-energy-discovers-gas-off-the-coast-of-greenland-amid-protests-from-greenpeace-demanding-it-halt-its-oil-operations.json)  [XML](/news/2010/08/24/cairn-energy-discovers-gas-off-the-coast-of-greenland-amid-protests-from-greenpeace-demanding-it-halt-its-oil-operations.xml)  
+
 ### [2010-08-24](/news/2010/08/24/index.md)
 
+##### Cairn Energy
 # Cairn Energy discovers gas off the coast of Greenland, amid protests from Greenpeace demanding it halt its oil operations. 
 
 Gas has been discovered off the coast of Greenland after the first drilling for a decade, a sign of a possible oil discovery.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i6JPzP_Vn7Wz23LI2xBD6FKc-yDA)
 2. [BBC](http://www.bbc.co.uk/news/business-11068467)

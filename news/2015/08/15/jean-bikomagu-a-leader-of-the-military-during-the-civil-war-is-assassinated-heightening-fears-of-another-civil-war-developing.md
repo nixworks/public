@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/08/15/jean-bikomagu-a-leader-of-the-military-during-the-civil-war-is-assassinated-heightening-fears-of-another-civil-war-developing.html)  [JSON](/news/2015/08/15/jean-bikomagu-a-leader-of-the-military-during-the-civil-war-is-assassinated-heightening-fears-of-another-civil-war-developing.json)  [XML](/news/2015/08/15/jean-bikomagu-a-leader-of-the-military-during-the-civil-war-is-assassinated-heightening-fears-of-another-civil-war-developing.xml)  
+
 ### [2015-08-15](/news/2015/08/15/index.md)
 
+##### 2015 Burundian unrest
 # Jean Bikomagu, a leader of the military during the Civil War is assassinated, heightening fears of another civil war developing. 
 
 The African Union warns of potential &#39;catastrophic consequences&#39; for troubled Burundi and the wider region if rivals do not resolve political differences peacefully
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Daily Star](http://www.dailystar.com.lb/News/World/2015/Aug-16/311333-burundi-crisis-poses-catastrophic-risk-for-region-au.ashx)
 1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/08/16/438315_img650x420_img650x420_crop.jpg)
+
+### Changes:
+
+1. [2015 Burundian unrest: Jean Bikomagu, a leader of the military during the Civil War is assassinated, heightening fears of another civil war developing. ](/news/2015/08/15/2015-burundian-unrest-jean-bikomagu-a-leader-of-the-military-during-the-civil-war-is-assassinated-heightening-fears-of-another-civil-war.md) _2017-08-27 03:42:50 (First version)_
+1. [Jean Bikomagu, a leader of the military during the Civil War is assassinated, heightening fears of another civil war developing. ](/news/2015/08/15/jean-bikomagu-a-leader-of-the-military-during-the-civil-war-is-assassinated-heightening-fears-of-another-civil-war-developing.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ The African Union warns of potential &#39;catastrophic consequences&#39; for tro
 3. [A senior Burundian Army general, Athanase Kararuza, an ethnic Tutsi and security advisor to Burundi Vice-President Gaston Sindimwo, is shot dead by heavily armed men in the capital Bujumbura. ](/news/2016/04/25/a-senior-burundian-army-general-athanase-kararuza-an-ethnic-tutsi-and-security-advisor-to-burundi-vice-president-gaston-sindimwo-is-shot.md) _Context: Burundian Army_
 4. [Burundi's President, Pierre Nkurunziza, says Burundians will fight against any African Union peacekeepers sent into the country in response to the ongoing crisis, "everyone has to respect Burundian borders," Nkurunziza said. The African Union said this earlier this month it was ready to send 5,000 peacekeepers to protect civilians caught up in months of violence. ](/news/2015/12/30/burundi-s-president-pierre-nkurunziza-says-burundians-will-fight-against-any-african-union-peacekeepers-sent-into-the-country-in-response.md) _Context: 2015 Burundian unrest_
 5. [The African Union's Peace and Security Council approves the plan to send 5,000 peacekeepers to Burundi to protect civilians caught up in the growing crisis; approval by the U.N. Security Council is required. Burundi's Philippe Nzobonariba says the force would not be allowed in without government permission. ](/news/2015/12/18/the-african-union-s-peace-and-security-council-approves-the-plan-to-send-5-000-peacekeepers-to-burundi-to-protect-civilians-caught-up-in-the.md) _Context: 2015 Burundian unrest_
-
-### Changes:
-
-1. [2015 Burundian unrest: Jean Bikomagu, a leader of the military during the Civil War is assassinated, heightening fears of another civil war developing. ](/news/2015/08/15/2015-burundian-unrest-jean-bikomagu-a-leader-of-the-military-during-the-civil-war-is-assassinated-heightening-fears-of-another-civil-war.md) _2017-08-27 03:42:50 (First version)_
-1. [Jean Bikomagu, a leader of the military during the Civil War is assassinated, heightening fears of another civil war developing. ](/news/2015/08/15/jean-bikomagu-a-leader-of-the-military-during-the-civil-war-is-assassinated-heightening-fears-of-another-civil-war-developing.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/7/the-islamic-front-has-taken-over-bab-al-hawa-bases-from-the-free-syrian-army.html)  [JSON](/news/2013/12/7/the-islamic-front-has-taken-over-bab-al-hawa-bases-from-the-free-syrian-army.json)  [XML](/news/2013/12/7/the-islamic-front-has-taken-over-bab-al-hawa-bases-from-the-free-syrian-army.xml)  
+
 ### [2013-12-7](/news/2013/12/7/index.md)
 
+##### taken over
 # The Islamic Front has taken over Bab al-Hawa bases from the Free Syrian Army. 
 
 Syrian rebels from an Islamist alliance formed last month have occupied bases and warehouses belonging to a Western-backed rebel group on the Turkish border, rebels and activists said on Saturday.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/2013/12/07/syria-crisis-fsa-idINDEE9B608A20131207)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

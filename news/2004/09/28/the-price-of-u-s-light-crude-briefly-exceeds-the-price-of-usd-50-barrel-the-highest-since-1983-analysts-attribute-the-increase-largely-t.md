@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/28/the-price-of-u-s-light-crude-briefly-exceeds-the-price-of-usd-50-barrel-the-highest-since-1983-analysts-attribute-the-increase-largely-t.html)  [JSON](/news/2004/09/28/the-price-of-u-s-light-crude-briefly-exceeds-the-price-of-usd-50-barrel-the-highest-since-1983-analysts-attribute-the-increase-largely-t.json)  [XML](/news/2004/09/28/the-price-of-u-s-light-crude-briefly-exceeds-the-price-of-usd-50-barrel-the-highest-since-1983-analysts-attribute-the-increase-largely-t.xml)  
+
 ### [2004-09-28](/news/2004/09/28/index.md)
 
+##### crude oil
 #  The price of U.S. light crude briefly exceeds the price of USD 50-barrel, the highest since 1983. Analysts attribute the increase largely to concerns over the disruption of oil production in Nigeria; conflicts in Iraq and Saudi Arabia and the effects of Hurricane Ivan are also cited. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/3695820.stm)
 

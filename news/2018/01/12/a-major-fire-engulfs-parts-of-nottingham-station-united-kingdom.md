@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/12/a-major-fire-engulfs-parts-of-nottingham-statio
 
 ### [2018-01-12](/news/2018/01/12/index.md)
 
+##### Nottingham station
 # A major fire engulfs parts of Nottingham station, United Kingdom. 
 
 No trains will be running from the station today as firefighters tackle the blaze.

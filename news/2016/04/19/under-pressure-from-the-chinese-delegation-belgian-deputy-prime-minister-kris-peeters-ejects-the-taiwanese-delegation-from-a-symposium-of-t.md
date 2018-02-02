@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/19/under-pressure-from-the-chinese-delegation-belg
 
 ### [2016-04-19](/news/2016/04/19/index.md)
 
+##### Cross-Strait relations
 # Under pressure from the Chinese delegation, Belgian Deputy Prime Minister Kris Peeters ejects the Taiwanese delegation from a symposium of the OECD Steel Committee; it was the first such incident since Taiwan joined the OECD Steel Committee in 2005. 
 
 Taiwan said Tuesday it would protest to Beijing and Belgium after its delegation was barred at a global industry conference in Brussels due to complaints from China

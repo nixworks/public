@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2015/08/15/a-suicide-bomber-kills-at-least-three-people-in-an-attack-on-a-marketplace-in-borno-state.html)  [JSON](/news/2015/08/15/a-suicide-bomber-kills-at-least-three-people-in-an-attack-on-a-marketplace-in-borno-state.json)  [XML](/news/2015/08/15/a-suicide-bomber-kills-at-least-three-people-in-an-attack-on-a-marketplace-in-borno-state.xml)  
+
 ### [2015-08-15](/news/2015/08/15/index.md)
 
+##### Boko Haram insurgency
 # A suicide bomber kills at least three people in an attack on a marketplace in Borno state. 
 
+A suicide bomber killed at least three people Saturday in an attack on a market in northeast Nigeria, police and civilian vigilante sources said.
 
 
+### Sources:
 
-### Source:
+1. [Reuters via ''The New York Times](https://www.nytimes.com/2015/08/16/world/africa/suicide-bomber-kills-3-in-nigeria.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
-1. [Reuters via ''The New York Times](http://www.nytimes.com/2015/08/16/world/africa/suicide-bomber-kills-3-in-nigeria.html)
+### Changes:
+
+1. [Boko Haram insurgency: A suicide bomber kills at least three people in an attack on a marketplace in Borno state. ](/news/2015/08/15/boko-haram-insurgency-a-suicide-bomber-kills-at-least-three-people-in-an-attack-on-a-marketplace-in-borno-state.md) _2017-08-27 03:42:50 (First version)_
+1. [A suicide bomber kills at least three people in an attack on a marketplace in Borno state. ](/news/2015/08/15/a-suicide-bomber-kills-at-least-three-people-in-an-attack-on-a-marketplace-in-borno-state.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +26,3 @@
 3. [A Nigerian Air Force jet mistakenly bombs a refugee camp in Borno State, near the border with Cameroon, killing at least 90 people and injuring more than 100. The pilot reportedly believed he was attacking Boko Haram militants. ](/news/2017/01/17/a-nigerian-air-force-jet-mistakenly-bombs-a-refugee-camp-in-borno-state-near-the-border-with-cameroon-killing-at-least-90-people-and-injur.md) _Context: Boko Haram insurgency, Borno State_
 4. [According to a Nigerian Army spokesman, a Boko Haram suicide bomber kills six people inside a mosque in the town of Damboa, Borno State. A second suicide bomber attempted to enter the same mosque but failed to gain entry and detonated his belt, killing only himself. ](/news/2016/07/8/according-to-a-nigerian-army-spokesman-a-boko-haram-suicide-bomber-kills-six-people-inside-a-mosque-in-the-town-of-damboa-borno-state-a-s.md) _Context: Boko Haram insurgency, Borno State_
 5. [The United Nations suspends aid to dangerous areas of Nigeria's northeastern Borno State following Thursday's attack by Boko Haram (ISIL in Africa) on a humanitarian convoy where two soldiers and three civilians were wounded. However, UNICEF noted, aid will continue to the capital Maiduguri. ](/news/2016/07/29/the-united-nations-suspends-aid-to-dangerous-areas-of-nigeria-s-northeastern-borno-state-following-thursday-s-attack-by-boko-haram-isil-in.md) _Context: Boko Haram insurgency, Borno State_
-
-### Changes:
-
-1. [Boko Haram insurgency: A suicide bomber kills at least three people in an attack on a marketplace in Borno state. ](/news/2015/08/15/boko-haram-insurgency-a-suicide-bomber-kills-at-least-three-people-in-an-attack-on-a-marketplace-in-borno-state.md) _2017-08-27 03:42:50 (First version)_
-1. [A suicide bomber kills at least three people in an attack on a marketplace in Borno state. ](/news/2015/08/15/a-suicide-bomber-kills-at-least-three-people-in-an-attack-on-a-marketplace-in-borno-state.md) _(Current version)_

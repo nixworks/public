@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/13/the-first-launch-of-a-new-esa-carrier-rocket-vega-takes-place-from-the-guiana-space-centre.html)  [JSON](/news/2012/02/13/the-first-launch-of-a-new-esa-carrier-rocket-vega-takes-place-from-the-guiana-space-centre.json)  [XML](/news/2012/02/13/the-first-launch-of-a-new-esa-carrier-rocket-vega-takes-place-from-the-guiana-space-centre.xml)  
+
 ### [2012-02-13](/news/2012/02/13/index.md)
 
+##### European Space Agency
 # The first launch of a new ESA carrier rocket Vega takes place from the Guiana Space Centre. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ESA](http://www.esa.int/SPECIALS/Vega/index.html)
 

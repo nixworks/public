@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/2/the-constitutional-court-of-romania-postpones-a-decision-regarding-the-impeachment-referendum-of-suspended-president-traian-basescu-until-3.html)  [JSON](/news/2012/08/2/the-constitutional-court-of-romania-postpones-a-decision-regarding-the-impeachment-referendum-of-suspended-president-traian-basescu-until-3.json)  [XML](/news/2012/08/2/the-constitutional-court-of-romania-postpones-a-decision-regarding-the-impeachment-referendum-of-suspended-president-traian-basescu-until-3.xml)  
+
 ### [2012-08-2](/news/2012/08/2/index.md)
 
+##### Constitutional Court of Romania
 # The Constitutional Court of Romania postpones a decision regarding the impeachment referendum of suspended President Traian Basescu until 31 August 2012, to allow time for the reevaluation of the permanent electoral lists. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Financial Magazine](http://www.financial-magazine.org/ccr-postponed-to-september-12-decision-on-referendum-84243.html)
 

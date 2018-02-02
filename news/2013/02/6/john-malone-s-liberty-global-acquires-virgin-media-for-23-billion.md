@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/02/6/john-malone-s-liberty-global-acquires-virgin-media-for-23-billion.html)  [JSON](/news/2013/02/6/john-malone-s-liberty-global-acquires-virgin-media-for-23-billion.json)  [XML](/news/2013/02/6/john-malone-s-liberty-global-acquires-virgin-media-for-23-billion.xml)  
+
 ### [2013-02-6](/news/2013/02/6/index.md)
 
+##### John Malone
 # John Malone's Liberty Global acquires Virgin Media for $23 billion. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/02/06/us-virgin-liberty-deal-idUSBRE91501B20130206)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130206&t=2&i=701390065&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE915037M00)
+1. [Reuters](https://www.reuters.com/article/2013/02/06/us-virgin-liberty-deal-idUSBRE91501B20130206)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130206&t=2&i=701390065&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE915037M00)
 
 ### Related:
 

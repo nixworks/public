@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/2/spanish-police-arrest-41-people-suspected-of-financing-farc-rebels-in-colombia.html)  [JSON](/news/2010/10/2/spanish-police-arrest-41-people-suspected-of-financing-farc-rebels-in-colombia.json)  [XML](/news/2010/10/2/spanish-police-arrest-41-people-suspected-of-financing-farc-rebels-in-colombia.xml)  
+
 ### [2010-10-2](/news/2010/10/2/index.md)
 
+##### Spanish police
 # Spanish police arrest 41 people suspected of financing FARC rebels in Colombia. 
 
 Police detain 41 people accused of using drug money to finance Colomian rebels fighting to topple the government.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/2010102195395896.html)
 2. [euronews](http://www.euronews.net/2010/10/02/spain-arrests-suspected-farc-money-launderers/)

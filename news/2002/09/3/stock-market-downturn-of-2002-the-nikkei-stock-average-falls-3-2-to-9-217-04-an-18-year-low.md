@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/09/3/stock-market-downturn-of-2002-the-nikkei-stock-average-falls-3-2-to-9-217-04-an-18-year-low.html)  [JSON](/news/2002/09/3/stock-market-downturn-of-2002-the-nikkei-stock-average-falls-3-2-to-9-217-04-an-18-year-low.json)  [XML](/news/2002/09/3/stock-market-downturn-of-2002-the-nikkei-stock-average-falls-3-2-to-9-217-04-an-18-year-low.xml)  
+
 ### [2002-09-3](/news/2002/09/3/index.md)
 
+##### Stock market downturn of 2002
 #  Stock market downturn of 2002: The Nikkei stock average falls 3.2% to 9,217.04, an 18-year low.
 
 

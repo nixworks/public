@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/2/politicians-in-nepal-fail-to-elect-a-new-prime-minister-for-the-third-time-after-no-candidate-secured-a-majority.html)  [JSON](/news/2010/08/2/politicians-in-nepal-fail-to-elect-a-new-prime-minister-for-the-third-time-after-no-candidate-secured-a-majority.json)  [XML](/news/2010/08/2/politicians-in-nepal-fail-to-elect-a-new-prime-minister-for-the-third-time-after-no-candidate-secured-a-majority.xml)  
+
 ### [2010-08-2](/news/2010/08/2/index.md)
 
+##### Nepal
 # Politicians in Nepal fail to elect a new Prime Minister for the third time after no candidate secured a majority. 
 
 Politicians in Nepal fail for a third time to elect a new prime minister after both candidates fall short of a majority in parliament.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10847485)
 2. [Indian Express](http://www.indianexpress.com/news/Another-day-of-voting--but-Nepal-fails-to-elect-PM/655239)

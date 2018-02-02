@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/4/experts-from-chile-who-helped-rescue-33-miners-trapped-for-more-than-three-months-in-a-mine-last-october-go-to-assist-rescue-efforts-in-nort.html)  [JSON](/news/2011/05/4/experts-from-chile-who-helped-rescue-33-miners-trapped-for-more-than-three-months-in-a-mine-last-october-go-to-assist-rescue-efforts-in-nort.json)  [XML](/news/2011/05/4/experts-from-chile-who-helped-rescue-33-miners-trapped-for-more-than-three-months-in-a-mine-last-october-go-to-assist-rescue-efforts-in-nort.xml)  
+
 ### [2011-05-4](/news/2011/05/4/index.md)
 
+##### Chile
 # Experts from Chile who helped rescue 33 miners trapped for more than three months in a mine last October go to assist rescue efforts in northern Mexico, where nine workers remained trapped in a mine after an explosion. 
 
 Experts from Chile who helped rescue miners there last October were heading Wednesday to northern Mexico, where nine workers remained trapped in a mine after an explosion, officials said.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/americas/05/04/mexico.mine.blast/index.html)
 1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/americas/05/04/mexico.mine.blast/tzvids.mexico.mine.tva.jpg)

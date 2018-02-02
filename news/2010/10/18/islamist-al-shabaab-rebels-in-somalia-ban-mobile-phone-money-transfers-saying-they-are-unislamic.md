@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/18/islamist-al-shabaab-rebels-in-somalia-ban-mobile-phone-money-transfers-saying-they-are-unislamic.html)  [JSON](/news/2010/10/18/islamist-al-shabaab-rebels-in-somalia-ban-mobile-phone-money-transfers-saying-they-are-unislamic.json)  [XML](/news/2010/10/18/islamist-al-shabaab-rebels-in-somalia-ban-mobile-phone-money-transfers-saying-they-are-unislamic.xml)  
+
 ### [2010-10-18](/news/2010/10/18/index.md)
 
+##### Islamist
 # Islamist Al-Shabaab rebels in Somalia ban mobile phone money transfers, saying they are "unIslamic". 
 
 Somali Islamist group al-Shabab orders mobile phone companies to stop their popular money transfer services, saying they are &quot;unIslamic&quot;.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gAgBYxaurc5zQnJG1tqcrF2ynTvw?docId=CNG.772c043fd8f0c880af1577d5741ee7d0.8b1)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11566247)

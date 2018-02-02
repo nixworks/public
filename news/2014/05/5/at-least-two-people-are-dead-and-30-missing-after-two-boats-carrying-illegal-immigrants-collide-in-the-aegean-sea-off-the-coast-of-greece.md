@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/5/at-least-two-people-are-dead-and-30-missing-after-two-boats-carrying-illegal-immigrants-collide-in-the-aegean-sea-off-the-coast-of-greece.html)  [JSON](/news/2014/05/5/at-least-two-people-are-dead-and-30-missing-after-two-boats-carrying-illegal-immigrants-collide-in-the-aegean-sea-off-the-coast-of-greece.json)  [XML](/news/2014/05/5/at-least-two-people-are-dead-and-30-missing-after-two-boats-carrying-illegal-immigrants-collide-in-the-aegean-sea-off-the-coast-of-greece.xml)  
+
 ### [2014-05-5](/news/2014/05/5/index.md)
 
+##### At least two people are dead and 30 missing
 # At least two people are dead and 30 missing after two boats carrying illegal immigrants collide in the Aegean Sea off the coast of Greece. 
 
 ATHENS, Greece &#8211; Greece&#8217;s coast guard says it has recovered 14 bodies from inside a capsized migrant smuggling boat, bringing the total number of dead in the incident to 18. The yacht and a dinghy crammed with dozens of immigrants trying to enter Greece illegally capsized before dawn Monday off the coast of the island &hellip;
 
 
-### Source:
+### Sources:
 
 1. [AP via 680 News](http://www.680news.com/2014/05/05/greece-says-2-dead-30-missing-after-migrant-ships-sink-in-aegean-sea/)
 1. [Cover Image](http://www.680news.com/wp-content/blogs.dir/sites/2/2017/02/07/680newslogo-300x300.png)

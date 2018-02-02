@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/06/14/thousands-of-people-march-in-hong-kong-to-demand-the-legislative-council-reject-a-china-backed-proposal-for-the-naming-of-candidates-for-chi.html)  [JSON](/news/2015/06/14/thousands-of-people-march-in-hong-kong-to-demand-the-legislative-council-reject-a-china-backed-proposal-for-the-naming-of-candidates-for-chi.json)  [XML](/news/2015/06/14/thousands-of-people-march-in-hong-kong-to-demand-the-legislative-council-reject-a-china-backed-proposal-for-the-naming-of-candidates-for-chi.xml)  
+
 ### [2015-06-14](/news/2015/06/14/index.md)
 
+##### Hong Kong
 # Thousands of people march in Hong Kong to demand the Legislative Council reject a China backed proposal for the naming of candidates for Chief Executive be done by a nominating committee. 
 
 Two of Hong Kong’s top lawmakers said a China-backed plan for the city’s first direct election for chief executive would fail to pass amid growing public opposition to the bill.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-06-14/hundreds-gather-for-march-in-hong-kong-against-china-backed-poll)
+1. [Bloomberg](https://www.bloomberg.com/news/articles/2015-06-14/hundreds-gather-for-march-in-hong-kong-against-china-backed-poll)
 1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:

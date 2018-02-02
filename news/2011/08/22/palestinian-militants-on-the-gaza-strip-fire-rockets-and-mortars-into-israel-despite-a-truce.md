@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2011/08/22/palestinian-militants-on-the-gaza-strip-fire-rockets-and-mortars-into-israel-despite-a-truce.html)  [JSON](/news/2011/08/22/palestinian-militants-on-the-gaza-strip-fire-rockets-and-mortars-into-israel-despite-a-truce.json)  [XML](/news/2011/08/22/palestinian-militants-on-the-gaza-strip-fire-rockets-and-mortars-into-israel-despite-a-truce.xml)  
+
 ### [2011-08-22](/news/2011/08/22/index.md)
 
+##### Palestinian
 # Palestinian militants on the Gaza Strip fire rockets and mortars into Israel despite a truce. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5jVvD6SveNRseB1kz2CY_TW1bFtbw?docId=8e2941c6f4e74503b4508f7b935b8e24)
-2. [Reuters](http://www.reuters.com/article/2011/08/22/us-palestinians-israel-truce-idUSTRE77L1EU20110822?feedType=RSS&feedName=topNews&dlvrit=59363)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110822&t=2&i=484313139&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-08-22T200128Z_01_BTRE77L1JML00_RTROPTP_0_PALESTINIANS-ISRAEL-TRUCE)
+2. [Reuters](https://www.reuters.com/article/2011/08/22/us-palestinians-israel-truce-idUSTRE77L1EU20110822?feedType=RSS&feedName=topNews&dlvrit=59363)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20110822&t=2&i=484313139&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-08-22T200128Z_01_BTRE77L1JML00_RTROPTP_0_PALESTINIANS-ISRAEL-TRUCE)
 
 ### Related:
 

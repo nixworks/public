@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/11/15/the-u-s-supreme-court-says-that-it-will-hear-a-securities-fraud-case-this-term-that-arises-out-of-the-asbestos-liabilities-of-halliburton.html)  [JSON](/news/2013/11/15/the-u-s-supreme-court-says-that-it-will-hear-a-securities-fraud-case-this-term-that-arises-out-of-the-asbestos-liabilities-of-halliburton.json)  [XML](/news/2013/11/15/the-u-s-supreme-court-says-that-it-will-hear-a-securities-fraud-case-this-term-that-arises-out-of-the-asbestos-liabilities-of-halliburton.xml)  
+
 ### [2013-11-15](/news/2013/11/15/index.md)
 
+##### U.S. Supreme Court
 # The U.S. Supreme Court says that it will hear a securities fraud case this term that arises out of the asbestos liabilities of Halliburton, an oilfield services company. 
 
 The U.S. Supreme Court, which in recent years has ruled for business in a string of high-profile cases, agreed on Friday to hear a case that could herald a dramatic decline in securities class action litigation.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/11/15/us-usa-court-halliburton-idUSBRE9AE10V20131115)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131115&t=2&i=812232546&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9AE1FI200)
+1. [Reuters](https://www.reuters.com/article/2013/11/15/us-usa-court-halliburton-idUSBRE9AE10V20131115)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20131115&t=2&i=812232546&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9AE1FI200)
 
 ### Related:
 

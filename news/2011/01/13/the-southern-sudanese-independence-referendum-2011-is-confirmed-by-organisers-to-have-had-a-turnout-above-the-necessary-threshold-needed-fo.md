@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/13/the-southern-sudanese-independence-referendum-2011-is-confirmed-by-organisers-to-have-had-a-turnout-above-the-necessary-threshold-needed-fo.html)  [JSON](/news/2011/01/13/the-southern-sudanese-independence-referendum-2011-is-confirmed-by-organisers-to-have-had-a-turnout-above-the-necessary-threshold-needed-fo.json)  [XML](/news/2011/01/13/the-southern-sudanese-independence-referendum-2011-is-confirmed-by-organisers-to-have-had-a-turnout-above-the-necessary-threshold-needed-fo.xml)  
+
 ### [2011-01-13](/news/2011/01/13/index.md)
 
+##### Southern Sudanese Independence Referendum
 # The Southern Sudanese independence referendum, 2011 is confirmed by organisers to have had a turnout above the necessary threshold needed for it to be valid. 
 
 Celebrations erupt as turnout of registered voters exceeds necessary 60 per cent in South Sudan referendum.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/2011113171554423996.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/13/2011113172757149797_20.jpg)

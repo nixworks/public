@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2011/05/16/international-monetary-fund-head-dominique-strauss-kahn-is-ordered-to-be-held-without-bail-on-sexual-assault-charges-in-new-york-city.html)  [JSON](/news/2011/05/16/international-monetary-fund-head-dominique-strauss-kahn-is-ordered-to-be-held-without-bail-on-sexual-assault-charges-in-new-york-city.json)  [XML](/news/2011/05/16/international-monetary-fund-head-dominique-strauss-kahn-is-ordered-to-be-held-without-bail-on-sexual-assault-charges-in-new-york-city.xml)  
+
 ### [2011-05-16](/news/2011/05/16/index.md)
 
+##### International Monetary Fund
 # International Monetary Fund head Dominique Strauss-Kahn is ordered to be held without bail on sexual assault charges in New York City. 
 
+International Monetary Fund chief Dominique Strauss-Kahn, accused of sexually assaulting and attempting to rape a hotel housekeeper, is being held without bail at New York’s Rikers Island jail complex while awaiting his next court appearance on May 20.
 
 
-
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13408002)
-2. [Bloomberg](http://www.bloomberg.com/news/2011-05-16/imf-chief-strauss-kahn-ordered-held-without-bail-on-sex-assault-accusation.html)
-2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52737000/jpg/_52737620_011991121-1.jpg)
+2. [Bloomberg](https://www.bloomberg.com/news/2011-05-16/imf-chief-strauss-kahn-ordered-held-without-bail-on-sex-assault-accusation.html)
+2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

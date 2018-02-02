@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/6/a-federal-court-of-canada-judge-rejects-a-request-by-francophone-groups-outside-quebec-to-overturn-the-conservative-government-s-decision-to.html)  [JSON](/news/2010/10/6/a-federal-court-of-canada-judge-rejects-a-request-by-francophone-groups-outside-quebec-to-overturn-the-conservative-government-s-decision-to.json)  [XML](/news/2010/10/6/a-federal-court-of-canada-judge-rejects-a-request-by-francophone-groups-outside-quebec-to-overturn-the-conservative-government-s-decision-to.xml)  
+
 ### [2010-10-6](/news/2010/10/6/index.md)
 
+##### Federal Court of Canada
 # A Federal Court of Canada judge rejects a request by francophone groups outside Quebec to overturn the Conservative government's decision to scrap the longform census. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Toronto Sun](http://www.torontosun.com/news/canada/2010/10/06/15603441.html)
 1. [Cover Image](http://www.torontosun.com/assets/img/interface/sun.com.png)

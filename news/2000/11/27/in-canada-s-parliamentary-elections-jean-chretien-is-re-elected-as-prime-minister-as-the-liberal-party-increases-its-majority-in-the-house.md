@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/11/27/in-canada-s-parliamentary-elections-jean-chretien-is-re-elected-as-prime-minister-as-the-liberal-party-increases-its-majority-in-the-house.html)  [JSON](/news/2000/11/27/in-canada-s-parliamentary-elections-jean-chretien-is-re-elected-as-prime-minister-as-the-liberal-party-increases-its-majority-in-the-house.json)  [XML](/news/2000/11/27/in-canada-s-parliamentary-elections-jean-chretien-is-re-elected-as-prime-minister-as-the-liberal-party-increases-its-majority-in-the-house.xml)  
+
 ### [2000-11-27](/news/2000/11/27/index.md)
 
+##### Jean Chrtien
 # In Canada's Parliamentary elections, Jean Chrtien is re-elected as Prime Minister as the Liberal Party increases its majority in the House of Commons.
 
 

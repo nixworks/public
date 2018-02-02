@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/06/12/mexican-drug-war-14-corpses-are-found-in-an-abandoned-truck-in-the-mexican-state-of-veracruz.html)  [JSON](/news/2012/06/12/mexican-drug-war-14-corpses-are-found-in-an-abandoned-truck-in-the-mexican-state-of-veracruz.json)  [XML](/news/2012/06/12/mexican-drug-war-14-corpses-are-found-in-an-abandoned-truck-in-the-mexican-state-of-veracruz.xml)  
+
 ### [2012-06-12](/news/2012/06/12/index.md)
 
+##### Mexican Drug War
 # Mexican Drug War: 14 corpses are found in an abandoned truck in the Mexican state of Veracruz. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/world/mexican-police-find-14-bodies-in-gulf-coast-state-of-veracruz/2012/06/12/gJQAoEGtXV_story.html)
+1. [Washington Post](https://www.washingtonpost.com/world/mexican-police-find-14-bodies-in-gulf-coast-state-of-veracruz/2012/06/12/gJQAoEGtXV_story.html)
 
 ### Related:
 

@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2006/10/27/washington-d-c-area-sniper-lee-boyd-malvo-admitted-that-he-and-partner-john-allen-muhammad-were-responsible-for-the-2002-murder-of-a-60-ye.html)  [JSON](/news/2006/10/27/washington-d-c-area-sniper-lee-boyd-malvo-admitted-that-he-and-partner-john-allen-muhammad-were-responsible-for-the-2002-murder-of-a-60-ye.json)  [XML](/news/2006/10/27/washington-d-c-area-sniper-lee-boyd-malvo-admitted-that-he-and-partner-john-allen-muhammad-were-responsible-for-the-2002-murder-of-a-60-ye.xml)  
+
 ### [2006-10-27](/news/2006/10/27/index.md)
 
+##### Washington D.C.
 #  Washington D.C.-area sniper Lee Boyd Malvo admitted that he and partner John Allen Muhammad were responsible for the 2002 murder of a 60-year-old man on a Tucson golf course, police claim. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via KPHO](http://www.kpho.com/news/10177759/detail.html)
 
 ### Related:
 
-1. [Fifteen states and the District of Columbia file suit challenging President Donald Trump's decision to end the Deferred Action for Childhood Arrivals (DACA) program, arguing, in part, that federal government has reneged on the promise to protect young immigrants who came forward and registered with the government. ](/news/2017/09/6/fifteen-states-and-the-district-of-columbia-file-suit-challenging-president-donald-trumpas-decision-to-end-the-deferred-action-for-childho.md) _Context: District of Columbia_
-2. [Unarmed Russian Air Force reconnaissance jets, under the authority provided by international Open Skies Treaty, fly over several Washington, D.C., area government buildings and landmarks as well as the President's residence in Bedminster, New Jersey. ](/news/2017/08/9/unarmed-russian-air-force-reconnaissance-jets-under-the-authority-provided-by-international-open-skies-treaty-fly-over-several-washington.md) _Context: District of Columbia_
-3. [Special counsel Robert Mueller has impaneled a grand jury in Washington, D.C. to investigate allegations of Russia's interference in the 2016 elections. ](/news/2017/08/3/special-counsel-robert-mueller-has-impaneled-a-grand-jury-in-washington-d-c-to-investigate-allegations-of-russiaas-interference-in-the-2.md) _Context: District of Columbia_
-4. [A grand jury in Washington, D.C. has issued indictments for 19 people, including 15 identified as Turkish security officials, for attacking protesters in May 2017. ](/news/2017/08/29/a-grand-jury-in-washington-d-c-has-issued-indictments-for-19-people-including-15-identified-as-turkish-security-officials-for-attacking.md) _Context: District of Columbia_
-5. [SpaceX CEO Elon Musk says he has received federal government approval for The Boring Company to build an underground 760mph Hyperloop that will connect New York City and Washington, D.C.. ](/news/2017/07/20/spacex-ceo-elon-musk-says-he-has-received-federal-government-approval-for-the-boring-company-to-build-an-underground-760mph-hyperloop-that-w.md) _Context: District of Columbia_
+1. [Hillary Clinton wins the Washington D.C. Democratic Party primary, the last scheduled primary on the party's schedule before the 2016 Democratic National Convention in late July. ](/news/2016/06/14/hillary-clinton-wins-the-washington-d-c-democratic-party-primary-the-last-scheduled-primary-on-the-party-s-schedule-before-the-2016-democr.md) _Context: Washington D.C._
+2. [Pope Francis arrives in the U.S. from his last stop in Cuba, Santiago de Cuba, at Joint Base Andrews (formerly, Andrews Air Force Base), near Washington D.C., to start his first tour of the United States. He is received by U.S. President Barack Obama, his wife, U.S. First Lady Michelle Obama, Malia and Sasha Obama, Marian Lois Robinson, U.S. Vice President Joseph R. Biden, his wife, U.S. Second Lady Dr. Jill Biden, two Biden granddaughters, the Apostolic Nuncio to the U.S. Archbishop Carlo Maria Vigano, military and base leaders, and Washington's Cardinal Donald Wuerl. He will be received tomorrow morning in a second arrival ceremony, at the White House, and will meet with the President there. ](/news/2015/09/22/pope-francis-arrives-in-the-u-s-from-his-last-stop-in-cuba-santiago-de-cuba-at-joint-base-andrews-formerly-andrews-air-force-base-nea.md) _Context: Washington D.C._
+3. [Daron Dylon Wint is arrested in the American capital of Washington D.C. in relation to the murder of four people on May 14. ](/news/2015/05/21/daron-dylon-wint-is-arrested-in-the-american-capital-of-washington-d-c-in-relation-to-the-murder-of-four-people-on-may-14.md) _Context: Washington D.C._
+4. [Widespread power outages are reported in Washington D.C. after an explosion at a Maryland power substation. ](/news/2015/04/7/widespread-power-outages-are-reported-in-washington-d-c-after-an-explosion-at-a-maryland-power-substation.md) _Context: Washington D.C._
+5. [Libyan Islamist militia leader Ahmed Abu Khattala pleads not guilty in a Washington D.C. court to one charge of conspiracy in relation to the 2012 Benghazi attack in which four Americans were killed. ](/news/2014/06/28/libyan-islamist-militia-leader-ahmed-abu-khattala-pleads-not-guilty-in-a-washington-d-c-court-to-one-charge-of-conspiracy-in-relation-to-th.md) _Context: Washington D.C._

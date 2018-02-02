@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/25/president-of-the-united-states-barack-obama-requests-that-cuba-s-leaders-release-all-political-prisoners-describing-human-rights-there-as.html)  [JSON](/news/2010/03/25/president-of-the-united-states-barack-obama-requests-that-cuba-s-leaders-release-all-political-prisoners-describing-human-rights-there-as.json)  [XML](/news/2010/03/25/president-of-the-united-states-barack-obama-requests-that-cuba-s-leaders-release-all-political-prisoners-describing-human-rights-there-as.xml)  
+
 ### [2010-03-25](/news/2010/03/25/index.md)
 
+##### U.S. President
 # President of the United States Barack Obama requests that Cuba's leaders release all political prisoners, describing human rights there as "deeply disturbing". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/03/201032543647514490.html)
 1. [Cover Image](http://www.aljazeera.com)

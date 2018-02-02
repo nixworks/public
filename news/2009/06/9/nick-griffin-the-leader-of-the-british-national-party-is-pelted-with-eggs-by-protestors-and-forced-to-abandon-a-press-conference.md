@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/9/nick-griffin-the-leader-of-the-british-national-party-is-pelted-with-eggs-by-protestors-and-forced-to-abandon-a-press-conference.html)  [JSON](/news/2009/06/9/nick-griffin-the-leader-of-the-british-national-party-is-pelted-with-eggs-by-protestors-and-forced-to-abandon-a-press-conference.json)  [XML](/news/2009/06/9/nick-griffin-the-leader-of-the-british-national-party-is-pelted-with-eggs-by-protestors-and-forced-to-abandon-a-press-conference.xml)  
+
 ### [2009-06-9](/news/2009/06/9/index.md)
 
+##### Nick Griffin
 #  Nick Griffin, the leader of the British National Party, is pelted with eggs by protestors and forced to abandon a press conference. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/8091605.stm)
 

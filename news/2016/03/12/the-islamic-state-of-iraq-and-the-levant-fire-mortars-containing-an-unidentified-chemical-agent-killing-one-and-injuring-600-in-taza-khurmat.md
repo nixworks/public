@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/12/the-islamic-state-of-iraq-and-the-levant-fire-m
 
 ### [2016-03-12](/news/2016/03/12/index.md)
 
+##### Iraqi Civil War (2014-present)
 # The Islamic State of Iraq and the Levant fire mortars containing an unidentified chemical agent killing one and injuring 600 in Taza Khurmatu, Iraq. 
 
 Iraqi officials say the Islamic State group has launched two chemical attacks, killing a three-year-old girl and wounding some 600 people near the northern city of Kirkuk.

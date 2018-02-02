@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/02/12/at-least-eleven-people-are-killed-during-an-election-rally-for-the-president-of-nigeria-goodluck-jonathan-in-port-harcourt.html)  [JSON](/news/2011/02/12/at-least-eleven-people-are-killed-during-an-election-rally-for-the-president-of-nigeria-goodluck-jonathan-in-port-harcourt.json)  [XML](/news/2011/02/12/at-least-eleven-people-are-killed-during-an-election-rally-for-the-president-of-nigeria-goodluck-jonathan-in-port-harcourt.xml)  
+
 ### [2011-02-12](/news/2011/02/12/index.md)
 
+##### President
 # At least eleven people are killed during an election rally for the President of Nigeria Goodluck Jonathan in Port Harcourt. 
 
 At least 11 people were trampled to death on Saturday in a stampede at an election campaign rally for Nigerian President Goodluck Jonathan in the southern oil city of Port Harcourt.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/02/13/us-nigeria-election-stampede-idUSTRE71B1RX20110213?WT)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110213&t=2&i=335626377&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-02-13T010600Z_01_BTRE71C032300_RTROPTP_0_NIGERIA-ELECTION-STAMPEDE)
+1. [Reuters](https://www.reuters.com/article/2011/02/13/us-nigeria-election-stampede-idUSTRE71B1RX20110213?WT)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20110213&t=2&i=335626377&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-02-13T010600Z_01_BTRE71C032300_RTROPTP_0_NIGERIA-ELECTION-STAMPEDE)
 
 ### Related:
 

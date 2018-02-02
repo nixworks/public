@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/28/israeli-prime-minister-benjamin-netanyahu-rejec
 
 ### [2016-04-28](/news/2016/04/28/index.md)
 
+##### Israeli-Palestinian peace process
 # Israeli Prime Minister Benjamin Netanyahu rejects a French-sponsored international conference to continue peace negotiations that have stalled since 2014 in settling the Israeli-Palestinian conflict, saying that direct talks were the only way to resolve the decades-long conflict. France wants to immediately recognize a Palestinian state without discussion over its borders or security issues. 
 
 Office of Binyamin Netanyahu says best way to resolve conflict between Israelis and Palestinians is direct, bilateral negotiations

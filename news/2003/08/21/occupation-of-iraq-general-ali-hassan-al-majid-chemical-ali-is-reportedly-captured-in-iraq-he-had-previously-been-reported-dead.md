@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2003/08/21/occupation-of-iraq-general-ali-hassan-al-majid-chemical-ali-is-reportedly-captured-in-iraq-he-had-previously-been-reported-dead.html)  [JSON](/news/2003/08/21/occupation-of-iraq-general-ali-hassan-al-majid-chemical-ali-is-reportedly-captured-in-iraq-he-had-previously-been-reported-dead.json)  [XML](/news/2003/08/21/occupation-of-iraq-general-ali-hassan-al-majid-chemical-ali-is-reportedly-captured-in-iraq-he-had-previously-been-reported-dead.xml)  
+
 ### [2003-08-21](/news/2003/08/21/index.md)
 
+##### Iraq war
 #  Occupation of Iraq: General Ali Hassan al-Majid ("Chemical Ali") is reportedly captured in Iraq. He had previously been reported dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [August 21082003133538.asp](http://www.rferl.org/nca/features/2003)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/12/six-vietnamese-sailors-are-kidnapped-by-the-abu
 
 ### [2016-11-12](/news/2016/11/12/index.md)
 
+##### Moro conflict
 # Six Vietnamese sailors are kidnapped by the Abu Sayyaf off the coast of the Philippines. 
 
 It is the second kidnapping in the Philippine region in a week.

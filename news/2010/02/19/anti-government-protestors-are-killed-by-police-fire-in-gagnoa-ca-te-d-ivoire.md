@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/02/19/anti-government-protestors-are-killed-by-police-fire-in-gagnoa-ca-te-d-ivoire.html)  [JSON](/news/2010/02/19/anti-government-protestors-are-killed-by-police-fire-in-gagnoa-ca-te-d-ivoire.json)  [XML](/news/2010/02/19/anti-government-protestors-are-killed-by-police-fire-in-gagnoa-ca-te-d-ivoire.xml)  
+
 ### [2010-02-19](/news/2010/02/19/index.md)
 
+##### Gagnoa
 # Anti-government protestors are killed by police fire in Gagnoa, Cote d'Ivoire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters South Africa](http://af.reuters.com/article/topNews/idAFJOE61I0FK20100219)
-2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/02/19/AR2010021901880.html)
+2. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/02/19/AR2010021901880.html)
 
 ### Related:
 

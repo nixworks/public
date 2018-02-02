@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/17/two-large-explosions-hit-the-main-base-of-african-union-peacekeepers-in-mogadishu-somalia.html)  [JSON](/news/2009/09/17/two-large-explosions-hit-the-main-base-of-african-union-peacekeepers-in-mogadishu-somalia.json)  [XML](/news/2009/09/17/two-large-explosions-hit-the-main-base-of-african-union-peacekeepers-in-mogadishu-somalia.xml)  
+
 ### [2009-09-17](/news/2009/09/17/index.md)
 
+##### African Union
 #  Two large explosions hit the main base of African Union peacekeepers in Mogadishu, Somalia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Chicago Star-Tribune](http://www.startribune.com/world/59606497.html?elr=KArks:DCiUBcy7hUiacyKUUr)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-09/17/content_12070226.htm)

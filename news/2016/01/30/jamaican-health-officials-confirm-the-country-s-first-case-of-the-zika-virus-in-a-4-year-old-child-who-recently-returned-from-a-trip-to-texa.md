@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/30/jamaican-health-officials-confirm-the-country-s
 
 ### [2016-01-30](/news/2016/01/30/index.md)
 
+##### Zika virus outbreak in the Americas (2015-present)
 # Jamaican health officials confirm the country's first case of the Zika virus in a 4-year-old child who recently returned from a trip to Texas. 
 
 

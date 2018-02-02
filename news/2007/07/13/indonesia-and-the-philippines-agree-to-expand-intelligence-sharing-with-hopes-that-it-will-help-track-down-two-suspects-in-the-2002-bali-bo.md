@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/13/indonesia-and-the-philippines-agree-to-expand-intelligence-sharing-with-hopes-that-it-will-help-track-down-two-suspects-in-the-2002-bali-bo.html)  [JSON](/news/2007/07/13/indonesia-and-the-philippines-agree-to-expand-intelligence-sharing-with-hopes-that-it-will-help-track-down-two-suspects-in-the-2002-bali-bo.json)  [XML](/news/2007/07/13/indonesia-and-the-philippines-agree-to-expand-intelligence-sharing-with-hopes-that-it-will-help-track-down-two-suspects-in-the-2002-bali-bo.xml)  
+
 ### [2007-07-13](/news/2007/07/13/index.md)
 
+##### Indonesia
 #  Indonesia and the Philippines agree to expand intelligence sharing with hopes that it will help track down two suspects in the 2002 Bali bombings. 
 
 The Philippines Government says a deal to expand intelligence sharing with Indonesia will help it track down two key suspects wanted over the 2002 Bali bombings.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/13/1978432.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

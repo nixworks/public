@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/8/two-members-of-the-british-army-s-38-engineer-regiment-are-killed-in-antrim-county-antrim-northern-ireland.html)  [JSON](/news/2009/03/8/two-members-of-the-british-army-s-38-engineer-regiment-are-killed-in-antrim-county-antrim-northern-ireland.json)  [XML](/news/2009/03/8/two-members-of-the-british-army-s-38-engineer-regiment-are-killed-in-antrim-county-antrim-northern-ireland.xml)  
+
 ### [2009-03-8](/news/2009/03/8/index.md)
 
+##### British Army
 #  Two members of the British Army's 38 Engineer Regiment are killed in Antrim, County Antrim, Northern Ireland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/7930837.stm)
 

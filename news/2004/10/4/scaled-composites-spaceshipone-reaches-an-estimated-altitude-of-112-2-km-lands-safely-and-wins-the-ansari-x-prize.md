@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/4/scaled-composites-spaceshipone-reaches-an-estimated-altitude-of-112-2-km-lands-safely-and-wins-the-ansari-x-prize.html)  [JSON](/news/2004/10/4/scaled-composites-spaceshipone-reaches-an-estimated-altitude-of-112-2-km-lands-safely-and-wins-the-ansari-x-prize.json)  [XML](/news/2004/10/4/scaled-composites-spaceshipone-reaches-an-estimated-altitude-of-112-2-km-lands-safely-and-wins-the-ansari-x-prize.xml)  
+
 ### [2004-10-4](/news/2004/10/4/index.md)
 
+##### Scaled Composites SpaceShipOne
 #  Scaled Composites SpaceShipOne reaches an estimated altitude of 112.2 km, lands safely and wins the Ansari X Prize. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Spaceflight Now](http://www.spaceflightnow.com/ss1/status.html)
 2. [X Prize Foundation](http://www.xprize.org/press_room/press_releases/press.php?articleID=130)

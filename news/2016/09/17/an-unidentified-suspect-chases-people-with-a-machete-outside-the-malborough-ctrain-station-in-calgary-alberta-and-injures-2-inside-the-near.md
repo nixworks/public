@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/17/an-unidentified-suspect-chases-people-with-a-ma
 
 ### [2016-09-17](/news/2016/09/17/index.md)
 
+##### 2016 Calgary machete attack
 # An unidentified suspect chases people with a machete outside the Malborough CTrain station in Calgary, Alberta and injures 2 inside the nearby Marlborough Mall, including a police officer. The injured officer shoots the suspect who remains in critical condition. 
 
 A member of the Calgary Police Service remained in hospital Sunday in serious but stable condition after he was severely injured in a machete attack at Marlborough Mall Saturday afternoon.

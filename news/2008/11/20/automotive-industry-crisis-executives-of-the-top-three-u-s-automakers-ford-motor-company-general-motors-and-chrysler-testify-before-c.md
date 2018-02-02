@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2008/11/20/automotive-industry-crisis-executives-of-the-top-three-u-s-automakers-ford-motor-company-general-motors-and-chrysler-testify-before-c.html)  [JSON](/news/2008/11/20/automotive-industry-crisis-executives-of-the-top-three-u-s-automakers-ford-motor-company-general-motors-and-chrysler-testify-before-c.json)  [XML](/news/2008/11/20/automotive-industry-crisis-executives-of-the-top-three-u-s-automakers-ford-motor-company-general-motors-and-chrysler-testify-before-c.xml)  
+
 ### [2008-11-20](/news/2008/11/20/index.md)
 
+##### global crisis
 #  Automotive industry crisis: Executives of the top three U.S. automakers (Ford Motor Company, General Motors, and Chrysler) testify before Congress for a bailout package. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5gbjFY-o07QeryRxtFR3oC1w_v1PwD94IHSG01)
 2. [BBC News](http://news.bbc.co.uk/2/hi/business/7739194.stm)
+
+### Changes:
+
+1. [ Global financial crisis of 2008: Automotive industry crisis: Executives of the top three U.S. automakers (Ford Motor Company, General Motors, and Chrysler) testify before Congress for a bailout package. ](/news/2008/11/20/global-financial-crisis-of-2008-p-automotive-industry-crisis-executives-of-the-top-three-u-s-automakers-ford-motor-company-general-moto.md) _2017-08-25 03:23:12 (First version)_
+2. [ Global financial crisis of 2008:: Automotive industry crisis: Executives of the top three U.S. automakers (Ford Motor Company, General Motors, and Chrysler) testify before Congress for a bailout package. ](/news/2008/11/20/global-financial-crisis-of-2008-automotive-industry-crisis-executives-of-the-top-three-u-s-automakers-ford-motor-company-general-moto.md) _2017-08-27 03:23:04 (Update)_
+2. [ Automotive industry crisis: Executives of the top three U.S. automakers (Ford Motor Company, General Motors, and Chrysler) testify before Congress for a bailout package. ](/news/2008/11/20/automotive-industry-crisis-executives-of-the-top-three-u-s-automakers-ford-motor-company-general-motors-and-chrysler-testify-before-c.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@
 3. [A contract between the North American automaker Chrysler and the United Auto Workers expires at midnight while negotiations continue between the union and General Motors. ](/news/2011/09/15/a-contract-between-the-north-american-automaker-chrysler-and-the-united-auto-workers-expires-at-midnight-while-negotiations-continue-between.md) _Context: Chrysler, General Motors_
 4. [ The United States Supreme Court is requested to block Italian automaker Fiat's purchase of Chrysler. ](/news/2009/06/7/the-united-states-supreme-court-is-requested-to-block-italian-automaker-fiat-s-purchase-of-chrysler.md) _Context: Chrysler, automakers_
 5. [ General Motors asks Germany to indebt its subsidiary automakers Opel and Vauxhall Motors. ](/news/2009/05/28/general-motors-asks-germany-to-indebt-its-subsidiary-automakers-opel-and-vauxhall-motors.md) _Context: General Motors, automakers_
-
-### Changes:
-
-1. [ Global financial crisis of 2008: Automotive industry crisis: Executives of the top three U.S. automakers (Ford Motor Company, General Motors, and Chrysler) testify before Congress for a bailout package. ](/news/2008/11/20/global-financial-crisis-of-2008-p-automotive-industry-crisis-executives-of-the-top-three-u-s-automakers-ford-motor-company-general-moto.md) _2017-08-25 03:23:12 (First version)_
-2. [ Global financial crisis of 2008:: Automotive industry crisis: Executives of the top three U.S. automakers (Ford Motor Company, General Motors, and Chrysler) testify before Congress for a bailout package. ](/news/2008/11/20/global-financial-crisis-of-2008-automotive-industry-crisis-executives-of-the-top-three-u-s-automakers-ford-motor-company-general-moto.md) _2017-08-27 03:23:04 (Update)_
-2. [ Automotive industry crisis: Executives of the top three U.S. automakers (Ford Motor Company, General Motors, and Chrysler) testify before Congress for a bailout package. ](/news/2008/11/20/automotive-industry-crisis-executives-of-the-top-three-u-s-automakers-ford-motor-company-general-motors-and-chrysler-testify-before-c.md) _(Current version)_

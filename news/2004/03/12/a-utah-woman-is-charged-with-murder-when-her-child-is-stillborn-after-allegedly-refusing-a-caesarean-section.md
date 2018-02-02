@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2004/03/12/a-utah-woman-is-charged-with-murder-when-her-child-is-stillborn-after-allegedly-refusing-a-caesarean-section.html)  [JSON](/news/2004/03/12/a-utah-woman-is-charged-with-murder-when-her-child-is-stillborn-after-allegedly-refusing-a-caesarean-section.json)  [XML](/news/2004/03/12/a-utah-woman-is-charged-with-murder-when-her-child-is-stillborn-after-allegedly-refusing-a-caesarean-section.xml)  
+
 ### [2004-03-12](/news/2004/03/12/index.md)
 
+##### Utah
 #  A Utah woman is charged with murder when her child is stillborn, after allegedly refusing a Caesarean section. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.co.uk/newsPackageArticle.jhtml?type=worldNews&storyID=475091&section=news)
 2. [SF Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?file=/news/archive/2004/03/12/national1711EST0684.DTL)
-3. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1079133608534&call_pageid=968332188492&col=968705899037)
+3. [Toronto Star](https://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1079133608534&call_pageid=968332188492&col=968705899037)
 
 ### Related:
 

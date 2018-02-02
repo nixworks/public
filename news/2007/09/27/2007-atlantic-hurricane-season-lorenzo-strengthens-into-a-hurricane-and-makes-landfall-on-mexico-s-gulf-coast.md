@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/27/2007-atlantic-hurricane-season-lorenzo-strengthens-into-a-hurricane-and-makes-landfall-on-mexico-s-gulf-coast.html)  [JSON](/news/2007/09/27/2007-atlantic-hurricane-season-lorenzo-strengthens-into-a-hurricane-and-makes-landfall-on-mexico-s-gulf-coast.json)  [XML](/news/2007/09/27/2007-atlantic-hurricane-season-lorenzo-strengthens-into-a-hurricane-and-makes-landfall-on-mexico-s-gulf-coast.xml)  
+
 ### [2007-09-27](/news/2007/09/27/index.md)
 
+##### 2007
 #  2007 Atlantic hurricane season: Lorenzo strengthens into a hurricane and makes landfall on Mexico's Gulf coast. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5gVWjsPEiqe1tEu2mhBIRaxxGi8owD8RU4IS82)
 

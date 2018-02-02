@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/20/an-american-appeals-court-grants-bail-to-newspaper-publisher-conrad-black.html)  [JSON](/news/2010/07/20/an-american-appeals-court-grants-bail-to-newspaper-publisher-conrad-black.json)  [XML](/news/2010/07/20/an-american-appeals-court-grants-bail-to-newspaper-publisher-conrad-black.xml)  
+
 ### [2010-07-20](/news/2010/07/20/index.md)
 
+##### United States Court of Appeals for the Seventh Circuit
 # An American appeals court grants bail to newspaper publisher Conrad Black. 
 
 A US court grants bail to the jailed newspaper tycoon Conrad Black pending an appeal against a fraud conviction.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10692822)
 2. [Samaylive Latest News](http://english.samaylive.com/business/676468804.html)

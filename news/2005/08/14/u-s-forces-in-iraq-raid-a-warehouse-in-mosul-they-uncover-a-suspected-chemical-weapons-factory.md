@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/14/u-s-forces-in-iraq-raid-a-warehouse-in-mosul-they-uncover-a-suspected-chemical-weapons-factory.html)  [JSON](/news/2005/08/14/u-s-forces-in-iraq-raid-a-warehouse-in-mosul-they-uncover-a-suspected-chemical-weapons-factory.json)  [XML](/news/2005/08/14/u-s-forces-in-iraq-raid-a-warehouse-in-mosul-they-uncover-a-suspected-chemical-weapons-factory.xml)  
+
 ### [2005-08-14](/news/2005/08/14/index.md)
 
+##### coalition forces
 #  U.S. forces in Iraq raid a warehouse in Mosul. They uncover a suspected chemical weapons factory. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Boston Globe](http://www.boston.com/news/world/articles/2005/08/14/alleged_chemical_weapons_factory_uncovered_in_iraq/)
 

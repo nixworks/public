@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/12/campaigning-for-iraq-s-parliamentary-election-begins.html)  [JSON](/news/2010/02/12/campaigning-for-iraq-s-parliamentary-election-begins.json)  [XML](/news/2010/02/12/campaigning-for-iraq-s-parliamentary-election-begins.xml)  
+
 ### [2010-02-12](/news/2010/02/12/index.md)
 
+##### Iraq
 # Campaigning for Iraq's parliamentary election begins. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jqKZntDqHzmV_-1g0j79q3Hqst3g)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=118458&sectionid=351020201)

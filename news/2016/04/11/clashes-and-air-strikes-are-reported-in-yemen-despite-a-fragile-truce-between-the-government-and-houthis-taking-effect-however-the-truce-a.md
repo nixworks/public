@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/11/clashes-and-air-strikes-are-reported-in-yemen-d
 
 ### [2016-04-11](/news/2016/04/11/index.md)
 
+##### Yemeni Civil War (2015-present)
 # Clashes and air strikes are reported in Yemen despite a fragile truce between the government and Houthis taking effect. However, the truce appears to be largely holding as members from the International Red Cross and Red Crescent Movement are granted unhindered access to give humanitarian aid and personnel across the country. 
 
 A truce aimed at ending more than a year of war in Yemen appears to be largely holding, despite reports of fighting in several places.
@@ -24,4 +25,4 @@ A truce aimed at ending more than a year of war in Yemen appears to be largely h
 2. [Coalition troops take control of the strategic Yemeni port city of Mocha after driving out Houthi forces. ](/news/2017/02/7/coalition-troops-take-control-of-the-strategic-yemeni-port-city-of-mocha-after-driving-out-houthi-forces.md) _Context: Houthi, Yemen, Yemeni Civil War (2015-present)_
 3. [A Houthi missile attack on a Yemeni military camp near the port city of Mocha kills Major General Ahmed Saif al-Yafei, Yemen's deputy chief of staff, and several others. ](/news/2017/02/22/a-houthi-missile-attack-on-a-yemeni-military-camp-near-the-port-city-of-mocha-kills-major-general-ahmed-saif-al-yafei-yemen-s-deputy-chief.md) _Context: Houthi, Yemen, Yemeni Civil War (2015-present)_
 4. [The United Arab Emirates pulls its troops out of Yemen amid mounting casualties among its forces battling Shia Houthi militants and rising tensions with local fighters in Aden, southern Yemen, which escalated yesterday when Aden International Airport was stormed by local pro-government gunmen. The airport has now been closed. ](/news/2016/02/24/the-united-arab-emirates-pulls-its-troops-out-of-yemen-amid-mounting-casualties-among-its-forces-battling-shia-houthi-militants-and-rising-t.md) _Context: Houthi, Yemen, Yemeni Civil War (2015-present)_
-5. [The International Committee of the Red Cross is buying 750,000 liters of diesel fuel to help provide clean water for a million people living in Yemen. ](/news/2017/11/30/the-international-committee-of-the-red-cross-is-buying-750-000-liters-of-diesel-fuel-to-help-provide-clean-water-for-a-million-people-living.md) _Context: Yemen, Yemeni Civil War (2015-present)_
+5. [After 1,000 days of civil war in Yemen, eight million people are at risk of starvation. ](/news/2017/12/22/after-1-000-days-of-civil-war-in-yemen-eight-million-people-are-at-risk-of-starvation.md) _Context: Yemen, Yemeni Civil War (2015-present)_

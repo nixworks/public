@@ -1,17 +1,26 @@
+
+Formats: [HTML](/news/2014/08/24/four-arab-israeli-taxi-drivers-are-injured-two-seriously-after-they-came-under-mortar-and-rocket-attack-at-the-erez-border-crossing-while.html)  [JSON](/news/2014/08/24/four-arab-israeli-taxi-drivers-are-injured-two-seriously-after-they-came-under-mortar-and-rocket-attack-at-the-erez-border-crossing-while.json)  [XML](/news/2014/08/24/four-arab-israeli-taxi-drivers-are-injured-two-seriously-after-they-came-under-mortar-and-rocket-attack-at-the-erez-border-crossing-while.xml)  
+
 ### [2014-08-24](/news/2014/08/24/index.md)
 
+##### 2014 Israel-Gaza conflict
 # Four Arab-Israeli taxi drivers are injured, two seriously, after they came under mortar and rocket attack at the Erez border crossing while waiting to transport critically injured Palestinians for treatment at Israeli hospitals. 
 
 Four taxi drivers injured as mortars slam into Erez terminal. &#8216;This is an organization that cares about the Palestinians?&#8217; Arab-Israeli official angrily asks of Hamas
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/world/2014/08/24/israel-steps-up-gaza-strikes-as-netanyahu-says-hamas-is-being-crushed/)
 2. [Jerusalem Post](http://www.jpost.com/Middle-East/Palestinian-Authority-says-Hamas-shot-Fatah-men-in-legs-during-Gaza-fighting-371568)
 3. [Times of Israel](http://www.timesofisrael.com/day-49-barrage-of-rockets-before-midnight-hamas-head-says-no-return-to-talks/)
 4. [Times of Israel](http://www.timesofisrael.com/waiting-to-transport-sick-drivers-at-gaza-crossing-come-under-attack/)
 4. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/08/F140824EI01.jpg)
+
+### Changes:
+
+1. [2014 Israel-Gaza conflict: Four Arab-Israeli taxi drivers are injured, two seriously, after they came under mortar and rocket attack at the Erez border crossing while waiting to transport critically injured Palestinians for treatment at Israeli hospitals. ](/news/2014/08/24/2014-israel-gaza-conflict-four-arab-israeli-taxi-drivers-are-injured-two-seriously-after-they-came-under-mortar-and-rocket-attack-at-the.md) _2017-08-27 03:41:11 (First version)_
+1. [Four Arab-Israeli taxi drivers are injured, two seriously, after they came under mortar and rocket attack at the Erez border crossing while waiting to transport critically injured Palestinians for treatment at Israeli hospitals. ](/news/2014/08/24/four-arab-israeli-taxi-drivers-are-injured-two-seriously-after-they-came-under-mortar-and-rocket-attack-at-the-erez-border-crossing-while.md) _(Current version)_
 
 ### Related:
 
@@ -20,8 +29,3 @@ Four taxi drivers injured as mortars slam into Erez terminal. &#8216;This is an 
 3. [Hundreds of Palestinian prisoners in Israeli jails -- activists say up to 1,500 are participating -- begin an open-ended hunger strike to protest poor conditions and the Israeli policy of detention without trial. ](/news/2017/04/17/hundreds-of-palestinian-prisoners-in-israeli-jails-a-activists-say-up-to-1-500-are-participating-a-begin-an-open-ended-hunger-strike-to.md) _Context: Israel, Palestinians_
 4. [The report of the diplomatic Quartet to the Security Council -- the United Nations, Russia, the United States, and the European Union -- calls on Israel to end settlement construction and expansion policy, and calls on Palestinians to act decisively to stop incitement to violence and to clearly condemn terrorist acts. Special Coordinator for the Middle East Peace Process Nickolay Mladenov tells the UNSC, "The main objective of this report is not about assigning blame ... (rather) it focuses on the major threats to achieving a negotiated peace." ](/news/2016/07/1/the-report-of-the-diplomatic-quartet-to-the-security-council-a-the-united-nations-russia-the-united-states-and-the-european-union-a-c.md) _Context: Israel, Palestinians_
 5. [A 17-year-old Palestinian stabs and kills a sleeping 13-year-old Israeli and American citizen girl Hallel Yaffa Ariel in her bedroom. The assailant is fatally shot by security guards. Israeli Prime Minister Benjamin Netanyahu blamed "incitement-driven terrorists" while the U.S. State Department condemned the "outrageous terrorist attack." ](/news/2016/06/30/a-17-year-old-palestinian-stabs-and-kills-a-sleeping-13-year-old-israeli-and-american-citizen-girl-hallel-yaffa-ariel-in-her-bedroom-the-as.md) _Context: Israel, Palestinians_
-
-### Changes:
-
-1. [2014 Israel-Gaza conflict: Four Arab-Israeli taxi drivers are injured, two seriously, after they came under mortar and rocket attack at the Erez border crossing while waiting to transport critically injured Palestinians for treatment at Israeli hospitals. ](/news/2014/08/24/2014-israel-gaza-conflict-four-arab-israeli-taxi-drivers-are-injured-two-seriously-after-they-came-under-mortar-and-rocket-attack-at-the.md) _2017-08-27 03:41:11 (First version)_
-1. [Four Arab-Israeli taxi drivers are injured, two seriously, after they came under mortar and rocket attack at the Erez border crossing while waiting to transport critically injured Palestinians for treatment at Israeli hospitals. ](/news/2014/08/24/four-arab-israeli-taxi-drivers-are-injured-two-seriously-after-they-came-under-mortar-and-rocket-attack-at-the-erez-border-crossing-while.md) _(Current version)_

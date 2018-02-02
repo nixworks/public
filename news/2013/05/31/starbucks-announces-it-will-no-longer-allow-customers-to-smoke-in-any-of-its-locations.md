@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/31/starbucks-announces-it-will-no-longer-allow-customers-to-smoke-in-any-of-its-locations.html)  [JSON](/news/2013/05/31/starbucks-announces-it-will-no-longer-allow-customers-to-smoke-in-any-of-its-locations.json)  [XML](/news/2013/05/31/starbucks-announces-it-will-no-longer-allow-customers-to-smoke-in-any-of-its-locations.xml)  
+
 ### [2013-05-31](/news/2013/05/31/index.md)
 
+##### Starbucks
 # Starbucks announces it will no longer allow customers to smoke in any of its locations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://guardianlv.com/2013/05/starbucks-bans-smoking-no-more-coffee-and-a-cigarette-with-your-morning-paper/)
 

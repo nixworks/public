@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/23/clashes-break-out-between-refugees-from-sri-lanka-and-afghanistan-at-an-australian-immigration-centre-on-christmas-island.html)  [JSON](/news/2009/11/23/clashes-break-out-between-refugees-from-sri-lanka-and-afghanistan-at-an-australian-immigration-centre-on-christmas-island.json)  [XML](/news/2009/11/23/clashes-break-out-between-refugees-from-sri-lanka-and-afghanistan-at-an-australian-immigration-centre-on-christmas-island.xml)  
+
 ### [2009-11-23](/news/2009/11/23/index.md)
 
+##### Sri Lanka
 #  Clashes break out between refugees from Sri Lanka and Afghanistan at an Australian immigration centre on Christmas Island. 
 
 Asylum seekers involved in a wild brawl on Christmas Island are being threatened with deportation.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2009/11/23/2751302.htm?section=australia)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8373560.stm)

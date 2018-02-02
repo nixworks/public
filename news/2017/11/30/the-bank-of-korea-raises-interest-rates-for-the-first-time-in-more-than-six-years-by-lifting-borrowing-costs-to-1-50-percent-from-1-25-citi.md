@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/30/the-bank-of-korea-raises-interest-rates-for-the
 
 ### [2017-11-30](/news/2017/11/30/index.md)
 
+##### Economy of South Korea
 # The Bank of Korea raises interest rates for the first time in more than six years by lifting borrowing costs to 1.50 percent from 1.25, citing economic recovery. 
 
 

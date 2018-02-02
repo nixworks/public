@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/15/insurgents-trigger-bombs-and-storm-a-police-station-in-the-iraqi-city-of-ramadi-with-six-people-reportedly-killed-and-14-injured.html)  [JSON](/news/2012/01/15/insurgents-trigger-bombs-and-storm-a-police-station-in-the-iraqi-city-of-ramadi-with-six-people-reportedly-killed-and-14-injured.json)  [XML](/news/2012/01/15/insurgents-trigger-bombs-and-storm-a-police-station-in-the-iraqi-city-of-ramadi-with-six-people-reportedly-killed-and-14-injured.xml)  
+
 ### [2012-01-15](/news/2012/01/15/index.md)
 
+##### Iraq
 # Insurgents trigger bombs and storm a police station in the Iraqi city of Ramadi, with six people reportedly killed and 14 injured. 
 
 Gunmen set off bombs outside a police building in the Iraqi city of Ramadi before storming it and killing seven policemen in a two-hour standoff.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16565572)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57897000/jpg/_57897095_013714292-1.jpg)

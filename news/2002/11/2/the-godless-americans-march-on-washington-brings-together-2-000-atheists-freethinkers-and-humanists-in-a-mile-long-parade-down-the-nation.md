@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/11/2/the-godless-americans-march-on-washington-brings-together-2-000-atheists-freethinkers-and-humanists-in-a-mile-long-parade-down-the-nation.html)  [JSON](/news/2002/11/2/the-godless-americans-march-on-washington-brings-together-2-000-atheists-freethinkers-and-humanists-in-a-mile-long-parade-down-the-nation.json)  [XML](/news/2002/11/2/the-godless-americans-march-on-washington-brings-together-2-000-atheists-freethinkers-and-humanists-in-a-mile-long-parade-down-the-nation.xml)  
+
 ### [2002-11-2](/news/2002/11/2/index.md)
 
+##### Godless Americans March on Washington
 #  The Godless Americans March on Washington brings together 2,000 atheists, freethinkers, and humanists in a mile-long parade down the National Mall.
 
 

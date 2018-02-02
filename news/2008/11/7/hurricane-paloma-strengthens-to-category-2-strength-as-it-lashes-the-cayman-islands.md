@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/11/7/hurricane-paloma-strengthens-to-category-2-strength-as-it-lashes-the-cayman-islands.html)  [JSON](/news/2008/11/7/hurricane-paloma-strengthens-to-category-2-strength-as-it-lashes-the-cayman-islands.json)  [XML](/news/2008/11/7/hurricane-paloma-strengthens-to-category-2-strength-as-it-lashes-the-cayman-islands.xml)  
+
 ### [2008-11-7](/news/2008/11/7/index.md)
 
+##### Hurricane Paloma
 #  Hurricane Paloma strengthens to Category 2 strength as it lashes the Cayman Islands. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Google News](http://news.yahoo.com/s/afp/20081107/wl_afp/usweatherstormcaribbeanupgrade_081107212235)
+1. [AFP via Google News](https://news.yahoo.com/s/afp/20081107/wl_afp/usweatherstormcaribbeanupgrade_081107212235)
 
 ### Related:
 

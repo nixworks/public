@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/27/south-korea-s-truth-and-reconciliation-commission-acknowledges-the-government-s-execution-of-5-000-civilians-accused-of-sympathizing-with-n.html)  [JSON](/news/2009/11/27/south-korea-s-truth-and-reconciliation-commission-acknowledges-the-government-s-execution-of-5-000-civilians-accused-of-sympathizing-with-n.json)  [XML](/news/2009/11/27/south-korea-s-truth-and-reconciliation-commission-acknowledges-the-government-s-execution-of-5-000-civilians-accused-of-sympathizing-with-n.xml)  
+
 ### [2009-11-27](/news/2009/11/27/index.md)
 
+##### South Korea
 #  South Korea's Truth and Reconciliation Commission acknowledges the government's execution of 5,000 civilians accused of sympathizing with North Korea during the early months of the Korean War. 
 
 Shedding new light on a long-suppressed chapter of the Korean War, a government commission acknowledged Thursday that South Korean soldiers and police executed about 5,000 suspected North Korean...
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nation-and-world/la-fg-korea-commission27-2009nov27,0,3889808.story)
 1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/27/hijackers-of-a-sudanese-boeing-737-free-all-100-passengers-at-kufra-airport-in-libya-but-hold-on-to-the-flight-crew.html)  [JSON](/news/2008/08/27/hijackers-of-a-sudanese-boeing-737-free-all-100-passengers-at-kufra-airport-in-libya-but-hold-on-to-the-flight-crew.json)  [XML](/news/2008/08/27/hijackers-of-a-sudanese-boeing-737-free-all-100-passengers-at-kufra-airport-in-libya-but-hold-on-to-the-flight-crew.xml)  
+
 ### [2008-08-27](/news/2008/08/27/index.md)
 
+##### Sudan
 #  Hijackers of a Sudanese Boeing 737 free all 100 passengers at Kufra Airport in Libya but hold on to the flight crew. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5jgeLHg-Vqxjgb7zgu7U98Ow3SUyw)
 

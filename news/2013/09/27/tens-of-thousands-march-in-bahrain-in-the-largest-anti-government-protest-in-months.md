@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2013/09/27/tens-of-thousands-march-in-bahrain-in-the-largest-anti-government-protest-in-months.html)  [JSON](/news/2013/09/27/tens-of-thousands-march-in-bahrain-in-the-largest-anti-government-protest-in-months.json)  [XML](/news/2013/09/27/tens-of-thousands-march-in-bahrain-in-the-largest-anti-government-protest-in-months.xml)  
+
 ### [2013-09-27](/news/2013/09/27/index.md)
 
+##### Bahrain
 # Tens of thousands march in Bahrain in the largest anti-government protest in months. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/bahrain-opposition-stages-major-rally-20397321)
+
+### Changes:
+
+1. [Bahraini uprising (2011-present):Tens of thousands march in Bahrain in the largest anti-government protest in months. ](/news/2013/09/27/bahraini-uprising-2011apresent-ptens-of-thousands-march-in-bahrain-in-the-largest-anti-government-protest-in-months.md) _2017-08-25 03:39:19 (First version)_
+2. [Bahraini uprising (2011-present):: Tens of thousands march in Bahrain in the largest anti-government protest in months. ](/news/2013/09/27/bahraini-uprising-2011-present-tens-of-thousands-march-in-bahrain-in-the-largest-anti-government-protest-in-months.md) _2017-08-27 03:39:36 (Update)_
+2. [Tens of thousands march in Bahrain in the largest anti-government protest in months. ](/news/2013/09/27/tens-of-thousands-march-in-bahrain-in-the-largest-anti-government-protest-in-months.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@ Get the latest international news and world events from Asia, Europe, the Middle
 3. [Bahrain bans the independent "Al-Wasat" newspaper on grounds that it "sows division" in the Shia-majority kingdom. ](/news/2017/06/4/bahrain-bans-the-independent-al-wasat-newspaper-on-grounds-that-it-sows-division-in-the-shia-majority-kingdom.md) _Context: Bahrain_
 4. [The Bahrain News Agency publishes an official list of the demands from Saudi Arabia, Bahrain, the United Arab Emirates and Egypt towards Qatar. Turkey says the demands on Qatar are unlawful. ](/news/2017/06/25/the-bahrain-news-agency-publishes-an-official-list-of-the-demands-from-saudi-arabia-bahrain-the-united-arab-emirates-and-egypt-towards-qat.md) _Context: Bahrain_
 5. [Five people are killed in a raid on a house of a Shia cleric in Bahrain. ](/news/2017/05/24/five-people-are-killed-in-a-raid-on-a-house-of-a-shia-cleric-in-bahrain.md) _Context: Bahrain_
-
-### Changes:
-
-1. [Bahraini uprising (2011-present):Tens of thousands march in Bahrain in the largest anti-government protest in months. ](/news/2013/09/27/bahraini-uprising-2011apresent-ptens-of-thousands-march-in-bahrain-in-the-largest-anti-government-protest-in-months.md) _2017-08-25 03:39:19 (First version)_
-2. [Bahraini uprising (2011-present):: Tens of thousands march in Bahrain in the largest anti-government protest in months. ](/news/2013/09/27/bahraini-uprising-2011-present-tens-of-thousands-march-in-bahrain-in-the-largest-anti-government-protest-in-months.md) _2017-08-27 03:39:36 (Update)_
-2. [Tens of thousands march in Bahrain in the largest anti-government protest in months. ](/news/2013/09/27/tens-of-thousands-march-in-bahrain-in-the-largest-anti-government-protest-in-months.md) _(Current version)_

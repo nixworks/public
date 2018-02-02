@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/9/doau-perinassek-is-found-guilty-of-genocide-denial-by-a-swiss-district-court-making-him-the-first-person-ever-convicted-for-denial-of-the.html)  [JSON](/news/2007/03/9/doau-perinassek-is-found-guilty-of-genocide-denial-by-a-swiss-district-court-making-him-the-first-person-ever-convicted-for-denial-of-the.json)  [XML](/news/2007/03/9/doau-perinassek-is-found-guilty-of-genocide-denial-by-a-swiss-district-court-making-him-the-first-person-ever-convicted-for-denial-of-the.xml)  
+
 ### [2007-03-9](/news/2007/03/9/index.md)
 
+##### Dogu Perincek
 #  Dogu Perincek is found guilty of genocide denial by a Swiss district court, making him the first person ever convicted for denial of the Armenian Genocide by a court of law.
 
 
 
 
-### Source:
+### Sources:
 
 1. [swissinfo](http://www.swissinfo.org/eng/front/detail/Turkish_politician_fined_over_genocide_denial.html?siteSect=105&sid=7603245)
 

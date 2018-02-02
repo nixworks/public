@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/3/ajmal-kasab-the-only-surviving-terrorist-involved-in-the-2008-mumbai-attacks-is-found-guilty-of-murder-conspiracy-and-waging-war-against.html)  [JSON](/news/2010/05/3/ajmal-kasab-the-only-surviving-terrorist-involved-in-the-2008-mumbai-attacks-is-found-guilty-of-murder-conspiracy-and-waging-war-against.json)  [XML](/news/2010/05/3/ajmal-kasab-the-only-surviving-terrorist-involved-in-the-2008-mumbai-attacks-is-found-guilty-of-murder-conspiracy-and-waging-war-against.xml)  
+
 ### [2010-05-3](/news/2010/05/3/index.md)
 
+##### Ajmal Kasab
 # Ajmal Kasab, the only surviving terrorist involved in the 2008 Mumbai attacks, is found guilty of murder, conspiracy, and waging war against India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hfCYOKxkJou-hpK6D9bq_8zIZ9hAD9FFAI500)
 2. [NDTV](http://www.ndtv.com/news/india/kasab-guilty-says-2611-verdict-2-indians-acquitted-22835.php)

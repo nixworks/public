@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/10/13/chinese-premier-wen-jiabao-calls-for-reform-of-china-s-political-system-in-the-lead-up-to-a-four-day-annual-policy-meeting-of-communist-part.html)  [JSON](/news/2010/10/13/chinese-premier-wen-jiabao-calls-for-reform-of-china-s-political-system-in-the-lead-up-to-a-four-day-annual-policy-meeting-of-communist-part.json)  [XML](/news/2010/10/13/chinese-premier-wen-jiabao-calls-for-reform-of-china-s-political-system-in-the-lead-up-to-a-four-day-annual-policy-meeting-of-communist-part.xml)  
+
 ### [2010-10-13](/news/2010/10/13/index.md)
 
+##### Premier
 # Chinese Premier Wen Jiabao calls for reform of China's political system in the lead-up to a four-day annual policy meeting of Communist Party leaders. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo!](http://news.yahoo.com/s/ap/20101014/ap_on_re_as/as_china_debating_democracy)
+1. [AP via Yahoo!](https://news.yahoo.com/s/ap/20101014/ap_on_re_as/as_china_debating_democracy)
 
 ### Related:
 

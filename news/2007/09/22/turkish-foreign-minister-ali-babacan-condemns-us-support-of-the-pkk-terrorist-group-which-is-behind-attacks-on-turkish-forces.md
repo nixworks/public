@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/22/turkish-foreign-minister-ali-babacan-condemns-us-support-of-the-pkk-terrorist-group-which-is-behind-attacks-on-turkish-forces.html)  [JSON](/news/2007/09/22/turkish-foreign-minister-ali-babacan-condemns-us-support-of-the-pkk-terrorist-group-which-is-behind-attacks-on-turkish-forces.json)  [XML](/news/2007/09/22/turkish-foreign-minister-ali-babacan-condemns-us-support-of-the-pkk-terrorist-group-which-is-behind-attacks-on-turkish-forces.xml)  
+
 ### [2007-09-22](/news/2007/09/22/index.md)
 
+##### Ali Babacan
 #  Turkish Foreign Minister Ali Babacan condemns US support of the PKK terrorist group, which is behind attacks on Turkish forces.
 
 
 
 
-### Source:
+### Sources:
 
 1. [PressTV](http://www.presstv.ir/detail.aspx?id=24227&sectionid=351020204)
 2. [TurkishWeekly](http://www.turkishweekly.net/news.php?id=48764)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/2/paul-anthony-ciancia-is-charged-with-murder-of-a-federal-officer-and-commission-of-violence-in-an-international-airport-in-relation-to-the-2.html)  [JSON](/news/2013/11/2/paul-anthony-ciancia-is-charged-with-murder-of-a-federal-officer-and-commission-of-violence-in-an-international-airport-in-relation-to-the-2.json)  [XML](/news/2013/11/2/paul-anthony-ciancia-is-charged-with-murder-of-a-federal-officer-and-commission-of-violence-in-an-international-airport-in-relation-to-the-2.xml)  
+
 ### [2013-11-2](/news/2013/11/2/index.md)
 
+##### 2013 Los Angeles International Airport shooting
 # Paul Anthony Ciancia is charged with murder of a federal officer and commission of violence in an international airport in relation to the 2013 Los Angeles International Airport shooting. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2013/11/02/us/lax-gunfire/index.html)
 

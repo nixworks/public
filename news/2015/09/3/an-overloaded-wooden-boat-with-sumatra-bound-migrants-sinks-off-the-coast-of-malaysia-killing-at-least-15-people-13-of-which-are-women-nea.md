@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/3/an-overloaded-wooden-boat-with-sumatra-bound-migrants-sinks-off-the-coast-of-malaysia-killing-at-least-15-people-13-of-which-are-women-nea.html)  [JSON](/news/2015/09/3/an-overloaded-wooden-boat-with-sumatra-bound-migrants-sinks-off-the-coast-of-malaysia-killing-at-least-15-people-13-of-which-are-women-nea.json)  [XML](/news/2015/09/3/an-overloaded-wooden-boat-with-sumatra-bound-migrants-sinks-off-the-coast-of-malaysia-killing-at-least-15-people-13-of-which-are-women-nea.xml)  
+
 ### [2015-09-3](/news/2015/09/3/index.md)
 
+##### Malaysia
 # An overloaded wooden boat with Sumatra-bound migrants sinks off the coast of Malaysia killing at least 15 people, 13 of which are women. Nearby fisherman rescue 19 people with more than 40 missing. The Malaysian Maritime Enforcement Agency states that the boat was taking migrant workers home to Tanjung Balai in Indonesia's Sumatra province for the Hari Raya Haji celebration. 
 
 An overloaded wooden boat believed to be carrying dozens of Indonesian illegal immigrants sank off the coast of Malaysia on Thursday, killing at least 14 people, among them 13 women, maritime officials said.
 
 
-### Source:
+### Sources:
 
 1. [Malaysian Star](http://www.thestar.com.my/News/Nation/2015/09/04/40-Indonesians-missing-at-sea-Boat-ferrying-illegal-immigrants-home-capsizes-off-Sabak-Bernam/)
 2. [Reuters](http://in.reuters.com/article/2015/09/03/malaysia-boat-capsized-idINKCN0R30CX20150903)

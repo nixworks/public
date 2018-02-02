@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/7/the-national-assembly-of-france-approves-the-treaty-of-lisbon-by-336-votes-to-52.html)  [JSON](/news/2008/02/7/the-national-assembly-of-france-approves-the-treaty-of-lisbon-by-336-votes-to-52.json)  [XML](/news/2008/02/7/the-national-assembly-of-france-approves-the-treaty-of-lisbon-by-336-votes-to-52.xml)  
+
 ### [2008-02-7](/news/2008/02/7/index.md)
 
+##### National Assembly
 #  The National Assembly of France approves the Treaty of Lisbon by 336 votes to 52. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ukpress.google.com/article/ALeqM5hLDOR1F7xeyNdlzDXl0HzskwZkuA)
 

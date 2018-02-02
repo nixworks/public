@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/6/a-bell-uh-1y-venom-helicopter-crashes-on-a-training-flight-at-marine-corps-base-camp-pendleton-near-the-us-city-of-san-diego-with-one-person.html)  [JSON](/news/2011/07/6/a-bell-uh-1y-venom-helicopter-crashes-on-a-training-flight-at-marine-corps-base-camp-pendleton-near-the-us-city-of-san-diego-with-one-person.json)  [XML](/news/2011/07/6/a-bell-uh-1y-venom-helicopter-crashes-on-a-training-flight-at-marine-corps-base-camp-pendleton-near-the-us-city-of-san-diego-with-one-person.xml)  
+
 ### [2011-07-6](/news/2011/07/6/index.md)
 
+##### Bell UH-1Y Venom
 # A Bell UH-1Y Venom helicopter crashes on a training flight at Marine Corps Base Camp Pendleton near the US city of San Diego with one person dead and five people injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sign On San Diego](http://www.signonsandiego.com/news/2011/jul/06/crews-respond-downed-helicopter-camp-pendleton/)
 

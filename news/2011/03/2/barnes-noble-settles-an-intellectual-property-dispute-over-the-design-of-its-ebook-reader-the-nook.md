@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/03/2/barnes-noble-settles-an-intellectual-property-dispute-over-the-design-of-its-ebook-reader-the-nook.html)  [JSON](/news/2011/03/2/barnes-noble-settles-an-intellectual-property-dispute-over-the-design-of-its-ebook-reader-the-nook.json)  [XML](/news/2011/03/2/barnes-noble-settles-an-intellectual-property-dispute-over-the-design-of-its-ebook-reader-the-nook.xml)  
+
 ### [2011-03-2](/news/2011/03/2/index.md)
 
+##### Barnes & Noble
 # Barnes & Noble settles an intellectual property dispute over the design of its ebook reader, the Nook. 
 
 Barnes &amp; Noble Inc (BKS.N) has settled a lawsuit brought against it by Spring Design, which had accused the top U.S. bookseller of illegally copying a screen design for its popular Nook electronic book reader.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/03/02/us-barnesandnoble-idUSTRE7213KI20110302)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110302&t=2&i=351114952&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-02T203437Z_01_BTRE7211L5S00_RTROPTP_0_USA)
+1. [Reuters](https://www.reuters.com/article/2011/03/02/us-barnesandnoble-idUSTRE7213KI20110302)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20110302&t=2&i=351114952&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-02T203437Z_01_BTRE7211L5S00_RTROPTP_0_USA)
 
 ### Related:
 

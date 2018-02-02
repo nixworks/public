@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/3/in-a-special-session-of-parliament-montenegro-declares-its-independence-from-the-state-union-of-serbia-and-montenegro.html)  [JSON](/news/2006/06/3/in-a-special-session-of-parliament-montenegro-declares-its-independence-from-the-state-union-of-serbia-and-montenegro.json)  [XML](/news/2006/06/3/in-a-special-session-of-parliament-montenegro-declares-its-independence-from-the-state-union-of-serbia-and-montenegro.xml)  
+
 ### [2006-06-3](/news/2006/06/3/index.md)
 
+##### Montenegro
 #  In a special session of parliament, Montenegro declares its independence from the State Union of Serbia and Montenegro. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.chron.com/disp/story.mpl/ap/world/3924784.html)
 

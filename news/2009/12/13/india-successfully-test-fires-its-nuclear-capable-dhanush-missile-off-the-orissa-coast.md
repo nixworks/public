@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/13/india-successfully-test-fires-its-nuclear-capable-dhanush-missile-off-the-orissa-coast.html)  [JSON](/news/2009/12/13/india-successfully-test-fires-its-nuclear-capable-dhanush-missile-off-the-orissa-coast.json)  [XML](/news/2009/12/13/india-successfully-test-fires-its-nuclear-capable-dhanush-missile-off-the-orissa-coast.xml)  
+
 ### [2009-12-13](/news/2009/12/13/index.md)
 
+##### India
 #  India successfully test fires its nuclear-capable "Dhanush" missile off the Orissa coast. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/world/2009-12/13/content_9167259.htm)
 2. [Press Trust of India](http://www.ptinews.com/news/421116_-Dhanush--missile-successfully-test-fired-in-Balasore)

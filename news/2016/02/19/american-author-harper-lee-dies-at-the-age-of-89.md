@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/19/american-author-harper-lee-dies-at-the-age-of-8
 
 ### [2016-02-19](/news/2016/02/19/index.md)
 
+##### Harper Lee
 # American author Harper Lee dies at the age of 89. 
 
 American novelist Harper Lee, author of Pulitzer Prize-winning To Kill a Mockingbird, dies aged 89.
@@ -15,7 +16,7 @@ American novelist Harper Lee, author of Pulitzer Prize-winning To Kill a Mocking
 
 ### Changes:
 
-1. [Italian author and philosopher Umberto Eco dies at the age of 84. ](/news/2016/02/19/italian-author-and-philosopher-umberto-eco-dies-at-the-age-of-84.md) _2017-10-17 03:51:51 (First version)_
+1. [Italian author and philosopher Umberto Eco dies at the age of 84. ](/news/2016/02/19/italian-author-and-philosopher-umberto-eco-dies-at-the-age-of-84.md) _2017-12-03 22:30:10 (First version)_
 1. [American author Harper Lee dies at the age of 89. ](/news/2016/02/19/american-author-harper-lee-dies-at-the-age-of-89.md) _(Current version)_
 
 ### Related:

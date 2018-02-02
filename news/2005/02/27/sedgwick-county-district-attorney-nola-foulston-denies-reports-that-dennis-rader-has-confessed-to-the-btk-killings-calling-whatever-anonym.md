@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/27/sedgwick-county-district-attorney-nola-foulston-denies-reports-that-dennis-rader-has-confessed-to-the-btk-killings-calling-whatever-anonym.html)  [JSON](/news/2005/02/27/sedgwick-county-district-attorney-nola-foulston-denies-reports-that-dennis-rader-has-confessed-to-the-btk-killings-calling-whatever-anonym.json)  [XML](/news/2005/02/27/sedgwick-county-district-attorney-nola-foulston-denies-reports-that-dennis-rader-has-confessed-to-the-btk-killings-calling-whatever-anonym.xml)  
+
 ### [2005-02-27](/news/2005/02/27/index.md)
 
+##### Sedgwick County
 #  Sedgwick County District Attorney Nola Foulston denies reports that Dennis Rader has confessed to the BTK killings, calling whatever anonymous source the Associated Press has cited "unreliable." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wichita Eagle](http://www.kansas.com/mld/kansas/11009169.htm)
 

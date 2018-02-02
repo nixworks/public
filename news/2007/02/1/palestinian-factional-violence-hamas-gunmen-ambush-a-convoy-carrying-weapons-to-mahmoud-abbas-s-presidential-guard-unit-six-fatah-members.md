@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/1/palestinian-factional-violence-hamas-gunmen-ambush-a-convoy-carrying-weapons-to-mahmoud-abbas-s-presidential-guard-unit-six-fatah-members.html)  [JSON](/news/2007/02/1/palestinian-factional-violence-hamas-gunmen-ambush-a-convoy-carrying-weapons-to-mahmoud-abbas-s-presidential-guard-unit-six-fatah-members.json)  [XML](/news/2007/02/1/palestinian-factional-violence-hamas-gunmen-ambush-a-convoy-carrying-weapons-to-mahmoud-abbas-s-presidential-guard-unit-six-fatah-members.xml)  
+
 ### [2007-02-1](/news/2007/02/1/index.md)
 
+##### clashes
 #  Palestinian factional violence: Hamas gunmen ambush a convoy carrying weapons to Mahmoud Abbas's presidential guard unit. Six Fatah members are killed, more than 70 people are wounded and 12 others are kidnapped in ensuing battles. 
 
 (VIDEO) Four-truck convoy making its way from Israel to President Abbas&#39; presidential guard unit in Gaza ambushed by Hamas gunmen; six Fatah members killed, more than 70 people wounded in ensuing gun battles; ‘a real war is taking place,’ witness says 
 
 
-### Source:
+### Sources:
 
 1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3359880,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

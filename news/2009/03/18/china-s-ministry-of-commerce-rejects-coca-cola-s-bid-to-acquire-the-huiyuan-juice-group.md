@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/18/china-s-ministry-of-commerce-rejects-coca-cola-s-bid-to-acquire-the-huiyuan-juice-group.html)  [JSON](/news/2009/03/18/china-s-ministry-of-commerce-rejects-coca-cola-s-bid-to-acquire-the-huiyuan-juice-group.json)  [XML](/news/2009/03/18/china-s-ministry-of-commerce-rejects-coca-cola-s-bid-to-acquire-the-huiyuan-juice-group.xml)  
+
 ### [2009-03-18](/news/2009/03/18/index.md)
 
+##### China
 #  China's Ministry of Commerce rejects Coca-Cola's bid to acquire the Huiyuan Juice Group. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua News](http://news.xinhuanet.com/english/2009-03/18/content_11031482.htm)
 

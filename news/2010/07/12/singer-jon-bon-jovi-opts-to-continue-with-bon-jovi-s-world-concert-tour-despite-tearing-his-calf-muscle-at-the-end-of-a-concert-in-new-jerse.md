@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/12/singer-jon-bon-jovi-opts-to-continue-with-bon-jovi-s-world-concert-tour-despite-tearing-his-calf-muscle-at-the-end-of-a-concert-in-new-jerse.html)  [JSON](/news/2010/07/12/singer-jon-bon-jovi-opts-to-continue-with-bon-jovi-s-world-concert-tour-despite-tearing-his-calf-muscle-at-the-end-of-a-concert-in-new-jerse.json)  [XML](/news/2010/07/12/singer-jon-bon-jovi-opts-to-continue-with-bon-jovi-s-world-concert-tour-despite-tearing-his-calf-muscle-at-the-end-of-a-concert-in-new-jerse.xml)  
+
 ### [2010-07-12](/news/2010/07/12/index.md)
 
+##### Jon Bon Jovi
 # Singer Jon Bon Jovi opts to continue with Bon Jovi's world concert tour despite tearing his calf muscle at the end of a concert in New Jersey. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/idINIndia-50067620100712)
 1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100712&t=2&i=152829628&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2010-07-13T000358Z_01_NOOTR_RTRMDNC_0_India-500676-1)

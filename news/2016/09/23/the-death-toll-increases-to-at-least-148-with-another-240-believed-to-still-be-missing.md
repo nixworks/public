@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/23/the-death-toll-increases-to-at-least-148-with-a
 
 ### [2016-09-23](/news/2016/09/23/index.md)
 
+##### 2016 Egypt migrant shipwreck
 # The death toll increases to at least 148 with another 240 believed to still be missing. 
 
 Officials say bodies of 162 people have been pulled from the Mediterranean, amid fears death toll could rise further.

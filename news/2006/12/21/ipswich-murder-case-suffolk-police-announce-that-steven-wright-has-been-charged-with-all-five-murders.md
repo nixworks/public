@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/21/ipswich-murder-case-suffolk-police-announce-that-steven-wright-has-been-charged-with-all-five-murders.html)  [JSON](/news/2006/12/21/ipswich-murder-case-suffolk-police-announce-that-steven-wright-has-been-charged-with-all-five-murders.json)  [XML](/news/2006/12/21/ipswich-murder-case-suffolk-police-announce-that-steven-wright-has-been-charged-with-all-five-murders.xml)  
+
 ### [2006-12-21](/news/2006/12/21/index.md)
 
+##### Ipswich murder case
 #  Ipswich murder case: Suffolk police announce that Steven Wright has been charged with all five murders. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Suffolk Constabulary statement](http://www.suffolk.police.uk/News+And+Appeals/News/CPS+Authorises+Suffolk+Police+To+Charge+Steven+Wright+With+The+Murders+Of+Five+Women.htm)
 

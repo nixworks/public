@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/11/7/three-leftist-parties-announce-their-ability-to-form-a-government-making-it-likely-that-pedro-passos-coelho-will-no-longer-be-prime-minist.html)  [JSON](/news/2015/11/7/three-leftist-parties-announce-their-ability-to-form-a-government-making-it-likely-that-pedro-passos-coelho-will-no-longer-be-prime-minist.json)  [XML](/news/2015/11/7/three-leftist-parties-announce-their-ability-to-form-a-government-making-it-likely-that-pedro-passos-coelho-will-no-longer-be-prime-minist.xml)  
+
 ### [2015-11-7](/news/2015/11/7/index.md)
 
+##### Portuguese legislative election, 2015
 #  Three leftist parties announce their ability to form a government, making it likely that Pedro Passos Coelho will no longer be Prime Minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-34754872)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/6CB2/production/_86562872_029592802.jpg)
+
+### Changes:
+
+1. [Portuguese legislative election, 2015: Three leftist parties announce their ability to form a government, making it likely that Pedro Passos Coelho will no longer be Prime Minister. ](/news/2015/11/7/portuguese-legislative-election-2015-three-leftist-parties-announce-their-ability-to-form-a-government-making-it-likely-that-pedro-passos.md) _2017-08-27 03:43:44 (First version)_
+1. [ Three leftist parties announce their ability to form a government, making it likely that Pedro Passos Coelho will no longer be Prime Minister. ](/news/2015/11/7/three-leftist-parties-announce-their-ability-to-form-a-government-making-it-likely-that-pedro-passos-coelho-will-no-longer-be-prime-minist.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [Former Prime Minister of Portugal Antonio Guterres is sworn in as the new United Nations Secretary General. ](/news/2016/12/12/former-prime-minister-of-portugal-anta3nio-guterres-is-sworn-in-as-the-new-united-nations-secretary-general.md) _Context: Prime Minister of Portugal_
 4. [The United Nations General Assembly officially appoints former Portuguese Prime Minister Antonio Guterres its next Secretary-General. ](/news/2016/10/13/the-united-nations-general-assembly-officially-appoints-former-portuguese-prime-minister-anta3nio-guterres-its-next-secretary-general.md) _Context: Prime Minister of Portugal_
 5. [Antonio Costa, the leader of the Socialist Party, is named as the Prime Minister of Portugal. ](/news/2015/11/24/anta3nio-costa-the-leader-of-the-socialist-party-is-named-as-the-prime-minister-of-portugal.md) _Context: Prime Minister of Portugal_
-
-### Changes:
-
-1. [Portuguese legislative election, 2015: Three leftist parties announce their ability to form a government, making it likely that Pedro Passos Coelho will no longer be Prime Minister. ](/news/2015/11/7/portuguese-legislative-election-2015-three-leftist-parties-announce-their-ability-to-form-a-government-making-it-likely-that-pedro-passos.md) _2017-08-27 03:43:44 (First version)_
-1. [ Three leftist parties announce their ability to form a government, making it likely that Pedro Passos Coelho will no longer be Prime Minister. ](/news/2015/11/7/three-leftist-parties-announce-their-ability-to-form-a-government-making-it-likely-that-pedro-passos-coelho-will-no-longer-be-prime-minist.md) _(Current version)_

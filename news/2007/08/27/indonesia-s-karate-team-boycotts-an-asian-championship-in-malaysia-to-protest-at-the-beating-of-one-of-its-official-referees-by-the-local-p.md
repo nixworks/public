@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/08/27/indonesia-s-karate-team-boycotts-an-asian-championship-in-malaysia-to-protest-at-the-beating-of-one-of-its-official-referees-by-the-local-p.html)  [JSON](/news/2007/08/27/indonesia-s-karate-team-boycotts-an-asian-championship-in-malaysia-to-protest-at-the-beating-of-one-of-its-official-referees-by-the-local-p.json)  [XML](/news/2007/08/27/indonesia-s-karate-team-boycotts-an-asian-championship-in-malaysia-to-protest-at-the-beating-of-one-of-its-official-referees-by-the-local-p.xml)  
+
 ### [2007-08-27](/news/2007/08/27/index.md)
 
+##### Indonesia
 #  Indonesia's karate team boycotts an Asian championship in Malaysia to protest at the beating of one of its official referees by the local police. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20070827/sp_wl_afp/karateindonesiamalaysiainamas_070827060822)
+1. [AFP via Yahoo! News](https://news.yahoo.com/s/afp/20070827/sp_wl_afp/karateindonesiamalaysiainamas_070827060822)
 
 ### Related:
 

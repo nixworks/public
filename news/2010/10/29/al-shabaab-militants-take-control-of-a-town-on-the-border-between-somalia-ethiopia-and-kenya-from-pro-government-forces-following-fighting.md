@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/29/al-shabaab-militants-take-control-of-a-town-on-the-border-between-somalia-ethiopia-and-kenya-from-pro-government-forces-following-fighting.html)  [JSON](/news/2010/10/29/al-shabaab-militants-take-control-of-a-town-on-the-border-between-somalia-ethiopia-and-kenya-from-pro-government-forces-following-fighting.json)  [XML](/news/2010/10/29/al-shabaab-militants-take-control-of-a-town-on-the-border-between-somalia-ethiopia-and-kenya-from-pro-government-forces-following-fighting.xml)  
+
 ### [2010-10-29](/news/2010/10/29/index.md)
 
+##### Al-Shabaab
 # Al-Shabaab militants take control of a town on the border between Somalia, Ethiopia and Kenya from pro-government forces, following fighting that displaced 60,000 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AHN](http://www.allheadlinenews.com/articles/7020371600?Somalia%20Government%20Forces%20Desert%20Key%20Border%20Town%20In%20Southern%20Somalia)
 

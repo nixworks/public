@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/4/saddam-hussein-aims-to-sue-tony-blair-and-george-w-bush-for-crimes-against-iraq.html)  [JSON](/news/2006/02/4/saddam-hussein-aims-to-sue-tony-blair-and-george-w-bush-for-crimes-against-iraq.json)  [XML](/news/2006/02/4/saddam-hussein-aims-to-sue-tony-blair-and-george-w-bush-for-crimes-against-iraq.xml)  
+
 ### [2006-02-4](/news/2006/02/4/index.md)
 
+##### Saddam Hussein
 #  Saddam Hussein aims to sue Tony Blair and George W. Bush for crimes against Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Scotsman](http://news.scotsman.com/latest.cfm?id=130152006)
 

@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2012/03/24/the-sunday-times-releases-a-video-showing-british-conservative-party-co-treasurer-peter-cruddas-allegedly-offering-undercover-reporters-ac.html)  [JSON](/news/2012/03/24/the-sunday-times-releases-a-video-showing-british-conservative-party-co-treasurer-peter-cruddas-allegedly-offering-undercover-reporters-ac.json)  [XML](/news/2012/03/24/the-sunday-times-releases-a-video-showing-british-conservative-party-co-treasurer-peter-cruddas-allegedly-offering-undercover-reporters-ac.xml)  
+
 ### [2012-03-24](/news/2012/03/24/index.md)
 
+##### The Sunday Times
 # "The Sunday Times" releases a video showing British Conservative Party co-treasurer Peter Cruddas allegedly offering undercover reporters access to UK Prime Minister David Cameron for GBP250,000. 
 
 The Sunday Times says it has film footage of Tory Party co-treasurer Peter Cruddas offering access to the prime minister for payments up to £250,000.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-17501618)
 2. [Sky News](http://news.sky.com/home/politics/article/16195702)
 2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59286000/jpg/_59286484_014346882-1.jpg)
+
+### Changes:
+
+1. [''The Sunday Times'' releases a video showing British Conservative Party co-treasurer Peter Cruddas allegedly offering undercover reporters access to UK Prime Minister David Cameron for 250,000. ](/news/2012/03/24/the-sunday-times-releases-a-video-showing-british-conservative-party-co-treasurer-peter-cruddas-allegedly-offering-undercover-reporters.md) _2017-08-25 03:35:21 (First version)_
+1. ["The Sunday Times" releases a video showing British Conservative Party co-treasurer Peter Cruddas allegedly offering undercover reporters access to UK Prime Minister David Cameron for GBP250,000. ](/news/2012/03/24/the-sunday-times-releases-a-video-showing-british-conservative-party-co-treasurer-peter-cruddas-allegedly-offering-undercover-reporters-ac.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ The Sunday Times says it has film footage of Tory Party co-treasurer Peter Crudd
 3. [The process to elect a new leader of the Conservative Party to replace outgoing Prime Minister David Cameron begins in the United Kingdom. The Secretary of State for Work and Pensions Stephen Crabb is the first Conservative Party politician to announce his official candidacy for leader. ](/news/2016/06/29/the-process-to-elect-a-new-leader-of-the-conservative-party-to-replace-outgoing-prime-minister-david-cameron-begins-in-the-united-kingdom-t.md) _Context: Conservative Party, David Cameron_
 4. [Labour deputy leader Tom Watson demands party leader Jeremy Corbyn, who opposes PM David Cameron's (Conservative) proposed air strikes on Syria, to ensure MPs are given a free vote on the proposal this Tuesday. ](/news/2015/11/29/labour-deputy-leader-tom-watson-demands-party-leader-jeremy-corbyn-who-opposes-pm-david-cameron-s-conservative-proposed-air-strikes-on-sy.md) _Context: Conservative Party, David Cameron_
 5. [British Prime Minister David Cameron says he will "win people back" after his party, the Conservatives came third in the Eastleigh by-election behind the Liberal Democrats and UK Independence Party. ](/news/2013/03/1/british-prime-minister-david-cameron-says-he-will-win-people-back-after-his-party-the-conservatives-came-third-in-the-eastleigh-by-electi.md) _Context: Conservative Party, David Cameron_
-
-### Changes:
-
-1. [''The Sunday Times'' releases a video showing British Conservative Party co-treasurer Peter Cruddas allegedly offering undercover reporters access to UK Prime Minister David Cameron for 250,000. ](/news/2012/03/24/the-sunday-times-releases-a-video-showing-british-conservative-party-co-treasurer-peter-cruddas-allegedly-offering-undercover-reporters.md) _2017-08-25 03:35:21 (First version)_
-1. ["The Sunday Times" releases a video showing British Conservative Party co-treasurer Peter Cruddas allegedly offering undercover reporters access to UK Prime Minister David Cameron for GBP250,000. ](/news/2012/03/24/the-sunday-times-releases-a-video-showing-british-conservative-party-co-treasurer-peter-cruddas-allegedly-offering-undercover-reporters-ac.md) _(Current version)_

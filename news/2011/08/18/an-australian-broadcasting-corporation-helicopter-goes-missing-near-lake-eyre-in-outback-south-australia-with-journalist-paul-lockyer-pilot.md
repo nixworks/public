@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/18/an-australian-broadcasting-corporation-helicopter-goes-missing-near-lake-eyre-in-outback-south-australia-with-journalist-paul-lockyer-pilot.html)  [JSON](/news/2011/08/18/an-australian-broadcasting-corporation-helicopter-goes-missing-near-lake-eyre-in-outback-south-australia-with-journalist-paul-lockyer-pilot.json)  [XML](/news/2011/08/18/an-australian-broadcasting-corporation-helicopter-goes-missing-near-lake-eyre-in-outback-south-australia-with-journalist-paul-lockyer-pilot.xml)  
+
 ### [2011-08-18](/news/2011/08/18/index.md)
 
+##### Australian Broadcasting Corporation
 # An Australian Broadcasting Corporation helicopter goes missing near Lake Eyre in outback South Australia with journalist Paul Lockyer, pilot Gary Ticehurst and cameraman John Bean feared dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''Melbourne Herald Sun](http://www.heraldsun.com.au/news/breaking-news/abc-journalist-paul-lockyer-great-storyteller-true-gent/story-e6frf7jx-1226118021867)
 

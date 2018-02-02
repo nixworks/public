@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/21/novelist-playwright-and-short-story-writer-will
 
 ### [2016-11-21](/news/2016/11/21/index.md)
 
+##### William Trevor
 # Novelist, playwright and short story writer William Trevor dies in Devon, England. 
 
 Irish by birth and upbringing but a longtime resident of Britain, Mr. Trevor focused his mournful, darkly funny short stories and novels on “the sadness of fate.”

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/23/dominican-republic-authorities-arrest-35-people-including-military-police-and-custom-officials-in-a-drugs-bust.html)  [JSON](/news/2013/03/23/dominican-republic-authorities-arrest-35-people-including-military-police-and-custom-officials-in-a-drugs-bust.json)  [XML](/news/2013/03/23/dominican-republic-authorities-arrest-35-people-including-military-police-and-custom-officials-in-a-drugs-bust.xml)  
+
 ### [2013-03-23](/news/2013/03/23/index.md)
 
+##### Dominican Republic
 # Dominican Republic authorities arrest 35 people including military, police, and custom officials in a drugs bust. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.co.uk/2013/03/21/world/americas/dominican-republic-drug-arrests)
 

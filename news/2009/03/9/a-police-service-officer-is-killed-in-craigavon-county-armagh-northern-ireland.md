@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2009/03/9/a-police-service-officer-is-killed-in-craigavon-county-armagh-northern-ireland.html)  [JSON](/news/2009/03/9/a-police-service-officer-is-killed-in-craigavon-county-armagh-northern-ireland.json)  [XML](/news/2009/03/9/a-police-service-officer-is-killed-in-craigavon-county-armagh-northern-ireland.xml)  
+
 ### [2009-03-9](/news/2009/03/9/index.md)
 
+##### Police Service of Northern Ireland
 #  A Police Service officer is killed in Craigavon, County Armagh, Northern Ireland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2009/WORLD/europe/03/09/northern.ireland.violence/index.html?eref=rss_topstories)
 
 ### Related:
 
-1. [ Northern Ireland's Police Service arrests two men in Craigavon for murdering an officer. ](/news/2009/03/10/northern-ireland-s-police-service-arrests-two-men-in-craigavon-for-murdering-an-officer.md) _Context: Craigavon, Northern Ireland, Police Service of Northern Ireland, police officer_
+1. [ Northern Ireland's Police Service arrests two men in Craigavon for murdering an officer. ](/news/2009/03/10/northern-ireland-s-police-service-arrests-two-men-in-craigavon-for-murdering-an-officer.md) _Context: Craigavon, Northern Ireland, Police Service of Northern Ireland, officer_
 2. [Police Service of Northern Ireland received a phone call in the early hours allegedly from a dissident republican group claiming to have planted an explosive in a Curryneirin neighborhood outside Derry, Northern Ireland. Police evacuated 12 homes before finding a device, describing it as "'It's a bomb and designed to kill".](/news/2015/02/17/police-service-of-northern-ireland-received-a-phone-call-in-the-early-hours-allegedly-from-a-dissident-republican-group-claiming-to-have-pla.md) _Context: Northern Ireland, Police Service of Northern Ireland_
 3. [Three Northern Ireland police officers are injured after a bomb is thrown at them while investigating a robbery in West Belfast. ](/news/2010/11/6/three-northern-ireland-police-officers-are-injured-after-a-bomb-is-thrown-at-them-while-investigating-a-robbery-in-west-belfast.md) _Context: Northern Ireland, Police Service of Northern Ireland_
 4. [A car bomb explodes outside a police station in Newtownhamilton, County Armagh, Northern Ireland. ](/news/2010/04/23/a-car-bomb-explodes-outside-a-police-station-in-newtownhamilton-county-armagh-northern-ireland.md) _Context: County Armagh, Northern Ireland_

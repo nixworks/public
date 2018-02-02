@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/7/a-five-story-apartment-block-collapses-in-the-to
 
 ### [2017-07-7](/news/2017/07/7/index.md)
 
+##### Torre Annunziata
 # A five-story apartment block collapses in the town of Torre Annunziata near the Italian city of Naples, with six or seven people trapped inside. So far, three have been found dead. 
 
 

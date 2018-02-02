@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/5/in-indonesia-an-earthquake-ranking-from-6-0-6-7-on-the-richter-scale-hits-sumatra-no-reports-on-any-damage-have-yet-been-released.html)  [JSON](/news/2005/07/5/in-indonesia-an-earthquake-ranking-from-6-0-6-7-on-the-richter-scale-hits-sumatra-no-reports-on-any-damage-have-yet-been-released.json)  [XML](/news/2005/07/5/in-indonesia-an-earthquake-ranking-from-6-0-6-7-on-the-richter-scale-hits-sumatra-no-reports-on-any-damage-have-yet-been-released.xml)  
+
 ### [2005-07-5](/news/2005/07/5/index.md)
 
+##### Indonesia
 #  In Indonesia, an earthquake ranking from 6.0-6.7 on the Richter scale hits Sumatra. No reports on any damage have yet been released. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/156177/1/.html)
 2. [Malaysian Star](http://thestar.com.my/news/story.asp?file=/2005/7/5/nation/20050705123233&sec=nation)

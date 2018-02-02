@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/2/seven-people-are-killed-and-13-are-injured-after
 
 ### [2017-09-2](/news/2017/09/2/index.md)
 
+##### Iraqi Civil War
 # Seven people are killed and 13 are injured after suicide bombers hit a state-run power station near the northern city of Samarra, Iraq. The Islamic State of Iraq and the Levant claims responsibility for the attack. 
 
 Suicide bombers struck a state-run power station north of Baghdad early on Saturday, killing seven people and forcing the facility to shut down in an attack claimed by Islamic State, police and army sources said.

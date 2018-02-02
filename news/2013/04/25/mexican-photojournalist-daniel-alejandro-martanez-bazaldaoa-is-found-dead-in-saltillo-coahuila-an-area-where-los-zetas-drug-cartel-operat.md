@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/25/mexican-photojournalist-daniel-alejandro-martanez-bazaldaoa-is-found-dead-in-saltillo-coahuila-an-area-where-los-zetas-drug-cartel-operat.html)  [JSON](/news/2013/04/25/mexican-photojournalist-daniel-alejandro-martanez-bazaldaoa-is-found-dead-in-saltillo-coahuila-an-area-where-los-zetas-drug-cartel-operat.json)  [XML](/news/2013/04/25/mexican-photojournalist-daniel-alejandro-martanez-bazaldaoa-is-found-dead-in-saltillo-coahuila-an-area-where-los-zetas-drug-cartel-operat.xml)  
+
 ### [2013-04-25](/news/2013/04/25/index.md)
 
+##### Mexican
 # Mexican photojournalist Daniel Alejandro Martinez Bazaldua is found dead in Saltillo, Coahuila, an area where Los Zetas drug cartel operates. With his death, Mexico consolidates itself as one of the most dangerous countries for journalists, where more than 80 have been killed since 2000. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Huffington Post](http://www.huffingtonpost.com/2013/04/25/daniel-martinez-bazaldua-_n_3156697.html?utm_hp_ref=media)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/7/scientists-at-ucla-use-a-pyroelectric-crystal-heated-from-34-4-to-7-2-degrees-celsius-to-produce-an-electric-field-of-about-100-000-volts.html)  [JSON](/news/2005/06/7/scientists-at-ucla-use-a-pyroelectric-crystal-heated-from-34-4-to-7-2-degrees-celsius-to-produce-an-electric-field-of-about-100-000-volts.json)  [XML](/news/2005/06/7/scientists-at-ucla-use-a-pyroelectric-crystal-heated-from-34-4-to-7-2-degrees-celsius-to-produce-an-electric-field-of-about-100-000-volts.xml)  
+
 ### [2005-06-7](/news/2005/06/7/index.md)
 
+##### UCLA
 #  Scientists at UCLA use a pyroelectric crystal heated from -34.4 to 7.2 degrees Celsius to produce an electric field of about 100,000 volts, accelerating hydrogen nuclei and producing helium nuclei in the subsequent collisions. This cold fusion experiment has been repeated successfully, and other scientists have confirmed the results. 
 
 The Christian Science Monitor is an international news organization that delivers thoughtful, global coverage via its website, weekly magazine, daily news briefing, and email newsletters.
 
 
-### Source:
+### Sources:
 
 1. [CSMonitor](http://www.christiansciencemonitor.com/2005/0606/p25s01-stss.html)
 2. [MSNBC](http://msnbc.msn.com/id/7654627)

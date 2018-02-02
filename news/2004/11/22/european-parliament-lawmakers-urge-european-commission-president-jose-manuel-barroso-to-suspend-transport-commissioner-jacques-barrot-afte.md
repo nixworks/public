@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/22/european-parliament-lawmakers-urge-european-commission-president-jose-manuel-barroso-to-suspend-transport-commissioner-jacques-barrot-afte.html)  [JSON](/news/2004/11/22/european-parliament-lawmakers-urge-european-commission-president-jose-manuel-barroso-to-suspend-transport-commissioner-jacques-barrot-afte.json)  [XML](/news/2004/11/22/european-parliament-lawmakers-urge-european-commission-president-jose-manuel-barroso-to-suspend-transport-commissioner-jacques-barrot-afte.xml)  
+
 ### [2004-11-22](/news/2004/11/22/index.md)
 
+##### European Parliament
 #  European Parliament lawmakers urge European Commission president Jos Manuel Barroso to suspend Transport Commissioner Jacques Barrot, after it was revealed that Barrot was involved in a party funding scandal in 2000. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2004/WORLD/europe/11/22/eu.commission.ap/index.html)
 

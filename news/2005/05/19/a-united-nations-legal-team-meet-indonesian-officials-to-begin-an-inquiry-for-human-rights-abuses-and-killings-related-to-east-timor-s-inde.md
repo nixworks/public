@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2005/05/19/a-united-nations-legal-team-meet-indonesian-officials-to-begin-an-inquiry-for-human-rights-abuses-and-killings-related-to-east-timor-s-inde.html)  [JSON](/news/2005/05/19/a-united-nations-legal-team-meet-indonesian-officials-to-begin-an-inquiry-for-human-rights-abuses-and-killings-related-to-east-timor-s-inde.json)  [XML](/news/2005/05/19/a-united-nations-legal-team-meet-indonesian-officials-to-begin-an-inquiry-for-human-rights-abuses-and-killings-related-to-east-timor-s-inde.xml)  
+
 ### [2005-05-19](/news/2005/05/19/index.md)
 
+##### United Nations
 #  A United Nations legal team meet Indonesian officials to begin an inquiry for human rights abuses and killings related to East Timor's independence in 1999. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [Jakarta Post](http://www.thejakartapost.com/detailheadlines.asp?fileid=20050520.B11&irec=10)
 2. [Laksamana](http://www.laksamana.net/vnews.cfm?ncat=45&news_id=8154)
 3. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/MHII-6CJ8ZX?OpenDocument)
-4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8540771)
-4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+4. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8540771)
+4. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

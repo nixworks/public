@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/19/ukraine-s-parliament-the-verkhovna-rada-decides
 
 ### [2016-05-19](/news/2016/05/19/index.md)
 
+##### Ukraine
 # Ukraine's Parliament, the "Verkhovna Rada", decides that the country's third largest city, Dnipropetrovsk, be renamed Dnipro as part of the decommunization drive. 
 
 

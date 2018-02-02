@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/19/nine-cuban-migrants-die-and-18-others-are-rescu
 
 ### [2016-03-19](/news/2016/03/19/index.md)
 
+##### Cuba
 # Nine Cuban migrants die and 18 others are rescued by the Royal Caribbean's "Brilliance of the Seas" cruise ship in the Gulf of Mexico, 130 miles west of Marco Island, Florida. The group had been sailing for 22 days in a 30-foot long "rustic" boat. The survivors were severely dehydrated and in poor condition. Those who had died were buried at sea. The cruise ship is taking the migrants to its next stop, the Mexican island of Cozumel. 
 
 The rescue comes as President Obama pepares to travel to Cuba for a visit that begins Sunday.

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/06/22/the-senate-votes-to-impeach-the-president-of-paraguay-fernando-lugo-with-former-vice-president-federico-franco-sworn-in-as-the-new-president.html)  [JSON](/news/2012/06/22/the-senate-votes-to-impeach-the-president-of-paraguay-fernando-lugo-with-former-vice-president-federico-franco-sworn-in-as-the-new-president.json)  [XML](/news/2012/06/22/the-senate-votes-to-impeach-the-president-of-paraguay-fernando-lugo-with-former-vice-president-federico-franco-sworn-in-as-the-new-president.xml)  
+
 ### [2012-06-22](/news/2012/06/22/index.md)
 
+##### Senate
 # The Senate votes to impeach the President of Paraguay Fernando Lugo with former Vice President Federico Franco sworn in as the new president. 
 
 Paraguay&#x27;s Senate removed President Fernando Lugo from office in a rapid impeachment trial on Friday, and the leftist former priest said he was stepping aside even though he considered his ouster a blow to democracy.
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo News](http://news.yahoo.com/paraguays-president-ousted-impeachment-trial-230006395.html)
+1. [AP via Yahoo News](https://news.yahoo.com/paraguays-president-ousted-impeachment-trial-230006395.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-18553813)
 2. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 

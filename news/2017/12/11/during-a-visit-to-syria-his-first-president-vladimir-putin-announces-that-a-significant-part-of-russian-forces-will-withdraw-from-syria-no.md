@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/11/during-a-visit-to-syria-his-first-president-vla
 
 ### [2017-12-11](/news/2017/12/11/index.md)
 
+##### Russian military intervention in the Syrian Civil War
 # During a visit to Syria, his first, President Vladimir Putin announces that a significant part of Russian forces will withdraw from Syria now that ISIL has been defeated in the country. 
 
 Russia begins withdrawing some of its troops from Syria, as President Putin visits the country.

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/12/27/the-french-space-agency-cnes-spacecraft-corot-was-successfully-launched-in-baikonur-cosmodrome-in-kazakhstan-at-14-28-utc-gmt-4-to-sear.html)  [JSON](/news/2006/12/27/the-french-space-agency-cnes-spacecraft-corot-was-successfully-launched-in-baikonur-cosmodrome-in-kazakhstan-at-14-28-utc-gmt-4-to-sear.json)  [XML](/news/2006/12/27/the-french-space-agency-cnes-spacecraft-corot-was-successfully-launched-in-baikonur-cosmodrome-in-kazakhstan-at-14-28-utc-gmt-4-to-sear.xml)  
+
 ### [2006-12-27](/news/2006/12/27/index.md)
 
+##### French Space Agency
 #  The French Space Agency (CNES) spacecraft COROT was successfully launched in Baikonur Cosmodrome in Kazakhstan at 14:28 UTC (GMT+4) to search for extrasolar planets.
 
 

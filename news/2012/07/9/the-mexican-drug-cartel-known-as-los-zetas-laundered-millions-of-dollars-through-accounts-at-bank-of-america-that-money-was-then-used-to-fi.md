@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/9/the-mexican-drug-cartel-known-as-los-zetas-laundered-millions-of-dollars-through-accounts-at-bank-of-america-that-money-was-then-used-to-fi.html)  [JSON](/news/2012/07/9/the-mexican-drug-cartel-known-as-los-zetas-laundered-millions-of-dollars-through-accounts-at-bank-of-america-that-money-was-then-used-to-fi.json)  [XML](/news/2012/07/9/the-mexican-drug-cartel-known-as-los-zetas-laundered-millions-of-dollars-through-accounts-at-bank-of-america-that-money-was-then-used-to-fi.xml)  
+
 ### [2012-07-9](/news/2012/07/9/index.md)
 
+##### drug cartel
 # The Mexican drug cartel known as Los Zetas laundered millions of dollars through accounts at Bank of America; that money was then used to finance a horse racing business in the United States, allegedly ran by Jose Trevino Morales. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Huffington Post](http://www.huffingtonpost.com/2012/07/09/los-zetas-laundered-money-bank-america_n_1658943.html)
 

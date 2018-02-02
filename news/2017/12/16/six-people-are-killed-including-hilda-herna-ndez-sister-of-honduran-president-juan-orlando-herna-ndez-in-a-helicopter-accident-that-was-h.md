@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/16/six-people-are-killed-including-hilda-herna-nde
 
 ### [2017-12-16](/news/2017/12/16/index.md)
 
+##### Honduras
 # Six people are killed, including Hilda Hernandez, sister of Honduran President Juan Orlando Hernandez, in a helicopter accident that was headed to Comayagua from Toncontin International Airport in Tegucigalpa. 
 
 The sister of Honduran President Juan Orlando Hernandez and five others died when the helicopter they were traveling in crashed on Saturday, the Honduran military said.

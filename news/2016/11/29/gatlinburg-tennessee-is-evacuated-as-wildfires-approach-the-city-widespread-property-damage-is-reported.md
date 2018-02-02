@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/29/gatlinburg-tennessee-is-evacuated-as-wildfires-
 
 ### [2016-11-29](/news/2016/11/29/index.md)
 
+##### Gatlinburg, Tennessee
 # Gatlinburg, Tennessee, is evacuated as wildfires approach the city. Widespread property damage is reported. 
 
 Multiple deaths were reported in the fire in and around Great Smoky Mountains National Park, and &ldquo;in excess of 150&quot; buildings have been destroyed, officials said.

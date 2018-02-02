@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/16/after-more-than-200-years-mozart-s-and-salieri-
 
 ### [2016-02-16](/news/2016/02/16/index.md)
 
+##### Mozart's
 # After more than 200 years, Mozart's and Salieri's lost cantata "Per la ricuperata salute di Ofelia" is discovered in Prague. 
 
 A long-lost composition by Wolfgang Amadeus Mozart and Antonio Salieri was performed for the first time on Tuesday after a musicologist discovered the piece in the reserve collection of the Czech national music museum.

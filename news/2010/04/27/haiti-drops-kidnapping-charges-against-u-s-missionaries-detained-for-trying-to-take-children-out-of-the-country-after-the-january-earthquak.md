@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/04/27/haiti-drops-kidnapping-charges-against-u-s-missionaries-detained-for-trying-to-take-children-out-of-the-country-after-the-january-earthquak.html)  [JSON](/news/2010/04/27/haiti-drops-kidnapping-charges-against-u-s-missionaries-detained-for-trying-to-take-children-out-of-the-country-after-the-january-earthquak.json)  [XML](/news/2010/04/27/haiti-drops-kidnapping-charges-against-u-s-missionaries-detained-for-trying-to-take-children-out-of-the-country-after-the-january-earthquak.xml)  
+
 ### [2010-04-27](/news/2010/04/27/index.md)
 
+##### Haiti
 # Haiti drops kidnapping charges against U.S. missionaries detained for trying to take children out of the country after the January earthquake. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/news/world/2010-04-27-haiti-us-missionaries_N.htm)
+1. [USA Today](https://www.usatoday.com/news/world/2010-04-27-haiti-us-missionaries_N.htm)
 
 ### Related:
 

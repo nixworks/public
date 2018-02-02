@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/1/the-palestinian-authority-arrests-a-palestinian-man-who-had-been-shooting-in-the-air-on-suspicion-that-he-had-killed-a-palestinian-girl-th.html)  [JSON](/news/2005/02/1/the-palestinian-authority-arrests-a-palestinian-man-who-had-been-shooting-in-the-air-on-suspicion-that-he-had-killed-a-palestinian-girl-th.json)  [XML](/news/2005/02/1/the-palestinian-authority-arrests-a-palestinian-man-who-had-been-shooting-in-the-air-on-suspicion-that-he-had-killed-a-palestinian-girl-th.xml)  
+
 ### [2005-02-1](/news/2005/02/1/index.md)
 
+##### Palestinian Authority
 #  The Palestinian Authority arrests a Palestinian man who had been shooting in the air, on suspicion that he had killed a Palestinian girl the day before. The original shooting sparked Palestinian accusations that the girl had been shot by Israeli soldiers, and Hamas fired mortars at Israeli settlements in response. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1107228084937&p=1078027574097)
 2. [Reuters](http://story.news.yahoo.com/news?tmpl=story&cid=564&ncid=564&e=1&u=/nm/20050131/ts_nm/mideast_dc_242)

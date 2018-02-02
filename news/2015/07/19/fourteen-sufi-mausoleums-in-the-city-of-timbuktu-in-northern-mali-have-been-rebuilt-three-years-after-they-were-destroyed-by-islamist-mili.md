@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/19/fourteen-sufi-mausoleums-in-the-city-of-timbuktu-in-northern-mali-have-been-rebuilt-three-years-after-they-were-destroyed-by-islamist-mili.html)  [JSON](/news/2015/07/19/fourteen-sufi-mausoleums-in-the-city-of-timbuktu-in-northern-mali-have-been-rebuilt-three-years-after-they-were-destroyed-by-islamist-mili.json)  [XML](/news/2015/07/19/fourteen-sufi-mausoleums-in-the-city-of-timbuktu-in-northern-mali-have-been-rebuilt-three-years-after-they-were-destroyed-by-islamist-mili.xml)  
+
 ### [2015-07-19](/news/2015/07/19/index.md)
 
+##### Sufi
 #  Fourteen Sufi mausoleums in the city of Timbuktu in northern Mali have been rebuilt, three years after they were destroyed by Islamist militants from Ansar Dine group. 
 
 Fourteen mausoleums in Timbuktu in northern Mali are rebuilt, three years after they were destroyed by Islamist extremists.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-33587325)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/14DC6/production/_84364458_84364457.jpg)

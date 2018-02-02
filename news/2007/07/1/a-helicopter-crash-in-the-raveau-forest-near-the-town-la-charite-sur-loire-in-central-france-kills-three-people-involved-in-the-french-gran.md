@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/1/a-helicopter-crash-in-the-raveau-forest-near-the-town-la-charite-sur-loire-in-central-france-kills-three-people-involved-in-the-french-gran.html)  [JSON](/news/2007/07/1/a-helicopter-crash-in-the-raveau-forest-near-the-town-la-charite-sur-loire-in-central-france-kills-three-people-involved-in-the-french-gran.json)  [XML](/news/2007/07/1/a-helicopter-crash-in-the-raveau-forest-near-the-town-la-charite-sur-loire-in-central-france-kills-three-people-involved-in-the-french-gran.xml)  
+
 ### [2007-07-1](/news/2007/07/1/index.md)
 
+##### helicopter
 #  A helicopter crash in the Raveau forest near the town La Charit-sur-Loire in central France kills three people involved in the French Grand Prix and injures two. 
 
 A helicopter carrying people involved in the F1 French Grand Prix auto race has crashed in central France, killing three people and seriously injuring two, police and officials said.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/01/1966799.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
@@ -16,4 +20,4 @@ A helicopter carrying people involved in the F1 French Grand Prix auto race has 
 2. [French and Australian rescue crews find four French nationals who died in a helicopter crash in Antarctica. ](/news/2010/10/30/french-and-australian-rescue-crews-find-four-french-nationals-who-died-in-a-helicopter-crash-in-antarctica.md) _Context: France, helicopter_
 3. [Three bodies are found by rescuers at a crash site in Antarctica involving a French helicopter. A fourth person is still missing. ](/news/2010/10/29/three-bodies-are-found-by-rescuers-at-a-crash-site-in-antarctica-involving-a-french-helicopter-a-fourth-person-is-still-missing.md) _Context: France, helicopter_
 4. [ A French military helicopter crashes off the coast of Gabon, killing at least seven people and rendering one other missing. ](/news/2009/01/18/a-french-military-helicopter-crashes-off-the-coast-of-gabon-killing-at-least-seven-people-and-rendering-one-other-missing.md) _Context: France, helicopter_
-5. [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md) _Context: France_
+5. [During a session of the United Nations Security Council, the United States repeat its "unapologetic" support for the ongoing Iranian protests. Russia denounces the "veiled [U.S.] attempt to use the current moment to continue to undermine" the JCPOA. France calls to "be wary of any attempt to exploit this crisis for personal ends". ](/news/2018/01/5/during-a-session-of-the-united-nations-security-council-the-united-states-repeat-its-unapologetic-support-for-the-ongoing-iranian-protest.md) _Context: France_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/23/the-u-s-department-of-energy-cancels-a-shipment-of-100-pounds-of-spent-nuclear-fuel-estimated-value-200-million-per-year-to-idaho-after.html)  [JSON](/news/2015/10/23/the-u-s-department-of-energy-cancels-a-shipment-of-100-pounds-of-spent-nuclear-fuel-estimated-value-200-million-per-year-to-idaho-after.json)  [XML](/news/2015/10/23/the-u-s-department-of-energy-cancels-a-shipment-of-100-pounds-of-spent-nuclear-fuel-estimated-value-200-million-per-year-to-idaho-after.xml)  
+
 ### [2015-10-23](/news/2015/10/23/index.md)
 
+##### Department of Energy
 # The U.S. Department of Energy cancels a shipment of 100 pounds of spent nuclear fuel (estimated value $200 million per year) to Idaho after failing to agree on terms that required a waiver to their 1995 agreement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/01e67c4190934d879597549c76fe398a/feds-cancel-research-shipment-spent-nuclear-fuel-idaho)
 

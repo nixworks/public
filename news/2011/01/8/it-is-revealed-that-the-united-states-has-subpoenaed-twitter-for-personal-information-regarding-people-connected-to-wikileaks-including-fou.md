@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/8/it-is-revealed-that-the-united-states-has-subpoenaed-twitter-for-personal-information-regarding-people-connected-to-wikileaks-including-fou.html)  [JSON](/news/2011/01/8/it-is-revealed-that-the-united-states-has-subpoenaed-twitter-for-personal-information-regarding-people-connected-to-wikileaks-including-fou.json)  [XML](/news/2011/01/8/it-is-revealed-that-the-united-states-has-subpoenaed-twitter-for-personal-information-regarding-people-connected-to-wikileaks-including-fou.xml)  
+
 ### [2011-01-8](/news/2011/01/8/index.md)
 
+##### U.S.
 # It is revealed that the United States has subpoenaed Twitter for personal information regarding people connected to Wikileaks, including founder Julian Assange, suspected source of leaks Bradley Manning, and supporter Birgitta Jonsdottir, a member of Iceland's Althing. 
 
 The US government has subpoenaed the social networking site Twitter for personal details of people connected to Wikileaks, court documents show.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-12141530)
 2. [CNN](http://www.cnn.com/2011/CRIME/01/08/us.wikileaks.twitter/index.html?hpt=T1)
@@ -15,8 +19,8 @@ The US government has subpoenaed the social networking site Twitter for personal
 
 ### Related:
 
-1. [London police end their three-year long, round-the-clock guard outside the Ecuadorian Embassy waiting to arrest WikiLeaks founder Julian Assange. Officers have been stationed at this embassy since June 2012. Police said the operation cost 11.1 million pounds (17.6 million dollars) through April 2015. Assange is wanted for jumping bail in England and sexual assault allegations in Sweden. Assange denies the Swedish charges and suspects the real reason is to bring him to the U.S. ](/news/2015/10/12/london-police-end-their-three-year-long-round-the-clock-guard-outside-the-ecuadorian-embassy-waiting-to-arrest-wikileaks-founder-julian-ass.md) _Context: Julian Assange, United States, WikiLeaks_
-2. [In the stand-off between Britain and Ecuador over Julian Assange, WikiLeaks founder Julian Assange gives a speech critical of the United States' policy against Wikileaks, "dragging us all in a dark, repressive world in which journalists live under fear of prosecution", from the balcony of Ecuador's London embassy. ](/news/2012/08/19/in-the-stand-off-between-britain-and-ecuador-over-julian-assange-wikileaks-founder-julian-assange-gives-a-speech-critical-of-the-united-sta.md) _Context: Julian Assange, United States, WikiLeaks_
-3. [The Federal Government of Australia is helping the United States investigate Australians involved with the WikiLeaks website according to Julian Assange, who requests that Prime Minister Julia Gillard and Attorney-General Robert McClelland reveal every detail of assistance to foreign governments. ](/news/2011/02/14/the-federal-government-of-australia-is-helping-the-united-states-investigate-australians-involved-with-the-wikileaks-website-according-to-ju.md) _Context: Julian Assange, United States, WikiLeaks_
-4. [The U.S. ambassador to Iceland is summoned in relation to secret United States attempts to access private details concerning Icelandic MP Birgitta Jonsdottir. The matter is described as "very serious". ](/news/2011/01/9/the-u-s-ambassador-to-iceland-is-summoned-in-relation-to-secret-united-states-attempts-to-access-private-details-concerning-icelandic-mp-bi.md) _Context: Birgitta Jonsdottir, Iceland, United States_
-5. [NBC News reports that United States investigators have been unable to link Bradley Manning to Julian Assange, founder of the whistleblowing website WikiLeaks. ](/news/2011/01/24/nbc-news-reports-that-united-states-investigators-have-been-unable-to-link-bradley-manning-to-julian-assange-founder-of-the-whistleblowing.md) _Context: Bradley Manning, Julian Assange, WikiLeaks_
+1. [The U.S. ambassador to Iceland is summoned in relation to secret United States attempts to access private details concerning Icelandic MP Birgitta Jonsdottir. The matter is described as "very serious". ](/news/2011/01/9/the-u-s-ambassador-to-iceland-is-summoned-in-relation-to-secret-united-states-attempts-to-access-private-details-concerning-icelandic-mp-bi.md) _Context: Birgitta Jonsdottir, Iceland, U.S._
+2. [Julian Assange of Wikileaks says the United States has approached the website to try to negotiate the release of a further 15,000 Afghanistan war documents which the military desires to keep secret; the United States denies this. ](/news/2010/08/18/julian-assange-of-wikileaks-says-the-united-states-has-approached-the-website-to-try-to-negotiate-the-release-of-a-further-15-000-afghanista.md) _Context: Julian Assange, U.S., Wikileaks_
+3. [Voters in Iceland go to the polls to elect 63 members of the Althing. ](/news/2017/10/28/voters-in-iceland-go-to-the-polls-to-elect-63-members-of-the-althing.md) _Context: Althing, Iceland_
+4. [Iceland's incumbent, centre-right Independence Party surprised pollsters by winning 29 percent of the vote (21 seats), thereby putting leader Bjarni Benediktsson in position to organize another coalition government. The Progressive Party, the current ruling partner, garnered 11.5% and eight positions, a loss of 11 seats. The new Pirate Party didn't perform as predicted with 14.5% of the ballots, though it did get 10 seats, an increase of seven more positions in the 63-seat parliament (Althing). ](/news/2016/10/30/icelandas-incumbent-centre-right-independence-party-surprised-pollsters-by-winning-29-percent-of-the-vote-21-seats-thereby-putting-lea.md) _Context: Althing, Iceland_
+5. [A suicide-bomb attack on a joint Afghan-U.S. patrol near Bagram Air Base in Afghanistan's Parwan Province, kills at least six U.S. soldiers and wounds another six. The Taliban's spokesman, Zabiullah Mujahid, claims responsibility for the attack in a message on Twitter. ](/news/2015/12/21/a-suicide-bomb-attack-on-a-joint-afghan-u-s-patrol-near-bagram-air-base-in-afghanistan-s-parwan-province-kills-at-least-six-u-s-soldiers.md) _Context: Twitter, U.S._

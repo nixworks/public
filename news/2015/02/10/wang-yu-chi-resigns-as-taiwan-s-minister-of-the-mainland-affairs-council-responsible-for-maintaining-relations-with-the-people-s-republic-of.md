@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/02/10/wang-yu-chi-resigns-as-taiwan-s-minister-of-the-mainland-affairs-council-responsible-for-maintaining-relations-with-the-people-s-republic-of.html)  [JSON](/news/2015/02/10/wang-yu-chi-resigns-as-taiwan-s-minister-of-the-mainland-affairs-council-responsible-for-maintaining-relations-with-the-people-s-republic-of.json)  [XML](/news/2015/02/10/wang-yu-chi-resigns-as-taiwan-s-minister-of-the-mainland-affairs-council-responsible-for-maintaining-relations-with-the-people-s-republic-of.xml)  
+
 ### [2015-02-10](/news/2015/02/10/index.md)
 
+##### Wang Yu-chi
 # Wang Yu-chi resigns as Taiwan's Minister of the Mainland Affairs Council responsible for maintaining relations with the People's Republic of China. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/02/10/us-taiwan-china-idUSKBN0LE07820150210)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150210&t=2&i=1023788949&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB1902L)
+1. [Reuters](https://www.reuters.com/article/2015/02/10/us-taiwan-china-idUSKBN0LE07820150210)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20150210&t=2&i=1023788949&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB1902L)
 
 ### Related:
 

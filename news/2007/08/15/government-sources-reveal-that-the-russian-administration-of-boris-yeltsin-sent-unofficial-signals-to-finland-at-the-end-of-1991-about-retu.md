@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/15/government-sources-reveal-that-the-russian-administration-of-boris-yeltsin-sent-unofficial-signals-to-finland-at-the-end-of-1991-about-retu.html)  [JSON](/news/2007/08/15/government-sources-reveal-that-the-russian-administration-of-boris-yeltsin-sent-unofficial-signals-to-finland-at-the-end-of-1991-about-retu.json)  [XML](/news/2007/08/15/government-sources-reveal-that-the-russian-administration-of-boris-yeltsin-sent-unofficial-signals-to-finland-at-the-end-of-1991-about-retu.xml)  
+
 ### [2007-08-15](/news/2007/08/15/index.md)
 
+##### Russia
 #  Government sources reveal that the Russian administration of Boris Yeltsin sent unofficial signals to Finland at the end of 1991 about returning Karelia to Finland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kainuun Sanomat via NewsRoom Finland](http://newsroom.finland.fi/stt/showarticle.asp?intNWSAID=16468&group=Politics)
 

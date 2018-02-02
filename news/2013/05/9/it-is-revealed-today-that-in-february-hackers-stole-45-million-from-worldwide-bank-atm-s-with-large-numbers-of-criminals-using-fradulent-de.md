@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/05/9/it-is-revealed-today-that-in-february-hackers-stole-45-million-from-worldwide-bank-atm-s-with-large-numbers-of-criminals-using-fradulent-de.html)  [JSON](/news/2013/05/9/it-is-revealed-today-that-in-february-hackers-stole-45-million-from-worldwide-bank-atm-s-with-large-numbers-of-criminals-using-fradulent-de.json)  [XML](/news/2013/05/9/it-is-revealed-today-that-in-february-hackers-stole-45-million-from-worldwide-bank-atm-s-with-large-numbers-of-criminals-using-fradulent-de.xml)  
+
 ### [2013-05-9](/news/2013/05/9/index.md)
 
+##### United States dollars
 # It is revealed today that in February hackers stole $45 million from worldwide bank ATM's with large numbers of criminals using fradulent debt cards. 
 
 A gang of cyber-criminals operating in 26 countries stole $45 million by hacking their way into a database of prepaid debit cards, federal prosecutors in New York said Thursday.
 
 
-### Source:
+### Sources:
 
 1. [AP via FOX News](http://www.foxnews.com/tech/2013/05/09/atm-hackers-stole-45m-in-21st-century-bank-heist-feds-say/)
-2. [The New York Times](http://www.nytimes.com/2013/05/11/nyregion/atm-robbery-suspects-may-have-caused-own-undoing.html)
+2. [The New York Times](https://www.nytimes.com/2013/05/11/nyregion/atm-robbery-suspects-may-have-caused-own-undoing.html)
 2. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/tech/2013/05/09/atm-hackers-stole-45m-in-21st-century-bank-heist-feds-say/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422550067115.jpg?ve=1)
 
 ### Related:

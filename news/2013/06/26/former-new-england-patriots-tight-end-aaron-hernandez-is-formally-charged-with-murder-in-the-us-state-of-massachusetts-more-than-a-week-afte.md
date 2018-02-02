@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/26/former-new-england-patriots-tight-end-aaron-hernandez-is-formally-charged-with-murder-in-the-us-state-of-massachusetts-more-than-a-week-afte.html)  [JSON](/news/2013/06/26/former-new-england-patriots-tight-end-aaron-hernandez-is-formally-charged-with-murder-in-the-us-state-of-massachusetts-more-than-a-week-afte.json)  [XML](/news/2013/06/26/former-new-england-patriots-tight-end-aaron-hernandez-is-formally-charged-with-murder-in-the-us-state-of-massachusetts-more-than-a-week-afte.xml)  
+
 ### [2013-06-26](/news/2013/06/26/index.md)
 
+##### New England Patriots
 # Former New England Patriots tight end Aaron Hernandez is formally charged with murder in the US state of Massachusetts more than a week after the body of former semi-professional American football player Odin Lloyd is found near his home. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://usnews.nbcnews.com/_news/2013/06/26/19152123-former-patriots-tight-end-aaron-hernandez-charged-with-murder?lite)
 

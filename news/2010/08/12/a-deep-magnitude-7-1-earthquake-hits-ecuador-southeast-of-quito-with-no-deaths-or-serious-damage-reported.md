@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/08/12/a-deep-magnitude-7-1-earthquake-hits-ecuador-southeast-of-quito-with-no-deaths-or-serious-damage-reported.html)  [JSON](/news/2010/08/12/a-deep-magnitude-7-1-earthquake-hits-ecuador-southeast-of-quito-with-no-deaths-or-serious-damage-reported.json)  [XML](/news/2010/08/12/a-deep-magnitude-7-1-earthquake-hits-ecuador-southeast-of-quito-with-no-deaths-or-serious-damage-reported.xml)  
+
 ### [2010-08-12](/news/2010/08/12/index.md)
 
+##### 7.1 earthquake
 # A deep magnitude 7.1 earthquake hits Ecuador, southeast of Quito, with no deaths or serious damage reported. 
 
 An earthquake measuring 6.9 hits Ecuador, about 170km (105 miles) south-east of the capital, Quito, the US Geological Survey says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10954788)
 2. [Euronews](http://www.euronews.net/newswires/416695-magnitude-6-point-9-quake-rocks-ecuador-usgs/)
-3. [USGS](http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010zwa5.php)
+3. [USGS](https://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010zwa5.php)
 3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:

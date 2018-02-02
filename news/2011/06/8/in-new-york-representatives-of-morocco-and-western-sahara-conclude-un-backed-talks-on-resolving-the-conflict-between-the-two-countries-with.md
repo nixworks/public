@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/8/in-new-york-representatives-of-morocco-and-western-sahara-conclude-un-backed-talks-on-resolving-the-conflict-between-the-two-countries-with.html)  [JSON](/news/2011/06/8/in-new-york-representatives-of-morocco-and-western-sahara-conclude-un-backed-talks-on-resolving-the-conflict-between-the-two-countries-with.json)  [XML](/news/2011/06/8/in-new-york-representatives-of-morocco-and-western-sahara-conclude-un-backed-talks-on-resolving-the-conflict-between-the-two-countries-with.xml)  
+
 ### [2011-06-8](/news/2011/06/8/index.md)
 
+##### New York City
 # In New York, representatives of Morocco and Western Sahara conclude UN-backed talks on resolving the conflict between the two countries without reaching an agreement that was satisfactory to both parties. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Scoop](http://www.scoop.co.nz/stories/WO1106/S00150/parties-to-western-sahara-conflict-conclude-un-backed-talks.htm)
 1. [Cover Image](http://img.scoop.co.nz/stories/images/1509/scoop_placeholder.jpg)

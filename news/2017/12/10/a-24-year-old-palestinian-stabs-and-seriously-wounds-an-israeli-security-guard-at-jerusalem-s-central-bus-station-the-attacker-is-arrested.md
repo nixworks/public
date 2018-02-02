@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/10/a-24-year-old-palestinian-stabs-and-seriously-w
 
 ### [2017-12-10](/news/2017/12/10/index.md)
 
+##### Israeli-Palestinian conflict
 # A 24-year-old Palestinian stabs and seriously wounds an Israeli security guard at Jerusalem's Central Bus Station. The attacker is arrested. 
 
 Israeli police: Security guard seriously wounded in stabbing at Jerusalem&rsquo;s central bus station.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/2/rupert-murdoch-s-news-corporation-agrees-to-sell-sky-news-in-order-to-be-in-a-position-to-buy-bskyb-without-a-competition-commission-inquiry.html)  [JSON](/news/2011/03/2/rupert-murdoch-s-news-corporation-agrees-to-sell-sky-news-in-order-to-be-in-a-position-to-buy-bskyb-without-a-competition-commission-inquiry.json)  [XML](/news/2011/03/2/rupert-murdoch-s-news-corporation-agrees-to-sell-sky-news-in-order-to-be-in-a-position-to-buy-bskyb-without-a-competition-commission-inquiry.xml)  
+
 ### [2011-03-2](/news/2011/03/2/index.md)
 
+##### Rupert Murdoch
 # Rupert Murdoch's News Corporation agrees to sell Sky News in order to be in a position to buy BSkyB without a Competition Commission inquiry. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-12627703)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/16/former-national-rugby-league-player-craig-field-is-charged-with-murder-following-the-death-of-a-man-allegedly-assaulted-in-the-australian-to.html)  [JSON](/news/2012/07/16/former-national-rugby-league-player-craig-field-is-charged-with-murder-following-the-death-of-a-man-allegedly-assaulted-in-the-australian-to.json)  [XML](/news/2012/07/16/former-national-rugby-league-player-craig-field-is-charged-with-murder-following-the-death-of-a-man-allegedly-assaulted-in-the-australian-to.xml)  
+
 ### [2012-07-16](/news/2012/07/16/index.md)
 
+##### National Rugby League
 # Former National Rugby League player Craig Field is charged with murder following the death of a man allegedly assaulted in the Australian town of Kingscliff, New South Wales. 
 
 Former NRL player Craig Field has been charged with murder after a man he allegedly assaulted on the NSW north coast died in hospital, police say.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/rugby-league/league-news/former-nrl-star-craig-field-charged-with-murder-20120716-224s4.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/2/2/5/0/s/image.related.thumbnail.320x214.224s4.png/1342478651460.jpg)

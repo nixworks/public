@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/10/bp-is-set-to-remove-the-containment-cap-over-the-destroyed-deepwater-horizon-oil-well-in-the-gulf-of-mexico-and-replace-it-with-a-bigger-ca.html)  [JSON](/news/2010/07/10/bp-is-set-to-remove-the-containment-cap-over-the-destroyed-deepwater-horizon-oil-well-in-the-gulf-of-mexico-and-replace-it-with-a-bigger-ca.json)  [XML](/news/2010/07/10/bp-is-set-to-remove-the-containment-cap-over-the-destroyed-deepwater-horizon-oil-well-in-the-gulf-of-mexico-and-replace-it-with-a-bigger-ca.xml)  
+
 ### [2010-07-10](/news/2010/07/10/index.md)
 
+##### BP
 # BP is set to remove the containment cap over the destroyed Deepwater Horizon oil well in the Gulf of Mexico, and replace it with a bigger cap. Oil and gas will spew unrestricted from the well for an estimated four to seven days until the new cap is in place. 
 
 Underwater robots successfully remove a leaking cap as BP tries again to halt the Gulf of Mexico oil leak.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/07/201071094411206953.html)
 2. [BBC News](http://news.bbc.co.uk/2/hi/world/us_and_canada/10583902.stm)

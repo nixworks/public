@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/24/a-lawsuit-is-threatened-against-the-indonesian-navy-and-international-organization-for-migration-after-a-29-year-old-sri-lankan-asylum-seek.html)  [JSON](/news/2009/12/24/a-lawsuit-is-threatened-against-the-indonesian-navy-and-international-organization-for-migration-after-a-29-year-old-sri-lankan-asylum-seek.json)  [XML](/news/2009/12/24/a-lawsuit-is-threatened-against-the-indonesian-navy-and-international-organization-for-migration-after-a-29-year-old-sri-lankan-asylum-seek.xml)  
+
 ### [2009-12-24](/news/2009/12/24/index.md)
 
+##### Indonesian Navy
 #  A lawsuit is threatened against the Indonesian Navy and International Organization for Migration after a 29-year-old Sri Lankan asylum seeker is allowed to die through medical negligence after vomiting blood and having a seizure in Indonesia. 
 
 A Sri Lankan asylum seeker who spent the past 11 weeks refusing to leave his boat in Indonesia, has died after allegedly being denied medical help.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/asylum-seeker-dies-on-merak-boat-20091224-ldpm.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

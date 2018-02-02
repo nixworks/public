@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/15/a-naxalite-attack-on-an-army-camp-in-west-bengal-kills-24-indian-soldiers-with-many-more-reported-missing.html)  [JSON](/news/2010/02/15/a-naxalite-attack-on-an-army-camp-in-west-bengal-kills-24-indian-soldiers-with-many-more-reported-missing.json)  [XML](/news/2010/02/15/a-naxalite-attack-on-an-army-camp-in-west-bengal-kills-24-indian-soldiers-with-many-more-reported-missing.xml)  
+
 ### [2010-02-15](/news/2010/02/15/index.md)
 
+##### Naxalite
 # A Naxalite attack on an army camp in West Bengal kills 24 Indian soldiers, with many more reported missing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/Maoist-attack-Chidambaram-accepts-failure/H1-Article1-509356.aspx)
 

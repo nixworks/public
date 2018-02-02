@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/10/gold-extends-a-fresh-three-month-low-as-a-stronger-u-s-dollar-sapped-investor-appetite-for-the-metal.html)  [JSON](/news/2014/09/10/gold-extends-a-fresh-three-month-low-as-a-stronger-u-s-dollar-sapped-investor-appetite-for-the-metal.json)  [XML](/news/2014/09/10/gold-extends-a-fresh-three-month-low-as-a-stronger-u-s-dollar-sapped-investor-appetite-for-the-metal.xml)  
+
 ### [2014-09-10](/news/2014/09/10/index.md)
 
+##### U.S. dollar
 # Gold extends a fresh three-month low as a stronger U.S. dollar sapped investor appetite for the metal. 
 
 Gold futures gave up earlier gains, settling at a fresh three-month low Wednesday as a stronger U.S. dollar sapped investor appetite for the metal.
 
 
-### Source:
+### Sources:
 
 1. [The Wall Street Journal](http://online.wsj.com/articles/gold-prices-turn-higher-after-sinking-to-three-month-low-1410361825)
 1. [Cover Image](https://si.wsj.net/img/WSJ_Logo_black_social.gif)

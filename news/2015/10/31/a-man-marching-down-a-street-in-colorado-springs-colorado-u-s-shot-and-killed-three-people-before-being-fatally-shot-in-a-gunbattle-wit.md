@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/31/a-man-marching-down-a-street-in-colorado-springs-colorado-u-s-shot-and-killed-three-people-before-being-fatally-shot-in-a-gunbattle-wit.html)  [JSON](/news/2015/10/31/a-man-marching-down-a-street-in-colorado-springs-colorado-u-s-shot-and-killed-three-people-before-being-fatally-shot-in-a-gunbattle-wit.json)  [XML](/news/2015/10/31/a-man-marching-down-a-street-in-colorado-springs-colorado-u-s-shot-and-killed-three-people-before-being-fatally-shot-in-a-gunbattle-wit.xml)  
+
 ### [2015-10-31](/news/2015/10/31/index.md)
 
+##### Colorado Springs, Colorado
 # A man marching down a street in Colorado Springs, Colorado (U.S.), shot and killed three people before being fatally shot in a gunbattle with police. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/f35617bd68f14caab110659eeb9e6bbd/4-dead-including-suspected-gunman-colorado-springs)
 2. [Colorado Springs Gazette](http://gazette.com/man-shot-by-police-after-multiple-shootings-in-downtown-colorado-springs/article/1562310)

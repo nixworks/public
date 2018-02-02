@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/12/the-toll-of-dead-and-missing-people-from-the-2013-southwest-china-floods-rises-above-40-with-sichuan-province-worst-affected.html)  [JSON](/news/2013/07/12/the-toll-of-dead-and-missing-people-from-the-2013-southwest-china-floods-rises-above-40-with-sichuan-province-worst-affected.json)  [XML](/news/2013/07/12/the-toll-of-dead-and-missing-people-from-the-2013-southwest-china-floods-rises-above-40-with-sichuan-province-worst-affected.xml)  
+
 ### [2013-07-12](/news/2013/07/12/index.md)
 
+##### floods
 # The toll of dead and missing people from the 2013 Southwest China floods rises above 40 with Sichuan province worst affected. 
 
 China and Taiwan braced on Friday for the impact of Typhoon Soulik as the toll of dead and missing from torrential rain across a broad swathe of China climbed beyond 200.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2013/07/12/uk-china-weather-idUKBRE96B05Q20130712)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

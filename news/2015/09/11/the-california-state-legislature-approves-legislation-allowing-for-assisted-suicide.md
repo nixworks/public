@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2015/09/11/the-california-state-legislature-approves-legislation-allowing-for-assisted-suicide.html)  [JSON](/news/2015/09/11/the-california-state-legislature-approves-legislation-allowing-for-assisted-suicide.json)  [XML](/news/2015/09/11/the-california-state-legislature-approves-legislation-allowing-for-assisted-suicide.xml)  
+
 ### [2015-09-11](/news/2015/09/11/index.md)
 
+##### California State Legislature
 # The California State Legislature approves legislation allowing for assisted suicide. 
 
+If Gov. Jerry Brown signs the measure, the state will become the fifth to allow doctors to prescribe life-ending medication to some patients.
 
 
+### Sources:
 
-### Source:
-
-1. [The New York Times](http://www.nytimes.com/2015/09/12/us/california-legislature-approves-assisted-suicide.html)
+1. [The New York Times](https://www.nytimes.com/2015/09/12/us/california-legislature-approves-assisted-suicide.html)
+1. [Cover Image](https://static01.nyt.com/images/2015/09/12/us/jp-12california/jp-12california-facebookJumbo.jpg)
 
 ### Related:
 

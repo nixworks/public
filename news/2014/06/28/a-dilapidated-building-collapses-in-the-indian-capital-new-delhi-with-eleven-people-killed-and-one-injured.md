@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/28/a-dilapidated-building-collapses-in-the-indian-capital-new-delhi-with-eleven-people-killed-and-one-injured.html)  [JSON](/news/2014/06/28/a-dilapidated-building-collapses-in-the-indian-capital-new-delhi-with-eleven-people-killed-and-one-injured.json)  [XML](/news/2014/06/28/a-dilapidated-building-collapses-in-the-indian-capital-new-delhi-with-eleven-people-killed-and-one-injured.xml)  
+
 ### [2014-06-28](/news/2014/06/28/index.md)
 
+##### India
 # A dilapidated building collapses in the Indian capital New Delhi with eleven people killed and one injured. 
 
 Rescuers using gas cutters and shovels were searching in construction rubble Sunday for more than a dozen workers feared trapped in the second of two building collapses in India that together have killed at least 19 people.
 
 
-### Source:
+### Sources:
 
 1. [AP via CTV](http://www.ctvnews.ca/world/at-least-12-dead-as-2-buildings-collapse-in-india-dozens-feared-trapped-1.1890715)
 1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1890718.1403968239!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)

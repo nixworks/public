@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/7/the-german-federal-archives-has-provided-wikipedia-with-100-000-historical-images-that-cover-periods-such-as-the-weimar-republic-the-colon.html)  [JSON](/news/2008/12/7/the-german-federal-archives-has-provided-wikipedia-with-100-000-historical-images-that-cover-periods-such-as-the-weimar-republic-the-colon.json)  [XML](/news/2008/12/7/the-german-federal-archives-has-provided-wikipedia-with-100-000-historical-images-that-cover-periods-such-as-the-weimar-republic-the-colon.xml)  
+
 ### [2008-12-7](/news/2008/12/7/index.md)
 
+##### German Federal Archives
 #  The German Federal Archives has provided Wikipedia with 100,000 historical images that cover periods such as the Weimar Republic, the colonial era, the Third Reich, and post-reunification. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,3851534,00.html)
 

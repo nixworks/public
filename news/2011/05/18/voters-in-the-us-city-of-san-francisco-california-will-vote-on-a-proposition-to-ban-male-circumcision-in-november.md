@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/05/18/voters-in-the-us-city-of-san-francisco-california-will-vote-on-a-proposition-to-ban-male-circumcision-in-november.html)  [JSON](/news/2011/05/18/voters-in-the-us-city-of-san-francisco-california-will-vote-on-a-proposition-to-ban-male-circumcision-in-november.json)  [XML](/news/2011/05/18/voters-in-the-us-city-of-san-francisco-california-will-vote-on-a-proposition-to-ban-male-circumcision-in-november.xml)  
+
 ### [2011-05-18](/news/2011/05/18/index.md)
 
+##### San Francisco, California
 # Voters in the US city of San Francisco, California, will vote on a proposition to ban male circumcision in November. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via the ''Washington Post](http://www.washingtonpost.com/national/san-franciscans-to-vote-on-controversial-male-circumcision-ban-in-november/2011/05/18/AF2UNg6G_story.html)
+1. [AP via the ''Washington Post](https://www.washingtonpost.com/national/san-franciscans-to-vote-on-controversial-male-circumcision-ban-in-november/2011/05/18/AF2UNg6G_story.html)
 
 ### Related:
 

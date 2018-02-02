@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/6/king-abdullah-of-saudi-arabia-visits-the-vatican-in-what-is-the-first-audience-by-the-head-of-the-roman-catholic-church-with-a-saudi-monarc.html)  [JSON](/news/2007/11/6/king-abdullah-of-saudi-arabia-visits-the-vatican-in-what-is-the-first-audience-by-the-head-of-the-roman-catholic-church-with-a-saudi-monarc.json)  [XML](/news/2007/11/6/king-abdullah-of-saudi-arabia-visits-the-vatican-in-what-is-the-first-audience-by-the-head-of-the-roman-catholic-church-with-a-saudi-monarc.xml)  
+
 ### [2007-11-6](/news/2007/11/6/index.md)
 
+##### King
 #  King Abdullah of Saudi Arabia visits the Vatican in what is the first audience by the head of the Roman Catholic Church with a Saudi monarch. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7080327.stm)
 

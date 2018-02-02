@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/29/the-entire-maldives-cabinet-resigns-en-masse.html)  [JSON](/news/2010/06/29/the-entire-maldives-cabinet-resigns-en-masse.json)  [XML](/news/2010/06/29/the-entire-maldives-cabinet-resigns-en-masse.xml)  
+
 ### [2010-06-29](/news/2010/06/29/index.md)
 
+##### Maldives
 # The entire Maldives cabinet resigns "en masse". 
 
 President says ministers are no longer able to work with opposition-led parliament.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/201062915490741700.html)
 1. [Cover Image](http://www.aljazeera.com)

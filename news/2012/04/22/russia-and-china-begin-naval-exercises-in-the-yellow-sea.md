@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/22/russia-and-china-begin-naval-exercises-in-the-yellow-sea.html)  [JSON](/news/2012/04/22/russia-and-china-begin-naval-exercises-in-the-yellow-sea.json)  [XML](/news/2012/04/22/russia-and-china-begin-naval-exercises-in-the-yellow-sea.xml)  
+
 ### [2012-04-22](/news/2012/04/22/index.md)
 
+##### Russia
 # Russia and China begin naval exercises in the Yellow Sea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/04/22/world/asia/china-russia-naval-exercises/index.html?eref=edition)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/13/the-australian-dollar-reaches-its-highest-level-against-the-united-states-dollar-in-27-years.html)  [JSON](/news/2010/10/13/the-australian-dollar-reaches-its-highest-level-against-the-united-states-dollar-in-27-years.json)  [XML](/news/2010/10/13/the-australian-dollar-reaches-its-highest-level-against-the-united-states-dollar-in-27-years.xml)  
+
 ### [2010-10-13](/news/2010/10/13/index.md)
 
+##### A$
 # The Australian dollar reaches its highest level against the United States dollar in 27 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/business/markets/australian-dollar-hits-new-post-float-high/story-e6frg91o-1225938446960)
 

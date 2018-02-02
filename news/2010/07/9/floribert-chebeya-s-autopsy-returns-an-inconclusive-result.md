@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/9/floribert-chebeya-s-autopsy-returns-an-inconclusive-result.html)  [JSON](/news/2010/07/9/floribert-chebeya-s-autopsy-returns-an-inconclusive-result.json)  [XML](/news/2010/07/9/floribert-chebeya-s-autopsy-returns-an-inconclusive-result.xml)  
+
 ### [2010-07-9](/news/2010/07/9/index.md)
 
+##### Floribert Chebeya
 # Floribert Chebeya's autopsy returns an "inconclusive" result. 
 
 An independent autopsy into the death of a human rights activist in DR Congo is unable to establish how he died.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10568790.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

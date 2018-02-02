@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/28/north-korean-leader-kim-jong-il-s-eldest-son-kim-jong-nam-says-his-father-opposed-the-hereditary-transfer-of-power-but-did-so-to-ensure-sta.html)  [JSON](/news/2011/01/28/north-korean-leader-kim-jong-il-s-eldest-son-kim-jong-nam-says-his-father-opposed-the-hereditary-transfer-of-power-but-did-so-to-ensure-sta.json)  [XML](/news/2011/01/28/north-korean-leader-kim-jong-il-s-eldest-son-kim-jong-nam-says-his-father-opposed-the-hereditary-transfer-of-power-but-did-so-to-ensure-sta.xml)  
+
 ### [2011-01-28](/news/2011/01/28/index.md)
 
+##### North Korea
 # North Korean leader Kim Jong-il's eldest son Kim Jong-nam says his father opposed the hereditary transfer of power, but did so to ensure stability. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jLq0EGmURcax3pCvyrKWjp2Vofew?docId=CNG.d181f701d74575a4927d78a53b5b7ce3.61)
 2. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2011/01/28/94/0401000000AEN20110128003800315F.HTML)

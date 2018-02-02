@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/02/26/president-muammar-gaddafi-of-libya-declares-a-holy-war-on-switzerland.html)  [JSON](/news/2010/02/26/president-muammar-gaddafi-of-libya-declares-a-holy-war-on-switzerland.json)  [XML](/news/2010/02/26/president-muammar-gaddafi-of-libya-declares-a-holy-war-on-switzerland.xml)  
+
 ### [2010-02-26](/news/2010/02/26/index.md)
 
+##### President of Libya
 # President Muammar Gaddafi of Libya declares a holy war on Switzerland. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/02/26/AR2010022602903.html)
+1. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/02/26/AR2010022602903.html)
 
 ### Related:
 

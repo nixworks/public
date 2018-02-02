@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/04/11/at-least-11-people-are-killed-and-dozens-are-injured-in-the-blast-at-oktyabrskaya-metro-station-in-minsk.html)  [JSON](/news/2011/04/11/at-least-11-people-are-killed-and-dozens-are-injured-in-the-blast-at-oktyabrskaya-metro-station-in-minsk.json)  [XML](/news/2011/04/11/at-least-11-people-are-killed-and-dozens-are-injured-in-the-blast-at-oktyabrskaya-metro-station-in-minsk.xml)  
+
 ### [2011-04-11](/news/2011/04/11/index.md)
 
+##### blast at Oktyabrskaya metro station
 # At least 11 people are killed and dozens are injured in the blast at Oktyabrskaya metro station in Minsk. 
 
 Belarusian security forces confirmed that 12 people were killed when a blast ripped through Oktyabrskaya metro station in Minsk during the evening rush hour. At least 149 were injured.
 
 
-### Source:
+### Sources:
 
 1. [RT](http://rt.com/news/blast-minsk-least-injured/)
-2. [Reuters via Yahoo News](http://news.yahoo.com/s/nm/20110412/ts_nm/us_belarus_minsk_blast)
+2. [Reuters via Yahoo News](https://news.yahoo.com/s/nm/20110412/ts_nm/us_belarus_minsk_blast)
 2. [Cover Image](https://img.rt.com/files/oldfiles/news/blast-minsk-least-injured/forumonlinerby-zhenya-photo-879.si.jpg)
 
 ### Related:

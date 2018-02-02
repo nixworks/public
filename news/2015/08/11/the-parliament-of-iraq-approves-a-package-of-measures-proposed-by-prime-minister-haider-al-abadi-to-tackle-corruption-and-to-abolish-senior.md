@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/11/the-parliament-of-iraq-approves-a-package-of-measures-proposed-by-prime-minister-haider-al-abadi-to-tackle-corruption-and-to-abolish-senior.html)  [JSON](/news/2015/08/11/the-parliament-of-iraq-approves-a-package-of-measures-proposed-by-prime-minister-haider-al-abadi-to-tackle-corruption-and-to-abolish-senior.json)  [XML](/news/2015/08/11/the-parliament-of-iraq-approves-a-package-of-measures-proposed-by-prime-minister-haider-al-abadi-to-tackle-corruption-and-to-abolish-senior.xml)  
+
 ### [2015-08-11](/news/2015/08/11/index.md)
 
+##### Iraq's parliament
 # The Parliament of Iraq approves a package of measures proposed by Prime Minister Haider al-Abadi to tackle corruption and to abolish senior posts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe](http://www.rferl.org/content/article/27182870.html)
 

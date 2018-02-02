@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/05/20/a-suicide-bomber-kills-at-least-10-people-and-injures-32-people-in-gardez-the-capital-of-afghanistan-s-paktia-province.html)  [JSON](/news/2007/05/20/a-suicide-bomber-kills-at-least-10-people-and-injures-32-people-in-gardez-the-capital-of-afghanistan-s-paktia-province.json)  [XML](/news/2007/05/20/a-suicide-bomber-kills-at-least-10-people-and-injures-32-people-in-gardez-the-capital-of-afghanistan-s-paktia-province.xml)  
+
 ### [2007-05-20](/news/2007/05/20/index.md)
 
+##### suicide bomb
 #  A suicide bomber kills at least 10 people and injures 32 people in Gardez, the capital of Afghanistan's Paktia Province. 
 
 The attack came a day after another suicide bombing killed nine people, among them three German soldiers in the northern province of Kunduz.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2007/05/21/world/asia/21afghan.html?_r=1&ref=world&oref=slogin)
+1. [New York Times](https://www.nytimes.com/2007/05/21/world/asia/21afghan.html?_r=1&ref=world&oref=slogin)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

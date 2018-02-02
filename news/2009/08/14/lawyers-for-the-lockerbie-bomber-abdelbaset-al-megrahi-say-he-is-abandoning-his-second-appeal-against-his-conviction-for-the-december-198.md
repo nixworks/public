@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/14/lawyers-for-the-lockerbie-bomber-abdelbaset-al-megrahi-say-he-is-abandoning-his-second-appeal-against-his-conviction-for-the-december-198.html)  [JSON](/news/2009/08/14/lawyers-for-the-lockerbie-bomber-abdelbaset-al-megrahi-say-he-is-abandoning-his-second-appeal-against-his-conviction-for-the-december-198.json)  [XML](/news/2009/08/14/lawyers-for-the-lockerbie-bomber-abdelbaset-al-megrahi-say-he-is-abandoning-his-second-appeal-against-his-conviction-for-the-december-198.xml)  
+
 ### [2009-08-14](/news/2009/08/14/index.md)
 
+##### Lockerbie bombing
 #  Lawyers for the Lockerbie bomber, Abdelbaset al-Megrahi, say he is abandoning his second appeal against his conviction for the December 1988 attack as Scottish officials consider his request to be sent home to Libya. 
 
 Lawyers for the Lockerbie bomber say he is abandoning his second appeal against his conviction for the December 1988 attack as Scottish officials consider his request to be sent home to Libya.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/32414949/ns/world_news-terrorism/)
 1. [Cover Image](http://media3.s-nbcnews.com/j/ap/ad0d69ef-d306-4040-b2c7-f58b09e00707.standard.jpg)

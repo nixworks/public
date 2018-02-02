@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/16/prosecutors-in-santa-barbara-california-announce-that-they-will-file-charges-against-the-singer-michael-jackson-on-december-18-or-19-ht.html)  [JSON](/news/2003/12/16/prosecutors-in-santa-barbara-california-announce-that-they-will-file-charges-against-the-singer-michael-jackson-on-december-18-or-19-ht.json)  [XML](/news/2003/12/16/prosecutors-in-santa-barbara-california-announce-that-they-will-file-charges-against-the-singer-michael-jackson-on-december-18-or-19-ht.xml)  
+
 ### [2003-12-16](/news/2003/12/16/index.md)
 
+##### Santa Barbara, California
 #  Prosecutors in Santa Barbara, California, announce that they will file charges against the singer Michael Jackson on December 18 or 19. [http:--news.bbc.co.uk-1-hi-entertainment-showbiz-3323237.stm]
 
 

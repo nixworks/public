@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/2/in-the-new-hampshire-s-u-s-district-court-the-former-medical-technician-david-kwiatkowski-is-sentenced-to-39-years-in-prison-for-infecting.html)  [JSON](/news/2013/12/2/in-the-new-hampshire-s-u-s-district-court-the-former-medical-technician-david-kwiatkowski-is-sentenced-to-39-years-in-prison-for-infecting.json)  [XML](/news/2013/12/2/in-the-new-hampshire-s-u-s-district-court-the-former-medical-technician-david-kwiatkowski-is-sentenced-to-39-years-in-prison-for-infecting.xml)  
+
 ### [2013-12-2](/news/2013/12/2/index.md)
 
+##### New Hampshire
 # In the New Hampshire's U.S. District Court, the former medical technician David Kwiatkowski is sentenced to 39 years in prison for infecting unknown numbers of patients in various states with hepatitis C through the reuse of his contaminated syringes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [FOX News](http://www.foxnews.com/health/2013/12/02/hospital-worker-to-be-sentenced-in-hepatitis-case/?intcmp=latestnews)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/health/2013/12/02/hospital-worker-to-be-sentenced-in-hepatitis-case/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1422695789368.jpg?ve=1)

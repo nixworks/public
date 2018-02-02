@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/07/14/ten-sri-lankan-soldiers-die-in-fighting-the-tamil-tigers-in-the-vavuniya-district-of-northern-sri-lanka.html)  [JSON](/news/2007/07/14/ten-sri-lankan-soldiers-die-in-fighting-the-tamil-tigers-in-the-vavuniya-district-of-northern-sri-lanka.json)  [XML](/news/2007/07/14/ten-sri-lankan-soldiers-die-in-fighting-the-tamil-tigers-in-the-vavuniya-district-of-northern-sri-lanka.xml)  
+
 ### [2007-07-14](/news/2007/07/14/index.md)
 
+##### Tamil Tigers
 #  Ten Sri Lankan soldiers die in fighting the Tamil Tigers in the Vavuniya district of northern Sri Lanka. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/07/14/AR2007071400758.html)
+1. [AP via Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2007/07/14/AR2007071400758.html)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

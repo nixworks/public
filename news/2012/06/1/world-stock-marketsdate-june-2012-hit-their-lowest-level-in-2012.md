@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/1/world-stock-marketsdate-june-2012-hit-their-lowest-level-in-2012.html)  [JSON](/news/2012/06/1/world-stock-marketsdate-june-2012-hit-their-lowest-level-in-2012.json)  [XML](/news/2012/06/1/world-stock-marketsdate-june-2012-hit-their-lowest-level-in-2012.xml)  
+
 ### [2012-06-1](/news/2012/06/1/index.md)
 
+##### 
 # World stock marketsdate=June 2012 hit their lowest level in 2012. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/business/2012/jun/01/world-markets-global-crisis-deepens)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/02/27/an-online-petition-organized-by-muslims-against-the-dark-horse-video-by-katy-perry-over-its-use-of-imagery-containing-the-word-allah-has.html)  [JSON](/news/2014/02/27/an-online-petition-organized-by-muslims-against-the-dark-horse-video-by-katy-perry-over-its-use-of-imagery-containing-the-word-allah-has.json)  [XML](/news/2014/02/27/an-online-petition-organized-by-muslims-against-the-dark-horse-video-by-katy-perry-over-its-use-of-imagery-containing-the-word-allah-has.xml)  
+
 ### [2014-02-27](/news/2014/02/27/index.md)
 
+##### Muslim
 # An online petition organized by Muslims against the "Dark Horse" video by Katy Perry over its use of imagery containing the word "Allah" has led to the editing of the video on YouTube. 
 
 A petition called the video &quot;highly controversial&quot; and a &quot;portrayal of blasphemy&quot;
 
 
-### Source:
+### Sources:
 
-1. [The Rolling Stone](http://www.rollingstone.com/music/news/katy-perry-removes-islamic-symbol-from-dark-horse-clip-after-protest-20140227)
+1. [The Rolling Stone](https://www.rollingstone.com/music/news/katy-perry-removes-islamic-symbol-from-dark-horse-clip-after-protest-20140227)
 1. [Cover Image](http://img.wennermedia.com/social/rs-14547-perry-1800-1393519156.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/16/president-of-somalia-abdullahi-yusuf-ahmed-names-former-interior-minister-mohamoud-mohamed-gacmodhere-as-prime-minister-but-incumbent-pm-n.html)  [JSON](/news/2008/12/16/president-of-somalia-abdullahi-yusuf-ahmed-names-former-interior-minister-mohamoud-mohamed-gacmodhere-as-prime-minister-but-incumbent-pm-n.json)  [XML](/news/2008/12/16/president-of-somalia-abdullahi-yusuf-ahmed-names-former-interior-minister-mohamoud-mohamed-gacmodhere-as-prime-minister-but-incumbent-pm-n.xml)  
+
 ### [2008-12-16](/news/2008/12/16/index.md)
 
+##### President
 #  President of Somalia Abdullahi Yusuf Ahmed names former Interior Minister Mohamoud Mohamed Gacmodhere as Prime Minister, but incumbent PM Nur Hassan Hussein is supported in a parliamentary vote, requiring a confidence motion before Ahmed could replace Hussein. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2008-12/16/content_10513247.htm)
 

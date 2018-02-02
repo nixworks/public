@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/02/26/an-oil-refinery-in-baiji-iraq-is-bombed-resulting-in-its-closure.html)  [JSON](/news/2011/02/26/an-oil-refinery-in-baiji-iraq-is-bombed-resulting-in-its-closure.json)  [XML](/news/2011/02/26/an-oil-refinery-in-baiji-iraq-is-bombed-resulting-in-its-closure.xml)  
+
 ### [2011-02-26](/news/2011/02/26/index.md)
 
+##### oil refinery
 # An oil refinery in Baiji, Iraq, is bombed, resulting in its closure. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/02/26/iraq-oil-refinery-idUSLDE71P00L20110226?feedType=RSS&feedName=hotStocksNews)
+1. [Reuters](https://www.reuters.com/article/2011/02/26/iraq-oil-refinery-idUSLDE71P00L20110226?feedType=RSS&feedName=hotStocksNews)
 1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:

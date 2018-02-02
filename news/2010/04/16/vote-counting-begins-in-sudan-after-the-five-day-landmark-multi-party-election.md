@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/16/vote-counting-begins-in-sudan-after-the-five-day-landmark-multi-party-election.html)  [JSON](/news/2010/04/16/vote-counting-begins-in-sudan-after-the-five-day-landmark-multi-party-election.json)  [XML](/news/2010/04/16/vote-counting-begins-in-sudan-after-the-five-day-landmark-multi-party-election.xml)  
+
 ### [2010-04-16](/news/2010/04/16/index.md)
 
+##### Sudan
 # Vote counting begins in Sudan after the five-day landmark multi-party election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8624702.stm)
 

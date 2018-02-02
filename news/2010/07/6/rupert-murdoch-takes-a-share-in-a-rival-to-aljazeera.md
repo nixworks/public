@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/6/rupert-murdoch-takes-a-share-in-a-rival-to-aljazeera.html)  [JSON](/news/2010/07/6/rupert-murdoch-takes-a-share-in-a-rival-to-aljazeera.json)  [XML](/news/2010/07/6/rupert-murdoch-takes-a-share-in-a-rival-to-aljazeera.xml)  
+
 ### [2010-07-6](/news/2010/07/6/index.md)
 
+##### Rupert Murdoch
 # Rupert Murdoch takes a share in a rival to Aljazeera. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/media/2010/jul/06/rupert-murdoch-stake-rival-al-jazeera)
 

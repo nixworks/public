@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/12/leila-lopes-of-angola-is-named-miss-universe-2011.html)  [JSON](/news/2011/09/12/leila-lopes-of-angola-is-named-miss-universe-2011.json)  [XML](/news/2011/09/12/leila-lopes-of-angola-is-named-miss-universe-2011.xml)  
+
 ### [2011-09-12](/news/2011/09/12/index.md)
 
+##### Leila Lopes
 # Leila Lopes of Angola is named Miss Universe 2011. 
 
 LOS ANGELES (LALATE) - Leila Lopes Miss Angola (photos below) is the Miss Universe 2011 winner. Leila Lopes Miss Angola won the Miss Universe 2011 beauty pageant moments ago. Before being named the winner tonight (la ganadora de Miss Universo 2011), some shocking results were revealed to news and vi
 
 
-### Source:
+### Sources:
 
 1. [LA Late](http://news.lalate.com/2011/09/12/miss-universe-2011-winner/)
 

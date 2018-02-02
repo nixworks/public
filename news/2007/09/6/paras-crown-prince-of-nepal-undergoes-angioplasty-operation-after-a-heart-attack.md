@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/09/6/paras-crown-prince-of-nepal-undergoes-angioplasty-operation-after-a-heart-attack.html)  [JSON](/news/2007/09/6/paras-crown-prince-of-nepal-undergoes-angioplasty-operation-after-a-heart-attack.json)  [XML](/news/2007/09/6/paras-crown-prince-of-nepal-undergoes-angioplasty-operation-after-a-heart-attack.xml)  
+
 ### [2007-09-6](/news/2007/09/6/index.md)
 
+##### Paras
 #  Paras, Crown Prince of Nepal, undergoes angioplasty operation after a heart attack. 
 
 

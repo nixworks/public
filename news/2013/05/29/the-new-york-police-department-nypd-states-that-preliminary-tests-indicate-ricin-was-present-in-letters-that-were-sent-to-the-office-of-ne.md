@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/29/the-new-york-police-department-nypd-states-that-preliminary-tests-indicate-ricin-was-present-in-letters-that-were-sent-to-the-office-of-ne.html)  [JSON](/news/2013/05/29/the-new-york-police-department-nypd-states-that-preliminary-tests-indicate-ricin-was-present-in-letters-that-were-sent-to-the-office-of-ne.json)  [XML](/news/2013/05/29/the-new-york-police-department-nypd-states-that-preliminary-tests-indicate-ricin-was-present-in-letters-that-were-sent-to-the-office-of-ne.xml)  
+
 ### [2013-05-29](/news/2013/05/29/index.md)
 
+##### New York Police Department
 # The New York Police Department (NYPD) states that preliminary tests indicate ricin was present in letters that were sent to the office of New York City Mayor and media mogul Michael Bloomberg, and to the office of the Director of Mayors Against Illegal Guns. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/?hpt=sitenav)
 

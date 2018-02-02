@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/11/albania-suffers-its-worst-ever-electric-power-shortage-due-to-low-water-levels-hydroelectric-power-is-reduced-to-the-minimum-and-there-ar.html)  [JSON](/news/2005/11/11/albania-suffers-its-worst-ever-electric-power-shortage-due-to-low-water-levels-hydroelectric-power-is-reduced-to-the-minimum-and-there-ar.json)  [XML](/news/2005/11/11/albania-suffers-its-worst-ever-electric-power-shortage-due-to-low-water-levels-hydroelectric-power-is-reduced-to-the-minimum-and-there-ar.xml)  
+
 ### [2005-11-11](/news/2005/11/11/index.md)
 
+##### Albania
 #  Albania suffers its worst ever electric power shortage. Due to low water levels, hydroelectric power is reduced to the minimum and there are blackouts in all the country. Water supplies won't last for more than two weeks, so electricity is currently available just six hours a day. The government plans to import power from Romania, Bulgaria and Italy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4428782.stm)
 

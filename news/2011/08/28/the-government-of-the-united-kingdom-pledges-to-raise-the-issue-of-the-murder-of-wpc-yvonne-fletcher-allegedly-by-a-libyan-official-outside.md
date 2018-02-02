@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/28/the-government-of-the-united-kingdom-pledges-to-raise-the-issue-of-the-murder-of-wpc-yvonne-fletcher-allegedly-by-a-libyan-official-outside.html)  [JSON](/news/2011/08/28/the-government-of-the-united-kingdom-pledges-to-raise-the-issue-of-the-murder-of-wpc-yvonne-fletcher-allegedly-by-a-libyan-official-outside.json)  [XML](/news/2011/08/28/the-government-of-the-united-kingdom-pledges-to-raise-the-issue-of-the-murder-of-wpc-yvonne-fletcher-allegedly-by-a-libyan-official-outside.xml)  
+
 ### [2011-08-28](/news/2011/08/28/index.md)
 
+##### 10 Downing Street
 # The Government of the United Kingdom pledges to raise the issue of the murder of WPC Yvonne Fletcher, allegedly by a Libyan official outside the embassy in London in 1984, with the new government in Tripoli. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press Association via Google](http://www.google.com/hostednews/ukpress/article/ALeqM5jzpYU7Li9tB1eo7yw3hI9DZEA0fA?docId=B10646631314461525A0)
 

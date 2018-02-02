@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/14/singapore-s-founding-father-lee-kuan-yew-resigns-from-the-cabinet-after-52-years.html)  [JSON](/news/2011/05/14/singapore-s-founding-father-lee-kuan-yew-resigns-from-the-cabinet-after-52-years.json)  [XML](/news/2011/05/14/singapore-s-founding-father-lee-kuan-yew-resigns-from-the-cabinet-after-52-years.xml)  
+
 ### [2011-05-14](/news/2011/05/14/index.md)
 
+##### Singapore
 # Singapore's founding father Lee Kuan Yew resigns from the cabinet after 52 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Salon](http://www.salon.com/wires/allwires/2011/05/14/D9N76V280_as_singapore_politics/index.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13400296)

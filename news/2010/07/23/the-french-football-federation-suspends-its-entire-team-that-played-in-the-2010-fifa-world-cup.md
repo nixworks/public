@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/07/23/the-french-football-federation-suspends-its-entire-team-that-played-in-the-2010-fifa-world-cup.html)  [JSON](/news/2010/07/23/the-french-football-federation-suspends-its-entire-team-that-played-in-the-2010-fifa-world-cup.json)  [XML](/news/2010/07/23/the-french-football-federation-suspends-its-entire-team-that-played-in-the-2010-fifa-world-cup.xml)  
+
 ### [2010-07-23](/news/2010/07/23/index.md)
 
+##### French Football Federation
 # The French Football Federation suspends its entire team that played in the 2010 FIFA World Cup. 
 
 New France coach Laurent Blanc has taken the decision to suspend the entire 23-man squad which took part in this summer&#039;s failed World Cup campaign for next month&#039;s friendly against Norway.
 
 
-### Source:
+### Sources:
 
 1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/football/8849972.stm)
 2. [Reuters](http://football.uk.reuters.com/leagues/world/news/2010/07/23/LDE66M1MX.php)
-3. [The Independent](http://www.independent.co.uk/sport/football/international/france-suspend-entire-world-cup-squad-2033933.html)
+3. [The Independent](https://www.independent.co.uk/sport/football/international/france-suspend-entire-world-cup-squad-2033933.html)
 3. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/07/23/16/419101.bin)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/13/78-year-old-assisted-suicide-advocate-jack-kevorkian-is-to-be-paroled-in-june.html)  [JSON](/news/2006/12/13/78-year-old-assisted-suicide-advocate-jack-kevorkian-is-to-be-paroled-in-june.json)  [XML](/news/2006/12/13/78-year-old-assisted-suicide-advocate-jack-kevorkian-is-to-be-paroled-in-june.xml)  
+
 ### [2006-12-13](/news/2006/12/13/index.md)
 
+##### assisted suicide
 #  78-year-old assisted suicide advocate Jack Kevorkian is to be paroled in June. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Detroit News](http://www.detnews.com/apps/pbcs.dll/article?AID=/20061213/UPDATE/612130476)
 

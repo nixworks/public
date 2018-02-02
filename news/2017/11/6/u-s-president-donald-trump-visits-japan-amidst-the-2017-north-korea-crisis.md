@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-t
 
 ### [2017-11-6](/news/2017/11/6/index.md)
 
+##### Japan-United States relations
 # U.S. President Donald Trump visits Japan amidst the 2017 North Korea crisis. 
 
 

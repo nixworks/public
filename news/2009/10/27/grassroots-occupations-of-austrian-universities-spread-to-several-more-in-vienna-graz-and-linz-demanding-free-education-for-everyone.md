@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/27/grassroots-occupations-of-austrian-universities-spread-to-several-more-in-vienna-graz-and-linz-demanding-free-education-for-everyone.html)  [JSON](/news/2009/10/27/grassroots-occupations-of-austrian-universities-spread-to-several-more-in-vienna-graz-and-linz-demanding-free-education-for-everyone.json)  [XML](/news/2009/10/27/grassroots-occupations-of-austrian-universities-spread-to-several-more-in-vienna-graz-and-linz-demanding-free-education-for-everyone.xml)  
+
 ### [2009-10-27](/news/2009/10/27/index.md)
 
+##### Grassroots
 #  Grassroots occupations of Austrian universities spread to several more in Vienna, Graz and Linz, demanding free education for everyone. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Austrian Times](http://austriantimes.at/news/General_News/2009-10-27/17580/Minister_rejects_forced_student_eviction)
 2. [Boston Herald](http://bostonherald.com/news/international/europe/view.bg?articleid=1207400)

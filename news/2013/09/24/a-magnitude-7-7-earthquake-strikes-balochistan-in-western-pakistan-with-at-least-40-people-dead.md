@@ -1,14 +1,19 @@
+
+Formats: [HTML](/news/2013/09/24/a-magnitude-7-7-earthquake-strikes-balochistan-in-western-pakistan-with-at-least-40-people-dead.html)  [JSON](/news/2013/09/24/a-magnitude-7-7-earthquake-strikes-balochistan-in-western-pakistan-with-at-least-40-people-dead.json)  [XML](/news/2013/09/24/a-magnitude-7-7-earthquake-strikes-balochistan-in-western-pakistan-with-at-least-40-people-dead.xml)  
+
 ### [2013-09-24](/news/2013/09/24/index.md)
 
+##### 7.7-magnitude earthquake
 # A magnitude 7.7 earthquake strikes Balochistan in western Pakistan with at least 40 people dead. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/usb000jyiv#shakemap)
+1. [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/usb000jyiv#shakemap)
 2. [Wall Street Journal](http://online.wsj.com/article/SB10001424052702303759604579094910032559126.html)
+2. [Cover Image](https://earthquake.usgs.gov/earthquakes/eventpage/images/logos/usgs-logo-facebook.jpg)
 
 ### Related:
 

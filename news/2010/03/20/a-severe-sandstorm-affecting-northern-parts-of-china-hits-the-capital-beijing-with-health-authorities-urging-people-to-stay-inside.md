@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/20/a-severe-sandstorm-affecting-northern-parts-of-china-hits-the-capital-beijing-with-health-authorities-urging-people-to-stay-inside.html)  [JSON](/news/2010/03/20/a-severe-sandstorm-affecting-northern-parts-of-china-hits-the-capital-beijing-with-health-authorities-urging-people-to-stay-inside.json)  [XML](/news/2010/03/20/a-severe-sandstorm-affecting-northern-parts-of-china-hits-the-capital-beijing-with-health-authorities-urging-people-to-stay-inside.xml)  
+
 ### [2010-03-20](/news/2010/03/20/index.md)
 
+##### sandstorm
 # A severe sandstorm affecting northern parts of China hits the capital Beijing, with health authorities urging people to stay inside. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8577806.stm)
 2. [Bernama](http://www.bernama.com/bernama/v5/newsindex.php?id=484029)

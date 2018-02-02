@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/17/port-said-stadium-disaster-a-hearing-of-73-men-accused-of-involvement-in-the-killing-of-79-people-is-adjourned-until-may-5.html)  [JSON](/news/2012/04/17/port-said-stadium-disaster-a-hearing-of-73-men-accused-of-involvement-in-the-killing-of-79-people-is-adjourned-until-may-5.json)  [XML](/news/2012/04/17/port-said-stadium-disaster-a-hearing-of-73-men-accused-of-involvement-in-the-killing-of-79-people-is-adjourned-until-may-5.xml)  
+
 ### [2012-04-17](/news/2012/04/17/index.md)
 
+##### mass attack
 # Port Said Stadium disaster: A hearing of 73 men accused of involvement in the killing of 79 people is adjourned until May 5. 
 
 Hearing of 73 men accused of involvement in football violence that killed more than 70 people adjourned until May 5.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/2012417103332557940.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/17/2012417154851879734_20.jpg)

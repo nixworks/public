@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/01/8/it-is-reported-that-chinese-police-killed-18-members-of-the-east-turkestan-islamic-movement-organization-and-arrested-17-others-in-a-raid-i.html)  [JSON](/news/2007/01/8/it-is-reported-that-chinese-police-killed-18-members-of-the-east-turkestan-islamic-movement-organization-and-arrested-17-others-in-a-raid-i.json)  [XML](/news/2007/01/8/it-is-reported-that-chinese-police-killed-18-members-of-the-east-turkestan-islamic-movement-organization-and-arrested-17-others-in-a-raid-i.xml)  
+
 ### [2007-01-8](/news/2007/01/8/index.md)
 
+##### East Turkestan Islamic Movement
 #  It is reported that Chinese police killed 18 members of the East Turkestan Islamic Movement organization and arrested 17 others in a raid in the Pamir Plateau on 5 January. ETIM members shot and killed one officer and wounded another. Police found 22 grenades and enough explosive material to make 1,500 more. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6241073.stm)
-2. [USA Today](http://www.usatoday.com/news/world/2007-01-08-china-terrorism_x.htm)
+2. [USA Today](https://www.usatoday.com/news/world/2007-01-08-china-terrorism_x.htm)
 3. [Xinhua](http://big5.xinhuanet.com/gate/big5/news.xinhuanet.com/english/2007-01/08/content_5580233.htm)
 
 ### Related:

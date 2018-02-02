@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/1/automaker-chrysler-announces-plans-for-cutting-an-additional-12-000-jobs-worldwide-as-part-of-a-major-restructuring-plan.html)  [JSON](/news/2007/11/1/automaker-chrysler-announces-plans-for-cutting-an-additional-12-000-jobs-worldwide-as-part-of-a-major-restructuring-plan.json)  [XML](/news/2007/11/1/automaker-chrysler-announces-plans-for-cutting-an-additional-12-000-jobs-worldwide-as-part-of-a-major-restructuring-plan.xml)  
+
 ### [2007-11-1](/news/2007/11/1/index.md)
 
+##### Chrysler
 #  Automaker Chrysler announces plans for cutting an additional 12,000 jobs worldwide as part of a major restructuring plan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ (AP via CNN](http://money.cnn.com/2007/11/01/news/companies/bc.chrysler.jobcuts.ap/index.htm?cnn=yes)
 

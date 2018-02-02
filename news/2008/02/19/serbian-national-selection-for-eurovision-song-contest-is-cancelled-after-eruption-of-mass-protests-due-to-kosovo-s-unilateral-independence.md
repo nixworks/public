@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2008/02/19/serbian-national-selection-for-eurovision-song-contest-is-cancelled-after-eruption-of-mass-protests-due-to-kosovo-s-unilateral-independence.html)  [JSON](/news/2008/02/19/serbian-national-selection-for-eurovision-song-contest-is-cancelled-after-eruption-of-mass-protests-due-to-kosovo-s-unilateral-independence.json)  [XML](/news/2008/02/19/serbian-national-selection-for-eurovision-song-contest-is-cancelled-after-eruption-of-mass-protests-due-to-kosovo-s-unilateral-independence.xml)  
+
 ### [2008-02-19](/news/2008/02/19/index.md)
 
+##### Serbian national selection for Eurovision Song Contest
 #  Serbian national selection for Eurovision Song Contest is cancelled after eruption of mass protests due to Kosovo's unilateral independence declaration 2 days earlier.
 
 

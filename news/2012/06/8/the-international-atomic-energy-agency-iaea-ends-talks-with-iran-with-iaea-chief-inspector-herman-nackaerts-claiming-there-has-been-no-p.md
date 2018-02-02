@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/8/the-international-atomic-energy-agency-iaea-ends-talks-with-iran-with-iaea-chief-inspector-herman-nackaerts-claiming-there-has-been-no-p.html)  [JSON](/news/2012/06/8/the-international-atomic-energy-agency-iaea-ends-talks-with-iran-with-iaea-chief-inspector-herman-nackaerts-claiming-there-has-been-no-p.json)  [XML](/news/2012/06/8/the-international-atomic-energy-agency-iaea-ends-talks-with-iran-with-iaea-chief-inspector-herman-nackaerts-claiming-there-has-been-no-p.xml)  
+
 ### [2012-06-8](/news/2012/06/8/index.md)
 
+##### IAEA
 # The International Atomic Energy Agency (IAEA) ends talks with Iran, with IAEA chief inspector Herman Nackaerts claiming "There has been no progress". 
 
 Lack of deal to increase access casts shadow over upcoming Moscow meeting between Iran and six world powers.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/201268187582475.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/8/20126818199937734_20.jpg)

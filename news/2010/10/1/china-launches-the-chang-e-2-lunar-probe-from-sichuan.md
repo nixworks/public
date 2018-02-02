@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/1/china-launches-the-chang-e-2-lunar-probe-from-sichuan.html)  [JSON](/news/2010/10/1/china-launches-the-chang-e-2-lunar-probe-from-sichuan.json)  [XML](/news/2010/10/1/china-launches-the-chang-e-2-lunar-probe-from-sichuan.xml)  
+
 ### [2010-10-1](/news/2010/10/1/index.md)
 
+##### China
 # China launches the Chang'e 2 lunar probe from Sichuan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-11453384)
 2. [Xinhua](http://news.xinhuanet.com/english2010/sci/2010-10/01/c_13539035.htm)

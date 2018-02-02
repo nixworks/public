@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/01/31/pharmaceutical-companies-genzyme-and-sanofi-aventis-are-reported-to-have-reached-an-agreement-in-principle-on-a-deal-in-which-sanofi-a-fr.html)  [JSON](/news/2011/01/31/pharmaceutical-companies-genzyme-and-sanofi-aventis-are-reported-to-have-reached-an-agreement-in-principle-on-a-deal-in-which-sanofi-a-fr.json)  [XML](/news/2011/01/31/pharmaceutical-companies-genzyme-and-sanofi-aventis-are-reported-to-have-reached-an-agreement-in-principle-on-a-deal-in-which-sanofi-a-fr.xml)  
+
 ### [2011-01-31](/news/2011/01/31/index.md)
 
+##### Genzyme
 # Pharmaceutical companies Genzyme and Sanofi-Aventis are reported to have reached an "agreement in principle" on a deal in which Sanofi, a French company, will acquire Cambridge-based Genzyme for an undetermined amount of money. 
 
 Genzyme and Sanofi-Aventis have reached a so called &ldquo;agreement in principle&rdquo; for a deal in which Sanofi will acquire Genzyme. 
 
 
-### Source:
+### Sources:
 
-1. [CNBC](http://www.cnbc.com/id/41352083)
+1. [CNBC](https://www.cnbc.com/id/41352083)
 
 ### Related:
 

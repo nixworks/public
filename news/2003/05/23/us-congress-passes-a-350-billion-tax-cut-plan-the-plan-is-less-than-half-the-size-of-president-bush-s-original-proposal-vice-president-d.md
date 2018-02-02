@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/23/us-congress-passes-a-350-billion-tax-cut-plan-the-plan-is-less-than-half-the-size-of-president-bush-s-original-proposal-vice-president-d.html)  [JSON](/news/2003/05/23/us-congress-passes-a-350-billion-tax-cut-plan-the-plan-is-less-than-half-the-size-of-president-bush-s-original-proposal-vice-president-d.json)  [XML](/news/2003/05/23/us-congress-passes-a-350-billion-tax-cut-plan-the-plan-is-less-than-half-the-size-of-president-bush-s-original-proposal-vice-president-d.xml)  
+
 ### [2003-05-23](/news/2003/05/23/index.md)
 
+##### Congressman
 #  US Congress passes a $350 billion tax cut plan. The plan is less than half the size of President Bush's original proposal. Vice President Dick Cheney casts the deciding vote, breaking the 50-50 tie in the Senate 
 
 

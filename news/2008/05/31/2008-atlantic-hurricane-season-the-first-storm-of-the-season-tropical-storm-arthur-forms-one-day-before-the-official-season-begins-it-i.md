@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/31/2008-atlantic-hurricane-season-the-first-storm-of-the-season-tropical-storm-arthur-forms-one-day-before-the-official-season-begins-it-i.html)  [JSON](/news/2008/05/31/2008-atlantic-hurricane-season-the-first-storm-of-the-season-tropical-storm-arthur-forms-one-day-before-the-official-season-begins-it-i.json)  [XML](/news/2008/05/31/2008-atlantic-hurricane-season-the-first-storm-of-the-season-tropical-storm-arthur-forms-one-day-before-the-official-season-begins-it-i.xml)  
+
 ### [2008-05-31](/news/2008/05/31/index.md)
 
+##### 2008 Atlantic hurricane season
 #  2008 Atlantic hurricane season: The first storm of the season, Tropical Storm Arthur, forms one day before the official season begins. It is located about 45 mi (75 km) NNW of Belize City. It has maximum sustained winds of 40 mph (55 km-h), and with higher gusts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/.shtml)
 

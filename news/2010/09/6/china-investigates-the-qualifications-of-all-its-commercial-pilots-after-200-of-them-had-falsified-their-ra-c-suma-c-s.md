@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/6/china-investigates-the-qualifications-of-all-its-commercial-pilots-after-200-of-them-had-falsified-their-ra-c-suma-c-s.html)  [JSON](/news/2010/09/6/china-investigates-the-qualifications-of-all-its-commercial-pilots-after-200-of-them-had-falsified-their-ra-c-suma-c-s.json)  [XML](/news/2010/09/6/china-investigates-the-qualifications-of-all-its-commercial-pilots-after-200-of-them-had-falsified-their-ra-c-suma-c-s.xml)  
+
 ### [2010-09-6](/news/2010/09/6/index.md)
 
+##### China
 # China investigates the qualifications of all its commercial pilots after 200 of them had falsified their resumes. 
 
 China is checking the qualifications of all its commercial pilots, after it emerged that more than 200 of them lied about their experience.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h-hza9H6_RDo0OuPcs9rhUOaRCPg)
 2. [BBC](http://www.bbc.co.uk/news/business-11200188)

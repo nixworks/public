@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2012/02/3/major-general-michael-linnington-orders-a-court-martial-for-us-private-bradley-manning-responsible-for-leaking-hundreds-of-thousands-of-docu.html)  [JSON](/news/2012/02/3/major-general-michael-linnington-orders-a-court-martial-for-us-private-bradley-manning-responsible-for-leaking-hundreds-of-thousands-of-docu.json)  [XML](/news/2012/02/3/major-general-michael-linnington-orders-a-court-martial-for-us-private-bradley-manning-responsible-for-leaking-hundreds-of-thousands-of-docu.xml)  
+
 ### [2012-02-3](/news/2012/02/3/index.md)
 
+##### Major General
 # Major General Michael Linnington orders a court martial for US Private Bradley Manning responsible for leaking hundreds of thousands of documents to Wikileaks. 
 
 The commander of the Military District of Washington has ordered a court-martial for Pfc. Bradley E. Manning, the former intelligence analyst accused of giving hundreds of thousands of classified documents to the anti-secrecy group WikiLeaks.
 
 
-### Source:
+### Sources:
 
 1. [Baltimore Sun](http://www.baltimoresun.com/news/maryland/bs-md-bradley-manning-court-martial-20120203,0,5022147.story)
 1. [Cover Image](http://www.trbimg.com/img-532df6da/turbine/bs-md-bradley-manning-court-martial-20120203)
 
 ### Related:
 
-1. [Wikileaks suspect United States Army Private Bradley Manning is formally charged ahead of a court martial. ](/news/2012/02/23/wikileaks-suspect-united-states-army-private-bradley-manning-is-formally-charged-ahead-of-a-court-martial.md) _Context: Bradley Manning, WikiLeaks, court-martial_
-2. [In "United States v. Bradley Manning", Bradley Manning is acquitted of aiding the enemy for giving classified United States Army information to WikiLeaks. Manning is found guilty of five espionage charges and five theft charges. ](/news/2013/07/30/in-united-states-v-bradley-manning-bradley-manning-is-acquitted-of-aiding-the-enemy-for-giving-classified-united-states-army-information.md) _Context: Bradley Manning, WikiLeaks_
-3. [The judge disallows discussion of Bradley Manning's motives for leaking classified material to WikiLeaks at this time. ](/news/2013/06/5/the-judge-disallows-discussion-of-bradley-manning-s-motives-for-leaking-classified-material-to-wikileaks-at-this-time.md) _Context: Bradley Manning, WikiLeaks_
-4. [The trial of U.S. serviceman Bradley Manning for leaking classified material to WikiLeaks continues in Fort Meade, Maryland. Former computer hacker Adrian Lamo, who turned Manning in to his persecutors, gives evidence at the court martial. ](/news/2013/06/4/the-trial-of-u-s-serviceman-bradley-manning-for-leaking-classified-material-to-wikileaks-continues-in-fort-meade-maryland-former-computer.md) _Context: Bradley Manning, WikiLeaks_
-5. [The trial of United States Army private Bradley Manning for leaking classified material to WikiLeaks begins in Fort Meade, Maryland. ](/news/2013/06/3/the-trial-of-united-states-army-private-bradley-manning-for-leaking-classified-material-to-wikileaks-begins-in-fort-meade-maryland.md) _Context: Bradley Manning, WikiLeaks_
+1. [Wikileaks suspect United States Army Private Bradley Manning is formally charged ahead of a court martial. ](/news/2012/02/23/wikileaks-suspect-united-states-army-private-bradley-manning-is-formally-charged-ahead-of-a-court-martial.md) _Context: Bradley Manning, Wikileaks, court martial_
+2. [It is revealed that the United States has subpoenaed Twitter for personal information regarding people connected to Wikileaks, including founder Julian Assange, suspected source of leaks Bradley Manning, and supporter Birgitta Jonsdottir, a member of Iceland's Althing. ](/news/2011/01/8/it-is-revealed-that-the-united-states-has-subpoenaed-twitter-for-personal-information-regarding-people-connected-to-wikileaks-including-fou.md) _Context: Bradley Manning, Wikileaks_
+3. [Bradley Manning is finally charged with leaking the Collateral Murder video to Wikileaks, along with other documents, after spending more than a month detained in Kuwait without charge. ](/news/2010/07/6/bradley-manning-is-finally-charged-with-leaking-the-collateral-murder-video-to-wikileaks-along-with-other-documents-after-spending-more-th.md) _Context: Bradley Manning, Wikileaks_
+4. [Emails released by Wikileaks show that the Democratic National Committee (DNC), led by Debbie Wasserman Schultz, supported the candidacy of Hillary Clinton over Bernie Sanders. ](/news/2016/07/23/emails-released-by-wikileaks-show-that-the-democratic-national-committee-dnc-led-by-debbie-wasserman-schultz-supported-the-candidacy-of.md) _Context: Wikileaks_
+5. [United States Army sergeant Bowe Bergdahl will face a court martial on charges of misbehavior before the enemy and desertion related to his capture by the Taliban-aligned Haqqani network in Afghanistan in June 2009. ](/news/2015/12/14/united-states-army-sergeant-bowe-bergdahl-will-face-a-court-martial-on-charges-of-misbehavior-before-the-enemy-and-desertion-related-to-his.md) _Context: court martial_

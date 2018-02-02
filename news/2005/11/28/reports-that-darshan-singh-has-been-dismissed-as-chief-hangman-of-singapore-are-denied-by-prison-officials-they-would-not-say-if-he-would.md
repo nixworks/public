@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/28/reports-that-darshan-singh-has-been-dismissed-as-chief-hangman-of-singapore-are-denied-by-prison-officials-they-would-not-say-if-he-would.html)  [JSON](/news/2005/11/28/reports-that-darshan-singh-has-been-dismissed-as-chief-hangman-of-singapore-are-denied-by-prison-officials-they-would-not-say-if-he-would.json)  [XML](/news/2005/11/28/reports-that-darshan-singh-has-been-dismissed-as-chief-hangman-of-singapore-are-denied-by-prison-officials-they-would-not-say-if-he-would.xml)  
+
 ### [2005-11-28](/news/2005/11/28/index.md)
 
+##### Darshan Singh
 #  Reports that Darshan Singh has been dismissed as chief hangman of Singapore are denied by prison officials. They would not say if he would perform the hanging of Nguyen Tuong Van. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/newsitems/200511/s1518962.htm)
 

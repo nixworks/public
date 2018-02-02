@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/25/at-least-25-people-are-killed-and-several-injured-in-a-series-of-bomb-blasts-targeted-at-shi-ite-rally-in-baghdad-iraq-the-attack-comes-le.html)  [JSON](/news/2014/04/25/at-least-25-people-are-killed-and-several-injured-in-a-series-of-bomb-blasts-targeted-at-shi-ite-rally-in-baghdad-iraq-the-attack-comes-le.json)  [XML](/news/2014/04/25/at-least-25-people-are-killed-and-several-injured-in-a-series-of-bomb-blasts-targeted-at-shi-ite-rally-in-baghdad-iraq-the-attack-comes-le.xml)  
+
 ### [2014-04-25](/news/2014/04/25/index.md)
 
+##### Shi'ite
 # At least 25 people are killed and several injured in a series of bomb blasts targeted at Shi'ite rally in Baghdad, Iraq. The attack comes less than a week before Iraqis are due to head to the polls in parliamentary elections.
 
 At least 31 people are killed in a series of blasts targeting a Shia election rally in the Iraqi capital, Baghdad.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-27165504)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74454000/jpg/_74454400_656xicej.jpg)

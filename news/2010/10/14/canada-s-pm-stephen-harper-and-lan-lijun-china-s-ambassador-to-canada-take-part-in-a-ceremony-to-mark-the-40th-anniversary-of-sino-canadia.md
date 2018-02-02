@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/14/canada-s-pm-stephen-harper-and-lan-lijun-china-s-ambassador-to-canada-take-part-in-a-ceremony-to-mark-the-40th-anniversary-of-sino-canadia.html)  [JSON](/news/2010/10/14/canada-s-pm-stephen-harper-and-lan-lijun-china-s-ambassador-to-canada-take-part-in-a-ceremony-to-mark-the-40th-anniversary-of-sino-canadia.json)  [XML](/news/2010/10/14/canada-s-pm-stephen-harper-and-lan-lijun-china-s-ambassador-to-canada-take-part-in-a-ceremony-to-mark-the-40th-anniversary-of-sino-canadia.xml)  
+
 ### [2010-10-14](/news/2010/10/14/index.md)
 
+##### Stephen Harper
 # Canada's PM Stephen Harper and Lan Lijun, China's Ambassador to Canada, take part in a ceremony to mark the 40th anniversary of Sino-Canadian relations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SINA](http://english.sina.com/china/p/2010/1014/343544.html)
 

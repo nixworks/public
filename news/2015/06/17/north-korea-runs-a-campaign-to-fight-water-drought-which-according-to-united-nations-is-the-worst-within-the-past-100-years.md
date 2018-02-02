@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/06/17/north-korea-runs-a-campaign-to-fight-water-drought-which-according-to-united-nations-is-the-worst-within-the-past-100-years.html)  [JSON](/news/2015/06/17/north-korea-runs-a-campaign-to-fight-water-drought-which-according-to-united-nations-is-the-worst-within-the-past-100-years.json)  [XML](/news/2015/06/17/north-korea-runs-a-campaign-to-fight-water-drought-which-according-to-united-nations-is-the-worst-within-the-past-100-years.xml)  
+
 ### [2015-06-17](/news/2015/06/17/index.md)
 
+##### North Korea
 # North Korea runs a campaign to fight water drought, which according to United Nations is the worst within the past 100 years. 
 
 North Korea has been hit by whatit describes as its worst drought in a century, which couldworsen chronic food shortages in a country where the UnitedNations says almost a third of children under five are stuntedbecause of poor nutrition.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/06/17/northkorea-drought-idUSL3N0Z241120150617)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/06/17/northkorea-drought-idUSL3N0Z241120150617)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

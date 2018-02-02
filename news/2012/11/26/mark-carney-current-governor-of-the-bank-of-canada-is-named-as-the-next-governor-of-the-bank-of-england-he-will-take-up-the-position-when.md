@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/26/mark-carney-current-governor-of-the-bank-of-canada-is-named-as-the-next-governor-of-the-bank-of-england-he-will-take-up-the-position-when.html)  [JSON](/news/2012/11/26/mark-carney-current-governor-of-the-bank-of-canada-is-named-as-the-next-governor-of-the-bank-of-england-he-will-take-up-the-position-when.json)  [XML](/news/2012/11/26/mark-carney-current-governor-of-the-bank-of-canada-is-named-as-the-next-governor-of-the-bank-of-england-he-will-take-up-the-position-when.xml)  
+
 ### [2012-11-26](/news/2012/11/26/index.md)
 
+##### Mark Carney
 # Mark Carney, current Governor of the Bank of Canada, is named as the next Governor of the Bank of England. He will take up the position when current Governor Mervyn King steps down in June 2013. 
 
 Mark Carney, the head of the Canadian central bank, is named as the surprise choice for new governor of the Bank of England by Chancellor George Osborne.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-20501990)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64391000/jpg/_64391786_64391785.jpg)

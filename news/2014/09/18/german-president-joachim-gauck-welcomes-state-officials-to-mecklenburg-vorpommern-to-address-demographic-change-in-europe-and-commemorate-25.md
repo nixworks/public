@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/18/german-president-joachim-gauck-welcomes-state-officials-to-mecklenburg-vorpommern-to-address-demographic-change-in-europe-and-commemorate-25.html)  [JSON](/news/2014/09/18/german-president-joachim-gauck-welcomes-state-officials-to-mecklenburg-vorpommern-to-address-demographic-change-in-europe-and-commemorate-25.json)  [XML](/news/2014/09/18/german-president-joachim-gauck-welcomes-state-officials-to-mecklenburg-vorpommern-to-address-demographic-change-in-europe-and-commemorate-25.xml)  
+
 ### [2014-09-18](/news/2014/09/18/index.md)
 
+##### Joachim Gauck
 # German president Joachim Gauck welcomes state officials to Mecklenburg-Vorpommern to address demographic change in Europe and commemorate 25 years of the Peaceful Revolution. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Official press release](http://www.bundespraesident.de/SharedDocs/Pressemitteilungen/DE/2014/09/140908-fuenf-Staatsoberhaeupter.html)
 

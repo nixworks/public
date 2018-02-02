@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/7/the-former-president-of-israel-moshe-katsav-arrives-at-a-prison-outside-tel-aviv-to-start-a-seven-year-term-for-rape.html)  [JSON](/news/2011/12/7/the-former-president-of-israel-moshe-katsav-arrives-at-a-prison-outside-tel-aviv-to-start-a-seven-year-term-for-rape.json)  [XML](/news/2011/12/7/the-former-president-of-israel-moshe-katsav-arrives-at-a-prison-outside-tel-aviv-to-start-a-seven-year-term-for-rape.xml)  
+
 ### [2011-12-7](/news/2011/12/7/index.md)
 
+##### President
 # The former President of Israel Moshe Katsav arrives at a prison outside Tel Aviv to start a seven year term for rape. 
 
 Disgraced former Israeli President Moshe Katsav begins a seven-year sentence for rape, following a case which led him to resign from the post.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16064840)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/57172000/jpg/_57172390_013474084-1.jpg)

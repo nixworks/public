@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/15/the-final-three-defendants-in-the-bali-nine-hearings-in-indonesia-australians-matthew-norman-19-tan-duc-thanh-nguyen-23-and-si-yi-che.html)  [JSON](/news/2006/02/15/the-final-three-defendants-in-the-bali-nine-hearings-in-indonesia-australians-matthew-norman-19-tan-duc-thanh-nguyen-23-and-si-yi-che.json)  [XML](/news/2006/02/15/the-final-three-defendants-in-the-bali-nine-hearings-in-indonesia-australians-matthew-norman-19-tan-duc-thanh-nguyen-23-and-si-yi-che.xml)  
+
 ### [2006-02-15](/news/2006/02/15/index.md)
 
+##### Bali Nine
 #  The final three defendants in the Bali Nine hearings in Indonesia, Australians, Matthew Norman, 19, Tan Duc Thanh Nguyen, 23, and Si Yi Chen, 20, are sentenced to life imprisonment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NineMSN](http://news.ninemsn.com.au/article.aspx?id=86883)
 

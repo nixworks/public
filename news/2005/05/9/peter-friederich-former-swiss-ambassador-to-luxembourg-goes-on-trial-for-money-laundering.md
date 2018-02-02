@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2005/05/9/peter-friederich-former-swiss-ambassador-to-luxembourg-goes-on-trial-for-money-laundering.html)  [JSON](/news/2005/05/9/peter-friederich-former-swiss-ambassador-to-luxembourg-goes-on-trial-for-money-laundering.json)  [XML](/news/2005/05/9/peter-friederich-former-swiss-ambassador-to-luxembourg-goes-on-trial-for-money-laundering.xml)  
+
 ### [2005-05-9](/news/2005/05/9/index.md)
 
+##### Peter Friederich
 #  Peter Friederich, former Swiss ambassador to Luxembourg, goes on trial for money laundering. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Swissinfo](http://www.swissinfo.org/sen/swissinfo.html?siteSect=106&sid=5759302&cKey=1115569703000)
 
 ### Related:
 
-1. [SpaceX launches a Falcon 9 Full Thrust rocket at Cape Canaveral, Florida, to supersynchronous orbit an Airbus-built communications satellite SES-11 for Luxembourg-based SES, and EchoStar 105 for U.S.-headquartered EchoStar. It's the third time when a Falcon 9 first stage is re-used. ](/news/2017/10/11/spacex-launches-a-falcon-9-full-thrust-rocket-at-cape-canaveral-florida-to-supersynchronous-orbit-an-airbus-built-communications-satellite.md) _Context: Luxembourg_
-2. [Two trains collide in Andermatt railway station in the Canton of Uri, Switzerland, injuring around 30 people. ](/news/2017/09/11/two-trains-collide-in-andermatt-railway-station-in-the-canton-of-uri-switzerland-injuring-around-30-people.md) _Context: Switzerland_
-3. [At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. A manhunt is underway for the suspect.](/news/2017/07/24/at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerland-a-manhunt-is-under.md) _Context: Switzerland_
-4. [A court of Lima orders 18 months of pre-trial imprisonment for former president Ollanta Humala and his wife Nadine Heredia for alleged money laundering. Both have turned themselves in. ](/news/2017/07/14/a-court-of-lima-orders-18-months-of-pre-trial-imprisonment-for-former-president-ollanta-humala-and-his-wife-nadine-heredia-for-alleged-money.md) _Context: money laundering_
-5. [Swiss voters approve a referendum to phase out nuclear power in Switzerland and increase renewable energy. ](/news/2017/05/21/swiss-voters-approve-a-referendum-to-phase-out-nuclear-power-in-switzerland-and-increase-renewable-energy.md) _Context: Switzerland_
+1. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: Switzerland_
+2. [Various billionaires, world leaders, and investors gather in Davos, Switzerland to discuss economic issues. ](/news/2018/01/23/various-billionaires-world-leaders-and-investors-gather-in-davos-switzerland-to-discuss-economic-issues.md) _Context: Switzerland_
+3. [A French court does not order the custody of Suleyman Kerimov but sets a EUR40 million bail and tighter controls. Kerimov was arrested on November 21 in a money laundering and tax fraud case. ](/news/2017/12/6/a-french-court-does-not-order-the-custody-of-suleyman-kerimov-but-sets-a-a-40-million-bail-and-tighter-controls-kerimov-was-arrested-on-no.md) _Context: money laundering_
+4. [U.S. President Donald Trump commutes the prison sentence of Sholom Rubashkin, who in 2009 was sentenced to 27 years in prison for bank fraud and money laundering. ](/news/2017/12/20/u-s-president-donald-trump-commutes-the-prison-sentence-of-sholom-rubashkin-who-in-2009-was-sentenced-to-27-years-in-prison-for-bank-fraud.md) _Context: money laundering_
+5. [Paul Manafort and Rick Gates surrender to the FBI after both are indicted on multiple charges stemming from the investigation into the Donald Trump presidential campaign's possible associations with the Russian government. The two men--who respectively served as manager and deputy manager of the campaign from March to August 2016--are being charged on twelve counts, which include conspiracy against the U.S., money laundering and failing to register as foreign agents. ](/news/2017/10/30/paul-manafort-and-rick-gates-surrender-to-the-fbi-after-both-are-indicted-on-multiple-charges-stemming-from-the-investigation-into-the-donal.md) _Context: money laundering_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/24/the-united-states-coast-guard-and-alaska-air-national-guard-rescue-twenty-three-crew-members-from-a-capsized-cargo-ship-south-of-the-aleuti.html)  [JSON](/news/2006/07/24/the-united-states-coast-guard-and-alaska-air-national-guard-rescue-twenty-three-crew-members-from-a-capsized-cargo-ship-south-of-the-aleuti.json)  [XML](/news/2006/07/24/the-united-states-coast-guard-and-alaska-air-national-guard-rescue-twenty-three-crew-members-from-a-capsized-cargo-ship-south-of-the-aleuti.xml)  
+
 ### [2006-07-24](/news/2006/07/24/index.md)
 
+##### United States Coast Guard
 #  The United States Coast Guard and Alaska Air National Guard rescue twenty-three crew members from a capsized cargo ship south of the Aleutian Islands, on its way from Japan to Vancouver. 
 
 Salvage crews will try to recover a load of 4,813 cars left behind on a huge ship that is listing at a right angle in the northern Pacific Ocean off Alaska. 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/world/story/2006/07/25/listing-ship.html?ref=rss)
 1. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)

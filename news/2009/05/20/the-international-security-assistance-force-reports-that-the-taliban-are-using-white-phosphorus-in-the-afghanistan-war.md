@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/20/the-international-security-assistance-force-reports-that-the-taliban-are-using-white-phosphorus-in-the-afghanistan-war.html)  [JSON](/news/2009/05/20/the-international-security-assistance-force-reports-that-the-taliban-are-using-white-phosphorus-in-the-afghanistan-war.json)  [XML](/news/2009/05/20/the-international-security-assistance-force-reports-that-the-taliban-are-using-white-phosphorus-in-the-afghanistan-war.xml)  
+
 ### [2009-05-20](/news/2009/05/20/index.md)
 
+##### International Security Assistance Force
 #  The International Security Assistance Force reports that the Taliban are using white phosphorus in the Afghanistan War. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/05/19/afghanistan.white.phosphorus/index.html)
 

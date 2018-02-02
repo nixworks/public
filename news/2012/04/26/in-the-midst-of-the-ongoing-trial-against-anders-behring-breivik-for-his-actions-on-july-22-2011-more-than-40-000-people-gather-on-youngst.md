@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/26/in-the-midst-of-the-ongoing-trial-against-anders-behring-breivik-for-his-actions-on-july-22-2011-more-than-40-000-people-gather-on-youngst.html)  [JSON](/news/2012/04/26/in-the-midst-of-the-ongoing-trial-against-anders-behring-breivik-for-his-actions-on-july-22-2011-more-than-40-000-people-gather-on-youngst.json)  [XML](/news/2012/04/26/in-the-midst-of-the-ongoing-trial-against-anders-behring-breivik-for-his-actions-on-july-22-2011-more-than-40-000-people-gather-on-youngst.xml)  
+
 ### [2012-04-26](/news/2012/04/26/index.md)
 
+##### Anders Behring Breivik
 # In the midst of the ongoing trial against Anders Behring Breivik for his actions on July 22, 2011, more than 40,000 people gather on Youngstorget in Oslo to show support for all those affected. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TV2](http://www.tv2.no/nyheter/innenriks/22-juli-terror-oslo-og-utoya/-40000-har-moett-opp-paa-youngstorget-3766143.html)
 1. [Cover Image](http://www.tv2.no/s/lab/2.5/p/img/logo/tv2-default.jpg)

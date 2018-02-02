@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/19/supporters-of-zimbabwean-president-robert-mugabe-stone-delegates-meeting-in-the-capital-harare-to-create-a-new-constitution-injuring-five-p.html)  [JSON](/news/2010/09/19/supporters-of-zimbabwean-president-robert-mugabe-stone-delegates-meeting-in-the-capital-harare-to-create-a-new-constitution-injuring-five-p.json)  [XML](/news/2010/09/19/supporters-of-zimbabwean-president-robert-mugabe-stone-delegates-meeting-in-the-capital-harare-to-create-a-new-constitution-injuring-five-p.xml)  
+
 ### [2010-09-19](/news/2010/09/19/index.md)
 
+##### Zimbabwe
 # Supporters of Zimbabwean President Robert Mugabe stone delegates meeting in the capital Harare to create a new constitution, injuring five people. 
 
 Copac outreach meetings in Harare were Sunday abandoned after violence and chaos rocked the proceedings as youths — most of whom were apparently Zanu PF supporters — chased away suspected MDC-T supporters from the gatherings. Where the meetings took place, there was tension and high politicisation of talking points resulting in most of the meetings &hellip;
 
 
-### Source:
+### Sources:
 
 1. [NewsDay.zw](http://www.newsday.co.zw/article/2010-09-19-zanu-pf-trashes-copac-meetings)
 2. [Times Live](http://www.timeslive.co.za/africa/article666706.ece/Pro-Mugabe-militants-stone-constitution-meet-in-Zimbabwe)

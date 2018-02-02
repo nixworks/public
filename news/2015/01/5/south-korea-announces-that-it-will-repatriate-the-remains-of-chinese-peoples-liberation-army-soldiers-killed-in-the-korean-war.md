@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/5/south-korea-announces-that-it-will-repatriate-the-remains-of-chinese-peoples-liberation-army-soldiers-killed-in-the-korean-war.html)  [JSON](/news/2015/01/5/south-korea-announces-that-it-will-repatriate-the-remains-of-chinese-peoples-liberation-army-soldiers-killed-in-the-korean-war.json)  [XML](/news/2015/01/5/south-korea-announces-that-it-will-repatriate-the-remains-of-chinese-peoples-liberation-army-soldiers-killed-in-the-korean-war.xml)  
+
 ### [2015-01-5](/news/2015/01/5/index.md)
 
+##### South Korea
 # South Korea announces that it will repatriate the remains of Chinese Peoples Liberation Army soldiers killed in the Korean War. 
 
  South Korea plans to return some 60 sets of remains of Chinese soldiers killed during the 1950-53 Korean War to their homeland, a defense ministry official here said Monday.
 
 
-### Source:
+### Sources:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/news/2015/01/05/0200000000AEN20150105008300315.html)
 

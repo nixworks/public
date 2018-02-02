@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/9/at-least-29-people-are-dead-and-22-are-missing-i
 
 ### [2018-01-9](/news/2018/01/9/index.md)
 
+##### 2017-18 South-West Indian Ocean cyclone season
 # At least 29 people are dead and 22 are missing in the aftermath of a strong tropical cyclone striking Madagascar. 
 
 Twenty-nine people died and more than 80,000 were affected after Tropical Cyclone Ava tore through Madagascar last week, authorities said on Monday.

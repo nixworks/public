@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/5/mahmoud-ahmadinejad-is-officially-sworn-in-as-president-of-iran-for-a-second-term.html)  [JSON](/news/2009/08/5/mahmoud-ahmadinejad-is-officially-sworn-in-as-president-of-iran-for-a-second-term.json)  [XML](/news/2009/08/5/mahmoud-ahmadinejad-is-officially-sworn-in-as-president-of-iran-for-a-second-term.xml)  
+
 ### [2009-08-5](/news/2009/08/5/index.md)
 
+##### Mahmoud Ahmadinejad
 #  Mahmoud Ahmadinejad is officially sworn in as President of Iran for a second term. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8184240.stm)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=102574&sectionid=351020101)

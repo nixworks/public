@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/18/china-is-to-use-own-uranium-resources-to-meet-growing-nuclear-demand.html)  [JSON](/news/2010/11/18/china-is-to-use-own-uranium-resources-to-meet-growing-nuclear-demand.json)  [XML](/news/2010/11/18/china-is-to-use-own-uranium-resources-to-meet-growing-nuclear-demand.xml)  
+
 ### [2010-11-18](/news/2010/11/18/index.md)
 
+##### China
 # China is to use own uranium resources to meet growing nuclear demand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/world/20101118/161389984.html)
 

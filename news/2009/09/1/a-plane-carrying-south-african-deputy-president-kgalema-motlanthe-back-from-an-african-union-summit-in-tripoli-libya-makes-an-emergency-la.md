@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/1/a-plane-carrying-south-african-deputy-president-kgalema-motlanthe-back-from-an-african-union-summit-in-tripoli-libya-makes-an-emergency-la.html)  [JSON](/news/2009/09/1/a-plane-carrying-south-african-deputy-president-kgalema-motlanthe-back-from-an-african-union-summit-in-tripoli-libya-makes-an-emergency-la.json)  [XML](/news/2009/09/1/a-plane-carrying-south-african-deputy-president-kgalema-motlanthe-back-from-an-african-union-summit-in-tripoli-libya-makes-an-emergency-la.xml)  
+
 ### [2009-09-1](/news/2009/09/1/index.md)
 
+##### South Africa
 #  A plane carrying South African Deputy President Kgalema Motlanthe back from an African Union summit in Tripoli, Libya makes an emergency landing on an unlit runway in northern Congo after missing a fuel stop. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=136&art_id=nw20090901121411601C499396)
 

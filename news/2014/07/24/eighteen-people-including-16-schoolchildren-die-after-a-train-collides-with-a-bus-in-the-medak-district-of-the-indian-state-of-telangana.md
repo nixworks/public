@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/24/eighteen-people-including-16-schoolchildren-die-after-a-train-collides-with-a-bus-in-the-medak-district-of-the-indian-state-of-telangana.html)  [JSON](/news/2014/07/24/eighteen-people-including-16-schoolchildren-die-after-a-train-collides-with-a-bus-in-the-medak-district-of-the-indian-state-of-telangana.json)  [XML](/news/2014/07/24/eighteen-people-including-16-schoolchildren-die-after-a-train-collides-with-a-bus-in-the-medak-district-of-the-indian-state-of-telangana.xml)  
+
 ### [2014-07-24](/news/2014/07/24/index.md)
 
+##### Medak district
 # Eighteen people including 16 schoolchildren die after a train collides with a bus in the Medak district of the Indian state of Telangana. 
 
 Mangled remains of a school bus with blood stains on it, strewn bags, tiffin boxes, notebooks and text books was all it remained on the accident site of the bus-train collision in which 18 persons, including 16 school children, were killed in
 
 
-### Source:
+### Sources:
 
 1. [PTI via Business Standard](http://www.business-standard.com/article/pti-stories/heart-rending-scenes-wailing-parents-at-bus-crash-site-114072401221_1.html)
 1. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)

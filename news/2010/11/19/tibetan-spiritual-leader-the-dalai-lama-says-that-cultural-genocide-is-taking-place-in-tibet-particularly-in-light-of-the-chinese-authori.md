@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/19/tibetan-spiritual-leader-the-dalai-lama-says-that-cultural-genocide-is-taking-place-in-tibet-particularly-in-light-of-the-chinese-authori.html)  [JSON](/news/2010/11/19/tibetan-spiritual-leader-the-dalai-lama-says-that-cultural-genocide-is-taking-place-in-tibet-particularly-in-light-of-the-chinese-authori.json)  [XML](/news/2010/11/19/tibetan-spiritual-leader-the-dalai-lama-says-that-cultural-genocide-is-taking-place-in-tibet-particularly-in-light-of-the-chinese-authori.xml)  
+
 ### [2010-11-19](/news/2010/11/19/index.md)
 
+##### Dalai Lama
 # Tibetan spiritual leader, the Dalai Lama, says that cultural genocide is taking place in Tibet, particularly in light of the Chinese authority's requirement of Mandarin as the language of instruction in schools in Tibet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/Cultural-genocide-taking-place-in-Tibet-says-Dalai-Lama/Article1-628496.aspx)
 

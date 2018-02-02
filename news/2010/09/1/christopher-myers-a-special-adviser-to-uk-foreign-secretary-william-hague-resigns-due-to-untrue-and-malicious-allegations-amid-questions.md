@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/09/1/christopher-myers-a-special-adviser-to-uk-foreign-secretary-william-hague-resigns-due-to-untrue-and-malicious-allegations-amid-questions.html)  [JSON](/news/2010/09/1/christopher-myers-a-special-adviser-to-uk-foreign-secretary-william-hague-resigns-due-to-untrue-and-malicious-allegations-amid-questions.json)  [XML](/news/2010/09/1/christopher-myers-a-special-adviser-to-uk-foreign-secretary-william-hague-resigns-due-to-untrue-and-malicious-allegations-amid-questions.xml)  
+
 ### [2010-09-1](/news/2010/09/1/index.md)
 
+##### William Hague
 # Christopher Myers, a special adviser to UK Foreign Secretary William Hague, resigns due to "untrue and malicious" allegations amid questions surrounding Hague's marriage. 
 
 The Foreign Secretary, William Hague, was forced to issue an extraordinary public statement yesterday denying that he was gay, after his special adviser and long-term friend resigned over &quot;untrue and malicious&quot; rumours about the relationship between the two men.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-11156963)
 2. [Channel 4](http://www.channel4.com/news/articles/politics/domestic_politics/hague+adviser+resigns+over+aposuntrue+allegationsapos/3758577)
-3. [The Independent](http://www.independent.co.uk/news/uk/politics/hague-denies-rumour-he-is-gay-ndash-but-special-adviser-steps-down-2068151.html)
+3. [The Independent](https://www.independent.co.uk/news/uk/politics/hague-denies-rumour-he-is-gay-ndash-but-special-adviser-steps-down-2068151.html)
 3. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/09/01/21/444077.bin)
 
 ### Related:

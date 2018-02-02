@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/27/archbishop-of-glasgow-philip-tartaglia-is-appointed-apostolic-administrator-of-the-roman-catholic-archdiocese-of-st-andrews-and-edinburgh-fo.html)  [JSON](/news/2013/02/27/archbishop-of-glasgow-philip-tartaglia-is-appointed-apostolic-administrator-of-the-roman-catholic-archdiocese-of-st-andrews-and-edinburgh-fo.json)  [XML](/news/2013/02/27/archbishop-of-glasgow-philip-tartaglia-is-appointed-apostolic-administrator-of-the-roman-catholic-archdiocese-of-st-andrews-and-edinburgh-fo.xml)  
+
 ### [2013-02-27](/news/2013/02/27/index.md)
 
+##### Archbishop
 # Archbishop of Glasgow Philip Tartaglia is appointed apostolic administrator of the Roman Catholic Archdiocese of St Andrews and Edinburgh following Monday's resignation of Cardinal Keith O'Brien. 
 
 The Archbishop of Glasgow, Philip Tartaglia, is put in temporary charge of the Roman Catholic Archdiocese of St Andrews and Edinburgh.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-21605525)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66105000/jpg/_66105844_archbishoptartaglia.jpg)

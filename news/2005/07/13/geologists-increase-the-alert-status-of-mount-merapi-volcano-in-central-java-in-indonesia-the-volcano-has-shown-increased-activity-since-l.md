@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/13/geologists-increase-the-alert-status-of-mount-merapi-volcano-in-central-java-in-indonesia-the-volcano-has-shown-increased-activity-since-l.html)  [JSON](/news/2005/07/13/geologists-increase-the-alert-status-of-mount-merapi-volcano-in-central-java-in-indonesia-the-volcano-has-shown-increased-activity-since-l.json)  [XML](/news/2005/07/13/geologists-increase-the-alert-status-of-mount-merapi-volcano-in-central-java-in-indonesia-the-volcano-has-shown-increased-activity-since-l.xml)  
+
 ### [2005-07-13](/news/2005/07/13/index.md)
 
+##### Mounts Merapi
 #  Geologists increase the alert status of Mount Merapi volcano in central Java in Indonesia. The volcano has shown increased activity since last Friday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/157666/1/.html)
 2. [Jakarta Post](http://www.thejakartapost.com/detailnational.asp?fileid=20050713.D16&irec=12)

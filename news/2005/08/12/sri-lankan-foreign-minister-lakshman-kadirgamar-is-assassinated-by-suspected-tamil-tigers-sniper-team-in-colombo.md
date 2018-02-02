@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/12/sri-lankan-foreign-minister-lakshman-kadirgamar-is-assassinated-by-suspected-tamil-tigers-sniper-team-in-colombo.html)  [JSON](/news/2005/08/12/sri-lankan-foreign-minister-lakshman-kadirgamar-is-assassinated-by-suspected-tamil-tigers-sniper-team-in-colombo.json)  [XML](/news/2005/08/12/sri-lankan-foreign-minister-lakshman-kadirgamar-is-assassinated-by-suspected-tamil-tigers-sniper-team-in-colombo.xml)  
+
 ### [2005-08-12](/news/2005/08/12/index.md)
 
+##### Sri Lanka
 #  Sri Lankan Foreign Minister Lakshman Kadirgamar is assassinated by suspected Tamil Tigers sniper team in Colombo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/cnn/2005/WORLD/asiapcf/08/12/sri.lanka/)
 

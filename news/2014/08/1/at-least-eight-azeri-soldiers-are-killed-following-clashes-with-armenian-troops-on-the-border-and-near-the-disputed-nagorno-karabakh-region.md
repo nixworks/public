@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2014/08/1/at-least-eight-azeri-soldiers-are-killed-following-clashes-with-armenian-troops-on-the-border-and-near-the-disputed-nagorno-karabakh-region.html)  [JSON](/news/2014/08/1/at-least-eight-azeri-soldiers-are-killed-following-clashes-with-armenian-troops-on-the-border-and-near-the-disputed-nagorno-karabakh-region.json)  [XML](/news/2014/08/1/at-least-eight-azeri-soldiers-are-killed-following-clashes-with-armenian-troops-on-the-border-and-near-the-disputed-nagorno-karabakh-region.xml)  
+
 ### [2014-08-1](/news/2014/08/1/index.md)
 
+##### Nagorno-Karabakh conflict
 # At least eight Azeri soldiers are killed following clashes with Armenian troops on the border and near the disputed Nagorno-Karabakh region. Azerbaijan said Armenia had also suffered losses, although it did not provide any details. 
 
 Azerbaijan said Friday eight soldiers had been killed in three days of clashes with arch-foe Armenia on the border and near the disputed Nagorny Karabakh region as tensions spiked in the long-running conflict. Azerbaijan&#x27;s defence ministry said Armenian troops had ramped up their activity in the
 
 
-### Source:
+### Sources:
 
-1. [Yahoo News](http://news.yahoo.com/eight-azeri-troops-killed-clashes-armenia-143329684.html)
-1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/r7TtmZmPahEq8exYUncm1w--/aD0xOTc4O3c9MzAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/afp.com/9b6f9e8fb446050b007b88b3a9c5f49b200702b7.jpg)
+1. [Yahoo News](https://news.yahoo.com/eight-azeri-troops-killed-clashes-armenia-143329684.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/.Hg84A1GD84LMu_a5gKFuQ--~B/aD0xOTc4O3c9MzAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/afp.com/9b6f9e8fb446050b007b88b3a9c5f49b200702b7.jpg)
+
+### Changes:
+
+1. [Nagorno-Karabakh conflict: At least eight Azeri soldiers are killed following clashes with Armenian troops on the border and near the disputed Nagorno-Karabakh region. Azerbaijan said Armenia had also suffered losses, although it did not provide any details. ](/news/2014/08/1/nagorno-karabakh-conflict-at-least-eight-azeri-soldiers-are-killed-following-clashes-with-armenian-troops-on-the-border-and-near-the-disput.md) _2017-08-27 03:41:05 (First version)_
+1. [At least eight Azeri soldiers are killed following clashes with Armenian troops on the border and near the disputed Nagorno-Karabakh region. Azerbaijan said Armenia had also suffered losses, although it did not provide any details. ](/news/2014/08/1/at-least-eight-azeri-soldiers-are-killed-following-clashes-with-armenian-troops-on-the-border-and-near-the-disputed-nagorno-karabakh-region.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Azerbaijan said Friday eight soldiers had been killed in three days of clashes w
 3. [Armenia will recognize the independence of the breakaway Nagorno-Karabakh Republic from Azerbaijan if military actions there continue, according to Armenian President Serzh Sargsyan. Azerbaijan has resorted to an "unprecedented provocation along the entire perimeter of the contact line" with Nagorno-Karabakh, Sargsyan told a meeting with ambassadors from member states of the Organization for Security and Co-operation in Europe, referring to the latest flare-up of the conflict. ](/news/2016/04/4/armenia-will-recognize-the-independence-of-the-breakaway-nagorno-karabakh-republic-from-azerbaijan-if-military-actions-there-continue-accor.md) _Context: Armenia, Azerbaijan, Nagorno-Karabakh conflict_
 4. [Five more Azeri troops are killed in overnight fighting with ethnic Armenians in Nagorno-Karabakh. The casualties bring the death toll to at least 13 in a flare-up of violence over the last few days around Nagorno-Karabakh. Russia has said that any further escalation is unacceptable. ](/news/2014/08/2/five-more-azeri-troops-are-killed-in-overnight-fighting-with-ethnic-armenians-in-nagorno-karabakh-the-casualties-bring-the-death-toll-to-at.md) _Context: Azerbaijan, Nagorno-Karabakh conflict, Nagorno-Karabakh region_
 5. [ 2009 Azerbaijan-Armenia negotiations in Munich: Azerbaijan and Armenia hold talks on the Nagorno-Karabakh conflict. Azerbaijan has warned that the meeting of presidents in Munich will be "decisive" and that its troops are ready to take the territory by force unless there is a breakthrough in negotiations. ](/news/2009/11/22/2009-azerbaijan-armenia-negotiations-in-munich-azerbaijan-and-armenia-hold-talks-on-the-nagorno-karabakh-conflict-azerbaijan-has-warned-t.md) _Context: Armenia, Azerbaijan, Nagorno-Karabakh region_
-
-### Changes:
-
-1. [Nagorno-Karabakh conflict: At least eight Azeri soldiers are killed following clashes with Armenian troops on the border and near the disputed Nagorno-Karabakh region. Azerbaijan said Armenia had also suffered losses, although it did not provide any details. ](/news/2014/08/1/nagorno-karabakh-conflict-at-least-eight-azeri-soldiers-are-killed-following-clashes-with-armenian-troops-on-the-border-and-near-the-disput.md) _2017-08-27 03:41:05 (First version)_
-1. [At least eight Azeri soldiers are killed following clashes with Armenian troops on the border and near the disputed Nagorno-Karabakh region. Azerbaijan said Armenia had also suffered losses, although it did not provide any details. ](/news/2014/08/1/at-least-eight-azeri-soldiers-are-killed-following-clashes-with-armenian-troops-on-the-border-and-near-the-disputed-nagorno-karabakh-region.md) _(Current version)_

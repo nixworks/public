@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/4/the-benghazi-defense-brigades-an-ally-of-the-shu
 
 ### [2017-03-4](/news/2017/03/4/index.md)
 
+##### Libyan Civil War (2014-present)
 # The Benghazi Defense Brigades, an ally of the Shura Council of Benghazi Revolutionaries, claims to have captured five cities and two oil-production areas from forces loyal to Khalifa Haftar in the east of Libya. 
 
 Benghazi Defence Brigades says in control of five cities and two major oil producing areas in the east of the country.

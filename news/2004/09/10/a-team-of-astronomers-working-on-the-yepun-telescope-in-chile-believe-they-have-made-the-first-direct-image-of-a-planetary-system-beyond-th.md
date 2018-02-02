@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2004/09/10/a-team-of-astronomers-working-on-the-yepun-telescope-in-chile-believe-they-have-made-the-first-direct-image-of-a-planetary-system-beyond-th.html)  [JSON](/news/2004/09/10/a-team-of-astronomers-working-on-the-yepun-telescope-in-chile-believe-they-have-made-the-first-direct-image-of-a-planetary-system-beyond-th.json)  [XML](/news/2004/09/10/a-team-of-astronomers-working-on-the-yepun-telescope-in-chile-believe-they-have-made-the-first-direct-image-of-a-planetary-system-beyond-th.xml)  
+
 ### [2004-09-10](/news/2004/09/10/index.md)
 
+##### astronomer
 #  A team of astronomers working on the Yepun telescope in Chile believe they have made the first direct image of a planetary system beyond the solar system. The star, called 2M1207, is 230 light-years away and is much smaller and fainter than the Sun. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/3644410.stm)
 
 ### Related:
 
-1. [Astronomers announce that 2014 UZ224 is the third most distant Solar System object known from our Sun, currently over 90 times the Earth's distance from the Sun (90.8 AU or 8.44 billion miles), after Eris (96.2 AU) and V774104 (~103 AU). ](/news/2016/10/11/astronomers-announce-that-2014-uz224-is-the-third-most-distant-solar-system-object-known-from-our-sun-currently-over-90-times-the-earth-s-d.md) _Context: Solar System, Sun_
-2. [Astronomers announce the discovery of V774104, the most distant object yet found in the solar system, a dwarf planet orbiting at three times the distance of Pluto. ](/news/2015/11/11/astronomers-announce-the-discovery-of-v774104-the-most-distant-object-yet-found-in-the-solar-system-a-dwarf-planet-orbiting-at-three-times.md) _Context: Astronomer, Solar System_
-3. [Astronomers announce that the newly discovered double star system WISE 1049-5319 is the third-closest neighbor to the Solar System. ](/news/2013/03/11/astronomers-announce-that-the-newly-discovered-double-star-system-wise-1049-5319-is-the-third-closest-neighbor-to-the-solar-system.md) _Context: Astronomer, Solar System_
-4. [Data confirms that Voyager 1 has entered the heliopause, the area of space where the Sun's solar wind is stopped by the interstellar wind. It is believed the probe will now leave the Solar System within the next four years. ](/news/2010/12/15/data-confirms-that-voyager-1-has-entered-the-heliopause-the-area-of-space-where-the-sun-s-solar-wind-is-stopped-by-the-interstellar-wind-i.md) _Context: Solar System, Sun_
-5. [Astronomers discover the first Earth analog extrasolar planet that may be capable of supporting life, Gliese 581 g, located within the habitable zone and orbiting Gliese 581, a red dwarf star twenty light years from the solar system. ](/news/2010/09/29/astronomers-discover-the-first-earth-analog-extrasolar-planet-that-may-be-capable-of-supporting-life-gliese-581-g-located-within-the-habit.md) _Context: Astronomer, Solar System_
+1. [The 11 remaining countries aiming to create the Trans-Pacific Partnership after the Unites States' withdrawal announce that they will sign an agreement in Chile this March. ](/news/2018/01/23/the-11-remaining-countries-aiming-to-create-the-trans-pacific-partnership-after-the-unites-states-withdrawal-announce-that-they-will-sign-a.md) _Context: Chile_
+2. [Five people are killed and at least 15 missing in a mudslide in Villa Santa Lucia, a remote village in southern Chile, after more than 4.5 inches (11.4 cm) of rain the previous 24 hours. President Michelle Bachelet declares a state of emergency. Sunday is the run-off election for Chile's next president. ](/news/2017/12/16/five-people-are-killed-and-at-least-15-missing-in-a-mudslide-in-villa-santa-lucaa-a-remote-village-in-southern-chile-after-more-than-4-5.md) _Context: Chile_
+3. [Voters in Chile head to the polls to elect a president, as well as positions in the Senate, the Chamber of Deputies, as well as regional boards. ](/news/2017/11/19/voters-in-chile-head-to-the-polls-to-elect-a-president-as-well-as-positions-in-the-senate-the-chamber-of-deputies-as-well-as-regional-boa.md) _Context: Chile_
+4. [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both same-gender and different-gender couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md) _Context: Chile_
+5. [Four people are killed as intense rains and snowstorms hit central and southern Chile. About 3,000 people are homeless, and hundreds of thousands have lost power. ](/news/2017/06/17/four-people-are-killed-as-intense-rains-and-snowstorms-hit-central-and-southern-chile-about-3-000-people-are-homeless-and-hundreds-of-thou.md) _Context: Chile_

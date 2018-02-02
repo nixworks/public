@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/6/jeff-skilling-former-ceo-of-enron-loses-his-appeal-against-his-conviction-for-fraud-in-the-united-states-court-of-appeals-for-the-fifth-ci.html)  [JSON](/news/2011/04/6/jeff-skilling-former-ceo-of-enron-loses-his-appeal-against-his-conviction-for-fraud-in-the-united-states-court-of-appeals-for-the-fifth-ci.json)  [XML](/news/2011/04/6/jeff-skilling-former-ceo-of-enron-loses-his-appeal-against-his-conviction-for-fraud-in-the-united-states-court-of-appeals-for-the-fifth-ci.xml)  
+
 ### [2011-04-6](/news/2011/04/6/index.md)
 
+##### Jeff Skilling
 # Jeff Skilling, former CEO of Enron, loses his appeal against his conviction for fraud in the United States Court of Appeals for the Fifth Circuit. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://blogs.wsj.com/law/2011/04/06/breaking-jeff-skilling-loses-appeal-of-criminal-conviction/)
 1. [Cover Image](http://s.wsj.net/blogs/img/WSJ_Logo_BlackBackground_1200x630social)

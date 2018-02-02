@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/24/the-africa-carbon-exchange-africa-s-first-carbon-exchange-which-will-trade-in-carbon-credits-a-form-of-carbon-pricing-opens-in-kenya.html)  [JSON](/news/2011/03/24/the-africa-carbon-exchange-africa-s-first-carbon-exchange-which-will-trade-in-carbon-credits-a-form-of-carbon-pricing-opens-in-kenya.json)  [XML](/news/2011/03/24/the-africa-carbon-exchange-africa-s-first-carbon-exchange-which-will-trade-in-carbon-credits-a-form-of-carbon-pricing-opens-in-kenya.xml)  
+
 ### [2011-03-24](/news/2011/03/24/index.md)
 
+##### Africa Carbon Exchange
 # The Africa Carbon Exchange, Africa's first carbon exchange which will trade in carbon credits a form of carbon pricing, opens in Kenya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/kenyaNews/idAFLDE72N0RZ20110324)
 2. [UPI](http://www.upi.com/Science_News/2010/11/12/Kenya-to-open-first-Africa-carbon-exchange/UPI-19521289595004/)

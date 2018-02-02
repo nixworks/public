@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/5/a-6-5-magnitude-earthquake-occurs-30-kilometres-west-of-taupo-in-the-waikato-region-of-the-north-island-of-new-zealand.html)  [JSON](/news/2011/07/5/a-6-5-magnitude-earthquake-occurs-30-kilometres-west-of-taupo-in-the-waikato-region-of-the-north-island-of-new-zealand.json)  [XML](/news/2011/07/5/a-6-5-magnitude-earthquake-occurs-30-kilometres-west-of-taupo-in-the-waikato-region-of-the-north-island-of-new-zealand.xml)  
+
 ### [2011-07-5](/news/2011/07/5/index.md)
 
+##### earthquake
 # A 6.5 magnitude earthquake occurs 30 kilometres west of Taupo in the Waikato Region of the North Island of New Zealand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TV New Zealand](http://tvnz.co.nz/national-news/earthquake-felt-in-central-nz-4286520)
 

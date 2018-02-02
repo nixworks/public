@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/06/11/pope-benedict-xvi-begs-for-forgiveness-from-god-and-from-those-who-have-been-abused-as-children-by-priests.html)  [JSON](/news/2010/06/11/pope-benedict-xvi-begs-for-forgiveness-from-god-and-from-those-who-have-been-abused-as-children-by-priests.json)  [XML](/news/2010/06/11/pope-benedict-xvi-begs-for-forgiveness-from-god-and-from-those-who-have-been-abused-as-children-by-priests.xml)  
+
 ### [2010-06-11](/news/2010/06/11/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI begs for forgiveness from God and from those who have been abused as children by priests. 
 
 Pope Benedict made his humblest plea for forgiveness yet for the paedophile priest scandals that have shaken faith in the Roman Catholic Church.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/20106118498267874.html)
 2. [RTÉ](http://www.rte.ie/news/2010/0611/abuse.html)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/vaticancityandholysee/7821412/Pope-issues-fresh-apology-for-paedophile-priest-scandals.html)
-4. [The New York Times](http://www.nytimes.com/2010/06/12/world/europe/12pope.html?src=mv)
+4. [The New York Times](https://www.nytimes.com/2010/06/12/world/europe/12pope.html?src=mv)
 4. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01614/pope_1614003a.jpg)
 
 ### Related:

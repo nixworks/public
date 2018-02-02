@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/20/president-barack-obama-meets-with-the-prime-minister-of-israel-benjamin-netanyahu-at-the-white-house-during-which-netanyahu-emphasizes-that.html)  [JSON](/news/2011/05/20/president-barack-obama-meets-with-the-prime-minister-of-israel-benjamin-netanyahu-at-the-white-house-during-which-netanyahu-emphasizes-that.json)  [XML](/news/2011/05/20/president-barack-obama-meets-with-the-prime-minister-of-israel-benjamin-netanyahu-at-the-white-house-during-which-netanyahu-emphasizes-that.xml)  
+
 ### [2011-05-20](/news/2011/05/20/index.md)
 
+##### U.S. President
 # President Barack Obama meets with the Prime Minister of Israel Benjamin Netanyahu at the White House, during which Netanyahu emphasizes that Israel would not make a full withdraw to the pre-1967 borders as Obama requested yesterday, because these borders are "not defensible".
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Politics/us-israel-tensions-high-obama-meets-netanyahu/story?id=13647528)
 2. [CNN](http://www.cnn.com/video/flashLive/live.html?stream=stream3&hpt=T2)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/26/pedro-sa-nchez-pa-c-rez-casteja3n-is-elected-secretary-general-of-the-spanish-socialist-workers-party-by-an-extraordinary-congress-following.html)  [JSON](/news/2014/07/26/pedro-sa-nchez-pa-c-rez-casteja3n-is-elected-secretary-general-of-the-spanish-socialist-workers-party-by-an-extraordinary-congress-following.json)  [XML](/news/2014/07/26/pedro-sa-nchez-pa-c-rez-casteja3n-is-elected-secretary-general-of-the-spanish-socialist-workers-party-by-an-extraordinary-congress-following.xml)  
+
 ### [2014-07-26](/news/2014/07/26/index.md)
 
+##### Pedro Sanchez
 # Pedro Sanchez Perez-Castejon is elected Secretary-General of the Spanish Socialist Workers' Party by an extraordinary congress, following the party's first-ever primary elections, and thereby becomes leader of the Spanish opposition. 
 
 Grass root members of Spain’s Socialist party have elected a new leader. He is 42-year-old Pedro Sanchez, a sitting MP with a doctorate in
 
 
-### Source:
+### Sources:
 
 1. [Euronews](http://www.euronews.com/2014/07/13/pedro-sanchez-is-elected-leader-of-spain-s-socialists/)
 2. [Typically Spanish](http://www.typicallyspanish.com/news-spain/national/Pedro_S_nchez_first_speech_as_PSOE_General_Secretary.shtml)

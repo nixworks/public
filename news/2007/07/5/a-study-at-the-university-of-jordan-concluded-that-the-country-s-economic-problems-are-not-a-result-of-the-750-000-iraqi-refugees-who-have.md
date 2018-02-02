@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/5/a-study-at-the-university-of-jordan-concluded-that-the-country-s-economic-problems-are-not-a-result-of-the-750-000-iraqi-refugees-who-have.html)  [JSON](/news/2007/07/5/a-study-at-the-university-of-jordan-concluded-that-the-country-s-economic-problems-are-not-a-result-of-the-750-000-iraqi-refugees-who-have.json)  [XML](/news/2007/07/5/a-study-at-the-university-of-jordan-concluded-that-the-country-s-economic-problems-are-not-a-result-of-the-750-000-iraqi-refugees-who-have.xml)  
+
 ### [2007-07-5](/news/2007/07/5/index.md)
 
+##### University of Jordan
 #  A study at the University of Jordan concluded that the country's economic problems are not a result of the 750,000 Iraqi refugees who have sought sanctuary there. Iraqi refugees now comprise over 10% of the Jordanian population. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://www.presstv.ir/detail.aspx?id=15480&sectionid=351020206)
 

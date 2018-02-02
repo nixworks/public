@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/2/samsung-electronics-recalls-all-galaxy-note-7-sm
 
 ### [2016-09-2](/news/2016/09/2/index.md)
 
+##### Samsung
 # Samsung Electronics recalls all Galaxy Note 7 smartphones that have fire-prone batteries, and halts sales in 10 markets. A Samsung official says phones with the problematic battery account for less than 0.1 percent of those sold. 
 
 Samsung has announced an unprecedented recall of the Galaxy Note 7 just weeks after launching the well-received smartphone. Sales have been halted globally, and over the coming weeks Samsung will...

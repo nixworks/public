@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/19/fidel-castro-retires-resigning-as-the-president-of-cuba-after-49-years-in-office-and-as-commander-in-chief-of-the-armed-forces-effectiv.html)  [JSON](/news/2008/02/19/fidel-castro-retires-resigning-as-the-president-of-cuba-after-49-years-in-office-and-as-commander-in-chief-of-the-armed-forces-effectiv.json)  [XML](/news/2008/02/19/fidel-castro-retires-resigning-as-the-president-of-cuba-after-49-years-in-office-and-as-commander-in-chief-of-the-armed-forces-effectiv.xml)  
+
 ### [2008-02-19](/news/2008/02/19/index.md)
 
+##### Fidel Castro
 #  Fidel Castro retires, resigning as the President of Cuba (after 49 years in office) and as Commander in Chief of the Armed Forces, effective 24 February 2008 upon the election of his successor. 
 
 Ailing Cuban leader Fidel Castro stepped down on Tuesday 49 years after taking power in an armed revolution, closing the book on a Cold War career that made him an icon to leftists and a tyrant to his foes.
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/story/0,23599,23241323-2,00.html)
 2. [Granma](http://www.granma.cubaweb.cu/2008/02/19/nacional/artic10.html)

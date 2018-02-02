@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/20/al-qaeda-militants-take-control-of-the-southern
 
 ### [2016-02-20](/news/2016/02/20/index.md)
 
+##### Yemeni Civil War (2015-present)
 # Al-Qaeda militants take control of the southern Yemeni town of Ahwar in the Abyan Governorate. 
 
 
@@ -24,4 +25,4 @@ Formats: [HTML](/news/2016/02/20/al-qaeda-militants-take-control-of-the-southern
 2. [At least 50 militants are reportedly killed in a U.S. air strike on an Al-Qaeda training camp in southern Yemen. ](/news/2016/03/23/at-least-50-militants-are-reportedly-killed-in-a-u-s-air-strike-on-an-al-qaeda-training-camp-in-southern-yemen.md) _Context: Yemen, Yemeni Civil War (2015-present), al-Qaida_
 3. [A drone strike in Yemen's Shabwah Governorate kills six suspected Al-Qaeda in the Arabian Peninsula militants. ](/news/2016/02/4/a-drone-strike-in-yemen-s-shabwah-governorate-kills-six-suspected-al-qaeda-in-the-arabian-peninsula-militants.md) _Context: Yemen, Yemeni Civil War (2015-present), al-Qaida_
 4. [Al-Qaeda militants seize control of Zinjibar, capital of Yemen's southern Abyan Governorate, as well as the town of Ja'ar, following fierce clashes with pro-Hadi government forces. ](/news/2015/12/2/al-qaeda-militants-seize-control-of-zinjibar-capital-of-yemen-s-southern-abyan-governorate-as-well-as-the-town-of-jae-ar-following-fierc.md) _Context: Abyan Governorate, Yemen, al-Qaida_
-5. [The International Committee of the Red Cross is buying 750,000 liters of diesel fuel to help provide clean water for a million people living in Yemen. ](/news/2017/11/30/the-international-committee-of-the-red-cross-is-buying-750-000-liters-of-diesel-fuel-to-help-provide-clean-water-for-a-million-people-living.md) _Context: Yemen, Yemeni Civil War (2015-present)_
+5. [After 1,000 days of civil war in Yemen, eight million people are at risk of starvation. ](/news/2017/12/22/after-1-000-days-of-civil-war-in-yemen-eight-million-people-are-at-risk-of-starvation.md) _Context: Yemen, Yemeni Civil War (2015-present)_

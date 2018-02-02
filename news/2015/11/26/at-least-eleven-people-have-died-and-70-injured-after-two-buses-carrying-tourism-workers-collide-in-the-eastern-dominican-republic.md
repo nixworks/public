@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/26/at-least-eleven-people-have-died-and-70-injured-after-two-buses-carrying-tourism-workers-collide-in-the-eastern-dominican-republic.html)  [JSON](/news/2015/11/26/at-least-eleven-people-have-died-and-70-injured-after-two-buses-carrying-tourism-workers-collide-in-the-eastern-dominican-republic.json)  [XML](/news/2015/11/26/at-least-eleven-people-have-died-and-70-injured-after-two-buses-carrying-tourism-workers-collide-in-the-eastern-dominican-republic.xml)  
+
 ### [2015-11-26](/news/2015/11/26/index.md)
 
+##### Dominican Republic
 # At least eleven people have died and 70 injured after two buses carrying tourism workers collide in the eastern Dominican Republic. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/4d69f06e6bae42a58ad8b02f523c2b8f/dominican-officials-say-least-11-dead-bus-collision)
 

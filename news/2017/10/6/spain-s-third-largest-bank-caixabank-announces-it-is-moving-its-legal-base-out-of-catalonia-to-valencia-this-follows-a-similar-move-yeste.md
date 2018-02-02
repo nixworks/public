@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/6/spain-s-third-largest-bank-caixabank-announces-i
 
 ### [2017-10-6](/news/2017/10/6/index.md)
 
+##### 2017 Spanish constitutional crisis
 # Spain's third largest bank, CaixaBank, announces it is moving its legal base out of Catalonia to Valencia. This follows a similar move yesterday by Catalan banking group Banco Sabadell who announced they are moving their headquarters to Alicante in response to growing political insecurity in Catalonia. 
 
 After Banco Sabadell’s shock move to Alicante, Caixa announces shift to Valencia amid post-independence vote uncertainty

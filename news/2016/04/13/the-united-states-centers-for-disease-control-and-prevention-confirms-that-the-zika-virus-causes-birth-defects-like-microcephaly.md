@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/13/the-united-states-centers-for-disease-control-a
 
 ### [2016-04-13](/news/2016/04/13/index.md)
 
+##### Zika virus outbreak (2015-present)
 # The United States Centers for Disease Control and Prevention confirms that the Zika virus causes birth defects like microcephaly. 
 
 The Centers for Disease Control and Prevention (CDC) said Wednesday evening that new data suggests the mosquito-borne Zika virus is a cause of birth defects like microcephaly, a costly and life-threatening condition that is ravaging Brazil and has impacted nearly 5,000 children in the country.

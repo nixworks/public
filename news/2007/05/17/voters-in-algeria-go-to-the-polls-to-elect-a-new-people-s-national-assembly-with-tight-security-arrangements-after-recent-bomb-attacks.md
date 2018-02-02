@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/17/voters-in-algeria-go-to-the-polls-to-elect-a-new-people-s-national-assembly-with-tight-security-arrangements-after-recent-bomb-attacks.html)  [JSON](/news/2007/05/17/voters-in-algeria-go-to-the-polls-to-elect-a-new-people-s-national-assembly-with-tight-security-arrangements-after-recent-bomb-attacks.json)  [XML](/news/2007/05/17/voters-in-algeria-go-to-the-polls-to-elect-a-new-people-s-national-assembly-with-tight-security-arrangements-after-recent-bomb-attacks.xml)  
+
 ### [2007-05-17](/news/2007/05/17/index.md)
 
+##### Algeria
 #  Voters in Algeria go to the polls to elect a new People's National Assembly with tight security arrangements after recent bomb attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6664165.stm)
 

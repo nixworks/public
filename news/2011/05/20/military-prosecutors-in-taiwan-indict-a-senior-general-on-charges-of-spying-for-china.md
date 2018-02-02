@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/20/military-prosecutors-in-taiwan-indict-a-senior-general-on-charges-of-spying-for-china.html)  [JSON](/news/2011/05/20/military-prosecutors-in-taiwan-indict-a-senior-general-on-charges-of-spying-for-china.json)  [XML](/news/2011/05/20/military-prosecutors-in-taiwan-indict-a-senior-general-on-charges-of-spying-for-china.xml)  
+
 ### [2011-05-20](/news/2011/05/20/index.md)
 
+##### Taiwan
 # Military prosecutors in Taiwan indict a senior general on charges of spying for China. 
 
 Taiwan military prosecutors charge a senior general with spying for China - the highest-ranking officer involved in alleged espionage in decades.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13465850)
 2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20110520/news_20110520_56_756714.htm)

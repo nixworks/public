@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/9/a-man-from-israel-is-released-after-being-detained-as-a-suspected-spy-in-libya-in-return-for-the-safe-delivery-to-gaza-of-20-prefabricated-h.html)  [JSON](/news/2010/08/9/a-man-from-israel-is-released-after-being-detained-as-a-suspected-spy-in-libya-in-return-for-the-safe-delivery-to-gaza-of-20-prefabricated-h.json)  [XML](/news/2010/08/9/a-man-from-israel-is-released-after-being-detained-as-a-suspected-spy-in-libya-in-return-for-the-safe-delivery-to-gaza-of-20-prefabricated-h.xml)  
+
 ### [2010-08-9](/news/2010/08/9/index.md)
 
+##### Israel
 # A man from Israel is released after being detained as a suspected spy in Libya in return for the safe delivery to Gaza of 20 prefabricated houses, whose ship was forced to divert to Egypt in July. 
 
 An Israeli man freed by Libya after being held on suspicion of spying has flown back home, with Israel praising Tripoli for its handling of the matter.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10913128)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/suspected-spy-returns-to-israel-20100810-11ueq.html)

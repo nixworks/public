@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/12/10/italian-prime-minister-silvio-berlusconi-is-acquitted-of-bribery-thanks-to-the-statute-of-limitations-the-court-s-ruling-implied-that-berl.html)  [JSON](/news/2004/12/10/italian-prime-minister-silvio-berlusconi-is-acquitted-of-bribery-thanks-to-the-statute-of-limitations-the-court-s-ruling-implied-that-berl.json)  [XML](/news/2004/12/10/italian-prime-minister-silvio-berlusconi-is-acquitted-of-bribery-thanks-to-the-statute-of-limitations-the-court-s-ruling-implied-that-berl.xml)  
+
 ### [2004-12-10](/news/2004/12/10/index.md)
 
+##### Prime Minister
 #  Italian Prime Minister Silvio Berlusconi is acquitted of bribery thanks to the statute of limitations. The court's ruling implied that Berlusconi probably was guilty of bribing a judge in 1991, but said that too much time had passed for him to be punished. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [Financial Times](http://news.ft.com/cms/s/911b3e0e-4ad2-11d9-a0ca-00000e2511c8.html)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7057180)
-2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7057180)
 
 ### Related:
 

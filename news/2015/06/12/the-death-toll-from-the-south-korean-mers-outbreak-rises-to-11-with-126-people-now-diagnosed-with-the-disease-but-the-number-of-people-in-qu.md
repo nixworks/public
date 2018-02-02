@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/12/the-death-toll-from-the-south-korean-mers-outbreak-rises-to-11-with-126-people-now-diagnosed-with-the-disease-but-the-number-of-people-in-qu.html)  [JSON](/news/2015/06/12/the-death-toll-from-the-south-korean-mers-outbreak-rises-to-11-with-126-people-now-diagnosed-with-the-disease-but-the-number-of-people-in-qu.json)  [XML](/news/2015/06/12/the-death-toll-from-the-south-korean-mers-outbreak-rises-to-11-with-126-people-now-diagnosed-with-the-disease-but-the-number-of-people-in-qu.xml)  
+
 ### [2015-06-12](/news/2015/06/12/index.md)
 
+##### recent MERS outbreak
 # The death toll from the South Korean MERS outbreak rises to 11 with 126 people now diagnosed with the disease but the number of people in quarantine falls slightly to 3,680. Two hospitals have closed as a result of the outbreak and the Bank of Korea has lowered interest rates due to concerns about effects of the outbreak on the economy. 
 
  South Korea confirmed its 11th death from Middle East Respiratory Syndrome (MERS) on Friday, while reporting four new cases that brought the number of people diagnosed with the disease here to 126.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2015/06/11/asia/south-korea-mers-outbreak/index.html?eref=edition)
 2. [Yonhap](http://english.yonhapnews.co.kr/news/2015/06/12/0200000000AEN20150612001152320.html?input=www.tweeter.com)

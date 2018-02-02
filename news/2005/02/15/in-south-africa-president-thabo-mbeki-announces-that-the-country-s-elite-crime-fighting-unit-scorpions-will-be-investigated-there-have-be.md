@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/15/in-south-africa-president-thabo-mbeki-announces-that-the-country-s-elite-crime-fighting-unit-scorpions-will-be-investigated-there-have-be.html)  [JSON](/news/2005/02/15/in-south-africa-president-thabo-mbeki-announces-that-the-country-s-elite-crime-fighting-unit-scorpions-will-be-investigated-there-have-be.json)  [XML](/news/2005/02/15/in-south-africa-president-thabo-mbeki-announces-that-the-country-s-elite-crime-fighting-unit-scorpions-will-be-investigated-there-have-be.xml)  
+
 ### [2005-02-15](/news/2005/02/15/index.md)
 
+##### President
 #  In South Africa, President Thabo Mbeki announces that the country's elite crime-fighting unit Scorpions will be investigated. There have been claims of political vendettas and mismanagement of funds. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica](http://allafrica.com/stories/200502140264.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4263773.stm)

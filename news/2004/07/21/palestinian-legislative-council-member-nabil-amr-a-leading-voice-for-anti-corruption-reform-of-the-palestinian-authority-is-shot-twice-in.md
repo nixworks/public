@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/07/21/palestinian-legislative-council-member-nabil-amr-a-leading-voice-for-anti-corruption-reform-of-the-palestinian-authority-is-shot-twice-in.html)  [JSON](/news/2004/07/21/palestinian-legislative-council-member-nabil-amr-a-leading-voice-for-anti-corruption-reform-of-the-palestinian-authority-is-shot-twice-in.json)  [XML](/news/2004/07/21/palestinian-legislative-council-member-nabil-amr-a-leading-voice-for-anti-corruption-reform-of-the-palestinian-authority-is-shot-twice-in.xml)  
+
 ### [2004-07-21](/news/2004/07/21/index.md)
 
+##### Palestinian Legislative Council
 #  Palestinian Legislative Council member Nabil Amr, a leading voice for anti-corruption reform of the Palestinian Authority, is shot twice in his right leg after returning from a television interview in which he criticized Yasser Arafat. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml;jsessionid=F4H0PFAVFUI1MCRBAEZSFFA?type=worldNews&storyID=5729689)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml;jsessionid=F4H0PFAVFUI1MCRBAEZSFFA?type=worldNews&storyID=5729689)
 
 ### Related:
 

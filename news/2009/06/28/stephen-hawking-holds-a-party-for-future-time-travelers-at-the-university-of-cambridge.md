@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/28/stephen-hawking-holds-a-party-for-future-time-travelers-at-the-university-of-cambridge.html)  [JSON](/news/2009/06/28/stephen-hawking-holds-a-party-for-future-time-travelers-at-the-university-of-cambridge.json)  [XML](/news/2009/06/28/stephen-hawking-holds-a-party-for-future-time-travelers-at-the-university-of-cambridge.xml)  
+
 ### [2009-06-28](/news/2009/06/28/index.md)
 
+##### Stephen Hawking
 #  Stephen Hawking holds a party for future time travelers at the University of Cambridge. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Huffington Post UK](http://m.huffpost.com/uk/entry/1643488)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/21/the-smallest-confirmed-extrasolar-planet-gliese-581-e-is-discovered.html)  [JSON](/news/2009/04/21/the-smallest-confirmed-extrasolar-planet-gliese-581-e-is-discovered.json)  [XML](/news/2009/04/21/the-smallest-confirmed-extrasolar-planet-gliese-581-e-is-discovered.xml)  
+
 ### [2009-04-21](/news/2009/04/21/index.md)
 
+##### extrasolar planet
 #  The smallest confirmed extrasolar planet, Gliese 581 e, is discovered. 
 
 The lightest exoplanet yet discovered &#8212; only about twice the mass of Earth &#8212; has been detected, astronomers announced Tuesday.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/30325498/)
 1. [Cover Image](http://media2.s-nbcnews.com/j/MSNBC/Components/Photo/_new/090421-space-exoplanet-hmed-830a.standard.jpg)

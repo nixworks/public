@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/27/american-bank-wells-fargo-admits-it-made-mistakes-in-55-000-real-estate-foreclosure-cases.html)  [JSON](/news/2010/10/27/american-bank-wells-fargo-admits-it-made-mistakes-in-55-000-real-estate-foreclosure-cases.json)  [XML](/news/2010/10/27/american-bank-wells-fargo-admits-it-made-mistakes-in-55-000-real-estate-foreclosure-cases.xml)  
+
 ### [2010-10-27](/news/2010/10/27/index.md)
 
+##### Wells Fargo
 # American bank Wells Fargo admits it made mistakes in 55,000 real estate foreclosure cases. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Today Online](http://www.todayonline.com/BreakingNews/EDC101028-0000139/US--Wells-Fargo-admits-mistakes-in-55K-foreclosures,-promises-to-fix,-wont-halt-seizing-homes)
 

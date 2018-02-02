@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/30/the-socialist-mayor-of-lia-ge-belgium-defends-as-a-political-choice-his-refusal-to-let-the-salvation-army-distribute-soup-on-a-city-main-s.html)  [JSON](/news/2012/08/30/the-socialist-mayor-of-lia-ge-belgium-defends-as-a-political-choice-his-refusal-to-let-the-salvation-army-distribute-soup-on-a-city-main-s.json)  [XML](/news/2012/08/30/the-socialist-mayor-of-lia-ge-belgium-defends-as-a-political-choice-his-refusal-to-let-the-salvation-army-distribute-soup-on-a-city-main-s.xml)  
+
 ### [2012-08-30](/news/2012/08/30/index.md)
 
+##### socialist
 # The socialist mayor of Liege, Belgium, defends as a political choice his refusal to let the Salvation Army distribute soup on a city main square. He favours the more dignifying model of Restaurants du Coeur. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RTBF](http://www.rtbf.be/info/regions/detail_liege-le-bourgmestre-justifie-l-interdiction-de-distribuer-de-la-soupe-en-rue?id=7828989)
 1. [Cover Image](https://ds1.static.rtbf.be/article/image/1248x702/d/e/f/34839053e158a003d0af270cd9616212-1346222407.png)

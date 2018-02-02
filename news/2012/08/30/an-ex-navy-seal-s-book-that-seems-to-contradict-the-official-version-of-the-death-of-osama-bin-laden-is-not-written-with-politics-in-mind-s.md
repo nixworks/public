@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/30/an-ex-navy-seal-s-book-that-seems-to-contradict-the-official-version-of-the-death-of-osama-bin-laden-is-not-written-with-politics-in-mind-s.html)  [JSON](/news/2012/08/30/an-ex-navy-seal-s-book-that-seems-to-contradict-the-official-version-of-the-death-of-osama-bin-laden-is-not-written-with-politics-in-mind-s.json)  [XML](/news/2012/08/30/an-ex-navy-seal-s-book-that-seems-to-contradict-the-official-version-of-the-death-of-osama-bin-laden-is-not-written-with-politics-in-mind-s.xml)  
+
 ### [2012-08-30](/news/2012/08/30/index.md)
 
+##### book
 # An ex-Navy Seal's book that seems to contradict the official version of the death of Osama bin Laden is not written with politics in mind, says the author. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://usnews.nbcnews.com/_news/2012/08/30/13570966-ex-navy-seal-book-on-bin-laden-raid-about-911-not-politics?lite)
 

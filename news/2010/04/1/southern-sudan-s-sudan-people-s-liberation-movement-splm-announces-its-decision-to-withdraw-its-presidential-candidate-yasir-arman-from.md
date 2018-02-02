@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/1/southern-sudan-s-sudan-people-s-liberation-movement-splm-announces-its-decision-to-withdraw-its-presidential-candidate-yasir-arman-from.html)  [JSON](/news/2010/04/1/southern-sudan-s-sudan-people-s-liberation-movement-splm-announces-its-decision-to-withdraw-its-presidential-candidate-yasir-arman-from.json)  [XML](/news/2010/04/1/southern-sudan-s-sudan-people-s-liberation-movement-splm-announces-its-decision-to-withdraw-its-presidential-candidate-yasir-arman-from.xml)  
+
 ### [2010-04-1](/news/2010/04/1/index.md)
 
+##### Southern Sudan
 #  Southern Sudan's Sudan People's Liberation Movement (SPLM) announces its decision to withdraw its presidential candidate, Yasir Arman, from elections. Most other opposition parties join them. 
 
 * Parties could return if elections commission reformed * Five candidates left against incumbent President Bashir * U.S. envoy in crisis t
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8599567.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKHEA16232320100401)

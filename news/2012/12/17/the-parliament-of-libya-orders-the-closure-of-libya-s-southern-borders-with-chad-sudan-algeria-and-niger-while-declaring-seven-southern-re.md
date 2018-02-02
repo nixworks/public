@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/17/the-parliament-of-libya-orders-the-closure-of-libya-s-southern-borders-with-chad-sudan-algeria-and-niger-while-declaring-seven-southern-re.html)  [JSON](/news/2012/12/17/the-parliament-of-libya-orders-the-closure-of-libya-s-southern-borders-with-chad-sudan-algeria-and-niger-while-declaring-seven-southern-re.json)  [XML](/news/2012/12/17/the-parliament-of-libya-orders-the-closure-of-libya-s-southern-borders-with-chad-sudan-algeria-and-niger-while-declaring-seven-southern-re.xml)  
+
 ### [2012-12-17](/news/2012/12/17/index.md)
 
+##### Libyan Parliament
 # The Parliament of Libya orders the closure of Libya's southern borders with Chad, Sudan, Algeria and Niger while declaring seven southern regions restricted military areas to stop the flow of illegal immigrants and goods. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20751650)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/64799000/gif/_64799047_libya_tripoli_benghazi_1212.gif)

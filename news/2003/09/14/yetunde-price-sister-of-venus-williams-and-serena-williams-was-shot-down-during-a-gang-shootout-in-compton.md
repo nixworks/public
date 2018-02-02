@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/14/yetunde-price-sister-of-venus-williams-and-serena-williams-was-shot-down-during-a-gang-shootout-in-compton.html)  [JSON](/news/2003/09/14/yetunde-price-sister-of-venus-williams-and-serena-williams-was-shot-down-during-a-gang-shootout-in-compton.json)  [XML](/news/2003/09/14/yetunde-price-sister-of-venus-williams-and-serena-williams-was-shot-down-during-a-gang-shootout-in-compton.xml)  
+
 ### [2003-09-14](/news/2003/09/14/index.md)
 
+##### Yetunde Price
 #  Yetunde Price, sister of Venus Williams and Serena Williams was shot down during a gang shootout in Compton.
 
 

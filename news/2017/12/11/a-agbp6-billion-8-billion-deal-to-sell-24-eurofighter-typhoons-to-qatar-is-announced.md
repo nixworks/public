@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/11/a-agbp6-billion-8-billion-deal-to-sell-24-eurof
 
 ### [2017-12-11](/news/2017/12/11/index.md)
 
+##### Economy of the United Kingdom
 # A GBP6 billion ($8 billion) deal to sell 24 Eurofighter Typhoons to Qatar is announced. 
 
 The move will help safeguard thousands of jobs at BAE Systems, mainly at Warton in Lancashire.

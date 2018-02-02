@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/25/darwin-australia-is-spared-a-projected-direct-hit-by-cyclone-monica.html)  [JSON](/news/2006/04/25/darwin-australia-is-spared-a-projected-direct-hit-by-cyclone-monica.json)  [XML](/news/2006/04/25/darwin-australia-is-spared-a-projected-direct-hit-by-cyclone-monica.xml)  
+
 ### [2006-04-25](/news/2006/04/25/index.md)
 
+##### Darwin
 #  Darwin, Australia, is spared a projected direct hit by Cyclone Monica. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4941168.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/1/at-least-20-people-are-killed-and-40-are-injured-in-a-bomb-blast-in-the-city-of-kandahar-afghanistan.html)  [JSON](/news/2005/06/1/at-least-20-people-are-killed-and-40-are-injured-in-a-bomb-blast-in-the-city-of-kandahar-afghanistan.json)  [XML](/news/2005/06/1/at-least-20-people-are-killed-and-40-are-injured-in-a-bomb-blast-in-the-city-of-kandahar-afghanistan.xml)  
+
 ### [2005-06-1](/news/2005/06/1/index.md)
 
+##### Kandahar
 #  At least 20 people are killed and 40 are injured in a bomb blast in the city of Kandahar, Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4598369.stm)
 

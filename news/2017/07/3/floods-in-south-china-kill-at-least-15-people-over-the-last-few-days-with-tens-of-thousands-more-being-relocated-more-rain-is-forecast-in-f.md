@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/3/floods-in-south-china-kill-at-least-15-people-ov
 
 ### [2017-07-3](/news/2017/07/3/index.md)
 
+##### 2017 China floods
 # Floods in South China kill at least 15 people over the last few days with tens of thousands more being relocated. More rain is forecast in future days. 
 
 Torrential rain lashed parts of central and south China on Monday, with floods damaging crops, forcing hundreds of thousands from their homes and killing at least 33, while the north wilted in a heat wave and drought-like conditions.

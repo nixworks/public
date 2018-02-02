@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/10/march-2012-gaza-israel-clashes-at-least-130-rockets-are-fired-into-israel-from-gaza-and-12-palestinians-militants-are-killed-as-part-of-th.html)  [JSON](/news/2012/03/10/march-2012-gaza-israel-clashes-at-least-130-rockets-are-fired-into-israel-from-gaza-and-12-palestinians-militants-are-killed-as-part-of-th.json)  [XML](/news/2012/03/10/march-2012-gaza-israel-clashes-at-least-130-rockets-are-fired-into-israel-from-gaza-and-12-palestinians-militants-are-killed-as-part-of-th.xml)  
+
 ### [2012-03-10](/news/2012/03/10/index.md)
 
+##### Israeli-Palestinian clashes
 # March 2012 Gaza-Israel clashes: At least 130 rockets are fired into Israel from Gaza, and 12 Palestinians militants are killed as part of the latest escalation in violence in the region. 
 
 Iron Dome intercepts 27 out of 30 rockets fired at Beersheba, Ashdod, Ashkelon; IAF kills 15 Islamic Jihad operatives in Gaza strikes. Gantz: IDF to respond with determination to any attack
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jOF_U85A4e0mdVVmmUwRNoQjTkjQ?docId=6cbf8e4ea94444a5a70cf175c6676470)
 2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4200794,00.html)

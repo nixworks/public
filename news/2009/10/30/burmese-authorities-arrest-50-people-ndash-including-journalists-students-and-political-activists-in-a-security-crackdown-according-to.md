@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/10/30/burmese-authorities-arrest-50-people-ndash-including-journalists-students-and-political-activists-in-a-security-crackdown-according-to.html)  [JSON](/news/2009/10/30/burmese-authorities-arrest-50-people-ndash-including-journalists-students-and-political-activists-in-a-security-crackdown-according-to.json)  [XML](/news/2009/10/30/burmese-authorities-arrest-50-people-ndash-including-journalists-students-and-political-activists-in-a-security-crackdown-according-to.xml)  
+
 ### [2009-10-30](/news/2009/10/30/index.md)
 
+##### Burma
 #  Burmese authorities arrest 50 people &ndash; including journalists, students and political activists, in a security crackdown, according to a Thailand based human rights group. 
 
 Myanmar authorities have arrested up to 50 people including journalists, political activists and students in a security crackdown this month in its biggest city, a Thailand-based human rights group said on Friday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE59T28720091030)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE59T28720091030)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

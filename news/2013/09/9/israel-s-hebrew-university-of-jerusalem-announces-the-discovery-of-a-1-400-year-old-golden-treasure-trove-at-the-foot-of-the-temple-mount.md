@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/9/israel-s-hebrew-university-of-jerusalem-announces-the-discovery-of-a-1-400-year-old-golden-treasure-trove-at-the-foot-of-the-temple-mount.html)  [JSON](/news/2013/09/9/israel-s-hebrew-university-of-jerusalem-announces-the-discovery-of-a-1-400-year-old-golden-treasure-trove-at-the-foot-of-the-temple-mount.json)  [XML](/news/2013/09/9/israel-s-hebrew-university-of-jerusalem-announces-the-discovery-of-a-1-400-year-old-golden-treasure-trove-at-the-foot-of-the-temple-mount.xml)  
+
 ### [2013-09-9](/news/2013/09/9/index.md)
 
+##### Israel
 # Israel's Hebrew University of Jerusalem announces the discovery of a 1,400-year-old golden treasure trove at the foot of the Temple Mount. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/archaeology/.premium-1.545965)
 1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.545978.1378792686!/image/3405375793.jpg_gen/derivatives/headline_1200x630/3405375793.jpg)

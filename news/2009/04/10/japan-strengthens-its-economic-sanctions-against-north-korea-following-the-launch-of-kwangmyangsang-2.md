@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/10/japan-strengthens-its-economic-sanctions-against-north-korea-following-the-launch-of-kwangmyangsang-2.html)  [JSON](/news/2009/04/10/japan-strengthens-its-economic-sanctions-against-north-korea-following-the-launch-of-kwangmyangsang-2.json)  [XML](/news/2009/04/10/japan-strengthens-its-economic-sanctions-against-north-korea-following-the-launch-of-kwangmyangsang-2.xml)  
+
 ### [2009-04-10](/news/2009/04/10/index.md)
 
+##### Japan
 #  Japan strengthens its economic sanctions against North Korea, following the launch of Kwangmyongsong-2. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/04/09/north.korea.japan.sanctions/index.html?eref=rss_latest)
 

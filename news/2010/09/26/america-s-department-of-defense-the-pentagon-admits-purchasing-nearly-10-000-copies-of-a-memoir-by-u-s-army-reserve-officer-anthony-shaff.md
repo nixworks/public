@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/26/america-s-department-of-defense-the-pentagon-admits-purchasing-nearly-10-000-copies-of-a-memoir-by-u-s-army-reserve-officer-anthony-shaff.html)  [JSON](/news/2010/09/26/america-s-department-of-defense-the-pentagon-admits-purchasing-nearly-10-000-copies-of-a-memoir-by-u-s-army-reserve-officer-anthony-shaff.json)  [XML](/news/2010/09/26/america-s-department-of-defense-the-pentagon-admits-purchasing-nearly-10-000-copies-of-a-memoir-by-u-s-army-reserve-officer-anthony-shaff.xml)  
+
 ### [2010-09-26](/news/2010/09/26/index.md)
 
+##### United States military
 # America's Department of Defense (The Pentagon) admits purchasing nearly 10,000 copies of a memoir by U.S. Army Reserve officer Anthony Shaffer, destroying all of them in an effort to suppress secret information and ordering heavy redactions of the book's second printing. 
 
 The Pentagon has admitted buying up and destroying 10,000 copies of an insider&#039;s account of life in Afghanistan by an army intelligence officer.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/US/09/25/books.destroyed/index.html?iref=NS1)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/8026220/Pentagon-destroyed-10000-copies-of-army-officers-book.html)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/04/18/catherine-ndereba-of-kenya-and-hailu-negussie-of-ethiopia-win-in-the-109th-boston-marathon-negussie-was-successful-in-finally-breaking-the.html)  [JSON](/news/2005/04/18/catherine-ndereba-of-kenya-and-hailu-negussie-of-ethiopia-win-in-the-109th-boston-marathon-negussie-was-successful-in-finally-breaking-the.json)  [XML](/news/2005/04/18/catherine-ndereba-of-kenya-and-hailu-negussie-of-ethiopia-win-in-the-109th-boston-marathon-negussie-was-successful-in-finally-breaking-the.xml)  
+
 ### [2005-04-18](/news/2005/04/18/index.md)
 
+##### Catherine Ndereba
 #  Catherine Ndereba of Kenya and Hailu Negussie of Ethiopia win in the 109th Boston Marathon. Negussie was successful in finally breaking the Kenyan-dominated men's race. Defending champion Ndereba became the first four-time woman's winner. [http:--abcnews.go.com-Sports-wireStory?id=680658 (ABCnews)] (Link dead as of 04:02, 16 January 2007 (UTC)) [http:--edition.cnn.com-2005-SPORT-04-18-marathon.boston.reut- (CNN)] (Link dead as of 04:02, 16 January 2007 (UTC)) [http:--www.boston.com-sports-other_sports-running-articles-2005-04-18-kenyas_ndereba_wins_4th_boston_marathon- (Boston.com)] (Link dead as of 04:02, 16 January 2007 (UTC))
 
 

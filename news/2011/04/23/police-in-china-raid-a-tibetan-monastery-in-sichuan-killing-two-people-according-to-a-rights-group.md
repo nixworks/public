@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/23/police-in-china-raid-a-tibetan-monastery-in-sichuan-killing-two-people-according-to-a-rights-group.html)  [JSON](/news/2011/04/23/police-in-china-raid-a-tibetan-monastery-in-sichuan-killing-two-people-according-to-a-rights-group.json)  [XML](/news/2011/04/23/police-in-china-raid-a-tibetan-monastery-in-sichuan-killing-two-people-according-to-a-rights-group.xml)  
+
 ### [2011-04-23](/news/2011/04/23/index.md)
 
+##### China
 # Police in China raid a Tibetan monastery in Sichuan, killing two people according to a rights group. 
 
 Chinese police raid a Tibetan Buddhist monastery in western China, killing two people, rights campaigners say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13174810)
 2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20110423/news_20110423_56_750541.htm)

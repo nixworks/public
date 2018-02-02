@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/17/a-large-earthquake-occurs-off-the-coast-of-new-zealand.html)  [JSON](/news/2014/11/17/a-large-earthquake-occurs-off-the-coast-of-new-zealand.json)  [XML](/news/2014/11/17/a-large-earthquake-occurs-off-the-coast-of-new-zealand.xml)  
+
 ### [2014-11-17](/news/2014/11/17/index.md)
 
+##### earthquake
 # A large earthquake occurs off the coast of New Zealand. 
 
 A large earthquake has struck off the east coast of the North Island. - New Zealand Herald
 
 
-### Source:
+### Sources:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/earthquakes/news/article.cfm?c_id=184&objectid=11359825)
 1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201447/earth_1024x768.jpg)

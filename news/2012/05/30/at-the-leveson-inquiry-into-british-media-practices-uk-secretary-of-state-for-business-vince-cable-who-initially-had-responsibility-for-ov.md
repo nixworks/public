@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/30/at-the-leveson-inquiry-into-british-media-practices-uk-secretary-of-state-for-business-vince-cable-who-initially-had-responsibility-for-ov.html)  [JSON](/news/2012/05/30/at-the-leveson-inquiry-into-british-media-practices-uk-secretary-of-state-for-business-vince-cable-who-initially-had-responsibility-for-ov.json)  [XML](/news/2012/05/30/at-the-leveson-inquiry-into-british-media-practices-uk-secretary-of-state-for-business-vince-cable-who-initially-had-responsibility-for-ov.xml)  
+
 ### [2012-05-30](/news/2012/05/30/index.md)
 
+##### Leveson Inquiry
 # At the Leveson Inquiry into British media practices, UK Secretary of State for Business Vince Cable, who initially had responsibility for overseeing News Corporation's bid to take full control of BSkyB, tells the hearing he was warned the Liberal Democrats would be "done over" by the company's newspapers if he ruled against the takeover. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18260689)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60578000/jpg/_60578621_jex_1420877_de25-1.jpg)

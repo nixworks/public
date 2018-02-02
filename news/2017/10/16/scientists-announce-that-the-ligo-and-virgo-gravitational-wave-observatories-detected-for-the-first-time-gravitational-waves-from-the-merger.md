@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/16/scientists-announce-that-the-ligo-and-virgo-gra
 
 ### [2017-10-16](/news/2017/10/16/index.md)
 
+##### Gravitational-wave astronomy
 # Scientists announce that the LIGO and VIRGO gravitational wave observatories detected for the first time gravitational waves from the merger of two neutron stars. The event coincided with a short gamma ray burst GRB 170817A detected by the Fermi Gamma-ray Space Telescope, leading to SSS17a, the immediate follow-up observations by the Hubble space telescope and numerous ground-based telescopes. This confirms the theory according to which neutron star mergers are the cause of at least some short gamma-ray bursts. 
 
 And thousands of astronomers found the aftermath of the merger in the sky

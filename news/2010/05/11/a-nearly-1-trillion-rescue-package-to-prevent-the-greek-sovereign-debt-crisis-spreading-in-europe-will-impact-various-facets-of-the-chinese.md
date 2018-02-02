@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/11/a-nearly-1-trillion-rescue-package-to-prevent-the-greek-sovereign-debt-crisis-spreading-in-europe-will-impact-various-facets-of-the-chinese.html)  [JSON](/news/2010/05/11/a-nearly-1-trillion-rescue-package-to-prevent-the-greek-sovereign-debt-crisis-spreading-in-europe-will-impact-various-facets-of-the-chinese.json)  [XML](/news/2010/05/11/a-nearly-1-trillion-rescue-package-to-prevent-the-greek-sovereign-debt-crisis-spreading-in-europe-will-impact-various-facets-of-the-chinese.xml)  
+
 ### [2010-05-11](/news/2010/05/11/index.md)
 
+##### Greek economic crisis
 # A nearly $1 trillion rescue package to prevent the Greek sovereign debt crisis spreading in Europe will impact various facets of the Chinese economy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sina](http://english.sina.com/business/2010/0510/318856.html)
 

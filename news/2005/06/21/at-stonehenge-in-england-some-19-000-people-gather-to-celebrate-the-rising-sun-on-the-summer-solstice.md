@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/06/21/at-stonehenge-in-england-some-19-000-people-gather-to-celebrate-the-rising-sun-on-the-summer-solstice.html)  [JSON](/news/2005/06/21/at-stonehenge-in-england-some-19-000-people-gather-to-celebrate-the-rising-sun-on-the-summer-solstice.json)  [XML](/news/2005/06/21/at-stonehenge-in-england-some-19-000-people-gather-to-celebrate-the-rising-sun-on-the-summer-solstice.xml)  
+
 ### [2005-06-21](/news/2005/06/21/index.md)
 
+##### Stonehenge
 #  At Stonehenge in England, some 19,000 people gather to celebrate the rising sun on the summer solstice.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/23/prime-minister-of-georgia-irakli-garibashvili-unexpectedly-announces-his-resignation-without-giving-any-specific-reason-for-his-decision.html)  [JSON](/news/2015/12/23/prime-minister-of-georgia-irakli-garibashvili-unexpectedly-announces-his-resignation-without-giving-any-specific-reason-for-his-decision.json)  [XML](/news/2015/12/23/prime-minister-of-georgia-irakli-garibashvili-unexpectedly-announces-his-resignation-without-giving-any-specific-reason-for-his-decision.xml)  
+
 ### [2015-12-23](/news/2015/12/23/index.md)
 
+##### Prime Minister of Georgia
 #  Prime Minister of Georgia Irakli Garibashvili unexpectedly announces his resignation, without giving any specific reason for his decision. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Civil Georgia](http://civil.ge/eng/article.php?id=28876)
 

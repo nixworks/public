@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/17/the-israeli-air-force-launches-several-airstrik
 
 ### [2017-03-17](/news/2017/03/17/index.md)
 
+##### March 2017 Israel-Syria incident
 # The Israeli Air Force launches several airstrikes on targets inside Syria, and for the first time, publicly claims responsibility. Syrian air defenses responded by launching missiles at the aircraft, and thereupon Israeli Arrow 3 missiles were launched in response to the counter-offensive. Israel stated that it was targeting suspected weapons shipments to Hezbollah in Lebanon, adding that the Israeli military will keep intervening until they believe such shipments have ceased. According to the Syrian Army, four Israeli jets entered its airspace and struck targets near Palmyra. 
 
 JERUSALEM (AP) — Syria fired missiles at Israeli warplanes on a mission to destroy a weapons convoy destined for the Iranian-backed Lebanese militant group Hezbollah prompting it to deploy its missile defense system, Israeli…

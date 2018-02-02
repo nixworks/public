@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/3/groups-of-u-s-military-veterans-join-the-protest
 
 ### [2016-12-3](/news/2016/12/3/index.md)
 
+##### Dakota Access Pipeline protests
 # Groups of U.S. military veterans join the protest as human shields against possible clashes between demonstrators and law enforcement when the United States Army Corps of Engineers' eviction deadline expires on Monday. They are building barracks for shelter in North Dakota's winter weather. 
 
 U.S. military veterans were building barracks on Friday at a protest camp in North Dakota to support thousands of activists who have squared off against authorities in frigid conditions to oppose a multibillion-dollar pipeline project near a Native American reservation.

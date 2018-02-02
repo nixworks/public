@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/20/the-justice-and-equality-movement-rebel-group-in-sudan-s-darfur-region-signs-a-framework-ceasefire-agreement-with-the-sudanese-government-in.html)  [JSON](/news/2010/02/20/the-justice-and-equality-movement-rebel-group-in-sudan-s-darfur-region-signs-a-framework-ceasefire-agreement-with-the-sudanese-government-in.json)  [XML](/news/2010/02/20/the-justice-and-equality-movement-rebel-group-in-sudan-s-darfur-region-signs-a-framework-ceasefire-agreement-with-the-sudanese-government-in.xml)  
+
 ### [2010-02-20](/news/2010/02/20/index.md)
 
+##### Justice and Equality Movement
 # The Justice and Equality Movement rebel group in Sudan's Darfur region signs a framework ceasefire agreement with the Sudanese government in N'Djamena. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8526236.stm)
 

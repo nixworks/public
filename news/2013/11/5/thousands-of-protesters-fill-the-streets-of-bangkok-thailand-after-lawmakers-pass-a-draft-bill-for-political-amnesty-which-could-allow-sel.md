@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/5/thousands-of-protesters-fill-the-streets-of-bangkok-thailand-after-lawmakers-pass-a-draft-bill-for-political-amnesty-which-could-allow-sel.html)  [JSON](/news/2013/11/5/thousands-of-protesters-fill-the-streets-of-bangkok-thailand-after-lawmakers-pass-a-draft-bill-for-political-amnesty-which-could-allow-sel.json)  [XML](/news/2013/11/5/thousands-of-protesters-fill-the-streets-of-bangkok-thailand-after-lawmakers-pass-a-draft-bill-for-political-amnesty-which-could-allow-sel.xml)  
+
 ### [2013-11-5](/news/2013/11/5/index.md)
 
+##### Bangkok
 # Thousands of protesters fill the streets of Bangkok, Thailand, after lawmakers pass a draft bill for political amnesty which could allow self-exiled Prime Minister Thaksin Shinawatra to re-enter the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Voice of America](http://www.voanews.com/content/reu-thousands-protesters-march-bangkok-against-amnesty-bill/1782657.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/12/leading-climatologists-warn-that-most-of-the-arctic-ice-will-have-melted-by-2040-and-the-north-pole-will-be-open-water.html)  [JSON](/news/2006/12/12/leading-climatologists-warn-that-most-of-the-arctic-ice-will-have-melted-by-2040-and-the-north-pole-will-be-open-water.json)  [XML](/news/2006/12/12/leading-climatologists-warn-that-most-of-the-arctic-ice-will-have-melted-by-2040-and-the-north-pole-will-be-open-water.xml)  
+
 ### [2006-12-12](/news/2006/12/12/index.md)
 
+##### climate science
 #  Leading climatologists warn that most of the Arctic ice will have melted by 2040 and the North Pole will be open water. 
 
 News and opinion from The Times &amp; The Sunday Times
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/article/0,,3-2499663,00.html)
 1. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)

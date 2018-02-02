@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2014/06/12/at-least-ten-more-militants-are-killed-in-a-suspected-united-states-drone-attack-in-north-waziristan.html)  [JSON](/news/2014/06/12/at-least-ten-more-militants-are-killed-in-a-suspected-united-states-drone-attack-in-north-waziristan.json)  [XML](/news/2014/06/12/at-least-ten-more-militants-are-killed-in-a-suspected-united-states-drone-attack-in-north-waziristan.xml)  
+
 ### [2014-06-12](/news/2014/06/12/index.md)
 
+##### War in North-West Pakistan
 # At least ten more militants are killed in a suspected United States drone attack in North Waziristan. 
 
 Go to NBCNews.com for breaking news, videos, and the latest top stories in world news, business, politics, health and pop culture.
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://www.nbcnews.com/#/news/world/10-more-killed-second-suspected-u-s-drone-attack-pakistan-n129181)
 1. [Cover Image](https://nodeassets.nbcnews.com/images/og-nbcnews200x200.gif)
+
+### Changes:
+
+1. [War in North-West Pakistan: At least ten more militants are killed in a suspected United States drone attack in North Waziristan. ](/news/2014/06/12/war-in-north-west-pakistan-at-least-ten-more-militants-are-killed-in-a-suspected-united-states-drone-attack-in-north-waziristan.md) _2017-08-27 03:40:50 (First version)_
+1. [At least ten more militants are killed in a suspected United States drone attack in North Waziristan. ](/news/2014/06/12/at-least-ten-more-militants-are-killed-in-a-suspected-united-states-drone-attack-in-north-waziristan.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Go to NBCNews.com for breaking news, videos, and the latest top stories in world
 3. [Seven Pakistani army soldiers and 19 Taliban fighters are killed in overnight fighting in North Waziristan near the Afghanistan border. ](/news/2015/06/8/seven-pakistani-army-soldiers-and-19-taliban-fighters-are-killed-in-overnight-fighting-in-north-waziristan-near-the-afghanistan-border.md) _Context: North Waziristan, War in North-West Pakistan_
 4. [U.S. drone strikes in North Waziristan kill at least four suspected Taliban militants. ](/news/2015/04/12/u-s-drone-strikes-in-north-waziristan-kill-at-least-four-suspected-taliban-militants.md) _Context: North Waziristan, War in North-West Pakistan_
 5. [American drone strikes kill at least five militants in North Waziristan. ](/news/2014/10/9/american-drone-strikes-kill-at-least-five-militants-in-north-waziristan.md) _Context: North Waziristan, War in North-West Pakistan_
-
-### Changes:
-
-1. [War in North-West Pakistan: At least ten more militants are killed in a suspected United States drone attack in North Waziristan. ](/news/2014/06/12/war-in-north-west-pakistan-at-least-ten-more-militants-are-killed-in-a-suspected-united-states-drone-attack-in-north-waziristan.md) _2017-08-27 03:40:50 (First version)_
-1. [At least ten more militants are killed in a suspected United States drone attack in North Waziristan. ](/news/2014/06/12/at-least-ten-more-militants-are-killed-in-a-suspected-united-states-drone-attack-in-north-waziristan.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/4/british-comic-actor-and-songwriter-sir-norman-wisdom-dies-in-an-isle-of-man-nursing-home.html)  [JSON](/news/2010/10/4/british-comic-actor-and-songwriter-sir-norman-wisdom-dies-in-an-isle-of-man-nursing-home.json)  [XML](/news/2010/10/4/british-comic-actor-and-songwriter-sir-norman-wisdom-dies-in-an-isle-of-man-nursing-home.xml)  
+
 ### [2010-10-4](/news/2010/10/4/index.md)
 
+##### Sir Norman Wisdom
 # British comic actor and songwriter Sir Norman Wisdom dies in an Isle of Man nursing home. 
 
 Sir Norman Wisdom, famous for his slapstick film roles, has died at the age of 95 after suffering a series of strokes in the past six months.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11473192)
 2. [The Guardian](http://www.guardian.co.uk/culture/2010/oct/05/norman-wisdom-dies-aged-95)

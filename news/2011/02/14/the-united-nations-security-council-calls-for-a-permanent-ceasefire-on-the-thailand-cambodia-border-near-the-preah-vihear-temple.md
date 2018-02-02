@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/14/the-united-nations-security-council-calls-for-a-permanent-ceasefire-on-the-thailand-cambodia-border-near-the-preah-vihear-temple.html)  [JSON](/news/2011/02/14/the-united-nations-security-council-calls-for-a-permanent-ceasefire-on-the-thailand-cambodia-border-near-the-preah-vihear-temple.json)  [XML](/news/2011/02/14/the-united-nations-security-council-calls-for-a-permanent-ceasefire-on-the-thailand-cambodia-border-near-the-preah-vihear-temple.xml)  
+
 ### [2011-02-14](/news/2011/02/14/index.md)
 
+##### United Nations Security Council
 # The United Nations Security Council calls for a permanent ceasefire on the Thailand-Cambodia border near the Preah Vihear Temple. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://blogs.voanews.com/breaking-news/2011/02/14/un-security-council-urges-permanent-cease-fire-on-thai-cambodian-frontier/)
 

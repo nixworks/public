@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/25/occupation-of-iraq-nine-rebels-in-north-iraq-are-killed-coalition-troops-kill-nine-guerrillas-the-biggest-toll-for-more-than-a-month-in.html)  [JSON](/news/2003/09/25/occupation-of-iraq-nine-rebels-in-north-iraq-are-killed-coalition-troops-kill-nine-guerrillas-the-biggest-toll-for-more-than-a-month-in.json)  [XML](/news/2003/09/25/occupation-of-iraq-nine-rebels-in-north-iraq-are-killed-coalition-troops-kill-nine-guerrillas-the-biggest-toll-for-more-than-a-month-in.xml)  
+
 ### [2003-09-25](/news/2003/09/25/index.md)
 
+##### Iraq war
 #  Occupation of Iraq: Nine rebels in north Iraq are killed. Coalition troops kill nine guerrillas, the biggest toll for more than a month, in scattered action over northern Iraq in the past 24 hours. Major Josslyn Aberle states "The enemy are becoming more desperate as we pursue them."
 
 

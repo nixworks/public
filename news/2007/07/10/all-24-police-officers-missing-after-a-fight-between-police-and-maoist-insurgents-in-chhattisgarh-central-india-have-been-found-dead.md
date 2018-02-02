@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/10/all-24-police-officers-missing-after-a-fight-between-police-and-maoist-insurgents-in-chhattisgarh-central-india-have-been-found-dead.html)  [JSON](/news/2007/07/10/all-24-police-officers-missing-after-a-fight-between-police-and-maoist-insurgents-in-chhattisgarh-central-india-have-been-found-dead.json)  [XML](/news/2007/07/10/all-24-police-officers-missing-after-a-fight-between-police-and-maoist-insurgents-in-chhattisgarh-central-india-have-been-found-dead.xml)  
+
 ### [2007-07-10](/news/2007/07/10/index.md)
 
+##### Maoist
 #  All 24 police officers missing after a fight between police and Maoist insurgents in Chhattisgarh central India have been found dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via News Limited](http://www.news.com.au/story/0,10117,22054679-401,00.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/20/rta-news-states-that-pope-benedict-xvi-won-far-more-than-the-77-votes-required-to-secure-his-election-as-pope.html)  [JSON](/news/2005/04/20/rta-news-states-that-pope-benedict-xvi-won-far-more-than-the-77-votes-required-to-secure-his-election-as-pope.json)  [XML](/news/2005/04/20/rta-news-states-that-pope-benedict-xvi-won-far-more-than-the-77-votes-required-to-secure-his-election-as-pope.xml)  
+
 ### [2005-04-20](/news/2005/04/20/index.md)
 
+##### RTE
 #  RTE News states that Pope Benedict XVI won "far more than the 77 votes" required to secure his election as pope. 
 
 Authorities in Rome have said they are expecting up to 500,000 people to attend Sunday&#39;s inaugural Mass of Pope Benedict XVI in St Peter&#39;s Square in the Vatican.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2005/0420/pope.html)
 1. [Cover Image](https://img.rasset.ie/00004682-1600.jpg)

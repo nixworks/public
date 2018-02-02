@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/16/the-stars-of-the-reality-show-sister-wives-win-a-landmark-ruling-that-struck-out-a-portion-of-a-polygamy-law-in-utah.html)  [JSON](/news/2013/12/16/the-stars-of-the-reality-show-sister-wives-win-a-landmark-ruling-that-struck-out-a-portion-of-a-polygamy-law-in-utah.json)  [XML](/news/2013/12/16/the-stars-of-the-reality-show-sister-wives-win-a-landmark-ruling-that-struck-out-a-portion-of-a-polygamy-law-in-utah.xml)  
+
 ### [2013-12-16](/news/2013/12/16/index.md)
 
+##### Sister Wives
 # The 'stars' of the reality show "Sister Wives" win a landmark ruling that struck out a portion of a polygamy law in Utah. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/12/14/justice/utah-polygamy-law/)
 

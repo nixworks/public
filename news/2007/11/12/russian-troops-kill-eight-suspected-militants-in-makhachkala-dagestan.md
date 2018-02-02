@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/12/russian-troops-kill-eight-suspected-militants-in-makhachkala-dagestan.html)  [JSON](/news/2007/11/12/russian-troops-kill-eight-suspected-militants-in-makhachkala-dagestan.json)  [XML](/news/2007/11/12/russian-troops-kill-eight-suspected-militants-in-makhachkala-dagestan.xml)  
+
 ### [2007-11-12](/news/2007/11/12/index.md)
 
+##### Russian Army
 #  Russian troops kill eight suspected militants in Makhachkala, Dagestan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7090359.stm)
 

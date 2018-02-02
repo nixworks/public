@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/23/hercules-264-a-gulf-of-mexico-natural-gas-drilling-rig-partially-collapses-off-the-coast-of-louisiana-after-catching-fire.html)  [JSON](/news/2013/07/23/hercules-264-a-gulf-of-mexico-natural-gas-drilling-rig-partially-collapses-off-the-coast-of-louisiana-after-catching-fire.json)  [XML](/news/2013/07/23/hercules-264-a-gulf-of-mexico-natural-gas-drilling-rig-partially-collapses-off-the-coast-of-louisiana-after-catching-fire.xml)  
+
 ### [2013-07-23](/news/2013/07/23/index.md)
 
+##### Gulf of Mexico
 # Hercules 264, a Gulf of Mexico natural gas drilling rig, partially collapses off the coast of Louisiana after catching fire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://usnews.nbcnews.com/_news/2013/07/24/19652537-gulf-rig-partially-collapses-as-fire-rages)
 2. [Wall Street Journal](http://online.wsj.com/article/PR-CO-20130724-913628.html)

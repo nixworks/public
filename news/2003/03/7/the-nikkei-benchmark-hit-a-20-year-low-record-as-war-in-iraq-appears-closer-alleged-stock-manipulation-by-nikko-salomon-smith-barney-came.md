@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/7/the-nikkei-benchmark-hit-a-20-year-low-record-as-war-in-iraq-appears-closer-alleged-stock-manipulation-by-nikko-salomon-smith-barney-came.html)  [JSON](/news/2003/03/7/the-nikkei-benchmark-hit-a-20-year-low-record-as-war-in-iraq-appears-closer-alleged-stock-manipulation-by-nikko-salomon-smith-barney-came.json)  [XML](/news/2003/03/7/the-nikkei-benchmark-hit-a-20-year-low-record-as-war-in-iraq-appears-closer-alleged-stock-manipulation-by-nikko-salomon-smith-barney-came.xml)  
+
 ### [2003-03-7](/news/2003/03/7/index.md)
 
+##### Nikkei benchmark
 #  The Nikkei benchmark hit a 20-year low record as war in Iraq appears closer, alleged stock manipulation by Nikko Salomon Smith Barney came to light, North Korea is preparing to test fire a mid-range missile, and a new political scandal in the party of Prime Minister Junichiro Koizumi came to light.
 
 

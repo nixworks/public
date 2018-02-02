@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/28/guatemala-election-2003-oscar-berger-wins-the-second-round-of-the-presidential-election-with-a-54-share-of-the-vote.html)  [JSON](/news/2003/12/28/guatemala-election-2003-oscar-berger-wins-the-second-round-of-the-presidential-election-with-a-54-share-of-the-vote.json)  [XML](/news/2003/12/28/guatemala-election-2003-oscar-berger-wins-the-second-round-of-the-presidential-election-with-a-54-share-of-the-vote.xml)  
+
 ### [2003-12-28](/news/2003/12/28/index.md)
 
+##### Guatemala election, 2003
 # Guatemala election, 2003. scar Berger wins the second round of the presidential election with a 54% share of the vote.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/15/a-power-sharing-agreement-between-zimbabwean-president-robert-mugabe-and-opposition-leader-morgan-tsvangirai-is-officially-signed-making-t.html)  [JSON](/news/2008/09/15/a-power-sharing-agreement-between-zimbabwean-president-robert-mugabe-and-opposition-leader-morgan-tsvangirai-is-officially-signed-making-t.json)  [XML](/news/2008/09/15/a-power-sharing-agreement-between-zimbabwean-president-robert-mugabe-and-opposition-leader-morgan-tsvangirai-is-officially-signed-making-t.xml)  
+
 ### [2008-09-15](/news/2008/09/15/index.md)
 
+##### power-sharing talks
 #  A power-sharing agreement between Zimbabwean president Robert Mugabe and opposition leader Morgan Tsvangirai is officially signed, making Tsvangirai Prime Minister of Zimbabwe and chair of cabinet meetings. Mugabe maintains his position as president and remains in control of the country's army. 
 
 Zimbabwe&#039;s President Robert Mugabe and the opposition leader Morgan Tsvangirai have signed a power-sharing deal in Harare designed to solve the political and economic crisis crippling the country.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/zimbabwe/2961901/Zimbabwe-leaders-Robert-Mugabe-and-Morgan-Tsvangirai-sign-power-sharing-deal.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/00978/460-zim-agreement_978435a.jpg)

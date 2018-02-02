@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/21/a-private-note-due-to-remain-secret-despite-calls-for-it-to-be-published-by-the-chairman-of-the-iraq-inquiry-shows-former-british-prime-mi.html)  [JSON](/news/2011/01/21/a-private-note-due-to-remain-secret-despite-calls-for-it-to-be-published-by-the-chairman-of-the-iraq-inquiry-shows-former-british-prime-mi.json)  [XML](/news/2011/01/21/a-private-note-due-to-remain-secret-despite-calls-for-it-to-be-published-by-the-chairman-of-the-iraq-inquiry-shows-former-british-prime-mi.xml)  
+
 ### [2011-01-21](/news/2011/01/21/index.md)
 
+##### Iraq Inquiry
 # A private note, due to remain secret despite calls for it to be published by the chairman of the Iraq Inquiry, shows former British prime minister Tony Blair privately assured former American president George W. Bush "you can count on us" before they jointly invaded Iraq prior to the Iraq War. 
 
 Tony Blair says he &quot;regrets&quot; the loss of life in Iraq but urges the West to stop apologising for the 2003 war, in a four hour grilling by the Chilcot inquiry.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/2011121132710269378.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-politics-12246410)

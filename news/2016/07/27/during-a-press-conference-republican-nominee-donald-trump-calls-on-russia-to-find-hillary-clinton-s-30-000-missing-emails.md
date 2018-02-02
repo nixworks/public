@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/27/during-a-press-conference-republican-nominee-do
 
 ### [2016-07-27](/news/2016/07/27/index.md)
 
+##### 2016 U.S. presidential election
 # During a press conference, Republican nominee Donald Trump calls on Russia to find Hillary Clinton's 30,000 missing emails. 
 
 Donald Trump has &quot;actively encouraged&quot; foreign powers to hack his US presidential rival Hillary Clinton, her camp says.

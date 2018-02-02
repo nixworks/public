@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/24/prime-minister-abhisit-vejjajiva-of-thailand-rejects-protester-demands-to-dissolve-the-parliament-within-30-days.html)  [JSON](/news/2010/04/24/prime-minister-abhisit-vejjajiva-of-thailand-rejects-protester-demands-to-dissolve-the-parliament-within-30-days.json)  [XML](/news/2010/04/24/prime-minister-abhisit-vejjajiva-of-thailand-rejects-protester-demands-to-dissolve-the-parliament-within-30-days.xml)  
+
 ### [2010-04-24](/news/2010/04/24/index.md)
 
+##### Prime Minister
 # Prime Minister Abhisit Vejjajiva of Thailand rejects protester demands to dissolve the Parliament within 30 days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Thailand-Prime-Minister-Refuses-Red-Shirts-Proposal-To-Dissolve-Parliament-Within-30-Days/Article/201004415619024?lpos=World_News_First_Home_Article_Teaser_Region_0&lid=ARTICLE_15619024_Thailand%3A_Prime_Minister_Refuses_Red_Shirts_Proposal_To_Dissolve_Parliament_Within_30_Days)
 

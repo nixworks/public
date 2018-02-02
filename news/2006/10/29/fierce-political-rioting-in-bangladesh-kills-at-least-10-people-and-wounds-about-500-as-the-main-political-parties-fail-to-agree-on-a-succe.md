@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/29/fierce-political-rioting-in-bangladesh-kills-at-least-10-people-and-wounds-about-500-as-the-main-political-parties-fail-to-agree-on-a-succe.html)  [JSON](/news/2006/10/29/fierce-political-rioting-in-bangladesh-kills-at-least-10-people-and-wounds-about-500-as-the-main-political-parties-fail-to-agree-on-a-succe.json)  [XML](/news/2006/10/29/fierce-political-rioting-in-bangladesh-kills-at-least-10-people-and-wounds-about-500-as-the-main-political-parties-fail-to-agree-on-a-succe.xml)  
+
 ### [2006-10-29](/news/2006/10/29/index.md)
 
+##### Bangladesh
 #  Fierce political rioting in Bangladesh kills at least 10 people and wounds about 500 as the main political parties fail to agree on a successor after the expiry of Prime Minister Begum Khaleda Zia's five-year term. President Iajuddin Ahmed becomes interim PM. Opposition Awami League accuses Iajuddin of violating the Constitution of Bangladesh by appointing himself as head of the interim government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/10/29/bangladesh.president.ap/)
 2. [Reuters](http://www.alertnet.org/thenews/newsdesk/L29889973.htm)

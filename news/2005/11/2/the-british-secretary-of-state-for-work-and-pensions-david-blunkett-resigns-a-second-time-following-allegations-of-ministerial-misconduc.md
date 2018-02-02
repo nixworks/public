@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/2/the-british-secretary-of-state-for-work-and-pensions-david-blunkett-resigns-a-second-time-following-allegations-of-ministerial-misconduc.html)  [JSON](/news/2005/11/2/the-british-secretary-of-state-for-work-and-pensions-david-blunkett-resigns-a-second-time-following-allegations-of-ministerial-misconduc.json)  [XML](/news/2005/11/2/the-british-secretary-of-state-for-work-and-pensions-david-blunkett-resigns-a-second-time-following-allegations-of-ministerial-misconduc.xml)  
+
 ### [2005-11-2](/news/2005/11/2/index.md)
 
+##### Secretary of State for Work and Pensions
 #  The British Secretary of State for Work and Pensions, David Blunkett, resigns a second time, following allegations of ministerial misconduct over his directorship and purchase of shares in a bioscience company. John Hutton is named as his replacement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Investment & Pensions Europe](http://www.ipe.com/default.asp?article=19723)
 

@@ -1,11 +1,9 @@
 
-### Formats:
+Formats: [HTML](/news/2017/05/12/catholics-in-portugal-converge-in-a-shrine-in-fatima-for-a-visit-by-pope-francis.html)  [JSON](/news/2017/05/12/catholics-in-portugal-converge-in-a-shrine-in-fatima-for-a-visit-by-pope-francis.json)  [XML](/news/2017/05/12/catholics-in-portugal-converge-in-a-shrine-in-fatima-for-a-visit-by-pope-francis.xml)  
 
-* [HTML](/news/2017/05/12/catholics-in-portugal-converge-in-a-shrine-in-fatima-for-a-visit-by-pope-francis.html)
-* [JSON](/news/2017/05/12/catholics-in-portugal-converge-in-a-shrine-in-fatima-for-a-visit-by-pope-francis.json)
-* [XML](/news/2017/05/12/catholics-in-portugal-converge-in-a-shrine-in-fatima-for-a-visit-by-pope-francis.xml)
 ### [2017-05-12](/news/2017/05/12/index.md)
 
+##### Catholic Church
 # Catholics in Portugal converge in a shrine in Fatima for a visit by Pope Francis. 
 
 Catholics converge on the Portuguese shrine 100 years after &quot;miraculous&quot; visions of the Virgin Mary.

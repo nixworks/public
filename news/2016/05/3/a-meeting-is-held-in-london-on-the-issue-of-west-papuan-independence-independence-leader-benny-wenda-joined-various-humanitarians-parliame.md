@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/3/a-meeting-is-held-in-london-on-the-issue-of-west
 
 ### [2016-05-3](/news/2016/05/3/index.md)
 
+##### Papua conflict
 # A meeting is held in London on the issue of West Papuan independence. Independence leader Benny Wenda joined various humanitarians, parliamentarians and lawyers in urging the United Nations to secure a vote on the future status of the region, which is occupied by Indonesia. 
 
 Exclusive: Independence leader Benny Wenda joins parliamentarians, lawyers and humanitarians demanding UN supports referendum on territory’s fate

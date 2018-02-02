@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/4/president-of-afghanistan-hamid-karzai-threatens-to-join-the-taliban-if-the-afghani-parliament-refuses-to-approve-his-proposal-to-take-contro.html)  [JSON](/news/2010/04/4/president-of-afghanistan-hamid-karzai-threatens-to-join-the-taliban-if-the-afghani-parliament-refuses-to-approve-his-proposal-to-take-contro.json)  [XML](/news/2010/04/4/president-of-afghanistan-hamid-karzai-threatens-to-join-the-taliban-if-the-afghani-parliament-refuses-to-approve-his-proposal-to-take-contro.xml)  
+
 ### [2010-04-4](/news/2010/04/4/index.md)
 
+##### Afghanistan President
 # President of Afghanistan Hamid Karzai threatens to join the Taliban if the Afghani Parliament refuses to approve his proposal to take control of the electoral apparatus from the United Nations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal Online](http://online.wsj.com/article/SB10001424052702303917304575162012382865940.html?mod=WSJ_hp_mostpop_read)
 

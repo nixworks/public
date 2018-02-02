@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/29/iraqi-insurgency-17-police-officers-15-of-them-police-trainers-are-abducted-and-murdered-in-basra.html)  [JSON](/news/2006/10/29/iraqi-insurgency-17-police-officers-15-of-them-police-trainers-are-abducted-and-murdered-in-basra.json)  [XML](/news/2006/10/29/iraqi-insurgency-17-police-officers-15-of-them-police-trainers-are-abducted-and-murdered-in-basra.xml)  
+
 ### [2006-10-29](/news/2006/10/29/index.md)
 
+##### Iraqi insurgency
 #  Iraqi insurgency: 17 police officers, 15 of them police trainers, are abducted and murdered in Basra. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6097180.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/19/the-death-toll-in-the-8-october-kashmir-earthquake-exceeds-79-000.html)  [JSON](/news/2005/10/19/the-death-toll-in-the-8-october-kashmir-earthquake-exceeds-79-000.json)  [XML](/news/2005/10/19/the-death-toll-in-the-8-october-kashmir-earthquake-exceeds-79-000.xml)  
+
 ### [2005-10-19](/news/2005/10/19/index.md)
 
+##### 8 October
 #  The death toll in the 8 October Kashmir earthquake exceeds 79,000. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-5354447,00.html)
 

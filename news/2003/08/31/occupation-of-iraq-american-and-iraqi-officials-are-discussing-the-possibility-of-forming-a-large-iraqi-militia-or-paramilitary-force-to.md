@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/31/occupation-of-iraq-american-and-iraqi-officials-are-discussing-the-possibility-of-forming-a-large-iraqi-militia-or-paramilitary-force-to.html)  [JSON](/news/2003/08/31/occupation-of-iraq-american-and-iraqi-officials-are-discussing-the-possibility-of-forming-a-large-iraqi-militia-or-paramilitary-force-to.json)  [XML](/news/2003/08/31/occupation-of-iraq-american-and-iraqi-officials-are-discussing-the-possibility-of-forming-a-large-iraqi-militia-or-paramilitary-force-to.xml)  
+
 ### [2003-08-31](/news/2003/08/31/index.md)
 
+##### Iraq war
 #  "Occupation of Iraq": American and Iraqi officials are discussing the possibility of forming a large Iraqi militia or paramilitary force to help improve security in the country. 
 
 

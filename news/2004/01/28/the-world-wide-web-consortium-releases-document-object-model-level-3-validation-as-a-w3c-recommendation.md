@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/28/the-world-wide-web-consortium-releases-document-object-model-level-3-validation-as-a-w3c-recommendation.html)  [JSON](/news/2004/01/28/the-world-wide-web-consortium-releases-document-object-model-level-3-validation-as-a-w3c-recommendation.json)  [XML](/news/2004/01/28/the-world-wide-web-consortium-releases-document-object-model-level-3-validation-as-a-w3c-recommendation.xml)  
+
 ### [2004-01-28](/news/2004/01/28/index.md)
 
+##### World Wide Web Consortium
 #  The World Wide Web Consortium releases Document Object Model Level 3 Validation as a W3C Recommendation.
 
 

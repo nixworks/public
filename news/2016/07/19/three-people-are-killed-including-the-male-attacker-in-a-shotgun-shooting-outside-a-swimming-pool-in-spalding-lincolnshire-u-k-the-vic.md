@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/19/three-people-are-killed-including-the-male-atta
 
 ### [2016-07-19](/news/2016/07/19/index.md)
 
+##### Spalding, Lincolnshire
 # Three people are killed, including the male attacker, in a shotgun shooting outside a swimming pool in Spalding, Lincolnshire, U.K.. The victims are reported to be a 40-year-old mother and her 20-year-old daughter; both apparently knew the suspect. 
 
 Lance Hart, 57, is said to have used a shotgun to kill wife Claire, 50, and their 19-year-old daughter Charlotte in the leisure centre car park today

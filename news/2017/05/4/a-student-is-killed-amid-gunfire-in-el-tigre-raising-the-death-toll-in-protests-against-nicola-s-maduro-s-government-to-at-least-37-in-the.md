@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2017/05/4/a-student-is-killed-amid-gunfire-in-el-tigre-raising-the-death-toll-in-protests-against-nicola-s-maduro-s-government-to-at-least-37-in-the.html)  [JSON](/news/2017/05/4/a-student-is-killed-amid-gunfire-in-el-tigre-raising-the-death-toll-in-protests-against-nicola-s-maduro-s-government-to-at-least-37-in-the.json)  [XML](/news/2017/05/4/a-student-is-killed-amid-gunfire-in-el-tigre-raising-the-death-toll-in-protests-against-nicola-s-maduro-s-government-to-at-least-37-in-the.xml)  
+
 ### [2017-05-4](/news/2017/05/4/index.md)
 
+##### ongoing protests
 # A student is killed amid gunfire in El Tigre, raising the death toll in protests against Nicolas Maduro's government to at least 37 in the past month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/death-toll-venezuela-protests-36-police-death-47205203)
 1. [Cover Image](http://a.abcnews.com/images/International/WireAP_9522c005acdd4e91b77a1e28ba2c8c49_16x9_992.jpg)
+
+### Changes:
+
+1. [A student is killed amid gunfire in El Tigre, raising the minimum death toll of protests against Nicolas Maduro's government to 37 in the past month. ](/news/2017/05/4/a-student-is-killed-amid-gunfire-in-el-tigre-raising-the-minimum-death-toll-of-protests-against-nicola-s-maduro-s-government-to-37-in-the-p.md) _2017-05-05 09:30:06 (First version)_
+2. [2017 Venezuelan protests: A student is killed amid gunfire in El Tigre, raising the death toll in protests against Nicolas Maduro's government to at least 37 in the past month. ](/news/2017/05/4/2017-venezuelan-protests-a-student-is-killed-amid-gunfire-in-el-tigre-raising-the-death-toll-in-protests-against-nicola-s-maduro-s-governm.md) _2017-08-27 03:48:18 (Update)_
+2. [A student is killed amid gunfire in El Tigre, raising the death toll in protests against Nicolas Maduro's government to at least 37 in the past month. ](/news/2017/05/4/a-student-is-killed-amid-gunfire-in-el-tigre-raising-the-death-toll-in-protests-against-nicola-s-maduro-s-government-to-at-least-37-in-the.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@
 3. [The Supreme Court paves the way for the prosecution of Prosecutor General Luisa Ortega Diaz after she voiced criticism towards President Nicolas Maduro. ](/news/2017/06/20/the-supreme-court-paves-the-way-for-the-prosecution-of-prosecutor-general-luisa-ortega-daaz-after-she-voiced-criticism-towards-president-ni.md) _Context: Nicolas Maduro, ongoing protests_
 4. [A young man is shot dead in Valencia, Carabobo, amid ongoing protests against the government of Nicolas Maduro. Protesters tear down a statue of former President Hugo Chavez in Rosario de Perija. ](/news/2017/05/6/a-young-man-is-shot-dead-in-valencia-carabobo-amid-ongoing-protests-against-the-government-of-nicola-s-maduro-protesters-tear-down-a-stat.md) _Context: Nicolas Maduro, ongoing protests_
 5. [Marking the 50th consecutive day of protests, hundreds of thousands demonstrate throughout Venezuela against President Nicolas Maduro, with civil unrest growing despite the increasing number of casualties. ](/news/2017/05/20/marking-the-50th-consecutive-day-of-protests-hundreds-of-thousands-demonstrate-throughout-venezuela-against-president-nicola-s-maduro-with.md) _Context: Nicolas Maduro, ongoing protests_
-
-### Changes:
-
-1. [A student is killed amid gunfire in El Tigre, raising the minimum death toll of protests against Nicolas Maduro's government to 37 in the past month. ](/news/2017/05/4/a-student-is-killed-amid-gunfire-in-el-tigre-raising-the-minimum-death-toll-of-protests-against-nicola-s-maduro-s-government-to-37-in-the-p.md) _2017-05-05 09:30:06 (First version)_
-2. [2017 Venezuelan protests: A student is killed amid gunfire in El Tigre, raising the death toll in protests against Nicolas Maduro's government to at least 37 in the past month. ](/news/2017/05/4/2017-venezuelan-protests-a-student-is-killed-amid-gunfire-in-el-tigre-raising-the-death-toll-in-protests-against-nicola-s-maduro-s-governm.md) _2017-08-27 03:48:18 (Update)_
-2. [A student is killed amid gunfire in El Tigre, raising the death toll in protests against Nicolas Maduro's government to at least 37 in the past month. ](/news/2017/05/4/a-student-is-killed-amid-gunfire-in-el-tigre-raising-the-death-toll-in-protests-against-nicola-s-maduro-s-government-to-at-least-37-in-the.md) _(Current version)_

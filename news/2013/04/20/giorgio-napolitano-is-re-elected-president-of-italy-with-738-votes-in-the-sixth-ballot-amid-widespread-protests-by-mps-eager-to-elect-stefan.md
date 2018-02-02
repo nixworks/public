@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/20/giorgio-napolitano-is-re-elected-president-of-italy-with-738-votes-in-the-sixth-ballot-amid-widespread-protests-by-mps-eager-to-elect-stefan.html)  [JSON](/news/2013/04/20/giorgio-napolitano-is-re-elected-president-of-italy-with-738-votes-in-the-sixth-ballot-amid-widespread-protests-by-mps-eager-to-elect-stefan.json)  [XML](/news/2013/04/20/giorgio-napolitano-is-re-elected-president-of-italy-with-738-votes-in-the-sixth-ballot-amid-widespread-protests-by-mps-eager-to-elect-stefan.xml)  
+
 ### [2013-04-20](/news/2013/04/20/index.md)
 
+##### Giorgio Napolitano
 # Giorgio Napolitano is re-elected President of Italy with 738 votes in the sixth ballot amid widespread protests by MPs eager to elect Stefano Rodota. 
 
 Giorgio Napolitano wins an unprecedented second term as Italian president after a cross-party appeal to help solve a deepening political crisis.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-22232305)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67130000/jpg/_67130532_67130531.jpg)

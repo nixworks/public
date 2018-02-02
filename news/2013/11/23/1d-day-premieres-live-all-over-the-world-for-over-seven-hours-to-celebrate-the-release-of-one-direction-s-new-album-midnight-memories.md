@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2013/11/23/1d-day-premieres-live-all-over-the-world-for-over-seven-hours-to-celebrate-the-release-of-one-direction-s-new-album-midnight-memories.html)  [JSON](/news/2013/11/23/1d-day-premieres-live-all-over-the-world-for-over-seven-hours-to-celebrate-the-release-of-one-direction-s-new-album-midnight-memories.json)  [XML](/news/2013/11/23/1d-day-premieres-live-all-over-the-world-for-over-seven-hours-to-celebrate-the-release-of-one-direction-s-new-album-midnight-memories.xml)  
+
 ### [2013-11-23](/news/2013/11/23/index.md)
 
+##### One Direction
 # 1D day premieres live all over the world for over seven hours to celebrate the release of One Direction's new album, Midnight Memories.
 
 

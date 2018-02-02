@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/23/rebel-leader-riek-machar-misses-an-internationa
 
 ### [2016-04-23](/news/2016/04/23/index.md)
 
+##### South Sudanese Civil War
 # Rebel leader Riek Machar misses an international deadline to return to the capital Juba to take the post of Vice President. Machar was offered the position by President Salva Kiir Mayardit in the hopes of putting an end to the civil war but has repeatedly delayed his return. 
 
 Government will not allow Riek Machar back until international monitors verify number of weapons troops are bringing.

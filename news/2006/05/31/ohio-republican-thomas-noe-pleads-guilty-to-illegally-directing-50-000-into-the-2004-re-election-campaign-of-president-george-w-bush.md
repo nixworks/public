@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/31/ohio-republican-thomas-noe-pleads-guilty-to-illegally-directing-50-000-into-the-2004-re-election-campaign-of-president-george-w-bush.html)  [JSON](/news/2006/05/31/ohio-republican-thomas-noe-pleads-guilty-to-illegally-directing-50-000-into-the-2004-re-election-campaign-of-president-george-w-bush.json)  [XML](/news/2006/05/31/ohio-republican-thomas-noe-pleads-guilty-to-illegally-directing-50-000-into-the-2004-re-election-campaign-of-president-george-w-bush.xml)  
+
 ### [2006-05-31](/news/2006/05/31/index.md)
 
+##### Ohio
 #  Ohio Republican Thomas Noe pleads guilty to illegally directing $50,000 into the 2004 re-election campaign of President George W. Bush.
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.mercurynews.com/mld/mercurynews/14708901.htm)
 

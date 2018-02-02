@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/20/a-fire-breaks-out-at-the-kashiwazaki-kariwa-nuclear-power-plant-in-niigata-japan-which-has-been-closed-since-a-fire-in-july.html)  [JSON](/news/2007/09/20/a-fire-breaks-out-at-the-kashiwazaki-kariwa-nuclear-power-plant-in-niigata-japan-which-has-been-closed-since-a-fire-in-july.json)  [XML](/news/2007/09/20/a-fire-breaks-out-at-the-kashiwazaki-kariwa-nuclear-power-plant-in-niigata-japan-which-has-been-closed-since-a-fire-in-july.xml)  
+
 ### [2007-09-20](/news/2007/09/20/index.md)
 
+##### Kashiwazaki-Kariwa Nuclear Power Plant
 #  A fire breaks out at the Kashiwazaki-Kariwa Nuclear Power Plant in Niigata, Japan, which has been closed since a fire in July. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7003975.stm)
 

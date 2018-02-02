@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/22/the-french-government-votes-to-allow-a-us-17-billion-deal-buyout-of-much-of-alstom-s-power-production-business-by-general-electric-to-move-f.html)  [JSON](/news/2014/06/22/the-french-government-votes-to-allow-a-us-17-billion-deal-buyout-of-much-of-alstom-s-power-production-business-by-general-electric-to-move-f.json)  [XML](/news/2014/06/22/the-french-government-votes-to-allow-a-us-17-billion-deal-buyout-of-much-of-alstom-s-power-production-business-by-general-electric-to-move-f.xml)  
+
 ### [2014-06-22](/news/2014/06/22/index.md)
 
+##### French government
 # The French government votes to allow a US$17 billion deal buyout of much of Alstom's power production business by General Electric to move forward. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://ca.reuters.com/article/businessNews/idCAKBN0EX0J420140622)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/09/4/tropical-storm-lee-makes-landfall-near-the-us-city-of-lafayette-louisiana-with-the-gulf-coast-hit-by-tornados.html)  [JSON](/news/2011/09/4/tropical-storm-lee-makes-landfall-near-the-us-city-of-lafayette-louisiana-with-the-gulf-coast-hit-by-tornados.json)  [XML](/news/2011/09/4/tropical-storm-lee-makes-landfall-near-the-us-city-of-lafayette-louisiana-with-the-gulf-coast-hit-by-tornados.xml)  
+
 ### [2011-09-4](/news/2011/09/4/index.md)
 
+##### Tropical Storm Lee
 # Tropical Storm Lee makes landfall near the US city of Lafayette, Louisiana, with the Gulf Coast hit by tornados. 
 
 Tropical Storm Lee spawned tornado sightings and alerts from the Louisiana Gulf Coast to the Florida panhandle on Sunday, and at least one death was reported from a traffic accident related to the storm.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/09/04/us-storm-usa-tornadoes-idUSTRE7831GM20110904)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110904&t=2&i=493766243&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-09-04T151423Z_01_BTRE78316C500_RTROPTP_0_STORM-USA-GULF)
+1. [Reuters](https://www.reuters.com/article/2011/09/04/us-storm-usa-tornadoes-idUSTRE7831GM20110904)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20110904&t=2&i=493766243&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-09-04T151423Z_01_BTRE78316C500_RTROPTP_0_STORM-USA-GULF)
 
 ### Related:
 

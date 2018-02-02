@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/22/tens-of-thousands-of-students-protest-in-the-chilean-capital-santiago-for-increased-education-expenditure.html)  [JSON](/news/2011/09/22/tens-of-thousands-of-students-protest-in-the-chilean-capital-santiago-for-increased-education-expenditure.json)  [XML](/news/2011/09/22/tens-of-thousands-of-students-protest-in-the-chilean-capital-santiago-for-increased-education-expenditure.xml)  
+
 ### [2011-09-22](/news/2011/09/22/index.md)
 
+##### Chile
 # Tens of thousands of students protest in the Chilean capital Santiago for increased education expenditure. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/L/LT_CHILE_DEMONSTRATIONS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

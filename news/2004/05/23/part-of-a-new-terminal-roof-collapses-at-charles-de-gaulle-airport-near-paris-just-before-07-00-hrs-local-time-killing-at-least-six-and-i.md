@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/05/23/part-of-a-new-terminal-roof-collapses-at-charles-de-gaulle-airport-near-paris-just-before-07-00-hrs-local-time-killing-at-least-six-and-i.html)  [JSON](/news/2004/05/23/part-of-a-new-terminal-roof-collapses-at-charles-de-gaulle-airport-near-paris-just-before-07-00-hrs-local-time-killing-at-least-six-and-i.json)  [XML](/news/2004/05/23/part-of-a-new-terminal-roof-collapses-at-charles-de-gaulle-airport-near-paris-just-before-07-00-hrs-local-time-killing-at-least-six-and-i.xml)  
+
 ### [2004-05-23](/news/2004/05/23/index.md)
 
+##### airport terminal
 #  Part of a new terminal roof collapses at Charles de Gaulle Airport near Paris just before 07:00 hrs local time, killing at least six, and injuring several others. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/WORLD/europe/05/23/paris.roofcollapse.ap/index.html)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5227484&section=news)
-2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5227484&section=news)
 
 ### Related:
 

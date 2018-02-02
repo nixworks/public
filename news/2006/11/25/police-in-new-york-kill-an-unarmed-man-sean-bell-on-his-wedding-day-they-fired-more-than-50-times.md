@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/25/police-in-new-york-kill-an-unarmed-man-sean-bell-on-his-wedding-day-they-fired-more-than-50-times.html)  [JSON](/news/2006/11/25/police-in-new-york-kill-an-unarmed-man-sean-bell-on-his-wedding-day-they-fired-more-than-50-times.json)  [XML](/news/2006/11/25/police-in-new-york-kill-an-unarmed-man-sean-bell-on-his-wedding-day-they-fired-more-than-50-times.xml)  
+
 ### [2006-11-25](/news/2006/11/25/index.md)
 
+##### Police in New York
 #  Police in New York kill an unarmed man, Sean Bell, on his wedding day. They fired more than 50 times. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/6184948.stm)
 

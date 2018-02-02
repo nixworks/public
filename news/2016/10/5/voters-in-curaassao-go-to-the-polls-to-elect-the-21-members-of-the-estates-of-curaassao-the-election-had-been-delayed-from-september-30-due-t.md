@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/5/voters-in-curaassao-go-to-the-polls-to-elect-the
 
 ### [2016-10-5](/news/2016/10/5/index.md)
 
+##### Curacao general election, 2016
 # Voters in Curacao go to the polls to elect the 21 members of the Estates of Curacao. The election had been delayed from September 30 due to Hurricane Matthew. 
 
 WILLEMSTAD – The Supreme Electoral Council (SEC) held its first briefing today at 12 o’clock. According to Pacheco Römer, chairman of the SEC, up until that moment, 21,571 people voted which represents about 20% of the total voters on the island. “This is a good sign because normally this is 12 to 15%,” said Römer during&hellip;

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/28/a-sydney-ferries-jetcat-collides-with-a-private-charter-vessel-beneath-the-sydney-harbour-bridge-in-the-waters-of-port-jackson-sydney-aus.html)  [JSON](/news/2007/03/28/a-sydney-ferries-jetcat-collides-with-a-private-charter-vessel-beneath-the-sydney-harbour-bridge-in-the-waters-of-port-jackson-sydney-aus.json)  [XML](/news/2007/03/28/a-sydney-ferries-jetcat-collides-with-a-private-charter-vessel-beneath-the-sydney-harbour-bridge-in-the-waters-of-port-jackson-sydney-aus.xml)  
+
 ### [2007-03-28](/news/2007/03/28/index.md)
 
+##### Sydney Ferries
 #  A Sydney Ferries jetcat collides with a private charter vessel beneath the Sydney Harbour Bridge in the waters of Port Jackson, Sydney, Australia, killing three people with another person missing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sydney Daily Telegraph via Courier Mail](http://www.news.com.au/couriermail/story/0,23739,21467124-952,00.html)
 

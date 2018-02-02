@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/3/a-further-35-officers-in-bangladesh-are-sentenced-over-their-involvement-in-a-mutiny-in-february-2009.html)  [JSON](/news/2011/01/3/a-further-35-officers-in-bangladesh-are-sentenced-over-their-involvement-in-a-mutiny-in-february-2009.json)  [XML](/news/2011/01/3/a-further-35-officers-in-bangladesh-are-sentenced-over-their-involvement-in-a-mutiny-in-february-2009.xml)  
+
 ### [2011-01-3](/news/2011/01/3/index.md)
 
+##### Bangladesh
 # A further 35 officers in Bangladesh are sentenced over their involvement in a mutiny in February 2009. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/03/c_13674962.htm)
 

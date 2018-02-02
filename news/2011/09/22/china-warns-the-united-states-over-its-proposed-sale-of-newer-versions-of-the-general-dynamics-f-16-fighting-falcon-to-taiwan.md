@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/09/22/china-warns-the-united-states-over-its-proposed-sale-of-newer-versions-of-the-general-dynamics-f-16-fighting-falcon-to-taiwan.html)  [JSON](/news/2011/09/22/china-warns-the-united-states-over-its-proposed-sale-of-newer-versions-of-the-general-dynamics-f-16-fighting-falcon-to-taiwan.json)  [XML](/news/2011/09/22/china-warns-the-united-states-over-its-proposed-sale-of-newer-versions-of-the-general-dynamics-f-16-fighting-falcon-to-taiwan.xml)  
+
 ### [2011-09-22](/news/2011/09/22/index.md)
 
+##### F-16
 # China warns the United States over its proposed sale of newer versions of the General Dynamics F-16 Fighting Falcon to Taiwan. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/09/22/china-usa-taiwan-idUSL3E7KM00920110922)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/09/22/china-usa-taiwan-idUSL3E7KM00920110922)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

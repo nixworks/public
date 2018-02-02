@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/29/the-peruvian-government-apologizes-to-citizens-of-african-origin-for-centuries-of-abuse.html)  [JSON](/news/2009/11/29/the-peruvian-government-apologizes-to-citizens-of-african-origin-for-centuries-of-abuse.json)  [XML](/news/2009/11/29/the-peruvian-government-apologizes-to-citizens-of-african-origin-for-centuries-of-abuse.xml)  
+
 ### [2009-11-29](/news/2009/11/29/index.md)
 
+##### Peru
 #  The Peruvian government apologizes to citizens of African origin for centuries of abuse. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8384853.stm)
 2. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=348176&CategoryId=14095)
@@ -15,5 +19,5 @@
 1. [ The Peruvian government is to revoke land laws that resulted in deadly clashes with indigenous protesters in the Amazon. ](/news/2009/06/17/the-peruvian-government-is-to-revoke-land-laws-that-resulted-in-deadly-clashes-with-indigenous-protesters-in-the-amazon.md) _Context: Government of Peru, Peru_
 2. [ Sixty-five indigenous peoples declare an insurgency against Peru's government. ](/news/2009/05/15/sixty-five-indigenous-peoples-declare-an-insurgency-against-peru-s-government.md) _Context: Government of Peru, Peru_
 3. [ Peru's civil defense agency estimates that the death toll from the 2007 Peru earthquake is now 337 with 827 more injured. The coastal province of Ica is hardest hit. A 6.3 magnitude aftershock hits the country. The Government of Peru declares a state of emergency. ](/news/2007/08/16/peru-s-civil-defense-agency-estimates-that-the-death-toll-from-the-2007-peru-earthquake-is-now-337-with-827-more-injured-the-coastal-provi.md) _Context: Government of Peru, Peru_
-4. [The face of the Peruvian Moche mummy the Lady of Cao is reconstructed from its skull structure, using forensic archaeology techniques and ethnographic research. ](/news/2017/07/5/the-face-of-the-peruvian-moche-mummy-the-lady-of-cao-is-reconstructed-from-its-skull-structure-using-forensic-archaeology-techniques-and-et.md) _Context: Peru_
-5. [A group of people are arrested in the Peruvian village of Muqui, located in the Andes, after they painted a wall with allusive symbols and messages to the far-left terrorist organization, Shining Path, responsible for crimes against humanity in Peru from 1980 to 1992. Police later clarified that the true intentions of the arrested, some of them students of a technical training institute, were to make a short film. ](/news/2017/07/5/a-group-of-people-are-arrested-in-the-peruvian-village-of-muqui-located-in-the-andes-after-they-painted-a-wall-with-allusive-symbols-and-m.md) _Context: Peru_
+4. [A coach bus plunges off a cliff on a coastal road in Peru, killing at least 48 people. ](/news/2018/01/2/a-coach-bus-plunges-off-a-cliff-on-a-coastal-road-in-peru-killing-at-least-48-people.md) _Context: Peru_
+5. [A 7.1 magnitude earthquake strikes in the Pacific Ocean near Acari in Peru's Arequipa Region resulting in 1 death and 65 injured. ](/news/2018/01/14/a-7-1-magnitude-earthquake-strikes-in-the-pacific-ocean-near-acara-in-peru-s-arequipa-region-resulting-in-1-death-and-65-injured.md) _Context: Peru_

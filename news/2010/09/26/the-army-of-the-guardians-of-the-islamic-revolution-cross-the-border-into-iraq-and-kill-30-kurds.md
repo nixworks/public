@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/26/the-army-of-the-guardians-of-the-islamic-revolution-cross-the-border-into-iraq-and-kill-30-kurds.html)  [JSON](/news/2010/09/26/the-army-of-the-guardians-of-the-islamic-revolution-cross-the-border-into-iraq-and-kill-30-kurds.json)  [XML](/news/2010/09/26/the-army-of-the-guardians-of-the-islamic-revolution-cross-the-border-into-iraq-and-kill-30-kurds.xml)  
+
 ### [2010-09-26](/news/2010/09/26/index.md)
 
+##### Iranian Revolutionary guards
 # The Army of the Guardians of the Islamic Revolution cross the border into Iraq and kill 30 Kurds. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11415710)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

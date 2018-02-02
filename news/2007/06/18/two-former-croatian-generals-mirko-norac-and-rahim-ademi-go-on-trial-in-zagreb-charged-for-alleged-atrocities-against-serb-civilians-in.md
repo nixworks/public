@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/18/two-former-croatian-generals-mirko-norac-and-rahim-ademi-go-on-trial-in-zagreb-charged-for-alleged-atrocities-against-serb-civilians-in.html)  [JSON](/news/2007/06/18/two-former-croatian-generals-mirko-norac-and-rahim-ademi-go-on-trial-in-zagreb-charged-for-alleged-atrocities-against-serb-civilians-in.json)  [XML](/news/2007/06/18/two-former-croatian-generals-mirko-norac-and-rahim-ademi-go-on-trial-in-zagreb-charged-for-alleged-atrocities-against-serb-civilians-in.xml)  
+
 ### [2007-06-18](/news/2007/06/18/index.md)
 
+##### Croatia
 #  Two former Croatian generals, Mirko Norac and Rahim Ademi, go on trial in Zagreb, charged for alleged atrocities against Serb civilians in 1993. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via IHT](http://www.iht.com/articles/ap/2007/06/18/europe/EU-GEN-Croatia-War-Crimes.php)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/16/syrian-government-airstrikes-and-rockets-from-i
 
 ### [2016-04-16](/news/2016/04/16/index.md)
 
+##### Syrian Civil War
 # Syrian government airstrikes, and rockets from Islamist insurgents, hit many neighborhoods in Aleppo. Fatalities are reported on both sides of the city. This continued fighting threatens the truce and peace talks being held in Geneva, Switzerland. UN envoy Staffan de Mistura says he will meet the government delegation Monday, and will sit down with the main opposition High Negotiations Committee later in the week. 
 
 Government air strikes hit rebel-held areas of Aleppo on Saturday as rockets fired by insurgents pounded neighborhoods under state control, part of escalating violence in northern Syria that has undermined a truce agreement.

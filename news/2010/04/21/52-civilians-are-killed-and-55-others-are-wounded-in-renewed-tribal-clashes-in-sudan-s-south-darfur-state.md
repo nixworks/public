@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/21/52-civilians-are-killed-and-55-others-are-wounded-in-renewed-tribal-clashes-in-sudan-s-south-darfur-state.html)  [JSON](/news/2010/04/21/52-civilians-are-killed-and-55-others-are-wounded-in-renewed-tribal-clashes-in-sudan-s-south-darfur-state.json)  [XML](/news/2010/04/21/52-civilians-are-killed-and-55-others-are-wounded-in-renewed-tribal-clashes-in-sudan-s-south-darfur-state.xml)  
+
 ### [2010-04-21](/news/2010/04/21/index.md)
 
+##### South Darfur
 # 52 civilians are killed and 55 others are wounded in renewed tribal clashes in Sudan's South Darfur state. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Dialy](http://www.chinadaily.com.cn/world/2010-04/21/content_9758617.htm)
 2. [China.org](http://www.china.org.cn/world/2010-04/21/content_19875954.htm)

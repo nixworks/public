@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/16/the-hawaii-senate-approves-hawaii-senate-bill-232-legalising-civil-unions-for-gay-and-lesbian-couples-and-will-be-sent-to-the-governor-neil.html)  [JSON](/news/2011/02/16/the-hawaii-senate-approves-hawaii-senate-bill-232-legalising-civil-unions-for-gay-and-lesbian-couples-and-will-be-sent-to-the-governor-neil.json)  [XML](/news/2011/02/16/the-hawaii-senate-approves-hawaii-senate-bill-232-legalising-civil-unions-for-gay-and-lesbian-couples-and-will-be-sent-to-the-governor-neil.xml)  
+
 ### [2011-02-16](/news/2011/02/16/index.md)
 
+##### Hawaii Senate
 # The Hawaii Senate approves Hawaii Senate Bill 232 legalising civil unions for gay and lesbian couples and will be sent to the Governor Neil Abercrombie for approval. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Honolulu Star-Advertiser](http://www.staradvertiser.com/news/breaking/116352634.html#)
 

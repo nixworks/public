@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/3/a-package-addressed-to-italian-prime-minister-silvio-berlusconi-bursts-into-flames-at-bologna-airport-during-a-police-inspection.html)  [JSON](/news/2010/11/3/a-package-addressed-to-italian-prime-minister-silvio-berlusconi-bursts-into-flames-at-bologna-airport-during-a-police-inspection.json)  [XML](/news/2010/11/3/a-package-addressed-to-italian-prime-minister-silvio-berlusconi-bursts-into-flames-at-bologna-airport-during-a-police-inspection.xml)  
+
 ### [2010-11-3](/news/2010/11/3/index.md)
 
+##### Silvio Berlusconi
 # A package addressed to Italian Prime Minister Silvio Berlusconi bursts into flames at Bologna Airport during a police inspection. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/03/c_13588576.htm)
 

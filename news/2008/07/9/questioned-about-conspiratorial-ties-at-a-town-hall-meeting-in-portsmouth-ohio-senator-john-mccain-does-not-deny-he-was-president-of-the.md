@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/9/questioned-about-conspiratorial-ties-at-a-town-hall-meeting-in-portsmouth-ohio-senator-john-mccain-does-not-deny-he-was-president-of-the.html)  [JSON](/news/2008/07/9/questioned-about-conspiratorial-ties-at-a-town-hall-meeting-in-portsmouth-ohio-senator-john-mccain-does-not-deny-he-was-president-of-the.json)  [XML](/news/2008/07/9/questioned-about-conspiratorial-ties-at-a-town-hall-meeting-in-portsmouth-ohio-senator-john-mccain-does-not-deny-he-was-president-of-the.xml)  
+
 ### [2008-07-9](/news/2008/07/9/index.md)
 
+##### John McCain
 #  Questioned about conspiratorial ties at a town hall meeting in Portsmouth, Ohio, Senator John McCain does not deny he was president of the New Citizenship Project (forerunner of the neo-conservative Project for the New American Century). Instead he states his pride in the 9-11 Commission. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Current.com](http://current.com/items/89092164_mccain_asked_about_pnac_and_9_11_at_town_hall)
 2. [therawstory](http://rawstory.com/news/2008/McCain_asked_about_PNAC_and_911_0710.html)

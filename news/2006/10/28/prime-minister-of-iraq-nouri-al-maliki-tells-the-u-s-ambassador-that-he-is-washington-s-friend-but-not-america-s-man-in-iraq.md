@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/28/prime-minister-of-iraq-nouri-al-maliki-tells-the-u-s-ambassador-that-he-is-washington-s-friend-but-not-america-s-man-in-iraq.html)  [JSON](/news/2006/10/28/prime-minister-of-iraq-nouri-al-maliki-tells-the-u-s-ambassador-that-he-is-washington-s-friend-but-not-america-s-man-in-iraq.json)  [XML](/news/2006/10/28/prime-minister-of-iraq-nouri-al-maliki-tells-the-u-s-ambassador-that-he-is-washington-s-friend-but-not-america-s-man-in-iraq.xml)  
+
 ### [2006-10-28](/news/2006/10/28/index.md)
 
+##### Iraq Prime Minister
 #  Prime Minister of Iraq Nouri al-Maliki tells the U.S. ambassador that he is Washington's friend but "not America's man in Iraq." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/stories/2006/10/28/iraq/main2135098.shtml)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2006/10/26/d54e289d-a642-11e2-a3f0-029118418759/image2125283x.jpg)

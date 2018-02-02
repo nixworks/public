@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/5/tens-of-thousands-of-protesters-in-bangkok-demand-the-resignation-of-prime-minister-thaksin-shinawatra-of-thailand.html)  [JSON](/news/2006/03/5/tens-of-thousands-of-protesters-in-bangkok-demand-the-resignation-of-prime-minister-thaksin-shinawatra-of-thailand.json)  [XML](/news/2006/03/5/tens-of-thousands-of-protesters-in-bangkok-demand-the-resignation-of-prime-minister-thaksin-shinawatra-of-thailand.xml)  
+
 ### [2006-03-5](/news/2006/03/5/index.md)
 
+##### Bangkok
 #  Tens of thousands of protesters in Bangkok demand the resignation of Prime Minister Thaksin Shinawatra of Thailand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4775926.stm)
 2. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/03/05/thailand.protests/)

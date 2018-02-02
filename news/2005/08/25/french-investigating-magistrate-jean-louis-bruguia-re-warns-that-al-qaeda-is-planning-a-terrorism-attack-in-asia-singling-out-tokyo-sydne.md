@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/25/french-investigating-magistrate-jean-louis-bruguia-re-warns-that-al-qaeda-is-planning-a-terrorism-attack-in-asia-singling-out-tokyo-sydne.html)  [JSON](/news/2005/08/25/french-investigating-magistrate-jean-louis-bruguia-re-warns-that-al-qaeda-is-planning-a-terrorism-attack-in-asia-singling-out-tokyo-sydne.json)  [XML](/news/2005/08/25/french-investigating-magistrate-jean-louis-bruguia-re-warns-that-al-qaeda-is-planning-a-terrorism-attack-in-asia-singling-out-tokyo-sydne.xml)  
+
 ### [2005-08-25](/news/2005/08/25/index.md)
 
+##### investigating magistrate
 #  French investigating magistrate Jean-Louis Bruguiere warns that Al-Qaeda is planning a terrorism attack in Asia, singling out Tokyo, Sydney and Singapore as potential targets. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Financial Times](http://news.ft.com/cms/s/33cb0c4c-15a8-11da-8085-00000e2511c8.html)
 

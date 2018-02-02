@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/6/observers-prepare-to-use-geostationary-satellites-to-prevent-harassment-in-the-run-up-to-the-referendum-on-independence-for-south-sudan-by.html)  [JSON](/news/2011/01/6/observers-prepare-to-use-geostationary-satellites-to-prevent-harassment-in-the-run-up-to-the-referendum-on-independence-for-south-sudan-by.json)  [XML](/news/2011/01/6/observers-prepare-to-use-geostationary-satellites-to-prevent-harassment-in-the-run-up-to-the-referendum-on-independence-for-south-sudan-by.xml)  
+
 ### [2011-01-6](/news/2011/01/6/index.md)
 
+##### geostationary satellites
 # Observers prepare to use geostationary satellites to prevent harassment in the run-up to the referendum on independence for South Sudan, by monitoring for voter intimidation, damage to property and other violence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Financial Mail](http://www.fm.co.za/Article.aspx?id=130928)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/1/more-than-300-kilograms-of-drugs-opium-morphine-ice-methamphetamine-hydrochloride-ketamine-and-dancing-outreach-are-incinerated-in.html)  [JSON](/news/2010/07/1/more-than-300-kilograms-of-drugs-opium-morphine-ice-methamphetamine-hydrochloride-ketamine-and-dancing-outreach-are-incinerated-in.json)  [XML](/news/2010/07/1/more-than-300-kilograms-of-drugs-opium-morphine-ice-methamphetamine-hydrochloride-ketamine-and-dancing-outreach-are-incinerated-in.xml)  
+
 ### [2010-07-1](/news/2010/07/1/index.md)
 
+##### drug
 # More than 300 kilograms of drugs - opium, morphine, ice (methamphetamine hydrochloride), ketamine and dancing outreach - are incinerated in the suburbs of Lhasa, Tibet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [tibet.cn](http://en.tibet328.cn/01/03/201006/t685968.htm)
 

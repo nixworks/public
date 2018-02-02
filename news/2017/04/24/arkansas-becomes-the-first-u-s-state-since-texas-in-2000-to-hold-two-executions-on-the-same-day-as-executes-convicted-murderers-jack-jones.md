@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/24/arkansas-becomes-the-first-u-s-state-since-texa
 
 ### [2017-04-24](/news/2017/04/24/index.md)
 
+##### List of offenders executed in the United States in 2017
 # Arkansas becomes the first U.S. state since Texas in 2000 to hold two executions on the same day as executes convicted murderers Jack Jones, Jr. and Marcel Williams. 
 
 Lawyers for Jack Jones and Marcel Williams are seeking stays on grounds of poor health.

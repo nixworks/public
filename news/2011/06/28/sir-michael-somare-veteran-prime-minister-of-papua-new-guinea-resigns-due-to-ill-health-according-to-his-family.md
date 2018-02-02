@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/28/sir-michael-somare-veteran-prime-minister-of-papua-new-guinea-resigns-due-to-ill-health-according-to-his-family.html)  [JSON](/news/2011/06/28/sir-michael-somare-veteran-prime-minister-of-papua-new-guinea-resigns-due-to-ill-health-according-to-his-family.json)  [XML](/news/2011/06/28/sir-michael-somare-veteran-prime-minister-of-papua-new-guinea-resigns-due-to-ill-health-according-to-his-family.xml)  
+
 ### [2011-06-28](/news/2011/06/28/index.md)
 
+##### Michael Somare
 # Sir Michael Somare, veteran Prime Minister of Papua New Guinea, resigns due to ill-health according to his family. 
 
 The family of Papua New Guinea&#039;s prime minister Sir Michael Somare says the veteran leader is retiring because of ill health.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/06/28/3255803.htm?section=justin)
 2. [The Australian](http://www.theaustralian.com.au/news/world/sir-michael-somare-quits-as-png-leader/story-e6frg6so-1226083610790)

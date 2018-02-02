@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/07/2/nicotine-water-is-ruled-illegal-by-the-food-and-drug-administration.html)  [JSON](/news/2002/07/2/nicotine-water-is-ruled-illegal-by-the-food-and-drug-administration.json)  [XML](/news/2002/07/2/nicotine-water-is-ruled-illegal-by-the-food-and-drug-administration.xml)  
+
 ### [2002-07-2](/news/2002/07/2/index.md)
 
+##### Nicotine water
 #  Nicotine water is ruled illegal by the Food and Drug Administration.
 
 

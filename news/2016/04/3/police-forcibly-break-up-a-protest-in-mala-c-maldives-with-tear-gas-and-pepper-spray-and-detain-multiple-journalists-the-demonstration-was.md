@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/3/police-forcibly-break-up-a-protest-in-mala-c-mal
 
 ### [2016-04-3](/news/2016/04/3/index.md)
 
+##### Police
 # Police forcibly break up a protest in Male, Maldives, with tear gas and pepper spray and detain multiple journalists. The demonstration was against government moves to introduce a new law to criminalize defamation. 
 
 

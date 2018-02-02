@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/4/the-pro-government-militia-group-of-ahlu-sunnah-waljama-asw-in-somalia-claims-to-have-killed-at-least-91-islamist-fighters-and-wounded-170.html)  [JSON](/news/2010/06/4/the-pro-government-militia-group-of-ahlu-sunnah-waljama-asw-in-somalia-claims-to-have-killed-at-least-91-islamist-fighters-and-wounded-170.json)  [XML](/news/2010/06/4/the-pro-government-militia-group-of-ahlu-sunnah-waljama-asw-in-somalia-claims-to-have-killed-at-least-91-islamist-fighters-and-wounded-170.xml)  
+
 ### [2010-06-4](/news/2010/06/4/index.md)
 
+##### Ahlu Sunnah Waljama
 # The pro-government militia group of Ahlu Sunnah Waljama (ASW) in Somalia claims to have killed at least 91 Islamist fighters and wounded 170 others in Thursday's fierce clashes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China.org](http://www.china.org.cn/world/2010-06/05/content_20191529.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/4/one-of-the-last-prominent-militant-leaders-in-nigeria-s-niger-delta-region-government-ekpemupolo-tompolo-agrees-to-an-amnesty-with-the.html)  [JSON](/news/2009/10/4/one-of-the-last-prominent-militant-leaders-in-nigeria-s-niger-delta-region-government-ekpemupolo-tompolo-agrees-to-an-amnesty-with-the.json)  [XML](/news/2009/10/4/one-of-the-last-prominent-militant-leaders-in-nigeria-s-niger-delta-region-government-ekpemupolo-tompolo-agrees-to-an-amnesty-with-the.xml)  
+
 ### [2009-10-4](/news/2009/10/4/index.md)
 
+##### Nigeria
 #  One of the last prominent militant leaders in Nigeria's Niger Delta region, Government Ekpemupolo (Tompolo), agrees to an amnesty with the government. 
 
 *Ateke Tom&#8217;s men leave creeks for Port Harcourt *Tompolo scheduled to meet Yar&#8217;Adua Don&#8217;t rejoice yet, MEND tells FG By Emma Amaize, George Onah and agency reports THE zero hour is here : The deadlineÂ given militants on June 26, 2009, by President Umaru Yarâ€™Adua to lay down their arms and be granted amnesty. AsRead More
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8289171.stm)
 2. [Daily Nation](http://www.nation.co.ke/News/africa/-/1066/668060/-/1368uhtz/-/)

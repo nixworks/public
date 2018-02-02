@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/22/france-s-national-assembly-votes-in-favour-of-a-bill-criminalising-any-denial-that-the-mass-killing-of-armenians-by-the-ottoman-empire-in-th.html)  [JSON](/news/2011/12/22/france-s-national-assembly-votes-in-favour-of-a-bill-criminalising-any-denial-that-the-mass-killing-of-armenians-by-the-ottoman-empire-in-th.json)  [XML](/news/2011/12/22/france-s-national-assembly-votes-in-favour-of-a-bill-criminalising-any-denial-that-the-mass-killing-of-armenians-by-the-ottoman-empire-in-th.xml)  
+
 ### [2011-12-22](/news/2011/12/22/index.md)
 
+##### France
 # France's National Assembly votes in favour of a bill criminalising any denial that the mass killing of Armenians by the Ottoman Empire in the 1910s was genocide. 
 
 Turkey recalls its ambassador to France in protest at a bill making it illegal to deny that the killing of Armenians in World War I was genocide.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-16297414)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57517000/jpg/_57517811_013571898-1.jpg)

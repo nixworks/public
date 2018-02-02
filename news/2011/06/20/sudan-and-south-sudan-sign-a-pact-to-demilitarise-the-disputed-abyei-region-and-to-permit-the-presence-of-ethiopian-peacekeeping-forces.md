@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/20/sudan-and-south-sudan-sign-a-pact-to-demilitarise-the-disputed-abyei-region-and-to-permit-the-presence-of-ethiopian-peacekeeping-forces.html)  [JSON](/news/2011/06/20/sudan-and-south-sudan-sign-a-pact-to-demilitarise-the-disputed-abyei-region-and-to-permit-the-presence-of-ethiopian-peacekeeping-forces.json)  [XML](/news/2011/06/20/sudan-and-south-sudan-sign-a-pact-to-demilitarise-the-disputed-abyei-region-and-to-permit-the-presence-of-ethiopian-peacekeeping-forces.xml)  
+
 ### [2011-06-20](/news/2011/06/20/index.md)
 
+##### Sudan
 # Sudan and South Sudan sign a pact to demilitarise the disputed Abyei region and to permit the presence of Ethiopian peacekeeping forces. 
 
 Pact provides for demilitarisation of disputed Abyei region, says Thabo Mbeki.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/06/2011620143327437250.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/20/201162014426781734_20.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/1/the-ulua1u-kata-tjua1-a-national-park-s-board-vo
 
 ### [2017-11-1](/news/2017/11/1/index.md)
 
+##### Rock climbing in Australia
 # The Uluru-Kata Tjuta National Park's board votes unanimously to ban climbing on Uluru, sacred to the Anangu people, in Australia's Northern Territory, from October 2019, due to Indigenous concerns over respect for the sacred site and for the safety of tourists. 
 
 

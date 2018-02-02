@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/3/palestinian-president-mahmoud-abbas-speaks-of-an-offer-suggested-by-an-egyptian-official-whom-he-didn-t-name-that-implies-egypt-donating-60.html)  [JSON](/news/2014/09/3/palestinian-president-mahmoud-abbas-speaks-of-an-offer-suggested-by-an-egyptian-official-whom-he-didn-t-name-that-implies-egypt-donating-60.json)  [XML](/news/2014/09/3/palestinian-president-mahmoud-abbas-speaks-of-an-offer-suggested-by-an-egyptian-official-whom-he-didn-t-name-that-implies-egypt-donating-60.xml)  
+
 ### [2014-09-3](/news/2014/09/3/index.md)
 
+##### Mahmoud Abbas
 # Palestinian President Mahmoud Abbas speaks of an offer suggested by an Egyptian official whom he didn't name, that implies Egypt donating 600 square miles of land in Sinai to be used as a solution to the problem of Palestinian refugees. Mahmoud Abbas said that he rejected that offer. 
 
 PA leader tells Fatah gathering it is &#8216;illogical&#8217; for Palestinian refugee problem to be solved at Egypt&#8217;s expense 
 
 
-### Source:
+### Sources:
 
 1. [Times of Israel](http://www.timesofisrael.com/abbas-rejects-egyptian-offer-to-settle-refugees-in-sinai/)
 1. [Cover Image](http://cdn.timesofisrael.com/uploads/2012/11/F121103ARK03.jpg)

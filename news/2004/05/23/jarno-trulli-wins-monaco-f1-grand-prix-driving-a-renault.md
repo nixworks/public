@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/23/jarno-trulli-wins-monaco-f1-grand-prix-driving-a-renault.html)  [JSON](/news/2004/05/23/jarno-trulli-wins-monaco-f1-grand-prix-driving-a-renault.json)  [XML](/news/2004/05/23/jarno-trulli-wins-monaco-f1-grand-prix-driving-a-renault.xml)  
+
 ### [2004-05-23](/news/2004/05/23/index.md)
 
+##### Jarno Trulli
 #  Jarno Trulli wins Monaco F1 Grand Prix driving a Renault. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC Sport](http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/3738831.stm)
 

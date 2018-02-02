@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/10/24/close-to-300-landmarks-in-60-countries-from-the-pyramids-in-egypt-to-the-eiffel-tower-in-paris-and-the-empire-state-building-in-new-york.html)  [JSON](/news/2015/10/24/close-to-300-landmarks-in-60-countries-from-the-pyramids-in-egypt-to-the-eiffel-tower-in-paris-and-the-empire-state-building-in-new-york.json)  [XML](/news/2015/10/24/close-to-300-landmarks-in-60-countries-from-the-pyramids-in-egypt-to-the-eiffel-tower-in-paris-and-the-empire-state-building-in-new-york.xml)  
+
 ### [2015-10-24](/news/2015/10/24/index.md)
 
+##### landmark
 # Close to 300 landmarks in 60 countries, from the Pyramids in Egypt, to the Eiffel Tower in Paris, and the Empire State Building in New York, were lit up in blue -- the official color of the United Nations -- to commemorate the 70th anniversary of the world body. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Blue photos UN](https://www.flickr.com/photos/unicphoto/sets/72157657328013193)
-2. [New York Times](http://www.nytimes.com/aponline/2015/10/23/world/ap-un-united-nations-at-70.html?_r=0)
+2. [New York Times](https://www.nytimes.com/aponline/2015/10/23/world/ap-un-united-nations-at-70.html?_r=0)
 3. [UN](http://www.un.org/apps/news/story.asp?NewsID=52346#.ViwB1G5BnYs)
 3. [Cover Image](/News/dh/photos/large/2015/October/UNBlue_EDD6806_UN.jpg)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/7/dozens-of-christians-in-iran-are-arrested-after-security-forces-forcibly-entered-their-homes-and-verbally-and-physically-abused-them-in-a.html)  [JSON](/news/2011/01/7/dozens-of-christians-in-iran-are-arrested-after-security-forces-forcibly-entered-their-homes-and-verbally-and-physically-abused-them-in-a.json)  [XML](/news/2011/01/7/dozens-of-christians-in-iran-are-arrested-after-security-forces-forcibly-entered-their-homes-and-verbally-and-physically-abused-them-in-a.xml)  
+
 ### [2011-01-7](/news/2011/01/7/index.md)
 
+##### Christians in Iran
 # Dozens of Christians in Iran are arrested, after security forces forcibly entered their homes and verbally and physically abused them, in a crackdown on converts from Islam and evangelical groups, which an Iranian official who confirmed the arrests called an "enemy cultural invasion." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://www.voanews.com/english/news/middle-east/Iran-Arrests-Dozens-of-Evangelical-Christians-113085714.html)
 

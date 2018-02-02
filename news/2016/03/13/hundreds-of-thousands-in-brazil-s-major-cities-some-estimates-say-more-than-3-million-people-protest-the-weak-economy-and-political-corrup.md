@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/13/hundreds-of-thousands-in-brazil-s-major-cities-
 
 ### [2016-03-13](/news/2016/03/13/index.md)
 
+##### Brazil
 # Hundreds of thousands in Brazil's major cities, some estimates say more than 3 million people, protest the weak economy and political corruption, and call for President Dilma Rousseff's impeachment. 
 
 More than one million people marched through cities across Brazil on Sunday to protest political corruption, a weak economy, and to call for the impeachment of President Dilma Rousseff, in a showing that could accelerate efforts to remove her from office.

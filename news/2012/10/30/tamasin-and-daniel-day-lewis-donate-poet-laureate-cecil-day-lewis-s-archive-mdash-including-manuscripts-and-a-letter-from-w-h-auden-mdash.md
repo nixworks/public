@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/30/tamasin-and-daniel-day-lewis-donate-poet-laureate-cecil-day-lewis-s-archive-mdash-including-manuscripts-and-a-letter-from-w-h-auden-mdash.html)  [JSON](/news/2012/10/30/tamasin-and-daniel-day-lewis-donate-poet-laureate-cecil-day-lewis-s-archive-mdash-including-manuscripts-and-a-letter-from-w-h-auden-mdash.json)  [XML](/news/2012/10/30/tamasin-and-daniel-day-lewis-donate-poet-laureate-cecil-day-lewis-s-archive-mdash-including-manuscripts-and-a-letter-from-w-h-auden-mdash.xml)  
+
 ### [2012-10-30](/news/2012/10/30/index.md)
 
+##### Tamasin
 # Tamasin and Daniel Day-Lewis donate poet laureate Cecil Day-Lewis's archive&mdash;including manuscripts and a letter from W. H. Auden&mdash;to Oxford University's Bodleian Library. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/books/2012/oct/30/cecil-day-lewis-letters-oxford)
 

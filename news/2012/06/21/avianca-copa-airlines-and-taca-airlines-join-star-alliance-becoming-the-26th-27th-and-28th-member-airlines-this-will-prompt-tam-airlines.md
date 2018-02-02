@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/21/avianca-copa-airlines-and-taca-airlines-join-star-alliance-becoming-the-26th-27th-and-28th-member-airlines-this-will-prompt-tam-airlines.html)  [JSON](/news/2012/06/21/avianca-copa-airlines-and-taca-airlines-join-star-alliance-becoming-the-26th-27th-and-28th-member-airlines-this-will-prompt-tam-airlines.json)  [XML](/news/2012/06/21/avianca-copa-airlines-and-taca-airlines-join-star-alliance-becoming-the-26th-27th-and-28th-member-airlines-this-will-prompt-tam-airlines.xml)  
+
 ### [2012-06-21](/news/2012/06/21/index.md)
 
+##### Avianca
 # Avianca, Copa Airlines and TACA Airlines join Star Alliance, becoming the 26th, 27th and 28th member airlines. This will prompt TAM Airlines to transfer to Oneworld in the foreseeable future 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox Business](http://www.foxbusiness.com/news/2012/06/21/aviancataca-and-copa-airlines-join-star-alliance)
 

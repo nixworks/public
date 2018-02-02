@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/7/chilean-officials-search-the-offices-of-augusto-pinochet-and-investigate-his-u-s-bank-accounts.html)  [JSON](/news/2005/01/7/chilean-officials-search-the-offices-of-augusto-pinochet-and-investigate-his-u-s-bank-accounts.json)  [XML](/news/2005/01/7/chilean-officials-search-the-offices-of-augusto-pinochet-and-investigate-his-u-s-bank-accounts.xml)  
+
 ### [2005-01-7](/news/2005/01/7/index.md)
 
+##### Chile
 #  Chilean officials search the offices of Augusto Pinochet and investigate his U.S. bank accounts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4153309.stm)
 

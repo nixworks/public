@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/19/rebels-in-the-cote-d-ivoire-seize-the-key-western-city-of-man-from-government-forces.html)  [JSON](/news/2002/12/19/rebels-in-the-cote-d-ivoire-seize-the-key-western-city-of-man-from-government-forces.json)  [XML](/news/2002/12/19/rebels-in-the-cote-d-ivoire-seize-the-key-western-city-of-man-from-government-forces.xml)  
+
 ### [2002-12-19](/news/2002/12/19/index.md)
 
+##### Cte d'Ivoire
 # Rebels in the Cte d'Ivoire seize the key western city of Man from government forces.
 
 

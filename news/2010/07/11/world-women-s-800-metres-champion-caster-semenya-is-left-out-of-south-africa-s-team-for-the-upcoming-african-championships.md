@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/11/world-women-s-800-metres-champion-caster-semenya-is-left-out-of-south-africa-s-team-for-the-upcoming-african-championships.html)  [JSON](/news/2010/07/11/world-women-s-800-metres-champion-caster-semenya-is-left-out-of-south-africa-s-team-for-the-upcoming-african-championships.json)  [XML](/news/2010/07/11/world-women-s-800-metres-champion-caster-semenya-is-left-out-of-south-africa-s-team-for-the-upcoming-african-championships.xml)  
+
 ### [2010-07-11](/news/2010/07/11/index.md)
 
+##### 800 metres
 # World women's 800 metres champion Caster Semenya is left out of South Africa's team for the upcoming African Championships. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/athletics/8808738.stm)
 2. [France24](http://www.france24.com/en/20100712-semenya-not-african-championship-team-report)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/17/fist-fights-erupt-between-legislators-in-the-national-diet-of-japan-over-a-security-bill-that-would-allow-japan-self-defense-forces-to-fight.html)  [JSON](/news/2015/09/17/fist-fights-erupt-between-legislators-in-the-national-diet-of-japan-over-a-security-bill-that-would-allow-japan-self-defense-forces-to-fight.json)  [XML](/news/2015/09/17/fist-fights-erupt-between-legislators-in-the-national-diet-of-japan-over-a-security-bill-that-would-allow-japan-self-defense-forces-to-fight.xml)  
+
 ### [2015-09-17](/news/2015/09/17/index.md)
 
+##### Diet
 # Fist-fights erupt between legislators in the National Diet of Japan over a security bill that would allow Japan Self-Defense Forces to fight abroad. Japan had previously sent only a small amount of troops to Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''StraitsTimes](http://www.straitstimes.com/asia/east-asia/japan-lawmakers-scuffle-over-controversial-security-bills)
 2. [BBC](http://www.bbc.com/news/world-asia-34275968)

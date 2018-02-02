@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/18/twelve-people-are-arrested-and-three-men-are-su
 
 ### [2016-06-18](/news/2016/06/18/index.md)
 
+##### Terrorism in the European Union
 # Twelve people are arrested and three men are subsequently charged with terrorism offences in Belgium after dozens of raids were carried out mainly in the Brussels region. 
 
 Belgian officials charge three men arrested in overnight raids with terrorism offences, including trying to commit a terrorist murder.

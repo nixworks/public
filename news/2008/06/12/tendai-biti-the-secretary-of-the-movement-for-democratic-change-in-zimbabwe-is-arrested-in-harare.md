@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/12/tendai-biti-the-secretary-of-the-movement-for-democratic-change-in-zimbabwe-is-arrested-in-harare.html)  [JSON](/news/2008/06/12/tendai-biti-the-secretary-of-the-movement-for-democratic-change-in-zimbabwe-is-arrested-in-harare.json)  [XML](/news/2008/06/12/tendai-biti-the-secretary-of-the-movement-for-democratic-change-in-zimbabwe-is-arrested-in-harare.xml)  
+
 ### [2008-06-12](/news/2008/06/12/index.md)
 
+##### Tendai Biti
 #  Tendai Biti, the Secretary of the Movement for Democratic Change in Zimbabwe, is arrested in Harare. 
 
 The secretary general of Zimbabwe&#039;s Opposition, the Movement for Democratic Change (MDC), has been arrested at the airport in Harare.
 
 
-### Source:
+### Sources:
 
 1. [AFP and ABC News Australia](http://www.abc.net.au/news/stories/2008/06/12/2273265.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

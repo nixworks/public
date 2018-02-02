@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/25/in-texas-a-grand-jury-has-cleared-planned-paren
 
 ### [2016-01-25](/news/2016/01/25/index.md)
 
+##### Texas
 # In Texas, a grand jury has cleared Planned Parenthood of any wrongdoing while it has indicted two anti-abortionists who were involved in making videos of the organization. 
 
 A grand jury cleared Planned Parenthood of allegations of misconduct, instead indicting its opponents on charges including tampering with a governmental record.

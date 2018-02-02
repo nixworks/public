@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/17/edward-snowden-offers-brazil-information-over-the-nsa-spying-of-its-citizens.html)  [JSON](/news/2013/12/17/edward-snowden-offers-brazil-information-over-the-nsa-spying-of-its-citizens.json)  [XML](/news/2013/12/17/edward-snowden-offers-brazil-information-over-the-nsa-spying-of-its-citizens.xml)  
+
 ### [2013-12-17](/news/2013/12/17/index.md)
 
+##### Edward Snowden
 # Edward Snowden offers Brazil information over the NSA spying of its citizens. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/report-snowden-brazil-asylum-21242606)
 

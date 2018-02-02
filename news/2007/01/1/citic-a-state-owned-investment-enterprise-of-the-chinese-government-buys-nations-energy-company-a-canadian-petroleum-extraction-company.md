@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/1/citic-a-state-owned-investment-enterprise-of-the-chinese-government-buys-nations-energy-company-a-canadian-petroleum-extraction-company.html)  [JSON](/news/2007/01/1/citic-a-state-owned-investment-enterprise-of-the-chinese-government-buys-nations-energy-company-a-canadian-petroleum-extraction-company.json)  [XML](/news/2007/01/1/citic-a-state-owned-investment-enterprise-of-the-chinese-government-buys-nations-energy-company-a-canadian-petroleum-extraction-company.xml)  
+
 ### [2007-01-1](/news/2007/01/1/index.md)
 
+##### CITIC
 #  CITIC, a state-owned investment enterprise of the Chinese government, buys Nations Energy Company, a Canadian petroleum extraction company, giving it a majority stake in KazMunayGas, the state-owned oil and gas company in Kazakhstan, for USD $1.91 billion. The deal is highly controversial because of the amount of control China now has over Kazakhstan's natural resources. Kazakh Oil Minister Baktykozha Izmukhambetov has criticized the deal since it was first considered in October 2006. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Boston Herald](http://business.bostonherald.com/businessNews/view.bg?articleid=174693)
 

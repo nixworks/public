@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/01/19/the-city-of-grozny-in-the-russian-republic-of-chechnya-holds-a-protest-with-60-of-the-population-in-attendance-in-opposition-to-the-charlie.html)  [JSON](/news/2015/01/19/the-city-of-grozny-in-the-russian-republic-of-chechnya-holds-a-protest-with-60-of-the-population-in-attendance-in-opposition-to-the-charlie.json)  [XML](/news/2015/01/19/the-city-of-grozny-in-the-russian-republic-of-chechnya-holds-a-protest-with-60-of-the-population-in-attendance-in-opposition-to-the-charlie.xml)  
+
 ### [2015-01-19](/news/2015/01/19/index.md)
 
+##### Grozny
 # The city of Grozny in the Russian republic of Chechnya holds a protest with 60% of the population in attendance in opposition to the Charlie Hebdo cartoons. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/01/19/us-france-shooting-chechnya-idUSKBN0KS1C920150119)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150119&t=2&i=1017437737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0I0IL)
+1. [Reuters](https://www.reuters.com/article/2015/01/19/us-france-shooting-chechnya-idUSKBN0KS1C920150119)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20150119&t=2&i=1017437737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0I0IL)
 
 ### Related:
 

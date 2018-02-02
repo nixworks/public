@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/06/4/the-united-states-trade-deficit-widens-8-5-during-april-as-growth-in-imports-outpaces-growth-in-exports.html)  [JSON](/news/2013/06/4/the-united-states-trade-deficit-widens-8-5-during-april-as-growth-in-imports-outpaces-growth-in-exports.json)  [XML](/news/2013/06/4/the-united-states-trade-deficit-widens-8-5-during-april-as-growth-in-imports-outpaces-growth-in-exports.xml)  
+
 ### [2013-06-4](/news/2013/06/4/index.md)
 
+##### trade deficit
 # The United States trade deficit widens 8.5% during April as growth in imports outpaces growth in exports. 
 
 A wide trade gap can restrain growth because it means Americans are spending more on foreign goods than United States companies are gaining in overseas sales.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2013/06/05/business/economy/trade-deficit-widens-as-demand-for-imports-grows.html)
+1. [New York Times](https://www.nytimes.com/2013/06/05/business/economy/trade-deficit-widens-as-demand-for-imports-grows.html)
 1. [Cover Image](https://static01.nyt.com/images/2013/06/05/business/20130605_BALANCEOFTRADE_graphic/20130605_BALANCEOFTRADE_graphic-superJumbo.gif)
 
 ### Related:

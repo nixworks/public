@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/12/ahmad-daqamseh-the-jordanian-soldier-who-shot-s
 
 ### [2017-03-12](/news/2017/03/12/index.md)
 
+##### Jordan
 # Ahmad Daqamseh, the Jordanian soldier who shot seven Israeli schoolchildren on March 13, 1997, is released from prison in Jordan. 
 
  A Jordanian soldier who killed seven Israeli schoolgirls has been freed after serving 20 years in prison, with many Jordanians celebrating his release and call

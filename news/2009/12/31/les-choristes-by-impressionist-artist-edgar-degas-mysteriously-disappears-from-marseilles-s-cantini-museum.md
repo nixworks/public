@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/31/les-choristes-by-impressionist-artist-edgar-degas-mysteriously-disappears-from-marseilles-s-cantini-museum.html)  [JSON](/news/2009/12/31/les-choristes-by-impressionist-artist-edgar-degas-mysteriously-disappears-from-marseilles-s-cantini-museum.json)  [XML](/news/2009/12/31/les-choristes-by-impressionist-artist-edgar-degas-mysteriously-disappears-from-marseilles-s-cantini-museum.xml)  
+
 ### [2009-12-31](/news/2009/12/31/index.md)
 
+##### Impressionist
 #  "Les Choristes" by Impressionist artist Edgar Degas mysteriously disappears from Marseilles's Cantini Museum. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/arts_and_culture/8436577.stm)
 2. [Boston Globe](http://www.boston.com/ae/theater_arts/articles/2009/12/31/degas_painting_stolen_from_marseille_museum/)

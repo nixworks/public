@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/23/black-swan-is-announced-as-the-opening-film-of-the-67th-venice-international-film-festival.html)  [JSON](/news/2010/07/23/black-swan-is-announced-as-the-opening-film-of-the-67th-venice-international-film-festival.json)  [XML](/news/2010/07/23/black-swan-is-announced-as-the-opening-film-of-the-67th-venice-international-film-festival.xml)  
+
 ### [2010-07-23](/news/2010/07/23/index.md)
 
+##### Black Swan
 # "Black Swan" is announced as the opening film of the 67th Venice International Film Festival. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-10737528)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

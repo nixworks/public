@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/24/presidential-candidate-marine-le-pen-announces-
 
 ### [2017-04-24](/news/2017/04/24/index.md)
 
+##### 2017 French presidential election
 # Presidential candidate Marine Le Pen announces she is stepping down as leader of the National Front. 
 
 Marine Le Pen says she will be above &quot;partisan considerations&quot; as she seeks the French presidency.

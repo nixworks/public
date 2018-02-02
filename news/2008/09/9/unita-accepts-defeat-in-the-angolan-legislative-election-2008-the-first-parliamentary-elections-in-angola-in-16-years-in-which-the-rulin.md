@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/9/unita-accepts-defeat-in-the-angolan-legislative-election-2008-the-first-parliamentary-elections-in-angola-in-16-years-in-which-the-rulin.html)  [JSON](/news/2008/09/9/unita-accepts-defeat-in-the-angolan-legislative-election-2008-the-first-parliamentary-elections-in-angola-in-16-years-in-which-the-rulin.json)  [XML](/news/2008/09/9/unita-accepts-defeat-in-the-angolan-legislative-election-2008-the-first-parliamentary-elections-in-angola-in-16-years-in-which-the-rulin.xml)  
+
 ### [2008-09-9](/news/2008/09/9/index.md)
 
+##### UNITA
 #  UNITA accepts defeat in the Angolan legislative election, 2008, the first parliamentary elections in Angola in 16 years, in which the ruling Popular Movement for the Liberation of Angola wins more than 80% of the votes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7605454.stm)
 

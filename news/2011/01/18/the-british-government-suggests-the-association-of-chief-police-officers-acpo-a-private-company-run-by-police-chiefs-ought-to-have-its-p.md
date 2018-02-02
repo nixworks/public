@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/18/the-british-government-suggests-the-association-of-chief-police-officers-acpo-a-private-company-run-by-police-chiefs-ought-to-have-its-p.html)  [JSON](/news/2011/01/18/the-british-government-suggests-the-association-of-chief-police-officers-acpo-a-private-company-run-by-police-chiefs-ought-to-have-its-p.json)  [XML](/news/2011/01/18/the-british-government-suggests-the-association-of-chief-police-officers-acpo-a-private-company-run-by-police-chiefs-ought-to-have-its-p.xml)  
+
 ### [2011-01-18](/news/2011/01/18/index.md)
 
+##### Association of Chief Police Officers
 # The British government suggests the Association of Chief Police Officers (Acpo), a private company run by police chiefs, ought to have its power to run undercover spies removed after recent revelations about Mark Kennedy, policeman and undercover spy on international activists, as it acknowledges for the first time that "something had gone very wrong". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/uk/2011/jan/18/covert-policing-cleanup-acpo)
 

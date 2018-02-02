@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/22/dutch-businessman-guus-kouwenhoven-is-found-gui
 
 ### [2017-04-22](/news/2017/04/22/index.md)
 
+##### Netherlands
 # Dutch businessman Guus Kouwenhoven is found guilty of war crimes and arms trafficking for using his lumber business to sell weapons to Liberia's former president Charles Taylor during the country's civil war between 2000 and 2003 and is sentenced to 19 years in prison. 
 
 Guus Kouwenhoven convicted of selling weapons to ex-president Charles Taylor during wars that involved mass atrocities

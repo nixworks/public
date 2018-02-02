@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/10/former-south-african-president-fw-de-klerk-has-called-for-a-new-political-party-to-be-set-up-following-the-dissolution-of-the-new-national.html)  [JSON](/news/2005/04/10/former-south-african-president-fw-de-klerk-has-called-for-a-new-political-party-to-be-set-up-following-the-dissolution-of-the-new-national.json)  [XML](/news/2005/04/10/former-south-african-president-fw-de-klerk-has-called-for-a-new-political-party-to-be-set-up-following-the-dissolution-of-the-new-national.xml)  
+
 ### [2005-04-10](/news/2005/04/10/index.md)
 
+##### South Africa
 #  Former South African President FW de Klerk has called for a new political party to be set up following the dissolution of the New National Party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4429307.stm)
 

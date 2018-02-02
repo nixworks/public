@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/10/110-people-are-injured-and-200-people-are-arrested-as-anti-gay-protesters-and-police-clash-in-belgrade-at-serbia-s-first-gay-pride-parade-ev.html)  [JSON](/news/2010/10/10/110-people-are-injured-and-200-people-are-arrested-as-anti-gay-protesters-and-police-clash-in-belgrade-at-serbia-s-first-gay-pride-parade-ev.json)  [XML](/news/2010/10/10/110-people-are-injured-and-200-people-are-arrested-as-anti-gay-protesters-and-police-clash-in-belgrade-at-serbia-s-first-gay-pride-parade-ev.xml)  
+
 ### [2010-10-10](/news/2010/10/10/index.md)
 
+##### anti-gay
 # 110 people are injured and 200 people are arrested as anti-gay protesters and police clash in Belgrade at Serbia's first gay pride parade event since 2001. 
 
 Security forces deployed to protect gay-rights marchers clash with protesters, triggering violence in Belgrade.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/2010101015466495888.html)
 2. [B92](http://www.b92.net/eng/news/politics-article.php?yyyy=2010&mm=10&dd=10&nav_id=70196)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/28/former-chilean-army-conscript-jose-adolfo-paredes-marquez-is-charged-with-murdering-activist-singer-victor-jara-during-general-augusto-pino.html)  [JSON](/news/2009/05/28/former-chilean-army-conscript-jose-adolfo-paredes-marquez-is-charged-with-murdering-activist-singer-victor-jara-during-general-augusto-pino.json)  [XML](/news/2009/05/28/former-chilean-army-conscript-jose-adolfo-paredes-marquez-is-charged-with-murdering-activist-singer-victor-jara-during-general-augusto-pino.xml)  
+
 ### [2009-05-28](/news/2009/05/28/index.md)
 
+##### Chile
 #  Former Chilean Army conscript Jos Adolfo Paredes Mrquez is charged with murdering activist-singer Vctor Jara during General Augusto Pinochet's coup d'tat in 1973. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/world/2009/may/28/chile-regime-murder-charge-victor-jara)
 

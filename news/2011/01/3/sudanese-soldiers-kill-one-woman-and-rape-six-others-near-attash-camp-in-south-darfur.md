@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/3/sudanese-soldiers-kill-one-woman-and-rape-six-others-near-attash-camp-in-south-darfur.html)  [JSON](/news/2011/01/3/sudanese-soldiers-kill-one-woman-and-rape-six-others-near-attash-camp-in-south-darfur.json)  [XML](/news/2011/01/3/sudanese-soldiers-kill-one-woman-and-rape-six-others-near-attash-camp-in-south-darfur.xml)  
+
 ### [2011-01-3](/news/2011/01/3/index.md)
 
+##### Sudanese soldiers
 # Sudanese soldiers kill one woman and rape six others near Attash Camp in South Darfur. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Dabanga](http://195.190.28.213/node/7904)
 

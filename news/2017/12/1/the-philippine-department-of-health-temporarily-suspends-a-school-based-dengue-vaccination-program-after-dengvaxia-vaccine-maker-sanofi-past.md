@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/1/the-philippine-department-of-health-temporarily-
 
 ### [2017-12-1](/news/2017/12/1/index.md)
 
+##### 2017 Philippine dengue vaccination crisis
 # The Philippine Department of Health temporarily suspends a school-based dengue vaccination program after Dengvaxia vaccine maker Sanofi Pasteur made a statement that its product poses higher risks to people without prior dengue infection. 
 
 (2nd UPDATE) Health Secretary Francisco Duque III temporarily halts the program after Dengvaxia maker Sanofi Pasteur said its product poses higher risks to people without prior infection

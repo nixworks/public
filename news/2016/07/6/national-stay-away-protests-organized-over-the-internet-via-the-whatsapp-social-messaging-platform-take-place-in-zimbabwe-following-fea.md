@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/6/national-stay-away-protests-organized-over-the-i
 
 ### [2016-07-6](/news/2016/07/6/index.md)
 
+##### 2016 Zimbabwe protests
 # National "Stay Away" protests, organized over the Internet via the WhatsApp social messaging platform, take place in Zimbabwe, following fears of an economic collapse amid calls for President Robert Mugabe's resignation.
 
 

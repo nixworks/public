@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/13/syrian-uprising-the-syrian-government-begins-printing-money-for-the-first-time-in-a-sign-that-the-syrian-economy-is-on-the-verge-of-total-c.html)  [JSON](/news/2012/06/13/syrian-uprising-the-syrian-government-begins-printing-money-for-the-first-time-in-a-sign-that-the-syrian-economy-is-on-the-verge-of-total-c.json)  [XML](/news/2012/06/13/syrian-uprising-the-syrian-government-begins-printing-money-for-the-first-time-in-a-sign-that-the-syrian-economy-is-on-the-verge-of-total-c.xml)  
+
 ### [2012-06-13](/news/2012/06/13/index.md)
 
+##### Syrian uprising (2011-present)
 # Syrian uprising: The Syrian government begins printing money for the first time in a sign that the Syrian economy is on the verge of total collapse. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Atlantic Wire](http://www.theatlanticwire.com/global/2012/06/declaring-civil-war-syria-no-longer-overstatement/53497/)
 

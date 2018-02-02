@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/13/wen-jiabao-the-premier-of-the-people-s-republic-of-china-and-prime-minister-of-japan-naoto-kan-agree-to-establish-a-prime-ministerial-hotli.html)  [JSON](/news/2010/06/13/wen-jiabao-the-premier-of-the-people-s-republic-of-china-and-prime-minister-of-japan-naoto-kan-agree-to-establish-a-prime-ministerial-hotli.json)  [XML](/news/2010/06/13/wen-jiabao-the-premier-of-the-people-s-republic-of-china-and-prime-minister-of-japan-naoto-kan-agree-to-establish-a-prime-ministerial-hotli.xml)  
+
 ### [2010-06-13](/news/2010/06/13/index.md)
 
+##### Wen Jiabao
 # Wen Jiabao, the Premier of the People's Republic of China and Prime Minister of Japan Naoto Kan agree to establish a Prime Ministerial hotline between the two heads of government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-06/13/c_13349120.htm)
 

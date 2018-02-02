@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/15/the-u-s-house-intelligence-committee-releases-a
 
 ### [2016-09-15](/news/2016/09/15/index.md)
 
+##### House Intelligence Committee
 # The U.S. House Intelligence Committee releases a summary of its two-year investigation into former NSA contractor Edward Snowden which downplays his alleged status as a whistleblower while acknowledging "tremendous damage to national security" as a result of the classified documents he stole. 
 
 Bipartisan members of the House Intelligence Committee denounce Edward Snowden as a &quot;criminal&quot; who caused &quot;tremendous damage&quot; to U.S. national security.

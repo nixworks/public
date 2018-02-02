@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/04/8/three-protesters-are-wounded-and-six-buildings-are-burned-down-in-the-fourth-day-of-the-pro-democracy-general-strike-in-nepal-against-king.html)  [JSON](/news/2006/04/8/three-protesters-are-wounded-and-six-buildings-are-burned-down-in-the-fourth-day-of-the-pro-democracy-general-strike-in-nepal-against-king.json)  [XML](/news/2006/04/8/three-protesters-are-wounded-and-six-buildings-are-burned-down-in-the-fourth-day-of-the-pro-democracy-general-strike-in-nepal-against-king.xml)  
+
 ### [2006-04-8](/news/2006/04/8/index.md)
 
+##### democratic progress
 #  Three protesters are wounded and six buildings are burned down in the fourth day of the pro-Democracy general strike in Nepal against King Gyanendra. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP](http://news.yahoo.com/s/afp/20060408/wl_sthasia_afp/usnepalindiaenvoy_060408101230)
+1. [AFP](https://news.yahoo.com/s/afp/20060408/wl_sthasia_afp/usnepalindiaenvoy_060408101230)
 
 ### Related:
 
@@ -15,4 +19,4 @@
 2. [ April 2006 Nepalese general strike: Nepali police open fire on pro-democracy protesters to prevent them from marching into Kathmandu, the capital, killing at least three people and injuring dozens. ](/news/2006/04/20/april-2006-nepalese-general-strike-nepali-police-open-fire-on-pro-democracy-protesters-to-prevent-them-from-marching-into-kathmandu-the-c.md) _Context: April 2006 Nepalese general strike, Nepal_
 3. [ A general strike in Nepal called by political parties opposed to King Gyanendra enters its 12th day, with food shortages and price rises triggering panic buying in some areas. ](/news/2006/04/17/a-general-strike-in-nepal-called-by-political-parties-opposed-to-king-gyanendra-enters-its-12th-day-with-food-shortages-and-price-rises-tr.md) _Context: April 2006 Nepalese general strike, Nepal_
 4. [ April 2006 Nepalese general strike: Thousands of people have taken part in pro-democracy marches in towns and cities across Nepal. ](/news/2006/04/15/april-2006-nepalese-general-strike-thousands-of-people-have-taken-part-in-pro-democracy-marches-in-towns-and-cities-across-nepal.md) _Context: April 2006 Nepalese general strike, Nepal_
-5. [ In Nepal, thousands of opposition supporters demonstrate against the rule of King Gyanendra and demand restoration of parliament. Royalist government is dismayed by EU and Indian demands to return to democracy ](/news/2005/05/22/in-nepal-thousands-of-opposition-supporters-demonstrate-against-the-rule-of-king-gyanendra-and-demand-restoration-of-parliament-royalist.md) _Context: Nepal, democratic progress_
+5. [Voters in Nepal go to the polls for the second round of a historic legislative election. The turnout is 67%, up from 65% in the first round. ](/news/2017/12/7/voters-in-nepal-go-to-the-polls-for-the-second-round-of-a-historic-legislative-election-the-turnout-is-67-up-from-65-in-the-first-round.md) _Context: Nepal_

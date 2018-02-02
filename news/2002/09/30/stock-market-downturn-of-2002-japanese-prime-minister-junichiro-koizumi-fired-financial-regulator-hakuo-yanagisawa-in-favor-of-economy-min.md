@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/09/30/stock-market-downturn-of-2002-japanese-prime-minister-junichiro-koizumi-fired-financial-regulator-hakuo-yanagisawa-in-favor-of-economy-min.html)  [JSON](/news/2002/09/30/stock-market-downturn-of-2002-japanese-prime-minister-junichiro-koizumi-fired-financial-regulator-hakuo-yanagisawa-in-favor-of-economy-min.json)  [XML](/news/2002/09/30/stock-market-downturn-of-2002-japanese-prime-minister-junichiro-koizumi-fired-financial-regulator-hakuo-yanagisawa-in-favor-of-economy-min.xml)  
+
 ### [2002-09-30](/news/2002/09/30/index.md)
 
+##### Stock market downturn of 2002
 #  Stock market downturn of 2002: Japanese Prime Minister Junichiro Koizumi fired financial regulator Hakuo Yanagisawa in favor of economy minister Heizo Takenaka.
 
 

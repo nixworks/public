@@ -1,7 +1,7 @@
-## [2000-09-16](/news/2000/09/16/index.md)
 
-### [ Ukrainian journalist Georgiy Gongadze is last seen alive; this day is taken as the commemoration date of his death.](/news/2000/09/16/ukrainian-journalist-georgiy-gongadze-is-last-seen-alive-this-day-is-taken-as-the-commemoration-date-of-his-death.md)
-_Context: Georgiy Gongadze, Ukraine_
+Formats: [HTML](2000/09/16/index.html)  [JSON](2000/09/16/index.json)  [XML](2000/09/16/index.xml)  
+
+## [2000-09-16](/news/2000/09/16/index.md)
 
 ## [Previous Day...](/news/2000/09/15/index.md)
 

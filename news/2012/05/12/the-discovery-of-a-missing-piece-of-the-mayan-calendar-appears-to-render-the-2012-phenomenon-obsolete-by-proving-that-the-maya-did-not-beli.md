@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/12/the-discovery-of-a-missing-piece-of-the-mayan-calendar-appears-to-render-the-2012-phenomenon-obsolete-by-proving-that-the-maya-did-not-beli.html)  [JSON](/news/2012/05/12/the-discovery-of-a-missing-piece-of-the-mayan-calendar-appears-to-render-the-2012-phenomenon-obsolete-by-proving-that-the-maya-did-not-beli.json)  [XML](/news/2012/05/12/the-discovery-of-a-missing-piece-of-the-mayan-calendar-appears-to-render-the-2012-phenomenon-obsolete-by-proving-that-the-maya-did-not-beli.xml)  
+
 ### [2012-05-12](/news/2012/05/12/index.md)
 
+##### Mayan calendar
 # The discovery of a missing piece of the Mayan calendar appears to render the 2012 phenomenon obsolete, by proving that the Maya did not believe 2012 to be the end of the world. 
 
 &#xD;&#xA;The world is not going to end on December 21. No, not even according to the Mayan calendar. And especially&#xD;&#xA; not according to the awesome newly uncovered Mayan calendar -- the &#xD;&#xA;oldest known Mayan cale
 
 
-### Source:
+### Sources:
 
 1. [WBRC](http://www.myfoxal.com/story/18311865/apocalypse-never-newly-discovered-mayan-calendar-disproves-2012-doomsday-myth)
 1. [Cover Image](http://WBRC.images.worldnow.com/images/18311865_BG1.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/4/three-hezbollah-rockets-hit-near-the-israeli-town-of-hadera-50-mi-south-of-the-lebanese-border-and-the-deepest-penetration-within-israel-t.html)  [JSON](/news/2006/08/4/three-hezbollah-rockets-hit-near-the-israeli-town-of-hadera-50-mi-south-of-the-lebanese-border-and-the-deepest-penetration-within-israel-t.json)  [XML](/news/2006/08/4/three-hezbollah-rockets-hit-near-the-israeli-town-of-hadera-50-mi-south-of-the-lebanese-border-and-the-deepest-penetration-within-israel-t.xml)  
+
 ### [2006-08-4](/news/2006/08/4/index.md)
 
+##### Hadera
 #  Three Hezbollah rockets hit near the Israeli town of Hadera, 50 mi south of the Lebanese border and the deepest penetration within Israel to date. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNews](http://cnews.canoe.ca/CNEWS/World/2006/08/04/1719484-ap.html)
 2. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/5245884.stm)
@@ -16,10 +20,6 @@
 7. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3286247,00.html)
 7. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 
-### Related:
-
-1. [ 5 people are killed in a bombing at a market place in the Israeli town of Hadera. Islamic Jihad claims responsibility for the attack. ](/news/2005/10/26/5-people-are-killed-in-a-bombing-at-a-market-place-in-the-israeli-town-of-hadera-islamic-jihad-claims-responsibility-for-the-attack.md) _Context: Hadera_
-
 ### Changes:
 
 1. [ 2006 Israel-Lebanon conflict: Three Hezbollah rockets hit near the Israeli town of Hadera, {{convert|50|mi|km}} south of the Lebanese border and the deepest penetration within Israel to date. ](/news/2006/08/4/2006-israel-lebanon-conflict-p-three-hezbollah-rockets-hit-near-the-israeli-town-of-hadera-convert-50-mi-km-south-of-the-lebanese-bord.md) _2017-05-01 03:18:33 (First version)_
@@ -27,3 +27,7 @@
 3. [ 2006 Israel-Lebanon conflict:: Three Hezbollah rockets hit near the Israeli town of Hadera, 50|mi|km south of the Lebanese border and the deepest penetration within Israel to date. ](/news/2006/08/4/2006-israel-lebanon-conflict-three-hezbollah-rockets-hit-near-the-israeli-town-of-hadera-50-mi-km-south-of-the-lebanese-border-and-the-d.md) _2017-08-27 03:18:06 (Update)_
 4. [ Three Hezbollah rockets hit near the Israeli town of Hadera, 50|mi|km south of the Lebanese border and the deepest penetration within Israel to date. ](/news/2006/08/4/three-hezbollah-rockets-hit-near-the-israeli-town-of-hadera-50-mi-km-south-of-the-lebanese-border-and-the-deepest-penetration-within-israe.md) _2017-08-29 03:18:13 (Update)_
 4. [ Three Hezbollah rockets hit near the Israeli town of Hadera, 50 mi south of the Lebanese border and the deepest penetration within Israel to date. ](/news/2006/08/4/three-hezbollah-rockets-hit-near-the-israeli-town-of-hadera-50-mi-south-of-the-lebanese-border-and-the-deepest-penetration-within-israel-t.md) _(Current version)_
+
+### Related:
+
+1. [ 5 people are killed in a bombing at a market place in the Israeli town of Hadera. Islamic Jihad claims responsibility for the attack. ](/news/2005/10/26/5-people-are-killed-in-a-bombing-at-a-market-place-in-the-israeli-town-of-hadera-islamic-jihad-claims-responsibility-for-the-attack.md) _Context: Hadera_

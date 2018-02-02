@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/05/23/twenty-insurgents-loyal-to-moqtada-al-sadr-are-killed-by-coalition-forces-during-a-raid-on-the-selah-mosque-compound-in-kufa-iraq-twelve.html)  [JSON](/news/2004/05/23/twenty-insurgents-loyal-to-moqtada-al-sadr-are-killed-by-coalition-forces-during-a-raid-on-the-selah-mosque-compound-in-kufa-iraq-twelve.json)  [XML](/news/2004/05/23/twenty-insurgents-loyal-to-moqtada-al-sadr-are-killed-by-coalition-forces-during-a-raid-on-the-selah-mosque-compound-in-kufa-iraq-twelve.xml)  
+
 ### [2004-05-23](/news/2004/05/23/index.md)
 
+##### Muqtada al-Sadr
 #  Twenty insurgents loyal to Moqtada al-Sadr are killed by Coalition forces during a raid on the Selah mosque compound in Kufa, Iraq. Twelve insurgents are killed in other fighting in Kufa. 
 
-American commanders say insurgents loyal to rebel cleric Moktada al-Sadr appear to have ceded control of central Karbala after three weeks of urban combat; large raid meets no resistance from group of buildings from which insurgents had been firing at American tanks, and civilians return to their homes in area they had abandoned during fierce fighting; Iraqis tell soldiers that insurgents fled after concluding that they were no match for American tanks; commanders intend to press Iraqi police to patrol old city over next few weeks in effort to determine how much of insurgency is left; if rebellion in city has indeed dissipated, it will show that insurgency is suffering badly; photo (M)
 
 
-### Source:
+
+### Sources:
 
 1. [ABC AU](http://www.abc.net.au/news/newsitems/s1114156.htm)
-2. [NYT](http://www.nytimes.com/2004/05/23/international/middleeast/23KARB.html?hp)
-2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+2. [NYT](https://www.nytimes.com/2004/05/23/international/middleeast/23KARB.html?hp)
 
 ### Related:
 

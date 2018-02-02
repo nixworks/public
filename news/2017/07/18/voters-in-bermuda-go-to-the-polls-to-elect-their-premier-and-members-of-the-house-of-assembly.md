@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/18/voters-in-bermuda-go-to-the-polls-to-elect-thei
 
 ### [2017-07-18](/news/2017/07/18/index.md)
 
+##### Bermudian general election, 2017
 # Voters in Bermuda go to the polls to elect their Premier and members of the House of Assembly. 
 
 

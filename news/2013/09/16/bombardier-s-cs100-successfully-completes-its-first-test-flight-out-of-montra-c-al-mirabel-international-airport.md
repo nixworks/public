@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/16/bombardier-s-cs100-successfully-completes-its-first-test-flight-out-of-montra-c-al-mirabel-international-airport.html)  [JSON](/news/2013/09/16/bombardier-s-cs100-successfully-completes-its-first-test-flight-out-of-montra-c-al-mirabel-international-airport.json)  [XML](/news/2013/09/16/bombardier-s-cs100-successfully-completes-its-first-test-flight-out-of-montra-c-al-mirabel-international-airport.xml)  
+
 ### [2013-09-16](/news/2013/09/16/index.md)
 
+##### CSeries jets
 # Bombardier's CS100 successfully completes its first test flight out of Montreal-Mirabel International Airport. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/business/bombardier-cseries-jet-completes-maiden-flight-1.1855731)
 1. [Cover Image](https://i.cbc.ca/1.1856287.1379370362!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/bombardier-cseries-20130916.jpg)

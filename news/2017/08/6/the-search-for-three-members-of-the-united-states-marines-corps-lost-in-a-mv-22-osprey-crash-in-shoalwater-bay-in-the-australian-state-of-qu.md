@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/6/the-search-for-three-members-of-the-united-state
 
 ### [2017-08-6](/news/2017/08/6/index.md)
 
+##### 2017 V-22 Osprey crash
 # The search for three members of the United States Marines Corps lost in a MV-22 Osprey crash in Shoalwater Bay in the Australian state of Queensland is called off. 
 
 A search operation for three US marines missing off the Queensland coast has been called off.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/13/a-six-seat-cessna-206-crashes-into-a-market-in-
 
 ### [2016-03-13](/news/2016/03/13/index.md)
 
+##### Cessna 206
 # A six-seat Cessna 206 crashes into a market in the Beni Department of northeastern Bolivia, killing all four aboard the plane and injuring three others. (Another report states seven were killed with 15 injured). The plane was flying from Santa Ana del Yacuma to departmental capital Trinidad. 
 
 A small plane crashed into a market in rural Santa Ana del Yacuma in northeast Bolivia&rsquo;s Beni region on Sunday, killing seven people.

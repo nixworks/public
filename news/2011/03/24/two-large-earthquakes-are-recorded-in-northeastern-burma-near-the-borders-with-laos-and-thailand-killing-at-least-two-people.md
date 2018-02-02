@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2011/03/24/two-large-earthquakes-are-recorded-in-northeastern-burma-near-the-borders-with-laos-and-thailand-killing-at-least-two-people.html)  [JSON](/news/2011/03/24/two-large-earthquakes-are-recorded-in-northeastern-burma-near-the-borders-with-laos-and-thailand-killing-at-least-two-people.json)  [XML](/news/2011/03/24/two-large-earthquakes-are-recorded-in-northeastern-burma-near-the-borders-with-laos-and-thailand-killing-at-least-two-people.xml)  
+
 ### [2011-03-24](/news/2011/03/24/index.md)
 
+##### Burma
 # Two large earthquakes are recorded in northeastern Burma near the borders with Laos and Thailand, killing at least two people. 
 
 A strong earthquake of magnitude 6.8 struck northeastern Myanmar Thursday evening near the borders of Thailand and Laos, shaking buildings as far away as Bangkok.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Yahoo News](http://uk.news.yahoo.com/18/20110324/twl-two-dead-as-strong-quake-hits-myanma-4bdc673.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12852237)
-3. [New York Times](http://www.nytimes.com/2011/03/25/world/asia/25myanmar.html?ref=world)
+3. [New York Times](https://www.nytimes.com/2011/03/25/world/asia/25myanmar.html?ref=world)
 3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/13/rapper-curtis-james-jackson-iii-better-known-by-his-stage-name-50-cent-files-for-chapter-11-bankruptcy-protection.html)  [JSON](/news/2015/07/13/rapper-curtis-james-jackson-iii-better-known-by-his-stage-name-50-cent-files-for-chapter-11-bankruptcy-protection.json)  [XML](/news/2015/07/13/rapper-curtis-james-jackson-iii-better-known-by-his-stage-name-50-cent-files-for-chapter-11-bankruptcy-protection.xml)  
+
 ### [2015-07-13](/news/2015/07/13/index.md)
 
+##### 50 Cent
 # Rapper Curtis James Jackson III, better known by his stage name 50 Cent, files for Chapter 11 bankruptcy protection. 
 
 Curtis James Jackson III, the rapper better known as 50 Cent, files for chapter 11 bankruptcy protection in Hartford, Conn.
 
 
-### Source:
+### Sources:
 
 1. [MarketWatch](http://www.marketwatch.com/story/rapper-50-cent-files-for-bankruptcy-2015-07-13-11103654)
 1. [Cover Image](http://s.marketwatch.com/public/resources/MWimages/MW-DP938_50cent_ZG_20150713110324.jpg)

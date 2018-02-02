@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/18/a-building-collapses-on-the-outskirts-of-new-delhi-on-wednesday-trapping-at-least-15-people-in-the-rubble.html)  [JSON](/news/2006/01/18/a-building-collapses-on-the-outskirts-of-new-delhi-on-wednesday-trapping-at-least-15-people-in-the-rubble.json)  [XML](/news/2006/01/18/a-building-collapses-on-the-outskirts-of-new-delhi-on-wednesday-trapping-at-least-15-people-in-the-rubble.xml)  
+
 ### [2006-01-18](/news/2006/01/18/index.md)
 
+##### New Delhi
 #  A building collapses on the outskirts of New Delhi on Wednesday, trapping at least 15 people in the rubble. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/01/18/india.collapse.ap/index.html)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/17/former-governor-of-illinois-george-h-ryan-is-indicted-on-corruption-charges-for-receiving-payoffs-gifts-and-vacations-in-return-for-govern.html)  [JSON](/news/2003/12/17/former-governor-of-illinois-george-h-ryan-is-indicted-on-corruption-charges-for-receiving-payoffs-gifts-and-vacations-in-return-for-govern.json)  [XML](/news/2003/12/17/former-governor-of-illinois-george-h-ryan-is-indicted-on-corruption-charges-for-receiving-payoffs-gifts-and-vacations-in-return-for-govern.xml)  
+
 ### [2003-12-17](/news/2003/12/17/index.md)
 
+##### Governor of Illinois
 # Former Governor of Illinois George H. Ryan is indicted on corruption charges for receiving payoffs, gifts and vacations in return for government contracts and leases while he served as the Governor and Secretary of State of Illinois. [http:--www.dallasnews.com-sharedcontent-dallas-politics-national-stories-121703dnnatindict.9f1c0.html]
 
 

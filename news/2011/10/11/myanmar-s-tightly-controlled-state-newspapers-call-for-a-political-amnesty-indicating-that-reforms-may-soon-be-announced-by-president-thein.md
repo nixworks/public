@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/11/myanmar-s-tightly-controlled-state-newspapers-call-for-a-political-amnesty-indicating-that-reforms-may-soon-be-announced-by-president-thein.html)  [JSON](/news/2011/10/11/myanmar-s-tightly-controlled-state-newspapers-call-for-a-political-amnesty-indicating-that-reforms-may-soon-be-announced-by-president-thein.json)  [XML](/news/2011/10/11/myanmar-s-tightly-controlled-state-newspapers-call-for-a-political-amnesty-indicating-that-reforms-may-soon-be-announced-by-president-thein.xml)  
+
 ### [2011-10-11](/news/2011/10/11/index.md)
 
+##### Myanmar
 # Myanmar's tightly controlled state newspapers call for a political amnesty indicating that reforms may soon be announced by President Thein Sein with the National Human Rights Commission recommending the pardon of some 6000 plus "prisoners of conscience". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hEyZu6QPrbGRIqZeAeZcpL3mwUdA?docId=3352857c907740a0833ee00b3c886823)
 2. [CNN](http://edition.cnn.com/2011/10/11/world/asia/myanmar-prisoner-release/index.html?hpt=hp_t2)

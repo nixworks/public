@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/12/the-united-nations-estimates-that-the-death-tol
 
 ### [2016-09-12](/news/2016/09/12/index.md)
 
+##### 2016 North Korean floods
 # The United Nations estimates that the death toll from severe flooding in North Korea reaches 133 with another 395 missing and tens of thousands homeless. 
 
 SEOUL (AFP) - The death toll from severe flooding in the north-east of North Korea has risen to 133, with another 395 missing and tens of thousands left homeless, the United Nations said.. Read more at straitstimes.com.

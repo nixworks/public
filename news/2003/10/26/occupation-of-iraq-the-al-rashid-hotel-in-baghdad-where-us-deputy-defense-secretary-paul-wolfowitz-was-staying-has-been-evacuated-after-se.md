@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/26/occupation-of-iraq-the-al-rashid-hotel-in-baghdad-where-us-deputy-defense-secretary-paul-wolfowitz-was-staying-has-been-evacuated-after-se.html)  [JSON](/news/2003/10/26/occupation-of-iraq-the-al-rashid-hotel-in-baghdad-where-us-deputy-defense-secretary-paul-wolfowitz-was-staying-has-been-evacuated-after-se.json)  [XML](/news/2003/10/26/occupation-of-iraq-the-al-rashid-hotel-in-baghdad-where-us-deputy-defense-secretary-paul-wolfowitz-was-staying-has-been-evacuated-after-se.xml)  
+
 ### [2003-10-26](/news/2003/10/26/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: The Al-Rashid Hotel in Baghdad where US deputy defense secretary Paul Wolfowitz was staying has been evacuated after several rockets were fired at it in the morning. one US Colonel was killed and fifteen individuals wounded (three seriously) in the attack. Two more explosions occurred near Al Rashid hotel later towards the evening. Further investigations confirm that Iraq had no active nuclear program, but did not relinquish nuclear ambitions or technical records.
 
 

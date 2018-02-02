@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/7/three-people-are-killed-falling-from-high-rise-flats-in-glasgow.html)  [JSON](/news/2010/03/7/three-people-are-killed-falling-from-high-rise-flats-in-glasgow.json)  [XML](/news/2010/03/7/three-people-are-killed-falling-from-high-rise-flats-in-glasgow.xml)  
+
 ### [2010-03-7](/news/2010/03/7/index.md)
 
+##### Glasgow
 # Three people are killed falling from high-rise flats in Glasgow. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/scotland/glasgow_and_west/8554333.stm)
 2. [Sky News](http://news.sky.com/skynews/Home/UK-News/Glasgow-Three-Asylum-Seekers-Dead-After-Falling-From-Springburn-Block-Of-Flats/Article/201003115568950?lpos=UK_News_Top_Stories_Header_2&lid=ARTICLE_15568950_Glasgow%3A_Three_Asylum_Seekers_Dead_After_Falling_From_Springburn_Block_Of_Flats_)

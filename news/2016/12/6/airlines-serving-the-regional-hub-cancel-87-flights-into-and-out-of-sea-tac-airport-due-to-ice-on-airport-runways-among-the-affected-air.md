@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/6/airlines-serving-the-regional-hub-cancel-87-flig
 
 ### [2016-12-6](/news/2016/12/6/index.md)
 
+##### Seattle-Tacoma International Airport
 #  Airlines serving the regional hub cancel 87 flights into and out of Sea-Tac airport, due to ice on airport runways. Among the affected air carriers, Alaska Airlines has cancelled 35 flights. 
 
 Dozens of flights were canceled Tuesday in Seattle as icy conditions gripped Sea-Tac Airport. 

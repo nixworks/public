@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/24/a-bomb-believed-planted-by-a-muslim-separatist-organisation-killed-13-people-including-a-town-mayor-and-wounded-12-in-a-christmas-eve-atta.html)  [JSON](/news/2002/12/24/a-bomb-believed-planted-by-a-muslim-separatist-organisation-killed-13-people-including-a-town-mayor-and-wounded-12-in-a-christmas-eve-atta.json)  [XML](/news/2002/12/24/a-bomb-believed-planted-by-a-muslim-separatist-organisation-killed-13-people-including-a-town-mayor-and-wounded-12-in-a-christmas-eve-atta.xml)  
+
 ### [2002-12-24](/news/2002/12/24/index.md)
 
+##### Christmas Eve
 # A bomb believed planted by a Muslim separatist organisation killed 13 people, including a town mayor, and wounded 12 in a Christmas Eve attack in the southern Philippines town of Datu Piang.
 
 

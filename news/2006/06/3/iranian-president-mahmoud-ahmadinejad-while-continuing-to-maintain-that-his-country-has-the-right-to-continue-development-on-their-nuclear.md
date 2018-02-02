@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/3/iranian-president-mahmoud-ahmadinejad-while-continuing-to-maintain-that-his-country-has-the-right-to-continue-development-on-their-nuclear.html)  [JSON](/news/2006/06/3/iranian-president-mahmoud-ahmadinejad-while-continuing-to-maintain-that-his-country-has-the-right-to-continue-development-on-their-nuclear.json)  [XML](/news/2006/06/3/iranian-president-mahmoud-ahmadinejad-while-continuing-to-maintain-that-his-country-has-the-right-to-continue-development-on-their-nuclear.xml)  
+
 ### [2006-06-3](/news/2006/06/3/index.md)
 
+##### Mahmoud Ahmadinejad
 #  Iranian President Mahmoud Ahmadinejad, while continuing to maintain that his country has the right to continue development on their nuclear technology, says that he "will not pass judgment on the proposals hastily," referring to the incentives package being offered by the US, Russia, United Kingdom, Germany, France and China in order to dissuade Iran from further nuclear development. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/newsarticle.aspx?type=topNews&storyid=2006-06-03T212127Z_01_L13443169_RTRUKOC_0_US-NUCLEAR-IRAN.xml&src=rss&rpc=22)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

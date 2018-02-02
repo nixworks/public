@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/09/4/osvaldo-rivera-is-the-suspect-jailed-in-camden-county-new-jersey-for-the-stabbing-to-death-of-a-6-year-old-boy-and-the-attempted-murder-of.html)  [JSON](/news/2012/09/4/osvaldo-rivera-is-the-suspect-jailed-in-camden-county-new-jersey-for-the-stabbing-to-death-of-a-6-year-old-boy-and-the-attempted-murder-of.json)  [XML](/news/2012/09/4/osvaldo-rivera-is-the-suspect-jailed-in-camden-county-new-jersey-for-the-stabbing-to-death-of-a-6-year-old-boy-and-the-attempted-murder-of.xml)  
+
 ### [2012-09-4](/news/2012/09/4/index.md)
 
+##### Camden County, New Jersey
 # Osvaldo Rivera is the suspect jailed in Camden County, New Jersey for the stabbing to death of a 6-year-old boy and the attempted murder of the boy's 12-year-old sister. Authorities say he was high on PCP-laced marijuana. 
 
 A man high on PCP-laced marijuana stabbed two neighborhood children in their home while they slept, killing a 6-year-old boy and critically wounding his 12-year-old sister, authorities said.
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/nj-man-arrested-deadly-attack-sleeping-kids-161411123.html)
+1. [AP via Yahoo! News](https://news.yahoo.com/nj-man-arrested-deadly-attack-sleeping-kids-161411123.html)
 1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:

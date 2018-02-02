@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/01/15/pakistani-supreme-court-ordered-the-arrest-of-prime-minister-of-pakistan-raja-pervez-ashraf-in-relation-to-a-bribery-case-within-24-hours.html)  [JSON](/news/2013/01/15/pakistani-supreme-court-ordered-the-arrest-of-prime-minister-of-pakistan-raja-pervez-ashraf-in-relation-to-a-bribery-case-within-24-hours.json)  [XML](/news/2013/01/15/pakistani-supreme-court-ordered-the-arrest-of-prime-minister-of-pakistan-raja-pervez-ashraf-in-relation-to-a-bribery-case-within-24-hours.xml)  
+
 ### [2013-01-15](/news/2013/01/15/index.md)
 
+##### Pakistani Supreme Court
 # Pakistani Supreme Court ordered the arrest of Prime Minister of Pakistan Raja Pervez Ashraf in relation to a bribery case within 24 hours. 
 
 An enigmatic preacher with thousands of followers is demanding the government’s ouster, the top court has ordered the arrest of the prime minister and violence is surging.
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/thousands-rally-2nd-day-pakistani-capital-18216999)
-2. [The New York Times](http://www.nytimes.com/2013/01/16/world/asia/pakistan-high-court-orders-arrest-of-prime-minister.html)
-3. [The Washington Post](http://www.washingtonpost.com/world/middle_east/pakistani-high-court-again-orders-the-arrest-of-a-prime-minister/2013/01/15/91da7276-5f0d-11e2-a389-ee565c81c565_story.html)
+2. [The New York Times](https://www.nytimes.com/2013/01/16/world/asia/pakistan-high-court-orders-arrest-of-prime-minister.html)
+3. [The Washington Post](https://www.washingtonpost.com/world/middle_east/pakistani-high-court-again-orders-the-arrest-of-a-prime-minister/2013/01/15/91da7276-5f0d-11e2-a389-ee565c81c565_story.html)
 3. [Cover Image](https://static01.nyt.com/images/2013/01/16/world/PAKISTAN/PAKISTAN-superJumbo.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/30/more-than-450-people-have-been-arrested-after-protests-in-which-police-used-tear-gas-and-water-cannons-in-chile-s-capital-santiago.html)  [JSON](/news/2007/08/30/more-than-450-people-have-been-arrested-after-protests-in-which-police-used-tear-gas-and-water-cannons-in-chile-s-capital-santiago.json)  [XML](/news/2007/08/30/more-than-450-people-have-been-arrested-after-protests-in-which-police-used-tear-gas-and-water-cannons-in-chile-s-capital-santiago.xml)  
+
 ### [2007-08-30](/news/2007/08/30/index.md)
 
+##### arrested
 #  More than 450 people have been arrested after protests in which police used tear gas and water cannons in Chile's capital, Santiago. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/6969439.stm)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/04/26/u-s-television-personality-katie-couric-announces-that-she-will-no-longer-host-the-cbs-evening-news-at-the-end-of-june.html)  [JSON](/news/2011/04/26/u-s-television-personality-katie-couric-announces-that-she-will-no-longer-host-the-cbs-evening-news-at-the-end-of-june.json)  [XML](/news/2011/04/26/u-s-television-personality-katie-couric-announces-that-she-will-no-longer-host-the-cbs-evening-news-at-the-end-of-june.xml)  
+
 ### [2011-04-26](/news/2011/04/26/index.md)
 
+##### Katie Couric
 # U.S. television personality Katie Couric announces that she will no longer host the "CBS Evening News" at the end of June. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/life/television/news/2011-04-27-katieonline_ST_N.htm)
+1. [USA Today](https://www.usatoday.com/life/television/news/2011-04-27-katieonline_ST_N.htm)
 1. [Cover Image](http://i.usatoday.net/life/_photos/2011/04/26/couricx.jpg)
 
 ### Related:

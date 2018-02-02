@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/04/25/nearly-500-prisoners-many-of-them-afghan-based-islamic-militants-escape-from-kandahar-s-sarposa-prison.html)  [JSON](/news/2011/04/25/nearly-500-prisoners-many-of-them-afghan-based-islamic-militants-escape-from-kandahar-s-sarposa-prison.json)  [XML](/news/2011/04/25/nearly-500-prisoners-many-of-them-afghan-based-islamic-militants-escape-from-kandahar-s-sarposa-prison.xml)  
+
 ### [2011-04-25](/news/2011/04/25/index.md)
 
+##### Afghan-based
 # Nearly 500 prisoners, many of them Afghan-based Islamic militants, escape from Kandahar's Sarposa prison. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20110425/ap_on_re_as/as_afghanistan)
-2. [The Globe and Mail](http://www.theglobeandmail.com/news/opinions/editorials/the-great-escape----kandahar-inmates-crawl-their-way-to-freedom/article1998270/)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20110425/ap_on_re_as/as_afghanistan)
+2. [The Globe and Mail](https://www.theglobeandmail.com/news/opinions/editorials/the-great-escape----kandahar-inmates-crawl-their-way-to-freedom/article1998270/)
 
 ### Related:
 

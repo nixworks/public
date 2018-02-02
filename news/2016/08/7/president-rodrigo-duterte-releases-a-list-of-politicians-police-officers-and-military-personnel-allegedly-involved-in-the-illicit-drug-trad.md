@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/7/president-rodrigo-duterte-releases-a-list-of-pol
 
 ### [2016-08-7](/news/2016/08/7/index.md)
 
+##### drug crackdown
 # President Rodrigo Duterte releases a list of politicians, police officers and military personnel allegedly involved in the illicit drug trade. 
 
 (2nd UPDATE) A list of more than 150 officials from the judiciary, police, and local governments who are allegedly involved in the drug trade, as named by President Duterte. Is this list correct?

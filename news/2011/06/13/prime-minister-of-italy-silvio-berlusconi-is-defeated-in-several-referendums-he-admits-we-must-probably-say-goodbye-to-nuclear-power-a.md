@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/13/prime-minister-of-italy-silvio-berlusconi-is-defeated-in-several-referendums-he-admits-we-must-probably-say-goodbye-to-nuclear-power-a.html)  [JSON](/news/2011/06/13/prime-minister-of-italy-silvio-berlusconi-is-defeated-in-several-referendums-he-admits-we-must-probably-say-goodbye-to-nuclear-power-a.json)  [XML](/news/2011/06/13/prime-minister-of-italy-silvio-berlusconi-is-defeated-in-several-referendums-he-admits-we-must-probably-say-goodbye-to-nuclear-power-a.xml)  
+
 ### [2011-06-13](/news/2011/06/13/index.md)
 
+##### Italian Prime Minister
 # Prime Minister of Italy Silvio Berlusconi is defeated in several referendums. He admits "we must probably say goodbye to... nuclear power" after his attempts to have people boycott a referendum on the issue prove unsuccessful. 
 
 Italian Prime Minister Silvio Berlusconi accepts the rejection of his nuclear power plans and other policies in a popular referendum.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13741105)
 2. [The Guardian](http://www.guardian.co.uk/world/2011/jun/13/berlusconi-nuclear-power)

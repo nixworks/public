@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/09/5/bill-ford-steps-down-from-his-position-as-ceo-of-ford-motor-company-he-is-replaced-by-alan-mulally-the-former-executive-vice-president-an.html)  [JSON](/news/2006/09/5/bill-ford-steps-down-from-his-position-as-ceo-of-ford-motor-company-he-is-replaced-by-alan-mulally-the-former-executive-vice-president-an.json)  [XML](/news/2006/09/5/bill-ford-steps-down-from-his-position-as-ceo-of-ford-motor-company-he-is-replaced-by-alan-mulally-the-former-executive-vice-president-an.xml)  
+
 ### [2006-09-5](/news/2006/09/5/index.md)
 
+##### Bill Ford
 #  Bill Ford steps down from his position as CEO of Ford Motor Company. He is replaced by Alan Mulally, the former executive vice president and CEO of Boeing Commercial Airlines. Bill Ford will remain chairman. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/money/autos/2006-09-05-ford-ceo_x.htm?csp=34)
+1. [USA Today](https://www.usatoday.com/money/autos/2006-09-05-ford-ceo_x.htm?csp=34)
 
 ### Related:
 

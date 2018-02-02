@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/20/ten-thousand-iraqi-troops-enter-sadr-city-in-baghdad-to-seize-control-from-shiite-militants.html)  [JSON](/news/2008/05/20/ten-thousand-iraqi-troops-enter-sadr-city-in-baghdad-to-seize-control-from-shiite-militants.json)  [XML](/news/2008/05/20/ten-thousand-iraqi-troops-enter-sadr-city-in-baghdad-to-seize-control-from-shiite-militants.xml)  
+
 ### [2008-05-20](/news/2008/05/20/index.md)
 
+##### Iraq
 #  Ten thousand Iraqi troops enter Sadr City in Baghdad to seize control from Shiite militants. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/stories/2008/05/20/politics/animal/main4110753.shtml)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/03/05/6732c520-3370-400f-900a-273f656490d4/whats-in-the-news-coverart-1400x1400.jpg)

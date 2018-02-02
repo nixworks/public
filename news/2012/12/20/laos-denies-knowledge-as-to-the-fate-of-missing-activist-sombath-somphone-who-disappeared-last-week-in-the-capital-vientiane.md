@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/20/laos-denies-knowledge-as-to-the-fate-of-missing-activist-sombath-somphone-who-disappeared-last-week-in-the-capital-vientiane.html)  [JSON](/news/2012/12/20/laos-denies-knowledge-as-to-the-fate-of-missing-activist-sombath-somphone-who-disappeared-last-week-in-the-capital-vientiane.json)  [XML](/news/2012/12/20/laos-denies-knowledge-as-to-the-fate-of-missing-activist-sombath-somphone-who-disappeared-last-week-in-the-capital-vientiane.xml)  
+
 ### [2012-12-20](/news/2012/12/20/index.md)
 
+##### Laos
 # Laos denies knowledge as to the fate of missing activist Sombath Somphone, who disappeared last week in the capital Vientiane. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5huaqvkzPbIRMsS7GIRXR8c4HIHgQ)
 

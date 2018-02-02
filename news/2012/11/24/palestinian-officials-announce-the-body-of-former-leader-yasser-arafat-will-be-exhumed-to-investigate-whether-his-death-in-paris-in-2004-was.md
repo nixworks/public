@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/24/palestinian-officials-announce-the-body-of-former-leader-yasser-arafat-will-be-exhumed-to-investigate-whether-his-death-in-paris-in-2004-was.html)  [JSON](/news/2012/11/24/palestinian-officials-announce-the-body-of-former-leader-yasser-arafat-will-be-exhumed-to-investigate-whether-his-death-in-paris-in-2004-was.json)  [XML](/news/2012/11/24/palestinian-officials-announce-the-body-of-former-leader-yasser-arafat-will-be-exhumed-to-investigate-whether-his-death-in-paris-in-2004-was.xml)  
+
 ### [2012-11-24](/news/2012/11/24/index.md)
 
+##### Palestinian
 # Palestinian officials announce the body of former leader Yasser Arafat will be exhumed to investigate whether his death in Paris in 2004 was caused by poisoning. 
 
 The body of Palestinian leader is to be exhumed on Tuesday, Palestinian officials announce, for tests to find whether he died of poisoning.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20475737)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/64354000/jpg/_64354510_64354509.jpg)

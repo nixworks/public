@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2015/05/21/islamic-state-fighters-enter-the-ancient-ruins-of-palmyra-after-capturing-the-syrian-city-of-tadmur-yesterday-a-hundred-pro-government-figh.html)  [JSON](/news/2015/05/21/islamic-state-fighters-enter-the-ancient-ruins-of-palmyra-after-capturing-the-syrian-city-of-tadmur-yesterday-a-hundred-pro-government-figh.json)  [XML](/news/2015/05/21/islamic-state-fighters-enter-the-ancient-ruins-of-palmyra-after-capturing-the-syrian-city-of-tadmur-yesterday-a-hundred-pro-government-figh.xml)  
+
 ### [2015-05-21](/news/2015/05/21/index.md)
 
+##### ISIL
 # Islamic State fighters enter the ancient ruins of Palmyra after capturing the Syrian city of Tadmur yesterday. A hundred pro-government fighters are believed to have died in fighting. 
 
 Islamic State fighters tightened their grip on the historic Syrian city of Palmyra on Thursday and overran Iraqi government defenses east of Ramadi, the provincial capital that they seized five days earlier.
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/world/breaking-news/is-controls-more-than-half-of-syria/story-e6frfkui-1227364263099?from=public_rss)
-2. [Reuters](http://www.reuters.com/article/2015/05/21/us-mideast-crisis-syria-idUSKBN0O60KH20150521?feedType=RSS&feedName=topNews)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150521&t=2&i=1050191283&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB4K143)
+2. [Reuters](https://www.reuters.com/article/2015/05/21/us-mideast-crisis-syria-idUSKBN0O60KH20150521?feedType=RSS&feedName=topNews)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20150521&t=2&i=1050191283&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB4K143)
+
+### Changes:
+
+1. [Islamic State of Iraq and the Levant: Islamic State fighters enter the ancient ruins of Palmyra after capturing the Syrian city of Tadmur yesterday. A hundred pro-government fighters are believed to have died in fighting. ](/news/2015/05/21/islamic-state-of-iraq-and-the-levant-islamic-state-fighters-enter-the-ancient-ruins-of-palmyra-after-capturing-the-syrian-city-of-tadmur-ye.md) _2017-08-27 03:42:21 (First version)_
+1. [Islamic State fighters enter the ancient ruins of Palmyra after capturing the Syrian city of Tadmur yesterday. A hundred pro-government fighters are believed to have died in fighting. ](/news/2015/05/21/islamic-state-fighters-enter-the-ancient-ruins-of-palmyra-after-capturing-the-syrian-city-of-tadmur-yesterday-a-hundred-pro-government-figh.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ Islamic State fighters tightened their grip on the historic Syrian city of Palmy
 3. [The Syrian Observatory for Human Rights reports the Islamic State, on Sunday, executed three detainees in the ancient Syrian city of Palmyra by strapping them to pillars and blowing them up with the antiquities. ISIL has yet to tell locals the identities of the three individuals or say why they had been killed. ](/news/2015/10/27/the-syrian-observatory-for-human-rights-reports-the-islamic-state-on-sunday-executed-three-detainees-in-the-ancient-syrian-city-of-palmyra.md) _Context: ISIL, Palmyra, Syria_
 4. [The United Nations confirms the Islamic State of Iraq and the Levant has completely destroyed the Temple of Bel in Palmyra, Syria, after earlier reports that the structure was mostly intact. ](/news/2015/09/1/the-united-nations-confirms-the-islamic-state-of-iraq-and-the-levant-has-completely-destroyed-the-temple-of-bel-in-palmyra-syria-after-ear.md) _Context: ISIL, Palmyra, Syria_
 5. [Islamic State of Iraq and the Levant captures the border crossing at Al Waleed (al-Tanf in Syria), the last remaining border crossing between Syria and Iraq controlled by the Government of Syria. ISIL reportedly advances to within 40 km of Baghdad after their victory in Ramadi. ](/news/2015/05/22/islamic-state-of-iraq-and-the-levant-captures-the-border-crossing-at-al-waleed-al-tanf-in-syria-the-last-remaining-border-crossing-betwee.md) _Context: Government of Syria, ISIL, Syria_
-
-### Changes:
-
-1. [Islamic State of Iraq and the Levant: Islamic State fighters enter the ancient ruins of Palmyra after capturing the Syrian city of Tadmur yesterday. A hundred pro-government fighters are believed to have died in fighting. ](/news/2015/05/21/islamic-state-of-iraq-and-the-levant-islamic-state-fighters-enter-the-ancient-ruins-of-palmyra-after-capturing-the-syrian-city-of-tadmur-ye.md) _2017-08-27 03:42:21 (First version)_
-1. [Islamic State fighters enter the ancient ruins of Palmyra after capturing the Syrian city of Tadmur yesterday. A hundred pro-government fighters are believed to have died in fighting. ](/news/2015/05/21/islamic-state-fighters-enter-the-ancient-ruins-of-palmyra-after-capturing-the-syrian-city-of-tadmur-yesterday-a-hundred-pro-government-figh.md) _(Current version)_

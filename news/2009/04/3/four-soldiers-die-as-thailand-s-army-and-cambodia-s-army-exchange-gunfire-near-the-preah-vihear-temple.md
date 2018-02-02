@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/3/four-soldiers-die-as-thailand-s-army-and-cambodia-s-army-exchange-gunfire-near-the-preah-vihear-temple.html)  [JSON](/news/2009/04/3/four-soldiers-die-as-thailand-s-army-and-cambodia-s-army-exchange-gunfire-near-the-preah-vihear-temple.json)  [XML](/news/2009/04/3/four-soldiers-die-as-thailand-s-army-and-cambodia-s-army-exchange-gunfire-near-the-preah-vihear-temple.xml)  
+
 ### [2009-04-3](/news/2009/04/3/index.md)
 
+##### soldier
 #  Four soldiers die as Thailand's Army and Cambodia's Army exchange gunfire near the Preah Vihear Temple. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/04/03/cambodia.thai.tensions/index.html)
 

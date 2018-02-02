@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/12/31/ukraine-s-viktor-yanukovych-resigns-from-his-post-as-prime-minister.html)  [JSON](/news/2004/12/31/ukraine-s-viktor-yanukovych-resigns-from-his-post-as-prime-minister.json)  [XML](/news/2004/12/31/ukraine-s-viktor-yanukovych-resigns-from-his-post-as-prime-minister.xml)  
+
 ### [2004-12-31](/news/2004/12/31/index.md)
 
+##### Ukraine
 #  Ukraine's Viktor Yanukovych resigns from his post as Prime Minister. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7215330)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7215330)
 
 ### Related:
 

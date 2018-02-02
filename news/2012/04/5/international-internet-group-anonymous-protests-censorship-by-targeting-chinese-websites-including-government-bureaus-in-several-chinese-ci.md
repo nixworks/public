@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/5/international-internet-group-anonymous-protests-censorship-by-targeting-chinese-websites-including-government-bureaus-in-several-chinese-ci.html)  [JSON](/news/2012/04/5/international-internet-group-anonymous-protests-censorship-by-targeting-chinese-websites-including-government-bureaus-in-several-chinese-ci.json)  [XML](/news/2012/04/5/international-internet-group-anonymous-protests-censorship-by-targeting-chinese-websites-including-government-bureaus-in-several-chinese-ci.xml)  
+
 ### [2012-04-5](/news/2012/04/5/index.md)
 
+##### hacker group Anonymous
 # International internet group Anonymous protests censorship by targeting Chinese websites, including government bureaus in several Chinese cities. 
 
 A number of government websites replaced with messages on how to circumvent internet restrictions.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/0405/breaking39.html)
 2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/04/20124564229864622.html)

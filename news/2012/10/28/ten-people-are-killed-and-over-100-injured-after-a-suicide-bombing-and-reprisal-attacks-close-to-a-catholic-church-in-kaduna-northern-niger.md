@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/28/ten-people-are-killed-and-over-100-injured-after-a-suicide-bombing-and-reprisal-attacks-close-to-a-catholic-church-in-kaduna-northern-niger.html)  [JSON](/news/2012/10/28/ten-people-are-killed-and-over-100-injured-after-a-suicide-bombing-and-reprisal-attacks-close-to-a-catholic-church-in-kaduna-northern-niger.json)  [XML](/news/2012/10/28/ten-people-are-killed-and-over-100-injured-after-a-suicide-bombing-and-reprisal-attacks-close-to-a-catholic-church-in-kaduna-northern-niger.xml)  
+
 ### [2012-10-28](/news/2012/10/28/index.md)
 
+##### Kaduna
 # Ten people are killed and over 100 injured after a suicide bombing and reprisal attacks close to a Catholic church in Kaduna, Northern Nigeria. 
 
 At least seven people have been killed and dozens hurt in a suicide attack at a Catholic church in the northern Nigerian city of Kaduna.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20114839)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/63763000/jpg/_63763543_63763541.jpg)

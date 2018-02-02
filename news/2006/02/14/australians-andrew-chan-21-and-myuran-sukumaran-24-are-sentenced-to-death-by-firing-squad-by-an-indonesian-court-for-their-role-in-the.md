@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/14/australians-andrew-chan-21-and-myuran-sukumaran-24-are-sentenced-to-death-by-firing-squad-by-an-indonesian-court-for-their-role-in-the.html)  [JSON](/news/2006/02/14/australians-andrew-chan-21-and-myuran-sukumaran-24-are-sentenced-to-death-by-firing-squad-by-an-indonesian-court-for-their-role-in-the.json)  [XML](/news/2006/02/14/australians-andrew-chan-21-and-myuran-sukumaran-24-are-sentenced-to-death-by-firing-squad-by-an-indonesian-court-for-their-role-in-the.xml)  
+
 ### [2006-02-14](/news/2006/02/14/index.md)
 
+##### Andrew Chan
 #  Australians Andrew Chan, 21, and Myuran Sukumaran, 24, are sentenced to death by firing squad by an Indonesian court for their role in the Bali Nine heroin smuggling attempt. Fellow accused Martin Stephens, 29, and Michael Czugaj, 20, both receive life prison sentences. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/newsitems/200602/s1569684.htm)
 

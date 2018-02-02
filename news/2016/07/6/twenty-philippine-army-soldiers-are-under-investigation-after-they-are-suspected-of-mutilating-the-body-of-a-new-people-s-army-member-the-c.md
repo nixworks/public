@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/6/twenty-philippine-army-soldiers-are-under-invest
 
 ### [2016-07-6](/news/2016/07/6/index.md)
 
+##### CPP-NPA-NDF rebellion
 # Twenty Philippine Army soldiers are under investigation after they are suspected of mutilating the body of a New People's Army member. The communist militant's eyes were gouged, his tongue was cut off and his throat was slit. 
 
 

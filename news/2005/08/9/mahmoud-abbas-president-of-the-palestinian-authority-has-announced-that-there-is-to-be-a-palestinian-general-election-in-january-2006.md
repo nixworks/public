@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/9/mahmoud-abbas-president-of-the-palestinian-authority-has-announced-that-there-is-to-be-a-palestinian-general-election-in-january-2006.html)  [JSON](/news/2005/08/9/mahmoud-abbas-president-of-the-palestinian-authority-has-announced-that-there-is-to-be-a-palestinian-general-election-in-january-2006.json)  [XML](/news/2005/08/9/mahmoud-abbas-president-of-the-palestinian-authority-has-announced-that-there-is-to-be-a-palestinian-general-election-in-january-2006.xml)  
+
 ### [2005-08-9](/news/2005/08/9/index.md)
 
+##### Mahmoud Abbas
 #  Mahmoud Abbas, President of the Palestinian Authority, has announced that there is to be a Palestinian general election in January 2006. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4134232.stm)
 

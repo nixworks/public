@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/08/22/patriarch-theophilus-iii-is-unanimously-elected-141st-orthodox-patriarch-of-jerusalem-by-the-holy-synod-of-the-orthodox-church-of-jerusalem.html)  [JSON](/news/2005/08/22/patriarch-theophilus-iii-is-unanimously-elected-141st-orthodox-patriarch-of-jerusalem-by-the-holy-synod-of-the-orthodox-church-of-jerusalem.json)  [XML](/news/2005/08/22/patriarch-theophilus-iii-is-unanimously-elected-141st-orthodox-patriarch-of-jerusalem-by-the-holy-synod-of-the-orthodox-church-of-jerusalem.xml)  
+
 ### [2005-08-22](/news/2005/08/22/index.md)
 
+##### Patriarch Theophilus III
 #  Patriarch Theophilus III is unanimously elected 141st Orthodox Patriarch of Jerusalem by the Holy Synod of the Orthodox Church of Jerusalem to replace ousted predecessor Irenaios I.[http:--www.latimes.com-news-nationworld-world-wire-sns-ap-holy-land-greek-patriarch,1,1942295.story?coll=sns-ap-world-headlines (LA Times)] (Link dead as of 00:41, 15 January 2007 (UTC))
 
 

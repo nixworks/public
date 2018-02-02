@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/11/13/u-s-president-george-w-bush-says-that-an-audio-tape-thought-to-carry-the-voice-of-osama-bin-laden-believed-to-be-authentic-has-put-the.html)  [JSON](/news/2002/11/13/u-s-president-george-w-bush-says-that-an-audio-tape-thought-to-carry-the-voice-of-osama-bin-laden-believed-to-be-authentic-has-put-the.json)  [XML](/news/2002/11/13/u-s-president-george-w-bush-says-that-an-audio-tape-thought-to-carry-the-voice-of-osama-bin-laden-believed-to-be-authentic-has-put-the.xml)  
+
 ### [2002-11-13](/news/2002/11/13/index.md)
 
+##### George W. Bush
 #  U.S. President George W. Bush says that an audio tape thought to carry the voice of Osama bin Laden, believed to be authentic, has put the "world on notice."
 
 

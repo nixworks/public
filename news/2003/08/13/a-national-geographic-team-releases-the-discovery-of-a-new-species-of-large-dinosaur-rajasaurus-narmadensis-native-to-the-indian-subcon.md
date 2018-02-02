@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/13/a-national-geographic-team-releases-the-discovery-of-a-new-species-of-large-dinosaur-rajasaurus-narmadensis-native-to-the-indian-subcon.html)  [JSON](/news/2003/08/13/a-national-geographic-team-releases-the-discovery-of-a-new-species-of-large-dinosaur-rajasaurus-narmadensis-native-to-the-indian-subcon.json)  [XML](/news/2003/08/13/a-national-geographic-team-releases-the-discovery-of-a-new-species-of-large-dinosaur-rajasaurus-narmadensis-native-to-the-indian-subcon.xml)  
+
 ### [2003-08-13](/news/2003/08/13/index.md)
 
+##### National Geographic
 #  A National Geographic team releases the discovery of a new species of large dinosaur, "Rajasaurus Narmadensis", native to the Indian subcontinent. The research effort was made by a joint Indo-American group, including members from the University of Michigan, University of Chicago, and the Punjab University of Northern India.
 
 

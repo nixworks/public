@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/6/english-rioters-set-police-cars-on-fire-on-the-high-road-in-the-london-suburb-of-tottenham-after-metropolitan-police-shot-mark-duggan-on-thu.html)  [JSON](/news/2011/08/6/english-rioters-set-police-cars-on-fire-on-the-high-road-in-the-london-suburb-of-tottenham-after-metropolitan-police-shot-mark-duggan-on-thu.json)  [XML](/news/2011/08/6/english-rioters-set-police-cars-on-fire-on-the-high-road-in-the-london-suburb-of-tottenham-after-metropolitan-police-shot-mark-duggan-on-thu.xml)  
+
 ### [2011-08-6](/news/2011/08/6/index.md)
 
+##### English
 # English rioters set police cars on fire on the High Road in the London suburb of Tottenham after Metropolitan Police shot Mark Duggan on Thursday. 
 
 Police are on the streets of Tottenham, north London, where overnight riots saw petrol bombs thrown at officers and patrol cars and buildings set alight.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-14434318)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54459000/gif/_54459791_r94tfca1.gif)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/13/typhoon-haiyan-victims-are-visited-by-former-footballer-david-beckham-who-seeks-to-raise-awareness-about-their-plight.html)  [JSON](/news/2014/02/13/typhoon-haiyan-victims-are-visited-by-former-footballer-david-beckham-who-seeks-to-raise-awareness-about-their-plight.json)  [XML](/news/2014/02/13/typhoon-haiyan-victims-are-visited-by-former-footballer-david-beckham-who-seeks-to-raise-awareness-about-their-plight.xml)  
+
 ### [2014-02-13](/news/2014/02/13/index.md)
 
+##### Typhoon Haiyan (Yolanda)
 # Typhoon Haiyan victims are visited by former footballer David Beckham who seeks to raise awareness about their plight. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox Sports](http://msn.foxsports.com/foxsoccer/world/story/david-beckham-visits-typhoon-hit-philippines-as-part-of-unicef-relief-effort-021314)
 

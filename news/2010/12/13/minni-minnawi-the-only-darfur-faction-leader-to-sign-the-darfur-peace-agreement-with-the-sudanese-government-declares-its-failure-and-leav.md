@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/13/minni-minnawi-the-only-darfur-faction-leader-to-sign-the-darfur-peace-agreement-with-the-sudanese-government-declares-its-failure-and-leav.html)  [JSON](/news/2010/12/13/minni-minnawi-the-only-darfur-faction-leader-to-sign-the-darfur-peace-agreement-with-the-sudanese-government-declares-its-failure-and-leav.json)  [XML](/news/2010/12/13/minni-minnawi-the-only-darfur-faction-leader-to-sign-the-darfur-peace-agreement-with-the-sudanese-government-declares-its-failure-and-leav.xml)  
+
 ### [2010-12-13](/news/2010/12/13/index.md)
 
+##### Minni Minnawi
 # Minni Minnawi, the only Darfur faction leader to sign the Darfur Peace Agreement with the Sudanese government, declares its failure and leaves his post. 
 
 Minni Minnawi, the only leader to sign Darfur peace deal with government, blames it for failing it and quits post.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/2010121364520272117.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/13/2010121391302797_20.jpg)

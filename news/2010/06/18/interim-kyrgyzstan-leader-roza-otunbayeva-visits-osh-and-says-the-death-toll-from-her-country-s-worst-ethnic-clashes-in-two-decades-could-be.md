@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/18/interim-kyrgyzstan-leader-roza-otunbayeva-visits-osh-and-says-the-death-toll-from-her-country-s-worst-ethnic-clashes-in-two-decades-could-be.html)  [JSON](/news/2010/06/18/interim-kyrgyzstan-leader-roza-otunbayeva-visits-osh-and-says-the-death-toll-from-her-country-s-worst-ethnic-clashes-in-two-decades-could-be.json)  [XML](/news/2010/06/18/interim-kyrgyzstan-leader-roza-otunbayeva-visits-osh-and-says-the-death-toll-from-her-country-s-worst-ethnic-clashes-in-two-decades-could-be.xml)  
+
 ### [2010-06-18](/news/2010/06/18/index.md)
 
+##### Kyrgyzstan
 # Interim Kyrgyzstan leader Roza Otunbayeva visits Osh and says the death toll from her country's worst ethnic clashes in two decades could be 2,000. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/2010618144955796412.html)
 1. [Cover Image](http://www.aljazeera.com)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/24/indian-opposition-bharatiya-janata-party-seeks-the-president-s-intervention-on-being-denied-entry-into-kashmir-valley-for-the-flag-hoisting.html)  [JSON](/news/2011/01/24/indian-opposition-bharatiya-janata-party-seeks-the-president-s-intervention-on-being-denied-entry-into-kashmir-valley-for-the-flag-hoisting.json)  [XML](/news/2011/01/24/indian-opposition-bharatiya-janata-party-seeks-the-president-s-intervention-on-being-denied-entry-into-kashmir-valley-for-the-flag-hoisting.xml)  
+
 ### [2011-01-24](/news/2011/01/24/index.md)
 
+##### India
 # Indian opposition Bharatiya Janata Party seeks the President's intervention on being denied entry into Kashmir Valley for the flag hoisting programme in Srinagar on Republic Day (India). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/india-news/newdelhi/BJP-seeks-President-s-intervention-on-flag-hoisting-issue/Article1-654162.aspx)
 

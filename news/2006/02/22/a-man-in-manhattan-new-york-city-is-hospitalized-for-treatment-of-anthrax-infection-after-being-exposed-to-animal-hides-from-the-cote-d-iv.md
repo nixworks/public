@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/22/a-man-in-manhattan-new-york-city-is-hospitalized-for-treatment-of-anthrax-infection-after-being-exposed-to-animal-hides-from-the-cote-d-iv.html)  [JSON](/news/2006/02/22/a-man-in-manhattan-new-york-city-is-hospitalized-for-treatment-of-anthrax-infection-after-being-exposed-to-animal-hides-from-the-cote-d-iv.json)  [XML](/news/2006/02/22/a-man-in-manhattan-new-york-city-is-hospitalized-for-treatment-of-anthrax-infection-after-being-exposed-to-animal-hides-from-the-cote-d-iv.xml)  
+
 ### [2006-02-22](/news/2006/02/22/index.md)
 
+##### Manhattan
 #  A man in Manhattan, New York City is hospitalized for treatment of anthrax infection after being exposed to animal hides from the Cte d'Ivoire which he used for making drums. 
 
 Follow all the latest news on Long Island with Newsday. Read top local stories, watch video, and see pictures from all around Nassau and Suffolk counties.
 
 
-### Source:
+### Sources:
 
 1. [Newsday](http://www.newsday.com/news/local/newyork/am-anth0223,0,4242573.story?track=rss)
 1. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/31/the-u-s-senate-confirms-former-u-s-labor-secret
 
 ### [2017-01-31](/news/2017/01/31/index.md)
 
+##### Cabinet of Donald Trump
 # The U.S. Senate confirms former U.S. labor secretary and deputy transportation secretary Elaine Chao as Secretary of Transportation. Chao is married to Senate Majority Leader Mitch McConnell. 
 
 Amid tensions over president&rsquo;s travel ban, a longtime Washington figure is elevated to a key administration role.

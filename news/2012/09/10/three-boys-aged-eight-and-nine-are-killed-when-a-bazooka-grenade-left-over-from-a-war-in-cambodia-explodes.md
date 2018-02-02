@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/10/three-boys-aged-eight-and-nine-are-killed-when-a-bazooka-grenade-left-over-from-a-war-in-cambodia-explodes.html)  [JSON](/news/2012/09/10/three-boys-aged-eight-and-nine-are-killed-when-a-bazooka-grenade-left-over-from-a-war-in-cambodia-explodes.json)  [XML](/news/2012/09/10/three-boys-aged-eight-and-nine-are-killed-when-a-bazooka-grenade-left-over-from-a-war-in-cambodia-explodes.xml)  
+
 ### [2012-09-10](/news/2012/09/10/index.md)
 
+##### bazooka grenade
 # Three boys aged eight and nine are killed when a bazooka grenade, left over from a war in Cambodia, explodes. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/boys-die-break-rocket-cambodia-17198523#.UE2SFlGZh8E)
 2. [Jane's](http://articles.janes.com/articles/Janes-Infantry-Weapons/PG-2-40-mm-High-Explosive-Anti-Tank-HEAT-round-Russian-Federation.html)

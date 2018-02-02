@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/25/the-parliament-of-singapore-is-dissolved-with-a-general-election-to-be-held-on-september-11.html)  [JSON](/news/2015/08/25/the-parliament-of-singapore-is-dissolved-with-a-general-election-to-be-held-on-september-11.json)  [XML](/news/2015/08/25/the-parliament-of-singapore-is-dissolved-with-a-general-election-to-be-held-on-september-11.xml)  
+
 ### [2015-08-25](/news/2015/08/25/index.md)
 
+##### Parliament of Singapore
 # The Parliament of Singapore is dissolved with a general election to be held on September 11. 
 
 Singapore&#039;s parliament is dissolved for a general election as prime minister Lee Hsien Loong seeks a third term.
 
 
-### Source:
+### Sources:
 
 1. [AFP/Reuters via ABC Australia](http://www.abc.net.au/news/2015-08-25/singapore-to-hold-general-election-amid-living-cost-concerns/6724296)
 1. [Cover Image](http://www.abc.net.au/news/image/6724338-1x1-700x700.jpg)

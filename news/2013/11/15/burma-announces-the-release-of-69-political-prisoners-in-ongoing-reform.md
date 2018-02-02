@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/15/burma-announces-the-release-of-69-political-prisoners-in-ongoing-reform.html)  [JSON](/news/2013/11/15/burma-announces-the-release-of-69-political-prisoners-in-ongoing-reform.json)  [XML](/news/2013/11/15/burma-announces-the-release-of-69-political-prisoners-in-ongoing-reform.xml)  
+
 ### [2013-11-15](/news/2013/11/15/index.md)
 
+##### Burma
 # Burma announces the release of 69 political prisoners in ongoing reform. 
 
 Burmese officials say they are releasing 69 political prisoners, including the grandchildren of former leader General Ne Win.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-24955227)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71133000/jpg/_71133201_insein_afp.jpg)

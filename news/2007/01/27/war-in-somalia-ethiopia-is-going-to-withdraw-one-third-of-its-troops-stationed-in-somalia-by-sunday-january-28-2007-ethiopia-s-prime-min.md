@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/27/war-in-somalia-ethiopia-is-going-to-withdraw-one-third-of-its-troops-stationed-in-somalia-by-sunday-january-28-2007-ethiopia-s-prime-min.html)  [JSON](/news/2007/01/27/war-in-somalia-ethiopia-is-going-to-withdraw-one-third-of-its-troops-stationed-in-somalia-by-sunday-january-28-2007-ethiopia-s-prime-min.json)  [XML](/news/2007/01/27/war-in-somalia-ethiopia-is-going-to-withdraw-one-third-of-its-troops-stationed-in-somalia-by-sunday-january-28-2007-ethiopia-s-prime-min.xml)  
+
 ### [2007-01-27](/news/2007/01/27/index.md)
 
+##### two years of helping
 #  War in Somalia: Ethiopia is going to withdraw one third of its troops stationed in Somalia by Sunday January 28, 2007, Ethiopia's Prime Minister Meles Zenawi says. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6306675.stm)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyID=2007-01-27T193956Z_01_L27923321_RTRUKOC_0_US-SOMALIA-MELES-WITHDRAWAL.xml&WTmodLoc=IntNewsHome_C1_%5bFeed%5d-9)

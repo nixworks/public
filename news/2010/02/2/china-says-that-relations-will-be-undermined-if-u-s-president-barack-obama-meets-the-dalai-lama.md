@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/2/china-says-that-relations-will-be-undermined-if-u-s-president-barack-obama-meets-the-dalai-lama.html)  [JSON](/news/2010/02/2/china-says-that-relations-will-be-undermined-if-u-s-president-barack-obama-meets-the-dalai-lama.json)  [XML](/news/2010/02/2/china-says-that-relations-will-be-undermined-if-u-s-president-barack-obama-meets-the-dalai-lama.xml)  
+
 ### [2010-02-2](/news/2010/02/2/index.md)
 
+##### China
 # China says that relations will be undermined if U.S. President Barack Obama meets the Dalai Lama. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8492608.stm)
 2. [CBC](http://www.cbc.ca/politics/story/2010/02/02/china-us-dalai-lama.html)

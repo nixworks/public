@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/17/conflict-in-iraq-at-least-42-people-have-died-following-a-series-of-co-ordinated-car-bombings-in-the-iraqi-capital-of-baghdad.html)  [JSON](/news/2005/08/17/conflict-in-iraq-at-least-42-people-have-died-following-a-series-of-co-ordinated-car-bombings-in-the-iraqi-capital-of-baghdad.json)  [XML](/news/2005/08/17/conflict-in-iraq-at-least-42-people-have-died-following-a-series-of-co-ordinated-car-bombings-in-the-iraqi-capital-of-baghdad.xml)  
+
 ### [2005-08-17](/news/2005/08/17/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: At least 42 people have died following a series of co-ordinated car bombings in the Iraqi capital of Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4158292.stm)
 

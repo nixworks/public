@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/4/japan-s-prime-minister-naoto-kan-apologises-over-a-fundraising-scandal.html)  [JSON](/news/2011/03/4/japan-s-prime-minister-naoto-kan-apologises-over-a-fundraising-scandal.json)  [XML](/news/2011/03/4/japan-s-prime-minister-naoto-kan-apologises-over-a-fundraising-scandal.xml)  
+
 ### [2011-03-4](/news/2011/03/4/index.md)
 
+##### Japan
 # Japan's Prime Minister Naoto Kan apologises over a fundraising scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_641449.html)
 

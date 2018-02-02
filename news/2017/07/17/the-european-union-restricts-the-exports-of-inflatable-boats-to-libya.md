@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/17/the-european-union-restricts-the-exports-of-inf
 
 ### [2017-07-17](/news/2017/07/17/index.md)
 
+##### European Union-Libya relations
 # The European Union restricts the exports of inflatable boats to Libya. 
 
 Most of the 100,000 refugees and migrants who crossed the Mediterranean Sea this year arrived in Italy from Libya.

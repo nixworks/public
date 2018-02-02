@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/1/the-convention-on-cluster-munitions-banning-the-use-production-and-transfer-of-cluster-bombs-in-some-countries-comes-into-effect.html)  [JSON](/news/2010/08/1/the-convention-on-cluster-munitions-banning-the-use-production-and-transfer-of-cluster-bombs-in-some-countries-comes-into-effect.json)  [XML](/news/2010/08/1/the-convention-on-cluster-munitions-banning-the-use-production-and-transfer-of-cluster-bombs-in-some-countries-comes-into-effect.xml)  
+
 ### [2010-08-1](/news/2010/08/1/index.md)
 
+##### Convention on Cluster Munitions
 # The Convention on Cluster Munitions banning the use, production and transfer of cluster bombs in some countries, comes into effect. 
 
 A new global treaty banning cluster munitions enters into force, hailed by campaigners as the most important treaty in 10 years.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iQZuxYYQyqbWw8iAzAo_-GwYR_8A)
 2. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/20108161921618518.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/22/maryland-governor-larry-hogan-reveals-that-he-has-advanced-stage-lymphoma.html)  [JSON](/news/2015/06/22/maryland-governor-larry-hogan-reveals-that-he-has-advanced-stage-lymphoma.json)  [XML](/news/2015/06/22/maryland-governor-larry-hogan-reveals-that-he-has-advanced-stage-lymphoma.xml)  
+
 ### [2015-06-22](/news/2015/06/22/index.md)
 
+##### Governor
 # Maryland Governor Larry Hogan reveals that he has advanced stage lymphoma. 
 
 Get the latest breaking news across the U.S. on ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC](http://abcnews.go.com/US/wireStory/maryland-gov-larry-hogan-cancer-lymph-nodes-31949786)
 

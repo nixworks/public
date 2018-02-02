@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/11/a-revenge-porn-website-is-shutdown-in-san-diego-after-the-owner-kevin-christopher-bollaert-is-accused-of-extorting-money-from-one-of-its-v.html)  [JSON](/news/2013/12/11/a-revenge-porn-website-is-shutdown-in-san-diego-after-the-owner-kevin-christopher-bollaert-is-accused-of-extorting-money-from-one-of-its-v.json)  [XML](/news/2013/12/11/a-revenge-porn-website-is-shutdown-in-san-diego-after-the-owner-kevin-christopher-bollaert-is-accused-of-extorting-money-from-one-of-its-v.xml)  
+
 ### [2013-12-11](/news/2013/12/11/index.md)
 
+##### revenge porn
 # A revenge porn website is shutdown in San Diego after the owner, Kevin Christopher Bollaert, is accused of extorting money from one of its victims. 
 
 SAN DIEGO - A 27-year-old San Diego man was arrested Tuesday on suspicion of operating a &quot;revenge porn&quot; website and demanding up to $350 to remove sexually explicit photos of women that were...
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/local/la-me-revenge-porn-20131211,0,6054423.story#axzz2n0z8xNrL)
 1. [Cover Image](http://www.trbimg.com/img-52a7837f/turbine/la-me-ln-revenge-porn-20131210-001/600/600x400)

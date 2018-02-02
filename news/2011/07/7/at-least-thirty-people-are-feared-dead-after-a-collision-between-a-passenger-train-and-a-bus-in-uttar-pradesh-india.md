@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/7/at-least-thirty-people-are-feared-dead-after-a-collision-between-a-passenger-train-and-a-bus-in-uttar-pradesh-india.html)  [JSON](/news/2011/07/7/at-least-thirty-people-are-feared-dead-after-a-collision-between-a-passenger-train-and-a-bus-in-uttar-pradesh-india.json)  [XML](/news/2011/07/7/at-least-thirty-people-are-feared-dead-after-a-collision-between-a-passenger-train-and-a-bus-in-uttar-pradesh-india.xml)  
+
 ### [2011-07-7](/news/2011/07/7/index.md)
 
+##### Uttar Pradesh
 # At least thirty people are feared dead after a collision between a passenger train and a bus in Uttar Pradesh, India. 
 
 The bus passengers were returning from a marriage celebration. The accident happened at an unmanned railway crossing. Manmohan Singh announced ex-gratia relief of Rs 2 lakhs for the kin of those killed.
 
 
-### Source:
+### Sources:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/india/30-feared-killed-in-train-bus-collision-in-UP/articleshow/9132484.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/9133411.cms)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/13/at-least-13-people-die-following-a-car-bomb-attack-on-a-u-s-checkpoint-near-the-green-zone-in-baghdad-iraq.html)  [JSON](/news/2004/12/13/at-least-13-people-die-following-a-car-bomb-attack-on-a-u-s-checkpoint-near-the-green-zone-in-baghdad-iraq.json)  [XML](/news/2004/12/13/at-least-13-people-die-following-a-car-bomb-attack-on-a-u-s-checkpoint-near-the-green-zone-in-baghdad-iraq.xml)  
+
 ### [2004-12-13](/news/2004/12/13/index.md)
 
+##### car bomb
 #  At least 13 people die following a car bomb attack on a U.S. checkpoint near the Green Zone in Baghdad, Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC {aus}](http://www.abc.net.au/news/newsitems/200412/s1264430.htm)
 2. [The Guardian](http://www.guardian.co.uk/Iraq/Story/0,2763,1372624,00.html)

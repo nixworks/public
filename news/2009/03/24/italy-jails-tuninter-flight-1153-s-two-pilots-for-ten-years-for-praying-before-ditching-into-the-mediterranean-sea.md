@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/24/italy-jails-tuninter-flight-1153-s-two-pilots-for-ten-years-for-praying-before-ditching-into-the-mediterranean-sea.html)  [JSON](/news/2009/03/24/italy-jails-tuninter-flight-1153-s-two-pilots-for-ten-years-for-praying-before-ditching-into-the-mediterranean-sea.json)  [XML](/news/2009/03/24/italy-jails-tuninter-flight-1153-s-two-pilots-for-ten-years-for-praying-before-ditching-into-the-mediterranean-sea.xml)  
+
 ### [2009-03-24](/news/2009/03/24/index.md)
 
+##### Italy
 #  Italy jails Tuninter Flight 1153's two pilots for ten years for praying before ditching into the Mediterranean Sea. 
 
 A Tunisian pilot who paused to pray instead of taking emergency measures before crash-landing his plane, killing 16 people, has been sentenced to 10 years in jail by an Italian court along with his co-pilot.
 
 
-### Source:
+### Sources:
 
 1. [Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/italy/5043287/Pilot-who-paused-to-pray-in-crash-landing-sentenced-to-10-years-in-jail.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01371/Tuninter_1371693a.jpg)

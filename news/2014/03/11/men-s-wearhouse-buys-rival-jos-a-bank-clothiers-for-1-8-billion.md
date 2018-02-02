@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/03/11/men-s-wearhouse-buys-rival-jos-a-bank-clothiers-for-1-8-billion.html)  [JSON](/news/2014/03/11/men-s-wearhouse-buys-rival-jos-a-bank-clothiers-for-1-8-billion.json)  [XML](/news/2014/03/11/men-s-wearhouse-buys-rival-jos-a-bank-clothiers-for-1-8-billion.xml)  
+
 ### [2014-03-11](/news/2014/03/11/index.md)
 
+##### Men's Wearhouse
 # Men's Wearhouse buys rival JoS. A. Bank Clothiers for $1.8 billion. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/03/11/josabank-offer-menswearhouse-idUSL3N0M846E20140311)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2014/03/11/josabank-offer-menswearhouse-idUSL3N0M846E20140311)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

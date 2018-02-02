@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/29/in-a-surprising-event-malian-prime-minister-abd
 
 ### [2017-12-29](/news/2017/12/29/index.md)
 
+##### Politics of Mali
 # In a surprising event, Malian Prime Minister Abdoulaye Idrissa Maga and his government resign without providing a reason. 
 
 Abdoulaye Idrissa Maïga and his government quit seven months before country faces presidential election

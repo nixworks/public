@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/23/thousands-of-people-on-the-indonesian-island-of
 
 ### [2017-09-23](/news/2017/09/23/index.md)
 
+##### Mount Agung seismic activity
 # Thousands of people on the Indonesian island of Bali flee from their homes due to concerns over Mount Agung erupting. The alert status for the volcano was increased to the highest level possible yesterday. 
 
 Thousands of villagers on the Indonesian resort island of Bali are sheltering in sports centers, village halls and with relatives, fearing Mount Agung will erupt for the first time in more than half a century.

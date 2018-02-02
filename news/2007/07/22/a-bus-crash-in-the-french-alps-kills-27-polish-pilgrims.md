@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/22/a-bus-crash-in-the-french-alps-kills-27-polish-pilgrims.html)  [JSON](/news/2007/07/22/a-bus-crash-in-the-french-alps-kills-27-polish-pilgrims.json)  [XML](/news/2007/07/22/a-bus-crash-in-the-french-alps-kills-27-polish-pilgrims.xml)  
+
 ### [2007-07-22](/news/2007/07/22/index.md)
 
+##### French Alps
 #  A bus crash in the French Alps kills 27 Polish pilgrims. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Gazeta](http://wiadomosci.gazeta.pl/Wiadomosci/1,80269,4331232.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/29/irish-naval-service-patrol-vessel-la-eithne-rescues-300-migrants-in-the-mediterranean-sea-off-the-coast-of-libya.html)  [JSON](/news/2015/05/29/irish-naval-service-patrol-vessel-la-eithne-rescues-300-migrants-in-the-mediterranean-sea-off-the-coast-of-libya.json)  [XML](/news/2015/05/29/irish-naval-service-patrol-vessel-la-eithne-rescues-300-migrants-in-the-mediterranean-sea-off-the-coast-of-libya.xml)  
+
 ### [2015-05-29](/news/2015/05/29/index.md)
 
+##### Irish Naval Service
 # Irish Naval Service patrol vessel LE Eithne rescues 300 migrants in the Mediterranean Sea off the coast of Libya. 
 
 An Irish Naval Service vessel helps to rescue another 300 migrants off the coast of Libya, the Irish minister for defence has said.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-32927794)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/83288000/jpg/_83288511_migrantrescue1.jpg)

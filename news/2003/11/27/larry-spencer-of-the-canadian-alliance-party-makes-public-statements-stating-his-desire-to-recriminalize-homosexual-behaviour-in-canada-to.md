@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/27/larry-spencer-of-the-canadian-alliance-party-makes-public-statements-stating-his-desire-to-recriminalize-homosexual-behaviour-in-canada-to.html)  [JSON](/news/2003/11/27/larry-spencer-of-the-canadian-alliance-party-makes-public-statements-stating-his-desire-to-recriminalize-homosexual-behaviour-in-canada-to.json)  [XML](/news/2003/11/27/larry-spencer-of-the-canadian-alliance-party-makes-public-statements-stating-his-desire-to-recriminalize-homosexual-behaviour-in-canada-to.xml)  
+
 ### [2003-11-27](/news/2003/11/27/index.md)
 
+##### Canadian Alliance
 #  Larry Spencer of the Canadian Alliance party makes public statements stating his desire to recriminalize homosexual behaviour in Canada to combat what he claimed was a conspiracy by the homosexual community to infiltrate social institutions to recruit children into the "homosexual lifestyle". He was quickly denounced by numerous public figures including his own party leader, Stephen Harper, who also made him resign his position as Family Issue Critic in the Canadian House of Commons with an apology. However, commentators have noted that these inflammatory homophobic statements have placed the pending vote on the proposed merger with the Progressive Conservative Party on December 6 in jeopardy by illustrating fundamental differences between the parties concerning social attitudes.
 
 

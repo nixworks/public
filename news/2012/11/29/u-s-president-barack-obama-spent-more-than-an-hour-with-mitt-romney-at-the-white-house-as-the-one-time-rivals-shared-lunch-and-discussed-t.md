@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/11/29/u-s-president-barack-obama-spent-more-than-an-hour-with-mitt-romney-at-the-white-house-as-the-one-time-rivals-shared-lunch-and-discussed-t.html)  [JSON](/news/2012/11/29/u-s-president-barack-obama-spent-more-than-an-hour-with-mitt-romney-at-the-white-house-as-the-one-time-rivals-shared-lunch-and-discussed-t.json)  [XML](/news/2012/11/29/u-s-president-barack-obama-spent-more-than-an-hour-with-mitt-romney-at-the-white-house-as-the-one-time-rivals-shared-lunch-and-discussed-t.xml)  
+
 ### [2012-11-29](/news/2012/11/29/index.md)
 
+##### U.S. President
 # U.S. President Barack Obama spent more than an hour with Mitt Romney at the White House, as the one-time rivals shared lunch and discussed their ideas for the first time since the 2012 election. 
 
 President Barack Obama and his vanquished Republican challenger, Mitt Romney, sat down for lunch at the White House on Thursday as they sought to put their bitterly fought presidential campaign behind them and make a show of political harmony.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/11/29/us-usa-obama-romney-idUSBRE8AS19820121129)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121129&t=2&i=679530372&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8AS1K0000)
+1. [Reuters](https://www.reuters.com/article/2012/11/29/us-usa-obama-romney-idUSBRE8AS19820121129)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20121129&t=2&i=679530372&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8AS1K0000)
 
 ### Related:
 

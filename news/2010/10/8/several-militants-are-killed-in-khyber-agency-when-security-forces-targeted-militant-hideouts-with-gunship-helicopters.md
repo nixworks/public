@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/8/several-militants-are-killed-in-khyber-agency-when-security-forces-targeted-militant-hideouts-with-gunship-helicopters.html)  [JSON](/news/2010/10/8/several-militants-are-killed-in-khyber-agency-when-security-forces-targeted-militant-hideouts-with-gunship-helicopters.json)  [XML](/news/2010/10/8/several-militants-are-killed-in-khyber-agency-when-security-forces-targeted-militant-hideouts-with-gunship-helicopters.xml)  
+
 ### [2010-10-8](/news/2010/10/8/index.md)
 
+##### Khyber Agency
 # Several militants are killed in Khyber Agency when security forces targeted militant hideouts with gunship helicopters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/03-gunship-helicopters-target-militants-in-barra-ss-02)
 2. [Tafreehmela](http://www.tafreehmela.com/pakistan-news/139253-gunship-helicopters-target-militants-barra.html)

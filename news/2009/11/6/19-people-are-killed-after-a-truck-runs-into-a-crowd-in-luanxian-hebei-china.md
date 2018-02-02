@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/6/19-people-are-killed-after-a-truck-runs-into-a-crowd-in-luanxian-hebei-china.html)  [JSON](/news/2009/11/6/19-people-are-killed-after-a-truck-runs-into-a-crowd-in-luanxian-hebei-china.json)  [XML](/news/2009/11/6/19-people-are-killed-after-a-truck-runs-into-a-crowd-in-luanxian-hebei-china.xml)  
+
 ### [2009-11-6](/news/2009/11/6/index.md)
 
+##### Luanxian
 #  19 people are killed after a truck runs into a crowd in Luanxian, Hebei, China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press Trust of India](http://www.ptinews.com/news/364226_Truck-ploughs-into-crowd-in-China--19-dead--official)
 2. [RIA Novosti](http://en.rian.ru/world/20091106/156729307.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/24/army-forces-in-colombia-kill-10-farc-rebels-in-western-choca3-department.html)  [JSON](/news/2011/03/24/army-forces-in-colombia-kill-10-farc-rebels-in-western-choca3-department.json)  [XML](/news/2011/03/24/army-forces-in-colombia-kill-10-farc-rebels-in-western-choca3-department.xml)  
+
 ### [2011-03-24](/news/2011/03/24/index.md)
 
+##### Colombia
 # Army forces in Colombia kill 10 FARC rebels in western Choco department. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://www.presstv.ir/detail/171523.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/23/unrest-in-kosovo-an-unmik-police-patrol-is-attacked-on-the-pristinaapodujevo-road-a-un-police-officer-from-ghana-is-killed-a-local-pol.html)  [JSON](/news/2004/03/23/unrest-in-kosovo-an-unmik-police-patrol-is-attacked-on-the-pristinaapodujevo-road-a-un-police-officer-from-ghana-is-killed-a-local-pol.json)  [XML](/news/2004/03/23/unrest-in-kosovo-an-unmik-police-patrol-is-attacked-on-the-pristinaapodujevo-road-a-un-police-officer-from-ghana-is-killed-a-local-pol.xml)  
+
 ### [2004-03-23](/news/2004/03/23/index.md)
 
+##### Unrest in Kosovo
 #  Unrest in Kosovo: an UNMIK police patrol is attacked on the Pristina-Podujevo road. A UN police officer from Ghana is killed, a local police officer later dies of his wounds, and their translator is also wounded but in stable condition. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kosovo.net](http://www.kosovo.net/?q=node/view/12)
 

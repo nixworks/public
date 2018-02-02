@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/20/madagascar-s-former-president-marc-ravalomanana-says-he-will-return-to-the-country-after-three-years-in-exile.html)  [JSON](/news/2012/01/20/madagascar-s-former-president-marc-ravalomanana-says-he-will-return-to-the-country-after-three-years-in-exile.json)  [XML](/news/2012/01/20/madagascar-s-former-president-marc-ravalomanana-says-he-will-return-to-the-country-after-three-years-in-exile.xml)  
+
 ### [2012-01-20](/news/2012/01/20/index.md)
 
+##### Madagascar
 # Madagascar's former President Marc Ravalomanana says he will return to the country after three years in exile. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/01/201212014424800652.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/20/2012120144753407734_20.jpg)

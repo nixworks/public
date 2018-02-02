@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/24/boko-haram-captures-the-northeastern-nigerian-town-of-damasak-killing-50-and-forcing-more-than-3-000-to-flee-across-the-border-into-niger.html)  [JSON](/news/2014/11/24/boko-haram-captures-the-northeastern-nigerian-town-of-damasak-killing-50-and-forcing-more-than-3-000-to-flee-across-the-border-into-niger.json)  [XML](/news/2014/11/24/boko-haram-captures-the-northeastern-nigerian-town-of-damasak-killing-50-and-forcing-more-than-3-000-to-flee-across-the-border-into-niger.xml)  
+
 ### [2014-11-24](/news/2014/11/24/index.md)
 
+##### Boko Haram
 # Boko Haram captures the northeastern Nigerian town of Damasak, killing 50 and forcing more than 3,000 to flee across the border into Niger. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [UNHCR](http://www.unhcr.org/5478554a6.html)
 1. [Cover Image](http://www.unhcr.org/thumb1/54784ab36.jpg)

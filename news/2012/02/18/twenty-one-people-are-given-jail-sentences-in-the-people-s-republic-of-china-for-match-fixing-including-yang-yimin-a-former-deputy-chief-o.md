@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/18/twenty-one-people-are-given-jail-sentences-in-the-people-s-republic-of-china-for-match-fixing-including-yang-yimin-a-former-deputy-chief-o.html)  [JSON](/news/2012/02/18/twenty-one-people-are-given-jail-sentences-in-the-people-s-republic-of-china-for-match-fixing-including-yang-yimin-a-former-deputy-chief-o.json)  [XML](/news/2012/02/18/twenty-one-people-are-given-jail-sentences-in-the-people-s-republic-of-china-for-match-fixing-including-yang-yimin-a-former-deputy-chief-o.xml)  
+
 ### [2012-02-18](/news/2012/02/18/index.md)
 
+##### China
 # Twenty one people are given jail sentences in the People's Republic of China for match fixing, including Yang Yimin, a former deputy chief of the Chinese Football Association. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''Times of India](http://timesofindia.indiatimes.com/sports9/football/top-stories/21-sentenced-for-match-fixing-and-corruption-in-China/articleshow/11936216.cms)
 

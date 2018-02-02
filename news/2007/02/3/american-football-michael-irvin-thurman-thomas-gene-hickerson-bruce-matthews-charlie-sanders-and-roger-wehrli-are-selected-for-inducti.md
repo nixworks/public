@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/3/american-football-michael-irvin-thurman-thomas-gene-hickerson-bruce-matthews-charlie-sanders-and-roger-wehrli-are-selected-for-inducti.html)  [JSON](/news/2007/02/3/american-football-michael-irvin-thurman-thomas-gene-hickerson-bruce-matthews-charlie-sanders-and-roger-wehrli-are-selected-for-inducti.json)  [XML](/news/2007/02/3/american-football-michael-irvin-thurman-thomas-gene-hickerson-bruce-matthews-charlie-sanders-and-roger-wehrli-are-selected-for-inducti.xml)  
+
 ### [2007-02-3](/news/2007/02/3/index.md)
 
+##### American football
 #  American football: Michael Irvin, Thurman Thomas, Gene Hickerson, Bruce Matthews, Charlie Sanders and Roger Wehrli are selected for induction into the Pro Football Hall of Fame. 
 
 Gene Hickerson, Michael Irvin, Bruce Matthews, Charlie Sanders, Thurman Thomas and Roger Wehrli were voted into the Pro Football Hall of Fame on Saturday.
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://sports.espn.go.com/nfl/news/story?id=2753109)
 1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)

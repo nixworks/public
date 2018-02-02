@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/5/pakistani-nuclear-scientist-abdul-qadeer-khan-publicly-admits-illegally-transferring-nuclear-secrets-to-iran-libya-and-north-korea-follow.html)  [JSON](/news/2004/02/5/pakistani-nuclear-scientist-abdul-qadeer-khan-publicly-admits-illegally-transferring-nuclear-secrets-to-iran-libya-and-north-korea-follow.json)  [XML](/news/2004/02/5/pakistani-nuclear-scientist-abdul-qadeer-khan-publicly-admits-illegally-transferring-nuclear-secrets-to-iran-libya-and-north-korea-follow.xml)  
+
 ### [2004-02-5](/news/2004/02/5/index.md)
 
+##### nuclear
 #  Pakistani nuclear scientist Abdul Qadeer Khan publicly admits illegally transferring nuclear secrets to Iran, Libya and North Korea. Following a written apology from Khan, President Pervez Musharraf issues a formal pardon.
 
 

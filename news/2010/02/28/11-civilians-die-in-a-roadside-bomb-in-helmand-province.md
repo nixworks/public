@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/28/11-civilians-die-in-a-roadside-bomb-in-helmand-province.html)  [JSON](/news/2010/02/28/11-civilians-die-in-a-roadside-bomb-in-helmand-province.json)  [XML](/news/2010/02/28/11-civilians-die-in-a-roadside-bomb-in-helmand-province.xml)  
+
 ### [2010-02-28](/news/2010/02/28/index.md)
 
+##### Helmand Province
 # 11 civilians die in a roadside bomb in Helmand Province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/02/2010228133831513930.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8541790.stm)

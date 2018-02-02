@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/29/a-wildfire-worsens-near-major-u-s-nuclear-weapons-research-lab-los-alamos-national-laboratory-in-the-u-s-state-of-new-mexico-residents-ex.html)  [JSON](/news/2011/06/29/a-wildfire-worsens-near-major-u-s-nuclear-weapons-research-lab-los-alamos-national-laboratory-in-the-u-s-state-of-new-mexico-residents-ex.json)  [XML](/news/2011/06/29/a-wildfire-worsens-near-major-u-s-nuclear-weapons-research-lab-los-alamos-national-laboratory-in-the-u-s-state-of-new-mexico-residents-ex.xml)  
+
 ### [2011-06-29](/news/2011/06/29/index.md)
 
+##### wildfire worsens
 # A wildfire worsens near major U.S. nuclear weapons research lab Los Alamos National Laboratory in the U.S. state of New Mexico; residents express concern about contamination. 
 
 Hundreds more firefighters are being deployed to help battle a growing wildfire near a top US nuclear weapons research lab in New Mexico.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13963361)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53761000/jpg/_53761582_53761581.jpg)

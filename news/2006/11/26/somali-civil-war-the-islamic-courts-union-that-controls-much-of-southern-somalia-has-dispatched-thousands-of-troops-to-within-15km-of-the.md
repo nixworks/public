@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/26/somali-civil-war-the-islamic-courts-union-that-controls-much-of-southern-somalia-has-dispatched-thousands-of-troops-to-within-15km-of-the.html)  [JSON](/news/2006/11/26/somali-civil-war-the-islamic-courts-union-that-controls-much-of-southern-somalia-has-dispatched-thousands-of-troops-to-within-15km-of-the.json)  [XML](/news/2006/11/26/somali-civil-war-the-islamic-courts-union-that-controls-much-of-southern-somalia-has-dispatched-thousands-of-troops-to-within-15km-of-the.xml)  
+
 ### [2006-11-26](/news/2006/11/26/index.md)
 
+##### Somali Civil War
 #  Somali Civil War: The Islamic Courts Union that controls much of southern Somalia has dispatched thousands of troops to within 15km of the border with Ethiopia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/93610CD3-7187-4853-8EE7-EB96D0F07001.htm)
 

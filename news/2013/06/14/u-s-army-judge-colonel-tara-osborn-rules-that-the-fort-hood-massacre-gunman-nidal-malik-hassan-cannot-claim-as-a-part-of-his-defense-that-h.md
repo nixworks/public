@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/14/u-s-army-judge-colonel-tara-osborn-rules-that-the-fort-hood-massacre-gunman-nidal-malik-hassan-cannot-claim-as-a-part-of-his-defense-that-h.html)  [JSON](/news/2013/06/14/u-s-army-judge-colonel-tara-osborn-rules-that-the-fort-hood-massacre-gunman-nidal-malik-hassan-cannot-claim-as-a-part-of-his-defense-that-h.json)  [XML](/news/2013/06/14/u-s-army-judge-colonel-tara-osborn-rules-that-the-fort-hood-massacre-gunman-nidal-malik-hassan-cannot-claim-as-a-part-of-his-defense-that-h.xml)  
+
 ### [2013-06-14](/news/2013/06/14/index.md)
 
+##### U.S. Army
 # U.S. Army Judge Colonel Tara Osborn rules that the Fort Hood Massacre gunman Nidal Malik Hassan cannot claim as a part of his defense that he was defending the Taliban. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://usnews.nbcnews.com/_news/2013/06/14/18960053-fort-hood-gunman-nidal-hasan-banned-from-arguing-he-was-defending-the-taliban)
 

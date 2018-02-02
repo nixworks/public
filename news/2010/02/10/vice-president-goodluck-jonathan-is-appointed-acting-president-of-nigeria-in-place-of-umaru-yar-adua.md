@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/10/vice-president-goodluck-jonathan-is-appointed-acting-president-of-nigeria-in-place-of-umaru-yar-adua.html)  [JSON](/news/2010/02/10/vice-president-goodluck-jonathan-is-appointed-acting-president-of-nigeria-in-place-of-umaru-yar-adua.json)  [XML](/news/2010/02/10/vice-president-goodluck-jonathan-is-appointed-acting-president-of-nigeria-in-place-of-umaru-yar-adua.xml)  
+
 ### [2010-02-10](/news/2010/02/10/index.md)
 
+##### Goodluck Jonathan
 # Vice President Goodluck Jonathan is appointed acting President of Nigeria in place of Umaru Yar'Adua. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica.com](http://allafrica.com/stories/201002100194.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8507289.stm)

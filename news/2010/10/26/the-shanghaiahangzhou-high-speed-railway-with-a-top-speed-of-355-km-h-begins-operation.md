@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/26/the-shanghaiahangzhou-high-speed-railway-with-a-top-speed-of-355-km-h-begins-operation.html)  [JSON](/news/2010/10/26/the-shanghaiahangzhou-high-speed-railway-with-a-top-speed-of-355-km-h-begins-operation.json)  [XML](/news/2010/10/26/the-shanghaiahangzhou-high-speed-railway-with-a-top-speed-of-355-km-h-begins-operation.xml)  
+
 ### [2010-10-26](/news/2010/10/26/index.md)
 
+##### Shanghai-Hangzhou High-Speed Railway
 # The Shanghai-Hangzhou High-Speed Railway, with a top speed of 355 km-h begins operation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNR](http://www.cnr.cn/newscenter/xwtz/201010/t20101026_507224157.html#javascript_intro)
 2. [Global Times](http://china.globaltimes.cn/society/2010-10/585860.html)

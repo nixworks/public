@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/21/george-osborne-delivers-the-2012-british-budget-cutting-the-top-rate-of-income-tax.html)  [JSON](/news/2012/03/21/george-osborne-delivers-the-2012-british-budget-cutting-the-top-rate-of-income-tax.json)  [XML](/news/2012/03/21/george-osborne-delivers-the-2012-british-budget-cutting-the-top-rate-of-income-tax.xml)  
+
 ### [2012-03-21](/news/2012/03/21/index.md)
 
+##### George Osborne
 # George Osborne delivers the 2012 British budget cutting the top rate of income tax. 
 
 British finance minister George Osborne on Wednesday used his annual budget to cut the top rate of income tax while pledging an &#034;unwavering commitment&#034; to slashing debt.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/business/world-business/britain-cuts-top-income-tax-rate-in-annual-budget-20120322-1vkr2.html)
 2. [The Guardian](http://www.guardian.co.uk/politics/blog/2012/mar/21/budget-2012-live-george-osborne-speech)

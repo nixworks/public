@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/29/2011-egyptian-revolution-egyptian-security-forces-storm-the-offices-of-non-governmental-organisations-across-the-country.html)  [JSON](/news/2011/12/29/2011-egyptian-revolution-egyptian-security-forces-storm-the-offices-of-non-governmental-organisations-across-the-country.json)  [XML](/news/2011/12/29/2011-egyptian-revolution-egyptian-security-forces-storm-the-offices-of-non-governmental-organisations-across-the-country.xml)  
+
 ### [2011-12-29](/news/2011/12/29/index.md)
 
+##### 2011 Egyptian revolution
 # 2011 Egyptian revolution: Egyptian security forces storm the offices of non-governmental organisations across the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2011/12/20111229152611424630.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/29/20111229161018391734_20.jpg)

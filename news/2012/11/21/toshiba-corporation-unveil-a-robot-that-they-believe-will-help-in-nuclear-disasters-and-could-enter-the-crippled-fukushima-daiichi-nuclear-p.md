@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/21/toshiba-corporation-unveil-a-robot-that-they-believe-will-help-in-nuclear-disasters-and-could-enter-the-crippled-fukushima-daiichi-nuclear-p.html)  [JSON](/news/2012/11/21/toshiba-corporation-unveil-a-robot-that-they-believe-will-help-in-nuclear-disasters-and-could-enter-the-crippled-fukushima-daiichi-nuclear-p.json)  [XML](/news/2012/11/21/toshiba-corporation-unveil-a-robot-that-they-believe-will-help-in-nuclear-disasters-and-could-enter-the-crippled-fukushima-daiichi-nuclear-p.xml)  
+
 ### [2012-11-21](/news/2012/11/21/index.md)
 
+##### Toshiba Corporation
 # Toshiba Corporation unveil a robot that they believe will help in nuclear disasters and could enter the crippled Fukushima Daiichi Nuclear Power Plant damaged during the Fukushima Daiichi nuclear disaster. 
 
 THE robot which can withstand high radiation, can be controlled via a wireless network and is able to climb over debris.
 
 
-### Source:
+### Sources:
 
 1. [Daily Record](http://www.dailyrecord.co.uk/news/science-technology/toshiba-unveil-robot-1448363)
 1. [Cover Image](http://i1.dailyrecord.co.uk/incoming/article1448365.ece/ALTERNATES/s1200/robot)

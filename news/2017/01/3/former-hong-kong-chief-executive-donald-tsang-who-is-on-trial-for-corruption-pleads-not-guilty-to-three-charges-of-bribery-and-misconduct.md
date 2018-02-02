@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/3/former-hong-kong-chief-executive-donald-tsang-wh
 
 ### [2017-01-3](/news/2017/01/3/index.md)
 
+##### Hong Kong
 # Former Hong Kong Chief Executive Donald Tsang, who is on trial for corruption, pleads not guilty to three charges of bribery and misconduct relating to a penthouse he leased in Shenzhen. 
 
 HONG KONG (AFP, REUTERS) – Hong Kong’s former leader Donald Tsang, who ended his term in disgrace after accepting favours from tycoons, pleaded not guilty to bribery charges on Tuesday (Jan 3) at his high-profile corruption trial.. Read more at straitstimes.com.

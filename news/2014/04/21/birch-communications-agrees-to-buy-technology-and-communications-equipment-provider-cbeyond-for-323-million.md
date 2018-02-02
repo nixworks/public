@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/04/21/birch-communications-agrees-to-buy-technology-and-communications-equipment-provider-cbeyond-for-323-million.html)  [JSON](/news/2014/04/21/birch-communications-agrees-to-buy-technology-and-communications-equipment-provider-cbeyond-for-323-million.json)  [XML](/news/2014/04/21/birch-communications-agrees-to-buy-technology-and-communications-equipment-provider-cbeyond-for-323-million.xml)  
+
 ### [2014-04-21](/news/2014/04/21/index.md)
 
+##### Cbeyond
 # Birch Communications agrees to buy technology and communications equipment provider Cbeyond for $323 million. 
 
 ATLANTA (AP) — Birch Communications Inc. is buying technology and communications equipment provider Cbeyond for about $323 million.
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/birch-communications-buying-cbeyond-323m-131534286--finance.html)
+1. [AP via Yahoo! News](https://news.yahoo.com/birch-communications-buying-cbeyond-323m-131534286--finance.html)
 1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:

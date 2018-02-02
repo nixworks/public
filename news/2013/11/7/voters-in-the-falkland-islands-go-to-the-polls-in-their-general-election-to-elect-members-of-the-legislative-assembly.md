@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/7/voters-in-the-falkland-islands-go-to-the-polls-in-their-general-election-to-elect-members-of-the-legislative-assembly.html)  [JSON](/news/2013/11/7/voters-in-the-falkland-islands-go-to-the-polls-in-their-general-election-to-elect-members-of-the-legislative-assembly.json)  [XML](/news/2013/11/7/voters-in-the-falkland-islands-go-to-the-polls-in-their-general-election-to-elect-members-of-the-legislative-assembly.xml)  
+
 ### [2013-11-7](/news/2013/11/7/index.md)
 
+##### Falkland Islands
 # Voters in the Falkland Islands go to the polls in their general election to elect members of the Legislative Assembly. 
 
 Residents of the South Atlantic archipelago elect eight members to the Legislative Assembly who will be full-time and salaried for the first time
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/falklandislands/10434850/Falkland-Islanders-elect-new-legislature.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02178/welcome_2178789k.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/2/scotland-yard-detectives-who-went-to-jamaica-to-probe-bob-woolmer-s-death-come-to-the-verdict-of-the-murder-investigation-saying-that-bob.html)  [JSON](/news/2007/06/2/scotland-yard-detectives-who-went-to-jamaica-to-probe-bob-woolmer-s-death-come-to-the-verdict-of-the-murder-investigation-saying-that-bob.json)  [XML](/news/2007/06/2/scotland-yard-detectives-who-went-to-jamaica-to-probe-bob-woolmer-s-death-come-to-the-verdict-of-the-murder-investigation-saying-that-bob.xml)  
+
 ### [2007-06-2](/news/2007/06/2/index.md)
 
+##### Scotland Yard detectives
 #  Scotland Yard detectives who went to Jamaica to probe Bob Woolmer's death come to the verdict of the murder investigation, saying that Bob Woolmer died of heart failure and was not murdered. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6714545.stm)
 2. [FOX](http://www.foxsports.com.au/story/0,8659,21837659-23212,00.html)

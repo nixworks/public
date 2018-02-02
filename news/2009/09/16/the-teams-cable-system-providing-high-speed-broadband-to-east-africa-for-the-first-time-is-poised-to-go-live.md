@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/16/the-teams-cable-system-providing-high-speed-broadband-to-east-africa-for-the-first-time-is-poised-to-go-live.html)  [JSON](/news/2009/09/16/the-teams-cable-system-providing-high-speed-broadband-to-east-africa-for-the-first-time-is-poised-to-go-live.json)  [XML](/news/2009/09/16/the-teams-cable-system-providing-high-speed-broadband-to-east-africa-for-the-first-time-is-poised-to-go-live.xml)  
+
 ### [2009-09-16](/news/2009/09/16/index.md)
 
+##### TEAMS
 #  The TEAMS cable system, providing high speed broadband to East Africa for the first time, is poised to go live. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/technology/8257038.stm)
 

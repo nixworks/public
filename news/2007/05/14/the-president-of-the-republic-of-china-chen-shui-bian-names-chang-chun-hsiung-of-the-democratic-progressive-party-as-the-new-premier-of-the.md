@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/14/the-president-of-the-republic-of-china-chen-shui-bian-names-chang-chun-hsiung-of-the-democratic-progressive-party-as-the-new-premier-of-the.html)  [JSON](/news/2007/05/14/the-president-of-the-republic-of-china-chen-shui-bian-names-chang-chun-hsiung-of-the-democratic-progressive-party-as-the-new-premier-of-the.json)  [XML](/news/2007/05/14/the-president-of-the-republic-of-china-chen-shui-bian-names-chang-chun-hsiung-of-the-democratic-progressive-party-as-the-new-premier-of-the.xml)  
+
 ### [2007-05-14](/news/2007/05/14/index.md)
 
+##### President
 #  The President of the Republic of China Chen Shui-bian names Chang Chun-hsiung of the Democratic Progressive Party as the new Premier of the Republic of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6652741.stm)
 

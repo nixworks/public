@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/05/26/more-than-80-students-are-sickened-in-a-girls-school-in-kunduz-afghanistan-in-a-poison-gas-attack-suspected-to-have-been-carried-out-by-t.html)  [JSON](/news/2010/05/26/more-than-80-students-are-sickened-in-a-girls-school-in-kunduz-afghanistan-in-a-poison-gas-attack-suspected-to-have-been-carried-out-by-t.json)  [XML](/news/2010/05/26/more-than-80-students-are-sickened-in-a-girls-school-in-kunduz-afghanistan-in-a-poison-gas-attack-suspected-to-have-been-carried-out-by-t.xml)  
+
 ### [2010-05-26](/news/2010/05/26/index.md)
 
+##### Kunduz
 # More than 80 students are sickened in a girls' school in Kunduz, Afghanistan, in a poison gas attack suspected to have been carried out by Taliban assailants whose version of Islam is opposed to girls being educated.
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/news/world/afghanistan/2010-05-27-afghanistan-girls_N.htm)
+1. [USA Today](https://www.usatoday.com/news/world/afghanistan/2010-05-27-afghanistan-girls_N.htm)
 
 ### Related:
 

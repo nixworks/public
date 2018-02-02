@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/10/london-s-metropolitan-police-launches-its-14th-investigation-into-alleged-police-racism-in-six-weeks.html)  [JSON](/news/2012/05/10/london-s-metropolitan-police-launches-its-14th-investigation-into-alleged-police-racism-in-six-weeks.json)  [XML](/news/2012/05/10/london-s-metropolitan-police-launches-its-14th-investigation-into-alleged-police-racism-in-six-weeks.xml)  
+
 ### [2012-05-10](/news/2012/05/10/index.md)
 
+##### London
 # London's Metropolitan Police launches its 14th investigation into alleged police racism in six weeks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/uk/2012/may/10/police-suspend-sergeant-racism-allegations)
 

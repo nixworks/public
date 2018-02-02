@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/09/17/nearly-180-people-are-killed-in-south-sudan-after-an-oil-tanker-truck-veers-off-the-road-and-explodes.html)  [JSON](/news/2015/09/17/nearly-180-people-are-killed-in-south-sudan-after-an-oil-tanker-truck-veers-off-the-road-and-explodes.json)  [XML](/news/2015/09/17/nearly-180-people-are-killed-in-south-sudan-after-an-oil-tanker-truck-veers-off-the-road-and-explodes.xml)  
+
 ### [2015-09-17](/news/2015/09/17/index.md)
 
+##### South Sudan
 # Nearly 180 people are killed in South Sudan after an oil tanker truck veers off the road and explodes. 
 
 More than 100 people have been killed in South Sudan after an oil tanker veered off the road and exploded as people were siphoning fuel, a presidential spokesperson said. Around 50 others have been seriously injured.
 
 
-### Source:
+### Sources:
 
 1. [RT](http://www.rt.com/news/315721-oil-tanker-south-sudan/)
-2. [The Independent](http://www.independent.co.uk/news/world/africa/85-reported-dead-afte-fuel-tank-explosion-in-south-sudan-live-10505698.html)
+2. [The Independent](https://www.independent.co.uk/news/world/africa/85-reported-dead-afte-fuel-tank-explosion-in-south-sudan-live-10505698.html)
 3. [Voice of America](http://www.voanews.com/content/south-sudan-fuel-truck-accident-176-killed/2967902.html)
 3. [Cover Image](https://img.rt.com/files/2015.09/article/55fab131c46188ca198b45b8.jpg)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/11/an-apartment-building-explosion-in-silver-sprin
 
 ### [2016-08-11](/news/2016/08/11/index.md)
 
+##### Silver Spring, Maryland
 # An apartment building explosion in Silver Spring, Maryland, kills at least two and injures 34, with five to seven people missing. The blast has displaced more than 90 residents. Fire and rescue responded to "a smell of gas" on July 25. The cause of the explosion is being investigated. 
 
 Thirty-one residents were taken to hospital and up to seven more were missing after an explosion ripped through an apartment building in Maryland.

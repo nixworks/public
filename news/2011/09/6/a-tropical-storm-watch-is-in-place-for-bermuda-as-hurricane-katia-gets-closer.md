@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/6/a-tropical-storm-watch-is-in-place-for-bermuda-as-hurricane-katia-gets-closer.html)  [JSON](/news/2011/09/6/a-tropical-storm-watch-is-in-place-for-bermuda-as-hurricane-katia-gets-closer.json)  [XML](/news/2011/09/6/a-tropical-storm-watch-is-in-place-for-bermuda-as-hurricane-katia-gets-closer.xml)  
+
 ### [2011-09-6](/news/2011/09/6/index.md)
 
+##### tropical storm
 # A tropical storm watch is in place for Bermuda as Hurricane Katia gets closer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [National Hurricane Centre](http://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/062350.shtml)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/11/hassan-nasrallah-the-secretary-general-of-hezbo
 
 ### [2017-12-11](/news/2017/12/11/index.md)
 
+##### Hezbollah political activities
 # Hassan Nasrallah, the Secretary-General of Hezbollah, vows to return to Israel. Tens of thousands of people demonstrate in South Beirut. 
 
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/25/shariah-an-islamic-appeals-court-in-northern-nigeria-has-acquitted-single-mother-amina-lawal-a-shariah-court-had-sentenced-her-to-death-b.html)  [JSON](/news/2003/09/25/shariah-an-islamic-appeals-court-in-northern-nigeria-has-acquitted-single-mother-amina-lawal-a-shariah-court-had-sentenced-her-to-death-b.json)  [XML](/news/2003/09/25/shariah-an-islamic-appeals-court-in-northern-nigeria-has-acquitted-single-mother-amina-lawal-a-shariah-court-had-sentenced-her-to-death-b.xml)  
+
 ### [2003-09-25](/news/2003/09/25/index.md)
 
+##### Islamic
 #  Shariah: An Islamic appeals court in northern Nigeria has acquitted single mother Amina Lawal. A Shariah court had sentenced her to death by stoning for adultery, but a five-judge panel rejected her March 2002 conviction under Shariah saying she was not given "ample opportunity to defend herself".
 
 

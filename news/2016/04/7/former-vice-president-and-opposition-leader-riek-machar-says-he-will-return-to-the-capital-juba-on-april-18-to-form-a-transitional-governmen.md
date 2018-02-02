@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/7/former-vice-president-and-opposition-leader-riek
 
 ### [2016-04-7](/news/2016/04/7/index.md)
 
+##### South Sudanese Civil War
 # Former Vice President and opposition leader Riek Machar says he will return to the capital Juba on April 18 to form a transitional government with President Salva Kiir Mayardit in the hopes of bringing peace to South Sudan after their acrimonious split ignited more than two years of war. 
 
 Former vice president says he will arrive in Juba to form transitional government with rival after two years of war.

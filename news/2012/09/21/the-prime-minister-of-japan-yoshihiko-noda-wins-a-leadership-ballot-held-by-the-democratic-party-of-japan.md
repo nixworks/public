@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/21/the-prime-minister-of-japan-yoshihiko-noda-wins-a-leadership-ballot-held-by-the-democratic-party-of-japan.html)  [JSON](/news/2012/09/21/the-prime-minister-of-japan-yoshihiko-noda-wins-a-leadership-ballot-held-by-the-democratic-party-of-japan.json)  [XML](/news/2012/09/21/the-prime-minister-of-japan-yoshihiko-noda-wins-a-leadership-ballot-held-by-the-democratic-party-of-japan.xml)  
+
 ### [2012-09-21](/news/2012/09/21/index.md)
 
+##### Prime Minister of Japan
 # The Prime Minister of Japan, Yoshihiko Noda, wins a leadership ballot held by the Democratic Party of Japan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19671353)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63026000/jpg/_63026339_016035915-1.jpg)

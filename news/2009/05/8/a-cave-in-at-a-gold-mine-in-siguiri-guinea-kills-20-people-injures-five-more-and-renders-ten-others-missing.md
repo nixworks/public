@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/8/a-cave-in-at-a-gold-mine-in-siguiri-guinea-kills-20-people-injures-five-more-and-renders-ten-others-missing.html)  [JSON](/news/2009/05/8/a-cave-in-at-a-gold-mine-in-siguiri-guinea-kills-20-people-injures-five-more-and-renders-ten-others-missing.json)  [XML](/news/2009/05/8/a-cave-in-at-a-gold-mine-in-siguiri-guinea-kills-20-people-injures-five-more-and-renders-ten-others-missing.xml)  
+
 ### [2009-05-8](/news/2009/05/8/index.md)
 
+##### cave-in
 #  A cave-in at a gold mine in Siguiri, Guinea, kills 20 people, injures five more, and renders ten others missing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8039564.stm)
 

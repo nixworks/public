@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/24/iranian-forces-launch-a-military-exercise-near-
 
 ### [2017-09-24](/news/2017/09/24/index.md)
 
+##### Foreign relations of Iraqi Kurdistan
 # Iranian forces launch a military exercise near the border of Iraqi Kurdistan, hours before a Kurdish vote on independence from Iraq. Turkey is also conducting a military exercise in the region. 
 
 Iraq on Sunday urged foreign countries to stop importing crude directly from its autonomous Kurdistan region and to restrict oil trading to the central government.

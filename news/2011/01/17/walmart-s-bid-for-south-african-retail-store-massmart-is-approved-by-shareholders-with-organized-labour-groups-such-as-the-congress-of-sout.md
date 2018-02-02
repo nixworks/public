@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2011/01/17/walmart-s-bid-for-south-african-retail-store-massmart-is-approved-by-shareholders-with-organized-labour-groups-such-as-the-congress-of-sout.html)  [JSON](/news/2011/01/17/walmart-s-bid-for-south-african-retail-store-massmart-is-approved-by-shareholders-with-organized-labour-groups-such-as-the-congress-of-sout.json)  [XML](/news/2011/01/17/walmart-s-bid-for-south-african-retail-store-massmart-is-approved-by-shareholders-with-organized-labour-groups-such-as-the-congress-of-sout.xml)  
+
 ### [2011-01-17](/news/2011/01/17/index.md)
 
+##### Walmart
 # Walmart's bid for South African retail store Massmart is approved by shareholders, with organized labour groups such as the Congress of South African Trade Unions threatening boycotts against the store.
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE70G2LC20110117?loomia_ow=t0:s0:a49:g43:r2:c0.090123:b41053584:z0)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/idUSTRE70G2LC20110117?loomia_ow=t0:s0:a49:g43:r2:c0.090123:b41053584:z0)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
 1. [ South African President Jacob Zuma admits disagreements do exist between the ANC and the trade union federation (COSATU)&mdash;one of its main political partners. ](/news/2009/09/21/south-african-president-jacob-zuma-admits-disagreements-do-exist-between-the-anc-and-the-trade-union-federation-cosatu-mdash-one-of-its-m.md) _Context: Congress of South African Trade Unions, South Africa_
 2. [ South Africa's Congress of South African Trade Unions (Cosatu) has organized a nationwide strike to protest job losses and unemployment. ](/news/2005/06/27/south-africa-s-congress-of-south-african-trade-unions-cosatu-has-organized-a-nationwide-strike-to-protest-job-losses-and-unemployment.md) _Context: Congress of South African Trade Unions, South Africa_
-3. [Two people die and 17 others are injured in a stampede at the First National Bank Stadium in Soweto, near Johannesburg, South Africa, during a soccer match between Orlando Pirates and Kaizer Chiefs. ](/news/2017/07/29/two-people-die-and-17-others-are-injured-in-a-stampede-at-the-first-national-bank-stadium-in-soweto-near-johannesburg-south-africa-during.md) _Context: South Africa_
-4. [Nine men are found dead inside a tractor-trailer parked outside a Walmart store in the American city of San Antonio, Texas, in what authorities call a case of "ruthless" human trafficking. Thirty people, many in critical condition and suffering from heat stroke and exhaustion, were removed from the non-air conditioned trailer which also lacked a water supply. ](/news/2017/07/23/nine-men-are-found-dead-inside-a-tractor-trailer-parked-outside-a-walmart-store-in-the-american-city-of-san-antonio-texas-in-what-authorit.md) _Context: Walmart_
-5. [ Up to 10,000 people have been evacuated from Knysna Local Municipality on Garden Route in South Africa after wildfire destroyed 150 homes. The Wildfire is connected to the worst windstorm in 30 years, which already killed at least 8 people in Cape Town. [http:--www.bbc.com-news-world-africa-40199270 (BBC)], [https:--www.enca.com-south-africa-knysna-toddler-dies-on-birthday (ENCA)], [https:--www.rte.ie-news-world-2017-0608-881071-south_africa- (RTE)], [http:--www.aljazeera.com-news-2017-06-storm-kills-displaces-thousands-cape-town-170608052748704.html (Al Jazeera)], [https:--www.nytimes.com-2017-06-07-world-africa-south-africa-cape-town-storm-fires.html "(The New York Times)"]](/news/2017/06/8/up-to-10-000-people-have-been-evacuated-from-knysna-local-municipality-on-garden-route-in-south-africa-after-wildfire-destroyed-150-homes.md) _Context: South Africa_
+3. [A Shosholoza train collides with a vehicle at a crossing near Kroonstad in the Free State, South Africa, killing 19 and injuring at least 100 people. ](/news/2018/01/4/a-shosholoza-train-collides-with-a-vehicle-at-a-crossing-near-kroonstad-in-the-free-state-south-africa-killing-19-and-injuring-at-least-10.md) _Context: South Africa_
+4. [Walmart announces that it will increase the minimum wage for its U.S. employees to $11 per hour and close 50 Sam's Club stores. ](/news/2018/01/11/walmart-announces-that-it-will-increase-the-minimum-wage-for-its-u-s-employees-to-11-per-hour-and-close-50-sam-s-club-stores.md) _Context: Walmart_
+5. [A gunman opens fire in a Walmart in Thornton, Colorado, killing three people. ](/news/2017/11/1/a-gunman-opens-fire-in-a-walmart-in-thornton-colorado-killing-three-people.md) _Context: Walmart_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/29/umaru-yar-adua-assumes-office-as-the-president-of-nigeria.html)  [JSON](/news/2007/05/29/umaru-yar-adua-assumes-office-as-the-president-of-nigeria.json)  [XML](/news/2007/05/29/umaru-yar-adua-assumes-office-as-the-president-of-nigeria.xml)  
+
 ### [2007-05-29](/news/2007/05/29/index.md)
 
+##### Umaru Yar'Adua
 #  Umaru Yar'Adua assumes office as the President of Nigeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via International Herald Tribune](http://www.iht.com/articles/ap/2007/05/29/africa/AF-GEN-Nigeria.php)
 

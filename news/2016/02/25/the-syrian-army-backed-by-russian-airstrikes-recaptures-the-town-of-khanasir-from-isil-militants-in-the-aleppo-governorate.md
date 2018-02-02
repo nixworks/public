@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/25/the-syrian-army-backed-by-russian-airstrikes-re
 
 ### [2016-02-25](/news/2016/02/25/index.md)
 
+##### Syrian Civil War
 # The Syrian Army, backed by Russian airstrikes, recaptures the town of Khanasir from ISIL militants in the Aleppo Governorate. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

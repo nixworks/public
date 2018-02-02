@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/31/exiled-gam-leader-bakhtiar-abdullah-visits-the-indonesian-special-territory-of-aceh-for-the-first-time-in-25-years-to-see-the-peace-proce.html)  [JSON](/news/2005/10/31/exiled-gam-leader-bakhtiar-abdullah-visits-the-indonesian-special-territory-of-aceh-for-the-first-time-in-25-years-to-see-the-peace-proce.json)  [XML](/news/2005/10/31/exiled-gam-leader-bakhtiar-abdullah-visits-the-indonesian-special-territory-of-aceh-for-the-first-time-in-25-years-to-see-the-peace-proce.xml)  
+
 ### [2005-10-31](/news/2005/10/31/index.md)
 
+##### GAM
 #  Exiled GAM leader, Bakhtiar Abdullah, visits the Indonesian special territory of Aceh for the first time in 25 years to see the peace process aimed at ending nearly three decades of conflict. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4393384.stm)
 

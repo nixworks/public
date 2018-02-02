@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/8/bt-group-and-talktalk-group-announce-they-are-seeking-a-judicial-review-of-the-digital-economy-act-2010.html)  [JSON](/news/2010/07/8/bt-group-and-talktalk-group-announce-they-are-seeking-a-judicial-review-of-the-digital-economy-act-2010.json)  [XML](/news/2010/07/8/bt-group-and-talktalk-group-announce-they-are-seeking-a-judicial-review-of-the-digital-economy-act-2010.xml)  
+
 ### [2010-07-8](/news/2010/07/8/index.md)
 
+##### BT
 # BT Group and TalkTalk Group announce they are seeking a judicial review of the Digital Economy Act 2010. 
 
 BT and TalkTalk seek a judicial review of the Digital Economy Act, saying it was rushed and could curb basic rights.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/technology/10542400.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

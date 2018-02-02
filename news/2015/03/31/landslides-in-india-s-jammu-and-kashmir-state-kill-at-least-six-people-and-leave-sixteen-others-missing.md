@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/31/landslides-in-india-s-jammu-and-kashmir-state-kill-at-least-six-people-and-leave-sixteen-others-missing.html)  [JSON](/news/2015/03/31/landslides-in-india-s-jammu-and-kashmir-state-kill-at-least-six-people-and-leave-sixteen-others-missing.json)  [XML](/news/2015/03/31/landslides-in-india-s-jammu-and-kashmir-state-kill-at-least-six-people-and-leave-sixteen-others-missing.xml)  
+
 ### [2015-03-31](/news/2015/03/31/index.md)
 
+##### India
 # Landslides in India's Jammu and Kashmir state kill at least six people and leave sixteen others missing. 
 
 At least 15 people have died in landslides following floods in Indian-administered Kashmir, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-32126716)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82021000/jpg/_82021542_82021436.jpg)

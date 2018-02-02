@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/29/the-nigerian-military-commences-bombing-militan
 
 ### [2016-07-29](/news/2016/07/29/index.md)
 
+##### Nigerian military
 # The Nigerian military commences bombing militants in Lagos and Ogun States with many militants reported dead. 
 
 

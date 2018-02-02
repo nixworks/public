@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/03/7/the-president-of-venezuela-hugo-chavez-calls-for-a-cooling-of-tensions-with-colombia-at-a-summit-of-the-rio-group-presidents-in-the-dominic.html)  [JSON](/news/2008/03/7/the-president-of-venezuela-hugo-chavez-calls-for-a-cooling-of-tensions-with-colombia-at-a-summit-of-the-rio-group-presidents-in-the-dominic.json)  [XML](/news/2008/03/7/the-president-of-venezuela-hugo-chavez-calls-for-a-cooling-of-tensions-with-colombia-at-a-summit-of-the-rio-group-presidents-in-the-dominic.xml)  
+
 ### [2008-03-7](/news/2008/03/7/index.md)
 
+##### President
 #  The President of Venezuela Hugo Chvez calls for a cooling of tensions with Colombia at a summit of the Rio Group presidents in the Dominican Republic. The Rio Group later approves a declaration aimed at reducing tensions between, Ecuador, Venezuela and Colombia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5igRW2ib_PTdNeoQNn6kOIuk8GGxQD8V8LFSO0)
-2. [The Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20080307.wcrisis0307/BNStory/International/home)
+2. [The Globe and Mail](https://www.theglobeandmail.com/servlet/story/RTGAM.20080307.wcrisis0307/BNStory/International/home)
 
 ### Related:
 

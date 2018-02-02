@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/16/the-united-kingdom-and-united-states-decide-last-year-s-release-from-a-scottish-prison-of-libyan-abdelbaset-al-megrahi-was-a-mistake.html)  [JSON](/news/2010/07/16/the-united-kingdom-and-united-states-decide-last-year-s-release-from-a-scottish-prison-of-libyan-abdelbaset-al-megrahi-was-a-mistake.json)  [XML](/news/2010/07/16/the-united-kingdom-and-united-states-decide-last-year-s-release-from-a-scottish-prison-of-libyan-abdelbaset-al-megrahi-was-a-mistake.xml)  
+
 ### [2010-07-16](/news/2010/07/16/index.md)
 
+##### British
 # The United Kingdom and United States decide last year's release from a Scottish prison of Libyan Abdelbaset al-Megrahi was "a mistake". 
 
 Release of Lockerbie convict last year should not have happened, Clinton says.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/2010716172357868278.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-scotland-10669618)
@@ -13,8 +17,8 @@ Release of Lockerbie convict last year should not have happened, Clinton says.
 
 ### Related:
 
-1. [Cardinal Keith O'Brien who leads the Catholic Church in Scotland, defends the Scottish government's decision to release Abdelbaset al-Megrahi for humanitarian reasons and attacks the United States's "culture of vengeance" for trying to coerce Scottish ministers into "crawling like lapdogs". ](/news/2010/08/8/cardinal-keith-o-brien-who-leads-the-catholic-church-in-scotland-defends-the-scottish-government-s-decision-to-release-abdelbaset-al-megrah.md) _Context: Abdelbaset al-Megrahi, Scotland, United States_
+1. [Cardinal Keith O'Brien who leads the Catholic Church in Scotland, defends the Scottish government's decision to release Abdelbaset al-Megrahi for humanitarian reasons and attacks the United States's "culture of vengeance" for trying to coerce Scottish ministers into "crawling like lapdogs". ](/news/2010/08/8/cardinal-keith-o-brien-who-leads-the-catholic-church-in-scotland-defends-the-scottish-government-s-decision-to-release-abdelbaset-al-megrah.md) _Context: Abdelbaset al-Megrahi, Scotland, U.S._
 2. [ Lawyers for the Lockerbie bomber, Abdelbaset al-Megrahi, say he is abandoning his second appeal against his conviction for the December 1988 attack as Scottish officials consider his request to be sent home to Libya. ](/news/2009/08/14/lawyers-for-the-lockerbie-bomber-abdelbaset-al-megrahi-say-he-is-abandoning-his-second-appeal-against-his-conviction-for-the-december-198.md) _Context: Abdelbaset al-Megrahi, Libya, Scotland_
-3. [Nobel Peace Laureate Liu Xiaobo, who has been incarcerated in China for organizing the pro-democracy manifesto "Charter 08," is suffering from late-stage liver cancer which is worsening. The Chinese hospital treating him and foreign doctors, who examined Liu the weekend, disagree on future treatment. Germany, the United States, UK, and other countries have appealed that Liu be allowed to go to the hospital of his choice. ](/news/2017/07/12/nobel-peace-laureate-liu-xiaobo-who-has-been-incarcerated-in-china-for-organizing-the-pro-democracy-manifesto-charter-08-is-suffering-fr.md) _Context: United Kingdom, United States_
-4. [American consumer goods company Post Holdings agrees to acquire British cereal maker Weetabix Limited from China's Bright Food for $1.8 billion. ](/news/2017/04/18/american-consumer-goods-company-post-holdings-agrees-to-acquire-british-cereal-maker-weetabix-limited-from-china-s-bright-food-for-1-8-bill.md) _Context: United Kingdom, United States_
-5. [Scotland's First Minister Nicola Sturgeon announces she will seek a second referendum on Scottish independence from the United Kingdom. ](/news/2017/03/13/scotland-s-first-minister-nicola-sturgeon-announces-she-will-seek-a-second-referendum-on-scottish-independence-from-the-united-kingdom.md) _Context: Scotland, United Kingdom_
+3. [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md) _Context: British, U.S._
+4. [British, American and German men are among a group of international volunteers who travelled to Afrin to fight against Turkish-led forces in north-west Syria. ](/news/2018/01/24/british-american-and-german-men-are-among-a-group-of-international-volunteers-who-travelled-to-afrin-to-fight-against-turkish-led-forces-in.md) _Context: British, U.S._
+5. [The United States and the United Kingdom claim North Korea is directly responsible for the WannaCry ransomware attack which occurred earlier this year. ](/news/2017/12/18/the-united-states-and-the-united-kingdom-claim-north-korea-is-directly-responsible-for-the-wannacry-ransomware-attack-which-occurred-earlier.md) _Context: British, U.S._

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/08/5/the-u-s-fifth-circuit-court-of-appeals-strikes-down-a-state-law-in-texas-that-had-required-that-voters-show-identification-before-casting-b.html)  [JSON](/news/2015/08/5/the-u-s-fifth-circuit-court-of-appeals-strikes-down-a-state-law-in-texas-that-had-required-that-voters-show-identification-before-casting-b.json)  [XML](/news/2015/08/5/the-u-s-fifth-circuit-court-of-appeals-strikes-down-a-state-law-in-texas-that-had-required-that-voters-show-identification-before-casting-b.xml)  
+
 ### [2015-08-5](/news/2015/08/5/index.md)
 
+##### 5th Circuit Court of Appeals
 # The U.S. Fifth Circuit Court of Appeals strikes down a state law in Texas that had required that voters show identification before casting ballots. 
 
 A U.S. appeals court struck down a Texas law on Wednesday requiring voters to show authorized identification before casting ballots, saying the measure violated the U.S. Voting Rights Act through its &quot;discriminatory effects.&quot;
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/08/05/us-usa-vote-texas-idUSKCN0QA2A920150805)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/08/05/us-usa-vote-texas-idUSKCN0QA2A920150805)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

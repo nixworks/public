@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/11/4/toyota-recalls-around-135-000-vehicles-in-japan-and-europe-over-a-steering-fault.html)  [JSON](/news/2010/11/4/toyota-recalls-around-135-000-vehicles-in-japan-and-europe-over-a-steering-fault.json)  [XML](/news/2010/11/4/toyota-recalls-around-135-000-vehicles-in-japan-and-europe-over-a-steering-fault.xml)  
+
 ### [2010-11-4](/news/2010/11/4/index.md)
 
+##### Toyota
 # Toyota recalls around 135,000 vehicles in Japan and Europe over a steering fault. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/news/2010-11-04/toyota-recalls-71-000-cars-in-europe-for-steering-wheel-defect.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2010-11-04/toyota-recalls-71-000-cars-in-europe-for-steering-wheel-defect.html)
 2. [Financial Times](http://www.ft.com/cms/s/0/284e7598-e802-11df-b158-00144feab49a.html)
 
 ### Related:

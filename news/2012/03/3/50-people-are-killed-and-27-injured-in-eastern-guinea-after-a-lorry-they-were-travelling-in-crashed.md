@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/3/50-people-are-killed-and-27-injured-in-eastern-guinea-after-a-lorry-they-were-travelling-in-crashed.html)  [JSON](/news/2012/03/3/50-people-are-killed-and-27-injured-in-eastern-guinea-after-a-lorry-they-were-travelling-in-crashed.json)  [XML](/news/2012/03/3/50-people-are-killed-and-27-injured-in-eastern-guinea-after-a-lorry-they-were-travelling-in-crashed.xml)  
+
 ### [2012-03-3](/news/2012/03/3/index.md)
 
+##### Guinea
 # 50 people are killed and 27 injured in eastern Guinea after a lorry they were travelling in crashed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5gZ8aqdojyW843kw3wpbcsuoVWMmA?docId=CNG.302fd9606bafa12a834fec0ad4acc02e.201)
 

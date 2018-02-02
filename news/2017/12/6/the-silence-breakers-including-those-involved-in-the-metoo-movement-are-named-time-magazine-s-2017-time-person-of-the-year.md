@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/6/the-silence-breakers-including-those-involved-in
 
 ### [2017-12-6](/news/2017/12/6/index.md)
 
+##### Weinstein effect
 # The "Silence Breakers", including those involved in the #MeToo movement, are named "Time" magazine's 2017 Time Person of the Year. 
 
  NEW YORK (AP) — The &#34;Silence Breakers&#34; — those who have shared their stories about sexual assault and harassment — have been named Time magazine&#39;s Person of the Year. 

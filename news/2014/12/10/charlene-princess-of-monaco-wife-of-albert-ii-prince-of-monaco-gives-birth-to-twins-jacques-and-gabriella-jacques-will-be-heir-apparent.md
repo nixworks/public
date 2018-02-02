@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/10/charlene-princess-of-monaco-wife-of-albert-ii-prince-of-monaco-gives-birth-to-twins-jacques-and-gabriella-jacques-will-be-heir-apparent.html)  [JSON](/news/2014/12/10/charlene-princess-of-monaco-wife-of-albert-ii-prince-of-monaco-gives-birth-to-twins-jacques-and-gabriella-jacques-will-be-heir-apparent.json)  [XML](/news/2014/12/10/charlene-princess-of-monaco-wife-of-albert-ii-prince-of-monaco-gives-birth-to-twins-jacques-and-gabriella-jacques-will-be-heir-apparent.xml)  
+
 ### [2014-12-10](/news/2014/12/10/index.md)
 
+##### Charlene, Princess of Monaco
 # Charlene, Princess of Monaco, wife of Albert II, Prince of Monaco, gives birth to twins Jacques and Gabriella. Jacques will be heir apparent in line with male priority of Monaco's succession laws. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Mail](http://www.dailymail.co.uk/femail/article-2868690/It-s-boy-girl-Princess-Charlene-Monaco-royal-reportedly-gives-birth-twins-caesarian-section.html)
 

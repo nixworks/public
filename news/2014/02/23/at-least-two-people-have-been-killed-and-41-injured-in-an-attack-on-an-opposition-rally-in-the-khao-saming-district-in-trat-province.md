@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/02/23/at-least-two-people-have-been-killed-and-41-injured-in-an-attack-on-an-opposition-rally-in-the-khao-saming-district-in-trat-province.html)  [JSON](/news/2014/02/23/at-least-two-people-have-been-killed-and-41-injured-in-an-attack-on-an-opposition-rally-in-the-khao-saming-district-in-trat-province.json)  [XML](/news/2014/02/23/at-least-two-people-have-been-killed-and-41-injured-in-an-attack-on-an-opposition-rally-in-the-khao-saming-district-in-trat-province.xml)  
+
 ### [2014-02-23](/news/2014/02/23/index.md)
 
+##### Khao Saming District
 # At least two people have been killed and 41 injured in an attack on an opposition rally in the Khao Saming District in Trat Province. 
 
 A bomb killed two people and wounded at least 22 in a busy shopping district of the Thai capital on Sunday, hours after supporters of Thai Prime Minister Yingluck Shinawatra promised to get tough with demonstrators paralyzing parts of the city.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/02/23/us-thailand-protest-idUSBREA1M02H20140223?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140223&t=2&i=846176762&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA1M0VFZ00)
+1. [Reuters](https://www.reuters.com/article/2014/02/23/us-thailand-protest-idUSBREA1M02H20140223?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140223&t=2&i=846176762&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA1M0VFZ00)
 
 ### Changes:
 

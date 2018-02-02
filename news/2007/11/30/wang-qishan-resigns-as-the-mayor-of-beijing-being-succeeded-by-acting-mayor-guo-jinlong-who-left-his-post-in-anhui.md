@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/30/wang-qishan-resigns-as-the-mayor-of-beijing-being-succeeded-by-acting-mayor-guo-jinlong-who-left-his-post-in-anhui.html)  [JSON](/news/2007/11/30/wang-qishan-resigns-as-the-mayor-of-beijing-being-succeeded-by-acting-mayor-guo-jinlong-who-left-his-post-in-anhui.json)  [XML](/news/2007/11/30/wang-qishan-resigns-as-the-mayor-of-beijing-being-succeeded-by-acting-mayor-guo-jinlong-who-left-his-post-in-anhui.xml)  
+
 ### [2007-11-30](/news/2007/11/30/index.md)
 
+##### Wang Qishan
 #  Wang Qishan resigns as the Mayor of Beijing, being succeeded by acting Mayor Guo Jinlong, who left his post in Anhui. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2007-11/30/content_7173572.htm)
 

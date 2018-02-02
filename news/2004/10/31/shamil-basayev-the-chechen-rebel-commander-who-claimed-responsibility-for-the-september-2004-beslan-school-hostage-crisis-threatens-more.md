@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/31/shamil-basayev-the-chechen-rebel-commander-who-claimed-responsibility-for-the-september-2004-beslan-school-hostage-crisis-threatens-more.html)  [JSON](/news/2004/10/31/shamil-basayev-the-chechen-rebel-commander-who-claimed-responsibility-for-the-september-2004-beslan-school-hostage-crisis-threatens-more.json)  [XML](/news/2004/10/31/shamil-basayev-the-chechen-rebel-commander-who-claimed-responsibility-for-the-september-2004-beslan-school-hostage-crisis-threatens-more.xml)  
+
 ### [2004-10-31](/news/2004/10/31/index.md)
 
+##### Shamil Basayev
 #  Shamil Basayev, the Chechen rebel commander who claimed responsibility for the September 2004 Beslan school hostage crisis, threatens more attacks against Russian civilians. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/3970119.stm)
 

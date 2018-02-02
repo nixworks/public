@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/10/president-of-mongolia-tsakhiagiin-elbegdorj-is-sworn-into-office-for-his-second-term-as-president-of-mongolia-in-front-of-genghis-khan-s-mon.html)  [JSON](/news/2013/07/10/president-of-mongolia-tsakhiagiin-elbegdorj-is-sworn-into-office-for-his-second-term-as-president-of-mongolia-in-front-of-genghis-khan-s-mon.json)  [XML](/news/2013/07/10/president-of-mongolia-tsakhiagiin-elbegdorj-is-sworn-into-office-for-his-second-term-as-president-of-mongolia-in-front-of-genghis-khan-s-mon.xml)  
+
 ### [2013-07-10](/news/2013/07/10/index.md)
 
+##### Tsakhiagiin Elbegdorj
 # President of Mongolia Tsakhiagiin Elbegdorj is sworn into office for his second term as President of Mongolia in front of Genghis Khan's monument, the Parliament and public on main Skhbaatar Square in Ulaanbaatar. This is the first time Mongolian President took oath in front of public in the country's history. 
 
  Ulaanbaatar /MONTSAME/ The incumbent President of Mongolia Elbegdorj Tsakhia who won the 6th Presidential election took his oath at 11.40 am on Wedne...
 
 
-### Source:
+### Sources:
 
 1. [Montsame News Agency](http://www.montsame.gov.mn/en/index.php/politics/item/1427-ts-elbegdorj-takes-oath)
 

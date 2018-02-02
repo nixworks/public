@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/28/a-small-plane-crashes-in-a-residential-area-of-
 
 ### [2017-02-28](/news/2017/02/28/index.md)
 
+##### Riverside, California
 # A small plane crashes in a residential area of Riverside, California, killing at least three people, all of whom were passengers on the plane. No one on the ground was injured. 
 
 Small aircraft carrying a married couple and three teenagers &quot;nosedives&quot; after take-off in California.

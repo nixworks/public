@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/9/one-indian-soldier-buried-in-the-snow-for-six-da
 
 ### [2016-02-9](/news/2016/02/9/index.md)
 
+##### Indian Armed Forces
 # One Indian soldier, buried in the snow for six days, is rescued from last week's Siachen Glacier avalanche, however the other nine soldiers from the army post in the Himalayan region of Kashmir didn't survive. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/2/dave-zabriskie-becomes-the-third-american-to-ever-wear-the-yellow-leader-s-jersey-in-the-tour-de-france-beating-fellow-american-lance-arms.html)  [JSON](/news/2005/07/2/dave-zabriskie-becomes-the-third-american-to-ever-wear-the-yellow-leader-s-jersey-in-the-tour-de-france-beating-fellow-american-lance-arms.json)  [XML](/news/2005/07/2/dave-zabriskie-becomes-the-third-american-to-ever-wear-the-yellow-leader-s-jersey-in-the-tour-de-france-beating-fellow-american-lance-arms.xml)  
+
 ### [2005-07-2](/news/2005/07/2/index.md)
 
+##### Dave Zabriskie
 #  Dave Zabriskie becomes the third American to ever wear the yellow leader's jersey in the Tour de France, beating fellow American Lance Armstrong by two seconds in the prologue stage. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [le Tour de France official website](http://www.letour.fr/2005/TDF/LIVE/us/100/index.html)
 

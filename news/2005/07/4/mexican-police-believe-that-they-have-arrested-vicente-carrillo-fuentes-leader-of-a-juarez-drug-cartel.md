@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/4/mexican-police-believe-that-they-have-arrested-vicente-carrillo-fuentes-leader-of-a-juarez-drug-cartel.html)  [JSON](/news/2005/07/4/mexican-police-believe-that-they-have-arrested-vicente-carrillo-fuentes-leader-of-a-juarez-drug-cartel.json)  [XML](/news/2005/07/4/mexican-police-believe-that-they-have-arrested-vicente-carrillo-fuentes-leader-of-a-juarez-drug-cartel.xml)  
+
 ### [2005-07-4](/news/2005/07/4/index.md)
 
+##### Vicente Carrillo Fuentes
 #  Mexican police believe that they have arrested Vicente Carrillo Fuentes, leader of a Jurez drug cartel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N04727968.htm)
 

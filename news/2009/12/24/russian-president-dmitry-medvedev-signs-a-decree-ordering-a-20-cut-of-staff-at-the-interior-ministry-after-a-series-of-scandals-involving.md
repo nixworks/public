@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/12/24/russian-president-dmitry-medvedev-signs-a-decree-ordering-a-20-cut-of-staff-at-the-interior-ministry-after-a-series-of-scandals-involving.html)  [JSON](/news/2009/12/24/russian-president-dmitry-medvedev-signs-a-decree-ordering-a-20-cut-of-staff-at-the-interior-ministry-after-a-series-of-scandals-involving.json)  [XML](/news/2009/12/24/russian-president-dmitry-medvedev-signs-a-decree-ordering-a-20-cut-of-staff-at-the-interior-ministry-after-a-series-of-scandals-involving.xml)  
+
 ### [2009-12-24](/news/2009/12/24/index.md)
 
+##### Russia
 #  Russian President Dmitry Medvedev signs a decree ordering a 20% cut of staff at the Interior Ministry after a series of scandals involving the police. 
 
 Russian President Dmitry Medvedev on Thursday ordered a one fifth cut to the staff of the 1.4 million strong Interior Ministry after a series of scandals involving the police.
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/russia/20091224/157344130.html)
-2. [Reuters](http://www.reuters.com/article/idUSTRE5BN27Y20091224)
-2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20091224&t=2&i=36096877&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-12-24T165018Z_01_BTRE5BN1AS700_RTROPTP_0_BELARUS)
+2. [Reuters](https://www.reuters.com/article/idUSTRE5BN27Y20091224)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20091224&t=2&i=36096877&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-12-24T165018Z_01_BTRE5BN1AS700_RTROPTP_0_BELARUS)
 
 ### Related:
 

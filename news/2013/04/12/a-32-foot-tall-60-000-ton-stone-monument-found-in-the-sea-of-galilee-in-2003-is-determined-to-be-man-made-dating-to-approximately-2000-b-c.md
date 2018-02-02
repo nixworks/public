@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/12/a-32-foot-tall-60-000-ton-stone-monument-found-in-the-sea-of-galilee-in-2003-is-determined-to-be-man-made-dating-to-approximately-2000-b-c.html)  [JSON](/news/2013/04/12/a-32-foot-tall-60-000-ton-stone-monument-found-in-the-sea-of-galilee-in-2003-is-determined-to-be-man-made-dating-to-approximately-2000-b-c.json)  [XML](/news/2013/04/12/a-32-foot-tall-60-000-ton-stone-monument-found-in-the-sea-of-galilee-in-2003-is-determined-to-be-man-made-dating-to-approximately-2000-b-c.xml)  
+
 ### [2013-04-12](/news/2013/04/12/index.md)
 
+##### stone
 # A 32-foot tall, 60,000 ton stone monument found in the Sea of Galilee in 2003 is determined to be man-made, dating to approximately 2000 B.C. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/news/science/sciencenow/la-sci-sn-mystery-monument-found-on-the-sea-floor-20130412,0,2957527.story)
 1. [Cover Image](http://www.trbimg.com/img-51686678/turbine/la-sci-sn-mystery-monument-found-on-the-sea-fl-001/575/575x503)

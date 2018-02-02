@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/28/a-presidential-election-takes-place-in-burundi-with-incumbent-president-pierre-nkurunziza-as-the-only-candidate-a-series-of-grenade-attacks.html)  [JSON](/news/2010/06/28/a-presidential-election-takes-place-in-burundi-with-incumbent-president-pierre-nkurunziza-as-the-only-candidate-a-series-of-grenade-attacks.json)  [XML](/news/2010/06/28/a-presidential-election-takes-place-in-burundi-with-incumbent-president-pierre-nkurunziza-as-the-only-candidate-a-series-of-grenade-attacks.xml)  
+
 ### [2010-06-28](/news/2010/06/28/index.md)
 
+##### presidential election
 # A presidential election takes place in Burundi with incumbent President Pierre Nkurunziza as the only candidate. A series of grenade attacks also take place. 
 
 Incumbent president certain to win following boycott by oppositon candidates.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/06/2010628124152779802.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/jun/28/burundi-vote-referendum-pierre-nkurunziza)

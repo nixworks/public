@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/14/australian-prime-minister-malcolm-turnbull-plan
 
 ### [2016-09-14](/news/2016/09/14/index.md)
 
+##### Australia
 # Australian prime minister Malcolm Turnbull plans to introduce a plebiscite on the legality of same-sex marriage in the country. 
 
 Prime Minister Malcolm Turnbull made a spirited defence of his doomed same-sex marriage plebiscite as he introduced the bill to Parliament on Wednesday, saying &#034;society would be stronger if more people were married&#034;.
@@ -19,4 +20,4 @@ Prime Minister Malcolm Turnbull made a spirited defence of his doomed same-sex m
 2. [ Prime Minister of Australia Malcolm Turnbull has called a historic double dissolution election with both houses of Parliament being dissolved and an election to be held on July 2. ](/news/2016/05/8/prime-minister-of-australia-malcolm-turnbull-has-called-a-historic-double-dissolution-election-with-both-houses-of-parliament-being-dissolv.md) _Context: Australia, Malcolm Turnbull_
 3. [Prime Minister Julia Gillard confirms she does not support the legalisation of same-sex marriage in Australia, ](/news/2010/06/30/prime-minister-julia-gillard-confirms-she-does-not-support-the-legalisation-of-same-sex-marriage-in-australia.md) _Context: Australia, same-sex marriage_
 4. [ Malcolm Turnbull, the Australian Federal Environment Minister, approves the Gunns Tamar Valley Pulp Mill but with an extensive list of conditions. ](/news/2007/10/4/malcolm-turnbull-the-australian-federal-environment-minister-approves-the-gunns-tamar-valley-pulp-mill-but-with-an-extensive-list-of-cond.md) _Context: Australia, Malcolm Turnbull_
-5. [An offer is made by New Zealand prime minister Jacinda Ardern to resettle refugees stuck in the Manus Regional Processing Centre but is rejected by Australian Prime Minister Malcolm Turnbull. The processing center has triggered a humanitarian crisis for the refugees and protests in Australian cities. ](/news/2017/11/4/an-offer-is-made-by-new-zealand-prime-minister-jacinda-ardern-to-resettle-refugees-stuck-in-the-manus-regional-processing-centre-but-is-reje.md) _Context: Malcolm Turnbull_
+5. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Australia_

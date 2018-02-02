@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/27/australian-state-and-territory-leaders-agree-to-implement-the-commonwealth-government-s-tough-new-anti-terrorism-laws-with-a-sunset-clause.html)  [JSON](/news/2005/09/27/australian-state-and-territory-leaders-agree-to-implement-the-commonwealth-government-s-tough-new-anti-terrorism-laws-with-a-sunset-clause.json)  [XML](/news/2005/09/27/australian-state-and-territory-leaders-agree-to-implement-the-commonwealth-government-s-tough-new-anti-terrorism-laws-with-a-sunset-clause.xml)  
+
 ### [2005-09-27](/news/2005/09/27/index.md)
 
+##### State
 #  Australian State and Territory leaders agree to implement the Commonwealth Government's tough new anti-terrorism laws with a sunset clause. The new laws allow police to detain terrorism "suspects" without charge for up to two weeks, and electronically tag them for up to a year. The measures have been attacked by civil libertarians and Muslim groups. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/newsitems/200509/s1469394.htm)
 2. [ABC](http://www.abc.net.au/news/newsitems/200509/s1469669.htm)

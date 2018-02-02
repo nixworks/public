@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/29/a-proposed-draft-resolution-calling-on-the-united-nations-security-council-to-criticise-the-construction-of-settlements-by-israel-is-obtaine.html)  [JSON](/news/2010/12/29/a-proposed-draft-resolution-calling-on-the-united-nations-security-council-to-criticise-the-construction-of-settlements-by-israel-is-obtaine.json)  [XML](/news/2010/12/29/a-proposed-draft-resolution-calling-on-the-united-nations-security-council-to-criticise-the-construction-of-settlements-by-israel-is-obtaine.xml)  
+
 ### [2010-12-29](/news/2010/12/29/index.md)
 
+##### United Nations Security Council
 # A proposed draft resolution calling on the United Nations Security Council to criticise the construction of settlements by Israel is obtained by the Associated Press. 
 
 Proposed draft resolution calls on Security Council to condemn Israeli settlements after impasse over US-brokered talks.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/20101229183029615952.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/8/30/2010830132636933580_20.jpg)

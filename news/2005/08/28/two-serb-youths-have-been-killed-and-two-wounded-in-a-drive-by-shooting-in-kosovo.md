@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/28/two-serb-youths-have-been-killed-and-two-wounded-in-a-drive-by-shooting-in-kosovo.html)  [JSON](/news/2005/08/28/two-serb-youths-have-been-killed-and-two-wounded-in-a-drive-by-shooting-in-kosovo.json)  [XML](/news/2005/08/28/two-serb-youths-have-been-killed-and-two-wounded-in-a-drive-by-shooting-in-kosovo.xml)  
+
 ### [2005-08-28](/news/2005/08/28/index.md)
 
+##### Serb
 #  Two Serb youths have been killed and two wounded in a drive-by shooting in Kosovo 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4193208.stm)
 

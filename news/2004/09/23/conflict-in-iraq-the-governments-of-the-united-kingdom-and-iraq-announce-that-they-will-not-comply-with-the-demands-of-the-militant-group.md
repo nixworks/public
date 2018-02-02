@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/09/23/conflict-in-iraq-the-governments-of-the-united-kingdom-and-iraq-announce-that-they-will-not-comply-with-the-demands-of-the-militant-group.html)  [JSON](/news/2004/09/23/conflict-in-iraq-the-governments-of-the-united-kingdom-and-iraq-announce-that-they-will-not-comply-with-the-demands-of-the-militant-group.json)  [XML](/news/2004/09/23/conflict-in-iraq-the-governments-of-the-united-kingdom-and-iraq-announce-that-they-will-not-comply-with-the-demands-of-the-militant-group.xml)  
+
 ### [2004-09-23](/news/2004/09/23/index.md)
 
+##### rebel-held
 #  Conflict in Iraq: The governments of the United Kingdom and Iraq announce that they will not comply with the demands of the militant group Tawhid and Jihad, which has threatened to behead its hostage, British citizen Kenneth Bigley. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6314427&pageNumber=1)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6314427&pageNumber=1)
 
 ### Related:
 

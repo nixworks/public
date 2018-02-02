@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/14/a-massive-power-outage-occurs-in-parts-of-chile-including-santiago-with-onemi-working-to-restore-service.html)  [JSON](/news/2010/03/14/a-massive-power-outage-occurs-in-parts-of-chile-including-santiago-with-onemi-working-to-restore-service.json)  [XML](/news/2010/03/14/a-massive-power-outage-occurs-in-parts-of-chile-including-santiago-with-onemi-working-to-restore-service.xml)  
+
 ### [2010-03-14](/news/2010/03/14/index.md)
 
+##### massive power outage
 # A massive power outage occurs in parts of Chile, including Santiago, with ONEMI working to restore service. 
 
 Chile News | Breaking News, Views, Analysis
 
 
-### Source:
+### Sources:
 
 1. [Santiago Times](http://www.santiagotimes.cl/index.php?option=com_content&view=article&id=18369:blackout-hits-most-of-chile&catid=1:other&Itemid=38)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/chile-hit-by-massive-blackout-official-20100315-q795.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/3/ghana-redenominates-ghanaian-cedi-the-new-currency-starts-exchanging-at-ghc-0-92-to-the-us-dollar-the-highest-valued-african-currency.html)  [JSON](/news/2007/07/3/ghana-redenominates-ghanaian-cedi-the-new-currency-starts-exchanging-at-ghc-0-92-to-the-us-dollar-the-highest-valued-african-currency.json)  [XML](/news/2007/07/3/ghana-redenominates-ghanaian-cedi-the-new-currency-starts-exchanging-at-ghc-0-92-to-the-us-dollar-the-highest-valued-african-currency.xml)  
+
 ### [2007-07-3](/news/2007/07/3/index.md)
 
+##### Ghana
 #  Ghana redenominates Ghanaian cedi. The new currency starts exchanging at GH 0.92 to the US dollar, the highest valued African currency. 
 
 The new Ghana cedis and pesewas will be put into circulation today,...
 
 
-### Source:
+### Sources:
 
 1. [Ghanaweb.com](http://www.ghanaweb.com/GhanaHomePage/NewsArchive/artikel.php?ID=126539)
 2. [MyJoyOnline](http://www.myjoyonline.com/business/200707/6248.asp)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/15/the-president-of-pakistan-pervez-musharraf-lifts-the-state-of-emergency-that-he-declared-on-november-3-2007.html)  [JSON](/news/2007/12/15/the-president-of-pakistan-pervez-musharraf-lifts-the-state-of-emergency-that-he-declared-on-november-3-2007.json)  [XML](/news/2007/12/15/the-president-of-pakistan-pervez-musharraf-lifts-the-state-of-emergency-that-he-declared-on-november-3-2007.xml)  
+
 ### [2007-12-15](/news/2007/12/15/index.md)
 
+##### president
 #  The President of Pakistan Pervez Musharraf lifts the state of emergency that he declared on November 3, 2007. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7145629.stm)
 

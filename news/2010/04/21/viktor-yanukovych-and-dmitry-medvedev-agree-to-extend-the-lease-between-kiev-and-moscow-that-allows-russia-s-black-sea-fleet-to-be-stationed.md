@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/21/viktor-yanukovych-and-dmitry-medvedev-agree-to-extend-the-lease-between-kiev-and-moscow-that-allows-russia-s-black-sea-fleet-to-be-stationed.html)  [JSON](/news/2010/04/21/viktor-yanukovych-and-dmitry-medvedev-agree-to-extend-the-lease-between-kiev-and-moscow-that-allows-russia-s-black-sea-fleet-to-be-stationed.json)  [XML](/news/2010/04/21/viktor-yanukovych-and-dmitry-medvedev-agree-to-extend-the-lease-between-kiev-and-moscow-that-allows-russia-s-black-sea-fleet-to-be-stationed.xml)  
+
 ### [2010-04-21](/news/2010/04/21/index.md)
 
+##### Viktor Yanukovych
 # Viktor Yanukovych and Dmitry Medvedev agree to extend the lease between Kiev and Moscow that allows Russia's Black Sea Fleet to be stationed in Ukraine in return for cheaper gas until 2042. 
 
 The Kremlin has scored a major diplomatic victory, striking a deal that will allow Russia&#039;s Black Sea Fleet to stay in Ukraine for another thirty years, more than a quarter of a century after it was supposed to leave.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8635345.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/russia/7615790/Russias-Black-Sea-Fleet-to-stay-in-Ukraine-until-2042.html)

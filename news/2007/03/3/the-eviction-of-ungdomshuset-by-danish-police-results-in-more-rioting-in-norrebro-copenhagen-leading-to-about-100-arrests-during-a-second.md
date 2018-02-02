@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/3/the-eviction-of-ungdomshuset-by-danish-police-results-in-more-rioting-in-norrebro-copenhagen-leading-to-about-100-arrests-during-a-second.html)  [JSON](/news/2007/03/3/the-eviction-of-ungdomshuset-by-danish-police-results-in-more-rioting-in-norrebro-copenhagen-leading-to-about-100-arrests-during-a-second.json)  [XML](/news/2007/03/3/the-eviction-of-ungdomshuset-by-danish-police-results-in-more-rioting-in-norrebro-copenhagen-leading-to-about-100-arrests-during-a-second.xml)  
+
 ### [2007-03-3](/news/2007/03/3/index.md)
 
+##### eviction
 #  The eviction of Ungdomshuset by Danish police results in more rioting in Nrrebro, Copenhagen, leading to about 100 arrests during a second night of protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6414481.stm)
 

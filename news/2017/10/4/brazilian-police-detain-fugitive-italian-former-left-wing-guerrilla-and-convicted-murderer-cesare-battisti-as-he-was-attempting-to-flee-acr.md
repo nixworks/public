@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/10/4/brazilian-police-detain-fugitive-italian-former-left-wing-guerrilla-and-convicted-murderer-cesare-battisti-as-he-was-attempting-to-flee-acr.html)  [JSON](/news/2017/10/4/brazilian-police-detain-fugitive-italian-former-left-wing-guerrilla-and-convicted-murderer-cesare-battisti-as-he-was-attempting-to-flee-acr.json)  [XML](/news/2017/10/4/brazilian-police-detain-fugitive-italian-former-left-wing-guerrilla-and-convicted-murderer-cesare-battisti-as-he-was-attempting-to-flee-acr.xml)  
+
 ### [2017-10-4](/news/2017/10/4/index.md)
 
+##### Crime in Brazil
 # Brazilian police detain fugitive Italian former left-wing guerrilla and convicted murderer Cesare Battisti, as he was attempting to flee across the border into Bolivia to avoid extradition back to Italy and facing his life sentence prison term for four murders in the 1970s. 
 
 Brazilian police detained Cesare Battisti, an Italian former left-wing guerrilla convicted of murder in his country, on Wednesday as he was attempting to cross the border into Bolivia, a federal police spokesman said.

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/07/18/cisco-systems-announces-plans-to-cut-11-500-jobs-including-transfer-of-a-plant-employing-5-000-people-in-juarez-mexico-to-foxconn.html)  [JSON](/news/2011/07/18/cisco-systems-announces-plans-to-cut-11-500-jobs-including-transfer-of-a-plant-employing-5-000-people-in-juarez-mexico-to-foxconn.json)  [XML](/news/2011/07/18/cisco-systems-announces-plans-to-cut-11-500-jobs-including-transfer-of-a-plant-employing-5-000-people-in-juarez-mexico-to-foxconn.xml)  
+
 ### [2011-07-18](/news/2011/07/18/index.md)
 
+##### Cisco
 # Cisco Systems announces plans to cut 11,500 jobs including transfer of a plant employing 5,000 people in Juarez, Mexico, to Foxconn. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [CNBC](http://www.cnbc.com/id/43800031)
+1. [CNBC](https://www.cnbc.com/id/43800031)
 
 ### Related:
 

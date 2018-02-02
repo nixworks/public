@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/20/a-team-of-astronomers-at-caltech-infer-the-exis
 
 ### [2016-01-20](/news/2016/01/20/index.md)
 
+##### Caltech
 # A team of astronomers at Caltech infer the existence of a potential new planet (Planet Nine) in the outer Solar System 
 
 The massive planet could take over 10,000 years to orbit the sun.

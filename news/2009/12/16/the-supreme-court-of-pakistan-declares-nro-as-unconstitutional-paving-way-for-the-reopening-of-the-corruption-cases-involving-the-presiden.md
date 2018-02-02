@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/16/the-supreme-court-of-pakistan-declares-nro-as-unconstitutional-paving-way-for-the-reopening-of-the-corruption-cases-involving-the-presiden.html)  [JSON](/news/2009/12/16/the-supreme-court-of-pakistan-declares-nro-as-unconstitutional-paving-way-for-the-reopening-of-the-corruption-cases-involving-the-presiden.json)  [XML](/news/2009/12/16/the-supreme-court-of-pakistan-declares-nro-as-unconstitutional-paving-way-for-the-reopening-of-the-corruption-cases-involving-the-presiden.xml)  
+
 ### [2009-12-16](/news/2009/12/16/index.md)
 
+##### Supreme Court
 #  The Supreme Court of Pakistan declares NRO as unconstitutional, paving way for the reopening of the corruption cases involving the President and other senior officials. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/8417170.stm)
 2. [The News](http://www.thenews.com.pk/updates.asp?id=93728)

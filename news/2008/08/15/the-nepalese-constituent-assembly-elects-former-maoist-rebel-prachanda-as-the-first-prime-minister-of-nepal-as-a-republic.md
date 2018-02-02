@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/15/the-nepalese-constituent-assembly-elects-former-maoist-rebel-prachanda-as-the-first-prime-minister-of-nepal-as-a-republic.html)  [JSON](/news/2008/08/15/the-nepalese-constituent-assembly-elects-former-maoist-rebel-prachanda-as-the-first-prime-minister-of-nepal-as-a-republic.json)  [XML](/news/2008/08/15/the-nepalese-constituent-assembly-elects-former-maoist-rebel-prachanda-as-the-first-prime-minister-of-nepal-as-a-republic.xml)  
+
 ### [2008-08-15](/news/2008/08/15/index.md)
 
+##### Constituent Assembly
 #  The Nepalese Constituent Assembly elects former Maoist rebel Prachanda as the first Prime Minister of Nepal as a republic. 
 
 Former Maoist rebel leader Prachanda has been elected as Nepal&#039;s first republican Prime Minister.
 
 
-### Source:
+### Sources:
 
 1. [BBC News via ABC Australia](http://www.abc.net.au/news/stories/2008/08/16/2337302.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/478400-1x1-700x700.jpg)

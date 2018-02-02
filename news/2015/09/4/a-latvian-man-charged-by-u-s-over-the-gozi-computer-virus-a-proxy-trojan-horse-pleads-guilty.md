@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/09/4/a-latvian-man-charged-by-u-s-over-the-gozi-computer-virus-a-proxy-trojan-horse-pleads-guilty.html)  [JSON](/news/2015/09/4/a-latvian-man-charged-by-u-s-over-the-gozi-computer-virus-a-proxy-trojan-horse-pleads-guilty.json)  [XML](/news/2015/09/4/a-latvian-man-charged-by-u-s-over-the-gozi-computer-virus-a-proxy-trojan-horse-pleads-guilty.xml)  
+
 ### [2015-09-4](/news/2015/09/4/index.md)
 
+##### Latvian
 # A Latvian man charged by U.S. over the Gozi computer virus (a proxy Trojan horse) pleads guilty. 
 
 A Latvian man pleaded guilty on Friday to engaging in a scheme to transmit a computer virus that infected more than a million computers worldwide and caused tens of millions of dollars in losses.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/09/04/us-usa-cybersecurity-virus-idUSKCN0R420S20150904)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20150904&t=2&i=1076981815&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB83101)
+1. [Reuters](https://www.reuters.com/article/2015/09/04/us-usa-cybersecurity-virus-idUSKCN0R420S20150904)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20150904&t=2&i=1076981815&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB83101)
 
 ### Related:
 

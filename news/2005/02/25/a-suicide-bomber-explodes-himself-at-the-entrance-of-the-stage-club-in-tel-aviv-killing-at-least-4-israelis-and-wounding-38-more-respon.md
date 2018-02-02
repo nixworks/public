@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/25/a-suicide-bomber-explodes-himself-at-the-entrance-of-the-stage-club-in-tel-aviv-killing-at-least-4-israelis-and-wounding-38-more-respon.html)  [JSON](/news/2005/02/25/a-suicide-bomber-explodes-himself-at-the-entrance-of-the-stage-club-in-tel-aviv-killing-at-least-4-israelis-and-wounding-38-more-respon.json)  [XML](/news/2005/02/25/a-suicide-bomber-explodes-himself-at-the-entrance-of-the-stage-club-in-tel-aviv-killing-at-least-4-israelis-and-wounding-38-more-respon.xml)  
+
 ### [2005-02-25](/news/2005/02/25/index.md)
 
+##### suicide bomber
 #  A suicide bomber explodes himself at the entrance of the "Stage" club in Tel Aviv, killing at least 4 Israelis and wounding 38 more. Responsibility is reportedly claimed by Islamic Jihad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2005/WORLD/meast/02/25/telaviv.explosion/index.html)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/545139.html)

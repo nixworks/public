@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/6/members-of-the-brazilian-primeiro-comando-da-cap
 
 ### [2017-01-6](/news/2017/01/6/index.md)
 
+##### Brazil
 # Members of the Brazilian Primeiro Comando da Capital prison gang kill 31 inmates in the Monte Cristo prison in the state of Roraima. This action was revenge for an earlier massacre in a prison in Amazonas that killed 56 inmates. 
 
 

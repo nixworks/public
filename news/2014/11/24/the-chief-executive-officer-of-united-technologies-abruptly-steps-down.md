@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2014/11/24/the-chief-executive-officer-of-united-technologies-abruptly-steps-down.html)  [JSON](/news/2014/11/24/the-chief-executive-officer-of-united-technologies-abruptly-steps-down.json)  [XML](/news/2014/11/24/the-chief-executive-officer-of-united-technologies-abruptly-steps-down.xml)  
+
 ### [2014-11-24](/news/2014/11/24/index.md)
 
+##### chief executive officer
 # The chief executive officer of United Technologies abruptly steps down. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/11/24/us-united-tech-managementchanges-idUSKCN0J814Z20141124)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20141124&t=2&i=994242922&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEAAN0NH)
+1. [Reuters](https://www.reuters.com/article/2014/11/24/us-united-tech-managementchanges-idUSKCN0J814Z20141124)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20141124&t=2&i=994242922&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEAAN0NH)
 
 ### Related:
 
 1. [Dozens of chief executive officers of major U.S. technology, biotech, and financial companies urge North Carolina to repeal a new state law forcing transgender people to use rest-rooms and changing-rooms according to the gender on their birth-certificate.](/news/2016/03/29/dozens-of-chief-executive-officers-of-major-u-s-technology-biotech-and-financial-companies-urge-north-carolina-to-repeal-a-new-state-law.md) _Context: chief executive officer_
-2. [A court convicts Donald Blankenship, former CEO of Massey Energy Company, of violating safety standards that led to the deaths of 29 Upper Big Branch mine workers in Montcoal, West Virginia in 2010. He is acquitted of making false statements and deceiving regulators. Blankenship, who faces up to one year in prison and a fine of $250,000, is the most prominent American coal executive ever to be convicted of a charge connected to the deaths of miners. ](/news/2015/12/3/a-court-convicts-donald-blankenship-former-ceo-of-massey-energy-company-of-violating-safety-standards-that-led-to-the-deaths-of-29-upper-b.md) _Context: chief executive officer_
-3. [Former Hewlett-Packard Chief Executive Officer Carly Fiorina announces that she will be seeking the Republican Party nomination for the 2016 presidential election. ](/news/2015/05/4/former-hewlett-packard-chief-executive-officer-carly-fiorina-announces-that-she-will-be-seeking-the-republican-party-nomination-for-the-2016.md) _Context: chief executive officer_
-4. [U.S. President Barack Obama nominates CEO of REI Sally Jewell to be the next Secretary of the Interior. ](/news/2013/02/6/u-s-president-barack-obama-nominates-ceo-of-rei-sally-jewell-to-be-the-next-secretary-of-the-interior.md) _Context: chief executive officer_
-5. [Outgoing BBC Director-General Mark Thompson is appointed CEO of "The New York Times", taking up his role in November. ](/news/2012/08/13/outgoing-bbc-director-general-mark-thompson-is-appointed-ceo-of-the-new-york-times-taking-up-his-role-in-november.md) _Context: chief executive officer_
+2. [Yahoo! co-founder Jerry Yang resigns as chief executive officer. [http:--www.mercurynews.com-breaking-news-ci_19760292 "(San Jose Mercury News)"]](/news/2012/01/17/yahoo-co-founder-jerry-yang-resigns-as-chief-executive-officer-http-www-mercurynews-com-breaking-news-ci_19760292-san-jose-mercury-ne.md) _Context: chief executive officer_
+3. [Mark Hurd resigns as chief executive officer of computer company Hewlett-Packard following investigation of a sexual harassment claim. ](/news/2010/08/6/mark-hurd-resigns-as-chief-executive-officer-of-computer-company-hewlett-packard-following-investigation-of-a-sexual-harassment-claim.md) _Context: chief executive officer_
+4. [Edward Whitacre, Jr. announces that he will resign as chief executive officer of General Motors effective from September and that he will be replaced by Daniel Akerson. ](/news/2010/08/12/edward-whitacre-jr-announces-that-he-will-resign-as-chief-executive-officer-of-general-motors-effective-from-september-and-that-he-will-be.md) _Context: chief executive officer_
+5. [Steve Ballmer is named chief executive officer of Microsoft.](/news/2000/01/13/steve-ballmer-is-named-chief-executive-officer-of-microsoft.md) _Context: chief executive officer_

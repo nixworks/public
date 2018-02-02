@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/16/kosovo-s-ruling-party-the-democratic-party-of-kosovo-claims-victory-in-local-elections-the-first-since-the-declaration-of-independence-f.html)  [JSON](/news/2009/11/16/kosovo-s-ruling-party-the-democratic-party-of-kosovo-claims-victory-in-local-elections-the-first-since-the-declaration-of-independence-f.json)  [XML](/news/2009/11/16/kosovo-s-ruling-party-the-democratic-party-of-kosovo-claims-victory-in-local-elections-the-first-since-the-declaration-of-independence-f.xml)  
+
 ### [2009-11-16](/news/2009/11/16/index.md)
 
+##### Kosovo
 #  Kosovo's ruling party, the Democratic Party of Kosovo, claims victory in local elections, the first since the declaration of independence from Serbia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,4899597,00.html)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-11/16/content_12469540.htm)

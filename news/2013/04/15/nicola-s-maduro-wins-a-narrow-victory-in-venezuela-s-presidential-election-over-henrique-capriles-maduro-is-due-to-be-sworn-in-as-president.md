@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/15/nicola-s-maduro-wins-a-narrow-victory-in-venezuela-s-presidential-election-over-henrique-capriles-maduro-is-due-to-be-sworn-in-as-president.html)  [JSON](/news/2013/04/15/nicola-s-maduro-wins-a-narrow-victory-in-venezuela-s-presidential-election-over-henrique-capriles-maduro-is-due-to-be-sworn-in-as-president.json)  [XML](/news/2013/04/15/nicola-s-maduro-wins-a-narrow-victory-in-venezuela-s-presidential-election-over-henrique-capriles-maduro-is-due-to-be-sworn-in-as-president.xml)  
+
 ### [2013-04-15](/news/2013/04/15/index.md)
 
+##### Nicolas Maduro
 # Nicolas Maduro wins a narrow victory in Venezuela's presidential election over Henrique Capriles. Maduro is due to be sworn in as President of Venezuela on 19 April and is set to serve until January 2019, to complete the term of recently deceased President Hugo Chavez. Capriles refuses to acknowledge defeat and calls for a recount. 
 
 Nicolas Maduro, the hand-picked successor of the late Venezuelan leader Hugo Chavez, wins presidential polls by a narrow margin, but his challenger rejects the result.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/04/201341535328847410.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-22149202)

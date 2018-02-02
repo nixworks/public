@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/2/northern-irish-voters-go-to-the-polls-to-elect-t
 
 ### [2017-03-2](/news/2017/03/2/index.md)
 
+##### Northern Ireland Assembly election, 2017
 # Northern Irish voters go to the polls to elect their new MLA representatives after a snap election was called following the resignation of Deputy First minister Martin McGuinness of Sinn Fein over the mishandling by Democratic Unionist Party over the recent Renewable Heat Incentive scandal. 
 
 Polling stations close across Northern Ireland for the 2017 Assembly election.

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/01/28/celebrity-big-brother-2007-concluded-on-this-day-after-all-the-racist-bullying-allegations-resulting-in-shilpa-shetty-winning-the-show.html)  [JSON](/news/2007/01/28/celebrity-big-brother-2007-concluded-on-this-day-after-all-the-racist-bullying-allegations-resulting-in-shilpa-shetty-winning-the-show.json)  [XML](/news/2007/01/28/celebrity-big-brother-2007-concluded-on-this-day-after-all-the-racist-bullying-allegations-resulting-in-shilpa-shetty-winning-the-show.xml)  
+
 ### [2007-01-28](/news/2007/01/28/index.md)
 
+##### Celebrity Big Brother 2007
 #  Celebrity Big Brother 2007 concluded on this day after all the racist bullying allegations resulting in Shilpa Shetty winning the show
 
 

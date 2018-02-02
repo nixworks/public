@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/24/reuven-rivlin-is-sworn-in-as-the-10th-president-of-israel.html)  [JSON](/news/2014/07/24/reuven-rivlin-is-sworn-in-as-the-10th-president-of-israel.json)  [XML](/news/2014/07/24/reuven-rivlin-is-sworn-in-as-the-10th-president-of-israel.xml)  
+
 ### [2014-07-24](/news/2014/07/24/index.md)
 
+##### Reuven Rivlin
 # Reuven Rivlin is sworn in as the 10th President of Israel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IANS via Biharprabha](http://news.biharprabha.com/2014/07/reuven-rivlin-sworn-is-as-10th-president-of-israel/)
 

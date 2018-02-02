@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/23/iraq-a-new-gallup-poll-shows-majority-of-iraqis-expect-a-better-life-in-five-years-after-foreign-occupation-and-the-removal-of-saddam-hus.html)  [JSON](/news/2003/09/23/iraq-a-new-gallup-poll-shows-majority-of-iraqis-expect-a-better-life-in-five-years-after-foreign-occupation-and-the-removal-of-saddam-hus.json)  [XML](/news/2003/09/23/iraq-a-new-gallup-poll-shows-majority-of-iraqis-expect-a-better-life-in-five-years-after-foreign-occupation-and-the-removal-of-saddam-hus.xml)  
+
 ### [2003-09-23](/news/2003/09/23/index.md)
 
+##### Iraq
 #  Iraq: A new Gallup poll shows majority of Iraqis expect a better life in five years. After foreign occupation and the removal of Saddam Hussein, around two-thirds of Baghdad residents state the Iraqi dictator removal was worth the hardships they've been forced to endure.
 
 

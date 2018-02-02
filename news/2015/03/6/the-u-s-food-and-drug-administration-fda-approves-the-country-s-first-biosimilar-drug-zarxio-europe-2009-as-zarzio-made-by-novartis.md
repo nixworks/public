@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2015/03/6/the-u-s-food-and-drug-administration-fda-approves-the-country-s-first-biosimilar-drug-zarxio-europe-2009-as-zarzio-made-by-novartis.html)  [JSON](/news/2015/03/6/the-u-s-food-and-drug-administration-fda-approves-the-country-s-first-biosimilar-drug-zarxio-europe-2009-as-zarzio-made-by-novartis.json)  [XML](/news/2015/03/6/the-u-s-food-and-drug-administration-fda-approves-the-country-s-first-biosimilar-drug-zarxio-europe-2009-as-zarzio-made-by-novartis.xml)  
+
 ### [2015-03-6](/news/2015/03/6/index.md)
 
+##### Food and Drug Administration
 # The U.S. Food and Drug Administration (FDA) approves the country's first biosimilar drug, Zarxio (Europe: 2009, as Zarzio), made by Novartis. Biosimilars are a relatively new class of drugs designed to pave the way for less expensive versions of the complex biologics drug class, and they are not synthesized from chemicals like other drugs, but are made from living cells. Some well known biologics include Remicade and Enbrel for autoimmune diseases, and Herceptin and Avastin for cancer. Zarxio, used to prevent infection in cancer patients receiving chemotherapy, is a close copy of Neupogen, made by Amgen. 
 
+The approval paves the way for alternatives to an entire class of complex and costly drugs to go on the market.
 
 
+### Sources:
 
-### Source:
-
-1. [The New York Times](http://www.nytimes.com/2015/03/07/health/fda-approves-zarxio-first-biosimilar-drug.html?ref=health)
+1. [The New York Times](https://www.nytimes.com/2015/03/07/health/fda-approves-zarxio-first-biosimilar-drug.html?ref=health)
+1. [Cover Image](https://static01.nyt.com/images/2015/03/07/science/06FDA/06FDA-facebookJumbo.jpg)
 
 ### Related:
 

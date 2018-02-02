@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/3/rebels-in-darfur-say-armed-men-have-attacked-villages-in-the-region-leaving-dozens-dead-in-the-last-two-days.html)  [JSON](/news/2010/09/3/rebels-in-darfur-say-armed-men-have-attacked-villages-in-the-region-leaving-dozens-dead-in-the-last-two-days.json)  [XML](/news/2010/09/3/rebels-in-darfur-say-armed-men-have-attacked-villages-in-the-region-leaving-dozens-dead-in-the-last-two-days.xml)  
+
 ### [2010-09-3](/news/2010/09/3/index.md)
 
+##### Darfur
 # Rebels in Darfur say armed men have attacked villages in the region leaving dozens dead in the last two days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h9eClVtiPd2UK1pjqCw1LmZREKyQ)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20100903123537985C430683)

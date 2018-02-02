@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/14/us-planes-bomb-the-city-of-samarra-north-west-of-baghdad-in-najaf-a-fragile-ceasefire-holds-with-muqtada-al-sadr-making-defiant-stateme.html)  [JSON](/news/2004/08/14/us-planes-bomb-the-city-of-samarra-north-west-of-baghdad-in-najaf-a-fragile-ceasefire-holds-with-muqtada-al-sadr-making-defiant-stateme.json)  [XML](/news/2004/08/14/us-planes-bomb-the-city-of-samarra-north-west-of-baghdad-in-najaf-a-fragile-ceasefire-holds-with-muqtada-al-sadr-making-defiant-stateme.xml)  
+
 ### [2004-08-14](/news/2004/08/14/index.md)
 
+##### Samarra
 #  US planes bomb the city of Samarra, north-west of Baghdad. In Najaf, a fragile ceasefire holds, with Muqtada al-Sadr making defiant statements but continuing negotiations. The Allawi government decides to withdraw from the negotiations in the afternoon. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3564122.stm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3564320.stm)

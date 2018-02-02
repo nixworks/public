@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/14/three-million-italians-go-to-the-polls-to-elect-the-leader-of-the-new-democratic-party-the-current-mayor-of-rome-walter-veltroni-wins-wi.html)  [JSON](/news/2007/10/14/three-million-italians-go-to-the-polls-to-elect-the-leader-of-the-new-democratic-party-the-current-mayor-of-rome-walter-veltroni-wins-wi.json)  [XML](/news/2007/10/14/three-million-italians-go-to-the-polls-to-elect-the-leader-of-the-new-democratic-party-the-current-mayor-of-rome-walter-veltroni-wins-wi.xml)  
+
 ### [2007-10-14](/news/2007/10/14/index.md)
 
+##### Italy
 #  Three million Italians go to the polls to elect the leader of the new Democratic Party. The current Mayor of Rome, Walter Veltroni, wins with about 75% of the votes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5iJgxTPLO8A4ALrle9SUxqf_vDDLQ)
 

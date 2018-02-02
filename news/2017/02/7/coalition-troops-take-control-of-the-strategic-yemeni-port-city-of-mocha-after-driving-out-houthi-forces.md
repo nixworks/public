@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/7/coalition-troops-take-control-of-the-strategic-y
 
 ### [2017-02-7](/news/2017/02/7/index.md)
 
+##### Yemeni Civil War (2015-present)
 # Coalition troops take control of the strategic Yemeni port city of Mocha after driving out Houthi forces. 
 
  Yemeni government forces backed by Gulf Arab troops have secured the Red Sea coast city of al-Mokha, United Arab Emirates news agency WAM reported on Tuesday, 

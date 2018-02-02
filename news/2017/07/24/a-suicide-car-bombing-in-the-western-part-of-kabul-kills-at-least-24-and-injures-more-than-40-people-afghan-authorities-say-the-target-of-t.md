@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/24/a-suicide-car-bombing-in-the-western-part-of-ka
 
 ### [2017-07-24](/news/2017/07/24/index.md)
 
+##### War in Afghanistan
 # A suicide car bombing in the western part of Kabul kills at least 24 and injures more than 40 people. Afghan authorities say the target of the attack was a bus of civilian government workers from the Ministry of Mines and Petroleum. 
 
 A Taliban suicide attacker detonated a car bomb in the western part of Kabul on Monday, killing up to 35 people and wounding more than 40, government officials said, in one of the worst attacks in the Afghan capital in recent weeks.

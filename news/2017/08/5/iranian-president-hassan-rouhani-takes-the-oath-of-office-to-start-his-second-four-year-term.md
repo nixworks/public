@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/5/iranian-president-hassan-rouhani-takes-the-oath-
 
 ### [2017-08-5](/news/2017/08/5/index.md)
 
+##### Second inauguration of Hassan Rouhani
 # Iranian President Hassan Rouhani takes the oath of office to start his second four-year term. 
 
 The swearing-in ceremony for the reelected President Hassan Rouhani, which is due this Saturday...

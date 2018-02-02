@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/5/ventimiglian-police-commander-giorgio-marenco-sa
 
 ### [2016-08-5](/news/2016/08/5/index.md)
 
+##### European migrant crisis
 # Ventimiglian police commander Giorgio Marenco says the more than 100 migrants who crashed the Italian border town's police barriers and entered France remain, under French police surveillance, outside the French Riviera town of Menton. 
 
 More than 100 migrants broke through police barriers at the Italian border town of Ventimiglia and made their way into France on Friday, the local Italian police chief said.

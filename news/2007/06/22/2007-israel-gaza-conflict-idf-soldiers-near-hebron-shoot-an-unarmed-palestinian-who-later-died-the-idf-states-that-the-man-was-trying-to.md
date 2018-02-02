@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/22/2007-israel-gaza-conflict-idf-soldiers-near-hebron-shoot-an-unarmed-palestinian-who-later-died-the-idf-states-that-the-man-was-trying-to.html)  [JSON](/news/2007/06/22/2007-israel-gaza-conflict-idf-soldiers-near-hebron-shoot-an-unarmed-palestinian-who-later-died-the-idf-states-that-the-man-was-trying-to.json)  [XML](/news/2007/06/22/2007-israel-gaza-conflict-idf-soldiers-near-hebron-shoot-an-unarmed-palestinian-who-later-died-the-idf-states-that-the-man-was-trying-to.xml)  
+
 ### [2007-06-22](/news/2007/06/22/index.md)
 
+##### 2007 Israel-Gaza conflict
 #  2007 Israel-Gaza conflict: IDF soldiers near Hebron shoot an unarmed Palestinian, who later died. The IDF states that the man was trying to run through the gate; the soldiers yelled for him to halt, which he did not; they then shot the man. 
 
 Troops shoot at Palestinian trying to approach IDF pillbox
 
 
-### Source:
+### Sources:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3416281,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

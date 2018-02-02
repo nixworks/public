@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/21/archaeologists-find-evidence-showing-that-the-manioc-plant-was-a-staple-food-of-the-maya.html)  [JSON](/news/2009/06/21/archaeologists-find-evidence-showing-that-the-manioc-plant-was-a-staple-food-of-the-maya.json)  [XML](/news/2009/06/21/archaeologists-find-evidence-showing-that-the-manioc-plant-was-a-staple-food-of-the-maya.xml)  
+
 ### [2009-06-21](/news/2009/06/21/index.md)
 
+##### Archaeologist
 #  Archaeologists find evidence showing that the manioc plant was a staple food of the Maya. 
 
 Corn was the royalty of Maya food crops, celebrated in religion and cosmology, but archaeologists have long suspected that a different crop, the lowly manioc plant, was the mainstay of Maya life,...
 
 
-### Source:
+### Sources:
 
 1. [The Los Angeles Times](http://www.latimes.com/news/nationworld/nation/la-sci-maya21-2009jun21,0,7620705.story)
 1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

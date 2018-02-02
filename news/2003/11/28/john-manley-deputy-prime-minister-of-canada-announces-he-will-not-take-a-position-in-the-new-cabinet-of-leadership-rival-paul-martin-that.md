@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/28/john-manley-deputy-prime-minister-of-canada-announces-he-will-not-take-a-position-in-the-new-cabinet-of-leadership-rival-paul-martin-that.html)  [JSON](/news/2003/11/28/john-manley-deputy-prime-minister-of-canada-announces-he-will-not-take-a-position-in-the-new-cabinet-of-leadership-rival-paul-martin-that.json)  [XML](/news/2003/11/28/john-manley-deputy-prime-minister-of-canada-announces-he-will-not-take-a-position-in-the-new-cabinet-of-leadership-rival-paul-martin-that.xml)  
+
 ### [2003-11-28](/news/2003/11/28/index.md)
 
+##### John Manley
 #  John Manley, Deputy Prime Minister of Canada, announces he will not take a position in the new cabinet of leadership rival Paul Martin that will take office on December 12, and will not run again in his riding of Ottawa South in the forthcoming federal election. Martin praises Manley's past accomplishments and takes the unusual step of publicly offering Manley the posting of Ambassador to the U.S.
 
 

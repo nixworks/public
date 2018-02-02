@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/12/two-people-are-killed-on-the-campus-of-independ
 
 ### [2016-02-12](/news/2016/02/12/index.md)
 
+##### Independence High School
 # Two people are killed on the campus of Independence High School in Glendale, Arizona, near Phoenix. The campus is on lockdown, but there is no active shooter situation any longer. 
 
 

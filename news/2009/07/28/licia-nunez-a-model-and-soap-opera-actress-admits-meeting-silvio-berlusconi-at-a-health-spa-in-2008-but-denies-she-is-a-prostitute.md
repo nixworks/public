@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/28/licia-nunez-a-model-and-soap-opera-actress-admits-meeting-silvio-berlusconi-at-a-health-spa-in-2008-but-denies-she-is-a-prostitute.html)  [JSON](/news/2009/07/28/licia-nunez-a-model-and-soap-opera-actress-admits-meeting-silvio-berlusconi-at-a-health-spa-in-2008-but-denies-she-is-a-prostitute.json)  [XML](/news/2009/07/28/licia-nunez-a-model-and-soap-opera-actress-admits-meeting-silvio-berlusconi-at-a-health-spa-in-2008-but-denies-she-is-a-prostitute.xml)  
+
 ### [2009-07-28](/news/2009/07/28/index.md)
 
+##### Licia Nunez
 #  Licia Nunez, a model and soap opera actress, admits meeting Silvio Berlusconi at a health spa in 2008 but denies she is a prostitute. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6729703.ece)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/07/2/japanese-diplomat-yukiya-amano-is-elected-director-general-of-the-international-atomic-energy-agency.html)  [JSON](/news/2009/07/2/japanese-diplomat-yukiya-amano-is-elected-director-general-of-the-international-atomic-energy-agency.json)  [XML](/news/2009/07/2/japanese-diplomat-yukiya-amano-is-elected-director-general-of-the-international-atomic-energy-agency.xml)  
+
 ### [2009-07-2](/news/2009/07/2/index.md)
 
+##### Japan
 #  Japanese diplomat Yukiya Amano is elected Director General of the International Atomic Energy Agency. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/07/02/AR2009070201475.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2009/07/02/AR2009070201475.html)
 
 ### Related:
 

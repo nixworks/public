@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/23/the-torch-lighting-ceremony-for-the-first-youth-olympic-games-to-be-held-in-singapore-from-august-14-to-26-is-held-in-olympia-greece.html)  [JSON](/news/2010/07/23/the-torch-lighting-ceremony-for-the-first-youth-olympic-games-to-be-held-in-singapore-from-august-14-to-26-is-held-in-olympia-greece.json)  [XML](/news/2010/07/23/the-torch-lighting-ceremony-for-the-first-youth-olympic-games-to-be-held-in-singapore-from-august-14-to-26-is-held-in-olympia-greece.xml)  
+
 ### [2010-07-23](/news/2010/07/23/index.md)
 
+##### Youth Olympic Games
 # The torch lighting ceremony for the first Youth Olympic Games, to be held in Singapore from August 14 to 26, is held in Olympia, Greece. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Straits Times](http://www.straitstimes.com/BreakingNews/Sport/Story/STIStory_557334.html)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/14/alleged-russian-hackers-have-penetrated-the-com
 
 ### [2016-06-14](/news/2016/06/14/index.md)
 
+##### 2016 U.S. presidential election
 # Alleged Russian hackers have penetrated the computer network of the Democratic National Committee (DNC) and have gained access to the entire database of research on Republican Party presidential candidate Donald Trump, according to committee officials and security experts. The DNC says that no financial, donor or personal information appears to have been accessed or taken, suggesting that the breach was traditional espionage, and not the work of criminal hackers. 
 
 The breach at the Democratic National Committee was one of several targeting U.S. political organizations, including the Trump and Clinton campaigns.

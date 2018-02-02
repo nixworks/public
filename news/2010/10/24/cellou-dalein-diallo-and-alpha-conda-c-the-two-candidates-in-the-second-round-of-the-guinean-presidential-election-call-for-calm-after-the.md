@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/24/cellou-dalein-diallo-and-alpha-conda-c-the-two-candidates-in-the-second-round-of-the-guinean-presidential-election-call-for-calm-after-the.html)  [JSON](/news/2010/10/24/cellou-dalein-diallo-and-alpha-conda-c-the-two-candidates-in-the-second-round-of-the-guinean-presidential-election-call-for-calm-after-the.json)  [XML](/news/2010/10/24/cellou-dalein-diallo-and-alpha-conda-c-the-two-candidates-in-the-second-round-of-the-guinean-presidential-election-call-for-calm-after-the.xml)  
+
 ### [2010-10-24](/news/2010/10/24/index.md)
 
+##### Cellou Dalein Diallo
 # Cellou Dalein Diallo and Alpha Conde, the two candidates in the second round of the Guinean presidential election, call for calm after the election is delayed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11614900)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

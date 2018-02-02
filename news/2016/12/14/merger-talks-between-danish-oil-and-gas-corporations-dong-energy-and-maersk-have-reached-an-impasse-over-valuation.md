@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/14/merger-talks-between-danish-oil-and-gas-corpora
 
 ### [2016-12-14](/news/2016/12/14/index.md)
 
+##### Merger
 # Merger talks between Danish oil and gas corporations DONG Energy and Maersk have reached an impasse over valuation. 
 
 Pedersen and Ron Bousso

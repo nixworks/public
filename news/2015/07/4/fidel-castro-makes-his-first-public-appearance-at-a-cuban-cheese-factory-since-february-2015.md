@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/4/fidel-castro-makes-his-first-public-appearance-at-a-cuban-cheese-factory-since-february-2015.html)  [JSON](/news/2015/07/4/fidel-castro-makes-his-first-public-appearance-at-a-cuban-cheese-factory-since-february-2015.json)  [XML](/news/2015/07/4/fidel-castro-makes-his-first-public-appearance-at-a-cuban-cheese-factory-since-february-2015.xml)  
+
 ### [2015-07-4](/news/2015/07/4/index.md)
 
+##### Fidel Castro
 #  Fidel Castro makes his first public appearance at a Cuban cheese factory since February 2015. 
 
 Former Cuban President Fidel Castro made his first public appearance in three months Friday, visiting 19 cheese masters at the Food Industry Ministry.
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/US/2015/07/04/Fidel-Castro-makes-first-public-appearance-in-months/4031436028728/)
 1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/4031436028728/2015/3/957e8e440249f571e79d473b9d7a0ce1/v1.5/Fidel-Castro-makes-first-public-appearance-in-months.jpg)

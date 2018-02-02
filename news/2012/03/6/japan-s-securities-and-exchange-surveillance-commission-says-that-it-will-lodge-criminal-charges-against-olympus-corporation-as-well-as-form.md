@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/03/6/japan-s-securities-and-exchange-surveillance-commission-says-that-it-will-lodge-criminal-charges-against-olympus-corporation-as-well-as-form.html)  [JSON](/news/2012/03/6/japan-s-securities-and-exchange-surveillance-commission-says-that-it-will-lodge-criminal-charges-against-olympus-corporation-as-well-as-form.json)  [XML](/news/2012/03/6/japan-s-securities-and-exchange-surveillance-commission-says-that-it-will-lodge-criminal-charges-against-olympus-corporation-as-well-as-form.xml)  
+
 ### [2012-03-6](/news/2012/03/6/index.md)
 
+##### Japan
 # Japan's Securities and Exchange Surveillance Commission says that it will lodge criminal charges against Olympus Corporation as well as former advisers and executives over an accounting fraud. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/03/06/us-olympus-sesc-idUSTRE8250AZ20120306)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120306&t=2&i=579114507&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE82510MH00)
+1. [Reuters](https://www.reuters.com/article/2012/03/06/us-olympus-sesc-idUSTRE8250AZ20120306)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120306&t=2&i=579114507&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE82510MH00)
 
 ### Related:
 

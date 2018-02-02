@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/25/qantas-flight-30-makes-an-emergency-landing-in-manila-after-an-unknown-event-causes-a-hole-in-the-plane.html)  [JSON](/news/2008/07/25/qantas-flight-30-makes-an-emergency-landing-in-manila-after-an-unknown-event-causes-a-hole-in-the-plane.json)  [XML](/news/2008/07/25/qantas-flight-30-makes-an-emergency-landing-in-manila-after-an-unknown-event-causes-a-hole-in-the-plane.xml)  
+
 ### [2008-07-25](/news/2008/07/25/index.md)
 
+##### Qantas Flight 30
 #  Qantas Flight 30 makes an emergency landing in Manila after an unknown event causes a hole in the plane. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5jUDd_bwYvIiQL0-ixzTOVzHGii7A)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/18/iraqi-vice-president-tariq-al-hashimi-vetos-part-of-the-country-s-new-election-law-putting-the-scheduled-january-2010-elections-in-doubt.html)  [JSON](/news/2009/11/18/iraqi-vice-president-tariq-al-hashimi-vetos-part-of-the-country-s-new-election-law-putting-the-scheduled-january-2010-elections-in-doubt.json)  [XML](/news/2009/11/18/iraqi-vice-president-tariq-al-hashimi-vetos-part-of-the-country-s-new-election-law-putting-the-scheduled-january-2010-elections-in-doubt.xml)  
+
 ### [2009-11-18](/news/2009/11/18/index.md)
 
+##### Iraq
 #  Iraqi Vice President Tariq al-Hashimi vetos part of the country's new election law, putting the scheduled January 2010 elections in doubt. 
 
 National polls scheduled for January in doubt as Tariq al-Hashemi objects to key article.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hwK_CSpBxsNuVUEaDuOwmSSCiqGwD9C1SGO00)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/11/2009111892052209343.html)

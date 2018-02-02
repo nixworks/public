@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/03/4/fifty-three-african-union-peacekeepers-were-killed-in-fighting-in-somalia.html)  [JSON](/news/2011/03/4/fifty-three-african-union-peacekeepers-were-killed-in-fighting-in-somalia.json)  [XML](/news/2011/03/4/fifty-three-african-union-peacekeepers-were-killed-in-fighting-in-somalia.xml)  
+
 ### [2011-03-4](/news/2011/03/4/index.md)
 
+##### African Union
 # Fifty-three African Union peacekeepers were killed in fighting in Somalia. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Yahoo](http://news.yahoo.com/s/ap/20110304/ap_on_re_af/af_somalia_peacekeepers_killed)
+1. [Yahoo](https://news.yahoo.com/s/ap/20110304/ap_on_re_af/af_somalia_peacekeepers_killed)
 
 ### Related:
 

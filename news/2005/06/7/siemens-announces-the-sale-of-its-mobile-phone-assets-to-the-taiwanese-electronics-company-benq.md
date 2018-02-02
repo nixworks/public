@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/7/siemens-announces-the-sale-of-its-mobile-phone-assets-to-the-taiwanese-electronics-company-benq.html)  [JSON](/news/2005/06/7/siemens-announces-the-sale-of-its-mobile-phone-assets-to-the-taiwanese-electronics-company-benq.json)  [XML](/news/2005/06/7/siemens-announces-the-sale-of-its-mobile-phone-assets-to-the-taiwanese-electronics-company-benq.xml)  
+
 ### [2005-06-7](/news/2005/06/7/index.md)
 
+##### Siemens AG
 #  Siemens announces the sale of its mobile phone assets to the Taiwanese electronics company BenQ. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/business/4616515.stm)
 

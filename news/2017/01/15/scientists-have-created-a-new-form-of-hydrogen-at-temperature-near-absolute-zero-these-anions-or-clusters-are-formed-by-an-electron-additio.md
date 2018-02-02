@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/15/scientists-have-created-a-new-form-of-hydrogen-
 
 ### [2017-01-15](/news/2017/01/15/index.md)
 
+##### hydrogen
 # Scientists have created a new form of hydrogen at temperature near absolute zero. These anions or clusters are formed by an electron addition to liquid helium nanodroplets doped with molecular hydrogen or deuterium. 
 
 As the element that makes up 75 percent of all the mass in the Universe, and more than 90 percent of all the atoms, we’re all pretty well acquainted with hydrogen.

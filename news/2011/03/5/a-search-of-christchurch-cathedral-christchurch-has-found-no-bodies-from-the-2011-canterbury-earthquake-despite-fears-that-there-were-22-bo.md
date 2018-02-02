@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/5/a-search-of-christchurch-cathedral-christchurch-has-found-no-bodies-from-the-2011-canterbury-earthquake-despite-fears-that-there-were-22-bo.html)  [JSON](/news/2011/03/5/a-search-of-christchurch-cathedral-christchurch-has-found-no-bodies-from-the-2011-canterbury-earthquake-despite-fears-that-there-were-22-bo.json)  [XML](/news/2011/03/5/a-search-of-christchurch-cathedral-christchurch-has-found-no-bodies-from-the-2011-canterbury-earthquake-despite-fears-that-there-were-22-bo.xml)  
+
 ### [2011-03-5](/news/2011/03/5/index.md)
 
+##### ChristChurch Cathedral
 # A search of ChristChurch Cathedral, Christchurch has found no bodies from the 2011 Canterbury earthquake despite fears that there were 22 bodies buried there - the confirmed death toll is 165. 
 
 LATEST A 4.8 magnitude aftershock has shaken Christchurch this evening, being felt as far away as Timaru.
 
 
-### Source:
+### Sources:
 
 1. [Stuff and NZPA](http://www.stuff.co.nz/the-press/4734576/Relief-within-Cathedral-ruins)
 

@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2014/03/3/google-and-samsung-have-asked-an-agency-of-the-government-of-the-people-s-republic-of-china-to-impose-limiting-conditions-on-a-proposed-merg.html)  [JSON](/news/2014/03/3/google-and-samsung-have-asked-an-agency-of-the-government-of-the-people-s-republic-of-china-to-impose-limiting-conditions-on-a-proposed-merg.json)  [XML](/news/2014/03/3/google-and-samsung-have-asked-an-agency-of-the-government-of-the-people-s-republic-of-china-to-impose-limiting-conditions-on-a-proposed-merg.xml)  
+
 ### [2014-03-3](/news/2014/03/3/index.md)
 
+##### Google
 # Google and Samsung have asked an agency of the government of the People's Republic of China to impose limiting conditions on a proposed merger of Microsoft and Nokia. 
 
+Google Inc. and Samsung Electronics Co. joined Chinese mobile phone makers in expressing concern to China that Microsoft Corp.’s bid to take over Nokia Oyj’s phone business may result in higher patent licensing fees, two government officials familiar with the matter said.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2014-03-03/google-samsung-said-to-express-microsoft-nokia-concern-to-china.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2014-03-03/google-samsung-said-to-express-microsoft-nokia-concern-to-china.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-tech-7d25a852b6.jpg)
 
 ### Related:
 

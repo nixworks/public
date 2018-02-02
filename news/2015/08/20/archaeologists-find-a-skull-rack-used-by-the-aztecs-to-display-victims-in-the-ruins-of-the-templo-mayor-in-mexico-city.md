@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/20/archaeologists-find-a-skull-rack-used-by-the-aztecs-to-display-victims-in-the-ruins-of-the-templo-mayor-in-mexico-city.html)  [JSON](/news/2015/08/20/archaeologists-find-a-skull-rack-used-by-the-aztecs-to-display-victims-in-the-ruins-of-the-templo-mayor-in-mexico-city.json)  [XML](/news/2015/08/20/archaeologists-find-a-skull-rack-used-by-the-aztecs-to-display-victims-in-the-ruins-of-the-templo-mayor-in-mexico-city.xml)  
+
 ### [2015-08-20](/news/2015/08/20/index.md)
 
+##### Archaeologists
 # Archaeologists find a skull rack used by the Aztecs to display victims in the ruins of the Templo Mayor in Mexico City. 
 
 Get the latest science news and technology news, read tech reviews and more at ABC News.
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/Technology/wireStory/mexico-finds-main-skull-rack-aztec-temple-complex-33212716)
 

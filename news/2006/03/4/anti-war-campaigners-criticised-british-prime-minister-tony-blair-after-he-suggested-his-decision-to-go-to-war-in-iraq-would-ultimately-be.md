@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/4/anti-war-campaigners-criticised-british-prime-minister-tony-blair-after-he-suggested-his-decision-to-go-to-war-in-iraq-would-ultimately-be.html)  [JSON](/news/2006/03/4/anti-war-campaigners-criticised-british-prime-minister-tony-blair-after-he-suggested-his-decision-to-go-to-war-in-iraq-would-ultimately-be.json)  [XML](/news/2006/03/4/anti-war-campaigners-criticised-british-prime-minister-tony-blair-after-he-suggested-his-decision-to-go-to-war-in-iraq-would-ultimately-be.xml)  
+
 ### [2006-03-4](/news/2006/03/4/index.md)
 
+##### Anti-war
 #  Anti-war campaigners criticised British Prime Minister Tony Blair after he suggested his decision to go to war in Iraq would ultimately be judged by God. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/4773124.stm)
 

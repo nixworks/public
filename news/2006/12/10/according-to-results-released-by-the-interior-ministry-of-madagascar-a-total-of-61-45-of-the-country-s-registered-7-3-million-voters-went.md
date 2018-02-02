@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/10/according-to-results-released-by-the-interior-ministry-of-madagascar-a-total-of-61-45-of-the-country-s-registered-7-3-million-voters-went.html)  [JSON](/news/2006/12/10/according-to-results-released-by-the-interior-ministry-of-madagascar-a-total-of-61-45-of-the-country-s-registered-7-3-million-voters-went.json)  [XML](/news/2006/12/10/according-to-results-released-by-the-interior-ministry-of-madagascar-a-total-of-61-45-of-the-country-s-registered-7-3-million-voters-went.xml)  
+
 ### [2006-12-10](/news/2006/12/10/index.md)
 
+##### Madagascar
 #  According to results released by the Interior Ministry of Madagascar, a total of 61.45% of the country's registered 7.3 million voters went to the polling stations on December 3 and re-elected Marc Ravalomanana as President with 54.8% of the votes, Jean Lahiniriko and Roland Ratsiraka received 11.68% and 10.1%, respectively. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.iht.com/articles/ap/2006/12/10/africa/AF_POL_Madagascar_Elections.php)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/6167209.stm)

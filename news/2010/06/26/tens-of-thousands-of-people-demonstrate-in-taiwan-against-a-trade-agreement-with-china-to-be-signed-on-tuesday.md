@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/26/tens-of-thousands-of-people-demonstrate-in-taiwan-against-a-trade-agreement-with-china-to-be-signed-on-tuesday.html)  [JSON](/news/2010/06/26/tens-of-thousands-of-people-demonstrate-in-taiwan-against-a-trade-agreement-with-china-to-be-signed-on-tuesday.json)  [XML](/news/2010/06/26/tens-of-thousands-of-people-demonstrate-in-taiwan-against-a-trade-agreement-with-china-to-be-signed-on-tuesday.xml)  
+
 ### [2010-06-26](/news/2010/06/26/index.md)
 
+##### Taiwan
 # Tens of thousands of people demonstrate in Taiwan against a trade agreement with China to be signed on Tuesday. 
 
 Thousands protest in the Taiwanese capital about a trade deal with China, which they fear will lead to a Chinese takeover.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10423409.stm)
 2. [Focus Taiwan News Channel](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?ID=201006260015&Type=aIPL)

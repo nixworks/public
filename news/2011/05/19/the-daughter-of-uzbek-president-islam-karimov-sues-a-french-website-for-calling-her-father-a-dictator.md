@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/19/the-daughter-of-uzbek-president-islam-karimov-sues-a-french-website-for-calling-her-father-a-dictator.html)  [JSON](/news/2011/05/19/the-daughter-of-uzbek-president-islam-karimov-sues-a-french-website-for-calling-her-father-a-dictator.json)  [XML](/news/2011/05/19/the-daughter-of-uzbek-president-islam-karimov-sues-a-french-website-for-calling-her-father-a-dictator.xml)  
+
 ### [2011-05-19](/news/2011/05/19/index.md)
 
+##### Uzbekistan
 # The daughter of Uzbek President Islam Karimov sues a French website for calling her father a "dictator". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RFE/RL](http://www.rferl.org/content/uzbek_presidents_daughter_sues_website_for_calling_dad_a_dictator/24179904.html)
 

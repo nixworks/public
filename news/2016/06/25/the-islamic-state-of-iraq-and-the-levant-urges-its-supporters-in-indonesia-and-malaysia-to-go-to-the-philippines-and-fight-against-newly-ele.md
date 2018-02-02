@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/25/the-islamic-state-of-iraq-and-the-levant-urges-
 
 ### [2016-06-25](/news/2016/06/25/index.md)
 
+##### Moro conflict
 # The Islamic State of Iraq and the Levant urges its supporters in Indonesia and Malaysia to go to the Philippines and fight against newly-elected president Rodrigo Duterte. 
 
 

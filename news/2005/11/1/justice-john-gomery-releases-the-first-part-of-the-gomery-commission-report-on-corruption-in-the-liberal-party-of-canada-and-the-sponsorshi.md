@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/1/justice-john-gomery-releases-the-first-part-of-the-gomery-commission-report-on-corruption-in-the-liberal-party-of-canada-and-the-sponsorshi.html)  [JSON](/news/2005/11/1/justice-john-gomery-releases-the-first-part-of-the-gomery-commission-report-on-corruption-in-the-liberal-party-of-canada-and-the-sponsorshi.json)  [XML](/news/2005/11/1/justice-john-gomery-releases-the-first-part-of-the-gomery-commission-report-on-corruption-in-the-liberal-party-of-canada-and-the-sponsorshi.xml)  
+
 ### [2005-11-1](/news/2005/11/1/index.md)
 
+##### John Gomery
 #  Justice John Gomery releases the first part of the Gomery Commission report on corruption in the Liberal Party of Canada and the sponsorship scandal. Gomery exonerates current Prime Minister Paul Martin but criticizes former Prime Minister Jean Chrtien and his Quebec lieutenant Alfonso Gagliano. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2005/11/01/gomery-report051101.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/3/former-president-of-pakistan-pervez-musharraf-survives-an-assassination-attempt-in-islamabad-pakistan-there-are-no-reports-of-injuries.html)  [JSON](/news/2014/04/3/former-president-of-pakistan-pervez-musharraf-survives-an-assassination-attempt-in-islamabad-pakistan-there-are-no-reports-of-injuries.json)  [XML](/news/2014/04/3/former-president-of-pakistan-pervez-musharraf-survives-an-assassination-attempt-in-islamabad-pakistan-there-are-no-reports-of-injuries.xml)  
+
 ### [2014-04-3](/news/2014/04/3/index.md)
 
+##### president
 # Former President of Pakistan Pervez Musharraf survives an assassination attempt in Islamabad, Pakistan. There are no reports of injuries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/World/Pakistan/Musharraf-survives-assassination-bomb-attempt-Police/articleshow/33164906.cms)
 

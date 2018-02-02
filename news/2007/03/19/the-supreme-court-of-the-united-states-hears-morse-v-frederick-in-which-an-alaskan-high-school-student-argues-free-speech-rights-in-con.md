@@ -1,24 +1,28 @@
+
+Formats: [HTML](/news/2007/03/19/the-supreme-court-of-the-united-states-hears-morse-v-frederick-in-which-an-alaskan-high-school-student-argues-free-speech-rights-in-con.html)  [JSON](/news/2007/03/19/the-supreme-court-of-the-united-states-hears-morse-v-frederick-in-which-an-alaskan-high-school-student-argues-free-speech-rights-in-con.json)  [XML](/news/2007/03/19/the-supreme-court-of-the-united-states-hears-morse-v-frederick-in-which-an-alaskan-high-school-student-argues-free-speech-rights-in-con.xml)  
+
 ### [2007-03-19](/news/2007/03/19/index.md)
 
+##### Supreme Court of the United States
 #  The Supreme Court of the United States hears "Morse v. Frederick", in which an Alaskan high school student argues free speech rights in connection with his displaying a banner reading "Bong Hits 4 Jesus" in front of a Juneau high school. 
 
 A high school senior&#8217;s 14-foot banner proclaiming &#8220;Bong Hits 4 Jesus&#8221; gave the Supreme Court a provocative prop for a lively argument Monday about the extent of schools&#8217; control over student speech.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/17687386/)
 1. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Video/070319/nc_scotus_freespeech_070319.standard.jpg)
-
-### Related:
-
-1. [The United States Supreme Court confirms (5-4) a temporary stay of a lower court ruling which would have required Texas to undergo new redistricting of congressional districts with large Hispanic and African American populations. The ruling was made in advance of a formal hearing on the gerrymandering case, "Abbott v. Perez", which has no scheduled hearing date yet. ](/news/2017/09/13/the-united-states-supreme-court-confirms-5a4-a-temporary-stay-of-a-lower-court-ruling-which-would-have-required-texas-to-undergo-new-red.md) _Context: United States Supreme Court_
-2. [A large fire continues to burn at the Peter Pan Seafoods fish processing plant in Port Moller, Alaska, on the Alaska Peninsula. Much of the facility has been destroyed, and the plant is out of commission. Power is out in the village. ](/news/2017/08/17/a-large-fire-continues-to-burn-at-the-peter-pan-seafoods-fish-processing-plant-in-port-moller-alaska-on-the-alaska-peninsula-much-of-the.md) _Context: Alaska_
-3. [North Korea test-launches what is presumed to be its first intercontinental ballistic missile 933 kilometers into the Sea of Japan within Japan's Exclusive Economic Zone. An American expert theorizes the ICBM, which reached an altitude of 2,802 km, could potentially reach the U.S. state of Alaska. ](/news/2017/07/4/north-korea-test-launches-what-is-presumed-to-be-its-first-intercontinental-ballistic-missile-933-kilometers-into-the-sea-of-japan-within-ja.md) _Context: Alaska_
-4. [A woman is killed aboard the "Emerald Princess" cruise ship as it sails to a port of call in Juneau, Alaska, U.S. The passengers are detained while the FBI investigates. Authorities suspect the incident is related to domestic violence. ](/news/2017/07/26/a-woman-is-killed-aboard-the-emerald-princess-cruise-ship-as-it-sails-to-a-port-of-call-in-juneau-alaska-u-s-the-passengers-are-detaine.md) _Context: Juneau, Alaska_
-5. [A 7.7 magnitude earthquake strikes off Russia's Kamchatka Peninsula, west of the Alaskan Aleutian Island of Attu, in the North Pacific Ocean. No immediate reports of casualties or damage; a tsunami warning was cancelled. ](/news/2017/07/18/a-7-7-magnitude-earthquake-strikes-off-russia-s-kamchatka-peninsula-west-of-the-alaskan-aleutian-island-of-attu-in-the-north-pacific-ocean.md) _Context: Alaska_
 
 ### Changes:
 
 1. [ The Supreme Court of the United States hears ''Morse v. Frederick'', in which an Alaskan high school student argues free speech rights in connection with his displaying a banner reading "Bong Hits 4 Jesus" in front of a Juneau high school. ](/news/2007/03/19/the-supreme-court-of-the-united-states-hears-morse-v-frederick-in-which-an-alaskan-high-school-student-argues-free-speech-rights-in.md) _2017-08-25 03:19:26 (First version)_
 1. [ The Supreme Court of the United States hears "Morse v. Frederick", in which an Alaskan high school student argues free speech rights in connection with his displaying a banner reading "Bong Hits 4 Jesus" in front of a Juneau high school. ](/news/2007/03/19/the-supreme-court-of-the-united-states-hears-morse-v-frederick-in-which-an-alaskan-high-school-student-argues-free-speech-rights-in-con.md) _(Current version)_
+
+### Related:
+
+1. [A 7.9 magnitude earthquake occurs in the Gulf of Alaska. A tsunami warning is issued for coastal Alaska and British Columbia, and the entire U.S. West Coast is placed under a tsunami watch. Areas of Alaska remain under a tsunami advisory. It is tied as the sixth-largest earthquake ever recorded in the United States, but there are no reports of significant damage or fatalities. ](/news/2018/01/23/a-7-9-magnitude-earthquake-occurs-in-the-gulf-of-alaska-a-tsunami-warning-is-issued-for-coastal-alaska-and-british-columbia-and-the-entire.md) _Context: Alaska_
+2. [The U.S. state of Alaska eliminates the posting of bail in criminal cases, replacing it with a points-based system, rating the defendant on their previous criminal history, their danger to the public, and their probability of showing up to court hearings. ](/news/2018/01/1/the-u-s-state-of-alaska-eliminates-the-posting-of-bail-in-criminal-cases-replacing-it-with-a-points-based-system-rating-the-defendant-on.md) _Context: Alaska_
+3. [The Supreme Court of the United States rules that the act banning most people from eight countries, six of them Muslim-majority, to travel to the United States can take full effect pending legal challenges. ](/news/2017/12/4/the-supreme-court-of-the-united-states-rules-that-the-act-banning-most-people-from-eight-countries-six-of-them-muslim-majority-to-travel-t.md) _Context: Supreme Court of the United States_
+4. [The Oregon Court of Appeals upholds a $135,000 fine against the owners of Sweet Cakes by Melissa in "Sweet Cakes by Melissa v. Oregon Bureau of Labor and Industries" for refusing to make a wedding cake for a same-sex couple. A similar case, "Masterpiece Cakeshop v. Colorado Civil Rights Commission" has reached the Supreme Court of the United States with a decision expected in June 2018. ](/news/2017/12/28/the-oregon-court-of-appeals-upholds-a-135-000-fine-against-the-owners-of-sweet-cakes-by-melissa-in-sweet-cakes-by-melissa-v-oregon-bureau.md) _Context: Supreme Court of the United States_
+5. [The United States Supreme Court confirms (5-4) a temporary stay of a lower court ruling which would have required Texas to undergo new redistricting of congressional districts with large Hispanic and African American populations. The ruling was made in advance of a formal hearing on the gerrymandering case, "Abbott v. Perez", which has no scheduled hearing date yet. ](/news/2017/09/13/the-united-states-supreme-court-confirms-5a4-a-temporary-stay-of-a-lower-court-ruling-which-would-have-required-texas-to-undergo-new-red.md) _Context: Supreme Court of the United States_

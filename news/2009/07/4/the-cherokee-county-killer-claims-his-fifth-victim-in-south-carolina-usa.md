@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/4/the-cherokee-county-killer-claims-his-fifth-victim-in-south-carolina-usa.html)  [JSON](/news/2009/07/4/the-cherokee-county-killer-claims-his-fifth-victim-in-south-carolina-usa.json)  [XML](/news/2009/07/4/the-cherokee-county-killer-claims-his-fifth-victim-in-south-carolina-usa.xml)  
+
 ### [2009-07-4](/news/2009/07/4/index.md)
 
+##### Cherokee County killer
 #  The Cherokee County killer claims his fifth victim in South Carolina, USA.
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/CRIME/07/04/south.carolina.killings/index.html)
 

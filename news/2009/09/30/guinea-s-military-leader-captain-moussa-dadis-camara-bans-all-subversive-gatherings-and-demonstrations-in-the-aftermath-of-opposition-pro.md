@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/30/guinea-s-military-leader-captain-moussa-dadis-camara-bans-all-subversive-gatherings-and-demonstrations-in-the-aftermath-of-opposition-pro.html)  [JSON](/news/2009/09/30/guinea-s-military-leader-captain-moussa-dadis-camara-bans-all-subversive-gatherings-and-demonstrations-in-the-aftermath-of-opposition-pro.json)  [XML](/news/2009/09/30/guinea-s-military-leader-captain-moussa-dadis-camara-bans-all-subversive-gatherings-and-demonstrations-in-the-aftermath-of-opposition-pro.xml)  
+
 ### [2009-09-30](/news/2009/09/30/index.md)
 
+##### Guinea
 #  Guinea's military leader Captain Moussa Dadis Camara bans all "subversive" gatherings and demonstrations in the aftermath of opposition protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5iAVjutFiNxMjNLZd6fFZMANVHAXgD9B1JG0O0)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8282186.stm)

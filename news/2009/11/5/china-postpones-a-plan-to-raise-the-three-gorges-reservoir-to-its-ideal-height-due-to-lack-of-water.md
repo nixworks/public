@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/5/china-postpones-a-plan-to-raise-the-three-gorges-reservoir-to-its-ideal-height-due-to-lack-of-water.html)  [JSON](/news/2009/11/5/china-postpones-a-plan-to-raise-the-three-gorges-reservoir-to-its-ideal-height-due-to-lack-of-water.json)  [XML](/news/2009/11/5/china-postpones-a-plan-to-raise-the-three-gorges-reservoir-to-its-ideal-height-due-to-lack-of-water.xml)  
+
 ### [2009-11-5](/news/2009/11/5/index.md)
 
+##### China
 #  China postpones a plan to raise the Three Gorges reservoir to its ideal height due to lack of water. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8343726.stm)
 

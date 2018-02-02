@@ -1,16 +1,26 @@
+
+Formats: [HTML](/news/2012/11/19/police-in-kenya-fire-tear-gas-amid-clashes-between-rioters-and-ethnic-somalis-in-the-capital-nairobi-after-a-bus-bombing-yesterday-killed-n.html)  [JSON](/news/2012/11/19/police-in-kenya-fire-tear-gas-amid-clashes-between-rioters-and-ethnic-somalis-in-the-capital-nairobi-after-a-bus-bombing-yesterday-killed-n.json)  [XML](/news/2012/11/19/police-in-kenya-fire-tear-gas-amid-clashes-between-rioters-and-ethnic-somalis-in-the-capital-nairobi-after-a-bus-bombing-yesterday-killed-n.xml)  
+
 ### [2012-11-19](/news/2012/11/19/index.md)
 
+##### Kenya
 # Police in Kenya fire tear gas amid clashes between rioters and ethnic Somalis in the capital Nairobi, after a bus bombing yesterday killed nine people. 
 
 Scores of Kenyan troops go on the rampage in the eastern town of Garissa, beating residents, after three soldiers are shot dead.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20401136)
 2. [Capital FM Kenya](http://www.capitalfm.co.ke/news/2012/11/gunmen-kill-three-soldiers-in-kenyas-northeast/)
 3. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Riot-in-Kenya-after-bus-bombing-kills-nine-in-capital/articleshow/17285247.cms)
 3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64242000/jpg/_64242265_dscf0397.jpg)
+
+### Changes:
+
+1. [2012 terrorist attacks in Kenya:Police in Kenya fire tear gas amid clashes between rioters and ethnic Somalis in the capital Nairobi, after a bus bombing yesterday killed nine people. ](/news/2012/11/19/2012-terrorist-attacks-in-kenya-ppolice-in-kenya-fire-tear-gas-amid-clashes-between-rioters-and-ethnic-somalis-in-the-capital-nairobi-after.md) _2017-08-25 03:36:50 (First version)_
+2. [2012 terrorist attacks in Kenya:: Police in Kenya fire tear gas amid clashes between rioters and ethnic Somalis in the capital Nairobi, after a bus bombing yesterday killed nine people. ](/news/2012/11/19/2012-terrorist-attacks-in-kenya-police-in-kenya-fire-tear-gas-amid-clashes-between-rioters-and-ethnic-somalis-in-the-capital-nairobi-afte.md) _2017-08-27 03:37:00 (Update)_
+2. [Police in Kenya fire tear gas amid clashes between rioters and ethnic Somalis in the capital Nairobi, after a bus bombing yesterday killed nine people. ](/news/2012/11/19/police-in-kenya-fire-tear-gas-amid-clashes-between-rioters-and-ethnic-somalis-in-the-capital-nairobi-after-a-bus-bombing-yesterday-killed-n.md) _(Current version)_
 
 ### Related:
 
@@ -19,9 +29,3 @@ Scores of Kenyan troops go on the rampage in the eastern town of Garissa, beatin
 3. [Seven schoolgirls are killed and ten hospitalised after a fire at the Moi Girls School in Nairobi, Kenya. ](/news/2017/09/2/seven-schoolgirls-are-killed-and-ten-hospitalised-after-a-fire-at-the-moi-girls-school-in-nairobi-kenya.md) _Context: Kenya, Nairobi_
 4. [A high court in Kenya blocks a government bid to close the Dadaab refugee camp and repatriate over 260,000 Somali refugees back to Somalia. The government said it will appeal against the ruling. ](/news/2017/02/9/a-high-court-in-kenya-blocks-a-government-bid-to-close-the-dadaab-refugee-camp-and-repatriate-over-260-000-somali-refugees-back-to-somalia.md) _Context: Kenya, Somalia_
 5. [Al-Shabaab militants attack a remote AMISOM base in southern Somalia, claiming to have killed dozens of Kenyan troops. ](/news/2017/01/27/al-shabaab-militants-attack-a-remote-amisom-base-in-southern-somalia-claiming-to-have-killed-dozens-of-kenyan-troops.md) _Context: Kenya, Somalia_
-
-### Changes:
-
-1. [2012 terrorist attacks in Kenya:Police in Kenya fire tear gas amid clashes between rioters and ethnic Somalis in the capital Nairobi, after a bus bombing yesterday killed nine people. ](/news/2012/11/19/2012-terrorist-attacks-in-kenya-ppolice-in-kenya-fire-tear-gas-amid-clashes-between-rioters-and-ethnic-somalis-in-the-capital-nairobi-after.md) _2017-08-25 03:36:50 (First version)_
-2. [2012 terrorist attacks in Kenya:: Police in Kenya fire tear gas amid clashes between rioters and ethnic Somalis in the capital Nairobi, after a bus bombing yesterday killed nine people. ](/news/2012/11/19/2012-terrorist-attacks-in-kenya-police-in-kenya-fire-tear-gas-amid-clashes-between-rioters-and-ethnic-somalis-in-the-capital-nairobi-afte.md) _2017-08-27 03:37:00 (Update)_
-2. [Police in Kenya fire tear gas amid clashes between rioters and ethnic Somalis in the capital Nairobi, after a bus bombing yesterday killed nine people. ](/news/2012/11/19/police-in-kenya-fire-tear-gas-amid-clashes-between-rioters-and-ethnic-somalis-in-the-capital-nairobi-after-a-bus-bombing-yesterday-killed-n.md) _(Current version)_

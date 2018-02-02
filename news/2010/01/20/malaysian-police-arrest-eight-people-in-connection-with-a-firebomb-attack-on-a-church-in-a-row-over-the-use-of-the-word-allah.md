@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/20/malaysian-police-arrest-eight-people-in-connection-with-a-firebomb-attack-on-a-church-in-a-row-over-the-use-of-the-word-allah.html)  [JSON](/news/2010/01/20/malaysian-police-arrest-eight-people-in-connection-with-a-firebomb-attack-on-a-church-in-a-row-over-the-use-of-the-word-allah.json)  [XML](/news/2010/01/20/malaysian-police-arrest-eight-people-in-connection-with-a-firebomb-attack-on-a-church-in-a-row-over-the-use-of-the-word-allah.xml)  
+
 ### [2010-01-20](/news/2010/01/20/index.md)
 
+##### Malaysia
 # Malaysian police arrest eight people in connection with a firebomb attack on a church, in a row over the use of the word "Allah". 
 
 Police say eight men arrested over recent spate of attacks on Christian churches.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g-47nhFI6eLfZT3MJQhdf2pDNBfg)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/201012081555598103.html)

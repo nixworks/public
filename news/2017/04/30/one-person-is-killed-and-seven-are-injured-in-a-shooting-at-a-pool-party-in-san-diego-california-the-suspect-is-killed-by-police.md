@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/04/30/one-person-is-killed-and-seven-are-injured-in-a-shooting-at-a-pool-party-in-san-diego-california-the-suspect-is-killed-by-police.html)  [JSON](/news/2017/04/30/one-person-is-killed-and-seven-are-injured-in-a-shooting-at-a-pool-party-in-san-diego-california-the-suspect-is-killed-by-police.json)  [XML](/news/2017/04/30/one-person-is-killed-and-seven-are-injured-in-a-shooting-at-a-pool-party-in-san-diego-california-the-suspect-is-killed-by-police.xml)  
+
 ### [2017-04-30](/news/2017/04/30/index.md)
 
+##### San Diego
 # One person is killed and seven are injured in a shooting at a pool party in San Diego, California. The suspect is killed by police. 
 
 Eight people were injured in a shooting in the University City area of San Diego Sunday. Police said officers shot and killed the gunman.
 
 
-### Source:
+### Sources:
 
 1. [The San Diego Union-Tribune](http://www.sandiegouniontribune.com/news/public-safety/sd-me-shooting-universitycity-20170430-story.html)
 1. [Cover Image](http://www.trbimg.com/img-590702c2/turbine/sd-me-shooting-universitycity-20170430)

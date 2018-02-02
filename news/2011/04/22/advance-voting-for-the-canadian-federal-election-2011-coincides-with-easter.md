@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/22/advance-voting-for-the-canadian-federal-election-2011-coincides-with-easter.html)  [JSON](/news/2011/04/22/advance-voting-for-the-canadian-federal-election-2011-coincides-with-easter.json)  [XML](/news/2011/04/22/advance-voting-for-the-canadian-federal-election-2011-coincides-with-easter.xml)  
+
 ### [2011-04-22](/news/2011/04/22/index.md)
 
+##### Advance voting
 # Advance voting for the Canadian federal election, 2011 coincides with Easter. 
 
 The NDP is requesting Elections Canada add an extra day of advance polling so people will not miss out on a chance to cast a ballot over the Easter long weekend.
 
 
-### Source:
+### Sources:
 
 1. [CBC News](http://www.cbc.ca/news/politics/canadavotes2011/story/2011/04/18/cv-election-advance-polling-1147.html)
 2. [CBC News](http://www.cbc.ca/news/politics/canadavotes2011/story/2011/04/22/cv-election-goodfriday.html)

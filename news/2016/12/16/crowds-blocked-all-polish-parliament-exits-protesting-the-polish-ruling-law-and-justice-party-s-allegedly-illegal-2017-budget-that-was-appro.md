@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/16/crowds-blocked-all-polish-parliament-exits-prot
 
 ### [2016-12-16](/news/2016/12/16/index.md)
 
+##### Poland's parliament
 # Crowds blocked all Polish parliament exits protesting the Polish ruling Law and Justice Party's allegedly illegal 2017 budget that was approved in a vote outside of the assembly's main chamber. Earlier, the opposition Civic Platform Party stopped parliamentary proceedings on the budget because of new rules on media access. Police have beaten several protesters. According to opposition Civic Platform MP Agnieszka Pomaska, ruling party Law and Justice leader Jaroslaw Kaczynski snatched her phone. 
 
 Police early Saturday forcefully broke up an hours-long blockade of exits from the Polish parliament by protesters who said ruling party lawmakers violated the constitution by illegally passing the budget for next year.

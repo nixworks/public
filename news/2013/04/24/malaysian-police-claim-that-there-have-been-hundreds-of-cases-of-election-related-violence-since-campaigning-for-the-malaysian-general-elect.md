@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/24/malaysian-police-claim-that-there-have-been-hundreds-of-cases-of-election-related-violence-since-campaigning-for-the-malaysian-general-elect.html)  [JSON](/news/2013/04/24/malaysian-police-claim-that-there-have-been-hundreds-of-cases-of-election-related-violence-since-campaigning-for-the-malaysian-general-elect.json)  [XML](/news/2013/04/24/malaysian-police-claim-that-there-have-been-hundreds-of-cases-of-election-related-violence-since-campaigning-for-the-malaysian-general-elect.xml)  
+
 ### [2013-04-24](/news/2013/04/24/index.md)
 
+##### Malaysian police
 # Malaysian police claim that there have been hundreds of cases of election-related violence since campaigning for the Malaysian general election went underway last weekend. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [My Sinchew](http://www.mysinchew.com/node/85655)
 1. [Cover Image](http://www.mysinchew.com/sites/all/themes/mysinchewv2/img/mysinchew_logo_fbv1.jpg)

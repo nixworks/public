@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/15/a-house-under-construction-collapses-in-the-indian-city-of-mughalsarai-in-the-state-of-uttar-pradesh-killing-twelve-people-and-injuring-two.html)  [JSON](/news/2015/02/15/a-house-under-construction-collapses-in-the-indian-city-of-mughalsarai-in-the-state-of-uttar-pradesh-killing-twelve-people-and-injuring-two.json)  [XML](/news/2015/02/15/a-house-under-construction-collapses-in-the-indian-city-of-mughalsarai-in-the-state-of-uttar-pradesh-killing-twelve-people-and-injuring-two.xml)  
+
 ### [2015-02-15](/news/2015/02/15/index.md)
 
+##### India
 # A house under construction collapses in the Indian city of Mughalsarai in the state of Uttar Pradesh killing twelve people and injuring two. 
 
 12 people were killed and two others injured when a house on which construction work was going on collapsed in Dulhipur locality in Mughalsarai area in Uttar Pradesh, police said today.
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/india-news/12-killed-as-under-construction-house-collapses-in-uttar-pradesh-739711)
 1. [Cover Image](http://i.ndtvimg.com/i/2015-02/uphousecollapse_650x400_61423984412.jpg)

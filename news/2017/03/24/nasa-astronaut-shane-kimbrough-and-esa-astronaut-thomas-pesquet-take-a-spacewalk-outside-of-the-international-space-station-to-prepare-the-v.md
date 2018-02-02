@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/24/nasa-astronaut-shane-kimbrough-and-esa-astronau
 
 ### [2017-03-24](/news/2017/03/24/index.md)
 
+##### NASA
 # NASA astronaut Shane Kimbrough and ESA astronaut Thomas Pesquet take a spacewalk outside of the International Space Station to prepare the vessel for new arrivals. 
 
 Two astronauts are taking a spacewalk outside the International Space Station today (March 24) to prepare the outpost for a new docking ring among other upgrades.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/16/extreme-levels-of-radiation-have-been-found-at-a-chemical-factory-in-chechnya.html)  [JSON](/news/2005/12/16/extreme-levels-of-radiation-have-been-found-at-a-chemical-factory-in-chechnya.json)  [XML](/news/2005/12/16/extreme-levels-of-radiation-have-been-found-at-a-chemical-factory-in-chechnya.xml)  
+
 ### [2005-12-16](/news/2005/12/16/index.md)
 
+##### Chechnya
 #  Extreme levels of radiation have been found at a chemical factory in Chechnya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4535452.stm)
 

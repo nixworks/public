@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/04/17/a-drone-collides-at-london-s-heathrow-airport-with-an-airbus-a320-carrying-132-passengers-and-five-crew-with-no-injuries-reported.html)  [JSON](/news/2016/04/17/a-drone-collides-at-london-s-heathrow-airport-with-an-airbus-a320-carrying-132-passengers-and-five-crew-with-no-injuries-reported.json)  [XML](/news/2016/04/17/a-drone-collides-at-london-s-heathrow-airport-with-an-airbus-a320-carrying-132-passengers-and-five-crew-with-no-injuries-reported.xml)  
+
 ### [2016-04-17](/news/2016/04/17/index.md)
 
+##### drone
 # A drone collides at London's Heathrow Airport with an Airbus A320 carrying 132 passengers and five crew, with no injuries reported. 
 
 A passenger aircraft approaching to land at London&#039;s Heathrow Airport may have collided with a drone, but landed safely, the BBC said, quoting police.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/world/plane-may-have-collided-with-drone-at-heathrow-lands-safely-bbc-20160417-go8k6k.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/g/l/e/a/s/x/image.related.articleLeadwide.620x349.go8k6k.png/1460946072828.jpg)

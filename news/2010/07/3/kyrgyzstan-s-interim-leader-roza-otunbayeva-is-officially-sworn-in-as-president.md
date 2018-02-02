@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/3/kyrgyzstan-s-interim-leader-roza-otunbayeva-is-officially-sworn-in-as-president.html)  [JSON](/news/2010/07/3/kyrgyzstan-s-interim-leader-roza-otunbayeva-is-officially-sworn-in-as-president.json)  [XML](/news/2010/07/3/kyrgyzstan-s-interim-leader-roza-otunbayeva-is-officially-sworn-in-as-president.xml)  
+
 ### [2010-07-3](/news/2010/07/3/index.md)
 
+##### Kyrgyzstan
 # Kyrgyzstan's interim leader Roza Otunbayeva is officially sworn in as President. 
 
 Roza Otunbayeva will govern the strife-torn country until December 31, 2011.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h3CVHh-BVyVuqj2RmTHiEyrASstQ)
 2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/20107354430455179.html)

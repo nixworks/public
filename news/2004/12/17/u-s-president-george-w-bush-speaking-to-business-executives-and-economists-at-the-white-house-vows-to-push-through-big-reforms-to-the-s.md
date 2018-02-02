@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/17/u-s-president-george-w-bush-speaking-to-business-executives-and-economists-at-the-white-house-vows-to-push-through-big-reforms-to-the-s.html)  [JSON](/news/2004/12/17/u-s-president-george-w-bush-speaking-to-business-executives-and-economists-at-the-white-house-vows-to-push-through-big-reforms-to-the-s.json)  [XML](/news/2004/12/17/u-s-president-george-w-bush-speaking-to-business-executives-and-economists-at-the-white-house-vows-to-push-through-big-reforms-to-the-s.xml)  
+
 ### [2004-12-17](/news/2004/12/17/index.md)
 
+##### U.S. President
 #  U.S. President George W. Bush, speaking to business executives and economists at the White House, vows to push through big reforms to the Social Security program, including partial privatization of the state pension fund, during his second term. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4103521.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/30/while-reportedly-on-his-way-to-surrender-to-police-in-atlanta-georgia-to-face-murder-charges-former-national-basketball-association-player.html)  [JSON](/news/2011/08/30/while-reportedly-on-his-way-to-surrender-to-police-in-atlanta-georgia-to-face-murder-charges-former-national-basketball-association-player.json)  [XML](/news/2011/08/30/while-reportedly-on-his-way-to-surrender-to-police-in-atlanta-georgia-to-face-murder-charges-former-national-basketball-association-player.xml)  
+
 ### [2011-08-30](/news/2011/08/30/index.md)
 
+##### Atlanta
 # While reportedly on his way to surrender to police in Atlanta, Georgia to face murder charges, former National Basketball Association player Javaris Crittenton is arrested by the FBI at John Wayne Airport in Orange County, California. 
 
 Former NBA player Javaris Crittenton, who was suspended from the league for having guns in a locker room with teammate Gilbert Arenas, was arrested Monday in Southern California to face a murder charge in a deadly Atlanta shooting.
 
 
-### Source:
+### Sources:
 
 1. [Associated Press via ESPN](http://espn.go.com/nba/story/_/id/6906139/fbi-arrests-javaris-crittenton-california-airport)
 1. [Cover Image](http://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnba%2F500%2Fwsh.png)

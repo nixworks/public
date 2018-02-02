@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/3/fiji-expels-envoys-from-australia-and-new-zealand-over-alleged-interference-in-the-country-s-judiciary.html)  [JSON](/news/2009/11/3/fiji-expels-envoys-from-australia-and-new-zealand-over-alleged-interference-in-the-country-s-judiciary.json)  [XML](/news/2009/11/3/fiji-expels-envoys-from-australia-and-new-zealand-over-alleged-interference-in-the-country-s-judiciary.xml)  
+
 ### [2009-11-3](/news/2009/11/3/index.md)
 
+##### Fiji
 #  Fiji expels envoys from Australia and New Zealand over alleged interference in the country's judiciary. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i7s-gDbsnxCdYg_e-9lK8W-UvlXw)
 2. [Fiji Times](http://www.fijitimes.com/story.aspx?id=132844)

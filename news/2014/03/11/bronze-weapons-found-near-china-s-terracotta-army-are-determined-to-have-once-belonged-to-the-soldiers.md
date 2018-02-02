@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/11/bronze-weapons-found-near-china-s-terracotta-army-are-determined-to-have-once-belonged-to-the-soldiers.html)  [JSON](/news/2014/03/11/bronze-weapons-found-near-china-s-terracotta-army-are-determined-to-have-once-belonged-to-the-soldiers.json)  [XML](/news/2014/03/11/bronze-weapons-found-near-china-s-terracotta-army-are-determined-to-have-once-belonged-to-the-soldiers.xml)  
+
 ### [2014-03-11](/news/2014/03/11/index.md)
 
+##### Terracotta Army
 # Bronze weapons found near China's Terracotta Army are determined to have once belonged to the soldiers. 
 
 Weapons found among China&#039;s terra-cotta warriors were made by cells of craftspeople working with identical molds, new research suggests.
 
 
-### Source:
+### Sources:
 
 1. [Live Science](http://www.livescience.com/44024-terracotta-warrior-weapons-construction.html)
 1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2MC8xNjIvb3JpZ2luYWwvdGVycmFjb3R0YS13YXJyaW9ycy0xLmpwZw==)

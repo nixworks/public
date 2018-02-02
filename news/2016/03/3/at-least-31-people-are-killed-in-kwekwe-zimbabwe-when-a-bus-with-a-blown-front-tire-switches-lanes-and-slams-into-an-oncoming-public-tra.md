@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/3/at-least-31-people-are-killed-in-kwekwe-zimbabwe
 
 ### [2016-03-3](/news/2016/03/3/index.md)
 
+##### Kwekwe
 # At least 31 people are killed in Kwekwe, Zimbabwe, when a bus, with a blown front tire, switches lanes and slams into an oncoming public transport minibus. 
 
 Zimbabwe police say 31 people were killed in a bus accident after a burst front tire sent the vehicle careening into the oncoming lane.

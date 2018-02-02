@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/12/terri-irwin-widow-of-naturalist-and-tv-personality-steve-irwin-reports-that-all-footage-of-his-death-from-a-stingray-piercing-his-heart-h.html)  [JSON](/news/2007/01/12/terri-irwin-widow-of-naturalist-and-tv-personality-steve-irwin-reports-that-all-footage-of-his-death-from-a-stingray-piercing-his-heart-h.json)  [XML](/news/2007/01/12/terri-irwin-widow-of-naturalist-and-tv-personality-steve-irwin-reports-that-all-footage-of-his-death-from-a-stingray-piercing-his-heart-h.xml)  
+
 ### [2007-01-12](/news/2007/01/12/index.md)
 
+##### Terri Irwin
 #  Terri Irwin, widow of naturalist and TV personality Steve Irwin, reports that all footage of his death from a stingray piercing his heart has been destroyed, and the events surrounding his death will not be shown in his final documentary, "Ocean's Deadliest". 
 
 In the four months since Steve Irwin’s tragic death, his widow Terri has done her best to make things as normal as possible for her children ? Bob, 3, and Bind, 8.
 
 
-### Source:
+### Sources:
 
 1. [Access Hollywood](http://www.accesshollywood.com/news/ah3485.shtml)
 1. [Cover Image](https://d919ce141ef35c47fc40-b9166a60eccf0f83d2d9c63fa65b9129.ssl.cf5.rackcdn.com/images/18847.2e16d0ba.fill-300x300.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/17/representatives-of-indonesian-government-and-the-free-aceh-movement-reach-a-tentative-peace-settlement-in-negoations-in-helsinki-finland.html)  [JSON](/news/2005/07/17/representatives-of-indonesian-government-and-the-free-aceh-movement-reach-a-tentative-peace-settlement-in-negoations-in-helsinki-finland.json)  [XML](/news/2005/07/17/representatives-of-indonesian-government-and-the-free-aceh-movement-reach-a-tentative-peace-settlement-in-negoations-in-helsinki-finland.xml)  
+
 ### [2005-07-17](/news/2005/07/17/index.md)
 
+##### Indonesia
 #  Representatives of Indonesian government and the Free Aceh Movement reach a tentative peace settlement in negoations in Helsinki, Finland. They intend to sign a formal truce in August 15. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4691937.stm)
 2. [Jakarta Post](http://www.thejakartapost.com/detaillatestnews.asp?fileid=20050717181514&irec=0)

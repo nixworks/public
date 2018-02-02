@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/4/typhoon-damrey-kills-at-least-19-people-in-vietn
 
 ### [2017-11-4](/news/2017/11/4/index.md)
 
+##### 2017 Pacific typhoon season
 # Typhoon Damrey kills at least 19 people in Vietnam, a week before the country is set to host APEC Vietnam 2017. 
 
 

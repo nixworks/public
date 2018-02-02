@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/22/judges-in-the-trial-of-dutch-mp-geert-wilders-are-ordered-to-step-down-by-an-independent-appeals-panel-with-the-legal-process-now-having-to.html)  [JSON](/news/2010/10/22/judges-in-the-trial-of-dutch-mp-geert-wilders-are-ordered-to-step-down-by-an-independent-appeals-panel-with-the-legal-process-now-having-to.json)  [XML](/news/2010/10/22/judges-in-the-trial-of-dutch-mp-geert-wilders-are-ordered-to-step-down-by-an-independent-appeals-panel-with-the-legal-process-now-having-to.xml)  
+
 ### [2010-10-22](/news/2010/10/22/index.md)
 
+##### Geert Wilders
 # Judges in the trial of Dutch MP Geert Wilders are ordered to step down by an independent appeals panel, with the legal process now having to begin again. 
 
 Judges in the hate speech trial of Dutch anti-Islam MP Geert Wilders are ordered to step down by an appeals panel.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/new-judges-for-dutch-mp-hate-speech-trial-20101023-16y5x.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11609589)

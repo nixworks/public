@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/3/hormel-is-announced-to-be-purchasing-skippy-peanut-butter-from-unilever-for-700-million.html)  [JSON](/news/2013/01/3/hormel-is-announced-to-be-purchasing-skippy-peanut-butter-from-unilever-for-700-million.json)  [XML](/news/2013/01/3/hormel-is-announced-to-be-purchasing-skippy-peanut-butter-from-unilever-for-700-million.xml)  
+
 ### [2013-01-3](/news/2013/01/3/index.md)
 
+##### Hormel
 # Hormel is announced to be purchasing Skippy peanut butter from Unilever for $700 million. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MarketWatch](http://www.marketwatch.com/story/hormel-buying-skippy-peanut-butter-for-700-mln-2013-01-03-7914234)
 1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)

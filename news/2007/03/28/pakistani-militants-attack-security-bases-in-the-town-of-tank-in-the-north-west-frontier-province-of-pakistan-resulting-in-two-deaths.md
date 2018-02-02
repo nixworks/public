@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/28/pakistani-militants-attack-security-bases-in-the-town-of-tank-in-the-north-west-frontier-province-of-pakistan-resulting-in-two-deaths.html)  [JSON](/news/2007/03/28/pakistani-militants-attack-security-bases-in-the-town-of-tank-in-the-north-west-frontier-province-of-pakistan-resulting-in-two-deaths.json)  [XML](/news/2007/03/28/pakistani-militants-attack-security-bases-in-the-town-of-tank-in-the-north-west-frontier-province-of-pakistan-resulting-in-two-deaths.xml)  
+
 ### [2007-03-28](/news/2007/03/28/index.md)
 
+##### Tank
 #  Pakistani militants attack security bases in the town of Tank in the North-West Frontier Province of Pakistan resulting in two deaths. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/ISL89311.htm)
 

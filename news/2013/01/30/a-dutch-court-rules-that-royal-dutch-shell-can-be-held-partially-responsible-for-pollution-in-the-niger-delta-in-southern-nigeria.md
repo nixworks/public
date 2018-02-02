@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/01/30/a-dutch-court-rules-that-royal-dutch-shell-can-be-held-partially-responsible-for-pollution-in-the-niger-delta-in-southern-nigeria.html)  [JSON](/news/2013/01/30/a-dutch-court-rules-that-royal-dutch-shell-can-be-held-partially-responsible-for-pollution-in-the-niger-delta-in-southern-nigeria.json)  [XML](/news/2013/01/30/a-dutch-court-rules-that-royal-dutch-shell-can-be-held-partially-responsible-for-pollution-in-the-niger-delta-in-southern-nigeria.xml)  
+
 ### [2013-01-30](/news/2013/01/30/index.md)
 
+##### Netherlands
 # A Dutch court rules that Royal Dutch Shell can be held partially responsible for pollution in the Niger Delta in southern Nigeria. 
 
 Four Nigerian farmers are set to find out whether a Netherlands court will back their pollution legal case against oil giant Shell.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21254890)
-2. [Reuters](http://www.reuters.com/article/2013/01/30/us-shell-nigeria-lawsuit-idUSBRE90S16X20130130)
+2. [Reuters](https://www.reuters.com/article/2013/01/30/us-shell-nigeria-lawsuit-idUSBRE90S16X20130130)
 2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63432000/jpg/_63432929_016207816.jpg)
 
 ### Related:

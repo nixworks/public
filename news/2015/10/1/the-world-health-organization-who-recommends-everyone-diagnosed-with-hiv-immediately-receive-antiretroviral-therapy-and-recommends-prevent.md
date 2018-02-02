@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2015/10/1/the-world-health-organization-who-recommends-everyone-diagnosed-with-hiv-immediately-receive-antiretroviral-therapy-and-recommends-prevent.html)  [JSON](/news/2015/10/1/the-world-health-organization-who-recommends-everyone-diagnosed-with-hiv-immediately-receive-antiretroviral-therapy-and-recommends-prevent.json)  [XML](/news/2015/10/1/the-world-health-organization-who-recommends-everyone-diagnosed-with-hiv-immediately-receive-antiretroviral-therapy-and-recommends-prevent.xml)  
+
 ### [2015-10-1](/news/2015/10/1/index.md)
 
+##### World Health Organization
 # The World Health Organization (WHO) recommends everyone diagnosed with HIV immediately receive antiretroviral therapy and recommends preventative treatment for all at "substantial risk" of infection. Previously, the UN health agency had recommended to physicians that the threshold for patient intervention was the presentation of symptoms. 
 
 In new guidelines published today, the World Health Organization recommended that everyone diagnosed with HIV immediately receive antiretroviral therapy, and recommended preventative antiretroviral...
 
 
-### Source:
+### Sources:
 
-1. [The Verge](http://www.theverge.com/2015/9/30/9423119/who-hiv-antiretroviral-treatment)
+1. [The Verge](https://www.theverge.com/2015/9/30/9423119/who-hiv-antiretroviral-treatment)
 2. [Time](http://time.com/4056153/hiv-treatment-aids-who-world-health-organization/)
 3. [WHO](http://www.who.int/mediacentre/news/releases/2015/hiv-treat-all-recommendation/en/)
-3. [Cover Image](https://cdn0.vox-cdn.com/thumbor/fPT3knLqZ6GQZPv6rD2tMbEAff4=/0x380:4000x2630/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/47297746/who.0.0.JPG)
+3. [Cover Image](https://cdn.vox-cdn.com/thumbor/pVzfwg2OcA2jAVvGnH7NFJ-71dY=/0x380:4000x2630/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/47297746/who.0.0.JPG)
 
 ### Related:
 

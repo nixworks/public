@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/4/federal-republic-of-yugoslavia-renamed-to-serbia-and-montenegro-with-a-new-constitution-converting-the-federal-republic-to-a-loose-union.html)  [JSON](/news/2003/02/4/federal-republic-of-yugoslavia-renamed-to-serbia-and-montenegro-with-a-new-constitution-converting-the-federal-republic-to-a-loose-union.json)  [XML](/news/2003/02/4/federal-republic-of-yugoslavia-renamed-to-serbia-and-montenegro-with-a-new-constitution-converting-the-federal-republic-to-a-loose-union.xml)  
+
 ### [2003-02-4](/news/2003/02/4/index.md)
 
+##### Federal Republic of Yugoslavia
 #  Federal Republic of Yugoslavia renamed to Serbia and Montenegro with a new constitution converting the federal republic to a "loose union".
 
 

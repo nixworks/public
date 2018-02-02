@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/29/ireland-s-rail-line-between-galway-and-limerick-reopens-for-the-first-time-in-34-years.html)  [JSON](/news/2010/03/29/ireland-s-rail-line-between-galway-and-limerick-reopens-for-the-first-time-in-34-years.json)  [XML](/news/2010/03/29/ireland-s-rail-line-between-galway-and-limerick-reopens-for-the-first-time-in-34-years.xml)  
+
 ### [2010-03-29](/news/2010/03/29/index.md)
 
+##### Galway
 # Ireland's rail line between Galway and Limerick reopens for the first time in 34 years. 
 
 The Limerick to Galway rail line has been officially reopened, with trains travelling between the two cities for the first time in 34 years.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0329/rail.html)
 1. [Cover Image](https://img.rasset.ie/0003253b-1600.jpg)

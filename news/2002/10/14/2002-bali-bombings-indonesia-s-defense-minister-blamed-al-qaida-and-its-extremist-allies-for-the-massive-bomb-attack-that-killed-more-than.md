@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/14/2002-bali-bombings-indonesia-s-defense-minister-blamed-al-qaida-and-its-extremist-allies-for-the-massive-bomb-attack-that-killed-more-than.html)  [JSON](/news/2002/10/14/2002-bali-bombings-indonesia-s-defense-minister-blamed-al-qaida-and-its-extremist-allies-for-the-massive-bomb-attack-that-killed-more-than.json)  [XML](/news/2002/10/14/2002-bali-bombings-indonesia-s-defense-minister-blamed-al-qaida-and-its-extremist-allies-for-the-massive-bomb-attack-that-killed-more-than.xml)  
+
 ### [2002-10-14](/news/2002/10/14/index.md)
 
+##### 2002 Bali bombings
 #  2002 Bali bombings: Indonesia's defense minister blamed al-Qaida and its extremist allies for the massive bomb attack that killed more than 180 people at a nightclub on the resort island of Bali.
 
 

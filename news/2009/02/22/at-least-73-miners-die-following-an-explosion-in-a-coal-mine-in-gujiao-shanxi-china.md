@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/02/22/at-least-73-miners-die-following-an-explosion-in-a-coal-mine-in-gujiao-shanxi-china.html)  [JSON](/news/2009/02/22/at-least-73-miners-die-following-an-explosion-in-a-coal-mine-in-gujiao-shanxi-china.json)  [XML](/news/2009/02/22/at-least-73-miners-die-following-an-explosion-in-a-coal-mine-in-gujiao-shanxi-china.xml)  
+
 ### [2009-02-22](/news/2009/02/22/index.md)
 
+##### miner
 #  At least 73 miners die following an explosion in a coal mine in Gujiao, Shanxi, China. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601080&sid=aVCR__ui3TmY&refer=asia)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601080&sid=aVCR__ui3TmY&refer=asia)
 
 ### Related:
 

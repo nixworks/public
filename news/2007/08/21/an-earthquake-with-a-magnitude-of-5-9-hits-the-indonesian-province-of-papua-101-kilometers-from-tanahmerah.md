@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/21/an-earthquake-with-a-magnitude-of-5-9-hits-the-indonesian-province-of-papua-101-kilometers-from-tanahmerah.html)  [JSON](/news/2007/08/21/an-earthquake-with-a-magnitude-of-5-9-hits-the-indonesian-province-of-papua-101-kilometers-from-tanahmerah.json)  [XML](/news/2007/08/21/an-earthquake-with-a-magnitude-of-5-9-hits-the-indonesian-province-of-papua-101-kilometers-from-tanahmerah.xml)  
+
 ### [2007-08-21](/news/2007/08/21/index.md)
 
+##### earthquake
 #  An earthquake with a magnitude of 5.9 hits the Indonesian province of Papua 101 kilometers from Tanahmerah. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Philippine Star](http://www.philstar.com/index.php?News%20Flash&p=54&type=2&sec=91&aid=2007082110)
 

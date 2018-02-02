@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/22/good-friday-celebrations-occur-internationally.html)  [JSON](/news/2011/04/22/good-friday-celebrations-occur-internationally.json)  [XML](/news/2011/04/22/good-friday-celebrations-occur-internationally.xml)  
+
 ### [2011-04-22](/news/2011/04/22/index.md)
 
+##### Good Friday
 # Good Friday celebrations occur internationally. 
 
 Christian pilgrims crowd the cobblestone alleyways of Jerusalem&#039;s Old City to mark Good Friday.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-13171652)
 2. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2011/4/23/nation/8542518&sec=nation)

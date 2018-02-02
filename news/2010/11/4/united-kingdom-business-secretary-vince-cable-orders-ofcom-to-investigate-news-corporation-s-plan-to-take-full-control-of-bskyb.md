@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/4/united-kingdom-business-secretary-vince-cable-orders-ofcom-to-investigate-news-corporation-s-plan-to-take-full-control-of-bskyb.html)  [JSON](/news/2010/11/4/united-kingdom-business-secretary-vince-cable-orders-ofcom-to-investigate-news-corporation-s-plan-to-take-full-control-of-bskyb.json)  [XML](/news/2010/11/4/united-kingdom-business-secretary-vince-cable-orders-ofcom-to-investigate-news-corporation-s-plan-to-take-full-control-of-bskyb.xml)  
+
 ### [2010-11-4](/news/2010/11/4/index.md)
 
+##### Vince Cable
 # United Kingdom - Business Secretary Vince Cable orders Ofcom to investigate News Corporation's plan to take full control of BSkyB. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-11691728)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

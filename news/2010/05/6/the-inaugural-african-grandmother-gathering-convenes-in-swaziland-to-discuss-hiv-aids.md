@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/6/the-inaugural-african-grandmother-gathering-convenes-in-swaziland-to-discuss-hiv-aids.html)  [JSON](/news/2010/05/6/the-inaugural-african-grandmother-gathering-convenes-in-swaziland-to-discuss-hiv-aids.json)  [XML](/news/2010/05/6/the-inaugural-african-grandmother-gathering-convenes-in-swaziland-to-discuss-hiv-aids.xml)  
+
 ### [2010-05-6](/news/2010/05/6/index.md)
 
+##### African Grandmother Gathering
 # The inaugural African Grandmother Gathering convenes in Swaziland to discuss HIV-AIDS. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8665468.stm)
 2. [The Hindu](http://www.hindu.com/2010/05/06/stories/2010050653010900.htm)

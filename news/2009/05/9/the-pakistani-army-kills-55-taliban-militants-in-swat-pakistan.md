@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/05/9/the-pakistani-army-kills-55-taliban-militants-in-swat-pakistan.html)  [JSON](/news/2009/05/9/the-pakistani-army-kills-55-taliban-militants-in-swat-pakistan.json)  [XML](/news/2009/05/9/the-pakistani-army-kills-55-taliban-militants-in-swat-pakistan.xml)  
+
 ### [2009-05-9](/news/2009/05/9/index.md)
 
+##### military
 #  The Pakistani Army kills 55 Taliban militants in Swat, Pakistan. 
 
 Pakistan has been roused to fight the &quot;existential threat&quot; of a growing Islamist insurgency, the top U.S. commander for the Afghan-Pakistan war theater said on Sunday, as Islamabad intensified an offensive against Taliban militants.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSSP42878020090510)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090510&t=2&i=10046662&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-10T095532Z_01_BTRE5490R9N00_RTROPTP_0_PAKISTAN-VIOLENCE)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSSP42878020090510)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20090510&t=2&i=10046662&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-10T095532Z_01_BTRE5490R9N00_RTROPTP_0_PAKISTAN-VIOLENCE)
 
 ### Related:
 

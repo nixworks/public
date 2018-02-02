@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/22/teachers-in-swaziland-go-on-an-open-ended-strike-in-a-dispute-over-pay.html)  [JSON](/news/2012/06/22/teachers-in-swaziland-go-on-an-open-ended-strike-in-a-dispute-over-pay.json)  [XML](/news/2012/06/22/teachers-in-swaziland-go-on-an-open-ended-strike-in-a-dispute-over-pay.xml)  
+
 ### [2012-06-22](/news/2012/06/22/index.md)
 
+##### Swaziland
 # Teachers in Swaziland go on an open-ended strike in a dispute over pay. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/africa/swazi-teachers-prolong-pay-strike-1.1325869#.T-Sk2_W8j_k)
 

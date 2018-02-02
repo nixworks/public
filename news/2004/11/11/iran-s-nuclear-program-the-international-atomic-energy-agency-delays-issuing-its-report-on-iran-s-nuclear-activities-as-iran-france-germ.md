@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/11/11/iran-s-nuclear-program-the-international-atomic-energy-agency-delays-issuing-its-report-on-iran-s-nuclear-activities-as-iran-france-germ.html)  [JSON](/news/2004/11/11/iran-s-nuclear-program-the-international-atomic-energy-agency-delays-issuing-its-report-on-iran-s-nuclear-activities-as-iran-france-germ.json)  [XML](/news/2004/11/11/iran-s-nuclear-program-the-international-atomic-energy-agency-delays-issuing-its-report-on-iran-s-nuclear-activities-as-iran-france-germ.xml)  
+
 ### [2004-11-11](/news/2004/11/11/index.md)
 
+##### Iran's nuclear program
 #  Iran's nuclear program: The International Atomic Energy Agency delays issuing its report on Iran's nuclear activities as Iran, France, Germany and Britain remain deadlocked in talks aimed at freezing Iran's uranium enrichment program. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6799535&section=news)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6799535&section=news)
 
 ### Related:
 

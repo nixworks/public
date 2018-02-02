@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/19/the-united-states-department-of-justice-files-a
 
 ### [2016-02-19](/news/2016/02/19/index.md)
 
+##### U.S. Justice Department
 # The United States Department of Justice files a motion to compel Apple Inc. to comply with a court order to help the FBI hack a phone used by an attacker in the 2015 San Bernardino attack. 
 
 The Justice Department is seeking to force Apple to comply with an order to help the FBI crack a phone used by one of the San Bernardino attackers.

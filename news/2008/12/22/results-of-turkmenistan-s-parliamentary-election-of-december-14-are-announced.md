@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/22/results-of-turkmenistan-s-parliamentary-election-of-december-14-are-announced.html)  [JSON](/news/2008/12/22/results-of-turkmenistan-s-parliamentary-election-of-december-14-are-announced.json)  [XML](/news/2008/12/22/results-of-turkmenistan-s-parliamentary-election-of-december-14-are-announced.xml)  
+
 ### [2008-12-22](/news/2008/12/22/index.md)
 
+##### Turkmenistan
 #  Results of Turkmenistan's parliamentary election of December 14 are announced. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA News](http://www.voanews.com/english/2008-12-22-voa6.cfm)
 

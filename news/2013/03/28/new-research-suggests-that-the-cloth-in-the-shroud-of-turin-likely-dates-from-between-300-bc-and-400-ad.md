@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/28/new-research-suggests-that-the-cloth-in-the-shroud-of-turin-likely-dates-from-between-300-bc-and-400-ad.html)  [JSON](/news/2013/03/28/new-research-suggests-that-the-cloth-in-the-shroud-of-turin-likely-dates-from-between-300-bc-and-400-ad.json)  [XML](/news/2013/03/28/new-research-suggests-that-the-cloth-in-the-shroud-of-turin-likely-dates-from-between-300-bc-and-400-ad.xml)  
+
 ### [2013-03-28](/news/2013/03/28/index.md)
 
+##### Shroud of Turin
 # New research suggests that the cloth in the Shroud of Turin likely dates from between 300 BC and 400 AD. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Huffington Post](http://www.huffingtonpost.com/2013/03/28/shroud-of-turin-real-jesus_n_2971850.html)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/10/the-government-of-indonesia-and-rebel-leaders-from-the-province-of-aceh-in-the-north-of-sumatra-have-signed-a-peace-accord-which-negotiato.html)  [JSON](/news/2002/12/10/the-government-of-indonesia-and-rebel-leaders-from-the-province-of-aceh-in-the-north-of-sumatra-have-signed-a-peace-accord-which-negotiato.json)  [XML](/news/2002/12/10/the-government-of-indonesia-and-rebel-leaders-from-the-province-of-aceh-in-the-north-of-sumatra-have-signed-a-peace-accord-which-negotiato.xml)  
+
 ### [2002-12-10](/news/2002/12/10/index.md)
 
+##### Indonesia
 # The government of Indonesia and rebel leaders from the province of Aceh (in the north of Sumatra) have signed a peace accord which negotiators hope will bring an end to fighting in the province.
 
 

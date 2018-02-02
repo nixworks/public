@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/13/japanese-stem-cell-scientist-dr-shinya-yamanaka-is-awarded-the-millennium-technology-prize-for-discovering-how-to-reprogram-human-cells-to.html)  [JSON](/news/2012/06/13/japanese-stem-cell-scientist-dr-shinya-yamanaka-is-awarded-the-millennium-technology-prize-for-discovering-how-to-reprogram-human-cells-to.json)  [XML](/news/2012/06/13/japanese-stem-cell-scientist-dr-shinya-yamanaka-is-awarded-the-millennium-technology-prize-for-discovering-how-to-reprogram-human-cells-to.xml)  
+
 ### [2012-06-13](/news/2012/06/13/index.md)
 
+##### Shinya Yamanaka
 # Japanese stem cell scientist Dr. Shinya Yamanaka is awarded the Millennium Technology Prize for discovering how to reprogram human cells to mimic embryonic stem cells, which can become any cell in the body. 
 
 Dr Shinya Yamanaka is the joint winner of major technology prize for his work on pluripotent stem cells
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/health-18425039)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60876000/jpg/_60876593_yamanaka.jpg)

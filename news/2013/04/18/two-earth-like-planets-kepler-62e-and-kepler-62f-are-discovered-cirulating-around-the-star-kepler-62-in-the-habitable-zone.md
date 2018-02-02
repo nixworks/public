@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/18/two-earth-like-planets-kepler-62e-and-kepler-62f-are-discovered-cirulating-around-the-star-kepler-62-in-the-habitable-zone.html)  [JSON](/news/2013/04/18/two-earth-like-planets-kepler-62e-and-kepler-62f-are-discovered-cirulating-around-the-star-kepler-62-in-the-habitable-zone.json)  [XML](/news/2013/04/18/two-earth-like-planets-kepler-62e-and-kepler-62f-are-discovered-cirulating-around-the-star-kepler-62-in-the-habitable-zone.xml)  
+
 ### [2013-04-18](/news/2013/04/18/index.md)
 
+##### Earth-like
 # Two Earth-like planets, Kepler-62e and Kepler-62f, are discovered cirulating around the star Kepler-62 in the habitable zone. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News Australia](http://www.skynews.com.au/tech/article.aspx?id=864819)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/25/king-norodom-sihanouk-of-cambodia-who-recently-made-a-statement-in-support-of-same-sex-marriage-responded-to-an-insulting-e-mail-by-ann.html)  [JSON](/news/2004/02/25/king-norodom-sihanouk-of-cambodia-who-recently-made-a-statement-in-support-of-same-sex-marriage-responded-to-an-insulting-e-mail-by-ann.json)  [XML](/news/2004/02/25/king-norodom-sihanouk-of-cambodia-who-recently-made-a-statement-in-support-of-same-sex-marriage-responded-to-an-insulting-e-mail-by-ann.xml)  
+
 ### [2004-02-25](/news/2004/02/25/index.md)
 
+##### King Norodom Sihanouk
 #  King Norodom Sihanouk of Cambodia, who recently made a statement in support of same-sex marriage, responded to an "insulting" e-mail by announcing he is not gay. The king is 81 years old and has 14 children. 
 
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 
-### Source:
+### Sources:
 
 1. [Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2004/02/25/wcam25.xml&sSheet=/news/2004/02/25/ixworld.html)
 

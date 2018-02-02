@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/8/750-000-people-crowd-the-streets-of-london-to-see-the-victory-parade-of-the-england-rugby-team-following-their-victory-in-the-rugby-union-wo.html)  [JSON](/news/2003/12/8/750-000-people-crowd-the-streets-of-london-to-see-the-victory-parade-of-the-england-rugby-team-following-their-victory-in-the-rugby-union-wo.json)  [XML](/news/2003/12/8/750-000-people-crowd-the-streets-of-london-to-see-the-victory-parade-of-the-england-rugby-team-following-their-victory-in-the-rugby-union-wo.xml)  
+
 ### [2003-12-8](/news/2003/12/8/index.md)
 
+##### London
 # 750,000 people crowd the streets of London to see the victory parade of the England rugby team following their victory in the Rugby Union World Cup. [http:--news.bbc.co.uk-sport1-hi-rugby_union-rugby_world_cup-3299835.stm]
 
 

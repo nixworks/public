@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/22/the-commission-on-election-announced-that-the-m
 
 ### [2016-04-22](/news/2016/04/22/index.md)
 
+##### Philippine general election, 2016
 # The Commission on Election announced that the May 9 elections shall push through despite a massive breach on its database by hackers which puts 55 million registered Filipino voters at risk.
 
 

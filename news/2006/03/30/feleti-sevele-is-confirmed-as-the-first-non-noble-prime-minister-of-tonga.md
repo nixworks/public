@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/30/feleti-sevele-is-confirmed-as-the-first-non-noble-prime-minister-of-tonga.html)  [JSON](/news/2006/03/30/feleti-sevele-is-confirmed-as-the-first-non-noble-prime-minister-of-tonga.json)  [XML](/news/2006/03/30/feleti-sevele-is-confirmed-as-the-first-non-noble-prime-minister-of-tonga.xml)  
+
 ### [2006-03-30](/news/2006/03/30/index.md)
 
+##### Feleti Sevele
 #  Feleti Sevele is confirmed as the first non-noble Prime Minister of Tonga. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Matangi](http://www.matangitonga.to/article/tonganews/government/Tonga_primeminister310306.shtml)
 

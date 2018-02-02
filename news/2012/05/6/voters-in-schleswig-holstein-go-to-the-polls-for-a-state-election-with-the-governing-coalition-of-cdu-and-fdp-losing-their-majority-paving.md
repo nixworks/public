@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/6/voters-in-schleswig-holstein-go-to-the-polls-for-a-state-election-with-the-governing-coalition-of-cdu-and-fdp-losing-their-majority-paving.html)  [JSON](/news/2012/05/6/voters-in-schleswig-holstein-go-to-the-polls-for-a-state-election-with-the-governing-coalition-of-cdu-and-fdp-losing-their-majority-paving.json)  [XML](/news/2012/05/6/voters-in-schleswig-holstein-go-to-the-polls-for-a-state-election-with-the-governing-coalition-of-cdu-and-fdp-losing-their-majority-paving.xml)  
+
 ### [2012-05-6](/news/2012/05/6/index.md)
 
+##### Schleswig-Holstein
 # Voters in Schleswig-Holstein go to the polls for a state election with the governing coalition of CDU and FDP losing their majority, paving the way for a coalition between SPD, The Greens and the Danish minority's SSW. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17973536)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60061000/jpg/_60061620_albigdejagerposters_rtr.jpg)

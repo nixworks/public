@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/01/17/james-t-morris-the-head-of-the-united-nations-world-food-program-visits-tamil-tigers-over-the-objections-of-the-sri-lankan-government.html)  [JSON](/news/2005/01/17/james-t-morris-the-head-of-the-united-nations-world-food-program-visits-tamil-tigers-over-the-objections-of-the-sri-lankan-government.json)  [XML](/news/2005/01/17/james-t-morris-the-head-of-the-united-nations-world-food-program-visits-tamil-tigers-over-the-objections-of-the-sri-lankan-government.xml)  
+
 ### [2005-01-17](/news/2005/01/17/index.md)
 
+##### James T. Morris
 #  James T. Morris, the head of the United Nations World Food Program, visits Tamil Tigers over the objections of the Sri Lankan government 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4177519.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=au5grRfX55kY&refer=asia)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000080&sid=au5grRfX55kY&refer=asia)
 
 ### Related:
 

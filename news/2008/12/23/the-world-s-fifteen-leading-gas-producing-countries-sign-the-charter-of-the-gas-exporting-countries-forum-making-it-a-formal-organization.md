@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/23/the-world-s-fifteen-leading-gas-producing-countries-sign-the-charter-of-the-gas-exporting-countries-forum-making-it-a-formal-organization.html)  [JSON](/news/2008/12/23/the-world-s-fifteen-leading-gas-producing-countries-sign-the-charter-of-the-gas-exporting-countries-forum-making-it-a-formal-organization.json)  [XML](/news/2008/12/23/the-world-s-fifteen-leading-gas-producing-countries-sign-the-charter-of-the-gas-exporting-countries-forum-making-it-a-formal-organization.xml)  
+
 ### [2008-12-23](/news/2008/12/23/index.md)
 
+##### gas
 #  The world's fifteen leading gas-producing countries sign the charter of the Gas Exporting Countries Forum, making it a formal organization.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7796806.stm)
 2. [RBC](http://top.rbc.ru/economics/23/12/2008/270661.shtml)
@@ -14,8 +18,8 @@
 
 ### Related:
 
-1. [ Ministers from natural gas exporting countries such as Russia, Kazakhstan and Iran meet in Doha, Qatar, prompting speculation that they might be looking at transforming the Gas Exporting Countries Forum into a cartel similar to OPEC. ](/news/2007/04/9/ministers-from-natural-gas-exporting-countries-such-as-russia-kazakhstan-and-iran-meet-in-doha-qatar-prompting-speculation-that-they-mig.md) _Context: Gas Exporting Countries Forum, natural gas_
-2. [An investigation by the United States Department of Transportation's Pipeline and Hazardous Materials Safety Administration finds that the natural gas leak occurring in Alaska's Cook Inlet began earlier than first reported, and represents significant safety and environmental risks. The agency gives pipeline operator Hilcorp Energy until May 1, 2017 to fix the leak, or shut the pipeline down. ](/news/2017/03/7/an-investigation-by-the-united-states-department-of-transportation-s-pipeline-and-hazardous-materials-safety-administration-finds-that-the-n.md) _Context: natural gas_
-3. [A damaged natural gas pipeline operating under Cook Inlet offshore of Nikiski (near Anchorage, Alaska) continues releasing between 6,000-8,800 cubic meters (210,000-310,000 cubic feet) of gas per day. Pipeline operator Hilcorp Energy states that due to sea ice conditions, repairs will not be possible for weeks. ](/news/2017/03/3/a-damaged-natural-gas-pipeline-operating-under-cook-inlet-offshore-of-nikiski-near-anchorage-alaska-continues-releasing-between-6-000a8.md) _Context: natural gas_
-4. [Tankers anchored in the Caribbean Sea are unable to deliver over four million barrels of crude oil, due to Venezuela's state-owned oil and natural gas company being unable to pay for hull cleaning, inspections, and other port services. ](/news/2017/01/26/tankers-anchored-in-the-caribbean-sea-are-unable-to-deliver-over-four-million-barrels-of-crude-oil-due-to-venezuela-s-state-owned-oil-and-n.md) _Context: natural gas_
-5. [The Obama administration through the United States Department of Justice sends a subpoena to natural gas giant Chesapeake Energy regarding the accounting methods for its oil and gas properties. ](/news/2016/09/29/the-obama-administration-through-the-united-states-department-of-justice-sends-a-subpoena-to-natural-gas-giant-chesapeake-energy-regarding-t.md) _Context: natural gas_
+1. [The Obama administration through the United States Department of Justice sends a subpoena to natural gas giant Chesapeake Energy regarding the accounting methods for its oil and gas properties. ](/news/2016/09/29/the-obama-administration-through-the-united-states-department-of-justice-sends-a-subpoena-to-natural-gas-giant-chesapeake-energy-regarding-t.md) _Context: gas_
+2. [The first Gas Summit of the Gas Exporting Countries Forum opens in Doha. ](/news/2011/11/15/the-first-gas-summit-of-the-gas-exporting-countries-forum-opens-in-doha.md) _Context: Gas Exporting Countries Forum_
+3. [Natural gas supplies to Jordan and Israel are hit by an explosion in the Arab Gas Pipeline in the town of Arish in North Sinai near Egypt's border with Israel with an armed group believed responsible. ](/news/2011/04/27/natural-gas-supplies-to-jordan-and-israel-are-hit-by-an-explosion-in-the-arab-gas-pipeline-in-the-town-of-arish-in-north-sinai-near-egypt-s.md) _Context: gas_
+4. [ The Gas Exporting Countries Forum elects Abdullah Bin Hamad Al-Attiyah, oil and energy minister of Qatar, as the president of the organization. ](/news/2009/06/30/the-gas-exporting-countries-forum-elects-abdullah-bin-hamad-al-attiyah-oil-and-energy-minister-of-qatar-as-the-president-of-the-organizat.md) _Context: Gas Exporting Countries Forum_
+5. [ Ukraine says it cannot resume natural-gas transit because Russia's Gazprom has provided insufficient supplies. ](/news/2009/01/14/ukraine-says-it-cannot-resume-natural-gas-transit-because-russia-s-gazprom-has-provided-insufficient-supplies.md) _Context: gas_

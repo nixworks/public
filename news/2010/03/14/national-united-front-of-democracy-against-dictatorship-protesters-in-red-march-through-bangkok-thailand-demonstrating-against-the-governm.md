@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/03/14/national-united-front-of-democracy-against-dictatorship-protesters-in-red-march-through-bangkok-thailand-demonstrating-against-the-governm.html)  [JSON](/news/2010/03/14/national-united-front-of-democracy-against-dictatorship-protesters-in-red-march-through-bangkok-thailand-demonstrating-against-the-governm.json)  [XML](/news/2010/03/14/national-united-front-of-democracy-against-dictatorship-protesters-in-red-march-through-bangkok-thailand-demonstrating-against-the-governm.xml)  
+
 ### [2010-03-14](/news/2010/03/14/index.md)
 
+##### red shirt
 # National United Front of Democracy Against Dictatorship protesters in red march through Bangkok, Thailand, demonstrating against the government. 
 
 Anti-government protesters massed around Thailand on Friday ahead of a march they hope will paralyze the capital and force Prime Minister Abhisit Vejjajiva to call new elections.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/world/story/2010/03/12/thailand-massive-protest.html)
 2. [Sky News](http://news.sky.com/skynews/Home/World-News/Thailand-Thousands-Of-Red-Shirt-Protesters-Demonstrate-Against-Prime-Minister-Abhisit-Vejjajive/Articl/201003215573404?lpos=World_News_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15573404_Thailand%3A_Thousands_Of_Red_Shirt_Protesters_Demonstrate_Against_Prime_Minister_Abhisit_Vejjajive)
 3. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7061405.ece)
-4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/13/AR2010031300472.html?hpid=moreheadlines)
+4. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/03/13/AR2010031300472.html?hpid=moreheadlines)
 5. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-03/13/c_13209439.htm)
 5. [Cover Image](https://i.cbc.ca/1.2072377.1381902393!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-thailand-protest-cp-rtr2.jpg)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/15/authorized-by-the-united-nations-convention-on-the-law-of-the-sea-denmark-becomes-the-first-country-to-officially-submit-a-claim-on-the-nor.html)  [JSON](/news/2014/12/15/authorized-by-the-united-nations-convention-on-the-law-of-the-sea-denmark-becomes-the-first-country-to-officially-submit-a-claim-on-the-nor.json)  [XML](/news/2014/12/15/authorized-by-the-united-nations-convention-on-the-law-of-the-sea-denmark-becomes-the-first-country-to-officially-submit-a-claim-on-the-nor.xml)  
+
 ### [2014-12-15](/news/2014/12/15/index.md)
 
+##### United Nations Convention on the Law of the Sea
 # Authorized by the United Nations Convention on the Law of the Sea, Denmark becomes the first country to officially submit a claim on the North Pole. 
 
 Denmark filed an official claim on the North Pole, making it the first country to do so.
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2014/12/15/Denmark-files-first-official-claim-on-North-Pole/7551418671808/?r=83761289833346)
 1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/7551418671808/2014/1/14186733797742/v2.1/Denmark-files-first-official-claim-on-North-Pole.jpg)

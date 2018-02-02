@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2011/10/6/swedish-poet-tomas-transtrapmer-is-awarded-the-2011-nobel-prize-in-literature.html)  [JSON](/news/2011/10/6/swedish-poet-tomas-transtrapmer-is-awarded-the-2011-nobel-prize-in-literature.json)  [XML](/news/2011/10/6/swedish-poet-tomas-transtrapmer-is-awarded-the-2011-nobel-prize-in-literature.xml)  
+
 ### [2011-10-6](/news/2011/10/6/index.md)
 
+##### Tomas Transtromer
 # Swedish poet Tomas Transtromer is awarded the 2011 Nobel Prize in Literature. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Nobel Foundation](http://www.nobelprize.org/nobel_prizes/literature/laureates/2011/press.html)
 2. [The Guardian](http://www.guardian.co.uk/books/booksblog/2011/oct/06/nobel-prize-literature-live-coverage?newsfeed=true)
-3. [The Washington Post](http://www.washingtonpost.com/entertainment/books/swedish-poet-tomas-transtromer-wins-nobel-literature-prize/2011/10/06/gIQAJ9YiPL_story.html)
+3. [The Washington Post](https://www.washingtonpost.com/entertainment/books/swedish-poet-tomas-transtromer-wins-nobel-literature-prize/2011/10/06/gIQAJ9YiPL_story.html)
 3. [Cover Image](http://www.nobelprize.org/nobel_prizes/literature/laureates/2011/../svaka_logo_09.gif)
 
 ### Related:

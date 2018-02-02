@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/08/5/authorities-in-mozambique-seize-thousands-of-boxes-of-counterfeit-toothpaste-which-they-fear-may-contain-the-dangerous-chemical-diethylene.html)  [JSON](/news/2007/08/5/authorities-in-mozambique-seize-thousands-of-boxes-of-counterfeit-toothpaste-which-they-fear-may-contain-the-dangerous-chemical-diethylene.json)  [XML](/news/2007/08/5/authorities-in-mozambique-seize-thousands-of-boxes-of-counterfeit-toothpaste-which-they-fear-may-contain-the-dangerous-chemical-diethylene.xml)  
+
 ### [2007-08-5](/news/2007/08/5/index.md)
 
+##### Mozambique
 #  Authorities in Mozambique seize thousands of boxes of counterfeit toothpaste which they fear may contain the dangerous chemical diethylene glycol. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Forbes](http://www.forbes.com/feeds/ap/2007/08/06/ap3988908.html)
+1. [AP via Forbes](https://www.forbes.com/feeds/ap/2007/08/06/ap3988908.html)
 
 ### Related:
 

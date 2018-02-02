@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/14/police-in-florida-link-a-fourth-unsolved-murder
 
 ### [2017-11-14](/news/2017/11/14/index.md)
 
+##### Seminole Heights serial killer
 # Police in Florida link a fourth unsolved murder to an unknown serial killer targeting the Seminole Heights area of Tampa, Florida. 
 
 

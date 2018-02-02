@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/26/cape-town-is-to-name-a-street-after-former-president-of-south-africa-nelson-mandela.html)  [JSON](/news/2010/12/26/cape-town-is-to-name-a-street-after-former-president-of-south-africa-nelson-mandela.json)  [XML](/news/2010/12/26/cape-town-is-to-name-a-street-after-former-president-of-south-africa-nelson-mandela.xml)  
+
 ### [2010-12-26](/news/2010/12/26/index.md)
 
+##### Cape Town
 # Cape Town is to name a street after former President of South Africa, Nelson Mandela. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Observer](http://www.guardian.co.uk/world/2010/dec/26/cape-town-nelson-mandela-street)
 

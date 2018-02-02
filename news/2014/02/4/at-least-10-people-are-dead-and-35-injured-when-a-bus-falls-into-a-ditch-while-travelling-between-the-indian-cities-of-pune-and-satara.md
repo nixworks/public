@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/4/at-least-10-people-are-dead-and-35-injured-when-a-bus-falls-into-a-ditch-while-travelling-between-the-indian-cities-of-pune-and-satara.html)  [JSON](/news/2014/02/4/at-least-10-people-are-dead-and-35-injured-when-a-bus-falls-into-a-ditch-while-travelling-between-the-indian-cities-of-pune-and-satara.json)  [XML](/news/2014/02/4/at-least-10-people-are-dead-and-35-injured-when-a-bus-falls-into-a-ditch-while-travelling-between-the-indian-cities-of-pune-and-satara.xml)  
+
 ### [2014-02-4](/news/2014/02/4/index.md)
 
+##### India
 # At least 10 people are dead and 35 injured when a bus falls into a ditch while travelling between the Indian cities of Pune and Satara. 
 
 Ten people died and 35 others were injured as a bus fell into a ditch on the Pune-Satara highway today.
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/article/cities/10-dead-35-injured-as-bus-falls-into-ditch-on-pune-satara-highway-478941)
 1. [Cover Image](http://i.ndtvimg.com/mt/2014-02/Pune-satara-highway-accident-360x270_4.jpg)

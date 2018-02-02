@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/2/israel-strikes-an-empty-office-of-palestinian-pm-ismail-haniyeh-two-other-hamas-operatives-are-killed-in-two-separate-aerial-strikes-isra.html)  [JSON](/news/2006/07/2/israel-strikes-an-empty-office-of-palestinian-pm-ismail-haniyeh-two-other-hamas-operatives-are-killed-in-two-separate-aerial-strikes-isra.json)  [XML](/news/2006/07/2/israel-strikes-an-empty-office-of-palestinian-pm-ismail-haniyeh-two-other-hamas-operatives-are-killed-in-two-separate-aerial-strikes-isra.xml)  
+
 ### [2006-07-2](/news/2006/07/2/index.md)
 
+##### Israel
 #  Israel strikes an empty office of Palestinian PM Ismail Haniyeh. Two other Hamas operatives are killed in two separate aerial strikes. Israeli defense minister Amir Peretz warns stepping up quality of targets, reiterating the responsibility of Syrian president Bashar Assad for the continued crisis. 
 
 In weekly cabinet meeting, Olmert states &#39;Hamas members won&#39;t be nabbed only in West Bank&#39;; referring to ongoing Qassam fire, he says &#39;we cannot accept fact that southern communities are living in terrible fear, so I have instructed that in meantime, no one will sleep at night in Gaza as well&#39;
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5137768.stm)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/733592.html)

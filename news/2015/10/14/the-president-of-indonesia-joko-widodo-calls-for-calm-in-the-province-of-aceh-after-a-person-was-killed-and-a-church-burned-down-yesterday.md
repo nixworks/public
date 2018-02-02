@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/14/the-president-of-indonesia-joko-widodo-calls-for-calm-in-the-province-of-aceh-after-a-person-was-killed-and-a-church-burned-down-yesterday.html)  [JSON](/news/2015/10/14/the-president-of-indonesia-joko-widodo-calls-for-calm-in-the-province-of-aceh-after-a-person-was-killed-and-a-church-burned-down-yesterday.json)  [XML](/news/2015/10/14/the-president-of-indonesia-joko-widodo-calls-for-calm-in-the-province-of-aceh-after-a-person-was-killed-and-a-church-burned-down-yesterday.xml)  
+
 ### [2015-10-14](/news/2015/10/14/index.md)
 
+##### President of Indonesia
 # The President of Indonesia Joko Widodo calls for calm in the province of Aceh after a person was killed and a church burned down yesterday. 
 
 Indonesian President Joko Widodo has urged an end to violent clashes in Aceh, after a man was killed and a church razed by an angry mob.
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/jokowi-calls-for-calm/2191802.html?cid=twtcna)
 1. [Cover Image](http://www.channelnewsasia.com/image/674416/1370316057000/large16x9/640/360/asia-pacific.jpg)

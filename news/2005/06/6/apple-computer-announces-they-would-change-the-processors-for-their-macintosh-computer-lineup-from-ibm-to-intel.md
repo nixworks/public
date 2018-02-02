@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/6/apple-computer-announces-they-would-change-the-processors-for-their-macintosh-computer-lineup-from-ibm-to-intel.html)  [JSON](/news/2005/06/6/apple-computer-announces-they-would-change-the-processors-for-their-macintosh-computer-lineup-from-ibm-to-intel.json)  [XML](/news/2005/06/6/apple-computer-announces-they-would-change-the-processors-for-their-macintosh-computer-lineup-from-ibm-to-intel.xml)  
+
 ### [2005-06-6](/news/2005/06/6/index.md)
 
+##### Apple Computer
 #  Apple Computer announces they would change the processors for their Macintosh computer lineup from IBM to Intel. - 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/technology/4612951.stm)
 2. [Ziff Davis](http://news.zdnet.com/2100-9584_22-5733756.html?tag=zdfd.newsfeed)

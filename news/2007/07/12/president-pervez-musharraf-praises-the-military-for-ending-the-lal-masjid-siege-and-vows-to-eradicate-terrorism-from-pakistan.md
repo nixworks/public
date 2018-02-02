@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/12/president-pervez-musharraf-praises-the-military-for-ending-the-lal-masjid-siege-and-vows-to-eradicate-terrorism-from-pakistan.html)  [JSON](/news/2007/07/12/president-pervez-musharraf-praises-the-military-for-ending-the-lal-masjid-siege-and-vows-to-eradicate-terrorism-from-pakistan.json)  [XML](/news/2007/07/12/president-pervez-musharraf-praises-the-military-for-ending-the-lal-masjid-siege-and-vows-to-eradicate-terrorism-from-pakistan.xml)  
+
 ### [2007-07-12](/news/2007/07/12/index.md)
 
+##### president
 #  President Pervez Musharraf praises the military for ending the Lal Masjid siege and vows to eradicate terrorism from Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6896179.stm)
 

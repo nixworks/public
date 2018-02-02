@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/19/north-korea-confirms-the-seizure-of-a-south-korean-fishing-boat-two-weeks-ago-with-four-south-korean-and-three-chinese-sailors-on-board.html)  [JSON](/news/2010/08/19/north-korea-confirms-the-seizure-of-a-south-korean-fishing-boat-two-weeks-ago-with-four-south-korean-and-three-chinese-sailors-on-board.json)  [XML](/news/2010/08/19/north-korea-confirms-the-seizure-of-a-south-korean-fishing-boat-two-weeks-ago-with-four-south-korean-and-three-chinese-sailors-on-board.xml)  
+
 ### [2010-08-19](/news/2010/08/19/index.md)
 
+##### North Korea
 # North Korea confirms the seizure of a South Korean fishing boat two weeks ago, with four South Korean and three Chinese sailors on board. 
 
 North Korea confirmed Thursday that it had seized a South Korean fishing boat carrying four South Koreans and three Chinese, its first official reaction in nearly two weeks.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5inBfUMgpVzP9XTRGq51Wr-lWxwSQ)
 2. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2010/08/116_71689.html)

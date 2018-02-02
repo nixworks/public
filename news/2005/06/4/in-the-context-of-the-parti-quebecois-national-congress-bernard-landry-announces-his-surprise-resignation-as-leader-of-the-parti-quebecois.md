@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/4/in-the-context-of-the-parti-quebecois-national-congress-bernard-landry-announces-his-surprise-resignation-as-leader-of-the-parti-quebecois.html)  [JSON](/news/2005/06/4/in-the-context-of-the-parti-quebecois-national-congress-bernard-landry-announces-his-surprise-resignation-as-leader-of-the-parti-quebecois.json)  [XML](/news/2005/06/4/in-the-context-of-the-parti-quebecois-national-congress-bernard-landry-announces-his-surprise-resignation-as-leader-of-the-parti-quebecois.xml)  
+
 ### [2005-06-4](/news/2005/06/4/index.md)
 
+##### Bernard Landry
 #  In the context of the Parti Qubcois National Congress, Bernard Landry announces his surprise resignation as leader of the Parti Qubcois, the major party in Quebec that advocates national independence for Quebec. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CTV](http://sympaticomsn.ctv.ca/servlet/ArticleNews/story/CTVNews/1117929100254_5?hub=topstories)
 

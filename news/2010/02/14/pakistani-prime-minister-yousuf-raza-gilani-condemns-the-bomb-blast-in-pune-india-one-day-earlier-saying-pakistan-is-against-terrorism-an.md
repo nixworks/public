@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/14/pakistani-prime-minister-yousuf-raza-gilani-condemns-the-bomb-blast-in-pune-india-one-day-earlier-saying-pakistan-is-against-terrorism-an.html)  [JSON](/news/2010/02/14/pakistani-prime-minister-yousuf-raza-gilani-condemns-the-bomb-blast-in-pune-india-one-day-earlier-saying-pakistan-is-against-terrorism-an.json)  [XML](/news/2010/02/14/pakistani-prime-minister-yousuf-raza-gilani-condemns-the-bomb-blast-in-pune-india-one-day-earlier-saying-pakistan-is-against-terrorism-an.xml)  
+
 ### [2010-02-14](/news/2010/02/14/index.md)
 
+##### Pakistan
 # Pakistani Prime Minister Yousuf Raza Gilani condemns the bomb blast in Pune, India, one day earlier, saying Pakistan is against terrorism and that his country wants better relations with India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://beta.thehindu.com/news/international/article106483.ece)
 

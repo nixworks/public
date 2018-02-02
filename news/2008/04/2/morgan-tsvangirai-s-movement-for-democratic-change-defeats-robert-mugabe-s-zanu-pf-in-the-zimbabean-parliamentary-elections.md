@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/04/2/morgan-tsvangirai-s-movement-for-democratic-change-defeats-robert-mugabe-s-zanu-pf-in-the-zimbabean-parliamentary-elections.html)  [JSON](/news/2008/04/2/morgan-tsvangirai-s-movement-for-democratic-change-defeats-robert-mugabe-s-zanu-pf-in-the-zimbabean-parliamentary-elections.json)  [XML](/news/2008/04/2/morgan-tsvangirai-s-movement-for-democratic-change-defeats-robert-mugabe-s-zanu-pf-in-the-zimbabean-parliamentary-elections.xml)  
+
 ### [2008-04-2](/news/2008/04/2/index.md)
 
+##### Morgan Tsvangirai
 #  Morgan Tsvangirai's Movement for Democratic Change defeats Robert Mugabe's ZANU-PF in the Zimbabean "'parliamentary"' elections. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=azDO4C_zgoOI&refer=home)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=azDO4C_zgoOI&refer=home)
 
 ### Related:
 

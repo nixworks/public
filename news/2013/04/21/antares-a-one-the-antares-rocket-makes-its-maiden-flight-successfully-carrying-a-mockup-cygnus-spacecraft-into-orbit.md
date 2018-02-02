@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/21/antares-a-one-the-antares-rocket-makes-its-maiden-flight-successfully-carrying-a-mockup-cygnus-spacecraft-into-orbit.html)  [JSON](/news/2013/04/21/antares-a-one-the-antares-rocket-makes-its-maiden-flight-successfully-carrying-a-mockup-cygnus-spacecraft-into-orbit.json)  [XML](/news/2013/04/21/antares-a-one-the-antares-rocket-makes-its-maiden-flight-successfully-carrying-a-mockup-cygnus-spacecraft-into-orbit.xml)  
+
 ### [2013-04-21](/news/2013/04/21/index.md)
 
+##### Antares A-ONE
 # Antares A-ONE: The Antares rocket makes its maiden flight, successfully carrying a mockup Cygnus spacecraft into orbit. 
 
 A new rocket launches from the US eastern seaboard to prove its readiness to help service the International Space Station (ISS).
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-22193330)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/67151000/jpg/_67151724_67151723.jpg)

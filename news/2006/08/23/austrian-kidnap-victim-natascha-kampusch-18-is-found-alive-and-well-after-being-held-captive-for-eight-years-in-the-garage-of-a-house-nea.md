@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/23/austrian-kidnap-victim-natascha-kampusch-18-is-found-alive-and-well-after-being-held-captive-for-eight-years-in-the-garage-of-a-house-nea.html)  [JSON](/news/2006/08/23/austrian-kidnap-victim-natascha-kampusch-18-is-found-alive-and-well-after-being-held-captive-for-eight-years-in-the-garage-of-a-house-nea.json)  [XML](/news/2006/08/23/austrian-kidnap-victim-natascha-kampusch-18-is-found-alive-and-well-after-being-held-captive-for-eight-years-in-the-garage-of-a-house-nea.xml)  
+
 ### [2006-08-23](/news/2006/08/23/index.md)
 
+##### Austria
 #  Austrian kidnap victim Natascha Kampusch, 18, is found alive and well after being held captive for eight years in the garage of a house near Vienna. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/5282994.stm)
 

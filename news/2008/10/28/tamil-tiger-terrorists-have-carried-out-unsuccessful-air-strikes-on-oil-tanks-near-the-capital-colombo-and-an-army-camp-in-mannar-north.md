@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/28/tamil-tiger-terrorists-have-carried-out-unsuccessful-air-strikes-on-oil-tanks-near-the-capital-colombo-and-an-army-camp-in-mannar-north.html)  [JSON](/news/2008/10/28/tamil-tiger-terrorists-have-carried-out-unsuccessful-air-strikes-on-oil-tanks-near-the-capital-colombo-and-an-army-camp-in-mannar-north.json)  [XML](/news/2008/10/28/tamil-tiger-terrorists-have-carried-out-unsuccessful-air-strikes-on-oil-tanks-near-the-capital-colombo-and-an-army-camp-in-mannar-north.xml)  
+
 ### [2008-10-28](/news/2008/10/28/index.md)
 
+##### LTTE
 #  Tamil Tiger terrorists have carried out unsuccessful air strikes on oil tanks near the capital, Colombo, and an army camp in Mannar, north-western Sri Lanka. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://afp.google.com/article/ALeqM5iiUOiWdrEdc-U0mdVzLyHcmzohYw)
 

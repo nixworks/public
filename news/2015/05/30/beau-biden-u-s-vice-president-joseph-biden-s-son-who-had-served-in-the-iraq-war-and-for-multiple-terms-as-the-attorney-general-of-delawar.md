@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/30/beau-biden-u-s-vice-president-joseph-biden-s-son-who-had-served-in-the-iraq-war-and-for-multiple-terms-as-the-attorney-general-of-delawar.html)  [JSON](/news/2015/05/30/beau-biden-u-s-vice-president-joseph-biden-s-son-who-had-served-in-the-iraq-war-and-for-multiple-terms-as-the-attorney-general-of-delawar.json)  [XML](/news/2015/05/30/beau-biden-u-s-vice-president-joseph-biden-s-son-who-had-served-in-the-iraq-war-and-for-multiple-terms-as-the-attorney-general-of-delawar.xml)  
+
 ### [2015-05-30](/news/2015/05/30/index.md)
 
+##### Beau Biden
 # Beau Biden, U.S. Vice President Joseph Biden's son, who had served in the Iraq War and for multiple terms as the Attorney General of Delaware, dies at Walter Reed Medical Center after a battle with malignant brain cancer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN](http://www.msn.com/en-us/news/politics/beau-biden-vice-president%e2%80%99s-son-dies-of-brain-cancer/ar-BBkrnlA)
 

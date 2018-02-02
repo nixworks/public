@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/16/at-least-four-people-are-killed-in-mudslides-in-southern-switzerland-and-northern-italy-after-days-of-heavy-rain.html)  [JSON](/news/2014/11/16/at-least-four-people-are-killed-in-mudslides-in-southern-switzerland-and-northern-italy-after-days-of-heavy-rain.json)  [XML](/news/2014/11/16/at-least-four-people-are-killed-in-mudslides-in-southern-switzerland-and-northern-italy-after-days-of-heavy-rain.xml)  
+
 ### [2014-11-16](/news/2014/11/16/index.md)
 
+##### Switzerland
 # At least four people are killed in mudslides in southern Switzerland and northern Italy after days of heavy rain. 
 
 At least four people are killed when landslides engulf homes in southern Switzerland and northern Italy following days of torrential rain.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-30077272)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79064000/jpg/_79064507_024757456-1.jpg)

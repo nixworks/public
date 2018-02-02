@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/11/the-city-council-in-the-new-zealand-city-of-christchurch-announces-plans-to-rebuild-its-central-business-district-after-the-recent-earthquak.html)  [JSON](/news/2011/08/11/the-city-council-in-the-new-zealand-city-of-christchurch-announces-plans-to-rebuild-its-central-business-district-after-the-recent-earthquak.json)  [XML](/news/2011/08/11/the-city-council-in-the-new-zealand-city-of-christchurch-announces-plans-to-rebuild-its-central-business-district-after-the-recent-earthquak.xml)  
+
 ### [2011-08-11](/news/2011/08/11/index.md)
 
+##### City Council
 # The City Council in the New Zealand city of Christchurch announces plans to rebuild its central business district after the recent earthquake. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TV New Zealand](http://tvnz.co.nz/national-news/christchurch-cbd-undergo-massive-transformation-4347115)
 

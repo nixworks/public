@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/10/it-is-revealed-that-egypt-is-building-an-iron-wall-up-to-100-feet-deep-along-its-border-with-gaza.html)  [JSON](/news/2009/12/10/it-is-revealed-that-egypt-is-building-an-iron-wall-up-to-100-feet-deep-along-its-border-with-gaza.json)  [XML](/news/2009/12/10/it-is-revealed-that-egypt-is-building-an-iron-wall-up-to-100-feet-deep-along-its-border-with-gaza.xml)  
+
 ### [2009-12-10](/news/2009/12/10/index.md)
 
+##### Egypt
 #  It is revealed that Egypt is building an iron wall up to 100 feet deep along its border with Gaza. 
 
 Egypt has begun building an underground wall up to 100ft deep along its border with the Gaza strip to block tunnels used to smuggle contraband and weapons, it has been claimed.
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/6780644/Egypt-digs-underground-wall-to-stop-Gaza-tunnels.html)
 2. [The National](http://www.thenational.ae/apps/pbcs.dll/article?AID=/20091211/FOREIGN/712109838/1138/BUSINESS)

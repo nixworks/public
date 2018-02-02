@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/23/golfer-graeme-mcdowell-returns-home-to-celebrations-after-becoming-the-first-european-to-win-the-u-s-open-since-1970.html)  [JSON](/news/2010/06/23/golfer-graeme-mcdowell-returns-home-to-celebrations-after-becoming-the-first-european-to-win-the-u-s-open-since-1970.json)  [XML](/news/2010/06/23/golfer-graeme-mcdowell-returns-home-to-celebrations-after-becoming-the-first-european-to-win-the-u-s-open-since-1970.xml)  
+
 ### [2010-06-23](/news/2010/06/23/index.md)
 
+##### Graeme McDowell
 # Golfer Graeme McDowell returns home to celebrations after becoming the first European to win the U.S. Open since 1970. 
 
 &ldquo;I&rsquo;M RUNNING pretty much on adrenaline,&rdquo; said the US Open golf champion as the cheers died down
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/northern_ireland/10393759.stm)
 2. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/sport/golf/mcdowell-makes-waves-on-portrush-return-14852955.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/16/a-bank-in-minnesota-u-s-is-robbed-by-the-same-person-a-second-time-while-an-iowa-television-station-was-doing-a-live-update-on-the-first.html)  [JSON](/news/2015/12/16/a-bank-in-minnesota-u-s-is-robbed-by-the-same-person-a-second-time-while-an-iowa-television-station-was-doing-a-live-update-on-the-first.json)  [XML](/news/2015/12/16/a-bank-in-minnesota-u-s-is-robbed-by-the-same-person-a-second-time-while-an-iowa-television-station-was-doing-a-live-update-on-the-first.xml)  
+
 ### [2015-12-16](/news/2015/12/16/index.md)
 
+##### Minnesota
 # A bank in Minnesota (U.S.) is robbed by the same person a second time while an Iowa television station was doing a live update on the first robbery. The robber was arrested shortly afterwards. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.msn.com/en-us/news/crime/tv-station-reporting-live-when-minnesota-bank-robbed-again/ar-BBnCNoh?li=BBnbfcL&ocid=iehp)
 

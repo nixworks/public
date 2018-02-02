@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/2/american-financial-services-company-visa-inc-buys-european-franchisee-visa-europe-for-us23-billion.html)  [JSON](/news/2015/11/2/american-financial-services-company-visa-inc-buys-european-franchisee-visa-europe-for-us23-billion.json)  [XML](/news/2015/11/2/american-financial-services-company-visa-inc-buys-european-franchisee-visa-europe-for-us23-billion.xml)  
+
 ### [2015-11-2](/news/2015/11/2/index.md)
 
+##### Visa Inc.
 # American financial services company Visa Inc. buys European franchisee Visa Europe for $US23 billion. 
 
 The two companies have more than 2.9 billion cards issued on its combined network.
 
 
-### Source:
+### Sources:
 
 1. [AP via AL.com](http://www.al.com/business/index.ssf/2015/11/visa_buying_visa_europe_in_23.html)
 1. [Cover Image](http://image.al.com/home/bama-media/width620/img/business_impact/photo/visajpg-94343a6352b838ea.jpg)

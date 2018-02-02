@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/04/18/two-israelis-one-a-soldier-in-the-combat-engineering-corps-and-one-a-civilian-are-wounded-by-a-palestinian-sniper-in-an-attack-on-philad.html)  [JSON](/news/2005/04/18/two-israelis-one-a-soldier-in-the-combat-engineering-corps-and-one-a-civilian-are-wounded-by-a-palestinian-sniper-in-an-attack-on-philad.json)  [XML](/news/2005/04/18/two-israelis-one-a-soldier-in-the-combat-engineering-corps-and-one-a-civilian-are-wounded-by-a-palestinian-sniper-in-an-attack-on-philad.xml)  
+
 ### [2005-04-18](/news/2005/04/18/index.md)
 
+##### Israel
 #  Two Israelis, one a soldier in the Combat Engineering Corps, and one a civilian, are wounded by a Palestinian sniper in an attack on Philadelphi Route of the southern Gaza Strip, close to the Egyptian border. The Popular Resistance Committees claims responsibility. [http:--www.haaretz.com-hasen-spages-566451.html (Haaretz)] (Link dead as of 04:02, 16 January 2007 (UTC))
 
 

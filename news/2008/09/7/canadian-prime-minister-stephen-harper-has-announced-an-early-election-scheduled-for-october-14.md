@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/7/canadian-prime-minister-stephen-harper-has-announced-an-early-election-scheduled-for-october-14.html)  [JSON](/news/2008/09/7/canadian-prime-minister-stephen-harper-has-announced-an-early-election-scheduled-for-october-14.json)  [XML](/news/2008/09/7/canadian-prime-minister-stephen-harper-has-announced-an-early-election-scheduled-for-october-14.xml)  
+
 ### [2008-09-7](/news/2008/09/7/index.md)
 
+##### Stephen Harper
 #  Canadian Prime Minister Stephen Harper has announced an early election scheduled for October 14. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/7602864.stm)
 

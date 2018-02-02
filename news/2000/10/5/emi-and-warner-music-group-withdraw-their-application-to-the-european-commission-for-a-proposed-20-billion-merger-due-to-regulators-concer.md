@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/10/5/emi-and-warner-music-group-withdraw-their-application-to-the-european-commission-for-a-proposed-20-billion-merger-due-to-regulators-concer.html)  [JSON](/news/2000/10/5/emi-and-warner-music-group-withdraw-their-application-to-the-european-commission-for-a-proposed-20-billion-merger-due-to-regulators-concer.json)  [XML](/news/2000/10/5/emi-and-warner-music-group-withdraw-their-application-to-the-european-commission-for-a-proposed-20-billion-merger-due-to-regulators-concer.xml)  
+
 ### [2000-10-5](/news/2000/10/5/index.md)
 
+##### EMI
 # EMI and Warner Music Group withdraw their application to the European Commission for a proposed $20 billion merger due to regulators' concerns. The merger would have concentrated 80% of the European music business into the hands of just four major labels.
 
 

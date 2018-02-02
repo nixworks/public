@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/2/police-make-12-arrests-following-protest-marches-by-the-english-defence-league-and-opposing-groups-in-blackburn-lancashire.html)  [JSON](/news/2011/04/2/police-make-12-arrests-following-protest-marches-by-the-english-defence-league-and-opposing-groups-in-blackburn-lancashire.json)  [XML](/news/2011/04/2/police-make-12-arrests-following-protest-marches-by-the-english-defence-league-and-opposing-groups-in-blackburn-lancashire.xml)  
+
 ### [2011-04-2](/news/2011/04/2/index.md)
 
+##### English Defence League
 # Police make 12 arrests following protest marches by the English Defence League and opposing groups in Blackburn, Lancashire. 
 
 Arrests are made during a huge police operation in Blackburn for protests by the English Defence League and opposing groups.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-lancashire-12945734)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

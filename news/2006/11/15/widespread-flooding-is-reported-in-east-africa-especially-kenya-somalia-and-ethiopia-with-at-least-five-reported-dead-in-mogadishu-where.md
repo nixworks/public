@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/15/widespread-flooding-is-reported-in-east-africa-especially-kenya-somalia-and-ethiopia-with-at-least-five-reported-dead-in-mogadishu-where.html)  [JSON](/news/2006/11/15/widespread-flooding-is-reported-in-east-africa-especially-kenya-somalia-and-ethiopia-with-at-least-five-reported-dead-in-mogadishu-where.json)  [XML](/news/2006/11/15/widespread-flooding-is-reported-in-east-africa-especially-kenya-somalia-and-ethiopia-with-at-least-five-reported-dead-in-mogadishu-where.xml)  
+
 ### [2006-11-15](/news/2006/11/15/index.md)
 
+##### East Africa
 #  Widespread flooding is reported in East Africa especially Kenya, Somalia and Ethiopia, with at least five reported dead in Mogadishu where the Shabelle and Juba rivers have burst their banks and more than 70,000 people reported displaced in total. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SOS](http://www.soschildrensvillages.org.uk/charity-news/east-africa-floods.htm)
 

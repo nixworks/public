@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/13/arnold-schwarzenegger-names-warren-buffett-as-his-economic-adviser-on-wednesday-mr-buffett-will-help-the-actor-build-a-team-to-lead-the-st.html)  [JSON](/news/2003/08/13/arnold-schwarzenegger-names-warren-buffett-as-his-economic-adviser-on-wednesday-mr-buffett-will-help-the-actor-build-a-team-to-lead-the-st.json)  [XML](/news/2003/08/13/arnold-schwarzenegger-names-warren-buffett-as-his-economic-adviser-on-wednesday-mr-buffett-will-help-the-actor-build-a-team-to-lead-the-st.xml)  
+
 ### [2003-08-13](/news/2003/08/13/index.md)
 
+##### Warren Buffett
 #  Arnold Schwarzenegger names Warren Buffett as his economic adviser on Wednesday. Mr Buffett will help the actor build a team to lead the state out of its fiscal crisis.
 
 

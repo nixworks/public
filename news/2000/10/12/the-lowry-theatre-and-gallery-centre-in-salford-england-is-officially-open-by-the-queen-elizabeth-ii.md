@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/10/12/the-lowry-theatre-and-gallery-centre-in-salford-england-is-officially-open-by-the-queen-elizabeth-ii.html)  [JSON](/news/2000/10/12/the-lowry-theatre-and-gallery-centre-in-salford-england-is-officially-open-by-the-queen-elizabeth-ii.json)  [XML](/news/2000/10/12/the-lowry-theatre-and-gallery-centre-in-salford-england-is-officially-open-by-the-queen-elizabeth-ii.xml)  
+
 ### [2000-10-12](/news/2000/10/12/index.md)
 
+##### The Lowry
 # The Lowry theatre and gallery centre in Salford, England is officially open by the Queen Elizabeth II.
 
 

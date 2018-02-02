@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/22/the-philippine-institute-of-volcanology-and-sei
 
 ### [2018-01-22](/news/2018/01/22/index.md)
 
+##### 2018 Mount Mayon activity
 # The Philippine Institute of Volcanology and Seismology raises Mount Mayon's alert level to 4, its second highest volcano category which indicates a hazardous eruption is imminent. Mayon's activity, which began the afternoon of January 13, 2018, has displaced about 40,000 residents in Albay Province on Luzon island. 
 
 Mayon, the country&#x27;s most active volcano, has been spewing ash, lava, and pyroclastic material since Jan. 13, displacing close to 40,000 residents.

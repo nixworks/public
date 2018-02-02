@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/13/occupation-of-iraq-south-korea-s-parliament-on-friday-approves-sending-3-000-troops-to-iraq-responding-to-a-call-from-the-united-states-f.html)  [JSON](/news/2004/02/13/occupation-of-iraq-south-korea-s-parliament-on-friday-approves-sending-3-000-troops-to-iraq-responding-to-a-call-from-the-united-states-f.json)  [XML](/news/2004/02/13/occupation-of-iraq-south-korea-s-parliament-on-friday-approves-sending-3-000-troops-to-iraq-responding-to-a-call-from-the-united-states-f.xml)  
+
 ### [2004-02-13](/news/2004/02/13/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: South Korea's parliament on Friday approves sending 3,000 troops to Iraq, responding to a call from the United States for military help in restoring stability to Iraq. 
 
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/10/fine-arts-a-striking-piece-of-art-the-lifelike-sculpture-of-the-nazi-leader-adolf-hitler-kneels-in-an-empty-room-in-a-munich-art-museum.html)  [JSON](/news/2003/11/10/fine-arts-a-striking-piece-of-art-the-lifelike-sculpture-of-the-nazi-leader-adolf-hitler-kneels-in-an-empty-room-in-a-munich-art-museum.json)  [XML](/news/2003/11/10/fine-arts-a-striking-piece-of-art-the-lifelike-sculpture-of-the-nazi-leader-adolf-hitler-kneels-in-an-empty-room-in-a-munich-art-museum.xml)  
+
 ### [2003-11-10](/news/2003/11/10/index.md)
 
+##### Fine arts
 #  Fine arts: A striking piece of art, the lifelike sculpture of the Nazi leader Adolf Hitler kneels in an empty room in a Munich art museum, Germany (where the Nazi past has made it taboo to display Hitler in any form except in documentary films). The exhibition is at the neo-classical museum, which the Nazi leader ordered built in 1937.
 
 

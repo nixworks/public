@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/12/casino-royale-and-the-queen-lead-this-year-s-bafta-film-award-nominations.html)  [JSON](/news/2007/01/12/casino-royale-and-the-queen-lead-this-year-s-bafta-film-award-nominations.json)  [XML](/news/2007/01/12/casino-royale-and-the-queen-lead-this-year-s-bafta-film-award-nominations.xml)  
+
 ### [2007-01-12](/news/2007/01/12/index.md)
 
+##### ''Casino Royale''
 #  ""Casino Royale"" and ""The Queen"" lead this year's BAFTA film award nominations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/entertainment/6253221.stm)
 

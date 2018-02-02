@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/11/28/at-least-three-people-are-killed-in-an-attack-on-a-united-nations-peacekeeping-base-in-kidal-northern-mali-the-jihadist-group-ansar-dine-c.html)  [JSON](/news/2015/11/28/at-least-three-people-are-killed-in-an-attack-on-a-united-nations-peacekeeping-base-in-kidal-northern-mali-the-jihadist-group-ansar-dine-c.json)  [XML](/news/2015/11/28/at-least-three-people-are-killed-in-an-attack-on-a-united-nations-peacekeeping-base-in-kidal-northern-mali-the-jihadist-group-ansar-dine-c.xml)  
+
 ### [2015-11-28](/news/2015/11/28/index.md)
 
+##### United Nations
 # At least three people are killed in an attack on a United Nations peacekeeping base in Kidal, northern Mali. The jihadist group Ansar Dine claims responsibility. 
 
 At least three people have died in a gun and rocket attack on a camp for UN peacekeepers in northern Mali. UN and local sources confirmed the figure
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/jihadist-group-ansar-dine-claims-deadly-attack-un-184641376.html;_ylt=AwrC1Cl9.VlWCXEAMlLQtDMD;_ylu=X3oDMTByOHZyb21tBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
+1. [AFP via Yahoo! News](https://news.yahoo.com/jihadist-group-ansar-dine-claims-deadly-attack-un-184641376.html;_ylt=AwrC1Cl9.VlWCXEAMlLQtDMD;_ylu=X3oDMTByOHZyb21tBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzcg--)
 2. [Euronews](http://www.euronews.com/2015/11/28/mali-un-peacekeepers-base-attacked-by-unidentified-gunmen/)
 2. [Cover Image](http://static.euronews.com/articles/317927/1000x563_317927.jpg)
 

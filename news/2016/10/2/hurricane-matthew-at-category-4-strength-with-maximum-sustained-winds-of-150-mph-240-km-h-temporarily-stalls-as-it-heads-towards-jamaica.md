@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/2/hurricane-matthew-at-category-4-strength-with-ma
 
 ### [2016-10-2](/news/2016/10/2/index.md)
 
+##### 2016 Atlantic hurricane season
 # Hurricane Matthew, at Category 4 strength with maximum sustained winds of 150 mph (240 km-h), temporarily stalls as it heads towards Jamaica and Haiti. Weather forecasters expect tropical storm conditions today with landfall tomorrow. Further, they expect rainfall of 20 inches, with up to 40 inches in some parts of southern Haiti. 
 
 Hurricane Matthew heads towards Jamaica, with wind speeds strong enough to wreck houses and infrastructure.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/20/former-croatian-prime-minister-ivo-sanader-is-sentenced-to-10-years-in-prison-in-a-first-degree-verdict-he-is-the-highest-official-in-croat.html)  [JSON](/news/2012/11/20/former-croatian-prime-minister-ivo-sanader-is-sentenced-to-10-years-in-prison-in-a-first-degree-verdict-he-is-the-highest-official-in-croat.json)  [XML](/news/2012/11/20/former-croatian-prime-minister-ivo-sanader-is-sentenced-to-10-years-in-prison-in-a-first-degree-verdict-he-is-the-highest-official-in-croat.xml)  
+
 ### [2012-11-20](/news/2012/11/20/index.md)
 
+##### prime minister
 # Former Croatian prime minister Ivo Sanader is sentenced to 10 years in prison in a first-degree verdict. He is the highest official in Croatia to be convicted of corruption. 
 
 A court in Croatia sentences former Prime Minister Ivo Sanader to 10 years in prison for taking bribes, in a case closely watched by the EU.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20407006)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/64251000/jpg/_64251002_64251001.jpg)

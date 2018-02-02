@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/14/the-parliament-of-south-africa-passes-a-law-to-legalize-same-sex-marriage-it-must-now-be-signed-by-president-thabo-mbeki-to-become-law-th.html)  [JSON](/news/2006/11/14/the-parliament-of-south-africa-passes-a-law-to-legalize-same-sex-marriage-it-must-now-be-signed-by-president-thabo-mbeki-to-become-law-th.json)  [XML](/news/2006/11/14/the-parliament-of-south-africa-passes-a-law-to-legalize-same-sex-marriage-it-must-now-be-signed-by-president-thabo-mbeki-to-become-law-th.xml)  
+
 ### [2006-11-14](/news/2006/11/14/index.md)
 
+##### Parliament
 #  The Parliament of South Africa passes a law to legalize same-sex marriage. It must now be signed by President Thabo Mbeki to become law. The change was required by a constitutional court, which ruled last year that the current marriage law unconstitutionally discriminated on the basis of sexual orientation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/world/story/2006/11/14/marriage-safrica.html)
 1. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)

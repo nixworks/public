@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/13/pakistani-lawyers-hold-a-protest-rally-in-islamabad-to-demand-the-reinstatement-of-judges-sacked-by-the-president-of-pakistan-pervez-mushar.html)  [JSON](/news/2008/06/13/pakistani-lawyers-hold-a-protest-rally-in-islamabad-to-demand-the-reinstatement-of-judges-sacked-by-the-president-of-pakistan-pervez-mushar.json)  [XML](/news/2008/06/13/pakistani-lawyers-hold-a-protest-rally-in-islamabad-to-demand-the-reinstatement-of-judges-sacked-by-the-president-of-pakistan-pervez-mushar.xml)  
+
 ### [2008-06-13](/news/2008/06/13/index.md)
 
+##### Pakistan
 #  Pakistani lawyers hold a protest rally in Islamabad to demand the reinstatement of judges sacked by the President of Pakistan Pervez Musharraf. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7452121.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/9/the-recently-elected-president-of-sri-lanka-mahinda-rajapaksa-dissolves-his-country-s-parliament-one-day-after-the-arrest-of-sarath-fonseka.html)  [JSON](/news/2010/02/9/the-recently-elected-president-of-sri-lanka-mahinda-rajapaksa-dissolves-his-country-s-parliament-one-day-after-the-arrest-of-sarath-fonseka.json)  [XML](/news/2010/02/9/the-recently-elected-president-of-sri-lanka-mahinda-rajapaksa-dissolves-his-country-s-parliament-one-day-after-the-arrest-of-sarath-fonseka.xml)  
+
 ### [2010-02-9](/news/2010/02/9/index.md)
 
+##### President of Sri Lanka
 # The recently-elected President of Sri Lanka Mahinda Rajapaksa dissolves his country's parliament one day after the arrest of Sarath Fonseka. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8506563.stm)
 

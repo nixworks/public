@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/17/unmik-and-nato-kfor-forces-clashed-with-serb-protesters-in-north-kosovo-resulting-in-over-150-wounded-after-arresting-serb-lawyers-and-cour.html)  [JSON](/news/2008/03/17/unmik-and-nato-kfor-forces-clashed-with-serb-protesters-in-north-kosovo-resulting-in-over-150-wounded-after-arresting-serb-lawyers-and-cour.json)  [XML](/news/2008/03/17/unmik-and-nato-kfor-forces-clashed-with-serb-protesters-in-north-kosovo-resulting-in-over-150-wounded-after-arresting-serb-lawyers-and-cour.xml)  
+
 ### [2008-03-17](/news/2008/03/17/index.md)
 
+##### UNMIK
 #  UNMIK and NATO KFOR forces clashed with Serb protesters in North Kosovo resulting in over 150 wounded after arresting Serb lawyers and court officials who had taken control of a UN court. The clashes are part of ongoing unrest following Kosovo's declaration of independence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7300015.stm)
 

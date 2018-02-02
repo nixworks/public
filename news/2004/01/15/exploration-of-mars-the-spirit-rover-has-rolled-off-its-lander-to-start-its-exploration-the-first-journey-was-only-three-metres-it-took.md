@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/15/exploration-of-mars-the-spirit-rover-has-rolled-off-its-lander-to-start-its-exploration-the-first-journey-was-only-three-metres-it-took.html)  [JSON](/news/2004/01/15/exploration-of-mars-the-spirit-rover-has-rolled-off-its-lander-to-start-its-exploration-the-first-journey-was-only-three-metres-it-took.json)  [XML](/news/2004/01/15/exploration-of-mars-the-spirit-rover-has-rolled-off-its-lander-to-start-its-exploration-the-first-journey-was-only-three-metres-it-took.xml)  
+
 ### [2004-01-15](/news/2004/01/15/index.md)
 
+##### route
 #  Exploration of Mars: The Spirit Rover has rolled off its lander to start its exploration. The first journey was only three metres. It took the rover about 78 seconds, ending with the back of the rover being 0.7 metres from the lander.
 
 

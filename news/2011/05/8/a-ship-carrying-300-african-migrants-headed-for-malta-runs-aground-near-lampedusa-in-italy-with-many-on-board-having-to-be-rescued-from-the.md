@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/8/a-ship-carrying-300-african-migrants-headed-for-malta-runs-aground-near-lampedusa-in-italy-with-many-on-board-having-to-be-rescued-from-the.html)  [JSON](/news/2011/05/8/a-ship-carrying-300-african-migrants-headed-for-malta-runs-aground-near-lampedusa-in-italy-with-many-on-board-having-to-be-rescued-from-the.json)  [XML](/news/2011/05/8/a-ship-carrying-300-african-migrants-headed-for-malta-runs-aground-near-lampedusa-in-italy-with-many-on-board-having-to-be-rescued-from-the.xml)  
+
 ### [2011-05-8](/news/2011/05/8/index.md)
 
+##### Africa
 # A ship carrying 300 African migrants headed for Malta runs aground near Lampedusa in Italy with many on board having to be rescued from the sea. 
 
 Incident comes a day after a boat laden with another such group of 600 people sank off Libyan coast.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/05/20115845455723288.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/8/2011585947662734_20.jpg)

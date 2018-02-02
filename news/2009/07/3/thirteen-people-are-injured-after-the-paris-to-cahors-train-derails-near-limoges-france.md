@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/3/thirteen-people-are-injured-after-the-paris-to-cahors-train-derails-near-limoges-france.html)  [JSON](/news/2009/07/3/thirteen-people-are-injured-after-the-paris-to-cahors-train-derails-near-limoges-france.json)  [XML](/news/2009/07/3/thirteen-people-are-injured-after-the-paris-to-cahors-train-derails-near-limoges-france.xml)  
+
 ### [2009-07-3](/news/2009/07/3/index.md)
 
+##### Paris
 #  Thirteen people are injured after the Paris to Cahors train derails near Limoges, France. 
 
 Thirteen people have been injured, after a train derailed near the southwestern French city of Limoges.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0703/traincrash.html)
 1. [Cover Image](https://img.rasset.ie/000212e8-1600.jpg)

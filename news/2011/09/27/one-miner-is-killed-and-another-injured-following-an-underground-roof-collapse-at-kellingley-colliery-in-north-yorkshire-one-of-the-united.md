@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/27/one-miner-is-killed-and-another-injured-following-an-underground-roof-collapse-at-kellingley-colliery-in-north-yorkshire-one-of-the-united.html)  [JSON](/news/2011/09/27/one-miner-is-killed-and-another-injured-following-an-underground-roof-collapse-at-kellingley-colliery-in-north-yorkshire-one-of-the-united.json)  [XML](/news/2011/09/27/one-miner-is-killed-and-another-injured-following-an-underground-roof-collapse-at-kellingley-colliery-in-north-yorkshire-one-of-the-united.xml)  
+
 ### [2011-09-27](/news/2011/09/27/index.md)
 
+##### Kellingley Colliery
 # One miner is killed and another injured following an underground roof collapse at Kellingley Colliery in North Yorkshire, one of the United Kingdom's deepest remaining mines. 
 
 A miner dies after being trapped by debris in a roof fall at Kellingley Colliery, in North Yorkshire, but a second man is rescued.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-leeds-15083044)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/55618000/jpg/_55618197_kellingley.jpg)

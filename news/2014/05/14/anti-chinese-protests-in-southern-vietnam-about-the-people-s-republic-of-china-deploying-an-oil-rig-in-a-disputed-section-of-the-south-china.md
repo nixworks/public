@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/14/anti-chinese-protests-in-southern-vietnam-about-the-people-s-republic-of-china-deploying-an-oil-rig-in-a-disputed-section-of-the-south-china.html)  [JSON](/news/2014/05/14/anti-chinese-protests-in-southern-vietnam-about-the-people-s-republic-of-china-deploying-an-oil-rig-in-a-disputed-section-of-the-south-china.json)  [XML](/news/2014/05/14/anti-chinese-protests-in-southern-vietnam-about-the-people-s-republic-of-china-deploying-an-oil-rig-in-a-disputed-section-of-the-south-china.xml)  
+
 ### [2014-05-14](/news/2014/05/14/index.md)
 
+##### Chinese
 # Anti-Chinese protests in southern Vietnam about the People's Republic of China deploying an oil rig in a disputed section of the South China Sea degenerate into the burning of up to 15 foreign-owned factories. 
 
 Tensions from clashes in the South China Sea erupt in the most serious outbreak of public disorder in the tightly-controlled country in years.
 
 
-### Source:
+### Sources:
 
 1. [AP, Reuters via ''The Age](http://www.theage.com.au/world/antichinese-rioters-on-rampage-in-vietnam-20140514-zrcio.html)
 2. [AP](http://bigstory.ap.org/article/vietnamese-workers-protest-chinese-factories)

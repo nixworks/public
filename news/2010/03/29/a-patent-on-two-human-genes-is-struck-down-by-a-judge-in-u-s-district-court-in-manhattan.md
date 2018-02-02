@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/03/29/a-patent-on-two-human-genes-is-struck-down-by-a-judge-in-u-s-district-court-in-manhattan.html)  [JSON](/news/2010/03/29/a-patent-on-two-human-genes-is-struck-down-by-a-judge-in-u-s-district-court-in-manhattan.json)  [XML](/news/2010/03/29/a-patent-on-two-human-genes-is-struck-down-by-a-judge-in-u-s-district-court-in-manhattan.xml)  
+
 ### [2010-03-29](/news/2010/03/29/index.md)
 
+##### patent
 # A patent on two human genes is struck down by a judge in U.S. District Court in Manhattan. 
 
 In a ruling with potentially far-reaching implications for the patenting of human genes, a judge struck down a company’s patents on two genes linked to an increased risk of breast and ovarian cancer.
 
 
-### Source:
+### Sources:
 
 1. [Newsweek](http://blog.newsweek.com/blogs/thehumancondition/archive/2010/03/29/in-surprise-ruling-court-declares-two-gene-patents-invalid.aspx)
-2. [The New York Times](http://www.nytimes.com/2010/03/30/business/30gene.html)
+2. [The New York Times](https://www.nytimes.com/2010/03/30/business/30gene.html)
 2. [Cover Image](https://static01.nyt.com/images/2010/03/30/business/30gene_CA0/30gene_CA0-thumbStandard.jpg)
 
 ### Related:

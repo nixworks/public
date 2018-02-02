@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/27/two-neo-nazi-white-supremacists-are-arrested-for-plotting-to-assassinate-us-presidential-candidate-barack-obama.html)  [JSON](/news/2008/10/27/two-neo-nazi-white-supremacists-are-arrested-for-plotting-to-assassinate-us-presidential-candidate-barack-obama.json)  [XML](/news/2008/10/27/two-neo-nazi-white-supremacists-are-arrested-for-plotting-to-assassinate-us-presidential-candidate-barack-obama.xml)  
+
 ### [2008-10-27](/news/2008/10/27/index.md)
 
+##### neo-Nazi
 #  Two Neo-Nazi white supremacists are arrested for plotting to assassinate US presidential candidate Barack Obama. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://ca.reuters.com/article/topNews/idCATRE49Q7KJ20081027)
 

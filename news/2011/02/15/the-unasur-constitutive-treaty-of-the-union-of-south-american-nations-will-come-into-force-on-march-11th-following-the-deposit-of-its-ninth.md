@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/15/the-unasur-constitutive-treaty-of-the-union-of-south-american-nations-will-come-into-force-on-march-11th-following-the-deposit-of-its-ninth.html)  [JSON](/news/2011/02/15/the-unasur-constitutive-treaty-of-the-union-of-south-american-nations-will-come-into-force-on-march-11th-following-the-deposit-of-its-ninth.json)  [XML](/news/2011/02/15/the-unasur-constitutive-treaty-of-the-union-of-south-american-nations-will-come-into-force-on-march-11th-following-the-deposit-of-its-ninth.xml)  
+
 ### [2011-02-15](/news/2011/02/15/index.md)
 
+##### UNASUR Constitutive Treaty
 # The UNASUR Constitutive Treaty of the Union of South American Nations will come into force on March 11th, following the deposit of its ninth instrument of ratification, by the Uruguayan government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Brazilian Foreign Ministry](http://www.itamaraty.gov.br/sala-de-imprensa/notas-a-imprensa/entrada-em-vigor-do-tratado-constitutivo-da-unasul)
 

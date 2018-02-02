@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/4/the-scandal-over-improper-practices-of-unauthori
 
 ### [2016-10-4](/news/2016/10/4/index.md)
 
+##### Wells Fargo
 # The scandal over improper practices of unauthorized accounts at Wells Fargo extends to thousands of small-business owners. 
 
 

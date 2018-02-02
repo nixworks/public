@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/01/14/dayton-hudson-is-renamed-the-target-corporation.html)  [JSON](/news/2000/01/14/dayton-hudson-is-renamed-the-target-corporation.json)  [XML](/news/2000/01/14/dayton-hudson-is-renamed-the-target-corporation.xml)  
+
 ### [2000-01-14](/news/2000/01/14/index.md)
 
+##### Target Corporation
 # Dayton-Hudson is renamed the Target Corporation.
 
 

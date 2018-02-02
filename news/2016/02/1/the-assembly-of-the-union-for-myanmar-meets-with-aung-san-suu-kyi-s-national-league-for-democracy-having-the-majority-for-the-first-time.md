@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/1/the-assembly-of-the-union-for-myanmar-meets-with
 
 ### [2016-02-1](/news/2016/02/1/index.md)
 
+##### parliament
 # The Assembly of the Union for Myanmar meets with Aung San Suu Kyi's National League for Democracy having the majority for the first time. 
 
 

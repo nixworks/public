@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/16/pro-government-militiamen-kill-six-mediators-in-the-syrian-province-of-homs.html)  [JSON](/news/2013/07/16/pro-government-militiamen-kill-six-mediators-in-the-syrian-province-of-homs.json)  [XML](/news/2013/07/16/pro-government-militiamen-kill-six-mediators-in-the-syrian-province-of-homs.xml)  
+
 ### [2013-07-16](/news/2013/07/16/index.md)
 
+##### Syria
 # Pro-government militiamen kill six mediators in the Syrian province of Homs. 
 
 At least six mediators have been killed by pro-government militiamen in the Syrian province of Homs while trying to broker talks, reports say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23331569)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68766000/gif/_68766759_syria_hajarabyad_07_13.gif)

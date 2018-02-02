@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/14/a-heat-boiler-explodes-at-a-community-center-in
 
 ### [2018-01-14](/news/2018/01/14/index.md)
 
+##### Vila Nova da Rainha
 # A heat boiler explodes at a community center in Vila Nova da Rainha, Tondela, Portugal, leaving at least eight people dead and thirty five injured. 
 
 An explosion started the blaze while the centre at Vila Nova da Rainha hosted a card tournament.

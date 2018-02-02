@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/21/sri-lanka-s-former-army-chief-sarath-fonseka-is-freed-from-prison-with-a-pardon-from-president-mahinda-rajapaksa.html)  [JSON](/news/2012/05/21/sri-lanka-s-former-army-chief-sarath-fonseka-is-freed-from-prison-with-a-pardon-from-president-mahinda-rajapaksa.json)  [XML](/news/2012/05/21/sri-lanka-s-former-army-chief-sarath-fonseka-is-freed-from-prison-with-a-pardon-from-president-mahinda-rajapaksa.xml)  
+
 ### [2012-05-21](/news/2012/05/21/index.md)
 
+##### Sri Lanka
 # Sri Lanka's former army chief Sarath Fonseka is freed from prison with a pardon from President Mahinda Rajapaksa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/world/south-asia/Prominent-rival-of-Sri-Lanka-president-walks-free/articleshow/13358377.cms)
 

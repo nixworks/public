@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/5/two-successive-suicide-bombers-on-foot-kill-at-l
 
 ### [2016-09-5](/news/2016/09/5/index.md)
 
+##### War in Afghanistan (2015-present)
 # Two successive suicide bombers on foot kill at least 24 people and injure 91 others, including senior security and police officials, after striking close to the Afghan Ministry of Defence in Kabul. The Taliban claims responsibility by disclosing the death of 58 officers and commanders. Another bombing took place not long after. 
 
 A car bomb hit the center of Kabul late on Monday, just hours after a Taliban suicide attack near the Defense Ministry killed at least 24 people including a number of senior security officials, and wounded 91 others, officials said.

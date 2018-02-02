@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/6/senator-christine-milne-announces-her-resignation-as-leader-of-the-australian-greens-senator-richard-di-natale-is-elected-as-the-new-leader.html)  [JSON](/news/2015/05/6/senator-christine-milne-announces-her-resignation-as-leader-of-the-australian-greens-senator-richard-di-natale-is-elected-as-the-new-leader.json)  [XML](/news/2015/05/6/senator-christine-milne-announces-her-resignation-as-leader-of-the-australian-greens-senator-richard-di-natale-is-elected-as-the-new-leader.xml)  
+
 ### [2015-05-6](/news/2015/05/6/index.md)
 
+##### Senate of Australia
 # Senator Christine Milne announces her resignation as leader of the Australian Greens. Senator Richard Di Natale is elected as the new leader. 
 
 The Australian Greens will have a new leader by lunchtime following the surprise resignation of senator Christine Milne
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/2015-05-06/greens-leader-christine-milne-resigns/6448452)
 2. [Sydney Morning Herald](http://www.smh.com.au/federal-politics/political-news/christine-milne-resigns-as-greens-leader-will-not-contest-2016-election-20150506-ggv4dj.html)

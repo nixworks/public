@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/10/the-costa-rican-embassy-s-trade-attache-in-caracas-venezuela-is-kidnapped.html)  [JSON](/news/2012/04/10/the-costa-rican-embassy-s-trade-attache-in-caracas-venezuela-is-kidnapped.json)  [XML](/news/2012/04/10/the-costa-rican-embassy-s-trade-attache-in-caracas-venezuela-is-kidnapped.xml)  
+
 ### [2012-04-10](/news/2012/04/10/index.md)
 
+##### Costa Rica
 # The Costa Rican embassy's trade attache in Caracas, Venezuela is kidnapped. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-17659179)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59571000/jpg/_59571072_59571070.jpg)

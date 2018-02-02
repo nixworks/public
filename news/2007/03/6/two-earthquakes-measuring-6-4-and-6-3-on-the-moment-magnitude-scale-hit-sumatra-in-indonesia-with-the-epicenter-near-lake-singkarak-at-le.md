@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2007/03/6/two-earthquakes-measuring-6-4-and-6-3-on-the-moment-magnitude-scale-hit-sumatra-in-indonesia-with-the-epicenter-near-lake-singkarak-at-le.html)  [JSON](/news/2007/03/6/two-earthquakes-measuring-6-4-and-6-3-on-the-moment-magnitude-scale-hit-sumatra-in-indonesia-with-the-epicenter-near-lake-singkarak-at-le.json)  [XML](/news/2007/03/6/two-earthquakes-measuring-6-4-and-6-3-on-the-moment-magnitude-scale-hit-sumatra-in-indonesia-with-the-epicenter-near-lake-singkarak-at-le.xml)  
+
 ### [2007-03-6](/news/2007/03/6/index.md)
 
+##### Two earthquakes
 #  Two earthquakes measuring 6.4 and 6.3 on the Moment magnitude scale hit Sumatra in Indonesia, with the epicenter near Lake Singkarak. At least 82 fatalities are currently reported. The earthquakes were felt as far as in Malaysia and Singapore. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Age](http://www.theage.com.au/news/world/quakes-kill-82-in-indonesia/2007/03/06/1173156488441.html)
-2. [USGS on the 6.3 quake](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2007zpal.php)
-3. [USGS on the 6.4 quake](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2007zpah.php)
+2. [USGS on the 6.3 quake](https://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2007zpal.php)
+3. [USGS on the 6.4 quake](https://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2007zpah.php)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/25/palestinian-president-mahmoud-abbas-issues-an-ultimatum-to-hamas-giving-them-ten-days-to-recognise-israel-or-have-the-question-put-to-the.html)  [JSON](/news/2006/05/25/palestinian-president-mahmoud-abbas-issues-an-ultimatum-to-hamas-giving-them-ten-days-to-recognise-israel-or-have-the-question-put-to-the.json)  [XML](/news/2006/05/25/palestinian-president-mahmoud-abbas-issues-an-ultimatum-to-hamas-giving-them-ten-days-to-recognise-israel-or-have-the-question-put-to-the.xml)  
+
 ### [2006-05-25](/news/2006/05/25/index.md)
 
+##### Mahmoud Abbas
 #  Palestinian President Mahmoud Abbas issues an ultimatum to Hamas, giving them ten days to recognise Israel or have the question put to the people in the form of a plebiscite.
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/WORLD/meast/05/25/palestinian.talks/index.html)
 

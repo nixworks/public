@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/29/a-car-bomb-explodes-outside-a-police-barracks-in-the-northern-spanish-city-of-burgos-injuring-dozens-of-people.html)  [JSON](/news/2009/07/29/a-car-bomb-explodes-outside-a-police-barracks-in-the-northern-spanish-city-of-burgos-injuring-dozens-of-people.json)  [XML](/news/2009/07/29/a-car-bomb-explodes-outside-a-police-barracks-in-the-northern-spanish-city-of-burgos-injuring-dozens-of-people.xml)  
+
 ### [2009-07-29](/news/2009/07/29/index.md)
 
+##### bombing of Burgos
 #  A car bomb explodes outside a police barracks in the northern Spanish city of Burgos, injuring dozens of people. 
 
 A car bomb has exploded near a civil guards barracks in Burgos in northern Spain.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0729/spain.html)
 2. [Sky News](http://news.sky.com/skynews/Home/World-News/Car-Bomb-Blast-Dozens-Hurt-In-Explosion-Outside-Police-Barracks-In-Northern-Spanish-City-Of-Burgos/Article/200907415348508?lpos=World_News_Top_Stories_Header_1&lid=ARTICLE_15348508_Car_Bomb_Blast%3A_Dozens_Hurt_In_Explosion_Outside_Police_Barracks_In_Northern_Spanish_City_Of_Burgos)
@@ -14,7 +18,7 @@ A car bomb has exploded near a civil guards barracks in Burgos in northern Spain
 ### Related:
 
 1. [ Spain is on red alert as ETA marks its 50th anniversary following the bombing of Burgos and the bombing of Palma Nova. ](/news/2009/07/31/spain-is-on-red-alert-as-eta-marks-its-50th-anniversary-following-the-bombing-of-burgos-and-the-bombing-of-palma-nova.md) _Context: Spain, bombing of Burgos_
-2. [Spain's third largest bank, CaixaBank, announces it is moving its legal base out of Catalonia to Valencia. This follows a similar move yesterday by Catalan banking group Banco Sabadell who announced they are moving their headquarters to Alicante in response to growing political insecurity in Catalonia. ](/news/2017/10/6/spain-s-third-largest-bank-caixabank-announces-it-is-moving-its-legal-base-out-of-catalonia-to-valencia-this-follows-a-similar-move-yeste.md) _Context: Spain_
-3. [Pro-independent trade unions, businesses, and schools in Catalonia hold a general strike to protest Spanish police brutality during the October 1 independence referendum. ](/news/2017/10/3/pro-independent-trade-unions-businesses-and-schools-in-catalonia-hold-a-general-strike-to-protest-spanish-police-brutality-during-the-octo.md) _Context: Spain_
-4. ["Nature" publishes research from The Institute of Astrophysics of Andalusia at the Glorieta de la Astronomia of Granada, Spain, describing the discovery that a ring system orbits the trans-Neptunian dwarf planet Haumea. ](/news/2017/10/11/nature-publishes-research-from-the-institute-of-astrophysics-of-andalusia-at-the-glorieta-de-la-astronomaa-of-granada-spain-describing.md) _Context: Spain_
-5. [The government of Catalonia holds a public referendum on whether their region should gain independence from Spain, despite the Spanish courts and government declaring the vote illegal and deploying police to deter voters. Catalan President Carles Puigdemont says Catalonia "has won the right to become an independent state." ](/news/2017/10/1/the-government-of-catalonia-holds-a-public-referendum-on-whether-their-region-should-gain-independence-from-spain-despite-the-spanish-court.md) _Context: Spain_
+2. [Carles Puigdemont, ex-President of Catalonia, travels to Denmark while Spanish Attorney General requests the European Arrest Warrant. The Speaker of the Catalan Parliament appoints Puigdemont to be invested as President. Spain's Supreme Court refuses to reactivate the arrest warrant. ](/news/2018/01/22/carles-puigdemont-ex-president-of-catalonia-travels-to-denmark-while-spanish-attorney-general-requests-the-european-arrest-warrant-the-sp.md) _Context: Spain_
+3. [Spain withdraws the international arrest warrant for five former Catalan officials now residing in Belgium. The charges of sedition and rebellion, however, remain. ](/news/2017/12/5/spain-withdraws-the-international-arrest-warrant-for-five-former-catalan-officials-now-residing-in-belgium-the-charges-of-sedition-and-rebe.md) _Context: Spain_
+4. [The prosecutor in a Brussels court repeats the demand to extradite Carles Puigdemont and four other former Catalan officials to Spain. The defense says that the adduced facts are "not punishable" under Belgian law. The judge delays the decision until December 14. ](/news/2017/12/4/the-prosecutor-in-a-brussels-court-repeats-the-demand-to-extradite-carles-puigdemont-and-four-other-former-catalan-officials-to-spain-the-d.md) _Context: Spain_
+5. [Spain issues an arrest warrant against former Catalonian president Carles Puigdemont. ](/news/2017/11/3/spain-issues-an-arrest-warrant-against-former-catalonian-president-carles-puigdemont.md) _Context: Spain_

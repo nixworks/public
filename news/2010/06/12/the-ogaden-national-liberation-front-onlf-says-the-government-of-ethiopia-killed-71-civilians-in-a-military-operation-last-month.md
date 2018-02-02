@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/12/the-ogaden-national-liberation-front-onlf-says-the-government-of-ethiopia-killed-71-civilians-in-a-military-operation-last-month.html)  [JSON](/news/2010/06/12/the-ogaden-national-liberation-front-onlf-says-the-government-of-ethiopia-killed-71-civilians-in-a-military-operation-last-month.json)  [XML](/news/2010/06/12/the-ogaden-national-liberation-front-onlf-says-the-government-of-ethiopia-killed-71-civilians-in-a-military-operation-last-month.xml)  
+
 ### [2010-06-12](/news/2010/06/12/index.md)
 
+##### Ogaden National Liberation Front
 # The Ogaden National Liberation Front (ONLF) says the government of Ethiopia killed 71 civilians in a military operation last month. 
 
 Ethiopia rejects claim by rebel group that government forces killed 71 civilians.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5giIypTDuzd8OX3AtTHd5CvwPu8FQ)
 2. [Aljazeera](http://english.aljazeera.net/news/africa/2010/06/2010611183955633200.html)

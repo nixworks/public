@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/19/romanian-voters-go-to-the-polls-to-vote-on-the-impeachment-of-the-president-of-romania-traian-basescu.html)  [JSON](/news/2007/05/19/romanian-voters-go-to-the-polls-to-vote-on-the-impeachment-of-the-president-of-romania-traian-basescu.json)  [XML](/news/2007/05/19/romanian-voters-go-to-the-polls-to-vote-on-the-impeachment-of-the-president-of-romania-traian-basescu.xml)  
+
 ### [2007-05-19](/news/2007/05/19/index.md)
 
+##### Romania
 #  Romanian voters go to the polls to vote on the impeachment of the President of Romania, Traian Basescu. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6665919.stm)
 

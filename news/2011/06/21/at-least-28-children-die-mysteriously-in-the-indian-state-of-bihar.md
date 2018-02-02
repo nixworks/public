@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/21/at-least-28-children-die-mysteriously-in-the-indian-state-of-bihar.html)  [JSON](/news/2011/06/21/at-least-28-children-die-mysteriously-in-the-indian-state-of-bihar.json)  [XML](/news/2011/06/21/at-least-28-children-die-mysteriously-in-the-indian-state-of-bihar.xml)  
+
 ### [2011-06-21](/news/2011/06/21/index.md)
 
+##### Indian state
 # At least 28 children die mysteriously in the Indian state of Bihar. 
 
 At least 28 children in the northern Indian state of Bihar have died in the past week from an unidentified illness, officials say
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13852963)
 2. [One India](http://news.oneindia.in/2011/06/21/mysteryfever-toll-in-bihar-climbs-to29-aid0126.html)

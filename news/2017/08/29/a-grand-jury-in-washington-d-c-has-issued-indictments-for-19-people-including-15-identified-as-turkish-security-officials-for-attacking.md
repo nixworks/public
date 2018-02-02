@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/29/a-grand-jury-in-washington-d-c-has-issued-indic
 
 ### [2017-08-29](/news/2017/08/29/index.md)
 
+##### 2017 clashes at the Turkish Ambassador's Residence in Washington, D.C.
 # A grand jury in Washington, D.C. has issued indictments for 19 people, including 15 identified as Turkish security officials, for attacking protesters in May 2017. 
 
 

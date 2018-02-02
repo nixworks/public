@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/13/the-iraqi-parliament-adopts-an-accord-on-the-budget-detainees-and-federalism-setting-provincial-elections-for-late-2008.html)  [JSON](/news/2008/02/13/the-iraqi-parliament-adopts-an-accord-on-the-budget-detainees-and-federalism-setting-provincial-elections-for-late-2008.json)  [XML](/news/2008/02/13/the-iraqi-parliament-adopts-an-accord-on-the-budget-detainees-and-federalism-setting-provincial-elections-for-late-2008.xml)  
+
 ### [2008-02-13](/news/2008/02/13/index.md)
 
+##### Iraqi Parliament
 #  The Iraqi Parliament adopts an accord on the budget, detainees and federalism, setting provincial elections for late 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5j-HkwcyMXBhHBDk9PYtcIwk_eGbgD8UPFKF80)
 

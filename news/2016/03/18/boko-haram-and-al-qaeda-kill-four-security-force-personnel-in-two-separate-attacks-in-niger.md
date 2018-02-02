@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/18/boko-haram-and-al-qaeda-kill-four-security-forc
 
 ### [2016-03-18](/news/2016/03/18/index.md)
 
+##### Insurgency in the Maghreb (2002-present)
 # Boko Haram and al-Qaeda kill four security force personnel in two separate attacks in Niger. 
 
 Rival Islamist militant groups al-Qaeda in the Islamic Maghreb and Boko Haram stage separate attacks in Niger, killing four members of the security forces, officials say.

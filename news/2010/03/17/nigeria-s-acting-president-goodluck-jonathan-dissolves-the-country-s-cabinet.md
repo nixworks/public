@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/17/nigeria-s-acting-president-goodluck-jonathan-dissolves-the-country-s-cabinet.html)  [JSON](/news/2010/03/17/nigeria-s-acting-president-goodluck-jonathan-dissolves-the-country-s-cabinet.json)  [XML](/news/2010/03/17/nigeria-s-acting-president-goodluck-jonathan-dissolves-the-country-s-cabinet.xml)  
+
 ### [2010-03-17](/news/2010/03/17/index.md)
 
+##### Nigeria
 # Nigeria's acting president Goodluck Jonathan dissolves the country's cabinet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8573178.stm)
 2. [The Punch](http://www.punchng.com/Articl.aspx?theartic=Art2010031717494846)

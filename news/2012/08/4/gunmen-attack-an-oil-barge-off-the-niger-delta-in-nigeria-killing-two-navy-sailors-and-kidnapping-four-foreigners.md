@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/4/gunmen-attack-an-oil-barge-off-the-niger-delta-in-nigeria-killing-two-navy-sailors-and-kidnapping-four-foreigners.html)  [JSON](/news/2012/08/4/gunmen-attack-an-oil-barge-off-the-niger-delta-in-nigeria-killing-two-navy-sailors-and-kidnapping-four-foreigners.json)  [XML](/news/2012/08/4/gunmen-attack-an-oil-barge-off-the-niger-delta-in-nigeria-killing-two-navy-sailors-and-kidnapping-four-foreigners.xml)  
+
 ### [2012-08-4](/news/2012/08/4/index.md)
 
+##### Niger Delta
 # Gunmen attack an oil barge off the Niger Delta in Nigeria, killing two navy sailors and kidnapping four foreigners. 
 
 Gunmen in Nigeria storm an oil barge off the coast, killing two sailors and kidnapping four foreigners, a naval officer says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19127704)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62036000/jpg/_62036326_pipelineafp.jpg)

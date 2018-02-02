@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/21/russian-president-dmitry-medvedev-criticises-vladimir-putin-s-stance-on-united-nations-security-council-resolution-1973-concerning-the-situa.html)  [JSON](/news/2011/03/21/russian-president-dmitry-medvedev-criticises-vladimir-putin-s-stance-on-united-nations-security-council-resolution-1973-concerning-the-situa.json)  [XML](/news/2011/03/21/russian-president-dmitry-medvedev-criticises-vladimir-putin-s-stance-on-united-nations-security-council-resolution-1973-concerning-the-situa.xml)  
+
 ### [2011-03-21](/news/2011/03/21/index.md)
 
+##### Russia
 # Russian President Dmitry Medvedev criticises Vladimir Putin's stance on United Nations Security Council Resolution 1973 concerning the situation in Libya as "unacceptable". Putin had said the resolution resembled a "medieval call for crusades". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12810566)
 2. [RIA Novosti](http://en.rian.ru/russia/20110321/163130143.html)

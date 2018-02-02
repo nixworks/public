@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/27/british-chancellor-philip-hammond-reports-that-
 
 ### [2016-07-27](/news/2016/07/27/index.md)
 
+##### Philip Hammond
 # British Chancellor Philip Hammond reports that the British economy grew in the last quarter immediately before Brexit, though economists warn that the economy is probably shrinking. 
 
 Britain’s economy has posted its 14th consecutive quarter of growth, but some economists fear turbulence ahead
@@ -15,8 +16,8 @@ Britain’s economy has posted its 14th consecutive quarter of growth, but some 
 
 ### Related:
 
-1. [After the United Kingdom withdrawal from the European Union referendum, the European Medicines Agency (EMA) will relocate to Amsterdam and the European Banking Authority (EBA) to Paris from London. ](/news/2017/11/20/after-the-united-kingdom-withdrawal-from-the-european-union-referendum-the-european-medicines-agency-ema-will-relocate-to-amsterdam-and-t.md) _Context: United Kingdom withdrawal from the European Union_
-2. [The European Union heads of state prepare to start negotiations on a future UK-EU trade agreement in December, depending on progress with the financial "exit bill" negotiations by then. ](/news/2017/10/20/the-european-union-heads-of-state-prepare-to-start-negotiations-on-a-future-ukaeu-trade-agreement-in-december-depending-on-progress-with.md) _Context: United Kingdom withdrawal from the European Union_
-3. [After six days of debate, the House of Commons of the United Kingdom votes to approve, with 323 votes for and 309 against, the policies set out in the Queen's Speech. In order to avoid a 'regret' amendment, Chancellor of the Exchequer Philip Hammond says that England's National Health Service is to provide free abortions to women from Northern Ireland with funds from the Government Equalities Office. ](/news/2017/06/29/after-six-days-of-debate-the-house-of-commons-of-the-united-kingdom-votes-to-approve-with-323-votes-for-and-309-against-the-policies-set.md) _Context: Philip Hammond_
-4. [UK Prime Minister Theresa May announces that citizens of the European Union living in the United Kingdom will be able to acquire a "UK settled status" after the UK leaves the EU. ](/news/2017/06/22/uk-prime-minister-theresa-may-announces-that-citizens-of-the-european-union-living-in-the-united-kingdom-will-be-able-to-acquire-a-uk-settl.md) _Context: United Kingdom withdrawal from the European Union_
-5. [Brexit negotiations begin in Brussels. ](/news/2017/06/19/brexit-negotiations-begin-in-brussels.md) _Context: United Kingdom withdrawal from the European Union_
+1. [Prime Minister Theresa May orders Phillip Lee, a Justice minister, to "air his views in private" after he suggested that Brexit planning should be based on evidence rather than dogma. ](/news/2018/01/31/prime-minister-theresa-may-orders-phillip-lee-a-justice-minister-to-air-his-views-in-private-after-he-suggested-that-brexit-planning-sho.md) _Context: Brexit_
+2. [The United Kingdom's Home Office confirms the return of the blue British passport after the UK leaves the European Union. The new passports will be issued from October 2019. ](/news/2017/12/22/the-united-kingdom-s-home-office-confirms-the-return-of-the-blue-british-passport-after-the-uk-leaves-the-european-union-the-new-passports.md) _Context: Brexit_
+3. [European Union leaders agree to allow the next phase of Brexit. ](/news/2017/12/15/european-union-leaders-agree-to-allow-the-next-phase-of-brexit.md) _Context: Brexit_
+4. [Prime Minister Theresa May suffers a 309-305 defeat, her first, in the House of Commons when MPs from both major parties approve an amendment to the Brexit bill subjecting a Brexit agreement to a preliminary vote by Parliament. ](/news/2017/12/13/prime-minister-theresa-may-suffers-a-309a305-defeat-her-first-in-the-house-of-commons-when-mps-from-both-major-parties-approve-an-amendm.md) _Context: Brexit_
+5. [After the United Kingdom withdrawal from the European Union referendum, the European Medicines Agency (EMA) will relocate to Amsterdam and the European Banking Authority (EBA) to Paris from London. ](/news/2017/11/20/after-the-united-kingdom-withdrawal-from-the-european-union-referendum-the-european-medicines-agency-ema-will-relocate-to-amsterdam-and-t.md) _Context: Brexit_

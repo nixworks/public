@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2011/06/29/freedom-flotilla-ii-the-international-flotilla-sets-sail-one-year-after-the-deadly-raid-on-a-previous-flotilla-by-israeli-commandos-in-inte.html)  [JSON](/news/2011/06/29/freedom-flotilla-ii-the-international-flotilla-sets-sail-one-year-after-the-deadly-raid-on-a-previous-flotilla-by-israeli-commandos-in-inte.json)  [XML](/news/2011/06/29/freedom-flotilla-ii-the-international-flotilla-sets-sail-one-year-after-the-deadly-raid-on-a-previous-flotilla-by-israeli-commandos-in-inte.xml)  
+
 ### [2011-06-29](/news/2011/06/29/index.md)
 
+##### Freedom Flotilla II
 # Freedom Flotilla II: The international flotilla sets sail one year after the deadly raid on a previous flotilla by Israeli commandos in international waters of the Mediterranean Sea. 
 
+Undeterred by last year&#039;s violent confrontation with Israeli troops, a group of activists is again preparing to set sail for Gaza, with 32 Canadians among them
 
 
-
-### Source:
+### Sources:
 
 1. [Asia Times Online](http://www.atimes.com/atimes/Middle_East/MF29Ak02.html)
-2. [The Globe and Mail](http://www.theglobeandmail.com/news/world/africa-mideast/one-year-after-fatal-clash-a-new-freedom-flotilla-sets-sail/article2078089/)
-2. [Cover Image](http://static.theglobeandmail.ca/5e7/incoming/article856768.ece/ALTERNATES/w620/web-flotilla.jpg)
+2. [The Globe and Mail](https://www.theglobeandmail.com/news/world/africa-mideast/one-year-after-fatal-clash-a-new-freedom-flotilla-sets-sail/article2078089/)
+2. [Cover Image](https://beta.theglobeandmail.com/resizer/7GGflR9U0BEwmQBlZOqyptT0R74=/1200x0/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/Z2TCAA4MCRBSNMMUVNLR5VLTXQ)
 
 ### Related:
 

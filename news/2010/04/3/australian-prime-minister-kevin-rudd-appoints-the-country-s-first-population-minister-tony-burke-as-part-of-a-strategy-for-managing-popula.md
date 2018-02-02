@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/3/australian-prime-minister-kevin-rudd-appoints-the-country-s-first-population-minister-tony-burke-as-part-of-a-strategy-for-managing-popula.html)  [JSON](/news/2010/04/3/australian-prime-minister-kevin-rudd-appoints-the-country-s-first-population-minister-tony-burke-as-part-of-a-strategy-for-managing-popula.json)  [XML](/news/2010/04/3/australian-prime-minister-kevin-rudd-appoints-the-country-s-first-population-minister-tony-burke-as-part-of-a-strategy-for-managing-popula.xml)  
+
 ### [2010-04-3](/news/2010/04/3/index.md)
 
+##### Australia
 # Australian Prime Minister Kevin Rudd appoints the country's first population minister, Tony Burke, as part of a strategy for managing population growth. 
 
 Prime Minister Kevin Rudd has announced that Tony Burke will take on the new role of minister for population.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/04/03/2863574.htm?section=justin)
 2. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2010/3/13/Australia-appoints-first-population-minister,33d69e5a-41ed-459d-b2a8-af5129d44850.html)

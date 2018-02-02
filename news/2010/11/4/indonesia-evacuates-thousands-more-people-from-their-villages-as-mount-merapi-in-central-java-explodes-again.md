@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/4/indonesia-evacuates-thousands-more-people-from-their-villages-as-mount-merapi-in-central-java-explodes-again.html)  [JSON](/news/2010/11/4/indonesia-evacuates-thousands-more-people-from-their-villages-as-mount-merapi-in-central-java-explodes-again.json)  [XML](/news/2010/11/4/indonesia-evacuates-thousands-more-people-from-their-villages-as-mount-merapi-in-central-java-explodes-again.xml)  
+
 ### [2010-11-4](/news/2010/11/4/index.md)
 
+##### Indonesia
 # Indonesia evacuates thousands more people from their villages as Mount Merapi in central Java explodes again. 
 
 Thousands have been ordered to evacuate their villages around Mount Merapi as Indonesia&#039;s most active volcano erupts again.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/stories/2010/11/04/3057572.htm)
 2. [Jakarta Globe](http://www.thejakartaglobe.com/home/indonesia-volcano-erupts-again-75770-people-seek-shelter/404874)

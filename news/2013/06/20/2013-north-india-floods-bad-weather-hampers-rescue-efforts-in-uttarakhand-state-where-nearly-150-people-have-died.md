@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/20/2013-north-india-floods-bad-weather-hampers-rescue-efforts-in-uttarakhand-state-where-nearly-150-people-have-died.html)  [JSON](/news/2013/06/20/2013-north-india-floods-bad-weather-hampers-rescue-efforts-in-uttarakhand-state-where-nearly-150-people-have-died.json)  [XML](/news/2013/06/20/2013-north-india-floods-bad-weather-hampers-rescue-efforts-in-uttarakhand-state-where-nearly-150-people-have-died.xml)  
+
 ### [2013-06-20](/news/2013/06/20/index.md)
 
+##### 2013 North India floods
 # 2013 North India floods: Bad weather hampers rescue efforts in Uttarakhand state where nearly 150 people have died. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-asia-india-22981885)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68273000/jpg/_68273268_68273267.jpg)

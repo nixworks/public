@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/23/city-officials-of-glendive-montana-declare-that-the-tap-water-is-safe-to-consume-following-the-january-17-oil-spill-in-the-yellowstone-rive.html)  [JSON](/news/2015/01/23/city-officials-of-glendive-montana-declare-that-the-tap-water-is-safe-to-consume-following-the-january-17-oil-spill-in-the-yellowstone-rive.json)  [XML](/news/2015/01/23/city-officials-of-glendive-montana-declare-that-the-tap-water-is-safe-to-consume-following-the-january-17-oil-spill-in-the-yellowstone-rive.xml)  
+
 ### [2015-01-23](/news/2015/01/23/index.md)
 
+##### Glendive, Montana
 # City officials of Glendive, Montana declare that the tap water is safe to consume following the January 17 oil spill in the Yellowstone River. 
 
 BILLINGS, Mont. (AP) &mdash; Thousands of people in an eastern Montana city were told Thursday they can resume using tap water after tests showed no further signs of contamination from a weekend oil spill into a nearby river.
 
 
-### Source:
+### Sources:
 
 1. [Mohave Daily News](http://www.mohavedailynews.com/news/glendive-s-water-declared-safe-after-oil-spill/article_ddb8df04-a2d9-11e4-bd19-fb3b87818ced.html)
 

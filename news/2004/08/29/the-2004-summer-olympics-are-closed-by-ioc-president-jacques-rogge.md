@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/29/the-2004-summer-olympics-are-closed-by-ioc-president-jacques-rogge.html)  [JSON](/news/2004/08/29/the-2004-summer-olympics-are-closed-by-ioc-president-jacques-rogge.json)  [XML](/news/2004/08/29/the-2004-summer-olympics-are-closed-by-ioc-president-jacques-rogge.xml)  
+
 ### [2004-08-29](/news/2004/08/29/index.md)
 
+##### 2004 Summer Olympics
 #  The 2004 Summer Olympics are closed by IOC President Jacques Rogge. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.co.uk/newsPackageArticle.jhtml?type=topNews&storyID=573544&section=news)
 

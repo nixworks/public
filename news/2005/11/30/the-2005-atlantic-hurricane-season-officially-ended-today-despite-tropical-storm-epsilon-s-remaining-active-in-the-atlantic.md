@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/30/the-2005-atlantic-hurricane-season-officially-ended-today-despite-tropical-storm-epsilon-s-remaining-active-in-the-atlantic.html)  [JSON](/news/2005/11/30/the-2005-atlantic-hurricane-season-officially-ended-today-despite-tropical-storm-epsilon-s-remaining-active-in-the-atlantic.json)  [XML](/news/2005/11/30/the-2005-atlantic-hurricane-season-officially-ended-today-despite-tropical-storm-epsilon-s-remaining-active-in-the-atlantic.xml)  
+
 ### [2005-11-30](/news/2005/11/30/index.md)
 
+##### Hurricane Epsilon
 #  The 2005 Atlantic hurricane season officially ended today, despite Tropical Storm Epsilon's remaining active in the Atlantic. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [US NHC 1](http://www.nhc.noaa.gov/text/refresh/MIATWOAT+shtml/010315.shtml)
 2. [US NHC 2](http://www.nhc.noaa.gov/text/refresh/MIATWOEP+shtml/010509.shtml)

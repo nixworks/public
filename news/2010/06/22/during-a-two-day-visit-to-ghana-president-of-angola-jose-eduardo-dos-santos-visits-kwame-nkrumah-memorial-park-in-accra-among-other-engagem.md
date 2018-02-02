@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/22/during-a-two-day-visit-to-ghana-president-of-angola-jose-eduardo-dos-santos-visits-kwame-nkrumah-memorial-park-in-accra-among-other-engagem.html)  [JSON](/news/2010/06/22/during-a-two-day-visit-to-ghana-president-of-angola-jose-eduardo-dos-santos-visits-kwame-nkrumah-memorial-park-in-accra-among-other-engagem.json)  [XML](/news/2010/06/22/during-a-two-day-visit-to-ghana-president-of-angola-jose-eduardo-dos-santos-visits-kwame-nkrumah-memorial-park-in-accra-among-other-engagem.xml)  
+
 ### [2010-06-22](/news/2010/06/22/index.md)
 
+##### Ghana
 # During a two-day visit to Ghana, President of Angola Jos Eduardo dos Santos visits Kwame Nkrumah Memorial Park in Accra among other engagements. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/politica/2010/5/25/Angola-and-Ghana-set-technical-meeting-for-August,b1dcbaaf-44f5-4843-bc9c-02d69b7fc1cf.html)
 2. [Ghana Broadcasting Corporation](http://gbcghana.com/news/35132detail.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/2/almost-half-of-china-s-dairies-are-to-close-after-failing-to-obtain-new-licenses-following-a-safety-audit.html)  [JSON](/news/2011/04/2/almost-half-of-china-s-dairies-are-to-close-after-failing-to-obtain-new-licenses-following-a-safety-audit.json)  [XML](/news/2011/04/2/almost-half-of-china-s-dairies-are-to-close-after-failing-to-obtain-new-licenses-following-a-safety-audit.xml)  
+
 ### [2011-04-2](/news/2011/04/2/index.md)
 
+##### China
 # Almost half of China's dairies are to close after failing to obtain new licenses following a safety audit. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12947213)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-04/02/c_13810616.htm)

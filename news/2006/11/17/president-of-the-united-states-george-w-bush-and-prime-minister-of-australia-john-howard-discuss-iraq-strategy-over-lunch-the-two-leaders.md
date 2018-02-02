@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/17/president-of-the-united-states-george-w-bush-and-prime-minister-of-australia-john-howard-discuss-iraq-strategy-over-lunch-the-two-leaders.html)  [JSON](/news/2006/11/17/president-of-the-united-states-george-w-bush-and-prime-minister-of-australia-john-howard-discuss-iraq-strategy-over-lunch-the-two-leaders.json)  [XML](/news/2006/11/17/president-of-the-united-states-george-w-bush-and-prime-minister-of-australia-john-howard-discuss-iraq-strategy-over-lunch-the-two-leaders.xml)  
+
 ### [2006-11-17](/news/2006/11/17/index.md)
 
+##### U.S. President
 #  President of the United States George W. Bush and Prime Minister of Australia John Howard discuss Iraq strategy over lunch. The two leaders are attending an Asia-Pacific Economic Cooperation meeting in Hanoi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200611/s1790735.htm)
 

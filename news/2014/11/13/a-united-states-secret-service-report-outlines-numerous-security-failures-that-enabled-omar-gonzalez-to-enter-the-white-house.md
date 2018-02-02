@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/11/13/a-united-states-secret-service-report-outlines-numerous-security-failures-that-enabled-omar-gonzalez-to-enter-the-white-house.html)  [JSON](/news/2014/11/13/a-united-states-secret-service-report-outlines-numerous-security-failures-that-enabled-omar-gonzalez-to-enter-the-white-house.json)  [XML](/news/2014/11/13/a-united-states-secret-service-report-outlines-numerous-security-failures-that-enabled-omar-gonzalez-to-enter-the-white-house.xml)  
+
 ### [2014-11-13](/news/2014/11/13/index.md)
 
+##### United States Secret Service
 # A United States Secret Service report outlines numerous security failures that enabled Omar Gonzalez to enter the White House. 
 
 Layer after layer of measures that were supposed to block an intruder all failed in stunning succession.
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/politics/internal-review-details-failures-in-white-house-fence-jumping-incident/2014/11/13/ef5bd41e-6b84-11e4-a31c-77759fc1eacc_story.html?wpisrc=al_comboPN)
+1. [Washington Post](https://www.washingtonpost.com/politics/internal-review-details-failures-in-white-house-fence-jumping-incident/2014/11/13/ef5bd41e-6b84-11e4-a31c-77759fc1eacc_story.html?wpisrc=al_comboPN)
 
 ### Related:
 

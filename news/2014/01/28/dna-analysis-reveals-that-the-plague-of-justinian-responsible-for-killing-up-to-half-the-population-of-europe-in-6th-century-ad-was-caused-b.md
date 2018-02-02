@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/28/dna-analysis-reveals-that-the-plague-of-justinian-responsible-for-killing-up-to-half-the-population-of-europe-in-6th-century-ad-was-caused-b.html)  [JSON](/news/2014/01/28/dna-analysis-reveals-that-the-plague-of-justinian-responsible-for-killing-up-to-half-the-population-of-europe-in-6th-century-ad-was-caused-b.json)  [XML](/news/2014/01/28/dna-analysis-reveals-that-the-plague-of-justinian-responsible-for-killing-up-to-half-the-population-of-europe-in-6th-century-ad-was-caused-b.xml)  
+
 ### [2014-01-28](/news/2014/01/28/index.md)
 
+##### Plague of Justinian
 # DNA analysis reveals that the Plague of Justinian responsible for killing up to half the population of Europe in 6th century AD was caused by a variant of "Yersinia pestis", the same bacterium believed to have caused the Black Death. 
 
 Modern science has solved a historical cold case by revealing that two of the world&#039;s most devastating plagues, the Black Death and Plague of Justinian - each responsible for killing as many as half the people then in Europe - were caused by distinct versions of the same pathogen, Yersinia pestis.
 
 
-### Source:
+### Sources:
 
 1. [Health Canal](http://www.healthcanal.com/public-health-safety/46990-scientists-reveal-the-cause-of-one-of-the-most-devastating-pandemics-in-history.html)
 

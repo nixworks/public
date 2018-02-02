@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/20/citing-irreconcilable-differences-angelina-joli
 
 ### [2016-09-20](/news/2016/09/20/index.md)
 
+##### Angelina Jolie
 # Citing irreconcilable differences, Angelina Jolie files for divorce from Brad Pitt and seeks full custody of their six children. The couple married in 2014 and had been in a relationship since 2005. 
 
 Ms. Jolie Pitt and Mr. Pitt created a mythic version of themselves for public consumption. With a bland press statement, it all came apart.

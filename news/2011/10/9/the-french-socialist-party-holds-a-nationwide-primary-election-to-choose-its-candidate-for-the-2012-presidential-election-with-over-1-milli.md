@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/9/the-french-socialist-party-holds-a-nationwide-primary-election-to-choose-its-candidate-for-the-2012-presidential-election-with-over-1-milli.html)  [JSON](/news/2011/10/9/the-french-socialist-party-holds-a-nationwide-primary-election-to-choose-its-candidate-for-the-2012-presidential-election-with-over-1-milli.json)  [XML](/news/2011/10/9/the-french-socialist-party-holds-a-nationwide-primary-election-to-choose-its-candidate-for-the-2012-presidential-election-with-over-1-milli.xml)  
+
 ### [2011-10-9](/news/2011/10/9/index.md)
 
+##### French Socialist Party
 # The French Socialist Party holds a nationwide primary election to choose its candidate for the 2012 presidential election, with over 1 million voters participating and Francois Hollande and Martine Aubry entering a run-off election. 
 
 France&#x2019;s&#x20;Socialists&#x20;held&#x20;their&#x20;first-ever&#x20;US-style&#x20;primary&#x20;Sunday&#x20;to&#x20;choose&#x20;their&#x20;candidate&#x20;to&#x20;take&#x20;on&#x20;Nicolas&#x20;Sarkozy&#x20;in&#x20;2012&#x20;presidential&#x20;elections.&#x20;The&#x20;party&#x20;reached&#x20;their&#x20;target&#x20;of&#x20;one&#x20;million&#x20;votes&#x20;cast,&#x20;branding&#x20;the&#x20;election&#x20;a&#x20;great&#x20;success.
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg via ''Business Week](http://www.businessweek.com/news/2011-10-10/aubry-hollande-to-run-for-french-socialists-nomination.html)
 2. [France24](http://www.france24.com/en/20111009-ps-socialist-party-france-primaries-presidential-election)

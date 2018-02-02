@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/16/france-deports-twenty-russian-football-fans-inc
 
 ### [2016-06-16](/news/2016/06/16/index.md)
 
+##### Violence at UEFA Euro 2016
 # France deports twenty Russian football fans including Alexander Shprygin, the leader of the All-Russia Supporters Union, following violence at the England-Russia match in Marseille. 
 
 
@@ -20,8 +21,8 @@ Formats: [HTML](/news/2016/06/16/france-deports-twenty-russian-football-fans-inc
 
 ### Related:
 
-1. [The pro-autonomy coalition party Pe a Corsica obtains 45% of the votes in the Corsican Assembly elections preceding the replacement of the departments of Haute Corse and Corse-du-Sud and the region of Corsica, France, with a single territorial collectivity. Two "miscellaneous right" parties and La Republique En Marche! also achieve the 7% election threshold. ](/news/2017/12/3/the-pro-autonomy-coalition-party-pa-a-corsica-obtains-45-of-the-votes-in-the-corsican-assembly-elections-preceding-the-replacement-of-the.md) _Context: France_
-2. [A driver intentionally drives into a group of students near Toulouse, France. Three injured people are taken to hospital. A suspect has been arrested. Police are not treating this incident as connected to terrorism. ](/news/2017/11/10/a-driver-intentionally-drives-into-a-group-of-students-near-toulouse-france-three-injured-people-are-taken-to-hospital-a-suspect-has-been.md) _Context: France_
-3. [France declares the end of the country's state of emergency which was enforced as a reaction to the November 2015 Paris attacks. The state of emergency gets replaced with a new counterterrorism law signed by President Emmanuel Macron. ](/news/2017/11/1/france-declares-the-end-of-the-country-s-state-of-emergency-which-was-enforced-as-a-reaction-to-the-november-2015-paris-attacks-the-state-o.md) _Context: France_
-4. [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md) _Context: France_
-5. [The opposition movement in Venezuela seeks help from France. ](/news/2017/09/4/the-opposition-movement-in-venezuela-seeks-help-from-france.md) _Context: France_
+1. [During a session of the United Nations Security Council, the United States repeat its "unapologetic" support for the ongoing Iranian protests. Russia denounces the "veiled [U.S.] attempt to use the current moment to continue to undermine" the JCPOA. France calls to "be wary of any attempt to exploit this crisis for personal ends". ](/news/2018/01/5/during-a-session-of-the-united-nations-security-council-the-united-states-repeat-its-unapologetic-support-for-the-ongoing-iranian-protest.md) _Context: France_
+2. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: France_
+3. [Paris Zoological Park, France, is evacuated and closed after dozens of baboons escape their enclosure. ](/news/2018/01/26/paris-zoological-park-france-is-evacuated-and-closed-after-dozens-of-baboons-escape-their-enclosure.md) _Context: France_
+4. [France's Foreign Minister Jean-Yves Le Drian calls for an emergency meeting of the United Nations Security Council to address the Turkish incursion into Northern Syria's Afrin Region. The UNSC will convene on Monday. ](/news/2018/01/21/france-s-foreign-minister-jean-yves-le-drian-calls-for-an-emergency-meeting-of-the-united-nations-security-council-to-address-the-turkish-in.md) _Context: France_
+5. [A spokesperson for Prime Minister Theresa May says the government has seen no plans for Foreign Secretary Boris Johnson's idea of building a road bridge across the English Channel between France and the United Kingdom. ](/news/2018/01/19/a-spokesperson-for-prime-minister-theresa-may-says-the-government-has-seen-no-plans-for-foreign-secretary-boris-johnson-s-idea-of-building-a.md) _Context: France_

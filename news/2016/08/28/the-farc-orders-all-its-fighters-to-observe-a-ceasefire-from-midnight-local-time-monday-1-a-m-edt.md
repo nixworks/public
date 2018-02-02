@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/28/the-farc-orders-all-its-fighters-to-observe-a-c
 
 ### [2016-08-28](/news/2016/08/28/index.md)
 
+##### Colombian conflict
 # The FARC orders all its fighters to observe a ceasefire from midnight local time (Monday 1 a.m. EDT). 
 
 

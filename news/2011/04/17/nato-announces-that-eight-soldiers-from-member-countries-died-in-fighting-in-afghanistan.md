@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/17/nato-announces-that-eight-soldiers-from-member-countries-died-in-fighting-in-afghanistan.html)  [JSON](/news/2011/04/17/nato-announces-that-eight-soldiers-from-member-countries-died-in-fighting-in-afghanistan.json)  [XML](/news/2011/04/17/nato-announces-that-eight-soldiers-from-member-countries-died-in-fighting-in-afghanistan.xml)  
+
 ### [2011-04-17](/news/2011/04/17/index.md)
 
+##### NATO
 # NATO announces that eight soldiers from member countries died in fighting in Afghanistan. 
 
 Three more NATO service members were killed in attacks in Afghanistan on Saturday, the international coalition said, making a total of eight killed on one of the deadliest days for NATO troops this year.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Atlanta Journal Constitution](http://www.ajc.com/news/nation-world/nato-3-service-members-912317.html)
 2. [AP via Fox News](http://www.foxnews.com/world/2011/04/17/nato-3-dead-afghanistan-8-total/)

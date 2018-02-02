@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/22/indonesia-bans-its-domestic-servants-from-working-in-saudi-arabia-following-the-execution-of-a-maid-who-was-beheaded-with-a-sword.html)  [JSON](/news/2011/06/22/indonesia-bans-its-domestic-servants-from-working-in-saudi-arabia-following-the-execution-of-a-maid-who-was-beheaded-with-a-sword.json)  [XML](/news/2011/06/22/indonesia-bans-its-domestic-servants-from-working-in-saudi-arabia-following-the-execution-of-a-maid-who-was-beheaded-with-a-sword.xml)  
+
 ### [2011-06-22](/news/2011/06/22/index.md)
 
+##### Indonesia
 # Indonesia bans its domestic servants from working in Saudi Arabia following the execution of a maid who was beheaded with a sword. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13878418)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53616000/jpg/_53616017_53616016.jpg)

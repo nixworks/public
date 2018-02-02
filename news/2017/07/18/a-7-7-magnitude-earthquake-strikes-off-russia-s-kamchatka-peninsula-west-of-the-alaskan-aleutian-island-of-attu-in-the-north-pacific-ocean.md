@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/18/a-7-7-magnitude-earthquake-strikes-off-russia-s
 
 ### [2017-07-18](/news/2017/07/18/index.md)
 
+##### Earthquakes in 2017
 # A 7.7 magnitude earthquake strikes off Russia's Kamchatka Peninsula, west of the Alaskan Aleutian Island of Attu, in the North Pacific Ocean. No immediate reports of casualties or damage; a tsunami warning was cancelled. 
 
  ANCHORAGE, Alaska (AP) — A strong earthquake on the Russian side of the Bering Sea briefly prompted a tsunami advisory for parts of the Pacific, including Alaska&#39;s remote Aleutian

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/3/the-death-toll-from-the-2009-java-earthquake-rises-to-at-least-57.html)  [JSON](/news/2009/09/3/the-death-toll-from-the-2009-java-earthquake-rises-to-at-least-57.json)  [XML](/news/2009/09/3/the-death-toll-from-the-2009-java-earthquake-rises-to-at-least-57.xml)  
+
 ### [2009-09-3](/news/2009/09/3/index.md)
 
+##### 2009 Java earthquake
 #  The death toll from the 2009 Java earthquake rises to at least 57. 
 
 Magnitude seven earthquake leave at least 46 people dead and thousands homeless.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/20099325923404861.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8235100.stm)

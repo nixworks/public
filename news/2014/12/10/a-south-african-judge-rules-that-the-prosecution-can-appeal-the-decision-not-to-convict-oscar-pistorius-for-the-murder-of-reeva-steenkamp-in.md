@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/10/a-south-african-judge-rules-that-the-prosecution-can-appeal-the-decision-not-to-convict-oscar-pistorius-for-the-murder-of-reeva-steenkamp-in.html)  [JSON](/news/2014/12/10/a-south-african-judge-rules-that-the-prosecution-can-appeal-the-decision-not-to-convict-oscar-pistorius-for-the-murder-of-reeva-steenkamp-in.json)  [XML](/news/2014/12/10/a-south-african-judge-rules-that-the-prosecution-can-appeal-the-decision-not-to-convict-oscar-pistorius-for-the-murder-of-reeva-steenkamp-in.xml)  
+
 ### [2014-12-10](/news/2014/12/10/index.md)
 
+##### South Africa
 # A South African judge rules that the prosecution can appeal the decision not to convict Oscar Pistorius for the murder of Reeva Steenkamp in 2013 to the Supreme Court of Appeal. 
 
 Oscar Pistorius again faces the possibility of a murder conviction after a South African judge ruled that prosecutors can appeal against his conviction on the lesser charge of culpable 
 
 
-### Source:
+### Sources:
 
 1. [Press Association via Independent](http://www.independent.ie/world-news/pistorius-faces-murder-case-appeal-30816029.html)
 1. [Cover Image](http://www.independent.ie/world-news/article30816028.ece/ALTERNATES/h342/PANews_P-62b46c5c-4184-48a4-948f-383c931b60b8_I1.jpg)

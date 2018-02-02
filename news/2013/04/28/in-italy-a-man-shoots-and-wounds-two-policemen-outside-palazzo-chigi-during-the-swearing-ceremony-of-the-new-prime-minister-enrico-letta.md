@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/28/in-italy-a-man-shoots-and-wounds-two-policemen-outside-palazzo-chigi-during-the-swearing-ceremony-of-the-new-prime-minister-enrico-letta.html)  [JSON](/news/2013/04/28/in-italy-a-man-shoots-and-wounds-two-policemen-outside-palazzo-chigi-during-the-swearing-ceremony-of-the-new-prime-minister-enrico-letta.json)  [XML](/news/2013/04/28/in-italy-a-man-shoots-and-wounds-two-policemen-outside-palazzo-chigi-during-the-swearing-ceremony-of-the-new-prime-minister-enrico-letta.xml)  
+
 ### [2013-04-28](/news/2013/04/28/index.md)
 
+##### Italy
 # In Italy, a man shoots and wounds two policemen outside Palazzo Chigi, during the swearing ceremony of the new Prime Minister Enrico Letta. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-22327445)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67286000/jpg/_67286958_67286957.jpg)

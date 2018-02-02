@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/30/police-in-seattle-report-that-the-suspect-maurice-clemmons-shot-in-the-murder-of-four-police-officers-in-parkland-washington-is-on-the.html)  [JSON](/news/2009/11/30/police-in-seattle-report-that-the-suspect-maurice-clemmons-shot-in-the-murder-of-four-police-officers-in-parkland-washington-is-on-the.json)  [XML](/news/2009/11/30/police-in-seattle-report-that-the-suspect-maurice-clemmons-shot-in-the-murder-of-four-police-officers-in-parkland-washington-is-on-the.xml)  
+
 ### [2009-11-30](/news/2009/11/30/index.md)
 
+##### Seattle
 #  Police in Seattle report that the suspect, Maurice Clemmons, shot in the murder of four police officers in Parkland, Washington, is on the run. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Seattle Post-Intelligencer](http://www.seattlepi.com/local/412727_shooting29.html)
 1. [Cover Image](http://ww3.hdnux.com/photos/01/64/12/475786/5/rawImage.jpg)

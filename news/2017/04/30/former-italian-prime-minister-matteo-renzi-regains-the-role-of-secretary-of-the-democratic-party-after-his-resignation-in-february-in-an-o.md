@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/04/30/former-italian-prime-minister-matteo-renzi-regains-the-role-of-secretary-of-the-democratic-party-after-his-resignation-in-february-in-an-o.html)  [JSON](/news/2017/04/30/former-italian-prime-minister-matteo-renzi-regains-the-role-of-secretary-of-the-democratic-party-after-his-resignation-in-february-in-an-o.json)  [XML](/news/2017/04/30/former-italian-prime-minister-matteo-renzi-regains-the-role-of-secretary-of-the-democratic-party-after-his-resignation-in-february-in-an-o.xml)  
+
 ### [2017-04-30](/news/2017/04/30/index.md)
 
+##### Democratic Party (Italy) leadership election, 2017
 # Former Italian Prime Minister Matteo Renzi regains the role of Secretary of the Democratic Party, after his resignation in February, in an open primary election. 
 
 Italians voted yesterday overwhelmingly to elect Matteo Renzi as the new head of the ruling Democratic Party, returning him to frontline politics as the party faces a growing challenge from populist politicians.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2017/04/30/italys-renzi-set-political-comeback-party-election/)
 1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2017/04/30/TELEMMGLPICT000127355340-xlarge_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/18/customs-officers-at-kuala-lumpur-international-airport-discover-400-rare-tortoises-more-than-40-rare-tomato-frogs-and-an-unidentified-numbe.html)  [JSON](/news/2010/07/18/customs-officers-at-kuala-lumpur-international-airport-discover-400-rare-tortoises-more-than-40-rare-tomato-frogs-and-an-unidentified-numbe.json)  [XML](/news/2010/07/18/customs-officers-at-kuala-lumpur-international-airport-discover-400-rare-tortoises-more-than-40-rare-tomato-frogs-and-an-unidentified-numbe.xml)  
+
 ### [2010-07-18](/news/2010/07/18/index.md)
 
+##### Kuala Lumpur International Airport
 # Customs officers at Kuala Lumpur International Airport discover 400 rare tortoises, more than 40 rare tomato frogs and an unidentified number of chameleons bound with masking tape and stuffed into socks allegedly smuggled from Madagascar in the luggage of two women. 
 
 Customs officers at Kuala Lumpur airport recover more than 400 rare tortoises and frogs smuggled from Madagascar.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/07/18/2956939.htm?section=world)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10674741)
@@ -13,8 +17,8 @@ Customs officers at Kuala Lumpur airport recover more than 400 rare tortoises an
 
 ### Related:
 
-1. [Since August 1, another round of pneumonic, bubonic, and septicemic plague spreads in Madagascar, killing at least 45 people. ](/news/2017/10/7/since-august-1-another-round-of-pneumonic-bubonic-and-septicemic-plague-spreads-in-madagascar-killing-at-least-45-people.md) _Context: Madagascar_
-2. [Cyclone Enawo makes landfall in Madagascar as a powerful Category 4 storm, making it the most powerful storm to strike the African nation in 13 years. ](/news/2017/03/7/cyclone-enawo-makes-landfall-in-madagascar-as-a-powerful-category-4-storm-making-it-the-most-powerful-storm-to-strike-the-african-nation-in.md) _Context: Madagascar_
-3. [Intense, Category 4 Cyclone Enawo is intensifying, as it closes in on the northern tip of Madagascar. ](/news/2017/03/6/intense-category-4-cyclone-enawo-is-intensifying-as-it-closes-in-on-the-northern-tip-of-madagascar.md) _Context: Madagascar_
-4. [Two women, Indonesian Siti Aisyah and Vietnamese Doan Thi Huong, are charged with murder in relation to the death of Kim Jong-nam, the estranged half-brother of North Korean leader Kim Jong-un, at Kuala Lumpur International Airport. The women, who reportedly thought they were involved in a prank TV show, did not enter pleas. ](/news/2017/03/1/two-women-indonesian-siti-aisyah-and-vietnamese-aoa-n-tha-haedegae-ng-are-charged-with-murder-in-relation-to-the-death-of-kim-jong-nam-the.md) _Context: Kuala Lumpur International Airport_
-5. [Kim Jong-nam, eldest son of Kim Jong-il, is assassinated in Malaysia after two unidentified women reportedly poisoned him at Kuala Lumpur International Airport. ](/news/2017/02/13/kim-jong-nam-eldest-son-of-kim-jong-il-is-assassinated-in-malaysia-after-two-unidentified-women-reportedly-poisoned-him-at-kuala-lumpur-in.md) _Context: Kuala Lumpur International Airport_
+1. [At least 29 people are dead and 22 are missing in the aftermath of a strong tropical cyclone striking Madagascar. ](/news/2018/01/9/at-least-29-people-are-dead-and-22-are-missing-in-the-aftermath-of-a-strong-tropical-cyclone-striking-madagascar.md) _Context: Madagascar_
+2. [Since August 1, another round of pneumonic, bubonic, and septicemic plague spreads in Madagascar, killing at least 45 people. ](/news/2017/10/7/since-august-1-another-round-of-pneumonic-bubonic-and-septicemic-plague-spreads-in-madagascar-killing-at-least-45-people.md) _Context: Madagascar_
+3. [The death toll from an outbreak of plague in Madagascar nears 100. So far, there have been 911 cases recorded. ](/news/2017/10/21/the-death-toll-from-an-outbreak-of-plague-in-madagascar-nears-100-so-far-there-have-been-911-cases-recorded.md) _Context: Madagascar_
+4. [Cyclone Enawo makes landfall in Madagascar as a powerful Category 4 storm, making it the most powerful storm to strike the African nation in 13 years. ](/news/2017/03/7/cyclone-enawo-makes-landfall-in-madagascar-as-a-powerful-category-4-storm-making-it-the-most-powerful-storm-to-strike-the-african-nation-in.md) _Context: Madagascar_
+5. [Intense, Category 4 Cyclone Enawo is intensifying, as it closes in on the northern tip of Madagascar. ](/news/2017/03/6/intense-category-4-cyclone-enawo-is-intensifying-as-it-closes-in-on-the-northern-tip-of-madagascar.md) _Context: Madagascar_

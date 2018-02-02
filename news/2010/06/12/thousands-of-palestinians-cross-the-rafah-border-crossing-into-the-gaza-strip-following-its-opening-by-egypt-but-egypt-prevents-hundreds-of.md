@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/12/thousands-of-palestinians-cross-the-rafah-border-crossing-into-the-gaza-strip-following-its-opening-by-egypt-but-egypt-prevents-hundreds-of.html)  [JSON](/news/2010/06/12/thousands-of-palestinians-cross-the-rafah-border-crossing-into-the-gaza-strip-following-its-opening-by-egypt-but-egypt-prevents-hundreds-of.json)  [XML](/news/2010/06/12/thousands-of-palestinians-cross-the-rafah-border-crossing-into-the-gaza-strip-following-its-opening-by-egypt-but-egypt-prevents-hundreds-of.xml)  
+
 ### [2010-06-12](/news/2010/06/12/index.md)
 
+##### Palestinian
 # Thousands of Palestinians cross the Rafah Border Crossing into the Gaza Strip following its opening by Egypt, but Egypt prevents hundreds of activists from entering and Hamas continues to refuse Red Cross visits for captured Israeli soldier, Gilad Shalit. 
 
 Gaza blockade not ending yet: Egypt prevents hundreds of activists carrying Palestinian flags, trucks carrying humanitarian aid from entering Strip via Rafah Crossing; meanwhile, Hamas says no Red Cross visits for Shalit
 
 
-### Source:
+### Sources:
 
 1. [Sify News](http://sify.com/news/thousands-of-palestinians-aid-cross-egypt-s-border-with-gaza-news-international-kgmsabjbfhh.html)
 2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3904043,00.html)

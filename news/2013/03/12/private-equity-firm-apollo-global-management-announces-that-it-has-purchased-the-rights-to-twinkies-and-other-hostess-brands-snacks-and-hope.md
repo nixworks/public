@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/12/private-equity-firm-apollo-global-management-announces-that-it-has-purchased-the-rights-to-twinkies-and-other-hostess-brands-snacks-and-hope.html)  [JSON](/news/2013/03/12/private-equity-firm-apollo-global-management-announces-that-it-has-purchased-the-rights-to-twinkies-and-other-hostess-brands-snacks-and-hope.json)  [XML](/news/2013/03/12/private-equity-firm-apollo-global-management-announces-that-it-has-purchased-the-rights-to-twinkies-and-other-hostess-brands-snacks-and-hope.xml)  
+
 ### [2013-03-12](/news/2013/03/12/index.md)
 
+##### Apollo Global Management
 # Private equity firm Apollo Global Management announces that it has purchased the rights to Twinkies and other Hostess Brands snacks and hopes to have the treats back on grocery shelves by summer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/business/breaking/chi-new-hostess-owner-eyes-twinkies-summer-return-20130312,0,704303.story)
 1. [Cover Image](http://www.trbimg.com/img-513f6da3/turbine/chi-twinkies-deal-near-20130129/600/600x400)

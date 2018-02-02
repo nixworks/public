@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/15/swedish-minister-of-finance-anders-borg-quits-politics-after-he-was-considered-to-be-the-next-leader-of-the-moderate-party-which-he-did-not.html)  [JSON](/news/2014/09/15/swedish-minister-of-finance-anders-borg-quits-politics-after-he-was-considered-to-be-the-next-leader-of-the-moderate-party-which-he-did-not.json)  [XML](/news/2014/09/15/swedish-minister-of-finance-anders-borg-quits-politics-after-he-was-considered-to-be-the-next-leader-of-the-moderate-party-which-he-did-not.xml)  
+
 ### [2014-09-15](/news/2014/09/15/index.md)
 
+##### Swedish Minister of Finance
 # Swedish Minister of Finance Anders Borg quits politics after he was considered to be the next leader of the Moderate Party, which he did not want. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://online.wsj.com/articles/swedish-finance-minister-anders-borg-quits-politics-1410792108)
 1. [Cover Image](https://si.wsj.net/public/resources/images/BN-EN654_swborg_G_20140915102651.jpg)

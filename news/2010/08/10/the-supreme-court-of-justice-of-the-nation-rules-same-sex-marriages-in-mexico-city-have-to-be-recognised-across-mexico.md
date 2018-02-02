@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/10/the-supreme-court-of-justice-of-the-nation-rules-same-sex-marriages-in-mexico-city-have-to-be-recognised-across-mexico.html)  [JSON](/news/2010/08/10/the-supreme-court-of-justice-of-the-nation-rules-same-sex-marriages-in-mexico-city-have-to-be-recognised-across-mexico.json)  [XML](/news/2010/08/10/the-supreme-court-of-justice-of-the-nation-rules-same-sex-marriages-in-mexico-city-have-to-be-recognised-across-mexico.xml)  
+
 ### [2010-08-10](/news/2010/08/10/index.md)
 
+##### Mexican Supreme Court
 # The Supreme Court of Justice of the Nation rules same-sex marriages in Mexico City have to be recognised across Mexico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10932748)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

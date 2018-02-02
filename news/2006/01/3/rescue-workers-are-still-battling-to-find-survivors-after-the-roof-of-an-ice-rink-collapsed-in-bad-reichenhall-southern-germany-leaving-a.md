@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/3/rescue-workers-are-still-battling-to-find-survivors-after-the-roof-of-an-ice-rink-collapsed-in-bad-reichenhall-southern-germany-leaving-a.html)  [JSON](/news/2006/01/3/rescue-workers-are-still-battling-to-find-survivors-after-the-roof-of-an-ice-rink-collapsed-in-bad-reichenhall-southern-germany-leaving-a.json)  [XML](/news/2006/01/3/rescue-workers-are-still-battling-to-find-survivors-after-the-roof-of-an-ice-rink-collapsed-in-bad-reichenhall-southern-germany-leaving-a.xml)  
+
 ### [2006-01-3](/news/2006/01/3/index.md)
 
+##### Bad Reichenhall
 #  Rescue workers are still battling to find survivors after the roof of an ice rink collapsed in Bad Reichenhall, southern Germany, leaving at least 10 people dead, some of them children. It is thought many are still trapped under the rubble. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4576588.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/13/abc-investigative-reporter-brian-ross-reports-that-security-at-nuclear-reactors-on-u-s-college-campuses-is-easily-compromised.html)  [JSON](/news/2005/10/13/abc-investigative-reporter-brian-ross-reports-that-security-at-nuclear-reactors-on-u-s-college-campuses-is-easily-compromised.json)  [XML](/news/2005/10/13/abc-investigative-reporter-brian-ross-reports-that-security-at-nuclear-reactors-on-u-s-college-campuses-is-easily-compromised.xml)  
+
 ### [2005-10-13](/news/2005/10/13/index.md)
 
+##### ABC
 #  ABC investigative reporter Brian Ross reports that security at nuclear reactors on U.S. college campuses is easily compromised. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/Technology/LooseNukes/)
 2. [BadgerHerald](http://badgerherald.com/news/2005/10/14/uw_calls_nuclear_lab.php)

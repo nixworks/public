@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/13/philippine-president-rodrigo-duterte-accuses-th
 
 ### [2016-09-13](/news/2016/09/13/index.md)
 
+##### Rodrigo Duterte
 # Philippine president Rodrigo Duterte accuses the Liberal Party of former president Benigno Aquino III and their allies of orchestrating an impeachment complaint against him regarding his anti-drug campaign. 
 
 President Rodrigo Duterte on Monday virtually accused forces loyal to his predecessor of fanning &#039;intrigues&#039; against him by blaming him for the killings of nearly 3,000 people in his tough campaign on illegal drugs.

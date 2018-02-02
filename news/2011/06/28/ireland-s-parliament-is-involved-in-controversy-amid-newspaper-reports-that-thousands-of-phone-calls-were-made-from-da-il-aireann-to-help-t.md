@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/28/ireland-s-parliament-is-involved-in-controversy-amid-newspaper-reports-that-thousands-of-phone-calls-were-made-from-da-il-aireann-to-help-t.html)  [JSON](/news/2011/06/28/ireland-s-parliament-is-involved-in-controversy-amid-newspaper-reports-that-thousands-of-phone-calls-were-made-from-da-il-aireann-to-help-t.json)  [XML](/news/2011/06/28/ireland-s-parliament-is-involved-in-controversy-amid-newspaper-reports-that-thousands-of-phone-calls-were-made-from-da-il-aireann-to-help-t.xml)  
+
 ### [2011-06-28](/news/2011/06/28/index.md)
 
+##### Dail Eireann
 # Ireland's parliament is involved in controversy amid newspaper reports that thousands of phone calls were made from Dail Eireann to help TD Michael Healy-Rae win a charity reality TV show four years ago. Taxpayers then picked up the bill. 
 
 Independent Kerry South TD Michael Healy-Rae has said he does not know who voted for him to win a reality TV contest more than&hellip;
 
 
-### Source:
+### Sources:
 
 1. [Irish Independent](http://www.independent.ie/national-news/it-wasnrsquot-me-healyrae-on-3636-dail-calls-to-win-tv-show-2807312.html)
 2. [Newstalk](http://www.newstalk.ie/2011/news/8healy-rae-rejects-suggestions-over-calls-says-conscience-is-clear59/)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/25/xulhaz-mannan-a-bangladeshi-employee-of-a-u-s-c
 
 ### [2016-04-25](/news/2016/04/25/index.md)
 
+##### Attacks on secularists in Bangladesh
 # Xulhaz Mannan, a Bangladeshi employee of a U.S. charity (USAID), who is also an editor for the country's only LGBT magazine, and a friend are hacked to death in Dhaka, Bangladesh, by suspected Islamist militants. Guards at the building were also injured. 
 
 Suspected Islamist militants armed with axes or knives hacked a prominent gay activist and his friend to death, police in Bangladesh said.

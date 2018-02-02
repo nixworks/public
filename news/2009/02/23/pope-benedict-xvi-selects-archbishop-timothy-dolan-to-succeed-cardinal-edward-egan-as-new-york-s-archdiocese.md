@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/02/23/pope-benedict-xvi-selects-archbishop-timothy-dolan-to-succeed-cardinal-edward-egan-as-new-york-s-archdiocese.html)  [JSON](/news/2009/02/23/pope-benedict-xvi-selects-archbishop-timothy-dolan-to-succeed-cardinal-edward-egan-as-new-york-s-archdiocese.json)  [XML](/news/2009/02/23/pope-benedict-xvi-selects-archbishop-timothy-dolan-to-succeed-cardinal-edward-egan-as-new-york-s-archdiocese.xml)  
+
 ### [2009-02-23](/news/2009/02/23/index.md)
 
+##### Pope
 #  Pope Benedict XVI selects Archbishop Timothy Dolan to succeed Cardinal Edward Egan as New York's Archdiocese. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2009/02/24/nyregion/24bishop.html?_r=1&hp)
+1. [New York Times](https://www.nytimes.com/2009/02/24/nyregion/24bishop.html?_r=1&hp)
 
 ### Related:
 

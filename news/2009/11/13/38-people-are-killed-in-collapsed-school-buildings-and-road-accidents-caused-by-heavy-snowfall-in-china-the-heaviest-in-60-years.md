@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/13/38-people-are-killed-in-collapsed-school-buildings-and-road-accidents-caused-by-heavy-snowfall-in-china-the-heaviest-in-60-years.html)  [JSON](/news/2009/11/13/38-people-are-killed-in-collapsed-school-buildings-and-road-accidents-caused-by-heavy-snowfall-in-china-the-heaviest-in-60-years.json)  [XML](/news/2009/11/13/38-people-are-killed-in-collapsed-school-buildings-and-road-accidents-caused-by-heavy-snowfall-in-china-the-heaviest-in-60-years.xml)  
+
 ### [2009-11-13](/news/2009/11/13/index.md)
 
+##### snow
 #  38 people are killed in collapsed school buildings and road accidents caused by heavy snowfall in China, the heaviest in 60 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8358162.stm)
 2. [China Daily](http://www.chinadaily.com.cn/china/2009-11/13/content_8969876.htm)

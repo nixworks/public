@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/04/9/bank-of-america-agrees-to-pay-727-million-to-customers-as-restitution-for-deceptive-marketing-practices-and-unfair-billing-an-additional.html)  [JSON](/news/2014/04/9/bank-of-america-agrees-to-pay-727-million-to-customers-as-restitution-for-deceptive-marketing-practices-and-unfair-billing-an-additional.json)  [XML](/news/2014/04/9/bank-of-america-agrees-to-pay-727-million-to-customers-as-restitution-for-deceptive-marketing-practices-and-unfair-billing-an-additional.xml)  
+
 ### [2014-04-9](/news/2014/04/9/index.md)
 
+##### Bank of America
 # Bank of America agrees to pay $727 million to customers as restitution for deceptive marketing practices and unfair billing. An additional $45 million will be paid as fines to government regulatory groups. 
 
 Bank of America agreed to pay nearly $800 million in fines and restitution to settle allegations of deceptive marketing and unfair billing involving credit card products, U.S. regulators said on Wednesday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/04/09/us-financial-regulations-bank-of-am-idUSBREA381FF20140409)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140409&t=2&i=881930067&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA3819M600)
+1. [Reuters](https://www.reuters.com/article/2014/04/09/us-financial-regulations-bank-of-am-idUSBREA381FF20140409)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140409&t=2&i=881930067&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA3819M600)
 
 ### Related:
 

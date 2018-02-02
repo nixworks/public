@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/19/a-two-week-conference-in-dublin-aiming-to-create-an-international-treaty-banning-cluster-bombs-opens-today.html)  [JSON](/news/2008/05/19/a-two-week-conference-in-dublin-aiming-to-create-an-international-treaty-banning-cluster-bombs-opens-today.json)  [XML](/news/2008/05/19/a-two-week-conference-in-dublin-aiming-to-create-an-international-treaty-banning-cluster-bombs-opens-today.xml)  
+
 ### [2008-05-19](/news/2008/05/19/index.md)
 
+##### Dublin
 #  A two-week conference in Dublin, aiming to create an international treaty banning cluster bombs, opens today. 
 
 Campaigners against cluster bombs say the main manufacturers and stockpilers of the munitions will be forced to accept a ban if one is agreed.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2008/0519/clusterbombs.html)
 1. [Cover Image](https://img.rasset.ie/00017c0d-1600.jpg)

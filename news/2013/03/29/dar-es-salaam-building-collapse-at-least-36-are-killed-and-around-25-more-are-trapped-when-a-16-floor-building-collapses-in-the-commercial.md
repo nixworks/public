@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/29/dar-es-salaam-building-collapse-at-least-36-are-killed-and-around-25-more-are-trapped-when-a-16-floor-building-collapses-in-the-commercial.html)  [JSON](/news/2013/03/29/dar-es-salaam-building-collapse-at-least-36-are-killed-and-around-25-more-are-trapped-when-a-16-floor-building-collapses-in-the-commercial.json)  [XML](/news/2013/03/29/dar-es-salaam-building-collapse-at-least-36-are-killed-and-around-25-more-are-trapped-when-a-16-floor-building-collapses-in-the-commercial.xml)  
+
 ### [2013-03-29](/news/2013/03/29/index.md)
 
+##### Dar es Salaam building collapse
 # Dar es Salaam building collapse: At least 36 are killed and around 25 more are trapped when a 16-floor building collapses in the commercial capital Dar es Salaam, Tanzania. 
 
 At least three people are killed and dozens more trapped after a multi-storey building collapses in the main Tanzanian city, Dar es Salaam, rescuers say.
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica.com](http://allafrica.com/stories/201304020028.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-21973907)

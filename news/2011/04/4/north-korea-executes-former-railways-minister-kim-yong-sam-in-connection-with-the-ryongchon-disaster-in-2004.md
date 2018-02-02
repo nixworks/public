@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/4/north-korea-executes-former-railways-minister-kim-yong-sam-in-connection-with-the-ryongchon-disaster-in-2004.html)  [JSON](/news/2011/04/4/north-korea-executes-former-railways-minister-kim-yong-sam-in-connection-with-the-ryongchon-disaster-in-2004.json)  [XML](/news/2011/04/4/north-korea-executes-former-railways-minister-kim-yong-sam-in-connection-with-the-ryongchon-disaster-in-2004.xml)  
+
 ### [2011-04-4](/news/2011/04/4/index.md)
 
+##### North Korea
 # North Korea executes former railways minister Kim Yong Sam in connection with the Ryongchon disaster in 2004. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_652811.html)
 
@@ -13,6 +17,6 @@
 
 1. [ Ryongchon disaster: Breaking from previous precedent, the North Korean government asks for and receives United Nations recovery assistance. ](/news/2004/04/23/ryongchon-disaster-breaking-from-previous-precedent-the-north-korean-government-asks-for-and-receives-united-nations-recovery-assistance.md) _Context: North Korea, Ryongchon disaster_
 2. [ Ryongchon disaster: at least 154 people are killed and over 1200 are injured, according to the Red Cross, in a massive explosion after a train carrying explosives came in contact with live electrical wires in Ryongchon, North Korea. 1850 homes were destroyed and thousands more damaged. ](/news/2004/04/22/ryongchon-disaster-at-least-154-people-are-killed-and-over-1200-are-injured-according-to-the-red-cross-in-a-massive-explosion-after-a-tr.md) _Context: North Korea, Ryongchon disaster_
-3. [Two women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. Kim Jong-nam was the eldest son of deceased North Korean leader Kim Jong-il and the half-brother of current North Korean leader Kim Jong-un. ](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-jong-nam-plead-not-guilty-in-a-malaysian-court-because-they-thought-it-was-a-tv-prank-kim-j.md) _Context: North Korea_
-4. [Thirty-thousand North Korean rocket propelled grenades are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (EGBP406 million-W20 billion). ](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.md) _Context: North Korea_
-5. [Russian president Vladimir Putin signs decree to implement UNSC sanctions on North Korea. ](/news/2017/10/16/russian-president-vladimir-putin-signs-decree-to-implement-unsc-sanctions-on-north-korea.md) _Context: North Korea_
+3. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: North Korea_
+4. [The Bulletin of the Atomic Scientists moves the Doomsday Clock thirty seconds forward, to two minutes before midnight, the closest setting since 1953. The journal cites the closer approach to the point of hypothetical global catastrophe to the failure of world leaders to deal with looming threats of nuclear war (particularly, tensions involving the North Korean nuclear program) and climate change. ](/news/2018/01/25/the-bulletin-of-the-atomic-scientists-moves-the-doomsday-clock-thirty-seconds-forward-to-two-minutes-before-midnight-the-closest-setting-s.md) _Context: North Korea_
+5. [ U.S. President Donald Trump responds to Kim Jong-un's claim of having North Korea's nuclear missile launch button on his desk, boasting that the size of the nuclear missile launch button on his own desk is larger and more powerful than Kim's. ](/news/2018/01/2/u-s-president-donald-trump-responds-to-kim-jong-un-s-claim-of-having-north-korea-s-nuclear-missile-launch-button-on-his-desk-boasting-tha.md) _Context: North Korea_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/28/conflict-in-iraq-in-an-apparent-coordinated-attack-insurgents-raid-a-police-station-in-dijla-and-execute-12-police-officers-three-iraqi.html)  [JSON](/news/2004/12/28/conflict-in-iraq-in-an-apparent-coordinated-attack-insurgents-raid-a-police-station-in-dijla-and-execute-12-police-officers-three-iraqi.json)  [XML](/news/2004/12/28/conflict-in-iraq-in-an-apparent-coordinated-attack-insurgents-raid-a-police-station-in-dijla-and-execute-12-police-officers-three-iraqi.xml)  
+
 ### [2004-12-28](/news/2004/12/28/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: In an apparent coordinated attack, insurgents raid a police station in Dijla and execute 12 police officers. Three Iraqi policemen are shot at a checkpoint outside of Tikrit. Four policemen and one national guardsman are gunned down at a police station in Ishaki. A local police commander is assassinated in Baquba. A car bomb detonated near a US-Iraqi military convoy in Samarra kills three national guardsmen and three civilians. All these attacks occurred in the Sunni Triangle. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4129361.stm)
 

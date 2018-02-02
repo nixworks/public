@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2003/02/9/the-indian-government-begins-it-largest-ever-vaccination-program-it-aims-to-inoculate-160-million-children-against-polio-within-six-days.html)  [JSON](/news/2003/02/9/the-indian-government-begins-it-largest-ever-vaccination-program-it-aims-to-inoculate-160-million-children-against-polio-within-six-days.json)  [XML](/news/2003/02/9/the-indian-government-begins-it-largest-ever-vaccination-program-it-aims-to-inoculate-160-million-children-against-polio-within-six-days.xml)  
+
 ### [2003-02-9](/news/2003/02/9/index.md)
 
+##### vaccination
 #  The Indian Government begins it largest ever vaccination program. It aims to inoculate 160 million children against polio within six days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/health/2741767.stm)
 

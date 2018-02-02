@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/9/the-campaign-period-for-the-election-begins-in-w
 
 ### [2016-02-9](/news/2016/02/9/index.md)
 
+##### Philippine presidential election, 2016
 # The campaign period for the election begins in what international media dubs as a "cliffhanger" between five candidates: Jejomar Binay, Miriam Defensor Santiago, Rodrigo R. Duterte, Grace Poe, and Mar Roxas. 
 
 As presidential candidates in the Philippines kick off their electoral campaigns, DW takes a look at the top contenders, and the issues likely to decide who will lead the Southeast Asian nation over the coming six years.

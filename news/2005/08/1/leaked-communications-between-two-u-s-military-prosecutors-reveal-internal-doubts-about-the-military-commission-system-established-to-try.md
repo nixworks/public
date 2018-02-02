@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/1/leaked-communications-between-two-u-s-military-prosecutors-reveal-internal-doubts-about-the-military-commission-system-established-to-try.html)  [JSON](/news/2005/08/1/leaked-communications-between-two-u-s-military-prosecutors-reveal-internal-doubts-about-the-military-commission-system-established-to-try.json)  [XML](/news/2005/08/1/leaked-communications-between-two-u-s-military-prosecutors-reveal-internal-doubts-about-the-military-commission-system-established-to-try.xml)  
+
 ### [2005-08-1](/news/2005/08/1/index.md)
 
+##### try
 #  Leaked communications between two U.S. military prosecutors reveal internal doubts about the military commission system established to try Guantanamo Bay detainees. In separate emails, the prosecutors allege that the commission system is rigged in favour of the prosecution and that the cases being pursued are "marginal". In Australia, the Australian Government came under renewed pressure to withdraw its support for the commissions, under which Australian citizen David Hicks would be tried. (Wikinews) 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/newsitems/200508/s1427396.htm)
 

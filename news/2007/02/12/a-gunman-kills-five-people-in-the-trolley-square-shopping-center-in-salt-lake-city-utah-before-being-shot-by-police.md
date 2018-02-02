@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/12/a-gunman-kills-five-people-in-the-trolley-square-shopping-center-in-salt-lake-city-utah-before-being-shot-by-police.html)  [JSON](/news/2007/02/12/a-gunman-kills-five-people-in-the-trolley-square-shopping-center-in-salt-lake-city-utah-before-being-shot-by-police.json)  [XML](/news/2007/02/12/a-gunman-kills-five-people-in-the-trolley-square-shopping-center-in-salt-lake-city-utah-before-being-shot-by-police.xml)  
+
 ### [2007-02-12](/news/2007/02/12/index.md)
 
+##### Trolley Square
 #  A gunman kills five people in the Trolley Square shopping center in Salt Lake City, Utah, before being shot by police. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6356071.stm)
 2. [CNN](http://www.cnn.com/2007/US/02/12/salt.lake.shooting/index.html)

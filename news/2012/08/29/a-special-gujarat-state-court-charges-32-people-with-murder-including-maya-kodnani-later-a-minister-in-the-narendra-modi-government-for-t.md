@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/08/29/a-special-gujarat-state-court-charges-32-people-with-murder-including-maya-kodnani-later-a-minister-in-the-narendra-modi-government-for-t.html)  [JSON](/news/2012/08/29/a-special-gujarat-state-court-charges-32-people-with-murder-including-maya-kodnani-later-a-minister-in-the-narendra-modi-government-for-t.json)  [XML](/news/2012/08/29/a-special-gujarat-state-court-charges-32-people-with-murder-including-maya-kodnani-later-a-minister-in-the-narendra-modi-government-for-t.xml)  
+
 ### [2012-08-29](/news/2012/08/29/index.md)
 
+##### Gujarat
 # A special Gujarat state court charges 32 people with murder, including Maya Kodnani, later a minister in the Narendra Modi government, for their parts in the riots that led to the killing of 95 people in the Patia neighborhood of Naroda, India. 
 
 Former BJP minister Maya Kodnani is among 32 people who have been convicted by a special court in the 2002 Naroda Patiya massacre case. Here are some reactions to the verdict.
 
 
-### Source:
+### Sources:
 
 1. [Firstpost](http://www.firstpost.com/politics/naroda-patiya-verdict-who-said-what-434862.html)
-2. [The Washington Post](http://www.washingtonpost.com/world/indian-court-convicts-former-government-minister-in-deadly-2002-riots/2012/08/29/3745a438-f1b3-11e1-b74c-84ed55e0300b_story.html)
+2. [The Washington Post](https://www.washingtonpost.com/world/indian-court-convicts-former-government-minister-in-deadly-2002-riots/2012/08/29/3745a438-f1b3-11e1-b74c-84ed55e0300b_story.html)
 2. [Cover Image](http://s2.firstpost.in/wp-content/uploads/2012/08/naroda.jpg)
 
 ### Related:

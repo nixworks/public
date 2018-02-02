@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/17/the-donostia-san-sebastian-international-peace-conference-is-held-in-the-city-of-donostia-san-sebastian-in-the-basque-country-aimed-at-prom.html)  [JSON](/news/2011/10/17/the-donostia-san-sebastian-international-peace-conference-is-held-in-the-city-of-donostia-san-sebastian-in-the-basque-country-aimed-at-prom.json)  [XML](/news/2011/10/17/the-donostia-san-sebastian-international-peace-conference-is-held-in-the-city-of-donostia-san-sebastian-in-the-basque-country-aimed-at-prom.xml)  
+
 ### [2011-10-17](/news/2011/10/17/index.md)
 
+##### Donostia-San Sebastin International Peace Conference
 # The Donostia-San Sebastin International Peace Conference is held in the city of Donostia-San Sebastin in the Basque Country, aimed at promoting a resolution to the ongoing Basque conflict. 
 
 International negotiators urge the militant Basque separatist group Eta to lay down its weapons, ending a 40-year campaign of violence.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-europe-15330766)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

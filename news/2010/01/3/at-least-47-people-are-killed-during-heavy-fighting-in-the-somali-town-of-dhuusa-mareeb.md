@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/3/at-least-47-people-are-killed-during-heavy-fighting-in-the-somali-town-of-dhuusa-mareeb.html)  [JSON](/news/2010/01/3/at-least-47-people-are-killed-during-heavy-fighting-in-the-somali-town-of-dhuusa-mareeb.json)  [XML](/news/2010/01/3/at-least-47-people-are-killed-during-heavy-fighting-in-the-somali-town-of-dhuusa-mareeb.xml)  
+
 ### [2010-01-3](/news/2010/01/3/index.md)
 
+##### Somali
 # At least 47 people are killed during heavy fighting in the Somali town of Dhuusa Mareeb. 
 
 Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much more
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8438645.stm)
 2. [Gulf Times](http://www.gulf-times.com/site/topics/article.asp?cu_no=2&item_no=335338&version=1&template_id=39&parent_id=21)

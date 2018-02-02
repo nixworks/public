@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/12/australian-60-minutes-reporter-tara-brown-and-h
 
 ### [2016-04-12](/news/2016/04/12/index.md)
 
+##### Australian ''60 Minutes''
 #  Australian "60 Minutes" reporter Tara Brown and her crew are reportedly facing kidnapping charges in Lebanon following a bungled child recovery attempt. 
 
 

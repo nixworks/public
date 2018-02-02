@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/20/voting-for-the-second-round-of-benin-s-election
 
 ### [2016-03-20](/news/2016/03/20/index.md)
 
+##### Beninese presidential election, 2016
 # Voting for the second round of Benin's election begins with current President Thomas Boni Yayi stepping down after completing two terms. 
 
 

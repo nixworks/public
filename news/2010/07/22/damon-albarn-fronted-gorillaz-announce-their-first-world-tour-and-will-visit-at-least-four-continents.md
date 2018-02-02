@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/22/damon-albarn-fronted-gorillaz-announce-their-first-world-tour-and-will-visit-at-least-four-continents.html)  [JSON](/news/2010/07/22/damon-albarn-fronted-gorillaz-announce-their-first-world-tour-and-will-visit-at-least-four-continents.json)  [XML](/news/2010/07/22/damon-albarn-fronted-gorillaz-announce-their-first-world-tour-and-will-visit-at-least-four-continents.xml)  
+
 ### [2010-07-22](/news/2010/07/22/index.md)
 
+##### Damon Albarn
 # Damon Albarn-fronted Gorillaz announce their first world tour and will visit at least four continents. 
 
 Hip-hop pop collective Gorillaz - who are fronted by Damon Albarn - announce their first world tour.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-10729062)
 2. [Brisbane Times](http://www.brisbanetimes.com.au/entertainment/stage/experience-the-gorillaz-live-20100722-10m37.html)

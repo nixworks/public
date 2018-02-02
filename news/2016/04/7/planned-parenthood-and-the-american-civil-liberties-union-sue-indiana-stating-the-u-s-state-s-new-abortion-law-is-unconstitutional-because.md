@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/7/planned-parenthood-and-the-american-civil-libert
 
 ### [2016-04-7](/news/2016/04/7/index.md)
 
+##### Planned Parenthood
 # Planned Parenthood and the American Civil Liberties Union sue Indiana stating the U.S. state's new abortion law is unconstitutional because it bans the procedure if sought because of genetic abnormalities. 
 
 The federal lawsuit also challenges a provision that mandates an aborted fetus be buried or cremated

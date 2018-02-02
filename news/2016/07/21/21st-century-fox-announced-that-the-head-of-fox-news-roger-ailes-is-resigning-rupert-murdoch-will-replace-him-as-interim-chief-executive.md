@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/21/21st-century-fox-announced-that-the-head-of-fox
 
 ### [2016-07-21](/news/2016/07/21/index.md)
 
+##### Fox News Channel controversies
 # 21st Century Fox announced that the head of Fox News, Roger Ailes, is resigning. Rupert Murdoch will replace him as interim Chief Executive and Chairman. 
 
 Fox News chief Roger Ailes is leaving the network following sexual harassment allegations, 21st Century Fox confirmed Thursday. 

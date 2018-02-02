@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/30/2007-south-korean-hostage-crisis-in-afghanistan-the-taliban-releases-the-remaining-south-korean-hostages.html)  [JSON](/news/2007/08/30/2007-south-korean-hostage-crisis-in-afghanistan-the-taliban-releases-the-remaining-south-korean-hostages.json)  [XML](/news/2007/08/30/2007-south-korean-hostage-crisis-in-afghanistan-the-taliban-releases-the-remaining-south-korean-hostages.xml)  
+
 ### [2007-08-30](/news/2007/08/30/index.md)
 
+##### 2007 South Korean hostage crisis in Afghanistan
 #  2007 South Korean hostage crisis in Afghanistan: The Taliban releases the remaining South Korean hostages. 
 
 The families of South Korean hostages released overnight in Afghanistan have apologised to the country for the trouble caused.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/08/31/2020633.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

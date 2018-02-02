@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/18/rio-tinto-group-and-bhp-billiton-announce-that-they-have-scrapped-a-proposed-120-billion-joint-venture-in-the-pilbara-region-of-western-aus.html)  [JSON](/news/2010/10/18/rio-tinto-group-and-bhp-billiton-announce-that-they-have-scrapped-a-proposed-120-billion-joint-venture-in-the-pilbara-region-of-western-aus.json)  [XML](/news/2010/10/18/rio-tinto-group-and-bhp-billiton-announce-that-they-have-scrapped-a-proposed-120-billion-joint-venture-in-the-pilbara-region-of-western-aus.xml)  
+
 ### [2010-10-18](/news/2010/10/18/index.md)
 
+##### Rio Tinto
 # Rio Tinto Group and BHP Billiton announce that they have scrapped a proposed $120 billion joint venture in the Pilbara region of Western Australia due to regulatory problems. 
 
 Rio Tinto and BHP Billiton announce they have scrapped plans for their $120b iron ore joint venture in Western Australia&#039;s Pilbara region.
 
 
-### Source:
+### Sources:
 
 1. [ABC Australia](http://www.abc.net.au/news/stories/2010/10/18/3040759.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/421854-1x1-700x700.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/11/the-bureau-of-alcohol-tobacco-firearms-and-expl
 
 ### [2016-05-11](/news/2016/05/11/index.md)
 
+##### West Fertilizer Company explosion
 # The Bureau of Alcohol, Tobacco, Firearms and Explosives finds that a 2013 fire at a fertilizer plant in the American town of West, Texas, that killed 15 people was arson and begins the search for suspects. 
 
 Officials launched a hunt Wednesday for possible criminal suspects in the 2013 explosion that killed 15 people at a fertilizer plant in West, Texas, after announcing the fire that triggered the blast was arson.

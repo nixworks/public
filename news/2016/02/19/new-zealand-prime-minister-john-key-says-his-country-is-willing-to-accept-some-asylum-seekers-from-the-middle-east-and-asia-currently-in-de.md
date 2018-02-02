@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/19/new-zealand-prime-minister-john-key-says-his-co
 
 ### [2016-02-19](/news/2016/02/19/index.md)
 
+##### Prime Minister
 # New Zealand Prime Minister John Key says his country is willing to accept some asylum seekers from the Middle East and Asia, currently in detention camps on impoverished Pacific island nations. Presently, 267 refugees in Australia for medical treatment, some accompanied by a relative, are set to be returned to Nauru's detention camp. Australia is hesitant about the offer, concerned that it could encourage people smugglers. 
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/18/three-astronauts-return-from-a-mission-to-the-i
 
 ### [2016-06-18](/news/2016/06/18/index.md)
 
+##### astronaut
 # Three astronauts return from a mission to the International Space Station, Briton Tim Peake of the European Space Agency, Timothy Kopra of NASA and Russian cosmonaut Yuri Malenchenko. 
 
 UK astronaut Tim Peake is safely back on Earth after a historic mission to the International Space Station.

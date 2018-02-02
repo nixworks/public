@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/25/south-african-opera-star-siphiwo-ntshebe-chosen-by-nelson-mandela-to-sing-hope-at-the-opening-ceremony-of-the-2010-fifa-world-cup-next-mo.html)  [JSON](/news/2010/05/25/south-african-opera-star-siphiwo-ntshebe-chosen-by-nelson-mandela-to-sing-hope-at-the-opening-ceremony-of-the-2010-fifa-world-cup-next-mo.json)  [XML](/news/2010/05/25/south-african-opera-star-siphiwo-ntshebe-chosen-by-nelson-mandela-to-sing-hope-at-the-opening-ceremony-of-the-2010-fifa-world-cup-next-mo.xml)  
+
 ### [2010-05-25](/news/2010/05/25/index.md)
 
+##### South Africa
 # South African opera star Siphiwo Ntshebe, chosen by Nelson Mandela to sing "Hope" at the opening ceremony of the 2010 FIFA World Cup next month, dies suddenly aged 34 after contracting meningitis. 
 
 A South African opera star chosen by Nelson Mandela to sing at the opening of the World Cup has died from meningitis, his record company says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment_and_arts/10162343.stm)
 2. [CBC](http://www.cbc.ca/arts/music/story/2010/05/26/worldcup-opera-singer.html)

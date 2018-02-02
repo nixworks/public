@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/9/an-attack-by-several-gunmen-and-a-truck-bomb-on-
 
 ### [2017-01-9](/news/2017/01/9/index.md)
 
+##### Sinai insurgency
 # An attack by several gunmen and a truck bomb on a police checkpoint in El-Arish leaves 13 dead and 15 wounded, including the attackers. 
 
 No immediate claim of responsibility for incident in El-Arish that has left at least seven security officers dead.

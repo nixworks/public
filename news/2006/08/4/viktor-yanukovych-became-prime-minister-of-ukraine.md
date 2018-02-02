@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/08/4/viktor-yanukovych-became-prime-minister-of-ukraine.html)  [JSON](/news/2006/08/4/viktor-yanukovych-became-prime-minister-of-ukraine.json)  [XML](/news/2006/08/4/viktor-yanukovych-became-prime-minister-of-ukraine.xml)  
+
 ### [2006-08-4](/news/2006/08/4/index.md)
 
+##### Viktor Yanukovych
 #  Viktor Yanukovych became Prime minister of Ukraine.
 
 

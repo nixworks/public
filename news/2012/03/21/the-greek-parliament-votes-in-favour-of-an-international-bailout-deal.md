@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/21/the-greek-parliament-votes-in-favour-of-an-international-bailout-deal.html)  [JSON](/news/2012/03/21/the-greek-parliament-votes-in-favour-of-an-international-bailout-deal.json)  [XML](/news/2012/03/21/the-greek-parliament-votes-in-favour-of-an-international-bailout-deal.xml)  
+
 ### [2012-03-21](/news/2012/03/21/index.md)
 
+##### Hellenic Parliament
 # The Greek parliament votes in favour of an international bailout deal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSN](http://www.msnbc.msn.com/id/46801858#.T2kLMPXyB8E)
 

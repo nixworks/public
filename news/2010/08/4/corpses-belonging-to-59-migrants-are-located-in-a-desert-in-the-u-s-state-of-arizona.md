@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/4/corpses-belonging-to-59-migrants-are-located-in-a-desert-in-the-u-s-state-of-arizona.html)  [JSON](/news/2010/08/4/corpses-belonging-to-59-migrants-are-located-in-a-desert-in-the-u-s-state-of-arizona.json)  [XML](/news/2010/08/4/corpses-belonging-to-59-migrants-are-located-in-a-desert-in-the-u-s-state-of-arizona.xml)  
+
 ### [2010-08-4](/news/2010/08/4/index.md)
 
+##### U.S. state
 # Corpses belonging to 59 migrants are located in a desert in the U.S. state of Arizona. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10861985)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

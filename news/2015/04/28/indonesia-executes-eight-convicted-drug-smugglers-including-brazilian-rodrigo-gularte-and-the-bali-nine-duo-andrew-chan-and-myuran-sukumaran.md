@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/28/indonesia-executes-eight-convicted-drug-smugglers-including-brazilian-rodrigo-gularte-and-the-bali-nine-duo-andrew-chan-and-myuran-sukumaran.html)  [JSON](/news/2015/04/28/indonesia-executes-eight-convicted-drug-smugglers-including-brazilian-rodrigo-gularte-and-the-bali-nine-duo-andrew-chan-and-myuran-sukumaran.json)  [XML](/news/2015/04/28/indonesia-executes-eight-convicted-drug-smugglers-including-brazilian-rodrigo-gularte-and-the-bali-nine-duo-andrew-chan-and-myuran-sukumaran.xml)  
+
 ### [2015-04-28](/news/2015/04/28/index.md)
 
+##### Rodrigo Gularte
 # Indonesia executes eight convicted drug smugglers including Brazilian Rodrigo Gularte and the Bali Nine duo Andrew Chan and Myuran Sukumaran. Filipina maid Mary Jane Veloso is given a last-minute reprieve. 
 
 Eight convicted drug smugglers are executed by firing squad in Indonesia, but a Filipina woman is spared at the last minute.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-32501712)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/82630000/jpg/_82630431_82630430.jpg)

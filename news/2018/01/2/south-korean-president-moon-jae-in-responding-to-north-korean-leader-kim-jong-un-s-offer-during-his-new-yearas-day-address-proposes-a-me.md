@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/2/south-korean-president-moon-jae-in-responding-to
 
 ### [2018-01-2](/news/2018/01/2/index.md)
 
+##### North Korea-South Korea relations
 # South Korean President Moon Jae-in, responding to North Korean leader Kim Jong-un's offer during his New Year's Day address, proposes a meeting to discuss the Winter Olympics and North Korea's nuclear program next Tuesday at the border city of Panmunjom. 
 
 South Korea’s president, Moon Jae-in, moved quickly to embrace Kim Jong-un’s proposal to start inter-Korean dialogue and send a team to the Olympics.

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/1/president-chen-shui-bian-says-that-the-hundreds-of-missiles-the-people-s-republic-of-china-has-aimed-at-taiwan-justifies-holding-a-referend.html)  [JSON](/news/2003/12/1/president-chen-shui-bian-says-that-the-hundreds-of-missiles-the-people-s-republic-of-china-has-aimed-at-taiwan-justifies-holding-a-referend.json)  [XML](/news/2003/12/1/president-chen-shui-bian-says-that-the-hundreds-of-missiles-the-people-s-republic-of-china-has-aimed-at-taiwan-justifies-holding-a-referend.xml)  
+
 ### [2003-12-1](/news/2003/12/1/index.md)
 
+##### President
 #  President Chen Shui-bian says that the hundreds of missiles the People's Republic of China has aimed at Taiwan justifies holding a referendum on independence. The referendum bill recently passed by the Legislative Yuan only allows votes on sovereignty if the country is attacked by a foreign power. [http:--news.bbc.co.uk-2-hi-asia-pacific-3252246.stm]
 
 

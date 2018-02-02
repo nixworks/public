@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/08/17/the-afghan-national-army-kills-28-taliban-insurgents-as-the-militants-attempt-an-ambush-of-a-convoy-in-zabul-province.html)  [JSON](/news/2008/08/17/the-afghan-national-army-kills-28-taliban-insurgents-as-the-militants-attempt-an-ambush-of-a-convoy-in-zabul-province.json)  [XML](/news/2008/08/17/the-afghan-national-army-kills-28-taliban-insurgents-as-the-militants-attempt-an-ambush-of-a-convoy-in-zabul-province.xml)  
+
 ### [2008-08-17](/news/2008/08/17/index.md)
 
+##### Afghan National Army
 #  The Afghan National Army kills 28 Taliban insurgents as the militants attempt an ambush of a convoy in Zabul province. 
 
 Afghan soldiers killed 28 Taliban in a clash on Sunday after the guerrillas ambushed a convoy carrying supplies for foreign troops in the southern province of Zabul, government officials said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSISL33004220080817)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSISL33004220080817)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/25/more-than-600-workers-at-a-chinese-owned-mine-in-zambia-strike-over-pay.html)  [JSON](/news/2011/03/25/more-than-600-workers-at-a-chinese-owned-mine-in-zambia-strike-over-pay.json)  [XML](/news/2011/03/25/more-than-600-workers-at-a-chinese-owned-mine-in-zambia-strike-over-pay.xml)  
+
 ### [2011-03-25](/news/2011/03/25/index.md)
 
+##### China
 # More than 600 workers at a Chinese-owned mine in Zambia strike over pay. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE72O0BO20110325)
 

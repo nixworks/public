@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/21/the-nelson-mandela-foundation-is-assuring-the-public-that-the-former-south-african-president-is-still-alive-after-comments-by-u-s-preside.html)  [JSON](/news/2007/09/21/the-nelson-mandela-foundation-is-assuring-the-public-that-the-former-south-african-president-is-still-alive-after-comments-by-u-s-preside.json)  [XML](/news/2007/09/21/the-nelson-mandela-foundation-is-assuring-the-public-that-the-former-south-african-president-is-still-alive-after-comments-by-u-s-preside.xml)  
+
 ### [2007-09-21](/news/2007/09/21/index.md)
 
+##### Nelson Mandela
 #  The Nelson Mandela Foundation is assuring the public that the former South African president is still alive, after comments by U.S. President George Bush that "...Mandela is dead." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Independent](http://www.int.iol.co.za/index.php?set_id=1&click_id=125&art_id=nw20070921123146650C466532)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/25/thousands-of-people-protest-in-minsk-belarus-de
 
 ### [2017-03-25](/news/2017/03/25/index.md)
 
+##### 2017 Belarusian protests
 # Thousands of people protest in Minsk, Belarus, despite a ban on protests, against a so-called "social parasites" tax on the unemployed. 
 
 Demonstrators opposed to a tax on the under-employed take to the streets despite a ban.

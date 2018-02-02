@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/9/india-plans-a-new-offensive-against-maoist-naxalite-rebels-active-in-parts-of-the-country.html)  [JSON](/news/2009/10/9/india-plans-a-new-offensive-against-maoist-naxalite-rebels-active-in-parts-of-the-country.json)  [XML](/news/2009/10/9/india-plans-a-new-offensive-against-maoist-naxalite-rebels-active-in-parts-of-the-country.xml)  
+
 ### [2009-10-9](/news/2009/10/9/index.md)
 
+##### India
 #  India plans a new offensive against Maoist Naxalite rebels active in parts of the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hNYvlFxq9KRZeTwOdobge6kRj3Jg)
 2. [Outlook India](http://news.outlookindia.com/item.aspx?667442)

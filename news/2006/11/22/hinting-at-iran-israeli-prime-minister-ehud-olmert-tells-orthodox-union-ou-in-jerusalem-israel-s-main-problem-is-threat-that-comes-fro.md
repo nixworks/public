@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/22/hinting-at-iran-israeli-prime-minister-ehud-olmert-tells-orthodox-union-ou-in-jerusalem-israel-s-main-problem-is-threat-that-comes-fro.html)  [JSON](/news/2006/11/22/hinting-at-iran-israeli-prime-minister-ehud-olmert-tells-orthodox-union-ou-in-jerusalem-israel-s-main-problem-is-threat-that-comes-fro.json)  [XML](/news/2006/11/22/hinting-at-iran-israeli-prime-minister-ehud-olmert-tells-orthodox-union-ou-in-jerusalem-israel-s-main-problem-is-threat-that-comes-fro.xml)  
+
 ### [2006-11-22](/news/2006/11/22/index.md)
 
+##### Iran
 #  Hinting at Iran, Israeli Prime Minister Ehud Olmert tells Orthodox Union (OU) in Jerusalem: "Israel's main problem is threat that comes from those who openly talk about wiping us off the map; we have heard these voices in the past; we can't afford to listen and not to react." 
 
 Hinting at Iran, Prime Minister Olmert tells Orthodox Union (OU) in Jerusalem: Israel&#39;s main problem is threat that comes from those who openly talk about wiping us off the map; we have heard these voices in the past; we can&#39;t afford to listen and not to react 
 
 
-### Source:
+### Sources:
 
 1. [Yedioth Ahronoth](http://www.ynetnews.com/articles/0,7340,L-3331605,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

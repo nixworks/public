@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/3/the-grozny-chechnya-office-of-the-committee-against-torture-ngo-is-attacked-by-masked-men-who-came-out-of-a-crowd-of-protesters-they-broke.html)  [JSON](/news/2015/06/3/the-grozny-chechnya-office-of-the-committee-against-torture-ngo-is-attacked-by-masked-men-who-came-out-of-a-crowd-of-protesters-they-broke.json)  [XML](/news/2015/06/3/the-grozny-chechnya-office-of-the-committee-against-torture-ngo-is-attacked-by-masked-men-who-came-out-of-a-crowd-of-protesters-they-broke.xml)  
+
 ### [2015-06-3](/news/2015/06/3/index.md)
 
+##### Ramzan Kadyrov
 #  The Grozny Chechnya office of the Committee Against Torture NGO is attacked by masked men who came out of a crowd of protesters. They broke down the door and trashed the office. National Leader Ramzan Kadyrov speculated the attack could have been carried out by relatives of Dzhambulat Dadayev upset that the NGO which investigates torture did not lead protests of the shooting of Dadayev by law enforcement officers from another region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Moscow Times](http://www.themoscowtimes.com/article/attack-on-ngo-in-grozny-renews-concerns-about-russian-control-over-chechnya/523015.html)
 

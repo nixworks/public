@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/29/a-court-in-ecuador-sentences-former-president-jamil-mahuad-to-12-years-in-jail-on-embezzlement-charges.html)  [JSON](/news/2014/05/29/a-court-in-ecuador-sentences-former-president-jamil-mahuad-to-12-years-in-jail-on-embezzlement-charges.json)  [XML](/news/2014/05/29/a-court-in-ecuador-sentences-former-president-jamil-mahuad-to-12-years-in-jail-on-embezzlement-charges.xml)  
+
 ### [2014-05-29](/news/2014/05/29/index.md)
 
+##### Jamil Mahuad
 # A court in Ecuador sentences former president Jamil Mahuad to 12 years in jail on embezzlement charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IANS via Biharprabha](http://news.biharprabha.com/2014/05/ex-ecuadorian-president-jamil-mahuad-jailed-for-12-years/)
 

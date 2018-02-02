@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/31/the-new-york-city-council-approved-a-measure-urging-state-lawmakers-to-vote-in-favor-of-mayor-michael-bloomberg-s-plan-to-charge-drivers-to.html)  [JSON](/news/2008/03/31/the-new-york-city-council-approved-a-measure-urging-state-lawmakers-to-vote-in-favor-of-mayor-michael-bloomberg-s-plan-to-charge-drivers-to.json)  [XML](/news/2008/03/31/the-new-york-city-council-approved-a-measure-urging-state-lawmakers-to-vote-in-favor-of-mayor-michael-bloomberg-s-plan-to-charge-drivers-to.xml)  
+
 ### [2008-03-31](/news/2008/03/31/index.md)
 
+##### City Council
 #  The New York City Council approved a measure urging state lawmakers to vote in favor of Mayor Michael Bloomberg's plan to charge drivers to enter Manhattan south of 60th Street. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The New York Times](http://cityroom.blogs.nytimes.com/2008/03/31/council-panel-approves-congestion-pricing-measure/index.html)
 

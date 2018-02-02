@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/26/in-singapore-the-hougang-by-election-conclude-with-almost-22-000-voters-casting-ballots-png-eng-huat-of-the-workers-party-emerged-as-the.html)  [JSON](/news/2012/05/26/in-singapore-the-hougang-by-election-conclude-with-almost-22-000-voters-casting-ballots-png-eng-huat-of-the-workers-party-emerged-as-the.json)  [XML](/news/2012/05/26/in-singapore-the-hougang-by-election-conclude-with-almost-22-000-voters-casting-ballots-png-eng-huat-of-the-workers-party-emerged-as-the.xml)  
+
 ### [2012-05-26](/news/2012/05/26/index.md)
 
+##### Singapore
 # In Singapore, the Hougang by-election conclude with almost 22,000 voters casting ballots. Png Eng Huat of the Workers' Party emerged as the winner with 62.08% of the valid votes cast. This was the first Singaporean by-election after over 19 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel NewsAsia](http://www.channelnewsasia.com/stories/singaporelocalnews/view/1214332/1/.html)
 

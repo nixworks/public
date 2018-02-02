@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/8/21-nations-including-the-presidents-of-afghanistan-russia-and-syria-attending-the-conference-on-interaction-and-confidence-building-measu.html)  [JSON](/news/2010/06/8/21-nations-including-the-presidents-of-afghanistan-russia-and-syria-attending-the-conference-on-interaction-and-confidence-building-measu.json)  [XML](/news/2010/06/8/21-nations-including-the-presidents-of-afghanistan-russia-and-syria-attending-the-conference-on-interaction-and-confidence-building-measu.xml)  
+
 ### [2010-06-8](/news/2010/06/8/index.md)
 
+##### Afghanistan
 # 21 nations, including the Presidents of Afghanistan, Russia and Syria, attending the Conference on Interaction and Confidence-Building Measures in Asia summit in Istanbul condemn Israel's deadly raid on the Gaza-bound aid flotilla, while Israel, the 22nd participant with a lower-level diplomat, disagrees. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/201068165042815907.html)
 2. [Voice of America](http://www1.voanews.com/english/news/middle-east/Regional-Summit-Leaders-Denounce-Israeli-Raid-on-Aid-Flotilla-95874019.html)

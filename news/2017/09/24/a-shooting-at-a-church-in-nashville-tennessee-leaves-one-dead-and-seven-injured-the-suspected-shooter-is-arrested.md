@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/24/a-shooting-at-a-church-in-nashville-tennessee-l
 
 ### [2017-09-24](/news/2017/09/24/index.md)
 
+##### Burnette Chapel shooting
 # A shooting at a church in Nashville, Tennessee, leaves one dead and seven injured. The suspected shooter is arrested. 
 
 Local police and federal authorities worked Monday to determine why a man went on a deadly shooting spree at a Nashville-area church, while a shocked community prepared for prayer vigils for the victims and their families in the shooting&#039;s aftermath. One person was killed and seven others injured Sunday as services were wrapping up at the Burnette Chapel Church of Christ in Antioch, near Nashville.

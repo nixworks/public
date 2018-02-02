@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/24/two-police-officers-are-killed-and-six-others-are-wounded-by-gunmen-during-unrest-in-jamaica-s-capital-kingston.html)  [JSON](/news/2010/05/24/two-police-officers-are-killed-and-six-others-are-wounded-by-gunmen-during-unrest-in-jamaica-s-capital-kingston.json)  [XML](/news/2010/05/24/two-police-officers-are-killed-and-six-others-are-wounded-by-gunmen-during-unrest-in-jamaica-s-capital-kingston.xml)  
+
 ### [2010-05-24](/news/2010/05/24/index.md)
 
+##### Jamaica
 # Two police officers are killed and six others are wounded by gunmen during unrest in Jamaica's capital, Kingston. 
 
 Fierce fighting erupts as Jamaican security forces hunting an alleged drugs lord storm his stronghold in the capital, Kingston.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10148973.stm)
 2. [Sky News](http://news.sky.com/skynews/Home/World-News/Kingston-Jamaica-State-Of-Emergency-Two-Police-Dead-Amid-Christopher-Dudus-Coke-Extradition-Plan/Article/201005415637150?lpos=World_News_First_Home_Article_Teaser_Region_3&lid=ARTICLE_15637150_Kingston_Jamaica_)

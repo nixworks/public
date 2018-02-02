@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/2/honduran-authorities-arrest-four-men-in-the-marc
 
 ### [2016-05-2](/news/2016/05/2/index.md)
 
+##### Honduran authorities
 # Honduran authorities arrest four men in the March 3 home invasion killing of Goldman Environmental Prize-winning environmental activist Berta Caceres. One of the suspects was an active duty army officer while the others worked for Desarrollos Energeticos SA, whose hydroelectric project Caceres had opposed since 2006. The four also face charges on the attempted murder of Mexican environmental activist Gustavo Castro Soto, who was injured in the attack. 
 
 TEGUCIGALPA, Honduras (AP) — Honduran authorities arrested four people Monday in the killing of environmental activist Berta Caceres, including an active duty army officer and at least one man who worked for a hydroelectric…
@@ -21,8 +22,8 @@ TEGUCIGALPA, Honduras (AP) — Honduran authorities arrested four people Monday 
 
 ### Related:
 
-1. [Popocatpetl volcano continues to erupt in Mexico. ](/news/2017/11/26/popocatepetl-volcano-continues-to-erupt-in-mexico.md) _Context: Mexico_
-2. [Mexico's Popocatepetl volcano sends a cloud of smoke, ash and steam around 5,900 feet (1798 meters) above the peak, the largest eruption since 2013. ](/news/2017/11/23/mexico-s-popocatepetl-volcano-sends-a-cloud-of-smoke-ash-and-steam-around-5-900-feet-1798-meters-above-the-peak-the-largest-eruption-sin.md) _Context: Mexico_
-3. [A Mexican military Bell 412 model helicopter crashes northeast of the town of El Salto in the mountainous state of Durango, seriously injuring one military member aboard and likely killing seven others. ](/news/2017/10/6/a-mexican-military-bell-412-model-helicopter-crashes-northeast-of-the-town-of-el-salto-in-the-mountainous-state-of-durango-seriously-injuri.md) _Context: Mexico_
-4. [A riot at Cadereyta Jimenez prison located outside the city of Monterrey, Nuevo Leon, Mexico, kills at least 13 people. ](/news/2017/10/10/a-riot-at-cadereyta-jima-c-nez-prison-located-outside-the-city-of-monterrey-nuevo-leon-mexico-kills-at-least-13-people.md) _Context: Mexico_
-5. [The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md) _Context: Mexico_
+1. [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-pea-a-nieto-and-foreign-secretary-luis-videgaray.md) _Context: Mexico_
+2. [Eleven people are killed in La Concepcion, Mexico, near the Pacific coast resort of Acapulco, following violent clashes involving gunmen, a community police force, and state police in the southern state of Guerrero. ](/news/2018/01/7/eleven-people-are-killed-in-la-concepcia3n-mexico-near-the-pacific-coast-resort-of-acapulco-following-violent-clashes-involving-gunmen-a.md) _Context: Mexico_
+3. [Ten people are killed and two are injured in a car crash near Acapulco, Mexico. ](/news/2017/12/30/ten-people-are-killed-and-two-are-injured-in-a-car-crash-near-acapulco-mexico.md) _Context: Mexico_
+4. [A tour bus crash in Mexico leaves at least 12 people dead and 18 injured. The cause of the crash is under investigation. ](/news/2017/12/19/a-tour-bus-crash-in-mexico-leaves-at-least-12-people-dead-and-18-injured-the-cause-of-the-crash-is-under-investigation.md) _Context: Mexico_
+5. [Popocatpetl volcano continues to erupt in Mexico. ](/news/2017/11/26/popocatepetl-volcano-continues-to-erupt-in-mexico.md) _Context: Mexico_

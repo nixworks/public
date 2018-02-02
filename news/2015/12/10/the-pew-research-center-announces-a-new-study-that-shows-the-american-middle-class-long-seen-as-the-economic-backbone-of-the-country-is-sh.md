@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/10/the-pew-research-center-announces-a-new-study-that-shows-the-american-middle-class-long-seen-as-the-economic-backbone-of-the-country-is-sh.html)  [JSON](/news/2015/12/10/the-pew-research-center-announces-a-new-study-that-shows-the-american-middle-class-long-seen-as-the-economic-backbone-of-the-country-is-sh.json)  [XML](/news/2015/12/10/the-pew-research-center-announces-a-new-study-that-shows-the-american-middle-class-long-seen-as-the-economic-backbone-of-the-country-is-sh.xml)  
+
 ### [2015-12-10](/news/2015/12/10/index.md)
 
+##### Pew Research Center
 # The Pew Research Center announces a new study that shows the American middle class, long seen as the economic backbone of the country, is shrinking and no longer constitutes a majority (49.89%). Also, the "nation's aggregate household income has substantially shifted from middle-income to upper-income households." 
 
 The number of Americans living in middle-income households fell from 61 percent in 1971 to 50 percent in 2015, Pew said.
 
 
-### Source:
+### Sources:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/USA/USA-Update/2015/1210/The-Middle-Class-is-shrinking-Does-it-matter)
 2. [Headlines & Global News](http://www.hngn.com/articles/159139/20151210/pew-middle-class-shrinking-longer-constitutes-majority.htm)

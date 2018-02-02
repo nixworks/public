@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/30/the-beijing-subway-expands-to-442-km-with-the-opening-of-line-6-making-it-the-longest-metro-network-in-the-world.html)  [JSON](/news/2012/12/30/the-beijing-subway-expands-to-442-km-with-the-opening-of-line-6-making-it-the-longest-metro-network-in-the-world.json)  [XML](/news/2012/12/30/the-beijing-subway-expands-to-442-km-with-the-opening-of-line-6-making-it-the-longest-metro-network-in-the-world.xml)  
+
 ### [2012-12-30](/news/2012/12/30/index.md)
 
+##### Beijing Subway
 # The Beijing Subway expands to 442 km with the opening of Line 6, making it the longest metro network in the world. 
 
 CHINA: Five further sections of the Beijing metro, with a combined length of 69·8&nbsp;km, were put into revenue service on December 30. Adding...
 
 
-### Source:
+### Sources:
 
 1. [Businessweek](http://www.businessweek.com/news/2012-12-30/beijing-opens-subways-to-ease-congestion-amid-urbanization-drive)
 2. [Railway Gazette](http://www.railwaygazette.com/news/single-view/view/beijing-adds-a-further-70-km-of-metro/archiv/2012/dezember.html)

@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2009/10/18/scotland-yard-investigates-a-complaint-about-an-article-by-jan-moir-in-the-uk-s-daily-mail-tabloid-concerning-her-views-on-the-death-of-b.html)  [JSON](/news/2009/10/18/scotland-yard-investigates-a-complaint-about-an-article-by-jan-moir-in-the-uk-s-daily-mail-tabloid-concerning-her-views-on-the-death-of-b.json)  [XML](/news/2009/10/18/scotland-yard-investigates-a-complaint-about-an-article-by-jan-moir-in-the-uk-s-daily-mail-tabloid-concerning-her-views-on-the-death-of-b.xml)  
+
 ### [2009-10-18](/news/2009/10/18/index.md)
 
+##### Scotland Yard
 #  Scotland Yard investigates a complaint about an article by Jan Moir in the UK's "Daily Mail" tabloid concerning her views on the death of Boyzone singer Stephen Gately. 
 
 Scotland Yard has said that it has received a complaint about an article written by a newspaper columnist about the death of Stephen Gately.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1018/gatelys.html)
 1. [Cover Image](https://img.rasset.ie/0002ae9a-1600.jpg)
+
+### Changes:
+
+1. [ Scotland Yard investigates a complaint about an article by Jan Moir in the UK's ''Daily Mail'' tabloid concerning her views on the death of Boyzone singer Stephen Gately. ](/news/2009/10/18/scotland-yard-investigates-a-complaint-about-an-article-by-jan-moir-in-the-uk-s-daily-mail-tabloid-concerning-her-views-on-the-death-of.md) _2017-08-25 03:26:05 (First version)_
+1. [ Scotland Yard investigates a complaint about an article by Jan Moir in the UK's "Daily Mail" tabloid concerning her views on the death of Boyzone singer Stephen Gately. ](/news/2009/10/18/scotland-yard-investigates-a-complaint-about-an-article-by-jan-moir-in-the-uk-s-daily-mail-tabloid-concerning-her-views-on-the-death-of-b.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Scotland Yard has said that it has received a complaint about an article written
 3. [ The surviving members of Boyzone fly to Majorca to escort the body of Stephen Gately home to Dublin. ](/news/2009/10/16/the-surviving-members-of-boyzone-fly-to-majorca-to-escort-the-body-of-stephen-gately-home-to-dublin.md) _Context: Boyzone, Stephen Gately_
 4. [ An autopsy on the body of Boyzone singer Stephen Gately finds he died of natural causes. ](/news/2009/10/13/an-autopsy-on-the-body-of-boyzone-singer-stephen-gately-finds-he-died-of-natural-causes.md) _Context: Boyzone, Stephen Gately_
 5. [An explosion on a train at the Parsons Green tube station in London injures 29. Scotland Yard is treating the incident as a terrorist attack. ](/news/2017/09/15/an-explosion-on-a-train-at-the-parsons-green-tube-station-in-london-injures-29-scotland-yard-is-treating-the-incident-as-a-terrorist-attack.md) _Context: Scotland Yard_
-
-### Changes:
-
-1. [ Scotland Yard investigates a complaint about an article by Jan Moir in the UK's ''Daily Mail'' tabloid concerning her views on the death of Boyzone singer Stephen Gately. ](/news/2009/10/18/scotland-yard-investigates-a-complaint-about-an-article-by-jan-moir-in-the-uk-s-daily-mail-tabloid-concerning-her-views-on-the-death-of.md) _2017-08-25 03:26:05 (First version)_
-1. [ Scotland Yard investigates a complaint about an article by Jan Moir in the UK's "Daily Mail" tabloid concerning her views on the death of Boyzone singer Stephen Gately. ](/news/2009/10/18/scotland-yard-investigates-a-complaint-about-an-article-by-jan-moir-in-the-uk-s-daily-mail-tabloid-concerning-her-views-on-the-death-of-b.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/1/the-people-s-republic-of-china-begins-its-first-census-in-ten-years.html)  [JSON](/news/2010/11/1/the-people-s-republic-of-china-begins-its-first-census-in-ten-years.json)  [XML](/news/2010/11/1/the-people-s-republic-of-china-begins-its-first-census-in-ten-years.xml)  
+
 ### [2010-11-1](/news/2010/11/1/index.md)
 
+##### China
 # The People's Republic of China begins its first census in ten years. 
 
 China begins its first national census in 10 years as it tries to document its 1.3 billion-strong population.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11663349)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-11/01/content_11481906.htm)

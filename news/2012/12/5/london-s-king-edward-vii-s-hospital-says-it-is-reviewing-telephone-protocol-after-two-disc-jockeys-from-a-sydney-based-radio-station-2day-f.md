@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/5/london-s-king-edward-vii-s-hospital-says-it-is-reviewing-telephone-protocol-after-two-disc-jockeys-from-a-sydney-based-radio-station-2day-f.html)  [JSON](/news/2012/12/5/london-s-king-edward-vii-s-hospital-says-it-is-reviewing-telephone-protocol-after-two-disc-jockeys-from-a-sydney-based-radio-station-2day-f.json)  [XML](/news/2012/12/5/london-s-king-edward-vii-s-hospital-says-it-is-reviewing-telephone-protocol-after-two-disc-jockeys-from-a-sydney-based-radio-station-2day-f.xml)  
+
 ### [2012-12-5](/news/2012/12/5/index.md)
 
+##### London
 # London's King Edward VII's Hospital says it is reviewing telephone protocol after two disc jockeys from a Sydney-based radio station, 2Day FM made a prank call to the hospital in which they posed as Queen Elizabeth and Prince Charles, and spoke with a member of nursing staff about the health of the Duchess of Cambridge. 
 
 The hospital treating the pregnant Duchess of Cambridge says it &quot;deeply regrets&quot; giving information about her to hoax callers from a radio station.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20610197)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64590000/jpg/_64590412_duchess_afp.jpg)

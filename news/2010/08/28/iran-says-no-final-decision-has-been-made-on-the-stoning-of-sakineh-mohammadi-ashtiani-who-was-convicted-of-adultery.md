@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/28/iran-says-no-final-decision-has-been-made-on-the-stoning-of-sakineh-mohammadi-ashtiani-who-was-convicted-of-adultery.html)  [JSON](/news/2010/08/28/iran-says-no-final-decision-has-been-made-on-the-stoning-of-sakineh-mohammadi-ashtiani-who-was-convicted-of-adultery.json)  [XML](/news/2010/08/28/iran-says-no-final-decision-has-been-made-on-the-stoning-of-sakineh-mohammadi-ashtiani-who-was-convicted-of-adultery.xml)  
+
 ### [2010-08-28](/news/2010/08/28/index.md)
 
+##### Iran
 # Iran says no final decision has been made on the stoning of Sakineh Mohammadi Ashtiani, who was convicted of adultery. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iWi6r0YnDS0-Sd3hyIwyL-yy5wrw)
 2. [Iranian Students' News Agency](http://www.isna.ir/ISNA/NewsView.aspx?ID=News-1602361&Lang=E)

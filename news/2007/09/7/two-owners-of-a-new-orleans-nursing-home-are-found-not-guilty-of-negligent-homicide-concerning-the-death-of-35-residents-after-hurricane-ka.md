@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/09/7/two-owners-of-a-new-orleans-nursing-home-are-found-not-guilty-of-negligent-homicide-concerning-the-death-of-35-residents-after-hurricane-ka.html)  [JSON](/news/2007/09/7/two-owners-of-a-new-orleans-nursing-home-are-found-not-guilty-of-negligent-homicide-concerning-the-death-of-35-residents-after-hurricane-ka.json)  [XML](/news/2007/09/7/two-owners-of-a-new-orleans-nursing-home-are-found-not-guilty-of-negligent-homicide-concerning-the-death-of-35-residents-after-hurricane-ka.xml)  
+
 ### [2007-09-7](/news/2007/09/7/index.md)
 
+##### New Orleans
 #  Two owners of a New Orleans nursing home are found not guilty of negligent homicide concerning the death of 35 residents after Hurricane Katrina. 
 
 The trial over the drowning of 35 residents was the only prosecution to result from deaths in Hurricane Katrina.
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/2007/09/08/us/nationalspecial/08nursing.html?ex=1346904000&en=22813c6e10158017&ei=5088&partner=rssnyt&emc=rss)
+1. [NYT](https://www.nytimes.com/2007/09/08/us/nationalspecial/08nursing.html?ex=1346904000&en=22813c6e10158017&ei=5088&partner=rssnyt&emc=rss)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

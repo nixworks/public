@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/8/parliamentary-elections-in-azerbaijan-were-held-in-accordance-with-international-standards.html)  [JSON](/news/2010/11/8/parliamentary-elections-in-azerbaijan-were-held-in-accordance-with-international-standards.json)  [XML](/news/2010/11/8/parliamentary-elections-in-azerbaijan-were-held-in-accordance-with-international-standards.xml)  
+
 ### [2010-11-8](/news/2010/11/8/index.md)
 
+##### Parliamentary elections
 # Parliamentary elections in Azerbaijan were held in accordance with international standards. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Beta Rian](http://en.beta.rian.ru/exsoviet/20101108/161251060.html)
 

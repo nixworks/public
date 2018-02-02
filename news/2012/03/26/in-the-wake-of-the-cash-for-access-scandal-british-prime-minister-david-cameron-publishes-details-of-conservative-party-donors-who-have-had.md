@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/26/in-the-wake-of-the-cash-for-access-scandal-british-prime-minister-david-cameron-publishes-details-of-conservative-party-donors-who-have-had.html)  [JSON](/news/2012/03/26/in-the-wake-of-the-cash-for-access-scandal-british-prime-minister-david-cameron-publishes-details-of-conservative-party-donors-who-have-had.json)  [XML](/news/2012/03/26/in-the-wake-of-the-cash-for-access-scandal-british-prime-minister-david-cameron-publishes-details-of-conservative-party-donors-who-have-had.xml)  
+
 ### [2012-03-26](/news/2012/03/26/index.md)
 
+##### Cash for Access
 # In the wake of the Cash for Access scandal British Prime Minister, David Cameron publishes details of Conservative Party donors who have had dinner with him at 10 Downing Street. 
 
 David Cameron publishes details of all donors he has had dinner with in his Downing Street flat amid a row over donations and access to ministers.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-17508271)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59304000/jpg/_59304249_cameronfour.jpg)

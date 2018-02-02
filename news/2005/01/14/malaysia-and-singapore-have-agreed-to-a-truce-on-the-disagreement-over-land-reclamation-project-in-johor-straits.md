@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/14/malaysia-and-singapore-have-agreed-to-a-truce-on-the-disagreement-over-land-reclamation-project-in-johor-straits.html)  [JSON](/news/2005/01/14/malaysia-and-singapore-have-agreed-to-a-truce-on-the-disagreement-over-land-reclamation-project-in-johor-straits.json)  [XML](/news/2005/01/14/malaysia-and-singapore-have-agreed-to-a-truce-on-the-disagreement-over-land-reclamation-project-in-johor-straits.xml)  
+
 ### [2005-01-14](/news/2005/01/14/index.md)
 
+##### Malaysia
 #  Malaysia and Singapore have agreed to a truce on the disagreement over land reclamation project in Johor Straits 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNA](http://www.channelnewsasia.com/stories/singaporelocalnews/view/127247/1/.html)
 2. [Malaysian Star](http://thestar.com.my/news/story.asp?file=/2005/1/14/nation/9900068&sec=nation)

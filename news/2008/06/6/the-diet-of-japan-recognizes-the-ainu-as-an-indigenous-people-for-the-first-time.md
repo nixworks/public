@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/6/the-diet-of-japan-recognizes-the-ainu-as-an-indigenous-people-for-the-first-time.html)  [JSON](/news/2008/06/6/the-diet-of-japan-recognizes-the-ainu-as-an-indigenous-people-for-the-first-time.json)  [XML](/news/2008/06/6/the-diet-of-japan-recognizes-the-ainu-as-an-indigenous-people-for-the-first-time.xml)  
+
 ### [2008-06-6](/news/2008/06/6/index.md)
 
+##### Diet
 #  The Diet of Japan recognizes the Ainu as an indigenous people for the first time. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7437244.stm)
 2. [Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/20080607TDY01302.htm)

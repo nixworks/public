@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/15/iran-will-reallow-the-entry-of-un-nuclear-inspectors-after-march-27-says-international-atomic-energy-agency-chief-mohamed-elbaradei.html)  [JSON](/news/2004/03/15/iran-will-reallow-the-entry-of-un-nuclear-inspectors-after-march-27-says-international-atomic-energy-agency-chief-mohamed-elbaradei.json)  [XML](/news/2004/03/15/iran-will-reallow-the-entry-of-un-nuclear-inspectors-after-march-27-says-international-atomic-energy-agency-chief-mohamed-elbaradei.xml)  
+
 ### [2004-03-15](/news/2004/03/15/index.md)
 
+##### Iran
 #  Iran will reallow the entry of UN nuclear inspectors after March 27, says International Atomic Energy Agency chief Mohamed ElBaradei. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://story.news.yahoo.com/news?tmpl=story&u=/afp/20040315/wl_afp/iran_nuclear_iaea_us_040315234028)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3511900.stm)

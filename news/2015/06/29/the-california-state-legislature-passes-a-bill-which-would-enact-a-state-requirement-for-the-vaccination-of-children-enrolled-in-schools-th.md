@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/29/the-california-state-legislature-passes-a-bill-which-would-enact-a-state-requirement-for-the-vaccination-of-children-enrolled-in-schools-th.html)  [JSON](/news/2015/06/29/the-california-state-legislature-passes-a-bill-which-would-enact-a-state-requirement-for-the-vaccination-of-children-enrolled-in-schools-th.json)  [XML](/news/2015/06/29/the-california-state-legislature-passes-a-bill-which-would-enact-a-state-requirement-for-the-vaccination-of-children-enrolled-in-schools-th.xml)  
+
 ### [2015-06-29](/news/2015/06/29/index.md)
 
+##### California State Legislature
 # The California State Legislature passes a bill which would enact a state requirement for the vaccination of children enrolled in schools. The bill is now pending Governor Jerry Brown's approval before going into law. 
 
 Gov. Jerry Brown must now decide whether to sign into law a bill that would require mandatory vaccinations for nearly all California schoolchildren.
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/local/political/la-me-ln-california-legislature-expected-to-pass-tough-vaccination-law-20150628-story.html)
 1. [Cover Image](http://www.trbimg.com/img-5591a294/turbine/la-me-ln-california-legislature-expected-to-pass-tough-vaccination-law-20150628)

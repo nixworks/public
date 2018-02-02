@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/18/a-clash-with-hindu-villagers-in-sarayian-village-in-india-s-bihar-state-leaves-at-least-three-muslim-villagers-burned-to-death.html)  [JSON](/news/2015/01/18/a-clash-with-hindu-villagers-in-sarayian-village-in-india-s-bihar-state-leaves-at-least-three-muslim-villagers-burned-to-death.json)  [XML](/news/2015/01/18/a-clash-with-hindu-villagers-in-sarayian-village-in-india-s-bihar-state-leaves-at-least-three-muslim-villagers-burned-to-death.xml)  
+
 ### [2015-01-18](/news/2015/01/18/index.md)
 
+##### Hindu
 # A clash with Hindu villagers in Sarayian village in India's Bihar state leaves at least three Muslim villagers burned to death. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/9bcf568c99a44670beb06d4bac3b7c0a/3-burned-death-hindu-muslim-clash-india)
 

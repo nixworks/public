@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/09/18/after-three-days-of-negotiations-in-sattahip-thailand-the-tamil-tigers-agreed-to-drop-their-demand-for-independence-from-sri-lanka-and-a.html)  [JSON](/news/2002/09/18/after-three-days-of-negotiations-in-sattahip-thailand-the-tamil-tigers-agreed-to-drop-their-demand-for-independence-from-sri-lanka-and-a.json)  [XML](/news/2002/09/18/after-three-days-of-negotiations-in-sattahip-thailand-the-tamil-tigers-agreed-to-drop-their-demand-for-independence-from-sri-lanka-and-a.xml)  
+
 ### [2002-09-18](/news/2002/09/18/index.md)
 
+##### Sattahip
 #  After three days of negotiations in Sattahip, Thailand, the Tamil Tigers agreed to drop their demand for independence from Sri Lanka, and accepted autonomy in the north and northwest of the country.
 
 

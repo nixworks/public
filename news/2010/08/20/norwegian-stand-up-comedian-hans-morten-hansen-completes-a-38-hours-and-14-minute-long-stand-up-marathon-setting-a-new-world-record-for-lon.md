@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/20/norwegian-stand-up-comedian-hans-morten-hansen-completes-a-38-hours-and-14-minute-long-stand-up-marathon-setting-a-new-world-record-for-lon.html)  [JSON](/news/2010/08/20/norwegian-stand-up-comedian-hans-morten-hansen-completes-a-38-hours-and-14-minute-long-stand-up-marathon-setting-a-new-world-record-for-lon.json)  [XML](/news/2010/08/20/norwegian-stand-up-comedian-hans-morten-hansen-completes-a-38-hours-and-14-minute-long-stand-up-marathon-setting-a-new-world-record-for-lon.xml)  
+
 ### [2010-08-20](/news/2010/08/20/index.md)
 
+##### Norwegian
 # Norwegian stand-up comedian Hans Morten Hansen completes a 38 hours and 14 minute long stand-up marathon, setting a new world record for longest stand-up performance. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VG](http://www.vg.no/rampelys/artikkel.php?artid=10044458)
 1. [Cover Image](https://1.vgc.no/drpublish/images/article/2010/08/20/20979572/1/765x469/Her_tar_Hans_Morten_verdensrekorden_i_maraton_standup.jpg)

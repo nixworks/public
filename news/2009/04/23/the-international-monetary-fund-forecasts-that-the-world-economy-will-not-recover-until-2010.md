@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/23/the-international-monetary-fund-forecasts-that-the-world-economy-will-not-recover-until-2010.html)  [JSON](/news/2009/04/23/the-international-monetary-fund-forecasts-that-the-world-economy-will-not-recover-until-2010.json)  [XML](/news/2009/04/23/the-international-monetary-fund-forecasts-that-the-world-economy-will-not-recover-until-2010.xml)  
+
 ### [2009-04-23](/news/2009/04/23/index.md)
 
+##### International Monetary Fund
 #  The International Monetary Fund forecasts that the world economy will not recover until 2010. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/BUSINESS/04/22/imf.forecast/index.html)
 

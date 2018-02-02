@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/11/according-to-pentagon-investigations-halliburton-overcharged-the-us-army-for-fuel-in-iraq-dick-cheney-was-chairman-of-halliburton-prior-t.html)  [JSON](/news/2003/12/11/according-to-pentagon-investigations-halliburton-overcharged-the-us-army-for-fuel-in-iraq-dick-cheney-was-chairman-of-halliburton-prior-t.json)  [XML](/news/2003/12/11/according-to-pentagon-investigations-halliburton-overcharged-the-us-army-for-fuel-in-iraq-dick-cheney-was-chairman-of-halliburton-prior-t.xml)  
+
 ### [2003-12-11](/news/2003/12/11/index.md)
 
+##### United States military
 #  According to Pentagon investigations, Halliburton overcharged the US Army for fuel in Iraq. Dick Cheney was chairman of Halliburton prior to becoming Vice President of the United States. 
 
 

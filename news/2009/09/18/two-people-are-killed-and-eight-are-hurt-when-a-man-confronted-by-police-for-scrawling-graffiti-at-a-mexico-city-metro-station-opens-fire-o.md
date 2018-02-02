@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/18/two-people-are-killed-and-eight-are-hurt-when-a-man-confronted-by-police-for-scrawling-graffiti-at-a-mexico-city-metro-station-opens-fire-o.html)  [JSON](/news/2009/09/18/two-people-are-killed-and-eight-are-hurt-when-a-man-confronted-by-police-for-scrawling-graffiti-at-a-mexico-city-metro-station-opens-fire-o.json)  [XML](/news/2009/09/18/two-people-are-killed-and-eight-are-hurt-when-a-man-confronted-by-police-for-scrawling-graffiti-at-a-mexico-city-metro-station-opens-fire-o.xml)  
+
 ### [2009-09-18](/news/2009/09/18/index.md)
 
+##### Mexico City
 #  Two people are killed and eight are hurt when a man confronted by police for scrawling graffiti at a Mexico City Metro station opens fire on passers-by. 
 
 A gunman opened fire inside a Mexico City subway car during rush hour on Friday, killing at least two people before he was subdued by police.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8264340.stm)
 2. [CNN](http://us.cnn.com/2009/WORLD/americas/09/19/mexico.subway.shooting/index.html)

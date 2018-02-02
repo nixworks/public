@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/30/a-19-year-old-uyghur-woman-pezilet-ekber-is-sentenced-to-death-following-a-secret-trial-the-second-uyghur-woman-to-receive-the-death-pena.html)  [JSON](/news/2010/12/30/a-19-year-old-uyghur-woman-pezilet-ekber-is-sentenced-to-death-following-a-secret-trial-the-second-uyghur-woman-to-receive-the-death-pena.json)  [XML](/news/2010/12/30/a-19-year-old-uyghur-woman-pezilet-ekber-is-sentenced-to-death-following-a-secret-trial-the-second-uyghur-woman-to-receive-the-death-pena.xml)  
+
 ### [2010-12-30](/news/2010/12/30/index.md)
 
+##### Uyghur
 # A 19-year-old Uyghur woman, Pezilet Ekber, is sentenced to death following a secret trial, the second Uyghur woman to receive the death penalty on charges of participating in ethnic riots last year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RFA](http://www.rfa.org/english/news/uyghur/death-12302010153000.html)
 

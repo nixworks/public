@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/7/a-blanket-of-thick-grey-smog-covers-the-indian-c
 
 ### [2017-11-7](/news/2017/11/7/index.md)
 
+##### Air quality in Delhi
 # A blanket of thick grey smog covers the Indian capital, Delhi, with some areas 30 times more polluted than the World Health Organization's recommended limit, one year after a similar smog. 
 
 

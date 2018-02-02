@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/8/a-student-shoots-two-students-and-kills-herself-at-louisiana-technical-college-in-baton-rouge-louisiana.html)  [JSON](/news/2008/02/8/a-student-shoots-two-students-and-kills-herself-at-louisiana-technical-college-in-baton-rouge-louisiana.json)  [XML](/news/2008/02/8/a-student-shoots-two-students-and-kills-herself-at-louisiana-technical-college-in-baton-rouge-louisiana.xml)  
+
 ### [2008-02-8](/news/2008/02/8/index.md)
 
+##### Louisiana Technical College
 #  A student shoots two students and kills herself at Louisiana Technical College in Baton Rouge, Louisiana. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2008/CRIME/02/08/la.tech.shooting/index.html)
 

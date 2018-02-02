@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/15/danish-protesters-clash-with-police-in-copenhagen-with-the-little-mermaid-being-doused-with-red-paint-the-clashes-followed-the-demolition.html)  [JSON](/news/2007/05/15/danish-protesters-clash-with-police-in-copenhagen-with-the-little-mermaid-being-doused-with-red-paint-the-clashes-followed-the-demolition.json)  [XML](/news/2007/05/15/danish-protesters-clash-with-police-in-copenhagen-with-the-little-mermaid-being-doused-with-red-paint-the-clashes-followed-the-demolition.xml)  
+
 ### [2007-05-15](/news/2007/05/15/index.md)
 
+##### Denmark
 #  Danish protesters clash with police in Copenhagen with the Little Mermaid being doused with red paint. The clashes followed the demolition of a building in the Freetown Christiania district. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/europe/05/15/denmark.clashes.ap/index.html?eref=rss_world)
 

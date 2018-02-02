@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/8/riots-break-out-in-singapore-after-a-fatal-accident-in-little-india-this-is-the-second-riot-in-post-independence-singapore-and-the-first-i.html)  [JSON](/news/2013/12/8/riots-break-out-in-singapore-after-a-fatal-accident-in-little-india-this-is-the-second-riot-in-post-independence-singapore-and-the-first-i.json)  [XML](/news/2013/12/8/riots-break-out-in-singapore-after-a-fatal-accident-in-little-india-this-is-the-second-riot-in-post-independence-singapore-and-the-first-i.xml)  
+
 ### [2013-12-8](/news/2013/12/8/index.md)
 
+##### Riots break out
 # Riots break out in Singapore after a fatal accident in Little India. This is the second riot in post-independence Singapore, and the first in over forty years. 
 
 Police in Singapore arrest 27 South Asian suspects after hundreds of foreign workers take part in a riot sparked by the death of an Indian man.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-25294918)
 2. [Channel NewsAsia](http://www.channelnewsasia.com/news/singapore/riot-in-singapore-s/914834.html)

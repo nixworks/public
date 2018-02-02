@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/16/a-six-year-old-boy-is-killed-and-two-other-children-are-wounded-after-a-militant-throws-a-hand-grenade-into-a-co-educational-school-near-pes.html)  [JSON](/news/2012/04/16/a-six-year-old-boy-is-killed-and-two-other-children-are-wounded-after-a-militant-throws-a-hand-grenade-into-a-co-educational-school-near-pes.json)  [XML](/news/2012/04/16/a-six-year-old-boy-is-killed-and-two-other-children-are-wounded-after-a-militant-throws-a-hand-grenade-into-a-co-educational-school-near-pes.xml)  
+
 ### [2012-04-16](/news/2012/04/16/index.md)
 
+##### co-educational school
 # A six-year-old boy is killed and two other children are wounded after a militant throws a hand grenade into a co-educational school near Peshawar, northwest Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/04/16/world/asia/pakistan-attack/index.html?hpt=ias_c2)
 

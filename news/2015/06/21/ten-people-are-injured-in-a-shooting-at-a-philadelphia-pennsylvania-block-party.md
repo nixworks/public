@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/21/ten-people-are-injured-in-a-shooting-at-a-philadelphia-pennsylvania-block-party.html)  [JSON](/news/2015/06/21/ten-people-are-injured-in-a-shooting-at-a-philadelphia-pennsylvania-block-party.json)  [XML](/news/2015/06/21/ten-people-are-injured-in-a-shooting-at-a-philadelphia-pennsylvania-block-party.xml)  
+
 ### [2015-06-21](/news/2015/06/21/index.md)
 
+##### Philadelphia
 # Ten people are injured in a shooting at a Philadelphia, Pennsylvania block party. 
 
 Two children and five adults have been injured in a shooting at a block party in Philadelphia, when a suspect randomly opened fire on a crowd, according to officials and local media.
 
 
-### Source:
+### Sources:
 
 1. [AFP via News24](http://www.news24.com/news24/World/News/Baby-among-7-wounded-in-Philadelphia-party-shooting-20150621)
 2. [NBC Philadelphia](http://www.nbcphiladelphia.com/news/breaking/Ogden-STreet-Shooting-308747231.html)

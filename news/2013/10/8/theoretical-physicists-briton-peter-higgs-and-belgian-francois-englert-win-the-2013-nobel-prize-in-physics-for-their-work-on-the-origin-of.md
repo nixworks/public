@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/10/8/theoretical-physicists-briton-peter-higgs-and-belgian-francois-englert-win-the-2013-nobel-prize-in-physics-for-their-work-on-the-origin-of.html)  [JSON](/news/2013/10/8/theoretical-physicists-briton-peter-higgs-and-belgian-francois-englert-win-the-2013-nobel-prize-in-physics-for-their-work-on-the-origin-of.json)  [XML](/news/2013/10/8/theoretical-physicists-briton-peter-higgs-and-belgian-francois-englert-win-the-2013-nobel-prize-in-physics-for-their-work-on-the-origin-of.xml)  
+
 ### [2013-10-8](/news/2013/10/8/index.md)
 
+##### Theoretical physicists
 # Theoretical physicists, Briton Peter Higgs and Belgian Franois Englert, win the 2013 Nobel Prize in Physics for their work on the origin of the mass of subatomic particles. 
 
 Briton Peter Higgs and Belgian François Englert have won the 2013 Nobel Prize in Physics, &#x27;for something small that makes all the difference&#x27; – the Higgs boson
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/10/08/world/europe/sweden-nobel-prize-physics/index.html)
-2. [The Guardian](http://www.theguardian.com/science/2013/oct/08/nobel-prize-in-physics-live-blog)
+2. [The Guardian](https://www.theguardian.com/science/2013/oct/08/nobel-prize-in-physics-live-blog)
 2. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/audio/video/2013/10/7/1381171356565/Peter-Higgs-015.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=8c8a9983925972c588c5249dbd4dbc17)
 
 ### Related:

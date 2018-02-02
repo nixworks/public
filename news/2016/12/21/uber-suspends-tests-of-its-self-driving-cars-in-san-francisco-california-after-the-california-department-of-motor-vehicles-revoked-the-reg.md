@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/21/uber-suspends-tests-of-its-self-driving-cars-in
 
 ### [2016-12-21](/news/2016/12/21/index.md)
 
+##### Uber
 # Uber suspends tests of its self-driving cars in San Francisco, California, after the California Department of Motor Vehicles revoked the registration of the vehicles in the state in response to two red-light violations. 
 
 Uber halts its self-driving car pilot in San Francisco after regulators say it needs a special permit.

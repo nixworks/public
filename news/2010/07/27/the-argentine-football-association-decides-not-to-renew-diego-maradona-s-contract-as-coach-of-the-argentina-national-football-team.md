@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/27/the-argentine-football-association-decides-not-to-renew-diego-maradona-s-contract-as-coach-of-the-argentina-national-football-team.html)  [JSON](/news/2010/07/27/the-argentine-football-association-decides-not-to-renew-diego-maradona-s-contract-as-coach-of-the-argentina-national-football-team.json)  [XML](/news/2010/07/27/the-argentine-football-association-decides-not-to-renew-diego-maradona-s-contract-as-coach-of-the-argentina-national-football-team.xml)  
+
 ### [2010-07-27](/news/2010/07/27/index.md)
 
+##### Argentine Football Association
 # The Argentine Football Association decides not to renew Diego Maradona's contract as coach of the Argentina national football team. 
 
 The Argentine Football Association on Tuesday elected not to renew Diego Maradona&#039;s contract as national team coach, a spokesman said.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/sport/football/world-cup-2010/teams/argentina/7913626/Diego-Maradona-sacked-as-Argentina-coach.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01686/maradona_1686674a.jpg)

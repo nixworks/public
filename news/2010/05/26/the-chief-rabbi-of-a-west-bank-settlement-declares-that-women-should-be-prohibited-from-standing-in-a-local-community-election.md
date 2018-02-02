@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/26/the-chief-rabbi-of-a-west-bank-settlement-declares-that-women-should-be-prohibited-from-standing-in-a-local-community-election.html)  [JSON](/news/2010/05/26/the-chief-rabbi-of-a-west-bank-settlement-declares-that-women-should-be-prohibited-from-standing-in-a-local-community-election.json)  [XML](/news/2010/05/26/the-chief-rabbi-of-a-west-bank-settlement-declares-that-women-should-be-prohibited-from-standing-in-a-local-community-election.xml)  
+
 ### [2010-05-26](/news/2010/05/26/index.md)
 
+##### chief rabbi
 # The chief rabbi of a West Bank settlement declares that women should be prohibited from standing in a local community election. 
 
 The chief rabbi of a West Bank settlement prohibits women from standing in a local election, saying they must be heard through their husbands.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10161713.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

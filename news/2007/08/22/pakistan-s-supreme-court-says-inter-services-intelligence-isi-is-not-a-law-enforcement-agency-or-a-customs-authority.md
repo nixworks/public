@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/08/22/pakistan-s-supreme-court-says-inter-services-intelligence-isi-is-not-a-law-enforcement-agency-or-a-customs-authority.html)  [JSON](/news/2007/08/22/pakistan-s-supreme-court-says-inter-services-intelligence-isi-is-not-a-law-enforcement-agency-or-a-customs-authority.json)  [XML](/news/2007/08/22/pakistan-s-supreme-court-says-inter-services-intelligence-isi-is-not-a-law-enforcement-agency-or-a-customs-authority.xml)  
+
 ### [2007-08-22](/news/2007/08/22/index.md)
 
+##### Pakistan
 #  Pakistan's Supreme Court says Inter-Services Intelligence (ISI) is not a law-enforcement agency or a customs authority. 
 
 

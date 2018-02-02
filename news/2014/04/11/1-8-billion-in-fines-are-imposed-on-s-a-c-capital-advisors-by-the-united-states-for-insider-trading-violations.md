@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/11/1-8-billion-in-fines-are-imposed-on-s-a-c-capital-advisors-by-the-united-states-for-insider-trading-violations.html)  [JSON](/news/2014/04/11/1-8-billion-in-fines-are-imposed-on-s-a-c-capital-advisors-by-the-united-states-for-insider-trading-violations.json)  [XML](/news/2014/04/11/1-8-billion-in-fines-are-imposed-on-s-a-c-capital-advisors-by-the-united-states-for-insider-trading-violations.xml)  
+
 ### [2014-04-11](/news/2014/04/11/index.md)
 
+##### S.A.C. Capital Advisors
 # $1.8 billion in fines are imposed on S.A.C. Capital Advisors by the United States for insider trading violations. 
 
 A US court accepts a $1.8bn (£1.07bn) settlement for insider trading by US hedge fund group SAC Capital Advisors.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-26985243)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74175000/jpg/_74175546_sac.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/7/an-embraer-emb-110p1-air-taxi-carrying-20-people-crashes-in-amazonas-brazil.html)  [JSON](/news/2009/02/7/an-embraer-emb-110p1-air-taxi-carrying-20-people-crashes-in-amazonas-brazil.json)  [XML](/news/2009/02/7/an-embraer-emb-110p1-air-taxi-carrying-20-people-crashes-in-amazonas-brazil.xml)  
+
 ### [2009-02-7](/news/2009/02/7/index.md)
 
+##### Embraer
 #  An Embraer EMB-110P1 air taxi carrying 20 people crashes in Amazonas, Brazil. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IHT](http://www.iht.com/articles/ap/2009/02/07/news/LT-Brazil-Plane-Crash.php)
 

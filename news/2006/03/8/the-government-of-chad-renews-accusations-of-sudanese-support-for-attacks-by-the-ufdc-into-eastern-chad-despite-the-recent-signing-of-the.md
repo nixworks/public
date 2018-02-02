@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/8/the-government-of-chad-renews-accusations-of-sudanese-support-for-attacks-by-the-ufdc-into-eastern-chad-despite-the-recent-signing-of-the.html)  [JSON](/news/2006/03/8/the-government-of-chad-renews-accusations-of-sudanese-support-for-attacks-by-the-ufdc-into-eastern-chad-despite-the-recent-signing-of-the.json)  [XML](/news/2006/03/8/the-government-of-chad-renews-accusations-of-sudanese-support-for-attacks-by-the-ufdc-into-eastern-chad-despite-the-recent-signing-of-the.xml)  
+
 ### [2006-03-8](/news/2006/03/8/index.md)
 
+##### second Dby administration
 #  The Government of Chad renews accusations of Sudanese support for attacks by the UFDC into eastern Chad, despite the recent signing of the Tripoli Accord and the successful formation of the ministerial committee. Sudan has accused Chad of supporting ARFWS rebels in the past, and Chad is believed to have stepped up support in light of recent attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AlertNet](http://www.alertnet.org/thenews/newsdesk/L08663643.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/12/a-three-judge-panel-of-the-u-s-9th-circuit-court-of-appeals-rules-that-jared-lee-loughner-the-suspect-in-the-2011-tucson-shooting-has-the.html)  [JSON](/news/2011/07/12/a-three-judge-panel-of-the-u-s-9th-circuit-court-of-appeals-rules-that-jared-lee-loughner-the-suspect-in-the-2011-tucson-shooting-has-the.json)  [XML](/news/2011/07/12/a-three-judge-panel-of-the-u-s-9th-circuit-court-of-appeals-rules-that-jared-lee-loughner-the-suspect-in-the-2011-tucson-shooting-has-the.xml)  
+
 ### [2011-07-12](/news/2011/07/12/index.md)
 
+##### United States Court of Appeals for the Ninth Circuit
 # A three judge panel of the U.S. 9th Circuit Court of Appeals rules that Jared Lee Loughner, the suspect in the 2011 Tucson shooting, has the right to refuse antipsychotic medication while he appeals the treatment prescribed by prison mental health authorities. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2011/07/tuscon-shooter-loughner-can-refuse-anti-psychotic-drugs-court-rules.html)
 1. [Cover Image](http://opinion.latimes.com/.a/6a00d8341c7de353ef0147e2124fda970b-120pi)

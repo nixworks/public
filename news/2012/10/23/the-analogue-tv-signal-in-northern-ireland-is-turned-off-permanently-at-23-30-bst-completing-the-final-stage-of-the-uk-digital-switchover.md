@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/23/the-analogue-tv-signal-in-northern-ireland-is-turned-off-permanently-at-23-30-bst-completing-the-final-stage-of-the-uk-digital-switchover.html)  [JSON](/news/2012/10/23/the-analogue-tv-signal-in-northern-ireland-is-turned-off-permanently-at-23-30-bst-completing-the-final-stage-of-the-uk-digital-switchover.json)  [XML](/news/2012/10/23/the-analogue-tv-signal-in-northern-ireland-is-turned-off-permanently-at-23-30-bst-completing-the-final-stage-of-the-uk-digital-switchover.xml)  
+
 ### [2012-10-23](/news/2012/10/23/index.md)
 
+##### analogue TV
 # The analogue TV signal in Northern Ireland is turned off permanently at 23:30 BST, completing the final stage of the UK digital switchover. "Ceefax", the world's first teletext information service, is also brought to an end after 38 years. 
 
 The analogue TV signal in NI will be turned off permanently on Tuesday night, completing the final stage of the UK digital switchover and bringing an end to Ceefax
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-20033934)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/53094000/jpg/_53094566__52636752_switchover-1.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/23/the-24-year-old-tunisian-who-is-suspected-of-dr
 
 ### [2016-12-23](/news/2016/12/23/index.md)
 
+##### last week's attack on a Christmas market in Berlin
 # The 24-year-old Tunisian who is suspected of driving the truck that smashed through a Berlin market is killed in a shoot-out in Milan. 
 
 
@@ -21,7 +22,7 @@ Formats: [HTML](/news/2016/12/23/the-24-year-old-tunisian-who-is-suspected-of-dr
 ### Related:
 
 1. [German officials offer a reward of up to 100,000 euros ($104,000) for 24-year-old Tunisian asylum-seeker Anis Amri, whose identifying information was found in the truck used in the attack. ](/news/2016/12/21/german-officials-offer-a-reward-of-up-to-100-000-euros-104-000-for-24-year-old-tunisian-asylum-seeker-anis-amri-whose-identifying-inform.md) _Context: Tunisia, last week's attack on a Christmas market in Berlin_
-2. [The funeral of Lukasz Urban, the driver killed in the course of last week's attack on a Christmas market in Berlin, takes place in his village of Banie near the German border. President of Poland Andrzej Duda and a German diplomat attend. ](/news/2016/12/30/the-funeral-of-aukasz-urban-the-driver-killed-in-the-course-of-last-week-s-attack-on-a-christmas-market-in-berlin-takes-place-in-his-vill.md) _Context: last week's attack on a Christmas market in Berlin_
-3. [Naveed Baloch, the man from Pakistan who was wrongly arrested in the aftermath of the recent attack on a Christmas market in Berlin, gives an interview outlining the conditions in which he was held and reveals he is now in hiding amid fears for his life. ](/news/2016/12/29/naveed-baloch-the-man-from-pakistan-who-was-wrongly-arrested-in-the-aftermath-of-the-recent-attack-on-a-christmas-market-in-berlin-gives-a.md) _Context: last week's attack on a Christmas market in Berlin_
-4. [A train and a bus collide in Tunis, Tunisia, killing 5 and injuring around 52. ](/news/2016/12/28/a-train-and-a-bus-collide-in-tunis-tunisia-killing-5-and-injuring-around-52.md) _Context: Tunisia_
-5. [The Islamic State of Iraq and the Levant claims responsibility via Amaq News Agency for the truck attack in Berlin, Germany, which left at least 12 people dead and 49 injured. ](/news/2016/12/20/the-islamic-state-of-iraq-and-the-levant-claims-responsibility-via-amaq-news-agency-for-the-truck-attack-in-berlin-germany-which-left-at-l.md) _Context: last week's attack on a Christmas market in Berlin_
+2. [Amid protests against rising prices and tax increases, a protestor is killed and five others are injured in clashes with security forces in the Tunisian town of Tebourba. ](/news/2018/01/8/amid-protests-against-rising-prices-and-tax-increases-a-protestor-is-killed-and-five-others-are-injured-in-clashes-with-security-forces-in.md) _Context: Tunisia_
+3. [At least three people are killed and over 100 injured in a train derailment near Milan, Italy. ](/news/2018/01/25/at-least-three-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy.md) _Context: Milan_
+4. [The Tunisian government announces a wave of social and economic reforms after violent anti-austerity protests that have resulted in at least one death and the arrest of more than eight hundred people. ](/news/2018/01/14/the-tunisian-government-announces-a-wave-of-social-and-economic-reforms-after-violent-anti-austerity-protests-that-have-resulted-in-at-least.md) _Context: Tunisia_
+5. [More than two hundred people are arrested across Tunisia as protests against economic conditions continue to grip the North African country. At least 49 police officers have been injured during clashes with protesters. ](/news/2018/01/10/more-than-two-hundred-people-are-arrested-across-tunisia-as-protests-against-economic-conditions-continue-to-grip-the-north-african-country.md) _Context: Tunisia_

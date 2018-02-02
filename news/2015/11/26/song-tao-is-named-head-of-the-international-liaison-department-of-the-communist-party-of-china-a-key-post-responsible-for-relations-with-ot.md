@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/26/song-tao-is-named-head-of-the-international-liaison-department-of-the-communist-party-of-china-a-key-post-responsible-for-relations-with-ot.html)  [JSON](/news/2015/11/26/song-tao-is-named-head-of-the-international-liaison-department-of-the-communist-party-of-china-a-key-post-responsible-for-relations-with-ot.json)  [XML](/news/2015/11/26/song-tao-is-named-head-of-the-international-liaison-department-of-the-communist-party-of-china-a-key-post-responsible-for-relations-with-ot.xml)  
+
 ### [2015-11-26](/news/2015/11/26/index.md)
 
+##### Song Tao
 # Song Tao is named head of the International Liaison Department of the Communist Party of China, a key post responsible for relations with other communist parties, replacing Wang Jiarui. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SCMP](http://www.scmp.com/news/china/diplomacy-defence/article/1883544/former-minister-appointed-key-point-man-chinas)
 

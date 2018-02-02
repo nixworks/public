@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/19/three-people-die-in-the-city-of-pittsburgh-in-the-us-state-of-pennsylvania-as-a-result-of-flash-flooding.html)  [JSON](/news/2011/08/19/three-people-die-in-the-city-of-pittsburgh-in-the-us-state-of-pennsylvania-as-a-result-of-flash-flooding.json)  [XML](/news/2011/08/19/three-people-die-in-the-city-of-pittsburgh-in-the-us-state-of-pennsylvania-as-a-result-of-flash-flooding.xml)  
+
 ### [2011-08-19](/news/2011/08/19/index.md)
 
+##### Pittsburgh
 # Three people die in the city of Pittsburgh in the US state of Pennsylvania as a result of flash flooding. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5jFnpOrBx51sB1PMcm8z_LO0ZhEHw?docId=84fdc88019bc4423843c2a4f3d4fba1f)
 

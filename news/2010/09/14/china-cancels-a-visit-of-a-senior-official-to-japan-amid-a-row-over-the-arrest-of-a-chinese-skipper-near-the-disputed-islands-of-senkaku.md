@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/14/china-cancels-a-visit-of-a-senior-official-to-japan-amid-a-row-over-the-arrest-of-a-chinese-skipper-near-the-disputed-islands-of-senkaku.html)  [JSON](/news/2010/09/14/china-cancels-a-visit-of-a-senior-official-to-japan-amid-a-row-over-the-arrest-of-a-chinese-skipper-near-the-disputed-islands-of-senkaku.json)  [XML](/news/2010/09/14/china-cancels-a-visit-of-a-senior-official-to-japan-amid-a-row-over-the-arrest-of-a-chinese-skipper-near-the-disputed-islands-of-senkaku.xml)  
+
 ### [2010-09-14](/news/2010/09/14/index.md)
 
+##### Senkaku Islands
 # China cancels a visit of a senior official to Japan amid a row over the arrest of a Chinese skipper near the disputed islands of Senkaku. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11296648)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

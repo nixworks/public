@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/9/juno-flies-by-earth-on-its-way-to-orbit-jupiter-but-suffers-a-glitch-during-the-fly-by-that-puts-it-in-safe-mode.html)  [JSON](/news/2013/10/9/juno-flies-by-earth-on-its-way-to-orbit-jupiter-but-suffers-a-glitch-during-the-fly-by-that-puts-it-in-safe-mode.json)  [XML](/news/2013/10/9/juno-flies-by-earth-on-its-way-to-orbit-jupiter-but-suffers-a-glitch-during-the-fly-by-that-puts-it-in-safe-mode.xml)  
+
 ### [2013-10-9](/news/2013/10/9/index.md)
 
+##### Juno mission
 # "Juno" flies by Earth on its way to orbit Jupiter, but suffers a glitch during the fly-by that puts it in safe mode. 
 
  A NASA spacecraft bound for Jupiter went into a precautionary safe mode today (Oct. 9), shortly after completing a speed-boosting flyby of Earth.
 
 
-### Source:
+### Sources:
 
 1. [Space.com](http://www.space.com/23146-juno-jupiter-spacecraft-glitch-earth-flyby.html)
 1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAzMy80MDgvb3JpZ2luYWwvanVuby1zcGFjZWNyYWZ0LWVhcnRoLWZseWJ5LmpwZw==)

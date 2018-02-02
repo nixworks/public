@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/28/rebels-of-the-new-syrian-army-begin-an-offensiv
 
 ### [2016-06-28](/news/2016/06/28/index.md)
 
+##### Syrian Civil War
 # Rebels of the New Syrian Army begin an offensive to capture the eastern town of al-Bukamal, currently held by ISIL militants. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/12/incumbent-ivory-coast-president-laurent-gbagbo-accuses-foreign-envoys-of-seeking-to-turn-the-military-against-him.html)  [JSON](/news/2010/12/12/incumbent-ivory-coast-president-laurent-gbagbo-accuses-foreign-envoys-of-seeking-to-turn-the-military-against-him.json)  [XML](/news/2010/12/12/incumbent-ivory-coast-president-laurent-gbagbo-accuses-foreign-envoys-of-seeking-to-turn-the-military-against-him.xml)  
+
 ### [2010-12-12](/news/2010/12/12/index.md)
 
+##### Ivory Coast
 # Incumbent Ivory Coast President Laurent Gbagbo accuses foreign envoys of seeking to turn the military against him. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iymYwxLKTBT0iP9TAIdY7XBfZuiw?docId=CNG.e5ba0902e9ca993c55f47b5e1daea2e4.941)
 

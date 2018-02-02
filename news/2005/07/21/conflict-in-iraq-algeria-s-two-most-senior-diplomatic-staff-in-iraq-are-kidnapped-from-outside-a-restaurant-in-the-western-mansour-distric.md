@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/21/conflict-in-iraq-algeria-s-two-most-senior-diplomatic-staff-in-iraq-are-kidnapped-from-outside-a-restaurant-in-the-western-mansour-distric.html)  [JSON](/news/2005/07/21/conflict-in-iraq-algeria-s-two-most-senior-diplomatic-staff-in-iraq-are-kidnapped-from-outside-a-restaurant-in-the-western-mansour-distric.json)  [XML](/news/2005/07/21/conflict-in-iraq-algeria-s-two-most-senior-diplomatic-staff-in-iraq-are-kidnapped-from-outside-a-restaurant-in-the-western-mansour-distric.xml)  
+
 ### [2005-07-21](/news/2005/07/21/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: Algeria's two most senior diplomatic staff in Iraq are kidnapped from outside a restaurant in the western Mansour district. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4703317.stm)
 

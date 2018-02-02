@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/31/major-political-parties-in-myanmar-hold-a-meeting-about-the-upcoming-burmese-general-election-2015-which-included-thein-sein-s-union-solida.html)  [JSON](/news/2014/10/31/major-political-parties-in-myanmar-hold-a-meeting-about-the-upcoming-burmese-general-election-2015-which-included-thein-sein-s-union-solida.json)  [XML](/news/2014/10/31/major-political-parties-in-myanmar-hold-a-meeting-about-the-upcoming-burmese-general-election-2015-which-included-thein-sein-s-union-solida.xml)  
+
 ### [2014-10-31](/news/2014/10/31/index.md)
 
+##### Myanmar
 # Major political parties in Myanmar hold a meeting about the upcoming Burmese general election, 2015 which included Thein Sein's Union Solidarity and Development Party and Aung San Suu Kyi's National League for Democracy. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC Go](http://abcnews.go.com/International/wireStory/myanmars-president-army-chief-meet-suu-kyi-26592752)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/26/a-girls-boarding-school-dormitory-in-kwazulu-natal-is-shut-down-due-to-widespread-lesbian-activity.html)  [JSON](/news/2010/02/26/a-girls-boarding-school-dormitory-in-kwazulu-natal-is-shut-down-due-to-widespread-lesbian-activity.json)  [XML](/news/2010/02/26/a-girls-boarding-school-dormitory-in-kwazulu-natal-is-shut-down-due-to-widespread-lesbian-activity.xml)  
+
 ### [2010-02-26](/news/2010/02/26/index.md)
 
+##### KwaZulu-Natal
 # A girls' boarding school dormitory in KwaZulu-Natal is shut down due to widespread lesbian activity. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8539222.stm)
 

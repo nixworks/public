@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/10/american-dylann-roof-is-sentenced-to-death-for-
 
 ### [2017-01-10](/news/2017/01/10/index.md)
 
+##### Dylann Roof
 # American Dylann Roof is sentenced to death for the Charleston church shooting in which nine people were killed. 
 
 The same jury that convicted Dylann Roof in the 2015 massacre at Emanuel AME church has reached a unanimous verdict on his sentence: death. Roof looked down silently as the panel announced its decision in U.S. District Court in Charleston, S.C. late this afternoon.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/15/former-prime-minister-of-italy-silvio-berlusconi-is-sentenced-to-1-year-of-community-service-for-his-conviction-of-tax-fraud.html)  [JSON](/news/2014/04/15/former-prime-minister-of-italy-silvio-berlusconi-is-sentenced-to-1-year-of-community-service-for-his-conviction-of-tax-fraud.json)  [XML](/news/2014/04/15/former-prime-minister-of-italy-silvio-berlusconi-is-sentenced-to-1-year-of-community-service-for-his-conviction-of-tax-fraud.xml)  
+
 ### [2014-04-15](/news/2014/04/15/index.md)
 
+##### Italian Prime Minister
 # Former Prime Minister of Italy Silvio Berlusconi is sentenced to 1 year of community service for his conviction of tax fraud. 
 
 ROME -- Former Italian Prime Minister Silvio Berlusconi was ordered Tuesday to spend a year performing community service among the elderly as his sentence for committing tax fraud at his media conglomerate.
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/world/worldnow/la-fg-wn-silvio-berlusconi-sentenced-community-service-20140415,0,4150086.story#axzz2yxViuXIB)
 1. [Cover Image](http://www.trbimg.com/img-534d1f2a/turbine/la-fg-wn-silvio-berlusconi-sentenced-community-service-20140415)

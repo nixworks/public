@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/5/the-united-nations-reports-that-isil-appears-to-
 
 ### [2016-08-5](/news/2016/08/5/index.md)
 
+##### Iraqi Civil War
 # The United Nations reports that ISIL appears to have captured up to 3,000 fleeing Iraqi villagers from Hawija District headed to Kirkuk city. Militants reportedly executed 12 people. Earlier, the Iraqi Observatory for Human Rights said ISIL is using people for human shields against attacks by Iraqi security forces. 
 
 &quot;UNHCR has received reports that [ISIS] captured on 4 August up to 3,000 IDPs (internally displaced people) from villages in Hawija.&quot;

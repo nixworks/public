@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/24/a-new-coalition-government-takes-office-in-finland-the-first-led-by-a-swedish-speaking-finn-since-1959.html)  [JSON](/news/2014/06/24/a-new-coalition-government-takes-office-in-finland-the-first-led-by-a-swedish-speaking-finn-since-1959.json)  [XML](/news/2014/06/24/a-new-coalition-government-takes-office-in-finland-the-first-led-by-a-swedish-speaking-finn-since-1959.xml)  
+
 ### [2014-06-24](/news/2014/06/24/index.md)
 
+##### coalition government
 # A new coalition government takes office in Finland, the first led by a Swedish-speaking Finn since 1959. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Finland Times](http://www.finlandtimes.fi/national/2014/06/24/7867/Stubb-elected-new-PM)
 2. [YLE](http://svenska.yle.fi/artikel/2014/06/24/finland-fick-ny-regering)

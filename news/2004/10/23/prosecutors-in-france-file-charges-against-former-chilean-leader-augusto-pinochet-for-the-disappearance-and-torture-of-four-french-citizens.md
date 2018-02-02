@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/23/prosecutors-in-france-file-charges-against-former-chilean-leader-augusto-pinochet-for-the-disappearance-and-torture-of-four-french-citizens.html)  [JSON](/news/2004/10/23/prosecutors-in-france-file-charges-against-former-chilean-leader-augusto-pinochet-for-the-disappearance-and-torture-of-four-french-citizens.json)  [XML](/news/2004/10/23/prosecutors-in-france-file-charges-against-former-chilean-leader-augusto-pinochet-for-the-disappearance-and-torture-of-four-french-citizens.xml)  
+
 ### [2004-10-23](/news/2004/10/23/index.md)
 
+##### Prosecutor
 #  Prosecutors in France file charges against former Chilean leader Augusto Pinochet for the disappearance and torture of four French citizens in the 1970s. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/3946863.stm)
 

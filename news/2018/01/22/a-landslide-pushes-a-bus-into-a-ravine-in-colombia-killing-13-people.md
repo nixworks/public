@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/22/a-landslide-pushes-a-bus-into-a-ravine-in-colom
 
 ### [2018-01-22](/news/2018/01/22/index.md)
 
+##### landslide
 # A landslide pushes a bus into a ravine in Colombia, killing 13 people. 
 
 At least 13 people, including a newborn, were killed on Sunday when a landslide pushed a bus into a ravine in southwest Colombia, the disaster relief agency said.

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/27/argentinians-go-to-the-polls-to-elect-a-president-for-the-first-time-since-the-december-2001-economic-collapse-provoked-street-riots-that-u.html)  [JSON](/news/2003/04/27/argentinians-go-to-the-polls-to-elect-a-president-for-the-first-time-since-the-december-2001-economic-collapse-provoked-street-riots-that-u.json)  [XML](/news/2003/04/27/argentinians-go-to-the-polls-to-elect-a-president-for-the-first-time-since-the-december-2001-economic-collapse-provoked-street-riots-that-u.xml)  
+
 ### [2003-04-27](/news/2003/04/27/index.md)
 
+##### Argentina
 #  Argentinians go to the polls to elect a president for the first time since the December 2001 economic collapse provoked street riots that unseated four presidents in two weeks. Carlos Menem beats fellow Peronist Nstor Kirchner in the first round of voting, but the closeness of the vote necessitates a runoff vote scheduled for May 18. Other candidates included former economy minister Ricardo Lpez Murphy, former caretaker president Adolfo Rodrguez Sa, and lawmaker Elisa Carrio.
 
 

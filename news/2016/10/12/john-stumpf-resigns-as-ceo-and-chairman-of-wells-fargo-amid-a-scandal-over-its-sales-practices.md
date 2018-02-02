@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/12/john-stumpf-resigns-as-ceo-and-chairman-of-well
 
 ### [2016-10-12](/news/2016/10/12/index.md)
 
+##### John Stumpf
 # John Stumpf resigns as CEO and chairman of Wells Fargo amid a scandal over its sales practices. 
 
 

@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2010/08/10/a-policy-proposal-by-google-and-verizon-regarding-the-way-internet-service-is-regulated-comes-under-criticism-from-groups-promoting-net-neut.html)  [JSON](/news/2010/08/10/a-policy-proposal-by-google-and-verizon-regarding-the-way-internet-service-is-regulated-comes-under-criticism-from-groups-promoting-net-neut.json)  [XML](/news/2010/08/10/a-policy-proposal-by-google-and-verizon-regarding-the-way-internet-service-is-regulated-comes-under-criticism-from-groups-promoting-net-neut.xml)  
+
 ### [2010-08-10](/news/2010/08/10/index.md)
 
+##### Google
 # A policy proposal by Google and Verizon regarding the way internet service is regulated comes under criticism from groups promoting net neutrality. 
 
 The plan, which includes exceptions for wireless Net access, was criticized by groups that want to keep the network as open as possible.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2010/08/10/technology/10net.html?_r=1&scp=2&sq=google%20verizon&st=cse)
+1. [New York Times](https://www.nytimes.com/2010/08/10/technology/10net.html?_r=1&scp=2&sq=google%20verizon&st=cse)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 
-1. [ Facebook, Google, and Twitter executives have been asked to testify before the House of Representatives Intelligence Committee in October and the Senate Intelligence Committee on November 1, according to committee sources. ](/news/2017/09/27/facebook-google-and-twitter-executives-have-been-asked-to-testify-before-the-house-of-representatives-intelligence-committee-in-october-a.md) _Context: Google_
-2. [Google strikes a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/google-strikes-a-1-1bn-agbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md) _Context: Google_
-3. [Google is being sued over alleged inequality in the pay of male and female employees. ](/news/2017/09/14/google-is-being-sued-over-alleged-inequality-in-the-pay-of-male-and-female-employees.md) _Context: Google_
-4. [Several major internet companies and activist groups post messages defending net neutrality. ](/news/2017/07/12/several-major-internet-companies-and-activist-groups-post-messages-defending-net-neutrality.md) _Context: net neutrality_
-5. [The European Commission imposes a record EUR2.42bn antitrust fine on internet giant Google for allegedly manipulating its search engine results. ](/news/2017/06/27/the-european-commission-imposes-a-record-a-2-42bn-antitrust-fine-on-internet-giant-google-for-allegedly-manipulating-its-search-engine-resu.md) _Context: Google_
+1. [The organizers of the Google Lunar X Prize announce that the $20 million grand prize for a commercial lunar lander will expire on 31 March 2018 without a winner because none of its five finalist teams would be able to launch a mission before the deadline. ](/news/2018/01/23/the-organizers-of-the-google-lunar-x-prize-announce-that-the-20-million-grand-prize-for-a-commercial-lunar-lander-will-expire-on-31-march-2.md) _Context: Google_
+2. [Montana Governor Steve Bullock signs an executive order that bars any Internet service provider with state contracts from blocking or charging more for faster delivery of websites to any customer in the state. Montana is the first state to respond this way to the FCC's December 14, 2017, net neutrality ruling. ](/news/2018/01/22/montana-governor-steve-bullock-signs-an-executive-order-that-bars-any-internet-service-provider-with-state-contracts-from-blocking-or-chargi.md) _Context: net neutrality_
+3. [Alphabet Inc. announces Executive Chairman Eric Schmidt, who has been chief executive of Google-Alphabet since 2001, will step down in January 2018. Schmidt will continue to serve on Alphabet's board of directors. ](/news/2017/12/21/alphabet-inc-announces-executive-chairman-eric-schmidt-who-has-been-chief-executive-of-google-alphabet-since-2001-will-step-down-in-janua.md) _Context: Google_
+4. [The Federal Communications Commission votes 3-to-2 to dismantle its net neutrality regulations. ](/news/2017/12/14/the-federal-communications-commission-votes-3-to-2-to-dismantle-its-net-neutrality-regulations.md) _Context: net neutrality_
+5. [U.S. senators question lawyers representing Facebook, Twitter and Google about Russian activity on their platforms during the 2016 United States presidential election. ](/news/2017/10/31/u-s-senators-question-lawyers-representing-facebook-twitter-and-google-about-russian-activity-on-their-platforms-during-the-2016-united-st.md) _Context: Google_

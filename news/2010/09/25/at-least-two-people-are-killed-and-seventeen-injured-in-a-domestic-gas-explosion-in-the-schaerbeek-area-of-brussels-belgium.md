@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/25/at-least-two-people-are-killed-and-seventeen-injured-in-a-domestic-gas-explosion-in-the-schaerbeek-area-of-brussels-belgium.html)  [JSON](/news/2010/09/25/at-least-two-people-are-killed-and-seventeen-injured-in-a-domestic-gas-explosion-in-the-schaerbeek-area-of-brussels-belgium.json)  [XML](/news/2010/09/25/at-least-two-people-are-killed-and-seventeen-injured-in-a-domestic-gas-explosion-in-the-schaerbeek-area-of-brussels-belgium.xml)  
+
 ### [2010-09-25](/news/2010/09/25/index.md)
 
+##### Schaerbeek
 # At least two people are killed and seventeen injured in a domestic gas explosion in the Schaerbeek area of Brussels, Belgium. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/world/20100926/160725803.html)
 

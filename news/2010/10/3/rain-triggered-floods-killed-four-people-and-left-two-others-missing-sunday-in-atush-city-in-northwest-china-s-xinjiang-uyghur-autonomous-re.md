@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/3/rain-triggered-floods-killed-four-people-and-left-two-others-missing-sunday-in-atush-city-in-northwest-china-s-xinjiang-uyghur-autonomous-re.html)  [JSON](/news/2010/10/3/rain-triggered-floods-killed-four-people-and-left-two-others-missing-sunday-in-atush-city-in-northwest-china-s-xinjiang-uyghur-autonomous-re.json)  [XML](/news/2010/10/3/rain-triggered-floods-killed-four-people-and-left-two-others-missing-sunday-in-atush-city-in-northwest-china-s-xinjiang-uyghur-autonomous-re.xml)  
+
 ### [2010-10-3](/news/2010/10/3/index.md)
 
+##### Atush
 # Rain-triggered floods killed four people and left two others missing Sunday in Atush city in northwest China's Xinjiang Uyghur Autonomous Region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Global Times](http://china.globaltimes.cn/society/2010-09/575372.html)
 

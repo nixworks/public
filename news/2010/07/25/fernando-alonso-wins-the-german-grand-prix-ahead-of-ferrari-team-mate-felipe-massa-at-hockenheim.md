@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/25/fernando-alonso-wins-the-german-grand-prix-ahead-of-ferrari-team-mate-felipe-massa-at-hockenheim.html)  [JSON](/news/2010/07/25/fernando-alonso-wins-the-german-grand-prix-ahead-of-ferrari-team-mate-felipe-massa-at-hockenheim.json)  [XML](/news/2010/07/25/fernando-alonso-wins-the-german-grand-prix-ahead-of-ferrari-team-mate-felipe-massa-at-hockenheim.xml)  
+
 ### [2010-07-25](/news/2010/07/25/index.md)
 
+##### Fernando Alonso
 # Fernando Alonso wins the German Grand Prix ahead of Ferrari team-mate Felipe Massa at Hockenheim. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/motorsport/formula_one/8851860.stm)
 

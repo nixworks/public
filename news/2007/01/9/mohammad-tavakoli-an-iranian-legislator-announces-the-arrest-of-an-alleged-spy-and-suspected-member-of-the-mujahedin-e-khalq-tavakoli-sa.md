@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/9/mohammad-tavakoli-an-iranian-legislator-announces-the-arrest-of-an-alleged-spy-and-suspected-member-of-the-mujahedin-e-khalq-tavakoli-sa.html)  [JSON](/news/2007/01/9/mohammad-tavakoli-an-iranian-legislator-announces-the-arrest-of-an-alleged-spy-and-suspected-member-of-the-mujahedin-e-khalq-tavakoli-sa.json)  [XML](/news/2007/01/9/mohammad-tavakoli-an-iranian-legislator-announces-the-arrest-of-an-alleged-spy-and-suspected-member-of-the-mujahedin-e-khalq-tavakoli-sa.xml)  
+
 ### [2007-01-9](/news/2007/01/9/index.md)
 
+##### Iran
 #  Mohammad Tavakoli, an Iranian legislator, announces the arrest of an alleged spy and suspected member of the Mujahedin-e Khalq. Tavakoli said the man leaked information about Iran's nuclear program. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RFE/RL](http://www.rferl.org/featuresarticle/2007/01/629E9CF9-9348-4811-86EB-E64A4281BFAA.html)
 

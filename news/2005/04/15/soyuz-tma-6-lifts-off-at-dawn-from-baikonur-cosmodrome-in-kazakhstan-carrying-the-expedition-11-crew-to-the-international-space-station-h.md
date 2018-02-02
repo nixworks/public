@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2005/04/15/soyuz-tma-6-lifts-off-at-dawn-from-baikonur-cosmodrome-in-kazakhstan-carrying-the-expedition-11-crew-to-the-international-space-station-h.html)  [JSON](/news/2005/04/15/soyuz-tma-6-lifts-off-at-dawn-from-baikonur-cosmodrome-in-kazakhstan-carrying-the-expedition-11-crew-to-the-international-space-station-h.json)  [XML](/news/2005/04/15/soyuz-tma-6-lifts-off-at-dawn-from-baikonur-cosmodrome-in-kazakhstan-carrying-the-expedition-11-crew-to-the-international-space-station-h.xml)  
+
 ### [2005-04-15](/news/2005/04/15/index.md)
 
-#  Soyuz TMA-6 lifts off at dawn from Baikonur Cosmodrome in Kazakhstan carrying the Expedition 11 crew to the International Space Station. [http:--www.foxnews.com-story-0,2933,153539,00.html (Fox News)] [http:--news.yahoo.com-news?tmpl=story&u=-nm-20050415-wl_nm-space_russia_launch_dc (Yahoo! News)] (Link dead as of 02:40, 15 January 2007 (UTC))
+##### Soyuz TMA-6
+#  Soyuz TMA-6 lifts off at dawn from Baikonur Cosmodrome in Kazakhstan carrying the Expedition 11 crew to the International Space Station. [http:--www.foxnews.com-story-0,2933,153539,00.html (Fox News)] [https:--news.yahoo.com-news?tmpl=story&u=-nm-20050415-wl_nm-space_russia_launch_dc (Yahoo! News)] (Link dead as of 02:40, 15 January 2007 (UTC))
 
 
 

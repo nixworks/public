@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/13/the-ugandan-army-captures-caesar-achellam-a-senior-commander-of-the-militant-lord-s-resistance-army-in-the-central-african-republic.html)  [JSON](/news/2012/05/13/the-ugandan-army-captures-caesar-achellam-a-senior-commander-of-the-militant-lord-s-resistance-army-in-the-central-african-republic.json)  [XML](/news/2012/05/13/the-ugandan-army-captures-caesar-achellam-a-senior-commander-of-the-militant-lord-s-resistance-army-in-the-central-african-republic.xml)  
+
 ### [2012-05-13](/news/2012/05/13/index.md)
 
+##### Ugandan soldier
 # The Ugandan army captures Caesar Achellam, a senior commander of the militant Lord's Resistance Army, in the Central African Republic. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-18051522)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60205000/jpg/_60205195_014736554-1.jpg)

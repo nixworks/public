@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/27/the-funeral-of-former-king-of-tonga-george-tupou-v-is-held-in-nuku-alofa-with-thousands-of-mourners-lining-the-street.html)  [JSON](/news/2012/03/27/the-funeral-of-former-king-of-tonga-george-tupou-v-is-held-in-nuku-alofa-with-thousands-of-mourners-lining-the-street.json)  [XML](/news/2012/03/27/the-funeral-of-former-king-of-tonga-george-tupou-v-is-held-in-nuku-alofa-with-thousands-of-mourners-lining-the-street.xml)  
+
 ### [2012-03-27](/news/2012/03/27/index.md)
 
+##### King
 # The funeral of former King of Tonga George Tupou V is held in Nuku'alofa with thousands of mourners lining the street. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17513175)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/59316000/jpg/_59316635_hymhp2z6.jpg)

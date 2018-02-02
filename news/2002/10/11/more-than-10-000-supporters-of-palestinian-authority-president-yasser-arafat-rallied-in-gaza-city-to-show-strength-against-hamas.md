@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/11/more-than-10-000-supporters-of-palestinian-authority-president-yasser-arafat-rallied-in-gaza-city-to-show-strength-against-hamas.html)  [JSON](/news/2002/10/11/more-than-10-000-supporters-of-palestinian-authority-president-yasser-arafat-rallied-in-gaza-city-to-show-strength-against-hamas.json)  [XML](/news/2002/10/11/more-than-10-000-supporters-of-palestinian-authority-president-yasser-arafat-rallied-in-gaza-city-to-show-strength-against-hamas.xml)  
+
 ### [2002-10-11](/news/2002/10/11/index.md)
 
+##### Palestinian Authority
 #  More than 10,000 supporters of Palestinian Authority President Yasser Arafat rallied in Gaza City to show strength against Hamas.
 
 

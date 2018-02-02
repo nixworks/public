@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/27/palestinian-authority-president-yasser-arafat-s-health-declines-sharply-and-a-team-of-doctors-is-called-in-to-treat-him-doctors-performed.html)  [JSON](/news/2004/10/27/palestinian-authority-president-yasser-arafat-s-health-declines-sharply-and-a-team-of-doctors-is-called-in-to-treat-him-doctors-performed.json)  [XML](/news/2004/10/27/palestinian-authority-president-yasser-arafat-s-health-declines-sharply-and-a-team-of-doctors-is-called-in-to-treat-him-doctors-performed.xml)  
+
 ### [2004-10-27](/news/2004/10/27/index.md)
 
+##### Palestinian Authority
 #  Palestinian Authority President Yasser Arafat's health declines sharply, and a team of doctors is called in to treat him. Doctors performed a minor diagnostic procedure on Arafat on Monday, after he complained of stomach pains. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/hasen/spages/494337.html)
 2. [Reuters](http://reuters.com/newsArticle.jhtml;jsessionid=XD2JYRNGE52SSCRBAEZSFFA?type=worldNews&storyID=6634268)

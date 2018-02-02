@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/29/hamas-the-main-palestinian-opposition-party-in-the-palestinian-authority-hold-a-mass-wedding-on-the-west-bank-in-which-226-couples-perfor.html)  [JSON](/news/2005/07/29/hamas-the-main-palestinian-opposition-party-in-the-palestinian-authority-hold-a-mass-wedding-on-the-west-bank-in-which-226-couples-perfor.json)  [XML](/news/2005/07/29/hamas-the-main-palestinian-opposition-party-in-the-palestinian-authority-hold-a-mass-wedding-on-the-west-bank-in-which-226-couples-perfor.xml)  
+
 ### [2005-07-29](/news/2005/07/29/index.md)
 
+##### Hamas
 #  Hamas, the main Palestinian opposition party in the Palestinian Authority, hold a mass wedding on the West Bank in which 226 couples performed the Nikah. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4727291.stm)
 

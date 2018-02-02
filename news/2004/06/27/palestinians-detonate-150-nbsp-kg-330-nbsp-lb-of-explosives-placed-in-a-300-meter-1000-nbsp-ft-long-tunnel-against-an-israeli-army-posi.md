@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/27/palestinians-detonate-150-nbsp-kg-330-nbsp-lb-of-explosives-placed-in-a-300-meter-1000-nbsp-ft-long-tunnel-against-an-israeli-army-posi.html)  [JSON](/news/2004/06/27/palestinians-detonate-150-nbsp-kg-330-nbsp-lb-of-explosives-placed-in-a-300-meter-1000-nbsp-ft-long-tunnel-against-an-israeli-army-posi.json)  [XML](/news/2004/06/27/palestinians-detonate-150-nbsp-kg-330-nbsp-lb-of-explosives-placed-in-a-300-meter-1000-nbsp-ft-long-tunnel-against-an-israeli-army-posi.xml)  
+
 ### [2004-06-27](/news/2004/06/27/index.md)
 
+##### Palestinians
 #  Palestinians detonate 150&nbsp;kg (330&nbsp;lb) of explosives placed in a 300-meter (1000&nbsp;ft) long tunnel against an Israeli army position in the Gaza Strip. 2000 Palestinians rush into the streets of Gaza City to celebrate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/israel/Story/0,2763,1248916,00.html)
 

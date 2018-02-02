@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/26/terrorists-attack-a-police-station-in-india-s-jammu-and-kashmir-state-killing-six-people-before-attacking-an-army-camp.html)  [JSON](/news/2013/09/26/terrorists-attack-a-police-station-in-india-s-jammu-and-kashmir-state-killing-six-people-before-attacking-an-army-camp.json)  [XML](/news/2013/09/26/terrorists-attack-a-police-station-in-india-s-jammu-and-kashmir-state-killing-six-people-before-attacking-an-army-camp.xml)  
+
 ### [2013-09-26](/news/2013/09/26/index.md)
 
+##### Indian police
 # Terrorists attack a police station in India's Jammu and Kashmir state, killing six people, before attacking an Army camp. 
 
 Militants dressed in Indian army uniforms attacked Indian police and soldiers near the border with Pakistan on Thursday, killing nine people and triggering calls for talks between the prime ministers of the rival nations to be called off.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2013/09/26/uk-kashmir-attack-idUKBRE98P04920130926)
 1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130926&t=2&i=797543847&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE98P0WY000)

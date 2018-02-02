@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/8/eight-children-are-killed-and-a-further-26-injured-in-a-stampede-at-a-school-in-xiangtan-hunan-in-central-china.html)  [JSON](/news/2009/12/8/eight-children-are-killed-and-a-further-26-injured-in-a-stampede-at-a-school-in-xiangtan-hunan-in-central-china.json)  [XML](/news/2009/12/8/eight-children-are-killed-and-a-further-26-injured-in-a-stampede-at-a-school-in-xiangtan-hunan-in-central-china.xml)  
+
 ### [2009-12-8](/news/2009/12/8/index.md)
 
+##### stampede
 #  Eight children are killed and a further 26 injured in a stampede at a school in Xiangtan, Hunan, in central China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/china/2009-12/08/content_9138262.htm)
 2. [Indian Express](http://www.indianexpress.com/news/8-killed--26-injured-in-China-school-stampede/551461)

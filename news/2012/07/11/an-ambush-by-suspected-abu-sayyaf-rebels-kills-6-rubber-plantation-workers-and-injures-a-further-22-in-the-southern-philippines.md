@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/07/11/an-ambush-by-suspected-abu-sayyaf-rebels-kills-6-rubber-plantation-workers-and-injures-a-further-22-in-the-southern-philippines.html)  [JSON](/news/2012/07/11/an-ambush-by-suspected-abu-sayyaf-rebels-kills-6-rubber-plantation-workers-and-injures-a-further-22-in-the-southern-philippines.json)  [XML](/news/2012/07/11/an-ambush-by-suspected-abu-sayyaf-rebels-kills-6-rubber-plantation-workers-and-injures-a-further-22-in-the-southern-philippines.xml)  
+
 ### [2012-07-11](/news/2012/07/11/index.md)
 
+##### Abu Sayyaf
 # An ambush by suspected Abu Sayyaf rebels kills 6 rubber plantation workers and injures a further 22 in the southern Philippines. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/asia_pacific/suspected-muslim-militants-in-philippines-ambush-truckload-of-laborers-6-killed-22-wounded/2012/07/10/gJQAHN40bW_story.html?wprss=rss_social-world-headlines)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/asia_pacific/suspected-muslim-militants-in-philippines-ambush-truckload-of-laborers-6-killed-22-wounded/2012/07/10/gJQAHN40bW_story.html?wprss=rss_social-world-headlines)
 
 ### Related:
 

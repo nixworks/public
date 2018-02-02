@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/25/gun-battle-between-security-forces-and-taliban-fighters-leave-four-militants-including-their-commander-dead-in-wardak-province-40-km-west-of.html)  [JSON](/news/2010/09/25/gun-battle-between-security-forces-and-taliban-fighters-leave-four-militants-including-their-commander-dead-in-wardak-province-40-km-west-of.json)  [XML](/news/2010/09/25/gun-battle-between-security-forces-and-taliban-fighters-leave-four-militants-including-their-commander-dead-in-wardak-province-40-km-west-of.xml)  
+
 ### [2010-09-25](/news/2010/09/25/index.md)
 
+##### Taliban
 # Gun battle between security forces and Taliban fighters leave four militants including their commander dead in Wardak province 40 km west of Afghanistan capital Kabul. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/25/c_13529219.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/8/french-police-shoot-tear-gas-at-protesters-at-oil-company-total-s-a-s-headquarters-in-paris.html)  [JSON](/news/2010/03/8/french-police-shoot-tear-gas-at-protesters-at-oil-company-total-s-a-s-headquarters-in-paris.json)  [XML](/news/2010/03/8/french-police-shoot-tear-gas-at-protesters-at-oil-company-total-s-a-s-headquarters-in-paris.xml)  
+
 ### [2010-03-8](/news/2010/03/8/index.md)
 
+##### France
 # French police shoot tear gas at protesters at oil company Total S.A.'s headquarters in Paris. 
 
 Officers use tear gas after violent demonstrations over closing of Total oil depot.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/03/20103819532639609.html)
 1. [Cover Image](http://www.aljazeera.com)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/24/a-court-in-oslo-norway-deems-anders-behring-breivik-sane-and-sentences-him-to-21-years-imprisonment-for-intentionally-killing-77-people-i.html)  [JSON](/news/2012/08/24/a-court-in-oslo-norway-deems-anders-behring-breivik-sane-and-sentences-him-to-21-years-imprisonment-for-intentionally-killing-77-people-i.json)  [XML](/news/2012/08/24/a-court-in-oslo-norway-deems-anders-behring-breivik-sane-and-sentences-him-to-21-years-imprisonment-for-intentionally-killing-77-people-i.xml)  
+
 ### [2012-08-24](/news/2012/08/24/index.md)
 
+##### Oslo, Norway
 # A court in Oslo, Norway, deems Anders Behring Breivik sane and sentences him to 21 years' imprisonment for intentionally killing 77 people in two terror attacks in July 2011. 
 
 Anders Behring Breivik, who killed 77 people in two attacks in Norway last year, is found to be sane and is sentenced to 21 years in jail by a court.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19365616)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/62468000/jpg/_62468570_6mhp1hms.jpg)

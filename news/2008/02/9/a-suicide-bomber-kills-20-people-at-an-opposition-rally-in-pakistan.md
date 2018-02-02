@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/9/a-suicide-bomber-kills-20-people-at-an-opposition-rally-in-pakistan.html)  [JSON](/news/2008/02/9/a-suicide-bomber-kills-20-people-at-an-opposition-rally-in-pakistan.json)  [XML](/news/2008/02/9/a-suicide-bomber-kills-20-people-at-an-opposition-rally-in-pakistan.xml)  
+
 ### [2008-02-9](/news/2008/02/9/index.md)
 
+##### suicide bomber
 #  A suicide bomber kills 20 people at an opposition rally in Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.afp.com/english/news/stories/080209200844.skjvimq7.html)
 

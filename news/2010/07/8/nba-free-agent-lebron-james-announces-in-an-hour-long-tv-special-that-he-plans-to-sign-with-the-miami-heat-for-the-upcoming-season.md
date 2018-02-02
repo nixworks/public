@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/8/nba-free-agent-lebron-james-announces-in-an-hour-long-tv-special-that-he-plans-to-sign-with-the-miami-heat-for-the-upcoming-season.html)  [JSON](/news/2010/07/8/nba-free-agent-lebron-james-announces-in-an-hour-long-tv-special-that-he-plans-to-sign-with-the-miami-heat-for-the-upcoming-season.json)  [XML](/news/2010/07/8/nba-free-agent-lebron-james-announces-in-an-hour-long-tv-special-that-he-plans-to-sign-with-the-miami-heat-for-the-upcoming-season.xml)  
+
 ### [2010-07-8](/news/2010/07/8/index.md)
 
+##### NBA
 # NBA free agent LeBron James announces in an hour-long TV special that he plans to sign with the Miami Heat for the upcoming season. 
 
 NBA superstar LeBron James has announced he will play for Miami Heat next season, making official the most high-profile move in American basketball history.
 
 
-### Source:
+### Sources:
 
 1. [ABC Online](http://www.abc.net.au/news/stories/2010/07/09/2949168.htm?site=sport&section=basketball)
 2. [USA Today](http://content.usatoday.com/communities/technologylive/post/2010/07/d-day-for-lebron-james-is-today/1)

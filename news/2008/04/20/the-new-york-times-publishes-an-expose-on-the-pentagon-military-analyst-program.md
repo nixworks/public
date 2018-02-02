@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2008/04/20/the-new-york-times-publishes-an-expose-on-the-pentagon-military-analyst-program.html)  [JSON](/news/2008/04/20/the-new-york-times-publishes-an-expose-on-the-pentagon-military-analyst-program.json)  [XML](/news/2008/04/20/the-new-york-times-publishes-an-expose-on-the-pentagon-military-analyst-program.xml)  
+
 ### [2008-04-20](/news/2008/04/20/index.md)
 
+##### New York Times
 #  The "New York Times" publishes an expos on the Pentagon military analyst program. 
 
-The Pentagon has cultivated “military analysts” in a campaign to generate favorable news coverage of the Bush administration’s wartime performance.
 
 
-### Source:
 
-1. [The New York Times](http://www.nytimes.com/2008/04/20/washington/20generals.html)
-1. [Cover Image](https://static01.nyt.com/images/2008/04/19/washington/20generals_75.jpg)
+### Sources:
+
+1. [The New York Times](https://www.nytimes.com/2008/04/20/washington/20generals.html)
 
 ### Related:
 

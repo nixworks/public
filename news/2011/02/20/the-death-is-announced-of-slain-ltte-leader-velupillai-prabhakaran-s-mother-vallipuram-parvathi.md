@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/20/the-death-is-announced-of-slain-ltte-leader-velupillai-prabhakaran-s-mother-vallipuram-parvathi.html)  [JSON](/news/2011/02/20/the-death-is-announced-of-slain-ltte-leader-velupillai-prabhakaran-s-mother-vallipuram-parvathi.json)  [XML](/news/2011/02/20/the-death-is-announced-of-slain-ltte-leader-velupillai-prabhakaran-s-mother-vallipuram-parvathi.xml)  
+
 ### [2011-02-20](/news/2011/02/20/index.md)
 
+##### LTTE
 # The death is announced of slain LTTE leader Velupillai Prabhakaran's mother Vallipuram Parvathi. 
 
 Vallipuram Parvathi, the mother of slain LTTE leader Velupillai Prabakaran, passed away on Sunday morning at a Jaffna Hospital. She was 81. Cofirming this, the Army said that the death came at around
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.thehindu.com/news/international/article1474405.ece)
 1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)

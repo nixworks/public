@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/10/1/a-second-earthquake-measuring-6-8-on-the-richter-scale-occurs-near-sumatra-indonesia-following-a-7-6-magnitude-earthquake-the-previous-da.html)  [JSON](/news/2009/10/1/a-second-earthquake-measuring-6-8-on-the-richter-scale-occurs-near-sumatra-indonesia-following-a-7-6-magnitude-earthquake-the-previous-da.json)  [XML](/news/2009/10/1/a-second-earthquake-measuring-6-8-on-the-richter-scale-occurs-near-sumatra-indonesia-following-a-7-6-magnitude-earthquake-the-previous-da.xml)  
+
 ### [2009-10-1](/news/2009/10/1/index.md)
 
+##### magnitude
 #  A second earthquake measuring 6.8 on the Richter scale occurs near Sumatra, Indonesia, following a 7.6 magnitude earthquake the previous day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8284208.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601081&sid=a0QIZstJ7gLo)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601081&sid=a0QIZstJ7gLo)
 3. [Reuters](http://www.alertnet.org/thenews/newsdesk/N30356850.htm)
 4. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26150705-601,00.html)
 

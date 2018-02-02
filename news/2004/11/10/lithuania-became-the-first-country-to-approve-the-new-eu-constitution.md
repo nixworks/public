@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/10/lithuania-became-the-first-country-to-approve-the-new-eu-constitution.html)  [JSON](/news/2004/11/10/lithuania-became-the-first-country-to-approve-the-new-eu-constitution.json)  [XML](/news/2004/11/10/lithuania-became-the-first-country-to-approve-the-new-eu-constitution.xml)  
+
 ### [2004-11-10](/news/2004/11/10/index.md)
 
+##### Lithuania
 #  Lithuania became the first country to approve the new EU constitution. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4002555.stm)
 

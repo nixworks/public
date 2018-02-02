@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/05/21/enes-kanter-a-turkish-player-with-the-nba-s-oklahoma-city-thunder-returns-to-the-u-s-after-having-been-briefly-detained-in-bucharest-ka.html)  [JSON](/news/2017/05/21/enes-kanter-a-turkish-player-with-the-nba-s-oklahoma-city-thunder-returns-to-the-u-s-after-having-been-briefly-detained-in-bucharest-ka.json)  [XML](/news/2017/05/21/enes-kanter-a-turkish-player-with-the-nba-s-oklahoma-city-thunder-returns-to-the-u-s-after-having-been-briefly-detained-in-bucharest-ka.xml)  
+
 ### [2017-05-21](/news/2017/05/21/index.md)
 
+##### Enes Kanter
 #  Enes Kanter, a Turkish player with the NBA's Oklahoma City Thunder, returns to the U.S. after having been briefly detained in Bucharest. Kanter alleged that his public opposition to Turkish president Recep Tayyip Erdogan and support of exiled Islamic cleric Fethullah Gulen had led to the cancellation of his Turkish passport. 
 
 Enes Kanter landed safely back in the United States on Sunday, one day after being detained in a Romanian airport and having his Turkish passport canceled.
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://www.espn.com/nba/story/_/id/19431319/enes-kanter-oklahoma-city-thunder-back-united-states-news-conference-monday)
 1. [Cover Image](http://a.espncdn.com/combiner/i?img=%2Fmedia%2Fmotion%2F2017%2F0520%2Fdm_170520_NBA_Young_on_Kanter_in_London%2Fdm_170520_NBA_Young_on_Kanter_in_London.jpg)

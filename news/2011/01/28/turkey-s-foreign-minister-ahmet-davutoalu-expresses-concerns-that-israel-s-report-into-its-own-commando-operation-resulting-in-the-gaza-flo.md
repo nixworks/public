@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/28/turkey-s-foreign-minister-ahmet-davutoalu-expresses-concerns-that-israel-s-report-into-its-own-commando-operation-resulting-in-the-gaza-flo.html)  [JSON](/news/2011/01/28/turkey-s-foreign-minister-ahmet-davutoalu-expresses-concerns-that-israel-s-report-into-its-own-commando-operation-resulting-in-the-gaza-flo.json)  [XML](/news/2011/01/28/turkey-s-foreign-minister-ahmet-davutoalu-expresses-concerns-that-israel-s-report-into-its-own-commando-operation-resulting-in-the-gaza-flo.xml)  
+
 ### [2011-01-28](/news/2011/01/28/index.md)
 
+##### Ahmet Davutoglu
 # Turkey's foreign minister Ahmet Davutoglu expresses concerns that Israel's report into its own commando operation resulting in the Gaza flotilla raid is "neither credible nor unbiased", he tells a news conference before departing for Montenegro. 
 
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 
 
-### Source:
+### Sources:
 
 1. [Hürriyet](http://www.hurriyetdailynews.com/n.php?n=israeli-report-not-independent-it-is-netanyahu-report-says-fm-2011-01-28)
 1. [Cover Image](http://www.hurriyetdailynews.com/images/design/logo-hurriyet-daily-news.png)

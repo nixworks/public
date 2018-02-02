@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/1/the-karmapa-lama-ogyen-trinley-dorje-tibetan-buddhism-s-third-highest-lama-is-questioned-by-police-after-large-amounts-of-foreign-money-a.html)  [JSON](/news/2011/02/1/the-karmapa-lama-ogyen-trinley-dorje-tibetan-buddhism-s-third-highest-lama-is-questioned-by-police-after-large-amounts-of-foreign-money-a.json)  [XML](/news/2011/02/1/the-karmapa-lama-ogyen-trinley-dorje-tibetan-buddhism-s-third-highest-lama-is-questioned-by-police-after-large-amounts-of-foreign-money-a.xml)  
+
 ### [2011-02-1](/news/2011/02/1/index.md)
 
+##### Karmapa Lama
 # The Karmapa Lama, Ogyen Trinley Dorje, Tibetan Buddhism's third-highest lama, is questioned by police after large amounts of foreign money are found at his monastery in Dharamsala, northern India. Some Indian media allege he is acting as a spy for China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Asia Times Online](http://www.atimes.com/atimes/China/MB02Ad01.html)
 

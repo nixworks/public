@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/7/baghdad-office-of-shiite-leader-moqtada-al-sadr-is-surrounded-by-u-s-tanks-and-troops-amid-efforts-to-arrest-the-iraqi-cleric-some-500-ar.html)  [JSON](/news/2004/04/7/baghdad-office-of-shiite-leader-moqtada-al-sadr-is-surrounded-by-u-s-tanks-and-troops-amid-efforts-to-arrest-the-iraqi-cleric-some-500-ar.json)  [XML](/news/2004/04/7/baghdad-office-of-shiite-leader-moqtada-al-sadr-is-surrounded-by-u-s-tanks-and-troops-amid-efforts-to-arrest-the-iraqi-cleric-some-500-ar.xml)  
+
 ### [2004-04-7](/news/2004/04/7/index.md)
 
+##### Baghdad
 #  Baghdad office of Shiite leader Moqtada al-Sadr is surrounded by U.S. tanks and troops amid efforts to arrest the Iraqi cleric. Some 500 armed Sadr militia burn tires, forming roadblocks and promising jihad near the office. Snipers have also been placed in homes in the neighborhood in the Baghdad slum of Sadr City. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://apnews.myway.com/article/20040407/D81Q35G84.html)
 2. [Democracy Now!](http://www.democracynow.org/article.pl?sid=04/04/07/1527241)

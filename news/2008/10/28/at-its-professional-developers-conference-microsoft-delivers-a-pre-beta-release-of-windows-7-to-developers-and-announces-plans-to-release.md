@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/10/28/at-its-professional-developers-conference-microsoft-delivers-a-pre-beta-release-of-windows-7-to-developers-and-announces-plans-to-release.html)  [JSON](/news/2008/10/28/at-its-professional-developers-conference-microsoft-delivers-a-pre-beta-release-of-windows-7-to-developers-and-announces-plans-to-release.json)  [XML](/news/2008/10/28/at-its-professional-developers-conference-microsoft-delivers-a-pre-beta-release-of-windows-7-to-developers-and-announces-plans-to-release.xml)  
+
 ### [2008-10-28](/news/2008/10/28/index.md)
 
+##### Professional Developers Conference
 #  At its Professional Developers Conference, Microsoft delivers a pre-beta release of Windows 7 to developers, and announces plans to release a full Windows 7 beta early in 2009. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/external/idg/2008/10/28/28idg-Details-emerge.html)
+1. [The New York Times](https://www.nytimes.com/external/idg/2008/10/28/28idg-Details-emerge.html)
 
 ### Related:
 

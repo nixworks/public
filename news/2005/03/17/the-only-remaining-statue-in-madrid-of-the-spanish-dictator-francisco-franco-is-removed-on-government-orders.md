@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/17/the-only-remaining-statue-in-madrid-of-the-spanish-dictator-francisco-franco-is-removed-on-government-orders.html)  [JSON](/news/2005/03/17/the-only-remaining-statue-in-madrid-of-the-spanish-dictator-francisco-franco-is-removed-on-government-orders.json)  [XML](/news/2005/03/17/the-only-remaining-statue-in-madrid-of-the-spanish-dictator-francisco-franco-is-removed-on-government-orders.xml)  
+
 ### [2005-03-17](/news/2005/03/17/index.md)
 
+##### statue
 #  The only remaining statue in Madrid of the Spanish dictator Francisco Franco is removed on government orders. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4357373.stm)
 

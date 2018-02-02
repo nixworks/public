@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/30/darfur-rebels-accuse-the-sudanese-government-of-bombing-south-darfur.html)  [JSON](/news/2007/08/30/darfur-rebels-accuse-the-sudanese-government-of-bombing-south-darfur.json)  [XML](/news/2007/08/30/darfur-rebels-accuse-the-sudanese-government-of-bombing-south-darfur.xml)  
+
 ### [2007-08-30](/news/2007/08/30/index.md)
 
+##### Darfur
 #  Darfur rebels accuse the Sudanese Government of bombing South Darfur. 
 
 Darfur rebels have accused the Sudanese Government of bombing South Darfur, the latest attack in an aerial campaign that has driven thousands of people from their homes over the past month.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC News Online](http://www.abc.net.au/news/stories/2007/08/31/2020230.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

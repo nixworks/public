@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2008/05/16/10-people-were-shot-at-a-branch-of-the-rizal-commercial-banking-corporation-rcbc-in-cabuyao-laguna-philippines-with-9-dead-and-1-in-cr.html)  [JSON](/news/2008/05/16/10-people-were-shot-at-a-branch-of-the-rizal-commercial-banking-corporation-rcbc-in-cabuyao-laguna-philippines-with-9-dead-and-1-in-cr.json)  [XML](/news/2008/05/16/10-people-were-shot-at-a-branch-of-the-rizal-commercial-banking-corporation-rcbc-in-cabuyao-laguna-philippines-with-9-dead-and-1-in-cr.xml)  
+
 ### [2008-05-16](/news/2008/05/16/index.md)
 
+##### 10 people were shot
 #  10 people were shot at a branch of the Rizal Commercial Banking Corporation (RCBC) in Cabuyao, Laguna, Philippines, with 9 dead and 1 in critical condition in what could be one of the bloodiest bank robberies in the nation's history. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today.com - 9 killed during Philippine bank robbery](http://www.usatoday.com/news/world/2008-05-16-philippines-robbery_N.htm?csp=34)
+1. [USA Today.com - 9 killed during Philippine bank robbery](https://www.usatoday.com/news/world/2008-05-16-philippines-robbery_N.htm?csp=34)
 
 ### Related:
 
-1. [Authorities diagnose six more cases of the Zika virus in the provinces of Cebu and Iloilo in the Visayas and Laguna province near Metro Manila, Philippines. ](/news/2016/09/20/authorities-diagnose-six-more-cases-of-the-zika-virus-in-the-provinces-of-cebu-and-iloilo-in-the-visayas-and-laguna-province-near-metro-mani.md) _Context: Laguna province, Philippines_
-2. [The Philippines suspends trade relations with North Korea to comply with a recent United Nations Security Council resolution over its repeated missile tests. ](/news/2017/09/8/the-philippines-suspends-trade-relations-with-north-korea-to-comply-with-a-recent-united-nations-security-council-resolution-over-its-repeat.md) _Context: Philippines_
-3. [Flights are cancelled and evacuations are ordered for over 100,000 people in the North Central Coast of Vietnam, in preparation for Typhoon Doksuri. The system has already claimed four lives passing over the Philippines. ](/news/2017/09/14/flights-are-cancelled-and-evacuations-are-ordered-for-over-100-000-people-in-the-north-central-coast-of-vietnam-in-preparation-for-typhoon.md) _Context: Philippines_
-4. [In an unconfirmed video, the Islamic State of Iraq and the Levant instructs its followers to go and fight in the Philippines instead of the Middle East. ](/news/2017/09/12/in-an-unconfirmed-video-the-islamic-state-of-iraq-and-the-levant-instructs-its-followers-to-go-and-fight-in-the-philippines-instead-of-the.md) _Context: Philippines_
-5. [Philippine Justice secretary Vitaliano Aguirre is caught allegedly conspiring a lawsuit against opposition Senator Risa Hontiveros. ](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.md) _Context: Philippines_
+1. [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md) _Context: Philippines_
+2. [Journalists in the Philippines protest the government's decision to cancel the license of Rappler. ](/news/2018/01/19/journalists-in-the-philippines-protest-the-government-s-decision-to-cancel-the-license-of-rappler.md) _Context: Philippines_
+3. [The Mayon volcano begins to erupt in the Philippines. ](/news/2018/01/15/the-mayon-volcano-begins-to-erupt-in-the-philippines.md) _Context: Philippines_
+4. [Thirty-seven people, mostly call centre workers, are missing and presumed dead in a fire in the Davao City Mall in the Philippines. ](/news/2017/12/23/thirty-seven-people-mostly-call-centre-workers-are-missing-and-presumed-dead-in-a-fire-in-the-davao-city-mall-in-the-philippines.md) _Context: Philippines_
+5. [More than 200 people are dead in the southern Philippines as a result of floods and mudslides caused by Severe Tropical Storm Vinta. ](/news/2017/12/23/more-than-200-people-are-dead-in-the-southern-philippines-as-a-result-of-floods-and-mudslides-caused-by-severe-tropical-storm-vinta.md) _Context: Philippines_

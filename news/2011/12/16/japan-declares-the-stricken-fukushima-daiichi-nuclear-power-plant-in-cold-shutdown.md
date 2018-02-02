@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/16/japan-declares-the-stricken-fukushima-daiichi-nuclear-power-plant-in-cold-shutdown.html)  [JSON](/news/2011/12/16/japan-declares-the-stricken-fukushima-daiichi-nuclear-power-plant-in-cold-shutdown.json)  [XML](/news/2011/12/16/japan-declares-the-stricken-fukushima-daiichi-nuclear-power-plant-in-cold-shutdown.xml)  
+
 ### [2011-12-16](/news/2011/12/16/index.md)
 
+##### Japan
 # Japan declares the stricken Fukushima Daiichi Nuclear Power Plant in cold shutdown. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kyodo](http://english.kyodonews.jp/news/2011/12/131962.html)
 

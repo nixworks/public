@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/11/arid-uka-an-islamic-extremist-is-convicted-in-germany-of-murdering-two-u-s-soldiers-and-injuring-another-two-in-a-shooting-at-frankfurt-a.html)  [JSON](/news/2012/02/11/arid-uka-an-islamic-extremist-is-convicted-in-germany-of-murdering-two-u-s-soldiers-and-injuring-another-two-in-a-shooting-at-frankfurt-a.json)  [XML](/news/2012/02/11/arid-uka-an-islamic-extremist-is-convicted-in-germany-of-murdering-two-u-s-soldiers-and-injuring-another-two-in-a-shooting-at-frankfurt-a.xml)  
+
 ### [2012-02-11](/news/2012/02/11/index.md)
 
+##### Arid Uka
 # Arid Uka, an Islamic extremist, is convicted in Germany of murdering two U.S. soldiers and injuring another two in a shooting at Frankfurt Airport last year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_GERMANY_US_AIRPORT_SHOOTING?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

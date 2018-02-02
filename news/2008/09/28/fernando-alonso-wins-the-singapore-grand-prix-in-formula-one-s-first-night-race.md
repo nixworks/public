@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/28/fernando-alonso-wins-the-singapore-grand-prix-in-formula-one-s-first-night-race.html)  [JSON](/news/2008/09/28/fernando-alonso-wins-the-singapore-grand-prix-in-formula-one-s-first-night-race.json)  [XML](/news/2008/09/28/fernando-alonso-wins-the-singapore-grand-prix-in-formula-one-s-first-night-race.xml)  
+
 ### [2008-09-28](/news/2008/09/28/index.md)
 
+##### Fernando Alonso
 #  Fernando Alonso wins the Singapore Grand Prix in Formula One's first night race. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/7640668.stm)
 

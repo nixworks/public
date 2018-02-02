@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/29/new-york-mayor-michael-bloomberg-states-that-there-is-no-chance-that-the-national-september-11-museum-will-open-on-time-september-11-201.html)  [JSON](/news/2011/12/29/new-york-mayor-michael-bloomberg-states-that-there-is-no-chance-that-the-national-september-11-museum-will-open-on-time-september-11-201.json)  [XML](/news/2011/12/29/new-york-mayor-michael-bloomberg-states-that-there-is-no-chance-that-the-national-september-11-museum-will-open-on-time-september-11-201.xml)  
+
 ### [2011-12-29](/news/2011/12/29/index.md)
 
+##### New York Mayor
 # New York Mayor Michael Bloomberg states that there is 'no chance' that the National September 11 Museum will open on time (September 11, 2012), due to a financial dispute. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://overheadbin.msnbc.msn.com/_news/2011/12/29/9809128-bloomberg-no-chance-911-museum-will-open-on-time)
 

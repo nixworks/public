@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/15/communist-rebels-in-the-philippines-kill-10-soldiers-as-they-returned-to-base-to-observe-a-christmas-truce.html)  [JSON](/news/2010/12/15/communist-rebels-in-the-philippines-kill-10-soldiers-as-they-returned-to-base-to-observe-a-christmas-truce.json)  [XML](/news/2010/12/15/communist-rebels-in-the-philippines-kill-10-soldiers-as-they-returned-to-base-to-observe-a-christmas-truce.xml)  
+
 ### [2010-12-15](/news/2010/12/15/index.md)
 
+##### New People's Army
 # Communist rebels in the Philippines kill 10 soldiers as they returned to base to observe a Christmas truce. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_614101.html)
 
@@ -15,4 +19,4 @@
 2. [Three people are killed by leftist rebels in Tampakan, southern Philippines. ](/news/2011/03/26/three-people-are-killed-by-leftist-rebels-in-tampakan-southern-philippines.md) _Context: New People's Army, Philippines_
 3. [At least 6 people are wounded as a bomb detonates in a church during Christmas Mass in the southern Philippines island of Jolo. ](/news/2010/12/25/at-least-6-people-are-wounded-as-a-bomb-detonates-in-a-church-during-christmas-mass-in-the-southern-philippines-island-of-jolo.md) _Context: Christmas, Philippines_
 4. [Leftist New People's Army rebels capture a village official and tribal chieftain during an attack on a militia outpost in Davao City, southern Philippines. ](/news/2010/12/11/leftist-new-people-s-army-rebels-capture-a-village-official-and-tribal-chieftain-during-an-attack-on-a-militia-outpost-in-davao-city-southe.md) _Context: New People's Army, Philippines_
-5. [The Philippines suspends trade relations with North Korea to comply with a recent United Nations Security Council resolution over its repeated missile tests. ](/news/2017/09/8/the-philippines-suspends-trade-relations-with-north-korea-to-comply-with-a-recent-united-nations-security-council-resolution-over-its-repeat.md) _Context: Philippines_
+5. [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md) _Context: Philippines_

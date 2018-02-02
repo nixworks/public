@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/21/india-executes-ajmal-kasab-the-lone-surviving-gunmen-in-the-2008-mumbai-attacks-he-is-hanged-after-his-mercy-petition-is-rejected.html)  [JSON](/news/2012/11/21/india-executes-ajmal-kasab-the-lone-surviving-gunmen-in-the-2008-mumbai-attacks-he-is-hanged-after-his-mercy-petition-is-rejected.json)  [XML](/news/2012/11/21/india-executes-ajmal-kasab-the-lone-surviving-gunmen-in-the-2008-mumbai-attacks-he-is-hanged-after-his-mercy-petition-is-rejected.xml)  
+
 ### [2012-11-21](/news/2012/11/21/index.md)
 
+##### India
 # India executes Ajmal Kasab, the lone surviving gunmen in the 2008 Mumbai attacks. He is hanged after his mercy petition is rejected. 
 
 India has hanged Mohammad Ajmal Kasab, the only militant to have survived the 2008 attacks on the financial capital Mumbai.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2012-11-21/an-indian-executes-mumbai-gunman-kasab/4384266)
 1. [Cover Image](http://www.abc.net.au/news/image/220620-1x1-700x700.jpg)

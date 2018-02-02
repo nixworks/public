@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/14/2004-south-african-legislative-election-the-african-national-congress-anc-of-president-thabo-mbeki-which-has-been-in-power-since-the-en.html)  [JSON](/news/2004/04/14/2004-south-african-legislative-election-the-african-national-congress-anc-of-president-thabo-mbeki-which-has-been-in-power-since-the-en.json)  [XML](/news/2004/04/14/2004-south-african-legislative-election-the-african-national-congress-anc-of-president-thabo-mbeki-which-has-been-in-power-since-the-en.xml)  
+
 ### [2004-04-14](/news/2004/04/14/index.md)
 
+##### 2004 South African legislative election
 #  2004 South African legislative election: The African National Congress (ANC) of President Thabo Mbeki, which has been in power since the end of the apartheid system in 1994, is re-elected with an increased majority. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2004/WORLD/africa/04/15/safrica.elections/)
 

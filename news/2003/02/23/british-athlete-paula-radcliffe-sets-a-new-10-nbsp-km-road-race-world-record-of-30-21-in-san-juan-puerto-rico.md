@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/23/british-athlete-paula-radcliffe-sets-a-new-10-nbsp-km-road-race-world-record-of-30-21-in-san-juan-puerto-rico.html)  [JSON](/news/2003/02/23/british-athlete-paula-radcliffe-sets-a-new-10-nbsp-km-road-race-world-record-of-30-21-in-san-juan-puerto-rico.json)  [XML](/news/2003/02/23/british-athlete-paula-radcliffe-sets-a-new-10-nbsp-km-road-race-world-record-of-30-21-in-san-juan-puerto-rico.xml)  
+
 ### [2003-02-23](/news/2003/02/23/index.md)
 
+##### Paula Radcliffe
 #  British athlete Paula Radcliffe sets a new 10&nbsp;km road race world record of 30:21 in San Juan, Puerto Rico.
 
 

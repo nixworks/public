@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/29/1-person-dies-as-the-sumatran-volcano-sinabung-prompts-a-red-alert-by-erupting-for-the-first-time-in-over-400-years-leading-to-indonesia-ev.html)  [JSON](/news/2010/08/29/1-person-dies-as-the-sumatran-volcano-sinabung-prompts-a-red-alert-by-erupting-for-the-first-time-in-over-400-years-leading-to-indonesia-ev.json)  [XML](/news/2010/08/29/1-person-dies-as-the-sumatran-volcano-sinabung-prompts-a-red-alert-by-erupting-for-the-first-time-in-over-400-years-leading-to-indonesia-ev.xml)  
+
 ### [2010-08-29](/news/2010/08/29/index.md)
 
+##### Sumatra
 # 1 person dies as the Sumatran volcano Sinabung prompts a red alert by erupting for the first time in over 400 years, leading to Indonesia evacuating thousands of people. 
 
 Indonesia issues a red alert after the Sinabung volcano on Sumatra erupts, spewing smoke and ash and forcing the evacuation of thousands.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Online](http://www.abc.net.au/news/stories/2010/08/29/2996474.htm?section=justin)
 2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hNV5wQJkwQ-Cfn7_tdJST4ANIZpQ)

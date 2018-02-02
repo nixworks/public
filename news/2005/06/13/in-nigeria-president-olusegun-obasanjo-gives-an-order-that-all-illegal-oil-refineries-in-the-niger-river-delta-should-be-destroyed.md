@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/13/in-nigeria-president-olusegun-obasanjo-gives-an-order-that-all-illegal-oil-refineries-in-the-niger-river-delta-should-be-destroyed.html)  [JSON](/news/2005/06/13/in-nigeria-president-olusegun-obasanjo-gives-an-order-that-all-illegal-oil-refineries-in-the-niger-river-delta-should-be-destroyed.json)  [XML](/news/2005/06/13/in-nigeria-president-olusegun-obasanjo-gives-an-order-that-all-illegal-oil-refineries-in-the-niger-river-delta-should-be-destroyed.xml)  
+
 ### [2005-06-13](/news/2005/06/13/index.md)
 
+##### Nigeria
 #  In Nigeria, president Olusegun Obasanjo gives an order that all illegal oil refineries in the Niger River delta should be destroyed 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IHT](http://www.iht.com/articles/2005/06/13/news/briefs.php)
 2. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:42adb2e0:4ee9f41d30d3c?type=businessNews&localeKey=en_ZA&storyID=8775313)

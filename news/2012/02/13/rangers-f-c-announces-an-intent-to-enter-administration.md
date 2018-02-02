@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/13/rangers-f-c-announces-an-intent-to-enter-administration.html)  [JSON](/news/2012/02/13/rangers-f-c-announces-an-intent-to-enter-administration.json)  [XML](/news/2012/02/13/rangers-f-c-announces-an-intent-to-enter-administration.xml)  
+
 ### [2012-02-13](/news/2012/02/13/index.md)
 
+##### Rangers F.C.
 # Rangers F.C. announces an intent to enter administration. 
 
 Rangers Football Club lodges legal papers signalling its intention to go into administration.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-glasgow-west-17015966)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/58480000/jpg/_58480414_ibrox_landscape_bbc.jpg)

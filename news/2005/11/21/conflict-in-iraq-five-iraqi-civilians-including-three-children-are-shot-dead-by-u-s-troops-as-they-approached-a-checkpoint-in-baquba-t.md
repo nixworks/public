@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/21/conflict-in-iraq-five-iraqi-civilians-including-three-children-are-shot-dead-by-u-s-troops-as-they-approached-a-checkpoint-in-baquba-t.html)  [JSON](/news/2005/11/21/conflict-in-iraq-five-iraqi-civilians-including-three-children-are-shot-dead-by-u-s-troops-as-they-approached-a-checkpoint-in-baquba-t.json)  [XML](/news/2005/11/21/conflict-in-iraq-five-iraqi-civilians-including-three-children-are-shot-dead-by-u-s-troops-as-they-approached-a-checkpoint-in-baquba-t.xml)  
+
 ### [2005-11-21](/news/2005/11/21/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: Five Iraqi civilians, including three children, are shot dead by U.S. troops as they approached a checkpoint in Baquba. The minibus they were travelling in failed to stop as it approached a roadblock. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4456244.stm)
 

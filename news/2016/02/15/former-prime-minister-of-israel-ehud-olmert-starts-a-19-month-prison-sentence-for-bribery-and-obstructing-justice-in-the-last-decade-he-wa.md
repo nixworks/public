@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/15/former-prime-minister-of-israel-ehud-olmert-sta
 
 ### [2016-02-15](/news/2016/02/15/index.md)
 
+##### Israeli Prime Minister
 # Former Prime Minister of Israel Ehud Olmert starts a 19-month prison sentence for bribery and obstructing justice. In the last decade, he was found or admitted guilty in four different corruption investigations. 
 
 

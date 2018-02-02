@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/11/three-suicide-bombers-attack-a-police-command-c
 
 ### [2017-10-11](/news/2017/10/11/index.md)
 
+##### Syrian Civil War
 # Three suicide bombers attack a police command center in Damascus, killing two people and injuring six others. 
 
 Three men blew themselves up near the police headquarters in central Damascus on Wednesday, killing two people and injuring six others, state media said, citing the interior ministry.

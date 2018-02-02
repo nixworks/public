@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/15/in-a-televised-debate-madagascar-s-prime-minister-monja-roindefo-accuses-the-international-community-of-betraying-president-andry-rajoelin.html)  [JSON](/news/2009/09/15/in-a-televised-debate-madagascar-s-prime-minister-monja-roindefo-accuses-the-international-community-of-betraying-president-andry-rajoelin.json)  [XML](/news/2009/09/15/in-a-televised-debate-madagascar-s-prime-minister-monja-roindefo-accuses-the-international-community-of-betraying-president-andry-rajoelin.xml)  
+
 ### [2009-09-15](/news/2009/09/15/index.md)
 
+##### Madagascar
 #  In a televised debate, Madagascar's Prime Minister Monja Roindefo accuses the international community of betraying President Andry Rajoelina and warns the island risks being "torn into fiefdoms ruled by warlords". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=84&art_id=nw20090916132627133C675798)
 

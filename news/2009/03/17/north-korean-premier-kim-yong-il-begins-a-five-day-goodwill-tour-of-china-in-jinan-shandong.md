@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/17/north-korean-premier-kim-yong-il-begins-a-five-day-goodwill-tour-of-china-in-jinan-shandong.html)  [JSON](/news/2009/03/17/north-korean-premier-kim-yong-il-begins-a-five-day-goodwill-tour-of-china-in-jinan-shandong.json)  [XML](/news/2009/03/17/north-korean-premier-kim-yong-il-begins-a-five-day-goodwill-tour-of-china-in-jinan-shandong.xml)  
+
 ### [2009-03-17](/news/2009/03/17/index.md)
 
+##### North Korea
 #  North Korean Premier Kim Yong-il begins a five-day goodwill tour of China in Jinan, Shandong. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/oilRpt/idUKPEK27481220090317)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

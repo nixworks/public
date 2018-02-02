@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/13/seven-countries-who-have-faced-accusations-of-human-rights-violations-win-three-year-seats-on-the-united-nations-human-rights-council-in-an.html)  [JSON](/news/2010/05/13/seven-countries-who-have-faced-accusations-of-human-rights-violations-win-three-year-seats-on-the-united-nations-human-rights-council-in-an.json)  [XML](/news/2010/05/13/seven-countries-who-have-faced-accusations-of-human-rights-violations-win-three-year-seats-on-the-united-nations-human-rights-council-in-an.xml)  
+
 ### [2010-05-13](/news/2010/05/13/index.md)
 
+##### Human Rights Council
 # Seven countries who have faced accusations of human rights violations win three-year seats on the United Nations Human Rights Council in an uncontested election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gZdLKJ1DpWlvYd0Jh0EKv9h-ynAQD9FM4CEG0)
 2. [Reuters Canada](http://ca.reuters.com/article/topNews/idCATRE64C5DM20100513)

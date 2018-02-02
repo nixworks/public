@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/23/peter-harry-carstensen-premier-of-the-state-of-schleswig-holstein-intentionally-loses-a-vote-of-confidence-clearing-the-way-for-early-el.html)  [JSON](/news/2009/07/23/peter-harry-carstensen-premier-of-the-state-of-schleswig-holstein-intentionally-loses-a-vote-of-confidence-clearing-the-way-for-early-el.json)  [XML](/news/2009/07/23/peter-harry-carstensen-premier-of-the-state-of-schleswig-holstein-intentionally-loses-a-vote-of-confidence-clearing-the-way-for-early-el.xml)  
+
 ### [2009-07-23](/news/2009/07/23/index.md)
 
+##### Peter Harry Carstensen
 #  Peter Harry Carstensen, premier of the state of Schleswig-Holstein, intentionally loses a vote of confidence, clearing the way for early elections simultaneously with the German federal election, 2009. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,4512446,00.html)
 

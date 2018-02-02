@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/28/denmark-gets-a-new-coalition-government-as-the-
 
 ### [2016-11-28](/news/2016/11/28/index.md)
 
+##### Lars Lokke Rasmussen III Cabinet
 # Denmark gets a new coalition government as the centre-right liberal party Venstre joins forces with the Conservative People's Party and the libertarian-leaning Liberal Alliance whose leader, Anders Samuelsen, becomes Denmark's sixth foreign minister in six years. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/4/official-figures-indicate-that-at-least-144-people-were-injured-at-an-armenian-government-campaign-event-in-yerevan-s-central-square-after-a.html)  [JSON](/news/2012/05/4/official-figures-indicate-that-at-least-144-people-were-injured-at-an-armenian-government-campaign-event-in-yerevan-s-central-square-after-a.json)  [XML](/news/2012/05/4/official-figures-indicate-that-at-least-144-people-were-injured-at-an-armenian-government-campaign-event-in-yerevan-s-central-square-after-a.xml)  
+
 ### [2012-05-4](/news/2012/05/4/index.md)
 
+##### Armenia
 # Official figures indicate that at least 144 people were injured at an Armenian government campaign event in Yerevan's central square after an explosion during a political rally. 
 
 At least 144 people are injured at a political event in the Armenia capital after clusters of gas balloons explode, officials say.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/05/20125418222806654.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-17964976)

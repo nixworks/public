@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/08/20/maoist-rebels-shoot-a-police-officer-and-detonate-two-bombs-in-kathmandu-the-capital-of-nepal.html)  [JSON](/news/2004/08/20/maoist-rebels-shoot-a-police-officer-and-detonate-two-bombs-in-kathmandu-the-capital-of-nepal.json)  [XML](/news/2004/08/20/maoist-rebels-shoot-a-police-officer-and-detonate-two-bombs-in-kathmandu-the-capital-of-nepal.xml)  
+
 ### [2004-08-20](/news/2004/08/20/index.md)
 
+##### Maoist
 #  Maoist rebels shoot a police officer and detonate two bombs in Kathmandu, the capital of Nepal. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1092998242293&call_pageid=968332188492&col=968705899037)
+1. [Toronto Star](https://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1092998242293&call_pageid=968332188492&col=968705899037)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/15/president-of-the-united-states-george-w-bush-president-of-mexico-felipe-caldera3n-and-the-prime-minister-of-canada-stephen-harper-to-meet.html)  [JSON](/news/2007/08/15/president-of-the-united-states-george-w-bush-president-of-mexico-felipe-caldera3n-and-the-prime-minister-of-canada-stephen-harper-to-meet.json)  [XML](/news/2007/08/15/president-of-the-united-states-george-w-bush-president-of-mexico-felipe-caldera3n-and-the-prime-minister-of-canada-stephen-harper-to-meet.xml)  
+
 ### [2007-08-15](/news/2007/08/15/index.md)
 
+##### U.S. President
 #  President of the United States George W. Bush, President of Mexico Felipe Calderon and the Prime Minister of Canada Stephen Harper to meet later this month under the North American Security and Prosperity Partnership (SPP) mechanism to discuss economic and security issues. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China View](http://news.xinhuanet.com/english/2007-08/16/content_6541110.htm)
 

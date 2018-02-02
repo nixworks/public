@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/7/a-u-s-house-resolution-unanimously-passes-397a0-
 
 ### [2017-06-7](/news/2017/06/7/index.md)
 
+##### 2017 clashes at the Turkish Ambassador's Residence in Washington, D.C.
 # A U.S. House resolution unanimously passes 397-0 calling for all Turkish security guards involved in the May 16 clashes to be charged and prosecuted under United States law. 
 
 

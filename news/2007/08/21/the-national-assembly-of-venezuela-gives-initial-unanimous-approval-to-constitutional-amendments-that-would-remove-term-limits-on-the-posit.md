@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/21/the-national-assembly-of-venezuela-gives-initial-unanimous-approval-to-constitutional-amendments-that-would-remove-term-limits-on-the-posit.html)  [JSON](/news/2007/08/21/the-national-assembly-of-venezuela-gives-initial-unanimous-approval-to-constitutional-amendments-that-would-remove-term-limits-on-the-posit.json)  [XML](/news/2007/08/21/the-national-assembly-of-venezuela-gives-initial-unanimous-approval-to-constitutional-amendments-that-would-remove-term-limits-on-the-posit.xml)  
+
 ### [2007-08-21](/news/2007/08/21/index.md)
 
+##### National Assembly
 #  The National Assembly of Venezuela gives initial unanimous approval to constitutional amendments that would remove term limits on the position of President of Venezuela currently held by Hugo Chvez. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS](http://www.cbsnews.com/stories/2007/08/21/ap/world/main3192709.shtml)
 

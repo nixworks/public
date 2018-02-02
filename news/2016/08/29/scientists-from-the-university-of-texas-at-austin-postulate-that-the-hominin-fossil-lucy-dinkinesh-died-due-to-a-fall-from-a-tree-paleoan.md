@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/29/scientists-from-the-university-of-texas-at-aust
 
 ### [2016-08-29](/news/2016/08/29/index.md)
 
+##### University of Texas at Austin
 # Scientists from the University of Texas at Austin postulate that the hominin fossil Lucy (Dinkinesh) died due to a fall from a tree. Paleoanthropologist Donald Johanson, who is credited with discovering and naming Lucy, disagrees. 
 
 New analysis suggests that Lucy—one of the most complete hominin fossils ever found—met a tragic end three million years ago.

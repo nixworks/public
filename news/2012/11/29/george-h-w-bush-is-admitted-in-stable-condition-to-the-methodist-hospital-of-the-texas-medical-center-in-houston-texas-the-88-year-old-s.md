@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/29/george-h-w-bush-is-admitted-in-stable-condition-to-the-methodist-hospital-of-the-texas-medical-center-in-houston-texas-the-88-year-old-s.html)  [JSON](/news/2012/11/29/george-h-w-bush-is-admitted-in-stable-condition-to-the-methodist-hospital-of-the-texas-medical-center-in-houston-texas-the-88-year-old-s.json)  [XML](/news/2012/11/29/george-h-w-bush-is-admitted-in-stable-condition-to-the-methodist-hospital-of-the-texas-medical-center-in-houston-texas-the-88-year-old-s.xml)  
+
 ### [2012-11-29](/news/2012/11/29/index.md)
 
+##### George H. W. Bush
 # George H. W. Bush is admitted in stable condition to The Methodist Hospital of the Texas Medical Center in Houston, Texas. The 88-year-old served as the 41st President of the United States from 1989 till 1993 and was hospitalized due to a severe cough and bronchitis but is expected to be discharged within 72 hours. 
 
 Former president, 88, has been in the hospital for a week battling a cough; condition not considered life threatening
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/8301-34222_162-57556182-10391739/george-h.w-bush-hospitalization-draws-concern/)
 2. [CNN](http://politicalticker.blogs.cnn.com/2012/11/29/former-president-george-h-w-bush-hospitalized/)

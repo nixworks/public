@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/31/american-conservative-christian-lobby-group-one-million-moms-launches-a-campaign-against-the-decision-of-dc-and-marvel-comics-to-include-ope.html)  [JSON](/news/2012/05/31/american-conservative-christian-lobby-group-one-million-moms-launches-a-campaign-against-the-decision-of-dc-and-marvel-comics-to-include-ope.json)  [XML](/news/2012/05/31/american-conservative-christian-lobby-group-one-million-moms-launches-a-campaign-against-the-decision-of-dc-and-marvel-comics-to-include-ope.xml)  
+
 ### [2012-05-31](/news/2012/05/31/index.md)
 
+##### conservative Christian
 # American conservative Christian lobby group One Million Moms launches a campaign against the decision of DC and Marvel Comics to include openly gay characters in their comics. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/books/2012/may/31/gay-superheroes-graphic-novels)
 

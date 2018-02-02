@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2010/08/11/pope-benedict-xvi-refuses-the-resignations-of-irish-bishops-eamonn-walsh-and-raymond-field-who-resigned-at-christmas-over-criticism-in-the.html)  [JSON](/news/2010/08/11/pope-benedict-xvi-refuses-the-resignations-of-irish-bishops-eamonn-walsh-and-raymond-field-who-resigned-at-christmas-over-criticism-in-the.json)  [XML](/news/2010/08/11/pope-benedict-xvi-refuses-the-resignations-of-irish-bishops-eamonn-walsh-and-raymond-field-who-resigned-at-christmas-over-criticism-in-the.xml)  
+
 ### [2010-08-11](/news/2010/08/11/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI refuses the resignations of Irish bishops Eamonn Walsh and Raymond Field, who resigned at Christmas over criticism in the Murphy Report into child sexual abuse. 
 
 Pope Benedict XVI declines to accept the resignations of two Irish bishops who stood down at Christmas.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10941653)
 2. [RTÉ](http://www.rte.ie/news/2010/0811/abuse.html)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/aug/11/pope-rejects-resignation-irish-bishops)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0811/breaking38.html?via=rel)
-5. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/08/11/AR2010081102265.html)
+5. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/08/11/AR2010081102265.html)
 5. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:

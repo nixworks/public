@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2010/07/13/the-united-states-senate-announces-it-will-vote-on-financial-reform-legislations-on-15-july.html)  [JSON](/news/2010/07/13/the-united-states-senate-announces-it-will-vote-on-financial-reform-legislations-on-15-july.json)  [XML](/news/2010/07/13/the-united-states-senate-announces-it-will-vote-on-financial-reform-legislations-on-15-july.xml)  
+
 ### [2010-07-13](/news/2010/07/13/index.md)
 
+##### United States Senate
 # The United States Senate announces it will vote on financial reform legislations on 15 July. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/07/13/AR2010071303143.html)
+1. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/07/13/AR2010071303143.html)
 
 ### Related:
 
 1. [The United States Senate passes the financial reform package, aimed at curbing misconduct on Wall Street, with a 60-39 vote. ](/news/2010/07/15/the-united-states-senate-passes-the-financial-reform-package-aimed-at-curbing-misconduct-on-wall-street-with-a-60-39-vote.md) _Context: United States Senate, financial reform_
-2. [The United States Senate, in a 92-5 vote, confirms Christopher A. Wray as Director of the Federal Bureau of Investigation. ](/news/2017/08/1/the-united-states-senate-in-a-92a5-vote-confirms-christopher-a-wray-as-director-of-the-federal-bureau-of-investigation.md) _Context: United States Senate_
-3. [The American Health Care Act of 2017, an attempt to repeal the Patient Protection and Affordable Care Act, fails passage in the United States Senate. ](/news/2017/07/28/the-american-health-care-act-of-2017-an-attempt-to-repeal-the-patient-protection-and-affordable-care-act-fails-passage-in-the-united-state.md) _Context: United States Senate_
-4. [The United States Senate rejects "repeal only" propositions of the Patient Protection and Affordable Care Act. United States President Donald Trump lashes out at Republican Senator Lisa Murkowski, who voted against the proposal. ](/news/2017/07/26/the-united-states-senate-rejects-repeal-only-propositions-of-the-patient-protection-and-affordable-care-act-united-states-president-donal.md) _Context: United States Senate_
-5. [The U.S. Senate votes to open debate on repealing and possibly replacing Obamacare. ](/news/2017/07/25/the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.md) _Context: United States Senate_
+2. [Two new Democratic senators&mdash;Doug Jones of Alabama and Tina Smith of Minnesota&mdash;are sworn in, bringing the Republican majority down to 51&ndash;49. ](/news/2018/01/3/two-new-democratic-senators-mdash-doug-jones-of-alabama-and-tina-smith-of-minnesota-mdash-are-sworn-in-bringing-the-republican-majority-dow.md) _Context: United States Senate_
+3. [The United States Senate confirms Jerome Powell as chairman of the Federal Reserve Bank with 84 votes for and 13 against. ](/news/2018/01/23/the-united-states-senate-confirms-jerome-powell-as-chairman-of-the-federal-reserve-bank-with-84-votes-for-and-13-against.md) _Context: United States Senate_
+4. [The United States Senate reaches an agreement to reopen federal agencies through to February 8. A bill is working its way through the legislative process. The first Senate vote was 81-18. ](/news/2018/01/22/the-united-states-senate-reaches-an-agreement-to-reopen-federal-agencies-through-to-february-8-a-bill-is-working-its-way-through-the-legisl.md) _Context: United States Senate_
+5. [ The United States federal government shuts down after the United States Senate fails to pass a budget bill. ](/news/2018/01/20/the-united-states-federal-government-shuts-down-after-the-united-states-senate-fails-to-pass-a-budget-bill.md) _Context: United States Senate_

@@ -1,14 +1,19 @@
+
+Formats: [HTML](/news/2011/01/31/the-40th-canadian-parliament-returns-to-session-amid-speculation-of-an-impending-election-after-an-extended-holiday-break.html)  [JSON](/news/2011/01/31/the-40th-canadian-parliament-returns-to-session-amid-speculation-of-an-impending-election-after-an-extended-holiday-break.json)  [XML](/news/2011/01/31/the-40th-canadian-parliament-returns-to-session-amid-speculation-of-an-impending-election-after-an-extended-holiday-break.xml)  
+
 ### [2011-01-31](/news/2011/01/31/index.md)
 
+##### 40th Canadian Parliament
 # The 40th Canadian Parliament returns to session amid speculation of an impending election after an extended "holiday break". 
 
+Canadian Prime Minister Stephen Harper will be under pressure from opposition lawmakers to reverse corporate tax cuts and extend government stimulus as a condition for keeping his government in power when Parliament reconvenes today.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2011-01-31/harper-pressured-to-scrap-tax-cuts-as-canadian-lawmakers-return.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2011-01-31/harper-pressured-to-scrap-tax-cuts-as-canadian-lawmakers-return.html)
 2. [CTV Edmonton](http://edmonton.ctv.ca/servlet/an/local/CTVNews/20110131/parliament-resumes-110131/20110131/?hub=EdmontonHome)
+2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/1999/01/1/an-avalanche-destroys-a-school-gymnasium-during-
 
 ### [1999-01-1](/news/1999/01/1/index.md)
 
+##### avalanche
 #  An avalanche destroys a school gymnasium during New Year celebrations in Kangiqsualujjuaq in far northern Quebec, killing nine.
 
 

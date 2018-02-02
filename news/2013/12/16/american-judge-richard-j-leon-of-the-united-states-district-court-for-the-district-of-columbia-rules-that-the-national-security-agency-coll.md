@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/16/american-judge-richard-j-leon-of-the-united-states-district-court-for-the-district-of-columbia-rules-that-the-national-security-agency-coll.html)  [JSON](/news/2013/12/16/american-judge-richard-j-leon-of-the-united-states-district-court-for-the-district-of-columbia-rules-that-the-national-security-agency-coll.json)  [XML](/news/2013/12/16/american-judge-richard-j-leon-of-the-united-states-district-court-for-the-district-of-columbia-rules-that-the-national-security-agency-coll.xml)  
+
 ### [2013-12-16](/news/2013/12/16/index.md)
 
+##### Richard Leon
 # American judge Richard J. Leon of the United States District Court for the District of Columbia rules that the National Security Agency collecting domestic phone records was unconstitutional in "Klayman vs Obama". A stay has been placed on the ruling pending an appeal by the US Government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2013/12/16/justice/nsa-surveillance-court-ruling/index.html)
 

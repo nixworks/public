@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/21/muqtada-al-sadr-s-bloc-lifts-its-boycott-of-the-iraqi-political-process-and-rejoins-the-government.html)  [JSON](/news/2007/01/21/muqtada-al-sadr-s-bloc-lifts-its-boycott-of-the-iraqi-political-process-and-rejoins-the-government.json)  [XML](/news/2007/01/21/muqtada-al-sadr-s-bloc-lifts-its-boycott-of-the-iraqi-political-process-and-rejoins-the-government.xml)  
+
 ### [2007-01-21](/news/2007/01/21/index.md)
 
+##### Muqtada al-Sadr
 #  Muqtada al-Sadr's bloc lifts its boycott of the Iraqi political process and rejoins the government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Daily Comet](http://www.dailycomet.com/apps/pbcs.dll/article?AID=/20070121/API/701210699)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/23/pakistan-again-officially-protests-against-the-u-s-drone-strikes-calling-them-unlawful-against-international-law-and-a-violation-of-pakis.html)  [JSON](/news/2012/08/23/pakistan-again-officially-protests-against-the-u-s-drone-strikes-calling-them-unlawful-against-international-law-and-a-violation-of-pakis.json)  [XML](/news/2012/08/23/pakistan-again-officially-protests-against-the-u-s-drone-strikes-calling-them-unlawful-against-international-law-and-a-violation-of-pakis.xml)  
+
 ### [2012-08-23](/news/2012/08/23/index.md)
 
+##### Pakistan
 # Pakistan again officially protests against the U.S. drone strikes, calling them unlawful, against international law and a violation of Pakistan's sovereignty. Pakistan states emphatically that the attacks are "unacceptable". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Pakistan Ministry of Foreign Affairs](http://www.mofa.gov.pk/mfa/pages/article.aspx?id=1270&type=1)
 

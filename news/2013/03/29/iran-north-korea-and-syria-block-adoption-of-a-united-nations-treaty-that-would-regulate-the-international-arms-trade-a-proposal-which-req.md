@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/29/iran-north-korea-and-syria-block-adoption-of-a-united-nations-treaty-that-would-regulate-the-international-arms-trade-a-proposal-which-req.html)  [JSON](/news/2013/03/29/iran-north-korea-and-syria-block-adoption-of-a-united-nations-treaty-that-would-regulate-the-international-arms-trade-a-proposal-which-req.json)  [XML](/news/2013/03/29/iran-north-korea-and-syria-block-adoption-of-a-united-nations-treaty-that-would-regulate-the-international-arms-trade-a-proposal-which-req.xml)  
+
 ### [2013-03-29](/news/2013/03/29/index.md)
 
+##### Iran
 # Iran, North Korea and Syria block adoption of a United Nations treaty that would regulate the international arms trade, a proposal which required agreement by all 193 UN member states. 
 
 Move prevents adoption of first-ever international treaty to regulate the $70bn global conventional weapons trade.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/03/2013328202658934672.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/3/18/201331814514892734_20.jpg)

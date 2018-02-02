@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/1/japan-self-defense-forces-and-the-members-of-the-united-states-armed-forces-search-for-people-still-missing-after-the-2011-tahoku-earthquak.html)  [JSON](/news/2011/04/1/japan-self-defense-forces-and-the-members-of-the-united-states-armed-forces-search-for-people-still-missing-after-the-2011-tahoku-earthquak.json)  [XML](/news/2011/04/1/japan-self-defense-forces-and-the-members-of-the-united-states-armed-forces-search-for-people-still-missing-after-the-2011-tahoku-earthquak.xml)  
+
 ### [2011-04-1](/news/2011/04/1/index.md)
 
+##### military
 # Japan Self-Defense Forces and the members of the United States Armed Forces search for people still missing after the 2011 Tohoku earthquake and tsunami. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kyodo](http://english.kyodonews.jp/news/2011/04/82460.html)
 

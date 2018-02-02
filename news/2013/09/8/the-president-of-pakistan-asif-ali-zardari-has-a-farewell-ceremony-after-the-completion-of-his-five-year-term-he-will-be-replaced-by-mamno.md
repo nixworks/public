@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/8/the-president-of-pakistan-asif-ali-zardari-has-a-farewell-ceremony-after-the-completion-of-his-five-year-term-he-will-be-replaced-by-mamno.html)  [JSON](/news/2013/09/8/the-president-of-pakistan-asif-ali-zardari-has-a-farewell-ceremony-after-the-completion-of-his-five-year-term-he-will-be-replaced-by-mamno.json)  [XML](/news/2013/09/8/the-president-of-pakistan-asif-ali-zardari-has-a-farewell-ceremony-after-the-completion-of-his-five-year-term-he-will-be-replaced-by-mamno.xml)  
+
 ### [2013-09-8](/news/2013/09/8/index.md)
 
+##### president
 # The President of Pakistan, Asif Ali Zardari has a farewell ceremony after the completion of his five year term. He will be replaced by Mamnoon Hussain. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/pakistani-president-steps-down-term-completion)
 

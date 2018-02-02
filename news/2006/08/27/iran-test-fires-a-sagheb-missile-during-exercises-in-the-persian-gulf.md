@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/27/iran-test-fires-a-sagheb-missile-during-exercises-in-the-persian-gulf.html)  [JSON](/news/2006/08/27/iran-test-fires-a-sagheb-missile-during-exercises-in-the-persian-gulf.json)  [XML](/news/2006/08/27/iran-test-fires-a-sagheb-missile-during-exercises-in-the-persian-gulf.xml)  
+
 ### [2006-08-27](/news/2006/08/27/index.md)
 
+##### Iran
 #  Iran test-fires a Sagheb missile during exercises in the Persian Gulf. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TVNZ](http://tvnz.co.nz/view/page/411366/821910)
 

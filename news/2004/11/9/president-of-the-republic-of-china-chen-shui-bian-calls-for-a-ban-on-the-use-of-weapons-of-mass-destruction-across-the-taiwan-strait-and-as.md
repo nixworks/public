@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/9/president-of-the-republic-of-china-chen-shui-bian-calls-for-a-ban-on-the-use-of-weapons-of-mass-destruction-across-the-taiwan-strait-and-as.html)  [JSON](/news/2004/11/9/president-of-the-republic-of-china-chen-shui-bian-calls-for-a-ban-on-the-use-of-weapons-of-mass-destruction-across-the-taiwan-strait-and-as.json)  [XML](/news/2004/11/9/president-of-the-republic-of-china-chen-shui-bian-calls-for-a-ban-on-the-use-of-weapons-of-mass-destruction-across-the-taiwan-strait-and-as.xml)  
+
 ### [2004-11-9](/news/2004/11/9/index.md)
 
+##### President
 #  President of the Republic of China Chen Shui-bian calls for a ban on the use of weapons of mass destruction across the Taiwan Strait and asked the People's Republic of China to do the same. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA](http://www.voanews.com/english/2004-11-10-voa21.cfm)
 

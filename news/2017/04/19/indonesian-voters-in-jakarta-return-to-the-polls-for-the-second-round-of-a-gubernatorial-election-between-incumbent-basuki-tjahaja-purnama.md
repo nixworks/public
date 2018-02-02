@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/19/indonesian-voters-in-jakarta-return-to-the-poll
 
 ### [2017-04-19](/news/2017/04/19/index.md)
 
+##### Jakarta gubernatorial election, 2017
 # Indonesian voters in Jakarta return to the polls for the second round of a gubernatorial election between incumbent Basuki Tjahaja Purnama, whose alleged blasphemy sparked mass protests in November, and Anies Baswedan. Opinion polls give Baswedan a narrow lead. 
 
 The second round of voting in a bitterly fought campaign for Jakarta&#039;s top job will take place tomorrow, and while it is difficult to predict who will win, unrest over either outcome is likely.

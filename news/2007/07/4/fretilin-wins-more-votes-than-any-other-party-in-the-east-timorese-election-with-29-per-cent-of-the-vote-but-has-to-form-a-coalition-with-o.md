@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/07/4/fretilin-wins-more-votes-than-any-other-party-in-the-east-timorese-election-with-29-per-cent-of-the-vote-but-has-to-form-a-coalition-with-o.html)  [JSON](/news/2007/07/4/fretilin-wins-more-votes-than-any-other-party-in-the-east-timorese-election-with-29-per-cent-of-the-vote-but-has-to-form-a-coalition-with-o.json)  [XML](/news/2007/07/4/fretilin-wins-more-votes-than-any-other-party-in-the-east-timorese-election-with-29-per-cent-of-the-vote-but-has-to-form-a-coalition-with-o.xml)  
+
 ### [2007-07-4](/news/2007/07/4/index.md)
 
+##### Fretilin
 #  Fretilin wins more votes than any other party in the East Timorese election with 29 per cent of the vote but has to form a coalition with other parties to form a government. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via the Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/07/04/AR2007070401362.html)
+1. [AP via the Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2007/07/04/AR2007070401362.html)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

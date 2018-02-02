@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/31/incumbent-fradique-de-menezes-wins-sao-tome-and-principe-s-presidential-election.html)  [JSON](/news/2006/07/31/incumbent-fradique-de-menezes-wins-sao-tome-and-principe-s-presidential-election.json)  [XML](/news/2006/07/31/incumbent-fradique-de-menezes-wins-sao-tome-and-principe-s-presidential-election.xml)  
+
 ### [2006-07-31](/news/2006/07/31/index.md)
 
+##### Fradique de Menezes
 #  Incumbent Fradique de Menezes wins So Tom and Prncipe's presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://za.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-07-31T122600Z_01_ALL143234_RTRIDST_0_OZATP-SAOTOME-ELECTION-20060731.XML&archived=False)
 

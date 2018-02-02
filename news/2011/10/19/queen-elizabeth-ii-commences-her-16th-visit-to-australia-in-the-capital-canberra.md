@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/19/queen-elizabeth-ii-commences-her-16th-visit-to-australia-in-the-capital-canberra.html)  [JSON](/news/2011/10/19/queen-elizabeth-ii-commences-her-16th-visit-to-australia-in-the-capital-canberra.json)  [XML](/news/2011/10/19/queen-elizabeth-ii-commences-her-16th-visit-to-australia-in-the-capital-canberra.xml)  
+
 ### [2011-10-19](/news/2011/10/19/index.md)
 
+##### Elizabeth II
 # Queen Elizabeth II commences her 16th visit to Australia in the capital Canberra. 
 
 The Queen will arrive in Canberra today for what may be her last official tour of Australia.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2011-10-19/queen-en-route-to-canberra/3578102)
 1. [Cover Image](http://www.abc.net.au/news/image/733512-1x1-700x700.jpg)

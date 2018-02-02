@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/20/the-54th-international-atomic-energy-agency-iaea-general-conference-opens-in-vienna-with-attendance-by-151-countries.html)  [JSON](/news/2010/09/20/the-54th-international-atomic-energy-agency-iaea-general-conference-opens-in-vienna-with-attendance-by-151-countries.json)  [XML](/news/2010/09/20/the-54th-international-atomic-energy-agency-iaea-general-conference-opens-in-vienna-with-attendance-by-151-countries.xml)  
+
 ### [2010-09-20](/news/2010/09/20/index.md)
 
+##### IAEA
 # The 54th International Atomic Energy Agency (IAEA) General Conference opens in Vienna with attendance by 151 countries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/20/c_13521741.htm)
 

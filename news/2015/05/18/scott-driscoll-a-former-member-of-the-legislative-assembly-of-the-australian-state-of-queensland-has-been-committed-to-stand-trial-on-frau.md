@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/18/scott-driscoll-a-former-member-of-the-legislative-assembly-of-the-australian-state-of-queensland-has-been-committed-to-stand-trial-on-frau.html)  [JSON](/news/2015/05/18/scott-driscoll-a-former-member-of-the-legislative-assembly-of-the-australian-state-of-queensland-has-been-committed-to-stand-trial-on-frau.json)  [XML](/news/2015/05/18/scott-driscoll-a-former-member-of-the-legislative-assembly-of-the-australian-state-of-queensland-has-been-committed-to-stand-trial-on-frau.xml)  
+
 ### [2015-05-18](/news/2015/05/18/index.md)
 
+##### Scott Driscoll
 # Scott Driscoll, a former member of the Legislative Assembly of the Australian state of Queensland, has been committed to stand trial on fraud charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Courier Mail](http://www.couriermail.com.au/news/queensland/former-queensland-mp-scott-driscoll-committed-to-stand-trial-on-16-fraud-and-fraud-related-charges/story-fnihsrf2-1227358731103?from=public_rss)
 

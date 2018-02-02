@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/19/dongfeng-motor-a-chinese-auto-company-is-buying-a-1-1-billion-equity-stake-in-psa-peugeot-citroen-for-800-million-euros-part-of-a-broade.html)  [JSON](/news/2014/02/19/dongfeng-motor-a-chinese-auto-company-is-buying-a-1-1-billion-equity-stake-in-psa-peugeot-citroen-for-800-million-euros-part-of-a-broade.json)  [XML](/news/2014/02/19/dongfeng-motor-a-chinese-auto-company-is-buying-a-1-1-billion-equity-stake-in-psa-peugeot-citroen-for-800-million-euros-part-of-a-broade.xml)  
+
 ### [2014-02-19](/news/2014/02/19/index.md)
 
+##### Dongfeng Motor
 # Dongfeng Motor, a Chinese auto company, is buying a $1.1 billion equity stake in PSA Peugeot Citroen for 800 million euros, part of a broader effort to bail out the struggling French concern. 
 
 Chinese state-owned automaker Dongfeng Motor is snapping up a billion dollar slice of struggling French company PSA Peugeot Citroen.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://money.cnn.com/2014/02/18/autos/dongfeng-peugeot/index.html)
 

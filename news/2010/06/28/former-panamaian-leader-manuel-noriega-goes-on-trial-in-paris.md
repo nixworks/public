@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/28/former-panamaian-leader-manuel-noriega-goes-on-trial-in-paris.html)  [JSON](/news/2010/06/28/former-panamaian-leader-manuel-noriega-goes-on-trial-in-paris.json)  [XML](/news/2010/06/28/former-panamaian-leader-manuel-noriega-goes-on-trial-in-paris.xml)  
+
 ### [2010-06-28](/news/2010/06/28/index.md)
 
+##### Panama
 # Former Panamaian leader Manuel Noriega goes on trial in Paris. 
 
 Ex-Panama leader faces charges of laundering Colombian drug money in French banks.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/201062811425764110.html)
 2. [Arab News](http://arabnews.com/world/article75074.ece)

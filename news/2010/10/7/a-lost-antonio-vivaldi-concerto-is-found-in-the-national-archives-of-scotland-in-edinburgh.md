@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/7/a-lost-antonio-vivaldi-concerto-is-found-in-the-national-archives-of-scotland-in-edinburgh.html)  [JSON](/news/2010/10/7/a-lost-antonio-vivaldi-concerto-is-found-in-the-national-archives-of-scotland-in-edinburgh.json)  [XML](/news/2010/10/7/a-lost-antonio-vivaldi-concerto-is-found-in-the-national-archives-of-scotland-in-edinburgh.xml)  
+
 ### [2010-10-7](/news/2010/10/7/index.md)
 
+##### Antonio Vivaldi
 # A lost Antonio Vivaldi concerto is found in the National Archives of Scotland in Edinburgh. 
 
 A lost flute concerto by the Italian composer Vivaldi is discovered at the National Archives of Scotland in Edinburgh.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-11491307)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/11/19/dutch-lawmaker-geert-wilders-one-of-the-most-controversial-dutch-politicians-advocates-a-five-year-halt-to-non-western-immigration-in-the.html)  [JSON](/news/2004/11/19/dutch-lawmaker-geert-wilders-one-of-the-most-controversial-dutch-politicians-advocates-a-five-year-halt-to-non-western-immigration-in-the.json)  [XML](/news/2004/11/19/dutch-lawmaker-geert-wilders-one-of-the-most-controversial-dutch-politicians-advocates-a-five-year-halt-to-non-western-immigration-in-the.xml)  
+
 ### [2004-11-19](/news/2004/11/19/index.md)
 
+##### Netherlands
 #  Dutch lawmaker Geert Wilders, one of the most controversial Dutch politicians, advocates a five-year halt to non-Western immigration in the wake of the murder of Theo van Gogh stating: "The Netherlands has been too tolerant to intolerant people for too long, we should not import a retarded political Islamic society to our country". 
 
 
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/aponline/international/AP-Netherlands-Opposing-Immigration.html)
+1. [NYT](https://www.nytimes.com/aponline/international/AP-Netherlands-Opposing-Immigration.html)
 
 ### Related:
 

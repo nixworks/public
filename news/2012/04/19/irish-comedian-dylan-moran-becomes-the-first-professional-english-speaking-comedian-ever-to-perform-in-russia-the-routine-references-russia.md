@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/19/irish-comedian-dylan-moran-becomes-the-first-professional-english-speaking-comedian-ever-to-perform-in-russia-the-routine-references-russia.html)  [JSON](/news/2012/04/19/irish-comedian-dylan-moran-becomes-the-first-professional-english-speaking-comedian-ever-to-perform-in-russia-the-routine-references-russia.json)  [XML](/news/2012/04/19/irish-comedian-dylan-moran-becomes-the-first-professional-english-speaking-comedian-ever-to-perform-in-russia-the-routine-references-russia.xml)  
+
 ### [2012-04-19](/news/2012/04/19/index.md)
 
+##### Dylan Moran
 # Irish comedian Dylan Moran becomes the first professional English-speaking comedian ever to perform in Russia. The routine references Russia's new law banning "homosexual propaganda" and jailed oil tycoon Mikhail Khodorkovsky. 
 
 Irish comedian Dylan Moran becomes the first professional English-speaking comedian ever to perform in Russia, it is claimed.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17771847)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59745000/jpg/_59745149_59745148.jpg)

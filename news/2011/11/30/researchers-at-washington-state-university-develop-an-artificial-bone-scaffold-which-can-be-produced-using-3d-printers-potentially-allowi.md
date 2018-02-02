@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/30/researchers-at-washington-state-university-develop-an-artificial-bone-scaffold-which-can-be-produced-using-3d-printers-potentially-allowi.html)  [JSON](/news/2011/11/30/researchers-at-washington-state-university-develop-an-artificial-bone-scaffold-which-can-be-produced-using-3d-printers-potentially-allowi.json)  [XML](/news/2011/11/30/researchers-at-washington-state-university-develop-an-artificial-bone-scaffold-which-can-be-produced-using-3d-printers-potentially-allowi.xml)  
+
 ### [2011-11-30](/news/2011/11/30/index.md)
 
+##### Washington State University
 # Researchers at Washington State University develop an artificial bone "scaffold" which can be produced using 3D printers, potentially allowing doctors to quickly print replacement bone tissue for injured patients. 
 
 Engineers say they have developed a bone-like substance that can be created by 3D printers to create a scaffold for new bone tissue to grow over.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/technology-15963467)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57032000/jpg/_57032401_xray.jpg)

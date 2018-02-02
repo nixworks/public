@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/29/the-memoir-of-george-w-bush-reveals-his-initial-belief-that-he-had-united-airlines-flight-93-shot-down-during-the-september-11-attacks-in-2.html)  [JSON](/news/2010/10/29/the-memoir-of-george-w-bush-reveals-his-initial-belief-that-he-had-united-airlines-flight-93-shot-down-during-the-september-11-attacks-in-2.json)  [XML](/news/2010/10/29/the-memoir-of-george-w-bush-reveals-his-initial-belief-that-he-had-united-airlines-flight-93-shot-down-during-the-september-11-attacks-in-2.xml)  
+
 ### [2010-10-29](/news/2010/10/29/index.md)
 
+##### George W. Bush
 # The memoir of George W. Bush reveals his initial belief that he had United Airlines Flight 93 shot down during the September 11 attacks in 2001. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2010/oct/29/george-bush-thought-9-11-plane-shot-down)
 

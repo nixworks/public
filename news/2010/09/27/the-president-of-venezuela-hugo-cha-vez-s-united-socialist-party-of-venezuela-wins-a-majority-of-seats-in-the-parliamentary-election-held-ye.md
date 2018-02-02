@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/27/the-president-of-venezuela-hugo-cha-vez-s-united-socialist-party-of-venezuela-wins-a-majority-of-seats-in-the-parliamentary-election-held-ye.html)  [JSON](/news/2010/09/27/the-president-of-venezuela-hugo-cha-vez-s-united-socialist-party-of-venezuela-wins-a-majority-of-seats-in-the-parliamentary-election-held-ye.json)  [XML](/news/2010/09/27/the-president-of-venezuela-hugo-cha-vez-s-united-socialist-party-of-venezuela-wins-a-majority-of-seats-in-the-parliamentary-election-held-ye.xml)  
+
 ### [2010-09-27](/news/2010/09/27/index.md)
 
+##### President
 # The President of Venezuela Hugo Chavez's United Socialist Party of Venezuela wins a majority of seats in the parliamentary election held yesterday but lost a two-thirds majority needed to pass major legislation unaided. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/09/2010927448633281.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11416238)

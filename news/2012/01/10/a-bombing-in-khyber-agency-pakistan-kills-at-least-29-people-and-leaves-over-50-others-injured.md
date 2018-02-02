@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/10/a-bombing-in-khyber-agency-pakistan-kills-at-least-29-people-and-leaves-over-50-others-injured.html)  [JSON](/news/2012/01/10/a-bombing-in-khyber-agency-pakistan-kills-at-least-29-people-and-leaves-over-50-others-injured.json)  [XML](/news/2012/01/10/a-bombing-in-khyber-agency-pakistan-kills-at-least-29-people-and-leaves-over-50-others-injured.xml)  
+
 ### [2012-01-10](/news/2012/01/10/index.md)
 
+##### bombing
 # A bombing in Khyber Agency, Pakistan, kills at least 29 people and leaves over 50 others injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Vancouver Sun](http://www.vancouversun.com/news/canada-in-afghanistan/Bombing+kills+least+Pakistan+Khyber+region/5971080/story.html)
 

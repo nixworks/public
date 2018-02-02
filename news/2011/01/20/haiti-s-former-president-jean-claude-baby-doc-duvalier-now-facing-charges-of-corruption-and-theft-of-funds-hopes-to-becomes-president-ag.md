@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/20/haiti-s-former-president-jean-claude-baby-doc-duvalier-now-facing-charges-of-corruption-and-theft-of-funds-hopes-to-becomes-president-ag.html)  [JSON](/news/2011/01/20/haiti-s-former-president-jean-claude-baby-doc-duvalier-now-facing-charges-of-corruption-and-theft-of-funds-hopes-to-becomes-president-ag.json)  [XML](/news/2011/01/20/haiti-s-former-president-jean-claude-baby-doc-duvalier-now-facing-charges-of-corruption-and-theft-of-funds-hopes-to-becomes-president-ag.xml)  
+
 ### [2011-01-20](/news/2011/01/20/index.md)
 
+##### Haiti
 # Haiti's former president Jean-Claude "Baby Doc" Duvalier, now facing charges of corruption and theft of funds, hopes to becomes president again, according to his lawyer. 
 
 Former president Jean-Claude Duvalier seeks a return to power, despite facing corruption and theft charges.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/01/201111919453709343.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/19/2011119203243285572_20.jpg)

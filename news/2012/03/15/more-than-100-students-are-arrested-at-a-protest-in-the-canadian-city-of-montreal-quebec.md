@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/15/more-than-100-students-are-arrested-at-a-protest-in-the-canadian-city-of-montreal-quebec.html)  [JSON](/news/2012/03/15/more-than-100-students-are-arrested-at-a-protest-in-the-canadian-city-of-montreal-quebec.json)  [XML](/news/2012/03/15/more-than-100-students-are-arrested-at-a-protest-in-the-canadian-city-of-montreal-quebec.xml)  
+
 ### [2012-03-15](/news/2012/03/15/index.md)
 
+##### Canadian
 # More than 100 students are arrested at a protest in the Canadian city of Montreal, Quebec. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Vancouver Sun](http://www.vancouversun.com/news/More+than+arrested+Montreal+protest/6309680/story.html)
 

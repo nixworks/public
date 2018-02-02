@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/14/a-suicide-bombing-at-a-market-in-afghanistan-s-ora-zgan-province-kills-20-people.html)  [JSON](/news/2010/01/14/a-suicide-bombing-at-a-market-in-afghanistan-s-ora-zgan-province-kills-20-people.json)  [XML](/news/2010/01/14/a-suicide-bombing-at-a-market-in-afghanistan-s-ora-zgan-province-kills-20-people.xml)  
+
 ### [2010-01-14](/news/2010/01/14/index.md)
 
+##### Afghanistan
 # A suicide bombing at a market in Afghanistan's Oruzgan Province kills 20 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8458806.stm)
 

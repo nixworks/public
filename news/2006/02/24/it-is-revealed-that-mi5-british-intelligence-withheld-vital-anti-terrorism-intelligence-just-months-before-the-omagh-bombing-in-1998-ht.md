@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/02/24/it-is-revealed-that-mi5-british-intelligence-withheld-vital-anti-terrorism-intelligence-just-months-before-the-omagh-bombing-in-1998-ht.html)  [JSON](/news/2006/02/24/it-is-revealed-that-mi5-british-intelligence-withheld-vital-anti-terrorism-intelligence-just-months-before-the-omagh-bombing-in-1998-ht.json)  [XML](/news/2006/02/24/it-is-revealed-that-mi5-british-intelligence-withheld-vital-anti-terrorism-intelligence-just-months-before-the-omagh-bombing-in-1998-ht.xml)  
+
 ### [2006-02-24](/news/2006/02/24/index.md)
 
+##### MI5
 #  It is revealed that MI5 (British Intelligence) withheld vital anti-terrorism intelligence just months before the Omagh Bombing in 1998. [http:--www.rte.ie-news-2006-0224-omagh.html] 
 
 

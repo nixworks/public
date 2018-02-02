@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/14/voters-in-the-republic-of-china-go-to-the-polls-for-the-2012-presidential-election-incumbent-president-ma-ying-jeou-ultimately-wins-re-elec.html)  [JSON](/news/2012/01/14/voters-in-the-republic-of-china-go-to-the-polls-for-the-2012-presidential-election-incumbent-president-ma-ying-jeou-ultimately-wins-re-elec.json)  [XML](/news/2012/01/14/voters-in-the-republic-of-china-go-to-the-polls-for-the-2012-presidential-election-incumbent-president-ma-ying-jeou-ultimately-wins-re-elec.xml)  
+
 ### [2012-01-14](/news/2012/01/14/index.md)
 
+##### Taiwan
 # Voters in the Republic of China go to the polls for the 2012 presidential election. Incumbent President Ma Ying-jeou ultimately wins re-election with 51% of the vote, defeating Democratic Progressive Party chairwoman Tsai Ing-wen. 
 
 Taiwanese President Ma Ying-jeou was re-elected Saturday, leveraging his message of greater prosperity through expanded ties with China.
 
 
-### Source:
+### Sources:
 
 1. [China Post](http://www.chinapost.com.tw/editorial/taiwan-issues/2012/01/15/329059/Voters-clearly.htm)
 2. [MSNBC](http://www.msnbc.msn.com/id/45995739/ns/world_news/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/5/amidst-growing-diplomatic-tensions-between-romania-and-hungary-ignoring-an-official-request-not-to-the-speaker-of-the-hungarian-parliament.html)  [JSON](/news/2012/06/5/amidst-growing-diplomatic-tensions-between-romania-and-hungary-ignoring-an-official-request-not-to-the-speaker-of-the-hungarian-parliament.json)  [XML](/news/2012/06/5/amidst-growing-diplomatic-tensions-between-romania-and-hungary-ignoring-an-official-request-not-to-the-speaker-of-the-hungarian-parliament.xml)  
+
 ### [2012-06-5](/news/2012/06/5/index.md)
 
+##### between
 # Amidst growing diplomatic tensions between Romania and Hungary, ignoring an official request not to, the Speaker of the Hungarian Parliament undergoes a visit in Transylvania triggering protests from Romanian state dignitaries. 
 
 Hungary’s Speaker of Parliament Laszlo Kover said he insisted on his plan to visit Romania on Tuesday. Earlier on Monday, Romanian Senate Speaker Vasile Blaga and House of Representatives Speaker Roberta Anastase asked him to postpone his visit after the country’s upcoming local elections. In a letter of response addressed to the Romanian house speakers, &hellip;
 
 
-### Source:
+### Sources:
 
 1. [Politics.hu](http://www.politics.hu/20120605/kover-ignores-romanian-plea-to-postpone-visit-to-transylvania/)
 1. [Cover Image](http://www.politics.hu/wp-content/uploads/2011/11/Kover-laszlo-300x266.jpg)

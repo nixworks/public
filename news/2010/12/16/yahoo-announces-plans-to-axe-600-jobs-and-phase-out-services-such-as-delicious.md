@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/16/yahoo-announces-plans-to-axe-600-jobs-and-phase-out-services-such-as-delicious.html)  [JSON](/news/2010/12/16/yahoo-announces-plans-to-axe-600-jobs-and-phase-out-services-such-as-delicious.json)  [XML](/news/2010/12/16/yahoo-announces-plans-to-axe-600-jobs-and-phase-out-services-such-as-delicious.xml)  
+
 ### [2010-12-16](/news/2010/12/16/index.md)
 
+##### Yahoo!
 # Yahoo! announces plans to axe 600 jobs and phase out services such as Delicious. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Buffalo News](http://www.buffalonews.com/business/24-hour-business-news/article286030.ece)
 

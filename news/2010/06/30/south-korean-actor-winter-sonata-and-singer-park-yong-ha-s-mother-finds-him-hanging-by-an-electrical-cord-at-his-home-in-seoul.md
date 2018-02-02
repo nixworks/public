@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/30/south-korean-actor-winter-sonata-and-singer-park-yong-ha-s-mother-finds-him-hanging-by-an-electrical-cord-at-his-home-in-seoul.html)  [JSON](/news/2010/06/30/south-korean-actor-winter-sonata-and-singer-park-yong-ha-s-mother-finds-him-hanging-by-an-electrical-cord-at-his-home-in-seoul.json)  [XML](/news/2010/06/30/south-korean-actor-winter-sonata-and-singer-park-yong-ha-s-mother-finds-him-hanging-by-an-electrical-cord-at-his-home-in-seoul.xml)  
+
 ### [2010-06-30](/news/2010/06/30/index.md)
 
+##### South Korea
 # South Korean actor ("Winter Sonata") and singer Park Yong-ha's mother finds him hanging by an electrical cord at his home in Seoul. 
 
 A popular South Korean actor and singer is found dead at his home in Seoul after an apparent suicide, police say.
 
 
-### Source:
+### Sources:
 
 1. [AsiaOne](http://news.asiaone.com/News/Latest%2BNews/Showbiz/Story/A1Story20100630-224536.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10459061.stm)

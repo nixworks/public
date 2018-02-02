@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/12/sakineh-mohammadi-ashtiani-the-iranian-woman-due-to-be-stoned-to-death-for-adultery-is-given-a-temporary-stay-of-execution.html)  [JSON](/news/2010/07/12/sakineh-mohammadi-ashtiani-the-iranian-woman-due-to-be-stoned-to-death-for-adultery-is-given-a-temporary-stay-of-execution.json)  [XML](/news/2010/07/12/sakineh-mohammadi-ashtiani-the-iranian-woman-due-to-be-stoned-to-death-for-adultery-is-given-a-temporary-stay-of-execution.xml)  
+
 ### [2010-07-12](/news/2010/07/12/index.md)
 
+##### Sakineh Mohammadi Ashtiani
 # Sakineh Mohammadi Ashtiani, the Iranian woman due to be stoned to death for adultery, is given a temporary stay of execution. 
 
 Official say woman facing death for adultery has received temporary stay of execution.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/20107121354041711.html)
 1. [Cover Image](http://www.aljazeera.com)

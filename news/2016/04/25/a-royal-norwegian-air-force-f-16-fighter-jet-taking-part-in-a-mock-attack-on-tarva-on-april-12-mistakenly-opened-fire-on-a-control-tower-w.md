@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/25/a-royal-norwegian-air-force-f-16-fighter-jet-ta
 
 ### [2016-04-25](/news/2016/04/25/index.md)
 
+##### Royal Norwegian Air Force
 # A Royal Norwegian Air Force F-16 fighter jet, taking part in a mock attack on Tarva on April 12, mistakenly opened fire on a control tower with three officers inside, who survived unharmed, according to the Norwegian military. 
 
 It is the second time in six years the tower has been fired on in error by F-16 jets – no one was injured either time

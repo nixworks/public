@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/05/9/the-ivory-coast-the-world-s-largest-cocoa-producer-makes-its-first-shipment-since-january-after-the-cocoa-industry-was-disrupted-by-the-2.html)  [JSON](/news/2011/05/9/the-ivory-coast-the-world-s-largest-cocoa-producer-makes-its-first-shipment-since-january-after-the-cocoa-industry-was-disrupted-by-the-2.json)  [XML](/news/2011/05/9/the-ivory-coast-the-world-s-largest-cocoa-producer-makes-its-first-shipment-since-january-after-the-cocoa-industry-was-disrupted-by-the-2.xml)  
+
 ### [2011-05-9](/news/2011/05/9/index.md)
 
+##### Ivory Coast
 # The Ivory Coast, the world's largest cocoa producer, makes its first shipment since January, after the cocoa industry was disrupted by the 2010-2011 Ivorian crisis. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Forbes](http://www.forbes.com/feeds/ap/2011/05/09/general-food-amp-drug-retailers-af-ivory-coast_8457003.html)
+1. [AP via Forbes](https://www.forbes.com/feeds/ap/2011/05/09/general-food-amp-drug-retailers-af-ivory-coast_8457003.html)
 
 ### Related:
 

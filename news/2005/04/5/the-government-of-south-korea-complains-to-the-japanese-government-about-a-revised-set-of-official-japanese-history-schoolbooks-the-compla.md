@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/5/the-government-of-south-korea-complains-to-the-japanese-government-about-a-revised-set-of-official-japanese-history-schoolbooks-the-compla.html)  [JSON](/news/2005/04/5/the-government-of-south-korea-complains-to-the-japanese-government-about-a-revised-set-of-official-japanese-history-schoolbooks-the-compla.json)  [XML](/news/2005/04/5/the-government-of-south-korea-complains-to-the-japanese-government-about-a-revised-set-of-official-japanese-history-schoolbooks-the-compla.xml)  
+
 ### [2005-04-5](/news/2005/04/5/index.md)
 
+##### South Korea
 #  The government of South Korea complains to the Japanese government about a revised set of official Japanese history schoolbooks. The complaint alleges the textbooks whitewash Japan's "imperialist" past, and question Korean sovereignty of the disputed Liancourt Rocks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Japan Times](http://www.japantimes.co.jp/cgi-bin/getarticle.pl5?nn20050406a1.htm)
 2. [Korea Herald](http://www.koreaherald.co.kr/SITE/data/html_dir/2005/04/06/200504060007.asp)

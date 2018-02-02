@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/09/22/south-africa-s-ruling-african-national-congress-party-names-deputy-president-kgalema-motlanthe-as-the-successor-to-president-thabo-mbeki.html)  [JSON](/news/2008/09/22/south-africa-s-ruling-african-national-congress-party-names-deputy-president-kgalema-motlanthe-as-the-successor-to-president-thabo-mbeki.json)  [XML](/news/2008/09/22/south-africa-s-ruling-african-national-congress-party-names-deputy-president-kgalema-motlanthe-as-the-successor-to-president-thabo-mbeki.xml)  
+
 ### [2008-09-22](/news/2008/09/22/index.md)
 
+##### South Africa
 #  South Africa's ruling African National Congress party names deputy president Kgalema Motlanthe as the successor to President Thabo Mbeki. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg News](http://www.bloomberg.com/apps/news?pid=20601116&sid=anGwLoz3em0o&refer=africa)
+1. [Bloomberg News](https://www.bloomberg.com/apps/news?pid=20601116&sid=anGwLoz3em0o&refer=africa)
 
 ### Related:
 

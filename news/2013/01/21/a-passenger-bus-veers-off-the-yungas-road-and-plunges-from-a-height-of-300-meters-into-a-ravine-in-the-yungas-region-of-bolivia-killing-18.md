@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/21/a-passenger-bus-veers-off-the-yungas-road-and-plunges-from-a-height-of-300-meters-into-a-ravine-in-the-yungas-region-of-bolivia-killing-18.html)  [JSON](/news/2013/01/21/a-passenger-bus-veers-off-the-yungas-road-and-plunges-from-a-height-of-300-meters-into-a-ravine-in-the-yungas-region-of-bolivia-killing-18.json)  [XML](/news/2013/01/21/a-passenger-bus-veers-off-the-yungas-road-and-plunges-from-a-height-of-300-meters-into-a-ravine-in-the-yungas-region-of-bolivia-killing-18.xml)  
+
 ### [2013-01-21](/news/2013/01/21/index.md)
 
+##### bus
 # A passenger bus veers off the Yungas Road and plunges from a height of 300 meters into a ravine in the Yungas region of Bolivia, killing 18 people and injuring 24 others. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bernama](http://www.bernama.com/bernama/v6/newsindex.php?id=923391)
 2. [RIA Novosti](http://en.ria.ru/world/20130122/178934469/Bus-Crash-in-Bolivias-North-Leaves-10-Dead-26-Injured.html)

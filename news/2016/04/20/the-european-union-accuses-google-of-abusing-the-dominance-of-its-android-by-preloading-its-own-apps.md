@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/20/the-european-union-accuses-google-of-abusing-th
 
 ### [2016-04-20](/news/2016/04/20/index.md)
 
+##### European Union
 # The European Union accuses Google of abusing the dominance of its Android by preloading its own apps. 
 
 Google has 12 weeks to respond to charge and could face European Commission fine 

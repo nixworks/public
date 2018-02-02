@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/07/1/vator-gaspar-minister-of-finance-of-portugal-resigns-due-to-lack-of-support-and-willingness-to-strengthen-austerity-measures-prompting-a.html)  [JSON](/news/2013/07/1/vator-gaspar-minister-of-finance-of-portugal-resigns-due-to-lack-of-support-and-willingness-to-strengthen-austerity-measures-prompting-a.json)  [XML](/news/2013/07/1/vator-gaspar-minister-of-finance-of-portugal-resigns-due-to-lack-of-support-and-willingness-to-strengthen-austerity-measures-prompting-a.xml)  
+
 ### [2013-07-1](/news/2013/07/1/index.md)
 
+##### Vitor Gaspar
 # Vitor Gaspar, Minister of Finance of Portugal, resigns due to lack of support and willingness to strengthen austerity measures, prompting a political crisis. The Minister is replaced by Treasury Secretary Maria Luis Albuquerque. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Globe and Mail](http://www.theglobeandmail.com/report-on-business/international-business/european-business/portugal-finance-minister-resigns/article12902660/)
+1. [Globe and Mail](https://www.theglobeandmail.com/report-on-business/international-business/european-business/portugal-finance-minister-resigns/article12902660/)
 
 ### Related:
 

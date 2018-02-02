@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/3/1984-bhopal-disaster-the-indian-government-launches-a-court-case-to-more-than-double-the-compensation-paid-by-u-s-chemical-corporation-uni.html)  [JSON](/news/2010/12/3/1984-bhopal-disaster-the-indian-government-launches-a-court-case-to-more-than-double-the-compensation-paid-by-u-s-chemical-corporation-uni.json)  [XML](/news/2010/12/3/1984-bhopal-disaster-the-indian-government-launches-a-court-case-to-more-than-double-the-compensation-paid-by-u-s-chemical-corporation-uni.xml)  
+
 ### [2010-12-3](/news/2010/12/3/index.md)
 
+##### 1984 Bhopal disaster
 # 1984 Bhopal disaster: The Indian government launches a court case to more than double the compensation paid by U.S. chemical corporation Union Carbide on the anniversary of the leak from a Madhya Pradesh plant that killed thousands of people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11911828)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

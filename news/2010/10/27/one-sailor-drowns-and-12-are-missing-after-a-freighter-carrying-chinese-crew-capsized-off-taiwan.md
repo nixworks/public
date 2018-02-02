@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/27/one-sailor-drowns-and-12-are-missing-after-a-freighter-carrying-chinese-crew-capsized-off-taiwan.html)  [JSON](/news/2010/10/27/one-sailor-drowns-and-12-are-missing-after-a-freighter-carrying-chinese-crew-capsized-off-taiwan.json)  [XML](/news/2010/10/27/one-sailor-drowns-and-12-are-missing-after-a-freighter-carrying-chinese-crew-capsized-off-taiwan.xml)  
+
 ### [2010-10-27](/news/2010/10/27/index.md)
 
+##### China
 # One sailor drowns and 12 are missing after a freighter carrying Chinese crew capsized off Taiwan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Focus Taiwan News Channel](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aALL&ID=201010270029)
 2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_596005.html)

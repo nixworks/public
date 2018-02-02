@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/09/12/lebanon-wins-the-golden-lion-at-the-venice-film-festival.html)  [JSON](/news/2009/09/12/lebanon-wins-the-golden-lion-at-the-venice-film-festival.json)  [XML](/news/2009/09/12/lebanon-wins-the-golden-lion-at-the-venice-film-festival.xml)  
+
 ### [2009-09-12](/news/2009/09/12/index.md)
 
+##### Lebanon
 #  "Lebanon" wins the Golden Lion at the Venice Film Festival. 
 
 White and Silvia Aloisi
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/arts/2009/0912/venice.html)
-2. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE58B1JM20090912)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090912&t=2&i=11567107&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-09-12T234126Z_01_BTRE58B1TT700_RTROPTP_0_FILM-VENICE)
+2. [Reuters](https://www.reuters.com/article/newsOne/idUSTRE58B1JM20090912)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20090912&t=2&i=11567107&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-09-12T234126Z_01_BTRE58B1TT700_RTROPTP_0_FILM-VENICE)
 
 ### Related:
 

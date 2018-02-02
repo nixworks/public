@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/5/in-rugby-union-new-zealand-defeat-world-cup-winners-south-africa-19-ndash-8-in-the-opening-match-of-the-tri-nations.html)  [JSON](/news/2008/07/5/in-rugby-union-new-zealand-defeat-world-cup-winners-south-africa-19-ndash-8-in-the-opening-match-of-the-tri-nations.json)  [XML](/news/2008/07/5/in-rugby-union-new-zealand-defeat-world-cup-winners-south-africa-19-ndash-8-in-the-opening-match-of-the-tri-nations.xml)  
+
 ### [2008-07-5](/news/2008/07/5/index.md)
 
+##### rugby union
 #  In rugby union, New Zealand defeat World Cup winners South Africa 19&ndash;8 in the opening match of the Tri Nations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The International Herald Tribune](http://www.iht.com/articles/2008/07/06/sports/rugbynz6.php)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/07/20/the-u-s-grand-jury-investigating-baseball-player-barry-bonds-for-possible-perjury-and-tax-evasion-charges-is-set-to-expire-today-it-was-e.html)  [JSON](/news/2006/07/20/the-u-s-grand-jury-investigating-baseball-player-barry-bonds-for-possible-perjury-and-tax-evasion-charges-is-set-to-expire-today-it-was-e.json)  [XML](/news/2006/07/20/the-u-s-grand-jury-investigating-baseball-player-barry-bonds-for-possible-perjury-and-tax-evasion-charges-is-set-to-expire-today-it-was-e.xml)  
+
 ### [2006-07-20](/news/2006/07/20/index.md)
 
+##### U.S.
 #  The U.S. grand jury investigating baseball player Barry Bonds for possible perjury and tax evasion charges is set to expire today. It was extended and Bonds was not indicted. Greg Anderson, Bonds' trainer, was released from a federal prison in Dublin, California, after having been jailed for refusing to give evidence. 
 
 Get local Bay Area news plus Bay Area breaking news, business, green, national, and world news from NBC Bay Area.
 
 
-### Source:
+### Sources:
 
-1. [ (Forbes](http://www.forbes.com/business/commerce/feeds/ap/2006/07/20/ap2893510.html)
+1. [ (Forbes](https://www.forbes.com/business/commerce/feeds/ap/2006/07/20/ap2893510.html)
 2. [ESPN.com](http://sports.espn.go.com/mlb/news/story?id=2524417)
 3. [NBC](http://www.nbc11.com/news/9550344/detail.html?rss=bay&psp=sports)
 3. [Cover Image](http://media.nbcbayarea.com/designimages/nbcbay_station_logo.jpg?ak=bc)

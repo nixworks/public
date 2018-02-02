@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/23/residents-of-naples-are-repelled-by-the-police-force-while-expressing-their-ire-over-a-government-plan-to-open-a-huge-garbage-dump-on-the-ed.html)  [JSON](/news/2010/10/23/residents-of-naples-are-repelled-by-the-police-force-while-expressing-their-ire-over-a-government-plan-to-open-a-huge-garbage-dump-on-the-ed.json)  [XML](/news/2010/10/23/residents-of-naples-are-repelled-by-the-police-force-while-expressing-their-ire-over-a-government-plan-to-open-a-huge-garbage-dump-on-the-ed.xml)  
+
 ### [2010-10-23](/news/2010/10/23/index.md)
 
+##### Naples
 # Residents of Naples are repelled by the police force while expressing their ire over a government plan to open a huge garbage dump on the edge of town. 
 
 Italian PM vows to act after protesters clash with police over plan to locate new dump.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/video/europe/2010/10/2010102317302730496.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/23/20101023173654808965_20.jpg)

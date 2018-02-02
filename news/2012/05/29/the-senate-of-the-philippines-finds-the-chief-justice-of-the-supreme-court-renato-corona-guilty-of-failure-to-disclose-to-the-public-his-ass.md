@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/29/the-senate-of-the-philippines-finds-the-chief-justice-of-the-supreme-court-renato-corona-guilty-of-failure-to-disclose-to-the-public-his-ass.html)  [JSON](/news/2012/05/29/the-senate-of-the-philippines-finds-the-chief-justice-of-the-supreme-court-renato-corona-guilty-of-failure-to-disclose-to-the-public-his-ass.json)  [XML](/news/2012/05/29/the-senate-of-the-philippines-finds-the-chief-justice-of-the-supreme-court-renato-corona-guilty-of-failure-to-disclose-to-the-public-his-ass.xml)  
+
 ### [2012-05-29](/news/2012/05/29/index.md)
 
+##### senators
 # The Senate of the Philippines finds the Chief Justice of the Supreme Court Renato Corona guilty of failure to disclose to the public his assets following a four-month-long impeachment trial. 
 
 Chief justice Renato Corona effectively removed from office after five-month trial for failing to declare bank accounts.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/05/201252992220148225.html)
 2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1204264/1/.html)

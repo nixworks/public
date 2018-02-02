@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/19/a-protest-in-the-us-city-of-san-francisco-turns-violent-resulting-in-the-arrest-of-35-people.html)  [JSON](/news/2011/07/19/a-protest-in-the-us-city-of-san-francisco-turns-violent-resulting-in-the-arrest-of-35-people.json)  [XML](/news/2011/07/19/a-protest-in-the-us-city-of-san-francisco-turns-violent-resulting-in-the-arrest-of-35-people.xml)  
+
 ### [2011-07-19](/news/2011/07/19/index.md)
 
+##### San Francisco, California
 # A protest in the US city of San Francisco turns violent resulting in the arrest of 35 people. 
 
 Assaults, smoke bombs and vandalism were left in the wake of a protest in San Francisco Tuesday night.
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://www.nbcbayarea.com/news/local/Bayview-Shooting-Protest-End-with-Arrests-125866423.html)
 1. [Cover Image](http://media.nbcbayarea.com/images/1200*675/bayviewofficershooting.jpg)

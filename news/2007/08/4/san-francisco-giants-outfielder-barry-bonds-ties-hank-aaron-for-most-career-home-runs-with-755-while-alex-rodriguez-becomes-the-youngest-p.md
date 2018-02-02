@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2007/08/4/san-francisco-giants-outfielder-barry-bonds-ties-hank-aaron-for-most-career-home-runs-with-755-while-alex-rodriguez-becomes-the-youngest-p.html)  [JSON](/news/2007/08/4/san-francisco-giants-outfielder-barry-bonds-ties-hank-aaron-for-most-career-home-runs-with-755-while-alex-rodriguez-becomes-the-youngest-p.json)  [XML](/news/2007/08/4/san-francisco-giants-outfielder-barry-bonds-ties-hank-aaron-for-most-career-home-runs-with-755-while-alex-rodriguez-becomes-the-youngest-p.xml)  
+
 ### [2007-08-4](/news/2007/08/4/index.md)
 
+##### San Francisco Giants
 #  San Francisco Giants outfielder Barry Bonds ties Hank Aaron for most career home runs with 755, while Alex Rodriguez becomes the youngest player to hit 500 home runs in Major League Baseball. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sports Illustrated](http://sportsillustrated.cnn.com/2007/baseball/mlb/wires/08/04/2010.ap.bba.rodriguez.500.homers.7th.ld.writethru.1102/)
-2. [TSN](http://www.tsn.ca/mlb/news_story/?ID=215498&hubname=)
-2. [Cover Image](http://www.tsn.ca/img/tsn/logos/tsn-logo.png)
+2. [TSN](https://www.tsn.ca/mlb/news_story/?ID=215498&hubname=)
 
 ### Related:
 

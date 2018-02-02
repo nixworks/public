@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/20/yves-leterme-is-sworn-in-as-prime-minister-of-belgium.html)  [JSON](/news/2008/03/20/yves-leterme-is-sworn-in-as-prime-minister-of-belgium.json)  [XML](/news/2008/03/20/yves-leterme-is-sworn-in-as-prime-minister-of-belgium.xml)  
+
 ### [2008-03-20](/news/2008/03/20/index.md)
 
+##### Yves Leterme
 #  Yves Leterme is sworn in as Prime Minister of Belgium. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/feedarticle?id=7399468)
 

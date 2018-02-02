@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/22/indian-police-investigate-potential-attacks-on-shopping-centres-in-new-delhi.html)  [JSON](/news/2010/04/22/indian-police-investigate-potential-attacks-on-shopping-centres-in-new-delhi.json)  [XML](/news/2010/04/22/indian-police-investigate-potential-attacks-on-shopping-centres-in-new-delhi.xml)  
+
 ### [2010-04-22](/news/2010/04/22/index.md)
 
+##### India
 # Indian police investigate potential attacks on shopping centres in New Delhi. 
 
 Officials say alert follows intercepted telephonic messages of fighter groups.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/201042211542593234.html)
 1. [Cover Image](http://www.aljazeera.com)

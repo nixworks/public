@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/13/two-people-protesting-the-impeachment-of-plateau-state-governor-joshua-dariye-are-killed-by-riot-police-in-jos-nigeria.html)  [JSON](/news/2006/10/13/two-people-protesting-the-impeachment-of-plateau-state-governor-joshua-dariye-are-killed-by-riot-police-in-jos-nigeria.json)  [XML](/news/2006/10/13/two-people-protesting-the-impeachment-of-plateau-state-governor-joshua-dariye-are-killed-by-riot-police-in-jos-nigeria.xml)  
+
 ### [2006-10-13](/news/2006/10/13/index.md)
 
+##### Plateau State
 #  Two people protesting the impeachment of Plateau State governor Joshua Dariye are killed by riot police in Jos, Nigeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6048286.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/6/yemeni-tribesman-shoot-down-an-army-military-helicopter-killing-eight-soldiers.html)  [JSON](/news/2013/08/6/yemeni-tribesman-shoot-down-an-army-military-helicopter-killing-eight-soldiers.json)  [XML](/news/2013/08/6/yemeni-tribesman-shoot-down-an-army-military-helicopter-killing-eight-soldiers.xml)  
+
 ### [2013-08-6](/news/2013/08/6/index.md)
 
+##### Yemen
 # Yemeni tribesman shoot down an army military helicopter killing eight soldiers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/world/middle-east/Yemeni-tribesmen-shoot-down-chopper-kill-8-soldiers-Tribal-head/articleshow/21656631.cms)
 

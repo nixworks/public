@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/2/at-least-23-people-are-injured-as-two-blasts-hit-a-fruit-market-in-pakistan-s-eastern-city-of-lahore.html)  [JSON](/news/2012/08/2/at-least-23-people-are-injured-as-two-blasts-hit-a-fruit-market-in-pakistan-s-eastern-city-of-lahore.json)  [XML](/news/2012/08/2/at-least-23-people-are-injured-as-two-blasts-hit-a-fruit-market-in-pakistan-s-eastern-city-of-lahore.xml)  
+
 ### [2012-08-2](/news/2012/08/2/index.md)
 
+##### Pakistan
 # At least 23 people are injured as two blasts hit a fruit market in Pakistan's eastern city of Lahore. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/world/2012-08/02/c_131754539.htm)
 

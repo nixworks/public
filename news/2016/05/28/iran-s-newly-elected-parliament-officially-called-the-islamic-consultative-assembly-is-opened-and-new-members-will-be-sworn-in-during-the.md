@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/28/iran-s-newly-elected-parliament-officially-call
 
 ### [2016-05-28](/news/2016/05/28/index.md)
 
+##### Iranian legislative election, 2016
 # Iran's newly elected parliament, officially called the Islamic Consultative Assembly, is opened and new members will be sworn-in during the first session. 
 
 The swearing-in of the 290-member assembly comes at a critical time for reformist President Hassan Rouhani, whose coalition now holds 122 seats.

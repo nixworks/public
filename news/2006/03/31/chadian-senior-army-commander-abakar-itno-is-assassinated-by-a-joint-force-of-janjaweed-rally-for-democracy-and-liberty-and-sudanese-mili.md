@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/31/chadian-senior-army-commander-abakar-itno-is-assassinated-by-a-joint-force-of-janjaweed-rally-for-democracy-and-liberty-and-sudanese-mili.html)  [JSON](/news/2006/03/31/chadian-senior-army-commander-abakar-itno-is-assassinated-by-a-joint-force-of-janjaweed-rally-for-democracy-and-liberty-and-sudanese-mili.json)  [XML](/news/2006/03/31/chadian-senior-army-commander-abakar-itno-is-assassinated-by-a-joint-force-of-janjaweed-rally-for-democracy-and-liberty-and-sudanese-mili.xml)  
+
 ### [2006-03-31](/news/2006/03/31/index.md)
 
+##### Chad
 #  Chadian senior army commander Abakar Itno is assassinated by a joint force of Janjaweed, Rally for Democracy and Liberty, and Sudanese military forces. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.alertnet.org/thenews/newsdesk/IRIN/06cd9b0a8b7b50f9f7603c5d0dcae2c1.htm)
 

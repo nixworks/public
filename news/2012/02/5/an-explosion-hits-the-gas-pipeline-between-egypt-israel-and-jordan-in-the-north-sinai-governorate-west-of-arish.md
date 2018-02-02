@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/5/an-explosion-hits-the-gas-pipeline-between-egypt-israel-and-jordan-in-the-north-sinai-governorate-west-of-arish.html)  [JSON](/news/2012/02/5/an-explosion-hits-the-gas-pipeline-between-egypt-israel-and-jordan-in-the-north-sinai-governorate-west-of-arish.json)  [XML](/news/2012/02/5/an-explosion-hits-the-gas-pipeline-between-egypt-israel-and-jordan-in-the-north-sinai-governorate-west-of-arish.xml)  
+
 ### [2012-02-5](/news/2012/02/5/index.md)
 
+##### Egypt
 # An explosion hits the gas pipeline between Egypt, Israel and Jordan in the North Sinai Governorate west of Arish. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/46266247#.Ty3Jd8UgpQE)
 

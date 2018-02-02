@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/20/hundreds-of-thousands-of-bolivians-protest-proposals-to-shift-the-capital-from-la-paz-to-sucre.html)  [JSON](/news/2007/07/20/hundreds-of-thousands-of-bolivians-protest-proposals-to-shift-the-capital-from-la-paz-to-sucre.json)  [XML](/news/2007/07/20/hundreds-of-thousands-of-bolivians-protest-proposals-to-shift-the-capital-from-la-paz-to-sucre.xml)  
+
 ### [2007-07-20](/news/2007/07/20/index.md)
 
+##### Bolivia
 #  Hundreds of thousands of Bolivians protest proposals to shift the capital from La Paz to Sucre. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via International Herald Tribune](http://www.iht.com/articles/ap/2007/07/20/america/LA-GEN-Bolivia-Capital-Fight.php)
 

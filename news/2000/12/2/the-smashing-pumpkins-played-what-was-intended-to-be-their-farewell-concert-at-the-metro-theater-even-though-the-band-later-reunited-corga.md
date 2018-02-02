@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/12/2/the-smashing-pumpkins-played-what-was-intended-to-be-their-farewell-concert-at-the-metro-theater-even-though-the-band-later-reunited-corga.html)  [JSON](/news/2000/12/2/the-smashing-pumpkins-played-what-was-intended-to-be-their-farewell-concert-at-the-metro-theater-even-though-the-band-later-reunited-corga.json)  [XML](/news/2000/12/2/the-smashing-pumpkins-played-what-was-intended-to-be-their-farewell-concert-at-the-metro-theater-even-though-the-band-later-reunited-corga.xml)  
+
 ### [2000-12-2](/news/2000/12/2/index.md)
 
+##### The Smashing Pumpkins
 # The Smashing Pumpkins played what was intended to be their farewell concert at the Metro Theater. Even though the band later reunited, Corgan viewed it as the end of an era. 
 
 

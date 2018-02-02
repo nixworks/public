@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/30/romanian-president-traian-basescu-could-survive-the-referendum-on-his-impeachment-that-shows-a-massive-vote-against-him-but-under-50-turno.html)  [JSON](/news/2012/07/30/romanian-president-traian-basescu-could-survive-the-referendum-on-his-impeachment-that-shows-a-massive-vote-against-him-but-under-50-turno.json)  [XML](/news/2012/07/30/romanian-president-traian-basescu-could-survive-the-referendum-on-his-impeachment-that-shows-a-massive-vote-against-him-but-under-50-turno.xml)  
+
 ### [2012-07-30](/news/2012/07/30/index.md)
 
+##### Romania
 # Romanian President Traian Basescu could survive the referendum on his impeachment that shows a massive vote against him but under 50% turnout.The Constitutional Court of Romania will give the final word on whether to validate the referendum later this week.
 
 Turnout of less than 50% means Romanian President Traian Basescu survives a strong vote against him in a referendum on his impeachment.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19034173)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61891000/jpg/_61891680_015453202.jpg)

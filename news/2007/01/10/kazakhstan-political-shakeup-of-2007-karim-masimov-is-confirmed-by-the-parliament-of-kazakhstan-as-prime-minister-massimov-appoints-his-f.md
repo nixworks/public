@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/10/kazakhstan-political-shakeup-of-2007-karim-masimov-is-confirmed-by-the-parliament-of-kazakhstan-as-prime-minister-massimov-appoints-his-f.html)  [JSON](/news/2007/01/10/kazakhstan-political-shakeup-of-2007-karim-masimov-is-confirmed-by-the-parliament-of-kazakhstan-as-prime-minister-massimov-appoints-his-f.json)  [XML](/news/2007/01/10/kazakhstan-political-shakeup-of-2007-karim-masimov-is-confirmed-by-the-parliament-of-kazakhstan-as-prime-minister-massimov-appoints-his-f.xml)  
+
 ### [2007-01-10](/news/2007/01/10/index.md)
 
+##### Kazakhstan political shakeup of 2007
 #  Kazakhstan political shakeup of 2007: Karim Masimov is confirmed by the Parliament of Kazakhstan as Prime Minister. Massimov appoints his former superior and political rival Daniyal Akhmetov to Defense Minister and Economy Minister Aslan Musin to Deputy Prime Minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IHT](http://www.iht.com/articles/ap/2007/01/10/asia/AS-POL-Kazakhstan-Cabinet.php)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/17/president-pervez-musharraf-of-pakistan-apologises-for-a-police-raid-on-geo-tv-s-offices-in-islamabad-the-day-before-with-14-police-officer.html)  [JSON](/news/2007/03/17/president-pervez-musharraf-of-pakistan-apologises-for-a-police-raid-on-geo-tv-s-offices-in-islamabad-the-day-before-with-14-police-officer.json)  [XML](/news/2007/03/17/president-pervez-musharraf-of-pakistan-apologises-for-a-police-raid-on-geo-tv-s-offices-in-islamabad-the-day-before-with-14-police-officer.xml)  
+
 ### [2007-03-17](/news/2007/03/17/index.md)
 
+##### president
 #  President Pervez Musharraf of Pakistan apologises for a police raid on Geo TV's offices in Islamabad the day before, with 14 police officers suspended for their alleged part in the incident. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IBN](http://www.ibnlive.com/news/world/03_2007/14-cops-suspended-for-geo-tv-attack-36236.html)
 

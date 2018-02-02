@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/22/indonesia-s-mount-sinabung-erupts-killing-at-le
 
 ### [2016-05-22](/news/2016/05/22/index.md)
 
+##### Indonesia
 # Indonesia's Mount Sinabung erupts, killing at least six people in Sumatra. 
 
 Seven people are killed when they are consumed by pyroclastic clouds during a volcanic eruption in western Indonesia.

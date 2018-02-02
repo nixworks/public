@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/18/usa-drone-airstrikes-kill-at-least-21-suspected-militants-in-north-waziristan-pakistan.html)  [JSON](/news/2012/02/18/usa-drone-airstrikes-kill-at-least-21-suspected-militants-in-north-waziristan-pakistan.json)  [XML](/news/2012/02/18/usa-drone-airstrikes-kill-at-least-21-suspected-militants-in-north-waziristan-pakistan.xml)  
+
 ### [2012-02-18](/news/2012/02/18/index.md)
 
+##### North Waziristan
 # USA drone airstrikes kill at least 21 suspected militants in North Waziristan, Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17053995)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57853000/jpg/_57853265_57853264.jpg)

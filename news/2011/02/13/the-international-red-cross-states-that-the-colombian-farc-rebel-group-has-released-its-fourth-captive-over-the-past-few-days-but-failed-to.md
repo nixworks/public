@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/13/the-international-red-cross-states-that-the-colombian-farc-rebel-group-has-released-its-fourth-captive-over-the-past-few-days-but-failed-to.html)  [JSON](/news/2011/02/13/the-international-red-cross-states-that-the-colombian-farc-rebel-group-has-released-its-fourth-captive-over-the-past-few-days-but-failed-to.json)  [XML](/news/2011/02/13/the-international-red-cross-states-that-the-colombian-farc-rebel-group-has-released-its-fourth-captive-over-the-past-few-days-but-failed-to.xml)  
+
 ### [2011-02-13](/news/2011/02/13/index.md)
 
+##### International Red Cross
 # The International Red Cross states that the Colombian FARC rebel group has released its fourth captive over the past few days but failed to release two others. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Minneapolis Star-Tribune](http://www.startribune.com/world/116122189.html)
 

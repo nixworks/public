@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/18/four-jaish-e-mohammed-militants-attack-an-india
 
 ### [2016-09-18](/news/2016/09/18/index.md)
 
+##### Kashmir insurgency
 # Four Jaish-e-Mohammed militants attack an Indian Army base near the Pakistan border with at least 17 soldiers and four militants killed. 
 
 At least 17 soldiers have been killed, while 4 militants were shot dead by Indian forces.

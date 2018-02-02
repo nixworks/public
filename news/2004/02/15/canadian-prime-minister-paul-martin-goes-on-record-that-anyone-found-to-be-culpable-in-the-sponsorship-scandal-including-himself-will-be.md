@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/15/canadian-prime-minister-paul-martin-goes-on-record-that-anyone-found-to-be-culpable-in-the-sponsorship-scandal-including-himself-will-be.html)  [JSON](/news/2004/02/15/canadian-prime-minister-paul-martin-goes-on-record-that-anyone-found-to-be-culpable-in-the-sponsorship-scandal-including-himself-will-be.json)  [XML](/news/2004/02/15/canadian-prime-minister-paul-martin-goes-on-record-that-anyone-found-to-be-culpable-in-the-sponsorship-scandal-including-himself-will-be.xml)  
+
 ### [2004-02-15](/news/2004/02/15/index.md)
 
+##### Prime Minister
 #  Canadian Prime Minister Paul Martin goes on record that anyone found to be culpable in the sponsorship scandal, including himself, will be immediately discharged. The issue could delay the upcoming election until after the public enquiry is completed.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/26/mining-billionaire-clive-palmer-announces-that-he-is-reviving-the-united-australia-party-and-standing-candidates-at-the-2013-australian-elec.html)  [JSON](/news/2013/04/26/mining-billionaire-clive-palmer-announces-that-he-is-reviving-the-united-australia-party-and-standing-candidates-at-the-2013-australian-elec.json)  [XML](/news/2013/04/26/mining-billionaire-clive-palmer-announces-that-he-is-reviving-the-united-australia-party-and-standing-candidates-at-the-2013-australian-elec.xml)  
+
 ### [2013-04-26](/news/2013/04/26/index.md)
 
+##### Clive Palmer
 # Mining billionaire Clive Palmer announces that he is reviving the United Australia Party and standing candidates at the 2013 Australian election. 
 
 Clive Palmer will stand for a Qld seat at the federal election, declaring he wants to be PM.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-04-26/i-want-to-be-pm-says-palmer/4652864)
 1. [Cover Image](http://www.abc.net.au/news/image/4652934-1x1-700x700.jpg)

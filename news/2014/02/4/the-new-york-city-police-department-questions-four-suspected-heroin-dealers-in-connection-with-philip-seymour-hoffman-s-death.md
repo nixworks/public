@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/4/the-new-york-city-police-department-questions-four-suspected-heroin-dealers-in-connection-with-philip-seymour-hoffman-s-death.html)  [JSON](/news/2014/02/4/the-new-york-city-police-department-questions-four-suspected-heroin-dealers-in-connection-with-philip-seymour-hoffman-s-death.json)  [XML](/news/2014/02/4/the-new-york-city-police-department-questions-four-suspected-heroin-dealers-in-connection-with-philip-seymour-hoffman-s-death.xml)  
+
 ### [2014-02-4](/news/2014/02/4/index.md)
 
+##### New York City Police Department
 # The New York City Police Department questions four suspected heroin dealers in connection with Philip Seymour Hoffman's death. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [FOX News](http://www.foxnews.com/entertainment/2014/02/04/nypd-reportedly-questioning-4-suspected-heroin-dealers-in-connection-with-hoffman-death/)
 

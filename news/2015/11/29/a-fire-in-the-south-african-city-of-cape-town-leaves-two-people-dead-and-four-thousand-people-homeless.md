@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/29/a-fire-in-the-south-african-city-of-cape-town-leaves-two-people-dead-and-four-thousand-people-homeless.html)  [JSON](/news/2015/11/29/a-fire-in-the-south-african-city-of-cape-town-leaves-two-people-dead-and-four-thousand-people-homeless.json)  [XML](/news/2015/11/29/a-fire-in-the-south-african-city-of-cape-town-leaves-two-people-dead-and-four-thousand-people-homeless.xml)  
+
 ### [2015-11-29](/news/2015/11/29/index.md)
 
+##### South Africa
 # A fire in the South African city of Cape Town leaves two people dead and four thousand people homeless. 
 
 At least two people were found dead and thousands of people lost their homes in a devastating fire that raced through an informal settlement near Fish Hoek, Cape Town, early on Sunday morning.
 
 
-### Source:
+### Sources:
 
 1. [The Times Live](http://www.timeslive.co.za/local/2015/11/29/Two-dead-4-000-homeless-after-Cape-Town-fire)
 1. [Cover Image](http://www.timeslive.co.za/incoming/2014/02/05/lit-match-fire-flame/ALTERNATES/crop_630x432/Lit%20match%20fire%20flame)

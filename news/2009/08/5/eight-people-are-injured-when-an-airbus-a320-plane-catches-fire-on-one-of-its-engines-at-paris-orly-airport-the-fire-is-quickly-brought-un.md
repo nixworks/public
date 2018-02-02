@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/08/5/eight-people-are-injured-when-an-airbus-a320-plane-catches-fire-on-one-of-its-engines-at-paris-orly-airport-the-fire-is-quickly-brought-un.html)  [JSON](/news/2009/08/5/eight-people-are-injured-when-an-airbus-a320-plane-catches-fire-on-one-of-its-engines-at-paris-orly-airport-the-fire-is-quickly-brought-un.json)  [XML](/news/2009/08/5/eight-people-are-injured-when-an-airbus-a320-plane-catches-fire-on-one-of-its-engines-at-paris-orly-airport-the-fire-is-quickly-brought-un.xml)  
+
 ### [2009-08-5](/news/2009/08/5/index.md)
 
+##### Airbus A320
 #  Eight people are injured when an Airbus A320 plane catches fire on one of its engines at Paris-Orly Airport. The fire is quickly brought under control. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/8185594.stm)
-2. [Reuters](http://www.reuters.com/article/rbssIndustryMaterialsUtilitiesNews/idUSL530698720090805)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/rbssIndustryMaterialsUtilitiesNews/idUSL530698720090805)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

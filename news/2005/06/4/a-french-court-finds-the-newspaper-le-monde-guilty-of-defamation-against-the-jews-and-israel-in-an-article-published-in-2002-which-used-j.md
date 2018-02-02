@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/4/a-french-court-finds-the-newspaper-le-monde-guilty-of-defamation-against-the-jews-and-israel-in-an-article-published-in-2002-which-used-j.html)  [JSON](/news/2005/06/4/a-french-court-finds-the-newspaper-le-monde-guilty-of-defamation-against-the-jews-and-israel-in-an-article-published-in-2002-which-used-j.json)  [XML](/news/2005/06/4/a-french-court-finds-the-newspaper-le-monde-guilty-of-defamation-against-the-jews-and-israel-in-an-article-published-in-2002-which-used-j.xml)  
+
 ### [2005-06-4](/news/2005/06/4/index.md)
 
+##### France
 #  A French court finds the newspaper Le Monde guilty of defamation against the Jews and Israel, in an article published in 2002 which used "Jews" and "Israel" interchangeably. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/hasen/spages/584229.html)
 

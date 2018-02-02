@@ -1,14 +1,19 @@
+
+Formats: [HTML](/news/2014/07/9/former-mayor-of-the-american-city-of-new-orleans-louisiana-ray-nagin-d-is-sentenced-to-ten-years-in-prison-for-corruption-money-launderi.html)  [JSON](/news/2014/07/9/former-mayor-of-the-american-city-of-new-orleans-louisiana-ray-nagin-d-is-sentenced-to-ten-years-in-prison-for-corruption-money-launderi.json)  [XML](/news/2014/07/9/former-mayor-of-the-american-city-of-new-orleans-louisiana-ray-nagin-d-is-sentenced-to-ten-years-in-prison-for-corruption-money-launderi.xml)  
+
 ### [2014-07-9](/news/2014/07/9/index.md)
 
+##### Mayor
 # Former Mayor of the American city of New Orleans, Louisiana Ray Nagin (D) is sentenced to ten years in prison for corruption, money laundering and other related offences. 
 
+The sentence for Mr. Nagin on 2o corruption counts was less than the recommended range of about 15 to 20 years.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2014/07/10/us/ray-nagin-former-new-orleans-mayor.html?_r=0)
-2. [USA Today](http://www.usatoday.com/story/news/nation/2014/07/09/ray-nagin-new-orleans-mayor-sentencing/12397415/)
+1. [New York Times](https://www.nytimes.com/2014/07/10/us/ray-nagin-former-new-orleans-mayor.html?_r=0)
+2. [USA Today](https://www.usatoday.com/story/news/nation/2014/07/09/ray-nagin-new-orleans-mayor-sentencing/12397415/)
+2. [Cover Image](https://static01.nyt.com/images/2014/07/10/us/NAGIN-2/NAGIN-1404941437072-videoSixteenByNine1050.jpg)
 
 ### Related:
 

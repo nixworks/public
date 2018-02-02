@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/12/2/the-european-release-of-the-xbox-360.html)  [JSON](/news/2005/12/2/the-european-release-of-the-xbox-360.json)  [XML](/news/2005/12/2/the-european-release-of-the-xbox-360.xml)  
+
 ### [2005-12-2](/news/2005/12/2/index.md)
 
+##### Xbox 360
 #  The European release of the Xbox 360.
 
 

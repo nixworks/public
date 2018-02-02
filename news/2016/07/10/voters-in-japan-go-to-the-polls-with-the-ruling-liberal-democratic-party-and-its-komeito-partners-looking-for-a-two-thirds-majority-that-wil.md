@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/10/voters-in-japan-go-to-the-polls-with-the-ruling
 
 ### [2016-07-10](/news/2016/07/10/index.md)
 
+##### Japanese House of Councillors election, 2016
 # Voters in Japan go to the polls with the ruling Liberal Democratic Party and its Komeito partners looking for a two-thirds majority that will allow them to put forward a referendum to change the constitution. The governing parties won 70 of the 121 seats. 
 
 TV exit polls show Prime Minister Shinzo Abe has won the two-thirds &quot;super majority&quot; needed to try to revise Japan&#039;s post-war constitution.

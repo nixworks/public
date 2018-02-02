@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/22/indonesia-admits-that-the-men-seen-torturing-papuan-villagers-in-a-video-were-soldiers-of-the-indonesian-national-armed-forces.html)  [JSON](/news/2010/10/22/indonesia-admits-that-the-men-seen-torturing-papuan-villagers-in-a-video-were-soldiers-of-the-indonesian-national-armed-forces.json)  [XML](/news/2010/10/22/indonesia-admits-that-the-men-seen-torturing-papuan-villagers-in-a-video-were-soldiers-of-the-indonesian-national-armed-forces.xml)  
+
 ### [2010-10-22](/news/2010/10/22/index.md)
 
+##### Indonesia
 # Indonesia admits that the men seen torturing Papuan villagers in a video were soldiers of the Indonesian National Armed Forces. 
 
 Indonesia admits that the men seen torturing Papuan villagers in a video uploaded on the internet earlier this week are members of the military.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/20101022112633211536.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11604361)

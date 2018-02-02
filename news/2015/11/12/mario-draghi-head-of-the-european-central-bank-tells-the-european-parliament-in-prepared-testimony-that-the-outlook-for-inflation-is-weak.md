@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/11/12/mario-draghi-head-of-the-european-central-bank-tells-the-european-parliament-in-prepared-testimony-that-the-outlook-for-inflation-is-weak.html)  [JSON](/news/2015/11/12/mario-draghi-head-of-the-european-central-bank-tells-the-european-parliament-in-prepared-testimony-that-the-outlook-for-inflation-is-weak.json)  [XML](/news/2015/11/12/mario-draghi-head-of-the-european-central-bank-tells-the-european-parliament-in-prepared-testimony-that-the-outlook-for-inflation-is-weak.xml)  
+
 ### [2015-11-12](/news/2015/11/12/index.md)
 
+##### Mario Draghi
 # Mario Draghi, head of the European Central Bank, tells the European parliament in prepared testimony that the outlook for inflation is "weakening." The comment was taken to suggest the ECB will soon take a more stimulative stance on interest rates or money quantity. 
 
 Mario Draghi signaled that the European Central Bank is ready to boost its stimulus programs next month as inflation wanes and economic prospects worsen.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-11-12/draghi-says-inflation-weakening-as-december-policy-choice-nears)
+1. [Bloomberg](https://www.bloomberg.com/news/articles/2015-11-12/draghi-says-inflation-weakening-as-december-policy-choice-nears)
 1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:

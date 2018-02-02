@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/31/the-death-toll-from-the-2010-pakistan-floods-exceeds-900-and-may-climb-further.html)  [JSON](/news/2010/07/31/the-death-toll-from-the-2010-pakistan-floods-exceeds-900-and-may-climb-further.json)  [XML](/news/2010/07/31/the-death-toll-from-the-2010-pakistan-floods-exceeds-900-and-may-climb-further.xml)  
+
 ### [2010-07-31](/news/2010/07/31/index.md)
 
+##### devastating floods
 # The death toll from the 2010 Pakistan floods exceeds 900 and may climb further. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5g0PhnTb4o3duUzEmhpSNiZ8WZvWA)
 2. [Bloomberg via ''San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/g/a/2010/07/31/bloomberg1376-L6EZAC0UQVI901-62JHVSRM8OS1D37U7J04V8Q7OU.DTL)

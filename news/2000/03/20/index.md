@@ -1,7 +1,7 @@
-## [2000-03-20](/news/2000/03/20/index.md)
 
-### [ Jamil Abdullah Al-Amin, a former Black Panther, is captured after a gun battle that left a sheriff's deputy dead.](/news/2000/03/20/jamil-abdullah-al-amin-a-former-black-panther-is-captured-after-a-gun-battle-that-left-a-sheriff-s-deputy-dead.md)
-_Context: Black Panther Party, Jamil Abdullah Al-Amin_
+Formats: [HTML](2000/03/20/index.html)  [JSON](2000/03/20/index.json)  [XML](2000/03/20/index.xml)  
+
+## [2000-03-20](/news/2000/03/20/index.md)
 
 ## [Previous Day...](/news/2000/03/19/index.md)
 

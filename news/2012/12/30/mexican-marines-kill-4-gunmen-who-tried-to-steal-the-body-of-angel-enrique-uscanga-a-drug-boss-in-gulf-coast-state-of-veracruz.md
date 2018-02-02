@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/30/mexican-marines-kill-4-gunmen-who-tried-to-steal-the-body-of-angel-enrique-uscanga-a-drug-boss-in-gulf-coast-state-of-veracruz.html)  [JSON](/news/2012/12/30/mexican-marines-kill-4-gunmen-who-tried-to-steal-the-body-of-angel-enrique-uscanga-a-drug-boss-in-gulf-coast-state-of-veracruz.json)  [XML](/news/2012/12/30/mexican-marines-kill-4-gunmen-who-tried-to-steal-the-body-of-angel-enrique-uscanga-a-drug-boss-in-gulf-coast-state-of-veracruz.xml)  
+
 ### [2012-12-30](/news/2012/12/30/index.md)
 
+##### Mexico
 # Mexican marines kill 4 gunmen who tried to steal the body of Angel Enrique Uscanga, a drug boss, in Gulf coast state of Veracruz. 
 
 Mexican marines have slain four gunmen who apparently were trying to steal the body of a Zetas cartel chieftain killed by the military a day before in the Gulf coast state of Veracruz.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Guardian](http://www.guardian.co.uk/world/feedarticle/10590497)
 2. [Fox News](http://www.foxnews.com/world/2012/12/29/mexican-marines-kill-4-who-tried-to-steal-body-drug-boss-in-gulf-coast-region/)

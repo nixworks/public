@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/5/venezuela-deploys-15-000-troops-to-its-border-with-colombia.html)  [JSON](/news/2009/11/5/venezuela-deploys-15-000-troops-to-its-border-with-colombia.json)  [XML](/news/2009/11/5/venezuela-deploys-15-000-troops-to-its-border-with-colombia.xml)  
+
 ### [2009-11-5](/news/2009/11/5/index.md)
 
+##### Venezuela
 #  Venezuela deploys 15,000 troops to its border with Colombia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hCIKDzMk3thB2iiP8uhH7lXThSCQD9BPNVDO0)
 

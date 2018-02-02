@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/11/6/the-title-of-the-seventh-installment-of-the-star-wars-film-franchise-is-revealed-to-be-the-force-awakens.html)  [JSON](/news/2014/11/6/the-title-of-the-seventh-installment-of-the-star-wars-film-franchise-is-revealed-to-be-the-force-awakens.json)  [XML](/news/2014/11/6/the-title-of-the-seventh-installment-of-the-star-wars-film-franchise-is-revealed-to-be-the-force-awakens.xml)  
+
 ### [2014-11-6](/news/2014/11/6/index.md)
 
+##### Star Wars
 # The title of the seventh installment of the Star Wars film franchise is revealed to be "The Force Awakens". 
 
 The upcoming installment of the &quot;Star Wars&quot; film franchise has finished shooting and will be called &quot;Star Wars: The Force Awakens,&quot; Walt Disney Studios said on Thursday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/11/06/us-film-starwars-idUSKBN0IQ26J20141106)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20141106&t=2&i=989411987&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEAA50Y0)
+1. [Reuters](https://www.reuters.com/article/2014/11/06/us-film-starwars-idUSKBN0IQ26J20141106)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20141106&t=2&i=989411987&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEAA50Y0)
 
 ### Related:
 

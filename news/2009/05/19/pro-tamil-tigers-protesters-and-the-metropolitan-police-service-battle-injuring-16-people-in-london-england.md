@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/19/pro-tamil-tigers-protesters-and-the-metropolitan-police-service-battle-injuring-16-people-in-london-england.html)  [JSON](/news/2009/05/19/pro-tamil-tigers-protesters-and-the-metropolitan-police-service-battle-injuring-16-people-in-london-england.json)  [XML](/news/2009/05/19/pro-tamil-tigers-protesters-and-the-metropolitan-police-service-battle-injuring-16-people-in-london-england.xml)  
+
 ### [2009-05-19](/news/2009/05/19/index.md)
 
+##### LTTE
 #  Pro-Tamil Tigers protesters and the Metropolitan Police Service battle, injuring 16 people, in London, England. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/UK-News/Pro-Tamil-Protesters-In-Westminster-London-Clash-With-Police-Arrests-Made-And-At-Least-16-Injured/Article/200905315284191?lpos=UK_News_Top_Stories_Header_1&lid=ARTICLE_15284191_Pro-Tamil_Protesters_In_Westminster%2C_London%2C_Clash_With_Police%3A_Arrests_Made_And_At_Least_16_Injured)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/22/comedy-central-decides-to-not-renew-futurama-meaning-that-the-show-may-end-on-september-4-2013.html)  [JSON](/news/2013/04/22/comedy-central-decides-to-not-renew-futurama-meaning-that-the-show-may-end-on-september-4-2013.json)  [XML](/news/2013/04/22/comedy-central-decides-to-not-renew-futurama-meaning-that-the-show-may-end-on-september-4-2013.xml)  
+
 ### [2013-04-22](/news/2013/04/22/index.md)
 
+##### Comedy Central
 # Comedy Central decides to not renew "Futurama", meaning that the show may end on September 4, 2013. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Inside TV](http://insidetv.ew.com/2013/04/22/futurama-not-renewed-comedy-central/)
 

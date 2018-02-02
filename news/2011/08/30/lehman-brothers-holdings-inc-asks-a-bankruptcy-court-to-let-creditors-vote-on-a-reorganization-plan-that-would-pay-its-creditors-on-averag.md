@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/08/30/lehman-brothers-holdings-inc-asks-a-bankruptcy-court-to-let-creditors-vote-on-a-reorganization-plan-that-would-pay-its-creditors-on-averag.html)  [JSON](/news/2011/08/30/lehman-brothers-holdings-inc-asks-a-bankruptcy-court-to-let-creditors-vote-on-a-reorganization-plan-that-would-pay-its-creditors-on-averag.json)  [XML](/news/2011/08/30/lehman-brothers-holdings-inc-asks-a-bankruptcy-court-to-let-creditors-vote-on-a-reorganization-plan-that-would-pay-its-creditors-on-averag.xml)  
+
 ### [2011-08-30](/news/2011/08/30/index.md)
 
+##### Lehman Brothers
 # Lehman Brothers Holdings Inc. asks a bankruptcy court to let creditors vote on a reorganization plan that would pay its creditors, on average, $0.20 on the dollar. 
 
 Lehman Brothers Holdings Inc LEHMQ.PK told a bankruptcy judge on Tuesday it has resolved or pushed off eight of the 18 objections to its plan outline to pay creditors back $65 billion and end the biggest bankruptcy in U.S. history.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/08/30/us-lehman-idUSTRE77T0K820110830)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20110830&t=2&i=489394987&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-08-30T162834Z_01_BTRE77T0CTF00_RTROPTP_0_LEHMAN)
+1. [Reuters](https://www.reuters.com/article/2011/08/30/us-lehman-idUSTRE77T0K820110830)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20110830&t=2&i=489394987&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-08-30T162834Z_01_BTRE77T0CTF00_RTROPTP_0_LEHMAN)
 
 ### Related:
 

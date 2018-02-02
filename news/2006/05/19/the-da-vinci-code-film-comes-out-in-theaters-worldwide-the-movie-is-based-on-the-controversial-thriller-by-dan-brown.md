@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/19/the-da-vinci-code-film-comes-out-in-theaters-worldwide-the-movie-is-based-on-the-controversial-thriller-by-dan-brown.html)  [JSON](/news/2006/05/19/the-da-vinci-code-film-comes-out-in-theaters-worldwide-the-movie-is-based-on-the-controversial-thriller-by-dan-brown.json)  [XML](/news/2006/05/19/the-da-vinci-code-film-comes-out-in-theaters-worldwide-the-movie-is-based-on-the-controversial-thriller-by-dan-brown.xml)  
+
 ### [2006-05-19](/news/2006/05/19/index.md)
 
+##### The Da Vinci Code
 #  The Da Vinci Code film comes out in theaters worldwide. The movie is based on the controversial thriller by Dan Brown. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Despatch, South Africa](http://www.dispatch.co.za/2006/05/20/Foreign/adavin.html)
 

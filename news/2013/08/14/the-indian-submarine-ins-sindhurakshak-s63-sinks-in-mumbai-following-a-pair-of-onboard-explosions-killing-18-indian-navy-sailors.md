@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/08/14/the-indian-submarine-ins-sindhurakshak-s63-sinks-in-mumbai-following-a-pair-of-onboard-explosions-killing-18-indian-navy-sailors.html)  [JSON](/news/2013/08/14/the-indian-submarine-ins-sindhurakshak-s63-sinks-in-mumbai-following-a-pair-of-onboard-explosions-killing-18-indian-navy-sailors.json)  [XML](/news/2013/08/14/the-indian-submarine-ins-sindhurakshak-s63-sinks-in-mumbai-following-a-pair-of-onboard-explosions-killing-18-indian-navy-sailors.xml)  
+
 ### [2013-08-14](/news/2013/08/14/index.md)
 
+##### Indian Navy
 # The Indian submarine INS Sindhurakshak (S63) sinks in Mumbai following a pair of onboard explosions killing 18 Indian Navy sailors. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/world/18-sailors-feared-dead-in-indian-submarine-explosions/2013/08/14/374ddd8e-050c-11e3-a07f-49ddc7417125_story.html/)
+1. [Washington Post](https://www.washingtonpost.com/world/18-sailors-feared-dead-in-indian-submarine-explosions/2013/08/14/374ddd8e-050c-11e3-a07f-49ddc7417125_story.html/)
 
 ### Related:
 

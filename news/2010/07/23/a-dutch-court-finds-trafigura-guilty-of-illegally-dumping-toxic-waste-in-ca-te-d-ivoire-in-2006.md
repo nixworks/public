@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/23/a-dutch-court-finds-trafigura-guilty-of-illegally-dumping-toxic-waste-in-ca-te-d-ivoire-in-2006.html)  [JSON](/news/2010/07/23/a-dutch-court-finds-trafigura-guilty-of-illegally-dumping-toxic-waste-in-ca-te-d-ivoire-in-2006.json)  [XML](/news/2010/07/23/a-dutch-court-finds-trafigura-guilty-of-illegally-dumping-toxic-waste-in-ca-te-d-ivoire-in-2006.xml)  
+
 ### [2010-07-23](/news/2010/07/23/index.md)
 
+##### Trafigura
 # A Dutch court finds Trafigura guilty of illegally dumping toxic waste in Cote d'Ivoire in 2006. 
 
 A Dutch court finds multinational firm Trafigura guilty of illegally exporting toxic waste from the Dutch port of Amsterdam to Ivory Coast.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10735255)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/jul/23/trafigura-dutch-fine-waste-export)

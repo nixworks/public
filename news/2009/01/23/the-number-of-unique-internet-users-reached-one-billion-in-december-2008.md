@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/23/the-number-of-unique-internet-users-reached-one-billion-in-december-2008.html)  [JSON](/news/2009/01/23/the-number-of-unique-internet-users-reached-one-billion-in-december-2008.json)  [XML](/news/2009/01/23/the-number-of-unique-internet-users-reached-one-billion-in-december-2008.xml)  
+
 ### [2009-01-23](/news/2009/01/23/index.md)
 
+##### Internet
 #  The number of unique Internet users reached one billion in December 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNET.com](http://news.cnet.com/8301-1023_3-10149534-93.html)
 

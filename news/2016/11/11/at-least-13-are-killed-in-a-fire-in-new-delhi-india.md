@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/11/11/at-least-13-are-killed-in-a-fire-in-new-delhi-india.html)  [JSON](/news/2016/11/11/at-least-13-are-killed-in-a-fire-in-new-delhi-india.json)  [XML](/news/2016/11/11/at-least-13-are-killed-in-a-fire-in-new-delhi-india.xml)  
+
 ### [2016-11-11](/news/2016/11/11/index.md)
 
+##### New Delhi
 # At least 13 are killed in a fire in New Delhi, India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA News](http://www.voanews.com/a/india-fatal-garment-factory-fire/3591935.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/13/a-presidential-election-takes-place-in-benin-after-previously-being-delayed.html)  [JSON](/news/2011/03/13/a-presidential-election-takes-place-in-benin-after-previously-being-delayed.json)  [XML](/news/2011/03/13/a-presidential-election-takes-place-in-benin-after-previously-being-delayed.xml)  
+
 ### [2011-03-13](/news/2011/03/13/index.md)
 
+##### presidential election
 # A presidential election takes place in Benin, after previously being delayed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/africa/voting-begins-in-benin-1.1040583)
 2. [Voice of Russia](http://english.ruvr.ru/2011/03/13/47335879.html)

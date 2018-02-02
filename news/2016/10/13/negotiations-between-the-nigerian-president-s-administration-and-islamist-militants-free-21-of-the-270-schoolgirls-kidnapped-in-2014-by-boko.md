@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/13/negotiations-between-the-nigerian-president-s-a
 
 ### [2016-10-13](/news/2016/10/13/index.md)
 
+##### Boko Haram
 # Negotiations between the Nigerian president's administration and Islamist militants free 21 of the 270 schoolgirls kidnapped in 2014 by Boko Haram in Chibok, Nigeria (leaving 218 victims still unaccounted for). 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/8/president-of-east-timor-josa-c-ramos-horta-begins-his-two-day-first-official-state-visit-to-ireland-by-meeting-taoiseach-brian-cowen-urging.html)  [JSON](/news/2010/03/8/president-of-east-timor-josa-c-ramos-horta-begins-his-two-day-first-official-state-visit-to-ireland-by-meeting-taoiseach-brian-cowen-urging.json)  [XML](/news/2010/03/8/president-of-east-timor-josa-c-ramos-horta-begins-his-two-day-first-official-state-visit-to-ireland-by-meeting-taoiseach-brian-cowen-urging.xml)  
+
 ### [2010-03-8](/news/2010/03/8/index.md)
 
+##### President
 # President of East Timor Jose Ramos-Horta begins his two-day first official state visit to Ireland by meeting Taoiseach Brian Cowen, urging the country to continue providing economic support as a priority nation and receiving an honorary doctorate from University College Dublin. 
 
 The President of East Timor has called on Ireland to continue its support for the country despite the economic circumstances here.
 
 
-### Source:
+### Sources:
 
 1. [Philippines News](http://news.ph.msn.com/regional/article.aspx?cp-documentid=3929685)
 2. [RTÉ](http://www.rte.ie/news/2010/0308/easttimor.html)

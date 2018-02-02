@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/09/23/lester-crawford-u-s-food-and-drug-administration-commissioner-resigns-citing-old-age-critics-accuse-crawford-of-incompetence-regarding.html)  [JSON](/news/2005/09/23/lester-crawford-u-s-food-and-drug-administration-commissioner-resigns-citing-old-age-critics-accuse-crawford-of-incompetence-regarding.json)  [XML](/news/2005/09/23/lester-crawford-u-s-food-and-drug-administration-commissioner-resigns-citing-old-age-critics-accuse-crawford-of-incompetence-regarding.xml)  
+
 ### [2005-09-23](/news/2005/09/23/index.md)
 
+##### Lester Crawford
 #  Lester Crawford, U.S. Food and Drug Administration Commissioner resigns; citing old age. Critics accuse Crawford of incompetence regarding Vioxx, cloned beef, approval of malfunctioning heart devices, and alleged corruption. He served two months in office. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP on Yahoo!](http://news.yahoo.com/s/ap/20050923/ap_on_go_ca_st_pe/fda_commissioner_resigns)
+1. [AP on Yahoo!](https://news.yahoo.com/s/ap/20050923/ap_on_go_ca_st_pe/fda_commissioner_resigns)
 
 ### Related:
 

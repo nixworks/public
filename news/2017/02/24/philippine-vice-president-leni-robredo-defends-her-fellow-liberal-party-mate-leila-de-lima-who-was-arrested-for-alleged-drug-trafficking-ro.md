@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/24/philippine-vice-president-leni-robredo-defends-
 
 ### [2017-02-24](/news/2017/02/24/index.md)
 
+##### Philippine
 # Philippine vice president Leni Robredo defends her fellow Liberal party-mate Leila de Lima who was arrested for alleged drug trafficking. Robredo calls de Lima's arrest political harassment. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/22/flights-resume-in-southeast-australia-as-the-volcanic-ash-cloud-from-the-2011-puyehue-corda3n-caulle-eruption-clears-although-flights-to-tas.html)  [JSON](/news/2011/06/22/flights-resume-in-southeast-australia-as-the-volcanic-ash-cloud-from-the-2011-puyehue-corda3n-caulle-eruption-clears-although-flights-to-tas.json)  [XML](/news/2011/06/22/flights-resume-in-southeast-australia-as-the-volcanic-ash-cloud-from-the-2011-puyehue-corda3n-caulle-eruption-clears-although-flights-to-tas.xml)  
+
 ### [2011-06-22](/news/2011/06/22/index.md)
 
+##### Australia
 # Flights resume in southeast Australia as the volcanic ash cloud from the 2011 Puyehue-Cordon Caulle eruption clears although flights to Tasmania and New Zealand are still affected. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/travel/travel-news/ash-cloud-chaos-flights-set-to-resume-20110622-1gdzn.html)
 

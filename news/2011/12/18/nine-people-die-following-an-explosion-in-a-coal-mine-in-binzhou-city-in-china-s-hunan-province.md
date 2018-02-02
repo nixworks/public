@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/18/nine-people-die-following-an-explosion-in-a-coal-mine-in-binzhou-city-in-china-s-hunan-province.html)  [JSON](/news/2011/12/18/nine-people-die-following-an-explosion-in-a-coal-mine-in-binzhou-city-in-china-s-hunan-province.json)  [XML](/news/2011/12/18/nine-people-die-following-an-explosion-in-a-coal-mine-in-binzhou-city-in-china-s-hunan-province.xml)  
+
 ### [2011-12-18](/news/2011/12/18/index.md)
 
+##### coal mine
 # Nine people die following an explosion in a coal mine in Binzhou City in China's Hunan Province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/china/2011-12/18/c_131313142.htm)
 

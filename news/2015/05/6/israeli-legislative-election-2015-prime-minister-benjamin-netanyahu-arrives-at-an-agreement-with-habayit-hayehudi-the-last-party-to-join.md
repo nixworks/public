@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/6/israeli-legislative-election-2015-prime-minister-benjamin-netanyahu-arrives-at-an-agreement-with-habayit-hayehudi-the-last-party-to-join.html)  [JSON](/news/2015/05/6/israeli-legislative-election-2015-prime-minister-benjamin-netanyahu-arrives-at-an-agreement-with-habayit-hayehudi-the-last-party-to-join.json)  [XML](/news/2015/05/6/israeli-legislative-election-2015-prime-minister-benjamin-netanyahu-arrives-at-an-agreement-with-habayit-hayehudi-the-last-party-to-join.xml)  
+
 ### [2015-05-6](/news/2015/05/6/index.md)
 
+##### Israeli legislative election, 2015
 # Israeli legislative election, 2015: Prime Minister Benjamin Netanyahu arrives at an agreement with Habayit Hayehudi - the last party to join - just before the midnight deadline for the talks. With Naftali Bennett's party agreeing to a deal, Netanyahu's coalition will number 61 Members of the Knesset - the bare minimum needed. 
 
 Details of deal between Likud and Habayit Hayehudi will be worked out and disclosed next week, ahead of the swearing-in of the new government. 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/news/israel/.premium-1.655247)
 1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.655287.1431018072!/image/2377146692.jpg_gen/derivatives/headline_1200x630/2377146692.jpg)

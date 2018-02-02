@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/4/u-s-president-donald-trump-accuses-former-presid
 
 ### [2017-03-4](/news/2017/03/4/index.md)
 
+##### Trump Tower wiretapping allegations
 # U.S. President Donald Trump accuses former President Barack Obama of wiretapping Trump Tower the month before the 2016 presidential election but offers no evidence to support his claim. A spokesman for President Obama rejects these claims. 
 
 Barack Obama has rejected claims by Donald Trump that he wiretapped him during the late stages of the US presidential election campaign.

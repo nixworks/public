@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/11/pink-floyd-win-their-court-battle-with-emi-paving-the-way-for-individual-tracks-of-their-music-to-be-removed-from-online-music-services.html)  [JSON](/news/2010/03/11/pink-floyd-win-their-court-battle-with-emi-paving-the-way-for-individual-tracks-of-their-music-to-be-removed-from-online-music-services.json)  [XML](/news/2010/03/11/pink-floyd-win-their-court-battle-with-emi-paving-the-way-for-individual-tracks-of-their-music-to-be-removed-from-online-music-services.xml)  
+
 ### [2010-03-11](/news/2010/03/11/index.md)
 
+##### Pink Floyd
 # Pink Floyd win their court battle with EMI, paving the way for individual tracks of their music to be removed from online music services. 
 
 Fans of Pink Floyd could soon be unable to buy their songs individually on websites like iTunes after lawyers for the rock band won a High Court ruling against EMI.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8561963.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/culture/music/music-news/7421247/Pink-Floyd-stops-EMI-from-cutting-up-albums-online.html)

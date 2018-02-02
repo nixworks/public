@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/18/italian-police-arrest-buffalo-mozzarella-maker-giuseppe-mandara-over-alleged-links-to-organized-crime-groups-in-naples-italy.html)  [JSON](/news/2012/07/18/italian-police-arrest-buffalo-mozzarella-maker-giuseppe-mandara-over-alleged-links-to-organized-crime-groups-in-naples-italy.json)  [XML](/news/2012/07/18/italian-police-arrest-buffalo-mozzarella-maker-giuseppe-mandara-over-alleged-links-to-organized-crime-groups-in-naples-italy.xml)  
+
 ### [2012-07-18](/news/2012/07/18/index.md)
 
+##### buffalo mozzarella
 # Italian police arrest buffalo mozzarella maker Giuseppe Mandara over alleged links to organized crime groups in Naples, Italy. 
 
 Italian police have arrested the head of the biggest buffalo mozzarella maker in the country and seized assets worth 100 million euros ($120.47 million) on suspicion of links to organised crime.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/world/armani-of-mozzarella-mafia-big-cheese-arrested-20120718-229h7.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/2/2/9/h/e/image.related.articleLeadwide.620x349.229h7.png/1342578546700.jpg)

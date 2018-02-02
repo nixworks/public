@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/21/the-ano-movement-of-billionaire-andrej-babia-wi
 
 ### [2017-10-21](/news/2017/10/21/index.md)
 
+##### Czech legislative election, 2017
 # The ANO movement of billionaire Andrej Babis wins a sizeable plurality of seats in the Chamber of Deputies, but falls short of a majority. 
 
 Andrej Babis, the billionaire leader of an anti-establishment party, is expected to become prime minister of the Czech Republic after mainstream parties fall short.

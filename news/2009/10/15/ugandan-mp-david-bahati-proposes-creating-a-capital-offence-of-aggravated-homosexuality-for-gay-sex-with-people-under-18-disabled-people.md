@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/15/ugandan-mp-david-bahati-proposes-creating-a-capital-offence-of-aggravated-homosexuality-for-gay-sex-with-people-under-18-disabled-people.html)  [JSON](/news/2009/10/15/ugandan-mp-david-bahati-proposes-creating-a-capital-offence-of-aggravated-homosexuality-for-gay-sex-with-people-under-18-disabled-people.json)  [XML](/news/2009/10/15/ugandan-mp-david-bahati-proposes-creating-a-capital-offence-of-aggravated-homosexuality-for-gay-sex-with-people-under-18-disabled-people.xml)  
+
 ### [2009-10-15](/news/2009/10/15/index.md)
 
+##### Uganda
 #  Ugandan MP David Bahati proposes creating a capital offence of "aggravated homosexuality" for gay sex with people under 18, disabled people or when the accused is HIV-positive. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8308912.stm)
 

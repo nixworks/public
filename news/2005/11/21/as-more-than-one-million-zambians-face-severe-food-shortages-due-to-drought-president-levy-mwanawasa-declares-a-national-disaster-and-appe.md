@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/21/as-more-than-one-million-zambians-face-severe-food-shortages-due-to-drought-president-levy-mwanawasa-declares-a-national-disaster-and-appe.html)  [JSON](/news/2005/11/21/as-more-than-one-million-zambians-face-severe-food-shortages-due-to-drought-president-levy-mwanawasa-declares-a-national-disaster-and-appe.json)  [XML](/news/2005/11/21/as-more-than-one-million-zambians-face-severe-food-shortages-due-to-drought-president-levy-mwanawasa-declares-a-national-disaster-and-appe.xml)  
+
 ### [2005-11-21](/news/2005/11/21/index.md)
 
+##### Zambia
 #  As more than one million Zambians face severe food shortages due to drought, President Levy Mwanawasa declares a national disaster and appealed for international food aid. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4457814.stm)
 

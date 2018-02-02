@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/30/the-state-peace-and-development-council-military-government-is-officially-dissolved-in-burma.html)  [JSON](/news/2011/03/30/the-state-peace-and-development-council-military-government-is-officially-dissolved-in-burma.json)  [XML](/news/2011/03/30/the-state-peace-and-development-council-military-government-is-officially-dissolved-in-burma.xml)  
+
 ### [2011-03-30](/news/2011/03/30/index.md)
 
+##### State Peace and Development Council
 # The State Peace and Development Council military government is officially dissolved in Burma. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12903507)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

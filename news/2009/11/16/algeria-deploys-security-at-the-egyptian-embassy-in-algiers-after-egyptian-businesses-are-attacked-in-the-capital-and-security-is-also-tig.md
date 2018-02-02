@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/16/algeria-deploys-security-at-the-egyptian-embassy-in-algiers-after-egyptian-businesses-are-attacked-in-the-capital-and-security-is-also-tig.html)  [JSON](/news/2009/11/16/algeria-deploys-security-at-the-egyptian-embassy-in-algiers-after-egyptian-businesses-are-attacked-in-the-capital-and-security-is-also-tig.json)  [XML](/news/2009/11/16/algeria-deploys-security-at-the-egyptian-embassy-in-algiers-after-egyptian-businesses-are-attacked-in-the-capital-and-security-is-also-tig.xml)  
+
 ### [2009-11-16](/news/2009/11/16/index.md)
 
+##### Algeria
 #  Algeria deploys security at the Egyptian embassy in Algiers after Egyptian businesses are attacked in the capital, and security is also tightened in Sudan ahead of a World Cup play off between the two countries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8362215.stm)
 2. [Times of India](http://timesofindia.indiatimes.com/sports/football/world-cup-qualifiers/top-stories/Sudan-tighten-security-before-Egypt-Algeria-playoff/articleshow/5237882.cms)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/29/the-rim-fire-near-yosemite-national-park-now-30-contained-has-grown-to-about-300-square-miles.html)  [JSON](/news/2013/08/29/the-rim-fire-near-yosemite-national-park-now-30-contained-has-grown-to-about-300-square-miles.json)  [XML](/news/2013/08/29/the-rim-fire-near-yosemite-national-park-now-30-contained-has-grown-to-about-300-square-miles.xml)  
+
 ### [2013-08-29](/news/2013/08/29/index.md)
 
+##### Rim Fire
 # The Rim Fire near Yosemite National Park, now 30% contained, has grown to about 300 square miles. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC Bay Area](http://www.nbcbayarea.com/news/local/Rim-Fire-Near-Yosemite-Now-30-Percent-Contained-192500-Acres-Burnedound-on-Rim-Fire-Near-Yosemite-Now-20-Percent-Contained-221627691.html)
 1. [Cover Image](http://media.nbcbayarea.com/images/1200*675/8-26-2013-rim-fire.jpg)

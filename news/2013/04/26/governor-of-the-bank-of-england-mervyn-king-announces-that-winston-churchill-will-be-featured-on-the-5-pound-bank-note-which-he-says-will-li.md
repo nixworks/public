@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/26/governor-of-the-bank-of-england-mervyn-king-announces-that-winston-churchill-will-be-featured-on-the-5-pound-bank-note-which-he-says-will-li.html)  [JSON](/news/2013/04/26/governor-of-the-bank-of-england-mervyn-king-announces-that-winston-churchill-will-be-featured-on-the-5-pound-bank-note-which-he-says-will-li.json)  [XML](/news/2013/04/26/governor-of-the-bank-of-england-mervyn-king-announces-that-winston-churchill-will-be-featured-on-the-5-pound-bank-note-which-he-says-will-li.xml)  
+
 ### [2013-04-26](/news/2013/04/26/index.md)
 
+##### Governor of the Bank of England
 # Governor of the Bank of England Mervyn King announces that Winston Churchill will be featured on the 5 pound bank note which he says will likely begin circulation in 2016. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC](http://abcnews.go.com/International/wireStory/finest-hour-churchill-uk-bank-note-19048096#.UXqfh5WhDzI)
 

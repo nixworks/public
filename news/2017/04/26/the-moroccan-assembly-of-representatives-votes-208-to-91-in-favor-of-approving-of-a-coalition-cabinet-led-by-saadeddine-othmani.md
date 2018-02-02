@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/26/the-moroccan-assembly-of-representatives-votes-
 
 ### [2017-04-26](/news/2017/04/26/index.md)
 
+##### Morocco
 # The Moroccan Assembly of Representatives votes 208 to 91 in favor of approving of a coalition cabinet led by Saadeddine Othmani. 
 
 

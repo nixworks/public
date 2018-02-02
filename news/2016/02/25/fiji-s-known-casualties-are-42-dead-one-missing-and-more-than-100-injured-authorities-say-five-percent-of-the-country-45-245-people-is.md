@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/25/fiji-s-known-casualties-are-42-dead-one-missing
 
 ### [2016-02-25](/news/2016/02/25/index.md)
 
+##### 2015-16 South Pacific cyclone season
 # Fiji's known casualties are 42 dead, one missing, and more than 100 injured. Authorities say five percent of the country (45,245 people) is staying in evacuation centers and about 80 schools have been damaged. UNICEF reports at least 120,000 of Fiji's children have been affected. The current identified destruction is more than $1 billion. About 80 percent of the plantations were damaged, especially sugar fields. However, tourism's infrastructure has escaped serious damage. 
 
 

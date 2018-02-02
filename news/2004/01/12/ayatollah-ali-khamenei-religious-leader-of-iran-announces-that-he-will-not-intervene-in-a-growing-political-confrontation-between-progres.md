@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/12/ayatollah-ali-khamenei-religious-leader-of-iran-announces-that-he-will-not-intervene-in-a-growing-political-confrontation-between-progres.html)  [JSON](/news/2004/01/12/ayatollah-ali-khamenei-religious-leader-of-iran-announces-that-he-will-not-intervene-in-a-growing-political-confrontation-between-progres.json)  [XML](/news/2004/01/12/ayatollah-ali-khamenei-religious-leader-of-iran-announces-that-he-will-not-intervene-in-a-growing-political-confrontation-between-progres.xml)  
+
 ### [2004-01-12](/news/2004/01/12/index.md)
 
+##### Ayatollah
 #  Ayatollah Ali Khamenei, religious leader of Iran, announces that he will not intervene in a growing political confrontation between progressives and hardliners after the Guardian Council, which he controls, barred thousands of candidates from running in upcoming Parliamentary elections (including 80 current members of Parliament).
 
 

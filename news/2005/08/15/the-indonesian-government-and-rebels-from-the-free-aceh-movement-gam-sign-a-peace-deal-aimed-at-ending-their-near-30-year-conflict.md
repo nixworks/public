@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/15/the-indonesian-government-and-rebels-from-the-free-aceh-movement-gam-sign-a-peace-deal-aimed-at-ending-their-near-30-year-conflict.html)  [JSON](/news/2005/08/15/the-indonesian-government-and-rebels-from-the-free-aceh-movement-gam-sign-a-peace-deal-aimed-at-ending-their-near-30-year-conflict.json)  [XML](/news/2005/08/15/the-indonesian-government-and-rebels-from-the-free-aceh-movement-gam-sign-a-peace-deal-aimed-at-ending-their-near-30-year-conflict.xml)  
+
 ### [2005-08-15](/news/2005/08/15/index.md)
 
+##### GAM
 #  The Indonesian government and rebels from the Free Aceh Movement (Gam) sign a peace deal aimed at ending their near 30 year conflict. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4151980.stm)
 2. [XinHua](http://news.xinhuanet.com/english/2005-08/16/content_3358907.htm)

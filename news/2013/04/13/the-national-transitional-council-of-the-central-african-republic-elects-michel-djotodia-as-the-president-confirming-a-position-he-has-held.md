@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/13/the-national-transitional-council-of-the-central-african-republic-elects-michel-djotodia-as-the-president-confirming-a-position-he-has-held.html)  [JSON](/news/2013/04/13/the-national-transitional-council-of-the-central-african-republic-elects-michel-djotodia-as-the-president-confirming-a-position-he-has-held.json)  [XML](/news/2013/04/13/the-national-transitional-council-of-the-central-african-republic-elects-michel-djotodia-as-the-president-confirming-a-position-he-has-held.xml)  
+
 ### [2013-04-13](/news/2013/04/13/index.md)
 
+##### Central African Republic
 # The National Transitional Council of the Central African Republic elects Michel Djotodia as the President confirming a position he has held since a coup last month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://www.presstv.ir/detail/2013/04/13/298127/coup-leader-elected-car-president/)
 

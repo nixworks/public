@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/10/prime-minister-of-tunisia-hamadi-jebali-says-he-will-resign-if-a-new-technocratic-government-cannot-be-formed-in-a-few-days-amid-protests.html)  [JSON](/news/2013/02/10/prime-minister-of-tunisia-hamadi-jebali-says-he-will-resign-if-a-new-technocratic-government-cannot-be-formed-in-a-few-days-amid-protests.json)  [XML](/news/2013/02/10/prime-minister-of-tunisia-hamadi-jebali-says-he-will-resign-if-a-new-technocratic-government-cannot-be-formed-in-a-few-days-amid-protests.xml)  
+
 ### [2013-02-10](/news/2013/02/10/index.md)
 
+##### Prime Minister of Tunisia
 # Prime Minister of Tunisia Hamadi Jebali says he will resign if a new "technocratic" government cannot be formed in a few days. Amid protests one policeman dies and tens of protesters are injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21394031)
 2. [Tunisia Live](http://www.tunisia-live.net/2013/02/09/tunisian-pm-reaffirms-commitment-to-technocratic-government/)

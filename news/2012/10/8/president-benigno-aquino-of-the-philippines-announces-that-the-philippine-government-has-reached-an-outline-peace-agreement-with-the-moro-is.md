@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/8/president-benigno-aquino-of-the-philippines-announces-that-the-philippine-government-has-reached-an-outline-peace-agreement-with-the-moro-is.html)  [JSON](/news/2012/10/8/president-benigno-aquino-of-the-philippines-announces-that-the-philippine-government-has-reached-an-outline-peace-agreement-with-the-moro-is.json)  [XML](/news/2012/10/8/president-benigno-aquino-of-the-philippines-announces-that-the-philippine-government-has-reached-an-outline-peace-agreement-with-the-moro-is.xml)  
+
 ### [2012-10-8](/news/2012/10/8/index.md)
 
+##### President Benigno Aquino
 # President Benigno Aquino of the Philippines announces that the Philippine government has reached an outline peace agreement with the Moro Islamic Liberation Front over the disputed Mindanao region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19860907)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63340000/jpg/_63340670_63340669.jpg)

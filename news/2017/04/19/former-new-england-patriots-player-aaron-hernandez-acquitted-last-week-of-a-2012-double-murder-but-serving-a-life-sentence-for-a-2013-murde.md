@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/19/former-new-england-patriots-player-aaron-hernan
 
 ### [2017-04-19](/news/2017/04/19/index.md)
 
+##### New England Patriots
 # Former New England Patriots player Aaron Hernandez, acquitted last week of a 2012 double murder but serving a life sentence for a 2013 murder, is found hanged in his prison cell, and is pronounced dead an hour later. 
 
 Aaron Hernandez, the former New England Patriots star who was convicted of murder in 2015, killed himself in his prison cell Wednesday morning, officials said.

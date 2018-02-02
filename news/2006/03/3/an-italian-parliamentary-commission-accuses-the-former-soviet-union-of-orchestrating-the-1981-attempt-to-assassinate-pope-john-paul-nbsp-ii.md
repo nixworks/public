@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/3/an-italian-parliamentary-commission-accuses-the-former-soviet-union-of-orchestrating-the-1981-attempt-to-assassinate-pope-john-paul-nbsp-ii.html)  [JSON](/news/2006/03/3/an-italian-parliamentary-commission-accuses-the-former-soviet-union-of-orchestrating-the-1981-attempt-to-assassinate-pope-john-paul-nbsp-ii.json)  [XML](/news/2006/03/3/an-italian-parliamentary-commission-accuses-the-former-soviet-union-of-orchestrating-the-1981-attempt-to-assassinate-pope-john-paul-nbsp-ii.xml)  
+
 ### [2006-03-3](/news/2006/03/3/index.md)
 
+##### Soviet
 #  An Italian parliamentary commission accuses the former Soviet Union of orchestrating the 1981 attempt to assassinate Pope John Paul&nbsp;II 
 
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 
-### Source:
+### Sources:
 
 1. [Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2006/03/03/wpope03.xml&sSheet=/news/2006/03/03/ixworld.html)
 

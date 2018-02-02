@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/19/iran-s-defense-minister-ahmad-vahidi-unveils-32-scientific-and-research-projects-conducted-at-malek-ashtar-industrial-university.html)  [JSON](/news/2011/02/19/iran-s-defense-minister-ahmad-vahidi-unveils-32-scientific-and-research-projects-conducted-at-malek-ashtar-industrial-university.json)  [XML](/news/2011/02/19/iran-s-defense-minister-ahmad-vahidi-unveils-32-scientific-and-research-projects-conducted-at-malek-ashtar-industrial-university.xml)  
+
 ### [2011-02-19](/news/2011/02/19/index.md)
 
+##### Ahmad Vahidi
 # Iran's defense minister Ahmad Vahidi unveils 32 scientific and research projects conducted at Malek Ashtar Industrial University. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://www.presstv.ir/detail/166085.html)
 

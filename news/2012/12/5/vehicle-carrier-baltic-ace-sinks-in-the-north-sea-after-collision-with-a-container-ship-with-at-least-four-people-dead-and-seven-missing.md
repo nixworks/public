@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/5/vehicle-carrier-baltic-ace-sinks-in-the-north-sea-after-collision-with-a-container-ship-with-at-least-four-people-dead-and-seven-missing.html)  [JSON](/news/2012/12/5/vehicle-carrier-baltic-ace-sinks-in-the-north-sea-after-collision-with-a-container-ship-with-at-least-four-people-dead-and-seven-missing.json)  [XML](/news/2012/12/5/vehicle-carrier-baltic-ace-sinks-in-the-north-sea-after-collision-with-a-container-ship-with-at-least-four-people-dead-and-seven-missing.xml)  
+
 ### [2012-12-5](/news/2012/12/5/index.md)
 
+##### Baltic Ace
 # Vehicle carrier "Baltic Ace" sinks in the North Sea after collision with a container ship with at least four people dead and seven missing. 
 
 At least three crew members died when a cargo ship carrying cars sank after colliding with a container ship in the North Sea on Wednesday night, Dutch coastguards and media reports said.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Australian](http://www.theaustralian.com.au/news/world/three-dead-after-freighter-sinks-off-netherlands-coast/story-e6frg6so-1226531060398)
 2. [Reuters](http://uk.reuters.com/article/2012/12/05/uk-dutch-ship-collision-idUKBRE8B419M20121205)

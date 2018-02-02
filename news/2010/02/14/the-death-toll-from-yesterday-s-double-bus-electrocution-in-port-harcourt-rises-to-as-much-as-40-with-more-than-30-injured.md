@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/02/14/the-death-toll-from-yesterday-s-double-bus-electrocution-in-port-harcourt-rises-to-as-much-as-40-with-more-than-30-injured.html)  [JSON](/news/2010/02/14/the-death-toll-from-yesterday-s-double-bus-electrocution-in-port-harcourt-rises-to-as-much-as-40-with-more-than-30-injured.json)  [XML](/news/2010/02/14/the-death-toll-from-yesterday-s-double-bus-electrocution-in-port-harcourt-rises-to-as-much-as-40-with-more-than-30-injured.xml)  
+
 ### [2010-02-14](/news/2010/02/14/index.md)
 
+##### yesterday's double bus electrocution
 # The death toll from yesterday's double bus electrocution in Port Harcourt rises to as much as 40, with more than 30 injured. 
 
 At least 20 people were killed in Nigeria on Saturday when a cable fell onto a bus and electrocuted people inside, the police said.
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://www.presstv.ir/detail.aspx?id=118577&sectionid=351020505)
 2. [THISDAY](http://www.thisdayonline.com/nview.php?id=166439)
-3. [The New York Times](http://www.nytimes.com/2010/02/14/world/africa/14nigeria.html)
+3. [The New York Times](https://www.nytimes.com/2010/02/14/world/africa/14nigeria.html)
 4. [The Punch](http://www.punchng.com/Articl.aspx?theartic=Art2010021316415779)
 4. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 

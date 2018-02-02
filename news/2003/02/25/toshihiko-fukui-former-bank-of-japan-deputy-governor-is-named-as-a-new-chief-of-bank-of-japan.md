@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/25/toshihiko-fukui-former-bank-of-japan-deputy-governor-is-named-as-a-new-chief-of-bank-of-japan.html)  [JSON](/news/2003/02/25/toshihiko-fukui-former-bank-of-japan-deputy-governor-is-named-as-a-new-chief-of-bank-of-japan.json)  [XML](/news/2003/02/25/toshihiko-fukui-former-bank-of-japan-deputy-governor-is-named-as-a-new-chief-of-bank-of-japan.xml)  
+
 ### [2003-02-25](/news/2003/02/25/index.md)
 
+##### Toshihiko Fukui
 #  Toshihiko Fukui, former Bank of Japan Deputy Governor, is named as a new chief of Bank of Japan.
 
 

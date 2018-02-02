@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/04/14/iranian-president-mahmoud-ahmadinejad-criticizes-israel-in-a-three-day-conference-attended-by-palestinian-hamas-officials-he-calls-the-isr.html)  [JSON](/news/2006/04/14/iranian-president-mahmoud-ahmadinejad-criticizes-israel-in-a-three-day-conference-attended-by-palestinian-hamas-officials-he-calls-the-isr.json)  [XML](/news/2006/04/14/iranian-president-mahmoud-ahmadinejad-criticizes-israel-in-a-three-day-conference-attended-by-palestinian-hamas-officials-he-calls-the-isr.xml)  
+
 ### [2006-04-14](/news/2006/04/14/index.md)
 
+##### Iran
 #  Iranian president Mahmoud Ahmadinejad criticizes Israel in a three-day conference attended by Palestinian Hamas officials. He calls the Israeli regime "a rotten, dried tree that will be eliminated by one storm." 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/04/14/AR2006041400818.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2006/04/14/AR2006041400818.html)
 
 ### Related:
 

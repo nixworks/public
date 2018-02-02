@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/8/at-least-nine-people-are-killed-after-gunmen-attack-a-bar-in-burundi-s-capital-bujumbura.html)  [JSON](/news/2015/11/8/at-least-nine-people-are-killed-after-gunmen-attack-a-bar-in-burundi-s-capital-bujumbura.json)  [XML](/news/2015/11/8/at-least-nine-people-are-killed-after-gunmen-attack-a-bar-in-burundi-s-capital-bujumbura.xml)  
+
 ### [2015-11-8](/news/2015/11/8/index.md)
 
+##### Burundi
 # At least nine people are killed after gunmen attack a bar in Burundi's capital, Bujumbura. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://www.voanews.com/content/seven-killed-in-burundi-bar-attack/3048779.html)
 

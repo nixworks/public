@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/01/5/the-112th-united-states-congress-is-convened-republican-representative-john-boehner-of-ohio-is-elected-speaker-of-the-house-of-representati.html)  [JSON](/news/2011/01/5/the-112th-united-states-congress-is-convened-republican-representative-john-boehner-of-ohio-is-elected-speaker-of-the-house-of-representati.json)  [XML](/news/2011/01/5/the-112th-united-states-congress-is-convened-republican-representative-john-boehner-of-ohio-is-elected-speaker-of-the-house-of-representati.xml)  
+
 ### [2011-01-5](/news/2011/01/5/index.md)
 
+##### 112th Congress
 # The 112th United States Congress is convened. Republican Representative John Boehner of Ohio is elected Speaker of the House of Representatives, succeeding Democrat Nancy Pelosi of California. 
 
 Republican John Boehner was elected on Wednesday as speaker of the House of Representatives, replacing Democrat Nancy Pelosi.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE70445T20110105)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110105&t=2&i=296730958&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-05T192358Z_01_BTRE7041HW100_RTROPTP_0_USA-CONGRESS)
+1. [Reuters](https://www.reuters.com/article/idUSTRE70445T20110105)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20110105&t=2&i=296730958&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-05T192358Z_01_BTRE7041HW100_RTROPTP_0_USA-CONGRESS)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/6/vigils-and-a-musical-requiem-are-among-a-series-of-events-held-in-l-aquila-to-mark-the-first-anniversary-of-one-of-europe-s-largest-post-war.html)  [JSON](/news/2010/04/6/vigils-and-a-musical-requiem-are-among-a-series-of-events-held-in-l-aquila-to-mark-the-first-anniversary-of-one-of-europe-s-largest-post-war.json)  [XML](/news/2010/04/6/vigils-and-a-musical-requiem-are-among-a-series-of-events-held-in-l-aquila-to-mark-the-first-anniversary-of-one-of-europe-s-largest-post-war.xml)  
+
 ### [2010-04-6](/news/2010/04/6/index.md)
 
+##### L'Aquila
 # Vigils and a musical requiem are among a series of events held in L'Aquila to mark the first anniversary of one of Europe's largest post-war natural disasters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8604184.stm)
 

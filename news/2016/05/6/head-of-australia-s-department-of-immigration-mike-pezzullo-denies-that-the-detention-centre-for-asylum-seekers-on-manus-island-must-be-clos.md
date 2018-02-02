@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/6/head-of-australia-s-department-of-immigration-mi
 
 ### [2016-05-6](/news/2016/05/6/index.md)
 
+##### Australia
 # Head of Australia's Department of Immigration Mike Pezzullo denies that the detention centre for asylum seekers on Manus Island must be closed. He said there was no crisis that required any closure of the centre despite Papua New Guinea's Supreme Court ruling it to be unconstitutional and ordering the release of the detainees. 
 
 Australia says the Manus Island asylum seeker processing facility in PNG could remain operational.

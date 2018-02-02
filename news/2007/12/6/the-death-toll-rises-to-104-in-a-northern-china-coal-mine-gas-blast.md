@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/6/the-death-toll-rises-to-104-in-a-northern-china-coal-mine-gas-blast.html)  [JSON](/news/2007/12/6/the-death-toll-rises-to-104-in-a-northern-china-coal-mine-gas-blast.json)  [XML](/news/2007/12/6/the-death-toll-rises-to-104-in-a-northern-china-coal-mine-gas-blast.xml)  
+
 ### [2007-12-6](/news/2007/12/6/index.md)
 
+##### China
 #  The death toll rises to 104 in a northern China coal mine gas blast. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/china/2007-12/07/content_6306777.htm)
 

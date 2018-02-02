@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/30/the-deadly-nine-day-old-soberanes-fire-blazing-
 
 ### [2016-07-30](/news/2016/07/30/index.md)
 
+##### 2016 California wildfires
 # The deadly, nine-day old Soberanes Fire, blazing south of Carmel-by-the-Sea, has destroyed 57 homes and is expected to grow to 170,000 acres (265 square miles) before it's done. It is 15 percent contained. Six major Big Sur State Parks remain closed through August 6. 
 
 A massive wildfire burning north of Big Sur has scorched more than 33,000 acres and destroyed 68 structures, fire officials said. 

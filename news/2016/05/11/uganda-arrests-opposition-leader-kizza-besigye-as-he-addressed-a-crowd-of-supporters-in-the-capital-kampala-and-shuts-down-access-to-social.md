@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/11/uganda-arrests-opposition-leader-kizza-besigye-
 
 ### [2016-05-11](/news/2016/05/11/index.md)
 
+##### Ugandan general election, 2016
 # Uganda arrests opposition leader Kizza Besigye as he addressed a crowd of supporters in the capital Kampala, and shuts down access to social media within the country prior to President Yoweri Museveni's inauguration tomorrow. 
 
 

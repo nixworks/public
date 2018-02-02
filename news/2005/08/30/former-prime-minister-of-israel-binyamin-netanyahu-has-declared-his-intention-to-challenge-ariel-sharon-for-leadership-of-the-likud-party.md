@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/30/former-prime-minister-of-israel-binyamin-netanyahu-has-declared-his-intention-to-challenge-ariel-sharon-for-leadership-of-the-likud-party.html)  [JSON](/news/2005/08/30/former-prime-minister-of-israel-binyamin-netanyahu-has-declared-his-intention-to-challenge-ariel-sharon-for-leadership-of-the-likud-party.json)  [XML](/news/2005/08/30/former-prime-minister-of-israel-binyamin-netanyahu-has-declared-his-intention-to-challenge-ariel-sharon-for-leadership-of-the-likud-party.xml)  
+
 ### [2005-08-30](/news/2005/08/30/index.md)
 
+##### Israeli Prime Minister
 #  Former Prime Minister of Israel, Binyamin Netanyahu, has declared his intention to challenge Ariel Sharon for leadership of the Likud party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4197656.stm)
 

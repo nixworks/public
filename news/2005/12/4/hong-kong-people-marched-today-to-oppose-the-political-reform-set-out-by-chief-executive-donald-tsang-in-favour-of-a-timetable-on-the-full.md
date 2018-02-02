@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/12/4/hong-kong-people-marched-today-to-oppose-the-political-reform-set-out-by-chief-executive-donald-tsang-in-favour-of-a-timetable-on-the-full.html)  [JSON](/news/2005/12/4/hong-kong-people-marched-today-to-oppose-the-political-reform-set-out-by-chief-executive-donald-tsang-in-favour-of-a-timetable-on-the-full.json)  [XML](/news/2005/12/4/hong-kong-people-marched-today-to-oppose-the-political-reform-set-out-by-chief-executive-donald-tsang-in-favour-of-a-timetable-on-the-full.xml)  
+
 ### [2005-12-4](/news/2005/12/4/index.md)
 
+##### Hong Kong
 #  Hong Kong people marched today to oppose the political reform set out by Chief Executive Donald Tsang in favour of a timetable on the full implementation of universal suffrage in the territory. Organisers claimed 250,000 attended the march, while police put the figure at 63,000. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo!News](http://news.yahoo.com/s/ap/20051205/ap_on_re_as/hong_kong_democracy_protest)
-2. [NYTimes](http://www.nytimes.com/2005/12/05/international/asia/05hong.html)
+1. [AP via Yahoo!News](https://news.yahoo.com/s/ap/20051205/ap_on_re_as/hong_kong_democracy_protest)
+2. [NYTimes](https://www.nytimes.com/2005/12/05/international/asia/05hong.html)
 3. [Xinhua](http://news.xinhuanet.com/english/2005-12/04/content_3876230.htm)
 
 ### Related:

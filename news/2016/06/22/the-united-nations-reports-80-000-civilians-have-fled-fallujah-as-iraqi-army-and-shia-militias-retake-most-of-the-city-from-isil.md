@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/22/the-united-nations-reports-80-000-civilians-hav
 
 ### [2016-06-22](/news/2016/06/22/index.md)
 
+##### during fighting
 # The United Nations reports 80,000 civilians have fled Fallujah, as Iraqi Army and Shia militias retake most of the city from ISIL. 
 
 

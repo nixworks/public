@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/09/8/2002-us-open-pete-sampras-defeats-andre-agassi-in-four-sets-to-win-his-record-14th-major.html)  [JSON](/news/2002/09/8/2002-us-open-pete-sampras-defeats-andre-agassi-in-four-sets-to-win-his-record-14th-major.json)  [XML](/news/2002/09/8/2002-us-open-pete-sampras-defeats-andre-agassi-in-four-sets-to-win-his-record-14th-major.xml)  
+
 ### [2002-09-8](/news/2002/09/8/index.md)
 
+##### 2002 US Open
 #  2002 US Open: Pete Sampras defeats Andre Agassi in four sets to win his record 14th major.
 
 

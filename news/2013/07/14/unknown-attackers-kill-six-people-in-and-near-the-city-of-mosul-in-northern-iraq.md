@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/14/unknown-attackers-kill-six-people-in-and-near-the-city-of-mosul-in-northern-iraq.html)  [JSON](/news/2013/07/14/unknown-attackers-kill-six-people-in-and-near-the-city-of-mosul-in-northern-iraq.json)  [XML](/news/2013/07/14/unknown-attackers-kill-six-people-in-and-near-the-city-of-mosul-in-northern-iraq.xml)  
+
 ### [2013-07-14](/news/2013/07/14/index.md)
 
+##### Mosul
 # Unknown attackers kill six people in and near the city of Mosul in northern Iraq. 
 
 Dozens of people have been killed in a wave of explosions which tore through overwhelmingly Shiite cities south of Baghdad shortly before Muslims broke their Ramadan fasts.
 
 
-### Source:
+### Sources:
 
 1. [Press Association via ''Independent Ireland](http://www.independent.ie/world-news/attackers-kill-6-in-northern-iraq-29418850.html)
 1. [Cover Image](http://www.independent.ie/world-news/article29418848.ece/ALTERNATES/h342/PANews_N0185761373800960671A_I1.jpg)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/07/10/karl-rove-s-lawyer-robert-luskin-acknowledges-that-rove-was-connected-to-the-leak-that-led-to-the-revelation-of-valerie-plame-s-position.html)  [JSON](/news/2005/07/10/karl-rove-s-lawyer-robert-luskin-acknowledges-that-rove-was-connected-to-the-leak-that-led-to-the-revelation-of-valerie-plame-s-position.json)  [XML](/news/2005/07/10/karl-rove-s-lawyer-robert-luskin-acknowledges-that-rove-was-connected-to-the-leak-that-led-to-the-revelation-of-valerie-plame-s-position.xml)  
+
 ### [2005-07-10](/news/2005/07/10/index.md)
 
+##### Karl Rove
 #  Karl Rove's lawyer, Robert Luskin, acknowledges that Rove was connected to the leak that led to the revelation of Valerie Plame's position as a CIA agent. Luskin confirmed that Rove had been interviewed by Cooper for the article. It is unclear, however, what passed between Cooper and Rove. "Rove did not mention her name to Cooper," Luskin said. "This was not an effort to encourage "Time" [magazine] to disclose her identity. What he was doing was discouraging "Time" from perpetuating some statements that had been made publicly and weren't true." Luskin had previously said that Rove "absolutely did not identify Valerie Plame." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Newsweek](http://msnbc.msn.com/id/8525978/site/newsweek/)
-2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/07/10/AR2005071001000.html)
+2. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2005/07/10/AR2005071001000.html)
 2. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/10/pope-francis-at-the-start-of-a-two-day-nuclear-
 
 ### [2017-11-10](/news/2017/11/10/index.md)
 
+##### Dicastery for Promoting Integral Human Development
 # Pope Francis, at the start of a two-day nuclear disarmament conference at Vatican City, says countries should not stockpile nuclear weapons even for the purpose of deterrence. 
 
 

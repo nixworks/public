@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/31/german-president-horst-kaphler-resigns-after-being-criticized-for-some-remarks-about-german-military-deployments-pundits-and-opposition-pol.html)  [JSON](/news/2010/05/31/german-president-horst-kaphler-resigns-after-being-criticized-for-some-remarks-about-german-military-deployments-pundits-and-opposition-pol.json)  [XML](/news/2010/05/31/german-president-horst-kaphler-resigns-after-being-criticized-for-some-remarks-about-german-military-deployments-pundits-and-opposition-pol.xml)  
+
 ### [2010-05-31](/news/2010/05/31/index.md)
 
+##### President of Germany
 # German President Horst Kohler resigns after being criticized for some remarks about German military deployments. Pundits and opposition politicians call it an "overreaction" on his part. 
 
 German President Horst Koehler says he is resigning, following criticism of remarks he made about German military missions.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/10198036.stm)
 2. [Der Spiegel](http://www.spiegel.de/international/germany/0,1518,697785,00.html)

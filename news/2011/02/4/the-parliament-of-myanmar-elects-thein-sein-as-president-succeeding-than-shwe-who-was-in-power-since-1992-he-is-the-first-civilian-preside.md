@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/4/the-parliament-of-myanmar-elects-thein-sein-as-president-succeeding-than-shwe-who-was-in-power-since-1992-he-is-the-first-civilian-preside.html)  [JSON](/news/2011/02/4/the-parliament-of-myanmar-elects-thein-sein-as-president-succeeding-than-shwe-who-was-in-power-since-1992-he-is-the-first-civilian-preside.json)  [XML](/news/2011/02/4/the-parliament-of-myanmar-elects-thein-sein-as-president-succeeding-than-shwe-who-was-in-power-since-1992-he-is-the-first-civilian-preside.xml)  
+
 ### [2011-02-4](/news/2011/02/4/index.md)
 
+##### Parliament of Myanmar
 # The Parliament of Myanmar elects Thein Sein as President, succeeding Than Shwe who was in power since 1992. He is the first civilian president in half a century. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Yahoo! News](http://ca.news.yahoo.com/myanmar-parliament-choose-president-likely-contender-seen-juntas-20110203-202716-193.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/02/2011248226620572.html)

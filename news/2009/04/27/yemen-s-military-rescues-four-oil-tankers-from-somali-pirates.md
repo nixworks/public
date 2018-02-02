@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/27/yemen-s-military-rescues-four-oil-tankers-from-somali-pirates.html)  [JSON](/news/2009/04/27/yemen-s-military-rescues-four-oil-tankers-from-somali-pirates.json)  [XML](/news/2009/04/27/yemen-s-military-rescues-four-oil-tankers-from-somali-pirates.xml)  
+
 ### [2009-04-27](/news/2009/04/27/index.md)
 
+##### Yemen
 #  Yemen's military rescues four oil tankers from Somali pirates. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8019926.stm)
 

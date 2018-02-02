@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/29/bahraini-uprising-anti-government-protests-are-banned-and-legal-action-is-threatened-against-those-backing-the-protests.html)  [JSON](/news/2012/10/29/bahraini-uprising-anti-government-protests-are-banned-and-legal-action-is-threatened-against-those-backing-the-protests.json)  [XML](/news/2012/10/29/bahraini-uprising-anti-government-protests-are-banned-and-legal-action-is-threatened-against-those-backing-the-protests.xml)  
+
 ### [2012-10-29](/news/2012/10/29/index.md)
 
+##### Bahraini uprising (2011-present)
 # Bahraini uprising: Anti-government protests are banned and legal action is threatened against those backing the protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/10/2012103093735935103.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/9/18/201291815552854734_20.jpg)

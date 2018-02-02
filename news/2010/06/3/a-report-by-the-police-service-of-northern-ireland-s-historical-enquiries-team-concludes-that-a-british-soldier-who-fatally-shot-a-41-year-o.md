@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/3/a-report-by-the-police-service-of-northern-ireland-s-historical-enquiries-team-concludes-that-a-british-soldier-who-fatally-shot-a-41-year-o.html)  [JSON](/news/2010/06/3/a-report-by-the-police-service-of-northern-ireland-s-historical-enquiries-team-concludes-that-a-british-soldier-who-fatally-shot-a-41-year-o.json)  [XML](/news/2010/06/3/a-report-by-the-police-service-of-northern-ireland-s-historical-enquiries-team-concludes-that-a-british-soldier-who-fatally-shot-a-41-year-o.xml)  
+
 ### [2010-06-3](/news/2010/06/3/index.md)
 
+##### Police Service of Northern Ireland
 # A report by the Police Service of Northern Ireland's Historical Enquiries Team concludes that a British soldier who fatally shot a 41-year-old civilian in Derry in 1971 acted "unlawfully", as the civilian "was not carrying a firearm and he posed no threat to the soldiers". 
 
 The soldier who killed a man in 1971 should have been charged with murder, the chief of the RUC in the city said at the time.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/northern_ireland/foyle_and_west/10226501.stm)
 2. [Londonderry Sentinel](http://www.londonderrysentinel.co.uk/news/Shot-man-was-innocent.6339799.jp)

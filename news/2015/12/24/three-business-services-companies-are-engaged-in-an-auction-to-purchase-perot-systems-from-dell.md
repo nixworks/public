@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/12/24/three-business-services-companies-are-engaged-in-an-auction-to-purchase-perot-systems-from-dell.html)  [JSON](/news/2015/12/24/three-business-services-companies-are-engaged-in-an-auction-to-purchase-perot-systems-from-dell.json)  [XML](/news/2015/12/24/three-business-services-companies-are-engaged-in-an-auction-to-purchase-perot-systems-from-dell.xml)  
+
 ### [2015-12-24](/news/2015/12/24/index.md)
 
+##### Perot Systems
 # Three business services companies are engaged in an auction to purchase Perot Systems from Dell. 
 
 Business services companies Cognizant Technology Solutions Corp, NTT Data Corp and Atos SE are competing to acquire Perot Systems, an IT management business of Dell Inc, according to people familiar with the matter.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-perotsystems-m-a-exclusive-idUSKBN0U717Q20151224)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-perotsystems-m-a-exclusive-idUSKBN0U717Q20151224)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

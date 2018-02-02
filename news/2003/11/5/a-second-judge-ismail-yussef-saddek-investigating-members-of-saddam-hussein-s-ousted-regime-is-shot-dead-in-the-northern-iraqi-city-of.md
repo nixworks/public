@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/5/a-second-judge-ismail-yussef-saddek-investigating-members-of-saddam-hussein-s-ousted-regime-is-shot-dead-in-the-northern-iraqi-city-of.html)  [JSON](/news/2003/11/5/a-second-judge-ismail-yussef-saddek-investigating-members-of-saddam-hussein-s-ousted-regime-is-shot-dead-in-the-northern-iraqi-city-of.json)  [XML](/news/2003/11/5/a-second-judge-ismail-yussef-saddek-investigating-members-of-saddam-hussein-s-ousted-regime-is-shot-dead-in-the-northern-iraqi-city-of.xml)  
+
 ### [2003-11-5](/news/2003/11/5/index.md)
 
+##### Ismail Yussef Saddek
 #  * A second judge, Ismail Yussef Saddek, investigating members of Saddam Hussein's ousted regime is shot dead in the northern Iraqi city of Mosul.
 
 

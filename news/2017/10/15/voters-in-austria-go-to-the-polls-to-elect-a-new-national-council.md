@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/15/voters-in-austria-go-to-the-polls-to-elect-a-ne
 
 ### [2017-10-15](/news/2017/10/15/index.md)
 
+##### Austrian legislative election, 2017
 # Voters in Austria go to the polls to elect a new National Council. 
 
 Voting is underway in Austria’s parliamentary election. Embattled Chancellor Christian Kern looks set to lose to the Conservative Peoples Party led by 31 year-old

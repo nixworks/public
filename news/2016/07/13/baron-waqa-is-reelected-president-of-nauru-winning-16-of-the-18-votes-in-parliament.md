@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/13/baron-waqa-is-reelected-president-of-nauru-winn
 
 ### [2016-07-13](/news/2016/07/13/index.md)
 
+##### Nauruan parliamentary election, 2016
 # Baron Waqa is reelected President of Nauru, winning 16 of the 18 votes in Parliament. 
 
 Baron Waqa has been re-elected as president of Nauru taking 16 of the 18 votes.

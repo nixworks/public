@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/27/the-death-toll-of-the-recent-spate-of-anti-government-violence-in-iraq-surpasses-190-as-protests-against-the-leadership-of-nouri-al-maliki-c.html)  [JSON](/news/2013/04/27/the-death-toll-of-the-recent-spate-of-anti-government-violence-in-iraq-surpasses-190-as-protests-against-the-leadership-of-nouri-al-maliki-c.json)  [XML](/news/2013/04/27/the-death-toll-of-the-recent-spate-of-anti-government-violence-in-iraq-surpasses-190-as-protests-against-the-leadership-of-nouri-al-maliki-c.xml)  
+
 ### [2013-04-27](/news/2013/04/27/index.md)
 
+##### recent spate of anti-government violence
 # The death toll of the recent spate of anti-government violence in Iraq surpasses 190 as protests against the leadership of Nouri al-Maliki continue. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [al Jazeera](http://www.aljazeera.com/news/middleeast/2013/04/201342610411101447.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/4/27/201342710155628734_20.jpg)

@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2013/12/5/militants-in-kirkuk-iraq-attack-a-mall-and-police-headquarters-killing-10-people-and-injuring-another-70.html)  [JSON](/news/2013/12/5/militants-in-kirkuk-iraq-attack-a-mall-and-police-headquarters-killing-10-people-and-injuring-another-70.json)  [XML](/news/2013/12/5/militants-in-kirkuk-iraq-attack-a-mall-and-police-headquarters-killing-10-people-and-injuring-another-70.xml)  
+
 ### [2013-12-5](/news/2013/12/5/index.md)
 
+##### Kirkuk
 # Militants in Kirkuk, Iraq, attack a mall and police headquarters, killing 10 people and injuring another 70. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/world/2013-12/05/c_132944106.htm)
+
+### Changes:
+
+1. [Iraqi insurgency (post-U.S. withdrawal):Militants in Kirkuk, Iraq, attack a mall and police headquarters, killing 10 people and injuring another 70. ](/news/2013/12/5/iraqi-insurgency-post-u-s-withdrawal-pmilitants-in-kirkuk-iraq-attack-a-mall-and-police-headquarters-killing-10-people-and-injuring-an.md) _2017-08-25 03:39:38 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: Militants in Kirkuk, Iraq, attack a mall and police headquarters, killing 10 people and injuring another 70. ](/news/2013/12/5/iraqi-insurgency-post-u-s-withdrawal-militants-in-kirkuk-iraq-attack-a-mall-and-police-headquarters-killing-10-people-and-injuring-a.md) _2017-08-27 03:39:56 (Update)_
+2. [Militants in Kirkuk, Iraq, attack a mall and police headquarters, killing 10 people and injuring another 70. ](/news/2013/12/5/militants-in-kirkuk-iraq-attack-a-mall-and-police-headquarters-killing-10-people-and-injuring-another-70.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [A balloting station on the outskirts of Kirkuk, Iraq, is attacked by militants, leaving 10 people dead. ](/news/2014/04/22/a-balloting-station-on-the-outskirts-of-kirkuk-iraq-is-attacked-by-militants-leaving-10-people-dead.md) _Context: Iraq, Kirkuk_
 4. [A bomb detonates outside a Sunni mosque in Kirkuk, Iraq, killing 12 worshipers and injuring another 24. ](/news/2013/10/15/a-bomb-detonates-outside-a-sunni-mosque-in-kirkuk-iraq-killing-12-worshipers-and-injuring-another-24.md) _Context: Iraq, Kirkuk_
 5. [At least 33 people are killed in Kirkuk, Iraq, when a suicide bomber detonates a truck packed with explosives outside a police headquarters and gunmen disguised as officers tried to storm the compound. ](/news/2013/02/3/at-least-33-people-are-killed-in-kirkuk-iraq-when-a-suicide-bomber-detonates-a-truck-packed-with-explosives-outside-a-police-headquarters.md) _Context: Iraq, Kirkuk_
-
-### Changes:
-
-1. [Iraqi insurgency (post-U.S. withdrawal):Militants in Kirkuk, Iraq, attack a mall and police headquarters, killing 10 people and injuring another 70. ](/news/2013/12/5/iraqi-insurgency-post-u-s-withdrawal-pmilitants-in-kirkuk-iraq-attack-a-mall-and-police-headquarters-killing-10-people-and-injuring-an.md) _2017-08-25 03:39:38 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: Militants in Kirkuk, Iraq, attack a mall and police headquarters, killing 10 people and injuring another 70. ](/news/2013/12/5/iraqi-insurgency-post-u-s-withdrawal-militants-in-kirkuk-iraq-attack-a-mall-and-police-headquarters-killing-10-people-and-injuring-a.md) _2017-08-27 03:39:56 (Update)_
-2. [Militants in Kirkuk, Iraq, attack a mall and police headquarters, killing 10 people and injuring another 70. ](/news/2013/12/5/militants-in-kirkuk-iraq-attack-a-mall-and-police-headquarters-killing-10-people-and-injuring-another-70.md) _(Current version)_

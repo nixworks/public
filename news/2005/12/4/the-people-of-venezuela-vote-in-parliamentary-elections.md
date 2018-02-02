@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/4/the-people-of-venezuela-vote-in-parliamentary-elections.html)  [JSON](/news/2005/12/4/the-people-of-venezuela-vote-in-parliamentary-elections.json)  [XML](/news/2005/12/4/the-people-of-venezuela-vote-in-parliamentary-elections.xml)  
+
 ### [2005-12-4](/news/2005/12/4/index.md)
 
+##### parliamentary elections
 #  The people of Venezuela vote in Parliamentary Elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4496586.stm)
 

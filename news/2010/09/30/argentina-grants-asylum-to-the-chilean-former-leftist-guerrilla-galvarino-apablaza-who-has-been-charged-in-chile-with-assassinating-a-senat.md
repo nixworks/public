@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/30/argentina-grants-asylum-to-the-chilean-former-leftist-guerrilla-galvarino-apablaza-who-has-been-charged-in-chile-with-assassinating-a-senat.html)  [JSON](/news/2010/09/30/argentina-grants-asylum-to-the-chilean-former-leftist-guerrilla-galvarino-apablaza-who-has-been-charged-in-chile-with-assassinating-a-senat.json)  [XML](/news/2010/09/30/argentina-grants-asylum-to-the-chilean-former-leftist-guerrilla-galvarino-apablaza-who-has-been-charged-in-chile-with-assassinating-a-senat.xml)  
+
 ### [2010-09-30](/news/2010/09/30/index.md)
 
+##### Argentina
 # Argentina grants asylum to the Chilean former leftist guerrilla Galvarino Apablaza, who has been charged in Chile with assassinating a senator, despite the Chilean government's request to extradite him. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g9pZc9mi_qRoyZl3vSWTzIMTeKhwD9IIIKG00?docId=D9IIIKG00)
 2. [Buenos Aires Herald](http://www.buenosairesherald.com/BreakingNews/View/46686)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/15/will-rogers-world-airport-in-oklahoma-city-susp
 
 ### [2016-11-15](/news/2016/11/15/index.md)
 
+##### Will Rogers World Airport
 # Will Rogers World Airport in Oklahoma City suspends all arrival and departure flights after at least one person is shot in the airport's parking lot. Local media report that victim has been transported in "emergency condition" to a nearby hospital. 
 
 

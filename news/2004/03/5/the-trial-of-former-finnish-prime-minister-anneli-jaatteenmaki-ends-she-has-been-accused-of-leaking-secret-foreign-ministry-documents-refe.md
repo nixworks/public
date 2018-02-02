@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/5/the-trial-of-former-finnish-prime-minister-anneli-jaatteenmaki-ends-she-has-been-accused-of-leaking-secret-foreign-ministry-documents-refe.html)  [JSON](/news/2004/03/5/the-trial-of-former-finnish-prime-minister-anneli-jaatteenmaki-ends-she-has-been-accused-of-leaking-secret-foreign-ministry-documents-refe.json)  [XML](/news/2004/03/5/the-trial-of-former-finnish-prime-minister-anneli-jaatteenmaki-ends-she-has-been-accused-of-leaking-secret-foreign-ministry-documents-refe.xml)  
+
 ### [2004-03-5](/news/2004/03/5/index.md)
 
+##### Anneli Jtteenmki
 #  The trial of former Finnish Prime Minister Anneli Jtteenmki ends. She has been accused of leaking secret foreign ministry documents referring to her predecessor Paavo Lipponen's meetings with George W. Bush. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/3537531.stm)
 

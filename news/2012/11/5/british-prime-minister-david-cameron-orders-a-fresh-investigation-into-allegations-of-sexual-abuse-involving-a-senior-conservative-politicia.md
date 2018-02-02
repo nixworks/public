@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/5/british-prime-minister-david-cameron-orders-a-fresh-investigation-into-allegations-of-sexual-abuse-involving-a-senior-conservative-politicia.html)  [JSON](/news/2012/11/5/british-prime-minister-david-cameron-orders-a-fresh-investigation-into-allegations-of-sexual-abuse-involving-a-senior-conservative-politicia.json)  [XML](/news/2012/11/5/british-prime-minister-david-cameron-orders-a-fresh-investigation-into-allegations-of-sexual-abuse-involving-a-senior-conservative-politicia.xml)  
+
 ### [2012-11-5](/news/2012/11/5/index.md)
 
+##### British Prime Minister
 # British Prime Minister David Cameron orders a fresh investigation into allegations of sexual abuse involving a senior Conservative politician from the Thatcher era. The allegations concern sexual abuse at children's homes in Wales during the 1970s and 1980s. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20204687)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63897000/jpg/_63897567_8twp8jto.jpg)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/07/25/fifteen-insurgents-are-killed-in-a-five-hour-battle-near-the-guerrilla-stronghold-of-buhriz-near-baquba-in-which-small-arms-artillery-and.html)  [JSON](/news/2004/07/25/fifteen-insurgents-are-killed-in-a-five-hour-battle-near-the-guerrilla-stronghold-of-buhriz-near-baquba-in-which-small-arms-artillery-and.json)  [XML](/news/2004/07/25/fifteen-insurgents-are-killed-in-a-five-hour-battle-near-the-guerrilla-stronghold-of-buhriz-near-baquba-in-which-small-arms-artillery-and.xml)  
+
 ### [2004-07-25](/news/2004/07/25/index.md)
 
+##### Buhriz
 #  Fifteen insurgents are killed in a five-hour battle near the guerrilla stronghold of Buhriz near Baquba in which small-arms, artillery, and mortars are used. A U.S soldier is killed in a roadside bomb attack near Baiji, 90 miles south of Mosul. A former government official is killed in Baghdad. Guerillas murder two police officers in Mahumudiya, 25 miles south of Baghdad. A police officer, a Kurdish Patriotic Union of Kurdistan fighter, and a Kurdish woman and her two sons are killed in Kirkuk. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://news.yahoo.com/news?tmpl=story&u=/ap/20040725/ap_on_re_mi_ea/iraq_040725191245)
+1. [AP](https://news.yahoo.com/news?tmpl=story&u=/ap/20040725/ap_on_re_mi_ea/iraq_040725191245)
 
 ### Related:
 

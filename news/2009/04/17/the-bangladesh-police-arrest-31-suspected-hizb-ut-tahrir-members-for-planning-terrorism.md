@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/17/the-bangladesh-police-arrest-31-suspected-hizb-ut-tahrir-members-for-planning-terrorism.html)  [JSON](/news/2009/04/17/the-bangladesh-police-arrest-31-suspected-hizb-ut-tahrir-members-for-planning-terrorism.json)  [XML](/news/2009/04/17/the-bangladesh-police-arrest-31-suspected-hizb-ut-tahrir-members-for-planning-terrorism.xml)  
+
 ### [2009-04-17](/news/2009/04/17/index.md)
 
+##### Bangladesh
 #  The Bangladesh Police arrest 31 suspected Hizb ut-Tahrir members for planning terrorism. 
 
 Police in Bangladesh have arrested 31 men suspected of plotting a terrorist attack, an officer said on Saturday.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/bangladesh-arrests-31-alleged-militants-20090418-aaq6.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

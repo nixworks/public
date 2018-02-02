@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/20/iraq-inquiry-documents-show-former-british-prime-minister-tony-blair-was-offered-an-alternative-to-attacking-iraq-during-a-secret-meeting-he.html)  [JSON](/news/2011/01/20/iraq-inquiry-documents-show-former-british-prime-minister-tony-blair-was-offered-an-alternative-to-attacking-iraq-during-a-secret-meeting-he.json)  [XML](/news/2011/01/20/iraq-inquiry-documents-show-former-british-prime-minister-tony-blair-was-offered-an-alternative-to-attacking-iraq-during-a-secret-meeting-he.xml)  
+
 ### [2011-01-20](/news/2011/01/20/index.md)
 
+##### Iraq Inquiry
 # Iraq Inquiry documents show former British prime minister Tony Blair was offered an alternative to attacking Iraq during a secret meeting held eight days before its soldiers invaded the country in 2003. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/uk/2011/jan/20/tony-blair-chilcot-inquiry-iraq)
 

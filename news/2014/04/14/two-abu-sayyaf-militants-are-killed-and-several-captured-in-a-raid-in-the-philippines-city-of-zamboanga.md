@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/14/two-abu-sayyaf-militants-are-killed-and-several-captured-in-a-raid-in-the-philippines-city-of-zamboanga.html)  [JSON](/news/2014/04/14/two-abu-sayyaf-militants-are-killed-and-several-captured-in-a-raid-in-the-philippines-city-of-zamboanga.json)  [XML](/news/2014/04/14/two-abu-sayyaf-militants-are-killed-and-several-captured-in-a-raid-in-the-philippines-city-of-zamboanga.xml)  
+
 ### [2014-04-14](/news/2014/04/14/index.md)
 
+##### Abu Sayyaf
 # Two Abu Sayyaf militants are killed and several captured in a raid in the Philippines city of Zamboanga. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/abu-sayyaf-militants-killed-philippine-raid-23313423)
 

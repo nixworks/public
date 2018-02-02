@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/29/the-people-s-republic-of-china-and-association-of-south-east-asian-nations-sign-a-trade-pact-that-could-eventually-unite-a-quarter-of-the-w.html)  [JSON](/news/2004/11/29/the-people-s-republic-of-china-and-association-of-south-east-asian-nations-sign-a-trade-pact-that-could-eventually-unite-a-quarter-of-the-w.json)  [XML](/news/2004/11/29/the-people-s-republic-of-china-and-association-of-south-east-asian-nations-sign-a-trade-pact-that-could-eventually-unite-a-quarter-of-the-w.xml)  
+
 ### [2004-11-29](/news/2004/11/29/index.md)
 
+##### ASEAN
 #  The People's Republic of China and Association of South East Asian Nations sign a trade pact that could eventually unite a quarter of the world's population in a free trade zone. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4051653.stm)
 

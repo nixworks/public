@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/08/8/sudan-seeks-support-from-states-attending-the-arab-league-summit-in-cairo-egypt-to-forestall-possible-united-nations-sanctions-against-the.html)  [JSON](/news/2004/08/8/sudan-seeks-support-from-states-attending-the-arab-league-summit-in-cairo-egypt-to-forestall-possible-united-nations-sanctions-against-the.json)  [XML](/news/2004/08/8/sudan-seeks-support-from-states-attending-the-arab-league-summit-in-cairo-egypt-to-forestall-possible-united-nations-sanctions-against-the.xml)  
+
 ### [2004-08-8](/news/2004/08/8/index.md)
 
+##### Sudan
 #  Sudan seeks support from states attending the Arab League summit in Cairo, Egypt to forestall possible United Nations sanctions against their country regarding its support for the Arab Janjaweed accused of ethnic cleansing in Darfur. Arab League Secretary General Amr Moussa states that the Arab League states are inclined to help Sudan avoid sanctions. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=5904310)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=5904310)
 
 ### Related:
 

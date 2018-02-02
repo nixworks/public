@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/13/reforms-in-burma-burma-announces-a-mass-pardon-for-political-prisoners-including-student-leader-min-ko-naing.html)  [JSON](/news/2012/01/13/reforms-in-burma-burma-announces-a-mass-pardon-for-political-prisoners-including-student-leader-min-ko-naing.json)  [XML](/news/2012/01/13/reforms-in-burma-burma-announces-a-mass-pardon-for-political-prisoners-including-student-leader-min-ko-naing.xml)  
+
 ### [2012-01-13](/news/2012/01/13/index.md)
 
+##### Reforms in Burma
 # Reforms in Burma: Burma announces a mass pardon for political prisoners, including student leader Min Ko Naing. 
 
 Burma frees many of its most prominent political prisoners in another major step towards opening up after 50 years of military rule.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16540871)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57874000/jpg/_57874760_57874759.jpg)

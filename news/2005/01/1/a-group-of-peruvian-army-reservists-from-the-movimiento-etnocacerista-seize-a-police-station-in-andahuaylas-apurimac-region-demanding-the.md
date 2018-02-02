@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/1/a-group-of-peruvian-army-reservists-from-the-movimiento-etnocacerista-seize-a-police-station-in-andahuaylas-apurimac-region-demanding-the.html)  [JSON](/news/2005/01/1/a-group-of-peruvian-army-reservists-from-the-movimiento-etnocacerista-seize-a-police-station-in-andahuaylas-apurimac-region-demanding-the.json)  [XML](/news/2005/01/1/a-group-of-peruvian-army-reservists-from-the-movimiento-etnocacerista-seize-a-police-station-in-andahuaylas-apurimac-region-demanding-the.xml)  
+
 ### [2005-01-1](/news/2005/01/1/index.md)
 
+##### Peru
 #  A group of Peruvian army reservists from the Movimiento Etnocacerista seize a police station in Andahuaylas, Apurmac Region, demanding the resignation of President Alejandro Toledo. Four police officers die in a shootout, another dozen police are taken as hostages, and a state of emergency is declared in the region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4140663.stm)
 

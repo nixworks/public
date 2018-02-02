@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/27/two-news-helicopters-belonging-to-ktvk-channel-3-knxv-channel-15-abc-collide-while-covering-a-car-chase-in-phoenix-arizona-leaving-all.html)  [JSON](/news/2007/07/27/two-news-helicopters-belonging-to-ktvk-channel-3-knxv-channel-15-abc-collide-while-covering-a-car-chase-in-phoenix-arizona-leaving-all.json)  [XML](/news/2007/07/27/two-news-helicopters-belonging-to-ktvk-channel-3-knxv-channel-15-abc-collide-while-covering-a-car-chase-in-phoenix-arizona-leaving-all.xml)  
+
 ### [2007-07-27](/news/2007/07/27/index.md)
 
-#  Two news helicopters belonging to KTVK Channel 3 & KNXV Channel 15-ABC collide while covering a car chase in Phoenix, Arizona, leaving all four dead (KTVK Pilot Scott Bowerbank, Photogapher Jim Cox, KNXV Pilot Craig Smith & Photographer Rick Krolax 
+##### helicopter
+#  Two news helicopters belonging to KTVK Channel 3 & KNXV Channel 15-ABC collide while covering a car chase in Phoenix, Arizona, leaving all four dead (KTVK Pilot Scott Bowerbank, Photographer Jim Cox, KNXV Pilot Craig Smith & Photographer Rick Krolax 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6920156.stm)
 2. [KPHO Phoenix](http://www.kpho.com/news/13770683/detail.html)

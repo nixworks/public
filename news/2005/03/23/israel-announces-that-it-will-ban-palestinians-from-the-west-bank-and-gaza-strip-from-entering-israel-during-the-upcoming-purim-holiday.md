@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/23/israel-announces-that-it-will-ban-palestinians-from-the-west-bank-and-gaza-strip-from-entering-israel-during-the-upcoming-purim-holiday.html)  [JSON](/news/2005/03/23/israel-announces-that-it-will-ban-palestinians-from-the-west-bank-and-gaza-strip-from-entering-israel-during-the-upcoming-purim-holiday.json)  [XML](/news/2005/03/23/israel-announces-that-it-will-ban-palestinians-from-the-west-bank-and-gaza-strip-from-entering-israel-during-the-upcoming-purim-holiday.xml)  
+
 ### [2005-03-23](/news/2005/03/23/index.md)
 
+##### Israel
 #  Israel announces that it will ban Palestinians from the West Bank and Gaza Strip from entering Israel during the upcoming Purim holiday. 
 
 Israel has banned the entry of Palestinians from the West Bank and Gaza during this week&#39;s celebration of the Jewish Purim holiday. 
 
 
-### Source:
+### Sources:
 
 1. [People's Daily](http://english.people.com.cn/200503/23/eng20050323_177869.html)
 2. [RTE](http://www.rte.ie/news/2005/0323/mideast.html)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/05/5/parliament-grounds-and-adjoining-footpaths-in-new-zealand-host-15-000-people-many-of-whom-have-participated-in-several-days-of-route-march.html)  [JSON](/news/2004/05/5/parliament-grounds-and-adjoining-footpaths-in-new-zealand-host-15-000-people-many-of-whom-have-participated-in-several-days-of-route-march.json)  [XML](/news/2004/05/5/parliament-grounds-and-adjoining-footpaths-in-new-zealand-host-15-000-people-many-of-whom-have-participated-in-several-days-of-route-march.xml)  
+
 ### [2004-05-5](/news/2004/05/5/index.md)
 
+##### Parliament of New Zealand
 #  Parliament grounds and adjoining footpaths in New Zealand host 15,000 people (many of whom have participated in several days of route march&nbsp;- "hikoi") protesting about the proposed law that is expected to change the ownership of foreshore and seabed.
 
 

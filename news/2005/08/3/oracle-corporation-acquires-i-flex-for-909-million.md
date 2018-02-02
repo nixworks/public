@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/3/oracle-corporation-acquires-i-flex-for-909-million.html)  [JSON](/news/2005/08/3/oracle-corporation-acquires-i-flex-for-909-million.json)  [XML](/news/2005/08/3/oracle-corporation-acquires-i-flex-for-909-million.xml)  
+
 ### [2005-08-3](/news/2005/08/3/index.md)
 
+##### Oracle Corporation
 #  Oracle Corporation acquires i-flex for $909 million. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ (Business Standard](http://www.business-standard.com/iceworld/storypage.php?hpFlag=Y&chklogin=N&autono=196260&leftnm=lmnu9&leftindx=9&lselect=0)
 1. [Cover Image](http://bsmedia.business-standard.com/_media/bs/img/common/no_preview.jpg)

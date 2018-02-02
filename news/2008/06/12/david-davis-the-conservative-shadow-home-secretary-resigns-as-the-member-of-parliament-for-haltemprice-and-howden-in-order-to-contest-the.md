@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/12/david-davis-the-conservative-shadow-home-secretary-resigns-as-the-member-of-parliament-for-haltemprice-and-howden-in-order-to-contest-the.html)  [JSON](/news/2008/06/12/david-davis-the-conservative-shadow-home-secretary-resigns-as-the-member-of-parliament-for-haltemprice-and-howden-in-order-to-contest-the.json)  [XML](/news/2008/06/12/david-davis-the-conservative-shadow-home-secretary-resigns-as-the-member-of-parliament-for-haltemprice-and-howden-in-order-to-contest-the.xml)  
+
 ### [2008-06-12](/news/2008/06/12/index.md)
 
+##### David Davis
 #  David Davis, the Conservative Shadow Home Secretary resigns as the Member of Parliament for Haltemprice and Howden in order to contest the Haltemprice and Howden by-election, 2008 on civil liberties issues. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/tol/news/politics/article4124759.ece)
 

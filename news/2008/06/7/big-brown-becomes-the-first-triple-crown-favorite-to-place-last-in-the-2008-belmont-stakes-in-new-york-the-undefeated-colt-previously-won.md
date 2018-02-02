@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/7/big-brown-becomes-the-first-triple-crown-favorite-to-place-last-in-the-2008-belmont-stakes-in-new-york-the-undefeated-colt-previously-won.html)  [JSON](/news/2008/06/7/big-brown-becomes-the-first-triple-crown-favorite-to-place-last-in-the-2008-belmont-stakes-in-new-york-the-undefeated-colt-previously-won.json)  [XML](/news/2008/06/7/big-brown-becomes-the-first-triple-crown-favorite-to-place-last-in-the-2008-belmont-stakes-in-new-york-the-undefeated-colt-previously-won.xml)  
+
 ### [2008-06-7](/news/2008/06/7/index.md)
 
+##### Big Brown
 #  Big Brown becomes the first Triple Crown favorite to place last in the 2008 Belmont Stakes in New York. The undefeated colt previously won the 2008 Kentucky Derby and the 2008 Preakness Stakes. The 38-1 longshot Da'Tara wins in a wire-to-wire finish. The last Triple Crown winner was Affirmed in 1978. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Ledger](http://www.theledger.com/article/20080608/NEWS/806080428/0/NEWS01)
 

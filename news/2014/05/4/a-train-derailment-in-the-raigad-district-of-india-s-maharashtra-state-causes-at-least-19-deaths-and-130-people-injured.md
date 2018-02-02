@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/05/4/a-train-derailment-in-the-raigad-district-of-india-s-maharashtra-state-causes-at-least-19-deaths-and-130-people-injured.html)  [JSON](/news/2014/05/4/a-train-derailment-in-the-raigad-district-of-india-s-maharashtra-state-causes-at-least-19-deaths-and-130-people-injured.json)  [XML](/news/2014/05/4/a-train-derailment-in-the-raigad-district-of-india-s-maharashtra-state-causes-at-least-19-deaths-and-130-people-injured.xml)  
+
 ### [2014-05-4](/news/2014/05/4/index.md)
 
+##### derailment
 # A train derailment in the Raigad district of India's Maharashtra state causes at least 19 deaths and 130 people injured. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/05/04/us-india-train-idUSBREA4307Q20140504)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140504&t=2&i=894135208&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA431I0P00)
+1. [Reuters](https://www.reuters.com/article/2014/05/04/us-india-train-idUSBREA4307Q20140504)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140504&t=2&i=894135208&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA431I0P00)
 
 ### Related:
 

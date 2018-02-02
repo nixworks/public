@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/10/nineteen-people-die-after-violence-breaks-out-between-government-forces-and-protesters-in-thailand.html)  [JSON](/news/2010/04/10/nineteen-people-die-after-violence-breaks-out-between-government-forces-and-protesters-in-thailand.json)  [XML](/news/2010/04/10/nineteen-people-die-after-violence-breaks-out-between-government-forces-and-protesters-in-thailand.xml)  
+
 ### [2010-04-10](/news/2010/04/10/index.md)
 
+##### 2010 Thai political protests
 # Nineteen people die after violence breaks out between government forces and protesters in Thailand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [India Blooms News Service](http://www.indiablooms.com/NriDetailsPage/nriDetails110410a.php)
 

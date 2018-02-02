@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/24/authorities-in-malaysia-find-mass-graves-in-more-than-a-dozen-camps-near-the-border-with-thailand-where-rohingya-migrants-are-held.html)  [JSON](/news/2015/05/24/authorities-in-malaysia-find-mass-graves-in-more-than-a-dozen-camps-near-the-border-with-thailand-where-rohingya-migrants-are-held.json)  [XML](/news/2015/05/24/authorities-in-malaysia-find-mass-graves-in-more-than-a-dozen-camps-near-the-border-with-thailand-where-rohingya-migrants-are-held.xml)  
+
 ### [2015-05-24](/news/2015/05/24/index.md)
 
+##### Malaysia
 # Authorities in Malaysia find mass graves in more than a dozen camps near the border with Thailand where Rohingya migrants are held. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-05-24-AS-Rohingya-Boat-People/id-22debc49d4ea448ea0a6e2bfe56854d0)
 

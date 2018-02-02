@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/01/19/foreign-journalists-in-china-say-their-emails-have-been-hacked-as-google-pulls-out-of-launching-its-android-mobile-phones.html)  [JSON](/news/2010/01/19/foreign-journalists-in-china-say-their-emails-have-been-hacked-as-google-pulls-out-of-launching-its-android-mobile-phones.json)  [XML](/news/2010/01/19/foreign-journalists-in-china-say-their-emails-have-been-hacked-as-google-pulls-out-of-launching-its-android-mobile-phones.xml)  
+
 ### [2010-01-19](/news/2010/01/19/index.md)
 
+##### Google
 # Foreign journalists in China say their emails have been hacked, as Google pulls out of launching its Android mobile phones. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times LIVE South Africa](http://www.timeslive.co.za/scitech/article267323.ece)
-2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/01/18/AR2010011803488.html?hpid=sec-world)
+2. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/01/18/AR2010011803488.html?hpid=sec-world)
 2. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

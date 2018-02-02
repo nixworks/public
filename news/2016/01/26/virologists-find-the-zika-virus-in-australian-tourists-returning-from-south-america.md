@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/26/virologists-find-the-zika-virus-in-australian-t
 
 ### [2016-01-26](/news/2016/01/26/index.md)
 
+##### Zika virus outbreak in the Americas (2015-present)
 # Virologists find the Zika virus in Australian tourists returning from South America. 
 
 The mosquito-borne Zika virus, linked to brain damage in babies, has already been discovered in Australians returning from South America, virologists say.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/25/worldwide-protests-in-80-cities-take-place-in-support-of-iranian-protesters-following-the-disputed-presidential-election.html)  [JSON](/news/2009/07/25/worldwide-protests-in-80-cities-take-place-in-support-of-iranian-protesters-following-the-disputed-presidential-election.json)  [XML](/news/2009/07/25/worldwide-protests-in-80-cities-take-place-in-support-of-iranian-protesters-following-the-disputed-presidential-election.xml)  
+
 ### [2009-07-25](/news/2009/07/25/index.md)
 
+##### Iran
 #  Worldwide protests in 80 cities take place in support of Iranian protesters following the disputed presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/07/20097258437330979.html)
 2. [CNN](http://edition.cnn.com/2009/WORLD/meast/07/25/iran.world.protests/index.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/2/a1-2eljko-koma-ia-neboja-a-radmanovia-and-haris-silajda3-4ia-are-elected-new-members-of-the-presidency-of-bosnia-and-herzegovina-the-count.html)  [JSON](/news/2006/10/2/a1-2eljko-koma-ia-neboja-a-radmanovia-and-haris-silajda3-4ia-are-elected-new-members-of-the-presidency-of-bosnia-and-herzegovina-the-count.json)  [XML](/news/2006/10/2/a1-2eljko-koma-ia-neboja-a-radmanovia-and-haris-silajda3-4ia-are-elected-new-members-of-the-presidency-of-bosnia-and-herzegovina-the-count.xml)  
+
 ### [2006-10-2](/news/2006/10/2/index.md)
 
+##### Zeljko Komsic
 #  Zeljko Komsic, Nebojsa Radmanovic and Haris Silajdzic are elected new members of the Presidency of Bosnia and Herzegovina, the country's collective head of state. 
 
 Get the latest breaking news across the U.S. on ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/US/wireStory?id=2516517)
 

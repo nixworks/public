@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/1/hong-kong-movie-and-cantopop-star-leslie-cheung-commits-suicide-at-the-age-of-46.html)  [JSON](/news/2003/04/1/hong-kong-movie-and-cantopop-star-leslie-cheung-commits-suicide-at-the-age-of-46.json)  [XML](/news/2003/04/1/hong-kong-movie-and-cantopop-star-leslie-cheung-commits-suicide-at-the-age-of-46.xml)  
+
 ### [2003-04-1](/news/2003/04/1/index.md)
 
+##### Cantopop
 #  Hong Kong movie and Cantopop star Leslie Cheung commits suicide at the age of 46.
 
 

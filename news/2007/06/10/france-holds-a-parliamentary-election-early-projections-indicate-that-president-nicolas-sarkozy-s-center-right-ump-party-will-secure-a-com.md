@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/10/france-holds-a-parliamentary-election-early-projections-indicate-that-president-nicolas-sarkozy-s-center-right-ump-party-will-secure-a-com.html)  [JSON](/news/2007/06/10/france-holds-a-parliamentary-election-early-projections-indicate-that-president-nicolas-sarkozy-s-center-right-ump-party-will-secure-a-com.json)  [XML](/news/2007/06/10/france-holds-a-parliamentary-election-early-projections-indicate-that-president-nicolas-sarkozy-s-center-right-ump-party-will-secure-a-com.xml)  
+
 ### [2007-06-10](/news/2007/06/10/index.md)
 
+##### France
 #  France holds a parliamentary election; early projections indicate that President Nicolas Sarkozy's center-right UMP party will secure a comfortable victory. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/6737825.stm)
 

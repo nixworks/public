@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/18/the-justice-and-equality-movement-releases-sixty-prisoners-in-kutum-darfur.html)  [JSON](/news/2009/07/18/the-justice-and-equality-movement-releases-sixty-prisoners-in-kutum-darfur.json)  [XML](/news/2009/07/18/the-justice-and-equality-movement-releases-sixty-prisoners-in-kutum-darfur.xml)  
+
 ### [2009-07-18](/news/2009/07/18/index.md)
 
+##### Justice and Equality Movement
 #  The Justice and Equality Movement releases sixty prisoners in Kutum, Darfur. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8157685.stm)
 

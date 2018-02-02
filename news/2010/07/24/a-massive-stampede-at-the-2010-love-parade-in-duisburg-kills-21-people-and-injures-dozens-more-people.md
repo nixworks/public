@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/24/a-massive-stampede-at-the-2010-love-parade-in-duisburg-kills-21-people-and-injures-dozens-more-people.html)  [JSON](/news/2010/07/24/a-massive-stampede-at-the-2010-love-parade-in-duisburg-kills-21-people-and-injures-dozens-more-people.json)  [XML](/news/2010/07/24/a-massive-stampede-at-the-2010-love-parade-in-duisburg-kills-21-people-and-injures-dozens-more-people.xml)  
+
 ### [2010-07-24](/news/2010/07/24/index.md)
 
+##### yesterday's death stampede
 # A massive stampede at the 2010 Love Parade in Duisburg kills 21 people and injures dozens more people. 
 
 At least 19 people are killed in a stampede at the Love Parade dance music festival in the German city of Duisburg, police say.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/201072417757685996.html)
 2. [BBC News](http://www.bbc.co.uk/news/world-europe-10751899)

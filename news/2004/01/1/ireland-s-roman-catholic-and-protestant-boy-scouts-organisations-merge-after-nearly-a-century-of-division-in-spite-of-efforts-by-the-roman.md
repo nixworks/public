@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/1/ireland-s-roman-catholic-and-protestant-boy-scouts-organisations-merge-after-nearly-a-century-of-division-in-spite-of-efforts-by-the-roman.html)  [JSON](/news/2004/01/1/ireland-s-roman-catholic-and-protestant-boy-scouts-organisations-merge-after-nearly-a-century-of-division-in-spite-of-efforts-by-the-roman.json)  [XML](/news/2004/01/1/ireland-s-roman-catholic-and-protestant-boy-scouts-organisations-merge-after-nearly-a-century-of-division-in-spite-of-efforts-by-the-roman.xml)  
+
 ### [2004-01-1](/news/2004/01/1/index.md)
 
+##### Roman Catholic
 #  Ireland's Roman Catholic and Protestant Boy Scouts organisations merge after nearly a century of division, in spite of efforts by the Roman Catholic bishops to block the merger.
 
 

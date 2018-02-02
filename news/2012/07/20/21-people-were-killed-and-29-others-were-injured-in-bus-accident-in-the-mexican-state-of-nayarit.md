@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/20/21-people-were-killed-and-29-others-were-injured-in-bus-accident-in-the-mexican-state-of-nayarit.html)  [JSON](/news/2012/07/20/21-people-were-killed-and-29-others-were-injured-in-bus-accident-in-the-mexican-state-of-nayarit.json)  [XML](/news/2012/07/20/21-people-were-killed-and-29-others-were-injured-in-bus-accident-in-the-mexican-state-of-nayarit.xml)  
+
 ### [2012-07-20](/news/2012/07/20/index.md)
 
+##### Nayarit
 # 21 people were killed and 29 others were injured in bus accident in the Mexican state of Nayarit. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://latino.foxnews.com/latino/news/2012/07/20/21-dead-in-bus-crash-in-mexico/)
 

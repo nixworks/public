@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/2/gunmen-attack-a-bar-in-ciudad-jua-rez-in-northern-mexico-killing-five-people.html)  [JSON](/news/2011/04/2/gunmen-attack-a-bar-in-ciudad-jua-rez-in-northern-mexico-killing-five-people.json)  [XML](/news/2011/04/2/gunmen-attack-a-bar-in-ciudad-jua-rez-in-northern-mexico-killing-five-people.xml)  
+
 ### [2011-04-2](/news/2011/04/2/index.md)
 
+##### Ciudad Juarez
 # Gunmen attack a bar in Ciudad Juarez in northern Mexico, killing five people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Ledger](http://www.theledger.com/article/20110402/NEWS/104025008/1002/sports?Title=Gunmen-Kill-5-in-Attack-At-Mexican-Border-Bar)
 

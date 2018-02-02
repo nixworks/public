@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/24/spanish-judge-baltasar-garza3n-who-indicted-the-chilean-dictator-augusto-pinochet-in-1998-is-put-on-trial-for-supposedly-overstepping-his.html)  [JSON](/news/2012/01/24/spanish-judge-baltasar-garza3n-who-indicted-the-chilean-dictator-augusto-pinochet-in-1998-is-put-on-trial-for-supposedly-overstepping-his.json)  [XML](/news/2012/01/24/spanish-judge-baltasar-garza3n-who-indicted-the-chilean-dictator-augusto-pinochet-in-1998-is-put-on-trial-for-supposedly-overstepping-his.xml)  
+
 ### [2012-01-24](/news/2012/01/24/index.md)
 
+##### Spain
 # Spanish judge Baltasar Garzon, who indicted the Chilean dictator Augusto Pinochet in 1998, is put on trial for supposedly overstepping his powers after he tried to investigate the disappearance of 114,000 people between 1936 and 1975 during the reign of Francisco Franco. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-16696330)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58061000/jpg/_58061610_013800626-1.jpg)

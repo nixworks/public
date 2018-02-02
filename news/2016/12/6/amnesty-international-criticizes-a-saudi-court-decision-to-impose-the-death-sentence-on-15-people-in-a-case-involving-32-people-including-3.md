@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/6/amnesty-international-criticizes-a-saudi-court-d
 
 ### [2016-12-6](/news/2016/12/6/index.md)
 
+##### Amnesty International
 #  Amnesty International criticizes a Saudi court decision to impose the death sentence on 15 people in a case involving 32 people including 30 Saudis, one Iranian and one Afghan national in an alleged Iranian spy cell. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/30/kyrgyzstan-s-parliament-agrees-to-form-a-three-way-coalition-government-creating-the-first-parliamentary-democracy-in-central-asia.html)  [JSON](/news/2010/11/30/kyrgyzstan-s-parliament-agrees-to-form-a-three-way-coalition-government-creating-the-first-parliamentary-democracy-in-central-asia.json)  [XML](/news/2010/11/30/kyrgyzstan-s-parliament-agrees-to-form-a-three-way-coalition-government-creating-the-first-parliamentary-democracy-in-central-asia.xml)  
+
 ### [2010-11-30](/news/2010/11/30/index.md)
 
+##### Kyrgyzstan
 # Kyrgyzstan's parliament agrees to form a three-way coalition government, creating the first parliamentary democracy in Central Asia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [24.kg News Agency](http://eng.24.kg/politic/2010/11/30/15054.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11872456)

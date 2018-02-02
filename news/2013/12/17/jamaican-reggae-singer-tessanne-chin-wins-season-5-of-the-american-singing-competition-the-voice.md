@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/17/jamaican-reggae-singer-tessanne-chin-wins-season-5-of-the-american-singing-competition-the-voice.html)  [JSON](/news/2013/12/17/jamaican-reggae-singer-tessanne-chin-wins-season-5-of-the-american-singing-competition-the-voice.json)  [XML](/news/2013/12/17/jamaican-reggae-singer-tessanne-chin-wins-season-5-of-the-american-singing-competition-the-voice.xml)  
+
 ### [2013-12-17](/news/2013/12/17/index.md)
 
+##### Jamaica
 # Jamaican reggae singer Tessanne Chin wins Season 5 of the American singing competition "The Voice". 
 
 It&apos;s official: Tessanne Chin, the supple-singing pride of Jamaica, has won Season 5 of &quot;The Voice.&quot;
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/entertainment/tv/showtracker/la-et-st-the-voice-winner-20131217,0,7715967.story#axzz2noNztNtY)
 1. [Cover Image](http://www.trbimg.com/img-52b133ba/turbine/la-et-st-the-voice-winner-20131217)

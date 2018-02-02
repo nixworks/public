@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/12/the-united-steelworkers-union-and-royal-dutch-shell-negotiate-a-contract-pending-union-ratification-to-end-of-a-six-week-strike-that-began.html)  [JSON](/news/2015/03/12/the-united-steelworkers-union-and-royal-dutch-shell-negotiate-a-contract-pending-union-ratification-to-end-of-a-six-week-strike-that-began.json)  [XML](/news/2015/03/12/the-united-steelworkers-union-and-royal-dutch-shell-negotiate-a-contract-pending-union-ratification-to-end-of-a-six-week-strike-that-began.xml)  
+
 ### [2015-03-12](/news/2015/03/12/index.md)
 
+##### United Steelworkers
 # The United Steelworkers union and Royal Dutch Shell negotiate a contract, pending union ratification, to end of a six-week strike that began February 1 that has affected twelve U.S. refineries. Previously, the strike had been cited as a reason for recent oil price increases. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/ce0041cd9465454baf8c8ea7375416a0/refinery-workers-shell-reach-tentative-agreement)
 

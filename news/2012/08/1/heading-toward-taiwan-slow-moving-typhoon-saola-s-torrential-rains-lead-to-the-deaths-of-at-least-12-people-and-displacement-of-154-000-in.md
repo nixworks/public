@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/08/1/heading-toward-taiwan-slow-moving-typhoon-saola-s-torrential-rains-lead-to-the-deaths-of-at-least-12-people-and-displacement-of-154-000-in.html)  [JSON](/news/2012/08/1/heading-toward-taiwan-slow-moving-typhoon-saola-s-torrential-rains-lead-to-the-deaths-of-at-least-12-people-and-displacement-of-154-000-in.json)  [XML](/news/2012/08/1/heading-toward-taiwan-slow-moving-typhoon-saola-s-torrential-rains-lead-to-the-deaths-of-at-least-12-people-and-displacement-of-154-000-in.xml)  
+
 ### [2012-08-1](/news/2012/08/1/index.md)
 
+##### Taiwan
 # Heading toward Taiwan, slow-moving Typhoon Saola's torrential rains lead to the deaths of at least 12 people and displacement of 154,000 in the Philippines. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/world/asia_pacific/torrential-rains-batter-taiwan-ahead-of-typhoon-saola-at-least-12-dead-in-philippines/2012/07/31/gJQAbdK7NX_story.html)
+1. [The Washington Post](https://www.washingtonpost.com/world/asia_pacific/torrential-rains-batter-taiwan-ahead-of-typhoon-saola-at-least-12-dead-in-philippines/2012/07/31/gJQAbdK7NX_story.html)
 
 ### Related:
 

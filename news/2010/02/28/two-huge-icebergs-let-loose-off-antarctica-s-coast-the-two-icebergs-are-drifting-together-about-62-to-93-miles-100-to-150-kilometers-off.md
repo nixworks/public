@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/28/two-huge-icebergs-let-loose-off-antarctica-s-coast-the-two-icebergs-are-drifting-together-about-62-to-93-miles-100-to-150-kilometers-off.html)  [JSON](/news/2010/02/28/two-huge-icebergs-let-loose-off-antarctica-s-coast-the-two-icebergs-are-drifting-together-about-62-to-93-miles-100-to-150-kilometers-off.json)  [XML](/news/2010/02/28/two-huge-icebergs-let-loose-off-antarctica-s-coast-the-two-icebergs-are-drifting-together-about-62-to-93-miles-100-to-150-kilometers-off.xml)  
+
 ### [2010-02-28](/news/2010/02/28/index.md)
 
+##### eastern Antarctica
 # Two huge icebergs let loose off Antarctica's coast. The two icebergs are drifting together about 62 to 93 miles (100 to 150 kilometers) off eastern Antarctica, according to an Australian Antarctic Division glaciologist. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/world/2010-02/28/content_9514470.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/29/omar-al-bashir-of-sudan-and-hu-jintao-of-the-people-s-republic-of-china-meet.html)  [JSON](/news/2011/06/29/omar-al-bashir-of-sudan-and-hu-jintao-of-the-people-s-republic-of-china-meet.json)  [XML](/news/2011/06/29/omar-al-bashir-of-sudan-and-hu-jintao-of-the-people-s-republic-of-china-meet.xml)  
+
 ### [2011-06-29](/news/2011/06/29/index.md)
 
+##### Omar al-Bashir
 # Omar al-Bashir of Sudan and Hu Jintao of the People's Republic of China meet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13954391)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53749000/jpg/_53749209_012331243-1.jpg)

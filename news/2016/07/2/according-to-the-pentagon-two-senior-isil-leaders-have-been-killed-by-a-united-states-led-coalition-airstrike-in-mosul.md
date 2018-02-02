@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/2/according-to-the-pentagon-two-senior-isil-leader
 
 ### [2016-07-2](/news/2016/07/2/index.md)
 
+##### Iraqi Civil War
 # According to The Pentagon, two senior ISIL leaders have been killed by a United States-led coalition airstrike in Mosul. 
 
 Pentagon says deputy minister of war and commander died in US-led coalition airstrike near stronghold of Mosul

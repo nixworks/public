@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/05/11/justice-officials-in-kuwait-with-assistance-from-united-nations-war-crimes-expert-sharif-basyouni-complete-an-indictment-against-saddam-h.html)  [JSON](/news/2005/05/11/justice-officials-in-kuwait-with-assistance-from-united-nations-war-crimes-expert-sharif-basyouni-complete-an-indictment-against-saddam-h.json)  [XML](/news/2005/05/11/justice-officials-in-kuwait-with-assistance-from-united-nations-war-crimes-expert-sharif-basyouni-complete-an-indictment-against-saddam-h.xml)  
+
 ### [2005-05-11](/news/2005/05/11/index.md)
 
+##### Kuwait
 #  Justice officials in Kuwait, with assistance from United Nations war crimes expert Sharif Basyouni, complete an indictment against Saddam Hussein and several former Iraqi officials for crimes against humanity during the 1990 invasion of Kuwait. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Yahoo!](http://news.yahoo.com/s/afp/kuwaitiraqcrimes)
+1. [Yahoo!](https://news.yahoo.com/s/afp/kuwaitiraqcrimes)
 
 ### Related:
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/29/cumulus-media-files-for-chapter-11-bankruptcy-r
 
 ### [2017-11-29](/news/2017/11/29/index.md)
 
+##### Corporate bankruptcies
 # Cumulus Media files for Chapter 11 bankruptcy reorganization and enters into a restructuring agreement with some of its lenders to reduce more than $1 billion of the debt accrued by the Atlanta-based radio broadcasting group since its 2011 purchase of Citadel Broadcasting, towards the end of a 30-day period for the company to secure a financing plan after defaulting on a $23.6-million debt payment on November 1. In a statement, Cumulus representatives said that the company expects all operations, programming and sales for its 459 radio stations across the U.S. to continue as normal during the restructuring process. 
 
 U.S. radio broadcaster Cumulus Media Inc (CMLS.PK) filed for Chapter 11 bankruptcy protection and said it has entered into a restructuring agreement with certain of its lenders to reduce more than $1 billion in debt.

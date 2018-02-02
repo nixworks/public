@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/2/french-foreign-minister-dominique-de-villepin-arrives-in-ivory-coast-to-help-mediate-the-conflict.html)  [JSON](/news/2003/01/2/french-foreign-minister-dominique-de-villepin-arrives-in-ivory-coast-to-help-mediate-the-conflict.json)  [XML](/news/2003/01/2/french-foreign-minister-dominique-de-villepin-arrives-in-ivory-coast-to-help-mediate-the-conflict.xml)  
+
 ### [2003-01-2](/news/2003/01/2/index.md)
 
+##### Dominique de Villepin
 #  French Foreign Minister Dominique de Villepin arrives in Ivory Coast to help mediate the conflict.
 
 

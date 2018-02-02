@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/5/an-earthquake-in-papua-indonesia-reached-6-0-on-the-richter-scale-there-are-no-reports-of-casualties.html)  [JSON](/news/2005/08/5/an-earthquake-in-papua-indonesia-reached-6-0-on-the-richter-scale-there-are-no-reports-of-casualties.json)  [XML](/news/2005/08/5/an-earthquake-in-papua-indonesia-reached-6-0-on-the-richter-scale-there-are-no-reports-of-casualties.xml)  
+
 ### [2005-08-5](/news/2005/08/5/index.md)
 
+##### earthquake
 #  An earthquake in Papua, Indonesia, reached 6.0 on the Richter scale. There are no reports of casualties.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/161581/1/.html)
 

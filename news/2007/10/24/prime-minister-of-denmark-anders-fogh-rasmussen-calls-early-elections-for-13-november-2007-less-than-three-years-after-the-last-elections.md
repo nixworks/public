@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/24/prime-minister-of-denmark-anders-fogh-rasmussen-calls-early-elections-for-13-november-2007-less-than-three-years-after-the-last-elections.html)  [JSON](/news/2007/10/24/prime-minister-of-denmark-anders-fogh-rasmussen-calls-early-elections-for-13-november-2007-less-than-three-years-after-the-last-elections.json)  [XML](/news/2007/10/24/prime-minister-of-denmark-anders-fogh-rasmussen-calls-early-elections-for-13-november-2007-less-than-three-years-after-the-last-elections.xml)  
+
 ### [2007-10-24](/news/2007/10/24/index.md)
 
+##### Prime Minister of Denmark
 #  Prime Minister of Denmark Anders Fogh Rasmussen calls early elections for 13 November 2007, less than three years after the last elections in early 2005. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abcmoney.co.uk/news/242007150899.htm)
 

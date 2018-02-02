@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/29/occupation-of-iraq-the-international-red-cross-announces-that-it-is-to-scale-back-its-commitments-to-iraq-two-more-gis-are-killed-bringi.html)  [JSON](/news/2003/10/29/occupation-of-iraq-the-international-red-cross-announces-that-it-is-to-scale-back-its-commitments-to-iraq-two-more-gis-are-killed-bringi.json)  [XML](/news/2003/10/29/occupation-of-iraq-the-international-red-cross-announces-that-it-is-to-scale-back-its-commitments-to-iraq-two-more-gis-are-killed-bringi.xml)  
+
 ### [2003-10-29](/news/2003/10/29/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: The International Red Cross announces that it is to scale back its commitments to Iraq. Two more GIs are killed, bringing the total killed since May 1 to 115.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/30/the-japanese-auto-industry-begins-designated-weekday-shutdowns-as-part-of-an-effort-to-save-energy-as-a-result-of-the-fukushima-daiichi-nucl.html)  [JSON](/news/2011/06/30/the-japanese-auto-industry-begins-designated-weekday-shutdowns-as-part-of-an-effort-to-save-energy-as-a-result-of-the-fukushima-daiichi-nucl.json)  [XML](/news/2011/06/30/the-japanese-auto-industry-begins-designated-weekday-shutdowns-as-part-of-an-effort-to-save-energy-as-a-result-of-the-fukushima-daiichi-nucl.xml)  
+
 ### [2011-06-30](/news/2011/06/30/index.md)
 
+##### automakers
 # The Japanese auto industry begins designated weekday shutdowns as part of an effort to save energy as a result of the Fukushima Daiichi nuclear disaster. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kyodo](http://english.kyodonews.jp/news/2011/06/100121.html)
 

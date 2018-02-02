@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/26/a-federal-appeals-court-rules-in-favor-of-samsu
 
 ### [2016-02-26](/news/2016/02/26/index.md)
 
+##### Samsung
 # A federal appeals court rules in favor of Samsung on several issues arising out of that company's long-running patent dispute with Apple, overturning a $120 million jury verdict in Apple's favor in 2014. 
 
 A U.S. appeals court on Friday overturned a $120 million jury verdict against Samsung, finally handing the South Korean smartphone maker a significant win in its longstanding patent feud with top rival Apple.

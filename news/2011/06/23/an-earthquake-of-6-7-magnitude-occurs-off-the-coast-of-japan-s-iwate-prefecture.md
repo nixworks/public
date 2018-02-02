@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/06/23/an-earthquake-of-6-7-magnitude-occurs-off-the-coast-of-japan-s-iwate-prefecture.html)  [JSON](/news/2011/06/23/an-earthquake-of-6-7-magnitude-occurs-off-the-coast-of-japan-s-iwate-prefecture.json)  [XML](/news/2011/06/23/an-earthquake-of-6-7-magnitude-occurs-off-the-coast-of-japan-s-iwate-prefecture.xml)  
+
 ### [2011-06-23](/news/2011/06/23/index.md)
 
+##### earthquake
 # An earthquake of 6.7 magnitude occurs off the coast of Japan's Iwate prefecture. 
 
 An earthquake with a preliminary magnitude of 6.7 struck off the coast of Iwate prefecture in northeast Japan Thursday, one of the areas devastated by the March 11 quake and tsunami, but there were no immediate reports of damage or injuries.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/06/22/us-earthquake-japan-idUSTRE75L7PW20110622)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/06/22/us-earthquake-japan-idUSTRE75L7PW20110622)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

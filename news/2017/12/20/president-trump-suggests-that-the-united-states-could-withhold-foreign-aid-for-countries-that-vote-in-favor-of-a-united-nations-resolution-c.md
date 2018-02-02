@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/20/president-trump-suggests-that-the-united-states
 
 ### [2017-12-20](/news/2017/12/20/index.md)
 
+##### Foreign policy of the United States
 # President Trump suggests that the United States could withhold foreign aid for countries that vote in favor of a United Nations resolution calling on the U.S. to withdraw its recognition of Jerusalem as Israel's capital. 
 
 President Trump suggested on Wednesday that the United States could withhold foreign aid for countries that vote in favor of a United Nations (U.N.) resolution calling on the U.S. to withdraw its recognition of Jerusalem as Israel&#039;s capital.

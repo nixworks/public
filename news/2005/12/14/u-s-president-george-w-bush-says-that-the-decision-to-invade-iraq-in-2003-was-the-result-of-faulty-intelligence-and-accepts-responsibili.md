@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/14/u-s-president-george-w-bush-says-that-the-decision-to-invade-iraq-in-2003-was-the-result-of-faulty-intelligence-and-accepts-responsibili.html)  [JSON](/news/2005/12/14/u-s-president-george-w-bush-says-that-the-decision-to-invade-iraq-in-2003-was-the-result-of-faulty-intelligence-and-accepts-responsibili.json)  [XML](/news/2005/12/14/u-s-president-george-w-bush-says-that-the-decision-to-invade-iraq-in-2003-was-the-result-of-faulty-intelligence-and-accepts-responsibili.xml)  
+
 ### [2005-12-14](/news/2005/12/14/index.md)
 
+##### U.S. President
 #  U.S. President George W. Bush says that the decision to invade Iraq in 2003 was the result of faulty intelligence, and accepts responsibility for that decision. He maintains that his decision was still justified. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4528982.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/8/the-international-civil-aviation-organization-icao-concluded-its-37th-session-of-its-assembly-on-friday-at-its-headquarters-in-montreal-m.html)  [JSON](/news/2010/10/8/the-international-civil-aviation-organization-icao-concluded-its-37th-session-of-its-assembly-on-friday-at-its-headquarters-in-montreal-m.json)  [XML](/news/2010/10/8/the-international-civil-aviation-organization-icao-concluded-its-37th-session-of-its-assembly-on-friday-at-its-headquarters-in-montreal-m.xml)  
+
 ### [2010-10-8](/news/2010/10/8/index.md)
 
+##### International Civil Aviation Organization
 # The International Civil Aviation Organization (ICAO) concluded its 37th session of its assembly on Friday at its headquarters in Montreal, making progresses on aviation emissions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/xinhua/2010-10-09/content_979159.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/business/2010-10/09/c_13549128.htm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/3/the-government-of-canada-announces-that-it-will-block-a-38-6bn-hostile-takeover-bid-by-bhp-billiton-for-potash-corporation.html)  [JSON](/news/2010/11/3/the-government-of-canada-announces-that-it-will-block-a-38-6bn-hostile-takeover-bid-by-bhp-billiton-for-potash-corporation.json)  [XML](/news/2010/11/3/the-government-of-canada-announces-that-it-will-block-a-38-6bn-hostile-takeover-bid-by-bhp-billiton-for-potash-corporation.xml)  
+
 ### [2010-11-3](/news/2010/11/3/index.md)
 
+##### Canadian government
 # The Government of Canada announces that it will block a $38.6bn hostile takeover bid by BHP Billiton for Potash Corporation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11680181)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

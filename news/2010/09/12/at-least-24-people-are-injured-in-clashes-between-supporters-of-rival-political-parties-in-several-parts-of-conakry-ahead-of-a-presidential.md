@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/12/at-least-24-people-are-injured-in-clashes-between-supporters-of-rival-political-parties-in-several-parts-of-conakry-ahead-of-a-presidential.html)  [JSON](/news/2010/09/12/at-least-24-people-are-injured-in-clashes-between-supporters-of-rival-political-parties-in-several-parts-of-conakry-ahead-of-a-presidential.json)  [XML](/news/2010/09/12/at-least-24-people-are-injured-in-clashes-between-supporters-of-rival-political-parties-in-several-parts-of-conakry-ahead-of-a-presidential.xml)  
+
 ### [2010-09-12](/news/2010/09/12/index.md)
 
+##### Conakry
 # At least 24 people are injured in clashes between supporters of rival political parties in several parts of Conakry ahead of a presidential run-off election in Guinea. 
 
 Presidential electoral campaigning suspended as fresh clashes between rival factions leave one dead and scores injured.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/09/20109121155208384.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11277621)

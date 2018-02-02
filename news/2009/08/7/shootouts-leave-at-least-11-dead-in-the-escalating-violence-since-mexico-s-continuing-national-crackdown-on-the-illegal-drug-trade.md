@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/7/shootouts-leave-at-least-11-dead-in-the-escalating-violence-since-mexico-s-continuing-national-crackdown-on-the-illegal-drug-trade.html)  [JSON](/news/2009/08/7/shootouts-leave-at-least-11-dead-in-the-escalating-violence-since-mexico-s-continuing-national-crackdown-on-the-illegal-drug-trade.json)  [XML](/news/2009/08/7/shootouts-leave-at-least-11-dead-in-the-escalating-violence-since-mexico-s-continuing-national-crackdown-on-the-illegal-drug-trade.xml)  
+
 ### [2009-08-7](/news/2009/08/7/index.md)
 
+##### Shootouts
 #  Shootouts leave at least 11 dead in the escalating violence since Mexico's continuing national crackdown on the illegal drug trade. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP foreign-UK Guardian](http://www.guardian.co.uk/world/feedarticle/8647199)
 

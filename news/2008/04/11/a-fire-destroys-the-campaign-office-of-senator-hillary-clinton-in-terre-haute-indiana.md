@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/11/a-fire-destroys-the-campaign-office-of-senator-hillary-clinton-in-terre-haute-indiana.html)  [JSON](/news/2008/04/11/a-fire-destroys-the-campaign-office-of-senator-hillary-clinton-in-terre-haute-indiana.json)  [XML](/news/2008/04/11/a-fire-destroys-the-campaign-office-of-senator-hillary-clinton-in-terre-haute-indiana.xml)  
+
 ### [2008-04-11](/news/2008/04/11/index.md)
 
+##### Hillary Clinton
 #  A fire destroys the campaign office of Senator Hillary Clinton in Terre Haute, Indiana. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5jrHOoVTKCqZW43VMFSYCtpWm-jvQD8VVMIVG0)
 

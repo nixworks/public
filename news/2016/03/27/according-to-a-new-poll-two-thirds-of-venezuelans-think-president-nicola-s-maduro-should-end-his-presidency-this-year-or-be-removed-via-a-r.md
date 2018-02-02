@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2016/03/27/according-to-a-new-poll-two-thirds-of-venezuelans-think-president-nicola-s-maduro-should-end-his-presidency-this-year-or-be-removed-via-a-r.html)  [JSON](/news/2016/03/27/according-to-a-new-poll-two-thirds-of-venezuelans-think-president-nicola-s-maduro-should-end-his-presidency-this-year-or-be-removed-via-a-r.json)  [XML](/news/2016/03/27/according-to-a-new-poll-two-thirds-of-venezuelans-think-president-nicola-s-maduro-should-end-his-presidency-this-year-or-be-removed-via-a-r.xml)  
+
 ### [2016-03-27](/news/2016/03/27/index.md)
 
+##### 2014-16 Venezuelan protests
 # According to a new poll, two-thirds of Venezuelans think President Nicolas Maduro should end his presidency this year or be removed via a recall referendum amid a worsening economic crisis. In the event of a referendum, 52.1 percent of Venezuelans would vote to remove him from office, up from 44.5 percent in January, according to the poll. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-venezuela-politic*s-idUSKCN0WS0JO)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160326&t=2&i=1127961892&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2P0BW)
+1. [Reuters](https://www.reuters.com/article/us-venezuela-politic*s-idUSKCN0WS0JO)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160326&t=2&i=1127961892&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2P0BW)
+
+### Changes:
+
+1. [2014-16 Venezuelan protests: According to a new poll, two-thirds of Venezuelans think President Nicolas Maduro should end his presidency this year or be removed via a recall referendum amid a worsening economic crisis. In the event of a referendum, 52.1 percent of Venezuelans would vote to remove him from office, up from 44.5 percent in January, according to the poll. ](/news/2016/03/27/2014-16-venezuelan-protests-according-to-a-new-poll-two-thirds-of-venezuelans-think-president-nicola-s-maduro-should-end-his-presidency.md) _2017-08-27 03:45:23 (First version)_
+1. [According to a new poll, two-thirds of Venezuelans think President Nicolas Maduro should end his presidency this year or be removed via a recall referendum amid a worsening economic crisis. In the event of a referendum, 52.1 percent of Venezuelans would vote to remove him from office, up from 44.5 percent in January, according to the poll. ](/news/2016/03/27/according-to-a-new-poll-two-thirds-of-venezuelans-think-president-nicola-s-maduro-should-end-his-presidency-this-year-or-be-removed-via-a-r.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [Protests erupt in various cities of Venezuela as the country faces increased food and power shortages, forcing the government to ration them, leading to widespread looting and violence. According to the opposition, who control the National Assembly, over a million people support its bid to start a referendum on ousting President Nicolas Maduro. ](/news/2016/04/29/protests-erupt-in-various-cities-of-venezuela-as-the-country-faces-increased-food-and-power-shortages-forcing-the-government-to-ration-them.md) _Context: 2014-16 Venezuelan protests, Nicolas Maduro, President, Venezuela_
 4. [Marking the 50th consecutive day of protests, hundreds of thousands demonstrate throughout Venezuela against President Nicolas Maduro, with civil unrest growing despite the increasing number of casualties. ](/news/2017/05/20/marking-the-50th-consecutive-day-of-protests-hundreds-of-thousands-demonstrate-throughout-venezuela-against-president-nicola-s-maduro-with.md) _Context: Nicolas Maduro, President, Venezuela_
 5. [Venezuelans continue their march against President Nicolas Maduro with thousands flocking into the streets of Caracas for a second day. ](/news/2017/04/20/venezuelans-continue-their-march-against-president-nicola-s-maduro-with-thousands-flocking-into-the-streets-of-caracas-for-a-second-day.md) _Context: Nicolas Maduro, President, Venezuela_
-
-### Changes:
-
-1. [2014-16 Venezuelan protests: According to a new poll, two-thirds of Venezuelans think President Nicolas Maduro should end his presidency this year or be removed via a recall referendum amid a worsening economic crisis. In the event of a referendum, 52.1 percent of Venezuelans would vote to remove him from office, up from 44.5 percent in January, according to the poll. ](/news/2016/03/27/2014-16-venezuelan-protests-according-to-a-new-poll-two-thirds-of-venezuelans-think-president-nicola-s-maduro-should-end-his-presidency.md) _2017-08-27 03:45:23 (First version)_
-1. [According to a new poll, two-thirds of Venezuelans think President Nicolas Maduro should end his presidency this year or be removed via a recall referendum amid a worsening economic crisis. In the event of a referendum, 52.1 percent of Venezuelans would vote to remove him from office, up from 44.5 percent in January, according to the poll. ](/news/2016/03/27/according-to-a-new-poll-two-thirds-of-venezuelans-think-president-nicola-s-maduro-should-end-his-presidency-this-year-or-be-removed-via-a-r.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/27/philippines-president-benigno-aquino-iii-holds-his-final-state-of-the-nation-address-before-stepping-down-in-2016-he-advocates-the-passage.html)  [JSON](/news/2015/07/27/philippines-president-benigno-aquino-iii-holds-his-final-state-of-the-nation-address-before-stepping-down-in-2016-he-advocates-the-passage.json)  [XML](/news/2015/07/27/philippines-president-benigno-aquino-iii-holds-his-final-state-of-the-nation-address-before-stepping-down-in-2016-he-advocates-the-passage.xml)  
+
 ### [2015-07-27](/news/2015/07/27/index.md)
 
+##### Philippines
 # Philippines President Benigno Aquino III holds his final State of the Nation Address before stepping down in 2016. He advocates the passage of the Bangsamoro Basic Law and an anti-dynasty bill. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN Philippines](http://cnnphilippines.com/news/2015/07/26/Protesters-police-clash-at-Aquino-QC-residence.html)
 2. [GMA News Online](http://www.gmanetwork.com/news/story/529366/news/nation/pnoy-bats-for-bbl-anti-dynasty-law-in-last-sona-still-mum-on-foi)

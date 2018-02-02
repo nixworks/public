@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/25/amid-a-public-backlash-microsoft-reneges-on-its
 
 ### [2017-07-25](/news/2017/07/25/index.md)
 
+##### Microsoft
 # Amid a public backlash, Microsoft reneges on its decision to end its Paint program and states that it will be placed on its app store rather than bundled with future editions of Windows. 
 
 Microsoft will not kill of Paint, it has now said. A suggestion from the company that it would &quot;deprecate&quot; the app and may remove it from future versions of Windows provoked rage, sadness and nostalgia among almost everyone on the internet when it was announced. But Microsoft has now made clear that it will be sticking around – albeit in a different form.

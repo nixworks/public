@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/6/brian-duchow-a-milwaukee-bus-driver-is-charged-with-child-abuse-of-a-passenger-with-down-syndrome-allegedly-hitting-him-and-threatening.html)  [JSON](/news/2003/05/6/brian-duchow-a-milwaukee-bus-driver-is-charged-with-child-abuse-of-a-passenger-with-down-syndrome-allegedly-hitting-him-and-threatening.json)  [XML](/news/2003/05/6/brian-duchow-a-milwaukee-bus-driver-is-charged-with-child-abuse-of-a-passenger-with-down-syndrome-allegedly-hitting-him-and-threatening.xml)  
+
 ### [2003-05-6](/news/2003/05/6/index.md)
 
+##### Brian Duchow
 #  Brian Duchow, a Milwaukee bus driver, is charged with child abuse of a passenger with Down syndrome, allegedly hitting him and threatening more abuse. The abuse was recorded on an audio tape using a recorder that the parents had put in the child's backpack.
 
 

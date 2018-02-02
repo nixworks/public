@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/10/28/copper-fabricator-southwire-co-drops-its-lawsuit-against-two-giant-wall-street-firms-over-a-possible-copper-exchange-traded-fund-as-market.html)  [JSON](/news/2013/10/28/copper-fabricator-southwire-co-drops-its-lawsuit-against-two-giant-wall-street-firms-over-a-possible-copper-exchange-traded-fund-as-market.json)  [XML](/news/2013/10/28/copper-fabricator-southwire-co-drops-its-lawsuit-against-two-giant-wall-street-firms-over-a-possible-copper-exchange-traded-fund-as-market.xml)  
+
 ### [2013-10-28](/news/2013/10/28/index.md)
 
+##### Southwire Co.
 # Copper fabricator Southwire Co. drops its lawsuit against two giant Wall Street firms over a possible copper exchange-traded fund, as market and regulatory conditions make such an ETF seem decreasingly likely. 
 
 U.S. copper fabricator Southwire Co dropped its legal fight against physical copper funds planned by Wall Street banks, as political and regulatory scrutiny make it unlikely the exchange-traded funds will ever be launched, according to a court filing on Monday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/10/28/us-copper-etf-jpmorgan-idUSBRE99R13820131028)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131028&t=2&i=806895564&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99R1T8K00)
+1. [Reuters](https://www.reuters.com/article/2013/10/28/us-copper-etf-jpmorgan-idUSBRE99R13820131028)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20131028&t=2&i=806895564&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99R1T8K00)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/4/ryan-tubridy-takes-over-as-host-of-the-late-late-show-the-world-s-longest-running-chat-show.html)  [JSON](/news/2009/09/4/ryan-tubridy-takes-over-as-host-of-the-late-late-show-the-world-s-longest-running-chat-show.json)  [XML](/news/2009/09/4/ryan-tubridy-takes-over-as-host-of-the-late-late-show-the-world-s-longest-running-chat-show.xml)  
+
 ### [2009-09-4](/news/2009/09/4/index.md)
 
+##### Ryan Tubridy
 #  Ryan Tubridy takes over as host of "The Late Late Show", the world's longest running chat show. 
 
 THE TAOISEACH Brian Cowen will be Ryan Tubridy&rsquo;s first guest when he presents The Late Late Show for the first time tonight&hellip;
 
 
-### Source:
+### Sources:
 
 1. [Irish Examiner](http://www.irishexaminer.com/home/the-new-look-late-late-100186.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2009/0904/1224253820581.html)

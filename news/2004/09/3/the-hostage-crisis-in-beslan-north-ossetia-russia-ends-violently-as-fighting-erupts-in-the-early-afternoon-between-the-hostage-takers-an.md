@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/09/3/the-hostage-crisis-in-beslan-north-ossetia-russia-ends-violently-as-fighting-erupts-in-the-early-afternoon-between-the-hostage-takers-an.html)  [JSON](/news/2004/09/3/the-hostage-crisis-in-beslan-north-ossetia-russia-ends-violently-as-fighting-erupts-in-the-early-afternoon-between-the-hostage-takers-an.json)  [XML](/news/2004/09/3/the-hostage-crisis-in-beslan-north-ossetia-russia-ends-violently-as-fighting-erupts-in-the-early-afternoon-between-the-hostage-takers-an.xml)  
+
 ### [2004-09-3](/news/2004/09/3/index.md)
 
+##### hostage
 #  The hostage crisis in Beslan, North Ossetia, Russia, ends violently as fighting erupts in the early afternoon between the hostage-takers and Russian special forces. Special forces teams storm the school, in attempt to save the remaining hostages, after two explosions are heard and the hostage-takers fire on a medical team attempting to remove dead bodies. Several hundred people die in the ensuing battle; the hostage-takers shoot some hostages are shot in the back as the hostages attempt to flee. Official reports list 335 confirmed dead, including 156 children, and more than 700 wounded; 176 remain missing. Some of the hostage-takers briefly escape, but eventually all are reported killed or captured by Russian authorities. (BBC: [http:--news.bbc.co.uk-1-hi-world-europe-3624024.stm 1], [http:--news.bbc.co.uk-1-hi-world-europe-3624024.stm 2], [http:--news.bbc.co.uk-2-hi-europe-3624024.stm 3], Interfax: [http:--www2.interfax.ru-eng-news-politics-040903-64859-story.html 1], [http:--www.interfax.ru-e-B-0-28.html?id_issue=10699281 2])
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/2/while-landing-during-a-severe-lightning-storm-air-france-flight-358-skidded-off-the-runway-at-toronto-pearson-international-airport-at-4-0.html)  [JSON](/news/2005/08/2/while-landing-during-a-severe-lightning-storm-air-france-flight-358-skidded-off-the-runway-at-toronto-pearson-international-airport-at-4-0.json)  [XML](/news/2005/08/2/while-landing-during-a-severe-lightning-storm-air-france-flight-358-skidded-off-the-runway-at-toronto-pearson-international-airport-at-4-0.xml)  
+
 ### [2005-08-2](/news/2005/08/2/index.md)
 
+##### landing
 #  While landing during a severe lightning storm, Air France Flight 358 skidded off the runway at Toronto Pearson International Airport at 4:03 p.m. local time and burst into flames. All 309 passengers and crew on board survive. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [  (CJAD 800](http://www.cjad.com/content/cp_article.asp?id=/global_feeds/CanadianPress/NationalNews/n080233A.htm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4740381.stm)

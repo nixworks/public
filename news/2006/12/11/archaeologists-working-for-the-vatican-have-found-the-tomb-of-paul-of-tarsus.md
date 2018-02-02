@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/12/11/archaeologists-working-for-the-vatican-have-found-the-tomb-of-paul-of-tarsus.html)  [JSON](/news/2006/12/11/archaeologists-working-for-the-vatican-have-found-the-tomb-of-paul-of-tarsus.json)  [XML](/news/2006/12/11/archaeologists-working-for-the-vatican-have-found-the-tomb-of-paul-of-tarsus.xml)  
+
 ### [2006-12-11](/news/2006/12/11/index.md)
 
+##### Holy See
 #  Archaeologists working for the Vatican have found the tomb of Paul of Tarsus. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/news/religion/2006-12-11-paul_x.htm?csp=34)
+1. [USA Today](https://www.usatoday.com/news/religion/2006-12-11-paul_x.htm?csp=34)
 
 ### Related:
 

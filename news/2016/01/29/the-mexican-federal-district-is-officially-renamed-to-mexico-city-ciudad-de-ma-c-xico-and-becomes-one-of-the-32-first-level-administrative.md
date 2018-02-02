@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/29/the-mexican-federal-district-is-officially-rena
 
 ### [2016-01-29](/news/2016/01/29/index.md)
 
+##### Mexico City
 # The Mexican Federal District is officially renamed to Mexico City (Ciudad de Mexico), and becomes one of the 32 first-level administrative entities of Mexico. [https:--www.theguardian.com-world-2016-jan-29-mexico-city-name-change-federal-district-df ("The Guardian)"]
 
 

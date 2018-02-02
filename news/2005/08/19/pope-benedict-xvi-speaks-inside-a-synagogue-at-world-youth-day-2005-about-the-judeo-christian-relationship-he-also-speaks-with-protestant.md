@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/19/pope-benedict-xvi-speaks-inside-a-synagogue-at-world-youth-day-2005-about-the-judeo-christian-relationship-he-also-speaks-with-protestant.html)  [JSON](/news/2005/08/19/pope-benedict-xvi-speaks-inside-a-synagogue-at-world-youth-day-2005-about-the-judeo-christian-relationship-he-also-speaks-with-protestant.json)  [XML](/news/2005/08/19/pope-benedict-xvi-speaks-inside-a-synagogue-at-world-youth-day-2005-about-the-judeo-christian-relationship-he-also-speaks-with-protestant.xml)  
+
 ### [2005-08-19](/news/2005/08/19/index.md)
 
+##### Pope Benedict XVI
 #  Pope Benedict XVI speaks inside a synagogue at World Youth Day 2005 about the Judeo-Christian relationship. He also speaks with Protestant and Orthodox Christians about upcoming challenges within Christianity. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/4167350.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/24/polish-president-andrzej-duda-announces-he-will
 
 ### [2017-07-24](/news/2017/07/24/index.md)
 
+##### Politics of Poland
 # Polish President Andrzej Duda announces he will veto two judicial reform bills passed by Poland's parliament, which the European Commission said would result in sanctions, and which have generated continuous demonstrations across the country. The ruling Law and Justice Party needs to put together a three-fifths majority to override the veto. 
 
 The decision was a setback for the governing party, though a bill giving it more control over local courts was still set for approval.

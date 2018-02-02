@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/04/30/cambodia-joins-the-association-of-southeast-asian-nations-asean-bringing-the-total-members-to-ten.html)  [JSON](/news/1999/04/30/cambodia-joins-the-association-of-southeast-asian-nations-asean-bringing-the-total-members-to-ten.json)  [XML](/news/1999/04/30/cambodia-joins-the-association-of-southeast-asian-nations-asean-bringing-the-total-members-to-ten.xml)  
+
 ### [1999-04-30](/news/1999/04/30/index.md)
 
+##### Cambodia
 #  Cambodia joins the Association of Southeast Asian Nations (ASEAN) bringing the total members to ten.
 
 

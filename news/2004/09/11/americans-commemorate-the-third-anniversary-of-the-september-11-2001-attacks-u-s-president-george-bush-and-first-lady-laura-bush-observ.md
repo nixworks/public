@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/11/americans-commemorate-the-third-anniversary-of-the-september-11-2001-attacks-u-s-president-george-bush-and-first-lady-laura-bush-observ.html)  [JSON](/news/2004/09/11/americans-commemorate-the-third-anniversary-of-the-september-11-2001-attacks-u-s-president-george-bush-and-first-lady-laura-bush-observ.json)  [XML](/news/2004/09/11/americans-commemorate-the-third-anniversary-of-the-september-11-2001-attacks-u-s-president-george-bush-and-first-lady-laura-bush-observ.xml)  
+
 ### [2004-09-11](/news/2004/09/11/index.md)
 
+##### September 11, 2001, attacks
 #  Americans commemorate the third anniversary of the September 11, 2001, attacks. U.S. President George Bush and First Lady Laura Bush observe a moment of silence on the South Lawn of the White House to officially begin the day of remembrance. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/US/09/11/sept11.anniversary.ap/index.html)
 

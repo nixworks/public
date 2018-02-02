@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/30/romeo-langlois-a-freelance-journalist-from-france-24-who-was-abducted-by-the-revolutionary-armed-forces-of-colombia-farc-on-april-28-is.html)  [JSON](/news/2012/05/30/romeo-langlois-a-freelance-journalist-from-france-24-who-was-abducted-by-the-revolutionary-armed-forces-of-colombia-farc-on-april-28-is.json)  [XML](/news/2012/05/30/romeo-langlois-a-freelance-journalist-from-france-24-who-was-abducted-by-the-revolutionary-armed-forces-of-colombia-farc-on-april-28-is.xml)  
+
 ### [2012-05-30](/news/2012/05/30/index.md)
 
+##### France 24
 # Romeo Langlois, a freelance journalist from France 24 who was abducted by the Revolutionary Armed Forces of Colombia (FARC) on April 28, is released by FARC in southern Colombia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2012/05/30/uk-colombia-farc-idUKBRE84T1AG20120530)
 1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20120530&t=2&i=613360301&w=&fh=545px&fw=&ll=&pl=&sq=&r=2012-05-30T191215Z_1_CBRE84T1HCH00_RTROPTP_0_COLOMBIA-FARC)

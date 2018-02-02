@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/1/former-president-of-south-africa-nelson-mandela-is-discharged-from-hospital-in-the-capital-pretoria.html)  [JSON](/news/2013/09/1/former-president-of-south-africa-nelson-mandela-is-discharged-from-hospital-in-the-capital-pretoria.json)  [XML](/news/2013/09/1/former-president-of-south-africa-nelson-mandela-is-discharged-from-hospital-in-the-capital-pretoria.xml)  
+
 ### [2013-09-1](/news/2013/09/1/index.md)
 
+##### President
 # Former President of South Africa Nelson Mandela is discharged from hospital in the capital Pretoria. 
 
 Former South African President Nelson Mandela leaves hospital and returns to his Johannesburg home, where he continues to receive intensive care.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-23919211#)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69588000/jpg/_69588306_69588305.jpg)

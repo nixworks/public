@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/5/former-president-of-the-united-states-george-w-bush-cancels-a-planned-appearance-in-switzerland-human-rights-watch-link-the-cancellation-t.html)  [JSON](/news/2011/02/5/former-president-of-the-united-states-george-w-bush-cancels-a-planned-appearance-in-switzerland-human-rights-watch-link-the-cancellation-t.json)  [XML](/news/2011/02/5/former-president-of-the-united-states-george-w-bush-cancels-a-planned-appearance-in-switzerland-human-rights-watch-link-the-cancellation-t.xml)  
+
 ### [2011-02-5](/news/2011/02/5/index.md)
 
+##### U.S. President
 # Former President of the United States George W. Bush cancels a planned appearance in Switzerland; Human Rights Watch link the cancellation to growing pressure for Bush to be arrested over his approval of waterboarding torture, saying Bush is "avoiding handcuffs". 
 
 Plans for former United States President George Bush to visit Switzerland next week have been abandoned amid calls for his arrest.
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,14820489,00.html)
 2. [Radio New Zealand](http://www.radionz.co.nz/news/world/67885/swiss-visit-by-bush-cancelled)

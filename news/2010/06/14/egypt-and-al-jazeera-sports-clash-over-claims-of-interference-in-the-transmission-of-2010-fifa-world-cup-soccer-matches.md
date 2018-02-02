@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/14/egypt-and-al-jazeera-sports-clash-over-claims-of-interference-in-the-transmission-of-2010-fifa-world-cup-soccer-matches.html)  [JSON](/news/2010/06/14/egypt-and-al-jazeera-sports-clash-over-claims-of-interference-in-the-transmission-of-2010-fifa-world-cup-soccer-matches.json)  [XML](/news/2010/06/14/egypt-and-al-jazeera-sports-clash-over-claims-of-interference-in-the-transmission-of-2010-fifa-world-cup-soccer-matches.xml)  
+
 ### [2010-06-14](/news/2010/06/14/index.md)
 
+##### Egypt
 # Egypt and Al Jazeera Sports clash over claims of interference in the transmission of 2010 FIFA World Cup soccer matches. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE65D0MQ20100614)
 

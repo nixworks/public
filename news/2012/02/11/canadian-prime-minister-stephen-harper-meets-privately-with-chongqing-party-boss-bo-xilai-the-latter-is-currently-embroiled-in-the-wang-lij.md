@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/02/11/canadian-prime-minister-stephen-harper-meets-privately-with-chongqing-party-boss-bo-xilai-the-latter-is-currently-embroiled-in-the-wang-lij.html)  [JSON](/news/2012/02/11/canadian-prime-minister-stephen-harper-meets-privately-with-chongqing-party-boss-bo-xilai-the-latter-is-currently-embroiled-in-the-wang-lij.json)  [XML](/news/2012/02/11/canadian-prime-minister-stephen-harper-meets-privately-with-chongqing-party-boss-bo-xilai-the-latter-is-currently-embroiled-in-the-wang-lij.xml)  
+
 ### [2012-02-11](/news/2012/02/11/index.md)
 
+##### Stephen Harper
 # Canadian Prime Minister Stephen Harper meets privately with Chongqing party boss Bo Xilai. The latter is currently embroiled in the Wang Lijun affair in what is rumoured to be an intense political struggle. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Globe and Mail](http://www.theglobeandmail.com/news/politics/brewing-china-scandal-offers-harper-a-sino-reality-check/article2334141/)
+1. [Globe and Mail](https://www.theglobeandmail.com/news/politics/brewing-china-scandal-offers-harper-a-sino-reality-check/article2334141/)
 2. [The National Post](http://news.nationalpost.com/2012/02/10/wang-lijun-disappears/)
 
 ### Related:

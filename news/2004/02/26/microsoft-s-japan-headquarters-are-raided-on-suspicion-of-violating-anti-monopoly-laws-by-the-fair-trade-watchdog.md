@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/26/microsoft-s-japan-headquarters-are-raided-on-suspicion-of-violating-anti-monopoly-laws-by-the-fair-trade-watchdog.html)  [JSON](/news/2004/02/26/microsoft-s-japan-headquarters-are-raided-on-suspicion-of-violating-anti-monopoly-laws-by-the-fair-trade-watchdog.json)  [XML](/news/2004/02/26/microsoft-s-japan-headquarters-are-raided-on-suspicion-of-violating-anti-monopoly-laws-by-the-fair-trade-watchdog.xml)  
+
 ### [2004-02-26](/news/2004/02/26/index.md)
 
+##### Microsoft
 #  Microsoft's Japan headquarters are raided on suspicion of violating anti-monopoly laws by the fair trade watchdog. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/technology/3488186.stm)
 2. [Mainichi](http://mdn.mainichi.co.jp/news/20040226p2a00m0dm004000c.html)

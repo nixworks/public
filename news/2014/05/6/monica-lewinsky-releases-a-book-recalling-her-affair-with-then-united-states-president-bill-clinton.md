@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/05/6/monica-lewinsky-releases-a-book-recalling-her-affair-with-then-united-states-president-bill-clinton.html)  [JSON](/news/2014/05/6/monica-lewinsky-releases-a-book-recalling-her-affair-with-then-united-states-president-bill-clinton.json)  [XML](/news/2014/05/6/monica-lewinsky-releases-a-book-recalling-her-affair-with-then-united-states-president-bill-clinton.xml)  
+
 ### [2014-05-6](/news/2014/05/6/index.md)
 
+##### Monica Lewinsky
 # Monica Lewinsky releases a book recalling her affair with then United States President Bill Clinton. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [U.S. News & World Report](http://www.usnews.com/news/blogs/washington-whispers/2014/05/06/monica-lewinsky-returns-a-month-before-hillary-clintons-book-drops)
+1. [U.S. News & World Report](https://www.usnews.com/news/blogs/washington-whispers/2014/05/06/monica-lewinsky-returns-a-month-before-hillary-clintons-book-drops)
 
 ### Related:
 

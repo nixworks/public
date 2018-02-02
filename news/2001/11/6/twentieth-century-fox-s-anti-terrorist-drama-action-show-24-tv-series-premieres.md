@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/11/6/twentieth-century-fox-s-anti-terrorist-drama-action-show-24-tv-series-premieres.html)  [JSON](/news/2001/11/6/twentieth-century-fox-s-anti-terrorist-drama-action-show-24-tv-series-premieres.json)  [XML](/news/2001/11/6/twentieth-century-fox-s-anti-terrorist-drama-action-show-24-tv-series-premieres.xml)  
+
 ### [2001-11-6](/news/2001/11/6/index.md)
 
+##### Twentieth Century Fox
 #  Twentieth Century Fox's anti-terrorist drama action show "24 (TV series)" premieres.
 
 

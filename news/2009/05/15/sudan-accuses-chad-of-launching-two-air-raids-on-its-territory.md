@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/05/15/sudan-accuses-chad-of-launching-two-air-raids-on-its-territory.html)  [JSON](/news/2009/05/15/sudan-accuses-chad-of-launching-two-air-raids-on-its-territory.json)  [XML](/news/2009/05/15/sudan-accuses-chad-of-launching-two-air-raids-on-its-territory.xml)  
+
 ### [2009-05-15](/news/2009/05/15/index.md)
 
+##### Sudan
 #  Sudan accuses Chad of launching two air raids on its territory. 
 
 Sudan Friday accused its neighbor Chad of launching two bombing raids on its territory, describing the attacks as &quot;an act of war.&quot;
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE54E5GN20090515)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE54E5GN20090515)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

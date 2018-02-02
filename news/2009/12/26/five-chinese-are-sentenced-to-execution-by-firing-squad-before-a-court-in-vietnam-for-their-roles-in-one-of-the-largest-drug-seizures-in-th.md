@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/26/five-chinese-are-sentenced-to-execution-by-firing-squad-before-a-court-in-vietnam-for-their-roles-in-one-of-the-largest-drug-seizures-in-th.html)  [JSON](/news/2009/12/26/five-chinese-are-sentenced-to-execution-by-firing-squad-before-a-court-in-vietnam-for-their-roles-in-one-of-the-largest-drug-seizures-in-th.json)  [XML](/news/2009/12/26/five-chinese-are-sentenced-to-execution-by-firing-squad-before-a-court-in-vietnam-for-their-roles-in-one-of-the-largest-drug-seizures-in-th.xml)  
+
 ### [2009-12-26](/news/2009/12/26/index.md)
 
+##### China
 #  Five Chinese are sentenced to execution by firing squad before a court in Vietnam for their roles in one of the largest drug seizures in the country's history. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5i2O3H_dd78kSww4_94P40n6x_17w)
 

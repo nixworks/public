@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/22/china-throws-a-surprise-86th-birthday-party-for-president-robert-mugabe-in-its-zimbabwe-embassy-in-harare-the-first-time-mugabe-visited-a-f.html)  [JSON](/news/2010/02/22/china-throws-a-surprise-86th-birthday-party-for-president-robert-mugabe-in-its-zimbabwe-embassy-in-harare-the-first-time-mugabe-visited-a-f.json)  [XML](/news/2010/02/22/china-throws-a-surprise-86th-birthday-party-for-president-robert-mugabe-in-its-zimbabwe-embassy-in-harare-the-first-time-mugabe-visited-a-f.xml)  
+
 ### [2010-02-22](/news/2010/02/22/index.md)
 
+##### Robert Mugabe
 # China throws a surprise 86th birthday party for President Robert Mugabe in its Zimbabwe embassy in Harare, the first time Mugabe visited a foreign embassy in the country since Zimbabwe won independence in 1980. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE61L0CG20100222)
 

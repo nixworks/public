@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/11/syria-says-that-it-will-retaliate-if-attacked-by-israel-again-a-week-after-israel-s-attack-the-two-countries-continue-to-exchange-insults.html)  [JSON](/news/2003/10/11/syria-says-that-it-will-retaliate-if-attacked-by-israel-again-a-week-after-israel-s-attack-the-two-countries-continue-to-exchange-insults.json)  [XML](/news/2003/10/11/syria-says-that-it-will-retaliate-if-attacked-by-israel-again-a-week-after-israel-s-attack-the-two-countries-continue-to-exchange-insults.xml)  
+
 ### [2003-10-11](/news/2003/10/11/index.md)
 
+##### Syria
 #  Syria says that it will retaliate if attacked by Israel again. A week after Israel's attack the two countries continue to exchange insults; the United Nations Security Council is unable to agree on a resolution condemning Israel's attack.
 
 

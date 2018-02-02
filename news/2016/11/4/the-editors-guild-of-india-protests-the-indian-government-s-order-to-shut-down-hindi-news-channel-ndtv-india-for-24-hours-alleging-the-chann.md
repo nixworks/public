@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2016/11/4/the-editors-guild-of-india-protests-the-indian-government-s-order-to-shut-down-hindi-news-channel-ndtv-india-for-24-hours-alleging-the-chann.html)  [JSON](/news/2016/11/4/the-editors-guild-of-india-protests-the-indian-government-s-order-to-shut-down-hindi-news-channel-ndtv-india-for-24-hours-alleging-the-chann.json)  [XML](/news/2016/11/4/the-editors-guild-of-india-protests-the-indian-government-s-order-to-shut-down-hindi-news-channel-ndtv-india-for-24-hours-alleging-the-chann.xml)  
+
 ### [2016-11-4](/news/2016/11/4/index.md)
 
+##### Government of India
 # The Editors Guild of India protests the Indian Government's order to shut down Hindi news channel NDTV India for 24 hours alleging the channel's coverage of January's deadly attack on Pathankot air base revealed sensitive military secrets. NDTV denies the charges, and says it will challenge this unprecedented order. 
 
 The government directed NDTV India to go off air for 24 hours starting November 9 midnight for allegedly jeopardizing national security while covering the terror attack on Pathankot airbase in January. This is the first time that a broadcaster has been penalized over coverage of a terror attack.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2016/11/04/world/asia/ap-as-india-news-channel-ban.html?_r=0)
+1. [The New York Times](https://www.nytimes.com/aponline/2016/11/04/world/asia/ap-as-india-news-channel-ban.html?_r=0)
 2. [The Times of India](http://timesofindia.indiatimes.com/india/1-day-ban-on-TV-channel-over-terror-coverage/articleshow/55235279.cms)
 2. [Cover Image](http://timesofindia.indiatimes.com/photo/55235280.cms)
+
+### Changes:
+
+1. [The Editors Guild of India protests the Indian Government's order to shut down Hindi news channel NDTV India for 24 hours alleging the channel's coverage of January's deadly attack on Pathankot air base revealed sensitive military secrets. NDTV denies the charges, and says it will challenge this unprecedented order. ](/news/2016/11/4/the-editors-guild-of-india-protests-the-indian-government-s-order-to-shut-down-hindi-news-channel-ndtv-india-for-24-hours-alleging-the-chan.md) _2017-08-25 03:46:45 (First version)_
+1. [The Editors Guild of India protests the Indian Government's order to shut down Hindi news channel NDTV India for 24 hours alleging the channel's coverage of January's deadly attack on Pathankot air base revealed sensitive military secrets. NDTV denies the charges, and says it will challenge this unprecedented order. ](/news/2016/11/4/the-editors-guild-of-india-protests-the-indian-government-s-order-to-shut-down-hindi-news-channel-ndtv-india-for-24-hours-alleging-the-chann.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ The government directed NDTV India to go off air for 24 hours starting November 
 3. [Five of the terrorists who attacked an Indian Air Force base in Pathankot, Punjab are reported to have been killed; mopping-up and search operations continue. National Security Guard officials state the operations will continue until the air base is made safe. ](/news/2016/01/4/five-of-the-terrorists-who-attacked-an-indian-air-force-base-in-pathankot-punjab-are-reported-to-have-been-killed-mopping-up-and-search-op.md) _Context: attack on Pathankot air base_
 4. [Gunfire and loud explosions are heard at an Indian Air Force base in Pathankot, Punjab, as anti-terrorist operations continue. A further two militants, for a total of six, are reported to have been killed; seven military and paramilitary personnel are reported to have been killed, with up to 20 other security personnel wounded. ](/news/2016/01/3/gunfire-and-loud-explosions-are-heard-at-an-indian-air-force-base-in-pathankot-punjab-as-anti-terrorist-operations-continue-a-further-two.md) _Context: attack on Pathankot air base_
 5. [Heavily armed terrorists, reportedly members of Jaish-e-Mohammed, attack an Indian Air Force base in Pathankot, Punjab; three security force personnel and four of the terrorists are reported to have been killed. ](/news/2016/01/2/heavily-armed-terrorists-reportedly-members-of-jaish-e-mohammed-attack-an-indian-air-force-base-in-pathankot-punjab-three-security-force.md) _Context: attack on Pathankot air base_
-
-### Changes:
-
-1. [The Editors Guild of India protests the Indian Government's order to shut down Hindi news channel NDTV India for 24 hours alleging the channel's coverage of January's deadly attack on Pathankot air base revealed sensitive military secrets. NDTV denies the charges, and says it will challenge this unprecedented order. ](/news/2016/11/4/the-editors-guild-of-india-protests-the-indian-government-s-order-to-shut-down-hindi-news-channel-ndtv-india-for-24-hours-alleging-the-chan.md) _2017-08-25 03:46:45 (First version)_
-1. [The Editors Guild of India protests the Indian Government's order to shut down Hindi news channel NDTV India for 24 hours alleging the channel's coverage of January's deadly attack on Pathankot air base revealed sensitive military secrets. NDTV denies the charges, and says it will challenge this unprecedented order. ](/news/2016/11/4/the-editors-guild-of-india-protests-the-indian-government-s-order-to-shut-down-hindi-news-channel-ndtv-india-for-24-hours-alleging-the-chann.md) _(Current version)_

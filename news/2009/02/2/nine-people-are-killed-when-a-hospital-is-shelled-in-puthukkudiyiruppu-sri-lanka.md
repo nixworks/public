@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/2/nine-people-are-killed-when-a-hospital-is-shelled-in-puthukkudiyiruppu-sri-lanka.html)  [JSON](/news/2009/02/2/nine-people-are-killed-when-a-hospital-is-shelled-in-puthukkudiyiruppu-sri-lanka.json)  [XML](/news/2009/02/2/nine-people-are-killed-when-a-hospital-is-shelled-in-puthukkudiyiruppu-sri-lanka.xml)  
+
 ### [2009-02-2](/news/2009/02/2/index.md)
 
+##### Sri Lankan Civil War
 #  Nine people are killed when a hospital is shelled in Puthukkudiyiruppu, Sri Lanka. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7863538.stm)
 

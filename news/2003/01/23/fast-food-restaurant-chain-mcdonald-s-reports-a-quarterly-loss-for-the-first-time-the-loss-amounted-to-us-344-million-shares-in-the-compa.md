@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/23/fast-food-restaurant-chain-mcdonald-s-reports-a-quarterly-loss-for-the-first-time-the-loss-amounted-to-us-344-million-shares-in-the-compa.html)  [JSON](/news/2003/01/23/fast-food-restaurant-chain-mcdonald-s-reports-a-quarterly-loss-for-the-first-time-the-loss-amounted-to-us-344-million-shares-in-the-compa.json)  [XML](/news/2003/01/23/fast-food-restaurant-chain-mcdonald-s-reports-a-quarterly-loss-for-the-first-time-the-loss-amounted-to-us-344-million-shares-in-the-compa.xml)  
+
 ### [2003-01-23](/news/2003/01/23/index.md)
 
+##### McDonald's restaurants
 #  Fast food restaurant chain McDonald's reports a quarterly loss for the first time. The loss amounted to US$344 million. Shares in the company fell around 3% on the news.
 
 

@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/07/21/actor-george-clooney-is-to-receive-an-award-for-humanitarian-work.html)  [JSON](/news/2010/07/21/actor-george-clooney-is-to-receive-an-award-for-humanitarian-work.json)  [XML](/news/2010/07/21/actor-george-clooney-is-to-receive-an-award-for-humanitarian-work.xml)  
+
 ### [2010-07-21](/news/2010/07/21/index.md)
 
+##### George Clooney
 # Actor George Clooney is to receive an award for humanitarian work. 
 
 Hollywood actor George Clooney will receive an Emmy award for his humanitarian efforts, it is announced.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-10712994)
 2. [Los Angeles Times](http://latimesblogs.latimes.com/showtracker/2010/07/george-clooney-to-receive-humanitarian-award-at-emmys.html)
 3. [News24](http://www.news24.com/Entertainment/CelebNews/Clooney-honoured-at-the-Emmys-20100721)
-4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/07/21/AR2010072101341.html?hpid=entnews)
+4. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/07/21/AR2010072101341.html?hpid=entnews)
 4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:

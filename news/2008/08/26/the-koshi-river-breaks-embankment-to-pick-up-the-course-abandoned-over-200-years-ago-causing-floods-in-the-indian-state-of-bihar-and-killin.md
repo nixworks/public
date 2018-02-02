@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/26/the-koshi-river-breaks-embankment-to-pick-up-the-course-abandoned-over-200-years-ago-causing-floods-in-the-indian-state-of-bihar-and-killin.html)  [JSON](/news/2008/08/26/the-koshi-river-breaks-embankment-to-pick-up-the-course-abandoned-over-200-years-ago-causing-floods-in-the-indian-state-of-bihar-and-killin.json)  [XML](/news/2008/08/26/the-koshi-river-breaks-embankment-to-pick-up-the-course-abandoned-over-200-years-ago-causing-floods-in-the-indian-state-of-bihar-and-killin.xml)  
+
 ### [2008-08-26](/news/2008/08/26/index.md)
 
+##### Koshi River
 #  The Koshi River breaks embankment to pick up the course abandoned over 200 years ago causing floods in the Indian state of Bihar and killing 42 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN-IBN](http://www.ibnlive.com/news/bihar-flood-catastrophe-cm-seeks-govts-help/72143-3.html?from=rssfeed)
 

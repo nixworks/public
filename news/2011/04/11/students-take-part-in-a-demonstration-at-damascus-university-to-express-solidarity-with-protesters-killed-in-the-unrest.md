@@ -1,17 +1,26 @@
+
+Formats: [HTML](/news/2011/04/11/students-take-part-in-a-demonstration-at-damascus-university-to-express-solidarity-with-protesters-killed-in-the-unrest.html)  [JSON](/news/2011/04/11/students-take-part-in-a-demonstration-at-damascus-university-to-express-solidarity-with-protesters-killed-in-the-unrest.json)  [XML](/news/2011/04/11/students-take-part-in-a-demonstration-at-damascus-university-to-express-solidarity-with-protesters-killed-in-the-unrest.xml)  
+
 ### [2011-04-11](/news/2011/04/11/index.md)
 
+##### protestors
 # Students take part in a demonstration at Damascus University to express solidarity with protesters killed in the unrest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Bawaba](http://www1.albawaba.com/node/368736)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/2011411143055997548.html)
 3. [Haaretz](http://www.haaretz.com/news/international/student-killed-after-syria-forces-attack-damascus-university-protest-1.355380)
 4. [Press TV](http://www.presstv.ir/detail/174298.html)
 4. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/11/201141116304473954_20.jpg)
+
+### Changes:
+
+1. [2011 Syrian protests: Students take part in a demonstration at Damascus University to express solidarity with protesters killed in the unrest. ](/news/2011/04/11/2011-syrian-protests-students-take-part-in-a-demonstration-at-damascus-university-to-express-solidarity-with-protesters-killed-in-the-unres.md) _2017-08-27 03:32:55 (First version)_
+1. [Students take part in a demonstration at Damascus University to express solidarity with protesters killed in the unrest. ](/news/2011/04/11/students-take-part-in-a-demonstration-at-damascus-university-to-express-solidarity-with-protesters-killed-in-the-unrest.md) _(Current version)_
 
 ### Related:
 
@@ -20,8 +29,3 @@
 3. [Sources claim that the Syrian Army storms into the city of Baniyas attacking Sunni districts that have opposed President Bashar al-Assad during the 2011 Syrian protests. ](/news/2011/05/7/sources-claim-that-the-syrian-army-storms-into-the-city-of-baniyas-attacking-sunni-districts-that-have-opposed-president-bashar-al-assad-dur.md) _Context: protestors_
 4. [Dozens of tanks have been sent to the Syrian city of Homs as the Government continues to crack down on protesters. ](/news/2011/05/5/dozens-of-tanks-have-been-sent-to-the-syrian-city-of-homs-as-the-government-continues-to-crack-down-on-protesters.md) _Context: protestors_
 5. [Human rights organisations estimate that the Government of Syria has killed 1,000 civilians so far during the protests.](/news/2011/05/24/human-rights-organisations-estimate-that-the-government-of-syria-has-killed-1-000-civilians-so-far-during-the-protests.md) _Context: protestors_
-
-### Changes:
-
-1. [2011 Syrian protests: Students take part in a demonstration at Damascus University to express solidarity with protesters killed in the unrest. ](/news/2011/04/11/2011-syrian-protests-students-take-part-in-a-demonstration-at-damascus-university-to-express-solidarity-with-protesters-killed-in-the-unres.md) _2017-08-27 03:32:55 (First version)_
-1. [Students take part in a demonstration at Damascus University to express solidarity with protesters killed in the unrest. ](/news/2011/04/11/students-take-part-in-a-demonstration-at-damascus-university-to-express-solidarity-with-protesters-killed-in-the-unrest.md) _(Current version)_

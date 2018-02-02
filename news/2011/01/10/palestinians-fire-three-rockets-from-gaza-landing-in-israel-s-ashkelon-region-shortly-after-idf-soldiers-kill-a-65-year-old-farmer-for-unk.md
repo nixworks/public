@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/10/palestinians-fire-three-rockets-from-gaza-landing-in-israel-s-ashkelon-region-shortly-after-idf-soldiers-kill-a-65-year-old-farmer-for-unk.html)  [JSON](/news/2011/01/10/palestinians-fire-three-rockets-from-gaza-landing-in-israel-s-ashkelon-region-shortly-after-idf-soldiers-kill-a-65-year-old-farmer-for-unk.json)  [XML](/news/2011/01/10/palestinians-fire-three-rockets-from-gaza-landing-in-israel-s-ashkelon-region-shortly-after-idf-soldiers-kill-a-65-year-old-farmer-for-unk.xml)  
+
 ### [2011-01-10](/news/2011/01/10/index.md)
 
+##### Palestinian rocket attacks on Israel
 # Palestinians fire three rockets from Gaza, landing in Israel's Ashkelon region, shortly after IDF soldiers kill a 65 year old farmer for unknown reasons, and bomb two sites in the Gaza Strip. 
 
 Attack comes shortly after Palestinians report 65-year-old farmer shot to death by IDF soldiers near security fence &#39;for no apparent reason.&#39; One rocket lands in city&#39;s industrial zone; another Qassam lands in western Negev; no injuries reported 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/three-rockets-fired-from-gaza-strike-ashkelon-region-1.336250?localLinksEnabled=false)
 2. [The Jerusalem Post](http://www.jpost.com/NationalNews/Article.aspx?id=202987)

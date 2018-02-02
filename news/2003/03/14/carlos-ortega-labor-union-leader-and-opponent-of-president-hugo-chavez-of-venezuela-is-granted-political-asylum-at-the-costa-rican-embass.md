@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/14/carlos-ortega-labor-union-leader-and-opponent-of-president-hugo-chavez-of-venezuela-is-granted-political-asylum-at-the-costa-rican-embass.html)  [JSON](/news/2003/03/14/carlos-ortega-labor-union-leader-and-opponent-of-president-hugo-chavez-of-venezuela-is-granted-political-asylum-at-the-costa-rican-embass.json)  [XML](/news/2003/03/14/carlos-ortega-labor-union-leader-and-opponent-of-president-hugo-chavez-of-venezuela-is-granted-political-asylum-at-the-costa-rican-embass.xml)  
+
 ### [2003-03-14](/news/2003/03/14/index.md)
 
+##### Carlos Ortega
 #  Carlos Ortega, labor union leader and opponent of President Hugo Chvez of Venezuela, is granted political asylum at the Costa Rican Embassy in Caracas. Ortega had eluded arrest for three weeks on charges of treason, civil rebellion and "incitement".
 
 

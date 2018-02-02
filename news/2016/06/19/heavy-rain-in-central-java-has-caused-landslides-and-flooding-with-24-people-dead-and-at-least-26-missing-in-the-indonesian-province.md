@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/19/heavy-rain-in-central-java-has-caused-landslide
 
 ### [2016-06-19](/news/2016/06/19/index.md)
 
+##### Central Java
 # Heavy rain in Central Java has caused landslides and flooding with 24 people dead and at least 26 missing in the Indonesian province. 
 
 Flash flooding and landslides in Indonesia kill 35 and leave more than two dozen missing, an official says.

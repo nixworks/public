@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/9/argentine-singer-songwriter-facundo-cabral-is-assassinated-in-an-apparent-ambush-in-guatemala-city.html)  [JSON](/news/2011/07/9/argentine-singer-songwriter-facundo-cabral-is-assassinated-in-an-apparent-ambush-in-guatemala-city.json)  [XML](/news/2011/07/9/argentine-singer-songwriter-facundo-cabral-is-assassinated-in-an-apparent-ambush-in-guatemala-city.xml)  
+
 ### [2011-07-9](/news/2011/07/9/index.md)
 
+##### Facundo Cabral
 # Argentine singer-songwriter Facundo Cabral is assassinated in an apparent ambush in Guatemala City. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-14093876)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/53957000/jpg/_53957343_012413342-1.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/5/uruguay-striker-and-2010-fifa-world-cup-player-of-the-tournament-diego-forlan-is-a-popular-attraction-among-the-inhabitants-of-kolkata-as-he.html)  [JSON](/news/2010/08/5/uruguay-striker-and-2010-fifa-world-cup-player-of-the-tournament-diego-forlan-is-a-popular-attraction-among-the-inhabitants-of-kolkata-as-he.json)  [XML](/news/2010/08/5/uruguay-striker-and-2010-fifa-world-cup-player-of-the-tournament-diego-forlan-is-a-popular-attraction-among-the-inhabitants-of-kolkata-as-he.xml)  
+
 ### [2010-08-5](/news/2010/08/5/index.md)
 
+##### Uruguay
 # Uruguay striker and 2010 FIFA World Cup player of the tournament Diego Forln is a popular attraction among the inhabitants of Kolkata as he participates in a talent search. 
 
 Uruguay striker Diego Forlan attracts huge crowds in the Indian city of Calcutta.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-south-asia-10878378)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/48617000/jpg/_48617539_009906203-1.jpg)

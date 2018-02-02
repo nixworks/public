@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/28/aids-campaigners-and-human-rights-groups-accuse-the-cambodian-government-of-herding-hiv-affected-families-into-an-aids-colony-outside-phn.html)  [JSON](/news/2009/07/28/aids-campaigners-and-human-rights-groups-accuse-the-cambodian-government-of-herding-hiv-affected-families-into-an-aids-colony-outside-phn.json)  [XML](/news/2009/07/28/aids-campaigners-and-human-rights-groups-accuse-the-cambodian-government-of-herding-hiv-affected-families-into-an-aids-colony-outside-phn.xml)  
+
 ### [2009-07-28](/news/2009/07/28/index.md)
 
+##### AIDS
 #  AIDS campaigners and human rights groups accuse the Cambodian government of herding HIV-affected families into an "Aids colony" outside Phnom Penh. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2009/jul/28/cambodian-government-accused-aids-colony)
 

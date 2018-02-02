@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/9/a-suicide-car-bomb-targeting-mogadishu-s-traffic
 
 ### [2016-05-9](/news/2016/05/9/index.md)
 
+##### War in Somalia (2009-present)
 #  A suicide car bomb targeting Mogadishu's traffic police headquarters kills at least four. Al-Shabaab claims responsibility. 
 
 

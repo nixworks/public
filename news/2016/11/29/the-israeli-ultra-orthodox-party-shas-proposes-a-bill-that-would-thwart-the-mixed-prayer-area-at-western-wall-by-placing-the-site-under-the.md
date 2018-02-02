@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/29/the-israeli-ultra-orthodox-party-shas-proposes-
 
 ### [2016-11-29](/news/2016/11/29/index.md)
 
+##### Israel
 # The Israeli ultra-orthodox party Shas proposes a bill that would thwart the mixed prayer area at Western Wall by placing the site under the jurisdiction of the Chief Rabbinate; if approved, a NIS 10,000 fine would be given to those engaging in male-female prayer or women wrapping themselves in the traditional talit or laying tefillin. 
 
 The ultra-orthodox party proposes a bill that would thwart the mixed prayer area by placing the site under the jurisdiction of the Chief Rabbinate; if aproved, a NIS 10,000 fine would be given to those engaging in male-female prayer or women wrapping themselves in the traditional talit or laying tefillin.

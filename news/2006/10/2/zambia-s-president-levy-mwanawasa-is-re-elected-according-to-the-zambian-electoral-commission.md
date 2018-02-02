@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/2/zambia-s-president-levy-mwanawasa-is-re-elected-according-to-the-zambian-electoral-commission.html)  [JSON](/news/2006/10/2/zambia-s-president-levy-mwanawasa-is-re-elected-according-to-the-zambian-electoral-commission.json)  [XML](/news/2006/10/2/zambia-s-president-levy-mwanawasa-is-re-elected-according-to-the-zambian-electoral-commission.xml)  
+
 ### [2006-10-2](/news/2006/10/2/index.md)
 
+##### Zambia
 #  Zambia's President, Levy Mwanawasa, is re-elected, according to the Zambian Electoral Commission. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/5400840.stm)
 

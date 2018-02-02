@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/2/the-prime-minister-of-japan-yoshihiko-noda-announces-his-new-cabinet-with-jun-azumi-as-minister-of-finance-and-kaichira-genba-as-minister.html)  [JSON](/news/2011/09/2/the-prime-minister-of-japan-yoshihiko-noda-announces-his-new-cabinet-with-jun-azumi-as-minister-of-finance-and-kaichira-genba-as-minister.json)  [XML](/news/2011/09/2/the-prime-minister-of-japan-yoshihiko-noda-announces-his-new-cabinet-with-jun-azumi-as-minister-of-finance-and-kaichira-genba-as-minister.xml)  
+
 ### [2011-09-2](/news/2011/09/2/index.md)
 
+##### Prime Minister of Japan
 # The Prime Minister of Japan Yoshihiko Noda announces his new Cabinet with Jun Azumi as Minister of Finance and Koichiro Genba as Minister for Foreign Affairs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hcejYODHdlKABSIGp-NY0MavDAVg?docId=CNG.756bc07be4ef23a7b6689afbd24756ee.301)
 

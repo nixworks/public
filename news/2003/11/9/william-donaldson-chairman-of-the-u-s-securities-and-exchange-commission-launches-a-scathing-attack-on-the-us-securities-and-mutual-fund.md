@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/9/william-donaldson-chairman-of-the-u-s-securities-and-exchange-commission-launches-a-scathing-attack-on-the-us-securities-and-mutual-fund.html)  [JSON](/news/2003/11/9/william-donaldson-chairman-of-the-u-s-securities-and-exchange-commission-launches-a-scathing-attack-on-the-us-securities-and-mutual-fund.json)  [XML](/news/2003/11/9/william-donaldson-chairman-of-the-u-s-securities-and-exchange-commission-launches-a-scathing-attack-on-the-us-securities-and-mutual-fund.xml)  
+
 ### [2003-11-9](/news/2003/11/9/index.md)
 
+##### William Donaldson
 #  William Donaldson, chairman of the U.S. Securities and Exchange Commission, launches a scathing attack on the US securities and mutual fund industries. Eliot Spitzer, New York Attorney General, is expected to shortly file civil and criminal charges against a widening group of fund management companies.
 
 

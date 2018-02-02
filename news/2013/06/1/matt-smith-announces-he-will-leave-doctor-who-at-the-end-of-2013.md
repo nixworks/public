@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/1/matt-smith-announces-he-will-leave-doctor-who-at-the-end-of-2013.html)  [JSON](/news/2013/06/1/matt-smith-announces-he-will-leave-doctor-who-at-the-end-of-2013.json)  [XML](/news/2013/06/1/matt-smith-announces-he-will-leave-doctor-who-at-the-end-of-2013.xml)  
+
 ### [2013-06-1](/news/2013/06/1/index.md)
 
+##### Matt Smith
 # Matt Smith announces he will leave "Doctor Who" at the end of 2013. 
 
 Matt Smith is leaving &#8220;Doctor Who&#8221; after four years of portraying the time-traveling hero on the long-running British sci-fi adventure series. Smith, the 11th actor to portray the wande…
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://herocomplex.latimes.com/tv/matt-smith-is-leaving-doctor-who-at-the-end-of-2013/)
 1. [Cover Image](https://latimesherocomplex.files.wordpress.com/2030/04/doctorwho-cp.jpg)

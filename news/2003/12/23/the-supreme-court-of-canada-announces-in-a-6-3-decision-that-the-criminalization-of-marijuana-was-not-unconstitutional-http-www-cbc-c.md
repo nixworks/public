@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/23/the-supreme-court-of-canada-announces-in-a-6-3-decision-that-the-criminalization-of-marijuana-was-not-unconstitutional-http-www-cbc-c.html)  [JSON](/news/2003/12/23/the-supreme-court-of-canada-announces-in-a-6-3-decision-that-the-criminalization-of-marijuana-was-not-unconstitutional-http-www-cbc-c.json)  [XML](/news/2003/12/23/the-supreme-court-of-canada-announces-in-a-6-3-decision-that-the-criminalization-of-marijuana-was-not-unconstitutional-http-www-cbc-c.xml)  
+
 ### [2003-12-23](/news/2003/12/23/index.md)
 
+##### Supreme Court of Canada
 #  The Supreme Court of Canada announces (in a 6-3 decision) that the criminalization of marijuana was not unconstitutional. [http:--www.cbc.ca-stories-2003-12-23-pot031223]
 
 

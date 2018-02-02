@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/2/denial-of-the-armenian-genocide-is-criminalized-in-the-republic-of-cyprus.html)  [JSON](/news/2015/04/2/denial-of-the-armenian-genocide-is-criminalized-in-the-republic-of-cyprus.json)  [XML](/news/2015/04/2/denial-of-the-armenian-genocide-is-criminalized-in-the-republic-of-cyprus.xml)  
+
 ### [2015-04-2](/news/2015/04/2/index.md)
 
+##### Denial
 # Denial of the Armenian Genocide is criminalized in the Republic of Cyprus. 
 
 Cyprus on Thursday made it a crime to deny that Ottoman Turks committed genocide against Armenian Turks a century ago, a move likely to rile its old rival Turkey as peace talks on the ethnically-split island remain stalled.
 
 
-### Source:
+### Sources:
 
 1. [Reuters UK](http://uk.reuters.com/article/idUKKBN0MT2BP20150402)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

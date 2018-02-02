@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/24/iranian-president-mahmoud-ahmadinejad-unexpectedly-lifts-a-27-year-ban-on-female-attendance-of-public-sporting-events-in-iran-they-still-n.html)  [JSON](/news/2006/04/24/iranian-president-mahmoud-ahmadinejad-unexpectedly-lifts-a-27-year-ban-on-female-attendance-of-public-sporting-events-in-iran-they-still-n.json)  [XML](/news/2006/04/24/iranian-president-mahmoud-ahmadinejad-unexpectedly-lifts-a-27-year-ban-on-female-attendance-of-public-sporting-events-in-iran-they-still-n.xml)  
+
 ### [2006-04-24](/news/2006/04/24/index.md)
 
+##### President
 #  Iranian President Mahmoud Ahmadinejad unexpectedly lifts a 27-year ban on female attendance of public sporting events in Iran. They still need permission of the male head of the household to attend and they will sit in a special female-only section. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.seattlepi.com/othersports/2050AP_SOC_Iran_Women.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4938912.stm)

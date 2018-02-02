@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/23/prime-minister-of-bhutan-jigme-thinley-describes-an-earthquake-which-hit-the-himalayan-kingdom-on-monday-as-one-of-the-biggest-disasters-i.html)  [JSON](/news/2009/09/23/prime-minister-of-bhutan-jigme-thinley-describes-an-earthquake-which-hit-the-himalayan-kingdom-on-monday-as-one-of-the-biggest-disasters-i.json)  [XML](/news/2009/09/23/prime-minister-of-bhutan-jigme-thinley-describes-an-earthquake-which-hit-the-himalayan-kingdom-on-monday-as-one-of-the-biggest-disasters-i.xml)  
+
 ### [2009-09-23](/news/2009/09/23/index.md)
 
+##### Prime Minister
 #  Prime Minister of Bhutan Jigme Thinley describes an earthquake which hit the Himalayan kingdom on Monday as "one of the biggest disasters in recent times". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8270418.stm)
 

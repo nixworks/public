@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2007/07/17/the-high-judicial-council-of-libya-commutes-the-death-sentences-against-six-foreign-medical-workers-to-life-imprisonment.html)  [JSON](/news/2007/07/17/the-high-judicial-council-of-libya-commutes-the-death-sentences-against-six-foreign-medical-workers-to-life-imprisonment.json)  [XML](/news/2007/07/17/the-high-judicial-council-of-libya-commutes-the-death-sentences-against-six-foreign-medical-workers-to-life-imprisonment.xml)  
+
 ### [2007-07-17](/news/2007/07/17/index.md)
 
+##### Libya
 #  The High Judicial Council of Libya commutes the death sentences against six foreign medical workers to life imprisonment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via CNN](http://edition.cnn.com/2007/WORLD/africa/07/17/libya.medics.reut/index.html?eref=rss_topstories)
 
 ### Related:
 
-1. [ The Supreme Court of Libya upholds the death penalty for the six Bulgarian medics and one Palestinian doctor accused of infecting children with HIV. ](/news/2007/07/11/the-supreme-court-of-libya-upholds-the-death-penalty-for-the-six-bulgarian-medics-and-one-palestinian-doctor-accused-of-infecting-children.md) _Context: Libya, death penalty_
-2. [ In Libya, Muammar al-Gaddafi states that he is not going to pardon five Bulgarian nurses that face a death penalty accused of injecting children with the HIV ](/news/2005/03/23/in-libya-muammar-al-gaddafi-states-that-he-is-not-going-to-pardon-five-bulgarian-nurses-that-face-a-death-penalty-accused-of-injecting-chi.md) _Context: Libya, death penalty_
-3. [At least five migrants have died and ninety are missing after their boat sinks off the western coast of Libya. ](/news/2017/09/21/at-least-five-migrants-have-died-and-ninety-are-missing-after-their-boat-sinks-off-the-western-coast-of-libya.md) _Context: Libya_
-4. [The European Union restricts the exports of inflatable boats to Libya. ](/news/2017/07/17/the-european-union-restricts-the-exports-of-inflatable-boats-to-libya.md) _Context: Libya_
-5. [Bahrain, Egypt, Libya, the Maldives, Saudi Arabia, the United Arab Emirates, and the internationally recognized government of Yemen sever diplomatic ties with Qatar, ordering Qatari citizens in those countries to be expelled as well as cutting all land, air and sea connections. "National security," "media incitement" and Qatar's support of Iran are variously cited. ](/news/2017/06/5/bahrain-egypt-libya-the-maldives-saudi-arabia-the-united-arab-emirates-and-the-internationally-recognized-government-of-yemen-sever-di.md) _Context: Libya_
+1. [ The Supreme Court of Libya upholds the death penalty for the six Bulgarian medics and one Palestinian doctor accused of infecting children with HIV. ](/news/2007/07/11/the-supreme-court-of-libya-upholds-the-death-penalty-for-the-six-bulgarian-medics-and-one-palestinian-doctor-accused-of-infecting-children.md) _Context: Libya, sentenced to death_
+2. [ In Libya, Muammar al-Gaddafi states that he is not going to pardon five Bulgarian nurses that face a death penalty accused of injecting children with the HIV ](/news/2005/03/23/in-libya-muammar-al-gaddafi-states-that-he-is-not-going-to-pardon-five-bulgarian-nurses-that-face-a-death-penalty-accused-of-injecting-chi.md) _Context: Libya, sentenced to death_
+3. [ Ali Hassan al-Majid, better known as "Chemical Ali," is sentenced to death for his role in killing 180,000 Kurds under Saddam Hussein. ](/news/2018/06/24/ali-hassan-al-majid-better-known-as-chemical-ali-is-sentenced-to-death-for-his-role-in-killing-180-000-kurds-under-saddam-hussein.md) _Context: sentenced to death_
+4. [A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials. ](/news/2018/01/23/a-double-car-bombing-in-benghazi-libya-kills-at-least-33-people-and-wounds-dozens-of-others-the-victims-include-both-military-personnel.md) _Context: Libya_
+5. [The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" - allegedly bound for Libya, loaded with 410 tonnes of explosives - in Heraklion, Greece. 102 safety deficiencies are found, and 8 crew members are arrested. ](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-flagged-cargo-ship-andromeda-a-allegedly-bound-for-libya-loaded-with-410-tonnes-of-explos.md) _Context: Libya_

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/14/marco-pantani-world-renowned-cyclist-winner-of-the-1998-tour-de-france-and-the-1998-giro-d-italia-is-found-dead-in-a-hotel-in-the-adriat.html)  [JSON](/news/2004/02/14/marco-pantani-world-renowned-cyclist-winner-of-the-1998-tour-de-france-and-the-1998-giro-d-italia-is-found-dead-in-a-hotel-in-the-adriat.json)  [XML](/news/2004/02/14/marco-pantani-world-renowned-cyclist-winner-of-the-1998-tour-de-france-and-the-1998-giro-d-italia-is-found-dead-in-a-hotel-in-the-adriat.xml)  
+
 ### [2004-02-14](/news/2004/02/14/index.md)
 
+##### Marco Pantani
 #  Marco Pantani, world-renowned cyclist, winner of the 1998 Tour de France and the 1998 Giro d'Italia, is found dead in a hotel in the Adriatic city of Rimini, Italy.
 
 

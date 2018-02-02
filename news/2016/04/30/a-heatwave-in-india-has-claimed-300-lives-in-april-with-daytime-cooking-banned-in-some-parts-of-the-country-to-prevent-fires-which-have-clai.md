@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/30/a-heatwave-in-india-has-claimed-300-lives-in-ap
 
 ### [2016-04-30](/news/2016/04/30/index.md)
 
+##### heatwave
 # A heatwave in India has claimed 300 lives in April with daytime cooking banned in some parts of the country to prevent fires which have claimed an additional 80 lives. 
 
 
@@ -16,6 +17,6 @@ Formats: [HTML](/news/2016/04/30/a-heatwave-in-india-has-claimed-300-lives-in-ap
 
 1. [Temperatures soar to a record 51 C in the Indian state of Rajasthan. The heatwave has claimed 300 lives since April 2016. ](/news/2016/05/20/temperatures-soar-to-a-record-51-c-in-the-indian-state-of-rajasthan-the-heatwave-has-claimed-300-lives-since-april-2016.md) _Context: India, heatwave_
 2. [More than 100 are feared dead in an early summer heatwave in India which has forced the closure of schools. ](/news/2016/04/21/more-than-100-are-feared-dead-in-an-early-summer-heatwave-in-india-which-has-forced-the-closure-of-schools.md) _Context: India, heatwave_
-3. [Cyclone Ockhi hits southern India causing 13 deaths in Tamil Nadu and Kerala. The cyclone kills 15 people and displaces another 200,000 persons in Sri Lanka. ](/news/2017/12/2/cyclone-ockhi-hits-southern-india-causing-13-deaths-in-tamil-nadu-and-kerala-the-cyclone-kills-15-people-and-displaces-another-200-000-pers.md) _Context: India_
-4. [A blanket of thick grey smog covers the Indian capital, Delhi, with some areas 30 times more polluted than the World Health Organization's recommended limit, one year after a similar smog. ](/news/2017/11/7/a-blanket-of-thick-grey-smog-covers-the-indian-capital-delhi-with-some-areas-30-times-more-polluted-than-the-world-health-organization-s-r.md) _Context: India_
-5. [Prominent Indian journalist and "Lankesh Patrike" editor Gauri Lankesh is shot dead by unidentified men outside her house in the city of Bengaluru. ](/news/2017/09/5/prominent-indian-journalist-and-lankesh-patrike-editor-gauri-lankesh-is-shot-dead-by-unidentified-men-outside-her-house-in-the-city-of-ben.md) _Context: India_
+3. [A bus plunges into the Bhairab River after falling off a bridge in Murshidabad district, West Bengal, India, killing at least 36 people. The late response by rescuers to save passengers leads to violence between local residents and police. ](/news/2018/01/29/a-bus-plunges-into-the-bhairab-river-after-falling-off-a-bridge-in-murshidabad-district-west-bengal-india-killing-at-least-36-people-the.md) _Context: India_
+4. [The Indian Space Research Organisation successfully launches India's 100th satellite and 30 other satellites from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh. [http:--www.thehindubusinessline.com-news-science-isro-launches-its-100th-satellite-into-space-article10027585.ece "(The Hindu)"]A Delta IV launches NROL-47, a classified U.S. military payload, from Vandenberg Air Force Base, California. It is the last single-core Delta IV to launch from Vandenberg. [https:--spaceflightnow.com-2018-01-13-delta-4-rocket-successfully-lofts-clandestine-nro-satellite-into-orbit-"(Spaceflight Now)"]](/news/2018/01/12/the-indian-space-research-organisation-successfully-launches-indiaas-100th-satellite-and-30-other-satellites-from-the-satish-dhawan-space.md) _Context: India_
+5. [Fifteen countries ask the World Trade Organization a mandate to negotiate binding rules on e-commerce, days after India turned down negotiations. ](/news/2017/12/7/fifteen-countries-ask-the-world-trade-organization-a-mandate-to-negotiate-binding-rules-on-e-commerce-days-after-india-turned-down-negotiat.md) _Context: India_

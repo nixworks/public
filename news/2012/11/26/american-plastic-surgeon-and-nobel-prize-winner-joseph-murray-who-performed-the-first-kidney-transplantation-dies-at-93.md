@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/11/26/american-plastic-surgeon-and-nobel-prize-winner-joseph-murray-who-performed-the-first-kidney-transplantation-dies-at-93.html)  [JSON](/news/2012/11/26/american-plastic-surgeon-and-nobel-prize-winner-joseph-murray-who-performed-the-first-kidney-transplantation-dies-at-93.json)  [XML](/news/2012/11/26/american-plastic-surgeon-and-nobel-prize-winner-joseph-murray-who-performed-the-first-kidney-transplantation-dies-at-93.xml)  
+
 ### [2012-11-26](/news/2012/11/26/index.md)
 
+##### American
 # American plastic surgeon and Nobel Prize winner Joseph Murray, who performed the first kidney transplantation, dies at 93. 
 
 Dr. Murray died in the hospital where he performed the first successful human organ transplant in 1954, when he gave a 23-year-old’s kidney to his identical twin.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2012/11/28/health/dr-joseph-e-murray-transplant-doctor-and-nobel-winner-dies-at-93.html)
+1. [The New York Times](https://www.nytimes.com/2012/11/28/health/dr-joseph-e-murray-transplant-doctor-and-nobel-winner-dies-at-93.html)
 1. [Cover Image](https://static01.nyt.com/images/2012/11/28/health/murray-obit2/murray-obit2-superJumbo.jpg)
 
 ### Related:

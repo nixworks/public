@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/2/the-military-government-of-fiji-announces-that-it-is-to-lift-martial-law-and-other-emergency-regulations.html)  [JSON](/news/2012/01/2/the-military-government-of-fiji-announces-that-it-is-to-lift-martial-law-and-other-emergency-regulations.json)  [XML](/news/2012/01/2/the-military-government-of-fiji-announces-that-it-is-to-lift-martial-law-and-other-emergency-regulations.xml)  
+
 ### [2012-01-2](/news/2012/01/2/index.md)
 
+##### military government
 # The military government of Fiji announces that it is to lift martial law and other emergency regulations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5i6KLakVE8EURLhwHHiBdYD7Ts-bA?docId=CNG.dd7871b47f818f3295303a270e3b7dc4.11)
 2. [Fiji Times](http://www.fijitimes.com/story.aspx?id=189805)

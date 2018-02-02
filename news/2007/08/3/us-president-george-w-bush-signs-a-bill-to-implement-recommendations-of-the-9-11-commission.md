@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/3/us-president-george-w-bush-signs-a-bill-to-implement-recommendations-of-the-9-11-commission.html)  [JSON](/news/2007/08/3/us-president-george-w-bush-signs-a-bill-to-implement-recommendations-of-the-9-11-commission.json)  [XML](/news/2007/08/3/us-president-george-w-bush-signs-a-bill-to-implement-recommendations-of-the-9-11-commission.xml)  
+
 ### [2007-08-3](/news/2007/08/3/index.md)
 
+##### U.S. President
 #  US President George W. Bush signs a bill to implement recommendations of the 9-11 Commission. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via San Diego Union Tribune](http://www.signonsandiego.com/news/nation/20070803-0930-bush.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/2/president-of-ecuador-rafael-correa-declares-a-great-victory-for-the-government-after-defeating-the-2010-ecuador-crisis-in-a-nationally-bro.html)  [JSON](/news/2010/10/2/president-of-ecuador-rafael-correa-declares-a-great-victory-for-the-government-after-defeating-the-2010-ecuador-crisis-in-a-nationally-bro.json)  [XML](/news/2010/10/2/president-of-ecuador-rafael-correa-declares-a-great-victory-for-the-government-after-defeating-the-2010-ecuador-crisis-in-a-nationally-bro.xml)  
+
 ### [2010-10-2](/news/2010/10/2/index.md)
 
+##### President of Ecuador
 # President of Ecuador Rafael Correa declares "a great victory for the government" after defeating the 2010 Ecuador crisis in a nationally broadcast address from the presidential palace. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/10/2010102203819497299.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/2/201010223516698734_20.jpg)

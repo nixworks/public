@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/13/comcast-is-set-to-acquire-time-warner-cable-in-a-us-44-billion-buyout.html)  [JSON](/news/2014/02/13/comcast-is-set-to-acquire-time-warner-cable-in-a-us-44-billion-buyout.json)  [XML](/news/2014/02/13/comcast-is-set-to-acquire-time-warner-cable-in-a-us-44-billion-buyout.xml)  
+
 ### [2014-02-13](/news/2014/02/13/index.md)
 
+##### Comcast
 # Comcast is set to acquire Time Warner Cable in a US$44 billion buyout. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The New York Times](http://dealbook.nytimes.com/2014/02/12/comcast-set-to-acquire-time-warner-cable/)
 

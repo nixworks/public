@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/13/leaders-from-china-japan-and-south-korea-meet-on-the-island-of-kya-sha-to-discuss-a-response-to-the-financial-crisis.html)  [JSON](/news/2008/12/13/leaders-from-china-japan-and-south-korea-meet-on-the-island-of-kya-sha-to-discuss-a-response-to-the-financial-crisis.json)  [XML](/news/2008/12/13/leaders-from-china-japan-and-south-korea-meet-on-the-island-of-kya-sha-to-discuss-a-response-to-the-financial-crisis.xml)  
+
 ### [2008-12-13](/news/2008/12/13/index.md)
 
+##### China
 #  Leaders from China, Japan, and South Korea meet on the island of Kyushu to discuss a response to the financial crisis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7781027.stm)
 

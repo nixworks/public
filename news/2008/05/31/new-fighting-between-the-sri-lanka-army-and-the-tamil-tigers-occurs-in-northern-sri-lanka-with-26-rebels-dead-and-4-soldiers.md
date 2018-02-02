@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/05/31/new-fighting-between-the-sri-lanka-army-and-the-tamil-tigers-occurs-in-northern-sri-lanka-with-26-rebels-dead-and-4-soldiers.html)  [JSON](/news/2008/05/31/new-fighting-between-the-sri-lanka-army-and-the-tamil-tigers-occurs-in-northern-sri-lanka-with-26-rebels-dead-and-4-soldiers.json)  [XML](/news/2008/05/31/new-fighting-between-the-sri-lanka-army-and-the-tamil-tigers-occurs-in-northern-sri-lanka-with-26-rebels-dead-and-4-soldiers.xml)  
+
 ### [2008-05-31](/news/2008/05/31/index.md)
 
+##### Army
 #  New fighting between the Sri Lanka Army and the Tamil Tigers occurs in northern Sri Lanka with 26 rebels dead and 4 soldiers. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Forbes](http://www.forbes.com/feeds/ap/2008/05/31/ap5066390.html)
+1. [AP via Forbes](https://www.forbes.com/feeds/ap/2008/05/31/ap5066390.html)
 
 ### Related:
 

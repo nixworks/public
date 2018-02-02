@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/23/first-recorded-snowfall-in-ka-3-sae-n-district-western-ngha-an-vietnam.html)  [JSON](/news/2014/01/23/first-recorded-snowfall-in-ka-3-sae-n-district-western-ngha-an-vietnam.json)  [XML](/news/2014/01/23/first-recorded-snowfall-in-ka-3-sae-n-district-western-ngha-an-vietnam.xml)  
+
 ### [2014-01-23](/news/2014/01/23/index.md)
 
+##### Nghe An Province
 # First recorded snowfall in Ky Son district, western Nghe An, Vietnam. 
 
 (Dân trí) - Đợt rét những ngày cuối năm làm băng tuyết bỗng xuất hiện ở miền núi cao biên giới xứ Nghệ - mảnh đất cằn sỏi đá nhiều năm chưa từng ghi nhận hiện tượng thời tiết này.
 
 
-### Source:
+### Sources:
 
 1. [Dan Tri](http://dantri.com.vn/xa-hoi/bang-tuyet-bat-ngo-xuat-hien-o-nghe-an-831136.htm)
 1. [Cover Image](https://dantricdn.com/thumb_w/600/7dBrKnsutwiOg2hPbvFQ/Image/2014/01/TUAN-4/1-5050b.JPG)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/4/malaysia-expels-kang-chol-north-korea-s-ambassad
 
 ### [2017-03-4](/news/2017/03/4/index.md)
 
+##### Malaysia-North Korea relations
 # Malaysia expels Kang Chol, North Korea's ambassador, after he criticised the former's investigation into the death of Kim Jong-nam. 
 
 

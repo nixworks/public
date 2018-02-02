@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/10/the-farc-organisation-releases-the-first-of-five-hostages-promised-this-week-as-a-gesture-of-peace-to-the-government-in-colombia.html)  [JSON](/news/2011/02/10/the-farc-organisation-releases-the-first-of-five-hostages-promised-this-week-as-a-gesture-of-peace-to-the-government-in-colombia.json)  [XML](/news/2011/02/10/the-farc-organisation-releases-the-first-of-five-hostages-promised-this-week-as-a-gesture-of-peace-to-the-government-in-colombia.xml)  
+
 ### [2011-02-10](/news/2011/02/10/index.md)
 
+##### Revolutionary Armed Forces of Colombia
 # The FARC organisation releases the first of five hostages promised this week as a gesture of peace to the government in Colombia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12411841)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

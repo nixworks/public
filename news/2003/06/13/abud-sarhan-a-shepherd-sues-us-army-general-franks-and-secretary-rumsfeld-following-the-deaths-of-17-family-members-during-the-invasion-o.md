@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/13/abud-sarhan-a-shepherd-sues-us-army-general-franks-and-secretary-rumsfeld-following-the-deaths-of-17-family-members-during-the-invasion-o.html)  [JSON](/news/2003/06/13/abud-sarhan-a-shepherd-sues-us-army-general-franks-and-secretary-rumsfeld-following-the-deaths-of-17-family-members-during-the-invasion-o.json)  [XML](/news/2003/06/13/abud-sarhan-a-shepherd-sues-us-army-general-franks-and-secretary-rumsfeld-following-the-deaths-of-17-family-members-during-the-invasion-o.xml)  
+
 ### [2003-06-13](/news/2003/06/13/index.md)
 
+##### Abud Sarhan
 #  Abud Sarhan, a shepherd, sues US Army General Franks and Secretary Rumsfeld following the deaths of 17 family members during the invasion of Iraq
 
 

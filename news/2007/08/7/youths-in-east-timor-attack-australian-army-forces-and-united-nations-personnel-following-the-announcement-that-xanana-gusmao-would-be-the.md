@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/7/youths-in-east-timor-attack-australian-army-forces-and-united-nations-personnel-following-the-announcement-that-xanana-gusmao-would-be-the.html)  [JSON](/news/2007/08/7/youths-in-east-timor-attack-australian-army-forces-and-united-nations-personnel-following-the-announcement-that-xanana-gusmao-would-be-the.json)  [XML](/news/2007/08/7/youths-in-east-timor-attack-australian-army-forces-and-united-nations-personnel-following-the-announcement-that-xanana-gusmao-would-be-the.xml)  
+
 ### [2007-08-7](/news/2007/08/7/index.md)
 
+##### East Timor
 #  Youths in East Timor attack Australian Army forces and United Nations personnel following the announcement that Xanana Gusmo would be the next Prime Minister. 
 
 Breaking News from Perth and Western Australia | Perth Now
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/perthnow/story/0,21598,22204594-948,00.html)
 1. [Cover Image](https://secure.gravatar.com/blavatar/6a8faa896a24e4f53fb01e7b423971c2?s=200&amp;ts=1490886728)

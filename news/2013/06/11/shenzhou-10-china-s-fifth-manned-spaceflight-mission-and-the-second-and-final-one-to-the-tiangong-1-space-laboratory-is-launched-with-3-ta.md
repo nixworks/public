@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/11/shenzhou-10-china-s-fifth-manned-spaceflight-mission-and-the-second-and-final-one-to-the-tiangong-1-space-laboratory-is-launched-with-3-ta.html)  [JSON](/news/2013/06/11/shenzhou-10-china-s-fifth-manned-spaceflight-mission-and-the-second-and-final-one-to-the-tiangong-1-space-laboratory-is-launched-with-3-ta.json)  [XML](/news/2013/06/11/shenzhou-10-china-s-fifth-manned-spaceflight-mission-and-the-second-and-final-one-to-the-tiangong-1-space-laboratory-is-launched-with-3-ta.xml)  
+
 ### [2013-06-11](/news/2013/06/11/index.md)
 
+##### Shenzhou 10
 # Shenzhou 10, China's fifth manned spaceflight mission and the second and final one to the Tiangong-1 space laboratory, is launched with 3 taikonauts on a 15 day mission. 
 
 Three Chinese astronauts launch on their Long March rocket for a 15-day mission that will take them to the Tiangong orbiting laboratory.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-22843318)
 2. [CNN](http://edition.cnn.com/2013/06/11/world/asia/china-space-mission/index.html)

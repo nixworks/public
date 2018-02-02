@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/5/businessman-kazutsugi-nami-is-arrested-by-japanese-police-over-a-us-1-4-billion-investment-scam.html)  [JSON](/news/2009/02/5/businessman-kazutsugi-nami-is-arrested-by-japanese-police-over-a-us-1-4-billion-investment-scam.json)  [XML](/news/2009/02/5/businessman-kazutsugi-nami-is-arrested-by-japanese-police-over-a-us-1-4-billion-investment-scam.xml)  
+
 ### [2009-02-5](/news/2009/02/5/index.md)
 
+##### Kazutsugi Nami
 #  Businessman Kazutsugi Nami is arrested by Japanese police over a US$1.4-billion investment scam. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7871237.stm)
 

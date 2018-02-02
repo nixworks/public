@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/29/muhammadu-buhari-is-sworn-in-as-the-president-of-nigeria-following-a-recent-election.html)  [JSON](/news/2015/05/29/muhammadu-buhari-is-sworn-in-as-the-president-of-nigeria-following-a-recent-election.json)  [XML](/news/2015/05/29/muhammadu-buhari-is-sworn-in-as-the-president-of-nigeria-following-a-recent-election.xml)  
+
 ### [2015-05-29](/news/2015/05/29/index.md)
 
+##### Muhammadu Buhari
 # Muhammadu Buhari is sworn in as the President of Nigeria following a recent election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AF_NIGERIA_NEW_PRESIDENT?SITE=AP)
 

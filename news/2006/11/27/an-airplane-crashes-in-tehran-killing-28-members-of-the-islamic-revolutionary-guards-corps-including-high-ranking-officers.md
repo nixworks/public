@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/27/an-airplane-crashes-in-tehran-killing-28-members-of-the-islamic-revolutionary-guards-corps-including-high-ranking-officers.html)  [JSON](/news/2006/11/27/an-airplane-crashes-in-tehran-killing-28-members-of-the-islamic-revolutionary-guards-corps-including-high-ranking-officers.json)  [XML](/news/2006/11/27/an-airplane-crashes-in-tehran-killing-28-members-of-the-islamic-revolutionary-guards-corps-including-high-ranking-officers.xml)  
+
 ### [2006-11-27](/news/2006/11/27/index.md)
 
+##### Tehran
 #  An airplane crashes in Tehran killing 28 members of the Islamic Revolutionary Guards Corps including high-ranking officers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via International Herald Tribune](http://www.iht.com/articles/ap/2006/11/27/africa/ME_GEN_Iran_Plane_Crash.php)
 

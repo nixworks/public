@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/14/the-tokyo-stock-exchange-falls-more-than-five-per-cent-in-opening-trade-in-the-first-day-of-trading-since-the-2011-sendai-earthquake.html)  [JSON](/news/2011/03/14/the-tokyo-stock-exchange-falls-more-than-five-per-cent-in-opening-trade-in-the-first-day-of-trading-since-the-2011-sendai-earthquake.json)  [XML](/news/2011/03/14/the-tokyo-stock-exchange-falls-more-than-five-per-cent-in-opening-trade-in-the-first-day-of-trading-since-the-2011-sendai-earthquake.xml)  
+
 ### [2011-03-14](/news/2011/03/14/index.md)
 
+##### Tokyo Stock Exchange
 # The Tokyo Stock Exchange falls more than five per cent in opening trade in the first day of trading since the 2011 Sendai earthquake. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/business/markets/australian-sharemarket-opens-1pc-lower-after-japans-natural-disaster/story-e6frg916-1226021085568?referrer=email&source=AusBus_Lunch_email_nl&emcmp=AusBusLunch&emchn=Newsletter&emlist=Member)
 

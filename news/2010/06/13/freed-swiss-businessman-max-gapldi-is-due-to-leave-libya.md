@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/13/freed-swiss-businessman-max-gapldi-is-due-to-leave-libya.html)  [JSON](/news/2010/06/13/freed-swiss-businessman-max-gapldi-is-due-to-leave-libya.json)  [XML](/news/2010/06/13/freed-swiss-businessman-max-gapldi-is-due-to-leave-libya.xml)  
+
 ### [2010-06-13](/news/2010/06/13/index.md)
 
+##### Switzerland
 # Freed Swiss businessman Max Goldi is due to leave Libya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/13/c_13349066.htm)
 

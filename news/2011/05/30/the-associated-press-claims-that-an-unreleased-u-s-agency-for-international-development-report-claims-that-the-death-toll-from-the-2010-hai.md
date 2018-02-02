@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/05/30/the-associated-press-claims-that-an-unreleased-u-s-agency-for-international-development-report-claims-that-the-death-toll-from-the-2010-hai.html)  [JSON](/news/2011/05/30/the-associated-press-claims-that-an-unreleased-u-s-agency-for-international-development-report-claims-that-the-death-toll-from-the-2010-hai.json)  [XML](/news/2011/05/30/the-associated-press-claims-that-an-unreleased-u-s-agency-for-international-development-report-claims-that-the-death-toll-from-the-2010-hai.xml)  
+
 ### [2011-05-30](/news/2011/05/30/index.md)
 
+##### Associated Press
 # The Associated Press claims that an unreleased U.S. Agency for International Development report claims that the death toll from the 2010 Haiti earthquake was much less than claimed by the Government of Haiti. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/us-govt-report-says-far-fewer-people-died-in-haiti-quake-than-originally-estimated/2011/05/30/AG3JprEH_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/us-govt-report-says-far-fewer-people-died-in-haiti-quake-than-originally-estimated/2011/05/30/AG3JprEH_story.html)
 
 ### Related:
 

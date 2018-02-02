@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/17/russian-security-officer-vasily-khitryuk-is-convicted-of-spying-for-lithuania.html)  [JSON](/news/2008/01/17/russian-security-officer-vasily-khitryuk-is-convicted-of-spying-for-lithuania.json)  [XML](/news/2008/01/17/russian-security-officer-vasily-khitryuk-is-convicted-of-spying-for-lithuania.xml)  
+
 ### [2008-01-17](/news/2008/01/17/index.md)
 
+##### Russia
 #  Russian security officer Vasily Khitryuk is convicted of spying for Lithuania. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [PR-inside](http://www.pr-inside.com/russian-security-officer-convicted-of-r391926.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/20/people-are-hospitalised-after-sectarian-clashes-in-east-belfast-in-northern-ireland.html)  [JSON](/news/2011/06/20/people-are-hospitalised-after-sectarian-clashes-in-east-belfast-in-northern-ireland.json)  [XML](/news/2011/06/20/people-are-hospitalised-after-sectarian-clashes-in-east-belfast-in-northern-ireland.xml)  
+
 ### [2011-06-20](/news/2011/06/20/index.md)
 
+##### Belfast
 # People are hospitalised after sectarian clashes in East Belfast in Northern Ireland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [UTV](http://www.u.tv/News/Sectarian-gangs-riot-in-east-Belfast/93477fab-1c46-4f3b-81b8-085d7180ca28)
 1. [Cover Image](http://www.itv.com/entity/32aa2a6e-046e-4ccd-bb89-9147c581dc43/image.jpg.ashx?q=80&amp;format=jpg&amp;w=1366&amp;h=769)

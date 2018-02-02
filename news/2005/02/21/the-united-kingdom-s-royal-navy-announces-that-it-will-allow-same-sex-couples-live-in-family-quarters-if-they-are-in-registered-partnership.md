@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/21/the-united-kingdom-s-royal-navy-announces-that-it-will-allow-same-sex-couples-live-in-family-quarters-if-they-are-in-registered-partnership.html)  [JSON](/news/2005/02/21/the-united-kingdom-s-royal-navy-announces-that-it-will-allow-same-sex-couples-live-in-family-quarters-if-they-are-in-registered-partnership.json)  [XML](/news/2005/02/21/the-united-kingdom-s-royal-navy-announces-that-it-will-allow-same-sex-couples-live-in-family-quarters-if-they-are-in-registered-partnership.xml)  
+
 ### [2005-02-21](/news/2005/02/21/index.md)
 
+##### Royal Navy
 #  The United Kingdom's Royal Navy announces that it will allow same-sex couples live in family quarters if they are in registered partnership 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4282175.stm)
 2. [Scotsman](http://news.scotsman.com/uk.cfm?id=194672005)

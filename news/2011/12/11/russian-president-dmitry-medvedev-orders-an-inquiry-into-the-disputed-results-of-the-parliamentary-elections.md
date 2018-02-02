@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/12/11/russian-president-dmitry-medvedev-orders-an-inquiry-into-the-disputed-results-of-the-parliamentary-elections.html)  [JSON](/news/2011/12/11/russian-president-dmitry-medvedev-orders-an-inquiry-into-the-disputed-results-of-the-parliamentary-elections.json)  [XML](/news/2011/12/11/russian-president-dmitry-medvedev-orders-an-inquiry-into-the-disputed-results-of-the-parliamentary-elections.xml)  
+
 ### [2011-12-11](/news/2011/12/11/index.md)
 
+##### Russia
 # Russian President Dmitry Medvedev orders an inquiry into the disputed results of the parliamentary elections. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/12/11/us-russia-idUSTRE7BA0G120111211)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111211&t=2&i=545573395&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BA1TTQ00)
+1. [Reuters](https://www.reuters.com/article/2011/12/11/us-russia-idUSTRE7BA0G120111211)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111211&t=2&i=545573395&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BA1TTQ00)
 
 ### Related:
 

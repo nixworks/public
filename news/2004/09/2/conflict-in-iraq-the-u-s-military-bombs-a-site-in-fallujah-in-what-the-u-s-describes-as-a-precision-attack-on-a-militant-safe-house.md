@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/2/conflict-in-iraq-the-u-s-military-bombs-a-site-in-fallujah-in-what-the-u-s-describes-as-a-precision-attack-on-a-militant-safe-house.html)  [JSON](/news/2004/09/2/conflict-in-iraq-the-u-s-military-bombs-a-site-in-fallujah-in-what-the-u-s-describes-as-a-precision-attack-on-a-militant-safe-house.json)  [XML](/news/2004/09/2/conflict-in-iraq-the-u-s-military-bombs-a-site-in-fallujah-in-what-the-u-s-describes-as-a-precision-attack-on-a-militant-safe-house.xml)  
+
 ### [2004-09-2](/news/2004/09/2/index.md)
 
+##### rebel-held
 #  Conflict in Iraq: The U.S. military bombs a site in Fallujah, in what the U.S. describes as a "precision" attack on a militant safe house. Hospital officials say that at least seventeen civilians, including up to three children, were killed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3619858.stm)
 

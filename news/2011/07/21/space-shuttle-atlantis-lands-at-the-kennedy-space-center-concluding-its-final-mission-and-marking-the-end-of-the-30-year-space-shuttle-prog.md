@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/07/21/space-shuttle-atlantis-lands-at-the-kennedy-space-center-concluding-its-final-mission-and-marking-the-end-of-the-30-year-space-shuttle-prog.html)  [JSON](/news/2011/07/21/space-shuttle-atlantis-lands-at-the-kennedy-space-center-concluding-its-final-mission-and-marking-the-end-of-the-30-year-space-shuttle-prog.json)  [XML](/news/2011/07/21/space-shuttle-atlantis-lands-at-the-kennedy-space-center-concluding-its-final-mission-and-marking-the-end-of-the-30-year-space-shuttle-prog.xml)  
+
 ### [2011-07-21](/news/2011/07/21/index.md)
 
+##### Space Shuttle Atlantis
 # Space Shuttle Atlantis lands at the Kennedy Space Center, concluding its final mission and marking the end of the 30-year Space Shuttle program. 
 
 Soaring across the predawn haze, the space shuttle Atlantis glided back to Earth early Thursday -- capping a 30-year program that saw hundreds of astronauts go into space.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/US/07/21/shuttle.landing/)
-2. [USA TODAY](http://www.usatoday.com/tech/science/space/2011-07-21-shuttle-atlantis-landing_n.htm)
+2. [USA TODAY](https://www.usatoday.com/tech/science/space/2011-07-21-shuttle-atlantis-landing_n.htm)
 2. [Cover Image](http://i.cdn.turner.com/cnn/2011/US/07/21/shuttle.landing/tzvids.atlantis.landing.nasa.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/23/china-announces-that-tests-of-a-sars-vaccine-have-started-on-humans.html)  [JSON](/news/2004/05/23/china-announces-that-tests-of-a-sars-vaccine-have-started-on-humans.json)  [XML](/news/2004/05/23/china-announces-that-tests-of-a-sars-vaccine-have-started-on-humans.xml)  
+
 ### [2004-05-23](/news/2004/05/23/index.md)
 
+##### SARS
 #  China announces that tests of a SARS vaccine have started on humans. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC AU](http://www.abc.net.au/news/newsitems/s1114114.htm)
 

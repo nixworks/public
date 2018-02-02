@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/05/31/in-the-international-atomic-energy-agency-s-report-before-the-united-nations-security-council-votes-on-sanctions-against-iran-international.html)  [JSON](/news/2010/05/31/in-the-international-atomic-energy-agency-s-report-before-the-united-nations-security-council-votes-on-sanctions-against-iran-international.json)  [XML](/news/2010/05/31/in-the-international-atomic-energy-agency-s-report-before-the-united-nations-security-council-votes-on-sanctions-against-iran-international.xml)  
+
 ### [2010-05-31](/news/2010/05/31/index.md)
 
+##### IAEA
 # In the International Atomic Energy Agency's report before the United Nations Security Council votes on sanctions against Iran, international nuclear inspectors state that Iran has now produced a stockpile of nuclear fuel that would be enough, with further enrichment, to make two nuclear weapons, and it appears to bolster the Obama administration's case for a fourth round of economic sanctions against Iran. 
 
 The report appears likely to bolster the Obama administration’s case for a fourth round of economic sanctions against Iran. 
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2010/06/01/world/middleeast/01nuke.html)
+1. [The New York Times](https://www.nytimes.com/2010/06/01/world/middleeast/01nuke.html)
 2. [Washington Times](http://www.washingtontimes.com/news/2010/may/31/report-iran-mum-but-making-nuke-material/)
 2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/26/british-home-secretary-theresa-may-announces-new-measures-to-replace-controversial-control-orders-for-terror-suspects.html)  [JSON](/news/2011/01/26/british-home-secretary-theresa-may-announces-new-measures-to-replace-controversial-control-orders-for-terror-suspects.json)  [XML](/news/2011/01/26/british-home-secretary-theresa-may-announces-new-measures-to-replace-controversial-control-orders-for-terror-suspects.xml)  
+
 ### [2011-01-26](/news/2011/01/26/index.md)
 
+##### Home Secretary
 # British Home Secretary Theresa May announces new measures to replace controversial control orders for terror suspects. 
 
 New measures to replace controversial control orders are unveiled by Home Secretary Theresa May, after a review of counter-terrorism powers.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-12287074)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

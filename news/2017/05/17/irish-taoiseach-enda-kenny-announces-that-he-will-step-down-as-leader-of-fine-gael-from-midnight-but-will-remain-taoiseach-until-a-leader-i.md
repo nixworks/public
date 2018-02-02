@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/17/irish-taoiseach-enda-kenny-announces-that-he-wi
 
 ### [2017-05-17](/news/2017/05/17/index.md)
 
+##### Taoiseach
 # Irish Taoiseach Enda Kenny announces that he will step down as leader of Fine Gael from midnight, but will remain Taoiseach until a leader is elected. 
 
 

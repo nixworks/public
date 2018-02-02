@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2015/10/12/angus-deaton-wins-the-nobel-memorial-prize-in-economic-sciences-for-his-analysis-of-consumption-poverty-and-welfare-helping-redefine-the.html)  [JSON](/news/2015/10/12/angus-deaton-wins-the-nobel-memorial-prize-in-economic-sciences-for-his-analysis-of-consumption-poverty-and-welfare-helping-redefine-the.json)  [XML](/news/2015/10/12/angus-deaton-wins-the-nobel-memorial-prize-in-economic-sciences-for-his-analysis-of-consumption-poverty-and-welfare-helping-redefine-the.xml)  
+
 ### [2015-10-12](/news/2015/10/12/index.md)
 
+##### Angus Deaton
 # Angus Deaton wins the Nobel Memorial Prize in Economic Sciences for his analysis of consumption, poverty, and welfare, helping redefine the way poverty is measured around the world, notably in India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Huffington Post](http://www.huffingtonpost.com/entry/2015-nobel-prize-economics_561b6395e4b0e66ad4c8660e)
-2. [Washington Post](http://www.washingtonpost.com/business/scottish-economist-angus-deaton-wins-nobel-economics-prize/2015/10/12/9dad5124-70d3-11e5-ba14-318f8e87a2fc_story.html)
+2. [Washington Post](https://www.washingtonpost.com/business/scottish-economist-angus-deaton-wins-nobel-economics-prize/2015/10/12/9dad5124-70d3-11e5-ba14-318f8e87a2fc_story.html)
 
 ### Related:
 
-1. [The Nobel Prize committee awards American Richard Thaler the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-his.md) _Context: Nobel Memorial Prize in Economic Sciences_
-2. [Prominent Indian journalist and "Lankesh Patrike" editor Gauri Lankesh is shot dead by unidentified men outside her house in the city of Bengaluru. ](/news/2017/09/5/prominent-indian-journalist-and-lankesh-patrike-editor-gauri-lankesh-is-shot-dead-by-unidentified-men-outside-her-house-in-the-city-of-ben.md) _Context: India_
-3. [Indian Prime Minister Narendra Modi heads to Myanmar for a state visit. ](/news/2017/09/5/indian-prime-minister-narendra-modi-heads-to-myanmar-for-a-state-visit.md) _Context: India_
-4. [At least 22 people are killed and over 30 are seriously injured in a rush hour stampede on a footbridge between the Parel and Elphinstone Road railway stations in the Indian city of Mumbai. ](/news/2017/09/29/at-least-22-people-are-killed-and-over-30-are-seriously-injured-in-a-rush-hour-stampede-on-a-footbridge-between-the-parel-and-elphinstone-ro.md) _Context: India_
-5. [Japan agrees to help with the construction of an Indian bullet train. ](/news/2017/09/14/japan-agrees-to-help-with-the-construction-of-an-indian-bullet-train.md) _Context: India_
+1. [A bus plunges into the Bhairab River after falling off a bridge in Murshidabad district, West Bengal, India, killing at least 36 people. The late response by rescuers to save passengers leads to violence between local residents and police. ](/news/2018/01/29/a-bus-plunges-into-the-bhairab-river-after-falling-off-a-bridge-in-murshidabad-district-west-bengal-india-killing-at-least-36-people-the.md) _Context: India_
+2. [The Indian Space Research Organisation successfully launches India's 100th satellite and 30 other satellites from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh. [http:--www.thehindubusinessline.com-news-science-isro-launches-its-100th-satellite-into-space-article10027585.ece "(The Hindu)"]A Delta IV launches NROL-47, a classified U.S. military payload, from Vandenberg Air Force Base, California. It is the last single-core Delta IV to launch from Vandenberg. [https:--spaceflightnow.com-2018-01-13-delta-4-rocket-successfully-lofts-clandestine-nro-satellite-into-orbit-"(Spaceflight Now)"]](/news/2018/01/12/the-indian-space-research-organisation-successfully-launches-indiaas-100th-satellite-and-30-other-satellites-from-the-satish-dhawan-space.md) _Context: India_
+3. [Fifteen countries ask the World Trade Organization a mandate to negotiate binding rules on e-commerce, days after India turned down negotiations. ](/news/2017/12/7/fifteen-countries-ask-the-world-trade-organization-a-mandate-to-negotiate-binding-rules-on-e-commerce-days-after-india-turned-down-negotiat.md) _Context: India_
+4. [At least 15 people are killed in a rooftop restaurant fire in Mumbai, India. ](/news/2017/12/29/at-least-15-people-are-killed-in-a-rooftop-restaurant-fire-in-mumbai-india.md) _Context: India_
+5. [Cyclone Ockhi hits southern India causing 13 deaths in Tamil Nadu and Kerala. The cyclone kills 15 people and displaces another 200,000 persons in Sri Lanka. ](/news/2017/12/2/cyclone-ockhi-hits-southern-india-causing-13-deaths-in-tamil-nadu-and-kerala-the-cyclone-kills-15-people-and-displaces-another-200-000-pers.md) _Context: India_

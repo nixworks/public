@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/29/a-london-newspaper-reports-that-merrill-lynch-new-york-is-trying-to-persuade-at-least-seventeen-members-of-the-corporate-derivatives-team.html)  [JSON](/news/2005/05/29/a-london-newspaper-reports-that-merrill-lynch-new-york-is-trying-to-persuade-at-least-seventeen-members-of-the-corporate-derivatives-team.json)  [XML](/news/2005/05/29/a-london-newspaper-reports-that-merrill-lynch-new-york-is-trying-to-persuade-at-least-seventeen-members-of-the-corporate-derivatives-team.xml)  
+
 ### [2005-05-29](/news/2005/05/29/index.md)
 
+##### London
 #  A London newspaper reports that Merrill Lynch, New York, is trying to persuade at least seventeen members of the corporate derivatives team of rival investment bank JP Morgan to defect. An anonymous source-headhunter quoted in the newspaper predicted that the seventeen will be working at Merrill Lynch by the end of the summer. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=businessNews&storyID=2005-05-29T115300Z_01_L29339612_RTRIDST_0_BUSINESS-FINANCIAL-MERRILL-JPMORGAN-DC.XML)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

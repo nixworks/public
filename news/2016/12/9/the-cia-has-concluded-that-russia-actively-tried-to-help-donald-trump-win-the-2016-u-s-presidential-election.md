@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/9/the-cia-has-concluded-that-russia-actively-tried
 
 ### [2016-12-9](/news/2016/12/9/index.md)
 
+##### 2016 U.S. presidential election
 # The CIA has concluded that Russia actively tried to help Donald Trump win the 2016 U.S. presidential election. 
 
 The U.S. has identified individuals and groups who passed Democratic Party material to WikiLeaks.

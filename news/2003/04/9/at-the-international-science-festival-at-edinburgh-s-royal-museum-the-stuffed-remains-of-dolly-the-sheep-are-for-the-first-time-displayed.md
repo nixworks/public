@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/9/at-the-international-science-festival-at-edinburgh-s-royal-museum-the-stuffed-remains-of-dolly-the-sheep-are-for-the-first-time-displayed.html)  [JSON](/news/2003/04/9/at-the-international-science-festival-at-edinburgh-s-royal-museum-the-stuffed-remains-of-dolly-the-sheep-are-for-the-first-time-displayed.json)  [XML](/news/2003/04/9/at-the-international-science-festival-at-edinburgh-s-royal-museum-the-stuffed-remains-of-dolly-the-sheep-are-for-the-first-time-displayed.xml)  
+
 ### [2003-04-9](/news/2003/04/9/index.md)
 
+##### Edinburgh
 #  At the International Science Festival at Edinburgh's Royal Museum, the stuffed remains of Dolly the sheep are for the first time displayed.
 
 

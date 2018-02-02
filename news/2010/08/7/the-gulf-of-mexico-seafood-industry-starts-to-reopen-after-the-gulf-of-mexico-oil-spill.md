@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/7/the-gulf-of-mexico-seafood-industry-starts-to-reopen-after-the-gulf-of-mexico-oil-spill.html)  [JSON](/news/2010/08/7/the-gulf-of-mexico-seafood-industry-starts-to-reopen-after-the-gulf-of-mexico-oil-spill.json)  [XML](/news/2010/08/7/the-gulf-of-mexico-seafood-industry-starts-to-reopen-after-the-gulf-of-mexico-oil-spill.xml)  
+
 ### [2010-08-7](/news/2010/08/7/index.md)
 
+##### Gulf of Mexico
 # The Gulf of Mexico seafood industry starts to reopen after the Gulf of Mexico oil spill. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''News Times](http://www.newstimes.com/news/article/Gulf-seafood-industry-tries-to-shake-an-oily-image-605408.php)
 

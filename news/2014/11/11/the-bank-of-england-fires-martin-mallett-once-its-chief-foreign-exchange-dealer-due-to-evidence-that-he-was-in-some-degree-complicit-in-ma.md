@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/11/the-bank-of-england-fires-martin-mallett-once-its-chief-foreign-exchange-dealer-due-to-evidence-that-he-was-in-some-degree-complicit-in-ma.html)  [JSON](/news/2014/11/11/the-bank-of-england-fires-martin-mallett-once-its-chief-foreign-exchange-dealer-due-to-evidence-that-he-was-in-some-degree-complicit-in-ma.json)  [XML](/news/2014/11/11/the-bank-of-england-fires-martin-mallett-once-its-chief-foreign-exchange-dealer-due-to-evidence-that-he-was-in-some-degree-complicit-in-ma.xml)  
+
 ### [2014-11-11](/news/2014/11/11/index.md)
 
+##### Bank of England
 # The Bank of England fires Martin Mallett, once its chief foreign exchange dealer, due to evidence that he was in some degree complicit in market manipulation. 
 
 Governor says dismissal of chief currency dealer Martin Mallett was unrelated to a Bank of England investigation into currency manipulation
 
 
-### Source:
+### Sources:
 
 1. [Telegraph](http://www.telegraph.co.uk/finance/mark-carney/11226491/Mark-Carney-distances-Bank-of-England-from-foreign-exchange-scandal.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02655/mark-carney_2655022a.jpg)

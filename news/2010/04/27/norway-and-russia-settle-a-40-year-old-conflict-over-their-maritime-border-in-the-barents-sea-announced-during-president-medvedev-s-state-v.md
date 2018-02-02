@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/04/27/norway-and-russia-settle-a-40-year-old-conflict-over-their-maritime-border-in-the-barents-sea-announced-during-president-medvedev-s-state-v.html)  [JSON](/news/2010/04/27/norway-and-russia-settle-a-40-year-old-conflict-over-their-maritime-border-in-the-barents-sea-announced-during-president-medvedev-s-state-v.json)  [XML](/news/2010/04/27/norway-and-russia-settle-a-40-year-old-conflict-over-their-maritime-border-in-the-barents-sea-announced-during-president-medvedev-s-state-v.xml)  
+
 ### [2010-04-27](/news/2010/04/27/index.md)
 
+##### Norway
 # Norway and Russia settle a 40-year-old conflict over their maritime border in the Barents Sea, announced during President Medvedev's state visit in Norway. 
 
 * Deal to divide Arctic region seen rich with oil and gas * Final deal due later in 2010, ending 4 decades of talks * Norway seeks to map
 
 
-### Source:
+### Sources:
 
 1. [Earthtimes](http://www.earthtimes.org/articles/show/320777,russia-and-norway-agree-on-new-border-in-arctic-seas.html)
-2. [Reuters](http://www.reuters.com/article/idUSLDE63Q14D20100427?type=marketsNews)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/idUSLDE63Q14D20100427?type=marketsNews)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

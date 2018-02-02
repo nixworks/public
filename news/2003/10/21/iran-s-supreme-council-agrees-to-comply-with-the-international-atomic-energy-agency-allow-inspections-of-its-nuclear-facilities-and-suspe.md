@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/21/iran-s-supreme-council-agrees-to-comply-with-the-international-atomic-energy-agency-allow-inspections-of-its-nuclear-facilities-and-suspe.html)  [JSON](/news/2003/10/21/iran-s-supreme-council-agrees-to-comply-with-the-international-atomic-energy-agency-allow-inspections-of-its-nuclear-facilities-and-suspe.json)  [XML](/news/2003/10/21/iran-s-supreme-council-agrees-to-comply-with-the-international-atomic-energy-agency-allow-inspections-of-its-nuclear-facilities-and-suspe.xml)  
+
 ### [2003-10-21](/news/2003/10/21/index.md)
 
+##### Iran
 #  Iran's Supreme Council agrees to comply with the International Atomic Energy Agency, allow inspections of its nuclear facilities, and suspend its uranium enrichment program.
 
 

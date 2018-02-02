@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/15/the-nevada-gaming-control-board-rules-that-daily-fantasy-sports-leagues-are-a-form-of-gambling-that-requires-a-license-to-operate-in-the-st.html)  [JSON](/news/2015/10/15/the-nevada-gaming-control-board-rules-that-daily-fantasy-sports-leagues-are-a-form-of-gambling-that-requires-a-license-to-operate-in-the-st.json)  [XML](/news/2015/10/15/the-nevada-gaming-control-board-rules-that-daily-fantasy-sports-leagues-are-a-form-of-gambling-that-requires-a-license-to-operate-in-the-st.xml)  
+
 ### [2015-10-15](/news/2015/10/15/index.md)
 
+##### Nevada
 #  The Nevada Gaming Control Board rules that daily fantasy sports leagues are a form of gambling that requires a license to operate in the state, including being offered to state residents. Due to Nevada's status as a major gambling center, the decision is seen as potentially influencing other U.S. states' stances on the leagues. 
 
 Decision comes amid growing concern among investigators and regulators about sports sites like DraftKings and FanDuel
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/news/daily-fantasy-sports-sites-ordered-to-shut-down-in-nevada/)
 2. [ESPN](http://espn.go.com/chalk/story/_/id/13897401/daily-fantasy-outlawed-nevada-gaming-control-board-being-unlicensed-gambling)

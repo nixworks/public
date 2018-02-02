@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/13/rescue-efforts-resume-in-nepal-after-yesterday-s-earthquake-which-killed-at-least-63-in-nepal-and-17-in-northern-india.html)  [JSON](/news/2015/05/13/rescue-efforts-resume-in-nepal-after-yesterday-s-earthquake-which-killed-at-least-63-in-nepal-and-17-in-northern-india.json)  [XML](/news/2015/05/13/rescue-efforts-resume-in-nepal-after-yesterday-s-earthquake-which-killed-at-least-63-in-nepal-and-17-in-northern-india.xml)  
+
 ### [2015-05-13](/news/2015/05/13/index.md)
 
+##### yesterday's earthquake
 # Rescue efforts resume in Nepal after yesterday's earthquake which killed at least 63 in Nepal and 17 in northern India. 
 
 Rescue work resumes after the latest deadly earthquake in Nepal, after thousands of scared residents spent the night in the open.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-32716211)
 2. [CNN](http://edition.cnn.com/2015/05/12/asia/nepal-earthquake/index.html)

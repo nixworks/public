@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/14/the-u-s-government-cuts-aid-to-some-somali-mili
 
 ### [2017-12-14](/news/2017/12/14/index.md)
 
+##### Somalia-United States relations
 # The U.S. government cuts aid to some Somali military units for allegedly misusing funds. 
 
 

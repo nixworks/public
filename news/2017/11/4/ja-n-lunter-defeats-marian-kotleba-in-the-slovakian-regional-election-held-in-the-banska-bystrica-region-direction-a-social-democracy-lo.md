@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/4/ja-n-lunter-defeats-marian-kotleba-in-the-slovak
 
 ### [2017-11-4](/news/2017/11/4/index.md)
 
+##### Slovak regional elections, 2017
 # Jan Lunter defeats Marian Kotleba in the Slovakian regional election held in the Banska Bystrica Region. Direction - Social Democracy loses four regions to center-right opposition candidates. 
 
 

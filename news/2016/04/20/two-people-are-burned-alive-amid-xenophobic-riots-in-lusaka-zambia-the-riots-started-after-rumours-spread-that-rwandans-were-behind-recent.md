@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/20/two-people-are-burned-alive-amid-xenophobic-rio
 
 ### [2016-04-20](/news/2016/04/20/index.md)
 
+##### xenophobic
 # Two people are burned alive amid xenophobic riots in Lusaka, Zambia. The riots started after rumours spread that Rwandans were behind recent ritual killings in the city. More than 250 people have been arrested after more than 60 Rwandan-owned shops were looted in two days of violence. 
 
 Two Zambians were burned to death on Monday during an outbreak of xenophobic violence in the capital, Lusaka, the authorities say.

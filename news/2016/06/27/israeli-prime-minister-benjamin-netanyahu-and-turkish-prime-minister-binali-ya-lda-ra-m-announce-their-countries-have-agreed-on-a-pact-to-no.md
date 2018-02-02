@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/27/israeli-prime-minister-benjamin-netanyahu-and-t
 
 ### [2016-06-27](/news/2016/06/27/index.md)
 
+##### Turkey and Israel
 # Israeli Prime Minister Benjamin Netanyahu and Turkish Prime Minister Binali Yildirim announce their countries have agreed on a pact to normalize diplomatic relations that have been strained for six years since the Gaza flotilla raid when nine Turkish activists were killed. 
 
 After six years of estrangement over a deadly clash in the waters outside of Gaza, Israel and Turkey announced a deal to normalize ties.

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/07/13/the-international-olympic-committee-session-in-moscow-russia-beijing-wins-the-bid-as-the-host-city-for-the-2008-summer-olympics.html)  [JSON](/news/2001/07/13/the-international-olympic-committee-session-in-moscow-russia-beijing-wins-the-bid-as-the-host-city-for-the-2008-summer-olympics.json)  [XML](/news/2001/07/13/the-international-olympic-committee-session-in-moscow-russia-beijing-wins-the-bid-as-the-host-city-for-the-2008-summer-olympics.xml)  
+
 ### [2001-07-13](/news/2001/07/13/index.md)
 
+##### International Olympic Committee
 #  The International Olympic Committee session in Moscow, Russia. Beijing wins the bid as the host city for the 2008 Summer Olympics.
 
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/08/6/former-bangladesh-prime-minister-sheikh-hasina-files-petitions-challenging-government-move-to-try-her-in-connection-with-an-extortion-case.html)  [JSON](/news/2007/08/6/former-bangladesh-prime-minister-sheikh-hasina-files-petitions-challenging-government-move-to-try-her-in-connection-with-an-extortion-case.json)  [XML](/news/2007/08/6/former-bangladesh-prime-minister-sheikh-hasina-files-petitions-challenging-government-move-to-try-her-in-connection-with-an-extortion-case.xml)  
+
 ### [2007-08-6](/news/2007/08/6/index.md)
 
+##### Bangladesh
 #  Former Bangladesh Prime Minister Sheikh Hasina files petitions challenging government move to try her in connection with an extortion case.
 
 

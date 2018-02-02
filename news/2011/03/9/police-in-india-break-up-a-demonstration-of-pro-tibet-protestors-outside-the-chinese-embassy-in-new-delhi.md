@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/9/police-in-india-break-up-a-demonstration-of-pro-tibet-protestors-outside-the-chinese-embassy-in-new-delhi.html)  [JSON](/news/2011/03/9/police-in-india-break-up-a-demonstration-of-pro-tibet-protestors-outside-the-chinese-embassy-in-new-delhi.json)  [XML](/news/2011/03/9/police-in-india-break-up-a-demonstration-of-pro-tibet-protestors-outside-the-chinese-embassy-in-new-delhi.xml)  
+
 ### [2011-03-9](/news/2011/03/9/index.md)
 
+##### India
 # Police in India break up a demonstration of pro-Tibet protestors outside the Chinese embassy in New Delhi. 
 
 New Delhi, March 9 (IANS) Several Tibetans were detailed Wednesday when they protested near the Chinese embassy here on the eve of the anniversary of the...
 
 
-### Source:
+### Sources:
 
 1. [MSN Philippines](http://news.ph.msn.com/regional/article.aspx?cp-documentid=4699285)
 2. [Sify India](http://www.sify.com/news/tibetans-protest-near-chinese-embassy-detained-news-national-ldjuacfjbie.html)

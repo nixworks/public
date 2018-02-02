@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/6/somalian-war-heavy-fighting-has-been-reported-between-forces-of-union-of-islamic-courts-and-puntland-the-semi-autonomous-region-of-somali.html)  [JSON](/news/2006/11/6/somalian-war-heavy-fighting-has-been-reported-between-forces-of-union-of-islamic-courts-and-puntland-the-semi-autonomous-region-of-somali.json)  [XML](/news/2006/11/6/somalian-war-heavy-fighting-has-been-reported-between-forces-of-union-of-islamic-courts-and-puntland-the-semi-autonomous-region-of-somali.xml)  
+
 ### [2006-11-6](/news/2006/11/6/index.md)
 
+##### Somali Civil War
 #  Somalian War: Heavy fighting has been reported between forces of Union of Islamic Courts and Puntland, the semi-autonomous region of Somalia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/3E2402B3-3CB2-49B9-8C93-C72E663D56CA.htm)
 

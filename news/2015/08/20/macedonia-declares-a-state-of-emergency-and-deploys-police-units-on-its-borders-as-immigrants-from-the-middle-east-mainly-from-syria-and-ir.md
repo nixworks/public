@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/20/macedonia-declares-a-state-of-emergency-and-deploys-police-units-on-its-borders-as-immigrants-from-the-middle-east-mainly-from-syria-and-ir.html)  [JSON](/news/2015/08/20/macedonia-declares-a-state-of-emergency-and-deploys-police-units-on-its-borders-as-immigrants-from-the-middle-east-mainly-from-syria-and-ir.json)  [XML](/news/2015/08/20/macedonia-declares-a-state-of-emergency-and-deploys-police-units-on-its-borders-as-immigrants-from-the-middle-east-mainly-from-syria-and-ir.xml)  
+
 ### [2015-08-20](/news/2015/08/20/index.md)
 
+##### Macedonian
 # Macedonia declares a state of emergency and deploys police units on its borders as immigrants from the Middle East, mainly from Syria and Iraq, block the railway line between Thessaloniki and Skopje. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The News Hub](https://www.the-newshub.com/international/macedonia-proclaims-state-of-emergency-due-to-flood-of-immigrants)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/1/a-court-convicts-eleven-atlanta-georgia-teachers-as-part-of-a-mass-cheating-scandal.html)  [JSON](/news/2015/04/1/a-court-convicts-eleven-atlanta-georgia-teachers-as-part-of-a-mass-cheating-scandal.json)  [XML](/news/2015/04/1/a-court-convicts-eleven-atlanta-georgia-teachers-as-part-of-a-mass-cheating-scandal.xml)  
+
 ### [2015-04-1](/news/2015/04/1/index.md)
 
+##### Atlanta
 # A court convicts eleven Atlanta, Georgia teachers as part of a mass cheating scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-32156570)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82073000/jpg/_82073651_ap-hi026585819.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/28/demonstrators-in-london-england-demand-that-the-g20-combat-poverty-climate-change-and-unemployment.html)  [JSON](/news/2009/03/28/demonstrators-in-london-england-demand-that-the-g20-combat-poverty-climate-change-and-unemployment.json)  [XML](/news/2009/03/28/demonstrators-in-london-england-demand-that-the-g20-combat-poverty-climate-change-and-unemployment.xml)  
+
 ### [2009-03-28](/news/2009/03/28/index.md)
 
+##### demonstration
 #  Demonstrators in London, England, demand that the G20 combat poverty, climate change, and unemployment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/7968721.stm)
 

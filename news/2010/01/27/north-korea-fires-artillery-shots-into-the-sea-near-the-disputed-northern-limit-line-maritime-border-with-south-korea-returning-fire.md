@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/27/north-korea-fires-artillery-shots-into-the-sea-near-the-disputed-northern-limit-line-maritime-border-with-south-korea-returning-fire.html)  [JSON](/news/2010/01/27/north-korea-fires-artillery-shots-into-the-sea-near-the-disputed-northern-limit-line-maritime-border-with-south-korea-returning-fire.json)  [XML](/news/2010/01/27/north-korea-fires-artillery-shots-into-the-sea-near-the-disputed-northern-limit-line-maritime-border-with-south-korea-returning-fire.xml)  
+
 ### [2010-01-27](/news/2010/01/27/index.md)
 
+##### North Korea
 # North Korea fires artillery shots into the sea near the disputed Northern Limit Line maritime border, with South Korea returning fire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8482251.stm)
 2. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/North-Korea-fires-artillery-South-Korea-responds-Officials/articleshow/5503321.cms)

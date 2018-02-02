@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/24/new-satellite-imagery-from-stratfor-appears-to-
 
 ### [2016-05-24](/news/2016/05/24/index.md)
 
+##### Syrian civil war
 #  New satellite imagery from Stratfor appears to reveal the destruction of four Russian attack helicopters and 20 lorries at the Tiyas military airbase after a reported attack which was conducted last week by the ISIL. 
 
 New satellite imagery appears to reveal extensive damage to a major airbase in Syria used by Russia after an attack by Islamic State militants.
@@ -22,8 +23,8 @@ New satellite imagery appears to reveal extensive damage to a major airbase in S
 
 ### Related:
 
-1. [The Syrian Army and its allies capture Abu Kamal from the Islamic State of Iraq and the Levant. ](/news/2017/11/8/the-syrian-army-and-its-allies-capture-abu-kamal-from-the-islamic-state-of-iraq-and-the-levant.md) _Context: ISIL, Syrian Civil War_
-2. [The Syrian Army (SAA) and allies announce the complete liberation of Deir ez-Zor from ISIL. ](/news/2017/11/3/the-syrian-army-saa-and-allies-announce-the-complete-liberation-of-deir-ez-zor-from-isil.md) _Context: ISIL, Syrian Civil War_
-3. [Syrian government troops and allied militia retake Abu Kamal, ISIL's last urban stronghold in Syria. ](/news/2017/11/19/syrian-government-troops-and-allied-militia-retake-abu-kamal-isil-s-last-urban-stronghold-in-syria.md) _Context: ISIL, Syrian Civil War_
-4. [The BBC reveals that a secret deal in mid-October allowed hundreds of ISIL fighters and their families, including some of their "most notorious members", escape from Raqqa in a convoy that was between 6 to 7 km long. The United States government confirms that the deal with ISIL was made and that the evacuations took place. The possibility of a deal was previously reported as early as October 14. ](/news/2017/11/13/the-bbc-reveals-that-a-secret-deal-in-mid-october-allowed-hundreds-of-isil-fighters-and-their-families-including-some-of-their-most-notori.md) _Context: ISIL, Syrian Civil War_
-5. [ISIL regains control of Abu Kamal. ](/news/2017/11/11/isil-regains-control-of-abu-kamal.md) _Context: ISIL, Syrian Civil War_
+1. [Several bombings kill at least 40 people in government and Kurdish held territory across Syria, including Tartus, Homs, Al-Hasakah and Damascus. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/09/5/several-bombings-kill-at-least-40-people-in-government-and-kurdish-held-territory-across-syria-including-tartus-homs-al-hasakah-and-damas.md) _Context: ISIL, Syrian civil war_
+2. [Amaq News Agency claims ISIL is responsible for shooting down a Syrian Air Force fighter jet over Deir ez-Zor. The London-based SOHR says the MiG pilot was killed. ](/news/2016/09/18/amaq-news-agency-claims-isil-is-responsible-for-shooting-down-a-syrian-air-force-fighter-jet-over-deir-ez-zor-the-london-based-sohr-says-th.md) _Context: ISIL, Syrian civil war_
+3. [The United States acknowledges that its warplanes may have hit a Syrian Army position near Deir ez-Zor Airport in eastern Syria, while conducting an operation against ISIL, killing more than 60 Syrian troops. ](/news/2016/09/17/the-united-states-acknowledges-that-its-warplanes-may-have-hit-a-syrian-army-position-near-deir-ez-zor-airport-in-eastern-syria-while-condu.md) _Context: ISIL, Syrian civil war_
+4. [The Islamic State of Iraq and the Levant says its official spokesman, Abu Mohammad al-Adnani, has been killed in Syria's Aleppo Governorate. The group's statement, distributed by Amaq News Agency, did not say how al-Adnani was killed. ](/news/2016/08/30/the-islamic-state-of-iraq-and-the-levant-says-its-official-spokesman-abu-mohammad-al-adnani-has-been-killed-in-syria-s-aleppo-governorate.md) _Context: ISIL, Syrian civil war_
+5. [The Turkish Armed Forces and US-backed Syrian rebels launch an initially successful campaign to capture the town of Jarabulus from ISIL. The Turkish Land Forces are also shelling YPG positions to prevent them from capturing areas that ISIL will retreat from. ](/news/2016/08/24/the-turkish-armed-forces-and-us-backed-syrian-rebels-launch-an-initially-successful-campaign-to-capture-the-town-of-jarabulus-from-isil-the.md) _Context: ISIL, Syrian civil war_

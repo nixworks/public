@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/13/a-zimbabwean-court-dismisses-charges-against-op
 
 ### [2016-07-13](/news/2016/07/13/index.md)
 
+##### 2016 Zimbabwe protests
 # A Zimbabwean court dismisses charges against opposition leader Pastor Evan Mawarire who was accused of trying to overthrow the government. 
 
 A Zimbabwean court on Wednesday dismissed charges against a religious leader accused of trying to overthrow the government through an internet campaign that inspired rare protests against President Robert Mugabe.

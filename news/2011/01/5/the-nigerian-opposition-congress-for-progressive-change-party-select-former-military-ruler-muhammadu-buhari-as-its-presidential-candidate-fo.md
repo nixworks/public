@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/5/the-nigerian-opposition-congress-for-progressive-change-party-select-former-military-ruler-muhammadu-buhari-as-its-presidential-candidate-fo.html)  [JSON](/news/2011/01/5/the-nigerian-opposition-congress-for-progressive-change-party-select-former-military-ruler-muhammadu-buhari-as-its-presidential-candidate-fo.json)  [XML](/news/2011/01/5/the-nigerian-opposition-congress-for-progressive-change-party-select-former-military-ruler-muhammadu-buhari-as-its-presidential-candidate-fo.xml)  
+
 ### [2011-01-5](/news/2011/01/5/index.md)
 
+##### Nigeria
 # The Nigerian opposition Congress for Progressive Change party select former military ruler Muhammadu Buhari as its presidential candidate for April elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE70400N20110105)
 

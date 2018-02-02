@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/17/darfur-conflict-peace-talks-between-the-sudanese-government-and-darfurian-rebels-which-began-three-weeks-ago-collapse-sudan-accuses-the.html)  [JSON](/news/2004/09/17/darfur-conflict-peace-talks-between-the-sudanese-government-and-darfurian-rebels-which-began-three-weeks-ago-collapse-sudan-accuses-the.json)  [XML](/news/2004/09/17/darfur-conflict-peace-talks-between-the-sudanese-government-and-darfurian-rebels-which-began-three-weeks-ago-collapse-sudan-accuses-the.xml)  
+
 ### [2004-09-17](/news/2004/09/17/index.md)
 
+##### Darfur conflict
 #  Darfur conflict: Peace talks between the Sudanese government and Darfurian rebels, which began three weeks ago, collapse. Sudan accuses the United States of prolonging the conflict by describing the actions of Arab militias in Darfur as genocide. Rebels will meet with Nigerian president Olusegun Obasanjo Friday evening to give their version of the story. 
 
 A United Nations resolution threatening sanctions over the violence in Darfur will only make it harder for the government to calm an insurrection in the region, a Sudanese offical said Sunday.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC.com](http://www.msnbc.msn.com/id/6021717/)
 1. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Photos/040919/040919_darfur_vlg_10a.standard.jpg)

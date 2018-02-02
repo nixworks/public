@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/11/southern-california-gas-company-caps-at-least-t
 
 ### [2016-02-11](/news/2016/02/11/index.md)
 
+##### Aliso Canyon gas leak
 # Southern California Gas Company caps, at least temporarily, the natural gas leak that started last October and has forced thousands to flee their homes. 
 
 The natural gas leak that flowed for three months and sickened hundreds near Los Angeles has been temporarily capped, gas company officials said.

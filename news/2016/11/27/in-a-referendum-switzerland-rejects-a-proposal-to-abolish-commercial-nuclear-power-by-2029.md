@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/27/in-a-referendum-switzerland-rejects-a-proposal-
 
 ### [2016-11-27](/news/2016/11/27/index.md)
 
+##### Swiss referendums, 2016
 # In a referendum, Switzerland rejects a proposal to abolish commercial nuclear power by 2029. 
 
 
@@ -24,4 +25,4 @@ Formats: [HTML](/news/2016/11/27/in-a-referendum-switzerland-rejects-a-proposal-
 2. [Swiss citizens vote on four referenda, including one, proposed by the right-wing Swiss People's Party, that would automatically expel foreigners who commit two minor crimes. Current law calls for deportation of non-citizens convicted of murder or sexual violence. ](/news/2016/02/28/swiss-citizens-vote-on-four-referenda-including-one-proposed-by-the-right-wing-swiss-people-s-party-that-would-automatically-expel-foreig.md) _Context: Swiss referendums, 2016, Switzerland_
 3. [20,000 people attend an anti-nuclear rally in Switzerland. ](/news/2011/05/22/20-000-people-attend-an-anti-nuclear-rally-in-switzerland.md) _Context: Switzerland, nuclear power_
 4. [ A nationwide referendum on record nine issues takes place in Switzerland. Abolition of nuclear power is rejected. Reduction and modernization of army is approved. It ends requirement of nuclear bunker in every home and famous bicycle brigade.](/news/2003/05/18/a-nationwide-referendum-on-record-nine-issues-takes-place-in-switzerland-abolition-of-nuclear-power-is-rejected-reduction-and-modernizati.md) _Context: Switzerland, nuclear power_
-5. [Two trains collide in Andermatt railway station in the Canton of Uri, Switzerland, injuring around 30 people. ](/news/2017/09/11/two-trains-collide-in-andermatt-railway-station-in-the-canton-of-uri-switzerland-injuring-around-30-people.md) _Context: Switzerland_
+5. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: Switzerland_

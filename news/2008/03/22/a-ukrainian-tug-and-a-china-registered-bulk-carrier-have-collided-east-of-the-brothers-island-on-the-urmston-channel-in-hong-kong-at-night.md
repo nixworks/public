@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2008/03/22/a-ukrainian-tug-and-a-china-registered-bulk-carrier-have-collided-east-of-the-brothers-island-on-the-urmston-channel-in-hong-kong-at-night.html)  [JSON](/news/2008/03/22/a-ukrainian-tug-and-a-china-registered-bulk-carrier-have-collided-east-of-the-brothers-island-on-the-urmston-channel-in-hong-kong-at-night.json)  [XML](/news/2008/03/22/a-ukrainian-tug-and-a-china-registered-bulk-carrier-have-collided-east-of-the-brothers-island-on-the-urmston-channel-in-hong-kong-at-night.xml)  
+
 ### [2008-03-22](/news/2008/03/22/index.md)
 
+##### Ukraine
 #  A Ukrainian tug and a China-registered bulk carrier have collided east of the Brothers Island on the Urmston Channel in Hong Kong at night; the tug has sunk, 7 crew members on board were rescued, but the remaining 18 crew members were missing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [HK Government Press Releases](http://www.info.gov.hk/gia/general/200803/23/P200803230184.htm)
 
 ### Related:
 
-1. [Thirty thousand people are evacuated from Kalynivka, Ukraine, following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-from-kalynivka-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-gov.md) _Context: Ukraine_
-2. [Tropical Storm Pakhar hits Hong Kong and Macau with sustained winds of 100 km-h and heavy rain, four days after deadly Typhoon Hato passed through the area. ](/news/2017/08/27/tropical-storm-pakhar-hits-hong-kong-and-macau-with-sustained-winds-of-100-km-h-and-heavy-rain-four-days-after-deadly-typhoon-hato-passed-t.md) _Context: Hong Kong_
-3. [The International Institute for Strategic Studies releases a report arguing that North Korea has acquired a high-performance liquid-propellant engine for its missile program, probably from illicit networks in Russia and Ukraine, likely produced by Yuzhmash facilities. Ukraine denies the allegations. ](/news/2017/08/14/the-international-institute-for-strategic-studies-releases-a-report-arguing-that-north-korea-has-acquired-a-high-performance-liquid-propella.md) _Context: Ukraine_
-4. [Ukraine's domestic intelligence service, the SBU, reports that the March 2017 explosions at Balakliia military base in Eastern Ukraine were caused by a drone carrying a ZMG-1 thermite grenade. The explosions resulted in 1 death and 5 injuries. ](/news/2017/07/27/ukraine-s-domestic-intelligence-service-the-sbu-reports-that-the-march-2017-explosions-at-balakliia-military-base-in-eastern-ukraine-were.md) _Context: Ukraine_
-5. [Kurt Volker, U.S. special representative for Ukraine, says in a BBC News interview that the White House is considering arming Ukrainian government forces fighting Pro-Russian militants with defensive weapons. ](/news/2017/07/25/kurt-volker-u-s-special-representative-for-ukraine-says-in-a-bbc-news-interview-that-the-white-house-is-considering-arming-ukrainian-gove.md) _Context: Ukraine_
+1. [The National Iranian Tanker Company-operated Sanchi sinks, following its January 6 collision with a Hong Kong-flagged cargo ship off Shanghai, China, leaving no survivors. ](/news/2018/01/14/the-national-iranian-tanker-company-operated-sanchi-sinks-following-its-january-6-collision-with-a-hong-kong-flagged-cargo-ship-off-shangha.md) _Context: Hong Kong_
+2. [A man strapped with explosives takes 11 people hostage in Kharkiv, Ukraine. The Ukrainian police free all the hostages and arrest the man. ](/news/2017/12/30/a-man-strapped-with-explosives-takes-11-people-hostage-in-kharkiv-ukraine-the-ukrainian-police-free-all-the-hostages-and-arrest-the-man.md) _Context: Ukraine_
+3. [Ukraine exchanges hundreds of prisoners with the Donetsk People's Republic and Luhansk People's Republic. ](/news/2017/12/27/ukraine-exchanges-hundreds-of-prisoners-with-the-donetsk-people-s-republic-and-luhansk-people-s-republic.md) _Context: Ukraine_
+4. [Security researchers report on the outbreak of the ransomware nicknamed Bad Rabbit, which has affected computer networks throughout the world, with Russia and Ukraine being the worst affected. ](/news/2017/10/24/security-researchers-report-on-the-outbreak-of-the-ransomware-nicknamed-bad-rabbit-which-has-affected-computer-networks-throughout-the-worl.md) _Context: Ukraine_
+5. [Eleven anti-corruption protestors are detained in Kiev, Ukraine, where police attempted to enter a protestor camp near the parliament building. ](/news/2017/10/18/eleven-anti-corruption-protestors-are-detained-in-kiev-ukraine-where-police-attempted-to-enter-a-protestor-camp-near-the-parliament-buildi.md) _Context: Ukraine_

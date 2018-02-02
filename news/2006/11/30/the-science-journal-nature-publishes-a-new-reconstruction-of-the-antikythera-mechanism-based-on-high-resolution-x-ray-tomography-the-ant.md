@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2006/11/30/the-science-journal-nature-publishes-a-new-reconstruction-of-the-antikythera-mechanism-based-on-high-resolution-x-ray-tomography-the-ant.html)  [JSON](/news/2006/11/30/the-science-journal-nature-publishes-a-new-reconstruction-of-the-antikythera-mechanism-based-on-high-resolution-x-ray-tomography-the-ant.json)  [XML](/news/2006/11/30/the-science-journal-nature-publishes-a-new-reconstruction-of-the-antikythera-mechanism-based-on-high-resolution-x-ray-tomography-the-ant.xml)  
+
 ### [2006-11-30](/news/2006/11/30/index.md)
 
+##### ''Nature''
 #  The science journal "Nature" publishes a new reconstruction of the Antikythera mechanism based on high resolution X-ray tomography. The Antikythera mechanism is an ancient Greek mechanical analog computer designed to calculate astronomical positions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/news/science/scientists-decode-ancient-astral-computer/2006/11/30/1164777721260.html)
+
+### Changes:
+
+1. [ The science journal ''Nature'' publishes a new reconstruction of the Antikythera mechanism based on high resolution X-ray tomography. The Antikythera mechanism is an ancient Greek mechanical analog computer designed to calculate astronomical positions. ](/news/2006/11/30/the-science-journal-nature-publishes-a-new-reconstruction-of-the-antikythera-mechanism-based-on-high-resolution-x-ray-tomography-the-a.md) _2017-08-25 03:18:52 (First version)_
+1. [ The science journal "Nature" publishes a new reconstruction of the Antikythera mechanism based on high resolution X-ray tomography. The Antikythera mechanism is an ancient Greek mechanical analog computer designed to calculate astronomical positions. ](/news/2006/11/30/the-science-journal-nature-publishes-a-new-reconstruction-of-the-antikythera-mechanism-based-on-high-resolution-x-ray-tomography-the-ant.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [A study published in Nature finds the Earth's surface is warmer than it has been in about 120,000 years, and is locked into eventually hitting its hottest mark in more than 2 million years. ](/news/2016/09/26/a-study-published-in-nature-finds-the-earth-s-surface-is-warmer-than-it-has-been-in-about-120-000-years-and-is-locked-into-eventually-hitti.md) _Context: ''Nature''_
 4. [Researchers report in the journal Nature the discovery of three potentially habitable, Earth-like exoplanets orbiting TRAPPIST-1, an ultracool dwarf star 40 light-years away in the constellation Aquarius. ](/news/2016/05/2/researchers-report-in-the-journal-nature-the-discovery-of-three-potentially-habitable-earth-like-exoplanets-orbiting-trappist-1-an-ultraco.md) _Context: ''Nature''_
 5. [ An article published in "Nature" reports high levels of molecular oxygen found by the Rosetta space probe on comet 67P-Churyumov-Gerasimenko. This discovery could have implications for theories of the origin of the solar system. ](/news/2015/10/28/an-article-published-in-nature-reports-high-levels-of-molecular-oxygen-found-by-the-rosetta-space-probe-on-comet-67p-churyumov-gerasimenk.md) _Context: ''Nature''_
-
-### Changes:
-
-1. [ The science journal ''Nature'' publishes a new reconstruction of the Antikythera mechanism based on high resolution X-ray tomography. The Antikythera mechanism is an ancient Greek mechanical analog computer designed to calculate astronomical positions. ](/news/2006/11/30/the-science-journal-nature-publishes-a-new-reconstruction-of-the-antikythera-mechanism-based-on-high-resolution-x-ray-tomography-the-a.md) _2017-08-25 03:18:52 (First version)_
-1. [ The science journal "Nature" publishes a new reconstruction of the Antikythera mechanism based on high resolution X-ray tomography. The Antikythera mechanism is an ancient Greek mechanical analog computer designed to calculate astronomical positions. ](/news/2006/11/30/the-science-journal-nature-publishes-a-new-reconstruction-of-the-antikythera-mechanism-based-on-high-resolution-x-ray-tomography-the-ant.md) _(Current version)_

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/25/far-right-protesters-from-la-meute-and-storm-al
 
 ### [2017-11-25](/news/2017/11/25/index.md)
 
+##### Crime in Canada
 # Far-right protesters from La Meute and Storm Alliance, counter-protesters, and the Quebec City Police Service clash, and more than 40 people are arrested. 
 
 Between 300 and 400 members of far-right groups, including La Meute and Storm Alliance, marched in the rain to a convention centre that was hosting a major policy meeting of the governing Quebec Liberal party. Police have arrested 44 people.

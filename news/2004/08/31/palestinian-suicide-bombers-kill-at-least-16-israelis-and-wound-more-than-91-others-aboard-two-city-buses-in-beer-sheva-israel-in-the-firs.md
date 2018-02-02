@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/31/palestinian-suicide-bombers-kill-at-least-16-israelis-and-wound-more-than-91-others-aboard-two-city-buses-in-beer-sheva-israel-in-the-firs.html)  [JSON](/news/2004/08/31/palestinian-suicide-bombers-kill-at-least-16-israelis-and-wound-more-than-91-others-aboard-two-city-buses-in-beer-sheva-israel-in-the-firs.json)  [XML](/news/2004/08/31/palestinian-suicide-bombers-kill-at-least-16-israelis-and-wound-more-than-91-others-aboard-two-city-buses-in-beer-sheva-israel-in-the-firs.xml)  
+
 ### [2004-08-31](/news/2004/08/31/index.md)
 
+##### Palestinian
 #  Palestinian suicide bombers kill at least 16 Israelis and wound more than 91 others aboard two city buses in Beer Sheva, Israel in the first successful Palestinian suicide bombings since March 14, 2004, with Hamas claiming responsibility. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3614614.stm)
 2. [Haaretz](http://www.haaretz.com/hasen/pages/ShArt.jhtml?itemNo=471713)

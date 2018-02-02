@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/18/nigeria-recalls-its-ambassador-to-libya-after-libyan-leader-muammar-al-gaddafi-suggests-the-country-be-partitioned-into-two-separate-christi.html)  [JSON](/news/2010/03/18/nigeria-recalls-its-ambassador-to-libya-after-libyan-leader-muammar-al-gaddafi-suggests-the-country-be-partitioned-into-two-separate-christi.json)  [XML](/news/2010/03/18/nigeria-recalls-its-ambassador-to-libya-after-libyan-leader-muammar-al-gaddafi-suggests-the-country-be-partitioned-into-two-separate-christi.xml)  
+
 ### [2010-03-18](/news/2010/03/18/index.md)
 
+##### Nigeria
 # Nigeria recalls its ambassador to Libya after Libyan leader Muammar al-Gaddafi suggests the country be partitioned into two separate Christian and Muslim nations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/03/2010318173536716209.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8575383.stm)

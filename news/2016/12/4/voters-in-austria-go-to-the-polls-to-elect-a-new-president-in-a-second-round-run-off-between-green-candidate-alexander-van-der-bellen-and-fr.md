@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/4/voters-in-austria-go-to-the-polls-to-elect-a-new
 
 ### [2016-12-4](/news/2016/12/4/index.md)
 
+##### Austrian presidential election, 2016
 # Voters in Austria go to the polls to elect a new President in a second round run-off between Green candidate Alexander Van der Bellen and Freedom Party of Austria candidate Norbert Hofer. Projections show that Van der Bellen has won with Hofer conceding defeat. 
 
 Austrian voters roundly rejected on Sunday a candidate vying to become the first freely elected far-right head of state in Europe since World War Two, halting at least temporarily the wave of populism sweeping Western democracies.

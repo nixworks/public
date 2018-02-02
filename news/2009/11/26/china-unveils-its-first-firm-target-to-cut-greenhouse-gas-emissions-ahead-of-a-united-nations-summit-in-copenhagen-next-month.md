@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2009/11/26/china-unveils-its-first-firm-target-to-cut-greenhouse-gas-emissions-ahead-of-a-united-nations-summit-in-copenhagen-next-month.html)  [JSON](/news/2009/11/26/china-unveils-its-first-firm-target-to-cut-greenhouse-gas-emissions-ahead-of-a-united-nations-summit-in-copenhagen-next-month.json)  [XML](/news/2009/11/26/china-unveils-its-first-firm-target-to-cut-greenhouse-gas-emissions-ahead-of-a-united-nations-summit-in-copenhagen-next-month.xml)  
+
 ### [2009-11-26](/news/2009/11/26/index.md)
 
+##### China
 #  China unveils its first firm target to cut greenhouse gas emissions, ahead of a United Nations summit in Copenhagen next month. 
 
 Harrison and Chris Buckley
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE5AP11H20091126)
+1. [Reuters](https://www.reuters.com/article/newsOne/idUSTRE5AP11H20091126)
 2. [The Times](http://www.timesonline.co.uk/tol/news/environment/article6933127.ece)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-11/26/content_12544181.htm)
-3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20091126&t=2&i=20255355&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-11-26T201932Z_01_BTRE5AP11J000_RTROPTP_0_OLYMPICS-CHINA-BEIJING)
+3. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20091126&t=2&i=20255355&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-11-26T201932Z_01_BTRE5AP11J000_RTROPTP_0_OLYMPICS-CHINA-BEIJING)
 
 ### Related:
 

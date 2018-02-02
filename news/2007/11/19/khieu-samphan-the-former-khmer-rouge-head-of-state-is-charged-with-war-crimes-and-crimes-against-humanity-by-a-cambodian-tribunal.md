@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/19/khieu-samphan-the-former-khmer-rouge-head-of-state-is-charged-with-war-crimes-and-crimes-against-humanity-by-a-cambodian-tribunal.html)  [JSON](/news/2007/11/19/khieu-samphan-the-former-khmer-rouge-head-of-state-is-charged-with-war-crimes-and-crimes-against-humanity-by-a-cambodian-tribunal.json)  [XML](/news/2007/11/19/khieu-samphan-the-former-khmer-rouge-head-of-state-is-charged-with-war-crimes-and-crimes-against-humanity-by-a-cambodian-tribunal.xml)  
+
 ### [2007-11-19](/news/2007/11/19/index.md)
 
+##### Khieu Samphan
 #  Khieu Samphan, the former Khmer Rouge head of state, is charged with war crimes and crimes against humanity by a Cambodian tribunal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7101154.stm)
 

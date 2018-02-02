@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/18/the-organization-of-american-states-condemns-colombia-s-recent-raid-into-ecuador-s-territory-as-a-clear-violation-of-the-oas-charter.html)  [JSON](/news/2008/03/18/the-organization-of-american-states-condemns-colombia-s-recent-raid-into-ecuador-s-territory-as-a-clear-violation-of-the-oas-charter.json)  [XML](/news/2008/03/18/the-organization-of-american-states-condemns-colombia-s-recent-raid-into-ecuador-s-territory-as-a-clear-violation-of-the-oas-charter.xml)  
+
 ### [2008-03-18](/news/2008/03/18/index.md)
 
+##### Organization of American States
 #  The Organization of American States condemns Colombia's recent raid into Ecuador's territory as "a clear violation of the OAS charter." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA](http://www.voanews.com/english/2008-03-18-voa38.cfm)
 

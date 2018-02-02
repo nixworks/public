@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/23/the-governments-of-chile-and-argentina-issue-volcanic-activity-alerts-in-areas-close-to-the-copahue-volcano-after-it-started-spewing-ash.html)  [JSON](/news/2012/12/23/the-governments-of-chile-and-argentina-issue-volcanic-activity-alerts-in-areas-close-to-the-copahue-volcano-after-it-started-spewing-ash.json)  [XML](/news/2012/12/23/the-governments-of-chile-and-argentina-issue-volcanic-activity-alerts-in-areas-close-to-the-copahue-volcano-after-it-started-spewing-ash.xml)  
+
 ### [2012-12-23](/news/2012/12/23/index.md)
 
+##### Chile
 # The governments of Chile and Argentina issue volcanic activity alerts in areas close to the Copahue volcano after it started spewing ash. 
 
 Chile raises the alert to the highest level as the Copahue volcano on its border with Argentina increases its activity spewing more ash and gas.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5jO9qEb-MteY3s-d3XjujIA2-lH9g)
 2. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/12/2012122384619614833.html)

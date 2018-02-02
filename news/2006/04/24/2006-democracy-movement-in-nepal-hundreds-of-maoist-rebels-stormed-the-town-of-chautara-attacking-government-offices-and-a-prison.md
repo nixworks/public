@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/24/2006-democracy-movement-in-nepal-hundreds-of-maoist-rebels-stormed-the-town-of-chautara-attacking-government-offices-and-a-prison.html)  [JSON](/news/2006/04/24/2006-democracy-movement-in-nepal-hundreds-of-maoist-rebels-stormed-the-town-of-chautara-attacking-government-offices-and-a-prison.json)  [XML](/news/2006/04/24/2006-democracy-movement-in-nepal-hundreds-of-maoist-rebels-stormed-the-town-of-chautara-attacking-government-offices-and-a-prison.xml)  
+
 ### [2006-04-24](/news/2006/04/24/index.md)
 
+##### 2006 Democracy movement in Nepal
 #  2006 Democracy movement in Nepal: Hundreds of Maoist rebels stormed the town of Chautara, attacking government offices and a prison. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/4937496.stm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/4940278.stm)

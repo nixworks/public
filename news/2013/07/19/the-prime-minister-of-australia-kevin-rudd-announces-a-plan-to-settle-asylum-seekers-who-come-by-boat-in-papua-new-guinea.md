@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/19/the-prime-minister-of-australia-kevin-rudd-announces-a-plan-to-settle-asylum-seekers-who-come-by-boat-in-papua-new-guinea.html)  [JSON](/news/2013/07/19/the-prime-minister-of-australia-kevin-rudd-announces-a-plan-to-settle-asylum-seekers-who-come-by-boat-in-papua-new-guinea.json)  [XML](/news/2013/07/19/the-prime-minister-of-australia-kevin-rudd-announces-a-plan-to-settle-asylum-seekers-who-come-by-boat-in-papua-new-guinea.xml)  
+
 ### [2013-07-19](/news/2013/07/19/index.md)
 
+##### Australian Prime Minister
 # The Prime Minister of Australia, Kevin Rudd, announces a plan to settle asylum seekers who come by boat in Papua New Guinea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/news/kevin-rudd-announces-asylum-seeker-policy-to-send-them-to-png-manus-island/story-e6frg6n6-1226681915951)
 

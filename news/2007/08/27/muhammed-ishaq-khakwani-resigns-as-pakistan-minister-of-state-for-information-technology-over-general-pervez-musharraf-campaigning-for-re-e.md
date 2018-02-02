@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/27/muhammed-ishaq-khakwani-resigns-as-pakistan-minister-of-state-for-information-technology-over-general-pervez-musharraf-campaigning-for-re-e.html)  [JSON](/news/2007/08/27/muhammed-ishaq-khakwani-resigns-as-pakistan-minister-of-state-for-information-technology-over-general-pervez-musharraf-campaigning-for-re-e.json)  [XML](/news/2007/08/27/muhammed-ishaq-khakwani-resigns-as-pakistan-minister-of-state-for-information-technology-over-general-pervez-musharraf-campaigning-for-re-e.xml)  
+
 ### [2007-08-27](/news/2007/08/27/index.md)
 
+##### Muhammed Ishaq Khakwani
 #  Muhammed Ishaq Khakwani resigns as Pakistan minister of state for Information Technology over General Pervez Musharraf campaigning for re-election as the President of Pakistan while still an army officer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.hindu.com/2007/08/28/stories/2007082862131500.htm)
 

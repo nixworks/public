@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/10/the-zimbabwean-energy-minister-and-member-of-the-movement-for-democratic-change-elton-mangoma-is-arrested-for-unknown-reasons.html)  [JSON](/news/2011/03/10/the-zimbabwean-energy-minister-and-member-of-the-movement-for-democratic-change-elton-mangoma-is-arrested-for-unknown-reasons.json)  [XML](/news/2011/03/10/the-zimbabwean-energy-minister-and-member-of-the-movement-for-democratic-change-elton-mangoma-is-arrested-for-unknown-reasons.xml)  
+
 ### [2011-03-10](/news/2011/03/10/index.md)
 
+##### Zimbabwe
 # The Zimbabwean Energy Minister and member of the Movement for Democratic Change, Elton Mangoma, is arrested for unknown reasons. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12703119)
 2. [Zim Online](http://www.zimonline.co.za/Article.aspx?ArticleId=6607)

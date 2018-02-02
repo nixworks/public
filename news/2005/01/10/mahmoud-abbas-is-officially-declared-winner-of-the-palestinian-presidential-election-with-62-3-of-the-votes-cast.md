@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/10/mahmoud-abbas-is-officially-declared-winner-of-the-palestinian-presidential-election-with-62-3-of-the-votes-cast.html)  [JSON](/news/2005/01/10/mahmoud-abbas-is-officially-declared-winner-of-the-palestinian-presidential-election-with-62-3-of-the-votes-cast.json)  [XML](/news/2005/01/10/mahmoud-abbas-is-officially-declared-winner-of-the-palestinian-presidential-election-with-62-3-of-the-votes-cast.xml)  
+
 ### [2005-01-10](/news/2005/01/10/index.md)
 
+##### Mahmoud Abbas
 #  Mahmoud Abbas is officially declared winner of the Palestinian presidential election, with 62.3% of the votes cast. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4160171.stm)
 

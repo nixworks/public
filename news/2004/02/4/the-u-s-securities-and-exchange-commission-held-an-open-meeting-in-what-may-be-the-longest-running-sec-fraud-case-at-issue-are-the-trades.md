@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/4/the-u-s-securities-and-exchange-commission-held-an-open-meeting-in-what-may-be-the-longest-running-sec-fraud-case-at-issue-are-the-trades.html)  [JSON](/news/2004/02/4/the-u-s-securities-and-exchange-commission-held-an-open-meeting-in-what-may-be-the-longest-running-sec-fraud-case-at-issue-are-the-trades.json)  [XML](/news/2004/02/4/the-u-s-securities-and-exchange-commission-held-an-open-meeting-in-what-may-be-the-longest-running-sec-fraud-case-at-issue-are-the-trades.xml)  
+
 ### [2004-02-4](/news/2004/02/4/index.md)
 
+##### Securities and Exchange Commission
 #  The U.S. Securities and Exchange Commission held an open meeting in what may be the longest-running SEC fraud case. At issue are the trades that resulted in the firing of Orlando (Joseph) Jett from Kidder, Peabody & Co. in 1994. An administrative law judge held that Jett was responsible for record keeping violations, but rejected the claim of SEC lawyers that he was guilty of securities fraud. Both the staff and Jett appealed to the full commission.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/20/the-burmese-supreme-court-announces-it-will-return-a-verdict-on-the-extended-house-arrest-of-aung-san-suu-kyi-by-next-month.html)  [JSON](/news/2010/01/20/the-burmese-supreme-court-announces-it-will-return-a-verdict-on-the-extended-house-arrest-of-aung-san-suu-kyi-by-next-month.json)  [XML](/news/2010/01/20/the-burmese-supreme-court-announces-it-will-return-a-verdict-on-the-extended-house-arrest-of-aung-san-suu-kyi-by-next-month.xml)  
+
 ### [2010-01-20](/news/2010/01/20/index.md)
 
+##### Burma
 # The Burmese Supreme Court announces it will return a verdict on the extended house arrest of Aung San Suu Kyi by next month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jvkgWVc6B85Fs57t7uPdzoCgTJcg)
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/01/20/myanmar.suukyi/index.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/29/the-muslim-brotherhood-egypt-s-largest-opposition-bloc-claims-fraud-in-the-parliamentary-elections-and-says-it-has-won-no-seats.html)  [JSON](/news/2010/11/29/the-muslim-brotherhood-egypt-s-largest-opposition-bloc-claims-fraud-in-the-parliamentary-elections-and-says-it-has-won-no-seats.json)  [XML](/news/2010/11/29/the-muslim-brotherhood-egypt-s-largest-opposition-bloc-claims-fraud-in-the-parliamentary-elections-and-says-it-has-won-no-seats.xml)  
+
 ### [2010-11-29](/news/2010/11/29/index.md)
 
+##### Muslim Brotherhood
 # The Muslim Brotherhood, Egypt's largest opposition bloc, claims fraud in the parliamentary elections and says it has won no seats. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/11/20101129102949839336.html)
 2. [Al-Masry Al-Youm](http://www.almasryalyoum.com/en/news/muslim-brotherhood-levels-fraud-accusations-against-ndp)

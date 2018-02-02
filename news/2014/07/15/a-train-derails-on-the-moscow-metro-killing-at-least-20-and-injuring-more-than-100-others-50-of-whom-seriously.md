@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/15/a-train-derails-on-the-moscow-metro-killing-at-least-20-and-injuring-more-than-100-others-50-of-whom-seriously.html)  [JSON](/news/2014/07/15/a-train-derails-on-the-moscow-metro-killing-at-least-20-and-injuring-more-than-100-others-50-of-whom-seriously.json)  [XML](/news/2014/07/15/a-train-derails-on-the-moscow-metro-killing-at-least-20-and-injuring-more-than-100-others-50-of-whom-seriously.xml)  
+
 ### [2014-07-15](/news/2014/07/15/index.md)
 
+##### A train derails
 # A train derails on the Moscow Metro, killing at least 20 and injuring more than 100 others, 50 of whom seriously. 
 
 A rush-hour train derails on the Moscow metro, killing 21 people, the Russian authorities say, with scores more injured.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-2692561/10-dead-Moscow-subway-train-derailment.html)
 2. [BBC](http://www.bbc.com/news/world-europe-28306458)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/29/the-greek-parliament-votes-in-favor-of-austerity-measures-to-deal-with-the-country-s-economic-crisis-global-markets-rise-as-a-result.html)  [JSON](/news/2011/06/29/the-greek-parliament-votes-in-favor-of-austerity-measures-to-deal-with-the-country-s-economic-crisis-global-markets-rise-as-a-result.json)  [XML](/news/2011/06/29/the-greek-parliament-votes-in-favor-of-austerity-measures-to-deal-with-the-country-s-economic-crisis-global-markets-rise-as-a-result.xml)  
+
 ### [2011-06-29](/news/2011/06/29/index.md)
 
+##### Hellenic Parliament
 # The Greek parliament votes in favor of austerity measures to deal with the country's economic crisis; global markets rise as a result. 
 
 Parliament passes an austerity plan to slash $40bn off national debt, with 155 MPs voting in favour and 138 against.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/06/2011629131116123332.html)
 2. [The Guardian](http://www.guardian.co.uk/world/blog/2011/jun/29/greece-austerity-vote-demonstrations)

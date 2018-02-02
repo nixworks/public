@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/20/jundallah-s-leader-abdolmalek-rigi-is-executed-in-tehran.html)  [JSON](/news/2010/06/20/jundallah-s-leader-abdolmalek-rigi-is-executed-in-tehran.json)  [XML](/news/2010/06/20/jundallah-s-leader-abdolmalek-rigi-is-executed-in-tehran.xml)  
+
 ### [2010-06-20](/news/2010/06/20/index.md)
 
+##### Jundallah
 # Jundallah's leader Abdolmalek Rigi is executed in Tehran. 
 
 Iran hangs the leader of the Jundullah Sunni militant group, blamed for a string of attacks on its elite Revolutionary Guards.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10359415.stm)
 2. [Bangkok Post](http://www.bangkokpost.com/news/world/181893/shiite-iran-top-sunni-rebel-hanged)

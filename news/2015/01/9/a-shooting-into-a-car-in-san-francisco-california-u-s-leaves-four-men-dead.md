@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/01/9/a-shooting-into-a-car-in-san-francisco-california-u-s-leaves-four-men-dead.html)  [JSON](/news/2015/01/9/a-shooting-into-a-car-in-san-francisco-california-u-s-leaves-four-men-dead.json)  [XML](/news/2015/01/9/a-shooting-into-a-car-in-san-francisco-california-u-s-leaves-four-men-dead.xml)  
+
 ### [2015-01-9](/news/2015/01/9/index.md)
 
+##### San Francisco
 # A shooting into a car in San Francisco, California, U.S., leaves four men dead. 
 
 (Reuters) - Four men were shot dead in a car in a trendy neighborhood in San Francisco, California late on Friday evening, local media reported. Gunfire erupted at about 10 p.m. local time in the Hayes Valley neighborhood, said the San Francisco Chronicle newspaper, citing police. It said no arrests
 
 
-### Source:
+### Sources:
 
-1. [AP](http://news.yahoo.com/four-men-shot-dead-car-san-francisco-california-105601562.html)
+1. [AP](https://news.yahoo.com/four-men-shot-dead-car-san-francisco-california-105601562.html)
 1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:

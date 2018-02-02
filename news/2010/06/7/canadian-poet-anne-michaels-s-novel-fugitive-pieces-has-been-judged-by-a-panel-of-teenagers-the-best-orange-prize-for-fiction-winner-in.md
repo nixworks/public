@@ -1,24 +1,28 @@
+
+Formats: [HTML](/news/2010/06/7/canadian-poet-anne-michaels-s-novel-fugitive-pieces-has-been-judged-by-a-panel-of-teenagers-the-best-orange-prize-for-fiction-winner-in.html)  [JSON](/news/2010/06/7/canadian-poet-anne-michaels-s-novel-fugitive-pieces-has-been-judged-by-a-panel-of-teenagers-the-best-orange-prize-for-fiction-winner-in.json)  [XML](/news/2010/06/7/canadian-poet-anne-michaels-s-novel-fugitive-pieces-has-been-judged-by-a-panel-of-teenagers-the-best-orange-prize-for-fiction-winner-in.xml)  
+
 ### [2010-06-7](/news/2010/06/7/index.md)
 
+##### Canadian
 # Canadian poet Anne Michaels's novel "Fugitive Pieces" has been judged, by a panel of teenagers, the best Orange Prize for Fiction winner in its 15-year history. "Fugitive Pieces" won the Prize in 1997. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment_and_arts/10258922.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
-
-### Related:
-
-1. [Canada's left-leaning New Democratic Party elects Jagmeet Singh its leader. ](/news/2017/10/1/canada-s-left-leaning-new-democratic-party-elects-jagmeet-singh-its-leader.md) _Context: Canada_
-2. [Winston Blackmore and James Oler, leaders of a polygamist Mormon sect in Canada, are convicted. ](/news/2017/07/24/winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-sect-in-canada-are-convicted.md) _Context: Canada_
-3. [Six teenagers, four males and two females, from a Burundi robotics team are reported missing after competing in the FIRST Global Robotics Competition in Washington, D.C. A 16-year-old boy and a 17-year old girl reportedly crossed the United States border into Canada. There is no indication of foul play. ](/news/2017/07/20/six-teenagers-four-males-and-two-females-from-a-burundi-robotics-team-are-reported-missing-after-competing-in-the-first-global-robotics-co.md) _Context: Canada_
-4. [Canada celebrates the sesquicentennial (150-year) anniversary of the Canadian Confederation. ](/news/2017/07/1/canada-celebrates-the-sesquicentennial-150-year-anniversary-of-the-canadian-confederation.md) _Context: Canada_
-5. [A state of emergency is declared in Montreal, Canada as 1,200 Canadian Forces personnel are deployed in the province of Quebec to help with rising floodwaters. 146 communities are affected and more than 1,500 residents have been evacuated from their homes. ](/news/2017/05/7/a-state-of-emergency-is-declared-in-montreal-canada-as-1-200-canadian-forces-personnel-are-deployed-in-the-province-of-quebec-to-help-with.md) _Context: Canada_
 
 ### Changes:
 
 1. [Canadian poet Anne Michaels's novel ''Fugitive Pieces'' has been judged, by a panel of teenagers, the best Orange Prize for Fiction winner in its 15-year history. ''Fugitive Pieces'' won the Prize in 1997. ](/news/2010/06/7/canadian-poet-anne-michaels-s-novel-fugitive-pieces-has-been-judged-by-a-panel-of-teenagers-the-best-orange-prize-for-fiction-winner-i.md) _2017-08-25 03:28:09 (First version)_
 1. [Canadian poet Anne Michaels's novel "Fugitive Pieces" has been judged, by a panel of teenagers, the best Orange Prize for Fiction winner in its 15-year history. "Fugitive Pieces" won the Prize in 1997. ](/news/2010/06/7/canadian-poet-anne-michaels-s-novel-fugitive-pieces-has-been-judged-by-a-panel-of-teenagers-the-best-orange-prize-for-fiction-winner-in.md) _(Current version)_
+
+### Related:
+
+1. [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md) _Context: Canadian_
+2. [Joshua Boyle, a Canadian man recently rescued from a Taliban linked group, is arrested on 15 charges, including assault, sexual assault, and unlawful confinement. ](/news/2018/01/2/joshua-boyle-a-canadian-man-recently-rescued-from-a-taliban-linked-group-is-arrested-on-15-charges-including-assault-sexual-assault-and.md) _Context: Canadian_
+3. [The United States will end the temporary protected status program (TPS) for more than 300,000 refugees from El Salvador, Haiti, Honduras, and Nicaragua. Many of the refugees have already left for Canada, where it is easier to get asylum. ](/news/2017/11/4/the-united-states-will-end-the-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-el-salvador-haiti-honduras-an.md) _Context: Canadian_
+4. [Canada's left-leaning New Democratic Party elects Jagmeet Singh its leader. ](/news/2017/10/1/canada-s-left-leaning-new-democratic-party-elects-jagmeet-singh-its-leader.md) _Context: Canadian_
+5. [Winston Blackmore and James Oler, leaders of a polygamist Mormon sect in Canada, are convicted. ](/news/2017/07/24/winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-sect-in-canada-are-convicted.md) _Context: Canadian_

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/02/19/lt-gurgen-markarian-an-armenian-military-officer-attending-a-nato-partnership-for-peace-program-is-hacked-to-death-with-an-axe-and-a-kni.html)  [JSON](/news/2004/02/19/lt-gurgen-markarian-an-armenian-military-officer-attending-a-nato-partnership-for-peace-program-is-hacked-to-death-with-an-axe-and-a-kni.json)  [XML](/news/2004/02/19/lt-gurgen-markarian-an-armenian-military-officer-attending-a-nato-partnership-for-peace-program-is-hacked-to-death-with-an-axe-and-a-kni.xml)  
+
 ### [2004-02-19](/news/2004/02/19/index.md)
 
+##### Gurgen Markarian
 #  Lt. Gurgen Markarian, an Armenian military officer attending a NATO Partnership for Peace program, is hacked to death with an axe and a knife by Lt. Ramil Safarov, an Azerbaijani participant. The officers were attending an English language course at the Hungarian Military University within the framework of the Partnership for Peace program, which is aimed at increasing cooperation between neutral and former Soviet bloc nations and NATO in peacekeeping and other areas. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/aponline/international/AP-Armenian-Killed.html)
+1. [NYT](https://www.nytimes.com/aponline/international/AP-Armenian-Killed.html)
 
 ### Related:
 

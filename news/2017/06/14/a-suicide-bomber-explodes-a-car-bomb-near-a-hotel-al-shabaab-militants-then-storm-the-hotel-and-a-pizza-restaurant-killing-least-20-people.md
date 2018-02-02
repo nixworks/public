@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/14/a-suicide-bomber-explodes-a-car-bomb-near-a-hot
 
 ### [2017-06-14](/news/2017/06/14/index.md)
 
+##### War in Somalia
 # A suicide bomber explodes a car bomb near a hotel, al-Shabaab militants then storm the hotel and a pizza restaurant, killing least 20 people and taking others hostage, in Somalia's capital Mogadishu. All five attackers are later killed. 
 
 The Somalia-based extremist group al-Shabab often targets high-profile areas of Mogadishu.

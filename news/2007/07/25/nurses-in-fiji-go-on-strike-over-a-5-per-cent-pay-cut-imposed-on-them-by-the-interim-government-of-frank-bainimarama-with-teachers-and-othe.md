@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/25/nurses-in-fiji-go-on-strike-over-a-5-per-cent-pay-cut-imposed-on-them-by-the-interim-government-of-frank-bainimarama-with-teachers-and-othe.html)  [JSON](/news/2007/07/25/nurses-in-fiji-go-on-strike-over-a-5-per-cent-pay-cut-imposed-on-them-by-the-interim-government-of-frank-bainimarama-with-teachers-and-othe.json)  [XML](/news/2007/07/25/nurses-in-fiji-go-on-strike-over-a-5-per-cent-pay-cut-imposed-on-them-by-the-interim-government-of-frank-bainimarama-with-teachers-and-othe.xml)  
+
 ### [2007-07-25](/news/2007/07/25/index.md)
 
+##### Nurse
 #  Nurses in Fiji go on strike over a 5 per cent pay cut imposed on them by the interim government of Frank Bainimarama with teachers and other government workers to join them next week. 
 
 Nurses in Fiji are holding a national strike over a pay cut forced on them by the country&#039;s interim government.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/stories/2007/07/26/1989461.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

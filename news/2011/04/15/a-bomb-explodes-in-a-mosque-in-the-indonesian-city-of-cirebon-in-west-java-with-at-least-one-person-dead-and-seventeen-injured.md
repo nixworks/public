@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/15/a-bomb-explodes-in-a-mosque-in-the-indonesian-city-of-cirebon-in-west-java-with-at-least-one-person-dead-and-seventeen-injured.html)  [JSON](/news/2011/04/15/a-bomb-explodes-in-a-mosque-in-the-indonesian-city-of-cirebon-in-west-java-with-at-least-one-person-dead-and-seventeen-injured.json)  [XML](/news/2011/04/15/a-bomb-explodes-in-a-mosque-in-the-indonesian-city-of-cirebon-in-west-java-with-at-least-one-person-dead-and-seventeen-injured.xml)  
+
 ### [2011-04-15](/news/2011/04/15/index.md)
 
+##### A bomb explodes
 # A bomb explodes in a mosque in the Indonesian city of Cirebon in West Java with at least one person dead and seventeen injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jakarta Globe](http://www.thejakartaglobe.com/home/breaking-news-bomb-explodes-in-west-java-mosque-killing-1/435586)
 

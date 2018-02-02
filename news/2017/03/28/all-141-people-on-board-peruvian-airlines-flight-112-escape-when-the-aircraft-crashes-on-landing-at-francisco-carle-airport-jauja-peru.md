@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/28/all-141-people-on-board-peruvian-airlines-fligh
 
 ### [2017-03-28](/news/2017/03/28/index.md)
 
+##### Peruvian Airlines Flight 112
 # All 141 people on board Peruvian Airlines Flight 112 escape when the aircraft crashes on landing at Francisco Carle Airport, Jauja, Peru. 
 
 

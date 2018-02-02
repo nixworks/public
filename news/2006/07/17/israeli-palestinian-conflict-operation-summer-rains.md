@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/07/17/israeli-palestinian-conflict-operation-summer-rains.html)  [JSON](/news/2006/07/17/israeli-palestinian-conflict-operation-summer-rains.json)  [XML](/news/2006/07/17/israeli-palestinian-conflict-operation-summer-rains.xml)  
+
 ### [2006-07-17](/news/2006/07/17/index.md)
 
+##### Israeli-Palestinian conflict
 #  Israeli-Palestinian conflict (Operation Summer Rains)
 
 

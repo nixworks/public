@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/24/at-least-74-people-are-dead-and-many-others-inj
 
 ### [2016-11-24](/news/2016/11/24/index.md)
 
+##### Fengcheng power station scaffold collapse
 # At least 74 people are dead and many others injured and trapped after a construction platform at a power plant in the Chinese city of Fengcheng in Jiangxi province collapses. 
 
 At least 67 people die in an accident at a power station under construction in Jiangxi, China.

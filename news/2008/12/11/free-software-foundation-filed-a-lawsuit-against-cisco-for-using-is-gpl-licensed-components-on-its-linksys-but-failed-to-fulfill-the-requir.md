@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/12/11/free-software-foundation-filed-a-lawsuit-against-cisco-for-using-is-gpl-licensed-components-on-its-linksys-but-failed-to-fulfill-the-requir.html)  [JSON](/news/2008/12/11/free-software-foundation-filed-a-lawsuit-against-cisco-for-using-is-gpl-licensed-components-on-its-linksys-but-failed-to-fulfill-the-requir.json)  [XML](/news/2008/12/11/free-software-foundation-filed-a-lawsuit-against-cisco-for-using-is-gpl-licensed-components-on-its-linksys-but-failed-to-fulfill-the-requir.xml)  
+
 ### [2008-12-11](/news/2008/12/11/index.md)
 
+##### Free Software Foundation
 #  Free Software Foundation filed a lawsuit against Cisco for using is GPL-licensed components on its Linksys but failed to fulfill the requirements of the General Public License (GPL). 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Ars Technica](http://arstechnica.com/news.ars/post/20081211-free-software-foundation-lawsuit-against-cisco-a-first.html)
+1. [Ars Technica](https://arstechnica.com/news.ars/post/20081211-free-software-foundation-lawsuit-against-cisco-a-first.html)
 
 ### Related:
 

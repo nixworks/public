@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/12/23/a-plane-en-route-from-winnipeg-to-sanikiluaq-nunavut-crashes-with-nine-people-aboard-killing-a-six-month-old-child.html)  [JSON](/news/2012/12/23/a-plane-en-route-from-winnipeg-to-sanikiluaq-nunavut-crashes-with-nine-people-aboard-killing-a-six-month-old-child.json)  [XML](/news/2012/12/23/a-plane-en-route-from-winnipeg-to-sanikiluaq-nunavut-crashes-with-nine-people-aboard-killing-a-six-month-old-child.xml)  
+
 ### [2012-12-23](/news/2012/12/23/index.md)
 
+##### Winnipeg
 # A plane en route from Winnipeg to Sanikiluaq, Nunavut, crashes with nine people aboard, killing a six-month-old child. 
 
 A plane en route to Nunavut from Winnipeg has crashed with nine people aboard, killing a six-month-old boy, RCMP say.
 
 
-### Source:
+### Sources:
 
 1. [CBC News](http://www.cbc.ca/news/canada/north/story/2012/12/22/north-plane-crash.html)
-2. [The Globe and Mail](http://www.theglobeandmail.com/news/national/plane-crashes-in-nunavut-one-dead-airline-official/article6692718/)
+2. [The Globe and Mail](https://www.theglobeandmail.com/news/national/plane-crashes-in-nunavut-one-dead-airline-official/article6692718/)
 2. [Cover Image](https://i.cbc.ca/1.1530988.1379040160!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-perimeter-plane-852.jpg)
 
 ### Related:

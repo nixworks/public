@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/27/scientists-warn-that-a-devastating-influenza-epidemic-is-not-only-inevitable-but-may-be-imminent.html)  [JSON](/news/2003/11/27/scientists-warn-that-a-devastating-influenza-epidemic-is-not-only-inevitable-but-may-be-imminent.json)  [XML](/news/2003/11/27/scientists-warn-that-a-devastating-influenza-epidemic-is-not-only-inevitable-but-may-be-imminent.xml)  
+
 ### [2003-11-27](/news/2003/11/27/index.md)
 
+##### flu
 #  Scientists warn that a devastating influenza epidemic is not only inevitable but may be imminent.
 
 

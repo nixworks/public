@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/10/chechnya-s-terrorist-shamil-basayev-is-allegedly-killed-according-to-russian-authorities-he-was-said-to-have-been-killed-together-with-ot.html)  [JSON](/news/2006/07/10/chechnya-s-terrorist-shamil-basayev-is-allegedly-killed-according-to-russian-authorities-he-was-said-to-have-been-killed-together-with-ot.json)  [XML](/news/2006/07/10/chechnya-s-terrorist-shamil-basayev-is-allegedly-killed-according-to-russian-authorities-he-was-said-to-have-been-killed-together-with-ot.xml)  
+
 ### [2006-07-10](/news/2006/07/10/index.md)
 
+##### Chechnya
 #  Chechnya's terrorist Shamil Basayev is allegedly killed, according to Russian authorities. He was said to have been killed together with other Chechen fighters working with him at the time of his alleged death. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=newsOne&storyID=2006-07-10T123426Z_01_L10352175_RTRUKOC_0_US-RUSSIA-BASAYEV.xml)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

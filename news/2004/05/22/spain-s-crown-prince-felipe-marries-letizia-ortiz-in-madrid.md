@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/22/spain-s-crown-prince-felipe-marries-letizia-ortiz-in-madrid.html)  [JSON](/news/2004/05/22/spain-s-crown-prince-felipe-marries-letizia-ortiz-in-madrid.json)  [XML](/news/2004/05/22/spain-s-crown-prince-felipe-marries-letizia-ortiz-in-madrid.xml)  
+
 ### [2004-05-22](/news/2004/05/22/index.md)
 
+##### Felipe, Prince of Asturias
 #  Spain's Crown Prince Felipe marries Letizia Ortiz in Madrid. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg](http://quote.bloomberg.com/apps/news?pid=10000085&sid=af8e6AAULsKs&refer=europe)
 

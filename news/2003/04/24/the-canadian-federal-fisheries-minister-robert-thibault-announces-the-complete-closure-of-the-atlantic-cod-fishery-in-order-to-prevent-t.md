@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/24/the-canadian-federal-fisheries-minister-robert-thibault-announces-the-complete-closure-of-the-atlantic-cod-fishery-in-order-to-prevent-t.html)  [JSON](/news/2003/04/24/the-canadian-federal-fisheries-minister-robert-thibault-announces-the-complete-closure-of-the-atlantic-cod-fishery-in-order-to-prevent-t.json)  [XML](/news/2003/04/24/the-canadian-federal-fisheries-minister-robert-thibault-announces-the-complete-closure-of-the-atlantic-cod-fishery-in-order-to-prevent-t.xml)  
+
 ### [2003-04-24](/news/2003/04/24/index.md)
 
+##### cod
 #  The Canadian federal fisheries minister, Robert Thibault, announces the complete closure of the Atlantic cod fishery, in order to prevent the commercial extinction of cod.
 
 

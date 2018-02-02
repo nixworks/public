@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/24/several-tornadoes-affect-parts-of-great-britain-causing-severe-damage.html)  [JSON](/news/2007/09/24/several-tornadoes-affect-parts-of-great-britain-causing-severe-damage.json)  [XML](/news/2007/09/24/several-tornadoes-affect-parts-of-great-britain-causing-severe-damage.xml)  
+
 ### [2007-09-24](/news/2007/09/24/index.md)
 
+##### tornadoes
 #  Several tornadoes affect parts of Great Britain, causing severe damage. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/article/0,,30100-1285431,00.html)
 

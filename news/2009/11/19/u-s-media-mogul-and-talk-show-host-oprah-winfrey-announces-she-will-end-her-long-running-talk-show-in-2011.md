@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/19/u-s-media-mogul-and-talk-show-host-oprah-winfrey-announces-she-will-end-her-long-running-talk-show-in-2011.html)  [JSON](/news/2009/11/19/u-s-media-mogul-and-talk-show-host-oprah-winfrey-announces-she-will-end-her-long-running-talk-show-in-2011.json)  [XML](/news/2009/11/19/u-s-media-mogul-and-talk-show-host-oprah-winfrey-announces-she-will-end-her-long-running-talk-show-in-2011.xml)  
+
 ### [2009-11-19](/news/2009/11/19/index.md)
 
+##### Oprah Winfrey
 #  U.S. media mogul and talk show host Oprah Winfrey announces she will end her long running talk show in 2011. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Newser](http://www.newser.com/story/74442/oprah-ending-show-in-2011.html)
 1. [Cover Image](http://img2-azcdn.newser.com/image/310665-12-20150318182723.jpeg)

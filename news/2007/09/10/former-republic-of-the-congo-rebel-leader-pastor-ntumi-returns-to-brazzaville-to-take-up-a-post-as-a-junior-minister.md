@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/10/former-republic-of-the-congo-rebel-leader-pastor-ntumi-returns-to-brazzaville-to-take-up-a-post-as-a-junior-minister.html)  [JSON](/news/2007/09/10/former-republic-of-the-congo-rebel-leader-pastor-ntumi-returns-to-brazzaville-to-take-up-a-post-as-a-junior-minister.json)  [XML](/news/2007/09/10/former-republic-of-the-congo-rebel-leader-pastor-ntumi-returns-to-brazzaville-to-take-up-a-post-as-a-junior-minister.xml)  
+
 ### [2007-09-10](/news/2007/09/10/index.md)
 
+##### Republic of the Congo
 #  Former Republic of the Congo rebel leader Pastor Ntumi returns to Brazzaville to take up a post as a junior minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6986550.stm)
 

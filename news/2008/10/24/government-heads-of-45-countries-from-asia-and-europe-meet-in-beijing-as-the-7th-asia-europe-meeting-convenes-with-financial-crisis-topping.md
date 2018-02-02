@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/24/government-heads-of-45-countries-from-asia-and-europe-meet-in-beijing-as-the-7th-asia-europe-meeting-convenes-with-financial-crisis-topping.html)  [JSON](/news/2008/10/24/government-heads-of-45-countries-from-asia-and-europe-meet-in-beijing-as-the-7th-asia-europe-meeting-convenes-with-financial-crisis-topping.json)  [XML](/news/2008/10/24/government-heads-of-45-countries-from-asia-and-europe-meet-in-beijing-as-the-7th-asia-europe-meeting-convenes-with-financial-crisis-topping.xml)  
+
 ### [2008-10-24](/news/2008/10/24/index.md)
 
+##### Asia
 #  Government heads of 45 countries from Asia and Europe meet in Beijing as the 7th Asia-Europe Meeting convenes with financial crisis topping the agenda. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://www.xinhuanet.com/english/asem7/)
 

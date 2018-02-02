@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/28/the-prime-minister-of-fiji-laisenia-qarase-flies-to-new-zealand-to-hold-talks-with-commodore-frank-bainimarama-tomorrow-as-part-of-efforts.html)  [JSON](/news/2006/11/28/the-prime-minister-of-fiji-laisenia-qarase-flies-to-new-zealand-to-hold-talks-with-commodore-frank-bainimarama-tomorrow-as-part-of-efforts.json)  [XML](/news/2006/11/28/the-prime-minister-of-fiji-laisenia-qarase-flies-to-new-zealand-to-hold-talks-with-commodore-frank-bainimarama-tomorrow-as-part-of-efforts.xml)  
+
 ### [2006-11-28](/news/2006/11/28/index.md)
 
+##### Prime Minister
 #  The Prime Minister of Fiji Laisenia Qarase flies to New Zealand to hold talks with Commodore Frank Bainimarama tomorrow as part of efforts sponsored by the New Zealand Government to avert a coup d'etat. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP, AAP via News Limited](http://www.news.com.au/story/0,23599,20834993-401,00.html)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/6/michelin-unveils-its-first-michelin-guide-for-ba
 
 ### [2017-12-6](/news/2017/12/6/index.md)
 
+##### Michelin
 # Michelin unveils its first Michelin Guide for Bangkok, Thailand, which is the sixth city in Asia and second in Southeast Asia after Singapore. 
 
 

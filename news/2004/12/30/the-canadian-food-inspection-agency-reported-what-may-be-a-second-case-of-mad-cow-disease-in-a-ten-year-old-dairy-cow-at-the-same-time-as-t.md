@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/12/30/the-canadian-food-inspection-agency-reported-what-may-be-a-second-case-of-mad-cow-disease-in-a-ten-year-old-dairy-cow-at-the-same-time-as-t.html)  [JSON](/news/2004/12/30/the-canadian-food-inspection-agency-reported-what-may-be-a-second-case-of-mad-cow-disease-in-a-ten-year-old-dairy-cow-at-the-same-time-as-t.json)  [XML](/news/2004/12/30/the-canadian-food-inspection-agency-reported-what-may-be-a-second-case-of-mad-cow-disease-in-a-ten-year-old-dairy-cow-at-the-same-time-as-t.xml)  
+
 ### [2004-12-30](/news/2004/12/30/index.md)
 
+##### Canadian Food Inspection Agency
 #  The Canadian Food Inspection Agency reported what may be a second case of mad cow disease in a ten-year-old dairy cow at the same time as the U.S. Department of Agriculture announced an end to their ban on imports of live Canadian cattle. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000082&sid=ahh.1Ntcc5aw&refer=canada)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000082&sid=ahh.1Ntcc5aw&refer=canada)
 2. [International Herald Tribune](http://www.iht.com/articles/2004/12/30/news/cow.html)
 
 ### Related:

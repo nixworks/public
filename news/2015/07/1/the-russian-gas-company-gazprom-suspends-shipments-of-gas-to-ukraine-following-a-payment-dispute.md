@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/1/the-russian-gas-company-gazprom-suspends-shipments-of-gas-to-ukraine-following-a-payment-dispute.html)  [JSON](/news/2015/07/1/the-russian-gas-company-gazprom-suspends-shipments-of-gas-to-ukraine-following-a-payment-dispute.json)  [XML](/news/2015/07/1/the-russian-gas-company-gazprom-suspends-shipments-of-gas-to-ukraine-following-a-payment-dispute.xml)  
+
 ### [2015-07-1](/news/2015/07/1/index.md)
 
+##### Russia
 # The Russian gas company Gazprom suspends shipments of gas to Ukraine following a payment dispute. 
 
 Russian gas firm Gazprom halts gas supplies to Ukraine after Kiev suspends energy purchases following a breakdown on pricing talks.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-33341322)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/17397/production/_83972159_83972158.jpg)

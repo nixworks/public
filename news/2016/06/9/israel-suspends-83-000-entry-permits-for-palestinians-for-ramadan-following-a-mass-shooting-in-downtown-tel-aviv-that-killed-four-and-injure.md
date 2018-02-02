@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/9/israel-suspends-83-000-entry-permits-for-palesti
 
 ### [2016-06-9](/news/2016/06/9/index.md)
 
+##### Israeli-Palestinian conflict (2015-present)
 # Israel suspends 83,000 entry permits for Palestinians for Ramadan following a mass shooting in downtown Tel Aviv that killed four and injured 17 people. 
 
 Israel said Thursday it had suspended entry permits for 83,000 Palestinians during the holy Muslim month of Ramadan following a shooting in Tel Aviv that killed four people. &quot;All permits for Ramadan, especially permits for family visits from...

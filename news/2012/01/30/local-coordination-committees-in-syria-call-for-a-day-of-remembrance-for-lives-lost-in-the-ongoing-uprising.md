@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/30/local-coordination-committees-in-syria-call-for-a-day-of-remembrance-for-lives-lost-in-the-ongoing-uprising.html)  [JSON](/news/2012/01/30/local-coordination-committees-in-syria-call-for-a-day-of-remembrance-for-lives-lost-in-the-ongoing-uprising.json)  [XML](/news/2012/01/30/local-coordination-committees-in-syria-call-for-a-day-of-remembrance-for-lives-lost-in-the-ongoing-uprising.xml)  
+
 ### [2012-01-30](/news/2012/01/30/index.md)
 
+##### Local coordination committees
 # Local coordination committees in Syria call for a day of remembrance for lives lost in the ongoing uprising. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/01/29/world/meast/syria-unrest/index.html?eref=edition)
 

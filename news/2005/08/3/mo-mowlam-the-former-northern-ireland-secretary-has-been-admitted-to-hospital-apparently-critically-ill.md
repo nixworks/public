@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/3/mo-mowlam-the-former-northern-ireland-secretary-has-been-admitted-to-hospital-apparently-critically-ill.html)  [JSON](/news/2005/08/3/mo-mowlam-the-former-northern-ireland-secretary-has-been-admitted-to-hospital-apparently-critically-ill.json)  [XML](/news/2005/08/3/mo-mowlam-the-former-northern-ireland-secretary-has-been-admitted-to-hospital-apparently-critically-ill.xml)  
+
 ### [2005-08-3](/news/2005/08/3/index.md)
 
+##### Mo Mowlam
 #  Mo Mowlam, the former Northern Ireland Secretary, has been admitted to hospital, apparently critically ill. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/4739329.stm)
 

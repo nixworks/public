@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/6/ibm-requests-that-the-court-dismiss-the-sco-group-s-copyright-charges-against-it-with-prejudice.html)  [JSON](/news/2004/04/6/ibm-requests-that-the-court-dismiss-the-sco-group-s-copyright-charges-against-it-with-prejudice.json)  [XML](/news/2004/04/6/ibm-requests-that-the-court-dismiss-the-sco-group-s-copyright-charges-against-it-with-prejudice.xml)  
+
 ### [2004-04-6](/news/2004/04/6/index.md)
 
+##### IBM
 #  IBM requests that the court dismiss the SCO Group's copyright charges against it "with prejudice". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Salt Lake Tribune](http://www.sltrib.com/2004/Apr/04062004/business/154471.asp)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/3/according-to-afghan-police-eight-of-their-forces
 
 ### [2017-02-3](/news/2017/02/3/index.md)
 
+##### War in Afghanistan (2015-present)
 # According to Afghan Police, eight of their forces have been killed by the Taliban at a checkpoint in Faryab Province. 
 
 

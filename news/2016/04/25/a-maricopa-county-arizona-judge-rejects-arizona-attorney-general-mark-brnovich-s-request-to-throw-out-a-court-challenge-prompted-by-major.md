@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/25/a-maricopa-county-arizona-judge-rejects-arizona
 
 ### [2016-04-25](/news/2016/04/25/index.md)
 
+##### United States presidential election in Arizona, 2016
 # A Maricopa County, Arizona, judge rejects Arizona Attorney General Mark Brnovich's request to throw out a court challenge prompted by major polling problems during the March primary. 
 
 A Maricopa County judge Monday allowed a lawsuit stemming from Arizona&#39;s&nbsp; presidential preference election debacle &nbsp;to proceed against Arizona Secretary of State Michele Reagan.

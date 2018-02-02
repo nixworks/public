@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/18/seven-people-are-killed-and-20-injured-after-gunmen-open-fire-in-a-bar-in-puerto-rico.html)  [JSON](/news/2009/10/18/seven-people-are-killed-and-20-injured-after-gunmen-open-fire-in-a-bar-in-puerto-rico.json)  [XML](/news/2009/10/18/seven-people-are-killed-and-20-injured-after-gunmen-open-fire-in-a-bar-in-puerto-rico.xml)  
+
 ### [2009-10-18](/news/2009/10/18/index.md)
 
+##### Puerto Rico
 #  Seven people are killed and 20 injured after gunmen open fire in a bar in Puerto Rico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hTwfo3VmYGiRM_rMnwVdGPhG3lTQD9BDLEI02)
 

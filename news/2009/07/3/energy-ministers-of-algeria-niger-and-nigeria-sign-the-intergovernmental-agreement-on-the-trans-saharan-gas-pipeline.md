@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/07/3/energy-ministers-of-algeria-niger-and-nigeria-sign-the-intergovernmental-agreement-on-the-trans-saharan-gas-pipeline.html)  [JSON](/news/2009/07/3/energy-ministers-of-algeria-niger-and-nigeria-sign-the-intergovernmental-agreement-on-the-trans-saharan-gas-pipeline.json)  [XML](/news/2009/07/3/energy-ministers-of-algeria-niger-and-nigeria-sign-the-intergovernmental-agreement-on-the-trans-saharan-gas-pipeline.xml)  
+
 ### [2009-07-3](/news/2009/07/3/index.md)
 
+##### Algeria
 #  Energy ministers of Algeria, Niger and Nigeria sign the intergovernmental agreement on the Trans-Saharan gas pipeline. 
 
 * Three nations agree to build giant pipeline by 2015 * Trans-Saharan pipeline may help European energy security * Uncertainty over role o
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/8132823.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601116&sid=a3Ug7flkzUM8)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601116&sid=a3Ug7flkzUM8)
 3. [Reuters](http://uk.reuters.com/article/idUKL345766620090703?sp=true)
 3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 

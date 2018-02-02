@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/19/the-return-of-former-madagascan-president-marc-ravalomanana-in-exile-in-south-africa-is-blocked-by-the-government-on-the-island-tear-gas.html)  [JSON](/news/2011/02/19/the-return-of-former-madagascan-president-marc-ravalomanana-in-exile-in-south-africa-is-blocked-by-the-government-on-the-island-tear-gas.json)  [XML](/news/2011/02/19/the-return-of-former-madagascan-president-marc-ravalomanana-in-exile-in-south-africa-is-blocked-by-the-government-on-the-island-tear-gas.xml)  
+
 ### [2011-02-19](/news/2011/02/19/index.md)
 
+##### Madagascar
 # The return of former Madagascan President Marc Ravalomanana, in exile in South Africa, is blocked by the government on the island. Tear gas is fired to disperse supporters at the international airport. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iX6WKigrn0NtbNR07UlJjDpSvZqg?docId=CNG.aa700ed9ede281d705dd513aec1459f1.951)
 2. [Reuters](http://af.reuters.com/article/commoditiesNews/idAFLDE71I03I20110219?sp=true)

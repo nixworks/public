@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/24/an-investigation-reveals-that-several-dozen-staff-and-contractors-of-the-united-states-department-of-defense-some-with-high-level-security.html)  [JSON](/news/2010/07/24/an-investigation-reveals-that-several-dozen-staff-and-contractors-of-the-united-states-department-of-defense-some-with-high-level-security.json)  [XML](/news/2010/07/24/an-investigation-reveals-that-several-dozen-staff-and-contractors-of-the-united-states-department-of-defense-some-with-high-level-security.xml)  
+
 ### [2010-07-24](/news/2010/07/24/index.md)
 
+##### U.S. military
 # An investigation reveals that several dozen staff and contractors of the United States Department of Defense, some with high-level security clearances, allegedly downloaded child pornography; an undisclosed number did so on government-owned computers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Boston Globe](http://www.boston.com/news/nation/washington/articles/2010/07/23/pentagon_workers_tied_to_child_porn/)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/jul/24/pentagon-us-staff-downloaded-child-pornography)

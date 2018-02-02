@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/15/the-german-green-party-backs-chancellor-gerhard-schrapder-s-agenda-2010-with-more-than-90-of-all-votes-at-an-extraordinary-party-convent.html)  [JSON](/news/2003/06/15/the-german-green-party-backs-chancellor-gerhard-schrapder-s-agenda-2010-with-more-than-90-of-all-votes-at-an-extraordinary-party-convent.json)  [XML](/news/2003/06/15/the-german-green-party-backs-chancellor-gerhard-schrapder-s-agenda-2010-with-more-than-90-of-all-votes-at-an-extraordinary-party-convent.xml)  
+
 ### [2003-06-15](/news/2003/06/15/index.md)
 
+##### German Green Party
 #  The German Green Party backs Chancellor Gerhard Schroder's "Agenda 2010" with more than 90% of all votes at an extraordinary party convention.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/8/brodie-clark-head-of-the-uk-border-agency-resigns-after-saying-that-comments-made-by-home-secretary-theresa-may-amounted-to-constructive.html)  [JSON](/news/2011/11/8/brodie-clark-head-of-the-uk-border-agency-resigns-after-saying-that-comments-made-by-home-secretary-theresa-may-amounted-to-constructive.json)  [XML](/news/2011/11/8/brodie-clark-head-of-the-uk-border-agency-resigns-after-saying-that-comments-made-by-home-secretary-theresa-may-amounted-to-constructive.xml)  
+
 ### [2011-11-8](/news/2011/11/8/index.md)
 
+##### Brodie Clark
 # Brodie Clark, head of the UK Border Agency, resigns after saying that comments made by Home Secretary Theresa May amounted to "constructive dismissal", and states that he will launch legal proceedings against the government. 
 
 Brodie Clark, the head of the UK Border Force, leaves his job after being blamed for letting thousands of foreigners into the country without proper checks.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-15648367)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56494000/jpg/_56494384_013282021-1.jpg)

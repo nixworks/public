@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/12/irish-health-minister-mary-harney-is-targeted-with-eggs-and-cheese-by-protestors-shouting-bloody-mary-in-response-to-her-healthcare-fundin.html)  [JSON](/news/2010/11/12/irish-health-minister-mary-harney-is-targeted-with-eggs-and-cheese-by-protestors-shouting-bloody-mary-in-response-to-her-healthcare-fundin.json)  [XML](/news/2010/11/12/irish-health-minister-mary-harney-is-targeted-with-eggs-and-cheese-by-protestors-shouting-bloody-mary-in-response-to-her-healthcare-fundin.xml)  
+
 ### [2010-11-12](/news/2010/11/12/index.md)
 
+##### Mary Harney
 # Irish Health Minister Mary Harney is targeted with eggs and cheese by protestors shouting "Bloody Mary" in response to her healthcare funding cuts. It follows a similar incident involving red paint last week. 
 
 Protestors threw eggs and cheese at Health Minister Mary Harney&#39;s car as she arrived at the Mid Western Regional Hospital in Nenagh.
 
 
-### Source:
+### Sources:
 
 1. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/protestors-throw-eggs-and-cheese-at-harney-481576.html)
 2. [RTÉ](http://www.rte.ie/news/2010/1112/harneym.html)

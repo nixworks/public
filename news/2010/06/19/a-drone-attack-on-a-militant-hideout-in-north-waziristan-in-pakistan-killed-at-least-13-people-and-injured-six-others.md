@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/19/a-drone-attack-on-a-militant-hideout-in-north-waziristan-in-pakistan-killed-at-least-13-people-and-injured-six-others.html)  [JSON](/news/2010/06/19/a-drone-attack-on-a-militant-hideout-in-north-waziristan-in-pakistan-killed-at-least-13-people-and-injured-six-others.json)  [XML](/news/2010/06/19/a-drone-attack-on-a-militant-hideout-in-north-waziristan-in-pakistan-killed-at-least-13-people-and-injured-six-others.xml)  
+
 ### [2010-06-19](/news/2010/06/19/index.md)
 
+##### North Waziristan
 # A drone attack on a militant hideout in North Waziristan in Pakistan, killed at least 13 people and injured six others. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/06/19/pakistan.drone.attack/index.html?hpt=T2)
 

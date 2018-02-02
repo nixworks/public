@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/05/20/the-tmx-group-parent-corporation-of-the-toronto-stock-exchange-rejects-an-acquisition-offer-from-a-consortium-of-canadian-banks-opening-t.html)  [JSON](/news/2011/05/20/the-tmx-group-parent-corporation-of-the-toronto-stock-exchange-rejects-an-acquisition-offer-from-a-consortium-of-canadian-banks-opening-t.json)  [XML](/news/2011/05/20/the-tmx-group-parent-corporation-of-the-toronto-stock-exchange-rejects-an-acquisition-offer-from-a-consortium-of-canadian-banks-opening-t.xml)  
+
 ### [2011-05-20](/news/2011/05/20/index.md)
 
+##### TMX Group
 # The TMX Group, parent corporation of the Toronto Stock Exchange, rejects an acquisition offer from a consortium of Canadian banks, opening the way to an expected deal with the London Stock Exchange. 
 
 TMX Group, operator of the Toronto Stock Exchange, said on Friday its board has rejected a C$3.6 billion ($3.7 billion) takeover bid from a group of Canadian banks and pension funds.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/05/21/us-tmx-maple-idUSTRE74J6WV20110521)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110520&t=2&i=418852748&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-20T213024Z_01_BTRE74J1NQW00_RTROPTP_0_TMX)
+1. [Reuters](https://www.reuters.com/article/2011/05/21/us-tmx-maple-idUSTRE74J6WV20110521)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20110520&t=2&i=418852748&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-20T213024Z_01_BTRE74J1NQW00_RTROPTP_0_TMX)
 
 ### Related:
 

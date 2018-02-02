@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/16/three-chechens-are-charged-by-france-in-connection-with-a-conspiracy-to-attack-russia-another-man-is-released.html)  [JSON](/news/2010/07/16/three-chechens-are-charged-by-france-in-connection-with-a-conspiracy-to-attack-russia-another-man-is-released.json)  [XML](/news/2010/07/16/three-chechens-are-charged-by-france-in-connection-with-a-conspiracy-to-attack-russia-another-man-is-released.xml)  
+
 ### [2010-07-16](/news/2010/07/16/index.md)
 
+##### Chechnya
 # Three Chechens are charged by France in connection with a conspiracy to attack Russia; another man is released. 
 
 Three Chechens arrested in France may be linked to the Moscow metro suicide bombings, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10662581)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

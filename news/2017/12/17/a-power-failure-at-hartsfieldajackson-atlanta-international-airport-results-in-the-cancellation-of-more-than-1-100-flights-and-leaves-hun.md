@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/17/a-power-failure-at-hartsfieldajackson-atlanta-i
 
 ### [2017-12-17](/news/2017/12/17/index.md)
 
+##### Hartsfield-Jackson Atlanta International Airport
 # A power failure at Hartsfield-Jackson Atlanta International Airport results in the cancellation of more than 1,100 flights, and leaves hundreds of passengers stranded. 
 
 More than 1,150 flights into or out of Atlanta were canceled, and passengers were left in the dark at the world’s busiest airport for passenger traffic.

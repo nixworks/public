@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/16/david-triesman-baron-triesman-resigns-as-chairman-of-the-football-association-as-well-as-england-s-2018-fifa-world-cup-bid-after-his-entra.html)  [JSON](/news/2010/05/16/david-triesman-baron-triesman-resigns-as-chairman-of-the-football-association-as-well-as-england-s-2018-fifa-world-cup-bid-after-his-entra.json)  [XML](/news/2010/05/16/david-triesman-baron-triesman-resigns-as-chairman-of-the-football-association-as-well-as-england-s-2018-fifa-world-cup-bid-after-his-entra.xml)  
+
 ### [2010-05-16](/news/2010/05/16/index.md)
 
+##### David Triesman, Baron Triesman
 # David Triesman, Baron Triesman resigns as chairman of The Football Association as well as England's 2018 FIFA World Cup bid after his "entrapment" by "The Mail on Sunday" in which he suggested Spain could drop its bid if Russia bribed referees at the 2010 FIFA World Cup next month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/football/8685009.stm)
 2. [The Mail on Sunday](http://www.dailymail.co.uk/news/article-1278706/FA-chief-Lord-Triesman-Spain-bid-bribe-World-Cup-referees.html)

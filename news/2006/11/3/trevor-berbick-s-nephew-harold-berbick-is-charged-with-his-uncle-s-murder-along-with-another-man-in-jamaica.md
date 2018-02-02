@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/3/trevor-berbick-s-nephew-harold-berbick-is-charged-with-his-uncle-s-murder-along-with-another-man-in-jamaica.html)  [JSON](/news/2006/11/3/trevor-berbick-s-nephew-harold-berbick-is-charged-with-his-uncle-s-murder-along-with-another-man-in-jamaica.json)  [XML](/news/2006/11/3/trevor-berbick-s-nephew-harold-berbick-is-charged-with-his-uncle-s-murder-along-with-another-man-in-jamaica.xml)  
+
 ### [2006-11-3](/news/2006/11/3/index.md)
 
+##### Trevor Berbick
 #  Trevor Berbick's nephew Harold Berbick is charged with his uncle's murder along with another man in Jamaica. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6114020.stm)
 

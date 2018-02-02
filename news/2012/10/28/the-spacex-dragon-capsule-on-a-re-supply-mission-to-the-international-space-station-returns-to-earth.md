@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/28/the-spacex-dragon-capsule-on-a-re-supply-mission-to-the-international-space-station-returns-to-earth.html)  [JSON](/news/2012/10/28/the-spacex-dragon-capsule-on-a-re-supply-mission-to-the-international-space-station-returns-to-earth.json)  [XML](/news/2012/10/28/the-spacex-dragon-capsule-on-a-re-supply-mission-to-the-international-space-station-returns-to-earth.xml)  
+
 ### [2012-10-28](/news/2012/10/28/index.md)
 
+##### Dragon cargo capsule
 # The SpaceX Dragon capsule on a re-supply mission to the International Space Station returns to Earth. 
 
 A capsule owned by the private SpaceX company returns to Earth after the first commercial re-supply mission to the International Space Station.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-20118963)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/63768000/jpg/_63768344_63768343.jpg)

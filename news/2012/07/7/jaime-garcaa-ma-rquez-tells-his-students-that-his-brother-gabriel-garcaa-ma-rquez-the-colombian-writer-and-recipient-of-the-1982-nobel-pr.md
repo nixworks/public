@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/7/jaime-garcaa-ma-rquez-tells-his-students-that-his-brother-gabriel-garcaa-ma-rquez-the-colombian-writer-and-recipient-of-the-1982-nobel-pr.html)  [JSON](/news/2012/07/7/jaime-garcaa-ma-rquez-tells-his-students-that-his-brother-gabriel-garcaa-ma-rquez-the-colombian-writer-and-recipient-of-the-1982-nobel-pr.json)  [XML](/news/2012/07/7/jaime-garcaa-ma-rquez-tells-his-students-that-his-brother-gabriel-garcaa-ma-rquez-the-colombian-writer-and-recipient-of-the-1982-nobel-pr.xml)  
+
 ### [2012-07-7](/news/2012/07/7/index.md)
 
+##### Gabriel Garcia Marquez
 # Jaime Garcia Marquez tells his students that his brother Gabriel Garcia Marquez, the Colombian writer and recipient of the 1982 Nobel Prize for Literature, suffers from dementia that has ended his writing career. 
 
 The brother of Gabriel Garcia Marquez says the Colombian writer and Nobel laureate is suffering from dementia and has stopped writing.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18749389)
 2. [The Guardian](http://www.guardian.co.uk/books/2012/jul/07/gabriel-garcia-marquez-career-dementia)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/7/a-united-nations-backed-war-crimes-tribunal-sentences-former-khmer-rouge-leaders-khieu-samphan-and-nuon-chea-to-life-imprisonment-for-their.html)  [JSON](/news/2014/08/7/a-united-nations-backed-war-crimes-tribunal-sentences-former-khmer-rouge-leaders-khieu-samphan-and-nuon-chea-to-life-imprisonment-for-their.json)  [XML](/news/2014/08/7/a-united-nations-backed-war-crimes-tribunal-sentences-former-khmer-rouge-leaders-khieu-samphan-and-nuon-chea-to-life-imprisonment-for-their.xml)  
+
 ### [2014-08-7](/news/2014/08/7/index.md)
 
+##### United Nations
 # A United Nations backed war crimes tribunal sentences former Khmer Rouge leaders Khieu Samphan and Nuon Chea to life imprisonment for their roles in the Cambodian genocide that claimed a quarter of the population between 1975 and 1979. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-08-06-AS--Cambodia-Khmer%20Rouge%20Verdict/id-c914a618dc81447c9ce2c909fd9cb260)
 

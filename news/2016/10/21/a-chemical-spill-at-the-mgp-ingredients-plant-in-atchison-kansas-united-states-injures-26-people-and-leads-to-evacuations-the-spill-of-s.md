@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/21/a-chemical-spill-at-the-mgp-ingredients-plant-i
 
 ### [2016-10-21](/news/2016/10/21/index.md)
 
+##### Atchison, Kansas
 # A chemical spill at the MGP Ingredients plant in Atchison, Kansas, United States, injures 26 people and leads to evacuations. The spill of sodium hypochlorite and sulfuric acid produces a toxic fog. 
 
 

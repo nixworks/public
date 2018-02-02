@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/18/president-of-pakistan-pervez-musharraf-addresses-the-american-jewish-congress-the-first-leader-of-a-muslim-nation-not-recognizing-israel.html)  [JSON](/news/2005/09/18/president-of-pakistan-pervez-musharraf-addresses-the-american-jewish-congress-the-first-leader-of-a-muslim-nation-not-recognizing-israel.json)  [XML](/news/2005/09/18/president-of-pakistan-pervez-musharraf-addresses-the-american-jewish-congress-the-first-leader-of-a-muslim-nation-not-recognizing-israel.xml)  
+
 ### [2005-09-18](/news/2005/09/18/index.md)
 
+##### president
 #  President of Pakistan, Pervez Musharraf, addresses the American Jewish Congress, the first leader of a Muslim nation not recognizing Israel to do so. He broke bread and led salat from the Quran. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4257370.stm)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/03/27/the-level-of-radioactive-iodine-in-the-pacific-ocean-near-the-fukushima-i-nuclear-power-plant-reaches-1850-times-normal-levels-following-the.html)  [JSON](/news/2011/03/27/the-level-of-radioactive-iodine-in-the-pacific-ocean-near-the-fukushima-i-nuclear-power-plant-reaches-1850-times-normal-levels-following-the.json)  [XML](/news/2011/03/27/the-level-of-radioactive-iodine-in-the-pacific-ocean-near-the-fukushima-i-nuclear-power-plant-reaches-1850-times-normal-levels-following-the.xml)  
+
 ### [2011-03-27](/news/2011/03/27/index.md)
 
+##### radioactive iodine
 # The level of radioactive iodine in the Pacific Ocean near the Fukushima I Nuclear Power Plant reaches 1850 times normal levels following the recent accidents. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/03/27/us-japan-seawater-idUSTRE72Q04520110327?WT.tsrc=Social%20Media&WT.z_smid=twtr-reuters_%20com&WT.z_smid_dest=Twitter)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/03/27/us-japan-seawater-idUSTRE72Q04520110327?WT.tsrc=Social%20Media&WT.z_smid=twtr-reuters_%20com&WT.z_smid_dest=Twitter)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2014/05/9/bloomberg-reports-that-rupert-murdoch-plans-to-unite-various-european-pay-tv-entities-into-a-single-14-billion-entity.html)  [JSON](/news/2014/05/9/bloomberg-reports-that-rupert-murdoch-plans-to-unite-various-european-pay-tv-entities-into-a-single-14-billion-entity.json)  [XML](/news/2014/05/9/bloomberg-reports-that-rupert-murdoch-plans-to-unite-various-european-pay-tv-entities-into-a-single-14-billion-entity.xml)  
+
 ### [2014-05-9](/news/2014/05/9/index.md)
 
+##### Bloomberg
 # Bloomberg reports that Rupert Murdoch plans to unite various European pay TV entities into a single $14 billion entity. 
 
+Rupert Murdoch is pursuing a long-awaited transaction that would transform British Sky Broadcasting Group Plc into a European satellite-TV giant while also leaving his U.S.-based 21st Century Fox Inc. focused on entertainment programming.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2014-05-09/murdoch-said-to-prepare-14-billion-deal-to-combine-european-tv.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2014-05-09/murdoch-said-to-prepare-14-billion-deal-to-combine-european-tv.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-tech-7d25a852b6.jpg)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/5/kansas-city-southern-railway-names-francisco-javier-rion-as-the-new-ceo-succeeding-interim-ceo-vicente-corta-fernandez-for-its-subsidiary.html)  [JSON](/news/2005/07/5/kansas-city-southern-railway-names-francisco-javier-rion-as-the-new-ceo-succeeding-interim-ceo-vicente-corta-fernandez-for-its-subsidiary.json)  [XML](/news/2005/07/5/kansas-city-southern-railway-names-francisco-javier-rion-as-the-new-ceo-succeeding-interim-ceo-vicente-corta-fernandez-for-its-subsidiary.xml)  
+
 ### [2005-07-5](/news/2005/07/5/index.md)
 
+##### Kansas City Southern Railway
 #  Kansas City Southern Railway names Francisco Javier Rin as the new CEO, succeeding interim CEO Vicente Corta Fernandez, for its subsidiary Grupo Transportacin Ferroviaria Mexicana. Before joining TFM, Rin was president of Bombardier's Rail Control Solutions Division in London, England, from 2001 to 2005, president and managing director of Bombardier's Mexican division from 1995 to 2001, and general director of Dina Autobuses-Consorcin-Grupo Dina from 1991 to 1995. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Business Journal of Kansas City](http://kansascity.bizjournals.com/kansascity/stories/2005/07/04/daily3.html)
 2. [KCS](http://notes.kcsi.com/WebApps/kcspress.nsf/626e6035eadbb4cd85256499006b15a6/89b9a2419684c3fd86257035004de37c?OpenDocument)

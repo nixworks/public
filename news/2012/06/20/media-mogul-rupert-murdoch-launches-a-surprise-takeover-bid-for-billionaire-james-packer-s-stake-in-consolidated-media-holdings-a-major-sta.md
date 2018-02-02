@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/20/media-mogul-rupert-murdoch-launches-a-surprise-takeover-bid-for-billionaire-james-packer-s-stake-in-consolidated-media-holdings-a-major-sta.html)  [JSON](/news/2012/06/20/media-mogul-rupert-murdoch-launches-a-surprise-takeover-bid-for-billionaire-james-packer-s-stake-in-consolidated-media-holdings-a-major-sta.json)  [XML](/news/2012/06/20/media-mogul-rupert-murdoch-launches-a-surprise-takeover-bid-for-billionaire-james-packer-s-stake-in-consolidated-media-holdings-a-major-sta.xml)  
+
 ### [2012-06-20](/news/2012/06/20/index.md)
 
+##### Rupert Murdoch
 # Media mogul Rupert Murdoch launches a surprise takeover bid for billionaire James Packer's stake in Consolidated Media Holdings, a major stakeholder of Foxtel and Fox Sports Australia. 
 
 News unveils a $2b takeover bid for James Packer-controlled Consolidated Media even as the company prepares to cut newpaper staff.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/business/murdoch-wields-axe-and-cheque-book-20120620-20mw7.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/1/x/q/b/b/image.related.articleLeadwide.620x349.20mw7.png/1340778872293.jpg)

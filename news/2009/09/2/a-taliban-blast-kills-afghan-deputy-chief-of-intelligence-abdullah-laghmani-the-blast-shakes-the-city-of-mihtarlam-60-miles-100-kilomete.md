@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/2/a-taliban-blast-kills-afghan-deputy-chief-of-intelligence-abdullah-laghmani-the-blast-shakes-the-city-of-mihtarlam-60-miles-100-kilomete.html)  [JSON](/news/2009/09/2/a-taliban-blast-kills-afghan-deputy-chief-of-intelligence-abdullah-laghmani-the-blast-shakes-the-city-of-mihtarlam-60-miles-100-kilomete.json)  [XML](/news/2009/09/2/a-taliban-blast-kills-afghan-deputy-chief-of-intelligence-abdullah-laghmani-the-blast-shakes-the-city-of-mihtarlam-60-miles-100-kilomete.xml)  
+
 ### [2009-09-2](/news/2009/09/2/index.md)
 
+##### Taliban
 #  A Taliban blast kills Afghan deputy chief of intelligence Abdullah Laghmani. The blast shakes the city of Mihtarlam, 60 miles (100 kilometers) east of Kabul in Laghman Province; it kills several government officials and wounds several civilians. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abcnews.go.com/International/wireStory?id=8468948)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/1/shia-insurgency-in-yemen-ten-yemeni-soldiers-have-been-killed-and-20-wounded-in-a-fresh-attack-on-an-army-roadblock-a-security-source-say.html)  [JSON](/news/2007/02/1/shia-insurgency-in-yemen-ten-yemeni-soldiers-have-been-killed-and-20-wounded-in-a-fresh-attack-on-an-army-roadblock-a-security-source-say.json)  [XML](/news/2007/02/1/shia-insurgency-in-yemen-ten-yemeni-soldiers-have-been-killed-and-20-wounded-in-a-fresh-attack-on-an-army-roadblock-a-security-source-say.xml)  
+
 ### [2007-02-1](/news/2007/02/1/index.md)
 
+##### Shia insurgency in Yemen
 #  Shia insurgency in Yemen: Ten Yemeni soldiers have been killed and 20 wounded in a fresh attack on an army roadblock, a security source says. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/NR/exeres/24D55138-C57E-455A-93D3-7B29E3D21C93.htm)
 

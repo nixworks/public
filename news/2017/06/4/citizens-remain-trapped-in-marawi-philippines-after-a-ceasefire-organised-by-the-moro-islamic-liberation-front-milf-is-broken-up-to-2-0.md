@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/4/citizens-remain-trapped-in-marawi-philippines-af
 
 ### [2017-06-4](/news/2017/06/4/index.md)
 
+##### Marawi crisis
 # Citizens remain trapped in Marawi, Philippines, after a ceasefire organised by the Moro Islamic Liberation Front (MILF) is broken. Up to 2,000 people remain in need of help after nearly two weeks without food. 
 
 Fighting breaks despite a four-hour ceasefire, preventing hundreds of residents from leaving besieged city of Marawi. 

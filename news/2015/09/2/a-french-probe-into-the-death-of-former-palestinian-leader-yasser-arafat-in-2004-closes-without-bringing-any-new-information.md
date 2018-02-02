@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/2/a-french-probe-into-the-death-of-former-palestinian-leader-yasser-arafat-in-2004-closes-without-bringing-any-new-information.html)  [JSON](/news/2015/09/2/a-french-probe-into-the-death-of-former-palestinian-leader-yasser-arafat-in-2004-closes-without-bringing-any-new-information.json)  [XML](/news/2015/09/2/a-french-probe-into-the-death-of-former-palestinian-leader-yasser-arafat-in-2004-closes-without-bringing-any-new-information.xml)  
+
 ### [2015-09-2](/news/2015/09/2/index.md)
 
+##### France
 # A French probe into the death of former Palestinian leader Yasser Arafat in 2004 closes without bringing any new information. 
 
 French&#x20;judges&#x20;investigating&#x20;claims&#x20;that&#x20;Palestinian&#x20;leader&#x20;Yasser&#x20;Arafat&#x20;was&#x20;murdered&#x20;have&#x20;closed&#x20;the&#x20;case&#x20;without&#x20;bringing&#x20;any&#x20;charges,&#x20;a&#x20;prosecutor&#x20;said&#x20;Wednesday.
 
 
-### Source:
+### Sources:
 
 1. [Wires via France 24](http://www.france24.com/en/20150902-french-probe-finds-no-case-answer-arafat-death?ns_campaign=reseaux_sociaux&ns_source=twitter&ns_mchannel=social&ns_linkname=editorial&aef_campaign_ref=partage_aef&aef_campaign_date=2015-09-02&dlvrit=66745)
 1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/arafat-main_0.jpg)

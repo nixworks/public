@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/09/10/daniel-wayne-smith-son-of-anna-nicole-smith-dies-from-a-drug-overdose-just-three-days-after-his-half-sister-is-born.html)  [JSON](/news/2006/09/10/daniel-wayne-smith-son-of-anna-nicole-smith-dies-from-a-drug-overdose-just-three-days-after-his-half-sister-is-born.json)  [XML](/news/2006/09/10/daniel-wayne-smith-son-of-anna-nicole-smith-dies-from-a-drug-overdose-just-three-days-after-his-half-sister-is-born.xml)  
+
 ### [2006-09-10](/news/2006/09/10/index.md)
 
+##### Daniel Wayne Smith
 #  Daniel Wayne Smith, (son of Anna Nicole Smith), dies from a drug overdose just three days after his half-sister is born.
 
 

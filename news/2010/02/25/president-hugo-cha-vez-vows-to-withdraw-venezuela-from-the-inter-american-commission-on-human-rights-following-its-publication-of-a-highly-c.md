@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/25/president-hugo-cha-vez-vows-to-withdraw-venezuela-from-the-inter-american-commission-on-human-rights-following-its-publication-of-a-highly-c.html)  [JSON](/news/2010/02/25/president-hugo-cha-vez-vows-to-withdraw-venezuela-from-the-inter-american-commission-on-human-rights-following-its-publication-of-a-highly-c.json)  [XML](/news/2010/02/25/president-hugo-cha-vez-vows-to-withdraw-venezuela-from-the-inter-american-commission-on-human-rights-following-its-publication-of-a-highly-c.xml)  
+
 ### [2010-02-25](/news/2010/02/25/index.md)
 
+##### President
 # President Hugo Chavez vows to withdraw Venezuela from the Inter-American Commission on Human Rights following its publication of a highly critical report on human rights in the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/world/2010/feb/25/oas-report-chavez-human-rights)
 

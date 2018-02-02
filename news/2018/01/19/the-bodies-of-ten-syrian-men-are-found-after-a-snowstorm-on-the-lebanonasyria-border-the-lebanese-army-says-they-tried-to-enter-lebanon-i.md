@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/19/the-bodies-of-ten-syrian-men-are-found-after-a-
 
 ### [2018-01-19](/news/2018/01/19/index.md)
 
+##### Syria
 # The bodies of ten Syrian men are found after a snowstorm on the Lebanon-Syria border. The Lebanese Army says they tried to enter Lebanon illegally. Two presumed people smugglers are arrested. 
 
 The bodies of nine people were found Friday along a snow-covered smuggling route near the Masnaa border crossing between Lebanon and Syria, a Lebanese Army statement said.

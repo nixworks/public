@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/5/venezuela-celebrates-200-years-of-independence-from-spain-featuring-street-parties-and-a-military-parade.html)  [JSON](/news/2011/07/5/venezuela-celebrates-200-years-of-independence-from-spain-featuring-street-parties-and-a-military-parade.json)  [XML](/news/2011/07/5/venezuela-celebrates-200-years-of-independence-from-spain-featuring-street-parties-and-a-military-parade.xml)  
+
 ### [2011-07-5](/news/2011/07/5/index.md)
 
+##### Venezuela
 # Venezuela celebrates 200 years of independence from Spain featuring street parties and a military parade. 
 
 Venezuela marks the 200th anniversary of independence from Spain, a day after President Hugo Chavez made a surprise return from surgery in Cuba.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-14028095)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53884000/jpg/_53884009_012382349-1.jpg)

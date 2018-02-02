@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/26/american-film-director-jonathan-demme-winner-of
 
 ### [2017-04-26](/news/2017/04/26/index.md)
 
+##### Jonathan Demme
 # American film director Jonathan Demme, winner of the Academy Award for Best Director for "The Silence of the Lambs", dies of complications from esophageal cancer. 
 
 

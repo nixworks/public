@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/4/a-hunt-is-underway-for-a-thief-who-stole-the-heart-of-saint-laurence-o-toole-at-christ-church-cathedral-in-dublin.html)  [JSON](/news/2012/03/4/a-hunt-is-underway-for-a-thief-who-stole-the-heart-of-saint-laurence-o-toole-at-christ-church-cathedral-in-dublin.json)  [XML](/news/2012/03/4/a-hunt-is-underway-for-a-thief-who-stole-the-heart-of-saint-laurence-o-toole-at-christ-church-cathedral-in-dublin.xml)  
+
 ### [2012-03-4](/news/2012/03/4/index.md)
 
+##### thief
 # A hunt is underway for a thief who stole the heart of Saint Laurence O'Toole at Christ Church Cathedral in Dublin. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2012/mar/04/dublin-patron-saint-heart-stolen?CMP=twt_fd)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/04/2/microsoft-co-founder-bill-gates-is-in-vietnam-touring-medical-clinics-as-he-looks-to-support-the-development-of-vaccines-for-children-thro.html)  [JSON](/news/2007/04/2/microsoft-co-founder-bill-gates-is-in-vietnam-touring-medical-clinics-as-he-looks-to-support-the-development-of-vaccines-for-children-thro.json)  [XML](/news/2007/04/2/microsoft-co-founder-bill-gates-is-in-vietnam-touring-medical-clinics-as-he-looks-to-support-the-development-of-vaccines-for-children-thro.xml)  
+
 ### [2007-04-2](/news/2007/04/2/index.md)
 
+##### Microsoft
 #  Microsoft co-founder Bill Gates is in Vietnam, touring medical clinics as he looks to support the development of vaccines for children through the Bill and Melinda Gates Foundation. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://news.yahoo.com/s/ap/20070402/ap_on_re_as/people_gates;_ylt=Arx2b8LzZ9WzIB2Q_za53JGnxQ8F)
+1. [AP](https://news.yahoo.com/s/ap/20070402/ap_on_re_as/people_gates;_ylt=Arx2b8LzZ9WzIB2Q_za53JGnxQ8F)
 
 ### Related:
 

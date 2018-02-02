@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/29/australian-david-hicks-is-released-from-yatala-labour-prison-south-australia-after-his-jail-sentence-for-providing-material-support-for-t.html)  [JSON](/news/2007/12/29/australian-david-hicks-is-released-from-yatala-labour-prison-south-australia-after-his-jail-sentence-for-providing-material-support-for-t.json)  [XML](/news/2007/12/29/australian-david-hicks-is-released-from-yatala-labour-prison-south-australia-after-his-jail-sentence-for-providing-material-support-for-t.xml)  
+
 ### [2007-12-29](/news/2007/12/29/index.md)
 
+##### Australia
 #  Australian David Hicks is released from Yatala Labour Prison, South Australia, after his jail sentence for providing material support for terrorism ends, following his earlier detainment at Guantanamo Bay. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/12/29/2128751.htm?section=australia)
 1. [Cover Image](http://www.abc.net.au/news/image/999386-1x1-700x700.jpg)

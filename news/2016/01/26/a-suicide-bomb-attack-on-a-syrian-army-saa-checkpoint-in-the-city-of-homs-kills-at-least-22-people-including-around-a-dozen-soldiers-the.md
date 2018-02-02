@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/26/a-suicide-bomb-attack-on-a-syrian-army-saa-chec
 
 ### [2016-01-26](/news/2016/01/26/index.md)
 
+##### Syrian Civil War
 # A suicide bomb attack on a Syrian Army (SAA) checkpoint in the city of Homs kills at least 22 people, including around a dozen soldiers. The Islamic State of Iraq and the Levant claims responsibility for the attack. 
 
 Syrian pro-government forces captured a strategic southern rebel town close to the Jordanian border after weeks of fighting, a monitor said on Tuesday. The Syrian Observatory for Human Rights said regime troops and allied militia including fighters from Lebanon&#x27;s Hezbollah movement and Iranian officers

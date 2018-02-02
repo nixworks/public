@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/08/28/colombian-president-juan-manuel-santos-announces-the-start-of-preliminary-peace-talks-with-the-farc-ep-guerrilla-group.html)  [JSON](/news/2012/08/28/colombian-president-juan-manuel-santos-announces-the-start-of-preliminary-peace-talks-with-the-farc-ep-guerrilla-group.json)  [XML](/news/2012/08/28/colombian-president-juan-manuel-santos-announces-the-start-of-preliminary-peace-talks-with-the-farc-ep-guerrilla-group.xml)  
+
 ### [2012-08-28](/news/2012/08/28/index.md)
 
+##### Juan Manuel Santos
 # Colombian president Juan Manuel Santos announces the start of preliminary peace talks with the FARC-EP guerrilla group. 
 
 President&rsquo;s announcement of talks with rebel commanders prompts cautious optimism.
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/world/the_americas/colombia-explores-peace-talks-with-farc/2012/08/28/7a1fcae2-f152-11e1-b74c-84ed55e0300b_story.html)
+1. [Washington Post](https://www.washingtonpost.com/world/the_americas/colombia-explores-peace-talks-with-farc/2012/08/28/7a1fcae2-f152-11e1-b74c-84ed55e0300b_story.html)
 
 ### Related:
 

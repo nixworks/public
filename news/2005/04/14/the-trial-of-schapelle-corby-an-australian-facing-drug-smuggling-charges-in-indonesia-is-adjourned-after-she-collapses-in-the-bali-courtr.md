@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/14/the-trial-of-schapelle-corby-an-australian-facing-drug-smuggling-charges-in-indonesia-is-adjourned-after-she-collapses-in-the-bali-courtr.html)  [JSON](/news/2005/04/14/the-trial-of-schapelle-corby-an-australian-facing-drug-smuggling-charges-in-indonesia-is-adjourned-after-she-collapses-in-the-bali-courtr.json)  [XML](/news/2005/04/14/the-trial-of-schapelle-corby-an-australian-facing-drug-smuggling-charges-in-indonesia-is-adjourned-after-she-collapses-in-the-bali-courtr.xml)  
+
 ### [2005-04-14](/news/2005/04/14/index.md)
 
+##### Schapelle Corby
 #  The trial of Schapelle Corby, an Australian facing drug smuggling charges in Indonesia, is adjourned after she collapses in the Bali courtroom. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/newsitems/200504/s1345433.htm)
 

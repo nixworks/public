@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/23/a-series-of-explosions-on-a-military-base-near-
 
 ### [2017-03-23](/news/2017/03/23/index.md)
 
+##### Ukraine
 # A series of explosions on a military base near the Ukrainian city of Balakliya forces thousands to be evacuated from their homes. 
 
 The dump is used to supply the military in the east and officials say the blasts were sabotage.
@@ -15,8 +16,8 @@ The dump is used to supply the military in the east and officials say the blasts
 
 ### Related:
 
-1. [Security researchers report on the outbreak of the ransomware nicknamed Bad Rabbit, which has affected computer networks throughout the world, with Russia and Ukraine being the worst affected. ](/news/2017/10/24/security-researchers-report-on-the-outbreak-of-the-ransomware-nicknamed-bad-rabbit-which-has-affected-computer-networks-throughout-the-worl.md) _Context: Ukraine_
-2. [Eleven anti-corruption protestors are detained in Kiev, Ukraine, where police attempted to enter a protestor camp near the parliament building. ](/news/2017/10/18/eleven-anti-corruption-protestors-are-detained-in-kiev-ukraine-where-police-attempted-to-enter-a-protestor-camp-near-the-parliament-buildi.md) _Context: Ukraine_
-3. [Three protestors and one police officer are injured in clashes between anti-corruption demonstrators and Ukrainian police in front of the parliament building in Kiev, Ukraine. ](/news/2017/10/17/three-protestors-and-one-police-officer-are-injured-in-clashes-between-anti-corruption-demonstrators-and-ukrainian-police-in-front-of-the-pa.md) _Context: Ukraine_
-4. [Thirty thousand people are evacuated from Kalynivka, Ukraine, following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-from-kalynivka-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-gov.md) _Context: Ukraine_
-5. [The International Institute for Strategic Studies releases a report arguing that North Korea has acquired a high-performance liquid-propellant engine for its missile program, probably from illicit networks in Russia and Ukraine, likely produced by Yuzhmash facilities. Ukraine denies the allegations. ](/news/2017/08/14/the-international-institute-for-strategic-studies-releases-a-report-arguing-that-north-korea-has-acquired-a-high-performance-liquid-propella.md) _Context: Ukraine_
+1. [A man strapped with explosives takes 11 people hostage in Kharkiv, Ukraine. The Ukrainian police free all the hostages and arrest the man. ](/news/2017/12/30/a-man-strapped-with-explosives-takes-11-people-hostage-in-kharkiv-ukraine-the-ukrainian-police-free-all-the-hostages-and-arrest-the-man.md) _Context: Ukraine_
+2. [Ukraine exchanges hundreds of prisoners with the Donetsk People's Republic and Luhansk People's Republic. ](/news/2017/12/27/ukraine-exchanges-hundreds-of-prisoners-with-the-donetsk-people-s-republic-and-luhansk-people-s-republic.md) _Context: Ukraine_
+3. [Security researchers report on the outbreak of the ransomware nicknamed Bad Rabbit, which has affected computer networks throughout the world, with Russia and Ukraine being the worst affected. ](/news/2017/10/24/security-researchers-report-on-the-outbreak-of-the-ransomware-nicknamed-bad-rabbit-which-has-affected-computer-networks-throughout-the-worl.md) _Context: Ukraine_
+4. [Eleven anti-corruption protestors are detained in Kiev, Ukraine, where police attempted to enter a protestor camp near the parliament building. ](/news/2017/10/18/eleven-anti-corruption-protestors-are-detained-in-kiev-ukraine-where-police-attempted-to-enter-a-protestor-camp-near-the-parliament-buildi.md) _Context: Ukraine_
+5. [Three protestors and one police officer are injured in clashes between anti-corruption demonstrators and Ukrainian police in front of the parliament building in Kiev, Ukraine. ](/news/2017/10/17/three-protestors-and-one-police-officer-are-injured-in-clashes-between-anti-corruption-demonstrators-and-ukrainian-police-in-front-of-the-pa.md) _Context: Ukraine_

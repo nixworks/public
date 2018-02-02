@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/4/exploration-of-mars-american-mars-probe-spirit-mission-is-successful-and-is-sending-back-images-spirit-is-alive-after-rolling-to-a-stop.html)  [JSON](/news/2004/01/4/exploration-of-mars-american-mars-probe-spirit-mission-is-successful-and-is-sending-back-images-spirit-is-alive-after-rolling-to-a-stop.json)  [XML](/news/2004/01/4/exploration-of-mars-american-mars-probe-spirit-mission-is-successful-and-is-sending-back-images-spirit-is-alive-after-rolling-to-a-stop.xml)  
+
 ### [2004-01-4](/news/2004/01/4/index.md)
 
+##### route
 #  Exploration of Mars: American Mars probe "Spirit" mission is successful and is sending back images. Spirit is alive after rolling to a stop on the surface of Mars; confirmed by NASA's Deep Space Network (9:00 p.m. PST).
 
 

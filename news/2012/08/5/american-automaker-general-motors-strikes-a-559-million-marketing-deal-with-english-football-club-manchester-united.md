@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/5/american-automaker-general-motors-strikes-a-559-million-marketing-deal-with-english-football-club-manchester-united.html)  [JSON](/news/2012/08/5/american-automaker-general-motors-strikes-a-559-million-marketing-deal-with-english-football-club-manchester-united.json)  [XML](/news/2012/08/5/american-automaker-general-motors-strikes-a-559-million-marketing-deal-with-english-football-club-manchester-united.xml)  
+
 ### [2012-08-5](/news/2012/08/5/index.md)
 
+##### General Motors
 # American automaker General Motors strikes a $559 million marketing deal with English football club Manchester United. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/2012/08/04/soccer-manchesterunited-jerseys-idINL2E8J42PP20120804)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/23/the-israeli-knesset-passes-a-new-law-which-requires-the-state-to-fine-local-authorities-and-other-state-funded-bodies-for-denying-israel-as.html)  [JSON](/news/2011/03/23/the-israeli-knesset-passes-a-new-law-which-requires-the-state-to-fine-local-authorities-and-other-state-funded-bodies-for-denying-israel-as.json)  [XML](/news/2011/03/23/the-israeli-knesset-passes-a-new-law-which-requires-the-state-to-fine-local-authorities-and-other-state-funded-bodies-for-denying-israel-as.xml)  
+
 ### [2011-03-23](/news/2011/03/23/index.md)
 
+##### Israel
 # The Israeli Knesset passes a new law which requires the state to fine local authorities and other state-funded bodies for denying Israel as Jewish, democratic state or supporting racism, armed resistance against Israel, or desecrating the state flag or national symbols, including holding events marking Nakba Day.
 
 Arab, left-wing MKs fume as bill allowing small communities to reject residents also approved. MK Tibi invokes Nazi &#39;final solutiion&#39; while ACRI files petition with High Court saying bill sanctions discrimination against Arabs, haredim
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12837953)
 2. [The Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=213396)

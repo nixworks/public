@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/23/a-man-is-shot-dead-in-a-clash-between-police-and-supporters-of-ousted-honduran-president-manuel-zelaya-believed-to-be-the-first-death-sinc.html)  [JSON](/news/2009/09/23/a-man-is-shot-dead-in-a-clash-between-police-and-supporters-of-ousted-honduran-president-manuel-zelaya-believed-to-be-the-first-death-sinc.json)  [XML](/news/2009/09/23/a-man-is-shot-dead-in-a-clash-between-police-and-supporters-of-ousted-honduran-president-manuel-zelaya-believed-to-be-the-first-death-sinc.xml)  
+
 ### [2009-09-23](/news/2009/09/23/index.md)
 
+##### Honduras
 #  A man is shot dead in a clash between police and supporters of ousted Honduran President Manuel Zelaya, believed to be the first death since his return to the country. 
 
 A man has been shot dead in a clash between police and supporters of ousted Honduran President Manuel Zelaya.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0923/honduras.html)
 1. [Cover Image](https://img.rasset.ie/000267ba-1600.jpg)

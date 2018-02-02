@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/30/colombian-soldier-pablo-emilio-moncayo-is-released-after-12-years-in-farc-captivity.html)  [JSON](/news/2010/03/30/colombian-soldier-pablo-emilio-moncayo-is-released-after-12-years-in-farc-captivity.json)  [XML](/news/2010/03/30/colombian-soldier-pablo-emilio-moncayo-is-released-after-12-years-in-farc-captivity.xml)  
+
 ### [2010-03-30](/news/2010/03/30/index.md)
 
+##### Colombia
 # Colombian soldier Pablo Emilio Moncayo is released after 12 years in FARC captivity. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8595140.stm)
 

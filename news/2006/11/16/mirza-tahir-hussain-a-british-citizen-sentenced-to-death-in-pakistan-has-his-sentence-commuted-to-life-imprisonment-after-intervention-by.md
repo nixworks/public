@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/16/mirza-tahir-hussain-a-british-citizen-sentenced-to-death-in-pakistan-has-his-sentence-commuted-to-life-imprisonment-after-intervention-by.html)  [JSON](/news/2006/11/16/mirza-tahir-hussain-a-british-citizen-sentenced-to-death-in-pakistan-has-his-sentence-commuted-to-life-imprisonment-after-intervention-by.json)  [XML](/news/2006/11/16/mirza-tahir-hussain-a-british-citizen-sentenced-to-death-in-pakistan-has-his-sentence-commuted-to-life-imprisonment-after-intervention-by.xml)  
+
 ### [2006-11-16](/news/2006/11/16/index.md)
 
+##### Mirza Tahir Hussain
 #  Mirza Tahir Hussain, a British citizen sentenced to death in Pakistan, has his sentence commuted to life imprisonment after intervention by the President of Pakistan, Pervez Musharraf. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6153198.stm)
 

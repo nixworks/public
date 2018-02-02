@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/15/twenty-one-organizers-for-the-eurovision-song-c
 
 ### [2017-02-15](/news/2017/02/15/index.md)
 
+##### Eurovision Song Contest
 # Twenty-one organizers for the Eurovision Song Contest in Kiev, Ukraine, resign en masse after claiming they were completely blocked from making decisions about the show. Despite the setback, the European Broadcasting Union insists that the event must go on. 
 
 The Eurovision Song Contest hits a major road bump, as 21 top level staff resign.

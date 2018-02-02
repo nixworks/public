@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/16/a-suicide-bombing-at-a-mosque-in-mohmand-agency
 
 ### [2016-09-16](/news/2016/09/16/index.md)
 
+##### War in North-West Pakistan
 # A suicide bombing at a mosque in Mohmand Agency kills at least 28 people and injures 31 others. Jamaat-ul-Ahrar claims the responsibility. 
 
 At least 25 people have been killed in a suicide bombing claimed by a Taliban splinter group at a mosque in Pakistan. The blast struck as Muslims gathered for Friday prayers in the village of Payee Khan in Mohmand Agency district. “The suicide bomber was in crowded mosque, he shouted &#039;Allahu Akbar&#039;, and then there was a huge blast,” Naveed Akbar, deputy administrator of the region, told Reuters.

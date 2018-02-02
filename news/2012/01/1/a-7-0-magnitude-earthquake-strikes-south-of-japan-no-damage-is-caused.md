@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2012/01/1/a-7-0-magnitude-earthquake-strikes-south-of-japan-no-damage-is-caused.html)  [JSON](/news/2012/01/1/a-7-0-magnitude-earthquake-strikes-south-of-japan-no-damage-is-caused.json)  [XML](/news/2012/01/1/a-7-0-magnitude-earthquake-strikes-south-of-japan-no-damage-is-caused.xml)  
+
 ### [2012-01-1](/news/2012/01/1/index.md)
 
+##### earthquake
 # A 7.0-magnitude earthquake strikes south of Japan; no damage is caused. 
 
 A strong earthquake with a magnitude of 7.0 jolted eastern and northeastern Japan on Sunday, but there were no immediate reports of injuries or damages and no tsunami warning was issued.
 
 
-### Source:
+### Sources:
 
 1. [Newsday](http://www.newsday.com/news/nation/magnitude-7-0-quake-strikes-off-coast-of-japan-1.3421609)
-2. [Reuters](http://www.reuters.com/article/2012/01/01/us-japan-earthquake-idUSTRE80003020120101)
+2. [Reuters](https://www.reuters.com/article/2012/01/01/us-japan-earthquake-idUSTRE80003020120101)
 3. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970203462304577134451283011774.html)
-3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120101&t=2&i=553287427&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE8000WOZ00)
+3. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120101&t=2&i=553287427&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE8000WOZ00)
 
 ### Related:
 

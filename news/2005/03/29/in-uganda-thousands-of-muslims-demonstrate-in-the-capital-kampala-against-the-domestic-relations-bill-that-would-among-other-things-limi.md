@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/29/in-uganda-thousands-of-muslims-demonstrate-in-the-capital-kampala-against-the-domestic-relations-bill-that-would-among-other-things-limi.html)  [JSON](/news/2005/03/29/in-uganda-thousands-of-muslims-demonstrate-in-the-capital-kampala-against-the-domestic-relations-bill-that-would-among-other-things-limi.json)  [XML](/news/2005/03/29/in-uganda-thousands-of-muslims-demonstrate-in-the-capital-kampala-against-the-domestic-relations-bill-that-would-among-other-things-limi.xml)  
+
 ### [2005-03-29](/news/2005/03/29/index.md)
 
+##### Uganda
 #  In Uganda, thousands of Muslims demonstrate in the capital Kampala against the Domestic Relations Bill that would, among other things, limit polygamy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica](http://allafrica.com/stories/200503290768.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4391067.stm)

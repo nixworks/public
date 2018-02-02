@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/06/4/new-iraqi-prime-minister-iyad-allawi-gives-his-first-televised-national-address-five-u-s-soldiers-are-killed-and-another-five-wounded-when.html)  [JSON](/news/2004/06/4/new-iraqi-prime-minister-iyad-allawi-gives-his-first-televised-national-address-five-u-s-soldiers-are-killed-and-another-five-wounded-when.json)  [XML](/news/2004/06/4/new-iraqi-prime-minister-iyad-allawi-gives-his-first-televised-national-address-five-u-s-soldiers-are-killed-and-another-five-wounded-when.xml)  
+
 ### [2004-06-4](/news/2004/06/4/index.md)
 
+##### Iyad Allawi
 #  New Iraqi Prime Minister Iyad Allawi gives his first televised national address. Five U.S soldiers are killed and another five wounded when their convoy comes under attack from roadside bombs and RPGs near Sadr City. The Mahdi Army agrees to a truce in Najaf with U.S forces and vows to withdraw if the Americans make a similar commitment.
 
 

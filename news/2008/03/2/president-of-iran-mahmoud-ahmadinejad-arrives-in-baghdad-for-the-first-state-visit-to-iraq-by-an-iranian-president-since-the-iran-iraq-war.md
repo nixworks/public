@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/2/president-of-iran-mahmoud-ahmadinejad-arrives-in-baghdad-for-the-first-state-visit-to-iraq-by-an-iranian-president-since-the-iran-iraq-war.html)  [JSON](/news/2008/03/2/president-of-iran-mahmoud-ahmadinejad-arrives-in-baghdad-for-the-first-state-visit-to-iraq-by-an-iranian-president-since-the-iran-iraq-war.json)  [XML](/news/2008/03/2/president-of-iran-mahmoud-ahmadinejad-arrives-in-baghdad-for-the-first-state-visit-to-iraq-by-an-iranian-president-since-the-iran-iraq-war.xml)  
+
 ### [2008-03-2](/news/2008/03/2/index.md)
 
+##### President
 #  President of Iran Mahmoud Ahmadinejad arrives in Baghdad for the first state visit to Iraq by an Iranian president since the Iran-Iraq War. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Hindu](http://www.hindu.com/thehindu/holnus/003200803020914.htm)
 

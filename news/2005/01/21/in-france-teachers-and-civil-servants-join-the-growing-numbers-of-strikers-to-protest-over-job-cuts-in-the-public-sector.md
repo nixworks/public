@@ -1,20 +1,24 @@
+
+Formats: [HTML](/news/2005/01/21/in-france-teachers-and-civil-servants-join-the-growing-numbers-of-strikers-to-protest-over-job-cuts-in-the-public-sector.html)  [JSON](/news/2005/01/21/in-france-teachers-and-civil-servants-join-the-growing-numbers-of-strikers-to-protest-over-job-cuts-in-the-public-sector.json)  [XML](/news/2005/01/21/in-france-teachers-and-civil-servants-join-the-growing-numbers-of-strikers-to-protest-over-job-cuts-in-the-public-sector.xml)  
+
 ### [2005-01-21](/news/2005/01/21/index.md)
 
+##### France
 #  In France, teachers and civil servants join the growing numbers of strikers to protest over job cuts in the public sector. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4190275.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7385592)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7385592)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
-1. [ Teachers in Zimbabwe will end their strike action upon receiving government aid. ](/news/2009/02/24/teachers-in-zimbabwe-will-end-their-strike-action-upon-receiving-government-aid.md) _Context: strike, teacher_
-2. [ French workers strike to force a better response from President Nicolas Sarkozy to the global financial crisis. ](/news/2009/01/29/french-workers-strike-to-force-a-better-response-from-president-nicolas-sarkozy-to-the-global-financial-crisis.md) _Context: France, strike_
-3. [ A 24-hour strike by employees of the National Railway Company of Belgium ends rail services in Belgium and to France, Germany and the Netherlands. ](/news/2008/05/20/a-24-hour-strike-by-employees-of-the-national-railway-company-of-belgium-ends-rail-services-in-belgium-and-to-france-germany-and-the-nethe.md) _Context: France, strike_
-4. [ Strikes in France: French train drivers' strike against President Nicolas Sarkozy's pension reform enters its third day. ](/news/2007/11/16/strikes-in-france-french-train-drivers-strike-against-president-nicolas-sarkozy-s-pension-reform-enters-its-third-day.md) _Context: France, strike_
-5. [ Strikes in France: French transport workers' strike against President Nicolas Sarkozy's pension reform enters its second day, but energy workers and CFDT members return to work. ](/news/2007/11/15/strikes-in-france-french-transport-workers-strike-against-president-nicolas-sarkozy-s-pension-reform-enters-its-second-day-but-energy-wo.md) _Context: France, strike_
+1. [ French transport and energy workers' strike against President Nicolas Sarkozy's pension reform broadens, disrupting especially rail services. ](/news/2007/11/14/french-transport-and-energy-workers-strike-against-president-nicolas-sarkozy-s-pension-reform-broadens-disrupting-especially-rail-service.md) _Context: France, strike_
+2. [During a session of the United Nations Security Council, the United States repeat its "unapologetic" support for the ongoing Iranian protests. Russia denounces the "veiled [U.S.] attempt to use the current moment to continue to undermine" the JCPOA. France calls to "be wary of any attempt to exploit this crisis for personal ends". ](/news/2018/01/5/during-a-session-of-the-united-nations-security-council-the-united-states-repeat-its-unapologetic-support-for-the-ongoing-iranian-protest.md) _Context: France_
+3. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: France_
+4. [Paris Zoological Park, France, is evacuated and closed after dozens of baboons escape their enclosure. ](/news/2018/01/26/paris-zoological-park-france-is-evacuated-and-closed-after-dozens-of-baboons-escape-their-enclosure.md) _Context: France_
+5. [France's Foreign Minister Jean-Yves Le Drian calls for an emergency meeting of the United Nations Security Council to address the Turkish incursion into Northern Syria's Afrin Region. The UNSC will convene on Monday. ](/news/2018/01/21/france-s-foreign-minister-jean-yves-le-drian-calls-for-an-emergency-meeting-of-the-united-nations-security-council-to-address-the-turkish-in.md) _Context: France_

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/16/oliver-ivanovia-the-head-politician-of-the-koso
 
 ### [2018-01-16](/news/2018/01/16/index.md)
 
+##### Terrorism in Kosovo
 # Oliver Ivanovic, the head politician of the Kosovo Serb party Freedom, Democracy, Justice, is killed outside his office in North Mitrovica in a drive-by shooting. Aleksandar Vucic, the President of Serbia says his government treats this as an act of terrorism. 
 
 Several shots were fired at Oliver Ivanovic outside his office in the northern city of Mitrovica.

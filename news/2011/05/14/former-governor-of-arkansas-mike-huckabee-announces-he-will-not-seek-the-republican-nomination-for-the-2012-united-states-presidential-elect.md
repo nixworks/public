@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/05/14/former-governor-of-arkansas-mike-huckabee-announces-he-will-not-seek-the-republican-nomination-for-the-2012-united-states-presidential-elect.html)  [JSON](/news/2011/05/14/former-governor-of-arkansas-mike-huckabee-announces-he-will-not-seek-the-republican-nomination-for-the-2012-united-states-presidential-elect.json)  [XML](/news/2011/05/14/former-governor-of-arkansas-mike-huckabee-announces-he-will-not-seek-the-republican-nomination-for-the-2012-united-states-presidential-elect.xml)  
+
 ### [2011-05-14](/news/2011/05/14/index.md)
 
+##### Governor of Arkansas
 # Former Governor of Arkansas Mike Huckabee announces he will not seek the Republican nomination for the 2012 United States presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/blogs/the-fix/post/mike-huckabee-wont-run-for-president-in-2012/2011/05/14/AFGcpk3G_blog.html)
+1. [The Washington Post](https://www.washingtonpost.com/blogs/the-fix/post/mike-huckabee-wont-run-for-president-in-2012/2011/05/14/AFGcpk3G_blog.html)
 
 ### Related:
 

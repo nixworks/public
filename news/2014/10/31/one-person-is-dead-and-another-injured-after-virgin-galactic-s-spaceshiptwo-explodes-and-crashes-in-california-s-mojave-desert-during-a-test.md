@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/31/one-person-is-dead-and-another-injured-after-virgin-galactic-s-spaceshiptwo-explodes-and-crashes-in-california-s-mojave-desert-during-a-test.html)  [JSON](/news/2014/10/31/one-person-is-dead-and-another-injured-after-virgin-galactic-s-spaceshiptwo-explodes-and-crashes-in-california-s-mojave-desert-during-a-test.json)  [XML](/news/2014/10/31/one-person-is-dead-and-another-injured-after-virgin-galactic-s-spaceshiptwo-explodes-and-crashes-in-california-s-mojave-desert-during-a-test.xml)  
+
 ### [2014-10-31](/news/2014/10/31/index.md)
 
+##### Virgin Galactic's
 # One person is dead and another injured after Virgin Galactic's SpaceShipTwo explodes and crashes in California's Mojave Desert during a test flight of the spaceplane. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Technology/dead-injured-virgin-galactic-spacecraft-crash/story?id=26608625)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-29857182)

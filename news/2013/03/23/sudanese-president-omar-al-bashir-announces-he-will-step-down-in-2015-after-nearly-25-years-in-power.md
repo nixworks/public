@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/23/sudanese-president-omar-al-bashir-announces-he-will-step-down-in-2015-after-nearly-25-years-in-power.html)  [JSON](/news/2013/03/23/sudanese-president-omar-al-bashir-announces-he-will-step-down-in-2015-after-nearly-25-years-in-power.json)  [XML](/news/2013/03/23/sudanese-president-omar-al-bashir-announces-he-will-step-down-in-2015-after-nearly-25-years-in-power.xml)  
+
 ### [2013-03-23](/news/2013/03/23/index.md)
 
+##### Sudan
 # Sudanese President Omar al-Bashir announces he will step down in 2015 after nearly 25 years in power. 
 
 Omar al-Bashir, Sudan&#039;s president and an indicted war criminal, said the people of Sudan need &#034;fresh blood and a new impetus to continue their march&#034; as he announced his intention to retire.
 
 
-### Source:
+### Sources:
 
 1. [Daily Mail](http://www.dailymail.co.uk/news/article-2297548/Sudans-president-Omar-al-Bashir-accused-war-crimes-stand-down.html?ito=feeds-newsxml)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/sudan/9947614/Sudans-president-said-he-intends-to-step-down-in-2015.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/11/the-prime-minister-of-luxembourg-jean-claude-juncker-resigns-over-a-scandal-in-the-service-de-renseignement-de-l-etat-state-intelligence-se.html)  [JSON](/news/2013/07/11/the-prime-minister-of-luxembourg-jean-claude-juncker-resigns-over-a-scandal-in-the-service-de-renseignement-de-l-etat-state-intelligence-se.json)  [XML](/news/2013/07/11/the-prime-minister-of-luxembourg-jean-claude-juncker-resigns-over-a-scandal-in-the-service-de-renseignement-de-l-etat-state-intelligence-se.xml)  
+
 ### [2013-07-11](/news/2013/07/11/index.md)
 
+##### Prime Minister
 # The Prime Minister of Luxembourg Jean-Claude Juncker resigns over a scandal in the Service de Renseignement de l'tat (State Intelligence Service), leading to an election being called. 
 
 Luxembourg will hold new elections after Prime Minister Jean-Claude Juncker announced he would resign following a secret service scandal.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-23264789)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68661000/jpg/_68661905_68661904.jpg)

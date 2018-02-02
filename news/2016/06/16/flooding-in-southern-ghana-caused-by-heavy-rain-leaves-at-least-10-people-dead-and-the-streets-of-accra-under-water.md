@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/16/flooding-in-southern-ghana-caused-by-heavy-rain
 
 ### [2016-06-16](/news/2016/06/16/index.md)
 
+##### Ghana
 # Flooding in southern Ghana caused by heavy rain leaves at least 10 people dead and the streets of Accra under water. 
 
 Deadly downpours cause widespread flooding along the Cape Coast as the West African wet season intensifies.

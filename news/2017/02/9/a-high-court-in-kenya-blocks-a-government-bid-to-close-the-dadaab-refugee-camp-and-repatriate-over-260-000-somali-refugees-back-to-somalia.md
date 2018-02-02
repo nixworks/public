@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/9/a-high-court-in-kenya-blocks-a-government-bid-to
 
 ### [2017-02-9](/news/2017/02/9/index.md)
 
+##### Kenya
 # A high court in Kenya blocks a government bid to close the Dadaab refugee camp and repatriate over 260,000 Somali refugees back to Somalia. The government said it will appeal against the ruling. 
 
 A Kenyan government order to forcibly repatriate 260,000 Somalis is ruled an act of persecution.

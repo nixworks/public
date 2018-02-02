@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/24/at-least-47-people-including-a-number-of-children-are-killed-in-a-bus-crash-near-quito-capital-of-ecuador.html)  [JSON](/news/2006/09/24/at-least-47-people-including-a-number-of-children-are-killed-in-a-bus-crash-near-quito-capital-of-ecuador.json)  [XML](/news/2006/09/24/at-least-47-people-including-a-number-of-children-are-killed-in-a-bus-crash-near-quito-capital-of-ecuador.xml)  
+
 ### [2006-09-24](/news/2006/09/24/index.md)
 
+##### Quito
 #  At least 47 people, including a number of children, are killed in a bus crash near Quito, capital of Ecuador. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/WORLD/americas/09/25/crash.ecuador.reut/index.html)
 

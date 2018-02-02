@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/05/29/the-coca-cola-league-one-play-off-final-is-won-by-sheffield-wednesday-at-the-millennium-stadium-cardiff-after-they-beat-hartlepool-united.html)  [JSON](/news/2005/05/29/the-coca-cola-league-one-play-off-final-is-won-by-sheffield-wednesday-at-the-millennium-stadium-cardiff-after-they-beat-hartlepool-united.json)  [XML](/news/2005/05/29/the-coca-cola-league-one-play-off-final-is-won-by-sheffield-wednesday-at-the-millennium-stadium-cardiff-after-they-beat-hartlepool-united.xml)  
+
 ### [2005-05-29](/news/2005/05/29/index.md)
 
+##### Coca Cola League One
 #  The Coca Cola League One Play Off Final is won by Sheffield Wednesday at the Millennium Stadium, Cardiff after they beat Hartlepool United 4-2 to gain promotion to the Coca Cola Championship.
 
 

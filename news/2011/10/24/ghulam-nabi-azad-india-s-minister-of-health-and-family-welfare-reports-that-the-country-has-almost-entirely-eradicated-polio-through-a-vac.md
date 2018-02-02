@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/24/ghulam-nabi-azad-india-s-minister-of-health-and-family-welfare-reports-that-the-country-has-almost-entirely-eradicated-polio-through-a-vac.html)  [JSON](/news/2011/10/24/ghulam-nabi-azad-india-s-minister-of-health-and-family-welfare-reports-that-the-country-has-almost-entirely-eradicated-polio-through-a-vac.json)  [XML](/news/2011/10/24/ghulam-nabi-azad-india-s-minister-of-health-and-family-welfare-reports-that-the-country-has-almost-entirely-eradicated-polio-through-a-vac.xml)  
+
 ### [2011-10-24](/news/2011/10/24/index.md)
 
+##### Ghulam Nabi Azad
 # Ghulam Nabi Azad, India's Minister of Health and Family Welfare, reports that the country has almost entirely eradicated polio through a vaccination program which immunises over 170 million children every year. No new polio cases have been reported in India for over nine months. 
 
 India has &quot;never been closer&quot; to wiping out polio, Health Minister Ghulam Nabi Azad declares as he marks World Polio Day.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-15425852)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56240000/jpg/_56240507_polio_afp.jpg)

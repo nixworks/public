@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/29/a-man-shoots-and-kills-five-people-and-then-commits-suicide-at-a-house-in-greenwood-county-south-carolina-u-s.html)  [JSON](/news/2013/10/29/a-man-shoots-and-kills-five-people-and-then-commits-suicide-at-a-house-in-greenwood-county-south-carolina-u-s.json)  [XML](/news/2013/10/29/a-man-shoots-and-kills-five-people-and-then-commits-suicide-at-a-house-in-greenwood-county-south-carolina-u-s.xml)  
+
 ### [2013-10-29](/news/2013/10/29/index.md)
 
+##### Greenwood County
 # A man shoots and kills five people and then commits suicide at a house in Greenwood County, South Carolina, U.S. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/10/29/us/south-carolina-shooting/index.html?hpt=hp_t2)
 

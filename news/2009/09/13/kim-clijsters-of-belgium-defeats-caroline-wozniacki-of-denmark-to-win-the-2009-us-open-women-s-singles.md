@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/13/kim-clijsters-of-belgium-defeats-caroline-wozniacki-of-denmark-to-win-the-2009-us-open-women-s-singles.html)  [JSON](/news/2009/09/13/kim-clijsters-of-belgium-defeats-caroline-wozniacki-of-denmark-to-win-the-2009-us-open-women-s-singles.json)  [XML](/news/2009/09/13/kim-clijsters-of-belgium-defeats-caroline-wozniacki-of-denmark-to-win-the-2009-us-open-women-s-singles.xml)  
+
 ### [2009-09-13](/news/2009/09/13/index.md)
 
+##### Kim Clijsters
 #  Kim Clijsters of Belgium defeats Caroline Wozniacki of Denmark to win the 2009 US Open Women's Singles. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New York Times](http://straightsets.blogs.nytimes.com/2009/09/13/live-analysis-womens-final/)
 
@@ -13,6 +17,6 @@
 
 1. [ In tennis, Juan Martn del Potro defeats Roger Federer and Kim Clijsters defeats Caroline Wozniacki at the U.S. Open. ](/news/2009/09/14/in-tennis-juan-martin-del-potro-defeats-roger-federer-and-kim-clijsters-defeats-caroline-wozniacki-at-the-u-s-open.md) _Context: Caroline Wozniacki, Kim Clijsters_
 2. [ A former World No. 1 ranked tennis player from Belgium, Kim Clijsters, announces her retirement effective immediately. ](/news/2007/05/6/a-former-world-no-1-ranked-tennis-player-from-belgium-kim-clijsters-announces-her-retirement-effective-immediately.md) _Context: Belgium, Kim Clijsters_
-3. [Denmark's Prince Henrik announces he won't be buried next to Queen Margrethe II in the Roskilde Cathedral where Danish royals have been buried since 1559. The 83-year-old, French-born Henrik has been dissatisfied with his non-equal role as Prince consort. The 77-year old Margrethe, who had a specially designed sarcophagus made for the couple, accepts Henrik's decision, according to a royal house spokeswoman. ](/news/2017/08/4/denmark-s-prince-henrik-announces-he-won-t-be-buried-next-to-queen-margrethe-ii-in-the-roskilde-cathedral-where-danish-royals-have-been-buri.md) _Context: Denmark_
-4. [A fire forces the evacuation of more than 22,000 concertgoers at the Tomorrowland music festival at the Parc de Can Zam in Barcelona, Spain. There were no serious injuries. This is the first time the festival has been held in Spain; Belgium had been the home since 2005. ](/news/2017/07/29/a-fire-forces-the-evacuation-of-more-than-22-000-concertgoers-at-the-tomorrowland-music-festival-at-the-parc-de-can-zam-in-barcelona-spain.md) _Context: Belgium_
-5. [A Belgian court condemns a United Arab Emirates princess and her seven daughters to a fine and a suspended sentence, for human trafficking and mistreatment of their servants at a Brussels luxury hotel in 2008. ](/news/2017/06/23/a-belgian-court-condemns-a-united-arab-emirates-princess-and-her-seven-daughters-to-a-fine-and-a-suspended-sentence-for-human-trafficking-a.md) _Context: Belgium_
+3. [Belgium and the Netherlands, by swapping 48 acres of land, agree that one section of their border is now the center of the Meuse River. This is expected to fix a police jurisdiction problem. ](/news/2018/01/5/belgium-and-the-netherlands-by-swapping-48-acres-of-land-agree-that-one-section-of-their-border-is-now-the-center-of-the-meuse-river-this.md) _Context: Belgium_
+4. [Renaud Hardy, a suspected serial killer from Mechelen, Belgium, confesses to two murders and two attempted murders ahead of his February assizes case in Tongeren. ](/news/2018/01/31/renaud-hardy-a-suspected-serial-killer-from-mechelen-belgium-confesses-to-two-murders-and-two-attempted-murders-ahead-of-his-february-ass.md) _Context: Belgium_
+5. [Eurofighter GmbH offers Belgium a national cyber defense network--suggesting telecommunications security on par with United Kingdom intelligence, which would save Belgium EUR1.6 billion per year--in exchange for buying 34 of their multirole combat aircraft, the Eurofighter Typhoon. ](/news/2017/12/5/eurofighter-gmbh-offers-belgium-a-national-cyber-defense-networkasuggesting-telecommunications-security-on-par-with-united-kingdom-intelli.md) _Context: Belgium_

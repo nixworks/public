@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/13/danish-voters-go-to-the-polls-for-an-early-parliamentary-election-called-by-prime-minister-anders-fogh-rasmussen.html)  [JSON](/news/2007/11/13/danish-voters-go-to-the-polls-for-an-early-parliamentary-election-called-by-prime-minister-anders-fogh-rasmussen.json)  [XML](/news/2007/11/13/danish-voters-go-to-the-polls-for-an-early-parliamentary-election-called-by-prime-minister-anders-fogh-rasmussen.xml)  
+
 ### [2007-11-13](/news/2007/11/13/index.md)
 
+##### Denmark
 #  Danish voters go to the polls for an early parliamentary election called by Prime Minister Anders Fogh Rasmussen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7091941.stm)
 

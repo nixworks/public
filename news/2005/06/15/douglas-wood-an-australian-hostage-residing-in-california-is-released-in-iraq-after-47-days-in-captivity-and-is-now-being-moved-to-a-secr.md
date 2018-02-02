@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/15/douglas-wood-an-australian-hostage-residing-in-california-is-released-in-iraq-after-47-days-in-captivity-and-is-now-being-moved-to-a-secr.html)  [JSON](/news/2005/06/15/douglas-wood-an-australian-hostage-residing-in-california-is-released-in-iraq-after-47-days-in-captivity-and-is-now-being-moved-to-a-secr.json)  [XML](/news/2005/06/15/douglas-wood-an-australian-hostage-residing-in-california-is-released-in-iraq-after-47-days-in-captivity-and-is-now-being-moved-to-a-secr.xml)  
+
 ### [2005-06-15](/news/2005/06/15/index.md)
 
+##### Douglas Wood
 #  Douglas Wood, an Australian hostage residing in California is released in Iraq after 47 days in captivity, and is now being moved to a secret location. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC Online](http://www.abc.net.au/worldtoday/content/2005/s1393894.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/26/a-signed-peace-accord-marks-an-end-to-the-21-year-civil-war-in-sudan-the-darfur-conflict-continues.html)  [JSON](/news/2004/05/26/a-signed-peace-accord-marks-an-end-to-the-21-year-civil-war-in-sudan-the-darfur-conflict-continues.json)  [XML](/news/2004/05/26/a-signed-peace-accord-marks-an-end-to-the-21-year-civil-war-in-sudan-the-darfur-conflict-continues.xml)  
+
 ### [2004-05-26](/news/2004/05/26/index.md)
 
+##### civil war in Sudan
 #  A signed peace accord marks an end to the 21-year civil war in Sudan. The Darfur conflict continues. 
 
 Things to do in Miami
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.miami.com/mld/miamiherald/news/world/8773195.htm?1c)
 1. [Cover Image](http://www.miami.com/wp-content/themes/miami/images/sg/img-16x9.png)

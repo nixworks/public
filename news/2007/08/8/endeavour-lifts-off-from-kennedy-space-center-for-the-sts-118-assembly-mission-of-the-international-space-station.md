@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/8/endeavour-lifts-off-from-kennedy-space-center-for-the-sts-118-assembly-mission-of-the-international-space-station.html)  [JSON](/news/2007/08/8/endeavour-lifts-off-from-kennedy-space-center-for-the-sts-118-assembly-mission-of-the-international-space-station.json)  [XML](/news/2007/08/8/endeavour-lifts-off-from-kennedy-space-center-for-the-sts-118-assembly-mission-of-the-international-space-station.xml)  
+
 ### [2007-08-8](/news/2007/08/8/index.md)
 
+##### Space Shuttle ''Endeavour''
 #  "Endeavour" lifts off from Kennedy Space Center for the STS-118 assembly mission of the International Space Station. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/TECH/space/08/08/space.shuttle.ap/index.html)
 

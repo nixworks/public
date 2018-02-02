@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/09/25/two-gunmen-kill-safia-ahmed-jan-the-provincial-director-of-afghanistan-s-ministry-of-women-s-affairs-outside-her-home-in-kandahar.html)  [JSON](/news/2006/09/25/two-gunmen-kill-safia-ahmed-jan-the-provincial-director-of-afghanistan-s-ministry-of-women-s-affairs-outside-her-home-in-kandahar.json)  [XML](/news/2006/09/25/two-gunmen-kill-safia-ahmed-jan-the-provincial-director-of-afghanistan-s-ministry-of-women-s-affairs-outside-her-home-in-kandahar.xml)  
+
 ### [2006-09-25](/news/2006/09/25/index.md)
 
+##### Safia Ahmed-jan
 #  Two gunmen kill Safia Ahmed-jan, the provincial director of Afghanistan's Ministry of Women's Affairs outside her home in Kandahar. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20060925/ap_on_re_as/afghan_women_s_director_killed;_ylt=Ar.BXQzupdjFtdIBOmXpw7as0NUE;_ylu=X3oDMTA3OTB1amhuBHNlYwNtdHM-)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20060925/ap_on_re_as/afghan_women_s_director_killed;_ylt=Ar.BXQzupdjFtdIBOmXpw7as0NUE;_ylu=X3oDMTA3OTB1amhuBHNlYwNtdHM-)
 2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/5376968.stm)
 
 ### Related:

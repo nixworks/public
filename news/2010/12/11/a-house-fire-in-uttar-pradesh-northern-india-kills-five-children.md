@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/11/a-house-fire-in-uttar-pradesh-northern-india-kills-five-children.html)  [JSON](/news/2010/12/11/a-house-fire-in-uttar-pradesh-northern-india-kills-five-children.json)  [XML](/news/2010/12/11/a-house-fire-in-uttar-pradesh-northern-india-kills-five-children.xml)  
+
 ### [2010-12-11](/news/2010/12/11/index.md)
 
+##### Uttar Pradesh
 # A house fire in Uttar Pradesh, northern India, kills five children. 
 
 Aligarh (Uttar Padesh), Dec 11 (IANS) Five children of a rickshaw-puller, all aged between 12 and 14, were burnt to death here when a fire broke out in...
 
 
-### Source:
+### Sources:
 
 1. [Sify India](http://sify.com/news/fire-in-house-kills-five-siblings-all-minors-news-national-kmlkEgjddjc.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-12/11/c_13645252.htm)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/4/the-loya-jirga-adopts-a-new-constitution-of-afghanistan.html)  [JSON](/news/2004/01/4/the-loya-jirga-adopts-a-new-constitution-of-afghanistan.json)  [XML](/news/2004/01/4/the-loya-jirga-adopts-a-new-constitution-of-afghanistan.xml)  
+
 ### [2004-01-4](/news/2004/01/4/index.md)
 
+##### Loya jirga
 #  The Loya jirga adopts a new Constitution of Afghanistan
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/22/rescuers-recovered-8-bodies-and-saved-1400-migr
 
 ### [2016-11-22](/news/2016/11/22/index.md)
 
+##### European migrant crisis
 # Rescuers recovered 8 bodies and saved 1400 migrants adrift on the Mediterranean Sea today. 
 
 The migrant corpses and survivors were transferred to rescue vessels from at least 11 overcrowded boats off the Libyan coast amid calm seas.

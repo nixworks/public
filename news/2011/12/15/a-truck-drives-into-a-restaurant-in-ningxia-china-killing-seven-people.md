@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/15/a-truck-drives-into-a-restaurant-in-ningxia-china-killing-seven-people.html)  [JSON](/news/2011/12/15/a-truck-drives-into-a-restaurant-in-ningxia-china-killing-seven-people.json)  [XML](/news/2011/12/15/a-truck-drives-into-a-restaurant-in-ningxia-china-killing-seven-people.xml)  
+
 ### [2011-12-15](/news/2011/12/15/index.md)
 
+##### Ningxia
 # A truck drives into a restaurant in Ningxia, China, killing seven people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/usa/china/2011-12/15/content_14267653.htm)
 

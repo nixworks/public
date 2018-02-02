@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/22/zimbabwe-s-prime-minister-morgan-tsvangirai-insists-the-coalition-government-is-tackling-the-country-s-dire-humanitarian-and-economic-crisi.html)  [JSON](/news/2009/06/22/zimbabwe-s-prime-minister-morgan-tsvangirai-insists-the-coalition-government-is-tackling-the-country-s-dire-humanitarian-and-economic-crisi.json)  [XML](/news/2009/06/22/zimbabwe-s-prime-minister-morgan-tsvangirai-insists-the-coalition-government-is-tackling-the-country-s-dire-humanitarian-and-economic-crisi.xml)  
+
 ### [2009-06-22](/news/2009/06/22/index.md)
 
+##### Zimbabwe
 #  Zimbabwe's Prime Minister Morgan Tsvangirai insists the coalition government is tackling the country's dire humanitarian and economic crisis at a talk at Southwark Cathedral in London. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Zimbabwes-PM-Morgan-Tsvangirai-Insists-The-New-Government-Is-Tackling-The-Countrys-Economic-Crisis/Article/200906415314436?lpos=World_News_First_World_News_Article_Teaser_Region_3&lid=ARTICLE_15314436_Zimbabwes_PM_Morgan_Tsvangirai_Insists_The_New_Government_Is_Tackling_The_Countrys_Economic_Crisis)
 

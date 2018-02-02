@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/01/11/former-diplomat-and-foreign-minister-kolinda-grabar-kitarovia-from-the-croatian-democratic-union-narrowly-defeats-incumbent-president-ivo-j.html)  [JSON](/news/2015/01/11/former-diplomat-and-foreign-minister-kolinda-grabar-kitarovia-from-the-croatian-democratic-union-narrowly-defeats-incumbent-president-ivo-j.json)  [XML](/news/2015/01/11/former-diplomat-and-foreign-minister-kolinda-grabar-kitarovia-from-the-croatian-democratic-union-narrowly-defeats-incumbent-president-ivo-j.xml)  
+
 ### [2015-01-11](/news/2015/01/11/index.md)
 
+##### Croatian presidential election, 2014-15
 # Former diplomat and foreign minister Kolinda Grabar-Kitarovic from the Croatian Democratic Union narrowly defeats incumbent president Ivo Josipovic and will become the first female president of Croatia on February 18, 2015. 
 
 Opposition challenger Kolinda Grabar-Kitarovic becomes the first female president of Croatia, winning by the narrowest of margins.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-30765822)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80199000/jpg/_80199225_80198755.jpg)
+
+### Changes:
+
+1. [Croatian presidential election, 2014-15: Former diplomat and foreign minister Kolinda Grabar-Kitarovic from the Croatian Democratic Union narrowly defeats incumbent president Ivo Josipovic and will become the first female president of Croatia on February 18, 2015. ](/news/2015/01/11/croatian-presidential-election-2014-15-former-diplomat-and-foreign-minister-kolinda-grabar-kitarovia-from-the-croatian-democratic-union.md) _2017-08-27 03:41:46 (First version)_
+1. [Former diplomat and foreign minister Kolinda Grabar-Kitarovic from the Croatian Democratic Union narrowly defeats incumbent president Ivo Josipovic and will become the first female president of Croatia on February 18, 2015. ](/news/2015/01/11/former-diplomat-and-foreign-minister-kolinda-grabar-kitarovia-from-the-croatian-democratic-union-narrowly-defeats-incumbent-president-ivo-j.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Opposition challenger Kolinda Grabar-Kitarovic becomes the first female presiden
 3. [The Croatian presidential election goes to a run-off between incumbent Ivo Josipovic and challenger Kolinda Grabar-Kitarovic. ](/news/2014/12/28/the-croatian-presidential-election-goes-to-a-run-off-between-incumbent-ivo-josipovia-and-challenger-kolinda-grabar-kitarovia.md) _Context: Ivo Josipovic, Kolinda Grabar-Kitarovic_
 4. [Ivo Josipovic wins in the second round of the presidential election, and is elected third President of Croatia. ](/news/2010/01/10/ivo-josipovia-wins-in-the-second-round-of-the-presidential-election-and-is-elected-third-president-of-croatia.md) _Context: Croatian President, Ivo Josipovic_
 5. [Croatian lawmakers approve conservative Croatian Democratic Union party leader Andrej Plenkovic's new coalition government 91-45. ](/news/2016/10/19/croatian-lawmakers-approve-conservative-croatian-democratic-union-party-leader-andrej-plenkovia-s-new-coalition-government-91a45.md) _Context: Croatian Democratic Union_
-
-### Changes:
-
-1. [Croatian presidential election, 2014-15: Former diplomat and foreign minister Kolinda Grabar-Kitarovic from the Croatian Democratic Union narrowly defeats incumbent president Ivo Josipovic and will become the first female president of Croatia on February 18, 2015. ](/news/2015/01/11/croatian-presidential-election-2014-15-former-diplomat-and-foreign-minister-kolinda-grabar-kitarovia-from-the-croatian-democratic-union.md) _2017-08-27 03:41:46 (First version)_
-1. [Former diplomat and foreign minister Kolinda Grabar-Kitarovic from the Croatian Democratic Union narrowly defeats incumbent president Ivo Josipovic and will become the first female president of Croatia on February 18, 2015. ](/news/2015/01/11/former-diplomat-and-foreign-minister-kolinda-grabar-kitarovia-from-the-croatian-democratic-union-narrowly-defeats-incumbent-president-ivo-j.md) _(Current version)_

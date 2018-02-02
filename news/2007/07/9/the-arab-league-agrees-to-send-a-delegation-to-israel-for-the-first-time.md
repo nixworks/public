@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/9/the-arab-league-agrees-to-send-a-delegation-to-israel-for-the-first-time.html)  [JSON](/news/2007/07/9/the-arab-league-agrees-to-send-a-delegation-to-israel-for-the-first-time.json)  [XML](/news/2007/07/9/the-arab-league-agrees-to-send-a-delegation-to-israel-for-the-first-time.xml)  
+
 ### [2007-07-9](/news/2007/07/9/index.md)
 
+##### Arab League
 #  The Arab League agrees to send a delegation to Israel for the first time. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://edition.cnn.com/2007/WORLD/meast/07/08/israel.palestinians.ap/index.html?eref=rss_world)
 

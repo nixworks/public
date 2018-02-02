@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2012/09/23/iran-blocks-use-of-the-google-search-engine-as-it-prepares-to-switch-its-citizens-to-a-domestic-internet-network.html)  [JSON](/news/2012/09/23/iran-blocks-use-of-the-google-search-engine-as-it-prepares-to-switch-its-citizens-to-a-domestic-internet-network.json)  [XML](/news/2012/09/23/iran-blocks-use-of-the-google-search-engine-as-it-prepares-to-switch-its-citizens-to-a-domestic-internet-network.xml)  
+
 ### [2012-09-23](/news/2012/09/23/index.md)
 
+##### Iran
 # Iran blocks use of the Google search engine, as it prepares to switch its citizens to a domestic internet network. 
 
 Iran plans to switch its citizens onto a domestic Internet network in what officials say is a bid to improve cyber security but which many Iranians fear is the latest way to control their access to the web.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/09/23/net-us-iran-internet-national-idUSBRE88M0AO20120923)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/09/23/net-us-iran-internet-national-idUSBRE88M0AO20120923)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
-1. [U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Mirza Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. ](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-mirza-hekmati-a-u-s-marine-who-was-imprisoned-in-iran.md) _Context: Iran_
-2. [U.S. President Donald Trump chooses not to certify that Iran complies with the 2015 agreement. The United States Congress now has 60 days to decide whether to lift the sanctions relief, possibly breaching the agreement. ](/news/2017/10/13/u-s-president-donald-trump-chooses-not-to-certify-that-iran-complies-with-the-2015-agreement-the-united-states-congress-now-has-60-days-to.md) _Context: Iran_
-3. [ Facebook, Google, and Twitter executives have been asked to testify before the House of Representatives Intelligence Committee in October and the Senate Intelligence Committee on November 1, according to committee sources. ](/news/2017/09/27/facebook-google-and-twitter-executives-have-been-asked-to-testify-before-the-house-of-representatives-intelligence-committee-in-october-a.md) _Context: Google_
-4. [Iranian forces launch a military exercise near the border of Iraqi Kurdistan, hours before a Kurdish vote on independence from Iraq. Turkey is also conducting a military exercise in the region. ](/news/2017/09/24/iranian-forces-launch-a-military-exercise-near-the-border-of-iraqi-kurdistan-hours-before-a-kurdish-vote-on-independence-from-iraq-turkey.md) _Context: Iran_
-5. [Iran successfully tests the Khorramshahr missile. ](/news/2017/09/23/iran-successfully-tests-the-khorramshahr-missile.md) _Context: Iran_
+1. [Iran enforces a ban on teaching English in elementary schools. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools.md) _Context: Iran_
+2. [The U.S. Treasury sanctions five Iranian entities associated with Iran's ballistic missile program. ](/news/2018/01/4/the-u-s-treasury-sanctions-five-iranian-entities-associated-with-iran-s-ballistic-missile-program.md) _Context: Iran_
+3. [The organizers of the Google Lunar X Prize announce that the $20 million grand prize for a commercial lunar lander will expire on 31 March 2018 without a winner because none of its five finalist teams would be able to launch a mission before the deadline. ](/news/2018/01/23/the-organizers-of-the-google-lunar-x-prize-announce-that-the-20-million-grand-prize-for-a-commercial-lunar-lander-will-expire-on-31-march-2.md) _Context: Google_
+4. [U.S. President Donald Trump says he is extending sanctions relief for Iran one last time so Europe and the U.S. can fix the nuclear deal's "terrible flaws". ](/news/2018/01/13/u-s-president-donald-trump-says-he-is-extending-sanctions-relief-for-iran-one-last-time-so-europe-and-the-u-s-can-fix-the-nuclear-deal-s.md) _Context: Iran_
+5. [Iran blocks access to Telegram and Instagram as the largest anti-government protests since 2009 continue. ](/news/2017/12/31/iran-blocks-access-to-telegram-and-instagram-as-the-largest-anti-government-protests-since-2009-continue.md) _Context: Iran_

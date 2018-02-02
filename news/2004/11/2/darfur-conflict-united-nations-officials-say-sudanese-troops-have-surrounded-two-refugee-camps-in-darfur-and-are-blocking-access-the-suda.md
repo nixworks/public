@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/2/darfur-conflict-united-nations-officials-say-sudanese-troops-have-surrounded-two-refugee-camps-in-darfur-and-are-blocking-access-the-suda.html)  [JSON](/news/2004/11/2/darfur-conflict-united-nations-officials-say-sudanese-troops-have-surrounded-two-refugee-camps-in-darfur-and-are-blocking-access-the-suda.json)  [XML](/news/2004/11/2/darfur-conflict-united-nations-officials-say-sudanese-troops-have-surrounded-two-refugee-camps-in-darfur-and-are-blocking-access-the-suda.xml)  
+
 ### [2004-11-2](/news/2004/11/2/index.md)
 
+##### Darfur conflict
 #  Darfur conflict: United Nations officials say Sudanese troops have surrounded two refugee camps in Darfur and are blocking access. The Sudanese military say they were asked to protect refugees and evict imposters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/3974289.stm)
 2. [Reuters](http://reuters.com/newsArticle.jhtml;jsessionid=EVZE42F4WFOF2CRBAE0CFEY?type=worldNews&storyID=6692960)

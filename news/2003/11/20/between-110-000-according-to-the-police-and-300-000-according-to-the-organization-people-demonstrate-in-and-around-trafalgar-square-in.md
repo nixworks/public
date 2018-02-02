@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/20/between-110-000-according-to-the-police-and-300-000-according-to-the-organization-people-demonstrate-in-and-around-trafalgar-square-in.html)  [JSON](/news/2003/11/20/between-110-000-according-to-the-police-and-300-000-according-to-the-organization-people-demonstrate-in-and-around-trafalgar-square-in.json)  [XML](/news/2003/11/20/between-110-000-according-to-the-police-and-300-000-according-to-the-organization-people-demonstrate-in-and-around-trafalgar-square-in.xml)  
+
 ### [2003-11-20](/news/2003/11/20/index.md)
 
+##### Trafalgar Square
 #  Between 110,000 (according to the police) and 300,000 (according to the organization) people demonstrate in and around Trafalgar Square in London against the war in Iraq and George W. Bush's state visit.
 
 

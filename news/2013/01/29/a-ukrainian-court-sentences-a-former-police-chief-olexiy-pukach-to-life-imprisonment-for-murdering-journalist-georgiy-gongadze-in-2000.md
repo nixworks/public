@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/01/29/a-ukrainian-court-sentences-a-former-police-chief-olexiy-pukach-to-life-imprisonment-for-murdering-journalist-georgiy-gongadze-in-2000.html)  [JSON](/news/2013/01/29/a-ukrainian-court-sentences-a-former-police-chief-olexiy-pukach-to-life-imprisonment-for-murdering-journalist-georgiy-gongadze-in-2000.json)  [XML](/news/2013/01/29/a-ukrainian-court-sentences-a-former-police-chief-olexiy-pukach-to-life-imprisonment-for-murdering-journalist-georgiy-gongadze-in-2000.xml)  
+
 ### [2013-01-29](/news/2013/01/29/index.md)
 
+##### Ukraine
 # A Ukrainian court sentences a former police chief Olexiy Pukach to life imprisonment for murdering journalist Georgiy Gongadze in 2000. 
 
 A Ukrainian court convicts a former police surveillance chief of killing journalist Georgy Gongadze in 2000, a crime which rocked the country.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Yahoo!](http://uk.news.yahoo.com/ukraine-jails-ex-top-official-over-journalist-murder-144116622.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-21245784)
-3. [Reuters](http://www.reuters.com/article/2013/01/29/ukraine-gongadze-sentence-idUSL5N0AYEEJ20130129)
+3. [Reuters](https://www.reuters.com/article/2013/01/29/ukraine-gongadze-sentence-idUSL5N0AYEEJ20130129)
 3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65568000/jpg/_65568461_65568460.jpg)
 
 ### Related:

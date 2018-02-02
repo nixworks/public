@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/3/a-5-1-magnitude-earthquake-leaves-20-000-homeless-and-causes-us-1-5-million-in-damage-in-eastern-tajikistan.html)  [JSON](/news/2010/01/3/a-5-1-magnitude-earthquake-leaves-20-000-homeless-and-causes-us-1-5-million-in-damage-in-eastern-tajikistan.json)  [XML](/news/2010/01/3/a-5-1-magnitude-earthquake-leaves-20-000-homeless-and-causes-us-1-5-million-in-damage-in-eastern-tajikistan.xml)  
+
 ### [2010-01-3](/news/2010/01/3/index.md)
 
+##### Tajikistan
 # A 5.1 magnitude earthquake leaves 20,000 homeless and causes US$1.5 million in damage in eastern Tajikistan. 
 
 A 5.1 magnitude earthquake hit Tajikistan, leaving 20,000 people homeless and inflicting about $1.5 million in damage, officials said Sunday.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/01/03/tajikistan.quake/)
 2. [RIA Novosti](http://en.rian.ru/world/20100103/157454176.html)

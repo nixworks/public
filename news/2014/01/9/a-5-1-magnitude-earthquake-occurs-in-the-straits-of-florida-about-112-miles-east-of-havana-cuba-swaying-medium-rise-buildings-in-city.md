@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/9/a-5-1-magnitude-earthquake-occurs-in-the-straits-of-florida-about-112-miles-east-of-havana-cuba-swaying-medium-rise-buildings-in-city.html)  [JSON](/news/2014/01/9/a-5-1-magnitude-earthquake-occurs-in-the-straits-of-florida-about-112-miles-east-of-havana-cuba-swaying-medium-rise-buildings-in-city.json)  [XML](/news/2014/01/9/a-5-1-magnitude-earthquake-occurs-in-the-straits-of-florida-about-112-miles-east-of-havana-cuba-swaying-medium-rise-buildings-in-city.xml)  
+
 ### [2014-01-9](/news/2014/01/9/index.md)
 
+##### magnitude earthquake
 # A 5.1 magnitude earthquake occurs in the Straits of Florida about 112 miles east of Havana, Cuba, swaying medium rise buildings in city. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [My News 13](http://www.mynews13.com/content/news/cfnews13/news/article.html/content/news/articles/cfn/2014/1/9/earthquake_south_of_.html)
 

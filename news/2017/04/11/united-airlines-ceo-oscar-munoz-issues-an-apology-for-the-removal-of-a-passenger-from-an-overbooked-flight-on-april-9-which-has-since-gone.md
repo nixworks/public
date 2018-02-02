@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/11/united-airlines-ceo-oscar-munoz-issues-an-apolo
 
 ### [2017-04-11](/news/2017/04/11/index.md)
 
+##### United Express Flight 3411 incident
 # United Airlines CEO Oscar Munoz issues an apology for the removal of a passenger from an overbooked flight on April 9, which has since gone viral. United Airlines stock drops more than 4%, a loss of GBP800 million to the company's value. 
 
 

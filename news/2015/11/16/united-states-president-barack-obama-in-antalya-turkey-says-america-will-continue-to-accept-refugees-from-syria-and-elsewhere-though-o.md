@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/16/united-states-president-barack-obama-in-antalya-turkey-says-america-will-continue-to-accept-refugees-from-syria-and-elsewhere-though-o.html)  [JSON](/news/2015/11/16/united-states-president-barack-obama-in-antalya-turkey-says-america-will-continue-to-accept-refugees-from-syria-and-elsewhere-though-o.json)  [XML](/news/2015/11/16/united-states-president-barack-obama-in-antalya-turkey-says-america-will-continue-to-accept-refugees-from-syria-and-elsewhere-though-o.xml)  
+
 ### [2015-11-16](/news/2015/11/16/index.md)
 
+##### U.S. President
 # United States President Barack Obama, in Antalya, Turkey, says America will continue to accept refugees from Syria and elsewhere, though, "Only after subjecting them to rigorous screening and security checks." Responding to calls to admit Christians but not Muslims into the country, he said, "We don't have religious tests to our compassion." 
 
 Without directly naming GOP presidential candidates, the president blasted political leaders for suggesting the U.S. should only accept Christians fleeing Syria. &quot;That&rsquo;s shameful,&quot; he said, his voice rising.
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2015/11/16/obama-calls-idea-of-screening-syrian-refugees-based-on-religion-shameful-defends-white-house-strategy/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/7/hungary-s-defense-minister-csaba-hende-resigns-amid-the-refugee-crisis-prime-minister-viktor-orba-n-immediately-replaced-hende-with-a-membe.html)  [JSON](/news/2015/09/7/hungary-s-defense-minister-csaba-hende-resigns-amid-the-refugee-crisis-prime-minister-viktor-orba-n-immediately-replaced-hende-with-a-membe.json)  [XML](/news/2015/09/7/hungary-s-defense-minister-csaba-hende-resigns-amid-the-refugee-crisis-prime-minister-viktor-orba-n-immediately-replaced-hende-with-a-membe.xml)  
+
 ### [2015-09-7](/news/2015/09/7/index.md)
 
+##### Hungary
 # Hungary's Defense Minister Csaba Hende resigns amid the refugee crisis. Prime Minister Viktor Orban immediately replaced Hende with a member of his Fidesz party, Istvan Simicsko. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2015/09/07/Hungarys-defense-minister-resigns-amid-refugee-crisis/3421441648409/?spt=hts&or=1)
 1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/3421441648409/2015/13/c74e186c1495230ab2b6b6a4626e17ba/v1.5/Hungarys-defense-minister-resigns-amid-refugee-crisis.jpg)

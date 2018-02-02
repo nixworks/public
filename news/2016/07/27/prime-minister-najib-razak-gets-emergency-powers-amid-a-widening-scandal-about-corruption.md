@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/27/prime-minister-najib-razak-gets-emergency-power
 
 ### [2016-07-27](/news/2016/07/27/index.md)
 
+##### 1Malaysia Development Berhad scandal
 # Prime Minister Najib Razak gets emergency powers amid a widening scandal about corruption. 
 
 Laws will allow forces to conduct searches without a warrant and dispenses with need for inquests into killings by police

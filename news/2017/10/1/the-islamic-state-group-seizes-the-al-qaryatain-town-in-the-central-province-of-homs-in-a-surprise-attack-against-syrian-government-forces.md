@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/1/the-islamic-state-group-seizes-the-al-qaryatain-
 
 ### [2017-10-1](/news/2017/10/1/index.md)
 
+##### Syrian Civil War
 # The Islamic State group seizes the Al-Qaryatain town in the central province of Homs in a surprise attack against Syrian government forces. 
 
 The Islamic State group on Sunday seized a town in central Syria known as a symbol of religious coexistence in a surprise attack against regime forces, a monitor said.

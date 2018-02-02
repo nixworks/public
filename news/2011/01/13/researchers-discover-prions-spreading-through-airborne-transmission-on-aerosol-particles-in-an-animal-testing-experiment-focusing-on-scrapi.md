@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/01/13/researchers-discover-prions-spreading-through-airborne-transmission-on-aerosol-particles-in-an-animal-testing-experiment-focusing-on-scrapi.html)  [JSON](/news/2011/01/13/researchers-discover-prions-spreading-through-airborne-transmission-on-aerosol-particles-in-an-animal-testing-experiment-focusing-on-scrapi.json)  [XML](/news/2011/01/13/researchers-discover-prions-spreading-through-airborne-transmission-on-aerosol-particles-in-an-animal-testing-experiment-focusing-on-scrapi.xml)  
+
 ### [2011-01-13](/news/2011/01/13/index.md)
 
+##### prion
 # Researchers discover prions spreading through airborne transmission on aerosol particles, in an animal testing experiment focusing on scrapie infection in laboratory mice. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [New Scientist](http://www.newscientist.com/article/dn19971-prion-disease-can-spread-through-air.html)
+1. [New Scientist](https://www.newscientist.com/article/dn19971-prion-disease-can-spread-through-air.html)
 
 ### Related:
 

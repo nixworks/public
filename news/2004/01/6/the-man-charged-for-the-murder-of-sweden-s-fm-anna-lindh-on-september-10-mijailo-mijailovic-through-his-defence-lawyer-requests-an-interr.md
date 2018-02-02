@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/6/the-man-charged-for-the-murder-of-sweden-s-fm-anna-lindh-on-september-10-mijailo-mijailovic-through-his-defence-lawyer-requests-an-interr.html)  [JSON](/news/2004/01/6/the-man-charged-for-the-murder-of-sweden-s-fm-anna-lindh-on-september-10-mijailo-mijailovic-through-his-defence-lawyer-requests-an-interr.json)  [XML](/news/2004/01/6/the-man-charged-for-the-murder-of-sweden-s-fm-anna-lindh-on-september-10-mijailo-mijailovic-through-his-defence-lawyer-requests-an-interr.xml)  
+
 ### [2004-01-6](/news/2004/01/6/index.md)
 
+##### Anna Lindh
 #  The man charged for the murder of Sweden's FM Anna Lindh on September 10, Mijailo Mijailovic, through his defence lawyer requests an interrogation to give critical details on the stabbing. Seemingly Mijailovic thereby confesses the assault.
 
 

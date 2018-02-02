@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/11/heavy-rains-threaten-rescue-efforts-after-a-deadly-mudslide-in-gansu-china-as-the-death-toll-reaches-1-117.html)  [JSON](/news/2010/08/11/heavy-rains-threaten-rescue-efforts-after-a-deadly-mudslide-in-gansu-china-as-the-death-toll-reaches-1-117.json)  [XML](/news/2010/08/11/heavy-rains-threaten-rescue-efforts-after-a-deadly-mudslide-in-gansu-china-as-the-death-toll-reaches-1-117.xml)  
+
 ### [2010-08-11](/news/2010/08/11/index.md)
 
+##### landslide
 # Heavy rains threaten rescue efforts after a deadly mudslide in Gansu, China, as the death toll reaches 1,117. 
 
 Heavy rain threatens the Chinese county devastated by landslides, as the death toll from the disaster rises to 1,117 people.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/201081022256908380.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10934871)

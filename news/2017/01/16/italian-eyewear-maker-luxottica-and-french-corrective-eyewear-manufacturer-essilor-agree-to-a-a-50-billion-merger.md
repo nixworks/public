@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/16/italian-eyewear-maker-luxottica-and-french-corr
 
 ### [2017-01-16](/news/2017/01/16/index.md)
 
+##### Luxottica
 # Italian eyewear maker Luxottica and French corrective eyewear manufacturer Essilor agree to a EUR50 billion merger. 
 
 Italian eyewear maker Luxottica and French corrective eye lens maker Essilor have agreed on a €50 billion ($53.16 billion) merger.

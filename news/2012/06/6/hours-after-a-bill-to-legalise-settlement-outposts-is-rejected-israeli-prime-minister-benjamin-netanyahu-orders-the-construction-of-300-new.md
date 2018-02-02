@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/6/hours-after-a-bill-to-legalise-settlement-outposts-is-rejected-israeli-prime-minister-benjamin-netanyahu-orders-the-construction-of-300-new.html)  [JSON](/news/2012/06/6/hours-after-a-bill-to-legalise-settlement-outposts-is-rejected-israeli-prime-minister-benjamin-netanyahu-orders-the-construction-of-300-new.json)  [XML](/news/2012/06/6/hours-after-a-bill-to-legalise-settlement-outposts-is-rejected-israeli-prime-minister-benjamin-netanyahu-orders-the-construction-of-300-new.xml)  
+
 ### [2012-06-6](/news/2012/06/6/index.md)
 
+##### Israel
 # Hours after a bill to legalise settlement outposts is rejected, Israeli prime minister Benjamin Netanyahu orders the construction of 300 new homes at the Jewish settlement of Beit El in the West Bank. 
 
 Israeli legislators reject attempt to prevent demolition of outpost built on Palestinian land.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/20126685312849270.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18344116)
@@ -17,4 +21,4 @@ Israeli legislators reject attempt to prevent demolition of outpost built on Pal
 2. [Israeli prime minister Benjamin Netanyahu decides to make legal under Israeli law three settlement outposts in the occupied West Bank, to "formalise the status" of Bruchin and Rechelim, in the north, and Sansana, near Hebron in the south. The Palestinian Authority criticises the decision. ](/news/2012/04/24/israeli-prime-minister-benjamin-netanyahu-decides-to-make-legal-under-israeli-law-three-settlement-outposts-in-the-occupied-west-bank-to-f.md) _Context: Benjamin Netanyahu, Israel, West Bank_
 3. [Prime Minister of Israel Benjamin Netanyahu states that 10-month restrictions on the building of Israeli settlements in the West Bank will no longer apply after they expire later this month. ](/news/2010/09/12/prime-minister-of-israel-benjamin-netanyahu-states-that-10-month-restrictions-on-the-building-of-israeli-settlements-in-the-west-bank-will-n.md) _Context: Benjamin Netanyahu, Israel, West Bank_
 4. [ Israeli Prime Minister Benjamin Netanyahu is to approve new settlements in the West Bank before a building freeze. ](/news/2009/09/4/israeli-prime-minister-benjamin-netanyahu-is-to-approve-new-settlements-in-the-west-bank-before-a-building-freeze.md) _Context: Benjamin Netanyahu, Israel, West Bank_
-5. [Palestinian factions, Hamas and Fatah, sign a unity deal in Cairo, that is also publicly supported by the governments of Egypt and Saudi Arabia. The Fatah-controlled Palestinian National Authority (PNA), along with Israel, currently govern the West Bank. According to the signatories of the deal, the PNA will take administrative control of the Gaza Strip, and, along with Hamas, police its borders. The signatories consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. The government of Israel opposes any involvement by Hamas in a Palestinian government. ](/news/2017/10/12/palestinian-factions-hamas-and-fatah-sign-a-unity-deal-in-cairo-that-is-also-publicly-supported-by-the-governments-of-egypt-and-saudi-ara.md) _Context: Israel, West Bank_
+5. [A Palestinian man in the occupied West Bank is arrested and questioned for a few hours by Israeli police after Facebook mistranslates his Arabic-language message saying "good morning" into Hebrew for "attack them". ](/news/2017/10/22/a-palestinian-man-in-the-occupied-west-bank-is-arrested-and-questioned-for-a-few-hours-by-israeli-police-after-facebook-mistranslates-his-ar.md) _Context: Israel, West Bank_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/5/over-100-people-are-killed-in-battles-throughout-somalia-between-islamist-rebels-and-african-union-forces-over-the-past-three-days.html)  [JSON](/news/2010/12/5/over-100-people-are-killed-in-battles-throughout-somalia-between-islamist-rebels-and-african-union-forces-over-the-past-three-days.json)  [XML](/news/2010/12/5/over-100-people-are-killed-in-battles-throughout-somalia-between-islamist-rebels-and-african-union-forces-over-the-past-three-days.xml)  
+
 ### [2010-12-5](/news/2010/12/5/index.md)
 
+##### Somalia
 # Over 100 people are killed in battles throughout Somalia between Islamist rebels and African Union forces over the past three days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://www.presstv.ir/detail/153972.html)
 

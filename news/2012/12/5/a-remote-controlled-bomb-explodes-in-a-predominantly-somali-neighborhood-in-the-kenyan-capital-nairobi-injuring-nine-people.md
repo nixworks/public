@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2012/12/5/a-remote-controlled-bomb-explodes-in-a-predominantly-somali-neighborhood-in-the-kenyan-capital-nairobi-injuring-nine-people.html)  [JSON](/news/2012/12/5/a-remote-controlled-bomb-explodes-in-a-predominantly-somali-neighborhood-in-the-kenyan-capital-nairobi-injuring-nine-people.json)  [XML](/news/2012/12/5/a-remote-controlled-bomb-explodes-in-a-predominantly-somali-neighborhood-in-the-kenyan-capital-nairobi-injuring-nine-people.xml)  
+
 ### [2012-12-5](/news/2012/12/5/index.md)
 
+##### Somalia
 # A remote-controlled bomb explodes in a predominantly Somali neighborhood in the Kenyan capital Nairobi, injuring nine people. 
 
 A suspected remote-controlled bomb tore through a predominantly Somali neighborhood in the Kenyan capital Nairobi on Wednesday, wounding up to nine people during the evening rush hour.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/12/05/us-kenya-blast-idUSBRE8B414W20121205)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/12/05/us-kenya-blast-idUSBRE8B414W20121205)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [2012 terrorist attacks in Kenya:A remote-controlled bomb explodes in a predominantly Somali neighborhood in the Kenyan capital Nairobi, injuring nine people. ](/news/2012/12/5/2012-terrorist-attacks-in-kenya-pa-remote-controlled-bomb-explodes-in-a-predominantly-somali-neighborhood-in-the-kenyan-capital-nairobi-inj.md) _2017-08-25 03:36:57 (First version)_
+2. [2012 terrorist attacks in Kenya:: A remote-controlled bomb explodes in a predominantly Somali neighborhood in the Kenyan capital Nairobi, injuring nine people. ](/news/2012/12/5/2012-terrorist-attacks-in-kenya-a-remote-controlled-bomb-explodes-in-a-predominantly-somali-neighborhood-in-the-kenyan-capital-nairobi-in.md) _2017-08-27 03:37:07 (Update)_
+2. [A remote-controlled bomb explodes in a predominantly Somali neighborhood in the Kenyan capital Nairobi, injuring nine people. ](/news/2012/12/5/a-remote-controlled-bomb-explodes-in-a-predominantly-somali-neighborhood-in-the-kenyan-capital-nairobi-injuring-nine-people.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@ A suspected remote-controlled bomb tore through a predominantly Somali neighborh
 3. [Seven schoolgirls are killed and ten hospitalised after a fire at the Moi Girls School in Nairobi, Kenya. ](/news/2017/09/2/seven-schoolgirls-are-killed-and-ten-hospitalised-after-a-fire-at-the-moi-girls-school-in-nairobi-kenya.md) _Context: Kenya, Nairobi_
 4. [A high court in Kenya blocks a government bid to close the Dadaab refugee camp and repatriate over 260,000 Somali refugees back to Somalia. The government said it will appeal against the ruling. ](/news/2017/02/9/a-high-court-in-kenya-blocks-a-government-bid-to-close-the-dadaab-refugee-camp-and-repatriate-over-260-000-somali-refugees-back-to-somalia.md) _Context: Kenya, Somalia_
 5. [Al-Shabaab militants attack a remote AMISOM base in southern Somalia, claiming to have killed dozens of Kenyan troops. ](/news/2017/01/27/al-shabaab-militants-attack-a-remote-amisom-base-in-southern-somalia-claiming-to-have-killed-dozens-of-kenyan-troops.md) _Context: Kenya, Somalia_
-
-### Changes:
-
-1. [2012 terrorist attacks in Kenya:A remote-controlled bomb explodes in a predominantly Somali neighborhood in the Kenyan capital Nairobi, injuring nine people. ](/news/2012/12/5/2012-terrorist-attacks-in-kenya-pa-remote-controlled-bomb-explodes-in-a-predominantly-somali-neighborhood-in-the-kenyan-capital-nairobi-inj.md) _2017-08-25 03:36:57 (First version)_
-2. [2012 terrorist attacks in Kenya:: A remote-controlled bomb explodes in a predominantly Somali neighborhood in the Kenyan capital Nairobi, injuring nine people. ](/news/2012/12/5/2012-terrorist-attacks-in-kenya-a-remote-controlled-bomb-explodes-in-a-predominantly-somali-neighborhood-in-the-kenyan-capital-nairobi-in.md) _2017-08-27 03:37:07 (Update)_
-2. [A remote-controlled bomb explodes in a predominantly Somali neighborhood in the Kenyan capital Nairobi, injuring nine people. ](/news/2012/12/5/a-remote-controlled-bomb-explodes-in-a-predominantly-somali-neighborhood-in-the-kenyan-capital-nairobi-injuring-nine-people.md) _(Current version)_

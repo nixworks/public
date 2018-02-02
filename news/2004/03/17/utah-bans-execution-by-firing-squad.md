@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/17/utah-bans-execution-by-firing-squad.html)  [JSON](/news/2004/03/17/utah-bans-execution-by-firing-squad.json)  [XML](/news/2004/03/17/utah-bans-execution-by-firing-squad.xml)  
+
 ### [2004-03-17](/news/2004/03/17/index.md)
 
+##### Utah
 #  Utah bans execution by firing squad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/3519310.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/8/the-president-of-mali-amadou-toumani-toure-resigns-as-part-of-a-deal-with-coup-leaders.html)  [JSON](/news/2012/04/8/the-president-of-mali-amadou-toumani-toure-resigns-as-part-of-a-deal-with-coup-leaders.json)  [XML](/news/2012/04/8/the-president-of-mali-amadou-toumani-toure-resigns-as-part-of-a-deal-with-coup-leaders.xml)  
+
 ### [2012-04-8](/news/2012/04/8/index.md)
 
+##### President of Mali
 # The President of Mali Amadou Toumani Toure resigns as part of a deal with coup leaders. 
 
 President Amadou Toumani Toure of Mali formally resigns as part of a deal with coup leaders to end the crisis gripping the west African state.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17653882)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59559000/jpg/_59559843_014470895-1.jpg)

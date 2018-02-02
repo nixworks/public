@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/14/russian-authorities-in-perm-detain-three-homeless-males-on-charges-of-murder-cannibalism-and-the-unlawful-selling-of-body-parts-to-a-kebab.html)  [JSON](/news/2009/11/14/russian-authorities-in-perm-detain-three-homeless-males-on-charges-of-murder-cannibalism-and-the-unlawful-selling-of-body-parts-to-a-kebab.json)  [XML](/news/2009/11/14/russian-authorities-in-perm-detain-three-homeless-males-on-charges-of-murder-cannibalism-and-the-unlawful-selling-of-body-parts-to-a-kebab.xml)  
+
 ### [2009-11-14](/news/2009/11/14/index.md)
 
+##### Russia
 #  Russian authorities in Perm detain three homeless males on charges of murder, cannibalism and the unlawful selling of body parts to a kebab shop. 
 
 Russian police have arrested three homeless people suspected of eating a 25-year-old man they had butchered and selling other&hellip;
 
 
-### Source:
+### Sources:
 
 1. [ABC Online](http://www.abc.net.au/news/stories/2009/11/15/2743107.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8360569.stm)
@@ -15,8 +19,8 @@ Russian police have arrested three homeless people suspected of eating a 25-year
 
 ### Related:
 
-1. [Eight people are killed in a warehouse fire in Perm, Russia. ](/news/2011/02/10/eight-people-are-killed-in-a-warehouse-fire-in-perm-russia.md) _Context: Perm, Russia_
-2. [ An explosion at a nightclub in Perm, Russia, kills at least one hundred and injures around a hundred people. ](/news/2009/12/4/an-explosion-at-a-nightclub-in-perm-russia-kills-at-least-one-hundred-and-injures-around-a-hundred-people.md) _Context: Perm, Russia_
-3. [A fire at the Sindika Trade Center, a construction materials shopping center in the northwestern edge of Moscow, Russia, forces the evacuation of at least 3000 people. ](/news/2017/10/9/a-fire-at-the-sindika-trade-center-a-construction-materials-shopping-center-in-the-northwestern-edge-of-moscow-russia-forces-the-evacuati.md) _Context: Russia_
-4. [According to the Syrian Observatory for Human Rights, Russian airstrikes kill at least 14 civilians, including three children, as they cross the Euphrates river near the ISIL-held city of Mayadin in eastern Syria while fleeing the village of Mahkan. ](/news/2017/10/6/according-to-the-syrian-observatory-for-human-rights-russian-airstrikes-kill-at-least-14-civilians-including-three-children-as-they-cross.md) _Context: Russia_
-5. [A train hits a bus on a crossing in Vladimir, Russia, killing at least 19 people on the bus. No train passengers were injured. ](/news/2017/10/6/a-train-hits-a-bus-on-a-crossing-in-vladimir-russia-killing-at-least-19-people-on-the-bus-no-train-passengers-were-injured.md) _Context: Russia_
+1. [A knife fight between students breaks out in a school in Perm, Russia. Twelve injured are reported, with three of them in serious condition. ](/news/2018/01/15/a-knife-fight-between-students-breaks-out-in-a-school-in-perm-russia-twelve-injured-are-reported-with-three-of-them-in-serious-condition.md) _Context: Perm, Russia_
+2. [Eight people are killed in a warehouse fire in Perm, Russia. ](/news/2011/02/10/eight-people-are-killed-in-a-warehouse-fire-in-perm-russia.md) _Context: Perm, Russia_
+3. [ An explosion at a nightclub in Perm, Russia, kills at least one hundred and injures around a hundred people. ](/news/2009/12/4/an-explosion-at-a-nightclub-in-perm-russia-kills-at-least-one-hundred-and-injures-around-a-hundred-people.md) _Context: Perm, Russia_
+4. [Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was.md) _Context: Russia_
+5. [Russian opposition politician Alexei Navalny is arrested by police at a protest rally in Moscow. His arrest comes shortly after police raid the headquarters of his unregistered Progress Party in an apparent attempt to disrupt online broadcasts of opposition rallies against Vladimir Putin, while police say they were looking for a bomb. Navalny is released from police custody without charge late Sunday but needs to appear in court later. ](/news/2018/01/28/russian-opposition-politician-alexei-navalny-is-arrested-by-police-at-a-protest-rally-in-moscow-his-arrest-comes-shortly-after-police-raid.md) _Context: Russia_

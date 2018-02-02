@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/12/eleven-rare-siberian-tigers-mdash-of-which-only-an-estimated-300-remain-in-the-wild-mdash-die-of-malnutrition-after-living-in-little-cages-a.html)  [JSON](/news/2010/03/12/eleven-rare-siberian-tigers-mdash-of-which-only-an-estimated-300-remain-in-the-wild-mdash-die-of-malnutrition-after-living-in-little-cages-a.json)  [XML](/news/2010/03/12/eleven-rare-siberian-tigers-mdash-of-which-only-an-estimated-300-remain-in-the-wild-mdash-die-of-malnutrition-after-living-in-little-cages-a.xml)  
+
 ### [2010-03-12](/news/2010/03/12/index.md)
 
+##### Siberian tiger
 # Eleven rare Siberian tigers&mdash;of which only an estimated 300 remain in the wild&mdash;die of malnutrition after living in little cages and eating chicken bones at the Shenyang Forest Wild Animal Zoo in Liaoning. 
 
 Eleven rare Siberian tigers kept in small cages and fed only chicken bones have died of malnutrition at a cash-strapped zoo in China&#039;s frigid northeast, state media have said.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8563673.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/7425715/Eleven-Siberian-tigers-starve-to-death-in-Chinese-zoo.html)

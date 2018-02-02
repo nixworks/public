@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/08/29/the-red-cross-reports-that-at-least-17-000-are-still-missing-from-the-former-yugoslavia-including-13-400-from-the-bosnian-wars-2-300-from.html)  [JSON](/news/2007/08/29/the-red-cross-reports-that-at-least-17-000-are-still-missing-from-the-former-yugoslavia-including-13-400-from-the-bosnian-wars-2-300-from.json)  [XML](/news/2007/08/29/the-red-cross-reports-that-at-least-17-000-are-still-missing-from-the-former-yugoslavia-including-13-400-from-the-bosnian-wars-2-300-from.xml)  
+
 ### [2007-08-29](/news/2007/08/29/index.md)
 
+##### Red Cross
 #  The Red Cross reports that at least 17,000 are still missing from the former Yugoslavia, including 13,400 from the Bosnian wars, 2,300 from the Croatian conflict and 2,047 from the Kosovo conflict. 
 
 The International Committee of the Red Cross released the figures ahead of the International Day of the Disappeared on Thursday.
 
 
-### Source:
+### Sources:
 
-1. [AFP via NYT](http://www.nytimes.com/2007/08/30/world/europe/30balkans.html?_r=1&ref=europe&oref=slogin)
+1. [AFP via NYT](https://www.nytimes.com/2007/08/30/world/europe/30balkans.html?_r=1&ref=europe&oref=slogin)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

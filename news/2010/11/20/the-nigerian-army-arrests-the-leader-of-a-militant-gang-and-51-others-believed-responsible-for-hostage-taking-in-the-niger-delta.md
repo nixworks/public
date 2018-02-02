@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/20/the-nigerian-army-arrests-the-leader-of-a-militant-gang-and-51-others-believed-responsible-for-hostage-taking-in-the-niger-delta.html)  [JSON](/news/2010/11/20/the-nigerian-army-arrests-the-leader-of-a-militant-gang-and-51-others-believed-responsible-for-hostage-taking-in-the-niger-delta.json)  [XML](/news/2010/11/20/the-nigerian-army-arrests-the-leader-of-a-militant-gang-and-51-others-believed-responsible-for-hostage-taking-in-the-niger-delta.xml)  
+
 ### [2010-11-20](/news/2010/11/20/index.md)
 
+##### Nigerian Armed Forces
 # The Nigerian army arrests the leader of a militant gang and 51 others believed responsible for hostage-taking in the Niger Delta. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE6AJ03320101120?feedType=RSS&feedName=topNews&sp=true)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/20/c_13615103.htm)

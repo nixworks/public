@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/17/cyclone-evan-hits-fiji-with-winds-as-high-as-230-km-h-amid-reports-of-flooding-and-structural-damage-at-resorts-and-private-homes-more-tha.html)  [JSON](/news/2012/12/17/cyclone-evan-hits-fiji-with-winds-as-high-as-230-km-h-amid-reports-of-flooding-and-structural-damage-at-resorts-and-private-homes-more-tha.json)  [XML](/news/2012/12/17/cyclone-evan-hits-fiji-with-winds-as-high-as-230-km-h-amid-reports-of-flooding-and-structural-damage-at-resorts-and-private-homes-more-tha.xml)  
+
 ### [2012-12-17](/news/2012/12/17/index.md)
 
+##### Cyclone Evan
 # Cyclone Evan hits Fiji with winds as high as 230 km-h, amid reports of flooding and structural damage at resorts and private homes. More than 8,000 people spend the storm in emergency shelters, including many foreign tourists. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/1721091/Cyclone-Evan-knocks-out-power-and-bridges)
 2. [Reuters](http://www.trust.org/alertnet/news/fiji-hammered-by-severe-cyclone-no-deaths-reported/)

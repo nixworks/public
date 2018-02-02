@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/12/nigerian-soldiers-raid-suspected-militant-camps-in-the-niger-delta-in-a-new-offensive.html)  [JSON](/news/2011/05/12/nigerian-soldiers-raid-suspected-militant-camps-in-the-niger-delta-in-a-new-offensive.json)  [XML](/news/2011/05/12/nigerian-soldiers-raid-suspected-militant-camps-in-the-niger-delta-in-a-new-offensive.xml)  
+
 ### [2011-05-12](/news/2011/05/12/index.md)
 
+##### Nigeria
 # Nigerian soldiers raid suspected militant camps in the Niger Delta in a new offensive. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/energyOilNews/idAFLDE74B2CJ20110512?sp=true)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/27/a-bomb-detonates-on-a-crowded-bus-north-of-peshawar-pakistan-killing-19-government-employees-and-injuring-45.html)  [JSON](/news/2013/09/27/a-bomb-detonates-on-a-crowded-bus-north-of-peshawar-pakistan-killing-19-government-employees-and-injuring-45.json)  [XML](/news/2013/09/27/a-bomb-detonates-on-a-crowded-bus-north-of-peshawar-pakistan-killing-19-government-employees-and-injuring-45.xml)  
+
 ### [2013-09-27](/news/2013/09/27/index.md)
 
+##### Peshawar
 # A bomb detonates on a crowded bus north of Peshawar, Pakistan, killing 19 government employees and injuring 45. 
 
 At least 19 people, most of them Pakistan government officials, were killed and 45 injured in a bus explosion on the outskirts of Peshawar.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/pakistan/10338844/Bomb-blast-on-bus-kills-at-least-19-in-Pakistan.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02684/Peshawar_2684881k.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/15/queen-elizabeth-nbsp-ii-head-of-the-commonwealth-opens-the-2006-commonwealth-games-in-melbourne-australia.html)  [JSON](/news/2006/03/15/queen-elizabeth-nbsp-ii-head-of-the-commonwealth-opens-the-2006-commonwealth-games-in-melbourne-australia.json)  [XML](/news/2006/03/15/queen-elizabeth-nbsp-ii-head-of-the-commonwealth-opens-the-2006-commonwealth-games-in-melbourne-australia.xml)  
+
 ### [2006-03-15](/news/2006/03/15/index.md)
 
+##### Queen Elizabeth
 #  Queen Elizabeth&nbsp;II, Head of the Commonwealth opens the 2006 Commonwealth Games in Melbourne, Australia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/commonwealth_games/4805592.stm)
 

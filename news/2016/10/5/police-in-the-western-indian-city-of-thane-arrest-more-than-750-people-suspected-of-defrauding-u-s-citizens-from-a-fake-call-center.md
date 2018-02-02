@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/5/police-in-the-western-indian-city-of-thane-arres
 
 ### [2016-10-5](/news/2016/10/5/index.md)
 
+##### India
 # Police in the western Indian city of Thane arrest more than 750 people suspected of defrauding U.S. citizens from a fake call center. 
 
 Police in the western Indian city of Thane arrest more than 750 people suspected of defrauding US citizens via a fake call centre.

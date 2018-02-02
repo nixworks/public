@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/2/anibal-acevedo-vila-officially-becomes-governor-of-puerto-rico-he-is-the-eighth-popularly-elected-governor-of-the-commonwealth.html)  [JSON](/news/2005/01/2/anibal-acevedo-vila-officially-becomes-governor-of-puerto-rico-he-is-the-eighth-popularly-elected-governor-of-the-commonwealth.json)  [XML](/news/2005/01/2/anibal-acevedo-vila-officially-becomes-governor-of-puerto-rico-he-is-the-eighth-popularly-elected-governor-of-the-commonwealth.xml)  
+
 ### [2005-01-2](/news/2005/01/2/index.md)
 
+##### Anbal Acevedo Vil
 #  Anbal Acevedo Vil officially becomes governor of Puerto Rico. He is the eighth popularly elected governor of the Commonwealth. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [El Vocero, in Spanish](http://vocero.com/noticia.asp?n=50847&d=1/3/2005)
 

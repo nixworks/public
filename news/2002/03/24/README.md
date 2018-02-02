@@ -1,7 +1,7 @@
-## [2002-03-24](/news/2002/03/24/index.md)
 
-### [74th Academy Awards ceremony takes place.](/news/2002/03/24/74th-academy-awards-ceremony-takes-place.md)
-_Context: Academy Award_
+Formats: [HTML](2002/03/24/index.html)  [JSON](2002/03/24/index.json)  [XML](2002/03/24/index.xml)  
+
+## [2002-03-24](/news/2002/03/24/index.md)
 
 ## [Previous Day...](/news/2002/03/23/index.md)
 

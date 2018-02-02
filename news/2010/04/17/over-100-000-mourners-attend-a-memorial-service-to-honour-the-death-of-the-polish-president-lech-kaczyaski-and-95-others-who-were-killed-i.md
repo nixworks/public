@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/17/over-100-000-mourners-attend-a-memorial-service-to-honour-the-death-of-the-polish-president-lech-kaczyaski-and-95-others-who-were-killed-i.html)  [JSON](/news/2010/04/17/over-100-000-mourners-attend-a-memorial-service-to-honour-the-death-of-the-polish-president-lech-kaczyaski-and-95-others-who-were-killed-i.json)  [XML](/news/2010/04/17/over-100-000-mourners-attend-a-memorial-service-to-honour-the-death-of-the-polish-president-lech-kaczyaski-and-95-others-who-were-killed-i.xml)  
+
 ### [2010-04-17](/news/2010/04/17/index.md)
 
+##### Lech Kaczynski
 # Over 100,000 mourners attend a memorial service to honour the death of the Polish president Lech Kaczynski, and 95 others who were killed in a plane crash the previous week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2010/apr/17/lech-kaczynski-crash-memorial-warsaw)
 

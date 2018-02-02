@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/15/the-israeli-knesset-has-passed-a-bill-making-boycotting-israeli-individuals-or-organizations-illegal.html)  [JSON](/news/2011/02/15/the-israeli-knesset-has-passed-a-bill-making-boycotting-israeli-individuals-or-organizations-illegal.json)  [XML](/news/2011/02/15/the-israeli-knesset-has-passed-a-bill-making-boycotting-israeli-individuals-or-organizations-illegal.xml)  
+
 ### [2011-02-15](/news/2011/02/15/index.md)
 
+##### Israel
 # The Israeli Knesset has passed a bill making boycotting Israeli individuals or organizations illegal.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/news/national/knesset-committee-approves-bill-allowing-israel-boycotters-to-be-fined-1.343596)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/12/19/the-guatemalan-military-declares-a-state-of-siege-in-the-department-of-alta-verapaz-to-reclaim-control-of-cities-controlled-by-the-los-zetas.html)  [JSON](/news/2010/12/19/the-guatemalan-military-declares-a-state-of-siege-in-the-department-of-alta-verapaz-to-reclaim-control-of-cities-controlled-by-the-los-zetas.json)  [XML](/news/2010/12/19/the-guatemalan-military-declares-a-state-of-siege-in-the-department-of-alta-verapaz-to-reclaim-control-of-cities-controlled-by-the-los-zetas.xml)  
+
 ### [2010-12-19](/news/2010/12/19/index.md)
 
+##### Guatemala
 # The Guatemalan military declares a state of siege in the department of Alta Verapaz to reclaim control of cities controlled by the Los Zetas Mexican drug gang. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/12/19/AR2010121901963.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/12/19/AR2010121901963.html)
 
 ### Related:
 

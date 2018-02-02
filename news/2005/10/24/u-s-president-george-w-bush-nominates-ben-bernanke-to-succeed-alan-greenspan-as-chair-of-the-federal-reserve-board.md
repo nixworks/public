@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/10/24/u-s-president-george-w-bush-nominates-ben-bernanke-to-succeed-alan-greenspan-as-chair-of-the-federal-reserve-board.html)  [JSON](/news/2005/10/24/u-s-president-george-w-bush-nominates-ben-bernanke-to-succeed-alan-greenspan-as-chair-of-the-federal-reserve-board.json)  [XML](/news/2005/10/24/u-s-president-george-w-bush-nominates-ben-bernanke-to-succeed-alan-greenspan-as-chair-of-the-federal-reserve-board.xml)  
+
 ### [2005-10-24](/news/2005/10/24/index.md)
 
+##### George W. Bush
 #  U.S. President George W. Bush nominates Ben Bernanke to succeed Alan Greenspan as chair of the Federal Reserve Board. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2005/10/24/commentary/column_hays/hays/)
-2. [New York Times](http://www.nytimes.com/2005/10/24/business/24cnd-fed.html?hp&ex=1130212800&en=22688e93d9f681c3&ei=5094&partner=homepage)
+2. [New York Times](https://www.nytimes.com/2005/10/24/business/24cnd-fed.html?hp&ex=1130212800&en=22688e93d9f681c3&ei=5094&partner=homepage)
 
 ### Related:
 

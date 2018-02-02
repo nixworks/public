@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/11/former-prime-minister-of-bangladesh-sheikh-hasina-is-charged-with-murder.html)  [JSON](/news/2007/04/11/former-prime-minister-of-bangladesh-sheikh-hasina-is-charged-with-murder.json)  [XML](/news/2007/04/11/former-prime-minister-of-bangladesh-sheikh-hasina-is-charged-with-murder.xml)  
+
 ### [2007-04-11](/news/2007/04/11/index.md)
 
+##### Prime Minister
 #  Former Prime Minister of Bangladesh Sheikh Hasina is charged with murder. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6544835.stm)
 

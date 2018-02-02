@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/1/air-france-flight-447-disappears-over-the-atlantic-ocean-near-brazil.html)  [JSON](/news/2009/06/1/air-france-flight-447-disappears-over-the-atlantic-ocean-near-brazil.json)  [XML](/news/2009/06/1/air-france-flight-447-disappears-over-the-atlantic-ocean-near-brazil.xml)  
+
 ### [2009-06-1](/news/2009/06/1/index.md)
 
+##### Air France
 #  Air France Flight 447 disappears over the Atlantic Ocean, near Brazil. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/story/0,23599,25571316-1702,00.html?from=public_rss?ref=BPNT)
 2. [BigPond News](http://bigpondnews.com/articles/TopStories/2009/06/01/Jet_with_215_on_board_drops_off_radar_337883.html?ref=BPNT)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/28/mongolia-s-parliament-approves-the-resignation-of-prime-minister-sanjaagiin-bayar-who-stepped-down-due-to-ill-health-he-was-replaced-by-t.html)  [JSON](/news/2009/10/28/mongolia-s-parliament-approves-the-resignation-of-prime-minister-sanjaagiin-bayar-who-stepped-down-due-to-ill-health-he-was-replaced-by-t.json)  [XML](/news/2009/10/28/mongolia-s-parliament-approves-the-resignation-of-prime-minister-sanjaagiin-bayar-who-stepped-down-due-to-ill-health-he-was-replaced-by-t.xml)  
+
 ### [2009-10-28](/news/2009/10/28/index.md)
 
+##### Mongolia
 #  Mongolia's parliament approves the resignation of Prime Minister Sanjaagiin Bayar, who stepped down due to ill health. He was replaced by the Foreign Minister Skhbaataryn Batbold. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jC5Y04ZYJp8PW9boaZ-MSV98meDg)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-10/28/content_12349567.htm)

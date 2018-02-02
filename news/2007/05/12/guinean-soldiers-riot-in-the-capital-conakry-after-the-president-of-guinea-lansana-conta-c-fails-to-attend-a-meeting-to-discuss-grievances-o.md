@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/12/guinean-soldiers-riot-in-the-capital-conakry-after-the-president-of-guinea-lansana-conta-c-fails-to-attend-a-meeting-to-discuss-grievances-o.html)  [JSON](/news/2007/05/12/guinean-soldiers-riot-in-the-capital-conakry-after-the-president-of-guinea-lansana-conta-c-fails-to-attend-a-meeting-to-discuss-grievances-o.json)  [XML](/news/2007/05/12/guinean-soldiers-riot-in-the-capital-conakry-after-the-president-of-guinea-lansana-conta-c-fails-to-attend-a-meeting-to-discuss-grievances-o.xml)  
+
 ### [2007-05-12](/news/2007/05/12/index.md)
 
+##### Guinea
 #  Guinean soldiers riot in the capital Conakry after the President of Guinea Lansana Conte fails to attend a meeting to discuss grievances over their pay and conditions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6650595.stm)
 

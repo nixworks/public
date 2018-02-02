@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/23/a-five-day-strike-at-british-airways-is-announced-to-begin-tomorrow-following-a-breakdown-in-talks-which-were-invaded-by-protesters-yesterda.html)  [JSON](/news/2010/05/23/a-five-day-strike-at-british-airways-is-announced-to-begin-tomorrow-following-a-breakdown-in-talks-which-were-invaded-by-protesters-yesterda.json)  [XML](/news/2010/05/23/a-five-day-strike-at-british-airways-is-announced-to-begin-tomorrow-following-a-breakdown-in-talks-which-were-invaded-by-protesters-yesterda.xml)  
+
 ### [2010-05-23](/news/2010/05/23/index.md)
 
+##### British Airways
 # A five-day strike at British Airways is announced to begin tomorrow following a breakdown in talks which were invaded by protesters yesterday. 
 
 Five-day strike to begin on Monday after union offer is rejected by airline.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/business/2010/2010/05/2010523192721186371.html)
 2. [The Australian](http://www.theaustralian.com.au/business/aviation/british-airways-to-cancel-flights-as-striking-union-seeks-concessions/story-e6frg95x-1225870353605)

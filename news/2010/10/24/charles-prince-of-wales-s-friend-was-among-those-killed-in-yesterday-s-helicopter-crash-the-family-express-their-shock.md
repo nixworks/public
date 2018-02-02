@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/24/charles-prince-of-wales-s-friend-was-among-those-killed-in-yesterday-s-helicopter-crash-the-family-express-their-shock.html)  [JSON](/news/2010/10/24/charles-prince-of-wales-s-friend-was-among-those-killed-in-yesterday-s-helicopter-crash-the-family-express-their-shock.json)  [XML](/news/2010/10/24/charles-prince-of-wales-s-friend-was-among-those-killed-in-yesterday-s-helicopter-crash-the-family-express-their-shock.xml)  
+
 ### [2010-10-24](/news/2010/10/24/index.md)
 
+##### Prince Charles
 # Charles, Prince of Wales's friend was among those killed in yesterday's helicopter crash. The family express their shock. 
 
 One of three people killed in a helicopter crash in County Down was a personal friend of the Prince of Wales, Clarence House confirms.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-11615219)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

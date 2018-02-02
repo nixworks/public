@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/19/devastating-fire-in-manila-philippines-leaves-about-8-000-people-homeless-and-nine-injured-in-a-makati-city-squatter-community.html)  [JSON](/news/2011/04/19/devastating-fire-in-manila-philippines-leaves-about-8-000-people-homeless-and-nine-injured-in-a-makati-city-squatter-community.json)  [XML](/news/2011/04/19/devastating-fire-in-manila-philippines-leaves-about-8-000-people-homeless-and-nine-injured-in-a-makati-city-squatter-community.xml)  
+
 ### [2011-04-19](/news/2011/04/19/index.md)
 
+##### Manila
 # Devastating fire in Manila, Philippines leaves about 8,000 people homeless and nine injured in a Makati City squatter community. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Greenfield Daily Reporter](http://www.greenfieldreporter.com/view/story/3345734442094115ab1b7e89432af264/AS--Philippines-Big-Fire/)
 2. [Inquirer](http://newsinfo.inquirer.net/inquirerheadlines/metro/view/20110419-332144/Makati-fire-displaces-2500-families)

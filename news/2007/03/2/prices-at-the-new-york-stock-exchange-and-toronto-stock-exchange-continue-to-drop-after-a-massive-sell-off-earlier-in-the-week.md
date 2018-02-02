@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/2/prices-at-the-new-york-stock-exchange-and-toronto-stock-exchange-continue-to-drop-after-a-massive-sell-off-earlier-in-the-week.html)  [JSON](/news/2007/03/2/prices-at-the-new-york-stock-exchange-and-toronto-stock-exchange-continue-to-drop-after-a-massive-sell-off-earlier-in-the-week.json)  [XML](/news/2007/03/2/prices-at-the-new-york-stock-exchange-and-toronto-stock-exchange-continue-to-drop-after-a-massive-sell-off-earlier-in-the-week.xml)  
+
 ### [2007-03-2](/news/2007/03/2/index.md)
 
+##### New York Stock Exchange
 #  Prices at the New York Stock Exchange and Toronto Stock Exchange continue to drop after a massive sell-off earlier in the week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/money/story/2007/03/02/markets.html)
 

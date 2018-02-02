@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/13/the-wikileaks-website-honours-a-pledge-made-in-july-by-offering-financial-aid-to-the-legal-team-of-bradley-manning-a-soldier-accused-by-the.html)  [JSON](/news/2011/01/13/the-wikileaks-website-honours-a-pledge-made-in-july-by-offering-financial-aid-to-the-legal-team-of-bradley-manning-a-soldier-accused-by-the.json)  [XML](/news/2011/01/13/the-wikileaks-website-honours-a-pledge-made-in-july-by-offering-financial-aid-to-the-legal-team-of-bradley-manning-a-soldier-accused-by-the.xml)  
+
 ### [2011-01-13](/news/2011/01/13/index.md)
 
+##### WikiLeaks
 # The WikiLeaks website honours a pledge made in July by offering financial aid to the legal team of Bradley Manning, a soldier accused by the United States of providing secret U.S. embassy cables for international public consumption. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2011/jan/13/wikileaks-bradley-manning-defence-fund)
 

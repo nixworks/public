@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/8/former-prime-minister-of-the-netherlands-and-united-nations-high-commissioner-for-refugees-ruud-lubbers-is-injured-in-a-car-accident-and-rus.html)  [JSON](/news/2013/03/8/former-prime-minister-of-the-netherlands-and-united-nations-high-commissioner-for-refugees-ruud-lubbers-is-injured-in-a-car-accident-and-rus.json)  [XML](/news/2013/03/8/former-prime-minister-of-the-netherlands-and-united-nations-high-commissioner-for-refugees-ruud-lubbers-is-injured-in-a-car-accident-and-rus.xml)  
+
 ### [2013-03-8](/news/2013/03/8/index.md)
 
+##### Prime Minister
 # Former Prime Minister of the Netherlands and United Nations High Commissioner for Refugees Ruud Lubbers is injured in a car accident and rushed to a hospital with minor injuries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NOS](http://nos.nl/artikel/482596-lubbers-lichtgewond-bij-ongeluk.html)
 2. [Telegraaf](http://www.telegraaf.nl/binnenland/21369051/__Ruud_Lubbers_over_de_kop__.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/4/the-iraqi-national-assembly-elects-sunni-arab-hajim-al-hassani-as-its-speaker-shiite-hussain-shahristani-and-kurd-aref-taifour-are-elected.html)  [JSON](/news/2005/04/4/the-iraqi-national-assembly-elects-sunni-arab-hajim-al-hassani-as-its-speaker-shiite-hussain-shahristani-and-kurd-aref-taifour-are-elected.json)  [XML](/news/2005/04/4/the-iraqi-national-assembly-elects-sunni-arab-hajim-al-hassani-as-its-speaker-shiite-hussain-shahristani-and-kurd-aref-taifour-are-elected.xml)  
+
 ### [2005-04-4](/news/2005/04/4/index.md)
 
+##### Iraqi National Assembly
 #  The Iraqi National Assembly elects Sunni Arab Hajim al-Hassani as its speaker. Shiite Hussain Shahristani and Kurd Aref Taifour are elected as his top deputies. The selections are the result of protracted debates between Iraq's top political parties. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4405643.stm)
 

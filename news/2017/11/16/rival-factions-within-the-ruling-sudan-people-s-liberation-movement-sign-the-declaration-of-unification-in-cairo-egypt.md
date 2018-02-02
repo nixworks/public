@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/16/rival-factions-within-the-ruling-sudan-people-s
 
 ### [2017-11-16](/news/2017/11/16/index.md)
 
+##### South Sudanese Civil War
 # Rival factions within the ruling Sudan People's Liberation Movement sign the "Declaration of Unification" in Cairo, Egypt. 
 
 

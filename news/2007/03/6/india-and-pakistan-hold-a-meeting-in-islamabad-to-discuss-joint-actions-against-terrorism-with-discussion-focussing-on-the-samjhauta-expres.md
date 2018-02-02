@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/6/india-and-pakistan-hold-a-meeting-in-islamabad-to-discuss-joint-actions-against-terrorism-with-discussion-focussing-on-the-samjhauta-expres.html)  [JSON](/news/2007/03/6/india-and-pakistan-hold-a-meeting-in-islamabad-to-discuss-joint-actions-against-terrorism-with-discussion-focussing-on-the-samjhauta-expres.json)  [XML](/news/2007/03/6/india-and-pakistan-hold-a-meeting-in-islamabad-to-discuss-joint-actions-against-terrorism-with-discussion-focussing-on-the-samjhauta-expres.xml)  
+
 ### [2007-03-6](/news/2007/03/6/index.md)
 
+##### India
 #  India and Pakistan hold a meeting in Islamabad to discuss joint actions against terrorism with discussion focussing on the Samjhauta Express bombings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6421829.stm)
 

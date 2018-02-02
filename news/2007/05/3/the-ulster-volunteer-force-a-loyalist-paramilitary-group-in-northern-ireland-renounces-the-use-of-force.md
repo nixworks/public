@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/3/the-ulster-volunteer-force-a-loyalist-paramilitary-group-in-northern-ireland-renounces-the-use-of-force.html)  [JSON](/news/2007/05/3/the-ulster-volunteer-force-a-loyalist-paramilitary-group-in-northern-ireland-renounces-the-use-of-force.json)  [XML](/news/2007/05/3/the-ulster-volunteer-force-a-loyalist-paramilitary-group-in-northern-ireland-renounces-the-use-of-force.xml)  
+
 ### [2007-05-3](/news/2007/05/3/index.md)
 
+##### Ulster Volunteer Force
 #  The Ulster Volunteer Force, a loyalist paramilitary group in Northern Ireland, renounces the use of force. 
 
 There has been a broad welcome for the announcement by the loyalist paramilitary organisation, the UVF, that it is renouncing violence.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2007/0503/uvf.html)
 2. [Sky News](http://news.sky.com/skynews/article/0,,30100-1263912,00.html)

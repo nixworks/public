@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/22/police-officers-from-more-than-40-forces-unveil-plans-for-protests-against-funding-cuts-authorised-by-the-british-government-including-a-n.html)  [JSON](/news/2011/05/22/police-officers-from-more-than-40-forces-unveil-plans-for-protests-against-funding-cuts-authorised-by-the-british-government-including-a-n.json)  [XML](/news/2011/05/22/police-officers-from-more-than-40-forces-unveil-plans-for-protests-against-funding-cuts-authorised-by-the-british-government-including-a-n.xml)  
+
 ### [2011-05-22](/news/2011/05/22/index.md)
 
+##### British government
 # Police officers from more than 40 forces unveil plans for protests against funding cuts authorised by the British government, including a "national day of action" in July. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Observer](http://www.guardian.co.uk/law/2011/may/21/conservatives-risking-reputation-law-and-order)
 

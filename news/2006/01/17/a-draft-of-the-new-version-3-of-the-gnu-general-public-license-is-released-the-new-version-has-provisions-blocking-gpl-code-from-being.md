@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2006/01/17/a-draft-of-the-new-version-3-of-the-gnu-general-public-license-is-released-the-new-version-has-provisions-blocking-gpl-code-from-being.html)  [JSON](/news/2006/01/17/a-draft-of-the-new-version-3-of-the-gnu-general-public-license-is-released-the-new-version-has-provisions-blocking-gpl-code-from-being.json)  [XML](/news/2006/01/17/a-draft-of-the-new-version-3-of-the-gnu-general-public-license-is-released-the-new-version-has-provisions-blocking-gpl-code-from-being.xml)  
+
 ### [2006-01-17](/news/2006/01/17/index.md)
 
+##### GNU General Public License
 #  A draft of the new version (3) of the GNU General Public License is released. The "new" version has provisions blocking GPL code from being used in, or "secured" by, digital rights management schemes. The "Freeness" provisions also restricts the patent rights coders can claim in their GPL-licensed programs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [text of draft](http://gplv3.fsf.org/draft)
-2. [wired](http://www.wired.com/news/technology/0,70028-0.html?tw=rss.index)
+2. [wired](https://www.wired.com/news/technology/0,70028-0.html?tw=rss.index)
 
 ### Related:
 

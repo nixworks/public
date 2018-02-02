@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/13/a-lawyer-representing-barry-bonds-appeals-his-obstruction-of-justice-charge-to-the-united-states-court-of-appeals-for-the-ninth-circuit.html)  [JSON](/news/2013/02/13/a-lawyer-representing-barry-bonds-appeals-his-obstruction-of-justice-charge-to-the-united-states-court-of-appeals-for-the-ninth-circuit.json)  [XML](/news/2013/02/13/a-lawyer-representing-barry-bonds-appeals-his-obstruction-of-justice-charge-to-the-united-states-court-of-appeals-for-the-ninth-circuit.xml)  
+
 ### [2013-02-13](/news/2013/02/13/index.md)
 
+##### Barry Bonds
 # A lawyer representing Barry Bonds appeals his obstruction of justice charge to the United States Court of Appeals for the Ninth Circuit. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/sports/sportsnow/la-sp-sn-barry-bonds-appeals-20130213,0,2598572.story)
 

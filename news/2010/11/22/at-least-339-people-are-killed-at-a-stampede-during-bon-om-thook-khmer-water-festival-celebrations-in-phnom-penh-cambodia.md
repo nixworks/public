@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/11/22/at-least-339-people-are-killed-at-a-stampede-during-bon-om-thook-khmer-water-festival-celebrations-in-phnom-penh-cambodia.html)  [JSON](/news/2010/11/22/at-least-339-people-are-killed-at-a-stampede-during-bon-om-thook-khmer-water-festival-celebrations-in-phnom-penh-cambodia.json)  [XML](/news/2010/11/22/at-least-339-people-are-killed-at-a-stampede-during-bon-om-thook-khmer-water-festival-celebrations-in-phnom-penh-cambodia.xml)  
+
 ### [2010-11-22](/news/2010/11/22/index.md)
 
+##### stampede
 # At least 339 people are killed at a stampede during Bon Om Thook (Khmer Water Festival) celebrations in Phnom Penh, Cambodia. 
 
 At least 345 people die in a stampede on a bridge during festival celebrations in the Cambodian capital, Phnom Penh, Prime Minister Hun Sen says.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_CAMBODIA_STAMPEDE?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11814894)
-3. [Reuters](http://www.reuters.com/article/idUSTRE6AL5AV20101122)
+3. [Reuters](https://www.reuters.com/article/idUSTRE6AL5AV20101122)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/23/c_13617617.htm)
 4. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 

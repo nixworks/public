@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/3/a-house-fire-in-akron-ohio-us-kills-four-people-
 
 ### [2016-12-3](/news/2016/12/3/index.md)
 
+##### house fire
 # A house fire in Akron, Ohio (US), kills four people, including two young girls. One woman safely fled her attic bedroom. A seriously injured 12-year old girl is revived and rescued. 
 
 With no smoke detectors in the North Hill rental house, a deadly fire spread quietly. 

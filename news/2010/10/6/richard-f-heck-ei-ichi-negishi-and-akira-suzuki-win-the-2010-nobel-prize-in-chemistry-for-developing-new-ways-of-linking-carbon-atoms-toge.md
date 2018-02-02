@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/6/richard-f-heck-ei-ichi-negishi-and-akira-suzuki-win-the-2010-nobel-prize-in-chemistry-for-developing-new-ways-of-linking-carbon-atoms-toge.html)  [JSON](/news/2010/10/6/richard-f-heck-ei-ichi-negishi-and-akira-suzuki-win-the-2010-nobel-prize-in-chemistry-for-developing-new-ways-of-linking-carbon-atoms-toge.json)  [XML](/news/2010/10/6/richard-f-heck-ei-ichi-negishi-and-akira-suzuki-win-the-2010-nobel-prize-in-chemistry-for-developing-new-ways-of-linking-carbon-atoms-toge.xml)  
+
 ### [2010-10-6](/news/2010/10/6/index.md)
 
+##### Richard F. Heck
 # Richard F. Heck, Ei-ichi Negishi and Akira Suzuki win the 2010 Nobel Prize in Chemistry for developing new ways of linking carbon atoms together. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-11484773)
 2. [Nobel Prize](http://nobelprize.org/nobel_prizes/chemistry/laureates/2010/#)

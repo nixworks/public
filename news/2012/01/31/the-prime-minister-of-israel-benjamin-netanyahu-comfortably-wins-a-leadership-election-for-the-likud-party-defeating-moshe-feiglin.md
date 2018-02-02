@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/31/the-prime-minister-of-israel-benjamin-netanyahu-comfortably-wins-a-leadership-election-for-the-likud-party-defeating-moshe-feiglin.html)  [JSON](/news/2012/01/31/the-prime-minister-of-israel-benjamin-netanyahu-comfortably-wins-a-leadership-election-for-the-likud-party-defeating-moshe-feiglin.json)  [XML](/news/2012/01/31/the-prime-minister-of-israel-benjamin-netanyahu-comfortably-wins-a-leadership-election-for-the-likud-party-defeating-moshe-feiglin.xml)  
+
 ### [2012-01-31](/news/2012/01/31/index.md)
 
+##### Israeli Prime Minister
 # The Prime Minister of Israel Benjamin Netanyahu comfortably wins a leadership election for the Likud Party defeating Moshe Feiglin. 
 
 Prime minister says there is &quot;still time&quot; until general elections; Netanyahu leads over Feiglin by large margin.
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=255962)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=185345)

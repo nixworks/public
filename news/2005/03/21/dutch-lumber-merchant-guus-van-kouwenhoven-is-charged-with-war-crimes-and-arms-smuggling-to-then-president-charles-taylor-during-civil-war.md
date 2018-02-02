@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/21/dutch-lumber-merchant-guus-van-kouwenhoven-is-charged-with-war-crimes-and-arms-smuggling-to-then-president-charles-taylor-during-civil-war.html)  [JSON](/news/2005/03/21/dutch-lumber-merchant-guus-van-kouwenhoven-is-charged-with-war-crimes-and-arms-smuggling-to-then-president-charles-taylor-during-civil-war.json)  [XML](/news/2005/03/21/dutch-lumber-merchant-guus-van-kouwenhoven-is-charged-with-war-crimes-and-arms-smuggling-to-then-president-charles-taylor-during-civil-war.xml)  
+
 ### [2005-03-21](/news/2005/03/21/index.md)
 
+##### Netherlands
 #  Dutch lumber merchant Guus van Kouwenhoven is charged with war crimes and arms smuggling to then-president Charles Taylor during civil war in Liberia 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4370533.stm)
 2. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:423fea6e:96e51157647de2a2?type=topNews&localeKey=en_ZA&storyID=7969307)

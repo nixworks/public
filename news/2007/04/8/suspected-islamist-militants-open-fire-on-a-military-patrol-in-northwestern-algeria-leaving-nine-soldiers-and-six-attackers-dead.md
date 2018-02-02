@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/8/suspected-islamist-militants-open-fire-on-a-military-patrol-in-northwestern-algeria-leaving-nine-soldiers-and-six-attackers-dead.html)  [JSON](/news/2007/04/8/suspected-islamist-militants-open-fire-on-a-military-patrol-in-northwestern-algeria-leaving-nine-soldiers-and-six-attackers-dead.json)  [XML](/news/2007/04/8/suspected-islamist-militants-open-fire-on-a-military-patrol-in-northwestern-algeria-leaving-nine-soldiers-and-six-attackers-dead.xml)  
+
 ### [2007-04-8](/news/2007/04/8/index.md)
 
+##### Islamist
 #  Suspected Islamist militants open fire on a military patrol in northwestern Algeria leaving nine soldiers and six attackers dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via the Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/4697456.html)
 

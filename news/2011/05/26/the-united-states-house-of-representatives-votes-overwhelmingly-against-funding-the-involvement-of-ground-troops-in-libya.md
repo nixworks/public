@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2011/05/26/the-united-states-house-of-representatives-votes-overwhelmingly-against-funding-the-involvement-of-ground-troops-in-libya.html)  [JSON](/news/2011/05/26/the-united-states-house-of-representatives-votes-overwhelmingly-against-funding-the-involvement-of-ground-troops-in-libya.json)  [XML](/news/2011/05/26/the-united-states-house-of-representatives-votes-overwhelmingly-against-funding-the-involvement-of-ground-troops-in-libya.xml)  
+
 ### [2011-05-26](/news/2011/05/26/index.md)
 
+##### House of Representatives
 # The United States House of Representatives votes overwhelmingly against funding the involvement of ground troops in Libya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via the ''Military Times](http://www.militarytimes.com/news/2011/05/ap-house-bars-us-ground-forces-in-libya-052611/)
 
 ### Related:
 
-1. [The United States House of Representatives votes in favour of a non-binding resolution asking the Obama administration to seek Congressional authorization for the intervention in Libya. ](/news/2011/06/3/the-united-states-house-of-representatives-votes-in-favour-of-a-non-binding-resolution-asking-the-obama-administration-to-seek-congressional.md) _Context: Libya, United States House of Representatives_
-2. [At least five migrants have died and ninety are missing after their boat sinks off the western coast of Libya. ](/news/2017/09/21/at-least-five-migrants-have-died-and-ninety-are-missing-after-their-boat-sinks-off-the-western-coast-of-libya.md) _Context: Libya_
-3. [The European Union restricts the exports of inflatable boats to Libya. ](/news/2017/07/17/the-european-union-restricts-the-exports-of-inflatable-boats-to-libya.md) _Context: Libya_
-4. [The United States House of Representatives pass a bill ending Dodd-Frank regulations. The bill now goes to the Senate where it is expected to not go through. ](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-doddafrank-regulations-the-bill-now-goes-to-the-senate-where-it-is-expected.md) _Context: United States House of Representatives_
-5. [Bahrain, Egypt, Libya, the Maldives, Saudi Arabia, the United Arab Emirates, and the internationally recognized government of Yemen sever diplomatic ties with Qatar, ordering Qatari citizens in those countries to be expelled as well as cutting all land, air and sea connections. "National security," "media incitement" and Qatar's support of Iran are variously cited. ](/news/2017/06/5/bahrain-egypt-libya-the-maldives-saudi-arabia-the-united-arab-emirates-and-the-internationally-recognized-government-of-yemen-sever-di.md) _Context: Libya_
+1. [The United States House of Representatives votes in favour of a non-binding resolution asking the Obama administration to seek Congressional authorization for the intervention in Libya. ](/news/2011/06/3/the-united-states-house-of-representatives-votes-in-favour-of-a-non-binding-resolution-asking-the-obama-administration-to-seek-congressional.md) _Context: House of Representatives, Libya_
+2. [U.S. President Donald Trump delivers his first State of the Union Address to the 115th United States Congress in the chamber of the House of Representatives.](/news/2018/01/30/u-s-president-donald-trump-delivers-his-first-state-of-the-union-address-to-the-115th-united-states-congress-in-the-chamber-of-the-house-of.md) _Context: House of Representatives_
+3. [A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials. ](/news/2018/01/23/a-double-car-bombing-in-benghazi-libya-kills-at-least-33-people-and-wounds-dozens-of-others-the-victims-include-both-military-personnel.md) _Context: Libya_
+4. [The United States House of Representatives passes a bill to reauthorize, for a period of six years, a key foreign intelligence collection program, permitted by Section 702. Changes to the program will require the FBI to get a probable cause warrant if it wants to view the contents of Americans' communications swept up in the process. ](/news/2018/01/11/the-united-states-house-of-representatives-passes-a-bill-to-reauthorize-for-a-period-of-six-years-a-key-foreign-intelligence-collection-pr.md) _Context: House of Representatives_
+5. [The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" - allegedly bound for Libya, loaded with 410 tonnes of explosives - in Heraklion, Greece. 102 safety deficiencies are found, and 8 crew members are arrested. ](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-flagged-cargo-ship-andromeda-a-allegedly-bound-for-libya-loaded-with-410-tonnes-of-explos.md) _Context: Libya_

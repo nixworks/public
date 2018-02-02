@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/10/28/the-government-of-japan-invalidates-a-decision-by-takeshi-onaga-governor-of-okinawa-to-halt-the-expansion-of-a-u-s-military-base-on-the.html)  [JSON](/news/2015/10/28/the-government-of-japan-invalidates-a-decision-by-takeshi-onaga-governor-of-okinawa-to-halt-the-expansion-of-a-u-s-military-base-on-the.json)  [XML](/news/2015/10/28/the-government-of-japan-invalidates-a-decision-by-takeshi-onaga-governor-of-okinawa-to-halt-the-expansion-of-a-u-s-military-base-on-the.xml)  
+
 ### [2015-10-28](/news/2015/10/28/index.md)
 
+##### Japanese government
 #  The Government of Japan invalidates a decision by Takeshi Onaga, governor of Okinawa, to halt the expansion of a U.S. military base on the island. 
 
 Japan invalidated a decision by Okinawa’s governor to stop landfill work for a controversial expansion of a U.S. base, in a move that is likely to reignite protests by islanders against the central government in Tokyo and the Obama administration.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg Business](http://www.bloomberg.com/news/articles/2015-10-27/japan-overturns-move-to-block-expansion-of-u-s-base-in-okinawa)
+1. [Bloomberg Business](https://www.bloomberg.com/news/articles/2015-10-27/japan-overturns-move-to-block-expansion-of-u-s-base-in-okinawa)
 1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDkPhhaxQgzQ/v1/1200x809.jpg)
 
 ### Related:

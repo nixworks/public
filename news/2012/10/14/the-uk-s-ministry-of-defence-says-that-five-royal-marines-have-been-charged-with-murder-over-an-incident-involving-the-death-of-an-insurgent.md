@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/14/the-uk-s-ministry-of-defence-says-that-five-royal-marines-have-been-charged-with-murder-over-an-incident-involving-the-death-of-an-insurgent.html)  [JSON](/news/2012/10/14/the-uk-s-ministry-of-defence-says-that-five-royal-marines-have-been-charged-with-murder-over-an-incident-involving-the-death-of-an-insurgent.json)  [XML](/news/2012/10/14/the-uk-s-ministry-of-defence-says-that-five-royal-marines-have-been-charged-with-murder-over-an-incident-involving-the-death-of-an-insurgent.xml)  
+
 ### [2012-10-14](/news/2012/10/14/index.md)
 
+##### Ministry of Defence
 # The UK's Ministry of Defence says that five Royal Marines have been charged with murder over an incident involving the death of an insurgent in Afghanistan in 2011. 
 
 Five Royal Marines are charged with murder in connection with an incident in Afghanistan in 2011, the MoD confirms.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-19940138)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63443000/jpg/_63443599_63443598.jpg)

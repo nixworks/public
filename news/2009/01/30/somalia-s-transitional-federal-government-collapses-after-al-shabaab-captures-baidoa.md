@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/30/somalia-s-transitional-federal-government-collapses-after-al-shabaab-captures-baidoa.html)  [JSON](/news/2009/01/30/somalia-s-transitional-federal-government-collapses-after-al-shabaab-captures-baidoa.json)  [XML](/news/2009/01/30/somalia-s-transitional-federal-government-collapses-after-al-shabaab-captures-baidoa.xml)  
+
 ### [2009-01-30](/news/2009/01/30/index.md)
 
+##### Somalia
 #  Somalia's Transitional Federal Government collapses after Al-Shabaab captures Baidoa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/templates/story/story.php?storyId=99995400)
 1. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/22/the-moriarty-tribunal-in-investigating-links-between-businessman-denis-o-brien-and-then-government-minister-michael-lowry-finds-beyond-do.html)  [JSON](/news/2011/03/22/the-moriarty-tribunal-in-investigating-links-between-businessman-denis-o-brien-and-then-government-minister-michael-lowry-finds-beyond-do.json)  [XML](/news/2011/03/22/the-moriarty-tribunal-in-investigating-links-between-businessman-denis-o-brien-and-then-government-minister-michael-lowry-finds-beyond-do.xml)  
+
 ### [2011-03-22](/news/2011/03/22/index.md)
 
+##### Moriarty Tribunal
 # The Moriarty Tribunal, in investigating links between businessman Denis O'Brien and then government minister Michael Lowry, finds "beyond doubt" that Lowry assisted O'Brien in gaining a mobile phone license for Esat Digifone, and concludes that Lowry's actions were "disgraceful and insidious." 
 
 The Moriarty Tribunal has published its report into the awarding of the second mobile phone licence to Esat Digifone in 1996.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2011/0322/moriarty.html)
 2. [TV3](http://www.tv3.ie/article.php?article_id=55904&locID=1.2&pagename=news)

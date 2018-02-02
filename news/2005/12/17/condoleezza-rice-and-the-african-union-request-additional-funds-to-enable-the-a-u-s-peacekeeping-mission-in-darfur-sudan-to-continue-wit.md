@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/17/condoleezza-rice-and-the-african-union-request-additional-funds-to-enable-the-a-u-s-peacekeeping-mission-in-darfur-sudan-to-continue-wit.html)  [JSON](/news/2005/12/17/condoleezza-rice-and-the-african-union-request-additional-funds-to-enable-the-a-u-s-peacekeeping-mission-in-darfur-sudan-to-continue-wit.json)  [XML](/news/2005/12/17/condoleezza-rice-and-the-african-union-request-additional-funds-to-enable-the-a-u-s-peacekeeping-mission-in-darfur-sudan-to-continue-wit.xml)  
+
 ### [2005-12-17](/news/2005/12/17/index.md)
 
+##### Condoleezza Rice
 #  Condoleezza Rice and the African Union request additional funds to enable the A.U.'s peacekeeping mission in Darfur, Sudan to continue. Without additional aid, the African peacekeeping force will run out of funds in four months. Violence in the region has resurged recently. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Boston Globe](http://www.boston.com/news/world/africa/articles/2005/12/17/no_plan_seen_for_more_darfur_funds/)
 2. [LA Times via Chron.com](http://www.chron.com/disp/story.mpl/world/3525801.html)

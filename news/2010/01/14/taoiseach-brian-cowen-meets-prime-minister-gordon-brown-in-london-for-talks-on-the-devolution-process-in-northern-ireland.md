@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/14/taoiseach-brian-cowen-meets-prime-minister-gordon-brown-in-london-for-talks-on-the-devolution-process-in-northern-ireland.html)  [JSON](/news/2010/01/14/taoiseach-brian-cowen-meets-prime-minister-gordon-brown-in-london-for-talks-on-the-devolution-process-in-northern-ireland.json)  [XML](/news/2010/01/14/taoiseach-brian-cowen-meets-prime-minister-gordon-brown-in-london-for-talks-on-the-devolution-process-in-northern-ireland.xml)  
+
 ### [2010-01-14](/news/2010/01/14/index.md)
 
+##### Taoiseach
 # Taoiseach Brian Cowen meets Prime Minister Gordon Brown in London for talks on the devolution process in Northern Ireland. 
 
 Taoiseach Brian Cowen and British prime minister Gordon Brown Mr Brown played down the impact of the Iris Robinson scandal on&hellip;
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8458244.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0114/northpolitics.html)

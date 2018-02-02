@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/7/the-death-toll-from-yesterday-s-earthquake-in-ta
 
 ### [2016-02-7](/news/2016/02/7/index.md)
 
+##### 2016 Taiwan earthquake
 # The death toll from yesterday's earthquake in Taiwan rises to at least 29, with at least 120 trapped under collapsed buildings in Tainan, while 198 people have been rescued. 
 
 The death toll from Saturday’s earthquake rose to 29 by press time last night as rescuers continued to comb the debris of a toppled building in Tainan’s Yongkang District (永康) for survivors and victims.

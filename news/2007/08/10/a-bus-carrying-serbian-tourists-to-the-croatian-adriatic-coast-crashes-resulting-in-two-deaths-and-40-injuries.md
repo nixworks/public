@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/10/a-bus-carrying-serbian-tourists-to-the-croatian-adriatic-coast-crashes-resulting-in-two-deaths-and-40-injuries.html)  [JSON](/news/2007/08/10/a-bus-carrying-serbian-tourists-to-the-croatian-adriatic-coast-crashes-resulting-in-two-deaths-and-40-injuries.json)  [XML](/news/2007/08/10/a-bus-carrying-serbian-tourists-to-the-croatian-adriatic-coast-crashes-resulting-in-two-deaths-and-40-injuries.xml)  
+
 ### [2007-08-10](/news/2007/08/10/index.md)
 
+##### Serbia
 #  A bus carrying Serbian tourists to the Croatian Adriatic coast crashes resulting in two deaths and 40 injuries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L10920039.htm)
 

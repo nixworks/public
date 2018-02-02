@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/31/indonesia-s-ambassador-to-malaysia-rusdihardjo-claims-that-the-death-toll-from-the-2004-indian-ocean-earthquake-may-eventually-exceed-400.html)  [JSON](/news/2004/12/31/indonesia-s-ambassador-to-malaysia-rusdihardjo-claims-that-the-death-toll-from-the-2004-indian-ocean-earthquake-may-eventually-exceed-400.json)  [XML](/news/2004/12/31/indonesia-s-ambassador-to-malaysia-rusdihardjo-claims-that-the-death-toll-from-the-2004-indian-ocean-earthquake-may-eventually-exceed-400.xml)  
+
 ### [2004-12-31](/news/2004/12/31/index.md)
 
+##### Indonesia
 #  Indonesia's ambassador to Malaysia, Rusdihardjo, claims that the death toll from the 2004 Indian Ocean earthquake may eventually exceed 400,000 in Indonesia alone. (
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/4136545.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4138763.stm)

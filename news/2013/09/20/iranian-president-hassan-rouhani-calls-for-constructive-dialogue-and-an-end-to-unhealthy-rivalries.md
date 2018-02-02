@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/20/iranian-president-hassan-rouhani-calls-for-constructive-dialogue-and-an-end-to-unhealthy-rivalries.html)  [JSON](/news/2013/09/20/iranian-president-hassan-rouhani-calls-for-constructive-dialogue-and-an-end-to-unhealthy-rivalries.json)  [XML](/news/2013/09/20/iranian-president-hassan-rouhani-calls-for-constructive-dialogue-and-an-end-to-unhealthy-rivalries.xml)  
+
 ### [2013-09-20](/news/2013/09/20/index.md)
 
+##### Iran
 # Iranian President Hassan Rouhani calls for "constructive dialogue" and an end to "unhealthy rivalries". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/09/19/world/meast/iran-president-nuclear/index.html?hpt=hp_t1)
 

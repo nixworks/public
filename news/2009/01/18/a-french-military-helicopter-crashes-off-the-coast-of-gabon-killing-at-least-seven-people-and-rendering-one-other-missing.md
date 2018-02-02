@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/18/a-french-military-helicopter-crashes-off-the-coast-of-gabon-killing-at-least-seven-people-and-rendering-one-other-missing.html)  [JSON](/news/2009/01/18/a-french-military-helicopter-crashes-off-the-coast-of-gabon-killing-at-least-seven-people-and-rendering-one-other-missing.json)  [XML](/news/2009/01/18/a-french-military-helicopter-crashes-off-the-coast-of-gabon-killing-at-least-seven-people-and-rendering-one-other-missing.xml)  
+
 ### [2009-01-18](/news/2009/01/18/index.md)
 
+##### France
 #  A French military helicopter crashes off the coast of Gabon, killing at least seven people and rendering one other missing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7835920.stm)
 

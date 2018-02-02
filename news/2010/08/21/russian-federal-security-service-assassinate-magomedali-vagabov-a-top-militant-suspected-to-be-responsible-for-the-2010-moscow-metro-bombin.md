@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/21/russian-federal-security-service-assassinate-magomedali-vagabov-a-top-militant-suspected-to-be-responsible-for-the-2010-moscow-metro-bombin.html)  [JSON](/news/2010/08/21/russian-federal-security-service-assassinate-magomedali-vagabov-a-top-militant-suspected-to-be-responsible-for-the-2010-moscow-metro-bombin.json)  [XML](/news/2010/08/21/russian-federal-security-service-assassinate-magomedali-vagabov-a-top-militant-suspected-to-be-responsible-for-the-2010-moscow-metro-bombin.xml)  
+
 ### [2010-08-21](/news/2010/08/21/index.md)
 
+##### Russia
 # Russian Federal Security Service assassinate Magomedali Vagabov, a top militant suspected to be responsible for the 2010 Moscow Metro bombings in Dagestan. 
 
 Sky News Australia has the top stories in news online from Australia and the rest of the World.
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://www.skynews.com.au/topstories/article.aspx?id=502611&articleID=)
 1. [Cover Image](http://www.skynews.com.au/content/dam/skynews/default-images/sn-default.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)

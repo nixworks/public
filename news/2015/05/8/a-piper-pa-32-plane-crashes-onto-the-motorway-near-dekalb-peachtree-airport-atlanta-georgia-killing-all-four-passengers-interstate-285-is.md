@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/8/a-piper-pa-32-plane-crashes-onto-the-motorway-near-dekalb-peachtree-airport-atlanta-georgia-killing-all-four-passengers-interstate-285-is.html)  [JSON](/news/2015/05/8/a-piper-pa-32-plane-crashes-onto-the-motorway-near-dekalb-peachtree-airport-atlanta-georgia-killing-all-four-passengers-interstate-285-is.json)  [XML](/news/2015/05/8/a-piper-pa-32-plane-crashes-onto-the-motorway-near-dekalb-peachtree-airport-atlanta-georgia-killing-all-four-passengers-interstate-285-is.xml)  
+
 ### [2015-05-8](/news/2015/05/8/index.md)
 
+##### Piper PA-32
 # A Piper PA-32 plane crashes onto the motorway near DeKalb-Peachtree Airport, Atlanta, Georgia killing all four passengers. Interstate 285 is closed in both directions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-32632519)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/82873000/jpg/_82873598_cc61c666-61bc-4e0b-a5e1-0ec13f437f15.jpg)

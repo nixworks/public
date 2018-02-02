@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/18/the-smth-bbs-the-most-popular-newsgroup-like-bulletin-board-system-among-chinese-university-students-and-graduates-is-forced-by-the-prc-g.html)  [JSON](/news/2005/03/18/the-smth-bbs-the-most-popular-newsgroup-like-bulletin-board-system-among-chinese-university-students-and-graduates-is-forced-by-the-prc-g.json)  [XML](/news/2005/03/18/the-smth-bbs-the-most-popular-newsgroup-like-bulletin-board-system-among-chinese-university-students-and-graduates-is-forced-by-the-prc-g.xml)  
+
 ### [2005-03-18](/news/2005/03/18/index.md)
 
+##### SMTH BBS
 #  The SMTH BBS, the most popular newsgroup-like Bulletin Board System among Chinese university students and graduates, is forced by the PRC government to shut down off-campus access. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Washington Times](http://washingtontimes.com/upi-breaking/20050318-062031-1826r.htm)
 

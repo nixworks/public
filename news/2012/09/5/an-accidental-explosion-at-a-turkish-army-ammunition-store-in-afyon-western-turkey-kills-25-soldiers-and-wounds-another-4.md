@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/5/an-accidental-explosion-at-a-turkish-army-ammunition-store-in-afyon-western-turkey-kills-25-soldiers-and-wounds-another-4.html)  [JSON](/news/2012/09/5/an-accidental-explosion-at-a-turkish-army-ammunition-store-in-afyon-western-turkey-kills-25-soldiers-and-wounds-another-4.json)  [XML](/news/2012/09/5/an-accidental-explosion-at-a-turkish-army-ammunition-store-in-afyon-western-turkey-kills-25-soldiers-and-wounds-another-4.xml)  
+
 ### [2012-09-5](/news/2012/09/5/index.md)
 
+##### An accidental explosion
 # An accidental explosion at a Turkish Army ammunition store in Afyon, western Turkey kills 25 soldiers and wounds another 4. 
 
 An explosion in western Turkey at an ammunition store for hand grenades kills 25 soldiers and wounds four others, the army says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19499146)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/62712000/jpg/_62712826_turkeyblast.jpg)

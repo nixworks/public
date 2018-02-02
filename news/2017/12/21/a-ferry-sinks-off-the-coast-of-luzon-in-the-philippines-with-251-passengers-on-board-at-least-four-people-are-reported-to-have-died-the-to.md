@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/21/a-ferry-sinks-off-the-coast-of-luzon-in-the-phi
 
 ### [2017-12-21](/news/2017/12/21/index.md)
 
+##### Luzon
 # A ferry sinks off the coast of Luzon in the Philippines with 251 passengers on board. At least four people are reported to have died. The toll is expected to rise, as many are still missing. 
 
 

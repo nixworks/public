@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/7/the-people-s-republic-of-china-dismisses-reports-of-the-death-of-former-president-jiang-zemin-as-pure-rumour.html)  [JSON](/news/2011/07/7/the-people-s-republic-of-china-dismisses-reports-of-the-death-of-former-president-jiang-zemin-as-pure-rumour.json)  [XML](/news/2011/07/7/the-people-s-republic-of-china-dismisses-reports-of-the-death-of-former-president-jiang-zemin-as-pure-rumour.xml)  
+
 ### [2011-07-7](/news/2011/07/7/index.md)
 
+##### China
 # The People's Republic of China dismisses reports of the death of former President Jiang Zemin as "pure rumour". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Yahoo! News](http://old.news.yahoo.com/s/afp/20110707/wl_asia_afp/chinapoliticspartyjiang)
 

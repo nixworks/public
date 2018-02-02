@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/24/a-small-plane-crashes-east-of-guatemala-city-killing-ten-and-injuring-four.html)  [JSON](/news/2008/08/24/a-small-plane-crashes-east-of-guatemala-city-killing-ten-and-injuring-four.json)  [XML](/news/2008/08/24/a-small-plane-crashes-east-of-guatemala-city-killing-ten-and-injuring-four.xml)  
+
 ### [2008-08-24](/news/2008/08/24/index.md)
 
+##### Guatemala City
 #  A small plane crashes east of Guatemala City, killing ten and injuring four. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Canadian Press via Google News](http://canadianpress.google.com/article/ALeqM5ghCpFjIH_cXnmG1EMaRUkKsKG8_w)
 

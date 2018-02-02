@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/16/omar-bongo-s-son-ali-ben-bongo-is-chosen-to-stand-as-the-ruling-party-s-presidential-candidate-in-gabon.html)  [JSON](/news/2009/07/16/omar-bongo-s-son-ali-ben-bongo-is-chosen-to-stand-as-the-ruling-party-s-presidential-candidate-in-gabon.json)  [XML](/news/2009/07/16/omar-bongo-s-son-ali-ben-bongo-is-chosen-to-stand-as-the-ruling-party-s-presidential-candidate-in-gabon.xml)  
+
 ### [2009-07-16](/news/2009/07/16/index.md)
 
+##### Omar Bongo
 #  Omar Bongo's son, Ali-Ben Bongo, is chosen to stand as the ruling party's presidential candidate in Gabon. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8153318.stm)
 

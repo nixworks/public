@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/25/tropical-storm-isaac-causes-floodings-and-kills-at-least-three-people-in-haiti-a-nation-still-recovering-from-the-2010-earthquake-the-stor.html)  [JSON](/news/2012/08/25/tropical-storm-isaac-causes-floodings-and-kills-at-least-three-people-in-haiti-a-nation-still-recovering-from-the-2010-earthquake-the-stor.json)  [XML](/news/2012/08/25/tropical-storm-isaac-causes-floodings-and-kills-at-least-three-people-in-haiti-a-nation-still-recovering-from-the-2010-earthquake-the-stor.xml)  
+
 ### [2012-08-25](/news/2012/08/25/index.md)
 
+##### Tropical Storm Isaac
 # Tropical Storm Isaac causes floodings and kills at least three people in Haiti, a nation still recovering from the 2010 earthquake. The storm moves Northwest over east Cuba. 
 
 At least 3 dead in Haiti; Forecasters say storm with 60-mph winds will build strength into Category 1 hurricane as it approaches Sunshine State; Florida Gov. Scott declares state of emergency
 
 
-### Source:
+### Sources:
 
 1. [CBS](http://www.cbsnews.com/8301-33816_162-57500319/isaac-expected-to-become-hurricane-as-it-nears-florida/)
 2. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/)

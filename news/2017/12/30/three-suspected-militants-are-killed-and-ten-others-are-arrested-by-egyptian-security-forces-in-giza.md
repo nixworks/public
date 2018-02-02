@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/30/three-suspected-militants-are-killed-and-ten-ot
 
 ### [2017-12-30](/news/2017/12/30/index.md)
 
+##### Insurgency in Egypt (2013-present)
 # Three suspected militants are killed and ten others are arrested by Egyptian security forces in Giza. 
 
 Egyptian security forces killed three suspected militants in an exchange of gunfire at a farm they believed to be a militant hideout on the outskirts of Giza, the interior ministry said in a statement on Saturday.

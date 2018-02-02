@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/27/chinese-human-rights-activist-hu-jia-is-released-after-serving-a-3-1-2-year-sentence-for-inciting-to-subvert-state-power.html)  [JSON](/news/2011/06/27/chinese-human-rights-activist-hu-jia-is-released-after-serving-a-3-1-2-year-sentence-for-inciting-to-subvert-state-power.json)  [XML](/news/2011/06/27/chinese-human-rights-activist-hu-jia-is-released-after-serving-a-3-1-2-year-sentence-for-inciting-to-subvert-state-power.xml)  
+
 ### [2011-06-27](/news/2011/06/27/index.md)
 
+##### Chinese human rights
 # Chinese human rights activist Hu Jia is released after serving a 3 1-2-year sentence, for "inciting to subvert state power." 
 
 Prominent human rights activist Hu Jia, who was released over the weekend after serving a 3 1/2-year sentence, is promising his parents he will be &quot;careful&quot; in the future.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/06/27/china.dissident.hu/index.html)
 1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/06/27/china.dissident.hu/tzvids.hu.jia.jpg)

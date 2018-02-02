@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/13/south-africa-confirms-a-plan-to-bid-for-the-2020-summer-olympics-after-its-success-in-hosting-the-2010-fifa-world-cup-which-concluded-on-sun.html)  [JSON](/news/2010/07/13/south-africa-confirms-a-plan-to-bid-for-the-2020-summer-olympics-after-its-success-in-hosting-the-2010-fifa-world-cup-which-concluded-on-sun.json)  [XML](/news/2010/07/13/south-africa-confirms-a-plan-to-bid-for-the-2020-summer-olympics-after-its-success-in-hosting-the-2010-fifa-world-cup-which-concluded-on-sun.xml)  
+
 ### [2010-07-13](/news/2010/07/13/index.md)
 
+##### 2020 Summer Olympics
 # South Africa confirms a plan to bid for the 2020 Summer Olympics after its success in hosting the 2010 FIFA World Cup which concluded on Sunday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/olympic_games/8816647.stm)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE66C0ME20100713)

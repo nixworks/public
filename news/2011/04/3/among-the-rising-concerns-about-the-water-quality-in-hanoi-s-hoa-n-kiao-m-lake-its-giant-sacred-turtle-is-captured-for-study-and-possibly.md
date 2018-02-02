@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/3/among-the-rising-concerns-about-the-water-quality-in-hanoi-s-hoa-n-kiao-m-lake-its-giant-sacred-turtle-is-captured-for-study-and-possibly.html)  [JSON](/news/2011/04/3/among-the-rising-concerns-about-the-water-quality-in-hanoi-s-hoa-n-kiao-m-lake-its-giant-sacred-turtle-is-captured-for-study-and-possibly.json)  [XML](/news/2011/04/3/among-the-rising-concerns-about-the-water-quality-in-hanoi-s-hoa-n-kiao-m-lake-its-giant-sacred-turtle-is-captured-for-study-and-possibly.xml)  
+
 ### [2011-04-3](/news/2011/04/3/index.md)
 
+##### water quality
 # Among the rising concerns about the water quality in Hanoi's Hoan Kiem Lake, its giant sacred turtle is captured for study and (possibly) medical treatment. 
 
 Experts in Hanoi captured a legendary giant turtle for medical treatment on Sunday, a milestone in a case that has grabbed national attention and cast a spotlight on environmental degradation in Vietnam.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2011/04/04/oukoe-uk-vietnam-turtle-idUKTRE73313E20110404)
 2. [Time'' magazine](http://www.time.com/time/world/article/0,8599,2063308,00.html)

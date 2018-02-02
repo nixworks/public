@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/13/motorola-announces-that-they-will-release-a-cell-phone-running-the-linux-operating-system.html)  [JSON](/news/2003/02/13/motorola-announces-that-they-will-release-a-cell-phone-running-the-linux-operating-system.json)  [XML](/news/2003/02/13/motorola-announces-that-they-will-release-a-cell-phone-running-the-linux-operating-system.xml)  
+
 ### [2003-02-13](/news/2003/02/13/index.md)
 
+##### Motorola
 #  Motorola announces that they will release a cell phone running the Linux operating system. 
 
 

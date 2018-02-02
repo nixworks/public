@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/26/former-khmer-rouge-prison-chief-duch-receives-the-verdict-in-his-trial-in-phnom-penh-the-first-of-five-surviving-senior-figures-to-do-so.html)  [JSON](/news/2010/07/26/former-khmer-rouge-prison-chief-duch-receives-the-verdict-in-his-trial-in-phnom-penh-the-first-of-five-surviving-senior-figures-to-do-so.json)  [XML](/news/2010/07/26/former-khmer-rouge-prison-chief-duch-receives-the-verdict-in-his-trial-in-phnom-penh-the-first-of-five-surviving-senior-figures-to-do-so.xml)  
+
 ### [2010-07-26](/news/2010/07/26/index.md)
 
+##### Khmer Rouge
 # Former Khmer Rouge prison chief Duch receives the verdict in his trial in Phnom Penh - the first of five surviving senior figures to do so. He is sentenced to 35 years in prison with 16 years off for time served. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/2010726352170386.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10757320)

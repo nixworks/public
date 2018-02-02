@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/11/uganda-s-opposition-leader-kizza-besigye-is-arrested-after-calling-for-a-protest-against-recent-fuel-price-increases.html)  [JSON](/news/2011/04/11/uganda-s-opposition-leader-kizza-besigye-is-arrested-after-calling-for-a-protest-against-recent-fuel-price-increases.json)  [XML](/news/2011/04/11/uganda-s-opposition-leader-kizza-besigye-is-arrested-after-calling-for-a-protest-against-recent-fuel-price-increases.xml)  
+
 ### [2011-04-11](/news/2011/04/11/index.md)
 
+##### Uganda
 # Uganda's opposition leader Kizza Besigye is arrested after calling for a protest against recent fuel price increases. 
 
 Kizza Besigye and two other Ugandan opposition leaders are arrested after calling for people to walk to work in protest at recent fuel price increases.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ghaZC0M3GffU7yinWD9OLYVIhK9g?docId=CNG.490daf03504981722977bcaf5c8cc45c.751)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-13033279)

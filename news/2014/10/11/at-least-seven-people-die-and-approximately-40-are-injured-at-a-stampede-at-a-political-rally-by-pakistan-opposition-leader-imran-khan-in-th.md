@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/11/at-least-seven-people-die-and-approximately-40-are-injured-at-a-stampede-at-a-political-rally-by-pakistan-opposition-leader-imran-khan-in-th.html)  [JSON](/news/2014/10/11/at-least-seven-people-die-and-approximately-40-are-injured-at-a-stampede-at-a-political-rally-by-pakistan-opposition-leader-imran-khan-in-th.json)  [XML](/news/2014/10/11/at-least-seven-people-die-and-approximately-40-are-injured-at-a-stampede-at-a-political-rally-by-pakistan-opposition-leader-imran-khan-in-th.xml)  
+
 ### [2014-10-11](/news/2014/10/11/index.md)
 
+##### Pakistan
 # At least seven people die and approximately 40 are injured at a stampede at a political rally by Pakistan opposition leader Imran Khan in the city of Multan. 
 
 Seven die in a stampede at a rally addressed by Pakistani opposition politician Imran Khan in Multan, with around 40 others injured.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-29572979)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/78146000/jpg/_78146960_78146955.jpg)

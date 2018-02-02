@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/03/13/an-executive-board-member-of-the-european-central-bank-benoa-r-t-caura-c-says-that-the-ecb-is-determined-to-secure-the-continued-decline-in.html)  [JSON](/news/2014/03/13/an-executive-board-member-of-the-european-central-bank-benoa-r-t-caura-c-says-that-the-ecb-is-determined-to-secure-the-continued-decline-in.json)  [XML](/news/2014/03/13/an-executive-board-member-of-the-european-central-bank-benoa-r-t-caura-c-says-that-the-ecb-is-determined-to-secure-the-continued-decline-in.xml)  
+
 ### [2014-03-13](/news/2014/03/13/index.md)
 
+##### European Central Bank
 # An executive board member of the European Central Bank, Benoit Coeure, says that the ECB is determined to secure the continued decline in real interest rates in the months ahead. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/03/13/us-ecb-policy-coeure-idUSBREA2C0HT20140313)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140313&t=2&i=861209655&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA2C0NT900)
+1. [Reuters](https://www.reuters.com/article/2014/03/13/us-ecb-policy-coeure-idUSBREA2C0HT20140313)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140313&t=2&i=861209655&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA2C0NT900)
 
 ### Related:
 

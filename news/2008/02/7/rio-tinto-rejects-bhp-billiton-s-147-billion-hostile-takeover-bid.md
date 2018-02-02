@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/7/rio-tinto-rejects-bhp-billiton-s-147-billion-hostile-takeover-bid.html)  [JSON](/news/2008/02/7/rio-tinto-rejects-bhp-billiton-s-147-billion-hostile-takeover-bid.json)  [XML](/news/2008/02/7/rio-tinto-rejects-bhp-billiton-s-147-billion-hostile-takeover-bid.xml)  
+
 ### [2008-02-7](/news/2008/02/7/index.md)
 
+##### Rio Tinto
 #  Rio Tinto rejects BHP Billiton's $147 billion hostile takeover bid. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Financial Times](http://www.ft.com/cms/s/0/12f7e4c6-d51e-11dc-9af1-0000779fd2ac.html)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/09/19/iran-rejects-a-unanimous-united-nations-international-atomic-energy-agency-resolution-calling-on-iran-to-freeze-its-uranium-enrichment-acti.html)  [JSON](/news/2004/09/19/iran-rejects-a-unanimous-united-nations-international-atomic-energy-agency-resolution-calling-on-iran-to-freeze-its-uranium-enrichment-acti.json)  [XML](/news/2004/09/19/iran-rejects-a-unanimous-united-nations-international-atomic-energy-agency-resolution-calling-on-iran-to-freeze-its-uranium-enrichment-acti.xml)  
+
 ### [2004-09-19](/news/2004/09/19/index.md)
 
+##### Iran
 #  Iran rejects a unanimous United Nations International Atomic Energy Agency resolution calling on Iran to freeze its uranium enrichment activities. Iran threatens to prevent UN inspections of its nuclear program. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6272724)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6272724)
 
 ### Related:
 

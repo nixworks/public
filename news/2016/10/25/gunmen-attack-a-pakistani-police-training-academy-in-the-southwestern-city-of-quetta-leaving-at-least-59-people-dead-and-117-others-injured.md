@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/25/gunmen-attack-a-pakistani-police-training-acade
 
 ### [2016-10-25](/news/2016/10/25/index.md)
 
+##### 2016 Quetta police training college attack
 # Gunmen attack a Pakistani police training academy in the southwestern city of Quetta, leaving at least 59 people dead and 117 others injured. ISIL - Khorasan Province claims responsibility for the attack. 
 
 Militant group Islamic State said on Tuesday that fighters loyal to its movement attacked a police training college in Quetta in southwest Pakistan in a raid that officials said killed 59 people and wounded more than 100.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/29/former-president-of-italy-oscar-luigi-scalfaro-dies-at-the-age-of-93.html)  [JSON](/news/2012/01/29/former-president-of-italy-oscar-luigi-scalfaro-dies-at-the-age-of-93.json)  [XML](/news/2012/01/29/former-president-of-italy-oscar-luigi-scalfaro-dies-at-the-age-of-93.xml)  
+
 ### [2012-01-29](/news/2012/01/29/index.md)
 
+##### President of Italy
 # Former President of Italy Oscar Luigi Scalfaro dies at the age of 93. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''The Star](http://thestar.com.my/news/story.asp?file=/2012/1/29/worldupdates/2012-01-29T093808Z_1_TRE80S07D_RTROPTT_0_UK-ITALY-EXPRESIDENT&sec=Worldupdates)
 

@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2011/01/14/amnesty-international-criticises-the-british-government-for-spending-nearly-agbp1-billion-on-30-watchkeeper-wk450-unmanned-aerial-vehicles.html)  [JSON](/news/2011/01/14/amnesty-international-criticises-the-british-government-for-spending-nearly-agbp1-billion-on-30-watchkeeper-wk450-unmanned-aerial-vehicles.json)  [XML](/news/2011/01/14/amnesty-international-criticises-the-british-government-for-spending-nearly-agbp1-billion-on-30-watchkeeper-wk450-unmanned-aerial-vehicles.xml)  
+
 ### [2011-01-14](/news/2011/01/14/index.md)
 
+##### Amnesty International
 # Amnesty International criticises the British government for spending nearly GBP1 billion on 30 Watchkeeper WK450 unmanned aerial vehicles (UAVs) which Israel's military allegedly "field-tested on Palestinians" during the Gaza War. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/UK-News/British-Troops-Train-In-Israel-To-Use-Drones-As-Critics-Claim-Equipment-Is-Tested-On-Palestinians/Article/201101215894470?lpos=UK_News_Top_Stories_Header_4&lid=ARTICLE_15894470_British_Troops_Train_In_Israel_To_Use_Drones_As_Critics_Claim_Equipment_Is_Tested_On_Palestinians)
+
+### Changes:
+
+1. [Amnesty International criticises the British government for spending nearly PS1 billion on 30 Watchkeeper WK450 unmanned aerial vehicles (UAVs) which Israel's military allegedly "field-tested on Palestinians" during the Gaza War. ](/news/2011/01/14/amnesty-international-criticises-the-british-government-for-spending-nearly-aps1-billion-on-30-watchkeeper-wk450-unmanned-aerial-vehicles-ua.md) _2017-08-25 03:31:46 (First version)_
+1. [Amnesty International criticises the British government for spending nearly GBP1 billion on 30 Watchkeeper WK450 unmanned aerial vehicles (UAVs) which Israel's military allegedly "field-tested on Palestinians" during the Gaza War. ](/news/2011/01/14/amnesty-international-criticises-the-british-government-for-spending-nearly-agbp1-billion-on-30-watchkeeper-wk450-unmanned-aerial-vehicles.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [Amnesty International accuses Israel of willfully committing war crimes against the Palestinians. ](/news/2014/02/27/amnesty-international-accuses-israel-of-willfully-committing-war-crimes-against-the-palestinians.md) _Context: Amnesty International, Israel_
 4. [Amnesty International issues a report claiming that Israel is guilty of torture and human rights violations, but the report is criticised as biased because of the alleged involvement of an anti-Israel activist in its writing. ](/news/2012/06/8/amnesty-international-issues-a-report-claiming-that-israel-is-guilty-of-torture-and-human-rights-violations-but-the-report-is-criticised-as.md) _Context: Amnesty International, Israel_
 5. [Israel asks the United Nations to disavow the Goldstone Report after the report's author, Judge Richard Goldstone, says that he retracts the accusation that Israel intentionally targeted civilians during the 2008-2009 Gaza War. ](/news/2011/04/2/israel-asks-the-united-nations-to-disavow-the-goldstone-report-after-the-report-s-author-judge-richard-goldstone-says-that-he-retracts-the.md) _Context: 2008-2009 Gaza War, Israel_
-
-### Changes:
-
-1. [Amnesty International criticises the British government for spending nearly PS1 billion on 30 Watchkeeper WK450 unmanned aerial vehicles (UAVs) which Israel's military allegedly "field-tested on Palestinians" during the Gaza War. ](/news/2011/01/14/amnesty-international-criticises-the-british-government-for-spending-nearly-aps1-billion-on-30-watchkeeper-wk450-unmanned-aerial-vehicles-ua.md) _2017-08-25 03:31:46 (First version)_
-1. [Amnesty International criticises the British government for spending nearly GBP1 billion on 30 Watchkeeper WK450 unmanned aerial vehicles (UAVs) which Israel's military allegedly "field-tested on Palestinians" during the Gaza War. ](/news/2011/01/14/amnesty-international-criticises-the-british-government-for-spending-nearly-agbp1-billion-on-30-watchkeeper-wk450-unmanned-aerial-vehicles.md) _(Current version)_

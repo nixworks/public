@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/25/an-out-of-control-forest-fire-near-the-canadian-town-of-fort-mcmurray-in-alberta-causes-the-closure-of-highway-63.html)  [JSON](/news/2011/09/25/an-out-of-control-forest-fire-near-the-canadian-town-of-fort-mcmurray-in-alberta-causes-the-closure-of-highway-63.json)  [XML](/news/2011/09/25/an-out-of-control-forest-fire-near-the-canadian-town-of-fort-mcmurray-in-alberta-causes-the-closure-of-highway-63.xml)  
+
 ### [2011-09-25](/news/2011/09/25/index.md)
 
+##### forest fire
 # An out-of-control forest fire near the Canadian town of Fort McMurray in Alberta causes the closure of Highway 63. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Vancouver Sun](http://www.vancouversun.com/news/control+forest+fire+moving+close+Fort+McMurray/5456495/story.html)
 

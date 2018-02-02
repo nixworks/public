@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/04/13/one-student-is-murdered-and-another-injured-in-mardan-pakistan-over-alleged-blasphemy-the-student-who-died-mashal-khan-was-known-on-soci.html)  [JSON](/news/2017/04/13/one-student-is-murdered-and-another-injured-in-mardan-pakistan-over-alleged-blasphemy-the-student-who-died-mashal-khan-was-known-on-soci.json)  [XML](/news/2017/04/13/one-student-is-murdered-and-another-injured-in-mardan-pakistan-over-alleged-blasphemy-the-student-who-died-mashal-khan-was-known-on-soci.xml)  
+
 ### [2017-04-13](/news/2017/04/13/index.md)
 
+##### Mardan
 # One student is murdered and another injured in Mardan, Pakistan over alleged blasphemy. The student who died, Mashal Khan, was known on social media for his secular and liberal views. 
 
 The student was brutally murdered by a mob at a university campus in northern Pakistan, police say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-39593302)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/1CCD/production/_95637370_9b541733-4023-4bc8-ad2d-b995847b3c1a.jpg)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/03/25/doctors-at-a-monaco-hospital-call-the-condition-of-prince-rainier-iii-worrying-and-are-unsure-if-he-will-recover-from-heart-and-renal-fai.html)  [JSON](/news/2005/03/25/doctors-at-a-monaco-hospital-call-the-condition-of-prince-rainier-iii-worrying-and-are-unsure-if-he-will-recover-from-heart-and-renal-fai.json)  [XML](/news/2005/03/25/doctors-at-a-monaco-hospital-call-the-condition-of-prince-rainier-iii-worrying-and-are-unsure-if-he-will-recover-from-heart-and-renal-fai.xml)  
+
 ### [2005-03-25](/news/2005/03/25/index.md)
 
+##### Monaco
 #  Doctors at a Monaco hospital call the condition of Prince Rainier III "worrying" and are unsure if he will recover from heart and renal failure. He remains on a ventilator. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Yahoo! News](http://news.yahoo.com/news?tmpl=story&u=/ap/20050325/ap_on_re_eu/monaco_prince_rainier_28)
+1. [Yahoo! News](https://news.yahoo.com/news?tmpl=story&u=/ap/20050325/ap_on_re_eu/monaco_prince_rainier_28)
 
 ### Related:
 

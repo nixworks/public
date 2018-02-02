@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/21/south-africa-formally-begins-the-process-of-wit
 
 ### [2016-10-21](/news/2016/10/21/index.md)
 
+##### South Africa
 # South Africa formally begins the process of withdrawing from the International Criminal Court amid a dispute over the country's refusal to arrest Sudanese President Omar al-Bashir at last year's African Union summit in Johannesburg. 
 
 South Africa formally begins the process of withdrawing from the International Criminal Court, saying it did not want to help achieve &quot;regime change&quot;.

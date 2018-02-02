@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/23/india-s-bharatiya-janata-party-win-elections-in-the-state-of-gujarat.html)  [JSON](/news/2007/12/23/india-s-bharatiya-janata-party-win-elections-in-the-state-of-gujarat.json)  [XML](/news/2007/12/23/india-s-bharatiya-janata-party-win-elections-in-the-state-of-gujarat.xml)  
+
 ### [2007-12-23](/news/2007/12/23/index.md)
 
+##### India
 #  India's Bharatiya Janata Party win elections in the state of Gujarat. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7158037.stm)
 

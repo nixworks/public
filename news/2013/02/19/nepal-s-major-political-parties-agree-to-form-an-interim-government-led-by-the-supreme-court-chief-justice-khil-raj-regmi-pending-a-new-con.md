@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/19/nepal-s-major-political-parties-agree-to-form-an-interim-government-led-by-the-supreme-court-chief-justice-khil-raj-regmi-pending-a-new-con.html)  [JSON](/news/2013/02/19/nepal-s-major-political-parties-agree-to-form-an-interim-government-led-by-the-supreme-court-chief-justice-khil-raj-regmi-pending-a-new-con.json)  [XML](/news/2013/02/19/nepal-s-major-political-parties-agree-to-form-an-interim-government-led-by-the-supreme-court-chief-justice-khil-raj-regmi-pending-a-new-con.xml)  
+
 ### [2013-02-19](/news/2013/02/19/index.md)
 
+##### Nepal
 # Nepal's major political parties agree to form an interim government led by the Supreme Court Chief Justice Khil Raj Regmi, pending a new Constituent Assembly election to write a new constitution. 
 
 Nepal&#039;s major political parties have agreed to form an interim government led by the Supreme Court chief justice and hold elections in June, likely ending a deadlock that left the nation without a fully functioning government since last year.
 
 
-### Source:
+### Sources:
 
 1. [AP via NDTV](http://www.ndtv.com/article/world/nepal-parties-agree-on-interim-prime-minister-new-elections-332701)
 1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)

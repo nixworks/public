@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/14/the-death-toll-from-a-collapse-of-t-b-joshua-s-the-synagogue-church-of-all-nations-on-friday-in-the-ikotun-area-of-the-nigerian-largest-ci.html)  [JSON](/news/2014/09/14/the-death-toll-from-a-collapse-of-t-b-joshua-s-the-synagogue-church-of-all-nations-on-friday-in-the-ikotun-area-of-the-nigerian-largest-ci.json)  [XML](/news/2014/09/14/the-death-toll-from-a-collapse-of-t-b-joshua-s-the-synagogue-church-of-all-nations-on-friday-in-the-ikotun-area-of-the-nigerian-largest-ci.xml)  
+
 ### [2014-09-14](/news/2014/09/14/index.md)
 
+##### T. B. Joshua
 # The death toll from a collapse of T. B. Joshua's The Synagogue Church of All Nations on Friday in the Ikotun area of the Nigerian largest city Lagos reaches 40. 
 
 Forty people died after a building collapse at the megachurch of one of Nigeria&#039;s most famous preachers
 
 
-### Source:
+### Sources:
 
 1. [The Express Tribune](http://tribune.com.pk/story/762153/death-toll-now-40-in-nigeria-building-collapse-rescuers/)
 1. [Cover Image](https://c.tribune.com.pk/2014/09/762153-AFPLagosChurch-1410697064-846-640x480.jpg)

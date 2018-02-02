@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/14/laurent-lamothe-resigns-as-prime-minister-of-haiti-along-with-several-ministers-following-violent-protests-and-a-commission-s-call-for-him-t.html)  [JSON](/news/2014/12/14/laurent-lamothe-resigns-as-prime-minister-of-haiti-along-with-several-ministers-following-violent-protests-and-a-commission-s-call-for-him-t.json)  [XML](/news/2014/12/14/laurent-lamothe-resigns-as-prime-minister-of-haiti-along-with-several-ministers-following-violent-protests-and-a-commission-s-call-for-him-t.xml)  
+
 ### [2014-12-14](/news/2014/12/14/index.md)
 
+##### Laurent Lamothe
 # Laurent Lamothe resigns as Prime Minister of Haiti along with several ministers following violent protests and a commission's call for him to step down. The protesters have been demanding the holding of early elections. 
 
 PORT-AU-PRINCE, Haiti (AP) — Prime Minister Laurent Lamothe announced early Sunday that he was resigning 
 
 
-### Source:
+### Sources:
 
 1. [TownHall](http://townhall.com/news/politics-elections/2014/12/14/haiti-awaits-pm-speech-amid-political-discontent-n1931598)
 1. [Cover Image](https://media.townhall.com/townhall/reu/ha/2014/347/245f457b-0508-4195-bf31-fecc92b23a9d.jpg)

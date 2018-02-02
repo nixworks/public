@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/03/23/sami-al-arian-the-former-university-professor-convicted-of-funneling-money-to-palestinian-islamic-jihad-ends-his-hunger-strike-to-protest.html)  [JSON](/news/2007/03/23/sami-al-arian-the-former-university-professor-convicted-of-funneling-money-to-palestinian-islamic-jihad-ends-his-hunger-strike-to-protest.json)  [XML](/news/2007/03/23/sami-al-arian-the-former-university-professor-convicted-of-funneling-money-to-palestinian-islamic-jihad-ends-his-hunger-strike-to-protest.xml)  
+
 ### [2007-03-23](/news/2007/03/23/index.md)
 
+##### Sami Al-Arian
 #  Sami Al-Arian, the former university professor convicted of funneling money to Palestinian Islamic Jihad, ends his hunger strike to protest his imprisonment, after 60 days. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20070324/ap_on_re_us/attacks_professor_1)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20070324/ap_on_re_us/attacks_professor_1)
 
 ### Related:
 

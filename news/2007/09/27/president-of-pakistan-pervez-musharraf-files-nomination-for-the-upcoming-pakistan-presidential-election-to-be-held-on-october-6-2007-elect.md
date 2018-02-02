@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/09/27/president-of-pakistan-pervez-musharraf-files-nomination-for-the-upcoming-pakistan-presidential-election-to-be-held-on-october-6-2007-elect.html)  [JSON](/news/2007/09/27/president-of-pakistan-pervez-musharraf-files-nomination-for-the-upcoming-pakistan-presidential-election-to-be-held-on-october-6-2007-elect.json)  [XML](/news/2007/09/27/president-of-pakistan-pervez-musharraf-files-nomination-for-the-upcoming-pakistan-presidential-election-to-be-held-on-october-6-2007-elect.xml)  
+
 ### [2007-09-27](/news/2007/09/27/index.md)
 
+##### president
 #  President of Pakistan Pervez Musharraf files nomination for the upcoming Pakistan Presidential Election to be held on October 6, 2007 election without his army rank. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSSP23319420070927?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070927&t=2&i=1838722&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-27T144222Z_01_SP233194_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSSP23319420070927?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20070927&t=2&i=1838722&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-27T144222Z_01_SP233194_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

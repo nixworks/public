@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/13/protesters-in-the-mexican-state-of-guerrero-attack-the-state-government-headquarters-in-the-state-capital-chilpancingo-over-the-disappearanc.html)  [JSON](/news/2014/10/13/protesters-in-the-mexican-state-of-guerrero-attack-the-state-government-headquarters-in-the-state-capital-chilpancingo-over-the-disappearanc.json)  [XML](/news/2014/10/13/protesters-in-the-mexican-state-of-guerrero-attack-the-state-government-headquarters-in-the-state-capital-chilpancingo-over-the-disappearanc.xml)  
+
 ### [2014-10-13](/news/2014/10/13/index.md)
 
+##### Mexico
 # Protesters in the Mexican state of Guerrero attack the state government headquarters in the state capital Chilpancingo over the disappearance of 43 students. 
 
 Mexican riot police are deployed to Chilpancingo after local government offices were set on fire over the disappearance of 43 students.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-29609409)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78206000/jpg/_78206907_78206906.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/28/in-istanbul-turkish-police-forces-interrupt-the-lgbt-pride-parade-which-was-refused-this-year-due-to-the-holy-month-ramadan-by-firing-wat.html)  [JSON](/news/2015/06/28/in-istanbul-turkish-police-forces-interrupt-the-lgbt-pride-parade-which-was-refused-this-year-due-to-the-holy-month-ramadan-by-firing-wat.json)  [XML](/news/2015/06/28/in-istanbul-turkish-police-forces-interrupt-the-lgbt-pride-parade-which-was-refused-this-year-due-to-the-holy-month-ramadan-by-firing-wat.xml)  
+
 ### [2015-06-28](/news/2015/06/28/index.md)
 
+##### pride parade
 # In Istanbul, Turkish police forces interrupt the LGBT pride parade, which was refused this year due to the holy month Ramadan, by firing water cannons and rubber pellets. 
 
 Turkish police fired water cannon and rubber pellets to disperse a gay pride parade in central Istanbul on Sunday, after organisers said they had been refused permission to march this year because of the Muslim holy month of Ramadan.
 
 
-### Source:
+### Sources:
 
 1. [Reuters UK](http://uk.reuters.com/article/2015/06/28/uk-turkey-rights-pride-idUKKCN0P80P420150628?feedType=RSS&feedName=worldNews)
 1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150628&t=2&i=1059856019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB5R0F3)

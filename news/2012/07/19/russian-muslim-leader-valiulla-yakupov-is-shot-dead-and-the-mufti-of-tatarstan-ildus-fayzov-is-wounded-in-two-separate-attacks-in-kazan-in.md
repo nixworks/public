@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/19/russian-muslim-leader-valiulla-yakupov-is-shot-dead-and-the-mufti-of-tatarstan-ildus-fayzov-is-wounded-in-two-separate-attacks-in-kazan-in.html)  [JSON](/news/2012/07/19/russian-muslim-leader-valiulla-yakupov-is-shot-dead-and-the-mufti-of-tatarstan-ildus-fayzov-is-wounded-in-two-separate-attacks-in-kazan-in.json)  [XML](/news/2012/07/19/russian-muslim-leader-valiulla-yakupov-is-shot-dead-and-the-mufti-of-tatarstan-ildus-fayzov-is-wounded-in-two-separate-attacks-in-kazan-in.xml)  
+
 ### [2012-07-19](/news/2012/07/19/index.md)
 
+##### Valiulla Yakupov
 # Russian Muslim leader Valiulla Yakupov is shot dead and the Mufti of Tatarstan, Ildus Fayzov, is wounded in two separate attacks in Kazan in the Russian Republic of Tatarstan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18900049)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61674000/jpg/_61674460_61674459.jpg)

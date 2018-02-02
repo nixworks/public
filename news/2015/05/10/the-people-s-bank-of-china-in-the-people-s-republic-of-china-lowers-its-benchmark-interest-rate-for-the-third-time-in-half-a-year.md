@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/05/10/the-people-s-bank-of-china-in-the-people-s-republic-of-china-lowers-its-benchmark-interest-rate-for-the-third-time-in-half-a-year.html)  [JSON](/news/2015/05/10/the-people-s-bank-of-china-in-the-people-s-republic-of-china-lowers-its-benchmark-interest-rate-for-the-third-time-in-half-a-year.json)  [XML](/news/2015/05/10/the-people-s-bank-of-china-in-the-people-s-republic-of-china-lowers-its-benchmark-interest-rate-for-the-third-time-in-half-a-year.xml)  
+
 ### [2015-05-10](/news/2015/05/10/index.md)
 
+##### People's Bank of China
 # The People's Bank of China in the People's Republic of China lowers its benchmark interest rate for the third time in half a year. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/05/10/us-china-economy-rates-idUSKBN0NV0A320150510)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150510&t=2&i=1047210823&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB4909X)
+1. [Reuters](https://www.reuters.com/article/2015/05/10/us-china-economy-rates-idUSKBN0NV0A320150510)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20150510&t=2&i=1047210823&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB4909X)
 
 ### Related:
 

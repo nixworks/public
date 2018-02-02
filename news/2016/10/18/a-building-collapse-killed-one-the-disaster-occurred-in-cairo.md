@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/18/a-building-collapse-killed-one-the-disaster-occ
 
 ### [2016-10-18](/news/2016/10/18/index.md)
 
+##### 
 # A building collapse killed one. The disaster occurred in Cairo. 
 
 

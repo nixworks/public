@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/8/typhoon-haiyan-one-of-the-strongest-tropical-cyclones-in-recorded-history-to-make-landfall-hits-the-visayas-in-the-philippines-with-at-le.html)  [JSON](/news/2013/11/8/typhoon-haiyan-one-of-the-strongest-tropical-cyclones-in-recorded-history-to-make-landfall-hits-the-visayas-in-the-philippines-with-at-le.json)  [XML](/news/2013/11/8/typhoon-haiyan-one-of-the-strongest-tropical-cyclones-in-recorded-history-to-make-landfall-hits-the-visayas-in-the-philippines-with-at-le.xml)  
+
 ### [2013-11-8](/news/2013/11/8/index.md)
 
+##### Typhoon Haiyan
 # Typhoon Haiyan, one of the strongest tropical cyclones in recorded history to make landfall, hits the Visayas in the Philippines, with at least three people dead. 
 
 One of the strongest typhoons ever to hit land has slammed the Philippines, forcing millions to take shelter.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5i6hiTnh6zxmugm6WSQborXCaVqtQ?docId=5871c0e2-c850-4669-966c-f6dd75ec4599)
 2. [BBC News](http://www.bbc.co.uk/news/world-asia-24846813)
@@ -15,7 +19,7 @@ One of the strongest typhoons ever to hit land has slammed the Philippines, forc
 ### Related:
 
 1. [Authorities diagnose six more cases of the Zika virus in the provinces of Cebu and Iloilo in the Visayas and Laguna province near Metro Manila, Philippines. ](/news/2016/09/20/authorities-diagnose-six-more-cases-of-the-zika-virus-in-the-provinces-of-cebu-and-iloilo-in-the-visayas-and-laguna-province-near-metro-mani.md) _Context: Philippines, Visayas_
-2. [The Philippines suspends trade relations with North Korea to comply with a recent United Nations Security Council resolution over its repeated missile tests. ](/news/2017/09/8/the-philippines-suspends-trade-relations-with-north-korea-to-comply-with-a-recent-united-nations-security-council-resolution-over-its-repeat.md) _Context: Philippines_
-3. [Flights are cancelled and evacuations are ordered for over 100,000 people in the North Central Coast of Vietnam, in preparation for Typhoon Doksuri. The system has already claimed four lives passing over the Philippines. ](/news/2017/09/14/flights-are-cancelled-and-evacuations-are-ordered-for-over-100-000-people-in-the-north-central-coast-of-vietnam-in-preparation-for-typhoon.md) _Context: Philippines_
-4. [In an unconfirmed video, the Islamic State of Iraq and the Levant instructs its followers to go and fight in the Philippines instead of the Middle East. ](/news/2017/09/12/in-an-unconfirmed-video-the-islamic-state-of-iraq-and-the-levant-instructs-its-followers-to-go-and-fight-in-the-philippines-instead-of-the.md) _Context: Philippines_
-5. [Philippine Justice secretary Vitaliano Aguirre is caught allegedly conspiring a lawsuit against opposition Senator Risa Hontiveros. ](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.md) _Context: Philippines_
+2. [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md) _Context: Philippines_
+3. [Journalists in the Philippines protest the government's decision to cancel the license of Rappler. ](/news/2018/01/19/journalists-in-the-philippines-protest-the-government-s-decision-to-cancel-the-license-of-rappler.md) _Context: Philippines_
+4. [The Mayon volcano begins to erupt in the Philippines. ](/news/2018/01/15/the-mayon-volcano-begins-to-erupt-in-the-philippines.md) _Context: Philippines_
+5. [Thirty-seven people, mostly call centre workers, are missing and presumed dead in a fire in the Davao City Mall in the Philippines. ](/news/2017/12/23/thirty-seven-people-mostly-call-centre-workers-are-missing-and-presumed-dead-in-a-fire-in-the-davao-city-mall-in-the-philippines.md) _Context: Philippines_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/30/8-people-are-killed-and-10-are-injured-in-a-bomb-attack-on-the-offices-of-a-sunni-political-party-kitab-sultan-in-diyala-governorate.html)  [JSON](/news/2009/07/30/8-people-are-killed-and-10-are-injured-in-a-bomb-attack-on-the-offices-of-a-sunni-political-party-kitab-sultan-in-diyala-governorate.json)  [XML](/news/2009/07/30/8-people-are-killed-and-10-are-injured-in-a-bomb-attack-on-the-offices-of-a-sunni-political-party-kitab-sultan-in-diyala-governorate.xml)  
+
 ### [2009-07-30](/news/2009/07/30/index.md)
 
+##### Kitab Sultan
 #  8 people are killed and 10 are injured in a bomb attack on the offices of a Sunni political party, Kitab Sultan, in Diyala Governorate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/World/Story/STIStory_410253.html)
 

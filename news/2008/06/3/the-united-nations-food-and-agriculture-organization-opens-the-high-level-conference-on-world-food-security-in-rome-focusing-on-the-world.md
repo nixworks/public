@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2008/06/3/the-united-nations-food-and-agriculture-organization-opens-the-high-level-conference-on-world-food-security-in-rome-focusing-on-the-world.html)  [JSON](/news/2008/06/3/the-united-nations-food-and-agriculture-organization-opens-the-high-level-conference-on-world-food-security-in-rome-focusing-on-the-world.json)  [XML](/news/2008/06/3/the-united-nations-food-and-agriculture-organization-opens-the-high-level-conference-on-world-food-security-in-rome-focusing-on-the-world.xml)  
+
 ### [2008-06-3](/news/2008/06/3/index.md)
 
+##### Food and Agriculture Organization
 #  The United Nations Food and Agriculture Organization opens the High-Level Conference on World Food Security in Rome, focusing on the world food price crisis, climate change and agriculture and food vs fuel issues.
 
 

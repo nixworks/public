@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/2/continuing-eruptions-of-mount-merapi-in-java-indonesia-lead-to-cancellation-of-flights-to-the-nearby-city-of-yogyakarta.html)  [JSON](/news/2010/11/2/continuing-eruptions-of-mount-merapi-in-java-indonesia-lead-to-cancellation-of-flights-to-the-nearby-city-of-yogyakarta.json)  [XML](/news/2010/11/2/continuing-eruptions-of-mount-merapi-in-java-indonesia-lead-to-cancellation-of-flights-to-the-nearby-city-of-yogyakarta.xml)  
+
 ### [2010-11-2](/news/2010/11/2/index.md)
 
+##### Mounts Merapi
 # Continuing eruptions of Mount Merapi in Java, Indonesia, lead to cancellation of flights to the nearby city of Yogyakarta. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_INDONESIA_DISASTERS?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [Shanghai Daily](http://www.shanghaidaily.com/gallery/photo.asp?article_id=453381)

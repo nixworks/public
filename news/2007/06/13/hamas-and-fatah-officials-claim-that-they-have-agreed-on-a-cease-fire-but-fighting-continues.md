@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/13/hamas-and-fatah-officials-claim-that-they-have-agreed-on-a-cease-fire-but-fighting-continues.html)  [JSON](/news/2007/06/13/hamas-and-fatah-officials-claim-that-they-have-agreed-on-a-cease-fire-but-fighting-continues.json)  [XML](/news/2007/06/13/hamas-and-fatah-officials-claim-that-they-have-agreed-on-a-cease-fire-but-fighting-continues.xml)  
+
 ### [2007-06-13](/news/2007/06/13/index.md)
 
+##### cease-fire
 #  Hamas and Fatah officials claim that they have agreed on a cease-fire, but fighting continues. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6751079.stm)
 

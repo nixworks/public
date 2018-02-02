@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/20/the-state-government-of-minas-gerais-brazil-dec
 
 ### [2018-01-20](/news/2018/01/20/index.md)
 
+##### Minas Gerais
 # The state government of Minas Gerais, Brazil, declares a health emergency in three areas, Belo Horizonte, Itabira and Ponte Nova, over an outbreak of yellow fever. 
 
 The government of Minas Gerais state in southeastern Brazil decreed Saturday a public health emergency situation in three regional state for six months because of yellow fever. The measure covers the regional health units of the municipalities of Belo Horizonte, Itabira and Ponte Nova &#8211; 94 cities in total, according to a Jornal do Brazil report &hellip;

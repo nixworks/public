@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/17/a-drill-reaches-33-chilean-miners-trapped-underground-in-the-2010-copiapo-mining-accident-since-5-august-their-rescue-is-still-expected-to.html)  [JSON](/news/2010/09/17/a-drill-reaches-33-chilean-miners-trapped-underground-in-the-2010-copiapo-mining-accident-since-5-august-their-rescue-is-still-expected-to.json)  [XML](/news/2010/09/17/a-drill-reaches-33-chilean-miners-trapped-underground-in-the-2010-copiapo-mining-accident-since-5-august-their-rescue-is-still-expected-to.xml)  
+
 ### [2010-09-17](/news/2010/09/17/index.md)
 
+##### 2010 Copiap mining accident
 # A drill reaches 33 Chilean miners trapped underground in the 2010 Copiap mining accident since 5 August; their rescue is still expected to take several weeks. 
 
 A drill reaches the 33 men trapped in a Chilean mine since early August, but it will take several weeks to widen the hole to free them.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11350066)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

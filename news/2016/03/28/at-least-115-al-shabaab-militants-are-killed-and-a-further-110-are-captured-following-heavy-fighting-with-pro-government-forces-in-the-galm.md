@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2016/03/28/at-least-115-al-shabaab-militants-are-killed-and-a-further-110-are-captured-following-heavy-fighting-with-pro-government-forces-in-the-galm.html)  [JSON](/news/2016/03/28/at-least-115-al-shabaab-militants-are-killed-and-a-further-110-are-captured-following-heavy-fighting-with-pro-government-forces-in-the-galm.json)  [XML](/news/2016/03/28/at-least-115-al-shabaab-militants-are-killed-and-a-further-110-are-captured-following-heavy-fighting-with-pro-government-forces-in-the-galm.xml)  
+
 ### [2016-03-28](/news/2016/03/28/index.md)
 
+##### War in Somalia (2009-present)
 #  At least 115 Al-Shabaab militants are killed and a further 110 are captured following heavy fighting with pro-government forces in the Galmudug region of Somalia, according to the regional government. There has been no independent confirmation of this claim. 
 
 At least 115 fighters of militant Islamist group al-Shabab are killed in heavy fighting with pro-government forces in northern Somalia, officials say.

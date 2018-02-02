@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/2/the-presidential-commission-on-good-government-the-agency-tasked-to-recover-the-ill-gotten-wealth-taken-during-the-dictatorship-of-ferdinan.html)  [JSON](/news/2013/01/2/the-presidential-commission-on-good-government-the-agency-tasked-to-recover-the-ill-gotten-wealth-taken-during-the-dictatorship-of-ferdinan.json)  [XML](/news/2013/01/2/the-presidential-commission-on-good-government-the-agency-tasked-to-recover-the-ill-gotten-wealth-taken-during-the-dictatorship-of-ferdinan.xml)  
+
 ### [2013-01-2](/news/2013/01/2/index.md)
 
+##### Presidential Commission on Good Government
 # The Presidential Commission on Good Government, the agency tasked to recover the ill-gotten wealth taken during the dictatorship of Ferdinand Marcos has submitted plans to President Benigno Aquino III to end its operations after 27 years. 
 
 THE PRESIDENTIAL Commission on Good Government (PCGG)-- which is tasked to pursue alleged ill-gotten wealth of the Marcoses -- has submitted a draft bill to the Palace seeking to transfer its functions to the Justice and Finance departments as it prepares to end its three-decade existence.
 
 
-### Source:
+### Sources:
 
 1. [Business World](http://www.bworldonline.com/content.php?section=Nation&title=PCGG-submits-exit-proposal-to-Malaca%C3%B1ang&id=63679)
 2. [Rappler](http://www.rappler.com/nation/18920-govt-set-to-quit-marcos-wealth-chase)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/19/a-court-in-paris-finds-international-monetary-f
 
 ### [2016-12-19](/news/2016/12/19/index.md)
 
+##### Paris
 # A court in Paris finds International Monetary Fund Managing Director Christine Lagarde guilty of negligence in a 404 million euro "misuse of public funds" case. The court ruled that Lagarde won't be fined, won't serve any jail time, or receive a criminal record. The IMF Executive Board "looks forward to continuing to work with" her. 
 
 With the International Monetary Fund facing populist criticism and at a critical juncture, Ms. Lagarde was found guilty of charges linked to her time as France’s finance minister.

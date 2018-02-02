@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/15/the-karen-national-union-attacks-myawaddy-burma.html)  [JSON](/news/2009/02/15/the-karen-national-union-attacks-myawaddy-burma.json)  [XML](/news/2009/02/15/the-karen-national-union-attacks-myawaddy-burma.xml)  
+
 ### [2009-02-15](/news/2009/02/15/index.md)
 
+##### Karen National Union
 #  The Karen National Union attacks Myawaddy, Burma. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hwMi90kiyEJfhSn-oI_rP8CqCCBQ)
 

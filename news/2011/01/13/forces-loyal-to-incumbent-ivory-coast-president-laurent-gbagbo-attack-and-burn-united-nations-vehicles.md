@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/13/forces-loyal-to-incumbent-ivory-coast-president-laurent-gbagbo-attack-and-burn-united-nations-vehicles.html)  [JSON](/news/2011/01/13/forces-loyal-to-incumbent-ivory-coast-president-laurent-gbagbo-attack-and-burn-united-nations-vehicles.json)  [XML](/news/2011/01/13/forces-loyal-to-incumbent-ivory-coast-president-laurent-gbagbo-attack-and-burn-united-nations-vehicles.xml)  
+
 ### [2011-01-13](/news/2011/01/13/index.md)
 
+##### Ivory Coast
 # Forces loyal to incumbent Ivory Coast President Laurent Gbagbo attack and burn United Nations vehicles. 
 
 World body accuses security forces loyal to incumbent president of attacking its vehicles and personnel.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/201111335926232774.html)
 2. [Reuters](http://af.reuters.com/article/commoditiesNews/idAFLDE70C1YJ20110113?sp=true)

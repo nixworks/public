@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/15/microsoft-agrees-to-buy-swedish-company-mojang-the-makers-of-minecraft-for-us-2-5-billion.html)  [JSON](/news/2014/09/15/microsoft-agrees-to-buy-swedish-company-mojang-the-makers-of-minecraft-for-us-2-5-billion.json)  [XML](/news/2014/09/15/microsoft-agrees-to-buy-swedish-company-mojang-the-makers-of-minecraft-for-us-2-5-billion.xml)  
+
 ### [2014-09-15](/news/2014/09/15/index.md)
 
+##### Microsoft
 # Microsoft agrees to buy Swedish company Mojang, the makers of Minecraft, for US$2.5 billion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-09-15-US--Microsoft-Minecraft/id-98a097472dd046728493477d71e68e15)
 

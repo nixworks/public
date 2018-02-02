@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/17/an-explosion-destroys-a-bus-in-the-khyber-pakhtunkhwa-province-of-pakistan-killing-18.html)  [JSON](/news/2011/01/17/an-explosion-destroys-a-bus-in-the-khyber-pakhtunkhwa-province-of-pakistan-killing-18.json)  [XML](/news/2011/01/17/an-explosion-destroys-a-bus-in-the-khyber-pakhtunkhwa-province-of-pakistan-killing-18.xml)  
+
 ### [2011-01-17](/news/2011/01/17/index.md)
 
+##### explosion
 # An explosion destroys a bus in the Khyber Pakhtunkhwa province of Pakistan, killing 18. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2011/jan/17/pakistan-bus-explosion?CMP=twt_fd)
 

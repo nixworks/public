@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/16/mexican-drug-war-the-mexican-federal-police-arrested-one-of-the-three-ringleaders-responsible-for-the-deadly-shootout-last-month-in-the-mex.html)  [JSON](/news/2012/07/16/mexican-drug-war-the-mexican-federal-police-arrested-one-of-the-three-ringleaders-responsible-for-the-deadly-shootout-last-month-in-the-mex.json)  [XML](/news/2012/07/16/mexican-drug-war-the-mexican-federal-police-arrested-one-of-the-three-ringleaders-responsible-for-the-deadly-shootout-last-month-in-the-mex.xml)  
+
 ### [2012-07-16](/news/2012/07/16/index.md)
 
+##### Mexican Drug War
 # Mexican Drug War: The Mexican Federal Police arrested one of the three ringleaders responsible for the deadly shootout last month in the Mexico City International Airport's busy food court. An anonymous tip-off led police to his whereabouts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Global Post](http://www.globalpost.com/dispatch/news/regions/americas/mexico/120716/mexico-city-airport-shootout-ringleader-bogard-felipe-l)
 

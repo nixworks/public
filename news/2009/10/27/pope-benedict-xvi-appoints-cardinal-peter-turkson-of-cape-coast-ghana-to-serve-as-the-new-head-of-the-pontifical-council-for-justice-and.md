@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/27/pope-benedict-xvi-appoints-cardinal-peter-turkson-of-cape-coast-ghana-to-serve-as-the-new-head-of-the-pontifical-council-for-justice-and.html)  [JSON](/news/2009/10/27/pope-benedict-xvi-appoints-cardinal-peter-turkson-of-cape-coast-ghana-to-serve-as-the-new-head-of-the-pontifical-council-for-justice-and.json)  [XML](/news/2009/10/27/pope-benedict-xvi-appoints-cardinal-peter-turkson-of-cape-coast-ghana-to-serve-as-the-new-head-of-the-pontifical-council-for-justice-and.xml)  
+
 ### [2009-10-27](/news/2009/10/27/index.md)
 
+##### Pope Benedict XVI
 #  Pope Benedict XVI appoints Cardinal Peter Turkson of Cape Coast, Ghana, to serve as the new head of the Pontifical Council for Justice and Peace. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Pakistan Christian TV](http://pakistanchristian.tv/news/2009-10-27_Pope_fills_Justice_and_Peace_post_with_African_cardinal.cfm)
 

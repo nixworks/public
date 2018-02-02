@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2014/06/20/us-sends-300-military-advisers-to-iraq-as-battle-rages-in-baiji-over-the-country-s-biggest-oil-refinery.html)  [JSON](/news/2014/06/20/us-sends-300-military-advisers-to-iraq-as-battle-rages-in-baiji-over-the-country-s-biggest-oil-refinery.json)  [XML](/news/2014/06/20/us-sends-300-military-advisers-to-iraq-as-battle-rages-in-baiji-over-the-country-s-biggest-oil-refinery.xml)  
+
 ### [2014-06-20](/news/2014/06/20/index.md)
 
+##### Baiji
 # US sends 300 military advisers to Iraq as battle rages in Baiji over the country's biggest oil refinery. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/06/20/us-iraq-security-idUSKBN0EU0MS20140620)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140620&t=2&i=909993398&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA5I0XY)
+1. [Reuters](https://www.reuters.com/article/2014/06/20/us-iraq-security-idUSKBN0EU0MS20140620)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20140620&t=2&i=909993398&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA5I0XY)
+
+### Changes:
+
+1. [2014 Northern Iraq offensive:US sends 300 military advisers to Iraq as battle rages in Baiji over the country's biggest oil refinery. ](/news/2014/06/20/2014-northern-iraq-offensive-pus-sends-300-military-advisers-to-iraq-as-battle-rages-in-baiji-over-the-country-s-biggest-oil-refinery.md) _2017-08-25 03:40:35 (First version)_
+2. [2014 Northern Iraq offensive:: US sends 300 military advisers to Iraq as battle rages in Baiji over the country's biggest oil refinery. ](/news/2014/06/20/2014-northern-iraq-offensive-us-sends-300-military-advisers-to-iraq-as-battle-rages-in-baiji-over-the-country-s-biggest-oil-refinery.md) _2017-08-27 03:40:52 (Update)_
+2. [US sends 300 military advisers to Iraq as battle rages in Baiji over the country's biggest oil refinery. ](/news/2014/06/20/us-sends-300-military-advisers-to-iraq-as-battle-rages-in-baiji-over-the-country-s-biggest-oil-refinery.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@
 3. [Iraqi forces expel ISIS from the refinery town of Baiji in northern Iraq. ](/news/2014/11/14/iraqi-forces-expel-isis-from-the-refinery-town-of-baiji-in-northern-iraq.md) _Context: Baiji_
 4. [A suicide bomber kills eight people in the centre of Baiji in northern Iraq. ](/news/2014/11/11/a-suicide-bomber-kills-eight-people-in-the-centre-of-baiji-in-northern-iraq.md) _Context: Baiji_
 5. [An oil refinery in Baiji, Iraq, is bombed, resulting in its closure. ](/news/2011/02/26/an-oil-refinery-in-baiji-iraq-is-bombed-resulting-in-its-closure.md) _Context: Baiji_
-
-### Changes:
-
-1. [2014 Northern Iraq offensive:US sends 300 military advisers to Iraq as battle rages in Baiji over the country's biggest oil refinery. ](/news/2014/06/20/2014-northern-iraq-offensive-pus-sends-300-military-advisers-to-iraq-as-battle-rages-in-baiji-over-the-country-s-biggest-oil-refinery.md) _2017-08-25 03:40:35 (First version)_
-2. [2014 Northern Iraq offensive:: US sends 300 military advisers to Iraq as battle rages in Baiji over the country's biggest oil refinery. ](/news/2014/06/20/2014-northern-iraq-offensive-us-sends-300-military-advisers-to-iraq-as-battle-rages-in-baiji-over-the-country-s-biggest-oil-refinery.md) _2017-08-27 03:40:52 (Update)_
-2. [US sends 300 military advisers to Iraq as battle rages in Baiji over the country's biggest oil refinery. ](/news/2014/06/20/us-sends-300-military-advisers-to-iraq-as-battle-rages-in-baiji-over-the-country-s-biggest-oil-refinery.md) _(Current version)_

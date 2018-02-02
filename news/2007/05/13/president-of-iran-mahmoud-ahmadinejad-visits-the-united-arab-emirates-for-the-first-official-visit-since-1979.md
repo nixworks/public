@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/13/president-of-iran-mahmoud-ahmadinejad-visits-the-united-arab-emirates-for-the-first-official-visit-since-1979.html)  [JSON](/news/2007/05/13/president-of-iran-mahmoud-ahmadinejad-visits-the-united-arab-emirates-for-the-first-official-visit-since-1979.json)  [XML](/news/2007/05/13/president-of-iran-mahmoud-ahmadinejad-visits-the-united-arab-emirates-for-the-first-official-visit-since-1979.xml)  
+
 ### [2007-05-13](/news/2007/05/13/index.md)
 
+##### President
 #  President of Iran Mahmoud Ahmadinejad visits the United Arab Emirates for the first official visit since 1979. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6650745.stm)
 

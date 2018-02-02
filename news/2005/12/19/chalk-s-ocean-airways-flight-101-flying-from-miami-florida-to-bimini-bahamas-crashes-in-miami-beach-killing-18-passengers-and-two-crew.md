@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/19/chalk-s-ocean-airways-flight-101-flying-from-miami-florida-to-bimini-bahamas-crashes-in-miami-beach-killing-18-passengers-and-two-crew.html)  [JSON](/news/2005/12/19/chalk-s-ocean-airways-flight-101-flying-from-miami-florida-to-bimini-bahamas-crashes-in-miami-beach-killing-18-passengers-and-two-crew.json)  [XML](/news/2005/12/19/chalk-s-ocean-airways-flight-101-flying-from-miami-florida-to-bimini-bahamas-crashes-in-miami-beach-killing-18-passengers-and-two-crew.xml)  
+
 ### [2005-12-19](/news/2005/12/19/index.md)
 
+##### Chalk's Ocean Airways Flight 101
 #  Chalk's Ocean Airways Flight 101 flying from Miami, Florida to Bimini, Bahamas, crashes in Miami Beach, killing 18 passengers and two crew members.
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2005/US/12/20/miami.crash/)
 

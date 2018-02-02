@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/6/broadway-s-once-wins-four-prizes-at-the-drama-desk-awards-in-new-york.html)  [JSON](/news/2012/06/6/broadway-s-once-wins-four-prizes-at-the-drama-desk-awards-in-new-york.json)  [XML](/news/2012/06/6/broadway-s-once-wins-four-prizes-at-the-drama-desk-awards-in-new-york.xml)  
+
 ### [2012-06-6](/news/2012/06/6/index.md)
 
+##### Once
 # Broadway's "Once" wins four prizes at the Drama Desk Awards in New York. 
 
 Broadway musical Once is the big winner at the Drama Desk Awards in New York, picking up four prizes.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18345039)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57173000/jpg/_57173487_once3_464ap.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/5/security-is-boosted-in-xinjiang-in-western-china-on-the-anniversary-of-the-july-2009-ara1-4mqi-riots.html)  [JSON](/news/2010/07/5/security-is-boosted-in-xinjiang-in-western-china-on-the-anniversary-of-the-july-2009-ara1-4mqi-riots.json)  [XML](/news/2010/07/5/security-is-boosted-in-xinjiang-in-western-china-on-the-anniversary-of-the-july-2009-ara1-4mqi-riots.xml)  
+
 ### [2010-07-5](/news/2010/07/5/index.md)
 
+##### Xinjiang
 # Security is boosted in Xinjiang in western China on the anniversary of the July 2009 Urumqi riots. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2010/jul/05/xianjiang-riots-security-uighur-han)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/security-tight-on-china-ethnic-unrest-anniversary-20100705-zwqs.html)

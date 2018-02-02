@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/9/racehorse-rags-to-riches-becomes-the-first-filly-to-win-the-belmont-stakes-in-102-years-by-defeating-preakness-winner-curlin.html)  [JSON](/news/2007/06/9/racehorse-rags-to-riches-becomes-the-first-filly-to-win-the-belmont-stakes-in-102-years-by-defeating-preakness-winner-curlin.json)  [XML](/news/2007/06/9/racehorse-rags-to-riches-becomes-the-first-filly-to-win-the-belmont-stakes-in-102-years-by-defeating-preakness-winner-curlin.xml)  
+
 ### [2007-06-9](/news/2007/06/9/index.md)
 
+##### Rags to Riches
 #  Racehorse Rags to Riches becomes the first filly to win the Belmont Stakes in 102 years by defeating Preakness winner Curlin. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via The Citizen](http://www.auburnpub.com/articles/2007/06/10/news/sports/sports04.txt)
 

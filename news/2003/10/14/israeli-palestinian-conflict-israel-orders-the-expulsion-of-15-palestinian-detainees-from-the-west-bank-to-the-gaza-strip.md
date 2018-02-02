@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/14/israeli-palestinian-conflict-israel-orders-the-expulsion-of-15-palestinian-detainees-from-the-west-bank-to-the-gaza-strip.html)  [JSON](/news/2003/10/14/israeli-palestinian-conflict-israel-orders-the-expulsion-of-15-palestinian-detainees-from-the-west-bank-to-the-gaza-strip.json)  [XML](/news/2003/10/14/israeli-palestinian-conflict-israel-orders-the-expulsion-of-15-palestinian-detainees-from-the-west-bank-to-the-gaza-strip.xml)  
+
 ### [2003-10-14](/news/2003/10/14/index.md)
 
+##### Israeli-Palestinian conflict
 #  Israeli-Palestinian conflict: Israel orders the expulsion of 15 Palestinian detainees from the West Bank to the Gaza Strip.
 
 

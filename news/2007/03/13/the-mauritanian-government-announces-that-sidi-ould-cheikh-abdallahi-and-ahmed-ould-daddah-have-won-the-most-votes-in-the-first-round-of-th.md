@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/13/the-mauritanian-government-announces-that-sidi-ould-cheikh-abdallahi-and-ahmed-ould-daddah-have-won-the-most-votes-in-the-first-round-of-th.html)  [JSON](/news/2007/03/13/the-mauritanian-government-announces-that-sidi-ould-cheikh-abdallahi-and-ahmed-ould-daddah-have-won-the-most-votes-in-the-first-round-of-th.json)  [XML](/news/2007/03/13/the-mauritanian-government-announces-that-sidi-ould-cheikh-abdallahi-and-ahmed-ould-daddah-have-won-the-most-votes-in-the-first-round-of-th.xml)  
+
 ### [2007-03-13](/news/2007/03/13/index.md)
 
+##### Mauritanian
 #  The Mauritanian government announces that Sidi Ould Cheikh Abdallahi and Ahmed Ould Daddah have won the most votes in the first round of the 2007 presidential election, and their runoff election will be held on March 25. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6442029.stm)
 2. [Reuters](http://za.today.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=2007-03-13T062631Z_01_BAN323137_RTRIDST_0_OZATP-MAURITANIA-ELECTION-20070313.XML)

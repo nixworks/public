@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/8/seven-nepalese-opposition-parties-join-forces-against-king-gyanendra.html)  [JSON](/news/2005/05/8/seven-nepalese-opposition-parties-join-forces-against-king-gyanendra.json)  [XML](/news/2005/05/8/seven-nepalese-opposition-parties-join-forces-against-king-gyanendra.xml)  
+
 ### [2005-05-8](/news/2005/05/8/index.md)
 
+##### Nepal
 #  Seven Nepalese opposition parties join forces against King Gyanendra. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4527397.stm)
 

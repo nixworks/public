@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2012/03/30/australian-artist-tim-storrier-wins-the-2012-archibald-prize-for-a-self-portrait-the-historic-wayfarer-after-bosch.html)  [JSON](/news/2012/03/30/australian-artist-tim-storrier-wins-the-2012-archibald-prize-for-a-self-portrait-the-historic-wayfarer-after-bosch.json)  [XML](/news/2012/03/30/australian-artist-tim-storrier-wins-the-2012-archibald-prize-for-a-self-portrait-the-historic-wayfarer-after-bosch.xml)  
+
 ### [2012-03-30](/news/2012/03/30/index.md)
 
+##### Australia
 # Australian artist Tim Storrier wins the 2012 Archibald Prize for a self-portrait "The historic wayfarer (after Bosch)". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.dailytelegraph.com.au/entertainment/dogs-day-as-tim-storrier-takes-the-archibald-prize/story-e6frewyr-1226314468496)
 
 ### Related:
 
 1. [Australian artist Ben Quilty wins the Archibald Prize for his portrait of artist Margaret Olley. ](/news/2011/04/15/australian-artist-ben-quilty-wins-the-archibald-prize-for-his-portrait-of-artist-margaret-olley.md) _Context: Archibald Prize, Australia_
-2. [Last year a hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware after breaching the network of a defense contractor. ](/news/2017/10/11/last-year-a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-after-breac.md) _Context: Australia_
-3. [Australia and East Timor settle a dispute between the two countries in the Timor Sea. ](/news/2017/09/2/australia-and-east-timor-settle-a-dispute-between-the-two-countries-in-the-timor-sea.md) _Context: Australia_
-4. [The search for three members of the United States Marines Corps lost in a MV-22 Osprey crash in Shoalwater Bay in the Australian state of Queensland is called off. ](/news/2017/08/6/the-search-for-three-members-of-the-united-states-marines-corps-lost-in-a-mv-22-osprey-crash-in-shoalwater-bay-in-the-australian-state-of-qu.md) _Context: Australia_
-5. [Searches are underway for three members of the United States Marine Corps missing after a MV-22 Osprey crashed off the coast of the Australian state of Queensland. Twenty three of the twenty six people on board have been rescued. ](/news/2017/08/5/searches-are-underway-for-three-members-of-the-united-states-marine-corps-missing-after-a-mv-22-osprey-crashed-off-the-coast-of-the-australi.md) _Context: Australia_
+2. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Australia_
+3. [In a world's first, a drone rescues two swimmers off the coast of Lennox Head, New South Wales in Australia by dropping a safety device to them. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. ](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-swimmers-off-the-coast-of-lennox-head-new-south-wales-in-australia-by-dropping-a-safety-device-to-t.md) _Context: Australia_
+4. [The Parliament of Australia votes to make same-sex marriage legal in Australia. ](/news/2017/12/7/the-parliament-of-australia-votes-to-make-same-sex-marriage-legal-in-australia.md) _Context: Australia_
+5. [A large number of fireworks accidentally go off in a barge at a New Year's Day show in Terrigal, NSW, Australia, causing thousands to be evacuated from the beach by police and the two people on the barge to suffer minor injuries. ](/news/2017/12/31/a-large-number-of-fireworks-accidentally-go-off-in-a-barge-at-a-new-year-s-day-show-in-terrigal-nsw-australia-causing-thousands-to-be-eva.md) _Context: Australia_

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/19/an-atlas-v-rocket-successfully-deployed-the-fou
 
 ### [2018-01-19](/news/2018/01/19/index.md)
 
+##### Atlas V
 # An Atlas V rocket successfully deployed the fourth SBIRS satellite for the United States Air Force. This launch completes the geosynchronous segment of SBIRS and provides a global missile detection system for the United States. 
 
 

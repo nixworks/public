@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/27/hundreds-of-thousands-of-government-workers-protest-against-the-killing-of-yashwant-sonawane-an-official-in-maharashtra-a-murder-which-is.html)  [JSON](/news/2011/01/27/hundreds-of-thousands-of-government-workers-protest-against-the-killing-of-yashwant-sonawane-an-official-in-maharashtra-a-murder-which-is.json)  [XML](/news/2011/01/27/hundreds-of-thousands-of-government-workers-protest-against-the-killing-of-yashwant-sonawane-an-official-in-maharashtra-a-murder-which-is.xml)  
+
 ### [2011-01-27](/news/2011/01/27/index.md)
 
+##### Yashwant Sonawane
 # Hundreds of thousands of government workers protest against the killing of Yashwant Sonawane, an official in Maharashtra, a murder which is said to have shocked people across India. 
 
 Tens of thousands of government workers in India protest at the brutal killing of an official investigating a fuel racket in Maharashtra.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12295509)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

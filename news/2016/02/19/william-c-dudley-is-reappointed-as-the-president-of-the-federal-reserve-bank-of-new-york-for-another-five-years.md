@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/19/william-c-dudley-is-reappointed-as-the-presiden
 
 ### [2016-02-19](/news/2016/02/19/index.md)
 
+##### William C. Dudley
 # William C. Dudley is reappointed as the President of the Federal Reserve Bank of New York for another five years. 
 
 

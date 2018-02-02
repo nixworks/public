@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/2/occupation-of-iraq-in-the-heaviest-single-loss-for-the-coalition-troops-since-cessation-of-the-military-campaign-in-iraq-two-us-chinook-he.html)  [JSON](/news/2003/11/2/occupation-of-iraq-in-the-heaviest-single-loss-for-the-coalition-troops-since-cessation-of-the-military-campaign-in-iraq-two-us-chinook-he.json)  [XML](/news/2003/11/2/occupation-of-iraq-in-the-heaviest-single-loss-for-the-coalition-troops-since-cessation-of-the-military-campaign-in-iraq-two-us-chinook-he.xml)  
+
 ### [2003-11-2](/news/2003/11/2/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: In the heaviest single loss for the coalition troops since cessation of the military campaign in Iraq two US Chinook helicopters are fired on by two surface-to-air missiles and one crashes near Fallujah and on its way to Baghdad airport; 16 soldiers are killed and 20 wounded. A blast damages an oil pipeline near Kirkuk, north of Baghdad.
 
 

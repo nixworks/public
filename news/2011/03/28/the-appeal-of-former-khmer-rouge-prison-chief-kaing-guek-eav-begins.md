@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/28/the-appeal-of-former-khmer-rouge-prison-chief-kaing-guek-eav-begins.html)  [JSON](/news/2011/03/28/the-appeal-of-former-khmer-rouge-prison-chief-kaing-guek-eav-begins.json)  [XML](/news/2011/03/28/the-appeal-of-former-khmer-rouge-prison-chief-kaing-guek-eav-begins.xml)  
+
 ### [2011-03-28](/news/2011/03/28/index.md)
 
+##### Khmer Rouge
 # The appeal of former Khmer Rouge prison chief Kaing Guek Eav begins. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Phnom Penh Post](http://www.phnompenhpost.com/index.php/2011032848186/National-news/duch-appeal-to-begin-today.html)
 2. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_650148.html)

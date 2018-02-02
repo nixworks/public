@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/16/with-over-95-percent-of-votes-counted-prime-min
 
 ### [2016-10-16](/news/2016/10/16/index.md)
 
+##### Montenegrin parliamentary election, 2016
 # With over 95 percent of votes counted, Prime Minister Milo Dukanovic's Democratic Party of Socialists receives the most votes in this quadrennial election, but, by five seats, fails to gain an absolute majority. Djukanovic says he will seek a coalition with parties of national minorities. 
 
 

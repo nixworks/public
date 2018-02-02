@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/24/ugandan-president-yoweri-museveni-signs-a-bill-discriminating-against-the-lgbt-community.html)  [JSON](/news/2014/02/24/ugandan-president-yoweri-museveni-signs-a-bill-discriminating-against-the-lgbt-community.json)  [XML](/news/2014/02/24/ugandan-president-yoweri-museveni-signs-a-bill-discriminating-against-the-lgbt-community.xml)  
+
 ### [2014-02-24](/news/2014/02/24/index.md)
 
+##### Uganda
 # Ugandan President Yoweri Museveni signs a bill discriminating against the LGBT community. 
 
 Homosexuality was already banned, but new law makes it a crime not to report gay people to authorities 
 
 
-### Source:
+### Sources:
 
 1. [Time](http://world.time.com/2014/02/24/ugandan-president-signs-anti-gay-bill/)
 1. [Cover Image](https://timeglobalspin.files.wordpress.com/2014/02/uganda-president-yoweri-museveni.jpg?w=600)

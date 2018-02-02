@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/24/thailand-and-the-u-s-army-announce-a-breakthrough-of-a-hiv-aids-vaccine-after-trials-find-it-can-reduce-infection-by-31.html)  [JSON](/news/2009/09/24/thailand-and-the-u-s-army-announce-a-breakthrough-of-a-hiv-aids-vaccine-after-trials-find-it-can-reduce-infection-by-31.json)  [XML](/news/2009/09/24/thailand-and-the-u-s-army-announce-a-breakthrough-of-a-hiv-aids-vaccine-after-trials-find-it-can-reduce-infection-by-31.xml)  
+
 ### [2009-09-24](/news/2009/09/24/index.md)
 
+##### Thailand
 #  Thailand and the U.S. Army announce a breakthrough of a HIV-AIDS vaccine, after trials find it can reduce infection by 31%. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/worldservice/news/2009/09/090924_aids_vaccine_sl.shtml)
 2. [Bernama](http://www.bernama.com/bernama/v5/newsindex.php?id=442189)

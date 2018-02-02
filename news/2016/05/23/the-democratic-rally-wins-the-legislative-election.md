@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/23/the-democratic-rally-wins-the-legislative-elect
 
 ### [2016-05-23](/news/2016/05/23/index.md)
 
+##### Cypriot legislative election, 2016
 #  The Democratic Rally wins the legislative election. 
 
 The leading opposition party, the Progressive Party of Working People, will have 15 seats, and the Democratic Party, which finished third, will take nine seats

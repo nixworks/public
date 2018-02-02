@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2012/02/4/republican-party-voters-gather-in-nevada-for-the-party-caucuses-with-mitt-romney-projected-as-the-winner.html)  [JSON](/news/2012/02/4/republican-party-voters-gather-in-nevada-for-the-party-caucuses-with-mitt-romney-projected-as-the-winner.json)  [XML](/news/2012/02/4/republican-party-voters-gather-in-nevada-for-the-party-caucuses-with-mitt-romney-projected-as-the-winner.xml)  
+
 ### [2012-02-4](/news/2012/02/4/index.md)
 
+##### Republican
 # Republican Party voters gather in Nevada for the party caucuses with Mitt Romney projected as the winner. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://nbcpolitics.msnbc.msn.com/_news/2012/02/04/10319217-romney-wins-nevada-caucus-solidifying-momentum)
 2. [The Guardian](http://www.guardian.co.uk/commentisfree/cifamerica/2012/feb/03/polling-nevada-caucus?newsfeed=true)
 3. [WLBZ](http://www.wlbz2.com/news/article/188158/3/Maine-Republican-Caucus-underway)
+
+### Changes:
+
+1. [2012 United States presidential election:Republican Party voters gather in Nevada for the party caucuses with Mitt Romney projected as the winner. ](/news/2012/02/4/2012-united-states-presidential-election-prepublican-party-voters-gather-in-nevada-for-the-party-caucuses-with-mitt-romney-projected-as-the.md) _2017-08-25 03:34:57 (First version)_
+2. [2012 United States presidential election:: Republican Party voters gather in Nevada for the party caucuses with Mitt Romney projected as the winner. ](/news/2012/02/4/2012-united-states-presidential-election-republican-party-voters-gather-in-nevada-for-the-party-caucuses-with-mitt-romney-projected-as-the.md) _2017-08-27 03:35:08 (Update)_
+2. [Republican Party voters gather in Nevada for the party caucuses with Mitt Romney projected as the winner. ](/news/2012/02/4/republican-party-voters-gather-in-nevada-for-the-party-caucuses-with-mitt-romney-projected-as-the-winner.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@
 3. [Four third-party U.S. presidential election candidates&mdash;representing the Libertarian, Green, Constitution, and Justice parties, who were excluded from the high-profile televised encounters between Mitt Romney or Barack Obama&mdash;attend their own presidential debate hosted in Chicago by the Free and Equal Elections Foundation, which hopes for a more transparent and open electoral system. Romney (with the Republican Party) and Obama (with the Democratic Party) refuse invitations to attend the debate, televised on international news channels but on no major U.S. network. ](/news/2012/10/23/four-third-party-u-s-presidential-election-candidates-mdash-representing-the-libertarian-green-constitution-and-justice-parties-who-wer.md) _Context: Mitt Romney, Republican_
 4. [Mitt Romney accepts the nomination of the Republican Party to be its candidate in the 2012 US presidential election. ](/news/2012/08/30/mitt-romney-accepts-the-nomination-of-the-republican-party-to-be-its-candidate-in-the-2012-us-presidential-election.md) _Context: Mitt Romney, Republican_
 5. [The United States Republican Party officially nominates Mitt Romney as its candidate in the 2012 presidential election at the National Convention in Tampa, Florida. ](/news/2012/08/28/the-united-states-republican-party-officially-nominates-mitt-romney-as-its-candidate-in-the-2012-presidential-election-at-the-national-conve.md) _Context: Mitt Romney, Republican_
-
-### Changes:
-
-1. [2012 United States presidential election:Republican Party voters gather in Nevada for the party caucuses with Mitt Romney projected as the winner. ](/news/2012/02/4/2012-united-states-presidential-election-prepublican-party-voters-gather-in-nevada-for-the-party-caucuses-with-mitt-romney-projected-as-the.md) _2017-08-25 03:34:57 (First version)_
-2. [2012 United States presidential election:: Republican Party voters gather in Nevada for the party caucuses with Mitt Romney projected as the winner. ](/news/2012/02/4/2012-united-states-presidential-election-republican-party-voters-gather-in-nevada-for-the-party-caucuses-with-mitt-romney-projected-as-the.md) _2017-08-27 03:35:08 (Update)_
-2. [Republican Party voters gather in Nevada for the party caucuses with Mitt Romney projected as the winner. ](/news/2012/02/4/republican-party-voters-gather-in-nevada-for-the-party-caucuses-with-mitt-romney-projected-as-the-winner.md) _(Current version)_

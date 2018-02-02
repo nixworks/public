@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/25/2011-egyptian-protests-egyptian-protestors-claims-that-the-egyptian-army-beat-them-up-in-cairo-s-tahrir-square.html)  [JSON](/news/2011/02/25/2011-egyptian-protests-egyptian-protestors-claims-that-the-egyptian-army-beat-them-up-in-cairo-s-tahrir-square.json)  [XML](/news/2011/02/25/2011-egyptian-protests-egyptian-protestors-claims-that-the-egyptian-army-beat-them-up-in-cairo-s-tahrir-square.xml)  
+
 ### [2011-02-25](/news/2011/02/25/index.md)
 
+##### Protesters
 # 2011 Egyptian protests: Egyptian protestors claims that the Egyptian Army beat them up in Cairo's Tahrir Square. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New York Times](http://thelede.blogs.nytimes.com/2011/02/25/latest-updates-on-libyas-revolt-and-mideast-protests/)
 

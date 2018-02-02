@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/05/27/may-2006-java-earthquake-a-tectonic-earthquake-centred-25-kilometres-16-miles-south-of-yogyakarta-on-the-island-of-java-indonesia-kills.html)  [JSON](/news/2006/05/27/may-2006-java-earthquake-a-tectonic-earthquake-centred-25-kilometres-16-miles-south-of-yogyakarta-on-the-island-of-java-indonesia-kills.json)  [XML](/news/2006/05/27/may-2006-java-earthquake-a-tectonic-earthquake-centred-25-kilometres-16-miles-south-of-yogyakarta-on-the-island-of-java-indonesia-kills.xml)  
+
 ### [2006-05-27](/news/2006/05/27/index.md)
 
+##### May 2006 Java earthquake
 #  May 2006 Java earthquake: A tectonic earthquake centred 25 kilometres (16 miles) south of Yogyakarta on the island of Java, Indonesia kills more than 4300 people and injures more than 3400. The 6.2 magnitude quake strikes at 5:54 a.m. (22:54 UTC, 26 May). The epicenter is southwest of the city and near the erupting Mount Merapi. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://news.yahoo.com/s/ap/indonesia_earthquake)
+1. [AP](https://news.yahoo.com/s/ap/indonesia_earthquake)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/5022558.stm)
 3. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/05/26/indonesia.quake/index.html)
 

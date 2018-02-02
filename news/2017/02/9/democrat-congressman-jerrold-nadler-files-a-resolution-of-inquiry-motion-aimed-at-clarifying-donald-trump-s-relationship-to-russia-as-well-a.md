@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/9/democrat-congressman-jerrold-nadler-files-a-reso
 
 ### [2017-02-9](/news/2017/02/9/index.md)
 
+##### Jerrold Nadler
 # Democrat Congressman Jerrold Nadler files a Resolution of Inquiry motion aimed at clarifying Donald Trump's relationship to Russia as well as potential conflicts of interest arising from his businesses. 
 
 Rep. Jerrold Nadler (D-N.Y.) filed a &ldquo;resolution of inquiry,&rdquo; a tactic used to force presidents and executive-branch agencies to share records with Congress.

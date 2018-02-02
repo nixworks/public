@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/18/india-successfully-test-fires-supersonic-cruise-missile-brahmos-for-the-first-time-from-a-mobile-universal-vertical-launcher-fitted-on-a-na.html)  [JSON](/news/2008/12/18/india-successfully-test-fires-supersonic-cruise-missile-brahmos-for-the-first-time-from-a-mobile-universal-vertical-launcher-fitted-on-a-na.json)  [XML](/news/2008/12/18/india-successfully-test-fires-supersonic-cruise-missile-brahmos-for-the-first-time-from-a-mobile-universal-vertical-launcher-fitted-on-a-na.xml)  
+
 ### [2008-12-18](/news/2008/12/18/index.md)
 
+##### India
 #  India successfully test-fires supersonic cruise missile BrahMos for the first time from a mobile universal vertical launcher fitted on a naval warship in the Bay of Bengal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/India/India_test-fires_BrahMos_supersonic_missile/rssarticleshow/3858017.cms)
 

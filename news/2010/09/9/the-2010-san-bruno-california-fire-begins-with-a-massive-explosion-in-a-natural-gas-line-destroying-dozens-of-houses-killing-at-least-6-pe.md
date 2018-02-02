@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/9/the-2010-san-bruno-california-fire-begins-with-a-massive-explosion-in-a-natural-gas-line-destroying-dozens-of-houses-killing-at-least-6-pe.html)  [JSON](/news/2010/09/9/the-2010-san-bruno-california-fire-begins-with-a-massive-explosion-in-a-natural-gas-line-destroying-dozens-of-houses-killing-at-least-6-pe.json)  [XML](/news/2010/09/9/the-2010-san-bruno-california-fire-begins-with-a-massive-explosion-in-a-natural-gas-line-destroying-dozens-of-houses-killing-at-least-6-pe.xml)  
+
 ### [2010-09-9](/news/2010/09/9/index.md)
 
+##### 2010 San Bruno, California fire
 # The 2010 San Bruno, California fire begins with a massive explosion in a natural gas line destroying dozens of houses, killing at least 6 people, and continues burning in San Bruno, California near the US city of San Francisco. 
 
 The official death toll from the natural-gas-line explosion in a Bay Area suburb stands at four people, with 38 homes destroyed, as authorities investigate what caused the blast.
 
 
-### Source:
+### Sources:
 
 1. [Marketwatch](http://www.marketwatch.com/story/large-explosion-rocks-san-bruno-reports-2010-09-09)
 2. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2010/09/09/BADP1FBJRS.DTL)

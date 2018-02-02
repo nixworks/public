@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/14/bingu-wa-mutharika-the-president-of-malawi-threatens-to-close-down-the-national-assembly-of-malawi-unless-it-starts-discussing-the-budg.html)  [JSON](/news/2007/08/14/bingu-wa-mutharika-the-president-of-malawi-threatens-to-close-down-the-national-assembly-of-malawi-unless-it-starts-discussing-the-budg.json)  [XML](/news/2007/08/14/bingu-wa-mutharika-the-president-of-malawi-threatens-to-close-down-the-national-assembly-of-malawi-unless-it-starts-discussing-the-budg.xml)  
+
 ### [2007-08-14](/news/2007/08/14/index.md)
 
+##### Bingu wa Mutharika
 #  Bingu wa Mutharika, the President of Malawi, threatens to "close down" the National Assembly of Malawi unless it starts discussing the budget. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6945588.stm)
 

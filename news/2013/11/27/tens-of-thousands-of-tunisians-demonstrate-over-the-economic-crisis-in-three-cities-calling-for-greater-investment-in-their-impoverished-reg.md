@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/27/tens-of-thousands-of-tunisians-demonstrate-over-the-economic-crisis-in-three-cities-calling-for-greater-investment-in-their-impoverished-reg.html)  [JSON](/news/2013/11/27/tens-of-thousands-of-tunisians-demonstrate-over-the-economic-crisis-in-three-cities-calling-for-greater-investment-in-their-impoverished-reg.json)  [XML](/news/2013/11/27/tens-of-thousands-of-tunisians-demonstrate-over-the-economic-crisis-in-three-cities-calling-for-greater-investment-in-their-impoverished-reg.xml)  
+
 ### [2013-11-27](/news/2013/11/27/index.md)
 
+##### Tunisia
 # Tens of thousands of Tunisians demonstrate over the economic crisis in three cities calling for greater investment in their impoverished regions. Clashes broke out in the town of Siliana between the police and protesters following general strikes. 
 
 Angry protesters set fire to the office of Tunisia&#39;s ruling Islamist party in the neglected Gafsa region, as strikes are observed in areas amid rising discontent and political deadlock.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/tunisia-general-strikes-paralyze-cities-21027120)
 2. [Ahram Online](http://english.ahram.org.eg/NewsContent/2/8/87655/World/Region/Protesters,-police-clash-in-Tunisias-Siliana-AFP.aspx)
@@ -13,16 +17,16 @@ Angry protesters set fire to the office of Tunisia&#39;s ruling Islamist party i
 4. [The Voice Of Russia](http://voiceofrussia.com/news/2013_11_27/Tunisia-protesters-torch-ruling-party-office-2550/)
 4. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2013/11/27/225923_img650x420_img650x420_crop.jpg)
 
-### Related:
-
-1. [More than 200 people are wounded in a second day of clashes between Tunisian security forces and thousands of protesters in Siliana, Tunisia. ](/news/2012/11/28/more-than-200-people-are-wounded-in-a-second-day-of-clashes-between-tunisian-security-forces-and-thousands-of-protesters-in-siliana-tunisia.md) _Context: Siliana, Tunisia_
-2. [A train and a bus collide in Tunis, Tunisia, killing 5 and injuring around 52. ](/news/2016/12/28/a-train-and-a-bus-collide-in-tunis-tunisia-killing-5-and-injuring-around-52.md) _Context: Tunisia_
-3. [The 24-year-old Tunisian who is suspected of driving the truck that smashed through a Berlin market is killed in a shoot-out in Milan. ](/news/2016/12/23/the-24-year-old-tunisian-who-is-suspected-of-driving-the-truck-that-smashed-through-a-berlin-market-is-killed-in-a-shoot-out-in-milan.md) _Context: Tunisia_
-4. [German officials offer a reward of up to 100,000 euros ($104,000) for 24-year-old Tunisian asylum-seeker Anis Amri, whose identifying information was found in the truck used in the attack. ](/news/2016/12/21/german-officials-offer-a-reward-of-up-to-100-000-euros-104-000-for-24-year-old-tunisian-asylum-seeker-anis-amri-whose-identifying-inform.md) _Context: Tunisia_
-5. [Tunisian lawmakers, dissatisfied with the lack of progress on a financial reforms package, vote (118-3) to dismiss Prime Minister Habib Essid from office. ](/news/2016/07/30/tunisian-lawmakers-dissatisfied-with-the-lack-of-progress-on-a-financial-reforms-package-vote-118-3-to-dismiss-prime-minister-habib-essi.md) _Context: Tunisia_
-
 ### Changes:
 
 1. [2013 Tunisian protests:Tens of thousands of Tunisians demonstrate over the economic crisis in three cities calling for greater investment in their impoverished regions. Clashes broke out in the town of Siliana between the police and protesters following general strikes. ](/news/2013/11/27/2013-tunisian-protests-ptens-of-thousands-of-tunisians-demonstrate-over-the-economic-crisis-in-three-cities-calling-for-greater-investment-i.md) _2017-08-25 03:39:35 (First version)_
 2. [2013 Tunisian protests:: Tens of thousands of Tunisians demonstrate over the economic crisis in three cities calling for greater investment in their impoverished regions. Clashes broke out in the town of Siliana between the police and protesters following general strikes. ](/news/2013/11/27/2013-tunisian-protests-tens-of-thousands-of-tunisians-demonstrate-over-the-economic-crisis-in-three-cities-calling-for-greater-investment.md) _2017-08-27 03:39:53 (Update)_
 2. [Tens of thousands of Tunisians demonstrate over the economic crisis in three cities calling for greater investment in their impoverished regions. Clashes broke out in the town of Siliana between the police and protesters following general strikes. ](/news/2013/11/27/tens-of-thousands-of-tunisians-demonstrate-over-the-economic-crisis-in-three-cities-calling-for-greater-investment-in-their-impoverished-reg.md) _(Current version)_
+
+### Related:
+
+1. [More than 200 people are wounded in a second day of clashes between Tunisian security forces and thousands of protesters in Siliana, Tunisia. ](/news/2012/11/28/more-than-200-people-are-wounded-in-a-second-day-of-clashes-between-tunisian-security-forces-and-thousands-of-protesters-in-siliana-tunisia.md) _Context: Siliana, Tunisia_
+2. [Amid protests against rising prices and tax increases, a protestor is killed and five others are injured in clashes with security forces in the Tunisian town of Tebourba. ](/news/2018/01/8/amid-protests-against-rising-prices-and-tax-increases-a-protestor-is-killed-and-five-others-are-injured-in-clashes-with-security-forces-in.md) _Context: Tunisia_
+3. [The Tunisian government announces a wave of social and economic reforms after violent anti-austerity protests that have resulted in at least one death and the arrest of more than eight hundred people. ](/news/2018/01/14/the-tunisian-government-announces-a-wave-of-social-and-economic-reforms-after-violent-anti-austerity-protests-that-have-resulted-in-at-least.md) _Context: Tunisia_
+4. [More than two hundred people are arrested across Tunisia as protests against economic conditions continue to grip the North African country. At least 49 police officers have been injured during clashes with protesters. ](/news/2018/01/10/more-than-two-hundred-people-are-arrested-across-tunisia-as-protests-against-economic-conditions-continue-to-grip-the-north-african-country.md) _Context: Tunisia_
+5. [Tunisia's Transport Ministry suspends Emirates Airlines flights to Tunis. ](/news/2017/12/24/tunisia-s-transport-ministry-suspends-emirates-airlines-flights-to-tunis.md) _Context: Tunisia_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/28/former-president-of-south-africa-nelson-mandela-is-discharged-from-hospital-following-two-days-of-tests.html)  [JSON](/news/2011/01/28/former-president-of-south-africa-nelson-mandela-is-discharged-from-hospital-following-two-days-of-tests.json)  [XML](/news/2011/01/28/former-president-of-south-africa-nelson-mandela-is-discharged-from-hospital-following-two-days-of-tests.xml)  
+
 ### [2011-01-28](/news/2011/01/28/index.md)
 
+##### President
 # Former President of South Africa Nelson Mandela is discharged from hospital following two days of tests. 
 
 South African ex-President Nelson Mandela leaves a Johannesburg hospital and is said to be in good spirits after spending two nights there for tests.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/201112874410168278.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12306753)

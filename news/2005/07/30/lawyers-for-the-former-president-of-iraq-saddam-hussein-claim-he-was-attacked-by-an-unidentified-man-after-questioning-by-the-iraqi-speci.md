@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/30/lawyers-for-the-former-president-of-iraq-saddam-hussein-claim-he-was-attacked-by-an-unidentified-man-after-questioning-by-the-iraqi-speci.html)  [JSON](/news/2005/07/30/lawyers-for-the-former-president-of-iraq-saddam-hussein-claim-he-was-attacked-by-an-unidentified-man-after-questioning-by-the-iraqi-speci.json)  [XML](/news/2005/07/30/lawyers-for-the-former-president-of-iraq-saddam-hussein-claim-he-was-attacked-by-an-unidentified-man-after-questioning-by-the-iraqi-speci.xml)  
+
 ### [2005-07-30](/news/2005/07/30/index.md)
 
+##### Lawyer
 #  Lawyers for the former President of Iraq, Saddam Hussein, claim he was attacked by an unidentified man after questioning by the Iraqi special tribunal on Thursday; however the United States denies the event. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4730613.stm)
 

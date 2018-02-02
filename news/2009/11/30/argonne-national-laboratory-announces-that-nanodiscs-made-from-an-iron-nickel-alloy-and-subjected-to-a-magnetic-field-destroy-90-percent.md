@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/30/argonne-national-laboratory-announces-that-nanodiscs-made-from-an-iron-nickel-alloy-and-subjected-to-a-magnetic-field-destroy-90-percent.html)  [JSON](/news/2009/11/30/argonne-national-laboratory-announces-that-nanodiscs-made-from-an-iron-nickel-alloy-and-subjected-to-a-magnetic-field-destroy-90-percent.json)  [XML](/news/2009/11/30/argonne-national-laboratory-announces-that-nanodiscs-made-from-an-iron-nickel-alloy-and-subjected-to-a-magnetic-field-destroy-90-percent.xml)  
+
 ### [2009-11-30](/news/2009/11/30/index.md)
 
+##### Argonne National Laboratory
 #  Argonne National Laboratory announces that nanodiscs, made from an iron-nickel alloy and subjected to a magnetic field, destroy 90 percent of cancer cells in tests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jVXlv38fG0-O7bNEJZsRpvsFnWeg)
 2. [Scientific American](http://www.scientificamerican.com/blog/post.cfm?id=conquering-cancer-with-implants-bio-2009-11-29)

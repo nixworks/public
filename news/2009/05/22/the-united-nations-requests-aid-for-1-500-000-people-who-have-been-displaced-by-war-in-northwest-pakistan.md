@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/22/the-united-nations-requests-aid-for-1-500-000-people-who-have-been-displaced-by-war-in-northwest-pakistan.html)  [JSON](/news/2009/05/22/the-united-nations-requests-aid-for-1-500-000-people-who-have-been-displaced-by-war-in-northwest-pakistan.json)  [XML](/news/2009/05/22/the-united-nations-requests-aid-for-1-500-000-people-who-have-been-displaced-by-war-in-northwest-pakistan.xml)  
+
 ### [2009-05-22](/news/2009/05/22/index.md)
 
+##### United Nations
 #  The United Nations requests aid for 1,500,000 people who have been displaced by war in northwest Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Pakistan-Swat-Valley-Emergency-UN-To-Announce-Aid-As-War-Between-Taliban-And-Countrys-Army-Rages/Article/200905315286483?lpos=World_News_First_World_News_Article_Teaser_Region_1&lid=ARTICLE_15286483_Pakistan_Swat_Valley_Emergency%3A_UN_To_Announce_Aid_As_War_Between_Taliban_And_Countrys_Army_Rages)
 

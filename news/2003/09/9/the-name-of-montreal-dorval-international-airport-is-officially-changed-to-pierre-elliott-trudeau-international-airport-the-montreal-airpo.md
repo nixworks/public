@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/9/the-name-of-montreal-dorval-international-airport-is-officially-changed-to-pierre-elliott-trudeau-international-airport-the-montreal-airpo.html)  [JSON](/news/2003/09/9/the-name-of-montreal-dorval-international-airport-is-officially-changed-to-pierre-elliott-trudeau-international-airport-the-montreal-airpo.json)  [XML](/news/2003/09/9/the-name-of-montreal-dorval-international-airport-is-officially-changed-to-pierre-elliott-trudeau-international-airport-the-montreal-airpo.xml)  
+
 ### [2003-09-9](/news/2003/09/9/index.md)
 
+##### Montral/Pierre Elliott Trudeau International Airport
 #  The name of Montreal Dorval International Airport is officially changed to Pierre Elliott Trudeau International Airport. The Montreal airport becomes the first major Canadian site to be renamed in honour of Prime Minister Trudeau. The move sparks controversy among many in Quebec owing to Trudeau's political history, such as his decision to invoke the War Measures Act and send troops into Montreal during the October Crisis in 1970, and his construction of Montral-Mirabel International Airport, which they regard as a white elephant. The renaming will take effect on January 1, 2004.
 
 

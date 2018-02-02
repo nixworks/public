@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/7/bishop-dermot-o-mahony-resigns-as-patron-of-the-irish-pilgrimage-trust-after-his-response-to-child-sexual-abuse-was-described-as-worse-tha.html)  [JSON](/news/2009/12/7/bishop-dermot-o-mahony-resigns-as-patron-of-the-irish-pilgrimage-trust-after-his-response-to-child-sexual-abuse-was-described-as-worse-tha.json)  [XML](/news/2009/12/7/bishop-dermot-o-mahony-resigns-as-patron-of-the-irish-pilgrimage-trust-after-his-response-to-child-sexual-abuse-was-described-as-worse-tha.xml)  
+
 ### [2009-12-7](/news/2009/12/7/index.md)
 
+##### Bishop
 #  Bishop Dermot O'Mahony resigns as patron of The Irish Pilgrimage Trust after his response to child sexual abuse was described as "worse than that of any other living auxiliary bishop of Dublin". 
 
 Former Auxiliary Bishop of Dublin Bishop Dermot O&#39;Mahony has resigned the presidency of a trust that brings disabled children to Lourdes.
 
 
-### Source:
+### Sources:
 
 1. [Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5hc9BseRrHqR-76ldtmhmoO2pfYzQ)
 2. [RTÉ](http://www.rte.ie/news/2009/1207/abuse.html)

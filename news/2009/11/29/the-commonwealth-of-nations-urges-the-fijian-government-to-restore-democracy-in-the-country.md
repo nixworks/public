@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/29/the-commonwealth-of-nations-urges-the-fijian-government-to-restore-democracy-in-the-country.html)  [JSON](/news/2009/11/29/the-commonwealth-of-nations-urges-the-fijian-government-to-restore-democracy-in-the-country.json)  [XML](/news/2009/11/29/the-commonwealth-of-nations-urges-the-fijian-government-to-restore-democracy-in-the-country.xml)  
+
 ### [2009-11-29](/news/2009/11/29/index.md)
 
+##### Commonwealth of Nations
 #  The Commonwealth of Nations urges the Fijian government to restore democracy in the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8385543.stm)
 

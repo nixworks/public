@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/4/former-yemeni-president-ali-abdullah-saleh-is-ki
 
 ### [2017-12-4](/news/2017/12/4/index.md)
 
+##### Yemeni Civil War
 # Former Yemeni President Ali Abdullah Saleh is killed by Houthi forces in a roadside attack outside Sana'a after an earlier attack on his house. 
 
 Saleh, who led Yemen for over three decades before resigning several years ago, had been allied with Houthi rebels against a Saudi-led coalition — until that pact appeared to fracture in recent days.

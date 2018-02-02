@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/29/the-final-episode-of-last-of-the-summer-wine-airs-on-bbc-one-after-37-years.html)  [JSON](/news/2010/08/29/the-final-episode-of-last-of-the-summer-wine-airs-on-bbc-one-after-37-years.json)  [XML](/news/2010/08/29/the-final-episode-of-last-of-the-summer-wine-airs-on-bbc-one-after-37-years.xml)  
+
 ### [2010-08-29](/news/2010/08/29/index.md)
 
+##### Last of the Summer Wine
 # The final episode of "Last of the Summer Wine" airs on BBC One after 37 years. 
 
 Michael Deacon reviews the last ever episode of The Last of the Summer Wine (BBC One), plus Blackpool on Film (BBC Four).
 
 
-### Source:
+### Sources:
 
 1. [Daily Mail](http://www.dailymail.co.uk/debate/article-1307257/Oh-WILL-I-grumpy-old-men--And-broom-wielding-battleaxes.html?ito=feeds-newsxml)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/culture/tvandradio/7968500/Last-of-the-Summer-Wine-BBC-One-review.html)

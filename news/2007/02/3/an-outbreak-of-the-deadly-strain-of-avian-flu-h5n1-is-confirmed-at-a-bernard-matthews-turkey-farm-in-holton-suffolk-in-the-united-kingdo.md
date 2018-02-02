@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/3/an-outbreak-of-the-deadly-strain-of-avian-flu-h5n1-is-confirmed-at-a-bernard-matthews-turkey-farm-in-holton-suffolk-in-the-united-kingdo.html)  [JSON](/news/2007/02/3/an-outbreak-of-the-deadly-strain-of-avian-flu-h5n1-is-confirmed-at-a-bernard-matthews-turkey-farm-in-holton-suffolk-in-the-united-kingdo.json)  [XML](/news/2007/02/3/an-outbreak-of-the-deadly-strain-of-avian-flu-h5n1-is-confirmed-at-a-bernard-matthews-turkey-farm-in-holton-suffolk-in-the-united-kingdo.xml)  
+
 ### [2007-02-3](/news/2007/02/3/index.md)
 
+##### avian flu
 #  An outbreak of the deadly strain of avian flu, H5N1, is confirmed at a Bernard Matthews turkey farm in Holton, Suffolk in the United Kingdom. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/england/suffolk/6327193.stm)
 

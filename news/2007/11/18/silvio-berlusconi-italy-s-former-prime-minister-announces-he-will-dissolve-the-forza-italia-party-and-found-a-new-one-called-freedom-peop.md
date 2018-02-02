@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/18/silvio-berlusconi-italy-s-former-prime-minister-announces-he-will-dissolve-the-forza-italia-party-and-found-a-new-one-called-freedom-peop.html)  [JSON](/news/2007/11/18/silvio-berlusconi-italy-s-former-prime-minister-announces-he-will-dissolve-the-forza-italia-party-and-found-a-new-one-called-freedom-peop.json)  [XML](/news/2007/11/18/silvio-berlusconi-italy-s-former-prime-minister-announces-he-will-dissolve-the-forza-italia-party-and-found-a-new-one-called-freedom-peop.xml)  
+
 ### [2007-11-18](/news/2007/11/18/index.md)
 
+##### Silvio Berlusconi
 #  Silvio Berlusconi, Italy's former Prime Minister, announces he will dissolve the Forza Italia party and found a new one called Freedom People's Party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7101027.stm)
 

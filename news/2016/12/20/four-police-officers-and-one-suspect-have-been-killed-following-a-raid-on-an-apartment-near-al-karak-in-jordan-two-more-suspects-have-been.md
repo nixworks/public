@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/20/four-police-officers-and-one-suspect-have-been-
 
 ### [2016-12-20](/news/2016/12/20/index.md)
 
+##### Al-Karak
 # Four police officers and one suspect have been killed following a raid on an apartment near Al-Karak in Jordan. Two more suspects have been arrested under suspicions of connections with Sunday's attack in the city by the Islamic State. 
 
 One suspect among five dead after raid on apartment in Jordanian province which saw a deadly castle assault on Sunday.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/11/due-to-recent-floods-in-venezuela-president-hugo-cha-vez-announces-the-erection-in-his-garden-of-a-bedouin-tent-given-as-a-gift-by-muammar.html)  [JSON](/news/2010/12/11/due-to-recent-floods-in-venezuela-president-hugo-cha-vez-announces-the-erection-in-his-garden-of-a-bedouin-tent-given-as-a-gift-by-muammar.json)  [XML](/news/2010/12/11/due-to-recent-floods-in-venezuela-president-hugo-cha-vez-announces-the-erection-in-his-garden-of-a-bedouin-tent-given-as-a-gift-by-muammar.xml)  
+
 ### [2010-12-11](/news/2010/12/11/index.md)
 
+##### Venezuela
 # Due to recent floods in Venezuela, President Hugo Chavez announces the erection in his garden of a Bedouin tent given as a gift by Muammar al-Gaddafi from which he is to live and govern to make room for more homeless families in his presidential palace at Miraflores. 25 families made homeless by the disaster had already sought shelter there and Chavez has been personally supervising the provision of relief in the country. 
 
 Venezuelan President Hugo Chavez is moving into a tent given by Libyan leader Muammar Gaddafi so flood victims can take refuge in his office.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11974818)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

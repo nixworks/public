@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/21/president-of-the-marshall-islands-litokwa-tomeing-is-ousted-in-the-country-s-first-successful-vote-of-no-confidence-ruben-zackhras-is-appo.html)  [JSON](/news/2009/10/21/president-of-the-marshall-islands-litokwa-tomeing-is-ousted-in-the-country-s-first-successful-vote-of-no-confidence-ruben-zackhras-is-appo.json)  [XML](/news/2009/10/21/president-of-the-marshall-islands-litokwa-tomeing-is-ousted-in-the-country-s-first-successful-vote-of-no-confidence-ruben-zackhras-is-appo.xml)  
+
 ### [2009-10-21](/news/2009/10/21/index.md)
 
+##### President
 #  President of the Marshall Islands Litokwa Tomeing is ousted in the country's first successful vote of no confidence. Ruben Zackhras is appointed acting president until a new election on October 23, 2009. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hlzdubNZuoetx6SdFblGLAoZmpgA)
 2. [Yokwe](http://yokwe.net/index.php?name=News&file=article&sid=2492)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/19/two-vietnamese-sailors-are-shot-and-wounded-in-the-disputed-spratly-islands.html)  [JSON](/news/2011/05/19/two-vietnamese-sailors-are-shot-and-wounded-in-the-disputed-spratly-islands.json)  [XML](/news/2011/05/19/two-vietnamese-sailors-are-shot-and-wounded-in-the-disputed-spratly-islands.xml)  
+
 ### [2011-05-19](/news/2011/05/19/index.md)
 
+##### Vietnam
 # Two Vietnamese sailors are shot and wounded in the disputed Spratly Islands. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_670401.html)
 

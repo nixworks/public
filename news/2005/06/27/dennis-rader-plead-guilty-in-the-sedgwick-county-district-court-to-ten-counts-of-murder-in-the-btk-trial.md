@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/06/27/dennis-rader-plead-guilty-in-the-sedgwick-county-district-court-to-ten-counts-of-murder-in-the-btk-trial.html)  [JSON](/news/2005/06/27/dennis-rader-plead-guilty-in-the-sedgwick-county-district-court-to-ten-counts-of-murder-in-the-btk-trial.json)  [XML](/news/2005/06/27/dennis-rader-plead-guilty-in-the-sedgwick-county-district-court-to-ten-counts-of-murder-in-the-btk-trial.xml)  
+
 ### [2005-06-27](/news/2005/06/27/index.md)
 
+##### Dennis Rader
 #  Dennis Rader plead guilty in the Sedgwick County District Court to ten counts of murder in the BTK trial.
 
 

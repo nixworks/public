@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/22/in-nigeria-president-olusegun-obasanjo-opens-a-national-political-conference-about-constitutional-reform.html)  [JSON](/news/2005/02/22/in-nigeria-president-olusegun-obasanjo-opens-a-national-political-conference-about-constitutional-reform.json)  [XML](/news/2005/02/22/in-nigeria-president-olusegun-obasanjo-opens-a-national-political-conference-about-constitutional-reform.xml)  
+
 ### [2005-02-22](/news/2005/02/22/index.md)
 
+##### Nigeria
 #  In Nigeria, President Olusegun Obasanjo opens a national political conference about constitutional reform 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica](http://allafrica.com/stories/200502210349.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4283245.stm)

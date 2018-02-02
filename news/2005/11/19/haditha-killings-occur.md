@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/11/19/haditha-killings-occur.html)  [JSON](/news/2005/11/19/haditha-killings-occur.json)  [XML](/news/2005/11/19/haditha-killings-occur.xml)  
+
 ### [2005-11-19](/news/2005/11/19/index.md)
 
+##### Haditha killings
 #  Haditha killings occur.
 
 

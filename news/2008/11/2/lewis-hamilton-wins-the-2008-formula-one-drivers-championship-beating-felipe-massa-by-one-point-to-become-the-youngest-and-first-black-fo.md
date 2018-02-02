@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/2/lewis-hamilton-wins-the-2008-formula-one-drivers-championship-beating-felipe-massa-by-one-point-to-become-the-youngest-and-first-black-fo.html)  [JSON](/news/2008/11/2/lewis-hamilton-wins-the-2008-formula-one-drivers-championship-beating-felipe-massa-by-one-point-to-become-the-youngest-and-first-black-fo.json)  [XML](/news/2008/11/2/lewis-hamilton-wins-the-2008-formula-one-drivers-championship-beating-felipe-massa-by-one-point-to-become-the-youngest-and-first-black-fo.xml)  
+
 ### [2008-11-2](/news/2008/11/2/index.md)
 
+##### Lewis Hamilton
 #  Lewis Hamilton wins the 2008 Formula One Drivers' Championship, beating Felipe Massa by one point to become the youngest and first black Formula One World Champion in history. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/UK-News/Lewis-Hamilton-May-Be-Worlds-Youngest-F1-World-Champion-If-He-Wins-Today-In-Brazil-Grand-Prix/Article/200810415139444?lpos=UK_News_Top_Stories_Header_0&lid=ARTICLE_15139444_Lewis_Hamilton_May_Be_Worlds_Youngest_F1_World_Champion_If_He_Wins_Today_In_Brazil_Grand_Prix)
 

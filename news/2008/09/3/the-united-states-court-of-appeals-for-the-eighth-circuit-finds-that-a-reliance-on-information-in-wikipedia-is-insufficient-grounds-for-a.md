@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/09/3/the-united-states-court-of-appeals-for-the-eighth-circuit-finds-that-a-reliance-on-information-in-wikipedia-is-insufficient-grounds-for-a.html)  [JSON](/news/2008/09/3/the-united-states-court-of-appeals-for-the-eighth-circuit-finds-that-a-reliance-on-information-in-wikipedia-is-insufficient-grounds-for-a.json)  [XML](/news/2008/09/3/the-united-states-court-of-appeals-for-the-eighth-circuit-finds-that-a-reliance-on-information-in-wikipedia-is-insufficient-grounds-for-a.xml)  
+
 ### [2008-09-3](/news/2008/09/3/index.md)
 
+##### 8th U.S. Circuit Court of Appeals'
 #  The United States Court of Appeals for the Eighth Circuit finds "that a reliance on information in Wikipedia is insufficient grounds for a ruling" in an immigration case. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Ars Technica](http://arstechnica.com/news.ars/post/20080902-appeals-court-smacks-down-judge-for-relying-on-wikipedia.html)
+1. [Ars Technica](https://arstechnica.com/news.ars/post/20080902-appeals-court-smacks-down-judge-for-relying-on-wikipedia.html)
 
 ### Related:
 

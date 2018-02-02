@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2006/04/20/u-s-president-george-w-bush-welcomes-the-chinese-president-hu-jintao-at-the-white-house-a-falun-gong-protesteraan-accredited-journalis.html)  [JSON](/news/2006/04/20/u-s-president-george-w-bush-welcomes-the-chinese-president-hu-jintao-at-the-white-house-a-falun-gong-protesteraan-accredited-journalis.json)  [XML](/news/2006/04/20/u-s-president-george-w-bush-welcomes-the-chinese-president-hu-jintao-at-the-white-house-a-falun-gong-protesteraan-accredited-journalis.xml)  
+
 ### [2006-04-20](/news/2006/04/20/index.md)
 
+##### U.S. President
 #  U.S. President George W. Bush welcomes the Chinese President Hu Jintao at the White House. A Falun Gong protester--an accredited journalist from "The Epoch Times"--interrupts Hu's speech at the arrival ceremony before being removed by the Secret Service. The announcer violates protocol by accidentally calling the March of the Volunteers the "National Anthem of the Republic of China". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4925704.stm)
+
+### Changes:
+
+1. [ U.S. President George W. Bush welcomes the Chinese President Hu Jintao at the White House. A Falun Gong protester-an accredited journalist from "The Epoch Times"-interrupts Hu's speech at the arrival ceremony before being removed by the Secret Service. The announcer violates protocol by accidentally calling the March of the Volunteers the "National Anthem of the Republic of China". ](/news/2006/04/20/u-s-president-george-w-bush-welcomes-the-chinese-president-hu-jintao-at-the-white-house-a-falun-gong-protester-an-accredited-journalis.md) _2017-08-27 03:17:34 (First version)_
+1. [ U.S. President George W. Bush welcomes the Chinese President Hu Jintao at the White House. A Falun Gong protester--an accredited journalist from "The Epoch Times"--interrupts Hu's speech at the arrival ceremony before being removed by the Secret Service. The announcer violates protocol by accidentally calling the March of the Volunteers the "National Anthem of the Republic of China". ](/news/2006/04/20/u-s-president-george-w-bush-welcomes-the-chinese-president-hu-jintao-at-the-white-house-a-falun-gong-protesteraan-accredited-journalis.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [The US Secret Service locks down the White House after a loud noise (later revealed to be a burned-out souvenir truck) is heard on the South Lawn, moments before U.S. President Barack Obama and his family were due to take off by helicopter. He and his family were not yet on the South Lawn when the noise was heard. ](/news/2015/03/7/the-us-secret-service-locks-down-the-white-house-after-a-loud-noise-later-revealed-to-be-a-burned-out-souvenir-truck-is-heard-on-the-south.md) _Context: United States Secret Service, White House_
 4. [The U.S. Secret Service recovers a flying drone from the lawn at the White House. ](/news/2015/01/26/the-u-s-secret-service-recovers-a-flying-drone-from-the-lawn-at-the-white-house.md) _Context: United States Secret Service, White House_
 5. [A United States Secret Service report outlines numerous security failures that enabled Omar Gonzalez to enter the White House. ](/news/2014/11/13/a-united-states-secret-service-report-outlines-numerous-security-failures-that-enabled-omar-gonzalez-to-enter-the-white-house.md) _Context: United States Secret Service, White House_
-
-### Changes:
-
-1. [ U.S. President George W. Bush welcomes the Chinese President Hu Jintao at the White House. A Falun Gong protester-an accredited journalist from "The Epoch Times"-interrupts Hu's speech at the arrival ceremony before being removed by the Secret Service. The announcer violates protocol by accidentally calling the March of the Volunteers the "National Anthem of the Republic of China". ](/news/2006/04/20/u-s-president-george-w-bush-welcomes-the-chinese-president-hu-jintao-at-the-white-house-a-falun-gong-protester-an-accredited-journalis.md) _2017-08-27 03:17:34 (First version)_
-1. [ U.S. President George W. Bush welcomes the Chinese President Hu Jintao at the White House. A Falun Gong protester--an accredited journalist from "The Epoch Times"--interrupts Hu's speech at the arrival ceremony before being removed by the Secret Service. The announcer violates protocol by accidentally calling the March of the Volunteers the "National Anthem of the Republic of China". ](/news/2006/04/20/u-s-president-george-w-bush-welcomes-the-chinese-president-hu-jintao-at-the-white-house-a-falun-gong-protesteraan-accredited-journalis.md) _(Current version)_

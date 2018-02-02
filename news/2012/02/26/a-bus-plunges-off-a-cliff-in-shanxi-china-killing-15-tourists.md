@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/26/a-bus-plunges-off-a-cliff-in-shanxi-china-killing-15-tourists.html)  [JSON](/news/2012/02/26/a-bus-plunges-off-a-cliff-in-shanxi-china-killing-15-tourists.json)  [XML](/news/2012/02/26/a-bus-plunges-off-a-cliff-in-shanxi-china-killing-15-tourists.xml)  
+
 ### [2012-02-26](/news/2012/02/26/index.md)
 
+##### Shanxi province
 # A bus plunges off a cliff in Shanxi, China, killing 15 tourists. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hwIc-6khRnh-UJgDLUne8KcLc75Q)
 

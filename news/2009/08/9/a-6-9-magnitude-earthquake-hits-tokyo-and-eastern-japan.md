@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2009/08/9/a-6-9-magnitude-earthquake-hits-tokyo-and-eastern-japan.html)  [JSON](/news/2009/08/9/a-6-9-magnitude-earthquake-hits-tokyo-and-eastern-japan.json)  [XML](/news/2009/08/9/a-6-9-magnitude-earthquake-hits-tokyo-and-eastern-japan.xml)  
+
 ### [2009-08-9](/news/2009/08/9/index.md)
 
+##### magnitude
 #  A 6.9 magnitude earthquake hits Tokyo and eastern Japan. 
 
 A strong earthquake with a preliminary magnitude of 6.9 jolted central Japan on Sunday, halting some train services briefly but there were no immediate reports of damage.
 
 
-### Source:
+### Sources:
 
 1. [Nikkei](http://www.nni.nikkei.co.jp/e/fr/tnks/Nni20090809D09JF489.htm)
 2. [Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5gRq5ct08njtJ2AX91nBTzSL5xLvA)
-3. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE5780MP20090809)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/article/newsOne/idUSTRE5780MP20090809)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

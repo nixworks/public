@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/13/henry-okah-a-guerrilla-leader-of-the-movement-for-the-emancipation-of-the-niger-delta-is-released-from-detainment-after-accepting-an-amne.html)  [JSON](/news/2009/07/13/henry-okah-a-guerrilla-leader-of-the-movement-for-the-emancipation-of-the-niger-delta-is-released-from-detainment-after-accepting-an-amne.json)  [XML](/news/2009/07/13/henry-okah-a-guerrilla-leader-of-the-movement-for-the-emancipation-of-the-niger-delta-is-released-from-detainment-after-accepting-an-amne.xml)  
+
 ### [2009-07-13](/news/2009/07/13/index.md)
 
+##### Henry Okah
 #  Henry Okah, a guerrilla leader of the Movement for the Emancipation of the Niger Delta, is released from detainment after accepting an amnesty offered by the Nigerian government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8148535.stm)
 

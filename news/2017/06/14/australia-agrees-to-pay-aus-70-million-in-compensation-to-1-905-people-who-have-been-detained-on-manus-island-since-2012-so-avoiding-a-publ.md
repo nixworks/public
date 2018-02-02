@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/14/australia-agrees-to-pay-aus-70-million-in-compe
 
 ### [2017-06-14](/news/2017/06/14/index.md)
 
+##### Manus Regional Processing Centre
 # Australia agrees to pay AUS$70 million in compensation to 1,905 people who have been detained on Manus Island since 2012, so avoiding a public trial against the government and the Transfield and G4S private companies for the detainees' degrading and cruel treatment. 
 
 Detainees at an Australian asylum-seeker camp in Papua New Guinea won millions of dollars in compensation for &quot;degrading and cruel&quot; treatment Wednesday, in a decision hailed as an important human rights victory.

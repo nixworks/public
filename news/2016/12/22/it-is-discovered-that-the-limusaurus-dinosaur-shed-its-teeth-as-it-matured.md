@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/22/it-is-discovered-that-the-limusaurus-dinosaur-s
 
 ### [2016-12-22](/news/2016/12/22/index.md)
 
+##### Limusaurus
 # It is discovered that the Limusaurus dinosaur shed its teeth as it matured. 
 
 Limusaurus fossils found in China suggest they started life eating insects before turning to plants

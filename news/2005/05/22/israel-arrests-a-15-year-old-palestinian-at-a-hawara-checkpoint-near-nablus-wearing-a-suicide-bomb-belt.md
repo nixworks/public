@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/22/israel-arrests-a-15-year-old-palestinian-at-a-hawara-checkpoint-near-nablus-wearing-a-suicide-bomb-belt.html)  [JSON](/news/2005/05/22/israel-arrests-a-15-year-old-palestinian-at-a-hawara-checkpoint-near-nablus-wearing-a-suicide-bomb-belt.json)  [XML](/news/2005/05/22/israel-arrests-a-15-year-old-palestinian-at-a-hawara-checkpoint-near-nablus-wearing-a-suicide-bomb-belt.xml)  
+
 ### [2005-05-22](/news/2005/05/22/index.md)
 
+##### Israel
 #  Israel arrests a 15-year-old Palestinian at a Hawara checkpoint, near Nablus, wearing a suicide bomb belt. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/hasen/spages/578988.html)
 

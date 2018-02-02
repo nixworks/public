@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/10/researchers-report-that-some-patients-who-recovered-from-sars-have-developed-bone-disease-possibly-as-a-result-of-drugs-used-to-fight-the.html)  [JSON](/news/2003/11/10/researchers-report-that-some-patients-who-recovered-from-sars-have-developed-bone-disease-possibly-as-a-result-of-drugs-used-to-fight-the.json)  [XML](/news/2003/11/10/researchers-report-that-some-patients-who-recovered-from-sars-have-developed-bone-disease-possibly-as-a-result-of-drugs-used-to-fight-the.xml)  
+
 ### [2003-11-10](/news/2003/11/10/index.md)
 
+##### SARS
 #  Researchers report that some patients who recovered from SARS have developed bone disease, possibly as a result of drugs used to fight the infection.
 
 

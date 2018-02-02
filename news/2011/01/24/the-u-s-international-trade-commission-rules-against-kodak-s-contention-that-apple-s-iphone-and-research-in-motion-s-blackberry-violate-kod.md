@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2011/01/24/the-u-s-international-trade-commission-rules-against-kodak-s-contention-that-apple-s-iphone-and-research-in-motion-s-blackberry-violate-kod.html)  [JSON](/news/2011/01/24/the-u-s-international-trade-commission-rules-against-kodak-s-contention-that-apple-s-iphone-and-research-in-motion-s-blackberry-violate-kod.json)  [XML](/news/2011/01/24/the-u-s-international-trade-commission-rules-against-kodak-s-contention-that-apple-s-iphone-and-research-in-motion-s-blackberry-violate-kod.xml)  
+
 ### [2011-01-24](/news/2011/01/24/index.md)
 
+##### International Trade Commission
 # The U.S. International Trade Commission rules against Kodak's contention that Apple's iPhone and Research in Motion's BlackBerry violate Kodak's intellectual property rights. 
 
+Eastman Kodak Co. was handed a setback by a U.S. trade agency in the camera company’s effort to force Apple Inc. and Research In Motion Ltd. to pay patent royalties on a common image-preview feature used in phones.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2011-01-24/kodak-s-push-for-royalties-from-apple-rim-is-derailed-by-itc.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2011-01-24/kodak-s-push-for-royalties-from-apple-rim-is-derailed-by-itc.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

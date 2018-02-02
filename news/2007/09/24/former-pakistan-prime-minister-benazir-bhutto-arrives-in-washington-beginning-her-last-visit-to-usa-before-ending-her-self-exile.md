@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/09/24/former-pakistan-prime-minister-benazir-bhutto-arrives-in-washington-beginning-her-last-visit-to-usa-before-ending-her-self-exile.html)  [JSON](/news/2007/09/24/former-pakistan-prime-minister-benazir-bhutto-arrives-in-washington-beginning-her-last-visit-to-usa-before-ending-her-self-exile.json)  [XML](/news/2007/09/24/former-pakistan-prime-minister-benazir-bhutto-arrives-in-washington-beginning-her-last-visit-to-usa-before-ending-her-self-exile.xml)  
+
 ### [2007-09-24](/news/2007/09/24/index.md)
 
+##### Pakistan
 #  Former Pakistan Prime Minister, Benazir Bhutto, arrives in Washington beginning her last visit to USA before ending her self-exile.
 
 

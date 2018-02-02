@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/27/the-los-angeles-dodgers-file-for-chapter-11-bankruptcy-protection.html)  [JSON](/news/2011/06/27/the-los-angeles-dodgers-file-for-chapter-11-bankruptcy-protection.json)  [XML](/news/2011/06/27/the-los-angeles-dodgers-file-for-chapter-11-bankruptcy-protection.xml)  
+
 ### [2011-06-27](/news/2011/06/27/index.md)
 
+##### Los Angeles Dodgers
 # The Los Angeles Dodgers file for Chapter 11 bankruptcy protection. 
 
 The Los Angeles Dodgers filed for bankruptcy protection in a Delaware court Monday, blaming Major League Baseball for refusing to approve a multibillion-dollar TV deal that owner Frank McCourt was counting on to keep the troubled team afloat.
 
 
-### Source:
+### Sources:
 
 1. [ESPN.com](http://sports.espn.go.com/los-angeles/mlb/news/story?id=6708046)
 1. [Cover Image](http://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fmlb%2F500%2Ftex.png)

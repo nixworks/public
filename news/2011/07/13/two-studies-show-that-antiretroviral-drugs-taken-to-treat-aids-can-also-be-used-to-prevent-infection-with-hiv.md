@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/07/13/two-studies-show-that-antiretroviral-drugs-taken-to-treat-aids-can-also-be-used-to-prevent-infection-with-hiv.html)  [JSON](/news/2011/07/13/two-studies-show-that-antiretroviral-drugs-taken-to-treat-aids-can-also-be-used-to-prevent-infection-with-hiv.json)  [XML](/news/2011/07/13/two-studies-show-that-antiretroviral-drugs-taken-to-treat-aids-can-also-be-used-to-prevent-infection-with-hiv.xml)  
+
 ### [2011-07-13](/news/2011/07/13/index.md)
 
+##### antiretroviral drugs
 # Two studies show that antiretroviral drugs taken to treat AIDS can also be used to prevent infection with HIV. 
 
 Two studies in Africa show AIDS drugs taken daily can cut the chance of HIV infection by half.
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/national/two-studies-show-that-drugs-used-to-treat-aids-can-be-used-to-prevent-hiv-infection-too/2011/07/12/gIQAN51zBI_story.html?hpid=z4&wpisrc=al_national)
+1. [Washington Post](https://www.washingtonpost.com/national/two-studies-show-that-drugs-used-to-treat-aids-can-be-used-to-prevent-hiv-infection-too/2011/07/12/gIQAN51zBI_story.html?hpid=z4&wpisrc=al_national)
 
 ### Related:
 

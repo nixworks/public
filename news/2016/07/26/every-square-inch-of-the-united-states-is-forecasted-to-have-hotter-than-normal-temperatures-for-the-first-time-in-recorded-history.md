@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/26/every-square-inch-of-the-united-states-is-forec
 
 ### [2016-07-26](/news/2016/07/26/index.md)
 
+##### 
 # Every square inch of the United States is forecasted to have hotter-than-normal temperatures for the first time in recorded history.
 
 

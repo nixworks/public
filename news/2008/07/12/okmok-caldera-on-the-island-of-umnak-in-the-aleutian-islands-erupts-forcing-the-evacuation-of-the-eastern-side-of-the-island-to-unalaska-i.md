@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/07/12/okmok-caldera-on-the-island-of-umnak-in-the-aleutian-islands-erupts-forcing-the-evacuation-of-the-eastern-side-of-the-island-to-unalaska-i.html)  [JSON](/news/2008/07/12/okmok-caldera-on-the-island-of-umnak-in-the-aleutian-islands-erupts-forcing-the-evacuation-of-the-eastern-side-of-the-island-to-unalaska-i.json)  [XML](/news/2008/07/12/okmok-caldera-on-the-island-of-umnak-in-the-aleutian-islands-erupts-forcing-the-evacuation-of-the-eastern-side-of-the-island-to-unalaska-i.xml)  
+
 ### [2008-07-12](/news/2008/07/12/index.md)
 
+##### Okmok Caldera
 #  Okmok Caldera on the island of Umnak in the Aleutian Islands erupts, forcing the evacuation of the eastern side of the island to Unalaska Island. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSN1238277220080713?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSN1238277220080713?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

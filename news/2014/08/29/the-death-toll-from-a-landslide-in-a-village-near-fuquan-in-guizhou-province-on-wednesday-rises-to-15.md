@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/29/the-death-toll-from-a-landslide-in-a-village-near-fuquan-in-guizhou-province-on-wednesday-rises-to-15.html)  [JSON](/news/2014/08/29/the-death-toll-from-a-landslide-in-a-village-near-fuquan-in-guizhou-province-on-wednesday-rises-to-15.json)  [XML](/news/2014/08/29/the-death-toll-from-a-landslide-in-a-village-near-fuquan-in-guizhou-province-on-wednesday-rises-to-15.xml)  
+
 ### [2014-08-29](/news/2014/08/29/index.md)
 
+##### Fuquan
 # The death toll from a landslide in a village near Fuquan in Guizhou province on Wednesday rises to 15. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Business Recorder](http://www.brecorder.com/world/southeast-asia/191228-china-landslide-toll-rises-to-15-report.html)
 

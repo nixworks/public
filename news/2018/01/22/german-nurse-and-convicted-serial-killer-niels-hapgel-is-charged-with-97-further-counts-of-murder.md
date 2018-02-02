@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/22/german-nurse-and-convicted-serial-killer-niels-
 
 ### [2018-01-22](/news/2018/01/22/index.md)
 
+##### Crime in Germany
 # German nurse and convicted serial killer Niels Hogel is charged with 97 further counts of murder. 
 
 The nurse was already sentenced for killing six patients by injecting them with drugs and then trying to revive them. If convicted, Niels Högel will be one of the most prolific serial killers in German history.

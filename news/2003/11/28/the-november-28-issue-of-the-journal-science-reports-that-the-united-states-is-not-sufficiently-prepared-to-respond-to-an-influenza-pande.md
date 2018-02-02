@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/28/the-november-28-issue-of-the-journal-science-reports-that-the-united-states-is-not-sufficiently-prepared-to-respond-to-an-influenza-pande.html)  [JSON](/news/2003/11/28/the-november-28-issue-of-the-journal-science-reports-that-the-united-states-is-not-sufficiently-prepared-to-respond-to-an-influenza-pande.json)  [XML](/news/2003/11/28/the-november-28-issue-of-the-journal-science-reports-that-the-united-states-is-not-sufficiently-prepared-to-respond-to-an-influenza-pande.xml)  
+
 ### [2003-11-28](/news/2003/11/28/index.md)
 
+##### Science
 #  The November 28 issue of the journal "Science" reports that the United States is not sufficiently prepared to respond to an influenza pandemic.
 
 

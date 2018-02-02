@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/13/iraq-s-constitutional-referendum-a-four-day-curfew-has-been-announced-in-order-to-hamper-terrorists-early-voting-has-begun.html)  [JSON](/news/2005/10/13/iraq-s-constitutional-referendum-a-four-day-curfew-has-been-announced-in-order-to-hamper-terrorists-early-voting-has-begun.json)  [XML](/news/2005/10/13/iraq-s-constitutional-referendum-a-four-day-curfew-has-been-announced-in-order-to-hamper-terrorists-early-voting-has-begun.xml)  
+
 ### [2005-10-13](/news/2005/10/13/index.md)
 
+##### in the vote held
 #  Iraq's Constitutional Referendum: A four day curfew has been announced in order to hamper terrorists. Early voting has begun. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.abc.net.au/news/newsitems/200510/s1481962.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/11/the-ninth-cricket-world-cup-opens-in-trelawny-stadium-montego-bay-jamaica-the-2007-championship-will-feature-cricket-matches-staged-in-v.html)  [JSON](/news/2007/03/11/the-ninth-cricket-world-cup-opens-in-trelawny-stadium-montego-bay-jamaica-the-2007-championship-will-feature-cricket-matches-staged-in-v.json)  [XML](/news/2007/03/11/the-ninth-cricket-world-cup-opens-in-trelawny-stadium-montego-bay-jamaica-the-2007-championship-will-feature-cricket-matches-staged-in-v.xml)  
+
 ### [2007-03-11](/news/2007/03/11/index.md)
 
+##### Cricket World Cup
 #  The ninth Cricket World Cup opens in Trelawny Stadium, Montego Bay, Jamaica. The 2007 championship will feature cricket matches staged in various locations across the Caribbean. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/cricket/other_international/west_indies/6410751.stm)
 

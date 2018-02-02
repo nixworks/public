@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/2/in-texas-four-children-die-with-an-additional-si
 
 ### [2017-01-2](/news/2017/01/2/index.md)
 
+##### Texas
 # In Texas, four children die with an additional six others injured after they are poisoned by phosgene gas sprayed in an inappropriate attempt as a pesticide. 
 
 A poisonous gas believed to have been released when someone tried to wash away a pesticide that had been sprayed under a Texas home killed four children and left six other people hospitalized, officials said Monday.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/16/hundreds-of-thousands-of-taiwanese-participate-in-rival-political-rallies-ahead-of-the-2008-presidential-election.html)  [JSON](/news/2008/03/16/hundreds-of-thousands-of-taiwanese-participate-in-rival-political-rallies-ahead-of-the-2008-presidential-election.json)  [XML](/news/2008/03/16/hundreds-of-thousands-of-taiwanese-participate-in-rival-political-rallies-ahead-of-the-2008-presidential-election.xml)  
+
 ### [2008-03-16](/news/2008/03/16/index.md)
 
+##### Taiwan
 #  Hundreds of thousands of Taiwanese participate in rival political rallies ahead of the 2008 presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7299133.stm)
 

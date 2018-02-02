@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/12/police-in-denmark-detain-900-people-after-thousands-gather-in-copenhagen-to-demand-more-action-on-climate-change-and-global-warming-by-lead.html)  [JSON](/news/2009/12/12/police-in-denmark-detain-900-people-after-thousands-gather-in-copenhagen-to-demand-more-action-on-climate-change-and-global-warming-by-lead.json)  [XML](/news/2009/12/12/police-in-denmark-detain-900-people-after-thousands-gather-in-copenhagen-to-demand-more-action-on-climate-change-and-global-warming-by-lead.xml)  
+
 ### [2009-12-12](/news/2009/12/12/index.md)
 
+##### Copenhagen
 #  Police in Denmark detain 900 people after thousands gather in Copenhagen to demand more action on climate change and global warming by leaders at the United Nations Climate Change Conference. 
 
 At least 900 activists are arrested for trying to disrupt corporate and lobby group meetings.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/12/200912121272173258.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8409331.stm)

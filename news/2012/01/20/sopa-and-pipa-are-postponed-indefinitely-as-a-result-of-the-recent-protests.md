@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/20/sopa-and-pipa-are-postponed-indefinitely-as-a-result-of-the-recent-protests.html)  [JSON](/news/2012/01/20/sopa-and-pipa-are-postponed-indefinitely-as-a-result-of-the-recent-protests.json)  [XML](/news/2012/01/20/sopa-and-pipa-are-postponed-indefinitely-as-a-result-of-the-recent-protests.xml)  
+
 ### [2012-01-20](/news/2012/01/20/index.md)
 
+##### SOPA
 # SOPA and PIPA are postponed indefinitely as a result of the recent protests. 
 
 Both the House and the Senate are backing off their anti-piracy bills that sparked a bitter controversy.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2012/01/20/technology/SOPA_PIPA_postponed/)
 1. [Cover Image](http://i2.cdn.turner.com/money/2012/01/20/technology/SOPA_PIPA_postponed/sopa-protest-1.01.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/25/a-series-of-shootings-in-and-near-the-american-
 
 ### [2016-02-25](/news/2016/02/25/index.md)
 
+##### 2016 Hesston shooting
 # A series of shootings in and near the American town of Hesston, Kansas, results in at least four deaths, including the shooter, at an Excel Industries building, with up to 20 people injured. The shooter is Cedric Ford, a convicted felon. 
 
 

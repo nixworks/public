@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/5/at-least-6-people-are-killed-and-36-wounded-after-an-explosion-in-the-city-of-kaili-guizhou-province-china.html)  [JSON](/news/2010/12/5/at-least-6-people-are-killed-and-36-wounded-after-an-explosion-in-the-city-of-kaili-guizhou-province-china.json)  [XML](/news/2010/12/5/at-least-6-people-are-killed-and-36-wounded-after-an-explosion-in-the-city-of-kaili-guizhou-province-china.xml)  
+
 ### [2010-12-5](/news/2010/12/5/index.md)
 
+##### Kaili
 # At least 6 people are killed and 36 wounded after an explosion in the city of Kaili, Guizhou province, China. 
 
 At least six people are killed and about 36 injured in an explosion at an internet cafe in Guizhou province, China.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11920926)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-12/05/content_11653391.htm)

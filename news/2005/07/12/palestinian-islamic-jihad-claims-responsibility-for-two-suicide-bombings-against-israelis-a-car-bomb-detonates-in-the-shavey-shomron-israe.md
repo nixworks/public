@@ -1,17 +1,26 @@
+
+Formats: [HTML](/news/2005/07/12/palestinian-islamic-jihad-claims-responsibility-for-two-suicide-bombings-against-israelis-a-car-bomb-detonates-in-the-shavey-shomron-israe.html)  [JSON](/news/2005/07/12/palestinian-islamic-jihad-claims-responsibility-for-two-suicide-bombings-against-israelis-a-car-bomb-detonates-in-the-shavey-shomron-israe.json)  [XML](/news/2005/07/12/palestinian-islamic-jihad-claims-responsibility-for-two-suicide-bombings-against-israelis-a-car-bomb-detonates-in-the-shavey-shomron-israe.xml)  
+
 ### [2005-07-12](/news/2005/07/12/index.md)
 
+##### Palestinian Islamic Jihad
 #  Palestinian Islamic Jihad claims responsibility for two suicide bombings against Israelis. A car bomb detonates in the Shavey Shomron Israeli settlement on the West Bank causing no Israeli casualties. In Netanya, a suicide bomber kills three women at the HaSharon Mall. 
 
 One man seriously injured after car explodes in West Bank settlement; man believed to be driver of car
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4676257.stm)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/599195.html)
 3. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3111730,00.html)
 4. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3111750,00.html)
 4. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
+
+### Changes:
+
+1. [ Palestinian Islamic Jihad claims responsibility for two suicide bombings against Israelis. A car bomb detonates in the Shavey Shomron Israeli settlement on the West Bank causing no Israeli casualties. In Netanya, a suicide bomber kills three women at the HaSharon Mall. ](/news/2005/07/12/palestinian-islamic-jihad-claims-responsibility-for-two-suicide-bombings-against-israelis-a-car-bomb-detonates-in-the-shavey-shomron-isra.md) _2017-08-25 03:16:31 (First version)_
+1. [ Palestinian Islamic Jihad claims responsibility for two suicide bombings against Israelis. A car bomb detonates in the Shavey Shomron Israeli settlement on the West Bank causing no Israeli casualties. In Netanya, a suicide bomber kills three women at the HaSharon Mall. ](/news/2005/07/12/palestinian-islamic-jihad-claims-responsibility-for-two-suicide-bombings-against-israelis-a-car-bomb-detonates-in-the-shavey-shomron-israe.md) _(Current version)_
 
 ### Related:
 
@@ -20,8 +29,3 @@ One man seriously injured after car explodes in West Bank settlement; man believ
 3. [More than 150 Israeli academics say they will no longer lecture or work in Jewish settlements in the West Bank. ](/news/2010/09/1/more-than-150-israeli-academics-say-they-will-no-longer-lecture-or-work-in-jewish-settlements-in-the-west-bank.md) _Context: Israel, Israeli settlement, West Bank_
 4. [ Thousands of Jewish settlers stage a protest at the curbs on settlement building in the West Bank. ](/news/2009/12/9/thousands-of-jewish-settlers-stage-a-protest-at-the-curbs-on-settlement-building-in-the-west-bank.md) _Context: Israel, Israeli settlement, West Bank_
 5. [ United States Secretary of State Hillary Clinton reaffirms President Barack Obama's demand that Israel halt settlement in the West Bank. ](/news/2009/05/28/united-states-secretary-of-state-hillary-clinton-reaffirms-president-barack-obama-s-demand-that-israel-halt-settlement-in-the-west-bank.md) _Context: Israel, Israeli settlement, West Bank_
-
-### Changes:
-
-1. [ Palestinian Islamic Jihad claims responsibility for two suicide bombings against Israelis. A car bomb detonates in the Shavey Shomron Israeli settlement on the West Bank causing no Israeli casualties. In Netanya, a suicide bomber kills three women at the HaSharon Mall. ](/news/2005/07/12/palestinian-islamic-jihad-claims-responsibility-for-two-suicide-bombings-against-israelis-a-car-bomb-detonates-in-the-shavey-shomron-isra.md) _2017-08-25 03:16:31 (First version)_
-1. [ Palestinian Islamic Jihad claims responsibility for two suicide bombings against Israelis. A car bomb detonates in the Shavey Shomron Israeli settlement on the West Bank causing no Israeli casualties. In Netanya, a suicide bomber kills three women at the HaSharon Mall. ](/news/2005/07/12/palestinian-islamic-jihad-claims-responsibility-for-two-suicide-bombings-against-israelis-a-car-bomb-detonates-in-the-shavey-shomron-israe.md) _(Current version)_

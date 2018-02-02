@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/20/opposition-leader-mahamadou-issoufou-is-elected-president-of-niger-following-over-a-year-of-transitionary-rule-under-a-military-junta-since.html)  [JSON](/news/2011/03/20/opposition-leader-mahamadou-issoufou-is-elected-president-of-niger-following-over-a-year-of-transitionary-rule-under-a-military-junta-since.json)  [XML](/news/2011/03/20/opposition-leader-mahamadou-issoufou-is-elected-president-of-niger-following-over-a-year-of-transitionary-rule-under-a-military-junta-since.xml)  
+
 ### [2011-03-20](/news/2011/03/20/index.md)
 
+##### Mahamadou Issoufou
 # Opposition leader Mahamadou Issoufou is elected President of Niger following over a year of transitionary rule under a military junta since a coup overthrew Mamadou Tandja. The runner-up in the election, former Prime Minister Seyni Oumarou, accepts the results. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gaYaZhLeEQo2iwc9TcVNpeGLU-hQ?docId=CNG.0af06a235b3fa5689ba5127dac77bed9.881)
 

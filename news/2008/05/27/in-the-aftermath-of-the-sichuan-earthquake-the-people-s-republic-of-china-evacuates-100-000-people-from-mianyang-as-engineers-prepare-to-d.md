@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/27/in-the-aftermath-of-the-sichuan-earthquake-the-people-s-republic-of-china-evacuates-100-000-people-from-mianyang-as-engineers-prepare-to-d.html)  [JSON](/news/2008/05/27/in-the-aftermath-of-the-sichuan-earthquake-the-people-s-republic-of-china-evacuates-100-000-people-from-mianyang-as-engineers-prepare-to-d.json)  [XML](/news/2008/05/27/in-the-aftermath-of-the-sichuan-earthquake-the-people-s-republic-of-china-evacuates-100-000-people-from-mianyang-as-engineers-prepare-to-d.xml)  
+
 ### [2008-05-27](/news/2008/05/27/index.md)
 
+##### deadly earthquake
 #  In the aftermath of the Sichuan earthquake, the People's Republic of China evacuates 100,000 people from Mianyang as engineers prepare to drain the landslide dam-created Tangjiashan Lake.
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/asiapcf/05/27/china.earthquake/index.html)
 

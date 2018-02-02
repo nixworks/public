@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/28/running-water-is-restored-to-the-city-of-harbin-in-heilongjiang-china-after-several-days-of-a-water-cut-off-due-to-the-toxic-benzene-spil.html)  [JSON](/news/2005/11/28/running-water-is-restored-to-the-city-of-harbin-in-heilongjiang-china-after-several-days-of-a-water-cut-off-due-to-the-toxic-benzene-spil.json)  [XML](/news/2005/11/28/running-water-is-restored-to-the-city-of-harbin-in-heilongjiang-china-after-several-days-of-a-water-cut-off-due-to-the-toxic-benzene-spil.xml)  
+
 ### [2005-11-28](/news/2005/11/28/index.md)
 
+##### Harbin
 #  Running water is restored to the city of Harbin, in Heilongjiang, China after several days of a water cut-off due to the toxic benzene spill. Yilan County, Heilongjiang, however, is still without running water. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-5443272,00.html)
 

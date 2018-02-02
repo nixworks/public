@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/12/9/stock-prices-rise-at-stock-exchanges-around-the-world-and-some-analysts-see-this-as-a-reaction-to-a-fiscal-agreement-among-the-leaders-of-t.html)  [JSON](/news/2011/12/9/stock-prices-rise-at-stock-exchanges-around-the-world-and-some-analysts-see-this-as-a-reaction-to-a-fiscal-agreement-among-the-leaders-of-t.json)  [XML](/news/2011/12/9/stock-prices-rise-at-stock-exchanges-around-the-world-and-some-analysts-see-this-as-a-reaction-to-a-fiscal-agreement-among-the-leaders-of-t.xml)  
+
 ### [2011-12-9](/news/2011/12/9/index.md)
 
+##### stock exchange
 # Stock prices rise at stock exchanges around the world, and some analysts see this as a reaction to a fiscal agreement among the leaders of the eurozone. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/12/09/us-markets-global-idUSTRE7B702H20111209)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111209&t=2&i=544861403&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7B80Z2400)
+1. [Reuters](https://www.reuters.com/article/2011/12/09/us-markets-global-idUSTRE7B702H20111209)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111209&t=2&i=544861403&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7B80Z2400)
 
 ### Related:
 

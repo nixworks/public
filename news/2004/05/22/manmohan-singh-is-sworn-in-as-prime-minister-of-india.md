@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/22/manmohan-singh-is-sworn-in-as-prime-minister-of-india.html)  [JSON](/news/2004/05/22/manmohan-singh-is-sworn-in-as-prime-minister-of-india.json)  [XML](/news/2004/05/22/manmohan-singh-is-sworn-in-as-prime-minister-of-india.xml)  
+
 ### [2004-05-22](/news/2004/05/22/index.md)
 
+##### Manmohan Singh
 #  Manmohan Singh is sworn in as Prime Minister of India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/3736723.stm)
 

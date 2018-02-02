@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/28/former-president-and-prime-minister-of-israel-a
 
 ### [2016-09-28](/news/2016/09/28/index.md)
 
+##### President
 # Former President and Prime Minister of Israel, and Nobel Peace Prize winner Shimon Peres dies at the age of 93. 
 
 Senior statesman dies after suffering a stroke two weeks ago.

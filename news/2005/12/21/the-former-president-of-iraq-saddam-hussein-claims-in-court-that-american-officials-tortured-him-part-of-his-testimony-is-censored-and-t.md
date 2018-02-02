@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/21/the-former-president-of-iraq-saddam-hussein-claims-in-court-that-american-officials-tortured-him-part-of-his-testimony-is-censored-and-t.html)  [JSON](/news/2005/12/21/the-former-president-of-iraq-saddam-hussein-claims-in-court-that-american-officials-tortured-him-part-of-his-testimony-is-censored-and-t.json)  [XML](/news/2005/12/21/the-former-president-of-iraq-saddam-hussein-claims-in-court-that-american-officials-tortured-him-part-of-his-testimony-is-censored-and-t.xml)  
+
 ### [2005-12-21](/news/2005/12/21/index.md)
 
+##### President of Iraq
 #  The former President of Iraq, Saddam Hussein, claims in court that American officials tortured him. Part of his testimony is censored and the US strongly denies the accusations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4551316.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/19/isil-militants-execute-12-people-in-palmyra-acc
 
 ### [2017-01-19](/news/2017/01/19/index.md)
 
+##### Syrian Civil War
 # ISIL militants execute 12 people in Palmyra, according to the Syrian Observatory for Human Rights. 
 
 Islamic State jihadists behead four people and shoot eight dead in the ancient Syrian city, monitors say.

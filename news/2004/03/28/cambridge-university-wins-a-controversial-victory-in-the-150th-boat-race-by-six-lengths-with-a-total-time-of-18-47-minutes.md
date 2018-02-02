@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/28/cambridge-university-wins-a-controversial-victory-in-the-150th-boat-race-by-six-lengths-with-a-total-time-of-18-47-minutes.html)  [JSON](/news/2004/03/28/cambridge-university-wins-a-controversial-victory-in-the-150th-boat-race-by-six-lengths-with-a-total-time-of-18-47-minutes.json)  [XML](/news/2004/03/28/cambridge-university-wins-a-controversial-victory-in-the-150th-boat-race-by-six-lengths-with-a-total-time-of-18-47-minutes.xml)  
+
 ### [2004-03-28](/news/2004/03/28/index.md)
 
+##### University of Cambridge
 #  Cambridge University wins a controversial victory in the 150th Boat Race by six lengths, with a total time of 18:47 minutes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/other_sports/boat_race_2004/3572649.stm)
 

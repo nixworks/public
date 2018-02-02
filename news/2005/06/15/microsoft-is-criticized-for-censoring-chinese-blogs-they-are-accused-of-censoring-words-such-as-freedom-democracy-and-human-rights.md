@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/15/microsoft-is-criticized-for-censoring-chinese-blogs-they-are-accused-of-censoring-words-such-as-freedom-democracy-and-human-rights.html)  [JSON](/news/2005/06/15/microsoft-is-criticized-for-censoring-chinese-blogs-they-are-accused-of-censoring-words-such-as-freedom-democracy-and-human-rights.json)  [XML](/news/2005/06/15/microsoft-is-criticized-for-censoring-chinese-blogs-they-are-accused-of-censoring-words-such-as-freedom-democracy-and-human-rights.xml)  
+
 ### [2005-06-15](/news/2005/06/15/index.md)
 
+##### Microsoft
 #  Microsoft is criticized for censoring Chinese blogs. They are accused of censoring words such as "freedom", "democracy", and "human rights". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/technology/4088702.stm)
 2. [RealOpinion.com](http://www.realopinion.com/realboards/showthread.php?p=4630)

@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2007/05/21/united-states-presidential-election-2008-bill-richardson-the-democratic-governor-of-new-mexico-officially-declares-his-candidacy-for-pr.html)  [JSON](/news/2007/05/21/united-states-presidential-election-2008-bill-richardson-the-democratic-governor-of-new-mexico-officially-declares-his-candidacy-for-pr.json)  [XML](/news/2007/05/21/united-states-presidential-election-2008-bill-richardson-the-democratic-governor-of-new-mexico-officially-declares-his-candidacy-for-pr.xml)  
+
 ### [2007-05-21](/news/2007/05/21/index.md)
 
+##### presidential candidate
 #  United States Presidential Election, 2008: Bill Richardson, the Democratic Governor of New Mexico, officially declares his candidacy for president in Los Angeles, California. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/politics/la-na-richardson22may22,1,7799175.story?coll=la-news-politics-national)
 
 ### Related:
 
-1. [ U.S. election 2008: Bill Richardson, currently the Democratic Governor of New Mexico, announces his candidacy for United States president. ](/news/2007/01/21/u-s-election-2008-bill-richardson-currently-the-democratic-governor-of-new-mexico-announces-his-candidacy-for-united-states-president.md) _Context: 2008, Bill Richardson, Democratic, Governor of New Mexico_
-2. [Voters go to the polls in six states, including California and New Jersey, with Hillary Clinton gaining enough delegates to become the presumptive nominee of the Democratic Party. She will be the first woman nominee by a major party to run for President of the United States. ](/news/2016/06/7/voters-go-to-the-polls-in-six-states-including-california-and-new-jersey-with-hillary-clinton-gaining-enough-delegates-to-become-the-presu.md) _Context: California, Democratic, U.S. President_
-3. [ Democrat Barack Obama wins the 2008 United States presidential election after beating Republican John McCain, becoming the first African American to be elected to the office of President of the United States. ](/news/2008/11/4/democrat-barack-obama-wins-the-2008-united-states-presidential-election-after-beating-republican-john-mccain-becoming-the-first-african-am.md) _Context: 2008, Democratic, U.S. President_
-4. [ Hillary Clinton suspends her presidential campaign and endorses Barack Obama as the Democratic candidate for President of the United States in the 2008 election. ](/news/2008/06/7/hillary-clinton-suspends-her-presidential-campaign-and-endorses-barack-obama-as-the-democratic-candidate-for-president-of-the-united-states.md) _Context: 2008, Democratic, U.S. President_
-5. [ United States presidential election, 2008: Presidential contender and U. S. Senator Hillary Clinton (D-NY) has called for a 90-day deadline to start withdrawing U.S. troops from Iraq. She states in a video on her website: "If George Bush doesn't end the war before he leaves office, when I'm president, I will." ](/news/2007/02/17/united-states-presidential-election-2008-presidential-contender-and-u-s-senator-hillary-clinton-d-ny-has-called-for-a-90-day-deadline.md) _Context: 2008, Democratic, U.S. President_
+1. [Voters go to the polls in six states, including California and New Jersey, with Hillary Clinton gaining enough delegates to become the presumptive nominee of the Democratic Party. She will be the first woman nominee by a major party to run for President of the United States. ](/news/2016/06/7/voters-go-to-the-polls-in-six-states-including-california-and-new-jersey-with-hillary-clinton-gaining-enough-delegates-to-become-the-presu.md) _Context: California, Democrat, U.S. President_
+2. [ U.S. election 2008: Bill Richardson, currently the Democratic Governor of New Mexico, announces his candidacy for United States president. ](/news/2007/01/21/u-s-election-2008-bill-richardson-currently-the-democratic-governor-of-new-mexico-announces-his-candidacy-for-united-states-president.md) _Context: Bill Richardson, Democrat, Governor of New Mexico_
+3. [Two 15-year-old students are shot and three others injured at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-shot-and-three-others-injured-at-sal-castro-middle-school-in-los-angeles-california-a-12-year-old-female-stud.md) _Context: California, Los Angeles_
+4. [President Donald Trump, siding with Democrats, reaches a deal with congressional leaders of both parties to extend the U.S. debt limit and fund the federal government until Dec. 15, as well as provide Harvey disaster relief. ](/news/2017/09/6/president-donald-trump-siding-with-democrats-reaches-a-deal-with-congressional-leaders-of-both-parties-to-extend-the-u-s-debt-limit-and-f.md) _Context: Democrat, U.S. President_
+5. [In an official dinner hosted by the United States President, Donald Trump and leaders of the Democratic party Chuck Schumer and Nancy Pelosi agree to fix DACA but disagree with the details, with Trump denying on Twitter the following day that a deal had been made which excluded funding for his proposed wall on the Mexico-United States border. ](/news/2017/09/13/in-an-official-dinner-hosted-by-the-united-states-president-donald-trump-and-leaders-of-the-democratic-party-chuck-schumer-and-nancy-pelosi.md) _Context: Democrat, U.S. President_

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/05/10/former-governor-of-california-and-actor-arnold-schwarzenegger-and-journalist-maria-shriver-announce-their-separation-after-25-years-of-marri.html)  [JSON](/news/2011/05/10/former-governor-of-california-and-actor-arnold-schwarzenegger-and-journalist-maria-shriver-announce-their-separation-after-25-years-of-marri.json)  [XML](/news/2011/05/10/former-governor-of-california-and-actor-arnold-schwarzenegger-and-journalist-maria-shriver-announce-their-separation-after-25-years-of-marri.xml)  
+
 ### [2011-05-10](/news/2011/05/10/index.md)
 
+##### Governor of California
 # Former Governor of California and actor Arnold Schwarzenegger and journalist Maria Shriver announce their separation after 25 years of marriage. 
 
 LOS ANGELES &mdash; Arnold Schwarzenegger has announced that he and his wife of 25 years, Maria Shriver are separating.
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/lifestyle/style/arnold-schwarzenegger-and-wife-of-25-years-maria-shriver-say-theyre-separating/2011/05/10/AF16qwdG_story.html)
+1. [Washington Post](https://www.washingtonpost.com/lifestyle/style/arnold-schwarzenegger-and-wife-of-25-years-maria-shriver-say-theyre-separating/2011/05/10/AF16qwdG_story.html)
 
 ### Related:
 

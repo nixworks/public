@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/21/in-the-united-kingdom-an-earthquake-of-magnitude-3-6-hits-cumbria-and-surrounding-counties.html)  [JSON](/news/2010/12/21/in-the-united-kingdom-an-earthquake-of-magnitude-3-6-hits-cumbria-and-surrounding-counties.json)  [XML](/news/2010/12/21/in-the-united-kingdom-an-earthquake-of-magnitude-3-6-hits-cumbria-and-surrounding-counties.xml)  
+
 ### [2010-12-21](/news/2010/12/21/index.md)
 
+##### earthquake
 # In the United Kingdom an earthquake of magnitude 3.6 hits Cumbria and surrounding counties. 
 
 A small earthquake measuring 3.6 on the Richter scale has hit Cumbria and surrounding counties. BBC News website readers have been getting in touch with their quake experiences.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/12056722)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

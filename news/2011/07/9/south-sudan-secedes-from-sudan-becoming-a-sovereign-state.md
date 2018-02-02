@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/9/south-sudan-secedes-from-sudan-becoming-a-sovereign-state.html)  [JSON](/news/2011/07/9/south-sudan-secedes-from-sudan-becoming-a-sovereign-state.json)  [XML](/news/2011/07/9/south-sudan-secedes-from-sudan-becoming-a-sovereign-state.xml)  
+
 ### [2011-07-9](/news/2011/07/9/index.md)
 
+##### South Sudan
 # South Sudan secedes from Sudan, becoming a sovereign state. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-sudan-independence-20110709,0,732440.story)
 1. [Cover Image](http://www.latimes.com/media/photo/2011-07/63109019.jpg)

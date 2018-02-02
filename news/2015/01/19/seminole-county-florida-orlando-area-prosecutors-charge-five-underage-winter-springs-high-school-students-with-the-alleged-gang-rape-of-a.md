@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/19/seminole-county-florida-orlando-area-prosecutors-charge-five-underage-winter-springs-high-school-students-with-the-alleged-gang-rape-of-a.html)  [JSON](/news/2015/01/19/seminole-county-florida-orlando-area-prosecutors-charge-five-underage-winter-springs-high-school-students-with-the-alleged-gang-rape-of-a.json)  [XML](/news/2015/01/19/seminole-county-florida-orlando-area-prosecutors-charge-five-underage-winter-springs-high-school-students-with-the-alleged-gang-rape-of-a.xml)  
+
 ### [2015-01-19](/news/2015/01/19/index.md)
 
+##### Seminole County, Florida
 # Seminole County, Florida (Orlando-area) prosecutors charge five underage Winter Springs High School students with the alleged gang rape of a 16-year-old girl in November 2014. Prosecutors charge two suspects as adults and three as juveniles. The remaining suspect is as yet uncharged. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Orlando Sentinel'' via MSN](http://www.msn.com/en-us/news/crime/five-underage-winter-springs-high-football-players-charged-with-gang-rape/ar-AA8m3UH)
 

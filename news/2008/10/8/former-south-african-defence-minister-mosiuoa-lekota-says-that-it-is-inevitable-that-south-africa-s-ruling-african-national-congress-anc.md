@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/8/former-south-african-defence-minister-mosiuoa-lekota-says-that-it-is-inevitable-that-south-africa-s-ruling-african-national-congress-anc.html)  [JSON](/news/2008/10/8/former-south-african-defence-minister-mosiuoa-lekota-says-that-it-is-inevitable-that-south-africa-s-ruling-african-national-congress-anc.json)  [XML](/news/2008/10/8/former-south-african-defence-minister-mosiuoa-lekota-says-that-it-is-inevitable-that-south-africa-s-ruling-african-national-congress-anc.xml)  
+
 ### [2008-10-8](/news/2008/10/8/index.md)
 
+##### Mosiuoa Lekota
 #  Former South African Defence Minister Mosiuoa Lekota says that it is "inevitable" that South Africa's ruling African National Congress (ANC) will split. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7658370.stm)
 

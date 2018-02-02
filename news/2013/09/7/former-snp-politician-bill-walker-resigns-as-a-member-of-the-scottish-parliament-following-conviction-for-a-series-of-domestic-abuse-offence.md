@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/7/former-snp-politician-bill-walker-resigns-as-a-member-of-the-scottish-parliament-following-conviction-for-a-series-of-domestic-abuse-offence.html)  [JSON](/news/2013/09/7/former-snp-politician-bill-walker-resigns-as-a-member-of-the-scottish-parliament-following-conviction-for-a-series-of-domestic-abuse-offence.json)  [XML](/news/2013/09/7/former-snp-politician-bill-walker-resigns-as-a-member-of-the-scottish-parliament-following-conviction-for-a-series-of-domestic-abuse-offence.xml)  
+
 ### [2013-09-7](/news/2013/09/7/index.md)
 
+##### Scottish National Party
 # Former SNP politician Bill Walker resigns as a Member of the Scottish Parliament following conviction for a series of domestic abuse offences. 
 
 MSP Bill Walker resigns from the Scottish Parliament after being convicted of a series of domestic abuse offences against three ex-wives.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-24004675)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69647000/jpg/_69647471_018815118-1.jpg)

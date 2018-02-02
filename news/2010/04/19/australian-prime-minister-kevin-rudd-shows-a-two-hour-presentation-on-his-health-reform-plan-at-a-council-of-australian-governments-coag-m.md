@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/19/australian-prime-minister-kevin-rudd-shows-a-two-hour-presentation-on-his-health-reform-plan-at-a-council-of-australian-governments-coag-m.html)  [JSON](/news/2010/04/19/australian-prime-minister-kevin-rudd-shows-a-two-hour-presentation-on-his-health-reform-plan-at-a-council-of-australian-governments-coag-m.json)  [XML](/news/2010/04/19/australian-prime-minister-kevin-rudd-shows-a-two-hour-presentation-on-his-health-reform-plan-at-a-council-of-australian-governments-coag-m.xml)  
+
 ### [2010-04-19](/news/2010/04/19/index.md)
 
+##### Kevin Rudd
 # Australian Prime Minister Kevin Rudd shows a two-hour presentation on his health reform plan at a Council of Australian Governments (COAG) meeting in Canberra. 
 
 Three letters - GST - are standing between Kevin Rudd and the most dramatic overhaul of the health and hospital network since the introduction of Medicare.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/national/premiers-lock-horns-with-pm-in-showdown-on-health-20100419-snme.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/s/n/m/m/image.related.articleLeadwide.620x349.snme.png/1271642351343.jpg)

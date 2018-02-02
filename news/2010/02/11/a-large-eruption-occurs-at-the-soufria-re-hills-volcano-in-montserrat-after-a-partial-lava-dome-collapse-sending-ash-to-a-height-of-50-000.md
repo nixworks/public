@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/11/a-large-eruption-occurs-at-the-soufria-re-hills-volcano-in-montserrat-after-a-partial-lava-dome-collapse-sending-ash-to-a-height-of-50-000.html)  [JSON](/news/2010/02/11/a-large-eruption-occurs-at-the-soufria-re-hills-volcano-in-montserrat-after-a-partial-lava-dome-collapse-sending-ash-to-a-height-of-50-000.json)  [XML](/news/2010/02/11/a-large-eruption-occurs-at-the-soufria-re-hills-volcano-in-montserrat-after-a-partial-lava-dome-collapse-sending-ash-to-a-height-of-50-000.xml)  
+
 ### [2010-02-11](/news/2010/02/11/index.md)
 
+##### Soufriere Hills volcano
 # A large eruption occurs at the Soufriere Hills volcano in Montserrat after a partial lava dome collapse, sending ash to a height of 50,000 feet. 
 
 The Government of Montserrat, the Disaster Management Coordinating Agency (DMCA) and the MVO have adopted a Hazard Level System which has been used at the Soufrière Hills Volcano, Montserrat since August 1, 2008. The purpose of the system is to improve management of the ongoing eruption and to provide important infomation to the residents of &hellip;
 
 
-### Source:
+### Sources:
 
 1. [Montserrat Volcano Obeservatory](http://www.montserratvolcanoobservatory.info/index.php?option=com_content&view=article&id=792%3Apartial-dome-collapse-11-feb-2010&catid=129%3Aslideshow-home&Itemid=94&lang=en)
 1. [Cover Image](http://www.montserratvolcanoobservatory.info/wp-content/uploads/2015/01/HL_1.png)

@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2008/09/6/the-electoral-college-of-pakistan-elects-asif-ali-zardari-of-the-pakistan-peoples-party-as-the-next-president-of-pakistan.html)  [JSON](/news/2008/09/6/the-electoral-college-of-pakistan-elects-asif-ali-zardari-of-the-pakistan-peoples-party-as-the-next-president-of-pakistan.json)  [XML](/news/2008/09/6/the-electoral-college-of-pakistan-elects-asif-ali-zardari-of-the-pakistan-peoples-party-as-the-next-president-of-pakistan.xml)  
+
 ### [2008-09-6](/news/2008/09/6/index.md)
 
+##### Pakistan
 #  The Electoral College of Pakistan elects Asif Ali Zardari of the Pakistan Peoples Party as the next President of Pakistan. 
 
 Asif Ali Zardari, the widower of slain former Prime Minister Benazir Bhutto and a controversial politician with little experience, was elected president of Pakistan.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7601671.stm)
-2. [The New York Times](http://www.nytimes.com/2008/09/07/world/asia/07zardari.html)
+2. [The New York Times](https://www.nytimes.com/2008/09/07/world/asia/07zardari.html)
 2. [Cover Image](https://static01.nyt.com/images/2008/09/06/world/06zardari-75.jpg)
+
+### Changes:
+
+1. [ Pakistan: The Electoral College of Pakistan elects Asif Ali Zardari of the Pakistan Peoples Party as the next President of Pakistan. ](/news/2008/09/6/pakistan-the-electoral-college-of-pakistan-elects-asif-ali-zardari-of-the-pakistan-peoples-party-as-the-next-president-of-pakistan.md) _2017-08-27 03:22:43 (First version)_
+1. [ The Electoral College of Pakistan elects Asif Ali Zardari of the Pakistan Peoples Party as the next President of Pakistan. ](/news/2008/09/6/the-electoral-college-of-pakistan-elects-asif-ali-zardari-of-the-pakistan-peoples-party-as-the-next-president-of-pakistan.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ Asif Ali Zardari, the widower of slain former Prime Minister Benazir Bhutto and 
 3. [ Pakistan's National Reconciliation Ordinance, issued by former President Pervez Musharraf in October 2007 to provide several thousand politicians (including current President Asif Ali Zardari) amnesty from charges of political corruption, expires. ](/news/2009/11/28/pakistan-s-national-reconciliation-ordinance-issued-by-former-president-pervez-musharraf-in-october-2007-to-provide-several-thousand-polit.md) _Context: Asif Ali Zardari, Pakistan, president_
 4. [ Indian Prime Minister Manmohan Singh meets with Pakistani President Asif Ali Zardari. ](/news/2009/06/17/indian-prime-minister-manmohan-singh-meets-with-pakistani-president-asif-ali-zardari.md) _Context: Asif Ali Zardari, Pakistan, president_
 5. [ President Asif Ali Zardari says Pakistan will not negotiate with the "extremist Taliban and terrorists." ](/news/2009/03/4/president-asif-ali-zardari-says-pakistan-will-not-negotiate-with-the-extremist-taliban-and-terrorists.md) _Context: Asif Ali Zardari, Pakistan, president_
-
-### Changes:
-
-1. [ Pakistan: The Electoral College of Pakistan elects Asif Ali Zardari of the Pakistan Peoples Party as the next President of Pakistan. ](/news/2008/09/6/pakistan-the-electoral-college-of-pakistan-elects-asif-ali-zardari-of-the-pakistan-peoples-party-as-the-next-president-of-pakistan.md) _2017-08-27 03:22:43 (First version)_
-1. [ The Electoral College of Pakistan elects Asif Ali Zardari of the Pakistan Peoples Party as the next President of Pakistan. ](/news/2008/09/6/the-electoral-college-of-pakistan-elects-asif-ali-zardari-of-the-pakistan-peoples-party-as-the-next-president-of-pakistan.md) _(Current version)_

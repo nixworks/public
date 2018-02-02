@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/4/japan-s-first-female-minister-of-defense-yuriko-koike-is-sworn-in-a-day-after-the-resignation-of-her-predecessor-fumio-kyuma.html)  [JSON](/news/2007/07/4/japan-s-first-female-minister-of-defense-yuriko-koike-is-sworn-in-a-day-after-the-resignation-of-her-predecessor-fumio-kyuma.json)  [XML](/news/2007/07/4/japan-s-first-female-minister-of-defense-yuriko-koike-is-sworn-in-a-day-after-the-resignation-of-her-predecessor-fumio-kyuma.xml)  
+
 ### [2007-07-4](/news/2007/07/4/index.md)
 
+##### Japan
 #  Japan's first female Minister of Defense, Yuriko Koike, is sworn in a day after the resignation of her predecessor, Fumio Kyuma. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Marketwatch](http://www.marketwatch.com/news/story/story.aspx?guid=%7B5416F0D3%2DA83F%2D42A7%2DA8E9%2DC62467F8991D%7D&siteid=rss)
 1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/11/9/about-20-000-people-flee-burma-to-escape-fighting-between-the-burmese-military-and-the-democratic-karen-buddhist-army-in-karen-state-after-t.html)  [JSON](/news/2010/11/9/about-20-000-people-flee-burma-to-escape-fighting-between-the-burmese-military-and-the-democratic-karen-buddhist-army-in-karen-state-after-t.json)  [XML](/news/2010/11/9/about-20-000-people-flee-burma-to-escape-fighting-between-the-burmese-military-and-the-democratic-karen-buddhist-army-in-karen-state-after-t.xml)  
+
 ### [2010-11-9](/news/2010/11/9/index.md)
 
+##### Burma
 # About 20,000 people flee Burma to escape fighting between the Burmese military and the Democratic Karen Buddhist Army in Karen State after the recent general election. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo News](http://news.yahoo.com/s/afp/20101109/wl_asia_afp/myanmarvoteunrest)
+1. [AFP via Yahoo News](https://news.yahoo.com/s/afp/20101109/wl_asia_afp/myanmarvoteunrest)
 
 ### Related:
 

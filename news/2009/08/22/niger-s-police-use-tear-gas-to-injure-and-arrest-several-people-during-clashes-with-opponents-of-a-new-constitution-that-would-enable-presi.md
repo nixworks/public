@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/22/niger-s-police-use-tear-gas-to-injure-and-arrest-several-people-during-clashes-with-opponents-of-a-new-constitution-that-would-enable-presi.html)  [JSON](/news/2009/08/22/niger-s-police-use-tear-gas-to-injure-and-arrest-several-people-during-clashes-with-opponents-of-a-new-constitution-that-would-enable-presi.json)  [XML](/news/2009/08/22/niger-s-police-use-tear-gas-to-injure-and-arrest-several-people-during-clashes-with-opponents-of-a-new-constitution-that-would-enable-presi.xml)  
+
 ### [2009-08-22](/news/2009/08/22/index.md)
 
+##### Niger
 #  Niger's police use tear gas to injure and arrest several people during clashes with opponents of a new constitution that would enable President Mamadou Tandja to seek unlimited mandates. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=86&art_id=nw20090822172059942C635247)
 

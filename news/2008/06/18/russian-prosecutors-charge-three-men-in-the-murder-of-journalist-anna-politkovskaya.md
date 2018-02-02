@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/18/russian-prosecutors-charge-three-men-in-the-murder-of-journalist-anna-politkovskaya.html)  [JSON](/news/2008/06/18/russian-prosecutors-charge-three-men-in-the-murder-of-journalist-anna-politkovskaya.json)  [XML](/news/2008/06/18/russian-prosecutors-charge-three-men-in-the-murder-of-journalist-anna-politkovskaya.xml)  
+
 ### [2008-06-18](/news/2008/06/18/index.md)
 
+##### Russia
 #  Russian prosecutors charge three men in the murder of journalist Anna Politkovskaya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7460873.stm)
 

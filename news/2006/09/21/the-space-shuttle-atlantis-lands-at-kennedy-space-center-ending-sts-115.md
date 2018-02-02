@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/21/the-space-shuttle-atlantis-lands-at-kennedy-space-center-ending-sts-115.html)  [JSON](/news/2006/09/21/the-space-shuttle-atlantis-lands-at-kennedy-space-center-ending-sts-115.json)  [XML](/news/2006/09/21/the-space-shuttle-atlantis-lands-at-kennedy-space-center-ending-sts-115.xml)  
+
 ### [2006-09-21](/news/2006/09/21/index.md)
 
+##### Space Shuttle Atlantis
 #  The Space Shuttle "Atlantis" lands at Kennedy Space Center, ending STS-115. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-09-21T103604Z_01_B405032_RTRUKOC_0_US-SPACE-SHUTTLE.xml&WTmodLoc=Home-C1-TopStories-newsOne-2)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

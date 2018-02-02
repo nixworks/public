@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/12/a-study-finds-that-taking-the-aids-drug-tenofovir-greatly-reduces-the-risk-of-hiv-infection-among-intravenous-drug-users.html)  [JSON](/news/2013/06/12/a-study-finds-that-taking-the-aids-drug-tenofovir-greatly-reduces-the-risk-of-hiv-infection-among-intravenous-drug-users.json)  [XML](/news/2013/06/12/a-study-finds-that-taking-the-aids-drug-tenofovir-greatly-reduces-the-risk-of-hiv-infection-among-intravenous-drug-users.xml)  
+
 ### [2013-06-12](/news/2013/06/12/index.md)
 
+##### AIDS
 # A study finds that taking the AIDS drug tenofovir greatly reduces the risk of HIV infection among intravenous drug users. 
 
 Tenofovir (Viread) once a day can prevent HIV transmission among injection drug users, researchers reported.
 
 
-### Source:
+### Sources:
 
 1. [Medpage Today](http://www.medpagetoday.com/HIVAIDS/HIVAIDS/39807)
 1. [Cover Image](https://www.medpagetoday.com/upload/2013/6/12/39807.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/30/at-least-nine-people-are-killed-and-over-a-dozen-injured-when-a-storm-hits-the-indian-capital-new-delhi.html)  [JSON](/news/2014/05/30/at-least-nine-people-are-killed-and-over-a-dozen-injured-when-a-storm-hits-the-indian-capital-new-delhi.json)  [XML](/news/2014/05/30/at-least-nine-people-are-killed-and-over-a-dozen-injured-when-a-storm-hits-the-indian-capital-new-delhi.xml)  
+
 ### [2014-05-30](/news/2014/05/30/index.md)
 
+##### India
 # At least nine people are killed and over a dozen injured when a storm hits the Indian capital New Delhi. 
 
 At least 23 people were killed when storms lashed New Delhi and two Indian states Saturday, disrupting road, rail and air traffic and causing power outages.
 
 
-### Source:
+### Sources:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2014/05/31/least-nine-killed-india-storm)
 1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/India_storm_140531_aap.jpg)

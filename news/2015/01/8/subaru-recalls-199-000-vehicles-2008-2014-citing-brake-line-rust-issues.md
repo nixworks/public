@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/8/subaru-recalls-199-000-vehicles-2008-2014-citing-brake-line-rust-issues.html)  [JSON](/news/2015/01/8/subaru-recalls-199-000-vehicles-2008-2014-citing-brake-line-rust-issues.json)  [XML](/news/2015/01/8/subaru-recalls-199-000-vehicles-2008-2014-citing-brake-line-rust-issues.xml)  
+
 ### [2015-01-8](/news/2015/01/8/index.md)
 
+##### Subaru
 # Subaru recalls 199,000 vehicles (2008-2014), citing brake line rust issues. 
 
 Subaru is recalling about 199,000 cars and SUVs for a second time to fix rusty brake lines that can leak fluid and cause longer stopping distances. The recall covers the 2009 through 2013 Forester, 2008 through...
 
 
-### Source:
+### Sources:
 
 1. [NBC Bay Area](http://www.nbcbayarea.com/news/national-international/Subaru-Recalls-199K-Vehicles-to-Fix-Brake-Line-Rust-287919091.html?_osource=SocialFlowTwt_BAYBrand)
 1. [Cover Image](http://media.nbcbayarea.com/images/1200*712/subaru+forester+2009.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/4/dozens-of-easter-islanders-are-injured-in-conflict-over-ownership-as-riot-police-evict-islanders-from-their-ancestral-home.html)  [JSON](/news/2010/12/4/dozens-of-easter-islanders-are-injured-in-conflict-over-ownership-as-riot-police-evict-islanders-from-their-ancestral-home.json)  [XML](/news/2010/12/4/dozens-of-easter-islanders-are-injured-in-conflict-over-ownership-as-riot-police-evict-islanders-from-their-ancestral-home.xml)  
+
 ### [2010-12-4](/news/2010/12/4/index.md)
 
+##### Easter Island
 # Dozens of Easter Islanders are injured in conflict over ownership as riot police evict islanders from their ancestral home. 
 
 Dozens reported wounded as authorities move to evict natives from home they claim was taken from them.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/12/20101243455185989.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/4/2010124490442360_20.jpg)

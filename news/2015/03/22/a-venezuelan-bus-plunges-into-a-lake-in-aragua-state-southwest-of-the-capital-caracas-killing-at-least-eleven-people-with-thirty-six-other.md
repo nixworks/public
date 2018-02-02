@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/22/a-venezuelan-bus-plunges-into-a-lake-in-aragua-state-southwest-of-the-capital-caracas-killing-at-least-eleven-people-with-thirty-six-other.html)  [JSON](/news/2015/03/22/a-venezuelan-bus-plunges-into-a-lake-in-aragua-state-southwest-of-the-capital-caracas-killing-at-least-eleven-people-with-thirty-six-other.json)  [XML](/news/2015/03/22/a-venezuelan-bus-plunges-into-a-lake-in-aragua-state-southwest-of-the-capital-caracas-killing-at-least-eleven-people-with-thirty-six-other.xml)  
+
 ### [2015-03-22](/news/2015/03/22/index.md)
 
+##### Venezuela
 # A Venezuelan bus plunges into a lake in Aragua state, southwest of the capital Caracas, killing at least eleven people with thirty-six others injured. 
 
 A bus veers off a highway and plunges into a lake in central Venezuela, killing at least 11 people and injuring 36.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-32011129)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/81834000/jpg/_81834621_81834620.jpg)

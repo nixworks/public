@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/9/people-in-southern-sudan-vote-in-a-referendum-on-independence.html)  [JSON](/news/2011/01/9/people-in-southern-sudan-vote-in-a-referendum-on-independence.json)  [XML](/news/2011/01/9/people-in-southern-sudan-vote-in-a-referendum-on-independence.xml)  
+
 ### [2011-01-9](/news/2011/01/9/index.md)
 
+##### Southern Sudan
 # People in Southern Sudan vote in a referendum on independence. 
 
 People in Southern Sudan vote in a historic referendum that will decide whether the country splits or remains united.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/20111944521287154.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12144675)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/29/susan-kiefel-is-appointed-by-australian-prime-m
 
 ### [2016-11-29](/news/2016/11/29/index.md)
 
+##### Susan Kiefel
 # Susan Kiefel is appointed by Australian Prime Minister Malcolm Turnbull as the next Chief Justice of Australia. She will be sworn in at the end of January next year, and will become Australia's first female Chief Justice. 
 
 From leaving school at age 15 to the High Court Chief Justice, Susan Kiefel will become the first female appointed to the highest judicial office in the land.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/12/venezuelan-director-lorenzo-vigas-wins-a-golden-lion-award-for-best-film-at-the-venice-film-festival-for-desde-alla-from-afar.html)  [JSON](/news/2015/09/12/venezuelan-director-lorenzo-vigas-wins-a-golden-lion-award-for-best-film-at-the-venice-film-festival-for-desde-alla-from-afar.json)  [XML](/news/2015/09/12/venezuelan-director-lorenzo-vigas-wins-a-golden-lion-award-for-best-film-at-the-venice-film-festival-for-desde-alla-from-afar.xml)  
+
 ### [2015-09-12](/news/2015/09/12/index.md)
 
+##### Venezuelan
 # Venezuelan director Lorenzo Vigas wins a Golden Lion award for Best Film at the Venice Film Festival for "Desde alla" ("From Afar"). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/a964caf236e7416f9e1f09255553090d/venice-film-festival-set-name-golden-lion-winner)
 

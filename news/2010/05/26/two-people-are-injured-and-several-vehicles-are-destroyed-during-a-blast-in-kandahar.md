@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/26/two-people-are-injured-and-several-vehicles-are-destroyed-during-a-blast-in-kandahar.html)  [JSON](/news/2010/05/26/two-people-are-injured-and-several-vehicles-are-destroyed-during-a-blast-in-kandahar.json)  [XML](/news/2010/05/26/two-people-are-injured-and-several-vehicles-are-destroyed-during-a-blast-in-kandahar.xml)  
+
 ### [2010-05-26](/news/2010/05/26/index.md)
 
+##### Kandahar
 # Two people are injured and several vehicles are destroyed during a blast in Kandahar. 
 
 Vehicles damaged in blast in southern province of Kandahar but no deaths reported.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/05/201052682429305825.html)
 1. [Cover Image](http://www.aljazeera.com)

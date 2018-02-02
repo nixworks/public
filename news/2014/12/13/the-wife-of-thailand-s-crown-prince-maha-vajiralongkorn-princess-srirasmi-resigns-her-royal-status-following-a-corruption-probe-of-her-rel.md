@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/13/the-wife-of-thailand-s-crown-prince-maha-vajiralongkorn-princess-srirasmi-resigns-her-royal-status-following-a-corruption-probe-of-her-rel.html)  [JSON](/news/2014/12/13/the-wife-of-thailand-s-crown-prince-maha-vajiralongkorn-princess-srirasmi-resigns-her-royal-status-following-a-corruption-probe-of-her-rel.json)  [XML](/news/2014/12/13/the-wife-of-thailand-s-crown-prince-maha-vajiralongkorn-princess-srirasmi-resigns-her-royal-status-following-a-corruption-probe-of-her-rel.xml)  
+
 ### [2014-12-13](/news/2014/12/13/index.md)
 
+##### Thailand
 # The wife of Thailand's crown prince Maha Vajiralongkorn, Princess Srirasmi, resigns her royal status following a corruption probe of her relatives. The King of Thailand Bhumibol Adulyadej grants her a divorce. 
 
 The wife of Thailand&#039;s crown prince has relinquished her royal title, the palace has confirmed in a statement.
 
 
-### Source:
+### Sources:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2014/12/13/thailands-crown-prince-divorces-wife)
 2. [AFP via ABC News Australia](http://www.abc.net.au/news/2014-12-13/thailand-crown-princes-wife-resigns-her-royal-title/5965214)

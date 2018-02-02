@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/3/zimbabwe-intends-to-release-62-mercenaries-connected-to-failed-coup-attempt-in-the-equatorial-guinea-last-year-most-of-the-suspected-merce.html)  [JSON](/news/2005/03/3/zimbabwe-intends-to-release-62-mercenaries-connected-to-failed-coup-attempt-in-the-equatorial-guinea-last-year-most-of-the-suspected-merce.json)  [XML](/news/2005/03/3/zimbabwe-intends-to-release-62-mercenaries-connected-to-failed-coup-attempt-in-the-equatorial-guinea-last-year-most-of-the-suspected-merce.xml)  
+
 ### [2005-03-3](/news/2005/03/3/index.md)
 
+##### Zimbabwe
 #  Zimbabwe intends to release 62 mercenaries connected to failed coup attempt in the Equatorial Guinea last year. Most of the suspected mercenaries are South African. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4314223.stm)
 2. [IAfrica](http://iafrica.com/news/sa/686288.htm)

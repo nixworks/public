@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/06/5/a-cap-is-placed-on-the-leaking-pipe-of-the-deepwater-horizon-oil-rig-allowing-the-spill-to-slow-but-not-stop.html)  [JSON](/news/2010/06/5/a-cap-is-placed-on-the-leaking-pipe-of-the-deepwater-horizon-oil-rig-allowing-the-spill-to-slow-but-not-stop.json)  [XML](/news/2010/06/5/a-cap-is-placed-on-the-leaking-pipe-of-the-deepwater-horizon-oil-rig-allowing-the-spill-to-slow-but-not-stop.xml)  
+
 ### [2010-06-5](/news/2010/06/5/index.md)
 
+##### Deepwater Horizon
 # A cap is placed on the leaking pipe of the Deepwater Horizon oil rig, allowing the spill to slow but not stop. 
 
 The cap is capturing oil, officials say. But there is concern that problems could develop if it is fully deployed too quickly.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2010/06/06/us/06spill.html?hp)
+1. [New York Times](https://www.nytimes.com/2010/06/06/us/06spill.html?hp)
 1. [Cover Image](https://static01.nyt.com/images/2010/06/06/us/06spill2/06spill2-thumbStandard.jpg)
 
 ### Related:

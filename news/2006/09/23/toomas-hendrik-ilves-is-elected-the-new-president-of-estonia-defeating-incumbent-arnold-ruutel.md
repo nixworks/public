@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/23/toomas-hendrik-ilves-is-elected-the-new-president-of-estonia-defeating-incumbent-arnold-ruutel.html)  [JSON](/news/2006/09/23/toomas-hendrik-ilves-is-elected-the-new-president-of-estonia-defeating-incumbent-arnold-ruutel.json)  [XML](/news/2006/09/23/toomas-hendrik-ilves-is-elected-the-new-president-of-estonia-defeating-incumbent-arnold-ruutel.xml)  
+
 ### [2006-09-23](/news/2006/09/23/index.md)
 
+##### Toomas Hendrik Ilves
 #  Toomas Hendrik Ilves is elected the new President of Estonia, defeating incumbent Arnold Rtel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/5373874.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/1/four-attackers-storm-the-directorate-of-agricult
 
 ### [2017-12-1](/news/2017/12/1/index.md)
 
+##### 2017 Peshawar Agriculture Directorate attack
 # Four attackers storm the Directorate of Agricultural Training Institute in Pakistan and exchange fire with police and army personnel. The four attackers are killed in the attack, and at least 12 people are killed and 35+ are injured. Tehrik-i-Taliban Pakistan claims responsibility. 
 
 PESHAWAR, Pakistan: Taliban militants armed with automatic weapons and hand grenades stormed the campus of the Agriculture Training Institute in Peshawar city on Friday morning, killing at least 12 people and injuring more than 35 others. Most of the victims were students. Provincial police chief Salahuddin Mehsud told reporters that gunmen entered the campus clad in “burqas” and wearing suicide vests. The army and police conducted a joint operation that lasted for about two hours and killed three attackers.

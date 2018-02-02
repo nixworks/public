@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/7/the-united-nations-says-around-204-000-people-have-fled-violence-in-mogadishu-somalia-as-a-result-of-a-militant-offensive-against-governme.html)  [JSON](/news/2009/07/7/the-united-nations-says-around-204-000-people-have-fled-violence-in-mogadishu-somalia-as-a-result-of-a-militant-offensive-against-governme.json)  [XML](/news/2009/07/7/the-united-nations-says-around-204-000-people-have-fled-violence-in-mogadishu-somalia-as-a-result-of-a-militant-offensive-against-governme.xml)  
+
 ### [2009-07-7](/news/2009/07/7/index.md)
 
+##### United Nations
 #  The United Nations says around 204,000 people have fled violence in Mogadishu, Somalia as a result of a militant offensive against government forces. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/africa/07/07/somalia.refugees.fleeing/index.html)
 

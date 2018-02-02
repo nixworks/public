@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/04/24/about-1-million-people-march-silently-through-mexico-city-in-support-of-the-capital-s-embattled-mayor-andres-manuel-lopez-obrador.html)  [JSON](/news/2005/04/24/about-1-million-people-march-silently-through-mexico-city-in-support-of-the-capital-s-embattled-mayor-andres-manuel-lopez-obrador.json)  [XML](/news/2005/04/24/about-1-million-people-march-silently-through-mexico-city-in-support-of-the-capital-s-embattled-mayor-andres-manuel-lopez-obrador.xml)  
+
 ### [2005-04-24](/news/2005/04/24/index.md)
 
+##### Mexico City
 #  About 1 million people march silently through Mexico City in support of the capital's embattled mayor, Andrs Manuel Lpez Obrador. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4479771.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=aM93blcVRAa4&refer=latin_america)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000086&sid=aM93blcVRAa4&refer=latin_america)
 3. [CNN](http://www.cnn.com/2005/WORLD/americas/04/24/mexico.reut/)
 4. [El&nbsp;Universal](http://www2.eluniversal.com.mx/pls/impreso/noticia.html?id_nota=10267&tabla=miami)
 5. [The&nbsp;Guardian](http://www.guardian.co.uk/international/story/0,,1469424,00.html)

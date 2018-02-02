@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/04/17/mylan-a-manufacturer-of-generic-drugs-announced-that-its-board-has-no-interest-in-much-discussed-prospect-of-purchase-by-teva-pharmaceutic.html)  [JSON](/news/2015/04/17/mylan-a-manufacturer-of-generic-drugs-announced-that-its-board-has-no-interest-in-much-discussed-prospect-of-purchase-by-teva-pharmaceutic.json)  [XML](/news/2015/04/17/mylan-a-manufacturer-of-generic-drugs-announced-that-its-board-has-no-interest-in-much-discussed-prospect-of-purchase-by-teva-pharmaceutic.xml)  
+
 ### [2015-04-17](/news/2015/04/17/index.md)
 
+##### Mylan
 # Mylan, a manufacturer of generic drugs, announced that its board has no interest in much-discussed prospect of purchase by Teva Pharmaceuticals, one of the 15 largest pharmaceutical concerns in the world. 
 
 Generic drugmaker Mylan NV moved quickly on Friday to pour cold water on published reportsthat Teva Pharmaceuticals Industries is considering abid to acquire it.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/04/17/mylan-ma-teva-pharm-ind-idUSL4N0XE51620150417)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/04/17/mylan-ma-teva-pharm-ind-idUSL4N0XE51620150417)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

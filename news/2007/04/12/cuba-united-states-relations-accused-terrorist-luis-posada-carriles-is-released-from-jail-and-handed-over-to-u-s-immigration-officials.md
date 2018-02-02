@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/12/cuba-united-states-relations-accused-terrorist-luis-posada-carriles-is-released-from-jail-and-handed-over-to-u-s-immigration-officials.html)  [JSON](/news/2007/04/12/cuba-united-states-relations-accused-terrorist-luis-posada-carriles-is-released-from-jail-and-handed-over-to-u-s-immigration-officials.json)  [XML](/news/2007/04/12/cuba-united-states-relations-accused-terrorist-luis-posada-carriles-is-released-from-jail-and-handed-over-to-u-s-immigration-officials.xml)  
+
 ### [2007-04-12](/news/2007/04/12/index.md)
 
+##### Cuba-United States relations
 #  Cuba-United States relations: Accused terrorist Luis Posada Carriles is released from jail and handed over to U.S. immigration officials. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via International Herald Tribune](http://www.iht.com/articles/ap/2007/04/12/america/NA-GEN-US-Cuban-Militant.php)
 

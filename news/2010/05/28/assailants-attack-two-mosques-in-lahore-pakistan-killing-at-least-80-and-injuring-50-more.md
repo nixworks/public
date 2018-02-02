@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/28/assailants-attack-two-mosques-in-lahore-pakistan-killing-at-least-80-and-injuring-50-more.html)  [JSON](/news/2010/05/28/assailants-attack-two-mosques-in-lahore-pakistan-killing-at-least-80-and-injuring-50-more.json)  [XML](/news/2010/05/28/assailants-attack-two-mosques-in-lahore-pakistan-killing-at-least-80-and-injuring-50-more.xml)  
+
 ### [2010-05-28](/news/2010/05/28/index.md)
 
+##### Friday's attack
 # Assailants attack two mosques in Lahore, Pakistan, killing at least 80 and injuring 50 more. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/05/2010528923401784.html)
 2. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2010/5/29/worldupdates/2010-05-28T212211Z_01_NOOTR_RTRMDNC_0_-488772-7&sec=Worldupdates)

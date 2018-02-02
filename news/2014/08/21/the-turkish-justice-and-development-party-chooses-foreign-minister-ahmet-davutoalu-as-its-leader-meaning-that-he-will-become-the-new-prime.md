@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2014/08/21/the-turkish-justice-and-development-party-chooses-foreign-minister-ahmet-davutoalu-as-its-leader-meaning-that-he-will-become-the-new-prime.html)  [JSON](/news/2014/08/21/the-turkish-justice-and-development-party-chooses-foreign-minister-ahmet-davutoalu-as-its-leader-meaning-that-he-will-become-the-new-prime.json)  [XML](/news/2014/08/21/the-turkish-justice-and-development-party-chooses-foreign-minister-ahmet-davutoalu-as-its-leader-meaning-that-he-will-become-the-new-prime.xml)  
+
 ### [2014-08-21](/news/2014/08/21/index.md)
 
+##### Turkish
 # The Turkish Justice and Development Party chooses foreign minister Ahmet Davutoglu as its leader meaning that he will become the new Prime Minister. 
 
+Turkey’s governing party nominated Ahmet Davutoglu to succeed President-elect Recep Tayyip Erdogan as prime minister and party chairman.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2014/08/22/world/europe/foreign-minister-nominated-to-be-turkeys-next-premier.html?_r=0)
+1. [New York Times](https://www.nytimes.com/2014/08/22/world/europe/foreign-minister-nominated-to-be-turkeys-next-premier.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2014/08/22/world/TURKEY/TURKEY-videoSixteenByNine1050.jpg)
 
 ### Related:
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/19/at-least-9-people-are-killed-and-35-injured-aft
 
 ### [2016-01-19](/news/2016/01/19/index.md)
 
+##### War in North-West Pakistan
 # At least 9 people are killed and 35 injured after a suicide bomber strikes near a security checkpoint near Peshawar, Pakistan. 
 
 Up to 30 injured in the blast close to security checkpost on Jamrud Road

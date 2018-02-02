@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/20/jamaican-police-announce-investigation-into-the-death-of-former-pakistan-cricket-coach-bob-woolmer-with-suspicions-that-it-was-murder.html)  [JSON](/news/2007/03/20/jamaican-police-announce-investigation-into-the-death-of-former-pakistan-cricket-coach-bob-woolmer-with-suspicions-that-it-was-murder.json)  [XML](/news/2007/03/20/jamaican-police-announce-investigation-into-the-death-of-former-pakistan-cricket-coach-bob-woolmer-with-suspicions-that-it-was-murder.xml)  
+
 ### [2007-03-20](/news/2007/03/20/index.md)
 
+##### Jamaica
 #  Jamaican police announce investigation into the death of former Pakistan cricket coach Bob Woolmer with suspicions that it was murder. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200703/s1877800.htm)
 

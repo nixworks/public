@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/27/at-least-3-people-are-killed-and-others-are-injured-when-a-car-bomb-explodes-near-kabul-bank-in-kandahar.html)  [JSON](/news/2010/12/27/at-least-3-people-are-killed-and-others-are-injured-when-a-car-bomb-explodes-near-kabul-bank-in-kandahar.json)  [XML](/news/2010/12/27/at-least-3-people-are-killed-and-others-are-injured-when-a-car-bomb-explodes-near-kabul-bank-in-kandahar.xml)  
+
 ### [2010-12-27](/news/2010/12/27/index.md)
 
+##### Kabul Bank
 # At least 3 people are killed and others are injured when a car bomb explodes near Kabul Bank in Kandahar. 
 
 At least three people killed and a dozen others injured after an explosion in a crowded bank in Kandahar.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/12/201012278273680716.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/27/20101227125934881371_20.jpg)

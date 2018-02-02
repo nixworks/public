@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/01/13/a-colombian-minister-states-that-the-government-hired-bounty-hunters-to-capture-rebel-rodrigo-fanda-from-venezuela.html)  [JSON](/news/2005/01/13/a-colombian-minister-states-that-the-government-hired-bounty-hunters-to-capture-rebel-rodrigo-fanda-from-venezuela.json)  [XML](/news/2005/01/13/a-colombian-minister-states-that-the-government-hired-bounty-hunters-to-capture-rebel-rodrigo-fanda-from-venezuela.xml)  
+
 ### [2005-01-13](/news/2005/01/13/index.md)
 
+##### Colombia
 #  A Colombian minister states that the government hired bounty hunters to capture rebel Rodrigo Fanda from Venezuela. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4169517.stm)
-2. [New York Times](http://www.nytimes.com/2005/01/13/international/americas/13colombia.html)
+2. [New York Times](https://www.nytimes.com/2005/01/13/international/americas/13colombia.html)
 3. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/N12416819.htm)
 
 ### Related:

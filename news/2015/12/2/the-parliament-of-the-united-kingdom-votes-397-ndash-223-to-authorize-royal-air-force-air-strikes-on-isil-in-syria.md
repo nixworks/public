@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/12/2/the-parliament-of-the-united-kingdom-votes-397-ndash-223-to-authorize-royal-air-force-air-strikes-on-isil-in-syria.html)  [JSON](/news/2015/12/2/the-parliament-of-the-united-kingdom-votes-397-ndash-223-to-authorize-royal-air-force-air-strikes-on-isil-in-syria.json)  [XML](/news/2015/12/2/the-parliament-of-the-united-kingdom-votes-397-ndash-223-to-authorize-royal-air-force-air-strikes-on-isil-in-syria.xml)  
+
 ### [2015-12-2](/news/2015/12/2/index.md)
 
+##### Military intervention against ISIL
 # The Parliament of the United Kingdom votes 397&ndash;223 to authorize Royal Air Force air strikes on ISIL in Syria. 
 
 Conservative PM David Cameron won the support of almost one third of Labour MPs in his plan for military intervention in the region.
 
 
-### Source:
+### Sources:
 
 1. [The Journal](http://www.thejournal.ie/uk-parliament-syria-air-strikes-vote-isis-2480205-Dec2015/)
 1. [Cover Image](http://img2.thejournal.ie/article/2480205/river/?height=400&version=2480216)
+
+### Changes:
+
+1. [Military intervention against ISIL: The Parliament of the United Kingdom votes 397&ndash;223 to authorize Royal Air Force air strikes on ISIL in Syria. ](/news/2015/12/2/military-intervention-against-isil-the-parliament-of-the-united-kingdom-votes-397-ndash-223-to-authorize-royal-air-force-air-strikes-on-isi.md) _2017-08-27 03:44:09 (First version)_
+1. [The Parliament of the United Kingdom votes 397&ndash;223 to authorize Royal Air Force air strikes on ISIL in Syria. ](/news/2015/12/2/the-parliament-of-the-united-kingdom-votes-397-ndash-223-to-authorize-royal-air-force-air-strikes-on-isil-in-syria.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Conservative PM David Cameron won the support of almost one third of Labour MPs 
 3. [Cyprus offers France the use of its airbase facilities to bomb the Islamic State of Iraq and the Levant in Syria. Cypriot airbases are already being used by British and Canadian air forces for military operations. ](/news/2015/11/20/cyprus-offers-france-the-use-of-its-airbase-facilities-to-bomb-the-islamic-state-of-iraq-and-the-levant-in-syria-cypriot-airbases-are-alrea.md) _Context: Military intervention against ISIL, Royal Air Force, Syria_
 4. [The Royal Australian Air Force (RAAF) suspends combat missions against ISIL over Syria, following Russia's threat that it would treat any aircraft from the U.S.-led coalition flying west of the Euphrates as a potential target. ](/news/2017/06/20/the-royal-australian-air-force-raaf-suspends-combat-missions-against-isil-over-syria-following-russia-s-threat-that-it-would-treat-any-ai.md) _Context: Military intervention against ISIL, Syria_
 5. [Denmark's government announces it will be withdrawing its seven F-16 fighter jets from military operations against ISIL in Iraq and Syria from mid-December. ](/news/2016/12/2/denmark-s-government-announces-it-will-be-withdrawing-its-seven-f-16-fighter-jets-from-military-operations-against-isil-in-iraq-and-syria-fr.md) _Context: Military intervention against ISIL, Syria_
-
-### Changes:
-
-1. [Military intervention against ISIL: The Parliament of the United Kingdom votes 397&ndash;223 to authorize Royal Air Force air strikes on ISIL in Syria. ](/news/2015/12/2/military-intervention-against-isil-the-parliament-of-the-united-kingdom-votes-397-ndash-223-to-authorize-royal-air-force-air-strikes-on-isi.md) _2017-08-27 03:44:09 (First version)_
-1. [The Parliament of the United Kingdom votes 397&ndash;223 to authorize Royal Air Force air strikes on ISIL in Syria. ](/news/2015/12/2/the-parliament-of-the-united-kingdom-votes-397-ndash-223-to-authorize-royal-air-force-air-strikes-on-isil-in-syria.md) _(Current version)_

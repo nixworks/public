@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/23/a-hamas-member-carries-out-a-terrorist-attack-in-jerusalem-by-intentionally-striking-a-group-of-pedestrians-in-a-train-station-with-his-car.html)  [JSON](/news/2014/10/23/a-hamas-member-carries-out-a-terrorist-attack-in-jerusalem-by-intentionally-striking-a-group-of-pedestrians-in-a-train-station-with-his-car.json)  [XML](/news/2014/10/23/a-hamas-member-carries-out-a-terrorist-attack-in-jerusalem-by-intentionally-striking-a-group-of-pedestrians-in-a-train-station-with-his-car.xml)  
+
 ### [2014-10-23](/news/2014/10/23/index.md)
 
+##### Hamas
 # A Hamas member carries out a terrorist attack in Jerusalem by intentionally striking a group of pedestrians in a train station with his car killing a 3-month-old baby. 
 
 Silwan branch of PA leader&#8217;s party praises &#8216;hero who ran over settlers&#8217;; mother says her son was mentally unstable, it was an accident
 
 
-### Source:
+### Sources:
 
 1. [Times of Israel](http://www.timesofisrael.com/fatah-honors-jerusalem-hit-and-run-terrorist/)
 1. [Cover Image](http://cdn.timesofisrael.com/uploads/2013/04/f110326ns77.jpg)

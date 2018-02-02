@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2015/06/28/the-governor-of-puerto-rico-alejandro-garcia-padilla-says-that-puerto-rico-s-debts-are-not-payable.html)  [JSON](/news/2015/06/28/the-governor-of-puerto-rico-alejandro-garcia-padilla-says-that-puerto-rico-s-debts-are-not-payable.json)  [XML](/news/2015/06/28/the-governor-of-puerto-rico-alejandro-garcia-padilla-says-that-puerto-rico-s-debts-are-not-payable.xml)  
+
 ### [2015-06-28](/news/2015/06/28/index.md)
 
+##### Puerto Rico Governor
 # The Governor of Puerto Rico, Alejandro Garca Padilla, says that Puerto Rico's debts are "not payable". 
 
+Gov. Alejandro García Padilla said that his administration would probably seek significant concessions from its creditors on a $72 billion debt load.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2015/06/29/business/dealbook/puerto-ricos-governor-says-islands-debts-are-not-payable.html?smid=tw-bna&_r=0)
+1. [New York Times](https://www.nytimes.com/2015/06/29/business/dealbook/puerto-ricos-governor-says-islands-debts-are-not-payable.html?smid=tw-bna&_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2015/06/29/business/29DB-RICO/29DB-RICO-facebookJumbo.jpg)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/4/a-controlled-explosion-is-carried-out-on-a-device-discovered-beneath-the-car-of-a-serving-soldier-believed-to-be-an-army-major-in-bangor.html)  [JSON](/news/2010/08/4/a-controlled-explosion-is-carried-out-on-a-device-discovered-beneath-the-car-of-a-serving-soldier-believed-to-be-an-army-major-in-bangor.json)  [XML](/news/2010/08/4/a-controlled-explosion-is-carried-out-on-a-device-discovered-beneath-the-car-of-a-serving-soldier-believed-to-be-an-army-major-in-bangor.xml)  
+
 ### [2010-08-4](/news/2010/08/4/index.md)
 
+##### major
 # A controlled explosion is carried out on a device discovered beneath the car of a serving soldier, believed to be an army major, in Bangor, County Down in Northern Ireland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/uk/2010/aug/04/northern-ireland-soldier-bomb-car)
 

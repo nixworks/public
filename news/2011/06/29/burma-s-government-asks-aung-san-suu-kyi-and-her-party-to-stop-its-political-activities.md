@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/29/burma-s-government-asks-aung-san-suu-kyi-and-her-party-to-stop-its-political-activities.html)  [JSON](/news/2011/06/29/burma-s-government-asks-aung-san-suu-kyi-and-her-party-to-stop-its-political-activities.json)  [XML](/news/2011/06/29/burma-s-government-asks-aung-san-suu-kyi-and-her-party-to-stop-its-political-activities.xml)  
+
 ### [2011-06-29](/news/2011/06/29/index.md)
 
+##### Burma
 # Burma's government asks Aung San Suu Kyi and her party to stop its political activities. 
 
 It is the first time since being released that Suu Kyi has been warned to stay out of politics.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13954684)
 2. [Zee News](http://zeenews.india.com/news/world/myanmar-tells-suu-kyi-to-stay-out-of-politics_716297.html)

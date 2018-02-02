@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/2/new-research-suggests-that-large-parts-of-southe
 
 ### [2017-08-2](/news/2017/08/2/index.md)
 
+##### Effects of global warming on South Asia
 # New research suggests that large parts of Southern Asia may be uninhabitable by 2100 due to levels of humidity dangerous to humans. 
 
 Unless carbon emissions are curtailed, climate change may expose 1.5 billion people in South Asia to potentially lethal heat and humidity in the near future.

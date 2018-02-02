@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/04/5/preliminary-results-of-the-italian-regional-elections-show-heavy-losses-for-the-parties-in-silvio-berlusconi-s-centre-right-coalition.html)  [JSON](/news/2005/04/5/preliminary-results-of-the-italian-regional-elections-show-heavy-losses-for-the-parties-in-silvio-berlusconi-s-centre-right-coalition.json)  [XML](/news/2005/04/5/preliminary-results-of-the-italian-regional-elections-show-heavy-losses-for-the-parties-in-silvio-berlusconi-s-centre-right-coalition.xml)  
+
 ### [2005-04-5](/news/2005/04/5/index.md)
 
+##### Italy
 #  Preliminary results of the Italian regional elections show heavy losses for the parties in Silvio Berlusconi's centre-right coalition. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4409583.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=a6JPk9o62lYY&refer=europe)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8083019)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000085&sid=a6JPk9o62lYY&refer=europe)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8083019)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

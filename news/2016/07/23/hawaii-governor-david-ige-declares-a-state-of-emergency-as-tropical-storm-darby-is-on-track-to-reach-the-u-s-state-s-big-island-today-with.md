@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/23/hawaii-governor-david-ige-declares-a-state-of-e
 
 ### [2016-07-23](/news/2016/07/23/index.md)
 
+##### 2016 Pacific hurricane season
 # Hawaii Governor David Ige declares a state of emergency as Tropical Storm Darby is on track to reach the U.S. state's Big Island today with maximum sustained winds approaching 50 mph (80 kph). The storm, which previously was a Category 3 hurricane, could produce up to 15 inches (40 cm) of rain. 
 
 Tropical Storm Darby bore down on Hawaii on Saturday, prompting its governor to declare an emergency over a storm expected to make landfall with strong winds and heavy rain later in the day.

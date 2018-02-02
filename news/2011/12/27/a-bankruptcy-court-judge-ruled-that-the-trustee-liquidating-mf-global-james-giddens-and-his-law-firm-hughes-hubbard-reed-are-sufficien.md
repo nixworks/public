@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/12/27/a-bankruptcy-court-judge-ruled-that-the-trustee-liquidating-mf-global-james-giddens-and-his-law-firm-hughes-hubbard-reed-are-sufficien.html)  [JSON](/news/2011/12/27/a-bankruptcy-court-judge-ruled-that-the-trustee-liquidating-mf-global-james-giddens-and-his-law-firm-hughes-hubbard-reed-are-sufficien.json)  [XML](/news/2011/12/27/a-bankruptcy-court-judge-ruled-that-the-trustee-liquidating-mf-global-james-giddens-and-his-law-firm-hughes-hubbard-reed-are-sufficien.xml)  
+
 ### [2011-12-27](/news/2011/12/27/index.md)
 
+##### bankruptcy
 # A bankruptcy court judge ruled that the trustee liquidating MF Global, James Giddens, and his law firm, Hughes Hubbard & Reed, are sufficiently "disinterested" in the disposition of assets for Giddens to continue his work in that capacity. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/12/28/us-mfglobal-idUSTRE7BR02O20111228)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111228&t=2&i=551772000&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BR037M00)
+1. [Reuters](https://www.reuters.com/article/2011/12/28/us-mfglobal-idUSTRE7BR02O20111228)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111228&t=2&i=551772000&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BR037M00)
 
 ### Related:
 

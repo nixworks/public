@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/28/gra-c-goire-ndahimana-a-former-mayor-accused-of-taking-part-in-the-1994-rwandan-genocide-pleads-not-guilty-at-a-united-nations-tribunal.html)  [JSON](/news/2009/09/28/gra-c-goire-ndahimana-a-former-mayor-accused-of-taking-part-in-the-1994-rwandan-genocide-pleads-not-guilty-at-a-united-nations-tribunal.json)  [XML](/news/2009/09/28/gra-c-goire-ndahimana-a-former-mayor-accused-of-taking-part-in-the-1994-rwandan-genocide-pleads-not-guilty-at-a-united-nations-tribunal.xml)  
+
 ### [2009-09-28](/news/2009/09/28/index.md)
 
+##### Gregoire Ndahimana
 #  Gregoire Ndahimana, a former mayor accused of taking part in the 1994 Rwandan genocide, pleads not guilty at a United Nations tribunal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8278435.stm)
 2. [The Age](http://news.theage.com.au/breaking-news-world/mayor-faces-court-over-rwanda-massacre-20090928-g92a.html)

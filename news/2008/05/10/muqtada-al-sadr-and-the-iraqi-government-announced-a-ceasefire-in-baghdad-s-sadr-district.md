@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/10/muqtada-al-sadr-and-the-iraqi-government-announced-a-ceasefire-in-baghdad-s-sadr-district.html)  [JSON](/news/2008/05/10/muqtada-al-sadr-and-the-iraqi-government-announced-a-ceasefire-in-baghdad-s-sadr-district.json)  [XML](/news/2008/05/10/muqtada-al-sadr-and-the-iraqi-government-announced-a-ceasefire-in-baghdad-s-sadr-district.xml)  
+
 ### [2008-05-10](/news/2008/05/10/index.md)
 
+##### Muqtada al-Sadr
 #  Muqtada al-Sadr and the Iraqi Government announced a ceasefire in Baghdad's Sadr district. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2008/WORLD/meast/05/10/iraq.main/index.html)
 

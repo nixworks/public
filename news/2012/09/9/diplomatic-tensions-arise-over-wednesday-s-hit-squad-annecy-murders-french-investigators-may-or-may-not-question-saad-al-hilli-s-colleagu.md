@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/09/9/diplomatic-tensions-arise-over-wednesday-s-hit-squad-annecy-murders-french-investigators-may-or-may-not-question-saad-al-hilli-s-colleagu.html)  [JSON](/news/2012/09/9/diplomatic-tensions-arise-over-wednesday-s-hit-squad-annecy-murders-french-investigators-may-or-may-not-question-saad-al-hilli-s-colleagu.json)  [XML](/news/2012/09/9/diplomatic-tensions-arise-over-wednesday-s-hit-squad-annecy-murders-french-investigators-may-or-may-not-question-saad-al-hilli-s-colleagu.xml)  
+
 ### [2012-09-9](/news/2012/09/9/index.md)
 
+##### Annecy murders
 # Diplomatic tensions arise over Wednesday's "hit squad" Annecy murders. French investigators may or may not question Saad al-Hilli's colleagues at Surrey Satellite Technology Ltd, or SSTL, near Guildford. A British security source suggests as motive "state-sponsored assassination, rather than a family dispute". 
 
 French investigators believe at least two assassins were responsible for murders – and expert says it was probably state-sponsored
 
 
-### Source:
+### Sources:
 
 1. [Het Laatste Nieuws](http://translate.google.com/translate?sl=nl&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.hln.be%2Fhln%2Fnl%2F960%2FBuitenland%2Farticle%2Fdetail%2F1497940%2F2012%2F09%2F09%2FWaren-moordenaars-Annecy-uit-op-geheime-militaire-technologie.dhtml&act=url)
-2. [The Independent](http://www.independent.co.uk/voices/editorials/leading-articke-discord-will-not-help-solve-this-case-8120659.html)
+2. [The Independent](https://www.independent.co.uk/voices/editorials/leading-articke-discord-will-not-help-solve-this-case-8120659.html)
 3. [The Week](http://www.theweek.co.uk/crime/annecy-shootings/48900/annecy-murders-%E2%80%98were-political-assassination%E2%80%99-hit-squad)
 3. [Cover Image](http://cdn1.theweek.co.uk/sites/theweek/files/hilli-home.jpg)
 

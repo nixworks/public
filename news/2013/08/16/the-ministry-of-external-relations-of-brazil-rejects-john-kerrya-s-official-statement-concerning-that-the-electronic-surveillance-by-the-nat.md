@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/16/the-ministry-of-external-relations-of-brazil-rejects-john-kerrya-s-official-statement-concerning-that-the-electronic-surveillance-by-the-nat.html)  [JSON](/news/2013/08/16/the-ministry-of-external-relations-of-brazil-rejects-john-kerrya-s-official-statement-concerning-that-the-electronic-surveillance-by-the-nat.json)  [XML](/news/2013/08/16/the-ministry-of-external-relations-of-brazil-rejects-john-kerrya-s-official-statement-concerning-that-the-electronic-surveillance-by-the-nat.xml)  
+
 ### [2013-08-16](/news/2013/08/16/index.md)
 
+##### Ministry of External Relations
 # The Ministry of External Relations of Brazil rejects John Kerry's official statement concerning that the electronic surveillance by the National Security Agency was part of a strategy to "combat terrorism". 
 
 U.S. may lose $4 billion fighter jet deal
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.thehindu.com/news/international/world/brazil-rejects-kerry-explanation-on-nsa-surveillance/article5022748.ece)
 1. [Cover Image](http://www.thehindu.com/migration_catalog/article11902204.ece/ALTERNATES/LANDSCAPE_615/BRAZIL_KERRY)

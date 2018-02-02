@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/17/at-least-21-people-die-in-a-fight-between-an-armed-group-and-african-union-peacekeepers-in-mogadishu-somalia.html)  [JSON](/news/2010/11/17/at-least-21-people-die-in-a-fight-between-an-armed-group-and-african-union-peacekeepers-in-mogadishu-somalia.json)  [XML](/news/2010/11/17/at-least-21-people-die-in-a-fight-between-an-armed-group-and-african-union-peacekeepers-in-mogadishu-somalia.xml)  
+
 ### [2010-11-17](/news/2010/11/17/index.md)
 
+##### African Union
 # At least 21 people die in a fight between an armed group and African Union peacekeepers in Mogadishu, Somalia. 
 
 At least 21 people killed and many more injured after fighters clash with African Union peacekeepers in Mogadishu.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/20101117141044140607.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/14/201091423946852734_20.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/1/sony-blames-recent-malfunctions-of-older-ps3-fat-models-on-an-internal-clock-glitch.html)  [JSON](/news/2010/03/1/sony-blames-recent-malfunctions-of-older-ps3-fat-models-on-an-internal-clock-glitch.json)  [XML](/news/2010/03/1/sony-blames-recent-malfunctions-of-older-ps3-fat-models-on-an-internal-clock-glitch.xml)  
+
 ### [2010-03-1](/news/2010/03/1/index.md)
 
+##### Sony
 # Sony blames recent malfunctions of older PS3 "fat" models on an internal clock glitch. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/newsbeat/hi/technology/newsid_10050000/newsid_10058900/10058914.stm)
 

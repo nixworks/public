@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/1/four-people-are-arrested-after-an-attempted-bombing-in-manila-s-ninoy-aquino-international-airport.html)  [JSON](/news/2014/09/1/four-people-are-arrested-after-an-attempted-bombing-in-manila-s-ninoy-aquino-international-airport.json)  [XML](/news/2014/09/1/four-people-are-arrested-after-an-attempted-bombing-in-manila-s-ninoy-aquino-international-airport.xml)  
+
 ### [2014-09-1](/news/2014/09/1/index.md)
 
+##### Manila
 # Four people are arrested after an attempted bombing in Manila's Ninoy Aquino International Airport. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/09/01/world/asia/philippines-manila-airport/)
 

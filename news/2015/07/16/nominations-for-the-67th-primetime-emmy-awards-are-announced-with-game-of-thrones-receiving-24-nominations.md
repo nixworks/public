@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/07/16/nominations-for-the-67th-primetime-emmy-awards-are-announced-with-game-of-thrones-receiving-24-nominations.html)  [JSON](/news/2015/07/16/nominations-for-the-67th-primetime-emmy-awards-are-announced-with-game-of-thrones-receiving-24-nominations.json)  [XML](/news/2015/07/16/nominations-for-the-67th-primetime-emmy-awards-are-announced-with-game-of-thrones-receiving-24-nominations.xml)  
+
 ### [2015-07-16](/news/2015/07/16/index.md)
 
+##### 67th Primetime Emmy Awards
 # Nominations for the 67th Primetime Emmy Awards are announced with "Game of Thrones" receiving 24 nominations. 
 
 The nominations for the 2015 Primetime Emmy Awards have been announced, with HBO’s fantasy drama “Game of Thrones” leading the pack with 24 nominations — including one for outstanding drama series.…
 
 
-### Source:
+### Sources:
 
-1. [Variety](http://variety.com/2015/tv/news/emmy-award-nominations-2015-game-of-thrones-1201541385/)
-1. [Cover Image](https://pmcvariety.files.wordpress.com/2015/07/game-of-thrones-emmy-nominations-hbo.jpg?w=1000&amp;h=563&amp;crop=1)
+1. [Variety](https://variety.com/2015/tv/news/emmy-award-nominations-2015-game-of-thrones-1201541385/)
+1. [Cover Image](https://pmcvariety.files.wordpress.com/2015/07/game-of-thrones-emmy-nominations-hbo.jpg?w=700&#038;h=393&#038;crop=1)
 
 ### Related:
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/16/pope-francis-declares-seven-new-saints.html)  [
 
 ### [2016-10-16](/news/2016/10/16/index.md)
 
+##### Pope Francis
 # Pope Francis declares seven new saints. 
 
 

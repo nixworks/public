@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/12/margaret-thatcher-in-a-rare-moment-of-publicity-since-her-withdrawal-from-public-life-puts-her-weight-and-heavy-heart-behind-a-campaign.html)  [JSON](/news/2010/03/12/margaret-thatcher-in-a-rare-moment-of-publicity-since-her-withdrawal-from-public-life-puts-her-weight-and-heavy-heart-behind-a-campaign.json)  [XML](/news/2010/03/12/margaret-thatcher-in-a-rare-moment-of-publicity-since-her-withdrawal-from-public-life-puts-her-weight-and-heavy-heart-behind-a-campaign.xml)  
+
 ### [2010-03-12](/news/2010/03/12/index.md)
 
+##### Margaret Thatcher
 # Margaret Thatcher, in a rare moment of publicity since her withdrawal from public life, puts her weight and "heavy heart" behind a campaign by Combat Stress for the mental health of ex-servicemen in Afghanistan and Iraq. 
 
 LONDON: The former British prime minister Margaret Thatcher yesterday threw her weight behind a campaign to help ex-servicemen suffering from mental health problems after returning from Iraq and Afghanistan.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/world/thatcher-joins-campaign-for-ailing-troops-20100312-q4ij.html)
 1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)

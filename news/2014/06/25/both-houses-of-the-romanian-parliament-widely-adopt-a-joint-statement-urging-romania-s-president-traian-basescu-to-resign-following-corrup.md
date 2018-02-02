@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/25/both-houses-of-the-romanian-parliament-widely-adopt-a-joint-statement-urging-romania-s-president-traian-basescu-to-resign-following-corrup.html)  [JSON](/news/2014/06/25/both-houses-of-the-romanian-parliament-widely-adopt-a-joint-statement-urging-romania-s-president-traian-basescu-to-resign-following-corrup.json)  [XML](/news/2014/06/25/both-houses-of-the-romanian-parliament-widely-adopt-a-joint-statement-urging-romania-s-president-traian-basescu-to-resign-following-corrup.xml)  
+
 ### [2014-06-25](/news/2014/06/25/index.md)
 
+##### Parliament of Romania
 # Both houses of the Romanian parliament widely adopt a joint statement urging Romania's president Traian Basescu to resign, following corruption scandals involving his arrested brother's graft case and one of his sons-in-law's implication in a criminal investigation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Europeonline-magazine](http://en.europeonline-magazine.eu/romanian-parliament-calls-president-to-resign-over-brothers-arrest_343000.html)
 

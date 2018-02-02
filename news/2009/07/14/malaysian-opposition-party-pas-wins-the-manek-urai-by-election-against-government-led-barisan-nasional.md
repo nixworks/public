@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/14/malaysian-opposition-party-pas-wins-the-manek-urai-by-election-against-government-led-barisan-nasional.html)  [JSON](/news/2009/07/14/malaysian-opposition-party-pas-wins-the-manek-urai-by-election-against-government-led-barisan-nasional.json)  [XML](/news/2009/07/14/malaysian-opposition-party-pas-wins-the-manek-urai-by-election-against-government-led-barisan-nasional.xml)  
+
 ### [2009-07-14](/news/2009/07/14/index.md)
 
+##### Malaysia
 #  Malaysian opposition party PAS wins the Manek Urai by-election against government-led Barisan Nasional. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/SE%2BAsia/Story/STIStory_403071.html)
 

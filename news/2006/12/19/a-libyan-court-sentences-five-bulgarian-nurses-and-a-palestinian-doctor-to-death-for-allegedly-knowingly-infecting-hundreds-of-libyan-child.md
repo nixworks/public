@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/19/a-libyan-court-sentences-five-bulgarian-nurses-and-a-palestinian-doctor-to-death-for-allegedly-knowingly-infecting-hundreds-of-libyan-child.html)  [JSON](/news/2006/12/19/a-libyan-court-sentences-five-bulgarian-nurses-and-a-palestinian-doctor-to-death-for-allegedly-knowingly-infecting-hundreds-of-libyan-child.json)  [XML](/news/2006/12/19/a-libyan-court-sentences-five-bulgarian-nurses-and-a-palestinian-doctor-to-death-for-allegedly-knowingly-infecting-hundreds-of-libyan-child.xml)  
+
 ### [2006-12-19](/news/2006/12/19/index.md)
 
+##### Libya
 #  A Libyan court sentences five Bulgarian nurses and a Palestinian doctor to death for allegedly knowingly infecting hundreds of Libyan children with HIV. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6192599.stm)
 

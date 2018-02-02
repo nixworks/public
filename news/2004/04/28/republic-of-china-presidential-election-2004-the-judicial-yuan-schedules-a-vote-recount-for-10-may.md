@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/04/28/republic-of-china-presidential-election-2004-the-judicial-yuan-schedules-a-vote-recount-for-10-may.html)  [JSON](/news/2004/04/28/republic-of-china-presidential-election-2004-the-judicial-yuan-schedules-a-vote-recount-for-10-may.json)  [XML](/news/2004/04/28/republic-of-china-presidential-election-2004-the-judicial-yuan-schedules-a-vote-recount-for-10-may.xml)  
+
 ### [2004-04-28](/news/2004/04/28/index.md)
 
+##### Republic of China presidential election, 2004
 #  Republic of China presidential election, 2004: The Judicial Yuan schedules a vote recount for 10 May.
 
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/03/14/the-los-angeles-police-department-issues-a-warrant-for-the-arrest-of-american-robert-durst-regarding-the-murder-of-writer-and-confidant-susa.html)  [JSON](/news/2015/03/14/the-los-angeles-police-department-issues-a-warrant-for-the-arrest-of-american-robert-durst-regarding-the-murder-of-writer-and-confidant-susa.json)  [XML](/news/2015/03/14/the-los-angeles-police-department-issues-a-warrant-for-the-arrest-of-american-robert-durst-regarding-the-murder-of-writer-and-confidant-susa.xml)  
+
 ### [2015-03-14](/news/2015/03/14/index.md)
 
+##### Los Angeles Police Department
 # The Los Angeles Police Department issues a warrant for the arrest of American Robert Durst regarding the murder of writer and confidant Susan Berman following the airing of a six-part documentary by HBO called "The Jinx". He is later taken into custody in the city of New Orleans. 
 
-Eccentric real-estate heir Robert Durst faced an extradition hearing on a murder charge Monday, hours after an HBO documentary was aired in which he mumbled &quot;What did I do? Kill them all, of course.&quot;
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/nation/2015/03/16/durst-hbo-murder-hearing/24837005/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/news/nation/2015/03/16/durst-hbo-murder-hearing/24837005/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

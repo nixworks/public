@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2017/04/13/a-boat-carrying-migrants-sinks-off-the-coast-of-libya-with-97-people-reported-missing-23-others-were-rescued-by-the-libyan-coast-guard.html)  [JSON](/news/2017/04/13/a-boat-carrying-migrants-sinks-off-the-coast-of-libya-with-97-people-reported-missing-23-others-were-rescued-by-the-libyan-coast-guard.json)  [XML](/news/2017/04/13/a-boat-carrying-migrants-sinks-off-the-coast-of-libya-with-97-people-reported-missing-23-others-were-rescued-by-the-libyan-coast-guard.xml)  
+
 ### [2017-04-13](/news/2017/04/13/index.md)
 
+##### European migrant crisis
 # A boat carrying migrants sinks off the coast of Libya, with 97 people reported missing. 23 others were rescued by the Libyan coast guard. 
 
 Survivors tell authorities 15 women and five children among the missing after boat headed for European shores sinks.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/04/97-missing-asylum-seeker-boat-sinks-libya-170413161456485.html)
+
+### Changes:
+
+1. [European migrant crisis: A boat carrying migrants sinks off the coast of Libya, with 97 people reported missing. 23 others were rescued by the Libyan coast guard. ](/news/2017/04/13/european-migrant-crisis-a-boat-carrying-migrants-sinks-off-the-coast-of-libya-with-97-people-reported-missing-23-others-were-rescued-by-t.md) _2017-08-27 03:48:08 (First version)_
+1. [A boat carrying migrants sinks off the coast of Libya, with 97 people reported missing. 23 others were rescued by the Libyan coast guard. ](/news/2017/04/13/a-boat-carrying-migrants-sinks-off-the-coast-of-libya-with-97-people-reported-missing-23-others-were-rescued-by-the-libyan-coast-guard.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@ Survivors tell authorities 15 women and five children among the missing after bo
 3. [More than 2,000 migrants are rescued from the Mediterranean Sea off the coast of Libya. ](/news/2017/04/14/more-than-2-000-migrants-are-rescued-from-the-mediterranean-sea-off-the-coast-of-libya.md) _Context: European migrant crisis, Libya_
 4. [Around 100 people are feared to have drowned in the Mediterranean Sea off the coast of Libya. So far this week, 18 people are confirmed dead and 340 missing attempting to migrate to Europe. ](/news/2016/11/17/around-100-people-are-feared-to-have-drowned-in-the-mediterranean-sea-off-the-coast-of-libya-so-far-this-week-18-people-are-confirmed-dead.md) _Context: European migrant crisis, Libya_
 5. [Authorities find at least 28 migrants dead off the coast of Libya in a day of frantic rescues. ](/news/2016/10/4/authorities-find-at-least-28-migrants-dead-off-the-coast-of-libya-in-a-day-of-frantic-rescues.md) _Context: European migrant crisis, Libya_
-
-### Changes:
-
-1. [European migrant crisis: A boat carrying migrants sinks off the coast of Libya, with 97 people reported missing. 23 others were rescued by the Libyan coast guard. ](/news/2017/04/13/european-migrant-crisis-a-boat-carrying-migrants-sinks-off-the-coast-of-libya-with-97-people-reported-missing-23-others-were-rescued-by-t.md) _2017-08-27 03:48:08 (First version)_
-1. [A boat carrying migrants sinks off the coast of Libya, with 97 people reported missing. 23 others were rescued by the Libyan coast guard. ](/news/2017/04/13/a-boat-carrying-migrants-sinks-off-the-coast-of-libya-with-97-people-reported-missing-23-others-were-rescued-by-the-libyan-coast-guard.md) _(Current version)_

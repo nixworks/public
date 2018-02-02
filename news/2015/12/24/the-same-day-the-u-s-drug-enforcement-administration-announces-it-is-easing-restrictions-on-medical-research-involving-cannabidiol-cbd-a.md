@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/24/the-same-day-the-u-s-drug-enforcement-administration-announces-it-is-easing-restrictions-on-medical-research-involving-cannabidiol-cbd-a.html)  [JSON](/news/2015/12/24/the-same-day-the-u-s-drug-enforcement-administration-announces-it-is-easing-restrictions-on-medical-research-involving-cannabidiol-cbd-a.json)  [XML](/news/2015/12/24/the-same-day-the-u-s-drug-enforcement-administration-announces-it-is-easing-restrictions-on-medical-research-involving-cannabidiol-cbd-a.xml)  
+
 ### [2015-12-24](/news/2015/12/24/index.md)
 
+##### Drug Enforcement Administration
 # The same day the U.S. Drug Enforcement Administration announces it is easing restrictions on medical research involving cannabidiol (CBD), a key component in marijuana, NYU Langone Medical Center researchers report a clinical trial suggests a pill containing CBD may reduce seizures for children and young adults with epilepsy. 
 
 Children and young adults responded to investigational drug made with cannabidiol
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/news/marijuana-derived-drug-reduces-seizures-in-hard-to-treat-epilepsy/)
 2. [Health Day'' via U.S. News & World Report](http://health.usnews.com/health-news/articles/2015-12-24/marijuana-chemical-may-help-prevent-epileptic-seizures-in-kids-young-adults)

@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/08/31/the-russian-embassy-in-the-belarussian-capital-minsk-is-attacked-with-firebombs-russia-says-the-incident-is-outrageous.html)  [JSON](/news/2010/08/31/the-russian-embassy-in-the-belarussian-capital-minsk-is-attacked-with-firebombs-russia-says-the-incident-is-outrageous.json)  [XML](/news/2010/08/31/the-russian-embassy-in-the-belarussian-capital-minsk-is-attacked-with-firebombs-russia-says-the-incident-is-outrageous.xml)  
+
 ### [2010-08-31](/news/2010/08/31/index.md)
 
+##### Russia
 # The Russian embassy in the Belarussian capital Minsk is attacked with firebombs; Russia says the incident is "outrageous". 
 
 An unknown assailant threw two fire bombs at the Russian embassy in Minsk late on Monday, in an attack that hurt nobody but destroyed an embassy car, a Belarussian Emergencies Ministry spokesman said on Tuesday. Vitaly Novitsky said the motive for the attack and the identity of the perpetrator were unknown. Belarussian Foreign Ministry spokesman Andrei Savinykh condemned the attack as a hooligan stunt aimed at hurting Belarusian-Russian relations, the Belapan news agency reported. The embassy has asked the Belarussian Foreign Ministry for help investigating what is believed to be the first such attack. In Moscow, police said security near the Belarussian embassy in the Russian capital had been increased as a result of the attack, Interfax reported. Relations between traditional allies Russia and Belarus have soured over recent months as Minsk struggles to reduce its dependence on Moscow. In April Minsk gave refuge to former Kyrgyz leader Kurmanbek Bakiyev, who was criticised by Moscow, and in June Belarus threatened to cut Russian gas transit to Europe in a pricing dispute. (Reporting by Olga Tomashevskaya in Minsk; writing by Amie Ferris-Rotman in Moscow; Editing by Jon Boyle)
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/russia/20100831/160407269.html)
-2. [Reuters](http://www.reuters.com/article/idUSLDE67U07F)
+2. [Reuters](https://www.reuters.com/article/idUSLDE67U07F)
 3. [Times of India](http://timesofindia.indiatimes.com/world/europe/Russian-mission-in-Minsk-attacked/articleshow/6468560.cms)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

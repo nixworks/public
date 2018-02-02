@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/20/gunmen-attack-a-university-in-charsadda-pakista
 
 ### [2016-01-20](/news/2016/01/20/index.md)
 
+##### War in North-West Pakistan
 # Gunmen attack a university in Charsadda, Pakistan. At least 21 people are reportedly killed. 
 
 Security forces end an attack by four gunmen on a university in north-west Pakistan in which 19 people are killed and 17 injured.

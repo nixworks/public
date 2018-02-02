@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/21/british-american-tobacco-offers-to-buy-out-u-s-
 
 ### [2016-10-21](/news/2016/10/21/index.md)
 
+##### British American Tobacco
 # British American Tobacco offers to buy out U.S. cigarette maker Reynolds American Inc in a $47 billion takeover that would create the world's biggest listed tobacco company. 
 
 

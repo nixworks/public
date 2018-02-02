@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/26/a-lusaka-court-convicts-former-zambian-finance-minister-katele-kalumba-of-corruption-and-sentences-him-to-five-years-with-hard-labour-six-o.html)  [JSON](/news/2010/05/26/a-lusaka-court-convicts-former-zambian-finance-minister-katele-kalumba-of-corruption-and-sentences-him-to-five-years-with-hard-labour-six-o.json)  [XML](/news/2010/05/26/a-lusaka-court-convicts-former-zambian-finance-minister-katele-kalumba-of-corruption-and-sentences-him-to-five-years-with-hard-labour-six-o.xml)  
+
 ### [2010-05-26](/news/2010/05/26/index.md)
 
+##### Lusaka
 # A Lusaka court convicts former Zambian Finance Minister Katele Kalumba of corruption and sentences him to five years with hard labour. Six other people, including former officials in the finance ministry, are also found guilty of corruption. 
 
 Former Zambian Finance Minister Katele Kalumba is jailed for five years with hard labour for corruption.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10168584.stm)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=84&art_id=nw20100526204446353C640907)

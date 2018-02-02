@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/26/elections-in-suriname-preliminary-results-show-suriname-s-ruling-coalition-survived-an-election-challenge-from-former-dictator-desi-bouter.html)  [JSON](/news/2005/05/26/elections-in-suriname-preliminary-results-show-suriname-s-ruling-coalition-survived-an-election-challenge-from-former-dictator-desi-bouter.json)  [XML](/news/2005/05/26/elections-in-suriname-preliminary-results-show-suriname-s-ruling-coalition-survived-an-election-challenge-from-former-dictator-desi-bouter.xml)  
+
 ### [2005-05-26](/news/2005/05/26/index.md)
 
+##### Elections in Suriname
 #  Elections in Suriname: Preliminary results show Suriname's ruling coalition survived an election challenge from former dictator Dsi Bouterse in this former Dutch colony. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian Unlimited](http://www.guardian.co.uk/worldlatest/story/0,1280,-5033703,00.html)
 

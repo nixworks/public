@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/6/japan-and-north-korea-resume-bilateral-talks-last-held-in-september-2007.html)  [JSON](/news/2008/06/6/japan-and-north-korea-resume-bilateral-talks-last-held-in-september-2007.json)  [XML](/news/2008/06/6/japan-and-north-korea-resume-bilateral-talks-last-held-in-september-2007.xml)  
+
 ### [2008-06-6](/news/2008/06/6/index.md)
 
+##### Japan
 #  Japan and North Korea resume bilateral talks, last held in September 2007. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7439190.stm)
 

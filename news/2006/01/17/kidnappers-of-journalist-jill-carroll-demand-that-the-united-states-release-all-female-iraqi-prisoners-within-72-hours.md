@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/17/kidnappers-of-journalist-jill-carroll-demand-that-the-united-states-release-all-female-iraqi-prisoners-within-72-hours.html)  [JSON](/news/2006/01/17/kidnappers-of-journalist-jill-carroll-demand-that-the-united-states-release-all-female-iraqi-prisoners-within-72-hours.json)  [XML](/news/2006/01/17/kidnappers-of-journalist-jill-carroll-demand-that-the-united-states-release-all-female-iraqi-prisoners-within-72-hours.xml)  
+
 ### [2006-01-17](/news/2006/01/17/index.md)
 
+##### Jill Carroll
 #  Kidnappers of journalist Jill Carroll demand that the United States release all female Iraqi prisoners within 72 hours. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/WORLD/meast/01/17/iraq.journalist/)
 

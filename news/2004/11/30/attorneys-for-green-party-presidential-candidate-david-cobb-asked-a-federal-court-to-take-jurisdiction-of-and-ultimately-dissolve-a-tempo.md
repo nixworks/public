@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/11/30/attorneys-for-green-party-presidential-candidate-david-cobb-asked-a-federal-court-to-take-jurisdiction-of-and-ultimately-dissolve-a-tempo.html)  [JSON](/news/2004/11/30/attorneys-for-green-party-presidential-candidate-david-cobb-asked-a-federal-court-to-take-jurisdiction-of-and-ultimately-dissolve-a-tempo.json)  [XML](/news/2004/11/30/attorneys-for-green-party-presidential-candidate-david-cobb-asked-a-federal-court-to-take-jurisdiction-of-and-ultimately-dissolve-a-tempo.xml)  
+
 ### [2004-11-30](/news/2004/11/30/index.md)
 
+##### Green Party
 #  Attorneys for Green Party presidential candidate David Cobb asked a federal court to take jurisdiction of, and ultimately dissolve, a temporary restraining order issued by a Delaware County, Ohio, judge attempting to prevent Cobb from seeking a recount of the presidential ballots cast in that county. Attorneys representing John Kerry filed papers to join the Cobb-Badnarik Ohio recount case. If the Ohio recount does not begin before the votes are certified, then electors will be chosen before the recount begins.
 
 

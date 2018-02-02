@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/24/microsoft-announces-that-paint-will-cease-to-be
 
 ### [2017-07-24](/news/2017/07/24/index.md)
 
+##### Microsoft
 # Microsoft announces that Paint will cease to be updated after the Windows 10 Fall Creators Update because its functionality was "integrated into Paint 3D". Paint was first released 32 years ago. 
 
 Long-standing basic graphics editing program, used throughout childhoods since the 1980s, has been marked for death

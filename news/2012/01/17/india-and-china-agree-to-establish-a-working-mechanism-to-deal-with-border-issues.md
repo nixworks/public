@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/17/india-and-china-agree-to-establish-a-working-mechanism-to-deal-with-border-issues.html)  [JSON](/news/2012/01/17/india-and-china-agree-to-establish-a-working-mechanism-to-deal-with-border-issues.json)  [XML](/news/2012/01/17/india-and-china-agree-to-establish-a-working-mechanism-to-deal-with-border-issues.xml)  
+
 ### [2012-01-17](/news/2012/01/17/index.md)
 
+##### India
 # India and China agree to establish a working mechanism to deal with border issues. 
 
 A day after beginning talks on the boundary question, India and China on Tuesday agreed to set up a working mechanism on border management to deal with important affairs related to maintaining peace a
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.thehindu.com/news/national/article2808382.ece)
 1. [Cover Image](http://www.thehindu.com/migration_catalog/article13339082.ece/ALTERNATES/LANDSCAPE_615/18TH-_PM)

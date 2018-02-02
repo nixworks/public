@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/01/27/tens-of-thousands-of-people-rally-in-paris-in-support-of-the-legalisation-of-gay-marriage-and-adoption-in-france.html)  [JSON](/news/2013/01/27/tens-of-thousands-of-people-rally-in-paris-in-support-of-the-legalisation-of-gay-marriage-and-adoption-in-france.json)  [XML](/news/2013/01/27/tens-of-thousands-of-people-rally-in-paris-in-support-of-the-legalisation-of-gay-marriage-and-adoption-in-france.xml)  
+
 ### [2013-01-27](/news/2013/01/27/index.md)
 
+##### Paris
 # Tens of thousands of people rally in Paris in support of the legalisation of gay marriage and adoption in France. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/europe/tens-of-thousands-march-through-paris-in-support-of-legalizing-same-sex-marriage/2013/01/27/3934a3d0-6895-11e2-9a0b-db931670f35d_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/europe/tens-of-thousands-march-through-paris-in-support-of-legalizing-same-sex-marriage/2013/01/27/3934a3d0-6895-11e2-9a0b-db931670f35d_story.html)
 
 ### Related:
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/03/9/akhmed-zakayev-envoy-of-the-killed-chechen-separatist-leader-aslan-maskhadov-states-that-maskhadov-s-death-does-not-end-resistance-to-rus.html)  [JSON](/news/2005/03/9/akhmed-zakayev-envoy-of-the-killed-chechen-separatist-leader-aslan-maskhadov-states-that-maskhadov-s-death-does-not-end-resistance-to-rus.json)  [XML](/news/2005/03/9/akhmed-zakayev-envoy-of-the-killed-chechen-separatist-leader-aslan-maskhadov-states-that-maskhadov-s-death-does-not-end-resistance-to-rus.xml)  
+
 ### [2005-03-9](/news/2005/03/9/index.md)
 
+##### Akhmed Zakayev
 #  Akhmed Zakayev, envoy of the killed Chechen separatist leader Aslan Maskhadov, states that Maskhadov's death does not end resistance to Russian rule and that his successor would be chosen in a couple of days 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4331527.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=azMS_2h05NLY&refer=top_world_news)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000087&sid=azMS_2h05NLY&refer=top_world_news)
 
 ### Related:
 

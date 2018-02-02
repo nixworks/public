@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/3/police-find-the-bodies-of-three-activists-who-were-supporting-local-farmers-in-the-mexican-state-of-guerrero-five-others-remain-missing.html)  [JSON](/news/2013/06/3/police-find-the-bodies-of-three-activists-who-were-supporting-local-farmers-in-the-mexican-state-of-guerrero-five-others-remain-missing.json)  [XML](/news/2013/06/3/police-find-the-bodies-of-three-activists-who-were-supporting-local-farmers-in-the-mexican-state-of-guerrero-five-others-remain-missing.xml)  
+
 ### [2013-06-3](/news/2013/06/3/index.md)
 
+##### Mexican state
 # Police find the bodies of three activists who were supporting local farmers in the Mexican state of Guerrero. Five others remain missing. 
 
 Mexican police find the bodies of three out of eight activists who went missing after a protest in support of local farmers in Guerrero state.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-22762485)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/67958000/jpg/_67958147_67958146.jpg)

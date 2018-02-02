@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/27/leiden-university-medical-center-scientists-decipher-the-first-complete-dna-sequence-of-a-woman.html)  [JSON](/news/2008/05/27/leiden-university-medical-center-scientists-decipher-the-first-complete-dna-sequence-of-a-woman.json)  [XML](/news/2008/05/27/leiden-university-medical-center-scientists-decipher-the-first-complete-dna-sequence-of-a-woman.xml)  
+
 ### [2008-05-27](/news/2008/05/27/index.md)
 
+##### Leiden University Medical Center
 #  Leiden University Medical Center scientists decipher the first complete DNA sequence of a woman. 
 
 Dutch scientists said Monday they have completed the first sequencing of an individual woman&#39;s DNA.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/24840903/)
 1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)

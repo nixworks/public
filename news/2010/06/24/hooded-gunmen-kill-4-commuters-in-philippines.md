@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/24/hooded-gunmen-kill-4-commuters-in-philippines.html)  [JSON](/news/2010/06/24/hooded-gunmen-kill-4-commuters-in-philippines.json)  [XML](/news/2010/06/24/hooded-gunmen-kill-4-commuters-in-philippines.xml)  
+
 ### [2010-06-24](/news/2010/06/24/index.md)
 
+##### Philippine
 # Hooded gunmen kill 4 commuters in Philippines. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS](http://www.cbsnews.com/stories/2010/06/24/ap/world/main6612692.shtml)
 

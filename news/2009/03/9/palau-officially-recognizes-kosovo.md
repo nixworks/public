@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/9/palau-officially-recognizes-kosovo.html)  [JSON](/news/2009/03/9/palau-officially-recognizes-kosovo.json)  [XML](/news/2009/03/9/palau-officially-recognizes-kosovo.xml)  
+
 ### [2009-03-9](/news/2009/03/9/index.md)
 
+##### Palau
 #  Palau officially recognizes Kosovo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New Kosova Report](http://www.newkosovareport.com/200903091660/Politics/Palau-recognizes-Kosovo-independence.html)
 

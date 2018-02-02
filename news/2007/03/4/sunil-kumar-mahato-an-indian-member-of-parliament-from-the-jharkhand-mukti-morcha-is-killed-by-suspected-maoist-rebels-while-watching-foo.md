@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/4/sunil-kumar-mahato-an-indian-member-of-parliament-from-the-jharkhand-mukti-morcha-is-killed-by-suspected-maoist-rebels-while-watching-foo.html)  [JSON](/news/2007/03/4/sunil-kumar-mahato-an-indian-member-of-parliament-from-the-jharkhand-mukti-morcha-is-killed-by-suspected-maoist-rebels-while-watching-foo.json)  [XML](/news/2007/03/4/sunil-kumar-mahato-an-indian-member-of-parliament-from-the-jharkhand-mukti-morcha-is-killed-by-suspected-maoist-rebels-while-watching-foo.xml)  
+
 ### [2007-03-4](/news/2007/03/4/index.md)
 
+##### Sunil Kumar Mahato
 #  Sunil Kumar Mahato, an Indian member of parliament from the Jharkhand Mukti Morcha, is killed by suspected Maoist rebels while watching football in Jharkhand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.hindu.com/2007/03/05/stories/2007030513330100.htm)
 

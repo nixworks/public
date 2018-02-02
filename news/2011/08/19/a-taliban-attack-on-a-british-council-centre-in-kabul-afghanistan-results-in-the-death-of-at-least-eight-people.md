@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2011/08/19/a-taliban-attack-on-a-british-council-centre-in-kabul-afghanistan-results-in-the-death-of-at-least-eight-people.html)  [JSON](/news/2011/08/19/a-taliban-attack-on-a-british-council-centre-in-kabul-afghanistan-results-in-the-death-of-at-least-eight-people.json)  [XML](/news/2011/08/19/a-taliban-attack-on-a-british-council-centre-in-kabul-afghanistan-results-in-the-death-of-at-least-eight-people.xml)  
+
 ### [2011-08-19](/news/2011/08/19/index.md)
 
+##### Taliban
 # A Taliban attack on a British Council centre in Kabul, Afghanistan, results in the death of at least eight people. 
 
 Insurgents are shot dead after killing at least 12 people in a strike on a British cultural office in Afghanistan, which UK PM David Cameron has condemned as a &quot;cowardly attack&quot;.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Strait Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_703790.html)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-14585563)
 3. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/08/18/afghanistan.bombing/index.html)
-4. [Reuters](http://www.reuters.com/article/2011/08/19/us-afghanistan-blasts-idUSTRE77I0FX20110819)
+4. [Reuters](https://www.reuters.com/article/2011/08/19/us-afghanistan-blasts-idUSTRE77I0FX20110819)
 4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54689000/jpg/_54689060_012686350-1.jpg)
 
 ### Related:

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/9/the-panama-papers-go-online-at-the-international
 
 ### [2016-05-9](/news/2016/05/9/index.md)
 
+##### Panama Papers
 # The Panama Papers go online at the International Consortium of Investigative Journalists website. 
 
 The Panama Papers affair widens, with a huge database of documents relating to more than 200,000 offshore accounts posted online.

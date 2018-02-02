@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/23/2011-china-floods-an-unprecedented-flash-flood-hits-beijing-leaving-streets-and-many-areas-including-tiananmen-square-and-the-beijing-su.html)  [JSON](/news/2011/06/23/2011-china-floods-an-unprecedented-flash-flood-hits-beijing-leaving-streets-and-many-areas-including-tiananmen-square-and-the-beijing-su.json)  [XML](/news/2011/06/23/2011-china-floods-an-unprecedented-flash-flood-hits-beijing-leaving-streets-and-many-areas-including-tiananmen-square-and-the-beijing-su.xml)  
+
 ### [2011-06-23](/news/2011/06/23/index.md)
 
+##### heavy flood
 # 2011 China floods: An 'unprecedented' flash flood hits Beijing, leaving streets and many areas including Tiananmen Square and the Beijing Subway system underwater. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-06/25/c_13948859.htm)
 

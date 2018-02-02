@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/16/venezuela-defaults-on-sovereign-debt-and-bonds-
 
 ### [2017-11-16](/news/2017/11/16/index.md)
 
+##### Economy of Venezuela
 # Venezuela defaults on sovereign debt and bonds issued by state oil firm PDVSA (Petroleos de Venezuela, S.A.). 
 
 

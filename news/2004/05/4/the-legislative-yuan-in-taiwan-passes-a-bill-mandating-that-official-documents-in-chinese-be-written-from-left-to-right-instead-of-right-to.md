@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/4/the-legislative-yuan-in-taiwan-passes-a-bill-mandating-that-official-documents-in-chinese-be-written-from-left-to-right-instead-of-right-to.html)  [JSON](/news/2004/05/4/the-legislative-yuan-in-taiwan-passes-a-bill-mandating-that-official-documents-in-chinese-be-written-from-left-to-right-instead-of-right-to.json)  [XML](/news/2004/05/4/the-legislative-yuan-in-taiwan-passes-a-bill-mandating-that-official-documents-in-chinese-be-written-from-left-to-right-instead-of-right-to.xml)  
+
 ### [2004-05-4](/news/2004/05/4/index.md)
 
+##### legislative chamber
 #  The Legislative Yuan in Taiwan passes a bill mandating that official documents in Chinese be written from left to right instead of right to left, ending centuries of tradition. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/3683825.stm)
 2. [Straits Times](http://straitstimes.asia1.com.sg/asia/story/0,4386,249302,00.html?)

@@ -1,19 +1,22 @@
+
+Formats: [HTML](/news/2010/04/21/the-man-who-attacked-oasis-guitarist-noel-gallagher-on-stage-at-the-2008-virgin-festival-in-toronto-is-put-under-house-arrest-for-12-months.html)  [JSON](/news/2010/04/21/the-man-who-attacked-oasis-guitarist-noel-gallagher-on-stage-at-the-2008-virgin-festival-in-toronto-is-put-under-house-arrest-for-12-months.json)  [XML](/news/2010/04/21/the-man-who-attacked-oasis-guitarist-noel-gallagher-on-stage-at-the-2008-virgin-festival-in-toronto-is-put-under-house-arrest-for-12-months.xml)  
+
 ### [2010-04-21](/news/2010/04/21/index.md)
 
+##### Oasis
 # The man who attacked Oasis guitarist Noel Gallagher on stage at the 2008 Virgin Festival in Toronto is put under house arrest for 12 months. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8635811.stm)
 2. [Billboard](http://www.billboard.biz/bbbiz/content_display/industry/e3ie7b73b7fc6c91a7a84e994b9eb586e08)
 3. [CBC](http://www.cbc.ca/canada/toronto/story/2010/04/21/oasis-sullivan.html?ref=rss)
 4. [Digital Spy](http://www.digitalspy.co.uk/music/news/a215769/oasis-attacker-sentenced-to-house-arrest.html)
-5. [The Globe and Mail](http://www.theglobeandmail.com/news/national/toronto/man-gets-house-arrest-in-oasis-attack/article1541715/)
-6. [Toronto Star](http://www.thestar.com/news/gta/crime/article/798506--no-jail-for-attack-on-oasis-guitarist?bn=1)
-6. [Cover Image](http://static.theglobeandmail.ca/592/migration_catalog/article3953589.ece/ALTERNATES/w620/JER_070908_04530_jp_470223a.jpg)
+5. [The Globe and Mail](https://www.theglobeandmail.com/news/national/toronto/man-gets-house-arrest-in-oasis-attack/article1541715/)
+6. [Toronto Star](https://www.thestar.com/news/gta/crime/article/798506--no-jail-for-attack-on-oasis-guitarist?bn=1)
 
 ### Related:
 

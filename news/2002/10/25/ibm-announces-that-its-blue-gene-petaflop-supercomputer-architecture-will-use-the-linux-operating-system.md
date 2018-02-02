@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/25/ibm-announces-that-its-blue-gene-petaflop-supercomputer-architecture-will-use-the-linux-operating-system.html)  [JSON](/news/2002/10/25/ibm-announces-that-its-blue-gene-petaflop-supercomputer-architecture-will-use-the-linux-operating-system.json)  [XML](/news/2002/10/25/ibm-announces-that-its-blue-gene-petaflop-supercomputer-architecture-will-use-the-linux-operating-system.xml)  
+
 ### [2002-10-25](/news/2002/10/25/index.md)
 
+##### International Business Machines
 #  IBM announces that its Blue Gene petaflop supercomputer architecture will use the Linux operating system.
 
 

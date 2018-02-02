@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/11/6/felipe-pa-c-rez-roque-the-foreign-minister-of-cuba-backs-away-from-earlier-predictions-that-fidel-castro-would-return-as-the-president-of-c.html)  [JSON](/news/2006/11/6/felipe-pa-c-rez-roque-the-foreign-minister-of-cuba-backs-away-from-earlier-predictions-that-fidel-castro-would-return-as-the-president-of-c.json)  [XML](/news/2006/11/6/felipe-pa-c-rez-roque-the-foreign-minister-of-cuba-backs-away-from-earlier-predictions-that-fidel-castro-would-return-as-the-president-of-c.xml)  
+
 ### [2006-11-6](/news/2006/11/6/index.md)
 
+##### Felipe Perez Roque
 #  Felipe Perez Roque, the Foreign Minister of Cuba, backs away from earlier predictions that Fidel Castro would return as the President of Cuba by December raising concerns about the progress of Castro's recovery from intestinal surgery. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/news/world/2006-11-06-castro_x.htm?csp=34)
+1. [USA Today](https://www.usatoday.com/news/world/2006-11-06-castro_x.htm?csp=34)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/1/a-man-kills-one-soldier-and-injures-another-at-a-military-recruitment-center-in-little-rock-arkansas.html)  [JSON](/news/2009/06/1/a-man-kills-one-soldier-and-injures-another-at-a-military-recruitment-center-in-little-rock-arkansas.json)  [XML](/news/2009/06/1/a-man-kills-one-soldier-and-injures-another-at-a-military-recruitment-center-in-little-rock-arkansas.xml)  
+
 ### [2009-06-1](/news/2009/06/1/index.md)
 
+##### military recruitment
 #  A man kills one soldier and injures another at a military recruitment center in Little Rock, Arkansas. 
 
 A man with &quot;political and religious motives&quot; killed a soldier just out of basic training and wounded another Monday in a targeted attack on a military recruiting center, police said. 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gQACNshVFYt6M9CDykHq6DKqPhiwD98IKUB03)
 2. [MSNBC](http://www.msnbc.msn.com/id/31048825/)

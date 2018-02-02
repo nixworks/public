@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2014/07/16/the-us-widens-sanctions-against-russia-targeting-major-banks-and-energy-companies-russian-defense-industry-and-individuals-it-said-were-r.html)  [JSON](/news/2014/07/16/the-us-widens-sanctions-against-russia-targeting-major-banks-and-energy-companies-russian-defense-industry-and-individuals-it-said-were-r.json)  [XML](/news/2014/07/16/the-us-widens-sanctions-against-russia-targeting-major-banks-and-energy-companies-russian-defense-industry-and-individuals-it-said-were-r.xml)  
+
 ### [2014-07-16](/news/2014/07/16/index.md)
 
+##### 
 # The US widens sanctions against Russia, targeting major banks and energy companies, Russian defense industry, and individuals it said were responsible for the continuing support of separatists battling government forces in eastern Ukraine. 
 
-Germany criticises Russia for failing to meet commitments to end the continuing violence in Ukraine, and says it may face further EU sanctions.
+The new penalties, targeting a series of banks and energy and defense firms, go much further than the limits imposed so far in retaliation for Moscow’s intervention in Ukraine.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-28327453)
-2. [The New York Times](http://www.nytimes.com/2014/07/17/world/europe/obama-widens-sanctions-against-russia.html)
+2. [The New York Times](https://www.nytimes.com/2014/07/17/world/europe/obama-widens-sanctions-against-russia.html)
 3. [U.S. Department of Treasury](http://www.treasury.gov/press-center/press-releases/Pages/jl2572.aspx)
-3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/76314000/jpg/_76314092_023180726-1.jpg)
+3. [Cover Image](https://static01.nyt.com/images/2014/07/17/world/SANCTIONS/SANCTIONS-videoSixteenByNine600.jpg)
 
 ### Changes:
 

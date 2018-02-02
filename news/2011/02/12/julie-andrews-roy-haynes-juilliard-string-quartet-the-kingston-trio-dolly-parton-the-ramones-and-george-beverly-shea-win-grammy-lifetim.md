@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/02/12/julie-andrews-roy-haynes-juilliard-string-quartet-the-kingston-trio-dolly-parton-the-ramones-and-george-beverly-shea-win-grammy-lifetim.html)  [JSON](/news/2011/02/12/julie-andrews-roy-haynes-juilliard-string-quartet-the-kingston-trio-dolly-parton-the-ramones-and-george-beverly-shea-win-grammy-lifetim.json)  [XML](/news/2011/02/12/julie-andrews-roy-haynes-juilliard-string-quartet-the-kingston-trio-dolly-parton-the-ramones-and-george-beverly-shea-win-grammy-lifetim.xml)  
+
 ### [2011-02-12](/news/2011/02/12/index.md)
 
+##### Julie Andrews
 # Julie Andrews, Roy Haynes, Juilliard String Quartet, the Kingston Trio, Dolly Parton, The Ramones and George Beverly Shea win Grammy Lifetime Achievement Awards. 
 
 Punk pioneers the Ramones, British actress and singer Julie Andrews and jazz drummer Roy Haynes were among the diverse musical stars who received Grammy Awards for lifetime achievement on Saturday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/02/13/us-grammys-lifetime-idUSTRE71C03B20110213)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110213&t=2&i=335692180&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-02-13T025654Z_01_BTRE71C087700_RTROPTP_0_FILM-SAG)
+1. [Reuters](https://www.reuters.com/article/2011/02/13/us-grammys-lifetime-idUSTRE71C03B20110213)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20110213&t=2&i=335692180&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-02-13T025654Z_01_BTRE71C087700_RTROPTP_0_FILM-SAG)
 
 ### Related:
 

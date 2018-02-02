@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/7/pakistan-issues-a-red-alert-as-the-worst-floods-in-its-history-move-south-towards-sindh-with-hundreds-of-thousands-of-people-being-evacuate.html)  [JSON](/news/2010/08/7/pakistan-issues-a-red-alert-as-the-worst-floods-in-its-history-move-south-towards-sindh-with-hundreds-of-thousands-of-people-being-evacuate.json)  [XML](/news/2010/08/7/pakistan-issues-a-red-alert-as-the-worst-floods-in-its-history-move-south-towards-sindh-with-hundreds-of-thousands-of-people-being-evacuate.xml)  
+
 ### [2010-08-7](/news/2010/08/7/index.md)
 
+##### Pakistan
 # Pakistan issues a red alert as the worst floods in its history move south towards Sindh, with hundreds of thousands of people being evacuated, at least 10,000 cows killed and Prime Minister Yousaf Raza Gillani appealing on television for help from the international community. 
 
 Pakistan issues a red alert as floods that have devastated northern areas sweep south into the agricultural heartland of Sindh province.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/20108795249902616.html)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-10900947)

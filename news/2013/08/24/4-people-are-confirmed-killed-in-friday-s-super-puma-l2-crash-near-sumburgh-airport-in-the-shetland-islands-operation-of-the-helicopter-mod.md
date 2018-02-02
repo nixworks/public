@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/24/4-people-are-confirmed-killed-in-friday-s-super-puma-l2-crash-near-sumburgh-airport-in-the-shetland-islands-operation-of-the-helicopter-mod.html)  [JSON](/news/2013/08/24/4-people-are-confirmed-killed-in-friday-s-super-puma-l2-crash-near-sumburgh-airport-in-the-shetland-islands-operation-of-the-helicopter-mod.json)  [XML](/news/2013/08/24/4-people-are-confirmed-killed-in-friday-s-super-puma-l2-crash-near-sumburgh-airport-in-the-shetland-islands-operation-of-the-helicopter-mod.xml)  
+
 ### [2013-08-24](/news/2013/08/24/index.md)
 
+##### Super Puma L2
 # 4 people are confirmed killed in Friday's Super Puma L2 crash near Sumburgh Airport in the Shetland Islands. Operation of the helicopter model is globally suspended. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-23822420)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69463000/jpg/_69463748_heli_rescue.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/17/hugo-cha-vez-exhumes-the-corpse-of-sima3n-bolavar-to-investigate-suspicions-of-foul-play-being-involved-in-his-death.html)  [JSON](/news/2010/07/17/hugo-cha-vez-exhumes-the-corpse-of-sima3n-bolavar-to-investigate-suspicions-of-foul-play-being-involved-in-his-death.json)  [XML](/news/2010/07/17/hugo-cha-vez-exhumes-the-corpse-of-sima3n-bolavar-to-investigate-suspicions-of-foul-play-being-involved-in-his-death.xml)  
+
 ### [2010-07-17](/news/2010/07/17/index.md)
 
+##### Hugo Chavez
 # Hugo Chavez exhumes the corpse of Simon Bolivar to investigate suspicions of foul play being involved in his death. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [WAtoday](http://www.watoday.com.au/breaking-news-world/chavez-exhumes-venezuelas-national-hero-20100717-10em3.html)
 

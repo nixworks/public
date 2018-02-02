@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/19/queensland-fossil-hunters-discover-a-cave-of-15-million-year-old-prehistoric-marsupials.html)  [JSON](/news/2010/07/19/queensland-fossil-hunters-discover-a-cave-of-15-million-year-old-prehistoric-marsupials.json)  [XML](/news/2010/07/19/queensland-fossil-hunters-discover-a-cave-of-15-million-year-old-prehistoric-marsupials.xml)  
+
 ### [2010-07-19](/news/2010/07/19/index.md)
 
+##### Queensland
 # Queensland fossil hunters discover a cave of 15-million-year-old prehistoric marsupials. 
 
 Fossil hunters in Australia have discovered a cave filled with the 15-million-year-old remains of prehistoric marsupials.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-10686515)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48419000/jpg/_48419445_009813687-1.jpg)

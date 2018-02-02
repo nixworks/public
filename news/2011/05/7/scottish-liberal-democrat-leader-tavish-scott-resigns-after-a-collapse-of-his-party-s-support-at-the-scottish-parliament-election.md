@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/7/scottish-liberal-democrat-leader-tavish-scott-resigns-after-a-collapse-of-his-party-s-support-at-the-scottish-parliament-election.html)  [JSON](/news/2011/05/7/scottish-liberal-democrat-leader-tavish-scott-resigns-after-a-collapse-of-his-party-s-support-at-the-scottish-parliament-election.json)  [XML](/news/2011/05/7/scottish-liberal-democrat-leader-tavish-scott-resigns-after-a-collapse-of-his-party-s-support-at-the-scottish-parliament-election.xml)  
+
 ### [2011-05-7](/news/2011/05/7/index.md)
 
+##### Scottish Liberal Democrat
 # Scottish Liberal Democrat leader Tavish Scott resigns after a collapse of his party's support at the Scottish Parliament election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-scotland-politics-13321726)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52597000/jpg/_52597878_011848028-1.jpg)

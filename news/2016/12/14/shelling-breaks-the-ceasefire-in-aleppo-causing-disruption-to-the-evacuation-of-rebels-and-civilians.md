@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/14/shelling-breaks-the-ceasefire-in-aleppo-causing
 
 ### [2016-12-14](/news/2016/12/14/index.md)
 
+##### Aleppo offensive (November-December 2016)
 # Shelling breaks the ceasefire in Aleppo causing disruption to the evacuation of rebels and civilians. 
 
 Shelling and tank fire rage in Aleppo as the ceasefire and evacuation plan stalls.

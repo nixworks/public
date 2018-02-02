@@ -1,21 +1,17 @@
+
+Formats: [HTML](/news/2017/08/11/the-world-s-oldest-man-polishaisraeli-yisrael-kristal-who-was-also-recognized-as-the-oldest-living-holocaust-survivor-dies-at-age-113-y.html)  [JSON](/news/2017/08/11/the-world-s-oldest-man-polishaisraeli-yisrael-kristal-who-was-also-recognized-as-the-oldest-living-holocaust-survivor-dies-at-age-113-y.json)  [XML](/news/2017/08/11/the-world-s-oldest-man-polishaisraeli-yisrael-kristal-who-was-also-recognized-as-the-oldest-living-holocaust-survivor-dies-at-age-113-y.xml)  
+
 ### [2017-08-11](/news/2017/08/11/index.md)
 
+##### Oldest men
 # The world's oldest man, Polish-Israeli Yisrael Kristal, who was also recognized as the oldest living Holocaust survivor, dies at age 113 years, 330 days, in Haifa, Israel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC via MSN.com](http://www.msn.com/en-us/news/world/oldest-man-and-auschwitz-survivor-dies/ar-AApSSWc?li=BBnb7Kz&ocid=edgsp)
-
-### Related:
-
-1. [In response to several Israeli airstrikes against suspected Hezbollah-related targets inside Syria, Syrian president Bashar al-Assad has threatened wider war with the State of Israel, stating its intention to fire Scud missiles, and specifically target the Israeli city of Haifa. Israel responded by stating that any such actions by the Assad regime, or attacks on its aircraft, will cause Israel to "annihilate" Syrian air defense systems. ](/news/2017/03/25/in-response-to-several-israeli-airstrikes-against-suspected-hezbollah-related-targets-inside-syria-syrian-president-bashar-al-assad-has-thr.md) _Context: Haifa, Israel_
-2. [Around 50,000 people are evacuated as fires rage throughout the Israeli city of Haifa. The Minister of Public Security Gilad Erdan says at least half the fires are to due to arson. ](/news/2016/11/24/around-50-000-people-are-evacuated-as-fires-rage-throughout-the-israeli-city-of-haifa-the-minister-of-public-security-gilad-erdan-says-at-l.md) _Context: Haifa, Israel_
-3. [A controversial beauty pageant for survivors of The Holocaust is held for the first time in the Israeli city of Haifa. Critics describe it as "offensive" and "macabre." ](/news/2012/06/29/a-controversial-beauty-pageant-for-survivors-of-the-holocaust-is-held-for-the-first-time-in-the-israeli-city-of-haifa-critics-describe-it-a.md) _Context: Haifa, Israel_
-4. [At least 40 people are killed during a forest fire near Haifa in Israel. ](/news/2010/12/2/at-least-40-people-are-killed-during-a-forest-fire-near-haifa-in-israel.md) _Context: Haifa, Israel_
-5. [Germany allows suspected Israeli spy Uri Brodsky, connected of the murder of Mahmoud al-Mabhouh in Dubai, to go free after his recent extradition from Poland. ](/news/2010/08/13/germany-allows-suspected-israeli-spy-uri-brodsky-connected-of-the-murder-of-mahmoud-al-mabhouh-in-dubai-to-go-free-after-his-recent-extrad.md) _Context: Israel, Polish_
 
 ### Changes:
 
@@ -23,3 +19,11 @@
 2. [The world's oldest man, Polish-Israeli Yisrael Kristal, who was also recognized as the oldest living Holocaust survivor, dies at age 113 years, 330 days, in Haifa, Israel. ](/news/2017/08/11/the-world-s-oldest-man-polish-israeli-yisrael-kristal-who-was-also-recognized-as-the-oldest-living-holocaust-survivor-dies-at-age-113-yea.md) _2017-08-12 23:30:04 (Update)_
 3. [Oldest men: The world's oldest man, Polish-Israeli Yisrael Kristal, who was also recognized as the oldest living Holocaust survivor, dies at age 113 years, 330 days, in Haifa, Israel. ](/news/2017/08/11/oldest-men-the-world-s-oldest-man-polish-israeli-yisrael-kristal-who-was-also-recognized-as-the-oldest-living-holocaust-survivor-dies.md) _2017-08-27 03:48:47 (Update)_
 3. [The world's oldest man, Polish-Israeli Yisrael Kristal, who was also recognized as the oldest living Holocaust survivor, dies at age 113 years, 330 days, in Haifa, Israel. ](/news/2017/08/11/the-world-s-oldest-man-polishaisraeli-yisrael-kristal-who-was-also-recognized-as-the-oldest-living-holocaust-survivor-dies-at-age-113-y.md) _(Current version)_
+
+### Related:
+
+1. [In response to several Israeli airstrikes against suspected Hezbollah-related targets inside Syria, Syrian president Bashar al-Assad has threatened wider war with the State of Israel, stating its intention to fire Scud missiles, and specifically target the Israeli city of Haifa. Israel responded by stating that any such actions by the Assad regime, or attacks on its aircraft, will cause Israel to "annihilate" Syrian air defense systems. ](/news/2017/03/25/in-response-to-several-israeli-airstrikes-against-suspected-hezbollah-related-targets-inside-syria-syrian-president-bashar-al-assad-has-thr.md) _Context: Haifa, Israel_
+2. [Around 50,000 people are evacuated as fires rage throughout the Israeli city of Haifa. The Minister of Public Security Gilad Erdan says at least half the fires are to due to arson. ](/news/2016/11/24/around-50-000-people-are-evacuated-as-fires-rage-throughout-the-israeli-city-of-haifa-the-minister-of-public-security-gilad-erdan-says-at-l.md) _Context: Haifa, Israel_
+3. [A controversial beauty pageant for survivors of The Holocaust is held for the first time in the Israeli city of Haifa. Critics describe it as "offensive" and "macabre." ](/news/2012/06/29/a-controversial-beauty-pageant-for-survivors-of-the-holocaust-is-held-for-the-first-time-in-the-israeli-city-of-haifa-critics-describe-it-a.md) _Context: Haifa, Israel_
+4. [At least 40 people are killed during a forest fire near Haifa in Israel. ](/news/2010/12/2/at-least-40-people-are-killed-during-a-forest-fire-near-haifa-in-israel.md) _Context: Haifa, Israel_
+5. [Germany allows suspected Israeli spy Uri Brodsky, connected of the murder of Mahmoud al-Mabhouh in Dubai, to go free after his recent extradition from Poland. ](/news/2010/08/13/germany-allows-suspected-israeli-spy-uri-brodsky-connected-of-the-murder-of-mahmoud-al-mabhouh-in-dubai-to-go-free-after-his-recent-extrad.md) _Context: Israel, Poland_

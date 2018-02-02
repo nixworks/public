@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/22/tropical-storm-alpha-forms-in-the-caribbean-threatening-the-island-of-hispaniola-and-becoming-the-record-breaking-22nd-named-storm-of-the.html)  [JSON](/news/2005/10/22/tropical-storm-alpha-forms-in-the-caribbean-threatening-the-island-of-hispaniola-and-becoming-the-record-breaking-22nd-named-storm-of-the.json)  [XML](/news/2005/10/22/tropical-storm-alpha-forms-in-the-caribbean-threatening-the-island-of-hispaniola-and-becoming-the-record-breaking-22nd-named-storm-of-the.xml)  
+
 ### [2005-10-22](/news/2005/10/22/index.md)
 
+##### Tropical Storm Alpha
 #  Tropical Storm Alpha forms in the Caribbean, threatening the island of Hispaniola and becoming the record-breaking 22nd named storm of the 2005 Atlantic hurricane season. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-10-22T212745Z_01_SCH277205_RTRUKOC_0_US-WEATHER-ALPHA.xml&archived=False)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

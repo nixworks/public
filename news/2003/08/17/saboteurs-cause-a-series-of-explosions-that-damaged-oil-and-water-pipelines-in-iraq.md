@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/17/saboteurs-cause-a-series-of-explosions-that-damaged-oil-and-water-pipelines-in-iraq.html)  [JSON](/news/2003/08/17/saboteurs-cause-a-series-of-explosions-that-damaged-oil-and-water-pipelines-in-iraq.json)  [XML](/news/2003/08/17/saboteurs-cause-a-series-of-explosions-that-damaged-oil-and-water-pipelines-in-iraq.xml)  
+
 ### [2003-08-17](/news/2003/08/17/index.md)
 
+##### Saboteurs
 #  Saboteurs cause a series of explosions that damaged oil and water pipelines in Iraq.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/9/an-air-moorea-airplane-crashes-in-moorea-bound-for-tahiti-with-at-least-12-casualties-initial-reports-indicate-that-all-20-passengers-may.html)  [JSON](/news/2007/08/9/an-air-moorea-airplane-crashes-in-moorea-bound-for-tahiti-with-at-least-12-casualties-initial-reports-indicate-that-all-20-passengers-may.json)  [XML](/news/2007/08/9/an-air-moorea-airplane-crashes-in-moorea-bound-for-tahiti-with-at-least-12-casualties-initial-reports-indicate-that-all-20-passengers-may.xml)  
+
 ### [2007-08-9](/news/2007/08/9/index.md)
 
+##### Air Moorea
 #  An Air Moorea airplane crashes in Moorea bound for Tahiti with at least 12 casualties. Initial reports indicate that all 20 passengers may have died. 
 
 Rescue authorities in French Polynesia are at the scene of a commuter plane crash on the island of Moorea, with initial reports indicating there are no survivors.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/08/10/2001494.htm)
 2. [News Limited](http://www.news.com.au/story/0,23599,22220837-2,00.html)

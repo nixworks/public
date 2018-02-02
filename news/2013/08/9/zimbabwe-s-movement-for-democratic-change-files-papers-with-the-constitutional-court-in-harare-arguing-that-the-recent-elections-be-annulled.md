@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/9/zimbabwe-s-movement-for-democratic-change-files-papers-with-the-constitutional-court-in-harare-arguing-that-the-recent-elections-be-annulled.html)  [JSON](/news/2013/08/9/zimbabwe-s-movement-for-democratic-change-files-papers-with-the-constitutional-court-in-harare-arguing-that-the-recent-elections-be-annulled.json)  [XML](/news/2013/08/9/zimbabwe-s-movement-for-democratic-change-files-papers-with-the-constitutional-court-in-harare-arguing-that-the-recent-elections-be-annulled.xml)  
+
 ### [2013-08-9](/news/2013/08/9/index.md)
 
+##### Zimbabwe
 # Zimbabwe's Movement for Democratic Change files papers with the Constitutional Court in Harare arguing that the recent elections be annulled because of widespread allegations of illegalities and intimidation of voters by Robert Mugabe's ZANU-PF party. 
 
 Zimbabwe&#39;s Movement for Democratic Change has challenged President Robert Mugabe&#39;s landslide re-election in the country&#39;s top court, calling for a re-run.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via News24](http://www.news24.com/news24/Africa/Zimbabwe/MDC-challenges-Mugabe-win-in-court-20130809)
 1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2430/9df61ac4e81242a1a97b49df839bc06a.jpg)

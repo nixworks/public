@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/03/17/the-fourth-global-world-water-forum-meets-in-mexico-city-to-address-problems-of-water-shortages-and-conflicts-protesters-claim-the-forum-i.html)  [JSON](/news/2006/03/17/the-fourth-global-world-water-forum-meets-in-mexico-city-to-address-problems-of-water-shortages-and-conflicts-protesters-claim-the-forum-i.json)  [XML](/news/2006/03/17/the-fourth-global-world-water-forum-meets-in-mexico-city-to-address-problems-of-water-shortages-and-conflicts-protesters-claim-the-forum-i.xml)  
+
 ### [2006-03-17](/news/2006/03/17/index.md)
 
+##### World Water Forum
 #  The fourth global World Water Forum meets in Mexico City to address problems of water shortages and conflicts. Protesters claim the forum is a platform for further privatization of water supplies. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Forbes](http://www.forbes.com/business/manufacturing/feeds/ap/2006/03/16/ap2601188.html)
+1. [AP via Forbes](https://www.forbes.com/business/manufacturing/feeds/ap/2006/03/16/ap2601188.html)
 
 ### Related:
 

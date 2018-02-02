@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/02/13/china-s-government-urges-yves-saint-laurent-s-estate-to-return-two-qing-dynasty-sculptures-scheduled-for-auction-in-paris.html)  [JSON](/news/2009/02/13/china-s-government-urges-yves-saint-laurent-s-estate-to-return-two-qing-dynasty-sculptures-scheduled-for-auction-in-paris.json)  [XML](/news/2009/02/13/china-s-government-urges-yves-saint-laurent-s-estate-to-return-two-qing-dynasty-sculptures-scheduled-for-auction-in-paris.xml)  
+
 ### [2009-02-13](/news/2009/02/13/index.md)
 
+##### China
 #  China's government urges Yves Saint Laurent's estate to return two Qing Dynasty sculptures scheduled for auction in Paris. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601080&sid=a6k3hvN6NYIs&refer=asia)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601080&sid=a6k3hvN6NYIs&refer=asia)
 
 ### Related:
 

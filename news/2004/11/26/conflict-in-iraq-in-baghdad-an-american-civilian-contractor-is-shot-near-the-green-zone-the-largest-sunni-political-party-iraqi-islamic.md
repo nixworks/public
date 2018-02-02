@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/26/conflict-in-iraq-in-baghdad-an-american-civilian-contractor-is-shot-near-the-green-zone-the-largest-sunni-political-party-iraqi-islamic.html)  [JSON](/news/2004/11/26/conflict-in-iraq-in-baghdad-an-american-civilian-contractor-is-shot-near-the-green-zone-the-largest-sunni-political-party-iraqi-islamic.json)  [XML](/news/2004/11/26/conflict-in-iraq-in-baghdad-an-american-civilian-contractor-is-shot-near-the-green-zone-the-largest-sunni-political-party-iraqi-islamic.xml)  
+
 ### [2004-11-26](/news/2004/11/26/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: In Baghdad, an American civilian contractor is shot near the Green Zone. The largest Sunni political party, Iraqi Islamic Party, calls for elections to be postponed for six months to allow better security and threatens a boycott. British troops join the operation to pacify the insurgency in the "Sunni Triangle." Iraqi police state they have arrested five suspected foreign fighters in the south. The Iraqi Minister of State says Iraqi National Guard discovered a small chemical and explosive lab in Falluja. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4041235.stm)
 2. [Reuters](http://reuters.com/newsArticle.jhtml?type=topNews&storyID=6919217&pageNumber=0)

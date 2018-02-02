@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/28/sinah-1-the-first-iranian-satellite-built-jointly-with-russia-was-launched-from-plesetsk-cosmodrome-in-murmansk-oblast-in-northwestern-ru.html)  [JSON](/news/2005/10/28/sinah-1-the-first-iranian-satellite-built-jointly-with-russia-was-launched-from-plesetsk-cosmodrome-in-murmansk-oblast-in-northwestern-ru.json)  [XML](/news/2005/10/28/sinah-1-the-first-iranian-satellite-built-jointly-with-russia-was-launched-from-plesetsk-cosmodrome-in-murmansk-oblast-in-northwestern-ru.xml)  
+
 ### [2005-10-28](/news/2005/10/28/index.md)
 
+##### Sinah-1
 #  Sinah-1, the first Iranian satellite built jointly with Russia, was launched from Plesetsk Cosmodrome in Murmansk Oblast in northwestern Russia at 22:52 Thursday local time (18:52 UTC). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Iran-daily.com](http://www.iran-daily.com/1384/2412/html/)
 

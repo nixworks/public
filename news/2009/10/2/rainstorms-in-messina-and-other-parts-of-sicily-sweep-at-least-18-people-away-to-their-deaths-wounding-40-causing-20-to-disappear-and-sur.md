@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/2/rainstorms-in-messina-and-other-parts-of-sicily-sweep-at-least-18-people-away-to-their-deaths-wounding-40-causing-20-to-disappear-and-sur.html)  [JSON](/news/2009/10/2/rainstorms-in-messina-and-other-parts-of-sicily-sweep-at-least-18-people-away-to-their-deaths-wounding-40-causing-20-to-disappear-and-sur.json)  [XML](/news/2009/10/2/rainstorms-in-messina-and-other-parts-of-sicily-sweep-at-least-18-people-away-to-their-deaths-wounding-40-causing-20-to-disappear-and-sur.xml)  
+
 ### [2009-10-2](/news/2009/10/2/index.md)
 
+##### sudden extreme spells of rain and mud showers
 #  Rainstorms in Messina and other parts of Sicily sweep at least 18 people away to their deaths, wounding 40, causing 20 to disappear and surrounding the city with mud and rainwater. A state of emergency is declared by the Italian government. 
 
 At least 18 people have been killed and 40 injured after rainstorms in Sicily washed away roads and destroyed homes around Messina.
 
 
-### Source:
+### Sources:
 
 1. [ANSA](http://www.ansa.it/site/notizie/awnplus/english/news/2009-10-02_102394687.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/10/20091021421972343.html#)

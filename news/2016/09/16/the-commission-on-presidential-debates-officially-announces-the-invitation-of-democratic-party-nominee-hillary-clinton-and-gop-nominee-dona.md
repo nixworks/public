@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/16/the-commission-on-presidential-debates-official
 
 ### [2016-09-16](/news/2016/09/16/index.md)
 
+##### 2016 U.S. presidential election
 # The Commission on Presidential Debates officially announces the invitation of Democratic Party nominee Hillary Clinton, and GOP nominee Donald Trump, to the first presidential debate at Hofstra University in Hempstead, New York, on September 26. However, third party candidates, Gary Johnson and Jill Stein, have not met the criteria, and will not be participants in the debate. 
 
 Libertarian Party presidential candidate Gary Johnson and Green Party hopeful Jill Stein have failed to quality for the first planned U.S. presidential debate on Sept. 26, the Commission on Presidential Debates said on Friday.

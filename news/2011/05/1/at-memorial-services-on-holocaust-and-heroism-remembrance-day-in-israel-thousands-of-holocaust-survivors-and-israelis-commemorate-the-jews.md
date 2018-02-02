@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/1/at-memorial-services-on-holocaust-and-heroism-remembrance-day-in-israel-thousands-of-holocaust-survivors-and-israelis-commemorate-the-jews.html)  [JSON](/news/2011/05/1/at-memorial-services-on-holocaust-and-heroism-remembrance-day-in-israel-thousands-of-holocaust-survivors-and-israelis-commemorate-the-jews.json)  [XML](/news/2011/05/1/at-memorial-services-on-holocaust-and-heroism-remembrance-day-in-israel-thousands-of-holocaust-survivors-and-israelis-commemorate-the-jews.xml)  
+
 ### [2011-05-1](/news/2011/05/1/index.md)
 
+##### Holocaust and Heroism Remembrance Day
 # At memorial services on Holocaust and Heroism Remembrance Day in Israel, thousands of Holocaust survivors and Israelis commemorate the Jews who died during the Holocaust. 
 
 Thousands of Holocaust survivors and Israelis Sunday mourned the 6 million Jews who died at the hands of the Nazis at memorial services throughout the country.
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/JewishWorld/JewishNews/Article.aspx?id=218597)
 2. [UPI](http://www.upi.com/Top_News/World-News/2011/05/01/Israel-marks-Holocaust-Day/UPI-79111304249700/#ixzz1L6hRhsGS)
@@ -17,4 +21,4 @@ Thousands of Holocaust survivors and Israelis Sunday mourned the 6 million Jews 
 2. [A controversial beauty pageant for survivors of The Holocaust is held for the first time in the Israeli city of Haifa. Critics describe it as "offensive" and "macabre." ](/news/2012/06/29/a-controversial-beauty-pageant-for-survivors-of-the-holocaust-is-held-for-the-first-time-in-the-israeli-city-of-haifa-critics-describe-it-a.md) _Context: Holocaust, Israel_
 3. [ Iranian President Mahmoud Ahmadinejad calls The Holocaust a "myth" and says that "the very existence of this regime is an insult to the dignity of the people" in referring to Israel at a Quds Day rally in Tehran. ](/news/2009/09/18/iranian-president-mahmoud-ahmadinejad-calls-the-holocaust-a-myth-and-says-that-the-very-existence-of-this-regime-is-an-insult-to-the-dig.md) _Context: Holocaust, Israel_
 4. [ An Israeli lawyer convicted of defrauding Holocaust survivors is arrested for planning to flee the country. ](/news/2009/02/16/an-israeli-lawyer-convicted-of-defrauding-holocaust-survivors-is-arrested-for-planning-to-flee-the-country.md) _Context: Holocaust, Israel_
-5. [The United States Trump administration and the government of Israel announce their plans to withdraw as members of UNESCO. ](/news/2017/10/12/the-united-states-trump-administration-and-the-government-of-israel-announce-their-plans-to-withdraw-as-members-of-unesco.md) _Context: Israel_
+5. [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md) _Context: Israel_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/5/yahoo-has-introduced-a-test-version-of-a-new-search-service-yahoo-audio-search-that-it-claims-can-comb-through-50-million-music-voice-an.html)  [JSON](/news/2005/08/5/yahoo-has-introduced-a-test-version-of-a-new-search-service-yahoo-audio-search-that-it-claims-can-comb-through-50-million-music-voice-an.json)  [XML](/news/2005/08/5/yahoo-has-introduced-a-test-version-of-a-new-search-service-yahoo-audio-search-that-it-claims-can-comb-through-50-million-music-voice-an.xml)  
+
 ### [2005-08-5](/news/2005/08/5/index.md)
 
+##### Yahoo!
 #  Yahoo! has introduced a test version of a new search service Yahoo! Audio Search that it claims can comb through 50 million music, voice and other audio files. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yahoo! Audio](http://audio.search.yahoo.com)
 

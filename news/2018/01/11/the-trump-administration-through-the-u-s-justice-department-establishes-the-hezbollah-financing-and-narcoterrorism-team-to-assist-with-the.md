@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/11/the-trump-administration-through-the-u-s-justic
 
 ### [2018-01-11](/news/2018/01/11/index.md)
 
+##### Iran-United States relations
 # The Trump administration through the U.S. Justice Department establishes the Hezbollah Financing and Narcoterrorism Team to assist with the DEA's Project Cassandra investigation into groups supporting Hezbollah. 
 
 The U.S. Justice Department has set up a team to investigate individuals and organizations providing support to Hezbollah, the Iran-backed Islamist group in Lebanon that the U.S. has branded a terrorist organization, Attorney General Jeff Sessions said on Thursday.

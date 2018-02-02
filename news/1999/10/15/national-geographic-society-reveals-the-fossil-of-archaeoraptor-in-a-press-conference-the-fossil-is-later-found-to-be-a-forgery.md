@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/10/15/national-geographic-society-reveals-the-fossil-of-archaeoraptor-in-a-press-conference-the-fossil-is-later-found-to-be-a-forgery.html)  [JSON](/news/1999/10/15/national-geographic-society-reveals-the-fossil-of-archaeoraptor-in-a-press-conference-the-fossil-is-later-found-to-be-a-forgery.json)  [XML](/news/1999/10/15/national-geographic-society-reveals-the-fossil-of-archaeoraptor-in-a-press-conference-the-fossil-is-later-found-to-be-a-forgery.xml)  
+
 ### [1999-10-15](/news/1999/10/15/index.md)
 
+##### National Geographic Society
 #  National Geographic Society reveals the fossil of "Archaeoraptor" in a press conference (the fossil is later found to be a forgery).
 
 

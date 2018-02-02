@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/07/8/two-undiscovered-species-of-pancake-batfish-are-discovered-in-the-gulf-of-mexico-in-areas-affected-by-the-deepwater-horizon-oil-spill.html)  [JSON](/news/2010/07/8/two-undiscovered-species-of-pancake-batfish-are-discovered-in-the-gulf-of-mexico-in-areas-affected-by-the-deepwater-horizon-oil-spill.json)  [XML](/news/2010/07/8/two-undiscovered-species-of-pancake-batfish-are-discovered-in-the-gulf-of-mexico-in-areas-affected-by-the-deepwater-horizon-oil-spill.xml)  
+
 ### [2010-07-8](/news/2010/07/8/index.md)
 
+##### pancake batfish
 # Two undiscovered species of pancake batfish are discovered in the Gulf of Mexico, in areas affected by the Deepwater Horizon oil spill. 
 
 Researchers have discovered two previously unknown species of bottom-dwelling fish in the Gulf of Mexico, living right in the area affected by the BP oil spill.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE66739D20100708)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/idUSTRE66739D20100708)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

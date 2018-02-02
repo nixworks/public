@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/27/plans-for-the-handover-of-power-in-iraq-have-to-be-revised-after-senior-shiites-object-to-indirect-elections.html)  [JSON](/news/2003/11/27/plans-for-the-handover-of-power-in-iraq-have-to-be-revised-after-senior-shiites-object-to-indirect-elections.json)  [XML](/news/2003/11/27/plans-for-the-handover-of-power-in-iraq-have-to-be-revised-after-senior-shiites-object-to-indirect-elections.xml)  
+
 ### [2003-11-27](/news/2003/11/27/index.md)
 
+##### Iraq
 #  Plans for the handover of power in Iraq have to be revised after senior Shiites object to indirect elections.
 
 

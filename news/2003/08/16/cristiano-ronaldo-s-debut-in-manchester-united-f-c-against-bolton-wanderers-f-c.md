@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/16/cristiano-ronaldo-s-debut-in-manchester-united-f-c-against-bolton-wanderers-f-c.html)  [JSON](/news/2003/08/16/cristiano-ronaldo-s-debut-in-manchester-united-f-c-against-bolton-wanderers-f-c.json)  [XML](/news/2003/08/16/cristiano-ronaldo-s-debut-in-manchester-united-f-c-against-bolton-wanderers-f-c.xml)  
+
 ### [2003-08-16](/news/2003/08/16/index.md)
 
+##### Cristiano Ronaldo
 #  Cristiano Ronaldo's debut in Manchester United F.C. against Bolton Wanderers F.C..
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/23/prime-minister-of-canada-paul-martin-asks-governor-general-adrienne-clarkson-to-dissolve-parliament-an-election-will-be-held-on-june-28.html)  [JSON](/news/2004/05/23/prime-minister-of-canada-paul-martin-asks-governor-general-adrienne-clarkson-to-dissolve-parliament-an-election-will-be-held-on-june-28.json)  [XML](/news/2004/05/23/prime-minister-of-canada-paul-martin-asks-governor-general-adrienne-clarkson-to-dissolve-parliament-an-election-will-be-held-on-june-28.xml)  
+
 ### [2004-05-23](/news/2004/05/23/index.md)
 
+##### Prime Minister of Canada
 #  Prime Minister of Canada Paul Martin asks Governor General Adrienne Clarkson to dissolve Parliament; an election will be held on June 28. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/stories/2004/05/23/canada/elxncall040523)
 

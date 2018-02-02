@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2004/12/3/rwanda-denies-it-has-sent-any-troops-to-congo-reuters-link-dead-as-of-04-01-15-january-2007-utc-quotes-unnamed-diplomatic-sources-tha.html)  [JSON](/news/2004/12/3/rwanda-denies-it-has-sent-any-troops-to-congo-reuters-link-dead-as-of-04-01-15-january-2007-utc-quotes-unnamed-diplomatic-sources-tha.json)  [XML](/news/2004/12/3/rwanda-denies-it-has-sent-any-troops-to-congo-reuters-link-dead-as-of-04-01-15-january-2007-utc-quotes-unnamed-diplomatic-sources-tha.xml)  
+
 ### [2004-12-3](/news/2004/12/3/index.md)
 
-#  Rwanda denies it has sent any troops to Congo. Reuters (Link dead as of 04:01, 15 January 2007 (UTC)) quotes unnamed diplomatic sources that claim that the troops were there only temporarily. [http:--news.bbc.co.uk-2-hi-africa-4061793.stm (BBC)] [http:--www.reuters.com-newsArticle.jhtml?type=worldNews&storyID=6987711 (Reuters)] (Link dead as of 04:01, 15 January 2007 (UTC))
+##### Rwanda
+#  Rwanda denies it has sent any troops to Congo. Reuters (Link dead as of 04:01, 15 January 2007 (UTC)) quotes unnamed diplomatic sources that claim that the troops were there only temporarily. [http:--news.bbc.co.uk-2-hi-africa-4061793.stm (BBC)] [https:--www.reuters.com-newsArticle.jhtml?type=worldNews&storyID=6987711 (Reuters)] (Link dead as of 04:01, 15 January 2007 (UTC))
 
 
 

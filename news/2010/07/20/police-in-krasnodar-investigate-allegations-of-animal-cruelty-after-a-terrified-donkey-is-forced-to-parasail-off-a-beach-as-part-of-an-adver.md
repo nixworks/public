@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/20/police-in-krasnodar-investigate-allegations-of-animal-cruelty-after-a-terrified-donkey-is-forced-to-parasail-off-a-beach-as-part-of-an-adver.html)  [JSON](/news/2010/07/20/police-in-krasnodar-investigate-allegations-of-animal-cruelty-after-a-terrified-donkey-is-forced-to-parasail-off-a-beach-as-part-of-an-adver.json)  [XML](/news/2010/07/20/police-in-krasnodar-investigate-allegations-of-animal-cruelty-after-a-terrified-donkey-is-forced-to-parasail-off-a-beach-as-part-of-an-adver.xml)  
+
 ### [2010-07-20](/news/2010/07/20/index.md)
 
+##### Krasnodar
 # Police in Krasnodar investigate allegations of animal cruelty after a terrified donkey is forced to parasail off a beach as part of an advertising stunt in a film that has shocked Russians nationwide. 
 
 Police in southern Russia are investigating allegations of animal cruelty after a donkey was used in a parasailing stunt, local media report.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10695037)
 2. [Daily Mail](http://www.dailymail.co.uk/news/worldnews/article-1296210/Flying-donkey-shocks-Russian-beachgoers-parasailing-firms-sick-stunt.html)

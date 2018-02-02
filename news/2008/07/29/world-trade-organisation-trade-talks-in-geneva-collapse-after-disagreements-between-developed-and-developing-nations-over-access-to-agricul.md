@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/29/world-trade-organisation-trade-talks-in-geneva-collapse-after-disagreements-between-developed-and-developing-nations-over-access-to-agricul.html)  [JSON](/news/2008/07/29/world-trade-organisation-trade-talks-in-geneva-collapse-after-disagreements-between-developed-and-developing-nations-over-access-to-agricul.json)  [XML](/news/2008/07/29/world-trade-organisation-trade-talks-in-geneva-collapse-after-disagreements-between-developed-and-developing-nations-over-access-to-agricul.xml)  
+
 ### [2008-07-29](/news/2008/07/29/index.md)
 
+##### World Trade Organisation
 #  World Trade Organisation trade talks in Geneva collapse after disagreements between developed and developing nations over access to agricultural markets. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,2144,3521822,00.html)
 

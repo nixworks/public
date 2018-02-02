@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/16/the-northern-territory-emergency-service-in-the-north-of-australia-warns-residents-in-low-lying-coastal-areas-including-in-the-capital-darwi.html)  [JSON](/news/2011/02/16/the-northern-territory-emergency-service-in-the-north-of-australia-warns-residents-in-low-lying-coastal-areas-including-in-the-capital-darwi.json)  [XML](/news/2011/02/16/the-northern-territory-emergency-service-in-the-north-of-australia-warns-residents-in-low-lying-coastal-areas-including-in-the-capital-darwi.xml)  
+
 ### [2011-02-16](/news/2011/02/16/index.md)
 
+##### Northern Territory
 # The Northern Territory Emergency Service in the north of Australia warns residents in low-lying coastal areas including in the capital Darwin ahead of Tropical Cyclone Carlos. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/breaking-news/national/darwin-told-to-prepare-evacuation-plan/story-e6frfku9-1226007041677)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

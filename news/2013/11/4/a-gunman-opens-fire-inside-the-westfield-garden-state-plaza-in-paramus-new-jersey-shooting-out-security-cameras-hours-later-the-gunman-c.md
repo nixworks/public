@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/4/a-gunman-opens-fire-inside-the-westfield-garden-state-plaza-in-paramus-new-jersey-shooting-out-security-cameras-hours-later-the-gunman-c.html)  [JSON](/news/2013/11/4/a-gunman-opens-fire-inside-the-westfield-garden-state-plaza-in-paramus-new-jersey-shooting-out-security-cameras-hours-later-the-gunman-c.json)  [XML](/news/2013/11/4/a-gunman-opens-fire-inside-the-westfield-garden-state-plaza-in-paramus-new-jersey-shooting-out-security-cameras-hours-later-the-gunman-c.xml)  
+
 ### [2013-11-4](/news/2013/11/4/index.md)
 
+##### opens fire
 # A gunman opens fire inside the Westfield Garden State Plaza in Paramus, New Jersey, shooting out security cameras. Hours later, the gunman commits suicide near the mall. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/11/04/us/new-jersey-mall-shooting/)
 

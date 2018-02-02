@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/26/ascar-tulio-lizcano-a-conservative-congressman-kidnapped-by-the-farc-in-august-2000-is-freed-by-the-military-in-choca3-department-colom.html)  [JSON](/news/2008/10/26/ascar-tulio-lizcano-a-conservative-congressman-kidnapped-by-the-farc-in-august-2000-is-freed-by-the-military-in-choca3-department-colom.json)  [XML](/news/2008/10/26/ascar-tulio-lizcano-a-conservative-congressman-kidnapped-by-the-farc-in-august-2000-is-freed-by-the-military-in-choca3-department-colom.xml)  
+
 ### [2008-10-26](/news/2008/10/26/index.md)
 
+##### Oscar Tulio Lizcano
 #  Oscar Tulio Lizcano, a Conservative congressman kidnapped by the FARC in August 2000, is freed by the military in Choco Department, Colombia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/7691962.stm)
 

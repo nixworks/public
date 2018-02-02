@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/25/the-search-for-coal-miners-trapped-in-the-pasta-de-conchos-mine-disaster-in-mexico-is-suspended-due-to-toxic-levels-of-natural-gas-the-65.html)  [JSON](/news/2006/02/25/the-search-for-coal-miners-trapped-in-the-pasta-de-conchos-mine-disaster-in-mexico-is-suspended-due-to-toxic-levels-of-natural-gas-the-65.json)  [XML](/news/2006/02/25/the-search-for-coal-miners-trapped-in-the-pasta-de-conchos-mine-disaster-in-mexico-is-suspended-due-to-toxic-levels-of-natural-gas-the-65.xml)  
+
 ### [2006-02-25](/news/2006/02/25/index.md)
 
+##### coal miners
 #  The search for coal miners trapped in the Pasta de Conchos mine disaster in Mexico is suspended due to toxic levels of natural gas. The 65 trapped miners are presumed dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [LA Times](http://www.latimes.com/news/nationworld/world/la-fg-briefs26.2feb26,1,2564150.story?ctrack=1&cset=true)
 

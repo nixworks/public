@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/6/tens-of-thousands-of-people-are-evacuated-from-oman-as-cyclone-gonu-arrives.html)  [JSON](/news/2007/06/6/tens-of-thousands-of-people-are-evacuated-from-oman-as-cyclone-gonu-arrives.json)  [XML](/news/2007/06/6/tens-of-thousands-of-people-are-evacuated-from-oman-as-cyclone-gonu-arrives.xml)  
+
 ### [2007-06-6](/news/2007/06/6/index.md)
 
+##### Oman
 #  Tens of thousands of people are evacuated from Oman as Cyclone Gonu arrives. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WEATHER/06/06/cyclone.ap/index.html?eref=rss_world)
 

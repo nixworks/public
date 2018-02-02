@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2004/06/7/the-tampa-bay-lightning-defeat-the-calgary-flames-in-game-7-of-the-stanley-cup-finals-2a1-their-first-stanley-cup-victory.html)  [JSON](/news/2004/06/7/the-tampa-bay-lightning-defeat-the-calgary-flames-in-game-7-of-the-stanley-cup-finals-2a1-their-first-stanley-cup-victory.json)  [XML](/news/2004/06/7/the-tampa-bay-lightning-defeat-the-calgary-flames-in-game-7-of-the-stanley-cup-finals-2a1-their-first-stanley-cup-victory.xml)  
+
 ### [2004-06-7](/news/2004/06/7/index.md)
 
+##### Tampa Bay Lightning
 #  The Tampa Bay Lightning defeat the Calgary Flames in Game 7 of the Stanley Cup Finals 2-1, their first Stanley Cup victory. 
 
 Ruslan Fedotenko scored twice, including the critical first goal, as the resilient Lightning held off the Flames 2-1 in Game 7 Monday night to win their first Stanley Cup.
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://sports.espn.go.com/nhl/recap?gameId=240607020)
 2. [SI.com](http://sportsillustrated.cnn.com/2004/hockey/nhl/specials/playoffs/2004/06/07/bc.hkn.stanleycup.runni.ap/?cnn=yes)
-3. [TSN](http://www.tsn.ca/nhl/news_story.asp?id=86744)
+3. [TSN](https://www.tsn.ca/nhl/news_story.asp?id=86744)
 3. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)
 
 ### Related:

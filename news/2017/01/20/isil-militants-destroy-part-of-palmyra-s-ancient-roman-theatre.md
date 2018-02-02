@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/20/isil-militants-destroy-part-of-palmyra-s-ancien
 
 ### [2017-01-20](/news/2017/01/20/index.md)
 
+##### Syrian Civil War
 # ISIL militants destroy part of Palmyra's ancient Roman theatre. 
 
  An air strike killed more than 40 members of the jihadist group Jabhat Fateh al-Sham in northwestern Syria on Thursday night, the Syrian Observatory for Human 

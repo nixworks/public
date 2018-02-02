@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/25/the-u-s-district-court-in-denver-rules-that-the-national-do-not-call-registry-would-violate-the-first-amendment-since-it-contains-exceptio.html)  [JSON](/news/2003/09/25/the-u-s-district-court-in-denver-rules-that-the-national-do-not-call-registry-would-violate-the-first-amendment-since-it-contains-exceptio.json)  [XML](/news/2003/09/25/the-u-s-district-court-in-denver-rules-that-the-national-do-not-call-registry-would-violate-the-first-amendment-since-it-contains-exceptio.xml)  
+
 ### [2003-09-25](/news/2003/09/25/index.md)
 
+##### U.S. District Court
 #  The U.S. District Court in Denver rules that the National Do Not Call Registry would violate the First Amendment since it contains exceptions for certain unsolicited calls. Thus, the Federal Trade Commission is currently prohibited from implementing the registry.
 
 

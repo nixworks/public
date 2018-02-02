@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/3/libya-s-national-oil-corporation-agrees-to-merge
 
 ### [2016-07-3](/news/2016/07/3/index.md)
 
+##### Libya
 # Libya's National Oil Corporation agrees to merge with the rival company of the same name in the east of the country after being split by the two rival governments. 
 
 
@@ -17,6 +18,6 @@ Formats: [HTML](/news/2016/07/3/libya-s-national-oil-corporation-agrees-to-merge
 
 1. [The Islamic State's Libyan branch continues attacks on Libya's oil ports of Sidra and Ra's Lanuf, resulting in at least 10 security personnel deaths and 40 injured. The National Oil Corporation (NOC) reports that fires continue to rage in both Sidra and Ra's Lanuf after oil storage tanks were hit by shells. ](/news/2016/01/6/the-islamic-state-s-libyan-branch-continues-attacks-on-libya-s-oil-ports-of-sidra-and-ra-s-lanuf-resulting-in-at-least-10-security-personne.md) _Context: Libya, National Oil Corporation_
 2. [Islamic State militants continue to besiege the Libyan oil port of Sidra, attacking checkpoints on the road to the port, leaving seven guards dead. The National Oil Corporation (NOC) said an oil storage tank in the port was set on fire by a long-range rocket, and that the oil tank fire started just as firefighters were close to bringing under control another blaze at an oil tank that was hit during fighting in the nearby Ra's Lanuf Refinery on Monday. ](/news/2016/01/5/islamic-state-militants-continue-to-besiege-the-libyan-oil-port-of-sidra-attacking-checkpoints-on-the-road-to-the-port-leaving-seven-guard.md) _Context: Libya, National Oil Corporation_
-3. [In coordination with Libya's internationally recognized government, American special operations forces and FBI agents capture Mustafa al-Imam, a militant who allegedly was involved in the 2012 Benghazi attack, at an unknown location in Libya. ](/news/2017/10/29/in-coordination-with-libyaas-internationally-recognized-government-american-special-operations-forces-and-fbi-agents-capture-mustafa-al-i.md) _Context: Libya_
-4. [At least five migrants have died and ninety are missing after their boat sinks off the western coast of Libya. ](/news/2017/09/21/at-least-five-migrants-have-died-and-ninety-are-missing-after-their-boat-sinks-off-the-western-coast-of-libya.md) _Context: Libya_
-5. [The European Union restricts the exports of inflatable boats to Libya. ](/news/2017/07/17/the-european-union-restricts-the-exports-of-inflatable-boats-to-libya.md) _Context: Libya_
+3. [A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials. ](/news/2018/01/23/a-double-car-bombing-in-benghazi-libya-kills-at-least-33-people-and-wounds-dozens-of-others-the-victims-include-both-military-personnel.md) _Context: Libya_
+4. [The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" - allegedly bound for Libya, loaded with 410 tonnes of explosives - in Heraklion, Greece. 102 safety deficiencies are found, and 8 crew members are arrested. ](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-flagged-cargo-ship-andromeda-a-allegedly-bound-for-libya-loaded-with-410-tonnes-of-explos.md) _Context: Libya_
+5. [Gunmen shoot dead the Mayor of Misurata, Libya, Mohamed Eshtewi, and wound his brother, after they chase down his car. ](/news/2017/12/17/gunmen-shoot-dead-the-mayor-of-misurata-libya-mohamed-eshtewi-and-wound-his-brother-after-they-chase-down-his-car.md) _Context: Libya_

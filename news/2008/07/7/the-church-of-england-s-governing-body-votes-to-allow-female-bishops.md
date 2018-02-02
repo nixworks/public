@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/7/the-church-of-england-s-governing-body-votes-to-allow-female-bishops.html)  [JSON](/news/2008/07/7/the-church-of-england-s-governing-body-votes-to-allow-female-bishops.json)  [XML](/news/2008/07/7/the-church-of-england-s-governing-body-votes-to-allow-female-bishops.xml)  
+
 ### [2008-07-7](/news/2008/07/7/index.md)
 
+##### Church of England
 #  The Church of England's governing body votes to allow female bishops. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/uk_news/7494517.stm)
 

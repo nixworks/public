@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/11/police-clash-with-chilean-fishermen-opposed-to-a-new-law-said-to-favour-larger-companies-chilean-police-use-tear-gas-and-water-cannon-to-br.html)  [JSON](/news/2012/07/11/police-clash-with-chilean-fishermen-opposed-to-a-new-law-said-to-favour-larger-companies-chilean-police-use-tear-gas-and-water-cannon-to-br.json)  [XML](/news/2012/07/11/police-clash-with-chilean-fishermen-opposed-to-a-new-law-said-to-favour-larger-companies-chilean-police-use-tear-gas-and-water-cannon-to-br.xml)  
+
 ### [2012-07-11](/news/2012/07/11/index.md)
 
+##### Chile
 # Police clash with Chilean fishermen opposed to a new law said to favour larger companies; Chilean police use tear gas and water cannon to break up demonstrations in Valparaiso. 
 
 Chilean fishermen clash with police as they protest in several coastal towns against a new law they say favours industrial fishing over them.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18793488)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61496000/jpg/_61496683_61496682.jpg)

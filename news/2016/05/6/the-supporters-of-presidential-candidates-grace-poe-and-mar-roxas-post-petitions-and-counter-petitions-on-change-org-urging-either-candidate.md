@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/6/the-supporters-of-presidential-candidates-grace-
 
 ### [2016-05-6](/news/2016/05/6/index.md)
 
+##### Philippine presidential election, 2016
 # The supporters of presidential candidates Grace Poe and Mar Roxas post petitions and counter-petitions on Change.org urging either candidate to drop-out and give way for the other. 
 
 Manila Standard | Defining The News

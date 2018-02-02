@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/5/the-former-governor-of-alaska-sarah-palin-announces-that-she-will-not-put-her-name-forward-as-a-republican-candidate-for-the-2012-presidenti.html)  [JSON](/news/2011/10/5/the-former-governor-of-alaska-sarah-palin-announces-that-she-will-not-put-her-name-forward-as-a-republican-candidate-for-the-2012-presidenti.json)  [XML](/news/2011/10/5/the-former-governor-of-alaska-sarah-palin-announces-that-she-will-not-put-her-name-forward-as-a-republican-candidate-for-the-2012-presidenti.xml)  
+
 ### [2011-10-5](/news/2011/10/5/index.md)
 
+##### Governor
 # The former Governor of Alaska Sarah Palin announces that she will not put her name forward as a Republican candidate for the 2012 presidential election. 
 
 Former Alaska Governor Sarah Palin declares she will not run for the White House in the 2012 presidential elections.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-15193726)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/55856000/jpg/_55856210_012919347-1.jpg)

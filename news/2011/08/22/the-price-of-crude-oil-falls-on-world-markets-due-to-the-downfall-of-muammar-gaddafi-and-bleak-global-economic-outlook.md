@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/08/22/the-price-of-crude-oil-falls-on-world-markets-due-to-the-downfall-of-muammar-gaddafi-and-bleak-global-economic-outlook.html)  [JSON](/news/2011/08/22/the-price-of-crude-oil-falls-on-world-markets-due-to-the-downfall-of-muammar-gaddafi-and-bleak-global-economic-outlook.json)  [XML](/news/2011/08/22/the-price-of-crude-oil-falls-on-world-markets-due-to-the-downfall-of-muammar-gaddafi-and-bleak-global-economic-outlook.xml)  
+
 ### [2011-08-22](/news/2011/08/22/index.md)
 
+##### crude oil
 # The price of crude oil falls on world markets due to the downfall of Muammar Gaddafi and bleak global economic outlook. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/08/22/us-markets-oil-idUSTRE77838320110822?feedType=RSS&feedName=businessNews&dlvrit=56943)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110822&t=2&i=484086307&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-08-22T130331Z_01_BTRE77L109X00_RTROPTP_0_LIBYA)
+1. [Reuters](https://www.reuters.com/article/2011/08/22/us-markets-oil-idUSTRE77838320110822?feedType=RSS&feedName=businessNews&dlvrit=56943)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20110822&t=2&i=484086307&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-08-22T130331Z_01_BTRE77L109X00_RTROPTP_0_LIBYA)
 
 ### Related:
 

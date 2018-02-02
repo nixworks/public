@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/9/amir-peretz-is-elected-leader-of-the-israeli-labor-party-narrowly-defeating-the-incumbent-shimon-peres.html)  [JSON](/news/2005/11/9/amir-peretz-is-elected-leader-of-the-israeli-labor-party-narrowly-defeating-the-incumbent-shimon-peres.json)  [XML](/news/2005/11/9/amir-peretz-is-elected-leader-of-the-israeli-labor-party-narrowly-defeating-the-incumbent-shimon-peres.xml)  
+
 ### [2005-11-9](/news/2005/11/9/index.md)
 
+##### Amir Peretz
 #  Amir Peretz is elected leader of the Israeli Labor Party, narrowly defeating the incumbent, Shimon Peres. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4423676.stm)
 

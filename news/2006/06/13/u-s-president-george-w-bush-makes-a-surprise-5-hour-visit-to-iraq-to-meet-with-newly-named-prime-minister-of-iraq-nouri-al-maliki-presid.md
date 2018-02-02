@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/13/u-s-president-george-w-bush-makes-a-surprise-5-hour-visit-to-iraq-to-meet-with-newly-named-prime-minister-of-iraq-nouri-al-maliki-presid.html)  [JSON](/news/2006/06/13/u-s-president-george-w-bush-makes-a-surprise-5-hour-visit-to-iraq-to-meet-with-newly-named-prime-minister-of-iraq-nouri-al-maliki-presid.json)  [XML](/news/2006/06/13/u-s-president-george-w-bush-makes-a-surprise-5-hour-visit-to-iraq-to-meet-with-newly-named-prime-minister-of-iraq-nouri-al-maliki-presid.xml)  
+
 ### [2006-06-13](/news/2006/06/13/index.md)
 
+##### U.S. President
 #  U.S. President George W. Bush makes a surprise 5-hour visit to Iraq to meet with newly named Prime Minister of Iraq Nouri al-Maliki, President of Iraq Jalal Talibani, national political leaders and U.S. troops. The visit was kept a secret from al-Maliki until five minutes before they met. 
 
 President Bush assured Iraqis in a surprise visit to Baghdad on Tuesday that the U.S. stands with them and &#8220;the future of your country is in your hands.&#8221; 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/13163803/)
 1. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Video/060613/n_bush_iraq2_060613.standard.jpg)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/07/30/pope-john-paul-ii-canonizes-pedro-de-san-jose-betancurt.html)  [JSON](/news/2002/07/30/pope-john-paul-ii-canonizes-pedro-de-san-jose-betancurt.json)  [XML](/news/2002/07/30/pope-john-paul-ii-canonizes-pedro-de-san-jose-betancurt.xml)  
+
 ### [2002-07-30](/news/2002/07/30/index.md)
 
+##### Pope John Paul II
 #  Pope John Paul II canonizes Pedro de San Jos Betancurt.
 
 

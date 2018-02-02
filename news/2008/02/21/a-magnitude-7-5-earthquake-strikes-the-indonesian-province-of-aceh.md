@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/21/a-magnitude-7-5-earthquake-strikes-the-indonesian-province-of-aceh.html)  [JSON](/news/2008/02/21/a-magnitude-7-5-earthquake-strikes-the-indonesian-province-of-aceh.json)  [XML](/news/2008/02/21/a-magnitude-7-5-earthquake-strikes-the-indonesian-province-of-aceh.xml)  
+
 ### [2008-02-21](/news/2008/02/21/index.md)
 
+##### earthquake
 #  A magnitude 7.5 earthquake strikes the Indonesian province of Aceh. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Indonesia Tsunami Bulletin](http://www.prh.noaa.gov/ptwc/messages/indian/2008/indian.2008.02.20.094708.txt)
 

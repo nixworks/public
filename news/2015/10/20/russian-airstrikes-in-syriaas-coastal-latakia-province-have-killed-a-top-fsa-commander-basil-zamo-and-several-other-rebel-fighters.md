@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2015/10/20/russian-airstrikes-in-syriaas-coastal-latakia-province-have-killed-a-top-fsa-commander-basil-zamo-and-several-other-rebel-fighters.html)  [JSON](/news/2015/10/20/russian-airstrikes-in-syriaas-coastal-latakia-province-have-killed-a-top-fsa-commander-basil-zamo-and-several-other-rebel-fighters.json)  [XML](/news/2015/10/20/russian-airstrikes-in-syriaas-coastal-latakia-province-have-killed-a-top-fsa-commander-basil-zamo-and-several-other-rebel-fighters.xml)  
+
 ### [2015-10-20](/news/2015/10/20/index.md)
 
+##### Syrian Civil War
 # Russian airstrikes in Syria's coastal Latakia province have killed a top FSA commander, Basil Zamo, and several other rebel fighters. 
 
 At least three Russians fighting alongside Syrian government forces were killed and several more wounded when a shell hit their position in the coastal province of Latakia, a senior pro-government military source said on Tuesday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/10/20/us-mideast-crisis-syria-latakia-idUSKCN0SE0M420151020)
-2. [Reuters](http://www.reuters.com/article/2015/10/20/us-mideast-crisis-syria-russia-idUSKCN0SE1YO20151020)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/10/20/us-mideast-crisis-syria-latakia-idUSKCN0SE0M420151020)
+2. [Reuters](https://www.reuters.com/article/2015/10/20/us-mideast-crisis-syria-russia-idUSKCN0SE1YO20151020)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

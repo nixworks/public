@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/23/the-mexican-federal-police-arrested-joe-saenz-one-of-the-fbi-ten-most-wanted-fugitives-in-the-western-city-of-guadalajara.html)  [JSON](/news/2012/11/23/the-mexican-federal-police-arrested-joe-saenz-one-of-the-fbi-ten-most-wanted-fugitives-in-the-western-city-of-guadalajara.json)  [XML](/news/2012/11/23/the-mexican-federal-police-arrested-joe-saenz-one-of-the-fbi-ten-most-wanted-fugitives-in-the-western-city-of-guadalajara.xml)  
+
 ### [2012-11-23](/news/2012/11/23/index.md)
 
+##### Mexican Police
 # The Mexican federal police arrested Joe Saenz, one of the FBI Ten Most Wanted Fugitives, in the western city of Guadalajara. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-20473129)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/64353000/jpg/_64353133_64353069.jpg)

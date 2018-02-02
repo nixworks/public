@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/16/fighting-in-somalia-has-killed-838-people-since-june-according-to-local-rights-activists-bringing-the-total-to-have-died-in-an-insurgency.html)  [JSON](/news/2008/09/16/fighting-in-somalia-has-killed-838-people-since-june-according-to-local-rights-activists-bringing-the-total-to-have-died-in-an-insurgency.json)  [XML](/news/2008/09/16/fighting-in-somalia-has-killed-838-people-since-june-according-to-local-rights-activists-bringing-the-total-to-have-died-in-an-insurgency.xml)  
+
 ### [2008-09-16](/news/2008/09/16/index.md)
 
+##### two years of helping
 #  Fighting in Somalia has killed 838 people since June, according to local rights activists, bringing the total to have died in an insurgency that began early last year to 9,474. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reliefweb.int/rw/rwb.nsf/db900sid/AMMF-7JJCSY?OpenDocument)
 

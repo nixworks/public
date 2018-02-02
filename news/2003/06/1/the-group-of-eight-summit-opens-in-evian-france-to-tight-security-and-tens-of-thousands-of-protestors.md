@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/1/the-group-of-eight-summit-opens-in-evian-france-to-tight-security-and-tens-of-thousands-of-protestors.html)  [JSON](/news/2003/06/1/the-group-of-eight-summit-opens-in-evian-france-to-tight-security-and-tens-of-thousands-of-protestors.json)  [XML](/news/2003/06/1/the-group-of-eight-summit-opens-in-evian-france-to-tight-security-and-tens-of-thousands-of-protestors.xml)  
+
 ### [2003-06-1](/news/2003/06/1/index.md)
 
+##### Group of Eight
 #  The Group of Eight summit opens in vian, France, to tight security and tens of thousands of protestors.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/10/the-death-toll-in-wangjialing-coal-mine-s-flood-in-shanxi-rises-to-28-after-the-recovery-of-another-corpse.html)  [JSON](/news/2010/04/10/the-death-toll-in-wangjialing-coal-mine-s-flood-in-shanxi-rises-to-28-after-the-recovery-of-another-corpse.json)  [XML](/news/2010/04/10/the-death-toll-in-wangjialing-coal-mine-s-flood-in-shanxi-rises-to-28-after-the-recovery-of-another-corpse.xml)  
+
 ### [2010-04-10](/news/2010/04/10/index.md)
 
+##### death toll in Wangjialing coal mine's flood
 # The death toll in Wangjialing coal mine's flood in Shanxi rises to 28 after the recovery of another corpse. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Shanghai Daily](http://www.shanghaidaily.com/sp/article/2010/201004/20100411/article_433868.htm)
 

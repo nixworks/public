@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/15/japan-s-democratic-party-elects-sha-renha-as-pr
 
 ### [2016-09-15](/news/2016/09/15/index.md)
 
+##### Japan
 # Japan's Democratic Party elects Sha Renho as President. The House of Councillors member becomes the first female to head the opposition party. 
 
 

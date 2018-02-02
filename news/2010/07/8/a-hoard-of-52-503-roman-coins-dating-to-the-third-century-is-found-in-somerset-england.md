@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/8/a-hoard-of-52-503-roman-coins-dating-to-the-third-century-is-found-in-somerset-england.html)  [JSON](/news/2010/07/8/a-hoard-of-52-503-roman-coins-dating-to-the-third-century-is-found-in-somerset-england.json)  [XML](/news/2010/07/8/a-hoard-of-52-503-roman-coins-dating-to-the-third-century-is-found-in-somerset-england.xml)  
+
 ### [2010-07-8](/news/2010/07/8/index.md)
 
+##### A hoard
 # A hoard of 52,503 Roman coins dating to the third century is found in Somerset, England. 
 
 One of the largest ever finds of Roman coins in Britain has been made by a man using a metal detector.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/uk/10546960.stm)
 2. [The Telegraph](http://www.telegraph.co.uk/culture/7879099/Roman-coin-hoard-found-the-weight-of-two-men.html)

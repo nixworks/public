@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/05/23/voters-in-nagorno-karabakh-vote-in-a-parliamentary-election-as-more-than-70-international-observers-watch.html)  [JSON](/news/2010/05/23/voters-in-nagorno-karabakh-vote-in-a-parliamentary-election-as-more-than-70-international-observers-watch.json)  [XML](/news/2010/05/23/voters-in-nagorno-karabakh-vote-in-a-parliamentary-election-as-more-than-70-international-observers-watch.xml)  
+
 ### [2010-05-23](/news/2010/05/23/index.md)
 
+##### Nagorno-Karabakh region
 # Voters in Nagorno-Karabakh vote in a parliamentary election as more than 70 international observers watch. 
 
 Breakaway Nagorno-Karabakhelects its new parliament on Sunday, one month after thecollapse of a plan to end hostility between Armenia and Turkeyand ease tension in the south Caucasus.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSANT24066320100522?type=marketsNews)
+1. [Reuters](https://www.reuters.com/article/idUSANT24066320100522?type=marketsNews)
 2. [Voice of Russia](http://english.ruvr.ru/2010/05/23/8314608.html)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

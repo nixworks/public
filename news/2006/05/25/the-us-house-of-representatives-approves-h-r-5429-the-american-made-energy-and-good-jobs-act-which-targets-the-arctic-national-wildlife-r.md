@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/25/the-us-house-of-representatives-approves-h-r-5429-the-american-made-energy-and-good-jobs-act-which-targets-the-arctic-national-wildlife-r.html)  [JSON](/news/2006/05/25/the-us-house-of-representatives-approves-h-r-5429-the-american-made-energy-and-good-jobs-act-which-targets-the-arctic-national-wildlife-r.json)  [XML](/news/2006/05/25/the-us-house-of-representatives-approves-h-r-5429-the-american-made-energy-and-good-jobs-act-which-targets-the-arctic-national-wildlife-r.xml)  
+
 ### [2006-05-25](/news/2006/05/25/index.md)
 
+##### US House of Representatives
 #  The US House of Representatives approves H.R.5429, the American-Made Energy and Good Jobs Act, which targets the Arctic National Wildlife Refuge ("ANWR"). H.R.5429 allows oil and gas exploration and development on 2,000 acres (8 km) of the Arctic Coastal Plain (the key Wildlife Reserve in Alaska). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SITNEWS](http://www.sitnews.us/0506news/052506/052506_anwr.html)
 

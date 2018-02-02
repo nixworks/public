@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/23/sri-lankan-civil-war-in-fighting-in-the-north-of-sri-lanka-the-military-claims-victory-with-43-soldiers-killed-and-33-missing-while-killi.html)  [JSON](/news/2008/04/23/sri-lankan-civil-war-in-fighting-in-the-north-of-sri-lanka-the-military-claims-victory-with-43-soldiers-killed-and-33-missing-while-killi.json)  [XML](/news/2008/04/23/sri-lankan-civil-war-in-fighting-in-the-north-of-sri-lanka-the-military-claims-victory-with-43-soldiers-killed-and-33-missing-while-killi.xml)  
+
 ### [2008-04-23](/news/2008/04/23/index.md)
 
+##### Sri Lankan Civil War
 #  Sri Lankan Civil War: In fighting in the North of Sri Lanka, the military claims victory with 43 soldiers killed and 33 missing while killing over 100 Tamil Tigers. The rebels also claim victory, saying that they killed 100 soldiers and wounded 500 while only losing 16 of their own. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7364226.stm)
 2. [CNN](http://edition.cnn.com/2008/WORLD/asiapcf/04/23/srilanka.battle/)

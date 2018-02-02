@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/13/thai-prime-minister-abhisit-vejjajiva-says-that-anti-government-protests-in-bangkok-are-under-control.html)  [JSON](/news/2009/04/13/thai-prime-minister-abhisit-vejjajiva-says-that-anti-government-protests-in-bangkok-are-under-control.json)  [XML](/news/2009/04/13/thai-prime-minister-abhisit-vejjajiva-says-that-anti-government-protests-in-bangkok-are-under-control.xml)  
+
 ### [2009-04-13](/news/2009/04/13/index.md)
 
+##### Thailand
 #  Thai Prime Minister Abhisit Vejjajiva says that anti-government protests in Bangkok are "under control". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/7996845.stm)
 

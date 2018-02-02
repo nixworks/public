@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/14/ugandan-journalist-andrew-mwenda-has-been-charged-with-sedition-after-a-radio-debate-speculating-on-the-death-of-sudan-s-vice-president-joh.html)  [JSON](/news/2005/08/14/ugandan-journalist-andrew-mwenda-has-been-charged-with-sedition-after-a-radio-debate-speculating-on-the-death-of-sudan-s-vice-president-joh.json)  [XML](/news/2005/08/14/ugandan-journalist-andrew-mwenda-has-been-charged-with-sedition-after-a-radio-debate-speculating-on-the-death-of-sudan-s-vice-president-joh.xml)  
+
 ### [2005-08-14](/news/2005/08/14/index.md)
 
+##### Uganda
 #  Ugandan journalist Andrew Mwenda has been charged with sedition after a radio debate speculating on the death of Sudan's vice-president John Garang.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4148998.stm)
 

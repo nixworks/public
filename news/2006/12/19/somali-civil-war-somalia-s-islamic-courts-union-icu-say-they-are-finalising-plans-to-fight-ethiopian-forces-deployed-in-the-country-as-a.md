@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/19/somali-civil-war-somalia-s-islamic-courts-union-icu-say-they-are-finalising-plans-to-fight-ethiopian-forces-deployed-in-the-country-as-a.html)  [JSON](/news/2006/12/19/somali-civil-war-somalia-s-islamic-courts-union-icu-say-they-are-finalising-plans-to-fight-ethiopian-forces-deployed-in-the-country-as-a.json)  [XML](/news/2006/12/19/somali-civil-war-somalia-s-islamic-courts-union-icu-say-they-are-finalising-plans-to-fight-ethiopian-forces-deployed-in-the-country-as-a.xml)  
+
 ### [2006-12-19](/news/2006/12/19/index.md)
 
+##### Somali Civil War
 #  Somali Civil War: Somalia's Islamic Courts Union (ICU) say they are finalising plans to fight Ethiopian forces deployed in the country as a seven-day ultimatum for Ethiopia to pull out its troops nears its deadline. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/0C9FA402-0D6E-4E50-932A-E5EA7F3E651B.htm)
 

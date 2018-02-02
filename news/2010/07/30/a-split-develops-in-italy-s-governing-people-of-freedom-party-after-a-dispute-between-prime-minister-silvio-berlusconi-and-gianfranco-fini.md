@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/30/a-split-develops-in-italy-s-governing-people-of-freedom-party-after-a-dispute-between-prime-minister-silvio-berlusconi-and-gianfranco-fini.html)  [JSON](/news/2010/07/30/a-split-develops-in-italy-s-governing-people-of-freedom-party-after-a-dispute-between-prime-minister-silvio-berlusconi-and-gianfranco-fini.json)  [XML](/news/2010/07/30/a-split-develops-in-italy-s-governing-people-of-freedom-party-after-a-dispute-between-prime-minister-silvio-berlusconi-and-gianfranco-fini.xml)  
+
 ### [2010-07-30](/news/2010/07/30/index.md)
 
+##### Italy
 # A split develops in Italy's governing People of Freedom Party after a dispute between Prime Minister Silvio Berlusconi and Gianfranco Fini, President of the Chamber of Deputies. 
 
 ROME: Silvio Berlusconi&#039;s government is in danger of collapse, with open warfare breaking out between the Italian Prime Minister and his most senior party colleague.
 
 
-### Source:
+### Sources:
 
 1. [Telegraph and agencies via ''Sydney Morning Herald](http://www.smh.com.au/world/berlusconis-war-with-party-colleague-could-bring-down-government-20100730-10zq9.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/1/0/z/q/y/image.related.thumbnail.320x214.10zq9.png/1280509201000.jpg)

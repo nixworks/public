@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/01/2/south-asian-association-for-regional-cooperation-composed-of-foreign-ministers-from-seven-south-asian-countries-pakistan-india-banglade.html)  [JSON](/news/2004/01/2/south-asian-association-for-regional-cooperation-composed-of-foreign-ministers-from-seven-south-asian-countries-pakistan-india-banglade.json)  [XML](/news/2004/01/2/south-asian-association-for-regional-cooperation-composed-of-foreign-ministers-from-seven-south-asian-countries-pakistan-india-banglade.xml)  
+
 ### [2004-01-2](/news/2004/01/2/index.md)
 
+##### South Asian Association for Regional Cooperation
 #  South Asian Association for Regional Cooperation, composed of foreign ministers from seven south Asian countries (Pakistan, India, Bangladesh, Sri Lanka, Nepal, Maldives and Bhutan) meeting in Islamabad agree to create the South Asian Free Trade Area (SAFTA) by 2006. 
 
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/template/template.asp?template=Indopakfaceoff&slug=Foreign+Ministers+clear+SAFTA+draft&id=13501&callid=0&category=National)
 1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)

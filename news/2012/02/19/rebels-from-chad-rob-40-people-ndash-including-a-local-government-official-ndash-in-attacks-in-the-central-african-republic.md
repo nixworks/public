@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/19/rebels-from-chad-rob-40-people-ndash-including-a-local-government-official-ndash-in-attacks-in-the-central-african-republic.html)  [JSON](/news/2012/02/19/rebels-from-chad-rob-40-people-ndash-including-a-local-government-official-ndash-in-attacks-in-the-central-african-republic.json)  [XML](/news/2012/02/19/rebels-from-chad-rob-40-people-ndash-including-a-local-government-official-ndash-in-attacks-in-the-central-african-republic.xml)  
+
 ### [2012-02-19](/news/2012/02/19/index.md)
 
+##### Chad
 # Rebels from Chad rob 40 people &ndash; including a local government official &ndash; in attacks in the Central African Republic. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/africa/chad-rebels-rob-travellers-1.1237493)
 

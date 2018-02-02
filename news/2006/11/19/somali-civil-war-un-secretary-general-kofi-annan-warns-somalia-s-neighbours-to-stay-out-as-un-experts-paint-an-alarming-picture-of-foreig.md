@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/19/somali-civil-war-un-secretary-general-kofi-annan-warns-somalia-s-neighbours-to-stay-out-as-un-experts-paint-an-alarming-picture-of-foreig.html)  [JSON](/news/2006/11/19/somali-civil-war-un-secretary-general-kofi-annan-warns-somalia-s-neighbours-to-stay-out-as-un-experts-paint-an-alarming-picture-of-foreig.json)  [XML](/news/2006/11/19/somali-civil-war-un-secretary-general-kofi-annan-warns-somalia-s-neighbours-to-stay-out-as-un-experts-paint-an-alarming-picture-of-foreig.xml)  
+
 ### [2006-11-19](/news/2006/11/19/index.md)
 
+##### Somali Civil War
 #  Somali Civil War: UN Secretary-General Kofi Annan warns Somalia's neighbours to stay out, as UN experts paint an alarming picture of foreign and extremist intervention in a nation on the brink of all-out war that could engulf the Horn of Africa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [allAfrica](http://allafrica.com/stories/200611190005.html)
 

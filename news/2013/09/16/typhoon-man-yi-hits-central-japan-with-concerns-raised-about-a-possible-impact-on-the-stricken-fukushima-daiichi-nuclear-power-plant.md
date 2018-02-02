@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/16/typhoon-man-yi-hits-central-japan-with-concerns-raised-about-a-possible-impact-on-the-stricken-fukushima-daiichi-nuclear-power-plant.html)  [JSON](/news/2013/09/16/typhoon-man-yi-hits-central-japan-with-concerns-raised-about-a-possible-impact-on-the-stricken-fukushima-daiichi-nuclear-power-plant.json)  [XML](/news/2013/09/16/typhoon-man-yi-hits-central-japan-with-concerns-raised-about-a-possible-impact-on-the-stricken-fukushima-daiichi-nuclear-power-plant.xml)  
+
 ### [2013-09-16](/news/2013/09/16/index.md)
 
+##### Typhoon Nari
 # Typhoon Man-yi hits central Japan with concerns raised about a possible impact on the stricken Fukushima Daiichi Nuclear Power Plant. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/news/world/typhoon-stokes-fears-for-japans-crippled-fukushima-nuclear-plant/story-e6frg6so-1226720105183)
 

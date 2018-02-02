@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/1/mount-st-helens-in-the-u-s-state-of-washington-awakens-with-a-minor-eruption-of-steam-smoke-and-ash.html)  [JSON](/news/2004/10/1/mount-st-helens-in-the-u-s-state-of-washington-awakens-with-a-minor-eruption-of-steam-smoke-and-ash.json)  [XML](/news/2004/10/1/mount-st-helens-in-the-u-s-state-of-washington-awakens-with-a-minor-eruption-of-steam-smoke-and-ash.xml)  
+
 ### [2004-10-1](/news/2004/10/1/index.md)
 
+##### Mount St. Helens
 #  Mount St. Helens in the U.S. state of Washington awakens, with a minor eruption of steam, smoke, and ash. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2004/TECH/science/10/01/mount.st.helens/index.html)
 2. [Fox News](http://www.foxnews.com/story/0,2933,134186,00.html)

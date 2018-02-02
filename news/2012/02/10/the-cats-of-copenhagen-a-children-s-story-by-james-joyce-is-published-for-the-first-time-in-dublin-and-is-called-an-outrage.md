@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/10/the-cats-of-copenhagen-a-children-s-story-by-james-joyce-is-published-for-the-first-time-in-dublin-and-is-called-an-outrage.html)  [JSON](/news/2012/02/10/the-cats-of-copenhagen-a-children-s-story-by-james-joyce-is-published-for-the-first-time-in-dublin-and-is-called-an-outrage.json)  [XML](/news/2012/02/10/the-cats-of-copenhagen-a-children-s-story-by-james-joyce-is-published-for-the-first-time-in-dublin-and-is-called-an-outrage.xml)  
+
 ### [2012-02-10](/news/2012/02/10/index.md)
 
+##### The Cats of Copenhagen
 # "The Cats of Copenhagen", a children's story by James Joyce, is published for the first time in Dublin, and is called an "outrage". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-16982445)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58435000/jpg/_58435762_58435084.jpg)

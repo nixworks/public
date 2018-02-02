@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/5/in-taiwan-rallies-are-held-in-support-of-candidates-in-elections-to-the-legislative-yuan-party-sources-estimate-that-separate-rallies-hel.html)  [JSON](/news/2004/12/5/in-taiwan-rallies-are-held-in-support-of-candidates-in-elections-to-the-legislative-yuan-party-sources-estimate-that-separate-rallies-hel.json)  [XML](/news/2004/12/5/in-taiwan-rallies-are-held-in-support-of-candidates-in-elections-to-the-legislative-yuan-party-sources-estimate-that-separate-rallies-hel.xml)  
+
 ### [2004-12-5](/news/2004/12/5/index.md)
 
+##### Taiwan
 #  In Taiwan, rallies are held in support of candidates in elections to the Legislative Yuan. Party sources estimate that separate rallies held in Taipei by the Kuomintang and Taiwan Solidarity Union drew around 100,000 each. 
 
 The Taiwan Solidarity Union (TSU) and the Chinese Nationalist Party (KMT) yesterday held simultaneous large-scale campaign parades in Taipei, with no major clashes between supporters of the two rival camps.
 
 
-### Source:
+### Sources:
 
 1. [TaipeiTimes](http://www.taipeitimes.com/News/front/archives/2004/12/06/2003213955)
 2. [VOA](http://www.voanews.com/english/2004-12-05-voa14.cfm)

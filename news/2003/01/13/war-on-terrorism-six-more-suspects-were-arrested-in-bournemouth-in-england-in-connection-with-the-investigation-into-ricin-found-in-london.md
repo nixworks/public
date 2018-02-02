@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/13/war-on-terrorism-six-more-suspects-were-arrested-in-bournemouth-in-england-in-connection-with-the-investigation-into-ricin-found-in-london.html)  [JSON](/news/2003/01/13/war-on-terrorism-six-more-suspects-were-arrested-in-bournemouth-in-england-in-connection-with-the-investigation-into-ricin-found-in-london.json)  [XML](/news/2003/01/13/war-on-terrorism-six-more-suspects-were-arrested-in-bournemouth-in-england-in-connection-with-the-investigation-into-ricin-found-in-london.xml)  
+
 ### [2003-01-13](/news/2003/01/13/index.md)
 
+##### War on Terrorism
 #  War on Terrorism: Six more suspects were arrested in Bournemouth in England in connection with the investigation into ricin found in London. This brings the total of those arrested to eleven.
 
 

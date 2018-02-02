@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/23/va-allows-wiccan-symbols-on-headstones.html)  [JSON](/news/2007/04/23/va-allows-wiccan-symbols-on-headstones.json)  [XML](/news/2007/04/23/va-allows-wiccan-symbols-on-headstones.xml)  
+
 ### [2007-04-23](/news/2007/04/23/index.md)
 
+##### United States Department of Veterans Affairs
 #  VA allows Wiccan symbols on headstones. 
 
 After a lawsuit advocating the usage of Wiccan pentacles on headstones, the US Department of Veterans Affairs added the symbol to its list of approved emblems.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2007/US/04/23/wiccan.grave.ap/index.html)
 2. [Fox](http://www.foxnews.com/story/0,2933,267887,00.html)

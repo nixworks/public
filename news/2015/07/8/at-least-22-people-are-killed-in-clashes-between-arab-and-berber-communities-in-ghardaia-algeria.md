@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/8/at-least-22-people-are-killed-in-clashes-between-arab-and-berber-communities-in-ghardaia-algeria.html)  [JSON](/news/2015/07/8/at-least-22-people-are-killed-in-clashes-between-arab-and-berber-communities-in-ghardaia-algeria.json)  [XML](/news/2015/07/8/at-least-22-people-are-killed-in-clashes-between-arab-and-berber-communities-in-ghardaia-algeria.xml)  
+
 ### [2015-07-8](/news/2015/07/8/index.md)
 
+##### Ghardaia
 # At least 22 people are killed in clashes between Arab and Berber communities in Ghardaia, Algeria. 
 
 At least 22 people have died in clashes between Arabs and Berbers around the Algerian oasis city of Ghardaia, the state news agency says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-33455563)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1136A/production/_84160507_84160506.jpg)

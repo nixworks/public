@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/10/27/the-syrian-observatory-for-human-rights-reports-the-islamic-state-on-sunday-executed-three-detainees-in-the-ancient-syrian-city-of-palmyra.html)  [JSON](/news/2015/10/27/the-syrian-observatory-for-human-rights-reports-the-islamic-state-on-sunday-executed-three-detainees-in-the-ancient-syrian-city-of-palmyra.json)  [XML](/news/2015/10/27/the-syrian-observatory-for-human-rights-reports-the-islamic-state-on-sunday-executed-three-detainees-in-the-ancient-syrian-city-of-palmyra.xml)  
+
 ### [2015-10-27](/news/2015/10/27/index.md)
 
+##### Syrian Civil War
 # The Syrian Observatory for Human Rights reports the Islamic State, on Sunday, executed three detainees in the ancient Syrian city of Palmyra by strapping them to pillars and blowing them up with the antiquities. ISIL has yet to tell locals the identities of the three individuals or say why they had been killed. 
 
-The Islamic State reportedly strapped 3 detainees to ancient pillars, then blew them up.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-34647186)
-2. [USA Today](http://www.usatoday.com/story/news/world/2015/10/27/report-isil-blows-up-prisoners-antiquities/74670628/)
+2. [USA Today](https://www.usatoday.com/story/news/world/2015/10/27/report-isil-blows-up-prisoners-antiquities/74670628/)
 2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

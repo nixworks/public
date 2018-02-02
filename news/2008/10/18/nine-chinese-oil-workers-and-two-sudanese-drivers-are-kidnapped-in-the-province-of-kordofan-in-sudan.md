@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/18/nine-chinese-oil-workers-and-two-sudanese-drivers-are-kidnapped-in-the-province-of-kordofan-in-sudan.html)  [JSON](/news/2008/10/18/nine-chinese-oil-workers-and-two-sudanese-drivers-are-kidnapped-in-the-province-of-kordofan-in-sudan.json)  [XML](/news/2008/10/18/nine-chinese-oil-workers-and-two-sudanese-drivers-are-kidnapped-in-the-province-of-kordofan-in-sudan.xml)  
+
 ### [2008-10-18](/news/2008/10/18/index.md)
 
+##### China
 #  Nine Chinese oil workers and two Sudanese drivers are kidnapped in the province of Kordofan in Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7678829.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/22/pakistan-will-indirectly-elect-a-new-president-of-pakistan-on-september-6-to-replace-pervez-musharraf.html)  [JSON](/news/2008/08/22/pakistan-will-indirectly-elect-a-new-president-of-pakistan-on-september-6-to-replace-pervez-musharraf.json)  [XML](/news/2008/08/22/pakistan-will-indirectly-elect-a-new-president-of-pakistan-on-september-6-to-replace-pervez-musharraf.xml)  
+
 ### [2008-08-22](/news/2008/08/22/index.md)
 
+##### Pakistan
 #  Pakistan will indirectly elect a new President of Pakistan on September 6 to replace Pervez Musharraf. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Australian](http://www.theaustralian.news.com.au/story/0,25197,24223939-2703,00.html)
 

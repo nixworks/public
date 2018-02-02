@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/12/national-amusements-announces-cbs-corporation-a
 
 ### [2016-12-12](/news/2016/12/12/index.md)
 
+##### National Amusements
 # National Amusements announces CBS Corporation and Viacom media companies will not be merging. CBS shares rose 1.8 percent closing in on a nearly 2-1-2 year high while Viacom fell 6.9 percent. 
 
 Media mogul Sumner Redstone and his daughter Shari called off their failed effort to merge CBS Corp (CBS.N) and Viacom Inc (VIAB.O) on Monday, sending shares of Viacom - widely viewed as the weaker company - down almost 8 percent.

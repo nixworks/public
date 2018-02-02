@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/18/in-the-united-states-jpmorgan-chase-agrees-to-pay-307-million-to-settle-federal-cases-where-the-bank-failed-to-disclose-certain-conflicts.html)  [JSON](/news/2015/12/18/in-the-united-states-jpmorgan-chase-agrees-to-pay-307-million-to-settle-federal-cases-where-the-bank-failed-to-disclose-certain-conflicts.json)  [XML](/news/2015/12/18/in-the-united-states-jpmorgan-chase-agrees-to-pay-307-million-to-settle-federal-cases-where-the-bank-failed-to-disclose-certain-conflicts.xml)  
+
 ### [2015-12-18](/news/2015/12/18/index.md)
 
+##### JPMorgan Chase
 # In the United States, JPMorgan Chase agrees to pay $307 million to settle federal cases where the bank failed to disclose certain conflicts of interest to some of its wealth management clients. 
 
 JPMorgan Chase willpay $307 million to settle two U.S. government cases thatcharged the bank with failing to disclose certain conflicts ofinterest to some of its wealth management clients, U.S.regulators said on Friday.
 
 
-### Source:
+### Sources:
 
 1. [Huffington Post](http://www.huffingtonpost.com/entry/jpmorgan-chase-fines_56744228e4b0b958f6566bda)
 2. [Reuters](http://in.reuters.com/article/jpmorgan-sec-settlement-idINL1N1471LF20151218)

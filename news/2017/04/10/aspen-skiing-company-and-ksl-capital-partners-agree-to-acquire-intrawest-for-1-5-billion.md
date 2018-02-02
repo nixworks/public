@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/10/aspen-skiing-company-and-ksl-capital-partners-a
 
 ### [2017-04-10](/news/2017/04/10/index.md)
 
+##### Aspen Skiing Company
 # Aspen Skiing Company and KSL Capital Partners agree to acquire Intrawest for $1.5 billion. 
 
 (Updates Swift Transportation, Anglo American, AT&T, Rent-A-Center, Eskom and Bain Capital; adds Maersk, Whole Foods, Stefanel, Banco and Xcerra)

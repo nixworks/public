@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/15/bo-xilai-is-replaced-as-the-communist-party-boss-in-the-city-of-chongqing-by-3rd-vice-premier-zhang-dejiang-as-a-result-of-an-ideological-di.html)  [JSON](/news/2012/03/15/bo-xilai-is-replaced-as-the-communist-party-boss-in-the-city-of-chongqing-by-3rd-vice-premier-zhang-dejiang-as-a-result-of-an-ideological-di.json)  [XML](/news/2012/03/15/bo-xilai-is-replaced-as-the-communist-party-boss-in-the-city-of-chongqing-by-3rd-vice-premier-zhang-dejiang-as-a-result-of-an-ideological-di.xml)  
+
 ### [2012-03-15](/news/2012/03/15/index.md)
 
+##### Bo Xilai
 # Bo Xilai is replaced as the Communist Party boss in the city of Chongqing by 3rd Vice Premier Zhang Dejiang as a result of an ideological dispute. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052702304459804577282280904864936.html)
 

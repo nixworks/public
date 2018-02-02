@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/2/the-u-s-justice-department-announces-internally-
 
 ### [2017-08-2](/news/2017/08/2/index.md)
 
+##### Affirmative action in the United States
 # The U.S. Justice Department announces internally that it is to start investigating colleges which have admissions policies that are seen as unfair to Asian Americans. 
 
 What is affirmative action? Why is this a big deal? Is the Trump report true?

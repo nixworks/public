@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/16/interim-honduran-president-roberto-micheletti-says-he-is-willing-to-step-down-only-if-jose-manuel-zelaya-ceases-his-claim-to-the-presidenc.html)  [JSON](/news/2009/07/16/interim-honduran-president-roberto-micheletti-says-he-is-willing-to-step-down-only-if-jose-manuel-zelaya-ceases-his-claim-to-the-presidenc.json)  [XML](/news/2009/07/16/interim-honduran-president-roberto-micheletti-says-he-is-willing-to-step-down-only-if-jose-manuel-zelaya-ceases-his-claim-to-the-presidenc.xml)  
+
 ### [2009-07-16](/news/2009/07/16/index.md)
 
+##### Honduras
 #  Interim Honduran President Roberto Micheletti says he is willing to step down, only if Jose Manuel Zelaya ceases his claim to the presidency. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gzeHfUovupNS-J5aqMkNsufTc3cw)
 2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/07/15/honduras.politics/)

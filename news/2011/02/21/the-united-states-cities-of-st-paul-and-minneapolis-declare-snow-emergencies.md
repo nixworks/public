@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/21/the-united-states-cities-of-st-paul-and-minneapolis-declare-snow-emergencies.html)  [JSON](/news/2011/02/21/the-united-states-cities-of-st-paul-and-minneapolis-declare-snow-emergencies.json)  [XML](/news/2011/02/21/the-united-states-cities-of-st-paul-and-minneapolis-declare-snow-emergencies.xml)  
+
 ### [2011-02-21](/news/2011/02/21/index.md)
 
+##### St. Paul
 # The United States cities of St. Paul and Minneapolis declare snow emergencies. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Minnesota Star-Tribune](http://www.startribune.com/local/116562463.html)
 

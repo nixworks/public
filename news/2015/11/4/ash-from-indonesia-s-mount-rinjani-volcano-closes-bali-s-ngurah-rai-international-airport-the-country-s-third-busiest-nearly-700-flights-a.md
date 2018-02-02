@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2015/11/4/ash-from-indonesia-s-mount-rinjani-volcano-closes-bali-s-ngurah-rai-international-airport-the-country-s-third-busiest-nearly-700-flights-a.html)  [JSON](/news/2015/11/4/ash-from-indonesia-s-mount-rinjani-volcano-closes-bali-s-ngurah-rai-international-airport-the-country-s-third-busiest-nearly-700-flights-a.json)  [XML](/news/2015/11/4/ash-from-indonesia-s-mount-rinjani-volcano-closes-bali-s-ngurah-rai-international-airport-the-country-s-third-busiest-nearly-700-flights-a.xml)  
+
 ### [2015-11-4](/news/2015/11/4/index.md)
 
+##### Indonesia
 # Ash from Indonesia's Mount Rinjani volcano closes Bali's Ngurah Rai International Airport, the country's third busiest. Nearly 700 flights are cancelled. Officials will re-evaluate the situation tomorrow. Mount Rinjani started spewing ash last weekend. 
 
 Indonesia has closed Bali airport, one of its busiest international terminals, cancelling hundreds of flights, because of ash spewed by a volcano on a nearby island, authorities said on Wednesday.
 
 
-### Source:
+### Sources:
 
 1. [International Business Times](http://www.ibtimes.com/mount-rinjani-eruption-indonesia-leads-bali-airport-closure-several-flights-cancelled-2168332)
-2. [Reuters](http://www.reuters.com/article/2015/11/04/us-indonesia-volcano-airport-idUSKCN0ST0LR20151104#ESFc86PW5SKoCcQM.97)
-2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151104&t=2&i=1092152460&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA308Z)
+2. [Reuters](https://www.reuters.com/article/2015/11/04/us-indonesia-volcano-airport-idUSKCN0ST0LR20151104#ESFc86PW5SKoCcQM.97)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20151104&t=2&i=1092152460&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA308Z)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/10/laos-announces-the-results-of-elections-to-its-one-party-parliament.html)  [JSON](/news/2011/05/10/laos-announces-the-results-of-elections-to-its-one-party-parliament.json)  [XML](/news/2011/05/10/laos-announces-the-results-of-elections-to-its-one-party-parliament.xml)  
+
 ### [2011-05-10](/news/2011/05/10/index.md)
 
+##### Laos
 # Laos announces the results of elections to its one-party parliament. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/energyOilNews/idAFL3E7G421D20110510?sp=true)
 

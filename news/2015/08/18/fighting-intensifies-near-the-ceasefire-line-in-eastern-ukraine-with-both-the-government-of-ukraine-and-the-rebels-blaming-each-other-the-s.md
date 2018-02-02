@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2015/08/18/fighting-intensifies-near-the-ceasefire-line-in-eastern-ukraine-with-both-the-government-of-ukraine-and-the-rebels-blaming-each-other-the-s.html)  [JSON](/news/2015/08/18/fighting-intensifies-near-the-ceasefire-line-in-eastern-ukraine-with-both-the-government-of-ukraine-and-the-rebels-blaming-each-other-the-s.json)  [XML](/news/2015/08/18/fighting-intensifies-near-the-ceasefire-line-in-eastern-ukraine-with-both-the-government-of-ukraine-and-the-rebels-blaming-each-other-the-s.xml)  
+
 ### [2015-08-18](/news/2015/08/18/index.md)
 
+##### War in Donbass
 # Fighting intensifies near the ceasefire line in eastern Ukraine with both the Government of Ukraine and the rebels blaming each other. The separatist-held cities of Donetsk and Horlivka have been bombed with hundreds of shells and rockets in the last 72 hours. 
 
+Fighting between government forces and Russian-backed rebels in eastern Ukraine has escalated sharply in recent days, with each side blaming the other for the violence.
 
 
+### Sources:
 
-### Source:
+1. [The New York Times](https://www.nytimes.com/2015/08/19/world/europe/fighting-intensifies-along-eastern-ukraine-cease-fire-line.html?partner=rss&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/2015/08/19/world/19ukraine-web/19ukraine-web-facebookJumbo.jpg)
 
-1. [The New York Times](http://www.nytimes.com/2015/08/19/world/europe/fighting-intensifies-along-eastern-ukraine-cease-fire-line.html?partner=rss&emc=rss)
+### Changes:
+
+1. [War in Donbass: Fighting intensifies near the ceasefire line in eastern Ukraine with both the Government of Ukraine and the rebels blaming each other. The separatist-held cities of Donetsk and Horlivka have been bombed with hundreds of shells and rockets in the last 72 hours. ](/news/2015/08/18/war-in-donbass-fighting-intensifies-near-the-ceasefire-line-in-eastern-ukraine-with-both-the-government-of-ukraine-and-the-rebels-blaming-e.md) _2017-08-27 03:42:51 (First version)_
+1. [Fighting intensifies near the ceasefire line in eastern Ukraine with both the Government of Ukraine and the rebels blaming each other. The separatist-held cities of Donetsk and Horlivka have been bombed with hundreds of shells and rockets in the last 72 hours. ](/news/2015/08/18/fighting-intensifies-near-the-ceasefire-line-in-eastern-ukraine-with-both-the-government-of-ukraine-and-the-rebels-blaming-each-other-the-s.md) _(Current version)_
 
 ### Related:
 
@@ -15,9 +25,4 @@
 2. [Luhansk People's Republic officials in Donetsk tell U.N. agencies and several other international NGOs to leave the Luhansk region in eastern Ukraine. Despite the Minsk Protocol and Minsk II peace agreements low intensity fighting and shelling have continued non-stop in the region for over a year. ](/news/2015/09/24/luhansk-people-s-republic-officials-in-donetsk-tell-u-n-agencies-and-several-other-international-ngos-to-leave-the-luhansk-region-in-easter.md) _Context: Donetsk, Ukraine, War in Donbass_
 3. [A huge explosion occurs in a rubber factory in the rebel held city of Donetsk with the Russian media claiming it was caused by a missile. The Government of Ukraine denies the charges. ](/news/2014/10/20/a-huge-explosion-occurs-in-a-rubber-factory-in-the-rebel-held-city-of-donetsk-with-the-russian-media-claiming-it-was-caused-by-a-missile-th.md) _Context: Donetsk, Government of Ukraine, War in Donbass_
 4. [A rocket attack by pro-Russian separatists in eastern Ukraine kills 10 civilians and injures 12 others in the village of Nyzhnya Krynka near Donetsk. ](/news/2014/09/17/a-rocket-attack-by-pro-russian-separatists-in-eastern-ukraine-kills-10-civilians-and-injures-12-others-in-the-village-of-nyzhnya-krynka-near.md) _Context: Donetsk, Ukraine, War in Donbass_
-5. [Thirty thousand people are evacuated from Kalynivka, Ukraine, following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-from-kalynivka-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-gov.md) _Context: Government of Ukraine, Ukraine_
-
-### Changes:
-
-1. [War in Donbass: Fighting intensifies near the ceasefire line in eastern Ukraine with both the Government of Ukraine and the rebels blaming each other. The separatist-held cities of Donetsk and Horlivka have been bombed with hundreds of shells and rockets in the last 72 hours. ](/news/2015/08/18/war-in-donbass-fighting-intensifies-near-the-ceasefire-line-in-eastern-ukraine-with-both-the-government-of-ukraine-and-the-rebels-blaming-e.md) _2017-08-27 03:42:51 (First version)_
-1. [Fighting intensifies near the ceasefire line in eastern Ukraine with both the Government of Ukraine and the rebels blaming each other. The separatist-held cities of Donetsk and Horlivka have been bombed with hundreds of shells and rockets in the last 72 hours. ](/news/2015/08/18/fighting-intensifies-near-the-ceasefire-line-in-eastern-ukraine-with-both-the-government-of-ukraine-and-the-rebels-blaming-each-other-the-s.md) _(Current version)_
+5. [Ukraine exchanges hundreds of prisoners with the Donetsk People's Republic and Luhansk People's Republic. ](/news/2017/12/27/ukraine-exchanges-hundreds-of-prisoners-with-the-donetsk-people-s-republic-and-luhansk-people-s-republic.md) _Context: Ukraine, War in Donbass_

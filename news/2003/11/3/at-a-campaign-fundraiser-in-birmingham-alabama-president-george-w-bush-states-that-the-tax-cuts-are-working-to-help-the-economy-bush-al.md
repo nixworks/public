@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/3/at-a-campaign-fundraiser-in-birmingham-alabama-president-george-w-bush-states-that-the-tax-cuts-are-working-to-help-the-economy-bush-al.html)  [JSON](/news/2003/11/3/at-a-campaign-fundraiser-in-birmingham-alabama-president-george-w-bush-states-that-the-tax-cuts-are-working-to-help-the-economy-bush-al.json)  [XML](/news/2003/11/3/at-a-campaign-fundraiser-in-birmingham-alabama-president-george-w-bush-states-that-the-tax-cuts-are-working-to-help-the-economy-bush-al.xml)  
+
 ### [2003-11-3](/news/2003/11/3/index.md)
 
+##### Birmingham
 #  At a campaign fundraiser in Birmingham, Alabama, President George W. Bush states that the tax cuts are working to help the economy. Bush also vows that the coalition forces will stay in Iraq. The president states the deaths of 15 soldiers in an attack on a helicopter will not deter the United States. Bush states, "The enemy in Iraq believes America will run. That's why they're willing to kill innocent civilians, relief workers, coalition troops. America will never run."
 
 

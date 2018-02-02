@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/1/the-pittsburgh-steelers-defeat-the-arizona-cardinals-27-23-to-win-super-bowl-xliii.html)  [JSON](/news/2009/02/1/the-pittsburgh-steelers-defeat-the-arizona-cardinals-27-23-to-win-super-bowl-xliii.json)  [XML](/news/2009/02/1/the-pittsburgh-steelers-defeat-the-arizona-cardinals-27-23-to-win-super-bowl-xliii.xml)  
+
 ### [2009-02-1](/news/2009/02/1/index.md)
 
+##### Pittsburgh Steelers
 #  The Pittsburgh Steelers defeat the Arizona Cardinals 27-23 to win Super Bowl XLIII. 
 
 Capping a remarkable fourth quarter, Santonio Holmes made a brilliant catch for a 6-yard touchdown with 35 seconds remaining to give the Pittsburgh Steelers a record sixth Super Bowl title, 27-23 over the gutty Arizona Cardinals on Sunday night.
 
 
-### Source:
+### Sources:
 
 1. [ESPN.com](http://sports.espn.go.com/nfl/recap?gameId=290201022&campaign=rss&source=ESPNHeadlines)
 1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)

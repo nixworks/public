@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/29/the-national-indian-foundation-publishes-photographs-of-a-tribe-of-uncontacted-peoples-in-a-remote-area-of-amazonia.html)  [JSON](/news/2008/05/29/the-national-indian-foundation-publishes-photographs-of-a-tribe-of-uncontacted-peoples-in-a-remote-area-of-amazonia.json)  [XML](/news/2008/05/29/the-national-indian-foundation-publishes-photographs-of-a-tribe-of-uncontacted-peoples-in-a-remote-area-of-amazonia.xml)  
+
 ### [2008-05-29](/news/2008/05/29/index.md)
 
+##### FundacGBPo Nacional do Indio
 #  The National Indian Foundation publishes photographs of a tribe of uncontacted peoples in a remote area of Amazonia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/americas/05/30/brazil.tribes/index.html)
 

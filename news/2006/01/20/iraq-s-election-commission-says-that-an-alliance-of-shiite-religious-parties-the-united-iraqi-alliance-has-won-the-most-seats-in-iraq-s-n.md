@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/20/iraq-s-election-commission-says-that-an-alliance-of-shiite-religious-parties-the-united-iraqi-alliance-has-won-the-most-seats-in-iraq-s-n.html)  [JSON](/news/2006/01/20/iraq-s-election-commission-says-that-an-alliance-of-shiite-religious-parties-the-united-iraqi-alliance-has-won-the-most-seats-in-iraq-s-n.json)  [XML](/news/2006/01/20/iraq-s-election-commission-says-that-an-alliance-of-shiite-religious-parties-the-united-iraqi-alliance-has-won-the-most-seats-in-iraq-s-n.xml)  
+
 ### [2006-01-20](/news/2006/01/20/index.md)
 
+##### Iraq
 #  Iraq's election commission says that an alliance of Shiite religious parties, the United Iraqi Alliance, has won the most seats in Iraq's new National Assembly after the December 2005 legislative elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS](http://www.cbsnews.com/sections/world/main202.shtml)
 

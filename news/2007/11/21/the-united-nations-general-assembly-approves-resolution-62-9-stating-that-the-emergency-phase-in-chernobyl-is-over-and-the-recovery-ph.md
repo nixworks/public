@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/21/the-united-nations-general-assembly-approves-resolution-62-9-stating-that-the-emergency-phase-in-chernobyl-is-over-and-the-recovery-ph.html)  [JSON](/news/2007/11/21/the-united-nations-general-assembly-approves-resolution-62-9-stating-that-the-emergency-phase-in-chernobyl-is-over-and-the-recovery-ph.json)  [XML](/news/2007/11/21/the-united-nations-general-assembly-approves-resolution-62-9-stating-that-the-emergency-phase-in-chernobyl-is-over-and-the-recovery-ph.xml)  
+
 ### [2007-11-21](/news/2007/11/21/index.md)
 
+##### United Nations
 #  The United Nations General Assembly approves Resolution 62-9, stating that the "emergency phase" in Chernobyl is over, and the "recovery phase" should start. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7105273.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/4/the-vatican-announces-that-pope-john-paul-ii-s-funeral-is-to-take-place-on-the-morning-of-april-8-and-that-he-is-to-be-buried-in-the-crypt.html)  [JSON](/news/2005/04/4/the-vatican-announces-that-pope-john-paul-ii-s-funeral-is-to-take-place-on-the-morning-of-april-8-and-that-he-is-to-be-buried-in-the-crypt.json)  [XML](/news/2005/04/4/the-vatican-announces-that-pope-john-paul-ii-s-funeral-is-to-take-place-on-the-morning-of-april-8-and-that-he-is-to-be-buried-in-the-crypt.xml)  
+
 ### [2005-04-4](/news/2005/04/4/index.md)
 
+##### Holy See
 #  The Vatican announces that Pope John Paul II's funeral is to take place on the morning of April 8 and that he is to be buried in the crypt of Saint Peter in the Vatican. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/pope/story/0,12272,1451919,00.html)
 

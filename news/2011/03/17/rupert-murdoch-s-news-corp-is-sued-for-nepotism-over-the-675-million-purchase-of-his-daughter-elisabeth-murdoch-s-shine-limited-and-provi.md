@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/17/rupert-murdoch-s-news-corp-is-sued-for-nepotism-over-the-675-million-purchase-of-his-daughter-elisabeth-murdoch-s-shine-limited-and-provi.html)  [JSON](/news/2011/03/17/rupert-murdoch-s-news-corp-is-sued-for-nepotism-over-the-675-million-purchase-of-his-daughter-elisabeth-murdoch-s-shine-limited-and-provi.json)  [XML](/news/2011/03/17/rupert-murdoch-s-news-corp-is-sued-for-nepotism-over-the-675-million-purchase-of-his-daughter-elisabeth-murdoch-s-shine-limited-and-provi.xml)  
+
 ### [2011-03-17](/news/2011/03/17/index.md)
 
+##### Rupert Murdoch
 # Rupert Murdoch's News Corp is sued for nepotism over the $675 million purchase of his daughter, Elisabeth Murdoch's, Shine Limited and providing a seat for her on the board. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-12771254)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

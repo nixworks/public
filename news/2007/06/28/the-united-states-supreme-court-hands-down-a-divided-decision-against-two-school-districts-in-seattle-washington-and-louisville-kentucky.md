@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/28/the-united-states-supreme-court-hands-down-a-divided-decision-against-two-school-districts-in-seattle-washington-and-louisville-kentucky.html)  [JSON](/news/2007/06/28/the-united-states-supreme-court-hands-down-a-divided-decision-against-two-school-districts-in-seattle-washington-and-louisville-kentucky.json)  [XML](/news/2007/06/28/the-united-states-supreme-court-hands-down-a-divided-decision-against-two-school-districts-in-seattle-washington-and-louisville-kentucky.xml)  
+
 ### [2007-06-28](/news/2007/06/28/index.md)
 
+##### United States Supreme Court
 #  The United States Supreme Court hands down a divided decision against two school districts in Seattle, Washington and Louisville, Kentucky, saying the districts' plans to admit students to schools based partially on their race violates constitutional guarantees of equal protection. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2007/LAW/06/28/scotus.race/index.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/15/nabil-el-araby-is-elected-as-secretary-general-of-the-arab-league-succeeding-amr-moussa-who-will-run-as-a-candidate-in-the-egyptian-presid.html)  [JSON](/news/2011/05/15/nabil-el-araby-is-elected-as-secretary-general-of-the-arab-league-succeeding-amr-moussa-who-will-run-as-a-candidate-in-the-egyptian-presid.json)  [XML](/news/2011/05/15/nabil-el-araby-is-elected-as-secretary-general-of-the-arab-league-succeeding-amr-moussa-who-will-run-as-a-candidate-in-the-egyptian-presid.xml)  
+
 ### [2011-05-15](/news/2011/05/15/index.md)
 
+##### Nabil el-Araby
 # Nabil el-Araby is elected as Secretary General of the Arab League, succeeding Amr Moussa, who will run as a candidate in the Egyptian presidential election in September. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://www.press.tv)
 

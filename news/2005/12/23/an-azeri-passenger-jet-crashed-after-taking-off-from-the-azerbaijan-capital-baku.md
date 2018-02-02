@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/23/an-azeri-passenger-jet-crashed-after-taking-off-from-the-azerbaijan-capital-baku.html)  [JSON](/news/2005/12/23/an-azeri-passenger-jet-crashed-after-taking-off-from-the-azerbaijan-capital-baku.json)  [XML](/news/2005/12/23/an-azeri-passenger-jet-crashed-after-taking-off-from-the-azerbaijan-capital-baku.xml)  
+
 ### [2005-12-23](/news/2005/12/23/index.md)
 
+##### Azerbaijan
 #  An Azeri passenger jet crashed after taking off from the Azerbaijan capital, Baku. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4557116.stm)
 

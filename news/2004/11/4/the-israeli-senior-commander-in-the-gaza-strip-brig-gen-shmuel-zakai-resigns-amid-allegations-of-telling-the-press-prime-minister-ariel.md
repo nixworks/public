@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/4/the-israeli-senior-commander-in-the-gaza-strip-brig-gen-shmuel-zakai-resigns-amid-allegations-of-telling-the-press-prime-minister-ariel.html)  [JSON](/news/2004/11/4/the-israeli-senior-commander-in-the-gaza-strip-brig-gen-shmuel-zakai-resigns-amid-allegations-of-telling-the-press-prime-minister-ariel.json)  [XML](/news/2004/11/4/the-israeli-senior-commander-in-the-gaza-strip-brig-gen-shmuel-zakai-resigns-amid-allegations-of-telling-the-press-prime-minister-ariel.xml)  
+
 ### [2004-11-4](/news/2004/11/4/index.md)
 
+##### Israel
 #  The Israeli senior commander in the Gaza Strip, Brig. Gen. Shmuel Zakai, resigns amid allegations of telling the press Prime Minister Ariel Sharon ordered to increase Operation Days of Penitence on Day 14 while the army considered the operation extracted itself. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3982895.stm)
 

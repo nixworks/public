@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/06/23/the-government-of-antigua-and-barbuda-dismisses-its-chief-financial-regulator-leroy-king-following-claims-of-a-collaboration-with-allen-s.html)  [JSON](/news/2009/06/23/the-government-of-antigua-and-barbuda-dismisses-its-chief-financial-regulator-leroy-king-following-claims-of-a-collaboration-with-allen-s.json)  [XML](/news/2009/06/23/the-government-of-antigua-and-barbuda-dismisses-its-chief-financial-regulator-leroy-king-following-claims-of-a-collaboration-with-allen-s.xml)  
+
 ### [2009-06-23](/news/2009/06/23/index.md)
 
+##### Antigua and Barbuda
 #  The government of Antigua and Barbuda dismisses its chief financial regulator, Leroy King, following claims of a collaboration with Allen Stanford. 
 
 The Antigua and Barbuda government has dismissed its chief financial regulator, Leroy King.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0623/antigua.html)
-2. [The New York Times](http://www.nytimes.com/2009/06/24/business/global/24stanford.html?ref=global)
+2. [The New York Times](https://www.nytimes.com/2009/06/24/business/global/24stanford.html?ref=global)
 2. [Cover Image](https://img.rasset.ie/00023466-1600.jpg)
 
 ### Related:

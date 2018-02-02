@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/19/at-least-13-egyptian-policemen-are-killed-after
 
 ### [2016-03-19](/news/2016/03/19/index.md)
 
+##### Sinai insurgency
 # At least 13 Egyptian policemen are killed after a security checkpoint in the city of Arish, North Sinai Governorate, came under attack by militants. Ambulances were reportedly subjected to heavy gunfire as they attempted to reach the wounded. The Islamic State's Sinai branch claimed responsibility for the attack. 
 
 At least 13 Egyptian policemen were killed in the Sinai Peninsula when Islamist militants fired a mortar round at a security checkpoint in the city of Arish, security and medical sources said on Saturday.

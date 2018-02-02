@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/6/the-president-of-the-united-states-barack-obama-says-that-a-deal-has-been-reached-with-the-republican-party-to-extend-the-bush-era-tax-cuts.html)  [JSON](/news/2010/12/6/the-president-of-the-united-states-barack-obama-says-that-a-deal-has-been-reached-with-the-republican-party-to-extend-the-bush-era-tax-cuts.json)  [XML](/news/2010/12/6/the-president-of-the-united-states-barack-obama-says-that-a-deal-has-been-reached-with-the-republican-party-to-extend-the-bush-era-tax-cuts.xml)  
+
 ### [2010-12-6](/news/2010/12/6/index.md)
 
+##### U.S. President
 # The President of the United States Barack Obama says that a deal has been reached with the Republican Party to extend the Bush era tax cuts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11933043)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

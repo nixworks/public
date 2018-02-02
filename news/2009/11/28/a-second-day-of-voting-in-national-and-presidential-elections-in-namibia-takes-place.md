@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/28/a-second-day-of-voting-in-national-and-presidential-elections-in-namibia-takes-place.html)  [JSON](/news/2009/11/28/a-second-day-of-voting-in-national-and-presidential-elections-in-namibia-takes-place.json)  [XML](/news/2009/11/28/a-second-day-of-voting-in-national-and-presidential-elections-in-namibia-takes-place.xml)  
+
 ### [2009-11-28](/news/2009/11/28/index.md)
 
+##### elections last week
 #  A second day of voting in national and presidential elections in Namibia takes place. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jCL0WKCJMktqgrinTTjDO1xqO_Hg)
 

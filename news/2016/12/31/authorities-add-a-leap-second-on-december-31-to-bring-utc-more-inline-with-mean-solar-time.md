@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/12/31/authorities-add-a-leap-second-on-december-31-to-bring-utc-more-inline-with-mean-solar-time.html)  [JSON](/news/2016/12/31/authorities-add-a-leap-second-on-december-31-to-bring-utc-more-inline-with-mean-solar-time.json)  [XML](/news/2016/12/31/authorities-add-a-leap-second-on-december-31-to-bring-utc-more-inline-with-mean-solar-time.xml)  
+
 ### [2016-12-31](/news/2016/12/31/index.md)
 
+##### leap second
 # Authorities add a leap second on December 31 to bring UTC more inline with mean solar time. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-38470682)
 2. [Physics Org](http://phys.org/news/2016-12-year-eve-extra.html)

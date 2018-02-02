@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/27/in-the-2004-serbian-presidential-election-boris-tadic-defeats-tomislav-nikolic-in-the-run-off-with-53-7-to-45-0-of-the-votes.html)  [JSON](/news/2004/06/27/in-the-2004-serbian-presidential-election-boris-tadic-defeats-tomislav-nikolic-in-the-run-off-with-53-7-to-45-0-of-the-votes.json)  [XML](/news/2004/06/27/in-the-2004-serbian-presidential-election-boris-tadic-defeats-tomislav-nikolic-in-the-run-off-with-53-7-to-45-0-of-the-votes.xml)  
+
 ### [2004-06-27](/news/2004/06/27/index.md)
 
+##### Serbian presidential election, 2004
 #  In the 2004 Serbian presidential election, Boris Tadic defeats Tomislav Nikolic in the run-off, with 53.7% to 45.0% of the votes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/wire/World/ap20040627_1119.html)
 

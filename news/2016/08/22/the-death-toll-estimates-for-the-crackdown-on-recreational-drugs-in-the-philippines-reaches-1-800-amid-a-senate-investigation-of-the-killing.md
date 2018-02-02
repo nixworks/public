@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/22/the-death-toll-estimates-for-the-crackdown-on-r
 
 ### [2016-08-22](/news/2016/08/22/index.md)
 
+##### drug crackdown
 # The death toll estimates for the crackdown on recreational drugs in the Philippines reaches 1,800 amid a senate investigation of the killings. 
 
 Senator Leila de Lima, a staunch critic of the president, started a two-day congressional inquiry into the &quot;unprecedented&quot; killings.

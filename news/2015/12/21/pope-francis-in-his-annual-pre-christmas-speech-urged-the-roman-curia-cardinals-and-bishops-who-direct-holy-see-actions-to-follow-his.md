@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/21/pope-francis-in-his-annual-pre-christmas-speech-urged-the-roman-curia-cardinals-and-bishops-who-direct-holy-see-actions-to-follow-his.html)  [JSON](/news/2015/12/21/pope-francis-in-his-annual-pre-christmas-speech-urged-the-roman-curia-cardinals-and-bishops-who-direct-holy-see-actions-to-follow-his.json)  [XML](/news/2015/12/21/pope-francis-in-his-annual-pre-christmas-speech-urged-the-roman-curia-cardinals-and-bishops-who-direct-holy-see-actions-to-follow-his.xml)  
+
 ### [2015-12-21](/news/2015/12/21/index.md)
 
+##### Pope Francis
 # Pope Francis, in his annual pre-Christmas speech, urged the Roman Curia (cardinals and bishops who direct Holy See actions), to follow his "catalogue of virtues," e.g., to show more maturity, honesty, humility, and sobriety in their tasks. He listed "Curial antibiotics" to treat the "15 ailments of the Curia" he outlined last year and which still plague the Vatican. 
 
 Flu-stricken pope issues Christmas &#39;catalogue of virtues&#39; to Curia after 2014 dressing down
 
 
-### Source:
+### Sources:
 
 1. [AP via Berlin Record](http://www.therecord.com/news-story/6202934-flu-stricken-pope-issues-catalogue-of-virtues-to-curia/)
 2. [National Catholic Reporter](http://ncronline.org/news/vatican/francis-exhorts-vatican-prelates-be-more-mature-recognize-smallness-work)

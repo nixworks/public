@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2005/05/31/police-in-israel-say-they-have-uncovered-an-industrial-espionage-plot-involving-15-israeli-firms-trojan-horse-computer-viruses-are-believe.html)  [JSON](/news/2005/05/31/police-in-israel-say-they-have-uncovered-an-industrial-espionage-plot-involving-15-israeli-firms-trojan-horse-computer-viruses-are-believe.json)  [XML](/news/2005/05/31/police-in-israel-say-they-have-uncovered-an-industrial-espionage-plot-involving-15-israeli-firms-trojan-horse-computer-viruses-are-believe.xml)  
+
 ### [2005-05-31](/news/2005/05/31/index.md)
 
+##### Police
 #  Police in Israel say they have uncovered an Industrial espionage plot involving 15 Israeli firms. Trojan horse computer viruses are believed to have been used to hack into rivals' systems and 20 people have so far been arrested. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4594255.stm)
 
 ### Related:
 
-1. [Around 300 Bedouins living in "illegal settlements" in Israel's Negev desert have been made homeless after police raided their village and razed their homes. They are to be resettled in Rahat. ](/news/2010/07/28/around-300-bedouins-living-in-illegal-settlements-in-israel-s-negev-desert-have-been-made-homeless-after-police-raided-their-village-and-r.md) _Context: Israel, police_
-2. [ Two Israeli soldiers have claimed that they were ordered to kill Palestinian police officers following the deaths of six Israeli soldiers. ](/news/2005/06/3/two-israeli-soldiers-have-claimed-that-they-were-ordered-to-kill-palestinian-police-officers-following-the-deaths-of-six-israeli-soldiers.md) _Context: Israel, police_
-3. [ During a raid in Gaza Israeli troops kill a police captain and wound 15 people, in an area that is used to fire Qassam rockets into Israeli towns. ](/news/2004/05/5/during-a-raid-in-gaza-israeli-troops-kill-a-police-captain-and-wound-15-people-in-an-area-that-is-used-to-fire-qassam-rockets-into-israeli.md) _Context: Israel, police_
-4. [ Apple Computer is investigating a reported security flaw in Mac OS X operating system that could allow hackers to trick Macs into opening dangerous files, such as Trojan horses and viruses. ](/news/2004/04/11/apple-computer-is-investigating-a-reported-security-flaw-in-mac-os-x-operating-system-that-could-allow-hackers-to-trick-macs-into-opening-d.md) _Context: Trojan horse, hackers_
-5. [The United States Trump administration and the government of Israel announce their plans to withdraw as members of UNESCO. ](/news/2017/10/12/the-united-states-trump-administration-and-the-government-of-israel-announce-their-plans-to-withdraw-as-members-of-unesco.md) _Context: Israel_
+1. [ Apple Computer is investigating a reported security flaw in Mac OS X operating system that could allow hackers to trick Macs into opening dangerous files, such as Trojan horses and viruses. ](/news/2004/04/11/apple-computer-is-investigating-a-reported-security-flaw-in-mac-os-x-operating-system-that-could-allow-hackers-to-trick-macs-into-opening-d.md) _Context: Trojan horse, hackers_
+2. [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md) _Context: Israel_
+3. [U.S. President Donald Trump threatens to stop aid to Palestine if they do not agree to partake in peace talks with Israel. ](/news/2018/01/25/u-s-president-donald-trump-threatens-to-stop-aid-to-palestine-if-they-do-not-agree-to-partake-in-peace-talks-with-israel.md) _Context: Israel_
+4. [Abdullah II of Jordan tells U.S. Vice President Mike Pence the U.S. has to rebuild "trust and confidence" to achieve a two-state solution in Israel after the U.S. recognized Jerusalem as Israel's capital. ](/news/2018/01/21/abdullah-ii-of-jordan-tells-u-s-vice-president-mike-pence-the-u-s-has-to-rebuild-trust-and-confidence-to-achieve-a-two-state-solution-in.md) _Context: Israel_
+5. [President Donald Trump tweets that the U.S. may withhold future payments to the Palestinian authority, over 350 million dollars per year, because they are "no longer willing to talk peace" with Israel, and that Israel "would have had to pay more" in return for his recognition of Jerusalem as Israel's capital. ](/news/2018/01/2/president-donald-trump-tweets-that-the-u-s-may-withhold-future-payments-to-the-palestinian-authority-over-350-million-dollars-per-year-be.md) _Context: Israel_

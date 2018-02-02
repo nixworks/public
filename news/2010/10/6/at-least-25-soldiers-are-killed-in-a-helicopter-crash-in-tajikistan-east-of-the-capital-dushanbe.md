@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/6/at-least-25-soldiers-are-killed-in-a-helicopter-crash-in-tajikistan-east-of-the-capital-dushanbe.html)  [JSON](/news/2010/10/6/at-least-25-soldiers-are-killed-in-a-helicopter-crash-in-tajikistan-east-of-the-capital-dushanbe.json)  [XML](/news/2010/10/6/at-least-25-soldiers-are-killed-in-a-helicopter-crash-in-tajikistan-east-of-the-capital-dushanbe.xml)  
+
 ### [2010-10-6](/news/2010/10/6/index.md)
 
+##### Tajikistan
 # At least 25 soldiers are killed in a helicopter crash in Tajikistan, east of the capital Dushanbe. 
 
 Military sources in Tajikistan say at least 25 soldiers have been killed in a helicopter crash in the east of the country.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11490167)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/07/c_13544878.htm)

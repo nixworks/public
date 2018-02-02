@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/12/the-south-korean-news-agency-yonhap-reports-that-on-september-9-or-possibly-8-there-was-an-explosion-in-the-north-korean-province-of-ryan.html)  [JSON](/news/2004/09/12/the-south-korean-news-agency-yonhap-reports-that-on-september-9-or-possibly-8-there-was-an-explosion-in-the-north-korean-province-of-ryan.json)  [XML](/news/2004/09/12/the-south-korean-news-agency-yonhap-reports-that-on-september-9-or-possibly-8-there-was-an-explosion-in-the-north-korean-province-of-ryan.xml)  
+
 ### [2004-09-12](/news/2004/09/12/index.md)
 
+##### South Korea
 #  The South Korean news agency Yonhap reports that on September 9 (or possibly 8) there was an explosion in the North Korean province of Ryanggang massive enough to produce a mushroom cloud 3.5&ndash;4.0 km (2.0&ndash;2.5 miles) in diameter. National security officials worldwide are hesitant to classify it as a nuclear explosion 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://story.news.yahoo.com/news?tmpl=story&u=/ap/20040912/ap_on_re_as/nkorea_explosion)
 2. [CNN](http://www.cnn.com/2004/WORLD/asiapcf/09/12/nkorea.blast/index.html)

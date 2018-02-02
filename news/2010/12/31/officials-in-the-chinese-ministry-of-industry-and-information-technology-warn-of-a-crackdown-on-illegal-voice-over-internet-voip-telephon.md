@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/31/officials-in-the-chinese-ministry-of-industry-and-information-technology-warn-of-a-crackdown-on-illegal-voice-over-internet-voip-telephon.html)  [JSON](/news/2010/12/31/officials-in-the-chinese-ministry-of-industry-and-information-technology-warn-of-a-crackdown-on-illegal-voice-over-internet-voip-telephon.json)  [XML](/news/2010/12/31/officials-in-the-chinese-ministry-of-industry-and-information-technology-warn-of-a-crackdown-on-illegal-voice-over-internet-voip-telephon.xml)  
+
 ### [2010-12-31](/news/2010/12/31/index.md)
 
+##### China
 # Officials in the Chinese Ministry of Industry and Information Technology warn of a crackdown on "illegal" voice-over-Internet(VoIP) telephony services that are not licensed or approved by the country's telecoms regulator. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RFA](http://www.rfa.org/english/news/china/telephone-12312010143756.html)
 

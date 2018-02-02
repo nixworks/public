@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/31/iran-blocks-access-to-telegram-and-instagram-as
 
 ### [2017-12-31](/news/2017/12/31/index.md)
 
+##### 2017 Iranian protests
 # Iran blocks access to Telegram and Instagram as the largest anti-government protests since 2009 continue. 
 
 
@@ -16,7 +17,7 @@ Formats: [HTML](/news/2017/12/31/iran-blocks-access-to-telegram-and-instagram-as
 ### Related:
 
 1. [Two protesters are shot dead by Iranian police in Dorud, Lorestan Province, as anti-government protests spread across the country. ](/news/2017/12/30/two-protesters-are-shot-dead-by-iranian-police-in-dorud-lorestan-province-as-anti-government-protests-spread-across-the-country.md) _Context: 2017 Iranian protests, Iran_
-2. [Iran enforces a ban on teaching English in elementary schools. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools.md) _Context: Iran_
-3. [The U.S. Treasury sanctions five Iranian entities associated with Iran's ballistic missile program. ](/news/2018/01/4/the-u-s-treasury-sanctions-five-iranian-entities-associated-with-iran-s-ballistic-missile-program.md) _Context: Iran_
-4. [U.S. President Donald Trump says he is extending sanctions relief for Iran one last time so Europe and the U.S. can fix the nuclear deal's "terrible flaws". ](/news/2018/01/13/u-s-president-donald-trump-says-he-is-extending-sanctions-relief-for-iran-one-last-time-so-europe-and-the-u-s-can-fix-the-nuclear-deal-s.md) _Context: Iran_
-5. [Anti-government demonstrators have taken to the streets of Iran for a second day, with protests being held in a number of cities. ](/news/2017/12/29/anti-government-demonstrators-have-taken-to-the-streets-of-iran-for-a-second-day-with-protests-being-held-in-a-number-of-cities.md) _Context: 2017 Iranian protests_
+2. [Apple Inc. removes the Telegram messaging service from its iOS App Store. Telegram CEO Pavel Durov says Apple claims "inappropriate content" is available on the service. Many members of extremist groups used the program's security encryption features to avoid law enforcement. ](/news/2018/02/1/apple-inc-removes-the-telegram-messaging-service-from-its-ios-app-store-telegram-ceo-pavel-durov-says-apple-claims-inappropriate-content.md) _Context: Telegram_
+3. [Iran enforces a ban on teaching English in elementary schools. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools.md) _Context: Iran_
+4. [The U.S. Treasury sanctions five Iranian entities associated with Iran's ballistic missile program. ](/news/2018/01/4/the-u-s-treasury-sanctions-five-iranian-entities-associated-with-iran-s-ballistic-missile-program.md) _Context: Iran_
+5. [U.S. President Donald Trump says he is extending sanctions relief for Iran one last time so Europe and the U.S. can fix the nuclear deal's "terrible flaws". ](/news/2018/01/13/u-s-president-donald-trump-says-he-is-extending-sanctions-relief-for-iran-one-last-time-so-europe-and-the-u-s-can-fix-the-nuclear-deal-s.md) _Context: Iran_

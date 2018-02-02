@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/13/burma-releases-vice-chairman-of-the-national-league-for-democracy-nld-tin-oo-at-the-age-of-82-after-he-has-spent-more-than-a-decade-in-p.html)  [JSON](/news/2010/02/13/burma-releases-vice-chairman-of-the-national-league-for-democracy-nld-tin-oo-at-the-age-of-82-after-he-has-spent-more-than-a-decade-in-p.json)  [XML](/news/2010/02/13/burma-releases-vice-chairman-of-the-national-league-for-democracy-nld-tin-oo-at-the-age-of-82-after-he-has-spent-more-than-a-decade-in-p.xml)  
+
 ### [2010-02-13](/news/2010/02/13/index.md)
 
+##### Burma
 # Burma releases vice-chairman of the National League for Democracy (NLD), Tin Oo at the age of 82, after he has spent more than a decade in prison or under house arrest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8514159.stm)
 

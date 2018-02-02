@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/25/israel-moves-closer-to-an-invasion-of-the-gaza-strip-after-a-palestinian-militant-attack.html)  [JSON](/news/2008/12/25/israel-moves-closer-to-an-invasion-of-the-gaza-strip-after-a-palestinian-militant-attack.json)  [XML](/news/2008/12/25/israel-moves-closer-to-an-invasion-of-the-gaza-strip-after-a-palestinian-militant-attack.xml)  
+
 ### [2008-12-25](/news/2008/12/25/index.md)
 
+##### Israel
 #  Israel moves closer to an invasion of the Gaza Strip after a Palestinian militant attack. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ (Associated Press](http://hosted.ap.org/dynamic/stories/M/ML_ISRAEL_PALESTINIANS?SITE=AZPHG&SECTION=HOME&TEMPLATE=DEFAULT)
 

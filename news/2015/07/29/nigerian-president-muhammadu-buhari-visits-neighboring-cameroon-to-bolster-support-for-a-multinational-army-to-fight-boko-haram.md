@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/29/nigerian-president-muhammadu-buhari-visits-neighboring-cameroon-to-bolster-support-for-a-multinational-army-to-fight-boko-haram.html)  [JSON](/news/2015/07/29/nigerian-president-muhammadu-buhari-visits-neighboring-cameroon-to-bolster-support-for-a-multinational-army-to-fight-boko-haram.json)  [XML](/news/2015/07/29/nigerian-president-muhammadu-buhari-visits-neighboring-cameroon-to-bolster-support-for-a-multinational-army-to-fight-boko-haram.xml)  
+
 ### [2015-07-29](/news/2015/07/29/index.md)
 
+##### Nigeria
 # Nigerian President Muhammadu Buhari visits neighboring Cameroon to bolster support for a multinational army to fight Boko Haram. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Washington Post](https://www.washingtonpost.com/world/africa/nigeria-president-visits-cameroon-to-discuss-militant-threat/2015/07/29/d4ce5474-35f4-11e5-ab7b-6416d97c73c2_story.html)
 

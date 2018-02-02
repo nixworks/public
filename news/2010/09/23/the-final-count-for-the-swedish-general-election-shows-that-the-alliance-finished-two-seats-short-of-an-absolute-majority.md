@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/23/the-final-count-for-the-swedish-general-election-shows-that-the-alliance-finished-two-seats-short-of-an-absolute-majority.html)  [JSON](/news/2010/09/23/the-final-count-for-the-swedish-general-election-shows-that-the-alliance-finished-two-seats-short-of-an-absolute-majority.json)  [XML](/news/2010/09/23/the-final-count-for-the-swedish-general-election-shows-that-the-alliance-finished-two-seats-short-of-an-absolute-majority.xml)  
+
 ### [2010-09-23](/news/2010/09/23/index.md)
 
+##### Swedish general election
 # The final count for the Swedish general election shows that The Alliance finished two seats short of an absolute majority. 
 
 Swedish Prime Minister Fredrik Reinfeldt&#039;s centre-right bloc missed out on a parliamentary majority by two seats, a final count of votes cast in a weekend election showed on Thursday.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/sweden/8021156/Swedens-prime-minister-falls-short-of-majority-in-election.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01723/swedenSUM_1723739a.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/6/zimbabwean-president-robert-mugabe-calls-for-improved-relations-with-hostile-countries-at-the-opening-of-parliament.html)  [JSON](/news/2009/10/6/zimbabwean-president-robert-mugabe-calls-for-improved-relations-with-hostile-countries-at-the-opening-of-parliament.json)  [XML](/news/2009/10/6/zimbabwean-president-robert-mugabe-calls-for-improved-relations-with-hostile-countries-at-the-opening-of-parliament.xml)  
+
 ### [2009-10-6](/news/2009/10/6/index.md)
 
+##### Zimbabwe
 #  Zimbabwean President Robert Mugabe calls for improved relations with "hostile" countries at the opening of Parliament. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jd_JZmhdw6XWClfpenWt9g-dqNNAD9B5N4V00)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-10/06/content_12188315.htm)

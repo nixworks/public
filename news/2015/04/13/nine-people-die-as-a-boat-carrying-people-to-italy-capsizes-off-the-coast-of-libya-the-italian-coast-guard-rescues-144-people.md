@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/13/nine-people-die-as-a-boat-carrying-people-to-italy-capsizes-off-the-coast-of-libya-the-italian-coast-guard-rescues-144-people.html)  [JSON](/news/2015/04/13/nine-people-die-as-a-boat-carrying-people-to-italy-capsizes-off-the-coast-of-libya-the-italian-coast-guard-rescues-144-people.json)  [XML](/news/2015/04/13/nine-people-die-as-a-boat-carrying-people-to-italy-capsizes-off-the-coast-of-libya-the-italian-coast-guard-rescues-144-people.xml)  
+
 ### [2015-04-13](/news/2015/04/13/index.md)
 
+##### Italy
 # Nine people die as a boat carrying people to Italy capsizes off the coast of Libya. The Italian coast guard rescues 144 people. 
 
  Italian coast guard rescued 5,629 migrants in three days between Friday and Sunday © ANSA
 
 
-### Source:
+### Sources:
 
 1. [ANSA](http://www.ansa.it/english/news/general_news/2015/04/13/migrant-boat-capsizes-nine-dead_fe6f128f-d853-4bda-873f-09c5087a87c2.html)
 1. [Cover Image](http://www.ansa.it/webimages/img_457x/2015/3/4/6204bb4fa9228ff2bfb153f91b1748e7.jpg)

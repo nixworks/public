@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/25/israeli-forces-carry-out-a-raid-across-parts-of-the-west-bank-town-of-nablus.html)  [JSON](/news/2007/02/25/israeli-forces-carry-out-a-raid-across-parts-of-the-west-bank-town-of-nablus.json)  [XML](/news/2007/02/25/israeli-forces-carry-out-a-raid-across-parts-of-the-west-bank-town-of-nablus.xml)  
+
 ### [2007-02-25](/news/2007/02/25/index.md)
 
+##### Israel
 #  Israeli forces carry out a raid across parts of the West Bank town of Nablus. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6394295.stm)
 

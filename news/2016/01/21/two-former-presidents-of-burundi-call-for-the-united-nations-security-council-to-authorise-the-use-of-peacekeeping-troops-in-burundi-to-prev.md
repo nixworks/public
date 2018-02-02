@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/21/two-former-presidents-of-burundi-call-for-the-u
 
 ### [2016-01-21](/news/2016/01/21/index.md)
 
+##### Burundian unrest (2015-present)
 # Two former Presidents of Burundi call for the United Nations Security Council to authorise the use of peacekeeping troops in Burundi to prevent a potential civil war. 
 
 Two former Burundi presidents pleaded for the United Nations Security Council on Thursday to back the deployment of international troops to the African state gripped by political violence because it &quot;runs the risk of becoming another Rwanda&quot;

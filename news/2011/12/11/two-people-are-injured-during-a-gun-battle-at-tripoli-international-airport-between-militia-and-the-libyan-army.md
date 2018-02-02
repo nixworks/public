@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/11/two-people-are-injured-during-a-gun-battle-at-tripoli-international-airport-between-militia-and-the-libyan-army.html)  [JSON](/news/2011/12/11/two-people-are-injured-during-a-gun-battle-at-tripoli-international-airport-between-militia-and-the-libyan-army.json)  [XML](/news/2011/12/11/two-people-are-injured-during-a-gun-battle-at-tripoli-international-airport-between-militia-and-the-libyan-army.xml)  
+
 ### [2011-12-11](/news/2011/12/11/index.md)
 
+##### Tripoli International Airport
 # Two people are injured during a gun battle at Tripoli International Airport between militia and the Libyan army.
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/africa/tripoli-airport-still-under-militia-control-1.1196116)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/22/cambodia-and-thailand-exchange-fire-across-their-mutual-border-with-casualties-on-both-sides.html)  [JSON](/news/2011/04/22/cambodia-and-thailand-exchange-fire-across-their-mutual-border-with-casualties-on-both-sides.json)  [XML](/news/2011/04/22/cambodia-and-thailand-exchange-fire-across-their-mutual-border-with-casualties-on-both-sides.xml)  
+
 ### [2011-04-22](/news/2011/04/22/index.md)
 
+##### Cambodia
 # Cambodia and Thailand exchange fire across their mutual border; with casualties on both sides. 
 
 Thailand and Cambodia exchanged gunfire along their border on Friday, with each side blaming the other for firing the first salvo. Thailand said three of its soldiers were killed, while Cambodia spoke
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13167455)
 2. [Bangkok Post](http://www.bangkokpost.com/news/local/233289/border-clash-kills-four-thai-troops)

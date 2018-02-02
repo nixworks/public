@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/5/at-least-25-people-die-with-dozens-missing-as-a-result-of-a-landslide-at-a-gold-mining-site-in-the-philippines-compostela-valley-province.html)  [JSON](/news/2012/01/5/at-least-25-people-die-with-dozens-missing-as-a-result-of-a-landslide-at-a-gold-mining-site-in-the-philippines-compostela-valley-province.json)  [XML](/news/2012/01/5/at-least-25-people-die-with-dozens-missing-as-a-result-of-a-landslide-at-a-gold-mining-site-in-the-philippines-compostela-valley-province.xml)  
+
 ### [2012-01-5](/news/2012/01/5/index.md)
 
+##### landslide
 # At least 25 people die with dozens missing as a result of a landslide at a gold mining site in the Philippines Compostela Valley Province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/45878481#.TwUmUdWt5Bk)
 2. [CNN](http://edition.cnn.com/2012/01/04/world/asia/philippines-landslide/)

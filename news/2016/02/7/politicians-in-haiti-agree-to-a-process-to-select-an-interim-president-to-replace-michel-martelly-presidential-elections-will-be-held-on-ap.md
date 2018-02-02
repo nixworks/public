@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/7/politicians-in-haiti-agree-to-a-process-to-selec
 
 ### [2016-02-7](/news/2016/02/7/index.md)
 
+##### Haiti
 # Politicians in Haiti agree to a process to select an interim President to replace Michel Martelly. Presidential elections will be held on April 14 with the winner to be sworn in on 14 May. 
 
 Politicians in Haiti reach an agreement to install a transitional government hours before President Michel Martelly is due to step down.

@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2010/10/28/china-s-top-legislature-adopts-a-decision-to-appoint-vice-president-xi-jinping-as-vice-chairman-of-the-central-military-commission-cmc-of.html)  [JSON](/news/2010/10/28/china-s-top-legislature-adopts-a-decision-to-appoint-vice-president-xi-jinping-as-vice-chairman-of-the-central-military-commission-cmc-of.json)  [XML](/news/2010/10/28/china-s-top-legislature-adopts-a-decision-to-appoint-vice-president-xi-jinping-as-vice-chairman-of-the-central-military-commission-cmc-of.xml)  
+
 ### [2010-10-28](/news/2010/10/28/index.md)
 
+##### Xi Jinping
 # China's top legislature adopts a decision to appoint Vice President Xi Jinping as vice chairman of the Central Military Commission (CMC) of the People's Republic of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-10/28/c_13580034.htm)
 
 ### Related:
 
-1. [Carrie Lam is sworn in as the first female Chief Executive of Hong Kong by President Xi Jinping amid protests against the 20th anniversary of the transfer of sovereignty to China. ](/news/2017/07/1/carrie-lam-is-sworn-in-as-the-first-female-chief-executive-of-hong-kong-by-president-xi-jinping-amid-protests-against-the-20th-anniversary-o.md) _Context: Xi Jinping_
-2. [Protests mark the 20th anniversary of the transfer of sovereignty over Hong Kong to China from the United Kingdom alongside the arrival of Chinese President Xi Jinping. ](/news/2017/06/29/protests-mark-the-20th-anniversary-of-the-transfer-of-sovereignty-over-hong-kong-to-china-from-the-united-kingdom-alongside-the-arrival-of-c.md) _Context: Xi Jinping_
-3. [Chinese president Xi Jinping visits Finland on his way to the United States. ](/news/2017/04/5/chinese-president-xi-jinping-visits-finland-on-his-way-to-the-united-states.md) _Context: Xi Jinping_
-4. [Donald Trump, the President of the United States, agrees to continue the One China Policy after a discussion with Chinese President Xi Jinping. ](/news/2017/02/9/donald-trump-the-president-of-the-united-states-agrees-to-continue-the-one-china-policy-after-a-discussion-with-chinese-president-xi-jinpi.md) _Context: Xi Jinping_
-5. [The foreign ministry of the People's Republic of China confirms that the country's head of state Xi Jinping will attend the World Economic Forum in Davos, Switzerland, this year, making him the first President of China to attend the high-profile event. ](/news/2017/01/10/the-foreign-ministry-of-the-people-s-republic-of-china-confirms-that-the-country-s-head-of-state-xi-jinping-will-attend-the-world-economic-f.md) _Context: Xi Jinping_
+1. [China announces the country's ivory trade is now illegal. In 2015, Chinese President Xi Jinping and then-U.S. President Barack Obama announced "near-complete" ivory bans for each country. America's ivory ban went into effect in June 2016. ](/news/2017/12/31/china-announces-the-country-s-ivory-trade-is-now-illegal-in-2015-chinese-president-xi-jinping-and-then-u-s-president-barack-obama-announc.md) _Context: Xi Jinping_
+2. [General Secretary of the Communist Party of China Xi Jinping concludes a two-day "high-level dialogue" with party leaders from 120 countries. The program he announces includes the full funding by the Communist Party of China of 15,000 visits from foreign party leaders over the next five years "to deepen exchanges". ](/news/2017/12/3/general-secretary-of-the-communist-party-of-china-xi-jinping-concludes-a-two-day-high-level-dialogue-with-party-leaders-from-120-countries.md) _Context: Xi Jinping_
+3. [At the National Congress of the Communist Party of China, Xi Jinping assumes his second term as General Secretary (China's paramount leader), and the political theory Xi Jinping Thought is written into the party's constitution. ](/news/2017/10/25/at-the-national-congress-of-the-communist-party-of-china-xi-jinping-assumes-his-second-term-as-general-secretary-china-s-paramount-leader.md) _Context: Xi Jinping_
+4. [The week-long Communist Party congress in Beijing draws to an end, with General Secretary Xi Jinping set to become its most influential leader since Party Chairman Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-general-secretary-xi-jinping-set-to-become-its-most-influential-lead.md) _Context: Xi Jinping_
+5. [ China's leader and Party General Secretary Xi Jinping addresses more than 2,000 delegates in Beijing. The congress is expected to finish next week. ](/news/2017/10/18/china-s-leader-and-party-general-secretary-xi-jinping-addresses-more-than-2-000-delegates-in-beijing-the-congress-is-expected-to-finish-ne.md) _Context: Xi Jinping_

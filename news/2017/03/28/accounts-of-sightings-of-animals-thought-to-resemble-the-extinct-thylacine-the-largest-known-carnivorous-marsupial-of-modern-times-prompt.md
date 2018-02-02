@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/28/accounts-of-sightings-of-animals-thought-to-res
 
 ### [2017-03-28](/news/2017/03/28/index.md)
 
+##### thylacine
 # Accounts of sightings of animals thought to resemble the extinct thylacine, the largest known carnivorous marsupial of modern times, prompt a search in the Far North of the Australian state of Queensland. 
 
 Eyewitness accounts of large, dog-like animals in state’s far north spur scientific hunt for thylacines, thought to have died out in 1936

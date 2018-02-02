@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/08/8/2007-south-asian-floods-fresh-round-of-floods-hits-gujarat-india-people-make-trains-at-railway-stations-their-homes-in-bihar-many-place.html)  [JSON](/news/2007/08/8/2007-south-asian-floods-fresh-round-of-floods-hits-gujarat-india-people-make-trains-at-railway-stations-their-homes-in-bihar-many-place.json)  [XML](/news/2007/08/8/2007-south-asian-floods-fresh-round-of-floods-hits-gujarat-india-people-make-trains-at-railway-stations-their-homes-in-bihar-many-place.xml)  
+
 ### [2007-08-8](/news/2007/08/8/index.md)
 
+##### 2007 South Asian floods
 #  2007 South Asian floods: Fresh round of floods hits Gujarat, India. People make trains at railway stations their homes in Bihar. Many places inaccessible by road or rail.
 
 

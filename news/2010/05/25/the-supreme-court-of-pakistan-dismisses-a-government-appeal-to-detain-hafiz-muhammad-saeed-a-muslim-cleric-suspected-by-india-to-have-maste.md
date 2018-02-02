@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/25/the-supreme-court-of-pakistan-dismisses-a-government-appeal-to-detain-hafiz-muhammad-saeed-a-muslim-cleric-suspected-by-india-to-have-maste.html)  [JSON](/news/2010/05/25/the-supreme-court-of-pakistan-dismisses-a-government-appeal-to-detain-hafiz-muhammad-saeed-a-muslim-cleric-suspected-by-india-to-have-maste.json)  [XML](/news/2010/05/25/the-supreme-court-of-pakistan-dismisses-a-government-appeal-to-detain-hafiz-muhammad-saeed-a-muslim-cleric-suspected-by-india-to-have-maste.xml)  
+
 ### [2010-05-25](/news/2010/05/25/index.md)
 
+##### Supreme Court
 # The Supreme Court of Pakistan dismisses a government appeal to detain Hafiz Muhammad Saeed, a Muslim cleric suspected by India to have masterminded the 2008 Mumbai attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hkiMxbHNH0BqgpWA2ZG6VD6wVTmAD9FTPDMO0)
 2. [Reuters](http://in.reuters.com/article/topNews/idINIndia-48773820100525)

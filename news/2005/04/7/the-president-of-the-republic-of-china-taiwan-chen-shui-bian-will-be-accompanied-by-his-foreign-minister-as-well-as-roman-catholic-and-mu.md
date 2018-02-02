@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/7/the-president-of-the-republic-of-china-taiwan-chen-shui-bian-will-be-accompanied-by-his-foreign-minister-as-well-as-roman-catholic-and-mu.html)  [JSON](/news/2005/04/7/the-president-of-the-republic-of-china-taiwan-chen-shui-bian-will-be-accompanied-by-his-foreign-minister-as-well-as-roman-catholic-and-mu.json)  [XML](/news/2005/04/7/the-president-of-the-republic-of-china-taiwan-chen-shui-bian-will-be-accompanied-by-his-foreign-minister-as-well-as-roman-catholic-and-mu.xml)  
+
 ### [2005-04-7](/news/2005/04/7/index.md)
 
+##### Taiwan
 #  The President of the Republic of China (Taiwan) Chen Shui-bian will be accompanied by his foreign minister as well as Roman Catholic and Muslim religious figures for the trip to attend the funeral of Pope John Paul II. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4416301.stm)
 2. [CNN](http://www.cnn.com/2005/WORLD/asiapcf/04/06/taiwan.pope.ap/index.html)

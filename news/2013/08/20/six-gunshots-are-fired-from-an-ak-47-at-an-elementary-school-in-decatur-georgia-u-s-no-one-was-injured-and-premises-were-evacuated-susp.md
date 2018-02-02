@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/20/six-gunshots-are-fired-from-an-ak-47-at-an-elementary-school-in-decatur-georgia-u-s-no-one-was-injured-and-premises-were-evacuated-susp.html)  [JSON](/news/2013/08/20/six-gunshots-are-fired-from-an-ak-47-at-an-elementary-school-in-decatur-georgia-u-s-no-one-was-injured-and-premises-were-evacuated-susp.json)  [XML](/news/2013/08/20/six-gunshots-are-fired-from-an-ak-47-at-an-elementary-school-in-decatur-georgia-u-s-no-one-was-injured-and-premises-were-evacuated-susp.xml)  
+
 ### [2013-08-20](/news/2013/08/20/index.md)
 
+##### AK-47s
 # Six gunshots are fired from an AK-47 at an elementary school in Decatur, Georgia, U.S. No one was injured, and premises were evacuated. Suspected gunman, a 20-year-old man arrested. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/08/20/us/georgia-school-gunshots/index.html?hpt=hp_t2)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/6/a-venezuelan-national-guard-sergeant-and-3-more-people-are-captured-in-the-colombian-department-of-vichada-with-40-000-ak-47-rounds-for-the.html)  [JSON](/news/2008/06/6/a-venezuelan-national-guard-sergeant-and-3-more-people-are-captured-in-the-colombian-department-of-vichada-with-40-000-ak-47-rounds-for-the.json)  [XML](/news/2008/06/6/a-venezuelan-national-guard-sergeant-and-3-more-people-are-captured-in-the-colombian-department-of-vichada-with-40-000-ak-47-rounds-for-the.xml)  
+
 ### [2008-06-6](/news/2008/06/6/index.md)
 
+##### Venezuela
 #  A Venezuelan National Guard sergeant and 3 more people are captured in the Colombian Department of Vichada with 40,000 AK-47 rounds for the rebel group FARC. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [El Tiempo](http://www.eltiempo.com/justicia/2008-06-06/ARTICULO-WEB-NOTA_INTERIOR-4239309.html)
 2. [Noticias24](http://www.noticias24.com/actualidad/?p=14976)

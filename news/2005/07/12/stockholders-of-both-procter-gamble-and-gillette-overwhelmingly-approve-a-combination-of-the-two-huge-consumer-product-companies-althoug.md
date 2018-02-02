@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/07/12/stockholders-of-both-procter-gamble-and-gillette-overwhelmingly-approve-a-combination-of-the-two-huge-consumer-product-companies-althoug.html)  [JSON](/news/2005/07/12/stockholders-of-both-procter-gamble-and-gillette-overwhelmingly-approve-a-combination-of-the-two-huge-consumer-product-companies-althoug.json)  [XML](/news/2005/07/12/stockholders-of-both-procter-gamble-and-gillette-overwhelmingly-approve-a-combination-of-the-two-huge-consumer-product-companies-althoug.xml)  
+
 ### [2005-07-12](/news/2005/07/12/index.md)
 
+##### Procter & Gamble
 #  Stockholders of both Procter & Gamble and Gillette overwhelmingly approve a combination of the two huge consumer-product companies, although the deal faces regulatory scrutiny both in Europe and in the United States. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Forbes](http://www.forbes.com/business/commerce/feeds/ap/2005/07/12/ap2135391.html)
+1. [Forbes](https://www.forbes.com/business/commerce/feeds/ap/2005/07/12/ap2135391.html)
 
 ### Related:
 

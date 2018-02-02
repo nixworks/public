@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/2/the-first-of-seventy-british-military-personnel-
 
 ### [2016-05-2](/news/2016/05/2/index.md)
 
+##### War in Somalia
 # The first of seventy British military personnel arrive in Somalia to help combat the threat of Islamist militants. The remaining troops will join the United Nations peacekeepers and AMISOM soldiers in countering Al-Shabaab later on this year. This deployment is part of a greater effort by the United Kingdom to target terrorism. 
 
 Up to 70 UK personnel will be deployed this year to counter the extremist group Al-Shabaab

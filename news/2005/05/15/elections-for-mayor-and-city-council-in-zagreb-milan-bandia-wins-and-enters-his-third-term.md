@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/05/15/elections-for-mayor-and-city-council-in-zagreb-milan-bandia-wins-and-enters-his-third-term.html)  [JSON](/news/2005/05/15/elections-for-mayor-and-city-council-in-zagreb-milan-bandia-wins-and-enters-his-third-term.json)  [XML](/news/2005/05/15/elections-for-mayor-and-city-council-in-zagreb-milan-bandia-wins-and-enters-his-third-term.xml)  
+
 ### [2005-05-15](/news/2005/05/15/index.md)
 
+##### Zagreb
 #  Elections for mayor and city council in Zagreb. Milan Bandic wins and enters his third term.
 
 

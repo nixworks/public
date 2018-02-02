@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/26/at-least-ten-iranian-border-guards-are-killed-i
 
 ### [2017-04-26](/news/2017/04/26/index.md)
 
+##### Sistan and Baluchestan insurgency
 # At least ten Iranian border guards are killed in an ambush in the southeastern Sistan and Baluchestan Province on the border with Pakistan. Sunni militant group Jaish ul-Adl claims responsibility. 
 
 Sunni militant group Jaish al-Adl claims responsibility for killing of guards in Sistan-Baluchestan province

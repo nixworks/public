@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/07/9/george-w-bush-gives-a-stern-speech-addressing-american-accounting-scandals.html)  [JSON](/news/2002/07/9/george-w-bush-gives-a-stern-speech-addressing-american-accounting-scandals.json)  [XML](/news/2002/07/9/george-w-bush-gives-a-stern-speech-addressing-american-accounting-scandals.xml)  
+
 ### [2002-07-9](/news/2002/07/9/index.md)
 
+##### George W. Bush
 #  George W. Bush gives a stern speech addressing American accounting scandals.
 
 

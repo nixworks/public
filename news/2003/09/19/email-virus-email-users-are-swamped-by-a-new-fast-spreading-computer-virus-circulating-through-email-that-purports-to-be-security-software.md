@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/19/email-virus-email-users-are-swamped-by-a-new-fast-spreading-computer-virus-circulating-through-email-that-purports-to-be-security-software.html)  [JSON](/news/2003/09/19/email-virus-email-users-are-swamped-by-a-new-fast-spreading-computer-virus-circulating-through-email-that-purports-to-be-security-software.json)  [XML](/news/2003/09/19/email-virus-email-users-are-swamped-by-a-new-fast-spreading-computer-virus-circulating-through-email-that-purports-to-be-security-software.xml)  
+
 ### [2003-09-19](/news/2003/09/19/index.md)
 
+##### Email virus
 #  Email virus: Email users are swamped by a new fast-spreading computer virus circulating through email that purports to be security software from Microsoft, but actually tries to disable security programs that are already running. The worm, dubbed "Swen" or "Gibe", takes advantage of a two-year-old hole in Internet Explorer and affects systems that have not installed a patch for that security hole.
 
 

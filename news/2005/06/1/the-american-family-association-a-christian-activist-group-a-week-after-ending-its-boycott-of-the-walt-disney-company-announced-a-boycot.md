@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/1/the-american-family-association-a-christian-activist-group-a-week-after-ending-its-boycott-of-the-walt-disney-company-announced-a-boycot.html)  [JSON](/news/2005/06/1/the-american-family-association-a-christian-activist-group-a-week-after-ending-its-boycott-of-the-walt-disney-company-announced-a-boycot.json)  [XML](/news/2005/06/1/the-american-family-association-a-christian-activist-group-a-week-after-ending-its-boycott-of-the-walt-disney-company-announced-a-boycot.xml)  
+
 ### [2005-06-1](/news/2005/06/1/index.md)
 
+##### American Family Association
 #  The American Family Association, a Christian activist group, a week after ending its boycott of the Walt Disney Company, announced a boycott of the Ford Motor Company. In adding Ford to its ongoing boycotts of Kmart and the book One of the Guys by Robert Clark Young, the AFA argues that Ford promotes "the homosexual lifestyle." 
 
 The American Family Association has fired another missile in its long war against companies it thinks are destroying traditional Christian values, this time targeting Ford Motor Co. 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/8047423/)
 1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Photos/050531/050531_fordad_vmed_130p.standard.jpg)

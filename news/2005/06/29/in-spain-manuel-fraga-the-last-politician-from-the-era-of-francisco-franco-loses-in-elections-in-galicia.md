@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/06/29/in-spain-manuel-fraga-the-last-politician-from-the-era-of-francisco-franco-loses-in-elections-in-galicia.html)  [JSON](/news/2005/06/29/in-spain-manuel-fraga-the-last-politician-from-the-era-of-francisco-franco-loses-in-elections-in-galicia.json)  [XML](/news/2005/06/29/in-spain-manuel-fraga-the-last-politician-from-the-era-of-francisco-franco-loses-in-elections-in-galicia.xml)  
+
 ### [2005-06-29](/news/2005/06/29/index.md)
 
+##### Spain
 #  In Spain, Manuel Fraga, the last politician from the era of Francisco Franco, loses in elections in Galicia.
 
 

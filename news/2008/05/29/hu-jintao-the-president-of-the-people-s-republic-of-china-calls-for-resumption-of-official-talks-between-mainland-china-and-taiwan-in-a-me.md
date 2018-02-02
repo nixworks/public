@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/29/hu-jintao-the-president-of-the-people-s-republic-of-china-calls-for-resumption-of-official-talks-between-mainland-china-and-taiwan-in-a-me.html)  [JSON](/news/2008/05/29/hu-jintao-the-president-of-the-people-s-republic-of-china-calls-for-resumption-of-official-talks-between-mainland-china-and-taiwan-in-a-me.json)  [XML](/news/2008/05/29/hu-jintao-the-president-of-the-people-s-republic-of-china-calls-for-resumption-of-official-talks-between-mainland-china-and-taiwan-in-a-me.xml)  
+
 ### [2008-05-29](/news/2008/05/29/index.md)
 
+##### Hu Jintao
 #  Hu Jintao, the President of the People's Republic of China calls for resumption of official talks between mainland China and Taiwan in a meeting with Wu Po-hsiung, the Chairman of Taiwan's ruling party the Kuomintang. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/asiapcf/05/28/china.taiwan/)
 

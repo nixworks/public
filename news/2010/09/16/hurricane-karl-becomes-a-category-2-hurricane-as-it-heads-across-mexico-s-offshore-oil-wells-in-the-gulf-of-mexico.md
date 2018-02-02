@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/09/16/hurricane-karl-becomes-a-category-2-hurricane-as-it-heads-across-mexico-s-offshore-oil-wells-in-the-gulf-of-mexico.html)  [JSON](/news/2010/09/16/hurricane-karl-becomes-a-category-2-hurricane-as-it-heads-across-mexico-s-offshore-oil-wells-in-the-gulf-of-mexico.json)  [XML](/news/2010/09/16/hurricane-karl-becomes-a-category-2-hurricane-as-it-heads-across-mexico-s-offshore-oil-wells-in-the-gulf-of-mexico.xml)  
+
 ### [2010-09-16](/news/2010/09/16/index.md)
 
+##### 2010 Atlantic hurricane season
 # Hurricane Karl becomes a Category 2 hurricane as it heads across Mexico's offshore oil wells in the Gulf of Mexico. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE68E1T820100917)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20100917&t=2&i=206307777&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-09-17T220311Z_01_BTRE68G1P9Q00_RTROPTP_0_STORMS-ATLANTIC)
+1. [Reuters](https://www.reuters.com/article/idUSTRE68E1T820100917)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20100917&t=2&i=206307777&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-09-17T220311Z_01_BTRE68G1P9Q00_RTROPTP_0_STORMS-ATLANTIC)
 
 ### Related:
 

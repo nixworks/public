@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/12/indian-maoists-release-italian-hostage-paolo-bosusco-after-holding-him-for-nearly-a-month.html)  [JSON](/news/2012/04/12/indian-maoists-release-italian-hostage-paolo-bosusco-after-holding-him-for-nearly-a-month.json)  [XML](/news/2012/04/12/indian-maoists-release-italian-hostage-paolo-bosusco-after-holding-him-for-nearly-a-month.xml)  
+
 ### [2012-04-12](/news/2012/04/12/index.md)
 
+##### Indians
 # Indian Maoists release Italian hostage Paolo Bosusco after holding him for nearly a month. 
 
 After being in captivity for nearly a month, Italian national Paolo Bosusco has been released by Maoists in Odisha today. Mr Bosusco, 51, was handed over by the Maoists to their mediator Dandapani Mohanty and some journalists in the forest of tribal-dominated Kandhamal district. On his arrival in the state capital, the Italian national said, &quot;I am happy being a free man now. I am tired and need some rest.&quot;
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/article/india/after-29-days-italian-hostage-released-by-maoists-196625)
 1. [Cover Image](http://i.ndtvimg.com/mt/2012-04/Paolo_Bosusco_after_release_295.jpg)

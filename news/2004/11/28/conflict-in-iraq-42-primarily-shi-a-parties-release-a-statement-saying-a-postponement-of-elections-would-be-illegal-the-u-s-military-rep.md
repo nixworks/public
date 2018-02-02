@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/11/28/conflict-in-iraq-42-primarily-shi-a-parties-release-a-statement-saying-a-postponement-of-elections-would-be-illegal-the-u-s-military-rep.html)  [JSON](/news/2004/11/28/conflict-in-iraq-42-primarily-shi-a-parties-release-a-statement-saying-a-postponement-of-elections-would-be-illegal-the-u-s-military-rep.json)  [XML](/news/2004/11/28/conflict-in-iraq-42-primarily-shi-a-parties-release-a-statement-saying-a-postponement-of-elections-would-be-illegal-the-u-s-military-rep.xml)  
+
 ### [2004-11-28](/news/2004/11/28/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: 42 primarily Shi'a parties release a statement saying a postponement of elections would be illegal. The U.S. military reports a U.S. soldier is killed by a roadside bomb in Duluiya north of Baghdad and that troops discover 17 more corpses in Mosul, raising the number found to at least 50 in two weeks. Hospital officials in Ramadi say two people are killed and three wounded when U.S. troops fire on suspected insurgents. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4048863.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6933225)
-2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6933225)
 
 ### Related:
 

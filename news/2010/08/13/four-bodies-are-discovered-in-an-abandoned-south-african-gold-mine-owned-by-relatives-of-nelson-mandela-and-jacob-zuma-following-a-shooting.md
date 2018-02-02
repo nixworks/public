@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/13/four-bodies-are-discovered-in-an-abandoned-south-african-gold-mine-owned-by-relatives-of-nelson-mandela-and-jacob-zuma-following-a-shooting.html)  [JSON](/news/2010/08/13/four-bodies-are-discovered-in-an-abandoned-south-african-gold-mine-owned-by-relatives-of-nelson-mandela-and-jacob-zuma-following-a-shooting.json)  [XML](/news/2010/08/13/four-bodies-are-discovered-in-an-abandoned-south-african-gold-mine-owned-by-relatives-of-nelson-mandela-and-jacob-zuma-following-a-shooting.xml)  
+
 ### [2010-08-13](/news/2010/08/13/index.md)
 
+##### South Africa
 # Four bodies are discovered in an abandoned South African gold mine owned by relatives of Nelson Mandela and Jacob Zuma following a shooting. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h3IDyieNsoTtKhMEg1VCPDSDt9lQ)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-10965099)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/11/tokyo-electric-power-company-will-accept-involvement-from-the-government-of-japan-and-will-not-cap-compensation-payments-resulting-from-the.html)  [JSON](/news/2011/05/11/tokyo-electric-power-company-will-accept-involvement-from-the-government-of-japan-and-will-not-cap-compensation-payments-resulting-from-the.json)  [XML](/news/2011/05/11/tokyo-electric-power-company-will-accept-involvement-from-the-government-of-japan-and-will-not-cap-compensation-payments-resulting-from-the.xml)  
+
 ### [2011-05-11](/news/2011/05/11/index.md)
 
+##### Tokyo Electric Power Company
 # Tokyo Electric Power Company will accept involvement from the Government of Japan and will not cap compensation payments resulting from the Fukushima I nuclear accidents. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748703730804576316823655321858.html)
 

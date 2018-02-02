@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/28/the-prime-minister-of-new-zealand-john-key-announces-that-a-second-new-zealand-special-air-service-soldier-has-died-in-fighting-in-afghanist.html)  [JSON](/news/2011/09/28/the-prime-minister-of-new-zealand-john-key-announces-that-a-second-new-zealand-special-air-service-soldier-has-died-in-fighting-in-afghanist.json)  [XML](/news/2011/09/28/the-prime-minister-of-new-zealand-john-key-announces-that-a-second-new-zealand-special-air-service-soldier-has-died-in-fighting-in-afghanist.xml)  
+
 ### [2011-09-28](/news/2011/09/28/index.md)
 
+##### Prime Minister
 # The Prime Minister of New Zealand John Key announces that a second New Zealand Special Air Service soldier has died in fighting in Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-09/28/c_131164611.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/29/a-bomb-at-edwin-andrews-air-base-in-zamboanga-city-in-the-southern-philippines-kills-two-people-and-injures-another-17.html)  [JSON](/news/2008/05/29/a-bomb-at-edwin-andrews-air-base-in-zamboanga-city-in-the-southern-philippines-kills-two-people-and-injures-another-17.json)  [XML](/news/2008/05/29/a-bomb-at-edwin-andrews-air-base-in-zamboanga-city-in-the-southern-philippines-kills-two-people-and-injures-another-17.xml)  
+
 ### [2008-05-29](/news/2008/05/29/index.md)
 
+##### Zamboanga International Airport
 #  A bomb at Edwin Andrews Air Base in Zamboanga City in the southern Philippines kills two people and injures another 17. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7424941.stm)
 

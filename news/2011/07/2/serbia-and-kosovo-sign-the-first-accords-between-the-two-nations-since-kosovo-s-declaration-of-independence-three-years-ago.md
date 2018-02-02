@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/2/serbia-and-kosovo-sign-the-first-accords-between-the-two-nations-since-kosovo-s-declaration-of-independence-three-years-ago.html)  [JSON](/news/2011/07/2/serbia-and-kosovo-sign-the-first-accords-between-the-two-nations-since-kosovo-s-declaration-of-independence-three-years-ago.json)  [XML](/news/2011/07/2/serbia-and-kosovo-sign-the-first-accords-between-the-two-nations-since-kosovo-s-declaration-of-independence-three-years-ago.xml)  
+
 ### [2011-07-2](/news/2011/07/2/index.md)
 
+##### Serbia
 # Serbia and Kosovo sign the first accords between the two nations since Kosovo's declaration of independence three years ago. 
 
 Accords were the first between them since Pristina declared independence three years ago.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/07/201172202625940367.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/2/201172204141782734_20.jpg)

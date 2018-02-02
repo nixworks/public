@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/15/a-5-4-magnitude-earthquake-causes-serious-damage-in-the-lake-region-of-kyrgyzstan.html)  [JSON](/news/2014/11/15/a-5-4-magnitude-earthquake-causes-serious-damage-in-the-lake-region-of-kyrgyzstan.json)  [XML](/news/2014/11/15/a-5-4-magnitude-earthquake-causes-serious-damage-in-the-lake-region-of-kyrgyzstan.xml)  
+
 ### [2014-11-15](/news/2014/11/15/index.md)
 
+##### magnitude earthquake
 # A 5.4 magnitude earthquake causes serious damage in the Lake Region of Kyrgyzstan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2014/11/14/us-kyrgyzstan-earthquake-idUKKCN0IY04S20141114)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

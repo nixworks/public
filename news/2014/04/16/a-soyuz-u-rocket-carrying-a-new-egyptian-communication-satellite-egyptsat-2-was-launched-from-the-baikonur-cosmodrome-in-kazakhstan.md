@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/16/a-soyuz-u-rocket-carrying-a-new-egyptian-communication-satellite-egyptsat-2-was-launched-from-the-baikonur-cosmodrome-in-kazakhstan.html)  [JSON](/news/2014/04/16/a-soyuz-u-rocket-carrying-a-new-egyptian-communication-satellite-egyptsat-2-was-launched-from-the-baikonur-cosmodrome-in-kazakhstan.json)  [XML](/news/2014/04/16/a-soyuz-u-rocket-carrying-a-new-egyptian-communication-satellite-egyptsat-2-was-launched-from-the-baikonur-cosmodrome-in-kazakhstan.xml)  
+
 ### [2014-04-16](/news/2014/04/16/index.md)
 
+##### Soyuz-U
 # A Soyuz-U rocket carrying a new Egyptian communication satellite, EgyptSat-2, was launched from the Baikonur Cosmodrome in Kazakhstan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ITAR-TASS](http://en.itar-tass.com/non-political/728290)
 

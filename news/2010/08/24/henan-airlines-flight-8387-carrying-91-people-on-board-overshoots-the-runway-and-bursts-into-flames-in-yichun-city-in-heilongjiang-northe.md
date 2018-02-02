@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/24/henan-airlines-flight-8387-carrying-91-people-on-board-overshoots-the-runway-and-bursts-into-flames-in-yichun-city-in-heilongjiang-northe.html)  [JSON](/news/2010/08/24/henan-airlines-flight-8387-carrying-91-people-on-board-overshoots-the-runway-and-bursts-into-flames-in-yichun-city-in-heilongjiang-northe.json)  [XML](/news/2010/08/24/henan-airlines-flight-8387-carrying-91-people-on-board-overshoots-the-runway-and-bursts-into-flames-in-yichun-city-in-heilongjiang-northe.xml)  
+
 ### [2010-08-24](/news/2010/08/24/index.md)
 
+##### Henan Airlines Flight 8387
 # Henan Airlines Flight 8387, carrying 91 people on board, overshoots the runway and bursts into flames in Yichun City in Heilongjiang, northeastern China; at least 43 people are reported dead. 
 
 At least 42 people have been killed after a passenger plane crashes in the north-eastern Chinese province of Heilongjiang, state media report.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jmDoyJoJq0Nvcw45kQwl-JmAXPTAD9HQ07300)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11076816)

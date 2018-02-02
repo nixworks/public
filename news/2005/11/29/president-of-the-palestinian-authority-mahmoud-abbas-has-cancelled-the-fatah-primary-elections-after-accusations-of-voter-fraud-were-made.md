@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/29/president-of-the-palestinian-authority-mahmoud-abbas-has-cancelled-the-fatah-primary-elections-after-accusations-of-voter-fraud-were-made.html)  [JSON](/news/2005/11/29/president-of-the-palestinian-authority-mahmoud-abbas-has-cancelled-the-fatah-primary-elections-after-accusations-of-voter-fraud-were-made.json)  [XML](/news/2005/11/29/president-of-the-palestinian-authority-mahmoud-abbas-has-cancelled-the-fatah-primary-elections-after-accusations-of-voter-fraud-were-made.xml)  
+
 ### [2005-11-29](/news/2005/11/29/index.md)
 
+##### President of the Palestinian Authority
 #  President of the Palestinian Authority, Mahmoud Abbas, has cancelled the Fatah Primary Elections after accusations of voter fraud were made. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4480966.stm)
 

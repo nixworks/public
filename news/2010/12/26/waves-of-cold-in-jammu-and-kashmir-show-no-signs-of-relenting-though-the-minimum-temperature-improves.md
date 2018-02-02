@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/26/waves-of-cold-in-jammu-and-kashmir-show-no-signs-of-relenting-though-the-minimum-temperature-improves.html)  [JSON](/news/2010/12/26/waves-of-cold-in-jammu-and-kashmir-show-no-signs-of-relenting-though-the-minimum-temperature-improves.json)  [XML](/news/2010/12/26/waves-of-cold-in-jammu-and-kashmir-show-no-signs-of-relenting-though-the-minimum-temperature-improves.xml)  
+
 ### [2010-12-26](/news/2010/12/26/index.md)
 
+##### Jammu and Kashmir
 # Waves of cold in Jammu and Kashmir show no signs of relenting, though the minimum temperature improves. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.thehindu.com/news/states/other-states/article981140.ece)
 

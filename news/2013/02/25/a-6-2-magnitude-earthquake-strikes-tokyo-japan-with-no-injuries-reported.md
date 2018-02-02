@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/25/a-6-2-magnitude-earthquake-strikes-tokyo-japan-with-no-injuries-reported.html)  [JSON](/news/2013/02/25/a-6-2-magnitude-earthquake-strikes-tokyo-japan-with-no-injuries-reported.json)  [XML](/news/2013/02/25/a-6-2-magnitude-earthquake-strikes-tokyo-japan-with-no-injuries-reported.xml)  
+
 ### [2013-02-25](/news/2013/02/25/index.md)
 
+##### magnitude
 # A 6.2 magnitude earthquake strikes Tokyo, Japan, with no injuries reported. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://www.voanews.com/content/earthquake-sways-buildings-in-tokyo/1610075.html)
 

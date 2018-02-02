@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/06/29/south-korea-abruptly-postpones-signing-a-military-treaty-with-japan-after-opposition-parties-in-seoul-accuse-the-government-of-trying-to-rus.html)  [JSON](/news/2012/06/29/south-korea-abruptly-postpones-signing-a-military-treaty-with-japan-after-opposition-parties-in-seoul-accuse-the-government-of-trying-to-rus.json)  [XML](/news/2012/06/29/south-korea-abruptly-postpones-signing-a-military-treaty-with-japan-after-opposition-parties-in-seoul-accuse-the-government-of-trying-to-rus.xml)  
+
 ### [2012-06-29](/news/2012/06/29/index.md)
 
+##### South Korea
 # South Korea abruptly postpones signing a military treaty with Japan after opposition parties in Seoul accuse the government of trying to rush it without proper discussion. 
 
 Faced with mounting political pressure, the South Korean government abruptly delayed the signing of its first military cooperation pact with Japan since World War II.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2012/06/30/world/asia/south-korea-postpones-military-data-pact-with-japan.html?_r=1&hp)
+1. [The New York Times](https://www.nytimes.com/2012/06/30/world/asia/south-korea-postpones-military-data-pact-with-japan.html?_r=1&hp)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

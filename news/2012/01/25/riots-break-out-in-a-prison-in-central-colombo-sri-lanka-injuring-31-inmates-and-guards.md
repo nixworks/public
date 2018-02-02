@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/25/riots-break-out-in-a-prison-in-central-colombo-sri-lanka-injuring-31-inmates-and-guards.html)  [JSON](/news/2012/01/25/riots-break-out-in-a-prison-in-central-colombo-sri-lanka-injuring-31-inmates-and-guards.json)  [XML](/news/2012/01/25/riots-break-out-in-a-prison-in-central-colombo-sri-lanka-injuring-31-inmates-and-guards.xml)  
+
 ### [2012-01-25](/news/2012/01/25/index.md)
 
+##### Colombo
 # Riots break out in a prison in central Colombo, Sri Lanka, injuring 31 inmates and guards. 
 
 Riots broke out at a high-security prison in the Sri Lankan capital of Colombo, leaving 31 inmates and guards injured, authorities said.
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2012/01/25/Dozens-injured-in-Sri-Lanka-prison-riot/UPI-47601327472704/)
 

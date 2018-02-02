@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/1/the-bridge-carrying-interstate-35w-in-minneapolis-minnesota-collapses-into-the-mississippi-river-late-in-the-afternoon-rush-hour-killing.html)  [JSON](/news/2007/08/1/the-bridge-carrying-interstate-35w-in-minneapolis-minnesota-collapses-into-the-mississippi-river-late-in-the-afternoon-rush-hour-killing.json)  [XML](/news/2007/08/1/the-bridge-carrying-interstate-35w-in-minneapolis-minnesota-collapses-into-the-mississippi-river-late-in-the-afternoon-rush-hour-killing.xml)  
+
 ### [2007-08-1](/news/2007/08/1/index.md)
 
+##### I-35W Mississippi River bridge
 #  The bridge carrying Interstate 35W in Minneapolis, Minnesota, collapses into the Mississippi River late in the afternoon rush hour, killing thirteen and injuring hundreds. 
 
 Follow the StarTribune for the news, photos and videos from the Twin Cities and beyond.
 
 
-### Source:
+### Sources:
 
 1. [ (Star-Tribune](http://www.startribune.com/462/story/1338294.html)
 2. [CNN](http://www.cnn.com/2007/US/08/01/bridge.collapse/index.html)

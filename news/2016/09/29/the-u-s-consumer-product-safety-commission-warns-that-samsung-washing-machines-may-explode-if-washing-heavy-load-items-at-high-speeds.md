@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/29/the-u-s-consumer-product-safety-commission-warn
 
 ### [2016-09-29](/news/2016/09/29/index.md)
 
+##### U.S. Consumer Product Safety Commission
 # The U.S. Consumer Product Safety Commission warns that Samsung washing machines may explode if washing heavy load items at high speeds. 
 
 Samsung has confirmed it is in talks with US consumer watchdogs after a lawsuit against the firm over &quot;exploding&quot; washing machines.

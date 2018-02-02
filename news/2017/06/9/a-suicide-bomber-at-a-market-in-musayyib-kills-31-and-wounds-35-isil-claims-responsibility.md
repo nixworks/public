@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/9/a-suicide-bomber-at-a-market-in-musayyib-kills-3
 
 ### [2017-06-9](/news/2017/06/9/index.md)
 
+##### Iraqi Civil War (2014-present)
 # A suicide bomber at a market in Musayyib kills 31 and wounds 35. ISIL claims responsibility. 
 
 A woman suicide bomber killed at least 31 people and wounded 35 in a crowded market in the town of Musayab, 80 km (50 miles) south of Baghdad, on Friday, security sources said.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/11/first-president-of-algeria-ahmed-ben-bella-dies-at-the-age-of-95.html)  [JSON](/news/2012/04/11/first-president-of-algeria-ahmed-ben-bella-dies-at-the-age-of-95.json)  [XML](/news/2012/04/11/first-president-of-algeria-ahmed-ben-bella-dies-at-the-age-of-95.xml)  
+
 ### [2012-04-11](/news/2012/04/11/index.md)
 
+##### President
 # First President of Algeria Ahmed Ben Bella dies at the age of 95. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2012/apr/11/ahmed-ben-bella?newsfeed=true)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/24/in-the-cyprus-reunification-referendum-65-of-turkish-cypriot-voters-accept-and-75-of-greek-cypriot-voters-reject-the-annan-plan.html)  [JSON](/news/2004/04/24/in-the-cyprus-reunification-referendum-65-of-turkish-cypriot-voters-accept-and-75-of-greek-cypriot-voters-reject-the-annan-plan.json)  [XML](/news/2004/04/24/in-the-cyprus-reunification-referendum-65-of-turkish-cypriot-voters-accept-and-75-of-greek-cypriot-voters-reject-the-annan-plan.xml)  
+
 ### [2004-04-24](/news/2004/04/24/index.md)
 
+##### Cyprus
 #  In the Cyprus reunification referendum, 65% of Turkish Cypriot voters accept and 75% of Greek Cypriot voters reject the Annan Plan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/3654919.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/3656009.stm)

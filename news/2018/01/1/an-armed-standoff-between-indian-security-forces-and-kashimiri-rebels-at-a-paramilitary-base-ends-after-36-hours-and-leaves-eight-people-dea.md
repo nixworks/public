@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/1/an-armed-standoff-between-indian-security-forces
 
 ### [2018-01-1](/news/2018/01/1/index.md)
 
+##### Kashmir conflict
 # An armed standoff between Indian security forces and Kashimiri rebels at a paramilitary base ends after 36 hours and leaves eight people dead. 
 
 Gun battle at base in southern part of Indian-administered Kashmir leaves five soldiers and three gunmen dead.

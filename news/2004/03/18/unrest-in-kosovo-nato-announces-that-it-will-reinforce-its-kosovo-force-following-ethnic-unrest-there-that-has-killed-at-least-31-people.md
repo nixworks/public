@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2004/03/18/unrest-in-kosovo-nato-announces-that-it-will-reinforce-its-kosovo-force-following-ethnic-unrest-there-that-has-killed-at-least-31-people.html)  [JSON](/news/2004/03/18/unrest-in-kosovo-nato-announces-that-it-will-reinforce-its-kosovo-force-following-ethnic-unrest-there-that-has-killed-at-least-31-people.json)  [XML](/news/2004/03/18/unrest-in-kosovo-nato-announces-that-it-will-reinforce-its-kosovo-force-following-ethnic-unrest-there-that-has-killed-at-least-31-people.xml)  
+
 ### [2004-03-18](/news/2004/03/18/index.md)
 
+##### Unrest in Kosovo
 #  Unrest in Kosovo: NATO announces that it will reinforce its Kosovo Force, following ethnic unrest there that has killed at least 31 people over the past two days. More Serbian Orthodox Churches have been set ablaze by Albanians and violence has continued in and around Kosovo Serb enclaves. Russia and Serbia and Montenegro call for an urgent meeting of the UN Security Council. United Nations officials attempt to restore order in the province and blame the unrest on nationalist extremists on both sides. More demonstrations have taken place across Serbia, so far without the violence seen the previous day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [B92](http://www.b92.net/english/news/index.php?order=priority)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/3525168.stm)
-3. [Washington Post](http://www.washingtonpost.com/wp-dyn/articles/A3832-2004Mar18.html)
+3. [Washington Post](https://www.washingtonpost.com/wp-dyn/articles/A3832-2004Mar18.html)
 
 ### Related:
 

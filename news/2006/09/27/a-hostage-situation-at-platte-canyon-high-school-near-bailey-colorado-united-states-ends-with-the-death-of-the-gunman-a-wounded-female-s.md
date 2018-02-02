@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/27/a-hostage-situation-at-platte-canyon-high-school-near-bailey-colorado-united-states-ends-with-the-death-of-the-gunman-a-wounded-female-s.html)  [JSON](/news/2006/09/27/a-hostage-situation-at-platte-canyon-high-school-near-bailey-colorado-united-states-ends-with-the-death-of-the-gunman-a-wounded-female-s.json)  [XML](/news/2006/09/27/a-hostage-situation-at-platte-canyon-high-school-near-bailey-colorado-united-states-ends-with-the-death-of-the-gunman-a-wounded-female-s.xml)  
+
 ### [2006-09-27](/news/2006/09/27/index.md)
 
+##### hostage situation
 #  A hostage situation at Platte Canyon High School near Bailey, Colorado, United States ends with the death of the gunman. A wounded female student later died.
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/US/09/27/school.shooting/index.html)
 2. [KCNC/AP](http://cbs4denver.com/topstories/local_story_270191531.html)

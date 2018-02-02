@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/13/the-uk-s-department-of-health-is-to-investigate-the-decision-to-appoint-the-broadcaster-sir-james-savile-as-head-of-a-taskforce-overseeing-t.html)  [JSON](/news/2012/10/13/the-uk-s-department-of-health-is-to-investigate-the-decision-to-appoint-the-broadcaster-sir-james-savile-as-head-of-a-taskforce-overseeing-t.json)  [XML](/news/2012/10/13/the-uk-s-department-of-health-is-to-investigate-the-decision-to-appoint-the-broadcaster-sir-james-savile-as-head-of-a-taskforce-overseeing-t.xml)  
+
 ### [2012-10-13](/news/2012/10/13/index.md)
 
+##### Department of Health
 # The UK's Department of Health is to investigate the decision to appoint the broadcaster Sir James Savile as head of a taskforce overseeing the high security Broadmoor Hospital, a facility for the criminally insane, following recent allegations of sexual abuse. He was appointed to the position in the late 1980s. 
 
 The Department of Health is to investigate the decision to appoint Sir Jimmy Savile as head of a taskforce overseeing the high security psychiatric hospital Broadmoor in the late 1980s.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-19936195)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63473000/jpg/_63473160_1ygnim90.jpg)

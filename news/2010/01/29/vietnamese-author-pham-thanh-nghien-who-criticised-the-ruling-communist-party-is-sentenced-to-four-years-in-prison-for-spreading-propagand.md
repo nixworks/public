@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/29/vietnamese-author-pham-thanh-nghien-who-criticised-the-ruling-communist-party-is-sentenced-to-four-years-in-prison-for-spreading-propagand.html)  [JSON](/news/2010/01/29/vietnamese-author-pham-thanh-nghien-who-criticised-the-ruling-communist-party-is-sentenced-to-four-years-in-prison-for-spreading-propagand.json)  [XML](/news/2010/01/29/vietnamese-author-pham-thanh-nghien-who-criticised-the-ruling-communist-party-is-sentenced-to-four-years-in-prison-for-spreading-propagand.xml)  
+
 ### [2010-01-29](/news/2010/01/29/index.md)
 
+##### Vietnam
 # Vietnamese author Pham Thanh Nghien, who criticised the ruling Communist Party, is sentenced to four years in prison for spreading propaganda against the state. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/201012952639939714.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8486647.stm)

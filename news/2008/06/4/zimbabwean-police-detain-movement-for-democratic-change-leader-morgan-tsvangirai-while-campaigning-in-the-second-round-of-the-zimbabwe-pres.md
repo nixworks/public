@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/4/zimbabwean-police-detain-movement-for-democratic-change-leader-morgan-tsvangirai-while-campaigning-in-the-second-round-of-the-zimbabwe-pres.html)  [JSON](/news/2008/06/4/zimbabwean-police-detain-movement-for-democratic-change-leader-morgan-tsvangirai-while-campaigning-in-the-second-round-of-the-zimbabwe-pres.json)  [XML](/news/2008/06/4/zimbabwean-police-detain-movement-for-democratic-change-leader-morgan-tsvangirai-while-campaigning-in-the-second-round-of-the-zimbabwe-pres.xml)  
+
 ### [2008-06-4](/news/2008/06/4/index.md)
 
+##### police
 #  Zimbabwean police detain Movement for Democratic Change leader Morgan Tsvangirai while campaigning in the second round of the Zimbabwe presidential election. He is later released after eight hours in detention. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7435869.stm)
 2. [The Times](http://www.timesonline.co.uk/tol/news/world/africa/article4066774.ece)

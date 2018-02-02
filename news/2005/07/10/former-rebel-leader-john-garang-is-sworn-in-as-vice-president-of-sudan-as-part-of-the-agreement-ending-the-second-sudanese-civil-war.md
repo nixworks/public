@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/10/former-rebel-leader-john-garang-is-sworn-in-as-vice-president-of-sudan-as-part-of-the-agreement-ending-the-second-sudanese-civil-war.html)  [JSON](/news/2005/07/10/former-rebel-leader-john-garang-is-sworn-in-as-vice-president-of-sudan-as-part-of-the-agreement-ending-the-second-sudanese-civil-war.json)  [XML](/news/2005/07/10/former-rebel-leader-john-garang-is-sworn-in-as-vice-president-of-sudan-as-part-of-the-agreement-ending-the-second-sudanese-civil-war.xml)  
+
 ### [2005-07-10](/news/2005/07/10/index.md)
 
+##### John Garang
 #  Former rebel leader John Garang is sworn in as vice president of Sudan as part of the agreement ending the Second Sudanese Civil War. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Boston Globe](http://www.boston.com/news/world/middleeast/articles/2005/07/10/former_enemies_sign_new_sudanese_constitution/)
 2. [Sudan Tribune](http://www.sudantribune.com/article.php3?id_article=10548)

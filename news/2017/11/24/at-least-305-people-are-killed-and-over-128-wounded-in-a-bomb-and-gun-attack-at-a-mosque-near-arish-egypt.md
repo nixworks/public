@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/24/at-least-305-people-are-killed-and-over-128-wou
 
 ### [2017-11-24](/news/2017/11/24/index.md)
 
+##### 2017 Sinai mosque attack
 # At least 305 people are killed, and over 128 wounded, in a bomb and gun attack at a mosque near Arish, Egypt. 
 
 A devastating gun and bomb attack on a mosque in the Sinai peninsula killed 300 people.

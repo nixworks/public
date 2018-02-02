@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/28/the-supreme-court-of-england-and-wales-grants-veterans-involved-in-britain-s-nuclear-weapons-tests-during-the-1950s-leave-to-appeal-in-their.html)  [JSON](/news/2011/07/28/the-supreme-court-of-england-and-wales-grants-veterans-involved-in-britain-s-nuclear-weapons-tests-during-the-1950s-leave-to-appeal-in-their.json)  [XML](/news/2011/07/28/the-supreme-court-of-england-and-wales-grants-veterans-involved-in-britain-s-nuclear-weapons-tests-during-the-1950s-leave-to-appeal-in-their.xml)  
+
 ### [2011-07-28](/news/2011/07/28/index.md)
 
+##### Supreme Court of England and Wales
 # The Supreme Court of England and Wales grants veterans involved in Britain's nuclear weapons tests during the 1950s leave to appeal in their fight for compensation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14320465)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54327000/jpg/_54327124_jex_1121345_de27-1.jpg)

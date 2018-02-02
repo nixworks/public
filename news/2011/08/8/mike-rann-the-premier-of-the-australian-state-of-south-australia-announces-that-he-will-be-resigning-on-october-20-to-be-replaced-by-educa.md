@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/8/mike-rann-the-premier-of-the-australian-state-of-south-australia-announces-that-he-will-be-resigning-on-october-20-to-be-replaced-by-educa.html)  [JSON](/news/2011/08/8/mike-rann-the-premier-of-the-australian-state-of-south-australia-announces-that-he-will-be-resigning-on-october-20-to-be-replaced-by-educa.json)  [XML](/news/2011/08/8/mike-rann-the-premier-of-the-australian-state-of-south-australia-announces-that-he-will-be-resigning-on-october-20-to-be-replaced-by-educa.xml)  
+
 ### [2011-08-8](/news/2011/08/8/index.md)
 
+##### Mike Rann
 # Mike Rann, the Premier of the Australian state of South Australia, announces that he will be resigning on October 20 to be replaced by Education Minister Jay Weatherill. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Herald Sun](http://www.heraldsun.com.au/news/left-leader-jay-weatherill-talks-up-labor-stability-at-right-wing-function/story-e6frf7jo-1226110900584)
 

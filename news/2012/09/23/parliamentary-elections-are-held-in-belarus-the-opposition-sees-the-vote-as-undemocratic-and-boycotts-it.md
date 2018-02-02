@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/23/parliamentary-elections-are-held-in-belarus-the-opposition-sees-the-vote-as-undemocratic-and-boycotts-it.html)  [JSON](/news/2012/09/23/parliamentary-elections-are-held-in-belarus-the-opposition-sees-the-vote-as-undemocratic-and-boycotts-it.json)  [XML](/news/2012/09/23/parliamentary-elections-are-held-in-belarus-the-opposition-sees-the-vote-as-undemocratic-and-boycotts-it.xml)  
+
 ### [2012-09-23](/news/2012/09/23/index.md)
 
+##### parliamentary elections
 # Parliamentary elections are held in Belarus. The opposition sees the vote as undemocratic and boycotts it. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [UKPA via Google News](http://www.google.com/hostednews/ukpress/article/ALeqM5g3KcoojbUHMQH9L4gomfU_9Ko18w?docId=N0340341348372696275A)
 

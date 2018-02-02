@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/18/somali-pirates-hijack-an-iranian-fishing-vessel-in-the-gulf-of-aden.html)  [JSON](/news/2009/03/18/somali-pirates-hijack-an-iranian-fishing-vessel-in-the-gulf-of-aden.json)  [XML](/news/2009/03/18/somali-pirates-hijack-an-iranian-fishing-vessel-in-the-gulf-of-aden.xml)  
+
 ### [2009-03-18](/news/2009/03/18/index.md)
 
+##### Somalia
 #  Somali pirates hijack an Iranian fishing vessel in the Gulf of Aden. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Horseed](http://english.horseedmedia.net/news/12001.shtml)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/24/the-european-commission-is-hit-by-a-cyberattack.html)  [JSON](/news/2011/03/24/the-european-commission-is-hit-by-a-cyberattack.json)  [XML](/news/2011/03/24/the-european-commission-is-hit-by-a-cyberattack.xml)  
+
 ### [2011-03-24](/news/2011/03/24/index.md)
 
+##### European Commission
 # The European Commission is hit by a cyberattack. 
 
 The European Commission has been hit by one of the most serious cyberattacks ever this week. Commission staff have been told to change their passwords and access to webmail and intranet from outside has been suspended.
 
 
-### Source:
+### Sources:
 
 1. [Computerworld](http://www.computerworld.com/s/article/9215041/European_Commission_hit_by_cyberattack)
 2. [Europolitics](http://www.europolitics.info/institutions/cyber-attack-hits-commission-art299419-36.html)
@@ -13,8 +17,8 @@ The European Commission has been hit by one of the most serious cyberattacks eve
 
 ### Related:
 
-1. [President of the European Commission, Jean-Claude Juncker, holds his annual State of the European Union speech in Strasbourg. ](/news/2017/09/13/president-of-the-european-commission-jean-claude-juncker-holds-his-annual-state-of-the-european-union-speech-in-strasbourg.md) _Context: European Commission_
-2. [Polish President Andrzej Duda announces he will veto two judicial reform bills passed by Poland's parliament, which the European Commission said would result in sanctions, and which have generated continuous demonstrations across the country. The ruling Law and Justice Party needs to put together a three-fifths majority to override the veto. ](/news/2017/07/24/polish-president-andrzej-duda-announces-he-will-veto-two-judicial-reform-bills-passed-by-poland-s-parliament-which-the-european-commission.md) _Context: European Commission_
-3. [The European Commission imposes a record EUR2.42bn antitrust fine on internet giant Google for allegedly manipulating its search engine results. ](/news/2017/06/27/the-european-commission-imposes-a-record-a-2-42bn-antitrust-fine-on-internet-giant-google-for-allegedly-manipulating-its-search-engine-resu.md) _Context: European Commission_
-4. [A major ransomware cyberattack strikes companies across the globe and 80% of all infections were in Ukraine. ](/news/2017/06/27/a-major-ransomware-cyberattack-strikes-companies-across-the-globe-and-80-of-all-infections-were-in-ukraine.md) _Context: cyberattack_
-5. [Police in the United Kingdom are investigating a cyberattack on the Houses of Parliament after an attempt was made to gain unauthorised access to politicians' email accounts. ](/news/2017/06/24/police-in-the-united-kingdom-are-investigating-a-cyberattack-on-the-houses-of-parliament-after-an-attempt-was-made-to-gain-unauthorised-acce.md) _Context: cyberattack_
+1. [The European Commission orders Poland, the Czech Republic and Hungary to court over their refusal to incorporate more refugees. This is the third step in a process that may lead to fines and loss of the countries' voting rights in the European Union. ](/news/2017/12/7/the-european-commission-orders-poland-the-czech-republic-and-hungary-to-court-over-their-refusal-to-incorporate-more-refugees-this-is-the.md) _Context: European Commission_
+2. [Apple Inc. and Ireland agree on an interim deal to put EUR13 billion in an escrow fund for the repayment of back taxes, starting early 2018. Still, both parties refute that the alleged "sweetheart" corporate tax deals were illegal. In 2016, the European Commission found that an unfair advantage of EUR13 billion is to be reimbursed. ](/news/2017/12/4/apple-inc-and-ireland-agree-on-an-interim-deal-to-put-a-13-billion-in-an-escrow-fund-for-the-repayment-of-back-taxes-starting-early-2018.md) _Context: European Commission_
+3. [The European Commission invokes Article 7 of the European Treaty against E.U. member Poland, denouncing recent judiciary reforms putting it under the political control of the ruling majority and citing "serious risk to the independence of the judiciary and the separation of powers". ](/news/2017/12/20/the-european-commission-invokes-article-7-of-the-european-treaty-against-e-u-member-poland-denouncing-recent-judiciary-reforms-putting-it.md) _Context: European Commission_
+4. [Reacting to a petition from more than a million EU citizens, the European Commission releases a 16-page report on glyphosate. It adopts a renewal of the approval of glyphosate for a 5-year period and plans to improve the science reviewing process. ](/news/2017/12/12/reacting-to-a-petition-from-more-than-a-million-eu-citizens-the-european-commission-releases-a-16-page-report-on-glyphosate-it-adopts-a-re.md) _Context: European Commission_
+5. [The European Commission scraps the draft legislation that would have permitted the EBA regulator to order "too big to fail" banks to split off their trading activities, citing "no foreseeable agreement" in sight on criteria. The draft was supposed to be the EU's answer to the United States' Volcker Rule. ](/news/2017/10/24/the-european-commission-scraps-the-draft-legislation-that-would-have-permitted-the-eba-regulator-to-order-too-big-to-fail-banks-to-split-o.md) _Context: European Commission_

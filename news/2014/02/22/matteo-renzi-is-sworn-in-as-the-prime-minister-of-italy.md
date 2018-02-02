@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/22/matteo-renzi-is-sworn-in-as-the-prime-minister-of-italy.html)  [JSON](/news/2014/02/22/matteo-renzi-is-sworn-in-as-the-prime-minister-of-italy.json)  [XML](/news/2014/02/22/matteo-renzi-is-sworn-in-as-the-prime-minister-of-italy.xml)  
+
 ### [2014-02-22](/news/2014/02/22/index.md)
 
+##### Matteo Renzi
 # Matteo Renzi is sworn in as the Prime Minister of Italy. 
 
 A new Italian government led by centre-left politician Matteo Renzi is sworn in after promising quick action to tackle a stagnant economy.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-26301943)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73154000/jpg/_73154053_73154020.jpg)

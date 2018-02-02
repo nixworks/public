@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/23/two-explosions-in-a-park-in-the-japanese-city-o
 
 ### [2016-10-23](/news/2016/10/23/index.md)
 
+##### Japan
 # Two explosions in a park in the Japanese city of Utsunomiya, Tochigi Prefecture, kill at least one person and injure three others. Local media report that a 72-year-old ex-military officer is responsible for the blasts. A fire the same day destroyed the suspect's house. 
 
 72-year-old may have blown himself up in Utsunomiya park, media reports suggest

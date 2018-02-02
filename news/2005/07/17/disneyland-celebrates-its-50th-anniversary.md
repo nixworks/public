@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/07/17/disneyland-celebrates-its-50th-anniversary.html)  [JSON](/news/2005/07/17/disneyland-celebrates-its-50th-anniversary.json)  [XML](/news/2005/07/17/disneyland-celebrates-its-50th-anniversary.xml)  
+
 ### [2005-07-17](/news/2005/07/17/index.md)
 
+##### Disneyland
 #  Disneyland celebrates its 50th Anniversary.
 
 

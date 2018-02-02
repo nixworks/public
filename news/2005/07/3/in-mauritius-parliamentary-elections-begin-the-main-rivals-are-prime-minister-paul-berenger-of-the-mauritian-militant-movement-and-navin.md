@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/3/in-mauritius-parliamentary-elections-begin-the-main-rivals-are-prime-minister-paul-berenger-of-the-mauritian-militant-movement-and-navin.html)  [JSON](/news/2005/07/3/in-mauritius-parliamentary-elections-begin-the-main-rivals-are-prime-minister-paul-berenger-of-the-mauritian-militant-movement-and-navin.json)  [XML](/news/2005/07/3/in-mauritius-parliamentary-elections-begin-the-main-rivals-are-prime-minister-paul-berenger-of-the-mauritian-militant-movement-and-navin.xml)  
+
 ### [2005-07-3](/news/2005/07/3/index.md)
 
+##### Mauritius
 #  In Mauritius, parliamentary elections begin. The main rivals are prime minister Paul Brenger of the Mauritian Militant Movement and Navin Ramgoolam of the opposition Social Alliance. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4645673.stm)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=84&art_id=qw1120450507229R131)

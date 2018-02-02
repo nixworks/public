@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/02/26/egyptian-president-hosni-mubarak-calls-for-parliament-to-amend-the-constitution-to-allow-for-direct-secret-elections-for-the-next-presiden.html)  [JSON](/news/2005/02/26/egyptian-president-hosni-mubarak-calls-for-parliament-to-amend-the-constitution-to-allow-for-direct-secret-elections-for-the-next-presiden.json)  [XML](/news/2005/02/26/egyptian-president-hosni-mubarak-calls-for-parliament-to-amend-the-constitution-to-allow-for-direct-secret-elections-for-the-next-presiden.xml)  
+
 ### [2005-02-26](/news/2005/02/26/index.md)
 
+##### Egypt
 #  Egyptian President Hosni Mubarak calls for parliament to amend the constitution to allow for direct, secret elections for the next president. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aFlEwAfrotTk&refer=top_world_news)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000087&sid=aFlEwAfrotTk&refer=top_world_news)
 2. [Japan Today](http://www.japantoday.com/e/?content=news&cat=8&id=329092)
 3. [Khaleej Times](http://www.khaleejtimes.com/DisplayArticle.asp?xfile=data/middleeast/2005/February/middleeast_February705.xml&section=middleeast)
 

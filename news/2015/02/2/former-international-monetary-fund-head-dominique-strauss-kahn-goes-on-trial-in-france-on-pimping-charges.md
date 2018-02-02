@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/2/former-international-monetary-fund-head-dominique-strauss-kahn-goes-on-trial-in-france-on-pimping-charges.html)  [JSON](/news/2015/02/2/former-international-monetary-fund-head-dominique-strauss-kahn-goes-on-trial-in-france-on-pimping-charges.json)  [XML](/news/2015/02/2/former-international-monetary-fund-head-dominique-strauss-kahn-goes-on-trial-in-france-on-pimping-charges.xml)  
+
 ### [2015-02-2](/news/2015/02/2/index.md)
 
+##### International Monetary Fund
 # Former International Monetary Fund head Dominique Strauss-Kahn goes on trial in France on pimping charges. 
 
 The trial of former IMF chief Dominique Strauss-Kahn on charges of procuring women for sex parties opens in France.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-31087035)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/56957000/jpg/_56957145_012713033-1.jpg)

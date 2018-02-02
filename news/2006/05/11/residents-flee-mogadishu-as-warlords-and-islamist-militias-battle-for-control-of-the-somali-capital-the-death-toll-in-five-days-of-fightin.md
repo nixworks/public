@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/11/residents-flee-mogadishu-as-warlords-and-islamist-militias-battle-for-control-of-the-somali-capital-the-death-toll-in-five-days-of-fightin.html)  [JSON](/news/2006/05/11/residents-flee-mogadishu-as-warlords-and-islamist-militias-battle-for-control-of-the-somali-capital-the-death-toll-in-five-days-of-fightin.json)  [XML](/news/2006/05/11/residents-flee-mogadishu-as-warlords-and-islamist-militias-battle-for-control-of-the-somali-capital-the-death-toll-in-five-days-of-fightin.xml)  
+
 ### [2006-05-11](/news/2006/05/11/index.md)
 
+##### Mogadishu
 #  Residents flee Mogadishu as warlords and Islamist militias battle for control of the Somali capital. The death toll in five days of fighting reaches 120. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4760605.stm)
 2. [VoA](http://www.voanews.com/english/Africa/2006-05-11-voa61.cfm)

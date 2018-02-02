@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/02/12/an-attack-on-police-headquarters-in-kandahar-afghanistan-kills-16-officers-and-3-civilians-and-injures-53-others.html)  [JSON](/news/2011/02/12/an-attack-on-police-headquarters-in-kandahar-afghanistan-kills-16-officers-and-3-civilians-and-injures-53-others.json)  [XML](/news/2011/02/12/an-attack-on-police-headquarters-in-kandahar-afghanistan-kills-16-officers-and-3-civilians-and-injures-53-others.xml)  
+
 ### [2011-02-12](/news/2011/02/12/index.md)
 
+##### Kandahar
 # An attack on police headquarters in Kandahar, Afghanistan, kills 16 officers and 3 civilians, and injures 53 others.
 
 The fighting continued for nearly five hours before the police succeeded in killing three of the bombers and wounding and detaining the fourth, officials said.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/02/201121215356118383.html)
-2. [The New York Times](http://www.nytimes.com/2011/02/13/world/asia/13afghanistan.html?partner=rss&emc=rss)
+2. [The New York Times](https://www.nytimes.com/2011/02/13/world/asia/13afghanistan.html?partner=rss&emc=rss)
 2. [Cover Image](https://static01.nyt.com/images/2011/02/13/world/13afghanistan-span/JP-AFGHAN-thumbStandard.jpg)
 
 ### Related:

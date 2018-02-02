@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/31/at-least-seven-people-have-been-killed-and-another-40-hospitalised-from-drinking-illegal-alcohol-in-the-cuban-capital-havana.html)  [JSON](/news/2013/07/31/at-least-seven-people-have-been-killed-and-another-40-hospitalised-from-drinking-illegal-alcohol-in-the-cuban-capital-havana.json)  [XML](/news/2013/07/31/at-least-seven-people-have-been-killed-and-another-40-hospitalised-from-drinking-illegal-alcohol-in-the-cuban-capital-havana.xml)  
+
 ### [2013-07-31](/news/2013/07/31/index.md)
 
+##### Cuba
 # At least seven people have been killed and another 40 hospitalised from drinking illegal alcohol in the Cuban capital Havana. 
 
 Eleven people die and more than 40 others are admitted to hospital in the Cuban capital, Havana, after drinking a toxic liquid sold as rum.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-23526369)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69053000/jpg/_69053407_zu01eg3b.jpg)

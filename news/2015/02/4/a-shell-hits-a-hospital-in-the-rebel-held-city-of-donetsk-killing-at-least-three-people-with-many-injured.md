@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/02/4/a-shell-hits-a-hospital-in-the-rebel-held-city-of-donetsk-killing-at-least-three-people-with-many-injured.html)  [JSON](/news/2015/02/4/a-shell-hits-a-hospital-in-the-rebel-held-city-of-donetsk-killing-at-least-three-people-with-many-injured.json)  [XML](/news/2015/02/4/a-shell-hits-a-hospital-in-the-rebel-held-city-of-donetsk-killing-at-least-three-people-with-many-injured.xml)  
+
 ### [2015-02-4](/news/2015/02/4/index.md)
 
+##### War in Donbass
 # A shell hits a hospital in the rebel-held city of Donetsk killing at least three people with many injured. 
 
 Three people are killed and many more wounded as a shell hits a hospital in the rebel-held city of Donetsk in eastern Ukraine.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-31129484?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/80778000/jpg/_80778368_b37eeec1-15c8-47f1-82bd-6ac68048f26e.jpg)
+
+### Changes:
+
+1. [War in Donbass: A shell hits a hospital in the rebel-held city of Donetsk killing at least three people with many injured. ](/news/2015/02/4/war-in-donbass-a-shell-hits-a-hospital-in-the-rebel-held-city-of-donetsk-killing-at-least-three-people-with-many-injured.md) _2017-08-27 03:41:52 (First version)_
+1. [A shell hits a hospital in the rebel-held city of Donetsk killing at least three people with many injured. ](/news/2015/02/4/a-shell-hits-a-hospital-in-the-rebel-held-city-of-donetsk-killing-at-least-three-people-with-many-injured.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Three people are killed and many more wounded as a shell hits a hospital in the 
 3. [Three Ukrainian Army soldiers are killed and eight more are injured around separatist-controlled Donetsk and government-controlled Mariupol by Russian-backed separatists. ](/news/2016/05/30/three-ukrainian-army-soldiers-are-killed-and-eight-more-are-injured-around-separatist-controlled-donetsk-and-government-controlled-mariupol.md) _Context: Donetsk, War in Donbass_
 4. [Portraits of former dictator Joseph Stalin go up in the city of Donetsk as the Donetsk People's Republic adopts more Soviet era policies. ](/news/2015/10/19/portraits-of-former-dictator-joseph-stalin-go-up-in-the-city-of-donetsk-as-the-donetsk-people-s-republic-adopts-more-soviet-era-policies.md) _Context: Donetsk, War in Donbass_
 5. [Luhansk People's Republic officials in Donetsk tell U.N. agencies and several other international NGOs to leave the Luhansk region in eastern Ukraine. Despite the Minsk Protocol and Minsk II peace agreements low intensity fighting and shelling have continued non-stop in the region for over a year. ](/news/2015/09/24/luhansk-people-s-republic-officials-in-donetsk-tell-u-n-agencies-and-several-other-international-ngos-to-leave-the-luhansk-region-in-easter.md) _Context: Donetsk, War in Donbass_
-
-### Changes:
-
-1. [War in Donbass: A shell hits a hospital in the rebel-held city of Donetsk killing at least three people with many injured. ](/news/2015/02/4/war-in-donbass-a-shell-hits-a-hospital-in-the-rebel-held-city-of-donetsk-killing-at-least-three-people-with-many-injured.md) _2017-08-27 03:41:52 (First version)_
-1. [A shell hits a hospital in the rebel-held city of Donetsk killing at least three people with many injured. ](/news/2015/02/4/a-shell-hits-a-hospital-in-the-rebel-held-city-of-donetsk-killing-at-least-three-people-with-many-injured.md) _(Current version)_

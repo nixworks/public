@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/16/former-president-of-olympus-corporation-tsuyoshi-kikukawa-is-arrested-in-relation-to-the-olympus-scandal-along-with-two-other-former-senior.html)  [JSON](/news/2012/02/16/former-president-of-olympus-corporation-tsuyoshi-kikukawa-is-arrested-in-relation-to-the-olympus-scandal-along-with-two-other-former-senior.json)  [XML](/news/2012/02/16/former-president-of-olympus-corporation-tsuyoshi-kikukawa-is-arrested-in-relation-to-the-olympus-scandal-along-with-two-other-former-senior.xml)  
+
 ### [2012-02-16](/news/2012/02/16/index.md)
 
+##### Olympus Corp
 # Former President of Olympus Corporation Tsuyoshi Kikukawa is arrested in relation to the Olympus scandal along with two other former senior executives. 
 
 The ex-chairman of Japanese camera manufacturer Olympus and two other former executives are arrested as part of an inquiry into the firm.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-17054089)
 2. [CNN](http://edition.cnn.com/2012/02/15/business/japan-olympus-prosecutors/index.html?eref=edition)

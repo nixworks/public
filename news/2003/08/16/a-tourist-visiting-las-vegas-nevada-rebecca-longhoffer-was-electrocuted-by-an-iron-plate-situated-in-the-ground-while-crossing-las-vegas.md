@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/16/a-tourist-visiting-las-vegas-nevada-rebecca-longhoffer-was-electrocuted-by-an-iron-plate-situated-in-the-ground-while-crossing-las-vegas.html)  [JSON](/news/2003/08/16/a-tourist-visiting-las-vegas-nevada-rebecca-longhoffer-was-electrocuted-by-an-iron-plate-situated-in-the-ground-while-crossing-las-vegas.json)  [XML](/news/2003/08/16/a-tourist-visiting-las-vegas-nevada-rebecca-longhoffer-was-electrocuted-by-an-iron-plate-situated-in-the-ground-while-crossing-las-vegas.xml)  
+
 ### [2003-08-16](/news/2003/08/16/index.md)
 
+##### Las Vegas Strip
 #  A tourist visiting Las Vegas, Nevada, Rebecca Longhoffer, was electrocuted by an iron plate situated in the ground while crossing Las Vegas Boulevard.
 
 

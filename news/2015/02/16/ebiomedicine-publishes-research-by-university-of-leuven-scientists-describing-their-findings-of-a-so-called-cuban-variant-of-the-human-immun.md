@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/16/ebiomedicine-publishes-research-by-university-of-leuven-scientists-describing-their-findings-of-a-so-called-cuban-variant-of-the-human-immun.html)  [JSON](/news/2015/02/16/ebiomedicine-publishes-research-by-university-of-leuven-scientists-describing-their-findings-of-a-so-called-cuban-variant-of-the-human-immun.json)  [XML](/news/2015/02/16/ebiomedicine-publishes-research-by-university-of-leuven-scientists-describing-their-findings-of-a-so-called-cuban-variant-of-the-human-immun.xml)  
+
 ### [2015-02-16](/news/2015/02/16/index.md)
 
+##### University of Leuven
 # EBioMedicine publishes research by University of Leuven scientists describing their findings of a so-called Cuban variant of the human immunodeficiency virus (HIV) (the virus that causes A.I.D.S.) which is an aggressive strain that can rapidly progress to AIDS. 
 
 Scientists have found an aggressive strain of human immunodeficiency virus (HIV) in Cuba that they say can progress to AIDS so rapidly that patients may not even know they are infected before symptoms appear, Medical News Today reported.
 
 
-### Source:
+### Sources:
 
 1. [FOX News](http://www.foxnews.com/health/2015/02/16/scientists-find-new-aggressive-strain-hiv-in-cuba/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/health/2015/02/16/scientists-find-new-aggressive-strain-hiv-in-cuba/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1427468904521.jpg?ve=1)

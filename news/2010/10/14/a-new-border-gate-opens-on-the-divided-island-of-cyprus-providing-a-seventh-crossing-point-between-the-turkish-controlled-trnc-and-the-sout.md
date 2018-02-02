@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/14/a-new-border-gate-opens-on-the-divided-island-of-cyprus-providing-a-seventh-crossing-point-between-the-turkish-controlled-trnc-and-the-sout.html)  [JSON](/news/2010/10/14/a-new-border-gate-opens-on-the-divided-island-of-cyprus-providing-a-seventh-crossing-point-between-the-turkish-controlled-trnc-and-the-sout.json)  [XML](/news/2010/10/14/a-new-border-gate-opens-on-the-divided-island-of-cyprus-providing-a-seventh-crossing-point-between-the-turkish-controlled-trnc-and-the-sout.xml)  
+
 ### [2010-10-14](/news/2010/10/14/index.md)
 
+##### Cyprus
 # A new border gate opens on the divided island of Cyprus, providing a seventh crossing point between the Turkish-controlled TRNC and the southern part of the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TRT](http://www.trtenglish.com/trtworld/en/newsDetail.aspx?HaberKodu=ec504012-5fe1-4d6d-b1a8-12f61dd32740)
 

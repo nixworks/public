@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/19/people-s-bank-of-china-governor-zhou-xiaochuan-starts-talks-with-leadership-of-the-inter-american-development-bank-to-include-the-people-s.html)  [JSON](/news/2007/03/19/people-s-bank-of-china-governor-zhou-xiaochuan-starts-talks-with-leadership-of-the-inter-american-development-bank-to-include-the-people-s.json)  [XML](/news/2007/03/19/people-s-bank-of-china-governor-zhou-xiaochuan-starts-talks-with-leadership-of-the-inter-american-development-bank-to-include-the-people-s.xml)  
+
 ### [2007-03-19](/news/2007/03/19/index.md)
 
+##### People's Bank of China
 #  People's Bank of China Governor Zhou Xiaochuan starts talks with leadership of the Inter-American Development Bank to include the People's Republic of China as its newest member. This may signal erosion of Taiwan's status in the Latin American and Caribbean region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/fn/4640539.html)
 

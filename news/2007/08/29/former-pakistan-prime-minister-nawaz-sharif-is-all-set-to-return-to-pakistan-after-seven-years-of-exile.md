@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/08/29/former-pakistan-prime-minister-nawaz-sharif-is-all-set-to-return-to-pakistan-after-seven-years-of-exile.html)  [JSON](/news/2007/08/29/former-pakistan-prime-minister-nawaz-sharif-is-all-set-to-return-to-pakistan-after-seven-years-of-exile.json)  [XML](/news/2007/08/29/former-pakistan-prime-minister-nawaz-sharif-is-all-set-to-return-to-pakistan-after-seven-years-of-exile.xml)  
+
 ### [2007-08-29](/news/2007/08/29/index.md)
 
+##### Pakistan
 #  Former Pakistan Prime Minister Nawaz Sharif is all set to return to Pakistan after seven years of exile. 
 
 

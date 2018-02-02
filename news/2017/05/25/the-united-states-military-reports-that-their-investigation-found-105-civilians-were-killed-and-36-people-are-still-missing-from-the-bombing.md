@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/25/the-united-states-military-reports-that-their-i
 
 ### [2017-05-25](/news/2017/05/25/index.md)
 
+##### Battle of Mosul
 # The United States military reports that their investigation found 105 civilians were killed and 36 people are still missing from the bombing of a Mosul building on March 17. 
 
 A Pentagon investigation has found that more than 100 civilians were killed after the U.S. dropped a bomb on a building in Mosul, Iraq, in March.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/22/australian-politician-craig-thomson-is-charged-with-an-additional-19-charges-including-15-of-fraud-and-4-of-theft.html)  [JSON](/news/2013/05/22/australian-politician-craig-thomson-is-charged-with-an-additional-19-charges-including-15-of-fraud-and-4-of-theft.json)  [XML](/news/2013/05/22/australian-politician-craig-thomson-is-charged-with-an-additional-19-charges-including-15-of-fraud-and-4-of-theft.xml)  
+
 ### [2013-05-22](/news/2013/05/22/index.md)
 
+##### Australian
 # Australian politician Craig Thomson is charged with an additional 19 charges including 15 of fraud and 4 of theft. 
 
 Independent MP Craig Thomson is facing 19 new charges after appearing in a Melbourne court today.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/2013-05-22/craig-thomson-new-fraud-charges/4705424)
 1. [Cover Image](http://www.abc.net.au/news/image/4705562-1x1-700x700.jpg)

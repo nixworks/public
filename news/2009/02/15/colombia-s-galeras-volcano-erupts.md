@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/15/colombia-s-galeras-volcano-erupts.html)  [JSON](/news/2009/02/15/colombia-s-galeras-volcano-erupts.json)  [XML](/news/2009/02/15/colombia-s-galeras-volcano-erupts.xml)  
+
 ### [2009-02-15](/news/2009/02/15/index.md)
 
+##### Colombia
 #  Colombia's Galeras volcano erupts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2009/WORLD/americas/02/14/colombia.volcano/)
 

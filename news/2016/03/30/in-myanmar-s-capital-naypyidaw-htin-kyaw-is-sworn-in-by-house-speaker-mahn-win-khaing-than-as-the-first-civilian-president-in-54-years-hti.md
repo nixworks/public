@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/30/in-myanmar-s-capital-naypyidaw-htin-kyaw-is-swo
 
 ### [2016-03-30](/news/2016/03/30/index.md)
 
+##### Myanmar general election, 2015
 # In Myanmar's capital Naypyidaw, Htin Kyaw is sworn in by House Speaker Mahn Win Khaing Than as the first civilian president in 54 years. Htin Kyaw, a close aide to Aung San Suu Kyi, takes power from former general Thein Sein. 
 
 

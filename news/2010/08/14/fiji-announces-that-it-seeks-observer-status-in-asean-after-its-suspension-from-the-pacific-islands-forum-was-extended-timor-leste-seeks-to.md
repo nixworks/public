@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/14/fiji-announces-that-it-seeks-observer-status-in-asean-after-its-suspension-from-the-pacific-islands-forum-was-extended-timor-leste-seeks-to.html)  [JSON](/news/2010/08/14/fiji-announces-that-it-seeks-observer-status-in-asean-after-its-suspension-from-the-pacific-islands-forum-was-extended-timor-leste-seeks-to.json)  [XML](/news/2010/08/14/fiji-announces-that-it-seeks-observer-status-in-asean-after-its-suspension-from-the-pacific-islands-forum-was-extended-timor-leste-seeks-to.xml)  
+
 ### [2010-08-14](/news/2010/08/14/index.md)
 
+##### Fiji
 # Fiji announces that it seeks observer status in ASEAN after its suspension from the Pacific Islands Forum was extended. Timor-Leste seeks to become a member of the Melanesian Spearhead Group. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Solomon Star](http://www.solomonstarnews.com/news/regional/7470-east-timor-wants-to-join-msg)
 

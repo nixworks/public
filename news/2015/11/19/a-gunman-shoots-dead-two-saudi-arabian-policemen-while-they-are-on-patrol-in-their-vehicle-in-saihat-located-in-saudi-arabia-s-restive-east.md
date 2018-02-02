@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/19/a-gunman-shoots-dead-two-saudi-arabian-policemen-while-they-are-on-patrol-in-their-vehicle-in-saihat-located-in-saudi-arabia-s-restive-east.html)  [JSON](/news/2015/11/19/a-gunman-shoots-dead-two-saudi-arabian-policemen-while-they-are-on-patrol-in-their-vehicle-in-saihat-located-in-saudi-arabia-s-restive-east.json)  [XML](/news/2015/11/19/a-gunman-shoots-dead-two-saudi-arabian-policemen-while-they-are-on-patrol-in-their-vehicle-in-saihat-located-in-saudi-arabia-s-restive-east.xml)  
+
 ### [2015-11-19](/news/2015/11/19/index.md)
 
+##### Saudi Arabia
 # A gunman shoots dead two Saudi Arabian policemen while they are on patrol in their vehicle in Saihat, located in Saudi Arabia's restive Eastern Province, which is predominantly Shia. 
 
 Two policemen have been shot dead in a predominantly Shia Muslim region of eastern Saudi Arabia, the interior ministry says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-34855512)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/83169000/png/_83169684_saudieasternqatif0515.png)
@@ -13,7 +17,7 @@ Two policemen have been shot dead in a predominantly Shia Muslim region of easte
 ### Related:
 
 1. [At least 3 people are killed and 7 wounded in an attack on a Shia mosque in Saudi Arabia's Eastern Province. ](/news/2016/01/29/at-least-3-people-are-killed-and-7-wounded-in-an-attack-on-a-shia-mosque-in-saudi-arabia-s-eastern-province.md) _Context: Eastern Province, Saudi Arabia_
-2. [Popular Saudi Shia Sheikh Nimr al-Nimr sentenced to death by Saudi court that tries terrorists and human rights activists. ](/news/2014/10/15/popular-saudi-shia-sheikh-nimr-al-nimr-sentenced-to-death-by-saudi-court-that-tries-terrorists-and-human-rights-activists.md) _Context: Saudi Arabia, Shi'ite_
-3. [ Shi'ites say Saudi air attacks on northern Yemen have led to the deaths of 54 people, including women and children. ](/news/2009/12/20/shi-ites-say-saudi-air-attacks-on-northern-yemen-have-led-to-the-deaths-of-54-people-including-women-and-children.md) _Context: Saudi Arabia, Shi'ite_
-4. [A Saudi national opens fire at the Al-Salam Royal Palace in Jeddah, Saudi Arabia, killing two guards and injuring three others. Security guards shoot and kill the gunman. ](/news/2017/10/7/a-saudi-national-opens-fire-at-the-al-salam-royal-palace-in-jeddah-saudi-arabia-killing-two-guards-and-injuring-three-others-security-gua.md) _Context: Saudi Arabia_
-5. [King Salman of Saudi Arabia visits Russian President Vladimir Putin in the Moscow Kremlin. They discuss oil prices and the Syrian Civil War. ](/news/2017/10/5/king-salman-of-saudi-arabia-visits-russian-president-vladimir-putin-in-the-moscow-kremlin-they-discuss-oil-prices-and-the-syrian-civil-war.md) _Context: Saudi Arabia_
+2. [Popular Saudi Shia Sheikh Nimr al-Nimr sentenced to death by Saudi court that tries terrorists and human rights activists. ](/news/2014/10/15/popular-saudi-shia-sheikh-nimr-al-nimr-sentenced-to-death-by-saudi-court-that-tries-terrorists-and-human-rights-activists.md) _Context: Saudi Arabia, Shia_
+3. [ Shi'ites say Saudi air attacks on northern Yemen have led to the deaths of 54 people, including women and children. ](/news/2009/12/20/shi-ites-say-saudi-air-attacks-on-northern-yemen-have-led-to-the-deaths-of-54-people-including-women-and-children.md) _Context: Saudi Arabia, Shia_
+4. [Nigerian Shia Islamic Movement leader, Ibrahim Zakzaky, who is detained at an unknown location without charges since December 2015, makes a short public appearance, his first in two years, being allowed to see his doctor. ](/news/2018/01/13/nigerian-shia-islamic-movement-leader-ibrahim-zakzaky-who-is-detained-at-an-unknown-location-without-charges-since-december-2015-makes-a.md) _Context: Shia_
+5. [For the first time, Saudi Arabia allows women to spectate at football matches, part of an easing of strict rules on gender separation by the ultra-conservative Muslim country. ](/news/2018/01/12/for-the-first-time-saudi-arabia-allows-women-to-spectate-at-football-matches-part-of-an-easing-of-strict-rules-on-gender-separation-by-the.md) _Context: Saudi Arabia_

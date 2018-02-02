@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/30/at-least-15-people-are-killed-and-50-are-wounde
 
 ### [2016-06-30](/news/2016/06/30/index.md)
 
+##### Boko Haram insurgency
 # At least 15 people are killed and 50 are wounded following two suicide bombings in Cameroon's Far North Region. 
 
 

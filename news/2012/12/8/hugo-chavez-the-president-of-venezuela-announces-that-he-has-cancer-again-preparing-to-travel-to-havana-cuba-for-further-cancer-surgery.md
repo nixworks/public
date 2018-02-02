@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2012/12/8/hugo-chavez-the-president-of-venezuela-announces-that-he-has-cancer-again-preparing-to-travel-to-havana-cuba-for-further-cancer-surgery.html)  [JSON](/news/2012/12/8/hugo-chavez-the-president-of-venezuela-announces-that-he-has-cancer-again-preparing-to-travel-to-havana-cuba-for-further-cancer-surgery.json)  [XML](/news/2012/12/8/hugo-chavez-the-president-of-venezuela-announces-that-he-has-cancer-again-preparing-to-travel-to-havana-cuba-for-further-cancer-surgery.xml)  
+
 ### [2012-12-8](/news/2012/12/8/index.md)
 
+##### Hugo Chvez
 # Hugo Chvez, the President of Venezuela, announces that he has cancer again. Preparing to travel to Havana, Cuba, for further cancer surgery, he named Vice President Nicols Maduro to carry out his legacy if he is unable to remain in office. 
 
 Doctors found malignant cells during tests in Cuba, President Hugo Chávez of Venezuela said, adding that his vice president would succeed him if his health worsened.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Huffington Post](http://www.huffingtonpost.com/2012/12/08/hugo-chavez-cancer_n_2265023.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-20656441)
-3. [Reuters](http://www.reuters.com/article/2012/12/09/venezuela-chavez-idUSL1E8N901X20121209)
-4. [The New York Times](http://www.nytimes.com/2012/12/09/world/americas/malignant-cells-found-hugo-chavez-to-have-cancer-surgery.html)
+3. [Reuters](https://www.reuters.com/article/2012/12/09/venezuela-chavez-idUSL1E8N901X20121209)
+4. [The New York Times](https://www.nytimes.com/2012/12/09/world/americas/malignant-cells-found-hugo-chavez-to-have-cancer-surgery.html)
 4. [Cover Image](https://static01.nyt.com/images/2012/12/09/world/09venezuela1_span/09venezuela1_span-superJumbo.jpg)
 
 ### Related:

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/1/negotiators-reach-a-preliminary-deal-on-capping-
 
 ### [2017-02-1](/news/2017/02/1/index.md)
 
+##### European Union roaming regulations
 # Negotiators reach a preliminary deal on capping mobile phone intercarrier ("wholesale") tariffs. Roaming charges on voice and data calls for consumers within the EU are expected to be terminated on June 15, 2017. 
 
  European lawmakers clinched a deal early on Wednesday to cap the wholesale charges mobile service operators pay each other to enable their customers to use the

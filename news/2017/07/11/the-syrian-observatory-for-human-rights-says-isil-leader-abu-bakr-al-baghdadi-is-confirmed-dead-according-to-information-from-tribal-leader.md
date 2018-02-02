@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/11/the-syrian-observatory-for-human-rights-says-is
 
 ### [2017-07-11](/news/2017/07/11/index.md)
 
+##### Syrian Civil War
 # The Syrian Observatory for Human Rights says ISIL leader Abu Bakr al-Baghdadi is confirmed dead, according to information from tribal leaders close to ISIL in the Deir ez-Zor Governorate. In June, Russia said it had "most likely" killed al-Baghdadi and several other high profile ISIL leaders in an airstrike but provided no evidence. 
 
 Isis leader Abu Bakr al-Baghdadi has been confirmed killed, war monitor the Syrian Observatory for Human Rights (SOHR) has said. &quot;(We have) confirmed information from leaders, including one of the first rank, in [Isis territory] in the eastern countryside of Deir Ezzor,&quot; director of the UK-based group Rami Abdulrahman told Reuters on Tuesday.

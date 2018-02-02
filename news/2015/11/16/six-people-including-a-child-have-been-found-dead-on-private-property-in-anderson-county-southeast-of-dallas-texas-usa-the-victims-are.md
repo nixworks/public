@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/16/six-people-including-a-child-have-been-found-dead-on-private-property-in-anderson-county-southeast-of-dallas-texas-usa-the-victims-are.html)  [JSON](/news/2015/11/16/six-people-including-a-child-have-been-found-dead-on-private-property-in-anderson-county-southeast-of-dallas-texas-usa-the-victims-are.json)  [XML](/news/2015/11/16/six-people-including-a-child-have-been-found-dead-on-private-property-in-anderson-county-southeast-of-dallas-texas-usa-the-victims-are.xml)  
+
 ### [2015-11-16](/news/2015/11/16/index.md)
 
+##### Anderson County
 # Six people, including a child, have been found dead on private property in Anderson County, southeast of Dallas, Texas, USA. The victims are members of two different families. One person, unrelated to the victims, is charged with one count of murder. More charges are expected. 
 
 One person has been arrested in connection with the death of six people, including one child, in Anderson County.
 
 
-### Source:
+### Sources:
 
 1. [CBS DFW](http://dfw.cbslocal.com/2015/11/16/family-confirms-6-killed-at-anderson-county-campsite/)
 1. [Cover Image](https://cbsdallas.files.wordpress.com/2015/11/anderson-county-victims.jpg?w=1245)

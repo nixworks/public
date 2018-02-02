@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/20/a-fire-in-a-nightclub-in-the-southern-chinese-city-of-shenzhen-results-in-43-dead-and-another-51-injured.html)  [JSON](/news/2008/09/20/a-fire-in-a-nightclub-in-the-southern-chinese-city-of-shenzhen-results-in-43-dead-and-another-51-injured.json)  [XML](/news/2008/09/20/a-fire-in-a-nightclub-in-the-southern-chinese-city-of-shenzhen-results-in-43-dead-and-another-51-injured.xml)  
+
 ### [2008-09-20](/news/2008/09/20/index.md)
 
+##### nightclub
 #  A fire in a nightclub in the southern Chinese city of Shenzhen results in 43 dead and another 51 injured. 
 
 A fire at a club in the southern Chinese city of Shenzhen, near the border with Hong Kong, has killed 43 people and left at least 51 injured, state-run media said.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2008/09/21/2370116.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

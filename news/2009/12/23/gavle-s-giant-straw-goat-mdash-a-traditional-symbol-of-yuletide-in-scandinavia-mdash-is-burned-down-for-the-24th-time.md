@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/23/gavle-s-giant-straw-goat-mdash-a-traditional-symbol-of-yuletide-in-scandinavia-mdash-is-burned-down-for-the-24th-time.html)  [JSON](/news/2009/12/23/gavle-s-giant-straw-goat-mdash-a-traditional-symbol-of-yuletide-in-scandinavia-mdash-is-burned-down-for-the-24th-time.json)  [XML](/news/2009/12/23/gavle-s-giant-straw-goat-mdash-a-traditional-symbol-of-yuletide-in-scandinavia-mdash-is-burned-down-for-the-24th-time.xml)  
+
 ### [2009-12-23](/news/2009/12/23/index.md)
 
+##### Gvle
 #  Gvle's giant straw goat &mdash; a traditional symbol of yuletide in Scandinavia &mdash; is burned down for the 24th time. 
 
 A Christmas goat made of straw has been burned down by vandals in a Swedish city in what has become a yuletide tradition.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8428650.stm)
 2. [Reuters Africa](http://af.reuters.com/article/oddlyEnoughNews/idAFTRE5BM2EH20091223)

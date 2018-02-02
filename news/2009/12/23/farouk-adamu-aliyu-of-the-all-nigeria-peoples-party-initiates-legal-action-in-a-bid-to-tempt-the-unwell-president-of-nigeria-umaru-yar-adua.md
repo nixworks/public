@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/23/farouk-adamu-aliyu-of-the-all-nigeria-peoples-party-initiates-legal-action-in-a-bid-to-tempt-the-unwell-president-of-nigeria-umaru-yar-adua.html)  [JSON](/news/2009/12/23/farouk-adamu-aliyu-of-the-all-nigeria-peoples-party-initiates-legal-action-in-a-bid-to-tempt-the-unwell-president-of-nigeria-umaru-yar-adua.json)  [XML](/news/2009/12/23/farouk-adamu-aliyu-of-the-all-nigeria-peoples-party-initiates-legal-action-in-a-bid-to-tempt-the-unwell-president-of-nigeria-umaru-yar-adua.xml)  
+
 ### [2009-12-23](/news/2009/12/23/index.md)
 
+##### Farouk Adamu Aliyu
 #  Farouk Adamu Aliyu of the All Nigeria Peoples Party initiates legal action in a bid to tempt the unwell President of Nigeria Umaru Yar'Adua, who is hospitalised in Saudi Arabia, to resign the position on health grounds. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8429184.stm)
 

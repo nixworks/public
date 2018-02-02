@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/30/a-fire-results-in-the-collapse-of-a-bridge-on-i
 
 ### [2017-03-30](/news/2017/03/30/index.md)
 
+##### Interstate 85 bridge collapse
 # A fire results in the collapse of a bridge on Interstate 85 in Atlanta, Georgia, during rush hour, stranding motorists and resulting in a state of emergency. Atlanta mayor Kasim Reed calls the situation a "transportation crisis" that could close the affected stretch of highway for days or weeks. A 2015 report stated that the highway carried nearly a quarter-million vehicles a day. 
 
 All lanes of one of the busiest commercial throughways in America are expected to be blocked indefinitely in the area, authorities said.

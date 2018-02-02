@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/02/8/the-opening-ceremony-of-the-2002-winter-olympic-games-which-are-held-in-salt-lake-city.html)  [JSON](/news/2002/02/8/the-opening-ceremony-of-the-2002-winter-olympic-games-which-are-held-in-salt-lake-city.json)  [XML](/news/2002/02/8/the-opening-ceremony-of-the-2002-winter-olympic-games-which-are-held-in-salt-lake-city.xml)  
+
 ### [2002-02-8](/news/2002/02/8/index.md)
 
+##### 2002 Winter Olympic Games
 #  The opening ceremony of the 2002 Winter Olympic Games, which are held in Salt Lake City.
 
 

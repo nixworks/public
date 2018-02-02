@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/04/25/french-unemployment-reaches-a-record-level-of-3-22-million.html)  [JSON](/news/2013/04/25/french-unemployment-reaches-a-record-level-of-3-22-million.json)  [XML](/news/2013/04/25/french-unemployment-reaches-a-record-level-of-3-22-million.xml)  
+
 ### [2013-04-25](/news/2013/04/25/index.md)
 
+##### French-born
 # French unemployment reaches a record level of 3.22 million. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/04/25/france-economy-unemployment-idUSP6N0CC01M20130425)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2013/04/25/france-economy-unemployment-idUSP6N0CC01M20130425)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

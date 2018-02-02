@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/23/south-korean-author-shin-kyung-sook-admits-to-plagiarising-a-short-story-from-japanese-author-yukio-mishima.html)  [JSON](/news/2015/06/23/south-korean-author-shin-kyung-sook-admits-to-plagiarising-a-short-story-from-japanese-author-yukio-mishima.json)  [XML](/news/2015/06/23/south-korean-author-shin-kyung-sook-admits-to-plagiarising-a-short-story-from-japanese-author-yukio-mishima.xml)  
+
 ### [2015-06-23](/news/2015/06/23/index.md)
 
+##### South Korea
 # South Korean author Shin Kyung-sook admits to plagiarising a short story from Japanese author Yukio Mishima. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/ef23e30af2ba411a9b25f0fae1452674/south-korean-novelist-admits-plagiarizing-japanese-author)
 

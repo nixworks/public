@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/26/an-explosion-at-an-ordnance-depot-in-aleppo-syria-kills-at-least-15-people-and-injures-50-others.html)  [JSON](/news/2007/07/26/an-explosion-at-an-ordnance-depot-in-aleppo-syria-kills-at-least-15-people-and-injures-50-others.json)  [XML](/news/2007/07/26/an-explosion-at-an-ordnance-depot-in-aleppo-syria-kills-at-least-15-people-and-injures-50-others.xml)  
+
 ### [2007-07-26](/news/2007/07/26/index.md)
 
+##### explosion
 #  An explosion at an ordnance depot in Aleppo, Syria kills at least 15 people and injures 50 others. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1185379010484&pagename=JPost%2FJPArticle%2FShowFull)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/6/after-the-venezuelan-government-orders-shops-to-
 
 ### [2018-01-6](/news/2018/01/6/index.md)
 
+##### Crisis in Venezuela (2012-present)
 # After the Venezuelan government orders shops to lower prices, hundreds of people line up to take advantage of these price cuts. 
 
 

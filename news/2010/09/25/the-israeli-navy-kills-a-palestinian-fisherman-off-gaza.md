@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/25/the-israeli-navy-kills-a-palestinian-fisherman-off-gaza.html)  [JSON](/news/2010/09/25/the-israeli-navy-kills-a-palestinian-fisherman-off-gaza.json)  [XML](/news/2010/09/25/the-israeli-navy-kills-a-palestinian-fisherman-off-gaza.xml)  
+
 ### [2010-09-25](/news/2010/09/25/index.md)
 
+##### Israeli Navy
 # The Israeli Navy kills a Palestinian fisherman off Gaza. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Middle-East-Palestinian-Fisherman-Killed-By-Israel-Navy-As-Mahmoud-Abbas-Agrees-To-More-Peace-Talks/Article/201009415742985?lpos=World_News_Top_Stories_Header_1&lid=ARTICLE_15742985_Middle_East%3A_Palestinian_Fisherman_Killed_By_Israel_Navy_As_Mahmoud_Abbas_Agrees_To_More_Peace_Talks)
 

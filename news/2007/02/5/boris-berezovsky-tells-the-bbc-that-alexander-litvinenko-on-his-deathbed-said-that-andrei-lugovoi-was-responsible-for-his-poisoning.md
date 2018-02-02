@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/5/boris-berezovsky-tells-the-bbc-that-alexander-litvinenko-on-his-deathbed-said-that-andrei-lugovoi-was-responsible-for-his-poisoning.html)  [JSON](/news/2007/02/5/boris-berezovsky-tells-the-bbc-that-alexander-litvinenko-on-his-deathbed-said-that-andrei-lugovoi-was-responsible-for-his-poisoning.json)  [XML](/news/2007/02/5/boris-berezovsky-tells-the-bbc-that-alexander-litvinenko-on-his-deathbed-said-that-andrei-lugovoi-was-responsible-for-his-poisoning.xml)  
+
 ### [2007-02-5](/news/2007/02/5/index.md)
 
+##### Boris Berezovsky
 #  Boris Berezovsky tells the BBC that Alexander Litvinenko, on his deathbed, said that Andrei Lugovoi was responsible for his poisoning. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/6333809.stm)
 

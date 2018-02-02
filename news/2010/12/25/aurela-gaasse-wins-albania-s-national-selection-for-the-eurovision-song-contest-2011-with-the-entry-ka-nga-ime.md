@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/25/aurela-gaasse-wins-albania-s-national-selection-for-the-eurovision-song-contest-2011-with-the-entry-ka-nga-ime.html)  [JSON](/news/2010/12/25/aurela-gaasse-wins-albania-s-national-selection-for-the-eurovision-song-contest-2011-with-the-entry-ka-nga-ime.json)  [XML](/news/2010/12/25/aurela-gaasse-wins-albania-s-national-selection-for-the-eurovision-song-contest-2011-with-the-entry-ka-nga-ime.xml)  
+
 ### [2010-12-25](/news/2010/12/25/index.md)
 
+##### Aurela Gace
 # Aurela Gace wins Albania's national selection for the Eurovision Song Contest 2011 with the entry "Kenga ime". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Eurovision.TV](http://www.eurovision.tv/page/news?id=22763&_t=Aurela+Ga%C3%A7e+wins+Albanian+ticket+to+Germany)
 

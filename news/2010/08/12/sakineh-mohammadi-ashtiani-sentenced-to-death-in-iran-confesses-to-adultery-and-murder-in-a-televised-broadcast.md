@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/12/sakineh-mohammadi-ashtiani-sentenced-to-death-in-iran-confesses-to-adultery-and-murder-in-a-televised-broadcast.html)  [JSON](/news/2010/08/12/sakineh-mohammadi-ashtiani-sentenced-to-death-in-iran-confesses-to-adultery-and-murder-in-a-televised-broadcast.json)  [XML](/news/2010/08/12/sakineh-mohammadi-ashtiani-sentenced-to-death-in-iran-confesses-to-adultery-and-murder-in-a-televised-broadcast.xml)  
+
 ### [2010-08-12](/news/2010/08/12/index.md)
 
+##### Sakineh Mohammadi Ashtiani
 # Sakineh Mohammadi Ashtiani, sentenced to death in Iran, "confesses" to adultery and murder in a televised broadcast. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE67B18220100812?sp=true)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/12/sakineh-mohammadi-ashtiani-confesses-murder-iran)

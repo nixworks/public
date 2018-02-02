@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/3/in-a-procedural-decision-the-european-court-of-justice-overturns-the-addition-of-the-kurdish-rebel-organization-pkk-to-the-eu-s-terrorist.html)  [JSON](/news/2008/04/3/in-a-procedural-decision-the-european-court-of-justice-overturns-the-addition-of-the-kurdish-rebel-organization-pkk-to-the-eu-s-terrorist.json)  [XML](/news/2008/04/3/in-a-procedural-decision-the-european-court-of-justice-overturns-the-addition-of-the-kurdish-rebel-organization-pkk-to-the-eu-s-terrorist.xml)  
+
 ### [2008-04-3](/news/2008/04/3/index.md)
 
+##### procedural
 #  In a procedural decision, the European Court of Justice overturns the addition of the Kurdish rebel organization PKK to the EU's terrorist blacklist. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7328238.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/5/helmin-wiels-leader-of-the-largest-political-party-in-curaassao-is-assassinated.html)  [JSON](/news/2013/05/5/helmin-wiels-leader-of-the-largest-political-party-in-curaassao-is-assassinated.json)  [XML](/news/2013/05/5/helmin-wiels-leader-of-the-largest-political-party-in-curaassao-is-assassinated.xml)  
+
 ### [2013-05-5](/news/2013/05/5/index.md)
 
+##### Helmin Wiels
 # Helmin Wiels, leader of the largest political party in Curacao, is assassinated. 
 
 Unidentified gunmen on the Dutch Caribbean island of Curacao kill Helmin Wiels, a prominent politician who campaigned for independence.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-22424009)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/67436000/jpg/_67436559_wielws2.jpg)

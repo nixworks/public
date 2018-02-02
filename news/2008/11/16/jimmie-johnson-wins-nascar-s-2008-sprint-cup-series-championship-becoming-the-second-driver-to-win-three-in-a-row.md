@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/11/16/jimmie-johnson-wins-nascar-s-2008-sprint-cup-series-championship-becoming-the-second-driver-to-win-three-in-a-row.html)  [JSON](/news/2008/11/16/jimmie-johnson-wins-nascar-s-2008-sprint-cup-series-championship-becoming-the-second-driver-to-win-three-in-a-row.json)  [XML](/news/2008/11/16/jimmie-johnson-wins-nascar-s-2008-sprint-cup-series-championship-becoming-the-second-driver-to-win-three-in-a-row.xml)  
+
 ### [2008-11-16](/news/2008/11/16/index.md)
 
+##### Jimmie Johnson
 #  Jimmie Johnson wins NASCAR's 2008 Sprint Cup Series championship, becoming the second driver to win three in a row. 
 
 Jimmie Johnson locked up his third consecutive championship with a solid 15th-place finish, joining Cale Yarborough as the only drivers to win three straight Cup titles.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/11/17/sports/othersports/17nascar.html?ref=othersports)
+1. [The New York Times](https://www.nytimes.com/2008/11/17/sports/othersports/17nascar.html?ref=othersports)
 1. [Cover Image](https://static01.nyt.com/images/2008/11/17/sports/17nascar.751.jpg)
 
 ### Related:

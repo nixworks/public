@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/31/the-sudanese-army-clashes-with-rebel-groups-among-them-the-justice-and-equality-movement-in-the-um-sauna-area-in-western-darfur.html)  [JSON](/news/2010/05/31/the-sudanese-army-clashes-with-rebel-groups-among-them-the-justice-and-equality-movement-in-the-um-sauna-area-in-western-darfur.json)  [XML](/news/2010/05/31/the-sudanese-army-clashes-with-rebel-groups-among-them-the-justice-and-equality-movement-in-the-um-sauna-area-in-western-darfur.xml)  
+
 ### [2010-05-31](/news/2010/05/31/index.md)
 
+##### Sudanese government troops
 # The Sudanese army clashes with rebel groups, among them the Justice and Equality Movement, in the Um Sauna area in western Darfur. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Businessweek](http://www.businessweek.com/news/2010-05-31/sudan-army-rebel-groups-clash-in-western-darfur-un-says.html)
 

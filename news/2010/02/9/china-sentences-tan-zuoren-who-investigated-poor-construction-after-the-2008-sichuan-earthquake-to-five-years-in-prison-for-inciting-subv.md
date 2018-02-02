@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/02/9/china-sentences-tan-zuoren-who-investigated-poor-construction-after-the-2008-sichuan-earthquake-to-five-years-in-prison-for-inciting-subv.html)  [JSON](/news/2010/02/9/china-sentences-tan-zuoren-who-investigated-poor-construction-after-the-2008-sichuan-earthquake-to-five-years-in-prison-for-inciting-subv.json)  [XML](/news/2010/02/9/china-sentences-tan-zuoren-who-investigated-poor-construction-after-the-2008-sichuan-earthquake-to-five-years-in-prison-for-inciting-subv.xml)  
+
 ### [2010-02-9](/news/2010/02/9/index.md)
 
+##### China
 # China sentences Tan Zuoren, who investigated poor construction after the 2008 Sichuan earthquake, to five years in prison for "inciting subversion of state power". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8505399.stm)
 2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20100209/news_20100209_56_646368.htm)
-3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/02/08/AR2010020804248.html)
+3. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/02/08/AR2010020804248.html)
 
 ### Related:
 

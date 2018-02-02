@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/02/16/george-w-bush-signs-a-secret-national-security-council-directive-establishing-the-goals-and-objectives-for-going-to-war-with-iraq-accordi.html)  [JSON](/news/2002/02/16/george-w-bush-signs-a-secret-national-security-council-directive-establishing-the-goals-and-objectives-for-going-to-war-with-iraq-accordi.json)  [XML](/news/2002/02/16/george-w-bush-signs-a-secret-national-security-council-directive-establishing-the-goals-and-objectives-for-going-to-war-with-iraq-accordi.xml)  
+
 ### [2002-02-16](/news/2002/02/16/index.md)
 
+##### George W. Bush
 #  George W. Bush signs a secret national security council directive establishing the goals and objectives for going to war with Iraq, according to the book Rumsfeld's War by Rowan Scarborough.
 
 

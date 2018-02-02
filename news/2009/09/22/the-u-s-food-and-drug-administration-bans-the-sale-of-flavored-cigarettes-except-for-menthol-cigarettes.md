@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/09/22/the-u-s-food-and-drug-administration-bans-the-sale-of-flavored-cigarettes-except-for-menthol-cigarettes.html)  [JSON](/news/2009/09/22/the-u-s-food-and-drug-administration-bans-the-sale-of-flavored-cigarettes-except-for-menthol-cigarettes.json)  [XML](/news/2009/09/22/the-u-s-food-and-drug-administration-bans-the-sale-of-flavored-cigarettes-except-for-menthol-cigarettes.xml)  
+
 ### [2009-09-22](/news/2009/09/22/index.md)
 
+##### Food and Drug Administration
 #  The U.S. Food and Drug Administration bans the sale of flavored cigarettes, except for menthol cigarettes. 
 
 The ban is the first major crackdown on cigarettes since the Food and Drug Administration was given authority to regulate tobacco products.
 
 
-### Source:
+### Sources:
 
-1. [The New York TImes](http://www.nytimes.com/2009/09/23/health/policy/23fda.html?_r=1&hp)
+1. [The New York TImes](https://www.nytimes.com/2009/09/23/health/policy/23fda.html?_r=1&hp)
 1. [Cover Image](https://static01.nyt.com/images/2009/09/23/health/policy/23fda.75.jpg)
 
 ### Related:

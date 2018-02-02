@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/16/at-least-70-people-are-killed-and-more-than-150
 
 ### [2017-02-16](/news/2017/02/16/index.md)
 
+##### yesterday's bombing
 # At least 70 people are killed and more than 150 injured in suicide bombing at Lal Shahbaz Qalandar Shrine in Sehwan, Sindh, Pakistan; 50 of the injured are in critical condition, medical emergency has been declared in the hospitals of Hyderabad, Dadu and Jamshoro. 
 
 Scores of people injured in the explosion; armed forces facilitating civil officials at site of attack.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/24/paul-gray-bassist-and-founding-member-of-heavy-metal-group-slipknot-is-found-dead-at-the-age-of-38-by-a-hotel-employee-in-his-room-in-iowa.html)  [JSON](/news/2010/05/24/paul-gray-bassist-and-founding-member-of-heavy-metal-group-slipknot-is-found-dead-at-the-age-of-38-by-a-hotel-employee-in-his-room-in-iowa.json)  [XML](/news/2010/05/24/paul-gray-bassist-and-founding-member-of-heavy-metal-group-slipknot-is-found-dead-at-the-age-of-38-by-a-hotel-employee-in-his-room-in-iowa.xml)  
+
 ### [2010-05-24](/news/2010/05/24/index.md)
 
+##### Paul Gray
 # Paul Gray, bassist and founding member of heavy metal group Slipknot, is found dead at the age of 38 by a hotel employee in his room in Iowa, United States. 
 
 Slipknot bassist Paul Gray has been found dead at a hotel near the band&#039;s home town of Des Moines, Iowa.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/05/25/2908424.htm?section=justin)
 2. [TIME](http://newsfeed.time.com/2010/05/24/slipknot-bassist-paul-gray-dies-at-38/)
@@ -15,8 +19,8 @@ Slipknot bassist Paul Gray has been found dead at a hotel near the band&#039;s h
 
 ### Related:
 
-1. [The United States Food and Drug Administration names Taylor Farms as the source of cyclospora parasite tainted salads that sickened 223 diners in the US states of Nebraska and Iowa. ](/news/2013/08/2/the-united-states-food-and-drug-administration-names-taylor-farms-as-the-source-of-cyclospora-parasite-tainted-salads-that-sickened-223-dine.md) _Context: Iowa, United States_
-2. [A heavy blizzard in the midwestern US states of Minnesota, Wisconsin, Iowa, Illinois and Michigan dropping about three feet of snow results in two deaths, road closures, flight cancellations and the inflatable roof of the Hubert H. Humphrey Metrodome in Minneapolis, Minnesota, collapsing. ](/news/2010/12/12/a-heavy-blizzard-in-the-midwestern-us-states-of-minnesota-wisconsin-iowa-illinois-and-michigan-dropping-about-three-feet-of-snow-results.md) _Context: Iowa, United States_
-3. [ June 2008 Midwest Flood: A stalled storm system in the midwest of the United States causes further heavy flooding in Indiana, Iowa and Wisconsin with storms on the weekend causing 10 deaths in four states. ](/news/2008/06/9/june-2008-midwest-flood-a-stalled-storm-system-in-the-midwest-of-the-united-states-causes-further-heavy-flooding-in-indiana-iowa-and-wisc.md) _Context: Iowa, United States_
-4. [The Nobel Prize committee awards American Richard Thaler the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-his.md) _Context: United States_
-5. [Tropical Storm Nate heads for the Gulf Coast of the United States after causing dozens of deaths in Central America and severe flooding in the Nicaraguan town of Rivas. ](/news/2017/10/6/tropical-storm-nate-heads-for-the-gulf-coast-of-the-united-states-after-causing-dozens-of-deaths-in-central-america-and-severe-flooding-in-t.md) _Context: United States_
+1. [The United States Food and Drug Administration names Taylor Farms as the source of cyclospora parasite tainted salads that sickened 223 diners in the US states of Nebraska and Iowa. ](/news/2013/08/2/the-united-states-food-and-drug-administration-names-taylor-farms-as-the-source-of-cyclospora-parasite-tainted-salads-that-sickened-223-dine.md) _Context: Iowa, U.S._
+2. [A heavy blizzard in the midwestern US states of Minnesota, Wisconsin, Iowa, Illinois and Michigan dropping about three feet of snow results in two deaths, road closures, flight cancellations and the inflatable roof of the Hubert H. Humphrey Metrodome in Minneapolis, Minnesota, collapsing. ](/news/2010/12/12/a-heavy-blizzard-in-the-midwestern-us-states-of-minnesota-wisconsin-iowa-illinois-and-michigan-dropping-about-three-feet-of-snow-results.md) _Context: Iowa, U.S._
+3. [ June 2008 Midwest Flood: A stalled storm system in the midwest of the United States causes further heavy flooding in Indiana, Iowa and Wisconsin with storms on the weekend causing 10 deaths in four states. ](/news/2008/06/9/june-2008-midwest-flood-a-stalled-storm-system-in-the-midwest-of-the-united-states-causes-further-heavy-flooding-in-indiana-iowa-and-wisc.md) _Context: Iowa, U.S._
+4. [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md) _Context: U.S._
+5. [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md) _Context: U.S._

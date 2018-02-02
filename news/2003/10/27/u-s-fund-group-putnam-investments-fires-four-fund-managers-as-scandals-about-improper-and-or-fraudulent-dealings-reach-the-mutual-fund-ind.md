@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/27/u-s-fund-group-putnam-investments-fires-four-fund-managers-as-scandals-about-improper-and-or-fraudulent-dealings-reach-the-mutual-fund-ind.html)  [JSON](/news/2003/10/27/u-s-fund-group-putnam-investments-fires-four-fund-managers-as-scandals-about-improper-and-or-fraudulent-dealings-reach-the-mutual-fund-ind.json)  [XML](/news/2003/10/27/u-s-fund-group-putnam-investments-fires-four-fund-managers-as-scandals-about-improper-and-or-fraudulent-dealings-reach-the-mutual-fund-ind.xml)  
+
 ### [2003-10-27](/news/2003/10/27/index.md)
 
+##### Putnam
 #  U.S. fund group Putnam Investments fires four fund managers as scandals about improper and-or fraudulent dealings reach the mutual fund industry.
 
 

@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2014/04/6/communist-party-of-the-russian-federation-candidate-anatoly-lokot-was-elected-mayor-of-the-third-largest-city-of-novosibirsk-defeating-ruli.html)  [JSON](/news/2014/04/6/communist-party-of-the-russian-federation-candidate-anatoly-lokot-was-elected-mayor-of-the-third-largest-city-of-novosibirsk-defeating-ruli.json)  [XML](/news/2014/04/6/communist-party-of-the-russian-federation-candidate-anatoly-lokot-was-elected-mayor-of-the-third-largest-city-of-novosibirsk-defeating-ruli.xml)  
+
 ### [2014-04-6](/news/2014/04/6/index.md)
 
+##### Communist Party
 # Communist Party of the Russian Federation candidate Anatoly Lokot was elected mayor of the third-largest city of Novosibirsk, defeating ruling United Russia party candidate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Moscow Times](http://www.themoscowtimes.com/news/article/communist-party-deputy-elected-mayor-of-novosibirsk/497616.html)
+
+### Changes:
+
+1. [Russian municipal electionsCommunist Party of the Russian Federation candidate Anatoly Lokot was elected mayor of the third-largest city of Novosibirsk, defeating ruling United Russia party candidate. ](/news/2014/04/6/russian-municipal-electionspcommunist-party-of-the-russian-federation-candidate-anatoly-lokot-was-elected-mayor-of-the-third-largest-city-of.md) _2017-08-25 03:40:15 (First version)_
+2. [Russian municipal elections: Communist Party of the Russian Federation candidate Anatoly Lokot was elected mayor of the third-largest city of Novosibirsk, defeating ruling United Russia party candidate. ](/news/2014/04/6/russian-municipal-elections-communist-party-of-the-russian-federation-candidate-anatoly-lokot-was-elected-mayor-of-the-third-largest-city-o.md) _2017-08-27 03:40:33 (Update)_
+2. [Communist Party of the Russian Federation candidate Anatoly Lokot was elected mayor of the third-largest city of Novosibirsk, defeating ruling United Russia party candidate. ](/news/2014/04/6/communist-party-of-the-russian-federation-candidate-anatoly-lokot-was-elected-mayor-of-the-third-largest-city-of-novosibirsk-defeating-ruli.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [Preliminary results are released from the Russian legislative election showing the ruling United Russia winning 50 percent of the vote, well down on its 2008 vote. ](/news/2011/12/5/preliminary-results-are-released-from-the-russian-legislative-election-showing-the-ruling-united-russia-winning-50-percent-of-the-vote-well.md) _Context: United Russia_
 4. [Tens of thousands of people protest across Russia against parliamentary elections that they allege were rigged in favour of the ruling United Russia party. ](/news/2011/12/24/tens-of-thousands-of-people-protest-across-russia-against-parliamentary-elections-that-they-allege-were-rigged-in-favour-of-the-ruling-unite.md) _Context: United Russia_
 5. [A day of protests begins in cities across Russia against alleged election fraud by Vladimir Putin and his United Russia party, with fifty thousand people marching in Moscow and 25 people arrested in Khabarovsk. ](/news/2011/12/10/a-day-of-protests-begins-in-cities-across-russia-against-alleged-election-fraud-by-vladimir-putin-and-his-united-russia-party-with-fifty-th.md) _Context: United Russia_
-
-### Changes:
-
-1. [Russian municipal electionsCommunist Party of the Russian Federation candidate Anatoly Lokot was elected mayor of the third-largest city of Novosibirsk, defeating ruling United Russia party candidate. ](/news/2014/04/6/russian-municipal-electionspcommunist-party-of-the-russian-federation-candidate-anatoly-lokot-was-elected-mayor-of-the-third-largest-city-of.md) _2017-08-25 03:40:15 (First version)_
-2. [Russian municipal elections: Communist Party of the Russian Federation candidate Anatoly Lokot was elected mayor of the third-largest city of Novosibirsk, defeating ruling United Russia party candidate. ](/news/2014/04/6/russian-municipal-elections-communist-party-of-the-russian-federation-candidate-anatoly-lokot-was-elected-mayor-of-the-third-largest-city-o.md) _2017-08-27 03:40:33 (Update)_
-2. [Communist Party of the Russian Federation candidate Anatoly Lokot was elected mayor of the third-largest city of Novosibirsk, defeating ruling United Russia party candidate. ](/news/2014/04/6/communist-party-of-the-russian-federation-candidate-anatoly-lokot-was-elected-mayor-of-the-third-largest-city-of-novosibirsk-defeating-ruli.md) _(Current version)_

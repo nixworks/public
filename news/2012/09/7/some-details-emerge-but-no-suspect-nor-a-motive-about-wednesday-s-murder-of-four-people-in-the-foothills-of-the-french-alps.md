@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/7/some-details-emerge-but-no-suspect-nor-a-motive-about-wednesday-s-murder-of-four-people-in-the-foothills-of-the-french-alps.html)  [JSON](/news/2012/09/7/some-details-emerge-but-no-suspect-nor-a-motive-about-wednesday-s-murder-of-four-people-in-the-foothills-of-the-french-alps.json)  [XML](/news/2012/09/7/some-details-emerge-but-no-suspect-nor-a-motive-about-wednesday-s-murder-of-four-people-in-the-foothills-of-the-french-alps.xml)  
+
 ### [2012-09-7](/news/2012/09/7/index.md)
 
+##### Annecy murders
 # Some details emerge, but no suspect nor a motive, about Wednesday's murder of four people in the foothills of the French Alps. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/8301-202_162-57508088/official-family-feud-suspected-in-brutal-murder-of-4-in-french-alps/)
 2. [CNN](http://edition.cnn.com/2012/09/07/world/europe/france-shooting-probe/index.html)

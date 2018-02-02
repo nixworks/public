@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/19/saddam-hussein-goes-on-trial-in-baghdad-for-crimes-against-humanity-the-former-president-of-iraq-is-led-into-court-with-seven-associates.html)  [JSON](/news/2005/10/19/saddam-hussein-goes-on-trial-in-baghdad-for-crimes-against-humanity-the-former-president-of-iraq-is-led-into-court-with-seven-associates.json)  [XML](/news/2005/10/19/saddam-hussein-goes-on-trial-in-baghdad-for-crimes-against-humanity-the-former-president-of-iraq-is-led-into-court-with-seven-associates.xml)  
+
 ### [2005-10-19](/news/2005/10/19/index.md)
 
+##### Saddam Hussein
 #  Saddam Hussein goes on trial in Baghdad for crimes against humanity. The former President of Iraq is led into court with seven associates, charged with ordering the killing of 143 Shi'a men in the town of Dujail in 1982. If convicted, Hussein could face capital punishment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4354622.stm)
 

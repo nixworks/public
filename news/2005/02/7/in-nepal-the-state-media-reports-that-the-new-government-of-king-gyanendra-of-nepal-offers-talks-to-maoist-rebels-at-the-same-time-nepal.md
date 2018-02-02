@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/02/7/in-nepal-the-state-media-reports-that-the-new-government-of-king-gyanendra-of-nepal-offers-talks-to-maoist-rebels-at-the-same-time-nepal.html)  [JSON](/news/2005/02/7/in-nepal-the-state-media-reports-that-the-new-government-of-king-gyanendra-of-nepal-offers-talks-to-maoist-rebels-at-the-same-time-nepal.json)  [XML](/news/2005/02/7/in-nepal-the-state-media-reports-that-the-new-government-of-king-gyanendra-of-nepal-offers-talks-to-maoist-rebels-at-the-same-time-nepal.xml)  
+
 ### [2005-02-7](/news/2005/02/7/index.md)
 
+##### Nepal
 #  In Nepal, the state media reports that the new government of King Gyanendra of Nepal offers talks to Maoist rebels. At the same time, Nepalese government forces begin a new offensive against the rebels.
 
 

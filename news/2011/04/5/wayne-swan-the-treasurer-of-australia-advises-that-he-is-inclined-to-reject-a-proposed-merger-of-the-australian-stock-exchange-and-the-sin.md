@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/5/wayne-swan-the-treasurer-of-australia-advises-that-he-is-inclined-to-reject-a-proposed-merger-of-the-australian-stock-exchange-and-the-sin.html)  [JSON](/news/2011/04/5/wayne-swan-the-treasurer-of-australia-advises-that-he-is-inclined-to-reject-a-proposed-merger-of-the-australian-stock-exchange-and-the-sin.json)  [XML](/news/2011/04/5/wayne-swan-the-treasurer-of-australia-advises-that-he-is-inclined-to-reject-a-proposed-merger-of-the-australian-stock-exchange-and-the-sin.xml)  
+
 ### [2011-04-5](/news/2011/04/5/index.md)
 
+##### Wayne Swan
 # Wayne Swan, the Treasurer of Australia, advises that he is inclined to reject a proposed merger of the Australian Stock Exchange and the Singapore Stock Exchange. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/australias-swan-disposed-to-reject-market-tieup-asx-20110405-1d2gf.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

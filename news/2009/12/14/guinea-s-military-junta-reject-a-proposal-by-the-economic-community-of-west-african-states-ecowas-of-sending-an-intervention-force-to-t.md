@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/14/guinea-s-military-junta-reject-a-proposal-by-the-economic-community-of-west-african-states-ecowas-of-sending-an-intervention-force-to-t.html)  [JSON](/news/2009/12/14/guinea-s-military-junta-reject-a-proposal-by-the-economic-community-of-west-african-states-ecowas-of-sending-an-intervention-force-to-t.json)  [XML](/news/2009/12/14/guinea-s-military-junta-reject-a-proposal-by-the-economic-community-of-west-african-states-ecowas-of-sending-an-intervention-force-to-t.xml)  
+
 ### [2009-12-14](/news/2009/12/14/index.md)
 
+##### Guinea
 #  Guinea's military junta reject a proposal by the Economic Community of West African States (ECOWAS) of sending an "intervention force" to the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iAVjutFiNxMjNLZd6fFZMANVHAXgD9CJ1TUG0)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-12/14/content_12645358.htm)

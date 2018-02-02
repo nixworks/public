@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/14/iraq-and-weapons-of-mass-destruction-tests-performed-by-american-and-danish-military-experts-indicate-no-chemical-agents-are-present-in-th.html)  [JSON](/news/2004/01/14/iraq-and-weapons-of-mass-destruction-tests-performed-by-american-and-danish-military-experts-indicate-no-chemical-agents-are-present-in-th.json)  [XML](/news/2004/01/14/iraq-and-weapons-of-mass-destruction-tests-performed-by-american-and-danish-military-experts-indicate-no-chemical-agents-are-present-in-th.xml)  
+
 ### [2004-01-14](/news/2004/01/14/index.md)
 
+##### weapons of mass destruction
 #  Iraq and weapons of mass destruction: Tests performed by American and Danish military experts indicate no chemical agents are present in the "suspicious" mortar shells discovered in Iraq on January 9.
 
 

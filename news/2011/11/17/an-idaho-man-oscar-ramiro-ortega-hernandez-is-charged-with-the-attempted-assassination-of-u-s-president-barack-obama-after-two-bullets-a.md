@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/11/17/an-idaho-man-oscar-ramiro-ortega-hernandez-is-charged-with-the-attempted-assassination-of-u-s-president-barack-obama-after-two-bullets-a.html)  [JSON](/news/2011/11/17/an-idaho-man-oscar-ramiro-ortega-hernandez-is-charged-with-the-attempted-assassination-of-u-s-president-barack-obama-after-two-bullets-a.json)  [XML](/news/2011/11/17/an-idaho-man-oscar-ramiro-ortega-hernandez-is-charged-with-the-attempted-assassination-of-u-s-president-barack-obama-after-two-bullets-a.xml)  
+
 ### [2011-11-17](/news/2011/11/17/index.md)
 
+##### Idaho
 # An Idaho man, Oscar Ramiro Ortega-Hernandez, is charged with the attempted assassination of U.S. President Barack Obama, after two bullets are found embedded in the exterior of the White House. The President and First Lady were not present at the time of the alleged attack. 
 
 Authorities charged Oscar Ramiro Ortega-Hernandez with trying to assassinate President Obama, saying he told friends Mr. Obama was “the Antichrist.”
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2011/11/18/us/attempted-assassination-charge-in-shooting-at-white-house.html?_r=1)
+1. [New York Times](https://www.nytimes.com/2011/11/18/us/attempted-assassination-charge-in-shooting-at-white-house.html?_r=1)
 1. [Cover Image](https://static01.nyt.com/images/2011/11/17/us/17shoot_cnd/17shoot_cnd-videoSixteenByNine1050.jpg)
 
 ### Related:

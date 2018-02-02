@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/02/26/the-organization-of-american-states-oas-inter-american-commission-on-human-rights-iachr-issued-a-300-page-report-on-democracy-and-human.html)  [JSON](/news/2010/02/26/the-organization-of-american-states-oas-inter-american-commission-on-human-rights-iachr-issued-a-300-page-report-on-democracy-and-human.json)  [XML](/news/2010/02/26/the-organization-of-american-states-oas-inter-american-commission-on-human-rights-iachr-issued-a-300-page-report-on-democracy-and-human.xml)  
+
 ### [2010-02-26](/news/2010/02/26/index.md)
 
+##### Organization of American States
 # The Organization of American States (OAS) Inter-American Commission on Human Rights (IACHR) issued a 300-page report on democracy and human rights in Venezuela under Hugo Chvez. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/02/24/AR2010022401884.html?hpid=moreheadlines)
+1. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/02/24/AR2010022401884.html?hpid=moreheadlines)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

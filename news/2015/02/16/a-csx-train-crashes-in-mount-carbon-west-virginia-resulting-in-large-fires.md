@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/16/a-csx-train-crashes-in-mount-carbon-west-virginia-resulting-in-large-fires.html)  [JSON](/news/2015/02/16/a-csx-train-crashes-in-mount-carbon-west-virginia-resulting-in-large-fires.json)  [XML](/news/2015/02/16/a-csx-train-crashes-in-mount-carbon-west-virginia-resulting-in-large-fires.xml)  
+
 ### [2015-02-16](/news/2015/02/16/index.md)
 
+##### CSX Transportation
 # A CSX train crashes in Mount Carbon, West Virginia resulting in large fires. 
 
 Two West Virginia towns have been evacuated after a freight train carrying crude oil derailed and burst into flames.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-31492659)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/81049000/jpg/_81049984_kcc.jpg)

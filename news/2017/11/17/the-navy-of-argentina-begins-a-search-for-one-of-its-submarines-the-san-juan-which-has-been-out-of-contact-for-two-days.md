@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/17/the-navy-of-argentina-begins-a-search-for-one-o
 
 ### [2017-11-17](/news/2017/11/17/index.md)
 
+##### Disappearance of ARA San Juan
 # The Navy of Argentina begins a search for one of its submarines, the "San Juan", which has been out of contact for two days. 
 
 

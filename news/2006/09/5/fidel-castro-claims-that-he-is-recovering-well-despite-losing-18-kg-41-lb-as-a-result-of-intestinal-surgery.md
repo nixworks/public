@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/5/fidel-castro-claims-that-he-is-recovering-well-despite-losing-18-kg-41-lb-as-a-result-of-intestinal-surgery.html)  [JSON](/news/2006/09/5/fidel-castro-claims-that-he-is-recovering-well-despite-losing-18-kg-41-lb-as-a-result-of-intestinal-surgery.json)  [XML](/news/2006/09/5/fidel-castro-claims-that-he-is-recovering-well-despite-losing-18-kg-41-lb-as-a-result-of-intestinal-surgery.xml)  
+
 ### [2006-09-5](/news/2006/09/5/index.md)
 
+##### Fidel Castro
 #  Fidel Castro claims that he is recovering well despite losing 18 kg (41 lb) as a result of intestinal surgery. 
 
 Cuban leader Fidel Castro said the worst is over and he is recovering well from intestinal surgery one month ago despite losing 41 pounds, a statement published on Tuesday said.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/34C0D508-E8F7-4A53-A2D7-C02FDFFAF255.htm)
 2. [MSNBC](http://www.msnbc.msn.com/id/14675929/)

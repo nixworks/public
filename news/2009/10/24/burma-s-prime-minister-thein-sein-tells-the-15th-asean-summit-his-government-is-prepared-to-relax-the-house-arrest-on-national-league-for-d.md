@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/24/burma-s-prime-minister-thein-sein-tells-the-15th-asean-summit-his-government-is-prepared-to-relax-the-house-arrest-on-national-league-for-d.html)  [JSON](/news/2009/10/24/burma-s-prime-minister-thein-sein-tells-the-15th-asean-summit-his-government-is-prepared-to-relax-the-house-arrest-on-national-league-for-d.json)  [XML](/news/2009/10/24/burma-s-prime-minister-thein-sein-tells-the-15th-asean-summit-his-government-is-prepared-to-relax-the-house-arrest-on-national-league-for-d.xml)  
+
 ### [2009-10-24](/news/2009/10/24/index.md)
 
+##### Burma
 #  Burma's Prime Minister Thein Sein tells the 15th ASEAN summit his government is prepared to relax the house arrest on National League for Democracy leader Aung San Suu Kyi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/asia/158033/burma-could-ease-suu-kyi-detention)
 2. [Financial Times](http://www.ft.com/cms/s/0/6f404f1a-c09b-11de-8f4a-00144feab49a.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/17/a-rocket-is-fired-into-the-compound-of-the-president-of-afghanistan-in-kabul.html)  [JSON](/news/2011/08/17/a-rocket-is-fired-into-the-compound-of-the-president-of-afghanistan-in-kabul.json)  [XML](/news/2011/08/17/a-rocket-is-fired-into-the-compound-of-the-president-of-afghanistan-in-kabul.xml)  
+
 ### [2011-08-17](/news/2011/08/17/index.md)
 
+##### Afghanistan President
 # A rocket is fired into the compound of the President of Afghanistan in Kabul. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Salon](http://www.salon.com/wires/world/2011/08/16/D9P5GEIG0_as_afghanistan/index.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/4/hu-jintao-the-president-of-the-people-s-republic-of-china-promises-to-double-foreign-aid-to-africa-at-a-conference-attended-by-many-of-th.html)  [JSON](/news/2006/11/4/hu-jintao-the-president-of-the-people-s-republic-of-china-promises-to-double-foreign-aid-to-africa-at-a-conference-attended-by-many-of-th.json)  [XML](/news/2006/11/4/hu-jintao-the-president-of-the-people-s-republic-of-china-promises-to-double-foreign-aid-to-africa-at-a-conference-attended-by-many-of-th.xml)  
+
 ### [2006-11-4](/news/2006/11/4/index.md)
 
+##### Hu Jintao
 #  Hu Jintao, the President of the People's Republic of China, promises to double foreign aid to Africa at a conference attended by many of the top African leaders. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/11/03/china.africa.ap/index.html?eref=rss_latest)
 

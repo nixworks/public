@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/10/president-bashar-al-assad-states-that-syria-will-not-cooperate-with-a-united-nations-tribunal-to-try-suspects-in-the-suspected-assassinatio.html)  [JSON](/news/2007/05/10/president-bashar-al-assad-states-that-syria-will-not-cooperate-with-a-united-nations-tribunal-to-try-suspects-in-the-suspected-assassinatio.json)  [XML](/news/2007/05/10/president-bashar-al-assad-states-that-syria-will-not-cooperate-with-a-united-nations-tribunal-to-try-suspects-in-the-suspected-assassinatio.xml)  
+
 ### [2007-05-10](/news/2007/05/10/index.md)
 
+##### President
 #  President Bashar al-Assad states that Syria will not cooperate with a United Nations tribunal to try suspects in the suspected assassination of former Prime Minister of Lebanon Rafiq al-Hariri. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/syria/story/0,,2077000,00.html)
 

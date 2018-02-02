@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/18/togiola-tulafono-is-re-elected-as-governor-of-american-samoa-easily-defeating-challenger-utu-abe-malae.html)  [JSON](/news/2008/11/18/togiola-tulafono-is-re-elected-as-governor-of-american-samoa-easily-defeating-challenger-utu-abe-malae.json)  [XML](/news/2008/11/18/togiola-tulafono-is-re-elected-as-governor-of-american-samoa-easily-defeating-challenger-utu-abe-malae.xml)  
+
 ### [2008-11-18](/news/2008/11/18/index.md)
 
+##### Togiola Tulafono
 #  Togiola Tulafono is re-elected as Governor of American Samoa, easily defeating challenger Utu Abe Malae. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Pacific Magazine](http://www.pacificmagazine.net/news/2008/11/19/american-samoa-gov-togiola-cruises-to-re-election-victory/)
 

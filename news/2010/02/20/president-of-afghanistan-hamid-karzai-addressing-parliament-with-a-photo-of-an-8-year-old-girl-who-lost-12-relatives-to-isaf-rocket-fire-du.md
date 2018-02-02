@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/20/president-of-afghanistan-hamid-karzai-addressing-parliament-with-a-photo-of-an-8-year-old-girl-who-lost-12-relatives-to-isaf-rocket-fire-du.html)  [JSON](/news/2010/02/20/president-of-afghanistan-hamid-karzai-addressing-parliament-with-a-photo-of-an-8-year-old-girl-who-lost-12-relatives-to-isaf-rocket-fire-du.json)  [XML](/news/2010/02/20/president-of-afghanistan-hamid-karzai-addressing-parliament-with-a-photo-of-an-8-year-old-girl-who-lost-12-relatives-to-isaf-rocket-fire-du.xml)  
+
 ### [2010-02-20](/news/2010/02/20/index.md)
 
+##### Afghanistan President
 # President of Afghanistan Hamid Karzai, addressing parliament with a photo of an 8-year-old girl who lost 12 relatives to ISAF rocket fire during Operation Moshtarak, urges foreign troops to do more to prevent civilian deaths. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/02/20102214365467492.html)
 1. [Cover Image](http://www.aljazeera.com)

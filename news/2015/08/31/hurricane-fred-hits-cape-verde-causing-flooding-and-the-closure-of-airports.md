@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2015/08/31/hurricane-fred-hits-cape-verde-causing-flooding-and-the-closure-of-airports.html)  [JSON](/news/2015/08/31/hurricane-fred-hits-cape-verde-causing-flooding-and-the-closure-of-airports.json)  [XML](/news/2015/08/31/hurricane-fred-hits-cape-verde-causing-flooding-and-the-closure-of-airports.xml)  
+
 ### [2015-08-31](/news/2015/08/31/index.md)
 
+##### 2015 Atlantic hurricane season
 # Hurricane Fred hits Cape Verde causing flooding and the closure of airports. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [ (AP via ''The New York Times](http://www.nytimes.com/aponline/2015/08/31/world/africa/ap-af-cape-verde-tropical-weather.html?gwh=36440C34758F32C549F3F002BB051538&gwt=pay)
+1. [ (AP via ''The New York Times](https://www.nytimes.com/aponline/2015/08/31/world/africa/ap-af-cape-verde-tropical-weather.html?gwh=36440C34758F32C549F3F002BB051538&gwt=pay)
+
+### Changes:
+
+1. [2015 Atlantic hurricane season: Hurricane Fred hits Cape Verde causing flooding and the closure of airports. ](/news/2015/08/31/2015-atlantic-hurricane-season-hurricane-fred-hits-cape-verde-causing-flooding-and-the-closure-of-airports.md) _2017-08-27 03:42:56 (First version)_
+1. [Hurricane Fred hits Cape Verde causing flooding and the closure of airports. ](/news/2015/08/31/hurricane-fred-hits-cape-verde-causing-flooding-and-the-closure-of-airports.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [Eight soldiers and three civilians are killed at a military barracks in Cape Verde. The government says it suspects a missing disgruntled soldier is responsible for the incident. ](/news/2016/04/26/eight-soldiers-and-three-civilians-are-killed-at-a-military-barracks-in-cape-verde-the-government-says-it-suspects-a-missing-disgruntled-so.md) _Context: Cape Verde_
 4. [Voters in Cape Verde go to the polls for an election. ](/news/2016/03/20/voters-in-cape-verde-go-to-the-polls-for-an-election.md) _Context: Cape Verde_
 5. [The United States National Transportation Safety Board announces it has completed its search of the sunken "El Faro", but did not find the voyage data recorder, i.e., the black box. ](/news/2015/11/16/the-united-states-national-transportation-safety-board-announces-it-has-completed-its-search-of-the-sunken-el-faro-but-did-not-find-the-v.md) _Context: 2015 Atlantic hurricane season_
-
-### Changes:
-
-1. [2015 Atlantic hurricane season: Hurricane Fred hits Cape Verde causing flooding and the closure of airports. ](/news/2015/08/31/2015-atlantic-hurricane-season-hurricane-fred-hits-cape-verde-causing-flooding-and-the-closure-of-airports.md) _2017-08-27 03:42:56 (First version)_
-1. [Hurricane Fred hits Cape Verde causing flooding and the closure of airports. ](/news/2015/08/31/hurricane-fred-hits-cape-verde-causing-flooding-and-the-closure-of-airports.md) _(Current version)_

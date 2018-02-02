@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/17/ten-endangered-species-previously-known-only-by-their-latin-titles-are-named.html)  [JSON](/news/2010/07/17/ten-endangered-species-previously-known-only-by-their-latin-titles-are-named.json)  [XML](/news/2010/07/17/ten-endangered-species-previously-known-only-by-their-latin-titles-are-named.xml)  
+
 ### [2010-07-17](/news/2010/07/17/index.md)
 
+##### Latin
 # Ten endangered species previously known only by their Latin titles are named. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel 4](http://www.channel4.com/news/articles/science_technology/sea+piglet++a+new+name+for+an+endangered+species/3714487)
 

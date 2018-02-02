@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/28/a-450-year-old-madonna-and-child-work-sells-for-16-9-million-at-sotheby-s-in-new-york-a-new-auction-record-for-titian.html)  [JSON](/news/2011/01/28/a-450-year-old-madonna-and-child-work-sells-for-16-9-million-at-sotheby-s-in-new-york-a-new-auction-record-for-titian.json)  [XML](/news/2011/01/28/a-450-year-old-madonna-and-child-work-sells-for-16-9-million-at-sotheby-s-in-new-york-a-new-auction-record-for-titian.xml)  
+
 ### [2011-01-28](/news/2011/01/28/index.md)
 
+##### Madonna and Child
 # A 450-year-old "Madonna and Child" work sells for $16.9 million at Sotheby's in New York, a new auction record for Titian. 
 
 A 450-year-old Madonna and Child painting by Titian sells for $16.9m (£10.7m), setting a new auction record for the Renaissance master.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-12305296)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

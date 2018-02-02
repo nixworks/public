@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/29/at-least-20-000-civilians-were-reportedly-killed-during-the-final-five-months-of-sri-lanka-s-civil-war.html)  [JSON](/news/2009/05/29/at-least-20-000-civilians-were-reportedly-killed-during-the-final-five-months-of-sri-lanka-s-civil-war.json)  [XML](/news/2009/05/29/at-least-20-000-civilians-were-reportedly-killed-during-the-final-five-months-of-sri-lanka-s-civil-war.xml)  
+
 ### [2009-05-29](/news/2009/05/29/index.md)
 
+##### civilian
 #  At least 20,000 civilians were reportedly killed during the final five months of Sri Lanka's civil war. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/tol/comment/leading_article/article6382706.ece)
 

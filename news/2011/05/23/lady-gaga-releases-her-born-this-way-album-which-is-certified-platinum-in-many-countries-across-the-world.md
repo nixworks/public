@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2011/05/23/lady-gaga-releases-her-born-this-way-album-which-is-certified-platinum-in-many-countries-across-the-world.html)  [JSON](/news/2011/05/23/lady-gaga-releases-her-born-this-way-album-which-is-certified-platinum-in-many-countries-across-the-world.json)  [XML](/news/2011/05/23/lady-gaga-releases-her-born-this-way-album-which-is-certified-platinum-in-many-countries-across-the-world.xml)  
+
 ### [2011-05-23](/news/2011/05/23/index.md)
 
+##### Lady Gaga
 # Lady Gaga releases her Born This Way album, which is certified platinum in many countries across the world.
 
 

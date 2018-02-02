@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/14/the-nintendo-wii-breaks-record-sales-in-australia-and-is-the-fastest-selling-gaming-console-in-australian-history.html)  [JSON](/news/2006/12/14/the-nintendo-wii-breaks-record-sales-in-australia-and-is-the-fastest-selling-gaming-console-in-australian-history.json)  [XML](/news/2006/12/14/the-nintendo-wii-breaks-record-sales-in-australia-and-is-the-fastest-selling-gaming-console-in-australian-history.xml)  
+
 ### [2006-12-14](/news/2006/12/14/index.md)
 
+##### Nintendo
 #  The Nintendo Wii breaks record sales in Australia and is the fastest selling gaming console in Australian history. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ (Sydney Morning Herald](http://www.smh.com.au/news/games/wii-breaks-xbox-sales-record/2006/12/14/1165685799546.html)
 

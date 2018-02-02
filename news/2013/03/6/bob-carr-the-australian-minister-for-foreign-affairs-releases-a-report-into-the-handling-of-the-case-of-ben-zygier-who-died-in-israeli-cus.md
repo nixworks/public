@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/6/bob-carr-the-australian-minister-for-foreign-affairs-releases-a-report-into-the-handling-of-the-case-of-ben-zygier-who-died-in-israeli-cus.html)  [JSON](/news/2013/03/6/bob-carr-the-australian-minister-for-foreign-affairs-releases-a-report-into-the-handling-of-the-case-of-ben-zygier-who-died-in-israeli-cus.json)  [XML](/news/2013/03/6/bob-carr-the-australian-minister-for-foreign-affairs-releases-a-report-into-the-handling-of-the-case-of-ben-zygier-who-died-in-israeli-cus.xml)  
+
 ### [2013-03-6](/news/2013/03/6/index.md)
 
+##### Bob Carr
 # Bob Carr, the Australian Minister for Foreign Affairs, releases a report into the handling of the case of Ben Zygier who died in Israeli custody in December 2010 and was believed to be a Mossad agent. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''The Australian](http://www.theaustralian.com.au/national-affairs/foreign-affairs/foreign-minister-bob-carr-criticises-diplomats-over-handling-of-ben-zygier-case/story-fn59nm2j-1226591690323)
 

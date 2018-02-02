@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/2/microsoft-founder-bill-gates-is-awarded-the-title-of-knight-commander-of-the-most-excellent-order-of-the-british-empire-by-queen-elizabeth.html)  [JSON](/news/2005/03/2/microsoft-founder-bill-gates-is-awarded-the-title-of-knight-commander-of-the-most-excellent-order-of-the-british-empire-by-queen-elizabeth.json)  [XML](/news/2005/03/2/microsoft-founder-bill-gates-is-awarded-the-title-of-knight-commander-of-the-most-excellent-order-of-the-british-empire-by-queen-elizabeth.xml)  
+
 ### [2005-03-2](/news/2005/03/2/index.md)
 
+##### Microsoft
 #  Microsoft founder Bill Gates is awarded the title of Knight Commander of the Most Excellent Order of the British Empire by Queen Elizabeth II (which will entitle him to suffix the letters "KBE" to his name but not use the title of "Sir") for his contribution to enterprise in the United Kingdom and his efforts in poverty reduction around the world. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/3428673.stm)
 

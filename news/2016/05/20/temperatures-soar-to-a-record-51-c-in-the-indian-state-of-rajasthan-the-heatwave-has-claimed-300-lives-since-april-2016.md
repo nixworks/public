@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/20/temperatures-soar-to-a-record-51-c-in-the-india
 
 ### [2016-05-20](/news/2016/05/20/index.md)
 
+##### India
 # Temperatures soar to a record 51 C in the Indian state of Rajasthan. The heatwave has claimed 300 lives since April 2016. 
 
 

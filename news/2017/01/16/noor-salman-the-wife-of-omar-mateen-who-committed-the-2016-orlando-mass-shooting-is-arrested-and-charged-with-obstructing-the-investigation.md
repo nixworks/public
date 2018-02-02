@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/16/noor-salman-the-wife-of-omar-mateen-who-committ
 
 ### [2017-01-16](/news/2017/01/16/index.md)
 
+##### Omar Mateen
 # Noor Salman, the wife of Omar Mateen who committed the 2016 Orlando mass shooting is arrested and charged with obstructing the investigation of the case. 
 
 

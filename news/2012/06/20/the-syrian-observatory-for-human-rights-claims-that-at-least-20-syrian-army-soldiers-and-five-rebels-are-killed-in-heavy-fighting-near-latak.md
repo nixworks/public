@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/20/the-syrian-observatory-for-human-rights-claims-that-at-least-20-syrian-army-soldiers-and-five-rebels-are-killed-in-heavy-fighting-near-latak.html)  [JSON](/news/2012/06/20/the-syrian-observatory-for-human-rights-claims-that-at-least-20-syrian-army-soldiers-and-five-rebels-are-killed-in-heavy-fighting-near-latak.json)  [XML](/news/2012/06/20/the-syrian-observatory-for-human-rights-claims-that-at-least-20-syrian-army-soldiers-and-five-rebels-are-killed-in-heavy-fighting-near-latak.xml)  
+
 ### [2012-06-20](/news/2012/06/20/index.md)
 
+##### Syrian Observatory for Human Rights
 # The Syrian Observatory for Human Rights claims that at least 20 Syrian Army soldiers and five rebels are killed in heavy fighting near Latakia district. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://blogs.aljazeera.com/topic/syria/least-20-soldiers-reported-killed-clashes-latakia)
 

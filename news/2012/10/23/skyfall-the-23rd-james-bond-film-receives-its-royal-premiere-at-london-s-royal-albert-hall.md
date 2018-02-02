@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/23/skyfall-the-23rd-james-bond-film-receives-its-royal-premiere-at-london-s-royal-albert-hall.html)  [JSON](/news/2012/10/23/skyfall-the-23rd-james-bond-film-receives-its-royal-premiere-at-london-s-royal-albert-hall.json)  [XML](/news/2012/10/23/skyfall-the-23rd-james-bond-film-receives-its-royal-premiere-at-london-s-royal-albert-hall.xml)  
+
 ### [2012-10-23](/news/2012/10/23/index.md)
 
+##### Skyfall
 # "Skyfall", the 23rd James Bond film, receives its Royal premiere at London's Royal Albert Hall. 
 
 James Bond star Daniel Craig declares the royal world premiere of new 007 film Skyfall as his &quot;biggest and the best&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-20044627)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/63670000/jpg/_63670351_danielnaomie_afp.jpg)

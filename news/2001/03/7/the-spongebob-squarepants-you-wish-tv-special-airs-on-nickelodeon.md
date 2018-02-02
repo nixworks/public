@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/03/7/the-spongebob-squarepants-you-wish-tv-special-airs-on-nickelodeon.html)  [JSON](/news/2001/03/7/the-spongebob-squarepants-you-wish-tv-special-airs-on-nickelodeon.json)  [XML](/news/2001/03/7/the-spongebob-squarepants-you-wish-tv-special-airs-on-nickelodeon.xml)  
+
 ### [2001-03-7](/news/2001/03/7/index.md)
 
+##### SpongeBob SquarePants
 #  The "SpongeBob SquarePants You Wish" TV special airs on Nickelodeon.
 
 

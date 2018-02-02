@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/27/an-11-year-old-girl-ashton-jojo-vacationing-with-her-family-at-a-miniature-golf-course-at-orange-lake-resort-in-orange-county-florida-i.html)  [JSON](/news/2012/06/27/an-11-year-old-girl-ashton-jojo-vacationing-with-her-family-at-a-miniature-golf-course-at-orange-lake-resort-in-orange-county-florida-i.json)  [XML](/news/2012/06/27/an-11-year-old-girl-ashton-jojo-vacationing-with-her-family-at-a-miniature-golf-course-at-orange-lake-resort-in-orange-county-florida-i.xml)  
+
 ### [2012-06-27](/news/2012/06/27/index.md)
 
+##### Orange Lake Resort
 # An 11-year-old girl, Ashton Jojo, vacationing with her family at a miniature golf course at Orange Lake Resort, in Orange County, Florida, is accidentally electrocuted after she falls into a 2-foot deep pond at the course while looking for her lost golf ball. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://usnews.msnbc.msn.com/_news/2012/06/28/12459803-resort-11-year-old-girl-electrocuted-at-mini-golf-course-in-florida?lite/)
 

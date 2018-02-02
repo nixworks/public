@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/26/chilean-judge-sergio-munoz-calls-for-search-of-new-suspected-secret-foreign-accounts-of-augusto-pinochet.html)  [JSON](/news/2005/07/26/chilean-judge-sergio-munoz-calls-for-search-of-new-suspected-secret-foreign-accounts-of-augusto-pinochet.json)  [XML](/news/2005/07/26/chilean-judge-sergio-munoz-calls-for-search-of-new-suspected-secret-foreign-accounts-of-augusto-pinochet.xml)  
+
 ### [2005-07-26](/news/2005/07/26/index.md)
 
+##### Sergio Muoz
 #  Chilean judge Sergio Muoz calls for search of new suspected secret foreign accounts of Augusto Pinochet 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [International Justice Tribune](http://www.justicetribune.com/article_uk.php?id=3090)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-07-26T231526Z_01_N26199559_RTRIDST_0_INTERNATIONAL-CHILE-PINOCHET-DC.XML)

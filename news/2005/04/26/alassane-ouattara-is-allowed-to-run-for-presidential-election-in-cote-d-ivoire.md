@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/26/alassane-ouattara-is-allowed-to-run-for-presidential-election-in-cote-d-ivoire.html)  [JSON](/news/2005/04/26/alassane-ouattara-is-allowed-to-run-for-presidential-election-in-cote-d-ivoire.json)  [XML](/news/2005/04/26/alassane-ouattara-is-allowed-to-run-for-presidential-election-in-cote-d-ivoire.xml)  
+
 ### [2005-04-26](/news/2005/04/26/index.md)
 
+##### Alassane Ouattara
 #  Alassane Ouattara is allowed to run for Presidential election in Cte d'Ivoire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Yahoo! France](http://fr.news.yahoo.com/050426/5/4duwh.html)
 

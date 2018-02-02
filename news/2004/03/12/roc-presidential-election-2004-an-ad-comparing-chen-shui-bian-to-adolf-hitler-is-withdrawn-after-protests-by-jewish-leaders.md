@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/12/roc-presidential-election-2004-an-ad-comparing-chen-shui-bian-to-adolf-hitler-is-withdrawn-after-protests-by-jewish-leaders.html)  [JSON](/news/2004/03/12/roc-presidential-election-2004-an-ad-comparing-chen-shui-bian-to-adolf-hitler-is-withdrawn-after-protests-by-jewish-leaders.json)  [XML](/news/2004/03/12/roc-presidential-election-2004-an-ad-comparing-chen-shui-bian-to-adolf-hitler-is-withdrawn-after-protests-by-jewish-leaders.xml)  
+
 ### [2004-03-12](/news/2004/03/12/index.md)
 
+##### 2004 presidential election
 #  ROC presidential election, 2004: An ad comparing Chen Shui-bian to Adolf Hitler is withdrawn after protests by Jewish leaders.
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2004/WORLD/asiapcf/03/12/taiwan.hitler.reut/index.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/10/four-people-are-known-to-have-died-following-a-football-match-in-the-democratic-republic-of-congo-after-a-wall-collapsed-in-the-stadium-the.html)  [JSON](/news/2005/09/10/four-people-are-known-to-have-died-following-a-football-match-in-the-democratic-republic-of-congo-after-a-wall-collapsed-in-the-stadium-the.json)  [XML](/news/2005/09/10/four-people-are-known-to-have-died-following-a-football-match-in-the-democratic-republic-of-congo-after-a-wall-collapsed-in-the-stadium-the.xml)  
+
 ### [2005-09-10](/news/2005/09/10/index.md)
 
+##### Democratic Republic of Congo
 #  Four people are known to have died following a football match in the Democratic Republic of Congo after a wall collapsed in the stadium the teams were playing in. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/football/africa/4235146.stm)
 

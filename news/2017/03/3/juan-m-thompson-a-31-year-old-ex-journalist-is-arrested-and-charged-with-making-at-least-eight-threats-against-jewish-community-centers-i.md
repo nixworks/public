@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/3/juan-m-thompson-a-31-year-old-ex-journalist-is-a
 
 ### [2017-03-3](/news/2017/03/3/index.md)
 
+##### Antisemitism in the United States
 # Juan M. Thompson, a 31-year-old ex-journalist, is arrested and charged with making at least eight threats against Jewish Community Centers in the United States, as well as a threat made against the Anti-Defamation League, while allegedly impersonating a former girlfriend. 
 
 Prosecutors say Juan Thompson made eight bomb threats and tried to pin it on an ex-girlfriend.

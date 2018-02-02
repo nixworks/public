@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2009/04/9/algeria-s-presidential-election-takes-place.html)  [JSON](/news/2009/04/9/algeria-s-presidential-election-takes-place.json)  [XML](/news/2009/04/9/algeria-s-presidential-election-takes-place.xml)  
+
 ### [2009-04-9](/news/2009/04/9/index.md)
 
+##### Algeria
 #  Algeria's presidential election takes place. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7991125.stm)
 2. [VoA](http://www.voanews.com/english/Africa/2009-04-09-voa4.cfm)
+
+### Changes:
+
+1. [ Indonesia's legislative election takes place. ](/news/2009/04/9/indonesia-s-legislative-election-takes-place.md) _2017-10-17 03:28:16 (First version)_
+1. [ Algeria's presidential election takes place. ](/news/2009/04/9/algeria-s-presidential-election-takes-place.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [First President of Algeria Ahmed Ben Bella dies at the age of 95. ](/news/2012/04/11/first-president-of-algeria-ahmed-ben-bella-dies-at-the-age-of-95.md) _Context: Algeria, President_
 4. [Voter turnout is predicted to be low as Algerians go to the polls to elect members of the People's National Assembly. ](/news/2017/05/4/voter-turnout-is-predicted-to-be-low-as-algerians-go-to-the-polls-to-elect-members-of-the-people-s-national-assembly.md) _Context: Algeria_
 5. [Nigerien authorities discover the bodies of 34 migrants, mostly children, left behind in the Sahara desert by people smugglers who were taking them to Algeria and then to Europe. ](/news/2016/06/16/nigerien-authorities-discover-the-bodies-of-34-migrants-mostly-children-left-behind-in-the-sahara-desert-by-people-smugglers-who-were-taki.md) _Context: Algeria_
-
-### Changes:
-
-1. [ Indonesia's legislative election takes place. ](/news/2009/04/9/indonesia-s-legislative-election-takes-place.md) _2017-10-16 03:28:13 (First version)_
-1. [ Algeria's presidential election takes place. ](/news/2009/04/9/algeria-s-presidential-election-takes-place.md) _(Current version)_

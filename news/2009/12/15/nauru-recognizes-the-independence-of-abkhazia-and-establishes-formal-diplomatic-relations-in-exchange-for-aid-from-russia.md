@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/12/15/nauru-recognizes-the-independence-of-abkhazia-and-establishes-formal-diplomatic-relations-in-exchange-for-aid-from-russia.html)  [JSON](/news/2009/12/15/nauru-recognizes-the-independence-of-abkhazia-and-establishes-formal-diplomatic-relations-in-exchange-for-aid-from-russia.json)  [XML](/news/2009/12/15/nauru-recognizes-the-independence-of-abkhazia-and-establishes-formal-diplomatic-relations-in-exchange-for-aid-from-russia.xml)  
+
 ### [2009-12-15](/news/2009/12/15/index.md)
 
+##### Nauru
 #  Nauru recognizes the independence of Abkhazia and establishes formal diplomatic relations in exchange for aid from Russia. 
 
 Facing depletion of its main resource, phosphates, Nauru is only the fourth nation to recognize the region, which separated from Georgia.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2009/12/16/world/europe/16georgia.html)
+1. [New York Times](https://www.nytimes.com/2009/12/16/world/europe/16georgia.html)
 1. [Cover Image](https://static01.nyt.com/images/2009/12/15/world/europe/16georgiaA/thumbStandard.jpg)
 
 ### Related:

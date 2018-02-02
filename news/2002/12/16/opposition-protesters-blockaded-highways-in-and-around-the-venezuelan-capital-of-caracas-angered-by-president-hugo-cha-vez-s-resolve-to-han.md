@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/16/opposition-protesters-blockaded-highways-in-and-around-the-venezuelan-capital-of-caracas-angered-by-president-hugo-cha-vez-s-resolve-to-han.html)  [JSON](/news/2002/12/16/opposition-protesters-blockaded-highways-in-and-around-the-venezuelan-capital-of-caracas-angered-by-president-hugo-cha-vez-s-resolve-to-han.json)  [XML](/news/2002/12/16/opposition-protesters-blockaded-highways-in-and-around-the-venezuelan-capital-of-caracas-angered-by-president-hugo-cha-vez-s-resolve-to-han.xml)  
+
 ### [2002-12-16](/news/2002/12/16/index.md)
 
+##### Venezuela
 # Opposition protesters blockaded highways in and around the Venezuelan capital of Caracas, angered by President Hugo Chavez's resolve to hang on to power, called for an escalation in its campaign to remove him.
 
 

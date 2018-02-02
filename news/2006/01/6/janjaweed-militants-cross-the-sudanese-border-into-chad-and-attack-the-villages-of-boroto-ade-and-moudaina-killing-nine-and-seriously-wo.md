@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/6/janjaweed-militants-cross-the-sudanese-border-into-chad-and-attack-the-villages-of-boroto-ade-and-moudaina-killing-nine-and-seriously-wo.html)  [JSON](/news/2006/01/6/janjaweed-militants-cross-the-sudanese-border-into-chad-and-attack-the-villages-of-boroto-ade-and-moudaina-killing-nine-and-seriously-wo.json)  [XML](/news/2006/01/6/janjaweed-militants-cross-the-sudanese-border-into-chad-and-attack-the-villages-of-boroto-ade-and-moudaina-killing-nine-and-seriously-wo.xml)  
+
 ### [2006-01-6](/news/2006/01/6/index.md)
 
+##### Janjaweed
 #  Janjaweed militants cross the Sudanese border into Chad and attack the villages of Boroto, Ade, and Moudaina, killing nine and seriously wounding three others. Chad once again warns Sudan that it will retaliate for attacks by Janjaweed and UFDC rebel attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.alertnet.org/thenews/newsdesk/L0644250.htm)
 

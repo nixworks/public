@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/11/the-american-civil-liberties-union-aclu-intervenes-when-mississippi-bans-same-sex-relationships-and-cancels-its-prom-leavers-dinner-due.html)  [JSON](/news/2010/03/11/the-american-civil-liberties-union-aclu-intervenes-when-mississippi-bans-same-sex-relationships-and-cancels-its-prom-leavers-dinner-due.json)  [XML](/news/2010/03/11/the-american-civil-liberties-union-aclu-intervenes-when-mississippi-bans-same-sex-relationships-and-cancels-its-prom-leavers-dinner-due.xml)  
+
 ### [2010-03-11](/news/2010/03/11/index.md)
 
+##### American Civil Liberties Union
 # The American Civil Liberties Union (ACLU) intervenes when Mississippi bans same-sex relationships and cancels its prom (leavers' dinner) due to the desire of a female student to bring her girlfriend and wear a tuxedo, while one of her teachers tells her "she had to remember where she was". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8563122.stm)
 2. [CNN](http://edition.cnn.com/2010/LIVING/03/11/mississippi.prom.suit/index.html)

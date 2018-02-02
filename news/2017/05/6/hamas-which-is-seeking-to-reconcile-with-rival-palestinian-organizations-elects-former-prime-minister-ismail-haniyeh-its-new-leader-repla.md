@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/6/hamas-which-is-seeking-to-reconcile-with-rival-p
 
 ### [2017-05-6](/news/2017/05/6/index.md)
 
+##### Hamas
 # Hamas, which is seeking to reconcile with rival Palestinian organizations, elects former Prime Minister Ismail Haniyeh its new leader, replacing term-limited Khaled Meshaal. Last week, Hamas dropped its longstanding call for Israel's destruction, and severed ties with the Muslim Brotherhood. 
 
  The Palestinian movement Hamas on Saturday elected Ismail Haniyeh to head its political office, a leadership change that comes as the Islamist group looks to r

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/10/ronald-anderson-is-arrested-in-connection-with-a-kidnapping-his-girlfriend-the-fatal-shooting-of-a-guard-at-us-census-bureau-headquarters.html)  [JSON](/news/2015/04/10/ronald-anderson-is-arrested-in-connection-with-a-kidnapping-his-girlfriend-the-fatal-shooting-of-a-guard-at-us-census-bureau-headquarters.json)  [XML](/news/2015/04/10/ronald-anderson-is-arrested-in-connection-with-a-kidnapping-his-girlfriend-the-fatal-shooting-of-a-guard-at-us-census-bureau-headquarters.xml)  
+
 ### [2015-04-10](/news/2015/04/10/index.md)
 
+##### US Census Bureau headquarters
 #  Ronald Anderson is arrested in connection with a kidnapping his girlfriend, the fatal shooting of a guard at US Census Bureau headquarters and police chase into H Street night life district on April 9. 
 
 Get the latest breaking news across the U.S. on ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/us/2015/04/10/man-shot-critically-injured-at-census-bureau/)
 2. [abcnews](http://abcnews.go.com/US/wireStory/guard-shot-census-bureau-suspect-shot-chase-30214262)

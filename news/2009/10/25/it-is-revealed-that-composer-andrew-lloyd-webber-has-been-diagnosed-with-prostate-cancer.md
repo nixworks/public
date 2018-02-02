@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/25/it-is-revealed-that-composer-andrew-lloyd-webber-has-been-diagnosed-with-prostate-cancer.html)  [JSON](/news/2009/10/25/it-is-revealed-that-composer-andrew-lloyd-webber-has-been-diagnosed-with-prostate-cancer.json)  [XML](/news/2009/10/25/it-is-revealed-that-composer-andrew-lloyd-webber-has-been-diagnosed-with-prostate-cancer.xml)  
+
 ### [2009-10-25](/news/2009/10/25/index.md)
 
+##### Andrew Lloyd Webber
 #  It is revealed that composer Andrew Lloyd Webber has been diagnosed with prostate cancer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/media/2009/oct/25/andrew-lloyd-webber-prostate-cancer)
 

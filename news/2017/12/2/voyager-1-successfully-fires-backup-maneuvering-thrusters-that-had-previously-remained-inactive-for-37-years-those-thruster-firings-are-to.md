@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/2/voyager-1-successfully-fires-backup-maneuvering-
 
 ### [2017-12-2](/news/2017/12/2/index.md)
 
+##### Voyager program
 # Voyager 1 successfully fires backup maneuvering thrusters, that had previously remained inactive for 37 years. Those thruster firings are to keep the spacecraft's antenna pointed at Earth, which is vital to maintain communications. 
 
 This week, the scientists and engineers on the Voyager team did something very special.

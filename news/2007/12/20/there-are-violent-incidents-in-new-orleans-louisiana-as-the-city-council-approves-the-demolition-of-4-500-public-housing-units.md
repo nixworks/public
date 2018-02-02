@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/20/there-are-violent-incidents-in-new-orleans-louisiana-as-the-city-council-approves-the-demolition-of-4-500-public-housing-units.html)  [JSON](/news/2007/12/20/there-are-violent-incidents-in-new-orleans-louisiana-as-the-city-council-approves-the-demolition-of-4-500-public-housing-units.json)  [XML](/news/2007/12/20/there-are-violent-incidents-in-new-orleans-louisiana-as-the-city-council-approves-the-demolition-of-4-500-public-housing-units.xml)  
+
 ### [2007-12-20](/news/2007/12/20/index.md)
 
+##### New Orleans, Louisiana
 #  There are violent incidents in New Orleans, Louisiana as the City Council approves the demolition of 4,500 public housing units. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5it04pRzua9xS7jmx5wr1b7AxK0SgD8TLDDM82)
 

@@ -1,16 +1,25 @@
+
+Formats: [HTML](/news/2011/03/19/syrian-security-forces-fire-tear-gas-at-a-funeral-for-two-men-killed-in-an-earlier-protest-in-the-southern-city-of-daraa.html)  [JSON](/news/2011/03/19/syrian-security-forces-fire-tear-gas-at-a-funeral-for-two-men-killed-in-an-earlier-protest-in-the-southern-city-of-daraa.json)  [XML](/news/2011/03/19/syrian-security-forces-fire-tear-gas-at-a-funeral-for-two-men-killed-in-an-earlier-protest-in-the-southern-city-of-daraa.xml)  
+
 ### [2011-03-19](/news/2011/03/19/index.md)
 
+##### Arab Spring
 # Syrian security forces fire tear gas at a funeral for two men killed in an earlier protest in the southern city of Daraa. 
 
 * Security tight across capital, checkpoints established * Yemen news agency chief, others leave ruling party * Opposition vows to resist,
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5imPTFixkG47Y44ZniAQVv4wC6UGw?docId=CNG.301dc17b5d60dc6790da1726987ffe7d.c71)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/2011319174733727477.html)
-3. [Reuters](http://www.reuters.com/article/2011/03/19/yemen-idUSLDE72I09820110319)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/article/2011/03/19/yemen-idUSLDE72I09820110319)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [Arab Spring: Syrian security forces fire tear gas at a funeral for two men killed in an earlier protest in the southern city of Daraa. ](/news/2011/03/19/arab-spring-syrian-security-forces-fire-tear-gas-at-a-funeral-for-two-men-killed-in-an-earlier-protest-in-the-southern-city-of-daraa.md) _2017-08-27 03:32:43 (First version)_
+1. [Syrian security forces fire tear gas at a funeral for two men killed in an earlier protest in the southern city of Daraa. ](/news/2011/03/19/syrian-security-forces-fire-tear-gas-at-a-funeral-for-two-men-killed-in-an-earlier-protest-in-the-southern-city-of-daraa.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +28,3 @@
 3. [Syrian security forces fire into crowds of demonstrators, as thousands protest across the country after Friday prayers. ](/news/2011/05/20/syrian-security-forces-fire-into-crowds-of-demonstrators-as-thousands-protest-across-the-country-after-friday-prayers.md) _Context: Syria, protestors_
 4. [Hundreds of dissidents have been arrested across Syria, including in the town of Daraa and a Damascus suburb, after dozens were killed in weekend protests, activists say. ](/news/2011/05/2/hundreds-of-dissidents-have-been-arrested-across-syria-including-in-the-town-of-daraa-and-a-damascus-suburb-after-dozens-were-killed-in-we.md) _Context: Daraa, Syria_
 5. [Syria condemns the decision by the United States to impose sanctions on President Bashar al-Assad in response to ongoing anti-government protests. ](/news/2011/05/19/syria-condemns-the-decision-by-the-united-states-to-impose-sanctions-on-president-bashar-al-assad-in-response-to-ongoing-anti-government-pro.md) _Context: Syria, protestors_
-
-### Changes:
-
-1. [Arab Spring: Syrian security forces fire tear gas at a funeral for two men killed in an earlier protest in the southern city of Daraa. ](/news/2011/03/19/arab-spring-syrian-security-forces-fire-tear-gas-at-a-funeral-for-two-men-killed-in-an-earlier-protest-in-the-southern-city-of-daraa.md) _2017-08-27 03:32:43 (First version)_
-1. [Syrian security forces fire tear gas at a funeral for two men killed in an earlier protest in the southern city of Daraa. ](/news/2011/03/19/syrian-security-forces-fire-tear-gas-at-a-funeral-for-two-men-killed-in-an-earlier-protest-in-the-southern-city-of-daraa.md) _(Current version)_

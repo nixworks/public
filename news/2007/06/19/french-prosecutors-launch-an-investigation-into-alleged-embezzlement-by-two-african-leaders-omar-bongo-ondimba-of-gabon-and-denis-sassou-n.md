@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/19/french-prosecutors-launch-an-investigation-into-alleged-embezzlement-by-two-african-leaders-omar-bongo-ondimba-of-gabon-and-denis-sassou-n.html)  [JSON](/news/2007/06/19/french-prosecutors-launch-an-investigation-into-alleged-embezzlement-by-two-african-leaders-omar-bongo-ondimba-of-gabon-and-denis-sassou-n.json)  [XML](/news/2007/06/19/french-prosecutors-launch-an-investigation-into-alleged-embezzlement-by-two-african-leaders-omar-bongo-ondimba-of-gabon-and-denis-sassou-n.xml)  
+
 ### [2007-06-19](/news/2007/06/19/index.md)
 
+##### prosecutor
 #  French prosecutors launch an investigation into alleged embezzlement by two African leaders, Omar Bongo Ondimba of Gabon and Denis Sassou Nguesso of the Republic of the Congo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6768197.stm)
 

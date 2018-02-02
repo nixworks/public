@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/30/the-court-of-arbitration-for-sport-upholds-a-two-year-ban-against-cyclist-floyd-landis-meaning-that-he-will-lose-his-2006-tour-de-france-ti.html)  [JSON](/news/2008/06/30/the-court-of-arbitration-for-sport-upholds-a-two-year-ban-against-cyclist-floyd-landis-meaning-that-he-will-lose-his-2006-tour-de-france-ti.json)  [XML](/news/2008/06/30/the-court-of-arbitration-for-sport-upholds-a-two-year-ban-against-cyclist-floyd-landis-meaning-that-he-will-lose-his-2006-tour-de-france-ti.xml)  
+
 ### [2008-06-30](/news/2008/06/30/index.md)
 
+##### Court of Arbitration for Sport
 #  The Court of Arbitration for Sport upholds a two year ban against cyclist Floyd Landis meaning that he will lose his 2006 Tour de France title. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5i48aukcOkGntU1MronjNKP31rvjAD91KHI0G0)
 

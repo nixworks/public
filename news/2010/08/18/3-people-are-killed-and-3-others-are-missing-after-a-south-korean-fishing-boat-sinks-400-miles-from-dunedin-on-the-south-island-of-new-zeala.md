@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/18/3-people-are-killed-and-3-others-are-missing-after-a-south-korean-fishing-boat-sinks-400-miles-from-dunedin-on-the-south-island-of-new-zeala.html)  [JSON](/news/2010/08/18/3-people-are-killed-and-3-others-are-missing-after-a-south-korean-fishing-boat-sinks-400-miles-from-dunedin-on-the-south-island-of-new-zeala.json)  [XML](/news/2010/08/18/3-people-are-killed-and-3-others-are-missing-after-a-south-korean-fishing-boat-sinks-400-miles-from-dunedin-on-the-south-island-of-new-zeala.xml)  
+
 ### [2010-08-18](/news/2010/08/18/index.md)
 
+##### South Korea
 # 3 people are killed and 3 others are missing after a South Korean fishing boat sinks 400 miles from Dunedin on the South Island of New Zealand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/08/18/new.zealand.boat.sinking/#fbid=YIYm6U-LlVS&wom=false)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/25/a-roadside-bomb-kills-five-iraqi-policemen-in-the-western-city-of-fallujah.html)  [JSON](/news/2009/06/25/a-roadside-bomb-kills-five-iraqi-policemen-in-the-western-city-of-fallujah.json)  [XML](/news/2009/06/25/a-roadside-bomb-kills-five-iraqi-policemen-in-the-western-city-of-fallujah.xml)  
+
 ### [2009-06-25](/news/2009/06/25/index.md)
 
+##### Iraq
 #  A roadside bomb kills five Iraqi policemen in the western city of Fallujah. 
 
 A roadside bomb killed five Iraqi policemen today in the once turbulent but recently secure western city of Falluja, police said&hellip;
 
 
-### Source:
+### Sources:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0625/breaking11.htm)
 1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)

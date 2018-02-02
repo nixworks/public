@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/5/at-least-3-are-killed-and-7-injured-when-a-passenger-train-derails-in-the-tasikmalaya-district-in-indonesia-s-west-java-island-after-hittin.html)  [JSON](/news/2014/04/5/at-least-3-are-killed-and-7-injured-when-a-passenger-train-derails-in-the-tasikmalaya-district-in-indonesia-s-west-java-island-after-hittin.json)  [XML](/news/2014/04/5/at-least-3-are-killed-and-7-injured-when-a-passenger-train-derails-in-the-tasikmalaya-district-in-indonesia-s-west-java-island-after-hittin.xml)  
+
 ### [2014-04-5](/news/2014/04/5/index.md)
 
+##### Tasikmalaya
 # At least 3 are killed and 7 injured when a passenger train derails in the Tasikmalaya District, in Indonesia's West Java Island after hitting mounds of mud following a downpour of rain. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN](http://local.msn.com/indonesia-train-derails-in-landslide-3-dead-1)
 

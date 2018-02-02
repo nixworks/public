@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/12/eduardo-cunha-former-president-of-the-brazilian
 
 ### [2016-09-12](/news/2016/09/12/index.md)
 
+##### Eduardo Cunha
 # Eduardo Cunha, former President of the Brazilian Chamber of Deputies loses his position as a Deputy following a vote of the Chamber as a result of a series of corruption scandals. 
 
 

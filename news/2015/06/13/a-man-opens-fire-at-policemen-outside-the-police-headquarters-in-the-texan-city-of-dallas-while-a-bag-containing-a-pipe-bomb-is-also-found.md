@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/13/a-man-opens-fire-at-policemen-outside-the-police-headquarters-in-the-texan-city-of-dallas-while-a-bag-containing-a-pipe-bomb-is-also-found.html)  [JSON](/news/2015/06/13/a-man-opens-fire-at-policemen-outside-the-police-headquarters-in-the-texan-city-of-dallas-while-a-bag-containing-a-pipe-bomb-is-also-found.json)  [XML](/news/2015/06/13/a-man-opens-fire-at-policemen-outside-the-police-headquarters-in-the-texan-city-of-dallas-while-a-bag-containing-a-pipe-bomb-is-also-found.xml)  
+
 ### [2015-06-13](/news/2015/06/13/index.md)
 
+##### opens fire
 # A man opens fire at policemen outside the police headquarters in the Texan city of Dallas, while a bag containing a pipe bomb is also found. He was later shot dead by police snipers following a car chase and standoff. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_DALLAS_POLICE_HEADQUARTERS_SHOOTING?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [CNN](http://edition.cnn.com/2015/06/13/us/dallas-police-headquarters-shooting/)

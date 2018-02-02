@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/6/international-atomic-energy-agency-inspectors-examine-the-kashiwazaki-kariwa-nuclear-power-plant-in-japan.html)  [JSON](/news/2007/08/6/international-atomic-energy-agency-inspectors-examine-the-kashiwazaki-kariwa-nuclear-power-plant-in-japan.json)  [XML](/news/2007/08/6/international-atomic-energy-agency-inspectors-examine-the-kashiwazaki-kariwa-nuclear-power-plant-in-japan.xml)  
+
 ### [2007-08-6](/news/2007/08/6/index.md)
 
+##### IAEA
 #  International Atomic Energy Agency inspectors examine the Kashiwazaki-Kariwa Nuclear Power Plant in Japan. 
 
 United Nations (UN) inspectors have examined the world&#039;s largest nuclear plant, which leaked a small amount of radiation following a powerful earthquake.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/06/1997618.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/2506474-1x1-700x700.jpg)

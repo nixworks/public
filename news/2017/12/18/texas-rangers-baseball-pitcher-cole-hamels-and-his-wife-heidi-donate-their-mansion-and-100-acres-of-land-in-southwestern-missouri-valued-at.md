@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/18/texas-rangers-baseball-pitcher-cole-hamels-and-
 
 ### [2017-12-18](/news/2017/12/18/index.md)
 
+##### Texas Rangers
 # Texas Rangers baseball pitcher Cole Hamels and his wife Heidi donate their mansion and 100 acres of land in southwestern Missouri, valued at nearly $10 million, to Camp Barnabas, a charity with camps in the Missouri Ozarks for children with special needs and chronic illnesses along with their siblings. 
 
 Cole Hamels showed his Christmas spirit early this year. The Rangers ace and his wife, Heidi, are donating a mansion and 100 acres of land in southwest Missouri to a charity that provides camps for…

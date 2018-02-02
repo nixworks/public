@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/20/russia-s-foreign-ministry-bans-the-united-states-agency-for-international-development-from-operating-in-the-country-saying-that-it-had-medd.html)  [JSON](/news/2012/09/20/russia-s-foreign-ministry-bans-the-united-states-agency-for-international-development-from-operating-in-the-country-saying-that-it-had-medd.json)  [XML](/news/2012/09/20/russia-s-foreign-ministry-bans-the-united-states-agency-for-international-development-from-operating-in-the-country-saying-that-it-had-medd.xml)  
+
 ### [2012-09-20](/news/2012/09/20/index.md)
 
+##### Foreign Ministry
 # Russia's Foreign Ministry bans the United States Agency for International Development from operating in the country, saying that it had meddled in recent elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-russia-usaid-20120920,0,3803504.story)
 1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

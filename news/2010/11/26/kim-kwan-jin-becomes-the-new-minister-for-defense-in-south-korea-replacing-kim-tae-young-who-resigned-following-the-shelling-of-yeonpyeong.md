@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/26/kim-kwan-jin-becomes-the-new-minister-for-defense-in-south-korea-replacing-kim-tae-young-who-resigned-following-the-shelling-of-yeonpyeong.html)  [JSON](/news/2010/11/26/kim-kwan-jin-becomes-the-new-minister-for-defense-in-south-korea-replacing-kim-tae-young-who-resigned-following-the-shelling-of-yeonpyeong.json)  [XML](/news/2010/11/26/kim-kwan-jin-becomes-the-new-minister-for-defense-in-south-korea-replacing-kim-tae-young-who-resigned-following-the-shelling-of-yeonpyeong.xml)  
+
 ### [2010-11-26](/news/2010/11/26/index.md)
 
+##### Kim Kwan-jin
 # Kim Kwan-jin becomes the new Minister for Defense in South Korea, replacing Kim Tae-Young who resigned following the shelling of Yeonpyeong. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/national/2010/11/26/70/0301000000AEN20101126009000315F.HTML)
 

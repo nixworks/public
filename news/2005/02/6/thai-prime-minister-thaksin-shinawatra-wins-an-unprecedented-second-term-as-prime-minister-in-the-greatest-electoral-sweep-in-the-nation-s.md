@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/6/thai-prime-minister-thaksin-shinawatra-wins-an-unprecedented-second-term-as-prime-minister-in-the-greatest-electoral-sweep-in-the-nation-s.html)  [JSON](/news/2005/02/6/thai-prime-minister-thaksin-shinawatra-wins-an-unprecedented-second-term-as-prime-minister-in-the-greatest-electoral-sweep-in-the-nation-s.json)  [XML](/news/2005/02/6/thai-prime-minister-thaksin-shinawatra-wins-an-unprecedented-second-term-as-prime-minister-in-the-greatest-electoral-sweep-in-the-nation-s.xml)  
+
 ### [2005-02-6](/news/2005/02/6/index.md)
 
+##### Prime Minister
 #  Thai Prime Minister Thaksin Shinawatra wins an unprecedented second term as prime minister, in the greatest electoral sweep in the nation's history. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2005/WORLD/asiapcf/02/06/thailand.poll/index.html)
 

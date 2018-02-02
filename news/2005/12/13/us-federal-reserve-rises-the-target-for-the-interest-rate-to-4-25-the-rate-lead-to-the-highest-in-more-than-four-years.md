@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/12/13/us-federal-reserve-rises-the-target-for-the-interest-rate-to-4-25-the-rate-lead-to-the-highest-in-more-than-four-years.html)  [JSON](/news/2005/12/13/us-federal-reserve-rises-the-target-for-the-interest-rate-to-4-25-the-rate-lead-to-the-highest-in-more-than-four-years.json)  [XML](/news/2005/12/13/us-federal-reserve-rises-the-target-for-the-interest-rate-to-4-25-the-rate-lead-to-the-highest-in-more-than-four-years.xml)  
+
 ### [2005-12-13](/news/2005/12/13/index.md)
 
+##### Federal Reserve
 #  US Federal Reserve rises the target for the interest rate to 4.25%. The rate lead to the highest in more than four years.
 
 

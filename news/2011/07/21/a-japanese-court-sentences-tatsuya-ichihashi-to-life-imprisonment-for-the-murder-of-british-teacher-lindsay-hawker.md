@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/21/a-japanese-court-sentences-tatsuya-ichihashi-to-life-imprisonment-for-the-murder-of-british-teacher-lindsay-hawker.html)  [JSON](/news/2011/07/21/a-japanese-court-sentences-tatsuya-ichihashi-to-life-imprisonment-for-the-murder-of-british-teacher-lindsay-hawker.json)  [XML](/news/2011/07/21/a-japanese-court-sentences-tatsuya-ichihashi-to-life-imprisonment-for-the-murder-of-british-teacher-lindsay-hawker.xml)  
+
 ### [2011-07-21](/news/2011/07/21/index.md)
 
+##### Japanese
 # A Japanese court sentences Tatsuya Ichihashi to life imprisonment for the murder of British teacher Lindsay Hawker. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Lindsay-Ann-Hawker-Murder-Tatsuya-Ichihashi-Gets-Life-Sentence-For-Killing-British-Girl/Article/201107316034558?lpos=World_News_Carousel_Region_0&lid=ARTICLE_16034558_Lindsay_Ann_Hawker_Murder%3A_Tatsuya_Ichihashi_Gets_Life_Sentence_For_Killing_British_Girl)
 

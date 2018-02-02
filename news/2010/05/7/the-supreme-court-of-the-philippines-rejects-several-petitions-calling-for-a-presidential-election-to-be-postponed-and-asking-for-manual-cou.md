@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/7/the-supreme-court-of-the-philippines-rejects-several-petitions-calling-for-a-presidential-election-to-be-postponed-and-asking-for-manual-cou.html)  [JSON](/news/2010/05/7/the-supreme-court-of-the-philippines-rejects-several-petitions-calling-for-a-presidential-election-to-be-postponed-and-asking-for-manual-cou.json)  [XML](/news/2010/05/7/the-supreme-court-of-the-philippines-rejects-several-petitions-calling-for-a-presidential-election-to-be-postponed-and-asking-for-manual-cou.xml)  
+
 ### [2010-05-7](/news/2010/05/7/index.md)
 
+##### Supreme Court of the Philippines
 # The Supreme Court of the Philippines rejects several petitions calling for a presidential election to be postponed and asking for manual counting of votes to be maintained. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://arabnews.com/world/article51072.ece)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/17/the-legality-of-private-gambling-is-taken-before-the-united-states-supreme-court.html)  [JSON](/news/2014/02/17/the-legality-of-private-gambling-is-taken-before-the-united-states-supreme-court.json)  [XML](/news/2014/02/17/the-legality-of-private-gambling-is-taken-before-the-united-states-supreme-court.xml)  
+
 ### [2014-02-17](/news/2014/02/17/index.md)
 
+##### United States Supreme Court
 # The legality of private gambling is taken before the United States Supreme Court. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [KTVU](http://www.ktvu.com/news/news/national/supreme-court-could-decide-legality-poker-games/ndRgG/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/6/wang-jiarui-head-of-the-communist-party-of-china-s-liaison-office-arrives-in-north-korea-on-a-goodwill-visit-at-the-invitation-of-the-wo.html)  [JSON](/news/2010/02/6/wang-jiarui-head-of-the-communist-party-of-china-s-liaison-office-arrives-in-north-korea-on-a-goodwill-visit-at-the-invitation-of-the-wo.json)  [XML](/news/2010/02/6/wang-jiarui-head-of-the-communist-party-of-china-s-liaison-office-arrives-in-north-korea-on-a-goodwill-visit-at-the-invitation-of-the-wo.xml)  
+
 ### [2010-02-6](/news/2010/02/6/index.md)
 
+##### Wang Jiarui
 # Wang Jiarui, head of the Communist Party of China's liaison office, arrives in North Korea on a "goodwill visit" at the invitation of the Workers' Party of Korea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gjlAbfHvm1fAlsBcMyTWfa-aS4fA)
 2. [Tehran Times](http://www.tehrantimes.com/index_View.asp?code=213864)

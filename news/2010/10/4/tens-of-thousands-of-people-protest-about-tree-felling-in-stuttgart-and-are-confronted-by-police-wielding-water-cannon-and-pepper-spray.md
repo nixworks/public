@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/4/tens-of-thousands-of-people-protest-about-tree-felling-in-stuttgart-and-are-confronted-by-police-wielding-water-cannon-and-pepper-spray.html)  [JSON](/news/2010/10/4/tens-of-thousands-of-people-protest-about-tree-felling-in-stuttgart-and-are-confronted-by-police-wielding-water-cannon-and-pepper-spray.json)  [XML](/news/2010/10/4/tens-of-thousands-of-people-protest-about-tree-felling-in-stuttgart-and-are-confronted-by-police-wielding-water-cannon-and-pepper-spray.xml)  
+
 ### [2010-10-4](/news/2010/10/4/index.md)
 
+##### Stuttgart
 # Tens of thousands of people protest about tree-felling in Stuttgart and are confronted by police wielding water cannon and pepper spray. 
 
 Clashes between police and protesters in Stuttgart hit a raw nerve in Germany as railway modernisation involves digging up a park.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11465890)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

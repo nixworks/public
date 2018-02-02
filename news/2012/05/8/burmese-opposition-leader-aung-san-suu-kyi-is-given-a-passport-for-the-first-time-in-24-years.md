@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/8/burmese-opposition-leader-aung-san-suu-kyi-is-given-a-passport-for-the-first-time-in-24-years.html)  [JSON](/news/2012/05/8/burmese-opposition-leader-aung-san-suu-kyi-is-given-a-passport-for-the-first-time-in-24-years.json)  [XML](/news/2012/05/8/burmese-opposition-leader-aung-san-suu-kyi-is-given-a-passport-for-the-first-time-in-24-years.xml)  
+
 ### [2012-05-8](/news/2012/05/8/index.md)
 
+##### Burma
 # Burmese opposition leader Aung San Suu Kyi is given a passport for the first time in 24 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17995837)
 2. [Straits Times](http://www.straitstimes.com/The-Big-Story/The-Big-Story-2/Story/STIStory_796575.html)

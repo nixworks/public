@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/15/tiger-woods-and-rocco-mediate-will-play-in-an-18-hole-playoff-to-determine-the-winner-of-the-2008-u-s-open-golf-championship.html)  [JSON](/news/2008/06/15/tiger-woods-and-rocco-mediate-will-play-in-an-18-hole-playoff-to-determine-the-winner-of-the-2008-u-s-open-golf-championship.json)  [XML](/news/2008/06/15/tiger-woods-and-rocco-mediate-will-play-in-an-18-hole-playoff-to-determine-the-winner-of-the-2008-u-s-open-golf-championship.xml)  
+
 ### [2008-06-15](/news/2008/06/15/index.md)
 
+##### Tiger Woods
 #  Tiger Woods and Rocco Mediate will play in an 18-hole playoff to determine the winner of the 2008 U.S. Open Golf Championship. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Washington Times](http://www.washingtontimes.com/news/2008/jun/15/tigers-spectacular-birdie-forces-us-open-playof-1/)
 

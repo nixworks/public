@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/04/22/new-research-reveals-apple-and-google-are-running-their-iphone-and-android-software-to-build-gigantic-databases-from-owners-movements-as-go.html)  [JSON](/news/2011/04/22/new-research-reveals-apple-and-google-are-running-their-iphone-and-android-software-to-build-gigantic-databases-from-owners-movements-as-go.json)  [XML](/news/2011/04/22/new-research-reveals-apple-and-google-are-running-their-iphone-and-android-software-to-build-gigantic-databases-from-owners-movements-as-go.xml)  
+
 ### [2011-04-22](/news/2011/04/22/index.md)
 
+##### Google
 # New research reveals Apple and Google are running their iPhone and Android software to build gigantic databases from owners' movements as governments move to investigate. 
 
 Europe is beginning its own investigations, although the iPhone and iPad have been tracking location data all along.
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/technology/2011/apr/22/iphone-android-location-based-services)
-2. [The New York Times](http://www.nytimes.com/2011/04/22/technology/22data.html?partner=rss&emc=rss)
+2. [The New York Times](https://www.nytimes.com/2011/04/22/technology/22data.html?partner=rss&emc=rss)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-04/23/c_13842001.htm)
 3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 

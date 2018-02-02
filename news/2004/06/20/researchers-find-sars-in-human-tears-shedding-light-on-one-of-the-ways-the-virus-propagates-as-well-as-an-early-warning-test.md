@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/20/researchers-find-sars-in-human-tears-shedding-light-on-one-of-the-ways-the-virus-propagates-as-well-as-an-early-warning-test.html)  [JSON](/news/2004/06/20/researchers-find-sars-in-human-tears-shedding-light-on-one-of-the-ways-the-virus-propagates-as-well-as-an-early-warning-test.json)  [XML](/news/2004/06/20/researchers-find-sars-in-human-tears-shedding-light-on-one-of-the-ways-the-virus-propagates-as-well-as-an-early-warning-test.xml)  
+
 ### [2004-06-20](/news/2004/06/20/index.md)
 
+##### SARS
 #  Researchers find SARS in human tears, shedding light on one of the ways the virus propagates, as well as an early-warning test. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC Online Australia](http://www.abc.net.au/news/newsitems/200406/s1136224.htm)
 2. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1087764129960_25?hub=Health)

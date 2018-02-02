@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/15/the-syrian-government-may-sign-an-agreement-in-which-it-will-recognize-israel-and-end-its-support-for-hezbollah-and-hamas-in-return-for-isr.html)  [JSON](/news/2007/01/15/the-syrian-government-may-sign-an-agreement-in-which-it-will-recognize-israel-and-end-its-support-for-hezbollah-and-hamas-in-return-for-isr.json)  [XML](/news/2007/01/15/the-syrian-government-may-sign-an-agreement-in-which-it-will-recognize-israel-and-end-its-support-for-hezbollah-and-hamas-in-return-for-isr.xml)  
+
 ### [2007-01-15](/news/2007/01/15/index.md)
 
+##### Israel
 #  The Syrian government may sign an agreement in which it will recognize Israel and end its support for Hezbollah and Hamas in return for Israeli withdrawal from most of the Golan Heights. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Ha'aretz](http://www.haaretz.com/hasen/spages/813817.html)
 

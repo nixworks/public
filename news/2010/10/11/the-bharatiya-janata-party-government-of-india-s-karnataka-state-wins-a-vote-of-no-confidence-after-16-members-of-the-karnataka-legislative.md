@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/11/the-bharatiya-janata-party-government-of-india-s-karnataka-state-wins-a-vote-of-no-confidence-after-16-members-of-the-karnataka-legislative.html)  [JSON](/news/2010/10/11/the-bharatiya-janata-party-government-of-india-s-karnataka-state-wins-a-vote-of-no-confidence-after-16-members-of-the-karnataka-legislative.json)  [XML](/news/2010/10/11/the-bharatiya-janata-party-government-of-india-s-karnataka-state-wins-a-vote-of-no-confidence-after-16-members-of-the-karnataka-legislative.xml)  
+
 ### [2010-10-11](/news/2010/10/11/index.md)
 
+##### Bharatiya Janata Party
 # The Bharatiya Janata Party government of India's Karnataka state wins a vote of no confidence after 16 members of the Karnataka Legislative Assembly are disqualified from voting. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindustani Times](http://www.hindustantimes.com/News-Feed/karnataka/Governor-for-President-s-rule-as-BJP-wins-trust-vote/Article1-611394.aspx)
 2. [OneIndia](http://news.oneindia.in/2010/10/11/karnataka-bjp-wins-trust-vote-bsy-rebel-mlas.html)

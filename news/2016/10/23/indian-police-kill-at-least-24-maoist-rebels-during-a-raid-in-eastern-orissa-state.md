@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/23/indian-police-kill-at-least-24-maoist-rebels-du
 
 ### [2016-10-23](/news/2016/10/23/index.md)
 
+##### Naxalite-Maoist insurgency
 # Indian police kill at least 24 Maoist rebels during a raid in eastern Orissa State. 
 
 Police in India say they have killed at least 24 Maoist rebels in the eastern state of Orissa.

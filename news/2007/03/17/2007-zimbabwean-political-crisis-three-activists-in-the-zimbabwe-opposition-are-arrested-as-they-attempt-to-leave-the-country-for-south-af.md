@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/03/17/2007-zimbabwean-political-crisis-three-activists-in-the-zimbabwe-opposition-are-arrested-as-they-attempt-to-leave-the-country-for-south-af.html)  [JSON](/news/2007/03/17/2007-zimbabwean-political-crisis-three-activists-in-the-zimbabwe-opposition-are-arrested-as-they-attempt-to-leave-the-country-for-south-af.json)  [XML](/news/2007/03/17/2007-zimbabwean-political-crisis-three-activists-in-the-zimbabwe-opposition-are-arrested-as-they-attempt-to-leave-the-country-for-south-af.xml)  
+
 ### [2007-03-17](/news/2007/03/17/index.md)
 
+##### 2007 Zimbabwean political crisis
 #  2007 Zimbabwean political crisis: Three activists in the Zimbabwe opposition are arrested as they attempt to leave the country for South Africa including Arthur Mutambara, leader of a faction in the Movement for Democratic Change. Two of the activists were seeking medical treatment after having been arrested a week ago. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/03/17/AR2007031700880.html)
+1. [AP via Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2007/03/17/AR2007031700880.html)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

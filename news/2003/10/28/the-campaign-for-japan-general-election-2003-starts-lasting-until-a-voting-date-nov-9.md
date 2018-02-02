@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/28/the-campaign-for-japan-general-election-2003-starts-lasting-until-a-voting-date-nov-9.html)  [JSON](/news/2003/10/28/the-campaign-for-japan-general-election-2003-starts-lasting-until-a-voting-date-nov-9.json)  [XML](/news/2003/10/28/the-campaign-for-japan-general-election-2003-starts-lasting-until-a-voting-date-nov-9.xml)  
+
 ### [2003-10-28](/news/2003/10/28/index.md)
 
+##### Japan general election
 #  The campaign for Japan general election, 2003 starts, lasting until a voting date, Nov 9.
 
 

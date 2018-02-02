@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/03/24/scientists-identify-the-denisova-hominin-a-previously-unknown-type-of-ancient-human-through-dna-analysis-from-a-finger-found-in-a-cave-in.html)  [JSON](/news/2010/03/24/scientists-identify-the-denisova-hominin-a-previously-unknown-type-of-ancient-human-through-dna-analysis-from-a-finger-found-in-a-cave-in.json)  [XML](/news/2010/03/24/scientists-identify-the-denisova-hominin-a-previously-unknown-type-of-ancient-human-through-dna-analysis-from-a-finger-found-in-a-cave-in.xml)  
+
 ### [2010-03-24](/news/2010/03/24/index.md)
 
+##### Denisova hominin
 # Scientists identify the Denisova hominin - a previously unknown type of ancient human through DNA analysis from a finger found in a cave in Siberia, Russia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8583254.stm)
 2. [Nature](http://www.nature.com/news/2010/100324/full/464472a.html)
-3. [The New York Times](http://www.nytimes.com/2010/03/25/science/25human.html?src=me)
+3. [The New York Times](https://www.nytimes.com/2010/03/25/science/25human.html?src=me)
 3. [Cover Image](https://static01.nyt.com/images/2010/03/25/science/25human_graphic/25human_graphic-thumbStandard.jpg)
 
 ### Related:

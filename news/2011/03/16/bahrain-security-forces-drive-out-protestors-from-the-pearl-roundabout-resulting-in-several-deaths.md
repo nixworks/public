@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/16/bahrain-security-forces-drive-out-protestors-from-the-pearl-roundabout-resulting-in-several-deaths.html)  [JSON](/news/2011/03/16/bahrain-security-forces-drive-out-protestors-from-the-pearl-roundabout-resulting-in-several-deaths.json)  [XML](/news/2011/03/16/bahrain-security-forces-drive-out-protestors-from-the-pearl-roundabout-resulting-in-several-deaths.xml)  
+
 ### [2011-03-16](/news/2011/03/16/index.md)
 
+##### Bahrain
 # Bahrain security forces drive out protestors from the Pearl Roundabout, resulting in several deaths. 
 
 Curfew enforced, several dead and hundreds injured as security forces use tanks and helicopters to quash protests.
 
 
-### Source:
+### Sources:
 
 1. [Ahram Online](http://english.ahram.org.eg/NewsContent/2/8/7833/World/Region/Syrian-security-forces-disperse-demo-near-interior.aspx)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/201131692353456943.html)
@@ -16,6 +20,12 @@ Curfew enforced, several dead and hundreds injured as security forces use tanks 
 7. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4043057,00.html)
 7. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/16/2011316951781797_20.jpg)
 
+### Changes:
+
+1. [Arab Spring:Bahrain security forces drive out protestors from the Pearl Roundabout, resulting in several deaths. ](/news/2011/03/16/arab-spring-pbahrain-security-forces-drive-out-protestors-from-the-pearl-roundabout-resulting-in-several-deaths.md) _2017-08-25 03:32:33 (First version)_
+2. [Arab Spring:: Bahrain security forces drive out protestors from the Pearl Roundabout, resulting in several deaths. ](/news/2011/03/16/arab-spring-bahrain-security-forces-drive-out-protestors-from-the-pearl-roundabout-resulting-in-several-deaths.md) _2017-08-27 03:32:41 (Update)_
+2. [Bahrain security forces drive out protestors from the Pearl Roundabout, resulting in several deaths. ](/news/2011/03/16/bahrain-security-forces-drive-out-protestors-from-the-pearl-roundabout-resulting-in-several-deaths.md) _(Current version)_
+
 ### Related:
 
 1. [Bahrain police launch an attack on protesters in the Pearl Roundabout in the capital Manama, using tear gas and batons to disperse the crowd. ](/news/2011/02/17/bahrain-police-launch-an-attack-on-protesters-in-the-pearl-roundabout-in-the-capital-manama-using-tear-gas-and-batons-to-disperse-the-crowd.md) _Context: Bahrain, Pearl Roundabout_
@@ -23,9 +33,3 @@ Curfew enforced, several dead and hundreds injured as security forces use tanks 
 3. [Bahrain, Egypt, Libya, the Maldives, Saudi Arabia, the United Arab Emirates, and the internationally recognized government of Yemen sever diplomatic ties with Qatar, ordering Qatari citizens in those countries to be expelled as well as cutting all land, air and sea connections. "National security," "media incitement" and Qatar's support of Iran are variously cited. ](/news/2017/06/5/bahrain-egypt-libya-the-maldives-saudi-arabia-the-united-arab-emirates-and-the-internationally-recognized-government-of-yemen-sever-di.md) _Context: Bahrain_
 4. [Bahrain bans the independent "Al-Wasat" newspaper on grounds that it "sows division" in the Shia-majority kingdom. ](/news/2017/06/4/bahrain-bans-the-independent-al-wasat-newspaper-on-grounds-that-it-sows-division-in-the-shia-majority-kingdom.md) _Context: Bahrain_
 5. [The Bahrain News Agency publishes an official list of the demands from Saudi Arabia, Bahrain, the United Arab Emirates and Egypt towards Qatar. Turkey says the demands on Qatar are unlawful. ](/news/2017/06/25/the-bahrain-news-agency-publishes-an-official-list-of-the-demands-from-saudi-arabia-bahrain-the-united-arab-emirates-and-egypt-towards-qat.md) _Context: Bahrain_
-
-### Changes:
-
-1. [Arab Spring:Bahrain security forces drive out protestors from the Pearl Roundabout, resulting in several deaths. ](/news/2011/03/16/arab-spring-pbahrain-security-forces-drive-out-protestors-from-the-pearl-roundabout-resulting-in-several-deaths.md) _2017-08-25 03:32:33 (First version)_
-2. [Arab Spring:: Bahrain security forces drive out protestors from the Pearl Roundabout, resulting in several deaths. ](/news/2011/03/16/arab-spring-bahrain-security-forces-drive-out-protestors-from-the-pearl-roundabout-resulting-in-several-deaths.md) _2017-08-27 03:32:41 (Update)_
-2. [Bahrain security forces drive out protestors from the Pearl Roundabout, resulting in several deaths. ](/news/2011/03/16/bahrain-security-forces-drive-out-protestors-from-the-pearl-roundabout-resulting-in-several-deaths.md) _(Current version)_

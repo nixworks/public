@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/28/finance-minister-of-thailand-pridiyathorn-devakula-resigns-over-differences-of-opinion-with-the-prime-minister-of-thailand-surayud-chulanon.html)  [JSON](/news/2007/02/28/finance-minister-of-thailand-pridiyathorn-devakula-resigns-over-differences-of-opinion-with-the-prime-minister-of-thailand-surayud-chulanon.json)  [XML](/news/2007/02/28/finance-minister-of-thailand-pridiyathorn-devakula-resigns-over-differences-of-opinion-with-the-prime-minister-of-thailand-surayud-chulanon.xml)  
+
 ### [2007-02-28](/news/2007/02/28/index.md)
 
+##### Thailand
 #  Finance Minister of Thailand Pridiyathorn Devakula resigns over differences of opinion with the Prime Minister of Thailand Surayud Chulanont. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6403053.stm)
 

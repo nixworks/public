@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/12/beijing-s-air-pollution-reaches-levels-judged-as-hazardous-to-human-health.html)  [JSON](/news/2013/01/12/beijing-s-air-pollution-reaches-levels-judged-as-hazardous-to-human-health.json)  [XML](/news/2013/01/12/beijing-s-air-pollution-reaches-levels-judged-as-hazardous-to-human-health.xml)  
+
 ### [2013-01-12](/news/2013/01/12/index.md)
 
+##### Beijing
 # Beijing's air pollution reaches levels judged as hazardous to human health. 
 
 Air pollution in the Chinese capital Beijing reaches levels judged as hazardous to health, with visibility down to a few hundred metres.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-20998147)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65242000/jpg/_65242783_65242782.jpg)
@@ -13,7 +17,7 @@ Air pollution in the Chinese capital Beijing reaches levels judged as hazardous 
 ### Related:
 
 1. [ Beijing introduces traffic restrictions and factory closures in an effort to reduce air pollution for the 2008 Summer Olympics. ](/news/2008/07/20/beijing-introduces-traffic-restrictions-and-factory-closures-in-an-effort-to-reduce-air-pollution-for-the-2008-summer-olympics.md) _Context: Beijing, air pollution_
-2. [Teams of United States-based researchers, composed of American, Chinese and South Korean scientists, successfully edit a piece of faulty DNA that causes a deadly form of heart disease from cells in human embryos. ](/news/2017/08/2/teams-of-united-states-based-researchers-composed-of-american-chinese-and-south-korean-scientists-successfully-edit-a-piece-of-faulty-dna.md) _Context: human_
-3. [New research suggests that large parts of Southern Asia may be uninhabitable by 2100 due to levels of humidity dangerous to humans. ](/news/2017/08/2/new-research-suggests-that-large-parts-of-southern-asia-may-be-uninhabitable-by-2100-due-to-levels-of-humidity-dangerous-to-humans.md) _Context: human_
-4. [A stalemate between China and India leads to fears that the ongoing stand-off over Doklam in the Himalayas, disputed by Bhutan, may continue into the winter. It comes after rumors that Indian National Security Adviser Ajit Doval may travel to Beijing later this month. "[http:--economictimes.indiatimes.com-news-defence-beijing-wont-have-formal-talks-with-india-stand-off-may-continue-till-winter-chinese-expert-articleshow-59615025.cms (Economic Times)]"](/news/2017/07/16/a-stalemate-between-china-and-india-leads-to-fears-that-the-ongoing-stand-off-over-doklam-in-the-himalayas-disputed-by-bhutan-may-continue.md) _Context: Beijing_
-5. [Coffee may prolong the human lifespan, suggests one study by Imperial College London and the International Agency for Research on Cancer, and another by the Keck School of Medicine of USC. ](/news/2017/07/10/coffee-may-prolong-the-human-lifespan-suggests-one-study-by-imperial-college-london-and-the-international-agency-for-research-on-cancer-an.md) _Context: human_
+2. [The Russian Ministry of Defense says that Russia and China concluded a five-day computer-generated air defense drill in Beijing. ](/news/2017/12/17/the-russian-ministry-of-defense-says-that-russia-and-china-concluded-a-five-day-computer-generated-air-defense-drill-in-beijing.md) _Context: Beijing_
+3. [Authorities in Beijing evict thousands of its migrant population in wake of a fire that left 19 people dead earlier this month, leaving many homeless in sub-zero temperatures. ](/news/2017/11/27/authorities-in-beijing-evict-thousands-of-its-migrant-population-in-wake-of-a-fire-that-left-19-people-dead-earlier-this-month-leaving-many.md) _Context: Beijing_
+4. [A fire in a low-rent apartment in a suburb of Beijing kills 19 people and injures 8. ](/news/2017/11/18/a-fire-in-a-low-rent-apartment-in-a-suburb-of-beijing-kills-19-people-and-injures-8.md) _Context: Beijing_
+5. [The week-long Communist Party congress in Beijing draws to an end, with General Secretary Xi Jinping set to become its most influential leader since Party Chairman Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-general-secretary-xi-jinping-set-to-become-its-most-influential-lead.md) _Context: Beijing_

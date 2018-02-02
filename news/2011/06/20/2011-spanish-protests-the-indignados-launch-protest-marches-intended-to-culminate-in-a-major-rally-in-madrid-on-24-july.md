@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/20/2011-spanish-protests-the-indignados-launch-protest-marches-intended-to-culminate-in-a-major-rally-in-madrid-on-24-july.html)  [JSON](/news/2011/06/20/2011-spanish-protests-the-indignados-launch-protest-marches-intended-to-culminate-in-a-major-rally-in-madrid-on-24-july.json)  [XML](/news/2011/06/20/2011-spanish-protests-the-indignados-launch-protest-marches-intended-to-culminate-in-a-major-rally-in-madrid-on-24-july.xml)  
+
 ### [2011-06-20](/news/2011/06/20/index.md)
 
+##### 2011 Spanish protests
 # 2011 Spanish protests: The "indignados" launch protest marches intended to culminate in a major rally in Madrid on 24 July. 
 
 Spain&#39;s &#39;indignant&#39; activists launched protest marches today which will culminate in a major Madrid rally on 24 July.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2011/0620/spain.html)
 1. [Cover Image](https://img.rasset.ie/0004b159-1600.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/7/the-conjoined-twins-recently-born-in-gaza-less-than-two-weeks-ago-are-reported-as-being-in-a-critical-condition-in-saudi-arabia-where-surger.html)  [JSON](/news/2010/04/7/the-conjoined-twins-recently-born-in-gaza-less-than-two-weeks-ago-are-reported-as-being-in-a-critical-condition-in-saudi-arabia-where-surger.json)  [XML](/news/2010/04/7/the-conjoined-twins-recently-born-in-gaza-less-than-two-weeks-ago-are-reported-as-being-in-a-critical-condition-in-saudi-arabia-where-surger.xml)  
+
 ### [2010-04-7](/news/2010/04/7/index.md)
 
+##### Gaza Strip
 # The conjoined twins recently born in Gaza less than two weeks ago are reported as being in a critical condition in Saudi Arabia where surgery is taking place to separate them. 
 
 Conjoined twins Hassan and Hussein Benhaffaf from Cork are undergoing surgery to separate them in London.
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://arabnews.com/saudiarabia/article40394.ece)
 2. [Irish Independent](http://www.independent.ie/national-news/mother-prays-for-her-little-fighters-ahead-of-last-battle-2126279.html)
@@ -14,16 +18,16 @@ Conjoined twins Hassan and Hussein Benhaffaf from Cork are undergoing surgery to
 5. [The Guardian](http://www.guardian.co.uk/uk/2010/apr/07/conjoined-twins-separation)
 5. [Cover Image](https://img.rasset.ie/00032c8a-1600.jpg)
 
-### Related:
-
-1. [Palestinian factions, Hamas and Fatah, sign a unity deal in Cairo, that is also publicly supported by the governments of Egypt and Saudi Arabia. The Fatah-controlled Palestinian National Authority (PNA), along with Israel, currently govern the West Bank. According to the signatories of the deal, the PNA will take administrative control of the Gaza Strip, and, along with Hamas, police its borders. The signatories consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. The government of Israel opposes any involvement by Hamas in a Palestinian government. ](/news/2017/10/12/palestinian-factions-hamas-and-fatah-sign-a-unity-deal-in-cairo-that-is-also-publicly-supported-by-the-governments-of-egypt-and-saudi-ara.md) _Context: Gaza Strip, Saudi Arabia_
-2. [A Saudi national opens fire at the Al-Salam Royal Palace in Jeddah, Saudi Arabia, killing two guards and injuring three others. Security guards shoot and kill the gunman. ](/news/2017/10/7/a-saudi-national-opens-fire-at-the-al-salam-royal-palace-in-jeddah-saudi-arabia-killing-two-guards-and-injuring-three-others-security-gua.md) _Context: Saudi Arabia_
-3. [King Salman of Saudi Arabia visits Russian President Vladimir Putin in the Moscow Kremlin. They discuss oil prices and the Syrian Civil War. ](/news/2017/10/5/king-salman-of-saudi-arabia-visits-russian-president-vladimir-putin-in-the-moscow-kremlin-they-discuss-oil-prices-and-the-syrian-civil-war.md) _Context: Saudi Arabia_
-4. [Saudi Arabia suspends any dialogue with Qatar, accusing it of "distorting facts" in its reporting of yesterday's phone call between the leaders of both countries which suggested a breakthrough in the Gulf dispute was possible. ](/news/2017/09/9/saudi-arabia-suspends-any-dialogue-with-qatar-accusing-it-of-adistorting-factsa-in-its-reporting-of-yesterday-s-phone-call-between-the.md) _Context: Saudi Arabia_
-5. [ Saudi Arabia lifts its 2013 ban on internet calls, effective midnight local time (21:00 UTC). ](/news/2017/09/20/saudi-arabia-lifts-its-2013-ban-on-internet-calls-effective-midnight-local-time-21-00-utc.md) _Context: Saudi Arabia_
-
 ### Changes:
 
 1. [Conjoined twins:The conjoined twins recently born in Gaza less than two weeks ago are reported as being in a critical condition in Saudi Arabia where surgery is taking place to separate them. ](/news/2010/04/7/conjoined-twins-pthe-conjoined-twins-recently-born-in-gaza-less-than-two-weeks-ago-are-reported-as-being-in-a-critical-condition-in-saudi-ar.md) _2017-08-25 03:27:34 (First version)_
 2. [Conjoined twins:: The conjoined twins recently born in Gaza less than two weeks ago are reported as being in a critical condition in Saudi Arabia where surgery is taking place to separate them. ](/news/2010/04/7/conjoined-twins-the-conjoined-twins-recently-born-in-gaza-less-than-two-weeks-ago-are-reported-as-being-in-a-critical-condition-in-saudi-a.md) _2017-08-27 03:27:31 (Update)_
 2. [The conjoined twins recently born in Gaza less than two weeks ago are reported as being in a critical condition in Saudi Arabia where surgery is taking place to separate them. ](/news/2010/04/7/the-conjoined-twins-recently-born-in-gaza-less-than-two-weeks-ago-are-reported-as-being-in-a-critical-condition-in-saudi-arabia-where-surger.md) _(Current version)_
+
+### Related:
+
+1. [Palestinian factions, Hamas and Fatah, sign a unity deal in Cairo, that is also publicly supported by the governments of Egypt and Saudi Arabia. The Fatah-controlled Palestinian National Authority (PNA), along with Israel, currently govern the West Bank. According to the signatories of the deal, the PNA will take administrative control of the Gaza Strip, and, along with Hamas, police its borders. The signatories consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. The government of Israel opposes any involvement by Hamas in a Palestinian government. ](/news/2017/10/12/palestinian-factions-hamas-and-fatah-sign-a-unity-deal-in-cairo-that-is-also-publicly-supported-by-the-governments-of-egypt-and-saudi-ara.md) _Context: Gaza Strip, Saudi Arabia_
+2. [For the first time, Saudi Arabia allows women to spectate at football matches, part of an easing of strict rules on gender separation by the ultra-conservative Muslim country. ](/news/2018/01/12/for-the-first-time-saudi-arabia-allows-women-to-spectate-at-football-matches-part-of-an-easing-of-strict-rules-on-gender-separation-by-the.md) _Context: Saudi Arabia_
+3. [Value Added Tax (VAT) has been introduced in Saudi Arabia and the United Arab Emirates for the first time. ](/news/2018/01/1/value-added-tax-vat-has-been-introduced-in-saudi-arabia-and-the-united-arab-emirates-for-the-first-time.md) _Context: Saudi Arabia_
+4. [Hundreds of people protest on the West Bank and in Gaza for the third day in a row. ](/news/2017/12/9/hundreds-of-people-protest-on-the-west-bank-and-in-gaza-for-the-third-day-in-a-row.md) _Context: Gaza Strip_
+5. [At a GCC summit in Kuwait City, the United Arab Emirates announce a political and military alliance with Saudi Arabia. ](/news/2017/12/5/at-a-gcc-summit-in-kuwait-city-the-united-arab-emirates-announce-a-political-and-military-alliance-with-saudi-arabia.md) _Context: Saudi Arabia_

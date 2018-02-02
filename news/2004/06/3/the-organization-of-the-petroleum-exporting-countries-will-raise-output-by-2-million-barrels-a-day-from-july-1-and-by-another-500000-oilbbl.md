@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/3/the-organization-of-the-petroleum-exporting-countries-will-raise-output-by-2-million-barrels-a-day-from-july-1-and-by-another-500000-oilbbl.html)  [JSON](/news/2004/06/3/the-organization-of-the-petroleum-exporting-countries-will-raise-output-by-2-million-barrels-a-day-from-july-1-and-by-another-500000-oilbbl.json)  [XML](/news/2004/06/3/the-organization-of-the-petroleum-exporting-countries-will-raise-output-by-2-million-barrels-a-day-from-july-1-and-by-another-500000-oilbbl.xml)  
+
 ### [2004-06-3](/news/2004/06/3/index.md)
 
+##### OPEC
 #  The Organization of the Petroleum Exporting Countries will raise output by 2 million barrels a day from July 1 and by another 500000 oilbbl-d from August 1. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/3771939.stm)
 2. [IHT](http://www.iht.com/articles/523283.htm)

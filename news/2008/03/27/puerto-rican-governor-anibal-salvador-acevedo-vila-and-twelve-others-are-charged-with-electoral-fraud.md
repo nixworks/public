@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/03/27/puerto-rican-governor-anibal-salvador-acevedo-vila-and-twelve-others-are-charged-with-electoral-fraud.html)  [JSON](/news/2008/03/27/puerto-rican-governor-anibal-salvador-acevedo-vila-and-twelve-others-are-charged-with-electoral-fraud.json)  [XML](/news/2008/03/27/puerto-rican-governor-anibal-salvador-acevedo-vila-and-twelve-others-are-charged-with-electoral-fraud.xml)  
+
 ### [2008-03-27](/news/2008/03/27/index.md)
 
+##### Puerto Rico
 #  Puerto Rican Governor Anbal Salvador Acevedo Vil and twelve others are charged with electoral fraud. 
 
 Puerto Rican Gov. Anibal Acevedo Vila and 12 political associates in the Caribbean island and on the U.S. mainland were charged with election funding fraud in an indictment unsealed on Thursday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/domesticNews/idUSN3R37784920080327)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080327&t=2&i=3670502&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-03-27T184721Z_01_N3R377849_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/domesticNews/idUSN3R37784920080327)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20080327&t=2&i=3670502&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-03-27T184721Z_01_N3R377849_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

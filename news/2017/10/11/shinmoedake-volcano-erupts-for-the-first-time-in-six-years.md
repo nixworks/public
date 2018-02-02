@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/11/shinmoedake-volcano-erupts-for-the-first-time-i
 
 ### [2017-10-11](/news/2017/10/11/index.md)
 
+##### Mount Kirishima
 # Shinmoedake volcano erupts for the first time in six years. 
 
 Mount Shinmoe in the Kirishima mountain range bordering Kagoshima and Miyazaki prefectures erupted early Wednesday, marking its first such activity in abou

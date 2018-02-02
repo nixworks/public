@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/12/sir-tim-berners-lee-calls-for-a-world-wide-web-equivalent-of-the-magna-carta-on-the-25th-anniversary-of-his-proposal-for-the-world-wide-web.html)  [JSON](/news/2014/03/12/sir-tim-berners-lee-calls-for-a-world-wide-web-equivalent-of-the-magna-carta-on-the-25th-anniversary-of-his-proposal-for-the-world-wide-web.json)  [XML](/news/2014/03/12/sir-tim-berners-lee-calls-for-a-world-wide-web-equivalent-of-the-magna-carta-on-the-25th-anniversary-of-his-proposal-for-the-world-wide-web.xml)  
+
 ### [2014-03-12](/news/2014/03/12/index.md)
 
+##### Sir Timothy John Berners-Lee
 # Sir Tim Berners-Lee calls for a World Wide Web equivalent of the Magna Carta, on the 25th anniversary of his proposal for the World Wide Web. 
 
 The world wide web needs a bill of rights to protect users from government surveillance, says Sir Tim Berners-Lee, on the 25th anniversary of his invention.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-26540635)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/73522000/jpg/_73522691_73522690.jpg)

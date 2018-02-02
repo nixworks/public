@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/8/aung-san-suu-kyi-s-national-league-for-democracy-calls-for-talks-with-western-nations-about-possible-changes-to-sanctions-against-burma.html)  [JSON](/news/2011/02/8/aung-san-suu-kyi-s-national-league-for-democracy-calls-for-talks-with-western-nations-about-possible-changes-to-sanctions-against-burma.json)  [XML](/news/2011/02/8/aung-san-suu-kyi-s-national-league-for-democracy-calls-for-talks-with-western-nations-about-possible-changes-to-sanctions-against-burma.xml)  
+
 ### [2011-02-8](/news/2011/02/8/index.md)
 
+##### Aung San Suu Kyi
 # Aung San Suu Kyi's National League for Democracy calls for talks with Western nations about possible changes to sanctions against Burma. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/breaking-news/suu-kyi-party-calls-for-talks-with-west/story-e6frfku0-1226002299418)
 

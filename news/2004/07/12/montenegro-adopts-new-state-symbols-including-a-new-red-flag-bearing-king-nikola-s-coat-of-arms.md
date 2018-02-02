@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/07/12/montenegro-adopts-new-state-symbols-including-a-new-red-flag-bearing-king-nikola-s-coat-of-arms.html)  [JSON](/news/2004/07/12/montenegro-adopts-new-state-symbols-including-a-new-red-flag-bearing-king-nikola-s-coat-of-arms.json)  [XML](/news/2004/07/12/montenegro-adopts-new-state-symbols-including-a-new-red-flag-bearing-king-nikola-s-coat-of-arms.xml)  
+
 ### [2004-07-12](/news/2004/07/12/index.md)
 
+##### Montenegro
 #  Montenegro adopts new state symbols including a new red flag bearing King Nikola's coat of arms.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/23/a-king-air-a-100-crashes-near-moab-utah-usa-resulting-in-the-death-of-the-pilot-and-nine-passengers.html)  [JSON](/news/2008/08/23/a-king-air-a-100-crashes-near-moab-utah-usa-resulting-in-the-death-of-the-pilot-and-nine-passengers.json)  [XML](/news/2008/08/23/a-king-air-a-100-crashes-near-moab-utah-usa-resulting-in-the-death-of-the-pilot-and-nine-passengers.xml)  
+
 ### [2008-08-23](/news/2008/08/23/index.md)
 
+##### King Air A-100
 #  A King Air A-100 crashes near Moab, Utah, USA, resulting in the death of the pilot and nine passengers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Las Vegas Review-Journal](http://hosted.ap.org/dynamic/stories/S/SMALL_PLANE_CRASH?SITE=NVLAS&SECTION=HOME&TEMPLATE=DEFAULT)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/24/the-trump-white-house-bars-the-new-york-times-c
 
 ### [2017-02-24](/news/2017/02/24/index.md)
 
+##### Presidency of Donald Trump
 # The Trump White House bars "The New York Times", CNN, the "Los Angeles Times", the "New York Daily News", "The Hill", the "Daily Mail", BBC, Politico, and BuzzFeed from a Friday press "gaggle." Generally conservative, mostly new, outlets were permitted entry, such as Breitbart News, One America News Network, and "The Washington Times". Also allowed in were ABC News, CBS News, NBC News, "The Wall Street Journal", Bloomberg News, and Fox News. "Time" magazine and the Associated Press could have attended but chose not to in protest. The White House Correspondents' Association, which represents the press corps, quickly rebuked the White House's actions. 
 
 News organizations including The New York Times, the Los Angeles Times, CNN and Politico were blocked from joining an informal, on-the-record White House press briefing Friday. The Associated Press chose not to participate…

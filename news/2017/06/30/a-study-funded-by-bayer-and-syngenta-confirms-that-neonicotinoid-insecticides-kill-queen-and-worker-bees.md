@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/30/a-study-funded-by-bayer-and-syngenta-confirms-t
 
 ### [2017-06-30](/news/2017/06/30/index.md)
 
+##### Colony collapse disorder
 # A study funded by Bayer and Syngenta confirms that neonicotinoid insecticides kill queen and worker bees. 
 
 A huge new study conducted in 33 sites across Europe finds that seeds coated with neonicotinoid pesticides harm bees living nearby. The damage, though, depends on local conditions.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/23/a-group-of-gaddafi-loyalists-take-control-of-part-of-the-town-of-bani-walid-and-fly-the-green-flag-after-a-battle-with-ntc-forces-left-5-dea.html)  [JSON](/news/2012/01/23/a-group-of-gaddafi-loyalists-take-control-of-part-of-the-town-of-bani-walid-and-fly-the-green-flag-after-a-battle-with-ntc-forces-left-5-dea.json)  [XML](/news/2012/01/23/a-group-of-gaddafi-loyalists-take-control-of-part-of-the-town-of-bani-walid-and-fly-the-green-flag-after-a-battle-with-ntc-forces-left-5-dea.xml)  
+
 ### [2012-01-23](/news/2012/01/23/index.md)
 
+##### Muammar Gaddafi
 # A group of Gaddafi loyalists take control of part of the town of Bani Walid and fly the green flag after a battle with NTC forces left 5 dead and 20 injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.trust.org/alertnet/news/gaddafi-supporters-seize-control-of-libyan-town/)
 

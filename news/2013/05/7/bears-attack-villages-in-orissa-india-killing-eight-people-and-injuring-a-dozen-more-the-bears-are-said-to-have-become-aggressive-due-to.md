@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/7/bears-attack-villages-in-orissa-india-killing-eight-people-and-injuring-a-dozen-more-the-bears-are-said-to-have-become-aggressive-due-to.html)  [JSON](/news/2013/05/7/bears-attack-villages-in-orissa-india-killing-eight-people-and-injuring-a-dozen-more-the-bears-are-said-to-have-become-aggressive-due-to.json)  [XML](/news/2013/05/7/bears-attack-villages-in-orissa-india-killing-eight-people-and-injuring-a-dozen-more-the-bears-are-said-to-have-become-aggressive-due-to.xml)  
+
 ### [2013-05-7](/news/2013/05/7/index.md)
 
+##### Orissa State
 # Bears attack villages in Orissa, India, killing eight people and injuring a dozen more. The bears are said to have become aggressive due to excessive consumption of the mahua flower. 
 
 Wild bears kill eight people within a week in the eastern Indian state of Orissa causing panic among local villagers, forestry officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-22431230)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67446000/jpg/_67446761_5jp-07.jpg)

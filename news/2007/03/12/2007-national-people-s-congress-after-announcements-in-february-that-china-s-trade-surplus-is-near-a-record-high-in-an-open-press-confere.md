@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/03/12/2007-national-people-s-congress-after-announcements-in-february-that-china-s-trade-surplus-is-near-a-record-high-in-an-open-press-confere.html)  [JSON](/news/2007/03/12/2007-national-people-s-congress-after-announcements-in-february-that-china-s-trade-surplus-is-near-a-record-high-in-an-open-press-confere.json)  [XML](/news/2007/03/12/2007-national-people-s-congress-after-announcements-in-february-that-china-s-trade-surplus-is-near-a-record-high-in-an-open-press-confere.xml)  
+
 ### [2007-03-12](/news/2007/03/12/index.md)
 
+##### 2007 National People's Congress
 #  2007 National People's Congress: After announcements in February that China's trade surplus is near a record high, in an open press conference, People's Bank of China Governor Zhou Xiaochuan and Minister of Commerce Bo Xilai were both vocal in their criticism towards the United States in a proposed 27.5% tariff, with Bo calling it "destructive to bilateral trade". 
 
 The size of the surplus, $23.76 billion, surprised economists because Chinese exports tend to lag in the winter.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/6441059.stm)
-2. [The New York Times](http://www.nytimes.com/2007/03/13/business/13yuan.html?ref=worldbusiness)
+2. [The New York Times](https://www.nytimes.com/2007/03/13/business/13yuan.html?ref=worldbusiness)
 2. [Cover Image](https://static01.nyt.com/images/2007/03/13/business/13yuan.75.jpg)
 
 ### Related:

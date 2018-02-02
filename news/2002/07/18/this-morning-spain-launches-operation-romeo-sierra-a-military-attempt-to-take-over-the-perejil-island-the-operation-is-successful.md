@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/07/18/this-morning-spain-launches-operation-romeo-sierra-a-military-attempt-to-take-over-the-perejil-island-the-operation-is-successful.html)  [JSON](/news/2002/07/18/this-morning-spain-launches-operation-romeo-sierra-a-military-attempt-to-take-over-the-perejil-island-the-operation-is-successful.json)  [XML](/news/2002/07/18/this-morning-spain-launches-operation-romeo-sierra-a-military-attempt-to-take-over-the-perejil-island-the-operation-is-successful.xml)  
+
 ### [2002-07-18](/news/2002/07/18/index.md)
 
+##### Perejil Island
 #  This morning, Spain launches Operation Romeo-Sierra, a military attempt to take over the Perejil Island. The operation is successful.
 
 

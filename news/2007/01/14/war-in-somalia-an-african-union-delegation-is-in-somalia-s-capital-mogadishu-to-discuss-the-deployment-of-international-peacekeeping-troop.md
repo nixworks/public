@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/14/war-in-somalia-an-african-union-delegation-is-in-somalia-s-capital-mogadishu-to-discuss-the-deployment-of-international-peacekeeping-troop.html)  [JSON](/news/2007/01/14/war-in-somalia-an-african-union-delegation-is-in-somalia-s-capital-mogadishu-to-discuss-the-deployment-of-international-peacekeeping-troop.json)  [XML](/news/2007/01/14/war-in-somalia-an-african-union-delegation-is-in-somalia-s-capital-mogadishu-to-discuss-the-deployment-of-international-peacekeeping-troop.xml)  
+
 ### [2007-01-14](/news/2007/01/14/index.md)
 
+##### War in Somalia
 #  War in Somalia: An African Union delegation is in Somalia's capital Mogadishu to discuss the deployment of international peacekeeping troops. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory?id=2794275)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/6261273.stm)

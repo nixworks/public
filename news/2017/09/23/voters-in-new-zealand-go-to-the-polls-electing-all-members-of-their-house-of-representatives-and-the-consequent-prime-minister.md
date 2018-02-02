@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/23/voters-in-new-zealand-go-to-the-polls-electing-
 
 ### [2017-09-23](/news/2017/09/23/index.md)
 
+##### New Zealand general election, 2017
 # Voters in New Zealand go to the polls, electing all members of their House of Representatives and the consequent Prime Minister. 
 
 Jacinda Ardern’s revitalised Labour party is looking to upset prime minister Bill English’s plans for a fourth term for National

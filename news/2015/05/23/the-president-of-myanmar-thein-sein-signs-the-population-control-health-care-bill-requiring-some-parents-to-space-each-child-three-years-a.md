@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/23/the-president-of-myanmar-thein-sein-signs-the-population-control-health-care-bill-requiring-some-parents-to-space-each-child-three-years-a.html)  [JSON](/news/2015/05/23/the-president-of-myanmar-thein-sein-signs-the-population-control-health-care-bill-requiring-some-parents-to-space-each-child-three-years-a.json)  [XML](/news/2015/05/23/the-president-of-myanmar-thein-sein-signs-the-population-control-health-care-bill-requiring-some-parents-to-space-each-child-three-years-a.xml)  
+
 ### [2015-05-23](/news/2015/05/23/index.md)
 
+##### Myanmar's president's office
 # The President of Myanmar, Thein Sein, signs the Population Control Health Care Bill requiring some parents to space each child three years apart. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-3093899/Myanmar-president-signs-controversial-population-law.html#ixzz3b0s5f8s3)
 

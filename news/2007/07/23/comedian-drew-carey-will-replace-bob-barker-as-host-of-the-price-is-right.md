@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/23/comedian-drew-carey-will-replace-bob-barker-as-host-of-the-price-is-right.html)  [JSON](/news/2007/07/23/comedian-drew-carey-will-replace-bob-barker-as-host-of-the-price-is-right.json)  [XML](/news/2007/07/23/comedian-drew-carey-will-replace-bob-barker-as-host-of-the-price-is-right.xml)  
+
 ### [2007-07-23](/news/2007/07/23/index.md)
 
+##### Drew Carey
 #  Comedian Drew Carey will replace Bob Barker as host of "The Price Is Right". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSNBC.com](http://www.msnbc.msn.com/id/19919509/)
 

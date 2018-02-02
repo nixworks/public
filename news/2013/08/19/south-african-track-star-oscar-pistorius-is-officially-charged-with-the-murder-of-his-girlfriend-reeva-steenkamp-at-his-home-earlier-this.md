@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/19/south-african-track-star-oscar-pistorius-is-officially-charged-with-the-murder-of-his-girlfriend-reeva-steenkamp-at-his-home-earlier-this.html)  [JSON](/news/2013/08/19/south-african-track-star-oscar-pistorius-is-officially-charged-with-the-murder-of-his-girlfriend-reeva-steenkamp-at-his-home-earlier-this.json)  [XML](/news/2013/08/19/south-african-track-star-oscar-pistorius-is-officially-charged-with-the-murder-of-his-girlfriend-reeva-steenkamp-at-his-home-earlier-this.xml)  
+
 ### [2013-08-19](/news/2013/08/19/index.md)
 
+##### South Africa
 # South African track star Oscar Pistorius is officially charged with the murder of his girlfriend, Reeva Steenkamp, at his home earlier this year, with the trial due to start on March 13. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://www.voanews.com/content/pistorius-murder-trial-to-begin-march-3/1732274.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/1/protesters-in-southeast-aceh-try-to-stop-the-swearing-in-of-the-regent-and-deputy-regent-with-riot-police-using-tear-gas-and-water-cannon-t.html)  [JSON](/news/2007/09/1/protesters-in-southeast-aceh-try-to-stop-the-swearing-in-of-the-regent-and-deputy-regent-with-riot-police-using-tear-gas-and-water-cannon-t.json)  [XML](/news/2007/09/1/protesters-in-southeast-aceh-try-to-stop-the-swearing-in-of-the-regent-and-deputy-regent-with-riot-police-using-tear-gas-and-water-cannon-t.xml)  
+
 ### [2007-09-1](/news/2007/09/1/index.md)
 
+##### Southeast Aceh
 #  Protesters in Southeast Aceh try to stop the swearing in of the regent and deputy regent with riot police using tear gas and water cannon to disperse the crowd resulting in 26 people being injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/B416300.htm)
 

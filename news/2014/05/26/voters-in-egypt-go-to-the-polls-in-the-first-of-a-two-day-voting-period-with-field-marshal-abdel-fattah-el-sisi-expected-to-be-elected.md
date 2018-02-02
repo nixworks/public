@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2014/05/26/voters-in-egypt-go-to-the-polls-in-the-first-of-a-two-day-voting-period-with-field-marshal-abdel-fattah-el-sisi-expected-to-be-elected.html)  [JSON](/news/2014/05/26/voters-in-egypt-go-to-the-polls-in-the-first-of-a-two-day-voting-period-with-field-marshal-abdel-fattah-el-sisi-expected-to-be-elected.json)  [XML](/news/2014/05/26/voters-in-egypt-go-to-the-polls-in-the-first-of-a-two-day-voting-period-with-field-marshal-abdel-fattah-el-sisi-expected-to-be-elected.xml)  
+
 ### [2014-05-26](/news/2014/05/26/index.md)
 
+##### Egyptian presidential election, 2014
 # Voters in Egypt go to the polls in the first of a two day voting period with Field Marshal Abdel Fattah el-Sisi expected to be elected. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/egyptians-vote-elect-countrys-next-president-061328200.html)
+1. [AP via Yahoo! News](https://news.yahoo.com/egyptians-vote-elect-countrys-next-president-061328200.html)
+
+### Changes:
+
+1. [Egyptian presidential election, 2014: Voters in Egypt go to the polls in the first of a two day voting period with Field Marshal Abdel Fattah el-Sisi expected to be elected. ](/news/2014/05/26/egyptian-presidential-election-2014-voters-in-egypt-go-to-the-polls-in-the-first-of-a-two-day-voting-period-with-field-marshal-abdel-fatta.md) _2017-08-27 03:40:45 (First version)_
+1. [Voters in Egypt go to the polls in the first of a two day voting period with Field Marshal Abdel Fattah el-Sisi expected to be elected. ](/news/2014/05/26/voters-in-egypt-go-to-the-polls-in-the-first-of-a-two-day-voting-period-with-field-marshal-abdel-fattah-el-sisi-expected-to-be-elected.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [An Egyptian court, while not final, reverses the decision by President Abdel Fattah el-Sisi to cede Tiran and Sanafir Island to Saudi Arabia. ](/news/2016/06/21/an-egyptian-court-while-not-final-reverses-the-decision-by-president-abdel-fattah-el-sisi-to-cede-tiran-and-sanafir-island-to-saudi-arabia.md) _Context: Abdel Fattah el-Sisi, Egypt_
 4. [King of Saudi Arabia Salman bin Abdulaziz Al Saud announces, during his trip to Cairo, that a bridge crossing the Red Sea will be built, linking Egypt and Saudi Arabia. Egyptian President Abdel Fattah el-Sisi says the bridge will be named after the Saudi monarch. A Saudi-Egypt Causeway project has been in the works for years. ](/news/2016/04/8/king-of-saudi-arabia-salman-bin-abdulaziz-al-saud-announces-during-his-trip-to-cairo-that-a-bridge-crossing-the-red-sea-will-be-built-lin.md) _Context: Abdel Fattah el-Sisi, Egypt_
 5. [Egypt tries 237 activists, who face jail terms of up to three years, arrested for protesting without permits against President Abdel Fattah el-Sisi. Thousands demonstrated this month following the Sisi government's decision to hand over two uninhabited islands in the Straits of Tiran to Saudi Arabia. Human Rights Watch says at least 382 had been arrested. ](/news/2016/04/30/egypt-tries-237-activists-who-face-jail-terms-of-up-to-three-years-arrested-for-protesting-without-permits-against-president-abdel-fattah.md) _Context: Abdel Fattah el-Sisi, Egypt_
-
-### Changes:
-
-1. [Egyptian presidential election, 2014: Voters in Egypt go to the polls in the first of a two day voting period with Field Marshal Abdel Fattah el-Sisi expected to be elected. ](/news/2014/05/26/egyptian-presidential-election-2014-voters-in-egypt-go-to-the-polls-in-the-first-of-a-two-day-voting-period-with-field-marshal-abdel-fatta.md) _2017-08-27 03:40:45 (First version)_
-1. [Voters in Egypt go to the polls in the first of a two day voting period with Field Marshal Abdel Fattah el-Sisi expected to be elected. ](/news/2014/05/26/voters-in-egypt-go-to-the-polls-in-the-first-of-a-two-day-voting-period-with-field-marshal-abdel-fattah-el-sisi-expected-to-be-elected.md) _(Current version)_

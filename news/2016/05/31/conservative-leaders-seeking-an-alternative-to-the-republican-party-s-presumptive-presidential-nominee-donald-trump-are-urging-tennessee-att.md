@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/31/conservative-leaders-seeking-an-alternative-to-
 
 ### [2016-05-31](/news/2016/05/31/index.md)
 
+##### 2016 U.S. presidential election
 # Conservative leaders seeking an alternative to the Republican Party's presumptive presidential nominee Donald Trump are urging Tennessee attorney and "National Review" writer David French to enter the 2016 presidential race as an independent candidate. 
 
 The prominent right-wing writer and Iraq War veteran is being wooed by Weekly Standard editor William Kristol and other well-known conservatives.

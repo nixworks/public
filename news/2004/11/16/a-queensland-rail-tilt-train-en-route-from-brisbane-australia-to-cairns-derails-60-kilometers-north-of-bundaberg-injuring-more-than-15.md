@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/16/a-queensland-rail-tilt-train-en-route-from-brisbane-australia-to-cairns-derails-60-kilometers-north-of-bundaberg-injuring-more-than-15.html)  [JSON](/news/2004/11/16/a-queensland-rail-tilt-train-en-route-from-brisbane-australia-to-cairns-derails-60-kilometers-north-of-bundaberg-injuring-more-than-15.json)  [XML](/news/2004/11/16/a-queensland-rail-tilt-train-en-route-from-brisbane-australia-to-cairns-derails-60-kilometers-north-of-bundaberg-injuring-more-than-15.xml)  
+
 ### [2004-11-16](/news/2004/11/16/index.md)
 
+##### Queensland Rail
 #  A Queensland Rail Tilt Train, en route from Brisbane, Australia, to Cairns, derails 60 kilometers north of Bundaberg, injuring more than 150 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/newsitems/200411/s1244471.htm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4014995.stm)

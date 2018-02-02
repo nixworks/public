@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/7/berkshire-hathaway-inc-agrees-to-pay-usd-9-billi
 
 ### [2017-07-7](/news/2017/07/7/index.md)
 
+##### Economy of the United States
 # Berkshire Hathaway Inc. agrees to pay USD $9 billion to buy the parent of Texas power transmission company Oncor Electric Delivery. 
 
 Sears Holdings Corp is closing eight of its namesake department stores and 35 Kmart locations to cut costs and square footage in an effort to return to profitability, Chief Executive Officer Eddie Lampert said on Friday.

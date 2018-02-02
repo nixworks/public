@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/15/aleksandar-cvetkovia-is-extradited-to-bosnia-herzegovina-for-trial-regarding-the-1995-srebrenica-massacre.html)  [JSON](/news/2013/08/15/aleksandar-cvetkovia-is-extradited-to-bosnia-herzegovina-for-trial-regarding-the-1995-srebrenica-massacre.json)  [XML](/news/2013/08/15/aleksandar-cvetkovia-is-extradited-to-bosnia-herzegovina-for-trial-regarding-the-1995-srebrenica-massacre.xml)  
+
 ### [2013-08-15](/news/2013/08/15/index.md)
 
+##### Srebrenica massacre
 # Aleksandar Cvetkovic is extradited to Bosnia-Herzegovina for trial regarding the 1995 Srebrenica massacre. 
 
 Defendant &quot;stunned by charges&quot;; fellow soldiers testify Serb-Israeli participated in slaughter of 1,000-1,200 Muslims.
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/Diplomacy-and-Politics/Israel-extradites-Serb-Israeli-to-Bosnia-Herzegovina-for-genocide-323230)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=224784)

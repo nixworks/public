@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/01/8/kazakh-prime-minister-daniyal-akhmetov-unexpectedly-resigns-without-explanation-deputy-prime-minister-karim-masimov-akhmetov-s-longtime-r.html)  [JSON](/news/2007/01/8/kazakh-prime-minister-daniyal-akhmetov-unexpectedly-resigns-without-explanation-deputy-prime-minister-karim-masimov-akhmetov-s-longtime-r.json)  [XML](/news/2007/01/8/kazakh-prime-minister-daniyal-akhmetov-unexpectedly-resigns-without-explanation-deputy-prime-minister-karim-masimov-akhmetov-s-longtime-r.xml)  
+
 ### [2007-01-8](/news/2007/01/8/index.md)
 
+##### Kazakh Prime Minister
 #  Kazakh Prime Minister Daniyal Akhmetov unexpectedly resigns without explanation. Deputy Prime Minister Karim Masimov, Akhmetov's longtime rival, is expected to replace him. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6240549.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=a36togHh.s4I)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601085&sid=a36togHh.s4I)
 
 ### Related:
 

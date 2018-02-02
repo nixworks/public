@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/16/the-supreme-court-of-the-philippines-allows-the
 
 ### [2017-02-16](/news/2017/02/16/index.md)
 
+##### Philippine presidential election, 2016
 # The Supreme Court of the Philippines allows the electoral protest of defeated candidate Bongbong Marcos against Philippine vice president Leni Robredo to continue. 
 
 

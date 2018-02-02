@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/22/chinese-authorities-begin-a-search-for-a-batch-of-melamine-tainted-products-in-hubei.html)  [JSON](/news/2010/11/22/chinese-authorities-begin-a-search-for-a-batch-of-melamine-tainted-products-in-hubei.json)  [XML](/news/2010/11/22/chinese-authorities-begin-a-search-for-a-batch-of-melamine-tainted-products-in-hubei.xml)  
+
 ### [2010-11-22](/news/2010/11/22/index.md)
 
+##### melamine
 # Chinese authorities begin a search for a batch of melamine-tainted products in Hubei. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5j_3dBUSSdAJk0YUCUK9nuHD5Nx1w?docId=CNG.fafa389301c44ec0c24e47a77141ac18.261)
 2. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/20101122/news_20101122_56_714437.htm)

@@ -1,17 +1,27 @@
+
+Formats: [HTML](/news/2010/10/8/2-more-corpses-are-discovered-bringing-the-death-toll-to-7-as-prime-minister-of-hungary-viktor-orba-n-plays-down-the-disaster-on-the-danub.html)  [JSON](/news/2010/10/8/2-more-corpses-are-discovered-bringing-the-death-toll-to-7-as-prime-minister-of-hungary-viktor-orba-n-plays-down-the-disaster-on-the-danub.json)  [XML](/news/2010/10/8/2-more-corpses-are-discovered-bringing-the-death-toll-to-7-as-prime-minister-of-hungary-viktor-orba-n-plays-down-the-disaster-on-the-danub.xml)  
+
 ### [2010-10-8](/news/2010/10/8/index.md)
 
+##### Prime Minister
 # 2 more corpses are discovered, bringing the death toll to 7, as Prime Minister of Hungary Viktor Orban plays down the disaster on the Danube. 
 
 Residents blame aluminium company for toxic spill that killed four people and devastated three villages.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/2010108101937223371.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/2010108410145825.html)
 3. [BBC](http://www.bbc.co.uk/news/world-europe-11498884)
 4. [Sky News](http://news.sky.com/skynews/Home/World-News/Five-People-Now-Dead-In-Hungarian-Red-Sludge-Spill-Which-Is-As-Large-As-BP-Oil-Disaster/Article/201010215754376?lpos=World_News_Carousel_Region_0&lid=ARTICLE_15754376_Five_People_Now_Dead_In_Hungarian_Red_Sludge_Spill_Which_Is_As_Large_As_BP_Oil_Disaster_)
 4. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/8/20101084231886734_20.jpg)
+
+### Changes:
+
+1. [Ajka alumina plant accident in Hungary:2 more corpses are discovered, bringing the death toll to 7, as Prime Minister of Hungary Viktor Orban plays down the disaster on the Danube. ](/news/2010/10/8/ajka-alumina-plant-accident-in-hungary-p2-more-corpses-are-discovered-bringing-the-death-toll-to-7-as-prime-minister-of-hungary-viktor-orb.md) _2017-08-25 03:30:25 (First version)_
+2. [Ajka alumina plant accident in Hungary:: 2 more corpses are discovered, bringing the death toll to 7, as Prime Minister of Hungary Viktor Orban plays down the disaster on the Danube. ](/news/2010/10/8/ajka-alumina-plant-accident-in-hungary-2-more-corpses-are-discovered-bringing-the-death-toll-to-7-as-prime-minister-of-hungary-viktor-or.md) _2017-08-27 03:30:31 (Update)_
+2. [2 more corpses are discovered, bringing the death toll to 7, as Prime Minister of Hungary Viktor Orban plays down the disaster on the Danube. ](/news/2010/10/8/2-more-corpses-are-discovered-bringing-the-death-toll-to-7-as-prime-minister-of-hungary-viktor-orba-n-plays-down-the-disaster-on-the-danub.md) _(Current version)_
 
 ### Related:
 
@@ -20,9 +30,3 @@ Residents blame aluminium company for toxic spill that killed four people and de
 3. [Prime Minister Viktor Orban, winner of the 2010 parliamentary elections in Hungary, assumes office. ](/news/2010/05/29/prime-minister-viktor-orba-n-winner-of-the-2010-parliamentary-elections-in-hungary-assumes-office.md) _Context: Prime Minister, Viktor Orban_
 4. [The Momentum Movement holds a pro-EU, anti-Russia march attended by approximately 10,000 in Budapest, Hungary, chanting "Europe, not Moscow" in support of the EU and against Prime Minister Viktor Orban. ](/news/2017/05/1/the-momentum-movement-holds-a-pro-eu-anti-russia-march-attended-by-approximately-10-000-in-budapest-hungary-chanting-aeurope-not-mosco.md) _Context: Viktor Orban_
 5. [Amnesty International releases a report criticizing the rise of populist leaders such as Donald Trump of the United States, Viktor Orban of Hungary, Rodrigo Duterte of the Philippines and Recep Tayyip Erdogan of Turkey. ](/news/2017/02/22/amnesty-international-releases-a-report-criticizing-the-rise-of-populist-leaders-such-as-donald-trump-of-the-united-states-viktor-orba-n-of.md) _Context: Viktor Orban_
-
-### Changes:
-
-1. [Ajka alumina plant accident in Hungary:2 more corpses are discovered, bringing the death toll to 7, as Prime Minister of Hungary Viktor Orban plays down the disaster on the Danube. ](/news/2010/10/8/ajka-alumina-plant-accident-in-hungary-p2-more-corpses-are-discovered-bringing-the-death-toll-to-7-as-prime-minister-of-hungary-viktor-orb.md) _2017-08-25 03:30:25 (First version)_
-2. [Ajka alumina plant accident in Hungary:: 2 more corpses are discovered, bringing the death toll to 7, as Prime Minister of Hungary Viktor Orban plays down the disaster on the Danube. ](/news/2010/10/8/ajka-alumina-plant-accident-in-hungary-2-more-corpses-are-discovered-bringing-the-death-toll-to-7-as-prime-minister-of-hungary-viktor-or.md) _2017-08-27 03:30:31 (Update)_
-2. [2 more corpses are discovered, bringing the death toll to 7, as Prime Minister of Hungary Viktor Orban plays down the disaster on the Danube. ](/news/2010/10/8/2-more-corpses-are-discovered-bringing-the-death-toll-to-7-as-prime-minister-of-hungary-viktor-orba-n-plays-down-the-disaster-on-the-danub.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/2/two-thousand-tamil-people-have-been-killed-and-5-000-injured-in-vanni-district-during-sri-lanka-s-civil-war.html)  [JSON](/news/2009/03/2/two-thousand-tamil-people-have-been-killed-and-5-000-injured-in-vanni-district-during-sri-lanka-s-civil-war.json)  [XML](/news/2009/03/2/two-thousand-tamil-people-have-been-killed-and-5-000-injured-in-vanni-district-during-sri-lanka-s-civil-war.xml)  
+
 ### [2009-03-2](/news/2009/03/2/index.md)
 
+##### Tamil
 #  Two thousand Tamil people have been killed and 5,000 injured in Vanni District during Sri Lanka's civil war. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gVoaDFmbCYS-Usz9ACDRIengj21QD96DCF880)
 2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7901321.stm)

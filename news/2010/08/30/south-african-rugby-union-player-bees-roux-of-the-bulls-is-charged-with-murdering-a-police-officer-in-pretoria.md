@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/30/south-african-rugby-union-player-bees-roux-of-the-bulls-is-charged-with-murdering-a-police-officer-in-pretoria.html)  [JSON](/news/2010/08/30/south-african-rugby-union-player-bees-roux-of-the-bulls-is-charged-with-murdering-a-police-officer-in-pretoria.json)  [XML](/news/2010/08/30/south-african-rugby-union-player-bees-roux-of-the-bulls-is-charged-with-murdering-a-police-officer-in-pretoria.xml)  
+
 ### [2010-08-30](/news/2010/08/30/index.md)
 
+##### South Africa
 # South African rugby union player Bees Roux of the Bulls is charged with murdering a police officer in Pretoria. 
 
 South African rugby union player Bees Roux was charged with murder on Monday after allegedly beating a policeman to death in Pretoria.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Sydney Morning Herald](http://www.smh.com.au/rugby-union/union-news/bulls-star-charged-with-murdering-policeman-with-his-hands-20100831-147m1.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/1/4/7/o/n/image.related.articleLeadwide.620x349.147m1.png/1283227672137.jpg)

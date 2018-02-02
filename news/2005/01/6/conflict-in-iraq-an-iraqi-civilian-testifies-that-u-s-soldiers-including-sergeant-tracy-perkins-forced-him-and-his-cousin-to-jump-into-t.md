@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/6/conflict-in-iraq-an-iraqi-civilian-testifies-that-u-s-soldiers-including-sergeant-tracy-perkins-forced-him-and-his-cousin-to-jump-into-t.html)  [JSON](/news/2005/01/6/conflict-in-iraq-an-iraqi-civilian-testifies-that-u-s-soldiers-including-sergeant-tracy-perkins-forced-him-and-his-cousin-to-jump-into-t.json)  [XML](/news/2005/01/6/conflict-in-iraq-an-iraqi-civilian-testifies-that-u-s-soldiers-including-sergeant-tracy-perkins-forced-him-and-his-cousin-to-jump-into-t.xml)  
+
 ### [2005-01-6](/news/2005/01/6/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: An Iraqi civilian testifies that U.S soldiers, including Sergeant Tracy Perkins, forced him and his cousin to jump into the Tigris and laughed as his relative was swept to his death. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4150429.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/30/the-u-s-state-of-washington-issues-flood-warnings.html)  [JSON](/news/2011/03/30/the-u-s-state-of-washington-issues-flood-warnings.json)  [XML](/news/2011/03/30/the-u-s-state-of-washington-issues-flood-warnings.xml)  
+
 ### [2011-03-30](/news/2011/03/30/index.md)
 
+##### U.S. state
 # The U.S. state of Washington issues flood warnings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Komo News](http://www.komonews.com/news/local/118931929.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/09/17/kulsoom-nawaz-sharif-wife-of-ousted-former-prime-minister-nawaz-sharif-defeats-the-opposition-party-s-yasmin-rashid-in-the-by-election-for.html)  [JSON](/news/2017/09/17/kulsoom-nawaz-sharif-wife-of-ousted-former-prime-minister-nawaz-sharif-defeats-the-opposition-party-s-yasmin-rashid-in-the-by-election-for.json)  [XML](/news/2017/09/17/kulsoom-nawaz-sharif-wife-of-ousted-former-prime-minister-nawaz-sharif-defeats-the-opposition-party-s-yasmin-rashid-in-the-by-election-for.xml)  
+
 ### [2017-09-17](/news/2017/09/17/index.md)
 
+##### Pakistan by-election
 # Kulsoom Nawaz Sharif, wife of ousted former Prime Minister Nawaz Sharif, defeats the opposition party's Yasmin Rashid in the by-election for Nawaz Sharif's National Assembly seat. Kulsoom, represented by her daughter and proxy Maryam, is being treated in London for cancer. 
 
 Long queues form outside polling stations to vote in the seat vacated by former PM Nawaz Sharif.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/09/voting-concludes-key-pakistan-election-170917124556192.html)
 2. [BBC](http://www.bbc.com/news/world-asia-41297892)

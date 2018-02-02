@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/25/the-number-of-mers-casualties-in-south-korea-rises-to-29-with-the-number-of-cases-rising-to-180.html)  [JSON](/news/2015/06/25/the-number-of-mers-casualties-in-south-korea-rises-to-29-with-the-number-of-cases-rising-to-180.json)  [XML](/news/2015/06/25/the-number-of-mers-casualties-in-south-korea-rises-to-29-with-the-number-of-cases-rising-to-180.xml)  
+
 ### [2015-06-25](/news/2015/06/25/index.md)
 
+##### recent MERS outbreak
 # The number of MERS casualties in South Korea rises to 29 with the number of cases rising to 180. 
 
  South Korea reported an additional two deaths from Middle East Respiratory Syndrome (MERS) Thursday, along with an additional case that put the total number of people diagnosed with the disease at 180.
 
 
-### Source:
+### Sources:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/news/2015/06/25/0200000000AEN20150625002200320.html?input=www.tweeter.com)
 

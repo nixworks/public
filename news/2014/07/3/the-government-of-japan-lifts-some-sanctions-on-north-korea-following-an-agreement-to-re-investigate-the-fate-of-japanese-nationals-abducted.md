@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/3/the-government-of-japan-lifts-some-sanctions-on-north-korea-following-an-agreement-to-re-investigate-the-fate-of-japanese-nationals-abducted.html)  [JSON](/news/2014/07/3/the-government-of-japan-lifts-some-sanctions-on-north-korea-following-an-agreement-to-re-investigate-the-fate-of-japanese-nationals-abducted.json)  [XML](/news/2014/07/3/the-government-of-japan-lifts-some-sanctions-on-north-korea-following-an-agreement-to-re-investigate-the-fate-of-japanese-nationals-abducted.xml)  
+
 ### [2014-07-3](/news/2014/07/3/index.md)
 
+##### Japan
 # The government of Japan lifts some sanctions on North Korea following an agreement to re-investigate the fate of Japanese nationals abducted by North Korean agents in the 1970s and 1980s. 
 
 Japanese Prime Minister Shinzo Abe announced the decision Thursday but provided no immediate details.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2014/07/02/japan-to-lift-some-sanctions-imposed-on-north-korea/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2014/07/02/japan-to-lift-some-sanctions-imposed-on-north-korea/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1449962021972.jpg?ve=1)

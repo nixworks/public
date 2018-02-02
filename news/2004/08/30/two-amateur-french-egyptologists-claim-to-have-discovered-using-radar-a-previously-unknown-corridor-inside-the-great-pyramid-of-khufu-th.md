@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/30/two-amateur-french-egyptologists-claim-to-have-discovered-using-radar-a-previously-unknown-corridor-inside-the-great-pyramid-of-khufu-th.html)  [JSON](/news/2004/08/30/two-amateur-french-egyptologists-claim-to-have-discovered-using-radar-a-previously-unknown-corridor-inside-the-great-pyramid-of-khufu-th.json)  [XML](/news/2004/08/30/two-amateur-french-egyptologists-claim-to-have-discovered-using-radar-a-previously-unknown-corridor-inside-the-great-pyramid-of-khufu-th.xml)  
+
 ### [2004-08-30](/news/2004/08/30/index.md)
 
+##### Egyptologist
 #  Two amateur French Egyptologists claim to have discovered, using radar, a previously unknown corridor inside the Great Pyramid of Khufu. They believe the corridor would lead directly to Khufu's burial chamber, a room which &ndash; if it exists &ndash; is unlikely to have been accessed since the burial and may still contain the king's remains. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AustBC](http://www.abc.net.au/news/newsitems/200408/s1188387.htm)
 2. [The Guardian](http://www.guardian.co.uk/international/story/0,3604,1293377,00.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/24/egyptian-president-mohamed-morsi-appoints-the-minister-of-water-resources-and-irrigation-hisham-qandil-to-the-position-of-prime-minister-a.html)  [JSON](/news/2012/07/24/egyptian-president-mohamed-morsi-appoints-the-minister-of-water-resources-and-irrigation-hisham-qandil-to-the-position-of-prime-minister-a.json)  [XML](/news/2012/07/24/egyptian-president-mohamed-morsi-appoints-the-minister-of-water-resources-and-irrigation-hisham-qandil-to-the-position-of-prime-minister-a.xml)  
+
 ### [2012-07-24](/news/2012/07/24/index.md)
 
+##### Mohamed Morsi
 # Egyptian President Mohamed Morsi appoints the Minister of Water Resources and Irrigation, Hisham Qandil, to the position of Prime Minister and asks him to form the new government. 
 
 Egyptian President Mohammed Mursi asks the minister of water resources and irrigation, Hisham Qandil, to form a new government, state TV says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18969742)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/61789000/jpg/_61789014_61789013.jpg)

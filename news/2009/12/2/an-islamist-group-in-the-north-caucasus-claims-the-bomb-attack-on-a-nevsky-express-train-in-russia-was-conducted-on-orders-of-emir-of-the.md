@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/2/an-islamist-group-in-the-north-caucasus-claims-the-bomb-attack-on-a-nevsky-express-train-in-russia-was-conducted-on-orders-of-emir-of-the.html)  [JSON](/news/2009/12/2/an-islamist-group-in-the-north-caucasus-claims-the-bomb-attack-on-a-nevsky-express-train-in-russia-was-conducted-on-orders-of-emir-of-the.json)  [XML](/news/2009/12/2/an-islamist-group-in-the-north-caucasus-claims-the-bomb-attack-on-a-nevsky-express-train-in-russia-was-conducted-on-orders-of-emir-of-the.xml)  
+
 ### [2009-12-2](/news/2009/12/2/index.md)
 
+##### Islamist
 #  An Islamist group in the North Caucasus claims the bomb attack on a Nevsky Express train in Russia was conducted on orders of "Emir of the Caucasus Emirate" Dokka Umarov. 
 
 Islamist separatists say they are behind train attack that killed 26 people.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/12/200912283820223578.html)
 2. [RIA Novosti](http://en.rian.ru/russia/20091202/157072744.html)

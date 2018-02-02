@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/30/cyclone-christine-makes-landfall-in-the-pilbara-region-of-western-australia-causing-evacuations-in-port-hedland-and-winds-over-170-km-h-in.html)  [JSON](/news/2013/12/30/cyclone-christine-makes-landfall-in-the-pilbara-region-of-western-australia-causing-evacuations-in-port-hedland-and-winds-over-170-km-h-in.json)  [XML](/news/2013/12/30/cyclone-christine-makes-landfall-in-the-pilbara-region-of-western-australia-causing-evacuations-in-port-hedland-and-winds-over-170-km-h-in.xml)  
+
 ### [2013-12-30](/news/2013/12/30/index.md)
 
+##### Cyclone Christine
 # Cyclone Christine makes landfall in the Pilbara region of Western Australia, causing evacuations in Port Hedland and winds over 170 km-h in Roebourne 
 
 Port Hedland and Karratha residents are in lockdown as Cyclone Christine tracks towards WA&#039;s Pilbara.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/2013-12-30/tropical-cyclone-christine-upgraded-to-category-three/5177922)
 1. [Cover Image](http://www.abc.net.au/news/image/5178822-1x1-700x700.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/5/the-new-constituent-assembly-votes-to-remove-att
 
 ### [2017-08-5](/news/2017/08/5/index.md)
 
+##### democratic opposition
 # The new Constituent Assembly votes to remove Attorney General Luisa Ortega Diaz, a prominent critic of President Nicolas Maduro, from her post. The move comes hours after troops from the National Guard surrounded her home in Caracas. 
 
 New legislative body sacks dissident chief prosecutor Luisa Ortega hours after troops block entrance to her office.

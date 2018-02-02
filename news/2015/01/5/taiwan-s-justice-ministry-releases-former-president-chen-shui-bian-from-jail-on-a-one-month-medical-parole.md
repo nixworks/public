@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/5/taiwan-s-justice-ministry-releases-former-president-chen-shui-bian-from-jail-on-a-one-month-medical-parole.html)  [JSON](/news/2015/01/5/taiwan-s-justice-ministry-releases-former-president-chen-shui-bian-from-jail-on-a-one-month-medical-parole.json)  [XML](/news/2015/01/5/taiwan-s-justice-ministry-releases-former-president-chen-shui-bian-from-jail-on-a-one-month-medical-parole.xml)  
+
 ### [2015-01-5](/news/2015/01/5/index.md)
 
+##### Taiwan
 # Taiwan's justice ministry releases former President Chen Shui-bian from jail on a one-month medical parole. 
 
 Former Taiwanese president Chen Shui-bian is to be released from prison after being granted one month of medical parole, the justice ministry says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-30677700)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/80008000/jpg/_80008393_002808281-1.jpg)

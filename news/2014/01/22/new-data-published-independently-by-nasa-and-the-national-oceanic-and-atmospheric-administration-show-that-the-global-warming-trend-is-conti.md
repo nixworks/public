@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/22/new-data-published-independently-by-nasa-and-the-national-oceanic-and-atmospheric-administration-show-that-the-global-warming-trend-is-conti.html)  [JSON](/news/2014/01/22/new-data-published-independently-by-nasa-and-the-national-oceanic-and-atmospheric-administration-show-that-the-global-warming-trend-is-conti.json)  [XML](/news/2014/01/22/new-data-published-independently-by-nasa-and-the-national-oceanic-and-atmospheric-administration-show-that-the-global-warming-trend-is-conti.xml)  
+
 ### [2014-01-22](/news/2014/01/22/index.md)
 
+##### NASA
 # New data published independently by NASA and the National Oceanic and Atmospheric Administration show that the global warming trend is continuing. 
 
 Two top US science agencies confirm 2013 was the fourth warmest year for the planet since records began in 1880.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/2014-01-22/2013-fourth-hottest-year-on-record-for-planet-reports/5212356)
 1. [Cover Image](http://www.abc.net.au/news/image/4267900-1x1-700x700.jpg)

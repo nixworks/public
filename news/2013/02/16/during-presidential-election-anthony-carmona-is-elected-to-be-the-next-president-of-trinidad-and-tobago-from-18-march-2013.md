@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/16/during-presidential-election-anthony-carmona-is-elected-to-be-the-next-president-of-trinidad-and-tobago-from-18-march-2013.html)  [JSON](/news/2013/02/16/during-presidential-election-anthony-carmona-is-elected-to-be-the-next-president-of-trinidad-and-tobago-from-18-march-2013.json)  [XML](/news/2013/02/16/during-presidential-election-anthony-carmona-is-elected-to-be-the-next-president-of-trinidad-and-tobago-from-18-march-2013.xml)  
+
 ### [2013-02-16](/news/2013/02/16/index.md)
 
+##### presidential election
 # During presidential election Anthony Carmona is elected to be the next President of Trinidad and Tobago from 18 March 2013. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Trinidad Express](http://www.trinidadexpress.com/news/Its-Official---President-elect-Anthony-TA-Carmona-191427491.html)
 1. [Cover Image](http://www.trinidadexpress.comhttp://www.trinidadexpress.com/storyimage/TT/20130215/ARTICLE/302159973/AR/0/AR-302159973.jpg&MaxW=400)

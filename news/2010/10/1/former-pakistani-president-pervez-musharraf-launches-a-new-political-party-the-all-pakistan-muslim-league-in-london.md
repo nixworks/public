@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/1/former-pakistani-president-pervez-musharraf-launches-a-new-political-party-the-all-pakistan-muslim-league-in-london.html)  [JSON](/news/2010/10/1/former-pakistani-president-pervez-musharraf-launches-a-new-political-party-the-all-pakistan-muslim-league-in-london.json)  [XML](/news/2010/10/1/former-pakistani-president-pervez-musharraf-launches-a-new-political-party-the-all-pakistan-muslim-league-in-london.xml)  
+
 ### [2010-10-1](/news/2010/10/1/index.md)
 
+##### Pakistan
 # Former Pakistani President Pervez Musharraf launches a new political party - the All Pakistan Muslim League - in London. 
 
 Pakistan ex-military ruler Pervez Musharraf apologises for &quot;negative&quot; actions he took while in power, as he launches his new political party in London.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/10/201010164531436629.html)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-11450507)

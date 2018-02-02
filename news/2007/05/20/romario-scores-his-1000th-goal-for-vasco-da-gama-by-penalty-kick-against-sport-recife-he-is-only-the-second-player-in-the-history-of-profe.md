@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/20/romario-scores-his-1000th-goal-for-vasco-da-gama-by-penalty-kick-against-sport-recife-he-is-only-the-second-player-in-the-history-of-profe.html)  [JSON](/news/2007/05/20/romario-scores-his-1000th-goal-for-vasco-da-gama-by-penalty-kick-against-sport-recife-he-is-only-the-second-player-in-the-history-of-profe.json)  [XML](/news/2007/05/20/romario-scores-his-1000th-goal-for-vasco-da-gama-by-penalty-kick-against-sport-recife-he-is-only-the-second-player-in-the-history-of-profe.xml)  
+
 ### [2007-05-20](/news/2007/05/20/index.md)
 
+##### Romrio
 #  Romrio scores his 1000th goal for Vasco da Gama by penalty kick against Sport Recife. He is only the second player in the history of professional soccer to achieve this, the first being Pel in 1969. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Uol](http://esporte.uol.com.br/futebol/ultimas/2007/05/20/ult59u121134.jhtm)
 

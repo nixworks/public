@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/12/jim-gilmore-suspends-his-campaign-for-the-repub
 
 ### [2016-02-12](/news/2016/02/12/index.md)
 
+##### 2016 United States presidential election
 # Jim Gilmore suspends his campaign for the Republican Party nomination. 
 
 The latest news from the trail the day after the latest Democratic debate, as candidates canvass ahead of South Carolina and Nevada contests
@@ -21,7 +22,7 @@ The latest news from the trail the day after the latest Democratic debate, as ca
 ### Related:
 
 1. [2016 United States presidential election: Former Governor of Arkansas Mike Huckabee announces that he is seeking the Republican Party nomination. ](/news/2015/05/5/2016-united-states-presidential-election-former-governor-of-arkansas-mike-huckabee-announces-that-he-is-seeking-the-republican-party-nomina.md) _Context: 2016 United States presidential election, Republican_
-2. [Former Hewlett-Packard Chief Executive Officer Carly Fiorina announces that she will be seeking the Republican Party nomination for the 2016 presidential election. ](/news/2015/05/4/former-hewlett-packard-chief-executive-officer-carly-fiorina-announces-that-she-will-be-seeking-the-republican-party-nomination-for-the-2016.md) _Context: 2016 United States presidential election, Republican_
-3. [U.S. senators question lawyers representing Facebook, Twitter and Google about Russian activity on their platforms during the 2016 United States presidential election. ](/news/2017/10/31/u-s-senators-question-lawyers-representing-facebook-twitter-and-google-about-russian-activity-on-their-platforms-during-the-2016-united-st.md) _Context: 2016 United States presidential election_
-4. [Republican Senator Jeff Flake from Arizona announces that he will not run again in 2018. ](/news/2017/10/24/republican-senator-jeff-flake-from-arizona-announces-that-he-will-not-run-again-in-2018.md) _Context: Republican_
-5. [West Virginia Governor Jim Justice announces, during U.S. President Donald Trump's rally in Huntington, he is changing his party affiliation from Democratic to Republican. ](/news/2017/08/3/west-virginia-governor-jim-justice-announces-during-u-s-president-donald-trump-s-rally-in-huntington-he-is-changing-his-party-affiliation.md) _Context: Republican_
+2. [A drawing is held to resolve a tied election between Democrat Shelly Simonds and Republican David Yancey, with Yancey being randomly chosen as the winner. ](/news/2018/01/4/a-drawing-is-held-to-resolve-a-tied-election-between-democrat-shelly-simonds-and-republican-david-yancey-with-yancey-being-randomly-chosen.md) _Context: Republican_
+3. [An Amtrak train carrying Republican lawmakers to a retreat in West Virginia collides with a garbage truck in Crozet, Virginia. At least one person dies and one person is seriously injured. The White House states that there are no serious injuries among members of Congress or their staff. ](/news/2018/01/31/an-amtrak-train-carrying-republican-lawmakers-to-a-retreat-in-west-virginia-collides-with-a-garbage-truck-in-crozet-virginia-at-least-one.md) _Context: Republican_
+4. [Two new Democratic senators&mdash;Doug Jones of Alabama and Tina Smith of Minnesota&mdash;are sworn in, bringing the Republican majority down to 51&ndash;49. ](/news/2018/01/3/two-new-democratic-senators-mdash-doug-jones-of-alabama-and-tina-smith-of-minnesota-mdash-are-sworn-in-bringing-the-republican-majority-dow.md) _Context: Republican_
+5. [Voters in Alabama go to the polls to fill the United States Senate seat vacated by current United States Attorney General Jeff Sessions. The race is between Roy Moore (R) and Doug Jones (D). ](/news/2017/12/12/voters-in-alabama-go-to-the-polls-to-fill-the-united-states-senate-seat-vacated-by-current-united-states-attorney-general-jeff-sessions-the.md) _Context: Republican_

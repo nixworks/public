@@ -1,16 +1,15 @@
+
+Formats: [HTML](/news/2015/03/20/a-solar-eclipse-a-vernal-for-those-living-in-the-northern-hemisphere-and-autumnal-for-those-in-the-southern-hemisphere-equinox-and-a-s.html)  [JSON](/news/2015/03/20/a-solar-eclipse-a-vernal-for-those-living-in-the-northern-hemisphere-and-autumnal-for-those-in-the-southern-hemisphere-equinox-and-a-s.json)  [XML](/news/2015/03/20/a-solar-eclipse-a-vernal-for-those-living-in-the-northern-hemisphere-and-autumnal-for-those-in-the-southern-hemisphere-equinox-and-a-s.xml)  
+
 ### [2015-03-20](/news/2015/03/20/index.md)
 
+##### solar eclipse
 # A solar eclipse, a vernal (for those living in the northern hemisphere) and autumnal (for those in the southern hemisphere) equinox, and a Supermoon will all occur today. 
 
 A solar eclipse will pass over Britain on Friday, covering the country in darkness as the moon moves in front of the sun. But it’s important to be sure when and how exactly to watch it — getting the wrong time could mean not getting to see the rare celestial phenomenon, but watching it wrongly could damage your eyes permanently.
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/science/eclipse-2015-path-when-and-where-the-blackout-will-happen-and-how-to-watch-it-in-three-charts-10120761.html)
+1. [The Independent](https://www.independent.co.uk/news/science/eclipse-2015-path-when-and-where-the-blackout-will-happen-and-how-to-watch-it-in-three-charts-10120761.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/03/19/12/eclipse.jpg)
-
-### Related:
-
-1. [The night of September 28 sees a lunar eclipse (sometimes described as a "blood moon") with asupermoon. ](/news/2015/09/27/the-night-of-september-28-sees-a-lunar-eclipse-sometimes-described-as-a-blood-moon-with-asupermoon.md) _Context: supermoon_
-2. [A supermoon is formed as the moon gets closest to the earth for the year. ](/news/2012/05/5/a-supermoon-is-formed-as-the-moon-gets-closest-to-the-earth-for-the-year.md) _Context: supermoon_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/2/martti-ahtisaari-unveils-a-united-nations-plan-for-the-final-status-of-kosovo-serbian-leaders-denounced-the-proposal.html)  [JSON](/news/2007/02/2/martti-ahtisaari-unveils-a-united-nations-plan-for-the-final-status-of-kosovo-serbian-leaders-denounced-the-proposal.json)  [XML](/news/2007/02/2/martti-ahtisaari-unveils-a-united-nations-plan-for-the-final-status-of-kosovo-serbian-leaders-denounced-the-proposal.xml)  
+
 ### [2007-02-2](/news/2007/02/2/index.md)
 
+##### Martti Ahtisaari
 #  Martti Ahtisaari unveils a United Nations plan for the final status of Kosovo. Serbian leaders denounced the proposal. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2007/WORLD/europe/02/02/un.kosovo.ap/index.html)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyID=2007-02-02T204752Z_01_L0132482_RTRUKOC_0_US-SERBIA-KOSOVO.xml&WTmodLoc=IntNewsHome_C1_%5bFeed%5d-10)

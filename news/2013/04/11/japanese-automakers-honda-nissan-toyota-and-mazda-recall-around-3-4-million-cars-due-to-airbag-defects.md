@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/11/japanese-automakers-honda-nissan-toyota-and-mazda-recall-around-3-4-million-cars-due-to-airbag-defects.html)  [JSON](/news/2013/04/11/japanese-automakers-honda-nissan-toyota-and-mazda-recall-around-3-4-million-cars-due-to-airbag-defects.json)  [XML](/news/2013/04/11/japanese-automakers-honda-nissan-toyota-and-mazda-recall-around-3-4-million-cars-due-to-airbag-defects.xml)  
+
 ### [2013-04-11](/news/2013/04/11/index.md)
 
+##### Japan
 # Japanese automakers Honda, Nissan, Toyota and Mazda recall around 3.4 million cars due to airbag defects. 
 
 Japanese automakers Honda, Nissan, Toyota and Mazda announced Thursday they are recalling around 3.4 million cars due to airbag defects.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2013/04/11/news/toyota-honda-airbag-recall)
 

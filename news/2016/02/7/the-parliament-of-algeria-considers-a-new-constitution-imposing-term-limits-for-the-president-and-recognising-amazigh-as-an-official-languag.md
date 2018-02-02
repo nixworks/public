@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/7/the-parliament-of-algeria-considers-a-new-consti
 
 ### [2016-02-7](/news/2016/02/7/index.md)
 
+##### Parliament of Algeria
 # The Parliament of Algeria considers a new constitution imposing term limits for the President and recognising Amazigh as an official language. 
 
 

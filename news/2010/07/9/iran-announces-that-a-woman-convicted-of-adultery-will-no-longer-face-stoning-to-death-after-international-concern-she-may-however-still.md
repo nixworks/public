@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/9/iran-announces-that-a-woman-convicted-of-adultery-will-no-longer-face-stoning-to-death-after-international-concern-she-may-however-still.html)  [JSON](/news/2010/07/9/iran-announces-that-a-woman-convicted-of-adultery-will-no-longer-face-stoning-to-death-after-international-concern-she-may-however-still.json)  [XML](/news/2010/07/9/iran-announces-that-a-woman-convicted-of-adultery-will-no-longer-face-stoning-to-death-after-international-concern-she-may-however-still.xml)  
+
 ### [2010-07-9](/news/2010/07/9/index.md)
 
+##### Iran
 # Iran announces that a woman convicted of adultery will no longer face stoning to death after international concern. She may, however, still face the death penalty. 
 
 The Iranian authorities say a woman convicted of adultery, Sakineh Mohammadi Ashtiani, will not be stoned to death.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/middle_east/10565103.stm)
 2. [National Turk](http://www.nationalturk.com/en/iran-announce-woman-escape-stoning-execution-for-adultery-35663585)

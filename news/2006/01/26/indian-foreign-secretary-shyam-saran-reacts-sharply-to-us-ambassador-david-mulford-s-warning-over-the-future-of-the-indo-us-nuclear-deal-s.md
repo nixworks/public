@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/26/indian-foreign-secretary-shyam-saran-reacts-sharply-to-us-ambassador-david-mulford-s-warning-over-the-future-of-the-indo-us-nuclear-deal-s.html)  [JSON](/news/2006/01/26/indian-foreign-secretary-shyam-saran-reacts-sharply-to-us-ambassador-david-mulford-s-warning-over-the-future-of-the-indo-us-nuclear-deal-s.json)  [XML](/news/2006/01/26/indian-foreign-secretary-shyam-saran-reacts-sharply-to-us-ambassador-david-mulford-s-warning-over-the-future-of-the-indo-us-nuclear-deal-s.xml)  
+
 ### [2006-01-26](/news/2006/01/26/index.md)
 
+##### David Mulford
 #  Indian foreign secretary Shyam Saran reacts sharply to US Ambassador David Mulford's warning over the future of the Indo-US nuclear deal, saying on Thursday that it was "inappropriate" and not conducive to good relations between the two countries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Express India](http://www.expressindia.com/fullstory.php?newsid=62053)
 

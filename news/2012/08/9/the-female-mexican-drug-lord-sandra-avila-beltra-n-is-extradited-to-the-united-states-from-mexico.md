@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/08/9/the-female-mexican-drug-lord-sandra-avila-beltra-n-is-extradited-to-the-united-states-from-mexico.html)  [JSON](/news/2012/08/9/the-female-mexican-drug-lord-sandra-avila-beltra-n-is-extradited-to-the-united-states-from-mexico.json)  [XML](/news/2012/08/9/the-female-mexican-drug-lord-sandra-avila-beltra-n-is-extradited-to-the-united-states-from-mexico.xml)  
+
 ### [2012-08-9](/news/2012/08/9/index.md)
 
+##### Sandra Avila Beltran
 # The female Mexican drug lord Sandra Avila Beltran is extradited to the United States from Mexico. 
 
 Sandra Ávila Beltrán, the first woman to be charged as the leader of an international drug-smuggling operation, faces cocaine-smuggling charges filed in a United States District Court in Florida.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2012/08/10/world/americas/mexico-drug-suspect-extradited-to-us.html)
+1. [The New York Times](https://www.nytimes.com/2012/08/10/world/americas/mexico-drug-suspect-extradited-to-us.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

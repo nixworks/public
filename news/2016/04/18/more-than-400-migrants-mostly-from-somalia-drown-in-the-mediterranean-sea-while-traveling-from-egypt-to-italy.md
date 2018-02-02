@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/18/more-than-400-migrants-mostly-from-somalia-drow
 
 ### [2016-04-18](/news/2016/04/18/index.md)
 
+##### European migrant crisis
 # More than 400 migrants, mostly from Somalia, drown in the Mediterranean Sea while traveling from Egypt to Italy. 
 
 More than 400 migrants and refugees are feared to have drowned in the Mediterranean while trying to cross by boat from Egypt to Italy.

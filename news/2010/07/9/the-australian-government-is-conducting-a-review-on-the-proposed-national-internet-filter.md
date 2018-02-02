@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/9/the-australian-government-is-conducting-a-review-on-the-proposed-national-internet-filter.html)  [JSON](/news/2010/07/9/the-australian-government-is-conducting-a-review-on-the-proposed-national-internet-filter.json)  [XML](/news/2010/07/9/the-australian-government-is-conducting-a-review-on-the-proposed-national-internet-filter.xml)  
+
 ### [2010-07-9](/news/2010/07/9/index.md)
 
+##### Government of Australia
 # The Australian Government is conducting a review on the proposed national internet filter. 
 
 The Australian government has announced an independent review of the rules behind its controversial internet filter.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/technology/10568361.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

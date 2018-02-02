@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/8/a-cia-double-agent-was-involved-in-a-foiled-bomb-plot-by-al-qaeda-in-the-arabian-peninsula-to-blow-up-an-u-s-bound-flight-according-to-gov.html)  [JSON](/news/2012/05/8/a-cia-double-agent-was-involved-in-a-foiled-bomb-plot-by-al-qaeda-in-the-arabian-peninsula-to-blow-up-an-u-s-bound-flight-according-to-gov.json)  [XML](/news/2012/05/8/a-cia-double-agent-was-involved-in-a-foiled-bomb-plot-by-al-qaeda-in-the-arabian-peninsula-to-blow-up-an-u-s-bound-flight-according-to-gov.xml)  
+
 ### [2012-05-8](/news/2012/05/8/index.md)
 
+##### CIA
 # A CIA double agent was involved in a foiled bomb plot by Al-Qaeda in the Arabian Peninsula to blow up an U.S.-bound flight, according to government officials. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/05/08/world/meast/yemen-qaeda-plot/index.html?hpt=hp_t1)
 

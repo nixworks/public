@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/4/the-international-federation-of-red-cross-and-re
 
 ### [2017-11-4](/news/2017/11/4/index.md)
 
+##### West African Ebola virus epidemic
 # The International Federation of Red Cross and Red Crescent Societies reports the discovery of several cases of fraud amounting to at least $6 million (GBP4.6 million) through overbilling and the "likely collusion" between a bank and former IFRC employees during the 2013-16 West African Ebola outbreak. 
 
 Organisation confirms misappropriation of almost $6m donated to fight deadly 2014 outbreak that claimed more than 11,000 lives in west Africa

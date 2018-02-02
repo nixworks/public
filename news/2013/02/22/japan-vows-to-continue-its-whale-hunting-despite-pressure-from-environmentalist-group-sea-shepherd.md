@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/22/japan-vows-to-continue-its-whale-hunting-despite-pressure-from-environmentalist-group-sea-shepherd.html)  [JSON](/news/2013/02/22/japan-vows-to-continue-its-whale-hunting-despite-pressure-from-environmentalist-group-sea-shepherd.json)  [XML](/news/2013/02/22/japan-vows-to-continue-its-whale-hunting-despite-pressure-from-environmentalist-group-sea-shepherd.xml)  
+
 ### [2013-02-22](/news/2013/02/22/index.md)
 
+##### Japan
 # Japan vows to continue its whale hunting despite pressure from environmentalist group Sea Shepherd. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Japan Today](http://www.japantoday.com/category/national/view/japan-vows-to-continue-whale-hunt)
 1. [Cover Image](https://www.japantoday.com/img/jt_logo_fb.gif)

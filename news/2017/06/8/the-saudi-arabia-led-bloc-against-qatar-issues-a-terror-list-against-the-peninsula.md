@@ -1,11 +1,9 @@
 
-### Formats:
+Formats: [HTML](/news/2017/06/8/the-saudi-arabia-led-bloc-against-qatar-issues-a-terror-list-against-the-peninsula.html)  [JSON](/news/2017/06/8/the-saudi-arabia-led-bloc-against-qatar-issues-a-terror-list-against-the-peninsula.json)  [XML](/news/2017/06/8/the-saudi-arabia-led-bloc-against-qatar-issues-a-terror-list-against-the-peninsula.xml)  
 
-* [HTML](/news/2017/06/8/the-saudi-arabia-led-bloc-against-qatar-issues-a-terror-list-against-the-peninsula.html)
-* [JSON](/news/2017/06/8/the-saudi-arabia-led-bloc-against-qatar-issues-a-terror-list-against-the-peninsula.json)
-* [XML](/news/2017/06/8/the-saudi-arabia-led-bloc-against-qatar-issues-a-terror-list-against-the-peninsula.xml)
 ### [2017-06-8](/news/2017/06/8/index.md)
 
+##### 2017 Qatar diplomatic crisis
 # The Saudi Arabia-led bloc against Qatar issues a "terror list" against the peninsula. 
 
 Joint statement lists 59 individuals, including 18 Qataris, and 12 organisations on &#39;terror list&#39;.

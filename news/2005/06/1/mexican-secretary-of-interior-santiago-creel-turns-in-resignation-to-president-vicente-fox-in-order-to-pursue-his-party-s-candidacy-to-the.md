@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/1/mexican-secretary-of-interior-santiago-creel-turns-in-resignation-to-president-vicente-fox-in-order-to-pursue-his-party-s-candidacy-to-the.html)  [JSON](/news/2005/06/1/mexican-secretary-of-interior-santiago-creel-turns-in-resignation-to-president-vicente-fox-in-order-to-pursue-his-party-s-candidacy-to-the.json)  [XML](/news/2005/06/1/mexican-secretary-of-interior-santiago-creel-turns-in-resignation-to-president-vicente-fox-in-order-to-pursue-his-party-s-candidacy-to-the.xml)  
+
 ### [2005-06-1](/news/2005/06/1/index.md)
 
+##### Santiago Creel
 #  Mexican Secretary of Interior Santiago Creel turns in resignation to president Vicente Fox in order to pursue his party's candidacy to the 2006 Presidential Election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4601861.stm)
 

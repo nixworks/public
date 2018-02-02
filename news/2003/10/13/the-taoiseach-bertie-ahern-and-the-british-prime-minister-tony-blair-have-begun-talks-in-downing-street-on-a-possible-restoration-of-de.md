@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/13/the-taoiseach-bertie-ahern-and-the-british-prime-minister-tony-blair-have-begun-talks-in-downing-street-on-a-possible-restoration-of-de.html)  [JSON](/news/2003/10/13/the-taoiseach-bertie-ahern-and-the-british-prime-minister-tony-blair-have-begun-talks-in-downing-street-on-a-possible-restoration-of-de.json)  [XML](/news/2003/10/13/the-taoiseach-bertie-ahern-and-the-british-prime-minister-tony-blair-have-begun-talks-in-downing-street-on-a-possible-restoration-of-de.xml)  
+
 ### [2003-10-13](/news/2003/10/13/index.md)
 
+##### Taoiseach
 #  The Taoiseach, Bertie Ahern, and the British Prime Minister, Tony Blair, have begun talks in Downing Street on a possible restoration of devolved government in Northern Ireland.
 
 

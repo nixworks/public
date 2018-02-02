@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/26/the-united-states-supreme-court-agrees-to-hear-a-case-challenging-laws-that-forbid-the-selling-of-violent-video-games-to-minors.html)  [JSON](/news/2010/04/26/the-united-states-supreme-court-agrees-to-hear-a-case-challenging-laws-that-forbid-the-selling-of-violent-video-games-to-minors.json)  [XML](/news/2010/04/26/the-united-states-supreme-court-agrees-to-hear-a-case-challenging-laws-that-forbid-the-selling-of-violent-video-games-to-minors.xml)  
+
 ### [2010-04-26](/news/2010/04/26/index.md)
 
+##### United States Supreme Court
 #  The United States Supreme Court agrees to hear a case challenging laws that forbid the selling of violent video games to minors. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [LA Times](http://www.latimes.com/news/nationworld/nation/wire/sc-dc-court-videos-20100426,0,2235166.story)
 

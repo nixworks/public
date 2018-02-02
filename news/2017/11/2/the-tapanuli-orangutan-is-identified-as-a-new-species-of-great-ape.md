@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/2/the-tapanuli-orangutan-is-identified-as-a-new-sp
 
 ### [2017-11-2](/news/2017/11/2/index.md)
 
+##### Tapanuli orangutan
 # The Tapanuli orangutan is identified as a new species of great ape. 
 
 Scientists identify new species of great ape, Pongo tapanuliensis or Tapanuli orangutan, but fear its survival is already in doubt as habitat under threat

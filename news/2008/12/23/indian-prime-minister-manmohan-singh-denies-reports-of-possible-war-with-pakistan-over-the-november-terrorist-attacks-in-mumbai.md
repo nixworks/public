@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/23/indian-prime-minister-manmohan-singh-denies-reports-of-possible-war-with-pakistan-over-the-november-terrorist-attacks-in-mumbai.html)  [JSON](/news/2008/12/23/indian-prime-minister-manmohan-singh-denies-reports-of-possible-war-with-pakistan-over-the-november-terrorist-attacks-in-mumbai.json)  [XML](/news/2008/12/23/indian-prime-minister-manmohan-singh-denies-reports-of-possible-war-with-pakistan-over-the-november-terrorist-attacks-in-mumbai.xml)  
+
 ### [2008-12-23](/news/2008/12/23/index.md)
 
+##### India
 #  Indian Prime Minister Manmohan Singh denies reports of possible war with Pakistan over the November terrorist attacks in Mumbai. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN-IBN](http://ibnlive.in.com/news/pm-rejects-war-with-pak-asks-it-to-stop-hysteria/81186-3.html)
 

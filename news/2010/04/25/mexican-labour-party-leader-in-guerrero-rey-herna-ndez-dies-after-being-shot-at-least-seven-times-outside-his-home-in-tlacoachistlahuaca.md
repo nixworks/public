@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/25/mexican-labour-party-leader-in-guerrero-rey-herna-ndez-dies-after-being-shot-at-least-seven-times-outside-his-home-in-tlacoachistlahuaca.html)  [JSON](/news/2010/04/25/mexican-labour-party-leader-in-guerrero-rey-herna-ndez-dies-after-being-shot-at-least-seven-times-outside-his-home-in-tlacoachistlahuaca.json)  [XML](/news/2010/04/25/mexican-labour-party-leader-in-guerrero-rey-herna-ndez-dies-after-being-shot-at-least-seven-times-outside-his-home-in-tlacoachistlahuaca.xml)  
+
 ### [2010-04-25](/news/2010/04/25/index.md)
 
+##### Mexican Labour Party
 # Mexican Labour Party leader in Guerrero Rey Hernandez dies after being shot at least seven times outside his home in Tlacoachistlahuaca. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [People's Daily Online](http://english.peopledaily.com.cn/90001/90777/90852/6962728.html)
 2. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Politician-fatally-shot-outside-his-home-in-southern-Mexico/articleshow/5857857.cms)

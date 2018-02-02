@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/04/4/japrg-haider-the-former-leader-of-freedom-party-of-austria-fpa-together-with-almost-all-of-fpa-s-parliamentary-representatives-leave.html)  [JSON](/news/2005/04/4/japrg-haider-the-former-leader-of-freedom-party-of-austria-fpa-together-with-almost-all-of-fpa-s-parliamentary-representatives-leave.json)  [XML](/news/2005/04/4/japrg-haider-the-former-leader-of-freedom-party-of-austria-fpa-together-with-almost-all-of-fpa-s-parliamentary-representatives-leave.xml)  
+
 ### [2005-04-4](/news/2005/04/4/index.md)
 
+##### Jorg Haider
 #  Jorg Haider, the former leader of Freedom Party of Austria (FPO), together with almost all of FPO's parliamentary representatives, leaves the party to found a new party Alliance for Austria's Future. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4409953.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000100&sid=aBYNQGz0UN18&refer=germany)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000100&sid=aBYNQGz0UN18&refer=germany)
 
 ### Related:
 

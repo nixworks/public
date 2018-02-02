@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/17/thousands-of-opposition-supporters-rally-in-yerevan-armenia-demanding-the-resignation-of-the-government.html)  [JSON](/news/2011/03/17/thousands-of-opposition-supporters-rally-in-yerevan-armenia-demanding-the-resignation-of-the-government.json)  [XML](/news/2011/03/17/thousands-of-opposition-supporters-rally-in-yerevan-armenia-demanding-the-resignation-of-the-government.xml)  
+
 ### [2011-03-17](/news/2011/03/17/index.md)
 
+##### Yerevan
 # Thousands of opposition supporters rally in Yerevan, Armenia, demanding the resignation of the government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Armenia News](http://news.am/eng/news/51787.html)
 2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/1117169/1/.html)

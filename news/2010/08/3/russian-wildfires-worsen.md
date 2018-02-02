@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/3/russian-wildfires-worsen.html)  [JSON](/news/2010/08/3/russian-wildfires-worsen.json)  [XML](/news/2010/08/3/russian-wildfires-worsen.xml)  
+
 ### [2010-08-3](/news/2010/08/3/index.md)
 
+##### Russia
 # Russian wildfires worsen. 
 
 Russia struggles to contain its disastrous wildfires with military aircraft hangars near Moscow among sites destroyed by the flames.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10850048)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=3&art_id=iol1280819197173W431)

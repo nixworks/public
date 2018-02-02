@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/1/a-car-bomb-at-a-mogadishu-restaurant-near-the-ji
 
 ### [2016-10-1](/news/2016/10/1/index.md)
 
+##### War in Somalia
 # A car bomb at a Mogadishu restaurant near the Jilaow detention center kills four people and injures another five. Al-Shabaab claims responsibility for the attack. 
 
 Somali Islamist group al Shabaab bombed a restaurant frequented by members of the security forces in Mogadishu on Saturday, killing at least three people, officials and the group said.

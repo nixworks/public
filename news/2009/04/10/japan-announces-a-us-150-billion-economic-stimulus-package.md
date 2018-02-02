@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/10/japan-announces-a-us-150-billion-economic-stimulus-package.html)  [JSON](/news/2009/04/10/japan-announces-a-us-150-billion-economic-stimulus-package.json)  [XML](/news/2009/04/10/japan-announces-a-us-150-billion-economic-stimulus-package.xml)  
+
 ### [2009-04-10](/news/2009/04/10/index.md)
 
+##### Japan
 #  Japan announces a US$150-billion economic stimulus package. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/business/7991194.stm)
 

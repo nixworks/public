@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/27/david-cunliffe-resigns-as-leader-of-the-new-zealand-labour-party-following-a-crushing-defeat-in-last-week-s-election-but-will-nominate-hims.html)  [JSON](/news/2014/09/27/david-cunliffe-resigns-as-leader-of-the-new-zealand-labour-party-following-a-crushing-defeat-in-last-week-s-election-but-will-nominate-hims.json)  [XML](/news/2014/09/27/david-cunliffe-resigns-as-leader-of-the-new-zealand-labour-party-following-a-crushing-defeat-in-last-week-s-election-but-will-nominate-hims.xml)  
+
 ### [2014-09-27](/news/2014/09/27/index.md)
 
+##### David Cunliffe
 # David Cunliffe resigns as leader of the New Zealand Labour Party following a crushing defeat in last week's election, but will nominate himself as leader in the subsequent leadership contest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News Australia](http://www.skynews.com.au/news/top-stories/2014/09/27/nz-labour-leader-resigns-after-election.html)
 

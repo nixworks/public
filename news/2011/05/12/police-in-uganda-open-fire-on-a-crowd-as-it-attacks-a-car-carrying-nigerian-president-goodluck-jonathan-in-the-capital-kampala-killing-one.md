@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/12/police-in-uganda-open-fire-on-a-crowd-as-it-attacks-a-car-carrying-nigerian-president-goodluck-jonathan-in-the-capital-kampala-killing-one.html)  [JSON](/news/2011/05/12/police-in-uganda-open-fire-on-a-crowd-as-it-attacks-a-car-carrying-nigerian-president-goodluck-jonathan-in-the-capital-kampala-killing-one.json)  [XML](/news/2011/05/12/police-in-uganda-open-fire-on-a-crowd-as-it-attacks-a-car-carrying-nigerian-president-goodluck-jonathan-in-the-capital-kampala-killing-one.xml)  
+
 ### [2011-05-12](/news/2011/05/12/index.md)
 
+##### Uganda
 # Police in Uganda open fire on a crowd as it attacks a car carrying Nigerian President Goodluck Jonathan in the capital Kampala, killing one person. 
 
 UGANDAN police shot at a crowd in the capital Kampala after it attacked a car carrying Nigeria’s President Goodluck Jonathan who had attended President Yoweri Museveni’s inauguration, a government spokesman said.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE74B0H920110512?feedType=RSS&feedName=topNews)
 2. [Vanguard Nigeria](http://www.vanguardngr.com/2011/05/one-killed-as-mob-attack-jonathan-in-uganda/)

@@ -1,16 +1,26 @@
+
+Formats: [HTML](/news/2011/06/27/tests-conducted-last-month-show-radioactive-cesium-has-been-found-in-small-quantities-in-residents-in-the-towns-of-iitate-and-kawamata-fuku.html)  [JSON](/news/2011/06/27/tests-conducted-last-month-show-radioactive-cesium-has-been-found-in-small-quantities-in-residents-in-the-towns-of-iitate-and-kawamata-fuku.json)  [XML](/news/2011/06/27/tests-conducted-last-month-show-radioactive-cesium-has-been-found-in-small-quantities-in-residents-in-the-towns-of-iitate-and-kawamata-fuku.xml)  
+
 ### [2011-06-27](/news/2011/06/27/index.md)
 
+##### radioactive
 # Tests conducted last month show radioactive cesium has been found in small quantities in residents in the towns of Iitate and Kawamata, Fukushima, located about 25 miles (40 kilometers) from the crippled Fukushima Daiichi nuclear power plant. 
 
 Japanese researchers have found radiation in all 15 people tested last month from the area near the crippled Fukushima Daiichi nuclear power plant.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13924582)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-13924602)
 3. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/06/27/japan.radiation/index.html)
 3. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/06/27/japan.radiation/tzvids.japan.21mar.gi.afp.jpg)
+
+### Changes:
+
+1. [Fukushima Daiichi nuclear disaster:Tests conducted last month show radioactive cesium has been found in small quantities in residents in the towns of Iitate and Kawamata, Fukushima, located about 25 miles (40 kilometers) from the crippled Fukushima Daiichi nuclear power plant. ](/news/2011/06/27/fukushima-daiichi-nuclear-disaster-ptests-conducted-last-month-show-radioactive-cesium-has-been-found-in-small-quantities-in-residents-in-th.md) _2017-08-25 03:33:36 (First version)_
+2. [Fukushima Daiichi nuclear disaster:: Tests conducted last month show radioactive cesium has been found in small quantities in residents in the towns of Iitate and Kawamata, Fukushima, located about 25 miles (40 kilometers) from the crippled Fukushima Daiichi nuclear power plant. ](/news/2011/06/27/fukushima-daiichi-nuclear-disaster-tests-conducted-last-month-show-radioactive-cesium-has-been-found-in-small-quantities-in-residents-in-t.md) _2017-08-27 03:33:43 (Update)_
+2. [Tests conducted last month show radioactive cesium has been found in small quantities in residents in the towns of Iitate and Kawamata, Fukushima, located about 25 miles (40 kilometers) from the crippled Fukushima Daiichi nuclear power plant. ](/news/2011/06/27/tests-conducted-last-month-show-radioactive-cesium-has-been-found-in-small-quantities-in-residents-in-the-towns-of-iitate-and-kawamata-fuku.md) _(Current version)_
 
 ### Related:
 
@@ -19,9 +29,3 @@ Japanese researchers have found radiation in all 15 people tested last month fro
 3. [South Korea bans all fishery imports from eight Japanese prefectures, amid concern over leaks of radioactive water from the crippled Fukushima nuclear plant. ](/news/2013/09/6/south-korea-bans-all-fishery-imports-from-eight-japanese-prefectures-amid-concern-over-leaks-of-radioactive-water-from-the-crippled-fukushi.md) _Context: Fukushima Daiichi Nuclear Power Plant_
 4. [Typhoon Man-yi hits central Japan with concerns raised about a possible impact on the stricken Fukushima Daiichi Nuclear Power Plant. ](/news/2013/09/16/typhoon-man-yi-hits-central-japan-with-concerns-raised-about-a-possible-impact-on-the-stricken-fukushima-daiichi-nuclear-power-plant.md) _Context: Fukushima Daiichi Nuclear Power Plant_
 5. [Steam begins to rise at the Fukushima Daiichi Nuclear Power Plant with utility company Tepco saying that it is possibly because of rain and that the levels of radioactivity in the surrounding areas have remained unchanged. ](/news/2013/07/18/steam-begins-to-rise-at-the-fukushima-daiichi-nuclear-power-plant-with-utility-company-tepco-saying-that-it-is-possibly-because-of-rain-and.md) _Context: Fukushima Daiichi Nuclear Power Plant_
-
-### Changes:
-
-1. [Fukushima Daiichi nuclear disaster:Tests conducted last month show radioactive cesium has been found in small quantities in residents in the towns of Iitate and Kawamata, Fukushima, located about 25 miles (40 kilometers) from the crippled Fukushima Daiichi nuclear power plant. ](/news/2011/06/27/fukushima-daiichi-nuclear-disaster-ptests-conducted-last-month-show-radioactive-cesium-has-been-found-in-small-quantities-in-residents-in-th.md) _2017-08-25 03:33:36 (First version)_
-2. [Fukushima Daiichi nuclear disaster:: Tests conducted last month show radioactive cesium has been found in small quantities in residents in the towns of Iitate and Kawamata, Fukushima, located about 25 miles (40 kilometers) from the crippled Fukushima Daiichi nuclear power plant. ](/news/2011/06/27/fukushima-daiichi-nuclear-disaster-tests-conducted-last-month-show-radioactive-cesium-has-been-found-in-small-quantities-in-residents-in-t.md) _2017-08-27 03:33:43 (Update)_
-2. [Tests conducted last month show radioactive cesium has been found in small quantities in residents in the towns of Iitate and Kawamata, Fukushima, located about 25 miles (40 kilometers) from the crippled Fukushima Daiichi nuclear power plant. ](/news/2011/06/27/tests-conducted-last-month-show-radioactive-cesium-has-been-found-in-small-quantities-in-residents-in-the-towns-of-iitate-and-kawamata-fuku.md) _(Current version)_

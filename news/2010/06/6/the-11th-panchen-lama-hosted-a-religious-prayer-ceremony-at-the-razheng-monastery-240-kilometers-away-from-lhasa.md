@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/6/the-11th-panchen-lama-hosted-a-religious-prayer-ceremony-at-the-razheng-monastery-240-kilometers-away-from-lhasa.html)  [JSON](/news/2010/06/6/the-11th-panchen-lama-hosted-a-religious-prayer-ceremony-at-the-razheng-monastery-240-kilometers-away-from-lhasa.json)  [XML](/news/2010/06/6/the-11th-panchen-lama-hosted-a-religious-prayer-ceremony-at-the-razheng-monastery-240-kilometers-away-from-lhasa.xml)  
+
 ### [2010-06-6](/news/2010/06/6/index.md)
 
+##### 11th Panchen Lama
 # The 11th Panchen Lama hosted a religious prayer ceremony at the Razheng Monastery, 240 kilometers away from Lhasa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [tibet.cn](http://eng.tibet.cn/news/today/201006/t20100607_588828.htm)
 

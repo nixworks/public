@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/12/chinese-human-rights-activist-feng-zhenghu-stranded-at-japan-s-narita-international-airport-after-being-refused-entry-to-china-for-three-mo.html)  [JSON](/news/2010/02/12/chinese-human-rights-activist-feng-zhenghu-stranded-at-japan-s-narita-international-airport-after-being-refused-entry-to-china-for-three-mo.json)  [XML](/news/2010/02/12/chinese-human-rights-activist-feng-zhenghu-stranded-at-japan-s-narita-international-airport-after-being-refused-entry-to-china-for-three-mo.xml)  
+
 ### [2010-02-12](/news/2010/02/12/index.md)
 
+##### China
 # Chinese human rights activist Feng Zhenghu, stranded at Japan's Narita International Airport after being refused entry to China for three months, returns home. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8512072.stm)
 2. [Bangkok Post](http://www.bangkokpost.com/news/asia/168273/terminal-activist-returns-home-to-china)

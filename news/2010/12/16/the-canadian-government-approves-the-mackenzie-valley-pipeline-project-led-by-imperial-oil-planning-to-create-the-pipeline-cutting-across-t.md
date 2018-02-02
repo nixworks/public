@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/12/16/the-canadian-government-approves-the-mackenzie-valley-pipeline-project-led-by-imperial-oil-planning-to-create-the-pipeline-cutting-across-t.html)  [JSON](/news/2010/12/16/the-canadian-government-approves-the-mackenzie-valley-pipeline-project-led-by-imperial-oil-planning-to-create-the-pipeline-cutting-across-t.json)  [XML](/news/2010/12/16/the-canadian-government-approves-the-mackenzie-valley-pipeline-project-led-by-imperial-oil-planning-to-create-the-pipeline-cutting-across-t.xml)  
+
 ### [2010-12-16](/news/2010/12/16/index.md)
 
+##### Canadian government
 # The Canadian government approves the Mackenzie Valley Pipeline project led by Imperial Oil, planning to create the pipeline cutting across the Mackenzie Delta carrying shale gas by 2015. 
 
 * Board gives green light to Mackenzie * Says approval subject to more than 200 conditions * Still requires federal cabinet approval (A
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSN1625957320101216)
+1. [Reuters](https://www.reuters.com/article/idUSN1625957320101216)
 2. [Vancouver Sun](http://www.vancouversun.com/news/Mackenzie+pipeline+gets+approved/3989170/story.html)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

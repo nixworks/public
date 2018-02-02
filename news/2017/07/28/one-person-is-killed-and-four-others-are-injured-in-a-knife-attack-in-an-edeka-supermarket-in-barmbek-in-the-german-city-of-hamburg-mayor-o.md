@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/28/one-person-is-killed-and-four-others-are-injure
 
 ### [2017-07-28](/news/2017/07/28/index.md)
 
+##### 2017 Hamburg attack
 # One person is killed and four others are injured in a knife attack in an Edeka supermarket in Barmbek in the German city of Hamburg. Mayor Olaf Scholz said the attack was motivated by "hate". The attacker is reported to have shouted "Allahu Akbar" before attacking. 
 
 Police say one suspect has been arrested but that it is too soon to pinpoint a motive.

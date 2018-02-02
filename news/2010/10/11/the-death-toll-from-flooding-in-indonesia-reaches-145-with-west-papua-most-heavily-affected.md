@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/11/the-death-toll-from-flooding-in-indonesia-reaches-145-with-west-papua-most-heavily-affected.html)  [JSON](/news/2010/10/11/the-death-toll-from-flooding-in-indonesia-reaches-145-with-west-papua-most-heavily-affected.json)  [XML](/news/2010/10/11/the-death-toll-from-flooding-in-indonesia-reaches-145-with-west-papua-most-heavily-affected.xml)  
+
 ### [2010-10-11](/news/2010/10/11/index.md)
 
+##### flood
 # The death toll from flooding in Indonesia reaches 145 with West Papua most heavily affected. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/10/11/indonesia.flooding/index.html?eref=edition)
 2. [Jakarta Post](http://www.thejakartapost.com/news/2010/10/11/death-toll-wasior039s-flooding-climbs-145.html)

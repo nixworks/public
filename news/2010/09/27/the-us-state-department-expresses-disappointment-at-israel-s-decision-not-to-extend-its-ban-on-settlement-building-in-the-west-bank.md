@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2010/09/27/the-us-state-department-expresses-disappointment-at-israel-s-decision-not-to-extend-its-ban-on-settlement-building-in-the-west-bank.html)  [JSON](/news/2010/09/27/the-us-state-department-expresses-disappointment-at-israel-s-decision-not-to-extend-its-ban-on-settlement-building-in-the-west-bank.json)  [XML](/news/2010/09/27/the-us-state-department-expresses-disappointment-at-israel-s-decision-not-to-extend-its-ban-on-settlement-building-in-the-west-bank.xml)  
+
 ### [2010-09-27](/news/2010/09/27/index.md)
 
+##### US state department
 # The US state department expresses disappointment at Israel's decision not to extend its ban on settlement building in the West Bank. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11422065)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:
 
-1. [Palestinian factions, Hamas and Fatah, sign a unity deal in Cairo, that is also publicly supported by the governments of Egypt and Saudi Arabia. The Fatah-controlled Palestinian National Authority (PNA), along with Israel, currently govern the West Bank. According to the signatories of the deal, the PNA will take administrative control of the Gaza Strip, and, along with Hamas, police its borders. The signatories consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. The government of Israel opposes any involvement by Hamas in a Palestinian government. ](/news/2017/10/12/palestinian-factions-hamas-and-fatah-sign-a-unity-deal-in-cairo-that-is-also-publicly-supported-by-the-governments-of-egypt-and-saudi-ara.md) _Context: Israel, West Bank_
-2. [An Israeli soldier is killed during a car ramming attack near Ofra, in the West Bank. Another Israeli soldier was injured. A Palestinian suspected of committing the attack is taken into custody. ](/news/2017/04/6/an-israeli-soldier-is-killed-during-a-car-ramming-attack-near-ofra-in-the-west-bank-another-israeli-soldier-was-injured-a-palestinian-sus.md) _Context: Israel, West Bank_
-3. [Israel passes the Regulation Law which retroactively legalizes 4,000 housing units in 16 settlements on Area C West Bank occupied Palestinian territories. ](/news/2017/02/6/israel-passes-the-regulation-law-which-retroactively-legalizes-4-000-housing-units-in-16-settlements-on-area-c-west-bank-occupied-palestinia.md) _Context: Israel, West Bank_
-4. [The White House cautions Israel that building new settlements or expanding existing settlements in the West Bank, "... may not be helpful in achieving (peace)." ](/news/2017/02/2/the-white-house-cautions-israel-that-building-new-settlements-or-expanding-existing-settlements-in-the-west-bank-may-not-be-helpful-in.md) _Context: Israel, West Bank_
-5. [Israeli security forces begin evicting people from the illegal Amona, Mateh Binyamin, outpost built on private Palestinian-owned land near Ramallah in the central West Bank. The Supreme Court ordered residents to leave the area last year. ](/news/2017/02/1/israeli-security-forces-begin-evicting-people-from-the-illegal-amona-mateh-binyamin-outpost-built-on-private-palestinian-owned-land-near-r.md) _Context: Israel, West Bank_
+1. [Hundreds of people protest on the West Bank and in Gaza for the third day in a row. ](/news/2017/12/9/hundreds-of-people-protest-on-the-west-bank-and-in-gaza-for-the-third-day-in-a-row.md) _Context: West Bank_
+2. [U.S. President Donald Trump recognizes Jerusalem as the capital of Israel and says the U.S. starts the process of moving its embassy from Tel Aviv to Jerusalem. The United States Department of State issues an internal travel warning to Israel, Jerusalem and the West Bank until December 20. The U.S. embassy in Amman temporarily suspends routine public services and stops embassy travel around Jordan. Embassies in Berlin and London issue vigilance warnings to U.S. citizens. ](/news/2017/12/6/u-s-president-donald-trump-recognizes-jerusalem-as-the-capital-of-israel-and-says-the-u-s-starts-the-process-of-moving-its-embassy-from-te.md) _Context: West Bank_
+3. [Two Palestinians are shot dead and about 60 others are wounded by Israeli troops gunfire as thousands protest along the Gaza border fence, in all seven West Bank cities and in East Jerusalem, against the U.S. declaration. ](/news/2017/12/22/two-palestinians-are-shot-dead-and-about-60-others-are-wounded-by-israeli-troops-gunfire-as-thousands-protest-along-the-gaza-border-fence-i.md) _Context: West Bank_
+4. [Palestinians and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. In conflicts where Israeli law enforcement used live ammunition and Palestinians threw rocks, two Palestinians died in Gaza while 150 were wounded and two more were killed in the West Bank while a further 10 were wounded. ](/news/2017/12/15/palestinians-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem-clashes.md) _Context: West Bank_
+5. [A Palestinian man in the occupied West Bank is arrested and questioned for a few hours by Israeli police after Facebook mistranslates his Arabic-language message saying "good morning" into Hebrew for "attack them". ](/news/2017/10/22/a-palestinian-man-in-the-occupied-west-bank-is-arrested-and-questioned-for-a-few-hours-by-israeli-police-after-facebook-mistranslates-his-ar.md) _Context: West Bank_

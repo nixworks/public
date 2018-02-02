@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/13/the-british-house-of-commons-culture-media-and-sport-committee-announces-its-intention-to-recall-james-murdoch-as-its-probe-into-the-news-i.html)  [JSON](/news/2011/09/13/the-british-house-of-commons-culture-media-and-sport-committee-announces-its-intention-to-recall-james-murdoch-as-its-probe-into-the-news-i.json)  [XML](/news/2011/09/13/the-british-house-of-commons-culture-media-and-sport-committee-announces-its-intention-to-recall-james-murdoch-as-its-probe-into-the-news-i.xml)  
+
 ### [2011-09-13](/news/2011/09/13/index.md)
 
+##### Culture, Media and Sport Committee
 # The British House of Commons Culture, Media and Sport Committee announces its intention to recall James Murdoch as its probe into the News International phone hacking scandal continues. 
 
 News International chairman James Murdoch is to face more questions from MPs on the Commons culture committee about phone hacking.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14899265)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/55341000/jpg/_55341191_011107353-1.jpg)

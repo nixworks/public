@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/08/1/us-crude-oil-prices-reach-a-new-high-of-78-77-a-barrel-due-to-declining-stocks-and-decreased-output.html)  [JSON](/news/2007/08/1/us-crude-oil-prices-reach-a-new-high-of-78-77-a-barrel-due-to-declining-stocks-and-decreased-output.json)  [XML](/news/2007/08/1/us-crude-oil-prices-reach-a-new-high-of-78-77-a-barrel-due-to-declining-stocks-and-decreased-output.xml)  
+
 ### [2007-08-1](/news/2007/08/1/index.md)
 
+##### price
 #  US crude oil prices reach a new high of $78.77 a barrel due to declining stocks and decreased output. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/hotStocksNews/idUSL0135968820070801)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/hotStocksNews/idUSL0135968820070801)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/23/three-of-the-six-members-of-the-bali-nine-ndash-tan-duc-thanh-nguyen-si-yi-chen-and-matthew-norman-ndash-who-were-sentenced-to-death-h.html)  [JSON](/news/2007/04/23/three-of-the-six-members-of-the-bali-nine-ndash-tan-duc-thanh-nguyen-si-yi-chen-and-matthew-norman-ndash-who-were-sentenced-to-death-h.json)  [XML](/news/2007/04/23/three-of-the-six-members-of-the-bali-nine-ndash-tan-duc-thanh-nguyen-si-yi-chen-and-matthew-norman-ndash-who-were-sentenced-to-death-h.xml)  
+
 ### [2007-04-23](/news/2007/04/23/index.md)
 
+##### Bali Nine
 #  Three of the six members of the Bali Nine &ndash; Tan Duc Thanh Nguyen, Si Yi Chen and Matthew Norman &ndash; who were sentenced to death have launched a judicial review appeal with Denpasar's District Court. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200704/s1904405.htm)
 

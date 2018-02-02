@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2011/05/3/results-from-the-41st-canadian-general-election-give-the-conservative-party-of-canada-a-majority-government-while-the-ndp-will-form-the-offi.html)  [JSON](/news/2011/05/3/results-from-the-41st-canadian-general-election-give-the-conservative-party-of-canada-a-majority-government-while-the-ndp-will-form-the-offi.json)  [XML](/news/2011/05/3/results-from-the-41st-canadian-general-election-give-the-conservative-party-of-canada-a-majority-government-while-the-ndp-will-form-the-offi.xml)  
+
 ### [2011-05-3](/news/2011/05/3/index.md)
 
+##### 41st Canadian General Election
 # Results from the 41st Canadian General Election give the Conservative Party of Canada a majority government while the NDP will form the Official Opposition for the first time in Canadian political history.
 
 The Conservative Party will again govern Canada, this time with a majority, following the country’s fourth election in seven years.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13259484)
 2. [CBC](http://www.cbc.ca/news/politics/)
 3. [CNN](http://edition.cnn.com/2011/WORLD/americas/05/03/canada.election/)
-4. [Globe and Mail](http://www.theglobeandmail.com/news/politics/)
-5. [NYT](http://www.nytimes.com/2011/05/03/world/americas/03canada.html)
+4. [Globe and Mail](https://www.theglobeandmail.com/news/politics/)
+5. [NYT](https://www.nytimes.com/2011/05/03/world/americas/03canada.html)
 5. [Cover Image](https://static01.nyt.com/images/2011/05/03/world/03Canada/03Canada-thumbStandard.jpg)
 
 ### Related:

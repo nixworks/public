@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/8/venezuelan-president-hugo-cha-vez-and-chinese-president-hu-jintao-meet-in-beijing.html)  [JSON](/news/2009/04/8/venezuelan-president-hugo-cha-vez-and-chinese-president-hu-jintao-meet-in-beijing.json)  [XML](/news/2009/04/8/venezuelan-president-hugo-cha-vez-and-chinese-president-hu-jintao-meet-in-beijing.xml)  
+
 ### [2009-04-8](/news/2009/04/8/index.md)
 
+##### Venezuela
 #  Venezuelan President Hugo Chavez and Chinese President Hu Jintao meet in Beijing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ifZBciZzX06HrGi1QB6039u6549A)
 

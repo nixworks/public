@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/3/archaeologists-discover-a-smaller-prehistoric-site-near-stonehenge-dubbed-as-bluehenge-named-after-the-hue-of-the-27-stones-that-formed.html)  [JSON](/news/2009/10/3/archaeologists-discover-a-smaller-prehistoric-site-near-stonehenge-dubbed-as-bluehenge-named-after-the-hue-of-the-27-stones-that-formed.json)  [XML](/news/2009/10/3/archaeologists-discover-a-smaller-prehistoric-site-near-stonehenge-dubbed-as-bluehenge-named-after-the-hue-of-the-27-stones-that-formed.xml)  
+
 ### [2009-10-3](/news/2009/10/3/index.md)
 
+##### Stonehenge
 #  Archaeologists discover a smaller prehistoric site near Stonehenge, dubbed as "Bluehenge", named after the hue of the 27 stones that formed it. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5i55z9vq47vnFMeo1MGW-6uT2ZoegD9B3IJAO0)
 2. [BBC](http://news.bbc.co.uk/1/hi/england/wiltshire/8288567.stm)

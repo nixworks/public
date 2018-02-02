@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/8/venezuela-arrests-11-people-over-an-attack-last-week-on-a-caracas-synagogue.html)  [JSON](/news/2009/02/8/venezuela-arrests-11-people-over-an-attack-last-week-on-a-caracas-synagogue.json)  [XML](/news/2009/02/8/venezuela-arrests-11-people-over-an-attack-last-week-on-a-caracas-synagogue.xml)  
+
 ### [2009-02-8](/news/2009/02/8/index.md)
 
+##### Venezuela
 #  Venezuela arrests 11 people over an attack last week on a Caracas synagogue. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://haaretz.com/hasen/spages/1062512.html)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/04/16/gunmen-ambush-a-bus-killing-nine-people-and-wounding-six-others-in-western-ethiopia-near-the-sudanese-border.html)  [JSON](/news/2014/04/16/gunmen-ambush-a-bus-killing-nine-people-and-wounding-six-others-in-western-ethiopia-near-the-sudanese-border.json)  [XML](/news/2014/04/16/gunmen-ambush-a-bus-killing-nine-people-and-wounding-six-others-in-western-ethiopia-near-the-sudanese-border.xml)  
+
 ### [2014-04-16](/news/2014/04/16/index.md)
 
+##### Ethiopia
 # Gunmen ambush a bus killing nine people and wounding six others in western Ethiopia near the Sudanese border. 
 
 Gunmen ambushed a bus carrying dozens of people in western Ethiopia near the Sudanese border, killing nine and wounding six others, state-run media said on Wednesday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/04/16/us-ethiopia-attacks-idUSBREA3F0FX20140416)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2014/04/16/us-ethiopia-attacks-idUSBREA3F0FX20140416)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/1/argentina-australia-luxembourg-rwanda-and-south-korea-join-the-un-security-council.html)  [JSON](/news/2013/01/1/argentina-australia-luxembourg-rwanda-and-south-korea-join-the-un-security-council.json)  [XML](/news/2013/01/1/argentina-australia-luxembourg-rwanda-and-south-korea-join-the-un-security-council.xml)  
+
 ### [2013-01-1](/news/2013/01/1/index.md)
 
+##### Argentina
 # Argentina, Australia, Luxembourg, Rwanda and South Korea join the UN Security Council. 
 
 Rwanda has warned it will not tolerate attempts to blame it for a rebel insurgency in the Democratic Republic of the Congo.
 
 
-### Source:
+### Sources:
 
 1. [News24](http://www.news24.com/Africa/News/Rwanda-vows-to-help-on-DRC-at-UN-20130101)
 1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/1976/c85be9cb46e84ccca0c78c542967d133.jpg)

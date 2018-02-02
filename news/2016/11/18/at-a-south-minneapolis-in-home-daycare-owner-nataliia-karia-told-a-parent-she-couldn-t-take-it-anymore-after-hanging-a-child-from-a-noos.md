@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/18/at-a-south-minneapolis-in-home-daycare-owner-na
 
 ### [2016-11-18](/news/2016/11/18/index.md)
 
+##### 
 #  At a South Minneapolis in-home daycare, owner Nataliia Karia told a parent she "couldn't take it anymore" after hanging a child from a noose. She fled in a vehicle rampage ran over and dragged a pedestrian, hit a bicycle rider and several vehicles before attemping to jump from a bridge when she was arrested. 3 were injured. 
 
 Nataliia Karia is accused of intentionally hanging a baby boy at the in-home daycare facility that she owned. Karia fled&hellip;

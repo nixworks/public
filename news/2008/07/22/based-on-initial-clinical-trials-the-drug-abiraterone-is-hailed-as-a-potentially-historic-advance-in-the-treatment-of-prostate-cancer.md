@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/22/based-on-initial-clinical-trials-the-drug-abiraterone-is-hailed-as-a-potentially-historic-advance-in-the-treatment-of-prostate-cancer.html)  [JSON](/news/2008/07/22/based-on-initial-clinical-trials-the-drug-abiraterone-is-hailed-as-a-potentially-historic-advance-in-the-treatment-of-prostate-cancer.json)  [XML](/news/2008/07/22/based-on-initial-clinical-trials-the-drug-abiraterone-is-hailed-as-a-potentially-historic-advance-in-the-treatment-of-prostate-cancer.xml)  
+
 ### [2008-07-22](/news/2008/07/22/index.md)
 
+##### clinical trial
 #  Based on initial clinical trials, the drug abiraterone is hailed as a potentially historic advance in the treatment of prostate cancer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/health/7502238.stm)
 

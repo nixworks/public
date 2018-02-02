@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/25/u-s-air-strikes-on-the-iraqi-city-of-fallujah-destroy-several-buildings-the-u-s-military-says-no-civilians-were-reported-in-the-area-bu.html)  [JSON](/news/2004/09/25/u-s-air-strikes-on-the-iraqi-city-of-fallujah-destroy-several-buildings-the-u-s-military-says-no-civilians-were-reported-in-the-area-bu.json)  [XML](/news/2004/09/25/u-s-air-strikes-on-the-iraqi-city-of-fallujah-destroy-several-buildings-the-u-s-military-says-no-civilians-were-reported-in-the-area-bu.xml)  
+
 ### [2004-09-25](/news/2004/09/25/index.md)
 
+##### Iraq
 #  U.S. air strikes on the Iraqi city of Fallujah destroy several buildings. The U.S. military says no civilians were reported in the area, but a hospital official says at least eight civilians were killed, and television broadcasts show civilian survivors, including an infant, being pulled out of a destroyed building. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3688812.stm)
 

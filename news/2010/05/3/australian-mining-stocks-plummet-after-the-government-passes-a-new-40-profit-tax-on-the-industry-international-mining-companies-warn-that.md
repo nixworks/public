@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/05/3/australian-mining-stocks-plummet-after-the-government-passes-a-new-40-profit-tax-on-the-industry-international-mining-companies-warn-that.html)  [JSON](/news/2010/05/3/australian-mining-stocks-plummet-after-the-government-passes-a-new-40-profit-tax-on-the-industry-international-mining-companies-warn-that.json)  [XML](/news/2010/05/3/australian-mining-stocks-plummet-after-the-government-passes-a-new-40-profit-tax-on-the-industry-international-mining-companies-warn-that.xml)  
+
 ### [2010-05-3](/news/2010/05/3/index.md)
 
+##### Australia
 # Australian mining stocks plummet after the government passes a new 40% profit tax on the industry. International mining companies warn that many new mining projects may be canceled. 
 
 * PM Rudd plans mining tax in re-election gamble * Govt says Australians shortchanged by global miners * Future of tax uncertain as oppo
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSSGE64200320100503)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/idUSSGE64200320100503)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

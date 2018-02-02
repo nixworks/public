@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/14/a-stromatolite-colony-is-found-at-giant-s-causeway-in-northern-ireland.html)  [JSON](/news/2011/10/14/a-stromatolite-colony-is-found-at-giant-s-causeway-in-northern-ireland.json)  [XML](/news/2011/10/14/a-stromatolite-colony-is-found-at-giant-s-causeway-in-northern-ireland.xml)  
+
 ### [2011-10-14](/news/2011/10/14/index.md)
 
+##### stromatolite
 # A stromatolite colony is found at Giant's Causeway in Northern Ireland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-15299220)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56024000/jpg/_56024857_stromatolite1.jpg)

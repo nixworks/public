@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/8/former-u-s-vice-president-dick-cheney-is-charged-over-a-bribery-scheme-involving-oil-services-company-halliburton-by-nigeria-s-anti-corrupt.html)  [JSON](/news/2010/12/8/former-u-s-vice-president-dick-cheney-is-charged-over-a-bribery-scheme-involving-oil-services-company-halliburton-by-nigeria-s-anti-corrupt.json)  [XML](/news/2010/12/8/former-u-s-vice-president-dick-cheney-is-charged-over-a-bribery-scheme-involving-oil-services-company-halliburton-by-nigeria-s-anti-corrupt.xml)  
+
 ### [2010-12-8](/news/2010/12/8/index.md)
 
+##### Dick Cheney
 # Former U.S. vice-president Dick Cheney is charged over a bribery scheme involving oil services company Halliburton by Nigeria's anti-corruption agency. The charges relate to when he was the company's top executive. 
 
 It stems from a case involving Halliburton during the time the former US vice-president was its chief executive.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Sydney Morning Herald](http://www.smh.com.au/world/nigeria-charges-cheney-in-halliburton-bribery-scandal-20101208-18omp.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/201012851859695283.html)

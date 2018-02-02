@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/03/19/carlos-pascual-resigns-as-united-states-ambassador-to-mexico-due-in-part-to-tensions-with-the-president-of-mexico-felipe-caldera3n.html)  [JSON](/news/2011/03/19/carlos-pascual-resigns-as-united-states-ambassador-to-mexico-due-in-part-to-tensions-with-the-president-of-mexico-felipe-caldera3n.json)  [XML](/news/2011/03/19/carlos-pascual-resigns-as-united-states-ambassador-to-mexico-due-in-part-to-tensions-with-the-president-of-mexico-felipe-caldera3n.xml)  
+
 ### [2011-03-19](/news/2011/03/19/index.md)
 
+##### Carlos Pascual
 # Carlos Pascual resigns as United States Ambassador to Mexico due in part to tensions with the President of Mexico Felipe Calderon. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/03/20/us-mexico-usa-idUSTRE72J09F20110320?feedType=RSS&feedName=topNews)
+1. [Reuters](https://www.reuters.com/article/2011/03/20/us-mexico-usa-idUSTRE72J09F20110320?feedType=RSS&feedName=topNews)
 2. [U.S. State Department](http://www.state.gov/secretary/rm/2011/03/158664.htm)
 2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20110320&t=2&i=366983487&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-20T014813Z_01_BTRE72J050N00_RTROPTP_0_MEXICO)
 

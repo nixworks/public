@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/24/nominations-for-the-2012-academy-awards-are-announced.html)  [JSON](/news/2012/01/24/nominations-for-the-2012-academy-awards-are-announced.json)  [XML](/news/2012/01/24/nominations-for-the-2012-academy-awards-are-announced.xml)  
+
 ### [2012-01-24](/news/2012/01/24/index.md)
 
+##### 2012 Academy Awards
 # Nominations for the 2012 Academy Awards are announced 
 
 Martin Scorsese&#039;s adventure film Hugo leads the Academy Awards with 11 nominations, including Best Picture and Best Director.
 
 
-### Source:
+### Sources:
 
 1. [Academy Awards website](http://www.oscars.org/)
 2. [The Telegraph](http://www.telegraph.co.uk/culture/film/oscars/9036586/Oscar-nominations-2012-Hugo-leads-the-way.html)

@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2008/05/8/the-iraqi-minister-of-defence-claims-that-the-leader-of-al-qaeda-in-iraq-abu-ayyub-al-masri-has-been-captured.html)  [JSON](/news/2008/05/8/the-iraqi-minister-of-defence-claims-that-the-leader-of-al-qaeda-in-iraq-abu-ayyub-al-masri-has-been-captured.json)  [XML](/news/2008/05/8/the-iraqi-minister-of-defence-claims-that-the-leader-of-al-qaeda-in-iraq-abu-ayyub-al-masri-has-been-captured.xml)  
+
 ### [2008-05-8](/news/2008/05/8/index.md)
 
+##### Iraq
 #  The Iraqi Minister of Defence claims that the leader of Al-Qaeda in Iraq, Abu Ayyub al-Masri, has been captured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7391423.stm)
 
 ### Related:
 
 1. [A large explosion hits an Iraqi Ministry of Defence complex in Baghdad. ](/news/2010/09/5/a-large-explosion-hits-an-iraqi-ministry-of-defence-complex-in-baghdad.md) _Context: Iraq, Iraqi Defense Minister_
-2. [ Ayman al-Zawahiri, number two leader of al Qaeda, questions Abu Ayyub al-Masri's ability to lead al Qaeda in Iraq, and accuses that organization's umbrella group, the Islamic State of Iraq, of lying to the media about its activities. ](/news/2008/09/11/ayman-al-zawahiri-number-two-leader-of-al-qaeda-questions-abu-ayyub-al-masri-s-ability-to-lead-al-qaeda-in-iraq-and-accuses-that-organiz.md) _Context: Abu Ayyub al-Masri, al-Qaeda in Iraq_
-3. [ The United States Military denies the capture of al-Qaeda in Iraq leader Abu Ayyub al-Masri. ](/news/2008/05/9/the-united-states-military-denies-the-capture-of-al-qaeda-in-iraq-leader-abu-ayyub-al-masri.md) _Context: Abu Ayyub al-Masri, al-Qaeda in Iraq_
-4. [ Sixty suspected Al Qaeda in Iraq gunmen attack police facilities in Samarra, Iraq, resulting in at least 3 deaths and 9 injuries. ](/news/2007/08/24/sixty-suspected-al-qaeda-in-iraq-gunmen-attack-police-facilities-in-samarra-iraq-resulting-in-at-least-3-deaths-and-9-injuries.md) _Context: Iraq, al-Qaeda in Iraq_
-5. [ At least 25 people are killed, 22 arrested and five abducted as suspected Al Qaeda in Iraq militants attack a Sunni mosque in Baquba, Iraq. ](/news/2007/08/23/at-least-25-people-are-killed-22-arrested-and-five-abducted-as-suspected-al-qaeda-in-iraq-militants-attack-a-sunni-mosque-in-baquba-iraq.md) _Context: Iraq, al-Qaeda in Iraq_
+2. [ Reports indicate that Abu Ayyub al-Masri, also known as Abu Hamza al-Muhajir, the leader of Al-Qaeda in Iraq who succeeded Abu Musab al-Zarqawi after his death, may have been killed in Haditha. A body initially tentatively identified as his is undergoing DNA analysis but most government sources are skeptical. ](/news/2006/10/5/reports-indicate-that-abu-ayyub-al-masri-also-known-as-abu-hamza-al-muhajir-the-leader-of-al-qaeda-in-iraq-who-succeeded-abu-musab-al-zar.md) _Context: Abu Ayyub al-Masri, Al-Qaeda in Iraq_
+3. [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md) _Context: Iraq_
+4. [A double suicide bombing kills at least 35 people and injures over 90 in Baghdad, Iraq. ](/news/2018/01/15/a-double-suicide-bombing-kills-at-least-35-people-and-injures-over-90-in-baghdad-iraq.md) _Context: Iraq_
+5. [Iraq announces that its war against Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vile-occupati.md) _Context: Iraq_

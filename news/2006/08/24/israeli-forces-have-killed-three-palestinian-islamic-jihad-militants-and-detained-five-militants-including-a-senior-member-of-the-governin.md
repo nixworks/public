@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/24/israeli-forces-have-killed-three-palestinian-islamic-jihad-militants-and-detained-five-militants-including-a-senior-member-of-the-governin.html)  [JSON](/news/2006/08/24/israeli-forces-have-killed-three-palestinian-islamic-jihad-militants-and-detained-five-militants-including-a-senior-member-of-the-governin.json)  [XML](/news/2006/08/24/israeli-forces-have-killed-three-palestinian-islamic-jihad-militants-and-detained-five-militants-including-a-senior-member-of-the-governin.xml)  
+
 ### [2006-08-24](/news/2006/08/24/index.md)
 
+##### Israel
 #  Israeli forces have killed three Palestinian Islamic Jihad militants and detained five militants, including a senior member of the governing Hamas movement in two separate incidents in southern Gaza. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/A135E6C7-FBB3-4369-8C27-E2E0F403E3B2.htm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5273882.stm)

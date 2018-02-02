@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/3/speaking-during-the-ongoing-fifth-tokyo-international-conference-on-african-development-ticad-v-in-yokohama-zambian-president-michael-sat.html)  [JSON](/news/2013/06/3/speaking-during-the-ongoing-fifth-tokyo-international-conference-on-african-development-ticad-v-in-yokohama-zambian-president-michael-sat.json)  [XML](/news/2013/06/3/speaking-during-the-ongoing-fifth-tokyo-international-conference-on-african-development-ticad-v-in-yokohama-zambian-president-michael-sat.xml)  
+
 ### [2013-06-3](/news/2013/06/3/index.md)
 
+##### Tokyo International Conference on African Development
 # Speaking during the ongoing Fifth Tokyo International Conference on African Development (TICAD V) in Yokohama, Zambian President Michael Sata says developed nations have used Africa as a "guinea pig" for the past 50 years, taking its raw materials while pretending to help it. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/africa/2013-06/03/c_132427846.htm)
 

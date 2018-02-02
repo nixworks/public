@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/26/in-the-louisville-community-of-st-matthews-kentucky-us-disruptive-behavior-by-a-crowd-of-up-to-2-000-teenagers-and-young-adults-includ.html)  [JSON](/news/2015/12/26/in-the-louisville-community-of-st-matthews-kentucky-us-disruptive-behavior-by-a-crowd-of-up-to-2-000-teenagers-and-young-adults-includ.json)  [XML](/news/2015/12/26/in-the-louisville-community-of-st-matthews-kentucky-us-disruptive-behavior-by-a-crowd-of-up-to-2-000-teenagers-and-young-adults-includ.xml)  
+
 ### [2015-12-26](/news/2015/12/26/index.md)
 
+##### Louisville, Kentucky
 #  In the Louisville community of St. Matthews, Kentucky, US, disruptive behavior by a crowd of up to 2,000 teenagers and young adults, including numerous fights and unconfirmed reports of gunshots fired, causes Mall St. Matthews, one of the largest shopping malls in the state, to close early. Despite the unrest, no arrests were made and only minor injuries were reported. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/kentucky-s-mall-st-matthews-shuts-down-after-brawls-involving-n486341)
 1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2015_52/1354426/151227-mall-st-matthews-fight-yh-11a_91c07aa0cdf05f6e6921a65f8249afd2.nbcnews-fp-1200-800.jpg)

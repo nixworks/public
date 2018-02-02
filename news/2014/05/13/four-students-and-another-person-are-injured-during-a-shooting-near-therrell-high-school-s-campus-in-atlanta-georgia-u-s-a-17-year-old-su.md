@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/13/four-students-and-another-person-are-injured-during-a-shooting-near-therrell-high-school-s-campus-in-atlanta-georgia-u-s-a-17-year-old-su.html)  [JSON](/news/2014/05/13/four-students-and-another-person-are-injured-during-a-shooting-near-therrell-high-school-s-campus-in-atlanta-georgia-u-s-a-17-year-old-su.json)  [XML](/news/2014/05/13/four-students-and-another-person-are-injured-during-a-shooting-near-therrell-high-school-s-campus-in-atlanta-georgia-u-s-a-17-year-old-su.xml)  
+
 ### [2014-05-13](/news/2014/05/13/index.md)
 
+##### Therrell High School
 # Four students and another person are injured during a shooting near Therrell High School's campus in Atlanta, Georgia, U.S. A 17-year-old suspect is arrested. 
 
 Police have arrested a 17-year-old boy and charged him with five counts of aggravated assault after he allegedly shot and injured five people near a southwest Atlanta high school on Tuesday, according to a published report.
 
 
-### Source:
+### Sources:
 
 1. [FOX News](http://www.foxnews.com/us/2014/05/14/5-shot-near-atlanta-high-school/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2014/05/14/5-shot-near-atlanta-high-school/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422702661426.jpg?ve=1)

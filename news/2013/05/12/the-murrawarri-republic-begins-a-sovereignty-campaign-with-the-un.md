@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/12/the-murrawarri-republic-begins-a-sovereignty-campaign-with-the-un.html)  [JSON](/news/2013/05/12/the-murrawarri-republic-begins-a-sovereignty-campaign-with-the-un.json)  [XML](/news/2013/05/12/the-murrawarri-republic-begins-a-sovereignty-campaign-with-the-un.xml)  
+
 ### [2013-05-12](/news/2013/05/12/index.md)
 
+##### Murrawarri Republic
 # The Murrawarri Republic begins a sovereignty campaign with the UN. 
 
 Activists in northern New South Wales, who&#039;ve declared an Aboriginal republic, say they will take their campaign to the United Nations.
 
 
-### Source:
+### Sources:
 
 1. [SBS](http://www.sbs.com.au/news/article/1765174/Murrawarri-people-take-sovereignty-campaign-to-UN)
 1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/7/0/7048_murrawarri-nsw-indig-sbs-130511-b.jpg)

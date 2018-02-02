@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/3/telecommunications-company-vodafone-is-fined-rs-1-263-crores-for-under-reporting-its-income-from-2007-11.html)  [JSON](/news/2013/06/3/telecommunications-company-vodafone-is-fined-rs-1-263-crores-for-under-reporting-its-income-from-2007-11.json)  [XML](/news/2013/06/3/telecommunications-company-vodafone-is-fined-rs-1-263-crores-for-under-reporting-its-income-from-2007-11.xml)  
+
 ### [2013-06-3](/news/2013/06/3/index.md)
 
+##### Vodafone Group Plc
 # Telecommunications company Vodafone is fined Rs. 1,263 crores for under reporting its income from 2007-11. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/business-news/CorporateNews/DoT-slaps-Rs-1-263-cr-fine-on-Vodafone-for-under-reporting-revenues/Article1-1070395.aspx)
 

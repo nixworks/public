@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/7/more-than-143-million-people-in-the-u-s-may-have
 
 ### [2017-09-7](/news/2017/09/7/index.md)
 
+##### Identity theft in the United States
 # More than 143 million people in the U.S. may have had their social security and driver's license numbers compromised due to a data breach on the credit rating firm Equifax. 
 
 Criminals gained access to certain files in the company’s system from mid-May to July, according to an investigation by Equifax.

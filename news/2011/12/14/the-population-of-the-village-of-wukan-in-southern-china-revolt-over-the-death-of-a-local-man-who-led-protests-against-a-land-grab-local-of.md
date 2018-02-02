@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/14/the-population-of-the-village-of-wukan-in-southern-china-revolt-over-the-death-of-a-local-man-who-led-protests-against-a-land-grab-local-of.html)  [JSON](/news/2011/12/14/the-population-of-the-village-of-wukan-in-southern-china-revolt-over-the-death-of-a-local-man-who-led-protests-against-a-land-grab-local-of.json)  [XML](/news/2011/12/14/the-population-of-the-village-of-wukan-in-southern-china-revolt-over-the-death-of-a-local-man-who-led-protests-against-a-land-grab-local-of.xml)  
+
 ### [2011-12-14](/news/2011/12/14/index.md)
 
+##### Wukan
 # The population of the village of Wukan in southern China revolt over the death of a local man who led protests against a land grab; local officials and police flee. 
 
 Chinese officials have ratcheted up pressure on the rebel village of Wukan, as it entered its fourth day of a police siege, by allegedly ransoming four men who were seized from the village last week.
 
 
-### Source:
+### Sources:
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/8957048/Wukan-siege-Chinese-officials-hold-village-to-ransom.html)
 2. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970204026804577098633988592556.html?mod=googlenews_wsj)

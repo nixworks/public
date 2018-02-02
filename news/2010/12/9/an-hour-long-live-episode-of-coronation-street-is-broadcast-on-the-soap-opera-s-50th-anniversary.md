@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/9/an-hour-long-live-episode-of-coronation-street-is-broadcast-on-the-soap-opera-s-50th-anniversary.html)  [JSON](/news/2010/12/9/an-hour-long-live-episode-of-coronation-street-is-broadcast-on-the-soap-opera-s-50th-anniversary.json)  [XML](/news/2010/12/9/an-hour-long-live-episode-of-coronation-street-is-broadcast-on-the-soap-opera-s-50th-anniversary.xml)  
+
 ### [2010-12-9](/news/2010/12/9/index.md)
 
+##### Coronation Street
 # An hour-long live episode of "Coronation Street" is broadcast on the soap opera's 50th anniversary. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11961384)
 2. [Daily Mail](http://www.dailymail.co.uk/tvshowbiz/article-1337239/Coronation-Street-cast-deliver-flawless-performance-live-celebrate-soaps-50th-anniversary.html?ito=feeds-newsxml)

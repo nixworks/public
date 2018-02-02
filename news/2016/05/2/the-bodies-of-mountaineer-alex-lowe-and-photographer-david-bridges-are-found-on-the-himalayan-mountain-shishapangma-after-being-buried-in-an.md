@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/2/the-bodies-of-mountaineer-alex-lowe-and-photogra
 
 ### [2016-05-2](/news/2016/05/2/index.md)
 
+##### Alex Lowe
 # The bodies of mountaineer Alex Lowe and photographer David Bridges are found on the Himalayan mountain Shishapangma after being buried in an avalanche in 1999. 
 
 The American known as ‘Lungs With Legs’ was climbing the 8,013m Shishapangma in 1999 when he was hit by an avalanche

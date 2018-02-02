@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/29/the-russian-aviation-and-space-agency-says-that-as-of-2006-it-will-charge-the-u-s-for-transporting-astronauts-to-the-international-space.html)  [JSON](/news/2004/12/29/the-russian-aviation-and-space-agency-says-that-as-of-2006-it-will-charge-the-u-s-for-transporting-astronauts-to-the-international-space.json)  [XML](/news/2004/12/29/the-russian-aviation-and-space-agency-says-that-as-of-2006-it-will-charge-the-u-s-for-transporting-astronauts-to-the-international-space.xml)  
+
 ### [2004-12-29](/news/2004/12/29/index.md)
 
+##### Russian Aviation and Space Agency
 #  The Russian Aviation and Space Agency says that as of 2006, it will charge the U.S. for transporting astronauts to the International Space Station. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4131363.stm)
 

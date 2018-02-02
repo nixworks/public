@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2005/04/26/the-death-toll-in-the-amagasaki-rail-crash-reaches-73-police-searches-the-offices-of-west-japan-railway-co-looking-for-clues-for-the-cause.html)  [JSON](/news/2005/04/26/the-death-toll-in-the-amagasaki-rail-crash-reaches-73-police-searches-the-offices-of-west-japan-railway-co-looking-for-clues-for-the-cause.json)  [XML](/news/2005/04/26/the-death-toll-in-the-amagasaki-rail-crash-reaches-73-police-searches-the-offices-of-west-japan-railway-co-looking-for-clues-for-the-cause.xml)  
+
 ### [2005-04-26](/news/2005/04/26/index.md)
 
+##### death toll
 #  The death toll in the Amagasaki rail crash reaches 73. Police searches the offices of West Japan Railway Co looking for clues for the cause of the crash. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=ah.gQcMVrJQA&refer=top_world_news)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000087&sid=ah.gQcMVrJQA&refer=top_world_news)
 2. [Japan Today](http://www.japantoday.com/e/?content=news&cat=2&id=335311)
 3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/T345548.htm)
-4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8289081)
-4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+4. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8289081)
+4. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/7/a-paris-court-sentences-former-panamanian-dictator-manuel-noriega-to-seven-years-in-jail-for-money-laundering-in-france-for-the-medellin-dru.html)  [JSON](/news/2010/07/7/a-paris-court-sentences-former-panamanian-dictator-manuel-noriega-to-seven-years-in-jail-for-money-laundering-in-france-for-the-medellin-dru.json)  [XML](/news/2010/07/7/a-paris-court-sentences-former-panamanian-dictator-manuel-noriega-to-seven-years-in-jail-for-money-laundering-in-france-for-the-medellin-dru.xml)  
+
 ### [2010-07-7](/news/2010/07/7/index.md)
 
+##### Paris
 # A Paris court sentences former Panamanian dictator Manuel Noriega to seven years in jail for money laundering in France for the Medellin drug cartel in the 1980s. 
 
 Ex-ruler of Panama sentenced to seven years in prison for laundering drug money.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/201077124229971856.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10542179.stm)

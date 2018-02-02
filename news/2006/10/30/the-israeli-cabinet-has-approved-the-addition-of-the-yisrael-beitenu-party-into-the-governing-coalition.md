@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/30/the-israeli-cabinet-has-approved-the-addition-of-the-yisrael-beitenu-party-into-the-governing-coalition.html)  [JSON](/news/2006/10/30/the-israeli-cabinet-has-approved-the-addition-of-the-yisrael-beitenu-party-into-the-governing-coalition.json)  [XML](/news/2006/10/30/the-israeli-cabinet-has-approved-the-addition-of-the-yisrael-beitenu-party-into-the-governing-coalition.xml)  
+
 ### [2006-10-30](/news/2006/10/30/index.md)
 
+##### Israeli cabinet
 #  The Israeli cabinet has approved the addition of the Yisrael Beitenu party into the governing coalition. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/middle_east/6098310.stm)
 

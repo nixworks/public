@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/09/28/all-the-ministers-from-silvio-berlusconi-s-people-of-freedom-party-resign-from-the-government-of-italy.html)  [JSON](/news/2013/09/28/all-the-ministers-from-silvio-berlusconi-s-people-of-freedom-party-resign-from-the-government-of-italy.json)  [XML](/news/2013/09/28/all-the-ministers-from-silvio-berlusconi-s-people-of-freedom-party-resign-from-the-government-of-italy.xml)  
+
 ### [2013-09-28](/news/2013/09/28/index.md)
 
+##### Silvio Berlusconi
 # All the ministers from Silvio Berlusconi's People of Freedom party resign from the Government of Italy. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/09/28/us-italy-politics-berlusconi-idUSBRE98R0AS20130928)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130928&t=2&i=798206956&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE98R1AKQ00)
+1. [Reuters](https://www.reuters.com/article/2013/09/28/us-italy-politics-berlusconi-idUSBRE98R0AS20130928)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130928&t=2&i=798206956&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE98R1AKQ00)
 
 ### Related:
 

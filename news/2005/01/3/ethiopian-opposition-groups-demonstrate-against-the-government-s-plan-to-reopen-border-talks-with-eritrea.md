@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/3/ethiopian-opposition-groups-demonstrate-against-the-government-s-plan-to-reopen-border-talks-with-eritrea.html)  [JSON](/news/2005/01/3/ethiopian-opposition-groups-demonstrate-against-the-government-s-plan-to-reopen-border-talks-with-eritrea.json)  [XML](/news/2005/01/3/ethiopian-opposition-groups-demonstrate-against-the-government-s-plan-to-reopen-border-talks-with-eritrea.xml)  
+
 ### [2005-01-3](/news/2005/01/3/index.md)
 
+##### Ethiopia
 #  Ethiopian opposition groups demonstrate against the government's plan to reopen border talks with Eritrea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4141515.stm)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=87&art_id=qw1104657121562E316)

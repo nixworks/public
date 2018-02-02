@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/3/the-u-s-house-of-representatives-passes-legislat
 
 ### [2017-10-3](/news/2017/10/3/index.md)
 
+##### Abortion in the United States
 # The U.S. House of Representatives passes legislation (Pain-Capable Unborn Child Protection Act) which would criminalize abortions made 20 weeks into a pregnancy, except for cases endangering the mother's life, rape, or incest. 
 
 

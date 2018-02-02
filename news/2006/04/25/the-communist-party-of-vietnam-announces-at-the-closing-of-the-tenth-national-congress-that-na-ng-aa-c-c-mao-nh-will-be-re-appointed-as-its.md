@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/25/the-communist-party-of-vietnam-announces-at-the-closing-of-the-tenth-national-congress-that-na-ng-aa-c-c-mao-nh-will-be-re-appointed-as-its.html)  [JSON](/news/2006/04/25/the-communist-party-of-vietnam-announces-at-the-closing-of-the-tenth-national-congress-that-na-ng-aa-c-c-mao-nh-will-be-re-appointed-as-its.json)  [XML](/news/2006/04/25/the-communist-party-of-vietnam-announces-at-the-closing-of-the-tenth-national-congress-that-na-ng-aa-c-c-mao-nh-will-be-re-appointed-as-its.xml)  
+
 ### [2006-04-25](/news/2006/04/25/index.md)
 
+##### Communist Party
 #  The Communist Party of Vietnam announces at the closing of the Tenth National Congress that Nong Duc Manh will be re-appointed as its general secretary for another five-year term. Other key positions, such as those of prime minister and president, are yet to be appointed. New faces are expected. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4941144.stm)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/07/12/an-israeli-soldier-is-killed-by-hamas-forces-in-the-gaza-strip-it-is-the-first-israeli-combat-casualty-since-november-2006.html)  [JSON](/news/2007/07/12/an-israeli-soldier-is-killed-by-hamas-forces-in-the-gaza-strip-it-is-the-first-israeli-combat-casualty-since-november-2006.json)  [XML](/news/2007/07/12/an-israeli-soldier-is-killed-by-hamas-forces-in-the-gaza-strip-it-is-the-first-israeli-combat-casualty-since-november-2006.xml)  
+
 ### [2007-07-12](/news/2007/07/12/index.md)
 
+##### Israel
 #  An Israeli soldier is killed by Hamas forces in the Gaza Strip. It is the first Israeli combat casualty since November 2006. 
 
 JERUSALEM, July 12 — An Israeli soldier was killed early this morning during a military incursion in the central Gaza Strip, an army spokesman said. He was the first Israeli killed in combat since November 2006.
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/2007/07/12/world/middleeast/12cnd-mideast.html?ex=1341892800&en=02f19cca6a591fed&ei=5088&partner=rssnyt&emc=rss)
+1. [NYT](https://www.nytimes.com/2007/07/12/world/middleeast/12cnd-mideast.html?ex=1341892800&en=02f19cca6a591fed&ei=5088&partner=rssnyt&emc=rss)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

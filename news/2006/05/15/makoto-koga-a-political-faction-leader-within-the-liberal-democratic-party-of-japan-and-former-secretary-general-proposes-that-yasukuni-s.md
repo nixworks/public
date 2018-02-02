@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/15/makoto-koga-a-political-faction-leader-within-the-liberal-democratic-party-of-japan-and-former-secretary-general-proposes-that-yasukuni-s.html)  [JSON](/news/2006/05/15/makoto-koga-a-political-faction-leader-within-the-liberal-democratic-party-of-japan-and-former-secretary-general-proposes-that-yasukuni-s.json)  [XML](/news/2006/05/15/makoto-koga-a-political-faction-leader-within-the-liberal-democratic-party-of-japan-and-former-secretary-general-proposes-that-yasukuni-s.xml)  
+
 ### [2006-05-15](/news/2006/05/15/index.md)
 
+##### Makoto Koga
 #  Makoto Koga, a political faction leader within the Liberal Democratic Party of Japan and former secretary general, proposes that Yasukuni Shrine set up a separate shrine for the 14 Class-A war criminals enshrined there. 
 
 The Asahi Shimbun is widely regarded for its journalism as the most respected daily newspaper in Japan. The English version offers selected articles from the vernacular Asahi Shimbun, as well as extensive coverage of cool Japan,focusing on manga, travel and other timely news
 
 
-### Source:
+### Sources:
 
 1. [Asahi Shimbun](http://www.asahi.com/english/Herald-asahi/TKY200605150117.html)
 2. [Asahi Shimbun](http://www.asahi.com/english/Herald-asahi/TKY200605150118.html)

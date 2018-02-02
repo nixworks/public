@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/11/thousands-of-protesters-in-leipzig-demonstrate-
 
 ### [2016-01-11](/news/2016/01/11/index.md)
 
+##### New Year's Eve sexual assaults in Germany
 # Thousands of protesters in Leipzig demonstrate against a record refugee influx they blame for mass sexual violence at New Year's Eve events in Cologne and other German cities. Many chanted 'We are the people', 'Resistance!' and 'Deport them!'. The rally was organized by a local chapter of PEGIDA (Patriotic Europeans Against the Islamisation of the Occident). Six Pakistani men and one Syrian man were also attacked by so-called vigilantes in Cologne, following calls on social media for "revenge" in the wake of the New Year's Eve assaults. 
 
 

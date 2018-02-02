@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/9/over-12-inches-of-rain-fail-on-pensacola-florida-and-adjacent-areas-leading-to-widespread-flooding.html)  [JSON](/news/2012/06/9/over-12-inches-of-rain-fail-on-pensacola-florida-and-adjacent-areas-leading-to-widespread-flooding.json)  [XML](/news/2012/06/9/over-12-inches-of-rain-fail-on-pensacola-florida-and-adjacent-areas-leading-to-widespread-flooding.xml)  
+
 ### [2012-06-9](/news/2012/06/9/index.md)
 
+##### Pensacola, Florida
 # Over 12 inches of rain fail on Pensacola, Florida and adjacent areas, leading to widespread flooding. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Weather Channel](http://www.weather.com/news/gulf-flooding-storify-20120609)
 

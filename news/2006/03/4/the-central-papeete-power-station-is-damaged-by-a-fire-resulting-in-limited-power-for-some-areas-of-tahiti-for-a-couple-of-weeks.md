@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/4/the-central-papeete-power-station-is-damaged-by-a-fire-resulting-in-limited-power-for-some-areas-of-tahiti-for-a-couple-of-weeks.html)  [JSON](/news/2006/03/4/the-central-papeete-power-station-is-damaged-by-a-fire-resulting-in-limited-power-for-some-areas-of-tahiti-for-a-couple-of-weeks.json)  [XML](/news/2006/03/4/the-central-papeete-power-station-is-damaged-by-a-fire-resulting-in-limited-power-for-some-areas-of-tahiti-for-a-couple-of-weeks.xml)  
+
 ### [2006-03-4](/news/2006/03/4/index.md)
 
+##### Papeete
 #  The central Papeete power station is damaged by a fire, resulting in limited power for some areas of Tahiti for a couple of weeks.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Pacific Magazine](http://www.pacificmagazine.net/pina/pinadefault2.php?urlpinaid=20702)
 

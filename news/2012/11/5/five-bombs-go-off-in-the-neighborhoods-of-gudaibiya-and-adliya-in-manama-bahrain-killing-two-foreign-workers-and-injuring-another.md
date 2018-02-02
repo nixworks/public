@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/5/five-bombs-go-off-in-the-neighborhoods-of-gudaibiya-and-adliya-in-manama-bahrain-killing-two-foreign-workers-and-injuring-another.html)  [JSON](/news/2012/11/5/five-bombs-go-off-in-the-neighborhoods-of-gudaibiya-and-adliya-in-manama-bahrain-killing-two-foreign-workers-and-injuring-another.json)  [XML](/news/2012/11/5/five-bombs-go-off-in-the-neighborhoods-of-gudaibiya-and-adliya-in-manama-bahrain-killing-two-foreign-workers-and-injuring-another.xml)  
+
 ### [2012-11-5](/news/2012/11/5/index.md)
 
+##### Gudaibiya
 # Five bombs go off in the neighborhoods of Gudaibiya and Adliya in Manama, Bahrain, killing two foreign workers and injuring another. 
 
 Two foreign workers have been killed and a third person seriously injured by bomb blasts in the Bahraini capital, Manama, police say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20203602)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63927000/jpg/_63927813_63927812.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/4/the-two-day-nato-summit-in-newport-wales-begins-leaders-agree-to-apply-further-sanctions-on-russia-nato-sources-claim-that-there-are-se.html)  [JSON](/news/2014/09/4/the-two-day-nato-summit-in-newport-wales-begins-leaders-agree-to-apply-further-sanctions-on-russia-nato-sources-claim-that-there-are-se.json)  [XML](/news/2014/09/4/the-two-day-nato-summit-in-newport-wales-begins-leaders-agree-to-apply-further-sanctions-on-russia-nato-sources-claim-that-there-are-se.xml)  
+
 ### [2014-09-4](/news/2014/09/4/index.md)
 
+##### NATO
 # The two-day NATO summit in Newport, Wales, begins. Leaders agree to apply further sanctions on Russia. NATO sources claim that there are "several thousand" Russian troops inside Ukraine. 
 
 NATO leaders have agreed that Russia should face increased sanctions for its actions in eastern Ukraine.
 
 
-### Source:
+### Sources:
 
 1. [RTE](http://www.rte.ie/news/2014/0904/641327-ukraine/)
 1. [Cover Image](https://img.rasset.ie/00097234-1600.jpg)
@@ -16,4 +20,4 @@ NATO leaders have agreed that Russia should face increased sanctions for its act
 2. [The Parliament of Ukraine removes the country's legislative block on forming military alliances, allowing the government to push forward with plans to accede to NATO. ](/news/2014/12/23/the-parliament-of-ukraine-removes-the-countryas-legislative-block-on-forming-military-alliances-allowing-the-government-to-push-forward-w.md) _Context: NATO, Ukraine_
 3. [NATO claims that Russian Army troops and military equipment have entered Ukraine. ](/news/2014/11/12/nato-claims-that-russian-army-troops-and-military-equipment-have-entered-ukraine.md) _Context: NATO, Ukraine_
 4. [The President of the United States visits Estonia in a move to reassure the Baltic states ahead of a NATO summit in Wales. ](/news/2014/09/3/the-president-of-the-united-states-visits-estonia-in-a-move-to-reassure-the-baltic-states-ahead-of-a-nato-summit-in-wales.md) _Context: NATO, Wales_
-5. [Thirty thousand people are evacuated from Kalynivka, Ukraine, following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-from-kalynivka-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-gov.md) _Context: Ukraine_
+5. [Six insurgents kill at least 18 people, including 4 Afghans and 14 foreigners, in a 13-hour gun battle. The Afghan Interior Ministry says that the siege ended when the last gunman was shot dead. NATO reports that "no foreign troops" died. The Taliban claim that they sent five suicide bombers armed with hand grenades and AK-47 assault rifles. The Afghan government blames the attack on the Pakistan-based Haqqani network. ](/news/2018/01/21/six-insurgents-kill-at-least-18-people-including-4-afghans-and-14-foreigners-in-a-13-hour-gun-battle-the-afghan-interior-ministry-says-th.md) _Context: NATO_

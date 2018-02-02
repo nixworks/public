@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/2/cuban-foreign-minister-felipe-perez-roque-claims-leader-fidel-castro-is-recovering-from-his-illness-and-could-come-back-to-lead-cuba-again.html)  [JSON](/news/2007/03/2/cuban-foreign-minister-felipe-perez-roque-claims-leader-fidel-castro-is-recovering-from-his-illness-and-could-come-back-to-lead-cuba-again.json)  [XML](/news/2007/03/2/cuban-foreign-minister-felipe-perez-roque-claims-leader-fidel-castro-is-recovering-from-his-illness-and-could-come-back-to-lead-cuba-again.xml)  
+
 ### [2007-03-2](/news/2007/03/2/index.md)
 
+##### Cuba
 #  Cuban foreign minister Felipe Prez Roque claims leader Fidel Castro is recovering from his illness and could come back to lead Cuba again. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/americas/03/02/castro.recovery.reut/index.html)
 

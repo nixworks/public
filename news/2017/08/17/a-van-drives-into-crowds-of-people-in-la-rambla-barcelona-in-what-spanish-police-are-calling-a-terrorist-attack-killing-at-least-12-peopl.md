@@ -1,11 +1,9 @@
 
-### Formats:
+Formats: [HTML](/news/2017/08/17/a-van-drives-into-crowds-of-people-in-la-rambla-barcelona-in-what-spanish-police-are-calling-a-terrorist-attack-killing-at-least-12-peopl.html)  [JSON](/news/2017/08/17/a-van-drives-into-crowds-of-people-in-la-rambla-barcelona-in-what-spanish-police-are-calling-a-terrorist-attack-killing-at-least-12-peopl.json)  [XML](/news/2017/08/17/a-van-drives-into-crowds-of-people-in-la-rambla-barcelona-in-what-spanish-police-are-calling-a-terrorist-attack-killing-at-least-12-peopl.xml)  
 
-* [HTML](/news/2017/08/17/a-van-drives-into-crowds-of-people-in-la-rambla-barcelona-in-what-spanish-police-are-calling-a-terrorist-attack-killing-at-least-12-peopl.html)
-* [JSON](/news/2017/08/17/a-van-drives-into-crowds-of-people-in-la-rambla-barcelona-in-what-spanish-police-are-calling-a-terrorist-attack-killing-at-least-12-peopl.json)
-* [XML](/news/2017/08/17/a-van-drives-into-crowds-of-people-in-la-rambla-barcelona-in-what-spanish-police-are-calling-a-terrorist-attack-killing-at-least-12-peopl.xml)
 ### [2017-08-17](/news/2017/08/17/index.md)
 
+##### van attack
 # A van drives into crowds of people in La Rambla, Barcelona, in what Spanish police are calling a terrorist attack, killing at least 12 people. Two suspects are taken into custody, and ISIL claims responsibility. 
 
 The Islamic State later claimed responsibility for the attack, which Spanish authorities were treating as terrorism.
@@ -27,7 +25,7 @@ The Islamic State later claimed responsibility for the attack, which Spanish aut
 ### Related:
 
 1. [Spanish police hunting the chief suspect in last Thursday's van attack in Barcelona shoot dead a man to the west of the city who appeared to be wearing an explosive belt. ](/news/2017/08/21/spanish-police-hunting-the-chief-suspect-in-last-thursday-s-van-attack-in-barcelona-shoot-dead-a-man-to-the-west-of-the-city-who-appeared-to.md) _Context: Barcelona, van attack_
-2. [The Syrian Army and its allies capture Abu Kamal from the Islamic State of Iraq and the Levant. ](/news/2017/11/8/the-syrian-army-and-its-allies-capture-abu-kamal-from-the-islamic-state-of-iraq-and-the-levant.md) _Context: Islamic State of Iraq and the Levant_
-3. [The Syrian Army (SAA) and allies announce the complete liberation of Deir ez-Zor from ISIL. ](/news/2017/11/3/the-syrian-army-saa-and-allies-announce-the-complete-liberation-of-deir-ez-zor-from-isil.md) _Context: Islamic State of Iraq and the Levant_
-4. [The Iraqi Armed Forces enter the town of Al-Qa'im, close to the border with Syria. Al-Qa'im is one of the last towns in Iraq still held by ISIL. ](/news/2017/11/3/the-iraqi-armed-forces-enter-the-town-of-al-qa-im-close-to-the-border-with-syria-al-qa-im-is-one-of-the-last-towns-in-iraq-still-held-by-i.md) _Context: Islamic State of Iraq and the Levant_
-5. [At least 350,000 people attend a rally in Barcelona to oppose Catalan independence. ](/news/2017/10/8/at-least-350-000-people-attend-a-rally-in-barcelona-to-oppose-catalan-independence.md) _Context: Barcelona_
+2. [A suicide bomber attack near a group of security personnel investigating illegal drugs and alcohol dealing in Kabul, Afghanistan, kills at least 20, wounding another 27 policemen. The Islamic State claims responsibility for the attack. ](/news/2018/01/4/a-suicide-bomber-attack-near-a-group-of-security-personnel-investigating-illegal-drugs-and-alcohol-dealing-in-kabul-afghanistan-kills-at-l.md) _Context: ISIL_
+3. [The U.S.-led coalition against ISIL says it has killed up to 150 militants in air strikes on a headquarters in Deir ez-Zor Governorate, Syria. ](/news/2018/01/24/the-u-s-led-coalition-against-isil-says-it-has-killed-up-to-150-militants-in-air-strikes-on-a-headquarters-in-deir-ez-zor-governorate-syri.md) _Context: ISIL_
+4. [Iraq announces that its war against Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vile-occupati.md) _Context: ISIL_
+5. [President Vladimir Putin declares victory over the Islamic State terror group across both banks of the river Euphrates. ](/news/2017/12/6/president-vladimir-putin-declares-victory-over-the-islamic-state-terror-group-across-both-banks-of-the-river-euphrates.md) _Context: ISIL_

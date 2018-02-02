@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/02/24/in-protest-of-emi-s-attempts-to-stop-the-distribution-of-dj-danger-mouse-s-the-grey-album-several-hundred-websites-post-the-album-for-do.html)  [JSON](/news/2004/02/24/in-protest-of-emi-s-attempts-to-stop-the-distribution-of-dj-danger-mouse-s-the-grey-album-several-hundred-websites-post-the-album-for-do.json)  [XML](/news/2004/02/24/in-protest-of-emi-s-attempts-to-stop-the-distribution-of-dj-danger-mouse-s-the-grey-album-several-hundred-websites-post-the-album-for-do.xml)  
+
 ### [2004-02-24](/news/2004/02/24/index.md)
 
+##### EMI
 #  In protest of EMI's attempts to stop the distribution of DJ Danger Mouse's "The Grey Album", several hundred websites post the album for download in a coordinated act of civil disobedience known as Grey Tuesday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [P2PNet](http://p2pnet.net/story/830)
-2. [TheRegister](http://www.theregister.co.uk/content/6/35692.html)
+2. [TheRegister](https://www.theregister.co.uk/content/6/35692.html)
 2. [Cover Image](https://regmedia.co.uk/2013/02/05/default_image-2.png?x=1200&y=794)
 
 ### Related:

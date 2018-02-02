@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/28/australian-immigration-minister-peter-dutton-sa
 
 ### [2016-04-28](/news/2016/04/28/index.md)
 
+##### Refugee rights
 # Australian Immigration Minister Peter Dutton says Australia and Papua New Guinea will hold emergency talks next week about asylum seekers Australia has been holding on PNG's Los Negros Island in Manus Province. Tuesday, the Supreme Court of Papua New Guinea ruled this detention is illegal, and ordered the PNG and Australian governments to immediately take steps to end it. An Iranian refugee detainee remains in critical condition after setting himself on fire yesterday to protest Australia's treatment of refugees while the United Nations High Commissioner for Refugees was visiting the island. 
 
 Australia and Papua New Guinea will hold urgent talks over asylum seekers held at a centre ruled unconstitutional by the PNG Supreme Court.

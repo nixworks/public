@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/24/iraqi-insurgents-explode-multiple-car-bombs-and-seize-police-stations-in-a-six-city-offensive-killing-over-100-and-wounding-at-least-320.html)  [JSON](/news/2004/06/24/iraqi-insurgents-explode-multiple-car-bombs-and-seize-police-stations-in-a-six-city-offensive-killing-over-100-and-wounding-at-least-320.json)  [XML](/news/2004/06/24/iraqi-insurgents-explode-multiple-car-bombs-and-seize-police-stations-in-a-six-city-offensive-killing-over-100-and-wounding-at-least-320.xml)  
+
 ### [2004-06-24](/news/2004/06/24/index.md)
 
+##### Iraq
 #  Iraqi insurgents explode multiple car bombs and seize police stations in a six-city offensive, killing over 100 and wounding at least 320, nearly all Iraqis. U.S officials accuse Abu Musab al-Zarqawi's network of involvement. 
 
 With new violence&#160; just days before transfer of sovereignty to a new Iraqi administration, security has been increased around government buildings, power stations and other locations, an Iraqi Interior Ministry official said.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.msnbc.msn.com/id/5225026/)
 1. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Photos/040627/040627_iraq_attacks_hmed.standard.jpg)

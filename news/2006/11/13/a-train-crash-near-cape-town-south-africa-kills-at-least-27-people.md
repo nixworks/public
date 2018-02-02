@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/13/a-train-crash-near-cape-town-south-africa-kills-at-least-27-people.html)  [JSON](/news/2006/11/13/a-train-crash-near-cape-town-south-africa-kills-at-least-27-people.json)  [XML](/news/2006/11/13/a-train-crash-near-cape-town-south-africa-kills-at-least-27-people.xml)  
+
 ### [2006-11-13](/news/2006/11/13/index.md)
 
+##### train crash
 #  A train crash near Cape Town, South Africa, kills at least 27 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/africa/6142584.stm)
 

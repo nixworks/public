@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/23/a-shooting-at-the-israeli-embassy-in-amman-jord
 
 ### [2017-07-23](/news/2017/07/23/index.md)
 
+##### 2017 Amman incident
 # A shooting at the Israeli embassy in Amman, Jordan, leaves one person, a Jordanian, dead, and an Israeli and a Jordanian wounded. There is speculation the attack may be linked to recent events at Jerusalem's Al-Aqsa Mosque. Another Jordanian man was killed inadvertently. 
 
 The shooting at the compound in Amman may be related to recent protests over the Al-Aqsa Mosque.

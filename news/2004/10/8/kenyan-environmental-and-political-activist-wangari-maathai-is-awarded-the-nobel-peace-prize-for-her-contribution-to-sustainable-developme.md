@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/8/kenyan-environmental-and-political-activist-wangari-maathai-is-awarded-the-nobel-peace-prize-for-her-contribution-to-sustainable-developme.html)  [JSON](/news/2004/10/8/kenyan-environmental-and-political-activist-wangari-maathai-is-awarded-the-nobel-peace-prize-for-her-contribution-to-sustainable-developme.json)  [XML](/news/2004/10/8/kenyan-environmental-and-political-activist-wangari-maathai-is-awarded-the-nobel-peace-prize-for-her-contribution-to-sustainable-developme.xml)  
+
 ### [2004-10-8](/news/2004/10/8/index.md)
 
+##### Wangari Maathai
 #  Kenyan environmental and political activist Wangari Maathai is awarded the Nobel Peace Prize for "her contribution to sustainable development, democracy and peace". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/3726024.stm)
 2. [Nobel Prize](http://nobelprize.org/peace/laureates/2004/index.html)

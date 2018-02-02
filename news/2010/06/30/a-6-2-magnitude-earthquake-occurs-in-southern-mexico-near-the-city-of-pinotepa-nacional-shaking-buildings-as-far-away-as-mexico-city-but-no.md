@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/30/a-6-2-magnitude-earthquake-occurs-in-southern-mexico-near-the-city-of-pinotepa-nacional-shaking-buildings-as-far-away-as-mexico-city-but-no.html)  [JSON](/news/2010/06/30/a-6-2-magnitude-earthquake-occurs-in-southern-mexico-near-the-city-of-pinotepa-nacional-shaking-buildings-as-far-away-as-mexico-city-but-no.json)  [XML](/news/2010/06/30/a-6-2-magnitude-earthquake-occurs-in-southern-mexico-near-the-city-of-pinotepa-nacional-shaking-buildings-as-far-away-as-mexico-city-but-no.xml)  
+
 ### [2010-06-30](/news/2010/06/30/index.md)
 
+##### 6.2-magnitude earthquake
 # A 6.2-magnitude earthquake occurs in southern Mexico near the city of Pinotepa Nacional, shaking buildings as far away as Mexico City but not causing serious damage or casualties. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [National Post](http://www.nationalpost.com/news/world/Earthquake+strikes+southern+Mexico/3219888/story.html#ixzz0sOoXdD3m)
 

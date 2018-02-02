@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/3/the-extraordinary-chambers-in-the-courts-of-cambodia-increases-the-sentence-of-kang-kek-iew-or-duch-to-life-for-running-the-tuol-sleng-pri.html)  [JSON](/news/2012/02/3/the-extraordinary-chambers-in-the-courts-of-cambodia-increases-the-sentence-of-kang-kek-iew-or-duch-to-life-for-running-the-tuol-sleng-pri.json)  [XML](/news/2012/02/3/the-extraordinary-chambers-in-the-courts-of-cambodia-increases-the-sentence-of-kang-kek-iew-or-duch-to-life-for-running-the-tuol-sleng-pri.xml)  
+
 ### [2012-02-3](/news/2012/02/3/index.md)
 
+##### Extraordinary Chambers in the Courts of Cambodia
 # The Extraordinary Chambers in the Courts of Cambodia increases the sentence of Kang Kek Iew, or Duch, to life for running the Tuol Sleng prison camp under the Khmer Rouge. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16865834)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58269000/jpg/_58269534_013898891-1.jpg)

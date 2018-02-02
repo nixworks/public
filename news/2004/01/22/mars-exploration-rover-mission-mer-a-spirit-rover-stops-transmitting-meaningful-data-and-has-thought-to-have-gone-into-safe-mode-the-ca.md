@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/22/mars-exploration-rover-mission-mer-a-spirit-rover-stops-transmitting-meaningful-data-and-has-thought-to-have-gone-into-safe-mode-the-ca.html)  [JSON](/news/2004/01/22/mars-exploration-rover-mission-mer-a-spirit-rover-stops-transmitting-meaningful-data-and-has-thought-to-have-gone-into-safe-mode-the-ca.json)  [XML](/news/2004/01/22/mars-exploration-rover-mission-mer-a-spirit-rover-stops-transmitting-meaningful-data-and-has-thought-to-have-gone-into-safe-mode-the-ca.xml)  
+
 ### [2004-01-22](/news/2004/01/22/index.md)
 
+##### Mars Exploration Rover Mission
 #  Mars Exploration Rover Mission: MER-A "Spirit" rover stops transmitting meaningful data and has thought to have gone into safe mode. The cause of this is unknown but the rover is still able to send back a simple acknowledgement tone.
 
 

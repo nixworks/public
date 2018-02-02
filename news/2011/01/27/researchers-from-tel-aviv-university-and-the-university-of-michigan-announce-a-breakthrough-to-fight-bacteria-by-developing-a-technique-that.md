@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/27/researchers-from-tel-aviv-university-and-the-university-of-michigan-announce-a-breakthrough-to-fight-bacteria-by-developing-a-technique-that.html)  [JSON](/news/2011/01/27/researchers-from-tel-aviv-university-and-the-university-of-michigan-announce-a-breakthrough-to-fight-bacteria-by-developing-a-technique-that.json)  [XML](/news/2011/01/27/researchers-from-tel-aviv-university-and-the-university-of-michigan-announce-a-breakthrough-to-fight-bacteria-by-developing-a-technique-that.xml)  
+
 ### [2011-01-27](/news/2011/01/27/index.md)
 
+##### Tel Aviv University's
 # Researchers from Tel Aviv University and the University of Michigan announce a breakthrough to fight bacteria by developing a technique that neutralizes the ability of bacteria to develop resistance to antibiotics. 
 
 Breakthrough to fight resistant bacteria could lead to new generation of antibiotics.
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/Health/Article.aspx?id=205409)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=158076)

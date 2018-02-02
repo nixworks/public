@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/28/kofi-annan-announces-that-kenyan-president-mwai-kibaki-and-opposition-leader-raila-odinga-have-agreed-to-form-a-coalition-government-to-res.html)  [JSON](/news/2008/02/28/kofi-annan-announces-that-kenyan-president-mwai-kibaki-and-opposition-leader-raila-odinga-have-agreed-to-form-a-coalition-government-to-res.json)  [XML](/news/2008/02/28/kofi-annan-announces-that-kenyan-president-mwai-kibaki-and-opposition-leader-raila-odinga-have-agreed-to-form-a-coalition-government-to-res.xml)  
+
 ### [2008-02-28](/news/2008/02/28/index.md)
 
+##### Kofi Annan
 #  Kofi Annan announces that Kenyan President Mwai Kibaki and opposition leader Raila Odinga have agreed to form a coalition government to resolve the country's political crisis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA](http://voanews.com/english/2008-02-28-voa17.cfm)
 

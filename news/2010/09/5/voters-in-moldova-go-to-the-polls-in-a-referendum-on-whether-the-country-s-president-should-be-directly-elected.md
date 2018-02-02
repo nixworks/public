@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/09/5/voters-in-moldova-go-to-the-polls-in-a-referendum-on-whether-the-country-s-president-should-be-directly-elected.html)  [JSON](/news/2010/09/5/voters-in-moldova-go-to-the-polls-in-a-referendum-on-whether-the-country-s-president-should-be-directly-elected.json)  [XML](/news/2010/09/5/voters-in-moldova-go-to-the-polls-in-a-referendum-on-whether-the-country-s-president-should-be-directly-elected.xml)  
+
 ### [2010-09-5](/news/2010/09/5/index.md)
 
+##### Moldova
 # Voters in Moldova go to the polls in a referendum on whether the country's President should be directly elected. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/exsoviet/20100905/160475491.html)
-2. [Reuters](http://www.reuters.com/article/idUSTRE6840F620100905)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/idUSTRE6840F620100905)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/24/flooding-in-chile-kills-at-least-five-people-displaces-at-least-15-000-people-and-closes-the-pan-american-highway-south-of-santiago.html)  [JSON](/news/2008/05/24/flooding-in-chile-kills-at-least-five-people-displaces-at-least-15-000-people-and-closes-the-pan-american-highway-south-of-santiago.json)  [XML](/news/2008/05/24/flooding-in-chile-kills-at-least-five-people-displaces-at-least-15-000-people-and-closes-the-pan-american-highway-south-of-santiago.xml)  
+
 ### [2008-05-24](/news/2008/05/24/index.md)
 
+##### Flood
 #  Flooding in Chile kills at least five people, displaces at least 15,000 people and closes the Pan American Highway south of Santiago. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/7418242.stm)
 

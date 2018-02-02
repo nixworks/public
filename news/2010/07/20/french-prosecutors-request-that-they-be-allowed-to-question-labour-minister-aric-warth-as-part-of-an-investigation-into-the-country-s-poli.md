@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/20/french-prosecutors-request-that-they-be-allowed-to-question-labour-minister-aric-warth-as-part-of-an-investigation-into-the-country-s-poli.html)  [JSON](/news/2010/07/20/french-prosecutors-request-that-they-be-allowed-to-question-labour-minister-aric-warth-as-part-of-an-investigation-into-the-country-s-poli.json)  [XML](/news/2010/07/20/french-prosecutors-request-that-they-be-allowed-to-question-labour-minister-aric-warth-as-part-of-an-investigation-into-the-country-s-poli.xml)  
+
 ### [2010-07-20](/news/2010/07/20/index.md)
 
+##### Eric Woerth
 # French prosecutors request that they be allowed to question Labour Minister Eric Woerth as part of an investigation into the country's political scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10705320)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE66J4YS20100720?feedType=RSS&feedName=worldNews)

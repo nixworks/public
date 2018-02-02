@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/18/president-of-sri-lanka-mahinda-rajapaksa-responds-in-a-speech-at-a-commemorative-military-pageant-to-critics-of-the-army-who-say-human-right.html)  [JSON](/news/2010/06/18/president-of-sri-lanka-mahinda-rajapaksa-responds-in-a-speech-at-a-commemorative-military-pageant-to-critics-of-the-army-who-say-human-right.json)  [XML](/news/2010/06/18/president-of-sri-lanka-mahinda-rajapaksa-responds-in-a-speech-at-a-commemorative-military-pageant-to-critics-of-the-army-who-say-human-right.xml)  
+
 ### [2010-06-18](/news/2010/06/18/index.md)
 
+##### President of Sri Lanka
 # President of Sri Lanka Mahinda Rajapaksa responds in a speech at a commemorative military pageant to critics of the army who say human rights abuses were committed against civilians during the 2009 defeat of the Liberation Tigers of Tamil Eelam rebels. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/south_asia/10347595.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

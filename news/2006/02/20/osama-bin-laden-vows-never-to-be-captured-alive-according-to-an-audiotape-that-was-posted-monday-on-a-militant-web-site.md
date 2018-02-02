@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/20/osama-bin-laden-vows-never-to-be-captured-alive-according-to-an-audiotape-that-was-posted-monday-on-a-militant-web-site.html)  [JSON](/news/2006/02/20/osama-bin-laden-vows-never-to-be-captured-alive-according-to-an-audiotape-that-was-posted-monday-on-a-militant-web-site.json)  [XML](/news/2006/02/20/osama-bin-laden-vows-never-to-be-captured-alive-according-to-an-audiotape-that-was-posted-monday-on-a-militant-web-site.xml)  
+
 ### [2006-02-20](/news/2006/02/20/index.md)
 
+##### Osama bin Laden
 #  Osama bin Laden vows never to be captured alive, according to an audiotape that was posted Monday on a militant Web site. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://abcnews.go.com/International/wireStory?id=1639688)
 

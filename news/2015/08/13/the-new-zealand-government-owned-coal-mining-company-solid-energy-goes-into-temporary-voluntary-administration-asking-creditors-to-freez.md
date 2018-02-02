@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/13/the-new-zealand-government-owned-coal-mining-company-solid-energy-goes-into-temporary-voluntary-administration-asking-creditors-to-freez.html)  [JSON](/news/2015/08/13/the-new-zealand-government-owned-coal-mining-company-solid-energy-goes-into-temporary-voluntary-administration-asking-creditors-to-freez.json)  [XML](/news/2015/08/13/the-new-zealand-government-owned-coal-mining-company-solid-energy-goes-into-temporary-voluntary-administration-asking-creditors-to-freez.xml)  
+
 ### [2015-08-13](/news/2015/08/13/index.md)
 
+##### Solid Energy
 # The New Zealand government-owned, coal-mining company, Solid Energy, goes into temporary voluntary administration, asking creditors to freeze most of its debt. 
 
 The struggling state-owned coal company has been put into temporary voluntary administration, the government has confirmed.
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand](http://www.radionz.co.nz/news/regional/281263/solid-energy-goes-into-administration)
 1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)

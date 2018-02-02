@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/20/kremlin-dismisses-claims-of-russian-involvement-in-the-poisoning-of-former-kgb-spy-alexander-litvinenko-as-sheer-nonsense.html)  [JSON](/news/2006/11/20/kremlin-dismisses-claims-of-russian-involvement-in-the-poisoning-of-former-kgb-spy-alexander-litvinenko-as-sheer-nonsense.json)  [XML](/news/2006/11/20/kremlin-dismisses-claims-of-russian-involvement-in-the-poisoning-of-former-kgb-spy-alexander-litvinenko-as-sheer-nonsense.xml)  
+
 ### [2006-11-20](/news/2006/11/20/index.md)
 
+##### Kremlin
 #  Kremlin dismisses claims of Russian involvement in the poisoning of former KGB spy Alexander Litvinenko as "sheer nonsense". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RTT via NASDAQ](http://www.nasdaq.com/aspxcontent/NewsStory.aspx?cpath=20061120%5cACQRTT200611201547RTTRADERUSEQUITY_0933.htm&)
 1. [Cover Image](http://www.nasdaq.com/images/Q-logo.jpg)

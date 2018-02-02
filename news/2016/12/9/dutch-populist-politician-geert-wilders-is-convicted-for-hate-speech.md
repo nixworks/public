@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/9/dutch-populist-politician-geert-wilders-is-convi
 
 ### [2016-12-9](/news/2016/12/9/index.md)
 
+##### Geert Wilders
 # Dutch populist politician Geert Wilders is convicted for hate speech. 
 
 Court declines to sentence Dutch far-right leader over comments that were ‘demeaning towards Moroccan population’

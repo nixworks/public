@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/18/israeli-tanks-enter-the-northern-gaza-strip-some-fighting-occurs-killing-one-palestinian-and-injuring-two-others-in-response-to-palestinian.html)  [JSON](/news/2011/01/18/israeli-tanks-enter-the-northern-gaza-strip-some-fighting-occurs-killing-one-palestinian-and-injuring-two-others-in-response-to-palestinian.json)  [XML](/news/2011/01/18/israeli-tanks-enter-the-northern-gaza-strip-some-fighting-occurs-killing-one-palestinian-and-injuring-two-others-in-response-to-palestinian.xml)  
+
 ### [2011-01-18](/news/2011/01/18/index.md)
 
+##### Israel
 # Israeli tanks enter the northern Gaza Strip; some fighting occurs killing one Palestinian and injuring two others in response to Palestinian militants who had detonated an explosive device targeting an army patrol along the border 
 
 Israeli tanks enter the northern Gaza Strip, sparking fighting that kills one Palestinian and injures two more.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12217404)
 2. [Tehran Times](http://www.tehrantimes.com/index_View.asp?code=234390)

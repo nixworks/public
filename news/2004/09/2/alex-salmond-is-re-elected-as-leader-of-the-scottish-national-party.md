@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/2/alex-salmond-is-re-elected-as-leader-of-the-scottish-national-party.html)  [JSON](/news/2004/09/2/alex-salmond-is-re-elected-as-leader-of-the-scottish-national-party.json)  [XML](/news/2004/09/2/alex-salmond-is-re-elected-as-leader-of-the-scottish-national-party.xml)  
+
 ### [2004-09-2](/news/2004/09/2/index.md)
 
+##### Alex Salmond
 #  Alex Salmond is re-elected as leader of the Scottish National Party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/scotland/3622728.stm)
 

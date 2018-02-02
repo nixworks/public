@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/18/bangladeshi-nobel-peace-prize-winner-muhammad-yunus-announces-the-name-of-the-party-he-wants-to-found-it-is-to-be-called-citizens-power.html)  [JSON](/news/2007/02/18/bangladeshi-nobel-peace-prize-winner-muhammad-yunus-announces-the-name-of-the-party-he-wants-to-found-it-is-to-be-called-citizens-power.json)  [XML](/news/2007/02/18/bangladeshi-nobel-peace-prize-winner-muhammad-yunus-announces-the-name-of-the-party-he-wants-to-found-it-is-to-be-called-citizens-power.xml)  
+
 ### [2007-02-18](/news/2007/02/18/index.md)
 
+##### Bangladesh
 #  Bangladeshi Nobel Peace Prize winner Muhammad Yunus announces the name of the party he wants to found; it is to be called Citizens' Power. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=2007%5C02%5C19%5Cstory_19-2-2007_pg4_15)
 

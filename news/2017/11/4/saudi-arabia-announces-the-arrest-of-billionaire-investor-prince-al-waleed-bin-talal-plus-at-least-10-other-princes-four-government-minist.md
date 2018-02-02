@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/4/saudi-arabia-announces-the-arrest-of-billionaire
 
 ### [2017-11-4](/news/2017/11/4/index.md)
 
+##### 2017 Saudi Arabian anti-corruption arrests
 # Saudi Arabia announces the arrest of billionaire investor Prince Al-Waleed bin Talal, plus at least 10 other princes, four government ministers and tens of former ministers by Crown Prince Mohammad bin Salman's newly formed anti-corruption agency. 
 
 Saudi Arabia&#x27;s newly formed anti-corruption commission arrested 10 princes and dozens of former government ministers on Saturday, Saudi-owned Al Arabiya television reported, citing unnamed sources. The arrests came soon after the commission, headed by powerful Crown Prince Mohammed bin Salman, was

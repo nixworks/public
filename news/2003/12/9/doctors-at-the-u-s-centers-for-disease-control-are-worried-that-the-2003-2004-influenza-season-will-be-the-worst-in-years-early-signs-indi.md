@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/9/doctors-at-the-u-s-centers-for-disease-control-are-worried-that-the-2003-2004-influenza-season-will-be-the-worst-in-years-early-signs-indi.html)  [JSON](/news/2003/12/9/doctors-at-the-u-s-centers-for-disease-control-are-worried-that-the-2003-2004-influenza-season-will-be-the-worst-in-years-early-signs-indi.json)  [XML](/news/2003/12/9/doctors-at-the-u-s-centers-for-disease-control-are-worried-that-the-2003-2004-influenza-season-will-be-the-worst-in-years-early-signs-indi.xml)  
+
 ### [2003-12-9](/news/2003/12/9/index.md)
 
+##### Centers for Disease Control
 # Doctors at the U.S. Centers for Disease Control are worried that the 2003-2004 influenza season will be the worst in years. Early signs indicate that a particularly virulent strain of the flu virus that is not well-covered by this year's vaccine is hitting hard in some states. Young children and the elderly have been urged to receive the vaccine, doses of which are running low. [http:--www.startribune.com-stories-484-4256831.html]
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/17/the-shortlist-for-the-orange-prize-for-fiction-is-announced-featuring-ann-patchett-and-anne-enright.html)  [JSON](/news/2012/04/17/the-shortlist-for-the-orange-prize-for-fiction-is-announced-featuring-ann-patchett-and-anne-enright.json)  [XML](/news/2012/04/17/the-shortlist-for-the-orange-prize-for-fiction-is-announced-featuring-ann-patchett-and-anne-enright.xml)  
+
 ### [2012-04-17](/news/2012/04/17/index.md)
 
+##### Orange Prize for Fiction
 # The shortlist for the Orange Prize for Fiction is announced, featuring Ann Patchett and Anne Enright. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/books/2012/apr/17/orange-prize-cynthia-ozick-favourite)
 

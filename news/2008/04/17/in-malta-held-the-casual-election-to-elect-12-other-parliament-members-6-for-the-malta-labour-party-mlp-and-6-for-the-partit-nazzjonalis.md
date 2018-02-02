@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/17/in-malta-held-the-casual-election-to-elect-12-other-parliament-members-6-for-the-malta-labour-party-mlp-and-6-for-the-partit-nazzjonalis.html)  [JSON](/news/2008/04/17/in-malta-held-the-casual-election-to-elect-12-other-parliament-members-6-for-the-malta-labour-party-mlp-and-6-for-the-partit-nazzjonalis.json)  [XML](/news/2008/04/17/in-malta-held-the-casual-election-to-elect-12-other-parliament-members-6-for-the-malta-labour-party-mlp-and-6-for-the-partit-nazzjonalis.xml)  
+
 ### [2008-04-17](/news/2008/04/17/index.md)
 
+##### Malta
 #  In Malta held the casual election to elect 12 other parliament members, 6 for the Malta Labour Party (MLP) and 6 for the Partit Nazzjonalista (PN), before opening the new parliament of Malta on 11 May, 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [DOI Malta](http://www.doi.gov.mt)
 

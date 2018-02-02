@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/18/more-than-50-occupy-wall-street-protesters-are-arrested-as-they-attempted-to-establish-a-new-encampment.html)  [JSON](/news/2011/12/18/more-than-50-occupy-wall-street-protesters-are-arrested-as-they-attempted-to-establish-a-new-encampment.json)  [XML](/news/2011/12/18/more-than-50-occupy-wall-street-protesters-are-arrested-as-they-attempted-to-establish-a-new-encampment.xml)  
+
 ### [2011-12-18](/news/2011/12/18/index.md)
 
+##### Occupy Wall Street
 # More than 50 Occupy Wall Street protesters are arrested as they attempted to establish a new encampment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2011/dec/18/50-occupy-wall-street-arrested)
 

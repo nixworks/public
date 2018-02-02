@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2004/08/24/two-russian-jets-volga-aviaexpress-flight-1303-and-siberia-airlines-flight-1047-crash-south-of-moscow-within-minutes-of-each-other-eyewi.html)  [JSON](/news/2004/08/24/two-russian-jets-volga-aviaexpress-flight-1303-and-siberia-airlines-flight-1047-crash-south-of-moscow-within-minutes-of-each-other-eyewi.json)  [XML](/news/2004/08/24/two-russian-jets-volga-aviaexpress-flight-1303-and-siberia-airlines-flight-1047-crash-south-of-moscow-within-minutes-of-each-other-eyewi.xml)  
+
 ### [2004-08-24](/news/2004/08/24/index.md)
 
+##### Volga-AviaExpress Flight 1303
 #  Two Russian jets, Volga-AviaExpress Flight 1303 and Siberia Airlines Flight 1047, crash south of Moscow within minutes of each other. Eyewitnesses report the flight 1303 exploded in mid-air. Both airliners took off from Domodedovo International Airport. The planes were carrying 78 passengers and 16 crew in total. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [AOL NEWS](http://aolsvc.news.aol.com/news/article.adp?id=20040824182309990001)
 2. [CNN](http://www.cnn.com/2004/WORLD/europe/08/24/russia.planecrash/index.html)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6060212)
-3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6060212)
 
 ### Related:
 

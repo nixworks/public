@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/7/an-explosion-at-the-headquarters-of-the-chechen-
 
 ### [2018-01-7](/news/2018/01/7/index.md)
 
+##### Syrian Civil War
 # An explosion at the headquarters of the Chechen-led Ajnad al-Kavkaz rebel group in Idlib, Syria, kills at least 23 people, while several people remain unaccounted for, according to the Syrian Observatory for Human Rights. 
 
 

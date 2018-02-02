@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/12/the-european-parliament-in-brussels-belgium-is-robbed.html)  [JSON](/news/2009/02/12/the-european-parliament-in-brussels-belgium-is-robbed.json)  [XML](/news/2009/02/12/the-european-parliament-in-brussels-belgium-is-robbed.xml)  
+
 ### [2009-02-12](/news/2009/02/12/index.md)
 
+##### European Parliament
 #  The European Parliament in Brussels, Belgium, is robbed. 
 
 There has been an armed robbery at the European Parliament in Brussels.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0212/euparliament.html)
 1. [Cover Image](https://img.rasset.ie/00021054-1600.jpg)

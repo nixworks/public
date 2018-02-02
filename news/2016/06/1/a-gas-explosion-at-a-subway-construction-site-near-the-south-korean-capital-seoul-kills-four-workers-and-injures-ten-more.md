@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/1/a-gas-explosion-at-a-subway-construction-site-ne
 
 ### [2016-06-1](/news/2016/06/1/index.md)
 
+##### South Korea
 # A gas explosion at a subway construction site near the South Korean capital Seoul kills four workers and injures ten more. 
 
  Four workers were killed and 10 others were injured Wednesday, when a subway construction site near Seoul collapsed due to what is believed to be a gas explosion, police said. The accident, which occurred in the city of Namyangju, east of Seoul, around 7:30 a.m., took place when a total of 17 workers were on duty. One of the victims died after being thrown by the explosion. The three others were found dead under the collapsed construction site, firefighters said.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/18/the-total-number-of-deaths-and-missing-persons-from-the-2011-tahoku-earthquake-and-tsunami-passes-16-600-with-6-405-confirmed-dead.html)  [JSON](/news/2011/03/18/the-total-number-of-deaths-and-missing-persons-from-the-2011-tahoku-earthquake-and-tsunami-passes-16-600-with-6-405-confirmed-dead.json)  [XML](/news/2011/03/18/the-total-number-of-deaths-and-missing-persons-from-the-2011-tahoku-earthquake-and-tsunami-passes-16-600-with-6-405-confirmed-dead.xml)  
+
 ### [2011-03-18](/news/2011/03/18/index.md)
 
+##### 2011 Tohoku earthquake and tsunami
 # The total number of deaths and missing persons from the 2011 Tohoku earthquake and tsunami passes 16,600 with 6,405 confirmed dead. 
 
 A US agency helping Japan tackle its nuclear crisis at a stricken nuclear power plant says there is no water in one of the reactor&#039;s pools, leading to &#034;extremely high&#034; radiation levels.
 
 
-### Source:
+### Sources:
 
 1. [Jakarta Globe](http://www.thejakartaglobe.com/afp/japan-quake-live-report/429989)
 2. [Sydney Morning Herald](http://www.smh.com.au/environment/76b-pumped-into-japanese-economy-fight-to-douse-reactor-goes-on-as-toll-tops-13000-20110317-1bxm8.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/2/more-than-50-prominent-nigerian-public-figures-call-for-president-umaru-yar-adua-to-resign-saying-his-health-is-impairing-his-judgment.html)  [JSON](/news/2009/12/2/more-than-50-prominent-nigerian-public-figures-call-for-president-umaru-yar-adua-to-resign-saying-his-health-is-impairing-his-judgment.json)  [XML](/news/2009/12/2/more-than-50-prominent-nigerian-public-figures-call-for-president-umaru-yar-adua-to-resign-saying-his-health-is-impairing-his-judgment.xml)  
+
 ### [2009-12-2](/news/2009/12/2/index.md)
 
+##### Nigeria
 #  More than 50 prominent Nigerian public figures call for President Umaru Yar'Adua to resign, saying his health is impairing his judgment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8390750.stm)
 2. [NEXT](http://234next.com/csp/cms/sites/Next/News/National/5489927-147/story.csp)

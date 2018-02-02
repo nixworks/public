@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/20/the-united-nations-security-council-unanimously-approves-an-african-union-force-to-help-stabilise-somalia.html)  [JSON](/news/2007/02/20/the-united-nations-security-council-unanimously-approves-an-african-union-force-to-help-stabilise-somalia.json)  [XML](/news/2007/02/20/the-united-nations-security-council-unanimously-approves-an-african-union-force-to-help-stabilise-somalia.xml)  
+
 ### [2007-02-20](/news/2007/02/20/index.md)
 
+##### United Nations Security Council
 #  The United Nations Security Council unanimously approves an African Union force to help stabilise Somalia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via the Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-6428625,00.html)
 

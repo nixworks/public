@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/6/a-car-bomb-in-the-khalis-section-of-baghdad-kills-13-people-attending-the-wake-of-individuals-killed-two-days-ago-in-a-previous-attack.html)  [JSON](/news/2004/07/6/a-car-bomb-in-the-khalis-section-of-baghdad-kills-13-people-attending-the-wake-of-individuals-killed-two-days-ago-in-a-previous-attack.json)  [XML](/news/2004/07/6/a-car-bomb-in-the-khalis-section-of-baghdad-kills-13-people-attending-the-wake-of-individuals-killed-two-days-ago-in-a-previous-attack.xml)  
+
 ### [2004-07-6](/news/2004/07/6/index.md)
 
+##### car bomb
 #  A car bomb in the Khalis section of Baghdad kills 13 people attending the wake of individuals killed two days ago in a previous attack. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Boston Globe](http://www.boston.com/dailynews/188/world/Insurgents_detonate_car_bomb_k:.shtml)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/12/10/the-president-of-venezuela-hugo-cha-vez-flies-to-cuba-for-cancer-surgery.html)  [JSON](/news/2012/12/10/the-president-of-venezuela-hugo-cha-vez-flies-to-cuba-for-cancer-surgery.json)  [XML](/news/2012/12/10/the-president-of-venezuela-hugo-cha-vez-flies-to-cuba-for-cancer-surgery.xml)  
+
 ### [2012-12-10](/news/2012/12/10/index.md)
 
+##### President
 # The President of Venezuela Hugo Chavez flies to Cuba for cancer surgery. 
 
 Venezuelan President Hugo Chavez flew to Cuba on Monday for cancer surgery, with a vow to return quickly despite conceding for the first time that the disease could end his 14-year rule of the South American OPEC nation.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/12/10/us-venezuela-chavez-idUSBRE8B90CB20121210)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121210&t=2&i=683135778&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8B9176B00)
+1. [Reuters](https://www.reuters.com/article/2012/12/10/us-venezuela-chavez-idUSBRE8B90CB20121210)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20121210&t=2&i=683135778&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8B9176B00)
 
 ### Related:
 

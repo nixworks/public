@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/25/munster-rugby-fans-in-ireland-win-a-court-case-against-the-state-allowing-pubs-to-open-for-business-on-good-friday-a-day-that-normally-sees.html)  [JSON](/news/2010/03/25/munster-rugby-fans-in-ireland-win-a-court-case-against-the-state-allowing-pubs-to-open-for-business-on-good-friday-a-day-that-normally-sees.json)  [XML](/news/2010/03/25/munster-rugby-fans-in-ireland-win-a-court-case-against-the-state-allowing-pubs-to-open-for-business-on-good-friday-a-day-that-normally-sees.xml)  
+
 ### [2010-03-25](/news/2010/03/25/index.md)
 
+##### Munster Rugby
 # Munster Rugby fans in Ireland win a court case against the state allowing pubs to open for business on Good Friday, a day that normally sees all pubs in the country shut for religious reasons. 
 
 Limerick publicans have been granted a special exemption to open for business on Good Friday for the Munster and Leinster rugby match.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8587056.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0325/limerick.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/16/venezuelan-president-hugo-cha-vez-announces-that-china-is-to-invest-16-billion-us-dollars-to-boost-oil-production-in-the-country-particular.html)  [JSON](/news/2009/09/16/venezuelan-president-hugo-cha-vez-announces-that-china-is-to-invest-16-billion-us-dollars-to-boost-oil-production-in-the-country-particular.json)  [XML](/news/2009/09/16/venezuelan-president-hugo-cha-vez-announces-that-china-is-to-invest-16-billion-us-dollars-to-boost-oil-production-in-the-country-particular.xml)  
+
 ### [2009-09-16](/news/2009/09/16/index.md)
 
+##### Venezuela
 #  Venezuelan President Hugo Chavez announces that China is to invest 16 billion US dollars to boost oil production in the country particularly along the Orinoco River as part of a strategy to reduce dependence on the US market. 
 
 Venezuelan President Hugo Chavez announced Wednesday that China will invest 16 billion US dollars to boost oil production in the country particularly along the Orinoco River, as part of a strategy to reduce dependence on the US market.
 
 
-### Source:
+### Sources:
 
 1. [MercoPress](http://en.mercopress.com/2009/09/17/china-to-invest-16-billion-usd-to-develop-new-oilfields-in-venezuela)
 1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/21941/200x200/ba495195cde45c86bc069ea74a893be4.jpg)

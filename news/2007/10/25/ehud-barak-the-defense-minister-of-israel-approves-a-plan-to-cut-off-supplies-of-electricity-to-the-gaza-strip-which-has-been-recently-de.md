@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/25/ehud-barak-the-defense-minister-of-israel-approves-a-plan-to-cut-off-supplies-of-electricity-to-the-gaza-strip-which-has-been-recently-de.html)  [JSON](/news/2007/10/25/ehud-barak-the-defense-minister-of-israel-approves-a-plan-to-cut-off-supplies-of-electricity-to-the-gaza-strip-which-has-been-recently-de.json)  [XML](/news/2007/10/25/ehud-barak-the-defense-minister-of-israel-approves-a-plan-to-cut-off-supplies-of-electricity-to-the-gaza-strip-which-has-been-recently-de.xml)  
+
 ### [2007-10-25](/news/2007/10/25/index.md)
 
+##### Ehud Barak
 #  Ehud Barak, the Defense Minister of Israel, approves a plan to cut off supplies of electricity to the Gaza Strip which has been recently declared as "hostile territory". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/meast/10/25/israel.gaza/index.html)
 
@@ -15,4 +19,4 @@
 2. [A Bolivian-flagged all-female international aid ship bound for Gaza is delayed as Cyprus bans it from passing, with Israel's Ehud Barak calling on France and the United States to prevent it from sailing because, he says, it is "a needless provocation". ](/news/2010/08/22/a-bolivian-flagged-all-female-international-aid-ship-bound-for-gaza-is-delayed-as-cyprus-bans-it-from-passing-with-israel-s-ehud-barak-call.md) _Context: Ehud Barak, Gaza Strip, Israel_
 3. [Israel asks the United Nations to suspend attempts to organise an international inquiry into the Gaza flotilla raid, with Israeli Defence Minister Ehud Barak saying "some organisation, probably backed by a terror organisation, (is) once again trying to send a vessel into Gaza." ](/news/2010/06/22/israel-asks-the-united-nations-to-suspend-attempts-to-organise-an-international-inquiry-into-the-gaza-flotilla-raid-with-israeli-defence-mi.md) _Context: Ehud Barak, Gaza Strip, Israel_
 4. [ Ehud Barak, the new Minister for Defense, states that Israel will admit "humanitarian cases" of Palestinians fleeing the Hamas-controlled Gaza Strip. ](/news/2007/06/20/ehud-barak-the-new-minister-for-defense-states-that-israel-will-admit-humanitarian-cases-of-palestinians-fleeing-the-hamas-controlled-g.md) _Context: Ehud Barak, Gaza Strip, Israel_
-5. [Palestinian factions, Hamas and Fatah, sign a unity deal in Cairo, that is also publicly supported by the governments of Egypt and Saudi Arabia. The Fatah-controlled Palestinian National Authority (PNA), along with Israel, currently govern the West Bank. According to the signatories of the deal, the PNA will take administrative control of the Gaza Strip, and, along with Hamas, police its borders. The signatories consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. The government of Israel opposes any involvement by Hamas in a Palestinian government. ](/news/2017/10/12/palestinian-factions-hamas-and-fatah-sign-a-unity-deal-in-cairo-that-is-also-publicly-supported-by-the-governments-of-egypt-and-saudi-ara.md) _Context: Gaza Strip, Israel_
+5. [Militant Palestinians fire rockets towards Israel from the Gaza Strip. The Israel Defense Forces say that the Iron Dome system intercepted two missiles, while one rocket fell in a flat open area and nobody was hurt. ](/news/2017/12/13/militant-palestinians-fire-rockets-towards-israel-from-the-gaza-strip-the-israel-defense-forces-say-that-the-iron-dome-system-intercepted-t.md) _Context: Gaza Strip, Israel_

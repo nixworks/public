@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/19/a-natural-gas-explosion-damages-several-buildin
 
 ### [2016-10-19](/news/2016/10/19/index.md)
 
+##### Portland, Oregon
 # A natural gas explosion damages several buildings and injures eight people in downtown Portland, Oregon. 
 
 A powerful natural gas explosion rocked a busy Portland, Oregon, shopping district Wednesday, injuring eight people and igniting a fire that sent a huge plume of smoke over the heart of the city.

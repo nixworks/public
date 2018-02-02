@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2008/02/3/silver-state-helicopters-one-of-america-s-largest-helicopter-flight-schools-suddenly-closes-its-doors-and-files-bankruptcy-http-www-v.html)  [JSON](/news/2008/02/3/silver-state-helicopters-one-of-america-s-largest-helicopter-flight-schools-suddenly-closes-its-doors-and-files-bankruptcy-http-www-v.json)  [XML](/news/2008/02/3/silver-state-helicopters-one-of-america-s-largest-helicopter-flight-schools-suddenly-closes-its-doors-and-files-bankruptcy-http-www-v.xml)  
+
 ### [2008-02-3](/news/2008/02/3/index.md)
 
+##### Silver State Helicopters
 #  Silver State Helicopters, one of America's largest helicopter flight schools, suddenly closes its doors and files bankruptcy. [http:--www.verticalmag.com-control-news-templates-?a=6605&z=6]
 
 

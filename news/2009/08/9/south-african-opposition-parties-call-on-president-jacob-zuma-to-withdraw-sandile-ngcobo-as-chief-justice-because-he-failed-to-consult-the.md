@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/9/south-african-opposition-parties-call-on-president-jacob-zuma-to-withdraw-sandile-ngcobo-as-chief-justice-because-he-failed-to-consult-the.html)  [JSON](/news/2009/08/9/south-african-opposition-parties-call-on-president-jacob-zuma-to-withdraw-sandile-ngcobo-as-chief-justice-because-he-failed-to-consult-the.json)  [XML](/news/2009/08/9/south-african-opposition-parties-call-on-president-jacob-zuma-to-withdraw-sandile-ngcobo-as-chief-justice-because-he-failed-to-consult-the.xml)  
+
 ### [2009-08-9](/news/2009/08/9/index.md)
 
+##### South Africa
 #  South African opposition parties call on President Jacob Zuma to withdraw Sandile Ngcobo as Chief Justice because he failed to consult the opposition and Judicial Service Committee. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.thetimes.co.za/PrintEdition/News/Article.aspx?id=1047170)
 

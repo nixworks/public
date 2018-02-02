@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/8/the-serbian-minister-for-kosovo-claims-that-his-government-has-information-that-the-province-s-albanian-leadership-will-declare-independenc.html)  [JSON](/news/2008/02/8/the-serbian-minister-for-kosovo-claims-that-his-government-has-information-that-the-province-s-albanian-leadership-will-declare-independenc.json)  [XML](/news/2008/02/8/the-serbian-minister-for-kosovo-claims-that-his-government-has-information-that-the-province-s-albanian-leadership-will-declare-independenc.xml)  
+
 ### [2008-02-8](/news/2008/02/8/index.md)
 
+##### Serbia
 #  The Serbian minister for Kosovo claims that his government has information that the province's Albanian leadership will declare independence on February 17. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5jNBDwSz8WtqDkmsMwGW8sgdy0_CQ)
 

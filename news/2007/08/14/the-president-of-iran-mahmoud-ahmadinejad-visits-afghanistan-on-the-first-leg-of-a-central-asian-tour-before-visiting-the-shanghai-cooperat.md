@@ -1,23 +1,27 @@
+
+Formats: [HTML](/news/2007/08/14/the-president-of-iran-mahmoud-ahmadinejad-visits-afghanistan-on-the-first-leg-of-a-central-asian-tour-before-visiting-the-shanghai-cooperat.html)  [JSON](/news/2007/08/14/the-president-of-iran-mahmoud-ahmadinejad-visits-afghanistan-on-the-first-leg-of-a-central-asian-tour-before-visiting-the-shanghai-cooperat.json)  [XML](/news/2007/08/14/the-president-of-iran-mahmoud-ahmadinejad-visits-afghanistan-on-the-first-leg-of-a-central-asian-tour-before-visiting-the-shanghai-cooperat.xml)  
+
 ### [2007-08-14](/news/2007/08/14/index.md)
 
+##### President
 #  The President of Iran Mahmoud Ahmadinejad visits Afghanistan on the first leg of a Central Asian tour before visiting the Shanghai Cooperation Organisation meeting in Bishkek. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6945323.stm)
-
-### Related:
-
-1. [ The Shanghai Cooperation Organisation of Central Asian countries comprising the People's Republic of China, Russia, Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan meets in the Kyrgyz capital of Bishkek to discuss security issues. ](/news/2007/08/14/the-shanghai-cooperation-organisation-of-central-asian-countries-comprising-the-people-s-republic-of-china-russia-kazakhstan-kyrgyzstan.md) _Context: Bishkek, Central Asia, Shanghai Cooperation Organisation_
-2. [Former Iranian President Mahmoud Ahmadinejad faces sentences on seven verdicts of misusing billions of dollars in government funds while in office, the Supreme Audit Court public prosecutor said. If confirmed, Ahmadinejad will be barred from public office for seven years. ](/news/2017/07/30/former-iranian-president-mahmoud-ahmadinejad-faces-sentences-on-seven-verdicts-of-misusing-billions-of-dollars-in-government-funds-while-in.md) _Context: Mahmoud Ahmadinejad, President_
-3. [Former Iranian President Mahmoud Ahmadinejad registers to run in next month's election for a non-consecutive third term, according to state media. ](/news/2017/04/12/former-iranian-president-mahmoud-ahmadinejad-registers-to-run-in-next-month-s-election-for-a-non-consecutive-third-term-according-to-state.md) _Context: Mahmoud Ahmadinejad, President_
-4. [Former President Mahmoud Ahmadinejad declines to run for a third term in the upcoming election. Ayatollah Ali Khamenei has previously advised Ahmadinejad to not seek the presidency next year. ](/news/2016/09/27/former-president-mahmoud-ahmadinejad-declines-to-run-for-a-third-term-in-the-upcoming-election-ayatollah-ali-khamenei-has-previously-advise.md) _Context: Mahmoud Ahmadinejad, President_
-5. [Iran's former nuclear negotiator Hassan Rouhani enters the race to succeed President Mahmoud Ahmadinejad, accusing the incumbent of needlessly incurring crippling economic sanctions. ](/news/2013/04/12/iran-s-former-nuclear-negotiator-hassan-rouhani-enters-the-race-to-succeed-president-mahmoud-ahmadinejad-accusing-the-incumbent-of-needless.md) _Context: Mahmoud Ahmadinejad, President_
 
 ### Changes:
 
 1. [ The President of Iran Mahmoud Ahmadinejad visits Afghanistan on the first leg of a Central Asian tour before visiting the Shanghai Cooperation Organisation meeting in Bishkek. ](/news/2007/08/14/the-president-of-iran-mahmoud-ahmadinejad-visits-afghanistan-on-the-first-leg-of-a-central-asian-tour-before-visiting-the-shanghai-coopera.md) _2017-08-25 03:20:34 (First version)_
 1. [ The President of Iran Mahmoud Ahmadinejad visits Afghanistan on the first leg of a Central Asian tour before visiting the Shanghai Cooperation Organisation meeting in Bishkek. ](/news/2007/08/14/the-president-of-iran-mahmoud-ahmadinejad-visits-afghanistan-on-the-first-leg-of-a-central-asian-tour-before-visiting-the-shanghai-cooperat.md) _(Current version)_
+
+### Related:
+
+1. [ The Shanghai Cooperation Organisation of Central Asian countries comprising the People's Republic of China, Russia, Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan meets in the Kyrgyz capital of Bishkek to discuss security issues. ](/news/2007/08/14/the-shanghai-cooperation-organisation-of-central-asian-countries-comprising-the-people-s-republic-of-china-russia-kazakhstan-kyrgyzstan.md) _Context: Bishkek, Central Asia, Shanghai Cooperation Organisation_
+2. [ Russia, China and four Central Asian members of the Shanghai Cooperation Organisation conduct war games in the southern Ural Mountains area of Russia with Vladimir Putin, the President of Russia, proposing that they be held regularly. ](/news/2007/08/17/russia-china-and-four-central-asian-members-of-the-shanghai-cooperation-organisation-conduct-war-games-in-the-southern-ural-mountains-area.md) _Context: Central Asia, Shanghai Cooperation Organisation_
+3. [ The leaders of Russia, China and Iran use the forum of the Shanghai Cooperation Organisation to warn the United States not to become too heavily involved in Central Asia. ](/news/2007/08/16/the-leaders-of-russia-china-and-iran-use-the-forum-of-the-shanghai-cooperation-organisation-to-warn-the-united-states-not-to-become-too-he.md) _Context: Central Asia, Shanghai Cooperation Organisation_
+4. [ The Shanghai Cooperation Organisation invites Turkmenistan to its summit in Bishkek with a view to asking it to join. ](/news/2007/08/15/the-shanghai-cooperation-organisation-invites-turkmenistan-to-its-summit-in-bishkek-with-a-view-to-asking-it-to-join.md) _Context: Bishkek, Shanghai Cooperation Organisation_
+5. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: Afghanistan_

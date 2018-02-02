@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/13/a-bar-of-radioactive-cobalt-60-found-in-a-new-dehli-market-causes-life-threatening-radiation-sickness-in-one-person-and-contingency-measures.html)  [JSON](/news/2010/04/13/a-bar-of-radioactive-cobalt-60-found-in-a-new-dehli-market-causes-life-threatening-radiation-sickness-in-one-person-and-contingency-measures.json)  [XML](/news/2010/04/13/a-bar-of-radioactive-cobalt-60-found-in-a-new-dehli-market-causes-life-threatening-radiation-sickness-in-one-person-and-contingency-measures.xml)  
+
 ### [2010-04-13](/news/2010/04/13/index.md)
 
+##### cobalt-60
 # A bar of radioactive cobalt-60 found in a New Dehli market causes life-threatening radiation sickness in one person and contingency measures from the authorities. 
 
 
 
 
-### Source:
+### Sources:
 
 1. ["The Faster Times"](http://thefastertimes.com/india/2010/04/13/forget-loose-nuclear-weapons-its-loose-nuclear-waste-that-is-the-real-worry/)
 

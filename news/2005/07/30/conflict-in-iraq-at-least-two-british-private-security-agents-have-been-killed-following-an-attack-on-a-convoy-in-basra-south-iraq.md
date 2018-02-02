@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/30/conflict-in-iraq-at-least-two-british-private-security-agents-have-been-killed-following-an-attack-on-a-convoy-in-basra-south-iraq.html)  [JSON](/news/2005/07/30/conflict-in-iraq-at-least-two-british-private-security-agents-have-been-killed-following-an-attack-on-a-convoy-in-basra-south-iraq.json)  [XML](/news/2005/07/30/conflict-in-iraq-at-least-two-british-private-security-agents-have-been-killed-following-an-attack-on-a-convoy-in-basra-south-iraq.xml)  
+
 ### [2005-07-30](/news/2005/07/30/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: At least two British private security agents have been killed following an attack on a convoy in Basra, south Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4730323.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/18/burma-s-supreme-court-hears-a-last-appeal-against-the-house-arrest-of-detained-national-league-for-democracy-leader-aung-san-suu-kyi.html)  [JSON](/news/2010/01/18/burma-s-supreme-court-hears-a-last-appeal-against-the-house-arrest-of-detained-national-league-for-democracy-leader-aung-san-suu-kyi.json)  [XML](/news/2010/01/18/burma-s-supreme-court-hears-a-last-appeal-against-the-house-arrest-of-detained-national-league-for-democracy-leader-aung-san-suu-kyi.xml)  
+
 ### [2010-01-18](/news/2010/01/18/index.md)
 
+##### Burma
 # Burma's Supreme Court hears a last appeal against the house arrest of detained National League for Democracy leader Aung San Suu Kyi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABS-CBN News](http://www.abs-cbnnews.com/world/01/18/10/suu-kyi-lawyers-give-final-appeal-arguments)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/201011873558889466.html)

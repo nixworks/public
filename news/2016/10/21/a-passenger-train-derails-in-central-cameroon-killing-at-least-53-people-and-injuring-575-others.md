@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/21/a-passenger-train-derails-in-central-cameroon-k
 
 ### [2016-10-21](/news/2016/10/21/index.md)
 
+##### 2016 Eseka train derailment
 # A passenger train derails in central Cameroon, killing at least 53 people and injuring 575 others. 
 
 A train derailed in Cameroon on Friday reportedly killing more than 50 people and injuring over 500 who were on board.

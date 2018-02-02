@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/10/hundreds-of-thousands-of-iranians-gather-in-teh
 
 ### [2017-01-10](/news/2017/01/10/index.md)
 
+##### Death and state funeral of Akbar Hashemi Rafsanjani
 # Hundreds of thousands of Iranians gather in Tehran for the funeral of former president Akbar Hashemi Rafsanjani. 
 
 

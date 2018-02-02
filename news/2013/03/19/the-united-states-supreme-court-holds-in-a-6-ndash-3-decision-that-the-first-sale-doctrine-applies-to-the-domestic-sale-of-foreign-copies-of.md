@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/19/the-united-states-supreme-court-holds-in-a-6-ndash-3-decision-that-the-first-sale-doctrine-applies-to-the-domestic-sale-of-foreign-copies-of.html)  [JSON](/news/2013/03/19/the-united-states-supreme-court-holds-in-a-6-ndash-3-decision-that-the-first-sale-doctrine-applies-to-the-domestic-sale-of-foreign-copies-of.json)  [XML](/news/2013/03/19/the-united-states-supreme-court-holds-in-a-6-ndash-3-decision-that-the-first-sale-doctrine-applies-to-the-domestic-sale-of-foreign-copies-of.xml)  
+
 ### [2013-03-19](/news/2013/03/19/index.md)
 
+##### United States Supreme Court
 # The United States Supreme Court holds in a 6&ndash;3 decision that the first-sale doctrine applies to the domestic sale of foreign copies of copyrighted work lawfully made abroad. 
 
 Today, the United States Supreme Court handed US copyright owners a stinging defeat. The decision in Kirtsaeng v. John Wiley &amp; Sons dramatically slashes the ability of US copyright owners to control copies of their works. And in so doing, the 6-3 decision blows a huge hole in the global marketing strategy of movie, TV, book and software companies.
 
 
-### Source:
+### Sources:
 
 1. [IP-Watch](http://www.ip-watch.org/2013/03/19/us-supreme-court-applies-first-sale-doctrine-worldwide/)
 1. [Cover Image](https://media.ip-watch.org/weblog/wp-content/uploads/2016/10/ip-watch-small-logo-twitter.png?b2a414)

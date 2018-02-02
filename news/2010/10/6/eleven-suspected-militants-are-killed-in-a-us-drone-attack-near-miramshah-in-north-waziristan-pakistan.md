@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/6/eleven-suspected-militants-are-killed-in-a-us-drone-attack-near-miramshah-in-north-waziristan-pakistan.html)  [JSON](/news/2010/10/6/eleven-suspected-militants-are-killed-in-a-us-drone-attack-near-miramshah-in-north-waziristan-pakistan.json)  [XML](/news/2010/10/6/eleven-suspected-militants-are-killed-in-a-us-drone-attack-near-miramshah-in-north-waziristan-pakistan.xml)  
+
 ### [2010-10-6](/news/2010/10/6/index.md)
 
+##### drones launch
 # Eleven suspected militants are killed in a US drone attack near Miramshah in North Waziristan, Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Dawn](http://www.dawn.com.pk/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/03-casualties-feared-in-us-drone-strike-near-miramshah-ss-02)
 

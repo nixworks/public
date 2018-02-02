@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/28/the-first-six-man-televised-debate-is-held-whic
 
 ### [2017-04-28](/news/2017/04/28/index.md)
 
+##### re-elected
 # The first six-man televised debate is held, which focused mostly on social issues. 
 
 Iran state TV broadcasts live the first debate among the six candidates of the 12th presidential election.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/12/the-body-of-two-year-old-aisling-symes-who-disappeared-last-week-in-new-zealand-is-located-in-a-drain-in-henderson-auckland-near-the-pl.html)  [JSON](/news/2009/10/12/the-body-of-two-year-old-aisling-symes-who-disappeared-last-week-in-new-zealand-is-located-in-a-drain-in-henderson-auckland-near-the-pl.json)  [XML](/news/2009/10/12/the-body-of-two-year-old-aisling-symes-who-disappeared-last-week-in-new-zealand-is-located-in-a-drain-in-henderson-auckland-near-the-pl.xml)  
+
 ### [2009-10-12](/news/2009/10/12/index.md)
 
+##### Aisling Symes
 #  The body of two-year-old Aisling Symes, who disappeared last week in New Zealand, is located in a drain in Henderson, Auckland, near the place where she was last sighted. 
 
 A body has been discovered in New Zealand close to where two-year-old Aisling Symes was last seen.
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=3&art_id=nw20091013080159411C309148)
 2. [RTÉ](http://www.rte.ie/news/2009/1012/symesa.html)

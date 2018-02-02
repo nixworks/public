@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/17/s-r-nathan-returns-unopposed-for-a-second-term-in-the-singapore-presidential-elections-three-other-candidates-who-filed-for-candidature-w.html)  [JSON](/news/2005/08/17/s-r-nathan-returns-unopposed-for-a-second-term-in-the-singapore-presidential-elections-three-other-candidates-who-filed-for-candidature-w.json)  [XML](/news/2005/08/17/s-r-nathan-returns-unopposed-for-a-second-term-in-the-singapore-presidential-elections-three-other-candidates-who-filed-for-candidature-w.xml)  
+
 ### [2005-08-17](/news/2005/08/17/index.md)
 
+##### Sellapan Ramanathan
 #  S.R. Nathan returns unopposed for a second term in the Singapore presidential elections. Three other candidates who filed for candidature were rejected by the Presidential Elections Committee due to "lack of experience", amongst other reasons. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNA](http://www.channelnewsasia.com/stories/singaporelocalnews/view/163595/1/.html)
 2. [Reuters](http://in.today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-08-17T154120Z_01_NOOTR_RTRJONC_0_India-212914-1.xml)

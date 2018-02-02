@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/02/14/china-records-a-trade-surplus-of-6-5-billion-for-january-less-than-expected.html)  [JSON](/news/2011/02/14/china-records-a-trade-surplus-of-6-5-billion-for-january-less-than-expected.json)  [XML](/news/2011/02/14/china-records-a-trade-surplus-of-6-5-billion-for-january-less-than-expected.xml)  
+
 ### [2011-02-14](/news/2011/02/14/index.md)
 
+##### China
 # China records a trade surplus of $6.5 billion for January, less than expected. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [CNBC](http://www.cnbc.com/id/41570491)
+1. [CNBC](https://www.cnbc.com/id/41570491)
 
 ### Related:
 

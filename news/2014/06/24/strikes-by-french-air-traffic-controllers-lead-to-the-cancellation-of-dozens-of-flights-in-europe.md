@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/24/strikes-by-french-air-traffic-controllers-lead-to-the-cancellation-of-dozens-of-flights-in-europe.html)  [JSON](/news/2014/06/24/strikes-by-french-air-traffic-controllers-lead-to-the-cancellation-of-dozens-of-flights-in-europe.json)  [XML](/news/2014/06/24/strikes-by-french-air-traffic-controllers-lead-to-the-cancellation-of-dozens-of-flights-in-europe.xml)  
+
 ### [2014-06-24](/news/2014/06/24/index.md)
 
+##### air traffic controller
 # Strikes by French air traffic controllers lead to the cancellation of dozens of flights in Europe. 
 
 Strikes by French air traffic control staff have led to dozens of European flights being cancelled, with some travel to, from and over the country affected. 
 
 
-### Source:
+### Sources:
 
 1. [ITV](http://www.itv.com/news/update/2014-06-24/flight-disruption-warning-as-french-strikes-begin/)
 1. [Cover Image](http://news-assets.sn.itv.com/image/file/418237/img.jpg)

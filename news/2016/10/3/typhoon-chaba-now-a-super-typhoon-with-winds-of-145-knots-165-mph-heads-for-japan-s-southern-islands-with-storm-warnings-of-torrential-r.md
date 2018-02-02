@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/3/typhoon-chaba-now-a-super-typhoon-with-winds-of-
 
 ### [2016-10-3](/news/2016/10/3/index.md)
 
+##### 2016 Pacific typhoon season
 # Typhoon Chaba, now a super typhoon with winds of 145 knots (165 mph), heads for Japan's southern islands with storm warnings of torrential rain followed by mudslides and flooding. 
 
 Chaba will now brush South Korea before moving into mainland Japan.
@@ -25,4 +26,4 @@ Chaba will now brush South Korea before moving into mainland Japan.
 2. [The death toll in Japan from Typhoon Lionrock rises to 17 with several people still missing. Typhoon Namtheun is now threatening the main island of Kyushu. ](/news/2016/09/4/the-death-toll-in-japan-from-typhoon-lionrock-rises-to-17-with-several-people-still-missing-typhoon-namtheun-is-now-threatening-the-main-is.md) _Context: 2016 Pacific typhoon season, Japan_
 3. [Typhoon Malakas makes landfall on the southern Japanese island of Kyushu dumping heavy rain and causing flight cancellations. ](/news/2016/09/20/typhoon-malakas-makes-landfall-on-the-southern-japanese-island-of-kyushu-dumping-heavy-rain-and-causing-flight-cancellations.md) _Context: 2016 Pacific typhoon season, Japan_
 4. [Typhoon Mindulle is forecast to make landfall near the Japanese capital Tokyo with flights and train services being cancelled. It arrives one day after Typhoon Kompasu. ](/news/2016/08/22/typhoon-mindulle-is-forecast-to-make-landfall-near-the-japanese-capital-tokyo-with-flights-and-train-services-being-cancelled-it-arrives-on.md) _Context: 2016 Pacific typhoon season, Japan_
-5. [Former millionaire Chisako Kakehi (also known as Japan's "Black Widow") is sentenced to death for the murder of 3 men which included a husband. ](/news/2017/11/7/former-millionaire-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-husba.md) _Context: Japan_
+5. [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md) _Context: Japan_

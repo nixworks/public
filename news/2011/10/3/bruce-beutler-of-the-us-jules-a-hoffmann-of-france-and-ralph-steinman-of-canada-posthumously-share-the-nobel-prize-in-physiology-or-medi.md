@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/3/bruce-beutler-of-the-us-jules-a-hoffmann-of-france-and-ralph-steinman-of-canada-posthumously-share-the-nobel-prize-in-physiology-or-medi.html)  [JSON](/news/2011/10/3/bruce-beutler-of-the-us-jules-a-hoffmann-of-france-and-ralph-steinman-of-canada-posthumously-share-the-nobel-prize-in-physiology-or-medi.json)  [XML](/news/2011/10/3/bruce-beutler-of-the-us-jules-a-hoffmann-of-france-and-ralph-steinman-of-canada-posthumously-share-the-nobel-prize-in-physiology-or-medi.xml)  
+
 ### [2011-10-3](/news/2011/10/3/index.md)
 
+##### Bruce Beutler
 # Bruce Beutler of the US, Jules A. Hoffmann of France and Ralph Steinman of Canada (posthumously) share the Nobel Prize in Physiology or Medicine for research into the immune system. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10756360)
 2. [BBC](http://www.bbc.co.uk/news/health-15149257)

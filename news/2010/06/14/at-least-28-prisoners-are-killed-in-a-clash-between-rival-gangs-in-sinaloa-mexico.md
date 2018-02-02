@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/14/at-least-28-prisoners-are-killed-in-a-clash-between-rival-gangs-in-sinaloa-mexico.html)  [JSON](/news/2010/06/14/at-least-28-prisoners-are-killed-in-a-clash-between-rival-gangs-in-sinaloa-mexico.json)  [XML](/news/2010/06/14/at-least-28-prisoners-are-killed-in-a-clash-between-rival-gangs-in-sinaloa-mexico.xml)  
+
 ### [2010-06-14](/news/2010/06/14/index.md)
 
+##### Sinaloa
 # At least 28 prisoners are killed in a clash between rival gangs in Sinaloa, Mexico. 
 
 A clash between rival drug gangs in a Mexican prison leaves 29 inmates dead, as 12 police officers die in a separate ambush by gunmen.
 
 
-### Source:
+### Sources:
 
 1. [Asiaone](http://news.asiaone.com/News/AsiaOne%2BNews/Crime/Story/A1Story20100615-222104.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10314218.stm)

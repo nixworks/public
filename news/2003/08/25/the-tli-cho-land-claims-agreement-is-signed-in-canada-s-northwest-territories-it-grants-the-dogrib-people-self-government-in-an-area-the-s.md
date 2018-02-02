@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/25/the-tli-cho-land-claims-agreement-is-signed-in-canada-s-northwest-territories-it-grants-the-dogrib-people-self-government-in-an-area-the-s.html)  [JSON](/news/2003/08/25/the-tli-cho-land-claims-agreement-is-signed-in-canada-s-northwest-territories-it-grants-the-dogrib-people-self-government-in-an-area-the-s.json)  [XML](/news/2003/08/25/the-tli-cho-land-claims-agreement-is-signed-in-canada-s-northwest-territories-it-grants-the-dogrib-people-self-government-in-an-area-the-s.xml)  
+
 ### [2003-08-25](/news/2003/08/25/index.md)
 
+##### Tli Cho
 #  The Tli Cho land claims agreement is signed in Canada's Northwest Territories. It grants the Dogrib people self-government in an area the size of Belgium.
 
 

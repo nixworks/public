@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/2/authorities-arrest-a-japanese-man-for-killing-as
 
 ### [2016-10-2](/news/2016/10/2/index.md)
 
+##### Japan
 # Authorities arrest a Japanese man for killing as many as 48 elderly patients at the Oguchi Hospital in Yokohama. 
 
 Police in Japan are investigating whether a serial poisoner is responsible for killing as many as 48 elderly patients by injecting disinfectant into their intravenous drips. Suspicions began after an autopsy showed two elderly patients had been poisoned in Oguchi Hospital, Yokohama. Sozo Nishikawa and Nobuo Yamaki, both 88, died on 18 and 20 September respectively, after having a drip administered.
@@ -19,4 +20,4 @@ Police in Japan are investigating whether a serial poisoner is responsible for k
 2. [ Three people are hurt and a gunman takes his own life in a rare shooting incident in Yokohama, Japan. ](/news/2009/11/6/three-people-are-hurt-and-a-gunman-takes-his-own-life-in-a-rare-shooting-incident-in-yokohama-japan.md) _Context: Japan, Yokohama_
 3. [ SGBPo Paulo win the FIFA Club World Championship in Yokohama, Japan, defeating Liverpool F.C. 1-0. ](/news/2005/12/18/sagbpo-paulo-win-the-fifa-club-world-championship-in-yokohama-japan-defeating-liverpool-f-c-1-0.md) _Context: Japan, Yokohama_
 4. [ The Final of the 2002 FIFA World Cup took place in Yokohama, Japan. Brazil defeated Germany and claimed the title for a record fifth time.](/news/2002/06/30/the-final-of-the-2002-fifa-world-cup-took-place-in-yokohama-japan-brazil-defeated-germany-and-claimed-the-title-for-a-record-fifth-time.md) _Context: Japan, Yokohama_
-5. [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md) _Context: Japan_
+5. [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md) _Context: Japan_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/13/the-president-of-italy-giorgio-napolitano-nominates-mario-monti-to-be-the-new-prime-minister.html)  [JSON](/news/2011/11/13/the-president-of-italy-giorgio-napolitano-nominates-mario-monti-to-be-the-new-prime-minister.json)  [XML](/news/2011/11/13/the-president-of-italy-giorgio-napolitano-nominates-mario-monti-to-be-the-new-prime-minister.xml)  
+
 ### [2011-11-13](/news/2011/11/13/index.md)
 
+##### President of Italy
 # The President of Italy Giorgio Napolitano nominates Mario Monti to be the new Prime Minister. 
 
 Mario Monti, the economist and former European Union commissioner, was tapped to implement needed reforms as Prime Minister. 
 
 
-### Source:
+### Sources:
 
 1. [CNN Money](http://money.cnn.com/2011/11/13/news/international/italy_monti.cnnw/index.htm?section=money_topstories)
 1. [Cover Image](http://i2.cdn.turner.com/money/2011/11/13/news/international/italy_monti.cnnw/mario-monti.gi.01.jpg)

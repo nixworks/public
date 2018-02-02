@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/10/toronto-municipal-election-2003-david-miller-is-elected-mayor-of-toronto.html)  [JSON](/news/2003/11/10/toronto-municipal-election-2003-david-miller-is-elected-mayor-of-toronto.json)  [XML](/news/2003/11/10/toronto-municipal-election-2003-david-miller-is-elected-mayor-of-toronto.xml)  
+
 ### [2003-11-10](/news/2003/11/10/index.md)
 
+##### Toronto municipal election, 2003
 #  Toronto municipal election, 2003: David Miller is elected mayor of Toronto.
 
 

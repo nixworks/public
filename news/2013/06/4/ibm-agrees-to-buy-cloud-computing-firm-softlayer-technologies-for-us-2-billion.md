@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/4/ibm-agrees-to-buy-cloud-computing-firm-softlayer-technologies-for-us-2-billion.html)  [JSON](/news/2013/06/4/ibm-agrees-to-buy-cloud-computing-firm-softlayer-technologies-for-us-2-billion.json)  [XML](/news/2013/06/4/ibm-agrees-to-buy-cloud-computing-firm-softlayer-technologies-for-us-2-billion.xml)  
+
 ### [2013-06-4](/news/2013/06/4/index.md)
 
+##### IBM
 # IBM agrees to buy cloud computing firm SoftLayer Technologies for US$2 billion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [San Francisco Chronicle](http://www.sfgate.com/business/bloomberg/article/IBM-to-Buy-Cloud-Computing-Provider-SoftLayer-for-4577161.php)
 

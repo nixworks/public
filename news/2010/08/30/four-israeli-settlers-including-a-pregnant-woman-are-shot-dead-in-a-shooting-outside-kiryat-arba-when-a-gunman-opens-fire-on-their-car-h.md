@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/30/four-israeli-settlers-including-a-pregnant-woman-are-shot-dead-in-a-shooting-outside-kiryat-arba-when-a-gunman-opens-fire-on-their-car-h.html)  [JSON](/news/2010/08/30/four-israeli-settlers-including-a-pregnant-woman-are-shot-dead-in-a-shooting-outside-kiryat-arba-when-a-gunman-opens-fire-on-their-car-h.json)  [XML](/news/2010/08/30/four-israeli-settlers-including-a-pregnant-woman-are-shot-dead-in-a-shooting-outside-kiryat-arba-when-a-gunman-opens-fire-on-their-car-h.xml)  
+
 ### [2010-08-30](/news/2010/08/30/index.md)
 
+##### Israeli settlement
 # Four Israeli settlers, including a pregnant woman, are shot dead in a shooting outside Kiryat Arba, when a gunman opens fire on their car. Hamas claims responsibility for the murder. 
 
 Hamas claims responsibility for West Bank attack in which two men and two women, one of whom was pregnant, were killed.
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/four-israelis-killed-in-shooting-attack-near-hebron-1.311318)
 1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.311330.1283279748!/image/3781610156.jpg_gen/derivatives/headline_1200x630/3781610156.jpg)

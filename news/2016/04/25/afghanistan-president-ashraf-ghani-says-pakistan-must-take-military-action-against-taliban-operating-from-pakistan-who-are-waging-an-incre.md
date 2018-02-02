@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/25/afghanistan-president-ashraf-ghani-says-pakista
 
 ### [2016-04-25](/news/2016/04/25/index.md)
 
+##### Afghanistan-Pakistan relations
 # Afghanistan President Ashraf Ghani says Pakistan must take military action against Taliban, operating from Pakistan, who are waging an increasingly deadly insurgency across his country. Otherwise, "... we will be forced to turn to the UN Security Council and start serious diplomatic efforts." 
 
 President Ashraf Ghani dropped his conciliatory approach and threatened to go to the United Nations if Pakistan failed to strike the Taliban on its soil.

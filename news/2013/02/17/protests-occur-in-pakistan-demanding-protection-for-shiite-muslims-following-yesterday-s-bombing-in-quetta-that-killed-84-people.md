@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/17/protests-occur-in-pakistan-demanding-protection-for-shiite-muslims-following-yesterday-s-bombing-in-quetta-that-killed-84-people.html)  [JSON](/news/2013/02/17/protests-occur-in-pakistan-demanding-protection-for-shiite-muslims-following-yesterday-s-bombing-in-quetta-that-killed-84-people.json)  [XML](/news/2013/02/17/protests-occur-in-pakistan-demanding-protection-for-shiite-muslims-following-yesterday-s-bombing-in-quetta-that-killed-84-people.xml)  
+
 ### [2013-02-17](/news/2013/02/17/index.md)
 
+##### Pakistan
 # Protests occur in Pakistan demanding protection for Shiite Muslims following yesterday's bombing in Quetta that killed 84 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1254828/1/.html)
 2. [Ary News](http://www.arynews.tv/english/newsdetail.asp?nid=70203)

@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2014/04/14/pro-russian-gunmen-storm-another-police-station-in-the-town-of-horlivka-donetsk-oblast.html)  [JSON](/news/2014/04/14/pro-russian-gunmen-storm-another-police-station-in-the-town-of-horlivka-donetsk-oblast.json)  [XML](/news/2014/04/14/pro-russian-gunmen-storm-another-police-station-in-the-town-of-horlivka-donetsk-oblast.xml)  
+
 ### [2014-04-14](/news/2014/04/14/index.md)
 
+##### 2014 pro-Russian protests in Ukraine
 # Pro-Russian gunmen storm another police station, in the town of Horlivka, Donetsk Oblast. 
 
 Pro-Russian activists attack another official building in east Ukraine, ignoring a deadline to leave or face eviction by Ukrainian forces.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-27018199)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74220000/jpg/_74220927_74220926.jpg)
+
+### Changes:
+
+1. [2014 pro-Russian protests in Ukraine: Pro-Russian gunmen storm another police station, in the town of Horlivka, Donetsk Oblast. ](/news/2014/04/14/2014-pro-russian-protests-in-ukraine-pro-russian-gunmen-storm-another-police-station-in-the-town-of-horlivka-donetsk-oblast.md) _2017-08-27 03:40:35 (First version)_
+1. [Pro-Russian gunmen storm another police station, in the town of Horlivka, Donetsk Oblast. ](/news/2014/04/14/pro-russian-gunmen-storm-another-police-station-in-the-town-of-horlivka-donetsk-oblast.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Pro-Russian activists attack another official building in east Ukraine, ignoring
 3. [Four people are killed after a minibus hit a landmine near a Ukrainian military checkpoint in the Donetsk Oblast. ](/news/2016/02/10/four-people-are-killed-after-a-minibus-hit-a-landmine-near-a-ukrainian-military-checkpoint-in-the-donetsk-oblast.md) _Context: Donetsk Oblast_
 4. [Fighting intensifies near the ceasefire line in eastern Ukraine with both the Government of Ukraine and the rebels blaming each other. The separatist-held cities of Donetsk and Horlivka have been bombed with hundreds of shells and rockets in the last 72 hours. ](/news/2015/08/18/fighting-intensifies-near-the-ceasefire-line-in-eastern-ukraine-with-both-the-government-of-ukraine-and-the-rebels-blaming-each-other-the-s.md) _Context: Horlivka_
 5. [Russia says that the 10 armed Russian paratroopers captured during the night in the village of Dzerkalne, Donetsk Oblast, roughly 20 kilometers from the Russian border, only entered Ukraine by "mistake". ](/news/2014/08/26/russia-says-that-the-10-armed-russian-paratroopers-captured-during-the-night-in-the-village-of-dzerkalne-donetsk-oblast-roughly-20-kilomet.md) _Context: Donetsk Oblast_
-
-### Changes:
-
-1. [2014 pro-Russian protests in Ukraine: Pro-Russian gunmen storm another police station, in the town of Horlivka, Donetsk Oblast. ](/news/2014/04/14/2014-pro-russian-protests-in-ukraine-pro-russian-gunmen-storm-another-police-station-in-the-town-of-horlivka-donetsk-oblast.md) _2017-08-27 03:40:35 (First version)_
-1. [Pro-Russian gunmen storm another police station, in the town of Horlivka, Donetsk Oblast. ](/news/2014/04/14/pro-russian-gunmen-storm-another-police-station-in-the-town-of-horlivka-donetsk-oblast.md) _(Current version)_

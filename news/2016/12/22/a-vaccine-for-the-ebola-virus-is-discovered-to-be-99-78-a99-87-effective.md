@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/22/a-vaccine-for-the-ebola-virus-is-discovered-to-
 
 ### [2016-12-22](/news/2016/12/22/index.md)
 
+##### ebola virus
 # A vaccine for the ebola virus is discovered to be 99.78%-99.87% effective. 
 
 The results are in from the clinical trials of a new vaccine — and it looks like a potent weapon. In fact, they are already stockpiling it.
@@ -20,8 +21,6 @@ The results are in from the clinical trials of a new vaccine — and it looks li
 
 ### Related:
 
-1. [The World Health Organisation confirms a second new case of Ebola virus in Sierra Leone. ](/news/2016/01/21/the-world-health-organisation-confirms-a-second-new-case-of-ebola-virus-in-sierra-leone.md) _Context: ebola virus_
-2. [Sierra Leone imposes quarantine on hundreds of people following a recent death from the Ebola virus. ](/news/2016/01/17/sierra-leone-imposes-quarantine-on-hundreds-of-people-following-a-recent-death-from-the-ebola-virus.md) _Context: ebola virus_
-3. [The World Health Organisation declares an end to the Ebola virus outbreak in West Africa with Liberia the last country to be declared free of the virus. ](/news/2016/01/14/the-world-health-organisation-declares-an-end-to-the-ebola-virus-outbreak-in-west-africa-with-liberia-the-last-country-to-be-declared-free-o.md) _Context: ebola virus_
-4. [The World Health Organization declares that the outbreak of the Ebola virus has ceased in Liberia after weeks of no cases there. ](/news/2015/05/9/the-world-health-organization-declares-that-the-outbreak-of-the-ebola-virus-has-ceased-in-liberia-after-weeks-of-no-cases-there.md) _Context: ebola virus_
-5. [North Korea lifts restrictions on entry into the country imposed ostensibly to stop the spread of the Ebola virus. ](/news/2015/03/3/north-korea-lifts-restrictions-on-entry-into-the-country-imposed-ostensibly-to-stop-the-spread-of-the-ebola-virus.md) _Context: ebola virus_
+1. [A second health worker tests positive for the ebola virus in Dallas, Texas. ](/news/2014/10/15/a-second-health-worker-tests-positive-for-the-ebola-virus-in-dallas-texas.md) _Context: ebola virus_
+2. [The ebola virus outbreak in West Africa continues to get worse with the death toll now exceeding 500. ](/news/2014/07/14/the-ebola-virus-outbreak-in-west-africa-continues-to-get-worse-with-the-death-toll-now-exceeding-500.md) _Context: ebola virus_
+3. [The World Health Organisation estimates that an outbreak of the ebola virus has killed more than 200 people in West Africa. ](/news/2014/06/6/the-world-health-organisation-estimates-that-an-outbreak-of-the-ebola-virus-has-killed-more-than-200-people-in-west-africa.md) _Context: ebola virus_

@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2004/04/8/iraq-alliancedate-january-2016-troops-are-locked-in-heavy-fighting-ukrainian-troops-cede-kut-to-moqtada-al-sadr-supporters-sunni-muslim-i.html)  [JSON](/news/2004/04/8/iraq-alliancedate-january-2016-troops-are-locked-in-heavy-fighting-ukrainian-troops-cede-kut-to-moqtada-al-sadr-supporters-sunni-muslim-i.json)  [XML](/news/2004/04/8/iraq-alliancedate-january-2016-troops-are-locked-in-heavy-fighting-ukrainian-troops-cede-kut-to-moqtada-al-sadr-supporters-sunni-muslim-i.xml)  
+
 ### [2004-04-8](/news/2004/04/8/index.md)
 
+##### ally
 #  Iraq Alliancedate=January 2016 troops are locked in heavy fighting. Ukrainian troops cede Kut to Moqtada al-Sadr supporters. Sunni Muslim insurgents engage in two fronts west of Baghdad; a Shiite uprising spreads in southern and central Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Democracy Now!](http://www.democracynow.org/article.pl?sid=04/04/08/1441244)
 2. [IHT](http://www.iht.com/articles/513889.html)
 3. [IHT](http://www.iht.com/articles/513972.html)
 4. [INN](http://www.israelnn.com/news.php3?id=60681)
-5. [NYT](http://www.nytimes.com/reuters/international/international-iraq-hostages.html)
+5. [NYT](https://www.nytimes.com/reuters/international/international-iraq-hostages.html)
 6. [TWEAN](http://www.news8austin.com/content/headlines/?ArID=103132&SecID=2)
 
 ### Related:

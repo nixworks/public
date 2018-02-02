@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/30/at-least-eight-people-die-in-an-attack-on-an-army-base-in-south-sudan.html)  [JSON](/news/2010/04/30/at-least-eight-people-die-in-an-attack-on-an-army-base-in-south-sudan.json)  [XML](/news/2010/04/30/at-least-eight-people-die-in-an-attack-on-an-army-base-in-south-sudan.xml)  
+
 ### [2010-04-30](/news/2010/04/30/index.md)
 
+##### South Sudan
 # At least eight people die in an attack on an army base in South Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8654805.stm)
 

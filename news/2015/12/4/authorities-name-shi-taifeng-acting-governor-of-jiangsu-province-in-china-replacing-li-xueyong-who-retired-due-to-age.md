@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/4/authorities-name-shi-taifeng-acting-governor-of-jiangsu-province-in-china-replacing-li-xueyong-who-retired-due-to-age.html)  [JSON](/news/2015/12/4/authorities-name-shi-taifeng-acting-governor-of-jiangsu-province-in-china-replacing-li-xueyong-who-retired-due-to-age.json)  [XML](/news/2015/12/4/authorities-name-shi-taifeng-acting-governor-of-jiangsu-province-in-china-replacing-li-xueyong-who-retired-due-to-age.xml)  
+
 ### [2015-12-4](/news/2015/12/4/index.md)
 
+##### Shi Taifeng
 # Authorities name Shi Taifeng Acting Governor of Jiangsu province in China, replacing Li Xueyong, who retired due to age. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sina](http://news.sina.com.cn/c/nd/2015-12-04/doc-ifxmifzh4352795.shtml)
 1. [Cover Image](http://n.sinaimg.cn/news/transform/20151204/hc96-fxmifzh4352732.jpg)

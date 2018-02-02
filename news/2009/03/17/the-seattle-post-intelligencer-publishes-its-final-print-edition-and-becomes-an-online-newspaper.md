@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/17/the-seattle-post-intelligencer-publishes-its-final-print-edition-and-becomes-an-online-newspaper.html)  [JSON](/news/2009/03/17/the-seattle-post-intelligencer-publishes-its-final-print-edition-and-becomes-an-online-newspaper.json)  [XML](/news/2009/03/17/the-seattle-post-intelligencer-publishes-its-final-print-edition-and-becomes-an-online-newspaper.xml)  
+
 ### [2009-03-17](/news/2009/03/17/index.md)
 
+##### Seattle Post-Intelligencer
 #  The "Seattle Post-Intelligencer" publishes its final print edition and becomes an online newspaper. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Seattle PI](http://www.seattlepi.com/business/403793_piclosure17.html)
 1. [Cover Image](http://ww4.hdnux.com/photos/02/62/03/729335/3/rawImage.jpg)

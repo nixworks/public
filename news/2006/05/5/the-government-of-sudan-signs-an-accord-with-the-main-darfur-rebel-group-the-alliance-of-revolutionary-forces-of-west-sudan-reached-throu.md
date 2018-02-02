@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/5/the-government-of-sudan-signs-an-accord-with-the-main-darfur-rebel-group-the-alliance-of-revolutionary-forces-of-west-sudan-reached-throu.html)  [JSON](/news/2006/05/5/the-government-of-sudan-signs-an-accord-with-the-main-darfur-rebel-group-the-alliance-of-revolutionary-forces-of-west-sudan-reached-throu.json)  [XML](/news/2006/05/5/the-government-of-sudan-signs-an-accord-with-the-main-darfur-rebel-group-the-alliance-of-revolutionary-forces-of-west-sudan-reached-throu.xml)  
+
 ### [2006-05-5](/news/2006/05/5/index.md)
 
+##### Sudan
 #  The government of Sudan signs an accord with the main Darfur rebel group, the Alliance of Revolutionary Forces of West Sudan, reached through mediation in Abuja, Nigeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4978668.stm)
 

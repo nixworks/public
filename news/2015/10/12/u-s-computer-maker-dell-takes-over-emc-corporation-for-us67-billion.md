@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/12/u-s-computer-maker-dell-takes-over-emc-corporation-for-us67-billion.html)  [JSON](/news/2015/10/12/u-s-computer-maker-dell-takes-over-emc-corporation-for-us67-billion.json)  [XML](/news/2015/10/12/u-s-computer-maker-dell-takes-over-emc-corporation-for-us67-billion.xml)  
+
 ### [2015-10-12](/news/2015/10/12/index.md)
 
+##### Dell
 # U.S. computer maker Dell takes over EMC Corporation for $US67 billion. 
 
 US computer giant Dell agrees a deal to buy data storage company EMC for $67bn - if approved it would be the biggest ever between tech companies.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-34505553)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/120DB/production/_86074937_gettyimages-181792558.jpg)

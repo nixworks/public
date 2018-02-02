@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/21/the-human-genome-project-revises-its-estimate-of-the-number-of-genes-in-the-human-genome-putting-the-number-at-20-000-to-25-000-about-30.html)  [JSON](/news/2004/10/21/the-human-genome-project-revises-its-estimate-of-the-number-of-genes-in-the-human-genome-putting-the-number-at-20-000-to-25-000-about-30.json)  [XML](/news/2004/10/21/the-human-genome-project-revises-its-estimate-of-the-number-of-genes-in-the-human-genome-putting-the-number-at-20-000-to-25-000-about-30.xml)  
+
 ### [2004-10-21](/news/2004/10/21/index.md)
 
+##### Human Genome Project
 #  The Human Genome Project revises its estimate of the number of genes in the human genome, putting the number at 20,000 to 25,000, about 30 percent fewer than the previous estimate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/newsitems/200410/s1224587.htm)
 

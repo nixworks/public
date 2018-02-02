@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/2/voters-in-the-bahamas-go-to-the-polls-in-elections-for-the-house-of-assembly.html)  [JSON](/news/2007/05/2/voters-in-the-bahamas-go-to-the-polls-in-elections-for-the-house-of-assembly.json)  [XML](/news/2007/05/2/voters-in-the-bahamas-go-to-the-polls-in-elections-for-the-house-of-assembly.xml)  
+
 ### [2007-05-2](/news/2007/05/2/index.md)
 
+##### Bahamas
 #  Voters in The Bahamas go to the polls in elections for the House of Assembly 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://edition.cnn.com/2007/WORLD/americas/05/02/bahamas.election.ap/index.html?eref=rss_world)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/6618421.stm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/3/in-south-africa-police-look-for-the-three-killers-of-thulani-zulu-a-zulu-prince-and-an-anc-official-thulani-zulu-was-killed-in-a-drive-b.html)  [JSON](/news/2005/03/3/in-south-africa-police-look-for-the-three-killers-of-thulani-zulu-a-zulu-prince-and-an-anc-official-thulani-zulu-was-killed-in-a-drive-b.json)  [XML](/news/2005/03/3/in-south-africa-police-look-for-the-three-killers-of-thulani-zulu-a-zulu-prince-and-an-anc-official-thulani-zulu-was-killed-in-a-drive-b.xml)  
+
 ### [2005-03-3](/news/2005/03/3/index.md)
 
+##### South Africa
 #  In South Africa, police look for the three killers of Thulani Zulu, a Zulu prince and an ANC official. Thulani Zulu was killed in a drive-by shooting. IFP also condemns the act 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4314003.stm)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=15&art_id=qw1109844361159B265)

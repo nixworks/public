@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/21/newfoundland-and-labrador-general-election-2003-the-tories-of-danny-williams-defeat-the-incumbent-liberals-under-premier-roger-grimes-ta.html)  [JSON](/news/2003/10/21/newfoundland-and-labrador-general-election-2003-the-tories-of-danny-williams-defeat-the-incumbent-liberals-under-premier-roger-grimes-ta.json)  [XML](/news/2003/10/21/newfoundland-and-labrador-general-election-2003-the-tories-of-danny-williams-defeat-the-incumbent-liberals-under-premier-roger-grimes-ta.xml)  
+
 ### [2003-10-21](/news/2003/10/21/index.md)
 
+##### Newfoundland and Labrador general election, 2003
 #  Newfoundland and Labrador general election, 2003: The Tories of Danny Williams defeat the incumbent Liberals under Premier Roger Grimes, taking more than two-thirds of the seats in the House of Assembly.
 
 

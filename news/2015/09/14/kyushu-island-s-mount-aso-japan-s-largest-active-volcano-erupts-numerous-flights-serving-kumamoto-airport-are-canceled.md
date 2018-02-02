@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/14/kyushu-island-s-mount-aso-japan-s-largest-active-volcano-erupts-numerous-flights-serving-kumamoto-airport-are-canceled.html)  [JSON](/news/2015/09/14/kyushu-island-s-mount-aso-japan-s-largest-active-volcano-erupts-numerous-flights-serving-kumamoto-airport-are-canceled.json)  [XML](/news/2015/09/14/kyushu-island-s-mount-aso-japan-s-largest-active-volcano-erupts-numerous-flights-serving-kumamoto-airport-are-canceled.xml)  
+
 ### [2015-09-14](/news/2015/09/14/index.md)
 
+##### Kyushu
 # Kyushu island's Mount Aso, Japan's largest active volcano, erupts. Numerous flights serving Kumamoto Airport are canceled. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2015/09/14/travel/aso-volcano-erupts-japan-flights/)
 2. [Reuters via Trust](http://www.trust.org/item/20150914010212-zyw68/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/5/german-painter-tomma-abts-wins-the-2006-turner-prize.html)  [JSON](/news/2006/12/5/german-painter-tomma-abts-wins-the-2006-turner-prize.json)  [XML](/news/2006/12/5/german-painter-tomma-abts-wins-the-2006-turner-prize.xml)  
+
 ### [2006-12-5](/news/2006/12/5/index.md)
 
+##### Tomma Abts
 #  German painter Tomma Abts wins the 2006 Turner Prize. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/6205970.stm)
 

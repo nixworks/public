@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/13/a-strong-earthquake-strikes-near-guam.html)  [JSON](/news/2010/08/13/a-strong-earthquake-strikes-near-guam.json)  [XML](/news/2010/08/13/a-strong-earthquake-strikes-near-guam.xml)  
+
 ### [2010-08-13](/news/2010/08/13/index.md)
 
+##### Guam
 # A strong earthquake strikes near Guam. 
 
 A strong quake strikes at sea south-west of the US Pacific territory of Guam but there are no reports of casualties.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-10972884)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

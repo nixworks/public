@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/3/up-to-50-employees-of-australia-s-national-postal-service-have-been-caught-sending-pornographic-emails-including-some-involving-children-i.html)  [JSON](/news/2003/12/3/up-to-50-employees-of-australia-s-national-postal-service-have-been-caught-sending-pornographic-emails-including-some-involving-children-i.json)  [XML](/news/2003/12/3/up-to-50-employees-of-australia-s-national-postal-service-have-been-caught-sending-pornographic-emails-including-some-involving-children-i.xml)  
+
 ### [2003-12-3](/news/2003/12/3/index.md)
 
+##### Australia
 #  Up to 50 employees of Australia's national postal service have been caught sending pornographic emails, including some involving children in sex acts, according to an investigation published by the Sydney-based "Daily Telegraph". Two have been sacked, at least four have resigned, and dozens have been suspended pending further investigations. [http:--news.com.au-common-story_page-0,4057,8058890%5E2,00.html]
 
 

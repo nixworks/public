@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/15/at-least-42-people-die-after-a-building-collapses-in-eastern-new-delhi-india-with-at-least-twenty-people-trapped-in-the-rubble.html)  [JSON](/news/2010/11/15/at-least-42-people-die-after-a-building-collapses-in-eastern-new-delhi-india-with-at-least-twenty-people-trapped-in-the-rubble.json)  [XML](/news/2010/11/15/at-least-42-people-die-after-a-building-collapses-in-eastern-new-delhi-india-with-at-least-twenty-people-trapped-in-the-rubble.xml)  
+
 ### [2010-11-15](/news/2010/11/15/index.md)
 
+##### New Delhi
 # At least 42 people die after a building collapses in eastern New Delhi, India with at least twenty people trapped in the rubble. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5i0oOFkMv0G_KkiQxjWdwapEZvSjw?docId=CNG.c3a7214bcfe6083ee696ade4d9402691.481)
 

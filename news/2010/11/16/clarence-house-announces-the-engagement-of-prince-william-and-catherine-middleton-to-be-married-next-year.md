@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/16/clarence-house-announces-the-engagement-of-prince-william-and-catherine-middleton-to-be-married-next-year.html)  [JSON](/news/2010/11/16/clarence-house-announces-the-engagement-of-prince-william-and-catherine-middleton-to-be-married-next-year.json)  [XML](/news/2010/11/16/clarence-house-announces-the-engagement-of-prince-william-and-catherine-middleton-to-be-married-next-year.xml)  
+
 ### [2010-11-16](/news/2010/11/16/index.md)
 
+##### Clarence House
 # Clarence House announces the engagement of Prince William and Catherine Middleton, to be married next year. 
 
 Prince William is to marry long-term girlfriend Kate Middleton next year after the couple became engaged in Kenya, Clarence House says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-11765422)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/50003000/jpg/_50003502_010658420-2.jpg)

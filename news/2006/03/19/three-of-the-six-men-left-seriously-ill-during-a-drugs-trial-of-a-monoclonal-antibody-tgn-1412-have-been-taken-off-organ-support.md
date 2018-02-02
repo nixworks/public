@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/19/three-of-the-six-men-left-seriously-ill-during-a-drugs-trial-of-a-monoclonal-antibody-tgn-1412-have-been-taken-off-organ-support.html)  [JSON](/news/2006/03/19/three-of-the-six-men-left-seriously-ill-during-a-drugs-trial-of-a-monoclonal-antibody-tgn-1412-have-been-taken-off-organ-support.json)  [XML](/news/2006/03/19/three-of-the-six-men-left-seriously-ill-during-a-drugs-trial-of-a-monoclonal-antibody-tgn-1412-have-been-taken-off-organ-support.xml)  
+
 ### [2006-03-19](/news/2006/03/19/index.md)
 
+##### monoclonal antibody
 #  Three of the six men left seriously ill during a drugs trial (of a monoclonal antibody TGN 1412) have been taken off organ support. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/england/london/4822574.stm)
 

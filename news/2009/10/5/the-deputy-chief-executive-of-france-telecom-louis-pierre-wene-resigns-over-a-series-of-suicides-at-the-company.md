@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/5/the-deputy-chief-executive-of-france-telecom-louis-pierre-wene-resigns-over-a-series-of-suicides-at-the-company.html)  [JSON](/news/2009/10/5/the-deputy-chief-executive-of-france-telecom-louis-pierre-wene-resigns-over-a-series-of-suicides-at-the-company.json)  [XML](/news/2009/10/5/the-deputy-chief-executive-of-france-telecom-louis-pierre-wene-resigns-over-a-series-of-suicides-at-the-company.xml)  
+
 ### [2009-10-5](/news/2009/10/5/index.md)
 
+##### France Tlcom
 #  The Deputy Chief Executive of France Tlcom, Louis-Pierre Wene, resigns over a series of suicides at the company. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/BUSINESS/10/05/france.telecom.suicides.ft/)
 2. [euronews](http://www.euronews.net/2009/10/05/france-telecom-deputy-ceo-quits/)

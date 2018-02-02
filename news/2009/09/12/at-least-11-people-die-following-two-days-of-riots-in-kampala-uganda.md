@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/12/at-least-11-people-die-following-two-days-of-riots-in-kampala-uganda.html)  [JSON](/news/2009/09/12/at-least-11-people-die-following-two-days-of-riots-in-kampala-uganda.json)  [XML](/news/2009/09/12/at-least-11-people-die-following-two-days-of-riots-in-kampala-uganda.xml)  
+
 ### [2009-09-12](/news/2009/09/12/index.md)
 
+##### Kampala
 #  At least 11 people die following two days of riots in Kampala, Uganda. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=136&art_id=nw20090912172126763C597144)
 

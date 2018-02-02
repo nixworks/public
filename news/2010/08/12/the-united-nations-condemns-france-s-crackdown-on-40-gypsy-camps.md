@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/12/the-united-nations-condemns-france-s-crackdown-on-40-gypsy-camps.html)  [JSON](/news/2010/08/12/the-united-nations-condemns-france-s-crackdown-on-40-gypsy-camps.json)  [XML](/news/2010/08/12/the-united-nations-condemns-france-s-crackdown-on-40-gypsy-camps.xml)  
+
 ### [2010-08-12](/news/2010/08/12/index.md)
 
+##### United Nations
 # The United Nations condemns France's crackdown on 40 gypsy camps. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10955717)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

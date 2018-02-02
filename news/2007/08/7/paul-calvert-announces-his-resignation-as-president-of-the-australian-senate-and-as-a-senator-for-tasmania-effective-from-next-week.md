@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/7/paul-calvert-announces-his-resignation-as-president-of-the-australian-senate-and-as-a-senator-for-tasmania-effective-from-next-week.html)  [JSON](/news/2007/08/7/paul-calvert-announces-his-resignation-as-president-of-the-australian-senate-and-as-a-senator-for-tasmania-effective-from-next-week.json)  [XML](/news/2007/08/7/paul-calvert-announces-his-resignation-as-president-of-the-australian-senate-and-as-a-senator-for-tasmania-effective-from-next-week.xml)  
+
 ### [2007-08-7](/news/2007/08/7/index.md)
 
+##### Paul Calvert
 #  Paul Calvert announces his resignation as President of the Australian Senate and as a Senator for Tasmania effective from next week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via Melbourne Herald Sun](http://www.news.com.au/heraldsun/story/0,21985,22203352-5005961,00.html)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/04/26/in-an-open-letter-to-tony-blair-52-former-high-ranking-british-diplomats-including-former-ambassadors-to-iraq-and-israel-condemn-the-pri.html)  [JSON](/news/2004/04/26/in-an-open-letter-to-tony-blair-52-former-high-ranking-british-diplomats-including-former-ambassadors-to-iraq-and-israel-condemn-the-pri.json)  [XML](/news/2004/04/26/in-an-open-letter-to-tony-blair-52-former-high-ranking-british-diplomats-including-former-ambassadors-to-iraq-and-israel-condemn-the-pri.xml)  
+
 ### [2004-04-26](/news/2004/04/26/index.md)
 
+##### Tony Blair
 #  In an open letter to Tony Blair, 52 former high ranking British diplomats, including former ambassadors to Iraq and Israel, condemn the Prime Minister's foreign policy stance in the Middle East as "doomed to failure" and also condemn George W. Bush's recent endorsement of Ariel Sharon's offer to withdraw settlers from the Gaza Strip while leaving some in the West Bank as "one-sided and illegal and which will cost yet more Israeli and Palestinian blood."
 
 

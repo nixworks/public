@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/17/in-nazran-ingushetia-arsonists-set-fire-to-the-
 
 ### [2018-01-17](/news/2018/01/17/index.md)
 
+##### Insurgency in the North Caucasus
 # In Nazran, Ingushetia, arsonists set fire to the office of Memorial, a Russian human rights organization. 
 
 

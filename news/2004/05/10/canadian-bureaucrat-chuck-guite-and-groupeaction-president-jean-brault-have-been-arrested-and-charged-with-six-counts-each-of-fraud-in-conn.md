@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/10/canadian-bureaucrat-chuck-guite-and-groupeaction-president-jean-brault-have-been-arrested-and-charged-with-six-counts-each-of-fraud-in-conn.html)  [JSON](/news/2004/05/10/canadian-bureaucrat-chuck-guite-and-groupeaction-president-jean-brault-have-been-arrested-and-charged-with-six-counts-each-of-fraud-in-conn.json)  [XML](/news/2004/05/10/canadian-bureaucrat-chuck-guite-and-groupeaction-president-jean-brault-have-been-arrested-and-charged-with-six-counts-each-of-fraud-in-conn.xml)  
+
 ### [2004-05-10](/news/2004/05/10/index.md)
 
+##### Chuck Guite
 #  Canadian bureaucrat Chuck Guite and GroupeAction president Jean Brault have been arrested and charged with six counts each of fraud in connection with the Liberal sponsorship scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1084204352744_45/?hub=TopStories)
 

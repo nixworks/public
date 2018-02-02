@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/27/iraqi-security-minister-abd-al-karim-al-enzi-accuses-american-soldiers-accompanied-by-iraqi-troops-to-have-raided-the-mustafa-shiite-mosque.html)  [JSON](/news/2006/03/27/iraqi-security-minister-abd-al-karim-al-enzi-accuses-american-soldiers-accompanied-by-iraqi-troops-to-have-raided-the-mustafa-shiite-mosque.json)  [XML](/news/2006/03/27/iraqi-security-minister-abd-al-karim-al-enzi-accuses-american-soldiers-accompanied-by-iraqi-troops-to-have-raided-the-mustafa-shiite-mosque.xml)  
+
 ### [2006-03-27](/news/2006/03/27/index.md)
 
+##### Iraq
 #  Iraqi security minister Abd al Karim al Enzi accuses American soldiers accompanied by Iraqi troops to have raided the Mustafa Shiite mosque in eastern Baghdad and executed 37 unarmed people who had been tied up. 
 
 News and opinion from The Times &amp; The Sunday Times
 
 
-### Source:
+### Sources:
 
 1. [Palestine Chronicle](http://www.palestinechronicle.com/story.php?sid=033106220004)
 2. [Times](http://www.timesonline.co.uk/article/0,,7374-2106068,00.html)

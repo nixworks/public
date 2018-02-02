@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/10/chinese-exports-rose-by-43-9-this-past-june-compared-to-the-same-time-last-year.html)  [JSON](/news/2010/07/10/chinese-exports-rose-by-43-9-this-past-june-compared-to-the-same-time-last-year.json)  [XML](/news/2010/07/10/chinese-exports-rose-by-43-9-this-past-june-compared-to-the-same-time-last-year.xml)  
+
 ### [2010-07-10](/news/2010/07/10/index.md)
 
+##### China
 # Chinese exports rose by 43.9% this past June, compared to the same time last year. 
 
 China records its biggest trade surplus this year, $20bn in June, despite fears the European debt crisis would damage growth.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/business/10584264.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/8/at-least-245-people-are-reportedly-injured-follo
 
 ### [2016-04-8](/news/2016/04/8/index.md)
 
+##### San Jose
 # At least 245 people are reportedly injured following a head-on collision between two commuter trains in San Jose, Costa Rica. 
 
 

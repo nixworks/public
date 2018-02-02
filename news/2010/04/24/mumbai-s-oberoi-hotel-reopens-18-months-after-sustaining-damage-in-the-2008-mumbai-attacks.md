@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/24/mumbai-s-oberoi-hotel-reopens-18-months-after-sustaining-damage-in-the-2008-mumbai-attacks.html)  [JSON](/news/2010/04/24/mumbai-s-oberoi-hotel-reopens-18-months-after-sustaining-damage-in-the-2008-mumbai-attacks.json)  [XML](/news/2010/04/24/mumbai-s-oberoi-hotel-reopens-18-months-after-sustaining-damage-in-the-2008-mumbai-attacks.xml)  
+
 ### [2010-04-24](/news/2010/04/24/index.md)
 
+##### Mumbai
 # Mumbai's Oberoi Hotel reopens 18 months after sustaining damage in the 2008 Mumbai attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8641435.stm)
 

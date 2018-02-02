@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/4/china-s-state-councilor-dai-bingguo-delivers-a-speech-at-the-opening-session-of-the-united-nations-framework-convention-on-climate-change-me.html)  [JSON](/news/2010/10/4/china-s-state-councilor-dai-bingguo-delivers-a-speech-at-the-opening-session-of-the-united-nations-framework-convention-on-climate-change-me.json)  [XML](/news/2010/10/4/china-s-state-councilor-dai-bingguo-delivers-a-speech-at-the-opening-session-of-the-united-nations-framework-convention-on-climate-change-me.xml)  
+
 ### [2010-10-4](/news/2010/10/4/index.md)
 
+##### Dai Bingguo
 # China's State Councilor Dai Bingguo delivers a speech at the opening session of the United Nations Framework Convention on Climate Change meeting in Tianjin before the U.N. climate summit in Mexico at year's end. 
 
 UN climate chief urges nations to find common ground on curbing greenhouse gases in a bid to pave way for a new treaty.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/2010104111111352618.html)
 2. [China Daily'' via Xinhua](http://www.chinadaily.com.cn/world/2010-10/04/content_11377094.htm)

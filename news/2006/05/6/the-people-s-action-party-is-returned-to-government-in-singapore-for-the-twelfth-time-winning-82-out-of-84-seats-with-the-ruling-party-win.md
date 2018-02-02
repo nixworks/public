@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/6/the-people-s-action-party-is-returned-to-government-in-singapore-for-the-twelfth-time-winning-82-out-of-84-seats-with-the-ruling-party-win.html)  [JSON](/news/2006/05/6/the-people-s-action-party-is-returned-to-government-in-singapore-for-the-twelfth-time-winning-82-out-of-84-seats-with-the-ruling-party-win.json)  [XML](/news/2006/05/6/the-people-s-action-party-is-returned-to-government-in-singapore-for-the-twelfth-time-winning-82-out-of-84-seats-with-the-ruling-party-win.xml)  
+
 ### [2006-05-6](/news/2006/05/6/index.md)
 
+##### People's Action Party
 #  The People's Action Party is returned to government in Singapore for the twelfth time, winning 82 out of 84 seats with the ruling party winning 66.6% of the total votes in the 2006 general election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNA](http://www.channelnewsasia.com/stories/singaporelocalnews/view/206936/1/.html)
 

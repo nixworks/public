@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/24/japanese-prosecutors-release-the-chinese-fishing-boat-captain-recently-captured-in-disputed-waters-in-the-east-china-sea-after-pressure-from.html)  [JSON](/news/2010/09/24/japanese-prosecutors-release-the-chinese-fishing-boat-captain-recently-captured-in-disputed-waters-in-the-east-china-sea-after-pressure-from.json)  [XML](/news/2010/09/24/japanese-prosecutors-release-the-chinese-fishing-boat-captain-recently-captured-in-disputed-waters-in-the-east-china-sea-after-pressure-from.xml)  
+
 ### [2010-09-24](/news/2010/09/24/index.md)
 
+##### Japan
 # Japanese prosecutors release the Chinese fishing boat captain recently captured in disputed waters in the East China Sea after pressure from the Chinese government. 
 
 Japan frees a Chinese fishing boat captain whose arrest in disputed waters two weeks ago sparked the worst row with Beijing in years.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/09/201092454848191156.html)
 2. [BBC](http://www.bbc.co.uk/news/world-11403241)

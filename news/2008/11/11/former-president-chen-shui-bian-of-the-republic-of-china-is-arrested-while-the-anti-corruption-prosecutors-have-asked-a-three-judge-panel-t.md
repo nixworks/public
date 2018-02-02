@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/11/former-president-chen-shui-bian-of-the-republic-of-china-is-arrested-while-the-anti-corruption-prosecutors-have-asked-a-three-judge-panel-t.html)  [JSON](/news/2008/11/11/former-president-chen-shui-bian-of-the-republic-of-china-is-arrested-while-the-anti-corruption-prosecutors-have-asked-a-three-judge-panel-t.json)  [XML](/news/2008/11/11/former-president-chen-shui-bian-of-the-republic-of-china-is-arrested-while-the-anti-corruption-prosecutors-have-asked-a-three-judge-panel-t.xml)  
+
 ### [2008-11-11](/news/2008/11/11/index.md)
 
+##### President
 #  Former President Chen Shui-bian of the Republic of China is arrested while the anti-corruption prosecutors have asked a three-judge panel to formally detain the former President. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/asiapcf/11/11/taiwan.former.president.handcuffs/index.html)
 

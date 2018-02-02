@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/15/a-hearing-into-the-territorial-row-between-thailand-and-cambodia-begins-at-the-international-court-of-justice-in-the-hague.html)  [JSON](/news/2013/04/15/a-hearing-into-the-territorial-row-between-thailand-and-cambodia-begins-at-the-international-court-of-justice-in-the-hague.json)  [XML](/news/2013/04/15/a-hearing-into-the-territorial-row-between-thailand-and-cambodia-begins-at-the-international-court-of-justice-in-the-hague.xml)  
+
 ### [2013-04-15](/news/2013/04/15/index.md)
 
+##### territorial row
 # A hearing into the territorial row between Thailand and Cambodia begins at the International Court of Justice in The Hague. 
 
 A week-long hearing into a territorial dispute between Thailand and Cambodia begins in The Hague.
 
 
-### Source:
+### Sources:
 
 1. [ABC/AFP via Radio Australia](http://www.radioaustralia.net.au/international/2013-04-15/thaicambodia-dispute-to-be-heard-by-un-court/1116410)
 1. [Cover Image](http://www.radioaustralia.net.au/sites/default/files/images/2013/04/15/541748-3x2-700x467_6.jpg)

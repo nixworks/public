@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/2/president-george-w-bush-begins-his-middle-east-trip-today-beginning-with-egypt-he-is-in-talks-with-israeli-and-palestinian-leaders-he-p.html)  [JSON](/news/2003/06/2/president-george-w-bush-begins-his-middle-east-trip-today-beginning-with-egypt-he-is-in-talks-with-israeli-and-palestinian-leaders-he-p.json)  [XML](/news/2003/06/2/president-george-w-bush-begins-his-middle-east-trip-today-beginning-with-egypt-he-is-in-talks-with-israeli-and-palestinian-leaders-he-p.xml)  
+
 ### [2003-06-2](/news/2003/06/2/index.md)
 
+##### George W. Bush
 #  President George W. Bush begins his Middle East trip today, beginning with Egypt. He is in talks with Israeli and Palestinian leaders. He promises to work for the goal of Israel and a Palestinian state being able to live side by side without any bloodshed.
 
 

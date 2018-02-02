@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/5/belmont-stakes-birdstone-defeats-smarty-jones-to-prevent-smarty-jones-from-winning-the-united-states-triple-crown-of-thoroughbred-racing.html)  [JSON](/news/2004/06/5/belmont-stakes-birdstone-defeats-smarty-jones-to-prevent-smarty-jones-from-winning-the-united-states-triple-crown-of-thoroughbred-racing.json)  [XML](/news/2004/06/5/belmont-stakes-birdstone-defeats-smarty-jones-to-prevent-smarty-jones-from-winning-the-united-states-triple-crown-of-thoroughbred-racing.xml)  
+
 ### [2004-06-5](/news/2004/06/5/index.md)
 
+##### Belmont Stakes
 #  Belmont Stakes: Birdstone defeats Smarty Jones to prevent Smarty Jones from winning the United States Triple Crown of Thoroughbred Racing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://espn.go.com/horse/triplecrown04/s/2004/0605/1816487.html)
 

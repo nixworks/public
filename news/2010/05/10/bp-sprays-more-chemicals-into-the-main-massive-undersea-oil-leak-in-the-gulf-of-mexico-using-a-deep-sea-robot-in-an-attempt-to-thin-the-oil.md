@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/05/10/bp-sprays-more-chemicals-into-the-main-massive-undersea-oil-leak-in-the-gulf-of-mexico-using-a-deep-sea-robot-in-an-attempt-to-thin-the-oil.html)  [JSON](/news/2010/05/10/bp-sprays-more-chemicals-into-the-main-massive-undersea-oil-leak-in-the-gulf-of-mexico-using-a-deep-sea-robot-in-an-attempt-to-thin-the-oil.json)  [XML](/news/2010/05/10/bp-sprays-more-chemicals-into-the-main-massive-undersea-oil-leak-in-the-gulf-of-mexico-using-a-deep-sea-robot-in-an-attempt-to-thin-the-oil.xml)  
+
 ### [2010-05-10](/news/2010/05/10/index.md)
 
+##### BP
 # BP sprays more chemicals into the main massive undersea oil leak in the Gulf of Mexico using a deep-sea robot in an attempt to thin the oil which is rushing up from the seabed at the rate of about 210,000 gallons (795,000 liters) per day. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/news/nation/2010-05-10-oil-rig-blast_N.htm)
+1. [USA Today](https://www.usatoday.com/news/nation/2010-05-10-oil-rig-blast_N.htm)
 
 ### Related:
 

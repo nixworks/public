@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/15/american-actress-eliza-dushku-says-she-was-sexu
 
 ### [2018-01-15](/news/2018/01/15/index.md)
 
+##### #MeToo
 # American actress Eliza Dushku says she was sexually assaulted by a stuntman when she was 12 years old. 
 
 Stunt coordinator Joel Kramer denies allegations that he molested actor during production of the 1994 film

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/15/pakistan-arrests-124-people-in-a-crackdown-on-terrorism.html)  [JSON](/news/2009/01/15/pakistan-arrests-124-people-in-a-crackdown-on-terrorism.json)  [XML](/news/2009/01/15/pakistan-arrests-124-people-in-a-crackdown-on-terrorism.xml)  
+
 ### [2009-01-15](/news/2009/01/15/index.md)
 
+##### Pakistan
 #  Pakistan arrests 124 people in a crackdown on terrorism. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Mumbia-Attacks-Pakistan-Officials-Say-124-Arrested-In-Crackdown-On-Groups-Linked-To-Attacks/Article/200901315203778?lpos=World_News_Top_Stories_Header_0&lid=ARTICLE_15203778_Mumbia_Attacks%3A_Pakistan_Officials_Say_124_Arrested_In_Crackdown_On_Groups_Linked_To_Attacks)
 

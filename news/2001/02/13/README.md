@@ -1,7 +1,7 @@
-## [2001-02-13](/news/2001/02/13/index.md)
 
-### [ A 6.6 magnitude earthquake hits El Salvador, killing at least 400.](/news/2001/02/13/a-6-6-magnitude-earthquake-hits-el-salvador-killing-at-least-400.md)
-_Context: 6.6 magnitude earthquake, El Salvador_
+Formats: [HTML](2001/02/13/index.html)  [JSON](2001/02/13/index.json)  [XML](2001/02/13/index.xml)  
+
+## [2001-02-13](/news/2001/02/13/index.md)
 
 ## [Previous Day...](/news/2001/02/12/index.md)
 

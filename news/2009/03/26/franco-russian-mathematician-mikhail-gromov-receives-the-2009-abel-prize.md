@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/26/franco-russian-mathematician-mikhail-gromov-receives-the-2009-abel-prize.html)  [JSON](/news/2009/03/26/franco-russian-mathematician-mikhail-gromov-receives-the-2009-abel-prize.json)  [XML](/news/2009/03/26/franco-russian-mathematician-mikhail-gromov-receives-the-2009-abel-prize.xml)  
+
 ### [2009-03-26](/news/2009/03/26/index.md)
 
+##### France
 #  Franco-Russian mathematician Mikhail Gromov receives the 2009 Abel Prize. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MAA](http://www.maa.org/devlin/devlin_04_04.html)
 

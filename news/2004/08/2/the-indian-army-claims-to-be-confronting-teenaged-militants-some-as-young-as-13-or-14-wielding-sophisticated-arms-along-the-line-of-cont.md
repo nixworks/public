@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/2/the-indian-army-claims-to-be-confronting-teenaged-militants-some-as-young-as-13-or-14-wielding-sophisticated-arms-along-the-line-of-cont.html)  [JSON](/news/2004/08/2/the-indian-army-claims-to-be-confronting-teenaged-militants-some-as-young-as-13-or-14-wielding-sophisticated-arms-along-the-line-of-cont.json)  [XML](/news/2004/08/2/the-indian-army-claims-to-be-confronting-teenaged-militants-some-as-young-as-13-or-14-wielding-sophisticated-arms-along-the-line-of-cont.xml)  
+
 ### [2004-08-2](/news/2004/08/2/index.md)
 
+##### Indian Army
 #  The Indian Army claims to be confronting teenaged militants, some as young as 13 or 14, wielding sophisticated arms, along the Line of Control in Jammu and Kashmir. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times Of India](http://timesofindia.indiatimes.com/articleshow/799405.cms)
 

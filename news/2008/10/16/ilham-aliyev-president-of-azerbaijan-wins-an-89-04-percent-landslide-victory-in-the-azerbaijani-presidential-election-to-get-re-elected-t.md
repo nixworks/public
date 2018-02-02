@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/16/ilham-aliyev-president-of-azerbaijan-wins-an-89-04-percent-landslide-victory-in-the-azerbaijani-presidential-election-to-get-re-elected-t.html)  [JSON](/news/2008/10/16/ilham-aliyev-president-of-azerbaijan-wins-an-89-04-percent-landslide-victory-in-the-azerbaijani-presidential-election-to-get-re-elected-t.json)  [XML](/news/2008/10/16/ilham-aliyev-president-of-azerbaijan-wins-an-89-04-percent-landslide-victory-in-the-azerbaijani-presidential-election-to-get-re-elected-t.xml)  
+
 ### [2008-10-16](/news/2008/10/16/index.md)
 
+##### Ilham Aliyev's
 #  Ilham Aliyev, President of Azerbaijan wins an 89.04 percent landslide victory in the Azerbaijani presidential election to get re-elected. The Organization for Security and Cooperation in Europe criticizes the elections, though it notes progress. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/asiapcf/10/16/azerbaijan.election.ap/index.html?eref=rss_world)
 2. [OSCE/ODIHR](http://www.osce.org/odihr/item_1_34400.html)

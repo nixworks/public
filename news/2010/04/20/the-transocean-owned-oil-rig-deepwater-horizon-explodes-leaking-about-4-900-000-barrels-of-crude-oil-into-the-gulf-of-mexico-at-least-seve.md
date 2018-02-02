@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/20/the-transocean-owned-oil-rig-deepwater-horizon-explodes-leaking-about-4-900-000-barrels-of-crude-oil-into-the-gulf-of-mexico-at-least-seve.html)  [JSON](/news/2010/04/20/the-transocean-owned-oil-rig-deepwater-horizon-explodes-leaking-about-4-900-000-barrels-of-crude-oil-into-the-gulf-of-mexico-at-least-seve.json)  [XML](/news/2010/04/20/the-transocean-owned-oil-rig-deepwater-horizon-explodes-leaking-about-4-900-000-barrels-of-crude-oil-into-the-gulf-of-mexico-at-least-seve.xml)  
+
 ### [2010-04-20](/news/2010/04/20/index.md)
 
+##### Transocean
 # The Transocean-owned oil rig Deepwater Horizon explodes, leaking about 4,900,000 barrels of crude oil into the Gulf of Mexico. At least seven people were injured and over a dozen were missing at sea. 
 
 The oil rig that exploded and then sank 36 hours later could lead to a major oil spill, officials say, and as a result a remotely operated vehicle is surveying the seas and cleanup assets are in place.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/36683314)
 1. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Photo/_new/100422_oilrigsheen.standard.jpg)

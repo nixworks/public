@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/20/an-irish-born-australian-man-who-admitted-after-initially-pleading-innocence-to-breaching-the-state-of-emergency-during-the-anti-government.html)  [JSON](/news/2010/08/20/an-irish-born-australian-man-who-admitted-after-initially-pleading-innocence-to-breaching-the-state-of-emergency-during-the-anti-government.json)  [XML](/news/2010/08/20/an-irish-born-australian-man-who-admitted-after-initially-pleading-innocence-to-breaching-the-state-of-emergency-during-the-anti-government.xml)  
+
 ### [2010-08-20](/news/2010/08/20/index.md)
 
+##### 2010 Thai political protests
 # An Irish-born Australian man who admitted after initially pleading innocence to breaching the state of emergency during the anti-government protests in Thailand is deported to Australia; he says he was beaten, was treated harshly and was not shown an arrest warrant. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/thailand-to-deport-aussie-protester-20100820-138l5.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

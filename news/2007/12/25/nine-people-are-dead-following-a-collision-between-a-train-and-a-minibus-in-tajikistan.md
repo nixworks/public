@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/25/nine-people-are-dead-following-a-collision-between-a-train-and-a-minibus-in-tajikistan.html)  [JSON](/news/2007/12/25/nine-people-are-dead-following-a-collision-between-a-train-and-a-minibus-in-tajikistan.json)  [XML](/news/2007/12/25/nine-people-are-dead-following-a-collision-between-a-train-and-a-minibus-in-tajikistan.xml)  
+
 ### [2007-12-25](/news/2007/12/25/index.md)
 
+##### Tajikistan
 #  Nine people are dead following a collision between a train and a minibus in Tajikistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7159715.stm)
 

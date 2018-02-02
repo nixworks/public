@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/08/27/voters-in-singapore-go-to-the-polls-for-the-presidential-election.html)  [JSON](/news/2011/08/27/voters-in-singapore-go-to-the-polls-for-the-presidential-election.json)  [XML](/news/2011/08/27/voters-in-singapore-go-to-the-polls-for-the-presidential-election.xml)  
+
 ### [2011-08-27](/news/2011/08/27/index.md)
 
+##### Singapore
 # Voters in Singapore go to the polls for the presidential election. 
 
 (LinkAsia News: 8/26/11) Singaporeans go to the polls for the second time in four months -- this time to elect a president. All four candidates are named Tan...
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jVrJ1Ae9vBaL3TYsL6LdLCrSRJkw?docId=CNG.c12c140bd2e4fc0a6a87ad853c05ac1c.781)
-2. [Link TV](http://www.youtube.com/watch?v=DPCpm8YX45o&feature=player_embedded)
+2. [Link TV](https://www.youtube.com/watch?v=DPCpm8YX45o&feature=player_embedded)
 2. [Cover Image](https://i.ytimg.com/vi/DPCpm8YX45o/hqdefault.jpg)
 
 ### Related:

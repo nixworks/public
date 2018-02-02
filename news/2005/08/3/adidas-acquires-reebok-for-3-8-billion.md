@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/3/adidas-acquires-reebok-for-3-8-billion.html)  [JSON](/news/2005/08/3/adidas-acquires-reebok-for-3-8-billion.json)  [XML](/news/2005/08/3/adidas-acquires-reebok-for-3-8-billion.xml)  
+
 ### [2005-08-3](/news/2005/08/3/index.md)
 
+##### Adidas
 #  Adidas acquires Reebok for $3.8 billion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ (Economic Times](http://economictimes.indiatimes.com/articleshow/1189871.cms?hpFlag=Y&chklogin=N&autono=196260&leftnm=lmnu9&leftindx=9&lselect=0)
 2. [BBC](http://news.bbc.co.uk/2/hi/business/4740755.stm)

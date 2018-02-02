@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/26/what-may-be-the-first-pyramid-in-europe-has-been-discovered-in-bosnia.html)  [JSON](/news/2005/10/26/what-may-be-the-first-pyramid-in-europe-has-been-discovered-in-bosnia.json)  [XML](/news/2005/10/26/what-may-be-the-first-pyramid-in-europe-has-been-discovered-in-bosnia.xml)  
+
 ### [2005-10-26](/news/2005/10/26/index.md)
 
+##### pyramid
 #  What may be the first pyramid in Europe has been discovered in Bosnia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4377290.stm)
 2. [FENA](http://www.fena.ba/uk/vijest.html?fena_id=FSA314092&rubrika=ES)

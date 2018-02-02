@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/7/eleven-people-are-killed-in-la-concepcia3n-mexic
 
 ### [2018-01-7](/news/2018/01/7/index.md)
 
+##### Mexico
 # Eleven people are killed in La Concepcion, Mexico, near the Pacific coast resort of Acapulco, following violent clashes involving gunmen, a community police force, and state police in the southern state of Guerrero. 
 
 Violent clashes involving gunmen, a community police force and state police killed 11 people in the troubled southern state of Guerrero on Sunday, while a separate series of shootouts the previous night left seven dead in the northern Mexico beach resort of San Jose del Cabo. Guerrero state...

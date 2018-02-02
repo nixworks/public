@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/17/thousands-of-fans-celebrities-and-politicians-attend-the-funeral-of-boyzone-singer-stephen-gately-in-dublin.html)  [JSON](/news/2009/10/17/thousands-of-fans-celebrities-and-politicians-attend-the-funeral-of-boyzone-singer-stephen-gately-in-dublin.json)  [XML](/news/2009/10/17/thousands-of-fans-celebrities-and-politicians-attend-the-funeral-of-boyzone-singer-stephen-gately-in-dublin.xml)  
+
 ### [2009-10-17](/news/2009/10/17/index.md)
 
+##### Boyzone
 #  Thousands of fans, celebrities and politicians attend the funeral of Boyzone singer Stephen Gately in Dublin. 
 
 The funeral of Boyzone singer Stephen Gately has taken place.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.timesonline.co.uk/tol/news/world/ireland/article6878988.ece)
 2. [RTÉ](http://www.rte.ie/news/2009/1017/gatelys.html)

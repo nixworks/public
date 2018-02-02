@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/17/former-bbc-broadcaster-stuart-hall-is-sentenced-to-15-months-in-jail-for-sexually-abusing-girls.html)  [JSON](/news/2013/06/17/former-bbc-broadcaster-stuart-hall-is-sentenced-to-15-months-in-jail-for-sexually-abusing-girls.json)  [XML](/news/2013/06/17/former-bbc-broadcaster-stuart-hall-is-sentenced-to-15-months-in-jail-for-sexually-abusing-girls.xml)  
+
 ### [2013-06-17](/news/2013/06/17/index.md)
 
+##### Stuart Hall
 # Former BBC broadcaster Stuart Hall is sentenced to 15 months in jail for sexually abusing girls. 
 
 BBC broadcaster Stuart Hall, 83, is jailed for 15 months for sexually abusing girls as it emerges some of his victims plan to sue.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-22932222)
 2. [The Guardian](http://www.guardian.co.uk/uk/2013/jun/17/stuart-hall-jailed-indecent-assault-girls)

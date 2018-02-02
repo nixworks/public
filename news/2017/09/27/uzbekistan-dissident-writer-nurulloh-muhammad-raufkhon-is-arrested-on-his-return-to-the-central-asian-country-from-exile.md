@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/27/uzbekistan-dissident-writer-nurulloh-muhammad-r
 
 ### [2017-09-27](/news/2017/09/27/index.md)
 
+##### Politics of Uzbekistan
 # Uzbekistan dissident writer Nurulloh Muhammad Raufkhon is arrested on his return to the Central Asian country from exile. 
 
 Uzbek police detained dissident writer Nurulloh Muhammad Raufkhon as he returned to the Central Asian country from Turkey on Wednesday, his wife told Reuters.

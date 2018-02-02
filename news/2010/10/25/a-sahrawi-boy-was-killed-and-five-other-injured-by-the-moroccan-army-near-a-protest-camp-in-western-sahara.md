@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/25/a-sahrawi-boy-was-killed-and-five-other-injured-by-the-moroccan-army-near-a-protest-camp-in-western-sahara.html)  [JSON](/news/2010/10/25/a-sahrawi-boy-was-killed-and-five-other-injured-by-the-moroccan-army-near-a-protest-camp-in-western-sahara.json)  [XML](/news/2010/10/25/a-sahrawi-boy-was-killed-and-five-other-injured-by-the-moroccan-army-near-a-protest-camp-in-western-sahara.xml)  
+
 ### [2010-10-25](/news/2010/10/25/index.md)
 
+##### Sahrawi
 # A Sahrawi boy was killed and five other injured by the Moroccan Army near a protest camp in Western Sahara. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sahara Press Service](http://www.spsrasd.info/en/detail.php?id=14154)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/3/guinea-announces-it-will-hold-a-run-off-presidential-election-as-last-sunday-s-first-round-vote-resulted-in-no-winner.html)  [JSON](/news/2010/07/3/guinea-announces-it-will-hold-a-run-off-presidential-election-as-last-sunday-s-first-round-vote-resulted-in-no-winner.json)  [XML](/news/2010/07/3/guinea-announces-it-will-hold-a-run-off-presidential-election-as-last-sunday-s-first-round-vote-resulted-in-no-winner.xml)  
+
 ### [2010-07-3](/news/2010/07/3/index.md)
 
+##### Guinea
 # Guinea announces it will hold a run-off presidential election as last Sunday's first round vote resulted in no winner. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/07/2010734319107428.html)
 1. [Cover Image](http://www.aljazeera.com)

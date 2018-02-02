@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/8/the-united-states-senate-in-a-52-to-47-vote-conf
 
 ### [2017-02-8](/news/2017/02/8/index.md)
 
+##### Cabinet of Donald Trump
 # The United States Senate, in a 52 to 47 vote, confirms the nomination of Jeff Sessions as United States Attorney General. 
 
 Senator had come under fire for his views on race and civil rights in a tempestuous confirmation process that strained the upper chamber’s norms
@@ -20,7 +21,7 @@ Senator had come under fire for his views on race and civil rights in a tempestu
 
 ### Related:
 
-1. [Voters in Alabama go to the polls to fill the United States Senate seat vacated by current United States Attorney General Jeff Sessions. ](/news/2017/12/12/voters-in-alabama-go-to-the-polls-to-fill-the-united-states-senate-seat-vacated-by-current-united-states-attorney-general-jeff-sessions.md) _Context: Jeff Sessions, United States Attorney General, United States Senate_
+1. [Voters in Alabama go to the polls to fill the United States Senate seat vacated by current United States Attorney General Jeff Sessions. The race is between Roy Moore (R) and Doug Jones (D). ](/news/2017/12/12/voters-in-alabama-go-to-the-polls-to-fill-the-united-states-senate-seat-vacated-by-current-united-states-attorney-general-jeff-sessions-the.md) _Context: Jeff Sessions, United States Attorney General, United States Senate_
 2. [United States Attorney General Jeff Sessions, along with Deputy Attorney General Rod Rosenstein and National Intelligence Director Dan Coats visit the Guantanamo Bay Detention Camp. ](/news/2017/07/7/united-states-attorney-general-jeff-sessions-along-with-deputy-attorney-general-rod-rosenstein-and-national-intelligence-director-dan-coats.md) _Context: Jeff Sessions, United States Attorney General_
 3. [United States Attorney General Jeff Sessions requests the resignations of 46 Barack Obama-era chief federal prosecutors, including United States Attorney for the Southern District of New York Preet Bharara, who was previously told to stay on by then President-elect Donald Trump in November. ](/news/2017/03/10/united-states-attorney-general-jeff-sessions-requests-the-resignations-of-46-barack-obama-era-chief-federal-prosecutors-including-united-st.md) _Context: Jeff Sessions, United States Attorney General_
 4. [The U.S. Senate confirms, via Vice President Mike Pence's unprecedented tie-breaking vote, Betsy DeVos as Secretary of Education. ](/news/2017/02/7/the-u-s-senate-confirms-via-vice-president-mike-pence-s-unprecedented-tie-breaking-vote-betsy-devos-as-secretary-of-education.md) _Context: Cabinet of Donald Trump, United States Senate_

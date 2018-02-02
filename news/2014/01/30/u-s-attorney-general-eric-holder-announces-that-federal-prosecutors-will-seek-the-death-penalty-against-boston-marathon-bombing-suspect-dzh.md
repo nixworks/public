@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/30/u-s-attorney-general-eric-holder-announces-that-federal-prosecutors-will-seek-the-death-penalty-against-boston-marathon-bombing-suspect-dzh.html)  [JSON](/news/2014/01/30/u-s-attorney-general-eric-holder-announces-that-federal-prosecutors-will-seek-the-death-penalty-against-boston-marathon-bombing-suspect-dzh.json)  [XML](/news/2014/01/30/u-s-attorney-general-eric-holder-announces-that-federal-prosecutors-will-seek-the-death-penalty-against-boston-marathon-bombing-suspect-dzh.xml)  
+
 ### [2014-01-30](/news/2014/01/30/index.md)
 
+##### Eric Holder
 # U.S. Attorney General Eric Holder announces that federal prosecutors will seek the death penalty against Boston Marathon bombing suspect Dzhokhar Tsarnaev. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/01/30/justice/tsarnaev-death-penalty/)
 

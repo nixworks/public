@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/2/the-parliament-of-ukraine-approves-the-formation-of-a-new-government-that-includes-three-foreigners-who-have-received-ukrainian-citizenship.html)  [JSON](/news/2014/12/2/the-parliament-of-ukraine-approves-the-formation-of-a-new-government-that-includes-three-foreigners-who-have-received-ukrainian-citizenship.json)  [XML](/news/2014/12/2/the-parliament-of-ukraine-approves-the-formation-of-a-new-government-that-includes-three-foreigners-who-have-received-ukrainian-citizenship.xml)  
+
 ### [2014-12-2](/news/2014/12/2/index.md)
 
+##### Parliament of Ukraine
 # The Parliament of Ukraine approves the formation of a new government that includes three foreigners who have received Ukrainian citizenship just hours before the vote: Georgian-born Alexander Kvitashvili, US-national Natalie Jaresko and Lithuanian Aivaras Abromavicius. 
 
 Government hastily grants citizenship to Lithuanian, Georgian and American to enable them assume key cabinet positions.
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/ukraine-government-rebels-agree-cease-fire-27297823)
 2. [Al Jazeera](http://www.aljazeera.com/news/europe/2014/12/ukraine-appoints-three-non-native-ministers-20141221954454451.html)

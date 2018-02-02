@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/3/a-suicide-bombing-attack-on-a-nato-convoy-in-kab
 
 ### [2017-05-3](/news/2017/05/3/index.md)
 
+##### War in Afghanistan (2015-present)
 # A suicide bombing attack on a NATO convoy in Kabul kills eight civilians and wounds at least 28 people. 
 
  Islamic State claimed responsibility for a suicide bombing in the Afghan capital, Kabul, on Wednesday that killed eight civilians in an attack on a convoy of N

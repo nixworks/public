@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/24/five-mountain-climbers-freeze-to-death-in-the-italian-alps.html)  [JSON](/news/2007/07/24/five-mountain-climbers-freeze-to-death-in-the-italian-alps.json)  [XML](/news/2007/07/24/five-mountain-climbers-freeze-to-death-in-the-italian-alps.xml)  
+
 ### [2007-07-24](/news/2007/07/24/index.md)
 
+##### mountain climber
 #  Five mountain climbers freeze to death in the Italian Alps. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via News Limited](http://www.news.com.au/story/0,23599,22132216-2,00.html)
 

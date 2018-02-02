@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/6/mauritania-denounces-amendments-to-an-oil-contract-made-by-former-leader-maaouiya-ould-taya-with-woodside-petroleum-the-mauritanian-author.html)  [JSON](/news/2006/02/6/mauritania-denounces-amendments-to-an-oil-contract-made-by-former-leader-maaouiya-ould-taya-with-woodside-petroleum-the-mauritanian-author.json)  [XML](/news/2006/02/6/mauritania-denounces-amendments-to-an-oil-contract-made-by-former-leader-maaouiya-ould-taya-with-woodside-petroleum-the-mauritanian-author.xml)  
+
 ### [2006-02-6](/news/2006/02/6/index.md)
 
+##### Mauritania
 #  Mauritania denounces amendments to an oil contract made by former leader Maaouiya Ould Taya with Woodside Petroleum. The Mauritanian authorities declare that the amendments were signed "outside the legal framework of normal practice, to the great detriment of our country", and could cost Mauritania up to $200 million a year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/business/4684836.stm)
 2. [Radio France International](http://www.rfi.fr/actufr/articles/074/article_41704.asp)

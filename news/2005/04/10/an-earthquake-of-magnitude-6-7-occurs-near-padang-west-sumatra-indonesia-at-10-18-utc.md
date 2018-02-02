@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/10/an-earthquake-of-magnitude-6-7-occurs-near-padang-west-sumatra-indonesia-at-10-18-utc.html)  [JSON](/news/2005/04/10/an-earthquake-of-magnitude-6-7-occurs-near-padang-west-sumatra-indonesia-at-10-18-utc.json)  [XML](/news/2005/04/10/an-earthquake-of-magnitude-6-7-occurs-near-padang-west-sumatra-indonesia-at-10-18-utc.xml)  
+
 ### [2005-04-10](/news/2005/04/10/index.md)
 
+##### earthquake
 #  An earthquake of magnitude 6.7 occurs near Padang, West Sumatra, Indonesia at 10:18 UTC. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4430255.stm)
 

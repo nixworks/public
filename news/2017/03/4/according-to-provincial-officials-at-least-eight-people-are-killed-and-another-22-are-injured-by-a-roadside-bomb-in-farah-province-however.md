@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/4/according-to-provincial-officials-at-least-eight
 
 ### [2017-03-4](/news/2017/03/4/index.md)
 
+##### War in Afghanistan (2015-present)
 # According to provincial officials, at least eight people are killed and another 22 are injured by a roadside bomb in Farah Province. However, according to locals, the attack was actually an airstrike. 
 
 

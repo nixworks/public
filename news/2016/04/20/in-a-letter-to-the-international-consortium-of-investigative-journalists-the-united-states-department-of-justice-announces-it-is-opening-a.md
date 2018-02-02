@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/20/in-a-letter-to-the-international-consortium-of-
 
 ### [2016-04-20](/news/2016/04/20/index.md)
 
+##### Panama Papers
 # In a letter to the International Consortium of Investigative Journalists, the United States Department of Justice announces it is opening a criminal investigation into tax avoidance schemes exposed by the Panama Papers with U.S. attorney Preet Bharara asking the ICIJ for help. 
 
 The US Justice Department opens a criminal investigation into tax avoidance schemes exposed by the Panama Papers.

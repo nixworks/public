@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/9/russia-s-angara-rocket-successfully-makes-its-maiden-flight.html)  [JSON](/news/2014/07/9/russia-s-angara-rocket-successfully-makes-its-maiden-flight.json)  [XML](/news/2014/07/9/russia-s-angara-rocket-successfully-makes-its-maiden-flight.xml)  
+
 ### [2014-07-9](/news/2014/07/9/index.md)
 
+##### Angara
 # Russia's Angara rocket successfully makes its maiden flight. 
 
 Russia launches its all new Angara rocket on a maiden flight from the northern Plesetsk military cosmodrome.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-28058633)
 2. [Moscow Times](http://www.themoscowtimes.com/business/article/russia-shakes-off-glitches-to-successfully-launch-angara-rocket-video/503207.html)

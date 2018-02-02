@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/27/taiwan-s-premier-chang-chun-hsiung-remains-in-office-as-president-chen-shui-bian-rejects-his-resignation.html)  [JSON](/news/2008/01/27/taiwan-s-premier-chang-chun-hsiung-remains-in-office-as-president-chen-shui-bian-rejects-his-resignation.json)  [XML](/news/2008/01/27/taiwan-s-premier-chang-chun-hsiung-remains-in-office-as-president-chen-shui-bian-rejects-his-resignation.xml)  
+
 ### [2008-01-27](/news/2008/01/27/index.md)
 
+##### Taiwan
 #  Taiwan's Premier Chang Chun-hsiung remains in office as President Chen Shui-bian rejects his resignation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Taipei Times](http://www.taipeitimes.com/News/taiwan/archives/2008/01/28/2003399189)
 1. [Cover Image](http://www.taipeitimes.com/images/logo.gif)

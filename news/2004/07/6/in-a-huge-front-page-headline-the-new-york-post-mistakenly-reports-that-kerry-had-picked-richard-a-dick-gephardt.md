@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/07/6/in-a-huge-front-page-headline-the-new-york-post-mistakenly-reports-that-kerry-had-picked-richard-a-dick-gephardt.html)  [JSON](/news/2004/07/6/in-a-huge-front-page-headline-the-new-york-post-mistakenly-reports-that-kerry-had-picked-richard-a-dick-gephardt.json)  [XML](/news/2004/07/6/in-a-huge-front-page-headline-the-new-york-post-mistakenly-reports-that-kerry-had-picked-richard-a-dick-gephardt.xml)  
+
 ### [2004-07-6](/news/2004/07/6/index.md)
 
+##### New York Post
 #  In a huge front-page headline, the "New York Post" mistakenly reports that Kerry had picked Richard A. "Dick" Gephardt.
 
 

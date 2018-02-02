@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/6/during-a-weekly-audience-with-pope-benedict-xvi-a-man-leaps-over-metal-barriers-attempting-to-jump-into-the-popemobile-he-was-promptly-w.html)  [JSON](/news/2007/06/6/during-a-weekly-audience-with-pope-benedict-xvi-a-man-leaps-over-metal-barriers-attempting-to-jump-into-the-popemobile-he-was-promptly-w.json)  [XML](/news/2007/06/6/during-a-weekly-audience-with-pope-benedict-xvi-a-man-leaps-over-metal-barriers-attempting-to-jump-into-the-popemobile-he-was-promptly-w.xml)  
+
 ### [2007-06-6](/news/2007/06/6/index.md)
 
+##### audience
 #  During a weekly audience with Pope Benedict XVI, a man leaps over metal barriers, attempting to jump into the popemobile. He was promptly wrestled to the ground (without the Pope's even noticing) and was then taken into the custody of Vatican police. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/6726441.stm)
 

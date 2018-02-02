@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/5/israeli-prime-minister-benjamin-netanyahu-and-us-president-barack-obama-meet-at-the-white-house.html)  [JSON](/news/2012/03/5/israeli-prime-minister-benjamin-netanyahu-and-us-president-barack-obama-meet-at-the-white-house.json)  [XML](/news/2012/03/5/israeli-prime-minister-benjamin-netanyahu-and-us-president-barack-obama-meet-at-the-white-house.xml)  
+
 ### [2012-03-5](/news/2012/03/5/index.md)
 
+##### Benjamin Netanyahu
 # Israeli Prime Minister Benjamin Netanyahu and US President Barack Obama meet at the White House. 
 
 Israeli PM Benjamin Netanyahu tells US President Barack Obama that Israel must always remain &quot;master of its fate&quot;, as they meet for key talks on Iran.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17260083)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/58887000/jpg/_58887459_58887458.jpg)

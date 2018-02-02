@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/08/23/israel-completes-the-unilateral-disengagement-from-all-settlements-in-the-gaza-strip-and-four-in-the-west-bank-http-olympics-reuters-co.html)  [JSON](/news/2005/08/23/israel-completes-the-unilateral-disengagement-from-all-settlements-in-the-gaza-strip-and-four-in-the-west-bank-http-olympics-reuters-co.json)  [XML](/news/2005/08/23/israel-completes-the-unilateral-disengagement-from-all-settlements-in-the-gaza-strip-and-four-in-the-west-bank-http-olympics-reuters-co.xml)  
+
 ### [2005-08-23](/news/2005/08/23/index.md)
 
+##### Israel
 #  Israel completes the unilateral disengagement from all settlements in the Gaza Strip and four in the West Bank. [http:--olympics.reuters.com-news-newsArticle.aspx?type=topNews&storyID=2005-08-23T153244Z_01_MOL349068_RTRIDST_0_NEWS-MIDEAST-DC.XML (Reuters)] (Link dead as of 21:38, 14 January 2007 (UTC)), [http:--news.bbc.co.uk-2-hi-middle_east-4177364.stm (BBC)], [http:--www.haaretz.com-hasen-spages-616333.html (Haaretz)] (Link dead as of 21:38, 14 January 2007 (UTC))
 
 

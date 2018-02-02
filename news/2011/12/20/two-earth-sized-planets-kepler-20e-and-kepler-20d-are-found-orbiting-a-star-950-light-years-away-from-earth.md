@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/20/two-earth-sized-planets-kepler-20e-and-kepler-20d-are-found-orbiting-a-star-950-light-years-away-from-earth.html)  [JSON](/news/2011/12/20/two-earth-sized-planets-kepler-20e-and-kepler-20d-are-found-orbiting-a-star-950-light-years-away-from-earth.json)  [XML](/news/2011/12/20/two-earth-sized-planets-kepler-20e-and-kepler-20d-are-found-orbiting-a-star-950-light-years-away-from-earth.xml)  
+
 ### [2011-12-20](/news/2011/12/20/index.md)
 
+##### Kepler-20e and Kepler-20d
 # Two Earth-sized planets, Kepler-20e and Kepler-20d, are found orbiting a star 950 light-years away from Earth. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970204791104577110562687967308.html?mod=googlenews_wsj)
 

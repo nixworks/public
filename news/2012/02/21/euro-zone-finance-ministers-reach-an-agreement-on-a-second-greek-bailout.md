@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/21/euro-zone-finance-ministers-reach-an-agreement-on-a-second-greek-bailout.html)  [JSON](/news/2012/02/21/euro-zone-finance-ministers-reach-an-agreement-on-a-second-greek-bailout.json)  [XML](/news/2012/02/21/euro-zone-finance-ministers-reach-an-agreement-on-a-second-greek-bailout.xml)  
+
 ### [2012-02-21](/news/2012/02/21/index.md)
 
+##### Euro zone
 # Euro zone finance ministers reach an agreement on a second Greek bailout. 
 
 Euro zone finance ministers struck a deal for a second bailout program for Greece that will involve financing of 130 billion euros.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''Sydney Morning Herald](http://www.smh.com.au/business/world-business/euro-zone-strikes-deal-on-greece-bailout-20120221-1tkxm.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/1/q/1/j/r/image.related.thumbnail.320x214.1tkxm.png/1329798335343.jpg)

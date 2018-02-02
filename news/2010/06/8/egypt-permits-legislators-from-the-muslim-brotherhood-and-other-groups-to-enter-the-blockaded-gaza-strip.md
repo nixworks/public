@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/8/egypt-permits-legislators-from-the-muslim-brotherhood-and-other-groups-to-enter-the-blockaded-gaza-strip.html)  [JSON](/news/2010/06/8/egypt-permits-legislators-from-the-muslim-brotherhood-and-other-groups-to-enter-the-blockaded-gaza-strip.json)  [XML](/news/2010/06/8/egypt-permits-legislators-from-the-muslim-brotherhood-and-other-groups-to-enter-the-blockaded-gaza-strip.xml)  
+
 ### [2010-06-8](/news/2010/06/8/index.md)
 
+##### Egypt
 # Egypt permits legislators from the Muslim Brotherhood and other groups to enter the blockaded Gaza Strip. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://arabnews.com/middleeast/article62979.ece)
 2. [Reuters](http://af.reuters.com/article/egyptNews/idAFLDE6571UO20100608)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/30/comedian-and-actor-buddy-hackett-dies-at-his-home-in-malibu-at-the-age-of-78.html)  [JSON](/news/2003/06/30/comedian-and-actor-buddy-hackett-dies-at-his-home-in-malibu-at-the-age-of-78.json)  [XML](/news/2003/06/30/comedian-and-actor-buddy-hackett-dies-at-his-home-in-malibu-at-the-age-of-78.xml)  
+
 ### [2003-06-30](/news/2003/06/30/index.md)
 
+##### Buddy Hackett
 #  Comedian and actor Buddy Hackett dies at his home in Malibu at the age of 78.
 
 

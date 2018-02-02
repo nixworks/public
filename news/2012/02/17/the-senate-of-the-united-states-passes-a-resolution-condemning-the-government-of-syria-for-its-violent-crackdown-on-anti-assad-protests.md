@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/17/the-senate-of-the-united-states-passes-a-resolution-condemning-the-government-of-syria-for-its-violent-crackdown-on-anti-assad-protests.html)  [JSON](/news/2012/02/17/the-senate-of-the-united-states-passes-a-resolution-condemning-the-government-of-syria-for-its-violent-crackdown-on-anti-assad-protests.json)  [XML](/news/2012/02/17/the-senate-of-the-united-states-passes-a-resolution-condemning-the-government-of-syria-for-its-violent-crackdown-on-anti-assad-protests.xml)  
+
 ### [2012-02-17](/news/2012/02/17/index.md)
 
+##### Senator
 # The Senate of the United States passes a resolution condemning the Government of Syria for its violent crackdown on anti-Assad protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://blogs.aljazeera.net/liveblog/washington-dc-feb-17-2012-2358)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/11/the-eu-imposes-further-sanctions-on-belarus-iran-and-syria-expresses-support-for-libya-s-national-transitional-council-and-reiterates-ca.html)  [JSON](/news/2011/10/11/the-eu-imposes-further-sanctions-on-belarus-iran-and-syria-expresses-support-for-libya-s-national-transitional-council-and-reiterates-ca.json)  [XML](/news/2011/10/11/the-eu-imposes-further-sanctions-on-belarus-iran-and-syria-expresses-support-for-libya-s-national-transitional-council-and-reiterates-ca.xml)  
+
 ### [2011-10-11](/news/2011/10/11/index.md)
 
+##### European Union
 # The EU imposes further sanctions on Belarus, Iran, and Syria, expresses support for Libya's National Transitional Council, and reiterates call for Syria's President Bashar al-Assad to step down. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/10/10/world/europe/luxembourg-eu-foreign-ministers/index.html?hpt=hp_t2)
 

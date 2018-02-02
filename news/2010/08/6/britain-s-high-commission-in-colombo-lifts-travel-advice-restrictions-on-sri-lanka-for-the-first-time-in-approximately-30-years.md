@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/6/britain-s-high-commission-in-colombo-lifts-travel-advice-restrictions-on-sri-lanka-for-the-first-time-in-approximately-30-years.html)  [JSON](/news/2010/08/6/britain-s-high-commission-in-colombo-lifts-travel-advice-restrictions-on-sri-lanka-for-the-first-time-in-approximately-30-years.json)  [XML](/news/2010/08/6/britain-s-high-commission-in-colombo-lifts-travel-advice-restrictions-on-sri-lanka-for-the-first-time-in-approximately-30-years.xml)  
+
 ### [2010-08-6](/news/2010/08/6/index.md)
 
+##### High Commission
 # Britain's High Commission in Colombo lifts travel advice restrictions on Sri Lanka for the first time in approximately 30 years. 
 
 A security assessment carried out by the UK in Sri Lanka concludes that the whole country is now safe for travellers.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10892057)
 2. [Daily Mail](http://www.dailymail.co.uk/travel/article-1300850/FCO-removes-Sri-Lanka-travel-warnings.html)

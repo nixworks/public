@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/31/colombia-extradites-farc-leader-sima3n-trinidad-to-the-united-states-to-face-conspiracy-kidnapping-and-drug-trafficking-charges.html)  [JSON](/news/2004/12/31/colombia-extradites-farc-leader-sima3n-trinidad-to-the-united-states-to-face-conspiracy-kidnapping-and-drug-trafficking-charges.json)  [XML](/news/2004/12/31/colombia-extradites-farc-leader-sima3n-trinidad-to-the-united-states-to-face-conspiracy-kidnapping-and-drug-trafficking-charges.xml)  
+
 ### [2004-12-31](/news/2004/12/31/index.md)
 
+##### Colombia
 #  Colombia extradites FARC leader Simon Trinidad to the United States to face conspiracy, kidnapping, and drug trafficking charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4138753.stm)
 

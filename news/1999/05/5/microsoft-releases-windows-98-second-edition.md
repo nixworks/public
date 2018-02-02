@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/05/5/microsoft-releases-windows-98-second-edition.html)  [JSON](/news/1999/05/5/microsoft-releases-windows-98-second-edition.json)  [XML](/news/1999/05/5/microsoft-releases-windows-98-second-edition.xml)  
+
 ### [1999-05-5](/news/1999/05/5/index.md)
 
+##### Microsoft
 #  Microsoft releases Windows 98 Second Edition.
 
 

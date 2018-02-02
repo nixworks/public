@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/23/voters-in-the-northern-mariana-islands-participate-in-the-commonwealth-s-first-ever-gubernatorial-runoff-election-between-governor-benigno.html)  [JSON](/news/2009/11/23/voters-in-the-northern-mariana-islands-participate-in-the-commonwealth-s-first-ever-gubernatorial-runoff-election-between-governor-benigno.json)  [XML](/news/2009/11/23/voters-in-the-northern-mariana-islands-participate-in-the-commonwealth-s-first-ever-gubernatorial-runoff-election-between-governor-benigno.xml)  
+
 ### [2009-11-23](/news/2009/11/23/index.md)
 
+##### Northern Mariana Islands
 #  Voters in the Northern Mariana Islands participate in the Commonwealth's first ever gubernatorial runoff election between Governor Benigno Fitial and challenger Heinz Hofschneider. Hofschneider had bested Fitial in the first round by just 8 votes on November 7, the closest gubernatorial election in history. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Saipan Tribune](http://www.saipantribune.com/newsstory.aspx?newsID=95301&cat=1)
 

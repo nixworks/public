@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/8/pakistan-adopts-the-18th-amendment-to-the-constitution-stripping-president-asif-ali-zardari-of-key-powers.html)  [JSON](/news/2010/04/8/pakistan-adopts-the-18th-amendment-to-the-constitution-stripping-president-asif-ali-zardari-of-key-powers.json)  [XML](/news/2010/04/8/pakistan-adopts-the-18th-amendment-to-the-constitution-stripping-president-asif-ali-zardari-of-key-powers.xml)  
+
 ### [2010-04-8](/news/2010/04/8/index.md)
 
+##### Pakistan
 # Pakistan adopts the 18th amendment to the Constitution, stripping President Asif Ali Zardari of key powers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/04/08/pakistan.amendment/)
 2. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/03-18th-amendment-approved-with-majority-vote-ss-04)

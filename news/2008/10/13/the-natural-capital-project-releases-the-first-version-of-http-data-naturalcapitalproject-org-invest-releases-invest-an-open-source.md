@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2008/10/13/the-natural-capital-project-releases-the-first-version-of-http-data-naturalcapitalproject-org-invest-releases-invest-an-open-source.html)  [JSON](/news/2008/10/13/the-natural-capital-project-releases-the-first-version-of-http-data-naturalcapitalproject-org-invest-releases-invest-an-open-source.json)  [XML](/news/2008/10/13/the-natural-capital-project-releases-the-first-version-of-http-data-naturalcapitalproject-org-invest-releases-invest-an-open-source.xml)  
+
 ### [2008-10-13](/news/2008/10/13/index.md)
 
+##### Natural Capital
 #  The Natural Capital Project releases the first version of [http:--data.naturalcapitalproject.org-invest-releases- (InVEST)], an open source ecosystem service evaluation software inspired by the Millennium Ecosystem Assessment.
 
 

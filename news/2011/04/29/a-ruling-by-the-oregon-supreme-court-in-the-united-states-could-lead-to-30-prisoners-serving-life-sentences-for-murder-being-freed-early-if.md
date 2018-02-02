@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/29/a-ruling-by-the-oregon-supreme-court-in-the-united-states-could-lead-to-30-prisoners-serving-life-sentences-for-murder-being-freed-early-if.html)  [JSON](/news/2011/04/29/a-ruling-by-the-oregon-supreme-court-in-the-united-states-could-lead-to-30-prisoners-serving-life-sentences-for-murder-being-freed-early-if.json)  [XML](/news/2011/04/29/a-ruling-by-the-oregon-supreme-court-in-the-united-states-could-lead-to-30-prisoners-serving-life-sentences-for-murder-being-freed-early-if.xml)  
+
 ### [2011-04-29](/news/2011/04/29/index.md)
 
+##### Oregon Supreme Court
 # A ruling by the Oregon Supreme Court in the United States could lead to 30 prisoners serving life sentences for murder being freed early, if a parole board considers them to be capable of rehabilitation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Oregon Live](http://www.oregonlive.com/pacific-northwest-news/index.ssf/2011/04/30_killers_could_win_freedom_years_early_under_oregon_supreme_court_ruling.html)
 1. [Cover Image](http://image.oregonlive.com/home/olive-media/width620/img/pacific-northwest-news/photo/9530683-standard.jpg)

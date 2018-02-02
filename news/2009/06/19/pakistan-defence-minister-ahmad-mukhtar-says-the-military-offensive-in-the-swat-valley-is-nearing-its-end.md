@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/19/pakistan-defence-minister-ahmad-mukhtar-says-the-military-offensive-in-the-swat-valley-is-nearing-its-end.html)  [JSON](/news/2009/06/19/pakistan-defence-minister-ahmad-mukhtar-says-the-military-offensive-in-the-swat-valley-is-nearing-its-end.json)  [XML](/news/2009/06/19/pakistan-defence-minister-ahmad-mukhtar-says-the-military-offensive-in-the-swat-valley-is-nearing-its-end.xml)  
+
 ### [2009-06-19](/news/2009/06/19/index.md)
 
+##### Pakistan
 #  Pakistan Defence Minister Ahmad Mukhtar says the military offensive in the Swat valley is nearing its end. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sindh Today](http://www.sindhtoday.net/news/1/21720.htm)
 

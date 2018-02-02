@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/13/burmese-opposition-leader-aung-san-suu-kyi-is-released-after-15-years-of-house-arrest.html)  [JSON](/news/2010/11/13/burmese-opposition-leader-aung-san-suu-kyi-is-released-after-15-years-of-house-arrest.json)  [XML](/news/2010/11/13/burmese-opposition-leader-aung-san-suu-kyi-is-released-after-15-years-of-house-arrest.xml)  
+
 ### [2010-11-13](/news/2010/11/13/index.md)
 
+##### Burma
 # Burmese opposition leader Aung San Suu Kyi is released after 15 years of house arrest. 
 
 Pro-democracy leader emerges from seven-year house arrest and addresses supporters gathered outside her home in Yangon.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/11/20101113105340355661.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11749661)

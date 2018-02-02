@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/6/former-social-democratic-and-labour-party-leader-john-hume-receives-the-papal-knighthood-at-a-special-mass-in-derry-s-st-eugene-s-cathedral.html)  [JSON](/news/2012/10/6/former-social-democratic-and-labour-party-leader-john-hume-receives-the-papal-knighthood-at-a-special-mass-in-derry-s-st-eugene-s-cathedral.json)  [XML](/news/2012/10/6/former-social-democratic-and-labour-party-leader-john-hume-receives-the-papal-knighthood-at-a-special-mass-in-derry-s-st-eugene-s-cathedral.xml)  
+
 ### [2012-10-6](/news/2012/10/6/index.md)
 
+##### Social Democratic and Labour Party
 # Former Social Democratic and Labour Party leader John Hume receives the papal knighthood at a special Mass in Derry's St Eugene's Cathedral. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-19861727)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61403000/jpg/_61403387_john_hume_.jpg)

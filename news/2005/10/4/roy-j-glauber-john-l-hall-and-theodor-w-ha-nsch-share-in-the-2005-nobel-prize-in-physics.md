@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/4/roy-j-glauber-john-l-hall-and-theodor-w-ha-nsch-share-in-the-2005-nobel-prize-in-physics.html)  [JSON](/news/2005/10/4/roy-j-glauber-john-l-hall-and-theodor-w-ha-nsch-share-in-the-2005-nobel-prize-in-physics.json)  [XML](/news/2005/10/4/roy-j-glauber-john-l-hall-and-theodor-w-ha-nsch-share-in-the-2005-nobel-prize-in-physics.xml)  
+
 ### [2005-10-4](/news/2005/10/4/index.md)
 
+##### Roy J. Glauber
 #  Roy J. Glauber, John L. Hall and Theodor W. Hansch share in the 2005 Nobel Prize in Physics. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Nobelprize.org](http://nobelprize.org/physics/laureates/2005/)
 

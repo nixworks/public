@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/20/a-fire-in-a-bowling-alley-causes-a-roof-collapse-in-taoyuan-city-taiwan-killing-six-firefighters.html)  [JSON](/news/2015/01/20/a-fire-in-a-bowling-alley-causes-a-roof-collapse-in-taoyuan-city-taiwan-killing-six-firefighters.json)  [XML](/news/2015/01/20/a-fire-in-a-bowling-alley-causes-a-roof-collapse-in-taoyuan-city-taiwan-killing-six-firefighters.xml)  
+
 ### [2015-01-20](/news/2015/01/20/index.md)
 
+##### Taoyuan City
 # A fire in a bowling alley causes a roof collapse in Taoyuan City, Taiwan killing six firefighters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/cbc35879b5764241b1a79cfc8cce2fd7/6-firefighters-killed-taiwan-after-rescue-2-fire)
 

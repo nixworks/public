@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/5/a-majority-of-a-15-judge-panel-in-the-united-states-court-of-appeals-for-the-ninth-circuit-rules-that-kamehameha-schools-can-favour-native.html)  [JSON](/news/2006/12/5/a-majority-of-a-15-judge-panel-in-the-united-states-court-of-appeals-for-the-ninth-circuit-rules-that-kamehameha-schools-can-favour-native.json)  [XML](/news/2006/12/5/a-majority-of-a-15-judge-panel-in-the-united-states-court-of-appeals-for-the-ninth-circuit-rules-that-kamehameha-schools-can-favour-native.xml)  
+
 ### [2006-12-5](/news/2006/12/5/index.md)
 
+##### United States Court of Appeals for the Ninth Circuit
 #  A majority of a 15-judge panel in the United States Court of Appeals for the Ninth Circuit rules that Kamehameha Schools can favour Native Hawaiians in admissions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2006/12/05/state/n105628S82.DTL&feed=rss.news)
 

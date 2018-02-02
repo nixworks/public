@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/07/17/five-people-are-killed-in-a-twin-bomb-blasts-in-islamabad-near-the-venue-of-a-rally-and-meeting-to-be-addressed-by-pakistan-chief-justice-i.html)  [JSON](/news/2007/07/17/five-people-are-killed-in-a-twin-bomb-blasts-in-islamabad-near-the-venue-of-a-rally-and-meeting-to-be-addressed-by-pakistan-chief-justice-i.json)  [XML](/news/2007/07/17/five-people-are-killed-in-a-twin-bomb-blasts-in-islamabad-near-the-venue-of-a-rally-and-meeting-to-be-addressed-by-pakistan-chief-justice-i.xml)  
+
 ### [2007-07-17](/news/2007/07/17/index.md)
 
+##### Iftikhar Muhammad Chaudhry
 #  Five people are killed in a twin bomb blasts in Islamabad near the venue of a rally and meeting to be addressed by Pakistan Chief Justice Iftikhar Muhammad Chaudhry. 
 
 

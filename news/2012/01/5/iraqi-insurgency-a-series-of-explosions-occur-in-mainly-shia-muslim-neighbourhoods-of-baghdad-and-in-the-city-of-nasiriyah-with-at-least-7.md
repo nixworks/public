@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/5/iraqi-insurgency-a-series-of-explosions-occur-in-mainly-shia-muslim-neighbourhoods-of-baghdad-and-in-the-city-of-nasiriyah-with-at-least-7.html)  [JSON](/news/2012/01/5/iraqi-insurgency-a-series-of-explosions-occur-in-mainly-shia-muslim-neighbourhoods-of-baghdad-and-in-the-city-of-nasiriyah-with-at-least-7.json)  [XML](/news/2012/01/5/iraqi-insurgency-a-series-of-explosions-occur-in-mainly-shia-muslim-neighbourhoods-of-baghdad-and-in-the-city-of-nasiriyah-with-at-least-7.xml)  
+
 ### [2012-01-5](/news/2012/01/5/index.md)
 
+##### Iraqi insurgency
 # Iraqi insurgency: A series of explosions occur in mainly Shia Muslim neighbourhoods of Baghdad and in the city of Nasiriyah, with at least 73 killed and 149 wounded. 
 
 At least 70 killed and more than 100 wounded in the latest attacks in mainly Shia areas across the country.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/01/2012155465176859.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/5/201215153040850734_20.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/26/shipping-companies-united-parcel-service-and-fedex-apologize-for-late-christmas-package-deliveries-in-the-united-states-citing-high-volumes.html)  [JSON](/news/2013/12/26/shipping-companies-united-parcel-service-and-fedex-apologize-for-late-christmas-package-deliveries-in-the-united-states-citing-high-volumes.json)  [XML](/news/2013/12/26/shipping-companies-united-parcel-service-and-fedex-apologize-for-late-christmas-package-deliveries-in-the-united-states-citing-high-volumes.xml)  
+
 ### [2013-12-26](/news/2013/12/26/index.md)
 
+##### UPS
 # Shipping companies United Parcel Service and FedEx apologize for late Christmas package deliveries in the United States, citing high volumes of packages. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/12/26/us/christmas-shipping-delays/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/21/former-egyptian-president-hosni-mubarak-s-name-is-to-be-removed-from-all-public-places-including-schools-and-streets-by-order-of-an-egyptian.html)  [JSON](/news/2011/04/21/former-egyptian-president-hosni-mubarak-s-name-is-to-be-removed-from-all-public-places-including-schools-and-streets-by-order-of-an-egyptian.json)  [XML](/news/2011/04/21/former-egyptian-president-hosni-mubarak-s-name-is-to-be-removed-from-all-public-places-including-schools-and-streets-by-order-of-an-egyptian.xml)  
+
 ### [2011-04-21](/news/2011/04/21/index.md)
 
+##### Hosni Mubarak
 # Former Egyptian President Hosni Mubarak's name is to be removed from all public places including schools and streets by order of an Egyptian court. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/2011421101433418320.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/15/201141512555112811_20.jpg)

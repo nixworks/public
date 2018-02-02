@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/20/nasa-s-mars-reconnaissance-orbiter-discovers-evidence-of-enormous-underground-deposits-of-water-ice-on-mars-one-such-deposit-under-hellas.html)  [JSON](/news/2008/11/20/nasa-s-mars-reconnaissance-orbiter-discovers-evidence-of-enormous-underground-deposits-of-water-ice-on-mars-one-such-deposit-under-hellas.json)  [XML](/news/2008/11/20/nasa-s-mars-reconnaissance-orbiter-discovers-evidence-of-enormous-underground-deposits-of-water-ice-on-mars-one-such-deposit-under-hellas.xml)  
+
 ### [2008-11-20](/news/2008/11/20/index.md)
 
+##### NASA
 #  NASA's Mars Reconnaissance Orbiter discovers evidence of enormous underground deposits of water ice on Mars; one such deposit, under Hellas Planitia, is estimated to be the size of Los Angeles. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Breitbart](http://www.breitbart.com/article.php?id=081120190638.m7e37xl7&show_article=1)
 

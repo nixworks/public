@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/20/president-of-afghanistan-hamid-karzai-accompanied-by-ministers-and-business-leaders-arrives-in-russia.html)  [JSON](/news/2011/01/20/president-of-afghanistan-hamid-karzai-accompanied-by-ministers-and-business-leaders-arrives-in-russia.json)  [XML](/news/2011/01/20/president-of-afghanistan-hamid-karzai-accompanied-by-ministers-and-business-leaders-arrives-in-russia.xml)  
+
 ### [2011-01-20](/news/2011/01/20/index.md)
 
+##### Afghanistan President
 # President of Afghanistan Hamid Karzai, accompanied by ministers and business leaders, arrives in Russia. 
 
 Afghan leader in Moscow to explore military and business deals with former foe, in trip that is said to have upset US.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/201112014297833879.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/20/201112014165460876_20.jpg)

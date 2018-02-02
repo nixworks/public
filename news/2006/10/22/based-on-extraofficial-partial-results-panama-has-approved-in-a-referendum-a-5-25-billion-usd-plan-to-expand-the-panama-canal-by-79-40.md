@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/22/based-on-extraofficial-partial-results-panama-has-approved-in-a-referendum-a-5-25-billion-usd-plan-to-expand-the-panama-canal-by-79-40.html)  [JSON](/news/2006/10/22/based-on-extraofficial-partial-results-panama-has-approved-in-a-referendum-a-5-25-billion-usd-plan-to-expand-the-panama-canal-by-79-40.json)  [XML](/news/2006/10/22/based-on-extraofficial-partial-results-panama-has-approved-in-a-referendum-a-5-25-billion-usd-plan-to-expand-the-panama-canal-by-79-40.xml)  
+
 ### [2006-10-22](/news/2006/10/22/index.md)
 
+##### Panama
 #  Based on extraofficial partial results, Panama has approved in a referendum a $5.25 billion USD plan to expand the Panama Canal by 79% (40% of votes counted). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/6074106.stm)
 2. [CNN](http://www.cnn.com/2006/WORLD/americas/10/22/panama.canal.ap/index.html)

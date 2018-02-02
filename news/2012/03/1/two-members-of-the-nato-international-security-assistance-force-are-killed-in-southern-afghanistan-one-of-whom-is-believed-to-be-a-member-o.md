@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/1/two-members-of-the-nato-international-security-assistance-force-are-killed-in-southern-afghanistan-one-of-whom-is-believed-to-be-a-member-o.html)  [JSON](/news/2012/03/1/two-members-of-the-nato-international-security-assistance-force-are-killed-in-southern-afghanistan-one-of-whom-is-believed-to-be-a-member-o.json)  [XML](/news/2012/03/1/two-members-of-the-nato-international-security-assistance-force-are-killed-in-southern-afghanistan-one-of-whom-is-believed-to-be-a-member-o.xml)  
+
 ### [2012-03-1](/news/2012/03/1/index.md)
 
+##### NATO
 # Two members of the NATO International Security Assistance Force are killed in southern Afghanistan, one of whom is believed to be a member of the Afghan Army. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gtS2ymJpIP5NotCdNLBJTNggQq-A?docId=8b5893c8655f45b996416afde4d1dc35)
 

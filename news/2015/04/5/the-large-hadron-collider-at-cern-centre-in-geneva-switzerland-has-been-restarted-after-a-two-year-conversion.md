@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/04/5/the-large-hadron-collider-at-cern-centre-in-geneva-switzerland-has-been-restarted-after-a-two-year-conversion.html)  [JSON](/news/2015/04/5/the-large-hadron-collider-at-cern-centre-in-geneva-switzerland-has-been-restarted-after-a-two-year-conversion.json)  [XML](/news/2015/04/5/the-large-hadron-collider-at-cern-centre-in-geneva-switzerland-has-been-restarted-after-a-two-year-conversion.xml)  
+
 ### [2015-04-5](/news/2015/04/5/index.md)
 
+##### Large Hadron Collider
 # The Large Hadron Collider at CERN centre in Geneva, Switzerland has been restarted after a two-year conversion. 
 
 Cern confirms successful restart of world’s largest and most powerful atom smasher following upgrade, raising hopes of a ‘new era for science’
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/science/2015/apr/05/cerns-large-hadron-collider-restarts-with-sights-set-on-dark-matter)
+1. [The Guardian](https://www.theguardian.com/science/2015/apr/05/cerns-large-hadron-collider-restarts-with-sights-set-on-dark-matter)
 1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/4/5/1428214889134/9d05acc2-2e9a-4a0e-b3a3-8221571464b0-2060x1236.jpeg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=cc84f00a3a24480bf4b5c13270a0c5a2)
 
 ### Related:

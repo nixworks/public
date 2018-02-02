@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/23/the-people-s-republic-of-china-plans-to-start-tests-of-a-sars-vaccine-on-humans-by-the-end-of-december-trials-with-monkeys-show-that-the-v.html)  [JSON](/news/2003/11/23/the-people-s-republic-of-china-plans-to-start-tests-of-a-sars-vaccine-on-humans-by-the-end-of-december-trials-with-monkeys-show-that-the-v.json)  [XML](/news/2003/11/23/the-people-s-republic-of-china-plans-to-start-tests-of-a-sars-vaccine-on-humans-by-the-end-of-december-trials-with-monkeys-show-that-the-v.xml)  
+
 ### [2003-11-23](/news/2003/11/23/index.md)
 
+##### SARS
 #  The People's Republic of China plans to start tests of a SARS vaccine on humans by the end of December; trials with monkeys show that the vaccine was effective.
 
 

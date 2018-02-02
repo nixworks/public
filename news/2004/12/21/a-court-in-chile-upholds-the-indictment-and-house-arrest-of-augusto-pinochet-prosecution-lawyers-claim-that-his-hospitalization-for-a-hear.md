@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/12/21/a-court-in-chile-upholds-the-indictment-and-house-arrest-of-augusto-pinochet-prosecution-lawyers-claim-that-his-hospitalization-for-a-hear.html)  [JSON](/news/2004/12/21/a-court-in-chile-upholds-the-indictment-and-house-arrest-of-augusto-pinochet-prosecution-lawyers-claim-that-his-hospitalization-for-a-hear.json)  [XML](/news/2004/12/21/a-court-in-chile-upholds-the-indictment-and-house-arrest-of-augusto-pinochet-prosecution-lawyers-claim-that-his-hospitalization-for-a-hear.xml)  
+
 ### [2004-12-21](/news/2004/12/21/index.md)
 
+##### Chile
 #  A court in Chile upholds the indictment and house arrest of Augusto Pinochet. Prosecution lawyers claim that his hospitalization for a heart condition was a political ploy. Pinochet's lawyers intend to appeal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4110415.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=a5WlRBfG3AxQ&refer=latin_america)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000086&sid=a5WlRBfG3AxQ&refer=latin_america)
 
 ### Related:
 

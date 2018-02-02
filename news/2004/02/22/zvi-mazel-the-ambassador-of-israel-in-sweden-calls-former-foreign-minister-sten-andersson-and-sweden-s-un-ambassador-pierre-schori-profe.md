@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/22/zvi-mazel-the-ambassador-of-israel-in-sweden-calls-former-foreign-minister-sten-andersson-and-sweden-s-un-ambassador-pierre-schori-profe.html)  [JSON](/news/2004/02/22/zvi-mazel-the-ambassador-of-israel-in-sweden-calls-former-foreign-minister-sten-andersson-and-sweden-s-un-ambassador-pierre-schori-profe.json)  [XML](/news/2004/02/22/zvi-mazel-the-ambassador-of-israel-in-sweden-calls-former-foreign-minister-sten-andersson-and-sweden-s-un-ambassador-pierre-schori-profe.xml)  
+
 ### [2004-02-22](/news/2004/02/22/index.md)
 
+##### Zvi Mazel
 #  Zvi Mazel, the ambassador of Israel in Sweden, calls former foreign minister Sten Andersson and Sweden's UN ambassador Pierre Schori "professional anti-Israelis". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aftonbladet](http://www.aftonbladet.se/vss/nyheter/story/0,2789,437040,00.html)
 2. [Aftonbladet](http://www.aftonbladet.se/vss/telegram/0,1082,63110927_852__,00.html)

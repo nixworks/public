@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/16/dr-mohamed-haneef-is-granted-bail-by-a-queensland-magistrate-on-charges-of-supporting-a-terrorist-organisation-in-relation-to-the-2007-glas.html)  [JSON](/news/2007/07/16/dr-mohamed-haneef-is-granted-bail-by-a-queensland-magistrate-on-charges-of-supporting-a-terrorist-organisation-in-relation-to-the-2007-glas.json)  [XML](/news/2007/07/16/dr-mohamed-haneef-is-granted-bail-by-a-queensland-magistrate-on-charges-of-supporting-a-terrorist-organisation-in-relation-to-the-2007-glas.xml)  
+
 ### [2007-07-16](/news/2007/07/16/index.md)
 
+##### Mohamed Haneef
 #  Dr Mohamed Haneef is granted bail by a Queensland magistrate on charges of supporting a terrorist organisation in relation to the 2007 Glasgow International Airport attack and the 2007 London car bombs. The Australian government later revokes his visa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/news/national/haneef-detained-after-bail-win/2007/07/16/1184438190629.html?page=fullpage#contentSwap1)
 2. [The Courier-Mail](http://www.news.com.au/story/0,23599,22081601-2,00.html)

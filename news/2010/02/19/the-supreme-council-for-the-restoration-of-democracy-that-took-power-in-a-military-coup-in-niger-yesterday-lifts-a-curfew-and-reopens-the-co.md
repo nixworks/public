@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/19/the-supreme-council-for-the-restoration-of-democracy-that-took-power-in-a-military-coup-in-niger-yesterday-lifts-a-curfew-and-reopens-the-co.html)  [JSON](/news/2010/02/19/the-supreme-council-for-the-restoration-of-democracy-that-took-power-in-a-military-coup-in-niger-yesterday-lifts-a-curfew-and-reopens-the-co.json)  [XML](/news/2010/02/19/the-supreme-council-for-the-restoration-of-democracy-that-took-power-in-a-military-coup-in-niger-yesterday-lifts-a-curfew-and-reopens-the-co.xml)  
+
 ### [2010-02-19](/news/2010/02/19/index.md)
 
+##### Supreme Council for the Restoration of Democracy
 # The Supreme Council for the Restoration of Democracy that took power in a military coup in Niger yesterday lifts a curfew and reopens the country's borders. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=118428)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8524610.stm)

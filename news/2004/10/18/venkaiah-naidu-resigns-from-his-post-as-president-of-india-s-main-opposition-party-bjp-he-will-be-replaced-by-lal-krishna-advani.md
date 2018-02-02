@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/18/venkaiah-naidu-resigns-from-his-post-as-president-of-india-s-main-opposition-party-bjp-he-will-be-replaced-by-lal-krishna-advani.html)  [JSON](/news/2004/10/18/venkaiah-naidu-resigns-from-his-post-as-president-of-india-s-main-opposition-party-bjp-he-will-be-replaced-by-lal-krishna-advani.json)  [XML](/news/2004/10/18/venkaiah-naidu-resigns-from-his-post-as-president-of-india-s-main-opposition-party-bjp-he-will-be-replaced-by-lal-krishna-advani.xml)  
+
 ### [2004-10-18](/news/2004/10/18/index.md)
 
+##### Venkaiah Naidu
 #  Venkaiah Naidu resigns from his post as president of India's main opposition party, BJP. He will be replaced by Lal Krishna Advani. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/go/click/rss/1.0/-/2/hi/south_asia/3751774.stm)
 

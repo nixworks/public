@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/25/nintendo-s-annual-profits-slump.html)  [JSON](/news/2011/04/25/nintendo-s-annual-profits-slump.json)  [XML](/news/2011/04/25/nintendo-s-annual-profits-slump.xml)  
+
 ### [2011-04-25](/news/2011/04/25/index.md)
 
+##### Nintendo
 # Nintendo's annual profits slump. 
 
 Video games giant Nintendo says its profits slumped by 66% last year, as it confirms the launch of a successor to the Wii.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-13185728)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52330000/jpg/_52330416_010967562-1.jpg)

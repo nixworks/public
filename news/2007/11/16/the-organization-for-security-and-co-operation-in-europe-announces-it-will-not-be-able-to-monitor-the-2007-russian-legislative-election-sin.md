@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/16/the-organization-for-security-and-co-operation-in-europe-announces-it-will-not-be-able-to-monitor-the-2007-russian-legislative-election-sin.html)  [JSON](/news/2007/11/16/the-organization-for-security-and-co-operation-in-europe-announces-it-will-not-be-able-to-monitor-the-2007-russian-legislative-election-sin.json)  [XML](/news/2007/11/16/the-organization-for-security-and-co-operation-in-europe-announces-it-will-not-be-able-to-monitor-the-2007-russian-legislative-election-sin.xml)  
+
 ### [2007-11-16](/news/2007/11/16/index.md)
 
+##### OSCE
 #  The Organization for Security and Co-operation in Europe announces it will not be able to monitor the 2007 Russian legislative election since its staff has been denied visas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7098015.stm)
 

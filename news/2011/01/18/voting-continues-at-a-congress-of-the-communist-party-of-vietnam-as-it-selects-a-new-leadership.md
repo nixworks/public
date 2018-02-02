@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/18/voting-continues-at-a-congress-of-the-communist-party-of-vietnam-as-it-selects-a-new-leadership.html)  [JSON](/news/2011/01/18/voting-continues-at-a-congress-of-the-communist-party-of-vietnam-as-it-selects-a-new-leadership.json)  [XML](/news/2011/01/18/voting-continues-at-a-congress-of-the-communist-party-of-vietnam-as-it-selects-a-new-leadership.xml)  
+
 ### [2011-01-18](/news/2011/01/18/index.md)
 
+##### Communist Party
 # Voting continues at a congress of the Communist Party of Vietnam as it selects a new leadership. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5g3FZQAnyy9nQYsSvvpzlYX02iwag?docId=36acba63a7614e05b13f6a463dedf37b)
 2. [Times Live](http://www.timeslive.co.za/world/article857182.ece/Vietnams-two-top-leaders-step-down)

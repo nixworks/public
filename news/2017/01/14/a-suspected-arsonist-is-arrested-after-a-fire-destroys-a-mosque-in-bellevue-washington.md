@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/14/a-suspected-arsonist-is-arrested-after-a-fire-d
 
 ### [2017-01-14](/news/2017/01/14/index.md)
 
+##### Islamophobia in the United States
 #  A suspected arsonist is arrested after a fire destroys a mosque in Bellevue, Washington. 
 
 A suspected arson fire badly damaged a Bellevue mosque early Saturday morning. Police arrested one person at the scene.

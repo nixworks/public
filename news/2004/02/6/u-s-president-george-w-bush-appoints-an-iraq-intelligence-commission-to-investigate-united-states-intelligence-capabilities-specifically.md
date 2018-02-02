@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/6/u-s-president-george-w-bush-appoints-an-iraq-intelligence-commission-to-investigate-united-states-intelligence-capabilities-specifically.html)  [JSON](/news/2004/02/6/u-s-president-george-w-bush-appoints-an-iraq-intelligence-commission-to-investigate-united-states-intelligence-capabilities-specifically.json)  [XML](/news/2004/02/6/u-s-president-george-w-bush-appoints-an-iraq-intelligence-commission-to-investigate-united-states-intelligence-capabilities-specifically.xml)  
+
 ### [2004-02-6](/news/2004/02/6/index.md)
 
+##### George W. Bush
 #  U.S. President George W. Bush appoints an Iraq Intelligence Commission to investigate United States intelligence capabilities, specifically regarding the 2003 invasion of Iraq and Iraq's weapons of mass destruction. The commission is headed by Governor, and former Senator, Chuck Robb and Judge Laurence Silberman.
 
 

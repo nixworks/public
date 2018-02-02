@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/24/lyrics-of-like-a-rolling-stone-handwritten-by-bob-dylan-sell-at-auction-for-a-record-us-2-million.html)  [JSON](/news/2014/06/24/lyrics-of-like-a-rolling-stone-handwritten-by-bob-dylan-sell-at-auction-for-a-record-us-2-million.json)  [XML](/news/2014/06/24/lyrics-of-like-a-rolling-stone-handwritten-by-bob-dylan-sell-at-auction-for-a-record-us-2-million.xml)  
+
 ### [2014-06-24](/news/2014/06/24/index.md)
 
+##### Like a Rolling Stone
 # Lyrics of "Like a Rolling Stone" handwritten by Bob Dylan sell at auction for a record US$2 million. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-28009344)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/75808000/jpg/_75808215_dylan.jpg)

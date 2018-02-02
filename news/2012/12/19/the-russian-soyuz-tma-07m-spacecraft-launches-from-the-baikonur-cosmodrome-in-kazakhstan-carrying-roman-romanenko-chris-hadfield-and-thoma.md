@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2012/12/19/the-russian-soyuz-tma-07m-spacecraft-launches-from-the-baikonur-cosmodrome-in-kazakhstan-carrying-roman-romanenko-chris-hadfield-and-thoma.html)  [JSON](/news/2012/12/19/the-russian-soyuz-tma-07m-spacecraft-launches-from-the-baikonur-cosmodrome-in-kazakhstan-carrying-roman-romanenko-chris-hadfield-and-thoma.json)  [XML](/news/2012/12/19/the-russian-soyuz-tma-07m-spacecraft-launches-from-the-baikonur-cosmodrome-in-kazakhstan-carrying-roman-romanenko-chris-hadfield-and-thoma.xml)  
+
 ### [2012-12-19](/news/2012/12/19/index.md)
 
+##### Russia
 # The Russian Soyuz TMA-07M spacecraft launches from the Baikonur Cosmodrome in Kazakhstan, carrying Roman Romanenko, Chris Hadfield and Thomas Marshburn for the ISS Expedition 34 and 35 crews. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNet](http://news.cnet.com/8301-11386_3-57559952-76/soyuz-blasts-off-for-space-station-with-three-man-crew/)
 2. [NASA Spaceflight](http://www.nasaspaceflight.com/2012/12/soyuz-tma-07m-three-new-crewmembers-iss/)
-3. [Reuters](http://www.reuters.com/article/2012/12/19/kazakhstan-space-launch-idUSL5E8NJ8BK20121219)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/article/2012/12/19/kazakhstan-space-launch-idUSL5E8NJ8BK20121219)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

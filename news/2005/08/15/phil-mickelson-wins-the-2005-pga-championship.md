@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/15/phil-mickelson-wins-the-2005-pga-championship.html)  [JSON](/news/2005/08/15/phil-mickelson-wins-the-2005-pga-championship.json)  [XML](/news/2005/08/15/phil-mickelson-wins-the-2005-pga-championship.xml)  
+
 ### [2005-08-15](/news/2005/08/15/index.md)
 
+##### Phil Mickelson
 #  Phil Mickelson wins the 2005 PGA Championship 
 
 
 
 
-### Source:
+### Sources:
 
 1. [PGA.com](http://www.pga.com/pgachampionship/2005/)
 

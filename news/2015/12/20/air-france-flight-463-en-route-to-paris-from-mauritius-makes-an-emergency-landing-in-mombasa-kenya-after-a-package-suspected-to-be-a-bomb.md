@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2015/12/20/air-france-flight-463-en-route-to-paris-from-mauritius-makes-an-emergency-landing-in-mombasa-kenya-after-a-package-suspected-to-be-a-bomb.html)  [JSON](/news/2015/12/20/air-france-flight-463-en-route-to-paris-from-mauritius-makes-an-emergency-landing-in-mombasa-kenya-after-a-package-suspected-to-be-a-bomb.json)  [XML](/news/2015/12/20/air-france-flight-463-en-route-to-paris-from-mauritius-makes-an-emergency-landing-in-mombasa-kenya-after-a-package-suspected-to-be-a-bomb.xml)  
+
 ### [2015-12-20](/news/2015/12/20/index.md)
 
+##### Paris
 # Air France Flight 463 en-route to Paris from Mauritius makes an emergency landing in Mombasa, Kenya, after a package, suspected to be a bomb is found in the toilet. Later, Air France CEO Frederic Gagey says it was a false alarm; the package contained a mixture of cardboard, sheets of paper, and a timer. 
 
 A Kenyan police official says an Air France flight from Mauritius to Paris has been forced to land in the Kenyan coastal city of Mombasa after a device suspected to be a bomb was found.
 
 
-### Source:
+### Sources:
 
 1. [AP via News24](http://www.news24.com/News24/World/News/air-france-flight-forced-to-land-in-kenya-over-bomb-scare-20151220-2)
 2. [CNN](http://edition.cnn.com/2015/12/20/africa/air-france-flight-emergency-landing-kenya/index.html)
-3. [Reuters](http://www.reuters.com/article/us-kenya-airlines-airfrance-idUSKBN0U307C20151220)
+3. [Reuters](https://www.reuters.com/article/us-kenya-airlines-airfrance-idUSKBN0U307C20151220)
 3. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/731/c008bf1e9572464a98306d871114db45.jpg)
 
 ### Related:

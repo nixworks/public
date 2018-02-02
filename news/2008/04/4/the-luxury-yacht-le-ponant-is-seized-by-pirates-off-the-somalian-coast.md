@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/4/the-luxury-yacht-le-ponant-is-seized-by-pirates-off-the-somalian-coast.html)  [JSON](/news/2008/04/4/the-luxury-yacht-le-ponant-is-seized-by-pirates-off-the-somalian-coast.json)  [XML](/news/2008/04/4/the-luxury-yacht-le-ponant-is-seized-by-pirates-off-the-somalian-coast.xml)  
+
 ### [2008-04-4](/news/2008/04/4/index.md)
 
+##### Le Ponant
 #  The luxury yacht Le Ponant is seized by pirates off the Somalian coast. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7331290.stm)
 

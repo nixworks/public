@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/15/at-least-10-people-are-killed-and-15-wounded-in-a-suicide-bombing-outside-a-baghdad-bakery-as-residents-prepared-to-break-their-ramadan-fas.html)  [JSON](/news/2007/09/15/at-least-10-people-are-killed-and-15-wounded-in-a-suicide-bombing-outside-a-baghdad-bakery-as-residents-prepared-to-break-their-ramadan-fas.json)  [XML](/news/2007/09/15/at-least-10-people-are-killed-and-15-wounded-in-a-suicide-bombing-outside-a-baghdad-bakery-as-residents-prepared-to-break-their-ramadan-fas.xml)  
+
 ### [2007-09-15](/news/2007/09/15/index.md)
 
+##### suicide bombing
 #  At least 10 people are killed and 15 wounded in a suicide bombing outside a Baghdad bakery as residents prepared to break their Ramadan fast. 
 
 Ten people were killed and 15 hurt when a suicide bomber blew up his car outside a bakery in south-west Baghdad Saturday evening (local time) as Muslims were preparing to break the Ramadan fast, officials said.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/16/2033967.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

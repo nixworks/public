@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/9/united-states-navy-seals-by-high-altitude-parach
 
 ### [2016-09-9](/news/2016/09/9/index.md)
 
+##### War in Afghanistan (2015-present)
 # United States Navy SEALs, by high altitude parachuting, fail in a rescue attempt after the team does not find the American and Australian hostages who were kidnapped in Kabul last month. 
 
 

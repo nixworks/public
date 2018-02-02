@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/4/occupation-of-iraq-for-the-second-night-running-the-hq-of-the-coalition-in-central-baghdad-comes-under-attack-huge-explosions-are-heard.html)  [JSON](/news/2003/11/4/occupation-of-iraq-for-the-second-night-running-the-hq-of-the-coalition-in-central-baghdad-comes-under-attack-huge-explosions-are-heard.json)  [XML](/news/2003/11/4/occupation-of-iraq-for-the-second-night-running-the-hq-of-the-coalition-in-central-baghdad-comes-under-attack-huge-explosions-are-heard.xml)  
+
 ### [2003-11-4](/news/2003/11/4/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: For the second night running the HQ of the coalition in central Baghdad comes under attack; huge explosions are heard. Spain, one of the staunchest supporters of the US in the Iraq war, withdraws many of its staff from its embassy in Iraq.
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-
 
 ### [2017-09-11](/news/2017/09/11/index.md)
 
+##### Politics of the Philippines
 # Philippine Justice secretary Vitaliano Aguirre is caught allegedly conspiring a lawsuit against opposition Senator Risa Hontiveros. 
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/27/president-of-the-philippines-rodrigo-duterte-te
 
 ### [2017-05-27](/news/2017/05/27/index.md)
 
+##### Marawi crisis
 # President of the Philippines Rodrigo Duterte tells soldiers fighting in Mindanao, where he proclaimed martial law earlier this week, that he will accept responsibility for abuses they commit, and jokes that "[i]f you had raped three, I will admit it, that's on me." 
 
 Philippines President Rodrigo Duterte has sought to reassure soldiers who might be accused of committing abuses under martial law.

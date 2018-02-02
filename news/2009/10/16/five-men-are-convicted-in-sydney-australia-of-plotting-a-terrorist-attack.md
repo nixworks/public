@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/16/five-men-are-convicted-in-sydney-australia-of-plotting-a-terrorist-attack.html)  [JSON](/news/2009/10/16/five-men-are-convicted-in-sydney-australia-of-plotting-a-terrorist-attack.json)  [XML](/news/2009/10/16/five-men-are-convicted-in-sydney-australia-of-plotting-a-terrorist-attack.xml)  
+
 ### [2009-10-16](/news/2009/10/16/index.md)
 
+##### Sydney
 #  Five men are convicted in Sydney, Australia of plotting a terrorist attack. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/five-men-convicted-in-terror-trial-20091016-h049.html)
 2. [news.com.au](http://www.news.com.au/story/0,23599,26217736-2,00.html)

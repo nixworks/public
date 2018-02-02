@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/12/president-of-the-philippines-gloria-arroyo-lifts-martial-law-in-maguindanao-in-the-south-of-the-country-where-57-people-were-killed-in-pol.html)  [JSON](/news/2009/12/12/president-of-the-philippines-gloria-arroyo-lifts-martial-law-in-maguindanao-in-the-south-of-the-country-where-57-people-were-killed-in-pol.json)  [XML](/news/2009/12/12/president-of-the-philippines-gloria-arroyo-lifts-martial-law-in-maguindanao-in-the-south-of-the-country-where-57-people-were-killed-in-pol.xml)  
+
 ### [2009-12-12](/news/2009/12/12/index.md)
 
+##### Philippines
 #  President of the Philippines Gloria Arroyo lifts martial law in Maguindanao in the south of the country, where 57 people were killed in political violence there last month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g1F3rK2Tld9m648edA-eshNZBSogD9CHQEEG0)
 2. [The Philippine Star](http://www.philstar.com/Article.aspx?articleId=532059&publicationSubCategoryId=63)

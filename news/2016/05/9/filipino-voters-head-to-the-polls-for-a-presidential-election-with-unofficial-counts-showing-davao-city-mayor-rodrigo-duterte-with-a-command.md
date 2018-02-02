@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/9/filipino-voters-head-to-the-polls-for-a-presiden
 
 ### [2016-05-9](/news/2016/05/9/index.md)
 
+##### Philippine general election, 2016
 # Filipino voters head to the polls for a presidential election with unofficial counts showing Davao City mayor Rodrigo Duterte with a commanding lead. 
 
 MANILA, Philippines (AP) — A brash and tough-talking mayor who has pledged to kill suspected criminals and end crime within six months emerged Tuesday as the winner in presidential elections after securing an unassailable…

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/29/researchers-from-south-korea-have-successfully-used-stem-cell-therapy-to-allow-a-paralyzed-woman-with-spinal-cord-injury-to-walk-again.html)  [JSON](/news/2004/11/29/researchers-from-south-korea-have-successfully-used-stem-cell-therapy-to-allow-a-paralyzed-woman-with-spinal-cord-injury-to-walk-again.json)  [XML](/news/2004/11/29/researchers-from-south-korea-have-successfully-used-stem-cell-therapy-to-allow-a-paralyzed-woman-with-spinal-cord-injury-to-walk-again.xml)  
+
 ### [2004-11-29](/news/2004/11/29/index.md)
 
+##### South Korea
 #  Researchers from South Korea have successfully used stem cell therapy to allow a paralyzed woman with spinal cord injury to walk again. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [WPH](http://www.wpherald.com/storyview.php?StoryID=20041127-121143-6745r)
 

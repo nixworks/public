@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/23/china-requests-that-tibetan-monks-leave-qinghai-where-an-earthquake-struck-on-14-april.html)  [JSON](/news/2010/04/23/china-requests-that-tibetan-monks-leave-qinghai-where-an-earthquake-struck-on-14-april.json)  [XML](/news/2010/04/23/china-requests-that-tibetan-monks-leave-qinghai-where-an-earthquake-struck-on-14-april.xml)  
+
 ### [2010-04-23](/news/2010/04/23/index.md)
 
+##### Tibet
 # China requests that Tibetan monks leave Qinghai where an earthquake struck on 14 April. 
 
 Officials deny decision is political, saying that monks could obstruct relief efforts.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/201042354712278816.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8639497.stm)

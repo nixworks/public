@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/13/a-number-of-people-were-injured-in-clashes-betw
 
 ### [2016-04-13](/news/2016/04/13/index.md)
 
+##### Skopje
 #  A number of people were injured in clashes between police and several thousand protestors in Skopje, Macedonia, with demonstrators breaking into President Gjorge Ivanov's offices. 
 
 An anti-government protest in the Macedonian capital of Skopje has resulted in violence, with police being reportedly involved in clashes with demonstrators who have reportedly stormed the president&#039;s office.

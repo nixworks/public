@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/17/indonesian-police-confirm-the-death-of-their-most-wanted-man-noordin-mohammed-top-who-was-suspected-of-involvement-in-the-2009-jakarta-bo.html)  [JSON](/news/2009/09/17/indonesian-police-confirm-the-death-of-their-most-wanted-man-noordin-mohammed-top-who-was-suspected-of-involvement-in-the-2009-jakarta-bo.json)  [XML](/news/2009/09/17/indonesian-police-confirm-the-death-of-their-most-wanted-man-noordin-mohammed-top-who-was-suspected-of-involvement-in-the-2009-jakarta-bo.xml)  
+
 ### [2009-09-17](/news/2009/09/17/index.md)
 
+##### Indonesia
 #  Indonesian police confirm the death of their most wanted man, Noordin Mohammed Top, who was suspected of involvement in the 2009 Jakarta bombings and the Bali bombings in 2002. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/200991783135850613.html)
 2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/09/17/indonesia.terror.raid/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/23/the-2009-ascent-of-kangchenjunga-by-korean-climber-oh-eun-sun-aiming-to-be-the-first-woman-to-climb-the-14-highest-peaks-on-earth-is-decla.html)  [JSON](/news/2010/04/23/the-2009-ascent-of-kangchenjunga-by-korean-climber-oh-eun-sun-aiming-to-be-the-first-woman-to-climb-the-14-highest-peaks-on-earth-is-decla.json)  [XML](/news/2010/04/23/the-2009-ascent-of-kangchenjunga-by-korean-climber-oh-eun-sun-aiming-to-be-the-first-woman-to-climb-the-14-highest-peaks-on-earth-is-decla.xml)  
+
 ### [2010-04-23](/news/2010/04/23/index.md)
 
+##### Kangchenjunga
 # The 2009 ascent of Kangchenjunga by Korean climber Oh Eun-sun, aiming to be the first woman to climb the 14 highest peaks on Earth, is declared "disputed" by Himalayan climbing records arbiter, Elizabeth Hawle. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8638695.stm)
 

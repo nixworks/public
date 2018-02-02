@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/10/in-the-united-kingdom-the-prince-of-wales-returns-from-a-foreign-trip-to-confront-enormous-media-interest-in-rumours-of-homosexual-acts-in.html)  [JSON](/news/2003/11/10/in-the-united-kingdom-the-prince-of-wales-returns-from-a-foreign-trip-to-confront-enormous-media-interest-in-rumours-of-homosexual-acts-in.json)  [XML](/news/2003/11/10/in-the-united-kingdom-the-prince-of-wales-returns-from-a-foreign-trip-to-confront-enormous-media-interest-in-rumours-of-homosexual-acts-in.xml)  
+
 ### [2003-11-10](/news/2003/11/10/index.md)
 
+##### Prince of Wales
 #  In the United Kingdom, the Prince of Wales returns from a foreign trip to confront enormous media interest in rumours of homosexual acts involving him and a former aide arising from allegations made by another former royal servant, George Smith. Charles is considering legal action, but his staff have ruled out the possibility of a televised statement or interview.
 
 

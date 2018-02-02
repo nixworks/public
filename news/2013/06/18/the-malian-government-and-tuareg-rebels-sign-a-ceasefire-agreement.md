@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/18/the-malian-government-and-tuareg-rebels-sign-a-ceasefire-agreement.html)  [JSON](/news/2013/06/18/the-malian-government-and-tuareg-rebels-sign-a-ceasefire-agreement.json)  [XML](/news/2013/06/18/the-malian-government-and-tuareg-rebels-sign-a-ceasefire-agreement.xml)  
+
 ### [2013-06-18](/news/2013/06/18/index.md)
 
+##### Tuareg
 # The Malian government and Tuareg rebels sign a ceasefire agreement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/africa/2013-06/19/c_124874468.htm)
 

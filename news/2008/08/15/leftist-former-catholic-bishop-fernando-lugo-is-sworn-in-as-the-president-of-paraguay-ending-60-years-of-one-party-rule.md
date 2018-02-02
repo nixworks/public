@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/15/leftist-former-catholic-bishop-fernando-lugo-is-sworn-in-as-the-president-of-paraguay-ending-60-years-of-one-party-rule.html)  [JSON](/news/2008/08/15/leftist-former-catholic-bishop-fernando-lugo-is-sworn-in-as-the-president-of-paraguay-ending-60-years-of-one-party-rule.json)  [XML](/news/2008/08/15/leftist-former-catholic-bishop-fernando-lugo-is-sworn-in-as-the-president-of-paraguay-ending-60-years-of-one-party-rule.xml)  
+
 ### [2008-08-15](/news/2008/08/15/index.md)
 
+##### Catholic Church
 #  Leftist former Catholic bishop Fernando Lugo is sworn in as the President of Paraguay, ending 60 years of one-party rule. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://edition.cnn.com/2008/WORLD/americas/08/15/paraguay.ap/)
 

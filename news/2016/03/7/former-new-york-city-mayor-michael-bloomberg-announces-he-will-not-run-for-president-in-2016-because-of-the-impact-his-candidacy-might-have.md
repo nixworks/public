@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/7/former-new-york-city-mayor-michael-bloomberg-ann
 
 ### [2016-03-7](/news/2016/03/7/index.md)
 
+##### 2016 U.S. presidential election
 # Former New York City mayor Michael Bloomberg announces he will not run for president in 2016 because of the impact his candidacy might have on the outcome in November. 
 
 The former mayor of New York City revealed his decision in a column for Bloomberg View

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/8/eight-people-including-four-children-are-killed-after-fire-rages-through-a-popular-night-market-in-the-cambodian-town-of-siem-reap.html)  [JSON](/news/2012/12/8/eight-people-including-four-children-are-killed-after-fire-rages-through-a-popular-night-market-in-the-cambodian-town-of-siem-reap.json)  [XML](/news/2012/12/8/eight-people-including-four-children-are-killed-after-fire-rages-through-a-popular-night-market-in-the-cambodian-town-of-siem-reap.xml)  
+
 ### [2012-12-8](/news/2012/12/8/index.md)
 
+##### Cambodia
 # Eight people, including four children, are killed after fire rages through a popular night market in the Cambodian town of Siem Reap. 
 
 A blaze rages for two hours in the night market, a popular tourist attraction, and destroys some 100 stalls selling souvenirs.
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/story/1022561/eight-people-killed-in-cambodia-market-fire)
 1. [Cover Image](http://e3.365dm.com/16/07/1600x900/cambodia-1_3686243.jpg?20160706131024)

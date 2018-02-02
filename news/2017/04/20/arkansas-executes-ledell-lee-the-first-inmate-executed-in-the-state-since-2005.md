@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/20/arkansas-executes-ledell-lee-the-first-inmate-e
 
 ### [2017-04-20](/news/2017/04/20/index.md)
 
+##### Capital punishment in the United States
 # Arkansas executes Ledell Lee, the first inmate executed in the state since 2005. 
 
 Arkansas has executed an inmate for the first time in nearly a dozen years as part of its plan to execute several inmates before a drug expires April 30, despite court rulings that have already spared three men.

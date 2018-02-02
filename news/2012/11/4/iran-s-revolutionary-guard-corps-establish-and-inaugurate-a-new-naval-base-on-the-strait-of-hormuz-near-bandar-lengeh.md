@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/4/iran-s-revolutionary-guard-corps-establish-and-inaugurate-a-new-naval-base-on-the-strait-of-hormuz-near-bandar-lengeh.html)  [JSON](/news/2012/11/4/iran-s-revolutionary-guard-corps-establish-and-inaugurate-a-new-naval-base-on-the-strait-of-hormuz-near-bandar-lengeh.json)  [XML](/news/2012/11/4/iran-s-revolutionary-guard-corps-establish-and-inaugurate-a-new-naval-base-on-the-strait-of-hormuz-near-bandar-lengeh.xml)  
+
 ### [2012-11-4](/news/2012/11/4/index.md)
 
+##### Iranian Revolutionary guards
 # Iran's Revolutionary Guard Corps establish and inaugurate a new naval base on the Strait of Hormuz, near Bandar Lengeh. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.ria.ru/mlitary_news/20121104/177188545.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/10/a-mass-poisoning-at-a-funeral-in-mozambique-involves-beer-that-was-deliberately-contaminated-with-crocodile-bile-leaving-at-least-56-dead-an.html)  [JSON](/news/2015/01/10/a-mass-poisoning-at-a-funeral-in-mozambique-involves-beer-that-was-deliberately-contaminated-with-crocodile-bile-leaving-at-least-56-dead-an.json)  [XML](/news/2015/01/10/a-mass-poisoning-at-a-funeral-in-mozambique-involves-beer-that-was-deliberately-contaminated-with-crocodile-bile-leaving-at-least-56-dead-an.xml)  
+
 ### [2015-01-10](/news/2015/01/10/index.md)
 
+##### contaminated beer
 # A mass poisoning at a funeral in Mozambique involves beer that was deliberately contaminated with crocodile bile leaving at least 56 dead and 146 hospitailized. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [FOX8LIVE](http://www.fox8live.com/story/27820680/56-people-die-after-drinking-poisoned-beer-in-mozambique)
 

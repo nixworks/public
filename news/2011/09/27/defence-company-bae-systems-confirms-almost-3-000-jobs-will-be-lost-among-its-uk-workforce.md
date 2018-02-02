@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/27/defence-company-bae-systems-confirms-almost-3-000-jobs-will-be-lost-among-its-uk-workforce.html)  [JSON](/news/2011/09/27/defence-company-bae-systems-confirms-almost-3-000-jobs-will-be-lost-among-its-uk-workforce.json)  [XML](/news/2011/09/27/defence-company-bae-systems-confirms-almost-3-000-jobs-will-be-lost-among-its-uk-workforce.xml)  
+
 ### [2011-09-27](/news/2011/09/27/index.md)
 
+##### BAE Systems
 # Defence company BAE Systems confirms almost 3,000 jobs will be lost among its UK workforce. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/home/uk-news/article/16077855)
 

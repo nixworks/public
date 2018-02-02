@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/26/a-court-in-iran-convicts-a-man-of-spying-for-israel-his-identity-is-to-be-revealed-after-the-sentence-is-confirmed.html)  [JSON](/news/2010/12/26/a-court-in-iran-convicts-a-man-of-spying-for-israel-his-identity-is-to-be-revealed-after-the-sentence-is-confirmed.json)  [XML](/news/2010/12/26/a-court-in-iran-convicts-a-man-of-spying-for-israel-his-identity-is-to-be-revealed-after-the-sentence-is-confirmed.xml)  
+
 ### [2010-12-26](/news/2010/12/26/index.md)
 
+##### Iran
 # A court in Iran convicts a man of spying for Israel. His identity is to be revealed after the sentence is confirmed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via France24](http://www.france24.com/en/20101226-iran-condemns-zionist-spy-death-prosecutor)
 

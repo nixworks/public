@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/26/former-guinean-president-lansana-conta-c-s-eldest-son-confesses-to-drug-trafficking.html)  [JSON](/news/2009/02/26/former-guinean-president-lansana-conta-c-s-eldest-son-confesses-to-drug-trafficking.json)  [XML](/news/2009/02/26/former-guinean-president-lansana-conta-c-s-eldest-son-confesses-to-drug-trafficking.xml)  
+
 ### [2009-02-26](/news/2009/02/26/index.md)
 
+##### Guinea
 #  Former Guinean President Lansana Conte's eldest son confesses to drug trafficking. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7913147.stm)
 

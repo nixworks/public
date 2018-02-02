@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/5/global-financial-crisis-of-2008-the-united-states-department-of-labor-reports-that-nonfarm-payrolls-contracted-by-533-000-in-november-the.html)  [JSON](/news/2008/12/5/global-financial-crisis-of-2008-the-united-states-department-of-labor-reports-that-nonfarm-payrolls-contracted-by-533-000-in-november-the.json)  [XML](/news/2008/12/5/global-financial-crisis-of-2008-the-united-states-department-of-labor-reports-that-nonfarm-payrolls-contracted-by-533-000-in-november-the.xml)  
+
 ### [2008-12-5](/news/2008/12/5/index.md)
 
+##### financial crisis
 #  Global financial crisis of 2008: the United States Department of Labor reports that nonfarm payrolls contracted by 533,000 in November, the worst monthly job loss since 1974. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/Payrolls-plunge-stunning-533000-November/story.aspx?guid=%7B5446C124%2D6428%2D4C60%2D8CB9%2D30505CCA12AA%7D)
 1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)

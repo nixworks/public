@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2003/07/25/palestinian-prime-minister-mahmoud-abbas-meets-with-us-president-george-w-bush-at-the-white-house.html)  [JSON](/news/2003/07/25/palestinian-prime-minister-mahmoud-abbas-meets-with-us-president-george-w-bush-at-the-white-house.json)  [XML](/news/2003/07/25/palestinian-prime-minister-mahmoud-abbas-meets-with-us-president-george-w-bush-at-the-white-house.xml)  
+
 ### [2003-07-25](/news/2003/07/25/index.md)
 
+##### Palestinian Prime Minister
 #  Palestinian Prime Minister Mahmoud Abbas meets with US President George W. Bush at the White House 
 
 
 
 
-### Source:
+### Sources:
 
-1. [White House press release](http://georgewbush-whitehouse.archives.gov/news/releases/2003/07/20030725-6.html)
+1. [White House press release](https://georgewbush-whitehouse.archives.gov/news/releases/2003/07/20030725-6.html)
 
 ### Related:
 

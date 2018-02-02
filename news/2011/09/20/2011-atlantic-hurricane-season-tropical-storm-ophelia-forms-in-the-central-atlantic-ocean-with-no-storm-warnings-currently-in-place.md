@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/20/2011-atlantic-hurricane-season-tropical-storm-ophelia-forms-in-the-central-atlantic-ocean-with-no-storm-warnings-currently-in-place.html)  [JSON](/news/2011/09/20/2011-atlantic-hurricane-season-tropical-storm-ophelia-forms-in-the-central-atlantic-ocean-with-no-storm-warnings-currently-in-place.json)  [XML](/news/2011/09/20/2011-atlantic-hurricane-season-tropical-storm-ophelia-forms-in-the-central-atlantic-ocean-with-no-storm-warnings-currently-in-place.xml)  
+
 ### [2011-09-20](/news/2011/09/20/index.md)
 
+##### Hurricane Rina
 # 2011 Atlantic hurricane season: Tropical Storm Ophelia forms in the central Atlantic Ocean, with no storm warnings currently in place. 
 
 Storm is too far away to be a threat to land for now
 
 
-### Source:
+### Sources:
 
 1. [National Hurricane Centre via NOLA.com](http://www.nola.com/hurricane/index.ssf/2011/09/tropical_storm_ophelia_forms_i.html)
 1. [Cover Image](http://image.nola.com/home/nola-media/width620/img/hurricane_impact/photo/10020880-standard.jpg)

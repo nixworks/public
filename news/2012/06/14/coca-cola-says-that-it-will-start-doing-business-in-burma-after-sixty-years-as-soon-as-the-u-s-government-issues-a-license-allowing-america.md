@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/14/coca-cola-says-that-it-will-start-doing-business-in-burma-after-sixty-years-as-soon-as-the-u-s-government-issues-a-license-allowing-america.html)  [JSON](/news/2012/06/14/coca-cola-says-that-it-will-start-doing-business-in-burma-after-sixty-years-as-soon-as-the-u-s-government-issues-a-license-allowing-america.json)  [XML](/news/2012/06/14/coca-cola-says-that-it-will-start-doing-business-in-burma-after-sixty-years-as-soon-as-the-u-s-government-issues-a-license-allowing-america.xml)  
+
 ### [2012-06-14](/news/2012/06/14/index.md)
 
+##### Coca-Cola
 # Coca-Cola says that it will start doing business in Burma after sixty years as soon as the U.S. government issues a license allowing American companies to make such investments. 
 
 Rovio, the Finnish gaming company behind Angry Birds, has opened its Shanghai office and outlined plans for activity parks and stores across China, one of its biggest markets.
 
 
-### Source:
+### Sources:
 
 1. [The Washington Times](http://www.washingtontimes.com/news/2012/jun/14/economy-briefs-angry-birds-plans-theme-park-retail/)
 

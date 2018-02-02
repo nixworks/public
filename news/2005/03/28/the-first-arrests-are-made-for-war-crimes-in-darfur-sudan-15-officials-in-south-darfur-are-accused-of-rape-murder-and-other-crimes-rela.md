@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/03/28/the-first-arrests-are-made-for-war-crimes-in-darfur-sudan-15-officials-in-south-darfur-are-accused-of-rape-murder-and-other-crimes-rela.html)  [JSON](/news/2005/03/28/the-first-arrests-are-made-for-war-crimes-in-darfur-sudan-15-officials-in-south-darfur-are-accused-of-rape-murder-and-other-crimes-rela.json)  [XML](/news/2005/03/28/the-first-arrests-are-made-for-war-crimes-in-darfur-sudan-15-officials-in-south-darfur-are-accused-of-rape-murder-and-other-crimes-rela.xml)  
+
 ### [2005-03-28](/news/2005/03/28/index.md)
 
+##### war crimes
 #  The first arrests are made for war crimes in Darfur, Sudan: 15 officials in South Darfur are accused of rape, murder, and other crimes related to the Darfur conflict. Whether they will be tried in a Sudanese or international court is uncertain at this time. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4388197.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8013123)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8013123)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

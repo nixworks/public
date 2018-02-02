@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/18/cecilia-and-nicolas-sarkozy-file-for-divorce.html)  [JSON](/news/2007/10/18/cecilia-and-nicolas-sarkozy-file-for-divorce.json)  [XML](/news/2007/10/18/cecilia-and-nicolas-sarkozy-file-for-divorce.xml)  
+
 ### [2007-10-18](/news/2007/10/18/index.md)
 
+##### Ccilia
 #  Ccilia and Nicolas Sarkozy file for divorce. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://us.cnn.com/2007/WORLD/europe/10/18/sarkozy.split/index.html)
 

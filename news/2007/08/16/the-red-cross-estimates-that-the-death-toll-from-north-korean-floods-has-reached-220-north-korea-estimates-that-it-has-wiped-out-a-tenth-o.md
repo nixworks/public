@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/08/16/the-red-cross-estimates-that-the-death-toll-from-north-korean-floods-has-reached-220-north-korea-estimates-that-it-has-wiped-out-a-tenth-o.html)  [JSON](/news/2007/08/16/the-red-cross-estimates-that-the-death-toll-from-north-korean-floods-has-reached-220-north-korea-estimates-that-it-has-wiped-out-a-tenth-o.json)  [XML](/news/2007/08/16/the-red-cross-estimates-that-the-death-toll-from-north-korean-floods-has-reached-220-north-korea-estimates-that-it-has-wiped-out-a-tenth-o.xml)  
+
 ### [2007-08-16](/news/2007/08/16/index.md)
 
+##### Red Cross
 #  The Red Cross estimates that the death toll from North Korean floods has reached 220. North Korea estimates that it has wiped out a tenth of its farmland. 
 
 North Korea detailed a picture of widespread devastation on Wednesday after heavy rains wiped out more than a tenth of the impoverished country’s farmland.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6949275.stm)
-2. [NYT](http://www.nytimes.com/2007/08/16/world/asia/16korea.html?_r=1&ref=world&oref=slogin)
+2. [NYT](https://www.nytimes.com/2007/08/16/world/asia/16korea.html?_r=1&ref=world&oref=slogin)
 2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

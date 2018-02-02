@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/5/an-armed-man-holds-several-people-hostage-at-a-bank-in-the-montreal-suburb-of-longueuil-the-situation-is-resolved-without-injury.html)  [JSON](/news/2007/07/5/an-armed-man-holds-several-people-hostage-at-a-bank-in-the-montreal-suburb-of-longueuil-the-situation-is-resolved-without-injury.json)  [XML](/news/2007/07/5/an-armed-man-holds-several-people-hostage-at-a-bank-in-the-montreal-suburb-of-longueuil-the-situation-is-resolved-without-injury.xml)  
+
 ### [2007-07-5](/news/2007/07/5/index.md)
 
+##### Montreal
 #  An armed man holds several people hostage at a bank in the Montreal suburb of Longueuil. The situation is resolved without injury. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CTV](http://news.sympatico.msn.ctv.ca/TopStories/ContentPosting.aspx?feedname=CTV-TOPSTORIES_V2&showbyline=True&newsitemid=CTVNews%2f20070705%2fmtl_bank_070705)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/3/the-government-of-japan-orders-an-inspection-of-road-tunnels-across-the-country-following-the-sasago-tunnel-collapse-on-saturday-december-1.html)  [JSON](/news/2012/12/3/the-government-of-japan-orders-an-inspection-of-road-tunnels-across-the-country-following-the-sasago-tunnel-collapse-on-saturday-december-1.json)  [XML](/news/2012/12/3/the-government-of-japan-orders-an-inspection-of-road-tunnels-across-the-country-following-the-sasago-tunnel-collapse-on-saturday-december-1.xml)  
+
 ### [2012-12-3](/news/2012/12/3/index.md)
 
+##### Japanese government
 # The Government of Japan orders an inspection of road tunnels across the country following the Sasago Tunnel collapse on Saturday, December 1. 
 
 Japan orders emergency inspections of road tunnels after nine people were killed in a roof collapse west of the capital Tokyo.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20576883)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64531000/jpg/_64531342_64531341.jpg)

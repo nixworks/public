@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/31/kizza-besigye-the-leader-of-uganda-s-political-opposition-is-arrested-while-leading-a-walk-to-work-protest.html)  [JSON](/news/2011/10/31/kizza-besigye-the-leader-of-uganda-s-political-opposition-is-arrested-while-leading-a-walk-to-work-protest.json)  [XML](/news/2011/10/31/kizza-besigye-the-leader-of-uganda-s-political-opposition-is-arrested-while-leading-a-walk-to-work-protest.xml)  
+
 ### [2011-10-31](/news/2011/10/31/index.md)
 
+##### Kizza Besigye
 # Kizza Besigye, the leader of Uganda's political opposition, is arrested while leading a "walk to work" protest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/ap/article/ALeqM5h842HjNrxugPBj35jX2ZCB2-T47g?docId=c5f9620395a2411092e431f4d8467d42)
 

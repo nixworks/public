@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/27/bp-sets-aside-32-2bn-to-clean-up-the-gulf-of-mexico-oil-spill.html)  [JSON](/news/2010/07/27/bp-sets-aside-32-2bn-to-clean-up-the-gulf-of-mexico-oil-spill.json)  [XML](/news/2010/07/27/bp-sets-aside-32-2bn-to-clean-up-the-gulf-of-mexico-oil-spill.xml)  
+
 ### [2010-07-27](/news/2010/07/27/index.md)
 
+##### BP
 # BP sets aside $32.2bn to clean up the Gulf of Mexico oil spill. 
 
 BP says it is setting aside $32.2bn (£20.8bn) to cover the oil spill clean-up costs, as it posts record losses of $17bn.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-10770252)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

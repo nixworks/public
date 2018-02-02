@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/03/7/six-british-army-soldiers-are-missing-presumed-killed-in-afghanistan.html)  [JSON](/news/2012/03/7/six-british-army-soldiers-are-missing-presumed-killed-in-afghanistan.json)  [XML](/news/2012/03/7/six-british-army-soldiers-are-missing-presumed-killed-in-afghanistan.xml)  
+
 ### [2012-03-7](/news/2012/03/7/index.md)
 
+##### British Army
 # Six British Army soldiers are missing presumed killed in Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/europe/ministry-of-defence-six-british-soldiers-missing-presumed-killed-in-afghanistan/2012/03/07/gIQAZu6KwR_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/europe/ministry-of-defence-six-british-soldiers-missing-presumed-killed-in-afghanistan/2012/03/07/gIQAZu6KwR_story.html)
 
 ### Related:
 

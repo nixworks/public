@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/6/2013-thane-building-collapse-rescuers-in-india-end-the-search-for-survivors-of-a-building-collapse-which-killed-74-people-in-the-city-of-th.html)  [JSON](/news/2013/04/6/2013-thane-building-collapse-rescuers-in-india-end-the-search-for-survivors-of-a-building-collapse-which-killed-74-people-in-the-city-of-th.json)  [XML](/news/2013/04/6/2013-thane-building-collapse-rescuers-in-india-end-the-search-for-survivors-of-a-building-collapse-which-killed-74-people-in-the-city-of-th.xml)  
+
 ### [2013-04-6](/news/2013/04/6/index.md)
 
+##### 2013 Thane building collapse
 # 2013 Thane building collapse: Rescuers in India end the search for survivors of a building collapse which killed 74 people in the city of Thane on April 4. 
 
 Rescuers in India end their search for survivors in the rubble of a Mumbai high-rise which collapsed with the loss of at least 72 lives.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-22049417)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66773000/jpg/_66773700_66773699.jpg)

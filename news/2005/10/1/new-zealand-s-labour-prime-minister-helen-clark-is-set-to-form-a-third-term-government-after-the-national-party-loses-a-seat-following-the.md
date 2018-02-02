@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/1/new-zealand-s-labour-prime-minister-helen-clark-is-set-to-form-a-third-term-government-after-the-national-party-loses-a-seat-following-the.html)  [JSON](/news/2005/10/1/new-zealand-s-labour-prime-minister-helen-clark-is-set-to-form-a-third-term-government-after-the-national-party-loses-a-seat-following-the.json)  [XML](/news/2005/10/1/new-zealand-s-labour-prime-minister-helen-clark-is-set-to-form-a-third-term-government-after-the-national-party-loses-a-seat-following-the.xml)  
+
 ### [2005-10-1](/news/2005/10/1/index.md)
 
+##### New Zealand
 #  New Zealand's Labour Prime Minister Helen Clark is set to form a third-term government after the National Party loses a seat following the count of 'special' votes. She begins talks with minor party leaders to form a coalition government as well obtain the support of enough minor parties to have a majority on supply and confidence issues. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NZ election results](http://electionresults.govt.nz/)
 2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-09-30T233257Z_01_KRA083708_RTRUKOC_0_UK-NEWZEALAND-RESULT.xml&archived=False)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/1/italy-s-top-court-confirms-that-former-prime-minister-silvio-berlusconi-will-serve-a-prison-sentence-for-a-tax-fraud-conviction.html)  [JSON](/news/2013/08/1/italy-s-top-court-confirms-that-former-prime-minister-silvio-berlusconi-will-serve-a-prison-sentence-for-a-tax-fraud-conviction.json)  [XML](/news/2013/08/1/italy-s-top-court-confirms-that-former-prime-minister-silvio-berlusconi-will-serve-a-prison-sentence-for-a-tax-fraud-conviction.xml)  
+
 ### [2013-08-1](/news/2013/08/1/index.md)
 
+##### Italy
 # Italy's top court confirms that former Prime Minister Silvio Berlusconi will serve a prison sentence for a tax fraud conviction. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera via Yahoo!](http://en-maktoob.news.yahoo.com/italy-court-confirms-jail-term-berlusconi-181637708.html)
 

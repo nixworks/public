@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/2/nasa-delays-the-launch-of-space-shuttle-discovery-on-sts-133-its-final-mission-due-to-a-circuitry-glitch.html)  [JSON](/news/2010/11/2/nasa-delays-the-launch-of-space-shuttle-discovery-on-sts-133-its-final-mission-due-to-a-circuitry-glitch.json)  [XML](/news/2010/11/2/nasa-delays-the-launch-of-space-shuttle-discovery-on-sts-133-its-final-mission-due-to-a-circuitry-glitch.xml)  
+
 ### [2010-11-2](/news/2010/11/2/index.md)
 
+##### NASA
 # NASA delays the launch of Space Shuttle Discovery on STS-133, its final mission, due to a circuitry glitch. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/US/11/02/space.shuttle.discovery/index.html?eref=edition)
 

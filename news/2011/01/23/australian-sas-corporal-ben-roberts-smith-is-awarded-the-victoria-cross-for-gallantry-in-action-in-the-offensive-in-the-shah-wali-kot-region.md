@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/23/australian-sas-corporal-ben-roberts-smith-is-awarded-the-victoria-cross-for-gallantry-in-action-in-the-offensive-in-the-shah-wali-kot-region.html)  [JSON](/news/2011/01/23/australian-sas-corporal-ben-roberts-smith-is-awarded-the-victoria-cross-for-gallantry-in-action-in-the-offensive-in-the-shah-wali-kot-region.json)  [XML](/news/2011/01/23/australian-sas-corporal-ben-roberts-smith-is-awarded-the-victoria-cross-for-gallantry-in-action-in-the-offensive-in-the-shah-wali-kot-region.xml)  
+
 ### [2011-01-23](/news/2011/01/23/index.md)
 
+##### Australia
 # Australian SAS Corporal Ben Roberts-Smith is awarded the Victoria Cross for gallantry in action in the offensive in the Shah Wali Kot region in Afghanistan in June 2010. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12261427)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/sas-corporal-extremely-humbled-to-get-vc-20110123-1a11m.html)

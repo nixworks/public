@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/9/the-algerian-government-cuts-food-prices-amid-unrest-and-vows-to-punish-those-responsible-for-rioting-in-recent-days.html)  [JSON](/news/2011/01/9/the-algerian-government-cuts-food-prices-amid-unrest-and-vows-to-punish-those-responsible-for-rioting-in-recent-days.json)  [XML](/news/2011/01/9/the-algerian-government-cuts-food-prices-amid-unrest-and-vows-to-punish-those-responsible-for-rioting-in-recent-days.xml)  
+
 ### [2011-01-9](/news/2011/01/9/index.md)
 
+##### Algeria
 # The Algerian government cuts food prices amid unrest, and vows to punish those responsible for rioting in recent days. 
 
 In the wake of deadly protests, the government lowers duties on basic food supplies and cracks down on rioters.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/20111820132025240.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/9/20111915113751811_20.jpg)

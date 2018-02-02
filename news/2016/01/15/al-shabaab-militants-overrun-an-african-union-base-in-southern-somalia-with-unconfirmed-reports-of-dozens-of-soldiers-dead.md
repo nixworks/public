@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/15/al-shabaab-militants-overrun-an-african-union-b
 
 ### [2016-01-15](/news/2016/01/15/index.md)
 
+##### War in Somalia
 # al Shabaab militants overrun an African Union base in southern Somalia with unconfirmed reports of dozens of soldiers dead. 
 
 Al Shabaab fighters attacked a remote Somali army base and entered a nearby town close to the border with Kenya on Friday, saying they had killed dozens of Kenyan soldiers in an African Union force supporting the government.

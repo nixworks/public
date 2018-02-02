@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/31/denmark-s-deputy-prime-minister-and-minister-of-economic-affairs-and-the-interior-margrethe-vestager-is-nominated-as-the-danish-candidate.html)  [JSON](/news/2014/08/31/denmark-s-deputy-prime-minister-and-minister-of-economic-affairs-and-the-interior-margrethe-vestager-is-nominated-as-the-danish-candidate.json)  [XML](/news/2014/08/31/denmark-s-deputy-prime-minister-and-minister-of-economic-affairs-and-the-interior-margrethe-vestager-is-nominated-as-the-danish-candidate.xml)  
+
 ### [2014-08-31](/news/2014/08/31/index.md)
 
+##### deputy prime minister
 # Denmark's deputy prime minister and Minister of Economic Affairs and the Interior, Margrethe Vestager, is nominated as the Danish candidate for EU commissioner, bringing the number of female commissioners in the Juncker Commission up to five with only three countries left to nominate a candidate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2014/08/31/us-denmark-economy-minister-idUKKBN0GV07A20140831?feedType=RSS&feedName=exxonEnergyNews&virtualBrandChannel=10174)
 1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20140831&t=2&i=968997840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA7U03G)

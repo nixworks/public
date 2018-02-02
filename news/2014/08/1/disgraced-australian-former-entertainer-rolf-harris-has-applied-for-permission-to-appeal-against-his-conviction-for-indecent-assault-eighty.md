@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/1/disgraced-australian-former-entertainer-rolf-harris-has-applied-for-permission-to-appeal-against-his-conviction-for-indecent-assault-eighty.html)  [JSON](/news/2014/08/1/disgraced-australian-former-entertainer-rolf-harris-has-applied-for-permission-to-appeal-against-his-conviction-for-indecent-assault-eighty.json)  [XML](/news/2014/08/1/disgraced-australian-former-entertainer-rolf-harris-has-applied-for-permission-to-appeal-against-his-conviction-for-indecent-assault-eighty.xml)  
+
 ### [2014-08-1](/news/2014/08/1/index.md)
 
+##### Rolf Harris
 # Disgraced Australian former entertainer Rolf Harris has applied for permission to appeal against his conviction for indecent assault. Eighty-four-year-old Harris was sentenced to 5 years and 9 months in prison in July on 12 counts of indecent assault against 4 girls between 1968 and 1986. 
 
 Disgraced entertainer Rolf Harris applies for permission to appeal against his conviction for indecent assaults.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.com/news/uk-28604456)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/76672000/jpg/_76672954_76672953.jpg)

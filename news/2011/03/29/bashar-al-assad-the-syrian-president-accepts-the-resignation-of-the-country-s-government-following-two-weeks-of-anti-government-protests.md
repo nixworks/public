@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/29/bashar-al-assad-the-syrian-president-accepts-the-resignation-of-the-country-s-government-following-two-weeks-of-anti-government-protests.html)  [JSON](/news/2011/03/29/bashar-al-assad-the-syrian-president-accepts-the-resignation-of-the-country-s-government-following-two-weeks-of-anti-government-protests.json)  [XML](/news/2011/03/29/bashar-al-assad-the-syrian-president-accepts-the-resignation-of-the-country-s-government-following-two-weeks-of-anti-government-protests.xml)  
+
 ### [2011-03-29](/news/2011/03/29/index.md)
 
+##### protestors
 # Bashar al-Assad, the Syrian president, accepts the resignation of the country's government, following two weeks of anti-government protests that have gripped Syria. However Muhammad Naji al-Otari, the resigning prime minister will continue to serve as caretaker Prime Minister. 
 
 Government resigns as part of promised reforms after two weeks of protests, outgoing PM appointed caretaker premier.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/03/201132911054164662.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/201132975114399138.html)
@@ -19,6 +23,12 @@ Government resigns as part of promised reforms after two weeks of protests, outg
 10. [UPI](http://www.upi.com/Top_News/World-News/2011/03/29/Oman-forces-crack-down-on-protesters/UPI-89971301402206/)
 10. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/29/20113291021675833_20.jpg)
 
+### Changes:
+
+1. [Arab Spring:Bashar al-Assad, the Syrian president, accepts the resignation of the country's government, following two weeks of anti-government protests that have gripped Syria. However Muhammad Naji al-Otari, the resigning prime minister will continue to serve as caretaker Prime Minister. ](/news/2011/03/29/arab-spring-pbashar-al-assad-the-syrian-president-accepts-the-resignation-of-the-country-s-government-following-two-weeks-of-anti-governm.md) _2017-08-25 03:32:40 (First version)_
+2. [Arab Spring:: 2011 Syrian protests: Bashar al-Assad, the Syrian president, accepts the resignation of the country's government, following two weeks of anti-government protests that have gripped Syria. However Muhammad Naji al-Otari, the resigning prime minister will continue to serve as caretaker Prime Minister. ](/news/2011/03/29/arab-spring-2011-syrian-protests-bashar-al-assad-the-syrian-president-accepts-the-resignation-of-the-country-s-government-following-tw.md) _2017-08-27 03:32:49 (Update)_
+2. [Bashar al-Assad, the Syrian president, accepts the resignation of the country's government, following two weeks of anti-government protests that have gripped Syria. However Muhammad Naji al-Otari, the resigning prime minister will continue to serve as caretaker Prime Minister. ](/news/2011/03/29/bashar-al-assad-the-syrian-president-accepts-the-resignation-of-the-country-s-government-following-two-weeks-of-anti-government-protests.md) _(Current version)_
+
 ### Related:
 
 1. [Sources claim that the Syrian Army storms into the city of Baniyas attacking Sunni districts that have opposed President Bashar al-Assad during the 2011 Syrian protests. ](/news/2011/05/7/sources-claim-that-the-syrian-army-storms-into-the-city-of-baniyas-attacking-sunni-districts-that-have-opposed-president-bashar-al-assad-dur.md) _Context: Bashar al-Assad, protestors_
@@ -26,9 +36,3 @@ Government resigns as part of promised reforms after two weeks of protests, outg
 3. [Citizens of the city of Daraa, a focal point of the uprising against President Bashar al-Assad, report being fired on by government soldiers and tanks. ](/news/2011/05/1/citizens-of-the-city-of-daraa-a-focal-point-of-the-uprising-against-president-bashar-al-assad-report-being-fired-on-by-government-soldiers.md) _Context: Bashar al-Assad, protestors_
 4. [President Bashar al-Assad announces that the 48-year-old state of emergency law will be lifted next week. ](/news/2011/04/16/president-bashar-al-assad-announces-that-the-48-year-old-state-of-emergency-law-will-be-lifted-next-week.md) _Context: Bashar al-Assad, protestors_
 5. [2011 Syrian protests:Bashar al-Assad, the Syrian president, authorises a review of emergency laws and an inquiry into the deaths of protesters. ](/news/2011/03/31/2011-syrian-protests-bashar-al-assad-the-syrian-president-authorises-a-review-of-emergency-laws-and-an-inquiry-into-the-deaths-of-proteste.md) _Context: Bashar al-Assad, protestors_
-
-### Changes:
-
-1. [Arab Spring:Bashar al-Assad, the Syrian president, accepts the resignation of the country's government, following two weeks of anti-government protests that have gripped Syria. However Muhammad Naji al-Otari, the resigning prime minister will continue to serve as caretaker Prime Minister. ](/news/2011/03/29/arab-spring-pbashar-al-assad-the-syrian-president-accepts-the-resignation-of-the-country-s-government-following-two-weeks-of-anti-governm.md) _2017-08-25 03:32:40 (First version)_
-2. [Arab Spring:: 2011 Syrian protests: Bashar al-Assad, the Syrian president, accepts the resignation of the country's government, following two weeks of anti-government protests that have gripped Syria. However Muhammad Naji al-Otari, the resigning prime minister will continue to serve as caretaker Prime Minister. ](/news/2011/03/29/arab-spring-2011-syrian-protests-bashar-al-assad-the-syrian-president-accepts-the-resignation-of-the-country-s-government-following-tw.md) _2017-08-27 03:32:49 (Update)_
-2. [Bashar al-Assad, the Syrian president, accepts the resignation of the country's government, following two weeks of anti-government protests that have gripped Syria. However Muhammad Naji al-Otari, the resigning prime minister will continue to serve as caretaker Prime Minister. ](/news/2011/03/29/bashar-al-assad-the-syrian-president-accepts-the-resignation-of-the-country-s-government-following-two-weeks-of-anti-government-protests.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/5/prime-minister-of-italy-silvio-berlusconi-is-put-on-trial-for-corruption-again-one-of-the-four-trials-he-is-involved-in-at-the-moment.html)  [JSON](/news/2011/03/5/prime-minister-of-italy-silvio-berlusconi-is-put-on-trial-for-corruption-again-one-of-the-four-trials-he-is-involved-in-at-the-moment.json)  [XML](/news/2011/03/5/prime-minister-of-italy-silvio-berlusconi-is-put-on-trial-for-corruption-again-one-of-the-four-trials-he-is-involved-in-at-the-moment.xml)  
+
 ### [2011-03-5](/news/2011/03/5/index.md)
 
+##### Italian Prime Minister
 # Prime Minister of Italy Silvio Berlusconi is put on trial for corruption again, one of the four trials he is involved in at the moment. 
 
 Italian Prime Minister Silvio Berlusconi plans to set aside every Monday in order to attend all his forthcoming trials, his lawyer says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12655127)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

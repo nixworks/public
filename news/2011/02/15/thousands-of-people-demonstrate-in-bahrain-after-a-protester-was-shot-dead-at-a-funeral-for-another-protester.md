@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2011/02/15/thousands-of-people-demonstrate-in-bahrain-after-a-protester-was-shot-dead-at-a-funeral-for-another-protester.html)  [JSON](/news/2011/02/15/thousands-of-people-demonstrate-in-bahrain-after-a-protester-was-shot-dead-at-a-funeral-for-another-protester.json)  [XML](/news/2011/02/15/thousands-of-people-demonstrate-in-bahrain-after-a-protester-was-shot-dead-at-a-funeral-for-another-protester.xml)  
+
 ### [2011-02-15](/news/2011/02/15/index.md)
 
+##### Bahrain
 # Thousands of people demonstrate in Bahrain after a protester was shot dead at a funeral for another protester. 
 
 The king of Bahrain has gone on television to announce an investigation into the deaths of two protesters killed in clashes with security forces on Monday.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12476335)
-2. [Reuters](http://www.reuters.com/article/2011/02/15/us-bahrain-clashes-idUSTRE71E3HN20110215)
+2. [Reuters](https://www.reuters.com/article/2011/02/15/us-bahrain-clashes-idUSTRE71E3HN20110215)
 2. [Cover Image](http://playlists.bbc.co.uk/news/world-middle-east-12476335A/playlist.sxml)
+
+### Changes:
+
+1. [2011 Bahraini protests:Thousands of people demonstrate in Bahrain after a protester was shot dead at a funeral for another protester. ](/news/2011/02/15/2011-bahraini-protests-pthousands-of-people-demonstrate-in-bahrain-after-a-protester-was-shot-dead-at-a-funeral-for-another-protester.md) _2017-08-25 03:32:12 (First version)_
+2. [2011 Bahraini protests:: Thousands of people demonstrate in Bahrain after a protester was shot dead at a funeral for another protester. ](/news/2011/02/15/2011-bahraini-protests-thousands-of-people-demonstrate-in-bahrain-after-a-protester-was-shot-dead-at-a-funeral-for-another-protester.md) _2017-08-27 03:32:20 (Update)_
+2. [Thousands of people demonstrate in Bahrain after a protester was shot dead at a funeral for another protester. ](/news/2011/02/15/thousands-of-people-demonstrate-in-bahrain-after-a-protester-was-shot-dead-at-a-funeral-for-another-protester.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ The king of Bahrain has gone on television to announce an investigation into the
 3. [Bahrain bans the independent "Al-Wasat" newspaper on grounds that it "sows division" in the Shia-majority kingdom. ](/news/2017/06/4/bahrain-bans-the-independent-al-wasat-newspaper-on-grounds-that-it-sows-division-in-the-shia-majority-kingdom.md) _Context: Bahrain_
 4. [The Bahrain News Agency publishes an official list of the demands from Saudi Arabia, Bahrain, the United Arab Emirates and Egypt towards Qatar. Turkey says the demands on Qatar are unlawful. ](/news/2017/06/25/the-bahrain-news-agency-publishes-an-official-list-of-the-demands-from-saudi-arabia-bahrain-the-united-arab-emirates-and-egypt-towards-qat.md) _Context: Bahrain_
 5. [Five people are killed in a raid on a house of a Shia cleric in Bahrain. ](/news/2017/05/24/five-people-are-killed-in-a-raid-on-a-house-of-a-shia-cleric-in-bahrain.md) _Context: Bahrain_
-
-### Changes:
-
-1. [2011 Bahraini protests:Thousands of people demonstrate in Bahrain after a protester was shot dead at a funeral for another protester. ](/news/2011/02/15/2011-bahraini-protests-pthousands-of-people-demonstrate-in-bahrain-after-a-protester-was-shot-dead-at-a-funeral-for-another-protester.md) _2017-08-25 03:32:12 (First version)_
-2. [2011 Bahraini protests:: Thousands of people demonstrate in Bahrain after a protester was shot dead at a funeral for another protester. ](/news/2011/02/15/2011-bahraini-protests-thousands-of-people-demonstrate-in-bahrain-after-a-protester-was-shot-dead-at-a-funeral-for-another-protester.md) _2017-08-27 03:32:20 (Update)_
-2. [Thousands of people demonstrate in Bahrain after a protester was shot dead at a funeral for another protester. ](/news/2011/02/15/thousands-of-people-demonstrate-in-bahrain-after-a-protester-was-shot-dead-at-a-funeral-for-another-protester.md) _(Current version)_

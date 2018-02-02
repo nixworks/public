@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/6/production-at-the-japanese-plants-of-carmaker-toyota-returns-to-normal-following-the-2011-tahoku-earthquake-and-tsunami.html)  [JSON](/news/2011/10/6/production-at-the-japanese-plants-of-carmaker-toyota-returns-to-normal-following-the-2011-tahoku-earthquake-and-tsunami.json)  [XML](/news/2011/10/6/production-at-the-japanese-plants-of-carmaker-toyota-returns-to-normal-following-the-2011-tahoku-earthquake-and-tsunami.xml)  
+
 ### [2011-10-6](/news/2011/10/6/index.md)
 
+##### Japan
 # Production at the Japanese plants of carmaker Toyota returns to normal following the 2011 Tohoku earthquake and tsunami. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kyodo](http://english.kyodonews.jp/news/2011/10/118810.html)
 

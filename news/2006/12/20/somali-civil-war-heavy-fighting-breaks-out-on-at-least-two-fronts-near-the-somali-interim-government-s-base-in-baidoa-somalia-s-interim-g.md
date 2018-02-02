@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/20/somali-civil-war-heavy-fighting-breaks-out-on-at-least-two-fronts-near-the-somali-interim-government-s-base-in-baidoa-somalia-s-interim-g.html)  [JSON](/news/2006/12/20/somali-civil-war-heavy-fighting-breaks-out-on-at-least-two-fronts-near-the-somali-interim-government-s-base-in-baidoa-somalia-s-interim-g.json)  [XML](/news/2006/12/20/somali-civil-war-heavy-fighting-breaks-out-on-at-least-two-fronts-near-the-somali-interim-government-s-base-in-baidoa-somalia-s-interim-g.xml)  
+
 ### [2006-12-20](/news/2006/12/20/index.md)
 
+##### Somali Civil War
 #  Somali Civil War: Heavy fighting breaks out on at least two fronts near the Somali interim government's base in Baidoa. Somalia's interim government and the Islamic Courts Union pledge to begin peace negotiations. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6195863.stm)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyID=2006-12-20T204037Z_01_L20540919_RTRUKOC_0_US-SOMALIA-CONFLICT.xml)

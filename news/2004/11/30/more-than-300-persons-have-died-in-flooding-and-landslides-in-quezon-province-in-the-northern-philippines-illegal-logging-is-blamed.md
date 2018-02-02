@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/30/more-than-300-persons-have-died-in-flooding-and-landslides-in-quezon-province-in-the-northern-philippines-illegal-logging-is-blamed.html)  [JSON](/news/2004/11/30/more-than-300-persons-have-died-in-flooding-and-landslides-in-quezon-province-in-the-northern-philippines-illegal-logging-is-blamed.json)  [XML](/news/2004/11/30/more-than-300-persons-have-died-in-flooding-and-landslides-in-quezon-province-in-the-northern-philippines-illegal-logging-is-blamed.xml)  
+
 ### [2004-11-30](/news/2004/11/30/index.md)
 
+##### landslide
 #  More than 300 persons have died in flooding and landslides in Quezon Province, in the northern Philippines. Illegal logging is blamed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/newsitems/200411/s1255101.htm)
 2. [ABS-CBN](http://www.abs-cbnnews.com/NewsStory.aspx?section=Headlines&oid=64283)

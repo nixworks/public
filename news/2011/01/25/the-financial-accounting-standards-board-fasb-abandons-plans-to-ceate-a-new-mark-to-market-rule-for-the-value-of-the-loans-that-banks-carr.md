@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2011/01/25/the-financial-accounting-standards-board-fasb-abandons-plans-to-ceate-a-new-mark-to-market-rule-for-the-value-of-the-loans-that-banks-carr.html)  [JSON](/news/2011/01/25/the-financial-accounting-standards-board-fasb-abandons-plans-to-ceate-a-new-mark-to-market-rule-for-the-value-of-the-loans-that-banks-carr.json)  [XML](/news/2011/01/25/the-financial-accounting-standards-board-fasb-abandons-plans-to-ceate-a-new-mark-to-market-rule-for-the-value-of-the-loans-that-banks-carr.xml)  
+
 ### [2011-01-25](/news/2011/01/25/index.md)
 
+##### Financial Accounting Standards Board
 # The Financial Accounting Standards Board (FASB) abandons plans to ceate a new mark-to-market rule for the value of the loans that banks carry on their books. 
 
+The Financial Accounting Standards Board backed off from its plan to make banks use market values to calculate how much the loans on their books are worth.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2011-01-25/financial-panel-scraps-plan-requiring-banks-to-mark-assets-to-market-value.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2011-01-25/financial-panel-scraps-plan-requiring-banks-to-mark-assets-to-market-value.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

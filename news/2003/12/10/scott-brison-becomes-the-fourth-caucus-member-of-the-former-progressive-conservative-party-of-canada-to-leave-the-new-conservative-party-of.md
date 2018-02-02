@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2003/12/10/scott-brison-becomes-the-fourth-caucus-member-of-the-former-progressive-conservative-party-of-canada-to-leave-the-new-conservative-party-of.html)  [JSON](/news/2003/12/10/scott-brison-becomes-the-fourth-caucus-member-of-the-former-progressive-conservative-party-of-canada-to-leave-the-new-conservative-party-of.json)  [XML](/news/2003/12/10/scott-brison-becomes-the-fourth-caucus-member-of-the-former-progressive-conservative-party-of-canada-to-leave-the-new-conservative-party-of.xml)  
+
 ### [2003-12-10](/news/2003/12/10/index.md)
 
-# Scott Brison becomes the fourth caucus member of the former Progressive Conservative Party of Canada to leave the new Conservative Party of Canada, crossing the floor to the Liberals. [http:--www.thestar.com-NASApp-cs-ContentServer?pagename=thestar-Layout-Article_Type1&c=Article&cid=1071056728899&call_pageid=968332188492&col=968793972154]
+##### Scott Brison
+# Scott Brison becomes the fourth caucus member of the former Progressive Conservative Party of Canada to leave the new Conservative Party of Canada, crossing the floor to the Liberals. [https:--www.thestar.com-NASApp-cs-ContentServer?pagename=thestar-Layout-Article_Type1&c=Article&cid=1071056728899&call_pageid=968332188492&col=968793972154]
 
 
 

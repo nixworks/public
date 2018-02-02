@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/07/6/a-russian-su-24-military-aircraft-crashes-while-taking-off-from-an-airfield-in-the-khabarovsk-region-in-russian-far-east-on-a-nighttime-trai.html)  [JSON](/news/2015/07/6/a-russian-su-24-military-aircraft-crashes-while-taking-off-from-an-airfield-in-the-khabarovsk-region-in-russian-far-east-on-a-nighttime-trai.json)  [XML](/news/2015/07/6/a-russian-su-24-military-aircraft-crashes-while-taking-off-from-an-airfield-in-the-khabarovsk-region-in-russian-far-east-on-a-nighttime-trai.xml)  
+
 ### [2015-07-6](/news/2015/07/6/index.md)
 
+##### Russian military
 # A Russian Su-24 military aircraft crashes while taking off from an airfield in the Khabarovsk region in Russian Far East on a nighttime training flight and both pilots are killed. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [NY Times](http://www.nytimes.com/aponline/2015/07/06/world/europe/ap-eu-russia-military-crash.html)
+1. [NY Times](https://www.nytimes.com/aponline/2015/07/06/world/europe/ap-eu-russia-military-crash.html)
 
 ### Related:
 

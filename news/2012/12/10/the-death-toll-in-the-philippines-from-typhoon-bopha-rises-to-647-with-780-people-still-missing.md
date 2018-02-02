@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/10/the-death-toll-in-the-philippines-from-typhoon-bopha-rises-to-647-with-780-people-still-missing.html)  [JSON](/news/2012/12/10/the-death-toll-in-the-philippines-from-typhoon-bopha-rises-to-647-with-780-people-still-missing.json)  [XML](/news/2012/12/10/the-death-toll-in-the-philippines-from-typhoon-bopha-rises-to-647-with-780-people-still-missing.xml)  
+
 ### [2012-12-10](/news/2012/12/10/index.md)
 
+##### Philippines
 # The death toll in the Philippines from Typhoon Bopha rises to 647 with 780 people still missing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/12/201212102229486150.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/images/2012/12/10//2012121022414146734_20.jpg)

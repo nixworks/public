@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/08/19/jamaica-prepares-for-hurricane-dean-with-the-hurricane-already-responsible-for-at-least-eight-deaths-on-caribbean-islands-st-lucia-martin.html)  [JSON](/news/2007/08/19/jamaica-prepares-for-hurricane-dean-with-the-hurricane-already-responsible-for-at-least-eight-deaths-on-caribbean-islands-st-lucia-martin.json)  [XML](/news/2007/08/19/jamaica-prepares-for-hurricane-dean-with-the-hurricane-already-responsible-for-at-least-eight-deaths-on-caribbean-islands-st-lucia-martin.xml)  
+
 ### [2007-08-19](/news/2007/08/19/index.md)
 
+##### Jamaica
 #  Jamaica prepares for Hurricane Dean with the hurricane already responsible for at least eight deaths on Caribbean islands St. Lucia, Martinique and Dominica. It is expected to hit the Cayman Islands on Monday and the Yucatn Peninsula on Tuesday with further impact on Mexico or Texas later in the week. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Forbes](http://www.forbes.com/feeds/ap/2007/08/19/ap4033842.html)
+1. [AP via Forbes](https://www.forbes.com/feeds/ap/2007/08/19/ap4033842.html)
 2. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20070818/hurricane_dean_070818/20070819?hub=World)
 
 ### Related:

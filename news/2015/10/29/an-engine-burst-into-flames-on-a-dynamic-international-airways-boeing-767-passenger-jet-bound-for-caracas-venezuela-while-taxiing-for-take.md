@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2015/10/29/an-engine-burst-into-flames-on-a-dynamic-international-airways-boeing-767-passenger-jet-bound-for-caracas-venezuela-while-taxiing-for-take.html)  [JSON](/news/2015/10/29/an-engine-burst-into-flames-on-a-dynamic-international-airways-boeing-767-passenger-jet-bound-for-caracas-venezuela-while-taxiing-for-take.json)  [XML](/news/2015/10/29/an-engine-burst-into-flames-on-a-dynamic-international-airways-boeing-767-passenger-jet-bound-for-caracas-venezuela-while-taxiing-for-take.xml)  
+
 ### [2015-10-29](/news/2015/10/29/index.md)
 
+##### An engine burst into flames
 # An engine burst into flames on a Dynamic International Airways Boeing 767 passenger jet bound for Caracas, Venezuela, while taxiing for takeoff at Fort Lauderdale-Hollywood International Airport (Florida, U.S.). A Broward Sheriff Fire Rescue spokesman said 15 people were taken to the hospital after the fire. There were 110 people, including crew, on board. 
 
 An engine on a passenger jet bound for Caracas, Venezuela, burst into flames while taxiing for takeoff at a Florida airport on Thursday, forcing frightened passengers to exit the plane using inflatable emergency slides.
 
 
-### Source:
+### Sources:
 
 1. [AP via Lompoc Record](http://lompocrecord.com/news/national/the-latest-injured-in-florida-plane-fire-burned/article_baf86de2-1c00-5e00-b253-ee5557fae25b.html)
-2. [Reuters](http://www.reuters.com/article/2015/10/29/us-florida-dynamic-idUSKCN0SN2CJ20151029)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151029&t=2&i=1090795207&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9S16B)
+2. [Reuters](https://www.reuters.com/article/2015/10/29/us-florida-dynamic-idUSKCN0SN2CJ20151029)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20151029&t=2&i=1090795207&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9S16B)
 
 ### Related:
 

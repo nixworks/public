@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/14/virgin-blue-fights-for-approval-of-its-transtasman-alliance-with-air-new-zealand.html)  [JSON](/news/2010/09/14/virgin-blue-fights-for-approval-of-its-transtasman-alliance-with-air-new-zealand.json)  [XML](/news/2010/09/14/virgin-blue-fights-for-approval-of-its-transtasman-alliance-with-air-new-zealand.xml)  
+
 ### [2010-09-14](/news/2010/09/14/index.md)
 
+##### Virgin Blue
 # Virgin Blue fights for approval of its transtasman alliance with Air New Zealand. 
 
 Virgin Blue will keep fighting for approval of its transtasman alliance with Air New Zealand despite a knock-back from regulators, according to chief executive John Borghetti. - New Zealand Herald
 
 
-### Source:
+### Sources:
 
 1. [Nzherald](http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=10673493)
 1. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)

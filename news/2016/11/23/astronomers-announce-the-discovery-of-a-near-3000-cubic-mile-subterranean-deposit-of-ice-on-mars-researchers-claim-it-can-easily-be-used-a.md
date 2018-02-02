@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/23/astronomers-announce-the-discovery-of-a-near-30
 
 ### [2016-11-23](/news/2016/11/23/index.md)
 
+##### 
 #  Astronomers announce the discovery of a near 3000 cubic mile subterranean deposit of ice on Mars. Researchers claim it can easily be used as a sustainable resource for a manned mission to the red planet. 
 
 

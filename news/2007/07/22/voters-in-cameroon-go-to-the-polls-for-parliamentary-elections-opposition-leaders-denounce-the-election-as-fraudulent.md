@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/22/voters-in-cameroon-go-to-the-polls-for-parliamentary-elections-opposition-leaders-denounce-the-election-as-fraudulent.html)  [JSON](/news/2007/07/22/voters-in-cameroon-go-to-the-polls-for-parliamentary-elections-opposition-leaders-denounce-the-election-as-fraudulent.json)  [XML](/news/2007/07/22/voters-in-cameroon-go-to-the-polls-for-parliamentary-elections-opposition-leaders-denounce-the-election-as-fraudulent.xml)  
+
 ### [2007-07-22](/news/2007/07/22/index.md)
 
+##### Cameroon
 #  Voters in Cameroon go to the polls for parliamentary elections. Opposition leaders denounce the election as fraudulent. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6911217.stm)
 

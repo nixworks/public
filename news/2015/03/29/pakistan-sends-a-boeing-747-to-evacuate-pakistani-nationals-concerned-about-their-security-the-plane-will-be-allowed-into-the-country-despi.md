@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/03/29/pakistan-sends-a-boeing-747-to-evacuate-pakistani-nationals-concerned-about-their-security-the-plane-will-be-allowed-into-the-country-despi.html)  [JSON](/news/2015/03/29/pakistan-sends-a-boeing-747-to-evacuate-pakistani-nationals-concerned-about-their-security-the-plane-will-be-allowed-into-the-country-despi.json)  [XML](/news/2015/03/29/pakistan-sends-a-boeing-747-to-evacuate-pakistani-nationals-concerned-about-their-security-the-plane-will-be-allowed-into-the-country-despi.xml)  
+
 ### [2015-03-29](/news/2015/03/29/index.md)
 
+##### attacks
 # Pakistan sends a Boeing 747 to evacuate Pakistani nationals concerned about their security. The plane will be allowed into the country despite the no-fly zone declared by Saudi Arabia. 
 
 Pakistan, which has yet to decide whether to offer military support to a Saudi-led campaign in Yemen, is flying jumbo jets to the Middle Eastern country to evacuate hundreds of nationals, a Defence Ministry official said on Sunday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/03/29/us-yemen-security-pakistan-idUSKBN0MP03J20150329)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/03/29/us-yemen-security-pakistan-idUSKBN0MP03J20150329)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [2015 military intervention in Yemen: Pakistan sends a Boeing 747 to evacuate Pakistani nationals concerned about their security. The plane will be allowed into the country despite the no-fly zone declared by Saudi Arabia. ](/news/2015/03/29/2015-military-intervention-in-yemen-pakistan-sends-a-boeing-747-to-evacuate-pakistani-nationals-concerned-about-their-security-the-plane-w.md) _2017-08-27 03:42:08 (First version)_
+1. [Pakistan sends a Boeing 747 to evacuate Pakistani nationals concerned about their security. The plane will be allowed into the country despite the no-fly zone declared by Saudi Arabia. ](/news/2015/03/29/pakistan-sends-a-boeing-747-to-evacuate-pakistani-nationals-concerned-about-their-security-the-plane-will-be-allowed-into-the-country-despi.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Pakistan, which has yet to decide whether to offer military support to a Saudi-l
 3. [Pakistan says it was surprised to learn of the country's inclusion in Saudi Arabia's so-called "Islamic anti-terrorist alliance", and that Pakistan was not consulted before inclusion in the alliance by the Saudis. Pakistan's Foreign Secretary Aizaz Ahmad Chaudhry says he has asked the country's ambassador in Riyadh to get a clarification from Saudi Arabia on the matter. Malaysia has also denied any involvement in Saudi Arabia's military coalition to counter terrorism. ](/news/2015/12/16/pakistan-says-it-was-surprised-to-learn-of-the-country-s-inclusion-in-saudi-arabia-s-so-called-islamic-anti-terrorist-alliance-and-that-p.md) _Context: Pakistan, Saudi Arabia_
 4. [Saudi Arabia announces the formation of a 34-member Islamic Military Alliance against terrorism including Egypt, Qatar, the United Arab Emirates, Turkey, Malaysia and Pakistan with a joint operations centre based in Riyadh. ](/news/2015/12/15/saudi-arabia-announces-the-formation-of-a-34-member-islamic-military-alliance-against-terrorism-including-egypt-qatar-the-united-arab-emir.md) _Context: Pakistan, Saudi Arabia_
 5. [Russia convenes a UNSC session to discuss Saudi Arabian attacks in Yemen after Royal Saudi Air Force bombed a refugee camp, killing dozens. ](/news/2015/04/4/russia-convenes-a-unsc-session-to-discuss-saudi-arabian-attacks-in-yemen-after-royal-saudi-air-force-bombed-a-refugee-camp-killing-dozens.md) _Context: Saudi Arabia, attacks_
-
-### Changes:
-
-1. [2015 military intervention in Yemen: Pakistan sends a Boeing 747 to evacuate Pakistani nationals concerned about their security. The plane will be allowed into the country despite the no-fly zone declared by Saudi Arabia. ](/news/2015/03/29/2015-military-intervention-in-yemen-pakistan-sends-a-boeing-747-to-evacuate-pakistani-nationals-concerned-about-their-security-the-plane-w.md) _2017-08-27 03:42:08 (First version)_
-1. [Pakistan sends a Boeing 747 to evacuate Pakistani nationals concerned about their security. The plane will be allowed into the country despite the no-fly zone declared by Saudi Arabia. ](/news/2015/03/29/pakistan-sends-a-boeing-747-to-evacuate-pakistani-nationals-concerned-about-their-security-the-plane-will-be-allowed-into-the-country-despi.md) _(Current version)_

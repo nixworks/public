@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/16/the-chinese-academy-of-social-sciences-says-social-discontent-among-the-population-has-increased.html)  [JSON](/news/2010/12/16/the-chinese-academy-of-social-sciences-says-social-discontent-among-the-population-has-increased.json)  [XML](/news/2010/12/16/the-chinese-academy-of-social-sciences-says-social-discontent-among-the-population-has-increased.xml)  
+
 ### [2010-12-16](/news/2010/12/16/index.md)
 
+##### Chinese Academy of Social Sciences
 # The Chinese Academy of Social Sciences says social discontent among the population has increased. 
 
 Social discontent in China has risen this year, according to a top Chinese think tank, with people worried about inflation and their personal futures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12002253)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-12/16/content_11714478.htm)

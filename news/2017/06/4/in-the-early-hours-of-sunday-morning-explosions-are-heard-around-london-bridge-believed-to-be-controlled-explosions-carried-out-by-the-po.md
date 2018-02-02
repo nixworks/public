@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/4/in-the-early-hours-of-sunday-morning-explosions-
 
 ### [2017-06-4](/news/2017/06/4/index.md)
 
+##### June 2017 London attack
 #  In the early hours of Sunday morning, explosions are heard around London Bridge, believed to be controlled explosions carried out by the police. 
 
 Three attackers killed seven people and injured 48 others near London Bridge. The attackers were shot dead by eight officers who used 50 bullets; a member of the public was accidentally shot.

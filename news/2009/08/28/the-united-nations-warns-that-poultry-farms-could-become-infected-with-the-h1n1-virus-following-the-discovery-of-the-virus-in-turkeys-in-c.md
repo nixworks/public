@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2009/08/28/the-united-nations-warns-that-poultry-farms-could-become-infected-with-the-h1n1-virus-following-the-discovery-of-the-virus-in-turkeys-in-c.html)  [JSON](/news/2009/08/28/the-united-nations-warns-that-poultry-farms-could-become-infected-with-the-h1n1-virus-following-the-discovery-of-the-virus-in-turkeys-in-c.json)  [XML](/news/2009/08/28/the-united-nations-warns-that-poultry-farms-could-become-infected-with-the-h1n1-virus-following-the-discovery-of-the-virus-in-turkeys-in-c.xml)  
+
 ### [2009-08-28](/news/2009/08/28/index.md)
 
+##### United Nations
 #  The United Nations warns that poultry farms could become infected with the H1N1 virus, following the discovery of the virus in turkeys in Chile last week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/8224923.stm)
 
 ### Related:
 
-1. [Russian president Vladimir Putin says a ceasefire has been brokered between the Syrian government and rebel forces. The ceasefire is said to be guaranteed by Russia and Turkey and would exclude UN-denominated terror organizations such as ISIL and al-Nusra. The FSA says it would abide by the truce, while Ahrar al-Sham expresses "reservations". ](/news/2016/12/29/russian-president-vladimir-putin-says-a-ceasefire-has-been-brokered-between-the-syrian-government-and-rebel-forces-the-ceasefire-is-said-to.md) _Context: Turkey, United Nations_
-2. [The first-ever United Nations humanitarian summit opens in Istanbul, Turkey, to address the 125-million people crisis, the worst since World War II. ](/news/2016/05/23/the-first-ever-united-nations-humanitarian-summit-opens-in-istanbul-turkey-to-address-the-125-million-people-crisis-the-worst-since-world.md) _Context: Turkey, United Nations_
-3. [Turkey refuses to withdraw its forces from northern Iraq despite being given a 48 hour ultimatum by Iraq to leave the country. Turkey says the troops are there as part of an international mission to train and equip Iraqi forces to fight against the Islamic State. The Iraqi government says it never invited such a force, and will take its case to the United Nations if they are not pulled out. ](/news/2015/12/7/turkey-refuses-to-withdraw-its-forces-from-northern-iraq-despite-being-given-a-48-hour-ultimatum-by-iraq-to-leave-the-country-turkey-says-t.md) _Context: Turkey, United Nations_
-4. [U.S. Secretary of State John Kerry meets in Vienna, Austria, with the foreign ministers of Turkey and Saudi Arabia, as well as the U.N. special envoy for Syria, ahead of Saturday's next round of international summits on the Syrian Civil War. The talks, aimed toward a cease-fire in Syria's devastating war and a political transition to a post-war government, will include senior officials from 19 nations-groups and, as in October, Iran will participate. ](/news/2015/11/13/u-s-secretary-of-state-john-kerry-meets-in-vienna-austria-with-the-foreign-ministers-of-turkey-and-saudi-arabia-as-well-as-the-u-n-spec.md) _Context: Turkey, United Nations_
-5. [Iran is invited to attend the next round of talks over Syria's future, along with the representatives from the United States, Russia, Saudi Arabia, Turkey, Britain, France, Germany, Jordan, the United Arab Emirates, and the United Nations mediator for Syria, Staffan de Mistura. The next round of the "Vienna II" meeting is expected to start tomorrow and continue Friday in Vienna, Austria. ](/news/2015/10/27/iran-is-invited-to-attend-the-next-round-of-talks-over-syria-s-future-along-with-the-representatives-from-the-united-states-russia-saudi.md) _Context: Turkey, United Nations_
+1. [Chile's Supreme Court convicts two retired generals of illegal weapons sales to Croatia in 1991 in violation of a United Nations arms embargo. ](/news/2012/01/20/chile-s-supreme-court-convicts-two-retired-generals-of-illegal-weapons-sales-to-croatia-in-1991-in-violation-of-a-united-nations-arms-embarg.md) _Context: Chile, United Nations_
+2. [United Nations scientists claim to have eliminated rinderpest virus making it the second virus to have been wiped out by humans if confirmed. ](/news/2010/10/14/united-nations-scientists-claim-to-have-eliminated-rinderpest-virus-making-it-the-second-virus-to-have-been-wiped-out-by-humans-if-confirmed.md) _Context: United Nations, virus_
+3. [ Two turkey farms in Valparaiso, Chile, are quarantined over fears the birds have caught swine influenza from humans. ](/news/2009/08/22/two-turkey-farms-in-valparaaso-chile-are-quarantined-over-fears-the-birds-have-caught-swine-influenza-from-humans.md) _Context: Chile, turkey_
+4. [ In a conference organized by the UN Food and Agriculture Organization, officials urge changes to be made in how poultry are raised in Southeast Asia to prevent a bird flu pandemic. ](/news/2005/02/26/in-a-conference-organized-by-the-un-food-and-agriculture-organization-officials-urge-changes-to-be-made-in-how-poultry-are-raised-in-south.md) _Context: United Nations, poultry_
+5. [The 11 remaining countries aiming to create the Trans-Pacific Partnership after the Unites States' withdrawal announce that they will sign an agreement in Chile this March. ](/news/2018/01/23/the-11-remaining-countries-aiming-to-create-the-trans-pacific-partnership-after-the-unites-states-withdrawal-announce-that-they-will-sign-a.md) _Context: Chile_

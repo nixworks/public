@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/15/8-european-banks-fail-stress-tests-that-could-leave-them-open-to-another-financial-crisis-while-another-16-are-in-a-danger-zone.html)  [JSON](/news/2011/07/15/8-european-banks-fail-stress-tests-that-could-leave-them-open-to-another-financial-crisis-while-another-16-are-in-a-danger-zone.json)  [XML](/news/2011/07/15/8-european-banks-fail-stress-tests-that-could-leave-them-open-to-another-financial-crisis-while-another-16-are-in-a-danger-zone.xml)  
+
 ### [2011-07-15](/news/2011/07/15/index.md)
 
+##### stress test
 # 8 European banks fail stress tests that could leave them open to another financial crisis, while another 16 are in a "danger zone". 
 
 Eight out of 90 European banks fail stress tests designed to ensure they can withstand another financial crisis.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-14169940)
 2. [RTÉ](http://www.rte.ie/news/2011/0715/banks.html)

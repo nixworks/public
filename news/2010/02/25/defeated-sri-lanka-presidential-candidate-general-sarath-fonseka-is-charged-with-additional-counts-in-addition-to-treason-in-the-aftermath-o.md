@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/25/defeated-sri-lanka-presidential-candidate-general-sarath-fonseka-is-charged-with-additional-counts-in-addition-to-treason-in-the-aftermath-o.html)  [JSON](/news/2010/02/25/defeated-sri-lanka-presidential-candidate-general-sarath-fonseka-is-charged-with-additional-counts-in-addition-to-treason-in-the-aftermath-o.json)  [XML](/news/2010/02/25/defeated-sri-lanka-presidential-candidate-general-sarath-fonseka-is-charged-with-additional-counts-in-addition-to-treason-in-the-aftermath-o.xml)  
+
 ### [2010-02-25](/news/2010/02/25/index.md)
 
+##### Sri Lanka
 # Defeated Sri Lanka presidential candidate General Sarath Fonseka is charged with additional counts in addition to treason in the aftermath of his failed election bid. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://beta.thehindu.com/news/international/article113655.ece)
 

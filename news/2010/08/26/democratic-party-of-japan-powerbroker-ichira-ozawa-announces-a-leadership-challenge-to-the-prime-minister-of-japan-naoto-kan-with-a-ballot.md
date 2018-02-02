@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/26/democratic-party-of-japan-powerbroker-ichira-ozawa-announces-a-leadership-challenge-to-the-prime-minister-of-japan-naoto-kan-with-a-ballot.html)  [JSON](/news/2010/08/26/democratic-party-of-japan-powerbroker-ichira-ozawa-announces-a-leadership-challenge-to-the-prime-minister-of-japan-naoto-kan-with-a-ballot.json)  [XML](/news/2010/08/26/democratic-party-of-japan-powerbroker-ichira-ozawa-announces-a-leadership-challenge-to-the-prime-minister-of-japan-naoto-kan-with-a-ballot.xml)  
+
 ### [2010-08-26](/news/2010/08/26/index.md)
 
+##### Democratic Party
 # Democratic Party of Japan powerbroker Ichiro Ozawa announces a leadership challenge to the Prime Minister of Japan Naoto Kan with a ballot to be held on September 14. 
 
 REUTERS - Japanese ruling Democratic Party powerbroker Ichiro Ozawa, dubbed the &quot;shadow shogun&quot;, could shake up the political scene again when he runs ag
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/idINIndia-51072520100826)
 1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100826&t=2&i=189420509&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2010-08-26T111523Z_01_NOOTR_RTRMDNC_0_India-510725-1)

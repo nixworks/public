@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/19/a-bus-crash-in-the-indian-state-of-maharashtra-kills-at-least-37-people-and-injures-14-others.html)  [JSON](/news/2013/03/19/a-bus-crash-in-the-indian-state-of-maharashtra-kills-at-least-37-people-and-injures-14-others.json)  [XML](/news/2013/03/19/a-bus-crash-in-the-indian-state-of-maharashtra-kills-at-least-37-people-and-injures-14-others.xml)  
+
 ### [2013-03-19](/news/2013/03/19/index.md)
 
+##### bus
 # A bus crash in the Indian state of Maharashtra kills at least 37 people and injures 14 others. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''Herald Sun](http://www.heraldsun.com.au/news/breaking-news/bus-crash-in-western-india-kills-32/story-e6frf7k6-1226600745009)
 

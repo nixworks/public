@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/19/a-bomb-squad-robot-detonates-an-explosive-devic
 
 ### [2016-09-19](/news/2016/09/19/index.md)
 
+##### 2016 New York and New Jersey bombings
 # A bomb squad robot detonates an explosive device at a transit station in Elizabeth, New Jersey. There has been a previous explosion in Seaside Park. No one is hurt. 
 
 Rahami has been charged with five counts of attempted murder of a law enforcement officer, according to the Union County, N.J., prosecutor.

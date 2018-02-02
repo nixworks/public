@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/11/18/the-european-parliament-approves-the-new-make-up-of-the-european-commission-headed-by-josa-c-manuel-barroso.html)  [JSON](/news/2004/11/18/the-european-parliament-approves-the-new-make-up-of-the-european-commission-headed-by-josa-c-manuel-barroso.json)  [XML](/news/2004/11/18/the-european-parliament-approves-the-new-make-up-of-the-european-commission-headed-by-josa-c-manuel-barroso.xml)  
+
 ### [2004-11-18](/news/2004/11/18/index.md)
 
+##### European Parliament
 #  The European Parliament approves the new make-up of the European Commission, headed by Jose Manuel Barroso. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=ajQSXUBXhJnM&refer=europe)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000085&sid=ajQSXUBXhJnM&refer=europe)
 2. [Xinhua](http://news.xinhuanet.com/english/2004-11/18/content_2234653.htm)
 
 ### Related:

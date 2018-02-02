@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/5/honduran-interim-president-roberto-micheletti-lifts-a-decree-restricting-civil-liberties.html)  [JSON](/news/2009/10/5/honduran-interim-president-roberto-micheletti-lifts-a-decree-restricting-civil-liberties.json)  [XML](/news/2009/10/5/honduran-interim-president-roberto-micheletti-lifts-a-decree-restricting-civil-liberties.xml)  
+
 ### [2009-10-5](/news/2009/10/5/index.md)
 
+##### Honduras
 #  Honduran interim President Roberto Micheletti lifts a decree restricting civil liberties. 
 
 Roberto Micheletti cancels decree limiting freedom of speech, assembly and movement.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2009/10/200910517155738223.html)
 2. [CBC](http://www.cbc.ca/world/story/2009/10/05/honduras-decree-rights-constitution-suspension.html)

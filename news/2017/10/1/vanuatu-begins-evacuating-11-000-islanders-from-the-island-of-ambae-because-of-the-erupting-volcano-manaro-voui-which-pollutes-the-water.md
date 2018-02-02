@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/1/vanuatu-begins-evacuating-11-000-islanders-from-
 
 ### [2017-10-1](/news/2017/10/1/index.md)
 
+##### Vanuatu
 # Vanuatu begins evacuating 11,000 islanders from the island of Ambae because of the erupting volcano Manaro Voui which pollutes the water. 
 
 Vanuatu has launched a Dunkirk-style evacuation on the northern island of Ambae as a flotilla of boats rescues islanders from an erupting volcano.

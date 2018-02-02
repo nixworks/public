@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/17/ten-people-have-died-five-are-injured-and-four-
 
 ### [2017-04-17](/news/2017/04/17/index.md)
 
+##### China
 # Ten people have died, five are injured and four missing after a bus plunges into a river in China's Guizhou province. 
 
 

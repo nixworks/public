@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/7/scientists-in-the-south-island-new-zealand-discover-the-first-dinosaur-footprints-in-the-country-thought-to-be-70-million-years-old.html)  [JSON](/news/2009/11/7/scientists-in-the-south-island-new-zealand-discover-the-first-dinosaur-footprints-in-the-country-thought-to-be-70-million-years-old.json)  [XML](/news/2009/11/7/scientists-in-the-south-island-new-zealand-discover-the-first-dinosaur-footprints-in-the-country-thought-to-be-70-million-years-old.xml)  
+
 ### [2009-11-7](/news/2009/11/7/index.md)
 
+##### South Island
 #  Scientists in the South Island, New Zealand, discover the first dinosaur footprints in the country, thought to be 70 million years old. 
 
 Dinosaur footprints found in northwest Nelson have given scientists their first proof the beasts roamed the South Island more than 70 million years ago. - New Zealand Herald
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jyAXldEtqu4qPRPKvopaFTwWiMXg)
 2. [New Zealand Herald](http://www.nzherald.co.nz/science/news/article.cfm?c_id=82&objectid=10607988)

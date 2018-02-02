@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/4/a-mosque-bombing-in-northern-syria-kills-15-members-of-al-qaida-s-affiliate-nusra-front.html)  [JSON](/news/2015/07/4/a-mosque-bombing-in-northern-syria-kills-15-members-of-al-qaida-s-affiliate-nusra-front.json)  [XML](/news/2015/07/4/a-mosque-bombing-in-northern-syria-kills-15-members-of-al-qaida-s-affiliate-nusra-front.xml)  
+
 ### [2015-07-4](/news/2015/07/4/index.md)
 
+##### Syrian Civil War
 #  A mosque bombing in northern Syria kills 15 members of Al Qaida's affiliate Nusra Front. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ALJazeera](http://www.aljazeera.com/news/2015/07/kurdish-fighters-advance-isil-held-raqqa-150704053125806.html)
 2. [Al-Arabiyah](http://english.alarabiya.net/en/News/middle-east/2015/07/04/Syrian-army-and-Hezbollah-launch-major-assault-on-border-city-.html)
@@ -13,15 +17,15 @@
 4. [Fox News via Associated Press](http://www.foxnews.com/world/2015/07/04/mosque-bombing-in-northern-syria-kills-15-members-al-qaida-affiliate/)
 4. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/7/4/5006b7e7dc50424182bc0942e1458765_18.jpg)
 
-### Related:
-
-1. [New Syrian Forces trade American supplied equipment to the Al Qaeda-linked Nusra Front in return for safe passage. ](/news/2015/09/25/new-syrian-forces-trade-american-supplied-equipment-to-the-al-qaeda-linked-nusra-front-in-return-for-safe-passage.md) _Context: Nusra Front, Syrian Civil War_
-2. [According to the Syrian Observatory for Human Rights, Russian airstrikes kill at least 14 civilians, including three children, as they cross the Euphrates river near the ISIL-held city of Mayadin in eastern Syria while fleeing the village of Mahkan. ](/news/2017/10/6/according-to-the-syrian-observatory-for-human-rights-russian-airstrikes-kill-at-least-14-civilians-including-three-children-as-they-cross.md) _Context: Syrian Civil War_
-3. [King Salman of Saudi Arabia visits Russian President Vladimir Putin in the Moscow Kremlin. They discuss oil prices and the Syrian Civil War. ](/news/2017/10/5/king-salman-of-saudi-arabia-visits-russian-president-vladimir-putin-in-the-moscow-kremlin-they-discuss-oil-prices-and-the-syrian-civil-war.md) _Context: Syrian Civil War_
-4. [Suspected Russian military jets target makeshift rubber dinghies and boats carrying dozens of families fleeing the town of al-Ashara along the western banks of the Euphrates that lies south of Deir Ezzor city, killing at least 60 civilians. ](/news/2017/10/4/suspected-russian-military-jets-target-makeshift-rubber-dinghies-and-boats-carrying-dozens-of-families-fleeing-the-town-of-al-ashara-along-t.md) _Context: Syrian Civil War_
-5. [ISIL releases video footage of two alleged Russian soldiers it captured. However, Russia denies the claims. ](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-russia-denies-the-claims.md) _Context: Syrian Civil War_
-
 ### Changes:
 
 1. [ Syrian Civil War: A mosque bombing in northern Syria kills 15 members of Al Qaida's affiliate Nusra Front. ](/news/2015/07/4/syrian-civil-war-a-mosque-bombing-in-northern-syria-kills-15-members-of-al-qaida-s-affiliate-nusra-front.md) _2017-08-27 03:42:39 (First version)_
 1. [ A mosque bombing in northern Syria kills 15 members of Al Qaida's affiliate Nusra Front. ](/news/2015/07/4/a-mosque-bombing-in-northern-syria-kills-15-members-of-al-qaida-s-affiliate-nusra-front.md) _(Current version)_
+
+### Related:
+
+1. [New Syrian Forces trade American supplied equipment to the Al Qaeda-linked Nusra Front in return for safe passage. ](/news/2015/09/25/new-syrian-forces-trade-american-supplied-equipment-to-the-al-qaeda-linked-nusra-front-in-return-for-safe-passage.md) _Context: Nusra Front, Syrian Civil War_
+2. [An explosion at the headquarters of the Chechen-led Ajnad al-Kavkaz rebel group in Idlib, Syria, kills at least 23 people, while several people remain unaccounted for, according to the Syrian Observatory for Human Rights. ](/news/2018/01/7/an-explosion-at-the-headquarters-of-the-chechen-led-ajnad-al-kavkaz-rebel-group-in-idlib-syria-kills-at-least-23-people-while-several-peo.md) _Context: Syrian Civil War_
+3. [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md) _Context: Syrian Civil War_
+4. [The Syrian Army seizes control of the strategic Abu al-Duhur Military Airbase in Idlib Governorate. ](/news/2018/01/20/the-syrian-army-seizes-control-of-the-strategic-abu-al-duhur-military-airbase-in-idlib-governorate.md) _Context: Syrian Civil War_
+5. [Turkey threatens to "strangle" the United States-backed Syrian Border Security Force "before it's even born", while Syria vows to crush it and expel American military personnel from the country. Russia called the plans "a plot to dismember Syria". ](/news/2018/01/15/turkey-threatens-to-strangle-the-united-states-backed-syrian-border-security-force-before-it-s-even-born-while-syria-vows-to-crush-it-a.md) _Context: Syrian Civil War_

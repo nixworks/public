@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/18/president-of-iran-mahmoud-ahmadinejad-says-iran-wants-peace-progress-and-security-for-all-asks-supporters-and-creators-of-the-israelia.html)  [JSON](/news/2010/04/18/president-of-iran-mahmoud-ahmadinejad-says-iran-wants-peace-progress-and-security-for-all-asks-supporters-and-creators-of-the-israelia.json)  [XML](/news/2010/04/18/president-of-iran-mahmoud-ahmadinejad-says-iran-wants-peace-progress-and-security-for-all-asks-supporters-and-creators-of-the-israelia.xml)  
+
 ### [2010-04-18](/news/2010/04/18/index.md)
 
+##### President
 # President of Iran Mahmoud Ahmadinejad says Iran wants "peace, progress and security for all", asks "supporters and creators" of the Israeli-Palestinian conflict to "allow the regional nations and the Palestinians to settle things" themselves and calls on "alien troops" to leave the region. 
 
 Ahmadinejad says US troops in the region and Afghanistan are stoking more insecurity.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/04/201041854124873989.html)
 2. [CBS News](http://www.cbsnews.com/8301-504365_162-20002769-504365.html)

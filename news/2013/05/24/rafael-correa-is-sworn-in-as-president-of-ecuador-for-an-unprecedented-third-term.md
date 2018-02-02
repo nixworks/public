@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/24/rafael-correa-is-sworn-in-as-president-of-ecuador-for-an-unprecedented-third-term.html)  [JSON](/news/2013/05/24/rafael-correa-is-sworn-in-as-president-of-ecuador-for-an-unprecedented-third-term.json)  [XML](/news/2013/05/24/rafael-correa-is-sworn-in-as-president-of-ecuador-for-an-unprecedented-third-term.xml)  
+
 ### [2013-05-24](/news/2013/05/24/index.md)
 
+##### Rafael Correa
 # Rafael Correa is sworn in as President of Ecuador for an unprecedented third term. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-22662200)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/67806000/jpg/_67806147_67806146.jpg)

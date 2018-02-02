@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/29/after-25-years-on-the-air-the-american-tv-show-america-s-most-wanted-is-cancelled.html)  [JSON](/news/2013/03/29/after-25-years-on-the-air-the-american-tv-show-america-s-most-wanted-is-cancelled.json)  [XML](/news/2013/03/29/after-25-years-on-the-air-the-american-tv-show-america-s-most-wanted-is-cancelled.xml)  
+
 ### [2013-03-29](/news/2013/03/29/index.md)
 
+##### TV show
 # After 25 years on the air, the American TV show "America's Most Wanted" is cancelled. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/8301-207_162-57577032/lifetime-cancels-americas-most-wanted/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2011/05/17/17c8a6dc-a738-11e2-a3f0-029118418759/467694.jpg)

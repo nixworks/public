@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/30/nine-palestinians-including-civilians-are-killed-in-an-israeli-army-incursion-into-the-khan-younis-refugee-camp-in-the-gaza-strip-during.html)  [JSON](/news/2004/12/30/nine-palestinians-including-civilians-are-killed-in-an-israeli-army-incursion-into-the-khan-younis-refugee-camp-in-the-gaza-strip-during.json)  [XML](/news/2004/12/30/nine-palestinians-including-civilians-are-killed-in-an-israeli-army-incursion-into-the-khan-younis-refugee-camp-in-the-gaza-strip-during.xml)  
+
 ### [2004-12-30](/news/2004/12/30/index.md)
 
+##### Palestinians
 #  Nine Palestinians, including civilians, are killed in an Israeli army incursion into the Khan Younis refugee camp in the Gaza Strip. During the raid the local Hamas commander is killed and two Israeli soldiers are slightly wounded. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4133833.stm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4134419.stm)

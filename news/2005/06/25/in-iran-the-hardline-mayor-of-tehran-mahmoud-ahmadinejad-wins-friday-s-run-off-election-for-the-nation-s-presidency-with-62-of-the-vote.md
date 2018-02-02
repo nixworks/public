@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/06/25/in-iran-the-hardline-mayor-of-tehran-mahmoud-ahmadinejad-wins-friday-s-run-off-election-for-the-nation-s-presidency-with-62-of-the-vote.html)  [JSON](/news/2005/06/25/in-iran-the-hardline-mayor-of-tehran-mahmoud-ahmadinejad-wins-friday-s-run-off-election-for-the-nation-s-presidency-with-62-of-the-vote.json)  [XML](/news/2005/06/25/in-iran-the-hardline-mayor-of-tehran-mahmoud-ahmadinejad-wins-friday-s-run-off-election-for-the-nation-s-presidency-with-62-of-the-vote.xml)  
+
 ### [2005-06-25](/news/2005/06/25/index.md)
 
+##### Iran
 #  In Iran, the hardline Mayor of Tehran, Mahmoud Ahmadinejad, wins Friday's run-off election for the nation's presidency with 62% of the vote. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4621249.stm)
-2. [Bloomberg News](http://www.bloomberg.com/apps/news?pid=10000087&sid=ad7YyC5iMZuk&refer=top_world_news)
+2. [Bloomberg News](https://www.bloomberg.com/apps/news?pid=10000087&sid=ad7YyC5iMZuk&refer=top_world_news)
 
 ### Related:
 

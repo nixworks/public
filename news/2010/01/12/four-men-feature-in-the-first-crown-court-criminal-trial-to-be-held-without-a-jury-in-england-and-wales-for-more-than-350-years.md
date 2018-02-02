@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/12/four-men-feature-in-the-first-crown-court-criminal-trial-to-be-held-without-a-jury-in-england-and-wales-for-more-than-350-years.html)  [JSON](/news/2010/01/12/four-men-feature-in-the-first-crown-court-criminal-trial-to-be-held-without-a-jury-in-england-and-wales-for-more-than-350-years.json)  [XML](/news/2010/01/12/four-men-feature-in-the-first-crown-court-criminal-trial-to-be-held-without-a-jury-in-england-and-wales-for-more-than-350-years.xml)  
+
 ### [2010-01-12](/news/2010/01/12/index.md)
 
+##### Crown Court
 # Four men feature in the first Crown Court criminal trial to be held without a jury in England and Wales for more than 350 years. 
 
 Four men alleged to have carried out an armed robbery at Heathrow went on trial on Tuesday in an unprecedented case being heard without a jury
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/london/8453318.stm)
 2. [Ealing Times](http://www.ealingtimes.co.uk/uk_national_news/4846820.Four_men_face_trial_without_jury/)

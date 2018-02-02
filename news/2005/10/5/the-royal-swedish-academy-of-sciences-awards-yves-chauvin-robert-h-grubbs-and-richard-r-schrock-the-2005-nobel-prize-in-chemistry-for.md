@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/5/the-royal-swedish-academy-of-sciences-awards-yves-chauvin-robert-h-grubbs-and-richard-r-schrock-the-2005-nobel-prize-in-chemistry-for.html)  [JSON](/news/2005/10/5/the-royal-swedish-academy-of-sciences-awards-yves-chauvin-robert-h-grubbs-and-richard-r-schrock-the-2005-nobel-prize-in-chemistry-for.json)  [XML](/news/2005/10/5/the-royal-swedish-academy-of-sciences-awards-yves-chauvin-robert-h-grubbs-and-richard-r-schrock-the-2005-nobel-prize-in-chemistry-for.xml)  
+
 ### [2005-10-5](/news/2005/10/5/index.md)
 
+##### Royal Swedish Academy of Sciences
 #  The Royal Swedish Academy of Sciences awards Yves Chauvin, Robert H. Grubbs, and Richard R. Schrock the 2005 Nobel Prize in Chemistry, "for the development of the metathesis method in organic synthesis". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Nobelprize.org](http://nobelprize.org/chemistry/laureates/2005/index.html)
 

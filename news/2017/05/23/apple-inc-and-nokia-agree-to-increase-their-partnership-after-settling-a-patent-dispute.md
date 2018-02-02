@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/23/apple-inc-and-nokia-agree-to-increase-their-par
 
 ### [2017-05-23](/news/2017/05/23/index.md)
 
+##### Apple Inc.
 # Apple Inc. and Nokia agree to increase their partnership after settling a patent dispute. 
 
 

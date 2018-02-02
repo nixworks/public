@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/31/china-launches-its-largest-crackdown-on-dissenters-in-years-according-to-activists-amid-unrest-in-the-middle-east.html)  [JSON](/news/2011/03/31/china-launches-its-largest-crackdown-on-dissenters-in-years-according-to-activists-amid-unrest-in-the-middle-east.json)  [XML](/news/2011/03/31/china-launches-its-largest-crackdown-on-dissenters-in-years-according-to-activists-amid-unrest-in-the-middle-east.xml)  
+
 ### [2011-03-31](/news/2011/03/31/index.md)
 
+##### China
 # China launches its largest crackdown on dissenters in years, according to activists, amid unrest in the Middle East. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gYzfMylJ0wWdB7wf-Uk5jXdKKHdQ?docId=CNG.dae2205a599c0050cf6097e517aac92f.781)
 2. [The Guardian](http://www.guardian.co.uk/world/2011/mar/31/china-crackdown-on-activists-arrests-disappearances)

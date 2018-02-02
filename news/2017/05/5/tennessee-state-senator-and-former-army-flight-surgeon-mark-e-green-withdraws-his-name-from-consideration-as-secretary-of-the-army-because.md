@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/5/tennessee-state-senator-and-former-army-flight-s
 
 ### [2017-05-5](/news/2017/05/5/index.md)
 
+##### Political appointments of Donald Trump
 # Tennessee state senator and former Army flight surgeon Mark E. Green withdraws his name from consideration as Secretary of the Army because of political opposition. Green was the Trump Administration's second nominee for this position. 
 
 

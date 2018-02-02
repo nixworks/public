@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/8/lawyers-for-convicted-murderer-and-crips-co-founder-stanley-tookie-williams-meet-with-governor-of-california-arnold-schwarzenegger-in-a-f.html)  [JSON](/news/2005/12/8/lawyers-for-convicted-murderer-and-crips-co-founder-stanley-tookie-williams-meet-with-governor-of-california-arnold-schwarzenegger-in-a-f.json)  [XML](/news/2005/12/8/lawyers-for-convicted-murderer-and-crips-co-founder-stanley-tookie-williams-meet-with-governor-of-california-arnold-schwarzenegger-in-a-f.xml)  
+
 ### [2005-12-8](/news/2005/12/8/index.md)
 
+##### Crips
 #  Lawyers for convicted murderer and Crips co-founder Stanley "Tookie" Williams meet with Governor of California Arnold Schwarzenegger in a final plea for clemency. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MTV](http://www.mtv.com/news/articles/1517768/20051208/index.jhtml?headlines=true)
 

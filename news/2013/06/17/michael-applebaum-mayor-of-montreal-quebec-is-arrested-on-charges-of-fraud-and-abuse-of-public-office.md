@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/17/michael-applebaum-mayor-of-montreal-quebec-is-arrested-on-charges-of-fraud-and-abuse-of-public-office.html)  [JSON](/news/2013/06/17/michael-applebaum-mayor-of-montreal-quebec-is-arrested-on-charges-of-fraud-and-abuse-of-public-office.json)  [XML](/news/2013/06/17/michael-applebaum-mayor-of-montreal-quebec-is-arrested-on-charges-of-fraud-and-abuse-of-public-office.xml)  
+
 ### [2013-06-17](/news/2013/06/17/index.md)
 
+##### Michael Applebaum
 # Michael Applebaum, mayor of Montreal, Quebec is arrested on charges of fraud and abuse of public office. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/mayor-montreal-arrested)
 

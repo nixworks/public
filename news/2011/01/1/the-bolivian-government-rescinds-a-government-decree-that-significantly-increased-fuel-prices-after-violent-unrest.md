@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/1/the-bolivian-government-rescinds-a-government-decree-that-significantly-increased-fuel-prices-after-violent-unrest.html)  [JSON](/news/2011/01/1/the-bolivian-government-rescinds-a-government-decree-that-significantly-increased-fuel-prices-after-violent-unrest.json)  [XML](/news/2011/01/1/the-bolivian-government-rescinds-a-government-decree-that-significantly-increased-fuel-prices-after-violent-unrest.xml)  
+
 ### [2011-01-1](/news/2011/01/1/index.md)
 
+##### Bolivia
 # The Bolivian government rescinds a government decree that significantly increased fuel prices after violent unrest. 
 
 After week of strikes and demonstrations, South American country cancels decree that saw fuel costs soar.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/01/2011116339693721.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/1/20111164547920797_20.jpg)

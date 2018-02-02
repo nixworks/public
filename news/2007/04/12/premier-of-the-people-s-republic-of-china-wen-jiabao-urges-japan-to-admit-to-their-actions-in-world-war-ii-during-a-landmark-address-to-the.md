@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/12/premier-of-the-people-s-republic-of-china-wen-jiabao-urges-japan-to-admit-to-their-actions-in-world-war-ii-during-a-landmark-address-to-the.html)  [JSON](/news/2007/04/12/premier-of-the-people-s-republic-of-china-wen-jiabao-urges-japan-to-admit-to-their-actions-in-world-war-ii-during-a-landmark-address-to-the.json)  [XML](/news/2007/04/12/premier-of-the-people-s-republic-of-china-wen-jiabao-urges-japan-to-admit-to-their-actions-in-world-war-ii-during-a-landmark-address-to-the.xml)  
+
 ### [2007-04-12](/news/2007/04/12/index.md)
 
+##### Premier of the People's Republic of China
 #  Premier of the People's Republic of China Wen Jiabao urges Japan to admit to their actions in World War II during a landmark address to the Diet of Japan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6547199.stm)
 

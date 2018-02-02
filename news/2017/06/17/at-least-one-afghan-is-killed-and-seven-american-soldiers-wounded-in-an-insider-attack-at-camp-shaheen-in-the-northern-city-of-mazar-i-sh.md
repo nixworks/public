@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/17/at-least-one-afghan-is-killed-and-seven-america
 
 ### [2017-06-17](/news/2017/06/17/index.md)
 
+##### War in Afghanistan
 # At least one Afghan is killed and seven American soldiers wounded in an "insider attack" at Camp Shaheen, in the northern city of Mazar-i-Sharif. An earlier report that Americans had been killed is incorrect. The Taliban claims responsibility. 
 
 I-SHARIF, Afghanistan (Reuters) - At least one Afghan was killed and seven American soldiers were wounded in an &quot;insider attack&quot; at a base in northern Afghanistan on Saturday, a U.S. military official said.

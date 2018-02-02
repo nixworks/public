@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/27/in-cote-d-ivoire-opposition-leader-alassane-ouattara-welcomes-president-laurent-gbagbo-s-decision-to-let-him-contest-elections-south-afri.html)  [JSON](/news/2005/04/27/in-cote-d-ivoire-opposition-leader-alassane-ouattara-welcomes-president-laurent-gbagbo-s-decision-to-let-him-contest-elections-south-afri.json)  [XML](/news/2005/04/27/in-cote-d-ivoire-opposition-leader-alassane-ouattara-welcomes-president-laurent-gbagbo-s-decision-to-let-him-contest-elections-south-afri.xml)  
+
 ### [2005-04-27](/news/2005/04/27/index.md)
 
+##### Cte d'Ivoire
 #  In Cte d'Ivoire, opposition leader Alassane Ouattara welcomes President Laurent Gbagbo's decision to let him contest elections. South African president Thabo Mbeki welcomes it as well. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4490269.stm)
 2. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/EVIU-6BUG9K?OpenDocument)

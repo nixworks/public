@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/18/four-people-are-killed-after-a-bomb-left-over-from-the-vietnam-war-explodes-as-they-try-to-remove-explosive-material-in-southern-tac-y-ninh.html)  [JSON](/news/2009/11/18/four-people-are-killed-after-a-bomb-left-over-from-the-vietnam-war-explodes-as-they-try-to-remove-explosive-material-in-southern-tac-y-ninh.json)  [XML](/news/2009/11/18/four-people-are-killed-after-a-bomb-left-over-from-the-vietnam-war-explodes-as-they-try-to-remove-explosive-material-in-southern-tac-y-ninh.xml)  
+
 ### [2009-11-18](/news/2009/11/18/index.md)
 
+##### Vietnam War
 #  Four people are killed after a bomb left over from the Vietnam War explodes as they try to remove explosive material in southern Tay Ninh Province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hFuvUQ9AfbZH9hOq1n4AHTVVjO0Q)
 

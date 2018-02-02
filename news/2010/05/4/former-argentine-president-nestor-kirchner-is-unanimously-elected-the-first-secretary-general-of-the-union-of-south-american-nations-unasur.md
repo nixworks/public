@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/05/4/former-argentine-president-nestor-kirchner-is-unanimously-elected-the-first-secretary-general-of-the-union-of-south-american-nations-unasur.html)  [JSON](/news/2010/05/4/former-argentine-president-nestor-kirchner-is-unanimously-elected-the-first-secretary-general-of-the-union-of-south-american-nations-unasur.json)  [XML](/news/2010/05/4/former-argentine-president-nestor-kirchner-is-unanimously-elected-the-first-secretary-general-of-the-union-of-south-american-nations-unasur.xml)  
+
 ### [2010-05-4](/news/2010/05/4/index.md)
 
+##### Argentine
 # Former Argentine President Nstor Kirchner is unanimously elected the first Secretary General of the Union of South American Nations (Unasur) at a heads of state summit held in Campana, Argentina. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC (Spain](http://www.abc.es/agencias/noticia.asp?noticia=369915)
 2. [Semana (Colombia](http://www.semana.com/noticias-america-latina/unasur-estrena-secretario-general-nestor-kirchner/138444.aspx)
 3. [Télam (Argentina](http://www.telam.com.ar/vernota.php?tipo=N&idPub=185629&id=354473&dis=1&sec=1)
-4. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/05/04/AR2010050402529.html)
+4. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/05/04/AR2010050402529.html)
 
 ### Related:
 

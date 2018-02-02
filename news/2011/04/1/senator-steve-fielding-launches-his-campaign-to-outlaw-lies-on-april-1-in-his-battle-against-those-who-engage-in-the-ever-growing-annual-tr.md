@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/1/senator-steve-fielding-launches-his-campaign-to-outlaw-lies-on-april-1-in-his-battle-against-those-who-engage-in-the-ever-growing-annual-tr.html)  [JSON](/news/2011/04/1/senator-steve-fielding-launches-his-campaign-to-outlaw-lies-on-april-1-in-his-battle-against-those-who-engage-in-the-ever-growing-annual-tr.json)  [XML](/news/2011/04/1/senator-steve-fielding-launches-his-campaign-to-outlaw-lies-on-april-1-in-his-battle-against-those-who-engage-in-the-ever-growing-annual-tr.xml)  
+
 ### [2011-04-1](/news/2011/04/1/index.md)
 
+##### Steve Fielding
 # Senator Steve Fielding launches his campaign to outlaw lies on April 1 in his battle against those who engage in the "ever-growing annual tradition of playing practical jokes on less intelligent Australians". 
 
 OUTGOING Victorian Senator Steve Fielding has launched an ambitious plan to ban the telling of lies on April 1 to help stem the ‘‘ever-growing annual tradition of playing practical jokes on less intelligent Australians.’’
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/national/jokes-on-you-april-fools-day-too-much-for-senator-20110401-1cona.html?from=smh_sb)
 1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)

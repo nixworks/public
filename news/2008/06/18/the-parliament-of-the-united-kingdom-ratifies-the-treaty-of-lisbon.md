@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/06/18/the-parliament-of-the-united-kingdom-ratifies-the-treaty-of-lisbon.html)  [JSON](/news/2008/06/18/the-parliament-of-the-united-kingdom-ratifies-the-treaty-of-lisbon.json)  [XML](/news/2008/06/18/the-parliament-of-the-united-kingdom-ratifies-the-treaty-of-lisbon.xml)  
+
 ### [2008-06-18](/news/2008/06/18/index.md)
 
+##### Parliament
 #  The Parliament of the United Kingdom ratifies the Treaty of Lisbon. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601102&sid=ai881gyid_n4&refer=uk)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601102&sid=ai881gyid_n4&refer=uk)
 
 ### Related:
 

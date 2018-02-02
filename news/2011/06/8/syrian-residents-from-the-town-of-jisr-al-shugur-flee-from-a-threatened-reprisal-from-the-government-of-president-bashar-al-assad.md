@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/8/syrian-residents-from-the-town-of-jisr-al-shugur-flee-from-a-threatened-reprisal-from-the-government-of-president-bashar-al-assad.html)  [JSON](/news/2011/06/8/syrian-residents-from-the-town-of-jisr-al-shugur-flee-from-a-threatened-reprisal-from-the-government-of-president-bashar-al-assad.json)  [XML](/news/2011/06/8/syrian-residents-from-the-town-of-jisr-al-shugur-flee-from-a-threatened-reprisal-from-the-government-of-president-bashar-al-assad.xml)  
+
 ### [2011-06-8](/news/2011/06/8/index.md)
 
+##### Syrian
 # Syrian residents from the town of Jisr al-Shugur flee from a threatened reprisal from the government of President Bashar al-Assad. 
 
 Another bloody crackdown is on the cards in Syria, with troops reportedly preparing to attack a town where scores of police and soldiers were killed earlier in the week.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2011/06/09/3239310.htm?section=justin)
 1. [Cover Image](http://www.abc.net.au/news/image/2751918-1x1-700x700.jpg)

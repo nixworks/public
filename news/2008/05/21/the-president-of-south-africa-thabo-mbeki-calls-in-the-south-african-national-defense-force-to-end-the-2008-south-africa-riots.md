@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/21/the-president-of-south-africa-thabo-mbeki-calls-in-the-south-african-national-defense-force-to-end-the-2008-south-africa-riots.html)  [JSON](/news/2008/05/21/the-president-of-south-africa-thabo-mbeki-calls-in-the-south-african-national-defense-force-to-end-the-2008-south-africa-riots.json)  [XML](/news/2008/05/21/the-president-of-south-africa-thabo-mbeki-calls-in-the-south-african-national-defense-force-to-end-the-2008-south-africa-riots.xml)  
+
 ### [2008-05-21](/news/2008/05/21/index.md)
 
+##### President
 #  The President of South Africa Thabo Mbeki calls in the South African National Defense Force to end the 2008 South Africa riots. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.afp.com/english/news/stories/newsmlmmd.89b223dc9a3c9c5ca47e40f233396997.131.html)
 

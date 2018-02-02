@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/20/a-case-of-bse-mad-cow-disease-in-a-single-cow-in-alberta-is-confirmed-by-canadian-federal-and-provincial-officials-the-animal-had-been.html)  [JSON](/news/2003/05/20/a-case-of-bse-mad-cow-disease-in-a-single-cow-in-alberta-is-confirmed-by-canadian-federal-and-provincial-officials-the-animal-had-been.json)  [XML](/news/2003/05/20/a-case-of-bse-mad-cow-disease-in-a-single-cow-in-alberta-is-confirmed-by-canadian-federal-and-provincial-officials-the-animal-had-been.xml)  
+
 ### [2003-05-20](/news/2003/05/20/index.md)
 
+##### BSE
 #  A case of BSE ("mad cow disease") in a single cow in Alberta is confirmed by Canadian federal and provincial officials. The animal had been destroyed and declared unfit for consumption prior to being diagnosed. The US issues a temporary ban on all Canadian beef. This is the first North American case of BSE since one in 1993 involving an animal born in Britain.
 
 

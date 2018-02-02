@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/4/all-major-parties-suspend-their-campaigns-follow
 
 ### [2017-06-4](/news/2017/06/4/index.md)
 
+##### last general election
 # All major parties suspend their campaigns following last night's terror attack in London. The general election, scheduled for June 8, is not expected to be postponed. 
 
 Britain&#039;s political parties have suspended national general election campaigning in the wake of the London Bridge attack, which killed six people. Labour, Conservatives, Lib Dem, Green and SNP spokespeople announced on Sunday morning that they would temporarily stand down.

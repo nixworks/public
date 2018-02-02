@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/10/george-entwistle-steps-down-as-director-general-of-the-bbc-following-the-newsnight-child-abuse-broadcast-row.html)  [JSON](/news/2012/11/10/george-entwistle-steps-down-as-director-general-of-the-bbc-following-the-newsnight-child-abuse-broadcast-row.json)  [XML](/news/2012/11/10/george-entwistle-steps-down-as-director-general-of-the-bbc-following-the-newsnight-child-abuse-broadcast-row.xml)  
+
 ### [2012-11-10](/news/2012/11/10/index.md)
 
+##### George Entwistle
 # George Entwistle steps down as Director-General of the BBC following the "Newsnight" child abuse broadcast row. 
 
 The BBC&rsquo;s director-general has dramatically quit over the corporation&rsquo;s smearing of an innocent politician as a paedophile.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20284124)
 2. [The Telegraph](http://www.telegraph.co.uk/culture/tvandradio/bbc/9669681/George-Entwistle-quits-as-director-general-over-Newsnight-fiasco.html)

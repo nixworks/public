@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/4/munich-re-reports-that-the-insurance-industry-fa
 
 ### [2018-01-4](/news/2018/01/4/index.md)
 
+##### Munich Re
 # Munich Re reports that the insurance industry faces record claims of US$135 billion from natural catastrophes, such as the Mexico earthquakes, South Asian floods, California wildfires and Atlantic hurricanes in 2017. Overall economic losses from natural disasters are estimated at the second highest amount since 2011. 
 
 The insurance industry will pay record claims of US$135 billion from last year&#039;s spate of natural catastrophes, according to a report published by Munich R

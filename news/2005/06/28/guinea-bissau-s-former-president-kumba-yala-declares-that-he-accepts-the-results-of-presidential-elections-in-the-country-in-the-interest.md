@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/28/guinea-bissau-s-former-president-kumba-yala-declares-that-he-accepts-the-results-of-presidential-elections-in-the-country-in-the-interest.html)  [JSON](/news/2005/06/28/guinea-bissau-s-former-president-kumba-yala-declares-that-he-accepts-the-results-of-presidential-elections-in-the-country-in-the-interest.json)  [XML](/news/2005/06/28/guinea-bissau-s-former-president-kumba-yala-declares-that-he-accepts-the-results-of-presidential-elections-in-the-country-in-the-interest.xml)  
+
 ### [2005-06-28](/news/2005/06/28/index.md)
 
+##### Guinea-Bissau
 #  Guinea-Bissau's former president Kumba Yala declares that he accepts the results of presidential elections in the country "in the interest of peace and democracy" but still insists that he actually won. No candidate has won 50% of the vote and the next round of elections commences in July. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4628633.stm)
 2. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:42c0ef25:5cfd8de361b98029?type=topNews&localeKey=en_ZA&storyID=8910101)

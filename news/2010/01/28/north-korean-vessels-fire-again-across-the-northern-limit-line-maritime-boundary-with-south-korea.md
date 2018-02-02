@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/28/north-korean-vessels-fire-again-across-the-northern-limit-line-maritime-boundary-with-south-korea.html)  [JSON](/news/2010/01/28/north-korean-vessels-fire-again-across-the-northern-limit-line-maritime-boundary-with-south-korea.json)  [XML](/news/2010/01/28/north-korean-vessels-fire-again-across-the-northern-limit-line-maritime-boundary-with-south-korea.xml)  
+
 ### [2010-01-28](/news/2010/01/28/index.md)
 
+##### Northern Limit Line
 # North Korean vessels fire again across the Northern Limit Line maritime boundary with South Korea. 
 
 State media says unnamed American man detained after trespassing on border with China.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/201012854031726751.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8484513.stm)
@@ -14,6 +18,12 @@ State media says unnamed American man detained after trespassing on border with 
 5. [Yonhap](http://english.yonhapnews.co.kr/national/2010/01/28/59/0301000000AEN20100128004300315F.HTML)
 5. [Cover Image](http://www.aljazeera.com)
 
+### Changes:
+
+1. [North Korea:North Korean vessels fire again across the Northern Limit Line maritime boundary with South Korea. ](/news/2010/01/28/north-korea-pnorth-korean-vessels-fire-again-across-the-northern-limit-line-maritime-boundary-with-south-korea.md) _2017-08-25 03:27:02 (First version)_
+2. [North Korea:: North Korean vessels fire again across the Northern Limit Line maritime boundary with South Korea. ](/news/2010/01/28/north-korea-north-korean-vessels-fire-again-across-the-northern-limit-line-maritime-boundary-with-south-korea.md) _2017-08-27 03:26:56 (Update)_
+2. [North Korean vessels fire again across the Northern Limit Line maritime boundary with South Korea. ](/news/2010/01/28/north-korean-vessels-fire-again-across-the-northern-limit-line-maritime-boundary-with-south-korea.md) _(Current version)_
+
 ### Related:
 
 1. [South Korea fires warning shots after a North Korean patrol boat and a fishing boat cross the disputed west coast Northern Limit Line. The two vessels retreated. ](/news/2016/05/27/south-korea-fires-warning-shots-after-a-north-korean-patrol-boat-and-a-fishing-boat-cross-the-disputed-west-coast-northern-limit-line-the-t.md) _Context: Northern Limit Line, South Korea_
@@ -21,9 +31,3 @@ State media says unnamed American man detained after trespassing on border with 
 3. [South Korea begins a huge anti-submarine exercise in the Yellow Sea, near the disputed maritime border, in what it sees as a show of strength against North Korea and "to be fully prepared for combat"; North Korea disapproves of the exercise. ](/news/2010/08/5/south-korea-begins-a-huge-anti-submarine-exercise-in-the-yellow-sea-near-the-disputed-maritime-border-in-what-it-sees-as-a-show-of-strengt.md) _Context: Northern Limit Line, South Korea_
 4. [Eight people are missing and one dies as a fishing boat sinks while searching for the South Korean "Cheonan" warship that sank last week near the Northern Limit Line border with North Korea. ](/news/2010/04/3/eight-people-are-missing-and-one-dies-as-a-fishing-boat-sinks-while-searching-for-the-south-korean-cheonan-warship-that-sank-last-week-nea.md) _Context: Northern Limit Line, South Korea_
 5. [North Korea fires artillery towards South Korean territory at the Northern Limit Line for a third consecutive day. ](/news/2010/01/29/north-korea-fires-artillery-towards-south-korean-territory-at-the-northern-limit-line-for-a-third-consecutive-day.md) _Context: Northern Limit Line, South Korea_
-
-### Changes:
-
-1. [North Korea:North Korean vessels fire again across the Northern Limit Line maritime boundary with South Korea. ](/news/2010/01/28/north-korea-pnorth-korean-vessels-fire-again-across-the-northern-limit-line-maritime-boundary-with-south-korea.md) _2017-08-25 03:27:02 (First version)_
-2. [North Korea:: North Korean vessels fire again across the Northern Limit Line maritime boundary with South Korea. ](/news/2010/01/28/north-korea-north-korean-vessels-fire-again-across-the-northern-limit-line-maritime-boundary-with-south-korea.md) _2017-08-27 03:26:56 (Update)_
-2. [North Korean vessels fire again across the Northern Limit Line maritime boundary with South Korea. ](/news/2010/01/28/north-korean-vessels-fire-again-across-the-northern-limit-line-maritime-boundary-with-south-korea.md) _(Current version)_

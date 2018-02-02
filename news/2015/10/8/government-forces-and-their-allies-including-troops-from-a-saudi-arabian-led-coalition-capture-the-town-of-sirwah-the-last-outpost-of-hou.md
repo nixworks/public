@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/10/8/government-forces-and-their-allies-including-troops-from-a-saudi-arabian-led-coalition-capture-the-town-of-sirwah-the-last-outpost-of-hou.html)  [JSON](/news/2015/10/8/government-forces-and-their-allies-including-troops-from-a-saudi-arabian-led-coalition-capture-the-town-of-sirwah-the-last-outpost-of-hou.json)  [XML](/news/2015/10/8/government-forces-and-their-allies-including-troops-from-a-saudi-arabian-led-coalition-capture-the-town-of-sirwah-the-last-outpost-of-hou.xml)  
+
 ### [2015-10-8](/news/2015/10/8/index.md)
 
+##### Yemeni Civil War (2015)
 # Government forces and their allies, including troops from a Saudi Arabian-led coalition, capture the town of Sirwah, the last outpost of Houthi militants in the key Marib province. 
 
 Two air strikes by the Saudi-led coalition killed at least 15 civilians and wounded 25 others in Yemen on Wednesday at a wedding hosted by a tribal leader known to support the Houthi rebels, witnesses and independent security officials said. Yemen: Airstrike attack on wedding party
 
 
-### Source:
+### Sources:
 
 1. [Fars News](http://english.farsnews.com/newstext.aspx?nn=13940716000270)
-2. [Independent](http://www.independent.co.uk/news/world/middle-east/saudi-led-air-strikes-kill-15-civilians-at-yemen-wedding-a6685586.html)
+2. [Independent](https://www.independent.co.uk/news/world/middle-east/saudi-led-air-strikes-kill-15-civilians-at-yemen-wedding-a6685586.html)
 3. [Press TV](http://www.presstv.ir/Detail/2015/10/07/432453/Yemen-Saudi-Ansarullah-warship-Taizz-Jizan-Hadi-UN)
 4. [The Australian](http://www.theaustralian.com.au/news/latest-news/yemen-forces-capture-last-rebel-outpost/story-fn3dxix6-1227561743328)
 4. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/10/08/07/yemen-strike-EPA.jpg)

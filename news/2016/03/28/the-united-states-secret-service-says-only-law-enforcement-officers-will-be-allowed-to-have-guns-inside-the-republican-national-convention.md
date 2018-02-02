@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2016/03/28/the-united-states-secret-service-says-only-law-enforcement-officers-will-be-allowed-to-have-guns-inside-the-republican-national-convention.html)  [JSON](/news/2016/03/28/the-united-states-secret-service-says-only-law-enforcement-officers-will-be-allowed-to-have-guns-inside-the-republican-national-convention.json)  [XML](/news/2016/03/28/the-united-states-secret-service-says-only-law-enforcement-officers-will-be-allowed-to-have-guns-inside-the-republican-national-convention.xml)  
+
 ### [2016-03-28](/news/2016/03/28/index.md)
 
+##### United States Secret Service
 #  The United States Secret Service says only law enforcement officers will be allowed to have guns inside the Republican National Convention to be held in the Cleveland, Ohio, arena on July 18-21, 2016; responding to an online petition demanding Quicken Loans Arena revoke its ban on open carrying of firearms. 
 
 Some 45,000 people signed a petition asking that attendees be allowed to carry fire arms.
@@ -7,7 +11,7 @@ Some 45,000 people signed a petition asking that attendees be allowed to carry f
 
 ### Sources:
 
-1. [USA Today](http://www.usatoday.com/story/news/politics/onpolitics/2016/03/28/secret-service-no-gunsrepublican-convention/82348324/)
+1. [USA Today](https://www.usatoday.com/story/news/politics/onpolitics/2016/03/28/secret-service-no-gunsrepublican-convention/82348324/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Changes:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/1/rob-ford-becomes-mayor-of-toronto.html)  [JSON](/news/2010/12/1/rob-ford-becomes-mayor-of-toronto.json)  [XML](/news/2010/12/1/rob-ford-becomes-mayor-of-toronto.xml)  
+
 ### [2010-12-1](/news/2010/12/1/index.md)
 
+##### Rob Ford
 # Rob Ford becomes mayor of Toronto. 
 
 Neophyte Mayor Rob Ford may be facing a brand new headache of a moniker on only his second day in office: Mayor of Sex City.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/toronto/story/2010/12/01/toronto-ford.html)
 2. [Toronto Sun](http://www.torontosun.com/news/columnists/michele_mandel/2010/12/01/16393146.html)

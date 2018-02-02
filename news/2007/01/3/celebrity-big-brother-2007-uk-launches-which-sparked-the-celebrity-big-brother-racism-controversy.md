@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/01/3/celebrity-big-brother-2007-uk-launches-which-sparked-the-celebrity-big-brother-racism-controversy.html)  [JSON](/news/2007/01/3/celebrity-big-brother-2007-uk-launches-which-sparked-the-celebrity-big-brother-racism-controversy.json)  [XML](/news/2007/01/3/celebrity-big-brother-2007-uk-launches-which-sparked-the-celebrity-big-brother-racism-controversy.xml)  
+
 ### [2007-01-3](/news/2007/01/3/index.md)
 
+##### Celebrity Big Brother 2007
 #  Celebrity Big Brother 2007 (UK) launches which sparked the Celebrity Big Brother racism controversy.
 
 

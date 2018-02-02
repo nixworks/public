@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/23/the-people-s-republic-of-china-arrests-300-people-in-the-first-month-in-a-crackdown-on-alleged-terrorists.html)  [JSON](/news/2014/06/23/the-people-s-republic-of-china-arrests-300-people-in-the-first-month-in-a-crackdown-on-alleged-terrorists.json)  [XML](/news/2014/06/23/the-people-s-republic-of-china-arrests-300-people-in-the-first-month-in-a-crackdown-on-alleged-terrorists.xml)  
+
 ### [2014-06-23](/news/2014/06/23/index.md)
 
+##### China
 # The People's Republic of China arrests 300 people in the first month in a crackdown on alleged terrorists. 
 
 China has arrested more than 380 suspects in the first month of a year-long crackdown on &quot;terrorism&quot;, media said on Monday.
 
 
-### Source:
+### Sources:
 
 1. [AFP via iAfrica](http://news.iafrica.com/worldnews/945386.html)
 1. [Cover Image](http://news.iafrica.com/apps/imageUtil/view/article/945386/1/630x385/)

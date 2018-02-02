@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/14/a-sri-lankan-government-commission-set-up-to-look-into-the-last-years-of-the-sri-lankan-civil-war-holds-a-meeting-in-vavuniya-on-the-north-o.html)  [JSON](/news/2010/08/14/a-sri-lankan-government-commission-set-up-to-look-into-the-last-years-of-the-sri-lankan-civil-war-holds-a-meeting-in-vavuniya-on-the-north-o.json)  [XML](/news/2010/08/14/a-sri-lankan-government-commission-set-up-to-look-into-the-last-years-of-the-sri-lankan-civil-war-holds-a-meeting-in-vavuniya-on-the-north-o.xml)  
+
 ### [2010-08-14](/news/2010/08/14/index.md)
 
+##### Sri Lanka
 # A Sri Lankan government commission set up to look into the last years of the Sri Lankan Civil War holds a meeting in Vavuniya on the north of the island. 
 
 A Sri Lankan government war inquiry hears testimonies from Tamils who allege their loved ones were abducted or detained by the army.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10973969)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

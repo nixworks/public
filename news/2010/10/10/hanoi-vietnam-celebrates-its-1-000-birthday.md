@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/10/10/hanoi-vietnam-celebrates-its-1-000-birthday.html)  [JSON](/news/2010/10/10/hanoi-vietnam-celebrates-its-1-000-birthday.json)  [XML](/news/2010/10/10/hanoi-vietnam-celebrates-its-1-000-birthday.xml)  
+
 ### [2010-10-10](/news/2010/10/10/index.md)
 
+##### Hanoi
 # Hanoi, Vietnam, celebrates its 1,000 birthday. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20101010/ap_on_re_as/as_vietnam_hanoi_turns1000)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20101010/ap_on_re_as/as_vietnam_hanoi_turns1000)
 
 ### Related:
 

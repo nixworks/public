@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/9/clashes-erupted-between-two-communities-after-eid-prayers-in-the-kishtwar-district-of-jammu-and-kashmir-india-leaving-two-dead-and-severa.html)  [JSON](/news/2013/08/9/clashes-erupted-between-two-communities-after-eid-prayers-in-the-kishtwar-district-of-jammu-and-kashmir-india-leaving-two-dead-and-severa.json)  [XML](/news/2013/08/9/clashes-erupted-between-two-communities-after-eid-prayers-in-the-kishtwar-district-of-jammu-and-kashmir-india-leaving-two-dead-and-severa.xml)  
+
 ### [2013-08-9](/news/2013/08/9/index.md)
 
+##### Clashes erupted between two communities
 # Clashes erupted between two communities after Eid prayers, in the Kishtwar district of Jammu and Kashmir, India, leaving two dead and several other injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.thehindu.com/news/national/curfew-in-kishtwar-as-riot-toll-rises-to-two/article5009062.ece?homepage=true)
 

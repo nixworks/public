@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/22/wei-hong-resigns-as-governor-of-sichuan-provinc
 
 ### [2016-01-22](/news/2016/01/22/index.md)
 
+##### Wei Hong
 # Wei Hong resigns as Governor of Sichuan province in China after it was revealed that he was undergoing investigation for "breaching party discipline." Former World Health Organization executive committee member Yin Li becomes acting governor. 
 
 

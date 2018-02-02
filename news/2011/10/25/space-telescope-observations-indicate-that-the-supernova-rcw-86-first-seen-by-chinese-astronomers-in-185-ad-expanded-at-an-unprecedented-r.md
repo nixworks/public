@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/25/space-telescope-observations-indicate-that-the-supernova-rcw-86-first-seen-by-chinese-astronomers-in-185-ad-expanded-at-an-unprecedented-r.html)  [JSON](/news/2011/10/25/space-telescope-observations-indicate-that-the-supernova-rcw-86-first-seen-by-chinese-astronomers-in-185-ad-expanded-at-an-unprecedented-r.json)  [XML](/news/2011/10/25/space-telescope-observations-indicate-that-the-supernova-rcw-86-first-seen-by-chinese-astronomers-in-185-ad-expanded-at-an-unprecedented-r.xml)  
+
 ### [2011-10-25](/news/2011/10/25/index.md)
 
+##### Space telescope
 # Space telescope observations indicate that the supernova RCW 86, first seen by Chinese astronomers in 185 AD, expanded at an unprecedented rate due to the formation of a vacuum-like "cavity" around it in the early stages of the death of its star. The supernova's rapid expansion had previously been one of astronomy's most enduring mysteries. 
 
 Space telescopes unravel the mystery of a gigantic, fast-growing supernova that was first recorded by Chinese astronomers nearly 2,000 years ago.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-15445688)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/56268000/jpg/_56268512_56268511.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/1/philip-greaves-is-sworn-in-as-acting-governor-ge
 
 ### [2017-07-1](/news/2017/07/1/index.md)
 
+##### Philip Greaves
 # Philip Greaves is sworn in as acting Governor-General of Barbados following the retirement of Sir Elliott Belgrave. 
 
 

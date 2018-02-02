@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/4/greece-wins-the-euro-2004-football-tournament-by-defeating-host-nation-portugal-1a0.html)  [JSON](/news/2004/07/4/greece-wins-the-euro-2004-football-tournament-by-defeating-host-nation-portugal-1a0.json)  [XML](/news/2004/07/4/greece-wins-the-euro-2004-football-tournament-by-defeating-host-nation-portugal-1a0.xml)  
+
 ### [2004-07-4](/news/2004/07/4/index.md)
 
+##### Greece
 #  Greece wins the Euro 2004 football tournament by defeating host nation Portugal 1-0. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://soccernet.espn.go.com/euro2004/index?cc=5901)
 2. [Euro 2004 Official Website](http://www.euro2004.com/)

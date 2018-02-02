@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/16/2007-atlantic-hurricane-season-hurricane-dean-becomes-the-first-hurricane-of-the-season-threatening-the-lesser-antilles-while-tropical-s.html)  [JSON](/news/2007/08/16/2007-atlantic-hurricane-season-hurricane-dean-becomes-the-first-hurricane-of-the-season-threatening-the-lesser-antilles-while-tropical-s.json)  [XML](/news/2007/08/16/2007-atlantic-hurricane-season-hurricane-dean-becomes-the-first-hurricane-of-the-season-threatening-the-lesser-antilles-while-tropical-s.xml)  
+
 ### [2007-08-16](/news/2007/08/16/index.md)
 
+##### 2007
 #  2007 Atlantic hurricane season: Hurricane Dean becomes the first hurricane of the season, threatening the Lesser Antilles, while Tropical Storm Erin threatens Texas. At least five people died in thunderstorms resulting from Erin while another two people went missing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via the Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-6858449,00.html)
 2. [CNN](http://edition.cnn.com/2007/US/08/16/storms/index.html?eref=rss_topstories)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/13/the-prime-minister-of-romania-victor-ponta-is-charged-in-an-on-going-corruption-scandal.html)  [JSON](/news/2015/07/13/the-prime-minister-of-romania-victor-ponta-is-charged-in-an-on-going-corruption-scandal.json)  [XML](/news/2015/07/13/the-prime-minister-of-romania-victor-ponta-is-charged-in-an-on-going-corruption-scandal.xml)  
+
 ### [2015-07-13](/news/2015/07/13/index.md)
 
+##### Prime Minister
 # The Prime Minister of Romania Victor Ponta is charged in an on-going corruption scandal. 
 
 Romanian Prime Minister Victor Ponta has been charged as part of a a long-running corruption investigation, prosecutors say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-33503367)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/8A9B/production/_84238453_84238452.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/22/in-south-africa-president-thabo-mbeki-names-energy-and-minerals-minister-phumzile-mlambo-ngcuka-as-his-deputy-president-she-is-the-first.html)  [JSON](/news/2005/06/22/in-south-africa-president-thabo-mbeki-names-energy-and-minerals-minister-phumzile-mlambo-ngcuka-as-his-deputy-president-she-is-the-first.json)  [XML](/news/2005/06/22/in-south-africa-president-thabo-mbeki-names-energy-and-minerals-minister-phumzile-mlambo-ngcuka-as-his-deputy-president-she-is-the-first.xml)  
+
 ### [2005-06-22](/news/2005/06/22/index.md)
 
+##### South Africa
 #  In South Africa, President Thabo Mbeki names energy and minerals minister Phumzile Mlambo-Ngcuka as his deputy president. She is the first woman to hold the position. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC profile](http://news.bbc.co.uk/2/hi/africa/4120168.stm)
 2. [News24](http://www.news24.com/News24/South_Africa/Politics/0,,2-7-12_1725296,00.html)

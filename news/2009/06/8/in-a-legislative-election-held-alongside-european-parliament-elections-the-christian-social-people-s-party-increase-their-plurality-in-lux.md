@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/8/in-a-legislative-election-held-alongside-european-parliament-elections-the-christian-social-people-s-party-increase-their-plurality-in-lux.html)  [JSON](/news/2009/06/8/in-a-legislative-election-held-alongside-european-parliament-elections-the-christian-social-people-s-party-increase-their-plurality-in-lux.json)  [XML](/news/2009/06/8/in-a-legislative-election-held-alongside-european-parliament-elections-the-christian-social-people-s-party-increase-their-plurality-in-lux.xml)  
+
 ### [2009-06-8](/news/2009/06/8/index.md)
 
+##### legislative election
 #  In a legislative election held alongside European Parliament elections, the Christian Social People's Party increase their plurality in Luxembourg's Chamber of Deputies. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via NASDAQ](http://www.nasdaq.com/aspx/stock-market-news-story.aspx?storyid=200906071541dowjonesdjonline000279&title=exit-pollsluxembourg-pms-party-on-top-in-legislative-elections)
 1. [Cover Image](http://www.nasdaq.com/images/Q-logo.jpg)

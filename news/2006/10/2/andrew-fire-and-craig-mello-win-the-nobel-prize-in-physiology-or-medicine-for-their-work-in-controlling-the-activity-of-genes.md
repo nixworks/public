@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/2/andrew-fire-and-craig-mello-win-the-nobel-prize-in-physiology-or-medicine-for-their-work-in-controlling-the-activity-of-genes.html)  [JSON](/news/2006/10/2/andrew-fire-and-craig-mello-win-the-nobel-prize-in-physiology-or-medicine-for-their-work-in-controlling-the-activity-of-genes.json)  [XML](/news/2006/10/2/andrew-fire-and-craig-mello-win-the-nobel-prize-in-physiology-or-medicine-for-their-work-in-controlling-the-activity-of-genes.xml)  
+
 ### [2006-10-2](/news/2006/10/2/index.md)
 
+##### Andrew Fire
 #  Andrew Fire and Craig Mello win the Nobel Prize in Physiology or Medicine for their work in controlling the activity of genes. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/International/wireStory?id=2515870&CMP=OTC-RSSFeeds0312)
 

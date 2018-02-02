@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/8/the-parliament-of-albania-fails-without-a-vote-in-the-third-round-to-elect-the-president-of-the-republic-of-albania.html)  [JSON](/news/2012/06/8/the-parliament-of-albania-fails-without-a-vote-in-the-third-round-to-elect-the-president-of-the-republic-of-albania.json)  [XML](/news/2012/06/8/the-parliament-of-albania-fails-without-a-vote-in-the-third-round-to-elect-the-president-of-the-republic-of-albania.xml)  
+
 ### [2012-06-8](/news/2012/06/8/index.md)
 
+##### parliament
 # The Parliament of Albania fails without a vote in the third round to elect the President of the Republic of Albania. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Top Channel](http://www.top-channel.tv/english/artikull.php?id=6058)
 

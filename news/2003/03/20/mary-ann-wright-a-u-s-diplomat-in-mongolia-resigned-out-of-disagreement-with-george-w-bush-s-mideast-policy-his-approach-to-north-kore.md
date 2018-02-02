@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/20/mary-ann-wright-a-u-s-diplomat-in-mongolia-resigned-out-of-disagreement-with-george-w-bush-s-mideast-policy-his-approach-to-north-kore.html)  [JSON](/news/2003/03/20/mary-ann-wright-a-u-s-diplomat-in-mongolia-resigned-out-of-disagreement-with-george-w-bush-s-mideast-policy-his-approach-to-north-kore.json)  [XML](/news/2003/03/20/mary-ann-wright-a-u-s-diplomat-in-mongolia-resigned-out-of-disagreement-with-george-w-bush-s-mideast-policy-his-approach-to-north-kore.xml)  
+
 ### [2003-03-20](/news/2003/03/20/index.md)
 
+##### Mary Ann Wright
 #  Mary Ann Wright, a U.S. diplomat in Mongolia, resigned out of disagreement with George W. Bush's Mideast policy, his approach to North Korea and the domestic consequences of the War on Terrorism.
 
 

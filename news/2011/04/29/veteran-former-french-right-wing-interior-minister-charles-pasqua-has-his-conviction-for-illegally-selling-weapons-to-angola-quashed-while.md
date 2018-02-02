@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/29/veteran-former-french-right-wing-interior-minister-charles-pasqua-has-his-conviction-for-illegally-selling-weapons-to-angola-quashed-while.html)  [JSON](/news/2011/04/29/veteran-former-french-right-wing-interior-minister-charles-pasqua-has-his-conviction-for-illegally-selling-weapons-to-angola-quashed-while.json)  [XML](/news/2011/04/29/veteran-former-french-right-wing-interior-minister-charles-pasqua-has-his-conviction-for-illegally-selling-weapons-to-angola-quashed-while.xml)  
+
 ### [2011-04-29](/news/2011/04/29/index.md)
 
+##### Charles Pasqua
 # Veteran former French right-wing interior minister Charles Pasqua has his conviction for illegally selling weapons to Angola quashed, while jail terms for Israeli-Russian businessman Arkady Gaydamak and French magnate Pierre Falcone are cut. 
 
 A French appeals court quashes the conviction of ex-Interior Minister Charles Pasqua for arms trafficking to Angola.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13241048)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52414000/jpg/_52414033_newpasafp.jpg)

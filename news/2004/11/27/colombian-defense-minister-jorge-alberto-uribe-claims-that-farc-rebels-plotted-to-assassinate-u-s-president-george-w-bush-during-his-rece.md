@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/27/colombian-defense-minister-jorge-alberto-uribe-claims-that-farc-rebels-plotted-to-assassinate-u-s-president-george-w-bush-during-his-rece.html)  [JSON](/news/2004/11/27/colombian-defense-minister-jorge-alberto-uribe-claims-that-farc-rebels-plotted-to-assassinate-u-s-president-george-w-bush-during-his-rece.json)  [XML](/news/2004/11/27/colombian-defense-minister-jorge-alberto-uribe-claims-that-farc-rebels-plotted-to-assassinate-u-s-president-george-w-bush-during-his-rece.xml)  
+
 ### [2004-11-27](/news/2004/11/27/index.md)
 
+##### Colombia
 #  Colombian Defense Minister Jorge Alberto Uribe claims that FARC rebels plotted to assassinate U.S. President George W. Bush during his recent visit to the country. The U.S. Secret Service declines to comment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4047199.stm)
 2. [CNN](http://www.cnn.com/2004/WORLD/americas/11/27/bush-plot/index.html)

@@ -1,14 +1,19 @@
+
+Formats: [HTML](/news/2012/11/14/japanese-prime-minister-yoshihiko-noda-announces-he-will-dissolve-the-house-of-representatives-of-the-diet-on-friday-after-the-ruling-dpj-go.html)  [JSON](/news/2012/11/14/japanese-prime-minister-yoshihiko-noda-announces-he-will-dissolve-the-house-of-representatives-of-the-diet-on-friday-after-the-ruling-dpj-go.json)  [XML](/news/2012/11/14/japanese-prime-minister-yoshihiko-noda-announces-he-will-dissolve-the-house-of-representatives-of-the-diet-on-friday-after-the-ruling-dpj-go.xml)  
+
 ### [2012-11-14](/news/2012/11/14/index.md)
 
+##### Prime Minister of Japan
 # Japanese Prime Minister Yoshihiko Noda announces he will dissolve the House of Representatives of the Diet on Friday after the ruling DPJ government and opposition LDP come to an agreement regarding a reduction of seats in the House. A general election is scheduled for December 16. 
 
+Japanese Prime Minister Yoshihiko Noda will dissolve parliament tomorrow, triggering an election that polls show his party will lose three years after ending the Liberal Democratic Party’s half-century grip on power.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2012-11-14/noda-to-dissolve-diet-nov-16-paving-way-for-japan-election-1-.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2012-11-14/noda-to-dissolve-diet-nov-16-paving-way-for-japan-election-1-.html)
 2. [NHK](http://www3.nhk.or.jp/daily/english/20121114_35.html)
+2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/5/mit-says-it-has-succeeded-in-using-radio-waves-to-mix-50-000-000-degc-plasma-at-its-alcator-c-mod-fusion-reactor.html)  [JSON](/news/2008/12/5/mit-says-it-has-succeeded-in-using-radio-waves-to-mix-50-000-000-degc-plasma-at-its-alcator-c-mod-fusion-reactor.json)  [XML](/news/2008/12/5/mit-says-it-has-succeeded-in-using-radio-waves-to-mix-50-000-000-degc-plasma-at-its-alcator-c-mod-fusion-reactor.xml)  
+
 ### [2008-12-5](/news/2008/12/5/index.md)
 
+##### Massachusetts Institute of Technology
 #  MIT says it has succeeded in using radio waves to mix 50,000,000 C plasma at its Alcator C-Mod fusion reactor. 
 
 MIT researchers said they have succeeded in using radio waves to mix the 50 million degree C plasma at its Alcator C-Mod fusion reactor. 
 
 
-### Source:
+### Sources:
 
 1. [Electronic Engineering Times](http://www.eetimes.com/news/latest/showArticle.jhtml?articleID=212202060)
 1. [Cover Image](http://m.eet.com/images/eetimes/eet_fb_icon3.jpg)

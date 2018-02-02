@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/22/thai-police-arrest-at-least-three-people-for-holding-an-unauthorised-demonstration.html)  [JSON](/news/2015/02/22/thai-police-arrest-at-least-three-people-for-holding-an-unauthorised-demonstration.json)  [XML](/news/2015/02/22/thai-police-arrest-at-least-three-people-for-holding-an-unauthorised-demonstration.xml)  
+
 ### [2015-02-22](/news/2015/02/22/index.md)
 
+##### Thai police officers
 # Thai police arrest at least three people for holding an unauthorised demonstration. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/bangkok-police-detain-at/1672856.html?cid=TWTCNA)
 

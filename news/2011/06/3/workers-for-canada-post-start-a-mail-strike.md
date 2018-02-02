@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/3/workers-for-canada-post-start-a-mail-strike.html)  [JSON](/news/2011/06/3/workers-for-canada-post-start-a-mail-strike.json)  [XML](/news/2011/06/3/workers-for-canada-post-start-a-mail-strike.xml)  
+
 ### [2011-06-3](/news/2011/06/3/index.md)
 
+##### Canada Post
 # Workers for Canada Post start a mail strike. 
 
 Hamilton is being targeted this weekend by striking postal workers, the second city to be hit by rotating work stoppages across the country. 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/story/2011/06/02/canada-post-strike.html)
 1. [Cover Image](https://i.cbc.ca/1.2009892.1381564040!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-post-solo-wpg-cp-852-3col.jpg)

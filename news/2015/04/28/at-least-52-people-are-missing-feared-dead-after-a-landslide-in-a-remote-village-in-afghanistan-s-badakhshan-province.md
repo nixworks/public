@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/04/28/at-least-52-people-are-missing-feared-dead-after-a-landslide-in-a-remote-village-in-afghanistan-s-badakhshan-province.html)  [JSON](/news/2015/04/28/at-least-52-people-are-missing-feared-dead-after-a-landslide-in-a-remote-village-in-afghanistan-s-badakhshan-province.json)  [XML](/news/2015/04/28/at-least-52-people-are-missing-feared-dead-after-a-landslide-in-a-remote-village-in-afghanistan-s-badakhshan-province.xml)  
+
 ### [2015-04-28](/news/2015/04/28/index.md)
 
+##### Badakhshan
 # At least 52 people are missing, feared dead, after a landslide in a remote village in Afghanistan's Badakhshan province. 
 
 At least 52 people are missing and feared dead following a landslide in a remote village in northeastern Afghanistan, officials said on Tuesday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/04/28/us-afghanistan-landslide-idUSKBN0NJ1GS20150428)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/04/28/us-afghanistan-landslide-idUSKBN0NJ1GS20150428)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

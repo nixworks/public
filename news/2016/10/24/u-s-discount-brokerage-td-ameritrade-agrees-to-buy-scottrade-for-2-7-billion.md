@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/24/u-s-discount-brokerage-td-ameritrade-agrees-to-
 
 ### [2016-10-24](/news/2016/10/24/index.md)
 
+##### brokerage
 # U.S. discount brokerage TD Ameritrade agrees to buy Scottrade for $2.7 billion. 
 
 TD Ameritrade (AMTD.O) has agreed to buy Scottrade for $2.7 billion in a deal that would bring together two of the biggest U.S. discount brokerages, but is expected to face scrutiny from regulators.

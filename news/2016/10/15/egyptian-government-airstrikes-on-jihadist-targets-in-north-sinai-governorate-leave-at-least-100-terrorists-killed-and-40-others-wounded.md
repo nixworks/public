@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/15/egyptian-government-airstrikes-on-jihadist-targ
 
 ### [2016-10-15](/news/2016/10/15/index.md)
 
+##### Sinai insurgency
 # Egyptian government airstrikes on jihadist targets in North Sinai Governorate, leave at least 100 terrorists killed and 40 others wounded. 
 
 

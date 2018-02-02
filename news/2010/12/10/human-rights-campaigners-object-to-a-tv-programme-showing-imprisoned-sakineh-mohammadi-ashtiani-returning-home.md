@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/10/human-rights-campaigners-object-to-a-tv-programme-showing-imprisoned-sakineh-mohammadi-ashtiani-returning-home.html)  [JSON](/news/2010/12/10/human-rights-campaigners-object-to-a-tv-programme-showing-imprisoned-sakineh-mohammadi-ashtiani-returning-home.json)  [XML](/news/2010/12/10/human-rights-campaigners-object-to-a-tv-programme-showing-imprisoned-sakineh-mohammadi-ashtiani-returning-home.xml)  
+
 ### [2010-12-10](/news/2010/12/10/index.md)
 
+##### Sakineh Mohammadi Ashtiani
 # Human rights campaigners object to a TV programme showing imprisoned Sakineh Mohammadi Ashtiani returning home. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2010/dec/10/iran-stoning-sakineh-mohammadi-ashtiani-confession)
 

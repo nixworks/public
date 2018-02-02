@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/20/canadian-soldiers-in-afghanistan-have-defused-a-huge-car-bomb-found-not-far-from-their-base-near-kandahar-the-discovery-comes-just-days-af.html)  [JSON](/news/2006/01/20/canadian-soldiers-in-afghanistan-have-defused-a-huge-car-bomb-found-not-far-from-their-base-near-kandahar-the-discovery-comes-just-days-af.json)  [XML](/news/2006/01/20/canadian-soldiers-in-afghanistan-have-defused-a-huge-car-bomb-found-not-far-from-their-base-near-kandahar-the-discovery-comes-just-days-af.xml)  
+
 ### [2006-01-20](/news/2006/01/20/index.md)
 
+##### Afghanistan
 #  Canadian soldiers in Afghanistan have defused a huge car bomb found not far from their base near Kandahar. The discovery comes just days after a suicide bomber killed Canadian diplomat Glyn Berry and seriously wounded three soldiers travelling with him. 
 
 Canadian soldiers in Afghanistan have defused a huge car bomb found not far from their base near Kandahar.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/world/story/2006/01/19/afghanistan060119.html)
 1. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)

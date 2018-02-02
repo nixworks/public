@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/24/south-africa-denies-dalai-lama-tenzin-gyatso-a-visa-to-attend-a-peace-conference-in-johannesburg.html)  [JSON](/news/2009/03/24/south-africa-denies-dalai-lama-tenzin-gyatso-a-visa-to-attend-a-peace-conference-in-johannesburg.json)  [XML](/news/2009/03/24/south-africa-denies-dalai-lama-tenzin-gyatso-a-visa-to-attend-a-peace-conference-in-johannesburg.xml)  
+
 ### [2009-03-24](/news/2009/03/24/index.md)
 
+##### South Africa
 #  South Africa denies Dalai Lama Tenzin Gyatso a visa to attend a peace conference in Johannesburg. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7958881.stm)
 

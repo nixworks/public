@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/05/11/four-airports-in-the-canary-islands-and-three-in-southern-spain-are-closed-spain-s-air-traffic-control-agency-aena-said.html)  [JSON](/news/2010/05/11/four-airports-in-the-canary-islands-and-three-in-southern-spain-are-closed-spain-s-air-traffic-control-agency-aena-said.json)  [XML](/news/2010/05/11/four-airports-in-the-canary-islands-and-three-in-southern-spain-are-closed-spain-s-air-traffic-control-agency-aena-said.xml)  
+
 ### [2010-05-11](/news/2010/05/11/index.md)
 
+##### Canary Islands'
 # Four airports in the Canary Islands and three in southern Spain are closed, Spain's air traffic control agency Aena said. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8674241.stm)
-2. [CNBC](http://www.cnbc.com/id/37078497)
+2. [CNBC](https://www.cnbc.com/id/37078497)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/15/fifty-four-percent-of-participating-venezuelan-voters-approve-a-constitutional-referendum-to-remove-term-limits-for-elected-offices-includ.html)  [JSON](/news/2009/02/15/fifty-four-percent-of-participating-venezuelan-voters-approve-a-constitutional-referendum-to-remove-term-limits-for-elected-offices-includ.json)  [XML](/news/2009/02/15/fifty-four-percent-of-participating-venezuelan-voters-approve-a-constitutional-referendum-to-remove-term-limits-for-elected-offices-includ.xml)  
+
 ### [2009-02-15](/news/2009/02/15/index.md)
 
+##### Venezuela
 #  Fifty-four percent of participating Venezuelan voters approve a constitutional referendum to remove term limits for elected offices, including the Presidency. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/7891856.stm)
 

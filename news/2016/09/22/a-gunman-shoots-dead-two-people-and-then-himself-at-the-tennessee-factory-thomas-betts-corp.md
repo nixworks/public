@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/22/a-gunman-shoots-dead-two-people-and-then-himsel
 
 ### [2016-09-22](/news/2016/09/22/index.md)
 
+##### Tennessee
 # A gunman shoots dead two people and then himself at the Tennessee factory Thomas & Betts Corp. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

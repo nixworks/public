@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2011/08/30/a-ttc-bus-collides-with-a-hydraulic-crane-mounted-on-a-construction-truck-on-lawrence-avenue-toronto-killing-one-and-injuring-thirteen-in.html)  [JSON](/news/2011/08/30/a-ttc-bus-collides-with-a-hydraulic-crane-mounted-on-a-construction-truck-on-lawrence-avenue-toronto-killing-one-and-injuring-thirteen-in.json)  [XML](/news/2011/08/30/a-ttc-bus-collides-with-a-hydraulic-crane-mounted-on-a-construction-truck-on-lawrence-avenue-toronto-killing-one-and-injuring-thirteen-in.xml)  
+
 ### [2011-08-30](/news/2011/08/30/index.md)
 
+##### TTC
 # A TTC bus collides with a hydraulic crane mounted on a construction truck on Lawrence Avenue Toronto, killing one and injuring thirteen, in the first such incident since the Russell Hill subway accident in 1995. 
 
-TTC vehicle and crane truck crash near Lawrence and DVP
 
 
-### Source:
 
-1. [Globe and Mail](http://www.theglobeandmail.com/news/national/toronto/one-dead-9-hurt-in-ttc-bus-collision/article2147364/)
+### Sources:
+
+1. [Globe and Mail](https://www.theglobeandmail.com/news/national/toronto/one-dead-9-hurt-in-ttc-bus-collision/article2147364/)
 2. [The Hamilton Spectator](http://www.thespec.com/news/ontario/article/587039--toronto-bus-crash-kills-one-injures-13)
 3. [Vancouver Sun](http://www.vancouversun.com/dead+after+Toronto+crash/5329395/story.html)
-3. [Cover Image](http://beta.images.theglobeandmail.com/media/www/images/flag/gam-square.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/5/refugees-fleeing-homs-in-syria-accuse-security-forces-of-committing-atrocities-there.html)  [JSON](/news/2012/03/5/refugees-fleeing-homs-in-syria-accuse-security-forces-of-committing-atrocities-there.json)  [XML](/news/2012/03/5/refugees-fleeing-homs-in-syria-accuse-security-forces-of-committing-atrocities-there.xml)  
+
 ### [2012-03-5](/news/2012/03/5/index.md)
 
+##### Homs
 # Refugees fleeing Homs in Syria accuse security forces of committing atrocities there. 
 
 People fleeing Homs tell a BBC correspondent outside the Syrian city that security forces are committing atrocities, including summary executions.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17255912)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58878000/jpg/_58878255_58878252.jpg)

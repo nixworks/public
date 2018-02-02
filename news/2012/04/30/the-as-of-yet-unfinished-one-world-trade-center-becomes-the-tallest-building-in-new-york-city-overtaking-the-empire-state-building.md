@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/30/the-as-of-yet-unfinished-one-world-trade-center-becomes-the-tallest-building-in-new-york-city-overtaking-the-empire-state-building.html)  [JSON](/news/2012/04/30/the-as-of-yet-unfinished-one-world-trade-center-becomes-the-tallest-building-in-new-york-city-overtaking-the-empire-state-building.json)  [XML](/news/2012/04/30/the-as-of-yet-unfinished-one-world-trade-center-becomes-the-tallest-building-in-new-york-city-overtaking-the-empire-state-building.xml)  
+
 ### [2012-04-30](/news/2012/04/30/index.md)
 
+##### One World Trade Center
 # The as of yet unfinished One World Trade Center becomes the tallest building in New York City, overtaking the Empire State Building. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/8301-201_162-57424100/world-trade-center-tower-surpasses-empire-state/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/04/30/7c736925-a644-11e2-a3f0-029118418759/Empire-State-Building-and-World-Trade-One.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/27/moderate-conservative-john-tory-is-elected-mayor-of-toronto-ontario.html)  [JSON](/news/2014/10/27/moderate-conservative-john-tory-is-elected-mayor-of-toronto-ontario.json)  [XML](/news/2014/10/27/moderate-conservative-john-tory-is-elected-mayor-of-toronto-ontario.xml)  
+
 ### [2014-10-27](/news/2014/10/27/index.md)
 
+##### John Tory
 # Moderate conservative John Tory is elected Mayor of Toronto, Ontario.
 
 TORONTO has elected a moderate conservative as mayor, ending the scandal-ridden Rob Ford era.
 
 
-### Source:
+### Sources:
 
 1. [News.com.au](http://www.news.com.au/world/breaking-news/toronto-elects-a-new-mayor-ends-ford-era/story-e6frfkui-1227104614296)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

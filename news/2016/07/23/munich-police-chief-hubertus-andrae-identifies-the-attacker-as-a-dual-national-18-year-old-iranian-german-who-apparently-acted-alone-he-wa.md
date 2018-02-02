@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/23/munich-police-chief-hubertus-andrae-identifies-
 
 ### [2016-07-23](/news/2016/07/23/index.md)
 
+##### 2016 Munich shooting
 # Munich Police Chief Hubertus Andrae identifies the attacker as a dual national, 18-year-old Iranian-German who apparently acted alone. He was found dead of a suspected self-inflicted gunshot wound to his head. 
 
 A German-Iranian teenager who shot dead nine people in Munich was a deranged lone gunman obsessed with mass killings who drew no inspiration from Islamist militancy, police said on Saturday.

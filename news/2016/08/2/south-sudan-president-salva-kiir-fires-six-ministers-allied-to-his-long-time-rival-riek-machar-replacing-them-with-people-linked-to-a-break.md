@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/2/south-sudan-president-salva-kiir-fires-six-minis
 
 ### [2016-08-2](/news/2016/08/2/index.md)
 
+##### South Sudan President
 # South Sudan President Salva Kiir fires six ministers allied to his long-time rival Riek Machar, replacing them with people linked to a breakaway faction of Machar's SPLM-IO party. 
 
 

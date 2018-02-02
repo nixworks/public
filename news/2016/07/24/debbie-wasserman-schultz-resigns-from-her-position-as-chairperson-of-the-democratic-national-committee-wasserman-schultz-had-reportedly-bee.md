@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/24/debbie-wasserman-schultz-resigns-from-her-posit
 
 ### [2016-07-24](/news/2016/07/24/index.md)
 
+##### 2016 Democratic National Convention
 # Debbie Wasserman Schultz resigns from her position as Chairperson of the Democratic National Committee. Wasserman Schultz had reportedly been removed from a speaking role after a WikiLeaks email leak proved her implicit support of Hillary Clinton's campaign during the primaries. Her resignation will take effect upon the close of the convention. Donna Brazile will serve as interim chair. 
 
 The head of the Democratic Party resigned on Sunday amid a furor over embarrassing leaked emails, hoping to head off a growing rebellion by Bernie Sanders supporters on the eve of the convention to nominate Hillary Clinton for the White House.

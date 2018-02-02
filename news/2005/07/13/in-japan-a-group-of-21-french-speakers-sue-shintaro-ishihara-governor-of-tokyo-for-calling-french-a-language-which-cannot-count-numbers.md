@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/13/in-japan-a-group-of-21-french-speakers-sue-shintaro-ishihara-governor-of-tokyo-for-calling-french-a-language-which-cannot-count-numbers.html)  [JSON](/news/2005/07/13/in-japan-a-group-of-21-french-speakers-sue-shintaro-ishihara-governor-of-tokyo-for-calling-french-a-language-which-cannot-count-numbers.json)  [XML](/news/2005/07/13/in-japan-a-group-of-21-french-speakers-sue-shintaro-ishihara-governor-of-tokyo-for-calling-french-a-language-which-cannot-count-numbers.xml)  
+
 ### [2005-07-13](/news/2005/07/13/index.md)
 
+##### French
 #  In Japan, a group of 21 French speakers sue Shintaro Ishihara, governor of Tokyo, for calling French "a language which cannot count numbers". 
 
 The Asahi Shimbun is widely regarded for its journalism as the most respected daily newspaper in Japan. The English version offers selected articles from the vernacular Asahi Shimbun, as well as extensive coverage of cool Japan,focusing on manga, travel and other timely news
 
 
-### Source:
+### Sources:
 
 1. [Asahi Shimbun](http://www.asahi.com/english/Herald-asahi/TKY200507140183.html)
 2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=oddlyEnoughNews&storyID=2005-07-13T195406Z_01_YUE371609_RTRIDST_0_OUKOE-JAPAN-FRENCH-LAWSUIT.XML)

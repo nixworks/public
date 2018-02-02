@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/4/the-british-chambers-of-commerce-suspends-direct
 
 ### [2016-03-4](/news/2016/03/4/index.md)
 
+##### European Union membership referendum
 # The British Chambers of Commerce suspends Director-General John Longworth for announcing his personal views on Brexit. The BCC, whose members are split on this issue, will not campaign for either side. 
 
 The boss of business group the British Chambers of Commerce is suspended over his personal views on the EU referendum.

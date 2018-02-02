@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/4/the-mexican-institutional-revolutionary-party-pri-the-country-s-current-opposition-party-that-ruled-for-over-70-years-has-claimed-victo.html)  [JSON](/news/2005/07/4/the-mexican-institutional-revolutionary-party-pri-the-country-s-current-opposition-party-that-ruled-for-over-70-years-has-claimed-victo.json)  [XML](/news/2005/07/4/the-mexican-institutional-revolutionary-party-pri-the-country-s-current-opposition-party-that-ruled-for-over-70-years-has-claimed-victo.xml)  
+
 ### [2005-07-4](/news/2005/07/4/index.md)
 
+##### Institutional Revolutionary Party
 #  The Mexican Institutional Revolutionary Party (PRI), the country's current opposition party that ruled for over 70 years, has claimed victory in elections for the governor of the country's most populated state, Mexico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4647389.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/18/palestinian-prime-minister-salam-fayyad-says-that-there-has-been-a-change-in-the-palestinian-mindset-and-they-are-fully-committed-to-non-vi.html)  [JSON](/news/2010/12/18/palestinian-prime-minister-salam-fayyad-says-that-there-has-been-a-change-in-the-palestinian-mindset-and-they-are-fully-committed-to-non-vi.json)  [XML](/news/2010/12/18/palestinian-prime-minister-salam-fayyad-says-that-there-has-been-a-change-in-the-palestinian-mindset-and-they-are-fully-committed-to-non-vi.xml)  
+
 ### [2010-12-18](/news/2010/12/18/index.md)
 
+##### Salam Fayyad
 # Palestinian Prime Minister Salam Fayyad says that there has been a change in the Palestinian mindset and they "are fully committed to non-violence". 
 
 In Israeli television interview, PA prime minister says Palestinian mindset changed, &quot;they are fully committed to non-violence.&quot;
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=200004)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=137728)

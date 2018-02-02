@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/30/moldovan-president-vladimir-voronin-says-he-is-ready-for-dialogue-with-all-political-forces-represented-in-the-new-parliament.html)  [JSON](/news/2009/07/30/moldovan-president-vladimir-voronin-says-he-is-ready-for-dialogue-with-all-political-forces-represented-in-the-new-parliament.json)  [XML](/news/2009/07/30/moldovan-president-vladimir-voronin-says-he-is-ready-for-dialogue-with-all-political-forces-represented-in-the-new-parliament.xml)  
+
 ### [2009-07-30](/news/2009/07/30/index.md)
 
+##### Moldova
 #  Moldovan President Vladimir Voronin says he is ready for dialogue "with all political forces represented in the new parliament". 
 
 The Communist President Vladimir Voronin of Moldova has said that he is ready for dialogue &#39;with all political forces represented in the new parliament.&#39;
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0730/moldova.html)
 1. [Cover Image](https://img.rasset.ie/000212e8-1600.jpg)

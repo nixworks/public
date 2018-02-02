@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/23/at-least-18-people-are-injured-by-a-blast-on-a-bus-in-the-outskirts-of-the-sri-lankan-capital-colombo.html)  [JSON](/news/2008/02/23/at-least-18-people-are-injured-by-a-blast-on-a-bus-in-the-outskirts-of-the-sri-lankan-capital-colombo.json)  [XML](/news/2008/02/23/at-least-18-people-are-injured-by-a-blast-on-a-bus-in-the-outskirts-of-the-sri-lankan-capital-colombo.xml)  
+
 ### [2008-02-23](/news/2008/02/23/index.md)
 
+##### bus
 #  At least 18 people are injured by a blast on a bus in the outskirts of the Sri Lankan capital Colombo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7260255.stm)
 

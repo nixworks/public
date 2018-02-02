@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2005/10/7/militants-kill-at-least-8-members-of-the-ahmadiyya-faith-inside-a-mosque-as-worshippers-were-performing-salah-the-attack-occurred-in-mandi.html)  [JSON](/news/2005/10/7/militants-kill-at-least-8-members-of-the-ahmadiyya-faith-inside-a-mosque-as-worshippers-were-performing-salah-the-attack-occurred-in-mandi.json)  [XML](/news/2005/10/7/militants-kill-at-least-8-members-of-the-ahmadiyya-faith-inside-a-mosque-as-worshippers-were-performing-salah-the-attack-occurred-in-mandi.xml)  
+
 ### [2005-10-7](/news/2005/10/7/index.md)
 
+##### Ahmadiyya
 #  Militants kill at least 8 members of the Ahmadiyya faith inside a Mosque as worshippers were performing Salah. The attack occurred in Mandi Bahauddin in Punjab, Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4317998.stm)
 
 ### Related:
 
-1. [Pakistan detains Hafiz Muhammad Saeed, the suspected mastermind of the 2008 attacks in the Indian city. Saeed, co-founder of the active terrorist organization Lashkar-e-Taiba, is being held under house arrest in Lahore in Pakistan's Punjab Province. Four other men are also under house arrest in the area. ](/news/2017/01/31/pakistan-detains-hafiz-muhammad-saeed-the-suspected-mastermind-of-the-2008-attacks-in-the-indian-city-saeed-co-founder-of-the-active-terr.md) _Context: Pakistan, Punjab_
-2. [The government of Pakistan warns that it will push to clear the Islamist protests occurring in Islamabad. Protests have broken out in the capital and other cities ever since Mumtaz Qadri was executed last February for his role in killing Punjab governor Salmaan Taseer in 2011 because he opposed Pakistan's blasphemy laws. ](/news/2016/03/30/the-government-of-pakistan-warns-that-it-will-push-to-clear-the-islamist-protests-occurring-in-islamabad-protests-have-broken-out-in-the-ca.md) _Context: Pakistan, Punjab_
-3. [Thousands of protestors rally in front of the Parliament of Pakistan in Islamabad in support of Mumtaz Qadri, the killer of reformist Punjab governor Salmaan Taseer in 2011 who was subsequently executed last February. The Pakistan Army was called in to control the situation. ](/news/2016/03/28/thousands-of-protestors-rally-in-front-of-the-parliament-of-pakistan-in-islamabad-in-support-of-mumtaz-qadri-the-killer-of-reformist-punjab.md) _Context: Pakistan, Punjab_
-4. [Pakistani authorities hang Mumtaz Qadri for his role in the murder of reformist Punjab governor Salmaan Taseer in 2011. ](/news/2016/02/29/pakistani-authorities-hang-mumtaz-qadri-for-his-role-in-the-murder-of-reformist-punjab-governor-salmaan-taseer-in-2011.md) _Context: Pakistan, Punjab_
-5. [At least 10 people are killed and 12 injured when a suicide-bomber attacks a Pakistani Shia Mosque and Imambargah during prayers in the District Bagh of Kachhi 300 Km from Quetta in Balochistan. ](/news/2015/10/22/at-least-10-people-are-killed-and-12-injured-when-a-suicide-bomber-attacks-a-pakistani-shia-mosque-and-imambargah-during-prayers-in-the-dist.md) _Context: Pakistan, mosque_
+1. [At least 10 people are killed and 12 injured when a suicide-bomber attacks a Pakistani Shia Mosque and Imambargah during prayers in the District Bagh of Kachhi 300 Km from Quetta in Balochistan. ](/news/2015/10/22/at-least-10-people-are-killed-and-12-injured-when-a-suicide-bomber-attacks-a-pakistani-shia-mosque-and-imambargah-during-prayers-in-the-dist.md) _Context: Mosque, Pakistan_
+2. [ Militants launch attacks on police in Lahore, the capital of Punjab province, in Pakistan, killing 31 people after a week of violence in which more than 100 people died. ](/news/2009/10/15/militants-launch-attacks-on-police-in-lahore-the-capital-of-punjab-province-in-pakistan-killing-31-people-after-a-week-of-violence-in-wh.md) _Context: Pakistan, Punjab_
+3. [ Six Christians are killed in religious unrest in Punjab, Pakistan, after days of tension following an alleged desecration of a Qur'an. ](/news/2009/08/1/six-christians-are-killed-in-religious-unrest-in-punjab-pakistan-after-days-of-tension-following-an-alleged-desecration-of-a-quraan.md) _Context: Pakistan, Punjab_
+4. [ Pakistani police arrest approximately 50 supporters of former Prime Minister Nawaz Sharif's Pakistan Muslim League in Punjab prior to his return to Pakistan next week. ](/news/2007/09/5/pakistani-police-arrest-approximately-50-supporters-of-former-prime-minister-nawaz-sharif-s-pakistan-muslim-league-in-punjab-prior-to-his-r.md) _Context: Pakistan, Punjab_
+5. [ Pakistani forces storm the Lal Masjid Mosque in Islamabad, bringing the Lal Masjid siege to an end. At least 3 soldiers and 40 militants die in the assault. [https:--www.reuters.com-article-topNews-idUSISL18833720070710?feedType=RSS (Reuters)] [http:--www.foxnews.com-story-0,2933,288736,00.html (FOX)]. Abdul Rashid Ghazi, a top clerics was confirmed dead according to Interior ministry sources.](/news/2007/07/10/pakistani-forces-storm-the-lal-masjid-mosque-in-islamabad-bringing-the-lal-masjid-siege-to-an-end-at-least-3-soldiers-and-40-militants-di.md) _Context: Mosque, Pakistan_

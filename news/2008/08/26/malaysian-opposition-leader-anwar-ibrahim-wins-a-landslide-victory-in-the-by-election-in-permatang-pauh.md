@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/08/26/malaysian-opposition-leader-anwar-ibrahim-wins-a-landslide-victory-in-the-by-election-in-permatang-pauh.html)  [JSON](/news/2008/08/26/malaysian-opposition-leader-anwar-ibrahim-wins-a-landslide-victory-in-the-by-election-in-permatang-pauh.json)  [XML](/news/2008/08/26/malaysian-opposition-leader-anwar-ibrahim-wins-a-landslide-victory-in-the-by-election-in-permatang-pauh.xml)  
+
 ### [2008-08-26](/news/2008/08/26/index.md)
 
+##### Malaysia
 #  Malaysian opposition leader Anwar Ibrahim wins a landslide victory in the by-election in Permatang Pauh. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080826/ap_on_re_as/malaysia_anwar)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20080826/ap_on_re_as/malaysia_anwar)
 
 ### Related:
 

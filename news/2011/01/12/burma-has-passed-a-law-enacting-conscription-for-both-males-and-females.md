@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/12/burma-has-passed-a-law-enacting-conscription-for-both-males-and-females.html)  [JSON](/news/2011/01/12/burma-has-passed-a-law-enacting-conscription-for-both-males-and-females.json)  [XML](/news/2011/01/12/burma-has-passed-a-law-enacting-conscription-for-both-males-and-females.xml)  
+
 ### [2011-01-12](/news/2011/01/12/index.md)
 
+##### Burma
 # Burma has passed a law enacting conscription for both males and females.
 
 Burmese men and women above the age of 18 required to serve up to three years in the military or face half a decade in prison
 
 
-### Source:
+### Sources:
 
 1. [AP via Google](http://www.google.com/hostednews/ukpress/article/ALeqM5iER3nuRWw5nz_MTulPlGhKiwzfWQ?docId=N0060871294635449524A)
 2. [Democratic Voice of Burma](http://www.dvb.no/news/burma-introduces-military-draft/13640)

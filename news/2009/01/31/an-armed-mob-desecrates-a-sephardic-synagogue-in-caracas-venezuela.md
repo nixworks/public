@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/31/an-armed-mob-desecrates-a-sephardic-synagogue-in-caracas-venezuela.html)  [JSON](/news/2009/01/31/an-armed-mob-desecrates-a-sephardic-synagogue-in-caracas-venezuela.json)  [XML](/news/2009/01/31/an-armed-mob-desecrates-a-sephardic-synagogue-in-caracas-venezuela.xml)  
+
 ### [2009-01-31](/news/2009/01/31/index.md)
 
+##### Sephardic
 #  An armed mob desecrates a Sephardic synagogue in Caracas, Venezuela. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/7863356.stm)
 

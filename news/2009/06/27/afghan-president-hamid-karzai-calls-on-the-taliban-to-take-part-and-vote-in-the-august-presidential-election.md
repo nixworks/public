@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/06/27/afghan-president-hamid-karzai-calls-on-the-taliban-to-take-part-and-vote-in-the-august-presidential-election.html)  [JSON](/news/2009/06/27/afghan-president-hamid-karzai-calls-on-the-taliban-to-take-part-and-vote-in-the-august-presidential-election.json)  [XML](/news/2009/06/27/afghan-president-hamid-karzai-calls-on-the-taliban-to-take-part-and-vote-in-the-august-presidential-election.xml)  
+
 ### [2009-06-27](/news/2009/06/27/index.md)
 
+##### Afghanistan
 #  Afghan President Hamid Karzai calls on the Taliban to take part and vote in the August presidential election. 
 
 The Afghan president urged the militants to refrain from disrupting the national elections in August and to cast ballots themselves.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2009/06/28/world/asia/28afghan.html?ref=world)
+1. [New York Times](https://www.nytimes.com/2009/06/28/world/asia/28afghan.html?ref=world)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-06/27/content_11611371.htm)
 2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 

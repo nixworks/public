@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/12/a-series-of-moderate-magnitude-4-5-earthquakes-hit-eastern-eritrea-preceding-reports-of-a-possible-volcanic-eruption.html)  [JSON](/news/2011/06/12/a-series-of-moderate-magnitude-4-5-earthquakes-hit-eastern-eritrea-preceding-reports-of-a-possible-volcanic-eruption.json)  [XML](/news/2011/06/12/a-series-of-moderate-magnitude-4-5-earthquakes-hit-eastern-eritrea-preceding-reports-of-a-possible-volcanic-eruption.xml)  
+
 ### [2011-06-12](/news/2011/06/12/index.md)
 
+##### Eritrea
 # A series of moderate magnitude 4-5 earthquakes hit eastern Eritrea, preceding reports of a possible volcanic eruption. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Earthquake Report](http://earthquake-report.com/2011/06/12/unusual-series-of-moderate-volcanic-earthquakes-in-eritrea-and-ethiopia/)
 2. [The Lincoln Tribune](http://lincolntribune.com/?p=13876)

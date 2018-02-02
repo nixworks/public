@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/18/the-united-nations-suspends-operations-in-south-eastern-afghanistan-following-the-fatal-16-november-shooting-of-bettina-goislard-a-french.html)  [JSON](/news/2003/11/18/the-united-nations-suspends-operations-in-south-eastern-afghanistan-following-the-fatal-16-november-shooting-of-bettina-goislard-a-french.json)  [XML](/news/2003/11/18/the-united-nations-suspends-operations-in-south-eastern-afghanistan-following-the-fatal-16-november-shooting-of-bettina-goislard-a-french.xml)  
+
 ### [2003-11-18](/news/2003/11/18/index.md)
 
+##### United Nations
 #  The United Nations suspends operations in south-eastern Afghanistan following the fatal 16 November shooting of Bettina Goislard, a French employee of the UNHCR.
 
 

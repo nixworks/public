@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/19/spacex-successfully-launches-a-falcon-9-rocket-
 
 ### [2017-02-19](/news/2017/02/19/index.md)
 
+##### SpaceX CRS-10
 # SpaceX successfully launches a Falcon 9 rocket from Kennedy Space Center, placing a Dragon spacecraft in orbit and recovering the launcher's first stage. The spacecraft will resupply the International Space Station.
 
 

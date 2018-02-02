@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/30/zimbabwe-s-morgan-tsvangirai-claims-ruling-party-status-as-the-leader-of-the-opposition-movement-for-democratic-change-delivers-a-state-o.html)  [JSON](/news/2008/05/30/zimbabwe-s-morgan-tsvangirai-claims-ruling-party-status-as-the-leader-of-the-opposition-movement-for-democratic-change-delivers-a-state-o.json)  [XML](/news/2008/05/30/zimbabwe-s-morgan-tsvangirai-claims-ruling-party-status-as-the-leader-of-the-opposition-movement-for-democratic-change-delivers-a-state-o.xml)  
+
 ### [2008-05-30](/news/2008/05/30/index.md)
 
+##### Zimbabwe
 #  Zimbabwe's Morgan Tsvangirai claims ruling party status as the leader of the opposition Movement for Democratic Change, delivers a "state of the nation" address to elected lawmakers from his party, and promises a "new era of opportunity" for Zimbabwe. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA](http://www.voanews.com/english/2008-05-30-voa47.cfm)
 

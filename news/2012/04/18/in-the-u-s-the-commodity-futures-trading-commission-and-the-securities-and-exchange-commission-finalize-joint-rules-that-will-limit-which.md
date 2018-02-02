@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/04/18/in-the-u-s-the-commodity-futures-trading-commission-and-the-securities-and-exchange-commission-finalize-joint-rules-that-will-limit-which.html)  [JSON](/news/2012/04/18/in-the-u-s-the-commodity-futures-trading-commission-and-the-securities-and-exchange-commission-finalize-joint-rules-that-will-limit-which.json)  [XML](/news/2012/04/18/in-the-u-s-the-commodity-futures-trading-commission-and-the-securities-and-exchange-commission-finalize-joint-rules-that-will-limit-which.xml)  
+
 ### [2012-04-18](/news/2012/04/18/index.md)
 
+##### U.S.
 # In the U.S., the Commodity Futures Trading Commission and the Securities and Exchange Commission finalize joint rules that will limit which firms must register with either or both of those agencies as "swap dealers." 
 
 U.S. regulators limited the number of market players that will be slapped with a pricey &quot;swap dealer&quot; tag, heeding warnings by swap users about getting too tough but dismaying advocates of greater oversight.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/04/18/us-financial-regulation-swaps-idUSBRE83H0YE20120418)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/04/18/us-financial-regulation-swaps-idUSBRE83H0YE20120418)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

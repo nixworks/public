@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/6/voters-in-benin-go-to-the-polls-for-the-first-ro
 
 ### [2016-03-6](/news/2016/03/6/index.md)
 
+##### Beninese presidential election, 2016
 # Voters in Benin go to the polls for the first round of voting in a presidential election with 33 candidates vying to replace current President Thomas Yayi Boni. 
 
 Voters in Benin went to the polls on Sunday in an election with a record number of independent candidates as outgoing President Thomas Yayi Boni is set to hand over power after two terms in office.

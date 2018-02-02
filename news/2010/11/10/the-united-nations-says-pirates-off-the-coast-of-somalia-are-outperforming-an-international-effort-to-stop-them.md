@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/10/the-united-nations-says-pirates-off-the-coast-of-somalia-are-outperforming-an-international-effort-to-stop-them.html)  [JSON](/news/2010/11/10/the-united-nations-says-pirates-off-the-coast-of-somalia-are-outperforming-an-international-effort-to-stop-them.json)  [XML](/news/2010/11/10/the-united-nations-says-pirates-off-the-coast-of-somalia-are-outperforming-an-international-effort-to-stop-them.xml)  
+
 ### [2010-11-10](/news/2010/11/10/index.md)
 
+##### United Nations
 # The United Nations says pirates off the coast of Somalia are "outperforming" an international effort to stop them. 
 
 UN officials say pirates off the Somalia coast are outperforming the multimillion-dollar global effort to stop them.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/2010111035515450904.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/10/2010111052337338580_20.jpg)

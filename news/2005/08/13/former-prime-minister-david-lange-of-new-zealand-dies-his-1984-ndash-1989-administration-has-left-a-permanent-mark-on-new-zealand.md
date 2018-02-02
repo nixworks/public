@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/13/former-prime-minister-david-lange-of-new-zealand-dies-his-1984-ndash-1989-administration-has-left-a-permanent-mark-on-new-zealand.html)  [JSON](/news/2005/08/13/former-prime-minister-david-lange-of-new-zealand-dies-his-1984-ndash-1989-administration-has-left-a-permanent-mark-on-new-zealand.json)  [XML](/news/2005/08/13/former-prime-minister-david-lange-of-new-zealand-dies-his-1984-ndash-1989-administration-has-left-a-permanent-mark-on-new-zealand.xml)  
+
 ### [2005-08-13](/news/2005/08/13/index.md)
 
+##### Prime Minister
 #  Former Prime Minister David Lange of New Zealand dies. His 1984&ndash;1989 administration has left a permanent mark on New Zealand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NZ National Business Review](http://www.nbr.co.nz/home/column_article.asp?id=12631&cid=8&cname=News)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/29/astronaut-scott-kelly-sets-another-record-this-time-for-the-single-longest-spaceflight-216-days-by-an-american-his-iss-year-long-mission.html)  [JSON](/news/2015/10/29/astronaut-scott-kelly-sets-another-record-this-time-for-the-single-longest-spaceflight-216-days-by-an-american-his-iss-year-long-mission.json)  [XML](/news/2015/10/29/astronaut-scott-kelly-sets-another-record-this-time-for-the-single-longest-spaceflight-216-days-by-an-american-his-iss-year-long-mission.xml)  
+
 ### [2015-10-29](/news/2015/10/29/index.md)
 
+##### Scott Kelly
 # Astronaut Scott Kelly sets another record; this time for the single-longest spaceflight (216 days) by an American. His ISS year long mission is a scientific research project to study the health effects of long term spaceflight. Astronaut Michael Lopez-Alegria spent 215 consecutive days as Expedition 14 commander in 2006. Both are nowhere close to Valeri Polyakovs 437 days record. 
 
 Scott Kelly has officially spent more time in space than any other American.
 
 
-### Source:
+### Sources:
 
 1. [NASA](https://www.nasa.gov/feature/scott-kelly-becomes-us-astronaut-to-spend-the-most-time-living-in-space)
 2. [NBC News](http://www.nbcnews.com/tech/tech-news/astronaut-scott-kelly-sets-another-record-time-space-n453876)

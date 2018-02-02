@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/9/malala-yousafzai-a-15-year-old-activist-for-women-s-education-rights-is-shot-by-taliban-gunmen-in-the-swat-valley.html)  [JSON](/news/2012/10/9/malala-yousafzai-a-15-year-old-activist-for-women-s-education-rights-is-shot-by-taliban-gunmen-in-the-swat-valley.json)  [XML](/news/2012/10/9/malala-yousafzai-a-15-year-old-activist-for-women-s-education-rights-is-shot-by-taliban-gunmen-in-the-swat-valley.xml)  
+
 ### [2012-10-9](/news/2012/10/9/index.md)
 
+##### Malala Yousafzai
 # Malala Yousafzai, a 15-year-old activist for women's education rights, is shot by Taliban gunmen in the Swat Valley. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New York Times](http://thelede.blogs.nytimes.com/2012/10/09/pakistani-activist-14-shot-by-taliban/?ref=world&gwh=0E16BE9DB9276F620A4B7C57C7E7CD1A)
 
@@ -13,6 +17,6 @@
 
 1. [Pakistani schoolgirl blogger Malala Yousafzai, shot by the Taliban in October 2012, is discharged from hospital in the UK. ](/news/2013/01/4/pakistani-schoolgirl-blogger-malala-yousafzai-shot-by-the-taliban-in-october-2012-is-discharged-from-hospital-in-the-uk.md) _Context: Malala Yousafzai, Taliban_
 2. [Internationally celebrated teenage activist Malala Yousafzai is sent to the UK for further treatment after being shot in the head by a Taliban gunman. ](/news/2012/10/15/internationally-celebrated-teenage-activist-malala-yousafzai-is-sent-to-the-uk-for-further-treatment-after-being-shot-in-the-head-by-a-talib.md) _Context: Malala Yousafzai, Taliban_
-3. [The United States insists any Afghan peace deal must ensure women's rights as Afghanistan prepares to open a peace conference aimed at persuading Taliban leaders to put down their weapons. ](/news/2010/06/1/the-united-states-insists-any-afghan-peace-deal-must-ensure-women-s-rights-as-afghanistan-prepares-to-open-a-peace-conference-aimed-at-persu.md) _Context: Taliban, Women's rights_
-4. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Taliban_
-5. [Pakistani troops rescue Joshua Boyle and Caitlan Coleman, who have been held captive since 2012, and their three children from the Taliban. ](/news/2017/10/11/pakistani-troops-rescue-joshua-boyle-and-caitlan-coleman-who-have-been-held-captive-since-2012-and-their-three-children-from-the-taliban.md) _Context: Taliban_
+3. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: Taliban_
+4. [Six insurgents kill at least 18 people, including 4 Afghans and 14 foreigners, in a 13-hour gun battle. The Afghan Interior Ministry says that the siege ended when the last gunman was shot dead. NATO reports that "no foreign troops" died. The Taliban claim that they sent five suicide bombers armed with hand grenades and AK-47 assault rifles. The Afghan government blames the attack on the Pakistan-based Haqqani network. ](/news/2018/01/21/six-insurgents-kill-at-least-18-people-including-4-afghans-and-14-foreigners-in-a-13-hour-gun-battle-the-afghan-interior-ministry-says-th.md) _Context: Taliban_
+5. [Joshua Boyle, a Canadian man recently rescued from a Taliban linked group, is arrested on 15 charges, including assault, sexual assault, and unlawful confinement. ](/news/2018/01/2/joshua-boyle-a-canadian-man-recently-rescued-from-a-taliban-linked-group-is-arrested-on-15-charges-including-assault-sexual-assault-and.md) _Context: Taliban_

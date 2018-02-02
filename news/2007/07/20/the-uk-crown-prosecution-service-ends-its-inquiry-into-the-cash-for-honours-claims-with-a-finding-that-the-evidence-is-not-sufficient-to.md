@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/07/20/the-uk-crown-prosecution-service-ends-its-inquiry-into-the-cash-for-honours-claims-with-a-finding-that-the-evidence-is-not-sufficient-to.html)  [JSON](/news/2007/07/20/the-uk-crown-prosecution-service-ends-its-inquiry-into-the-cash-for-honours-claims-with-a-finding-that-the-evidence-is-not-sufficient-to.json)  [XML](/news/2007/07/20/the-uk-crown-prosecution-service-ends-its-inquiry-into-the-cash-for-honours-claims-with-a-finding-that-the-evidence-is-not-sufficient-to.xml)  
+
 ### [2007-07-20](/news/2007/07/20/index.md)
 
+##### UK
 #  The UK Crown Prosecution Service ends its inquiry into the "Cash for honours" claims with a finding that the evidence is not sufficient to warrant charges being laid. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/07/20/AR2007072002067.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2007/07/20/AR2007072002067.html)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

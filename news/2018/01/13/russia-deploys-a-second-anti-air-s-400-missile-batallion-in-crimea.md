@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/13/russia-deploys-a-second-anti-air-s-400-missile-
 
 ### [2018-01-13](/news/2018/01/13/index.md)
 
+##### Annexation of Crimea by the Russian Federation
 # Russia deploys a second anti-air S-400 missile batallion in Crimea. 
 
 Two battalions with S-400 systems would take up combat duty in Crimea in the beginning of 2018

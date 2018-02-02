@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/19/the-international-atomic-energy-agency-iaea-the-united-nations-nuclear-agency-finds-undeclared-components-in-iran-compatible-with-advan.html)  [JSON](/news/2004/02/19/the-international-atomic-energy-agency-iaea-the-united-nations-nuclear-agency-finds-undeclared-components-in-iran-compatible-with-advan.json)  [XML](/news/2004/02/19/the-international-atomic-energy-agency-iaea-the-united-nations-nuclear-agency-finds-undeclared-components-in-iran-compatible-with-advan.xml)  
+
 ### [2004-02-19](/news/2004/02/19/index.md)
 
+##### IAEA
 #  The International Atomic Energy Agency (IAEA), the United Nations nuclear agency, finds undeclared components in Iran compatible with advanced uranium centrifuge designs, increasing Western concerns that it may be developing nuclear weapons. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretzdaily.com/hasen/spages/396159.html)
 

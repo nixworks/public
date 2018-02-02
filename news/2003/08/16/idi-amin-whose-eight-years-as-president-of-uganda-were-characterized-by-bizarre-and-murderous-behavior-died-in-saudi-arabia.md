@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/16/idi-amin-whose-eight-years-as-president-of-uganda-were-characterized-by-bizarre-and-murderous-behavior-died-in-saudi-arabia.html)  [JSON](/news/2003/08/16/idi-amin-whose-eight-years-as-president-of-uganda-were-characterized-by-bizarre-and-murderous-behavior-died-in-saudi-arabia.json)  [XML](/news/2003/08/16/idi-amin-whose-eight-years-as-president-of-uganda-were-characterized-by-bizarre-and-murderous-behavior-died-in-saudi-arabia.xml)  
+
 ### [2003-08-16](/news/2003/08/16/index.md)
 
+##### Idi Amin
 #  Idi Amin, whose eight years as president of Uganda were characterized by bizarre and murderous behavior, died in Saudi Arabia.
 
 
@@ -9,6 +13,6 @@
 
 1. [ Former Ugandan dictator Idi Amin is in a coma at a hospital in Jeddah, Saudi Arabia, and Uganda has refused permission for him to return.](/news/2003/07/20/former-ugandan-dictator-idi-amin-is-in-a-coma-at-a-hospital-in-jeddah-saudi-arabia-and-uganda-has-refused-permission-for-him-to-return.md) _Context: Idi Amin, Saudi Arabia, Uganda_
 2. [ In Uganda, police find the body of Shaban Kirunda Nkutu, killed in 1973 during the reign of Idi Amin. ](/news/2005/01/31/in-uganda-police-find-the-body-of-shaban-kirunda-nkutu-killed-in-1973-during-the-reign-of-idi-amin.md) _Context: Idi Amin, Uganda_
-3. [A Saudi national opens fire at the Al-Salam Royal Palace in Jeddah, Saudi Arabia, killing two guards and injuring three others. Security guards shoot and kill the gunman. ](/news/2017/10/7/a-saudi-national-opens-fire-at-the-al-salam-royal-palace-in-jeddah-saudi-arabia-killing-two-guards-and-injuring-three-others-security-gua.md) _Context: Saudi Arabia_
-4. [King Salman of Saudi Arabia visits Russian President Vladimir Putin in the Moscow Kremlin. They discuss oil prices and the Syrian Civil War. ](/news/2017/10/5/king-salman-of-saudi-arabia-visits-russian-president-vladimir-putin-in-the-moscow-kremlin-they-discuss-oil-prices-and-the-syrian-civil-war.md) _Context: Saudi Arabia_
-5. [Palestinian factions, Hamas and Fatah, sign a unity deal in Cairo, that is also publicly supported by the governments of Egypt and Saudi Arabia. The Fatah-controlled Palestinian National Authority (PNA), along with Israel, currently govern the West Bank. According to the signatories of the deal, the PNA will take administrative control of the Gaza Strip, and, along with Hamas, police its borders. The signatories consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. The government of Israel opposes any involvement by Hamas in a Palestinian government. ](/news/2017/10/12/palestinian-factions-hamas-and-fatah-sign-a-unity-deal-in-cairo-that-is-also-publicly-supported-by-the-governments-of-egypt-and-saudi-ara.md) _Context: Saudi Arabia_
+3. [Tens of thousands of Pentecostal Christians in Mbarara, Uganda take to the streets with songs of praise and thanks to hold a common celebration seen as a way of dedicating people's lives to Christ and preaching the gospel across the entire district. ](/news/2018/01/25/tens-of-thousands-of-pentecostal-christians-in-mbarara-uganda-take-to-the-streets-with-songs-of-praise-and-thanks-to-hold-a-common-celebrat.md) _Context: Uganda_
+4. [For the first time, Saudi Arabia allows women to spectate at football matches, part of an easing of strict rules on gender separation by the ultra-conservative Muslim country. ](/news/2018/01/12/for-the-first-time-saudi-arabia-allows-women-to-spectate-at-football-matches-part-of-an-easing-of-strict-rules-on-gender-separation-by-the.md) _Context: Saudi Arabia_
+5. [Value Added Tax (VAT) has been introduced in Saudi Arabia and the United Arab Emirates for the first time. ](/news/2018/01/1/value-added-tax-vat-has-been-introduced-in-saudi-arabia-and-the-united-arab-emirates-for-the-first-time.md) _Context: Saudi Arabia_

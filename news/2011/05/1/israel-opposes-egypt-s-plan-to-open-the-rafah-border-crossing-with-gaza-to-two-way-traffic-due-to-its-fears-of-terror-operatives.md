@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/1/israel-opposes-egypt-s-plan-to-open-the-rafah-border-crossing-with-gaza-to-two-way-traffic-due-to-its-fears-of-terror-operatives.html)  [JSON](/news/2011/05/1/israel-opposes-egypt-s-plan-to-open-the-rafah-border-crossing-with-gaza-to-two-way-traffic-due-to-its-fears-of-terror-operatives.json)  [XML](/news/2011/05/1/israel-opposes-egypt-s-plan-to-open-the-rafah-border-crossing-with-gaza-to-two-way-traffic-due-to-its-fears-of-terror-operatives.xml)  
+
 ### [2011-05-1](/news/2011/05/1/index.md)
 
+##### Israel
 # Israel opposes Egypt's plan to open the Rafah Border Crossing with Gaza to two-way traffic due to its fears of "terror operatives". 
 
 Opening Rafah would help Hamas build a formidable terrorist military machine, a government source says.
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=218525)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-05/01/c_13854392.htm)

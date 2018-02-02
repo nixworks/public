@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/7/tens-of-thousands-demonstrate-against-an-abortion-bill-in-several-spanish-cities.html)  [JSON](/news/2010/03/7/tens-of-thousands-demonstrate-against-an-abortion-bill-in-several-spanish-cities.json)  [XML](/news/2010/03/7/tens-of-thousands-demonstrate-against-an-abortion-bill-in-several-spanish-cities.xml)  
+
 ### [2010-03-7](/news/2010/03/7/index.md)
 
+##### abortion
 # Tens of thousands demonstrate against an abortion bill in several Spanish cities. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8554340.stm)
 2. [The Mercury](http://www.themercury.co.za/?fSectionId=&fArticleId=nw20100307173840545C210082)
@@ -13,7 +17,7 @@
 ### Related:
 
 1. [ The Spanish government formally unveils plans to liberalise the country's abortion law. ](/news/2009/09/26/the-spanish-government-formally-unveils-plans-to-liberalise-the-country-s-abortion-law.md) _Context: Spain, abortion_
-2. [Spain's third largest bank, CaixaBank, announces it is moving its legal base out of Catalonia to Valencia. This follows a similar move yesterday by Catalan banking group Banco Sabadell who announced they are moving their headquarters to Alicante in response to growing political insecurity in Catalonia. ](/news/2017/10/6/spain-s-third-largest-bank-caixabank-announces-it-is-moving-its-legal-base-out-of-catalonia-to-valencia-this-follows-a-similar-move-yeste.md) _Context: Spain_
-3. [Pro-independent trade unions, businesses, and schools in Catalonia hold a general strike to protest Spanish police brutality during the October 1 independence referendum. ](/news/2017/10/3/pro-independent-trade-unions-businesses-and-schools-in-catalonia-hold-a-general-strike-to-protest-spanish-police-brutality-during-the-octo.md) _Context: Spain_
-4. ["Nature" publishes research from The Institute of Astrophysics of Andalusia at the Glorieta de la Astronomia of Granada, Spain, describing the discovery that a ring system orbits the trans-Neptunian dwarf planet Haumea. ](/news/2017/10/11/nature-publishes-research-from-the-institute-of-astrophysics-of-andalusia-at-the-glorieta-de-la-astronomaa-of-granada-spain-describing.md) _Context: Spain_
-5. [The government of Catalonia holds a public referendum on whether their region should gain independence from Spain, despite the Spanish courts and government declaring the vote illegal and deploying police to deter voters. Catalan President Carles Puigdemont says Catalonia "has won the right to become an independent state." ](/news/2017/10/1/the-government-of-catalonia-holds-a-public-referendum-on-whether-their-region-should-gain-independence-from-spain-despite-the-spanish-court.md) _Context: Spain_
+2. [Carles Puigdemont, ex-President of Catalonia, travels to Denmark while Spanish Attorney General requests the European Arrest Warrant. The Speaker of the Catalan Parliament appoints Puigdemont to be invested as President. Spain's Supreme Court refuses to reactivate the arrest warrant. ](/news/2018/01/22/carles-puigdemont-ex-president-of-catalonia-travels-to-denmark-while-spanish-attorney-general-requests-the-european-arrest-warrant-the-sp.md) _Context: Spain_
+3. [Spain withdraws the international arrest warrant for five former Catalan officials now residing in Belgium. The charges of sedition and rebellion, however, remain. ](/news/2017/12/5/spain-withdraws-the-international-arrest-warrant-for-five-former-catalan-officials-now-residing-in-belgium-the-charges-of-sedition-and-rebe.md) _Context: Spain_
+4. [The prosecutor in a Brussels court repeats the demand to extradite Carles Puigdemont and four other former Catalan officials to Spain. The defense says that the adduced facts are "not punishable" under Belgian law. The judge delays the decision until December 14. ](/news/2017/12/4/the-prosecutor-in-a-brussels-court-repeats-the-demand-to-extradite-carles-puigdemont-and-four-other-former-catalan-officials-to-spain-the-d.md) _Context: Spain_
+5. [The Supreme Court of Justice of Guatemala rules not to allow the implementation of a usage manual from the Procuratorate of Human Rights for talks and workshops about sexuality due to the document's views on abortion, which, except risk for mother's life, is illegal in the country. ](/news/2017/12/14/the-supreme-court-of-justice-of-guatemala-rules-not-to-allow-the-implementation-of-a-usage-manual-from-the-procuratorate-of-human-rights-for.md) _Context: abortion_

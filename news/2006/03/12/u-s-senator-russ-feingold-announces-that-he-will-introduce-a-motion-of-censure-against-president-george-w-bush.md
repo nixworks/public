@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/12/u-s-senator-russ-feingold-announces-that-he-will-introduce-a-motion-of-censure-against-president-george-w-bush.html)  [JSON](/news/2006/03/12/u-s-senator-russ-feingold-announces-that-he-will-introduce-a-motion-of-censure-against-president-george-w-bush.json)  [XML](/news/2006/03/12/u-s-senator-russ-feingold-announces-that-he-will-introduce-a-motion-of-censure-against-president-george-w-bush.xml)  
+
 ### [2006-03-12](/news/2006/03/12/index.md)
 
+##### Russ Feingold
 #  U.S. Senator Russ Feingold announces that he will introduce a motion of censure against President George W. Bush. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RawStory](http://rawstory.com/news/2006/Democratic_senator_will_introduce_censure_motion_0312.html)
 

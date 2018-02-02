@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/5/norwegian-prosecutors-announce-that-they-have-abandoned-their-attempts-to-prosecute-jon-johansen-for-his-release-of-the-decss-dvd-decryptio.html)  [JSON](/news/2004/01/5/norwegian-prosecutors-announce-that-they-have-abandoned-their-attempts-to-prosecute-jon-johansen-for-his-release-of-the-decss-dvd-decryptio.json)  [XML](/news/2004/01/5/norwegian-prosecutors-announce-that-they-have-abandoned-their-attempts-to-prosecute-jon-johansen-for-his-release-of-the-decss-dvd-decryptio.xml)  
+
 ### [2004-01-5](/news/2004/01/5/index.md)
 
+##### Jon Johansen
 #  Norwegian prosecutors announce that they have abandoned their attempts to prosecute Jon Johansen for his release of the DeCSS DVD decryption software.
 
 

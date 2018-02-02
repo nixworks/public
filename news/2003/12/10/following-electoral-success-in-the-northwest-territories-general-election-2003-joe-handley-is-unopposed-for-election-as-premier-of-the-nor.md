@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/10/following-electoral-success-in-the-northwest-territories-general-election-2003-joe-handley-is-unopposed-for-election-as-premier-of-the-nor.html)  [JSON](/news/2003/12/10/following-electoral-success-in-the-northwest-territories-general-election-2003-joe-handley-is-unopposed-for-election-as-premier-of-the-nor.json)  [XML](/news/2003/12/10/following-electoral-success-in-the-northwest-territories-general-election-2003-joe-handley-is-unopposed-for-election-as-premier-of-the-nor.xml)  
+
 ### [2003-12-10](/news/2003/12/10/index.md)
 
+##### Northwest Territories general election, 2003
 #  Following electoral success in the Northwest Territories general election, 2003 Joe Handley is unopposed for election as premier of the Northwest Territories by the legislature. Two prospective opponents had chosen not to run against him. [http:--www.cbc.ca-stories-2003-12-10-nwt_premier031210]
 
 

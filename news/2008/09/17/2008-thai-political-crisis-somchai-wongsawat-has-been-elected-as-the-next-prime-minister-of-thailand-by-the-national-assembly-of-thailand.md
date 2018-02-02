@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/17/2008-thai-political-crisis-somchai-wongsawat-has-been-elected-as-the-next-prime-minister-of-thailand-by-the-national-assembly-of-thailand.html)  [JSON](/news/2008/09/17/2008-thai-political-crisis-somchai-wongsawat-has-been-elected-as-the-next-prime-minister-of-thailand-by-the-national-assembly-of-thailand.json)  [XML](/news/2008/09/17/2008-thai-political-crisis-somchai-wongsawat-has-been-elected-as-the-next-prime-minister-of-thailand-by-the-national-assembly-of-thailand.xml)  
+
 ### [2008-09-17](/news/2008/09/17/index.md)
 
+##### assemble
 #  2008 Thai political crisis: Somchai Wongsawat has been elected as the next Prime Minister of Thailand by the National Assembly of Thailand with King Bhumibol Adulyadej having to endorse the selection. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Canberra Times](http://www.canberratimes.com.au/news/local/news/general/wongsawat-named-as-thailand-pm/1275290.aspx?src=rss)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/9/afghanistan-s-president-hamid-karzai-resubmits-his-proposal-for-forming-the-cabinet-after-his-previous-selection-was-rejected-by-the-nationa.html)  [JSON](/news/2010/01/9/afghanistan-s-president-hamid-karzai-resubmits-his-proposal-for-forming-the-cabinet-after-his-previous-selection-was-rejected-by-the-nationa.json)  [XML](/news/2010/01/9/afghanistan-s-president-hamid-karzai-resubmits-his-proposal-for-forming-the-cabinet-after-his-previous-selection-was-rejected-by-the-nationa.xml)  
+
 ### [2010-01-9](/news/2010/01/9/index.md)
 
+##### Afghanistan
 # Afghanistan's President Hamid Karzai resubmits his proposal for forming the cabinet after his previous selection was rejected by the National Assembly. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jffTGAhPWjCtqXcS7P61s-WIdJkw)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=115689&sectionid=351020403)

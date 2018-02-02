@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/23/at-least-25-people-are-dead-in-hong-kong-and-southern-china-after-typhoon-usagi-passes-through-with-the-storm-having-killed-eight-people-in.html)  [JSON](/news/2013/09/23/at-least-25-people-are-dead-in-hong-kong-and-southern-china-after-typhoon-usagi-passes-through-with-the-storm-having-killed-eight-people-in.json)  [XML](/news/2013/09/23/at-least-25-people-are-dead-in-hong-kong-and-southern-china-after-typhoon-usagi-passes-through-with-the-storm-having-killed-eight-people-in.xml)  
+
 ### [2013-09-23](/news/2013/09/23/index.md)
 
+##### Hong Kong
 # At least 25 people are dead in Hong Kong and southern China after Typhoon Usagi passes through with the storm having killed eight people in the Philippines. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/hong-kong-braces-years-most-powerful-typhoon)
 2. [NBC News](http://worldnews.nbcnews.com/_news/2013/09/22/20638844-twenty-dead-after-powerful-typhoon-lashes-hong-kong?lite?ocid=twitter)

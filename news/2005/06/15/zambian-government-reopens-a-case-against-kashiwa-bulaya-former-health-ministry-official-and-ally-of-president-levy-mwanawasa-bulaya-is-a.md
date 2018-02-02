@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/06/15/zambian-government-reopens-a-case-against-kashiwa-bulaya-former-health-ministry-official-and-ally-of-president-levy-mwanawasa-bulaya-is-a.html)  [JSON](/news/2005/06/15/zambian-government-reopens-a-case-against-kashiwa-bulaya-former-health-ministry-official-and-ally-of-president-levy-mwanawasa-bulaya-is-a.json)  [XML](/news/2005/06/15/zambian-government-reopens-a-case-against-kashiwa-bulaya-former-health-ministry-official-and-ally-of-president-levy-mwanawasa-bulaya-is-a.xml)  
+
 ### [2005-06-15](/news/2005/06/15/index.md)
 
+##### Zambia
 #  Zambian government reopens a case against Kashiwa Bulaya, former health ministry official and ally of president Levy Mwanawasa. Bulaya is accused of diverting AIDS drugs funds 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica](http://allafrica.com/stories/200506150037.html)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8799619)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8799619)
 3. [Times of Zambia](http://www.times.co.zm/news/viewnews.cgi?category=4&id=1118877083)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

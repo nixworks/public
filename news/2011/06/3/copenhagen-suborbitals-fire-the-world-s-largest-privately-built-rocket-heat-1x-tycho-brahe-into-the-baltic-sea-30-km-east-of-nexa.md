@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2011/06/3/copenhagen-suborbitals-fire-the-world-s-largest-privately-built-rocket-heat-1x-tycho-brahe-into-the-baltic-sea-30-km-east-of-nexa.html)  [JSON](/news/2011/06/3/copenhagen-suborbitals-fire-the-world-s-largest-privately-built-rocket-heat-1x-tycho-brahe-into-the-baltic-sea-30-km-east-of-nexa.json)  [XML](/news/2011/06/3/copenhagen-suborbitals-fire-the-world-s-largest-privately-built-rocket-heat-1x-tycho-brahe-into-the-baltic-sea-30-km-east-of-nexa.xml)  
+
 ### [2011-06-3](/news/2011/06/3/index.md)
 
+##### Copenhagen Suborbitals
 # Copenhagen Suborbitals fire the world's largest privately-built rocket, HEAT 1X Tycho Brahe into the Baltic Sea, 30 km east of Nexo.
 
 

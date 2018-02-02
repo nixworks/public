@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/5/according-to-security-sources-dozens-of-people-a
 
 ### [2017-04-5](/news/2017/04/5/index.md)
 
+##### Iraqi Civil War (2014-present)
 # According to security sources, dozens of people are killed in an overnight attack in Tikrit by suspected ISIL militants. 31 bodies were taken to a hospital, according to a local doctor, while more continued to be found by morning. 
 
 Suspected ISIL fighters unleash overnight attacks after infiltrating northern Iraqi city, security sources say.

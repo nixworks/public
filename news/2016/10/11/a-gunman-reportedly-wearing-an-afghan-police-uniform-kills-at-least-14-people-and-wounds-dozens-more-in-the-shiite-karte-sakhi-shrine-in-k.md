@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/11/a-gunman-reportedly-wearing-an-afghan-police-un
 
 ### [2016-10-11](/news/2016/10/11/index.md)
 
+##### War in Afghanistan
 # A gunman, reportedly wearing an Afghan police uniform, kills at least 14 people and wounds dozens more in the Shiite Karte Sakhi shrine in Kabul on the beginning of Ashura. Police kill the attacker. 
 
 Gunmen walked into a Shiite mosque in the Afghan capital on Tuesday and opened fire, killing more than a dozen people and wounding many others inside.
@@ -16,7 +17,7 @@ Gunmen walked into a Shiite mosque in the Afghan capital on Tuesday and opened f
 
 ### Related:
 
-1. [A bomb explosion among crowds of Shiite Muslims gathered to mark Ashura, one of their holiest commemorations, kills at least 12 people and wounds 28 others. Also, authorities revise the death toll to 17 from yesterday's attack on a Kabul Shiite shrine. ](/news/2016/10/12/a-bomb-explosion-among-crowds-of-shiite-muslims-gathered-to-mark-ashura-one-of-their-holiest-commemorations-kills-at-least-12-people-and-w.md) _Context: Ashura, Kabul, Shi'ite, Violence against Shia Muslims, War in Afghanistan_
+1. [A bomb explosion among crowds of Shiite Muslims gathered to mark Ashura, one of their holiest commemorations, kills at least 12 people and wounds 28 others. Also, authorities revise the death toll to 17 from yesterday's attack on a Kabul Shiite shrine. ](/news/2016/10/12/a-bomb-explosion-among-crowds-of-shiite-muslims-gathered-to-mark-ashura-one-of-their-holiest-commemorations-kills-at-least-12-people-and-w.md) _Context: Kabul, Shia, Violence against Shia Muslims, War in Afghanistan_
 2. [A suicide attack on a police compound in Gardez, Paktia Province, kills at least 20 people, while a separate gun attack at a training facility in neighboring Ghazni Province leaves another 15 people dead. ](/news/2017/10/17/a-suicide-attack-on-a-police-compound-in-gardez-paktia-province-kills-at-least-20-people-while-a-separate-gun-attack-at-a-training-facili.md) _Context: War in Afghanistan, police_
 3. [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan, killing at least three people and injuring five. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan-killing-at-least-three-people-a.md) _Context: Kabul, War in Afghanistan_
 4. [A suicide car bombing in the western part of Kabul kills at least 24 and injures more than 40 people. Afghan authorities say the target of the attack was a bus of civilian government workers from the Ministry of Mines and Petroleum. ](/news/2017/07/24/a-suicide-car-bombing-in-the-western-part-of-kabul-kills-at-least-24-and-injures-more-than-40-people-afghan-authorities-say-the-target-of-t.md) _Context: Kabul, War in Afghanistan_

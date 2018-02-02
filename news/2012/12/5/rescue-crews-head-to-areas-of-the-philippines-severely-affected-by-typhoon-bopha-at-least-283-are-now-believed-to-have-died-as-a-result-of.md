@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2012/12/5/rescue-crews-head-to-areas-of-the-philippines-severely-affected-by-typhoon-bopha-at-least-283-are-now-believed-to-have-died-as-a-result-of.html)  [JSON](/news/2012/12/5/rescue-crews-head-to-areas-of-the-philippines-severely-affected-by-typhoon-bopha-at-least-283-are-now-believed-to-have-died-as-a-result-of.json)  [XML](/news/2012/12/5/rescue-crews-head-to-areas-of-the-philippines-severely-affected-by-typhoon-bopha-at-least-283-are-now-believed-to-have-died-as-a-result-of.xml)  
+
 ### [2012-12-5](/news/2012/12/5/index.md)
 
+##### Philippines
 # Rescue crews head to areas of the Philippines severely affected by Typhoon Bopha. At least 283 are now believed to have died as a result of the storm, with 339 injured, hundreds more missing and over 87,000 evacuated. 
 
 The death toll from a powerful storm battering the southern Philippines rises to about 200, as rescue teams head for affected areas.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/12/201212553732512410.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-20604423)
-3. [New York Times](http://www.nytimes.com/2012/12/06/world/asia/typhoon-said-to-have-killed-hundreds-in-philippines.html?ref=world)
+3. [New York Times](https://www.nytimes.com/2012/12/06/world/asia/typhoon-said-to-have-killed-hundreds-in-philippines.html?ref=world)
 4. [The Weather Channel](http://www.weather.com/news/typhoon-bopha-20121203)
 4. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64581000/jpg/_64581445_64581444.jpg)
 

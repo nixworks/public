@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/22/evo-morales-is-inaugurated-as-president-of-bolivia-becoming-the-country-s-first-indigenous-american-president.html)  [JSON](/news/2006/01/22/evo-morales-is-inaugurated-as-president-of-bolivia-becoming-the-country-s-first-indigenous-american-president.json)  [XML](/news/2006/01/22/evo-morales-is-inaugurated-as-president-of-bolivia-becoming-the-country-s-first-indigenous-american-president.xml)  
+
 ### [2006-01-22](/news/2006/01/22/index.md)
 
+##### Evo Morales
 #  Evo Morales is inaugurated as President of Bolivia, becoming the country's first indigenous American president. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory?id=1531155)
 

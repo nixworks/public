@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/17/assessment-suggests-the-possibility-that-social-networks-are-more-informed-than-u-s-intelligence-about-protesters-in-the-middle-east.html)  [JSON](/news/2011/02/17/assessment-suggests-the-possibility-that-social-networks-are-more-informed-than-u-s-intelligence-about-protesters-in-the-middle-east.json)  [XML](/news/2011/02/17/assessment-suggests-the-possibility-that-social-networks-are-more-informed-than-u-s-intelligence-about-protesters-in-the-middle-east.xml)  
+
 ### [2011-02-17](/news/2011/02/17/index.md)
 
+##### Arab Spring
 # Assessment suggests the possibility that social networks are more informed than U.S. intelligence about protesters in the Middle East. 
 
 Social networks may have known more than the US about Middle East revolts, assessment says.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/video/americas/2011/02/201121623452291874.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/17/2011217073147734_20.jpg)

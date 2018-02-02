@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/7/united-states-senator-john-ensign-announces-that-he-will-not-stand-in-the-2012-senate-elections-in-nevada.html)  [JSON](/news/2011/03/7/united-states-senator-john-ensign-announces-that-he-will-not-stand-in-the-2012-senate-elections-in-nevada.json)  [XML](/news/2011/03/7/united-states-senator-john-ensign-announces-that-he-will-not-stand-in-the-2012-senate-elections-in-nevada.xml)  
+
 ### [2011-03-7](/news/2011/03/7/index.md)
 
+##### Senator
 # United States Senator John Ensign announces that he will not stand in the 2012 Senate elections in Nevada. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox Las Vegas](http://www.fox5vegas.com/news/27108773/detail.html)
 2. [Las Vegas Sun](http://www.lasvegassun.com/news/2011/mar/07/john-ensign-plans-news-conference-discuss-politica/)

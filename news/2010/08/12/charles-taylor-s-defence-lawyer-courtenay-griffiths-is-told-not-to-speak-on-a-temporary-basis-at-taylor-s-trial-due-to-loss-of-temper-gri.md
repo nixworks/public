@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/12/charles-taylor-s-defence-lawyer-courtenay-griffiths-is-told-not-to-speak-on-a-temporary-basis-at-taylor-s-trial-due-to-loss-of-temper-gri.html)  [JSON](/news/2010/08/12/charles-taylor-s-defence-lawyer-courtenay-griffiths-is-told-not-to-speak-on-a-temporary-basis-at-taylor-s-trial-due-to-loss-of-temper-gri.json)  [XML](/news/2010/08/12/charles-taylor-s-defence-lawyer-courtenay-griffiths-is-told-not-to-speak-on-a-temporary-basis-at-taylor-s-trial-due-to-loss-of-temper-gri.xml)  
+
 ### [2010-08-12](/news/2010/08/12/index.md)
 
+##### Charles Taylor
 # Charles Taylor's defence lawyer Courtenay Griffiths is told not to speak, on a temporary basis, at Taylor's trial due to loss of temper; Griffiths apologises and is permitted to continue. 
 
 The defence lawyer of the former Liberian President Charles Taylor was temporarily banned from speaking at war crimes trial after losing his temper in court.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10955802)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

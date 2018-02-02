@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/1/prime-minister-enda-kenny-who-rejected-suggestio
 
 ### [2016-03-1](/news/2016/03/1/index.md)
 
+##### Irish general election, 2016
 # Prime Minister Enda Kenny, who rejected suggestions he should resign, says he will "fully and inclusively" engage with other parties, groups and Independents, including Fianna Fail, as he forms the country's government. Sinn Fein says it is not interested in forming a coalition government with Kenny's Fine Gael party. 
 
 Taoiseach Enda Kenny has performed a dramatic U-turn on his pre-election promise of ruling out Fianna Fáil as a potential coalition partner.

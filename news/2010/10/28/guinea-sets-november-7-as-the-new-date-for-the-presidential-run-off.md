@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/28/guinea-sets-november-7-as-the-new-date-for-the-presidential-run-off.html)  [JSON](/news/2010/10/28/guinea-sets-november-7-as-the-new-date-for-the-presidential-run-off.json)  [XML](/news/2010/10/28/guinea-sets-november-7-as-the-new-date-for-the-presidential-run-off.xml)  
+
 ### [2010-10-28](/news/2010/10/28/index.md)
 
+##### Guinea
 # Guinea sets November 7 as the new date for the presidential run-off. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/10/201010281127186594.html)
 2. [Reuters](http://af.reuters.com/article/commoditiesNews/idAFLDE69Q2OH20101028)

@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2007/01/10/india-launches-four-satellites-at-a-time-with-their-pslv-c7-rocket-including-the-sre-1-test-article-which-will-return-to-earth-in-a-test.html)  [JSON](/news/2007/01/10/india-launches-four-satellites-at-a-time-with-their-pslv-c7-rocket-including-the-sre-1-test-article-which-will-return-to-earth-in-a-test.json)  [XML](/news/2007/01/10/india-launches-four-satellites-at-a-time-with-their-pslv-c7-rocket-including-the-sre-1-test-article-which-will-return-to-earth-in-a-test.xml)  
+
 ### [2007-01-10](/news/2007/01/10/index.md)
 
+##### India
 #  India launches four satellites at a time with their PSLV-C7 rocket, including the SRE-1 test article, which will return to Earth in a test for a future Indian manned spaceflight program. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=scienceNews&storyID=2007-01-10T084639Z_01_DEL159433_RTRUKOC_0_US-INDIA-SPACE-SATELLITES.xml)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
-1. [ China launches a second satellite as part of its Compass global navigation system. ](/news/2009/04/15/china-launches-a-second-satellite-as-part-of-its-compass-global-navigation-system.md) _Context: launches, released an object into orbit_
+1. [ China launches a second satellite as part of its Compass global navigation system. ](/news/2009/04/15/china-launches-a-second-satellite-as-part-of-its-compass-global-navigation-system.md) _Context: launches, satellite_
 2. [ Indian spacecraft SRE 1 successfully completes a twelve-day orbital test flight, making India one of the few nations to return a craft from orbit. ](/news/2007/01/22/indian-spacecraft-sre-1-successfully-completes-a-twelve-day-orbital-test-flight-making-india-one-of-the-few-nations-to-return-a-craft-from.md) _Context: India, SRE 1_
-3. [Prominent Indian journalist and "Lankesh Patrike" editor Gauri Lankesh is shot dead by unidentified men outside her house in the city of Bengaluru. ](/news/2017/09/5/prominent-indian-journalist-and-lankesh-patrike-editor-gauri-lankesh-is-shot-dead-by-unidentified-men-outside-her-house-in-the-city-of-ben.md) _Context: India_
-4. [Indian Prime Minister Narendra Modi heads to Myanmar for a state visit. ](/news/2017/09/5/indian-prime-minister-narendra-modi-heads-to-myanmar-for-a-state-visit.md) _Context: India_
-5. [At least 22 people are killed and over 30 are seriously injured in a rush hour stampede on a footbridge between the Parel and Elphinstone Road railway stations in the Indian city of Mumbai. ](/news/2017/09/29/at-least-22-people-are-killed-and-over-30-are-seriously-injured-in-a-rush-hour-stampede-on-a-footbridge-between-the-parel-and-elphinstone-ro.md) _Context: India_
+3. [A bus plunges into the Bhairab River after falling off a bridge in Murshidabad district, West Bengal, India, killing at least 36 people. The late response by rescuers to save passengers leads to violence between local residents and police. ](/news/2018/01/29/a-bus-plunges-into-the-bhairab-river-after-falling-off-a-bridge-in-murshidabad-district-west-bengal-india-killing-at-least-36-people-the.md) _Context: India_
+4. [The Indian Space Research Organisation successfully launches India's 100th satellite and 30 other satellites from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh. [http:--www.thehindubusinessline.com-news-science-isro-launches-its-100th-satellite-into-space-article10027585.ece "(The Hindu)"]A Delta IV launches NROL-47, a classified U.S. military payload, from Vandenberg Air Force Base, California. It is the last single-core Delta IV to launch from Vandenberg. [https:--spaceflightnow.com-2018-01-13-delta-4-rocket-successfully-lofts-clandestine-nro-satellite-into-orbit-"(Spaceflight Now)"]](/news/2018/01/12/the-indian-space-research-organisation-successfully-launches-indiaas-100th-satellite-and-30-other-satellites-from-the-satish-dhawan-space.md) _Context: India_
+5. [Fifteen countries ask the World Trade Organization a mandate to negotiate binding rules on e-commerce, days after India turned down negotiations. ](/news/2017/12/7/fifteen-countries-ask-the-world-trade-organization-a-mandate-to-negotiate-binding-rules-on-e-commerce-days-after-india-turned-down-negotiat.md) _Context: India_

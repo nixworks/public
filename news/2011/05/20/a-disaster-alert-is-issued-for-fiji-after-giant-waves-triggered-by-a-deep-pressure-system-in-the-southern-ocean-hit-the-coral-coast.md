@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/20/a-disaster-alert-is-issued-for-fiji-after-giant-waves-triggered-by-a-deep-pressure-system-in-the-southern-ocean-hit-the-coral-coast.html)  [JSON](/news/2011/05/20/a-disaster-alert-is-issued-for-fiji-after-giant-waves-triggered-by-a-deep-pressure-system-in-the-southern-ocean-hit-the-coral-coast.json)  [XML](/news/2011/05/20/a-disaster-alert-is-issued-for-fiji-after-giant-waves-triggered-by-a-deep-pressure-system-in-the-southern-ocean-hit-the-coral-coast.xml)  
+
 ### [2011-05-20](/news/2011/05/20/index.md)
 
+##### Fiji
 # A disaster alert is issued for Fiji, after giant waves triggered by a deep pressure system in the Southern Ocean hit the Coral Coast. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New Zealand Stuff](http://www.stuff.co.nz/world/south-pacific/5033398/Disaster-alert-in-Fiji)
 2. [Radio Australia](http://www.radioaustralianews.net.au/stories/201105/3222197.htm?desktop)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/22/the-second-round-of-voting-takes-place-to-elect
 
 ### [2016-05-22](/news/2016/05/22/index.md)
 
+##### Austrian presidential election, 2016
 # The second round of voting takes place to elect either Norbert Hofer or Alexander Van der Bellen as President of Austria. 
 
 

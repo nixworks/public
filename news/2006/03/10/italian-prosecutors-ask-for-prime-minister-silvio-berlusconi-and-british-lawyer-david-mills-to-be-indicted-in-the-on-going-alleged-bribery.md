@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/10/italian-prosecutors-ask-for-prime-minister-silvio-berlusconi-and-british-lawyer-david-mills-to-be-indicted-in-the-on-going-alleged-bribery.html)  [JSON](/news/2006/03/10/italian-prosecutors-ask-for-prime-minister-silvio-berlusconi-and-british-lawyer-david-mills-to-be-indicted-in-the-on-going-alleged-bribery.json)  [XML](/news/2006/03/10/italian-prosecutors-ask-for-prime-minister-silvio-berlusconi-and-british-lawyer-david-mills-to-be-indicted-in-the-on-going-alleged-bribery.xml)  
+
 ### [2006-03-10](/news/2006/03/10/index.md)
 
+##### Italian Prime Minister
 #  Italian prosecutors ask for Prime Minister Silvio Berlusconi and British lawyer David Mills to be indicted in the on-going alleged bribery case. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/4793052.stm)
 

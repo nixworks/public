@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/17/king-of-thailand-bhumibol-adulyadej-intends-to-personally-direct-artificial-rain-making-project-to-end-drought-in-the-country-he-intends.html)  [JSON](/news/2005/03/17/king-of-thailand-bhumibol-adulyadej-intends-to-personally-direct-artificial-rain-making-project-to-end-drought-in-the-country-he-intends.json)  [XML](/news/2005/03/17/king-of-thailand-bhumibol-adulyadej-intends-to-personally-direct-artificial-rain-making-project-to-end-drought-in-the-country-he-intends.xml)  
+
 ### [2005-03-17](/news/2005/03/17/index.md)
 
+##### Thailand
 #  King of Thailand, Bhumibol Adulyadej, intends to personally direct artificial rain making project to end drought in the country. He intends to use his own cloud seeding technique 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4358535.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/7/libyan-leader-mustafa-abdul-jalil-says-he-will-defend-national-unity-after-cyrenaica-the-eastern-region-of-the-country-declared-it-would.html)  [JSON](/news/2012/03/7/libyan-leader-mustafa-abdul-jalil-says-he-will-defend-national-unity-after-cyrenaica-the-eastern-region-of-the-country-declared-it-would.json)  [XML](/news/2012/03/7/libyan-leader-mustafa-abdul-jalil-says-he-will-defend-national-unity-after-cyrenaica-the-eastern-region-of-the-country-declared-it-would.xml)  
+
 ### [2012-03-7](/news/2012/03/7/index.md)
 
+##### Libya
 # Libyan leader Mustafa Abdul Jalil says he will "defend national unity" after Cyrenaica, the eastern region of the country, declared it would become semi-autonomous. 
 
 Mustafa Abdel Jalil accuses Arab countries of funding effort to carve out eastern state and threatens force against it.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/03/201237103524945859.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/7/201237103754197734_20.jpg)
@@ -16,4 +20,4 @@ Mustafa Abdel Jalil accuses Arab countries of funding effort to carve out easter
 2. [Clashes between local tribal forces and Sudanese fighters in Libya's southeastern Cyrenaica region around the town of Kufra leaves around 30 dead. ](/news/2016/02/5/clashes-between-local-tribal-forces-and-sudanese-fighters-in-libya-s-southeastern-cyrenaica-region-around-the-town-of-kufra-leaves-around-30.md) _Context: Eastern, Libya_
 3. [Cyrenaica, the eastern Libyan region, announces a bid for semi-autonomy. ](/news/2012/03/6/cyrenaica-the-eastern-libyan-region-announces-a-bid-for-semi-autonomy.md) _Context: Eastern, Libya_
 4. [Senior NATO leaders including the President of France Nicolas Sarkozy fly to Libya to meet with Mustafa Abdul Jalil, the leader of the National Transitional Council, and other leaders. ](/news/2011/09/15/senior-nato-leaders-including-the-president-of-france-nicolas-sarkozy-fly-to-libya-to-meet-with-mustafa-abdul-jalil-the-leader-of-the-natio.md) _Context: Libya, Mustafa Abdul Jalil_
-5. [At least five migrants have died and ninety are missing after their boat sinks off the western coast of Libya. ](/news/2017/09/21/at-least-five-migrants-have-died-and-ninety-are-missing-after-their-boat-sinks-off-the-western-coast-of-libya.md) _Context: Libya_
+5. [A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials. ](/news/2018/01/23/a-double-car-bombing-in-benghazi-libya-kills-at-least-33-people-and-wounds-dozens-of-others-the-victims-include-both-military-personnel.md) _Context: Libya_

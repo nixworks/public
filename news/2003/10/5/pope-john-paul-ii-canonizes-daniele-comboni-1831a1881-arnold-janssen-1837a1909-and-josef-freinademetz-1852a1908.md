@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/5/pope-john-paul-ii-canonizes-daniele-comboni-1831a1881-arnold-janssen-1837a1909-and-josef-freinademetz-1852a1908.html)  [JSON](/news/2003/10/5/pope-john-paul-ii-canonizes-daniele-comboni-1831a1881-arnold-janssen-1837a1909-and-josef-freinademetz-1852a1908.json)  [XML](/news/2003/10/5/pope-john-paul-ii-canonizes-daniele-comboni-1831a1881-arnold-janssen-1837a1909-and-josef-freinademetz-1852a1908.xml)  
+
 ### [2003-10-5](/news/2003/10/5/index.md)
 
+##### Pope John Paul II
 #  Pope John Paul II canonizes Daniele Comboni (1831-1881), Arnold Janssen (1837-1909) and Josef Freinademetz (1852-1908).
 
 

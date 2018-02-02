@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/14/a-7-8-magnitude-earthquake-strikes-north-of-chr
 
 ### [2016-11-14](/news/2016/11/14/index.md)
 
+##### 2016 Kaikoura earthquake
 # A 7.8 magnitude earthquake strikes north of Christchurch, New Zealand, in the early hours Monday, triggering tsunami warnings and causing widespread damage. At least two people are reported killed. 
 
 A powerful 7.8 magnitude earthquake pummeled central New Zealand early on Monday, killing at least two people, damaging roads and buildings and setting off hundreds of strong aftershocks.

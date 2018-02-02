@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/01/24/the-last-two-of-the-texas-7-are-taken-into-custody-in-colorado-springs-colorado.html)  [JSON](/news/2001/01/24/the-last-two-of-the-texas-7-are-taken-into-custody-in-colorado-springs-colorado.json)  [XML](/news/2001/01/24/the-last-two-of-the-texas-7-are-taken-into-custody-in-colorado-springs-colorado.xml)  
+
 ### [2001-01-24](/news/2001/01/24/index.md)
 
+##### Texas 7
 #  The last two of the "Texas 7" are taken into custody in Colorado Springs, Colorado.
 
 

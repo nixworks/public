@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/5/israeli-attacks-kill-eight-hamas-members-on-the-gaza-strip-as-hamas-claims-responsibility-for-the-dimona-attack.html)  [JSON](/news/2008/02/5/israeli-attacks-kill-eight-hamas-members-on-the-gaza-strip-as-hamas-claims-responsibility-for-the-dimona-attack.json)  [XML](/news/2008/02/5/israeli-attacks-kill-eight-hamas-members-on-the-gaza-strip-as-hamas-claims-responsibility-for-the-dimona-attack.xml)  
+
 ### [2008-02-5](/news/2008/02/5/index.md)
 
+##### Israel
 #  Israeli attacks kill eight Hamas members on the Gaza Strip as Hamas claims responsibility for the Dimona attack. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5jD4YSkDPlclqd9dHvg2f0Ij18zEgD8UK99JO0)
 

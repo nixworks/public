@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/11/former-senior-indian-cabinet-minister-vidya-charan-shukla-dies-from-his-injury-from-a-naxalite-raid-in-the-sukma-district-in-chhattisgarh-st.html)  [JSON](/news/2013/06/11/former-senior-indian-cabinet-minister-vidya-charan-shukla-dies-from-his-injury-from-a-naxalite-raid-in-the-sukma-district-in-chhattisgarh-st.json)  [XML](/news/2013/06/11/former-senior-indian-cabinet-minister-vidya-charan-shukla-dies-from-his-injury-from-a-naxalite-raid-in-the-sukma-district-in-chhattisgarh-st.xml)  
+
 ### [2013-06-11](/news/2013/06/11/index.md)
 
+##### India
 # Former senior Indian cabinet minister Vidya Charan Shukla dies from his injury from a Naxalite raid in the Sukma district in Chhattisgarh state. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/06/2013611112058263646.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/4/4/20134413552108734_20.jpg)

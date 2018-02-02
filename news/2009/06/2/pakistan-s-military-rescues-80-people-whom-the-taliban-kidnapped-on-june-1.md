@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/06/2/pakistan-s-military-rescues-80-people-whom-the-taliban-kidnapped-on-june-1.html)  [JSON](/news/2009/06/2/pakistan-s-military-rescues-80-people-whom-the-taliban-kidnapped-on-june-1.json)  [XML](/news/2009/06/2/pakistan-s-military-rescues-80-people-whom-the-taliban-kidnapped-on-june-1.xml)  
+
 ### [2009-06-2](/news/2009/06/2/index.md)
 
+##### Pakistan
 #  Pakistan's military rescues 80 people whom the Taliban kidnapped on June 1. 
 
 Pakistani soldiers Tuesday rescued scores of students and staff from a military-run college who were abducted by Taliban militants in the northwest of the country, a military spokesman said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSISL35626520090602)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090602&t=2&i=10345932&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-06-02T112759Z_01_BTRE54U0LOV00_RTROPTP_0_PAKISTAN-VIOLENCE-COMMANDER)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSISL35626520090602)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20090602&t=2&i=10345932&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-06-02T112759Z_01_BTRE54U0LOV00_RTROPTP_0_PAKISTAN-VIOLENCE-COMMANDER)
 
 ### Related:
 

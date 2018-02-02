@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/8/the-red-cross-recovers-the-bodies-of-11-colombian-legislators-who-were-shot-while-being-held-hostage-by-the-revolutionary-armed-forces-of-c.html)  [JSON](/news/2007/09/8/the-red-cross-recovers-the-bodies-of-11-colombian-legislators-who-were-shot-while-being-held-hostage-by-the-revolutionary-armed-forces-of-c.json)  [XML](/news/2007/09/8/the-red-cross-recovers-the-bodies-of-11-colombian-legislators-who-were-shot-while-being-held-hostage-by-the-revolutionary-armed-forces-of-c.xml)  
+
 ### [2007-09-8](/news/2007/09/8/index.md)
 
+##### Red Cross
 #  The Red Cross recovers the bodies of 11 Colombian legislators who were shot while being held hostage by the Revolutionary Armed Forces of Colombia (FARC). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google](http://ap.google.com/article/ALeqM5jJaYKcOF6IpYZDLaJur12Nw69PxQ)
 

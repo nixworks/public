@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/2/cambodian-opposition-leader-kem-sokha-is-arreste
 
 ### [2017-09-2](/news/2017/09/2/index.md)
 
+##### Law enforcement in Cambodia
 # Cambodian opposition leader Kem Sokha is arrested for alleged treason. 
 
 Police in Cambodia arrested the leader of the country&apos;s main opposition party in a surprise raid on his home

@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2015/01/6/a-suicide-bomber-kills-herself-and-a-policeman-in-an-attack-on-a-police-station-in-a-popular-tourist-district-in-the-turkish-city-of-istanbu.html)  [JSON](/news/2015/01/6/a-suicide-bomber-kills-herself-and-a-policeman-in-an-attack-on-a-police-station-in-a-popular-tourist-district-in-the-turkish-city-of-istanbu.json)  [XML](/news/2015/01/6/a-suicide-bomber-kills-herself-and-a-policeman-in-an-attack-on-a-police-station-in-a-popular-tourist-district-in-the-turkish-city-of-istanbu.xml)  
+
 ### [2015-01-6](/news/2015/01/6/index.md)
 
+##### suicide bomber
 # A suicide bomber kills herself and a policeman in an attack on a police station in a popular tourist district in the Turkish city of Istanbul. 
 
+In the second attack on the police in the city in a week, a woman killed one officer and wounded another after detonating explosives under her coat.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2015/01/07/world/europe/suicide-bomber-attacks-istanbul-police-station.html?_r=0)
+1. [New York Times](https://www.nytimes.com/2015/01/07/world/europe/suicide-bomber-attacks-istanbul-police-station.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2015/01/07/world/07turkey/07turkey-facebookJumbo-v2.jpg)
 
 ### Related:
 

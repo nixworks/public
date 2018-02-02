@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/3/dozens-of-people-are-killed-in-fighting-between-the-national-armed-forces-of-ca-te-d-ivoire-and-forces-loyal-to-former-president-of-the-ivor.html)  [JSON](/news/2011/05/3/dozens-of-people-are-killed-in-fighting-between-the-national-armed-forces-of-ca-te-d-ivoire-and-forces-loyal-to-former-president-of-the-ivor.json)  [XML](/news/2011/05/3/dozens-of-people-are-killed-in-fighting-between-the-national-armed-forces-of-ca-te-d-ivoire-and-forces-loyal-to-former-president-of-the-ivor.xml)  
+
 ### [2011-05-3](/news/2011/05/3/index.md)
 
+##### National Armed Forces of Cote d'Ivoire
 # Dozens of people are killed in fighting between the National Armed Forces of Cote d'Ivoire and forces loyal to former President of the Ivory Coast Laurent Gbagbo in Abidjan. 
 
 Fighting in Abidjan between army and militia loyal to deposed leader Laurent Gbagbo.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/05/201153205242427970.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/3/20115321419353734_20.jpg)

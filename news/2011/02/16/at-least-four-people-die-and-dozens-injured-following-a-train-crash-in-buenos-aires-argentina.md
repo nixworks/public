@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/16/at-least-four-people-die-and-dozens-injured-following-a-train-crash-in-buenos-aires-argentina.html)  [JSON](/news/2011/02/16/at-least-four-people-die-and-dozens-injured-following-a-train-crash-in-buenos-aires-argentina.json)  [XML](/news/2011/02/16/at-least-four-people-die-and-dozens-injured-following-a-train-crash-in-buenos-aires-argentina.xml)  
+
 ### [2011-02-16](/news/2011/02/16/index.md)
 
+##### Buenos Aires
 # At least four people die and dozens injured following a train crash in Buenos Aires, Argentina. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Dunya News](http://dunyanews.tv/index.php?key=Q2F0SUQ9MyNOaWQ9MjA0NDg=)
 

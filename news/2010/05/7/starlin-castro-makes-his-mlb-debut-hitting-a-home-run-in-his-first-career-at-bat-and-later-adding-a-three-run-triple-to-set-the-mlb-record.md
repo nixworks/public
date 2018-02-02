@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2010/05/7/starlin-castro-makes-his-mlb-debut-hitting-a-home-run-in-his-first-career-at-bat-and-later-adding-a-three-run-triple-to-set-the-mlb-record.html)  [JSON](/news/2010/05/7/starlin-castro-makes-his-mlb-debut-hitting-a-home-run-in-his-first-career-at-bat-and-later-adding-a-three-run-triple-to-set-the-mlb-record.json)  [XML](/news/2010/05/7/starlin-castro-makes-his-mlb-debut-hitting-a-home-run-in-his-first-career-at-bat-and-later-adding-a-three-run-triple-to-set-the-mlb-record.xml)  
+
 ### [2010-05-7](/news/2010/05/7/index.md)
 
+##### Starlin Castro
 # Starlin Castro makes his MLB-debut, hitting a home run in his first career at-bat, and later adding a three-run triple to set the MLB record for RBI's in an MLB Debut.
 
 

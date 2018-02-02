@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/27/incumbent-president-of-sri-lanka-mahinda-rajapaksa-is-declared-the-winner-of-sunday-s-presidential-election-defeating-opposition-candidate.html)  [JSON](/news/2010/01/27/incumbent-president-of-sri-lanka-mahinda-rajapaksa-is-declared-the-winner-of-sunday-s-presidential-election-defeating-opposition-candidate.json)  [XML](/news/2010/01/27/incumbent-president-of-sri-lanka-mahinda-rajapaksa-is-declared-the-winner-of-sunday-s-presidential-election-defeating-opposition-candidate.xml)  
+
 ### [2010-01-27](/news/2010/01/27/index.md)
 
+##### President of Sri Lanka
 # Incumbent President of Sri Lanka Mahinda Rajapaksa is declared the winner of Sunday's presidential election, defeating opposition candidate Sarath Fonseka. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8482270.stm)
 

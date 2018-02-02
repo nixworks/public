@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2015/09/30/the-u-s-led-coalition-dispatches-american-troops-to-kunduz-to-help-afghan-forces-combat-taliban-militants.html)  [JSON](/news/2015/09/30/the-u-s-led-coalition-dispatches-american-troops-to-kunduz-to-help-afghan-forces-combat-taliban-militants.json)  [XML](/news/2015/09/30/the-u-s-led-coalition-dispatches-american-troops-to-kunduz-to-help-afghan-forces-combat-taliban-militants.xml)  
+
 ### [2015-09-30](/news/2015/09/30/index.md)
 
+##### War in Afghanistan (2015-present)
 # The U.S.-led coalition dispatches American troops to Kunduz to help Afghan forces combat Taliban militants. 
 
 The American soldiers were sent to &ldquo;train, advise and assist&rdquo; the Afghan military&rsquo;s bid to retake the city.
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/world/asia_pacific/us-troops-dispatched-to-kunduz-to-help-afghan-forces/2015/09/30/ea7768f2-66e5-11e5-9223-70cb36460919_story.html)
+1. [The Washington Post](https://www.washingtonpost.com/world/asia_pacific/us-troops-dispatched-to-kunduz-to-help-afghan-forces/2015/09/30/ea7768f2-66e5-11e5-9223-70cb36460919_story.html)
+
+### Changes:
+
+1. [War in Afghanistan (2015-present): Battle of Kunduz: The U.S.-led coalition dispatches American troops to Kunduz to help Afghan forces combat Taliban militants. ](/news/2015/09/30/war-in-afghanistan-2015-present-battle-of-kunduz-the-u-s-led-coalition-dispatches-american-troops-to-kunduz-to-help-afghan-forces-com.md) _2017-08-27 03:43:11 (First version)_
+1. [The U.S.-led coalition dispatches American troops to Kunduz to help Afghan forces combat Taliban militants. ](/news/2015/09/30/the-u-s-led-coalition-dispatches-american-troops-to-kunduz-to-help-afghan-forces-combat-taliban-militants.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@ The American soldiers were sent to &ldquo;train, advise and assist&rdquo; the Af
 3. [The Taliban launches an offensive entering the city of Kunduz which they briefly captured last year. ](/news/2016/10/3/the-taliban-launches-an-offensive-entering-the-city-of-kunduz-which-they-briefly-captured-last-year.md) _Context: Kunduz, Taliban, War in Afghanistan (2015-present)_
 4. [ Suspect Taliban militants kill nine and kidnap 170 in an attack on three passenger buses in Kunduz, Afghanistan. ](/news/2016/05/31/suspect-taliban-militants-kill-nine-and-kidnap-170-in-an-attack-on-three-passenger-buses-in-kunduz-afghanistan.md) _Context: Kunduz, Taliban, War in Afghanistan (2015-present)_
 5. [Heavy fighting continues in the north of Afghanistan as Taliban fighters intensify their attacks in several districts around Kunduz in their bid to retake the city. According to a police chief, militants overnight attacked several police checkpoints in the southwest outskirts of the city while government forces repelled a major attack to the east of Kunduz. ](/news/2016/04/17/heavy-fighting-continues-in-the-north-of-afghanistan-as-taliban-fighters-intensify-their-attacks-in-several-districts-around-kunduz-in-their.md) _Context: Kunduz, Taliban, War in Afghanistan (2015-present)_
-
-### Changes:
-
-1. [War in Afghanistan (2015-present): Battle of Kunduz: The U.S.-led coalition dispatches American troops to Kunduz to help Afghan forces combat Taliban militants. ](/news/2015/09/30/war-in-afghanistan-2015-present-battle-of-kunduz-the-u-s-led-coalition-dispatches-american-troops-to-kunduz-to-help-afghan-forces-com.md) _2017-08-27 03:43:11 (First version)_
-1. [The U.S.-led coalition dispatches American troops to Kunduz to help Afghan forces combat Taliban militants. ](/news/2015/09/30/the-u-s-led-coalition-dispatches-american-troops-to-kunduz-to-help-afghan-forces-combat-taliban-militants.md) _(Current version)_

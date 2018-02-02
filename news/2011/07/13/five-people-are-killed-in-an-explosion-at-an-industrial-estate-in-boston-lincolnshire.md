@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/13/five-people-are-killed-in-an-explosion-at-an-industrial-estate-in-boston-lincolnshire.html)  [JSON](/news/2011/07/13/five-people-are-killed-in-an-explosion-at-an-industrial-estate-in-boston-lincolnshire.json)  [XML](/news/2011/07/13/five-people-are-killed-in-an-explosion-at-an-industrial-estate-in-boston-lincolnshire.xml)  
+
 ### [2011-07-13](/news/2011/07/13/index.md)
 
+##### Lincolnshire
 # Five people are killed in an explosion at an industrial estate in Boston, Lincolnshire. 
 
 Five men are killed and a sixth is seriously injured in an explosion at a Lincolnshire industrial estate which may have been caused by distilling illegal alcohol.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/uk-england-lincolnshire-14146993)
 2. [Channel 4](http://www.channel4.com/news/several-dead-at-serious-incident-in-boston)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/18/suspected-maoists-kill-35-people-in-a-land-mine-attack-against-a-bus-in-central-india-on-a-road-roughly-280-miles-450-km-south-of-the-stat.html)  [JSON](/news/2010/05/18/suspected-maoists-kill-35-people-in-a-land-mine-attack-against-a-bus-in-central-india-on-a-road-roughly-280-miles-450-km-south-of-the-stat.json)  [XML](/news/2010/05/18/suspected-maoists-kill-35-people-in-a-land-mine-attack-against-a-bus-in-central-india-on-a-road-roughly-280-miles-450-km-south-of-the-stat.xml)  
+
 ### [2010-05-18](/news/2010/05/18/index.md)
 
+##### Maoist
 # Suspected Maoists kill 35 people in a land mine attack against a bus in central India on a road roughly 280 miles (450 km) south of the state capital of Raipur. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/05/17/india.maoist.attack/index.html?hpt=T2)
 

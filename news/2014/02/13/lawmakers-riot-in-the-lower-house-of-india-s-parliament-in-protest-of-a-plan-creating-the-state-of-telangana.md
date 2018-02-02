@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/13/lawmakers-riot-in-the-lower-house-of-india-s-parliament-in-protest-of-a-plan-creating-the-state-of-telangana.html)  [JSON](/news/2014/02/13/lawmakers-riot-in-the-lower-house-of-india-s-parliament-in-protest-of-a-plan-creating-the-state-of-telangana.json)  [XML](/news/2014/02/13/lawmakers-riot-in-the-lower-house-of-india-s-parliament-in-protest-of-a-plan-creating-the-state-of-telangana.xml)  
+
 ### [2014-02-13](/news/2014/02/13/index.md)
 
+##### India
 # Lawmakers riot in the lower house of India's parliament in protest of a plan creating the state of Telangana. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-26167129)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72965000/jpg/_72965792_72953680.jpg)

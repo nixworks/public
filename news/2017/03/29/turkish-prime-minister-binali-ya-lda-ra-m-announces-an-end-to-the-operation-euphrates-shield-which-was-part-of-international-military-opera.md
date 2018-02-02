@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/29/turkish-prime-minister-binali-ya-lda-ra-m-annou
 
 ### [2017-03-29](/news/2017/03/29/index.md)
 
+##### Turkish military intervention in Syria
 # Turkish Prime Minister Binali Yildirim announces an end to the operation Euphrates Shield, which was part of international military operations against ISIL. He adds: "Any operation following this one will have a different name." 
 
 Turkey&#39;s prime minister has announced an end to the operation known as &quot;Euphrates Shield.&quot; The offensive was launched last summer as part of the fight against the so-called &quot;Islamic State.&quot;

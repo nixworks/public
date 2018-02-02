@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2015/12/12/a-wisconsin-gun-shop-which-a-jury-found-negligently-sold-the-gun-an-assailant-used-to-injure-two-milwaukee-police-officers-to-a-straw-buyer.html)  [JSON](/news/2015/12/12/a-wisconsin-gun-shop-which-a-jury-found-negligently-sold-the-gun-an-assailant-used-to-injure-two-milwaukee-police-officers-to-a-straw-buyer.json)  [XML](/news/2015/12/12/a-wisconsin-gun-shop-which-a-jury-found-negligently-sold-the-gun-an-assailant-used-to-injure-two-milwaukee-police-officers-to-a-straw-buyer.xml)  
+
 ### [2015-12-12](/news/2015/12/12/index.md)
 
+##### Wisconsin
 # A Wisconsin gun shop, which a jury found negligently sold the gun an assailant used to injure two Milwaukee police officers to a straw buyer, reaches a $1 million settlement with the officers. 
 
 A Milwaukee gun store will pay $1 million to settle a case with two police officers who were shot with a handgun that it allowed to be acquired illegally in 2009, issuing a rare legal defeat for the gun industry, local media reported on Friday.
 
 
-### Source:
+### Sources:
 
 1. [AP via  seattlepi.com](http://www.seattlepi.com/news/crime/article/Wisconsin-gun-shop-to-pay-1M-to-settle-officers-6694184.php)
-2. [Reuters](http://www.reuters.com/article/us-wisconsin-guns-idUSKBN0TV01820151212)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/us-wisconsin-guns-idUSKBN0TV01820151212)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

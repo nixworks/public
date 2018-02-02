@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/10/gawker-media-files-for-chapter-11-bankruptcy-af
 
 ### [2016-06-10](/news/2016/06/10/index.md)
 
+##### Gawker Media
 # Gawker Media files for Chapter 11 bankruptcy after losing an invasion-of-privacy lawsuit brought by former professional wrestler Hulk Hogan, and has sold its blog network to Ziff Davis. 
 
 Call it the Chapter 11 inverted headlock.

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/08/5/recent-celebrity-deaths-chick-hearn-pro-basketball-announcer-dies-at-the-age-of-85.html)  [JSON](/news/2002/08/5/recent-celebrity-deaths-chick-hearn-pro-basketball-announcer-dies-at-the-age-of-85.json)  [XML](/news/2002/08/5/recent-celebrity-deaths-chick-hearn-pro-basketball-announcer-dies-at-the-age-of-85.xml)  
+
 ### [2002-08-5](/news/2002/08/5/index.md)
 
+##### Recent celebrity deaths
 #  "Recent celebrity deaths:" Chick Hearn, pro-basketball announcer dies at the age of 85.
 
 

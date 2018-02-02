@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/14/the-ban-given-following-the-togo-national-football-team-attack-ahead-of-the-2010-africa-cup-of-nations-in-angola-is-lifted-with-immediate-ef.html)  [JSON](/news/2010/05/14/the-ban-given-following-the-togo-national-football-team-attack-ahead-of-the-2010-africa-cup-of-nations-in-angola-is-lifted-with-immediate-ef.json)  [XML](/news/2010/05/14/the-ban-given-following-the-togo-national-football-team-attack-ahead-of-the-2010-africa-cup-of-nations-in-angola-is-lifted-with-immediate-ef.xml)  
+
 ### [2010-05-14](/news/2010/05/14/index.md)
 
+##### Togo national football team attack
 # The ban given following the Togo national football team attack ahead of the 2010 Africa Cup of Nations in Angola is lifted with immediate effect as confirmed by the Confederation of African Football (CAF) at a meeting in Cairo. 
 
 A ban preventing Togo from competing at the next two African Nations Cups has been officially lifted.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iQBPvKpNOiVhRAPEN-khUyVOewqQ)
 2. [BBC](http://news.bbc.co.uk/sport2/hi/football/africa/8682511.stm)

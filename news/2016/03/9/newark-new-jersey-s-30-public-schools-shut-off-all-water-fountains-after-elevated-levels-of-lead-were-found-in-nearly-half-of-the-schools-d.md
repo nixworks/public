@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/9/newark-new-jersey-s-30-public-schools-shut-off-a
 
 ### [2016-03-9](/news/2016/03/9/index.md)
 
+##### Newark, New Jersey's
 # Newark, New Jersey's 30 public schools shut off all water fountains after elevated levels of lead were found in nearly half of the schools during the state Department of Environmental Protection testing. The agency confirmed lead has not been found in the 280,000 residents' city water supply. 
 
 Water fountains at 30 schools in Newark, New Jersey, were shut off on Wednesday after elevated levels of lead were found during testing, the state Department of Environmental Protection said.

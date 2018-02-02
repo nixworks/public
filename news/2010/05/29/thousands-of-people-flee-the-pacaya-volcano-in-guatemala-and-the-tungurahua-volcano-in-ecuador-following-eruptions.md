@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/29/thousands-of-people-flee-the-pacaya-volcano-in-guatemala-and-the-tungurahua-volcano-in-ecuador-following-eruptions.html)  [JSON](/news/2010/05/29/thousands-of-people-flee-the-pacaya-volcano-in-guatemala-and-the-tungurahua-volcano-in-ecuador-following-eruptions.json)  [XML](/news/2010/05/29/thousands-of-people-flee-the-pacaya-volcano-in-guatemala-and-the-tungurahua-volcano-in-ecuador-following-eruptions.xml)  
+
 ### [2010-05-29](/news/2010/05/29/index.md)
 
+##### Pacaya
 # Thousands of people flee the Pacaya volcano in Guatemala and the Tungurahua volcano in Ecuador following eruptions. 
 
 Thousands of people are forced to flee as two volcanos erupt in Guatemala and Ecuador, closing schools and airports.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/latin_america/10189054.stm)
 2. [CBC](http://www.cbc.ca/world/story/2010/05/29/volcanos-ecuador-guatemala.html)

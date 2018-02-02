@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/22/italian-politician-michele-nicoletti-becomes-th
 
 ### [2018-01-22](/news/2018/01/22/index.md)
 
+##### Parliamentary Assembly of the Council of Europe
 # Italian politician Michele Nicoletti becomes the new President of the Parliamentary Assembly of the Council of Europe. 
 
 

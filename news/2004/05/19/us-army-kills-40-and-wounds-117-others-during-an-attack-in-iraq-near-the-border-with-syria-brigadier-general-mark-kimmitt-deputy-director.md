@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2004/05/19/us-army-kills-40-and-wounds-117-others-during-an-attack-in-iraq-near-the-border-with-syria-brigadier-general-mark-kimmitt-deputy-director.html)  [JSON](/news/2004/05/19/us-army-kills-40-and-wounds-117-others-during-an-attack-in-iraq-near-the-border-with-syria-brigadier-general-mark-kimmitt-deputy-director.json)  [XML](/news/2004/05/19/us-army-kills-40-and-wounds-117-others-during-an-attack-in-iraq-near-the-border-with-syria-brigadier-general-mark-kimmitt-deputy-director.xml)  
+
 ### [2004-05-19](/news/2004/05/19/index.md)
 
+##### United States soldier
 #  US Army kills 40 and wounds 117 others during an attack in Iraq near the border with Syria. Brigadier General Mark Kimmitt, deputy director of operations for the US military in Iraq, tells Reuters the attack was within the military's rules of engagement, denying reports that the victims were members of a wedding party. He says a large amount of money, Syrian passports and satellite communications equipment was found at the site after the attack. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.commondreams.org/headlines04/0521-01.htm)
-2. [NYT](http://www.nytimes.com/2004/05/20/international/middleeast/20IRAQ.html?hp)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=5197140)
-3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+2. [NYT](https://www.nytimes.com/2004/05/20/international/middleeast/20IRAQ.html?hp)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=5197140)
 
 ### Related:
 

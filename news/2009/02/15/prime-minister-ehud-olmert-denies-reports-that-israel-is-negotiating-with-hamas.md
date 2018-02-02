@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/15/prime-minister-ehud-olmert-denies-reports-that-israel-is-negotiating-with-hamas.html)  [JSON](/news/2009/02/15/prime-minister-ehud-olmert-denies-reports-that-israel-is-negotiating-with-hamas.json)  [XML](/news/2009/02/15/prime-minister-ehud-olmert-denies-reports-that-israel-is-negotiating-with-hamas.xml)  
+
 ### [2009-02-15](/news/2009/02/15/index.md)
 
+##### Israeli Prime Minister
 #  Prime Minister Ehud Olmert denies reports that Israel is negotiating with Hamas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/meast/02/15/israel.hamas.negotiations/index.html?iref=topnews)
 

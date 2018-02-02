@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2010/07/13/one-death-and-three-injuries-result-from-a-stampede-during-pulling-of-ratha-yatra-chariots-in-puri-india.html)  [JSON](/news/2010/07/13/one-death-and-three-injuries-result-from-a-stampede-during-pulling-of-ratha-yatra-chariots-in-puri-india.json)  [XML](/news/2010/07/13/one-death-and-three-injuries-result-from-a-stampede-during-pulling-of-ratha-yatra-chariots-in-puri-india.xml)  
+
 ### [2010-07-13](/news/2010/07/13/index.md)
 
+##### human stampede
 # One death and three injuries result from a stampede during pulling of Ratha-Yatra chariots in Puri, India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [samaylive](http://english.samaylive.com/nation/676468254.html)
 
 ### Related:
 
-1. [A crowd surge collapses a barrier during a soccer match at Stade de la Licorne in Amiens, France, injuring twenty-nine people, five of them seriously. ](/news/2017/09/30/a-crowd-surge-collapses-a-barrier-during-a-soccer-match-at-stade-de-la-licorne-in-amiens-france-injuring-twenty-nine-people-five-of-them.md) _Context: Human stampede_
-2. [At least 27 people are killed in a stampede at the Godavari Maha Pushkaram Hindu festival in the Indian state of Andhra Pradesh. ](/news/2015/07/14/at-least-27-people-are-killed-in-a-stampede-at-the-godavari-maha-pushkaram-hindu-festival-in-the-indian-state-of-andhra-pradesh.md) _Context: Human stampede_
+1. [At least 15 people are killed in a human stampede over food in the village of Sidi Boualem, Morocco. ](/news/2017/11/19/at-least-15-people-are-killed-in-a-human-stampede-over-food-in-the-village-of-sidi-boualem-morocco.md) _Context: human stampede_

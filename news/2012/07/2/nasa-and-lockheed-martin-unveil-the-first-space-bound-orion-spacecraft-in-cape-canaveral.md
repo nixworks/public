@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/2/nasa-and-lockheed-martin-unveil-the-first-space-bound-orion-spacecraft-in-cape-canaveral.html)  [JSON](/news/2012/07/2/nasa-and-lockheed-martin-unveil-the-first-space-bound-orion-spacecraft-in-cape-canaveral.json)  [XML](/news/2012/07/2/nasa-and-lockheed-martin-unveil-the-first-space-bound-orion-spacecraft-in-cape-canaveral.xml)  
+
 ### [2012-07-2](/news/2012/07/2/index.md)
 
+##### NASA
 # NASA and Lockheed Martin unveil the first space-bound Orion spacecraft in Cape Canaveral. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Florida Today](http://www.floridatoday.com/article/20120702/SPACE/120702005/orion-delta-iv-4-spacecraft-kennedy-space-center?nclick_check=1)
 
@@ -14,5 +18,5 @@
 1. [The first flight test of NASA's Orion spacecraft launches successfully at 7:05 EST (12:05 UTC) and splashes down safely in the Pacific Ocean at 8:29 PST (16:29 UTC). ](/news/2014/12/5/the-first-flight-test-of-nasa-s-orion-spacecraft-launches-successfully-at-7-05-est-12-05-utc-and-splashes-down-safely-in-the-pacific-ocean.md) _Context: NASA, Orion spacecraft_
 2. [The European Space Agency officially joins a project to build a Service Module based on their Automated Transfer Vehicle for NASA's Orion, a spacecraft to carry astronauts into deep space. ](/news/2013/01/17/the-european-space-agency-officially-joins-a-project-to-build-a-service-module-based-on-their-automated-transfer-vehicle-for-nasaas-orion.md) _Context: NASA, Orion spacecraft_
 3. [ NASA clears the Space Shuttle Endeavour for an early landing tomorrow at Cape Canaveral. ](/news/2007/08/20/nasa-clears-the-space-shuttle-endeavour-for-an-early-landing-tomorrow-at-cape-canaveral.md) _Context: Cape Canaveral, NASA_
-4. [As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes a distance of 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.md) _Context: NASA_
-5. [SpaceX launches a Falcon 9 Full Thrust rocket at Cape Canaveral, Florida, to supersynchronous orbit an Airbus-built communications satellite SES-11 for Luxembourg-based SES, and EchoStar 105 for U.S.-headquartered EchoStar. It's the third time when a Falcon 9 first stage is re-used. ](/news/2017/10/11/spacex-launches-a-falcon-9-full-thrust-rocket-at-cape-canaveral-florida-to-supersynchronous-orbit-an-airbus-built-communications-satellite.md) _Context: Cape Canaveral_
+4. [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md) _Context: NASA_
+5. [NASA research, published in "Geophysical Research Letters", implies that the ozone layer is starting to recover due to man's actions. The decline in ozone-depleting chemicals, specifically chlorine from chlorofluorocarbon (an effect from the 1980's CFC ban, say the scientists), has resulted in 20 percent less depletion since 2005. ](/news/2018/01/5/nasa-research-published-in-geophysical-research-letters-implies-that-the-ozone-layer-is-starting-to-recover-due-to-man-s-actions-the-de.md) _Context: NASA_

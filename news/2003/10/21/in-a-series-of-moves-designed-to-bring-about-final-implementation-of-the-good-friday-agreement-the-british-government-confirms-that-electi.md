@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/21/in-a-series-of-moves-designed-to-bring-about-final-implementation-of-the-good-friday-agreement-the-british-government-confirms-that-electi.html)  [JSON](/news/2003/10/21/in-a-series-of-moves-designed-to-bring-about-final-implementation-of-the-good-friday-agreement-the-british-government-confirms-that-electi.json)  [XML](/news/2003/10/21/in-a-series-of-moves-designed-to-bring-about-final-implementation-of-the-good-friday-agreement-the-british-government-confirms-that-electi.xml)  
+
 ### [2003-10-21](/news/2003/10/21/index.md)
 
+##### Good Friday Agreement
 #  In a series of moves designed to bring about final implementation of the Good Friday Agreement, the British Government confirms that elections to the region's devolved administration will be held on November 26. The Provisional IRA announces a further act of weapons decommissioning. Sinn Fein leader Gerry Adams declares "the end to physical force republicanism". Statements from all the major parties involved are expected over the course of the day.
 
 

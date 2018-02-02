@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/25/japan-lodges-a-formal-protest-with-china-after-two-chinese-fishing-boats-were-seen-near-the-senkaku-islands.html)  [JSON](/news/2010/10/25/japan-lodges-a-formal-protest-with-china-after-two-chinese-fishing-boats-were-seen-near-the-senkaku-islands.json)  [XML](/news/2010/10/25/japan-lodges-a-formal-protest-with-china-after-two-chinese-fishing-boats-were-seen-near-the-senkaku-islands.xml)  
+
 ### [2010-10-25](/news/2010/10/25/index.md)
 
+##### Japan
 # Japan lodges a formal protest with China after two Chinese fishing boats were seen near the Senkaku Islands. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11617198)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/49077000/jpg/_49077194_010133798-1.jpg)

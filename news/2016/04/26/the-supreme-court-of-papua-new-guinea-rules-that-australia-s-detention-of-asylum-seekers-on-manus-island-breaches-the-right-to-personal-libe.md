@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/26/the-supreme-court-of-papua-new-guinea-rules-tha
 
 ### [2016-04-26](/news/2016/04/26/index.md)
 
+##### Supreme Court of Papua New Guinea
 # The Supreme Court of Papua New Guinea rules that Australia's detention of asylum seekers on Manus Island breaches the right to personal liberty under the constitution. 
 
 Papua New Guinea&#039;s Supreme Court rules Australia&#039;s detention of asylum seekers on Manus Island is illegal.

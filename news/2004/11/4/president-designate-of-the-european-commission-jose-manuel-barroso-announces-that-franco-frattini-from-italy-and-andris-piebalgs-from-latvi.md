@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/11/4/president-designate-of-the-european-commission-jose-manuel-barroso-announces-that-franco-frattini-from-italy-and-andris-piebalgs-from-latvi.html)  [JSON](/news/2004/11/4/president-designate-of-the-european-commission-jose-manuel-barroso-announces-that-franco-frattini-from-italy-and-andris-piebalgs-from-latvi.json)  [XML](/news/2004/11/4/president-designate-of-the-european-commission-jose-manuel-barroso-announces-that-franco-frattini-from-italy-and-andris-piebalgs-from-latvi.xml)  
+
 ### [2004-11-4](/news/2004/11/4/index.md)
 
+##### European Commission
 #  President designate of the European Commission Jos Manuel Barroso announces that Franco Frattini from Italy and Andris Piebalgs from Latvia will complete his commission.
 
 

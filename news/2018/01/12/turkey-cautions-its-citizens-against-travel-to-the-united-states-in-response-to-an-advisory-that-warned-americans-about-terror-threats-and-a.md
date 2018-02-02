@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/12/turkey-cautions-its-citizens-against-travel-to-
 
 ### [2018-01-12](/news/2018/01/12/index.md)
 
+##### Turkey-United States relations
 # Turkey cautions its citizens against travel to the United States in response to an advisory that warned Americans about terror threats and arbitrary detentions in Turkey. 
 
 Turkey on Friday cautioned its citizens about traveling to the United States, in retaliation for a new U.S. travel advisory that warned Americans about terror threats and arbitrary detentions in Turkey.

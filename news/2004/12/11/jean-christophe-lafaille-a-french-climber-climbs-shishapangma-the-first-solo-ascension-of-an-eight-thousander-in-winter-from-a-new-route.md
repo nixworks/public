@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/12/11/jean-christophe-lafaille-a-french-climber-climbs-shishapangma-the-first-solo-ascension-of-an-eight-thousander-in-winter-from-a-new-route.html)  [JSON](/news/2004/12/11/jean-christophe-lafaille-a-french-climber-climbs-shishapangma-the-first-solo-ascension-of-an-eight-thousander-in-winter-from-a-new-route.json)  [XML](/news/2004/12/11/jean-christophe-lafaille-a-french-climber-climbs-shishapangma-the-first-solo-ascension-of-an-eight-thousander-in-winter-from-a-new-route.xml)  
+
 ### [2004-12-11](/news/2004/12/11/index.md)
 
+##### Jean-Christophe Lafaille
 #  Jean-Christophe Lafaille, a French climber, climbs Shishapangma, the first solo ascension of an eight-thousander in winter from a new route in the South face.
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/11/cardell-hayes-is-found-guilty-of-manslaughter-b
 
 ### [2016-12-11](/news/2016/12/11/index.md)
 
+##### Will Smith
 #  Cardell Hayes is found guilty of manslaughter by a Louisiana jury in the road rage shooting death of former New Orleans Saints star Will Smith. 
 
 Deliberations began Sunday evening in the case of a man charged with second-degree murder for fatally shooting retired New Orleans Saints star Will Smith after an April 9 car crash

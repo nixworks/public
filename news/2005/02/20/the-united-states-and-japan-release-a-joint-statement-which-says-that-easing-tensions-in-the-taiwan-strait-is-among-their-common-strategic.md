@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/02/20/the-united-states-and-japan-release-a-joint-statement-which-says-that-easing-tensions-in-the-taiwan-strait-is-among-their-common-strategic.html)  [JSON](/news/2005/02/20/the-united-states-and-japan-release-a-joint-statement-which-says-that-easing-tensions-in-the-taiwan-strait-is-among-their-common-strategic.json)  [XML](/news/2005/02/20/the-united-states-and-japan-release-a-joint-statement-which-says-that-easing-tensions-in-the-taiwan-strait-is-among-their-common-strategic.xml)  
+
 ### [2005-02-20](/news/2005/02/20/index.md)
 
+##### Taiwan Strait
 #  The United States and Japan release a joint statement which says that easing tensions in the Taiwan Strait is among their "common strategic objectives". The statement is welcomed by the government of Taiwan, but is condemned by China. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [NY Times](http://www.nytimes.com/2005/02/21/international/asia/21china.html)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=politicsNews&storyID=7679773)
+1. [NY Times](https://www.nytimes.com/2005/02/21/international/asia/21china.html)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=politicsNews&storyID=7679773)
 3. [Xinhua](http://news.xinhuanet.com/english/2005-02/20/content_2596290.htm)
 
 ### Related:

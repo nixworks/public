@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/11/11/deputy-director-of-central-intelligence-john-e-mclaughlin-and-some-other-senior-officials-in-the-cia-resign-amid-conflict-with-new-directo.html)  [JSON](/news/2004/11/11/deputy-director-of-central-intelligence-john-e-mclaughlin-and-some-other-senior-officials-in-the-cia-resign-amid-conflict-with-new-directo.json)  [XML](/news/2004/11/11/deputy-director-of-central-intelligence-john-e-mclaughlin-and-some-other-senior-officials-in-the-cia-resign-amid-conflict-with-new-directo.xml)  
+
 ### [2004-11-11](/news/2004/11/11/index.md)
 
+##### John E. McLaughlin
 #  Deputy director of central intelligence John E. McLaughlin and some other senior officials in the CIA resign amid conflict with new director Porter Goss's chief of staff, Patrick Murray. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.khaleejtimes.com/DisplayArticle.asp?xfile=data/theworld/2004/November/theworld_November311.xml&section=theworld)
-2. [Washington Post](http://www.washingtonpost.com/ac2/wp-dyn/A46580-2004Nov12?language=printer)
+2. [Washington Post](https://www.washingtonpost.com/ac2/wp-dyn/A46580-2004Nov12?language=printer)
 
 ### Related:
 

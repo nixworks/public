@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2011/05/24/a-suicide-bomber-attacks-the-headquarters-of-kazakhstan-s-security-service-causing-casualties.html)  [JSON](/news/2011/05/24/a-suicide-bomber-attacks-the-headquarters-of-kazakhstan-s-security-service-causing-casualties.json)  [XML](/news/2011/05/24/a-suicide-bomber-attacks-the-headquarters-of-kazakhstan-s-security-service-causing-casualties.xml)  
+
 ### [2011-05-24](/news/2011/05/24/index.md)
 
+##### suicide bomber
 # A suicide bomber attacks the headquarters of Kazakhstan's security service, causing casualties. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/suicide-bombing-in-kazakhstan-casualties-20110524-1f1zk.html)
 
 ### Related:
 
-1. [ A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-13-others-i.md) _Context: suicide bomber_
-2. [A suicide bomber kills at least six people and wounds 18 near a Pakistan Army vehicle taking part in the census in the city of Lahore. ](/news/2017/04/5/a-suicide-bomber-kills-at-least-six-people-and-wounds-18-near-a-pakistan-army-vehicle-taking-part-in-the-census-in-the-city-of-lahore.md) _Context: suicide bomber_
-3. [The second day of peace negotiations in Astana, Kazakhstan, end with the sponsors of the talks, Russia, Turkey and Iran, agreeing to set up commission between the three to monitor and enforce the fragile ceasefire to the Syrian Civil War. ](/news/2017/01/24/the-second-day-of-peace-negotiations-in-astana-kazakhstan-end-with-the-sponsors-of-the-talks-russia-turkey-and-iran-agreeing-to-set-up.md) _Context: Kazakhstan_
-4. [Peace talks in Astana, Kazakhstan, between the Syrian opposition and the Syrian Government, meant to build on a fragile ceasefire currently in effect in the Syrian Civil War, end with no breakthrough reported. ](/news/2017/01/23/peace-talks-in-astana-kazakhstan-between-the-syrian-opposition-and-the-syrian-government-meant-to-build-on-a-fragile-ceasefire-currently.md) _Context: Kazakhstan_
-5. [The Syrian Opposition agree to attend peace talks with the Syrian government in Astana, Kazakhstan, in order to press for a ceasefire to the conflict. ](/news/2017/01/16/the-syrian-opposition-agree-to-attend-peace-talks-with-the-syrian-government-in-astana-kazakhstan-in-order-to-press-for-a-ceasefire-to-the.md) _Context: Kazakhstan_
+1. [A suicide bomber in an ambulance packed with explosives kills at least 102 people and wounds 158 outside a hospital in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-explosives-kills-at-least-102-people-and-wounds-158-outside-a-hospital-in-kabul-afghanistan.md) _Context: suicide bomber_
+2. [A bus carrying Uzbek migrant workers catches fire in Kazakhstan's Aktobe Region, killing 52 people. Five people escape and are treated by rescue workers. ](/news/2018/01/18/a-bus-carrying-uzbek-migrant-workers-catches-fire-in-kazakhstan-s-aktobe-region-killing-52-people-five-people-escape-and-are-treated-by-re.md) _Context: Kazakhstan_
+3. [France's nuclear safety institute (IRSN) picks up traces of ruthenium-106, suggesting a nuclear accident took place in either Russia or Kazakhstan, in late September and early October. ](/news/2017/11/10/france-s-nuclear-safety-institute-irsn-picks-up-traces-of-ruthenium-106-suggesting-a-nuclear-accident-took-place-in-either-russia-or-kaza.md) _Context: Kazakhstan_
+4. [A suicide bomber kills at least 15 people in Kabul. ](/news/2017/10/21/a-suicide-bomber-kills-at-least-15-people-in-kabul.md) _Context: suicide bomber_
+5. [Two suicide bomber attacks, one on a Shia mosque in Kabul and one on a Sunni mosque in Ghor Province, kill approximately 60 people. Approximately 180 people have been killed in bombing attacks this week. ](/news/2017/10/20/two-suicide-bomber-attacks-one-on-a-shia-mosque-in-kabul-and-one-on-a-sunni-mosque-in-ghor-province-kill-approximately-60-people-approxim.md) _Context: suicide bomber_

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/06/28/the-bosnian-city-of-sarajevo-commemorates-the-100th-anniversary-of-the-assassination-of-archduke-franz-ferdinand-of-austria-that-led-to-worl.html)  [JSON](/news/2014/06/28/the-bosnian-city-of-sarajevo-commemorates-the-100th-anniversary-of-the-assassination-of-archduke-franz-ferdinand-of-austria-that-led-to-worl.json)  [XML](/news/2014/06/28/the-bosnian-city-of-sarajevo-commemorates-the-100th-anniversary-of-the-assassination-of-archduke-franz-ferdinand-of-austria-that-led-to-worl.xml)  
+
 ### [2014-06-28](/news/2014/06/28/index.md)
 
+##### Bosnian
 # The Bosnian city of Sarajevo commemorates the 100th anniversary of the assassination of Archduke Franz Ferdinand of Austria that led to World War I. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/06/28/us-ww1-anniversary-bosnia-idUSKBN0F307C20140628)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140628&t=2&i=913237308&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA5R038)
+1. [Reuters](https://www.reuters.com/article/2014/06/28/us-ww1-anniversary-bosnia-idUSKBN0F307C20140628)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20140628&t=2&i=913237308&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA5R038)
 
 ### Related:
 

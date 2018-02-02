@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/24/munster-win-the-heineken-european-rugby-cup-against-toulouse-16-to-13.html)  [JSON](/news/2008/05/24/munster-win-the-heineken-european-rugby-cup-against-toulouse-16-to-13.json)  [XML](/news/2008/05/24/munster-win-the-heineken-european-rugby-cup-against-toulouse-16-to-13.xml)  
+
 ### [2008-05-24](/news/2008/05/24/index.md)
 
+##### Munster Rugby
 #  Munster win the Heineken European Rugby Cup against Toulouse, 16 to 13. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/sport/rugby/2008/0524/munster_toulouse_tracker.html)
 

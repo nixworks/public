@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/19/official-partial-returns-from-the-armenian-presidential-election-indicate-that-incumbent-president-serzh-sargsyan-will-be-reelected-in-a-lan.html)  [JSON](/news/2013/02/19/official-partial-returns-from-the-armenian-presidential-election-indicate-that-incumbent-president-serzh-sargsyan-will-be-reelected-in-a-lan.json)  [XML](/news/2013/02/19/official-partial-returns-from-the-armenian-presidential-election-indicate-that-incumbent-president-serzh-sargsyan-will-be-reelected-in-a-lan.xml)  
+
 ### [2013-02-19](/news/2013/02/19/index.md)
 
+##### Armenia
 # Official partial returns from the Armenian presidential election indicate that incumbent President Serzh Sargsyan will be reelected in a landslide with the leading Opposition candidate Raffi Hovannisian raising concerns about irregularities. 
 
 Incumbent Serzh Sargsyan garners 61 percent of vote, according to partial results, amid claims of voting violations.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/02/20132184572132556.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/2/19/20132190255929734_20.jpg)

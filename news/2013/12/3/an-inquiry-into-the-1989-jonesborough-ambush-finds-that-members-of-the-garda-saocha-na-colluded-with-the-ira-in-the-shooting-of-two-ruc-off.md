@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/3/an-inquiry-into-the-1989-jonesborough-ambush-finds-that-members-of-the-garda-saocha-na-colluded-with-the-ira-in-the-shooting-of-two-ruc-off.html)  [JSON](/news/2013/12/3/an-inquiry-into-the-1989-jonesborough-ambush-finds-that-members-of-the-garda-saocha-na-colluded-with-the-ira-in-the-shooting-of-two-ruc-off.json)  [XML](/news/2013/12/3/an-inquiry-into-the-1989-jonesborough-ambush-finds-that-members-of-the-garda-saocha-na-colluded-with-the-ira-in-the-shooting-of-two-ruc-off.xml)  
+
 ### [2013-12-3](/news/2013/12/3/index.md)
 
+##### inquiry
 # An inquiry into the 1989 Jonesborough ambush finds that members of the Garda Siochana colluded with the IRA in the shooting of two RUC officers as they crossed the Irish border. 
 
 Irish police colluded in the IRA murders of two senior Northern Ireland policemen, an inquiry has found.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-25199800)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61799000/jpg/_61799987_breenbuchanonuntitled-1copy.jpg)

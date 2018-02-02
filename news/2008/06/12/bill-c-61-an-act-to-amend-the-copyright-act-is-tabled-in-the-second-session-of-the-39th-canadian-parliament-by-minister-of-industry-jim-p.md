@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/12/bill-c-61-an-act-to-amend-the-copyright-act-is-tabled-in-the-second-session-of-the-39th-canadian-parliament-by-minister-of-industry-jim-p.html)  [JSON](/news/2008/06/12/bill-c-61-an-act-to-amend-the-copyright-act-is-tabled-in-the-second-session-of-the-39th-canadian-parliament-by-minister-of-industry-jim-p.json)  [XML](/news/2008/06/12/bill-c-61-an-act-to-amend-the-copyright-act-is-tabled-in-the-second-session-of-the-39th-canadian-parliament-by-minister-of-industry-jim-p.xml)  
+
 ### [2008-06-12](/news/2008/06/12/index.md)
 
+##### Bill C-61
 #  Bill C-61, An Act to amend the Copyright Act, is tabled in the second session of the 39th Canadian Parliament by Minister of Industry Jim Prentice, in efforts to better comply to the WIPO treaty. 
 
 The government has introduced a controversial bill it says balances the rights of copyright holders and consumers &mdash; but it opens millions of Canadians to huge lawsuits.
 
 
-### Source:
+### Sources:
 
 1. [CBC News](http://www.cbc.ca/technology/story/2008/06/12/tech-copyright.html)
 1. [Cover Image](https://i.cbc.ca/1.2223139.1382676337!/httpImage/image.jpg_gen/derivatives/16x9_1180/top-prentice-cbc080612.jpg)

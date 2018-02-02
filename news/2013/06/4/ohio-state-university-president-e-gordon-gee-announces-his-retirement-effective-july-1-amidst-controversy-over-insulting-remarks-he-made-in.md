@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/06/4/ohio-state-university-president-e-gordon-gee-announces-his-retirement-effective-july-1-amidst-controversy-over-insulting-remarks-he-made-in.html)  [JSON](/news/2013/06/4/ohio-state-university-president-e-gordon-gee-announces-his-retirement-effective-july-1-amidst-controversy-over-insulting-remarks-he-made-in.json)  [XML](/news/2013/06/4/ohio-state-university-president-e-gordon-gee-announces-his-retirement-effective-july-1-amidst-controversy-over-insulting-remarks-he-made-in.xml)  
+
 ### [2013-06-4](/news/2013/06/4/index.md)
 
+##### Ohio State University
 # Ohio State University president E. Gordon Gee announces his retirement effective July 1 amidst controversy over insulting remarks he made in December 2012. 
 
-Gordon Gee once said he had &quot;no business talking college football.&quot; But doing so ended his tenure as Ohio State&#39;s President.
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/sports/ncaaf/bigten/2013/06/04/college-football-ohio-state-president-gordon-gee-retires/2390019/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/sports/ncaaf/bigten/2013/06/04/college-football-ohio-state-president-gordon-gee-retires/2390019/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

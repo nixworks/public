@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/8/the-new-president-of-the-maldives-mohammed-waheed-hassan-calls-for-the-formation-of-a-national-unity-government-while-supporters-of-former-p.html)  [JSON](/news/2012/02/8/the-new-president-of-the-maldives-mohammed-waheed-hassan-calls-for-the-formation-of-a-national-unity-government-while-supporters-of-former-p.json)  [XML](/news/2012/02/8/the-new-president-of-the-maldives-mohammed-waheed-hassan-calls-for-the-formation-of-a-national-unity-government-while-supporters-of-former-p.xml)  
+
 ### [2012-02-8](/news/2012/02/8/index.md)
 
+##### President
 # The new President of the Maldives Mohammed Waheed Hassan calls for the formation of a national unity government while supporters of former President Mohamed Nasheed riot. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Christian Science Monitor](http://www.csmonitor.com/World/Latest-News-Wires/2012/0208/Maldives-president-asks-for-unity-while-rioting-rages-on-video)
 2. [AP via ''Herald-Sun](http://www.heraldsun.com.au/news/breaking-news/maldives-leader-calls-for-unity-government/story-e6frf7jx-1226266100311)

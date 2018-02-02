@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/21/celebrations-of-losar-the-tibetan-buddhist-new-year-are-cancelled-in-the-people-s-republic-of-china-due-to-a-wave-of-immolations.html)  [JSON](/news/2012/02/21/celebrations-of-losar-the-tibetan-buddhist-new-year-are-cancelled-in-the-people-s-republic-of-china-due-to-a-wave-of-immolations.json)  [XML](/news/2012/02/21/celebrations-of-losar-the-tibetan-buddhist-new-year-are-cancelled-in-the-people-s-republic-of-china-due-to-a-wave-of-immolations.xml)  
+
 ### [2012-02-21](/news/2012/02/21/index.md)
 
+##### Losar
 # Celebrations of Losar, the Tibetan Buddhist New Year, are cancelled in the People's Republic of China due to a wave of immolations. 
 
 For Tibetan Buddhists, tomorrow is Losar, the start of the year 2139; an occasion that the Dalai Lama will mark in the main temple in Mcleod Ganj, Dharamsala.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/tibet/9095889/As-Tibet-marks-new-year-self-immolations-mean-there-will-be-no-celebrations.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02145/tib_2145748a.jpg)

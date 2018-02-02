@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/17/3-people-died-after-supports-collapsed-on-them-at-a-coal-mine-in-east-china-s-anhui-province-a-spokesman-with-the-anhui-huainan-mining-grou.html)  [JSON](/news/2010/06/17/3-people-died-after-supports-collapsed-on-them-at-a-coal-mine-in-east-china-s-anhui-province-a-spokesman-with-the-anhui-huainan-mining-grou.json)  [XML](/news/2010/06/17/3-people-died-after-supports-collapsed-on-them-at-a-coal-mine-in-east-china-s-anhui-province-a-spokesman-with-the-anhui-huainan-mining-grou.xml)  
+
 ### [2010-06-17](/news/2010/06/17/index.md)
 
+##### Anhui Province
 # 3 people died after supports collapsed on them at a coal mine in east China's Anhui Province, a spokesman with the Anhui Huainan Mining Group in Bagongshan District of Huainan City. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [People Dialy](http://english.peopledaily.com.cn/90001/90776/90882/7028896.html)
 

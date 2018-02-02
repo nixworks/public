@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/06/19/after-senegal-s-parliamentary-elections-macky-sall-resigns-as-prime-minister-and-president-abdoulaye-wade-appoints-former-deputy-minister.html)  [JSON](/news/2007/06/19/after-senegal-s-parliamentary-elections-macky-sall-resigns-as-prime-minister-and-president-abdoulaye-wade-appoints-former-deputy-minister.json)  [XML](/news/2007/06/19/after-senegal-s-parliamentary-elections-macky-sall-resigns-as-prime-minister-and-president-abdoulaye-wade-appoints-former-deputy-minister.xml)  
+
 ### [2007-06-19](/news/2007/06/19/index.md)
 
+##### Senegal
 #  After Senegal's parliamentary elections, Macky Sall resigns as Prime Minister and President Abdoulaye Wade appoints former Deputy Minister for the Budget Cheikh Hadjibou Soumar in his stead.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/6/writing-in-the-fifa-weekly-magazine-fifa-president-sepp-blatter-calls-iran-to-end-its-intolerable-ban-on-women-attending-soccer-matches.html)  [JSON](/news/2015/03/6/writing-in-the-fifa-weekly-magazine-fifa-president-sepp-blatter-calls-iran-to-end-its-intolerable-ban-on-women-attending-soccer-matches.json)  [XML](/news/2015/03/6/writing-in-the-fifa-weekly-magazine-fifa-president-sepp-blatter-calls-iran-to-end-its-intolerable-ban-on-women-attending-soccer-matches.xml)  
+
 ### [2015-03-6](/news/2015/03/6/index.md)
 
+##### FIFA
 # Writing in the FIFA Weekly magazine, FIFA president Sepp Blatter calls Iran to end its "intolerable" ban on women attending soccer matches, describing the situation as one that "cannot continue." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2015/03/06/football/iran-ban-women-matches-sepp-blatter-fifa/)
 

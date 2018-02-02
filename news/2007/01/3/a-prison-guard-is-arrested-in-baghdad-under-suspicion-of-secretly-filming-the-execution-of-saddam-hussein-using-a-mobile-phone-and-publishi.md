@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/3/a-prison-guard-is-arrested-in-baghdad-under-suspicion-of-secretly-filming-the-execution-of-saddam-hussein-using-a-mobile-phone-and-publishi.html)  [JSON](/news/2007/01/3/a-prison-guard-is-arrested-in-baghdad-under-suspicion-of-secretly-filming-the-execution-of-saddam-hussein-using-a-mobile-phone-and-publishi.json)  [XML](/news/2007/01/3/a-prison-guard-is-arrested-in-baghdad-under-suspicion-of-secretly-filming-the-execution-of-saddam-hussein-using-a-mobile-phone-and-publishi.xml)  
+
 ### [2007-01-3](/news/2007/01/3/index.md)
 
+##### Baghdad
 #  A prison guard is arrested in Baghdad under suspicion of secretly filming the execution of Saddam Hussein using a mobile phone and publishing the video on the Internet. 
 
 News and opinion from The Times &amp; The Sunday Times
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/article/0,,7374-2529472,00.html)
 1. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)

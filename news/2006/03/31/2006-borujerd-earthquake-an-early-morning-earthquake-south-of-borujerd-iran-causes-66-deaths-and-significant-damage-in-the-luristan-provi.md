@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/03/31/2006-borujerd-earthquake-an-early-morning-earthquake-south-of-borujerd-iran-causes-66-deaths-and-significant-damage-in-the-luristan-provi.html)  [JSON](/news/2006/03/31/2006-borujerd-earthquake-an-early-morning-earthquake-south-of-borujerd-iran-causes-66-deaths-and-significant-damage-in-the-luristan-provi.json)  [XML](/news/2006/03/31/2006-borujerd-earthquake-an-early-morning-earthquake-south-of-borujerd-iran-causes-66-deaths-and-significant-damage-in-the-luristan-provi.xml)  
+
 ### [2006-03-31](/news/2006/03/31/index.md)
 
+##### 2006 Borujerd earthquake
 #  2006 Borujerd earthquake: An early-morning earthquake south of Borujerd, Iran causes 66 deaths and significant damage in the Luristan province in the west of the country.
 
 

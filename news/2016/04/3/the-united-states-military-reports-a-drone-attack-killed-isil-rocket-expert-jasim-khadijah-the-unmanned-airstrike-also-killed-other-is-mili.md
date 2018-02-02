@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/3/the-united-states-military-reports-a-drone-attac
 
 ### [2016-04-3](/news/2016/04/3/index.md)
 
+##### Iraq Civil War
 # The United States military reports a drone attack killed ISIL rocket expert Jasim Khadijah. The unmanned airstrike also killed other IS militants and destroyed at least one makeshift drone. Khadijah, a former Iraqi officer, is believed responsible for the March attack that killed a U.S. Marine in northern Iraq. 
 
 HIT, Iraq (AP) — Iraqi forces took the northern edge of the Islamic State-held town of Hit, west of Baghdad, on Sunday in an operation led by the country&#039;s elite counterterrorism forces, military officials said. The operation…

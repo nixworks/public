@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2008/01/4/winter-storms-in-california-cause-power-outages-destruction-of-property-and-flight-delays-in-san-francisco.html)  [JSON](/news/2008/01/4/winter-storms-in-california-cause-power-outages-destruction-of-property-and-flight-delays-in-san-francisco.json)  [XML](/news/2008/01/4/winter-storms-in-california-cause-power-outages-destruction-of-property-and-flight-delays-in-san-francisco.xml)  
+
 ### [2008-01-4](/news/2008/01/4/index.md)
 
+#####  Winter storms
 #  Winter storms in California cause power outages, destruction of property and flight delays in San Francisco.
 
 

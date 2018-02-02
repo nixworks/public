@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/24/michael-misick-resigns-as-premier-of-the-turks-and-caicos-islands-due-to-alleged-corruption.html)  [JSON](/news/2009/03/24/michael-misick-resigns-as-premier-of-the-turks-and-caicos-islands-due-to-alleged-corruption.json)  [XML](/news/2009/03/24/michael-misick-resigns-as-premier-of-the-turks-and-caicos-islands-due-to-alleged-corruption.xml)  
+
 ### [2009-03-24](/news/2009/03/24/index.md)
 
+##### Michael Misick
 #  Michael Misick resigns as Premier of the Turks and Caicos Islands, due to alleged corruption. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/7960426.stm)
 
@@ -13,6 +17,6 @@
 
 1. [Brazilian police arrest Michael Misick, former Premier of the Turks and Caicos Islands, who is wanted to face corruption charges in relation to his administration of the British overseas territory in the United Kingdom. ](/news/2012/12/7/brazilian-police-arrest-michael-misick-former-premier-of-the-turks-and-caicos-islands-who-is-wanted-to-face-corruption-charges-in-relation.md) _Context: Michael Misick, Premier of the Turks and Caicos Islands_
 2. [An Interpol arrest warrant is issued for Michael Misick, former Premier of the Turks and Caicos Islands on corruption charges. ](/news/2012/03/19/an-interpol-arrest-warrant-is-issued-for-michael-misick-former-premier-of-the-turks-and-caicos-islands-on-corruption-charges.md) _Context: Michael Misick, Premier of the Turks and Caicos Islands_
-3. [The Peruvian Pedro Pablo Kuczynski Administration, through the Ministry of Justice, appoints a new head to the Direction of Presidential Graces, which is believed to be a first step towards granting a pardon to 79-year-old former president Alberto Fujimori (1990-2000), although President Kuczynski has denied it. In April 2009, a three-judge panel had sentenced Fujimori for acts of corruption, human rights violations, and various others crimes. Fujimori, who has been in jail since 2007 and whose health has deteriorated, including alleged tongue cancer, has applied for a pardon unsuccessfully on two occasions. ](/news/2017/10/11/the-peruvian-pedro-pablo-kuczynski-administration-through-the-ministry-of-justice-appoints-a-new-head-to-the-direction-of-presidential-gra.md) _Context: corruption_
-4. [Irma has killed at least 14 people. The storm, still at Category 5 strength with maximum sustained winds of 175 mph (280 km-h), is moving west-northwest at 16 mph (26 km-h). It has reached the dual-country island of Hispaniola and is forecast to pass over the Turks and Caicos Islands as it heads towards The Bahamas and Cuba. The eye did not directly hit Puerto Rico; still casualties are reported and around two-thirds of its 3.4 million population are without electricity. ](/news/2017/09/7/irma-has-killed-at-least-14-people-the-storm-still-at-category-5-strength-with-maximum-sustained-winds-of-175-mph-280-km-h-is-moving-we.md) _Context: Turks and Caicos Islands_
-5. [Maria, now a Category 3 hurricane with maximum sustained winds of 125 mph (205 km-h), is passing offshore of the northern coast of the Dominican Republic, expected to impact the Turks and Caicos Islands and southeastern Bahamas later tonight and Friday. ](/news/2017/09/21/maria-now-a-category-3-hurricane-with-maximum-sustained-winds-of-125-mph-205-km-h-is-passing-offshore-of-the-northern-coast-of-the-domin.md) _Context: Turks and Caicos Islands_
+3. [Irma has killed at least 14 people. The storm, still at Category 5 strength with maximum sustained winds of 175 mph (280 km-h), is moving west-northwest at 16 mph (26 km-h). It has reached the dual-country island of Hispaniola and is forecast to pass over the Turks and Caicos Islands as it heads towards The Bahamas and Cuba. The eye did not directly hit Puerto Rico; still casualties are reported and around two-thirds of its 3.4 million population are without electricity. ](/news/2017/09/7/irma-has-killed-at-least-14-people-the-storm-still-at-category-5-strength-with-maximum-sustained-winds-of-175-mph-280-km-h-is-moving-we.md) _Context: Turks and Caicos Islands_
+4. [Maria, now a Category 3 hurricane with maximum sustained winds of 125 mph (205 km-h), is passing offshore of the northern coast of the Dominican Republic, expected to impact the Turks and Caicos Islands and southeastern Bahamas later tonight and Friday. ](/news/2017/09/21/maria-now-a-category-3-hurricane-with-maximum-sustained-winds-of-125-mph-205-km-h-is-passing-offshore-of-the-northern-coast-of-the-domin.md) _Context: Turks and Caicos Islands_
+5. [Protesters demanding political reform leave Baghdad's Green Zone after camping for 24 hours in the heavily fortified government district. These activists, followers of Shi'ite Muslim cleric Muqtada al-Sadr, support Prime Minister Haider al-Abadi's anti-corruption proposals to replace party-affiliated ministers with technocrats. A grid-locked parliament has been unable to act on these changes. ](/news/2016/05/1/protesters-demanding-political-reform-leave-baghdad-s-green-zone-after-camping-for-24-hours-in-the-heavily-fortified-government-district-th.md) _Context: anti-corruption_

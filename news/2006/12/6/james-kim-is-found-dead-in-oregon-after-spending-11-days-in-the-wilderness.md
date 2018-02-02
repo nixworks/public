@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/6/james-kim-is-found-dead-in-oregon-after-spending-11-days-in-the-wilderness.html)  [JSON](/news/2006/12/6/james-kim-is-found-dead-in-oregon-after-spending-11-days-in-the-wilderness.json)  [XML](/news/2006/12/6/james-kim-is-found-dead-in-oregon-after-spending-11-days-in-the-wilderness.xml)  
+
 ### [2006-12-6](/news/2006/12/6/index.md)
 
+##### James Kim
 #  James Kim is found dead in Oregon after spending 11 days in the wilderness. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNET](http://news.com.com/James+Kim+found+deceased/2100-1028_3-6141498.html?tag=cnetfd.ld1)
 2. [CNN](http://www.cnn.com/2006/US/12/06/missing.family/index.html)

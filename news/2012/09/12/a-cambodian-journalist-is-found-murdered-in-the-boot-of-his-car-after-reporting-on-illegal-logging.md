@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/12/a-cambodian-journalist-is-found-murdered-in-the-boot-of-his-car-after-reporting-on-illegal-logging.html)  [JSON](/news/2012/09/12/a-cambodian-journalist-is-found-murdered-in-the-boot-of-his-car-after-reporting-on-illegal-logging.json)  [XML](/news/2012/09/12/a-cambodian-journalist-is-found-murdered-in-the-boot-of-his-car-after-reporting-on-illegal-logging.xml)  
+
 ### [2012-09-12](/news/2012/09/12/index.md)
 
+##### Cambodia
 # A Cambodian journalist is found murdered in the boot of his car, after reporting on illegal logging. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/asia/312037/cambodian-journalist-found-murdered)
 

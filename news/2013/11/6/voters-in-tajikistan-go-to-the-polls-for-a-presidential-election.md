@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/6/voters-in-tajikistan-go-to-the-polls-for-a-presidential-election.html)  [JSON](/news/2013/11/6/voters-in-tajikistan-go-to-the-polls-for-a-presidential-election.json)  [XML](/news/2013/11/6/voters-in-tajikistan-go-to-the-polls-for-a-presidential-election.xml)  
+
 ### [2013-11-6](/news/2013/11/6/index.md)
 
+##### Tajikistan
 # Voters in Tajikistan go to the polls for a presidential election. 
 
 Tajikistan holds presidential elections, with incumbent leader Emomali Rakhmon widely expected to win a new term in the impoverished country.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-24830415)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70934000/jpg/_70934680_70934679.jpg)

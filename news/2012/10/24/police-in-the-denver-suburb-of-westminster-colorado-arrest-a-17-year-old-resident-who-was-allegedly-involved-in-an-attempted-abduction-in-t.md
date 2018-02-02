@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/24/police-in-the-denver-suburb-of-westminster-colorado-arrest-a-17-year-old-resident-who-was-allegedly-involved-in-an-attempted-abduction-in-t.html)  [JSON](/news/2012/10/24/police-in-the-denver-suburb-of-westminster-colorado-arrest-a-17-year-old-resident-who-was-allegedly-involved-in-an-attempted-abduction-in-t.json)  [XML](/news/2012/10/24/police-in-the-denver-suburb-of-westminster-colorado-arrest-a-17-year-old-resident-who-was-allegedly-involved-in-an-attempted-abduction-in-t.xml)  
+
 ### [2012-10-24](/news/2012/10/24/index.md)
 
+##### Denver
 # Police in the Denver suburb of Westminster, Colorado arrest a 17-year-old resident who was allegedly involved in an attempted abduction in the killing of 10-year-old Jessica Ridgeway. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://usnews.nbcnews.com/_news/2012/10/24/14672250-teen-arrested-in-killing-of-jessica-ridgeway-10-year-old-colorado-girl?lite)
 

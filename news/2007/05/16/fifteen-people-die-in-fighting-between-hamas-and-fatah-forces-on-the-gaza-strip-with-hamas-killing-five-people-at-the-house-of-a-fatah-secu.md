@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/16/fifteen-people-die-in-fighting-between-hamas-and-fatah-forces-on-the-gaza-strip-with-hamas-killing-five-people-at-the-house-of-a-fatah-secu.html)  [JSON](/news/2007/05/16/fifteen-people-die-in-fighting-between-hamas-and-fatah-forces-on-the-gaza-strip-with-hamas-killing-five-people-at-the-house-of-a-fatah-secu.json)  [XML](/news/2007/05/16/fifteen-people-die-in-fighting-between-hamas-and-fatah-forces-on-the-gaza-strip-with-hamas-killing-five-people-at-the-house-of-a-fatah-secu.xml)  
+
 ### [2007-05-16](/news/2007/05/16/index.md)
 
+##### Hamas
 #  Fifteen people die in fighting between Hamas and Fatah forces on the Gaza Strip with Hamas killing five people at the house of a Fatah security chief Rashid Abu Shbak in Gaza City. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://edition.cnn.com/2007/WORLD/meast/05/16/mideast.ap/index.html?eref=rss_world)
 

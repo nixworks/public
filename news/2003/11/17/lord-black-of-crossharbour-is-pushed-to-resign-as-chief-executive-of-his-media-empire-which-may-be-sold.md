@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/17/lord-black-of-crossharbour-is-pushed-to-resign-as-chief-executive-of-his-media-empire-which-may-be-sold.html)  [JSON](/news/2003/11/17/lord-black-of-crossharbour-is-pushed-to-resign-as-chief-executive-of-his-media-empire-which-may-be-sold.json)  [XML](/news/2003/11/17/lord-black-of-crossharbour-is-pushed-to-resign-as-chief-executive-of-his-media-empire-which-may-be-sold.xml)  
+
 ### [2003-11-17](/news/2003/11/17/index.md)
 
+##### Conrad Black
 #  Lord Black of Crossharbour is pushed to resign as chief executive of his media empire, which may be sold.
 
 

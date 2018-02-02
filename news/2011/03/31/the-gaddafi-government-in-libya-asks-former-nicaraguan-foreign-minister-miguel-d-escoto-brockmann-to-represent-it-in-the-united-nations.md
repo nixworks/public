@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/03/31/the-gaddafi-government-in-libya-asks-former-nicaraguan-foreign-minister-miguel-d-escoto-brockmann-to-represent-it-in-the-united-nations.html)  [JSON](/news/2011/03/31/the-gaddafi-government-in-libya-asks-former-nicaraguan-foreign-minister-miguel-d-escoto-brockmann-to-represent-it-in-the-united-nations.json)  [XML](/news/2011/03/31/the-gaddafi-government-in-libya-asks-former-nicaraguan-foreign-minister-miguel-d-escoto-brockmann-to-represent-it-in-the-united-nations.xml)  
+
 ### [2011-03-31](/news/2011/03/31/index.md)
 
+##### Muammar Gaddafi
 # The Gaddafi government in Libya asks former Nicaraguan foreign minister Miguel d'Escoto Brockmann to represent it in the United Nations. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo News](http://news.yahoo.com/s/ap/20110331/ap_on_re_us/un_un_nicaragua_libya)
+1. [AP via Yahoo News](https://news.yahoo.com/s/ap/20110331/ap_on_re_us/un_un_nicaragua_libya)
 
 ### Related:
 

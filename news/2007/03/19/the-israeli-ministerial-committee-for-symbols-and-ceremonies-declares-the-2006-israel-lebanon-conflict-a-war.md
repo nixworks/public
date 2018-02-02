@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/19/the-israeli-ministerial-committee-for-symbols-and-ceremonies-declares-the-2006-israel-lebanon-conflict-a-war.html)  [JSON](/news/2007/03/19/the-israeli-ministerial-committee-for-symbols-and-ceremonies-declares-the-2006-israel-lebanon-conflict-a-war.json)  [XML](/news/2007/03/19/the-israeli-ministerial-committee-for-symbols-and-ceremonies-declares-the-2006-israel-lebanon-conflict-a-war.xml)  
+
 ### [2007-03-19](/news/2007/03/19/index.md)
 
+##### Israel
 #  The Israeli Ministerial Committee for Symbols and Ceremonies declares the 2006 Israel-Lebanon conflict a war. 
 
 Ministerial Committee for Symbols and Ceremonies decides that last summer&#39;s conflict between Israel and Hizbullah will be defined as a war, following pressure from bereaved families. Committee to decide on name for war by Remembrance Day 
 
 
-### Source:
+### Sources:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3378240,00.html#n)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

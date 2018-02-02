@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/12/the-french-warship-clemenceau-reaches-egypt-and-is-barred-access-to-the-suez-canal-two-greenpeace-activists-board-the-ship.html)  [JSON](/news/2006/01/12/the-french-warship-clemenceau-reaches-egypt-and-is-barred-access-to-the-suez-canal-two-greenpeace-activists-board-the-ship.json)  [XML](/news/2006/01/12/the-french-warship-clemenceau-reaches-egypt-and-is-barred-access-to-the-suez-canal-two-greenpeace-activists-board-the-ship.xml)  
+
 ### [2006-01-12](/news/2006/01/12/index.md)
 
+##### Clemenceau
 #  The French warship Clemenceau reaches Egypt and is barred access to the Suez Canal. Two Greenpeace activists board the ship. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4605374.stm)
 

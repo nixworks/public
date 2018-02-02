@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/22/israeli-forces-enter-the-last-remaining-israeli-settlement-in-the-gaza-strip-to-remove-the-settlers-from-netzarim-a-religious-farming-comm.html)  [JSON](/news/2005/08/22/israeli-forces-enter-the-last-remaining-israeli-settlement-in-the-gaza-strip-to-remove-the-settlers-from-netzarim-a-religious-farming-comm.json)  [XML](/news/2005/08/22/israeli-forces-enter-the-last-remaining-israeli-settlement-in-the-gaza-strip-to-remove-the-settlers-from-netzarim-a-religious-farming-comm.xml)  
+
 ### [2005-08-22](/news/2005/08/22/index.md)
 
+##### Israel Defense Forces
 #  Israeli forces enter the last remaining Israeli settlement in the Gaza Strip to remove the settlers from Netzarim, a religious farming community of about 500, completing the evacuation of all the enclaves. Four small militant settlements on the West Bank will also be cleared, with 5,500 troops heading there to begin evictions on Tuesday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IMRA](http://imra.org.il/story.php3?id=26590)
 2. [Reuters](http://www.alertnet.org/thenews/newsdesk/L2238993.htm)

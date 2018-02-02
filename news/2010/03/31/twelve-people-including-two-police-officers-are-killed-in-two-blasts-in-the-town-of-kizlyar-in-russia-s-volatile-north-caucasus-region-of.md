@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/31/twelve-people-including-two-police-officers-are-killed-in-two-blasts-in-the-town-of-kizlyar-in-russia-s-volatile-north-caucasus-region-of.html)  [JSON](/news/2010/03/31/twelve-people-including-two-police-officers-are-killed-in-two-blasts-in-the-town-of-kizlyar-in-russia-s-volatile-north-caucasus-region-of.json)  [XML](/news/2010/03/31/twelve-people-including-two-police-officers-are-killed-in-two-blasts-in-the-town-of-kizlyar-in-russia-s-volatile-north-caucasus-region-of.xml)  
+
 ### [2010-03-31](/news/2010/03/31/index.md)
 
+##### the deaths of 12 people occur there in a double suicide attack
 # Twelve people, including two police officers, are killed in two blasts in the town of Kizlyar in Russia's volatile North Caucasus region of Dagestan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/russia/20100331/158377219.html)
 2. [TVNZ](http://tvnz.co.nz/world-news/two-blasts-kill-11-in-russian-town-3442661)

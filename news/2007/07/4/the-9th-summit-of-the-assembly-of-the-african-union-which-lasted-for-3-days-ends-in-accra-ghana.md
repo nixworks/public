@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/4/the-9th-summit-of-the-assembly-of-the-african-union-which-lasted-for-3-days-ends-in-accra-ghana.html)  [JSON](/news/2007/07/4/the-9th-summit-of-the-assembly-of-the-african-union-which-lasted-for-3-days-ends-in-accra-ghana.json)  [XML](/news/2007/07/4/the-9th-summit-of-the-assembly-of-the-african-union-which-lasted-for-3-days-ends-in-accra-ghana.xml)  
+
 ### [2007-07-4](/news/2007/07/4/index.md)
 
+##### Assembly of the African Union
 #  The 9th summit of the Assembly of the African Union, which lasted for 3 days, ends in Accra, Ghana. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/6268468.stm)
 2. [Ghana Home Page](http://www.ghanaweb.com/GhanaHomePage/NewsArchive/artikel.php?ID=126605)

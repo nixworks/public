@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/5/the-supreme-court-of-england-and-wales-dismisses-an-attempt-by-police-to-suspend-a-legal-ruling-limiting-the-powers-of-police-bail.html)  [JSON](/news/2011/07/5/the-supreme-court-of-england-and-wales-dismisses-an-attempt-by-police-to-suspend-a-legal-ruling-limiting-the-powers-of-police-bail.json)  [XML](/news/2011/07/5/the-supreme-court-of-england-and-wales-dismisses-an-attempt-by-police-to-suspend-a-legal-ruling-limiting-the-powers-of-police-bail.xml)  
+
 ### [2011-07-5](/news/2011/07/5/index.md)
 
+##### Supreme Court of England and Wales
 # The Supreme Court of England and Wales dismisses an attempt by police to suspend a legal ruling limiting the powers of police bail. 
 
 The Supreme Court dismisses an attempt by police to suspend a legal ruling limiting police bail in England and Wales to a maximum of four days.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14032706)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53754000/jpg/_53754510_005338169-1.jpg)

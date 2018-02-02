@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/2/kafeel-ahmed-who-was-one-of-the-instigators-of-the-2007-glasgow-international-airport-attack-dies-in-the-glasgow-royal-infirmary-of-the-i.html)  [JSON](/news/2007/08/2/kafeel-ahmed-who-was-one-of-the-instigators-of-the-2007-glasgow-international-airport-attack-dies-in-the-glasgow-royal-infirmary-of-the-i.json)  [XML](/news/2007/08/2/kafeel-ahmed-who-was-one-of-the-instigators-of-the-2007-glasgow-international-airport-attack-dies-in-the-glasgow-royal-infirmary-of-the-i.xml)  
+
 ### [2007-08-2](/news/2007/08/2/index.md)
 
+##### Kafeel Ahmed
 #  Kafeel Ahmed, who was one of the instigators of the 2007 Glasgow International Airport attack, dies in the Glasgow Royal Infirmary of the injuries he sustained in the attack. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via the Melbourne Age](http://www.theage.com.au/news/world/glasgow-firebomb-suspect-dies/2007/08/03/1185648095393.html)
 

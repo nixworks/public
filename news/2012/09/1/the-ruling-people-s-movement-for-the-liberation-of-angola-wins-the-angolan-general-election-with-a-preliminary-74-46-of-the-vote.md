@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/1/the-ruling-people-s-movement-for-the-liberation-of-angola-wins-the-angolan-general-election-with-a-preliminary-74-46-of-the-vote.html)  [JSON](/news/2012/09/1/the-ruling-people-s-movement-for-the-liberation-of-angola-wins-the-angolan-general-election-with-a-preliminary-74-46-of-the-vote.json)  [XML](/news/2012/09/1/the-ruling-people-s-movement-for-the-liberation-of-angola-wins-the-angolan-general-election-with-a-preliminary-74-46-of-the-vote.xml)  
+
 ### [2012-09-1](/news/2012/09/1/index.md)
 
+##### People's Movement for the Liberation of Angola
 # The ruling People's Movement for the Liberation of Angola wins the Angolan general election with a preliminary 74.46% of the vote. 
 
 State media declares dos Santos as president-elect after his MPLA party takes unassailable lead in general elections.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/09/20129114412116203.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/9/2/20129295532163734_20.jpg)

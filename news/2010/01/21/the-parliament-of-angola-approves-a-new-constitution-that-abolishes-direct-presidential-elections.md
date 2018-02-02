@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/21/the-parliament-of-angola-approves-a-new-constitution-that-abolishes-direct-presidential-elections.html)  [JSON](/news/2010/01/21/the-parliament-of-angola-approves-a-new-constitution-that-abolishes-direct-presidential-elections.json)  [XML](/news/2010/01/21/the-parliament-of-angola-approves-a-new-constitution-that-abolishes-direct-presidential-elections.xml)  
+
 ### [2010-01-21](/news/2010/01/21/index.md)
 
+##### Parliament
 # The Parliament of Angola approves a new constitution that abolishes direct presidential elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/politica/2010/0/3/Constituent-Assembly-approves-Angolan-Constitution,7c03e88b-4d2c-425f-bacd-caf923937062.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8472127.stm)

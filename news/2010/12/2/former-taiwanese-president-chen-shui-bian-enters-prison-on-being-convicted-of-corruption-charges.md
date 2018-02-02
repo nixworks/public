@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/2/former-taiwanese-president-chen-shui-bian-enters-prison-on-being-convicted-of-corruption-charges.html)  [JSON](/news/2010/12/2/former-taiwanese-president-chen-shui-bian-enters-prison-on-being-convicted-of-corruption-charges.json)  [XML](/news/2010/12/2/former-taiwanese-president-chen-shui-bian-enters-prison-on-being-convicted-of-corruption-charges.xml)  
+
 ### [2010-12-2](/news/2010/12/2/index.md)
 
+##### Taiwanese President
 # Former Taiwanese President Chen Shui-bian enters prison on being convicted of corruption charges. 
 
 Former president Chen Shui-bian (陳水扁) will now be identified by his personal identification number, 1020, as he began serving his prison sentence at Taipei Prison on Thursday after being convicted on corruption charges.
 
 
-### Source:
+### Sources:
 
 1. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2010/12/04/2003490058)
 1. [Cover Image](http://www.taipeitimes.com/images/2010/12/04/thumbs/p01-101204-A1.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/23/in-a-mexican-drug-war-related-crime-14-mutilated-corpses-are-found-inside-a-truck-outside-of-a-mexican-supermarket.html)  [JSON](/news/2012/06/23/in-a-mexican-drug-war-related-crime-14-mutilated-corpses-are-found-inside-a-truck-outside-of-a-mexican-supermarket.json)  [XML](/news/2012/06/23/in-a-mexican-drug-war-related-crime-14-mutilated-corpses-are-found-inside-a-truck-outside-of-a-mexican-supermarket.xml)  
+
 ### [2012-06-23](/news/2012/06/23/index.md)
 
+##### Mexican Drug War
 # In a Mexican Drug War-related crime, 14 mutilated corpses are found inside a truck outside of a Mexican supermarket. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://ca.reuters.com/article/topNews/idCABRE85L1I620120623)
 

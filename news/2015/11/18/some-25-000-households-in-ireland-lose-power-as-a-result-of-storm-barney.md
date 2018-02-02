@@ -1,24 +1,28 @@
+
+Formats: [HTML](/news/2015/11/18/some-25-000-households-in-ireland-lose-power-as-a-result-of-storm-barney.html)  [JSON](/news/2015/11/18/some-25-000-households-in-ireland-lose-power-as-a-result-of-storm-barney.json)  [XML](/news/2015/11/18/some-25-000-households-in-ireland-lose-power-as-a-result-of-storm-barney.xml)  
+
 ### [2015-11-18](/news/2015/11/18/index.md)
 
+##### 2015-16 UK and Ireland windstorm season
 # Some 25,000 households in Ireland lose power as a result of Storm Barney. 
 
 Some 25,000 households will be without electricity overnight as Storm Barney sweeps across the country.
 
 
-### Source:
+### Sources:
 
 1. [The Independent Ireland](http://www.independent.ie/irish-news/storm-barney-25000-households-to-remain-without-power-overnight-34210263.html)
 1. [Cover Image](http://www.independent.ie/incoming/article34210561.ece/ALTERNATES/h342/Storm%20in%20Co%20Gal_2.jpg)
-
-### Related:
-
-1. [The woman whose remains were found scattered along the Military Road in Wicklow, Ireland was named locally today as Patricia O'Connor, a 61 year old from Rathfarnham. A man was arrested in connection with this on Tuesday. ](/news/2017/06/14/the-woman-whose-remains-were-found-scattered-along-the-military-road-in-wicklow-ireland-was-named-locally-today-as-patricia-o-connor-a-61.md) _Context: Ireland_
-2. [Avian flu virus H5N8 outbreaks are reported in birds in India, Germany, Finland, Ireland, the Netherlands, and several other European nations. The World Health Organization advised on 17 November that human infection is possible, but unlikely, based on information available. ](/news/2016/11/26/avian-flu-virus-h5n8-outbreaks-are-reported-in-birds-in-india-germany-finland-ireland-the-netherlands-and-several-other-european-nation.md) _Context: Ireland_
-3. [Taoiseach Enda Kenny says that Irish unity must be considered in Brexit talks. ](/news/2016/09/9/taoiseach-enda-kenny-says-that-irish-unity-must-be-considered-in-brexit-talks.md) _Context: Ireland_
-4. [The European Union orders Apple to pay up to 13 billion euros in back taxes to Ireland. A three-year investigation by the EU's competition commissioner concludes that Apple received "illegal state aid" from Ireland, the EU order that Apple pay 13 billion euros ($14.5 billion), and, in addition, also interest and unpaid taxes. ](/news/2016/08/30/the-european-union-orders-apple-to-pay-up-to-13-billion-euros-in-back-taxes-to-ireland-a-three-year-investigation-by-the-eu-s-competition-c.md) _Context: Ireland_
-5. [The United Kingdom's Met Office warns of major travel disruption due to heavy rain, flooding and "damaging" high winds as Storm Katie moves in from the Atlantic Ocean bringing winds of up to 75mph. ](/news/2016/03/28/the-united-kingdom-s-met-office-warns-of-major-travel-disruption-due-to-heavy-rain-flooding-and-damaging-high-winds-as-storm-katie-moves.md) _Context: 2015-16 UK and Ireland windstorm season_
 
 ### Changes:
 
 1. [2015-16 UK and Ireland windstorm season: Some 25,000 households in Ireland lose power as a result of Storm Barney. ](/news/2015/11/18/2015-16-uk-and-ireland-windstorm-season-some-25-000-households-in-ireland-lose-power-as-a-result-of-storm-barney.md) _2017-08-27 03:43:55 (First version)_
 1. [Some 25,000 households in Ireland lose power as a result of Storm Barney. ](/news/2015/11/18/some-25-000-households-in-ireland-lose-power-as-a-result-of-storm-barney.md) _(Current version)_
+
+### Related:
+
+1. [Twenty-three European Union countries sign a defence integration pact known as the Permanent Structured Cooperation. NATO members Denmark, Portugal and the United Kingdom (withdrawal from EU underway), and non-NATO members Malta and Ireland, opt out. ](/news/2017/11/13/twenty-three-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-p.md) _Context: Ireland_
+2. [Storm Brian, the third windstorm of the season, causes severe flash flooding in Ireland and coastal flooding in parts of England and Wales, although disruption is not as severe as initially expected. ](/news/2017/10/21/storm-brian-the-third-windstorm-of-the-season-causes-severe-flash-flooding-in-ireland-and-coastal-flooding-in-parts-of-england-and-wales.md) _Context: Ireland_
+3. [The woman whose remains were found scattered along the Military Road in Wicklow, Ireland was named locally today as Patricia O'Connor, a 61 year old from Rathfarnham. A man was arrested in connection with this on Tuesday. ](/news/2017/06/14/the-woman-whose-remains-were-found-scattered-along-the-military-road-in-wicklow-ireland-was-named-locally-today-as-patricia-o-connor-a-61.md) _Context: Ireland_
+4. [Avian flu virus H5N8 outbreaks are reported in birds in India, Germany, Finland, Ireland, the Netherlands, and several other European nations. The World Health Organization advised on 17 November that human infection is possible, but unlikely, based on information available. ](/news/2016/11/26/avian-flu-virus-h5n8-outbreaks-are-reported-in-birds-in-india-germany-finland-ireland-the-netherlands-and-several-other-european-nation.md) _Context: Ireland_
+5. [Taoiseach Enda Kenny says that Irish unity must be considered in Brexit talks. ](/news/2016/09/9/taoiseach-enda-kenny-says-that-irish-unity-must-be-considered-in-brexit-talks.md) _Context: Ireland_

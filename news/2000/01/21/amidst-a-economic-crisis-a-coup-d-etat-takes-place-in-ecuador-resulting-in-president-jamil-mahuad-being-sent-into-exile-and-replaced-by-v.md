@@ -1,9 +1,18 @@
+
+Formats: [HTML](/news/2000/01/21/amidst-a-economic-crisis-a-coup-d-etat-takes-place-in-ecuador-resulting-in-president-jamil-mahuad-being-sent-into-exile-and-replaced-by-v.html)  [JSON](/news/2000/01/21/amidst-a-economic-crisis-a-coup-d-etat-takes-place-in-ecuador-resulting-in-president-jamil-mahuad-being-sent-into-exile-and-replaced-by-v.json)  [XML](/news/2000/01/21/amidst-a-economic-crisis-a-coup-d-etat-takes-place-in-ecuador-resulting-in-president-jamil-mahuad-being-sent-into-exile-and-replaced-by-v.xml)  
+
 ### [2000-01-21](/news/2000/01/21/index.md)
 
+##### 2000 Ecuadorian coup d'tat
 # Amidst a economic crisis, a coup d'tat takes place in Ecuador, resulting in President Jamil Mahuad being sent into exile, and replaced by Vice President Gustavo Noboa.
 
 
 
+
+### Changes:
+
+1. [2000 Ecuadorian coup d'tat: Amidst a economic crisis, a coup d'tat takes place in Ecuador, resulting in President Jamil Mahuad being sent into exile, and replaced by Vice President Gustavo Noboa.](/news/2000/01/21/2000-ecuadorian-coup-d-etat-amidst-a-economic-crisis-a-coup-d-etat-takes-place-in-ecuador-resulting-in-president-jamil-mahuad-being-sent.md) _2017-08-27 03:15:07 (First version)_
+1. [Amidst a economic crisis, a coup d'tat takes place in Ecuador, resulting in President Jamil Mahuad being sent into exile, and replaced by Vice President Gustavo Noboa.](/news/2000/01/21/amidst-a-economic-crisis-a-coup-d-etat-takes-place-in-ecuador-resulting-in-president-jamil-mahuad-being-sent-into-exile-and-replaced-by-v.md) _(Current version)_
 
 ### Related:
 
@@ -11,9 +20,4 @@
 2. [Ecuador's National Court of Justice issues an international arrest warrant for former President Jamil Mahuad on embezzlement charges and orders that all of his assets in Ecuador be seized. ](/news/2012/12/12/ecuador-s-national-court-of-justice-issues-an-international-arrest-warrant-for-former-president-jamil-mahuad-on-embezzlement-charges-and-ord.md) _Context: Ecuador, Jamil Mahuad_
 3. [ In Ecuador, former president Gustavo Noboa is placed under house arrest. ](/news/2005/05/9/in-ecuador-former-president-gustavo-noboa-is-placed-under-house-arrest.md) _Context: Ecuador, Gustavo Noboa_
 4. [Gustavo Noboa becomes President of Ecuador, after Jamil Mahuad is sent into exile.](/news/2000/01/22/gustavo-noboa-becomes-president-of-ecuador-after-jamil-mahuad-is-sent-into-exile.md) _Context: Gustavo Noboa, Jamil Mahuad_
-5. [Ecuador's Supreme Court orders that Vice President Jorge Glas be jailed for his alleged acceptance of bribes from the Odebrecht construction company. Prior to this, Glas had been free but barred from leaving the country. ](/news/2017/10/2/ecuador-s-supreme-court-orders-that-vice-president-jorge-glas-be-jailed-for-his-alleged-acceptance-of-bribes-from-the-odebrecht-construction.md) _Context: Ecuador_
-
-### Changes:
-
-1. [2000 Ecuadorian coup d'tat: Amidst a economic crisis, a coup d'tat takes place in Ecuador, resulting in President Jamil Mahuad being sent into exile, and replaced by Vice President Gustavo Noboa.](/news/2000/01/21/2000-ecuadorian-coup-d-etat-amidst-a-economic-crisis-a-coup-d-etat-takes-place-in-ecuador-resulting-in-president-jamil-mahuad-being-sent.md) _2017-08-27 03:15:07 (First version)_
-1. [Amidst a economic crisis, a coup d'tat takes place in Ecuador, resulting in President Jamil Mahuad being sent into exile, and replaced by Vice President Gustavo Noboa.](/news/2000/01/21/amidst-a-economic-crisis-a-coup-d-etat-takes-place-in-ecuador-resulting-in-president-jamil-mahuad-being-sent-into-exile-and-replaced-by-v.md) _(Current version)_
+5. [It is revealed that Ecuador granted citizenship to Julian Assange. Ecuador granted him asylum in August 2012 and he has remained in the Embassy of Ecuador in London avoiding extradition to Sweden on rape charges. Subsequently, Swedish authorities dropped the charges in May 2017. ](/news/2018/01/11/it-is-revealed-that-ecuador-granted-citizenship-to-julian-assange-ecuador-granted-him-asylum-in-august-2012-and-he-has-remained-in-the-emba.md) _Context: Ecuador_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/16/scientists-discover-a-new-moon-forming-in-the-outer-edge-of-saturn-s-a-ring-unofficially-called-peggy.html)  [JSON](/news/2014/04/16/scientists-discover-a-new-moon-forming-in-the-outer-edge-of-saturn-s-a-ring-unofficially-called-peggy.json)  [XML](/news/2014/04/16/scientists-discover-a-new-moon-forming-in-the-outer-edge-of-saturn-s-a-ring-unofficially-called-peggy.xml)  
+
 ### [2014-04-16](/news/2014/04/16/index.md)
 
+##### Saturn
 # Scientists discover a new moon forming in the outer edge of Saturn's A ring, unofficially called "Peggy". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NASA Science](http://science.nasa.gov/science-news/science-at-nasa/2014/14apr_newmoon/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/11/israeli-defense-forces-and-hamas-and-islamic-jihad-militants-battle-in-sheikh-ajleen-a-suburb-of-gaza-city.html)  [JSON](/news/2009/01/11/israeli-defense-forces-and-hamas-and-islamic-jihad-militants-battle-in-sheikh-ajleen-a-suburb-of-gaza-city.json)  [XML](/news/2009/01/11/israeli-defense-forces-and-hamas-and-islamic-jihad-militants-battle-in-sheikh-ajleen-a-suburb-of-gaza-city.xml)  
+
 ### [2009-01-11](/news/2009/01/11/index.md)
 
+##### Israel
 #  Israeli Defense Forces and Hamas and Islamic Jihad militants battle in Sheikh Ajleen, a suburb of Gaza City. 
 
 Israeli ground forces made their deepest foray yet Sunday into Gaza&#39;s most populated area, with tanks rolling into residential neighborhoods and infantry fighting urban warfare. 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/28573204/)
 1. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Photo/_new/090111-gaza-hmed-5p.standard.jpg)

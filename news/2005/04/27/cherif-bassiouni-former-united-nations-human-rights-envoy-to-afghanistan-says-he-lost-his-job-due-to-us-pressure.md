@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/27/cherif-bassiouni-former-united-nations-human-rights-envoy-to-afghanistan-says-he-lost-his-job-due-to-us-pressure.html)  [JSON](/news/2005/04/27/cherif-bassiouni-former-united-nations-human-rights-envoy-to-afghanistan-says-he-lost-his-job-due-to-us-pressure.json)  [XML](/news/2005/04/27/cherif-bassiouni-former-united-nations-human-rights-envoy-to-afghanistan-says-he-lost-his-job-due-to-us-pressure.xml)  
+
 ### [2005-04-27](/news/2005/04/27/index.md)
 
+##### Cherif Bassiouni
 #  Cherif Bassiouni, former United Nations human rights envoy to Afghanistan, says he lost his job due to US pressure. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4491163.stm)
 

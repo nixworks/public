@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2010/08/30/it-is-announced-that-isabella-rossellini-is-to-chair-the-judging-panel-at-the-berlin-international-film-festival-in-2011.html)  [JSON](/news/2010/08/30/it-is-announced-that-isabella-rossellini-is-to-chair-the-judging-panel-at-the-berlin-international-film-festival-in-2011.json)  [XML](/news/2010/08/30/it-is-announced-that-isabella-rossellini-is-to-chair-the-judging-panel-at-the-berlin-international-film-festival-in-2011.xml)  
+
 ### [2010-08-30](/news/2010/08/30/index.md)
 
+##### Isabella Rossellini
 # It is announced that Isabella Rossellini is to chair the judging panel at the Berlin International Film Festival in 2011. 
 
 BERLIN (Reuters Life!) - Italian-American actress and director Isabella Rossellini will head the jury at the 2011 Berlin film festival, organizers said on Mo
 
 
-### Source:
+### Sources:
 
-1. [AFP via ''The Independent](http://www.independent.co.uk/arts-entertainment/films/isabella-rossellini-to-head-berlin-film-festival-jury-2066047.html)
+1. [AFP via ''The Independent](https://www.independent.co.uk/arts-entertainment/films/isabella-rossellini-to-head-berlin-film-festival-jury-2066047.html)
 2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11130680)
-3. [Reuters](http://www.reuters.com/article/idUSTRE67T3EX20100830)
+3. [Reuters](https://www.reuters.com/article/idUSTRE67T3EX20100830)
 4. [UPI](http://www.upi.com/Entertainment_News/Movies/2010/08/30/Actress-Rossellini-to-lead-Berlin-jury/UPI-43761283195817/)
-4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100830&t=2&i=192959450&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-08-30T160012Z_01_BTRE67T18GE00_RTROPTP_0_USA)
+4. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20100830&t=2&i=192959450&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-08-30T160012Z_01_BTRE67T18GE00_RTROPTP_0_USA)
 
 ### Related:
 

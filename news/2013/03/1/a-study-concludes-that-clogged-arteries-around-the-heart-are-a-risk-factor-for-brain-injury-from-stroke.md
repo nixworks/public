@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/1/a-study-concludes-that-clogged-arteries-around-the-heart-are-a-risk-factor-for-brain-injury-from-stroke.html)  [JSON](/news/2013/03/1/a-study-concludes-that-clogged-arteries-around-the-heart-are-a-risk-factor-for-brain-injury-from-stroke.json)  [XML](/news/2013/03/1/a-study-concludes-that-clogged-arteries-around-the-heart-are-a-risk-factor-for-brain-injury-from-stroke.xml)  
+
 ### [2013-03-1](/news/2013/03/1/index.md)
 
+##### clogged arteries
 # A study concludes that clogged arteries around the heart are a risk factor for brain injury from stroke. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [US News & World Reports](http://health.usnews.com/health-news/articles/2013/03/01/study-clogged-heart-arteries-may-lead-to-stroke)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/10/29/archives-from-hewlett-packard-founders-william-hewlett-and-david-packard-are-among-those-destroyed-by-fires-in-a-santa-rosa-neighborhood.html)  [JSON](/news/2017/10/29/archives-from-hewlett-packard-founders-william-hewlett-and-david-packard-are-among-those-destroyed-by-fires-in-a-santa-rosa-neighborhood.json)  [XML](/news/2017/10/29/archives-from-hewlett-packard-founders-william-hewlett-and-david-packard-are-among-those-destroyed-by-fires-in-a-santa-rosa-neighborhood.xml)  
+
 ### [2017-10-29](/news/2017/10/29/index.md)
 
+##### October 2017 Northern California wildfires
 # Archives from Hewlett-Packard founders William Hewlett and David Packard are among those destroyed by fires in a Santa Rosa neighborhood. 
 
 The papers of William Hewlett and David Packard chronicling the birth of Silicon Valley are no more.

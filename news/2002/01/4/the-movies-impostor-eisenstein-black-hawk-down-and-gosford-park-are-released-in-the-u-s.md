@@ -1,10 +1,10 @@
+
+Formats: [HTML](/news/2002/01/4/the-movies-impostor-eisenstein-black-hawk-down-and-gosford-park-are-released-in-the-u-s.html)  [JSON](/news/2002/01/4/the-movies-impostor-eisenstein-black-hawk-down-and-gosford-park-are-released-in-the-u-s.json)  [XML](/news/2002/01/4/the-movies-impostor-eisenstein-black-hawk-down-and-gosford-park-are-released-in-the-u-s.xml)  
+
 ### [2002-01-4](/news/2002/01/4/index.md)
 
+##### Impostor
 # The movies Impostor, Eisenstein, Black Hawk Down, and Gosford Park are released in the U.S.
 
 
 
-
-### Related:
-
-1. [ In France, police arrest serial impostor Frederic Bourdin, who had taken a role of a schoolboy ](/news/2005/06/13/in-france-police-arrest-serial-impostor-frederic-bourdin-who-had-taken-a-role-of-a-schoolboy.md) _Context: impostor_

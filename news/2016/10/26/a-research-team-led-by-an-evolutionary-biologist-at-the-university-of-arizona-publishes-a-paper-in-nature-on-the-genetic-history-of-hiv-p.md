@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/26/a-research-team-led-by-an-evolutionary-biologis
 
 ### [2016-10-26](/news/2016/10/26/index.md)
 
+##### University of Arizona
 #  A research team led by an evolutionary biologist at the University of Arizona publishes a paper in "Nature" on the genetic history of HIV proving that Gaetan Dugas, the Canadian flight attendant who had been identified for years as "Patient Zero" of the AIDS epidemic in the U.S., did not spread the virus to the country. The study indicates that HIV first spread to the U.S. from the Caribbean around 1970. 
 
 One of the most demonised patients in history - Gaetan Dugas - has been convincingly cleared of reports he spread HIV to the US, say scientists.

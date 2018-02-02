@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/15/northern-ireland-police-have-charged-marian-price-with-encouraging-support-for-an-illegal-organisation-following-a-recent-dissident-republic.html)  [JSON](/news/2011/05/15/northern-ireland-police-have-charged-marian-price-with-encouraging-support-for-an-illegal-organisation-following-a-recent-dissident-republic.json)  [XML](/news/2011/05/15/northern-ireland-police-have-charged-marian-price-with-encouraging-support-for-an-illegal-organisation-following-a-recent-dissident-republic.xml)  
+
 ### [2011-05-15](/news/2011/05/15/index.md)
 
+##### Police Service of Northern Ireland
 # Northern Ireland Police have charged Marian Price with encouraging support for an illegal organisation following a recent dissident republican rally in Derry. Price, who is secretary of the 32 County Sovereignty Movement, was jailed for her part in the bombing of the Old Bailey in the 1970s. 
 
 Old Bailey bomber Marian Price is charged with encouraging support for an illegal organisation following a parade in Londonderry on Easter Monday.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-13403772)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

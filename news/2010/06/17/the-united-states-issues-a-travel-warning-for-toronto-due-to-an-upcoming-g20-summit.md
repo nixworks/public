@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/17/the-united-states-issues-a-travel-warning-for-toronto-due-to-an-upcoming-g20-summit.html)  [JSON](/news/2010/06/17/the-united-states-issues-a-travel-warning-for-toronto-due-to-an-upcoming-g20-summit.json)  [XML](/news/2010/06/17/the-united-states-issues-a-travel-warning-for-toronto-due-to-an-upcoming-g20-summit.xml)  
+
 ### [2010-06-17](/news/2010/06/17/index.md)
 
+##### Toronto
 # The United States issues a travel warning for Toronto due to an upcoming G20 summit. 
 
 From traffic tie-ups to protest plans to behind-the-scenes stories, G20: Toronto 2010 is your survival guide to the summit meetings in Toronto and Huntsville June 25-27.
 
 
-### Source:
+### Sources:
 
 1. [The Star](http://thestar.blogs.com/g20/2010/06/us-issues-g20-travel-alert-for-toronto-1.html)
 1. [Cover Image](http://up3.typepad.com/6a00d8341bf8f353ef0120a4cd43d8970b-220si)

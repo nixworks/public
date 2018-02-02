@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/7/a-7-7-magnitude-earthquake-strikes-northern-sumatra-indonesia.html)  [JSON](/news/2010/04/7/a-7-7-magnitude-earthquake-strikes-northern-sumatra-indonesia.json)  [XML](/news/2010/04/7/a-7-7-magnitude-earthquake-strikes-northern-sumatra-indonesia.xml)  
+
 ### [2010-04-7](/news/2010/04/7/index.md)
 
+##### 7.7-magnitude earthquake
 # A 7.7-magnitude earthquake strikes northern Sumatra, Indonesia. 
 
 Magnitude 7.7 quake strikes off coast of Aceh, triggering tsunami alert that is later lifted.
 
 
-### Source:
+### Sources:
 
 1. [ (CNN](http://news.blogs.cnn.com/2010/04/06/usgs-earthquake-strikes-northern-sumatra/?hpt=T2)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/201046223740492250.html)

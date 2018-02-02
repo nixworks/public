@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/2/sinn-fa-c-in-claims-that-party-president-gerry-adams-is-a-victim-of-political-policing-are-dismissed-by-the-taoiseach-prime-minister-of-ire.html)  [JSON](/news/2014/05/2/sinn-fa-c-in-claims-that-party-president-gerry-adams-is-a-victim-of-political-policing-are-dismissed-by-the-taoiseach-prime-minister-of-ire.json)  [XML](/news/2014/05/2/sinn-fa-c-in-claims-that-party-president-gerry-adams-is-a-victim-of-political-policing-are-dismissed-by-the-taoiseach-prime-minister-of-ire.xml)  
+
 ### [2014-05-2](/news/2014/05/2/index.md)
 
+##### Sinn Fein
 # Sinn Fein claims that party president Gerry Adams is a victim of "political policing" are dismissed by the Taoiseach (Prime Minister of Ireland) Enda Kenny, British prime minister David Cameron and Northern Ireland First Minister Peter Robinson. 
 
 SF leader can now be held until 8pm on Sunday, four days after detention began 
 
 
-### Source:
+### Sources:
 
 1. [Irish Times](http://www.irishtimes.com/news/crime-and-law/gerry-adams-spends-second-night-in-police-custody-1.1781456)
 2. [RTE News](http://www.rte.ie/news/2014/0501/614157-adams-mcconville/)

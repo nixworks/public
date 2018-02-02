@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/3/occupation-of-iraq-poland-assumes-a-position-in-postwar-iraq-the-coalition-in-iraq-hands-over-the-south-central-part-of-the-country-to.html)  [JSON](/news/2003/09/3/occupation-of-iraq-poland-assumes-a-position-in-postwar-iraq-the-coalition-in-iraq-hands-over-the-south-central-part-of-the-country-to.json)  [XML](/news/2003/09/3/occupation-of-iraq-poland-assumes-a-position-in-postwar-iraq-the-coalition-in-iraq-hands-over-the-south-central-part-of-the-country-to.xml)  
+
 ### [2003-09-3](/news/2003/09/3/index.md)
 
+##### Iraq war
 #  "Occupation of Iraq": Poland assumes a position in postwar Iraq. The coalition in Iraq hands over the south-central part of the country to a force led by Poland. The force of Polish troops leads a multinational peacekeeping brigade that will relieve Coalition forces (in particular the United States Marine expeditionary force). This is Poland's biggest military operation since World War&nbsp;II. This is also the first sign of the global community's commitment to a postwar Iraq. Secretary of State Colin Powell seeks support from Britain, France, Germany, and Russia on a proposed United Nations resolution that would give the United Nations a role in Iraq's economic and political future. Coalition soldiers strongly desire to see more troops from other nations share the work of occupation.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/21/belgian-woman-els-clottemans-is-sentenced-to-30-years-imprisonment-for-murdering-her-love-rival-els-van-doren-by-sabotaging-her-parachute-so.html)  [JSON](/news/2010/10/21/belgian-woman-els-clottemans-is-sentenced-to-30-years-imprisonment-for-murdering-her-love-rival-els-van-doren-by-sabotaging-her-parachute-so.json)  [XML](/news/2010/10/21/belgian-woman-els-clottemans-is-sentenced-to-30-years-imprisonment-for-murdering-her-love-rival-els-van-doren-by-sabotaging-her-parachute-so.xml)  
+
 ### [2010-10-21](/news/2010/10/21/index.md)
 
+##### Belgian
 # Belgian woman Els Clottemans is sentenced to 30 years imprisonment for murdering her love rival Els Van Doren by sabotaging her parachute so neither it nor a safety chute would open during a November 18, 2006 parachute jump. 
 
 A jealous schoolteacher who doctored the parachute of a love rival causing her to plunge to her death was sentenced to 30 years in prison Thursday.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/world/2010/10/21/belgian-woman-altered-parachute-gets-years/?test=latestnews)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/8/a-delegation-from-the-rebel-lord-s-resistance-army-arrives-in-juba-sudan-for-peace-talks-with-the-ugandan-government-to-be-mediated-by-rie.html)  [JSON](/news/2006/06/8/a-delegation-from-the-rebel-lord-s-resistance-army-arrives-in-juba-sudan-for-peace-talks-with-the-ugandan-government-to-be-mediated-by-rie.json)  [XML](/news/2006/06/8/a-delegation-from-the-rebel-lord-s-resistance-army-arrives-in-juba-sudan-for-peace-talks-with-the-ugandan-government-to-be-mediated-by-rie.xml)  
+
 ### [2006-06-8](/news/2006/06/8/index.md)
 
+##### Lord's Resistance Army
 #  A delegation from the rebel Lord's Resistance Army arrives in Juba, Sudan for peace talks with the Ugandan government to be mediated by Riek Machar, Vice President of Southern Sudan.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/5060666.stm)
 

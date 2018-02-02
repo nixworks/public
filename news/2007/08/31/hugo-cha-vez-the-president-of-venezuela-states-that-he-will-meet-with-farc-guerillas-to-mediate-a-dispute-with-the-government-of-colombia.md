@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/31/hugo-cha-vez-the-president-of-venezuela-states-that-he-will-meet-with-farc-guerillas-to-mediate-a-dispute-with-the-government-of-colombia.html)  [JSON](/news/2007/08/31/hugo-cha-vez-the-president-of-venezuela-states-that-he-will-meet-with-farc-guerillas-to-mediate-a-dispute-with-the-government-of-colombia.json)  [XML](/news/2007/08/31/hugo-cha-vez-the-president-of-venezuela-states-that-he-will-meet-with-farc-guerillas-to-mediate-a-dispute-with-the-government-of-colombia.xml)  
+
 ### [2007-08-31](/news/2007/08/31/index.md)
 
+##### Hugo Chavez
 #  Hugo Chavez, the President of Venezuela, states that he will meet with FARC guerillas to mediate a dispute with the Government of Colombia about the release of captives. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/N31365969.htm)
 

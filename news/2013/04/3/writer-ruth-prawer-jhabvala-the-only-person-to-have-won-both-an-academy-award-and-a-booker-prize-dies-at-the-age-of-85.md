@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/3/writer-ruth-prawer-jhabvala-the-only-person-to-have-won-both-an-academy-award-and-a-booker-prize-dies-at-the-age-of-85.html)  [JSON](/news/2013/04/3/writer-ruth-prawer-jhabvala-the-only-person-to-have-won-both-an-academy-award-and-a-booker-prize-dies-at-the-age-of-85.json)  [XML](/news/2013/04/3/writer-ruth-prawer-jhabvala-the-only-person-to-have-won-both-an-academy-award-and-a-booker-prize-dies-at-the-age-of-85.xml)  
+
 ### [2013-04-3](/news/2013/04/3/index.md)
 
+##### Ruth Prawer Jhabvala
 # Writer Ruth Prawer Jhabvala, the only person to have won both an Academy Award and a Booker Prize, dies at the age of 85. 
 
 Author and Merchant Ivory screenwriter Ruth Prawer Jhabvala, the only person to have won an Oscar and the Booker Prize, dies at the age of 85.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-22015002)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66726000/jpg/_66726541_jhabvala.jpg)

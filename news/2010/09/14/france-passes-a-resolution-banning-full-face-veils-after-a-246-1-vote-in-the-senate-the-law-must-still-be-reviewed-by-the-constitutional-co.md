@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/14/france-passes-a-resolution-banning-full-face-veils-after-a-246-1-vote-in-the-senate-the-law-must-still-be-reviewed-by-the-constitutional-co.html)  [JSON](/news/2010/09/14/france-passes-a-resolution-banning-full-face-veils-after-a-246-1-vote-in-the-senate-the-law-must-still-be-reviewed-by-the-constitutional-co.json)  [XML](/news/2010/09/14/france-passes-a-resolution-banning-full-face-veils-after-a-246-1-vote-in-the-senate-the-law-must-still-be-reviewed-by-the-constitutional-co.xml)  
+
 ### [2010-09-14](/news/2010/09/14/index.md)
 
+##### Senate
 # France passes a resolution banning full face veils after a 246-1 vote in the Senate. The law must still be reviewed by the Constitutional Council before coming into effect. 
 
 &#39;Full face veil dissolves people&#39;s identity,&#39; justice minister says before 246-1 vote, &#39;It challenges French model of integration.&#39; Law still has to be examined by Constitutional Council
 
 
-### Source:
+### Sources:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3954307,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

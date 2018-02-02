@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/25/india-tells-china-that-the-dalai-lama-is-an-honoured-guest-and-will-not-be-barred-from-visiting-arunachal-pradesh-despite-protests-from-c.html)  [JSON](/news/2009/10/25/india-tells-china-that-the-dalai-lama-is-an-honoured-guest-and-will-not-be-barred-from-visiting-arunachal-pradesh-despite-protests-from-c.json)  [XML](/news/2009/10/25/india-tells-china-that-the-dalai-lama-is-an-honoured-guest-and-will-not-be-barred-from-visiting-arunachal-pradesh-despite-protests-from-c.xml)  
+
 ### [2009-10-25](/news/2009/10/25/index.md)
 
+##### India
 #  India tells China that the Dalai Lama is an "honoured guest" and will not be barred from visiting Arunachal Pradesh despite protests from China. 
 
 During a dinner conversation with Wen Jiabao, PM did what Obama hesitates to do: he told the Chinese premier that Dalai Lama was &quot;an honoured guest in India and a respected religious leader&quot; and was free to travel anywhere in the country.
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hVcRGVW2kQWieJSoWGapWMC7py0wD9BI7V780)
 2. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_446512.html)

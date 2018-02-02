@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/7/french-president-nicolas-sarkozy-and-first-lady-carla-bruni-begin-an-official-trip-to-the-overseas-departments-of-guadeloupe-and-martinique.html)  [JSON](/news/2011/01/7/french-president-nicolas-sarkozy-and-first-lady-carla-bruni-begin-an-official-trip-to-the-overseas-departments-of-guadeloupe-and-martinique.json)  [XML](/news/2011/01/7/french-president-nicolas-sarkozy-and-first-lady-carla-bruni-begin-an-official-trip-to-the-overseas-departments-of-guadeloupe-and-martinique.xml)  
+
 ### [2011-01-7](/news/2011/01/7/index.md)
 
+##### French President
 # French President Nicolas Sarkozy and First Lady Carla Bruni begin an official trip to the overseas departments of Guadeloupe and Martinique. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2011/01/07/Sarkozy-visits-Martinique-Guadeloupe/UPI-33391294445905/)
 

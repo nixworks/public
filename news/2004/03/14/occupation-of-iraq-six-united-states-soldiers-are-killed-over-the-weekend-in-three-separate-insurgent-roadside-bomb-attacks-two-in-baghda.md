@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/03/14/occupation-of-iraq-six-united-states-soldiers-are-killed-over-the-weekend-in-three-separate-insurgent-roadside-bomb-attacks-two-in-baghda.html)  [JSON](/news/2004/03/14/occupation-of-iraq-six-united-states-soldiers-are-killed-over-the-weekend-in-three-separate-insurgent-roadside-bomb-attacks-two-in-baghda.json)  [XML](/news/2004/03/14/occupation-of-iraq-six-united-states-soldiers-are-killed-over-the-weekend-in-three-separate-insurgent-roadside-bomb-attacks-two-in-baghda.xml)  
+
 ### [2004-03-14](/news/2004/03/14/index.md)
 
+##### 2003 invasion of Iraq
 #  Occupation of Iraq: Six United States soldiers are killed over the weekend in three separate insurgent roadside bomb attacks, two in Baghdad and one in Tikrit. This occurs amidst the largest U.S. troop rotation since World War&nbsp;II.
 
 

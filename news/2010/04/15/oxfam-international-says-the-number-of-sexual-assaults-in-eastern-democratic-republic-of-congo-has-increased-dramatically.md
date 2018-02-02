@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/15/oxfam-international-says-the-number-of-sexual-assaults-in-eastern-democratic-republic-of-congo-has-increased-dramatically.html)  [JSON](/news/2010/04/15/oxfam-international-says-the-number-of-sexual-assaults-in-eastern-democratic-republic-of-congo-has-increased-dramatically.json)  [XML](/news/2010/04/15/oxfam-international-says-the-number-of-sexual-assaults-in-eastern-democratic-republic-of-congo-has-increased-dramatically.xml)  
+
 ### [2010-04-15](/news/2010/04/15/index.md)
 
+##### Oxfam International
 # Oxfam International says the number of sexual assaults in eastern Democratic Republic of Congo has increased "dramatically". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/201041595648701631.html)
 1. [Cover Image](http://www.aljazeera.com)

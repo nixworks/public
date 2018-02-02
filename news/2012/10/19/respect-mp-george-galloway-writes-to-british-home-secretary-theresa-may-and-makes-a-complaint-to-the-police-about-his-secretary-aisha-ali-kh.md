@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/19/respect-mp-george-galloway-writes-to-british-home-secretary-theresa-may-and-makes-a-complaint-to-the-police-about-his-secretary-aisha-ali-kh.html)  [JSON](/news/2012/10/19/respect-mp-george-galloway-writes-to-british-home-secretary-theresa-may-and-makes-a-complaint-to-the-police-about-his-secretary-aisha-ali-kh.json)  [XML](/news/2012/10/19/respect-mp-george-galloway-writes-to-british-home-secretary-theresa-may-and-makes-a-complaint-to-the-police-about-his-secretary-aisha-ali-kh.xml)  
+
 ### [2012-10-19](/news/2012/10/19/index.md)
 
+##### Respect
 # Respect MP George Galloway writes to British home secretary Theresa May and makes a complaint to the police about his secretary Aisha Ali-Khan, claiming that she was working as an "agent" for a Metropolitan police counterterrorism officer who was running a "dirty tricks" campaign against him. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/politics/2012/oct/18/george-galloway-pa-police-husband)
 
@@ -13,6 +17,6 @@
 
 1. [Bradford West by-election: Respect Party candidate George Galloway tours the City of Bradford on an open-top bus in celebration of his shock victory over Labour, a result which has been described as the "Bradford Spring". ](/news/2012/03/30/bradford-west-by-election-respect-party-candidate-george-galloway-tours-the-city-of-bradford-on-an-open-top-bus-in-celebration-of-his-shock.md) _Context: George Galloway, Respect_
 2. [George Galloway of the Respect Party wins the United Kingdom House of Commons constituency of Bradford West in a by-election. ](/news/2012/03/29/george-galloway-of-the-respect-party-wins-the-united-kingdom-house-of-commons-constituency-of-bradford-west-in-a-by-election.md) _Context: George Galloway, Respect_
-3. [World leaders such as Bill Clinton, Emmanuel Macron, Theresa May, Dmitry Medvedev and Angela Merkel attend the memorial service for the former West German leader Helmut Kohl. ](/news/2017/07/1/world-leaders-such-as-bill-clinton-emmanuel-macron-theresa-may-dmitry-medvedev-and-angela-merkel-attend-the-memorial-service-for-the-form.md) _Context: Theresa May_
-4. [Results of yesterday's snap election are counted, revealing a hung parliament as the Conservative Party fails to retain its parliamentary majority, despite remaining the party with the most seats. Prime Minister Theresa May announced that she will form a minority government with the support of the Northern Irish Democratic Unionist Party. ](/news/2017/06/9/results-of-yesterday-s-snap-election-are-counted-revealing-a-hung-parliament-as-the-conservative-party-fails-to-retain-its-parliamentary-ma.md) _Context: Theresa May_
-5. [Polls open in the United Kingdom, with Labour leader Jeremy Corbyn and incumbent Theresa May of the Conservatives battling in a tight race, according to final opinion polling, to become prime minister. ](/news/2017/06/8/polls-open-in-the-united-kingdom-with-labour-leader-jeremy-corbyn-and-incumbent-theresa-may-of-the-conservatives-battling-in-a-tight-race.md) _Context: Theresa May_
+3. [Prime Minister Theresa May orders Phillip Lee, a Justice minister, to "air his views in private" after he suggested that Brexit planning should be based on evidence rather than dogma. ](/news/2018/01/31/prime-minister-theresa-may-orders-phillip-lee-a-justice-minister-to-air-his-views-in-private-after-he-suggested-that-brexit-planning-sho.md) _Context: Theresa May_
+4. [Theresa May criticizes Boris Johnson for airing National Health Service funding concerns outside private U.K. Cabinet meetings. ](/news/2018/01/23/theresa-may-criticizes-boris-johnson-for-airing-national-health-service-funding-concerns-outside-private-u-k-cabinet-meetings.md) _Context: Theresa May_
+5. [A spokesperson for Prime Minister Theresa May says the government has seen no plans for Foreign Secretary Boris Johnson's idea of building a road bridge across the English Channel between France and the United Kingdom. ](/news/2018/01/19/a-spokesperson-for-prime-minister-theresa-may-says-the-government-has-seen-no-plans-for-foreign-secretary-boris-johnson-s-idea-of-building-a.md) _Context: Theresa May_

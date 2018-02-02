@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/12/according-to-witnesses-the-egyptian-border-patrol-police-opened-fire-at-crowds-swarming-the-egypt-gaza-border-at-rafah-killing-a-palestin.html)  [JSON](/news/2005/09/12/according-to-witnesses-the-egyptian-border-patrol-police-opened-fire-at-crowds-swarming-the-egypt-gaza-border-at-rafah-killing-a-palestin.json)  [XML](/news/2005/09/12/according-to-witnesses-the-egyptian-border-patrol-police-opened-fire-at-crowds-swarming-the-egypt-gaza-border-at-rafah-killing-a-palestin.xml)  
+
 ### [2005-09-12](/news/2005/09/12/index.md)
 
+##### Egypt
 #  According to witnesses, the Egyptian border patrol police opened fire at crowds swarming the Egypt-Gaza border at Rafah, killing a Palestinian man and injuring another. An Egyptian spokesman later denied that Egyptian troops fired the shots that killed the man. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/C32C6D14-F5CA-4747-9022-7DE8FFC4F14B.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4238000.stm)

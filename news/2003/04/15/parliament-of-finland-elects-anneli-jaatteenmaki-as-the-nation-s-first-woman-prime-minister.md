@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/15/parliament-of-finland-elects-anneli-jaatteenmaki-as-the-nation-s-first-woman-prime-minister.html)  [JSON](/news/2003/04/15/parliament-of-finland-elects-anneli-jaatteenmaki-as-the-nation-s-first-woman-prime-minister.json)  [XML](/news/2003/04/15/parliament-of-finland-elects-anneli-jaatteenmaki-as-the-nation-s-first-woman-prime-minister.xml)  
+
 ### [2003-04-15](/news/2003/04/15/index.md)
 
+##### Anneli Jtteenmki
 #  Parliament of Finland elects Anneli Jtteenmki as the nation's first woman Prime Minister.
 
 

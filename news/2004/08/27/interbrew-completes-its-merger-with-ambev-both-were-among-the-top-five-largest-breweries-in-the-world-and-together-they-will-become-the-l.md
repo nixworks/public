@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/27/interbrew-completes-its-merger-with-ambev-both-were-among-the-top-five-largest-breweries-in-the-world-and-together-they-will-become-the-l.html)  [JSON](/news/2004/08/27/interbrew-completes-its-merger-with-ambev-both-were-among-the-top-five-largest-breweries-in-the-world-and-together-they-will-become-the-l.json)  [XML](/news/2004/08/27/interbrew-completes-its-merger-with-ambev-both-were-among-the-top-five-largest-breweries-in-the-world-and-together-they-will-become-the-l.xml)  
+
 ### [2004-08-27](/news/2004/08/27/index.md)
 
+##### Interbrew
 #  Interbrew completes its merger with Ambev. Both were among the top five largest breweries in the world, and together they will become the largest, when measured by volume. The merged company will be called InBev 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg](http://quote.bloomberg.com/apps/news?pid=10000086&sid=a_CexO2sxkiw&refer=latin_america)
 

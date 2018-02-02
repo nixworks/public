@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/29/voters-in-mongolia-go-to-the-polls-for-a-legisl
 
 ### [2016-06-29](/news/2016/06/29/index.md)
 
+##### Mongolian legislative election, 2016
 # Voters in Mongolia go to the polls for a legislative election at a time of economic slowdown. 
 
 Election comes amid economic downturn caused by slumping demand for commodities from neighbouring China

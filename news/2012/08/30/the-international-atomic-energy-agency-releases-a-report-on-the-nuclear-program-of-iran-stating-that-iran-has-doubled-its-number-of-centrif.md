@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/30/the-international-atomic-energy-agency-releases-a-report-on-the-nuclear-program-of-iran-stating-that-iran-has-doubled-its-number-of-centrif.html)  [JSON](/news/2012/08/30/the-international-atomic-energy-agency-releases-a-report-on-the-nuclear-program-of-iran-stating-that-iran-has-doubled-its-number-of-centrif.json)  [XML](/news/2012/08/30/the-international-atomic-energy-agency-releases-a-report-on-the-nuclear-program-of-iran-stating-that-iran-has-doubled-its-number-of-centrif.xml)  
+
 ### [2012-08-30](/news/2012/08/30/index.md)
 
+##### IAEA
 # The International Atomic Energy Agency releases a report on the Nuclear program of Iran, stating that Iran has doubled its number of centrifuges at the Fordow facility and highlighting concern over the nuclear program. 
 
 UN watchdog quarterly report says number of centrifuges at Fordo facility more than doubled to 2,140 from 1,064 in May; new machines not yet operational 
 
 
-### Source:
+### Sources:
 
 1. [Yedioth Ahronot](http://www.ynetnews.com/articles/0,7340,L-4275119,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

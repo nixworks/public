@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/23/ben-bernanke-the-chairman-of-the-federal-reserve-warns-the-united-states-congress-that-failure-to-pass-the-emergency-economic-stabilizati.html)  [JSON](/news/2008/09/23/ben-bernanke-the-chairman-of-the-federal-reserve-warns-the-united-states-congress-that-failure-to-pass-the-emergency-economic-stabilizati.json)  [XML](/news/2008/09/23/ben-bernanke-the-chairman-of-the-federal-reserve-warns-the-united-states-congress-that-failure-to-pass-the-emergency-economic-stabilizati.xml)  
+
 ### [2008-09-23](/news/2008/09/23/index.md)
 
+##### Ben Bernanke
 #  Ben Bernanke, the Chairman of the Federal Reserve, warns the United States Congress that failure to pass the Emergency Economic Stabilization Act of 2008 quickly would make a recession more likely. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Miami Herald](http://www.miamiherald.com/news/politics/campaign-2008/story/697366.html)
 

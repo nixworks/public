@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/09/30/a-student-is-shot-and-wounded-at-albemarle-high-school-in-albemarle-north-carolina-u-s-a-student-is-arrested.html)  [JSON](/news/2014/09/30/a-student-is-shot-and-wounded-at-albemarle-high-school-in-albemarle-north-carolina-u-s-a-student-is-arrested.json)  [XML](/news/2014/09/30/a-student-is-shot-and-wounded-at-albemarle-high-school-in-albemarle-north-carolina-u-s-a-student-is-arrested.xml)  
+
 ### [2014-09-30](/news/2014/09/30/index.md)
 
+##### Albemarle High School
 # A student is shot and wounded at Albemarle High School in Albemarle, North Carolina, U.S. A student is arrested. 
 
-ALBEMARLE, N.C. — One student was shot Tuesday at a high school in this city about 35 miles east of Charlotte, N.C., police said.
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/nation/2014/09/30/person-shot-at-school/16470841/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/news/nation/2014/09/30/person-shot-at-school/16470841/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/05/12/a-federal-judge-in-houston-texas-sentences-former-enron-executive-dan-boyle-to-3-years-and-10-months-in-prison-for-his-involvement-with-a.html)  [JSON](/news/2005/05/12/a-federal-judge-in-houston-texas-sentences-former-enron-executive-dan-boyle-to-3-years-and-10-months-in-prison-for-his-involvement-with-a.json)  [XML](/news/2005/05/12/a-federal-judge-in-houston-texas-sentences-former-enron-executive-dan-boyle-to-3-years-and-10-months-in-prison-for-his-involvement-with-a.xml)  
+
 ### [2005-05-12](/news/2005/05/12/index.md)
 
+##### Houston, Texas
 #  A federal judge in Houston, Texas, sentences former Enron executive Dan Boyle to 3 years and 10 months in prison for his involvement with a barge scam with securities firm Merrill Lynch. Two Merrill Lynch executives also receive sentences. 
 
 Reuters.com is your online source for the latest U.S. news stories from coast to coast and stay current on the events that shape our nation.
 
 
-### Source:
+### Sources:
 
 1. [Businessweek](http://www.businessweek.com/ap/financialnews/D8A1PQCG0.htm?campaign_id=apn_home_down)
 2. [Houston Chronicle](http://www.chron.com/cs/CDA/ssistory.mpl/metropolitan/3180226)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=8477211)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=8477211)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

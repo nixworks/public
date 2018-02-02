@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/14/the-nominations-are-announced-for-the-88th-acad
 
 ### [2016-01-14](/news/2016/01/14/index.md)
 
+##### 88th Academy Awards
 # The nominations are announced for the 88th Academy Awards at the Samuel Goldwyn Theater in Hollywood. 
 
 Cheryl Boone Isaacs, Guillermo del Toro, John Krasinski and Ang Lee reveal the 88th Academy Awards nominations in all 24 categories

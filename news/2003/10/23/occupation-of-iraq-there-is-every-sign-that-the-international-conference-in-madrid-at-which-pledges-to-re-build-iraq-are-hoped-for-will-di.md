@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/23/occupation-of-iraq-there-is-every-sign-that-the-international-conference-in-madrid-at-which-pledges-to-re-build-iraq-are-hoped-for-will-di.html)  [JSON](/news/2003/10/23/occupation-of-iraq-there-is-every-sign-that-the-international-conference-in-madrid-at-which-pledges-to-re-build-iraq-are-hoped-for-will-di.json)  [XML](/news/2003/10/23/occupation-of-iraq-there-is-every-sign-that-the-international-conference-in-madrid-at-which-pledges-to-re-build-iraq-are-hoped-for-will-di.xml)  
+
 ### [2003-10-23](/news/2003/10/23/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: There is every sign that the international conference in Madrid at which pledges to re-build Iraq are hoped for will disappoint and e.g. Paul Bremer seeks to lower expectations.
 
 

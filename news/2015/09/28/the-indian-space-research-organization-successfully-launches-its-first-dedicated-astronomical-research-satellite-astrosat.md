@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/28/the-indian-space-research-organization-successfully-launches-its-first-dedicated-astronomical-research-satellite-astrosat.html)  [JSON](/news/2015/09/28/the-indian-space-research-organization-successfully-launches-its-first-dedicated-astronomical-research-satellite-astrosat.json)  [XML](/news/2015/09/28/the-indian-space-research-organization-successfully-launches-its-first-dedicated-astronomical-research-satellite-astrosat.xml)  
+
 ### [2015-09-28](/news/2015/09/28/index.md)
 
+##### Indian Space Research Organization
 # The Indian Space Research Organization successfully launches its first dedicated-astronomical research satellite, Astrosat. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/ISRO-to-launch-Astrosat/liveblog/49132572.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/49132572.cms?388605)

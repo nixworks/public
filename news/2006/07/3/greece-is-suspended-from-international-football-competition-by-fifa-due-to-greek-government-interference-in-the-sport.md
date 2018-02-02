@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2006/07/3/greece-is-suspended-from-international-football-competition-by-fifa-due-to-greek-government-interference-in-the-sport.html)  [JSON](/news/2006/07/3/greece-is-suspended-from-international-football-competition-by-fifa-due-to-greek-government-interference-in-the-sport.json)  [XML](/news/2006/07/3/greece-is-suspended-from-international-football-competition-by-fifa-due-to-greek-government-interference-in-the-sport.xml)  
+
 ### [2006-07-3](/news/2006/07/3/index.md)
 
+##### Greece
 #  Greece is suspended from international football competition by FIFA due to Greek government interference in the sport. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/football/internationals/5141866.stm)
-2. [FIFA.com](http://www.fifa.com/en/media/index/0,1369,118144,00.html?articleid=118144)
+2. [FIFA.com](https://www.fifa.com/en/media/index/0,1369,118144,00.html?articleid=118144)
 
 ### Related:
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/07/11/a-mass-funeral-takes-place-in-srebrenica-bosnia-to-commemorate-the-14th-anniversary-of-the-massacre-that-took-place-in-the-town.html)  [JSON](/news/2009/07/11/a-mass-funeral-takes-place-in-srebrenica-bosnia-to-commemorate-the-14th-anniversary-of-the-massacre-that-took-place-in-the-town.json)  [XML](/news/2009/07/11/a-mass-funeral-takes-place-in-srebrenica-bosnia-to-commemorate-the-14th-anniversary-of-the-massacre-that-took-place-in-the-town.xml)  
+
 ### [2009-07-11](/news/2009/07/11/index.md)
 
+##### Srebrenica
 #  A mass funeral takes place in Srebrenica, Bosnia, to commemorate the 14th anniversary of the massacre that took place in the town. 
 
 Ceremony held to mark anniversary of worst massacre in Europe since World War II.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/07/2009711154151207496.html)
-2. [Reuters](http://www.reuters.com/article/homepageCrisis/idUSLA645690._CH_.2400)
+2. [Reuters](https://www.reuters.com/article/homepageCrisis/idUSLA645690._CH_.2400)
 3. [The Hindu](http://www.hindu.com/thehindu/holnus/003200907111776.htm)
 3. [Cover Image](http://www.aljazeera.com)
 

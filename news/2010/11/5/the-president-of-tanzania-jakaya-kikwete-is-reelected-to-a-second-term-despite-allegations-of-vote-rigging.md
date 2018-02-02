@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/5/the-president-of-tanzania-jakaya-kikwete-is-reelected-to-a-second-term-despite-allegations-of-vote-rigging.html)  [JSON](/news/2010/11/5/the-president-of-tanzania-jakaya-kikwete-is-reelected-to-a-second-term-despite-allegations-of-vote-rigging.json)  [XML](/news/2010/11/5/the-president-of-tanzania-jakaya-kikwete-is-reelected-to-a-second-term-despite-allegations-of-vote-rigging.xml)  
+
 ### [2010-11-5](/news/2010/11/5/index.md)
 
+##### presidency
 # The President of Tanzania Jakaya Kikwete is reelected to a second term despite allegations of vote-rigging. 
 
 Tanzanian president Jakaya Kikwete has won a second term in office, despite allegations of vote rigging.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2010/11/06/3058927.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

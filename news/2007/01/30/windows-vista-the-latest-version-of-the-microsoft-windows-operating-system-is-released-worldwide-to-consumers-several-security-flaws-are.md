@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/30/windows-vista-the-latest-version-of-the-microsoft-windows-operating-system-is-released-worldwide-to-consumers-several-security-flaws-are.html)  [JSON](/news/2007/01/30/windows-vista-the-latest-version-of-the-microsoft-windows-operating-system-is-released-worldwide-to-consumers-several-security-flaws-are.json)  [XML](/news/2007/01/30/windows-vista-the-latest-version-of-the-microsoft-windows-operating-system-is-released-worldwide-to-consumers-several-security-flaws-are.xml)  
+
 ### [2007-01-30](/news/2007/01/30/index.md)
 
+##### Windows Vista
 #  Windows Vista, the latest version of the Microsoft Windows operating system is released worldwide to consumers. Several security flaws are detected within the first few hours of its release. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [PC World Australia](http://www.pcworld.idg.com.au/index.php/id;633735456)
 

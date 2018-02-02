@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/14/at-least-35-people-are-feared-drowned-and-50-people-disappear-after-a-boat-capsizes-on-the-ganges-river-in-northern-india.html)  [JSON](/news/2010/06/14/at-least-35-people-are-feared-drowned-and-50-people-disappear-after-a-boat-capsizes-on-the-ganges-river-in-northern-india.json)  [XML](/news/2010/06/14/at-least-35-people-are-feared-drowned-and-50-people-disappear-after-a-boat-capsizes-on-the-ganges-river-in-northern-india.xml)  
+
 ### [2010-06-14](/news/2010/06/14/index.md)
 
+##### Ganges River
 # At least 35 people are feared drowned and 50 people disappear after a boat capsizes on the Ganges River in northern India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CT Now](http://www.ctnow.com/news/nationworld/sns-ap-as-india-boat-capsizes,0,6365493.story)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/14/c_13349812.htm)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/07/20/lockheed-martin-agrees-to-buy-united-technologies-corp-s-sikorsky-aircraft-for-9-billion.html)  [JSON](/news/2015/07/20/lockheed-martin-agrees-to-buy-united-technologies-corp-s-sikorsky-aircraft-for-9-billion.json)  [XML](/news/2015/07/20/lockheed-martin-agrees-to-buy-united-technologies-corp-s-sikorsky-aircraft-for-9-billion.xml)  
+
 ### [2015-07-20](/news/2015/07/20/index.md)
 
+##### Lockheed
 # Lockheed Martin agrees to buy United Technologies Corp's Sikorsky Aircraft for $9 billion. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/07/20/us-sikorsky-m-a-lockheed-martin-idUSKCN0PU14Y20150720)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150720&t=2&i=1065746819&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB6J0JM)
+1. [Reuters](https://www.reuters.com/article/2015/07/20/us-sikorsky-m-a-lockheed-martin-idUSKCN0PU14Y20150720)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20150720&t=2&i=1065746819&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB6J0JM)
 
 ### Related:
 

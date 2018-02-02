@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2006/06/15/the-u-s-military-suffers-its-2500th-fatal-casualty-in-the-iraq-war-18-490-have-been-wounded.html)  [JSON](/news/2006/06/15/the-u-s-military-suffers-its-2500th-fatal-casualty-in-the-iraq-war-18-490-have-been-wounded.json)  [XML](/news/2006/06/15/the-u-s-military-suffers-its-2500th-fatal-casualty-in-the-iraq-war-18-490-have-been-wounded.xml)  
+
 ### [2006-06-15](/news/2006/06/15/index.md)
 
+##### United States armed forces
 #  The U.S. military suffers its 2500th fatal casualty in the Iraq war. 18,490 have been wounded. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1150367949121&call_pageid=968332188492&col=968793972154)
+1. [Toronto Star](https://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1150367949121&call_pageid=968332188492&col=968793972154)
 2. [truthout](http://www.truthout.org/docs_2006/062006C.shtml)
 
 ### Related:
 
-1. [ Iraq will not extend the deadline for the United States Armed Forces to withdraw from the Iraq War. ](/news/2009/05/3/iraq-will-not-extend-the-deadline-for-the-united-states-armed-forces-to-withdraw-from-the-iraq-war.md) _Context: Iraq War, United States military personnel_
-2. [ United States President Barack Obama announces he will withdraw most soldiers from the Iraq War by August 2010. ](/news/2009/02/27/united-states-president-barack-obama-announces-he-will-withdraw-most-soldiers-from-the-iraq-war-by-august-2010.md) _Context: Iraq War, United States military personnel_
-3. [ United States President Barack Obama will withdraw most soldiers from the Iraq War by August 2010. ](/news/2009/02/26/united-states-president-barack-obama-will-withdraw-most-soldiers-from-the-iraq-war-by-august-2010.md) _Context: Iraq War, United States military personnel_
-4. [ Iraq's Police Service kills an Iraqi interpreter and injures at least three U.S. soldiers in Mosul. ](/news/2009/02/24/iraq-s-police-service-kills-an-iraqi-interpreter-and-injures-at-least-three-u-s-soldiers-in-mosul.md) _Context: Iraq War, United States military personnel_
-5. [ U.S. military casualties in the Iraq War reach 4,000. ](/news/2008/03/23/u-s-military-casualties-in-the-iraq-war-reach-4-000.md) _Context: Iraq War, United States military personnel_
+1. [President Barack Obama makes a surprise visit to United States armed forces based in Afghanistan. ](/news/2010/12/3/president-barack-obama-makes-a-surprise-visit-to-united-states-armed-forces-based-in-afghanistan.md) _Context: United States armed forces_
+2. [The U.S. military is sending M1 Abrams tanks to Afghanistan for the first time in the nine-year war in Afghanistan. ](/news/2010/11/19/the-u-s-military-is-sending-m1-abrams-tanks-to-afghanistan-for-the-first-time-in-the-nine-year-war-in-afghanistan.md) _Context: United States armed forces_
+3. [President of the United States Barack Obama delivers a televised Oval Office address to the United States commemorating the end of United States armed forces being directly involved in fighting in Iraq. ](/news/2010/08/31/president-of-the-united-states-barack-obama-delivers-a-televised-oval-office-address-to-the-united-states-commemorating-the-end-of-united-st.md) _Context: United States armed forces_
+4. [A roadside bomb kills 4 United States troops in eastern Afghanistan. ](/news/2010/08/31/a-roadside-bomb-kills-4-united-states-troops-in-eastern-afghanistan.md) _Context: United States armed forces_
+5. [7 American soldiers are killed in fighting in Afghanistan over the weekend. ](/news/2010/08/29/7-american-soldiers-are-killed-in-fighting-in-afghanistan-over-the-weekend.md) _Context: United States armed forces_

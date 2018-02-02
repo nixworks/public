@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/1/notorious-macau-gangster-broken-tooth-koi-is-released-from-prison-after-serving-nearly-15-years.html)  [JSON](/news/2012/12/1/notorious-macau-gangster-broken-tooth-koi-is-released-from-prison-after-serving-nearly-15-years.json)  [XML](/news/2012/12/1/notorious-macau-gangster-broken-tooth-koi-is-released-from-prison-after-serving-nearly-15-years.xml)  
+
 ### [2012-12-1](/news/2012/12/1/index.md)
 
+##### Macau
 # Notorious Macau gangster Broken Tooth Koi is released from prison after serving nearly 15 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-20564556)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64499000/jpg/_64499438_64499437.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/2/president-of-venezuela-hugo-chavez-welcomes-president-of-colombia-juan-manuel-santos-to-caracas.html)  [JSON](/news/2010/11/2/president-of-venezuela-hugo-chavez-welcomes-president-of-colombia-juan-manuel-santos-to-caracas.json)  [XML](/news/2010/11/2/president-of-venezuela-hugo-chavez-welcomes-president-of-colombia-juan-manuel-santos-to-caracas.xml)  
+
 ### [2010-11-2](/news/2010/11/2/index.md)
 
+##### Venezuelan President
 # President of Venezuela Hugo Chvez welcomes President of Colombia Juan Manuel Santos to Caracas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/03/c_13588771.htm)
 

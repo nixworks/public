@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/7/norodom-sihanouk-king-of-cambodia-announces-his-abdication-his-successor-will-be-chosen-by-a-special-council.html)  [JSON](/news/2004/10/7/norodom-sihanouk-king-of-cambodia-announces-his-abdication-his-successor-will-be-chosen-by-a-special-council.json)  [XML](/news/2004/10/7/norodom-sihanouk-king-of-cambodia-announces-his-abdication-his-successor-will-be-chosen-by-a-special-council.xml)  
+
 ### [2004-10-7](/news/2004/10/7/index.md)
 
+##### King Norodom Sihanouk
 #  Norodom Sihanouk, King of Cambodia, announces his abdication. His successor will be chosen by a special council. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/WORLD/asiapcf/10/07/cambodia.king/index.html)
 

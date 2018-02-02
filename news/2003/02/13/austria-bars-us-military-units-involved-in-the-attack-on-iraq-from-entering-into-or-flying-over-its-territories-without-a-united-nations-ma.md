@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/13/austria-bars-us-military-units-involved-in-the-attack-on-iraq-from-entering-into-or-flying-over-its-territories-without-a-united-nations-ma.html)  [JSON](/news/2003/02/13/austria-bars-us-military-units-involved-in-the-attack-on-iraq-from-entering-into-or-flying-over-its-territories-without-a-united-nations-ma.json)  [XML](/news/2003/02/13/austria-bars-us-military-units-involved-in-the-attack-on-iraq-from-entering-into-or-flying-over-its-territories-without-a-united-nations-ma.xml)  
+
 ### [2003-02-13](/news/2003/02/13/index.md)
 
+##### Austria
 #  Austria bars US military units involved in the attack on Iraq from entering into or flying over its territories without a United Nations mandate to attack Iraq.
 
 

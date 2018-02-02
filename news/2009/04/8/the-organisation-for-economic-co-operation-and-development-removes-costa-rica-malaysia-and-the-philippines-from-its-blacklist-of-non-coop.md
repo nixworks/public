@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/8/the-organisation-for-economic-co-operation-and-development-removes-costa-rica-malaysia-and-the-philippines-from-its-blacklist-of-non-coop.html)  [JSON](/news/2009/04/8/the-organisation-for-economic-co-operation-and-development-removes-costa-rica-malaysia-and-the-philippines-from-its-blacklist-of-non-coop.json)  [XML](/news/2009/04/8/the-organisation-for-economic-co-operation-and-development-removes-costa-rica-malaysia-and-the-philippines-from-its-blacklist-of-non-coop.xml)  
+
 ### [2009-04-8](/news/2009/04/8/index.md)
 
+##### Organisation for Economic Co-operation and Development
 #  The Organisation for Economic Co-operation and Development removes Costa Rica, Malaysia, and the Philippines from its blacklist of non-cooperative tax havens. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/business/7987417.stm)
 

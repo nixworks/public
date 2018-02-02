@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/15/us-secretary-of-state-colin-powell-successfully-undergoes-two-hours-of-prostate-cancer-surgery-at-the-walter-reed-army-medical-center-in-wa.html)  [JSON](/news/2003/12/15/us-secretary-of-state-colin-powell-successfully-undergoes-two-hours-of-prostate-cancer-surgery-at-the-walter-reed-army-medical-center-in-wa.json)  [XML](/news/2003/12/15/us-secretary-of-state-colin-powell-successfully-undergoes-two-hours-of-prostate-cancer-surgery-at-the-walter-reed-army-medical-center-in-wa.xml)  
+
 ### [2003-12-15](/news/2003/12/15/index.md)
 
+##### Colin Powell
 #  US Secretary of State Colin Powell successfully undergoes two hours of prostate cancer surgery at the Walter Reed Army Medical Center in Washington, DC. [http:--us.cnn.com-2003-US-12-15-powell.surgery-index.html]
 
 

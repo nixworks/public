@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/23/the-church-of-scotland-votes-to-allow-gay-men-and-lesbians-to-become-ministers.html)  [JSON](/news/2011/05/23/the-church-of-scotland-votes-to-allow-gay-men-and-lesbians-to-become-ministers.json)  [XML](/news/2011/05/23/the-church-of-scotland-votes-to-allow-gay-men-and-lesbians-to-become-ministers.xml)  
+
 ### [2011-05-23](/news/2011/05/23/index.md)
 
+##### Church of Scotland
 # The Church of Scotland votes to allow gay men and lesbians to become ministers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/uk/2011/may/23/scottish-church-gay-ministers)
 

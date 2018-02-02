@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/6/experts-say-that-the-us-flu-season-will-be-worse-than-average-but-they-are-not-yet-ready-to-say-how-bad-it-will-be.html)  [JSON](/news/2003/12/6/experts-say-that-the-us-flu-season-will-be-worse-than-average-but-they-are-not-yet-ready-to-say-how-bad-it-will-be.json)  [XML](/news/2003/12/6/experts-say-that-the-us-flu-season-will-be-worse-than-average-but-they-are-not-yet-ready-to-say-how-bad-it-will-be.xml)  
+
 ### [2003-12-6](/news/2003/12/6/index.md)
 
+##### flu
 #  Experts say that the US flu season will be worse than average, but they are not yet ready to say how bad it will be. 
 
 

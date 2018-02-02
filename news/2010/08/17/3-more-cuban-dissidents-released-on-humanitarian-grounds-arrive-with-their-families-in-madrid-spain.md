@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/17/3-more-cuban-dissidents-released-on-humanitarian-grounds-arrive-with-their-families-in-madrid-spain.html)  [JSON](/news/2010/08/17/3-more-cuban-dissidents-released-on-humanitarian-grounds-arrive-with-their-families-in-madrid-spain.json)  [XML](/news/2010/08/17/3-more-cuban-dissidents-released-on-humanitarian-grounds-arrive-with-their-families-in-madrid-spain.xml)  
+
 ### [2010-08-17](/news/2010/08/17/index.md)
 
+##### Cuba
 # 3 more Cuban dissidents released on humanitarian grounds arrive with their families in Madrid, Spain. 
 
 Three Cuban dissidents and arrive in Madrid after being released from jail in a deal negotiated by the Catholic church
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11003641)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

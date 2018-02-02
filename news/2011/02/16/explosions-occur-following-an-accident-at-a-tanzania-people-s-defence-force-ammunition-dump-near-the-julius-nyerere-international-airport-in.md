@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/02/16/explosions-occur-following-an-accident-at-a-tanzania-people-s-defence-force-ammunition-dump-near-the-julius-nyerere-international-airport-in.html)  [JSON](/news/2011/02/16/explosions-occur-following-an-accident-at-a-tanzania-people-s-defence-force-ammunition-dump-near-the-julius-nyerere-international-airport-in.json)  [XML](/news/2011/02/16/explosions-occur-following-an-accident-at-a-tanzania-people-s-defence-force-ammunition-dump-near-the-julius-nyerere-international-airport-in.xml)  
+
 ### [2011-02-16](/news/2011/02/16/index.md)
 
+##### Tanzania People's Defence Force
 # Explosions occur following an accident at a Tanzania People's Defence Force ammunition dump near the Julius Nyerere International Airport in Dar es Salaam with casualties reported. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/02/16/AR2011021604397.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2011/02/16/AR2011021604397.html)
 2. [CNN](http://ireport.cnn.com/docs/DOC-556802)
 2. [Cover Image](http://i.cdn.turner.com/ireport/sm/prod/2011/02/16/WE00538309/1559985/Ukongajpg-1559985_lg.jpg)
 

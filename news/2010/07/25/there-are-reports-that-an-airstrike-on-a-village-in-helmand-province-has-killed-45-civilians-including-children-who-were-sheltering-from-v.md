@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/25/there-are-reports-that-an-airstrike-on-a-village-in-helmand-province-has-killed-45-civilians-including-children-who-were-sheltering-from-v.html)  [JSON](/news/2010/07/25/there-are-reports-that-an-airstrike-on-a-village-in-helmand-province-has-killed-45-civilians-including-children-who-were-sheltering-from-v.json)  [XML](/news/2010/07/25/there-are-reports-that-an-airstrike-on-a-village-in-helmand-province-has-killed-45-civilians-including-children-who-were-sheltering-from-v.xml)  
+
 ### [2010-07-25](/news/2010/07/25/index.md)
 
+##### Helmand Province
 # There are reports that an airstrike on a village in Helmand Province has killed 45 civilians, including children, who were sheltering from violence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10756940)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

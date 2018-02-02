@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/12/12/torrent-site-isohunt-appears-to-have-unofficially-resurrected-the-pirate-bay-at-a-site-which-turns-out-serving-new-content.html)  [JSON](/news/2014/12/12/torrent-site-isohunt-appears-to-have-unofficially-resurrected-the-pirate-bay-at-a-site-which-turns-out-serving-new-content.json)  [XML](/news/2014/12/12/torrent-site-isohunt-appears-to-have-unofficially-resurrected-the-pirate-bay-at-a-site-which-turns-out-serving-new-content.xml)  
+
 ### [2014-12-12](/news/2014/12/12/index.md)
 
+##### isoHunt
 # Torrent site isoHunt appears to have unofficially resurrected The Pirate Bay at a site which turns out serving new content. 
 
 This is the best alternative so far.
 
 
-### Source:
+### Sources:
 
-1. [VB News](http://venturebeat.com/2014/12/12/isohunt-unofficially-resurrects-the-pirate-bay/)
+1. [VB News](https://venturebeat.com/2014/12/12/isohunt-unofficially-resurrects-the-pirate-bay/)
 1. [Cover Image](https://venturebeat.com/wp-content/uploads/2014/12/the_old_pirate_bay.png?fit=900%2C490&amp;strip=all)
 
 ### Related:

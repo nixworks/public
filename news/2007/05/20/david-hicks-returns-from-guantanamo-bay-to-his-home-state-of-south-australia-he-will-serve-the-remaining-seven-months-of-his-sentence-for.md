@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/20/david-hicks-returns-from-guantanamo-bay-to-his-home-state-of-south-australia-he-will-serve-the-remaining-seven-months-of-his-sentence-for.html)  [JSON](/news/2007/05/20/david-hicks-returns-from-guantanamo-bay-to-his-home-state-of-south-australia-he-will-serve-the-remaining-seven-months-of-his-sentence-for.json)  [XML](/news/2007/05/20/david-hicks-returns-from-guantanamo-bay-to-his-home-state-of-south-australia-he-will-serve-the-remaining-seven-months-of-his-sentence-for.xml)  
+
 ### [2007-05-20](/news/2007/05/20/index.md)
 
+##### David Hicks
 #  David Hicks returns from Guantnamo Bay to his home state of South Australia. He will serve the remaining seven months of his sentence for providing material support for terrorism at Yatala Labour Prison. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/news/national/david-hicks-escorted-to-prison/2007/05/20/1179601215920.html?page=fullpage#contentSwap1)
 

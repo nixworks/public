@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/8/south-african-athlete-oscar-pistorius-is-granted-bail-while-he-appeals-his-murder-conviction.html)  [JSON](/news/2015/12/8/south-african-athlete-oscar-pistorius-is-granted-bail-while-he-appeals-his-murder-conviction.json)  [XML](/news/2015/12/8/south-african-athlete-oscar-pistorius-is-granted-bail-while-he-appeals-his-murder-conviction.xml)  
+
 ### [2015-12-8](/news/2015/12/8/index.md)
 
+##### South Africa
 # South African athlete Oscar Pistorius is granted bail while he appeals his murder conviction. 
 
 Oscar Pistorius granted bail on the provision he surrenders his passport and wears an electronic tag after being convicted of the murder of Reeva Steenkamp
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/oscar-pistorius/12037785/Oscar-Pistorius-bail-hearing-decision-live.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03516/pistorius1_3516672k.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/23/former-new-york-city-mayor-michael-bloomberg-is
 
 ### [2016-01-23](/news/2016/01/23/index.md)
 
+##### 2016 U.S. presidential election
 # Former New York City mayor Michael Bloomberg is seriously considering a possible independent presidential run if Donald Trump or Texas Senator Ted Cruz face Vermont Senator Bernie Sanders in the general election. 
 
 Michael R. Bloomberg, the billionaire former mayor of New York City, is once again weighing a third-party bid for the presidency, frustrated by what he sees as a race gone haywire, associates said.

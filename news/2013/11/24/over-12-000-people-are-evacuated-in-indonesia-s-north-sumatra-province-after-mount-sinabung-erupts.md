@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/24/over-12-000-people-are-evacuated-in-indonesia-s-north-sumatra-province-after-mount-sinabung-erupts.html)  [JSON](/news/2013/11/24/over-12-000-people-are-evacuated-in-indonesia-s-north-sumatra-province-after-mount-sinabung-erupts.json)  [XML](/news/2013/11/24/over-12-000-people-are-evacuated-in-indonesia-s-north-sumatra-province-after-mount-sinabung-erupts.xml)  
+
 ### [2013-11-24](/news/2013/11/24/index.md)
 
+##### Indonesia
 # Over 12,000 people are evacuated in Indonesia's North Sumatra province after Mount Sinabung erupts. 
 
 Mount Sinabung has been spewing out red-hot ash and rocks up to five miles into the air as the volcano goes into overdrive.
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/story/1173013/sinabung-thousands-flee-volcano-eruptions)
 1. [Cover Image](http://e3.365dm.com/16/07/1600x900/451661187-1_3625536.jpg?20160705161202)

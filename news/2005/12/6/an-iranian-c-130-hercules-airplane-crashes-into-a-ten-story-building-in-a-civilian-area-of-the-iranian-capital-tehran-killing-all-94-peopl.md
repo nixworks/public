@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/6/an-iranian-c-130-hercules-airplane-crashes-into-a-ten-story-building-in-a-civilian-area-of-the-iranian-capital-tehran-killing-all-94-peopl.html)  [JSON](/news/2005/12/6/an-iranian-c-130-hercules-airplane-crashes-into-a-ten-story-building-in-a-civilian-area-of-the-iranian-capital-tehran-killing-all-94-peopl.json)  [XML](/news/2005/12/6/an-iranian-c-130-hercules-airplane-crashes-into-a-ten-story-building-in-a-civilian-area-of-the-iranian-capital-tehran-killing-all-94-peopl.xml)  
+
 ### [2005-12-6](/news/2005/12/6/index.md)
 
+##### Iran
 #  An Iranian C-130 Hercules airplane crashes into a ten-story building in a civilian area of the Iranian capital Tehran, killing all 94 people aboard and 34 residents of the building - a total of 128+ people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4502406.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4502966.stm)

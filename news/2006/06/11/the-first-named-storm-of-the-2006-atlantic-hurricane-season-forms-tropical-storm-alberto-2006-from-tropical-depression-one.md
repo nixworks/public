@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/11/the-first-named-storm-of-the-2006-atlantic-hurricane-season-forms-tropical-storm-alberto-2006-from-tropical-depression-one.html)  [JSON](/news/2006/06/11/the-first-named-storm-of-the-2006-atlantic-hurricane-season-forms-tropical-storm-alberto-2006-from-tropical-depression-one.json)  [XML](/news/2006/06/11/the-first-named-storm-of-the-2006-atlantic-hurricane-season-forms-tropical-storm-alberto-2006-from-tropical-depression-one.xml)  
+
 ### [2006-06-11](/news/2006/06/11/index.md)
 
+##### 2006 Atlantic hurricane season
 #  The first named storm of the 2006 Atlantic hurricane season forms, Tropical Storm Alberto (2006), from Tropical Depression One. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/WEATHER/06/11/tropical.weather.ap/index.html)
 2. [NHC](http://www.nhc.noaa.gov/archive/2006/al012006/pub/al012006.public.006.shtml?)

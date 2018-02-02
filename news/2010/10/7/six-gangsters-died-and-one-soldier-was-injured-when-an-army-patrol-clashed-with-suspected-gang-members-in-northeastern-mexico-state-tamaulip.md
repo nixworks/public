@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/7/six-gangsters-died-and-one-soldier-was-injured-when-an-army-patrol-clashed-with-suspected-gang-members-in-northeastern-mexico-state-tamaulip.html)  [JSON](/news/2010/10/7/six-gangsters-died-and-one-soldier-was-injured-when-an-army-patrol-clashed-with-suspected-gang-members-in-northeastern-mexico-state-tamaulip.json)  [XML](/news/2010/10/7/six-gangsters-died-and-one-soldier-was-injured-when-an-army-patrol-clashed-with-suspected-gang-members-in-northeastern-mexico-state-tamaulip.xml)  
+
 ### [2010-10-7](/news/2010/10/7/index.md)
 
+##### Tamaulipas
 # Six gangsters died and one soldier was injured when an army patrol clashed with suspected gang members in northeastern Mexico state Tamaulipas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [People Daily](http://english.peopledaily.com.cn/90001/90777/90852/7160535.html)
 

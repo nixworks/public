@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/31/as-tropical-storm-jangmi-seniang-weakens-the-philippines-death-toll-reaches-53-people.html)  [JSON](/news/2014/12/31/as-tropical-storm-jangmi-seniang-weakens-the-philippines-death-toll-reaches-53-people.json)  [XML](/news/2014/12/31/as-tropical-storm-jangmi-seniang-weakens-the-philippines-death-toll-reaches-53-people.xml)  
+
 ### [2014-12-31](/news/2014/12/31/index.md)
 
+##### Pacific typhoon season
 # As Tropical Storm Jangmi (Seniang) weakens, the Philippines death toll reaches 53 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/dc32aa3e21ac4e1885ba93eb12efe339/philippine-storm-weakens-leaves-53-dead)
 

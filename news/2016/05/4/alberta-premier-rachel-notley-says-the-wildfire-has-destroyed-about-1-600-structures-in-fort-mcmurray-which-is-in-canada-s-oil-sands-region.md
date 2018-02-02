@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/4/alberta-premier-rachel-notley-says-the-wildfire-
 
 ### [2016-05-4](/news/2016/05/4/index.md)
 
+##### 2016 Fort McMurray wildfire
 # Alberta Premier Rachel Notley says the wildfire has destroyed about 1,600 structures in Fort McMurray, which is in Canada's oil sands region. No major oil sands facilities are in the fire's path, though two Royal Dutch Shell mines are closing, and a Suncor Energy facility is reducing crude production. The fire is threatening the Alberta Highway 63 bridge across the Athabasca River, the sole route south. The Canadian Red Cross is encouraging people to donate funds rather than clothing. 
 
 The 88,000 residents who fled a wildfire that has ravaged the Canadian oil town of Fort McMurray in Alberta will not be able to return home anytime soon, officials warned on Thursday, even as the inferno edged slowly south.

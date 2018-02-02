@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/26/britain-s-trinity-mirror-reviews-its-editorial-guidelines-in-light-of-the-news-of-the-world-phone-hacking-affair.html)  [JSON](/news/2011/07/26/britain-s-trinity-mirror-reviews-its-editorial-guidelines-in-light-of-the-news-of-the-world-phone-hacking-affair.json)  [XML](/news/2011/07/26/britain-s-trinity-mirror-reviews-its-editorial-guidelines-in-light-of-the-news-of-the-world-phone-hacking-affair.xml)  
+
 ### [2011-07-26](/news/2011/07/26/index.md)
 
+##### Trinity Mirror
 # Britain's Trinity Mirror reviews its editorial guidelines in light of the "News of the World" phone hacking affair. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Yahoo News](http://finance.yahoo.com/news/Mirror-to-review-practices-apf-3849737525.html?x=0&.v=1)
 

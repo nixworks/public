@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/6/typhoon-hagupit-ruby-a-strong-tropical-cyclone-makes-landfall-hitting-the-philippines.html)  [JSON](/news/2014/12/6/typhoon-hagupit-ruby-a-strong-tropical-cyclone-makes-landfall-hitting-the-philippines.json)  [XML](/news/2014/12/6/typhoon-hagupit-ruby-a-strong-tropical-cyclone-makes-landfall-hitting-the-philippines.xml)  
+
 ### [2014-12-6](/news/2014/12/6/index.md)
 
+##### Typhoon Hagupit (Ruby)
 # Typhoon Hagupit (Ruby), a strong tropical cyclone, makes landfall hitting the Philippines. 
 
 The powerful Typhoon Hagupit makes landfall in the Philippines where over half a million people have fled coastal towns.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-30356298)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79560000/jpg/_79560594_79560593.jpg)
@@ -13,7 +17,7 @@ The powerful Typhoon Hagupit makes landfall in the Philippines where over half a
 ### Related:
 
 1. [Tens of thousands of people evacuate ahead of Typhoon Hagupit (Ruby) which is expected to strike the Philippines. ](/news/2014/12/4/tens-of-thousands-of-people-evacuate-ahead-of-typhoon-hagupit-ruby-which-is-expected-to-strike-the-philippines.md) _Context: Philippines, Typhoon Hagupit (Ruby)_
-2. [The Philippines suspends trade relations with North Korea to comply with a recent United Nations Security Council resolution over its repeated missile tests. ](/news/2017/09/8/the-philippines-suspends-trade-relations-with-north-korea-to-comply-with-a-recent-united-nations-security-council-resolution-over-its-repeat.md) _Context: Philippines_
-3. [Flights are cancelled and evacuations are ordered for over 100,000 people in the North Central Coast of Vietnam, in preparation for Typhoon Doksuri. The system has already claimed four lives passing over the Philippines. ](/news/2017/09/14/flights-are-cancelled-and-evacuations-are-ordered-for-over-100-000-people-in-the-north-central-coast-of-vietnam-in-preparation-for-typhoon.md) _Context: Philippines_
-4. [In an unconfirmed video, the Islamic State of Iraq and the Levant instructs its followers to go and fight in the Philippines instead of the Middle East. ](/news/2017/09/12/in-an-unconfirmed-video-the-islamic-state-of-iraq-and-the-levant-instructs-its-followers-to-go-and-fight-in-the-philippines-instead-of-the.md) _Context: Philippines_
-5. [Philippine Justice secretary Vitaliano Aguirre is caught allegedly conspiring a lawsuit against opposition Senator Risa Hontiveros. ](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.md) _Context: Philippines_
+2. [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md) _Context: Philippines_
+3. [Journalists in the Philippines protest the government's decision to cancel the license of Rappler. ](/news/2018/01/19/journalists-in-the-philippines-protest-the-government-s-decision-to-cancel-the-license-of-rappler.md) _Context: Philippines_
+4. [The Mayon volcano begins to erupt in the Philippines. ](/news/2018/01/15/the-mayon-volcano-begins-to-erupt-in-the-philippines.md) _Context: Philippines_
+5. [Thirty-seven people, mostly call centre workers, are missing and presumed dead in a fire in the Davao City Mall in the Philippines. ](/news/2017/12/23/thirty-seven-people-mostly-call-centre-workers-are-missing-and-presumed-dead-in-a-fire-in-the-davao-city-mall-in-the-philippines.md) _Context: Philippines_

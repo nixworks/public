@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2011/07/28/japanese-electronics-company-sony-reduces-sales-and-profit-forecasts-due-to-the-2011-tahoku-earthquake-and-tsunami-a-computer-hacking-atta.html)  [JSON](/news/2011/07/28/japanese-electronics-company-sony-reduces-sales-and-profit-forecasts-due-to-the-2011-tahoku-earthquake-and-tsunami-a-computer-hacking-atta.json)  [XML](/news/2011/07/28/japanese-electronics-company-sony-reduces-sales-and-profit-forecasts-due-to-the-2011-tahoku-earthquake-and-tsunami-a-computer-hacking-atta.xml)  
+
 ### [2011-07-28](/news/2011/07/28/index.md)
 
+##### Japan
 # Japanese electronics company Sony reduces sales and profit forecasts due to the 2011 Tohoku earthquake and tsunami, a computer hacking attack and slowing demand in the US and Europe. 
 
+Sony Corp., Japan’s largest exporter of consumer electronics, cut its annual profit forecast after a slump in demand in the U.S. and Europe led the company to lower its estimate for television sales.
 
 
+### Sources:
 
-### Source:
-
-1. [ (Bloomberg](http://www.bloomberg.com/news/2011-07-28/sony-trims-full-year-net-income-forecast-by-25-lowers-outlook-for-sales.html)
+1. [ (Bloomberg](https://www.bloomberg.com/news/2011-07-28/sony-trims-full-year-net-income-forecast-by-25-lowers-outlook-for-sales.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-tech-7d25a852b6.jpg)
 
 ### Related:
 

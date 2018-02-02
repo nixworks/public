@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/09/9/ahmed-shah-massoud-leader-of-the-afghan-northern-alliance-is-assassinated-in-afghanistan.html)  [JSON](/news/2001/09/9/ahmed-shah-massoud-leader-of-the-afghan-northern-alliance-is-assassinated-in-afghanistan.json)  [XML](/news/2001/09/9/ahmed-shah-massoud-leader-of-the-afghan-northern-alliance-is-assassinated-in-afghanistan.xml)  
+
 ### [2001-09-9](/news/2001/09/9/index.md)
 
+##### Ahmed Shah Massoud
 #  Ahmed Shah Massoud, leader of the Afghan Northern Alliance, is assassinated in Afghanistan.
 
 
@@ -9,6 +13,6 @@
 
 1. [ Panjshir, the only part of Afghanistan that was never conquered by the Taliban, and the last defence position of Ahmed Shah Massoud, is named the 34th province of Afghanistan. ](/news/2004/04/14/panjshir-the-only-part-of-afghanistan-that-was-never-conquered-by-the-taliban-and-the-last-defence-position-of-ahmed-shah-massoud-is-nam.md) _Context: Afghanistan, Ahmed Shah Massoud_
 2. [ 2001 Attack on Afghanistan: Taliban forces abandon Kabul, the capital of Afghanistan, ahead of advancing Afghan Northern Alliance troops (Northern Alliance fighters took Kabul on November 14).](/news/2001/11/12/2001-attack-on-afghanistan-taliban-forces-abandon-kabul-the-capital-of-afghanistan-ahead-of-advancing-afghan-northern-alliance-troops-n.md) _Context: Afghan Northern Alliance, Afghanistan_
-3. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Afghanistan_
-4. [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan, killing at least three people and injuring five. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan-killing-at-least-three-people-a.md) _Context: Afghanistan_
-5. [ A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-13-others-i.md) _Context: Afghanistan_
+3. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: Afghanistan_
+4. [Researchers note that in November 2017, Strava, which processes data from apps and Internet of Things devices such as Fitbit, accidentally revealed the locations of alleged United States military bases overseas, including in Afghanistan, Djibouti and Syria. ](/news/2018/01/28/researchers-note-that-in-november-2017-strava-which-processes-data-from-apps-and-internet-of-things-devices-such-as-fitbit-accidentally-r.md) _Context: Afghanistan_
+5. [A suicide bomber in an ambulance packed with explosives kills at least 102 people and wounds 158 outside a hospital in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-explosives-kills-at-least-102-people-and-wounds-158-outside-a-hospital-in-kabul-afghanistan.md) _Context: Afghanistan_

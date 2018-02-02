@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2012/09/12/bae-and-eads-are-having-merger-talks.html)  [JSON](/news/2012/09/12/bae-and-eads-are-having-merger-talks.json)  [XML](/news/2012/09/12/bae-and-eads-are-having-merger-talks.xml)  
+
 ### [2012-09-12](/news/2012/09/12/index.md)
 
+##### BAE Systems
 # BAE and EADS are having merger talks. 
 
+BAE Systems in in talks with Airbus manufacturer EADS to create a European defense giant to rival Boeing and Lockheed.
 
 
+### Sources:
 
-### Source:
-
-1. [Forbes](http://www.forbes.com/sites/danielfisher/2012/09/12/as-defense-budgets-shrink-bae-talks-merger-with-eads/)
+1. [Forbes](https://www.forbes.com/sites/danielfisher/2012/09/12/as-defense-budgets-shrink-bae-talks-merger-with-eads/)
+1. [Cover Image](https://thumbor.forbes.com/thumbor/600x315/smart/https%3A%2F%2Fblogs-images.forbes.com%2Fthumbnails%2Fblog_986%2Fpt_986_6055_o.jpg%3Ft%3D1347487667)
 
 ### Related:
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/14/the-people-s-republic-of-china-announces-that-i
 
 ### [2016-04-14](/news/2016/04/14/index.md)
 
+##### Government of China
 # The People's Republic of China announces that it will prosecute 357 people for the illegal sale of vaccines. 
 
 The Chinese government says 357 officials are to be punished over a scandal involving the sale of illegal vaccines, while 192 criminal cases have been filed.

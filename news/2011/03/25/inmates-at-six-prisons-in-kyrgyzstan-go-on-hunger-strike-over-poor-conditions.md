@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/25/inmates-at-six-prisons-in-kyrgyzstan-go-on-hunger-strike-over-poor-conditions.html)  [JSON](/news/2011/03/25/inmates-at-six-prisons-in-kyrgyzstan-go-on-hunger-strike-over-poor-conditions.json)  [XML](/news/2011/03/25/inmates-at-six-prisons-in-kyrgyzstan-go-on-hunger-strike-over-poor-conditions.xml)  
+
 ### [2011-03-25](/news/2011/03/25/index.md)
 
+##### Kyrgyzstan
 # Inmates at six prisons in Kyrgyzstan go on hunger strike over poor conditions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CP](http://www.google.com/hostednews/canadianpress/article/ALeqM5gpdywymOvwAqv8dOLRlVeysrbhng?docId=6360540)
 2. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=16088039&PageNum=0)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/07/14/the-first-series-of-big-brother-uk-starts.html)  [JSON](/news/2000/07/14/the-first-series-of-big-brother-uk-starts.json)  [XML](/news/2000/07/14/the-first-series-of-big-brother-uk-starts.xml)  
+
 ### [2000-07-14](/news/2000/07/14/index.md)
 
+##### Big Brother (UK)
 #  The first series of "Big Brother UK" starts.
 
 

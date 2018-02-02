@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/08/14/mohamed-salem-an-egyptian-lawyer-files-a-lawsuit-over-president-morsi-s-removal-of-hussein-tantawi-and-sami-anan.html)  [JSON](/news/2012/08/14/mohamed-salem-an-egyptian-lawyer-files-a-lawsuit-over-president-morsi-s-removal-of-hussein-tantawi-and-sami-anan.json)  [XML](/news/2012/08/14/mohamed-salem-an-egyptian-lawyer-files-a-lawsuit-over-president-morsi-s-removal-of-hussein-tantawi-and-sami-anan.xml)  
+
 ### [2012-08-14](/news/2012/08/14/index.md)
 
+##### Mohamed Morsi
 # Mohamed Salem, an Egyptian lawyer, files a lawsuit over President Morsi's removal of Hussein Tantawi and Sami Anan. 
 
 An Egyptian court is to hear thefirst legal challenge to a decree issued by Islamist PresidentMohamed Mursi that removed curbs on his powers imposed by thearmy.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/08/14/egypt-mursi-challenge-idUSL6E8JE9D220120814)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/08/14/egypt-mursi-challenge-idUSL6E8JE9D220120814)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

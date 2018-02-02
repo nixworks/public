@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/03/16/although-he-is-currently-still-being-held-in-new-orleans-louisiana-los-angeles-prosecutors-formally-charge-robert-durst-with-the-murder-of.html)  [JSON](/news/2015/03/16/although-he-is-currently-still-being-held-in-new-orleans-louisiana-los-angeles-prosecutors-formally-charge-robert-durst-with-the-murder-of.json)  [XML](/news/2015/03/16/although-he-is-currently-still-being-held-in-new-orleans-louisiana-los-angeles-prosecutors-formally-charge-robert-durst-with-the-murder-of.xml)  
+
 ### [2015-03-16](/news/2015/03/16/index.md)
 
+##### New Orleans
 # Although he is currently still being held in New Orleans, Louisiana, Los Angeles prosecutors formally charge Robert Durst with the murder of his former friend Susan Berman covered in the HBO documentary miniseries "The Jinx". 
 
 Los Angeles prosecutors have formally charged Robert Durst, subject of HBO&#8217;s documentary series &#8220;The Jinx,&#8221; with first-degree murder in the death of Susan Berman. He was also rebo…
 
 
-### Source:
+### Sources:
 
-1. [Variety](http://variety.com/2015/tv/news/robert-durst-officially-charged-with-murder-of-susan-berman-1201453882/)
-1. [Cover Image](https://pmcvariety.files.wordpress.com/2015/03/the-jinx-robert-durst.jpg?w=640&amp;h=360&amp;crop=1)
+1. [Variety](https://variety.com/2015/tv/news/robert-durst-officially-charged-with-murder-of-susan-berman-1201453882/)
+1. [Cover Image](https://pmcvariety.files.wordpress.com/2015/03/the-jinx-robert-durst.jpg?w=640&#038;h=360&#038;crop=1)
 
 ### Related:
 

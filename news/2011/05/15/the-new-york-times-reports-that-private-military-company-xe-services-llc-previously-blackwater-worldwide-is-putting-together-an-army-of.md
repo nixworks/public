@@ -1,24 +1,28 @@
+
+Formats: [HTML](/news/2011/05/15/the-new-york-times-reports-that-private-military-company-xe-services-llc-previously-blackwater-worldwide-is-putting-together-an-army-of.html)  [JSON](/news/2011/05/15/the-new-york-times-reports-that-private-military-company-xe-services-llc-previously-blackwater-worldwide-is-putting-together-an-army-of.json)  [XML](/news/2011/05/15/the-new-york-times-reports-that-private-military-company-xe-services-llc-previously-blackwater-worldwide-is-putting-together-an-army-of.xml)  
+
 ### [2011-05-15](/news/2011/05/15/index.md)
 
+##### The New York Times
 # "The New York Times" reports that private military company Xe Services LLC (previously Blackwater Worldwide) is putting together an army of mercenaries in the United Arab Emirates. 
 
 Erik Prince has been hired to assemble a force of foreign troops in the United Arab Emirates, according to a variety of sources.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2011/05/15/world/middleeast/15prince.html?pagewanted=1&_r=1&hp)
+1. [The New York Times](https://www.nytimes.com/2011/05/15/world/middleeast/15prince.html?pagewanted=1&_r=1&hp)
 1. [Cover Image](https://static01.nyt.com/images/2011/05/15/world/15prince1_span/sub-prince-thumbStandard.jpg)
-
-### Related:
-
-1. [American film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by a report in "The New York Times" that he had settled eight sexual harassment claims made over three decades. Multiple Democratic recipients of Weinstein's political donations give the funds to women's charities. ](/news/2017/10/6/american-film-producer-harvey-weinstein-including-pulp-fiction-clerks-the-crying-game-and-sex-lies-and-videotape-answers-alle.md) _Context: The New York Times_
-2. [City officials in Dubai, United Arab Emirates, announce that residents will receive incentives for swapping their petrol engine vehicles for electric ones, including a free Salik tag, and an exemption from RTA registration and renewal vehicle fees. ](/news/2017/09/24/city-officials-in-dubai-united-arab-emirates-announce-that-residents-will-receive-incentives-for-swapping-their-petrol-engine-vehicles-for.md) _Context: United Arab Emirates_
-3. [A fire at the 79-story Dubai Torch Tower in the United Arab Emirates, which forced nighttime evacuations, was under control in a few hours with no serious injuries immediately reported. The building's exterior was still being renovated from a fire in February, 2015, which investigators had blamed, at least in part, to flammable siding, echoing the findings of this past June's Grenfell Tower fire in London. ](/news/2017/08/4/a-fire-at-the-79-story-dubai-torch-tower-in-the-united-arab-emirates-which-forced-nighttime-evacuations-was-under-control-in-a-few-hours-w.md) _Context: United Arab Emirates_
-4. [Tropical storm Harvey (hurricane earlier this month) makes its second landfall, this time in the U.S. state of Louisiana. "The New York Times" reports local officials say the death toll since last Friday is now 38. Moving northeast, Harvey is expected to gradually weaken to a tropical depression by tonight. ](/news/2017/08/30/tropical-storm-harvey-hurricane-earlier-this-month-makes-its-second-landfall-this-time-in-the-u-s-state-of-louisiana-the-new-york-time.md) _Context: The New York Times_
-5. [Qatar files a legal complaint at the World Trade Organization (WTO) concerning the embargo imposed by Saudi Arabia, Egypt, Bahrain and United Arab Emirates in June. The parties have 60 days to settle the complaint to avoid WTO litigation. ](/news/2017/07/31/qatar-files-a-legal-complaint-at-the-world-trade-organization-wto-concerning-the-embargo-imposed-by-saudi-arabia-egypt-bahrain-and-unite.md) _Context: United Arab Emirates_
 
 ### Changes:
 
 1. [''The New York Times'' reports that private military company Xe Services LLC (previously Blackwater Worldwide) is putting together an army of mercenaries in the United Arab Emirates. ](/news/2011/05/15/the-new-york-times-reports-that-private-military-company-xe-services-llc-previously-blackwater-worldwide-is-putting-together-an-army-o.md) _2017-08-25 03:33:07 (First version)_
 1. ["The New York Times" reports that private military company Xe Services LLC (previously Blackwater Worldwide) is putting together an army of mercenaries in the United Arab Emirates. ](/news/2011/05/15/the-new-york-times-reports-that-private-military-company-xe-services-llc-previously-blackwater-worldwide-is-putting-together-an-army-of.md) _(Current version)_
+
+### Related:
+
+1. [United Arab Emirates-backed Southern Transitional Council (STC) fighters seize control of government buildings in the southern Yemeni city of Aden, after clashing with forces loyal to President Abdrabbuh Mansur Hadi. At least 10 people are reportedly killed and 30 wounded. Yemeni Prime Minister Ahmed Obeid bin Daghr accuses the separatists of mounting a coup. ](/news/2018/01/28/united-arab-emirates-backed-southern-transitional-council-stc-fighters-seize-control-of-government-buildings-in-the-southern-yemeni-city-o.md) _Context: United Arab Emirates_
+2. ["The New York Times" reports that Special Counsel Robert Mueller subpoenaed Steve Bannon last week to testify before a grand jury. The House Intelligence Committee issues a second subpoena, via powers seldomly used by Congress, following Bannon's testimony today that, while he was willing to answer questions, the White House instructed him not to answer questions related to his White House tenure. ](/news/2018/01/16/the-new-york-times-reports-that-special-counsel-robert-mueller-subpoenaed-steve-bannon-last-week-to-testify-before-a-grand-jury-the-house.md) _Context: The New York Times_
+3. [Value Added Tax (VAT) has been introduced in Saudi Arabia and the United Arab Emirates for the first time. ](/news/2018/01/1/value-added-tax-vat-has-been-introduced-in-saudi-arabia-and-the-united-arab-emirates-for-the-first-time.md) _Context: United Arab Emirates_
+4. [At a GCC summit in Kuwait City, the United Arab Emirates announce a political and military alliance with Saudi Arabia. ](/news/2017/12/5/at-a-gcc-summit-in-kuwait-city-the-united-arab-emirates-announce-a-political-and-military-alliance-with-saudi-arabia.md) _Context: United Arab Emirates_
+5. [The lawyer of Ahmed Shafiq, a candidate for the spring 2018 presidential elections in Egypt, says she met him in a hotel room in Cairo following his arrest the day before in Dubai, U.A.E., after saying earlier today that his family didn't know his whereabouts. ](/news/2017/12/3/the-lawyer-of-ahmed-shafiq-a-candidate-for-the-spring-2018-presidential-elections-in-egypt-says-she-met-him-in-a-hotel-room-in-cairo-follo.md) _Context: United Arab Emirates_

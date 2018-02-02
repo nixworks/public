@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/11/the-election-of-a-new-secretary-general-of-the-organization-of-american-states-ends-in-an-unprecedented-stalemate-after-five-rounds-of-voti.html)  [JSON](/news/2005/04/11/the-election-of-a-new-secretary-general-of-the-organization-of-american-states-ends-in-an-unprecedented-stalemate-after-five-rounds-of-voti.json)  [XML](/news/2005/04/11/the-election-of-a-new-secretary-general-of-the-organization-of-american-states-ends-in-an-unprecedented-stalemate-after-five-rounds-of-voti.xml)  
+
 ### [2005-04-11](/news/2005/04/11/index.md)
 
+##### election of a new secretary general
 #  The election of a new secretary general of the Organization of American States ends in an unprecedented stalemate after five rounds of voting. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4434231.stm)
 

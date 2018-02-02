@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/14/a-man-disfigured-in-a-bear-attack-becomes-the-first-in-china-to-have-a-face-transplant.html)  [JSON](/news/2006/04/14/a-man-disfigured-in-a-bear-attack-becomes-the-first-in-china-to-have-a-face-transplant.json)  [XML](/news/2006/04/14/a-man-disfigured-in-a-bear-attack-becomes-the-first-in-china-to-have-a-face-transplant.xml)  
+
 ### [2006-04-14](/news/2006/04/14/index.md)
 
+##### face transplant
 #  A man disfigured in a bear attack becomes the first in China to have a face transplant. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4910372.stm)
 

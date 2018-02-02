@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/18/eight-people-are-jailed-in-hubei-china-for-disrupting-public-order-after-10-000-people-participated-in-riots-following-the-controversia.html)  [JSON](/news/2009/10/18/eight-people-are-jailed-in-hubei-china-for-disrupting-public-order-after-10-000-people-participated-in-riots-following-the-controversia.json)  [XML](/news/2009/10/18/eight-people-are-jailed-in-hubei-china-for-disrupting-public-order-after-10-000-people-participated-in-riots-following-the-controversia.xml)  
+
 ### [2009-10-18](/news/2009/10/18/index.md)
 
+##### Hubei
 #  Eight people are jailed in Hubei, China, for "disrupting public order" after 10,000 people participated in riots following the controversial death of a chef in June. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8313246.stm)
 2. [Bangkok Post](http://www.bangkokpost.com/news/asia/157418/chinese-jailed-for-riot-sparked-by-suicide-govt)

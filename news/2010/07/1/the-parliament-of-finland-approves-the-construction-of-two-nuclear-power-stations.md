@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/1/the-parliament-of-finland-approves-the-construction-of-two-nuclear-power-stations.html)  [JSON](/news/2010/07/1/the-parliament-of-finland-approves-the-construction-of-two-nuclear-power-stations.json)  [XML](/news/2010/07/1/the-parliament-of-finland-approves-the-construction-of-two-nuclear-power-stations.xml)  
+
 ### [2010-07-1](/news/2010/07/1/index.md)
 
+##### Parliament of Finland
 # The Parliament of Finland approves the construction of two nuclear power stations. 
 
 The Finnish parliament approves constructing two nuclear power stations in a bid to be self-sufficient by 2020
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/10474511.stm)
 2. [CNN](http://edition.cnn.com/2010/WORLD/europe/07/01/finland.new.reactors/index.html?iref=allsearch&fbid=XiPj-PMGuif)

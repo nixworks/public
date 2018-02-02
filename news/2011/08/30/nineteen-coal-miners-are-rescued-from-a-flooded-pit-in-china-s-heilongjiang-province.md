@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/30/nineteen-coal-miners-are-rescued-from-a-flooded-pit-in-china-s-heilongjiang-province.html)  [JSON](/news/2011/08/30/nineteen-coal-miners-are-rescued-from-a-flooded-pit-in-china-s-heilongjiang-province.json)  [XML](/news/2011/08/30/nineteen-coal-miners-are-rescued-from-a-flooded-pit-in-china-s-heilongjiang-province.xml)  
+
 ### [2011-08-30](/news/2011/08/30/index.md)
 
+##### coal miner
 # Nineteen coal miners are rescued from a flooded pit in China's Heilongjiang Province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-08/30/c_131084002.htm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/11/philippines-president-rodrigo-duterte-says-he-i
 
 ### [2017-06-11](/news/2017/06/11/index.md)
 
+##### Marawi crisis
 # Philippines president Rodrigo Duterte says he is "not aware" of the United States providing support to the Philippine government's military intervention against Islamists in Marawi. Duterte also said that he "never approached America for help". 
 
 Philippine President Rodrigo Duterte said on Sunday he was not aware the U.S. government was providing assistance to government troops in its battle against Islamist militants in a southern city.

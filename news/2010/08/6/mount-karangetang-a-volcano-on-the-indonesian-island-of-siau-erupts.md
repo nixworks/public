@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/6/mount-karangetang-a-volcano-on-the-indonesian-island-of-siau-erupts.html)  [JSON](/news/2010/08/6/mount-karangetang-a-volcano-on-the-indonesian-island-of-siau-erupts.json)  [XML](/news/2010/08/6/mount-karangetang-a-volcano-on-the-indonesian-island-of-siau-erupts.xml)  
+
 ### [2010-08-6](/news/2010/08/6/index.md)
 
+##### Karangetang
 # Mount Karangetang, a volcano on the Indonesian island of Siau, erupts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Seattle PI](http://www.seattlepi.com/national/1104ap_as_indonesia_volcanic_eruption.html)
 

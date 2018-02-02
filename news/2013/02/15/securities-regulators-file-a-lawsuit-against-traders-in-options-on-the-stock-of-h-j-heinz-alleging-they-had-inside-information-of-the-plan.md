@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/02/15/securities-regulators-file-a-lawsuit-against-traders-in-options-on-the-stock-of-h-j-heinz-alleging-they-had-inside-information-of-the-plan.html)  [JSON](/news/2013/02/15/securities-regulators-file-a-lawsuit-against-traders-in-options-on-the-stock-of-h-j-heinz-alleging-they-had-inside-information-of-the-plan.json)  [XML](/news/2013/02/15/securities-regulators-file-a-lawsuit-against-traders-in-options-on-the-stock-of-h-j-heinz-alleging-they-had-inside-information-of-the-plan.xml)  
+
 ### [2013-02-15](/news/2013/02/15/index.md)
 
+##### H.J. Heinz
 # Securities regulators file a lawsuit against traders in options on the stock of H.J. Heinz, alleging they had inside information of the planned acquisition of that company before the announcement thereof by Berkshire Hathaway and 3G Capital. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/02/16/us-heinz-berkshire-sec-idUSBRE91E14R20130216)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130216&t=2&i=704678923&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91E1OKN00)
+1. [Reuters](https://www.reuters.com/article/2013/02/16/us-heinz-berkshire-sec-idUSBRE91E14R20130216)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130216&t=2&i=704678923&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91E1OKN00)
 
 ### Related:
 

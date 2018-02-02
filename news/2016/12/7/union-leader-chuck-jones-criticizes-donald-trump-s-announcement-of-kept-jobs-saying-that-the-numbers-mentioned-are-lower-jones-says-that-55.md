@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/7/union-leader-chuck-jones-criticizes-donald-trump
 
 ### [2016-12-7](/news/2016/12/7/index.md)
 
+##### Carrier Air Conditioner move to Mexico
 # Union leader Chuck Jones criticizes Donald Trump's announcement of kept jobs saying that the numbers mentioned are lower. Jones says that 550 workers would actually lose their livelihoods, while other workers were never scheduled to leave. 
 
 

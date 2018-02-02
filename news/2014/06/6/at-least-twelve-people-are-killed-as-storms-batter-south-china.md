@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/6/at-least-twelve-people-are-killed-as-storms-batter-south-china.html)  [JSON](/news/2014/06/6/at-least-twelve-people-are-killed-as-storms-batter-south-china.json)  [XML](/news/2014/06/6/at-least-twelve-people-are-killed-as-storms-batter-south-china.xml)  
+
 ### [2014-06-6](/news/2014/06/6/index.md)
 
+##### South China
 # At least twelve people are killed as storms batter South China. 
 
 The rain has affected 148900 people there and forced the evacuation of 2788 8.Direct economic losses including property and crop damage are calculated at 109 million yuan(17.4 mln U.
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/china/2014-06/06/c_126584414.htm)
 

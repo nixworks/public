@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/3/australia-opens-a-national-probe-into-child-sex-abuse-with-prime-minister-julia-gillard-warning-of-uncomfortable-truths-as-institutions-i.html)  [JSON](/news/2013/04/3/australia-opens-a-national-probe-into-child-sex-abuse-with-prime-minister-julia-gillard-warning-of-uncomfortable-truths-as-institutions-i.json)  [XML](/news/2013/04/3/australia-opens-a-national-probe-into-child-sex-abuse-with-prime-minister-julia-gillard-warning-of-uncomfortable-truths-as-institutions-i.xml)  
+
 ### [2013-04-3](/news/2013/04/3/index.md)
 
+##### Australia
 # Australia opens a national probe into child sex abuse, with Prime Minister Julia Gillard warning of "uncomfortable truths" as institutions including schools and churches come under scrutiny. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/afp_asiapacific/australia-launches-national-child-sex-abuse-inquiry/625320.html)
 

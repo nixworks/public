@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/31/indonesia-intends-to-vaccinate-6-4-million-children-against-polio-in-the-next-couple-of-days-there-are-already-16-cases-in-the-country.html)  [JSON](/news/2005/05/31/indonesia-intends-to-vaccinate-6-4-million-children-against-polio-in-the-next-couple-of-days-there-are-already-16-cases-in-the-country.json)  [XML](/news/2005/05/31/indonesia-intends-to-vaccinate-6-4-million-children-against-polio-in-the-next-couple-of-days-there-are-already-16-cases-in-the-country.xml)  
+
 ### [2005-05-31](/news/2005/05/31/index.md)
 
+##### Indonesia
 #  Indonesia intends to vaccinate 6.4 million children against polio in the next couple of days. There are already 16 cases in the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/health/view/150103/1/.html)
 2. [Jakarta Post](http://www.thejakartapost.com/detailnational.asp?fileid=20050531.C03&irec=2)

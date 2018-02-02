@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/13/a-suicide-bombing-occurs-at-a-religious-festival-in-the-town-of-iliskhan-yurt-in-southeastern-chechnya-at-least-14-people-are-killed-by-t.html)  [JSON](/news/2003/05/13/a-suicide-bombing-occurs-at-a-religious-festival-in-the-town-of-iliskhan-yurt-in-southeastern-chechnya-at-least-14-people-are-killed-by-t.json)  [XML](/news/2003/05/13/a-suicide-bombing-occurs-at-a-religious-festival-in-the-town-of-iliskhan-yurt-in-southeastern-chechnya-at-least-14-people-are-killed-by-t.xml)  
+
 ### [2003-05-13](/news/2003/05/13/index.md)
 
+##### Chechnya
 #  A suicide bombing occurs at a religious festival in the town of Iliskhan-Yurt, in southeastern Chechnya. At least 14 people are killed by the bombing. The attack is apparently an attempt to assassinate Akhmad Kadyrov, the Moscow-appointed chief administrator of Chechnya. Kadryov escaped injury.,
 
 

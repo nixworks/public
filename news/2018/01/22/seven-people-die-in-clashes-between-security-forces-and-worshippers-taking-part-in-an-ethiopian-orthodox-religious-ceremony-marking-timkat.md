@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/22/seven-people-die-in-clashes-between-security-fo
 
 ### [2018-01-22](/news/2018/01/22/index.md)
 
+##### Ethiopian Orthodox
 # Seven people die in clashes between security forces and worshippers taking part in an Ethiopian Orthodox religious ceremony marking Timkat (Epiphany) in Woldiya, Amhara, Ethiopia, over the weekend. 
 
 At least seven people died after clashes broke out between security forces and worshippers taking part in a religious ceremony marking Epiphany in northern Ethiopia over the weekend, officials said.

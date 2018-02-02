@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/8/unknown-gunmen-storm-a-hotel-in-bosaso-leaving-a
 
 ### [2017-02-8](/news/2017/02/8/index.md)
 
+##### War in Somalia (2009-present)
 # Unknown gunmen storm a hotel in Bosaso, leaving at least four guards and two militants dead. It is unclear who carried out the attack. An official blames Al-Shabaab, though the group denies having any involvement. 
 
 Two gunmen also killed after targeting hotel in rare assault in the capital of the northern semi-autonomous region.

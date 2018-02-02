@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/4/in-israel-a-new-cabinet-under-prime-minister-ehud-olmert-is-sworn-in.html)  [JSON](/news/2006/05/4/in-israel-a-new-cabinet-under-prime-minister-ehud-olmert-is-sworn-in.json)  [XML](/news/2006/05/4/in-israel-a-new-cabinet-under-prime-minister-ehud-olmert-is-sworn-in.xml)  
+
 ### [2006-05-4](/news/2006/05/4/index.md)
 
+##### Israel
 #  In Israel, a new Cabinet under Prime Minister Ehud Olmert is sworn in. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4971374.stm)
 

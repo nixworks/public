@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/14/a-6-9-magnitude-earthquake-strikes-sumatra-in-indonesia.html)  [JSON](/news/2005/05/14/a-6-9-magnitude-earthquake-strikes-sumatra-in-indonesia.json)  [XML](/news/2005/05/14/a-6-9-magnitude-earthquake-strikes-sumatra-in-indonesia.xml)  
+
 ### [2005-05-14](/news/2005/05/14/index.md)
 
+##### Richter scale
 #  A 6.9 magnitude earthquake strikes Sumatra in Indonesia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Earth Times](http://www.earthtimes.org/articles/show/2790.html)
 2. [VOA](http://www.voanews.com/english/2005-05-14-voa14.cfm)

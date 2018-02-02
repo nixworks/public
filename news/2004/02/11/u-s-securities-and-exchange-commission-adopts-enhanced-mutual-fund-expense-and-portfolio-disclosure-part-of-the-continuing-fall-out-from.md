@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/11/u-s-securities-and-exchange-commission-adopts-enhanced-mutual-fund-expense-and-portfolio-disclosure-part-of-the-continuing-fall-out-from.html)  [JSON](/news/2004/02/11/u-s-securities-and-exchange-commission-adopts-enhanced-mutual-fund-expense-and-portfolio-disclosure-part-of-the-continuing-fall-out-from.json)  [XML](/news/2004/02/11/u-s-securities-and-exchange-commission-adopts-enhanced-mutual-fund-expense-and-portfolio-disclosure-part-of-the-continuing-fall-out-from.xml)  
+
 ### [2004-02-11](/news/2004/02/11/index.md)
 
+##### Securities and Exchange Commission
 #  U.S. Securities and Exchange Commission adopts enhanced mutual fund expense and portfolio disclosure, part of the continuing fall-out from the mutual fund late-trading scandal of 2003.
 
 

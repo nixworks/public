@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/6/heavy-flooding-kills-14-people-in-thailand-and-b
 
 ### [2016-12-6](/news/2016/12/6/index.md)
 
+##### Thailand
 #  Heavy flooding kills 14 people in Thailand and badly affects the islands of Samui and Pha Ngan in the Gulf of Thailand. It has also severed the rail link to southern Thailand and Malaysia. 
 
 

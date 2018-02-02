@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/10/uefa-president-michel-platini-is-released-from-hospital.html)  [JSON](/news/2010/07/10/uefa-president-michel-platini-is-released-from-hospital.json)  [XML](/news/2010/07/10/uefa-president-michel-platini-is-released-from-hospital.xml)  
+
 ### [2010-07-10](/news/2010/07/10/index.md)
 
+##### UEFA
 # UEFA President Michel Platini is released from hospital. 
 
 Michel&#x20;Platini,&#x20;the&#x20;head&#x20;of&#x20;the&#x20;Union&#x20;of&#x20;European&#x20;Football&#x20;Associations,&#x20;was&#x20;released&#x20;from&#x20;a&#x20;Johannesburg&#x20;hospital&#x20;on&#x20;Saturday&#x20;after&#x20;remaining&#x20;overnight.&#x20;Platini&#x20;took&#x20;ill&#x20;while&#x20;dining&#x20;at&#x20;a&#x20;local&#x20;restaurant&#x20;on&#x20;Friday.
 
 
-### Source:
+### Sources:
 
 1. [France24](http://www.france24.com/en/20100709-johannesburg-south-africa-uefa-president-platini-taken-hospital-after-fainting-restaurant)
 1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/platini-uefa.jpg)

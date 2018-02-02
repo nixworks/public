@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/19/2016-nampala-attack-at-least-12-soldiers-are-ki
 
 ### [2016-07-19](/news/2016/07/19/index.md)
 
+##### Northern Mali conflict
 #  2016 Nampala attack: At least 12 soldiers are killed and 27 others injured after unidentified militants briefly overrun a government base in central Mali, near the border with Mauritania. The attackers also burn and loot the adjacent village of Nampala. 
 
 

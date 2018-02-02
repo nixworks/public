@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/20/israel-says-it-has-proof-that-iran-financed-the-bombing-of-a-fast-food-restaurant-in-tel-aviv-and-that-syria-carried-it-out.html)  [JSON](/news/2006/01/20/israel-says-it-has-proof-that-iran-financed-the-bombing-of-a-fast-food-restaurant-in-tel-aviv-and-that-syria-carried-it-out.json)  [XML](/news/2006/01/20/israel-says-it-has-proof-that-iran-financed-the-bombing-of-a-fast-food-restaurant-in-tel-aviv-and-that-syria-carried-it-out.xml)  
+
 ### [2006-01-20](/news/2006/01/20/index.md)
 
+##### Israel
 #  Israel says it has proof that Iran financed the bombing of a fast-food restaurant in Tel Aviv, and that Syria carried it out. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/International/wireStory?id=1525856)
 

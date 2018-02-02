@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/13/former-president-of-the-maldives-mohamed-nasheed-takes-refuge-in-the-indian-embassy-in-the-city-of-mala-c-maldives-saying-that-his-trial-for.html)  [JSON](/news/2013/02/13/former-president-of-the-maldives-mohamed-nasheed-takes-refuge-in-the-indian-embassy-in-the-city-of-mala-c-maldives-saying-that-his-trial-for.json)  [XML](/news/2013/02/13/former-president-of-the-maldives-mohamed-nasheed-takes-refuge-in-the-indian-embassy-in-the-city-of-mala-c-maldives-saying-that-his-trial-for.xml)  
+
 ### [2013-02-13](/news/2013/02/13/index.md)
 
+##### President
 # Former President of the Maldives Mohamed Nasheed takes refuge in the Indian embassy in the city of Male, Maldives saying that his trial for political abuse and corruption is a "politically motivated sham". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1254085/1/.html)
 

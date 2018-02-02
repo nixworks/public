@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2009/12/2/fifa-the-world-governing-body-for-association-football-announce-after-an-emergency-session-of-their-executive-committee-that-following-t.html)  [JSON](/news/2009/12/2/fifa-the-world-governing-body-for-association-football-announce-after-an-emergency-session-of-their-executive-committee-that-following-t.json)  [XML](/news/2009/12/2/fifa-the-world-governing-body-for-association-football-announce-after-an-emergency-session-of-their-executive-committee-that-following-t.xml)  
+
 ### [2009-12-2](/news/2009/12/2/index.md)
 
+##### FIFA
 #  FIFA, the world governing body for association football, announce after an emergency session of their Executive Committee, that following the controversy over the Thierry Henry handball incident, it will set up an inquiry into the use of extra officials or technology, but any changes will not be implemented for the 2010 FIFA World Cup in South Africa. Wikinews
 
 

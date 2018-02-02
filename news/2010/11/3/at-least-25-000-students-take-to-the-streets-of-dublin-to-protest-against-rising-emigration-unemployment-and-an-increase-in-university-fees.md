@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/3/at-least-25-000-students-take-to-the-streets-of-dublin-to-protest-against-rising-emigration-unemployment-and-an-increase-in-university-fees.html)  [JSON](/news/2010/11/3/at-least-25-000-students-take-to-the-streets-of-dublin-to-protest-against-rising-emigration-unemployment-and-an-increase-in-university-fees.json)  [XML](/news/2010/11/3/at-least-25-000-students-take-to-the-streets-of-dublin-to-protest-against-rising-emigration-unemployment-and-an-increase-in-university-fees.xml)  
+
 ### [2010-11-3](/news/2010/11/3/index.md)
 
+##### Dublin
 # At least 25,000 students take to the streets of Dublin to protest against rising emigration, unemployment and an increase in university fees, in the largest such demonstration for a generation. 
 
 IN THE largest student protest for a generation, at least 25,000 voiced their opposition to increased student fees outside the&hellip;
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-11686778)
 2. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/students-to-demonstrate-against-hike-in-college-fees-480209.html)

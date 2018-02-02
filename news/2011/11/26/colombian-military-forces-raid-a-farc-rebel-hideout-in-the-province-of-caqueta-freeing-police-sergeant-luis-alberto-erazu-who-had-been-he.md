@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/26/colombian-military-forces-raid-a-farc-rebel-hideout-in-the-province-of-caqueta-freeing-police-sergeant-luis-alberto-erazu-who-had-been-he.html)  [JSON](/news/2011/11/26/colombian-military-forces-raid-a-farc-rebel-hideout-in-the-province-of-caqueta-freeing-police-sergeant-luis-alberto-erazu-who-had-been-he.json)  [XML](/news/2011/11/26/colombian-military-forces-raid-a-farc-rebel-hideout-in-the-province-of-caqueta-freeing-police-sergeant-luis-alberto-erazu-who-had-been-he.xml)  
+
 ### [2011-11-26](/news/2011/11/26/index.md)
 
+##### Colombia
 # Colombian military forces raid a FARC rebel hideout in the province of Caqueta, freeing police sergeant Luis Alberto Erazu, who had been held hostage by FARC for 12 years. Four other hostages are killed by the rebels during the raid. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Miami Herald](http://www.miamiherald.com/2011/11/28/2522439/colombian-farc-hostage-describes.html)
 

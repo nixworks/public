@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/11/at-the-sixty-first-venice-film-festival-british-director-mike-leigh-is-awarded-several-prizes-including-the-prestigious-golden-lion-leo.html)  [JSON](/news/2004/09/11/at-the-sixty-first-venice-film-festival-british-director-mike-leigh-is-awarded-several-prizes-including-the-prestigious-golden-lion-leo.json)  [XML](/news/2004/09/11/at-the-sixty-first-venice-film-festival-british-director-mike-leigh-is-awarded-several-prizes-including-the-prestigious-golden-lion-leo.xml)  
+
 ### [2004-09-11](/news/2004/09/11/index.md)
 
+##### Venice Film Festival
 #  At the sixty first Venice Film Festival, British director Mike Leigh is awarded several prizes, including the prestigious Golden Lion ("Leone d'Oro") award, for his movie "Vera Drake," about a working-class mother arrested for performing illegal abortions in 1950s Britain. The star of the movie, Imelda Staunton, receives the award for best actress. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.co.uk/newsPackageArticle.jhtml?type=topNews&storyID=581587&section=news)
 

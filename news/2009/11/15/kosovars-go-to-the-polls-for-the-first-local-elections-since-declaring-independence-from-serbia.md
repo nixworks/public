@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/15/kosovars-go-to-the-polls-for-the-first-local-elections-since-declaring-independence-from-serbia.html)  [JSON](/news/2009/11/15/kosovars-go-to-the-polls-for-the-first-local-elections-since-declaring-independence-from-serbia.json)  [XML](/news/2009/11/15/kosovars-go-to-the-polls-for-the-first-local-elections-since-declaring-independence-from-serbia.xml)  
+
 ### [2009-11-15](/news/2009/11/15/index.md)
 
+##### Kosovo
 #  Kosovars go to the polls for the first local elections since declaring independence from Serbia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,4879749,00.html)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-11/15/content_12462357.htm)

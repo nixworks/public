@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/7/the-former-governor-of-the-us-state-of-illinois-rod-blagojevich-is-sentenced-to-14-years-in-jail-for-corruption.html)  [JSON](/news/2011/12/7/the-former-governor-of-the-us-state-of-illinois-rod-blagojevich-is-sentenced-to-14-years-in-jail-for-corruption.json)  [XML](/news/2011/12/7/the-former-governor-of-the-us-state-of-illinois-rod-blagojevich-is-sentenced-to-14-years-in-jail-for-corruption.xml)  
+
 ### [2011-12-7](/news/2011/12/7/index.md)
 
+##### Governor of Illinois
 # The former Governor of the US state of Illinois Rod Blagojevich is sentenced to 14 years in jail for corruption. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://newsandinsight.thomsonreuters.com/Legal/News/2011/12_-_December/Former_Illinois_governor_sentenced_to_14_years/)
 

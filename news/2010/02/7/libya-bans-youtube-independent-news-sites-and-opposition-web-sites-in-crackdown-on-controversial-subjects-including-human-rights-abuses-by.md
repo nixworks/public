@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2010/02/7/libya-bans-youtube-independent-news-sites-and-opposition-web-sites-in-crackdown-on-controversial-subjects-including-human-rights-abuses-by.html)  [JSON](/news/2010/02/7/libya-bans-youtube-independent-news-sites-and-opposition-web-sites-in-crackdown-on-controversial-subjects-including-human-rights-abuses-by.json)  [XML](/news/2010/02/7/libya-bans-youtube-independent-news-sites-and-opposition-web-sites-in-crackdown-on-controversial-subjects-including-human-rights-abuses-by.xml)  
+
 ### [2010-02-7](/news/2010/02/7/index.md)
 
+##### Libya
 # Libya bans YouTube, independent news sites and opposition web sites in crackdown on controversial subjects, including human rights abuses by the Libyan government. 
 
 Country cracks down on Web sites used to disseminate messages against regime.
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/Home/Article.aspx?id=168035)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=138032)
 
 ### Related:
 
-1. [At least five migrants have died and ninety are missing after their boat sinks off the western coast of Libya. ](/news/2017/09/21/at-least-five-migrants-have-died-and-ninety-are-missing-after-their-boat-sinks-off-the-western-coast-of-libya.md) _Context: Libya_
-2. [The European Union restricts the exports of inflatable boats to Libya. ](/news/2017/07/17/the-european-union-restricts-the-exports-of-inflatable-boats-to-libya.md) _Context: Libya_
-3. [Bahrain, Egypt, Libya, the Maldives, Saudi Arabia, the United Arab Emirates, and the internationally recognized government of Yemen sever diplomatic ties with Qatar, ordering Qatari citizens in those countries to be expelled as well as cutting all land, air and sea connections. "National security," "media incitement" and Qatar's support of Iran are variously cited. ](/news/2017/06/5/bahrain-egypt-libya-the-maldives-saudi-arabia-the-united-arab-emirates-and-the-internationally-recognized-government-of-yemen-sever-di.md) _Context: Libya_
-4. [The Italian Coast Guard reports that at least 20 migrants are killed when their 500-passenger boat capsizes in the Mediterranean Sea off Libya's coast. About 1,700 people have been rescued in 15 operations since Tuesday. ](/news/2017/05/24/the-italian-coast-guard-reports-that-at-least-20-migrants-are-killed-when-their-500-passenger-boat-capsizes-in-the-mediterranean-sea-off-lib.md) _Context: Libya_
-5. [The death toll from an attack on a Libyan National Army-controlled airbase in southern Libya reportedly rises to 140 people. ](/news/2017/05/20/the-death-toll-from-an-attack-on-a-libyan-national-army-controlled-airbase-in-southern-libya-reportedly-rises-to-140-people.md) _Context: Libya_
+1. [A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials. ](/news/2018/01/23/a-double-car-bombing-in-benghazi-libya-kills-at-least-33-people-and-wounds-dozens-of-others-the-victims-include-both-military-personnel.md) _Context: Libya_
+2. [The United States Central Command launches an investigation into a video posted on YouTube which appears to show a U.S. service member firing on civilians inside a truck on a road in Afghanistan. The montage video, titled "Happy Few Ordnance Symphony", has since been removed. ](/news/2018/01/10/the-united-states-central-command-launches-an-investigation-into-a-video-posted-on-youtube-which-appears-to-show-a-u-s-service-member-firin.md) _Context: YouTube_
+3. [The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" - allegedly bound for Libya, loaded with 410 tonnes of explosives - in Heraklion, Greece. 102 safety deficiencies are found, and 8 crew members are arrested. ](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-flagged-cargo-ship-andromeda-a-allegedly-bound-for-libya-loaded-with-410-tonnes-of-explos.md) _Context: Libya_
+4. [Gunmen shoot dead the Mayor of Misurata, Libya, Mohamed Eshtewi, and wound his brother, after they chase down his car. ](/news/2017/12/17/gunmen-shoot-dead-the-mayor-of-misurata-libya-mohamed-eshtewi-and-wound-his-brother-after-they-chase-down-his-car.md) _Context: Libya_
+5. [YouTube removes thousands of child abuse videos related to Elsagate. ](/news/2017/11/28/youtube-removes-thousands-of-child-abuse-videos-related-to-elsagate.md) _Context: YouTube_

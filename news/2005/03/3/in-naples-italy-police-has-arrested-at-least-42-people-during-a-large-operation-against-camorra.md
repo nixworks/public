@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/3/in-naples-italy-police-has-arrested-at-least-42-people-during-a-large-operation-against-camorra.html)  [JSON](/news/2005/03/3/in-naples-italy-police-has-arrested-at-least-42-people-during-a-large-operation-against-camorra.json)  [XML](/news/2005/03/3/in-naples-italy-police-has-arrested-at-least-42-people-during-a-large-operation-against-camorra.xml)  
+
 ### [2005-03-3](/news/2005/03/3/index.md)
 
+##### Naples
 #  In Naples, Italy, police has arrested at least 42 people during a large operation against Camorra. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AGI](http://www.agi.it/english/news.pl?doc=200503031143-1039-RT1-CRO-0-NF11&page=0&id=agionline-eng.oggitalia)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/4314945.stm)

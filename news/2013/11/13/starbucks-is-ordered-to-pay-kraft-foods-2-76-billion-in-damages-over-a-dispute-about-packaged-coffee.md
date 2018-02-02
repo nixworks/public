@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/13/starbucks-is-ordered-to-pay-kraft-foods-2-76-billion-in-damages-over-a-dispute-about-packaged-coffee.html)  [JSON](/news/2013/11/13/starbucks-is-ordered-to-pay-kraft-foods-2-76-billion-in-damages-over-a-dispute-about-packaged-coffee.json)  [XML](/news/2013/11/13/starbucks-is-ordered-to-pay-kraft-foods-2-76-billion-in-damages-over-a-dispute-about-packaged-coffee.xml)  
+
 ### [2013-11-13](/news/2013/11/13/index.md)
 
+##### Starbucks
 # Starbucks is ordered to pay Kraft Foods $2.76 billion in damages over a dispute about packaged coffee. 
 
 Starbucks has been ordered to pay almost $3bn in damages and other costs in a dispute with Kraft Foods over packaged coffee.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-24921098)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71080000/jpg/_71080743_starbucks.logo.g.jpg)

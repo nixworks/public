@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/30/a-6-6-magnitude-earthquake-occurs-in-central-it
 
 ### [2016-10-30](/news/2016/10/30/index.md)
 
+##### October 2016 Central Italy earthquakes
 # A 6.6 magnitude earthquake occurs in Central Italy 68 kilometres east southeast of Perugia. Many buildings are reported as having been destroyed. 
 
 A earthquake measuring magnitude-6.6 strikes in central Italy on Sunday, the United States Geological Survey says.
@@ -22,7 +23,7 @@ A earthquake measuring magnitude-6.6 strikes in central Italy on Sunday, the Uni
 
 ### Related:
 
-1. [A 6.2 magnitude earthquake occurs in central Italy near the city of Perugia. The mayor of the town of Amatrice reports that residents are buried under rubble. ](/news/2016/08/24/a-6-2-magnitude-earthquake-occurs-in-central-italy-near-the-city-of-perugia-the-mayor-of-the-town-of-amatrice-reports-that-residents-are-bu.md) _Context: Central Italy, Perugia_
+1. [A magnitude 6.5 earthquake strikes the island of Java causing massive damage along with two confirmed deaths. ](/news/2017/12/15/a-magnitude-6-5-earthquakea-strikesa-the-island-of-javaa-causing-massive-damage-along-with-two-confirmed-deaths.md) _Context: earthquake_
 2. [A 6.3 magnitude earthquake is detected near the Punggye-ri Nuclear Test Site in Kilju County, North Korea, after North Korea tests its sixth and most powerful nuclear weapon to date. North Korean state media claims the country tested a hydrogen bomb that can be fitted on an ICBM. ](/news/2017/09/3/a-6-3-magnitude-earthquake-is-detected-near-the-punggye-ri-nuclear-test-site-in-kilju-county-north-korea-after-north-korea-tests-its-sixth.md) _Context: earthquake_
 3. [ Searches continue for possible survivors of the magnitude 7.1 earthquake that hit central Mexico yesterday. By mid-afternoon, 52 people are rescued while at least 226 people have been killed and another 800 injured. ](/news/2017/09/20/searches-continue-for-possible-survivors-of-the-magnitude-7-1-earthquake-that-hit-central-mexico-yesterday-by-mid-afternoon-52-people-are.md) _Context: earthquake_
 4. [A 6.7 magnitude earthquake in the Aegean Sea near Greece and Turkey kills two people and injures more than 520 others. ](/news/2017/07/21/a-6-7-magnitude-earthquake-in-the-aegean-sea-near-greece-and-turkey-kills-two-people-and-injures-more-than-520-others.md) _Context: earthquake_

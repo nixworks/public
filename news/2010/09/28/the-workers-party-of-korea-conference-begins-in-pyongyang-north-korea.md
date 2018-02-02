@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/28/the-workers-party-of-korea-conference-begins-in-pyongyang-north-korea.html)  [JSON](/news/2010/09/28/the-workers-party-of-korea-conference-begins-in-pyongyang-north-korea.json)  [XML](/news/2010/09/28/the-workers-party-of-korea-conference-begins-in-pyongyang-north-korea.xml)  
+
 ### [2010-09-28](/news/2010/09/28/index.md)
 
+##### Workers' Party of Korea
 # The Workers' Party of Korea conference begins in Pyongyang, North Korea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11417016)
 2. [Time](http://www.time.com/time/world/article/0,8599,2021722,00.html?xid=rss-topstories)

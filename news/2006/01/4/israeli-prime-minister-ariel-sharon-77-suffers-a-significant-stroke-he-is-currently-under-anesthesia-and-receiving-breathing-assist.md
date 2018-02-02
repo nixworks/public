@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/4/israeli-prime-minister-ariel-sharon-77-suffers-a-significant-stroke-he-is-currently-under-anesthesia-and-receiving-breathing-assist.html)  [JSON](/news/2006/01/4/israeli-prime-minister-ariel-sharon-77-suffers-a-significant-stroke-he-is-currently-under-anesthesia-and-receiving-breathing-assist.json)  [XML](/news/2006/01/4/israeli-prime-minister-ariel-sharon-77-suffers-a-significant-stroke-he-is-currently-under-anesthesia-and-receiving-breathing-assist.xml)  
+
 ### [2006-01-4](/news/2006/01/4/index.md)
 
+##### Israeli Prime Minister
 #  Israeli Prime Minister Ariel Sharon, 77, suffers "a significant stroke". He is "[currently] under anesthesia and receiving breathing assistance". Power is transferred to his deputy, Vice Minister Ehud Olmert. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/WORLD/meast/01/04/sharon/index.html)
 

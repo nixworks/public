@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/14/the-wwf-declares-a-new-species-the-bornean-clouded-leopard.html)  [JSON](/news/2007/03/14/the-wwf-declares-a-new-species-the-bornean-clouded-leopard.json)  [XML](/news/2007/03/14/the-wwf-declares-a-new-species-the-bornean-clouded-leopard.xml)  
+
 ### [2007-03-14](/news/2007/03/14/index.md)
 
+##### World Wildlife Fund
 #  The WWF declares a new species, the Bornean clouded leopard. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [WWF](http://www.worldwildlife.org/news/displayPR.cfm?prID=360)
 

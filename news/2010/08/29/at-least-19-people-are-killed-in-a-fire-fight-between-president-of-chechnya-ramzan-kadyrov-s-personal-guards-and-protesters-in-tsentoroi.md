@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/29/at-least-19-people-are-killed-in-a-fire-fight-between-president-of-chechnya-ramzan-kadyrov-s-personal-guards-and-protesters-in-tsentoroi.html)  [JSON](/news/2010/08/29/at-least-19-people-are-killed-in-a-fire-fight-between-president-of-chechnya-ramzan-kadyrov-s-personal-guards-and-protesters-in-tsentoroi.json)  [XML](/news/2010/08/29/at-least-19-people-are-killed-in-a-fire-fight-between-president-of-chechnya-ramzan-kadyrov-s-personal-guards-and-protesters-in-tsentoroi.xml)  
+
 ### [2010-08-29](/news/2010/08/29/index.md)
 
+##### President of Chechnya
 # At least 19 people are killed in a fire fight between President of Chechnya Ramzan Kadyrov's personal guards and protesters in Tsentoroi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/2010829204657724509.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/8/29/2010829205658353580_20.jpg)

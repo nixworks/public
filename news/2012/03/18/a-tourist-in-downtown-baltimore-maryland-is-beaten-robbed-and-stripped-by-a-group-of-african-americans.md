@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/18/a-tourist-in-downtown-baltimore-maryland-is-beaten-robbed-and-stripped-by-a-group-of-african-americans.html)  [JSON](/news/2012/03/18/a-tourist-in-downtown-baltimore-maryland-is-beaten-robbed-and-stripped-by-a-group-of-african-americans.json)  [XML](/news/2012/03/18/a-tourist-in-downtown-baltimore-maryland-is-beaten-robbed-and-stripped-by-a-group-of-african-americans.xml)  
+
 ### [2012-03-18](/news/2012/03/18/index.md)
 
+##### Downtown
 # A tourist in Downtown Baltimore, Maryland is beaten, robbed, and stripped by a group of African-Americans. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/04/09/us/maryland-beating/index.html)
 

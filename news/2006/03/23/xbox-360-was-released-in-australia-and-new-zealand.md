@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/03/23/xbox-360-was-released-in-australia-and-new-zealand.html)  [JSON](/news/2006/03/23/xbox-360-was-released-in-australia-and-new-zealand.json)  [XML](/news/2006/03/23/xbox-360-was-released-in-australia-and-new-zealand.xml)  
+
 ### [2006-03-23](/news/2006/03/23/index.md)
 
+##### Xbox 360
 #  Xbox 360 was released in Australia and New Zealand.
 
 

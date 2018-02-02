@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/22/an-arms-depot-explodes-in-maputo-mozambique-killing-at-least-93-people-and-injuring-hundreds-more.html)  [JSON](/news/2007/03/22/an-arms-depot-explodes-in-maputo-mozambique-killing-at-least-93-people-and-injuring-hundreds-more.json)  [XML](/news/2007/03/22/an-arms-depot-explodes-in-maputo-mozambique-killing-at-least-93-people-and-injuring-hundreds-more.xml)  
+
 ### [2007-03-22](/news/2007/03/22/index.md)
 
+##### explodes
 #  An arms depot explodes in Maputo, Mozambique, killing at least 93 people and injuring hundreds more. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://edition.cnn.com/2007/WORLD/africa/03/23/mozambique.explosions.ap/index.html?eref=rss_world)
 2. [CNN](http://edition.cnn.com/2007/WORLD/europe/03/23/friday/index.html)

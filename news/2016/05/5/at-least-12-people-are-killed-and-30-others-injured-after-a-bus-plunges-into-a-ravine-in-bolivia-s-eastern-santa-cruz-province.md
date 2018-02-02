@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/5/at-least-12-people-are-killed-and-30-others-inju
 
 ### [2016-05-5](/news/2016/05/5/index.md)
 
+##### Bolivia
 # At least 12 people are killed and 30 others injured after a bus plunges into a ravine in Bolivia's eastern Santa Cruz province. 
 
 At least 12 people were killed and 30 others injured when a bus plunged into a ravine early Thursday in the eastern Bolivian province of Santa Cruz, the La Paz daily El Deber reported Thursday.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/11/a-top-aide-to-israeli-prime-minister-ehud-olmert-has-been-suspended-from-her-job-for-six-months-while-a-corruption-inquiry-is-conducted-of.html)  [JSON](/news/2007/02/11/a-top-aide-to-israeli-prime-minister-ehud-olmert-has-been-suspended-from-her-job-for-six-months-while-a-corruption-inquiry-is-conducted-of.json)  [XML](/news/2007/02/11/a-top-aide-to-israeli-prime-minister-ehud-olmert-has-been-suspended-from-her-job-for-six-months-while-a-corruption-inquiry-is-conducted-of.xml)  
+
 ### [2007-02-11](/news/2007/02/11/index.md)
 
+##### Israel
 #  A top aide to Israeli Prime Minister Ehud Olmert has been suspended from her job for six months while a corruption inquiry is conducted, officials say. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/62DDA63C-E9DD-4F5E-B2A2-B31D27D6B7E3.htm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6350977.stm)

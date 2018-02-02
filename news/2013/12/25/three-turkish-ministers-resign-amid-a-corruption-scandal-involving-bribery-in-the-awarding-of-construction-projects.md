@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/25/three-turkish-ministers-resign-amid-a-corruption-scandal-involving-bribery-in-the-awarding-of-construction-projects.html)  [JSON](/news/2013/12/25/three-turkish-ministers-resign-amid-a-corruption-scandal-involving-bribery-in-the-awarding-of-construction-projects.json)  [XML](/news/2013/12/25/three-turkish-ministers-resign-amid-a-corruption-scandal-involving-bribery-in-the-awarding-of-construction-projects.xml)  
+
 ### [2013-12-25](/news/2013/12/25/index.md)
 
+##### Turkish
 # Three Turkish ministers resign amid a corruption scandal involving bribery in the awarding of construction projects. 
 
 Three Turkish ministers resign over a corruption inquiry that has hit the government, and one calls for PM Recep Tayyip Erdogan to step down.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-25514579)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/71951000/jpg/_71951653_x1esoayz.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/31/president-of-afghanistan-hamid-karzai-meets-with-sheikh-hamad-bin-khalifa-al-thani-the-emir-of-qatar-to-discuss-plans-for-the-taliban-to-o.html)  [JSON](/news/2013/03/31/president-of-afghanistan-hamid-karzai-meets-with-sheikh-hamad-bin-khalifa-al-thani-the-emir-of-qatar-to-discuss-plans-for-the-taliban-to-o.json)  [XML](/news/2013/03/31/president-of-afghanistan-hamid-karzai-meets-with-sheikh-hamad-bin-khalifa-al-thani-the-emir-of-qatar-to-discuss-plans-for-the-taliban-to-o.xml)  
+
 ### [2013-03-31](/news/2013/03/31/index.md)
 
+##### Afghanistan President
 # President of Afghanistan Hamid Karzai meets with Sheikh Hamad bin Khalifa Al Thani, the Emir of Qatar, to discuss plans for the Taliban to open an office in Doha in order to help solve the conflict in Afghanistan. 
 
 Afghan president and Qatari emir discussed opening of office for Taliban in Doha which could help broker an end to war.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/03/201333085839412631.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/3/30/2013330155431121734_20.jpg)

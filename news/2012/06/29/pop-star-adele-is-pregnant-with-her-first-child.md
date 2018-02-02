@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/29/pop-star-adele-is-pregnant-with-her-first-child.html)  [JSON](/news/2012/06/29/pop-star-adele-is-pregnant-with-her-first-child.json)  [XML](/news/2012/06/29/pop-star-adele-is-pregnant-with-her-first-child.xml)  
+
 ### [2012-06-29](/news/2012/06/29/index.md)
 
+##### Adele
 # Pop star Adele is pregnant with her first child. 
 
 Pop star Adele is expecting her first child, she has told fans via a message on her website.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18648924)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/61264000/jpg/_61264160_014745152-1.jpg)

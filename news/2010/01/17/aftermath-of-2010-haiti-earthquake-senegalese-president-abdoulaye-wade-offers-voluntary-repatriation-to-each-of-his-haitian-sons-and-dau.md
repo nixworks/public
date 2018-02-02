@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/17/aftermath-of-2010-haiti-earthquake-senegalese-president-abdoulaye-wade-offers-voluntary-repatriation-to-each-of-his-haitian-sons-and-dau.html)  [JSON](/news/2010/01/17/aftermath-of-2010-haiti-earthquake-senegalese-president-abdoulaye-wade-offers-voluntary-repatriation-to-each-of-his-haitian-sons-and-dau.json)  [XML](/news/2010/01/17/aftermath-of-2010-haiti-earthquake-senegalese-president-abdoulaye-wade-offers-voluntary-repatriation-to-each-of-his-haitian-sons-and-dau.xml)  
+
 ### [2010-01-17](/news/2010/01/17/index.md)
 
+##### 2010 Haiti earthquake
 # Aftermath of 2010 Haiti earthquake: Senegalese President Abdoulaye Wade offers "voluntary repatriation" to each of his Haitian "sons and daughters of Africa". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8463921.stm)
 

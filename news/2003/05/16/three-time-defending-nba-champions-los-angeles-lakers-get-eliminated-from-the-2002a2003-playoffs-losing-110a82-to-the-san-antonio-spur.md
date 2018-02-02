@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/16/three-time-defending-nba-champions-los-angeles-lakers-get-eliminated-from-the-2002a2003-playoffs-losing-110a82-to-the-san-antonio-spur.html)  [JSON](/news/2003/05/16/three-time-defending-nba-champions-los-angeles-lakers-get-eliminated-from-the-2002a2003-playoffs-losing-110a82-to-the-san-antonio-spur.json)  [XML](/news/2003/05/16/three-time-defending-nba-champions-los-angeles-lakers-get-eliminated-from-the-2002a2003-playoffs-losing-110a82-to-the-san-antonio-spur.xml)  
+
 ### [2003-05-16](/news/2003/05/16/index.md)
 
+##### NBA
 #  Three time defending NBA champions Los Angeles Lakers get eliminated from the 2002-2003 playoffs, losing 110-82 to the San Antonio Spurs in Los Angeles in Game 6 of their series.
 
 

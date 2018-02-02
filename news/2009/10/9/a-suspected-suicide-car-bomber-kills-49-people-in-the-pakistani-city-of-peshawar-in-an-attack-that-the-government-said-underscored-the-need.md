@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/10/9/a-suspected-suicide-car-bomber-kills-49-people-in-the-pakistani-city-of-peshawar-in-an-attack-that-the-government-said-underscored-the-need.html)  [JSON](/news/2009/10/9/a-suspected-suicide-car-bomber-kills-49-people-in-the-pakistani-city-of-peshawar-in-an-attack-that-the-government-said-underscored-the-need.json)  [XML](/news/2009/10/9/a-suspected-suicide-car-bomber-kills-49-people-in-the-pakistani-city-of-peshawar-in-an-attack-that-the-government-said-underscored-the-need.xml)  
+
 ### [2009-10-9](/news/2009/10/9/index.md)
 
+##### Pakistan
 #  A suspected suicide car-bomber kills 49 people in the Pakistani city of Peshawar in an attack that the government said underscored the need for an all-out offensive against the Pakistani Taliban. 
 
 A suspected suicide car-bomber killed 49 people on Friday in the Pakistani city of Peshawar in an attack that the government said underscored the need for an all-out offensive against the Pakistani Taliban.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE59810420091009)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20091009&t=2&i=11895028&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-10-09T130306Z_01_BTRE5980PI100_RTROPTP_0_PAKISTAN-VIOLENCE)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE59810420091009)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20091009&t=2&i=11895028&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-10-09T130306Z_01_BTRE5980PI100_RTROPTP_0_PAKISTAN-VIOLENCE)
 
 ### Related:
 

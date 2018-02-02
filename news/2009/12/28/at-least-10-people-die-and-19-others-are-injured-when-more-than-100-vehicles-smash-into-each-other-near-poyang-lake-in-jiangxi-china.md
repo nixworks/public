@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/28/at-least-10-people-die-and-19-others-are-injured-when-more-than-100-vehicles-smash-into-each-other-near-poyang-lake-in-jiangxi-china.html)  [JSON](/news/2009/12/28/at-least-10-people-die-and-19-others-are-injured-when-more-than-100-vehicles-smash-into-each-other-near-poyang-lake-in-jiangxi-china.json)  [XML](/news/2009/12/28/at-least-10-people-die-and-19-others-are-injured-when-more-than-100-vehicles-smash-into-each-other-near-poyang-lake-in-jiangxi-china.xml)  
+
 ### [2009-12-28](/news/2009/12/28/index.md)
 
+##### Poyang Lake
 #  At least 10 people die and 19 others are injured when more than 100 vehicles smash into each other near Poyang Lake in Jiangxi, China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Melbourne Herald Sun](http://www.heraldsun.com.au/news/breaking-news/dead-19-injured-in-100-vehicle-crash/story-e6frf7jx-1225814241677)
 2. [Press Trust of India](http://www.ptinews.com/news/443150_10-dead-in-massive-China-road-pile-up--reports)

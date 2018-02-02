@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/04/7/joyce-banda-becomes-the-president-of-malawi-following-the-death-of-bingu-wa-mutharika.html)  [JSON](/news/2012/04/7/joyce-banda-becomes-the-president-of-malawi-following-the-death-of-bingu-wa-mutharika.json)  [XML](/news/2012/04/7/joyce-banda-becomes-the-president-of-malawi-following-the-death-of-bingu-wa-mutharika.xml)  
+
 ### [2012-04-7](/news/2012/04/7/index.md)
 
+##### Joyce Banda
 # Joyce Banda becomes the President of Malawi following the death of Bingu wa Mutharika. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters via Yahoo](http://news.yahoo.com/malawi-vice-president-banda-takes-charge-mutharika-death-091144164.html)
+1. [Reuters via Yahoo](https://news.yahoo.com/malawi-vice-president-banda-takes-charge-mutharika-death-091144164.html)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/15/the-detroit-pistons-win-their-first-nba-championship-since-1990-by-defeating-the-widely-favored-los-angeles-lakers-4a1-in-a-best-of-seven.html)  [JSON](/news/2004/06/15/the-detroit-pistons-win-their-first-nba-championship-since-1990-by-defeating-the-widely-favored-los-angeles-lakers-4a1-in-a-best-of-seven.json)  [XML](/news/2004/06/15/the-detroit-pistons-win-their-first-nba-championship-since-1990-by-defeating-the-widely-favored-los-angeles-lakers-4a1-in-a-best-of-seven.xml)  
+
 ### [2004-06-15](/news/2004/06/15/index.md)
 
+##### Detroit Pistons
 #  The Detroit Pistons win their first NBA Championship since 1990 by defeating the widely favored Los Angeles Lakers 4-1 in a best-of-seven series. The Pistons swept all three of their home games, a first in the 20 years of the 2-3-2 game format. The final game's score was 100-87. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBA.com](http://www.nba.com/games/20040615/LALDET/livestats.html)
 

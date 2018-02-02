@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/20/nasa-clears-the-space-shuttle-endeavour-for-an-early-landing-tomorrow-at-cape-canaveral.html)  [JSON](/news/2007/08/20/nasa-clears-the-space-shuttle-endeavour-for-an-early-landing-tomorrow-at-cape-canaveral.json)  [XML](/news/2007/08/20/nasa-clears-the-space-shuttle-endeavour-for-an-early-landing-tomorrow-at-cape-canaveral.xml)  
+
 ### [2007-08-20](/news/2007/08/20/index.md)
 
+##### NASA
 #  NASA clears the Space Shuttle Endeavour for an early landing tomorrow at Cape Canaveral. 
 
 NASA managers on Monday declared shuttle Endeavour safe to return to Earth, with touchdown targeted for Tuesday at the Kennedy Space Center in Florida.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/UKNews1/idUKN1635725420070820?src=082107_0725_TOPSTORY_dean_hits_mexico)
 1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070820&t=2&i=1326570&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-08-20T194315Z_01_N16357254_RTRUKOP_0_PICTURE0)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/12/police-in-south-london-launch-a-murder-hunt-after-a-15-year-old-schoolboy-is-stabbed-to-death-in-the-street.html)  [JSON](/news/2011/05/12/police-in-south-london-launch-a-murder-hunt-after-a-15-year-old-schoolboy-is-stabbed-to-death-in-the-street.json)  [XML](/news/2011/05/12/police-in-south-london-launch-a-murder-hunt-after-a-15-year-old-schoolboy-is-stabbed-to-death-in-the-street.xml)  
+
 ### [2011-05-12](/news/2011/05/12/index.md)
 
+##### South London
 # Police in South London launch a murder hunt after a 15-year-old schoolboy is stabbed to death in the street. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/uk/2011/may/12/boy-dies-south-london-stabbing)
 

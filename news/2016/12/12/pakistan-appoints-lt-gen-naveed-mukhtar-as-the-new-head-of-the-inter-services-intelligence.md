@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/12/pakistan-appoints-lt-gen-naveed-mukhtar-as-the-
 
 ### [2016-12-12](/news/2016/12/12/index.md)
 
+##### Pakistan
 # Pakistan appoints Lt. Gen. Naveed Mukhtar as the new head of the Inter-Services Intelligence. 
 
 

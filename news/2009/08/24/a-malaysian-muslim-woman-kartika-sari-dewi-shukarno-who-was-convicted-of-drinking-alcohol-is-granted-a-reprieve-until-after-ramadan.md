@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/24/a-malaysian-muslim-woman-kartika-sari-dewi-shukarno-who-was-convicted-of-drinking-alcohol-is-granted-a-reprieve-until-after-ramadan.html)  [JSON](/news/2009/08/24/a-malaysian-muslim-woman-kartika-sari-dewi-shukarno-who-was-convicted-of-drinking-alcohol-is-granted-a-reprieve-until-after-ramadan.json)  [XML](/news/2009/08/24/a-malaysian-muslim-woman-kartika-sari-dewi-shukarno-who-was-convicted-of-drinking-alcohol-is-granted-a-reprieve-until-after-ramadan.xml)  
+
 ### [2009-08-24](/news/2009/08/24/index.md)
 
+##### Malaysia
 #  A Malaysian Muslim woman, Kartika Sari Dewi Shukarno, who was convicted of drinking alcohol, is granted a reprieve until after Ramadan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/08/200982434252965841.html)
 2. [Bernama](http://www.bernama.com/bernama/v5/newsgeneral.php?id=435271)

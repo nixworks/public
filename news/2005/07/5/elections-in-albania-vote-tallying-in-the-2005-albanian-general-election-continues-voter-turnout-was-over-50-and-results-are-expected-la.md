@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/5/elections-in-albania-vote-tallying-in-the-2005-albanian-general-election-continues-voter-turnout-was-over-50-and-results-are-expected-la.html)  [JSON](/news/2005/07/5/elections-in-albania-vote-tallying-in-the-2005-albanian-general-election-continues-voter-turnout-was-over-50-and-results-are-expected-la.json)  [XML](/news/2005/07/5/elections-in-albania-vote-tallying-in-the-2005-albanian-general-election-continues-voter-turnout-was-over-50-and-results-are-expected-la.xml)  
+
 ### [2005-07-5](/news/2005/07/5/index.md)
 
+##### Elections in Albania
 #  Elections in Albania: Vote tallying in the 2005 Albanian general election continues. Voter turnout was over 50% and results are expected later in the day. International observers, including OSCE, have expressed reservations about the voting process. Three people have been killed during the election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Euro-Reporters](http://euro-reporters.com/index.php?option=com_content&task=view&id=110&Itemid=1)
 2. [Guardian Unlimited](http://www.guardian.co.uk/worldlatest/story/0,1280,-5118125,00.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/13/russians-troops-leave-west-but-remain-in-georgia.html)  [JSON](/news/2008/09/13/russians-troops-leave-west-but-remain-in-georgia.json)  [XML](/news/2008/09/13/russians-troops-leave-west-but-remain-in-georgia.xml)  
+
 ### [2008-09-13](/news/2008/09/13/index.md)
 
+##### 
 #  Russians troops leave west, but remain in Georgia. 
 
 Damages in civil infrastructure estimated at 1.5 to 2 billion dollars. Western countries pledging aid to Georgia – 3.5-4 billion USD - writes Wojtek Szpociński, Institute of Eastern Studies/Economic Forum, School of Commerce and Law
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5gDNLWfQWKrQc48pITBUg9KT_6oVwD936137G0)
 2. [Press Trust of India](http://www.ptinews.com/pti%5Cptisite.nsf/0/746F711DE3078730652574C300267B8C?OpenDocument)

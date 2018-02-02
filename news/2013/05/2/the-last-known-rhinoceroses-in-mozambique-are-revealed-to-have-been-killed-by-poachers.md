@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/2/the-last-known-rhinoceroses-in-mozambique-are-revealed-to-have-been-killed-by-poachers.html)  [JSON](/news/2013/05/2/the-last-known-rhinoceroses-in-mozambique-are-revealed-to-have-been-killed-by-poachers.json)  [XML](/news/2013/05/2/the-last-known-rhinoceroses-in-mozambique-are-revealed-to-have-been-killed-by-poachers.xml)  
+
 ### [2013-05-2](/news/2013/05/2/index.md)
 
+##### rhinoceros
 # The last known rhinoceroses in Mozambique are revealed to have been killed by poachers. 
 
 The last known rhinoceroses in Mozambique have been wiped out by poachers apparently working in cahoots with the game rangers responsible for protecting them, it has emerged.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/mozambique/10028738/Last-rhinos-in-Mozambique-killed-by-poachers.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02550/rhino_2550930k.jpg)

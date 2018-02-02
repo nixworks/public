@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/9/chinese-authorities-report-grave-concern-over-re
 
 ### [2017-06-9](/news/2017/06/9/index.md)
 
+##### War in North-West Pakistan
 # Chinese authorities report "grave concern" over reports that two kidnapped Chinese teachers in Quetta, Pakistan, were killed by members of the Islamic State of Iraq and the Levant. 
 
 

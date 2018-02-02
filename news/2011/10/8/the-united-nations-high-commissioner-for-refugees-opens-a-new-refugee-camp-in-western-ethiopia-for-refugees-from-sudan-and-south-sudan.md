@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/8/the-united-nations-high-commissioner-for-refugees-opens-a-new-refugee-camp-in-western-ethiopia-for-refugees-from-sudan-and-south-sudan.html)  [JSON](/news/2011/10/8/the-united-nations-high-commissioner-for-refugees-opens-a-new-refugee-camp-in-western-ethiopia-for-refugees-from-sudan-and-south-sudan.json)  [XML](/news/2011/10/8/the-united-nations-high-commissioner-for-refugees-opens-a-new-refugee-camp-in-western-ethiopia-for-refugees-from-sudan-and-south-sudan.xml)  
+
 ### [2011-10-8](/news/2011/10/8/index.md)
 
+##### United Nations High Commissioner for Refugees
 # The United Nations High Commissioner for Refugees opens a new refugee camp in western Ethiopia for refugees from Sudan and South Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BNO News](http://wireupdate.com/news/un-opens-new-camp-in-ethiopia-for-sudanese-refugees.html)
 

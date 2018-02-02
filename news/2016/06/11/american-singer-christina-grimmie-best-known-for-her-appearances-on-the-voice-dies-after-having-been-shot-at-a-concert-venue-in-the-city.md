@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/11/american-singer-christina-grimmie-best-known-fo
 
 ### [2016-06-11](/news/2016/06/11/index.md)
 
+##### Christina Grimmie
 # American singer Christina Grimmie, best known for her appearances on "The Voice", dies after having been shot at a concert venue in the city of Orlando, Florida. 
 
 Orlando police were searching for a motive Saturday evening, hours after naming a 27-year-old Florida man as the killer of ‘Voice’ star singer Christina Grimmie after a Friday concert.

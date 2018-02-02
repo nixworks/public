@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/20/the-sri-lankan-military-claims-to-have-killed-30-members-of-the-tamil-tigers-in-overnight-clashes-in-the-east-of-the-country.html)  [JSON](/news/2007/06/20/the-sri-lankan-military-claims-to-have-killed-30-members-of-the-tamil-tigers-in-overnight-clashes-in-the-east-of-the-country.json)  [XML](/news/2007/06/20/the-sri-lankan-military-claims-to-have-killed-30-members-of-the-tamil-tigers-in-overnight-clashes-in-the-east-of-the-country.xml)  
+
 ### [2007-06-20](/news/2007/06/20/index.md)
 
+##### Sri Lanka
 #  The Sri Lankan military claims to have killed 30 members of the Tamil Tigers in overnight clashes in the east of the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6220752.stm)
 

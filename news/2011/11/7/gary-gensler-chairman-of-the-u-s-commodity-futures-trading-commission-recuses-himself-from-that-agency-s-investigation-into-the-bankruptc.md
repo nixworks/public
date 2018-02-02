@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/7/gary-gensler-chairman-of-the-u-s-commodity-futures-trading-commission-recuses-himself-from-that-agency-s-investigation-into-the-bankruptc.html)  [JSON](/news/2011/11/7/gary-gensler-chairman-of-the-u-s-commodity-futures-trading-commission-recuses-himself-from-that-agency-s-investigation-into-the-bankruptc.json)  [XML](/news/2011/11/7/gary-gensler-chairman-of-the-u-s-commodity-futures-trading-commission-recuses-himself-from-that-agency-s-investigation-into-the-bankruptc.xml)  
+
 ### [2011-11-7](/news/2011/11/7/index.md)
 
+##### Gary Gensler
 # Gary Gensler, chairman of the U.S. Commodity Futures Trading Commission, recuses himself from that agency's investigation into the bankruptcy of MF Global. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970203733504577022321750598682.html?mod=WSJ_hp_LEFTWhatsNewsCollection)
 

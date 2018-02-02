@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/27/the-parliament-of-india-debates-the-jan-lokpal-anti-corruption-legislation-prompted-in-part-by-an-ongoing-hunger-strike-by-social-activist.html)  [JSON](/news/2011/08/27/the-parliament-of-india-debates-the-jan-lokpal-anti-corruption-legislation-prompted-in-part-by-an-ongoing-hunger-strike-by-social-activist.json)  [XML](/news/2011/08/27/the-parliament-of-india-debates-the-jan-lokpal-anti-corruption-legislation-prompted-in-part-by-an-ongoing-hunger-strike-by-social-activist.xml)  
+
 ### [2011-08-27](/news/2011/08/27/index.md)
 
+##### Parliament of India
 # The Parliament of India debates the Jan Lokpal anti-corruption legislation, prompted in part by an ongoing hunger strike by social activist Anna Hazare. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/Lokpal-debate-in-Parliament-today-Anna-firm-on-key-demands/Article1-738367.aspx)
 

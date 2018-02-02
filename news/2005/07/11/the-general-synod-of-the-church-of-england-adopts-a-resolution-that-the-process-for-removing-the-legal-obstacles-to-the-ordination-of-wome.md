@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/11/the-general-synod-of-the-church-of-england-adopts-a-resolution-that-the-process-for-removing-the-legal-obstacles-to-the-ordination-of-wome.html)  [JSON](/news/2005/07/11/the-general-synod-of-the-church-of-england-adopts-a-resolution-that-the-process-for-removing-the-legal-obstacles-to-the-ordination-of-wome.json)  [XML](/news/2005/07/11/the-general-synod-of-the-church-of-england-adopts-a-resolution-that-the-process-for-removing-the-legal-obstacles-to-the-ordination-of-wome.xml)  
+
 ### [2005-07-11](/news/2005/07/11/index.md)
 
+##### General Synod
 #  The General Synod of the Church of England adopts a resolution "that the process for removing the legal obstacles to the ordination of women to the episcopate should now be set in train"; and schedules debate on the best form of legislation to achieve this for its February 2006 session. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4670631.stm)
 

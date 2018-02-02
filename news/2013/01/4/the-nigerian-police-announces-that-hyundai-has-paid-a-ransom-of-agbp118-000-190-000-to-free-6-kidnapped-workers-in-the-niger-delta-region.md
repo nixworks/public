@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2013/01/4/the-nigerian-police-announces-that-hyundai-has-paid-a-ransom-of-agbp118-000-190-000-to-free-6-kidnapped-workers-in-the-niger-delta-region.html)  [JSON](/news/2013/01/4/the-nigerian-police-announces-that-hyundai-has-paid-a-ransom-of-agbp118-000-190-000-to-free-6-kidnapped-workers-in-the-niger-delta-region.json)  [XML](/news/2013/01/4/the-nigerian-police-announces-that-hyundai-has-paid-a-ransom-of-agbp118-000-190-000-to-free-6-kidnapped-workers-in-the-niger-delta-region.xml)  
+
 ### [2013-01-4](/news/2013/01/4/index.md)
 
+##### Nigerian police
 # The Nigerian police announces that Hyundai has paid a ransom of GBP118,000 ($190,000) to free 6 kidnapped workers in the Niger Delta region. 
 
 South Korean firm Hyundai paid a ransom of $190,000 (£118,000) to free six workers kidnapped last month, Nigerian police say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20916441)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64858000/jpg/_64858204_62036323.jpg)
+
+### Changes:
+
+1. [The Nigerian police announces that Hyundai has paid a ransom of PS118,000 ($190,000) to free 6 kidnapped workers in the Niger Delta region. ](/news/2013/01/4/the-nigerian-police-announces-that-hyundai-has-paid-a-ransom-of-aps118-000-190-000-to-free-6-kidnapped-workers-in-the-niger-delta-region.md) _2017-08-25 03:37:11 (First version)_
+1. [The Nigerian police announces that Hyundai has paid a ransom of GBP118,000 ($190,000) to free 6 kidnapped workers in the Niger Delta region. ](/news/2013/01/4/the-nigerian-police-announces-that-hyundai-has-paid-a-ransom-of-agbp118-000-190-000-to-free-6-kidnapped-workers-in-the-niger-delta-region.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ South Korean firm Hyundai paid a ransom of $190,000 (£118,000) to free six work
 3. [Challenger Muhammadu Buhari leads by two million votes with three-quarters of the states having their votes counted but votes from some of President Goodluck Jonathan's strongest states in the Niger Delta have yet to be counted. ](/news/2015/03/30/challenger-muhammadu-buhari-leads-by-two-million-votes-with-three-quarters-of-the-states-having-their-votes-counted-but-votes-from-some-of-p.md) _Context: Niger Delta_
 4. [12 Nigerian policemen are missing and presumed dead after their boat was ambushed by militants in the Niger Delta region. ](/news/2013/04/7/12-nigerian-policemen-are-missing-and-presumed-dead-after-their-boat-was-ambushed-by-militants-in-the-niger-delta-region.md) _Context: Niger Delta_
 5. [A Dutch court rules that Royal Dutch Shell can be held partially responsible for pollution in the Niger Delta in southern Nigeria. ](/news/2013/01/30/a-dutch-court-rules-that-royal-dutch-shell-can-be-held-partially-responsible-for-pollution-in-the-niger-delta-in-southern-nigeria.md) _Context: Niger Delta_
-
-### Changes:
-
-1. [The Nigerian police announces that Hyundai has paid a ransom of PS118,000 ($190,000) to free 6 kidnapped workers in the Niger Delta region. ](/news/2013/01/4/the-nigerian-police-announces-that-hyundai-has-paid-a-ransom-of-aps118-000-190-000-to-free-6-kidnapped-workers-in-the-niger-delta-region.md) _2017-08-25 03:37:11 (First version)_
-1. [The Nigerian police announces that Hyundai has paid a ransom of GBP118,000 ($190,000) to free 6 kidnapped workers in the Niger Delta region. ](/news/2013/01/4/the-nigerian-police-announces-that-hyundai-has-paid-a-ransom-of-agbp118-000-190-000-to-free-6-kidnapped-workers-in-the-niger-delta-region.md) _(Current version)_

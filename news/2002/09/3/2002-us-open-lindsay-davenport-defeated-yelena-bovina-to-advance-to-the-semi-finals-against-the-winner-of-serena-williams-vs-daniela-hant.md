@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/09/3/2002-us-open-lindsay-davenport-defeated-yelena-bovina-to-advance-to-the-semi-finals-against-the-winner-of-serena-williams-vs-daniela-hant.html)  [JSON](/news/2002/09/3/2002-us-open-lindsay-davenport-defeated-yelena-bovina-to-advance-to-the-semi-finals-against-the-winner-of-serena-williams-vs-daniela-hant.json)  [XML](/news/2002/09/3/2002-us-open-lindsay-davenport-defeated-yelena-bovina-to-advance-to-the-semi-finals-against-the-winner-of-serena-williams-vs-daniela-hant.xml)  
+
 ### [2002-09-3](/news/2002/09/3/index.md)
 
+##### 2002 US Open
 #  2002 US Open: Lindsay Davenport defeated Yelena Bovina to advance to the semi-finals against the winner of Serena Williams vs. Daniela Hantuchov; Monica Seles defeated Martina Hingis to advance to the quarter-finals against Venus Williams.
 
 

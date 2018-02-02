@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegea
 
 ### [2017-06-12](/news/2017/06/12/index.md)
 
+##### Earthquakes in 2017
 # An earthquake of 6.3 magnitude shakes the Aegean Sea, causing one death. Many houses were damaged in Plomari, Greece, and some collapsed. 
 
  ISTANBUL (AP) — An earthquake with a preliminary magnitude of 6.2 shook western Turkey and the Greek island of Lesbos on Monday, injuring at least 10 people and damaging buildings

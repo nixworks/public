@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/01/20/a-digital-cable-and-satellite-network-dedicated-to-the-soap-operas-soapnet-begins-re-airing-soaps-that-originally-aired-on-abc-nbc-and-cb.html)  [JSON](/news/2000/01/20/a-digital-cable-and-satellite-network-dedicated-to-the-soap-operas-soapnet-begins-re-airing-soaps-that-originally-aired-on-abc-nbc-and-cb.json)  [XML](/news/2000/01/20/a-digital-cable-and-satellite-network-dedicated-to-the-soap-operas-soapnet-begins-re-airing-soaps-that-originally-aired-on-abc-nbc-and-cb.xml)  
+
 ### [2000-01-20](/news/2000/01/20/index.md)
 
+##### digital cable
 # A digital cable and satellite network dedicated to the soap operas, SOAPnet, begins re-airing soaps that originally aired on ABC, NBC and CBS.
 
 

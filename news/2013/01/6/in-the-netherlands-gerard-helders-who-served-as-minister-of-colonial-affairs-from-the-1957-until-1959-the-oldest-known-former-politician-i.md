@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/6/in-the-netherlands-gerard-helders-who-served-as-minister-of-colonial-affairs-from-the-1957-until-1959-the-oldest-known-former-politician-i.html)  [JSON](/news/2013/01/6/in-the-netherlands-gerard-helders-who-served-as-minister-of-colonial-affairs-from-the-1957-until-1959-the-oldest-known-former-politician-i.json)  [XML](/news/2013/01/6/in-the-netherlands-gerard-helders-who-served-as-minister-of-colonial-affairs-from-the-1957-until-1959-the-oldest-known-former-politician-i.xml)  
+
 ### [2013-01-6](/news/2013/01/6/index.md)
 
+##### Gerard Helders
 # In the Netherlands, Gerard Helders who served as Minister of Colonial Affairs from the 1957 until 1959, the oldest known former politician in the world dies at the age of 107. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NOS](http://nos.nl/artikel/459468-oudminister-107-overleden.html)
 1. [Cover Image](http://nos.nl/bundles/nossite/img/placeholders/no_image.png?170322)

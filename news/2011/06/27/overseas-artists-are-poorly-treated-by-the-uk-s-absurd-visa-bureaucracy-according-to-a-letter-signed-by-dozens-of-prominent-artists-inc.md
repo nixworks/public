@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/27/overseas-artists-are-poorly-treated-by-the-uk-s-absurd-visa-bureaucracy-according-to-a-letter-signed-by-dozens-of-prominent-artists-inc.html)  [JSON](/news/2011/06/27/overseas-artists-are-poorly-treated-by-the-uk-s-absurd-visa-bureaucracy-according-to-a-letter-signed-by-dozens-of-prominent-artists-inc.json)  [XML](/news/2011/06/27/overseas-artists-are-poorly-treated-by-the-uk-s-absurd-visa-bureaucracy-according-to-a-letter-signed-by-dozens-of-prominent-artists-inc.xml)  
+
 ### [2011-06-27](/news/2011/06/27/index.md)
 
+##### Sir David Hare
 # Overseas artists are "poorly treated" by the UK's "absurd visa bureaucracy" according to a letter signed by dozens of prominent artists, including David Hare, Tom Stoppard, Salman Rushdie, Hanif Kureishi, Philip Pullman, Antonia Fraser, Michael Morpurgo and Sarah Waters. The letter suggests Abbas Kiarostami and Grigory Sokolov have already been "dissuaded from future visits". 
 
 World-class artists and musicians are being put off coming to Britain by the &ldquo;bureaucratic and intrusive&rdquo; points-based immigration system introduced under Labour.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13927454)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/immigration/8599638/World-class-artists-put-off-coming-to-Britain-by-intrusive-points-based-immigration-system.html)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/09/24/nine-north-koreans-enter-denmark-s-embassy-in-the-vietnamese-capital-hanoi-to-seek-political-asylum.html)  [JSON](/news/2009/09/24/nine-north-koreans-enter-denmark-s-embassy-in-the-vietnamese-capital-hanoi-to-seek-political-asylum.json)  [XML](/news/2009/09/24/nine-north-koreans-enter-denmark-s-embassy-in-the-vietnamese-capital-hanoi-to-seek-political-asylum.xml)  
+
 ### [2009-09-24](/news/2009/09/24/index.md)
 
+##### North Korea
 #  Nine North Koreans enter Denmark's embassy in the Vietnamese capital Hanoi to seek political asylum. 
 
 The group of nine North Koreans entered the Danish Embassy in Hanoi seeking polical asylum and eventual transit to Seoul.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8272482.stm)
-2. [New York Times](http://www.nytimes.com/2009/09/25/world/asia/25korea.html)
+2. [New York Times](https://www.nytimes.com/2009/09/25/world/asia/25korea.html)
 3. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1065304&lang=eng_news)
 3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 

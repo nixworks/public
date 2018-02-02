@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/17/two-kidnapped-jordanian-peacekeepers-from-the-joint-african-union-united-nations-force-in-darfur-sudan-are-released.html)  [JSON](/news/2010/08/17/two-kidnapped-jordanian-peacekeepers-from-the-joint-african-union-united-nations-force-in-darfur-sudan-are-released.json)  [XML](/news/2010/08/17/two-kidnapped-jordanian-peacekeepers-from-the-joint-african-union-united-nations-force-in-darfur-sudan-are-released.xml)  
+
 ### [2010-08-17](/news/2010/08/17/index.md)
 
+##### Jordan
 # Two kidnapped Jordanian peacekeepers from the joint African Union - United Nations force in Darfur, Sudan, are released. 
 
 Two Jordanians seized while serving with UN African Union mission in Sudan are freed.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/08/201081711110479194.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11001349)

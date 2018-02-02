@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/06/6/ollanta-humala-is-elected-president-of-peru-in-the-peruvian-general-election-defeating-opposition-leader-keiko-fujimori.html)  [JSON](/news/2011/06/6/ollanta-humala-is-elected-president-of-peru-in-the-peruvian-general-election-defeating-opposition-leader-keiko-fujimori.json)  [XML](/news/2011/06/6/ollanta-humala-is-elected-president-of-peru-in-the-peruvian-general-election-defeating-opposition-leader-keiko-fujimori.xml)  
+
 ### [2011-06-6](/news/2011/06/6/index.md)
 
+##### Ollanta Humala
 # Ollanta Humala is elected President of Peru in the Peruvian general election, defeating opposition leader Keiko Fujimori. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-13651468)
-2. [Reuters via Yahoo News](http://news.yahoo.com/s/nm/20110606/wl_nm/us_peru_election;_ylt=Auh26TrcMAFI62_YyhACuQNvaA8F;_ylu=X3oDMTJoNGxndXZxBGFzc2V0A25tLzIwMTEwNjA2L3VzX3BlcnVfZWxlY3Rpb24EY3BvcwMxBHBvcwMyBHNlYwN5bl90b3Bfc3RvcnkEc2xrA2xlZnQtd2luZ2VyaA--)
+2. [Reuters via Yahoo News](https://news.yahoo.com/s/nm/20110606/wl_nm/us_peru_election;_ylt=Auh26TrcMAFI62_YyhACuQNvaA8F;_ylu=X3oDMTJoNGxndXZxBGFzc2V0A25tLzIwMTEwNjA2L3VzX3BlcnVfZWxlY3Rpb24EY3BvcwMxBHBvcwMyBHNlYwN5bl90b3Bfc3RvcnkEc2xrA2xlZnQtd2luZ2VyaA--)
 2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53276000/jpg/_53276821_humala.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/13/veterinarians-are-reported-to-use-vasectomies-to-control-elephant-overpopulation-in-africa-at-kruger-national-park-their-numbers-have-dou.html)  [JSON](/news/2006/10/13/veterinarians-are-reported-to-use-vasectomies-to-control-elephant-overpopulation-in-africa-at-kruger-national-park-their-numbers-have-dou.json)  [XML](/news/2006/10/13/veterinarians-are-reported-to-use-vasectomies-to-control-elephant-overpopulation-in-africa-at-kruger-national-park-their-numbers-have-dou.xml)  
+
 ### [2006-10-13](/news/2006/10/13/index.md)
 
+##### vasectomies
 #  Veterinarians are reported to use vasectomies to control elephant overpopulation in Africa. At Kruger National Park, their numbers have doubled in the last decade. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [North County Times](http://www.nctimes.com/articles/2006/10/14/news/inland/22_24_5210_13_06.txt)
 

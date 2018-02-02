@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/26/police-and-protesters-clash-in-harare-after-a-c
 
 ### [2016-08-26](/news/2016/08/26/index.md)
 
+##### 2016 Zimbabwe protests
 # Police and protesters clash in Harare after a court ruled that protests against Robert Mugabe can continue. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

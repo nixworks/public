@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/05/30/amnesty-international-has-urged-foreign-governments-to-investigate-high-level-us-government-officials-for-human-rights-violations-committed.html)  [JSON](/news/2005/05/30/amnesty-international-has-urged-foreign-governments-to-investigate-high-level-us-government-officials-for-human-rights-violations-committed.json)  [XML](/news/2005/05/30/amnesty-international-has-urged-foreign-governments-to-investigate-high-level-us-government-officials-for-human-rights-violations-committed.xml)  
+
 ### [2005-05-30](/news/2005/05/30/index.md)
 
+##### Amnesty International
 #  Amnesty International has urged foreign governments to investigate high level US government officials for human rights violations committed in Afghanistan, Iraq, and Guantanamo Bay.
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/21/venezuelan-authorities-report-12-people-were-ki
 
 ### [2017-04-21](/news/2017/04/21/index.md)
 
+##### 2014-17 Venezuelan protests
 # Venezuelan authorities report 12 people were killed overnight in the capital Caracas, mostly in the El Valle working class neighborhood where 54 people, including newborn babies, were forced to evacuate a maternity hospital. Others have fled to Colombia. This death toll during the three weeks of anti-government protests is 20. 
 
 The death toll in three weeks of violence at anti-government protests in Venezuela jumped to 20 people after a night of clashes and pillaging left 12 people dead in Caracas. Riot police and pro-government vigilantes fought running battles with protesters demanding the ouster of President Nicolas Maduro

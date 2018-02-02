@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/19/conflict-in-iraq-bomb-blasts-in-the-iraqi-shia-cities-of-karbala-and-najaf-kill-up-to-60-people-and-injure-a-further-120.html)  [JSON](/news/2004/12/19/conflict-in-iraq-bomb-blasts-in-the-iraqi-shia-cities-of-karbala-and-najaf-kill-up-to-60-people-and-injure-a-further-120.json)  [XML](/news/2004/12/19/conflict-in-iraq-bomb-blasts-in-the-iraqi-shia-cities-of-karbala-and-najaf-kill-up-to-60-people-and-injure-a-further-120.xml)  
+
 ### [2004-12-19](/news/2004/12/19/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: Bomb blasts in the Iraqi Shia cities of Karbala and Najaf kill up to 60 people and injure a further 120. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4109227.stm)
 

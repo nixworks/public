@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/11/20/the-iraq-football-association-is-suspended-by-fifa-following-government-interference.html)  [JSON](/news/2009/11/20/the-iraq-football-association-is-suspended-by-fifa-following-government-interference.json)  [XML](/news/2009/11/20/the-iraq-football-association-is-suspended-by-fifa-following-government-interference.xml)  
+
 ### [2009-11-20](/news/2009/11/20/index.md)
 
+##### Iraq Football Association
 #  The Iraq Football Association is suspended by FIFA following government interference. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [FIFA](http://www.fifa.com/worldfootball/releases/newsid=1137701.html#iraqi+football+association+suspended)
+1. [FIFA](https://www.fifa.com/worldfootball/releases/newsid=1137701.html#iraqi+football+association+suspended)
 
 ### Related:
 

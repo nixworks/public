@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/11/an-irish-priest-michael-sinnot-is-seized-from-a-convent-and-taken-away-in-a-motorboat-by-gunmen-in-pagadian-city-mindanao-in-the-souther.html)  [JSON](/news/2009/10/11/an-irish-priest-michael-sinnot-is-seized-from-a-convent-and-taken-away-in-a-motorboat-by-gunmen-in-pagadian-city-mindanao-in-the-souther.json)  [XML](/news/2009/10/11/an-irish-priest-michael-sinnot-is-seized-from-a-convent-and-taken-away-in-a-motorboat-by-gunmen-in-pagadian-city-mindanao-in-the-souther.xml)  
+
 ### [2009-10-11](/news/2009/10/11/index.md)
 
+##### Irish
 #  An Irish priest, Michael Sinnot, is seized from a convent and taken away in a motorboat by gunmen in Pagadian City, Mindanao in the southern Philippines. 
 
 An extensive search has been launched for a 79-year-old Irish priest who has been kidnapped in the Philippines.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8301631.stm)
 2. [Miami Herald](http://www.miamiherald.com/news/world/AP/story/1277612.html)

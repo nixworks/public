@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/30/taiwanese-electronics-company-foxconn-agrees-to
 
 ### [2016-03-30](/news/2016/03/30/index.md)
 
+##### Taiwan
 # Taiwanese electronics company Foxconn agrees to buy 60% of the Japanese Sharp Corporation for 389 billion yen ($3.5 billion). 
 
 Foxconn Technology Group Chairman Terry Gou finally clinched a deal to buy Sharp Corp. after years of pursuit, bringing together the main assembler of Apple Inc.’s iPhones with the electronics maker that built Japan’s first television sets.

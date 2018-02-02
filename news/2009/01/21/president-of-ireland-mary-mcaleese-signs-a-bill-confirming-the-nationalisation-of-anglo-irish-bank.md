@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/21/president-of-ireland-mary-mcaleese-signs-a-bill-confirming-the-nationalisation-of-anglo-irish-bank.html)  [JSON](/news/2009/01/21/president-of-ireland-mary-mcaleese-signs-a-bill-confirming-the-nationalisation-of-anglo-irish-bank.json)  [XML](/news/2009/01/21/president-of-ireland-mary-mcaleese-signs-a-bill-confirming-the-nationalisation-of-anglo-irish-bank.xml)  
+
 ### [2009-01-21](/news/2009/01/21/index.md)
 
+##### President
 #  President of Ireland Mary McAleese signs a bill confirming the nationalisation of Anglo Irish Bank. 
 
 President McAleese has signed the Anglo Irish Bank Bill at Áras an Uachtaráin.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0121/angloirish.html)
 1. [Cover Image](https://img.rasset.ie/0001fe51-1600.jpg)

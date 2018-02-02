@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/31/kenneth-clarke-has-ruled-himself-out-of-the-contest-to-lead-the-uk-conservative-party-and-the-field-is-left-potentially-clear-for-michael-h.html)  [JSON](/news/2003/10/31/kenneth-clarke-has-ruled-himself-out-of-the-contest-to-lead-the-uk-conservative-party-and-the-field-is-left-potentially-clear-for-michael-h.json)  [XML](/news/2003/10/31/kenneth-clarke-has-ruled-himself-out-of-the-contest-to-lead-the-uk-conservative-party-and-the-field-is-left-potentially-clear-for-michael-h.xml)  
+
 ### [2003-10-31](/news/2003/10/31/index.md)
 
+##### Kenneth Clarke
 #  Kenneth Clarke has ruled himself out of the contest to lead the UK Conservative Party and the field is left potentially clear for Michael Howard to be elected unopposed.
 
 

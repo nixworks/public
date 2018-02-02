@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/5/nobel-laureate-muhammad-yunus-loses-his-final-appeal-in-the-supreme-court-of-bangladesh-against-his-dismissal-from-his-own-grameen-micro-fin.html)  [JSON](/news/2011/04/5/nobel-laureate-muhammad-yunus-loses-his-final-appeal-in-the-supreme-court-of-bangladesh-against-his-dismissal-from-his-own-grameen-micro-fin.json)  [XML](/news/2011/04/5/nobel-laureate-muhammad-yunus-loses-his-final-appeal-in-the-supreme-court-of-bangladesh-against-his-dismissal-from-his-own-grameen-micro-fin.xml)  
+
 ### [2011-04-5](/news/2011/04/5/index.md)
 
+##### Muhammad Yunus
 # Nobel laureate Muhammad Yunus loses his final appeal in the Supreme Court of Bangladesh against his dismissal from his own Grameen micro-finance bank; the bank thought him too old for the job. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12968349)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

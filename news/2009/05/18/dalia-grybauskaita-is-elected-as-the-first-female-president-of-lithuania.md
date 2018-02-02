@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/18/dalia-grybauskaita-is-elected-as-the-first-female-president-of-lithuania.html)  [JSON](/news/2009/05/18/dalia-grybauskaita-is-elected-as-the-first-female-president-of-lithuania.json)  [XML](/news/2009/05/18/dalia-grybauskaita-is-elected-as-the-first-female-president-of-lithuania.xml)  
+
 ### [2009-05-18](/news/2009/05/18/index.md)
 
+##### Dalia Grybauskaite
 #  Dalia Grybauskaite is elected as the first female President of Lithuania. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8054053.stm)
 

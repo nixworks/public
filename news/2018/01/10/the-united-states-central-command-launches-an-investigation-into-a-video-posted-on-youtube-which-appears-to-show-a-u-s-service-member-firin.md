@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/10/the-united-states-central-command-launches-an-i
 
 ### [2018-01-10](/news/2018/01/10/index.md)
 
+##### War in Afghanistan
 # The United States Central Command launches an investigation into a video posted on YouTube which appears to show a U.S. service member firing on civilians inside a truck on a road in Afghanistan. The montage video, titled "Happy Few Ordnance Symphony", has since been removed. 
 
 The clip is filmed from the perspective of an individual armed with a shotgun who is standing in a rear hatch of the armored vehicle.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/28/a-car-bomb-attack-on-a-construction-company-in-afghanistan-s-paktika-province-kills-at-least-13-people-and-injures-another-fifty.html)  [JSON](/news/2011/03/28/a-car-bomb-attack-on-a-construction-company-in-afghanistan-s-paktika-province-kills-at-least-13-people-and-injures-another-fifty.json)  [XML](/news/2011/03/28/a-car-bomb-attack-on-a-construction-company-in-afghanistan-s-paktika-province-kills-at-least-13-people-and-injures-another-fifty.xml)  
+
 ### [2011-03-28](/news/2011/03/28/index.md)
 
+##### car bomb
 # A car bomb attack on a construction company in Afghanistan's Paktika Province kills at least 13 people and injures another fifty. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/news/world/attack-on-construction-company-claims-15-lives/story-e6frg6so-1226029497350)
 

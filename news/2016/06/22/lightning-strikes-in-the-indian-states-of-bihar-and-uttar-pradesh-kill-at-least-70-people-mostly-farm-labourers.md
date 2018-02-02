@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/22/lightning-strikes-in-the-indian-states-of-bihar
 
 ### [2016-06-22](/news/2016/06/22/index.md)
 
+##### Lightning strikes
 # Lightning strikes in the Indian states of Bihar and Uttar Pradesh kill at least 70 people, mostly farm labourers. 
 
 At least 56 people die in Bihar and more killed in nearby Uttar Pradesh, with most victims working in farming industry.

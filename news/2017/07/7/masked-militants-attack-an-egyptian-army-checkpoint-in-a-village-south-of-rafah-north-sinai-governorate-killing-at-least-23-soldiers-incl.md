@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/7/masked-militants-attack-an-egyptian-army-checkpo
 
 ### [2017-07-7](/news/2017/07/7/index.md)
 
+##### Sinai insurgency
 # Masked militants attack an Egyptian Army checkpoint in a village south of Rafah, North Sinai Governorate, killing at least 23 soldiers, including a high-ranking special forces colonel. The Islamic State of Iraq and Syria later claims responsibility. The attack included VBIED and signal jamming. 
 
 Militants rammed military compound with car before opening fire in village of el-Barth, security officials say

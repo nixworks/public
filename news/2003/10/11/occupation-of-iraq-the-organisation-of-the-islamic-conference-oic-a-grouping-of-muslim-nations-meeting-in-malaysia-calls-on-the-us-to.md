@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/11/occupation-of-iraq-the-organisation-of-the-islamic-conference-oic-a-grouping-of-muslim-nations-meeting-in-malaysia-calls-on-the-us-to.html)  [JSON](/news/2003/10/11/occupation-of-iraq-the-organisation-of-the-islamic-conference-oic-a-grouping-of-muslim-nations-meeting-in-malaysia-calls-on-the-us-to.json)  [XML](/news/2003/10/11/occupation-of-iraq-the-organisation-of-the-islamic-conference-oic-a-grouping-of-muslim-nations-meeting-in-malaysia-calls-on-the-us-to.xml)  
+
 ### [2003-10-11](/news/2003/10/11/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: The Organisation of the Islamic Conference (OIC), a grouping of Muslim nations meeting in Malaysia, calls on the US to quit Iraq as soon as possible and to hand over to the UN; the OIC also pledges support to Syria.
 
 

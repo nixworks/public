@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/2/eight-people-are-killed-in-violent-protests-in-yerevan-armenia-following-protests-over-the-outcome-of-the-latest-presidential-election.html)  [JSON](/news/2008/03/2/eight-people-are-killed-in-violent-protests-in-yerevan-armenia-following-protests-over-the-outcome-of-the-latest-presidential-election.json)  [XML](/news/2008/03/2/eight-people-are-killed-in-violent-protests-in-yerevan-armenia-following-protests-over-the-outcome-of-the-latest-presidential-election.xml)  
+
 ### [2008-03-2](/news/2008/03/2/index.md)
 
+##### violent protests
 #  Eight people are killed in violent protests in Yerevan, Armenia, following protests over the outcome of the latest presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''The Sydney Morning Herald](http://news.smh.com.au/eight-killed-in-armenian-protests/20080302-1w8f.html)
 

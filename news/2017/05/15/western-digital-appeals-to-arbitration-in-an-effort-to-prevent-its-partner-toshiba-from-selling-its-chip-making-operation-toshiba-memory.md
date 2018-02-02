@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/15/western-digital-appeals-to-arbitration-in-an-ef
 
 ### [2017-05-15](/news/2017/05/15/index.md)
 
+##### Western Digital
 # Western Digital appeals to arbitration in an effort to prevent its partner Toshiba, from selling its chip-making operation, Toshiba Memory. 
 
  Western Digital Corp has sought international arbitration to stop partner Toshiba Corp from selling its chips arm without its consent, potentially der

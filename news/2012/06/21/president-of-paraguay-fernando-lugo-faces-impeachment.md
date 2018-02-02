@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/21/president-of-paraguay-fernando-lugo-faces-impeachment.html)  [JSON](/news/2012/06/21/president-of-paraguay-fernando-lugo-faces-impeachment.json)  [XML](/news/2012/06/21/president-of-paraguay-fernando-lugo-faces-impeachment.xml)  
+
 ### [2012-06-21](/news/2012/06/21/index.md)
 
+##### Paraguayan President
 # President of Paraguay Fernando Lugo faces impeachment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18535552)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/61080000/jpg/_61080420_015115200-1.jpg)

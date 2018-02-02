@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/5/arsa-insurgents-using-small-arms-and-homemade-la
 
 ### [2018-01-5](/news/2018/01/5/index.md)
 
+##### Northern Rakhine State clashes
 # ARSA insurgents, using small arms and homemade land mines, ambush a Burmese military convoy in the village of Turaing. Three members of Myanmar's security forces are reportedly wounded. 
 
 The Rohingya group says it targeted the Burmese military in an attack on Friday.

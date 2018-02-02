@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/18/bob-woolmer-the-pakistan-cricket-coach-dies-in-a-kingston-jamaica-hospital-following-his-team-s-shock-loss-to-ireland-and-consequent-ear.html)  [JSON](/news/2007/03/18/bob-woolmer-the-pakistan-cricket-coach-dies-in-a-kingston-jamaica-hospital-following-his-team-s-shock-loss-to-ireland-and-consequent-ear.json)  [XML](/news/2007/03/18/bob-woolmer-the-pakistan-cricket-coach-dies-in-a-kingston-jamaica-hospital-following-his-team-s-shock-loss-to-ireland-and-consequent-ear.xml)  
+
 ### [2007-03-18](/news/2007/03/18/index.md)
 
+##### Bob Woolmer
 #  Bob Woolmer, the Pakistan cricket coach, dies in a Kingston, Jamaica hospital following his team's shock loss to Ireland and consequent early elimination from the 2007 Cricket World Cup. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/cricket/other_international/pakistan/6464831.stm)
 

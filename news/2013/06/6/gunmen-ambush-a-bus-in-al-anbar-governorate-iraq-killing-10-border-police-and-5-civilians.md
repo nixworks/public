@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/06/6/gunmen-ambush-a-bus-in-al-anbar-governorate-iraq-killing-10-border-police-and-5-civilians.html)  [JSON](/news/2013/06/6/gunmen-ambush-a-bus-in-al-anbar-governorate-iraq-killing-10-border-police-and-5-civilians.json)  [XML](/news/2013/06/6/gunmen-ambush-a-bus-in-al-anbar-governorate-iraq-killing-10-border-police-and-5-civilians.xml)  
+
 ### [2013-06-6](/news/2013/06/6/index.md)
 
+##### Anbar province
 # Gunmen ambush a bus in Al Anbar Governorate, Iraq, killing 10 border police and 5 civilians. 
 
 Gunmen ambushed a bus and killed 15 passengers in the Iraqi desert on Wednesday, security officials said, as growing sectarian violence raises fears of a return to civil war.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/06/05/us-iraq-violence-idUSBRE9540S720130605)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2013/06/05/us-iraq-violence-idUSBRE9540S720130605)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

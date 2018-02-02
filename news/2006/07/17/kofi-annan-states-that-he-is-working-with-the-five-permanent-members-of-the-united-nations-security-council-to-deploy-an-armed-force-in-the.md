@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/17/kofi-annan-states-that-he-is-working-with-the-five-permanent-members-of-the-united-nations-security-council-to-deploy-an-armed-force-in-the.html)  [JSON](/news/2006/07/17/kofi-annan-states-that-he-is-working-with-the-five-permanent-members-of-the-united-nations-security-council-to-deploy-an-armed-force-in-the.json)  [XML](/news/2006/07/17/kofi-annan-states-that-he-is-working-with-the-five-permanent-members-of-the-united-nations-security-council-to-deploy-an-armed-force-in-the.xml)  
+
 ### [2006-07-17](/news/2006/07/17/index.md)
 
+##### Kofi Annan
 #  Kofi Annan states that he is working with the five permanent members of the United Nations Security Council to deploy an armed force in the Middle East to quell the escalation of conflict between Israel, Palestinian insurgents and Hezbollah. Tony Blair supports the plan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg](http://quote.bloomberg.com/apps/news?pid=20601087&sid=a3ksG.XIuFp4&refer=)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/04/11/musician-proof-of-eminem-s-hip-hop-group-d12-is-shot-to-death-in-a-detroit-night-club.html)  [JSON](/news/2006/04/11/musician-proof-of-eminem-s-hip-hop-group-d12-is-shot-to-death-in-a-detroit-night-club.json)  [XML](/news/2006/04/11/musician-proof-of-eminem-s-hip-hop-group-d12-is-shot-to-death-in-a-detroit-night-club.xml)  
+
 ### [2006-04-11](/news/2006/04/11/index.md)
 
+##### Proof
 #  Musician Proof of Eminem's hip hop group D12 is shot to death in a Detroit night club.
 
 

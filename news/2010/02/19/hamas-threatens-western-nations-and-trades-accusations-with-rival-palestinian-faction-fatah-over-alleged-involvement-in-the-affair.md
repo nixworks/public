@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/19/hamas-threatens-western-nations-and-trades-accusations-with-rival-palestinian-faction-fatah-over-alleged-involvement-in-the-affair.html)  [JSON](/news/2010/02/19/hamas-threatens-western-nations-and-trades-accusations-with-rival-palestinian-faction-fatah-over-alleged-involvement-in-the-affair.json)  [XML](/news/2010/02/19/hamas-threatens-western-nations-and-trades-accusations-with-rival-palestinian-faction-fatah-over-alleged-involvement-in-the-affair.xml)  
+
 ### [2010-02-19](/news/2010/02/19/index.md)
 
+##### Fatah
 # Hamas threatens Western nations and trades accusations with rival Palestinian faction Fatah over alleged involvement in the affair. 
 
 Hamas official warns nations to stay out of Israeli-Palestinian conflict.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8523588.stm)
 2. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=169100)

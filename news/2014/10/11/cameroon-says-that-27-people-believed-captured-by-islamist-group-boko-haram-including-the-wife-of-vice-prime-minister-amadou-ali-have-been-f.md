@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/11/cameroon-says-that-27-people-believed-captured-by-islamist-group-boko-haram-including-the-wife-of-vice-prime-minister-amadou-ali-have-been-f.html)  [JSON](/news/2014/10/11/cameroon-says-that-27-people-believed-captured-by-islamist-group-boko-haram-including-the-wife-of-vice-prime-minister-amadou-ali-have-been-f.json)  [XML](/news/2014/10/11/cameroon-says-that-27-people-believed-captured-by-islamist-group-boko-haram-including-the-wife-of-vice-prime-minister-amadou-ali-have-been-f.xml)  
+
 ### [2014-10-11](/news/2014/10/11/index.md)
 
+##### Cameroon
 # Cameroon says that 27 people believed captured by Islamist group Boko Haram including the wife of vice Prime Minister Amadou Ali have been freed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2014/10/11/cameroon-says-27-hostages-believed-kidnapped-by-boko-haram-freed/)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

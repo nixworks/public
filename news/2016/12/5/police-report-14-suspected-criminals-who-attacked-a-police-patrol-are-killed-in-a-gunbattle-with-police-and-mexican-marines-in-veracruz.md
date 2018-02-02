@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/5/police-report-14-suspected-criminals-who-attacke
 
 ### [2016-12-5](/news/2016/12/5/index.md)
 
+##### Mexican war on drugs
 #  Police report 14 suspected criminals, who attacked a police patrol, are killed in a gunbattle with police and Mexican Marines in Veracruz, Mexico. An unknown number fled. 
 
 

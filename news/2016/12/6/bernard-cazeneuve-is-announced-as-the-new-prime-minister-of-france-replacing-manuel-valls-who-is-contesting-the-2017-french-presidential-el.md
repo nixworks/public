@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/6/bernard-cazeneuve-is-announced-as-the-new-prime-
 
 ### [2016-12-6](/news/2016/12/6/index.md)
 
+##### Bernard Cazeneuve
 #  Bernard Cazeneuve is announced as the new Prime Minister of France replacing Manuel Valls who is contesting the 2017 French Presidential Election. 
 
 French President Francois Hollande on Tuesday appointed Interior Minister Bernard Cazeneuve as prime minister until a new president is elected next May.

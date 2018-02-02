@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/16/nicolas-sarkozy-succeeds-jacques-chirac-as-president-of-the-french-republic-after-prevailing-over-segolene-royal-in-the-2007-french-preside.html)  [JSON](/news/2007/05/16/nicolas-sarkozy-succeeds-jacques-chirac-as-president-of-the-french-republic-after-prevailing-over-segolene-royal-in-the-2007-french-preside.json)  [XML](/news/2007/05/16/nicolas-sarkozy-succeeds-jacques-chirac-as-president-of-the-french-republic-after-prevailing-over-segolene-royal-in-the-2007-french-preside.xml)  
+
 ### [2007-05-16](/news/2007/05/16/index.md)
 
+##### Nicolas Sarkozy
 #  Nicolas Sarkozy succeeds Jacques Chirac as President of the French Republic after prevailing over Sgolne Royal in the 2007 French presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://us.cnn.com/2007/WORLD/europe/05/16/france.sarkozy/index.html)
 

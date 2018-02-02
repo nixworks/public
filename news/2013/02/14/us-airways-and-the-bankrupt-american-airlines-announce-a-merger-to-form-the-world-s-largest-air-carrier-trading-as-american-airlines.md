@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/02/14/us-airways-and-the-bankrupt-american-airlines-announce-a-merger-to-form-the-world-s-largest-air-carrier-trading-as-american-airlines.html)  [JSON](/news/2013/02/14/us-airways-and-the-bankrupt-american-airlines-announce-a-merger-to-form-the-world-s-largest-air-carrier-trading-as-american-airlines.json)  [XML](/news/2013/02/14/us-airways-and-the-bankrupt-american-airlines-announce-a-merger-to-form-the-world-s-largest-air-carrier-trading-as-american-airlines.xml)  
+
 ### [2013-02-14](/news/2013/02/14/index.md)
 
+##### US Airways
 # US Airways and the bankrupt American Airlines announce a merger to form the world's largest air carrier trading as American Airlines. 
 
 Would create world&rsquo;s largest airline, one of four big carriers with combined control of 86 percent of the market
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/02/14/us-american-usair-idUSBRE91C1NO20130214)
-2. [The Washington Post](http://www.washingtonpost.com/local/trafficandcommuting/american-airlines-approves-merger-with-us-air/2013/02/13/1e2b2a3c-7556-11e2-95e4-6148e45d7adb_story.html)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130213&t=2&i=703764994&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91C1S1J00)
+1. [Reuters](https://www.reuters.com/article/2013/02/14/us-american-usair-idUSBRE91C1NO20130214)
+2. [The Washington Post](https://www.washingtonpost.com/local/trafficandcommuting/american-airlines-approves-merger-with-us-air/2013/02/13/1e2b2a3c-7556-11e2-95e4-6148e45d7adb_story.html)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130213&t=2&i=703764994&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91C1S1J00)
 
 ### Related:
 

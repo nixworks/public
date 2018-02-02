@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/10/25/sixteen-workers-are-killed-after-a-coal-mine-collapses-in-far-western-xinjiang-region.html)  [JSON](/news/2014/10/25/sixteen-workers-are-killed-after-a-coal-mine-collapses-in-far-western-xinjiang-region.json)  [XML](/news/2014/10/25/sixteen-workers-are-killed-after-a-coal-mine-collapses-in-far-western-xinjiang-region.xml)  
+
 ### [2014-10-25](/news/2014/10/25/index.md)
 
+##### Xinjiang
 # Sixteen workers are killed after a coal mine collapses in far western Xinjiang region. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/10/25/us-china-coal-accident-idUSKCN0IE03320141025?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2014/10/25/us-china-coal-accident-idUSKCN0IE03320141025?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/16/the-gaelic-athletic-association-congress-votes-overwhelmingly-to-suspend-its-controversial-rule-42-ban-on-foreign-games-being-played-at-i.html)  [JSON](/news/2005/04/16/the-gaelic-athletic-association-congress-votes-overwhelmingly-to-suspend-its-controversial-rule-42-ban-on-foreign-games-being-played-at-i.json)  [XML](/news/2005/04/16/the-gaelic-athletic-association-congress-votes-overwhelmingly-to-suspend-its-controversial-rule-42-ban-on-foreign-games-being-played-at-i.xml)  
+
 ### [2005-04-16](/news/2005/04/16/index.md)
 
+##### Gaelic Athletic Association
 #  The Gaelic Athletic Association congress votes overwhelmingly to suspend its controversial rule 42 ban on 'foreign games' being played at its sports venues, to enable Irish soccer and rugby international fixtures to be played at its Croke Park stadium. 
 
 There has been a general welcome for the decision today by the GAA&#39;s annual congress to clear the way to open Croke Park to non-Gaelic games in certain circumstances.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ News](http://www.rte.ie/news/2005/0416/gaa.html)
 1. [Cover Image](https://img.rasset.ie/00000bbc-1600.jpg)

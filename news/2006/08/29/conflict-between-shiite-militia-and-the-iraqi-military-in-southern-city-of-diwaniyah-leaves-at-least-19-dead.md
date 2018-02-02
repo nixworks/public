@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/29/conflict-between-shiite-militia-and-the-iraqi-military-in-southern-city-of-diwaniyah-leaves-at-least-19-dead.html)  [JSON](/news/2006/08/29/conflict-between-shiite-militia-and-the-iraqi-military-in-southern-city-of-diwaniyah-leaves-at-least-19-dead.json)  [XML](/news/2006/08/29/conflict-between-shiite-militia-and-the-iraqi-military-in-southern-city-of-diwaniyah-leaves-at-least-19-dead.xml)  
+
 ### [2006-08-29](/news/2006/08/29/index.md)
 
+##### Shiite
 #  Conflict between Shiite militia and the Iraqi military in southern city of Diwaniyah leaves at least 19 dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5293278.stm)
 

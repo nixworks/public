@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/30/the-finalists-for-the-man-booker-international-prize-are-announced-including-wang-anyi-juan-goytisolo-james-kelman-john-le-carra-c-amin.html)  [JSON](/news/2011/03/30/the-finalists-for-the-man-booker-international-prize-are-announced-including-wang-anyi-juan-goytisolo-james-kelman-john-le-carra-c-amin.json)  [XML](/news/2011/03/30/the-finalists-for-the-man-booker-international-prize-are-announced-including-wang-anyi-juan-goytisolo-james-kelman-john-le-carra-c-amin.xml)  
+
 ### [2011-03-30](/news/2011/03/30/index.md)
 
+##### Man Booker International Prize
 # The finalists for the Man Booker International Prize are announced, including Wang Anyi, Juan Goytisolo, James Kelman, John le Carre, Amin Maalouf, David Malouf, Dacia Maraini, Rohinton Mistry, Philip Pullman, Marilynne Robinson, Philip Roth, Su Tong and Anne Tyler. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Man Booker Prize](http://www.themanbookerprize.com/news/stories/1487)
 

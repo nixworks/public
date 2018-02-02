@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/27/jihad-shaar-is-beaten-to-death-by-israel-defense-force-soldiers.html)  [JSON](/news/2007/07/27/jihad-shaar-is-beaten-to-death-by-israel-defense-force-soldiers.json)  [XML](/news/2007/07/27/jihad-shaar-is-beaten-to-death-by-israel-defense-force-soldiers.xml)  
+
 ### [2007-07-27](/news/2007/07/27/index.md)
 
+##### Jihad Shaar
 #  Jihad Shaar is beaten to death by Israel Defense Force soldiers.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://haaretz.com/hasen/spages/891862.html)
 

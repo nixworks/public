@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/13/ecuadorian-vice-president-jorge-glas-is-sentenc
 
 ### [2017-12-13](/news/2017/12/13/index.md)
 
+##### Operation Car Wash
 # Ecuadorian Vice President Jorge Glas is sentenced to six years imprisonment for financial corruption involving the Brazilian construction company Odebrecht. The decision will not be enforced until the court confirms the ruling. The court's decision can be appealed. [http:--www.bbc.com-news-world-latin-america-42346881 ("BBC News")] [https:--www.eluniverso.com-noticias-2017-12-13-nota-6525058-jorge-glas-sentenciado-como-culpable-6-anos-prision-caso-odebrecht ("El Universo")] {{es icon}}
 
 

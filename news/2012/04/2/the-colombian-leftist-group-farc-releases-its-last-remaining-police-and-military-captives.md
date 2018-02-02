@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/2/the-colombian-leftist-group-farc-releases-its-last-remaining-police-and-military-captives.html)  [JSON](/news/2012/04/2/the-colombian-leftist-group-farc-releases-its-last-remaining-police-and-military-captives.json)  [XML](/news/2012/04/2/the-colombian-leftist-group-farc-releases-its-last-remaining-police-and-military-captives.xml)  
+
 ### [2012-04-2](/news/2012/04/2/index.md)
 
+##### Colombia
 # The Colombian leftist group FARC releases its last remaining police and military captives. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-17580862)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59451000/jpg/_59451616_014425808-1.jpg)

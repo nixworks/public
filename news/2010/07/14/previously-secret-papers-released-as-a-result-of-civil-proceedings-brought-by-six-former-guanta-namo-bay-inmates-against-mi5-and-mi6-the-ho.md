@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/14/previously-secret-papers-released-as-a-result-of-civil-proceedings-brought-by-six-former-guanta-namo-bay-inmates-against-mi5-and-mi6-the-ho.html)  [JSON](/news/2010/07/14/previously-secret-papers-released-as-a-result-of-civil-proceedings-brought-by-six-former-guanta-namo-bay-inmates-against-mi5-and-mi6-the-ho.json)  [XML](/news/2010/07/14/previously-secret-papers-released-as-a-result-of-civil-proceedings-brought-by-six-former-guanta-namo-bay-inmates-against-mi5-and-mi6-the-ho.xml)  
+
 ### [2010-07-14](/news/2010/07/14/index.md)
 
+##### Guantanamo Bay
 # Previously secret papers released as a result of civil proceedings brought by six former Guantanamo Bay inmates against MI5 and MI6, the Home Office, the Foreign Office, and the Attorney General's Office reveal the British government was involved in the abduction and torture of its own citizens following the September 11 attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/law/2010/jul/14/torture-classified-documents-disclosed)
 

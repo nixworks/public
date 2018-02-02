@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/20/the-2011-spanish-protests-continue-in-the-puerta-del-sol-in-central-madrid-despite-a-ruling-by-spain-s-electoral-board-that-it-should-end-b.html)  [JSON](/news/2011/05/20/the-2011-spanish-protests-continue-in-the-puerta-del-sol-in-central-madrid-despite-a-ruling-by-spain-s-electoral-board-that-it-should-end-b.json)  [XML](/news/2011/05/20/the-2011-spanish-protests-continue-in-the-puerta-del-sol-in-central-madrid-despite-a-ruling-by-spain-s-electoral-board-that-it-should-end-b.xml)  
+
 ### [2011-05-20](/news/2011/05/20/index.md)
 
+##### 2011 Spanish protests
 # The 2011 Spanish protests continue in the Puerta del Sol in central Madrid, despite a ruling by Spain's electoral board that it should end by the weekend. 
 
 Young Spaniards plan to defy a ban on their protest camp in Madrid as their challenge to economic austerity spreads.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13466977)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52851000/jpg/_52851317_012021638-1.jpg)

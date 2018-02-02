@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/3/more-than-26-000-people-have-permanently-left-new-zealand-s-canterbury-region-since-the-2011-christchurch-earthquake-in-february.html)  [JSON](/news/2011/08/3/more-than-26-000-people-have-permanently-left-new-zealand-s-canterbury-region-since-the-2011-christchurch-earthquake-in-february.json)  [XML](/news/2011/08/3/more-than-26-000-people-have-permanently-left-new-zealand-s-canterbury-region-since-the-2011-christchurch-earthquake-in-february.xml)  
+
 ### [2011-08-3](/news/2011/08/3/index.md)
 
+##### New Zealand
 # More than 26,000 people have permanently left New Zealand's Canterbury Region since the 2011 Christchurch earthquake in February. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via News Limited](http://www.news.com.au/breaking-news/more-than-26000-leave-christchurch/story-e6frfku0-1226107323009)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

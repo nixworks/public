@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/11/a-6-6-magnitude-earthquake-hits-near-ternate-indonesia-followed-by-a-7-2-magnitude-quake-near-hokkaido-japan.html)  [JSON](/news/2008/09/11/a-6-6-magnitude-earthquake-hits-near-ternate-indonesia-followed-by-a-7-2-magnitude-quake-near-hokkaido-japan.json)  [XML](/news/2008/09/11/a-6-6-magnitude-earthquake-hits-near-ternate-indonesia-followed-by-a-7-2-magnitude-quake-near-hokkaido-japan.xml)  
+
 ### [2008-09-11](/news/2008/09/11/index.md)
 
+##### magnitude
 #  A 6.6 magnitude earthquake hits near Ternate, Indonesia, followed by a 7.2 magnitude quake near Hokkaido, Japan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/in_depth/7609574.stm)
 

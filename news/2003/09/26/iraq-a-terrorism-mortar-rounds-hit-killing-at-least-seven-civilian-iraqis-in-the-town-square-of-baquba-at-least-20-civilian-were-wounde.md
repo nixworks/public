@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/26/iraq-a-terrorism-mortar-rounds-hit-killing-at-least-seven-civilian-iraqis-in-the-town-square-of-baquba-at-least-20-civilian-were-wounde.html)  [JSON](/news/2003/09/26/iraq-a-terrorism-mortar-rounds-hit-killing-at-least-seven-civilian-iraqis-in-the-town-square-of-baquba-at-least-20-civilian-were-wounde.json)  [XML](/news/2003/09/26/iraq-a-terrorism-mortar-rounds-hit-killing-at-least-seven-civilian-iraqis-in-the-town-square-of-baquba-at-least-20-civilian-were-wounde.xml)  
+
 ### [2003-09-26](/news/2003/09/26/index.md)
 
+##### Iraq
 #  Iraq - Terrorism: Mortar rounds hit killing at least seven civilian Iraqis in the town square of Baquba. At least 20 civilian were wounded. Also, Akila al-Hashemi, a member of Iraq's Governing Council, was buried in Najaf a day after she died from wounds inflicted by an unidentified gunmen.
 
 

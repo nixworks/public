@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/20/a-7-4-magnitude-earthquake-strikes-near-the-border-of-the-mexican-states-of-guerrero-and-oaxaca.html)  [JSON](/news/2012/03/20/a-7-4-magnitude-earthquake-strikes-near-the-border-of-the-mexican-states-of-guerrero-and-oaxaca.json)  [XML](/news/2012/03/20/a-7-4-magnitude-earthquake-strikes-near-the-border-of-the-mexican-states-of-guerrero-and-oaxaca.xml)  
+
 ### [2012-03-20](/news/2012/03/20/index.md)
 
+##### 7.4-magnitude earthquake
 # A 7.4-magnitude earthquake strikes near the border of the Mexican states of Guerrero and Oaxaca. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Newsday](http://www.newsday.com/news/nation/strong-long-7-6-quake-shakes-mexico-city-1.3613656)
 

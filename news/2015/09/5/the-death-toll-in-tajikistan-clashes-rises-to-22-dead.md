@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/5/the-death-toll-in-tajikistan-clashes-rises-to-22-dead.html)  [JSON](/news/2015/09/5/the-death-toll-in-tajikistan-clashes-rises-to-22-dead.json)  [XML](/news/2015/09/5/the-death-toll-in-tajikistan-clashes-rises-to-22-dead.xml)  
+
 ### [2015-09-5](/news/2015/09/5/index.md)
 
+##### Tajikistan
 # The death toll in Tajikistan clashes rises to 22 dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-34157441)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/9BB1/production/_85375893_gettyimages-77907289.jpg)

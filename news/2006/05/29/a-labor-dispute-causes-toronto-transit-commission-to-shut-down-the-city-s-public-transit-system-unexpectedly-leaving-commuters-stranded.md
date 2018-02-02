@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/29/a-labor-dispute-causes-toronto-transit-commission-to-shut-down-the-city-s-public-transit-system-unexpectedly-leaving-commuters-stranded.html)  [JSON](/news/2006/05/29/a-labor-dispute-causes-toronto-transit-commission-to-shut-down-the-city-s-public-transit-system-unexpectedly-leaving-commuters-stranded.json)  [XML](/news/2006/05/29/a-labor-dispute-causes-toronto-transit-commission-to-shut-down-the-city-s-public-transit-system-unexpectedly-leaving-commuters-stranded.xml)  
+
 ### [2006-05-29](/news/2006/05/29/index.md)
 
+#####  labor dispute
 #  A labor dispute causes Toronto Transit Commission to shut down the city's public transit system unexpectedly, leaving commuters stranded. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2006/05/29/ttc-walkout.html)
 

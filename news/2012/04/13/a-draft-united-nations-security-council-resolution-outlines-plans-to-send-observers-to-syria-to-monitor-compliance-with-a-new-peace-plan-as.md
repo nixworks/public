@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/13/a-draft-united-nations-security-council-resolution-outlines-plans-to-send-observers-to-syria-to-monitor-compliance-with-a-new-peace-plan-as.html)  [JSON](/news/2012/04/13/a-draft-united-nations-security-council-resolution-outlines-plans-to-send-observers-to-syria-to-monitor-compliance-with-a-new-peace-plan-as.json)  [XML](/news/2012/04/13/a-draft-united-nations-security-council-resolution-outlines-plans-to-send-observers-to-syria-to-monitor-compliance-with-a-new-peace-plan-as.xml)  
+
 ### [2012-04-13](/news/2012/04/13/index.md)
 
+##### United Nations
 # A draft United Nations Security Council resolution outlines plans to send observers to Syria to monitor compliance with a new peace plan, as several people are reportedly shot dead after Friday prayers. 
 
 The UN hopes to send observers to Syria within the next few days to monitor a fragile ceasefire, as Syrians stage protests after Friday prayers.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17698852)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59635000/jpg/_59635916_014498215-1.jpg)

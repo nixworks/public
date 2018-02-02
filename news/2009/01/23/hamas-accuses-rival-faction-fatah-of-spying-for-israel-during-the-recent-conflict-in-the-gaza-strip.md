@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/23/hamas-accuses-rival-faction-fatah-of-spying-for-israel-during-the-recent-conflict-in-the-gaza-strip.html)  [JSON](/news/2009/01/23/hamas-accuses-rival-faction-fatah-of-spying-for-israel-during-the-recent-conflict-in-the-gaza-strip.json)  [XML](/news/2009/01/23/hamas-accuses-rival-faction-fatah-of-spying-for-israel-during-the-recent-conflict-in-the-gaza-strip.xml)  
+
 ### [2009-01-23](/news/2009/01/23/index.md)
 
+##### Hamas
 #  Hamas accuses rival faction Fatah of spying for Israel during the recent conflict in the Gaza Strip. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/meast/01/22/gaza.hamas/index.html)
 

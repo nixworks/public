@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/2/abc-news-suspends-journalist-brian-ross-for-four
 
 ### [2017-12-2](/news/2017/12/2/index.md)
 
+##### ABC News
 # ABC News suspends journalist Brian Ross for four weeks without pay as a consequence for an erroneous report on Michael Flynn. 
 
 ABC News suspended reporter Brian Ross for the Michael Flynn reporting error that sparked a frenzy.

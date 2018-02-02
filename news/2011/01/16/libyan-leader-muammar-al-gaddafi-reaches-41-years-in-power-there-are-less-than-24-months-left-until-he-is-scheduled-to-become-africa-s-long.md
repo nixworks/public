@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/16/libyan-leader-muammar-al-gaddafi-reaches-41-years-in-power-there-are-less-than-24-months-left-until-he-is-scheduled-to-become-africa-s-long.html)  [JSON](/news/2011/01/16/libyan-leader-muammar-al-gaddafi-reaches-41-years-in-power-there-are-less-than-24-months-left-until-he-is-scheduled-to-become-africa-s-long.json)  [XML](/news/2011/01/16/libyan-leader-muammar-al-gaddafi-reaches-41-years-in-power-there-are-less-than-24-months-left-until-he-is-scheduled-to-become-africa-s-long.xml)  
+
 ### [2011-01-16](/news/2011/01/16/index.md)
 
+##### Libya
 # Libyan leader Muammar al-Gaddafi reaches 41 years in power; there are less than 24 months left until he is scheduled to become Africa's longest serving ruler, overtaking former Gabonese President Omar Bongo who died in 2009. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ZimEye](http://www.zimeye.org/?p=25869)
 

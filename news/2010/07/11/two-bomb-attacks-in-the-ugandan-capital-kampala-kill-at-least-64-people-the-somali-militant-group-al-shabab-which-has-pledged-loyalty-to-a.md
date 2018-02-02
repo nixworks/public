@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/11/two-bomb-attacks-in-the-ugandan-capital-kampala-kill-at-least-64-people-the-somali-militant-group-al-shabab-which-has-pledged-loyalty-to-a.html)  [JSON](/news/2010/07/11/two-bomb-attacks-in-the-ugandan-capital-kampala-kill-at-least-64-people-the-somali-militant-group-al-shabab-which-has-pledged-loyalty-to-a.json)  [XML](/news/2010/07/11/two-bomb-attacks-in-the-ugandan-capital-kampala-kill-at-least-64-people-the-somali-militant-group-al-shabab-which-has-pledged-loyalty-to-a.xml)  
+
 ### [2010-07-11](/news/2010/07/11/index.md)
 
+##### attacks
 # Two bomb attacks in the Ugandan capital Kampala kill at least 64 people; the Somali militant group Al-Shabab, which has pledged loyalty to al-qaida, is suspected of being behind the attack. 
 
 At least 74 people were killed in the twin blasts that hit Kampala during the World Cup final, and police suspect Somali militants.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hzHMeIMsFmUA1bDTDUdeL_hCMbjAD9GT41300)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/07/2010711212520826984.html)

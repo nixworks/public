@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/12/iran-s-former-nuclear-negotiator-hassan-rouhani-enters-the-race-to-succeed-president-mahmoud-ahmadinejad-accusing-the-incumbent-of-needless.html)  [JSON](/news/2013/04/12/iran-s-former-nuclear-negotiator-hassan-rouhani-enters-the-race-to-succeed-president-mahmoud-ahmadinejad-accusing-the-incumbent-of-needless.json)  [XML](/news/2013/04/12/iran-s-former-nuclear-negotiator-hassan-rouhani-enters-the-race-to-succeed-president-mahmoud-ahmadinejad-accusing-the-incumbent-of-needless.xml)  
+
 ### [2013-04-12](/news/2013/04/12/index.md)
 
+##### Iran
 # Iran's former nuclear negotiator Hassan Rouhani enters the race to succeed President Mahmoud Ahmadinejad, accusing the incumbent of needlessly incurring crippling economic sanctions. 
 
 Hassan Rowhani, who resigned as nuclear negotiator in 2005, joins dozens looking to replace Mahmoud Ahmadinejad in June.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/04/20134126523423753.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/images/2013/4/12//2013412717985734_20.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/3/thai-prime-minister-abhisit-vejjajiva-proposes-to-hold-elections-on-14-november-to-end-the-political-crisis-in-the-country.html)  [JSON](/news/2010/05/3/thai-prime-minister-abhisit-vejjajiva-proposes-to-hold-elections-on-14-november-to-end-the-political-crisis-in-the-country.json)  [XML](/news/2010/05/3/thai-prime-minister-abhisit-vejjajiva-proposes-to-hold-elections-on-14-november-to-end-the-political-crisis-in-the-country.xml)  
+
 ### [2010-05-3](/news/2010/05/3/index.md)
 
+##### Thailand
 # Thai Prime Minister Abhisit Vejjajiva proposes to hold elections on 14 November to end the political crisis in the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/05/20105315544388219.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8658418.stm)

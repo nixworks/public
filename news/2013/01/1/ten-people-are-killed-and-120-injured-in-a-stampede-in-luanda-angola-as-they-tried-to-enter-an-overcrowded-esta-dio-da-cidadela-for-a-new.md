@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/1/ten-people-are-killed-and-120-injured-in-a-stampede-in-luanda-angola-as-they-tried-to-enter-an-overcrowded-esta-dio-da-cidadela-for-a-new.html)  [JSON](/news/2013/01/1/ten-people-are-killed-and-120-injured-in-a-stampede-in-luanda-angola-as-they-tried-to-enter-an-overcrowded-esta-dio-da-cidadela-for-a-new.json)  [XML](/news/2013/01/1/ten-people-are-killed-and-120-injured-in-a-stampede-in-luanda-angola-as-they-tried-to-enter-an-overcrowded-esta-dio-da-cidadela-for-a-new.xml)  
+
 ### [2013-01-1](/news/2013/01/1/index.md)
 
+##### Luanda
 # Ten people are killed and 120 injured in a stampede in Luanda, Angola, as they tried to enter an overcrowded Estadio da Cidadela for a New Year's Eve vigil. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5gg7AqaXONd_Na0OknrdjVdLxH4Zw)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-20885821)

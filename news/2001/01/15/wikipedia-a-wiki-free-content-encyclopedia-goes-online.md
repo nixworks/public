@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/01/15/wikipedia-a-wiki-free-content-encyclopedia-goes-online.html)  [JSON](/news/2001/01/15/wikipedia-a-wiki-free-content-encyclopedia-goes-online.json)  [XML](/news/2001/01/15/wikipedia-a-wiki-free-content-encyclopedia-goes-online.xml)  
+
 ### [2001-01-15](/news/2001/01/15/index.md)
 
+##### Wikipedia
 #  Wikipedia, a Wiki free content encyclopedia, goes online.
 
 

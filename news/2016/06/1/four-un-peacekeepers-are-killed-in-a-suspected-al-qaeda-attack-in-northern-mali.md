@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/1/four-un-peacekeepers-are-killed-in-a-suspected-a
 
 ### [2016-06-1](/news/2016/06/1/index.md)
 
+##### Northern Mali conflict
 # Four UN peacekeepers are killed in a suspected Al-Qaeda attack in northern Mali. 
 
 Al-Qaeda’s North Africa branch said it did battle with “crusader occupation forces” in northern Mali.

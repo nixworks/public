@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/03/23/the-prime-minister-of-portugal-josa-c-sa3crates-resigns-after-the-parliament-rejects-austerity-measures.html)  [JSON](/news/2011/03/23/the-prime-minister-of-portugal-josa-c-sa3crates-resigns-after-the-parliament-rejects-austerity-measures.json)  [XML](/news/2011/03/23/the-prime-minister-of-portugal-josa-c-sa3crates-resigns-after-the-parliament-rejects-austerity-measures.xml)  
+
 ### [2011-03-23](/news/2011/03/23/index.md)
 
+##### Prime Minister of Portugal
 # The Prime Minister of Portugal Jose Socrates resigns after the parliament rejects austerity measures. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The Star](http://www.thestar.com/business/article/959736--opposition-parties-defeat-portugal-s-austerity-measures)
+1. [AP via ''The Star](https://www.thestar.com/business/article/959736--opposition-parties-defeat-portugal-s-austerity-measures)
 2. [Reuters](http://in.reuters.com/article/2011/03/24/idINIndia-55834020110324?feedType=RSS&feedName=businessNews)
 2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20110324&t=2&i=370081194&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2011-03-24T083312Z_01_NOOTR_RTRMDNC_0_India-558340-1)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/10/voters-elect-tony-smith-as-speaker-of-the-australian-house-of-representatives-replacing-bronwyn-bishop-who-resigned-as-a-result-of-an-expens.html)  [JSON](/news/2015/08/10/voters-elect-tony-smith-as-speaker-of-the-australian-house-of-representatives-replacing-bronwyn-bishop-who-resigned-as-a-result-of-an-expens.json)  [XML](/news/2015/08/10/voters-elect-tony-smith-as-speaker-of-the-australian-house-of-representatives-replacing-bronwyn-bishop-who-resigned-as-a-result-of-an-expens.xml)  
+
 ### [2015-08-10](/news/2015/08/10/index.md)
 
+##### Tony Smith
 # Voters elect Tony Smith as Speaker of the Australian House of Representatives replacing Bronwyn Bishop who resigned as a result of an expenses scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/federal-politics/political-news/tony-smith-elected-new-speaker-following-bronwyn-bishop-resignation-20150809-giv9ln.html?eid=socialn:twi-13omn1677-edtrl-other:nnn-17/02/2014-edtrs_socialshare-all-nnn-nnn-vars-o&sa=D&usg=ALhdy28zsr6qiq)
 

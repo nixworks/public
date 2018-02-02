@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/28/guilliame-mbairessem-the-secretary-general-of-the-episcopal-conference-of-bishops-of-chad-joins-u-s-assistant-secretary-of-state-for-afr.html)  [JSON](/news/2006/04/28/guilliame-mbairessem-the-secretary-general-of-the-episcopal-conference-of-bishops-of-chad-joins-u-s-assistant-secretary-of-state-for-afr.json)  [XML](/news/2006/04/28/guilliame-mbairessem-the-secretary-general-of-the-episcopal-conference-of-bishops-of-chad-joins-u-s-assistant-secretary-of-state-for-afr.xml)  
+
 ### [2006-04-28](/news/2006/04/28/index.md)
 
+##### Guilliame Mbairessem
 #  Guilliame Mbairessem, the secretary-general of the Episcopal Conference of Bishops of Chad, joins U.S. Assistant Secretary of State for African Affairs Donald Yamamoto in calling for a delay of the upcoming presidential elections in Chad. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory?id=1902278&CMP=OTC-RSSFeeds0312)
 

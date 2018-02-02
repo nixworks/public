@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/9/six-cuban-national-ballet-dancers-arrive-in-the-american-city-of-miami-after-defecting-on-tour.html)  [JSON](/news/2014/06/9/six-cuban-national-ballet-dancers-arrive-in-the-american-city-of-miami-after-defecting-on-tour.json)  [XML](/news/2014/06/9/six-cuban-national-ballet-dancers-arrive-in-the-american-city-of-miami-after-defecting-on-tour.xml)  
+
 ### [2014-06-9](/news/2014/06/9/index.md)
 
+##### Cuban National Ballet
 # Six Cuban National Ballet dancers arrive in the American city of Miami after defecting on tour. 
 
 Six dancers from the Cuban National Ballet have arrived in Miami, after they defected while on tour in search of success outside a homeland where they say young artists have no future.
 
 
-### Source:
+### Sources:
 
 1. [NBC Miami](http://www.nbcmiami.com/news/local/Cuban-National-Ballet-Dancers-Arrive-in-Miami-After-Fleeing-While-on-Tour-262410961.html)
 1. [Cover Image](http://media.nbcmiami.com/images/1200*675/cubanballet.jpg)

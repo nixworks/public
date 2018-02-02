@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/4/prime-minister-of-italy-silvio-berlusconi-survives-a-no-confidence-vote.html)  [JSON](/news/2010/08/4/prime-minister-of-italy-silvio-berlusconi-survives-a-no-confidence-vote.json)  [XML](/news/2010/08/4/prime-minister-of-italy-silvio-berlusconi-survives-a-no-confidence-vote.xml)  
+
 ### [2010-08-4](/news/2010/08/4/index.md)
 
+##### Italian Prime Minister
 # Prime Minister of Italy Silvio Berlusconi survives a no-confidence vote. 
 
 Berlusconi wins no-confidence vote but result exposes weakness of ruling coalition.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/20108418420831957.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-10867004)

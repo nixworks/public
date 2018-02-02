@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/08/1/the-hsbc-bank-announces-plans-to-cut-5-000-jobs-now-and-25-000-by-2013.html)  [JSON](/news/2011/08/1/the-hsbc-bank-announces-plans-to-cut-5-000-jobs-now-and-25-000-by-2013.json)  [XML](/news/2011/08/1/the-hsbc-bank-announces-plans-to-cut-5-000-jobs-now-and-25-000-by-2013.xml)  
+
 ### [2011-08-1](/news/2011/08/1/index.md)
 
+##### HSBC
 # The HSBC bank announces plans to cut 5,000 jobs now and 25,000 by 2013. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/08/01/us-hsbc-idUSTRE7701HH20110801?feedType=RSS&feedName=businessNews&dlvrit=56943)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110801&t=2&i=470483890&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-08-01T142341Z_01_BTRE77013ZJ00_RTROPTP_0_HSBC)
+1. [Reuters](https://www.reuters.com/article/2011/08/01/us-hsbc-idUSTRE7701HH20110801?feedType=RSS&feedName=businessNews&dlvrit=56943)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20110801&t=2&i=470483890&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-08-01T142341Z_01_BTRE77013ZJ00_RTROPTP_0_HSBC)
 
 ### Related:
 

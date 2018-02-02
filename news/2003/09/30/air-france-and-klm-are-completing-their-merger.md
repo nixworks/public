@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/30/air-france-and-klm-are-completing-their-merger.html)  [JSON](/news/2003/09/30/air-france-and-klm-are-completing-their-merger.json)  [XML](/news/2003/09/30/air-france-and-klm-are-completing-their-merger.xml)  
+
 ### [2003-09-30](/news/2003/09/30/index.md)
 
+##### Air France
 #  Air France and KLM are completing their merger.
 
 

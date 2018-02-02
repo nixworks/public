@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/04/6/vandals-desecrate-148-muslim-graves-in-france-s-biggest-world-war-i-cemetery-at-notre-dame-de-lorette-outside-arras-in-northern-france.html)  [JSON](/news/2008/04/6/vandals-desecrate-148-muslim-graves-in-france-s-biggest-world-war-i-cemetery-at-notre-dame-de-lorette-outside-arras-in-northern-france.json)  [XML](/news/2008/04/6/vandals-desecrate-148-muslim-graves-in-france-s-biggest-world-war-i-cemetery-at-notre-dame-de-lorette-outside-arras-in-northern-france.xml)  
+
 ### [2008-04-6](/news/2008/04/6/index.md)
 
+##### Muslim
 #  Vandals desecrate 148 Muslim graves in France's biggest World War I cemetery at Notre Dame de Lorette outside Arras in northern France. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/newsOne/idUSL0632760920080406)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/newsOne/idUSL0632760920080406)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

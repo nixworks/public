@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/20/nato-reopens-informal-talks-with-russia-for-the
 
 ### [2016-04-20](/news/2016/04/20/index.md)
 
+##### NATO-Russia relations
 # NATO reopens informal talks with Russia for the first time in nearly two years. According to the Secretary General of NATO Jens Stoltenberg "NATO and Russia have profound and persistent disagreements, today's meeting did not change that." 
 
 NATO has reopened informal talks with Russia for the first time in nearly two years. Diplomats met for over 90 minutes to discuss Ukraine and the

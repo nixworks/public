@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/2/a-film-produced-for-the-10-10-campaign-in-which-a-teacher-explodes-two-of-her-students-is-withdrawn-due-to-complaints-and-an-apology-is-issu.html)  [JSON](/news/2010/10/2/a-film-produced-for-the-10-10-campaign-in-which-a-teacher-explodes-two-of-her-students-is-withdrawn-due-to-complaints-and-an-apology-is-issu.json)  [XML](/news/2010/10/2/a-film-produced-for-the-10-10-campaign-in-which-a-teacher-explodes-two-of-her-students-is-withdrawn-due-to-complaints-and-an-apology-is-issu.xml)  
+
 ### [2010-10-2](/news/2010/10/2/index.md)
 
+##### 10:10
 # A film produced for the 10:10 campaign in which a teacher explodes two of her students is withdrawn due to complaints and an apology is issued. 
 
 Environmental group 10:10 axe their campaign movie starring Gillian Anderson and David Ginola after complaints.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-11458726)
 2. [The Guardian](http://www.guardian.co.uk/environment/blog/2010/sep/30/10-10-no-pressure-film)

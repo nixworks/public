@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/11/asean-nations-and-china-fail-to-agree-on-a-code-of-conduct-designed-to-ease-tensions-over-territorial-disputes-in-the-south-china-sea.html)  [JSON](/news/2012/07/11/asean-nations-and-china-fail-to-agree-on-a-code-of-conduct-designed-to-ease-tensions-over-territorial-disputes-in-the-south-china-sea.json)  [XML](/news/2012/07/11/asean-nations-and-china-fail-to-agree-on-a-code-of-conduct-designed-to-ease-tensions-over-territorial-disputes-in-the-south-china-sea.xml)  
+
 ### [2012-07-11](/news/2012/07/11/index.md)
 
+##### ASEAN
 # ASEAN nations and China fail to agree on a code of conduct designed to ease tensions over territorial disputes in the South China Sea. 
 
 China and Southeast Asian nations argue over wording of code of conduct meant to ease tensions in South China Sea.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/07/20127117442958768.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/7/11/201271173817357734_20.jpg)

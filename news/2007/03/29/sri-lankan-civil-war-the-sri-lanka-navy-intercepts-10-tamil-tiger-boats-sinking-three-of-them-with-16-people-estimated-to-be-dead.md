@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/29/sri-lankan-civil-war-the-sri-lanka-navy-intercepts-10-tamil-tiger-boats-sinking-three-of-them-with-16-people-estimated-to-be-dead.html)  [JSON](/news/2007/03/29/sri-lankan-civil-war-the-sri-lanka-navy-intercepts-10-tamil-tiger-boats-sinking-three-of-them-with-16-people-estimated-to-be-dead.json)  [XML](/news/2007/03/29/sri-lankan-civil-war-the-sri-lanka-navy-intercepts-10-tamil-tiger-boats-sinking-three-of-them-with-16-people-estimated-to-be-dead.xml)  
+
 ### [2007-03-29](/news/2007/03/29/index.md)
 
+##### Sri Lankan Civil War
 #  Sri Lankan Civil War: The Sri Lanka Navy intercepts 10 Tamil Tiger boats sinking three of them with 16 people estimated to be dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via IHT](http://www.iht.com/articles/ap/2007/03/29/asia/AS-GEN-Sri-Lanka-Sea-Battle.php)
 

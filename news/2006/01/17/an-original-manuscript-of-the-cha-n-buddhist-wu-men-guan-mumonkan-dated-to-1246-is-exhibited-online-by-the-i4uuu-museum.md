@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/17/an-original-manuscript-of-the-cha-n-buddhist-wu-men-guan-mumonkan-dated-to-1246-is-exhibited-online-by-the-i4uuu-museum.html)  [JSON](/news/2006/01/17/an-original-manuscript-of-the-cha-n-buddhist-wu-men-guan-mumonkan-dated-to-1246-is-exhibited-online-by-the-i4uuu-museum.json)  [XML](/news/2006/01/17/an-original-manuscript-of-the-cha-n-buddhist-wu-men-guan-mumonkan-dated-to-1246-is-exhibited-online-by-the-i4uuu-museum.xml)  
+
 ### [2006-01-17](/news/2006/01/17/index.md)
 
+##### Chan
 #  An original manuscript of the Chan Buddhist "Wu Men Guan" ("Mumonkan") dated to 1246 is exhibited online by the i4uuu museum. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [eMediaWire](http://www.emediawire.com/releases/2006/1/emw333951.htm)
 

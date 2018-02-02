@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/05/12/david-steel-becomes-the-first-presiding-officer-speaker-of-the-modern-scottish-parliament.html)  [JSON](/news/1999/05/12/david-steel-becomes-the-first-presiding-officer-speaker-of-the-modern-scottish-parliament.json)  [XML](/news/1999/05/12/david-steel-becomes-the-first-presiding-officer-speaker-of-the-modern-scottish-parliament.xml)  
+
 ### [1999-05-12](/news/1999/05/12/index.md)
 
+##### David Steel
 #  David Steel becomes the first Presiding Officer (speaker) of the modern Scottish Parliament.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/2/china-blocks-access-to-such-websites-as-twitter-flickr-and-hotmail-ahead-of-the-anniversary-of-the-massacre-in-tiananmen-square-on-june.html)  [JSON](/news/2009/06/2/china-blocks-access-to-such-websites-as-twitter-flickr-and-hotmail-ahead-of-the-anniversary-of-the-massacre-in-tiananmen-square-on-june.json)  [XML](/news/2009/06/2/china-blocks-access-to-such-websites-as-twitter-flickr-and-hotmail-ahead-of-the-anniversary-of-the-massacre-in-tiananmen-square-on-june.xml)  
+
 ### [2009-06-2](/news/2009/06/2/index.md)
 
+##### China
 #  China blocks access to such websites as Twitter, Flickr, and Hotmail, ahead of the anniversary of the massacre in Tiananmen Square on June 4, 1989. 
 
 The Chinese government is trying to block access to social media, photo-sharing and many websites in an apparent effort to control discussion about the Tiananmen Square pro-democracy protests, bloodily suppressed by Chinese soldiers 20 years ago. 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8078538.stm)
 2. [CBC](http://www.cbc.ca/technology/story/2009/06/02/china-blocks-links.html)

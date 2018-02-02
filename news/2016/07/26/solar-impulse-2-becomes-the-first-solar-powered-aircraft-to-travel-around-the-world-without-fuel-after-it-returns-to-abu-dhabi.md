@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/26/solar-impulse-2-becomes-the-first-solar-powered
 
 ### [2016-07-26](/news/2016/07/26/index.md)
 
+##### Solar Impulse 2
 # "Solar Impulse 2" becomes the first solar-powered aircraft to travel around the world without fuel after it returns to Abu Dhabi. 
 
 Solar Impulse 2 has become the first sun-powered, fuel-free aircraft to circle the globe. Pilot Bertrand Piccard was at the controls as the aircraft returned to Abu Dhabi after completing a 42,000 kilometer journey.

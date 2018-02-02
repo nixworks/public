@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2015/12/29/chicago-illinois-police-officer-jason-van-dyke-enters-a-not-guilty-plea-regarding-the-charges-of-the-2014-shooting-death-of-laquan-mcdona.html)  [JSON](/news/2015/12/29/chicago-illinois-police-officer-jason-van-dyke-enters-a-not-guilty-plea-regarding-the-charges-of-the-2014-shooting-death-of-laquan-mcdona.json)  [XML](/news/2015/12/29/chicago-illinois-police-officer-jason-van-dyke-enters-a-not-guilty-plea-regarding-the-charges-of-the-2014-shooting-death-of-laquan-mcdona.xml)  
+
 ### [2015-12-29](/news/2015/12/29/index.md)
 
+##### Chicago
 # Chicago, Illinois police officer, Jason Van Dyke, enters a not guilty plea regarding the charges of the 2014 shooting death of Laquan McDonald. 
 
+The lawyer for the officer said his client looked forward to a chance to get his side of the story out at trial.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2015/12/30/us/laquan-mcdonald-shooting-chicago.html?hpw&rref=us&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well)
+1. [New York Times](https://www.nytimes.com/2015/12/30/us/laquan-mcdonald-shooting-chicago.html?hpw&rref=us&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well)
+1. [Cover Image](https://static01.nyt.com/images/2015/12/30/us/chicago-cop-video/chicago-cop-video-facebookJumbo.jpg)
 
 ### Related:
 

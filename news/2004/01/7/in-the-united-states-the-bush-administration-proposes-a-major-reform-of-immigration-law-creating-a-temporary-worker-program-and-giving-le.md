@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/7/in-the-united-states-the-bush-administration-proposes-a-major-reform-of-immigration-law-creating-a-temporary-worker-program-and-giving-le.html)  [JSON](/news/2004/01/7/in-the-united-states-the-bush-administration-proposes-a-major-reform-of-immigration-law-creating-a-temporary-worker-program-and-giving-le.json)  [XML](/news/2004/01/7/in-the-united-states-the-bush-administration-proposes-a-major-reform-of-immigration-law-creating-a-temporary-worker-program-and-giving-le.xml)  
+
 ### [2004-01-7](/news/2004/01/7/index.md)
 
+##### George W. Bush
 #  In the United States, the Bush administration proposes a major reform of immigration law, creating a temporary worker program and giving legal status to both illegal and foreign workers for renewable three-year periods.
 
 

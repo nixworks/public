@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/9/public-interest-group-harvardwatch-released-a-http-www-people-fas-harvard-edu-skomarov-harvardwatch-harken_memo_full-pdf-report-on-ha.html)  [JSON](/news/2002/10/9/public-interest-group-harvardwatch-released-a-http-www-people-fas-harvard-edu-skomarov-harvardwatch-harken_memo_full-pdf-report-on-ha.json)  [XML](/news/2002/10/9/public-interest-group-harvardwatch-released-a-http-www-people-fas-harvard-edu-skomarov-harvardwatch-harken_memo_full-pdf-report-on-ha.xml)  
+
 ### [2002-10-9](/news/2002/10/9/index.md)
 
+##### Harvardwatch
 #  Public Interest group Harvardwatch released a [http:--www.people.fas.harvard.edu-~skomarov-harvardwatch-harken_memo_full.pdf- report] on Harken's partnership with Harvard University.
 
 

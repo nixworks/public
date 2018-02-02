@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/9/in-china-eight-ethnic-uyghurs-and-one-han-are-executed-for-their-role-in-the-urumqi-riots-in-july-in-the-first-executions-to-take-place.html)  [JSON](/news/2009/11/9/in-china-eight-ethnic-uyghurs-and-one-han-are-executed-for-their-role-in-the-urumqi-riots-in-july-in-the-first-executions-to-take-place.json)  [XML](/news/2009/11/9/in-china-eight-ethnic-uyghurs-and-one-han-are-executed-for-their-role-in-the-urumqi-riots-in-july-in-the-first-executions-to-take-place.xml)  
+
 ### [2009-11-9](/news/2009/11/9/index.md)
 
+##### Uyghur
 #  In China eight ethnic Uyghurs and one Han are executed for their role in the Urumqi riots in July, in the first executions to take place. 
 
 Clashes between ethnic Uighurs and Han Chinese in western China left more than 200 dead.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/11/2009119115451405418.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8350360.stm)

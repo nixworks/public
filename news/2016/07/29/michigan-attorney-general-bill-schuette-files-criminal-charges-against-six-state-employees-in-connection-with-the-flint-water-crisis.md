@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/29/michigan-attorney-general-bill-schuette-files-c
 
 ### [2016-07-29](/news/2016/07/29/index.md)
 
+##### Michigan Attorney General
 # Michigan Attorney General Bill Schuette files criminal charges against six state employees in connection with the Flint water crisis. 
 
 Three Michigan Department of Environmental Quality and three state health department workers are charged with hiding unsafe lead levels.

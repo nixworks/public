@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/8/roberto-maroni-announces-that-an-electoral-pact-signed-between-his-lega-nord-party-and-silvio-berlusconi-s-people-of-freedom-party-explicitl.html)  [JSON](/news/2013/01/8/roberto-maroni-announces-that-an-electoral-pact-signed-between-his-lega-nord-party-and-silvio-berlusconi-s-people-of-freedom-party-explicitl.json)  [XML](/news/2013/01/8/roberto-maroni-announces-that-an-electoral-pact-signed-between-his-lega-nord-party-and-silvio-berlusconi-s-people-of-freedom-party-explicitl.xml)  
+
 ### [2013-01-8](/news/2013/01/8/index.md)
 
+##### Roberto Maroni
 # Roberto Maroni announces that an electoral pact signed between his Lega Nord party and Silvio Berlusconi's People of Freedom party explicitly rules out Berlusconi assuming the Prime Minister of Italy position again. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20932312)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65107000/jpg/_65107412_65107411.jpg)

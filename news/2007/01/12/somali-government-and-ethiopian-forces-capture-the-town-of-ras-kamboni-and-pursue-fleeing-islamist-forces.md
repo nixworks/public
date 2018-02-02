@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/12/somali-government-and-ethiopian-forces-capture-the-town-of-ras-kamboni-and-pursue-fleeing-islamist-forces.html)  [JSON](/news/2007/01/12/somali-government-and-ethiopian-forces-capture-the-town-of-ras-kamboni-and-pursue-fleeing-islamist-forces.json)  [XML](/news/2007/01/12/somali-government-and-ethiopian-forces-capture-the-town-of-ras-kamboni-and-pursue-fleeing-islamist-forces.xml)  
+
 ### [2007-01-12](/news/2007/01/12/index.md)
 
+##### capture
 #  Somali government and Ethiopian forces capture the town of Ras Kamboni, and pursue fleeing Islamist forces. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.chron.com/disp/story.mpl/ap/world/4466937.html)
 

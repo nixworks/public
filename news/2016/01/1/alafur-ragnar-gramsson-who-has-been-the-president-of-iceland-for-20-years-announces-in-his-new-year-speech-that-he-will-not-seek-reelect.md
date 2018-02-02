@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/1/alafur-ragnar-gramsson-who-has-been-the-presiden
 
 ### [2016-01-1](/news/2016/01/1/index.md)
 
+##### Olafur Ragnar Grimsson
 # Olafur Ragnar Grimsson, who has been the President of Iceland for 20 years, announces in his new-year speech that he will not seek reelection for a sixth term when presidential elections will be held in June. 
 
 

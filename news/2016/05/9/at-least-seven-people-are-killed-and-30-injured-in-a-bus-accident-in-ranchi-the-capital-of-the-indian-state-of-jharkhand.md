@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/9/at-least-seven-people-are-killed-and-30-injured-
 
 ### [2016-05-9](/news/2016/05/9/index.md)
 
+##### Ranchi
 # At least seven people are killed and 30 injured in a bus accident in Ranchi, the capital of the Indian state of Jharkhand. 
 
 Seven persons were today killed and 30 others injured after a bus overturned near Silli, near Ranchi, police said.

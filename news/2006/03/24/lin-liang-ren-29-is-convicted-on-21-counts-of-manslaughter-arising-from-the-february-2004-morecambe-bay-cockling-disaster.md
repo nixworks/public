@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/24/lin-liang-ren-29-is-convicted-on-21-counts-of-manslaughter-arising-from-the-february-2004-morecambe-bay-cockling-disaster.html)  [JSON](/news/2006/03/24/lin-liang-ren-29-is-convicted-on-21-counts-of-manslaughter-arising-from-the-february-2004-morecambe-bay-cockling-disaster.json)  [XML](/news/2006/03/24/lin-liang-ren-29-is-convicted-on-21-counts-of-manslaughter-arising-from-the-february-2004-morecambe-bay-cockling-disaster.xml)  
+
 ### [2006-03-24](/news/2006/03/24/index.md)
 
+##### Lin Liang Ren
 #  Lin Liang Ren, 29, is convicted on 21 counts of manslaughter arising from the February 2004 Morecambe Bay cockling disaster. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/england/lancashire/4832454.stm)
 

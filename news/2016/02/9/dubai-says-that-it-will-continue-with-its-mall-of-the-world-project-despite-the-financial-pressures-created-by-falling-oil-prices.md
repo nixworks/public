@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/9/dubai-says-that-it-will-continue-with-its-mall-o
 
 ### [2016-02-9](/news/2016/02/9/index.md)
 
+##### Dubai
 # Dubai says that it will continue with its Mall of the World project, despite the financial pressures created by falling oil prices. 
 
 Dubai said on Tuesday it would press ahead with plans to build the world’s largest shopping mall despite an economic slowdown looming in the region, but would assess market demand before proceeding with the project’s later stages.

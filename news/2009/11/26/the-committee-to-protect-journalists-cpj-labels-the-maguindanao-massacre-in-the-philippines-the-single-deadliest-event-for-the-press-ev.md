@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/26/the-committee-to-protect-journalists-cpj-labels-the-maguindanao-massacre-in-the-philippines-the-single-deadliest-event-for-the-press-ev.html)  [JSON](/news/2009/11/26/the-committee-to-protect-journalists-cpj-labels-the-maguindanao-massacre-in-the-philippines-the-single-deadliest-event-for-the-press-ev.json)  [XML](/news/2009/11/26/the-committee-to-protect-journalists-cpj-labels-the-maguindanao-massacre-in-the-philippines-the-single-deadliest-event-for-the-press-ev.xml)  
+
 ### [2009-11-26](/news/2009/11/26/index.md)
 
+##### Committee to Protect Journalists
 #  The Committee to Protect Journalists (CPJ) labels the Maguindanao massacre in the Philippines the "single deadliest event for the press" ever documented. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Philippine Daily Inquirer](http://politics.inquirer.net/view.php?db=1&article=20091126-238554)
 

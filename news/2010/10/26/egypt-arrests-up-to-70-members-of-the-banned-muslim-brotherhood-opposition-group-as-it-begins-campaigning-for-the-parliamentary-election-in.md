@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/26/egypt-arrests-up-to-70-members-of-the-banned-muslim-brotherhood-opposition-group-as-it-begins-campaigning-for-the-parliamentary-election-in.html)  [JSON](/news/2010/10/26/egypt-arrests-up-to-70-members-of-the-banned-muslim-brotherhood-opposition-group-as-it-begins-campaigning-for-the-parliamentary-election-in.json)  [XML](/news/2010/10/26/egypt-arrests-up-to-70-members-of-the-banned-muslim-brotherhood-opposition-group-as-it-begins-campaigning-for-the-parliamentary-election-in.xml)  
+
 ### [2010-10-26](/news/2010/10/26/index.md)
 
+##### Egypt
 # Egypt arrests up to 70 members of the banned Muslim Brotherhood opposition group as it begins campaigning for the parliamentary election in November. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/20101026155212903364.html)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE69P0AR20101026?sp=true)

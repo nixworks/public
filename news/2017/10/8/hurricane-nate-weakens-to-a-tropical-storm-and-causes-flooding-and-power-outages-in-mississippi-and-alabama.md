@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/10/8/hurricane-nate-weakens-to-a-tropical-storm-and-causes-flooding-and-power-outages-in-mississippi-and-alabama.html)  [JSON](/news/2017/10/8/hurricane-nate-weakens-to-a-tropical-storm-and-causes-flooding-and-power-outages-in-mississippi-and-alabama.json)  [XML](/news/2017/10/8/hurricane-nate-weakens-to-a-tropical-storm-and-causes-flooding-and-power-outages-in-mississippi-and-alabama.xml)  
+
 ### [2017-10-8](/news/2017/10/8/index.md)
 
+##### Hurricane Nate
 # Hurricane Nate weakens to a tropical storm, and causes flooding and power outages in Mississippi and Alabama. 
 
 Hurricane Nate sped through the Gulf Coast overnight as a Category 1 storm, knocking out power for more than 100,000 customers across the region and causing scattered flooding, but it was not as devastating as they expected and quickly lost force as it moved inland. The first hurricane to make...
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/US/nate-downgraded-tropical-storm-100k-power-mississippi-alabama/story?id=50351534)
 1. [Cover Image](http://a.abcnews.com/images/US/hurricane-nate-florida-2-ap-jt-171008_16x9_992.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/1/an-international-group-of-researchers-announce-in-nature-the-creation-of-a-digital-camera-that-can-mimic-the-compound-eyes-of-insects.html)  [JSON](/news/2013/05/1/an-international-group-of-researchers-announce-in-nature-the-creation-of-a-digital-camera-that-can-mimic-the-compound-eyes-of-insects.json)  [XML](/news/2013/05/1/an-international-group-of-researchers-announce-in-nature-the-creation-of-a-digital-camera-that-can-mimic-the-compound-eyes-of-insects.xml)  
+
 ### [2013-05-1](/news/2013/05/1/index.md)
 
+##### ''Nature''
 # An international group of researchers announce in "Nature" the creation of a digital camera that can mimic the compound eyes of insects. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/05/01/tech/innovation/bug-eye-camera/)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/13/according-to-the-washington-times-the-objectives-of-operation-iraqi-freedom-have-shifted-from-victory-in-iraq-to-destroying-remnants-of-f.html)  [JSON](/news/2003/04/13/according-to-the-washington-times-the-objectives-of-operation-iraqi-freedom-have-shifted-from-victory-in-iraq-to-destroying-remnants-of-f.json)  [XML](/news/2003/04/13/according-to-the-washington-times-the-objectives-of-operation-iraqi-freedom-have-shifted-from-victory-in-iraq-to-destroying-remnants-of-f.xml)  
+
 ### [2003-04-13](/news/2003/04/13/index.md)
 
+##### Washington Times
 #  According to the Washington Times, the objectives of Operation Iraqi Freedom have shifted from victory in Iraq to "destroying remnants of Fedayeen Saddam and other paramilitaries, and rebuilding Iraq to nurture a new democracy." The Times also suggests that the Operation is hunting for evidence of weapons of mass destruction and for members of the former regime. 
 
 

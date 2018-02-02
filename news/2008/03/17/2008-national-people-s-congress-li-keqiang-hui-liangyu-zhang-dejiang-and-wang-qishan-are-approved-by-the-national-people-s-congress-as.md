@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/17/2008-national-people-s-congress-li-keqiang-hui-liangyu-zhang-dejiang-and-wang-qishan-are-approved-by-the-national-people-s-congress-as.html)  [JSON](/news/2008/03/17/2008-national-people-s-congress-li-keqiang-hui-liangyu-zhang-dejiang-and-wang-qishan-are-approved-by-the-national-people-s-congress-as.json)  [XML](/news/2008/03/17/2008-national-people-s-congress-li-keqiang-hui-liangyu-zhang-dejiang-and-wang-qishan-are-approved-by-the-national-people-s-congress-as.xml)  
+
 ### [2008-03-17](/news/2008/03/17/index.md)
 
+##### 2008 National People's Congress
 #  2008 National People's Congress: Li Keqiang, Hui Liangyu, Zhang Dejiang, and Wang Qishan are approved by the National People's Congress as the new Vice-Premiers of the State Council. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [People's Daily](http://english.people.com.cn/90001/6375214.html)
 

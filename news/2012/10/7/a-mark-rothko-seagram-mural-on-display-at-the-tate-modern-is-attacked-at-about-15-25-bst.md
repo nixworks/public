@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/7/a-mark-rothko-seagram-mural-on-display-at-the-tate-modern-is-attacked-at-about-15-25-bst.html)  [JSON](/news/2012/10/7/a-mark-rothko-seagram-mural-on-display-at-the-tate-modern-is-attacked-at-about-15-25-bst.json)  [XML](/news/2012/10/7/a-mark-rothko-seagram-mural-on-display-at-the-tate-modern-is-attacked-at-about-15-25-bst.xml)  
+
 ### [2012-10-7](/news/2012/10/7/index.md)
 
+##### Mark Rothko
 # A Mark Rothko Seagram mural on display at the Tate Modern is attacked at about 15:25 BST. 
 
 A man who claims responsibility for defacing a painting by Mark Rothko at the Tate Modern tells the BBC it was &quot;not criminal damage&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-england-london-19866004)
 2. [The Guardian](http://www.guardian.co.uk/artanddesign/2012/oct/07/rothko-painting-defaced-tate-modern)

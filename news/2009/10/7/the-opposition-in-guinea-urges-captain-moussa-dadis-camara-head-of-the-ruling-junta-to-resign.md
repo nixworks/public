@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/10/7/the-opposition-in-guinea-urges-captain-moussa-dadis-camara-head-of-the-ruling-junta-to-resign.html)  [JSON](/news/2009/10/7/the-opposition-in-guinea-urges-captain-moussa-dadis-camara-head-of-the-ruling-junta-to-resign.json)  [XML](/news/2009/10/7/the-opposition-in-guinea-urges-captain-moussa-dadis-camara-head-of-the-ruling-junta-to-resign.xml)  
+
 ### [2009-10-7](/news/2009/10/7/index.md)
 
+##### Guinea
 #  The opposition in Guinea urges Captain Moussa Dadis Camara, head of the ruling junta, to resign. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601116&sid=aeoljh9OU6Rk)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601116&sid=aeoljh9OU6Rk)
 2. [CBC](http://www.cbc.ca/world/story/2009/10/07/guinea-camara-opposition-talks-junta.html)
 2. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)
 

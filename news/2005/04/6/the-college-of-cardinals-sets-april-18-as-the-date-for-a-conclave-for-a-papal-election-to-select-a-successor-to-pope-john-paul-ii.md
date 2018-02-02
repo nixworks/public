@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/6/the-college-of-cardinals-sets-april-18-as-the-date-for-a-conclave-for-a-papal-election-to-select-a-successor-to-pope-john-paul-ii.html)  [JSON](/news/2005/04/6/the-college-of-cardinals-sets-april-18-as-the-date-for-a-conclave-for-a-papal-election-to-select-a-successor-to-pope-john-paul-ii.json)  [XML](/news/2005/04/6/the-college-of-cardinals-sets-april-18-as-the-date-for-a-conclave-for-a-papal-election-to-select-a-successor-to-pope-john-paul-ii.xml)  
+
 ### [2005-04-6](/news/2005/04/6/index.md)
 
+##### College of Cardinals
 #  The College of Cardinals sets April 18 as the date for a conclave for a papal election to select a successor to Pope John Paul II. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2005/WORLD/europe/04/06/pope.main/index.html)
 

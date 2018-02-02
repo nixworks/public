@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/24/china-is-to-try-200-people-suspected-of-their-involvement-in-the-urumqi-riots-last-month.html)  [JSON](/news/2009/08/24/china-is-to-try-200-people-suspected-of-their-involvement-in-the-urumqi-riots-last-month.json)  [XML](/news/2009/08/24/china-is-to-try-200-people-suspected-of-their-involvement-in-the-urumqi-riots-last-month.xml)  
+
 ### [2009-08-24](/news/2009/08/24/index.md)
 
+##### China
 #  China is to try 200 people suspected of their involvement in the rmqi riots last month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5j794twyjYyjeOIdsKWwzCUhsgvUAD9A8UR7G2)
 2. [GBC](http://gbcghana.com/news/27677detail.html)

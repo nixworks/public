@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/14/two-bodyguards-of-former-palestinian-prime-minister-mahmoud-abbas-abu-mazen-are-killed-as-they-exchange-fire-with-masked-gunmen-as-abbas.html)  [JSON](/news/2004/11/14/two-bodyguards-of-former-palestinian-prime-minister-mahmoud-abbas-abu-mazen-are-killed-as-they-exchange-fire-with-masked-gunmen-as-abbas.json)  [XML](/news/2004/11/14/two-bodyguards-of-former-palestinian-prime-minister-mahmoud-abbas-abu-mazen-are-killed-as-they-exchange-fire-with-masked-gunmen-as-abbas.xml)  
+
 ### [2004-11-14](/news/2004/11/14/index.md)
 
+##### Palestinian
 #  Two bodyguards of former Palestinian prime minister Mahmoud Abbas (Abu Mazen) are killed as they exchange fire with masked Gunmen as Abbas pays a visit to a mourning tent for Yasser Arafat in Gaza City. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4011667.stm)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/501473.html)

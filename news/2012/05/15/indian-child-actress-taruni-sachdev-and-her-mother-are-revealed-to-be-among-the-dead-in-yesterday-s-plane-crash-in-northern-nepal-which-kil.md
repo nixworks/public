@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/15/indian-child-actress-taruni-sachdev-and-her-mother-are-revealed-to-be-among-the-dead-in-yesterday-s-plane-crash-in-northern-nepal-which-kil.html)  [JSON](/news/2012/05/15/indian-child-actress-taruni-sachdev-and-her-mother-are-revealed-to-be-among-the-dead-in-yesterday-s-plane-crash-in-northern-nepal-which-kil.json)  [XML](/news/2012/05/15/indian-child-actress-taruni-sachdev-and-her-mother-are-revealed-to-be-among-the-dead-in-yesterday-s-plane-crash-in-northern-nepal-which-kil.xml)  
+
 ### [2012-05-15](/news/2012/05/15/index.md)
 
+##### India
 # Indian child actress Taruni Sachdev and her mother are revealed to be among the dead in yesterday's plane crash in northern Nepal, which killed 15 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-18068761)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60242000/jpg/_60242943_tarunisachdev2.jpg)

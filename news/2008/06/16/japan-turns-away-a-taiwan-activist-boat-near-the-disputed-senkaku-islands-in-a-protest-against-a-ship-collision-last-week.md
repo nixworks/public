@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/16/japan-turns-away-a-taiwan-activist-boat-near-the-disputed-senkaku-islands-in-a-protest-against-a-ship-collision-last-week.html)  [JSON](/news/2008/06/16/japan-turns-away-a-taiwan-activist-boat-near-the-disputed-senkaku-islands-in-a-protest-against-a-ship-collision-last-week.json)  [XML](/news/2008/06/16/japan-turns-away-a-taiwan-activist-boat-near-the-disputed-senkaku-islands-in-a-protest-against-a-ship-collision-last-week.xml)  
+
 ### [2008-06-16](/news/2008/06/16/index.md)
 
+##### Japan
 #  Japan turns away a Taiwan activist boat near the disputed Senkaku Islands in a protest against a ship collision last week. 
 
 Japan on Monday turned back a Taiwan activist boat which approached a group of disputed islands in protest against a ship collision last week, the latest drama in a fast-escalating political dispute, officials said.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/worldNews/idINIndia-34077920080616)
 1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20080616&t=2&i=4774783&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2008-06-16T102834Z_01_NOOTR_RTRMDNC_0_India-340779-3)

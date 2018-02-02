@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/16/nine-people-are-injured-in-a-shooting-at-the-j-
 
 ### [2017-04-16](/news/2017/04/16/index.md)
 
+##### Columbus
 # Nine people are injured in a shooting at the J&R Party Hall after-hours club in Columbus, Ohio. Two are in critical condition. 
 
 

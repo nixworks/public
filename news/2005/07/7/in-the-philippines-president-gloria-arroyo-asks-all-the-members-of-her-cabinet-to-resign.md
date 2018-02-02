@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/7/in-the-philippines-president-gloria-arroyo-asks-all-the-members-of-her-cabinet-to-resign.html)  [JSON](/news/2005/07/7/in-the-philippines-president-gloria-arroyo-asks-all-the-members-of-her-cabinet-to-resign.json)  [XML](/news/2005/07/7/in-the-philippines-president-gloria-arroyo-asks-all-the-members-of-her-cabinet-to-resign.xml)  
+
 ### [2005-07-7](/news/2005/07/7/index.md)
 
+##### Philippines
 #  In the Philippines, president Gloria Arroyo asks all the members of her cabinet to resign. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/156736/1/.html)
 

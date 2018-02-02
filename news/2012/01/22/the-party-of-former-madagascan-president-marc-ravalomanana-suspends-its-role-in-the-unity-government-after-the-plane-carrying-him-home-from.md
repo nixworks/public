@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/22/the-party-of-former-madagascan-president-marc-ravalomanana-suspends-its-role-in-the-unity-government-after-the-plane-carrying-him-home-from.html)  [JSON](/news/2012/01/22/the-party-of-former-madagascan-president-marc-ravalomanana-suspends-its-role-in-the-unity-government-after-the-plane-carrying-him-home-from.json)  [XML](/news/2012/01/22/the-party-of-former-madagascan-president-marc-ravalomanana-suspends-its-role-in-the-unity-government-after-the-plane-carrying-him-home-from.xml)  
+
 ### [2012-01-22](/news/2012/01/22/index.md)
 
+##### Madagascar
 # The party of former Madagascan President Marc Ravalomanana suspends its role in the unity government after the plane carrying him home from exile was turned away. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://www.voanews.com/english/news/africa/Ravalomananas-Party-Suspends-Role-in-Madagascars-Government-137847048.html)
 

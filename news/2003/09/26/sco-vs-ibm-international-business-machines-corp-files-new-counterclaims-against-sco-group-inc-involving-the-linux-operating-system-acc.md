@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/26/sco-vs-ibm-international-business-machines-corp-files-new-counterclaims-against-sco-group-inc-involving-the-linux-operating-system-acc.html)  [JSON](/news/2003/09/26/sco-vs-ibm-international-business-machines-corp-files-new-counterclaims-against-sco-group-inc-involving-the-linux-operating-system-acc.json)  [XML](/news/2003/09/26/sco-vs-ibm-international-business-machines-corp-files-new-counterclaims-against-sco-group-inc-involving-the-linux-operating-system-acc.xml)  
+
 ### [2003-09-26](/news/2003/09/26/index.md)
 
+##### SCO v. IBM
 #  "SCO vs IBM": International Business Machines Corp. files new counterclaims against SCO Group Inc. involving the Linux operating system according to a memo sent to the IBM sales force.
 
 

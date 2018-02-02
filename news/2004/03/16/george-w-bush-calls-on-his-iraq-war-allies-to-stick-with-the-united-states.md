@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/03/16/george-w-bush-calls-on-his-iraq-war-allies-to-stick-with-the-united-states.html)  [JSON](/news/2004/03/16/george-w-bush-calls-on-his-iraq-war-allies-to-stick-with-the-united-states.json)  [XML](/news/2004/03/16/george-w-bush-calls-on-his-iraq-war-allies-to-stick-with-the-united-states.xml)  
+
 ### [2004-03-16](/news/2004/03/16/index.md)
 
+##### George W. Bush
 #  George W. Bush calls on his Iraq War allies to stick with the United States. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=4581464&section=news)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=4581464&section=news)
 
 ### Related:
 

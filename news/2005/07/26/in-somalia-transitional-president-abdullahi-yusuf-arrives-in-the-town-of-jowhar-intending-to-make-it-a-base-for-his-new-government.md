@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/26/in-somalia-transitional-president-abdullahi-yusuf-arrives-in-the-town-of-jowhar-intending-to-make-it-a-base-for-his-new-government.html)  [JSON](/news/2005/07/26/in-somalia-transitional-president-abdullahi-yusuf-arrives-in-the-town-of-jowhar-intending-to-make-it-a-base-for-his-new-government.json)  [XML](/news/2005/07/26/in-somalia-transitional-president-abdullahi-yusuf-arrives-in-the-town-of-jowhar-intending-to-make-it-a-base-for-his-new-government.xml)  
+
 ### [2005-07-26](/news/2005/07/26/index.md)
 
+##### Somalia
 #  In Somalia, transitional president Abdullahi Yusuf arrives in the town of Jowhar, intending to make it a base for his new government 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4719047.stm)
 

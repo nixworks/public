@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/4/a-ceremony-is-held-at-london-s-cenotaph-to-commemorate-the-90th-anniversary-of-the-united-kingdom-s-entry-into-the-first-world-war-four-of.html)  [JSON](/news/2004/08/4/a-ceremony-is-held-at-london-s-cenotaph-to-commemorate-the-90th-anniversary-of-the-united-kingdom-s-entry-into-the-first-world-war-four-of.json)  [XML](/news/2004/08/4/a-ceremony-is-held-at-london-s-cenotaph-to-commemorate-the-90th-anniversary-of-the-united-kingdom-s-entry-into-the-first-world-war-four-of.xml)  
+
 ### [2004-08-4](/news/2004/08/4/index.md)
 
+##### Cenotaph
 #  A ceremony is held at London's Cenotaph to commemorate the 90th anniversary of the United Kingdom's entry into the First World War. Four of the 23 surviving British veterans of the war, aged between 103 and 108, are well enough to attend. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/3532584.stm)
 

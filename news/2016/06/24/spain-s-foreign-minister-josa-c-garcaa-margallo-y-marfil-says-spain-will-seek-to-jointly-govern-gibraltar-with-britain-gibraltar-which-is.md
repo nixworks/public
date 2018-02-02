@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/24/spain-s-foreign-minister-josa-c-garcaa-margallo
 
 ### [2016-06-24](/news/2016/06/24/index.md)
 
+##### Brexit impact
 # Spain's Foreign Minister Jose Garcia-Margallo y Marfil says Spain will seek to jointly govern Gibraltar with Britain. Gibraltar, which is at the southern end of the Iberian peninsula bordering Spain, overwhelmingly voted in favour of Britain remaining in the EU. 
 
 Spain will seek to jointly govern Gibraltar with Britain following the British vote to leave the European Union, acting foreign minister Jose Manuel Garcia-Margallo said on Friday.

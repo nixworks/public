@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/27/the-death-toll-from-flash-floods-in-the-philippines-caused-by-tropical-storm-washi-reaches-1-500-per-some-sources-but-the-national-disaster.html)  [JSON](/news/2011/12/27/the-death-toll-from-flash-floods-in-the-philippines-caused-by-tropical-storm-washi-reaches-1-500-per-some-sources-but-the-national-disaster.json)  [XML](/news/2011/12/27/the-death-toll-from-flash-floods-in-the-philippines-caused-by-tropical-storm-washi-reaches-1-500-per-some-sources-but-the-national-disaster.xml)  
+
 ### [2011-12-27](/news/2011/12/27/index.md)
 
+##### flash flood
 # The death toll from flash floods in the Philippines caused by Tropical Storm Washi reaches 1,500 per some sources, but the National Disaster Risk Reduction and Management Council currently puts the number lower.
 
 The death toll from flash floods that swept away entire villages in the southern Philippines has climbed to nearly 1500, as authorities widen their search for bodies.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/philippines-death-toll-hits-1500-20111227-1pb3e.html)
 2. [NDRRMC](http://www.ndrrmc.gov.ph/attachments/article/358/NDRRMC%20UPDATE%20Sitrep%20No.21%20re%20Effects%20of%20SENDONG%20as%20of%2028Dec2011,%200600AM.pdf)
@@ -17,4 +21,4 @@ The death toll from flash floods that swept away entire villages in the southern
 2. [The death toll from Tropical Storm Washi in the Philippines rises to nearly 1,000. ](/news/2011/12/20/the-death-toll-from-tropical-storm-washi-in-the-philippines-rises-to-nearly-1-000.md) _Context: Philippines, Tropical Storm Washi_
 3. [The Philippines Red Cross estimates that the death toll from the floods caused by Tropical Storm Washi has risen to 521. ](/news/2011/12/18/the-philippines-red-cross-estimates-that-the-death-toll-from-the-floods-caused-by-tropical-storm-washi-has-risen-to-521.md) _Context: Philippines, Tropical Storm Washi_
 4. [Flash floods triggered by Tropical Storm Washi kill at least 400 people in the Philippines with hundreds more missing. ](/news/2011/12/17/flash-floods-triggered-by-tropical-storm-washi-kill-at-least-400-people-in-the-philippines-with-hundreds-more-missing.md) _Context: Philippines, Tropical Storm Washi_
-5. [The Philippines suspends trade relations with North Korea to comply with a recent United Nations Security Council resolution over its repeated missile tests. ](/news/2017/09/8/the-philippines-suspends-trade-relations-with-north-korea-to-comply-with-a-recent-united-nations-security-council-resolution-over-its-repeat.md) _Context: Philippines_
+5. [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md) _Context: Philippines_

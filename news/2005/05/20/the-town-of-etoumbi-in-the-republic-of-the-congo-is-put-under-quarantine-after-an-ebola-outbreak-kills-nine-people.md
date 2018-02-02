@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/20/the-town-of-etoumbi-in-the-republic-of-the-congo-is-put-under-quarantine-after-an-ebola-outbreak-kills-nine-people.html)  [JSON](/news/2005/05/20/the-town-of-etoumbi-in-the-republic-of-the-congo-is-put-under-quarantine-after-an-ebola-outbreak-kills-nine-people.json)  [XML](/news/2005/05/20/the-town-of-etoumbi-in-the-republic-of-the-congo-is-put-under-quarantine-after-an-ebola-outbreak-kills-nine-people.xml)  
+
 ### [2005-05-20](/news/2005/05/20/index.md)
 
+##### Etoumbi
 #  The town of Etoumbi in the Republic of the Congo is put under quarantine after an Ebola outbreak kills nine people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4565123.stm)
 

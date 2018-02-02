@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/12/the-23rd-consecutive-season-of-american-cartoon-the-simpsons-is-announced.html)  [JSON](/news/2010/11/12/the-23rd-consecutive-season-of-american-cartoon-the-simpsons-is-announced.json)  [XML](/news/2010/11/12/the-23rd-consecutive-season-of-american-cartoon-the-simpsons-is-announced.xml)  
+
 ### [2010-11-12](/news/2010/11/12/index.md)
 
+##### The Simpsons
 # The 23rd consecutive season of American cartoon "The Simpsons" is announced. 
 
 Long-running US cartoon The Simpsons is to return for its 23rd series, Fox Television announces.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11741823)
 2. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2010/11/12/3064676.htm)

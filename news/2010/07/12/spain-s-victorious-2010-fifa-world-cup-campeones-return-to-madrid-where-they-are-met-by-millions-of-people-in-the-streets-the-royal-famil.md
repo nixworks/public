@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/12/spain-s-victorious-2010-fifa-world-cup-campeones-return-to-madrid-where-they-are-met-by-millions-of-people-in-the-streets-the-royal-famil.html)  [JSON](/news/2010/07/12/spain-s-victorious-2010-fifa-world-cup-campeones-return-to-madrid-where-they-are-met-by-millions-of-people-in-the-streets-the-royal-famil.json)  [XML](/news/2010/07/12/spain-s-victorious-2010-fifa-world-cup-campeones-return-to-madrid-where-they-are-met-by-millions-of-people-in-the-streets-the-royal-famil.xml)  
+
 ### [2010-07-12](/news/2010/07/12/index.md)
 
+##### Spain
 # Spain's victorious 2010 FIFA World Cup "campeones" return to Madrid where they are met by millions of people in the streets, the royal family and politicians. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8811424.stm)
 2. [The Australian](http://www.theaustralian.com.au/sport/world-cup-2010/world-cup-winners-spain-return-home-to-rapturous-welcome/story-fn4l4sfy-1225891068973)

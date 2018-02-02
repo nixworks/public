@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/14/in-an-unexpected-move-sudanese-president-omar-al-bashir-replaces-salah-gosh-his-country-s-chief-of-security-and-intelligence-since-the-mi.html)  [JSON](/news/2009/08/14/in-an-unexpected-move-sudanese-president-omar-al-bashir-replaces-salah-gosh-his-country-s-chief-of-security-and-intelligence-since-the-mi.json)  [XML](/news/2009/08/14/in-an-unexpected-move-sudanese-president-omar-al-bashir-replaces-salah-gosh-his-country-s-chief-of-security-and-intelligence-since-the-mi.xml)  
+
 ### [2009-08-14](/news/2009/08/14/index.md)
 
+##### Sudan
 #  In an unexpected move, Sudanese President Omar al-Bashir replaces Salah Gosh, his country's chief of security and intelligence since the mid-1990s, with General Mohamed Atta al-Mawla. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8200816.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/1/the-new-belarusian-ruble-replaces-the-old-belaru
 
 ### [2016-07-1](/news/2016/07/1/index.md)
 
+##### new Belarusian ruble
 #  The new Belarusian ruble replaces the old Belarusian ruble during redenomination. 
 
 

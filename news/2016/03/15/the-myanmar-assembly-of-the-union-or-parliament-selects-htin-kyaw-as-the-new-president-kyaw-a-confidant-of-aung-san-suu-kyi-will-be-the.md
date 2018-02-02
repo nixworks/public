@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/15/the-myanmar-assembly-of-the-union-or-parliament
 
 ### [2016-03-15](/news/2016/03/15/index.md)
 
+##### Myanmar
 # The Myanmar Assembly of the Union, or parliament, selects Htin Kyaw as the new President. Kyaw, a confidant of Aung San Suu Kyi, will be the first civilian president in decades. Suu Kyi, a Nobel Peace Prize recipient, is constitutionally barred from the office. 
 
 The new president is to take office on April 1.

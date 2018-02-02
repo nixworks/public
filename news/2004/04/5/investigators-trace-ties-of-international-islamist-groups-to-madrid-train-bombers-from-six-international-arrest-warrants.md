@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/5/investigators-trace-ties-of-international-islamist-groups-to-madrid-train-bombers-from-six-international-arrest-warrants.html)  [JSON](/news/2004/04/5/investigators-trace-ties-of-international-islamist-groups-to-madrid-train-bombers-from-six-international-arrest-warrants.json)  [XML](/news/2004/04/5/investigators-trace-ties-of-international-islamist-groups-to-madrid-train-bombers-from-six-international-arrest-warrants.xml)  
+
 ### [2004-04-5](/news/2004/04/5/index.md)
 
+##### Islamist
 #  Investigators trace ties of international Islamist groups to Madrid train bombers from six international arrest warrants. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.alertnet.org/thenews/newsdesk/L04169340.htm)
 

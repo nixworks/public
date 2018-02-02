@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/12/republican-speaker-john-boehner-forcibly-responds-to-attacks-by-previously-supportive-conservative-groups-due-to-their-opposition-to-a-bipa.html)  [JSON](/news/2013/12/12/republican-speaker-john-boehner-forcibly-responds-to-attacks-by-previously-supportive-conservative-groups-due-to-their-opposition-to-a-bipa.json)  [XML](/news/2013/12/12/republican-speaker-john-boehner-forcibly-responds-to-attacks-by-previously-supportive-conservative-groups-due-to-their-opposition-to-a-bipa.xml)  
+
 ### [2013-12-12](/news/2013/12/12/index.md)
 
+##### Republican
 # Republican Speaker John Boehner forcibly responds to attacks by previously-supportive conservative groups, due to their opposition to a bipartisan budget. 
 
 Reflecting confidence in the budget deal, House Speaker John Boehner lets loose on hard-line foes of the bipartisan agreement.
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/nation/la-na-congress-budget-20131212,0,3360695.story#axzz2n0z8xNrL)
 1. [Cover Image](http://www.trbimg.com/img-52a9d82e/turbine/la-na-congress-budget-20131212)

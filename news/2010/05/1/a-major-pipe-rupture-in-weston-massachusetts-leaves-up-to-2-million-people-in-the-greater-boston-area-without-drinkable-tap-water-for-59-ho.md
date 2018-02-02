@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/1/a-major-pipe-rupture-in-weston-massachusetts-leaves-up-to-2-million-people-in-the-greater-boston-area-without-drinkable-tap-water-for-59-ho.html)  [JSON](/news/2010/05/1/a-major-pipe-rupture-in-weston-massachusetts-leaves-up-to-2-million-people-in-the-greater-boston-area-without-drinkable-tap-water-for-59-ho.json)  [XML](/news/2010/05/1/a-major-pipe-rupture-in-weston-massachusetts-leaves-up-to-2-million-people-in-the-greater-boston-area-without-drinkable-tap-water-for-59-ho.xml)  
+
 ### [2010-05-1](/news/2010/05/1/index.md)
 
+##### Boston
 # A major pipe rupture in Weston, Massachusetts leaves up to 2 million people in the Greater Boston area without drinkable tap water for 59 hours. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Boston Globe](http://www.boston.com/news/local/massachusetts/articles/2010/05/05/flow_restored_mwra_hunting_for_answers/)
 

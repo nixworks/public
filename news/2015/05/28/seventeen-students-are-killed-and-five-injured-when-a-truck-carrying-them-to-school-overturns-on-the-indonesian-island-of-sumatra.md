@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/28/seventeen-students-are-killed-and-five-injured-when-a-truck-carrying-them-to-school-overturns-on-the-indonesian-island-of-sumatra.html)  [JSON](/news/2015/05/28/seventeen-students-are-killed-and-five-injured-when-a-truck-carrying-them-to-school-overturns-on-the-indonesian-island-of-sumatra.json)  [XML](/news/2015/05/28/seventeen-students-are-killed-and-five-injured-when-a-truck-carrying-them-to-school-overturns-on-the-indonesian-island-of-sumatra.xml)  
+
 ### [2015-05-28](/news/2015/05/28/index.md)
 
+##### Indonesia
 # Seventeen students are killed and five injured when a truck carrying them to school overturns on the Indonesian island of Sumatra. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Abram Online](http://english.ahram.org.eg/News/131348.aspx)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/10/a-may-5-date-is-set-for-the-2013-malaysian-general-election.html)  [JSON](/news/2013/04/10/a-may-5-date-is-set-for-the-2013-malaysian-general-election.json)  [XML](/news/2013/04/10/a-may-5-date-is-set-for-the-2013-malaysian-general-election.xml)  
+
 ### [2013-04-10](/news/2013/04/10/index.md)
 
+##### May 5
 # A May 5 date is set for the 2013 Malaysian general election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''The Australian](http://www.theaustralian.com.au/news/breaking-news/landmark-malaysian-election-set-for-may-5/story-fn3dxix6-1226617458751)
 

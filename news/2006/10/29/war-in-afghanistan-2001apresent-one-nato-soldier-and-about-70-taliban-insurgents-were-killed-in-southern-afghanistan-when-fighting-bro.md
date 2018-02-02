@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2006/10/29/war-in-afghanistan-2001apresent-one-nato-soldier-and-about-70-taliban-insurgents-were-killed-in-southern-afghanistan-when-fighting-bro.html)  [JSON](/news/2006/10/29/war-in-afghanistan-2001apresent-one-nato-soldier-and-about-70-taliban-insurgents-were-killed-in-southern-afghanistan-when-fighting-bro.json)  [XML](/news/2006/10/29/war-in-afghanistan-2001apresent-one-nato-soldier-and-about-70-taliban-insurgents-were-killed-in-southern-afghanistan-when-fighting-bro.xml)  
+
 ### [2006-10-29](/news/2006/10/29/index.md)
 
+##### War in Afghanistan (2001-present)
 #  War in Afghanistan (2001-present): One NATO soldier and about 70 Taliban insurgents were killed in southern Afghanistan when fighting broke out between insurgents and Afghan troops and NATO's International Security Assistance Force (ISAF), officials said. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/WORLD/americas/10/29/afghan.fighting/index.html)
+
+### Changes:
+
+1. [ War in Afghanistan (2001-present): One NATO soldier and about 70 Taliban insurgents were killed in southern Afghanistan when fighting broke out between insurgents and Afghan troops and NATO's International Security Assistance Force (ISAF), officials said. ](/news/2006/10/29/war-in-afghanistan-2001-present-one-nato-soldier-and-about-70-taliban-insurgents-were-killed-in-southern-afghanistan-when-fighting-bro.md) _2017-08-27 03:18:34 (First version)_
+1. [ War in Afghanistan (2001-present): One NATO soldier and about 70 Taliban insurgents were killed in southern Afghanistan when fighting broke out between insurgents and Afghan troops and NATO's International Security Assistance Force (ISAF), officials said. ](/news/2006/10/29/war-in-afghanistan-2001apresent-one-nato-soldier-and-about-70-taliban-insurgents-were-killed-in-southern-afghanistan-when-fighting-bro.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [Five NATO International Security Assistance Force troops are killed in fighting. ](/news/2014/06/9/five-nato-international-security-assistance-force-troops-are-killed-in-fighting.md) _Context: Afghanistan, International Security Assistance Force, NATO_
 4. [Four members of the NATO-led International Security Assistance Force are killed in Afghanistan's Kapisa province. ](/news/2012/06/9/four-members-of-the-nato-led-international-security-assistance-force-are-killed-in-afghanistan-s-kapisa-province.md) _Context: Afghanistan, International Security Assistance Force, NATO_
 5. [Two members of the NATO International Security Assistance Force are killed in southern Afghanistan, one of whom is believed to be a member of the Afghan Army. ](/news/2012/03/1/two-members-of-the-nato-international-security-assistance-force-are-killed-in-southern-afghanistan-one-of-whom-is-believed-to-be-a-member-o.md) _Context: Afghanistan, International Security Assistance Force, NATO_
-
-### Changes:
-
-1. [ War in Afghanistan (2001-present): One NATO soldier and about 70 Taliban insurgents were killed in southern Afghanistan when fighting broke out between insurgents and Afghan troops and NATO's International Security Assistance Force (ISAF), officials said. ](/news/2006/10/29/war-in-afghanistan-2001-present-one-nato-soldier-and-about-70-taliban-insurgents-were-killed-in-southern-afghanistan-when-fighting-bro.md) _2017-08-27 03:18:34 (First version)_
-1. [ War in Afghanistan (2001-present): One NATO soldier and about 70 Taliban insurgents were killed in southern Afghanistan when fighting broke out between insurgents and Afghan troops and NATO's International Security Assistance Force (ISAF), officials said. ](/news/2006/10/29/war-in-afghanistan-2001apresent-one-nato-soldier-and-about-70-taliban-insurgents-were-killed-in-southern-afghanistan-when-fighting-bro.md) _(Current version)_

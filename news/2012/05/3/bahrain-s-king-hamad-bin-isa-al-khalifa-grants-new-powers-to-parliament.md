@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/3/bahrain-s-king-hamad-bin-isa-al-khalifa-grants-new-powers-to-parliament.html)  [JSON](/news/2012/05/3/bahrain-s-king-hamad-bin-isa-al-khalifa-grants-new-powers-to-parliament.json)  [XML](/news/2012/05/3/bahrain-s-king-hamad-bin-isa-al-khalifa-grants-new-powers-to-parliament.xml)  
+
 ### [2012-05-3](/news/2012/05/3/index.md)
 
+##### Bahrain
 # Bahrain's King Hamad bin Isa Al Khalifa grants new powers to parliament. 
 
 Monarch gives extra powers to parliament despite criticism from opposition which says new measures are only symbolic.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/201253171926431856.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/20/201232011314997734_20.jpg)

@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2013/10/20/cattle-raiders-believed-to-be-led-by-david-yau-yau-attack-villages-in-jonglei-state-leaving-at-least-78-dead.html)  [JSON](/news/2013/10/20/cattle-raiders-believed-to-be-led-by-david-yau-yau-attack-villages-in-jonglei-state-leaving-at-least-78-dead.json)  [XML](/news/2013/10/20/cattle-raiders-believed-to-be-led-by-david-yau-yau-attack-villages-in-jonglei-state-leaving-at-least-78-dead.xml)  
+
 ### [2013-10-20](/news/2013/10/20/index.md)
 
+##### David Yau Yau
 # Cattle raiders believed to be led by David Yau Yau attack villages in Jonglei state, leaving at least 78 dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-24608897)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/70605000/jpg/_70605731_splaafp.jpg)
+
+### Changes:
+
+1. [South Sudan internal conflict (2011-present):Cattle raiders believed to be led by David Yau Yau attack villages in Jonglei state, leaving at least 78 dead. ](/news/2013/10/20/south-sudan-internal-conflict-2011apresent-pcattle-raiders-believed-to-be-led-by-david-yau-yau-attack-villages-in-jonglei-state-leaving.md) _2017-08-25 03:39:24 (First version)_
+2. [South Sudan internal conflict (2011-present):: Cattle raiders believed to be led by David Yau Yau attack villages in Jonglei state, leaving at least 78 dead. ](/news/2013/10/20/south-sudan-internal-conflict-2011-present-cattle-raiders-believed-to-be-led-by-david-yau-yau-attack-villages-in-jonglei-state-leavin.md) _2017-08-27 03:39:42 (Update)_
+2. [Cattle raiders believed to be led by David Yau Yau attack villages in Jonglei state, leaving at least 78 dead. ](/news/2013/10/20/cattle-raiders-believed-to-be-led-by-david-yau-yau-attack-villages-in-jonglei-state-leaving-at-least-78-dead.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@
 3. [A Russian Mi-8 helicopter working for the United Nations Mission in South Sudan (UNMISS) is shot down and crashes near Likuangole in the South Sudanese state of Jonglei. ](/news/2012/12/21/a-russian-mi-8-helicopter-working-for-the-united-nations-mission-in-south-sudan-unmiss-is-shot-down-and-crashes-near-likuangole-in-the-sou.md) _Context: Jonglei_
 4. [At least 16 people have been killed the Southern Sudanese state of Jonglei, breaking a ceasefire agreed last month. ](/news/2011/02/10/at-least-16-people-have-been-killed-the-southern-sudanese-state-of-jonglei-breaking-a-ceasefire-agreed-last-month.md) _Context: Jonglei_
 5. [3 people killed in Pibor county of Jonglei state of Sudan. ](/news/2010/10/4/3-people-killed-in-pibor-county-of-jonglei-state-of-sudan.md) _Context: Jonglei_
-
-### Changes:
-
-1. [South Sudan internal conflict (2011-present):Cattle raiders believed to be led by David Yau Yau attack villages in Jonglei state, leaving at least 78 dead. ](/news/2013/10/20/south-sudan-internal-conflict-2011apresent-pcattle-raiders-believed-to-be-led-by-david-yau-yau-attack-villages-in-jonglei-state-leaving.md) _2017-08-25 03:39:24 (First version)_
-2. [South Sudan internal conflict (2011-present):: Cattle raiders believed to be led by David Yau Yau attack villages in Jonglei state, leaving at least 78 dead. ](/news/2013/10/20/south-sudan-internal-conflict-2011-present-cattle-raiders-believed-to-be-led-by-david-yau-yau-attack-villages-in-jonglei-state-leavin.md) _2017-08-27 03:39:42 (Update)_
-2. [Cattle raiders believed to be led by David Yau Yau attack villages in Jonglei state, leaving at least 78 dead. ](/news/2013/10/20/cattle-raiders-believed-to-be-led-by-david-yau-yau-attack-villages-in-jonglei-state-leaving-at-least-78-dead.md) _(Current version)_

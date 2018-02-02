@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/22/republican-candidate-ted-cruz-fires-campaign-sp
 
 ### [2016-02-22](/news/2016/02/22/index.md)
 
+##### 2016 U.S. presidential election
 # Republican candidate Ted Cruz fires campaign spokesman Rick Tyler who posted incorrect information on Twitter about candidate Marco Rubio. 
 
 Republican presidential candidate Ted Cruz said Monday he’s fired campaign communications director Rick Tyler, after his top spokesman promoted a video that wrongly depicted Florida Sen. Marco Rubio as trash-talking the Bible.

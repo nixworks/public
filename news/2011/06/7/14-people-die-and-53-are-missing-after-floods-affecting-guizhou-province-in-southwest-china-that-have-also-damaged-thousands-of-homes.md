@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/7/14-people-die-and-53-are-missing-after-floods-affecting-guizhou-province-in-southwest-china-that-have-also-damaged-thousands-of-homes.html)  [JSON](/news/2011/06/7/14-people-die-and-53-are-missing-after-floods-affecting-guizhou-province-in-southwest-china-that-have-also-damaged-thousands-of-homes.json)  [XML](/news/2011/06/7/14-people-die-and-53-are-missing-after-floods-affecting-guizhou-province-in-southwest-china-that-have-also-damaged-thousands-of-homes.xml)  
+
 ### [2011-06-7](/news/2011/06/7/index.md)
 
+##### Guizhou
 # 14 people die and 53 are missing after floods affecting Guizhou province in southwest China that have also damaged thousands of homes. 
 
 Floods that have ravaged parts of China have left 14 people dead and 53 people missing, government officials said Tuesday.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/06/07/china.floods/index.html)
 1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/06/07/china.floods/tzvids.china.floods.jpg)

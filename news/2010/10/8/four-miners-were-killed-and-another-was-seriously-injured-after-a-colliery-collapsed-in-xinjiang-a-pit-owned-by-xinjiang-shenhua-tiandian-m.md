@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/8/four-miners-were-killed-and-another-was-seriously-injured-after-a-colliery-collapsed-in-xinjiang-a-pit-owned-by-xinjiang-shenhua-tiandian-m.html)  [JSON](/news/2010/10/8/four-miners-were-killed-and-another-was-seriously-injured-after-a-colliery-collapsed-in-xinjiang-a-pit-owned-by-xinjiang-shenhua-tiandian-m.json)  [XML](/news/2010/10/8/four-miners-were-killed-and-another-was-seriously-injured-after-a-colliery-collapsed-in-xinjiang-a-pit-owned-by-xinjiang-shenhua-tiandian-m.xml)  
+
 ### [2010-10-8](/news/2010/10/8/index.md)
 
+##### Xinjiang
 # Four miners were killed and another was seriously injured after a colliery collapsed in Xinjiang. A pit owned by Xinjiang Shenhua Tiandian Mining in Hutubi county in Changji Hui Autonomous Prefecture caved in. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Global Times](http://china.globaltimes.cn/society/2010-10/580656.html)
 

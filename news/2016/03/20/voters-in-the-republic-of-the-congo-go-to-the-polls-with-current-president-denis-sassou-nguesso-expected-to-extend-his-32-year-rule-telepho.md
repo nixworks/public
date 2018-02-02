@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/20/voters-in-the-republic-of-the-congo-go-to-the-p
 
 ### [2016-03-20](/news/2016/03/20/index.md)
 
+##### Republic of the Congo presidential election, 2016
 # Voters in the Republic of the Congo go to the polls with current President Denis Sassou Nguesso expected to extend his 32-year rule. Telephone, internet and SMS services have been shut down in what has been called a "media blackout." 
 
 Telephone, internet and SMS services shut down for 48 hours for &quot;reasons of security&quot; as Congo heads to the polls.

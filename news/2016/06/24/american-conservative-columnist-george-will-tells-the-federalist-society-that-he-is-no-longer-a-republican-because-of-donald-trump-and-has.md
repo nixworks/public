@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/24/american-conservative-columnist-george-will-tel
 
 ### [2016-06-24](/news/2016/06/24/index.md)
 
+##### 2016 U.S. presidential election
 # American conservative columnist George Will tells the Federalist Society that he is no longer a Republican because of Donald Trump, and has officially changed his Maryland voter registration from the GOP to "unaffiliated". 
 
 &ldquo;This is not my party.&rdquo;

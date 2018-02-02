@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/22/a-brazilian-space-agency-vls-1-space-rocket-explodes-on-its-launch-pad-at-alcac-ntara-space-base-killing-at-least-21-people-it-is-thought.html)  [JSON](/news/2003/08/22/a-brazilian-space-agency-vls-1-space-rocket-explodes-on-its-launch-pad-at-alcac-ntara-space-base-killing-at-least-21-people-it-is-thought.json)  [XML](/news/2003/08/22/a-brazilian-space-agency-vls-1-space-rocket-explodes-on-its-launch-pad-at-alcac-ntara-space-base-killing-at-least-21-people-it-is-thought.xml)  
+
 ### [2003-08-22](/news/2003/08/22/index.md)
 
+##### Brazilian Space Agency
 #  A Brazilian Space Agency VLS-1 space rocket explodes on its launch-pad at Alcantara space base, killing at least 21 people. It is thought that one of the rocket's four motors caught fire; the subsequent explosion destroyed the rocket, its cargo of two satellites, and the launch-pad, as well as the deaths of many of Brazil's space-specialists, causing an estimated US$12 million worth of damage. This ends Brazil's third attempt since 1997 at becoming a space power.
 
 

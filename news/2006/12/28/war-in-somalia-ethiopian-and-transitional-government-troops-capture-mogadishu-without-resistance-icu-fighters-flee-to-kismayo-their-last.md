@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/28/war-in-somalia-ethiopian-and-transitional-government-troops-capture-mogadishu-without-resistance-icu-fighters-flee-to-kismayo-their-last.html)  [JSON](/news/2006/12/28/war-in-somalia-ethiopian-and-transitional-government-troops-capture-mogadishu-without-resistance-icu-fighters-flee-to-kismayo-their-last.json)  [XML](/news/2006/12/28/war-in-somalia-ethiopian-and-transitional-government-troops-capture-mogadishu-without-resistance-icu-fighters-flee-to-kismayo-their-last.xml)  
+
 ### [2006-12-28](/news/2006/12/28/index.md)
 
+##### War in Somalia
 #  War in Somalia: Ethiopian and Transitional government troops capture Mogadishu without resistance. ICU fighters flee to Kismayo, their last remaining stronghold, 300 miles (500km) to the south. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/NR/exeres/32FC08D0-FA46-4F54-B3DF-5266F919C410.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/6213499.stm)

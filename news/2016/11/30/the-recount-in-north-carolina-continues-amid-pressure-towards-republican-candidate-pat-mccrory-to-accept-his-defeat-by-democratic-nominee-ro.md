@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/30/the-recount-in-north-carolina-continues-amid-pr
 
 ### [2016-11-30](/news/2016/11/30/index.md)
 
+##### North Carolina  gubernatorial election, 2016
 # The recount in North Carolina continues amid pressure towards Republican candidate Pat McCrory to accept his defeat by Democratic nominee Roy Cooper. 
 
 Gov. Pat McCrory, trailing by thousands of votes three weeks after the election, is charging numerous irregularities, while Roy Cooper is declaring victory.

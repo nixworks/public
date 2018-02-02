@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/16/chris-huhne-former-uk-secretary-of-state-for-energy-and-climate-change-appears-in-court-to-face-charges-of-perverting-the-course-of-justic.html)  [JSON](/news/2012/02/16/chris-huhne-former-uk-secretary-of-state-for-energy-and-climate-change-appears-in-court-to-face-charges-of-perverting-the-course-of-justic.json)  [XML](/news/2012/02/16/chris-huhne-former-uk-secretary-of-state-for-energy-and-climate-change-appears-in-court-to-face-charges-of-perverting-the-course-of-justic.xml)  
+
 ### [2012-02-16](/news/2012/02/16/index.md)
 
+##### Chris Huhne
 # Chris Huhne, former UK Secretary of State for Energy and Climate Change, appears in court to face charges of perverting the course of justice together with his ex-wife, regarding a traffic violation. 
 
 Former energy secretary Chris Huhne and his ex-wife Vicky Pryce have appeared in court to face charges of perverting the course of justice.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-17053575)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58540000/jpg/_58540783_014022329-1.jpg)

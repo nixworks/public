@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2014/07/29/chinese-state-media-report-that-former-politburo-standing-committee-member-and-security-chief-zhou-yongkang-is-undergoing-investigation-for.html)  [JSON](/news/2014/07/29/chinese-state-media-report-that-former-politburo-standing-committee-member-and-security-chief-zhou-yongkang-is-undergoing-investigation-for.json)  [XML](/news/2014/07/29/chinese-state-media-report-that-former-politburo-standing-committee-member-and-security-chief-zhou-yongkang-is-undergoing-investigation-for.xml)  
+
 ### [2014-07-29](/news/2014/07/29/index.md)
 
+##### Politburo Standing Committee
 # Chinese state media report that former Politburo Standing Committee member and security chief Zhou Yongkang is undergoing investigation for "disciplinary violations." 
 
+Zhou Yongkang, who retired from the Politburo Standing Committee in late 2012, is the most senior Communist Party figure to face a formal corruption inquiry.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2014/07/30/world/asia/china-says-zhou-yongkang-former-security-chief-is-under-investigation.html?_r=0)
+1. [New York Times](https://www.nytimes.com/2014/07/30/world/asia/china-says-zhou-yongkang-former-security-chief-is-under-investigation.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2014/07/29/world/29chinaq1_now/29chinaq1_now-videoSixteenByNine1050.jpg)
 
 ### Related:
 

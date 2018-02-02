@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/16/the-trial-of-former-bosnian-serb-army-colonel-general-ratko-mladia-starts-in-the-international-criminal-tribunal-for-the-former-yugoslavia.html)  [JSON](/news/2012/05/16/the-trial-of-former-bosnian-serb-army-colonel-general-ratko-mladia-starts-in-the-international-criminal-tribunal-for-the-former-yugoslavia.json)  [XML](/news/2012/05/16/the-trial-of-former-bosnian-serb-army-colonel-general-ratko-mladia-starts-in-the-international-criminal-tribunal-for-the-former-yugoslavia.xml)  
+
 ### [2012-05-16](/news/2012/05/16/index.md)
 
+##### Bosnian Serb
 # The trial of former Bosnian Serb Army Colonel General Ratko Mladic starts in the International Criminal Tribunal for the former Yugoslavia in The Hague, Netherlands. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/05/16/world/europe/netherlands-mladic-trial/index.html?hpt=hp_t2)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/19/demonstrations-occur-against-maldivian-president-mohammed-waheed-hassan-accused-of-taking-power-in-a-coup-as-he-attempts-to-open-parliamen.html)  [JSON](/news/2012/03/19/demonstrations-occur-against-maldivian-president-mohammed-waheed-hassan-accused-of-taking-power-in-a-coup-as-he-attempts-to-open-parliamen.json)  [XML](/news/2012/03/19/demonstrations-occur-against-maldivian-president-mohammed-waheed-hassan-accused-of-taking-power-in-a-coup-as-he-attempts-to-open-parliamen.xml)  
+
 ### [2012-03-19](/news/2012/03/19/index.md)
 
+##### Maldives
 # Demonstrations occur against Maldivian President Mohammed Waheed Hassan, accused of taking power in a coup, as he attempts to open parliament for the second time this month. 
 
 Opposition supporters demonstrate against President Mohammed Waheed Hassan, who they say took power in a coup.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/03/2012319164024877872.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/19/2012319165612422734_20.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/2/according-to-the-syrian-observatory-for-human-ri
 
 ### [2017-11-2](/news/2017/11/2/index.md)
 
+##### Battle of Deir ez-Zor
 # According to the Syrian Observatory for Human Rights, the city of Deir ez-Zor has largely been cleared of ISIS fighters by the Syrian Armed Forces. Deir ez-Zor was the scene of a three-year-long siege until it was broken in September 2017. 
 
 Syrian Observatory for Human Rights says government forces have removed final militants from the city after three-year siege was broken in September

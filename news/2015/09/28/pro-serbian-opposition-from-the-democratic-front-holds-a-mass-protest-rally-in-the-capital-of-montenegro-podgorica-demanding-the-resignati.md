@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/28/pro-serbian-opposition-from-the-democratic-front-holds-a-mass-protest-rally-in-the-capital-of-montenegro-podgorica-demanding-the-resignati.html)  [JSON](/news/2015/09/28/pro-serbian-opposition-from-the-democratic-front-holds-a-mass-protest-rally-in-the-capital-of-montenegro-podgorica-demanding-the-resignati.json)  [XML](/news/2015/09/28/pro-serbian-opposition-from-the-democratic-front-holds-a-mass-protest-rally-in-the-capital-of-montenegro-podgorica-demanding-the-resignati.xml)  
+
 ### [2015-09-28](/news/2015/09/28/index.md)
 
+##### Democratic Front
 # Pro-Serbian opposition from the Democratic Front holds a mass protest rally in the capital of Montenegro, Podgorica, demanding the resignation of the government of Prime Minister Milo Dukanovic. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The News Hub](https://www.the-newshub.com/politics/montenegro-faced-with-massive-opposition-protests)
 

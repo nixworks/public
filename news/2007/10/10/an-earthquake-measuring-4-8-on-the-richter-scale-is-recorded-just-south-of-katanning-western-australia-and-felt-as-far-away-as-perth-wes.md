@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/10/an-earthquake-measuring-4-8-on-the-richter-scale-is-recorded-just-south-of-katanning-western-australia-and-felt-as-far-away-as-perth-wes.html)  [JSON](/news/2007/10/10/an-earthquake-measuring-4-8-on-the-richter-scale-is-recorded-just-south-of-katanning-western-australia-and-felt-as-far-away-as-perth-wes.json)  [XML](/news/2007/10/10/an-earthquake-measuring-4-8-on-the-richter-scale-is-recorded-just-south-of-katanning-western-australia-and-felt-as-far-away-as-perth-wes.xml)  
+
 ### [2007-10-10](/news/2007/10/10/index.md)
 
+##### earthquake
 #  An earthquake measuring 4.8 on the Richter scale is recorded just south of Katanning, Western Australia, and felt as far away as Perth, Western Australia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abc.net.au/news/stories/2007/10/10/2055826.htm?section=australia)
 

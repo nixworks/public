@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/24/a-court-in-taiwan-rejects-former-president-chen-shui-bian-s-appeal-to-be-released-on-bail.html)  [JSON](/news/2009/09/24/a-court-in-taiwan-rejects-former-president-chen-shui-bian-s-appeal-to-be-released-on-bail.json)  [XML](/news/2009/09/24/a-court-in-taiwan-rejects-former-president-chen-shui-bian-s-appeal-to-be-released-on-bail.xml)  
+
 ### [2009-09-24](/news/2009/09/24/index.md)
 
+##### Taiwan
 #  A court in Taiwan rejects former President Chen Shui-bian's appeal to be released on bail. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hA1Z8MlHPhdXAe2_2z7zBBZhV99QD9ATNRQ80)
 2. [Bangkok Post](http://www.bangkokpost.com/news/asia/155251/taiwan-court-rejects-ex-president-bail-bid-tv)

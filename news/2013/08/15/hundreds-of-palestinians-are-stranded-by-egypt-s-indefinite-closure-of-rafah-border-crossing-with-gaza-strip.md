@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/15/hundreds-of-palestinians-are-stranded-by-egypt-s-indefinite-closure-of-rafah-border-crossing-with-gaza-strip.html)  [JSON](/news/2013/08/15/hundreds-of-palestinians-are-stranded-by-egypt-s-indefinite-closure-of-rafah-border-crossing-with-gaza-strip.json)  [XML](/news/2013/08/15/hundreds-of-palestinians-are-stranded-by-egypt-s-indefinite-closure-of-rafah-border-crossing-with-gaza-strip.xml)  
+
 ### [2013-08-15](/news/2013/08/15/index.md)
 
+##### Rafah border crossing
 # Hundreds of Palestinians are stranded by Egypt's "indefinite" closure of Rafah border crossing with Gaza Strip. 
 
 Hundreds of Palestinians stranded by latest closure of Rafah terminal
 
 
-### Source:
+### Sources:
 
 1. [Huffington Post](http://www.huffingtonpost.com/2013/08/15/gaza-border-crossing-closed_n_3760699.html)
 2. [Times of Israel](http://www.timesofisrael.com/egypt-shutters-gaza-border-crossing-indefinitely/)
@@ -13,8 +17,8 @@ Hundreds of Palestinians stranded by latest closure of Rafah terminal
 
 ### Related:
 
-1. [Four Egyptian security personnel are killed and another four are injured by a roadside bomb near the border town Rafah in the Sinai Peninsula. Islamist militants are suspected to have remotely detonated the device as an armored vehicle drove by the town's center, near the border with the Gaza Strip and Israel, security sources told Ahram Online. ](/news/2015/12/8/four-egyptian-security-personnel-are-killed-and-another-four-are-injured-by-a-roadside-bomb-near-the-border-town-rafah-in-the-sinai-peninsul.md) _Context: Gaza Strip, border town_
-2. [Israel opposes Egypt's plan to open the Rafah Border Crossing with Gaza to two-way traffic due to its fears of "terror operatives". ](/news/2011/05/1/israel-opposes-egypt-s-plan-to-open-the-rafah-border-crossing-with-gaza-to-two-way-traffic-due-to-its-fears-of-terror-operatives.md) _Context: Gaza Strip, border town_
-3. [Egypt's interim foreign minister Nabil al-Arabi vows to permanently open the country's Rafah Border Crossing with the Gaza Strip, branding the Mubarak regime's support for the previous blockade and assisting of Israel in implementing it as "disgraceful". ](/news/2011/04/29/egypt-s-interim-foreign-minister-nabil-al-arabi-vows-to-permanently-open-the-country-s-rafah-border-crossing-with-the-gaza-strip-branding-t.md) _Context: Gaza Strip, border town_
-4. [Thousands of Palestinians cross the Rafah Border Crossing into the Gaza Strip following its opening by Egypt, but Egypt prevents hundreds of activists from entering and Hamas continues to refuse Red Cross visits for captured Israeli soldier, Gilad Shalit. ](/news/2010/06/12/thousands-of-palestinians-cross-the-rafah-border-crossing-into-the-gaza-strip-following-its-opening-by-egypt-but-egypt-prevents-hundreds-of.md) _Context: Gaza Strip, border town_
-5. [Palestinian factions, Hamas and Fatah, sign a unity deal in Cairo, that is also publicly supported by the governments of Egypt and Saudi Arabia. The Fatah-controlled Palestinian National Authority (PNA), along with Israel, currently govern the West Bank. According to the signatories of the deal, the PNA will take administrative control of the Gaza Strip, and, along with Hamas, police its borders. The signatories consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. The government of Israel opposes any involvement by Hamas in a Palestinian government. ](/news/2017/10/12/palestinian-factions-hamas-and-fatah-sign-a-unity-deal-in-cairo-that-is-also-publicly-supported-by-the-governments-of-egypt-and-saudi-ara.md) _Context: Gaza Strip_
+1. [Hundreds of people protest on the West Bank and in Gaza for the third day in a row. ](/news/2017/12/9/hundreds-of-people-protest-on-the-west-bank-and-in-gaza-for-the-third-day-in-a-row.md) _Context: Gaza Strip_
+2. [Militant Palestinians fire rockets towards Israel from the Gaza Strip. The Israel Defense Forces say that the Iron Dome system intercepted two missiles, while one rocket fell in a flat open area and nobody was hurt. ](/news/2017/12/13/militant-palestinians-fire-rockets-towards-israel-from-the-gaza-strip-the-israel-defense-forces-say-that-the-iron-dome-system-intercepted-t.md) _Context: Gaza Strip_
+3. [The IDF destroys a partly-completed tunnel from the Gaza Strip border near the town of Khan Yunis that crossed into Israeli territory, killing seven Hamas militants. Several more died in the rescue efforts. ](/news/2017/10/30/the-idf-destroys-a-partly-completed-tunnel-from-the-gaza-strip-border-near-the-town-of-khan-yunis-that-crossed-into-israeli-territory-killi.md) _Context: Gaza Strip_
+4. [Palestinian factions, Hamas and Fatah, sign a unity deal in Cairo, that is also publicly supported by the governments of Egypt and Saudi Arabia. The Fatah-controlled Palestinian National Authority (PNA), along with Israel, currently govern the West Bank. According to the signatories of the deal, the PNA will take administrative control of the Gaza Strip, and, along with Hamas, police its borders. The signatories consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. The government of Israel opposes any involvement by Hamas in a Palestinian government. ](/news/2017/10/12/palestinian-factions-hamas-and-fatah-sign-a-unity-deal-in-cairo-that-is-also-publicly-supported-by-the-governments-of-egypt-and-saudi-ara.md) _Context: Gaza Strip_
+5. [Hamas, through Egyptian-mediated talks, agrees to dissolve its Gaza administration, hold talks with the Fatah West Bank government, and hold elections for a Palestinian unity government. ](/news/2017/09/17/hamas-through-egyptian-mediated-talks-agrees-to-dissolve-its-gaza-administration-hold-talks-with-the-fatah-west-bank-government-and-hold.md) _Context: Gaza Strip_

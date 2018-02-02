@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/12/16/the-british-final-court-of-appeal-the-law-lords-rule-that-the-suspension-of-habeas-corpus-for-foreign-nationals-detained-under-the-anti.html)  [JSON](/news/2004/12/16/the-british-final-court-of-appeal-the-law-lords-rule-that-the-suspension-of-habeas-corpus-for-foreign-nationals-detained-under-the-anti.json)  [XML](/news/2004/12/16/the-british-final-court-of-appeal-the-law-lords-rule-that-the-suspension-of-habeas-corpus-for-foreign-nationals-detained-under-the-anti.xml)  
+
 ### [2004-12-16](/news/2004/12/16/index.md)
 
+##### Appellate Committee of the House of Lords
 #  The British final court of appeal, the Law Lords, rule that the suspension of "habeas corpus" for foreign nationals detained under the Anti-terrorism, Crime and Security Act 2001 is illegal, being incompatible with the European Convention on Human Rights. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/4100481.stm)
-2. [judgment](http://www.publications.parliament.uk/pa/ld200405/ldjudgmt/jd041216/a&oth-1.htm)
+2. [judgment](https://publications.parliament.uk/pa/ld200405/ldjudgmt/jd041216/a&oth-1.htm)
 
 ### Related:
 

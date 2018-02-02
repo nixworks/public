@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/17/isil-militants-abduct-at-least-400-civilians-fr
 
 ### [2016-01-17](/news/2016/01/17/index.md)
 
+##### Syrian Civil War
 # ISIL militants abduct at least 400 civilians from the eastern Syrian city of Deir ez-Zor. 
 
 A monitoring group says Islamic State fighters have abducted at least 400 civilians in eastern Syria.

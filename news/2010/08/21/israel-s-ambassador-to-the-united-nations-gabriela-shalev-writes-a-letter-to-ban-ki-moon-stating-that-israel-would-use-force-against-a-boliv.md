@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/21/israel-s-ambassador-to-the-united-nations-gabriela-shalev-writes-a-letter-to-ban-ki-moon-stating-that-israel-would-use-force-against-a-boliv.html)  [JSON](/news/2010/08/21/israel-s-ambassador-to-the-united-nations-gabriela-shalev-writes-a-letter-to-ban-ki-moon-stating-that-israel-would-use-force-against-a-boliv.json)  [XML](/news/2010/08/21/israel-s-ambassador-to-the-united-nations-gabriela-shalev-writes-a-letter-to-ban-ki-moon-stating-that-israel-would-use-force-against-a-boliv.xml)  
+
 ### [2010-08-21](/news/2010/08/21/index.md)
 
+##### United Nations
 # Israel's ambassador to the United Nations Gabriela Shalev writes a letter to Ban Ki-moon stating that Israel would use force against a Bolivian-flagged all-female aid ship intending to land near Gaza. 
 
 Israel says it could use force to stop a new aid boat to Gaza, as Lebanon refuses to bow to warnings against authorising an all-women ship to head for the blockaded Palestinian territory.
 
 
-### Source:
+### Sources:
 
 1. [The Age](http://www.theage.com.au/world/israel-warns-gaza-aid-boat-20100821-139d2.html)
 1. [Cover Image](http://images.theage.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)

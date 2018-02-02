@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/1/two-walls-collapse-at-the-ancient-roman-city-of-pompeii-during-heavy-rains-the-third-such-incident-in-a-month.html)  [JSON](/news/2010/12/1/two-walls-collapse-at-the-ancient-roman-city-of-pompeii-during-heavy-rains-the-third-such-incident-in-a-month.json)  [XML](/news/2010/12/1/two-walls-collapse-at-the-ancient-roman-city-of-pompeii-during-heavy-rains-the-third-such-incident-in-a-month.xml)  
+
 ### [2010-12-1](/news/2010/12/1/index.md)
 
+##### Roman
 # Two walls collapse at the ancient Roman city of Pompeii during heavy rains, the third such incident in a month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Adnkronos](http://www.adnkronos.com/IGN/Aki/English/CultureAndMedia/Italy-Two-more-walls-give-way-in-Pompeii-amid-heavy-rains_311339482100.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11890382)

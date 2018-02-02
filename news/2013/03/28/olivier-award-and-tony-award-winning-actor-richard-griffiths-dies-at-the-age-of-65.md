@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/28/olivier-award-and-tony-award-winning-actor-richard-griffiths-dies-at-the-age-of-65.html)  [JSON](/news/2013/03/28/olivier-award-and-tony-award-winning-actor-richard-griffiths-dies-at-the-age-of-65.json)  [XML](/news/2013/03/28/olivier-award-and-tony-award-winning-actor-richard-griffiths-dies-at-the-age-of-65.xml)  
+
 ### [2013-03-28](/news/2013/03/28/index.md)
 
+##### Olivier Award
 # Olivier Award and Tony Award winning actor Richard Griffiths dies at the age of 65. 
 
 This vastly endearing actor, who made such an impression in Withnail And I and The History Boys, was someone you felt you knew &ndash; and wanted to know better
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/culture/film/9961489/Richard-Griffiths-the-greatest-of-the-history-boys.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02523/griffiths_2523036k.jpg)

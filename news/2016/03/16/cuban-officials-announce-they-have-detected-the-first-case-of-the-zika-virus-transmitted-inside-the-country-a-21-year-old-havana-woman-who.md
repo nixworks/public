@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/16/cuban-officials-announce-they-have-detected-the
 
 ### [2016-03-16](/news/2016/03/16/index.md)
 
+##### Zika virus outbreak
 #  Cuban officials announce they have detected the first case of the Zika virus transmitted inside the country: a 21-year-old Havana woman who had not traveled abroad. Cuba has reported a handful of travel-associated Zika cases, all believed imported from Venezuela. 
 
 A 21-year-old woman from Havana with no travel history outside Cuba is the first autochthonous, or locally transmitted Zika virus infection, according to a La Nación report (computer translated). Local mosquito transmission means that mosquitoes in the area are infected with Zika virus and are spreading it to people. The health ministry said in a statement, &hellip;

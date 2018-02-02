@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/08/21/2004-dhaka-grenade-attack-grenade-attack-on-bangladesh-awami-league-the-biggest-political-party-in-this-country-party-president-sheikh-h.html)  [JSON](/news/2004/08/21/2004-dhaka-grenade-attack-grenade-attack-on-bangladesh-awami-league-the-biggest-political-party-in-this-country-party-president-sheikh-h.json)  [XML](/news/2004/08/21/2004-dhaka-grenade-attack-grenade-attack-on-bangladesh-awami-league-the-biggest-political-party-in-this-country-party-president-sheikh-h.xml)  
+
 ### [2004-08-21](/news/2004/08/21/index.md)
 
+##### 2004 Dhaka grenade attack
 #  2004 Dhaka grenade attack: Grenade attack on Bangladesh Awami League, the biggest political party in this country. Party president Sheikh Hasina was injured; 23 others were killed.
 
 

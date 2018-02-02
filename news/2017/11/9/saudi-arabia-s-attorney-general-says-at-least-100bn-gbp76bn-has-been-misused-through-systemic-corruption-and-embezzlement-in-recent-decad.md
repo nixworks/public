@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/9/saudi-arabia-s-attorney-general-says-at-least-10
 
 ### [2017-11-9](/news/2017/11/9/index.md)
 
+##### 2017 Saudi Arabian purge
 # Saudi Arabia's attorney general says at least $100bn (GBP76bn) has been misused through systemic corruption and embezzlement in recent decades. 
 
 Attorney general says 201 people are being held for questioning, some of them reportedly at a luxury hotel.

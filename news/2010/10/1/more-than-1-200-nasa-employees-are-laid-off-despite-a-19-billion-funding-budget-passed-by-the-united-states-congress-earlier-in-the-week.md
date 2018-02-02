@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2010/10/1/more-than-1-200-nasa-employees-are-laid-off-despite-a-19-billion-funding-budget-passed-by-the-united-states-congress-earlier-in-the-week.html)  [JSON](/news/2010/10/1/more-than-1-200-nasa-employees-are-laid-off-despite-a-19-billion-funding-budget-passed-by-the-united-states-congress-earlier-in-the-week.json)  [XML](/news/2010/10/1/more-than-1-200-nasa-employees-are-laid-off-despite-a-19-billion-funding-budget-passed-by-the-united-states-congress-earlier-in-the-week.xml)  
+
 ### [2010-10-1](/news/2010/10/1/index.md)
 
+##### NASA
 # More than 1,200 NASA employees are laid off despite a $19 billion funding budget passed by the United States Congress earlier in the week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/US/10/01/nasa.layoffs/)
 
 ### Related:
 
-1. [U.S. Congress passes a bill that mandates NASA send humans to Mars by 2033. ](/news/2017/03/8/u-s-congress-passes-a-bill-that-mandates-nasa-send-humans-to-mars-by-2033.md) _Context: NASA, United States Congress_
-2. [U.S. President Donald Trump chooses not to certify that Iran complies with the 2015 agreement. The United States Congress now has 60 days to decide whether to lift the sanctions relief, possibly breaching the agreement. ](/news/2017/10/13/u-s-president-donald-trump-chooses-not-to-certify-that-iran-complies-with-the-2015-agreement-the-united-states-congress-now-has-60-days-to.md) _Context: United States Congress_
-3. [As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes a distance of 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.md) _Context: NASA_
-4. [Business leaders from various U.S. companies, including Facebook, Marriott International, JPMorgan Chase, and Microsoft, lobby to members of Congress to work on a permanent solution for DREAMers to stay legally in the country, many of whom are their employees. ](/news/2017/09/6/business-leaders-from-various-u-s-companies-including-facebook-marriott-international-jpmorgan-chase-and-microsoft-lobby-to-members-of.md) _Context: United States Congress_
-5. [Facebook agrees to disclose ads that ran in the U.S. in 2016 from accounts associated with a Russian entity known as the Internet Research Agency to United States Congressional investigators. Earlier, this information was provided to Special Counsel Robert Mueller. ](/news/2017/09/21/facebook-agrees-to-disclose-ads-that-ran-in-the-u-s-in-2016-from-accounts-associated-with-a-russian-entity-known-as-the-internet-research-a.md) _Context: United States Congress_
+1. [U.S. Congress passes a bill that mandates NASA send humans to Mars by 2033. ](/news/2017/03/8/u-s-congress-passes-a-bill-that-mandates-nasa-send-humans-to-mars-by-2033.md) _Context: NASA, lawmakers_
+2. [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md) _Context: NASA_
+3. [NASA research, published in "Geophysical Research Letters", implies that the ozone layer is starting to recover due to man's actions. The decline in ozone-depleting chemicals, specifically chlorine from chlorofluorocarbon (an effect from the 1980's CFC ban, say the scientists), has resulted in 20 percent less depletion since 2005. ](/news/2018/01/5/nasa-research-published-in-geophysical-research-letters-implies-that-the-ozone-layer-is-starting-to-recover-due-to-man-s-actions-the-de.md) _Context: NASA_
+4. [An Amtrak train carrying Republican lawmakers to a retreat in West Virginia collides with a garbage truck in Crozet, Virginia. At least one person dies and one person is seriously injured. The White House states that there are no serious injuries among members of Congress or their staff. ](/news/2018/01/31/an-amtrak-train-carrying-republican-lawmakers-to-a-retreat-in-west-virginia-collides-with-a-garbage-truck-in-crozet-virginia-at-least-one.md) _Context: lawmakers_
+5. [U.S. President Donald Trump names former NASA astronaut James F. Reilly as leader of the U.S. Geological Survey. ](/news/2018/01/26/u-s-president-donald-trump-names-former-nasa-astronaut-james-f-reilly-as-leader-of-the-u-s-geological-survey.md) _Context: NASA_

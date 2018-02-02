@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/12/16/two-police-officers-are-fatally-shot-outside-a-supermarket-in-topeka-kansas-usa-a-22-year-old-man-wanted-in-connection-with-crime-david.html)  [JSON](/news/2012/12/16/two-police-officers-are-fatally-shot-outside-a-supermarket-in-topeka-kansas-usa-a-22-year-old-man-wanted-in-connection-with-crime-david.json)  [XML](/news/2012/12/16/two-police-officers-are-fatally-shot-outside-a-supermarket-in-topeka-kansas-usa-a-22-year-old-man-wanted-in-connection-with-crime-david.xml)  
+
 ### [2012-12-16](/news/2012/12/16/index.md)
 
+##### Topeka
 # Two police officers are fatally shot outside a supermarket in Topeka, Kansas, USA. A 22-year-old man wanted in connection with crime, David Edward Tiscareno, is at large. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters via Yahoo!](http://news.yahoo.com/two-kansas-police-officers-fatally-shot-outside-store-054248348.html)
+1. [Reuters via Yahoo!](https://news.yahoo.com/two-kansas-police-officers-fatally-shot-outside-store-054248348.html)
 
 ### Related:
 

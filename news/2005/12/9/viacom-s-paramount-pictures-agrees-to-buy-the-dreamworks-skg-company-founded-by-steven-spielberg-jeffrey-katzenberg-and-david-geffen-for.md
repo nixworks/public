@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/12/9/viacom-s-paramount-pictures-agrees-to-buy-the-dreamworks-skg-company-founded-by-steven-spielberg-jeffrey-katzenberg-and-david-geffen-for.html)  [JSON](/news/2005/12/9/viacom-s-paramount-pictures-agrees-to-buy-the-dreamworks-skg-company-founded-by-steven-spielberg-jeffrey-katzenberg-and-david-geffen-for.json)  [XML](/news/2005/12/9/viacom-s-paramount-pictures-agrees-to-buy-the-dreamworks-skg-company-founded-by-steven-spielberg-jeffrey-katzenberg-and-david-geffen-for.xml)  
+
 ### [2005-12-9](/news/2005/12/9/index.md)
 
+##### Viacom
 #  Viacom's Paramount Pictures agrees to buy the DreamWorks SKG company founded by Steven Spielberg, Jeffrey Katzenberg and David Geffen for $1.6 billion. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [NY Times](http://www.nytimes.com/2005/12/09/business/media/09cnd-dream.html)
+1. [NY Times](https://www.nytimes.com/2005/12/09/business/media/09cnd-dream.html)
 
 ### Related:
 

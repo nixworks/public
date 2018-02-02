@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/19/human-rights-groups-express-dismay-at-kenya-for-the-secret-sending-to-uganda-of-four-suspects-after-the-2010-fifa-world-cup-attacks-in-kampa.html)  [JSON](/news/2010/08/19/human-rights-groups-express-dismay-at-kenya-for-the-secret-sending-to-uganda-of-four-suspects-after-the-2010-fifa-world-cup-attacks-in-kampa.json)  [XML](/news/2010/08/19/human-rights-groups-express-dismay-at-kenya-for-the-secret-sending-to-uganda-of-four-suspects-after-the-2010-fifa-world-cup-attacks-in-kampa.xml)  
+
 ### [2010-08-19](/news/2010/08/19/index.md)
 
+##### Kenya
 # Human rights groups express dismay at Kenya for the secret sending to Uganda of four suspects after the 2010 FIFA World Cup attacks in Kampala. Federal Bureau of Investigation (FBI) agents are also said to have engaged in illegal interrogation of three of them. 
 
 Human rights activists accuse Kenya of secretly sending four terrorism suspects to Uganda after the World Cup bomb blasts in Kampala.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11029767)
 2. [News24](http://www.news24.com/Africa/News/Uganda-blasts-Group-accuses-Kenya-20100819)

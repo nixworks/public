@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/21/the-united-nations-security-council-lifts-an-arms-embargo-on-liberia-imposed-during-the-reign-of-charles-taylor-in-2003.html)  [JSON](/news/2009/12/21/the-united-nations-security-council-lifts-an-arms-embargo-on-liberia-imposed-during-the-reign-of-charles-taylor-in-2003.json)  [XML](/news/2009/12/21/the-united-nations-security-council-lifts-an-arms-embargo-on-liberia-imposed-during-the-reign-of-charles-taylor-in-2003.xml)  
+
 ### [2009-12-21](/news/2009/12/21/index.md)
 
+##### United Nations
 #  The United Nations Security Council lifts an arms embargo on Liberia imposed during the reign of Charles Taylor in 2003. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [African Press Agency](http://apanews.net/apa.php?page=show_article_eng&id_article=114116)
 2. [Liberian Observer](http://www.liberianobserver.com/node/3574)

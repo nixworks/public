@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/8/the-2009-nobel-prize-in-literature-goes-to-the-romanian-german-novelist-herta-ma1-4ller-who-with-the-concentration-of-poetry-and-the-frank.html)  [JSON](/news/2009/10/8/the-2009-nobel-prize-in-literature-goes-to-the-romanian-german-novelist-herta-ma1-4ller-who-with-the-concentration-of-poetry-and-the-frank.json)  [XML](/news/2009/10/8/the-2009-nobel-prize-in-literature-goes-to-the-romanian-german-novelist-herta-ma1-4ller-who-with-the-concentration-of-poetry-and-the-frank.xml)  
+
 ### [2009-10-8](/news/2009/10/8/index.md)
 
+##### Nobel Prize in Literature
 #  The 2009 Nobel Prize in Literature goes to the Romanian-German novelist Herta Muller, "who, with the concentration of poetry and the frankness of prose, depicts the landscape of the dispossessed". She becomes the twelfth woman to win the literature prize and the fourth female Nobel Laureate of 2009, a record year for female achievers. 
 
 comentarii, Romanian-born German writer Herta Muller won this year&#039;s Nobel prize in literature, being rewarded for the concentration of poetry and the frankness of prose, that depicts the landscape of the dispossessed, the Swedish Academy announced. 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,4774182,00.html)
 2. [Nobel](http://nobelprize.org/nobel_prizes/literature/laureates/2009/)
@@ -16,8 +20,8 @@ comentarii, Romanian-born German writer Herta Muller won this year&#039;s Nobel 
 
 ### Related:
 
-1. [2013 Romanian drama film Child's Pose wins the Golden Bear at the 63rd Berlin International Film Festival in Berlin, Germany. ](/news/2013/02/16/2013-romanian-drama-film-child-s-pose-wins-the-golden-bear-at-the-63rd-berlin-international-film-festival-in-berlin-germany.md) _Context: Germany, Romania_
-2. [The Nobel Committee awards Japanese-born British novelist Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." ](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-novelist-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-fo.md) _Context: Nobel Prize in Literature_
-3. [A fire at a retirement home in Bucharest, Romania, leaves one person dead and 19 others injured. ](/news/2017/09/30/a-fire-at-a-retirement-home-in-bucharest-romania-leaves-one-person-dead-and-19-others-injured.md) _Context: Romania_
-4. [The European X-ray free-electron laser is inaugurated in Hamburg, Germany. ](/news/2017/09/3/the-european-x-ray-free-electron-laser-is-inaugurated-in-hamburg-germany.md) _Context: Germany_
-5. [Large portions of Frankfurt, Germany, are evacuated as local authorities work to defuse a bomb left over from a Royal Air Force raid during World War II. The evacuation is the largest to occur in Europe since World War II. ](/news/2017/09/3/large-portions-of-frankfurt-germany-are-evacuated-as-local-authorities-work-to-defuse-a-bomb-left-over-from-a-royal-air-force-raid-during.md) _Context: Germany_
+1. [2013 Romanian drama film Child's Pose wins the Golden Bear at the 63rd Berlin International Film Festival in Berlin, Germany. ](/news/2013/02/16/2013-romanian-drama-film-child-s-pose-wins-the-golden-bear-at-the-63rd-berlin-international-film-festival-in-berlin-germany.md) _Context: German, Romania_
+2. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: German_
+3. [British, American and German men are among a group of international volunteers who travelled to Afrin to fight against Turkish-led forces in north-west Syria. ](/news/2018/01/24/british-american-and-german-men-are-among-a-group-of-international-volunteers-who-travelled-to-afrin-to-fight-against-turkish-led-forces-in.md) _Context: German_
+4. [A helicopter and a light aircraft collide mid-air close to the Philippsburg Nuclear Power Plant in Germany, killing four people. ](/news/2018/01/23/a-helicopter-and-a-light-aircraft-collide-mid-air-close-to-the-philippsburg-nuclear-power-plant-in-germany-killing-four-people.md) _Context: German_
+5. [German nurse and convicted serial killer Niels Hogel is charged with 97 further counts of murder. ](/news/2018/01/22/german-nurse-and-convicted-serial-killer-niels-hapgel-is-charged-with-97-further-counts-of-murder.md) _Context: German_

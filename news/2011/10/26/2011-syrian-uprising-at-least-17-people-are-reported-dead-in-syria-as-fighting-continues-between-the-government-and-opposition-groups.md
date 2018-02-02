@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/26/2011-syrian-uprising-at-least-17-people-are-reported-dead-in-syria-as-fighting-continues-between-the-government-and-opposition-groups.html)  [JSON](/news/2011/10/26/2011-syrian-uprising-at-least-17-people-are-reported-dead-in-syria-as-fighting-continues-between-the-government-and-opposition-groups.json)  [XML](/news/2011/10/26/2011-syrian-uprising-at-least-17-people-are-reported-dead-in-syria-as-fighting-continues-between-the-government-and-opposition-groups.xml)  
+
 ### [2011-10-26](/news/2011/10/26/index.md)
 
+##### Syria
 # 2011 Syrian uprising: At least 17 people are reported dead in Syria, as fighting continues between the government and opposition groups. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/10/26/world/meast/syria-unrest/index.html?eref=edition)
 

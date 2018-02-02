@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/10/polish-film-director-and-recipient-of-an-academ
 
 ### [2016-10-10](/news/2016/10/10/index.md)
 
+##### Poles
 # Polish film director and recipient of an Academy Honorary Award Andrzej Wajda dies at the age of 90. 
 
 

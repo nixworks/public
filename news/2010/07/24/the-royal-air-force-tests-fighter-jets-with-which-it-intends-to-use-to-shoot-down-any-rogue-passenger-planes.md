@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/24/the-royal-air-force-tests-fighter-jets-with-which-it-intends-to-use-to-shoot-down-any-rogue-passenger-planes.html)  [JSON](/news/2010/07/24/the-royal-air-force-tests-fighter-jets-with-which-it-intends-to-use-to-shoot-down-any-rogue-passenger-planes.json)  [XML](/news/2010/07/24/the-royal-air-force-tests-fighter-jets-with-which-it-intends-to-use-to-shoot-down-any-rogue-passenger-planes.xml)  
+
 ### [2010-07-24](/news/2010/07/24/index.md)
 
+##### Royal Air Force
 # The Royal Air Force tests fighter jets with which it intends to use to shoot down any rogue passenger planes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-10750260)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

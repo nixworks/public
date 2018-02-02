@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/13/bill-gwatney-the-current-state-chairman-of-the-democratic-party-of-arkansas-is-shot-and-killed-at-the-party-headquarters-in-little-rock-a.html)  [JSON](/news/2008/08/13/bill-gwatney-the-current-state-chairman-of-the-democratic-party-of-arkansas-is-shot-and-killed-at-the-party-headquarters-in-little-rock-a.json)  [XML](/news/2008/08/13/bill-gwatney-the-current-state-chairman-of-the-democratic-party-of-arkansas-is-shot-and-killed-at-the-party-headquarters-in-little-rock-a.xml)  
+
 ### [2008-08-13](/news/2008/08/13/index.md)
 
+##### Bill Gwatney
 #  Bill Gwatney, the current state Chairman of the Democratic Party of Arkansas is shot and killed at the Party headquarters in Little Rock, Arkansas. The man who shot Gwatney is later shot dead by police during a pursuit. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2008/CRIME/08/13/arkansas.shooting/index.html)
 

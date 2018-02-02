@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/29/the-u-s-supreme-court-declines-to-take-on-the-review-of-an-abortion-related-appeal-the-case-which-is-a-proposed-measure-to-amend-the-okla.html)  [JSON](/news/2012/10/29/the-u-s-supreme-court-declines-to-take-on-the-review-of-an-abortion-related-appeal-the-case-which-is-a-proposed-measure-to-amend-the-okla.json)  [XML](/news/2012/10/29/the-u-s-supreme-court-declines-to-take-on-the-review-of-an-abortion-related-appeal-the-case-which-is-a-proposed-measure-to-amend-the-okla.xml)  
+
 ### [2012-10-29](/news/2012/10/29/index.md)
 
+##### U.S. Supreme Court
 # The U.S. Supreme Court declines to take on the review of an abortion-related appeal. The case, which is a proposed measure to amend the Oklahoma state constitution that was unanimously struck down by the Oklahoma Supreme Court, dealt with the constitutionality of state "personhood" laws that endorse the viewpoint that human life begins at conception, and would give human embryos rights and privileges given to citizens, which could have made it more difficult to have abortions for non-emergency reasons. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/10/29/justice/court-abortion/index.html?hpt=ju_c2)
 

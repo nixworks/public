@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/19/as-part-of-an-ongoing-row-between-fota-and-the-fia-eight-teams-declare-that-they-will-leave-formula-one-and-set-up-a-new-championship-for.html)  [JSON](/news/2009/06/19/as-part-of-an-ongoing-row-between-fota-and-the-fia-eight-teams-declare-that-they-will-leave-formula-one-and-set-up-a-new-championship-for.json)  [XML](/news/2009/06/19/as-part-of-an-ongoing-row-between-fota-and-the-fia-eight-teams-declare-that-they-will-leave-formula-one-and-set-up-a-new-championship-for.xml)  
+
 ### [2009-06-19](/news/2009/06/19/index.md)
 
+##### ongoing row
 #  As part of an ongoing row between FOTA and the FIA, eight teams declare that they will leave Formula One and set up a new championship for the 2010 season. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/8108488.stm)
 

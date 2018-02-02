@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/11/14/the-death-toll-from-the-mount-merapi-eruptions-reaches-250.html)  [JSON](/news/2010/11/14/the-death-toll-from-the-mount-merapi-eruptions-reaches-250.json)  [XML](/news/2010/11/14/the-death-toll-from-the-mount-merapi-eruptions-reaches-250.xml)  
+
 ### [2010-11-14](/news/2010/11/14/index.md)
 
+##### Mounts Merapi
 # The death toll from the Mount Merapi eruptions reaches 250. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20101114/ap_on_re_as/as_indonesia_volcano)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20101114/ap_on_re_as/as_indonesia_volcano)
 
 ### Related:
 

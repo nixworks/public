@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/1/president-of-the-united-states-barack-obama-calls-a-press-conference-in-the-white-house-to-make-a-personnel-announcement-reported-to-be-re.html)  [JSON](/news/2010/10/1/president-of-the-united-states-barack-obama-calls-a-press-conference-in-the-white-house-to-make-a-personnel-announcement-reported-to-be-re.json)  [XML](/news/2010/10/1/president-of-the-united-states-barack-obama-calls-a-press-conference-in-the-white-house-to-make-a-personnel-announcement-reported-to-be-re.xml)  
+
 ### [2010-10-1](/news/2010/10/1/index.md)
 
+##### U.S. President
 # President of the United States Barack Obama calls a press conference in the White House to make a "personnel announcement" reported to be related to the departure of his aide Rahm Emanuel. 
 
 US President Barack Obama confirms the resignation of his hard-hitting chief of staff Rahm Emanuel, who is poised to run to be mayor of Chicago.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11453414)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/1/the-international-court-of-justice-begins-hearings-into-the-legality-of-the-kosovan-declaration-of-independence-from-serbia.html)  [JSON](/news/2009/12/1/the-international-court-of-justice-begins-hearings-into-the-legality-of-the-kosovan-declaration-of-independence-from-serbia.json)  [XML](/news/2009/12/1/the-international-court-of-justice-begins-hearings-into-the-legality-of-the-kosovan-declaration-of-independence-from-serbia.xml)  
+
 ### [2009-12-1](/news/2009/12/1/index.md)
 
+##### International Court of Justice
 #  The International Court of Justice begins hearings into the legality of the Kosovan declaration of independence from Serbia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jOiyW0ijvRmdQbUjW-85TQibXrtw)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8387631.stm)

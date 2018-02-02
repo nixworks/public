@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/8/the-new-zealand-royal-commission-on-the-pike-river-mine-disaster-hears-that-a-collapse-in-the-coal-extraction-area-was-the-most-likely-cause.html)  [JSON](/news/2012/02/8/the-new-zealand-royal-commission-on-the-pike-river-mine-disaster-hears-that-a-collapse-in-the-coal-extraction-area-was-the-most-likely-cause.json)  [XML](/news/2012/02/8/the-new-zealand-royal-commission-on-the-pike-river-mine-disaster-hears-that-a-collapse-in-the-coal-extraction-area-was-the-most-likely-cause.xml)  
+
 ### [2012-02-8](/news/2012/02/8/index.md)
 
+##### New Zealand
 # The New Zealand Royal Commission on the Pike River Mine disaster hears that a collapse in the coal extraction area was the most likely cause of the fatal blast in the mine on November 19, 2010 that claimed 29 lives. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TV New Zealand](http://tvnz.co.nz/national-news/coal-collapse-likely-cause-pike-river-blast-4713970)
 

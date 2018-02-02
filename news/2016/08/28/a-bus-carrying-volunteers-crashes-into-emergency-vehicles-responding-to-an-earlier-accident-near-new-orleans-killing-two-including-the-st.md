@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/28/a-bus-carrying-volunteers-crashes-into-emergenc
 
 ### [2016-08-28](/news/2016/08/28/index.md)
 
+##### 2016 Louisiana floods
 # A bus carrying volunteers crashes into emergency vehicles responding to an earlier accident near New Orleans killing two, including the St. John the Baptist Fire District Chief, and injuring 43 more. 
 
 A bus with an unlicensed driver spun out of control near New Orleans on Sunday, killing two people and injuring 41, while taking volunteers to help with Louisiana flood relief, officials said.

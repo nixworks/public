@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/31/isobel-redmond-resigns-as-the-leader-of-the-opposition-in-the-australian-state-of-south-australia.html)  [JSON](/news/2013/01/31/isobel-redmond-resigns-as-the-leader-of-the-opposition-in-the-australian-state-of-south-australia.json)  [XML](/news/2013/01/31/isobel-redmond-resigns-as-the-leader-of-the-opposition-in-the-australian-state-of-south-australia.xml)  
+
 ### [2013-01-31](/news/2013/01/31/index.md)
 
+##### Isobel Redmond
 # Isobel Redmond resigns as the Leader of the Opposition in the Australian state of South Australia. 
 
 SOUTH Australian Opposition Leader Isobel Redmond has quit the Liberal leadership because of party disunity, setting up a vote to replace her.
 
 
-### Source:
+### Sources:
 
 1. [AAP via News Limited](http://www.news.com.au/breaking-news/national/sa-oppn-leader-isobel-redmond-resigns/story-e6frfku9-1226565727411)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

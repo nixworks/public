@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/11/liu-xiang-of-china-sets-a-new-world-record-for-the-110-metres-hurdles-at-the-super-grand-prix-in-lausanne-with-a-time-of-12-88-seconds.html)  [JSON](/news/2006/07/11/liu-xiang-of-china-sets-a-new-world-record-for-the-110-metres-hurdles-at-the-super-grand-prix-in-lausanne-with-a-time-of-12-88-seconds.json)  [XML](/news/2006/07/11/liu-xiang-of-china-sets-a-new-world-record-for-the-110-metres-hurdles-at-the-super-grand-prix-in-lausanne-with-a-time-of-12-88-seconds.xml)  
+
 ### [2006-07-11](/news/2006/07/11/index.md)
 
+##### Liu Xiang
 #  Liu Xiang of China sets a new World Record for the 110 metres hurdles at the Super Grand Prix in Lausanne with a time of 12.88 seconds. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IAAF](http://www.iaaf.org/GP06/news/Kind=2/newsId=35280.html)
 

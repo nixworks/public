@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/25/controversial-american-academic-ward-churchill-is-dismissed-by-the-board-of-regents-of-the-university-of-colorado-after-accusations-of-acad.html)  [JSON](/news/2007/07/25/controversial-american-academic-ward-churchill-is-dismissed-by-the-board-of-regents-of-the-university-of-colorado-after-accusations-of-acad.json)  [XML](/news/2007/07/25/controversial-american-academic-ward-churchill-is-dismissed-by-the-board-of-regents-of-the-university-of-colorado-after-accusations-of-acad.xml)  
+
 ### [2007-07-25](/news/2007/07/25/index.md)
 
+##### Ward Churchill
 #  Controversial American academic Ward Churchill is dismissed by the Board of Regents of the University of Colorado after accusations of academic misconduct. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-6805300,00.html)
 2. [IHT](http://www.iht.com/articles/2007/07/25/news/school.php)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/27/the-uk-government-is-to-create-a-new-wave-of-universities-both-in-the-private-and-public-sector-the-first-new-universities-in-the-country-f.html)  [JSON](/news/2012/11/27/the-uk-government-is-to-create-a-new-wave-of-universities-both-in-the-private-and-public-sector-the-first-new-universities-in-the-country-f.json)  [XML](/news/2012/11/27/the-uk-government-is-to-create-a-new-wave-of-universities-both-in-the-private-and-public-sector-the-first-new-universities-in-the-country-f.xml)  
+
 ### [2012-11-27](/news/2012/11/27/index.md)
 
+##### 10 Downing Street
 # The UK government is to create a new wave of universities both in the private and public sector, the first new universities in the country for two decades. 
 
 About a dozen &quot;new&quot; universities are set to be created in England - as specialist institutions are granted university status.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/education-20464013)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61835000/jpg/_61835967_regentscollege.jpg)

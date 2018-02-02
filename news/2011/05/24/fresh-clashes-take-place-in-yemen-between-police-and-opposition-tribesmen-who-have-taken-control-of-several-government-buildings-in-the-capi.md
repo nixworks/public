@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/24/fresh-clashes-take-place-in-yemen-between-police-and-opposition-tribesmen-who-have-taken-control-of-several-government-buildings-in-the-capi.html)  [JSON](/news/2011/05/24/fresh-clashes-take-place-in-yemen-between-police-and-opposition-tribesmen-who-have-taken-control-of-several-government-buildings-in-the-capi.json)  [XML](/news/2011/05/24/fresh-clashes-take-place-in-yemen-between-police-and-opposition-tribesmen-who-have-taken-control-of-several-government-buildings-in-the-capi.xml)  
+
 ### [2011-05-24](/news/2011/05/24/index.md)
 
+##### 2011 Yemeni protests
 # Fresh clashes take place in Yemen between police and opposition tribesmen who have taken control of several government buildings in the capital Sana'a. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ismpaeT2rLNoVIDZNIyI2UWEk7nw?docId=CNG.5e70f46848c7eebf13c81854af44b375.61)
 

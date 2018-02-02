@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/30/a-court-in-bahrain-orders-a-civil-trial-for-21-activists-who-took-part-in-anti-government-protests-and-were-convicted-by-a-military-court.html)  [JSON](/news/2012/04/30/a-court-in-bahrain-orders-a-civil-trial-for-21-activists-who-took-part-in-anti-government-protests-and-were-convicted-by-a-military-court.json)  [XML](/news/2012/04/30/a-court-in-bahrain-orders-a-civil-trial-for-21-activists-who-took-part-in-anti-government-protests-and-were-convicted-by-a-military-court.xml)  
+
 ### [2012-04-30](/news/2012/04/30/index.md)
 
+##### Bahrain
 # A court in Bahrain orders a civil trial for 21 activists who took part in anti-government protests and were convicted by a military court. 
 
 Appeals court rules that opposition activists, including hunger striker Abdulhadi al-Khawaja, be retried in civil court.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/201243063120131864.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/7/201247174432125734_20.jpg)

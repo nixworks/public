@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/21/king-albert-ii-of-belgium-abdicates-in-favour-of-his-son-prince-philippe.html)  [JSON](/news/2013/07/21/king-albert-ii-of-belgium-abdicates-in-favour-of-his-son-prince-philippe.json)  [XML](/news/2013/07/21/king-albert-ii-of-belgium-abdicates-in-favour-of-his-son-prince-philippe.xml)  
+
 ### [2013-07-21](/news/2013/07/21/index.md)
 
+##### Albert II of Belgium
 # King Albert II of Belgium abdicates in favour of his son Prince Philippe. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/belgium-king-albert-makes-way-son-philippe)
 

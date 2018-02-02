@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/10/at-least-15-people-are-killed-and-several-dozen-others-sustain-wounds-during-a-suicide-attack-at-a-shia-hospital-in-khyber-pakhtunkhwa.html)  [JSON](/news/2010/12/10/at-least-15-people-are-killed-and-several-dozen-others-sustain-wounds-during-a-suicide-attack-at-a-shia-hospital-in-khyber-pakhtunkhwa.json)  [XML](/news/2010/12/10/at-least-15-people-are-killed-and-several-dozen-others-sustain-wounds-during-a-suicide-attack-at-a-shia-hospital-in-khyber-pakhtunkhwa.xml)  
+
 ### [2010-12-10](/news/2010/12/10/index.md)
 
+##### Khyber Pakhtunkhwa
 # At least 15 people are killed and several dozen others sustain wounds during a suicide attack at a Shia hospital in Khyber Pakhtunkhwa. 
 
 Suicide attack at Shia hospital in Khyber Pakhtunkhwa province kills at least 15 and wounds several dozen.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/12/2010121012392823908.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/10/20101210125851830833_20.jpg)

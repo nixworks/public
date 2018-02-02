@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/9/at-least-four-people-are-killed-including-the-gunman-and-five-people-injured-in-a-shooting-incident-in-china-s-northern-hebei-province.html)  [JSON](/news/2015/06/9/at-least-four-people-are-killed-including-the-gunman-and-five-people-injured-in-a-shooting-incident-in-china-s-northern-hebei-province.json)  [XML](/news/2015/06/9/at-least-four-people-are-killed-including-the-gunman-and-five-people-injured-in-a-shooting-incident-in-china-s-northern-hebei-province.xml)  
+
 ### [2015-06-9](/news/2015/06/9/index.md)
 
+##### China
 # At least four people are killed (including the gunman) and five people injured in a shooting incident in China's northern Hebei province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-33059234)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/83502000/png/_83502542_chinahebeisuning4640615.png)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/18/in-israel-the-israeli-defence-force-idf-investigating-alleged-crimes-by-an-israeli-officer-is-seeking-to-exhume-the-body-of-13-year-ol.html)  [JSON](/news/2004/11/18/in-israel-the-israeli-defence-force-idf-investigating-alleged-crimes-by-an-israeli-officer-is-seeking-to-exhume-the-body-of-13-year-ol.json)  [XML](/news/2004/11/18/in-israel-the-israeli-defence-force-idf-investigating-alleged-crimes-by-an-israeli-officer-is-seeking-to-exhume-the-body-of-13-year-ol.xml)  
+
 ### [2004-11-18](/news/2004/11/18/index.md)
 
+##### Israel
 #  In Israel, the Israeli Defence Force (IDF), investigating alleged crimes by an Israeli officer, is seeking to exhume the body of 13-year-old Iman al-Hams. The schoolgirl was shot at least 15 times by the IDF. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4022109.stm)
 

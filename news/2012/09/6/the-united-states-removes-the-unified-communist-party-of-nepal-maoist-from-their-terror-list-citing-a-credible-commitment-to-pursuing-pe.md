@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/6/the-united-states-removes-the-unified-communist-party-of-nepal-maoist-from-their-terror-list-citing-a-credible-commitment-to-pursuing-pe.html)  [JSON](/news/2012/09/6/the-united-states-removes-the-unified-communist-party-of-nepal-maoist-from-their-terror-list-citing-a-credible-commitment-to-pursuing-pe.json)  [XML](/news/2012/09/6/the-united-states-removes-the-unified-communist-party-of-nepal-maoist-from-their-terror-list-citing-a-credible-commitment-to-pursuing-pe.xml)  
+
 ### [2012-09-6](/news/2012/09/6/index.md)
 
+##### Nepalese Maoist Party
 # The United States removes the Unified Communist Party of Nepal (Maoist) from their terror list, citing "a credible commitment to pursuing peace and reconciliation". In June, a group around party vice-president Mohan Baidya announced a split in the party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gy243uFwiHQCBAS0j6E4qQ4vliWQ?docId=CNG.701f0036c82b4da1dc6e79c3d9850943.3d1)
 2. [State Department](http://www.state.gov/r/pa/prs/ps/2012/09/197411.htm)

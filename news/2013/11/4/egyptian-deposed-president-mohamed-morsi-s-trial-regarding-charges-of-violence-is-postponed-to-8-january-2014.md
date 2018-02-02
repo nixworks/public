@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/4/egyptian-deposed-president-mohamed-morsi-s-trial-regarding-charges-of-violence-is-postponed-to-8-january-2014.html)  [JSON](/news/2013/11/4/egyptian-deposed-president-mohamed-morsi-s-trial-regarding-charges-of-violence-is-postponed-to-8-january-2014.json)  [XML](/news/2013/11/4/egyptian-deposed-president-mohamed-morsi-s-trial-regarding-charges-of-violence-is-postponed-to-8-january-2014.xml)  
+
 ### [2013-11-4](/news/2013/11/4/index.md)
 
+##### Egypt
 # Egyptian deposed president Mohamed Morsi's trial regarding charges of violence is postponed to 8 January 2014. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica](http://allafrica.com/stories/201311041636.html)
 

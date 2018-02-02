@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/18/an-official-report-released-after-five-years-of-research-by-the-dresden-historians-commission-states-a-reduced-figure-of-as-many-as-25-000.html)  [JSON](/news/2010/03/18/an-official-report-released-after-five-years-of-research-by-the-dresden-historians-commission-states-a-reduced-figure-of-as-many-as-25-000.json)  [XML](/news/2010/03/18/an-official-report-released-after-five-years-of-research-by-the-dresden-historians-commission-states-a-reduced-figure-of-as-many-as-25-000.xml)  
+
 ### [2010-03-18](/news/2010/03/18/index.md)
 
+##### Dresden Historians' Commission
 # An official report released after five years of research by the Dresden Historians' Commission states a reduced figure of as many as 25,000 people died in the 1945 bombing of Dresden. 
 
 A five-year official study of the Allied bombing of Dresden in World War II has concluded that as many as 25,000 people died, far fewer than historian often estimated, the BBC reports.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8574157.stm)
 2. [The Sydney Morning Herald](http://www.smh.com.au/world/death-toll-in-dresden-raids-lower-than-thought-20100318-qif6.html)

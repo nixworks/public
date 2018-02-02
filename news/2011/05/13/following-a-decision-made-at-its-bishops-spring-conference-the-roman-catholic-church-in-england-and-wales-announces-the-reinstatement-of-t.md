@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/13/following-a-decision-made-at-its-bishops-spring-conference-the-roman-catholic-church-in-england-and-wales-announces-the-reinstatement-of-t.html)  [JSON](/news/2011/05/13/following-a-decision-made-at-its-bishops-spring-conference-the-roman-catholic-church-in-england-and-wales-announces-the-reinstatement-of-t.json)  [XML](/news/2011/05/13/following-a-decision-made-at-its-bishops-spring-conference-the-roman-catholic-church-in-england-and-wales-announces-the-reinstatement-of-t.xml)  
+
 ### [2011-05-13](/news/2011/05/13/index.md)
 
+##### Roman Catholic Church in England and Wales
 # Following a decision made at its Bishops' Spring Conference, the Roman Catholic Church in England and Wales announces the reinstatement of the rule of abstaining from eating red meat on Fridays. The practice, last observed in 1984, will be reintroduced on 16 September to coincide with the first anniversary of the visit of Pope Benedict XVI. 
 
 Practising Catholics will no longer be permitted to eat meat on Fridays after the Church in England and Wales announced it was reintroducing a rule dating back, hundreds of years.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/religion/8512721/Catholics-told-to-abstain-from-eating-meat-on-Fridays..html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01719/popeCrowd_1719158a.jpg)

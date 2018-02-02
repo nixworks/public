@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/26/as-many-as-ten-people-are-feared-dead-after-a-bomb-explodes-at-a-united-nations-building-in-abuja-nigeria.html)  [JSON](/news/2011/08/26/as-many-as-ten-people-are-feared-dead-after-a-bomb-explodes-at-a-united-nations-building-in-abuja-nigeria.json)  [XML](/news/2011/08/26/as-many-as-ten-people-are-feared-dead-after-a-bomb-explodes-at-a-united-nations-building-in-abuja-nigeria.xml)  
+
 ### [2011-08-26](/news/2011/08/26/index.md)
 
+##### bomb explodes
 # As many as ten people are feared dead after a bomb explodes at a United Nations building in Abuja, Nigeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/home/world-news/article/16057323)
 2. [The Guardian](http://www.guardian.co.uk/world/2011/aug/26/explosion-nigeria-un-building-bomb)

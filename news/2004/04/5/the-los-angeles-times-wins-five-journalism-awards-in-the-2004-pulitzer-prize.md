@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/5/the-los-angeles-times-wins-five-journalism-awards-in-the-2004-pulitzer-prize.html)  [JSON](/news/2004/04/5/the-los-angeles-times-wins-five-journalism-awards-in-the-2004-pulitzer-prize.json)  [XML](/news/2004/04/5/the-los-angeles-times-wins-five-journalism-awards-in-the-2004-pulitzer-prize.xml)  
+
 ### [2004-04-5](/news/2004/04/5/index.md)
 
+##### Los Angeles Times
 #  The "Los Angeles Times" wins five journalism awards in the 2004 Pulitzer Prize. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Mercury News](http://www.mercurynews.com/mld/mercurynews/news/breaking_news/8361737.htm)
 

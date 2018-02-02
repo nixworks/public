@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/12/16/south-korean-high-speed-rail-system-korea-train-express-open-between-seoul-and-busan.html)  [JSON](/news/2004/12/16/south-korean-high-speed-rail-system-korea-train-express-open-between-seoul-and-busan.json)  [XML](/news/2004/12/16/south-korean-high-speed-rail-system-korea-train-express-open-between-seoul-and-busan.xml)  
+
 ### [2004-12-16](/news/2004/12/16/index.md)
 
+##### Korea Train Express
 #  South Korean high-speed rail system, Korea Train Express open between Seoul and Busan.
 
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/05/17/the-prime-minister-of-pakistan-yusuf-raza-gilani-commences-a-state-visit-to-the-people-s-republic-of-china.html)  [JSON](/news/2011/05/17/the-prime-minister-of-pakistan-yusuf-raza-gilani-commences-a-state-visit-to-the-people-s-republic-of-china.json)  [XML](/news/2011/05/17/the-prime-minister-of-pakistan-yusuf-raza-gilani-commences-a-state-visit-to-the-people-s-republic-of-china.xml)  
+
 ### [2011-05-17](/news/2011/05/17/index.md)
 
+##### Prime Minister
 # The Prime Minister of Pakistan Yusuf Raza Gilani commences a state visit to the People's Republic of China. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/05/17/us-china-pakistan-idUSTRE74G0KT20110517?feedType=RSS&feedName=worldNews)
+1. [Reuters](https://www.reuters.com/article/2011/05/17/us-china-pakistan-idUSTRE74G0KT20110517?feedType=RSS&feedName=worldNews)
 1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20110517&t=2&i=416452173&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-17T131600Z_01_BTRE74G0CZ100_RTROPTP_0_PAKISTAN-CHINA)
 
 ### Related:

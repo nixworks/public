@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/04/13/spain-seeks-to-deter-argentina-s-nationalization-of-ypf-an-argentine-oil-company-majority-owned-by-spain-s-repsol-warning-that-such-a-nati.html)  [JSON](/news/2012/04/13/spain-seeks-to-deter-argentina-s-nationalization-of-ypf-an-argentine-oil-company-majority-owned-by-spain-s-repsol-warning-that-such-a-nati.json)  [XML](/news/2012/04/13/spain-seeks-to-deter-argentina-s-nationalization-of-ypf-an-argentine-oil-company-majority-owned-by-spain-s-repsol-warning-that-such-a-nati.xml)  
+
 ### [2012-04-13](/news/2012/04/13/index.md)
 
+##### Spain
 # Spain seeks to deter Argentina's nationalization of YPF, an Argentine oil company majority-owned by Spain's Repsol, warning that such a nationalization would make Argentina a "pariah". 
 
 The Spanish government warned on Friday that it would take unspecified retaliatory measures against Argentina if it proceeded with plans to take back control of YPF, the large oil and gas producer, from Repsol, its Spanish parent.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2012/04/14/business/global/spain-warns-argentina-about-ypf-takeover.html)
+1. [New York Times](https://www.nytimes.com/2012/04/14/business/global/spain-warns-argentina-about-ypf-takeover.html)
 1. [Cover Image](https://static01.nyt.com/images/2012/04/14/business/YPF/YPF-superJumbo.jpg)
 
 ### Related:

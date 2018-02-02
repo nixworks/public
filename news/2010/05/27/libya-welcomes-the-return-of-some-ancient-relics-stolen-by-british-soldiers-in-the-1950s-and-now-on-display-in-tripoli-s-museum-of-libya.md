@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/27/libya-welcomes-the-return-of-some-ancient-relics-stolen-by-british-soldiers-in-the-1950s-and-now-on-display-in-tripoli-s-museum-of-libya.html)  [JSON](/news/2010/05/27/libya-welcomes-the-return-of-some-ancient-relics-stolen-by-british-soldiers-in-the-1950s-and-now-on-display-in-tripoli-s-museum-of-libya.json)  [XML](/news/2010/05/27/libya-welcomes-the-return-of-some-ancient-relics-stolen-by-british-soldiers-in-the-1950s-and-now-on-display-in-tripoli-s-museum-of-libya.xml)  
+
 ### [2010-05-27](/news/2010/05/27/index.md)
 
+##### Libya
 # Libya welcomes the return of some ancient relics stolen by British soldiers in the 1950s and now on display in Tripoli's Museum of Libya. 
 
 Libyan artefacts taken to Britain in the 1950s have been returned home and go on display in Tripoli Museum.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10175793.stm)
 2. [Daily Mail](http://www.dailymail.co.uk/news/worldnews/article-1281959/British-families-return-ancient-artefacts-taken-Libya-World-War-Two.html?ITO=1490)

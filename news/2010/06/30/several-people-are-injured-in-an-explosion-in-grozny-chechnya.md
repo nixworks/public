@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/30/several-people-are-injured-in-an-explosion-in-grozny-chechnya.html)  [JSON](/news/2010/06/30/several-people-are-injured-in-an-explosion-in-grozny-chechnya.json)  [XML](/news/2010/06/30/several-people-are-injured-in-an-explosion-in-grozny-chechnya.xml)  
+
 ### [2010-06-30](/news/2010/06/30/index.md)
 
+##### Grozny
 # Several people are injured in an explosion in Grozny, Chechnya. 
 
 Powerful explosion hits Grozny but details on casualties remain unclear.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/06/2010630143814967221.html)
 2. [CBC](http://www.cbc.ca/world/story/2010/06/30/chechnya-blast-grozny.html)

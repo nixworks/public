@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/27/the-united-states-reports-70-militants-were-kil
 
 ### [2016-05-27](/news/2016/05/27/index.md)
 
+##### Iraqi civil war
 # The United States reports 70 militants were killed, including ISIL commander Maher al-Bilawi, in a Fallujah airstrike on Wednesday. 
 
 
@@ -20,8 +21,8 @@ Formats: [HTML](/news/2016/05/27/the-united-states-reports-70-militants-were-kil
 
 ### Related:
 
-1. [Iraqi security forces and Shiite Popular Mobilization Forces recapture Al-Karmah, about 16 kilometers (10 miles) northeast of Fallujah. ](/news/2016/05/26/iraqi-security-forces-and-shiite-popular-mobilization-forces-recapture-al-karmah-about-16-kilometers-10-miles-northeast-of-fallujah.md) _Context: Fallujah, Iraqi Civil War, Operation Breaking Terrorism_
+1. [Iraqi security forces and Shiite Popular Mobilization Forces recapture Al-Karmah, about 16 kilometers (10 miles) northeast of Fallujah. ](/news/2016/05/26/iraqi-security-forces-and-shiite-popular-mobilization-forces-recapture-al-karmah-about-16-kilometers-10-miles-northeast-of-fallujah.md) _Context: Fallujah, Iraqi civil war, Operation Breaking Terrorism_
 2. [ The Iraqi government begins Operation Breaking Terrorism, aimed at retaking the city of Fallujah, which has been under the control of the Islamic State of Iraq and the Levant group since early 2014. ](/news/2016/05/23/the-iraqi-government-begins-operation-breaking-terrorism-aimed-at-retaking-the-city-of-fallujah-which-has-been-under-the-control-of-the-i.md) _Context: Fallujah, ISIL, Operation Breaking Terrorism_
-3. [Seven people are killed and 13 are injured after suicide bombers hit a state-run power station near the northern city of Samarra, Iraq. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2017/09/2/seven-people-are-killed-and-13-are-injured-after-suicide-bombers-hit-a-state-run-power-station-near-the-northern-city-of-samarra-iraq-the.md) _Context: ISIL, Iraqi Civil War_
-4. [The Iraqi Army announces it is in full control of the Iraqi Turkmen city of Tal Afar in the Nineveh Governorate, after eight days of clashes with ISIL militants inside the city. ](/news/2017/08/27/the-iraqi-army-announces-it-is-in-full-control-of-the-iraqi-turkmen-city-of-tal-afar-in-the-nineveh-governorate-after-eight-days-of-clashes.md) _Context: ISIL, Iraqi Civil War_
-5. [Iraqi security forces, along with Shi'ite volunteers and Kurdish Peshmerga fighters, launch a ground offensive to take the city of Tal Afar back from Islamic State of Iraq and the Levant militants. The city has been isolated from the rest of the ISIL-held territory since the recent Mosul liberation. ](/news/2017/08/20/iraqi-security-forces-along-with-shi-ite-volunteers-and-kurdish-peshmerga-fighters-launch-a-ground-offensive-to-take-the-city-of-tal-afar.md) _Context: ISIL, Iraqi Civil War_
+3. [Twin suicide bombings at the Nakheel Mall in eastern Baghdad kill 12 people and injure more than 40 others. ISIL claims responsibility. ](/news/2016/09/9/twin-suicide-bombings-at-the-nakheel-mall-in-eastern-baghdad-kill-12-people-and-injure-more-than-40-others-isil-claims-responsibility.md) _Context: ISIL, Iraqi civil war_
+4. [According to reports, at least 250 ISIL militants were killed during fighting in the city of Fallujah while fighting Iraqi Army forces with assistance from U.S. airstrikes. ](/news/2016/06/30/according-to-reports-at-least-250-isil-militants-were-killed-during-fighting-in-the-city-of-fallujah-while-fighting-iraqi-army-forces-with.md) _Context: Fallujah, ISIL_
+5. [The United Nations reports 80,000 civilians have fled Fallujah, as Iraqi Army and Shia militias retake most of the city from ISIL. ](/news/2016/06/22/the-united-nations-reports-80-000-civilians-have-fled-fallujah-as-iraqi-army-and-shia-militias-retake-most-of-the-city-from-isil.md) _Context: Fallujah, ISIL_

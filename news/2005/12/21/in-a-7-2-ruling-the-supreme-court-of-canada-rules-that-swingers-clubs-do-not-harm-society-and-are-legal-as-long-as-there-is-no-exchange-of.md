@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/21/in-a-7-2-ruling-the-supreme-court-of-canada-rules-that-swingers-clubs-do-not-harm-society-and-are-legal-as-long-as-there-is-no-exchange-of.html)  [JSON](/news/2005/12/21/in-a-7-2-ruling-the-supreme-court-of-canada-rules-that-swingers-clubs-do-not-harm-society-and-are-legal-as-long-as-there-is-no-exchange-of.json)  [XML](/news/2005/12/21/in-a-7-2-ruling-the-supreme-court-of-canada-rules-that-swingers-clubs-do-not-harm-society-and-are-legal-as-long-as-there-is-no-exchange-of.xml)  
+
 ### [2005-12-21](/news/2005/12/21/index.md)
 
+##### Supreme Court of Canada
 #  In a 7-2 ruling, the Supreme Court of Canada rules that swingers clubs do not harm society and are legal as long as there is no exchange of money and the activities are conducted in private. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2005/12/21/SCOC-swingers-051221.html)
 2. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20051221/SCC_swingersruling_20051221/20051221?hub=CTVNewsAt11)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/9/election-officials-announce-all-ballots-have-bee
 
 ### [2016-06-9](/news/2016/06/9/index.md)
 
+##### Peruvian general election, 2016
 # Election officials announce all ballots have been processed and Pedro Pablo Kuczynski wins the closest presidential contest in five decades with 50.1 percent of the votes versus 49.9% for Keiko Fujimori. Fujimori has yet to concede defeat. As many as 50,000 ballots still need to be reviewed, but experts say Fujimori can not make up the difference of roughly 40,000 votes separating her from Kuczynski. 
 
 The economist Pedro Pablo Kuczynski wins a cliff-hanger presidential election in Peru, but unclear ballots must be settled by electoral court.

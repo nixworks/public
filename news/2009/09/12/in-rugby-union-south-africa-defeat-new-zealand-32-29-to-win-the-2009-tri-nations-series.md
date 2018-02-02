@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/12/in-rugby-union-south-africa-defeat-new-zealand-32-29-to-win-the-2009-tri-nations-series.html)  [JSON](/news/2009/09/12/in-rugby-union-south-africa-defeat-new-zealand-32-29-to-win-the-2009-tri-nations-series.json)  [XML](/news/2009/09/12/in-rugby-union-south-africa-defeat-new-zealand-32-29-to-win-the-2009-tri-nations-series.xml)  
+
 ### [2009-09-12](/news/2009/09/12/index.md)
 
+##### rugby union
 #  In rugby union, South Africa defeat New Zealand 32-29 to win the 2009 Tri Nations Series. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=6&click_id=2200&art_id=nw20090912113458955C800093)
 2. [Sport24](http://www.sport24.co.za/Content/Rugby/TriNations/355/1d18ea2b38834678a46a90adba75c67f/12-09-2009-11-16/Boks_are_Tri-Nations_champs)

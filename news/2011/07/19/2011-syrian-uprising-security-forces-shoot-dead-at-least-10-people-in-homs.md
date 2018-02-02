@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/19/2011-syrian-uprising-security-forces-shoot-dead-at-least-10-people-in-homs.html)  [JSON](/news/2011/07/19/2011-syrian-uprising-security-forces-shoot-dead-at-least-10-people-in-homs.json)  [XML](/news/2011/07/19/2011-syrian-uprising-security-forces-shoot-dead-at-least-10-people-in-homs.xml)  
+
 ### [2011-07-19](/news/2011/07/19/index.md)
 
+##### 2011 Syrian uprising
 # 2011 Syrian uprising: Security forces shoot dead at least 10 people in Homs. 
 
 Smoke billowing over Homs after night of intense gunfire
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jD97unh-0z8CGArL2FnVfsTaq0WQ?docId=5b439a939ee34bce9ffeb0374c8f3c49)
 2. [Emirates 24/7](http://www.emirates247.com/news/world/10-reported-killed-in-syrian-raids-2011-07-19-1.408623)

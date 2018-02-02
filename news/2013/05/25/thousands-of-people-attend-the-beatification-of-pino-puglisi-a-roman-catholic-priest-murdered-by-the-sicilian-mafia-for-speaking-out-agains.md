@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/25/thousands-of-people-attend-the-beatification-of-pino-puglisi-a-roman-catholic-priest-murdered-by-the-sicilian-mafia-for-speaking-out-agains.html)  [JSON](/news/2013/05/25/thousands-of-people-attend-the-beatification-of-pino-puglisi-a-roman-catholic-priest-murdered-by-the-sicilian-mafia-for-speaking-out-agains.json)  [XML](/news/2013/05/25/thousands-of-people-attend-the-beatification-of-pino-puglisi-a-roman-catholic-priest-murdered-by-the-sicilian-mafia-for-speaking-out-agains.xml)  
+
 ### [2013-05-25](/news/2013/05/25/index.md)
 
+##### Pino Puglisi
 # Thousands of people attend the beatification of Pino Puglisi, a Roman Catholic priest murdered by the Sicilian Mafia for speaking out against crime. 
 
 More than 50,000 people attend the beatification in Sicily of Don Giuseppe Puglisi, a Roman Catholic priest murdered by the mafia in 1993.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-22664822)
 2. [Herald Sun](http://www.heraldsun.com.au/news/breaking-news/thousands-at-mass-for-italys-mafia-martyr/story-fni0xqll-1226650537013)

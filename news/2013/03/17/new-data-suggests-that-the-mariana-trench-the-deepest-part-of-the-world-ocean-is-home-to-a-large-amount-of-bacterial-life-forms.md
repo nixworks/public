@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/17/new-data-suggests-that-the-mariana-trench-the-deepest-part-of-the-world-ocean-is-home-to-a-large-amount-of-bacterial-life-forms.html)  [JSON](/news/2013/03/17/new-data-suggests-that-the-mariana-trench-the-deepest-part-of-the-world-ocean-is-home-to-a-large-amount-of-bacterial-life-forms.json)  [XML](/news/2013/03/17/new-data-suggests-that-the-mariana-trench-the-deepest-part-of-the-world-ocean-is-home-to-a-large-amount-of-bacterial-life-forms.xml)  
+
 ### [2013-03-17](/news/2013/03/17/index.md)
 
+##### Mariana Trench
 # New data suggests that the Mariana Trench, the deepest part of the World Ocean, is home to a large amount of bacterial life forms. 
 
 Microbes have been found surprisingly thriving in the deepest spot on Earth, the Mariana Trench, suggesting other trenches could also be hotspots for life.
 
 
-### Source:
+### Sources:
 
 1. [LiveScience](http://www.livescience.com/27954-microbes-mariana-trench.html)
 1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAzNy84ODEvb3JpZ2luYWwvb2NlYW4taW5zdHJ1bWVudC5qcGc=)

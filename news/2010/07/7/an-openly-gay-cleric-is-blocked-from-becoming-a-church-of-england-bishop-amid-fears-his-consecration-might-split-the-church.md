@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/7/an-openly-gay-cleric-is-blocked-from-becoming-a-church-of-england-bishop-amid-fears-his-consecration-might-split-the-church.html)  [JSON](/news/2010/07/7/an-openly-gay-cleric-is-blocked-from-becoming-a-church-of-england-bishop-amid-fears-his-consecration-might-split-the-church.json)  [XML](/news/2010/07/7/an-openly-gay-cleric-is-blocked-from-becoming-a-church-of-england-bishop-amid-fears-his-consecration-might-split-the-church.xml)  
+
 ### [2010-07-7](/news/2010/07/7/index.md)
 
+##### Church of England
 # An openly gay cleric is blocked from becoming a Church of England bishop amid fears his consecration might split the Church. 
 
 An openly homosexual cleric has been blocked from becoming a Church of England bishop, The Daily Telegraph has learnt.
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/religion/7877839/Gay-cleric-blocked-from-becoming-Church-of-England-bishop.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01671/Dr-Jeffrey-John_1671941a.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/23/a-universal-mobile-phone-charger-that-works-with-any-handset-is-approved-by-the-international-telecommunication-union.html)  [JSON](/news/2009/10/23/a-universal-mobile-phone-charger-that-works-with-any-handset-is-approved-by-the-international-telecommunication-union.json)  [XML](/news/2009/10/23/a-universal-mobile-phone-charger-that-works-with-any-handset-is-approved-by-the-international-telecommunication-union.xml)  
+
 ### [2009-10-23](/news/2009/10/23/index.md)
 
+##### universal mobile phone charger
 #  A universal mobile phone charger that works with any handset is approved by the International Telecommunication Union. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/8323018.stm)
 

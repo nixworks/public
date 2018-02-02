@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/26/palestinian-factional-violence-more-than-13-people-are-killed-in-clashes-between-rival-factions-hamas-and-fatah.html)  [JSON](/news/2007/01/26/palestinian-factional-violence-more-than-13-people-are-killed-in-clashes-between-rival-factions-hamas-and-fatah.json)  [XML](/news/2007/01/26/palestinian-factional-violence-more-than-13-people-are-killed-in-clashes-between-rival-factions-hamas-and-fatah.xml)  
+
 ### [2007-01-26](/news/2007/01/26/index.md)
 
+##### clashes
 #  Palestinian factional violence: More than 13 people are killed in clashes between rival factions Hamas and Fatah. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6301763.stm)
 

@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/04/27/mexican-president-vicente-fox-accepts-resignation-of-his-attorney-general-rafael-macedo-and-orders-review-of-the-contempt-of-court-case-of.html)  [JSON](/news/2005/04/27/mexican-president-vicente-fox-accepts-resignation-of-his-attorney-general-rafael-macedo-and-orders-review-of-the-contempt-of-court-case-of.json)  [XML](/news/2005/04/27/mexican-president-vicente-fox-accepts-resignation-of-his-attorney-general-rafael-macedo-and-orders-review-of-the-contempt-of-court-case-of.xml)  
+
 ### [2005-04-27](/news/2005/04/27/index.md)
 
+##### Mexico
 #  Mexican president Vicente Fox accepts resignation of his attorney general Rafael Macedo and orders review of the contempt of court case of Andrs Manuel Lpez Obrador. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=aK_6tzl5P4Oc&refer=latin_america)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000086&sid=aK_6tzl5P4Oc&refer=latin_america)
 2. [El Universal](http://www2.eluniversal.com.mx/pls/impreso/noticia.html?id_nota=10296&tabla=miami)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8322106)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8322106)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

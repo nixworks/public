@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/2/chinese-military-aircraft-conduct-training-in-the-south-china-sea-following-the-cruise-of-a-u-s-navy-ship-in-the-vicinity-of-the-disputed-s.html)  [JSON](/news/2015/11/2/chinese-military-aircraft-conduct-training-in-the-south-china-sea-following-the-cruise-of-a-u-s-navy-ship-in-the-vicinity-of-the-disputed-s.json)  [XML](/news/2015/11/2/chinese-military-aircraft-conduct-training-in-the-south-china-sea-following-the-cruise-of-a-u-s-navy-ship-in-the-vicinity-of-the-disputed-s.xml)  
+
 ### [2015-11-2](/news/2015/11/2/index.md)
 
+##### Territorial disputes in the South China Sea
 # Chinese military aircraft conduct training in the South China Sea following the cruise of a U.S. Navy ship in the vicinity of the disputed Spratly Islands. 
 
 Days after a U.S. naval ship sailed by, Chinese officials released photographs of armed aircraft training over disputed territory in the South China Sea.
 
 
-### Source:
+### Sources:
 
 1. [International Business Times](http://www.ibtimes.com/south-china-sea-dispute-2015-armed-chinese-fighter-jets-train-over-controversial-2164263)
 2. [Reuters](http://in.reuters.com/article/2015/11/03/transcanada-keystone-idINL1N12X2K220151103)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/26/tamil-tigers-carry-out-an-air-raid-on-a-major-naval-base-at-trincomalee-on-the-east-coast-of-sri-lanka-injuring-four-sailors.html)  [JSON](/news/2008/08/26/tamil-tigers-carry-out-an-air-raid-on-a-major-naval-base-at-trincomalee-on-the-east-coast-of-sri-lanka-injuring-four-sailors.json)  [XML](/news/2008/08/26/tamil-tigers-carry-out-an-air-raid-on-a-major-naval-base-at-trincomalee-on-the-east-coast-of-sri-lanka-injuring-four-sailors.xml)  
+
 ### [2008-08-26](/news/2008/08/26/index.md)
 
+##### Tamil Tigers
 #  Tamil Tigers carry out an air raid on a major naval base at Trincomalee on the east coast of Sri Lanka, injuring four sailors. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7583225.stm)
 

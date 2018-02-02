@@ -1,9 +1,18 @@
+
+Formats: [HTML](/news/2005/02/19/former-us-presidents-george-h-w-bush-and-bill-clinton-toured-parts-of-thailand-that-were-ravaged-by-the-asian-tsunami-newslink-missi.html)  [JSON](/news/2005/02/19/former-us-presidents-george-h-w-bush-and-bill-clinton-toured-parts-of-thailand-that-were-ravaged-by-the-asian-tsunami-newslink-missi.json)  [XML](/news/2005/02/19/former-us-presidents-george-h-w-bush-and-bill-clinton-toured-parts-of-thailand-that-were-ravaged-by-the-asian-tsunami-newslink-missi.xml)  
+
 ### [2005-02-19](/news/2005/02/19/index.md)
 
+##### U.S. President
 #  Former US Presidents George H. W. Bush and Bill Clinton toured parts of Thailand that were ravaged by the Asian Tsunami. ""'[Newslink missing]""' 
 
 
 
+
+### Changes:
+
+1. [ Former US Presidents George H. W. Bush and Bill Clinton toured parts of Thailand that were ravaged by the Asian Tsunami. '''''[Newslink missing]''''' ](/news/2005/02/19/former-us-presidents-george-h-w-bush-and-bill-clinton-toured-parts-of-thailand-that-were-ravaged-by-the-asian-tsunami-newslink-mi.md) _2017-08-25 03:15:40 (First version)_
+1. [ Former US Presidents George H. W. Bush and Bill Clinton toured parts of Thailand that were ravaged by the Asian Tsunami. ""'[Newslink missing]""' ](/news/2005/02/19/former-us-presidents-george-h-w-bush-and-bill-clinton-toured-parts-of-thailand-that-were-ravaged-by-the-asian-tsunami-newslink-missi.md) _(Current version)_
 
 ### Related:
 
@@ -12,8 +21,3 @@
 3. [ Former U.S. President George H. W. Bush is hospitalized in intensive care at Houston Methodist Hospital for treatment of pneumonia. His wife, Barbara is also hospitalized. ](/news/2017/01/18/former-u-s-president-george-h-w-bush-is-hospitalized-in-intensive-care-at-houston-methodist-hospital-for-treatment-of-pneumonia-his-wif.md) _Context: George H. W. Bush, U.S. President_
 4. [George H. W. Bush is admitted in stable condition to The Methodist Hospital of the Texas Medical Center in Houston, Texas. The 88-year-old served as the 41st President of the United States from 1989 till 1993 and was hospitalized due to a severe cough and bronchitis but is expected to be discharged within 72 hours. ](/news/2012/11/29/george-h-w-bush-is-admitted-in-stable-condition-to-the-methodist-hospital-of-the-texas-medical-center-in-houston-texas-the-88-year-old-s.md) _Context: George H. W. Bush, U.S. President_
 5. [Former U.S. President Bill Clinton has two coronary stents implanted in his heart at the NewYork-Presbyterian Hospital in New York City, after chest pains. ](/news/2010/02/11/former-u-s-president-bill-clinton-has-two-coronary-stents-implanted-in-his-heart-at-the-newyorkapresbyterian-hospital-in-new-york-city-a.md) _Context: Bill Clinton, U.S. President_
-
-### Changes:
-
-1. [ Former US Presidents George H. W. Bush and Bill Clinton toured parts of Thailand that were ravaged by the Asian Tsunami. '''''[Newslink missing]''''' ](/news/2005/02/19/former-us-presidents-george-h-w-bush-and-bill-clinton-toured-parts-of-thailand-that-were-ravaged-by-the-asian-tsunami-newslink-mi.md) _2017-08-25 03:15:40 (First version)_
-1. [ Former US Presidents George H. W. Bush and Bill Clinton toured parts of Thailand that were ravaged by the Asian Tsunami. ""'[Newslink missing]""' ](/news/2005/02/19/former-us-presidents-george-h-w-bush-and-bill-clinton-toured-parts-of-thailand-that-were-ravaged-by-the-asian-tsunami-newslink-missi.md) _(Current version)_

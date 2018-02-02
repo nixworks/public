@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/06/10/kosovo-war-nato-suspends-its-air-strikes-after-slobodan-miloa-evia-agrees-to-withdraw-serbian-forces-from-kosovo.html)  [JSON](/news/1999/06/10/kosovo-war-nato-suspends-its-air-strikes-after-slobodan-miloa-evia-agrees-to-withdraw-serbian-forces-from-kosovo.json)  [XML](/news/1999/06/10/kosovo-war-nato-suspends-its-air-strikes-after-slobodan-miloa-evia-agrees-to-withdraw-serbian-forces-from-kosovo.xml)  
+
 ### [1999-06-10](/news/1999/06/10/index.md)
 
+##### NATO
 #  Kosovo War: NATO suspends its air strikes after Slobodan Milosevic agrees to withdraw Serbian forces from Kosovo.
 
 

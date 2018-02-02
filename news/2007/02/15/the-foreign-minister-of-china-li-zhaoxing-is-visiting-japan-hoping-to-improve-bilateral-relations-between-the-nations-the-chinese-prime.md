@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/15/the-foreign-minister-of-china-li-zhaoxing-is-visiting-japan-hoping-to-improve-bilateral-relations-between-the-nations-the-chinese-prime.html)  [JSON](/news/2007/02/15/the-foreign-minister-of-china-li-zhaoxing-is-visiting-japan-hoping-to-improve-bilateral-relations-between-the-nations-the-chinese-prime.json)  [XML](/news/2007/02/15/the-foreign-minister-of-china-li-zhaoxing-is-visiting-japan-hoping-to-improve-bilateral-relations-between-the-nations-the-chinese-prime.xml)  
+
 ### [2007-02-15](/news/2007/02/15/index.md)
 
+##### Foreign Minister of China
 #  The Foreign Minister of China, Li Zhaoxing, is visiting Japan hoping to improve bilateral relations between the nations. The Chinese Prime Minister Wen Jiabao will visit Japan in April. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6363831.stm)
 

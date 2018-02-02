@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/08/16/the-economy-of-germany-grows-by-only-0-1-in-the-second-quarter-of-2011-raising-concerns-about-the-european-economy-as-a-whole.html)  [JSON](/news/2011/08/16/the-economy-of-germany-grows-by-only-0-1-in-the-second-quarter-of-2011-raising-concerns-about-the-european-economy-as-a-whole.json)  [XML](/news/2011/08/16/the-economy-of-germany-grows-by-only-0-1-in-the-second-quarter-of-2011-raising-concerns-about-the-european-economy-as-a-whole.xml)  
+
 ### [2011-08-16](/news/2011/08/16/index.md)
 
+##### economy of Germany
 # The economy of Germany grows by only 0.1% in the second quarter of 2011, raising concerns about the European economy as a whole. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/business/economy/eurozone-economic-motor-germany-sees-growth-rate-drop-to-01-percent/2011/08/16/gIQAp3EYIJ_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/business/economy/eurozone-economic-motor-germany-sees-growth-rate-drop-to-01-percent/2011/08/16/gIQAp3EYIJ_story.html)
 
 ### Related:
 

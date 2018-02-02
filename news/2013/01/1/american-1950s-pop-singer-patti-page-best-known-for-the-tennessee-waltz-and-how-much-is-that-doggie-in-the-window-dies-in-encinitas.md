@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2013/01/1/american-1950s-pop-singer-patti-page-best-known-for-the-tennessee-waltz-and-how-much-is-that-doggie-in-the-window-dies-in-encinitas.html)  [JSON](/news/2013/01/1/american-1950s-pop-singer-patti-page-best-known-for-the-tennessee-waltz-and-how-much-is-that-doggie-in-the-window-dies-in-encinitas.json)  [XML](/news/2013/01/1/american-1950s-pop-singer-patti-page-best-known-for-the-tennessee-waltz-and-how-much-is-that-doggie-in-the-window-dies-in-encinitas.xml)  
+
 ### [2013-01-1](/news/2013/01/1/index.md)
 
+##### American
 # American 1950s pop singer Patti Page, best known for the "Tennessee Waltz" and "(How Much Is That) Doggie In The Window" dies in Encinitas, California. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC San Diego](http://www.nbcsandiego.com/news/local/Patti-Page-Died-Encinitas-Rancho-Santa-Fe-185415202.html)
 1. [Cover Image](http://media.nbcsandiego.com/images/1200*675/AP5801170191cropped.jpg)
+
+### Changes:
+
+1. [American 1950s pop singer Patti Page, best known for the ''Tennessee Waltz'' and ''(How Much Is That) Doggie In The Window'' dies in Encinitas, California. ](/news/2013/01/1/american-1950s-pop-singer-patti-page-best-known-for-the-tennessee-waltz-and-how-much-is-that-doggie-in-the-window-dies-in-encinit.md) _2017-08-25 03:37:10 (First version)_
+1. [American 1950s pop singer Patti Page, best known for the "Tennessee Waltz" and "(How Much Is That) Doggie In The Window" dies in Encinitas, California. ](/news/2013/01/1/american-1950s-pop-singer-patti-page-best-known-for-the-tennessee-waltz-and-how-much-is-that-doggie-in-the-window-dies-in-encinitas.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [American Olympic swimmers Ryan Lochte, Gunnar Bentz, Jack Conger and Jimmy Feigen claim they were robbed at gunpoint in Rio de Janeiro by men posing as Brazilian police officers. ](/news/2016/08/14/american-olympic-swimmers-ryan-lochte-gunnar-bentz-jack-conger-and-jimmy-feigen-claim-they-were-robbed-at-gunpoint-in-rio-de-janeiro-by-me.md) _Context: American_
 4. [Several American personnel are suspended after an official report finds that human error was to blame for an airstrike on a Doctors without Borders hospital in the Afghan city of Kunduz in October that killed 30 people. No criminal charges were filed. ](/news/2015/11/25/several-american-personnel-are-suspended-after-an-official-report-finds-that-human-error-was-to-blame-for-an-airstrike-on-a-doctors-without.md) _Context: American_
 5. [American pop music star Taylor Swift wins 8 awards at the "Billboard" Music Awards, including top artist. ](/news/2015/05/17/american-pop-music-star-taylor-swift-wins-8-awards-at-the-billboard-music-awards-including-top-artist.md) _Context: pop_
-
-### Changes:
-
-1. [American 1950s pop singer Patti Page, best known for the ''Tennessee Waltz'' and ''(How Much Is That) Doggie In The Window'' dies in Encinitas, California. ](/news/2013/01/1/american-1950s-pop-singer-patti-page-best-known-for-the-tennessee-waltz-and-how-much-is-that-doggie-in-the-window-dies-in-encinit.md) _2017-08-25 03:37:10 (First version)_
-1. [American 1950s pop singer Patti Page, best known for the "Tennessee Waltz" and "(How Much Is That) Doggie In The Window" dies in Encinitas, California. ](/news/2013/01/1/american-1950s-pop-singer-patti-page-best-known-for-the-tennessee-waltz-and-how-much-is-that-doggie-in-the-window-dies-in-encinitas.md) _(Current version)_

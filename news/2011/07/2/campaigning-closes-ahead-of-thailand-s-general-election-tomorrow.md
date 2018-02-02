@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/2/campaigning-closes-ahead-of-thailand-s-general-election-tomorrow.html)  [JSON](/news/2011/07/2/campaigning-closes-ahead-of-thailand-s-general-election-tomorrow.json)  [XML](/news/2011/07/2/campaigning-closes-ahead-of-thailand-s-general-election-tomorrow.xml)  
+
 ### [2011-07-2](/news/2011/07/2/index.md)
 
+##### general election
 # Campaigning closes ahead of Thailand's general election tomorrow. 
 
 Main opposition Puea Thai Party enjoys clear lead in polls over party of current prime minister Abhisit Vejjajiva.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/video/asia-pacific/2011/07/20117251016934132.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/2/20117252034969734_20.jpg)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/07/21/following-the-decision-of-the-philippines-to-accede-to-hostage-takers-demands-that-it-withdraw-all-51-soldiers-from-iraq-militants-in-ira.html)  [JSON](/news/2004/07/21/following-the-decision-of-the-philippines-to-accede-to-hostage-takers-demands-that-it-withdraw-all-51-soldiers-from-iraq-militants-in-ira.json)  [XML](/news/2004/07/21/following-the-decision-of-the-philippines-to-accede-to-hostage-takers-demands-that-it-withdraw-all-51-soldiers-from-iraq-militants-in-ira.xml)  
+
 ### [2004-07-21](/news/2004/07/21/index.md)
 
+##### Philippines
 #  Following the decision of the Philippines to accede to hostage-takers' demands that it withdraw all 51 soldiers from Iraq, militants in Iraq abduct three Indians, two Kenyans and an Egyptian, announcing that the hostages would be beheaded unless their countries immediately announce the withdrawal of troops from Iraq.
 
 

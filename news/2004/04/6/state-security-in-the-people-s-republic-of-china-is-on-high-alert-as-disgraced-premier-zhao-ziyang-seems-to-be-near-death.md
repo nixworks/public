@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/6/state-security-in-the-people-s-republic-of-china-is-on-high-alert-as-disgraced-premier-zhao-ziyang-seems-to-be-near-death.html)  [JSON](/news/2004/04/6/state-security-in-the-people-s-republic-of-china-is-on-high-alert-as-disgraced-premier-zhao-ziyang-seems-to-be-near-death.json)  [XML](/news/2004/04/6/state-security-in-the-people-s-republic-of-china-is-on-high-alert-as-disgraced-premier-zhao-ziyang-seems-to-be-near-death.xml)  
+
 ### [2004-04-6](/news/2004/04/6/index.md)
 
+##### China
 #  State security in the People's Republic of China is on high alert as disgraced Premier Zhao Ziyang seems to be near death.
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2004/WORLD/asiapcf/04/06/china.zhao/index.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/01/12/two-members-of-funk-band-tower-of-power-are-seriously-injured-after-being-struck-by-a-train-near-jack-london-square-in-oakland-california.html)  [JSON](/news/2017/01/12/two-members-of-funk-band-tower-of-power-are-seriously-injured-after-being-struck-by-a-train-near-jack-london-square-in-oakland-california.json)  [XML](/news/2017/01/12/two-members-of-funk-band-tower-of-power-are-seriously-injured-after-being-struck-by-a-train-near-jack-london-square-in-oakland-california.xml)  
+
 ### [2017-01-12](/news/2017/01/12/index.md)
 
+##### Tower of Power
 # Two members of funk band Tower of Power are seriously injured after being struck by a train near Jack London Square in Oakland, California.
 
 Two members of longtime Oakland rhythm and blues band Tower of Power were hit by a train in Oakland near Jack London Square on Thursday night minutes before a scheduled show at Yoshi’s. Longtime drummer David Garibaldi and bassist Marc Van Wageningen were struck by an Amtrak train passing outside the popular venue shortly before their show that was scheduled for 8 p.m., said Jeremy Westby, a publicist for the group, which has been performing since the late 1960s. A group of four people tried to cross the tracks — while the warning guard arms were still down — toward Yoshi’s after a freight train slowly chugged by, Smith said. [...] the pedestrians didn’t see the Amtrak train traveling about 25 mph from the opposite direction on another track, he said. Both of their scheduled shows at Yoshi’s — an annual affair — were canceled after the accident, said Hal Campos, the club’s general manager. Both men got hit by the train and thrown through the air in opposite directions, he said, based on multiple witness accounts. Witnesses told police that the train’s operator was sounding the horn when the accident occurred, Smith said.
 
 
-### Source:
+### Sources:
 
 1. [SF Gate](http://www.sfgate.com/bayarea/article/2-pedestrians-hit-by-train-in-Oakland-near-estuary-10854827.php|)
 1. [Cover Image](http://ww3.hdnux.com/photos/56/36/31/12183166/5/rawImage.jpg)

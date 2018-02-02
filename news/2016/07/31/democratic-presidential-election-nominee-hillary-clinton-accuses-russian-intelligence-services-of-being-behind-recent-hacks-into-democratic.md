@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/31/democratic-presidential-election-nominee-hillar
 
 ### [2016-07-31](/news/2016/07/31/index.md)
 
+##### Democratic National Committee cyber attacks
 # Democratic presidential election nominee Hillary Clinton accuses Russian intelligence services of being behind recent hacks into Democratic National Committee computers, while also accusing Republican presidential nominee Donald Trump of supporting Russian President Vladimir Putin. 
 
 U.S. Democratic presidential candidate Hillary Clinton said Russian intelligence services hacked into Democratic National Committee computers and she accused Republican contender Donald Trump of showing support for Russian President Vladimir Putin.

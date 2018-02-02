@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/10/2/israel-agrees-with-hamas-to-swap-twenty-female-palestinian-prisoners-for-a-videotape-proving-israeli-soldier-gilad-shalit-is-still-alive.html)  [JSON](/news/2009/10/2/israel-agrees-with-hamas-to-swap-twenty-female-palestinian-prisoners-for-a-videotape-proving-israeli-soldier-gilad-shalit-is-still-alive.json)  [XML](/news/2009/10/2/israel-agrees-with-hamas-to-swap-twenty-female-palestinian-prisoners-for-a-videotape-proving-israeli-soldier-gilad-shalit-is-still-alive.xml)  
+
 ### [2009-10-2](/news/2009/10/2/index.md)
 
+##### Israel
 #  Israel agrees with Hamas to swap twenty female Palestinian prisoners for a videotape proving Israeli soldier Gilad Shalit is still alive. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://haaretz.com/hasen/spages/1118389.html)
-2. [The New York Times](http://www.nytimes.com/2009/10/03/world/middleeast/03mideast.html?hp)
+2. [The New York Times](https://www.nytimes.com/2009/10/03/world/middleeast/03mideast.html?hp)
 
 ### Related:
 

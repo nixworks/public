@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/3/pope-john-paul-ii-lies-in-state-in-the-clementine-room-of-the-apostolic-palace-for-a-private-viewing-a-ceremony-to-confirm-and-certify-the.html)  [JSON](/news/2005/04/3/pope-john-paul-ii-lies-in-state-in-the-clementine-room-of-the-apostolic-palace-for-a-private-viewing-a-ceremony-to-confirm-and-certify-the.json)  [XML](/news/2005/04/3/pope-john-paul-ii-lies-in-state-in-the-clementine-room-of-the-apostolic-palace-for-a-private-viewing-a-ceremony-to-confirm-and-certify-the.xml)  
+
 ### [2005-04-3](/news/2005/04/3/index.md)
 
+##### Pope
 #  Pope John Paul II lies in state in the Clementine Room of the Apostolic Palace for a private viewing, a ceremony to confirm and certify the death of the "Pontifex Maximus". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,152298,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

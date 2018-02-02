@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/1/adam-air-flight-574-disappears-over-indonesia-with-102-people-on-board.html)  [JSON](/news/2007/01/1/adam-air-flight-574-disappears-over-indonesia-with-102-people-on-board.json)  [XML](/news/2007/01/1/adam-air-flight-574-disappears-over-indonesia-with-102-people-on-board.xml)  
+
 ### [2007-01-1](/news/2007/01/1/index.md)
 
+##### Adam Air
 #  Adam Air Flight 574 disappears over Indonesia with 102 people on board. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/article/0,,30000-1245632,00.html)
 

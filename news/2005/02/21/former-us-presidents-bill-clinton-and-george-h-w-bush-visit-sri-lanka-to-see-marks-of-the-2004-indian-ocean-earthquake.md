@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/02/21/former-us-presidents-bill-clinton-and-george-h-w-bush-visit-sri-lanka-to-see-marks-of-the-2004-indian-ocean-earthquake.html)  [JSON](/news/2005/02/21/former-us-presidents-bill-clinton-and-george-h-w-bush-visit-sri-lanka-to-see-marks-of-the-2004-indian-ocean-earthquake.json)  [XML](/news/2005/02/21/former-us-presidents-bill-clinton-and-george-h-w-bush-visit-sri-lanka-to-see-marks-of-the-2004-indian-ocean-earthquake.xml)  
+
 ### [2005-02-21](/news/2005/02/21/index.md)
 
+##### Bill Clinton
 #  Former US Presidents Bill Clinton and George H. W. Bush visit Sri Lanka to see marks of the 2004 Indian Ocean earthquake 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/133577/1/.html)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=politicsNews&storyID=7684438)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=politicsNews&storyID=7684438)
 3. [Wired](http://wireservice.wired.com/wired/story.asp?section=Breaking&storyId=993704&tw=wn_wire_story)
 
 ### Related:

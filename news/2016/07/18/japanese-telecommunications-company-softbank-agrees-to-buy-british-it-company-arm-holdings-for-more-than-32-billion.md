@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/18/japanese-telecommunications-company-softbank-ag
 
 ### [2016-07-18](/news/2016/07/18/index.md)
 
+##### SoftBank
 # Japanese telecommunications company SoftBank agrees to buy British IT company ARM Holdings for more than $32 billion. 
 
 U.K.-based chip designer ARM Holdings confirmed that it agreed to a $32 billion buyout offer from Japan’s SoftBank Group Corp.

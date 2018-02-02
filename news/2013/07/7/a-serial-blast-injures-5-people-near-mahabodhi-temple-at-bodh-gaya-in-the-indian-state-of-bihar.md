@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/7/a-serial-blast-injures-5-people-near-mahabodhi-temple-at-bodh-gaya-in-the-indian-state-of-bihar.html)  [JSON](/news/2013/07/7/a-serial-blast-injures-5-people-near-mahabodhi-temple-at-bodh-gaya-in-the-indian-state-of-bihar.json)  [XML](/news/2013/07/7/a-serial-blast-injures-5-people-near-mahabodhi-temple-at-bodh-gaya-in-the-indian-state-of-bihar.xml)  
+
 ### [2013-07-7](/news/2013/07/7/index.md)
 
+##### serial blast
 # A serial blast injures 5 people near Mahabodhi temple at Bodh Gaya, in the Indian state of Bihar. 
 
 Nine blasts took place outside the world famous temple at around 5am today.Initial reports said that there has been no damage to the temple.
 
 
-### Source:
+### Sources:
 
 1. [TOI](http://timesofindia.indiatimes.com/city/patna/5-injured-in-multiple-blasts-at-Mahabodhi-temple-in-Bodh-Gaya/articleshow/20951736.cms?)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/20952404.cms)

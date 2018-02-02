@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/3/spacex-crs-2-the-cargo-ship-spacex-dragon-docks-at-the-international-space-station-after-a-brief-delay.html)  [JSON](/news/2013/03/3/spacex-crs-2-the-cargo-ship-spacex-dragon-docks-at-the-international-space-station-after-a-brief-delay.json)  [XML](/news/2013/03/3/spacex-crs-2-the-cargo-ship-spacex-dragon-docks-at-the-international-space-station-after-a-brief-delay.xml)  
+
 ### [2013-03-3](/news/2013/03/3/index.md)
 
+##### SpaceX CRS-2
 # SpaceX CRS-2: The cargo ship SpaceX Dragon docks at the International Space Station after a brief delay. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNet](http://news.cnet.com/8301-11386_3-57572248-76/cargo-ship-attached-to-station-after-smooth-rendezvous/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/19/former-pakistani-president-pervez-musharraf-is-arrested-at-his-home-on-charges-relating-to-unlawful-detention-of-judges-in-2007-he-was-pres.html)  [JSON](/news/2013/04/19/former-pakistani-president-pervez-musharraf-is-arrested-at-his-home-on-charges-relating-to-unlawful-detention-of-judges-in-2007-he-was-pres.json)  [XML](/news/2013/04/19/former-pakistani-president-pervez-musharraf-is-arrested-at-his-home-on-charges-relating-to-unlawful-detention-of-judges-in-2007-he-was-pres.xml)  
+
 ### [2013-04-19](/news/2013/04/19/index.md)
 
+##### Pakistan
 # Former Pakistani President Pervez Musharraf is arrested at his home on charges relating to unlawful detention of judges in 2007. He was present at the court when the arrest warrant was issued on Thursday, but had left before the warrant was served. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-22211766)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67100000/jpg/_67100957_017771352_reut.jpg)

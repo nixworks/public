@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/9/thailand-celebrates-the-70th-anniversary-of-king
 
 ### [2016-06-9](/news/2016/06/9/index.md)
 
+##### Thailand
 # Thailand celebrates the 70th anniversary of King Bhumibol Adulyadej's accession to the Thai throne. 
 
 

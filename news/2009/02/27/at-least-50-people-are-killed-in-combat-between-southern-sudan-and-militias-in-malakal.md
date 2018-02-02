@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/27/at-least-50-people-are-killed-in-combat-between-southern-sudan-and-militias-in-malakal.html)  [JSON](/news/2009/02/27/at-least-50-people-are-killed-in-combat-between-southern-sudan-and-militias-in-malakal.json)  [XML](/news/2009/02/27/at-least-50-people-are-killed-in-combat-between-southern-sudan-and-militias-in-malakal.xml)  
+
 ### [2009-02-27](/news/2009/02/27/index.md)
 
+##### civil war
 #  At least 50 people are killed in combat between Southern Sudan and militias in Malakal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7915144.stm)
 

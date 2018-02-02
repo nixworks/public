@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/9/us-president-george-w-bush-pledges-4-500-troops-to-afghanistan-over-the-next-few-months-and-orders-8-000-troops-currently-stationed-in-ira.html)  [JSON](/news/2008/09/9/us-president-george-w-bush-pledges-4-500-troops-to-afghanistan-over-the-next-few-months-and-orders-8-000-troops-currently-stationed-in-ira.json)  [XML](/news/2008/09/9/us-president-george-w-bush-pledges-4-500-troops-to-afghanistan-over-the-next-few-months-and-orders-8-000-troops-currently-stationed-in-ira.xml)  
+
 ### [2008-09-9](/news/2008/09/9/index.md)
 
+##### George W. Bush
 #  US President George W. Bush pledges 4,500 troops to Afghanistan over the next few months and orders 8,000 troops currently stationed in Iraq to be home by February. 
 
 The United States will ramp up its troop levels in Afghanistan over the next few months as some troops slated for Iraq are deployed instead to the troubled Asian country, President George W. Bush said Tuesday.
 
 
-### Source:
+### Sources:
 
 1. [CBC News](http://www.cbc.ca/world/story/2008/09/09/iraq-bush.html)
 1. [Cover Image](https://i.cbc.ca/1.2233040.1382676773!/httpImage/image.jpg_gen/derivatives/16x9_1180/tp-iraq-patrol-cp-4365476-306.jpg)

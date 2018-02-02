@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/01/9/a-fourth-church-is-attacked-in-malaysia-as-a-row-over-the-use-of-the-word-allah-by-non-muslims-deepens.html)  [JSON](/news/2010/01/9/a-fourth-church-is-attacked-in-malaysia-as-a-row-over-the-use-of-the-word-allah-by-non-muslims-deepens.json)  [XML](/news/2010/01/9/a-fourth-church-is-attacked-in-malaysia-as-a-row-over-the-use-of-the-word-allah-by-non-muslims-deepens.xml)  
+
 ### [2010-01-9](/news/2010/01/9/index.md)
 
+##### Malaysia
 # A fourth church is attacked in Malaysia as a row over the use of the word "Allah" by non-Muslims deepens. 
 
 Arsonists in Malaysia struck a fourth church on Saturday as the government tried to soothe tensions arising from a row over the use of the word &quot;Allah&quot; to refer to the Christian God.
 
 
-### Source:
+### Sources:
 
 1. [Malayasian Star](http://thestar.com.my/news/story.asp?file=/2010/1/9/nation/20100109161228&sec=nation)
-2. [Reuters](http://www.reuters.com/article/idUSTRE6080MV20100109)
+2. [Reuters](https://www.reuters.com/article/idUSTRE6080MV20100109)
 3. [Sydney Morning Herald](http://www.smh.com.au/world/fourth-church-firebombed-20100109-m06k.html)
-3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20100109&t=2&i=43087214&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-01-09T132835Z_01_BTRE60811FU00_RTROPTP_0_MALAYSIA-ALLAH)
+3. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20100109&t=2&i=43087214&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-01-09T132835Z_01_BTRE60811FU00_RTROPTP_0_MALAYSIA-ALLAH)
 
 ### Related:
 

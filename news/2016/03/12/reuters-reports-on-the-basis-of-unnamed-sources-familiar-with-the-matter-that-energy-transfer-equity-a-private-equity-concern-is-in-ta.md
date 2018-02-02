@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/12/reuters-reports-on-the-basis-of-unnamed-sources
 
 ### [2016-03-12](/news/2016/03/12/index.md)
 
+##### Energy Transfer Equity
 # Reuters reports, on the basis of unnamed sources "familiar with the matter," that Energy Transfer Equity, a private equity concern, is in talks to sell Sunoco, a deal which would be valued at more than $2 billion. 
 
 Energy Transfer Equity LP (ETE.N), the U.S. pipeline company that agreed to acquire Williams Companies Inc (WMB.N), has held talks to sell gas station and convenience store operator Sunoco LP (SUN.N), according to three people familiar with the matter.

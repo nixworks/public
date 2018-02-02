@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/8/former-south-african-president-nelson-mandela-is-readmitted-to-a-pretoria-hospital-in-a-serious-condition-with-a-recurring-lung-infection.html)  [JSON](/news/2013/06/8/former-south-african-president-nelson-mandela-is-readmitted-to-a-pretoria-hospital-in-a-serious-condition-with-a-recurring-lung-infection.json)  [XML](/news/2013/06/8/former-south-african-president-nelson-mandela-is-readmitted-to-a-pretoria-hospital-in-a-serious-condition-with-a-recurring-lung-infection.xml)  
+
 ### [2013-06-8](/news/2013/06/8/index.md)
 
+##### South Africa
 # Former South African president Nelson Mandela is readmitted to a Pretoria hospital in a serious condition with a recurring lung infection. 
 
 The presidency says former leader Nelson Mandela has been taken to a hospital because of a lung infection.
 
 
-### Source:
+### Sources:
 
 1. [AP via News24](http://www.news24.com/news24/SouthAfrica/News/Mandela-taken-to-hospital-20130608)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-22824988)

@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2015/10/28/dennis-hastert-former-united-states-speaker-of-the-house-of-representatives-1999a2007-pleaded-guilty-to-a-federal-financial-crime-in-a.html)  [JSON](/news/2015/10/28/dennis-hastert-former-united-states-speaker-of-the-house-of-representatives-1999a2007-pleaded-guilty-to-a-federal-financial-crime-in-a.json)  [XML](/news/2015/10/28/dennis-hastert-former-united-states-speaker-of-the-house-of-representatives-1999a2007-pleaded-guilty-to-a-federal-financial-crime-in-a.xml)  
+
 ### [2015-10-28](/news/2015/10/28/index.md)
 
+##### Dennis Hastert
 # Dennis Hastert, former United States Speaker of the House of Representatives (1999-2007), pleaded guilty to a federal financial crime in a hush money case stemming from sexual misconduct allegations. The sentencing hearing is scheduled for February 29, 2016. The crime carries a sentence of up to five years in prison and $250,000 fine. Prosecutors recommend zero to six months imprisonment. 
 
 Former U.S. House Speaker Dennis Hastert pleaded guilty on Wednesday to a federal financial crime in a hush-money case stemming from allegations of sexual misconduct, marking the dramatic downfall of a once powerful politician.
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/Politics/wireStory/timeline-events-dennis-hasterts-life-career-34799633)
-2. [Reuters](http://www.reuters.com/article/2015/10/28/us-usa-crime-hastert-idUSKCN0SM17Z20151028)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20151028&t=2&i=1090439753&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9R0X0)
+2. [Reuters](https://www.reuters.com/article/2015/10/28/us-usa-crime-hastert-idUSKCN0SM17Z20151028)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20151028&t=2&i=1090439753&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9R0X0)
+
+### Changes:
+
+1. [Dennis Hastert, former United States Speaker of the House of Representatives (1999-2007), pleaded guilty to a federal financial crime in a hush money case stemming from sexual misconduct allegations. The sentencing hearing is scheduled for February 29, 2016. The crime carries a sentence of up to five years in prison and $250,000 fine. Prosecutors recommend zero to six months imprisonment. ](/news/2015/10/28/dennis-hastert-former-united-states-speaker-of-the-house-of-representatives-1999-2007-pleaded-guilty-to-a-federal-financial-crime-in-a.md) _2017-08-27 03:43:34 (First version)_
+1. [Dennis Hastert, former United States Speaker of the House of Representatives (1999-2007), pleaded guilty to a federal financial crime in a hush money case stemming from sexual misconduct allegations. The sentencing hearing is scheduled for February 29, 2016. The crime carries a sentence of up to five years in prison and $250,000 fine. Prosecutors recommend zero to six months imprisonment. ](/news/2015/10/28/dennis-hastert-former-united-states-speaker-of-the-house-of-representatives-1999a2007-pleaded-guilty-to-a-federal-financial-crime-in-a.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ Former U.S. House Speaker Dennis Hastert pleaded guilty on Wednesday to a federa
 3. [ Speaker of the United States House of Representatives Dennis Hastert sits down with ethics investigators trying to determine when he and his staff learned about ex-Rep. Mark Foley's come-ons to former male pages and what they did to stop it. ](/news/2006/10/24/speaker-of-the-united-states-house-of-representatives-dennis-hastert-sits-down-with-ethics-investigators-trying-to-determine-when-he-and-hi.md) _Context: Dennis Hastert, U.S. Speaker of the House of Representatives_
 4. [ The ABC News claims that Speaker of the United States House of Representatives Dennis Hastert is under investigation for corruption, but the Justice Department issues a denial. ](/news/2006/05/24/the-abc-news-claims-that-speaker-of-the-united-states-house-of-representatives-dennis-hastert-is-under-investigation-for-corruption-but-th.md) _Context: Dennis Hastert, U.S. Speaker of the House of Representatives_
 5. [ Dennis Hastert becomes Speaker of the United States House of Representatives.](/news/1999/01/6/dennis-hastert-becomes-speaker-of-the-united-states-house-of-representatives.md) _Context: Dennis Hastert, U.S. Speaker of the House of Representatives_
-
-### Changes:
-
-1. [Dennis Hastert, former United States Speaker of the House of Representatives (1999-2007), pleaded guilty to a federal financial crime in a hush money case stemming from sexual misconduct allegations. The sentencing hearing is scheduled for February 29, 2016. The crime carries a sentence of up to five years in prison and $250,000 fine. Prosecutors recommend zero to six months imprisonment. ](/news/2015/10/28/dennis-hastert-former-united-states-speaker-of-the-house-of-representatives-1999-2007-pleaded-guilty-to-a-federal-financial-crime-in-a.md) _2017-08-27 03:43:34 (First version)_
-1. [Dennis Hastert, former United States Speaker of the House of Representatives (1999-2007), pleaded guilty to a federal financial crime in a hush money case stemming from sexual misconduct allegations. The sentencing hearing is scheduled for February 29, 2016. The crime carries a sentence of up to five years in prison and $250,000 fine. Prosecutors recommend zero to six months imprisonment. ](/news/2015/10/28/dennis-hastert-former-united-states-speaker-of-the-house-of-representatives-1999a2007-pleaded-guilty-to-a-federal-financial-crime-in-a.md) _(Current version)_

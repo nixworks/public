@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2007/04/18/iccho-itoh-mayor-of-nagasaki-japan-dies-after-being-shot-in-a-suspected-gangland-killing-on-tuesday-japanese-prime-minister-shinzo-abe.html)  [JSON](/news/2007/04/18/iccho-itoh-mayor-of-nagasaki-japan-dies-after-being-shot-in-a-suspected-gangland-killing-on-tuesday-japanese-prime-minister-shinzo-abe.json)  [XML](/news/2007/04/18/iccho-itoh-mayor-of-nagasaki-japan-dies-after-being-shot-in-a-suspected-gangland-killing-on-tuesday-japanese-prime-minister-shinzo-abe.xml)  
+
 ### [2007-04-18](/news/2007/04/18/index.md)
 
+##### Iccho Itoh
 #  Iccho Itoh, Mayor of Nagasaki, Japan, dies after being shot in a suspected gangland killing on Tuesday. Japanese Prime Minister Shinzo Abe denounces the murder as unforgivable. 
 
 The mayor of the Japanese city of Nagasaki died early on Wednesday after being gunned down by a suspected gangster, stunning a nation where shootings are extremely rare.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6565885.stm)
-2. [Reuters](http://www.reuters.com/article/worldNews/idUST33398520070418)
-2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20070418&t=2&i=614958&w=&fh=545px&fw=&ll=&pl=&sq=&r=614958)
+2. [Reuters](https://www.reuters.com/article/worldNews/idUST33398520070418)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20070418&t=2&i=614958&w=&fh=545px&fw=&ll=&pl=&sq=&r=614958)
 
 ### Related:
 

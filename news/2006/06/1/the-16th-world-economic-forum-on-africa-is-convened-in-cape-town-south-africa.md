@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2006/06/1/the-16th-world-economic-forum-on-africa-is-convened-in-cape-town-south-africa.html)  [JSON](/news/2006/06/1/the-16th-world-economic-forum-on-africa-is-convened-in-cape-town-south-africa.json)  [XML](/news/2006/06/1/the-16th-world-economic-forum-on-africa-is-convened-in-cape-town-south-africa.xml)  
+
 ### [2006-06-1](/news/2006/06/1/index.md)
 
+##### 16th World Economic Forum on Africa
 #  The 16th World Economic Forum on Africa is convened in Cape Town, South Africa.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/5036470.stm)
+
+### Changes:
+
+1. [ The 16th World Economic Forum on Africa is convened in Cape Town, South Africa.[http:--news.bbc.co.uk-2-hi-africa-5036470.stm (BBC)]. ](/news/2006/06/1/the-16th-world-economic-forum-on-africa-is-convened-in-cape-town-south-africa-http-news-bbc-co-uk-2-hi-africa-5036470-stm-bbc.md) _2017-06-18 03:17:51 (First version)_
+1. [ The 16th World Economic Forum on Africa is convened in Cape Town, South Africa.](/news/2006/06/1/the-16th-world-economic-forum-on-africa-is-convened-in-cape-town-south-africa.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [A fire in the South African city of Cape Town leaves two people dead and four thousand people homeless. ](/news/2015/11/29/a-fire-in-the-south-african-city-of-cape-town-leaves-two-people-dead-and-four-thousand-people-homeless.md) _Context: Cape Town, South Africa_
 4. [A school bus collides with a train in Cape Town, South Africa, killing at least nine pupils and injuring five others. ](/news/2010/08/25/a-school-bus-collides-with-a-train-in-cape-town-south-africa-killing-at-least-nine-pupils-and-injuring-five-others.md) _Context: Cape Town, South Africa_
 5. [A fatal attack on a tourist by a "dinosaur-sized" shark off the coast of Cape Town, South Africa, prompts the closure of several beaches. ](/news/2010/01/13/a-fatal-attack-on-a-tourist-by-a-dinosaur-sized-shark-off-the-coast-of-cape-town-south-africa-prompts-the-closure-of-several-beaches.md) _Context: Cape Town, South Africa_
-
-### Changes:
-
-1. [ The 16th World Economic Forum on Africa is convened in Cape Town, South Africa.[http:--news.bbc.co.uk-2-hi-africa-5036470.stm (BBC)]. ](/news/2006/06/1/the-16th-world-economic-forum-on-africa-is-convened-in-cape-town-south-africa-http-news-bbc-co-uk-2-hi-africa-5036470-stm-bbc.md) _2017-06-18 03:17:51 (First version)_
-1. [ The 16th World Economic Forum on Africa is convened in Cape Town, South Africa.](/news/2006/06/1/the-16th-world-economic-forum-on-africa-is-convened-in-cape-town-south-africa.md) _(Current version)_

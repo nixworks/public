@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/9/the-central-intelligence-organization-arrests-almost-400-soldiers-in-harare-zimbabwe-for-allegedly-plotting-to-overthrow-president-robert.html)  [JSON](/news/2007/06/9/the-central-intelligence-organization-arrests-almost-400-soldiers-in-harare-zimbabwe-for-allegedly-plotting-to-overthrow-president-robert.json)  [XML](/news/2007/06/9/the-central-intelligence-organization-arrests-almost-400-soldiers-in-harare-zimbabwe-for-allegedly-plotting-to-overthrow-president-robert.xml)  
+
 ### [2007-06-9](/news/2007/06/9/index.md)
 
+##### Central Intelligence Organization
 #  The Central Intelligence Organization arrests almost 400 soldiers in Harare, Zimbabwe for allegedly plotting to overthrow President Robert Mugabe. Air Vice Marshal Elson Moyo, Major General Engelbert Rugeje, and Colonel Ben Ncube are allegedly the ringleaders. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ZWNews](http://www.zwnews.com/issuefull.cfm?ArticleID=16775)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/13/gunmen-attack-two-hotels-in-the-ivory-coast-tow
 
 ### [2016-03-13](/news/2016/03/13/index.md)
 
+##### 2016 Grand-Bassam shootings
 # Gunmen attack two hotels in the Ivory Coast town of Grand-Bassam. At least 15 people are reportedly killed. Witnesses claim the attackers shouted "Allahu Akbar" ("God is [the] greatest") during the gunfire. Al-Qaeda in the Islamic Maghreb (AQIM) claim responsibility for the attack. 
 
 Attack on L&#039;Etoile du Sud hotel in resort popular with Westerners claimed by al-Qaeda in the Islamic Maghreb

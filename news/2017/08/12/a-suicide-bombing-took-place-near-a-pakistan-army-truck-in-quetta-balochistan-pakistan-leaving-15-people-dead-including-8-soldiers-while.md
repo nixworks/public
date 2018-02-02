@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/12/a-suicide-bombing-took-place-near-a-pakistan-ar
 
 ### [2017-08-12](/news/2017/08/12/index.md)
 
+##### War in North-West Pakistan
 # A suicide bombing took place near a Pakistan army truck in Quetta, Balochistan, Pakistan, leaving 15 people dead including 8 soldiers, while injuring 40 others. 
 
 Twenty-five people wounded after 25kg bomb detonates in Quetta amid celebrations for forthcoming independence day
@@ -18,5 +19,5 @@ Twenty-five people wounded after 25kg bomb detonates in Quetta amid celebrations
 1. [Chinese authorities report "grave concern" over reports that two kidnapped Chinese teachers in Quetta, Pakistan, were killed by members of the Islamic State of Iraq and the Levant. ](/news/2017/06/9/chinese-authorities-report-grave-concern-over-reports-that-two-kidnapped-chinese-teachers-in-quetta-pakistan-were-killed-by-members-of-t.md) _Context: Pakistan, Quetta, War in North-West Pakistan_
 2. [The President of Afghanistan Hamid Karzai claims that a suicide bombing attack that injured his security chief was planned in the Pakistani city of Quetta. ](/news/2012/12/8/the-president-of-afghanistan-hamid-karzai-claims-that-a-suicide-bombing-attack-that-injured-his-security-chief-was-planned-in-the-pakistani.md) _Context: Pakistan, Quetta, suicide bombing_
 3. [16 people are killed by gunmen in the Balochistan province of Pakistan in the towns of Aab-e-Ghum and Quetta. ](/news/2010/08/14/16-people-are-killed-by-gunmen-in-the-balochistan-province-of-pakistan-in-the-towns-of-aab-e-ghum-and-quetta.md) _Context: Balochistan, Pakistan, Quetta_
-4. [ Ten Army soldiers are killed and 22 others injured during combat with the Taliban in Swat, Pakistan. ](/news/2009/05/7/ten-army-soldiers-are-killed-and-22-others-injured-during-combat-with-the-taliban-in-swat-pakistan.md) _Context: Pakistan, Pakistan army, War in North-West Pakistan_
-5. [ The Army and the Taliban battle in Mingora, Swat, Pakistan. ](/news/2009/05/23/the-army-and-the-taliban-battle-in-mingora-swat-pakistan.md) _Context: Pakistan, Pakistan army, War in North-West Pakistan_
+4. [ Police in Pakistan detain 36 people, mainly Afghan refugees, over a suicide bombing inside a Quetta courtroom that killed a judge and 15 other people. ](/news/2007/02/18/police-in-pakistan-detain-36-people-mainly-afghan-refugees-over-a-suicide-bombing-inside-a-quetta-courtroom-that-killed-a-judge-and-15-ot.md) _Context: Pakistan, Quetta, suicide bombing_
+5. [Over 1,800 muslim clerics in Pakistan issue a fatwa aimed at prohibiting the use of suicide bombing, declaring it haram. ](/news/2018/01/16/over-1-800-muslim-clerics-in-pakistan-issue-a-fatwa-aimed-at-prohibiting-the-use-of-suicide-bombing-declaring-it-haram.md) _Context: Pakistan, suicide bombing_

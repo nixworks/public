@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/27/three-deaf-men-who-allege-they-were-sodomised-and-abused-by-priests-as-children-appear-on-rai-television-to-confront-the-diocese-of-verona.html)  [JSON](/news/2010/03/27/three-deaf-men-who-allege-they-were-sodomised-and-abused-by-priests-as-children-appear-on-rai-television-to-confront-the-diocese-of-verona.json)  [XML](/news/2010/03/27/three-deaf-men-who-allege-they-were-sodomised-and-abused-by-priests-as-children-appear-on-rai-television-to-confront-the-diocese-of-verona.xml)  
+
 ### [2010-03-27](/news/2010/03/27/index.md)
 
+##### RAI Television
 # Three deaf men who allege they were sodomised and abused by priests as children appear on RAI Television to confront the diocese of Verona. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://arabnews.com/world/article35399.ece)
 

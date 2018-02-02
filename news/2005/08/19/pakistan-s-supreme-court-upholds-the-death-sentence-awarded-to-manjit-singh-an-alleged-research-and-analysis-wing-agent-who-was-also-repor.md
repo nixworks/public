@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/19/pakistan-s-supreme-court-upholds-the-death-sentence-awarded-to-manjit-singh-an-alleged-research-and-analysis-wing-agent-who-was-also-repor.html)  [JSON](/news/2005/08/19/pakistan-s-supreme-court-upholds-the-death-sentence-awarded-to-manjit-singh-an-alleged-research-and-analysis-wing-agent-who-was-also-repor.json)  [XML](/news/2005/08/19/pakistan-s-supreme-court-upholds-the-death-sentence-awarded-to-manjit-singh-an-alleged-research-and-analysis-wing-agent-who-was-also-repor.xml)  
+
 ### [2005-08-19](/news/2005/08/19/index.md)
 
+##### Pakistan
 #  Pakistan's Supreme Court upholds the death sentence awarded to Manjit Singh, an alleged Research and Analysis Wing agent who was also reportedly involved in five bomb blasts in the country. Singh was arrested by security forces at the Indo-Pak border on August 30, 1990. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/news/181_1908053,0005.htm)
 2. [Indian Express](http://www.indianexpress.com/full_story.php?content_id=76630)

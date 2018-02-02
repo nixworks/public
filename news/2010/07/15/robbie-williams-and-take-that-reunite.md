@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/15/robbie-williams-and-take-that-reunite.html)  [JSON](/news/2010/07/15/robbie-williams-and-take-that-reunite.json)  [XML](/news/2010/07/15/robbie-williams-and-take-that-reunite.xml)  
+
 ### [2010-07-15](/news/2010/07/15/index.md)
 
+##### Robbie Williams
 # Robbie Williams and Take That reunite. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment+arts-10636043)
 

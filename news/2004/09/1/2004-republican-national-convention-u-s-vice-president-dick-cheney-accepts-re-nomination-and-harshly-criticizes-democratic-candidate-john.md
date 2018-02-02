@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/1/2004-republican-national-convention-u-s-vice-president-dick-cheney-accepts-re-nomination-and-harshly-criticizes-democratic-candidate-john.html)  [JSON](/news/2004/09/1/2004-republican-national-convention-u-s-vice-president-dick-cheney-accepts-re-nomination-and-harshly-criticizes-democratic-candidate-john.json)  [XML](/news/2004/09/1/2004-republican-national-convention-u-s-vice-president-dick-cheney-accepts-re-nomination-and-harshly-criticizes-democratic-candidate-john.xml)  
+
 ### [2004-09-1](/news/2004/09/1/index.md)
 
+##### National Convention
 #  2004 Republican National Convention: U.S. Vice President Dick Cheney accepts re-nomination and harshly criticizes Democratic candidate John Kerry. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/3619786.stm)
 2. [The Guardian](http://www.guardian.co.uk/uselections2004/story/0,13918,1295626,00.html)

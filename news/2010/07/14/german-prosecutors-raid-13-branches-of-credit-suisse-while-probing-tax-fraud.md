@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/14/german-prosecutors-raid-13-branches-of-credit-suisse-while-probing-tax-fraud.html)  [JSON](/news/2010/07/14/german-prosecutors-raid-13-branches-of-credit-suisse-while-probing-tax-fraud.json)  [XML](/news/2010/07/14/german-prosecutors-raid-13-branches-of-credit-suisse-while-probing-tax-fraud.xml)  
+
 ### [2010-07-14](/news/2010/07/14/index.md)
 
+##### Credit Suisse
 # German prosecutors raid 13 branches of Credit Suisse while probing tax fraud. 
 
 German prosecutors have raided 13 branches of the Swiss bank Credit Suisse in connection with a probe into tax fraud.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/10632313)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

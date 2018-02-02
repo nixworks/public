@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/24/nokia-unveils-nokia-x-an-android-based-smartphone-at-the-mobile-world-congress-in-barcelona.html)  [JSON](/news/2014/02/24/nokia-unveils-nokia-x-an-android-based-smartphone-at-the-mobile-world-congress-in-barcelona.json)  [XML](/news/2014/02/24/nokia-unveils-nokia-x-an-android-based-smartphone-at-the-mobile-world-congress-in-barcelona.xml)  
+
 ### [2014-02-24](/news/2014/02/24/index.md)
 
+##### Nokia
 # Nokia unveils Nokia X, an Android-based smartphone, at the Mobile World Congress in Barcelona. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://gadgets.ndtv.com/mobiles/news/nokia-x-nokia-x-and-nokia-xl-dual-sim-android-based-smartphones-launched-487448)
 1. [Cover Image](http://cdn.ndtv.com/tech/images/nokia_xl.jpg)

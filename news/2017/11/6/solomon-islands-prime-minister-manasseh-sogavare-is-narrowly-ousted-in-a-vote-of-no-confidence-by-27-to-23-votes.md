@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/6/solomon-islands-prime-minister-manasseh-sogavare
 
 ### [2017-11-6](/news/2017/11/6/index.md)
 
+##### Politics of the Solomon Islands
 # Solomon Islands Prime Minister Manasseh Sogavare is narrowly ousted in a vote of no confidence by 27 to 23 votes. 
 
 It was third time unlucky for Manasseh Sogavare on Monday night as he was ousted as the Solomon Islands prime minister in a vote of no confidence.

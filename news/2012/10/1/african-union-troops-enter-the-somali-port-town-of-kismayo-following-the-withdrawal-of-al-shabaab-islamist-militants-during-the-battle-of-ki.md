@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/1/african-union-troops-enter-the-somali-port-town-of-kismayo-following-the-withdrawal-of-al-shabaab-islamist-militants-during-the-battle-of-ki.html)  [JSON](/news/2012/10/1/african-union-troops-enter-the-somali-port-town-of-kismayo-following-the-withdrawal-of-al-shabaab-islamist-militants-during-the-battle-of-ki.json)  [XML](/news/2012/10/1/african-union-troops-enter-the-somali-port-town-of-kismayo-following-the-withdrawal-of-al-shabaab-islamist-militants-during-the-battle-of-ki.xml)  
+
 ### [2012-10-1](/news/2012/10/1/index.md)
 
+##### African Union
 # African Union troops enter the Somali port town of Kismayo following the withdrawal of Al-Shabaab Islamist militants during the Battle of Kismayo. 
 
 Somali government and African Union troops enter the port city of Kismayo, a former stronghold of the al-Shabab militant Islamist group.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19785316)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63224000/jpg/_63224982_63224981.jpg)

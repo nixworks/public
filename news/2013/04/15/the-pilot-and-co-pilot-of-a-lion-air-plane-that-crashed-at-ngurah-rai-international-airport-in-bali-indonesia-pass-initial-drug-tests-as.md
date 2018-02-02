@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/15/the-pilot-and-co-pilot-of-a-lion-air-plane-that-crashed-at-ngurah-rai-international-airport-in-bali-indonesia-pass-initial-drug-tests-as.html)  [JSON](/news/2013/04/15/the-pilot-and-co-pilot-of-a-lion-air-plane-that-crashed-at-ngurah-rai-international-airport-in-bali-indonesia-pass-initial-drug-tests-as.json)  [XML](/news/2013/04/15/the-pilot-and-co-pilot-of-a-lion-air-plane-that-crashed-at-ngurah-rai-international-airport-in-bali-indonesia-pass-initial-drug-tests-as.xml)  
+
 ### [2013-04-15](/news/2013/04/15/index.md)
 
+##### Lion Air
 # The pilot and co-pilot of a Lion Air plane that crashed at Ngurah Rai International Airport in Bali, Indonesia, pass initial drug tests, as investigators probe the causes of the accident that left dozens injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/bali-crash-pilots-pass/638966.html)
 1. [Cover Image](http://www.channelnewsasia.com/image/637758/1366006137000/large16x9/640/360/bali-air-crash.jpg)

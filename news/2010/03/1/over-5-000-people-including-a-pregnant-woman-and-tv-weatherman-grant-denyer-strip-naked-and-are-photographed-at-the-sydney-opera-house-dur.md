@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/03/1/over-5-000-people-including-a-pregnant-woman-and-tv-weatherman-grant-denyer-strip-naked-and-are-photographed-at-the-sydney-opera-house-dur.html)  [JSON](/news/2010/03/1/over-5-000-people-including-a-pregnant-woman-and-tv-weatherman-grant-denyer-strip-naked-and-are-photographed-at-the-sydney-opera-house-dur.json)  [XML](/news/2010/03/1/over-5-000-people-including-a-pregnant-woman-and-tv-weatherman-grant-denyer-strip-naked-and-are-photographed-at-the-sydney-opera-house-dur.xml)  
+
 ### [2010-03-1](/news/2010/03/1/index.md)
 
+##### Grant Denyer
 # Over 5,000 people, including a pregnant woman and TV weatherman Grant Denyer, strip naked and are photographed at the Sydney Opera House during the Sydney Gay and Lesbian Mardi Gras, double the number which had been expected. 
 
 AN impressive 5200 people have shed their clothes to pose naked for renowned photographer Spencer Tunick at the Sydney Opera House.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8542350.stm)
 2. [CBC](http://www.cbc.ca/arts/artdesign/story/2010/03/01/tunick-sydney-opera-house.html)
-3. [Reuters](http://www.reuters.com/article/idUSTRE6203AL20100301)
+3. [Reuters](https://www.reuters.com/article/idUSTRE6203AL20100301)
 4. [news.com.au](http://www.news.com.au/national/thousands-gather-for-naked-spencer-tunick-opera-house-photos/story-e6frfkvr-1225835477514)
 4. [Cover Image](http://cdn.newsapi.com.au/image/v1/48341b4b73be7bdf49a5eb09a82ad855)
 

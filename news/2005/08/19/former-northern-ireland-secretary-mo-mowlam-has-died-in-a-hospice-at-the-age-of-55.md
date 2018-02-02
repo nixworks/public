@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/19/former-northern-ireland-secretary-mo-mowlam-has-died-in-a-hospice-at-the-age-of-55.html)  [JSON](/news/2005/08/19/former-northern-ireland-secretary-mo-mowlam-has-died-in-a-hospice-at-the-age-of-55.json)  [XML](/news/2005/08/19/former-northern-ireland-secretary-mo-mowlam-has-died-in-a-hospice-at-the-age-of-55.xml)  
+
 ### [2005-08-19](/news/2005/08/19/index.md)
 
+##### Northern Ireland Secretary
 #  Former Northern Ireland Secretary Mo Mowlam has died in a hospice at the age of 55. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/4126986.stm)
 

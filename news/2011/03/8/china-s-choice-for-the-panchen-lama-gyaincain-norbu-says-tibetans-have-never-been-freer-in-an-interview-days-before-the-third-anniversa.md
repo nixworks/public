@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/8/china-s-choice-for-the-panchen-lama-gyaincain-norbu-says-tibetans-have-never-been-freer-in-an-interview-days-before-the-third-anniversa.html)  [JSON](/news/2011/03/8/china-s-choice-for-the-panchen-lama-gyaincain-norbu-says-tibetans-have-never-been-freer-in-an-interview-days-before-the-third-anniversa.json)  [XML](/news/2011/03/8/china-s-choice-for-the-panchen-lama-gyaincain-norbu-says-tibetans-have-never-been-freer-in-an-interview-days-before-the-third-anniversa.xml)  
+
 ### [2011-03-8](/news/2011/03/8/index.md)
 
+##### Panchen Lama
 # China's choice for the Panchen Lama, Gyaincain Norbu, says Tibetans have "never been freer", in an interview days before the third anniversary of deadly unrest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5i_E-cURl0zT3Y9jiTzzF7ehoFkCg?docId=CNG.08dc880232fd4c049d2f1a10f4641409.331)
 2. [Xinhua](http://news.xinhuanet.com/english2010/indepth/2011-03/08/c_13767312.htm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/23/a-car-bomb-explodes-outside-a-police-station-in-newtownhamilton-county-armagh-northern-ireland.html)  [JSON](/news/2010/04/23/a-car-bomb-explodes-outside-a-police-station-in-newtownhamilton-county-armagh-northern-ireland.json)  [XML](/news/2010/04/23/a-car-bomb-explodes-outside-a-police-station-in-newtownhamilton-county-armagh-northern-ireland.xml)  
+
 ### [2010-04-23](/news/2010/04/23/index.md)
 
+##### Newtownhamilton
 # A car bomb explodes outside a police station in Newtownhamilton, County Armagh, Northern Ireland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8638902.stm)
 2. [CNN](http://edition.cnn.com/2010/WORLD/europe/04/22/northern.ireland.explosion/?hpt=T2)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/11/former-iraqi-intelligence-service-director-ali-hassan-al-majid-and-former-deputy-prime-minister-tariq-aziz-are-sentenced-to-15-years-in-jai.html)  [JSON](/news/2009/03/11/former-iraqi-intelligence-service-director-ali-hassan-al-majid-and-former-deputy-prime-minister-tariq-aziz-are-sentenced-to-15-years-in-jai.json)  [XML](/news/2009/03/11/former-iraqi-intelligence-service-director-ali-hassan-al-majid-and-former-deputy-prime-minister-tariq-aziz-are-sentenced-to-15-years-in-jai.xml)  
+
 ### [2009-03-11](/news/2009/03/11/index.md)
 
+##### Iraq
 #  Former Iraqi Intelligence Service Director Ali Hassan al-Majid and former Deputy Prime Minister Tariq Aziz are sentenced to 15 years in jail for crimes against humanity. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Iraq-Former-PM-Tareq-Aziz-and-Saddam-Husseins-hatchetman-Chemical-Ali-Hassan-Al-Majid-Jailed/Article/200903215239143?lpos=World_News_First_World_News_Article_Teaser_Region_1&lid=ARTICLE_15239143_Iraq%3A_Former_PM_Tareq_Aziz_and_Saddam_Husseins_hatchetman_Chemical_Ali_Hassan_Al_Majid_Jailed)
 

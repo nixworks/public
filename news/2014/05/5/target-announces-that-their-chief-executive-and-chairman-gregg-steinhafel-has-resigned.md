@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/5/target-announces-that-their-chief-executive-and-chairman-gregg-steinhafel-has-resigned.html)  [JSON](/news/2014/05/5/target-announces-that-their-chief-executive-and-chairman-gregg-steinhafel-has-resigned.json)  [XML](/news/2014/05/5/target-announces-that-their-chief-executive-and-chairman-gregg-steinhafel-has-resigned.xml)  
+
 ### [2014-05-5](/news/2014/05/5/index.md)
 
+##### Target Corporation
 # Target announces that their chief executive and chairman, Gregg Steinhafel, has resigned. 
 
 US clothing retail giant Target announces the resignation of its chief executive and chairman, Gregg Steinhafel, following a cyber-attack last year.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-27283872)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74647000/jpg/_74647648_target.sign.g.jpg)

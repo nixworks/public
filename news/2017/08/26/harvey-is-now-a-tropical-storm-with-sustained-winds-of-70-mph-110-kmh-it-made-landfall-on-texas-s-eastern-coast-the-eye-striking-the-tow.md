@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/26/harvey-is-now-a-tropical-storm-with-sustained-w
 
 ### [2017-08-26](/news/2017/08/26/index.md)
 
+##### Hurricane Harvey
 # Harvey is now a tropical storm with sustained winds of 70 mph (110 kmh). It made landfall on Texas's eastern coast, the eye striking the town of Rockport, as a Category 4 hurricane. It's the strongest storm to hit the state since 1961. Harvey is expected to maintain tropical storm strength, with heavy rains and flooding, for at least four days. 
 
 Fueled by warm water from the Gulf of Mexico, a Category 4 hurricane swept into Texas late Friday. There were reports of power loss and heavy damage to buildings.

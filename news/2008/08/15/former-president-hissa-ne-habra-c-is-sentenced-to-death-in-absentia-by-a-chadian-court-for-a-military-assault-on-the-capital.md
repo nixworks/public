@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/15/former-president-hissa-ne-habra-c-is-sentenced-to-death-in-absentia-by-a-chadian-court-for-a-military-assault-on-the-capital.html)  [JSON](/news/2008/08/15/former-president-hissa-ne-habra-c-is-sentenced-to-death-in-absentia-by-a-chadian-court-for-a-military-assault-on-the-capital.json)  [XML](/news/2008/08/15/former-president-hissa-ne-habra-c-is-sentenced-to-death-in-absentia-by-a-chadian-court-for-a-military-assault-on-the-capital.xml)  
+
 ### [2008-08-15](/news/2008/08/15/index.md)
 
+##### President of Chad
 #  Former President Hissene Habre is sentenced to death "in absentia" by a Chadian court for a military assault on the capital. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7563881.stm)
 

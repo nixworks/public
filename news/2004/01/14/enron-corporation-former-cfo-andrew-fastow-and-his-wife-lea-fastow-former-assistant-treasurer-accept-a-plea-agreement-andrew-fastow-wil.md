@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/14/enron-corporation-former-cfo-andrew-fastow-and-his-wife-lea-fastow-former-assistant-treasurer-accept-a-plea-agreement-andrew-fastow-wil.html)  [JSON](/news/2004/01/14/enron-corporation-former-cfo-andrew-fastow-and-his-wife-lea-fastow-former-assistant-treasurer-accept-a-plea-agreement-andrew-fastow-wil.json)  [XML](/news/2004/01/14/enron-corporation-former-cfo-andrew-fastow-and-his-wife-lea-fastow-former-assistant-treasurer-accept-a-plea-agreement-andrew-fastow-wil.xml)  
+
 ### [2004-01-14](/news/2004/01/14/index.md)
 
+##### Enron Corporation
 #  Enron Corporation: Former CFO Andrew Fastow and his wife Lea Fastow, former Assistant Treasurer, accept a plea agreement. Andrew Fastow will serve a ten-year prison sentence and forfeit $23.8 million. Lea Fastow will serve a five-month prison sentence and a year of supervised release, including five months of house arrest. Both will provide testimony against other Enron corporate officers.
 
 

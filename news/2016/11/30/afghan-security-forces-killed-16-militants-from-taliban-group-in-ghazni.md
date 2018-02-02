@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/30/afghan-security-forces-killed-16-militants-from
 
 ### [2016-11-30](/news/2016/11/30/index.md)
 
+##### War in Afghanistan (2015-present)
 #  Afghan security forces killed 16 militants from Taliban group in Ghazni. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/27/thousands-of-airline-passengers-are-stranded-at-the-ninoy-aquino-international-airport-in-manila-after-philippine-airlines-staff-stage-a-wal.html)  [JSON](/news/2011/09/27/thousands-of-airline-passengers-are-stranded-at-the-ninoy-aquino-international-airport-in-manila-after-philippine-airlines-staff-stage-a-wal.json)  [XML](/news/2011/09/27/thousands-of-airline-passengers-are-stranded-at-the-ninoy-aquino-international-airport-in-manila-after-philippine-airlines-staff-stage-a-wal.xml)  
+
 ### [2011-09-27](/news/2011/09/27/index.md)
 
+##### Ninoy Aquino International Airport
 # Thousands of airline passengers are stranded at the Ninoy Aquino International Airport in Manila after Philippine Airlines staff stage a walkout. 
 
 A portal of daily newspapers covering Philippine news headlines, business, lifestyle, advertisement, sports and entertainment. Also delivers Manila and Cebu news.
 
 
-### Source:
+### Sources:
 
 1. [Philippines Star](http://www.philstar.com/nation/article.aspx?publicationsubcategoryid=200&articleid=731489)
 1. [Cover Image](http://www.philstar.com/sites/all/themes/philstar_default/images/fb-share-default.jpg)

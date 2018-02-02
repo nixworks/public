@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/10/u-s-officials-tell-of-their-plans-to-impose-sanctions-against-syria-under-the-syria-accountability-and-lebanese-sovereignty-restoration-ac.html)  [JSON](/news/2004/03/10/u-s-officials-tell-of-their-plans-to-impose-sanctions-against-syria-under-the-syria-accountability-and-lebanese-sovereignty-restoration-ac.json)  [XML](/news/2004/03/10/u-s-officials-tell-of-their-plans-to-impose-sanctions-against-syria-under-the-syria-accountability-and-lebanese-sovereignty-restoration-ac.xml)  
+
 ### [2004-03-10](/news/2004/03/10/index.md)
 
+##### sanctions
 #  U.S. officials tell of their plans to impose sanctions against Syria under the Syria Accountability and Lebanese Sovereignty Restoration Act. The Bush administration accuses Syria of sponsoring terrorism and developing chemical and biological weapons. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/WORLD/meast/03/10/us.syria/index.html)
 

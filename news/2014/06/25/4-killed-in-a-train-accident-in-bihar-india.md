@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/25/4-killed-in-a-train-accident-in-bihar-india.html)  [JSON](/news/2014/06/25/4-killed-in-a-train-accident-in-bihar-india.json)  [XML](/news/2014/06/25/4-killed-in-a-train-accident-in-bihar-india.xml)  
+
 ### [2014-06-25](/news/2014/06/25/index.md)
 
+##### Bihar
 # 4 killed in a train accident in Bihar, India. 
 
 Railways, while confirming the death of 4 people in the accident, has not ruled out sabotage in view of a shutdown call by Maoists in the area.
 
 
-### Source:
+### Sources:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/india/Rajdhani-Express-derails-near-Chhapra-in-Bihar-4-killed/articleshow/37154143.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/37162379.cms)

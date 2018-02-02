@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/5/former-prime-minister-of-australia-kevin-rudd-joins-julia-gillard-s-election-campaign-while-recovering-from-gallbladder-surgery-by-attacking.html)  [JSON](/news/2010/08/5/former-prime-minister-of-australia-kevin-rudd-joins-julia-gillard-s-election-campaign-while-recovering-from-gallbladder-surgery-by-attacking.json)  [XML](/news/2010/08/5/former-prime-minister-of-australia-kevin-rudd-joins-julia-gillard-s-election-campaign-while-recovering-from-gallbladder-surgery-by-attacking.xml)  
+
 ### [2010-08-5](/news/2010/08/5/index.md)
 
+##### Australian Prime Minister
 # Former Prime Minister of Australia Kevin Rudd joins Julia Gillard's election campaign while recovering from gallbladder surgery by attacking the opposition leader Tony Abbott. 
 
 Former Australian Prime Minister Kevin Rudd backs Julia Gillard - the woman who ousted him - in a show of party unity ahead of a general election.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10877774)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

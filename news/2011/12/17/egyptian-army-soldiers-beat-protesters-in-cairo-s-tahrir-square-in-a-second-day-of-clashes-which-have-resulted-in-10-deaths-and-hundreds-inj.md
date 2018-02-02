@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/12/17/egyptian-army-soldiers-beat-protesters-in-cairo-s-tahrir-square-in-a-second-day-of-clashes-which-have-resulted-in-10-deaths-and-hundreds-inj.html)  [JSON](/news/2011/12/17/egyptian-army-soldiers-beat-protesters-in-cairo-s-tahrir-square-in-a-second-day-of-clashes-which-have-resulted-in-10-deaths-and-hundreds-inj.json)  [XML](/news/2011/12/17/egyptian-army-soldiers-beat-protesters-in-cairo-s-tahrir-square-in-a-second-day-of-clashes-which-have-resulted-in-10-deaths-and-hundreds-inj.xml)  
+
 ### [2011-12-17](/news/2011/12/17/index.md)
 
+##### Egyptian Army
 # Egyptian Army soldiers beat protesters in Cairo's Tahrir Square in a second day of clashes which have resulted in 10 deaths and hundreds injured. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/12/17/us-egypt-idUSL6E7NH03C20111217)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111217&t=2&i=548097340&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BG0ZDM00)
+1. [Reuters](https://www.reuters.com/article/2011/12/17/us-egypt-idUSL6E7NH03C20111217)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111217&t=2&i=548097340&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BG0ZDM00)
 
 ### Related:
 

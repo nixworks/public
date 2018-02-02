@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/6/a-man-who-was-yelling-this-is-for-syria-while-at
 
 ### [2017-06-6](/news/2017/06/6/index.md)
 
+##### 2017 Notre Dame attack
 # A man who was yelling "This is for Syria" while attacking a police officer with a hammer near Notre-Dame de Paris, France is shot and wounded by another officer. Prosecutors open a terrorism probe. 
 
  PARIS (AP) — The Latest on the security operation near the Notre Dame Cathedral in Paris (all times local): 5:35 p.m. Witnesses around Notre Dame Cathe

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/28/a-suicide-bombing-at-a-shiaite-cultural-center-
 
 ### [2017-12-28](/news/2017/12/28/index.md)
 
+##### War in Afghanistan (2001-present)
 # A suicide bombing at a Shi'ite cultural center and news agency in Kabul, Afghanistan, kills 41 people and injures 84 others. ISIL-affiliated Amaq News Agency says this group is responsible. 
 
 

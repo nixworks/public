@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/11/19/the-battle-to-succeed-nicolas-sarkozy-as-leader-of-the-centre-right-ump-party-takes-a-farcical-turn-with-both-francois-fillon-and-rival-jean.html)  [JSON](/news/2012/11/19/the-battle-to-succeed-nicolas-sarkozy-as-leader-of-the-centre-right-ump-party-takes-a-farcical-turn-with-both-francois-fillon-and-rival-jean.json)  [XML](/news/2012/11/19/the-battle-to-succeed-nicolas-sarkozy-as-leader-of-the-centre-right-ump-party-takes-a-farcical-turn-with-both-francois-fillon-and-rival-jean.xml)  
+
 ### [2012-11-19](/news/2012/11/19/index.md)
 
+##### The battle
 # The battle to succeed Nicolas Sarkozy as leader of the centre-right UMP party takes a farcical turn with both Franois Fillon and rival Jean-Franois Cop claiming the crown. 
 
 A vote to choose the leader of the Union for a Popular Movement party was considered too close to call early Monday, prompting charges of fraud.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2012/11/19/world/europe/french-opposition-vote-comes-up-too-close-to-call.html)
+1. [The New York Times](https://www.nytimes.com/2012/11/19/world/europe/french-opposition-vote-comes-up-too-close-to-call.html)
 1. [Cover Image](https://static01.nyt.com/images/2012/11/19/world/FRANCE-1/FRANCE-1-superJumbo.jpg)
 
 ### Related:

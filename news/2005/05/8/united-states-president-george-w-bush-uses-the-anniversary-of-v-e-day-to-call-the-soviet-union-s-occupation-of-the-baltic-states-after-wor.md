@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/8/united-states-president-george-w-bush-uses-the-anniversary-of-v-e-day-to-call-the-soviet-union-s-occupation-of-the-baltic-states-after-wor.html)  [JSON](/news/2005/05/8/united-states-president-george-w-bush-uses-the-anniversary-of-v-e-day-to-call-the-soviet-union-s-occupation-of-the-baltic-states-after-wor.json)  [XML](/news/2005/05/8/united-states-president-george-w-bush-uses-the-anniversary-of-v-e-day-to-call-the-soviet-union-s-occupation-of-the-baltic-states-after-wor.xml)  
+
 ### [2005-05-8](/news/2005/05/8/index.md)
 
+##### (Wikinews)
 #  United States President George W. Bush uses the anniversary of V-E Day to call the Soviet Union's occupation of the Baltic states after World War II "one of the greatest wrongs of history". He also attended Europe's third largest war cemetery in the town of Margraten, the Netherlands. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2005/WORLD/europe/05/07/veday.saturday.ap/index.html)
 2. [CNN](http://www.cnn.com/2005/WORLD/europe/05/07/bush.europe/index.html)

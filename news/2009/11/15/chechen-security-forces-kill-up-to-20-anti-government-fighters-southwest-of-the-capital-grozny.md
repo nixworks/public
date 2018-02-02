@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/15/chechen-security-forces-kill-up-to-20-anti-government-fighters-southwest-of-the-capital-grozny.html)  [JSON](/news/2009/11/15/chechen-security-forces-kill-up-to-20-anti-government-fighters-southwest-of-the-capital-grozny.json)  [XML](/news/2009/11/15/chechen-security-forces-kill-up-to-20-anti-government-fighters-southwest-of-the-capital-grozny.xml)  
+
 ### [2009-11-15](/news/2009/11/15/index.md)
 
+##### Chechnya
 #  Chechen security forces kill up to 20 anti-government fighters southwest of the capital Grozny. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/11/2009111533848851761.html)
 1. [Cover Image](http://www.aljazeera.com)

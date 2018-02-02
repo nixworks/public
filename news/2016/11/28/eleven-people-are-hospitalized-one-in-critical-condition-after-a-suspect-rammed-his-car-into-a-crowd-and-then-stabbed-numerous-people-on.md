@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/28/eleven-people-are-hospitalized-one-in-critical-
 
 ### [2016-11-28](/news/2016/11/28/index.md)
 
+##### 2016 Ohio State University attack
 #  Eleven people are hospitalized, one in critical condition, after a suspect rammed his car into a crowd, and then stabbed numerous people on Ohio State's Columbus campus. Police have declared the scene secure. The suspect, a refugee from Somalia, and a student at the university, is shot and killed by a police officer after he failed to obey orders to stop. 
 
 Abdul Razak Ali Artan was killed by a police officer after the car-and-knife ambush.

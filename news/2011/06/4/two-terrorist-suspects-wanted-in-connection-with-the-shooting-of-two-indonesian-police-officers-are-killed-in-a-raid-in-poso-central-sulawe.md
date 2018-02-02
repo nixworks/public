@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/4/two-terrorist-suspects-wanted-in-connection-with-the-shooting-of-two-indonesian-police-officers-are-killed-in-a-raid-in-poso-central-sulawe.html)  [JSON](/news/2011/06/4/two-terrorist-suspects-wanted-in-connection-with-the-shooting-of-two-indonesian-police-officers-are-killed-in-a-raid-in-poso-central-sulawe.json)  [XML](/news/2011/06/4/two-terrorist-suspects-wanted-in-connection-with-the-shooting-of-two-indonesian-police-officers-are-killed-in-a-raid-in-poso-central-sulawe.xml)  
+
 ### [2011-06-4](/news/2011/06/4/index.md)
 
+##### Indonesia
 # Two terrorist suspects wanted in connection with the shooting of two Indonesian police officers are killed in a raid in Poso, Central Sulawesi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jakarta Post](http://www.thejakartapost.com/news/2011/06/04/two-suspects-killed-raid-after-poso-shooting.html)
 
@@ -15,4 +19,4 @@
 2. [ Thousands riot in Central Sulawesi, Indonesia, following the execution of three Christian militants found guilty of taking part in an attack on a Muslim boarding school. ](/news/2006/09/22/thousands-riot-in-central-sulawesi-indonesia-following-the-execution-of-three-christian-militants-found-guilty-of-taking-part-in-an-attac.md) _Context: Central Sulawesi, Indonesia_
 3. [ Three Christian Indonesian girls are beheaded as they walk through a cocoa plantation near a private Christian school in Central Sulawesi. ](/news/2005/10/29/three-christian-indonesian-girls-are-beheaded-as-they-walk-through-a-cocoa-plantation-near-a-private-christian-school-in-central-sulawesi.md) _Context: Central Sulawesi, Indonesia_
 4. [ A 6.2 Richter scale earthquake in Palu, Central Sulawesi, Indonesia, results in one reported death. ](/news/2005/01/24/a-6-2-richter-scale-earthquake-in-palu-central-sulawesi-indonesia-results-in-one-reported-death.md) _Context: Central Sulawesi, Indonesia_
-5. [More than 134,000 people on the island of Bali, Indonesia, have been taken to shelters as the Mount Agung volcano continues to release smoke. The alert level for an eruption has been raised to the second highest level, 4. In addition, the entire population of Vanuatu's Aoba Island, also at alert level 4, is being moved from the path of the increasingly active Lombenben volcano. ](/news/2017/09/28/more-than-134-000-people-on-the-island-of-bali-indonesia-have-been-taken-to-shelters-as-the-mount-agung-volcano-continues-to-release-smoke.md) _Context: Indonesia_
+5. [The mezzanine overlooking the main lobby of the Indonesia Stock Exchange in Jakarta, Indonesia, collapses, injuring at least 70 people. The Indonesian National Police ruled out terrorism as the cause. ](/news/2018/01/15/the-mezzanine-overlooking-the-main-lobby-of-the-indonesia-stock-exchange-in-jakarta-indonesia-collapses-injuring-at-least-70-people-the.md) _Context: Indonesia_

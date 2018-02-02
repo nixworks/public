@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/27/the-syrian-government-s-tiger-forces-reaches-th
 
 ### [2017-02-27](/news/2017/02/27/index.md)
 
+##### Syrian Civil War
 # The Syrian Government's Tiger Forces reaches the front lines with the Syrian Democratic Forces south of Manbij after capturing territory from ISIL, east of al-Bab. 
 
 

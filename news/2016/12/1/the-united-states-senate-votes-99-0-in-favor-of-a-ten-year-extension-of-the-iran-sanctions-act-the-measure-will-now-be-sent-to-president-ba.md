@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/1/the-united-states-senate-votes-99-0-in-favor-of-
 
 ### [2016-12-1](/news/2016/12/1/index.md)
 
+##### Iran-United States relations
 # The United States Senate votes 99-0 in favor of a ten-year extension of the Iran Sanctions Act, the measure will now be sent to President Barack Obama to sign into law. The act was due to expire on December 31, 2016, if not renewed. 
 
 The U.S. Senate passed a 10-year extension of sanctions against Iran on Thursday, sending the measure to the White House for President Barack Obama to sign into law and delaying any potentially tougher actions until next year.

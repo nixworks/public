@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/24/the-archbishop-of-york-john-sentamu-speaks-out-against-a-bill-being-debated-in-uganda-that-would-outlaw-homosexuality.html)  [JSON](/news/2009/12/24/the-archbishop-of-york-john-sentamu-speaks-out-against-a-bill-being-debated-in-uganda-that-would-outlaw-homosexuality.json)  [XML](/news/2009/12/24/the-archbishop-of-york-john-sentamu-speaks-out-against-a-bill-being-debated-in-uganda-that-would-outlaw-homosexuality.xml)  
+
 ### [2009-12-24](/news/2009/12/24/index.md)
 
+##### Archbishop of York
 #  The Archbishop of York, John Sentamu speaks out against a bill being debated in Uganda that would outlaw homosexuality. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/default.stm)
 

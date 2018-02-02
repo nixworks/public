@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/2/protests-take-place-in-lahore-and-karachi-among-other-places-amid-calls-for-resignations-following-yesterday-s-bombings-of-data-darbar-in-la.html)  [JSON](/news/2010/07/2/protests-take-place-in-lahore-and-karachi-among-other-places-amid-calls-for-resignations-following-yesterday-s-bombings-of-data-darbar-in-la.json)  [XML](/news/2010/07/2/protests-take-place-in-lahore-and-karachi-among-other-places-amid-calls-for-resignations-following-yesterday-s-bombings-of-data-darbar-in-la.xml)  
+
 ### [2010-07-2](/news/2010/07/2/index.md)
 
+##### Lahore
 # Protests take place in Lahore and Karachi among other places amid calls for resignations following yesterday's bombings of Data Darbar in Lahore. 
 
 Protesters condemn failure to crack down on attackers as Lahore bomb toll touches 42.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/2010721442570131.html)
 1. [Cover Image](http://www.aljazeera.com)

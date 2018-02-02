@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/18/chileans-celebrate-the-200th-anniversary-of-chilean-independence-day-as-do-the-33-miners-trapped-underground-in-the-2010-copiapo-mining-acci.html)  [JSON](/news/2010/09/18/chileans-celebrate-the-200th-anniversary-of-chilean-independence-day-as-do-the-33-miners-trapped-underground-in-the-2010-copiapo-mining-acci.json)  [XML](/news/2010/09/18/chileans-celebrate-the-200th-anniversary-of-chilean-independence-day-as-do-the-33-miners-trapped-underground-in-the-2010-copiapo-mining-acci.xml)  
+
 ### [2010-09-18](/news/2010/09/18/index.md)
 
+##### Chile
 # Chileans celebrate the 200th anniversary of Chilean Independence Day as do the 33 miners trapped underground in the 2010 Copiap mining accident. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/americas/09/18/chile.mine.independence/)
 

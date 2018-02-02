@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/12/eight-people-are-swept-away-by-flash-floods-and-a-ninth-is-killed-by-lightning-as-more-thunderstorms-lash-southwestern-algeria-five-people.html)  [JSON](/news/2009/09/12/eight-people-are-swept-away-by-flash-floods-and-a-ninth-is-killed-by-lightning-as-more-thunderstorms-lash-southwestern-algeria-five-people.json)  [XML](/news/2009/09/12/eight-people-are-swept-away-by-flash-floods-and-a-ninth-is-killed-by-lightning-as-more-thunderstorms-lash-southwestern-algeria-five-people.xml)  
+
 ### [2009-09-12](/news/2009/09/12/index.md)
 
+##### Algeria
 #  Eight people are swept away by flash floods and a ninth is killed by lightning as more thunderstorms lash southwestern Algeria. Five people are killed in storms in Morocco. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090912174208949C638886)
 

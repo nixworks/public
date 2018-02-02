@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/9/iraqi-armed-forces-announce-the-complete-recaptu
 
 ### [2016-02-9](/news/2016/02/9/index.md)
 
+##### Iraqi Civil War (2014-present)
 # Iraqi Armed Forces announce the complete recapture of the city of Ramadi in western Iraq's Anbar Province from the Islamic State, along with the reopening of the Ramadi-Baghdad road. 
 
 Iraq said its military completely recaptured the city of Ramadi, reopening a road to Baghdad after weeks of mop-up operations against Islamic State militants.
@@ -26,4 +27,4 @@ Iraq said its military completely recaptured the city of Ramadi, reopening a roa
 2. [The Iraqi Armed Forces enter the town of Al-Qa'im, close to the border with Syria. Al-Qa'im is one of the last towns in Iraq still held by ISIL. ](/news/2017/11/3/the-iraqi-armed-forces-enter-the-town-of-al-qa-im-close-to-the-border-with-syria-al-qa-im-is-one-of-the-last-towns-in-iraq-still-held-by-i.md) _Context: ISIL, Iraqi Armed Forces, Iraqi Civil War (2014-present)_
 3. [The Iraqi Armed Forces launch an offensive to recapture the last ISIL stronghold in Iraq, Rawa. ](/news/2017/11/11/the-iraqi-armed-forces-launch-an-offensive-to-recapture-the-last-isil-stronghold-in-iraq-rawa.md) _Context: ISIL, Iraqi Armed Forces, Iraqi Civil War (2014-present)_
 4. [A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-responsibility-for-the-bombing.md) _Context: Baghdad, ISIL, Iraqi Civil War (2014-present)_
-5. [Iraqi Army forces helped by U.S. airstrikes recapture the southwestern city of Ar-Rutbah from the Islamic State of Iraq and the Levant group. The victory will allow for the re-opening of the Baghdad-Amman highway. ](/news/2016/05/20/iraqi-army-forces-helped-by-u-s-airstrikes-recapture-the-southwestern-city-of-ar-rutbah-from-the-islamic-state-of-iraq-and-the-levant-group.md) _Context: Baghdad, ISIL, Iraqi Civil War (2014-present)_
+5. [ At least 64 people are killed and 87 injured in a bomb attack on a market in Sadr City, Baghdad. Islamic State of Iraq and the Levant (ISIS) claims responsibility. ](/news/2016/05/11/at-least-64-people-are-killed-and-87-injured-in-a-bomb-attack-on-a-market-in-sadr-city-baghdad-islamic-state-of-iraq-and-the-levant-isis.md) _Context: Baghdad, ISIL, Iraqi Civil War (2014-present)_

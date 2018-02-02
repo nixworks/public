@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/4/voters-in-the-canadian-province-of-manitoba-go-to-the-polls-for-a-general-election-with-the-ndp-led-by-greg-selinger-being-elected-to-a-fou.html)  [JSON](/news/2011/10/4/voters-in-the-canadian-province-of-manitoba-go-to-the-polls-for-a-general-election-with-the-ndp-led-by-greg-selinger-being-elected-to-a-fou.json)  [XML](/news/2011/10/4/voters-in-the-canadian-province-of-manitoba-go-to-the-polls-for-a-general-election-with-the-ndp-led-by-greg-selinger-being-elected-to-a-fou.xml)  
+
 ### [2011-10-4](/news/2011/10/4/index.md)
 
+##### Canadian
 # Voters in the Canadian province of Manitoba go to the polls for a general election, with the NDP led by Greg Selinger being elected to a fourth term. 
 
 Polls Voters in Manitoba are set to elect their next government on Tuesday.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/manitoba/story/2011/10/03/mbvotes-polls-111004.html)
 2. [Montreal Gazette](http://www.montrealgazette.com/sports/fourth+majority+Manitoba/5502604/story.html)

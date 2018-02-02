@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/10/american-economists-thomas-j-sargent-and-christopher-a-sims-win-the-2011-nobel-memorial-prize-in-economic-sciences.html)  [JSON](/news/2011/10/10/american-economists-thomas-j-sargent-and-christopher-a-sims-win-the-2011-nobel-memorial-prize-in-economic-sciences.json)  [XML](/news/2011/10/10/american-economists-thomas-j-sargent-and-christopher-a-sims-win-the-2011-nobel-memorial-prize-in-economic-sciences.xml)  
+
 ### [2011-10-10](/news/2011/10/10/index.md)
 
+##### American
 # American economists Thomas J. Sargent and Christopher A. Sims win the 2011 Nobel Memorial Prize in Economic Sciences. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg via ''Business Week](http://www.businessweek.com/news/2011-10-10/sargent-sims-share-this-year-s-nobel-prize-in-economics.html)
 

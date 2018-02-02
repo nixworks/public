@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/07/21/nasa-scientists-confirm-an-impact-event-on-jupiter-the-first-observed-since-the-impact-of-shoemaker-levy-9-on-july-16-ndash-22-1994.html)  [JSON](/news/2009/07/21/nasa-scientists-confirm-an-impact-event-on-jupiter-the-first-observed-since-the-impact-of-shoemaker-levy-9-on-july-16-ndash-22-1994.json)  [XML](/news/2009/07/21/nasa-scientists-confirm-an-impact-event-on-jupiter-the-first-observed-since-the-impact-of-shoemaker-levy-9-on-july-16-ndash-22-1994.xml)  
+
 ### [2009-07-21](/news/2009/07/21/index.md)
 
+##### NASA
 #  NASA scientists confirm an impact event on Jupiter, the first observed since the impact of Shoemaker-Levy 9 on July 16&ndash;22, 1994. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [New Scientist](http://www.newscientist.com/article/dn17491-jupiter-sports-new-bruise-from-impact.html)
+1. [New Scientist](https://www.newscientist.com/article/dn17491-jupiter-sports-new-bruise-from-impact.html)
 
 ### Related:
 

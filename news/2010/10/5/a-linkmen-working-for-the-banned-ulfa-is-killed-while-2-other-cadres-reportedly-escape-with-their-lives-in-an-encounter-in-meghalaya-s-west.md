@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/5/a-linkmen-working-for-the-banned-ulfa-is-killed-while-2-other-cadres-reportedly-escape-with-their-lives-in-an-encounter-in-meghalaya-s-west.html)  [JSON](/news/2010/10/5/a-linkmen-working-for-the-banned-ulfa-is-killed-while-2-other-cadres-reportedly-escape-with-their-lives-in-an-encounter-in-meghalaya-s-west.json)  [XML](/news/2010/10/5/a-linkmen-working-for-the-banned-ulfa-is-killed-while-2-other-cadres-reportedly-escape-with-their-lives-in-an-encounter-in-meghalaya-s-west.xml)  
+
 ### [2010-10-5](/news/2010/10/5/index.md)
 
+##### ULFA
 # A linkmen working for the banned ULFA is killed, while 2 other cadres reportedly escape with their lives in an encounter in Meghalaya's West Garo Hills district. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [PTI](http://www.ptinews.com/news/1010796_ULFA-linkmen-killed-in-encounter)
 

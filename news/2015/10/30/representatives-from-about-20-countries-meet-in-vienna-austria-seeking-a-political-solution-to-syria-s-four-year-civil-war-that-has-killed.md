@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2015/10/30/representatives-from-about-20-countries-meet-in-vienna-austria-seeking-a-political-solution-to-syria-s-four-year-civil-war-that-has-killed.html)  [JSON](/news/2015/10/30/representatives-from-about-20-countries-meet-in-vienna-austria-seeking-a-political-solution-to-syria-s-four-year-civil-war-that-has-killed.json)  [XML](/news/2015/10/30/representatives-from-about-20-countries-meet-in-vienna-austria-seeking-a-political-solution-to-syria-s-four-year-civil-war-that-has-killed.xml)  
+
 ### [2015-10-30](/news/2015/10/30/index.md)
 
+##### Syria peace talks in Vienna
 # Representatives from about 20 countries meet in Vienna, Austria, seeking a political solution to Syria's four-year civil war that has killed more than 250,000 people, including dozens more today. For the first time Iran is at the table, where diplomats seek peace through a ceasefire plan followed by a transitional government. 
 
-Dozens killed as diplomats seek political solution to end four-year civil war.
 
 
-### Source:
+
+### Sources:
 
 1. [Payvand.com](http://www.payvand.com/news/15/oct/1160.html)
-2. [USA Today](http://www.usatoday.com/story/news/world/2015/10/30/fresh-bloodshed-syria-envoys-seek-peace-vienna/74865354/)
+2. [USA Today](https://www.usatoday.com/story/news/world/2015/10/30/fresh-bloodshed-syria-envoys-seek-peace-vienna/74865354/)
 2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
+
+### Changes:
+
+1. [Syria peace talks in Vienna: Syrian Civil War: Representatives from about 20 countries meet in Vienna, Austria, seeking a political solution to Syria's four-year civil war that has killed more than 250,000 people, including dozens more today. For the first time Iran is at the table, where diplomats seek peace through a ceasefire plan followed by a transitional government. ](/news/2015/10/30/syria-peace-talks-in-vienna-syrian-civil-war-representatives-from-about-20-countries-meet-in-vienna-austria-seeking-a-political-solution.md) _2017-08-27 03:43:36 (First version)_
+1. [Representatives from about 20 countries meet in Vienna, Austria, seeking a political solution to Syria's four-year civil war that has killed more than 250,000 people, including dozens more today. For the first time Iran is at the table, where diplomats seek peace through a ceasefire plan followed by a transitional government. ](/news/2015/10/30/representatives-from-about-20-countries-meet-in-vienna-austria-seeking-a-political-solution-to-syria-s-four-year-civil-war-that-has-killed.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ Dozens killed as diplomats seek political solution to end four-year civil war.
 3. [Iran fires medium range ballistic missiles from western Iran to ISIL targets in Deir ez-Zor Governorate, eastern Syria, in retaliation for the June 7 Tehran attacks. ](/news/2017/06/18/iran-fires-medium-range-ballistic-missiles-from-western-iran-to-isil-targets-in-deir-ez-zor-governorate-eastern-syria-in-retaliation-for-t.md) _Context: Iran, Syria, Syrian Civil War_
 4. [A memorandum is signed by Russia, Iran, and Turkey calling for de-escalation of the Syrian Civil War, although neither the Syrian government nor the Syrian opposition are signatories. ](/news/2017/05/4/a-memorandum-is-signed-by-russia-iran-and-turkey-calling-for-de-escalation-of-the-syrian-civil-war-although-neither-the-syrian-government.md) _Context: Iran, Syria, Syrian Civil War_
 5. [ At least 13 Iranian soldiers are killed in a battle with Islamist militants in a village near Aleppo, Syria. This is the largest single day loss for the Iranians since the start of the conflict. ](/news/2016/05/7/at-least-13-iranian-soldiers-are-killed-in-a-battle-with-islamist-militants-in-a-village-near-aleppo-syria-this-is-the-largest-single-day.md) _Context: Iran, Syria, Syrian Civil War_
-
-### Changes:
-
-1. [Syria peace talks in Vienna: Syrian Civil War: Representatives from about 20 countries meet in Vienna, Austria, seeking a political solution to Syria's four-year civil war that has killed more than 250,000 people, including dozens more today. For the first time Iran is at the table, where diplomats seek peace through a ceasefire plan followed by a transitional government. ](/news/2015/10/30/syria-peace-talks-in-vienna-syrian-civil-war-representatives-from-about-20-countries-meet-in-vienna-austria-seeking-a-political-solution.md) _2017-08-27 03:43:36 (First version)_
-1. [Representatives from about 20 countries meet in Vienna, Austria, seeking a political solution to Syria's four-year civil war that has killed more than 250,000 people, including dozens more today. For the first time Iran is at the table, where diplomats seek peace through a ceasefire plan followed by a transitional government. ](/news/2015/10/30/representatives-from-about-20-countries-meet-in-vienna-austria-seeking-a-political-solution-to-syria-s-four-year-civil-war-that-has-killed.md) _(Current version)_

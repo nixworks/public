@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/20/police-in-malawi-arrest-140-people-after-nine-p
 
 ### [2017-10-20](/news/2017/10/20/index.md)
 
+##### Crime in Malawi
 # Police in Malawi arrest 140 people after nine people were lynched for suspected vampirism. 
 
 Police in Malawi said they arrested 140 suspected members of vigilante mobs that have targeted people accused of vampirism, clamping down after a wave of attacks in which at least nine have been lynched.

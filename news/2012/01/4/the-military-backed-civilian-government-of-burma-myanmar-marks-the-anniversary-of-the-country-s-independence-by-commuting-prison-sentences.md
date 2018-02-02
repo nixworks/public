@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/4/the-military-backed-civilian-government-of-burma-myanmar-marks-the-anniversary-of-the-country-s-independence-by-commuting-prison-sentences.html)  [JSON](/news/2012/01/4/the-military-backed-civilian-government-of-burma-myanmar-marks-the-anniversary-of-the-country-s-independence-by-commuting-prison-sentences.json)  [XML](/news/2012/01/4/the-military-backed-civilian-government-of-burma-myanmar-marks-the-anniversary-of-the-country-s-independence-by-commuting-prison-sentences.xml)  
+
 ### [2012-01-4](/news/2012/01/4/index.md)
 
+##### Burma
 # The military-backed civilian government of Burma (Myanmar) marks the anniversary of the country's independence by commuting prison sentences and releasing more than thirty prisoners. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/01/04/world/asia/myanmar-prisoners/index.html?eref=edition)
 

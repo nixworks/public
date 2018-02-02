@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/12/in-somalia-united-nations-world-food-programme-threatens-to-stop-food-shipments-to-the-country-for-ten-years-if-the-hijacked-food-ship-and.html)  [JSON](/news/2005/07/12/in-somalia-united-nations-world-food-programme-threatens-to-stop-food-shipments-to-the-country-for-ten-years-if-the-hijacked-food-ship-and.json)  [XML](/news/2005/07/12/in-somalia-united-nations-world-food-programme-threatens-to-stop-food-shipments-to-the-country-for-ten-years-if-the-hijacked-food-ship-and.xml)  
+
 ### [2005-07-12](/news/2005/07/12/index.md)
 
+##### Somalia
 #  In Somalia, United Nations World Food Programme threatens to stop food shipments to the country for ten years if the hijacked food ship and its crew are not released 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica](http://allafrica.com/stories/200507111649.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4677155.stm)

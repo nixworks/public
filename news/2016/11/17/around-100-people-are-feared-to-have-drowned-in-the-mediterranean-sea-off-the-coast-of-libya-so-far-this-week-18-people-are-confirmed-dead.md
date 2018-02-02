@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/17/around-100-people-are-feared-to-have-drowned-in
 
 ### [2016-11-17](/news/2016/11/17/index.md)
 
+##### European migrant crisis
 # Around 100 people are feared to have drowned in the Mediterranean Sea off the coast of Libya. So far this week, 18 people are confirmed dead and 340 missing attempting to migrate to Europe. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/7/police-say-55-bodies-have-been-recovered-so-far-from-an-abandoned-mine-in-guerrero-mexico.html)  [JSON](/news/2010/06/7/police-say-55-bodies-have-been-recovered-so-far-from-an-abandoned-mine-in-guerrero-mexico.json)  [XML](/news/2010/06/7/police-say-55-bodies-have-been-recovered-so-far-from-an-abandoned-mine-in-guerrero-mexico.xml)  
+
 ### [2010-06-7](/news/2010/06/7/index.md)
 
+##### Guerrero
 # Police say 55 bodies have been recovered so far from an abandoned mine in Guerrero, Mexico. 
 
 Mexico police find 55 bodies in an abandoned mine that appears to have been used as a mass grave by drugs gangs.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10260789.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

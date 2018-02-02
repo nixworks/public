@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/04/20/a-series-of-earthquakes-the-strongest-being-6-1-magnitude-strikes-the-okinawa-island-chain-of-japan-a-tsunami-warning-is-issued-but-late.html)  [JSON](/news/2007/04/20/a-series-of-earthquakes-the-strongest-being-6-1-magnitude-strikes-the-okinawa-island-chain-of-japan-a-tsunami-warning-is-issued-but-late.json)  [XML](/news/2007/04/20/a-series-of-earthquakes-the-strongest-being-6-1-magnitude-strikes-the-okinawa-island-chain-of-japan-a-tsunami-warning-is-issued-but-late.xml)  
+
 ### [2007-04-20](/news/2007/04/20/index.md)
 
+##### earthquake
 #  A series of earthquakes, the strongest being 6.1 magnitude, strikes the Okinawa island chain of Japan. A tsunami warning is issued but later cancelled. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFX via Forbes](http://www.forbes.com/business/feeds/afx/2007/04/19/afx3633544.html)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601080&sid=aOAVqWBJWKpM&refer=asia)
+1. [AFX via Forbes](https://www.forbes.com/business/feeds/afx/2007/04/19/afx3633544.html)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601080&sid=aOAVqWBJWKpM&refer=asia)
 
 ### Related:
 

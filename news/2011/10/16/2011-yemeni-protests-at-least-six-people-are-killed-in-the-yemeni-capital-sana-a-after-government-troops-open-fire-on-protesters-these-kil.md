@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/16/2011-yemeni-protests-at-least-six-people-are-killed-in-the-yemeni-capital-sana-a-after-government-troops-open-fire-on-protesters-these-kil.html)  [JSON](/news/2011/10/16/2011-yemeni-protests-at-least-six-people-are-killed-in-the-yemeni-capital-sana-a-after-government-troops-open-fire-on-protesters-these-kil.json)  [XML](/news/2011/10/16/2011-yemeni-protests-at-least-six-people-are-killed-in-the-yemeni-capital-sana-a-after-government-troops-open-fire-on-protesters-these-kil.xml)  
+
 ### [2011-10-16](/news/2011/10/16/index.md)
 
+##### 2011 Yemeni protests
 # 2011 Yemeni protests: At least six people are killed in the Yemeni capital Sana'a after government troops open fire on protesters. These killings constitute the second incident of fatal protest violence in Sana'a in under 48 hours. 
 
 Half a dozen or more people are killed in Yemen on Sunday as protesters against the regime of President Ali Abdullah Saleh clash with government forces.
 
 
-### Source:
+### Sources:
 
 1. [MarketWatch](http://www.marketwatch.com/story/at-least-6-dead-in-yemen-protests-2011-10-16)
 1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)

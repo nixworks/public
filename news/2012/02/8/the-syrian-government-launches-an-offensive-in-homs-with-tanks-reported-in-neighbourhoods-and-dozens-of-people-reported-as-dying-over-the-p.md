@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/8/the-syrian-government-launches-an-offensive-in-homs-with-tanks-reported-in-neighbourhoods-and-dozens-of-people-reported-as-dying-over-the-p.html)  [JSON](/news/2012/02/8/the-syrian-government-launches-an-offensive-in-homs-with-tanks-reported-in-neighbourhoods-and-dozens-of-people-reported-as-dying-over-the-p.json)  [XML](/news/2012/02/8/the-syrian-government-launches-an-offensive-in-homs-with-tanks-reported-in-neighbourhoods-and-dozens-of-people-reported-as-dying-over-the-p.xml)  
+
 ### [2012-02-8](/news/2012/02/8/index.md)
 
+##### Government of Syria
 # The Syrian government launches an offensive in Homs, with tanks reported in neighbourhoods and dozens of people reported as dying over the past few hours. 
 
 Activists in the Syrian city of Homs say they feel like they are waiting to die as regime troops step up a relentless assault on rebel-held suburbs.
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://blogs.aljazeera.com/liveblog/syria-feb-8-2012-0347)
 2. [BBC/AFP via ABC Online](http://www.abc.net.au/news/2012-02-09/syrian-army-tightens-noose-on-homs/3819478)

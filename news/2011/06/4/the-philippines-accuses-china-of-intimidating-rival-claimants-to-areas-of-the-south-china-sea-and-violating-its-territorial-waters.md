@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/4/the-philippines-accuses-china-of-intimidating-rival-claimants-to-areas-of-the-south-china-sea-and-violating-its-territorial-waters.html)  [JSON](/news/2011/06/4/the-philippines-accuses-china-of-intimidating-rival-claimants-to-areas-of-the-south-china-sea-and-violating-its-territorial-waters.json)  [XML](/news/2011/06/4/the-philippines-accuses-china-of-intimidating-rival-claimants-to-areas-of-the-south-china-sea-and-violating-its-territorial-waters.xml)  
+
 ### [2011-06-4](/news/2011/06/4/index.md)
 
+##### Philippines
 # The Philippines accuses China of intimidating rival claimants to areas of the South China Sea, and violating its territorial waters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iDj9U3_1_3hIohS601QUVVKEXJOg?docId=CNG.4110b3e99956903bdf5fbd9d268ff9c0.291)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/6/the-center-right-citizens-for-european-development-of-bulgaria-party-wins-big-in-the-bulgarian-parliamentary-elections.html)  [JSON](/news/2009/07/6/the-center-right-citizens-for-european-development-of-bulgaria-party-wins-big-in-the-bulgarian-parliamentary-elections.json)  [XML](/news/2009/07/6/the-center-right-citizens-for-european-development-of-bulgaria-party-wins-big-in-the-bulgarian-parliamentary-elections.xml)  
+
 ### [2009-07-6](/news/2009/07/6/index.md)
 
+##### GERB
 #  The center-right Citizens for European Development of Bulgaria party wins big in the Bulgarian parliamentary elections 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8134851.stm)
 

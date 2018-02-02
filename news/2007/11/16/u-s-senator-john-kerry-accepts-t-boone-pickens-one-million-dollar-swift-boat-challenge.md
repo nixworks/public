@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/16/u-s-senator-john-kerry-accepts-t-boone-pickens-one-million-dollar-swift-boat-challenge.html)  [JSON](/news/2007/11/16/u-s-senator-john-kerry-accepts-t-boone-pickens-one-million-dollar-swift-boat-challenge.json)  [XML](/news/2007/11/16/u-s-senator-john-kerry-accepts-t-boone-pickens-one-million-dollar-swift-boat-challenge.xml)  
+
 ### [2007-11-16](/news/2007/11/16/index.md)
 
+##### John Kerry
 #  U.S. Senator John Kerry accepts T. Boone Pickens' one-million-dollar Swift Boat challenge. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://ap.google.com/article/ALeqM5h2PRB2piW2JwOJIpsYRCks2iANLAD8SUVVKG1)
 

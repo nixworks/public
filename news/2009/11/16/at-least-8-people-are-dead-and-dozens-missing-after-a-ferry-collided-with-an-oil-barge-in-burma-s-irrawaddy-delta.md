@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/16/at-least-8-people-are-dead-and-dozens-missing-after-a-ferry-collided-with-an-oil-barge-in-burma-s-irrawaddy-delta.html)  [JSON](/news/2009/11/16/at-least-8-people-are-dead-and-dozens-missing-after-a-ferry-collided-with-an-oil-barge-in-burma-s-irrawaddy-delta.json)  [XML](/news/2009/11/16/at-least-8-people-are-dead-and-dozens-missing-after-a-ferry-collided-with-an-oil-barge-in-burma-s-irrawaddy-delta.xml)  
+
 ### [2009-11-16](/news/2009/11/16/index.md)
 
+##### Burma
 #  At least 8 people are dead and dozens missing after a ferry collided with an oil barge in Burma's Irrawaddy Delta. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5h77IFFGROXwzNg-VJqNygVxLoksgD9C0JUR01)
 

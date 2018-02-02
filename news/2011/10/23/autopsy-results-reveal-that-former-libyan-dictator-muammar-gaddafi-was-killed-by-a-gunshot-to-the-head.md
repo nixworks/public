@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2011/10/23/autopsy-results-reveal-that-former-libyan-dictator-muammar-gaddafi-was-killed-by-a-gunshot-to-the-head.html)  [JSON](/news/2011/10/23/autopsy-results-reveal-that-former-libyan-dictator-muammar-gaddafi-was-killed-by-a-gunshot-to-the-head.json)  [XML](/news/2011/10/23/autopsy-results-reveal-that-former-libyan-dictator-muammar-gaddafi-was-killed-by-a-gunshot-to-the-head.xml)  
+
 ### [2011-10-23](/news/2011/10/23/index.md)
 
+##### Autopsy
 # Autopsy results reveal that former Libyan dictator Muammar Gaddafi was killed by a gunshot to the head. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/10/23/world/africa/libya-gadhafi-autopsy/index.html?hpt=hp_t2)
+
+### Changes:
+
+1. [2011 Libyan civil war:Autopsy results reveal that former Libyan dictator Muammar Gaddafi was killed by a gunshot to the head. ](/news/2011/10/23/2011-libyan-civil-war-pautopsy-results-reveal-that-former-libyan-dictator-muammar-gaddafi-was-killed-by-a-gunshot-to-the-head.md) _2017-08-25 03:34:21 (First version)_
+2. [2011 Libyan civil war:: Autopsy results reveal that former Libyan dictator Muammar Gaddafi was killed by a gunshot to the head. ](/news/2011/10/23/2011-libyan-civil-war-autopsy-results-reveal-that-former-libyan-dictator-muammar-gaddafi-was-killed-by-a-gunshot-to-the-head.md) _2017-08-27 03:34:30 (Update)_
+2. [Autopsy results reveal that former Libyan dictator Muammar Gaddafi was killed by a gunshot to the head. ](/news/2011/10/23/autopsy-results-reveal-that-former-libyan-dictator-muammar-gaddafi-was-killed-by-a-gunshot-to-the-head.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [Men in technicals, pickup trucks with anti-aircraft guns, block off and surround the Libyan foreign ministry in the capital Tripoli demanding a ban on Gaddafi-era officials working in the government ](/news/2013/04/28/men-in-technicals-pickup-trucks-with-anti-aircraft-guns-block-off-and-surround-the-libyan-foreign-ministry-in-the-capital-tripoli-demandin.md) _Context: Libya, Muammar Gaddafi_
 4. [Over documents delivered to Saif al-Islam, detained son of slain leader Muammar Gaddafi, Libya arrests an Australian lawyer from the International Criminal Court (ICC) for trying "to deliver documents to the accused, documents that have nothing to do with his case and that represent a danger to the security of Libya". ](/news/2012/06/10/over-documents-delivered-to-saif-al-islam-detained-son-of-slain-leader-muammar-gaddafi-libya-arrests-an-australian-lawyer-from-the-interna.md) _Context: Libya, Muammar Gaddafi_
 5. [A Libyan starts court proceedings against 41 people accused of helping Muammar Gaddafi to attempt to suppress the opposition in the Libyan Civil War. ](/news/2012/02/5/a-libyan-starts-court-proceedings-against-41-people-accused-of-helping-muammar-gaddafi-to-attempt-to-suppress-the-opposition-in-the-libyan-c.md) _Context: Libya, Muammar Gaddafi_
-
-### Changes:
-
-1. [2011 Libyan civil war:Autopsy results reveal that former Libyan dictator Muammar Gaddafi was killed by a gunshot to the head. ](/news/2011/10/23/2011-libyan-civil-war-pautopsy-results-reveal-that-former-libyan-dictator-muammar-gaddafi-was-killed-by-a-gunshot-to-the-head.md) _2017-08-25 03:34:21 (First version)_
-2. [2011 Libyan civil war:: Autopsy results reveal that former Libyan dictator Muammar Gaddafi was killed by a gunshot to the head. ](/news/2011/10/23/2011-libyan-civil-war-autopsy-results-reveal-that-former-libyan-dictator-muammar-gaddafi-was-killed-by-a-gunshot-to-the-head.md) _2017-08-27 03:34:30 (Update)_
-2. [Autopsy results reveal that former Libyan dictator Muammar Gaddafi was killed by a gunshot to the head. ](/news/2011/10/23/autopsy-results-reveal-that-former-libyan-dictator-muammar-gaddafi-was-killed-by-a-gunshot-to-the-head.md) _(Current version)_

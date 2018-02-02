@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/03/29/the-leaders-of-brazil-venezuela-colombia-and-spain-meet-in-ciudad-guayana-venezuela-they-agree-to-resist-drug-trafficking-terrorism-an.html)  [JSON](/news/2005/03/29/the-leaders-of-brazil-venezuela-colombia-and-spain-meet-in-ciudad-guayana-venezuela-they-agree-to-resist-drug-trafficking-terrorism-an.json)  [XML](/news/2005/03/29/the-leaders-of-brazil-venezuela-colombia-and-spain-meet-in-ciudad-guayana-venezuela-they-agree-to-resist-drug-trafficking-terrorism-an.xml)  
+
 ### [2005-03-29](/news/2005/03/29/index.md)
 
+##### Brazil
 #  The leaders of Brazil, Venezuela, Colombia and Spain meet in Ciudad Guayana, Venezuela. They agree to resist drug trafficking, terrorism and poverty. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8029976)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8029976)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

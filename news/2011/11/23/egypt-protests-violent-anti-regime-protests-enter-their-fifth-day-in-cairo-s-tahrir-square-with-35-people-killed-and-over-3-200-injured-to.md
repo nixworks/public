@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/23/egypt-protests-violent-anti-regime-protests-enter-their-fifth-day-in-cairo-s-tahrir-square-with-35-people-killed-and-over-3-200-injured-to.html)  [JSON](/news/2011/11/23/egypt-protests-violent-anti-regime-protests-enter-their-fifth-day-in-cairo-s-tahrir-square-with-35-people-killed-and-over-3-200-injured-to.json)  [XML](/news/2011/11/23/egypt-protests-violent-anti-regime-protests-enter-their-fifth-day-in-cairo-s-tahrir-square-with-35-people-killed-and-over-3-200-injured-to.xml)  
+
 ### [2011-11-23](/news/2011/11/23/index.md)
 
+##### 2011 Egyptian revolution
 # Egypt protests: Violent anti-regime protests enter their fifth day in Cairo's Tahrir Square, with 35 people killed and over 3,200 injured to date in clashes between protesters and security forces. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/11/23/world/africa/egypt-protests/index.html?hpt=wo_c1)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/15/u-s-energy-company-kinder-morgan-agrees-to-buy-natural-gas-exploration-and-pipeline-company-el-paso-for-21-1-billion-in-cash-and-stock.html)  [JSON](/news/2011/10/15/u-s-energy-company-kinder-morgan-agrees-to-buy-natural-gas-exploration-and-pipeline-company-el-paso-for-21-1-billion-in-cash-and-stock.json)  [XML](/news/2011/10/15/u-s-energy-company-kinder-morgan-agrees-to-buy-natural-gas-exploration-and-pipeline-company-el-paso-for-21-1-billion-in-cash-and-stock.xml)  
+
 ### [2011-10-15](/news/2011/10/15/index.md)
 
+##### Kinder Morgan
 # U.S. energy company Kinder Morgan agrees to buy natural gas exploration and pipeline company El Paso for $21.1 billion in cash and stock. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New York Times](http://dealbook.nytimes.com/2011/10/16/kinder-morgan-to-buy-el-paso/?smid=tw-nytimes&seid=auto)
 

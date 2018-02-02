@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/07/11/aung-san-suu-kyi-announces-that-the-national-league-for-democracy-will-participate-in-myanmar-s-general-election-later-this-year.html)  [JSON](/news/2015/07/11/aung-san-suu-kyi-announces-that-the-national-league-for-democracy-will-participate-in-myanmar-s-general-election-later-this-year.json)  [XML](/news/2015/07/11/aung-san-suu-kyi-announces-that-the-national-league-for-democracy-will-participate-in-myanmar-s-general-election-later-this-year.xml)  
+
 ### [2015-07-11](/news/2015/07/11/index.md)
 
+##### Aung San Suu Kyi
 # Aung San Suu Kyi announces that the National League for Democracy will participate in Myanmar's general election later this year. 
 
 Myanmar’s democracy leader says her National League for Democracy party will participate in the country’s historic general elections in November.
 
 
-### Source:
+### Sources:
 
-1. [Wall Street Journal](http://www.wsj.com/articles/myanmars-suu-kyi-says-her-party-will-run-in-elections-1436619266)
+1. [Wall Street Journal](https://www.wsj.com/articles/myanmars-suu-kyi-says-her-party-will-run-in-elections-1436619266)
 1. [Cover Image](https://si.wsj.net/public/resources/images/BN-JI444_0711my_G_20150711084606.jpg)
 
 ### Related:

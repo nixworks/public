@@ -1,16 +1,25 @@
+
+Formats: [HTML](/news/2010/11/12/two-ethnic-karen-rebel-armies-in-eastern-burma-join-forces-in-advance-of-a-possible-crackdown-by-the-military-government.html)  [JSON](/news/2010/11/12/two-ethnic-karen-rebel-armies-in-eastern-burma-join-forces-in-advance-of-a-possible-crackdown-by-the-military-government.json)  [XML](/news/2010/11/12/two-ethnic-karen-rebel-armies-in-eastern-burma-join-forces-in-advance-of-a-possible-crackdown-by-the-military-government.xml)  
+
 ### [2010-11-12](/news/2010/11/12/index.md)
 
+##### Burma
 # Two ethnic Karen rebel armies in eastern Burma join forces in advance of a possible crackdown by the military government. 
 
 Ethnic Karen armies have united as fresh fighting erupts on Thai-Myanmar border.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/video/asia-pacific/2010/11/2010111245020326197.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11740798)
 3. [The Irrawaddy](http://www.irrawaddy.org/highlight.php?art_id=20053)
 3. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/12/201011125718374360_20.jpg)
+
+### Changes:
+
+1. [Burma: Two ethnic Karen rebel armies in eastern Burma join forces in advance of a possible crackdown by the military government. ](/news/2010/11/12/burma-two-ethnic-karen-rebel-armies-in-eastern-burma-join-forces-in-advance-of-a-possible-crackdown-by-the-military-government.md) _2017-08-27 03:31:07 (First version)_
+1. [Two ethnic Karen rebel armies in eastern Burma join forces in advance of a possible crackdown by the military government. ](/news/2010/11/12/two-ethnic-karen-rebel-armies-in-eastern-burma-join-forces-in-advance-of-a-possible-crackdown-by-the-military-government.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +28,3 @@ Ethnic Karen armies have united as fresh fighting erupts on Thai-Myanmar border.
 3. [ According to Christian Solidarity Worldwide, the army of Myanmar (Burma) has used chemical weapons against Karen rebels. ](/news/2005/04/21/according-to-christian-solidarity-worldwide-the-army-of-myanmar-burma-has-used-chemical-weapons-against-karen-rebels.md) _Context: Burma, Karen_
 4. [Burma pledges to release 3000 prisoners a month before it hosts a Southeast Asian summit. ](/news/2014/10/7/burma-pledges-to-release-3000-prisoners-a-month-before-it-hosts-a-southeast-asian-summit.md) _Context: Burma_
 5. [Burmese hard-line monk, Ashin Wirathu, and a hardline group in Sri Lanka, Bodu Bala Sena, say they would work together to rally other Buddhist groups and defend their faith against militant Islamists. ](/news/2014/09/30/burmese-hard-line-monk-ashin-wirathu-and-a-hardline-group-in-sri-lanka-bodu-bala-sena-say-they-would-work-together-to-rally-other-buddhi.md) _Context: Burma_
-
-### Changes:
-
-1. [Burma: Two ethnic Karen rebel armies in eastern Burma join forces in advance of a possible crackdown by the military government. ](/news/2010/11/12/burma-two-ethnic-karen-rebel-armies-in-eastern-burma-join-forces-in-advance-of-a-possible-crackdown-by-the-military-government.md) _2017-08-27 03:31:07 (First version)_
-1. [Two ethnic Karen rebel armies in eastern Burma join forces in advance of a possible crackdown by the military government. ](/news/2010/11/12/two-ethnic-karen-rebel-armies-in-eastern-burma-join-forces-in-advance-of-a-possible-crackdown-by-the-military-government.md) _(Current version)_

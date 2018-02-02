@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/21/the-president-of-bolivia-evo-morales-declares-a
 
 ### [2016-11-21](/news/2016/11/21/index.md)
 
+##### President of Bolivia
 # The President of Bolivia Evo Morales declares a national emergency due to water shortages caused by a drought. 
 
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/3/ricardo-palmera-better-known-as-simon-trinidad-one-of-top-seven-colombian-rebel-group-farc-revolutionary-armed-forces-of-colombia-is-a.html)  [JSON](/news/2004/01/3/ricardo-palmera-better-known-as-simon-trinidad-one-of-top-seven-colombian-rebel-group-farc-revolutionary-armed-forces-of-colombia-is-a.json)  [XML](/news/2004/01/3/ricardo-palmera-better-known-as-simon-trinidad-one-of-top-seven-colombian-rebel-group-farc-revolutionary-armed-forces-of-colombia-is-a.xml)  
+
 ### [2004-01-3](/news/2004/01/3/index.md)
 
+##### Simon Trinidad
 #  Ricardo Palmera, better known as Simon Trinidad, one of top seven Colombian rebel group, FARC (Revolutionary Armed Forces of Colombia) is arrested in Ecuador.
 
 

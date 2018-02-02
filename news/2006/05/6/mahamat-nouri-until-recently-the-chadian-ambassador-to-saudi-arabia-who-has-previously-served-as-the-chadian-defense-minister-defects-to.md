@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/6/mahamat-nouri-until-recently-the-chadian-ambassador-to-saudi-arabia-who-has-previously-served-as-the-chadian-defense-minister-defects-to.html)  [JSON](/news/2006/05/6/mahamat-nouri-until-recently-the-chadian-ambassador-to-saudi-arabia-who-has-previously-served-as-the-chadian-defense-minister-defects-to.json)  [XML](/news/2006/05/6/mahamat-nouri-until-recently-the-chadian-ambassador-to-saudi-arabia-who-has-previously-served-as-the-chadian-defense-minister-defects-to.xml)  
+
 ### [2006-05-6](/news/2006/05/6/index.md)
 
+##### Mahamat Nouri
 #  Mahamat Nouri, until recently the Chadian ambassador to Saudi Arabia, who has previously served as the Chadian Defense Minister, defects to Sudan and joins the United Front for Democratic Change rebels. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://sg.news.yahoo.com/060506/3/40ln9.html)
 

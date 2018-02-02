@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/06/28/wendy-alexander-resigns-as-the-leader-of-the-scottish-labour-party-following-a-ruling-from-the-scottish-parliament-s-ethics-committee-over.html)  [JSON](/news/2008/06/28/wendy-alexander-resigns-as-the-leader-of-the-scottish-labour-party-following-a-ruling-from-the-scottish-parliament-s-ethics-committee-over.json)  [XML](/news/2008/06/28/wendy-alexander-resigns-as-the-leader-of-the-scottish-labour-party-following-a-ruling-from-the-scottish-parliament-s-ethics-committee-over.xml)  
+
 ### [2008-06-28](/news/2008/06/28/index.md)
 
+##### Wendy Alexander
 #  Wendy Alexander resigns as the leader of the Scottish Labour Party following a ruling from the Scottish Parliament's ethics committee over political donations. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20080628/wl_uk_afp/britainpoliticsscotland)
+1. [AFP via Yahoo! News](https://news.yahoo.com/s/afp/20080628/wl_uk_afp/britainpoliticsscotland)
 2. [BBC News](http://news.bbc.co.uk/2/hi/uk_news/scotland/7478913.stm)
 
 ### Related:

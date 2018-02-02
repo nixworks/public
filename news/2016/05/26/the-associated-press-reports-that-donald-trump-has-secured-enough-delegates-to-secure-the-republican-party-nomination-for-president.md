@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/26/the-associated-press-reports-that-donald-trump-
 
 ### [2016-05-26](/news/2016/05/26/index.md)
 
+##### 2016 U.S. presidential election
 # The Associated Press reports that Donald Trump has secured enough delegates to secure the Republican Party nomination for President. 
 
 BISMARCK, N.D. (AP) — Triumphantly armed with a majority of his party&#039;s delegates, Republican Donald Trump unleashed a broadside attack Thursday on Hillary Clinton&#039;s prescriptions for energy, guns, the economy and international…

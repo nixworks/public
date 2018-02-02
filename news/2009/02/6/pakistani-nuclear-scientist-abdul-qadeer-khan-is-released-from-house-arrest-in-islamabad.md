@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/6/pakistani-nuclear-scientist-abdul-qadeer-khan-is-released-from-house-arrest-in-islamabad.html)  [JSON](/news/2009/02/6/pakistani-nuclear-scientist-abdul-qadeer-khan-is-released-from-house-arrest-in-islamabad.json)  [XML](/news/2009/02/6/pakistani-nuclear-scientist-abdul-qadeer-khan-is-released-from-house-arrest-in-islamabad.xml)  
+
 ### [2009-02-6](/news/2009/02/6/index.md)
 
+##### Pakistan
 #  Pakistani nuclear scientist Abdul Qadeer Khan is released from house arrest in Islamabad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/7873962.stm)
 

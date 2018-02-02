@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/30/the-governor-of-puerto-rico-authorizes-the-susp
 
 ### [2016-06-30](/news/2016/06/30/index.md)
 
+##### Puerto Rico
 # The Governor of Puerto Rico authorizes the suspension of payments on the general obligation debt of that commonwealth, assuring a default on the $1.9 billion of debt payments due the following day. 
 
 

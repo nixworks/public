@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/10/13/an-earthquake-measuring-6-on-the-richter-scale-hits-off-the-coast-of-the-indonesian-island-of-bali-injuring-at-least-50-people-and-causing.html)  [JSON](/news/2011/10/13/an-earthquake-measuring-6-on-the-richter-scale-hits-off-the-coast-of-the-indonesian-island-of-bali-injuring-at-least-50-people-and-causing.json)  [XML](/news/2011/10/13/an-earthquake-measuring-6-on-the-richter-scale-hits-off-the-coast-of-the-indonesian-island-of-bali-injuring-at-least-50-people-and-causing.xml)  
+
 ### [2011-10-13](/news/2011/10/13/index.md)
 
+##### earthquake
 # An earthquake measuring 6 on the Richter scale hits off the coast of the Indonesian island of Bali, injuring at least 50 people and causing significant property damage. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''Herald Sun](http://www.heraldsun.com.au/news/world/large-earthquake-strikes-bali/story-e6frf7lf-1226165920074)
-2. [AP via ''USA Today](http://www.usatoday.com/news/world/story/2011-10-13/bali-indonesia-earthquake/50749446/1?csp=34news)
+2. [AP via ''USA Today](https://www.usatoday.com/news/world/story/2011-10-13/bali-indonesia-earthquake/50749446/1?csp=34news)
 2. [Cover Image](http://i.usatoday.net/news/_photos/2011/10/13/Bali-rattled-by-quake-dozens-injured-ONFI91P-x.jpg)
 
 ### Related:

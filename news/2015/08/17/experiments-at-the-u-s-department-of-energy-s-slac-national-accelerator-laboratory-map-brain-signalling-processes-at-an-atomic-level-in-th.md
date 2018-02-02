@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/17/experiments-at-the-u-s-department-of-energy-s-slac-national-accelerator-laboratory-map-brain-signalling-processes-at-an-atomic-level-in-th.html)  [JSON](/news/2015/08/17/experiments-at-the-u-s-department-of-energy-s-slac-national-accelerator-laboratory-map-brain-signalling-processes-at-an-atomic-level-in-th.json)  [XML](/news/2015/08/17/experiments-at-the-u-s-department-of-energy-s-slac-national-accelerator-laboratory-map-brain-signalling-processes-at-an-atomic-level-in-th.xml)  
+
 ### [2015-08-17](/news/2015/08/17/index.md)
 
+##### U.S. Department of Energy
 # Experiments at the U.S. Department of Energy's SLAC National Accelerator Laboratory map brain signalling processes at an atomic level, in this case, the SNARE complex (neuronal SNAREs and synaptotagmin-1), which influences the control and release of neurotransmitters.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Science Daily](http://www.sciencedaily.com/releases/2015/08/150817132007.htm)
 

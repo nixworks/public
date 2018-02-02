@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/3/the-interim-government-of-bangladesh-arrests-former-prime-minister-of-bangladesh-khaleda-zia-and-her-son-on-corruption-charges.html)  [JSON](/news/2007/09/3/the-interim-government-of-bangladesh-arrests-former-prime-minister-of-bangladesh-khaleda-zia-and-her-son-on-corruption-charges.json)  [XML](/news/2007/09/3/the-interim-government-of-bangladesh-arrests-former-prime-minister-of-bangladesh-khaleda-zia-and-her-son-on-corruption-charges.xml)  
+
 ### [2007-09-3](/news/2007/09/3/index.md)
 
+##### Bangladesh
 #  The interim Government of Bangladesh arrests former Prime Minister of Bangladesh Khaleda Zia and her son on corruption charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6975340.stm)
 

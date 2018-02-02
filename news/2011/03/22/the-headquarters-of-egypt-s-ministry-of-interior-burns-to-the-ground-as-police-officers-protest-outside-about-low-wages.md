@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/22/the-headquarters-of-egypt-s-ministry-of-interior-burns-to-the-ground-as-police-officers-protest-outside-about-low-wages.html)  [JSON](/news/2011/03/22/the-headquarters-of-egypt-s-ministry-of-interior-burns-to-the-ground-as-police-officers-protest-outside-about-low-wages.json)  [XML](/news/2011/03/22/the-headquarters-of-egypt-s-ministry-of-interior-burns-to-the-ground-as-police-officers-protest-outside-about-low-wages.xml)  
+
 ### [2011-03-22](/news/2011/03/22/index.md)
 
+##### Egypt
 # The headquarters of Egypt's Ministry of Interior burns to the ground as police officers protest outside about low wages. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory?id=13193206)
 

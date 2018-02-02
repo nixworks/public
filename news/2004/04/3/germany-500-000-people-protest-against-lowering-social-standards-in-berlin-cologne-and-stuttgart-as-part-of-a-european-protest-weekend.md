@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/3/germany-500-000-people-protest-against-lowering-social-standards-in-berlin-cologne-and-stuttgart-as-part-of-a-european-protest-weekend.html)  [JSON](/news/2004/04/3/germany-500-000-people-protest-against-lowering-social-standards-in-berlin-cologne-and-stuttgart-as-part-of-a-european-protest-weekend.json)  [XML](/news/2004/04/3/germany-500-000-people-protest-against-lowering-social-standards-in-berlin-cologne-and-stuttgart-as-part-of-a-european-protest-weekend.xml)  
+
 ### [2004-04-3](/news/2004/04/3/index.md)
 
+##### Cologne
 #  Germany: 500,000 people protest against lowering social standards in Berlin, Cologne, and Stuttgart as part of a European protest weekend. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SPIEGEL](http://www.spiegel.de/politik/deutschland/0,1518,293972,00.html)
 

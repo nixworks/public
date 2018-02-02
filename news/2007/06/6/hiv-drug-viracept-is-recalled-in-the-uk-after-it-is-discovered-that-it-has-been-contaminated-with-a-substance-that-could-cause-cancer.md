@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/6/hiv-drug-viracept-is-recalled-in-the-uk-after-it-is-discovered-that-it-has-been-contaminated-with-a-substance-that-could-cause-cancer.html)  [JSON](/news/2007/06/6/hiv-drug-viracept-is-recalled-in-the-uk-after-it-is-discovered-that-it-has-been-contaminated-with-a-substance-that-could-cause-cancer.json)  [XML](/news/2007/06/6/hiv-drug-viracept-is-recalled-in-the-uk-after-it-is-discovered-that-it-has-been-contaminated-with-a-substance-that-could-cause-cancer.xml)  
+
 ### [2007-06-6](/news/2007/06/6/index.md)
 
+##### HIV
 #  HIV drug Viracept is recalled in the UK after it is discovered that it has been contaminated with a substance that could cause cancer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky](http://news.sky.com/skynews/article/0,,30000-1269375,00.html?f=dta)
 

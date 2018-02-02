@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/04/27/about-20-senior-military-leaders-in-burma-including-prime-minister-thein-sein-retire-from-their-posts-in-the-state-peace-and-development-c.html)  [JSON](/news/2010/04/27/about-20-senior-military-leaders-in-burma-including-prime-minister-thein-sein-retire-from-their-posts-in-the-state-peace-and-development-c.json)  [XML](/news/2010/04/27/about-20-senior-military-leaders-in-burma-including-prime-minister-thein-sein-retire-from-their-posts-in-the-state-peace-and-development-c.xml)  
+
 ### [2010-04-27](/news/2010/04/27/index.md)
 
+##### Burma
 # About 20 senior military leaders in Burma, including Prime Minister Thein Sein, retire from their posts in the State Peace and Development Council to participate in the general election later this year. 
 
 Myanmars prime minister and at least 17 other ministers and deputy ministers Monday resigned their military posts in what appears to be a step towards...
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8646575.stm)
-2. [Reuters](http://www.reuters.com/article/idUSTRE63Q0UI20100427)
+2. [Reuters](https://www.reuters.com/article/idUSTRE63Q0UI20100427)
 3. [Sify](http://sify.com/news/myanmar-ministers-resign-military-posts-news-international-ke0xkchgbid.html)
 3. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
 

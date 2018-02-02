@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/27/the-burmese-president-thein-sein-changes-nine-ministers-in-the-cabinet-in-an-apparent-bid-to-demonstrate-that-promised-reforms-are-firmly-o.html)  [JSON](/news/2012/08/27/the-burmese-president-thein-sein-changes-nine-ministers-in-the-cabinet-in-an-apparent-bid-to-demonstrate-that-promised-reforms-are-firmly-o.json)  [XML](/news/2012/08/27/the-burmese-president-thein-sein-changes-nine-ministers-in-the-cabinet-in-an-apparent-bid-to-demonstrate-that-promised-reforms-are-firmly-o.xml)  
+
 ### [2012-08-27](/news/2012/08/27/index.md)
 
+##### Thein Sein
 # The Burmese President Thein Sein changes nine ministers in the cabinet, in an apparent bid to demonstrate that promised reforms are firmly on course. 
 
 The Burmese President Thein Sein announces a cabinet reshuffle, replacing the hardline information minister and eight others.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19389920)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/61484000/jpg/_61484181_61484180.jpg)

@@ -1,7 +1,7 @@
-## [2000-12-6](/news/2000/12/6/index.md)
 
-### ["'Died:"' Gershom Browne, 102, last Guyanese veteran of World War I.](/news/2000/12/6/died-gershom-browne-102-last-guyanese-veteran-of-world-war-i.md)
-_Context: Gershom Browne_
+Formats: [HTML](2000/12/6/index.html)  [JSON](2000/12/6/index.json)  [XML](2000/12/6/index.xml)  
+
+## [2000-12-6](/news/2000/12/6/index.md)
 
 ## [Previous Day...](/news/2000/12/5/index.md)
 

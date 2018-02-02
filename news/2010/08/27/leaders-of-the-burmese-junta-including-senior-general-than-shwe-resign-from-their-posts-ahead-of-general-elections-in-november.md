@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/27/leaders-of-the-burmese-junta-including-senior-general-than-shwe-resign-from-their-posts-ahead-of-general-elections-in-november.html)  [JSON](/news/2010/08/27/leaders-of-the-burmese-junta-including-senior-general-than-shwe-resign-from-their-posts-ahead-of-general-elections-in-november.json)  [XML](/news/2010/08/27/leaders-of-the-burmese-junta-including-senior-general-than-shwe-resign-from-their-posts-ahead-of-general-elections-in-november.xml)  
+
 ### [2010-08-27](/news/2010/08/27/index.md)
 
+##### Burma
 # Leaders of the Burmese junta, including Senior General Than Shwe, resign from their posts ahead of general elections in November. 
 
 Myanmars defence minister and other top generals resigned their junta and military posts Friday to contest the upcoming polls as civilians, officials...
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11114575)
 2. [Bangkok Post](http://www.bangkokpost.com/news/asia/193265/burma-army-reshuffle-ahead-of-vote-officials)

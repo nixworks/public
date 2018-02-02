@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/09/19/syrian-activists-and-residents-claim-that-the-syrian-military-have-shot-dead-eight-people-including-six-civilians-north-of-the-city-of-hom.html)  [JSON](/news/2011/09/19/syrian-activists-and-residents-claim-that-the-syrian-military-have-shot-dead-eight-people-including-six-civilians-north-of-the-city-of-hom.json)  [XML](/news/2011/09/19/syrian-activists-and-residents-claim-that-the-syrian-military-have-shot-dead-eight-people-including-six-civilians-north-of-the-city-of-hom.xml)  
+
 ### [2011-09-19](/news/2011/09/19/index.md)
 
+##### Syria
 # Syrian activists and residents claim that the Syrian military have shot dead eight people, including six civilians, north of the city of Homs. 
 
 Syrian forces shot dead at least six villagers and two rebel soldiers on Monday, in a sweep of countryside north of the city of Homs, one of the most defiant regions in pro-democracy protests, activists and residents said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/09/19/us-syria-idUSL5E7KJ3GB20110919)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/09/19/us-syria-idUSL5E7KJ3GB20110919)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

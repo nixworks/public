@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/10/14/microsoft-completes-its-acquisition-of-internet-phone-company-skype-for-us-8-5-billion.html)  [JSON](/news/2011/10/14/microsoft-completes-its-acquisition-of-internet-phone-company-skype-for-us-8-5-billion.json)  [XML](/news/2011/10/14/microsoft-completes-its-acquisition-of-internet-phone-company-skype-for-us-8-5-billion.xml)  
+
 ### [2011-10-14](/news/2011/10/14/index.md)
 
+##### Microsoft
 # Microsoft completes its acquisition of Internet phone company Skype for US$8.5 billion. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Register](http://www.theregister.co.uk/2011/10/14/microsoft_makes_skype_family/)
+1. [The Register](https://www.theregister.co.uk/2011/10/14/microsoft_makes_skype_family/)
 1. [Cover Image](https://regmedia.co.uk/2013/02/05/default_image-2.png?x=1200&y=794)
 
 ### Related:

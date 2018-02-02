@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/03/13/democratic-party-united-states-presidential-primaries-2008-geraldine-ferraro-resigns-from-the-clinton-campaign-after-making-comments-th.html)  [JSON](/news/2008/03/13/democratic-party-united-states-presidential-primaries-2008-geraldine-ferraro-resigns-from-the-clinton-campaign-after-making-comments-th.json)  [XML](/news/2008/03/13/democratic-party-united-states-presidential-primaries-2008-geraldine-ferraro-resigns-from-the-clinton-campaign-after-making-comments-th.xml)  
+
 ### [2008-03-13](/news/2008/03/13/index.md)
 
+##### primaries
 #  Democratic Party (United States) presidential primaries, 2008: Geraldine Ferraro resigns from the Clinton campaign after making comments that "if Obama was a white man, he would not be in this position." 
 
 In an interview, Geraldine A. Ferraro said that she stood by her controversial remarks, and accused the Obama campaign of deliberate distortion.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/03/13/us/politics/13ferraro.html)
+1. [The New York Times](https://www.nytimes.com/2008/03/13/us/politics/13ferraro.html)
 1. [Cover Image](https://static01.nyt.com/images/2008/03/13/us/13ferraro.75.jpg)
 
 ### Related:

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/07/17/39-people-are-arrested-detained-and-kept-at-an-undisclosed-location-in-pakistan-due-to-an-alleged-connection-with-a-recent-attack-on-a-pla.html)  [JSON](/news/2007/07/17/39-people-are-arrested-detained-and-kept-at-an-undisclosed-location-in-pakistan-due-to-an-alleged-connection-with-a-recent-attack-on-a-pla.json)  [XML](/news/2007/07/17/39-people-are-arrested-detained-and-kept-at-an-undisclosed-location-in-pakistan-due-to-an-alleged-connection-with-a-recent-attack-on-a-pla.xml)  
+
 ### [2007-07-17](/news/2007/07/17/index.md)
 
+##### Pakistan
 #  39 people are arrested, detained and kept at an undisclosed location in Pakistan due to an alleged connection with a recent attack on a plane carrying Pervez Musharraf. 
 
 

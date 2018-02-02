@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/31/the-mine-safety-and-health-administration-indefinitely-suspends-the-search-for-six-missing-coal-miners-trapped-in-the-crandall-canyon-mine.html)  [JSON](/news/2007/08/31/the-mine-safety-and-health-administration-indefinitely-suspends-the-search-for-six-missing-coal-miners-trapped-in-the-crandall-canyon-mine.json)  [XML](/news/2007/08/31/the-mine-safety-and-health-administration-indefinitely-suspends-the-search-for-six-missing-coal-miners-trapped-in-the-crandall-canyon-mine.xml)  
+
 ### [2007-08-31](/news/2007/08/31/index.md)
 
+##### Mine Safety and Health Administration
 #  The Mine Safety and Health Administration indefinitely suspends the search for six missing coal miners trapped in the Crandall Canyon mine in the U.S. state of Utah. 
 
 Federal officials have indefinitely suspended efforts to find six men trapped for nearly four weeks inside a coal mine after a robotic camera failed to provide any useful information.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,295464,00.html)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/story/2007/08/31/federal-officials-suspend-utah-mine-search-after-cameras-fail-to-provide/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1422502328992.jpg?ve=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/13/pope-benedict-xvi-arrives-in-sydney-australia-for-world-youth-day-2008-celebrations.html)  [JSON](/news/2008/07/13/pope-benedict-xvi-arrives-in-sydney-australia-for-world-youth-day-2008-celebrations.json)  [XML](/news/2008/07/13/pope-benedict-xvi-arrives-in-sydney-australia-for-world-youth-day-2008-celebrations.xml)  
+
 ### [2008-07-13](/news/2008/07/13/index.md)
 
+##### Pope Benedict XVI
 #  Pope Benedict XVI arrives in Sydney, Australia for World Youth Day 2008 celebrations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/news/world-youth-day/pope-lands-in-sydney/2008/07/13/1215887421428.html)
 

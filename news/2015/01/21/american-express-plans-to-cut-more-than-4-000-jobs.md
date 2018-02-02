@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/01/21/american-express-plans-to-cut-more-than-4-000-jobs.html)  [JSON](/news/2015/01/21/american-express-plans-to-cut-more-than-4-000-jobs.json)  [XML](/news/2015/01/21/american-express-plans-to-cut-more-than-4-000-jobs.xml)  
+
 ### [2015-01-21](/news/2015/01/21/index.md)
 
+##### American Express
 # American Express plans to cut more than 4,000 jobs. 
 
 American Express Co will cut more than 4,000 jobs this year, an executive said, after the credit card company also reported higher quarterly expenses and provisions for bad loans.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/01/22/us-american-express-results-idUSKBN0KU2MZ20150122)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150121&t=2&i=1018630132&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0K14U)
+1. [Reuters](https://www.reuters.com/article/2015/01/22/us-american-express-results-idUSKBN0KU2MZ20150122)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20150121&t=2&i=1018630132&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0K14U)
 
 ### Related:
 

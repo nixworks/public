@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/09/24/menachem-mazuz-the-attorney-general-of-israel-orders-a-criminal-investigation-into-the-purchase-of-a-house-by-the-prime-minister-of-israe.html)  [JSON](/news/2007/09/24/menachem-mazuz-the-attorney-general-of-israel-orders-a-criminal-investigation-into-the-purchase-of-a-house-by-the-prime-minister-of-israe.json)  [XML](/news/2007/09/24/menachem-mazuz-the-attorney-general-of-israel-orders-a-criminal-investigation-into-the-purchase-of-a-house-by-the-prime-minister-of-israe.xml)  
+
 ### [2007-09-24](/news/2007/09/24/index.md)
 
+##### Menachem Mazuz
 #  Menachem Mazuz, the Attorney General of Israel, orders a criminal investigation into the purchase of a house by the Prime Minister of Israel Ehud Olmert. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSL2487421920070925?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070925&t=2&i=1817572&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-25T005220Z_01_L24874219_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSL2487421920070925?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20070925&t=2&i=1817572&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-25T005220Z_01_L24874219_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

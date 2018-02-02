@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/13/an-autopsy-on-the-body-of-boyzone-singer-stephen-gately-finds-he-died-of-natural-causes.html)  [JSON](/news/2009/10/13/an-autopsy-on-the-body-of-boyzone-singer-stephen-gately-finds-he-died-of-natural-causes.json)  [XML](/news/2009/10/13/an-autopsy-on-the-body-of-boyzone-singer-stephen-gately-finds-he-died-of-natural-causes.xml)  
+
 ### [2009-10-13](/news/2009/10/13/index.md)
 
+##### Boyzone
 #  An autopsy on the body of Boyzone singer Stephen Gately finds he died of natural causes. 
 
 Boyzone star Stephen Gately died of natural causes, a Spanish court confirmed this morning.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/arts/music/story/2009/10/13/stephen-gately.html)
 2. [CNN](http://www.cnn.com/2009/SHOWBIZ/Music/10/13/ent.boyzone.autopsy/)

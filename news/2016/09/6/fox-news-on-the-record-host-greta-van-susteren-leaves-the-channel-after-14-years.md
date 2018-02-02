@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/6/fox-news-on-the-record-host-greta-van-susteren-l
 
 ### [2016-09-6](/news/2016/09/6/index.md)
 
+##### Fox News
 # Fox News "On The Record" host Greta Van Susteren leaves the channel after 14 years. 
 
 

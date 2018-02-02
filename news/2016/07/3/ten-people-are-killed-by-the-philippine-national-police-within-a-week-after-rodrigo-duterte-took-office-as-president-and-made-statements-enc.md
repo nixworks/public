@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/3/ten-people-are-killed-by-the-philippine-national
 
 ### [2016-07-3](/news/2016/07/3/index.md)
 
+##### drug crackdown
 # Ten people are killed by the Philippine National Police within a week after Rodrigo Duterte took office as president and made statements encouraging the murder of illegal drug addicts. 
 
 

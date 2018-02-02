@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/07/6/in-india-the-opposition-bharatiya-janata-party-calls-for-a-nationwide-strike-in-protest-of-the-tuesday-attack-on-the-ayodhya-site-the-pol.html)  [JSON](/news/2005/07/6/in-india-the-opposition-bharatiya-janata-party-calls-for-a-nationwide-strike-in-protest-of-the-tuesday-attack-on-the-ayodhya-site-the-pol.json)  [XML](/news/2005/07/6/in-india-the-opposition-bharatiya-janata-party-calls-for-a-nationwide-strike-in-protest-of-the-tuesday-attack-on-the-ayodhya-site-the-pol.xml)  
+
 ### [2005-07-6](/news/2005/07/6/index.md)
 
+##### Bharatiya Janata Party
 #  In India, the opposition Bharatiya Janata Party calls for a nationwide strike in protest of the Tuesday attack on the Ayodhya site. The police are on high alert in case of religious violence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4654593.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aF8QHNF5Wmx8&refer=asia)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000080&sid=aF8QHNF5Wmx8&refer=asia)
 3. [Newindpress](http://www.newindpress.com/NewsItems.asp?ID=IEH20050705082751&Page=H&Title=Top+Stories&Topic=-401)
 4. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/DEL253882.htm)
 

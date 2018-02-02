@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/8/japanese-prime-minister-naoto-kan-is-due-to-name-his-cabinet-and-be-formally-sworn-in-by-emperor-akihito.html)  [JSON](/news/2010/06/8/japanese-prime-minister-naoto-kan-is-due-to-name-his-cabinet-and-be-formally-sworn-in-by-emperor-akihito.json)  [XML](/news/2010/06/8/japanese-prime-minister-naoto-kan-is-due-to-name-his-cabinet-and-be-formally-sworn-in-by-emperor-akihito.xml)  
+
 ### [2010-06-8](/news/2010/06/8/index.md)
 
+##### Japan
 # Japanese Prime Minister Naoto Kan is due to name his cabinet and be formally sworn in by Emperor Akihito. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10252301.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

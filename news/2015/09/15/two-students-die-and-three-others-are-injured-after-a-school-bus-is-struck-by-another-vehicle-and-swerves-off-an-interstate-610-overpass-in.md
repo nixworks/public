@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/09/15/two-students-die-and-three-others-are-injured-after-a-school-bus-is-struck-by-another-vehicle-and-swerves-off-an-interstate-610-overpass-in.html)  [JSON](/news/2015/09/15/two-students-die-and-three-others-are-injured-after-a-school-bus-is-struck-by-another-vehicle-and-swerves-off-an-interstate-610-overpass-in.json)  [XML](/news/2015/09/15/two-students-die-and-three-others-are-injured-after-a-school-bus-is-struck-by-another-vehicle-and-swerves-off-an-interstate-610-overpass-in.xml)  
+
 ### [2015-09-15](/news/2015/09/15/index.md)
 
+##### school bus
 # Two students die and three others are injured after a school bus is struck by another vehicle and swerves off an Interstate 610 overpass in Houston, Texas. 
 
 Two students died and two others were hurt along with their bus driver Tuesday morning when a crash caused their school bus to plunge from Loop 610 in southeast Houston, officials said.
 
 
-### Source:
+### Sources:
 
 1. [Houston Chronicle](http://www.chron.com/houston/article/School-crash-along-South-Loop-6505292.php)
-2. [Reuters](http://www.reuters.com/article/2015/09/15/us-usa-houston-bus-idUSKCN0RF1LR20150915)
+2. [Reuters](https://www.reuters.com/article/2015/09/15/us-usa-houston-bus-idUSKCN0RF1LR20150915)
 2. [Cover Image](http://ww2.hdnux.com/photos/40/73/75/8634233/3/rawImage.jpg)
 
 ### Related:

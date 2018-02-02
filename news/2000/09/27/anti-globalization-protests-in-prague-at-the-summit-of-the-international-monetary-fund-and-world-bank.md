@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/09/27/anti-globalization-protests-in-prague-at-the-summit-of-the-international-monetary-fund-and-world-bank.html)  [JSON](/news/2000/09/27/anti-globalization-protests-in-prague-at-the-summit-of-the-international-monetary-fund-and-world-bank.json)  [XML](/news/2000/09/27/anti-globalization-protests-in-prague-at-the-summit-of-the-international-monetary-fund-and-world-bank.xml)  
+
 ### [2000-09-27](/news/2000/09/27/index.md)
 
+##### Anti-globalization protests in Prague
 #  Anti-globalization protests in Prague, at the summit of the International Monetary Fund and World Bank.
 
 

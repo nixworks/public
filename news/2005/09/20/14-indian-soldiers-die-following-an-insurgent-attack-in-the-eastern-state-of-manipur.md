@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/20/14-indian-soldiers-die-following-an-insurgent-attack-in-the-eastern-state-of-manipur.html)  [JSON](/news/2005/09/20/14-indian-soldiers-die-following-an-insurgent-attack-in-the-eastern-state-of-manipur.json)  [XML](/news/2005/09/20/14-indian-soldiers-die-following-an-insurgent-attack-in-the-eastern-state-of-manipur.xml)  
+
 ### [2005-09-20](/news/2005/09/20/index.md)
 
+##### India
 #  14 Indian soldiers die following an insurgent attack in the eastern state of Manipur. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4263152.stm)
 

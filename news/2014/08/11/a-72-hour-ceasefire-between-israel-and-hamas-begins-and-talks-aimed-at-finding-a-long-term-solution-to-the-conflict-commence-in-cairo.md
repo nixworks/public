@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2014/08/11/a-72-hour-ceasefire-between-israel-and-hamas-begins-and-talks-aimed-at-finding-a-long-term-solution-to-the-conflict-commence-in-cairo.html)  [JSON](/news/2014/08/11/a-72-hour-ceasefire-between-israel-and-hamas-begins-and-talks-aimed-at-finding-a-long-term-solution-to-the-conflict-commence-in-cairo.json)  [XML](/news/2014/08/11/a-72-hour-ceasefire-between-israel-and-hamas-begins-and-talks-aimed-at-finding-a-long-term-solution-to-the-conflict-commence-in-cairo.xml)  
+
 ### [2014-08-11](/news/2014/08/11/index.md)
 
+##### 2014 Israel-Gaza conflict
 # A 72-hour ceasefire between Israel and Hamas begins, and talks aimed at finding a long-term solution to the conflict commence in Cairo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-28738955)
 2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/1.609933)
 2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/76869000/jpg/_76869987_76869986.jpg)
+
+### Changes:
+
+1. [2014 Israel-Gaza conflict: A 72-hour ceasefire between Israel and Hamas begins, and talks aimed at finding a long-term solution to the conflict commence in Cairo. ](/news/2014/08/11/2014-israel-gaza-conflict-a-72-hour-ceasefire-between-israel-and-hamas-begins-and-talks-aimed-at-finding-a-long-term-solution-to-the-con.md) _2017-08-27 03:41:08 (First version)_
+1. [A 72-hour ceasefire between Israel and Hamas begins, and talks aimed at finding a long-term solution to the conflict commence in Cairo. ](/news/2014/08/11/a-72-hour-ceasefire-between-israel-and-hamas-begins-and-talks-aimed-at-finding-a-long-term-solution-to-the-conflict-commence-in-cairo.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@
 3. [Israel and Hamas enter a 72-hour ceasefire brokered by Egypt. ](/news/2014/08/4/israel-and-hamas-enter-a-72-hour-ceasefire-brokered-by-egypt.md) _Context: 2014 Israel-Gaza conflict, Hamas, Israel_
 4. [Israeli airstrikes kill three senior military commanders of Hamas. ](/news/2014/08/21/israeli-airstrikes-kill-three-senior-military-commanders-of-hamas.md) _Context: 2014 Israel-Gaza conflict, Hamas, Israel_
 5. [Israel and Hamas agree upon a fresh five-day ceasefire. ](/news/2014/08/14/israel-and-hamas-agree-upon-a-fresh-five-day-ceasefire.md) _Context: 2014 Israel-Gaza conflict, Hamas, Israel_
-
-### Changes:
-
-1. [2014 Israel-Gaza conflict: A 72-hour ceasefire between Israel and Hamas begins, and talks aimed at finding a long-term solution to the conflict commence in Cairo. ](/news/2014/08/11/2014-israel-gaza-conflict-a-72-hour-ceasefire-between-israel-and-hamas-begins-and-talks-aimed-at-finding-a-long-term-solution-to-the-con.md) _2017-08-27 03:41:08 (First version)_
-1. [A 72-hour ceasefire between Israel and Hamas begins, and talks aimed at finding a long-term solution to the conflict commence in Cairo. ](/news/2014/08/11/a-72-hour-ceasefire-between-israel-and-hamas-begins-and-talks-aimed-at-finding-a-long-term-solution-to-the-conflict-commence-in-cairo.md) _(Current version)_

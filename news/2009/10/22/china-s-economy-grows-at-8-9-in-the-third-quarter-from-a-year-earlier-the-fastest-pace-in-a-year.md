@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/10/22/china-s-economy-grows-at-8-9-in-the-third-quarter-from-a-year-earlier-the-fastest-pace-in-a-year.html)  [JSON](/news/2009/10/22/china-s-economy-grows-at-8-9-in-the-third-quarter-from-a-year-earlier-the-fastest-pace-in-a-year.json)  [XML](/news/2009/10/22/china-s-economy-grows-at-8-9-in-the-third-quarter-from-a-year-earlier-the-fastest-pace-in-a-year.xml)  
+
 ### [2009-10-22](/news/2009/10/22/index.md)
 
+##### China
 #  China's economy grows at 8.9% in the third quarter from a year earlier, the fastest pace in a year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hQBPLZ8-JHpkHAqe5tuuKGNt_fJw)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=a_eKQ3a5hOjk)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=a_eKQ3a5hOjk)
 3. [CNN](http://edition.cnn.com/2009/BUSINESS/10/21/china.gdp.announce/)
 
 ### Related:

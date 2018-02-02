@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/11/two-chinese-singers-become-the-country-s-first-to-be-punished-for-lip-synching-nearly-two-years-after-the-beijing-olympiad.html)  [JSON](/news/2010/04/11/two-chinese-singers-become-the-country-s-first-to-be-punished-for-lip-synching-nearly-two-years-after-the-beijing-olympiad.json)  [XML](/news/2010/04/11/two-chinese-singers-become-the-country-s-first-to-be-punished-for-lip-synching-nearly-two-years-after-the-beijing-olympiad.xml)  
+
 ### [2010-04-11](/news/2010/04/11/index.md)
 
+##### China
 # Two Chinese singers become the country's first to be punished for lip-synching nearly two years after the Beijing Olympiad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters South Africa](http://af.reuters.com/article/oddlyEnoughNews/idAFTRE63A0AW20100411)
 

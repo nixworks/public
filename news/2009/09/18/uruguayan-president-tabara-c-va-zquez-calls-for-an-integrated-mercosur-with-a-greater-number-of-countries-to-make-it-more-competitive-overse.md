@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/18/uruguayan-president-tabara-c-va-zquez-calls-for-an-integrated-mercosur-with-a-greater-number-of-countries-to-make-it-more-competitive-overse.html)  [JSON](/news/2009/09/18/uruguayan-president-tabara-c-va-zquez-calls-for-an-integrated-mercosur-with-a-greater-number-of-countries-to-make-it-more-competitive-overse.json)  [XML](/news/2009/09/18/uruguayan-president-tabara-c-va-zquez-calls-for-an-integrated-mercosur-with-a-greater-number-of-countries-to-make-it-more-competitive-overse.xml)  
+
 ### [2009-09-18](/news/2009/09/18/index.md)
 
+##### Uruguay
 #  Uruguayan President Tabare Vazquez calls for an integrated Mercosur with a greater number of countries to make it more competitive overseas, but also demands greater balance inside the group among members. 
 
 Uruguayan president Tabare Vazquez called for an integrated Mercosur with a greater number of countries to make it more competitive overseas, but also demanded greater balance inside the group among members.
 
 
-### Source:
+### Sources:
 
 1. [MercoPress](http://en.mercopress.com/2009/09/18/uruguayan-president-calls-for-stronger-and-more-balanced-mercosur)
 1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/21965/200x200/b90e92d7b5b485a4dec4bd14a63e9f72.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/18/bolotnaya-square-case-prisoners-pussy-riot-and-greenpeace-activists-are-likely-to-be-freed-after-the-duma-votes-in-favor-of-a-law-giving-th.html)  [JSON](/news/2013/12/18/bolotnaya-square-case-prisoners-pussy-riot-and-greenpeace-activists-are-likely-to-be-freed-after-the-duma-votes-in-favor-of-a-law-giving-th.json)  [XML](/news/2013/12/18/bolotnaya-square-case-prisoners-pussy-riot-and-greenpeace-activists-are-likely-to-be-freed-after-the-duma-votes-in-favor-of-a-law-giving-th.xml)  
+
 ### [2013-12-18](/news/2013/12/18/index.md)
 
+##### Bolotnaya square case
 # Bolotnaya square case prisoners, Pussy Riot and Greenpeace activists are likely to be freed after the Duma votes in favor of a law giving them amnesty. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/12/18/world/europe/russia-amnesty/)
 

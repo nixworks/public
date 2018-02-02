@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/20/celebrations-marking-the-bicentennial-of-the-louisiana-purchase-culminate-in-new-orleans-louisiana-http-www-ajc-com-news-content-news-1.html)  [JSON](/news/2003/12/20/celebrations-marking-the-bicentennial-of-the-louisiana-purchase-culminate-in-new-orleans-louisiana-http-www-ajc-com-news-content-news-1.json)  [XML](/news/2003/12/20/celebrations-marking-the-bicentennial-of-the-louisiana-purchase-culminate-in-new-orleans-louisiana-http-www-ajc-com-news-content-news-1.xml)  
+
 ### [2003-12-20](/news/2003/12/20/index.md)
 
+##### Louisiana Purchase
 # Celebrations marking the Bicentennial of the Louisiana Purchase culminate in New Orleans, Louisiana. [http:--www.ajc.com-news-content-news-1203-20louisiana.html]
 
 

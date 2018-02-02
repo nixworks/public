@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/30/icelandas-incumbent-centre-right-independence-p
 
 ### [2016-10-30](/news/2016/10/30/index.md)
 
+##### Icelandic parliamentary election, 2016
 # Iceland's incumbent, centre-right Independence Party surprised pollsters by winning 29 percent of the vote (21 seats), thereby putting leader Bjarni Benediktsson in position to organize another coalition government. The Progressive Party, the current ruling partner, garnered 11.5% and eight positions, a loss of 11 seats. The new Pirate Party didn't perform as predicted with 14.5% of the ballots, though it did get 10 seats, an increase of seven more positions in the 63-seat parliament (Althing). 
 
 The Pirates — formed just four years ago — had polled between 18 and 30 percent in the six months leading up to the contest.

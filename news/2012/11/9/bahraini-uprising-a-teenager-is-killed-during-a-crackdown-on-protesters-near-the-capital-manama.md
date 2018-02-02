@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/9/bahraini-uprising-a-teenager-is-killed-during-a-crackdown-on-protesters-near-the-capital-manama.html)  [JSON](/news/2012/11/9/bahraini-uprising-a-teenager-is-killed-during-a-crackdown-on-protesters-near-the-capital-manama.json)  [XML](/news/2012/11/9/bahraini-uprising-a-teenager-is-killed-during-a-crackdown-on-protesters-near-the-capital-manama.xml)  
+
 ### [2012-11-9](/news/2012/11/9/index.md)
 
+##### Bahraini uprising (2011-present)
 # Bahraini uprising: A teenager is killed during a crackdown on protesters near the capital Manama. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5igP0ScgkI3cAH7ZbHVXErQ_TMGRQ?docId=CNG.54e0e91cf7dddb2677b0ca3126aa8736.4c1)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/2/ten-colombian-soldiers-are-killed-and-five-are-missing-during-a-shootout-with-farc-guerillas-in-the-mountainous-border-areas-between-quinda.html)  [JSON](/news/2007/09/2/ten-colombian-soldiers-are-killed-and-five-are-missing-during-a-shootout-with-farc-guerillas-in-the-mountainous-border-areas-between-quinda.json)  [XML](/news/2007/09/2/ten-colombian-soldiers-are-killed-and-five-are-missing-during-a-shootout-with-farc-guerillas-in-the-mountainous-border-areas-between-quinda.xml)  
+
 ### [2007-09-2](/news/2007/09/2/index.md)
 
+##### Colombia
 #  Ten Colombian soldiers are killed and five are missing during a shootout with FARC guerillas in the mountainous border areas between Quindio and Tolima departments. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Times of India](http://timesofindia.indiatimes.com/World/The_United_States/Ten_soldiers_killed_in_clash_with_guerrillas_in_Colombia/articleshow/2332558.cms)
 

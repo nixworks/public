@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2007/07/28/dr-mohamed-haneef-the-indian-doctor-freed-in-australia-of-supporting-terrorism-indicates-that-he-would-like-to-return-to-india-as-soon-as.html)  [JSON](/news/2007/07/28/dr-mohamed-haneef-the-indian-doctor-freed-in-australia-of-supporting-terrorism-indicates-that-he-would-like-to-return-to-india-as-soon-as.json)  [XML](/news/2007/07/28/dr-mohamed-haneef-the-indian-doctor-freed-in-australia-of-supporting-terrorism-indicates-that-he-would-like-to-return-to-india-as-soon-as.xml)  
+
 ### [2007-07-28](/news/2007/07/28/index.md)
 
+##### Mohamed Haneef
 #  Dr Mohamed Haneef, the Indian doctor freed in Australia of supporting terrorism, indicates that he would like to return to India as soon as possible. He later received clearance from the Australian Government to leave tonight. 
 
 An Indian doctor freed from jail after Australia dropped terrorism charges against him will be leaving Australia on Saturday after receiving the go-ahead from immigration officials, his lawyer said.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/07/28/1990912.htm)
-2. [Reuters](http://www.reuters.com/article/topNews/idUSSP29020720070728?feedType=RSS)
-2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20070728&t=2&i=1206775&w=&fh=545px&fw=&ll=&pl=&sq=&r=1206775)
+2. [Reuters](https://www.reuters.com/article/topNews/idUSSP29020720070728?feedType=RSS)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20070728&t=2&i=1206775&w=&fh=545px&fw=&ll=&pl=&sq=&r=1206775)
 
 ### Related:
 

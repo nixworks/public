@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/24/peruvian-president-pedro-pablo-kuczynski-pardon
 
 ### [2017-12-24](/news/2017/12/24/index.md)
 
+##### Pardon of Alberto Fujimori
 # Peruvian President Pedro Pablo Kuczynski pardons Alberto Fujimori, who was serving a 25-year sentence for corruption and human rights violations. 
 
 Alberto Fujimori, 79, is being released by current President Pedro Pablo Kuczynski on health grounds.

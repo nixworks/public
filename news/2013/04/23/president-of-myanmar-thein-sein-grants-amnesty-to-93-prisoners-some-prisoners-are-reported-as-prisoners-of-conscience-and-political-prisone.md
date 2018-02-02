@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/23/president-of-myanmar-thein-sein-grants-amnesty-to-93-prisoners-some-prisoners-are-reported-as-prisoners-of-conscience-and-political-prisone.html)  [JSON](/news/2013/04/23/president-of-myanmar-thein-sein-grants-amnesty-to-93-prisoners-some-prisoners-are-reported-as-prisoners-of-conscience-and-political-prisone.json)  [XML](/news/2013/04/23/president-of-myanmar-thein-sein-grants-amnesty-to-93-prisoners-some-prisoners-are-reported-as-prisoners-of-conscience-and-political-prisone.xml)  
+
 ### [2013-04-23](/news/2013/04/23/index.md)
 
+##### Myanmar's president's office
 # President of Myanmar Thein Sein grants amnesty to 93 prisoners. Some prisoners are reported as prisoners of conscience and political prisoners. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Sun Herald](http://www.sunherald.com/2013/04/23/4613756/myanmar-leader-amnesties-93-prisoners.html)
 

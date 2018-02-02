@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/22/swiss-businessman-max-goeldi-who-hid-in-the-swiss-embassy-in-libya-for-19-months-during-a-diplomatic-argument-is-taken-away-in-handcuffs-a.html)  [JSON](/news/2010/02/22/swiss-businessman-max-goeldi-who-hid-in-the-swiss-embassy-in-libya-for-19-months-during-a-diplomatic-argument-is-taken-away-in-handcuffs-a.json)  [XML](/news/2010/02/22/swiss-businessman-max-goeldi-who-hid-in-the-swiss-embassy-in-libya-for-19-months-during-a-diplomatic-argument-is-taken-away-in-handcuffs-a.xml)  
+
 ### [2010-02-22](/news/2010/02/22/index.md)
 
+##### Switzerland
 # Swiss businessman Max Goeldi, who hid in the Swiss embassy in Libya for 19 months during a diplomatic argument, is taken away in handcuffs and thrown into jail while his colleague Rachid Hamdani is deported. 
 
 A Swiss businessman who had been hiding in the country&#039;s Tripoli embassy for 19 months has been handed over to Libya to serve four months in jail.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8527995.stm)
 2. [Reuters](http://af.reuters.com/article/tunisiaNews/idAFLDE61L09F20100222?feedType=RSS&feedName=tunisiaNews)

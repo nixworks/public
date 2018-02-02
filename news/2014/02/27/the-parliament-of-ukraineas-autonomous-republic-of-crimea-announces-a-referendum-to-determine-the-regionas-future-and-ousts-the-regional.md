@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2014/02/27/the-parliament-of-ukraineas-autonomous-republic-of-crimea-announces-a-referendum-to-determine-the-regionas-future-and-ousts-the-regional.html)  [JSON](/news/2014/02/27/the-parliament-of-ukraineas-autonomous-republic-of-crimea-announces-a-referendum-to-determine-the-regionas-future-and-ousts-the-regional.json)  [XML](/news/2014/02/27/the-parliament-of-ukraineas-autonomous-republic-of-crimea-announces-a-referendum-to-determine-the-regionas-future-and-ousts-the-regional.xml)  
+
 ### [2014-02-27](/news/2014/02/27/index.md)
 
+##### 2014 Ukrainian revolution
 # The Parliament of Ukraine's Autonomous Republic of Crimea announces a referendum to determine the region's future and ousts the regional government. 
 
-Ousted Ukrainian President Viktor Yanukovych is being sheltered in Russia and has warned Ukrainians he is still the legitimately elected president of Ukraine and to refrain from action in the Crimea, Interfax Ukraine reported.
 
 
-### Source:
+
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ihQvbcVF53o5wsOBRijt2v029BGw?docId=356794d6-c977-4dc9-9347-990b764886dc)
 2. [Kyiv Post](http://www.kyivpost.com/content/ukraine/crimean-parliament-presidium-offers-may-25-as-referendum-date-337790.html)
-3. [The Guardian](http://www.theguardian.com/world/2014/feb/27/armed-men-seize-crimea-parliament-reports)
-4. [USA Today](http://www.usatoday.com/story/news/world/2014/02/27/ukraine-yanukovych-whereabouts/5857331/)
+3. [The Guardian](https://www.theguardian.com/world/2014/feb/27/armed-men-seize-crimea-parliament-reports)
+4. [USA Today](https://www.usatoday.com/story/news/world/2014/02/27/ukraine-yanukovych-whereabouts/5857331/)
 5. [Voice of America](http://www.voanews.com/content/ukraines-parliament-approves-yatsenyuk-as-new-pm/1860978.html)
 5. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/19/google-unveils-the-latest-version-of-its-android-mobile-operating-system-4-0-code-named-ice-cream-sandwich-along-with-the-galaxy-nexus.html)  [JSON](/news/2011/10/19/google-unveils-the-latest-version-of-its-android-mobile-operating-system-4-0-code-named-ice-cream-sandwich-along-with-the-galaxy-nexus.json)  [XML](/news/2011/10/19/google-unveils-the-latest-version-of-its-android-mobile-operating-system-4-0-code-named-ice-cream-sandwich-along-with-the-galaxy-nexus.xml)  
+
 ### [2011-10-19](/news/2011/10/19/index.md)
 
+##### Google
 # Google unveils the latest version of its Android mobile operating system, 4.0 (code named Ice Cream Sandwich), along with the Galaxy Nexus, its newest flagship smartphone. 
 
 Google has unveiled its latest flagship phone, the Galaxy Nexus, and its latest Android software, Ice Cream Sandwich
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/technology/google/8835757/Google-launches-Galaxy-Nexus-phone.html)
 2. [ZDnet](http://www.zdnet.com/blog/mobile-news/android-40-and-samsung-galaxy-nexus-unveiled-5-surprises/5093)

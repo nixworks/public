@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/10/in-the-philippines-the-truce-between-the-army-and-islamist-rebels-collapses-government-forces-exchange-fire-with-the-milf-rebels-in-minda.html)  [JSON](/news/2005/01/10/in-the-philippines-the-truce-between-the-army-and-islamist-rebels-collapses-government-forces-exchange-fire-with-the-milf-rebels-in-minda.json)  [XML](/news/2005/01/10/in-the-philippines-the-truce-between-the-army-and-islamist-rebels-collapses-government-forces-exchange-fire-with-the-milf-rebels-in-minda.xml)  
+
 ### [2005-01-10](/news/2005/01/10/index.md)
 
+##### Philippines
 #  In the Philippines, the truce between the army and Islamist rebels collapses. Government forces exchange fire with the MILF rebels in Mindanao. The peace talks are still ongoing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/MAN14310.htm)
 

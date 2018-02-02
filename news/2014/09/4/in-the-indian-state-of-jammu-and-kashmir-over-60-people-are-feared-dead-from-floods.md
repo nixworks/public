@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/4/in-the-indian-state-of-jammu-and-kashmir-over-60-people-are-feared-dead-from-floods.html)  [JSON](/news/2014/09/4/in-the-indian-state-of-jammu-and-kashmir-over-60-people-are-feared-dead-from-floods.json)  [XML](/news/2014/09/4/in-the-indian-state-of-jammu-and-kashmir-over-60-people-are-feared-dead-from-floods.xml)  
+
 ### [2014-09-4](/news/2014/09/4/index.md)
 
+##### Jammu and Kashmir
 # In the Indian state of Jammu and Kashmir, over 60 people are feared dead from floods. 
 
 Army personnel rescued flood-affected villagers of Mirbaazar in Kulgam district after heavy rains deluged the village. 
 
 
-### Source:
+### Sources:
 
 1. [Indian Express](http://indianexpress.com/photos/picture-gallery-others/floods-hit-kulgam-district-in-jammu-and-kashmir/#flood-in-sriinaga1)
 1. [Cover Image](http://images.indianexpress.com/2014/09/thumb21.jpg?w=410)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/20/in-china-coal-mine-explosion-in-shaanxi-province-kills-24-ndash-26.html)  [JSON](/news/2005/07/20/in-china-coal-mine-explosion-in-shaanxi-province-kills-24-ndash-26.json)  [XML](/news/2005/07/20/in-china-coal-mine-explosion-in-shaanxi-province-kills-24-ndash-26.xml)  
+
 ### [2005-07-20](/news/2005/07/20/index.md)
 
+##### coal
 #  In China, coal mine explosion in Shaanxi province kills 24&ndash;26 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www2.chinadaily.com.cn:80/english/doc/2005-07/21/content_461931.htm)
 2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-21T020950Z_01_MOR107764_RTRUKOC_0_CHINA-MINE.xml)

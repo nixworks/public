@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/13/a-hydrogen-sulfide-leak-at-a-fertiliser-plant-in-kunming-capital-of-yunnan-province-in-china-kills-six-people-and-injures-28.html)  [JSON](/news/2008/06/13/a-hydrogen-sulfide-leak-at-a-fertiliser-plant-in-kunming-capital-of-yunnan-province-in-china-kills-six-people-and-injures-28.json)  [XML](/news/2008/06/13/a-hydrogen-sulfide-leak-at-a-fertiliser-plant-in-kunming-capital-of-yunnan-province-in-china-kills-six-people-and-injures-28.xml)  
+
 ### [2008-06-13](/news/2008/06/13/index.md)
 
+##### hydrogen sulfide
 #  A hydrogen sulfide leak at a fertiliser plant in Kunming, capital of Yunnan Province in China, kills six people and injures 28. 
 
 A poisonous gas leak at a fertiliser plant in south-west China has killed six people and left 28 others ill, state media reported.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2008/06/13/2274285.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

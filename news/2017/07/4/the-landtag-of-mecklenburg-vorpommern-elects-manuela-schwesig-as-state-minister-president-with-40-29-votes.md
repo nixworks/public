@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/4/the-landtag-of-mecklenburg-vorpommern-elects-man
 
 ### [2017-07-4](/news/2017/07/4/index.md)
 
+##### Landtag of Mecklenburg-Vorpommern
 # The Landtag of Mecklenburg-Vorpommern elects Manuela Schwesig as state Minister President with 40-29 votes. 
 
 

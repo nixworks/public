@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/7/conservative-party-members-of-parliament-vote-in
 
 ### [2016-07-7](/news/2016/07/7/index.md)
 
+##### Conservative Party (UK) leadership election, 2016
 # Conservative Party members of parliament vote in a second ballot to choose the next leader of the party to replace outgoing Prime Minister David Cameron. The Home Secretary Theresa May secured the highest number votes with 199, while Department of Energy and Climate Change minister Andrea Leadsom received the second highest amount, with 84. The Secretary of State for Justice Michael Gove received just 46 votes and is eliminated from the race, meaning a run-off contest will now take place between May and Leadsom, with the result to be announced on September 9. 
 
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/07/28/a-massive-suicide-car-bomb-kills-70-iraqi-civilians-in-an-attack-near-a-police-station-in-the-city-of-baquba-north-of-baghdad-insurgents.html)  [JSON](/news/2004/07/28/a-massive-suicide-car-bomb-kills-70-iraqi-civilians-in-an-attack-near-a-police-station-in-the-city-of-baquba-north-of-baghdad-insurgents.json)  [XML](/news/2004/07/28/a-massive-suicide-car-bomb-kills-70-iraqi-civilians-in-an-attack-near-a-police-station-in-the-city-of-baquba-north-of-baghdad-insurgents.xml)  
+
 ### [2004-07-28](/news/2004/07/28/index.md)
 
+##### Baquba
 #  A massive suicide car-bomb kills 70 Iraqi civilians in an attack near a police station in the city of Baquba, north of Baghdad. Insurgents launch simultaneous attacks on U.S bases around Ramadi, killing two U.S soldiers and wounding eight. One guerrilla and an Iraqi civilian are killed in the Ramadi fighting. Clashes between Marines and guerillas are reported elsewhere in Al Anbar province, west of Baghdad. A U.S soldier is killed and three wounded in a roadside bomb attack on a convoy in the town of Balad Ruz, north of Baghdad. A U.S soldier is killed and another three wounded in a roadside bomb attack in Baghdad. An Iraqi civilian was also injured in the blast. Seven Iraqi policemen and 35 guerillas are killed in a battle in the town of Suwariyah, southeast of Baghdad, that was started by a raid by Iraqi security forces backed by U.S and Ukrainian troops.
 
 

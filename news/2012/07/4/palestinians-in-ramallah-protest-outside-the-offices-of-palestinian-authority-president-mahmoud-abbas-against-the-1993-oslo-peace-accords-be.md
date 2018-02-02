@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/4/palestinians-in-ramallah-protest-outside-the-offices-of-palestinian-authority-president-mahmoud-abbas-against-the-1993-oslo-peace-accords-be.html)  [JSON](/news/2012/07/4/palestinians-in-ramallah-protest-outside-the-offices-of-palestinian-authority-president-mahmoud-abbas-against-the-1993-oslo-peace-accords-be.json)  [XML](/news/2012/07/4/palestinians-in-ramallah-protest-outside-the-offices-of-palestinian-authority-president-mahmoud-abbas-against-the-1993-oslo-peace-accords-be.xml)  
+
 ### [2012-07-4](/news/2012/07/4/index.md)
 
+##### Ramallah
 # Palestinians in Ramallah protest outside the offices of Palestinian Authority President Mahmoud Abbas against the 1993 Oslo Peace Accords between Israel and the PLO. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Media Line](http://www.themedialine.org/news/news_detail.asp?NewsID=35528)
 

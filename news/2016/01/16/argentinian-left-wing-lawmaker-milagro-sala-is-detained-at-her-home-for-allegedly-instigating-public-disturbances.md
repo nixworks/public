@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/16/argentinian-left-wing-lawmaker-milagro-sala-is-
 
 ### [2016-01-16](/news/2016/01/16/index.md)
 
+##### Argentinian
 # Argentinian left wing lawmaker Milagro Sala is detained at her home for allegedly instigating public disturbances. 
 
 

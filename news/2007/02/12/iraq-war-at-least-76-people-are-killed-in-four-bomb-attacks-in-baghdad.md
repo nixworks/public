@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/12/iraq-war-at-least-76-people-are-killed-in-four-bomb-attacks-in-baghdad.html)  [JSON](/news/2007/02/12/iraq-war-at-least-76-people-are-killed-in-four-bomb-attacks-in-baghdad.json)  [XML](/news/2007/02/12/iraq-war-at-least-76-people-are-killed-in-four-bomb-attacks-in-baghdad.xml)  
+
 ### [2007-02-12](/news/2007/02/12/index.md)
 
+##### Iraq War
 #  Iraq War: At least 76 people are killed in four bomb attacks in Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6353487.stm)
 

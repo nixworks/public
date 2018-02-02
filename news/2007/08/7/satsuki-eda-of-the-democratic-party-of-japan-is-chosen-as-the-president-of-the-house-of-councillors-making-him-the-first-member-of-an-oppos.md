@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/7/satsuki-eda-of-the-democratic-party-of-japan-is-chosen-as-the-president-of-the-house-of-councillors-making-him-the-first-member-of-an-oppos.html)  [JSON](/news/2007/08/7/satsuki-eda-of-the-democratic-party-of-japan-is-chosen-as-the-president-of-the-house-of-councillors-making-him-the-first-member-of-an-oppos.json)  [XML](/news/2007/08/7/satsuki-eda-of-the-democratic-party-of-japan-is-chosen-as-the-president-of-the-house-of-councillors-making-him-the-first-member-of-an-oppos.xml)  
+
 ### [2007-08-7](/news/2007/08/7/index.md)
 
+##### Satsuki Eda
 #  Satsuki Eda of the Democratic Party of Japan is chosen as the President of the House of Councillors making him the first member of an Opposition party to hold the position. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6934309.stm)
 

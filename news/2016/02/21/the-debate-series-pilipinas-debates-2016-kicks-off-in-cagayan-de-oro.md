@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/21/the-debate-series-pilipinas-debates-2016-kicks-
 
 ### [2016-02-21](/news/2016/02/21/index.md)
 
+##### Philippine presidential election, 2016
 # The debate series, "PiliPinas Debates 2016", kicks off in Cagayan de Oro. 
 
 CAGAYAN DE ORO, Philippines -- Presidential candidates hoping to succeed incumbent Benigno Aquino traded barbs Sunday over helping millions of poor Fi

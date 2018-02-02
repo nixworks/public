@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/10/a-federal-district-court-for-southern-texas-rul
 
 ### [2017-04-10](/news/2017/04/10/index.md)
 
+##### Voter ID laws in the United States
 # A federal district court for southern Texas rules that the state's voter ID law was passed in 2011 with the intent to discriminate against minority voters. The 5th Circuit Court of Appeals previously found that the law had the effect of discriminating against minority voters, and remanded the case to the district court for further action. 
 
  A Texas law that requires voters to show identification before casting ballots was enacted with the intent to discriminate against black and Hispanic voters, a

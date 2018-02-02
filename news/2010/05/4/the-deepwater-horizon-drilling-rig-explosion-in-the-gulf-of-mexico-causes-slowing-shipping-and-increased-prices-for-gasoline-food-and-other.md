@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/4/the-deepwater-horizon-drilling-rig-explosion-in-the-gulf-of-mexico-causes-slowing-shipping-and-increased-prices-for-gasoline-food-and-other.html)  [JSON](/news/2010/05/4/the-deepwater-horizon-drilling-rig-explosion-in-the-gulf-of-mexico-causes-slowing-shipping-and-increased-prices-for-gasoline-food-and-other.json)  [XML](/news/2010/05/4/the-deepwater-horizon-drilling-rig-explosion-in-the-gulf-of-mexico-causes-slowing-shipping-and-increased-prices-for-gasoline-food-and-other.xml)  
+
 ### [2010-05-4](/news/2010/05/4/index.md)
 
+##### Deepwater Horizon drilling rig explosion
 # The Deepwater Horizon drilling rig explosion in the Gulf of Mexico causes slowing shipping and increased prices for gasoline, food and other items in the United States. 
 
 The calamitous oil spill in the Gulf of Mexico isn&#39;t just a mess for the people who live or work on the coast. If you drink coffee, eat shrimp, like bananas or plan to buy a new set of tires, you could end up paying more because of the disaster.
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/stories/2010/05/04/earlyshow/main6459078.shtml)
 2. [MSNBC](http://www.msnbc.msn.com/id/36926747/ns/us_news-environment/)

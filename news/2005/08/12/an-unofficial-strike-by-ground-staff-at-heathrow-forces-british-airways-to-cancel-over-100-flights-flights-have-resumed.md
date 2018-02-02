@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/12/an-unofficial-strike-by-ground-staff-at-heathrow-forces-british-airways-to-cancel-over-100-flights-flights-have-resumed.html)  [JSON](/news/2005/08/12/an-unofficial-strike-by-ground-staff-at-heathrow-forces-british-airways-to-cancel-over-100-flights-flights-have-resumed.json)  [XML](/news/2005/08/12/an-unofficial-strike-by-ground-staff-at-heathrow-forces-british-airways-to-cancel-over-100-flights-flights-have-resumed.xml)  
+
 ### [2005-08-12](/news/2005/08/12/index.md)
 
+##### Heathrow
 #  An unofficial strike by ground staff at Heathrow forces British Airways to cancel over 100 flights. Flights have resumed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/london/4145884.stm)
 

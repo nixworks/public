@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/26/typhoon-mawar-11w-makes-landfall-at-chiba-city-just-east-of-tokyo-having-weakened-from-super-typhoon-strength.html)  [JSON](/news/2005/08/26/typhoon-mawar-11w-makes-landfall-at-chiba-city-just-east-of-tokyo-having-weakened-from-super-typhoon-strength.json)  [XML](/news/2005/08/26/typhoon-mawar-11w-makes-landfall-at-chiba-city-just-east-of-tokyo-having-weakened-from-super-typhoon-strength.xml)  
+
 ### [2005-08-26](/news/2005/08/26/index.md)
 
+##### Typhoon Mawar
 #  Typhoon Mawar (11W) makes landfall at Chiba city, just east of Tokyo, having weakened from super-typhoon strength. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4186146.stm)
 

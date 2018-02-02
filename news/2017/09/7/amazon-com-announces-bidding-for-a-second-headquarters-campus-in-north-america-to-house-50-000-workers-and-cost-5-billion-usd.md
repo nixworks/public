@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/7/amazon-com-announces-bidding-for-a-second-headqu
 
 ### [2017-09-7](/news/2017/09/7/index.md)
 
+##### Business in the United States
 # Amazon.com announces bidding for a second headquarters campus in North America, to house 50,000 workers and cost $5 billion USD 
 
 The online retail giant said it is seeking a location in North America for a new complex that would cost as much as $5 billion to build and operate.

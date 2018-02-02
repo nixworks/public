@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/11/27/space-shuttle-atlantis-returns-to-earth-following-the-completion-of-its-sts-129-mission.html)  [JSON](/news/2009/11/27/space-shuttle-atlantis-returns-to-earth-following-the-completion-of-its-sts-129-mission.json)  [XML](/news/2009/11/27/space-shuttle-atlantis-returns-to-earth-following-the-completion-of-its-sts-129-mission.xml)  
+
 ### [2009-11-27](/news/2009/11/27/index.md)
 
+##### Space Shuttle Atlantis
 #  Space Shuttle "Atlantis" returns to Earth following the completion of its STS-129 mission. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSTRE5AO1EC20091127)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20091127&t=2&i=20856440&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-11-27T134052Z_01_BTRE5AQ120I00_RTROPTP_0_SPACE-SHUTTLE)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSTRE5AO1EC20091127)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20091127&t=2&i=20856440&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-11-27T134052Z_01_BTRE5AQ120I00_RTROPTP_0_SPACE-SHUTTLE)
 
 ### Related:
 

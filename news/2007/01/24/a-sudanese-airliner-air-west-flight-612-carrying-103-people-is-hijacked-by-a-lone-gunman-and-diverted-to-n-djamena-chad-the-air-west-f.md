@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/24/a-sudanese-airliner-air-west-flight-612-carrying-103-people-is-hijacked-by-a-lone-gunman-and-diverted-to-n-djamena-chad-the-air-west-f.html)  [JSON](/news/2007/01/24/a-sudanese-airliner-air-west-flight-612-carrying-103-people-is-hijacked-by-a-lone-gunman-and-diverted-to-n-djamena-chad-the-air-west-f.json)  [XML](/news/2007/01/24/a-sudanese-airliner-air-west-flight-612-carrying-103-people-is-hijacked-by-a-lone-gunman-and-diverted-to-n-djamena-chad-the-air-west-f.xml)  
+
 ### [2007-01-24](/news/2007/01/24/index.md)
 
+##### Sudanese
 #  A Sudanese airliner, Air West Flight 612, carrying 103 people, is hijacked by a lone gunman and diverted to N'Djamena, Chad. The Air West flight lands at the airport in N'Djamena and the hijacker is arrested. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6293649.stm)
 2. [Contra Costa Times](http://www.contracostatimes.com/mld/cctimes/news/nation/16532527.htm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/8/the-corpse-of-former-president-of-cyprus-tassos-papadopoulos-which-had-been-stolen-in-december-2009-is-found-at-a-cemetery-in-nicosia.html)  [JSON](/news/2010/03/8/the-corpse-of-former-president-of-cyprus-tassos-papadopoulos-which-had-been-stolen-in-december-2009-is-found-at-a-cemetery-in-nicosia.json)  [XML](/news/2010/03/8/the-corpse-of-former-president-of-cyprus-tassos-papadopoulos-which-had-been-stolen-in-december-2009-is-found-at-a-cemetery-in-nicosia.xml)  
+
 ### [2010-03-8](/news/2010/03/8/index.md)
 
+##### President
 # The corpse of former President of Cyprus Tassos Papadopoulos, which had been stolen in December 2009, is found at a cemetery in Nicosia. 
 
 The body of Tassos Papadopoulos, the former Greek Cypriot president, could have been found after it was stolen by grave robbers three months ago, accoridng to state-run media.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8556757.stm)
 2. [Miami Herald](http://www.miamiherald.com/2010/03/08/1519043/cyprus-police-say-found-corpse.html)

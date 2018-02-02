@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/30/in-israel-jerusalem-police-deny-members-of-jewish-organization-revava-access-to-temple-mount-during-passover-because-of-danger-that-they-c.html)  [JSON](/news/2005/03/30/in-israel-jerusalem-police-deny-members-of-jewish-organization-revava-access-to-temple-mount-during-passover-because-of-danger-that-they-c.json)  [XML](/news/2005/03/30/in-israel-jerusalem-police-deny-members-of-jewish-organization-revava-access-to-temple-mount-during-passover-because-of-danger-that-they-c.xml)  
+
 ### [2005-03-30](/news/2005/03/30/index.md)
 
+##### Israel
 #  In Israel, Jerusalem police deny members of Jewish organization Revava access to Temple Mount during Passover because of danger that they could use the situation to encourage violence. Revava has planned a pilgrimage to the site in April 10 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Arutz Sheva](http://www.israelnn.com/news.php3?id=79297)
 2. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1112066445934)

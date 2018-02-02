@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/19/palestinian-militants-fire-a-barrage-of-rockets-into-southern-israel-following-an-israel-air-force-strike-that-killed-two-islamic-jihad-gunm.html)  [JSON](/news/2012/06/19/palestinian-militants-fire-a-barrage-of-rockets-into-southern-israel-following-an-israel-air-force-strike-that-killed-two-islamic-jihad-gunm.json)  [XML](/news/2012/06/19/palestinian-militants-fire-a-barrage-of-rockets-into-southern-israel-following-an-israel-air-force-strike-that-killed-two-islamic-jihad-gunm.xml)  
+
 ### [2012-06-19](/news/2012/06/19/index.md)
 
+##### Palestine
 # Palestinian militants fire a barrage of rockets into southern Israel following an Israel Air Force strike that killed two Islamic Jihad gunmen; IAF strikes at militant targets in Gaza have killed six Palestinians since yesterday. 
 
 Fresh air raids on Gaza military targets, after Hamas fighters fire 45 rockets across the border in 24 hours.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/2012619131729685366.html)
 2. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=274432)

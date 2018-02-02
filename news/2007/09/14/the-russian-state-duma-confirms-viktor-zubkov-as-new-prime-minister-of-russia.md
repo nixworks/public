@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/14/the-russian-state-duma-confirms-viktor-zubkov-as-new-prime-minister-of-russia.html)  [JSON](/news/2007/09/14/the-russian-state-duma-confirms-viktor-zubkov-as-new-prime-minister-of-russia.json)  [XML](/news/2007/09/14/the-russian-state-duma-confirms-viktor-zubkov-as-new-prime-minister-of-russia.xml)  
+
 ### [2007-09-14](/news/2007/09/14/index.md)
 
+##### Russia
 #  The Russian State Duma confirms Viktor Zubkov as new Prime Minister of Russia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Interfax](http://www.interfax.ru/r/B/themeday1/16.html?id_issue=11858086)
 1. [Cover Image](http://www.interfax.ru/img/interfax_icon_300.png)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/21/the-organisation-for-the-prohibition-of-chemical-weapons-reports-that-syria-has-handed-over-data-on-its-chemical-weapons-program.html)  [JSON](/news/2013/09/21/the-organisation-for-the-prohibition-of-chemical-weapons-reports-that-syria-has-handed-over-data-on-its-chemical-weapons-program.json)  [XML](/news/2013/09/21/the-organisation-for-the-prohibition-of-chemical-weapons-reports-that-syria-has-handed-over-data-on-its-chemical-weapons-program.xml)  
+
 ### [2013-09-21](/news/2013/09/21/index.md)
 
+##### Organisation for the Prohibition of Chemical Weapons
 # The Organisation for the Prohibition of Chemical Weapons reports that Syria has handed over data on its chemical weapons program. 
 
 The international chemical weapons watchdog says it has received &quot;the expected&quot; account by Syria of its weapons programme.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-24186928#)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/70033000/jpg/_70033851_70033850.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/28/israel-launches-an-offensive-into-the-southern-gaza-strip-following-aerial-strikes-on-bridges-and-electric-power-installations-meanwhile.html)  [JSON](/news/2006/06/28/israel-launches-an-offensive-into-the-southern-gaza-strip-following-aerial-strikes-on-bridges-and-electric-power-installations-meanwhile.json)  [XML](/news/2006/06/28/israel-launches-an-offensive-into-the-southern-gaza-strip-following-aerial-strikes-on-bridges-and-electric-power-installations-meanwhile.xml)  
+
 ### [2006-06-28](/news/2006/06/28/index.md)
 
+##### Israel
 #  Israel launches an offensive into the southern Gaza Strip, following aerial strikes on bridges and electric power installations. Meanwhile, four Israeli war planes fly over the palace of Syria's president Bashar Assad in Latakia, reportedly while he was at the palace. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5123262.stm)
 2. [CNN](http://www.cnn.com/2006/WORLD/meast/06/28/israel.soldier/index.html)

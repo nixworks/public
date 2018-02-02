@@ -1,14 +1,19 @@
+
+Formats: [HTML](/news/2010/09/19/the-united-front-for-democracy-against-dictatorship-or-red-shirts-hold-protests-on-the-fourth-anniversary-of-the-downfall-of-prime-ministe.html)  [JSON](/news/2010/09/19/the-united-front-for-democracy-against-dictatorship-or-red-shirts-hold-protests-on-the-fourth-anniversary-of-the-downfall-of-prime-ministe.json)  [XML](/news/2010/09/19/the-united-front-for-democracy-against-dictatorship-or-red-shirts-hold-protests-on-the-fourth-anniversary-of-the-downfall-of-prime-ministe.xml)  
+
 ### [2010-09-19](/news/2010/09/19/index.md)
 
+##### United Front for Democracy Against Dictatorship
 # The United Front for Democracy Against Dictatorship, or Red Shirts, hold protests on the fourth anniversary of the downfall of Prime Minister of Thailand Thaksin Shinawatra. 
 
+Thai security forces stepped up patrols today as anti-government protesters across the nation marked a 2006 military coup by staging their biggest rallies since clashes that left 89 dead four months ago.
 
 
-
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/politics/197055/red-shirts-begin-activities-in-capital)
-2. [Bloomberg](http://www.bloomberg.com/news/2010-09-19/thai-police-boost-patrols-as-pro-thaksin-protesters-mark-coup-anniversary.html)
+2. [Bloomberg](https://www.bloomberg.com/news/2010-09-19/thai-police-boost-patrols-as-pro-thaksin-protesters-mark-coup-anniversary.html)
+2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

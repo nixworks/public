@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/27/state-television-is-taken-off-air-in-the-city-of-abidjan-ivory-coast-during-clashes-between-forces-loyal-to-incumbent-president-laurent-gb.html)  [JSON](/news/2011/02/27/state-television-is-taken-off-air-in-the-city-of-abidjan-ivory-coast-during-clashes-between-forces-loyal-to-incumbent-president-laurent-gb.json)  [XML](/news/2011/02/27/state-television-is-taken-off-air-in-the-city-of-abidjan-ivory-coast-during-clashes-between-forces-loyal-to-incumbent-president-laurent-gb.xml)  
+
 ### [2011-02-27](/news/2011/02/27/index.md)
 
+##### Abidjan
 # State television is taken off air in the city of Abidjan, Ivory Coast, during clashes between forces loyal to incumbent President Laurent Gbagbo and rival groups. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Canadian Press via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5jAOZ1COy0NUZgWNZgWFMI768L9tw?docId=6083866)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE71Q01D20110227)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/26/silvio-berlusconi-has-been-diagnosed-with-scarlet-fever.html)  [JSON](/news/2009/10/26/silvio-berlusconi-has-been-diagnosed-with-scarlet-fever.json)  [XML](/news/2009/10/26/silvio-berlusconi-has-been-diagnosed-with-scarlet-fever.xml)  
+
 ### [2009-10-26](/news/2009/10/26/index.md)
 
+##### Silvio Berlusconi
 #  Silvio Berlusconi has been diagnosed with scarlet fever. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6891056.ece#)
 

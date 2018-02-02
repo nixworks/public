@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/04/25/arsenal-f-c-wins-the-english-football-league-title-for-the-13th-time.html)  [JSON](/news/2004/04/25/arsenal-f-c-wins-the-english-football-league-title-for-the-13th-time.json)  [XML](/news/2004/04/25/arsenal-f-c-wins-the-english-football-league-title-for-the-13th-time.xml)  
+
 ### [2004-04-25](/news/2004/04/25/index.md)
 
+##### Arsenal
 #  Arsenal F.C. wins the English football league title for the 13th time.
 
 

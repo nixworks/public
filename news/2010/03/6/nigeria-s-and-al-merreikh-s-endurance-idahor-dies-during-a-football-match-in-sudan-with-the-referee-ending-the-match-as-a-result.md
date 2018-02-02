@@ -1,20 +1,24 @@
+
+Formats: [HTML](/news/2010/03/6/nigeria-s-and-al-merreikh-s-endurance-idahor-dies-during-a-football-match-in-sudan-with-the-referee-ending-the-match-as-a-result.html)  [JSON](/news/2010/03/6/nigeria-s-and-al-merreikh-s-endurance-idahor-dies-during-a-football-match-in-sudan-with-the-referee-ending-the-match-as-a-result.json)  [XML](/news/2010/03/6/nigeria-s-and-al-merreikh-s-endurance-idahor-dies-during-a-football-match-in-sudan-with-the-referee-ending-the-match-as-a-result.xml)  
+
 ### [2010-03-6](/news/2010/03/6/index.md)
 
+##### Nigeria
 # Nigeria's and Al-Merreikh's Endurance Idahor dies during a football match in Sudan with the referee ending the match as a result. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/football/africa/8554296.stm)
-2. [The New York Times](http://www.nytimes.com/reuters/2010/03/06/sports/sports-uk-sudan-soccer-death.html)
+2. [The New York Times](https://www.nytimes.com/reuters/2010/03/06/sports/sports-uk-sudan-soccer-death.html)
 3. [The Times of India](http://timesofindia.indiatimes.com/sports/football/top-stories/Mystery-over-sudden-death-of-Nigerian-striker/articleshow/5654568.cms)
 
 ### Related:
 
 1. [ The government of Sudan signs an accord with the main Darfur rebel group, the Alliance of Revolutionary Forces of West Sudan, reached through mediation in Abuja, Nigeria. ](/news/2006/05/5/the-government-of-sudan-signs-an-accord-with-the-main-darfur-rebel-group-the-alliance-of-revolutionary-forces-of-west-sudan-reached-throu.md) _Context: Nigeria, Sudan_
-2. [Gunmen attack the Ogba Zoo in Benin City, Nigeria, killing three police officers and abduct the zoo's director. There is no information on who the gunmen and abductors are, or whether they have made any demands. ](/news/2017/09/25/gunmen-attack-the-ogba-zoo-in-benin-city-nigeria-killing-three-police-officers-and-abduct-the-zoo-s-director-there-is-no-information-on-w.md) _Context: Nigeria_
-3. [The White House announces that citizens of North Korea, Venezuela, and Chad will be restricted from travelling to the United States, along with citizens of the six nations previously listed in Executive Order 13780 with the exception of Sudan. ](/news/2017/09/24/the-white-house-announces-that-citizens-of-north-korea-venezuela-and-chad-will-be-restricted-from-travelling-to-the-united-states-along-w.md) _Context: Sudan_
-4. [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Nigeria_
-5. [Three suicide bombers kill 27 people and wound 83 near Maiduguri, Nigeria. ](/news/2017/08/15/three-suicide-bombers-kill-27-people-and-wound-83-near-maiduguri-nigeria.md) _Context: Nigeria_
+2. [A suicide bomber attacks a mosque in Gamboru, Nigeria, killing 11 people. ](/news/2018/01/3/a-suicide-bomber-attacks-a-mosque-in-gamboru-nigeria-killing-11-people.md) _Context: Nigeria_
+3. [Sudan's National Intelligence and Security Service arrests 7 journalists who were covering this week's economic protests in Khartoum. The charges are unclear. ](/news/2018/01/19/sudan-s-national-intelligence-and-security-service-arrests-7-journalists-who-were-covering-this-week-s-economic-protests-in-khartoum-the-ch.md) _Context: Sudan_
+4. [Two Americans and two Canadians are abducted by unknown gunmen in Kaduna State, Nigeria. Two police officers are killed after engaging in a firefight with the abductors. ](/news/2018/01/17/two-americans-and-two-canadians-are-abducted-by-unknown-gunmen-in-kaduna-state-nigeria-two-police-officers-are-killed-after-engaging-in-a.md) _Context: Nigeria_
+5. [Suspected Boko Haram suicide bombers kill 12 people and injure 48 others, in Maiduguri, Nigeria. ](/news/2018/01/17/suspected-boko-haram-suicide-bombers-kill-12-people-and-injure-48-others-in-maiduguri-nigeria.md) _Context: Nigeria_

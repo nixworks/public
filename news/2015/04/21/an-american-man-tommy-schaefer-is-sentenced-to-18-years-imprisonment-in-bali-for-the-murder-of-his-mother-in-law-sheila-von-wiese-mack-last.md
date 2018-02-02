@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/21/an-american-man-tommy-schaefer-is-sentenced-to-18-years-imprisonment-in-bali-for-the-murder-of-his-mother-in-law-sheila-von-wiese-mack-last.html)  [JSON](/news/2015/04/21/an-american-man-tommy-schaefer-is-sentenced-to-18-years-imprisonment-in-bali-for-the-murder-of-his-mother-in-law-sheila-von-wiese-mack-last.json)  [XML](/news/2015/04/21/an-american-man-tommy-schaefer-is-sentenced-to-18-years-imprisonment-in-bali-for-the-murder-of-his-mother-in-law-sheila-von-wiese-mack-last.xml)  
+
 ### [2015-04-21](/news/2015/04/21/index.md)
 
+##### American
 # An American man Tommy Schaefer is sentenced to 18 years imprisonment in Bali for the murder of his mother-in-law Sheila von Wiese Mack last year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News Australia](http://www.skynews.com.au/news/world/asiapacific/2015/04/21/us-man-jailed-for-18-years-for-bali-murder.html)
 

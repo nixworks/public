@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/13/u-s-presidential-debates-us-president-george-w-bush-and-challenger-senator-john-kerry-meet-at-arizona-state-university-in-tempe-arizona.html)  [JSON](/news/2004/10/13/u-s-presidential-debates-us-president-george-w-bush-and-challenger-senator-john-kerry-meet-at-arizona-state-university-in-tempe-arizona.json)  [XML](/news/2004/10/13/u-s-presidential-debates-us-president-george-w-bush-and-challenger-senator-john-kerry-meet-at-arizona-state-university-in-tempe-arizona.xml)  
+
 ### [2004-10-13](/news/2004/10/13/index.md)
 
+##### U.S. President
 #  U.S. presidential debates: US President George W. Bush and challenger Senator John Kerry meet at Arizona State University in Tempe, Arizona, for the last of three U.S. presidential debates. 
 
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/Politics/wireStory?id=163430)
 

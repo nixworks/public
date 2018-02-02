@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/8/a-rocket-and-shelling-attack-in-kidal-northern-mali-kills-three-people-including-a-un-peacekeeper.html)  [JSON](/news/2015/03/8/a-rocket-and-shelling-attack-in-kidal-northern-mali-kills-three-people-including-a-un-peacekeeper.json)  [XML](/news/2015/03/8/a-rocket-and-shelling-attack-in-kidal-northern-mali-kills-three-people-including-a-un-peacekeeper.xml)  
+
 ### [2015-03-8](/news/2015/03/8/index.md)
 
+##### Kidal
 # A rocket and shelling attack in Kidal, northern Mali kills three people, including a UN peacekeeper. 
 
 Three deaths reported in northern city, a day after blast in Bamako restaurant killed five people, including UN experts.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/03/peacekeeper-killed-attack-mali-kidal-150308092228277.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/3/7/7030cd36b5294b2c8078d669eb5fd25d_18.jpg)

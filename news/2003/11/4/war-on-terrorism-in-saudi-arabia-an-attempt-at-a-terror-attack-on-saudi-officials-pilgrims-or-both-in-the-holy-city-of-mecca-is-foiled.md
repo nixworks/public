@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/4/war-on-terrorism-in-saudi-arabia-an-attempt-at-a-terror-attack-on-saudi-officials-pilgrims-or-both-in-the-holy-city-of-mecca-is-foiled.html)  [JSON](/news/2003/11/4/war-on-terrorism-in-saudi-arabia-an-attempt-at-a-terror-attack-on-saudi-officials-pilgrims-or-both-in-the-holy-city-of-mecca-is-foiled.json)  [XML](/news/2003/11/4/war-on-terrorism-in-saudi-arabia-an-attempt-at-a-terror-attack-on-saudi-officials-pilgrims-or-both-in-the-holy-city-of-mecca-is-foiled.xml)  
+
 ### [2003-11-4](/news/2003/11/4/index.md)
 
+##### War on Terrorism
 #  War on Terrorism: In Saudi Arabia, an attempt at a terror attack on Saudi officials, pilgrims, or both, in the holy city of Mecca is foiled; plotters believed to be linked to Al Qaeda.
 
 

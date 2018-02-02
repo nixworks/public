@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/17/a-woman-is-sentenced-to-six-months-imprisonment-in-mauritania-for-keeping-two-children-in-slave-like-conditions.html)  [JSON](/news/2011/01/17/a-woman-is-sentenced-to-six-months-imprisonment-in-mauritania-for-keeping-two-children-in-slave-like-conditions.json)  [XML](/news/2011/01/17/a-woman-is-sentenced-to-six-months-imprisonment-in-mauritania-for-keeping-two-children-in-slave-like-conditions.xml)  
+
 ### [2011-01-17](/news/2011/01/17/index.md)
 
+##### Mauritanian
 # A woman is sentenced to six months imprisonment in Mauritania for keeping two children in slave-like conditions. 
 
 A woman is jailed for six months for enslaving two children in Mauritania, where slavery persists despite repeated attempts to ban it.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12205329)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

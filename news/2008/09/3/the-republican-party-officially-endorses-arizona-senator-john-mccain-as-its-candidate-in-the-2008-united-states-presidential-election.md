@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/09/3/the-republican-party-officially-endorses-arizona-senator-john-mccain-as-its-candidate-in-the-2008-united-states-presidential-election.html)  [JSON](/news/2008/09/3/the-republican-party-officially-endorses-arizona-senator-john-mccain-as-its-candidate-in-the-2008-united-states-presidential-election.json)  [XML](/news/2008/09/3/the-republican-party-officially-endorses-arizona-senator-john-mccain-as-its-candidate-in-the-2008-united-states-presidential-election.xml)  
+
 ### [2008-09-3](/news/2008/09/3/index.md)
 
+##### Republican
 #  The Republican Party officially endorses Arizona Senator John McCain as its candidate in the 2008 United States presidential election. 
 
 Gov. Sarah Palin of Alaska sought to wrest back the narrative of her life as she introduced herself to a roaring crowd at the Republican National Convention.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/09/04/us/politics/04repubday.html)
+1. [The New York Times](https://www.nytimes.com/2008/09/04/us/politics/04repubday.html)
 1. [Cover Image](https://static01.nyt.com/images/2008/09/04/us/palin.75755.jpg)
 
 ### Related:

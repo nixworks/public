@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/23/an-afriqiyah-airways-flight-originating-from-sa
 
 ### [2016-12-23](/news/2016/12/23/index.md)
 
+##### Afriqiyah Airways Flight 209
 # An Afriqiyah Airways flight originating from Sabha, Libya, is hijacked and forced to make an emergency landing in Malta. Hijackers threaten to blow up the aircraft with grenades, but the standoff ends peacefully with all hostages released and both hijackers surrendering. 
 
 Two hijackers diverted a Libyan commercial plane to Malta on Friday and threatened to blow it up with hand grenades, Maltese authorities said.

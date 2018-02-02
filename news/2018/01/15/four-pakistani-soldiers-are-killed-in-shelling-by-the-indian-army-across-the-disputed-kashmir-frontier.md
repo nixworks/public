@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/15/four-pakistani-soldiers-are-killed-in-shelling-
 
 ### [2018-01-15](/news/2018/01/15/index.md)
 
+##### India-Pakistan military confrontation (2016-present)
 # Four Pakistani soldiers are killed in shelling by the Indian Army across the disputed Kashmir frontier. 
 
 Four Pakistani soldiers were killed on Monday in shelling by Indian forces in the disputed Kashmir region, the Pakistani army said, the latest clash between the nuclear-armed neighbours who have also been exchanging heated challenges.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/24/five-people-are-killed-in-a-raid-on-a-house-of-
 
 ### [2017-05-24](/news/2017/05/24/index.md)
 
+##### Shia
 # Five people are killed in a raid on a house of a Shia cleric in Bahrain. 
 
 The interior ministry calls those killed &quot;outlaws&quot;, but activists say they were peaceful protesters.

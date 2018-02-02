@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/30/sco-v-ibm-ibm-has-applied-for-a-declaratory-judgment-that-it-does-not-infringe-the-sco-group-s-copyrights.html)  [JSON](/news/2004/03/30/sco-v-ibm-ibm-has-applied-for-a-declaratory-judgment-that-it-does-not-infringe-the-sco-group-s-copyrights.json)  [XML](/news/2004/03/30/sco-v-ibm-ibm-has-applied-for-a-declaratory-judgment-that-it-does-not-infringe-the-sco-group-s-copyrights.xml)  
+
 ### [2004-03-30](/news/2004/03/30/index.md)
 
+##### SCO v. IBM
 #  "SCO v. IBM:" IBM has applied for a declaratory judgment that it does not infringe the SCO Group's copyrights. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Groklaw](http://www.groklaw.net/article.php?story=20040330184527522)
 2. [ZDNET](http://zdnet.com.com/2100-1104-5182078.html)

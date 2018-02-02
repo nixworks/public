@@ -1,25 +1,29 @@
+
+Formats: [HTML](/news/2012/04/8/at-least-40-people-are-reported-killed-across-syria-ahead-of-the-tuesday-deadline-for-syrian-armed-forces-to-withdraw-from-cities-as-part-o.html)  [JSON](/news/2012/04/8/at-least-40-people-are-reported-killed-across-syria-ahead-of-the-tuesday-deadline-for-syrian-armed-forces-to-withdraw-from-cities-as-part-o.json)  [XML](/news/2012/04/8/at-least-40-people-are-reported-killed-across-syria-ahead-of-the-tuesday-deadline-for-syrian-armed-forces-to-withdraw-from-cities-as-part-o.xml)  
+
 ### [2012-04-8](/news/2012/04/8/index.md)
 
+##### Syria
 # At least 40 people are reported killed across Syria ahead of the Tuesday deadline for Syrian armed forces to withdraw from cities, as part of a peace plan brokered by U.N.-Arab League special envoy Kofi Annan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/04/08/world/meast/syria-unrest/index.html?hpt=wo_c2)
 2. [CNN](http://www.cnn.com/2012/04/08/world/rel-easter-celebrations/index.html?hpt=wo_c1)
-
-### Related:
-
-1. [The Syrian Observatory for Human Rights reports a large explosion near Damascus International Airport followed by a fire. The Syrian government says Israel struck the military site with several missiles. Israeli Intelligence Minister Yisrael Katz states that the strike "corresponds completely with Israel's policy". ](/news/2017/04/27/the-syrian-observatory-for-human-rights-reports-a-large-explosion-near-damascus-international-airport-followed-by-a-fire-the-syrian-governm.md) _Context: Syria, military_
-2. [Syrian state news reports clashes between Syrian Armed Forces and the Islamic State in eastern Syria's Deir ez-Zor province result in the deaths of 58 militants. ](/news/2015/11/8/syrian-state-news-reports-clashes-between-syrian-armed-forces-and-the-islamic-state-in-eastern-syria-s-deir-ez-zor-province-result-in-the-de.md) _Context: Syria, military_
-3. [An arrest warrant is issued for the cousin of Syrian President Bashar al-Assad, Suleiman Hilal Al-Assad, who is accused of shooting and killing Colonel Hassan Al-Sheikh of the Syrian Armed Forces at what can be described as a traffic dispute. ](/news/2015/08/9/an-arrest-warrant-is-issued-for-the-cousin-of-syrian-president-bashar-al-assad-suleiman-hilal-al-assad-who-is-accused-of-shooting-and-kill.md) _Context: Syria, military_
-4. [United Nations and Arab League envoy Kofi Annan arrives in the Syrian capital Damascus for talks. ](/news/2012/07/8/united-nations-and-arab-league-envoy-kofi-annan-arrives-in-the-syrian-capital-damascus-for-talks.md) _Context: Kofi Annan, Syria_
-5. [Syrian uprising: United Nations envoy Kofi Annan describes the situation in Syria as bleak, raising concerns about reports indicating that Syrian Army forces are conducting operations against opponents. ](/news/2012/04/25/syrian-uprising-united-nations-envoy-kofi-annan-describes-the-situation-in-syria-as-bleak-raising-concerns-about-reports-indicating-that-s.md) _Context: Kofi Annan, Syria_
 
 ### Changes:
 
 1. [Syrian uprising:At least 40 people are reported killed across Syria ahead of the Tuesday deadline for Syrian armed forces to withdraw from cities, as part of a peace plan brokered by U.N.-Arab League special envoy Kofi Annan. ](/news/2012/04/8/syrian-uprising-pat-least-40-people-are-reported-killed-across-syria-ahead-of-the-tuesday-deadline-for-syrian-armed-forces-to-withdraw-from.md) _2017-08-25 03:35:27 (First version)_
 2. [Syrian uprising:: At least 40 people are reported killed across Syria ahead of the Tuesday deadline for Syrian armed forces to withdraw from cities, as part of a peace plan brokered by U.N.-Arab League special envoy Kofi Annan. ](/news/2012/04/8/syrian-uprising-at-least-40-people-are-reported-killed-across-syria-ahead-of-the-tuesday-deadline-for-syrian-armed-forces-to-withdraw-from.md) _2017-08-27 03:35:36 (Update)_
 2. [At least 40 people are reported killed across Syria ahead of the Tuesday deadline for Syrian armed forces to withdraw from cities, as part of a peace plan brokered by U.N.-Arab League special envoy Kofi Annan. ](/news/2012/04/8/at-least-40-people-are-reported-killed-across-syria-ahead-of-the-tuesday-deadline-for-syrian-armed-forces-to-withdraw-from-cities-as-part-o.md) _(Current version)_
+
+### Related:
+
+1. [United Nations and Arab League envoy Kofi Annan arrives in the Syrian capital Damascus for talks. ](/news/2012/07/8/united-nations-and-arab-league-envoy-kofi-annan-arrives-in-the-syrian-capital-damascus-for-talks.md) _Context: Kofi Annan, Syria_
+2. [Syrian uprising: United Nations envoy Kofi Annan describes the situation in Syria as bleak, raising concerns about reports indicating that Syrian Army forces are conducting operations against opponents. ](/news/2012/04/25/syrian-uprising-united-nations-envoy-kofi-annan-describes-the-situation-in-syria-as-bleak-raising-concerns-about-reports-indicating-that-s.md) _Context: Kofi Annan, Syria_
+3. [Syria responds to a peace plan proposed by envoy Kofi Annan to end the violence in the country. ](/news/2012/03/26/syria-responds-to-a-peace-plan-proposed-by-envoy-kofi-annan-to-end-the-violence-in-the-country.md) _Context: Kofi Annan, Syria_
+4. [Kofi Annan and a special UN peace envoy meet with President of Russia Dmitry Medvedev to discuss adopting a harder stance on Syria and Bashar al-Assad. ](/news/2012/03/25/kofi-annan-and-a-special-un-peace-envoy-meet-with-president-of-russia-dmitry-medvedev-to-discuss-adopting-a-harder-stance-on-syria-and-basha.md) _Context: Kofi Annan, Syria_
+5. [An explosion at the headquarters of the Chechen-led Ajnad al-Kavkaz rebel group in Idlib, Syria, kills at least 23 people, while several people remain unaccounted for, according to the Syrian Observatory for Human Rights. ](/news/2018/01/7/an-explosion-at-the-headquarters-of-the-chechen-led-ajnad-al-kavkaz-rebel-group-in-idlib-syria-kills-at-least-23-people-while-several-peo.md) _Context: Syria_

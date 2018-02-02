@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/8/valdis-zatlers-is-sworn-in-as-the-third-president-of-latvia.html)  [JSON](/news/2007/07/8/valdis-zatlers-is-sworn-in-as-the-third-president-of-latvia.json)  [XML](/news/2007/07/8/valdis-zatlers-is-sworn-in-as-the-third-president-of-latvia.xml)  
+
 ### [2007-07-8](/news/2007/07/8/index.md)
 
+##### Valdis Zatlers
 # Valdis Zatlers is sworn in as the third President of Latvia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via IHT](http://www.iht.com/articles/ap/2007/07/08/europe/EU-GEN-Latvia-Presidential-Inauguration.php)
 

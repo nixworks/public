@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/18/geert-wilders-the-leader-of-the-dutch-far-right
 
 ### [2016-03-18](/news/2016/03/18/index.md)
 
+##### Geert Wilders
 # Geert Wilders, the leader of the Dutch far-right political party Party for Freedom, goes on trial again for making anti-Islam remarks. He is being accused of inciting hatred against the Moroccan-Dutch minority. 
 
 Politician in court over comments he made about Dutch Moroccans, but insists he will not be silenced

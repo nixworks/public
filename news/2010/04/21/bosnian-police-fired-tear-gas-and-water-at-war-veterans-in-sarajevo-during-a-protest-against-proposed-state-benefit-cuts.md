@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/21/bosnian-police-fired-tear-gas-and-water-at-war-veterans-in-sarajevo-during-a-protest-against-proposed-state-benefit-cuts.html)  [JSON](/news/2010/04/21/bosnian-police-fired-tear-gas-and-water-at-war-veterans-in-sarajevo-during-a-protest-against-proposed-state-benefit-cuts.json)  [XML](/news/2010/04/21/bosnian-police-fired-tear-gas-and-water-at-war-veterans-in-sarajevo-during-a-protest-against-proposed-state-benefit-cuts.xml)  
+
 ### [2010-04-21](/news/2010/04/21/index.md)
 
+##### Bosnian
 # Bosnian police fired tear gas and water at war veterans in Sarajevo, during a protest against proposed state benefit cuts. 
 
 Police fire tear gas after thousands of war veterans attempt to storm government building.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/04/20104211785829842.html)
 1. [Cover Image](http://www.aljazeera.com)

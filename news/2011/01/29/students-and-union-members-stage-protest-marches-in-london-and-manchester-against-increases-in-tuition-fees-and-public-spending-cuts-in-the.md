@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/29/students-and-union-members-stage-protest-marches-in-london-and-manchester-against-increases-in-tuition-fees-and-public-spending-cuts-in-the.html)  [JSON](/news/2011/01/29/students-and-union-members-stage-protest-marches-in-london-and-manchester-against-increases-in-tuition-fees-and-public-spending-cuts-in-the.json)  [XML](/news/2011/01/29/students-and-union-members-stage-protest-marches-in-london-and-manchester-against-increases-in-tuition-fees-and-public-spending-cuts-in-the.xml)  
+
 ### [2011-01-29](/news/2011/01/29/index.md)
 
+##### London
 # Students and union members stage protest marches in London and Manchester against increases in tuition fees and public spending cuts in the United Kingdom. 
 
 Demonstrations are held in London and Manchester against raising university tuition fees in England and public spending cuts.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/education-12315841)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

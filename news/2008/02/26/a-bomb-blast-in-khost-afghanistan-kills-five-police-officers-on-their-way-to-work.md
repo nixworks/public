@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/26/a-bomb-blast-in-khost-afghanistan-kills-five-police-officers-on-their-way-to-work.html)  [JSON](/news/2008/02/26/a-bomb-blast-in-khost-afghanistan-kills-five-police-officers-on-their-way-to-work.json)  [XML](/news/2008/02/26/a-bomb-blast-in-khost-afghanistan-kills-five-police-officers-on-their-way-to-work.xml)  
+
 ### [2008-02-26](/news/2008/02/26/index.md)
 
+##### Khost
 #  A bomb blast in Khost, Afghanistan kills five police officers on their way to work. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5hQ8UxHu1Gl0v288xZ7vRy79_N8wA)
 

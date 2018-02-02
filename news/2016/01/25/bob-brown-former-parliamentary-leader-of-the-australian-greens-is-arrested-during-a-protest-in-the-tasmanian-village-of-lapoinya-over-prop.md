@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/25/bob-brown-former-parliamentary-leader-of-the-au
 
 ### [2016-01-25](/news/2016/01/25/index.md)
 
+##### Bob Brown
 # Bob Brown, former Parliamentary Leader of the Australian Greens, is arrested during a protest in the Tasmanian village of Lapoinya over proposed clear-fell logging of a nearby forest. 
 
 

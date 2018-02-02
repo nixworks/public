@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/15/a-law-legalising-abortion-in-the-first-ten-weeks-of-pregnancy-comes-into-effect-in-portugal.html)  [JSON](/news/2007/07/15/a-law-legalising-abortion-in-the-first-ten-weeks-of-pregnancy-comes-into-effect-in-portugal.json)  [XML](/news/2007/07/15/a-law-legalising-abortion-in-the-first-ten-weeks-of-pregnancy-comes-into-effect-in-portugal.xml)  
+
 ### [2007-07-15](/news/2007/07/15/index.md)
 
+##### abortion
 #  A law legalising abortion in the first ten weeks of pregnancy comes into effect in Portugal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via News Limited](http://www.news.com.au/story/0,23599,22080842-23109,00.html)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/16/an-air-raid-on-a-funeral-in-a-village-north-of-
 
 ### [2017-02-16](/news/2017/02/16/index.md)
 
+##### Yemeni Civil War (2015-present)
 # An air raid on a funeral in a village north of Sana'a kills at least eight women and children. The Houthis blames the Saudi-led coalition for the attack. 
 
 Houthi rebels blame Arab coalition for attack on Shiraa village 40km north of capital Sanaa.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/26/jurelang-zedkaia-is-elected-the-5th-president-of-the-marshall-islands-following-the-ouster-of-litokwa-tomeing-in-a-no-confidence-vote-last.html)  [JSON](/news/2009/10/26/jurelang-zedkaia-is-elected-the-5th-president-of-the-marshall-islands-following-the-ouster-of-litokwa-tomeing-in-a-no-confidence-vote-last.json)  [XML](/news/2009/10/26/jurelang-zedkaia-is-elected-the-5th-president-of-the-marshall-islands-following-the-ouster-of-litokwa-tomeing-in-a-no-confidence-vote-last.xml)  
+
 ### [2009-10-26](/news/2009/10/26/index.md)
 
+##### Jurelang Zedkaia
 #  Jurelang Zedkaia is elected the 5th President of the Marshall Islands, following the ouster of Litokwa Tomeing in a no confidence vote last week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bernama](http://www.bernama.com/bernama/v5/newsindex.php?id=449819)
 

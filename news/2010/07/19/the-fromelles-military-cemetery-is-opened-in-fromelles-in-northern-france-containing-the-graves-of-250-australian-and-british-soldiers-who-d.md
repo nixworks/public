@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/19/the-fromelles-military-cemetery-is-opened-in-fromelles-in-northern-france-containing-the-graves-of-250-australian-and-british-soldiers-who-d.html)  [JSON](/news/2010/07/19/the-fromelles-military-cemetery-is-opened-in-fromelles-in-northern-france-containing-the-graves-of-250-australian-and-british-soldiers-who-d.json)  [XML](/news/2010/07/19/the-fromelles-military-cemetery-is-opened-in-fromelles-in-northern-france-containing-the-graves-of-250-australian-and-british-soldiers-who-d.xml)  
+
 ### [2010-07-19](/news/2010/07/19/index.md)
 
+##### Fromelles Military Cemetery
 # The Fromelles Military Cemetery is opened in Fromelles in northern France containing the graves of 250 Australian and British soldiers who died in the Battle of Fromelles in World War I and had previously been buried in a mass grave. 
 
 Relatives attend the dedication of the new Fromelles Military Cemetery, built following the discovery of remains of hundreds of Allied soldiers who died there in World War I.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-10661923)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/15/us-airways-flight-1549-an-airbus-a320-carrying-155-people-ditches-into-new-york-city-s-hudson-river.html)  [JSON](/news/2009/01/15/us-airways-flight-1549-an-airbus-a320-carrying-155-people-ditches-into-new-york-city-s-hudson-river.json)  [XML](/news/2009/01/15/us-airways-flight-1549-an-airbus-a320-carrying-155-people-ditches-into-new-york-city-s-hudson-river.xml)  
+
 ### [2009-01-15](/news/2009/01/15/index.md)
 
+##### US Airways
 #  US Airways Flight 1549, an Airbus A320 carrying 155 people, ditches into New York City's Hudson River. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/US/01/15/new.york.plane.crash/index.html)
 2. [New York Times](http://cityroom.blogs.nytimes.com/2009/01/15/plane-crashes-into-hudson-river)

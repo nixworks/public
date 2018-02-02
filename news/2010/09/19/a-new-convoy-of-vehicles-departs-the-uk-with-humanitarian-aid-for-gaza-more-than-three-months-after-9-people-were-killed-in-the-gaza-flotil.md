@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/19/a-new-convoy-of-vehicles-departs-the-uk-with-humanitarian-aid-for-gaza-more-than-three-months-after-9-people-were-killed-in-the-gaza-flotil.html)  [JSON](/news/2010/09/19/a-new-convoy-of-vehicles-departs-the-uk-with-humanitarian-aid-for-gaza-more-than-three-months-after-9-people-were-killed-in-the-gaza-flotil.json)  [XML](/news/2010/09/19/a-new-convoy-of-vehicles-departs-the-uk-with-humanitarian-aid-for-gaza-more-than-three-months-after-9-people-were-killed-in-the-gaza-flotil.xml)  
+
 ### [2010-09-19](/news/2010/09/19/index.md)
 
+##### Gaza Strip
 # A new convoy of vehicles departs the UK with humanitarian aid for Gaza, more than three months after 9 people were killed in the Gaza flotilla raid. 
 
 Viva Palestina vehicles leave London en route to besieged Strip for what organisers say will be biggest aid convoy yet.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/09/20109190194211735.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/19/201091911036232734_20.jpg)

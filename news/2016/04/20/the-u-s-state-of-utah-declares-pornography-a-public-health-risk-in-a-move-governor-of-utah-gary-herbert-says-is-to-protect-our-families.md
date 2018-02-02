@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/20/the-u-s-state-of-utah-declares-pornography-a-pu
 
 ### [2016-04-20](/news/2016/04/20/index.md)
 
+##### U.S.
 # The U.S. state of Utah declares pornography a "public health risk" in a move Governor of Utah Gary Herbert says is to "protect our families and our young people". The bill, signed by the governor, does not ban pornography in the state but does call for greater "efforts to prevent pornography exposure and addiction". 
 
 The mainly Mormon US state of Utah becomes the first to declare pornography to be a public health risk.

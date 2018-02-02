@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/11/british-politician-david-davis-wins-the-haltemprice-and-howden-by-election-caused-when-he-resigned-his-seat-to-highlight-his-concerns-over.html)  [JSON](/news/2008/07/11/british-politician-david-davis-wins-the-haltemprice-and-howden-by-election-caused-when-he-resigned-his-seat-to-highlight-his-concerns-over.json)  [XML](/news/2008/07/11/british-politician-david-davis-wins-the-haltemprice-and-howden-by-election-caused-when-he-resigned-his-seat-to-highlight-his-concerns-over.xml)  
+
 ### [2008-07-11](/news/2008/07/11/index.md)
 
+##### David Davis
 #  British politician David Davis wins the Haltemprice and Howden by-election, caused when he resigned his seat to highlight his concerns over civil liberties. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/uk_politics/7501029.stm)
 

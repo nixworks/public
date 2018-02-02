@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/29/spain-wins-the-uefa-euro-2008-championship-defeating-germany-1-0-in-the-final-through-a-goal-by-fernando-torres.html)  [JSON](/news/2008/06/29/spain-wins-the-uefa-euro-2008-championship-defeating-germany-1-0-in-the-final-through-a-goal-by-fernando-torres.json)  [XML](/news/2008/06/29/spain-wins-the-uefa-euro-2008-championship-defeating-germany-1-0-in-the-final-through-a-goal-by-fernando-torres.xml)  
+
 ### [2008-06-29](/news/2008/06/29/index.md)
 
+##### Spain
 #  Spain wins the UEFA Euro 2008 championship defeating Germany 1-0 in the final through a goal by Fernando Torres. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/sport2/hi/football/euro_2008/7363545.stm)
 

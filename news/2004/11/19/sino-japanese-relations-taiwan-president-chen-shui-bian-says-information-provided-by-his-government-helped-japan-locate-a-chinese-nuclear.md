@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/19/sino-japanese-relations-taiwan-president-chen-shui-bian-says-information-provided-by-his-government-helped-japan-locate-a-chinese-nuclear.html)  [JSON](/news/2004/11/19/sino-japanese-relations-taiwan-president-chen-shui-bian-says-information-provided-by-his-government-helped-japan-locate-a-chinese-nuclear.json)  [XML](/news/2004/11/19/sino-japanese-relations-taiwan-president-chen-shui-bian-says-information-provided-by-his-government-helped-japan-locate-a-chinese-nuclear.xml)  
+
 ### [2004-11-19](/news/2004/11/19/index.md)
 
+##### Sino-Japanese relations
 #  Sino-Japanese relations: Taiwan President Chen Shui-bian says information provided by his government helped Japan locate a Chinese nuclear submarine in Japanese waters a week ago. The PRC expressed "regret" after the incident. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA](http://www.voanews.com/english/Taiwan-Provided-Chinese-Sub-Intel-to-Japan.cfm)
 

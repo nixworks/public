@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/14/a-new-u-s-sponsored-satellite-tv-channel-called-al-hurra-the-free-one-begins-broadcasting-in-the-middle-east-and-pledges-to-provide-ac.html)  [JSON](/news/2004/02/14/a-new-u-s-sponsored-satellite-tv-channel-called-al-hurra-the-free-one-begins-broadcasting-in-the-middle-east-and-pledges-to-provide-ac.json)  [XML](/news/2004/02/14/a-new-u-s-sponsored-satellite-tv-channel-called-al-hurra-the-free-one-begins-broadcasting-in-the-middle-east-and-pledges-to-provide-ac.xml)  
+
 ### [2004-02-14](/news/2004/02/14/index.md)
 
+##### Al Hurra
 #  A new U.S.-sponsored satellite TV channel called Al Hurra ("The Free One") begins broadcasting in the Middle East and pledges to provide accurate and balanced news, but faces a skeptical Arab audience.
 
 

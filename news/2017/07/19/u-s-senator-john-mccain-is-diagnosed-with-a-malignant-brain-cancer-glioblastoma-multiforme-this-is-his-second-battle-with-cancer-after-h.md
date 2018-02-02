@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/19/u-s-senator-john-mccain-is-diagnosed-with-a-mal
 
 ### [2017-07-19](/news/2017/07/19/index.md)
 
+##### United States Senate
 # U.S. Senator John McCain is diagnosed with a malignant brain cancer, glioblastoma multiforme. This is his second battle with cancer, after having been successfully treated for malignant melanoma. 
 
 McCain was diagnosed with a tumor called a glioblastoma after the removal of a blood clot above his left eye last week.

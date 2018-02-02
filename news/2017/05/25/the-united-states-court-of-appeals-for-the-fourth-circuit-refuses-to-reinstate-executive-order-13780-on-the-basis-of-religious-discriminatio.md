@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/25/the-united-states-court-of-appeals-for-the-four
 
 ### [2017-05-25](/news/2017/05/25/index.md)
 
+##### Immigration policy of Donald Trump
 # The United States Court of Appeals for the Fourth Circuit refuses to reinstate Executive Order 13780 on the basis of religious discrimination, upholding the District Court for Maryland's March 7 ruling. 
 
 In a stinging rebuke to President Donald Trump, a U.S. appeals court refused on Thursday to reinstate his temporary travel ban on people from six Muslim-majority nations, setting the stage for a possible legal showdown in the Supreme Court.

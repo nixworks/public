@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/24/a-report-by-two-israeli-human-rights-groups-b-t
 
 ### [2016-02-24](/news/2016/02/24/index.md)
 
+##### Israeli-Palestinian conflict
 # A report by two Israeli human rights groups, B'Tselem and HaMoked, states dozens of Palestinian detainees at the Shin Bet's Shikma interrogation facility in Ashkelon have been subjected to mistreatment, and in some cases torture. The report examined affidavits and personal accounts from 116 Palestinians held for security reasons at the facility between August 2013 and March 2014. 
 
 JERUSALEM — Dozens of Palestinian detainees at an Israeli detention facility have been subjected to mistreatment, and in some cases torture, two Israeli human rights groups alleged on Wednesday. In new bloodshed Wednesday, Israeli troops accidentally shot and killed a fellow soldier as they thwarted a Palestinian stabber in the West Bank, the military said. The report by the B’Tselem and HaMoked rights groups presented accounts by 116 Palestinian detainees on conditions at the Shikma interrogation facility, run by the Israeli Shin Bet internal security agency. Palestinian detainees told the Israeli rights groups that they were at times exposed to extreme heat or cold, bound to a chair and denied access to a shower for days or weeks.

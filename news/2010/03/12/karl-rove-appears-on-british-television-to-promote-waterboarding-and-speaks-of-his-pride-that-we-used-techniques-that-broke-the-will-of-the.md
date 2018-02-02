@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/12/karl-rove-appears-on-british-television-to-promote-waterboarding-and-speaks-of-his-pride-that-we-used-techniques-that-broke-the-will-of-the.html)  [JSON](/news/2010/03/12/karl-rove-appears-on-british-television-to-promote-waterboarding-and-speaks-of-his-pride-that-we-used-techniques-that-broke-the-will-of-the.json)  [XML](/news/2010/03/12/karl-rove-appears-on-british-television-to-promote-waterboarding-and-speaks-of-his-pride-that-we-used-techniques-that-broke-the-will-of-the.xml)  
+
 ### [2010-03-12](/news/2010/03/12/index.md)
 
+##### Karl Rove
 # Karl Rove appears on British television to promote waterboarding and speaks of his pride that "we used techniques that broke the will of these terrorists", saying these techniques were "appropriate". 
 
 A top aide to former US president George W Bush has defended the use of harsh interrogation techniques.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8563547.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0312/rovek.html)

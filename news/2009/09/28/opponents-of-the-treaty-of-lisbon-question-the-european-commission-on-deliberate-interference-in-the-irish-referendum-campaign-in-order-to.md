@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/28/opponents-of-the-treaty-of-lisbon-question-the-european-commission-on-deliberate-interference-in-the-irish-referendum-campaign-in-order-to.html)  [JSON](/news/2009/09/28/opponents-of-the-treaty-of-lisbon-question-the-european-commission-on-deliberate-interference-in-the-irish-referendum-campaign-in-order-to.json)  [XML](/news/2009/09/28/opponents-of-the-treaty-of-lisbon-question-the-european-commission-on-deliberate-interference-in-the-irish-referendum-campaign-in-order-to.xml)  
+
 ### [2009-09-28](/news/2009/09/28/index.md)
 
+##### Treaty of Lisbon
 #  Opponents of the Treaty of Lisbon question the European Commission on deliberate interference in the Irish referendum campaign in order to secure its desired "Yes" vote, suggesting that the Commission has broken the law. 
 
 Anti-Lisbon campaigner Patricia McKenna has threatened the European Commission with legal action over what she claims is a &quot;propaganda&hellip;
 
 
-### Source:
+### Sources:
 
 1. [EU Observer](http://euobserver.com/9/28730)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0928/breaking74.htm)

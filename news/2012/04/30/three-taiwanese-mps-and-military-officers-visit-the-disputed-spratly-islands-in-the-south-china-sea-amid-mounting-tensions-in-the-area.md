@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/30/three-taiwanese-mps-and-military-officers-visit-the-disputed-spratly-islands-in-the-south-china-sea-amid-mounting-tensions-in-the-area.html)  [JSON](/news/2012/04/30/three-taiwanese-mps-and-military-officers-visit-the-disputed-spratly-islands-in-the-south-china-sea-amid-mounting-tensions-in-the-area.json)  [XML](/news/2012/04/30/three-taiwanese-mps-and-military-officers-visit-the-disputed-spratly-islands-in-the-south-china-sea-amid-mounting-tensions-in-the-area.xml)  
+
 ### [2012-04-30](/news/2012/04/30/index.md)
 
+##### Taiwan
 # Three Taiwanese MPs and military officers visit the disputed Spratly Islands in the South China Sea, amid mounting tensions in the area. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/asia/291204/taiwan-mps-visit-disputed-spratlys-to-renew-claim)
 

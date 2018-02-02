@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/10/the-middleton-family-make-a-complaint-to-the-press-complaints-commission-after-pictures-of-catherine-duchess-of-cambridge-and-her-sister-pi.html)  [JSON](/news/2011/05/10/the-middleton-family-make-a-complaint-to-the-press-complaints-commission-after-pictures-of-catherine-duchess-of-cambridge-and-her-sister-pi.json)  [XML](/news/2011/05/10/the-middleton-family-make-a-complaint-to-the-press-complaints-commission-after-pictures-of-catherine-duchess-of-cambridge-and-her-sister-pi.xml)  
+
 ### [2011-05-10](/news/2011/05/10/index.md)
 
+##### Middleton family
 # The Middleton family make a complaint to the Press Complaints Commission after pictures of Catherine, Duchess of Cambridge and her sister Pippa Middleton in beachwear appear in four newspapers. 
 
 The Middleton family complains to the Press Complaints Commission after four papers publish photographs of Kate and Pippa in bikinis.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13352580)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52647000/jpg/_52647484_011851800-1.jpg)

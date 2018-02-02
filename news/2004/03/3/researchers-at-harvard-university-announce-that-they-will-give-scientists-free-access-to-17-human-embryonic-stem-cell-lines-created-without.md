@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/3/researchers-at-harvard-university-announce-that-they-will-give-scientists-free-access-to-17-human-embryonic-stem-cell-lines-created-without.html)  [JSON](/news/2004/03/3/researchers-at-harvard-university-announce-that-they-will-give-scientists-free-access-to-17-human-embryonic-stem-cell-lines-created-without.json)  [XML](/news/2004/03/3/researchers-at-harvard-university-announce-that-they-will-give-scientists-free-access-to-17-human-embryonic-stem-cell-lines-created-without.xml)  
+
 ### [2004-03-3](/news/2004/03/3/index.md)
 
+##### Harvard University
 #  Researchers at Harvard University announce that they will give scientists free access to 17 human embryonic stem cell lines created without U.S. federal funding. This move is expected to boost stem cell research in the face of federal funding restrictions announced in 2001 by the Bush administration. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/HEALTH/03/03/harvard.stemcells.ap/index.html)
 

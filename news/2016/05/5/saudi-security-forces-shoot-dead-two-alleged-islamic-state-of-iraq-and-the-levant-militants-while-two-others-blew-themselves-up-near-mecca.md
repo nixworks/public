@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/5/saudi-security-forces-shoot-dead-two-alleged-isl
 
 ### [2016-05-5](/news/2016/05/5/index.md)
 
+##### Terrorism in Saudi Arabia
 # Saudi security forces shoot dead two alleged Islamic State of Iraq and the Levant militants while two others blew themselves up near Mecca, Saudi Arabia. 
 
 Saudi security forces shot dead two alleged Islamic State fighters and two others blew themselves up outside the holy city of Mecca on Thursday, the interior ministry said.

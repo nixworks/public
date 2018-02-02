@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/30/tropical-storm-zeta-the-twenty-seventh-named-storm-of-the-2005-atlantic-hurricane-season-forms-in-the-atlantic-ocean-one-month-after-the.html)  [JSON](/news/2005/12/30/tropical-storm-zeta-the-twenty-seventh-named-storm-of-the-2005-atlantic-hurricane-season-forms-in-the-atlantic-ocean-one-month-after-the.json)  [XML](/news/2005/12/30/tropical-storm-zeta-the-twenty-seventh-named-storm-of-the-2005-atlantic-hurricane-season-forms-in-the-atlantic-ocean-one-month-after-the.xml)  
+
 ### [2005-12-30](/news/2005/12/30/index.md)
 
+##### 2005 Atlantic hurricane season
 #  Tropical Storm Zeta, the twenty-seventh named storm of the 2005 Atlantic hurricane season, forms in the Atlantic Ocean one month after the season's official end. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=domesticNews&storyID=2005-12-30T184707Z_01_EIC067605_RTRUKOC_0_US-WEATHER-ZETA.xml&archived=False)
 2. [US NHC](http://www.nhc.noaa.gov/archive/2005/pub/al302005.public.001.shtml?)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/29/a-building-explosion-and-collapse-in-philadelphia-causes-injuries-to-at-least-eight-people.html)  [JSON](/news/2013/07/29/a-building-explosion-and-collapse-in-philadelphia-causes-injuries-to-at-least-eight-people.json)  [XML](/news/2013/07/29/a-building-explosion-and-collapse-in-philadelphia-causes-injuries-to-at-least-eight-people.xml)  
+
 ### [2013-07-29](/news/2013/07/29/index.md)
 
+##### Philadelphia
 # A building explosion and collapse in Philadelphia causes injuries to at least eight people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2013/07/29/us/pennsylvania-building-collapse/index.html?sr=fb072913buildingcollapse12p)
 2. [MyFoxPhilly](http://www.myfoxphilly.com/story/22956400/building-collapse-reported-in-south-philly)

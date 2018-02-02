@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/11/the-former-prime-minister-of-ukraine-yulia-tymoshenko-already-serving-a-seven-year-sentence-for-abuse-of-office-is-charged-with-tax-evasio.html)  [JSON](/news/2011/11/11/the-former-prime-minister-of-ukraine-yulia-tymoshenko-already-serving-a-seven-year-sentence-for-abuse-of-office-is-charged-with-tax-evasio.json)  [XML](/news/2011/11/11/the-former-prime-minister-of-ukraine-yulia-tymoshenko-already-serving-a-seven-year-sentence-for-abuse-of-office-is-charged-with-tax-evasio.xml)  
+
 ### [2011-11-11](/news/2011/11/11/index.md)
 
+##### Ukraine
 # The former Prime Minister of Ukraine Yulia Tymoshenko, already serving a seven-year sentence for abuse of office, is charged with tax evasion, theft and concealing foreign currency revenues. 
 
 Former Ukrainian prime minister Yulia Tymoshenko, already sentenced to seven years in prison for abuse of office, has been charged with tax evasion, theft and concealing foreign currency revenues, the State Tax Administration said on Friday.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2011/11/11/uk-ukraine-tymoshenko-idUKTRE7AA1BU20111111)
 1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20111111&t=2&i=530678178&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-11-11T090830Z_01_BTRE7AA0PE800_RTROPTP_0_UKRAINE-TYMOSHENKO)

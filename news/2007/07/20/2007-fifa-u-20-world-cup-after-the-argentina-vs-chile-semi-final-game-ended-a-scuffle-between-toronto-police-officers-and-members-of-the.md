@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2007/07/20/2007-fifa-u-20-world-cup-after-the-argentina-vs-chile-semi-final-game-ended-a-scuffle-between-toronto-police-officers-and-members-of-the.html)  [JSON](/news/2007/07/20/2007-fifa-u-20-world-cup-after-the-argentina-vs-chile-semi-final-game-ended-a-scuffle-between-toronto-police-officers-and-members-of-the.json)  [XML](/news/2007/07/20/2007-fifa-u-20-world-cup-after-the-argentina-vs-chile-semi-final-game-ended-a-scuffle-between-toronto-police-officers-and-members-of-the.xml)  
+
 ### [2007-07-20](/news/2007/07/20/index.md)
 
+##### 2007 FIFA U-20 World Cup
 #  2007 FIFA U-20 World Cup: After the Argentina vs Chile semi-final game ended, a scuffle between Toronto Police officers and members of the Chilean team led to the arrest of 21 players. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [TSN](http://www.tsn.ca/soccer/news_story/?ID=214096&hubname=soccer)
-1. [Cover Image](http://www.tsn.ca/img/tsn/logos/tsn-logo.png)
+1. [TSN](https://www.tsn.ca/soccer/news_story/?ID=214096&hubname=soccer)
 
 ### Related:
 

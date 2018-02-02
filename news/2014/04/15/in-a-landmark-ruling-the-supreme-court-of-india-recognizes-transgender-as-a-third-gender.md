@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/15/in-a-landmark-ruling-the-supreme-court-of-india-recognizes-transgender-as-a-third-gender.html)  [JSON](/news/2014/04/15/in-a-landmark-ruling-the-supreme-court-of-india-recognizes-transgender-as-a-third-gender.json)  [XML](/news/2014/04/15/in-a-landmark-ruling-the-supreme-court-of-india-recognizes-transgender-as-a-third-gender.xml)  
+
 ### [2014-04-15](/news/2014/04/15/index.md)
 
+##### Supreme Court of India
 # In a landmark ruling, the Supreme Court of India recognizes transgender as a "third gender". 
 
 The Supreme Court today created the &quot;third gender&quot; status for hijras or transgenders. The third gender people will be considered as OBCs.
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/Supreme-Court-recognizes-transgenders-as-third-gender/articleshow/33767900.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/33769568.cms)

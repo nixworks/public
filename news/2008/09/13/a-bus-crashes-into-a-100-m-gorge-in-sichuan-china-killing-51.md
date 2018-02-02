@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/13/a-bus-crashes-into-a-100-m-gorge-in-sichuan-china-killing-51.html)  [JSON](/news/2008/09/13/a-bus-crashes-into-a-100-m-gorge-in-sichuan-china-killing-51.json)  [XML](/news/2008/09/13/a-bus-crashes-into-a-100-m-gorge-in-sichuan-china-killing-51.xml)  
+
 ### [2008-09-13](/news/2008/09/13/index.md)
 
+##### Sichuan
 #  A bus crashes into a 100 m gorge in Sichuan, China, killing 51. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Zee News](http://www.zeenews.com/articles.asp?aid=468903&sid=WOR)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/29/14-islamist-militants-are-killed-in-an-operation-by-russian-forces-in-dagestan.html)  [JSON](/news/2010/09/29/14-islamist-militants-are-killed-in-an-operation-by-russian-forces-in-dagestan.json)  [XML](/news/2010/09/29/14-islamist-militants-are-killed-in-an-operation-by-russian-forces-in-dagestan.xml)  
+
 ### [2010-09-29](/news/2010/09/29/index.md)
 
+##### Islamist
 # 14 Islamist militants are killed in an operation by Russian forces in Dagestan. 
 
 Russian forces report killing 14 rebels in the North Caucasus region of Dagestan, as a top official advocates tough action.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11435298)
 2. [Reuters](http://ca.reuters.com/article/topNews/idCATRE68S2FN20100929)

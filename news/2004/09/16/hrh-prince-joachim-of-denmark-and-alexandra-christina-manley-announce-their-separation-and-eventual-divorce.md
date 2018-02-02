@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/16/hrh-prince-joachim-of-denmark-and-alexandra-christina-manley-announce-their-separation-and-eventual-divorce.html)  [JSON](/news/2004/09/16/hrh-prince-joachim-of-denmark-and-alexandra-christina-manley-announce-their-separation-and-eventual-divorce.json)  [XML](/news/2004/09/16/hrh-prince-joachim-of-denmark-and-alexandra-christina-manley-announce-their-separation-and-eventual-divorce.xml)  
+
 ### [2004-09-16](/news/2004/09/16/index.md)
 
+##### Prince Joachim of Denmark
 #  HRH Prince Joachim of Denmark and Alexandra Christina Manley announce their separation and eventual divorce. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Scotsman](http://thescotsman.scotsman.com/international.cfm?id=1091312004)
 

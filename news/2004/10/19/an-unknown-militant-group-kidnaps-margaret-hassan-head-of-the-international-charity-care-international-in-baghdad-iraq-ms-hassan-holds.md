@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/19/an-unknown-militant-group-kidnaps-margaret-hassan-head-of-the-international-charity-care-international-in-baghdad-iraq-ms-hassan-holds.html)  [JSON](/news/2004/10/19/an-unknown-militant-group-kidnaps-margaret-hassan-head-of-the-international-charity-care-international-in-baghdad-iraq-ms-hassan-holds.json)  [XML](/news/2004/10/19/an-unknown-militant-group-kidnaps-margaret-hassan-head-of-the-international-charity-care-international-in-baghdad-iraq-ms-hassan-holds.xml)  
+
 ### [2004-10-19](/news/2004/10/19/index.md)
 
+##### Margaret Hassan
 #  An unknown militant group kidnaps Margaret Hassan, head of the international charity CARE International, in Baghdad, Iraq. Ms. Hassan holds British, Irish and Iraqi citizenship. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP Australia](http://news.ninemsn.com.au/article.aspx?id=6115)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3755928.stm)
@@ -13,8 +17,8 @@
 
 ### Related:
 
-1. [Schools and hospitals are closed in Ireland and Northern Ireland as the extratropical cyclone Ophelia is forecasted to make landfall on the island. ](/news/2017/10/16/schools-and-hospitals-are-closed-in-ireland-and-northern-ireland-as-the-extratropical-cyclone-ophelia-is-forecasted-to-make-landfall-on-the.md) _Context: Ireland_
-2. [The Republic of Ireland announces a referendum on abortion will be held between May and June 2018. ](/news/2017/09/27/the-republic-of-ireland-announces-a-referendum-on-abortion-will-be-held-between-may-and-june-2018.md) _Context: Ireland_
-3. [Irish low-cost airline Ryanair cancels 82 Sunday flights as the first step in a six-week program that will eliminate 40 to 50 flights daily to wipe out its crew vacation backlog in order to meet Irish Aviation Authority requirements by the end of this year. ](/news/2017/09/16/irish-low-cost-airline-ryanair-cancels-82-sunday-flights-as-the-first-step-in-a-six-week-program-that-will-eliminate-40-to-50-flights-daily.md) _Context: Ireland_
-4. [A 3 year-old boy is stabbed to death in an incident in the Poddle Park area of Kimmage in Dublin, Ireland. The child's mother, believed to be an Iranian national, is being treated for knife wounds in hospital. ](/news/2017/07/10/a-3-year-old-boy-is-stabbed-to-death-in-an-incident-in-the-poddle-park-area-of-kimmage-in-dublin-ireland-the-child-s-mother-believed-to-b.md) _Context: Ireland_
-5. [Leo Varadkar becomes the new party leader of Fine Gael, after winning 51 of 73 votes in the parliamentary party, and is expected to become Taoiseach (Prime Minister) of Ireland, which would make him the youngest and first openly gay man to be Taoiseach, as well as being the first of half-Indian descent. ](/news/2017/06/2/leo-varadkar-becomes-the-new-party-leader-of-fine-gael-after-winning-51-of-73-votes-in-the-parliamentary-party-and-is-expected-to-become-t.md) _Context: Ireland_
+1. [Senior politicians express outrage after an investigative report by the "Financial Times" on groping practices at a Dorchester hotel charity gala held by the London-based Presidents Club old boy network. Boris Johnson and Mark Carney both deny knowing that their lunch or tea time was sold as lots in the club's charitable auction. ](/news/2018/01/24/senior-politicians-express-outrage-after-an-investigative-report-by-the-financial-times-on-groping-practices-at-a-dorchester-hotel-charity.md) _Context: charity_
+2. [A double suicide bombing kills at least 35 people and injures over 90 in Baghdad, Iraq. ](/news/2018/01/15/a-double-suicide-bombing-kills-at-least-35-people-and-injures-over-90-in-baghdad-iraq.md) _Context: Baghdad_
+3. [The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the U.K. and Ireland. ](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-u-k-a.md) _Context: Irish_
+4. [Apple Inc. and Ireland agree on an interim deal to put EUR13 billion in an escrow fund for the repayment of back taxes, starting early 2018. Still, both parties refute that the alleged "sweetheart" corporate tax deals were illegal. In 2016, the European Commission found that an unfair advantage of EUR13 billion is to be reimbursed. ](/news/2017/12/4/apple-inc-and-ireland-agree-on-an-interim-deal-to-put-a-13-billion-in-an-escrow-fund-for-the-repayment-of-back-taxes-starting-early-2018.md) _Context: Irish_
+5. [In an effort to avert strikes, the Irish low-cost carrier Ryanair reverses its long-standing policy of refusing to recognize pilots' labour unions. ](/news/2017/12/15/in-an-effort-to-avert-strikes-the-irish-low-cost-carrier-ryanair-reverses-its-long-standing-policy-of-refusing-to-recognize-pilots-labour.md) _Context: Irish_

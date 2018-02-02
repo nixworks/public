@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/30/the-president-of-the-united-states-george-w-bush-nominates-james-peake-as-the-next-united-states-secretary-of-veterans-affairs.html)  [JSON](/news/2007/10/30/the-president-of-the-united-states-george-w-bush-nominates-james-peake-as-the-next-united-states-secretary-of-veterans-affairs.json)  [XML](/news/2007/10/30/the-president-of-the-united-states-george-w-bush-nominates-james-peake-as-the-next-united-states-secretary-of-veterans-affairs.xml)  
+
 ### [2007-10-30](/news/2007/10/30/index.md)
 
+##### U.S. President
 #  The President of the United States George W. Bush nominates James Peake as the next United States Secretary of Veterans Affairs. 
 
 President Bush on Tuesday named a retired Army lieutenant general and executive of a firm that earns most of its revenue from federal veterans programs to head the troubled Department of Veterans...
 
 
-### Source:
+### Sources:
 
 1. [LA Times](http://www.latimes.com/news/nationworld/nation/la-na-va31oct31,1,3381711.story?track=crosspromo&coll=la-headlines-nation&ctrack=1&cset=true)
 1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

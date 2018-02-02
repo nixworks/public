@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/24/bolivian-president-carlos-mesa-declares-a-state-of-emergency-because-of-flooding-in-central-bolivia-which-killed-at-least-19-people-and-co.html)  [JSON](/news/2003/12/24/bolivian-president-carlos-mesa-declares-a-state-of-emergency-because-of-flooding-in-central-bolivia-which-killed-at-least-19-people-and-co.json)  [XML](/news/2003/12/24/bolivian-president-carlos-mesa-declares-a-state-of-emergency-because-of-flooding-in-central-bolivia-which-killed-at-least-19-people-and-co.xml)  
+
 ### [2003-12-24](/news/2003/12/24/index.md)
 
+##### Bolivia
 #  Bolivian President Carlos Mesa declares a state of emergency because of flooding in central Bolivia, which killed at least 19 people and collapsed a bridge crucial to Bolivian exports. [http:--story.news.yahoo.com-news?tmpl=story&cid=589&ncid=721&e=8&u=-ap-20031224-ap_on_re_la_am_ca-bolivia_flood]
 
 

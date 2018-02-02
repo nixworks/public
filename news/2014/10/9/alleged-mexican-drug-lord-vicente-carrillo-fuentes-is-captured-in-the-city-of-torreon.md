@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/9/alleged-mexican-drug-lord-vicente-carrillo-fuentes-is-captured-in-the-city-of-torreon.html)  [JSON](/news/2014/10/9/alleged-mexican-drug-lord-vicente-carrillo-fuentes-is-captured-in-the-city-of-torreon.json)  [XML](/news/2014/10/9/alleged-mexican-drug-lord-vicente-carrillo-fuentes-is-captured-in-the-city-of-torreon.xml)  
+
 ### [2014-10-9](/news/2014/10/9/index.md)
 
+##### Mexican
 # Alleged Mexican drug lord Vicente Carrillo Fuentes is captured in the city of Torreon. 
 
 The last brother running the once-notorious Juarez drug cartel, Vicente Carrillo Fuentes, was captured Thursday in central Mexico, authorities said.
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/world/mexico-americas/la-fg-mexico-cartel-arrest-20141009-story.html)
 1. [Cover Image](http://www.trbimg.com/img-54374569/turbine/la-fg-mexico-cartel-arrest-20141009)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/01/4/the-united-states-department-of-labor-announces-that-the-united-states-unemployment-rate-rose-to-5-8-in-december.html)  [JSON](/news/2002/01/4/the-united-states-department-of-labor-announces-that-the-united-states-unemployment-rate-rose-to-5-8-in-december.json)  [XML](/news/2002/01/4/the-united-states-department-of-labor-announces-that-the-united-states-unemployment-rate-rose-to-5-8-in-december.xml)  
+
 ### [2002-01-4](/news/2002/01/4/index.md)
 
+##### United States Department of Labor
 # The United States Department of Labor announces that the United States unemployment rate rose to 5.8% in December.
 
 

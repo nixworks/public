@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/06/7/drone-attacks-in-pakistan-a-u-s-drone-attack-kills-at-least-seven-people-in-pakistan.html)  [JSON](/news/2013/06/7/drone-attacks-in-pakistan-a-u-s-drone-attack-kills-at-least-seven-people-in-pakistan.json)  [XML](/news/2013/06/7/drone-attacks-in-pakistan-a-u-s-drone-attack-kills-at-least-seven-people-in-pakistan.xml)  
+
 ### [2013-06-7](/news/2013/06/7/index.md)
 
+##### drones launch
 # Drone attacks in Pakistan: A U.S. drone attack kills at least seven people in Pakistan. 
 
 Prime Minister Nawaz Sharif has often criticized the United States’ use of unmanned aircraft against militants.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2013/06/08/world/asia/us-drone-strikes-pakistan-as-sharif-names-cabinet.html)
+1. [The New York Times](https://www.nytimes.com/2013/06/08/world/asia/us-drone-strikes-pakistan-as-sharif-names-cabinet.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

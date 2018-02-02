@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/06/10/apple-computer-announces-its-http-www-itworld-com-comp-1184-040610liquidcooling-new-top-of-the-line-mac-g5-will-use-water-cooling-tech.html)  [JSON](/news/2004/06/10/apple-computer-announces-its-http-www-itworld-com-comp-1184-040610liquidcooling-new-top-of-the-line-mac-g5-will-use-water-cooling-tech.json)  [XML](/news/2004/06/10/apple-computer-announces-its-http-www-itworld-com-comp-1184-040610liquidcooling-new-top-of-the-line-mac-g5-will-use-water-cooling-tech.xml)  
+
 ### [2004-06-10](/news/2004/06/10/index.md)
 
+##### Apple Computer
 #  Apple Computer announces its [http:--www.itworld.com-Comp-1184-040610liquidcooling- new top-of-the-line] Mac G5 will use water-cooling technology. ITworld
 
 

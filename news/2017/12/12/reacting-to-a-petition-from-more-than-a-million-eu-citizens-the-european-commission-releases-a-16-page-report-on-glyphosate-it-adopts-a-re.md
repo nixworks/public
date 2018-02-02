@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/12/reacting-to-a-petition-from-more-than-a-million
 
 ### [2017-12-12](/news/2017/12/12/index.md)
 
+##### Regulation of chemicals
 # Reacting to a petition from more than a million EU citizens, the European Commission releases a 16-page report on glyphosate. It adopts a renewal of the approval of glyphosate for a 5-year period and plans to improve the science reviewing process. 
 
 

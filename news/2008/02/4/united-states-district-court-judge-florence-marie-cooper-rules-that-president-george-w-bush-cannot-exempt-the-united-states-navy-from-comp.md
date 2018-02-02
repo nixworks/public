@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/4/united-states-district-court-judge-florence-marie-cooper-rules-that-president-george-w-bush-cannot-exempt-the-united-states-navy-from-comp.html)  [JSON](/news/2008/02/4/united-states-district-court-judge-florence-marie-cooper-rules-that-president-george-w-bush-cannot-exempt-the-united-states-navy-from-comp.json)  [XML](/news/2008/02/4/united-states-district-court-judge-florence-marie-cooper-rules-that-president-george-w-bush-cannot-exempt-the-united-states-navy-from-comp.xml)  
+
 ### [2008-02-4](/news/2008/02/4/index.md)
 
+##### U.S. federal court
 #  United States district court judge Florence-Marie Cooper rules that President George W. Bush cannot exempt the United States Navy from complying with environmental laws banning sonar training. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''San Jose Mercury News](http://www.mercurynews.com/news/ci_8166236)
 

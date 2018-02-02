@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2015/10/16/president-park-geun-hye-of-south-korea-is-in-washington-d-c-and-met-with-president-barack-obama-at-the-white-house.html)  [JSON](/news/2015/10/16/president-park-geun-hye-of-south-korea-is-in-washington-d-c-and-met-with-president-barack-obama-at-the-white-house.json)  [XML](/news/2015/10/16/president-park-geun-hye-of-south-korea-is-in-washington-d-c-and-met-with-president-barack-obama-at-the-white-house.xml)  
+
 ### [2015-10-16](/news/2015/10/16/index.md)
 
+##### Park Geun-hye
 # President Park Geun-hye of South Korea is in Washington, D.C. and met with President Barack Obama at The White House. 
 
+A summit of Park Geun-hye and Prime Minister Shinzo Abe of Japan would be welcomed by Washington, which wants its main East Asian allies to mend ties.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2015/10/17/world/asia/south-korea-japan-summit-park-geun-hye-shinzo-abe.html)
+1. [New York Times](https://www.nytimes.com/2015/10/17/world/asia/south-korea-japan-summit-park-geun-hye-shinzo-abe.html)
+1. [Cover Image](https://static01.nyt.com/images/2015/10/17/world/asia/17Korea-web/17Korea-web-facebookJumbo.jpg)
 
 ### Related:
 

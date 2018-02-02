@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/25/in-the-northern-uganda-city-of-lira-protests-and-riots-cause-at-least-nine-deaths-after-the-ugandan-army-announces-it-killed-21-members-of.html)  [JSON](/news/2004/02/25/in-the-northern-uganda-city-of-lira-protests-and-riots-cause-at-least-nine-deaths-after-the-ugandan-army-announces-it-killed-21-members-of.json)  [XML](/news/2004/02/25/in-the-northern-uganda-city-of-lira-protests-and-riots-cause-at-least-nine-deaths-after-the-ugandan-army-announces-it-killed-21-members-of.xml)  
+
 ### [2004-02-25](/news/2004/02/25/index.md)
 
+##### Uganda
 #  In the northern Uganda city of Lira, protests and riots cause at least nine deaths after the Ugandan army announces it killed 21 members of the Lord's Resistance Army, a rebel group, in retaliation for an attack on a refugee camp at Barlonyo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/WORLD/africa/02/25/uganda.massacre.rebels.ap/index.html)
 

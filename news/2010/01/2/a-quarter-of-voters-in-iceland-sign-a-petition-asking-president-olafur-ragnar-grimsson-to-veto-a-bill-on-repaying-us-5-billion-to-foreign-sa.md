@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/2/a-quarter-of-voters-in-iceland-sign-a-petition-asking-president-olafur-ragnar-grimsson-to-veto-a-bill-on-repaying-us-5-billion-to-foreign-sa.html)  [JSON](/news/2010/01/2/a-quarter-of-voters-in-iceland-sign-a-petition-asking-president-olafur-ragnar-grimsson-to-veto-a-bill-on-repaying-us-5-billion-to-foreign-sa.json)  [XML](/news/2010/01/2/a-quarter-of-voters-in-iceland-sign-a-petition-asking-president-olafur-ragnar-grimsson-to-veto-a-bill-on-repaying-us-5-billion-to-foreign-sa.xml)  
+
 ### [2010-01-2](/news/2010/01/2/index.md)
 
+##### Iceland
 # A quarter of voters in Iceland sign a petition asking President lafur Ragnar Grmsson to veto a bill on repaying US$5 billion to foreign savers who lost their money when Icelandic banks collapsed. 
 
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Business/wireStory?id=9464814)
 2. [Iceland Review](http://www.icelandreview.com/icelandreview/daily_news/?cat_id=16568&ew_0_a_id=355964)

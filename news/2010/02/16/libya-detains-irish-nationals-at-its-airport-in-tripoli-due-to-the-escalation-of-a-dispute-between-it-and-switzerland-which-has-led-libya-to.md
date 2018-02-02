@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/16/libya-detains-irish-nationals-at-its-airport-in-tripoli-due-to-the-escalation-of-a-dispute-between-it-and-switzerland-which-has-led-libya-to.html)  [JSON](/news/2010/02/16/libya-detains-irish-nationals-at-its-airport-in-tripoli-due-to-the-escalation-of-a-dispute-between-it-and-switzerland-which-has-led-libya-to.json)  [XML](/news/2010/02/16/libya-detains-irish-nationals-at-its-airport-in-tripoli-due-to-the-escalation-of-a-dispute-between-it-and-switzerland-which-has-led-libya-to.xml)  
+
 ### [2010-02-16](/news/2010/02/16/index.md)
 
+##### Libya
 # Libya detains Irish nationals at its airport in Tripoli due to the escalation of a dispute between it and Switzerland which has led Libya to refuse anyone from the Schengen area, despite Ireland not being a member. 
 
 TWO IRISH nationals have been detained at the airport in Libya&rsquo;s capital Tripoli after being unwittingly caught up in a long-&hellip;
 
 
-### Source:
+### Sources:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2010/0216/1224264554590.html)
 1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)

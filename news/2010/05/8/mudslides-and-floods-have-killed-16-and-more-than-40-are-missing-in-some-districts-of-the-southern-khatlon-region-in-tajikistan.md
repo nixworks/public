@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/8/mudslides-and-floods-have-killed-16-and-more-than-40-are-missing-in-some-districts-of-the-southern-khatlon-region-in-tajikistan.html)  [JSON](/news/2010/05/8/mudslides-and-floods-have-killed-16-and-more-than-40-are-missing-in-some-districts-of-the-southern-khatlon-region-in-tajikistan.json)  [XML](/news/2010/05/8/mudslides-and-floods-have-killed-16-and-more-than-40-are-missing-in-some-districts-of-the-southern-khatlon-region-in-tajikistan.xml)  
+
 ### [2010-05-8](/news/2010/05/8/index.md)
 
+##### Khatlon
 # Mudslides and floods have killed 16, and more than 40 are missing in some districts of the southern Khatlon region in Tajikistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ITAR](http://www.itar-tass.com/eng/level2.html?NewsID=15104383&PageNum=0)
 

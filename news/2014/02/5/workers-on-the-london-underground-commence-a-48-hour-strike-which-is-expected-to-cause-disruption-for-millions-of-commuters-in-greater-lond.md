@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/5/workers-on-the-london-underground-commence-a-48-hour-strike-which-is-expected-to-cause-disruption-for-millions-of-commuters-in-greater-lond.html)  [JSON](/news/2014/02/5/workers-on-the-london-underground-commence-a-48-hour-strike-which-is-expected-to-cause-disruption-for-millions-of-commuters-in-greater-lond.json)  [XML](/news/2014/02/5/workers-on-the-london-underground-commence-a-48-hour-strike-which-is-expected-to-cause-disruption-for-millions-of-commuters-in-greater-lond.xml)  
+
 ### [2014-02-5](/news/2014/02/5/index.md)
 
+##### London Underground
 # Workers on the London Underground commence a 48-hour strike, which is expected to cause disruption for millions of commuters in Greater London. 
 
 Tube passengers endure delays because of strike action, with Underground bosses now calling on unions to meet sooner to discuss the impasse.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-26043372#)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72785000/jpg/_72785854_72785853.jpg)

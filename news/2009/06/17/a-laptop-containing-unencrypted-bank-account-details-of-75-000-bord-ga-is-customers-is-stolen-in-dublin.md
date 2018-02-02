@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/17/a-laptop-containing-unencrypted-bank-account-details-of-75-000-bord-ga-is-customers-is-stolen-in-dublin.html)  [JSON](/news/2009/06/17/a-laptop-containing-unencrypted-bank-account-details-of-75-000-bord-ga-is-customers-is-stolen-in-dublin.json)  [XML](/news/2009/06/17/a-laptop-containing-unencrypted-bank-account-details-of-75-000-bord-ga-is-customers-is-stolen-in-dublin.xml)  
+
 ### [2009-06-17](/news/2009/06/17/index.md)
 
+##### Bord Gais
 #  A laptop containing unencrypted bank account details of 75,000 Bord Gais customers is stolen in Dublin. 
 
 A laptop containing bank account details of 75,000 Bord Gáis customers has been stolen in Dublin.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8106231.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0617/bordgais.html)

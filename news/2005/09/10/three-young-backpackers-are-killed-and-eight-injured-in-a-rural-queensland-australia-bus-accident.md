@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/10/three-young-backpackers-are-killed-and-eight-injured-in-a-rural-queensland-australia-bus-accident.html)  [JSON](/news/2005/09/10/three-young-backpackers-are-killed-and-eight-injured-in-a-rural-queensland-australia-bus-accident.json)  [XML](/news/2005/09/10/three-young-backpackers-are-killed-and-eight-injured-in-a-rural-queensland-australia-bus-accident.xml)  
+
 ### [2005-09-10](/news/2005/09/10/index.md)
 
+##### Queensland
 #  Three young backpackers are killed and eight injured in a rural Queensland, Australia bus accident. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [  (Sydney Morning Herald](http://www.smh.com.au/news/national/backpackers-killed-in-bus-crash/2005/09/11/1125772738214.html?oneclick=true)
 

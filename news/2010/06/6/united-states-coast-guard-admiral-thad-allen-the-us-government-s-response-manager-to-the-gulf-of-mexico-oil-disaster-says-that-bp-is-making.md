@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/06/6/united-states-coast-guard-admiral-thad-allen-the-us-government-s-response-manager-to-the-gulf-of-mexico-oil-disaster-says-that-bp-is-making.html)  [JSON](/news/2010/06/6/united-states-coast-guard-admiral-thad-allen-the-us-government-s-response-manager-to-the-gulf-of-mexico-oil-disaster-says-that-bp-is-making.json)  [XML](/news/2010/06/6/united-states-coast-guard-admiral-thad-allen-the-us-government-s-response-manager-to-the-gulf-of-mexico-oil-disaster-says-that-bp-is-making.xml)  
+
 ### [2010-06-6](/news/2010/06/6/index.md)
 
+##### United States Coast Guard
 # United States Coast Guard Admiral Thad Allen, the US government's response manager to the Gulf of Mexico oil disaster says that BP is making progress stopping the oil flow, but that it is too early to call the effort a success and the spill may continue for several months. 
 
 The Coast Guard warned that even if the flow of oil was capped by summer, it could take until autumn to deal with the damage spreading across the gulf.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/US/06/06/gulf.oil.spill/index.html)
-2. [The New York Times](http://www.nytimes.com/2010/06/07/us/07spill.html?hp)
+2. [The New York Times](https://www.nytimes.com/2010/06/07/us/07spill.html?hp)
 2. [Cover Image](https://static01.nyt.com/images/2010/06/07/us/JP-SPILL/JP-SPILL-thumbStandard.jpg)
 
 ### Related:

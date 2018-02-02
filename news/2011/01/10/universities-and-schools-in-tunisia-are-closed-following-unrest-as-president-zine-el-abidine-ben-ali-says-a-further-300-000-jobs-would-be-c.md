@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2011/01/10/universities-and-schools-in-tunisia-are-closed-following-unrest-as-president-zine-el-abidine-ben-ali-says-a-further-300-000-jobs-would-be-c.html)  [JSON](/news/2011/01/10/universities-and-schools-in-tunisia-are-closed-following-unrest-as-president-zine-el-abidine-ben-ali-says-a-further-300-000-jobs-would-be-c.json)  [XML](/news/2011/01/10/universities-and-schools-in-tunisia-are-closed-following-unrest-as-president-zine-el-abidine-ben-ali-says-a-further-300-000-jobs-would-be-c.xml)  
+
 ### [2011-01-10](/news/2011/01/10/index.md)
 
+##### Tunisia
 # Universities and schools in Tunisia are closed following unrest, as President Zine El Abidine Ben Ali says a further 300,000 jobs would be created. 
 
 Warning to those involved in violent protests in north African nation tempered with pledge to tackle high unemployment.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hB-pk_CIvDDEAuGDd7cWeWpH5tAg?docId=CNG.a7256a3419e3e3b03b8d1b50e17ae892.c81)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/201111016239214548.html)
-3. [Reuters](http://www.reuters.com/article/idUSLDE7091ZB20110110)
+3. [Reuters](https://www.reuters.com/article/idUSLDE7091ZB20110110)
 3. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/3/201113131644799876_20.jpg)
 
 ### Related:

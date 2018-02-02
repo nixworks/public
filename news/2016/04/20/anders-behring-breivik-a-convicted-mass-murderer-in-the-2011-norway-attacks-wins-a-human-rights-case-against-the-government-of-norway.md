@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/20/anders-behring-breivik-a-convicted-mass-murdere
 
 ### [2016-04-20](/news/2016/04/20/index.md)
 
+##### Anders Behring Breivik
 # Anders Behring Breivik, a convicted mass murderer in the 2011 Norway attacks, wins a human rights case against the government of Norway. 
 
 Mass murderer Anders Behring Breivik wins part of a human rights case against the Norwegian state, alleging &quot;inhuman or degrading treatment&quot;.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/9/kosovar-prime-minister-hashim-thaci-unveils-a-welcome-to-the-republic-of-kosovo-sign-in-albanian-serbian-and-english-at-the-border-wi.html)  [JSON](/news/2008/03/9/kosovar-prime-minister-hashim-thaci-unveils-a-welcome-to-the-republic-of-kosovo-sign-in-albanian-serbian-and-english-at-the-border-wi.json)  [XML](/news/2008/03/9/kosovar-prime-minister-hashim-thaci-unveils-a-welcome-to-the-republic-of-kosovo-sign-in-albanian-serbian-and-english-at-the-border-wi.xml)  
+
 ### [2008-03-9](/news/2008/03/9/index.md)
 
+##### Kosovo
 #  Kosovar Prime Minister Hashim Thai unveils a "Welcome to the Republic of Kosovo" sign (in Albanian, Serbian, and English) at the border with Serbia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [EuroNews](http://www.euronews.net/index.php?page=info&article=474236&lng=1)
 

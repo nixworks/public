@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/17/the-olympic-council-of-asia-chooses-incheon-south-korea-over-new-delhi-india-to-host-the-2014-asian-games.html)  [JSON](/news/2007/04/17/the-olympic-council-of-asia-chooses-incheon-south-korea-over-new-delhi-india-to-host-the-2014-asian-games.json)  [XML](/news/2007/04/17/the-olympic-council-of-asia-chooses-incheon-south-korea-over-new-delhi-india-to-host-the-2014-asian-games.xml)  
+
 ### [2007-04-17](/news/2007/04/17/index.md)
 
+##### Olympic Council of Asia
 #  The Olympic Council of Asia chooses Incheon, South Korea over New Delhi, India, to host the 2014 Asian Games. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6565373.stm)
 

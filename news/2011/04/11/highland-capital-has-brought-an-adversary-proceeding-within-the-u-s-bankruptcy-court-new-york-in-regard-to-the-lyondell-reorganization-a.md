@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/11/highland-capital-has-brought-an-adversary-proceeding-within-the-u-s-bankruptcy-court-new-york-in-regard-to-the-lyondell-reorganization-a.html)  [JSON](/news/2011/04/11/highland-capital-has-brought-an-adversary-proceeding-within-the-u-s-bankruptcy-court-new-york-in-regard-to-the-lyondell-reorganization-a.json)  [XML](/news/2011/04/11/highland-capital-has-brought-an-adversary-proceeding-within-the-u-s-bankruptcy-court-new-york-in-regard-to-the-lyondell-reorganization-a.xml)  
+
 ### [2011-04-11](/news/2011/04/11/index.md)
 
+##### Highland Capital
 # Highland Capital has brought an adversary proceeding within the U.S. bankruptcy court, New York, in regard to the Lyondell reorganization, against the securities unit of UBS AG for third-party inferenece with a contract between Highland and Lyondell. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BusinessWeek](http://www.businessweek.com/news/2011-04-11/highland-capital-sues-ubs-securities-over-lyondell-loan.html)
 

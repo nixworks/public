@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/4/trading-on-the-shanghai-stock-exchange-and-the-s
 
 ### [2016-01-4](/news/2016/01/4/index.md)
 
+##### 2015 Chinese stock market crash
 # Trading on the Shanghai Stock Exchange and the Shenzhen Stock Exchange are suspended for the day after stock indices plummeted by 6.85% and 8.1% respectively. 
 
 Wall Street closed sharply lower Monday after weak Chinese economic data ignited fears of global growth and sparked a selloff in stock markets across the world.

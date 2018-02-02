@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/23/tens-of-thousands-of-people-protest-against-a-new-law-which-gives-women-equal-rights-in-marriage-in-bamako-mali.html)  [JSON](/news/2009/08/23/tens-of-thousands-of-people-protest-against-a-new-law-which-gives-women-equal-rights-in-marriage-in-bamako-mali.json)  [XML](/news/2009/08/23/tens-of-thousands-of-people-protest-against-a-new-law-which-gives-women-equal-rights-in-marriage-in-bamako-mali.xml)  
+
 ### [2009-08-23](/news/2009/08/23/index.md)
 
+##### women equal rights
 #  Tens of thousands of people protest against a new law which gives women equal rights in marriage in Bamako, Mali. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Afrique en ligne](http://www.afriquejet.com/news/africa-news/mali:-malian-muslims-reject-new-family-code-2009082433848.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8216568.stm)

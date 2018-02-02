@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/29/u-s-talk-show-host-ellen-degeneres-announces-that-she-is-leaving-the-american-idol-television-show-after-one-year-as-a-judge.html)  [JSON](/news/2010/07/29/u-s-talk-show-host-ellen-degeneres-announces-that-she-is-leaving-the-american-idol-television-show-after-one-year-as-a-judge.json)  [XML](/news/2010/07/29/u-s-talk-show-host-ellen-degeneres-announces-that-she-is-leaving-the-american-idol-television-show-after-one-year-as-a-judge.xml)  
+
 ### [2010-07-29](/news/2010/07/29/index.md)
 
+##### Ellen DeGeneres
 # U.S. talk-show host Ellen DeGeneres announces that she is leaving the "American Idol" television show after one year as a judge. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [People](http://tvwatch.people.com/2010/07/29/ellen-degeneres-bows-out-of-american-idol/)
 

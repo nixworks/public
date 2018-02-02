@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/05/4/a-heavy-lift-ariane-5-rocket-blasts-off-from-french-guiana-putting-into-orbit-two-telecommunications-satellites-astra-1l-and-galaxy-17.html)  [JSON](/news/2007/05/4/a-heavy-lift-ariane-5-rocket-blasts-off-from-french-guiana-putting-into-orbit-two-telecommunications-satellites-astra-1l-and-galaxy-17.json)  [XML](/news/2007/05/4/a-heavy-lift-ariane-5-rocket-blasts-off-from-french-guiana-putting-into-orbit-two-telecommunications-satellites-astra-1l-and-galaxy-17.xml)  
+
 ### [2007-05-4](/news/2007/05/4/index.md)
 
+##### Ariane 5
 #  A heavy-lift "Ariane 5" rocket blasts off from French Guiana putting into orbit two telecommunications satellites, Astra 1L and Galaxy 17. 
 
 A heavy-lift Ariane-5 rocket blasted off from French Guiana on Friday putting into orbit two telecommunications satellites, space officials said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/scienceNews/idUSL0317978520070504)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070504&t=2&i=749060&w=&fh=545px&fw=&ll=&pl=&sq=&r=749060)
+1. [Reuters](https://www.reuters.com/article/scienceNews/idUSL0317978520070504)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20070504&t=2&i=749060&w=&fh=545px&fw=&ll=&pl=&sq=&r=749060)
 
 ### Related:
 

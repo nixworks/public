@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/11/ali-larijani-is-sworn-in-as-chairman-of-the-parliament-of-iran-for-another-term.html)  [JSON](/news/2012/06/11/ali-larijani-is-sworn-in-as-chairman-of-the-parliament-of-iran-for-another-term.json)  [XML](/news/2012/06/11/ali-larijani-is-sworn-in-as-chairman-of-the-parliament-of-iran-for-another-term.xml)  
+
 ### [2012-06-11](/news/2012/06/11/index.md)
 
+##### Ali Larijani
 # Ali Larijani is sworn in as Chairman of the Parliament of Iran for another term. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://www.presstv.ir)
 

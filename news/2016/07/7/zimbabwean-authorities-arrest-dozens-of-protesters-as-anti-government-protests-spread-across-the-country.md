@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/7/zimbabwean-authorities-arrest-dozens-of-proteste
 
 ### [2016-07-7](/news/2016/07/7/index.md)
 
+##### 2016 Zimbabwe protests
 # Zimbabwean authorities arrest dozens of protesters as anti-government protests spread across the country. 
 
 Zimbabweans carry out nationwide strike and protests in the capital against the economic conditions in the country.

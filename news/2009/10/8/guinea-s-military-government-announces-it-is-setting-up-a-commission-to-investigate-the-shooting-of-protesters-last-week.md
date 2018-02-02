@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/10/8/guinea-s-military-government-announces-it-is-setting-up-a-commission-to-investigate-the-shooting-of-protesters-last-week.html)  [JSON](/news/2009/10/8/guinea-s-military-government-announces-it-is-setting-up-a-commission-to-investigate-the-shooting-of-protesters-last-week.json)  [XML](/news/2009/10/8/guinea-s-military-government-announces-it-is-setting-up-a-commission-to-investigate-the-shooting-of-protesters-last-week.xml)  
+
 ### [2009-10-8](/news/2009/10/8/index.md)
 
+##### Guinea
 #  Guinea's military government announces it is setting up a commission to investigate the shooting of protesters last week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8296446.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=a1aJ9jD9_XNA)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=a1aJ9jD9_XNA)
 
 ### Related:
 

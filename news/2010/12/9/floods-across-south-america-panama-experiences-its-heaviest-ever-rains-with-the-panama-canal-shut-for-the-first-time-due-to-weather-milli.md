@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/9/floods-across-south-america-panama-experiences-its-heaviest-ever-rains-with-the-panama-canal-shut-for-the-first-time-due-to-weather-milli.html)  [JSON](/news/2010/12/9/floods-across-south-america-panama-experiences-its-heaviest-ever-rains-with-the-panama-canal-shut-for-the-first-time-due-to-weather-milli.json)  [XML](/news/2010/12/9/floods-across-south-america-panama-experiences-its-heaviest-ever-rains-with-the-panama-canal-shut-for-the-first-time-due-to-weather-milli.xml)  
+
 ### [2010-12-9](/news/2010/12/9/index.md)
 
+##### Panama
 # Floods across South America: Panama experiences its heaviest ever rains, with the Panama Canal shut for the first time due to weather. Millions of people are affected across the region, and there are deaths, including in Colombia and Venezuela. 
 
 Panama is latest of countries in region to be hit by floods this week after Colombia and Venezuela.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/indepth/features/2010/12/20101291105624120.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/9/2010129111537138371_20.jpg)

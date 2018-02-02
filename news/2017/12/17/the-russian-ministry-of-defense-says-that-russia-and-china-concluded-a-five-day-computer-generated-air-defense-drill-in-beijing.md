@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/17/the-russian-ministry-of-defense-says-that-russi
 
 ### [2017-12-17](/news/2017/12/17/index.md)
 
+##### China-Russia relations
 # The Russian Ministry of Defense says that Russia and China concluded a five-day computer-generated air defense drill in Beijing. 
 
 Both countries share land borders with Kim Jong Un&#039;s secretive state.

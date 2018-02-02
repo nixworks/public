@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/04/12/in-israel-mordechai-vanunu-is-charged-with-21-counts-of-violating-the-terms-of-his-parole.html)  [JSON](/news/2005/04/12/in-israel-mordechai-vanunu-is-charged-with-21-counts-of-violating-the-terms-of-his-parole.json)  [XML](/news/2005/04/12/in-israel-mordechai-vanunu-is-charged-with-21-counts-of-violating-the-terms-of-his-parole.xml)  
+
 ### [2005-04-12](/news/2005/04/12/index.md)
 
+##### Israel
 #  In Israel, Mordechai Vanunu is charged with 21 counts of violating the terms of his parole. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [Arutz Sheva](http://www.israelnn.com/news.php3?id=80124)
 2. [Ha'aretz](http://www.haaretz.com/hasen/spages/564195.html)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=8158062&type=worldNews)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?storyID=8158062&type=worldNews)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

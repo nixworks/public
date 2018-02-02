@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/11/2/s-p-thamilselvan-the-political-chief-of-the-sri-lankan-rebel-group-tamil-tigers-is-killed-in-an-attack-by-the-sri-lanka-air-force-near.html)  [JSON](/news/2007/11/2/s-p-thamilselvan-the-political-chief-of-the-sri-lankan-rebel-group-tamil-tigers-is-killed-in-an-attack-by-the-sri-lanka-air-force-near.json)  [XML](/news/2007/11/2/s-p-thamilselvan-the-political-chief-of-the-sri-lankan-rebel-group-tamil-tigers-is-killed-in-an-attack-by-the-sri-lanka-air-force-near.xml)  
+
 ### [2007-11-2](/news/2007/11/2/index.md)
 
+##### S. P. Thamilselvan
 #  S. P. Thamilselvan, the political chief of the Sri Lankan rebel group Tamil Tigers, is killed in an attack by the Sri Lanka Air Force near Kilinochchi. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aDd0aTugSUks&refer=home)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=aDd0aTugSUks&refer=home)
 
 ### Related:
 

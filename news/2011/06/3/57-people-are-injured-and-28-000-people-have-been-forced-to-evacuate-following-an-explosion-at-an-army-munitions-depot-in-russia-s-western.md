@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/3/57-people-are-injured-and-28-000-people-have-been-forced-to-evacuate-following-an-explosion-at-an-army-munitions-depot-in-russia-s-western.html)  [JSON](/news/2011/06/3/57-people-are-injured-and-28-000-people-have-been-forced-to-evacuate-following-an-explosion-at-an-army-munitions-depot-in-russia-s-western.json)  [XML](/news/2011/06/3/57-people-are-injured-and-28-000-people-have-been-forced-to-evacuate-following-an-explosion-at-an-army-munitions-depot-in-russia-s-western.xml)  
+
 ### [2011-06-3](/news/2011/06/3/index.md)
 
+##### munitions
 # 57 people are injured, and 28,000 people have been forced to evacuate, following an explosion at an army munitions depot in Russia's western Ural Mountains region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/europe/06/03/russia.munitions.depot.fire/index.html)
 1. [Cover Image](http://i.cdn.turner.com/cnn/.element/img/3.0/newsscanner/no_image_cnn_90x51.jpg)

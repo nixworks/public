@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/09/23/an-egyptian-court-bans-all-muslim-brotherhood-activities-nationwide-and-its-assets-will-be-confiscated-according-to-the-court-ruling.html)  [JSON](/news/2013/09/23/an-egyptian-court-bans-all-muslim-brotherhood-activities-nationwide-and-its-assets-will-be-confiscated-according-to-the-court-ruling.json)  [XML](/news/2013/09/23/an-egyptian-court-bans-all-muslim-brotherhood-activities-nationwide-and-its-assets-will-be-confiscated-according-to-the-court-ruling.xml)  
+
 ### [2013-09-23](/news/2013/09/23/index.md)
 
+##### Muslim Brotherhood
 # An Egyptian court bans all Muslim Brotherhood activities nationwide and its assets will be confiscated according to the court ruling. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/09/23/us-egypt-brotherhood-idUSBRE98M0QR20130923)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130923&t=2&i=796736482&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE98M161S00)
+1. [Reuters](https://www.reuters.com/article/2013/09/23/us-egypt-brotherhood-idUSBRE98M0QR20130923)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130923&t=2&i=796736482&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE98M161S00)
 
 ### Related:
 

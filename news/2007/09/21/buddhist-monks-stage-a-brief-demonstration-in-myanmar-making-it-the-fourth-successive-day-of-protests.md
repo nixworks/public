@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/21/buddhist-monks-stage-a-brief-demonstration-in-myanmar-making-it-the-fourth-successive-day-of-protests.html)  [JSON](/news/2007/09/21/buddhist-monks-stage-a-brief-demonstration-in-myanmar-making-it-the-fourth-successive-day-of-protests.json)  [XML](/news/2007/09/21/buddhist-monks-stage-a-brief-demonstration-in-myanmar-making-it-the-fourth-successive-day-of-protests.xml)  
+
 ### [2007-09-21](/news/2007/09/21/index.md)
 
+##### Buddhist
 #  Buddhist monks stage a brief demonstration in Myanmar making it the fourth successive day of protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/09/21/myanmar.monks.ap/index.html?eref=rss_world)
 

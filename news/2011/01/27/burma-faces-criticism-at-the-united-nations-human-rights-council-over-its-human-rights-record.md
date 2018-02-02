@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/27/burma-faces-criticism-at-the-united-nations-human-rights-council-over-its-human-rights-record.html)  [JSON](/news/2011/01/27/burma-faces-criticism-at-the-united-nations-human-rights-council-over-its-human-rights-record.json)  [XML](/news/2011/01/27/burma-faces-criticism-at-the-united-nations-human-rights-council-over-its-human-rights-record.xml)  
+
 ### [2011-01-27](/news/2011/01/27/index.md)
 
+##### Burma
 # Burma faces criticism at the United Nations Human Rights Council over its human rights record. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_628949.html)
 

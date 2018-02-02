@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/22/the-president-of-venezuela-nicola-s-maduro-and-the-president-of-colombia-juan-manuel-santos-agree-to-gradually-reopen-their-common-border-wh.html)  [JSON](/news/2015/09/22/the-president-of-venezuela-nicola-s-maduro-and-the-president-of-colombia-juan-manuel-santos-agree-to-gradually-reopen-their-common-border-wh.json)  [XML](/news/2015/09/22/the-president-of-venezuela-nicola-s-maduro-and-the-president-of-colombia-juan-manuel-santos-agree-to-gradually-reopen-their-common-border-wh.xml)  
+
 ### [2015-09-22](/news/2015/09/22/index.md)
 
+##### President
 # The President of Venezuela Nicolas Maduro and the President of Colombia Juan Manuel Santos agree to gradually reopen their common border which had been closed following a Venezuelan crackdown on smuggling. 
 
 The leaders of Venezuela and Colombia agree to &quot;normalise&quot; the situation at their joint border, which Venezuela closed a month ago.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-34318634)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/6501/production/_85675852_85675821.jpg)

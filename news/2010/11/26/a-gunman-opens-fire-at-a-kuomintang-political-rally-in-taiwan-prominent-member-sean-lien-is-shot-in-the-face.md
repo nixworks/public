@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/11/26/a-gunman-opens-fire-at-a-kuomintang-political-rally-in-taiwan-prominent-member-sean-lien-is-shot-in-the-face.html)  [JSON](/news/2010/11/26/a-gunman-opens-fire-at-a-kuomintang-political-rally-in-taiwan-prominent-member-sean-lien-is-shot-in-the-face.json)  [XML](/news/2010/11/26/a-gunman-opens-fire-at-a-kuomintang-political-rally-in-taiwan-prominent-member-sean-lien-is-shot-in-the-face.xml)  
+
 ### [2010-11-26](/news/2010/11/26/index.md)
 
+##### Kuomintang (Chinese Nationalist Party)
 # A gunman opens fire at a Kuomintang political rally in Taiwan; prominent member Sean Lien is shot in the face. 
 
 A gunman opened fire on a campaign rally near Taipei yesterday, killing one man and critically wounding the son of a former vice-president on the eve of key local elections. A suspect is in custody and may belong to a gang.
 
 
-### Source:
+### Sources:
 
 1. [Focus Taiwan News Channel](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aIPL&ID=201011270001)
-2. [The Independent](http://www.independent.co.uk/news/world/asia/shooting-mars-taiwan-local-elections-2145025.html)
+2. [The Independent](https://www.independent.co.uk/news/world/asia/shooting-mars-taiwan-local-elections-2145025.html)
 2. [Cover Image](http://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20101127/2010112700011.jpg)
 
 ### Related:

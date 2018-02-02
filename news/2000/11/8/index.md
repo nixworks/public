@@ -1,7 +1,7 @@
-## [2000-11-8](/news/2000/11/8/index.md)
 
-### [The third and final stage of the Egyptian parliamentary election, 2000, ends in victory for the ruling National Democratic Party.](/news/2000/11/8/the-third-and-final-stage-of-the-egyptian-parliamentary-election-2000-ends-in-victory-for-the-ruling-national-democratic-party.md)
-_Context: Egyptian parliamentary election, 2000_
+Formats: [HTML](2000/11/8/index.html)  [JSON](2000/11/8/index.json)  [XML](2000/11/8/index.xml)  
+
+## [2000-11-8](/news/2000/11/8/index.md)
 
 ## [Previous Day...](/news/2000/11/7/index.md)
 

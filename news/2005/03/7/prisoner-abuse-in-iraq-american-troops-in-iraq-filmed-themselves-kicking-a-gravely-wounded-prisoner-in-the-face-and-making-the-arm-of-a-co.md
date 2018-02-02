@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/7/prisoner-abuse-in-iraq-american-troops-in-iraq-filmed-themselves-kicking-a-gravely-wounded-prisoner-in-the-face-and-making-the-arm-of-a-co.html)  [JSON](/news/2005/03/7/prisoner-abuse-in-iraq-american-troops-in-iraq-filmed-themselves-kicking-a-gravely-wounded-prisoner-in-the-face-and-making-the-arm-of-a-co.json)  [XML](/news/2005/03/7/prisoner-abuse-in-iraq-american-troops-in-iraq-filmed-themselves-kicking-a-gravely-wounded-prisoner-in-the-face-and-making-the-arm-of-a-co.xml)  
+
 ### [2005-03-7](/news/2005/03/7/index.md)
 
+##### Prisoner abuse in Iraq
 #  Prisoner abuse in Iraq: American troops in Iraq filmed themselves kicking a gravely wounded prisoner in the face and making the arm of a corpse appear to wave, then titled the effort "Ramadi Madness" after the city where it was made. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Yahoo](http://story.news.yahoo.com/news?tmpl=story2&u=/nm/20050308/ts_nm/iraq_usa_abuse_dc)
 

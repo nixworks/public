@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2005/03/1/the-president-of-ukraine-viktor-yushchenko-announces-that-suspected-killers-of-a-journalist-georgiy-gongadze-have-been-arrested.html)  [JSON](/news/2005/03/1/the-president-of-ukraine-viktor-yushchenko-announces-that-suspected-killers-of-a-journalist-georgiy-gongadze-have-been-arrested.json)  [XML](/news/2005/03/1/the-president-of-ukraine-viktor-yushchenko-announces-that-suspected-killers-of-a-journalist-georgiy-gongadze-have-been-arrested.xml)  
+
 ### [2005-03-1](/news/2005/03/1/index.md)
 
+##### Ukrainian President
 #  The President of Ukraine, Viktor Yushchenko, announces that suspected killers of a journalist Georgiy Gongadze have been arrested 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4308681.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aea9GKQWrPjg&refer=top_world_news)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000087&sid=aea9GKQWrPjg&refer=top_world_news)
 3. [DVC, Ukraine](http://zadonbass.org/en/news/message.html?id=11435)
-4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7776318)
-4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+4. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7776318)
+4. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

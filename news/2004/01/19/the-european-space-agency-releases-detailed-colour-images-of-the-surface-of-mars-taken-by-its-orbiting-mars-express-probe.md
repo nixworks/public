@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/19/the-european-space-agency-releases-detailed-colour-images-of-the-surface-of-mars-taken-by-its-orbiting-mars-express-probe.html)  [JSON](/news/2004/01/19/the-european-space-agency-releases-detailed-colour-images-of-the-surface-of-mars-taken-by-its-orbiting-mars-express-probe.json)  [XML](/news/2004/01/19/the-european-space-agency-releases-detailed-colour-images-of-the-surface-of-mars-taken-by-its-orbiting-mars-express-probe.xml)  
+
 ### [2004-01-19](/news/2004/01/19/index.md)
 
+##### European Space Agency
 #  The European Space Agency releases detailed colour images of the surface of Mars, taken by its orbiting Mars Express probe.
 
 

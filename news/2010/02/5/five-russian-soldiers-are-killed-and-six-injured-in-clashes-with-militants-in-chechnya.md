@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/5/five-russian-soldiers-are-killed-and-six-injured-in-clashes-with-militants-in-chechnya.html)  [JSON](/news/2010/02/5/five-russian-soldiers-are-killed-and-six-injured-in-clashes-with-militants-in-chechnya.json)  [XML](/news/2010/02/5/five-russian-soldiers-are-killed-and-six-injured-in-clashes-with-militants-in-chechnya.xml)  
+
 ### [2010-02-5](/news/2010/02/5/index.md)
 
+##### Russia
 # Five Russian soldiers are killed and six injured in clashes with militants in Chechnya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News24](http://www.news24.com/Content/World/News/1073/f2cd5cb6351c4373aedd4b7fa535e461/05-02-2010-02-14/Chechnya_clashes_kill_5_troops)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=117928&sectionid=351020602)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/20/iran-buries-its-dead-members-of-the-revolutionary-guard-killed-in-a-suicide-attack-two-days-ago-thousands-of-people-attend-the-funerals.html)  [JSON](/news/2009/10/20/iran-buries-its-dead-members-of-the-revolutionary-guard-killed-in-a-suicide-attack-two-days-ago-thousands-of-people-attend-the-funerals.json)  [XML](/news/2009/10/20/iran-buries-its-dead-members-of-the-revolutionary-guard-killed-in-a-suicide-attack-two-days-ago-thousands-of-people-attend-the-funerals.xml)  
+
 ### [2009-10-20](/news/2009/10/20/index.md)
 
+##### Iran
 #  Iran buries its dead members of the Revolutionary Guard, killed in a suicide attack two days ago. Thousands of people attend the funerals. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8316278.stm)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=109099&sectionid=351020101)

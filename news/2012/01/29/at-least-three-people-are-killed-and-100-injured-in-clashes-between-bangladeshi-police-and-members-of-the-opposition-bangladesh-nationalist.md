@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/29/at-least-three-people-are-killed-and-100-injured-in-clashes-between-bangladeshi-police-and-members-of-the-opposition-bangladesh-nationalist.html)  [JSON](/news/2012/01/29/at-least-three-people-are-killed-and-100-injured-in-clashes-between-bangladeshi-police-and-members-of-the-opposition-bangladesh-nationalist.json)  [XML](/news/2012/01/29/at-least-three-people-are-killed-and-100-injured-in-clashes-between-bangladeshi-police-and-members-of-the-opposition-bangladesh-nationalist.xml)  
+
 ### [2012-01-29](/news/2012/01/29/index.md)
 
+##### Bangladeshi police
 # At least three people are killed and 100 injured in clashes between Bangladeshi police and members of the opposition Bangladesh Nationalist Party protesting against the government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Yahoo](http://old.news.yahoo.com/s/nm/20120129/wl_nm/us_bangladesh_violence)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/19/israeli-prime-minister-benjamin-netanyahu-asks-
 
 ### [2016-05-19](/news/2016/05/19/index.md)
 
+##### Israel
 # Israeli Prime Minister Benjamin Netanyahu asks Yisrael Beiteinu party leader and former Foreign Minister Avigdor Lieberman to be Defense Minister. Current defense minister and former army chief of staff Moshe Ya'alon's role in the future government is unclear. Leiberman is known for his hawkish and uncompromising views. 
 
 Binyamin Netanyahu makes U-turn to offer hard-right politician key cabinet job after first pursuing deal with centrists

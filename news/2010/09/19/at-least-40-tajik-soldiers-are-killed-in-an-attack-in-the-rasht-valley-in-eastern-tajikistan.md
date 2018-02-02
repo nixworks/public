@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/19/at-least-40-tajik-soldiers-are-killed-in-an-attack-in-the-rasht-valley-in-eastern-tajikistan.html)  [JSON](/news/2010/09/19/at-least-40-tajik-soldiers-are-killed-in-an-attack-in-the-rasht-valley-in-eastern-tajikistan.json)  [XML](/news/2010/09/19/at-least-40-tajik-soldiers-are-killed-in-an-attack-in-the-rasht-valley-in-eastern-tajikistan.xml)  
+
 ### [2010-09-19](/news/2010/09/19/index.md)
 
+##### Tajik
 # At least 40 Tajik soldiers are killed in an attack in the Rasht Valley in eastern Tajikistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/09/19/tajikistan.soldiers.killed/)
 2. [RIA Novosti](http://en.rian.ru/world/20100920/160645744.html)

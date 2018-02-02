@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/27/robert-mugabe-says-that-his-former-supporters-a
 
 ### [2016-07-27](/news/2016/07/27/index.md)
 
+##### 2016 Zimbabwe protests
 # Robert Mugabe says that his former supporters are to suffer severe punishment for supporting the protests. 
 
 

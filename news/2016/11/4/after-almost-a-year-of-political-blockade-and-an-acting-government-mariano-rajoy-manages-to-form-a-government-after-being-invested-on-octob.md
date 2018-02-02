@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2016/11/4/after-almost-a-year-of-political-blockade-and-an-acting-government-mariano-rajoy-manages-to-form-a-government-after-being-invested-on-octob.html)  [JSON](/news/2016/11/4/after-almost-a-year-of-political-blockade-and-an-acting-government-mariano-rajoy-manages-to-form-a-government-after-being-invested-on-octob.json)  [XML](/news/2016/11/4/after-almost-a-year-of-political-blockade-and-an-acting-government-mariano-rajoy-manages-to-form-a-government-after-being-invested-on-octob.xml)  
+
 ### [2016-11-4](/news/2016/11/4/index.md)
 
+##### Spanish general election, 2016
 # After almost a year of political blockade and an acting government, Mariano Rajoy manages to form a government after being invested on October 29-
 
 
 
 
-### Related:
-
-1. [Spanish Prime Minister Mariano Rajoy deploys the 41st Logistic Support Group of the Spanish Armed Forces in Catalonia to support riot police in Barcelona. ](/news/2017/10/4/spanish-prime-minister-mariano-rajoy-deploys-the-41st-logistic-support-group-of-the-spanish-armed-forces-in-catalonia-to-support-riot-police.md) _Context: Mariano Rajoy_
-2. [ Spanish Prime Minister, Mariano Rajoy, called to testify in corruption scandal (Gurtel case) trial. ](/news/2017/04/20/spanish-prime-minister-mariano-rajoy-called-to-testify-in-corruption-scandal-ga1-4rtel-case-trial.md) _Context: Mariano Rajoy_
-3. [The Spanish Parliament votes to allow Prime Minister Mariano Rajoy to lead a People's Party minority government after a ten month interregnum. ](/news/2016/10/29/the-spanish-parliament-votes-to-allow-prime-minister-mariano-rajoy-to-lead-a-people-s-party-minority-government-after-a-ten-month-interregnu.md) _Context: Mariano Rajoy_
-4. [The Socialist Workers' Party, following the party's 139-96 vote approving this action, say they will abstain from voting against acting Prime Minister Mariano Rajoy when he puts his People's Party coalition government to parliament this week, thereby ending the 10-month deadlock. ](/news/2016/10/23/the-socialist-workers-party-following-the-party-s-139a96-vote-approving-this-action-say-they-will-abstain-from-voting-against-acting-pr.md) _Context: Mariano Rajoy_
-5. [Voters in Spain go to the polls for a general election six months after an inconclusive election. Polls indicate that no party will be in position to form a government. ](/news/2016/06/26/voters-in-spain-go-to-the-polls-for-a-general-election-six-months-after-an-inconclusive-election-polls-indicate-that-no-party-will-be-in-po.md) _Context: Spanish general election, 2016_
-
 ### Changes:
 
 1. [Spanish general election, 2016: After almost a year of political blockade and an acting government, Mariano Rajoy manages to form a government after being invested on October 29-](/news/2016/11/4/spanish-general-election-2016-after-almost-a-year-of-political-blockade-and-an-acting-government-mariano-rajoy-manages-to-form-a-governme.md) _2017-08-27 03:47:10 (First version)_
 1. [After almost a year of political blockade and an acting government, Mariano Rajoy manages to form a government after being invested on October 29-](/news/2016/11/4/after-almost-a-year-of-political-blockade-and-an-acting-government-mariano-rajoy-manages-to-form-a-government-after-being-invested-on-octob.md) _(Current version)_
+
+### Related:
+
+1. [The Parliament of Catalonia opens the new legislature. Roger Torrent (ERC) is named Speaker. Three parliamentarians in jail vote through proxies, the five parlementarians in exile in Belgium do not. Carles Puigdemont (PDeCAT, JuntsxCat), through his spokesman, considers it "perfectly plausible" for him to be president remotely. Spanish Prime Minister Mariano Rajoy says that he will not restore Catalonia's autonomous powers if the regional parliament permits Puigdemont to lead the government from exile. ](/news/2018/01/17/the-parliament-of-catalonia-opens-the-new-legislature-roger-torrent-erc-is-named-speaker-three-parliamentarians-in-jail-vote-through-pro.md) _Context: Mariano Rajoy_
+2. [Spanish Prime Minister Mariano Rajoy deploys the 41st Logistic Support Group of the Spanish Armed Forces in Catalonia to support riot police in Barcelona. ](/news/2017/10/4/spanish-prime-minister-mariano-rajoy-deploys-the-41st-logistic-support-group-of-the-spanish-armed-forces-in-catalonia-to-support-riot-police.md) _Context: Mariano Rajoy_
+3. [The Prime Minister of Spain, Mariano Rajoy, activates Article 155 of the Constitution of Spain. This will put Catalonia under the direct control of the central government, removing the regional government and completely limit the power of the Parliament of Catalonia. The regional police and media will also be under its control. ](/news/2017/10/21/the-prime-minister-of-spain-mariano-rajoy-activates-article-155-of-the-constitution-of-spain-this-will-put-catalonia-under-the-direct-con.md) _Context: Mariano Rajoy_
+4. [Spanish Prime Minister Mariano Rajoy warns Catalonian President Carles Puigdemont that the region's autonomy will be suspended if he fails to drop the Catalonian government's bid for secession by 10:00 AM CEST (08:00 AM GMT). ](/news/2017/10/19/spanish-prime-minister-mariano-rajoy-warns-catalonian-president-carles-puigdemont-that-the-region-s-autonomy-will-be-suspended-if-he-fails-t.md) _Context: Mariano Rajoy_
+5. [ Spanish Prime Minister, Mariano Rajoy, called to testify in corruption scandal (Gurtel case) trial. ](/news/2017/04/20/spanish-prime-minister-mariano-rajoy-called-to-testify-in-corruption-scandal-ga1-4rtel-case-trial.md) _Context: Mariano Rajoy_

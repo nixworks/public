@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/10/a-jury-in-a-u-s-federal-court-in-scranton-penns
 
 ### [2016-03-10](/news/2016/03/10/index.md)
 
+##### U.S. federal court
 # A jury in a U.S. federal court in Scranton, Pennsylvania says that Cabot Oil must pay plaintiffs $4.2 million in damages that resulted from Cabot's fracking operations in the northeast part of that state. 
 
 

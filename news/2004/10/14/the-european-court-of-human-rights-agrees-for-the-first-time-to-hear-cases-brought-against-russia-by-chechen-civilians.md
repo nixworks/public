@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/14/the-european-court-of-human-rights-agrees-for-the-first-time-to-hear-cases-brought-against-russia-by-chechen-civilians.html)  [JSON](/news/2004/10/14/the-european-court-of-human-rights-agrees-for-the-first-time-to-hear-cases-brought-against-russia-by-chechen-civilians.json)  [XML](/news/2004/10/14/the-european-court-of-human-rights-agrees-for-the-first-time-to-hear-cases-brought-against-russia-by-chechen-civilians.xml)  
+
 ### [2004-10-14](/news/2004/10/14/index.md)
 
+##### European Court of Human Rights
 #  The European Court of Human Rights agrees, for the first time, to hear cases brought against Russia by Chechen civilians. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/3741718.stm)
 2. [ECHR press release](http://www.echr.coe.int/Eng/Press/2004/Oct/AnnounceHearingsOctober2004.htm)

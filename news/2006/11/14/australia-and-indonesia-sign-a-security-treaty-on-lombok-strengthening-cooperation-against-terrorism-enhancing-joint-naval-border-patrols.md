@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/14/australia-and-indonesia-sign-a-security-treaty-on-lombok-strengthening-cooperation-against-terrorism-enhancing-joint-naval-border-patrols.html)  [JSON](/news/2006/11/14/australia-and-indonesia-sign-a-security-treaty-on-lombok-strengthening-cooperation-against-terrorism-enhancing-joint-naval-border-patrols.json)  [XML](/news/2006/11/14/australia-and-indonesia-sign-a-security-treaty-on-lombok-strengthening-cooperation-against-terrorism-enhancing-joint-naval-border-patrols.xml)  
+
 ### [2006-11-14](/news/2006/11/14/index.md)
 
+##### Australia
 #  Australia and Indonesia sign a security treaty on Lombok strengthening cooperation against terrorism, enhancing joint naval border patrols and formalising military exchanges. It also supports Indonesia's sovereignty over its provinces notably Western New Guinea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/newsitems/200611/s1787648.htm)
 

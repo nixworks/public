@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/24/trinidad-and-tobago-holds-a-general-election-resulting-in-the-victory-of-the-united-national-congress-and-kamla-persad-bissessar-becoming.html)  [JSON](/news/2010/05/24/trinidad-and-tobago-holds-a-general-election-resulting-in-the-victory-of-the-united-national-congress-and-kamla-persad-bissessar-becoming.json)  [XML](/news/2010/05/24/trinidad-and-tobago-holds-a-general-election-resulting-in-the-victory-of-the-united-national-congress-and-kamla-persad-bissessar-becoming.xml)  
+
 ### [2010-05-24](/news/2010/05/24/index.md)
 
+##### Trinidad and Tobago
 # Trinidad and Tobago holds a general election, resulting in the victory of the United National Congress, and Kamla Persad-Bissessar becoming its first female Prime Minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CaribbeanWorldNews](http://www.caribbeanworldnews.com/middle_top_news_detail.php?mid=3525)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-05/25/c_13314180.htm)

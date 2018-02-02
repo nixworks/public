@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/13/abu-ghraib-prisoner-abuse-some-members-of-the-british-government-begin-to-distance-themselves-from-the-bush-administration-and-prime-minis.html)  [JSON](/news/2004/05/13/abu-ghraib-prisoner-abuse-some-members-of-the-british-government-begin-to-distance-themselves-from-the-bush-administration-and-prime-minis.json)  [XML](/news/2004/05/13/abu-ghraib-prisoner-abuse-some-members-of-the-british-government-begin-to-distance-themselves-from-the-bush-administration-and-prime-minis.xml)  
+
 ### [2004-05-13](/news/2004/05/13/index.md)
 
+##### Abu Ghraib prisoner abuse
 #  Abu Ghraib prisoner abuse: Some members of the British government begin to distance themselves from the Bush administration and Prime Minister Tony Blair. Peter Hain, Leader of the House of Commons, tells Parliament that the pictures are "appalling and possibly in breach of the Geneva Convention". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/Iraq/Story/0,2763,1215446,00.html)
 2. [The Independent](http://news.independent.co.uk/uk/politics/story.jsp?story=520734)

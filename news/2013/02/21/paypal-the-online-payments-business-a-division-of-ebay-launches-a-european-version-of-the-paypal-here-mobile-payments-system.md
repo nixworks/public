@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/02/21/paypal-the-online-payments-business-a-division-of-ebay-launches-a-european-version-of-the-paypal-here-mobile-payments-system.html)  [JSON](/news/2013/02/21/paypal-the-online-payments-business-a-division-of-ebay-launches-a-european-version-of-the-paypal-here-mobile-payments-system.json)  [XML](/news/2013/02/21/paypal-the-online-payments-business-a-division-of-ebay-launches-a-european-version-of-the-paypal-here-mobile-payments-system.xml)  
+
 ### [2013-02-21](/news/2013/02/21/index.md)
 
+##### PayPal
 # PayPal, the online payments business, a division of eBay, launches a European version of the PayPal Here mobile payments system. 
 
 PayPal launched a European version of its PayPal Here mobile payments service for small merchants on Thursday as the online payments division of eBay Inc steps up competition with rivals, including Square Inc.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/02/22/us-paypal-europe-idUSBRE91L00620130222)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2013/02/22/us-paypal-europe-idUSBRE91L00620130222)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

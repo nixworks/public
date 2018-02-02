@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/23/in-spain-bomb-explodes-in-santiago-de-compostela-near-regional-savings-bank-caixa-galicia-there-are-no-casualties-government-blames-gali.html)  [JSON](/news/2005/07/23/in-spain-bomb-explodes-in-santiago-de-compostela-near-regional-savings-bank-caixa-galicia-there-are-no-casualties-government-blames-gali.json)  [XML](/news/2005/07/23/in-spain-bomb-explodes-in-santiago-de-compostela-near-regional-savings-bank-caixa-galicia-there-are-no-casualties-government-blames-gali.xml)  
+
 ### [2005-07-23](/news/2005/07/23/index.md)
 
+##### Spain
 #  In Spain, bomb explodes in Santiago de Compostela near regional savings bank Caixa Galicia. There are no casualties. Government blames Galician separatists. Police have arrested two people 
 
 
 
 
-### Source:
+### Sources:
 
 1. [EITB](http://www.eitb24.com/noticia_en.php?id=77730)
 2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-23T174347Z_01_MOL363809_RTRUKOC_0_SPAIN-EXPLOSION.xml)

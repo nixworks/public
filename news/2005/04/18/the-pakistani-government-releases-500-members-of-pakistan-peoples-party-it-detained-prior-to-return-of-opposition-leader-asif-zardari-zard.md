@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/18/the-pakistani-government-releases-500-members-of-pakistan-peoples-party-it-detained-prior-to-return-of-opposition-leader-asif-zardari-zard.html)  [JSON](/news/2005/04/18/the-pakistani-government-releases-500-members-of-pakistan-peoples-party-it-detained-prior-to-return-of-opposition-leader-asif-zardari-zard.json)  [XML](/news/2005/04/18/the-pakistani-government-releases-500-members-of-pakistan-peoples-party-it-detained-prior-to-return-of-opposition-leader-asif-zardari-zard.xml)  
+
 ### [2005-04-18](/news/2005/04/18/index.md)
 
+##### Pakistan
 #  The Pakistani government releases 500 members of Pakistan Peoples Party it detained prior to return of opposition leader Asif Zardari. Zardari hopes to have dialogue with the government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4456695.stm)
 2. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=story_18-4-2005_pg1_3)
@@ -19,4 +23,4 @@
 2. [ 37 people are killed in a suicide car bombing in Pakistan's tribal region after a meeting of the Pakistan Peoples Party, reports say. ](/news/2008/02/16/37-people-are-killed-in-a-suicide-car-bombing-in-pakistan-s-tribal-region-after-a-meeting-of-the-pakistan-peoples-party-reports-say.md) _Context: Pakistan, Pakistan Peoples Party_
 3. [ The Pakistan Peoples Party (PPP) demands general elections in Pakistan in two months time.date=December 2007 ](/news/2007/10/22/the-pakistan-peoples-party-ppp-demands-general-elections-in-pakistan-in-two-months-time-date-december-2007.md) _Context: Pakistan, Pakistan Peoples Party_
 4. [ Pakistan's Anti Terrorism Court cancels the bail of Asif Ali Zardari, leader of the Pakistan Peoples Party and husband of Benazir Bhutto. Zardari was released last month after eight years in prison. He was charged with corruption and conspiracy to murder. ](/news/2004/12/21/pakistan-s-anti-terrorism-court-cancels-the-bail-of-asif-ali-zardari-leader-of-the-pakistan-peoples-party-and-husband-of-benazir-bhutto-z.md) _Context: Pakistan, Pakistan Peoples Party_
-5. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Pakistan_
+5. [ More than 200 people die in accidents related to storms in Karachi, Pakistan. ](/news/2018/06/24/more-than-200-people-die-in-accidents-related-to-storms-in-karachi-pakistan.md) _Context: Pakistan_

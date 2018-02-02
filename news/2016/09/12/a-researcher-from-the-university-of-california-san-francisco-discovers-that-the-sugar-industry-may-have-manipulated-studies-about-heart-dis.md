@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/12/a-researcher-from-the-university-of-california-
 
 ### [2016-09-12](/news/2016/09/12/index.md)
 
+##### University of California, San Francisco
 # A researcher from the University of California, San Francisco discovers that the sugar industry may have manipulated studies about heart diseases. 
 
 A sugar industry group paid for studies that underplayed the role that added sugars play in heart disease, researchers reported Monday.

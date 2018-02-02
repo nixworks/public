@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/29/middlesbrough-win-the-league-cup-2a1-against-bolton-at-the-millennium-stadium-cardiff.html)  [JSON](/news/2004/02/29/middlesbrough-win-the-league-cup-2a1-against-bolton-at-the-millennium-stadium-cardiff.json)  [XML](/news/2004/02/29/middlesbrough-win-the-league-cup-2a1-against-bolton-at-the-millennium-stadium-cardiff.xml)  
+
 ### [2004-02-29](/news/2004/02/29/index.md)
 
+##### Middlesbrough
 #  Middlesbrough win the League Cup 2-1 against Bolton at the Millennium Stadium, Cardiff.
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/21/the-death-toll-from-the-turkish-wedding-bombing
 
 ### [2016-08-21](/news/2016/08/21/index.md)
 
+##### Gaziantep bombing
 # The death toll from the Turkish wedding bombing rises to 50 with up to 94 people injured. Islamic State in Iraq and the Levant is suspected of conducting the attack. 
 
 

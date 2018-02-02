@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/4/authorities-in-ecuador-order-the-evacuation-of-people-from-the-slopes-of-the-tungurahua-volcano-after-it-begins-spewing-ash.html)  [JSON](/news/2010/12/4/authorities-in-ecuador-order-the-evacuation-of-people-from-the-slopes-of-the-tungurahua-volcano-after-it-begins-spewing-ash.json)  [XML](/news/2010/12/4/authorities-in-ecuador-order-the-evacuation-of-people-from-the-slopes-of-the-tungurahua-volcano-after-it-begins-spewing-ash.xml)  
+
 ### [2010-12-4](/news/2010/12/4/index.md)
 
+##### Ecuador
 # Authorities in Ecuador order the evacuation of people from the slopes of the Tungurahua volcano after it begins spewing ash. 
 
 Ecuador is evacuating people from towns and villages around the Tungurahua volcano after a rapid increase in seismic activity on Saturday.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jNAm_uyS8K7AsQTQTDmGTBfYlzqQ?docId=CNG.4ec000ac223af687b35012b2d23e1330.12f1)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11920406)

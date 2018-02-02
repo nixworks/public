@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/6/japanese-police-launch-an-investigation-after-four-people-die-of-food-poisoning-after-eating-raw-meat-at-a-yakiniku-restaurant-chain-in-ishi.html)  [JSON](/news/2011/05/6/japanese-police-launch-an-investigation-after-four-people-die-of-food-poisoning-after-eating-raw-meat-at-a-yakiniku-restaurant-chain-in-ishi.json)  [XML](/news/2011/05/6/japanese-police-launch-an-investigation-after-four-people-die-of-food-poisoning-after-eating-raw-meat-at-a-yakiniku-restaurant-chain-in-ishi.xml)  
+
 ### [2011-05-6](/news/2011/05/6/index.md)
 
+##### Japanese police
 # Japanese police launch an investigation after four people die of food poisoning after eating raw meat at a Yakiniku restaurant chain in Ishikawa Prefecture. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Japan Today](http://www.japantoday.com/category/crime/view/police-launch-investigation-over-fatal-food-poisoning)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/10/22/conflict-in-iraq-staff-sergeant-george-t-alexander-jr-becomes-the-2000th-u-s-military-fatality-in-iraq.html)  [JSON](/news/2005/10/22/conflict-in-iraq-staff-sergeant-george-t-alexander-jr-becomes-the-2000th-u-s-military-fatality-in-iraq.json)  [XML](/news/2005/10/22/conflict-in-iraq-staff-sergeant-george-t-alexander-jr-becomes-the-2000th-u-s-military-fatality-in-iraq.xml)  
+
 ### [2005-10-22](/news/2005/10/22/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: Staff Sergeant George T. Alexander, Jr. becomes the 2000th U.S. military fatality in Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [DOD](http://www.defenselink.mil/releases/2005/nr20051025-4982.html)
-2. [Yahoo/AFP](http://news.yahoo.com/s/afp/20051025/ts_afp/iraq_051025110145&printer=1)
+2. [Yahoo/AFP](https://news.yahoo.com/s/afp/20051025/ts_afp/iraq_051025110145&printer=1)
 
 ### Related:
 

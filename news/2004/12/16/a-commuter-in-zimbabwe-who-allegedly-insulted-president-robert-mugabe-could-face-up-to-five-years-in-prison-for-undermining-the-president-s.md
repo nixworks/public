@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/16/a-commuter-in-zimbabwe-who-allegedly-insulted-president-robert-mugabe-could-face-up-to-five-years-in-prison-for-undermining-the-president-s.html)  [JSON](/news/2004/12/16/a-commuter-in-zimbabwe-who-allegedly-insulted-president-robert-mugabe-could-face-up-to-five-years-in-prison-for-undermining-the-president-s.json)  [XML](/news/2004/12/16/a-commuter-in-zimbabwe-who-allegedly-insulted-president-robert-mugabe-could-face-up-to-five-years-in-prison-for-undermining-the-president-s.xml)  
+
 ### [2004-12-16](/news/2004/12/16/index.md)
 
+##### commuter
 #  A commuter in Zimbabwe who allegedly insulted President Robert Mugabe could face up to five years in prison for undermining the president's authority. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4098237.stm)
 

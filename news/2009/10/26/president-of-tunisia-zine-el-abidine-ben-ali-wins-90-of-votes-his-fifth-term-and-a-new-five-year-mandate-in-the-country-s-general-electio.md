@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/26/president-of-tunisia-zine-el-abidine-ben-ali-wins-90-of-votes-his-fifth-term-and-a-new-five-year-mandate-in-the-country-s-general-electio.html)  [JSON](/news/2009/10/26/president-of-tunisia-zine-el-abidine-ben-ali-wins-90-of-votes-his-fifth-term-and-a-new-five-year-mandate-in-the-country-s-general-electio.json)  [XML](/news/2009/10/26/president-of-tunisia-zine-el-abidine-ben-ali-wins-90-of-votes-his-fifth-term-and-a-new-five-year-mandate-in-the-country-s-general-electio.xml)  
+
 ### [2009-10-26](/news/2009/10/26/index.md)
 
+##### President
 #  President of Tunisia Zine El Abidine Ben Ali wins 90% of votes, his fifth term and a new five-year mandate in the country's general election. 
 
 Ben Ali on course to win fifth term in office, according to initial official results.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/10/2009102644027187464.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8325378.stm)

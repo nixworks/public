@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/10/east-timor-faces-a-humanitarian-crisis-as-hundreds-of-houses-are-burnt-down-near-viqueque-and-affected-villagers-flee-to-the-mountains.html)  [JSON](/news/2007/08/10/east-timor-faces-a-humanitarian-crisis-as-hundreds-of-houses-are-burnt-down-near-viqueque-and-affected-villagers-flee-to-the-mountains.json)  [XML](/news/2007/08/10/east-timor-faces-a-humanitarian-crisis-as-hundreds-of-houses-are-burnt-down-near-viqueque-and-affected-villagers-flee-to-the-mountains.xml)  
+
 ### [2007-08-10](/news/2007/08/10/index.md)
 
+##### East Timor
 #  East Timor faces a humanitarian crisis as hundreds of houses are burnt down near Viqueque and affected villagers flee to the mountains. 
 
 East Timor is facing a new humanitarian emergency, with hundreds of houses burnt in the country&#039;s east and more than 1,000 villagers fleeing to the mountains.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2007/08/10/2001661.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/634578-1x1-700x700.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/19/a-donation-campaign-raises-less-money-than-expected-towards-a-newer-containment-shell-at-chernobyl.html)  [JSON](/news/2011/04/19/a-donation-campaign-raises-less-money-than-expected-towards-a-newer-containment-shell-at-chernobyl.json)  [XML](/news/2011/04/19/a-donation-campaign-raises-less-money-than-expected-towards-a-newer-containment-shell-at-chernobyl.xml)  
+
 ### [2011-04-19](/news/2011/04/19/index.md)
 
+##### containment shell
 # A donation campaign raises less money than expected towards a newer containment shell at Chernobyl. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/04/2011419203114563968.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/19/2011419204221183148_20.jpg)

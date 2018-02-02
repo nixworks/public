@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/10/italian-deputy-prime-minister-marco-follini-calls-for-an-early-general-election-after-the-centre-right-coalition-of-prime-minister-silvio-b.html)  [JSON](/news/2005/04/10/italian-deputy-prime-minister-marco-follini-calls-for-an-early-general-election-after-the-centre-right-coalition-of-prime-minister-silvio-b.json)  [XML](/news/2005/04/10/italian-deputy-prime-minister-marco-follini-calls-for-an-early-general-election-after-the-centre-right-coalition-of-prime-minister-silvio-b.xml)  
+
 ### [2005-04-10](/news/2005/04/10/index.md)
 
+##### Italy
 #  Italian deputy prime minister Marco Follini calls for an early general election after the centre-right coalition of prime minister Silvio Berlusconi lost in a regional ballot last week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AGI](http://www.agi.it/english/news.pl?doc=200504051639-1187-RT1-CRO-0-NF82&page=0&id=agionline-eng.italyonline)
 2. [ITH](http://www.iht.com/articles/2005/04/10/news/italy.html)

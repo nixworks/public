@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/7/more-than-twenty-student-leaders-are-arrested-across-burma.html)  [JSON](/news/2012/07/7/more-than-twenty-student-leaders-are-arrested-across-burma.json)  [XML](/news/2012/07/7/more-than-twenty-student-leaders-are-arrested-across-burma.xml)  
+
 ### [2012-07-7](/news/2012/07/7/index.md)
 
+##### Burma
 # More than twenty student leaders are arrested across Burma. 
 
 More than 20 student leaders are released after being held across Burma over plans to commemorate suppression of student protests 50 years ago.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18751203)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/61425000/jpg/_61425995_61425994.jpg)

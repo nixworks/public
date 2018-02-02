@@ -1,28 +1,32 @@
+
+Formats: [HTML](/news/2012/07/11/56-people-are-reportedly-killed-by-the-syrian-army-including-a-red-crescent-worker.html)  [JSON](/news/2012/07/11/56-people-are-reportedly-killed-by-the-syrian-army-including-a-red-crescent-worker.json)  [XML](/news/2012/07/11/56-people-are-reportedly-killed-by-the-syrian-army-including-a-red-crescent-worker.xml)  
+
 ### [2012-07-11](/news/2012/07/11/index.md)
 
+##### Syrian army's
 # 56 people are reportedly killed by the Syrian army, including a Red Crescent worker. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/07/11/world/meast/syria-unrest/index.html)
 2. [Ghana Broadcasting Corporation](http://www.gbcghana.com/index.php?id=1.959642)
 3. [Naharnet](http://www.naharnet.com/stories/en/46193-red-crescent-worker-among-56-killed-in-syria)
-4. [Reuters](http://www.reuters.com/article/2012/07/11/us-syria-crisis-idUSBRE8610SH20120711)
-4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120711&t=2&i=629203502&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86A0PPA00)
-
-### Related:
-
-1. [The Syrian Army breaks the nine month long siege of the Deir ez-Zor Airport by ISIL militants. ](/news/2017/09/9/the-syrian-army-breaks-the-nine-month-long-siege-of-the-deir-ez-zor-airport-by-isil-militants.md) _Context: Syrian Army_
-2. [It is suspected that Israeli jets bomb a military research facility near the city of Masyaf, Hama Governorate, killing at least two Syrian Army soldiers. The facility was rumoured to contain chemical weapons. ](/news/2017/09/7/it-is-suspected-that-israeli-jets-bomb-a-military-research-facility-near-the-city-of-masyaf-hama-governorate-killing-at-least-two-syrian-a.md) _Context: Syrian Army_
-3. [The Syrian Army lifts the 28-month-long siege of Deir ez-Zor by the Islamic State of Iraq and the Levant. ](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of-deir-ez-zor-by-the-islamic-state-of-iraq-and-the-levant.md) _Context: Syrian Army_
-4. [Syrian state television reports the Syrian Army reaches a point 3 kilometers from Deir ez-Zor, a city besieged by the Islamic State of Iraq and the Levant since 2014. ](/news/2017/09/4/syrian-state-television-reports-the-syrian-army-reaches-a-point-3-kilometers-from-deir-ez-zor-a-city-besieged-by-the-islamic-state-of-iraq.md) _Context: Syrian Army_
-5. [A Syrian Army commando unit backed by Russian warplanes and helicopters kills 25 ISIL militants in Central Syria, in the northeast of the Homs Governorate. ](/news/2017/08/13/a-syrian-army-commando-unit-backed-by-russian-warplanes-and-helicopters-kills-25-isil-militants-in-central-syria-in-the-northeast-of-the-ho.md) _Context: Syrian Army_
+4. [Reuters](https://www.reuters.com/article/2012/07/11/us-syria-crisis-idUSBRE8610SH20120711)
+4. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120711&t=2&i=629203502&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86A0PPA00)
 
 ### Changes:
 
 1. [Syrian uprising (2011-present):56 people are reportedly killed by the Syrian army, including a Red Crescent worker. ](/news/2012/07/11/syrian-uprising-2011apresent-p56-people-are-reportedly-killed-by-the-syrian-army-including-a-red-crescent-worker.md) _2017-08-25 03:36:05 (First version)_
 2. [Syrian uprising (2011-present):: 56 people are reportedly killed by the Syrian army, including a Red Crescent worker. ](/news/2012/07/11/syrian-uprising-2011-present-56-people-are-reportedly-killed-by-the-syrian-army-including-a-red-crescent-worker.md) _2017-08-27 03:36:16 (Update)_
 2. [56 people are reportedly killed by the Syrian army, including a Red Crescent worker. ](/news/2012/07/11/56-people-are-reportedly-killed-by-the-syrian-army-including-a-red-crescent-worker.md) _(Current version)_
+
+### Related:
+
+1. [Islamic State fighters take control of a section of road running between the towns of Khanaser and Ithriya, southeast of Aleppo, according to a monitoring group. This threatens the Syrian army's only supply route into the city. ](/news/2015/10/23/islamic-state-fighters-take-control-of-a-section-of-road-running-between-the-towns-of-khanaser-and-ithriya-southeast-of-aleppo-according-t.md) _Context: Syrian army's_
+2. [Following Russian airstrikes, the Syrian army and allied Lebanese Hezbollah militia take control of a highland area in Idlib province close to insurgent-held positions, according to the Syrian Observatory for Human Rights. ](/news/2015/10/11/following-russian-airstrikes-the-syrian-army-and-allied-lebanese-hezbollah-militia-take-control-of-a-highland-area-in-idlib-province-close.md) _Context: Syrian army's_
+3. [An Iranian Red Crescent plane is blocked by bombing of Sanaa International Airport's runway by Saudi Arabian F-15 fighters, which unsuccessfully intercepted and issued warnings to the plane to turn back. ](/news/2015/04/29/an-iranian-red-crescent-plane-is-blocked-by-bombing-of-sanaa-international-airport-s-runway-by-saudi-arabian-f-15-fighters-which-unsuccessf.md) _Context: Red Crescent_
+4. [The Syrian opposition calls for immediate humanitarian aid to Homs after the Syrian army and Hezbollah step up their siege of the city with increased artillery shelling and incendiary bombs. ](/news/2013/07/5/the-syrian-opposition-calls-for-immediate-humanitarian-aid-to-homs-after-the-syrian-army-and-hezbollah-step-up-their-siege-of-the-city-with.md) _Context: Syrian army's_
+5. [Over 110 people are killed nationwide by the Syrian army in Syria. ](/news/2013/02/8/over-110-people-are-killed-nationwide-by-the-syrian-army-in-syria.md) _Context: Syrian army's_

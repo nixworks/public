@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/13/in-taiwan-a-swat-team-apprehends-wanted-gang-leader-chang-hsi-ming-after-a-30-minute-gun-battle-in-shalu-township.html)  [JSON](/news/2005/07/13/in-taiwan-a-swat-team-apprehends-wanted-gang-leader-chang-hsi-ming-after-a-30-minute-gun-battle-in-shalu-township.json)  [XML](/news/2005/07/13/in-taiwan-a-swat-team-apprehends-wanted-gang-leader-chang-hsi-ming-after-a-30-minute-gun-battle-in-shalu-township.xml)  
+
 ### [2005-07-13](/news/2005/07/13/index.md)
 
+##### Taiwan
 #  In Taiwan, a SWAT team apprehends wanted gang leader Chang Hsi-ming after a 30-minute gun battle in Shalu Township. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/eastasia/view/157777/1/.html)
 2. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2005/07/14/2003263424)

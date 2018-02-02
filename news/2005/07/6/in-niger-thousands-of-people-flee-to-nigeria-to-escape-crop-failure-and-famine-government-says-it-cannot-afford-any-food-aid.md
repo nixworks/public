@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/6/in-niger-thousands-of-people-flee-to-nigeria-to-escape-crop-failure-and-famine-government-says-it-cannot-afford-any-food-aid.html)  [JSON](/news/2005/07/6/in-niger-thousands-of-people-flee-to-nigeria-to-escape-crop-failure-and-famine-government-says-it-cannot-afford-any-food-aid.json)  [XML](/news/2005/07/6/in-niger-thousands-of-people-flee-to-nigeria-to-escape-crop-failure-and-famine-government-says-it-cannot-afford-any-food-aid.xml)  
+
 ### [2005-07-6](/news/2005/07/6/index.md)
 
+##### Niger
 #  In Niger, thousands of people flee to Nigeria to escape crop failure and famine. Government says it cannot afford any food aid 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica](http://allafrica.com/stories/200507051735.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4655225.stm)

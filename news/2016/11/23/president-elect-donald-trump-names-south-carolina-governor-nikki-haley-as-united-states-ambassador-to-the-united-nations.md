@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/23/president-elect-donald-trump-names-south-caroli
 
 ### [2016-11-23](/news/2016/11/23/index.md)
 
+##### Presidential transition of Donald Trump
 # President-elect Donald Trump names South Carolina governor Nikki Haley as United States Ambassador to the United Nations. 
 
 Donald Trump names South Carolina Governor Nikki Haley as US ambassador to the UN.

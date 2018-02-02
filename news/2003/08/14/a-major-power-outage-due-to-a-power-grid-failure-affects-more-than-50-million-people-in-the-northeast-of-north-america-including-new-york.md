@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/14/a-major-power-outage-due-to-a-power-grid-failure-affects-more-than-50-million-people-in-the-northeast-of-north-america-including-new-york.html)  [JSON](/news/2003/08/14/a-major-power-outage-due-to-a-power-grid-failure-affects-more-than-50-million-people-in-the-northeast-of-north-america-including-new-york.json)  [XML](/news/2003/08/14/a-major-power-outage-due-to-a-power-grid-failure-affects-more-than-50-million-people-in-the-northeast-of-north-america-including-new-york.xml)  
+
 ### [2003-08-14](/news/2003/08/14/index.md)
 
+##### North American blackout
 #  A major power outage due to a power grid failure affects more than 50 million people in the northeast of North America, including New York City, New Jersey, Cleveland, Ottawa, Toronto and Detroit [http:--abcnews.go.com-sections-us-DailyNews-power_outage030814.html ABC] [http:--news.bbc.co.uk-2-hi-americas-3152451.stm BBC] [http:--www.cnn.com-2003-US-08-14-power.outage-index.html CNN]. According to U.S. authorities, the cause is still unclear; according to the Canadian Department of National Defense, the chain reaction was started by a lightning strike in the Niagara Falls region on the U.S. side of the border. A press release with some technical details of the event is available at. The NRC reports that all nine affected nuclear power plants have been safely shut down.
 
 

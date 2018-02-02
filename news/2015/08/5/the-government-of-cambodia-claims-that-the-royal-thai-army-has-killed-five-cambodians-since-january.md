@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/5/the-government-of-cambodia-claims-that-the-royal-thai-army-has-killed-five-cambodians-since-january.html)  [JSON](/news/2015/08/5/the-government-of-cambodia-claims-that-the-royal-thai-army-has-killed-five-cambodians-since-january.json)  [XML](/news/2015/08/5/the-government-of-cambodia-claims-that-the-royal-thai-army-has-killed-five-cambodians-since-january.xml)  
+
 ### [2015-08-5](/news/2015/08/5/index.md)
 
+##### Government of Cambodia
 # The Government of Cambodia claims that the Royal Thai Army has killed five Cambodians since January. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Bangkok Post](http://www.bangkokpost.com/news/security/645092/soldiers-killed-5-cambodians-since-jan-phnom-penh-says)
 

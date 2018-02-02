@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/08/9/the-u-s-federal-reserve-announces-it-will-keep-interest-rates-at-exceptionally-low-levels-at-least-through-mid-2013-though-it-makes-no-c.html)  [JSON](/news/2011/08/9/the-u-s-federal-reserve-announces-it-will-keep-interest-rates-at-exceptionally-low-levels-at-least-through-mid-2013-though-it-makes-no-c.json)  [XML](/news/2011/08/9/the-u-s-federal-reserve-announces-it-will-keep-interest-rates-at-exceptionally-low-levels-at-least-through-mid-2013-though-it-makes-no-c.xml)  
+
 ### [2011-08-9](/news/2011/08/9/index.md)
 
+##### Federal Reserve
 # The U.S. Federal Reserve announces it will keep interest rates at "exceptionally low levels" at least through mid 2013, though it makes no commitment for further quantitative easing. 
 
 The Federal Reserve on Tuesday took the unprecedented step of promising to keep interest rates near zero for at least two more years and said it would consider further steps to help growth, sparking a rebound in stocks.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/08/09/us-usa-fed-idUSTRE7775G120110809)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110809&t=2&i=475979599&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-08-09T184517Z_01_BTRE7781EA800_RTROPTP_0_FINANCIAL-REGULATION-INTERCHANGE)
+1. [Reuters](https://www.reuters.com/article/2011/08/09/us-usa-fed-idUSTRE7775G120110809)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20110809&t=2&i=475979599&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-08-09T184517Z_01_BTRE7781EA800_RTROPTP_0_FINANCIAL-REGULATION-INTERCHANGE)
 
 ### Related:
 

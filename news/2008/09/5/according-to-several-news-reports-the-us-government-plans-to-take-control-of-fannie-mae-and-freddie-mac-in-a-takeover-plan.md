@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/5/according-to-several-news-reports-the-us-government-plans-to-take-control-of-fannie-mae-and-freddie-mac-in-a-takeover-plan.html)  [JSON](/news/2008/09/5/according-to-several-news-reports-the-us-government-plans-to-take-control-of-fannie-mae-and-freddie-mac-in-a-takeover-plan.json)  [XML](/news/2008/09/5/according-to-several-news-reports-the-us-government-plans-to-take-control-of-fannie-mae-and-freddie-mac-in-a-takeover-plan.xml)  
+
 ### [2008-09-5](/news/2008/09/5/index.md)
 
+##### Fannie Mae
 #  According to several news reports, the US government plans to take control of Fannie Mae and Freddie Mac in a takeover plan. 
 
 The government has prepared a plan to take control of troubled mortgage giants Fannie Mae and Freddie Mac, officials told the two companies, according to three sources familiar with the conversations.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/26567533/)
 1. [Cover Image](http://media1.s-nbcnews.com/j/reuters/2008-08-27t203946z_01_nootr_rtridsp_3_business-fannie-freddie-shakeup-dc.standard.jpg)

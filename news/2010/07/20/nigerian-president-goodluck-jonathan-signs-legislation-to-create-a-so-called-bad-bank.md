@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/20/nigerian-president-goodluck-jonathan-signs-legislation-to-create-a-so-called-bad-bank.html)  [JSON](/news/2010/07/20/nigerian-president-goodluck-jonathan-signs-legislation-to-create-a-so-called-bad-bank.json)  [XML](/news/2010/07/20/nigerian-president-goodluck-jonathan-signs-legislation-to-create-a-so-called-bad-bank.xml)  
+
 ### [2010-07-20](/news/2010/07/20/index.md)
 
+##### Nigeria
 # Nigerian President Goodluck Jonathan signs legislation to create a so-called "bad bank". 
 
 Nigerian president Goodluck Jonathan signs into law a new agency that will take over bad loans from the banking system.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-10697718)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

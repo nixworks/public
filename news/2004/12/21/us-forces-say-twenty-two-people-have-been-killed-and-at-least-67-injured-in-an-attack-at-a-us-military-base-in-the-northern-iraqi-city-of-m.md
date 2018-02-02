@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/21/us-forces-say-twenty-two-people-have-been-killed-and-at-least-67-injured-in-an-attack-at-a-us-military-base-in-the-northern-iraqi-city-of-m.html)  [JSON](/news/2004/12/21/us-forces-say-twenty-two-people-have-been-killed-and-at-least-67-injured-in-an-attack-at-a-us-military-base-in-the-northern-iraqi-city-of-m.json)  [XML](/news/2004/12/21/us-forces-say-twenty-two-people-have-been-killed-and-at-least-67-injured-in-an-attack-at-a-us-military-base-in-the-northern-iraqi-city-of-m.xml)  
+
 ### [2004-12-21](/news/2004/12/21/index.md)
 
+##### Iraq
 #  US forces say twenty-two people have been killed and at least 67 injured in an attack at a US military base in the northern Iraqi city of Mosul. The dead include 13 US Soldiers, making the attack one of the deadliest attacks on US forces since the start of the war. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4115145.stm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4115975.stm)

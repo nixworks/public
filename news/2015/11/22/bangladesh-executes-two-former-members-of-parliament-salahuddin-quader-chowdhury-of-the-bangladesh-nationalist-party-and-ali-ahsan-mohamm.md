@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/22/bangladesh-executes-two-former-members-of-parliament-salahuddin-quader-chowdhury-of-the-bangladesh-nationalist-party-and-ali-ahsan-mohamm.html)  [JSON](/news/2015/11/22/bangladesh-executes-two-former-members-of-parliament-salahuddin-quader-chowdhury-of-the-bangladesh-nationalist-party-and-ali-ahsan-mohamm.json)  [XML](/news/2015/11/22/bangladesh-executes-two-former-members-of-parliament-salahuddin-quader-chowdhury-of-the-bangladesh-nationalist-party-and-ali-ahsan-mohamm.xml)  
+
 ### [2015-11-22](/news/2015/11/22/index.md)
 
+##### Bangladesh
 # Bangladesh executes two former members of parliament, Salahuddin Quader Chowdhury, of the Bangladesh Nationalist Party, and Ali Ahsan Mohammad Mojaheed, of the Jamaat-e-Islami party, who were convicted in 2013 of war crimes committed during the country's 1971 war of independence. 
 
 Two Bangladesh opposition leaders are executed for war crimes committed during the 1971 independence struggle against Pakistan.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-34892606)
 2. [Washington Post](https://www.washingtonpost.com/world/bangladesh-executes-two-former-members-of-parliament/2015/11/21/bf01c81c-9065-11e5-934c-a369c80822c2_story.html)

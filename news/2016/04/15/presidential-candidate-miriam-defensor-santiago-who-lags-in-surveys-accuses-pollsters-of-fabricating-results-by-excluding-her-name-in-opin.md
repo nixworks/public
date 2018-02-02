@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/15/presidential-candidate-miriam-defensor-santiago
 
 ### [2016-04-15](/news/2016/04/15/index.md)
 
+##### Philippine presidential election, 2016
 # Presidential candidate Miriam Defensor Santiago, who lags in surveys, accuses pollsters of fabricating results by excluding her name in opinion polls. 
 
 

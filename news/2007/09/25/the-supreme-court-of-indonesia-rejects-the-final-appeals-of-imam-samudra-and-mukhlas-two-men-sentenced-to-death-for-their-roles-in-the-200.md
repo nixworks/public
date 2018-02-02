@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/25/the-supreme-court-of-indonesia-rejects-the-final-appeals-of-imam-samudra-and-mukhlas-two-men-sentenced-to-death-for-their-roles-in-the-200.html)  [JSON](/news/2007/09/25/the-supreme-court-of-indonesia-rejects-the-final-appeals-of-imam-samudra-and-mukhlas-two-men-sentenced-to-death-for-their-roles-in-the-200.json)  [XML](/news/2007/09/25/the-supreme-court-of-indonesia-rejects-the-final-appeals-of-imam-samudra-and-mukhlas-two-men-sentenced-to-death-for-their-roles-in-the-200.xml)  
+
 ### [2007-09-25](/news/2007/09/25/index.md)
 
+##### Supreme Court
 #  The Supreme Court of Indonesia rejects the final appeals of Imam Samudra and Mukhlas, two men sentenced to death for their roles in the 2002 Bali bombings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7011647.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/4/all-members-of-the-commonwealth-of-nations-which-have-the-british-monarch-as-their-head-of-state-agree-to-a-bill-that-will-change-the-rules.html)  [JSON](/news/2012/12/4/all-members-of-the-commonwealth-of-nations-which-have-the-british-monarch-as-their-head-of-state-agree-to-a-bill-that-will-change-the-rules.json)  [XML](/news/2012/12/4/all-members-of-the-commonwealth-of-nations-which-have-the-british-monarch-as-their-head-of-state-agree-to-a-bill-that-will-change-the-rules.xml)  
+
 ### [2012-12-4](/news/2012/12/4/index.md)
 
+##### Commonwealth of Nations
 # All members of the Commonwealth of Nations which have the British Monarch as their head of state agree to a bill that will change the rules on royal succession rules which currently favour a male heir. 
 
 All Commonwealth realms agree to a bill to change royal succession rules which discriminated against women, as a pregnant Duchess of Cambridge remains in hospital with severe morning sickness.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20600543)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/64567000/jpg/_64567743_b1sxgd9k.jpg)

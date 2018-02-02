@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/20/two-pilots-are-killed-after-a-south-korean-made-kai-t-50-golden-eagle-crashes-and-bursts-into-flames-at-an-air-show-in-yogyakarta-on-indones.html)  [JSON](/news/2015/12/20/two-pilots-are-killed-after-a-south-korean-made-kai-t-50-golden-eagle-crashes-and-bursts-into-flames-at-an-air-show-in-yogyakarta-on-indones.json)  [XML](/news/2015/12/20/two-pilots-are-killed-after-a-south-korean-made-kai-t-50-golden-eagle-crashes-and-bursts-into-flames-at-an-air-show-in-yogyakarta-on-indones.xml)  
+
 ### [2015-12-20](/news/2015/12/20/index.md)
 
+##### South Korea
 # Two pilots are killed after a South Korean-made KAI T-50 Golden Eagle crashes and bursts into flames at an air show in Yogyakarta on Indonesia's Java island. 
 
 Two pilots killed as Indonesian fighter jet crashes during an aerobatic display
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/indonesia/12060915/Two-pilots-killed-as-jet-crashes-at-Indonesia-air-show.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03531/PLANE1_3531683k.jpg)

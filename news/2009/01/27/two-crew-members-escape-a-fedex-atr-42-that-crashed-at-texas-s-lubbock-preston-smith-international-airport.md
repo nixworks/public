@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/27/two-crew-members-escape-a-fedex-atr-42-that-crashed-at-texas-s-lubbock-preston-smith-international-airport.html)  [JSON](/news/2009/01/27/two-crew-members-escape-a-fedex-atr-42-that-crashed-at-texas-s-lubbock-preston-smith-international-airport.json)  [XML](/news/2009/01/27/two-crew-members-escape-a-fedex-atr-42-that-crashed-at-texas-s-lubbock-preston-smith-international-airport.xml)  
+
 ### [2009-01-27](/news/2009/01/27/index.md)
 
+##### FedEx
 #  Two crew members escape a FedEx ATR 42 that crashed at Texas's Lubbock Preston Smith International Airport. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Lubbock Online](http://lubbockonline.com/stories/012709/loc_382118854.shtml)
 

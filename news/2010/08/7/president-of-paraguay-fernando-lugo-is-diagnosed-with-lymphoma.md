@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/7/president-of-paraguay-fernando-lugo-is-diagnosed-with-lymphoma.html)  [JSON](/news/2010/08/7/president-of-paraguay-fernando-lugo-is-diagnosed-with-lymphoma.json)  [XML](/news/2010/08/7/president-of-paraguay-fernando-lugo-is-diagnosed-with-lymphoma.xml)  
+
 ### [2010-08-7](/news/2010/08/7/index.md)
 
+##### Paraguayan President
 # President of Paraguay Fernando Lugo is diagnosed with lymphoma. 
 
 Fernando Lugo, diagnosed with lymphoma, plans to carry on with business as usual.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/2010870281523314.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-10900677)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/12/a-collision-near-bathurst-new-brunswick-results-in-the-deaths-of-7-bathurst-high-school-basketball-team-members.html)  [JSON](/news/2008/01/12/a-collision-near-bathurst-new-brunswick-results-in-the-deaths-of-7-bathurst-high-school-basketball-team-members.json)  [XML](/news/2008/01/12/a-collision-near-bathurst-new-brunswick-results-in-the-deaths-of-7-bathurst-high-school-basketball-team-members.xml)  
+
 ### [2008-01-12](/news/2008/01/12/index.md)
 
+##### collision
 #  A collision near Bathurst, New Brunswick results in the deaths of 7 Bathurst High School basketball team members. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20080112/nb_crash_080112/20080112?hub=TopStories)
 

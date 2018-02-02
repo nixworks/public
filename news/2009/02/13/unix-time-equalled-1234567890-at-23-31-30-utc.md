@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/13/unix-time-equalled-1234567890-at-23-31-30-utc.html)  [JSON](/news/2009/02/13/unix-time-equalled-1234567890-at-23-31-30-utc.json)  [XML](/news/2009/02/13/unix-time-equalled-1234567890-at-23-31-30-utc.xml)  
+
 ### [2009-02-13](/news/2009/02/13/index.md)
 
+##### Unix time
 #  Unix time equalled "1234567890" at 23:31:30 UTC. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://technology.timesonline.co.uk/tol/news/tech_and_web/article5727189.ece)
 

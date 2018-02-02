@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2010/07/8/a-series-of-bombings-over-the-three-day-shia-pilgrimage-to-the-mausoleum-of-musa-kadhim-in-iraq-kill-at-least-70-and-wound-300.html)  [JSON](/news/2010/07/8/a-series-of-bombings-over-the-three-day-shia-pilgrimage-to-the-mausoleum-of-musa-kadhim-in-iraq-kill-at-least-70-and-wound-300.json)  [XML](/news/2010/07/8/a-series-of-bombings-over-the-three-day-shia-pilgrimage-to-the-mausoleum-of-musa-kadhim-in-iraq-kill-at-least-70-and-wound-300.xml)  
+
 ### [2010-07-8](/news/2010/07/8/index.md)
 
+##### series of bombings
 # A series of bombings over the three-day Shia pilgrimage to the mausoleum of Musa Kadhim in Iraq kill at least 70 and wound 300.
 
 

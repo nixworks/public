@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2011/02/28/at-least-16-people-in-bandeira-do-sul-are-killed-after-a-high-voltage-electric-powerline-crashed-onto-a-float-participating-in-a-parade-ahea.html)  [JSON](/news/2011/02/28/at-least-16-people-in-bandeira-do-sul-are-killed-after-a-high-voltage-electric-powerline-crashed-onto-a-float-participating-in-a-parade-ahea.json)  [XML](/news/2011/02/28/at-least-16-people-in-bandeira-do-sul-are-killed-after-a-high-voltage-electric-powerline-crashed-onto-a-float-participating-in-a-parade-ahea.xml)  
+
 ### [2011-02-28](/news/2011/02/28/index.md)
 
+##### Bandeira do Sul
 # At least 16 people in Bandeira do Sul are killed after a high-voltage electric powerline crashed onto a float participating in a parade ahead of Brazil's carnival celebrations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_639808.html)
 
 ### Related:
 
-1. [In the town of Janauba, Minas Gerais state, Brazil, a recently dismissed security guard set fire to a childcare center, killing at least four children and a teacher and leaving 25 others, mostly children aged four and five, injured. ](/news/2017/10/5/in-the-town-of-janaaoba-minas-gerais-state-brazil-a-recently-dismissed-security-guard-set-fire-to-a-childcare-center-killing-at-least-fo.md) _Context: Brazil_
-2. [Brazilian police detain fugitive Italian former left-wing guerrilla and convicted murderer Cesare Battisti, as he was attempting to flee across the border into Bolivia to avoid extradition back to Italy and facing his life sentence prison term for four murders in the 1970s. ](/news/2017/10/4/brazilian-police-detain-fugitive-italian-former-left-wing-guerrilla-and-convicted-murderer-cesare-battisti-as-he-was-attempting-to-flee-acr.md) _Context: Brazil_
-3. [Brazilian prosecutor Rodrigo Janot files charges in the Supreme Court against officials in President Michel Temer's Brazilian Democratic Movement Party accusing them of forming a criminal organization. Earlier the Court said, next week, it will consider Temer's request to block Janot from issuing further charges. ](/news/2017/09/8/brazilian-prosecutor-rodrigo-janot-files-charges-in-the-supreme-court-against-officials-in-president-michel-temeras-brazilian-democratic-m.md) _Context: Brazil_
-4. [Brazil is to investigate the supposed murder of ten members of an Amazonian tribe in the Javari Valley. ](/news/2017/09/11/brazil-is-to-investigate-the-supposed-murder-of-ten-members-of-an-amazonian-tribe-in-the-javari-valley.md) _Context: Brazil_
-5. [Brazilian President Michel Temer abolishes the 46,000 sq km National Reserve of Copper and Associates (Renca) ecological reserve, which spans the borders of Amapa and Para states in northern Brazil. More than 20 domestic and multinational firms have expressed an interest in accessing the area's deposits of gold, copper, tantalum, iron ore, nickel and manganese. ](/news/2017/08/25/brazilian-president-michel-temer-abolishes-the-46-000-sq-km-national-reserve-of-copper-and-associates-renca-ecological-reserve-which-span.md) _Context: Brazil_
+1. [The state government of Minas Gerais, Brazil, declares a health emergency in three areas, Belo Horizonte, Itabira and Ponte Nova, over an outbreak of yellow fever. ](/news/2018/01/20/the-state-government-of-minas-gerais-brazil-declares-a-health-emergency-in-three-areas-belo-horizonte-itabira-and-ponte-nova-over-an-ou.md) _Context: Brazil_
+2. [Fifteen people are injured and an infant is killed after a car hits a group of pedestrians near Copacabana Beach in Rio de Janeiro, Brazil. The police report that the driver had an epileptic seizure. ](/news/2018/01/19/fifteen-people-are-injured-and-an-infant-is-killed-after-a-car-hits-a-group-of-pedestrians-near-copacabana-beach-in-rio-de-janeiro-brazil.md) _Context: Brazil_
+3. [An apparent gang riot at Colonia Agroindustrial prison in Goiania, Brazil, results in nine deaths and 14 inmates injured. Authorities report 233 prisoners escaped but now only 95 prisoners remain at large. ](/news/2018/01/1/an-apparent-gang-riot-at-colonia-agroindustrial-prison-in-goiac-nia-brazil-results-in-nine-deaths-and-14-inmates-injured-authorities-repor.md) _Context: Brazil_
+4. [Ecuadorian Vice President Jorge Glas is sentenced to six years imprisonment for financial corruption involving the Brazilian construction company Odebrecht. The decision will not be enforced until the court confirms the ruling. The court's decision can be appealed. [http:--www.bbc.com-news-world-latin-america-42346881 ("BBC News")] [https:--www.eluniverso.com-noticias-2017-12-13-nota-6525058-jorge-glas-sentenciado-como-culpable-6-anos-prision-caso-odebrecht ("El Universo")] {{es icon}}](/news/2017/12/13/ecuadorian-vice-president-jorge-glas-is-sentenced-to-six-years-imprisonment-for-financial-corruption-involving-the-brazilian-construction-co.md) _Context: Brazil_
+5. [In the town of Janauba, Minas Gerais state, Brazil, a recently dismissed security guard set fire to a childcare center, killing at least four children and a teacher and leaving 25 others, mostly children aged four and five, injured. ](/news/2017/10/5/in-the-town-of-janaaoba-minas-gerais-state-brazil-a-recently-dismissed-security-guard-set-fire-to-a-childcare-center-killing-at-least-fo.md) _Context: Brazil_

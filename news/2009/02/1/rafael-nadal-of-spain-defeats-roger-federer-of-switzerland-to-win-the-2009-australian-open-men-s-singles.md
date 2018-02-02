@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/1/rafael-nadal-of-spain-defeats-roger-federer-of-switzerland-to-win-the-2009-australian-open-men-s-singles.html)  [JSON](/news/2009/02/1/rafael-nadal-of-spain-defeats-roger-federer-of-switzerland-to-win-the-2009-australian-open-men-s-singles.json)  [XML](/news/2009/02/1/rafael-nadal-of-spain-defeats-roger-federer-of-switzerland-to-win-the-2009-australian-open-men-s-singles.xml)  
+
 ### [2009-02-1](/news/2009/02/1/index.md)
 
+##### Rafael Nadal
 #  Rafael Nadal of Spain defeats Roger Federer of Switzerland to win the 2009 Australian Open men's singles. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gtzOA28o7BvFvgReARM0_e7Msy-QD962QQ5O0)
 

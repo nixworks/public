@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/10/the-wooden-portion-of-namdaemun-gate-in-seoul-south-korea-is-destroyed-in-a-suspicious-fire.html)  [JSON](/news/2008/02/10/the-wooden-portion-of-namdaemun-gate-in-seoul-south-korea-is-destroyed-in-a-suspicious-fire.json)  [XML](/news/2008/02/10/the-wooden-portion-of-namdaemun-gate-in-seoul-south-korea-is-destroyed-in-a-suspicious-fire.xml)  
+
 ### [2008-02-10](/news/2008/02/10/index.md)
 
+##### Namdaemun
 #  The wooden portion of Namdaemun Gate in Seoul, South Korea is destroyed in a suspicious fire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7238210.stm)
 

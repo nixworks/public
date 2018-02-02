@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/9/israeli-prime-minister-ehud-olmert-says-operation-summer-rains-will-only-end-once-abducted-soldier-gilad-shalit-is-released-there-is-no-i.html)  [JSON](/news/2006/07/9/israeli-prime-minister-ehud-olmert-says-operation-summer-rains-will-only-end-once-abducted-soldier-gilad-shalit-is-released-there-is-no-i.json)  [XML](/news/2006/07/9/israeli-prime-minister-ehud-olmert-says-operation-summer-rains-will-only-end-once-abducted-soldier-gilad-shalit-is-released-there-is-no-i.xml)  
+
 ### [2006-07-9](/news/2006/07/9/index.md)
 
+##### Israel
 #  Israeli prime minister Ehud Olmert says Operation Summer Rains will only end once abducted soldier Gilad Shalit is released: "There is no intention to reoccupy Gaza in order to stay there, but if certain operations are needed they will be carried out". 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5154838.stm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5162062.stm)

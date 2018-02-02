@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/1/mass-celebrations-take-place-in-beijing-to-commemorate-the-60th-anniversary-of-the-founding-of-the-people-s-republic-of-china.html)  [JSON](/news/2009/10/1/mass-celebrations-take-place-in-beijing-to-commemorate-the-60th-anniversary-of-the-founding-of-the-people-s-republic-of-china.json)  [XML](/news/2009/10/1/mass-celebrations-take-place-in-beijing-to-commemorate-the-60th-anniversary-of-the-founding-of-the-people-s-republic-of-china.xml)  
+
 ### [2009-10-1](/news/2009/10/1/index.md)
 
+##### Beijing
 #  Mass celebrations take place in Beijing to commemorate the 60th anniversary of the founding of the People's Republic of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8284087.stm)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-10/01/content_12138604.htm)

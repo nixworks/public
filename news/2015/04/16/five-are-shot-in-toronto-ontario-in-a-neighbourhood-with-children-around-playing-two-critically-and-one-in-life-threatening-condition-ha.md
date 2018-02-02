@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/16/five-are-shot-in-toronto-ontario-in-a-neighbourhood-with-children-around-playing-two-critically-and-one-in-life-threatening-condition-ha.html)  [JSON](/news/2015/04/16/five-are-shot-in-toronto-ontario-in-a-neighbourhood-with-children-around-playing-two-critically-and-one-in-life-threatening-condition-ha.json)  [XML](/news/2015/04/16/five-are-shot-in-toronto-ontario-in-a-neighbourhood-with-children-around-playing-two-critically-and-one-in-life-threatening-condition-ha.xml)  
+
 ### [2015-04-16](/news/2015/04/16/index.md)
 
+##### Toronto
 # Five are shot in Toronto, Ontario, in a neighbourhood with children around playing, two critically and one in life-threatening condition, having been shot by the police. Four suspects detained. 
 
 Four people are currently in custody in connection with a shooting near Jane and Finch that sent five people to hospital late Thursday afternoon, Toronto police have confirmed.
 
 
-### Source:
+### Sources:
 
 1. [CP24](http://www.cp24.com/news/four-suspects-arrested-after-5-shot-outside-driftwood-ave-townhouse-1.2331233)
 1. [Cover Image](https://www.cp24.com/polopoly_fs/1.2331377.1429225764!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)

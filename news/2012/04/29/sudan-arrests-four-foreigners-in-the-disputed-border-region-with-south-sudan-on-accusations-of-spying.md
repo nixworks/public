@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/29/sudan-arrests-four-foreigners-in-the-disputed-border-region-with-south-sudan-on-accusations-of-spying.html)  [JSON](/news/2012/04/29/sudan-arrests-four-foreigners-in-the-disputed-border-region-with-south-sudan-on-accusations-of-spying.json)  [XML](/news/2012/04/29/sudan-arrests-four-foreigners-in-the-disputed-border-region-with-south-sudan-on-accusations-of-spying.xml)  
+
 ### [2012-04-29](/news/2012/04/29/index.md)
 
+##### Sudan
 # Sudan arrests four foreigners in the disputed border region with South Sudan on accusations of spying. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://arabnews.com/world/article621514.ece)
 

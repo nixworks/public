@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/17/the-church-of-england-adopts-legislation-paving-the-way-for-the-appointment-of-female-bishops.html)  [JSON](/news/2014/11/17/the-church-of-england-adopts-legislation-paving-the-way-for-the-appointment-of-female-bishops.json)  [XML](/news/2014/11/17/the-church-of-england-adopts-legislation-paving-the-way-for-the-appointment-of-female-bishops.xml)  
+
 ### [2014-11-17](/news/2014/11/17/index.md)
 
+##### Church of England
 # The Church of England adopts legislation paving the way for the appointment of female bishops. 
 
 The Church of England formally adopts legislation which means its first female bishops could be ordained next year.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-30074257)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79079000/jpg/_79079073_syndo_vote.jpg)

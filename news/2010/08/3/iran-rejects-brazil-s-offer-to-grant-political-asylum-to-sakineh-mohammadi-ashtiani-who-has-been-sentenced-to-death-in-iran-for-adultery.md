@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/3/iran-rejects-brazil-s-offer-to-grant-political-asylum-to-sakineh-mohammadi-ashtiani-who-has-been-sentenced-to-death-in-iran-for-adultery.html)  [JSON](/news/2010/08/3/iran-rejects-brazil-s-offer-to-grant-political-asylum-to-sakineh-mohammadi-ashtiani-who-has-been-sentenced-to-death-in-iran-for-adultery.json)  [XML](/news/2010/08/3/iran-rejects-brazil-s-offer-to-grant-political-asylum-to-sakineh-mohammadi-ashtiani-who-has-been-sentenced-to-death-in-iran-for-adultery.xml)  
+
 ### [2010-08-3](/news/2010/08/3/index.md)
 
+##### Iran
 # Iran rejects Brazil's offer to grant political asylum to Sakineh Mohammadi Ashtiani, who has been sentenced to death in Iran for adultery. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Guardian](http://www.guardian.co.uk/world/2010/aug/03/iran-stoning-woman-brazil-asylum)
 

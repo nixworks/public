@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/21/indonesian-search-and-rescue-agencies-continue-to-search-for-survivors-after-a-boat-sinks-off-the-coast-of-bali-with-11-people-confirmed-de.html)  [JSON](/news/2011/09/21/indonesian-search-and-rescue-agencies-continue-to-search-for-survivors-after-a-boat-sinks-off-the-coast-of-bali-with-11-people-confirmed-de.json)  [XML](/news/2011/09/21/indonesian-search-and-rescue-agencies-continue-to-search-for-survivors-after-a-boat-sinks-off-the-coast-of-bali-with-11-people-confirmed-de.xml)  
+
 ### [2011-09-21](/news/2011/09/21/index.md)
 
+##### Indonesia
 # Indonesian search and rescue agencies continue to search for survivors after a boat sinks off the coast of Bali, with 11 people confirmed dead and 14 missing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_715144.html)
 

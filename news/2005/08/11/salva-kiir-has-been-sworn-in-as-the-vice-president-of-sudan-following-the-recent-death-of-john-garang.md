@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/11/salva-kiir-has-been-sworn-in-as-the-vice-president-of-sudan-following-the-recent-death-of-john-garang.html)  [JSON](/news/2005/08/11/salva-kiir-has-been-sworn-in-as-the-vice-president-of-sudan-following-the-recent-death-of-john-garang.json)  [XML](/news/2005/08/11/salva-kiir-has-been-sworn-in-as-the-vice-president-of-sudan-following-the-recent-death-of-john-garang.xml)  
+
 ### [2005-08-11](/news/2005/08/11/index.md)
 
+##### Salva Kiir
 #  Salva Kiir has been sworn in as the Vice-President of Sudan, following the recent death of John Garang. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4140446.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4140520.stm)

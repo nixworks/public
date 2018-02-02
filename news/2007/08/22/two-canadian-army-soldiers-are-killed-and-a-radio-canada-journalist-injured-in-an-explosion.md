@@ -1,17 +1,17 @@
+
+Formats: [HTML](/news/2007/08/22/two-canadian-army-soldiers-are-killed-and-a-radio-canada-journalist-injured-in-an-explosion.html)  [JSON](/news/2007/08/22/two-canadian-army-soldiers-are-killed-and-a-radio-canada-journalist-injured-in-an-explosion.json)  [XML](/news/2007/08/22/two-canadian-army-soldiers-are-killed-and-a-radio-canada-journalist-injured-in-an-explosion.xml)  
+
 ### [2007-08-22](/news/2007/08/22/index.md)
 
+##### Radio Canada
 #  Two Canadian Army soldiers are killed and a Radio Canada journalist injured in an explosion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/08/23/afghanistan.canada.ap/index.html?eref=rss_world)
-
-### Related:
-
-1. [Aljazeera, Canal 13, Channel 4, Globo, Radio-Canada, RT, Sky News and TVB are among the global broadcasters nominated for this year's International Emmy Awards. ](/news/2010/08/12/aljazeera-canal-13-channel-4-globo-radio-canada-rt-sky-news-and-tvb-are-among-the-global-broadcasters-nominated-for-this-year-s-intern.md) _Context: Radio-Canada_
 
 ### Changes:
 

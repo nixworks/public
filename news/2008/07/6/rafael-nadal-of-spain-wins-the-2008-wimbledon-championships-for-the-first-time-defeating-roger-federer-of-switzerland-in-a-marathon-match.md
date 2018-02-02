@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/07/6/rafael-nadal-of-spain-wins-the-2008-wimbledon-championships-for-the-first-time-defeating-roger-federer-of-switzerland-in-a-marathon-match.html)  [JSON](/news/2008/07/6/rafael-nadal-of-spain-wins-the-2008-wimbledon-championships-for-the-first-time-defeating-roger-federer-of-switzerland-in-a-marathon-match.json)  [XML](/news/2008/07/6/rafael-nadal-of-spain-wins-the-2008-wimbledon-championships-for-the-first-time-defeating-roger-federer-of-switzerland-in-a-marathon-match.xml)  
+
 ### [2008-07-6](/news/2008/07/6/index.md)
 
+##### Rafael Nadal
 #  Rafael Nadal of Spain wins the 2008 Wimbledon Championships for the first time defeating Roger Federer of Switzerland in a marathon match, winning 6-4, 6-4, 6-7 (5), 6-7 (8), 9-7. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The New York Times](http://www.nytimes.com/aponline/sports/AP-TEN-Wimbledon.html?_r=1&hp&oref=slogin)
+1. [AP via ''The New York Times](https://www.nytimes.com/aponline/sports/AP-TEN-Wimbledon.html?_r=1&hp&oref=slogin)
 
 ### Related:
 

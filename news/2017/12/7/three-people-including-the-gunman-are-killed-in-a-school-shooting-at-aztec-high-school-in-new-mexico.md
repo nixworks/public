@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/7/three-people-including-the-gunman-are-killed-in-
 
 ### [2017-12-7](/news/2017/12/7/index.md)
 
+##### Aztec High School shooting
 # Three people, including the gunman, are killed in a school shooting at Aztec High School in New Mexico. 
 
 

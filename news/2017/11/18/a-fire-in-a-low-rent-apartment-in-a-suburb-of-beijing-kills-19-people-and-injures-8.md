@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/18/a-fire-in-a-low-rent-apartment-in-a-suburb-of-b
 
 ### [2017-11-18](/news/2017/11/18/index.md)
 
+##### Beijing
 # A fire in a low-rent apartment in a suburb of Beijing kills 19 people and injures 8. 
 
 

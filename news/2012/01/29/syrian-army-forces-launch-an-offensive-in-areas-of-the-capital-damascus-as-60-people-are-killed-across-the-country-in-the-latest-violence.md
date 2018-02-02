@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2012/01/29/syrian-army-forces-launch-an-offensive-in-areas-of-the-capital-damascus-as-60-people-are-killed-across-the-country-in-the-latest-violence.html)  [JSON](/news/2012/01/29/syrian-army-forces-launch-an-offensive-in-areas-of-the-capital-damascus-as-60-people-are-killed-across-the-country-in-the-latest-violence.json)  [XML](/news/2012/01/29/syrian-army-forces-launch-an-offensive-in-areas-of-the-capital-damascus-as-60-people-are-killed-across-the-country-in-the-latest-violence.xml)  
+
 ### [2012-01-29](/news/2012/01/29/index.md)
 
+##### Syrian Army
 # Syrian Army forces launch an offensive in areas of the capital Damascus, as 60 people are killed across the country in the latest violence. 
 
 Activists report tanks on the streets and clashes between Syrian soldiers and deserters in restive suburb of Al-Ghouta.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/01/2012129131321937927.html)
-2. [Reuters](http://www.reuters.com/article/2012/01/30/us-syria-idUSTRE80S08620120130)
+2. [Reuters](https://www.reuters.com/article/2012/01/30/us-syria-idUSTRE80S08620120130)
 2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/29/2012129143757592734_20.jpg)
+
+### Changes:
+
+1. [2011-2012 Syrian uprising:Syrian Army forces launch an offensive in areas of the capital Damascus, as 60 people are killed across the country in the latest violence. ](/news/2012/01/29/2011a2012-syrian-uprising-psyrian-army-forces-launch-an-offensive-in-areas-of-the-capital-damascus-as-60-people-are-killed-across-the-cou.md) _2017-08-25 03:34:55 (First version)_
+2. [2011-2012 Syrian uprising:: Syrian Army forces launch an offensive in areas of the capital Damascus, as 60 people are killed across the country in the latest violence. ](/news/2012/01/29/2011-2012-syrian-uprising-syrian-army-forces-launch-an-offensive-in-areas-of-the-capital-damascus-as-60-people-are-killed-across-the-co.md) _2017-08-27 03:35:04 (Update)_
+2. [Syrian Army forces launch an offensive in areas of the capital Damascus, as 60 people are killed across the country in the latest violence. ](/news/2012/01/29/syrian-army-forces-launch-an-offensive-in-areas-of-the-capital-damascus-as-60-people-are-killed-across-the-country-in-the-latest-violence.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ Activists report tanks on the streets and clashes between Syrian soldiers and de
 3. [The Syrian Army backed by Hezbollah fighters retakes a key airbase on the eastern outskirts of Damascus. The Marj al-Sultan airbase had been under rebel control since November 2012. ](/news/2015/12/14/the-syrian-army-backed-by-hezbollah-fighters-retakes-a-key-airbase-on-the-eastern-outskirts-of-damascus-the-marj-al-sultan-airbase-had-been.md) _Context: Damascus, Syrian Army_
 4. [More than 160 people have been killed in fighting between the Syrian Army and opposition forces in the suburbs of Damascus. ](/news/2013/11/24/more-than-160-people-have-been-killed-in-fighting-between-the-syrian-army-and-opposition-forces-in-the-suburbs-of-damascus.md) _Context: Damascus, Syrian Army_
 5. [A suicide bomber kills 16 Syrian Army soldiers at a checkpoint near Damascus. ](/news/2013/10/19/a-suicide-bomber-kills-16-syrian-army-soldiers-at-a-checkpoint-near-damascus.md) _Context: Damascus, Syrian Army_
-
-### Changes:
-
-1. [2011-2012 Syrian uprising:Syrian Army forces launch an offensive in areas of the capital Damascus, as 60 people are killed across the country in the latest violence. ](/news/2012/01/29/2011a2012-syrian-uprising-psyrian-army-forces-launch-an-offensive-in-areas-of-the-capital-damascus-as-60-people-are-killed-across-the-cou.md) _2017-08-25 03:34:55 (First version)_
-2. [2011-2012 Syrian uprising:: Syrian Army forces launch an offensive in areas of the capital Damascus, as 60 people are killed across the country in the latest violence. ](/news/2012/01/29/2011-2012-syrian-uprising-syrian-army-forces-launch-an-offensive-in-areas-of-the-capital-damascus-as-60-people-are-killed-across-the-co.md) _2017-08-27 03:35:04 (Update)_
-2. [Syrian Army forces launch an offensive in areas of the capital Damascus, as 60 people are killed across the country in the latest violence. ](/news/2012/01/29/syrian-army-forces-launch-an-offensive-in-areas-of-the-capital-damascus-as-60-people-are-killed-across-the-country-in-the-latest-violence.md) _(Current version)_

@@ -1,7 +1,7 @@
-## [2002-08-23](/news/2002/08/23/index.md)
 
-### [ Recent celebrity deaths: Baseball Hall of Fame player Hoyt Wilhelm dies.](/news/2002/08/23/recent-celebrity-deaths-baseball-hall-of-fame-player-hoyt-wilhelm-dies.md)
-_Context: Baseball Hall of Fame, Hoyt Wilhelm, Recent celebrity deaths_
+Formats: [HTML](2002/08/23/index.html)  [JSON](2002/08/23/index.json)  [XML](2002/08/23/index.xml)  
+
+## [2002-08-23](/news/2002/08/23/index.md)
 
 ## [Previous Day...](/news/2002/08/22/index.md)
 

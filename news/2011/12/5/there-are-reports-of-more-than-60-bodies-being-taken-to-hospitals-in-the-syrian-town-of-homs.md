@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/5/there-are-reports-of-more-than-60-bodies-being-taken-to-hospitals-in-the-syrian-town-of-homs.html)  [JSON](/news/2011/12/5/there-are-reports-of-more-than-60-bodies-being-taken-to-hospitals-in-the-syrian-town-of-homs.json)  [XML](/news/2011/12/5/there-are-reports-of-more-than-60-bodies-being-taken-to-hospitals-in-the-syrian-town-of-homs.xml)  
+
 ### [2011-12-5](/news/2011/12/5/index.md)
 
+##### Syria
 # There are reports of more than 60 bodies being taken to hospitals in the Syrian town of Homs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=248226)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=353023)

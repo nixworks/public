@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/24/the-2013-stockholm-riots-enter-their-fifth-night.html)  [JSON](/news/2013/05/24/the-2013-stockholm-riots-enter-their-fifth-night.json)  [XML](/news/2013/05/24/the-2013-stockholm-riots-enter-their-fifth-night.xml)  
+
 ### [2013-05-24](/news/2013/05/24/index.md)
 
+##### 2013 Stockholm riots
 # The 2013 Stockholm riots enter their fifth night. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2013/05/24/Stockholm-suburbs-beset-by-5th-night-of-violence/UPI-34301369378800/)
 

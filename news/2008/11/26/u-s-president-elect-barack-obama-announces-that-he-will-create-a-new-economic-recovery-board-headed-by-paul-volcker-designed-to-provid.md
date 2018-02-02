@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/26/u-s-president-elect-barack-obama-announces-that-he-will-create-a-new-economic-recovery-board-headed-by-paul-volcker-designed-to-provid.html)  [JSON](/news/2008/11/26/u-s-president-elect-barack-obama-announces-that-he-will-create-a-new-economic-recovery-board-headed-by-paul-volcker-designed-to-provid.json)  [XML](/news/2008/11/26/u-s-president-elect-barack-obama-announces-that-he-will-create-a-new-economic-recovery-board-headed-by-paul-volcker-designed-to-provid.xml)  
+
 ### [2008-11-26](/news/2008/11/26/index.md)
 
+##### U.S.
 #  U.S. President-elect Barack Obama announces that he will create a new "economic recovery board," headed by Paul Volcker, designed to provide "fresh perspective" on the current economic issues 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2008/POLITICS/11/26/transition.wrap/index.html?eref=rss_politics)
 

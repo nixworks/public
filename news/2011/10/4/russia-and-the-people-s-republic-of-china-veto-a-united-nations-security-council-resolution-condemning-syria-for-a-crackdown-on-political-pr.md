@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/4/russia-and-the-people-s-republic-of-china-veto-a-united-nations-security-council-resolution-condemning-syria-for-a-crackdown-on-political-pr.html)  [JSON](/news/2011/10/4/russia-and-the-people-s-republic-of-china-veto-a-united-nations-security-council-resolution-condemning-syria-for-a-crackdown-on-political-pr.json)  [XML](/news/2011/10/4/russia-and-the-people-s-republic-of-china-veto-a-united-nations-security-council-resolution-condemning-syria-for-a-crackdown-on-political-pr.xml)  
+
 ### [2011-10-4](/news/2011/10/4/index.md)
 
+##### Russia
 # Russia and the People's Republic of China veto a United Nations Security Council resolution condemning Syria for a crackdown on political protestors. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/10/2011104223132792190.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/10/5/201110555759224580_20.jpg)

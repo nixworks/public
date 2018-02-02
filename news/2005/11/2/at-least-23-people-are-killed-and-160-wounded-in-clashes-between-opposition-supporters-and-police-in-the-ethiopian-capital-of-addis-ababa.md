@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/2/at-least-23-people-are-killed-and-160-wounded-in-clashes-between-opposition-supporters-and-police-in-the-ethiopian-capital-of-addis-ababa.html)  [JSON](/news/2005/11/2/at-least-23-people-are-killed-and-160-wounded-in-clashes-between-opposition-supporters-and-police-in-the-ethiopian-capital-of-addis-ababa.json)  [XML](/news/2005/11/2/at-least-23-people-are-killed-and-160-wounded-in-clashes-between-opposition-supporters-and-police-in-the-ethiopian-capital-of-addis-ababa.xml)  
+
 ### [2005-11-2](/news/2005/11/2/index.md)
 
+##### Ethiopia
 #  At least 23 people are killed and 160 wounded in clashes between opposition supporters and police in the Ethiopian capital of Addis Ababa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-11-02T164727Z_01_YUE251729_RTRUKOC_0_UK-ETHIOPIA-PROTESTS.xml)
 

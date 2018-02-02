@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/03/28/the-munk-centre-for-international-studies-discovers-china-s-ghostnet-electronic-surveillance-operation.html)  [JSON](/news/2009/03/28/the-munk-centre-for-international-studies-discovers-china-s-ghostnet-electronic-surveillance-operation.json)  [XML](/news/2009/03/28/the-munk-centre-for-international-studies-discovers-china-s-ghostnet-electronic-surveillance-operation.xml)  
+
 ### [2009-03-28](/news/2009/03/28/index.md)
 
+##### Munk Centre for International Studies
 #  The Munk Centre for International Studies discovers China's GhostNet electronic surveillance operation. 
 
 Researchers said that the spying, which infiltrated the offices of the Dalai Lama, was controlled from computers based almost exclusively in China.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2009/03/29/technology/29spy.html?_r=1&hp)
+1. [New York Times](https://www.nytimes.com/2009/03/29/technology/29spy.html?_r=1&hp)
 1. [Cover Image](https://static01.nyt.com/images/2009/03/29/world/29spy_75.jpg)
 
 ### Related:

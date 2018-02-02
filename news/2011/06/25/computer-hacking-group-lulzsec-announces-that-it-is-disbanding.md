@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/25/computer-hacking-group-lulzsec-announces-that-it-is-disbanding.html)  [JSON](/news/2011/06/25/computer-hacking-group-lulzsec-announces-that-it-is-disbanding.json)  [XML](/news/2011/06/25/computer-hacking-group-lulzsec-announces-that-it-is-disbanding.xml)  
+
 ### [2011-06-25](/news/2011/06/25/index.md)
 
+##### hackers
 # Computer hacking group LulzSec announces that it is disbanding. 
 
 After 50 days of anarchy.
 
 
-### Source:
+### Sources:
 
 1. [Business Insider](http://www.businessinsider.com/lulzsec-finished-2011-6)
 1. [Cover Image](http://static3.businessinsider.com/image/4e0468eb49e2ae9477040000-1190-625/notorious-hacker-group-lulzsec-just-announced-that-its-finished.jpg)

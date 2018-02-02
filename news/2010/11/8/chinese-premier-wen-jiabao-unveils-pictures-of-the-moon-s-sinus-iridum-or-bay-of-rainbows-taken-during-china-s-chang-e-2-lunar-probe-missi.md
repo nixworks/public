@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/8/chinese-premier-wen-jiabao-unveils-pictures-of-the-moon-s-sinus-iridum-or-bay-of-rainbows-taken-during-china-s-chang-e-2-lunar-probe-missi.html)  [JSON](/news/2010/11/8/chinese-premier-wen-jiabao-unveils-pictures-of-the-moon-s-sinus-iridum-or-bay-of-rainbows-taken-during-china-s-chang-e-2-lunar-probe-missi.json)  [XML](/news/2010/11/8/chinese-premier-wen-jiabao-unveils-pictures-of-the-moon-s-sinus-iridum-or-bay-of-rainbows-taken-during-china-s-chang-e-2-lunar-probe-missi.xml)  
+
 ### [2010-11-8](/news/2010/11/8/index.md)
 
+##### Wen Jiabao
 # Chinese Premier Wen Jiabao unveils pictures of the moon's Sinus Iridum, or Bay of Rainbows, taken during China's Chang`e-2 lunar probe mission. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Unian](http://www.unian.net/eng/news/news-405242.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-11/08/c_13596211.htm)

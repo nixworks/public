@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2014/10/9/american-drone-strikes-kill-at-least-five-militants-in-north-waziristan.html)  [JSON](/news/2014/10/9/american-drone-strikes-kill-at-least-five-militants-in-north-waziristan.json)  [XML](/news/2014/10/9/american-drone-strikes-kill-at-least-five-militants-in-north-waziristan.xml)  
+
 ### [2014-10-9](/news/2014/10/9/index.md)
 
+##### War in North-West Pakistan
 # American drone strikes kill at least five militants in North Waziristan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via SFGate](http://www.sfgate.com/news/world/article/US-drone-strikes-kill-5-militants-in-NW-Pakistan-5811001.php)
+
+### Changes:
+
+1. [War in North-West Pakistan: American drone strikes kill at least five militants in North Waziristan. ](/news/2014/10/9/war-in-north-west-pakistan-american-drone-strikes-kill-at-least-five-militants-in-north-waziristan.md) _2017-08-27 03:41:22 (First version)_
+1. [American drone strikes kill at least five militants in North Waziristan. ](/news/2014/10/9/american-drone-strikes-kill-at-least-five-militants-in-north-waziristan.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [Seven Pakistani army soldiers and 19 Taliban fighters are killed in overnight fighting in North Waziristan near the Afghanistan border. ](/news/2015/06/8/seven-pakistani-army-soldiers-and-19-taliban-fighters-are-killed-in-overnight-fighting-in-north-waziristan-near-the-afghanistan-border.md) _Context: North Waziristan, War in North-West Pakistan_
 4. [U.S. drone strikes in North Waziristan kill at least four suspected Taliban militants. ](/news/2015/04/12/u-s-drone-strikes-in-north-waziristan-kill-at-least-four-suspected-taliban-militants.md) _Context: North Waziristan, War in North-West Pakistan_
 5. [The Pakistan Army begins a ground offensive against militants in the town of Miramshah in North Waziristan. ](/news/2014/06/30/the-pakistan-army-begins-a-ground-offensive-against-militants-in-the-town-of-miramshah-in-north-waziristan.md) _Context: North Waziristan, War in North-West Pakistan_
-
-### Changes:
-
-1. [War in North-West Pakistan: American drone strikes kill at least five militants in North Waziristan. ](/news/2014/10/9/war-in-north-west-pakistan-american-drone-strikes-kill-at-least-five-militants-in-north-waziristan.md) _2017-08-27 03:41:22 (First version)_
-1. [American drone strikes kill at least five militants in North Waziristan. ](/news/2014/10/9/american-drone-strikes-kill-at-least-five-militants-in-north-waziristan.md) _(Current version)_

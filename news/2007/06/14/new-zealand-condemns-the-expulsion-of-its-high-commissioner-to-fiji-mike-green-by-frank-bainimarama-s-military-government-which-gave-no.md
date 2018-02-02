@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/14/new-zealand-condemns-the-expulsion-of-its-high-commissioner-to-fiji-mike-green-by-frank-bainimarama-s-military-government-which-gave-no.html)  [JSON](/news/2007/06/14/new-zealand-condemns-the-expulsion-of-its-high-commissioner-to-fiji-mike-green-by-frank-bainimarama-s-military-government-which-gave-no.json)  [XML](/news/2007/06/14/new-zealand-condemns-the-expulsion-of-its-high-commissioner-to-fiji-mike-green-by-frank-bainimarama-s-military-government-which-gave-no.xml)  
+
 ### [2007-06-14](/news/2007/06/14/index.md)
 
+##### High Commissioner
 #  New Zealand condemns the expulsion of its High Commissioner to Fiji, Mike Green, by Frank Bainimarama's military government, which gave no reason for the expulsion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6751133.stm)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/11/1/at-least-four-people-are-dead-one-injured-and-several-missing-following-a-fire-in-a-two-apartment-building-near-the-university-of-southern.html)  [JSON](/news/2014/11/1/at-least-four-people-are-dead-one-injured-and-several-missing-following-a-fire-in-a-two-apartment-building-near-the-university-of-southern.json)  [XML](/news/2014/11/1/at-least-four-people-are-dead-one-injured-and-several-missing-following-a-fire-in-a-two-apartment-building-near-the-university-of-southern.xml)  
+
 ### [2014-11-1](/news/2014/11/1/index.md)
 
+##### University of Southern Maine
 # At least four people are dead, one injured and several missing following a fire in a two apartment building near the University of Southern Maine campus in Portland. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo News US](http://news.yahoo.com/3-dead-1-injured-more-missing-maine-fire-154245065.html)
+1. [AP via Yahoo News US](https://news.yahoo.com/3-dead-1-injured-more-missing-maine-fire-154245065.html)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/23/tropical-storm-isaac-2012-the-u-s-national-hurricane-center-lowers-its-previous-hurricane-warning-threat-level-for-hispaniola-island-in.html)  [JSON](/news/2012/08/23/tropical-storm-isaac-2012-the-u-s-national-hurricane-center-lowers-its-previous-hurricane-warning-threat-level-for-hispaniola-island-in.json)  [XML](/news/2012/08/23/tropical-storm-isaac-2012-the-u-s-national-hurricane-center-lowers-its-previous-hurricane-warning-threat-level-for-hispaniola-island-in.xml)  
+
 ### [2012-08-23](/news/2012/08/23/index.md)
 
+##### Tropical Storm Isaac
 # Tropical Storm Isaac (2012): The U.S. National Hurricane Center lowers its previous hurricane warning threat level for Hispaniola island in the Caribbean Sea to a storm warning and hurricane watch in its 23.00 PM bulletin. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/7/french-polynesian-president-gaston-tong-sang-resigns.html)  [JSON](/news/2009/02/7/french-polynesian-president-gaston-tong-sang-resigns.json)  [XML](/news/2009/02/7/french-polynesian-president-gaston-tong-sang-resigns.xml)  
+
 ### [2009-02-7](/news/2009/02/7/index.md)
 
+##### French Polynesia
 #  French Polynesian President Gaston Tong Sang resigns. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Age](http://www.theaustralian.news.com.au/story/0,25197,25024302-2703,00.html)
 

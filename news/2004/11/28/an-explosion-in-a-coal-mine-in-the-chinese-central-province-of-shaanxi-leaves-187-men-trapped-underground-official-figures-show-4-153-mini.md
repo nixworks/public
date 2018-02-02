@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/28/an-explosion-in-a-coal-mine-in-the-chinese-central-province-of-shaanxi-leaves-187-men-trapped-underground-official-figures-show-4-153-mini.html)  [JSON](/news/2004/11/28/an-explosion-in-a-coal-mine-in-the-chinese-central-province-of-shaanxi-leaves-187-men-trapped-underground-official-figures-show-4-153-mini.json)  [XML](/news/2004/11/28/an-explosion-in-a-coal-mine-in-the-chinese-central-province-of-shaanxi-leaves-187-men-trapped-underground-official-figures-show-4-153-mini.xml)  
+
 ### [2004-11-28](/news/2004/11/28/index.md)
 
+##### coal miners
 #  An explosion in a coal mine in the Chinese central province of Shaanxi leaves 187 men trapped underground. Official figures show 4,153 mining accident deaths in the last nine months, while 119 miners are still missing from a November 20 iron mine fire in Hebei. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4049069.stm)
 2. [Xinhua](http://news.xinhuanet.com/english/2004-11/26/content_2265430.htm)

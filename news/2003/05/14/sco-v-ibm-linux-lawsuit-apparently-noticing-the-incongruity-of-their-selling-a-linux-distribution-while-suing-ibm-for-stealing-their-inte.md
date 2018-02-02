@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/14/sco-v-ibm-linux-lawsuit-apparently-noticing-the-incongruity-of-their-selling-a-linux-distribution-while-suing-ibm-for-stealing-their-inte.html)  [JSON](/news/2003/05/14/sco-v-ibm-linux-lawsuit-apparently-noticing-the-incongruity-of-their-selling-a-linux-distribution-while-suing-ibm-for-stealing-their-inte.json)  [XML](/news/2003/05/14/sco-v-ibm-linux-lawsuit-apparently-noticing-the-incongruity-of-their-selling-a-linux-distribution-while-suing-ibm-for-stealing-their-inte.xml)  
+
 ### [2003-05-14](/news/2003/05/14/index.md)
 
+##### SCO v. IBM
 #  SCO v. IBM Linux lawsuit: Apparently noticing the incongruity of their selling a Linux distribution while suing IBM for stealing their intellectual property and giving it to the developers of that operating system, the SCO Group (formerly Caldera International and Caldera Systems) announces they will no longer distribute Linux. According to their press release, "SCO will continue to support existing SCO Linux and Caldera OpenLinux customers and hold them harmless from any SCO intellectual property issues regarding SCO Linux and Caldera OpenLinux products."
 
 

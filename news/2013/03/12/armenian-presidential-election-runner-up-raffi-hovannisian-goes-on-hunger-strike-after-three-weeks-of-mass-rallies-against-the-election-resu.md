@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/03/12/armenian-presidential-election-runner-up-raffi-hovannisian-goes-on-hunger-strike-after-three-weeks-of-mass-rallies-against-the-election-resu.html)  [JSON](/news/2013/03/12/armenian-presidential-election-runner-up-raffi-hovannisian-goes-on-hunger-strike-after-three-weeks-of-mass-rallies-against-the-election-resu.json)  [XML](/news/2013/03/12/armenian-presidential-election-runner-up-raffi-hovannisian-goes-on-hunger-strike-after-three-weeks-of-mass-rallies-against-the-election-resu.xml)  
+
 ### [2013-03-12](/news/2013/03/12/index.md)
 
+##### Armenia
 # Armenian presidential election runner-up Raffi Hovannisian goes on hunger strike after three weeks of mass rallies against the election results. 
 
 Former Armenian presidential candidate Raffi Hovannisian began a hunger strike on Sunday calling on President Serzh Sarksyan to resign, accusing him of rigging his re-election last month.
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe](http://www.rferl.org/content/armenia-hovannisian-hunger-strike/24924903.html)
-2. [Reuters](http://www.reuters.com/article/2013/03/10/us-armenia-election-idUSBRE9290EV20130310)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130310&t=2&i=711403676&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9291HKS00)
+2. [Reuters](https://www.reuters.com/article/2013/03/10/us-armenia-election-idUSBRE9290EV20130310)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130310&t=2&i=711403676&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9291HKS00)
 
 ### Related:
 

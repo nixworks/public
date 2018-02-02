@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/21/mister-bolivia-wins-mister-international-2009-at-the-end-of-the-two-week-event-in-taiwan.html)  [JSON](/news/2009/12/21/mister-bolivia-wins-mister-international-2009-at-the-end-of-the-two-week-event-in-taiwan.json)  [XML](/news/2009/12/21/mister-bolivia-wins-mister-international-2009-at-the-end-of-the-two-week-event-in-taiwan.xml)  
+
 ### [2009-12-21](/news/2009/12/21/index.md)
 
+##### Bolivia
 #  Mister Bolivia wins Mister International 2009 at the end of the two-week event in Taiwan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8424449.stm)
 

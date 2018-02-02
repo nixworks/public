@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/23/an-israeli-psychiatrist-and-reserve-officer-is-charged-with-giving-classified-information-to-iran-russia-and-hamas.html)  [JSON](/news/2007/11/23/an-israeli-psychiatrist-and-reserve-officer-is-charged-with-giving-classified-information-to-iran-russia-and-hamas.json)  [XML](/news/2007/11/23/an-israeli-psychiatrist-and-reserve-officer-is-charged-with-giving-classified-information-to-iran-russia-and-hamas.xml)  
+
 ### [2007-11-23](/news/2007/11/23/index.md)
 
+##### Israel
 #  An Israeli psychiatrist and reserve officer is charged with giving classified information to Iran, Russia and Hamas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/7109267.stm)
 

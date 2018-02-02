@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/12/thousands-of-people-gather-in-kuala-lumpur-malaysia-for-the-people-s-uprising-rally-a-protest-over-many-government-policies-and-decisions.html)  [JSON](/news/2013/01/12/thousands-of-people-gather-in-kuala-lumpur-malaysia-for-the-people-s-uprising-rally-a-protest-over-many-government-policies-and-decisions.json)  [XML](/news/2013/01/12/thousands-of-people-gather-in-kuala-lumpur-malaysia-for-the-people-s-uprising-rally-a-protest-over-many-government-policies-and-decisions.xml)  
+
 ### [2013-01-12](/news/2013/01/12/index.md)
 
+##### Kuala Lumpur
 # Thousands of people gather in Kuala Lumpur, Malaysia, for the People's Uprising Rally, a protest over many government policies and decisions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News Straits Times](http://www.nst.com.my/latest/kl-rally-at-dataran-merdeka-1.200177)
 

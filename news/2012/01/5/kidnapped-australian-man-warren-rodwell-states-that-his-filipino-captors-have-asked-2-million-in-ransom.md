@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/5/kidnapped-australian-man-warren-rodwell-states-that-his-filipino-captors-have-asked-2-million-in-ransom.html)  [JSON](/news/2012/01/5/kidnapped-australian-man-warren-rodwell-states-that-his-filipino-captors-have-asked-2-million-in-ransom.json)  [XML](/news/2012/01/5/kidnapped-australian-man-warren-rodwell-states-that-his-filipino-captors-have-asked-2-million-in-ransom.xml)  
+
 ### [2012-01-5](/news/2012/01/5/index.md)
 
+##### kidnapped
 # Kidnapped Australian man Warren Rodwell states that his Filipino captors have asked $2 million in ransom. 
 
 Kidnapped Australian adventurer Warren Rodwell pleads for his life in a video sent to his Filipina wife, and says his captors are demanding a $US2 million ransom.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/national/us2m-ransom-on-australians-life-20120104-1pla7.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/1/p/l/i/u/image.related.thumbnail.320x214.1pla7.png/1325712934300.jpg)

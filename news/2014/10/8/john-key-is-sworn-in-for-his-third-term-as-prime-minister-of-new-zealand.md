@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/8/john-key-is-sworn-in-for-his-third-term-as-prime-minister-of-new-zealand.html)  [JSON](/news/2014/10/8/john-key-is-sworn-in-for-his-third-term-as-prime-minister-of-new-zealand.json)  [XML](/news/2014/10/8/john-key-is-sworn-in-for-his-third-term-as-prime-minister-of-new-zealand.xml)  
+
 ### [2014-10-8](/news/2014/10/8/index.md)
 
+##### John Key
 # John Key is sworn in for his third term as Prime Minister of New Zealand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-10-08/new-zealand-pm-john-key-sworn-in/5798742)
 1. [Cover Image](http://www.abc.net.au/news/image/200208-1x1-700x700.jpg)

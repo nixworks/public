@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2015/05/11/a-new-strain-of-bird-flu-caused-by-the-h5n8-virus-is-identified-in-a-backyard-poultry-flock-in-whitley-county-indiana-in-the-united-states.html)  [JSON](/news/2015/05/11/a-new-strain-of-bird-flu-caused-by-the-h5n8-virus-is-identified-in-a-backyard-poultry-flock-in-whitley-county-indiana-in-the-united-states.json)  [XML](/news/2015/05/11/a-new-strain-of-bird-flu-caused-by-the-h5n8-virus-is-identified-in-a-backyard-poultry-flock-in-whitley-county-indiana-in-the-united-states.xml)  
+
 ### [2015-05-11](/news/2015/05/11/index.md)
 
+##### Avian flu virus
 # A new strain of bird flu caused by the H5N8 virus is identified in a backyard poultry flock in Whitley County, Indiana, in the United States. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Journal Gazette](http://www.journalgazette.net/news/local/indiana/Bird-flu-strain-detected-in-NE-Indiana-s-Whitley-County-6591887)
 1. [Cover Image](http://journalgazette.net/assets/11780510/6591500.jpg)
 
 ### Related:
 
-1. [Singapore, Vietnam, Indonesia and Hong Kong ban poultry imports from the Australian state of Victoria while Japan bans imports from the whole of Australia following an outbreak of a low pathogenic form of the avian influenza (separate from the potentially deadly H5N1 strain).](/news/2012/02/1/singapore-vietnam-indonesia-and-hong-kong-ban-poultry-imports-from-the-australian-state-of-victoria-while-japan-bans-imports-from-the-whol.md) _Context: Avian flu virus, poultry_
-2. [ China closes all Beijing poultry markets. Authorities ordered all live poultry markets in China's capital to close immediately and went door-to-door seizing chickens and ducks from private homes, as the government dramatically ramped up its fight against avian influenza today. ](/news/2005/11/7/china-closes-all-beijing-poultry-markets-authorities-ordered-all-live-poultry-markets-in-china-s-capital-to-close-immediately-and-went-doo.md) _Context: Avian flu virus, poultry_
-3. [ In a conference organized by the UN Food and Agriculture Organization, officials urge changes to be made in how poultry are raised in Southeast Asia to prevent a bird flu pandemic. ](/news/2005/02/26/in-a-conference-organized-by-the-un-food-and-agriculture-organization-officials-urge-changes-to-be-made-in-how-poultry-are-raised-in-south.md) _Context: Avian flu virus, poultry_
-4. [ The People's Republic of China puts poultry export bans on three more areas after a World Health Organization warning that the chance of controlling the Avian flu outbreak is slipping. A new SARS case is confirmed in Guangdong province.](/news/2004/01/31/the-people-s-republic-of-china-puts-poultry-export-bans-on-three-more-areas-after-a-world-health-organization-warning-that-the-chance-of-co.md) _Context: Avian flu virus, poultry_
-5. [The Nobel Prize committee awards American Richard Thaler the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-his.md) _Context: United States_
+1. [ In a conference organized by the UN Food and Agriculture Organization, officials urge changes to be made in how poultry are raised in Southeast Asia to prevent a bird flu pandemic. ](/news/2005/02/26/in-a-conference-organized-by-the-un-food-and-agriculture-organization-officials-urge-changes-to-be-made-in-how-poultry-are-raised-in-south.md) _Context: Avian flu virus, poultry_
+2. [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md) _Context: U.S._
+3. [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md) _Context: U.S._
+4. [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md) _Context: U.S._
+5. [During a session of the United Nations Security Council, the United States repeat its "unapologetic" support for the ongoing Iranian protests. Russia denounces the "veiled [U.S.] attempt to use the current moment to continue to undermine" the JCPOA. France calls to "be wary of any attempt to exploit this crisis for personal ends". ](/news/2018/01/5/during-a-session-of-the-united-nations-security-council-the-united-states-repeat-its-unapologetic-support-for-the-ongoing-iranian-protest.md) _Context: U.S._

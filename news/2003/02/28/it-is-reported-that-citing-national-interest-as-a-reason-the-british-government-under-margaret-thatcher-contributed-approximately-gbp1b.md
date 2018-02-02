@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/28/it-is-reported-that-citing-national-interest-as-a-reason-the-british-government-under-margaret-thatcher-contributed-approximately-gbp1b.html)  [JSON](/news/2003/02/28/it-is-reported-that-citing-national-interest-as-a-reason-the-british-government-under-margaret-thatcher-contributed-approximately-gbp1b.json)  [XML](/news/2003/02/28/it-is-reported-that-citing-national-interest-as-a-reason-the-british-government-under-margaret-thatcher-contributed-approximately-gbp1b.xml)  
+
 ### [2003-02-28](/news/2003/02/28/index.md)
 
+##### Margaret Thatcher
 #  It is reported that, citing "national interest" as a reason, the British government under Margaret Thatcher contributed approximately GBP1bn of taxpayer money to Iraq under Saddam Hussein in the 1980s. Most of this money went into military infrastructure built by British companies such as GEC-Marconi.
 
 

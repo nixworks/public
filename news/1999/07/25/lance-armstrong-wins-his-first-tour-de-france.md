@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/07/25/lance-armstrong-wins-his-first-tour-de-france.html)  [JSON](/news/1999/07/25/lance-armstrong-wins-his-first-tour-de-france.json)  [XML](/news/1999/07/25/lance-armstrong-wins-his-first-tour-de-france.xml)  
+
 ### [1999-07-25](/news/1999/07/25/index.md)
 
+##### Lance Armstrong
 #  Lance Armstrong wins his first Tour de France.
 
 

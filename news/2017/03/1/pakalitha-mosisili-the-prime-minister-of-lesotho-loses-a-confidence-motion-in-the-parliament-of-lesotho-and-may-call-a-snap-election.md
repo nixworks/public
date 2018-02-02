@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/1/pakalitha-mosisili-the-prime-minister-of-lesotho
 
 ### [2017-03-1](/news/2017/03/1/index.md)
 
+##### Pakalitha Mosisili
 # Pakalitha Mosisili, the Prime Minister of Lesotho loses a confidence motion in the Parliament of Lesotho, and may call a snap election. 
 
 

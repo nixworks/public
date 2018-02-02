@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/7/a-us-military-helicopter-uh-60-blackhawk-has-crashed-in-northern-iraq-near-talafar-all-12-persons-on-board-have-been-killed.html)  [JSON](/news/2006/01/7/a-us-military-helicopter-uh-60-blackhawk-has-crashed-in-northern-iraq-near-talafar-all-12-persons-on-board-have-been-killed.json)  [XML](/news/2006/01/7/a-us-military-helicopter-uh-60-blackhawk-has-crashed-in-northern-iraq-near-talafar-all-12-persons-on-board-have-been-killed.xml)  
+
 ### [2006-01-7](/news/2006/01/7/index.md)
 
+##### USA
 #  A US military helicopter UH-60 Blackhawk has crashed in northern Iraq near Talafar. All 12 persons on board have been killed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4592622.stm)
 

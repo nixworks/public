@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/11/the-british-museum-states-that-the-nebo-sarsekim-tablet-a-clay-tablet-dating-from-695-bc-contains-a-cuneiform-inscription-confirming-the.html)  [JSON](/news/2007/07/11/the-british-museum-states-that-the-nebo-sarsekim-tablet-a-clay-tablet-dating-from-695-bc-contains-a-cuneiform-inscription-confirming-the.json)  [XML](/news/2007/07/11/the-british-museum-states-that-the-nebo-sarsekim-tablet-a-clay-tablet-dating-from-695-bc-contains-a-cuneiform-inscription-confirming-the.xml)  
+
 ### [2007-07-11](/news/2007/07/11/index.md)
 
+##### British Museum
 #  The British Museum states that the Nebo-Sarsekim Tablet, a clay tablet dating from 695 BC, contains a cuneiform inscription confirming the existence of a figure mentioned in the Old Testament. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.news.com.au/story/0,23599,22060312-2,00.html?from=mostpop)
 

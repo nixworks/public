@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/3/the-daughter-of-former-alaska-governor-sarah-palin-bristol-palin-and-levi-johnston-once-again-call-off-their-engagement-after-it-s-revealed.html)  [JSON](/news/2010/08/3/the-daughter-of-former-alaska-governor-sarah-palin-bristol-palin-and-levi-johnston-once-again-call-off-their-engagement-after-it-s-revealed.json)  [XML](/news/2010/08/3/the-daughter-of-former-alaska-governor-sarah-palin-bristol-palin-and-levi-johnston-once-again-call-off-their-engagement-after-it-s-revealed.xml)  
+
 ### [2010-08-3](/news/2010/08/3/index.md)
 
+##### Sarah Palin
 # The daughter of former Alaska Governor Sarah Palin, Bristol Palin and Levi Johnston once again call off their engagement after it's revealed that Johnston fathered a child with another woman. 
 
 Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, celeb videos, photos, movies, TV, music news and pop culture on&nbsp;ABCNews.com.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/Entertainment/wireStory?id=11317813)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/10/a-bomb-explodes-at-a-market-in-the-pakistani-city-of-quetta-leaving-at-least-ten-people-dead.html)  [JSON](/news/2004/12/10/a-bomb-explodes-at-a-market-in-the-pakistani-city-of-quetta-leaving-at-least-ten-people-dead.json)  [XML](/news/2004/12/10/a-bomb-explodes-at-a-market-in-the-pakistani-city-of-quetta-leaving-at-least-ten-people-dead.xml)  
+
 ### [2004-12-10](/news/2004/12/10/index.md)
 
+##### Pakistan
 #  A bomb explodes at a market in the Pakistani city of Quetta, leaving at least ten people dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/4085263.stm)
 

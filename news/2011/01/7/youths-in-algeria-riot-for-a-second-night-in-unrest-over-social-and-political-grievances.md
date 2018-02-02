@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/01/7/youths-in-algeria-riot-for-a-second-night-in-unrest-over-social-and-political-grievances.html)  [JSON](/news/2011/01/7/youths-in-algeria-riot-for-a-second-night-in-unrest-over-social-and-political-grievances.json)  [XML](/news/2011/01/7/youths-in-algeria-riot-for-a-second-night-in-unrest-over-social-and-political-grievances.xml)  
+
 ### [2011-01-7](/news/2011/01/7/index.md)
 
+##### Algeria
 # Youths in Algeria riot for a second night in unrest over social and political grievances. 
 
 Fresh rioting breaks out in the Algerian capital and several other cities, after days of unrest over food price increases and unemployment.
 
 
-### Source:
+### Sources:
 
 1. [Africa News](http://www.africanews.com/site/Algeria_Riots_over_high_food_prices/list_messages/36938)
-2. [Al Jazeera](http://www.youtube.com/watch?v=fpQkHcIJpFg)
+2. [Al Jazeera](https://www.youtube.com/watch?v=fpQkHcIJpFg)
 3. [BBC](http://www.bbc.co.uk/news/world-africa-12134307)
 3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 

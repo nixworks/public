@@ -1,26 +1,30 @@
+
+Formats: [HTML](/news/2012/05/6/voters-in-greece-go-to-the-polls-for-a-parliamentary-election-with-parties-opposed-to-austerity-measures-winning-60-per-cent-of-the-vote-and.html)  [JSON](/news/2012/05/6/voters-in-greece-go-to-the-polls-for-a-parliamentary-election-with-parties-opposed-to-austerity-measures-winning-60-per-cent-of-the-vote-and.json)  [XML](/news/2012/05/6/voters-in-greece-go-to-the-polls-for-a-parliamentary-election-with-parties-opposed-to-austerity-measures-winning-60-per-cent-of-the-vote-and.xml)  
+
 ### [2012-05-6](/news/2012/05/6/index.md)
 
+##### Greece
 # Voters in Greece go to the polls for a parliamentary election with parties opposed to austerity measures winning 60 per cent of the vote and the two main parties in favour of austerity suffering withering defeats. 
 
-Greek voters have dealt a blow to eurozone hopes that Athens will stick to its austerity commitments as parties opposing more cuts, including neo-Nazis, won almost 60 per cent support at the polls.
+Greeks are voting today in national elections that may determine whether the country has a future in the euro area.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/greek-voters-reject-eurozone-austerity-20120507-1y7km.html)
 2. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/05/201256165643443598.html)
-3. [Bloomberg](http://www.bloomberg.com/news/2012-05-05/greece-votes-in-elections-with-euro-future-at-stake.html)
-3. [Cover Image](http://www.smh.com.au/content/dam/images/1/y/7/k/u/image.related.articleLeadwide.620x349.1y7km.png/1336393983103.jpg)
-
-### Related:
-
-1. [Voters in Greece go to the polls for a second legislative election after the first election on May 6 failed to form a coalition government. ](/news/2012/06/17/voters-in-greece-go-to-the-polls-for-a-second-legislative-election-after-the-first-election-on-may-6-failed-to-form-a-coalition-government.md) _Context: Greek, first election on May 6_
-2. [Aftershocks cause panic in the Greek island of Kos after a deadly earthquake that injured hundreds. ](/news/2017/07/22/aftershocks-cause-panic-in-the-greek-island-of-kos-after-a-deadly-earthquake-that-injured-hundreds.md) _Context: Greek_
-3. [A 6.7 magnitude earthquake in the Aegean Sea near Greece and Turkey kills two people and injures more than 520 others. ](/news/2017/07/21/a-6-7-magnitude-earthquake-in-the-aegean-sea-near-greece-and-turkey-kills-two-people-and-injures-more-than-520-others.md) _Context: Greek_
-4. [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing one death. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-one-death-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md) _Context: Greek_
-5. [Scientists discover 7.2 million-year-old "pre-human" remains in the Balkans area near Bulgaria and Greece. ](/news/2017/05/23/scientists-discover-7-2-million-year-old-pre-human-remains-in-the-balkans-area-near-bulgaria-and-greece.md) _Context: Greek_
+3. [Bloomberg](https://www.bloomberg.com/news/2012-05-05/greece-votes-in-elections-with-euro-future-at-stake.html)
+3. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Changes:
 
-1. [Voters in Armenia go to the polls for a parliamentary election with exit polls showing the ruling Republican Party doing well. ](/news/2012/05/6/voters-in-armenia-go-to-the-polls-for-a-parliamentary-election-with-exit-polls-showing-the-ruling-republican-party-doing-well.md) _2017-10-16 03:41:47 (First version)_
+1. [Voters in Armenia go to the polls for a parliamentary election with exit polls showing the ruling Republican Party doing well. ](/news/2012/05/6/voters-in-armenia-go-to-the-polls-for-a-parliamentary-election-with-exit-polls-showing-the-ruling-republican-party-doing-well.md) _2017-10-17 03:41:27 (First version)_
 1. [Voters in Greece go to the polls for a parliamentary election with parties opposed to austerity measures winning 60 per cent of the vote and the two main parties in favour of austerity suffering withering defeats. ](/news/2012/05/6/voters-in-greece-go-to-the-polls-for-a-parliamentary-election-with-parties-opposed-to-austerity-measures-winning-60-per-cent-of-the-vote-and.md) _(Current version)_
+
+### Related:
+
+1. [Voters in Greece go to the polls for a second legislative election after the first election on May 6 failed to form a coalition government. ](/news/2012/06/17/voters-in-greece-go-to-the-polls-for-a-second-legislative-election-after-the-first-election-on-may-6-failed-to-form-a-coalition-government.md) _Context: Greece, first election on May 6_
+2. [The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" - allegedly bound for Libya, loaded with 410 tonnes of explosives - in Heraklion, Greece. 102 safety deficiencies are found, and 8 crew members are arrested. ](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-flagged-cargo-ship-andromeda-a-allegedly-bound-for-libya-loaded-with-410-tonnes-of-explos.md) _Context: Greece_
+3. [The President of Turkey embarks on a two-day state visit of Greece. Recep Tayyip Erdogan's demarche is a first in 65 years. ](/news/2017/12/7/the-president-of-turkey-embarks-on-a-two-day-state-visit-of-greece-recep-tayyip-erdoaan-s-da-c-marche-is-a-first-in-65-years.md) _Context: Greece_
+4. [Flash floods on the outskirts of the Greek capital Athens kill at least 16 people and injure dozens more after a severe thunderstorm. ](/news/2017/11/15/flash-floods-on-the-outskirts-of-the-greek-capital-athens-kill-at-least-16-people-and-injure-dozens-more-after-a-severe-thunderstorm.md) _Context: Greece_
+5. [Aftershocks cause panic in the Greek island of Kos after a deadly earthquake that injured hundreds. ](/news/2017/07/22/aftershocks-cause-panic-in-the-greek-island-of-kos-after-a-deadly-earthquake-that-injured-hundreds.md) _Context: Greece_

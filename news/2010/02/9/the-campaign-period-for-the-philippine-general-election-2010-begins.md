@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/9/the-campaign-period-for-the-philippine-general-election-2010-begins.html)  [JSON](/news/2010/02/9/the-campaign-period-for-the-philippine-general-election-2010-begins.json)  [XML](/news/2010/02/9/the-campaign-period-for-the-philippine-general-election-2010-begins.xml)  
+
 ### [2010-02-9](/news/2010/02/9/index.md)
 
+##### Philippine general election, 2010
 # The campaign period for the Philippine general election, 2010 begins. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8504847.stm)
 

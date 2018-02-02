@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/2/a-bomb-explodes-in-omagh-county-tyrone-northern-ireland-killing-one-hours-after-around-2-000-participants-in-a-half-marathon-pass-by-th.html)  [JSON](/news/2011/04/2/a-bomb-explodes-in-omagh-county-tyrone-northern-ireland-killing-one-hours-after-around-2-000-participants-in-a-half-marathon-pass-by-th.json)  [XML](/news/2011/04/2/a-bomb-explodes-in-omagh-county-tyrone-northern-ireland-killing-one-hours-after-around-2-000-participants-in-a-half-marathon-pass-by-th.xml)  
+
 ### [2011-04-2](/news/2011/04/2/index.md)
 
+##### Omagh
 # A bomb explodes in Omagh, County Tyrone, Northern Ireland, killing one, hours after around 2,000 participants in a half marathon pass by. The incident evokes memories of the 1998 Omagh bombing, while taoiseach Enda Kenny (Republic of Ireland) accuses the perpetrators of "acting in defiance of the Irish people". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-12947225)
 2. [CBC News](http://www.cbc.ca/news/world/story/2011/04/02/ireland-policeman-bomb.html)
@@ -15,7 +19,7 @@
 ### Related:
 
 1. [ Four men, including Real Irish Republican Army members Michael McKevitt and Colm Murphy, are declared responsible for the bombing of Omagh, County Tyrone, Northern Ireland, in 1998. ](/news/2009/06/8/four-men-including-real-irish-republican-army-members-michael-mckevitt-and-colm-murphy-are-declared-responsible-for-the-bombing-of-omagh.md) _Context: County Tyrone, Northern Ireland, Omagh, Omagh bombing_
-2. [Irish politicians respond to High Court Judge Paul Carney's order that a man who plead guilty in court to repeatedly raping his daughter as a child be granted bail and provisional released. Taoiseach Enda Kenny comments on a nation "filled with revulsion" at the outcome of the case, while opposition politician Gerry Adams refers to abuse his father inflicted on others. ](/news/2013/01/22/irish-politicians-respond-to-high-court-judge-paul-carney-s-order-that-a-man-who-plead-guilty-in-court-to-repeatedly-raping-his-daughter-as.md) _Context: Enda Kenny, Ireland, Taoiseach_
-3. [Ireland's Taoiseach Enda Kenny attacks the Vatican's approach to the child abuse scandals in the country as "absolutely disgraceful", while the Socialist Party's Joe Higgins tells Dail Eireann that people were "throwing their hands in the air" after the report into the sexual abuse scandal in Cloyne diocese was published this week. ](/news/2011/07/15/ireland-s-taoiseach-enda-kenny-attacks-the-vatican-s-approach-to-the-child-abuse-scandals-in-the-country-as-absolutely-disgraceful-while.md) _Context: Enda Kenny, Ireland, Taoiseach_
-4. [Enda Kenny is elected as the 13th Taoiseach of Ireland by a margin of 117-27 in the 31st Dail Eireann, replacing Brian Cowen. ](/news/2011/03/9/enda-kenny-is-elected-as-the-13th-taoiseach-of-ireland-by-a-margin-of-117-27-in-the-31st-da-il-aireann-replacing-brian-cowen.md) _Context: Enda Kenny, Ireland, Taoiseach_
-5. [Ireland's Fine Gael Deputy Leader and Finance Spokesperson Richard Bruton, brother of former Taoiseach John Bruton, is sacked after publicly declaring his lack of confidence in Fine Gael's leader Enda Kenny. ](/news/2010/06/14/ireland-s-fine-gael-deputy-leader-and-finance-spokesperson-richard-bruton-brother-of-former-taoiseach-john-bruton-is-sacked-after-publicly.md) _Context: Enda Kenny, Ireland, Taoiseach_
+2. [Schools and hospitals are closed in Ireland and Northern Ireland as the extratropical cyclone Ophelia is forecasted to make landfall on the island. ](/news/2017/10/16/schools-and-hospitals-are-closed-in-ireland-and-northern-ireland-as-the-extratropical-cyclone-ophelia-is-forecasted-to-make-landfall-on-the.md) _Context: Irish, Northern Ireland_
+3. [European Union leaders approve negotiating guidelines that seek to secure "sufficient progress" on the rights of European Union expatriates living in the United Kingdom, on the financial terms of the separation and on a "soft border" between the Republic of Ireland and Northern Ireland, before committing to talk about a new free trade deal. ](/news/2017/04/29/european-union-leaders-approve-negotiating-guidelines-that-seek-to-secure-sufficient-progress-on-the-rights-of-european-union-expatriates.md) _Context: Irish, Northern Ireland_
+4. [The Irish Dail Eireann (parliament) fails to elect a new taoiseach (Prime Minister) with incumbent Enda Kenny carrying on as a caretaker. ](/news/2016/03/10/the-irish-da-il-aireann-parliament-fails-to-elect-a-new-taoiseach-prime-minister-with-incumbent-enda-kenny-carrying-on-as-a-caretaker.md) _Context: Enda Kenny, taoiseach_
+5. [Voters in Ireland go to the polls for a general election. Exit polls indicate that the ruling coalition of Fine Gael party led by Enda Kenny and the Labour Party will fall short of re-election with 34% of the vote between them. ](/news/2016/02/26/voters-in-ireland-go-to-the-polls-for-a-general-election-exit-polls-indicate-that-the-ruling-coalition-of-fine-gael-party-led-by-enda-kenny.md) _Context: Enda Kenny, Irish_

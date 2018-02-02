@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/5/at-least-44-people-are-killed-by-lightning-in-the-indian-state-of-bihar-during-a-severe-storm.html)  [JSON](/news/2013/06/5/at-least-44-people-are-killed-by-lightning-in-the-indian-state-of-bihar-during-a-severe-storm.json)  [XML](/news/2013/06/5/at-least-44-people-are-killed-by-lightning-in-the-indian-state-of-bihar-during-a-severe-storm.xml)  
+
 ### [2013-06-5](/news/2013/06/5/index.md)
 
+##### Bihar
 # At least 44 people are killed by lightning in the Indian state of Bihar during a severe storm. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Independent Online](http://www.iol.co.za/news/world/44-killed-by-lightning-in-india-1.1527661)
 

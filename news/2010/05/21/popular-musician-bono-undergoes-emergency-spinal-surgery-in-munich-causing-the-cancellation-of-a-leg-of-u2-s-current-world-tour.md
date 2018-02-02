@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/21/popular-musician-bono-undergoes-emergency-spinal-surgery-in-munich-causing-the-cancellation-of-a-leg-of-u2-s-current-world-tour.html)  [JSON](/news/2010/05/21/popular-musician-bono-undergoes-emergency-spinal-surgery-in-munich-causing-the-cancellation-of-a-leg-of-u2-s-current-world-tour.json)  [XML](/news/2010/05/21/popular-musician-bono-undergoes-emergency-spinal-surgery-in-munich-causing-the-cancellation-of-a-leg-of-u2-s-current-world-tour.xml)  
+
 ### [2010-05-21](/news/2010/05/21/index.md)
 
+##### Bono
 # Popular musician Bono undergoes emergency spinal surgery in Munich, causing the cancellation of a leg of U2's current world tour. 
 
 U2 lead singer Bono had emergency surgery on his back in a Munich hospital today after being injured while preparing for the &hellip;
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment_and_arts/10139846.stm)
 2. [CBC](http://www.cbc.ca/arts/music/story/2010/05/21/bono-back-surgery.html)

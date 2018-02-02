@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/21/a-detachment-of-japanese-troops-land-in-south-s
 
 ### [2016-11-21](/news/2016/11/21/index.md)
 
+##### South Sudan Conflict
 # A detachment of Japanese troops land in South Sudan to aid in U.N. peacekeeping operations, Japan's first such action since World War II. 
 
 
@@ -22,6 +23,6 @@ Formats: [HTML](/news/2016/11/21/a-detachment-of-japanese-troops-land-in-south-s
 
 1. [The first-ever United Nations humanitarian summit opens in Istanbul, Turkey, to address the 125-million people crisis, the worst since World War II. ](/news/2016/05/23/the-first-ever-united-nations-humanitarian-summit-opens-in-istanbul-turkey-to-address-the-125-million-people-crisis-the-worst-since-world.md) _Context: United Nations, World War II_
 2. [The United Nations warns that the trial of Guantanamo Bay inmate Omar Khadr violates an International Criminal Court statute banning the trial for war crimes of those under the age of 18, saying this has not happened since World War II. ](/news/2010/08/10/the-united-nations-warns-that-the-trial-of-guanta-namo-bay-inmate-omar-khadr-violates-an-international-criminal-court-statute-banning-the-tr.md) _Context: United Nations, World War II_
-3. [The Trump administrations withdraws the United States from the Global Compact on Migration of the United Nations. ](/news/2017/12/2/the-trump-administrations-withdraws-the-united-states-from-the-global-compact-on-migration-of-the-united-nations.md) _Context: United Nations_
-4. [The Congressional Gold Medal is awarded to Filipino American veterans of World War II more than 70 years after the end of that war. ](/news/2017/10/25/the-congressional-gold-medal-is-awarded-to-filipino-american-veterans-of-world-war-ii-more-than-70-years-after-the-end-of-that-war.md) _Context: World War II_
-5. [Large portions of Frankfurt, Germany, are evacuated as local authorities work to defuse a bomb left over from a Royal Air Force raid during World War II. The evacuation is the largest to occur in Europe since World War II. ](/news/2017/09/3/large-portions-of-frankfurt-germany-are-evacuated-as-local-authorities-work-to-defuse-a-bomb-left-over-from-a-royal-air-force-raid-during.md) _Context: World War II_
+3. [Suspected Allied Democratic Forces militants in North Kivu, DR Congo, kill at least 15 United Nations peacekeepers, mostly Tanzanian, and five Congolese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. ](/news/2017/12/8/suspected-allied-democratic-forces-militants-in-north-kivu-dr-congo-kill-at-least-15-united-nations-peacekeepers-mostly-tanzanian-and-fi.md) _Context: United Nations_
+4. [President Trump suggests that the United States could withhold foreign aid for countries that vote in favor of a United Nations resolution calling on the U.S. to withdraw its recognition of Jerusalem as Israel's capital. ](/news/2017/12/20/president-trump-suggests-that-the-united-states-could-withhold-foreign-aid-for-countries-that-vote-in-favor-of-a-united-nations-resolution-c.md) _Context: United Nations_
+5. [The Trump administrations withdraws the United States from the Global Compact on Migration of the United Nations. ](/news/2017/12/2/the-trump-administrations-withdraws-the-united-states-from-the-global-compact-on-migration-of-the-united-nations.md) _Context: United Nations_

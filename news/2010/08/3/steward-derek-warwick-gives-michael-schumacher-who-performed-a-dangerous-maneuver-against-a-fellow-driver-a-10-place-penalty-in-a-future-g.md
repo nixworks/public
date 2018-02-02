@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/3/steward-derek-warwick-gives-michael-schumacher-who-performed-a-dangerous-maneuver-against-a-fellow-driver-a-10-place-penalty-in-a-future-g.html)  [JSON](/news/2010/08/3/steward-derek-warwick-gives-michael-schumacher-who-performed-a-dangerous-maneuver-against-a-fellow-driver-a-10-place-penalty-in-a-future-g.json)  [XML](/news/2010/08/3/steward-derek-warwick-gives-michael-schumacher-who-performed-a-dangerous-maneuver-against-a-fellow-driver-a-10-place-penalty-in-a-future-g.xml)  
+
 ### [2010-08-3](/news/2010/08/3/index.md)
 
+##### Derek Warwick
 # Steward Derek Warwick gives Michael Schumacher, who performed a dangerous maneuver against a fellow driver, a 10-place penalty in a future Grand Prix race. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press Association via ''The Guardian](http://www.guardian.co.uk/sport/2010/aug/03/michael-schumacher-disqualified-steward)
 

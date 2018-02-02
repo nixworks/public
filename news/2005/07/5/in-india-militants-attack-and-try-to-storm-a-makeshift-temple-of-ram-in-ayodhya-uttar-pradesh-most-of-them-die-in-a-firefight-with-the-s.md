@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/5/in-india-militants-attack-and-try-to-storm-a-makeshift-temple-of-ram-in-ayodhya-uttar-pradesh-most-of-them-die-in-a-firefight-with-the-s.html)  [JSON](/news/2005/07/5/in-india-militants-attack-and-try-to-storm-a-makeshift-temple-of-ram-in-ayodhya-uttar-pradesh-most-of-them-die-in-a-firefight-with-the-s.json)  [XML](/news/2005/07/5/in-india-militants-attack-and-try-to-storm-a-makeshift-temple-of-ram-in-ayodhya-uttar-pradesh-most-of-them-die-in-a-firefight-with-the-s.xml)  
+
 ### [2005-07-5](/news/2005/07/5/index.md)
 
+##### India
 #  In India, militants attack and try to storm a makeshift temple of Ram in Ayodhya, Uttar Pradesh; most of them die in a firefight with the security forces. There are differing reports about the number of attackers and how many were killed. The temple site is a source of dispute between Muslims and Hindus. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Newindpress](http://www.newindpress.com/NewsItems.asp?ID=IEL20050705003850&Page=L&Title=B+R+E+A+K+I+N+G++++N+E+W+S&Topic=-401)
 2. [Rediff](http://us.rediff.com/news/2005/jul/05ayo.htm)

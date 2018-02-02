@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/6/retired-british-businessman-christopher-tappin-is-denied-bail-in-the-us-state-of-texas-as-he-faces-arms-dealing-charges.html)  [JSON](/news/2012/03/6/retired-british-businessman-christopher-tappin-is-denied-bail-in-the-us-state-of-texas-as-he-faces-arms-dealing-charges.json)  [XML](/news/2012/03/6/retired-british-businessman-christopher-tappin-is-denied-bail-in-the-us-state-of-texas-as-he-faces-arms-dealing-charges.xml)  
+
 ### [2012-03-6](/news/2012/03/6/index.md)
 
+##### British
 # Retired British businessman Christopher Tappin is denied bail in the US state of Texas as he faces arms dealing charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/law/2012/mar/06/christopher-tappin-denied-bail)
 

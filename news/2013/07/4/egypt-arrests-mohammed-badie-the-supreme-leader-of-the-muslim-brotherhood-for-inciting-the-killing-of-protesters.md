@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/4/egypt-arrests-mohammed-badie-the-supreme-leader-of-the-muslim-brotherhood-for-inciting-the-killing-of-protesters.html)  [JSON](/news/2013/07/4/egypt-arrests-mohammed-badie-the-supreme-leader-of-the-muslim-brotherhood-for-inciting-the-killing-of-protesters.json)  [XML](/news/2013/07/4/egypt-arrests-mohammed-badie-the-supreme-leader-of-the-muslim-brotherhood-for-inciting-the-killing-of-protesters.xml)  
+
 ### [2013-07-4](/news/2013/07/4/index.md)
 
+##### Egypt
 # Egypt arrests Mohammed Badie, the Supreme Leader of the Muslim Brotherhood, for "inciting the killing of protesters". 
 
 The&#x20;supreme&#x20;leader&#x20;of&#x20;Egypt&#x27;s&#x20;Muslim&#x20;Brotherhood,&#x20;Mohammed&#x20;Badie,&#x20;has&#x20;been&#x20;arrested&#x20;and&#x20;taken&#x20;to&#x20;Cairo&#x20;on&#x20;a&#x20;military&#x20;helicopter,&#x20;security&#x20;officials&#x20;say.&#x20;Ousted&#x20;president&#x20;Mohammed&#x20;Morsi&#x20;was&#x20;a&#x20;member&#x20;and&#x20;former&#x20;leader&#x20;of&#x20;the&#x20;Islamist&#x20;movement.
 
 
-### Source:
+### Sources:
 
 1. [Wires via France 24](http://www.france24.com/en/20130704-egypt-arrests-supreme-leader-badie-muslim-brotherhood)
 1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/mohamed-badie-freres-musulmans-m.jpg)

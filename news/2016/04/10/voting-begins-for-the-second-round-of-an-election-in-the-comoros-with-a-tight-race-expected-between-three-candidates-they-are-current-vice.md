@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/10/voting-begins-for-the-second-round-of-an-electi
 
 ### [2016-04-10](/news/2016/04/10/index.md)
 
+##### Comorian presidential election, 2016
 # Voting begins for the second round of an election in the Comoros with a tight race expected between three candidates. They are current Vice President Mohamed Ali Soilihi, who won the first round, former coup leader Azali Assoumani and Governor of Grande Comore Mouigni Baraka. 
 
 Polling comes after Vice President Mohamed Ali Soilihi won the first round in February with 17 percent of the vote.

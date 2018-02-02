@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/17/russia-delivers-its-first-shipment-of-nuclear-fuel-to-the-bushehr-nuclear-reactor-in-iran.html)  [JSON](/news/2007/12/17/russia-delivers-its-first-shipment-of-nuclear-fuel-to-the-bushehr-nuclear-reactor-in-iran.json)  [XML](/news/2007/12/17/russia-delivers-its-first-shipment-of-nuclear-fuel-to-the-bushehr-nuclear-reactor-in-iran.xml)  
+
 ### [2007-12-17](/news/2007/12/17/index.md)
 
+##### Russia
 #  Russia delivers its first shipment of nuclear fuel to the Bushehr nuclear reactor in Iran. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/middle_east/7147463.stm)
 

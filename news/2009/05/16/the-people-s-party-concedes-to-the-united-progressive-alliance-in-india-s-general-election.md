@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/16/the-people-s-party-concedes-to-the-united-progressive-alliance-in-india-s-general-election.html)  [JSON](/news/2009/05/16/the-people-s-party-concedes-to-the-united-progressive-alliance-in-india-s-general-election.json)  [XML](/news/2009/05/16/the-people-s-party-concedes-to-the-united-progressive-alliance-in-india-s-general-election.xml)  
+
 ### [2009-05-16](/news/2009/05/16/index.md)
 
+##### Bharatiya Janata Party
 #  The People's Party concedes to the United Progressive Alliance in India's general election. 
 
 India&#039;s main opposition has admitted defeat as counting shows the ruling Congress has a commanding lead.
 
 
-### Source:
+### Sources:
 
 1. [AFP/BBC via ABC Australia](http://www.abc.net.au/news/stories/2009/05/16/2572515.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/1685040-1x1-700x700.jpg)

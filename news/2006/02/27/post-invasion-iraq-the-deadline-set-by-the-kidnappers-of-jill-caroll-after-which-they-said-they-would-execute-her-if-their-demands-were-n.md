@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/27/post-invasion-iraq-the-deadline-set-by-the-kidnappers-of-jill-caroll-after-which-they-said-they-would-execute-her-if-their-demands-were-n.html)  [JSON](/news/2006/02/27/post-invasion-iraq-the-deadline-set-by-the-kidnappers-of-jill-caroll-after-which-they-said-they-would-execute-her-if-their-demands-were-n.json)  [XML](/news/2006/02/27/post-invasion-iraq-the-deadline-set-by-the-kidnappers-of-jill-caroll-after-which-they-said-they-would-execute-her-if-their-demands-were-n.xml)  
+
 ### [2006-02-27](/news/2006/02/27/index.md)
 
+##### U.S. presence in Iraq
 #  Post-invasion Iraq: The deadline set by the kidnappers of Jill Caroll, after which they said they would execute her if their demands were not met, passes with no word yet on whether she has been killed. An Iraqi official says he believes she is still alive and that they know her original kidnapper's name and address, although Carroll may have been sold to another group since. 
 
 The Christian Science Monitor is an international news organization that delivers thoughtful, global coverage via its website, weekly magazine, daily news briefing, and email newsletters.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abcnews.go.com/GMA/story?id=1666314)
 2. [AP](http://abcnews.go.com/International/wireStory?id=1665512)

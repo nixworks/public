@@ -1,7 +1,7 @@
-## [2000-11-4](/news/2000/11/4/index.md)
 
-### ["'Died:"' Stephanie Lawrence, 50, English musical theatre actress (liver disease)](/news/2000/11/4/died-stephanie-lawrence-50-english-musical-theatre-actress-liver-disease.md)
-_Context: Stephanie Lawrence_
+Formats: [HTML](2000/11/4/index.html)  [JSON](2000/11/4/index.json)  [XML](2000/11/4/index.xml)  
+
+## [2000-11-4](/news/2000/11/4/index.md)
 
 ## [Previous Day...](/news/2000/11/3/index.md)
 

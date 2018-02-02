@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/03/22/magdi-allam-the-most-prominent-muslim-in-italy-converts-to-catholicism-and-is-baptized-by-pope-benedict-xvi.html)  [JSON](/news/2008/03/22/magdi-allam-the-most-prominent-muslim-in-italy-converts-to-catholicism-and-is-baptized-by-pope-benedict-xvi.json)  [XML](/news/2008/03/22/magdi-allam-the-most-prominent-muslim-in-italy-converts-to-catholicism-and-is-baptized-by-pope-benedict-xvi.xml)  
+
 ### [2008-03-22](/news/2008/03/22/index.md)
 
+##### Magdi Allam
 #  Magdi Allam, the most prominent Muslim in Italy, converts to Catholicism and is baptized by Pope Benedict XVI. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080323/ap_on_re_eu/pope_muslim_convert_9;_ylt=AiyM9ytVvhAToOVXUpBVAscE1vAI)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20080323/ap_on_re_eu/pope_muslim_convert_9;_ylt=AiyM9ytVvhAToOVXUpBVAscE1vAI)
 
 ### Related:
 

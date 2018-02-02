@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/15/the-800th-anniversary-of-the-sealing-of-the-magna-carta-by-king-john-of-england-is-commemorated-around-the-world.html)  [JSON](/news/2015/06/15/the-800th-anniversary-of-the-sealing-of-the-magna-carta-by-king-john-of-england-is-commemorated-around-the-world.json)  [XML](/news/2015/06/15/the-800th-anniversary-of-the-sealing-of-the-magna-carta-by-king-john-of-england-is-commemorated-around-the-world.xml)  
+
 ### [2015-06-15](/news/2015/06/15/index.md)
 
+##### Magna Carta
 # The 800th anniversary of the sealing of the Magna Carta by King John of England is commemorated around the world. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/newsround/33110890)
 

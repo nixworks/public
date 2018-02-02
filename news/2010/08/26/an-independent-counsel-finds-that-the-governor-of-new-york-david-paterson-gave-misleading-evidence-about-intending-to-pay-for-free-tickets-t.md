@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/26/an-independent-counsel-finds-that-the-governor-of-new-york-david-paterson-gave-misleading-evidence-about-intending-to-pay-for-free-tickets-t.html)  [JSON](/news/2010/08/26/an-independent-counsel-finds-that-the-governor-of-new-york-david-paterson-gave-misleading-evidence-about-intending-to-pay-for-free-tickets-t.json)  [XML](/news/2010/08/26/an-independent-counsel-finds-that-the-governor-of-new-york-david-paterson-gave-misleading-evidence-about-intending-to-pay-for-free-tickets-t.xml)  
+
 ### [2010-08-26](/news/2010/08/26/index.md)
 
+##### independent counsel
 # An independent counsel finds that the Governor of New York David Paterson gave misleading evidence about intending to pay for free tickets that he obtained to last year's baseball world series and refers the issue to the Albany District Attorney for possible prosecution for perjury. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New York Times](http://cityroom.blogs.nytimes.com/2010/08/26/paterson-misled-investigators-in-yankee-tickets-case/)
 

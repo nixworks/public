@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/21/more-than-50-000-people-are-evacuated-after-the-yalu-river-floods-in-china-flooding-is-also-reported-in-north-korea-with-the-city-of-sinuij.html)  [JSON](/news/2010/08/21/more-than-50-000-people-are-evacuated-after-the-yalu-river-floods-in-china-flooding-is-also-reported-in-north-korea-with-the-city-of-sinuij.json)  [XML](/news/2010/08/21/more-than-50-000-people-are-evacuated-after-the-yalu-river-floods-in-china-flooding-is-also-reported-in-north-korea-with-the-city-of-sinuij.xml)  
+
 ### [2010-08-21](/news/2010/08/21/index.md)
 
+##### Yalu River
 # More than 50,000 people are evacuated after the Yalu River floods in China; flooding is also reported in North Korea with the city of Sinuiju particularly affected. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iXZamubV1WaX-qkXEaXuhpnxC7ug)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11048475)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/09/20/tens-of-thousands-of-people-including-howard-university-students-and-naacp-members-arrive-in-the-u-s-city-of-jena-louisiana-to-protest.html)  [JSON](/news/2007/09/20/tens-of-thousands-of-people-including-howard-university-students-and-naacp-members-arrive-in-the-u-s-city-of-jena-louisiana-to-protest.json)  [XML](/news/2007/09/20/tens-of-thousands-of-people-including-howard-university-students-and-naacp-members-arrive-in-the-u-s-city-of-jena-louisiana-to-protest.xml)  
+
 ### [2007-09-20](/news/2007/09/20/index.md)
 
+##### Howard University
 #  Tens of thousands of people, including Howard University students and NAACP members, arrive in the U.S. city of Jena, Louisiana, to protest in support of six black teenagers involved in a schoolyard brawl. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/09/19/AR2007091900769.html?hpid%3Dartslot&sub=AR)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2007/09/19/AR2007091900769.html?hpid%3Dartslot&sub=AR)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

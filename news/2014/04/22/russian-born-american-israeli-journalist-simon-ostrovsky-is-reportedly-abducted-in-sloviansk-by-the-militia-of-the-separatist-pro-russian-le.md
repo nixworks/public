@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2014/04/22/russian-born-american-israeli-journalist-simon-ostrovsky-is-reportedly-abducted-in-sloviansk-by-the-militia-of-the-separatist-pro-russian-le.html)  [JSON](/news/2014/04/22/russian-born-american-israeli-journalist-simon-ostrovsky-is-reportedly-abducted-in-sloviansk-by-the-militia-of-the-separatist-pro-russian-le.json)  [XML](/news/2014/04/22/russian-born-american-israeli-journalist-simon-ostrovsky-is-reportedly-abducted-in-sloviansk-by-the-militia-of-the-separatist-pro-russian-le.xml)  
+
 ### [2014-04-22](/news/2014/04/22/index.md)
 
+##### Simon Ostrovsky
 # Russian-born American-Israeli journalist Simon Ostrovsky is reportedly abducted in Sloviansk by the militia of the separatist pro-Russian leader Vyacheslav Ponomarev. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Mashable](http://mashable.com/2014/04/22/vice-journalist-captured-ukraine/?utm_cid=mash-com-Tw-main-link)
+
+### Changes:
+
+1. [2014 pro-Russian unrest in Ukraine:Russian-born American-Israeli journalist Simon Ostrovsky is reportedly abducted in Sloviansk by the militia of the separatist pro-Russian leader Vyacheslav Ponomarev. ](/news/2014/04/22/2014-pro-russian-unrest-in-ukraine-prussian-born-american-israeli-journalist-simon-ostrovsky-is-reportedly-abducted-in-sloviansk-by-the-mili.md) _2017-08-25 03:40:19 (First version)_
+2. [2014 pro-Russian unrest in Ukraine:: Russian-born American-Israeli journalist Simon Ostrovsky is reportedly abducted in Sloviansk by the militia of the separatist pro-Russian leader Vyacheslav Ponomarev. ](/news/2014/04/22/2014-pro-russian-unrest-in-ukraine-russian-born-american-israeli-journalist-simon-ostrovsky-is-reportedly-abducted-in-sloviansk-by-the-mil.md) _2017-08-27 03:40:37 (Update)_
+2. [Russian-born American-Israeli journalist Simon Ostrovsky is reportedly abducted in Sloviansk by the militia of the separatist pro-Russian leader Vyacheslav Ponomarev. ](/news/2014/04/22/russian-born-american-israeli-journalist-simon-ostrovsky-is-reportedly-abducted-in-sloviansk-by-the-militia-of-the-separatist-pro-russian-le.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [Heavy fighting between the Ukrainian military and pro-Russian militants takes place in and around the rebel-held eastern city of Sloviansk. ](/news/2014/06/3/heavy-fighting-between-the-ukrainian-military-and-pro-russian-militants-takes-place-in-and-around-the-rebel-held-eastern-city-of-sloviansk.md) _Context: Sloviansk_
 4. [A Ukrainian military helicopter patrolling around the eastern city of Sloviansk is shot down; all of the pilots survived and were later rescued. ](/news/2014/05/5/a-ukrainian-military-helicopter-patrolling-around-the-eastern-city-of-sloviansk-is-shot-down-all-of-the-pilots-survived-and-were-later-resc.md) _Context: Sloviansk_
 5. [The Armed Forces of Ukraine launch a military operation against separatists in the city of Sloviansk with claims of many deaths and two Ukrainian Army helicopters downed. In the port city of Odessa, violent clashes kill at least 42 people, as pro-Ukrainians set the pro-Russian headquarters on fire. ](/news/2014/05/2/the-armed-forces-of-ukraine-launch-a-military-operation-against-separatists-in-the-city-of-sloviansk-with-claims-of-many-deaths-and-two-ukra.md) _Context: Sloviansk_
-
-### Changes:
-
-1. [2014 pro-Russian unrest in Ukraine:Russian-born American-Israeli journalist Simon Ostrovsky is reportedly abducted in Sloviansk by the militia of the separatist pro-Russian leader Vyacheslav Ponomarev. ](/news/2014/04/22/2014-pro-russian-unrest-in-ukraine-prussian-born-american-israeli-journalist-simon-ostrovsky-is-reportedly-abducted-in-sloviansk-by-the-mili.md) _2017-08-25 03:40:19 (First version)_
-2. [2014 pro-Russian unrest in Ukraine:: Russian-born American-Israeli journalist Simon Ostrovsky is reportedly abducted in Sloviansk by the militia of the separatist pro-Russian leader Vyacheslav Ponomarev. ](/news/2014/04/22/2014-pro-russian-unrest-in-ukraine-russian-born-american-israeli-journalist-simon-ostrovsky-is-reportedly-abducted-in-sloviansk-by-the-mil.md) _2017-08-27 03:40:37 (Update)_
-2. [Russian-born American-Israeli journalist Simon Ostrovsky is reportedly abducted in Sloviansk by the militia of the separatist pro-Russian leader Vyacheslav Ponomarev. ](/news/2014/04/22/russian-born-american-israeli-journalist-simon-ostrovsky-is-reportedly-abducted-in-sloviansk-by-the-militia-of-the-separatist-pro-russian-le.md) _(Current version)_

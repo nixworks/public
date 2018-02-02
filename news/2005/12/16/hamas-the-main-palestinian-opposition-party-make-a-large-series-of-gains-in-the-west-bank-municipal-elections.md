@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/16/hamas-the-main-palestinian-opposition-party-make-a-large-series-of-gains-in-the-west-bank-municipal-elections.html)  [JSON](/news/2005/12/16/hamas-the-main-palestinian-opposition-party-make-a-large-series-of-gains-in-the-west-bank-municipal-elections.json)  [XML](/news/2005/12/16/hamas-the-main-palestinian-opposition-party-make-a-large-series-of-gains-in-the-west-bank-municipal-elections.xml)  
+
 ### [2005-12-16](/news/2005/12/16/index.md)
 
+##### Hamas
 #  Hamas, the main Palestinian opposition party make a large series of gains in the West Bank municipal elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4534224.stm)
 

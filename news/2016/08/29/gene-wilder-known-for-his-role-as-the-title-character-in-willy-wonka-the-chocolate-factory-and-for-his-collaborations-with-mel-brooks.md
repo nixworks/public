@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/29/gene-wilder-known-for-his-role-as-the-title-cha
 
 ### [2016-08-29](/news/2016/08/29/index.md)
 
+##### Gene Wilder
 # Gene Wilder, known for his role as the title character in "Willy Wonka & the Chocolate Factory", and for his collaborations with Mel Brooks, dies at the age of 83. 
 
 Gene Wilder, who regularly stole the show in such comedic gems as “The Producers,” “Blazing Saddles,” “Young Frankenstein,” “Willy Wonka and the Chocolate Factory” and “Stir Crazy,” died Monday at …

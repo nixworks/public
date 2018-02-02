@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/7/sony-states-that-it-will-delay-the-restart-of-its-playstation-network-following-the-playstation-network-outage-and-that-it-has-managed-to-r.html)  [JSON](/news/2011/05/7/sony-states-that-it-will-delay-the-restart-of-its-playstation-network-following-the-playstation-network-outage-and-that-it-has-managed-to-r.json)  [XML](/news/2011/05/7/sony-states-that-it-will-delay-the-restart-of-its-playstation-network-following-the-playstation-network-outage-and-that-it-has-managed-to-r.xml)  
+
 ### [2011-05-7](/news/2011/05/7/index.md)
 
+##### Sony
 # Sony states that it will delay the restart of its PlayStation Network following the PlayStation Network outage, and that it has managed to remove user data that had been posted online by a third party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via HuffingtonPost](http://www.huffingtonpost.com/2011/05/07/sony-removes-data-stolen-hackers_n_858913.html)
 

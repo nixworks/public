@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2014/04/6/wrestlemania-xxx-takes-place-in-new-orleans-and-sees-the-end-of-the-undertaker-s-streak.html)  [JSON](/news/2014/04/6/wrestlemania-xxx-takes-place-in-new-orleans-and-sees-the-end-of-the-undertaker-s-streak.json)  [XML](/news/2014/04/6/wrestlemania-xxx-takes-place-in-new-orleans-and-sees-the-end-of-the-undertaker-s-streak.xml)  
+
 ### [2014-04-6](/news/2014/04/6/index.md)
 
+##### WrestleMania XXX
 # WrestleMania XXX takes place in New Orleans and sees the end of The Undertaker's Streak. 
 
 

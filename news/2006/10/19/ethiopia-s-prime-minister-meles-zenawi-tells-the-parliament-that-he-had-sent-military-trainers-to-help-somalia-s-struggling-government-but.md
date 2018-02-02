@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/19/ethiopia-s-prime-minister-meles-zenawi-tells-the-parliament-that-he-had-sent-military-trainers-to-help-somalia-s-struggling-government-but.html)  [JSON](/news/2006/10/19/ethiopia-s-prime-minister-meles-zenawi-tells-the-parliament-that-he-had-sent-military-trainers-to-help-somalia-s-struggling-government-but.json)  [XML](/news/2006/10/19/ethiopia-s-prime-minister-meles-zenawi-tells-the-parliament-that-he-had-sent-military-trainers-to-help-somalia-s-struggling-government-but.xml)  
+
 ### [2006-10-19](/news/2006/10/19/index.md)
 
+##### Ethiopia
 #  Ethiopia's prime minister Meles Zenawi tells the parliament that he had sent military trainers to help Somalia's struggling government, but had not deployed a fighting force. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/4271231.html)
 

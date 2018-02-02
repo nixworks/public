@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/8/president-of-afghanistan-hamid-karzai-s-senior-adviser-says-the-government-has-commenced-talks-with-some-taliban-leaders.html)  [JSON](/news/2010/08/8/president-of-afghanistan-hamid-karzai-s-senior-adviser-says-the-government-has-commenced-talks-with-some-taliban-leaders.json)  [XML](/news/2010/08/8/president-of-afghanistan-hamid-karzai-s-senior-adviser-says-the-government-has-commenced-talks-with-some-taliban-leaders.xml)  
+
 ### [2010-08-8](/news/2010/08/8/index.md)
 
+##### Afghanistan President
 # President of Afghanistan Hamid Karzai's senior adviser says the government has commenced talks with some Taliban leaders. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/20108853912205348.html)
 1. [Cover Image](http://www.aljazeera.com)

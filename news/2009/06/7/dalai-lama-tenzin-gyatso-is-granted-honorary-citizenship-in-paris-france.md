@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/7/dalai-lama-tenzin-gyatso-is-granted-honorary-citizenship-in-paris-france.html)  [JSON](/news/2009/06/7/dalai-lama-tenzin-gyatso-is-granted-honorary-citizenship-in-paris-france.json)  [XML](/news/2009/06/7/dalai-lama-tenzin-gyatso-is-granted-honorary-citizenship-in-paris-france.xml)  
+
 ### [2009-06-7](/news/2009/06/7/index.md)
 
+##### Dalai Lama
 #  Dalai Lama Tenzin Gyatso is granted honorary citizenship in Paris, France. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5go0TEBDduJSK7AAsKBOxlfhHdCoQ)
 

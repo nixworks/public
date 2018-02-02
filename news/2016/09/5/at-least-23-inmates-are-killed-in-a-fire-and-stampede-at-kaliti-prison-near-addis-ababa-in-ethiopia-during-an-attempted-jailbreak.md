@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/5/at-least-23-inmates-are-killed-in-a-fire-and-sta
 
 ### [2016-09-5](/news/2016/09/5/index.md)
 
+##### 2016 Ethiopian protests
 # At least 23 inmates are killed in a fire and stampede at Kaliti Prison near Addis Ababa in Ethiopia during an attempted jailbreak. 
 
 Ethiopia says 23 prisoners have died after a fire at a prison where prominent anti-government protesters are reportedly being held.

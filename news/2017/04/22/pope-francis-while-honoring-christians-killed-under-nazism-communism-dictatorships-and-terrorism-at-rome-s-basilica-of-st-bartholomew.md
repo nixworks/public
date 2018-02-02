@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/22/pope-francis-while-honoring-christians-killed-u
 
 ### [2017-04-22](/news/2017/04/22/index.md)
 
+##### Pope Francis
 # Pope Francis, while honoring Christians killed under Nazism, communism, dictatorships, and terrorism at Rome's Basilica of St. Bartholomew, adds to those named the wife of a Muslim he met in Lesbos, Greece, who was killed by terrorists because she wouldn't throw down her crucifix. Francis referred to the Lesbos camp as a 'concentration camp' noting, despite the good will of local communities, many refugee camps are overcrowded and little more than prisons. 
 
 

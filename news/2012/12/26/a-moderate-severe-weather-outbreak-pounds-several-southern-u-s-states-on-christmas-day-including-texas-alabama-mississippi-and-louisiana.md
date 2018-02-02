@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2012/12/26/a-moderate-severe-weather-outbreak-pounds-several-southern-u-s-states-on-christmas-day-including-texas-alabama-mississippi-and-louisiana.html)  [JSON](/news/2012/12/26/a-moderate-severe-weather-outbreak-pounds-several-southern-u-s-states-on-christmas-day-including-texas-alabama-mississippi-and-louisiana.json)  [XML](/news/2012/12/26/a-moderate-severe-weather-outbreak-pounds-several-southern-u-s-states-on-christmas-day-including-texas-alabama-mississippi-and-louisiana.xml)  
+
 ### [2012-12-26](/news/2012/12/26/index.md)
 
+##### U.S. states
 # A moderate severe weather outbreak pounds several southern U.S. states on Christmas Day, including Texas, Alabama, Mississippi and Louisiana. More than 30 tornadoes are reported as the storms leave at least six people dead. The system is expected to move northeast and affect the East Coast with high winds and heavy snowfall. 
 
 Severe Christmas day weather tore across the deep south of the U.S., spinning off at least 34 possible tornadoes and killing at least three people in its path, while extreme weather is forecast throughout today for parts of the East Coast.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/US/severe-weather-spawns-34-tornado-reports-texas-alabama/story?id=18064857)
 2. [AP](http://hosted2.ap.org/APDefault/Article_2012-12-25-Christmas%20Weather/id-11814bb0644b4596b96657de43e929d9)
 3. [CNN](http://www.cnn.com/2012/12/25/us/winter-weather/index.html)
-4. [Reuters](http://www.reuters.com/article/2012/12/25/us-usa-weather-idUSBRE8BO05K20121225)
+4. [Reuters](https://www.reuters.com/article/2012/12/25/us-usa-weather-idUSBRE8BO05K20121225)
 4. [Cover Image](http://a.abcnews.com/images/US/ap_christmas_weather_tk_121225_wmain.jpg)
 
 ### Related:

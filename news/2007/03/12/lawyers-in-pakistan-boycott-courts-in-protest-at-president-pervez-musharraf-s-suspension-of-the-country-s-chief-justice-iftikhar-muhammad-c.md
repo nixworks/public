@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/12/lawyers-in-pakistan-boycott-courts-in-protest-at-president-pervez-musharraf-s-suspension-of-the-country-s-chief-justice-iftikhar-muhammad-c.html)  [JSON](/news/2007/03/12/lawyers-in-pakistan-boycott-courts-in-protest-at-president-pervez-musharraf-s-suspension-of-the-country-s-chief-justice-iftikhar-muhammad-c.json)  [XML](/news/2007/03/12/lawyers-in-pakistan-boycott-courts-in-protest-at-president-pervez-musharraf-s-suspension-of-the-country-s-chief-justice-iftikhar-muhammad-c.xml)  
+
 ### [2007-03-12](/news/2007/03/12/index.md)
 
+##### Pakistan
 #  Lawyers in Pakistan boycott courts in protest at President Pervez Musharraf's suspension of the country's Chief Justice Iftikhar Muhammad Chaudhry for alleged "misuse of authority". More than 20 lawyers were injured in clashes with police during demonstrations in Lahore. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6441133.stm)
 

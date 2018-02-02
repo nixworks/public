@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/28/the-death-toll-from-tsunamis-resulting-from-the-indian-ocean-earthquake-is-known-to-be-at-least-59-000-and-still-rising.html)  [JSON](/news/2004/12/28/the-death-toll-from-tsunamis-resulting-from-the-indian-ocean-earthquake-is-known-to-be-at-least-59-000-and-still-rising.json)  [XML](/news/2004/12/28/the-death-toll-from-tsunamis-resulting-from-the-indian-ocean-earthquake-is-known-to-be-at-least-59-000-and-still-rising.xml)  
+
 ### [2004-12-28](/news/2004/12/28/index.md)
 
+##### tsunami
 #  The death toll from tsunamis resulting from the Indian Ocean earthquake is known to be at least 59,000 and still rising. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4129371.stm)
 

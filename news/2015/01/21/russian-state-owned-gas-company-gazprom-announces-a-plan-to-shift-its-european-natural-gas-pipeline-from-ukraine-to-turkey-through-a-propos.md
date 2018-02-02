@@ -1,14 +1,19 @@
+
+Formats: [HTML](/news/2015/01/21/russian-state-owned-gas-company-gazprom-announces-a-plan-to-shift-its-european-natural-gas-pipeline-from-ukraine-to-turkey-through-a-propos.html)  [JSON](/news/2015/01/21/russian-state-owned-gas-company-gazprom-announces-a-plan-to-shift-its-european-natural-gas-pipeline-from-ukraine-to-turkey-through-a-propos.json)  [XML](/news/2015/01/21/russian-state-owned-gas-company-gazprom-announces-a-plan-to-shift-its-european-natural-gas-pipeline-from-ukraine-to-turkey-through-a-propos.xml)  
+
 ### [2015-01-21](/news/2015/01/21/index.md)
 
+##### Russia
 # Russian state-owned gas company Gazprom announces a plan to shift its European natural gas pipeline from Ukraine to Turkey, through a proposed link under the Black Sea to Turkey. 
 
+Russia plans to shift all its natural gas flows crossing Ukraine to a route via Turkey, a surprise move that the European Union’s energy chief said would hurt its reputation as a supplier.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2015-01-14/russia-to-shift-ukraine-gas-transit-to-turkey-as-eu-cries-foul.html)
-2. [The New York Times](http://www.nytimes.com/2015/01/22/business/international/russia-presses-ahead-with-plan-for-gas-pipeline-to-turkey.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2015-01-14/russia-to-shift-ukraine-gas-transit-to-turkey-as-eu-cries-foul.html)
+2. [The New York Times](https://www.nytimes.com/2015/01/22/business/international/russia-presses-ahead-with-plan-for-gas-pipeline-to-turkey.html)
+2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/18/cuba-claims-u-s-president-barack-obama-was-forced-to-use-his-imperial-veto-to-stop-the-summit-calling-for-an-end-to-the-u-s-embargo-agai.html)  [JSON](/news/2012/04/18/cuba-claims-u-s-president-barack-obama-was-forced-to-use-his-imperial-veto-to-stop-the-summit-calling-for-an-end-to-the-u-s-embargo-agai.json)  [XML](/news/2012/04/18/cuba-claims-u-s-president-barack-obama-was-forced-to-use-his-imperial-veto-to-stop-the-summit-calling-for-an-end-to-the-u-s-embargo-agai.xml)  
+
 ### [2012-04-18](/news/2012/04/18/index.md)
 
+##### Cuba
 # Cuba claims U.S. President Barack Obama was forced to use his "imperial veto" to stop the summit calling for an end to the U.S. embargo against it. 
 
 Cuba hails a Latin American &quot;rebellion&quot; against US dominance at the Summit of the Americas last weekend.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-17762436)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59670000/jpg/_59670984_summit.jpg)

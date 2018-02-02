@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/11/singapore-police-commissioner-khoo-boon-hui-is-elected-the-new-president-of-interpol.html)  [JSON](/news/2008/10/11/singapore-police-commissioner-khoo-boon-hui-is-elected-the-new-president-of-interpol.json)  [XML](/news/2008/10/11/singapore-police-commissioner-khoo-boon-hui-is-elected-the-new-president-of-interpol.xml)  
+
 ### [2008-10-11](/news/2008/10/11/index.md)
 
+##### Singapore
 #  Singapore Police Commissioner Khoo Boon Hui is elected the new president of Interpol. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel NewsAsia](http://sg.news.yahoo.com/cna/20081010/tap-937-singapore-police-chief-elected-i-231650b.html)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/07/3/china-jails-a-tibetan-environmentalist-on-charges-of-splitting-the-nation.html)  [JSON](/news/2010/07/3/china-jails-a-tibetan-environmentalist-on-charges-of-splitting-the-nation.json)  [XML](/news/2010/07/3/china-jails-a-tibetan-environmentalist-on-charges-of-splitting-the-nation.xml)  
+
 ### [2010-07-3](/news/2010/07/3/index.md)
 
+##### China
 # China jails a Tibetan environmentalist on charges of 'splitting the nation'. 
 
 A Tibetan environmentalist becomes the third brother in his family to be jailed by a Chinese court, his lawyer says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10498734.stm)
-2. [Reuters](http://www.reuters.com/article/idUSTRE6620EZ20100703)
+2. [Reuters](https://www.reuters.com/article/idUSTRE6620EZ20100703)
 2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:

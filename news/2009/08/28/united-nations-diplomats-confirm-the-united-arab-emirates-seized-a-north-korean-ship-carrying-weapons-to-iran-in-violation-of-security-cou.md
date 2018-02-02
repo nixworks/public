@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/28/united-nations-diplomats-confirm-the-united-arab-emirates-seized-a-north-korean-ship-carrying-weapons-to-iran-in-violation-of-security-cou.html)  [JSON](/news/2009/08/28/united-nations-diplomats-confirm-the-united-arab-emirates-seized-a-north-korean-ship-carrying-weapons-to-iran-in-violation-of-security-cou.json)  [XML](/news/2009/08/28/united-nations-diplomats-confirm-the-united-arab-emirates-seized-a-north-korean-ship-carrying-weapons-to-iran-in-violation-of-security-cou.xml)  
+
 ### [2009-08-28](/news/2009/08/28/index.md)
 
+##### United Nations
 #  United Nations diplomats confirm the United Arab Emirates seized a North Korean ship carrying weapons to Iran, in violation of Security Council Resolution 1874. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jP3tj6UTQWdWBFOMM8nHy3vT3TZg)
 2. [Financial Times](http://www.ft.com/cms/s/0/1cc52dcc-93f6-11de-9c57-00144feabdc0.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/31/the-trial-of-the-lone-surviving-gunman-involved-in-the-2008-mumbai-attacks-ajmal-kasab-concludes.html)  [JSON](/news/2010/03/31/the-trial-of-the-lone-surviving-gunman-involved-in-the-2008-mumbai-attacks-ajmal-kasab-concludes.json)  [XML](/news/2010/03/31/the-trial-of-the-lone-surviving-gunman-involved-in-the-2008-mumbai-attacks-ajmal-kasab-concludes.xml)  
+
 ### [2010-03-31](/news/2010/03/31/index.md)
 
+##### 2008 Mumbai attacks
 # The trial of the lone surviving gunman involved in the 2008 Mumbai attacks, Ajmal Kasab, concludes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8596800.stm)
 2. [NDTV](http://www.ndtv.com/news/india/kasab-trial-ends-verdict-on-may-3-18854.php)

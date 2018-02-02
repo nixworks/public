@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/27/a-small-bomb-explodes-at-a-hotel-in-villajoyosa-spain-after-a-warning-by-the-basque-separatist-group-eta-no-one-is-injured.html)  [JSON](/news/2005/02/27/a-small-bomb-explodes-at-a-hotel-in-villajoyosa-spain-after-a-warning-by-the-basque-separatist-group-eta-no-one-is-injured.json)  [XML](/news/2005/02/27/a-small-bomb-explodes-at-a-hotel-in-villajoyosa-spain-after-a-warning-by-the-basque-separatist-group-eta-no-one-is-injured.xml)  
+
 ### [2005-02-27](/news/2005/02/27/index.md)
 
+##### Villajoyosa
 #  A small bomb explodes at a hotel in Villajoyosa, Spain, after a warning by the Basque separatist group ETA. No one is injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2005/WORLD/europe/02/27/spain.explosion.ap/)
 2. [eitb24](http://www.eitb24.com/noticia_en.php?id=42286)

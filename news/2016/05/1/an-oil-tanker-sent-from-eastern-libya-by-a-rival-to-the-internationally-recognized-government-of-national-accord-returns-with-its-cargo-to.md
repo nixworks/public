@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/1/an-oil-tanker-sent-from-eastern-libya-by-a-rival
 
 ### [2016-05-1](/news/2016/05/1/index.md)
 
+##### Libyan Civil War
 # An oil tanker, sent from Eastern Libya by a rival to the internationally recognized Government of National Accord, returns with its cargo to the refinery at Zawiya in western Libya. The United Nations blacklisted the shipment on Wednesday. 
 
 A tanker with oil from eastern Libya returned with its cargo to the North African country after the United Nations blacklisted the shipment, amid an escalating struggle between the nation’s rival governments for control of its crude wealth.

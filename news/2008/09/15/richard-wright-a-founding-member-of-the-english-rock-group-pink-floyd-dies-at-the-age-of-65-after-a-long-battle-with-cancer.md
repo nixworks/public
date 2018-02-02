@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/15/richard-wright-a-founding-member-of-the-english-rock-group-pink-floyd-dies-at-the-age-of-65-after-a-long-battle-with-cancer.html)  [JSON](/news/2008/09/15/richard-wright-a-founding-member-of-the-english-rock-group-pink-floyd-dies-at-the-age-of-65-after-a-long-battle-with-cancer.json)  [XML](/news/2008/09/15/richard-wright-a-founding-member-of-the-english-rock-group-pink-floyd-dies-at-the-age-of-65-after-a-long-battle-with-cancer.xml)  
+
 ### [2008-09-15](/news/2008/09/15/index.md)
 
+##### Richard Wright
 #  Richard Wright, a founding member of the English rock group Pink Floyd, dies at the age of 65 after a long battle with cancer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/SHOWBIZ/Music/09/15/obit.wright.ap/index.html)
 

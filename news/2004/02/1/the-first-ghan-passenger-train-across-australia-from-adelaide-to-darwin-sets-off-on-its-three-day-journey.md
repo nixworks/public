@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/1/the-first-ghan-passenger-train-across-australia-from-adelaide-to-darwin-sets-off-on-its-three-day-journey.html)  [JSON](/news/2004/02/1/the-first-ghan-passenger-train-across-australia-from-adelaide-to-darwin-sets-off-on-its-three-day-journey.json)  [XML](/news/2004/02/1/the-first-ghan-passenger-train-across-australia-from-adelaide-to-darwin-sets-off-on-its-three-day-journey.xml)  
+
 ### [2004-02-1](/news/2004/02/1/index.md)
 
+##### Ghan
 #  The first Ghan passenger train across Australia from Adelaide to Darwin sets off on its three-day journey.
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/10/an-assailant-stabs-four-people-killing-two-at-a
 
 ### [2016-05-10](/news/2016/05/10/index.md)
 
+##### Taunton, Massachusetts
 # An assailant stabs four people, killing two, at a home and a mall in Taunton, Massachusetts. A third victim is being treated for life-threatening injuries. The suspect was shot and killed by an off-duty deputy sheriff at the second scene. 
 
 At least three people died in a spree of violence at the Silver City Galleria mall and at a home in Taunton Tuesday evening involving multiple incidents, State Police said. 

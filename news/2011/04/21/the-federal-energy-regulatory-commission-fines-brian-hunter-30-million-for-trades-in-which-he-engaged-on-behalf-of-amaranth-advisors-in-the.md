@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2011/04/21/the-federal-energy-regulatory-commission-fines-brian-hunter-30-million-for-trades-in-which-he-engaged-on-behalf-of-amaranth-advisors-in-the.html)  [JSON](/news/2011/04/21/the-federal-energy-regulatory-commission-fines-brian-hunter-30-million-for-trades-in-which-he-engaged-on-behalf-of-amaranth-advisors-in-the.json)  [XML](/news/2011/04/21/the-federal-energy-regulatory-commission-fines-brian-hunter-30-million-for-trades-in-which-he-engaged-on-behalf-of-amaranth-advisors-in-the.xml)  
+
 ### [2011-04-21](/news/2011/04/21/index.md)
 
+##### Federal Energy Regulatory Commission
 # The Federal Energy Regulatory Commission fines Brian Hunter $30 million for trades in which he engaged on behalf of Amaranth Advisors in the New York Mercantile Exchange in 2006 that manipulated the value of natural gas futures. 
 
+The Federal Energy Regulatory Commission issued a $30 million civil penalty against former Amaranth Advisors LLC energy trader Brian Hunter, who is accused of manipulating the natural-gas futures market in 2006.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2011-04-21/ferc-sets-30-million-fine-for-ex-amaranth-trader-hunter-1-.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2011-04-21/ferc-sets-30-million-fine-for-ex-amaranth-trader-hunter-1-.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

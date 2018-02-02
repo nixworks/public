@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/16/voters-in-tuvalu-go-to-the-polls-for-the-general-election.html)  [JSON](/news/2010/09/16/voters-in-tuvalu-go-to-the-polls-for-the-general-election.json)  [XML](/news/2010/09/16/voters-in-tuvalu-go-to-the-polls-for-the-general-election.xml)  
+
 ### [2010-09-16](/news/2010/09/16/index.md)
 
+##### Tuvalu
 # Voters in Tuvalu go to the polls for the general election. 
 
 Voters in Tuvalu go to the polls on Thursday to elect a new 15-member parliament, for a four-year term. Polling stations are open from 8am - 4pm.
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand](http://www.radionz.co.nz/news/world/57021/elections-in-tuvalu)
 1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)

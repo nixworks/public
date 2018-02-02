@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/5/the-securities-and-exchange-commission-sec-sacks-ndi-okereke-onyuike-the-director-general-of-the-nigerian-stock-exchange-and-suspends-its.html)  [JSON](/news/2010/08/5/the-securities-and-exchange-commission-sec-sacks-ndi-okereke-onyuike-the-director-general-of-the-nigerian-stock-exchange-and-suspends-its.json)  [XML](/news/2010/08/5/the-securities-and-exchange-commission-sec-sacks-ndi-okereke-onyuike-the-director-general-of-the-nigerian-stock-exchange-and-suspends-its.xml)  
+
 ### [2010-08-5](/news/2010/08/5/index.md)
 
+##### Securities and Exchange Commission
 # The Securities and Exchange Commission (SEC) sacks Ndi Okereke-Onyuike, the director-general of the Nigerian Stock Exchange and suspends its chairman, Aliko Dangote. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-10884875)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

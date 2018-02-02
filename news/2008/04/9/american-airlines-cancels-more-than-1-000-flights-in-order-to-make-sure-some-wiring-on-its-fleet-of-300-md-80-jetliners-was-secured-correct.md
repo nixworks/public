@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/04/9/american-airlines-cancels-more-than-1-000-flights-in-order-to-make-sure-some-wiring-on-its-fleet-of-300-md-80-jetliners-was-secured-correct.html)  [JSON](/news/2008/04/9/american-airlines-cancels-more-than-1-000-flights-in-order-to-make-sure-some-wiring-on-its-fleet-of-300-md-80-jetliners-was-secured-correct.json)  [XML](/news/2008/04/9/american-airlines-cancels-more-than-1-000-flights-in-order-to-make-sure-some-wiring-on-its-fleet-of-300-md-80-jetliners-was-secured-correct.xml)  
+
 ### [2008-04-9](/news/2008/04/9/index.md)
 
+##### American Airlines
 #  American Airlines cancels more than 1,000 flights in order to make sure some wiring on its fleet of 300 MD-80 jetliners was secured correctly inside wheel wells. 
 
 The airline is also expected to cancel 900 more flights on Thursday to make sure wiring on its fleet of 300 MD-80 jetliners was secured correctly.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/04/09/business/09cnd-air.html)
+1. [The New York Times](https://www.nytimes.com/2008/04/09/business/09cnd-air.html)
 1. [Cover Image](https://static01.nyt.com/images/2008/04/09/business/09american2-75.jpg)
 
 ### Related:

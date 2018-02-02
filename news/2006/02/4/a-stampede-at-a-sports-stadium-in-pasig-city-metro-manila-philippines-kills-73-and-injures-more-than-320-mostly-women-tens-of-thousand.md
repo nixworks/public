@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/4/a-stampede-at-a-sports-stadium-in-pasig-city-metro-manila-philippines-kills-73-and-injures-more-than-320-mostly-women-tens-of-thousand.html)  [JSON](/news/2006/02/4/a-stampede-at-a-sports-stadium-in-pasig-city-metro-manila-philippines-kills-73-and-injures-more-than-320-mostly-women-tens-of-thousand.json)  [XML](/news/2006/02/4/a-stampede-at-a-sports-stadium-in-pasig-city-metro-manila-philippines-kills-73-and-injures-more-than-320-mostly-women-tens-of-thousand.xml)  
+
 ### [2006-02-4](/news/2006/02/4/index.md)
 
+##### A stampede
 #  A stampede at a sports stadium in Pasig City, Metro Manila, Philippines, kills 73 and injures more than 320, mostly women. Tens of thousands of people had gathered to watch the anniversary presentation of the popular ABS-CBN early afternoon TV gameshow, "Wowowee". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4680040.stm)
 2. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/02/04/manila.stampede/index.html)

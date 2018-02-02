@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/22/the-death-toll-from-flooding-in-south-africa-rises-to-70-and-more-than-8-000-families-are-homeless-five-other-nearby-countries-botswana.html)  [JSON](/news/2011/01/22/the-death-toll-from-flooding-in-south-africa-rises-to-70-and-more-than-8-000-families-are-homeless-five-other-nearby-countries-botswana.json)  [XML](/news/2011/01/22/the-death-toll-from-flooding-in-south-africa-rises-to-70-and-more-than-8-000-families-are-homeless-five-other-nearby-countries-botswana.xml)  
+
 ### [2011-01-22](/news/2011/01/22/index.md)
 
+##### death toll from flooding
 # The death toll from flooding in South Africa rises to 70 and more than 8,000 families are homeless. Five other nearby countries - Botswana, Mozambique, Namibia, Zambia and Zimbabwe - are threatened by killer heavy rains. 
 
 At least 70 people have now died from flooding in South Africa, as heavy rains threaten countries from Mozambique to Namibia.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12258638)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

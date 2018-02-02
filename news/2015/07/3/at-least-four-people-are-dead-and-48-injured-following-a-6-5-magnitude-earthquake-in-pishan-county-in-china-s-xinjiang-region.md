@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/3/at-least-four-people-are-dead-and-48-injured-following-a-6-5-magnitude-earthquake-in-pishan-county-in-china-s-xinjiang-region.html)  [JSON](/news/2015/07/3/at-least-four-people-are-dead-and-48-injured-following-a-6-5-magnitude-earthquake-in-pishan-county-in-china-s-xinjiang-region.json)  [XML](/news/2015/07/3/at-least-four-people-are-dead-and-48-injured-following-a-6-5-magnitude-earthquake-in-pishan-county-in-china-s-xinjiang-region.xml)  
+
 ### [2015-07-3](/news/2015/07/3/index.md)
 
+##### earthquake
 # At least four people are dead and 48 injured following a 6.5 magnitude earthquake in Pishan County in China's Xinjiang region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-33376618?OCID=twitterasia)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/E7CE/production/_84024395_chinaxinjianghotan.png)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/6/south-african-athlete-oscar-pistorius-is-sentenc
 
 ### [2016-07-6](/news/2016/07/6/index.md)
 
+##### Oscar Pistorius trial
 # South African athlete Oscar Pistorius is sentenced to six years imprisonment for the murder of Reeva Steenkamp. 
 
 

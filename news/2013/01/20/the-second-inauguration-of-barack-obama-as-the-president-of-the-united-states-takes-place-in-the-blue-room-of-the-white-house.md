@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/01/20/the-second-inauguration-of-barack-obama-as-the-president-of-the-united-states-takes-place-in-the-blue-room-of-the-white-house.html)  [JSON](/news/2013/01/20/the-second-inauguration-of-barack-obama-as-the-president-of-the-united-states-takes-place-in-the-blue-room-of-the-white-house.json)  [XML](/news/2013/01/20/the-second-inauguration-of-barack-obama-as-the-president-of-the-united-states-takes-place-in-the-blue-room-of-the-white-house.xml)  
+
 ### [2013-01-20](/news/2013/01/20/index.md)
 
+##### second inauguration
 # The second inauguration of Barack Obama as the President of the United States takes place in the Blue Room of the White House. 
 
 Barack Obama is officially sworn in for his second term as US president in a small ceremony at the White House.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-21106159)
-2. [Reuters](http://www.reuters.com/article/2013/01/20/us-usa-inauguration-sworn-idUSBRE90J0CU20130120)
+2. [Reuters](https://www.reuters.com/article/2013/01/20/us-usa-inauguration-sworn-idUSBRE90J0CU20130120)
 3. [USA Today](http://content.usatoday.com/communities/theoval/post/2012/03/2013-inaugural-ceremony-to-be-pushed-back-a-day/1)
 3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65399000/jpg/_65399418_65399417.jpg)
 

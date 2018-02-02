@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/05/26/the-governor-of-the-bank-of-japan-says-that-although-interest-rate-increases-will-cause-some-stress-to-japanese-financial-institutions-they.html)  [JSON](/news/2013/05/26/the-governor-of-the-bank-of-japan-says-that-although-interest-rate-increases-will-cause-some-stress-to-japanese-financial-institutions-they.json)  [XML](/news/2013/05/26/the-governor-of-the-bank-of-japan-says-that-although-interest-rate-increases-will-cause-some-stress-to-japanese-financial-institutions-they.xml)  
+
 ### [2013-05-26](/news/2013/05/26/index.md)
 
+##### Bank of Japan
 # The Governor of the Bank of Japan says that although interest-rate increases will cause some stress to Japanese financial institutions, they have "sufficient resilience against such shocks." 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/05/26/us-japan-economy-boj-idUSBRE94P02B20130526)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130526&t=2&i=735311103&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE94P0IJV00)
+1. [Reuters](https://www.reuters.com/article/2013/05/26/us-japan-economy-boj-idUSBRE94P02B20130526)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130526&t=2&i=735311103&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE94P0IJV00)
 
 ### Related:
 

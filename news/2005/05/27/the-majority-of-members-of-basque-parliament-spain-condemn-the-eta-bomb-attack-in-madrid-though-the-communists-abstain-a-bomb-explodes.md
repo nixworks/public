@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/27/the-majority-of-members-of-basque-parliament-spain-condemn-the-eta-bomb-attack-in-madrid-though-the-communists-abstain-a-bomb-explodes.html)  [JSON](/news/2005/05/27/the-majority-of-members-of-basque-parliament-spain-condemn-the-eta-bomb-attack-in-madrid-though-the-communists-abstain-a-bomb-explodes.json)  [XML](/news/2005/05/27/the-majority-of-members-of-basque-parliament-spain-condemn-the-eta-bomb-attack-in-madrid-though-the-communists-abstain-a-bomb-explodes.xml)  
+
 ### [2005-05-27](/news/2005/05/27/index.md)
 
+##### Basque
 #  The majority of members of Basque parliament, Spain, condemn the ETA bomb attack in Madrid, though the communists abstain. A bomb explodes later in a Basque train station. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [EITB](http://www.eitb24.com/noticia_en.php?id=63455)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L27691734.htm)

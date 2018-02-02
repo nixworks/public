@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/17/protests-in-thailand-by-the-national-united-front-of-democracy-against-dictatorship-continue-with-supporters-throwing-their-own-blood-outsi.html)  [JSON](/news/2010/03/17/protests-in-thailand-by-the-national-united-front-of-democracy-against-dictatorship-continue-with-supporters-throwing-their-own-blood-outsi.json)  [XML](/news/2010/03/17/protests-in-thailand-by-the-national-united-front-of-democracy-against-dictatorship-continue-with-supporters-throwing-their-own-blood-outsi.xml)  
+
 ### [2010-03-17](/news/2010/03/17/index.md)
 
+##### Thailand
 # Protests in Thailand by the National United Front of Democracy Against Dictatorship continue, with supporters throwing their own blood outside the house of Prime Minister Abhisit Vejjajiva. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/03/201031733210935382.html)
 2. [Thai News Agency](http://www.mcot.net/content/33448)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/13/vietnam-holds-a-live-fire-drill-in-the-south-china-sea-amid-a-dispute-with-china.html)  [JSON](/news/2011/06/13/vietnam-holds-a-live-fire-drill-in-the-south-china-sea-amid-a-dispute-with-china.json)  [XML](/news/2011/06/13/vietnam-holds-a-live-fire-drill-in-the-south-china-sea-amid-a-dispute-with-china.xml)  
+
 ### [2011-06-13](/news/2011/06/13/index.md)
 
+##### Vietnam
 # Vietnam holds a live fire drill in the South China Sea amid a dispute with China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jakarta Post](http://www.thejakartaglobe.com/afp/vietnam-holds-live-fire-drill-amid-china-tensions/446823)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/14/four-lawmakers-are-removed-from-the-hong-kong-l
 
 ### [2017-07-14](/news/2017/07/14/index.md)
 
+##### Politics of Hong Kong
 # Four lawmakers are removed from the Hong Kong legislature. 
 
 

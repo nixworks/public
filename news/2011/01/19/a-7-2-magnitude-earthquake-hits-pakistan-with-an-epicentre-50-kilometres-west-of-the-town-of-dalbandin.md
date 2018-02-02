@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/19/a-7-2-magnitude-earthquake-hits-pakistan-with-an-epicentre-50-kilometres-west-of-the-town-of-dalbandin.html)  [JSON](/news/2011/01/19/a-7-2-magnitude-earthquake-hits-pakistan-with-an-epicentre-50-kilometres-west-of-the-town-of-dalbandin.json)  [XML](/news/2011/01/19/a-7-2-magnitude-earthquake-hits-pakistan-with-an-epicentre-50-kilometres-west-of-the-town-of-dalbandin.xml)  
+
 ### [2011-01-19](/news/2011/01/19/index.md)
 
+##### earthquake
 # A 7.2 magnitude earthquake hits Pakistan with an epicentre 50 kilometres west of the town of Dalbandin. 
 
 A powerful earthquake hit southwest Pakistan on Wednesday, geologists said, but there were no immediate reports of casualties.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/pakistan/8268148/Powerful-earthquake-shakes-Pakistan.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01806/earthquake_1806408a.jpg)

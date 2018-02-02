@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/6/the-tata-group-establishes-a-five-man-panel-in-the-search-for-ratan-naval-tata-s-successor-as-its-head-of-business.html)  [JSON](/news/2010/08/6/the-tata-group-establishes-a-five-man-panel-in-the-search-for-ratan-naval-tata-s-successor-as-its-head-of-business.json)  [XML](/news/2010/08/6/the-tata-group-establishes-a-five-man-panel-in-the-search-for-ratan-naval-tata-s-successor-as-its-head-of-business.xml)  
+
 ### [2010-08-6](/news/2010/08/6/index.md)
 
+##### Tata Group
 # The Tata Group establishes a five-man panel in the search for Ratan Naval Tata's successor as its head of business. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10892185)
 2. [NDTV](http://profit.ndtv.com/news/show/tatas-announce-5-member-panel-to-look-for-new-chief-87721)

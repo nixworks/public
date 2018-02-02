@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/7/thirty-one-north-koreans-arrive-in-south-korea-after-crossing-the-yellow-sea-by-boat.html)  [JSON](/news/2011/02/7/thirty-one-north-koreans-arrive-in-south-korea-after-crossing-the-yellow-sea-by-boat.json)  [XML](/news/2011/02/7/thirty-one-north-koreans-arrive-in-south-korea-after-crossing-the-yellow-sea-by-boat.xml)  
+
 ### [2011-02-7](/news/2011/02/7/index.md)
 
+##### North Korea
 # Thirty-one North Koreans arrive in South Korea after crossing the Yellow Sea by boat. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yonhap News](http://english.yonhapnews.co.kr/national/2011/02/07/33/0301000000AEN20110207004100315F.HTML)
 

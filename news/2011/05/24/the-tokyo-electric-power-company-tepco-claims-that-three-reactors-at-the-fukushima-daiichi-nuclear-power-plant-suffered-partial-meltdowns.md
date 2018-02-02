@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/24/the-tokyo-electric-power-company-tepco-claims-that-three-reactors-at-the-fukushima-daiichi-nuclear-power-plant-suffered-partial-meltdowns.html)  [JSON](/news/2011/05/24/the-tokyo-electric-power-company-tepco-claims-that-three-reactors-at-the-fukushima-daiichi-nuclear-power-plant-suffered-partial-meltdowns.json)  [XML](/news/2011/05/24/the-tokyo-electric-power-company-tepco-claims-that-three-reactors-at-the-fukushima-daiichi-nuclear-power-plant-suffered-partial-meltdowns.xml)  
+
 ### [2011-05-24](/news/2011/05/24/index.md)
 
+##### Tokyo Electric Power Company
 # The Tokyo Electric Power Company (TEPCO) claims that three reactors at the Fukushima Daiichi Nuclear Power Plant suffered partial meltdowns following the 2011 Tohoku earthquake and tsunami; it had previously announced that only one reactor had suffered a meltdown. 
 
 The operator of a damaged nuclear power station in north-eastern Japan said on Tuesday a partial fuel meltdown was believed to have taken place at two more reactors at the plant. The latest update sug
 
 
-### Source:
+### Sources:
 
 1. [DPA via ''The Hindu](http://www.thehindu.com/sci-tech/energy-and-environment/article2044557.ece)
 1. [Cover Image](http://www.thehindu.com/migration_catalog/article13868387.ece/ALTERNATES/LANDSCAPE_615/24TH_JAPAN_REACTOR)

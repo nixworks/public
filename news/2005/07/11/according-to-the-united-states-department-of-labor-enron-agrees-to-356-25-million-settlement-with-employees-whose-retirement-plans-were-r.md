@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/07/11/according-to-the-united-states-department-of-labor-enron-agrees-to-356-25-million-settlement-with-employees-whose-retirement-plans-were-r.html)  [JSON](/news/2005/07/11/according-to-the-united-states-department-of-labor-enron-agrees-to-356-25-million-settlement-with-employees-whose-retirement-plans-were-r.json)  [XML](/news/2005/07/11/according-to-the-united-states-department-of-labor-enron-agrees-to-356-25-million-settlement-with-employees-whose-retirement-plans-were-r.xml)  
+
 ### [2005-07-11](/news/2005/07/11/index.md)
 
+##### United States Department of Labor
 #  According to the United States Department of Labor, Enron agrees to $356.25 million settlement with employees whose retirement plans were ruined. They are likely to receive only 15&ndash;20% of that 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
-1. [Forbes](http://www.forbes.com/business/feeds/afx/2005/07/11/afx2133002.html)
+1. [Forbes](https://www.forbes.com/business/feeds/afx/2005/07/11/afx2133002.html)
 2. [Reuters](http://today.reuters.com/investing/financeArticle.aspx?type=governmentFilingsNews&storyID=URI:urn:newsml:reuters.com:20050712:MTFH33730_2005-07-12_01-08-59_N11517222:1)
 2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 

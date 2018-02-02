@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/1/u-s-republican-vice-presidential-candidate-sarah-palin-s-17-year-old-daughter-bristol-is-revealed-to-be-five-months-pregnant.html)  [JSON](/news/2008/09/1/u-s-republican-vice-presidential-candidate-sarah-palin-s-17-year-old-daughter-bristol-is-revealed-to-be-five-months-pregnant.json)  [XML](/news/2008/09/1/u-s-republican-vice-presidential-candidate-sarah-palin-s-17-year-old-daughter-bristol-is-revealed-to-be-five-months-pregnant.xml)  
+
 ### [2008-09-1](/news/2008/09/1/index.md)
 
+##### U.S.
 #  U.S. Republican Vice Presidential candidate Sarah Palin's 17-year-old daughter Bristol is revealed to be five months pregnant. 
 
 The 17-year-old daughter of Republican vice presidential candidate Sarah Palin is pregnant, the Alaska governor said today, in an announcement which could anger the extreme Christian right within her party.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://ap.google.com/article/ALeqM5jIMJWupyWNmvU3UX2aGhICmZrQ_wD92U1M600)
 2. [Al Jazeera](http://english.aljazeera.net/news/americas/2008/09/200891172722676472.html)

@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2004/09/2/south-korea-admits-that-in-2000-its-scientists-secretly-enriched-uranium-to-near-nuclear-weapon-level.html)  [JSON](/news/2004/09/2/south-korea-admits-that-in-2000-its-scientists-secretly-enriched-uranium-to-near-nuclear-weapon-level.json)  [XML](/news/2004/09/2/south-korea-admits-that-in-2000-its-scientists-secretly-enriched-uranium-to-near-nuclear-weapon-level.xml)  
+
 ### [2004-09-2](/news/2004/09/2/index.md)
 
+##### South Korea
 #  South Korea admits that, in 2000, its scientists secretly enriched uranium to near nuclear-weapon level. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/3620566.stm)
 
 ### Related:
 
 1. [ Iran will have enough enriched uranium to make a single nuclear weapon later this year, the International Institute for Strategic Studies predicts. ](/news/2009/01/27/iran-will-have-enough-enriched-uranium-to-make-a-single-nuclear-weapon-later-this-year-the-international-institute-for-strategic-studies-p.md) _Context: nuclear weapon, uranium_
-2. [ Nuclear weapons: Iranian official confirm traces of highly enriched uranium found in the country at the Kalaye Electric Company near Tehran (this was the second time such a discovery was made by United Nations inspectors). Iran's ambassador to the International Atomic Energy Agency, Ali Akbar Salehi, attributes the find to the contamination of imported equipment on state television. Iranians have allegedly used Kalaye Electric Company to test centrifuges used to make highly enriched uranium that can be used to make atomic bombs.](/news/2003/09/29/nuclear-weapons-iranian-official-confirm-traces-of-highly-enriched-uranium-found-in-the-country-at-the-kalaye-electric-company-near-tehran.md) _Context: nuclear weapon, uranium_
-3. [A South Korean lawmaker claims that in 2016, North Korean hackers stole classified military documents detailing joint operations between the South Korean and United States military forces in the event of war with North Korea. ](/news/2017/10/10/a-south-korean-lawmaker-claims-that-in-2016-north-korean-hackers-stole-classified-military-documents-detailing-joint-operations-between-the.md) _Context: South Korea_
-4. [Mexico expels the ambassador of North Korea in the country over the recent nuclear weapons testing. ](/news/2017/09/7/mexico-expels-the-ambassador-of-north-korea-in-the-country-over-the-recent-nuclear-weapons-testing.md) _Context: nuclear weapon_
-5. [Amid tensions from South Korea, U.S. President Donald Trump announces that he is "allowing Japan and South Korea to buy a substantially increased amount of highly sophisticated military equipment from the United States." ](/news/2017/09/5/amid-tensions-from-south-korea-u-s-president-donald-trump-announces-that-he-is-allowing-japan-and-south-korea-to-buy-a-substantially-incr.md) _Context: South Korea_
+2. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: South Korea_
+3. [A fire breaks out in a hospital in Miryang, South Korea, killing at least 37 people and injuring over 130 others. ](/news/2018/01/26/a-fire-breaks-out-in-a-hospital-in-miryang-south-korea-killing-at-least-37-people-and-injuring-over-130-others.md) _Context: South Korea_
+4. [The South Korean Ministry of Unification announces that both North Korea and South Korea will march together under the Korean Unification Flag during the opening ceremony of the 2018 Winter Olympics. ](/news/2018/01/17/the-south-korean-ministry-of-unification-announces-that-both-north-korea-and-south-korea-will-march-together-under-the-korean-unification-fl.md) _Context: South Korea_
+5. [The South Korean Ministry of Justice announces that it is a preparing a bill to ban cryptocurrency trading through exchanges. ](/news/2018/01/11/the-south-korean-ministry-of-justice-announces-that-it-is-a-preparing-a-bill-to-ban-cryptocurrency-trading-through-exchanges.md) _Context: South Korea_

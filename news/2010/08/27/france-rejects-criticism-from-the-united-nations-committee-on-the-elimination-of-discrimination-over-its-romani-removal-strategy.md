@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/27/france-rejects-criticism-from-the-united-nations-committee-on-the-elimination-of-discrimination-over-its-romani-removal-strategy.html)  [JSON](/news/2010/08/27/france-rejects-criticism-from-the-united-nations-committee-on-the-elimination-of-discrimination-over-its-romani-removal-strategy.json)  [XML](/news/2010/08/27/france-rejects-criticism-from-the-united-nations-committee-on-the-elimination-of-discrimination-over-its-romani-removal-strategy.xml)  
+
 ### [2010-08-27](/news/2010/08/27/index.md)
 
+##### France
 # France rejects criticism from the United Nations Committee on the Elimination of Discrimination over its Romani removal strategy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/28/c_13466423.htm)
 

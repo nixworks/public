@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/26/michael-guzzo-shoots-and-kills-four-people-and-two-dogs-in-their-house-and-then-commits-suicide-in-phoenix-arizona-u-s.html)  [JSON](/news/2013/10/26/michael-guzzo-shoots-and-kills-four-people-and-two-dogs-in-their-house-and-then-commits-suicide-in-phoenix-arizona-u-s.json)  [XML](/news/2013/10/26/michael-guzzo-shoots-and-kills-four-people-and-two-dogs-in-their-house-and-then-commits-suicide-in-phoenix-arizona-u-s.xml)  
+
 ### [2013-10-26](/news/2013/10/26/index.md)
 
+##### Phoenix, Arizona
 # Michael Guzzo shoots and kills four people and two dogs in their house, and then commits suicide in Phoenix, Arizona, U.S. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Huffington Post](http://www.huffingtonpost.com/2013/10/28/michael-guzzo-shoots-neighbors-dog-self_n_4169445.html)
 

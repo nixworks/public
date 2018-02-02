@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/12/scientists-announce-the-discovery-of-a-chemical-compound-which-destroys-the-reproduction-capabilities-of-bacteria-that-are-antibiotic-resist.html)  [JSON](/news/2010/08/12/scientists-announce-the-discovery-of-a-chemical-compound-which-destroys-the-reproduction-capabilities-of-bacteria-that-are-antibiotic-resist.json)  [XML](/news/2010/08/12/scientists-announce-the-discovery-of-a-chemical-compound-which-destroys-the-reproduction-capabilities-of-bacteria-that-are-antibiotic-resist.xml)  
+
 ### [2010-08-12](/news/2010/08/12/index.md)
 
+##### Scientists
 # Scientists announce the discovery of a chemical compound which destroys the reproduction capabilities of bacteria that are antibiotic-resistant. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [FierceBiotech](http://www.fiercebiotech.com/story/299423-gsk-cites-progress-new-gen-antibiotic/2010-08-05)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/28/a-thai-soldier-dies-in-a-flareup-of-tensions-in-the-ongoing-conflict-between-pro-and-anti-government-factions-in-thailand.html)  [JSON](/news/2010/04/28/a-thai-soldier-dies-in-a-flareup-of-tensions-in-the-ongoing-conflict-between-pro-and-anti-government-factions-in-thailand.json)  [XML](/news/2010/04/28/a-thai-soldier-dies-in-a-flareup-of-tensions-in-the-ongoing-conflict-between-pro-and-anti-government-factions-in-thailand.xml)  
+
 ### [2010-04-28](/news/2010/04/28/index.md)
 
+##### 2010 Thai political protests
 # A Thai soldier dies in a flareup of tensions in the ongoing conflict between pro- and anti-government factions in Thailand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748704423504575211430766501888.html?mod=WSJ_hpp_MIDDLENexttoWhatsNewsFifth)
 

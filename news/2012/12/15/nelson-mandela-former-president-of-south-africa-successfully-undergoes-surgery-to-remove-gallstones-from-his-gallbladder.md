@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/15/nelson-mandela-former-president-of-south-africa-successfully-undergoes-surgery-to-remove-gallstones-from-his-gallbladder.html)  [JSON](/news/2012/12/15/nelson-mandela-former-president-of-south-africa-successfully-undergoes-surgery-to-remove-gallstones-from-his-gallbladder.json)  [XML](/news/2012/12/15/nelson-mandela-former-president-of-south-africa-successfully-undergoes-surgery-to-remove-gallstones-from-his-gallbladder.xml)  
+
 ### [2012-12-15](/news/2012/12/15/index.md)
 
+##### Nelson Mandela
 # Nelson Mandela, former President of South Africa, successfully undergoes surgery to remove gallstones from his gallbladder. 
 
 Nelson Mandela has had a successful surgical procedure to remove gallstones from his bladder, the South African presidency has announced.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20739780)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/nelson-mandela/9747134/Nelson-Mandela-has-successful-procedure-to-remove-gallstones.html)

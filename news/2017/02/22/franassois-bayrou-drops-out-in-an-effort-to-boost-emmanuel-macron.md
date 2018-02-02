@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/22/franassois-bayrou-drops-out-in-an-effort-to-boo
 
 ### [2017-02-22](/news/2017/02/22/index.md)
 
+##### last month's presidential election
 # Francois Bayrou drops out in an effort to boost Emmanuel Macron. 
 
 Self-described outsider and centrist take surprise step of joining forces as veteran of three elections says France is at ‘extreme risk’ and needs ‘exceptional response’

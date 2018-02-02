@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/9/at-least-nine-colombian-policeman-are-killed-and-six-others-injured-from-a-bomb-planted-by-the-revolutionary-armed-forces-of-colombia-in-sa.html)  [JSON](/news/2007/05/9/at-least-nine-colombian-policeman-are-killed-and-six-others-injured-from-a-bomb-planted-by-the-revolutionary-armed-forces-of-colombia-in-sa.json)  [XML](/news/2007/05/9/at-least-nine-colombian-policeman-are-killed-and-six-others-injured-from-a-bomb-planted-by-the-revolutionary-armed-forces-of-colombia-in-sa.xml)  
+
 ### [2007-05-9](/news/2007/05/9/index.md)
 
+##### Colombia
 #  At least nine Colombian policeman are killed and six others injured from a bomb planted by the Revolutionary Armed Forces of Colombia in Santander Department. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6641305.stm)
 

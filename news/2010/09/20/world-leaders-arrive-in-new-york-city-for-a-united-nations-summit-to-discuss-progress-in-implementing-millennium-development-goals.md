@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/20/world-leaders-arrive-in-new-york-city-for-a-united-nations-summit-to-discuss-progress-in-implementing-millennium-development-goals.html)  [JSON](/news/2010/09/20/world-leaders-arrive-in-new-york-city-for-a-united-nations-summit-to-discuss-progress-in-implementing-millennium-development-goals.json)  [XML](/news/2010/09/20/world-leaders-arrive-in-new-york-city-for-a-united-nations-summit-to-discuss-progress-in-implementing-millennium-development-goals.xml)  
+
 ### [2010-09-20](/news/2010/09/20/index.md)
 
+##### New York City
 # World leaders arrive in New York City for a United Nations summit to discuss progress in implementing Millennium Development Goals. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/US/09/20/new.york.un.summit/?hpt=T2)
 

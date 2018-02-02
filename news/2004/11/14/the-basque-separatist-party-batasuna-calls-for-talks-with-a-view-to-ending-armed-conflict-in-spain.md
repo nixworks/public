@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/14/the-basque-separatist-party-batasuna-calls-for-talks-with-a-view-to-ending-armed-conflict-in-spain.html)  [JSON](/news/2004/11/14/the-basque-separatist-party-batasuna-calls-for-talks-with-a-view-to-ending-armed-conflict-in-spain.json)  [XML](/news/2004/11/14/the-basque-separatist-party-batasuna-calls-for-talks-with-a-view-to-ending-armed-conflict-in-spain.xml)  
+
 ### [2004-11-14](/news/2004/11/14/index.md)
 
+##### Basque
 #  The Basque separatist party Batasuna calls for talks with a view to ending armed conflict in Spain. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4010625.stm)
 

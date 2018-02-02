@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/12/deandre-harris-a-black-man-beaten-by-white-supr
 
 ### [2017-10-12](/news/2017/10/12/index.md)
 
+##### Beating of DeAndre Harris
 # DeAndre Harris, a black man beaten by white supremacists during the Unite the Right rally, turns himself in to Charlottesville after he is served an arrest warrant for an alleged attack on a white supremacist during the same rally. 
 
 DeAndre Harris, who was set upon at the Charlottesville rally, turns himself in to be charged.

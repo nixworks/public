@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/6/the-trial-of-ichira-ozawa-a-powerful-faction-leader-in-the-ruling-democratic-party-of-japan-over-a-political-funding-scandal-begins-today.html)  [JSON](/news/2011/10/6/the-trial-of-ichira-ozawa-a-powerful-faction-leader-in-the-ruling-democratic-party-of-japan-over-a-political-funding-scandal-begins-today.json)  [XML](/news/2011/10/6/the-trial-of-ichira-ozawa-a-powerful-faction-leader-in-the-ruling-democratic-party-of-japan-over-a-political-funding-scandal-begins-today.xml)  
+
 ### [2011-10-6](/news/2011/10/6/index.md)
 
+##### Ichiro Ozawa
 # The trial of Ichiro Ozawa, a powerful faction leader in the ruling Democratic Party of Japan, over a political funding scandal begins today in Japan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hFZtS-_YMT4GJUz2-iv7YTDCoSdg?docId=CNG.8286e34e8a18e3f61ca4ad30f2f98370.1b1)
 

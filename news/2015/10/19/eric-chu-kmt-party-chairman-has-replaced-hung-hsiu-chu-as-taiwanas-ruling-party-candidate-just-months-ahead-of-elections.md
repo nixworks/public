@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/10/19/eric-chu-kmt-party-chairman-has-replaced-hung-hsiu-chu-as-taiwanas-ruling-party-candidate-just-months-ahead-of-elections.html)  [JSON](/news/2015/10/19/eric-chu-kmt-party-chairman-has-replaced-hung-hsiu-chu-as-taiwanas-ruling-party-candidate-just-months-ahead-of-elections.json)  [XML](/news/2015/10/19/eric-chu-kmt-party-chairman-has-replaced-hung-hsiu-chu-as-taiwanas-ruling-party-candidate-just-months-ahead-of-elections.xml)  
+
 ### [2015-10-19](/news/2015/10/19/index.md)
 
+##### Eric Chu
 # Eric Chu, KMT party chairman, has replaced Hung Hsiu-chu as Taiwan's ruling party candidate just months ahead of elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Diplomat](http://thediplomat.com/2015/10/taiwans-ruling-party-ousts-its-presidential-candidate/)
 1. [Cover Image](http://thediplomat.com/wp-content/uploads/2015/05/thediplomat_2015-05-01_14-27-24-553x360.jpg)
+
+### Changes:
+
+1. [Eric Chu, KMT party chairman, has replaced Hung Hsiu-chu as Taiwan-s ruling party candidate just months ahead of elections. ](/news/2015/10/19/eric-chu-kmt-party-chairman-has-replaced-hung-hsiu-chu-as-taiwan-s-ruling-party-candidate-just-months-ahead-of-elections.md) _2017-08-27 03:43:24 (First version)_
+1. [Eric Chu, KMT party chairman, has replaced Hung Hsiu-chu as Taiwan's ruling party candidate just months ahead of elections. ](/news/2015/10/19/eric-chu-kmt-party-chairman-has-replaced-hung-hsiu-chu-as-taiwanas-ruling-party-candidate-just-months-ahead-of-elections.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [FORMOSAT-5, the first satellite fully designed by Taiwan's National Space Organization, is launched into low-earth orbit by SpaceX's Falcon 9 rocket. ](/news/2017/08/25/formosat-5-the-first-satellite-fully-designed-by-taiwan-s-national-space-organization-is-launched-into-low-earth-orbit-by-spacex-s-falcon.md) _Context: Taiwan_
 4. [The United States plans to sell Taiwan $1.42 billion in arms, the first such sale under the administration of Donald Trump. ](/news/2017/06/29/the-united-states-plans-to-sell-taiwan-1-42-billion-in-arms-the-first-such-sale-under-the-administration-of-donald-trump.md) _Context: Taiwan_
 5. [Panama severs diplomatic ties with Taiwan and establishes formal relations with China. ](/news/2017/06/12/panama-severs-diplomatic-ties-with-taiwan-and-establishes-formal-relations-with-china.md) _Context: Taiwan_
-
-### Changes:
-
-1. [Eric Chu, KMT party chairman, has replaced Hung Hsiu-chu as Taiwan-s ruling party candidate just months ahead of elections. ](/news/2015/10/19/eric-chu-kmt-party-chairman-has-replaced-hung-hsiu-chu-as-taiwan-s-ruling-party-candidate-just-months-ahead-of-elections.md) _2017-08-27 03:43:24 (First version)_
-1. [Eric Chu, KMT party chairman, has replaced Hung Hsiu-chu as Taiwan's ruling party candidate just months ahead of elections. ](/news/2015/10/19/eric-chu-kmt-party-chairman-has-replaced-hung-hsiu-chu-as-taiwanas-ruling-party-candidate-just-months-ahead-of-elections.md) _(Current version)_

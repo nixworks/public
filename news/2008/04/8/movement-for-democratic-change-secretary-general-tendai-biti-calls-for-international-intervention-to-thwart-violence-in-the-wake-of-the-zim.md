@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/8/movement-for-democratic-change-secretary-general-tendai-biti-calls-for-international-intervention-to-thwart-violence-in-the-wake-of-the-zim.html)  [JSON](/news/2008/04/8/movement-for-democratic-change-secretary-general-tendai-biti-calls-for-international-intervention-to-thwart-violence-in-the-wake-of-the-zim.json)  [XML](/news/2008/04/8/movement-for-democratic-change-secretary-general-tendai-biti-calls-for-international-intervention-to-thwart-violence-in-the-wake-of-the-zim.xml)  
+
 ### [2008-04-8](/news/2008/04/8/index.md)
 
+##### Movement for Democratic Change
 #  Movement for Democratic Change Secretary General Tendai Biti calls for international intervention to thwart violence in the wake of the Zimbabwean presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7336372.stm)
 

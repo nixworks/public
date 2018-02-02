@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/18/colombia-takes-venezuela-to-the-organisation-of-american-states-over-claims-that-the-latter-tolerates-training-camps-for-left-wing-guerrilla.html)  [JSON](/news/2010/07/18/colombia-takes-venezuela-to-the-organisation-of-american-states-over-claims-that-the-latter-tolerates-training-camps-for-left-wing-guerrilla.json)  [XML](/news/2010/07/18/colombia-takes-venezuela-to-the-organisation-of-american-states-over-claims-that-the-latter-tolerates-training-camps-for-left-wing-guerrilla.xml)  
+
 ### [2010-07-18](/news/2010/07/18/index.md)
 
+##### Colombia
 # Colombia takes Venezuela to the Organisation of American States over claims that the latter tolerates training camps for left-wing guerrillas, particularly FARC and ELN within its borders. 
 
 Colombia calls a meeting of regional grouping the OAS to accuse Venezuela of harbouring left-wing rebels.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10674859)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/30/ca-te-d-ivoire-s-ambassador-to-the-united-nations-youssoufou-bamba-says-the-country-is-on-the-brink-of-genocide.html)  [JSON](/news/2010/12/30/ca-te-d-ivoire-s-ambassador-to-the-united-nations-youssoufou-bamba-says-the-country-is-on-the-brink-of-genocide.json)  [XML](/news/2010/12/30/ca-te-d-ivoire-s-ambassador-to-the-united-nations-youssoufou-bamba-says-the-country-is-on-the-brink-of-genocide.xml)  
+
 ### [2010-12-30](/news/2010/12/30/index.md)
 
+##### Cote d'Ivoire
 # Cote d'Ivoire's ambassador to the United Nations, Youssoufou Bamba, says the country is on the "brink of genocide". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE6BT00320101230)
 

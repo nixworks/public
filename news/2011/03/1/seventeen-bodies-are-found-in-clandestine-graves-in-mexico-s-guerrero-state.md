@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/1/seventeen-bodies-are-found-in-clandestine-graves-in-mexico-s-guerrero-state.html)  [JSON](/news/2011/03/1/seventeen-bodies-are-found-in-clandestine-graves-in-mexico-s-guerrero-state.json)  [XML](/news/2011/03/1/seventeen-bodies-are-found-in-clandestine-graves-in-mexico-s-guerrero-state.xml)  
+
 ### [2011-03-1](/news/2011/03/1/index.md)
 
+##### Mexico
 # Seventeen bodies are found in clandestine graves in Mexico's Guerrero state. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Buffalo News](http://www.buffalonews.com/wire-feeds/24-hour-world-news/article355486.ece)
 

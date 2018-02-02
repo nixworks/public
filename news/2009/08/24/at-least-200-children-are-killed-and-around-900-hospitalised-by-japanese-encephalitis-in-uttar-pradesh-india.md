@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/24/at-least-200-children-are-killed-and-around-900-hospitalised-by-japanese-encephalitis-in-uttar-pradesh-india.html)  [JSON](/news/2009/08/24/at-least-200-children-are-killed-and-around-900-hospitalised-by-japanese-encephalitis-in-uttar-pradesh-india.json)  [XML](/news/2009/08/24/at-least-200-children-are-killed-and-around-900-hospitalised-by-japanese-encephalitis-in-uttar-pradesh-india.xml)  
+
 ### [2009-08-24](/news/2009/08/24/index.md)
 
+##### Japanese encephalitis
 #  At least 200 children are killed and around 900 hospitalised by Japanese encephalitis in Uttar Pradesh, India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8217453.stm)
 

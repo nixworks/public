@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/13/nasa-reports-that-scientists-using-the-hubble-space-telescope-have-found-a-salty-ocean-lurking-beneath-the-surface-of-jupiter-s-largest-moon.html)  [JSON](/news/2015/03/13/nasa-reports-that-scientists-using-the-hubble-space-telescope-have-found-a-salty-ocean-lurking-beneath-the-surface-of-jupiter-s-largest-moon.json)  [XML](/news/2015/03/13/nasa-reports-that-scientists-using-the-hubble-space-telescope-have-found-a-salty-ocean-lurking-beneath-the-surface-of-jupiter-s-largest-moon.xml)  
+
 ### [2015-03-13](/news/2015/03/13/index.md)
 
+##### NASA
 # NASA reports that scientists using the Hubble Space Telescope have found a salty ocean lurking beneath the surface of Jupiter's largest moon, Ganymede. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Scientific American](http://www.scientificamerican.com/article/jupiter-s-moon-ganymede-has-salty-ocean-with-more-water-than-earth/)
 

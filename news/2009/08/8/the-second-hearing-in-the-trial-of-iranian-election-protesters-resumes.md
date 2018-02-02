@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/8/the-second-hearing-in-the-trial-of-iranian-election-protesters-resumes.html)  [JSON](/news/2009/08/8/the-second-hearing-in-the-trial-of-iranian-election-protesters-resumes.json)  [XML](/news/2009/08/8/the-second-hearing-in-the-trial-of-iranian-election-protesters-resumes.xml)  
+
 ### [2009-08-8](/news/2009/08/8/index.md)
 
+##### Iran
 #  The second hearing in the trial of Iranian election protesters resumes. 
 
 French student and two staff from Western embassies among those in the dock.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/08/20098843439590151.html)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=102827&sectionid=351020101)

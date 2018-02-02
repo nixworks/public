@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/27/muhammad-deif-the-hamas-leader-who-heads-israel-s-most-wanted-list-releases-a-video-taunting-israel.html)  [JSON](/news/2005/08/27/muhammad-deif-the-hamas-leader-who-heads-israel-s-most-wanted-list-releases-a-video-taunting-israel.json)  [XML](/news/2005/08/27/muhammad-deif-the-hamas-leader-who-heads-israel-s-most-wanted-list-releases-a-video-taunting-israel.xml)  
+
 ### [2005-08-27](/news/2005/08/27/index.md)
 
+##### Muhammad Deif
 #  Muhammad Deif, the Hamas leader who heads Israel's most wanted list, releases a video taunting Israel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4190084.stm)
 

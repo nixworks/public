@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/6/moldova-s-council-for-tv-and-radio-suspends-the-broadcast-license-of-the-russian-tv-channel-russia-24-and-places-sanctions-on-four-moldovan.html)  [JSON](/news/2014/07/6/moldova-s-council-for-tv-and-radio-suspends-the-broadcast-license-of-the-russian-tv-channel-russia-24-and-places-sanctions-on-four-moldovan.json)  [XML](/news/2014/07/6/moldova-s-council-for-tv-and-radio-suspends-the-broadcast-license-of-the-russian-tv-channel-russia-24-and-places-sanctions-on-four-moldovan.xml)  
+
 ### [2014-07-6](/news/2014/07/6/index.md)
 
+##### Moldova
 # Moldova's Council for TV and Radio suspends the broadcast license of the Russian TV channel Russia-24 and places sanctions on four Moldovan broadcasters for lack of pluralism. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/moldova-tv-bans-rossiya-broadcasters/25446461.html)
 

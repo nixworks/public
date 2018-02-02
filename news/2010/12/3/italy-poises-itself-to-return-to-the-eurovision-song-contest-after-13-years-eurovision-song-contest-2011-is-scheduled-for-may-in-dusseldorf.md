@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/3/italy-poises-itself-to-return-to-the-eurovision-song-contest-after-13-years-eurovision-song-contest-2011-is-scheduled-for-may-in-dusseldorf.html)  [JSON](/news/2010/12/3/italy-poises-itself-to-return-to-the-eurovision-song-contest-after-13-years-eurovision-song-contest-2011-is-scheduled-for-may-in-dusseldorf.json)  [XML](/news/2010/12/3/italy-poises-itself-to-return-to-the-eurovision-song-contest-after-13-years-eurovision-song-contest-2011-is-scheduled-for-may-in-dusseldorf.xml)  
+
 ### [2010-12-3](/news/2010/12/3/index.md)
 
+##### Italy
 # Italy poises itself to return to the Eurovision Song Contest after 13 years. Eurovision Song Contest 2011 is scheduled for May in Dsseldorf. 
 
 Italy is poised to make a comeback to the Eurovision Song Contest after a break of 13 years, event officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11910425)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

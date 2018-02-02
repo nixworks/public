@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/18/the-france-national-football-team-beat-the-republic-of-ireland-at-the-stade-de-france-to-qualify-for-the-2010-fifa-world-cup-finals-in-sout.html)  [JSON](/news/2009/11/18/the-france-national-football-team-beat-the-republic-of-ireland-at-the-stade-de-france-to-qualify-for-the-2010-fifa-world-cup-finals-in-sout.json)  [XML](/news/2009/11/18/the-france-national-football-team-beat-the-republic-of-ireland-at-the-stade-de-france-to-qualify-for-the-2010-fifa-world-cup-finals-in-sout.xml)  
+
 ### [2009-11-18](/news/2009/11/18/index.md)
 
+##### French
 #  The France national football team beat the Republic of Ireland at the Stade de France to qualify for the 2010 FIFA World Cup finals in South Africa, with Thierry Henry admitting after the game that he committed handball in the move leading to the decisive goal. 
 
 France striker Thierry Henry admitted that he had intentionally handled the ball to set up William Gallas&rsquo;s decisive goal against the Republic of Ireland in Wednesday night&#039;s World Cup play-off in Paris.
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/sport/football/international/republicofireland/6599687/Thierry-Henry-admits-to-handball-that-defeated-Ireland-in-World-Cup-play-off.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01526/henry_1526091a.jpg)

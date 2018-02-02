@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/23/the-italian-coast-guard-rescues-4-500-migrants-
 
 ### [2016-06-23](/news/2016/06/23/index.md)
 
+##### European migration crisis
 # The Italian Coast Guard rescues 4,500 migrants at sea. 
 
 Some 5,000 migrants were rescued from rubber dinghies in the Mediterranean on Thursday, the Italian coastguard said, averting another potential high seas disaster. &quot;Around 5,000 people were saved in 43 rescue operations,&quot; the coastguard said in a statement. Most of the migrants were on the

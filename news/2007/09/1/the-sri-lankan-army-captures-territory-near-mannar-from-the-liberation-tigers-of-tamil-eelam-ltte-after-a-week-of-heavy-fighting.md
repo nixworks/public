@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/1/the-sri-lankan-army-captures-territory-near-mannar-from-the-liberation-tigers-of-tamil-eelam-ltte-after-a-week-of-heavy-fighting.html)  [JSON](/news/2007/09/1/the-sri-lankan-army-captures-territory-near-mannar-from-the-liberation-tigers-of-tamil-eelam-ltte-after-a-week-of-heavy-fighting.json)  [XML](/news/2007/09/1/the-sri-lankan-army-captures-territory-near-mannar-from-the-liberation-tigers-of-tamil-eelam-ltte-after-a-week-of-heavy-fighting.xml)  
+
 ### [2007-09-1](/news/2007/09/1/index.md)
 
+##### Sri Lanka
 #  The Sri Lankan Army captures territory near Mannar from the Liberation Tigers of Tamil Eelam (LTTE) after a week of heavy fighting. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Lanka Business Online](http://www.lankabusinessonline.com/fullstory.php?newsID=1722047595&no_view=1&SEARCH_TERM=33)
 

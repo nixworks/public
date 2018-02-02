@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/16/pope-benedict-xvi-starts-a-papal-visit-to-the-united-kingdom-at-edinburgh-scotland-with-groups-expected-to-protest.html)  [JSON](/news/2010/09/16/pope-benedict-xvi-starts-a-papal-visit-to-the-united-kingdom-at-edinburgh-scotland-with-groups-expected-to-protest.json)  [XML](/news/2010/09/16/pope-benedict-xvi-starts-a-papal-visit-to-the-united-kingdom-at-edinburgh-scotland-with-groups-expected-to-protest.xml)  
+
 ### [2010-09-16](/news/2010/09/16/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI starts a papal visit to the United Kingdom at Edinburgh, Scotland, with groups expected to protest. 
 
 Michael Hirst considers the cases made by critics of Pope Benedict XVI, and the plans to protest against his UK visit.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-11294941)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/49093000/jpg/_49093686_010135635-1.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/29/scientists-say-warm-seas-around-australia-s-gre
 
 ### [2016-11-29](/news/2016/11/29/index.md)
 
+##### Great Barrier Reef
 # Scientists say warm seas around Australia's Great Barrier Reef have killed two-thirds of a 435-mile stretch of coral in the past nine months. 
 
 

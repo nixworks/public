@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/18/russia-s-duma-unanimously-passes-a-law-banning-foreign-same-sex-couples-from-adopting-russian-children.html)  [JSON](/news/2013/06/18/russia-s-duma-unanimously-passes-a-law-banning-foreign-same-sex-couples-from-adopting-russian-children.json)  [XML](/news/2013/06/18/russia-s-duma-unanimously-passes-a-law-banning-foreign-same-sex-couples-from-adopting-russian-children.xml)  
+
 ### [2013-06-18](/news/2013/06/18/index.md)
 
+##### State Duma
 # Russia's Duma unanimously passes a law banning foreign same-sex couples from adopting Russian children. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/world/2013/06/18/russia-lawmakers-back-banning-gay-couple-adoptions/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2013/06/18/russia-lawmakers-back-banning-gay-couple-adoptions/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422578403805.jpg?ve=1)

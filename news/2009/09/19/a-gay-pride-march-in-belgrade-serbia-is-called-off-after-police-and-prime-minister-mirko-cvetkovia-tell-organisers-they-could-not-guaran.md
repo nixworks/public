@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/19/a-gay-pride-march-in-belgrade-serbia-is-called-off-after-police-and-prime-minister-mirko-cvetkovia-tell-organisers-they-could-not-guaran.html)  [JSON](/news/2009/09/19/a-gay-pride-march-in-belgrade-serbia-is-called-off-after-police-and-prime-minister-mirko-cvetkovia-tell-organisers-they-could-not-guaran.json)  [XML](/news/2009/09/19/a-gay-pride-march-in-belgrade-serbia-is-called-off-after-police-and-prime-minister-mirko-cvetkovia-tell-organisers-they-could-not-guaran.xml)  
+
 ### [2009-09-19](/news/2009/09/19/index.md)
 
+##### gay pride
 #  A gay pride march in Belgrade, Serbia, is called off after police and Prime Minister Mirko Cvetkovic tell organisers they could not guarantee its safety. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory?id=8619023)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8264514.stm)

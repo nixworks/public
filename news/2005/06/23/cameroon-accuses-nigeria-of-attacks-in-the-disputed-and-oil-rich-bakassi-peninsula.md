@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/23/cameroon-accuses-nigeria-of-attacks-in-the-disputed-and-oil-rich-bakassi-peninsula.html)  [JSON](/news/2005/06/23/cameroon-accuses-nigeria-of-attacks-in-the-disputed-and-oil-rich-bakassi-peninsula.json)  [XML](/news/2005/06/23/cameroon-accuses-nigeria-of-attacks-in-the-disputed-and-oil-rich-bakassi-peninsula.xml)  
+
 ### [2005-06-23](/news/2005/06/23/index.md)
 
+##### Cameroon
 #  Cameroon accuses Nigeria of attacks in the disputed and oil-rich Bakassi peninsula 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica](http://allafrica.com/stories/200506230799.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4122502.stm)

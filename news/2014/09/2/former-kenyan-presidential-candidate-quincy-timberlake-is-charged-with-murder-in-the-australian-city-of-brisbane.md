@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/2/former-kenyan-presidential-candidate-quincy-timberlake-is-charged-with-murder-in-the-australian-city-of-brisbane.html)  [JSON](/news/2014/09/2/former-kenyan-presidential-candidate-quincy-timberlake-is-charged-with-murder-in-the-australian-city-of-brisbane.json)  [XML](/news/2014/09/2/former-kenyan-presidential-candidate-quincy-timberlake-is-charged-with-murder-in-the-australian-city-of-brisbane.xml)  
+
 ### [2014-09-2](/news/2014/09/2/index.md)
 
+##### President of Kenya
 # Former Kenyan presidential candidate Quincy Timberlake is charged with murder in the Australian city of Brisbane. 
 
 Former presidential hopeful charged with murder of boy.
 
 
-### Source:
+### Sources:
 
 1. [Brisbane Times](http://www.brisbanetimes.com.au/queensland/kenyan-presidential-hopeful-quincy-timberlake-charged-with-murder-in-brisbane-20140902-10bftn.html)
 1. [Cover Image](http://www.brisbanetimes.com.au/content/dam/images/1/0/b/g/i/5/image.related.articleLeadwide.620x349.10bftn.png/1410496235545.jpg)

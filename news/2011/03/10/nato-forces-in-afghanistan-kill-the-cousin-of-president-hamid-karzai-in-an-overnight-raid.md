@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/10/nato-forces-in-afghanistan-kill-the-cousin-of-president-hamid-karzai-in-an-overnight-raid.html)  [JSON](/news/2011/03/10/nato-forces-in-afghanistan-kill-the-cousin-of-president-hamid-karzai-in-an-overnight-raid.json)  [XML](/news/2011/03/10/nato-forces-in-afghanistan-kill-the-cousin-of-president-hamid-karzai-in-an-overnight-raid.xml)  
+
 ### [2011-03-10](/news/2011/03/10/index.md)
 
+##### NATO
 # NATO forces in Afghanistan kill the cousin of President Hamid Karzai in an overnight raid. 
 
 A relative of Afghan President Hamid Karzai is mistakenly killed by Nato troops in southern Afghanistan, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12700630)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

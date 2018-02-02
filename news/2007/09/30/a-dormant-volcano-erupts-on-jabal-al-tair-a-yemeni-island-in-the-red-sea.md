@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/30/a-dormant-volcano-erupts-on-jabal-al-tair-a-yemeni-island-in-the-red-sea.html)  [JSON](/news/2007/09/30/a-dormant-volcano-erupts-on-jabal-al-tair-a-yemeni-island-in-the-red-sea.json)  [XML](/news/2007/09/30/a-dormant-volcano-erupts-on-jabal-al-tair-a-yemeni-island-in-the-red-sea.xml)  
+
 ### [2007-09-30](/news/2007/09/30/index.md)
 
+##### volcano
 #  A dormant volcano erupts on Jabal al-Tair, a Yemeni island in the Red Sea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/7021596.stm)
 

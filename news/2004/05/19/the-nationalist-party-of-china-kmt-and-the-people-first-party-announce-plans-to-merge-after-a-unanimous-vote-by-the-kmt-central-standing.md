@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/19/the-nationalist-party-of-china-kmt-and-the-people-first-party-announce-plans-to-merge-after-a-unanimous-vote-by-the-kmt-central-standing.html)  [JSON](/news/2004/05/19/the-nationalist-party-of-china-kmt-and-the-people-first-party-announce-plans-to-merge-after-a-unanimous-vote-by-the-kmt-central-standing.json)  [XML](/news/2004/05/19/the-nationalist-party-of-china-kmt-and-the-people-first-party-announce-plans-to-merge-after-a-unanimous-vote-by-the-kmt-central-standing.xml)  
+
 ### [2004-05-19](/news/2004/05/19/index.md)
 
+##### Kuomintang (Chinese Nationalist Party)
 #  The Nationalist Party of China (KMT) and the People First Party announce plans to merge after a unanimous vote by the KMT Central Standing Committee. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/3727439.stm)
 

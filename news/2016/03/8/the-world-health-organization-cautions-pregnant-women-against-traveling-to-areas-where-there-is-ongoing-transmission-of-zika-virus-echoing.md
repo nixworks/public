@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/8/the-world-health-organization-cautions-pregnant-
 
 ### [2016-03-8](/news/2016/03/8/index.md)
 
+##### Zika virus outbreak (2015-present)
 # The World Health Organization cautions pregnant women against traveling to areas where there is ongoing transmission of Zika virus, echoing earlier alerts from the U.S. Centers for Disease Control and Prevention, and other health agencies in areas where virus infection has been prevalent. Director General Margaret Chan says evidence strongly suggests sexual transmission is more common than previously assumed. 
 
 

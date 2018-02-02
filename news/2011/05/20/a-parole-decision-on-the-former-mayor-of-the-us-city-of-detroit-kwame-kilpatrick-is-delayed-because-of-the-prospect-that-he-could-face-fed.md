@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/20/a-parole-decision-on-the-former-mayor-of-the-us-city-of-detroit-kwame-kilpatrick-is-delayed-because-of-the-prospect-that-he-could-face-fed.html)  [JSON](/news/2011/05/20/a-parole-decision-on-the-former-mayor-of-the-us-city-of-detroit-kwame-kilpatrick-is-delayed-because-of-the-prospect-that-he-could-face-fed.json)  [XML](/news/2011/05/20/a-parole-decision-on-the-former-mayor-of-the-us-city-of-detroit-kwame-kilpatrick-is-delayed-because-of-the-prospect-that-he-could-face-fed.xml)  
+
 ### [2011-05-20](/news/2011/05/20/index.md)
 
+##### parole
 # A parole decision on the former Mayor of the US city of Detroit, Kwame Kilpatrick, is delayed because of the prospect that he could face federal government corruption charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ClickonDetroit](http://www.clickondetroit.com/news/27967591/detail.html)
 

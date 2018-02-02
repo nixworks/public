@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/01/25/iraq-war-prime-minister-nouri-al-maliki-claims-al-qaeda-in-iraq-has-been-pushed-out-of-most-of-the-nation-and-iraqi-security-forces-are-p.html)  [JSON](/news/2008/01/25/iraq-war-prime-minister-nouri-al-maliki-claims-al-qaeda-in-iraq-has-been-pushed-out-of-most-of-the-nation-and-iraqi-security-forces-are-p.json)  [XML](/news/2008/01/25/iraq-war-prime-minister-nouri-al-maliki-claims-al-qaeda-in-iraq-has-been-pushed-out-of-most-of-the-nation-and-iraqi-security-forces-are-p.xml)  
+
 ### [2008-01-25](/news/2008/01/25/index.md)
 
+##### Iraq War
 #  Iraq War: Prime Minister Nouri al-Maliki claims al-Qaeda in Iraq has been pushed out of most of the nation, and Iraqi security forces are preparing a "decisive" offensive against the group in Mosul, their last stronghold, in response to attacks in the city that have killed around 40 people, including the area's police chief. 
 
 Iraqi security forces have begun a &quot;decisive&quot; final offensive against al Qaeda in Iraq to push the Sunni Islamist militants out of their last major stronghold in the north, Prime Minister Nuri al-Maliki said on Friday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSL1880448320080125?feedType=RSS&feedName=topNews&rpc=22&sp=true)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080125&t=2&i=2910280&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-01-25T113959Z_01_L18804483_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSL1880448320080125?feedType=RSS&feedName=topNews&rpc=22&sp=true)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20080125&t=2&i=2910280&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-01-25T113959Z_01_L18804483_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/7/gunmen-open-fire-on-tourists-at-a-hotel-close-to
 
 ### [2016-01-7](/news/2016/01/7/index.md)
 
+##### Terrorism in Egypt
 # Gunmen open fire on tourists at a hotel close to the Giza pyramids. There were no casualties in the attack, which caused some damage to the hotel, and the attackers were arrested shortly afterwards. 
 
 Two masked gunmen opened fire at a hotel to the pyramids in Cairo as tourists boarded a coach outside, Egyptian security sources say.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/29/with-about-25-percent-of-the-votes-counted-the-
 
 ### [2016-10-29](/news/2016/10/29/index.md)
 
+##### Icelandic parliamentary election, 2016
 #  With about 25 percent of the votes counted, the Independence Party is receiving about 30 percent of the ballots cast. The Pirate Party, which led in most of this month's polls, is getting about 13 percent. 
 
 REYKJAVIK, Iceland (AP) — Iceland looked likely to steer away from a Pirate takeover Sunday, as voters favored the incumbent Independence Party over the upstart band of buccaneers advocating direct democracy and Internet…

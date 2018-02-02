@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/9/19-year-old-french-sprinter-christophe-lemaitre-sets-a-national-record-of-9-98-seconds-and-becomes-the-first-genetic-european-to-run-100-met.html)  [JSON](/news/2010/07/9/19-year-old-french-sprinter-christophe-lemaitre-sets-a-national-record-of-9-98-seconds-and-becomes-the-first-genetic-european-to-run-100-met.json)  [XML](/news/2010/07/9/19-year-old-french-sprinter-christophe-lemaitre-sets-a-national-record-of-9-98-seconds-and-becomes-the-first-genetic-european-to-run-100-met.xml)  
+
 ### [2010-07-9](/news/2010/07/9/index.md)
 
+##### Christophe Lemaitre
 # 19-year-old French sprinter Christophe Lemaitre sets a national record of 9.98 seconds and becomes the first genetic European to run 100 metres in less than 10 seconds. 
 
 A&#x20;19-year-old&#x20;French&#x20;sprinter,&#x20;Christophe&#x20;Lemaitre,&#x20;has&#x20;become&#x20;the&#x20;first&#x20;European&#x20;who&#x20;is&#x20;not&#x20;of&#x20;African&#x20;descent&#x20;to&#x20;run&#x20;100&#x20;metres&#x20;in&#x20;less&#x20;than&#x20;10&#x20;seconds,&#x20;covering&#x20;the&#x20;distance&#x20;in&#x20;just&#x20;9.98&#x20;seconds.
 
 
-### Source:
+### Sources:
 
 1. [France24](http://www.france24.com/en/20100709-valence-france-christophe-lemaitre-100-metre-dash-under-ten-seconds)
 1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/lemaitre-m.jpg)

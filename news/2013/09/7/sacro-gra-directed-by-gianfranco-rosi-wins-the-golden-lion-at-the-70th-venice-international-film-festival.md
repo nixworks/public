@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/7/sacro-gra-directed-by-gianfranco-rosi-wins-the-golden-lion-at-the-70th-venice-international-film-festival.html)  [JSON](/news/2013/09/7/sacro-gra-directed-by-gianfranco-rosi-wins-the-golden-lion-at-the-70th-venice-international-film-festival.json)  [XML](/news/2013/09/7/sacro-gra-directed-by-gianfranco-rosi-wins-the-golden-lion-at-the-70th-venice-international-film-festival.xml)  
+
 ### [2013-09-7](/news/2013/09/7/index.md)
 
+##### Sacro GRA
 # "Sacro GRA", directed by Gianfranco Rosi, wins the Golden Lion at the 70th Venice International Film Festival. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [France 24](http://www.france24.com/en/breaking/20130907-sacro-gra-wins-golden-lion-venice-film-festival?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20130907_2223&ns_linkname=20130907_breaking_news&ns_fee=0&f24_member_id=1080960490882)
 

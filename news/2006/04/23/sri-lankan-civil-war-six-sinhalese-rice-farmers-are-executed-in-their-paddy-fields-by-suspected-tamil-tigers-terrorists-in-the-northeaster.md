@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/23/sri-lankan-civil-war-six-sinhalese-rice-farmers-are-executed-in-their-paddy-fields-by-suspected-tamil-tigers-terrorists-in-the-northeaster.html)  [JSON](/news/2006/04/23/sri-lankan-civil-war-six-sinhalese-rice-farmers-are-executed-in-their-paddy-fields-by-suspected-tamil-tigers-terrorists-in-the-northeaster.json)  [XML](/news/2006/04/23/sri-lankan-civil-war-six-sinhalese-rice-farmers-are-executed-in-their-paddy-fields-by-suspected-tamil-tigers-terrorists-in-the-northeaster.xml)  
+
 ### [2006-04-23](/news/2006/04/23/index.md)
 
+##### Sri Lankan Civil War
 #  Sri Lankan Civil War: six Sinhalese rice farmers are executed in their paddy fields by suspected Tamil Tigers terrorists in the northeastern Trincomalee district. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AlertNet](http://www.alertnet.org/thenews/newsdesk/COL157189.htm)
 

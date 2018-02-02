@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/1/israeli-foreign-affairs-minister-avigdor-lieberman-says-that-the-annapolis-conference-has-no-validity.html)  [JSON](/news/2009/04/1/israeli-foreign-affairs-minister-avigdor-lieberman-says-that-the-annapolis-conference-has-no-validity.json)  [XML](/news/2009/04/1/israeli-foreign-affairs-minister-avigdor-lieberman-says-that-the-annapolis-conference-has-no-validity.xml)  
+
 ### [2009-04-1](/news/2009/04/1/index.md)
 
+##### Israel
 #  Israeli Foreign Affairs Minister Avigdor Lieberman says that the Annapolis Conference "has no validity." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/7977002.stm)
 

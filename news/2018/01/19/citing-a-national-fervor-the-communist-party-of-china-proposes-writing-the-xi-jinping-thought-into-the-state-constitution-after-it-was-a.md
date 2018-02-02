@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/19/citing-a-national-fervor-the-communist-party-of
 
 ### [2018-01-19](/news/2018/01/19/index.md)
 
+##### Politics of China
 # Citing a national "fervor", the Communist Party of China proposes writing the Xi Jinping Thought into the state constitution, after it was already added to the party constitution. 
 
 

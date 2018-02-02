@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/11/boise-state-university-will-leave-the-western-athletic-conference-to-join-the-mountain-west-conference.html)  [JSON](/news/2010/06/11/boise-state-university-will-leave-the-western-athletic-conference-to-join-the-mountain-west-conference.json)  [XML](/news/2010/06/11/boise-state-university-will-leave-the-western-athletic-conference-to-join-the-mountain-west-conference.xml)  
+
 ### [2010-06-11](/news/2010/06/11/index.md)
 
+##### Boise State University
 # Boise State University will leave the Western Athletic Conference to join the Mountain West Conference. 
 
 Boise State was announced as the next member of the Mountain West Conference on Friday.
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://sports.espn.go.com/ncaa/news/story?id=5276064)
 2. [ESPN](http://sports.espn.go.com/ncaa/news/story?id=5276551)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/2/samantha-power-is-sworn-in-as-the-new-united-states-ambassador-to-the-united-nations-by-vice-president-joe-biden.html)  [JSON](/news/2013/08/2/samantha-power-is-sworn-in-as-the-new-united-states-ambassador-to-the-united-nations-by-vice-president-joe-biden.json)  [XML](/news/2013/08/2/samantha-power-is-sworn-in-as-the-new-united-states-ambassador-to-the-united-nations-by-vice-president-joe-biden.xml)  
+
 ### [2013-08-2](/news/2013/08/2/index.md)
 
+##### Samantha Power
 # Samantha Power is sworn in as the new United States Ambassador to the United Nations by Vice President Joe Biden. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://online.wsj.com/article/AP594e72166a244ba3a5fc8eea8aebad03.html)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2010/10/15/18-year-old-andrew-conley-is-sentenced-to-life-imprisonment-without-the-possibility-of-parole-in-ohio-usa.html)  [JSON](/news/2010/10/15/18-year-old-andrew-conley-is-sentenced-to-life-imprisonment-without-the-possibility-of-parole-in-ohio-usa.json)  [XML](/news/2010/10/15/18-year-old-andrew-conley-is-sentenced-to-life-imprisonment-without-the-possibility-of-parole-in-ohio-usa.xml)  
+
 ### [2010-10-15](/news/2010/10/15/index.md)
 
+##### Andrew Conley
 # 18-year-old Andrew Conley is sentenced to life imprisonment without the possibility of parole in Ohio, USA.
 
 

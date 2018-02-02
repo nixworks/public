@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/13/philip-ruddock-the-attorney-general-of-australia-appoints-federal-court-judge-susan-kiefel-to-the-high-court-of-australia.html)  [JSON](/news/2007/08/13/philip-ruddock-the-attorney-general-of-australia-appoints-federal-court-judge-susan-kiefel-to-the-high-court-of-australia.json)  [XML](/news/2007/08/13/philip-ruddock-the-attorney-general-of-australia-appoints-federal-court-judge-susan-kiefel-to-the-high-court-of-australia.xml)  
+
 ### [2007-08-13](/news/2007/08/13/index.md)
 
+##### Philip Ruddock
 #  Philip Ruddock, the Attorney-General of Australia, appoints Federal Court judge Susan Kiefel to the High Court of Australia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/news/national/ruddock-names-new-high-court-judge/2007/08/13/1186857421228.html?s_cid=rss_news)
 

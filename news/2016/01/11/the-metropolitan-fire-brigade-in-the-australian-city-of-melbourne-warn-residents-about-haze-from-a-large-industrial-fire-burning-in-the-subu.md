@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/11/the-metropolitan-fire-brigade-in-the-australian
 
 ### [2016-01-11](/news/2016/01/11/index.md)
 
+##### Metropolitan Fire Brigade
 # The Metropolitan Fire Brigade in the Australian city of Melbourne warn residents about haze from a large industrial fire burning in the suburb of Broadmeadows. 
 
 Firefighters are battling to control a tyre fire at an industrial premises in Broadmeadows in Melbourne&#039;s north on Monday morning.

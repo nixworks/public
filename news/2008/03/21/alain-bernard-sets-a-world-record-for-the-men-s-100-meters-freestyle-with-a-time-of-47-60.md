@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/21/alain-bernard-sets-a-world-record-for-the-men-s-100-meters-freestyle-with-a-time-of-47-60.html)  [JSON](/news/2008/03/21/alain-bernard-sets-a-world-record-for-the-men-s-100-meters-freestyle-with-a-time-of-47-60.json)  [XML](/news/2008/03/21/alain-bernard-sets-a-world-record-for-the-men-s-100-meters-freestyle-with-a-time-of-47-60.xml)  
+
 ### [2008-03-21](/news/2008/03/21/index.md)
 
+##### Alain Bernard
 #  Alain Bernard sets a world record for the men's 100 meters freestyle with a time of 47" 60. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/SPORT/03/21/swim.bernard/)
 

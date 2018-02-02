@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/12/28/massive-sunni-led-demonstrations-erupt-across-iraq-demanding-the-resignation-of-prime-minister-nouri-al-maliki.html)  [JSON](/news/2012/12/28/massive-sunni-led-demonstrations-erupt-across-iraq-demanding-the-resignation-of-prime-minister-nouri-al-maliki.json)  [XML](/news/2012/12/28/massive-sunni-led-demonstrations-erupt-across-iraq-demanding-the-resignation-of-prime-minister-nouri-al-maliki.xml)  
+
 ### [2012-12-28](/news/2012/12/28/index.md)
 
+##### Sunni Muslim
 # Massive Sunni-led demonstrations erupt across Iraq demanding the resignation of Prime Minister Nouri al-Maliki. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Star](http://www.thestar.com/news/world/article/1307959--iraq-sunnis-pour-into-streets-in-show-of-force-against-prime-minister)
+1. [The Star](https://www.thestar.com/news/world/article/1307959--iraq-sunnis-pour-into-streets-in-show-of-force-against-prime-minister)
 
 ### Related:
 

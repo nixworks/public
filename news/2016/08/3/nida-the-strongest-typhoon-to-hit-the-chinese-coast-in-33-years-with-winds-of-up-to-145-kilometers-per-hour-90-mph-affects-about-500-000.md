@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/3/nida-the-strongest-typhoon-to-hit-the-chinese-co
 
 ### [2016-08-3](/news/2016/08/3/index.md)
 
+##### 2016 Pacific typhoon season
 # Nida, the strongest typhoon to hit the Chinese coast in 33 years with winds of up to 145 kilometers per hour (90 mph), affects about 500,000 people; led to the cancellation of over 180 flights at the Hong Kong International Airport; caused 2,100 people to need emergency living assistance; destroyed over 300 houses; and, damaged about 2,400 houses and 19,600 hectares (48,433 acres) of crops. 
 
 China says on Wednesday that about 4.95 lakh people were affected by Typhoon Nida, the strongest to have hit the Chinese coast in 33 years. About 4.95 lakh people were affected by....

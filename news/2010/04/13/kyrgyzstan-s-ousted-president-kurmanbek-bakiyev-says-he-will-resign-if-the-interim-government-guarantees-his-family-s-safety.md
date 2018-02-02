@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/13/kyrgyzstan-s-ousted-president-kurmanbek-bakiyev-says-he-will-resign-if-the-interim-government-guarantees-his-family-s-safety.html)  [JSON](/news/2010/04/13/kyrgyzstan-s-ousted-president-kurmanbek-bakiyev-says-he-will-resign-if-the-interim-government-guarantees-his-family-s-safety.json)  [XML](/news/2010/04/13/kyrgyzstan-s-ousted-president-kurmanbek-bakiyev-says-he-will-resign-if-the-interim-government-guarantees-his-family-s-safety.xml)  
+
 ### [2010-04-13](/news/2010/04/13/index.md)
 
+##### Kyrgyzstan
 # Kyrgyzstan's ousted president Kurmanbek Bakiyev says he will resign if the interim government guarantees his family's safety. 
 
 Kyrgyzstan&#039;s ousted president Kurmanbek Bakiyev has said he will resign if the interim government guarantees his family&#039;s safety.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/201041310429483622.html)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/kyrgyzstan/7586056/Ousted-Kyrgyz-President-Bakiyev-ready-to-quit.html)

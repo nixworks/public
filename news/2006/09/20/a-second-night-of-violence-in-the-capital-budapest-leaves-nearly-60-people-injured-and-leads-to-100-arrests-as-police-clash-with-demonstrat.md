@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2006/09/20/a-second-night-of-violence-in-the-capital-budapest-leaves-nearly-60-people-injured-and-leads-to-100-arrests-as-police-clash-with-demonstrat.html)  [JSON](/news/2006/09/20/a-second-night-of-violence-in-the-capital-budapest-leaves-nearly-60-people-injured-and-leads-to-100-arrests-as-police-clash-with-demonstrat.json)  [XML](/news/2006/09/20/a-second-night-of-violence-in-the-capital-budapest-leaves-nearly-60-people-injured-and-leads-to-100-arrests-as-police-clash-with-demonstrat.xml)  
+
 ### [2006-09-20](/news/2006/09/20/index.md)
 
+##### Budapest
 #  A second night of violence in the capital Budapest leaves nearly 60 people injured and leads to 100 arrests as police clash with demonstrators seeking the resignation of Prime Minister Ferenc Gyurcsny. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-09-20T090502Z_01_L18648256_RTRUKOC_0_US-HUNGARY.xml&WTmodLoc=Home-C2-TopNews-newsOne-5)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [ 2006 protests in Hungary: A second night of violence in the capital Budapest leaves nearly 60 people injured and leads to 100 arrests as police clash with demonstrators seeking the resignation of Prime Minister Ferenc Gyurcsny. ](/news/2006/09/20/2006-protests-in-hungary-p-a-second-night-of-violence-in-the-capital-budapest-leaves-nearly-60-people-injured-and-leads-to-100-arrests-as-p.md) _2017-08-25 03:18:27 (First version)_
+2. [ 2006 protests in Hungary:: A second night of violence in the capital Budapest leaves nearly 60 people injured and leads to 100 arrests as police clash with demonstrators seeking the resignation of Prime Minister Ferenc Gyurcsny. ](/news/2006/09/20/2006-protests-in-hungary-a-second-night-of-violence-in-the-capital-budapest-leaves-nearly-60-people-injured-and-leads-to-100-arrests-as-p.md) _2017-08-27 03:18:21 (Update)_
+2. [ A second night of violence in the capital Budapest leaves nearly 60 people injured and leads to 100 arrests as police clash with demonstrators seeking the resignation of Prime Minister Ferenc Gyurcsny. ](/news/2006/09/20/a-second-night-of-violence-in-the-capital-budapest-leaves-nearly-60-people-injured-and-leads-to-100-arrests-as-police-clash-with-demonstrat.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 3. [British police suspend sharing intelligence with the United States in connection with Monday's Manchester bombing attack for most of the day, after U.S. officials allegedly leak "sensitive information" to "The New York Times". British Prime Minister Theresa May emphasized the sensitive nature of said information when she met with U.S. President Donald Trump during their meeting at the NATO summit in Brussels. Trump calls for an investigation into the leaks. ](/news/2017/05/25/british-police-suspend-sharing-intelligence-with-the-united-states-in-connection-with-monday-s-manchester-bombing-attack-for-most-of-the-day.md) _Context: Prime Minister_
 4. [The Momentum Movement holds a pro-EU, anti-Russia march attended by approximately 10,000 in Budapest, Hungary, chanting "Europe, not Moscow" in support of the EU and against Prime Minister Viktor Orban. ](/news/2017/05/1/the-momentum-movement-holds-a-pro-eu-anti-russia-march-attended-by-approximately-10-000-in-budapest-hungary-chanting-aeurope-not-mosco.md) _Context: Budapest_
 5. [A terror bombing occurs in Budapest, Hungary, with two injuries reported. ](/news/2016/09/24/a-terror-bombing-occurs-in-budapest-hungary-with-two-injuries-reported.md) _Context: Budapest_
-
-### Changes:
-
-1. [ 2006 protests in Hungary: A second night of violence in the capital Budapest leaves nearly 60 people injured and leads to 100 arrests as police clash with demonstrators seeking the resignation of Prime Minister Ferenc Gyurcsny. ](/news/2006/09/20/2006-protests-in-hungary-p-a-second-night-of-violence-in-the-capital-budapest-leaves-nearly-60-people-injured-and-leads-to-100-arrests-as-p.md) _2017-08-25 03:18:27 (First version)_
-2. [ 2006 protests in Hungary:: A second night of violence in the capital Budapest leaves nearly 60 people injured and leads to 100 arrests as police clash with demonstrators seeking the resignation of Prime Minister Ferenc Gyurcsny. ](/news/2006/09/20/2006-protests-in-hungary-a-second-night-of-violence-in-the-capital-budapest-leaves-nearly-60-people-injured-and-leads-to-100-arrests-as-p.md) _2017-08-27 03:18:21 (Update)_
-2. [ A second night of violence in the capital Budapest leaves nearly 60 people injured and leads to 100 arrests as police clash with demonstrators seeking the resignation of Prime Minister Ferenc Gyurcsny. ](/news/2006/09/20/a-second-night-of-violence-in-the-capital-budapest-leaves-nearly-60-people-injured-and-leads-to-100-arrests-as-police-clash-with-demonstrat.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/17/chilean-politician-pablo-longueira-withdraws-his-candidacy-for-the-presidential-election-less-than-a-month-after-winning-the-primaries-of-t.html)  [JSON](/news/2013/07/17/chilean-politician-pablo-longueira-withdraws-his-candidacy-for-the-presidential-election-less-than-a-month-after-winning-the-primaries-of-t.json)  [XML](/news/2013/07/17/chilean-politician-pablo-longueira-withdraws-his-candidacy-for-the-presidential-election-less-than-a-month-after-winning-the-primaries-of-t.xml)  
+
 ### [2013-07-17](/news/2013/07/17/index.md)
 
+##### Pablo Longueira
 # Chilean politician Pablo Longueira withdraws his candidacy for the presidential election, less than a month after winning the primaries of the right-wing coalition. 
 
 Chilean conservative presidential candidate Pablo Longueira unexpectedly quit his campaign due to depression, his son said on Wednesday afternoon, dealing another blow to an already weakened right-wing bloc four months from the general election.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2013/07/17/uk-chile-politics-longueira-idUKBRE96G1BX20130717)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

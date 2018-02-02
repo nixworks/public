@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/18/burma-accuses-the-kachin-independence-army-of-starting-deadly-fighting-near-the-chinese-border.html)  [JSON](/news/2011/06/18/burma-accuses-the-kachin-independence-army-of-starting-deadly-fighting-near-the-chinese-border.json)  [XML](/news/2011/06/18/burma-accuses-the-kachin-independence-army-of-starting-deadly-fighting-near-the-chinese-border.xml)  
+
 ### [2011-06-18](/news/2011/06/18/index.md)
 
+##### Burma
 # Burma accuses the Kachin Independence Army of starting deadly fighting near the Chinese border. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jAQVDq-qs1VwRAJ8vD18ZAwREfWg?docId=CNG.8acba1b206bbac57a7e425ac22157b65.5f1)
 2. [Asian Correspondent](http://asiancorrespondent.com/57713/burma%E2%80%99s-state-run-media-blames-kachin-rebels%E2%80%99-defensive-war/)

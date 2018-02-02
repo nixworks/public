@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2011/01/30/southern-sudan-chooses-to-become-independent-of-sudan-with-over-99-voting-yes-in-the-referendum.html)  [JSON](/news/2011/01/30/southern-sudan-chooses-to-become-independent-of-sudan-with-over-99-voting-yes-in-the-referendum.json)  [XML](/news/2011/01/30/southern-sudan-chooses-to-become-independent-of-sudan-with-over-99-voting-yes-in-the-referendum.xml)  
+
 ### [2011-01-30](/news/2011/01/30/index.md)
 
+##### Southern Sudan
 # Southern Sudan chooses to become independent of Sudan with over 99% voting yes in the referendum. 
 
 South Sudan almost unanimously voted to declare independence from the north in a referendum, officials said on Sunday, sparking mass celebrations in the southern capital Juba.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/201113071928502841.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12317927)
-3. [Reuters](http://www.reuters.com/article/2011/01/30/us-sudan-referendum-idUSTRE70T0G820110130)
+3. [Reuters](https://www.reuters.com/article/2011/01/30/us-sudan-referendum-idUSTRE70T0G820110130)
 4. [The Guardian](http://www.guardian.co.uk/world/2011/jan/30/sudan-results-preliminary-support)
 5. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/30/c_13713652.htm)
-5. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110130&t=2&i=322726684&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-30T215028Z_01_BTRE70T164700_RTROPTP_0_SUDAN-PROTESTS-DEMONSTRATORS)
+5. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20110130&t=2&i=322726684&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-30T215028Z_01_BTRE70T164700_RTROPTP_0_SUDAN-PROTESTS-DEMONSTRATORS)
 
 ### Related:
 

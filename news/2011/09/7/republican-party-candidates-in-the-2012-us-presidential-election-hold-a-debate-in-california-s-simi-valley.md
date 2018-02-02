@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/7/republican-party-candidates-in-the-2012-us-presidential-election-hold-a-debate-in-california-s-simi-valley.html)  [JSON](/news/2011/09/7/republican-party-candidates-in-the-2012-us-presidential-election-hold-a-debate-in-california-s-simi-valley.json)  [XML](/news/2011/09/7/republican-party-candidates-in-the-2012-us-presidential-election-hold-a-debate-in-california-s-simi-valley.xml)  
+
 ### [2011-09-7](/news/2011/09/7/index.md)
 
+##### Republican
 # Republican Party candidates in the 2012 US presidential election hold a debate in California's Simi Valley. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_REPUBLICAN_DEBATE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/1/in-italy-a-court-sentences-laura-proietti-a-member-of-the-red-brigades-to-life-in-prison-for-involvement-in-the-murder-of-massimo-d-anto.html)  [JSON](/news/2005/03/1/in-italy-a-court-sentences-laura-proietti-a-member-of-the-red-brigades-to-life-in-prison-for-involvement-in-the-murder-of-massimo-d-anto.json)  [XML](/news/2005/03/1/in-italy-a-court-sentences-laura-proietti-a-member-of-the-red-brigades-to-life-in-prison-for-involvement-in-the-murder-of-massimo-d-anto.xml)  
+
 ### [2005-03-1](/news/2005/03/1/index.md)
 
+##### Laura Proietti
 #  In Italy, a court sentences Laura Proietti, a member of the Red Brigades, to life in prison for involvement in the murder of Massimo D'Antona in 1999. A second member, Cinzia Banelli, receives 20 years 
 
 Read the latest national and world news on Newsday. All the top stores, latest videos and photo galleries are available at Newsday.com
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4310025.stm)
 2. [Newsday](http://www.newsday.com/news/nationworld/world/wire/sns-ap-italy-red-brigades,0,2802470.story?coll=sns-ap-world-headlines)

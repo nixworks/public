@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/15/united-nations-afghanistan-envoy-voices-disdain-at-the-brutal-and-cold-blooded-murder-of-four-deminers-working-to-eradicate-landmines-i.html)  [JSON](/news/2004/02/15/united-nations-afghanistan-envoy-voices-disdain-at-the-brutal-and-cold-blooded-murder-of-four-deminers-working-to-eradicate-landmines-i.json)  [XML](/news/2004/02/15/united-nations-afghanistan-envoy-voices-disdain-at-the-brutal-and-cold-blooded-murder-of-four-deminers-working-to-eradicate-landmines-i.xml)  
+
 ### [2004-02-15](/news/2004/02/15/index.md)
 
+##### United Nations
 #  United Nations Afghanistan envoy voices disdain at the ""brutal and cold-blooded"" murder of four deminers working to eradicate landmines in Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [UN](http://www.un.org/apps/news/story.asp?NewsID=9775&Cr=Afghanistan&Cr1=)
 1. [Cover Image](/News/dh/photos/large/10-23afghan.gif)

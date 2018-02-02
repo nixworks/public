@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/29/scientists-at-vienna-s-institute-of-molecular-biotechnology-and-edinburgh-university-s-human-genetics-unit-in-edinburgh-scotland-clone-a-h.html)  [JSON](/news/2013/08/29/scientists-at-vienna-s-institute-of-molecular-biotechnology-and-edinburgh-university-s-human-genetics-unit-in-edinburgh-scotland-clone-a-h.json)  [XML](/news/2013/08/29/scientists-at-vienna-s-institute-of-molecular-biotechnology-and-edinburgh-university-s-human-genetics-unit-in-edinburgh-scotland-clone-a-h.xml)  
+
 ### [2013-08-29](/news/2013/08/29/index.md)
 
+##### Vienna
 # Scientists at Vienna's Institute of Molecular Biotechnology and Edinburgh University's Human Genetics Unit in Edinburgh, Scotland, clone a human mini-brain (a cerebral organoid), using stem cells; the first time brain tissue development has been replicated in three dimensions - which could help with schizophrenia and autism neurological research. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN](http://news.msn.com/science-technology/scientists-grow-mini-human-brains-from-stem-cells)
 

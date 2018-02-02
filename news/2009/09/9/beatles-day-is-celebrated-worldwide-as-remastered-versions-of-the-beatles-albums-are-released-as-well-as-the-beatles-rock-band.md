@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/9/beatles-day-is-celebrated-worldwide-as-remastered-versions-of-the-beatles-albums-are-released-as-well-as-the-beatles-rock-band.html)  [JSON](/news/2009/09/9/beatles-day-is-celebrated-worldwide-as-remastered-versions-of-the-beatles-albums-are-released-as-well-as-the-beatles-rock-band.json)  [XML](/news/2009/09/9/beatles-day-is-celebrated-worldwide-as-remastered-versions-of-the-beatles-albums-are-released-as-well-as-the-beatles-rock-band.xml)  
+
 ### [2009-09-9](/news/2009/09/9/index.md)
 
+##### The Beatles
 #  "Beatles Day" is celebrated worldwide as remastered versions of The Beatles' albums are released, as well as "The Beatles: Rock Band". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Newsday](http://www.newsday.com/news/world/beatlemania-back-as-britain-celebrates-b-day-1.1432598)
 1. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)

@@ -1,14 +1,19 @@
+
+Formats: [HTML](/news/2014/06/24/a-car-bombing-occurs-in-a-shiite-suburb-of-lebanon-s-capital-beirut-killing-the-bomber-and-injuring-five-other-people.html)  [JSON](/news/2014/06/24/a-car-bombing-occurs-in-a-shiite-suburb-of-lebanon-s-capital-beirut-killing-the-bomber-and-injuring-five-other-people.json)  [XML](/news/2014/06/24/a-car-bombing-occurs-in-a-shiite-suburb-of-lebanon-s-capital-beirut-killing-the-bomber-and-injuring-five-other-people.xml)  
+
 ### [2014-06-24](/news/2014/06/24/index.md)
 
+##### car bomb
 # A car bombing occurs in a Shiite suburb of Lebanon's capital Beirut killing the bomber and injuring five other people. 
 
+An official said at least five people had been wounded when a car bomb exploded near a cafe south of Beirut where people had gathered to watch World Cup matches.
 
 
-
-### Source:
+### Sources:
 
 1. [AFP via ''Global Post](http://www.globalpost.com/dispatch/news/afp/140623/explosion-beirut-suburb)
-2. [New York Times](http://www.nytimes.com/2014/06/24/world/middleeast/car-bomb-explodes-south-of-beirut.html)
+2. [New York Times](https://www.nytimes.com/2014/06/24/world/middleeast/car-bomb-explodes-south-of-beirut.html)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

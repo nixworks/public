@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/20/a-motorist-runs-over-pedestrians-at-the-las-vegas-strip-between-planet-hollywood-and-paris-las-vegas-killing-one-person-and-injuring-at-lea.html)  [JSON](/news/2015/12/20/a-motorist-runs-over-pedestrians-at-the-las-vegas-strip-between-planet-hollywood-and-paris-las-vegas-killing-one-person-and-injuring-at-lea.json)  [XML](/news/2015/12/20/a-motorist-runs-over-pedestrians-at-the-las-vegas-strip-between-planet-hollywood-and-paris-las-vegas-killing-one-person-and-injuring-at-lea.xml)  
+
 ### [2015-12-20](/news/2015/12/20/index.md)
 
+##### runs over pedestrians
 # A motorist runs over pedestrians at the Las Vegas Strip between Planet Hollywood and Paris Las Vegas, killing one person and injuring at least 26 more. 
 
 A woman with a toddler in her car intentionally rams into pedestrians on the Las Vegas Strip, killing one and injuring at least 26.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/2015-12-21/las-vegas-police-respond-to-accident-reports-dozens-injured/7045948)
 1. [Cover Image](http://www.abc.net.au/news/image/7046370-1x1-700x700.jpg)

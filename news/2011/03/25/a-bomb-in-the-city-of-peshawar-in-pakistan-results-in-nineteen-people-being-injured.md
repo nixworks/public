@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/25/a-bomb-in-the-city-of-peshawar-in-pakistan-results-in-nineteen-people-being-injured.html)  [JSON](/news/2011/03/25/a-bomb-in-the-city-of-peshawar-in-pakistan-results-in-nineteen-people-being-injured.json)  [XML](/news/2011/03/25/a-bomb-in-the-city-of-peshawar-in-pakistan-results-in-nineteen-people-being-injured.xml)  
+
 ### [2011-03-25](/news/2011/03/25/index.md)
 
+##### Peshawar
 # A bomb in the city of Peshawar in Pakistan results in nineteen people being injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [One Pakistan](http://www.onepakistan.com/news/top-stories/93043-nineteen-seriously-injured-in-peshawar-blast.html)
 

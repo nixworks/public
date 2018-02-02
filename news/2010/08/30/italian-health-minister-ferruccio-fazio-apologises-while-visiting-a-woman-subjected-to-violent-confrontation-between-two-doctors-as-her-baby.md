@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/08/30/italian-health-minister-ferruccio-fazio-apologises-while-visiting-a-woman-subjected-to-violent-confrontation-between-two-doctors-as-her-baby.html)  [JSON](/news/2010/08/30/italian-health-minister-ferruccio-fazio-apologises-while-visiting-a-woman-subjected-to-violent-confrontation-between-two-doctors-as-her-baby.json)  [XML](/news/2010/08/30/italian-health-minister-ferruccio-fazio-apologises-while-visiting-a-woman-subjected-to-violent-confrontation-between-two-doctors-as-her-baby.xml)  
+
 ### [2010-08-30](/news/2010/08/30/index.md)
 
+##### Italy
 # Italian health minister Ferruccio Fazio apologises while visiting a woman subjected to violent confrontation between two doctors as her baby was on the verge of being born at a hospital in Messina, Sicily. 
 
 Italy&#039;s health minister traveled to Sicily today to apologise to a new mother for an operating room fistfight between two doctors that led to her botched delivery.
 
 
-### Source:
+### Sources:
 
 1. [AP via CBC News](http://www.cbc.ca/health/story/2010/08/30/italy-doctors-baby.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11129608)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/travel/destinations/europe/italy/southernitalyandsicily/7971666/Italy-health-minister-apologises-to-new-mother-after-doctor-brawl.html)
-4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/08/30/AR2010083001447.html)
+4. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/08/30/AR2010083001447.html)
 4. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)
 
 ### Related:

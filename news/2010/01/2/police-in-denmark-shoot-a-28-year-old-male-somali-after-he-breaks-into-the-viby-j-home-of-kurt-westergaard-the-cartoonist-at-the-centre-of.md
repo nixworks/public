@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/2/police-in-denmark-shoot-a-28-year-old-male-somali-after-he-breaks-into-the-viby-j-home-of-kurt-westergaard-the-cartoonist-at-the-centre-of.html)  [JSON](/news/2010/01/2/police-in-denmark-shoot-a-28-year-old-male-somali-after-he-breaks-into-the-viby-j-home-of-kurt-westergaard-the-cartoonist-at-the-centre-of.json)  [XML](/news/2010/01/2/police-in-denmark-shoot-a-28-year-old-male-somali-after-he-breaks-into-the-viby-j-home-of-kurt-westergaard-the-cartoonist-at-the-centre-of.xml)  
+
 ### [2010-01-2](/news/2010/01/2/index.md)
 
+##### Denmark
 # Police in Denmark shoot a 28-year-old male Somali after he breaks into the Viby J home of Kurt Westergaard, the cartoonist at the centre of the Jyllands-Posten Muhammad cartoons controversy in 2005, and threatens his family with an axe. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8437433.stm)
 2. [Sky News](http://news.sky.com/skynews/Home/World-News/Danish-Police-Shoot-Man-At-House-Of-Cartoonist-Kurt-Westergaard-Who-Drew-Pictures-Of-Mohammed/Article/201001115513050?lpos=World_News_Top_Stories_Header_2&lid=ARTICLE_15513050_Danish_Police_Shoot_Man_At_House_Of_Cartoonist_Kurt_Westergaard_Who_Drew_Pictures_Of_Mohammed)

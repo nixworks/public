@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/15/in-westminster-cathedral-three-anglican-bishops-are-ordained-as-catholic-priests.html)  [JSON](/news/2011/01/15/in-westminster-cathedral-three-anglican-bishops-are-ordained-as-catholic-priests.json)  [XML](/news/2011/01/15/in-westminster-cathedral-three-anglican-bishops-are-ordained-as-catholic-priests.xml)  
+
 ### [2011-01-15](/news/2011/01/15/index.md)
 
+##### Westminster Cathedral
 # In Westminster Cathedral, three Anglican bishops are ordained as Catholic priests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2011/jan/15/anglican-bishops-ordained-catholic-priests)
 

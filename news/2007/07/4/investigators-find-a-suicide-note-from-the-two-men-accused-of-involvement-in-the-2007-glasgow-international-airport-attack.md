@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/4/investigators-find-a-suicide-note-from-the-two-men-accused-of-involvement-in-the-2007-glasgow-international-airport-attack.html)  [JSON](/news/2007/07/4/investigators-find-a-suicide-note-from-the-two-men-accused-of-involvement-in-the-2007-glasgow-international-airport-attack.json)  [XML](/news/2007/07/4/investigators-find-a-suicide-note-from-the-two-men-accused-of-involvement-in-the-2007-glasgow-international-airport-attack.xml)  
+
 ### [2007-07-4](/news/2007/07/4/index.md)
 
+##### suicide note
 #  Investigators find a suicide note from the two men accused of involvement in the 2007 Glasgow International Airport attack. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/europe/07/04/london.investigation/index.html)
 

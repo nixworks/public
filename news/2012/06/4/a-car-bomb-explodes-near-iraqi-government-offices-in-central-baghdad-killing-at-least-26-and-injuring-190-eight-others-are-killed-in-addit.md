@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/4/a-car-bomb-explodes-near-iraqi-government-offices-in-central-baghdad-killing-at-least-26-and-injuring-190-eight-others-are-killed-in-addit.html)  [JSON](/news/2012/06/4/a-car-bomb-explodes-near-iraqi-government-offices-in-central-baghdad-killing-at-least-26-and-injuring-190-eight-others-are-killed-in-addit.json)  [XML](/news/2012/06/4/a-car-bomb-explodes-near-iraqi-government-offices-in-central-baghdad-killing-at-least-26-and-injuring-190-eight-others-are-killed-in-addit.xml)  
+
 ### [2012-06-4](/news/2012/06/4/index.md)
 
+##### car bomb
 # A car bomb explodes near Iraqi government offices in central Baghdad, killing at least 26 and injuring 190. Eight others are killed in additional attacks across the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Brisbane Times](http://news.brisbanetimes.com.au/breaking-news-world/car-bomb-kills-13-in-baghdad-20120604-1zryg.html)
 2. [Antiwar](http://original.antiwar.com/updates/2012/06/04/blast-at-baghdad-shiite-office-kills-wounds-over-200/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/31/the-2012-bilderberg-conference-begins-in-chantilly-virginia.html)  [JSON](/news/2012/05/31/the-2012-bilderberg-conference-begins-in-chantilly-virginia.json)  [XML](/news/2012/05/31/the-2012-bilderberg-conference-begins-in-chantilly-virginia.xml)  
+
 ### [2012-05-31](/news/2012/05/31/index.md)
 
+##### Bilderberg Group
 # The 2012 Bilderberg Conference begins in Chantilly, Virginia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RT](http://rt.com/usa/news/bilderberg-event-conference-jones-717/)
 2. [The Guardian](http://www.guardian.co.uk/world/2012/may/30/bilderberg-2012-technocrats-are-rising)

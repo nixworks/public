@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/16/hundreds-of-restaurants-and-other-businesses-in
 
 ### [2017-02-16](/news/2017/02/16/index.md)
 
+##### U.S. immigration suspension
 # Hundreds of restaurants and other businesses in U.S. cities close their doors after activists called on immigrants to stay home from work, avoid shopping or eating out, and skip classes Thursday for #ADayWithoutImmigrants, to protest the President's immigration reforms and highlight the immigrant community's contributions to the United States. 
 
  Businesses shut their doors, students skipped class and thousands of demonstrators took to the streets in cities across the United States on Thursday to protes

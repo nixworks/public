@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2012/12/7/jacintha-saldanha-a-nurse-at-a-london-hospital-who-took-a-hoax-call-from-2day-fm-prankers-about-the-duchess-of-cambridge-is-found-dead-in.html)  [JSON](/news/2012/12/7/jacintha-saldanha-a-nurse-at-a-london-hospital-who-took-a-hoax-call-from-2day-fm-prankers-about-the-duchess-of-cambridge-is-found-dead-in.json)  [XML](/news/2012/12/7/jacintha-saldanha-a-nurse-at-a-london-hospital-who-took-a-hoax-call-from-2day-fm-prankers-about-the-duchess-of-cambridge-is-found-dead-in.xml)  
+
 ### [2012-12-7](/news/2012/12/7/index.md)
 
+##### Jacintha Saldanha
 # Jacintha Saldanha, a nurse at a London hospital, who took a hoax call from 2Day FM prankers about the Duchess of Cambridge, is found dead in a suspected suicide. 
 
 A nurse who was duped into transferring a prank call from two Australian radio presenters at the hospital treating the Duchess of Cambridge for severe morning sickness was found dead yesterday in a suspected suicide.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20645838)
 2. [Daily Mail](http://www.dailymail.co.uk/news/article-2244608/Jacintha-Saldanha-Familys-grief-suicide-nurse-transferred-DJs-hoax-Kate-Middleton-hospital-call.html)
-3. [The Independent](http://www.independent.co.uk/news/uk/home-news/nurse-jacintha-saldanha-who-took-a-prank-phone-call-at-duchess-of-cambridges-hospital-is-found-dead-in-suspected-suicide-8393289.html)
+3. [The Independent](https://www.independent.co.uk/news/uk/home-news/nurse-jacintha-saldanha-who-took-a-prank-phone-call-at-duchess-of-cambridges-hospital-is-found-dead-in-suspected-suicide-8393289.html)
 3. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/12/08/14/NurseREUTPA.jpg)
 
 ### Related:

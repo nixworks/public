@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/7/a-6-9-magnitude-earthquake-hits-southern-mexico-and-guatemala-causing-at-least-three-deaths.html)  [JSON](/news/2014/07/7/a-6-9-magnitude-earthquake-hits-southern-mexico-and-guatemala-causing-at-least-three-deaths.json)  [XML](/news/2014/07/7/a-6-9-magnitude-earthquake-hits-southern-mexico-and-guatemala-causing-at-least-three-deaths.xml)  
+
 ### [2014-07-7](/news/2014/07/7/index.md)
 
+##### 6.9 magnitude earthquake
 # A 6.9 magnitude earthquake hits southern Mexico and Guatemala, causing at least three deaths. 
 
 A strong earthquake rocked southern Mexico and Guatemala, killing at least four people and causing damage across the region.
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://online.wsj.com/articles/strong-quake-hits-mexico-and-guatemala-1404737897)
 1. [Cover Image](https://si.wsj.net/public/resources/images/BN-DO765_0707qu_G_20140707161727.jpg)

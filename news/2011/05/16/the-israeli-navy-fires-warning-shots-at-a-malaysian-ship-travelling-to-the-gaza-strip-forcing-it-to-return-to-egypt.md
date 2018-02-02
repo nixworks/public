@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/16/the-israeli-navy-fires-warning-shots-at-a-malaysian-ship-travelling-to-the-gaza-strip-forcing-it-to-return-to-egypt.html)  [JSON](/news/2011/05/16/the-israeli-navy-fires-warning-shots-at-a-malaysian-ship-travelling-to-the-gaza-strip-forcing-it-to-return-to-egypt.json)  [XML](/news/2011/05/16/the-israeli-navy-fires-warning-shots-at-a-malaysian-ship-travelling-to-the-gaza-strip-forcing-it-to-return-to-egypt.xml)  
+
 ### [2011-05-16](/news/2011/05/16/index.md)
 
+##### Israeli Navy
 # The Israeli Navy fires warning shots at a Malaysian ship travelling to the Gaza Strip, forcing it to return to Egypt. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5jMxz7Pz0Q-2aQVPr4GxyI4koZlIg?docId=CNG.9e1e52d9d3d6972fd546da3bb159cbc6.ad1)
 

@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2008/06/26/the-internet-corporation-for-assigned-names-and-numbers-icann-relaxes-rules-on-the-creation-of-top-level-domain-names-like-com-or-edu.html)  [JSON](/news/2008/06/26/the-internet-corporation-for-assigned-names-and-numbers-icann-relaxes-rules-on-the-creation-of-top-level-domain-names-like-com-or-edu.json)  [XML](/news/2008/06/26/the-internet-corporation-for-assigned-names-and-numbers-icann-relaxes-rules-on-the-creation-of-top-level-domain-names-like-com-or-edu.xml)  
+
 ### [2008-06-26](/news/2008/06/26/index.md)
 
+##### Internet Corporation for Assigned Names and Numbers
 #  The Internet Corporation for Assigned Names and Numbers (Icann) relaxes rules on the creation of top-level domain names like .com or .edu, which could pave the way for companies or individuals to create an array of new addresses for the Web. Icann also approves measures that will allow top-level domain names to be written in scripts such as Arabic or Cyrillic. 
 
 Internet regulators on Thursday voted to relax rules on domain names like .com or .edu, which could pave the way for companies or individuals to create an array of new addresses for the Web.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/TECH/06/26/domain.names/)
-2. [Reuters](http://www.reuters.com/article/technologyNews/idUSN2635186520080626)
+2. [Reuters](https://www.reuters.com/article/technologyNews/idUSN2635186520080626)
 3. [The Wall Street Journal](http://online.wsj.com/article/SB121449700084907489.html)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/22/millions-of-people-in-the-mid-atlantic-states-b
 
 ### [2016-01-22](/news/2016/01/22/index.md)
 
+##### January 2016 United States blizzard
 # Millions of people in the Mid-Atlantic states brace for a winter storm. 
 
 A massive blizzard bringing more than 2ft (60cm) of snow and punishing winds is moving up the US East Coast, with 50 million people in its path.

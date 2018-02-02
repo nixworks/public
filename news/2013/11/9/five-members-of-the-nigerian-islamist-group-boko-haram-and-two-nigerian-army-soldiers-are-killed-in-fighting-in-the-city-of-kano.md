@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2013/11/9/five-members-of-the-nigerian-islamist-group-boko-haram-and-two-nigerian-army-soldiers-are-killed-in-fighting-in-the-city-of-kano.html)  [JSON](/news/2013/11/9/five-members-of-the-nigerian-islamist-group-boko-haram-and-two-nigerian-army-soldiers-are-killed-in-fighting-in-the-city-of-kano.json)  [XML](/news/2013/11/9/five-members-of-the-nigerian-islamist-group-boko-haram-and-two-nigerian-army-soldiers-are-killed-in-fighting-in-the-city-of-kano.xml)  
+
 ### [2013-11-9](/news/2013/11/9/index.md)
 
+##### Nigeria
 # Five members of the Nigerian Islamist group Boko Haram and two Nigerian Army soldiers are killed in fighting in the city of Kano. 
 
 Five members of theNigerian Islamist sect Boko Haram and two soldiers were killedin gun battles in Kano on Saturday, the army said, the firstviolence in months linked to insurgents in the largest northerncity.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/2013/11/09/nigeria-bokoharam-idINL5N0IU0BS20131109)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [Islamist insurgency in Nigeria:Five members of the Nigerian Islamist group Boko Haram and two Nigerian Army soldiers are killed in fighting in the city of Kano. ](/news/2013/11/9/islamist-insurgency-in-nigeria-pfive-members-of-the-nigerian-islamist-group-boko-haram-and-two-nigerian-army-soldiers-are-killed-in-fighting.md) _2017-08-25 03:39:30 (First version)_
+2. [Islamist insurgency in Nigeria:: Five members of the Nigerian Islamist group Boko Haram and two Nigerian Army soldiers are killed in fighting in the city of Kano. ](/news/2013/11/9/islamist-insurgency-in-nigeria-five-members-of-the-nigerian-islamist-group-boko-haram-and-two-nigerian-army-soldiers-are-killed-in-fightin.md) _2017-08-27 03:39:48 (Update)_
+2. [Five members of the Nigerian Islamist group Boko Haram and two Nigerian Army soldiers are killed in fighting in the city of Kano. ](/news/2013/11/9/five-members-of-the-nigerian-islamist-group-boko-haram-and-two-nigerian-army-soldiers-are-killed-in-fighting-in-the-city-of-kano.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@ Five members of theNigerian Islamist sect Boko Haram and two soldiers were kille
 3. [Forces from Niger and Chad launch a ground and air offensive against Boko Haram Islamist militants in northeastern Nigeria. ](/news/2015/03/8/forces-from-niger-and-chad-launch-a-ground-and-air-offensive-against-boko-haram-islamist-militants-in-northeastern-nigeria.md) _Context: Boko Haram, Islamist, Nigeria_
 4. [The Nigerian Army claims to have killed 300 militants in northeastern Nigeria. ](/news/2015/02/18/the-nigerian-army-claims-to-have-killed-300-militants-in-northeastern-nigeria.md) _Context: Boko Haram, Nigeria, Nigerian Army_
 5. [At least 13 people are dead and 34 injured after Boko Haram gunmen attack a government college in the northern Nigerian city of Kano. ](/news/2014/09/17/at-least-13-people-are-dead-and-34-injured-after-boko-haram-gunmen-attack-a-government-college-in-the-northern-nigerian-city-of-kano.md) _Context: Boko Haram, Kano, Nigeria_
-
-### Changes:
-
-1. [Islamist insurgency in Nigeria:Five members of the Nigerian Islamist group Boko Haram and two Nigerian Army soldiers are killed in fighting in the city of Kano. ](/news/2013/11/9/islamist-insurgency-in-nigeria-pfive-members-of-the-nigerian-islamist-group-boko-haram-and-two-nigerian-army-soldiers-are-killed-in-fighting.md) _2017-08-25 03:39:30 (First version)_
-2. [Islamist insurgency in Nigeria:: Five members of the Nigerian Islamist group Boko Haram and two Nigerian Army soldiers are killed in fighting in the city of Kano. ](/news/2013/11/9/islamist-insurgency-in-nigeria-five-members-of-the-nigerian-islamist-group-boko-haram-and-two-nigerian-army-soldiers-are-killed-in-fightin.md) _2017-08-27 03:39:48 (Update)_
-2. [Five members of the Nigerian Islamist group Boko Haram and two Nigerian Army soldiers are killed in fighting in the city of Kano. ](/news/2013/11/9/five-members-of-the-nigerian-islamist-group-boko-haram-and-two-nigerian-army-soldiers-are-killed-in-fighting-in-the-city-of-kano.md) _(Current version)_

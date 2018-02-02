@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/24/italian-mario-draghi-is-appointed-as-the-next-president-of-the-european-central-bank-replacing-jean-claude-trichet-on-november-1.html)  [JSON](/news/2011/06/24/italian-mario-draghi-is-appointed-as-the-next-president-of-the-european-central-bank-replacing-jean-claude-trichet-on-november-1.json)  [XML](/news/2011/06/24/italian-mario-draghi-is-appointed-as-the-next-president-of-the-european-central-bank-replacing-jean-claude-trichet-on-november-1.xml)  
+
 ### [2011-06-24](/news/2011/06/24/index.md)
 
+##### Italian
 # Italian Mario Draghi is appointed as the next President of the European Central Bank, replacing Jean-Claude Trichet on November 1. 
 
 EU&#x20;leaders&#x20;appointed&#x20;Italy&#x27;s&#x20;Mario&#x20;Draghi&#x20;&#x28;pictured&#x29;&#x20;as&#x20;the&#x20;next&#x20;president&#x20;of&#x20;the&#x20;European&#x20;Central&#x20;Bank&#x20;at&#x20;a&#x20;Brussels&#x20;summit&#x20;on&#x20;Friday.&#x20;Draghi&#x20;will&#x20;succeed&#x20;France&#x2019;s&#x20;Jean-Claude&#x20;Trichet&#x20;on&#x20;Nov&#x20;1.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via France 24](http://www.france24.com/en/20110624-ecb-eurozone-mario-draghi-president-trichet-economy-europe-italy)
 1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/draghi-m.jpg)

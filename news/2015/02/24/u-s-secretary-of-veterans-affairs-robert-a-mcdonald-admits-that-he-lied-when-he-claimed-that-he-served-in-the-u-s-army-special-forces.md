@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/24/u-s-secretary-of-veterans-affairs-robert-a-mcdonald-admits-that-he-lied-when-he-claimed-that-he-served-in-the-u-s-army-special-forces.html)  [JSON](/news/2015/02/24/u-s-secretary-of-veterans-affairs-robert-a-mcdonald-admits-that-he-lied-when-he-claimed-that-he-served-in-the-u-s-army-special-forces.json)  [XML](/news/2015/02/24/u-s-secretary-of-veterans-affairs-robert-a-mcdonald-admits-that-he-lied-when-he-claimed-that-he-served-in-the-u-s-army-special-forces.xml)  
+
 ### [2015-02-24](/news/2015/02/24/index.md)
 
+##### U.S. Secretary of Veterans Affairs
 # U.S. Secretary of Veterans Affairs Robert A. McDonald admits that he lied when he claimed that he served in the U.S. Army Special Forces. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/b5ab639fdcea4925a5293ff186f220fd/key-lawmaker-vets-group-leader-disappointed-va-secretary)
 

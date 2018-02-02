@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/20/three-individuals-in-the-united-states-are-arrested-and-charged-with-supporting-the-palestinian-militant-group-hamas-over-a-15-year-period.html)  [JSON](/news/2004/08/20/three-individuals-in-the-united-states-are-arrested-and-charged-with-supporting-the-palestinian-militant-group-hamas-over-a-15-year-period.json)  [XML](/news/2004/08/20/three-individuals-in-the-united-states-are-arrested-and-charged-with-supporting-the-palestinian-militant-group-hamas-over-a-15-year-period.xml)  
+
 ### [2004-08-20](/news/2004/08/20/index.md)
 
+##### Palestinian
 #  Three individuals in the United States are arrested and charged with supporting the Palestinian militant group Hamas over a 15-year period. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Washington Times](http://washingtontimes.com/national/20040820-113158-5933r.htm)
 

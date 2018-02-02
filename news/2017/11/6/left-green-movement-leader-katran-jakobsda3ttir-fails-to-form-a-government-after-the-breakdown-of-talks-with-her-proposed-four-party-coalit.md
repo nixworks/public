@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/6/left-green-movement-leader-katran-jakobsda3ttir-
 
 ### [2017-11-6](/news/2017/11/6/index.md)
 
+##### Icelandic parliamentary election, 2017
 # Left-Green Movement leader Katrin Jakobsdottir fails to form a government after the breakdown of talks with her proposed four-party coalition. 
 
 Four parties had been in discussions over forming only the country&#039;s second left-led government in more than 70 years.

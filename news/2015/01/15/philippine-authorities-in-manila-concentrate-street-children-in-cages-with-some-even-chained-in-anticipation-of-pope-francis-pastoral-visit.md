@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/15/philippine-authorities-in-manila-concentrate-street-children-in-cages-with-some-even-chained-in-anticipation-of-pope-francis-pastoral-visit.html)  [JSON](/news/2015/01/15/philippine-authorities-in-manila-concentrate-street-children-in-cages-with-some-even-chained-in-anticipation-of-pope-francis-pastoral-visit.json)  [XML](/news/2015/01/15/philippine-authorities-in-manila-concentrate-street-children-in-cages-with-some-even-chained-in-anticipation-of-pope-francis-pastoral-visit.xml)  
+
 ### [2015-01-15](/news/2015/01/15/index.md)
 
+##### Philippine
 # Philippine authorities in Manila concentrate street children in cages with some even chained in anticipation of Pope Francis' pastoral visit. 
 
 Street children are rounded up and hidden away to provide the Pope with a more presentable tour of the Philippines. Filipino children are being &#39;rescued&#39; from the streets only to be forced ...
 
 
-### Source:
+### Sources:
 
 1. [Catholic Online](http://www.catholic.org/news/international/asia/story.php?id=58402)
 2. [The Daily Mail](http://www.dailymail.co.uk/news/article-2906730/EXCLUSIVE-Children-CAGED-God-Police-seize-orphans-chain-filth-clear-streets-Pope-s-visit-Philippines.html)

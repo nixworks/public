@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/2/general-adolphe-nshimirimana-former-chief-of-staff-of-the-burundi-army-is-assassinated-in-bujumbura.html)  [JSON](/news/2015/08/2/general-adolphe-nshimirimana-former-chief-of-staff-of-the-burundi-army-is-assassinated-in-bujumbura.json)  [XML](/news/2015/08/2/general-adolphe-nshimirimana-former-chief-of-staff-of-the-burundi-army-is-assassinated-in-bujumbura.xml)  
+
 ### [2015-08-2](/news/2015/08/2/index.md)
 
+##### Burundian Army
 # General Adolphe Nshimirimana, former chief of staff of the Burundi Army, is assassinated in Bujumbura. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RFI original in French](http://www.rfi.fr/contenu/ticker/burundi-ancien-chef-etat-major-armee-ete-assassine-officiel)
 

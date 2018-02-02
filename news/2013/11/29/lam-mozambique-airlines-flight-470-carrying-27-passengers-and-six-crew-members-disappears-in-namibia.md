@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/29/lam-mozambique-airlines-flight-470-carrying-27-passengers-and-six-crew-members-disappears-in-namibia.html)  [JSON](/news/2013/11/29/lam-mozambique-airlines-flight-470-carrying-27-passengers-and-six-crew-members-disappears-in-namibia.json)  [XML](/news/2013/11/29/lam-mozambique-airlines-flight-470-carrying-27-passengers-and-six-crew-members-disappears-in-namibia.xml)  
+
 ### [2013-11-29](/news/2013/11/29/index.md)
 
+##### LAM Mozambique Airlines
 # LAM Mozambique Airlines Flight 470 carrying 27 passengers and six crew members disappears in Namibia. 
 
 A Mozambique Airlines plane flying from the capital, Maputo, to the Angolan capital, Luanda, goes missing with 34 people on board.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-25162278)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/71442000/jpg/_71442207_71442206.jpg)

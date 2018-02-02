@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2012/06/16/the-united-nations-suspends-its-peacekeeping-mission-in-syria-amid-escalating-violence.html)  [JSON](/news/2012/06/16/the-united-nations-suspends-its-peacekeeping-mission-in-syria-amid-escalating-violence.json)  [XML](/news/2012/06/16/the-united-nations-suspends-its-peacekeeping-mission-in-syria-amid-escalating-violence.xml)  
+
 ### [2012-06-16](/news/2012/06/16/index.md)
 
+##### United Nations
 # The United Nations suspends its peacekeeping mission in Syria amid escalating violence. 
 
 UN observers in Syria suspend their activities because of the escalating violence, the head of the UN Stabilisation Mission in Syria says.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/2012616122032803660.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18471686)
 2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60952000/jpg/_60952912_60952911.jpg)
+
+### Changes:
+
+1. [Syrian uprising (2011-present):The United Nations suspends its peacekeeping mission in Syria amid escalating violence. ](/news/2012/06/16/syrian-uprising-2011-present-pthe-united-nations-suspends-its-peacekeeping-mission-in-syria-amid-escalating-violence.md) _2017-08-25 03:35:53 (First version)_
+2. [Syrian uprising (2011-present):: The United Nations suspends its peacekeeping mission in Syria amid escalating violence. ](/news/2012/06/16/syrian-uprising-2011-present-the-united-nations-suspends-its-peacekeeping-mission-in-syria-amid-escalating-violence.md) _2017-08-27 03:36:04 (Update)_
+2. [The United Nations suspends its peacekeeping mission in Syria amid escalating violence. ](/news/2012/06/16/the-united-nations-suspends-its-peacekeeping-mission-in-syria-amid-escalating-violence.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ UN observers in Syria suspend their activities because of the escalating violenc
 3. [Staffan de Mistura, U.N. envoy to Syria, says there has been "real but modest" progress in the country's humanitarian situation, despite the shaken ceasefire. Aid convoys have reached 560,000 people in hard-to-reach and besieged areas; six areas still remain off limits. Yesterday, the Syrian Arab Red Crescent medically evacuated 515 people from four communities--Zabadani, Madaya, Kfarya, and Foua--besieged by government and rebel groups. ](/news/2016/04/21/staffan-de-mistura-u-n-envoy-to-syria-says-there-has-been-real-but-modest-progress-in-the-country-s-humanitarian-situation-despite-the.md) _Context: Syria, United Nations_
 4. [Syrian government airstrikes, and rockets from Islamist insurgents, hit many neighborhoods in Aleppo. Fatalities are reported on both sides of the city. This continued fighting threatens the truce and peace talks being held in Geneva, Switzerland. UN envoy Staffan de Mistura says he will meet the government delegation Monday, and will sit down with the main opposition High Negotiations Committee later in the week. ](/news/2016/04/16/syrian-government-airstrikes-and-rockets-from-islamist-insurgents-hit-many-neighborhoods-in-aleppo-fatalities-are-reported-on-both-sides.md) _Context: Syria, United Nations_
 5. [ The delegation of the government of Syria rules out starting any direct talks with the opposition delegation as U.N. sponsored peace talks enter a third day in Geneva. ](/news/2016/03/16/the-delegation-of-the-government-of-syria-rules-out-starting-any-direct-talks-with-the-opposition-delegation-as-u-n-sponsored-peace-talks.md) _Context: Syria, United Nations_
-
-### Changes:
-
-1. [Syrian uprising (2011-present):The United Nations suspends its peacekeeping mission in Syria amid escalating violence. ](/news/2012/06/16/syrian-uprising-2011-present-pthe-united-nations-suspends-its-peacekeeping-mission-in-syria-amid-escalating-violence.md) _2017-08-25 03:35:53 (First version)_
-2. [Syrian uprising (2011-present):: The United Nations suspends its peacekeeping mission in Syria amid escalating violence. ](/news/2012/06/16/syrian-uprising-2011-present-the-united-nations-suspends-its-peacekeeping-mission-in-syria-amid-escalating-violence.md) _2017-08-27 03:36:04 (Update)_
-2. [The United Nations suspends its peacekeeping mission in Syria amid escalating violence. ](/news/2012/06/16/the-united-nations-suspends-its-peacekeeping-mission-in-syria-amid-escalating-violence.md) _(Current version)_

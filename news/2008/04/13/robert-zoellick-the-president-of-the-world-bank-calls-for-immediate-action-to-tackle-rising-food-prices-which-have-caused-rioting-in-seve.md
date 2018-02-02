@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/13/robert-zoellick-the-president-of-the-world-bank-calls-for-immediate-action-to-tackle-rising-food-prices-which-have-caused-rioting-in-seve.html)  [JSON](/news/2008/04/13/robert-zoellick-the-president-of-the-world-bank-calls-for-immediate-action-to-tackle-rising-food-prices-which-have-caused-rioting-in-seve.json)  [XML](/news/2008/04/13/robert-zoellick-the-president-of-the-world-bank-calls-for-immediate-action-to-tackle-rising-food-prices-which-have-caused-rioting-in-seve.xml)  
+
 ### [2008-04-13](/news/2008/04/13/index.md)
 
+##### Robert Zoellick
 #  Robert Zoellick, the president of the World Bank, calls for immediate action to tackle rising food prices which have caused rioting in several countries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5i7EAtIpIs4oZP8lIPHXobu2zPZnQD9016D2O0)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/09/28/aquatic-species-from-japan-hitched-a-ride-on-debris-from-the-2011-tahoku-earthquake-and-tsunami-and-were-able-to-reach-the-west-coast-of-th.html)  [JSON](/news/2017/09/28/aquatic-species-from-japan-hitched-a-ride-on-debris-from-the-2011-tahoku-earthquake-and-tsunami-and-were-able-to-reach-the-west-coast-of-th.json)  [XML](/news/2017/09/28/aquatic-species-from-japan-hitched-a-ride-on-debris-from-the-2011-tahoku-earthquake-and-tsunami-and-were-able-to-reach-the-west-coast-of-th.xml)  
+
 ### [2017-09-28](/news/2017/09/28/index.md)
 
+##### Aftermath of the 2011 Tohoku earthquake and tsunami
 # Aquatic species from Japan hitched a ride on debris from the 2011 Tohoku earthquake and tsunami and were able to reach the West Coast of the United States alive. 
 
 The 2011 Japanese tsunami set the stage for something unprecedented. For the first time in recorded history, scientists have detected entire communities of coastal species crossing the ocean by floating on makeshift rafts. Nearly 300 species have appeared on the shores of Hawaii and the U.S. West Coast attached to tsunami debris, marine biologists from the Smithsonian Environmental Research Center, Williams College and other institutions reported in the journal Science on Thursday.
 
 
-### Source:
+### Sources:
 
 1. [Phys.org](https://phys.org/news/2017-09-tsunami-enabled-hundreds-aquatic-species.html)
 1. [Cover Image](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2017/tsunamienabl.jpg)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/07/25/voters-go-to-the-polls-in-iraqi-kurdistan-for-legislative-and-presidential-elections.html)  [JSON](/news/2009/07/25/voters-go-to-the-polls-in-iraqi-kurdistan-for-legislative-and-presidential-elections.json)  [XML](/news/2009/07/25/voters-go-to-the-polls-in-iraqi-kurdistan-for-legislative-and-presidential-elections.xml)  
+
 ### [2009-07-25](/news/2009/07/25/index.md)
 
+##### Iraq
 #  Voters go to the polls in Iraqi Kurdistan for legislative and presidential elections. 
 
 There was little doubt that the governing coalition would maintain its ironclad grip on the Kurdistan region.
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.hindu.com/thehindu/holnus/003200907251311.htm)
-2. [The New York Times](http://www.nytimes.com/2009/07/26/world/middleeast/26kurds.html)
+2. [The New York Times](https://www.nytimes.com/2009/07/26/world/middleeast/26kurds.html)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-07/25/content_11770004.htm)
 3. [Cover Image](https://static01.nyt.com/images/2009/07/26/world/26kurds.span.75.jpg)
 

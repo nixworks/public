@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/6/democratic-presidential-primaries-howard-dean-tells-his-supporters-that-he-must-win-the-wisconsin-democratic-primary-in-order-to-stay-in-t.html)  [JSON](/news/2004/02/6/democratic-presidential-primaries-howard-dean-tells-his-supporters-that-he-must-win-the-wisconsin-democratic-primary-in-order-to-stay-in-t.json)  [XML](/news/2004/02/6/democratic-presidential-primaries-howard-dean-tells-his-supporters-that-he-must-win-the-wisconsin-democratic-primary-in-order-to-stay-in-t.xml)  
+
 ### [2004-02-6](/news/2004/02/6/index.md)
 
+##### Democratic Presidential Primaries
 #  Democratic Presidential Primaries: Howard Dean tells his supporters that he must win the Wisconsin Democratic primary in order to stay in the Democratic presidential race.
 
 

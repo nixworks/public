@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/4/mark-messier-of-the-new-york-rangers-scores-two-goals-against-the-dallas-stars-giving-him-1851-to-pass-gordie-howe-and-to-move-into-second.html)  [JSON](/news/2003/11/4/mark-messier-of-the-new-york-rangers-scores-two-goals-against-the-dallas-stars-giving-him-1851-to-pass-gordie-howe-and-to-move-into-second.json)  [XML](/news/2003/11/4/mark-messier-of-the-new-york-rangers-scores-two-goals-against-the-dallas-stars-giving-him-1851-to-pass-gordie-howe-and-to-move-into-second.xml)  
+
 ### [2003-11-4](/news/2003/11/4/index.md)
 
+##### Mark Messier
 #  Mark Messier of the New York Rangers scores two goals against the Dallas Stars, giving him 1851 to pass Gordie Howe and to move into second place on the NHL career points list.
 
 

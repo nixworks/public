@@ -1,18 +1,23 @@
+
+Formats: [HTML](/news/2015/02/5/a-paul-gauguin-painting-nafea-faa-ipoipo-when-will-you-marry-sells-to-a-qatari-buyer-for-close-to-300-million.html)  [JSON](/news/2015/02/5/a-paul-gauguin-painting-nafea-faa-ipoipo-when-will-you-marry-sells-to-a-qatari-buyer-for-close-to-300-million.json)  [XML](/news/2015/02/5/a-paul-gauguin-painting-nafea-faa-ipoipo-when-will-you-marry-sells-to-a-qatari-buyer-for-close-to-300-million.xml)  
+
 ### [2015-02-5](/news/2015/02/5/index.md)
 
+##### Paul Gauguin
 # A Paul Gauguin painting, "Nafea Faa Ipoipo" ("When Will You Marry?"), sells to a Qatari buyer for close to $300 million. 
 
+The sale of an 1892 Gauguin oil painting, &#8220;Nafea Faa Ipoipo (When Will You Marry?),&#8221; was confirmed by the seller, Rudolf Staechelin.
 
 
+### Sources:
 
-### Source:
-
-1. [The New York Times](http://www.nytimes.com/2015/02/06/arts/design/gauguin-painting-is-said-to-fetch-nearly-300-million.html?_r=0)
+1. [The New York Times](https://www.nytimes.com/2015/02/06/arts/design/gauguin-painting-is-said-to-fetch-nearly-300-million.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2015/02/06/arts/06painting-1/06painting-1-facebookJumbo.jpg)
 
 ### Related:
 
-1. [Saudi Arabia suspends any dialogue with Qatar, accusing it of "distorting facts" in its reporting of yesterday's phone call between the leaders of both countries which suggested a breakthrough in the Gulf dispute was possible. ](/news/2017/09/9/saudi-arabia-suspends-any-dialogue-with-qatar-accusing-it-of-adistorting-factsa-in-its-reporting-of-yesterday-s-phone-call-between-the.md) _Context: Qatar_
-2. [Qatar announces it will donate USD$ 30 million to help people in Texas recover from Harvey. ](/news/2017/09/7/qatar-announces-it-will-donate-usd-30-million-to-help-people-in-texas-recover-from-harvey.md) _Context: Qatar_
-3. [Qatar restores diplomatic ties with Iran. Tehran welcomes the move. ](/news/2017/08/24/qatar-restores-diplomatic-ties-with-iran-tehran-welcomes-the-move.md) _Context: Qatar_
-4. [Qatar files a legal complaint at the World Trade Organization (WTO) concerning the embargo imposed by Saudi Arabia, Egypt, Bahrain and United Arab Emirates in June. The parties have 60 days to settle the complaint to avoid WTO litigation. ](/news/2017/07/31/qatar-files-a-legal-complaint-at-the-world-trade-organization-wto-concerning-the-embargo-imposed-by-saudi-arabia-egypt-bahrain-and-unite.md) _Context: Qatar_
-5. [Syrian rebels, who have benefited from the "covert" CIA military aid program, say they have not been officially informed of the U.S. decision to stop this aid, and add that its full impact depends on whether U.S. allies Jordan, Saudi Arabia, Qatar, and Turkey continue to support their fight. A Free Syrian Army commander warns this decision risks triggering the collapse of the moderate opposition. ](/news/2017/07/20/syrian-rebels-who-have-benefited-from-the-covert-cia-military-aid-program-say-they-have-not-been-officially-informed-of-the-u-s-decisio.md) _Context: Qatar_
+1. [A GBP6 billion ($8 billion) deal to sell 24 Eurofighter Typhoons to Qatar is announced. ](/news/2017/12/11/a-agbp6-billion-8-billion-deal-to-sell-24-eurofighter-typhoons-to-qatar-is-announced.md) _Context: Qatar_
+2. [Saudi Arabia suspends any dialogue with Qatar, accusing it of "distorting facts" in its reporting of yesterday's phone call between the leaders of both countries which suggested a breakthrough in the Gulf dispute was possible. ](/news/2017/09/9/saudi-arabia-suspends-any-dialogue-with-qatar-accusing-it-of-adistorting-factsa-in-its-reporting-of-yesterday-s-phone-call-between-the.md) _Context: Qatar_
+3. [Qatar announces it will donate USD$ 30 million to help people in Texas recover from Harvey. ](/news/2017/09/7/qatar-announces-it-will-donate-usd-30-million-to-help-people-in-texas-recover-from-harvey.md) _Context: Qatar_
+4. [Qatar restores diplomatic ties with Iran. Tehran welcomes the move. ](/news/2017/08/24/qatar-restores-diplomatic-ties-with-iran-tehran-welcomes-the-move.md) _Context: Qatar_
+5. [Qatar files a legal complaint at the World Trade Organization (WTO) concerning the embargo imposed by Saudi Arabia, Egypt, Bahrain and United Arab Emirates in June. The parties have 60 days to settle the complaint to avoid WTO litigation. ](/news/2017/07/31/qatar-files-a-legal-complaint-at-the-world-trade-organization-wto-concerning-the-embargo-imposed-by-saudi-arabia-egypt-bahrain-and-unite.md) _Context: Qatar_

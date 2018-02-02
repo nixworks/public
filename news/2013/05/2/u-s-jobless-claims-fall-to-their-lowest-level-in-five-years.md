@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/2/u-s-jobless-claims-fall-to-their-lowest-level-in-five-years.html)  [JSON](/news/2013/05/2/u-s-jobless-claims-fall-to-their-lowest-level-in-five-years.json)  [XML](/news/2013/05/2/u-s-jobless-claims-fall-to-their-lowest-level-in-five-years.xml)  
+
 ### [2013-05-2](/news/2013/05/2/index.md)
 
+##### U.S.
 # U.S. jobless claims fall to their lowest level in five years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New York Daily News](http://www.nydailynews.com/news/national/jobless-claims-drop-article-1.1333666)
 

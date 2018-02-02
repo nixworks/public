@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/1/two-suspected-militants-and-a-policeman-are-shot-dead-during-a-gun-battle-in-tral-jammu-and-kashmir.html)  [JSON](/news/2013/07/1/two-suspected-militants-and-a-policeman-are-shot-dead-during-a-gun-battle-in-tral-jammu-and-kashmir.json)  [XML](/news/2013/07/1/two-suspected-militants-and-a-policeman-are-shot-dead-during-a-gun-battle-in-tral-jammu-and-kashmir.xml)  
+
 ### [2013-07-1](/news/2013/07/1/index.md)
 
+##### Tral
 # Two suspected militants and a policeman are shot dead during a gun battle in Tral, Jammu and Kashmir. 
 
 Two militants and a policeman die in a gun battle in Indian-administered Kashmir, as a strike is held after the killing of two people in an army operation.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-23124231)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68476000/jpg/_68476539_68472232.jpg)

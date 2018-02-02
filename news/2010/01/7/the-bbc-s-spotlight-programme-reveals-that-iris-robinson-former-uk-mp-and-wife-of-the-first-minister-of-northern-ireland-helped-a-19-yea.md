@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2010/01/7/the-bbc-s-spotlight-programme-reveals-that-iris-robinson-former-uk-mp-and-wife-of-the-first-minister-of-northern-ireland-helped-a-19-yea.html)  [JSON](/news/2010/01/7/the-bbc-s-spotlight-programme-reveals-that-iris-robinson-former-uk-mp-and-wife-of-the-first-minister-of-northern-ireland-helped-a-19-yea.json)  [XML](/news/2010/01/7/the-bbc-s-spotlight-programme-reveals-that-iris-robinson-former-uk-mp-and-wife-of-the-first-minister-of-northern-ireland-helped-a-19-yea.xml)  
+
 ### [2010-01-7](/news/2010/01/7/index.md)
 
+##### BBC
 # The BBC's "Spotlight" programme reveals that Iris Robinson, former UK MP and wife of the First Minister of Northern Ireland, helped a 19 year old male who she was having a relationship with receive funding for a business project. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8447352.stm)
 2. [The Guardian](http://www.guardian.co.uk/politics/2010/jan/07/peter-iris-robinson-bbc-investigation)
+
+### Changes:
+
+1. [The BBC's ''Spotlight'' programme reveals that Iris Robinson, former UK MP and wife of the First Minister of Northern Ireland, helped a 19 year old male who she was having a relationship with receive funding for a business project. ](/news/2010/01/7/the-bbc-s-spotlight-programme-reveals-that-iris-robinson-former-uk-mp-and-wife-of-the-first-minister-of-northern-ireland-helped-a-19-y.md) _2017-08-25 03:26:49 (First version)_
+1. [The BBC's "Spotlight" programme reveals that Iris Robinson, former UK MP and wife of the First Minister of Northern Ireland, helped a 19 year old male who she was having a relationship with receive funding for a business project. ](/news/2010/01/7/the-bbc-s-spotlight-programme-reveals-that-iris-robinson-former-uk-mp-and-wife-of-the-first-minister-of-northern-ireland-helped-a-19-yea.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [Northern Ireland's First Minister Peter Robinson temporarily hands over his position to Arlene Foster in the wake of the ongoing political scandal surrounding his wife and fellow politician Iris Robinson.](/news/2010/01/11/northern-ireland-s-first-minister-peter-robinson-temporarily-hands-over-his-position-to-arlene-foster-in-the-wake-of-the-ongoing-political-s.md) _Context: Iris Robinson, Northern Ireland, deputy First Minister of Northern Ireland_
 4. [Sinn Fein announces that Martin McGuinness, current Deputy First Minister of Northern Ireland and former Irish Republican Army commander, will be a candidate for the Irish presidential election with John O'Dowd serving as acting Deputy First Minister. ](/news/2011/09/18/sinn-fein-announces-that-martin-mcguinness-current-deputy-first-minister-of-northern-ireland-and-former-irish-republican-army-commander-wi.md) _Context: Northern Ireland, deputy First Minister of Northern Ireland_
 5. [ First Minister of Northern Ireland Peter Robinson holds separate talks with both sides in the dispute over the Drumcree conflict. ](/news/2009/07/5/first-minister-of-northern-ireland-peter-robinson-holds-separate-talks-with-both-sides-in-the-dispute-over-the-drumcree-conflict.md) _Context: Northern Ireland, deputy First Minister of Northern Ireland_
-
-### Changes:
-
-1. [The BBC's ''Spotlight'' programme reveals that Iris Robinson, former UK MP and wife of the First Minister of Northern Ireland, helped a 19 year old male who she was having a relationship with receive funding for a business project. ](/news/2010/01/7/the-bbc-s-spotlight-programme-reveals-that-iris-robinson-former-uk-mp-and-wife-of-the-first-minister-of-northern-ireland-helped-a-19-y.md) _2017-08-25 03:26:49 (First version)_
-1. [The BBC's "Spotlight" programme reveals that Iris Robinson, former UK MP and wife of the First Minister of Northern Ireland, helped a 19 year old male who she was having a relationship with receive funding for a business project. ](/news/2010/01/7/the-bbc-s-spotlight-programme-reveals-that-iris-robinson-former-uk-mp-and-wife-of-the-first-minister-of-northern-ireland-helped-a-19-yea.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/12/evangelos-florakis-navy-base-explosion-thousands-of-people-march-on-the-presidential-palace-in-nicosia-cyprus-police-fire-tear-gas-at-the.html)  [JSON](/news/2011/07/12/evangelos-florakis-navy-base-explosion-thousands-of-people-march-on-the-presidential-palace-in-nicosia-cyprus-police-fire-tear-gas-at-the.json)  [XML](/news/2011/07/12/evangelos-florakis-navy-base-explosion-thousands-of-people-march-on-the-presidential-palace-in-nicosia-cyprus-police-fire-tear-gas-at-the.xml)  
+
 ### [2011-07-12](/news/2011/07/12/index.md)
 
+##### Evangelos Florakis Navy Base explosion
 # Evangelos Florakis Navy Base explosion: Thousands of people march on the Presidential Palace in Nicosia, Cyprus; police fire tear gas at the demonstrators who tie a banner to the palace gates stating "Christofias [their ruler] is a murderer and must go to jail". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-14132130)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54043000/jpg/_54043080_012438738-1.jpg)

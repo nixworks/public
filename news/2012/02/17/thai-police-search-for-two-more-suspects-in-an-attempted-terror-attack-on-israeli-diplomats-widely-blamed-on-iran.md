@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/17/thai-police-search-for-two-more-suspects-in-an-attempted-terror-attack-on-israeli-diplomats-widely-blamed-on-iran.html)  [JSON](/news/2012/02/17/thai-police-search-for-two-more-suspects-in-an-attempted-terror-attack-on-israeli-diplomats-widely-blamed-on-iran.json)  [XML](/news/2012/02/17/thai-police-search-for-two-more-suspects-in-an-attempted-terror-attack-on-israeli-diplomats-widely-blamed-on-iran.xml)  
+
 ### [2012-02-17](/news/2012/02/17/index.md)
 
+##### Thai police officers
 # Thai police search for two more suspects in an attempted terror attack on Israeli diplomats widely blamed on Iran. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_THAILAND_TERROR_PLOT?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

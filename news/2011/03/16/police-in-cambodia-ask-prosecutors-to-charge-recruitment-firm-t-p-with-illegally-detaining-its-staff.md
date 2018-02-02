@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/16/police-in-cambodia-ask-prosecutors-to-charge-recruitment-firm-t-p-with-illegally-detaining-its-staff.html)  [JSON](/news/2011/03/16/police-in-cambodia-ask-prosecutors-to-charge-recruitment-firm-t-p-with-illegally-detaining-its-staff.json)  [XML](/news/2011/03/16/police-in-cambodia-ask-prosecutors-to-charge-recruitment-firm-t-p-with-illegally-detaining-its-staff.xml)  
+
 ### [2011-03-16](/news/2011/03/16/index.md)
 
+##### Cambodia
 # Police in Cambodia ask prosecutors to charge recruitment firm T&P with illegally detaining its staff. 
 
 Cambodian police ask prosecutors to charge a recruitment firm with illegally detaining its staff, after one woman died and another was injured at its training centre.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12756040)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

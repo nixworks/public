@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/28/the-majlis-of-iran-elects-ali-larijani-as-its-new-speaker.html)  [JSON](/news/2008/05/28/the-majlis-of-iran-elects-ali-larijani-as-its-new-speaker.json)  [XML](/news/2008/05/28/the-majlis-of-iran-elects-ali-larijani-as-its-new-speaker.xml)  
+
 ### [2008-05-28](/news/2008/05/28/index.md)
 
+##### Majlis of Iran
 #  The Majlis of Iran elects Ali Larijani as its new Speaker. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5id9fXwVtvAI3siQuhNGajbQhEemQ)
 

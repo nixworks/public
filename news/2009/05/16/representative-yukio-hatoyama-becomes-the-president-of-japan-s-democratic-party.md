@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/16/representative-yukio-hatoyama-becomes-the-president-of-japan-s-democratic-party.html)  [JSON](/news/2009/05/16/representative-yukio-hatoyama-becomes-the-president-of-japan-s-democratic-party.json)  [XML](/news/2009/05/16/representative-yukio-hatoyama-becomes-the-president-of-japan-s-democratic-party.xml)  
+
 ### [2009-05-16](/news/2009/05/16/index.md)
 
+##### House of Representatives
 #  Representative Yukio Hatoyama becomes the President of Japan's Democratic Party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8053175.stm)
 

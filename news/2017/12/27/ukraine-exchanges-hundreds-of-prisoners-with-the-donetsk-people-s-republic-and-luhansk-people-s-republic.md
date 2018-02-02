@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/27/ukraine-exchanges-hundreds-of-prisoners-with-th
 
 ### [2017-12-27](/news/2017/12/27/index.md)
 
+##### War in Donbass
 # Ukraine exchanges hundreds of prisoners with the Donetsk People's Republic and Luhansk People's Republic. 
 
 It was one of the biggest swaps of prisoners since the conflict in eastern Ukraine began in 2014.

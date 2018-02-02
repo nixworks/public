@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/14/canadian-police-foil-a-planned-valentines-day-massacre-in-halifax-nova-scotia.html)  [JSON](/news/2015/02/14/canadian-police-foil-a-planned-valentines-day-massacre-in-halifax-nova-scotia.json)  [XML](/news/2015/02/14/canadian-police-foil-a-planned-valentines-day-massacre-in-halifax-nova-scotia.xml)  
+
 ### [2015-02-14](/news/2015/02/14/index.md)
 
+##### Royal Canadian Mounted Police
 # Canadian Police foil a planned Valentines Day massacre in Halifax, Nova Scotia. 
 
 A group of &#39;murderous misfits&#39; planned to massacre as many people as possible in a Valentine&#39;s Day shooting spree that police foiled after an anonymous tip off.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/nova-scotia/randall-steven-shepherd-lindsay-kantha-souvannarath-charged-in-halifax-shooting-plot-1.2957685)
 2. [Reuters via News24](http://www.news24.com/news24/World/News/Canadian-misfits-planned-Valentines-Day-massacre-20150214)

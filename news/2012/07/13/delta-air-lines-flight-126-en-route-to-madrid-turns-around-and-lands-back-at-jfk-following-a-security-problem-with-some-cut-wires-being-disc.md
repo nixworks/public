@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/13/delta-air-lines-flight-126-en-route-to-madrid-turns-around-and-lands-back-at-jfk-following-a-security-problem-with-some-cut-wires-being-disc.html)  [JSON](/news/2012/07/13/delta-air-lines-flight-126-en-route-to-madrid-turns-around-and-lands-back-at-jfk-following-a-security-problem-with-some-cut-wires-being-disc.json)  [XML](/news/2012/07/13/delta-air-lines-flight-126-en-route-to-madrid-turns-around-and-lands-back-at-jfk-following-a-security-problem-with-some-cut-wires-being-disc.xml)  
+
 ### [2012-07-13](/news/2012/07/13/index.md)
 
+##### Delta Air Lines
 # Delta Air Lines flight 126 en route to Madrid turns around and lands back at JFK following a security problem with some cut wires being discovered in the plane's bathroom. 
 
 A jetliner bound for Madrid returned to Kennedy Airport as a precaution Thursday evening after a passenger reported strange wiring in the bathroom, but no explosive device was found, law enforcement officials...
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://www.nbcnewyork.com/news/local/Delta-Flight-126-Security-Scare-JFK-New-York-Madrid-Spain-Wires-Bathroom-162304456.html)
 1. [Cover Image](http://media.nbcnewyork.com/images/1200*675/delta+plane.jpg)

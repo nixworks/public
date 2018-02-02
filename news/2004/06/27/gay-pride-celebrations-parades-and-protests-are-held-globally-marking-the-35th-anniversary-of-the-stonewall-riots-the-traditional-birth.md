@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/27/gay-pride-celebrations-parades-and-protests-are-held-globally-marking-the-35th-anniversary-of-the-stonewall-riots-the-traditional-birth.html)  [JSON](/news/2004/06/27/gay-pride-celebrations-parades-and-protests-are-held-globally-marking-the-35th-anniversary-of-the-stonewall-riots-the-traditional-birth.json)  [XML](/news/2004/06/27/gay-pride-celebrations-parades-and-protests-are-held-globally-marking-the-35th-anniversary-of-the-stonewall-riots-the-traditional-birth.xml)  
+
 ### [2004-06-27](/news/2004/06/27/index.md)
 
+##### Gay pride
 #  Gay pride celebrations, parades and protests are held globally, marking the 35th anniversary of the Stonewall Riots, the traditional birth of the modern LGBT civil rights movement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Salt Lake Tribune](http://www.sltrib.com/2004/Jun/06272004/nation_w/179181.asp)
 

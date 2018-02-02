@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/30/republic-of-china-taiwan-president-chen-shui-bian-cancels-the-annual-han-kuang-live-fire-exercises-previously-schedule-for-september-9-as.html)  [JSON](/news/2004/08/30/republic-of-china-taiwan-president-chen-shui-bian-cancels-the-annual-han-kuang-live-fire-exercises-previously-schedule-for-september-9-as.json)  [XML](/news/2004/08/30/republic-of-china-taiwan-president-chen-shui-bian-cancels-the-annual-han-kuang-live-fire-exercises-previously-schedule-for-september-9-as.xml)  
+
 ### [2004-08-30](/news/2004/08/30/index.md)
 
+##### Chen Shui-bian
 #  Republic of China (Taiwan) President Chen Shui-bian cancels the annual Han Kuang live-fire exercises previously schedule for September 9 as a goodwill gesture to the mainland after the People's Republic of China reportedly halted its military drills at Dongshan Island on the Taiwan Strait. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2004/WORLD/asiapcf/08/30/china.taiwan.reut/index.html)
 2. [VOA](http://www.voanews.com/article.cfm?objectID=BE355AD7-4385-476C-AB8092F5FE1395F0&title=Taiwan%20Cancels%20Military%20Exercise%20as%20%27Goodwill%27%20Gesture%20to%20China&catOID=45C9C78B-88AD-11D4-A57200A0CC5EE46C&categoryname=Asia%20Pacific)

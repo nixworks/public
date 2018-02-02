@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/11/pakistan-s-two-main-coalition-leaders-asif-ali-zardari-and-nawaz-sharif-meet-with-u-s-assistant-secretary-of-state-richard-boucher-in-lon.html)  [JSON](/news/2008/05/11/pakistan-s-two-main-coalition-leaders-asif-ali-zardari-and-nawaz-sharif-meet-with-u-s-assistant-secretary-of-state-richard-boucher-in-lon.json)  [XML](/news/2008/05/11/pakistan-s-two-main-coalition-leaders-asif-ali-zardari-and-nawaz-sharif-meet-with-u-s-assistant-secretary-of-state-richard-boucher-in-lon.xml)  
+
 ### [2008-05-11](/news/2008/05/11/index.md)
 
+##### Pakistan
 #  Pakistan's two main coalition leaders, Asif Ali Zardari and Nawaz Sharif meet with U.S. Assistant Secretary of State Richard Boucher in London to discuss the removal of judges by President Pervez Musharraf, but fail to reach an agreement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://www.cnn.com/2008/WORLD/asiapcf/05/11/pakistan.judges.ap/index.html)
 

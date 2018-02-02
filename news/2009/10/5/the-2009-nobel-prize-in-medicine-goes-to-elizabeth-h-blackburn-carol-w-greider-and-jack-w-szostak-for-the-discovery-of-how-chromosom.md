@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/5/the-2009-nobel-prize-in-medicine-goes-to-elizabeth-h-blackburn-carol-w-greider-and-jack-w-szostak-for-the-discovery-of-how-chromosom.html)  [JSON](/news/2009/10/5/the-2009-nobel-prize-in-medicine-goes-to-elizabeth-h-blackburn-carol-w-greider-and-jack-w-szostak-for-the-discovery-of-how-chromosom.json)  [XML](/news/2009/10/5/the-2009-nobel-prize-in-medicine-goes-to-elizabeth-h-blackburn-carol-w-greider-and-jack-w-szostak-for-the-discovery-of-how-chromosom.xml)  
+
 ### [2009-10-5](/news/2009/10/5/index.md)
 
+##### Nobel Prize in Medicine
 #  The 2009 Nobel Prize in Medicine goes to Elizabeth H. Blackburn, Carol W. Greider, and Jack W. Szostak, "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hJcSjQhDsEyGknin8ov1gIOLAj-QD9B4RSQ81)
 2. [Nobel Foundation](http://nobelprize.org/nobel_prizes/medicine/laureates/2009/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/25/the-sudanese-government-announces-the-lifting-of-a-partial-ban-on-united-nations-operations-in-the-conflict-hit-darfur-region-the-ban-was.html)  [JSON](/news/2006/06/25/the-sudanese-government-announces-the-lifting-of-a-partial-ban-on-united-nations-operations-in-the-conflict-hit-darfur-region-the-ban-was.json)  [XML](/news/2006/06/25/the-sudanese-government-announces-the-lifting-of-a-partial-ban-on-united-nations-operations-in-the-conflict-hit-darfur-region-the-ban-was.xml)  
+
 ### [2006-06-25](/news/2006/06/25/index.md)
 
+##### Sudan
 #  The Sudanese government announces the lifting of a partial ban on United Nations operations in the conflict-hit Darfur region. The ban was made after the government accused the UN of transporting a rebel leader who opposes a recent peace deal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/5114216.stm)
 

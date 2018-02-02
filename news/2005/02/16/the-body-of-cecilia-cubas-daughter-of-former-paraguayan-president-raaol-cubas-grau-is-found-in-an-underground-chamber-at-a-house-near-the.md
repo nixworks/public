@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/16/the-body-of-cecilia-cubas-daughter-of-former-paraguayan-president-raaol-cubas-grau-is-found-in-an-underground-chamber-at-a-house-near-the.html)  [JSON](/news/2005/02/16/the-body-of-cecilia-cubas-daughter-of-former-paraguayan-president-raaol-cubas-grau-is-found-in-an-underground-chamber-at-a-house-near-the.json)  [XML](/news/2005/02/16/the-body-of-cecilia-cubas-daughter-of-former-paraguayan-president-raaol-cubas-grau-is-found-in-an-underground-chamber-at-a-house-near-the.xml)  
+
 ### [2005-02-16](/news/2005/02/16/index.md)
 
+##### Cecilia Cubas
 #  The body of Cecilia Cubas, daughter of former Paraguayan President Raul Cubas Grau, is found in an underground chamber at a house near the capital city of Asuncion. She was abducted on September 21, 2004. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/International/wireStory?id=507052)
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/4272633.stm)

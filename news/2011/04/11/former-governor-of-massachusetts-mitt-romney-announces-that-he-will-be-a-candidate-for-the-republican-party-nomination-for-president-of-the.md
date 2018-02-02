@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/11/former-governor-of-massachusetts-mitt-romney-announces-that-he-will-be-a-candidate-for-the-republican-party-nomination-for-president-of-the.html)  [JSON](/news/2011/04/11/former-governor-of-massachusetts-mitt-romney-announces-that-he-will-be-a-candidate-for-the-republican-party-nomination-for-president-of-the.json)  [XML](/news/2011/04/11/former-governor-of-massachusetts-mitt-romney-announces-that-he-will-be-a-candidate-for-the-republican-party-nomination-for-president-of-the.xml)  
+
 ### [2011-04-11](/news/2011/04/11/index.md)
 
+##### Massachusetts governor
 # Former Governor of Massachusetts Mitt Romney announces that he will be a candidate for the Republican Party nomination for President of the United States. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/richard-adams-blog/2011/apr/11/mitt-romney-republican-nomination-2012)
 

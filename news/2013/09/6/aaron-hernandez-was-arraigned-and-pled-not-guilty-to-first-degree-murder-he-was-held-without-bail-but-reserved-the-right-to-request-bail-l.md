@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2013/09/6/aaron-hernandez-was-arraigned-and-pled-not-guilty-to-first-degree-murder-he-was-held-without-bail-but-reserved-the-right-to-request-bail-l.html)  [JSON](/news/2013/09/6/aaron-hernandez-was-arraigned-and-pled-not-guilty-to-first-degree-murder-he-was-held-without-bail-but-reserved-the-right-to-request-bail-l.json)  [XML](/news/2013/09/6/aaron-hernandez-was-arraigned-and-pled-not-guilty-to-first-degree-murder-he-was-held-without-bail-but-reserved-the-right-to-request-bail-l.xml)  
+
 ### [2013-09-6](/news/2013/09/6/index.md)
 
+##### Aaron Hernandez
 # Aaron Hernandez was arraigned and pled not guilty to first-degree murder. He was held without bail, but reserved the right to request bail later.
 
 

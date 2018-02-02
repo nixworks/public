@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/13/the-former-president-of-mongolia-nambaryn-enkhbayar-is-detained-on-corruption-charges.html)  [JSON](/news/2012/04/13/the-former-president-of-mongolia-nambaryn-enkhbayar-is-detained-on-corruption-charges.json)  [XML](/news/2012/04/13/the-former-president-of-mongolia-nambaryn-enkhbayar-is-detained-on-corruption-charges.xml)  
+
 ### [2012-04-13](/news/2012/04/13/index.md)
 
+##### Mongolia
 # The former president of Mongolia, Nambaryn Enkhbayar, is detained on corruption charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i0tvPEv2_vh_9C5-t2SvS8mlo_4g?docId=CNG.9e33b431a43400c66dbfa377830edfbb.1c1)
 

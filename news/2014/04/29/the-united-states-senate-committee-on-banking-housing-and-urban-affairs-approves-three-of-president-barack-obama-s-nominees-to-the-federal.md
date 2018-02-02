@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/04/29/the-united-states-senate-committee-on-banking-housing-and-urban-affairs-approves-three-of-president-barack-obama-s-nominees-to-the-federal.html)  [JSON](/news/2014/04/29/the-united-states-senate-committee-on-banking-housing-and-urban-affairs-approves-three-of-president-barack-obama-s-nominees-to-the-federal.json)  [XML](/news/2014/04/29/the-united-states-senate-committee-on-banking-housing-and-urban-affairs-approves-three-of-president-barack-obama-s-nominees-to-the-federal.xml)  
+
 ### [2014-04-29](/news/2014/04/29/index.md)
 
+##### United States Senate Committee on Banking, Housing, and Urban Affairs
 # The United States Senate Committee on Banking, Housing, and Urban Affairs approves three of President Barack Obama's nominees to the Federal Reserve, including the nomination of Stanley Fischer to be its vice chairman. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/04/29/us-usa-fed-nominees-idUSBREA3S0N720140429)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140429&t=2&i=892820677&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA3S13Q900)
+1. [Reuters](https://www.reuters.com/article/2014/04/29/us-usa-fed-nominees-idUSBREA3S0N720140429)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140429&t=2&i=892820677&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA3S13Q900)
 
 ### Related:
 

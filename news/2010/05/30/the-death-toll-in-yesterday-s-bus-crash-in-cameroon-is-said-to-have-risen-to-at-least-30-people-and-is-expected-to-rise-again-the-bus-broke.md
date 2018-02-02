@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/30/the-death-toll-in-yesterday-s-bus-crash-in-cameroon-is-said-to-have-risen-to-at-least-30-people-and-is-expected-to-rise-again-the-bus-broke.html)  [JSON](/news/2010/05/30/the-death-toll-in-yesterday-s-bus-crash-in-cameroon-is-said-to-have-risen-to-at-least-30-people-and-is-expected-to-rise-again-the-bus-broke.json)  [XML](/news/2010/05/30/the-death-toll-in-yesterday-s-bus-crash-in-cameroon-is-said-to-have-risen-to-at-least-30-people-and-is-expected-to-rise-again-the-bus-broke.xml)  
+
 ### [2010-05-30](/news/2010/05/30/index.md)
 
+##### Cameroon
 # The death toll in yesterday's bus crash in Cameroon is said to have risen to at least 30 people and is expected to rise again. The bus broke into two pieces after rolling down a hill several times. 
 
 AT least 30 people died when their bus crashed, rolled over and broke in two in central Cameroon, police said Sunday,adding that the toll could rise.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hPuK0QUB58cBLS85pzrXLbkO6Zaw)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/2010530154941685302.html)

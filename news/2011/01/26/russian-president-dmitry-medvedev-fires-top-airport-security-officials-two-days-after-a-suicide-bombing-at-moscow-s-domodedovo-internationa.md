@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/26/russian-president-dmitry-medvedev-fires-top-airport-security-officials-two-days-after-a-suicide-bombing-at-moscow-s-domodedovo-internationa.html)  [JSON](/news/2011/01/26/russian-president-dmitry-medvedev-fires-top-airport-security-officials-two-days-after-a-suicide-bombing-at-moscow-s-domodedovo-internationa.json)  [XML](/news/2011/01/26/russian-president-dmitry-medvedev-fires-top-airport-security-officials-two-days-after-a-suicide-bombing-at-moscow-s-domodedovo-internationa.xml)  
+
 ### [2011-01-26](/news/2011/01/26/index.md)
 
+##### Russian President
 # Russian President Dmitry Medvedev fires top airport security officials, two days after a suicide bombing at Moscow's Domodedovo International Airport killed 35 people and injured 130. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/europe/01/26/russia.airport.explosions/index.html)
 2. [RIA Novosti](http://en.rian.ru/russia/20110126/162311278.html)

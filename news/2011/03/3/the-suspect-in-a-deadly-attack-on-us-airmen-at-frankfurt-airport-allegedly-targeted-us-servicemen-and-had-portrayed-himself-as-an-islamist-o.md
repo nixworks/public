@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/3/the-suspect-in-a-deadly-attack-on-us-airmen-at-frankfurt-airport-allegedly-targeted-us-servicemen-and-had-portrayed-himself-as-an-islamist-o.html)  [JSON](/news/2011/03/3/the-suspect-in-a-deadly-attack-on-us-airmen-at-frankfurt-airport-allegedly-targeted-us-servicemen-and-had-portrayed-himself-as-an-islamist-o.json)  [XML](/news/2011/03/3/the-suspect-in-a-deadly-attack-on-us-airmen-at-frankfurt-airport-allegedly-targeted-us-servicemen-and-had-portrayed-himself-as-an-islamist-o.xml)  
+
 ### [2011-03-3](/news/2011/03/3/index.md)
 
+##### Frankfurt Airport
 # The suspect in a deadly attack on US airmen at Frankfurt Airport allegedly targeted US servicemen and had portrayed himself as an Islamist on the Internet according to German sources. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Stars and Stripes](http://www.stripes.com/news/europe/germany/officials-confessed-airport-shooter-was-targeting-military-1.136499)
 

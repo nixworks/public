@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/6/according-to-officials-an-explosion-kills-at-least-11-people-aboard-a-minibus-in-the-north-caucasus-city-of-vladikavkaz-russia.html)  [JSON](/news/2008/11/6/according-to-officials-an-explosion-kills-at-least-11-people-aboard-a-minibus-in-the-north-caucasus-city-of-vladikavkaz-russia.json)  [XML](/news/2008/11/6/according-to-officials-an-explosion-kills-at-least-11-people-aboard-a-minibus-in-the-north-caucasus-city-of-vladikavkaz-russia.xml)  
+
 ### [2008-11-6](/news/2008/11/6/index.md)
 
+##### an explosion
 #  According to officials, an explosion kills at least 11 people aboard a minibus in the North Caucasus city of Vladikavkaz, Russia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7713261.stm)
 

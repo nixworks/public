@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/12/4/the-us-navy-denies-iranian-state-media-reports-that-a-scaneagle-drone-has-been-shot-down-over-the-persian-gulf.html)  [JSON](/news/2012/12/4/the-us-navy-denies-iranian-state-media-reports-that-a-scaneagle-drone-has-been-shot-down-over-the-persian-gulf.json)  [XML](/news/2012/12/4/the-us-navy-denies-iranian-state-media-reports-that-a-scaneagle-drone-has-been-shot-down-over-the-persian-gulf.xml)  
+
 ### [2012-12-4](/news/2012/12/4/index.md)
 
+##### US Navy
 # The US Navy denies Iranian state media reports that a ScanEagle drone has been shot down over the Persian Gulf. 
 
 As shelling in the Damascus suburbs worsened, the United Nations warned that it was getting harder to get food to displaced Syrians.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2012/12/05/world/middleeast/assad-syria-conflict-updates.html)
+1. [New York Times](https://www.nytimes.com/2012/12/05/world/middleeast/assad-syria-conflict-updates.html)
 1. [Cover Image](https://static01.nyt.com/images/2012/12/05/world/SYRIA/SYRIA-superJumbo.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/29/hurricane-gustav-reaches-hurricane-strength-en-route-to-the-cayman-islands-cuba-and-the-gulf-of-mexico.html)  [JSON](/news/2008/08/29/hurricane-gustav-reaches-hurricane-strength-en-route-to-the-cayman-islands-cuba-and-the-gulf-of-mexico.json)  [XML](/news/2008/08/29/hurricane-gustav-reaches-hurricane-strength-en-route-to-the-cayman-islands-cuba-and-the-gulf-of-mexico.xml)  
+
 ### [2008-08-29](/news/2008/08/29/index.md)
 
+##### Hurricane Gustav
 #  Hurricane Gustav reaches hurricane strength en route to the Cayman Islands, Cuba and the Gulf of Mexico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/weather/08/29/gustav/index.html)
 

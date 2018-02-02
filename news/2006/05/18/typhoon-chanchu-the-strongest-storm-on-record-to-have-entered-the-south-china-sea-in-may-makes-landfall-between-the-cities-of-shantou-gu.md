@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/18/typhoon-chanchu-the-strongest-storm-on-record-to-have-entered-the-south-china-sea-in-may-makes-landfall-between-the-cities-of-shantou-gu.html)  [JSON](/news/2006/05/18/typhoon-chanchu-the-strongest-storm-on-record-to-have-entered-the-south-china-sea-in-may-makes-landfall-between-the-cities-of-shantou-gu.json)  [XML](/news/2006/05/18/typhoon-chanchu-the-strongest-storm-on-record-to-have-entered-the-south-china-sea-in-may-makes-landfall-between-the-cities-of-shantou-gu.xml)  
+
 ### [2006-05-18](/news/2006/05/18/index.md)
 
+##### Typhoon Chanchu
 #  Typhoon Chanchu, the strongest storm on record to have entered the South China Sea in May, makes landfall between the cities of Shantou, Guangdong and Xiamen, Fujian in China. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4990632.stm)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-05-18T003141Z_01_PEK354222_RTRUKOC_0_US-WEATHER-CHINA.xml&archived=False)

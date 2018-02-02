@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/6/2010-atlantic-hurricane-season-tropical-storm-hermine-slams-into-northern-mexico-near-the-border-with-texas.html)  [JSON](/news/2010/09/6/2010-atlantic-hurricane-season-tropical-storm-hermine-slams-into-northern-mexico-near-the-border-with-texas.json)  [XML](/news/2010/09/6/2010-atlantic-hurricane-season-tropical-storm-hermine-slams-into-northern-mexico-near-the-border-with-texas.xml)  
+
 ### [2010-09-6](/news/2010/09/6/index.md)
 
+##### 2010 Atlantic hurricane season
 # 2010 Atlantic hurricane season: Tropical Storm Hermine slams into northern Mexico near the border with Texas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Swiss Info](http://www.swissinfo.ch/eng/news/international/Storm_Hermine_slams_into_far_northeastern_Mexico.html?cid=28282360)
 

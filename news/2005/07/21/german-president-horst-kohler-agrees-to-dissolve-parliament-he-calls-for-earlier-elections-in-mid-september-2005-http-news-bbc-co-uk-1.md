@@ -1,9 +1,18 @@
+
+Formats: [HTML](/news/2005/07/21/german-president-horst-kohler-agrees-to-dissolve-parliament-he-calls-for-earlier-elections-in-mid-september-2005-http-news-bbc-co-uk-1.html)  [JSON](/news/2005/07/21/german-president-horst-kohler-agrees-to-dissolve-parliament-he-calls-for-earlier-elections-in-mid-september-2005-http-news-bbc-co-uk-1.json)  [XML](/news/2005/07/21/german-president-horst-kohler-agrees-to-dissolve-parliament-he-calls-for-earlier-elections-in-mid-september-2005-http-news-bbc-co-uk-1.xml)  
+
 ### [2005-07-21](/news/2005/07/21/index.md)
 
+##### Horst Khler
 #  German President Horst Khler agrees to dissolve parliament. He calls for earlier elections in mid-September 2005. [http:--news.bbc.co.uk-1-hi-world-europe-4705425.stm BBC News]. - see German federal election, 2005
 
 
 
+
+### Changes:
+
+1. [ German President Horst Khler agrees to dissolve parliament. He calls for earlier elections in mid-September 2005. ](/news/2005/07/21/german-president-horst-kohler-agrees-to-dissolve-parliament-he-calls-for-earlier-elections-in-mid-september-2005.md) _2017-08-25 03:16:34 (First version)_
+1. [ German President Horst Khler agrees to dissolve parliament. He calls for earlier elections in mid-September 2005. [http:--news.bbc.co.uk-1-hi-world-europe-4705425.stm BBC News]. - see German federal election, 2005](/news/2005/07/21/german-president-horst-kohler-agrees-to-dissolve-parliament-he-calls-for-earlier-elections-in-mid-september-2005-http-news-bbc-co-uk-1.md) _(Current version)_
 
 ### Related:
 
@@ -12,8 +21,3 @@
 3. [ Following the German federal election, 2005, Christian Democrat Angela Merkel will become the next Chancellor of Germany, replacing Social Democrat Gerhard Schroder, although Schroder's party will be the dominant party in the grand coalition.](/news/2005/10/10/following-the-german-federal-election-2005-christian-democrat-angela-merkel-will-become-the-next-chancellor-of-germany-replacing-social.md) _Context: German federal election, 2005_
 4. [ German election 2005: After talks between CDU-CSU and Alliance 90-The Greens, a "Jamaica coalition" between conservatives, liberals and greens is ruled out.](/news/2005/09/23/german-election-2005-after-talks-between-cdu-csu-and-alliance-90-the-greens-a-jamaica-coalition-between-conservatives-liberals-and-gre.md) _Context: German federal election, 2005_
 5. [ Federal elections are held in Germany. Provisional results give the CDU-CSU 35.2% of the vote and 225 seats, the SPD 34.3% and 222 seats, FDP 9.8% and 61 seats, the Left Party 8.7% and 54 seats, and the Green party 8.1% and 51 seats. There is likely to be several weeks of horse trading to form a workable coalition. ](/news/2005/09/18/federal-elections-are-held-in-germany-provisional-results-give-the-cdu-csu-35-2-of-the-vote-and-225-seats-the-spd-34-3-and-222-seats-f.md) _Context: German federal election, 2005_
-
-### Changes:
-
-1. [ German President Horst Khler agrees to dissolve parliament. He calls for earlier elections in mid-September 2005. ](/news/2005/07/21/german-president-horst-kohler-agrees-to-dissolve-parliament-he-calls-for-earlier-elections-in-mid-september-2005.md) _2017-08-25 03:16:34 (First version)_
-1. [ German President Horst Khler agrees to dissolve parliament. He calls for earlier elections in mid-September 2005. [http:--news.bbc.co.uk-1-hi-world-europe-4705425.stm BBC News]. - see German federal election, 2005](/news/2005/07/21/german-president-horst-kohler-agrees-to-dissolve-parliament-he-calls-for-earlier-elections-in-mid-september-2005-http-news-bbc-co-uk-1.md) _(Current version)_

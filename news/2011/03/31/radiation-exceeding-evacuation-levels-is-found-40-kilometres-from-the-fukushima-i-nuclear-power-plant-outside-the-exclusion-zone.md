@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/31/radiation-exceeding-evacuation-levels-is-found-40-kilometres-from-the-fukushima-i-nuclear-power-plant-outside-the-exclusion-zone.html)  [JSON](/news/2011/03/31/radiation-exceeding-evacuation-levels-is-found-40-kilometres-from-the-fukushima-i-nuclear-power-plant-outside-the-exclusion-zone.json)  [XML](/news/2011/03/31/radiation-exceeding-evacuation-levels-is-found-40-kilometres-from-the-fukushima-i-nuclear-power-plant-outside-the-exclusion-zone.xml)  
+
 ### [2011-03-31](/news/2011/03/31/index.md)
 
+##### Fukushima I Nuclear Power Plant
 # Radiation exceeding evacuation levels is found 40 kilometres from the Fukushima I Nuclear Power Plant, outside the exclusion zone. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Herald Sun](http://www.heraldsun.com.au/news/special-reports/radiation-more-than-4000-times-the-safety-limit-found-in-seawater-around-japan-plant/story-fn7zkbgs-1226031464190)
 

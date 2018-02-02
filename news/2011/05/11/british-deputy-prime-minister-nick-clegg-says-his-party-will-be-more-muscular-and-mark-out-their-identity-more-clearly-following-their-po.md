@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/11/british-deputy-prime-minister-nick-clegg-says-his-party-will-be-more-muscular-and-mark-out-their-identity-more-clearly-following-their-po.html)  [JSON](/news/2011/05/11/british-deputy-prime-minister-nick-clegg-says-his-party-will-be-more-muscular-and-mark-out-their-identity-more-clearly-following-their-po.json)  [XML](/news/2011/05/11/british-deputy-prime-minister-nick-clegg-says-his-party-will-be-more-muscular-and-mark-out-their-identity-more-clearly-following-their-po.xml)  
+
 ### [2011-05-11](/news/2011/05/11/index.md)
 
+##### Deputy Prime Minister
 # British Deputy Prime Minister Nick Clegg says his party will be more "muscular" and mark out their identity more clearly, following their poor results in recent council elections and the Scottish Parliament general election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13350469)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52648000/jpg/_52648225_011773253-1.jpg)

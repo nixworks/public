@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/22/russia-bans-arms-sales-to-iran-in-accordance-with-united-nations-security-council-resolution-1929.html)  [JSON](/news/2010/09/22/russia-bans-arms-sales-to-iran-in-accordance-with-united-nations-security-council-resolution-1929.json)  [XML](/news/2010/09/22/russia-bans-arms-sales-to-iran-in-accordance-with-united-nations-security-council-resolution-1929.xml)  
+
 ### [2010-09-22](/news/2010/09/22/index.md)
 
+##### Russia
 # Russia bans arms sales to Iran, in accordance with United Nations Security Council Resolution 1929. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/mlitary_news/20100922/160688354.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/23/c_13525451.htm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/28/the-state-comptroller-of-israel-micha-lindenstrauss-releases-a-report-stating-that-ehud-olmert-made-political-appointments-of-likud-party-m.html)  [JSON](/news/2006/08/28/the-state-comptroller-of-israel-micha-lindenstrauss-releases-a-report-stating-that-ehud-olmert-made-political-appointments-of-likud-party-m.json)  [XML](/news/2006/08/28/the-state-comptroller-of-israel-micha-lindenstrauss-releases-a-report-stating-that-ehud-olmert-made-political-appointments-of-likud-party-m.xml)  
+
 ### [2006-08-28](/news/2006/08/28/index.md)
 
+##### Comptroller
 #  The State Comptroller of Israel Micha Lindenstrauss releases a report stating that Ehud Olmert made political appointments of Likud Party members while serving as Industry & Trade Minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Israel National News](http://www.israelnationalnews.com/news.php3?id=110895)
 

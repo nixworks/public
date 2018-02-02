@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/14/canada-recognises-the-rebel-national-transitional-council-of-libya-as-the-country-s-legitimate-government-with-the-canadian-house-of-commons.html)  [JSON](/news/2011/06/14/canada-recognises-the-rebel-national-transitional-council-of-libya-as-the-country-s-legitimate-government-with-the-canadian-house-of-commons.json)  [XML](/news/2011/06/14/canada-recognises-the-rebel-national-transitional-council-of-libya-as-the-country-s-legitimate-government-with-the-canadian-house-of-commons.xml)  
+
 ### [2011-06-14](/news/2011/06/14/index.md)
 
+##### National Transitional Council
 # Canada recognises the rebel National Transitional Council of Libya as the country's legitimate government with the Canadian House of Commons voting to extend its mission in Libya by three and a half months. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/politics/story/2011/06/14/pol-libya-debate.html)
 1. [Cover Image](https://i.cbc.ca/1.2024138.1381636725!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-libya00396978.jpg)

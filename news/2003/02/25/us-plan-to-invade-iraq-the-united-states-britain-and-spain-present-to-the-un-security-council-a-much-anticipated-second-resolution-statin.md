@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/25/us-plan-to-invade-iraq-the-united-states-britain-and-spain-present-to-the-un-security-council-a-much-anticipated-second-resolution-statin.html)  [JSON](/news/2003/02/25/us-plan-to-invade-iraq-the-united-states-britain-and-spain-present-to-the-un-security-council-a-much-anticipated-second-resolution-statin.json)  [XML](/news/2003/02/25/us-plan-to-invade-iraq-the-united-states-britain-and-spain-present-to-the-un-security-council-a-much-anticipated-second-resolution-statin.xml)  
+
 ### [2003-02-25](/news/2003/02/25/index.md)
 
+##### 2003 invasion of Iraq
 #  US plan to invade Iraq: The United States, Britain and Spain present to the UN Security Council a much-anticipated second resolution stating that Iraq "has failed to take the final opportunity" to disarm, but does not include deadlines or an explicit threat of military force. Meanwhile, France, Germany, and Russia offer a counter-proposal calling for peaceful disarmament through further inspections. Sometime reporter Jeff Gannon, actual name James Guckert, signs in at the White House for the first time, according to Secret Service White House access logs obtained through FOIA by Representatives John Conyers (D-MI) and Louise Slaughter (D-NY).
 
 

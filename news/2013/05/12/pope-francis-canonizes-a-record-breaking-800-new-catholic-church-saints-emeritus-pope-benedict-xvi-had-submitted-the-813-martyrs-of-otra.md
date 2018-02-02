@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/12/pope-francis-canonizes-a-record-breaking-800-new-catholic-church-saints-emeritus-pope-benedict-xvi-had-submitted-the-813-martyrs-of-otra.html)  [JSON](/news/2013/05/12/pope-francis-canonizes-a-record-breaking-800-new-catholic-church-saints-emeritus-pope-benedict-xvi-had-submitted-the-813-martyrs-of-otra.json)  [XML](/news/2013/05/12/pope-francis-canonizes-a-record-breaking-800-new-catholic-church-saints-emeritus-pope-benedict-xvi-had-submitted-the-813-martyrs-of-otra.xml)  
+
 ### [2013-05-12](/news/2013/05/12/index.md)
 
+##### Pope Francis
 # Pope Francis canonizes a record-breaking 800+ new Catholic Church saints - Emeritus Pope Benedict XVI had submitted the 813 "Martyrs of Otranto" who had been beheaded by Ottoman soldiers for refusing to convert to Islam. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Atlantic Wire](http://www.theatlanticwire.com/global/2013/05/pope-francis-names-800-new-saints-one-go/65146/)
 2. [Cleveland Leader](http://www.clevelandleader.com/node/20859)

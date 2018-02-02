@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/18/the-rolling-stones-postpone-their-tours-of-australia-and-new-zealand-following-the-death-of-mick-jagger-s-girlfriend-l-wren-scott.html)  [JSON](/news/2014/03/18/the-rolling-stones-postpone-their-tours-of-australia-and-new-zealand-following-the-death-of-mick-jagger-s-girlfriend-l-wren-scott.json)  [XML](/news/2014/03/18/the-rolling-stones-postpone-their-tours-of-australia-and-new-zealand-following-the-death-of-mick-jagger-s-girlfriend-l-wren-scott.xml)  
+
 ### [2014-03-18](/news/2014/03/18/index.md)
 
+##### Rolling Stones
 # The Rolling Stones postpone their tours of Australia and New Zealand following the death of Mick Jagger's girlfriend L'Wren Scott. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-26638150#)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/73665000/jpg/_73665180_021572129-1.jpg)

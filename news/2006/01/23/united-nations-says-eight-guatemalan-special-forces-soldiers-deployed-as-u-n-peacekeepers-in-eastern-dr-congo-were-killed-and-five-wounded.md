@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/23/united-nations-says-eight-guatemalan-special-forces-soldiers-deployed-as-u-n-peacekeepers-in-eastern-dr-congo-were-killed-and-five-wounded.html)  [JSON](/news/2006/01/23/united-nations-says-eight-guatemalan-special-forces-soldiers-deployed-as-u-n-peacekeepers-in-eastern-dr-congo-were-killed-and-five-wounded.json)  [XML](/news/2006/01/23/united-nations-says-eight-guatemalan-special-forces-soldiers-deployed-as-u-n-peacekeepers-in-eastern-dr-congo-were-killed-and-five-wounded.xml)  
+
 ### [2006-01-23](/news/2006/01/23/index.md)
 
+##### United Nations
 #  United Nations says eight Guatemalan special forces soldiers deployed as U.N. peacekeepers in eastern DR Congo were killed and five wounded in a battle with Ugandan LRA rebels. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-01-23T181104Z_01_L23782549_RTRUKOC_0_US-CONGO-DEMOCRATIC-UN.xml&archived=False)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/1/thumb-ina-cio-lula-da-silva-luaz-ina-cio-lula-da-silva-lula-becomes-the-37th-president-of-the-federative-republic-of-brazil-for-the-p.html)  [JSON](/news/2003/01/1/thumb-ina-cio-lula-da-silva-luaz-ina-cio-lula-da-silva-lula-becomes-the-37th-president-of-the-federative-republic-of-brazil-for-the-p.json)  [XML](/news/2003/01/1/thumb-ina-cio-lula-da-silva-luaz-ina-cio-lula-da-silva-lula-becomes-the-37th-president-of-the-federative-republic-of-brazil-for-the-p.xml)  
+
 ### [2003-01-1](/news/2003/01/1/index.md)
 
+##### thumb|200px|right|[[Luiz Inacio Lula da Silva
 #  thumb Inacio Lula da Silva]]Luiz Inacio Lula da Silva ("Lula") becomes the 37th president of the Federative Republic of Brazil for the period (2003-2007). Da Silva was elected representing the Worker's Party with 61% percent of the vote. His inaugural speech includes vows to wipe out poverty, hunger, and corruption, but da Silva promised during the campaign to abide by an agreement with the International Monetary Fund to maintain a budget surplus of 3.75% and filled key economic posts with men considered friendly to foreign investment. Among guests at the inauguration were Venezuelan President Hugo Chavez, Cuban President Fidel Castro, and U.S. Trade Representative Robert Zoellick.
 
 

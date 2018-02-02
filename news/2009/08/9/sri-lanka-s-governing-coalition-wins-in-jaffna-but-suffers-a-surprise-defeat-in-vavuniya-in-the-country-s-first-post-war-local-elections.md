@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/9/sri-lanka-s-governing-coalition-wins-in-jaffna-but-suffers-a-surprise-defeat-in-vavuniya-in-the-country-s-first-post-war-local-elections.html)  [JSON](/news/2009/08/9/sri-lanka-s-governing-coalition-wins-in-jaffna-but-suffers-a-surprise-defeat-in-vavuniya-in-the-country-s-first-post-war-local-elections.json)  [XML](/news/2009/08/9/sri-lanka-s-governing-coalition-wins-in-jaffna-but-suffers-a-surprise-defeat-in-vavuniya-in-the-country-s-first-post-war-local-elections.xml)  
+
 ### [2009-08-9](/news/2009/08/9/index.md)
 
+##### Sri Lanka
 #  Sri Lanka's governing coalition wins in Jaffna but suffers a surprise defeat in Vavuniya in the country's first post-war local elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jlJMAiPEzFUiJnLayK8_T8QAbTvQ)
 2. [BBC](http://news.bbc.co.uk/go/rss/-/2/hi/south_asia/8191031.stm)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/01/9/new-jersey-governor-chris-christie-apologizes-for-his-senior-aides-intentionally-causing-a-traffic-jam-on-the-george-washington-bridge-for-p.html)  [JSON](/news/2014/01/9/new-jersey-governor-chris-christie-apologizes-for-his-senior-aides-intentionally-causing-a-traffic-jam-on-the-george-washington-bridge-for-p.json)  [XML](/news/2014/01/9/new-jersey-governor-chris-christie-apologizes-for-his-senior-aides-intentionally-causing-a-traffic-jam-on-the-george-washington-bridge-for-p.xml)  
+
 ### [2014-01-9](/news/2014/01/9/index.md)
 
+##### New Jersey Governor
 # New Jersey Governor Chris Christie apologizes for his senior aides intentionally causing a traffic jam on the George Washington Bridge for political retribution in September 2013. 
 
 New Jersey Governor Chris Christie on Thursday fired a top aide who apparently helped orchestrate massive traffic jams at a busy commuter bridge to settle a score, saying he had been blindsided in the scandal that threatened to tarnish his political image.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/01/09/us-usa-newjersey-bridge-christie-idUSBREA080MB20140109)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140109&t=2&i=828155646&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA081ESW00)
+1. [Reuters](https://www.reuters.com/article/2014/01/09/us-usa-newjersey-bridge-christie-idUSBREA080MB20140109)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140109&t=2&i=828155646&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA081ESW00)
 
 ### Related:
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/07/24/fuad-masum-is-elected-as-the-7th-president-of-iraq.html)  [JSON](/news/2014/07/24/fuad-masum-is-elected-as-the-7th-president-of-iraq.json)  [XML](/news/2014/07/24/fuad-masum-is-elected-as-the-7th-president-of-iraq.xml)  
+
 ### [2014-07-24](/news/2014/07/24/index.md)
 
+##### Fuad Masum
 # Fuad Masum is elected as the 7th President of Iraq. 
 
 Vote comes as violence continues to tear country apart
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-middle-east-28466079)
-2. [The Washington Post](http://www.washingtonpost.com/world/middle_east/veteran-kurdish-politician-elected-president-of-iraq/2014/07/24/28448523-487b-4091-a4f1-fb7eefb87899_story.html)
+2. [The Washington Post](https://www.washingtonpost.com/world/middle_east/veteran-kurdish-politician-elected-president-of-iraq/2014/07/24/28448523-487b-4091-a4f1-fb7eefb87899_story.html)
 2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/76492000/jpg/_76492131_76492130.jpg)
 
 ### Related:

@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/08/25/fourteen-people-are-arrested-in-spain-and-morocco-for-allegedly-trying-to-recruit-people-to-isil.html)  [JSON](/news/2015/08/25/fourteen-people-are-arrested-in-spain-and-morocco-for-allegedly-trying-to-recruit-people-to-isil.json)  [XML](/news/2015/08/25/fourteen-people-are-arrested-in-spain-and-morocco-for-allegedly-trying-to-recruit-people-to-isil.xml)  
+
 ### [2015-08-25](/news/2015/08/25/index.md)
 
+##### Islamic State in Iraq and the Levant
 # Fourteen people are arrested in Spain and Morocco for allegedly trying to recruit people to ISIL. 
 
 Authorities crack down on recruiters working with the Islamic State group to send foreign fighters to Syria
 
 
-### Source:
+### Sources:
 
 1. [The Times of Israel](http://www.timesofisrael.com/14-held-in-anti-terror-raids-in-spain-and-morocco/)
 1. [Cover Image](http://cdn.timesofisrael.com/uploads/2015/02/isguys1.jpg)
+
+### Changes:
+
+1. [Islamic State in Iraq and the Levant: Fourteen people are arrested in Spain and Morocco for allegedly trying to recruit people to ISIL. ](/news/2015/08/25/islamic-state-in-iraq-and-the-levant-fourteen-people-are-arrested-in-spain-and-morocco-for-allegedly-trying-to-recruit-people-to-isil.md) _2017-08-27 03:42:54 (First version)_
+1. [Fourteen people are arrested in Spain and Morocco for allegedly trying to recruit people to ISIL. ](/news/2015/08/25/fourteen-people-are-arrested-in-spain-and-morocco-for-allegedly-trying-to-recruit-people-to-isil.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Authorities crack down on recruiters working with the Islamic State group to sen
 3. [Four-hundred African migrants charge past Moroccan border forces by throwing rocks, trying to storm border fences separating Spain's North African enclave Melilla, but Spanish guards repel them. ](/news/2015/02/1/four-hundred-african-migrants-charge-past-moroccan-border-forces-by-throwing-rocks-trying-to-storm-border-fences-separating-spain-s-north-a.md) _Context: Morocco, Spain_
 4. [Thousands of people protest in Spain against a raid by Moroccan authorities in a camp in the disputed Western Sahara. ](/news/2010/11/14/thousands-of-people-protest-in-spain-against-a-raid-by-moroccan-authorities-in-a-camp-in-the-disputed-western-sahara.md) _Context: Morocco, Spain_
 5. [Airports in Morocco, Spain and Portugal reopen after days of Icelandic volcanic disruption. ](/news/2010/05/12/airports-in-morocco-spain-and-portugal-reopen-after-days-of-icelandic-volcanic-disruption.md) _Context: Morocco, Spain_
-
-### Changes:
-
-1. [Islamic State in Iraq and the Levant: Fourteen people are arrested in Spain and Morocco for allegedly trying to recruit people to ISIL. ](/news/2015/08/25/islamic-state-in-iraq-and-the-levant-fourteen-people-are-arrested-in-spain-and-morocco-for-allegedly-trying-to-recruit-people-to-isil.md) _2017-08-27 03:42:54 (First version)_
-1. [Fourteen people are arrested in Spain and Morocco for allegedly trying to recruit people to ISIL. ](/news/2015/08/25/fourteen-people-are-arrested-in-spain-and-morocco-for-allegedly-trying-to-recruit-people-to-isil.md) _(Current version)_

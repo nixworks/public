@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/5/two-government-ministers-in-oman-are-replaced-amid-ongoing-demonstrations-in-the-country.html)  [JSON](/news/2011/03/5/two-government-ministers-in-oman-are-replaced-amid-ongoing-demonstrations-in-the-country.json)  [XML](/news/2011/03/5/two-government-ministers-in-oman-are-replaced-amid-ongoing-demonstrations-in-the-country.xml)  
+
 ### [2011-03-5](/news/2011/03/5/index.md)
 
+##### Oman
 # Two government ministers in Oman are replaced amid ongoing demonstrations in the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE7241SK20110305?sp=true)
 

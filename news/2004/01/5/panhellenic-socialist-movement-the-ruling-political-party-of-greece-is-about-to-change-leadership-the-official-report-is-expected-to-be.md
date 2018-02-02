@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/5/panhellenic-socialist-movement-the-ruling-political-party-of-greece-is-about-to-change-leadership-the-official-report-is-expected-to-be.html)  [JSON](/news/2004/01/5/panhellenic-socialist-movement-the-ruling-political-party-of-greece-is-about-to-change-leadership-the-official-report-is-expected-to-be.json)  [XML](/news/2004/01/5/panhellenic-socialist-movement-the-ruling-political-party-of-greece-is-about-to-change-leadership-the-official-report-is-expected-to-be.xml)  
+
 ### [2004-01-5](/news/2004/01/5/index.md)
 
+##### PASOK
 #  Panhellenic Socialist Movement, the ruling political party of Greece, is about to change leadership. The official report is expected to be published on January 7, 2004. It is expected by many that the new leader will be George Papandreou, junior. See and (Greek)
 
 

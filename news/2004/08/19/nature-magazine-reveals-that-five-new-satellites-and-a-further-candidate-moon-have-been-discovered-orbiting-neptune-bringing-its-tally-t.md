@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/19/nature-magazine-reveals-that-five-new-satellites-and-a-further-candidate-moon-have-been-discovered-orbiting-neptune-bringing-its-tally-t.html)  [JSON](/news/2004/08/19/nature-magazine-reveals-that-five-new-satellites-and-a-further-candidate-moon-have-been-discovered-orbiting-neptune-bringing-its-tally-t.json)  [XML](/news/2004/08/19/nature-magazine-reveals-that-five-new-satellites-and-a-further-candidate-moon-have-been-discovered-orbiting-neptune-bringing-its-tally-t.xml)  
+
 ### [2004-08-19](/news/2004/08/19/index.md)
 
+##### ''Nature''
 #  "Nature" magazine reveals that five new satellites and a further candidate moon have been discovered orbiting Neptune, bringing its tally to 13. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/3578210.stm)
 

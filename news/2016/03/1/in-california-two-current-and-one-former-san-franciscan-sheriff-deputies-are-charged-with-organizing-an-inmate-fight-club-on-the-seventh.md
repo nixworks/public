@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/1/in-california-two-current-and-one-former-san-fra
 
 ### [2016-03-1](/news/2016/03/1/index.md)
 
+##### San Franciscan sheriff deputies
 # In California, two current and one former San Franciscan sheriff deputies, are charged with organizing an inmate "fight club" on the seventh floor of the city's Hall of Justice jail. 
 
 Prosecutors charged two San Francisco sheriff’s deputies and a former deputy Tuesday with participating in a “fight club” in which jail inmates were forced to pummel each other while the guards watched.

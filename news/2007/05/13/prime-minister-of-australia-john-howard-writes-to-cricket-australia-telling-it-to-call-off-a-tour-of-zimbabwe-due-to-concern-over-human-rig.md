@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/13/prime-minister-of-australia-john-howard-writes-to-cricket-australia-telling-it-to-call-off-a-tour-of-zimbabwe-due-to-concern-over-human-rig.html)  [JSON](/news/2007/05/13/prime-minister-of-australia-john-howard-writes-to-cricket-australia-telling-it-to-call-off-a-tour-of-zimbabwe-due-to-concern-over-human-rig.json)  [XML](/news/2007/05/13/prime-minister-of-australia-john-howard-writes-to-cricket-australia-telling-it-to-call-off-a-tour-of-zimbabwe-due-to-concern-over-human-rig.xml)  
+
 ### [2007-05-13](/news/2007/05/13/index.md)
 
+##### Australian Prime Minister
 #  Prime Minister of Australia John Howard writes to Cricket Australia telling it to call off a tour of Zimbabwe due to concern over human rights abuses in that country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200705/s1921510.htm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/1/large-explosions-and-gunfire-are-reported-in-the
 
 ### [2016-09-1](/news/2016/09/1/index.md)
 
+##### 2016 Gabonese protests
 # Large explosions and gunfire are reported in the Gabonese capital Libreville as security forces clash with supporters of opposition presidential candidate Jean Ping protesting the election results indicating a narrow victory by President Ali Bongo Ondimba. 
 
 

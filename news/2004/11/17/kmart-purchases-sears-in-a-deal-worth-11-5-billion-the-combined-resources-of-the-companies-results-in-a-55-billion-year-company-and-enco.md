@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/11/17/kmart-purchases-sears-in-a-deal-worth-11-5-billion-the-combined-resources-of-the-companies-results-in-a-55-billion-year-company-and-enco.html)  [JSON](/news/2004/11/17/kmart-purchases-sears-in-a-deal-worth-11-5-billion-the-combined-resources-of-the-companies-results-in-a-55-billion-year-company-and-enco.json)  [XML](/news/2004/11/17/kmart-purchases-sears-in-a-deal-worth-11-5-billion-the-combined-resources-of-the-companies-results-in-a-55-billion-year-company-and-enco.xml)  
+
 ### [2004-11-17](/news/2004/11/17/index.md)
 
+##### Kmart
 #  Kmart purchases Sears in a deal worth $11.5 billion. The combined resources of the companies results in a $55 billion-year company and encompasses close to 3,500 stores. 
 
-Business news & Financial news from Reuters.com.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/financeNewsArticle.jhtml?type=bondsNews&storyID=6844476)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/financeNewsArticle.jhtml?type=bondsNews&storyID=6844476)
 
 ### Related:
 

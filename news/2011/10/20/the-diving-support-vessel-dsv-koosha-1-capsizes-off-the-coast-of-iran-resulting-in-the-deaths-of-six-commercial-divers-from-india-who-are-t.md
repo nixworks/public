@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/20/the-diving-support-vessel-dsv-koosha-1-capsizes-off-the-coast-of-iran-resulting-in-the-deaths-of-six-commercial-divers-from-india-who-are-t.html)  [JSON](/news/2011/10/20/the-diving-support-vessel-dsv-koosha-1-capsizes-off-the-coast-of-iran-resulting-in-the-deaths-of-six-commercial-divers-from-india-who-are-t.json)  [XML](/news/2011/10/20/the-diving-support-vessel-dsv-koosha-1-capsizes-off-the-coast-of-iran-resulting-in-the-deaths-of-six-commercial-divers-from-india-who-are-t.xml)  
+
 ### [2011-10-20](/news/2011/10/20/index.md)
 
+##### diving support vessel
 # The diving support vessel DSV Koosha 1 capsizes off the coast of Iran, resulting in the deaths of six commercial divers from India who are trapped in the vessel's diving chamber when the boat sinks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [DNA India](http://www.dnaindia.com/india/1602719/report-six-indian-divers-die-off-iran-coast)
 

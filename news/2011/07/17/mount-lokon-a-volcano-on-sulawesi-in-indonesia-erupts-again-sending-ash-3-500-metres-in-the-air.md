@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/17/mount-lokon-a-volcano-on-sulawesi-in-indonesia-erupts-again-sending-ash-3-500-metres-in-the-air.html)  [JSON](/news/2011/07/17/mount-lokon-a-volcano-on-sulawesi-in-indonesia-erupts-again-sending-ash-3-500-metres-in-the-air.json)  [XML](/news/2011/07/17/mount-lokon-a-volcano-on-sulawesi-in-indonesia-erupts-again-sending-ash-3-500-metres-in-the-air.xml)  
+
 ### [2011-07-17](/news/2011/07/17/index.md)
 
+##### Mount Lokon
 # Mount Lokon, a volcano on Sulawesi in Indonesia erupts again sending ash 3,500 metres in the air. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5huvR-GzGE23KazCtRS0g9w1yyHLw?docId=CNG.2b4f6fd7caf05132cb9f1b6338bac556.6e1)
 

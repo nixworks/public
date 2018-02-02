@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/10/iran-confirms-receipt-of-saudi-arabian-invitati
 
 ### [2017-01-10](/news/2017/01/10/index.md)
 
+##### Iran-Saudi Arabia relations
 # Iran confirms receipt of Saudi Arabian invitation to discuss bilateral talk for Hajj-2017. The Iranian delegation is expected to travel to Saudi Arabia on 23 February this year for participation in the next pilgrimage. 
 
 TEHRAN:&nbsp;Iran said Tuesday it had finally received an official invitation from Saudi Arabia for its pilgrims to attend this year&acute;s hajj, two weeks after Riyadh announced it. There was no...

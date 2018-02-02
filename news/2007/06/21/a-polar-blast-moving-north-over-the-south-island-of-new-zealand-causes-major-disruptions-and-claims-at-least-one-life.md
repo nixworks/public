@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/21/a-polar-blast-moving-north-over-the-south-island-of-new-zealand-causes-major-disruptions-and-claims-at-least-one-life.html)  [JSON](/news/2007/06/21/a-polar-blast-moving-north-over-the-south-island-of-new-zealand-causes-major-disruptions-and-claims-at-least-one-life.json)  [XML](/news/2007/06/21/a-polar-blast-moving-north-over-the-south-island-of-new-zealand-causes-major-disruptions-and-claims-at-least-one-life.xml)  
+
 ### [2007-06-21](/news/2007/06/21/index.md)
 
+##### polar blast moving north
 #  A polar blast moving north over the South Island of New Zealand causes major disruptions and claims at least one life. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [One](http://tvnz.co.nz/view/page/411749/1193603)
 

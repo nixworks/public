@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/07/26/former-chinese-political-leader-bo-xilai-s-wife-gu-kailai-and-their-employee-zhang-xiaojun-are-charged-with-murder-of-british-businessman.html)  [JSON](/news/2012/07/26/former-chinese-political-leader-bo-xilai-s-wife-gu-kailai-and-their-employee-zhang-xiaojun-are-charged-with-murder-of-british-businessman.json)  [XML](/news/2012/07/26/former-chinese-political-leader-bo-xilai-s-wife-gu-kailai-and-their-employee-zhang-xiaojun-are-charged-with-murder-of-british-businessman.xml)  
+
 ### [2012-07-26](/news/2012/07/26/index.md)
 
+##### Bo Xilai
 # Former Chinese political leader Bo Xilai's wife, Gu Kailai, and their employee Zhang Xiaojun are charged with murder of British businessman Neil Heywood. 
 
 The wife of disgraced Chinese political leader Bo Xilai is charged with murdering UK businessman Neil Heywood, state news agency Xinhua reports.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-18996032)
-2. [Reuters](http://www.reuters.com/article/2012/07/26/us-china-politics-bo-idUSBRE86P0KX20120726)
+2. [Reuters](https://www.reuters.com/article/2012/07/26/us-china-politics-bo-idUSBRE86P0KX20120726)
 2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61823000/jpg/_61823884_aql0vvkp.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/26/the-us-eastern-district-court-of-virginia-convicts-a-disgruntled-former-cia-officer-jeffrey-alexander-sterling-of-leaking-secrets-to-a-rep.html)  [JSON](/news/2015/01/26/the-us-eastern-district-court-of-virginia-convicts-a-disgruntled-former-cia-officer-jeffrey-alexander-sterling-of-leaking-secrets-to-a-rep.json)  [XML](/news/2015/01/26/the-us-eastern-district-court-of-virginia-convicts-a-disgruntled-former-cia-officer-jeffrey-alexander-sterling-of-leaking-secrets-to-a-rep.xml)  
+
 ### [2015-01-26](/news/2015/01/26/index.md)
 
+##### US Eastern District Court of Virginia
 # The US Eastern District Court of Virginia convicts a disgruntled former CIA officer, Jeffrey Alexander Sterling, of leaking secrets to a reporter. All nine charges he faced stem from a secret CIA mission to derail Iran's nuclear weapons program. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/c19aa60a775f47549399a22413728e4d/ex-cia-officer-convicted-leaking-secrets-reporter)
 

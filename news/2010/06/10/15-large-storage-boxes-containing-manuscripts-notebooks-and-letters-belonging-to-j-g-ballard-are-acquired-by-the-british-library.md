@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/06/10/15-large-storage-boxes-containing-manuscripts-notebooks-and-letters-belonging-to-j-g-ballard-are-acquired-by-the-british-library.html)  [JSON](/news/2010/06/10/15-large-storage-boxes-containing-manuscripts-notebooks-and-letters-belonging-to-j-g-ballard-are-acquired-by-the-british-library.json)  [XML](/news/2010/06/10/15-large-storage-boxes-containing-manuscripts-notebooks-and-letters-belonging-to-j-g-ballard-are-acquired-by-the-british-library.xml)  
+
 ### [2010-06-10](/news/2010/06/10/index.md)
 
+##### J. G. Ballard
 # 15 large storage boxes containing manuscripts, notebooks and letters belonging to J. G. Ballard are acquired by the British Library. 
 
 An &quot;extraordinary insight&quot; into Empire of the Sun author JG Ballard is acquired by the British Library.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment_and_arts/10282095.stm)
 2. [The Guardian](http://www.guardian.co.uk/books/2010/jun/10/jg-ballard-archive-british-library)
-3. [The Independent](http://www.independent.co.uk/news/people/news/mysterious-to-the-end-jg-ballards-daughters-reveal-his-secret-archive-1997337.html)
+3. [The Independent](https://www.independent.co.uk/news/people/news/mysterious-to-the-end-jg-ballards-daughters-reveal-his-secret-archive-1997337.html)
 3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/48038000/jpg/_48038365_ball_466_1.jpg)
 
 ### Related:

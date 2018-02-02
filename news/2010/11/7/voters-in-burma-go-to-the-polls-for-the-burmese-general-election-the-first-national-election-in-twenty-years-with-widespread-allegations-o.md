@@ -1,17 +1,27 @@
+
+Formats: [HTML](/news/2010/11/7/voters-in-burma-go-to-the-polls-for-the-burmese-general-election-the-first-national-election-in-twenty-years-with-widespread-allegations-o.html)  [JSON](/news/2010/11/7/voters-in-burma-go-to-the-polls-for-the-burmese-general-election-the-first-national-election-in-twenty-years-with-widespread-allegations-o.json)  [XML](/news/2010/11/7/voters-in-burma-go-to-the-polls-for-the-burmese-general-election-the-first-national-election-in-twenty-years-with-widespread-allegations-o.xml)  
+
 ### [2010-11-7](/news/2010/11/7/index.md)
 
+##### Burma
 # Voters in Burma go to the polls for the Burmese general election, the first national election in twenty years, with widespread allegations of intimidation and fraud. 
 
 Allegations of fraud and voter intimidation are overshadowing Burma&#039;s first election in 20 years.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/11/08/3059556.htm?section=justin)
 2. [ABC](http://www.abc.net.au/news/stories/2010/11/07/3059390.htm?section=justin)
 3. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/11/20101170373336867.html)
 4. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11704738)
 4. [Cover Image](http://www.abc.net.au/news/image/2321102-1x1-700x700.jpg)
+
+### Changes:
+
+1. [Burmese electionVoters in Burma go to the polls for the Burmese general election, the first national election in twenty years, with widespread allegations of intimidation and fraud. ](/news/2010/11/7/burmese-electionpvoters-in-burma-go-to-the-polls-for-the-burmese-general-election-the-first-national-election-in-twenty-years-with-widespr.md) _2017-08-25 03:30:54 (First version)_
+2. [Burmese election: Voters in Burma go to the polls for the Burmese general election, the first national election in twenty years, with widespread allegations of intimidation and fraud. ](/news/2010/11/7/burmese-election-voters-in-burma-go-to-the-polls-for-the-burmese-general-election-the-first-national-election-in-twenty-years-with-widesp.md) _2017-08-27 03:31:01 (Update)_
+2. [Voters in Burma go to the polls for the Burmese general election, the first national election in twenty years, with widespread allegations of intimidation and fraud. ](/news/2010/11/7/voters-in-burma-go-to-the-polls-for-the-burmese-general-election-the-first-national-election-in-twenty-years-with-widespread-allegations-o.md) _(Current version)_
 
 ### Related:
 
@@ -20,9 +30,3 @@ Allegations of fraud and voter intimidation are overshadowing Burma&#039;s first
 3. [Opposition parties in Burma accuse the military junta of "cheating" and "threatening" voters ahead of the general election on Sunday. ](/news/2010/11/6/opposition-parties-in-burma-accuse-the-military-junta-of-cheating-and-threatening-voters-ahead-of-the-general-election-on-sunday.md) _Context: Burma, general elections_
 4. [Six armed ethnic groups in Burma join forces, fearing they will be attacked by the military government after the general election on Sunday. ](/news/2010/11/4/six-armed-ethnic-groups-in-burma-join-forces-fearing-they-will-be-attacked-by-the-military-government-after-the-general-election-on-sunday.md) _Context: Burma, general elections_
 5. [An ongoing denial-of-service cyber attack knocks Burma off the internet, days ahead of the general election. ](/news/2010/11/4/an-ongoing-denial-of-service-cyber-attack-knocks-burma-off-the-internet-days-ahead-of-the-general-election.md) _Context: Burma, general elections_
-
-### Changes:
-
-1. [Burmese electionVoters in Burma go to the polls for the Burmese general election, the first national election in twenty years, with widespread allegations of intimidation and fraud. ](/news/2010/11/7/burmese-electionpvoters-in-burma-go-to-the-polls-for-the-burmese-general-election-the-first-national-election-in-twenty-years-with-widespr.md) _2017-08-25 03:30:54 (First version)_
-2. [Burmese election: Voters in Burma go to the polls for the Burmese general election, the first national election in twenty years, with widespread allegations of intimidation and fraud. ](/news/2010/11/7/burmese-election-voters-in-burma-go-to-the-polls-for-the-burmese-general-election-the-first-national-election-in-twenty-years-with-widesp.md) _2017-08-27 03:31:01 (Update)_
-2. [Voters in Burma go to the polls for the Burmese general election, the first national election in twenty years, with widespread allegations of intimidation and fraud. ](/news/2010/11/7/voters-in-burma-go-to-the-polls-for-the-burmese-general-election-the-first-national-election-in-twenty-years-with-widespread-allegations-o.md) _(Current version)_

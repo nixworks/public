@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/6/mark-durkan-former-deputy-first-minister-of-northern-ireland-resigns-as-leader-of-the-social-democratic-and-labour-party-sdlp.html)  [JSON](/news/2010/02/6/mark-durkan-former-deputy-first-minister-of-northern-ireland-resigns-as-leader-of-the-social-democratic-and-labour-party-sdlp.json)  [XML](/news/2010/02/6/mark-durkan-former-deputy-first-minister-of-northern-ireland-resigns-as-leader-of-the-social-democratic-and-labour-party-sdlp.xml)  
+
 ### [2010-02-6](/news/2010/02/6/index.md)
 
+##### Mark Durkan
 # Mark Durkan, former Deputy First Minister of Northern Ireland, resigns as leader of the Social Democratic and Labour Party (SDLP). 
 
 As Mark Durkan steps down after nine years as the leader of the SDLP, Noel McAdam looks at his legacy
 
 
-### Source:
+### Sources:
 
 1. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/politics/no-more-mr-nice-guy-as-mark-durkan-era-ends-14668762.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/weekend/2010/0206/1224263870656.html)

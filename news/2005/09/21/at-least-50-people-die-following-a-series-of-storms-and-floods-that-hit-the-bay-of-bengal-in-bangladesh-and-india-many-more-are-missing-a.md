@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/21/at-least-50-people-die-following-a-series-of-storms-and-floods-that-hit-the-bay-of-bengal-in-bangladesh-and-india-many-more-are-missing-a.html)  [JSON](/news/2005/09/21/at-least-50-people-die-following-a-series-of-storms-and-floods-that-hit-the-bay-of-bengal-in-bangladesh-and-india-many-more-are-missing-a.json)  [XML](/news/2005/09/21/at-least-50-people-die-following-a-series-of-storms-and-floods-that-hit-the-bay-of-bengal-in-bangladesh-and-india-many-more-are-missing-a.xml)  
+
 ### [2005-09-21](/news/2005/09/21/index.md)
 
+##### Bay of Bengal
 #  At least 50 people die following a series of storms and floods that hit the Bay of Bengal in Bangladesh and India; many more are missing, and officials fear for the safety of over a hundred fishermen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4266580.stm)
 

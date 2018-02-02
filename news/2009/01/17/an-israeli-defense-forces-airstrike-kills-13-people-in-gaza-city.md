@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/17/an-israeli-defense-forces-airstrike-kills-13-people-in-gaza-city.html)  [JSON](/news/2009/01/17/an-israeli-defense-forces-airstrike-kills-13-people-in-gaza-city.json)  [XML](/news/2009/01/17/an-israeli-defense-forces-airstrike-kills-13-people-in-gaza-city.xml)  
+
 ### [2009-01-17](/news/2009/01/17/index.md)
 
+##### Israel
 #  An Israeli Defense Forces airstrike kills 13 people in Gaza City. 
 
 Israeli troops, some smiling and dancing, began to withdraw from Gaza Sunday after their government and Hamas militants declared an end to a three-week war. 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/28651944/)
 1. [Cover Image](http://media4.s-nbcnews.com/j/MSNBC/Components/Photo/_new/090118-israeltroops-hmed-3p.standard.jpg)

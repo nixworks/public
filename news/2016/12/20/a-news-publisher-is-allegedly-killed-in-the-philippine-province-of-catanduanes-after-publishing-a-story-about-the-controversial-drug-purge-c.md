@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/20/a-news-publisher-is-allegedly-killed-in-the-phi
 
 ### [2016-12-20](/news/2016/12/20/index.md)
 
+##### drug crackdown
 # A news publisher is allegedly killed in the Philippine province of Catanduanes after publishing a story about the controversial drug purge campaign. 
 
 

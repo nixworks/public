@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/14/a-british-army-soldier-from-2nd-battalion-the-parachute-regiment-is-killed-in-an-explosion-in-afghanistan.html)  [JSON](/news/2011/02/14/a-british-army-soldier-from-2nd-battalion-the-parachute-regiment-is-killed-in-an-explosion-in-afghanistan.json)  [XML](/news/2011/02/14/a-british-army-soldier-from-2nd-battalion-the-parachute-regiment-is-killed-in-an-explosion-in-afghanistan.xml)  
+
 ### [2011-02-14](/news/2011/02/14/index.md)
 
+##### British Army
 # A British Army soldier from 2nd Battalion, The Parachute Regiment is killed in an explosion in Afghanistan. 
 
 A soldier from 2nd Battalion, The Parachute Regiment has been killed in an explosion in Afghanistan, the Ministry of Defence says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-12460051)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

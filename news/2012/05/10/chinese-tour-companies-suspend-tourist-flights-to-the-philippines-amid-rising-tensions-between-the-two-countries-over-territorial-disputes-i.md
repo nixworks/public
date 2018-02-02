@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/10/chinese-tour-companies-suspend-tourist-flights-to-the-philippines-amid-rising-tensions-between-the-two-countries-over-territorial-disputes-i.html)  [JSON](/news/2012/05/10/chinese-tour-companies-suspend-tourist-flights-to-the-philippines-amid-rising-tensions-between-the-two-countries-over-territorial-disputes-i.json)  [XML](/news/2012/05/10/chinese-tour-companies-suspend-tourist-flights-to-the-philippines-amid-rising-tensions-between-the-two-countries-over-territorial-disputes-i.xml)  
+
 ### [2012-05-10](/news/2012/05/10/index.md)
 
+##### China
 # Chinese tour companies suspend tourist flights to the Philippines amid rising tensions between the two countries over territorial disputes in the South China Sea. 
 
 Most travel agencies in China are suspending tours to the Philippines amid tension over a stand-off in the South China Sea, Chinese state media say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18015538)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60135000/jpg/_60135020_magpodll.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/1/general-elections-are-held-in-bosnia-and-herzegovina.html)  [JSON](/news/2006/10/1/general-elections-are-held-in-bosnia-and-herzegovina.json)  [XML](/news/2006/10/1/general-elections-are-held-in-bosnia-and-herzegovina.xml)  
+
 ### [2006-10-1](/news/2006/10/1/index.md)
 
+##### General elections
 #  General elections are held in Bosnia and Herzegovina 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/5396984.stm)
 

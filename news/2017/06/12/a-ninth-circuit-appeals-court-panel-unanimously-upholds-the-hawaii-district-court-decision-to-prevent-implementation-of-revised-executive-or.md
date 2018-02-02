@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/12/a-ninth-circuit-appeals-court-panel-unanimously
 
 ### [2017-06-12](/news/2017/06/12/index.md)
 
+##### United States immigration policy
 # A Ninth Circuit Appeals Court panel unanimously upholds the Hawaii district court decision to prevent implementation of revised Executive Order 13780. On May 25, the Fourth Circuit Appeals Court affirmed a similar ruling by the Maryland district court. 
 
 The 9th U.S. Circuit Court of Appeals upheld an earlier decision by a federal judge in Hawaii to block the government from enforcing Trump&#x27;s executive order.

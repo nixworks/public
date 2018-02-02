@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/12/canadian-federal-election-2004-stephen-harper-announces-his-entry-into-the-race-to-lead-the-new-conservative-party-of-canada-earlier-tod.html)  [JSON](/news/2004/01/12/canadian-federal-election-2004-stephen-harper-announces-his-entry-into-the-race-to-lead-the-new-conservative-party-of-canada-earlier-tod.json)  [XML](/news/2004/01/12/canadian-federal-election-2004-stephen-harper-announces-his-entry-into-the-race-to-lead-the-new-conservative-party-of-canada-earlier-tod.xml)  
+
 ### [2004-01-12](/news/2004/01/12/index.md)
 
+##### 2004 federal election
 #  Canadian federal election, 2004: Stephen Harper announces his entry into the race to lead the new Conservative Party of Canada. Earlier today, Jim Prentice drops out of the leadership contest, citing a lack of funds.
 
 

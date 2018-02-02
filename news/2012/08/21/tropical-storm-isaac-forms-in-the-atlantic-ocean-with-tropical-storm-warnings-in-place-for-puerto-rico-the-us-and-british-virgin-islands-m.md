@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/21/tropical-storm-isaac-forms-in-the-atlantic-ocean-with-tropical-storm-warnings-in-place-for-puerto-rico-the-us-and-british-virgin-islands-m.html)  [JSON](/news/2012/08/21/tropical-storm-isaac-forms-in-the-atlantic-ocean-with-tropical-storm-warnings-in-place-for-puerto-rico-the-us-and-british-virgin-islands-m.json)  [XML](/news/2012/08/21/tropical-storm-isaac-forms-in-the-atlantic-ocean-with-tropical-storm-warnings-in-place-for-puerto-rico-the-us-and-british-virgin-islands-m.xml)  
+
 ### [2012-08-21](/news/2012/08/21/index.md)
 
+##### Tropical Storm Leslie
 # Tropical Storm Isaac forms in the Atlantic Ocean with tropical storm warnings in place for Puerto Rico, the US and British Virgin Islands, Martinique, Dominica, Guadeloupe, St Martin, St Kitts, Nevis, Antigua, Barbuda, Montserrat, Anguilla, Saba, St Eustatius, St Maarten, Culebra and Vieques. 
 
 FORECASTERS say tropical storm Isaac continues to move west toward the Caribbean on a track that could possibly take it toward Florida, where the Republican National Convention is to be held next week.
 
 
-### Source:
+### Sources:
 
 1. [AAP via News Limited](http://www.news.com.au/breaking-news/world/tropical-storm-isaac-heads-for-caribbean/story-e6frfkui-1226455829704?from=public_rss)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

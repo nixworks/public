@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/11/a-migrant-boat-sinks-in-the-channel-of-sicily-with-at-least-27-people-dead-but-over-200-rescued.html)  [JSON](/news/2013/10/11/a-migrant-boat-sinks-in-the-channel-of-sicily-with-at-least-27-people-dead-but-over-200-rescued.json)  [XML](/news/2013/10/11/a-migrant-boat-sinks-in-the-channel-of-sicily-with-at-least-27-people-dead-but-over-200-rescued.xml)  
+
 ### [2013-10-11](/news/2013/10/11/index.md)
 
+##### migrant boat sinks
 # A migrant boat sinks in the Channel of Sicily with at least 27 people dead but over 200 rescued. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ANSA](http://www.ansa.it/web/notizie/rubriche/english/2013/10/11/Migrant-boat-trouble-people-sea-Channel-Sicily_9447322.html)
 2. [AP via ''Houston Chronicle](http://www.chron.com/news/world/article/Another-migrant-ship-capsizes-off-Italy-27-dead-4888133.php)

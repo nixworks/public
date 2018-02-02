@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/26/at-least-14-indian-army-soldiers-and-four-civil
 
 ### [2017-01-26](/news/2017/01/26/index.md)
 
+##### Indian Army
 # At least 14 Indian Army soldiers and four civilians are killed in a series of avalanches near the Line of Control in Jammu and Kashmir. 
 
 The troops died in two separate incidents near the Line of Control dividing the disputed territory.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/7/a-man-holds-thirty-children-and-teachers-hostage-in-a-kindergarten-in-the-city-of-muar-in-malaysia-s-johor-state-the-hostages-are-all-later.html)  [JSON](/news/2011/07/7/a-man-holds-thirty-children-and-teachers-hostage-in-a-kindergarten-in-the-city-of-muar-in-malaysia-s-johor-state-the-hostages-are-all-later.json)  [XML](/news/2011/07/7/a-man-holds-thirty-children-and-teachers-hostage-in-a-kindergarten-in-the-city-of-muar-in-malaysia-s-johor-state-the-hostages-are-all-later.xml)  
+
 ### [2011-07-7](/news/2011/07/7/index.md)
 
+##### Muar
 # A man holds thirty children and teachers hostage in a kindergarten in the city of Muar in Malaysia's Johor state; the hostages are all later rescued when police storm the classroom. 
 
 Malaysian police stormed a preschool on Thursday to free 30 children and four teachers held hostage by a man armed with a hammer and a machete. 
 
 
-### Source:
+### Sources:
 
 1. [Edmonton Sun](http://www.edmontonsun.com/2011/07/07/malaysia-police-storm-preschool-free-30-children)
 1. [Cover Image](http://storage.edmontonsun.com/v1/suns-prod-images/1297179047338_LARGE_BOX.jpg?quality=80&stmp=1490853876050)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/29/moqtada-al-sadr-suspends-the-activities-of-his-mehdi-army-militia-in-iraq-for-six-months.html)  [JSON](/news/2007/08/29/moqtada-al-sadr-suspends-the-activities-of-his-mehdi-army-militia-in-iraq-for-six-months.json)  [XML](/news/2007/08/29/moqtada-al-sadr-suspends-the-activities-of-his-mehdi-army-militia-in-iraq-for-six-months.xml)  
+
 ### [2007-08-29](/news/2007/08/29/index.md)
 
+##### Muqtada al-Sadr
 #  Moqtada al-Sadr suspends the activities of his Mehdi Army militia in Iraq for six months. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6969825.stm)
 

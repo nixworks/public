@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/04/25/ferdinand-piech-grandson-of-the-inventor-of-the-volkswagen-beetle-and-chairman-of-volkswagen-for-more-than-20-years-steps-down-from-that-p.html)  [JSON](/news/2015/04/25/ferdinand-piech-grandson-of-the-inventor-of-the-volkswagen-beetle-and-chairman-of-volkswagen-for-more-than-20-years-steps-down-from-that-p.json)  [XML](/news/2015/04/25/ferdinand-piech-grandson-of-the-inventor-of-the-volkswagen-beetle-and-chairman-of-volkswagen-for-more-than-20-years-steps-down-from-that-p.xml)  
+
 ### [2015-04-25](/news/2015/04/25/index.md)
 
+##### Ferdinand Pich
 # Ferdinand Pich, grandson of the inventor of the Volkswagen Beetle and chairman of Volkswagen for more than 20 years, steps down from that post under trade union pressure. 
 
 Ferdinand Piech, a towering figure at Volkswagen (VOWG_p.DE) for more than two decades, resigned as its chairman on Saturday after losing a showdown he had provoked with Chief Executive Martin Winterkorn, ending an era at the iconic German carmaker.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/04/25/us-volkswagen-ceo-chairman-idUSKBN0NG0N720150425)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150425&t=2&i=1043294668&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB3O0BC)
+1. [Reuters](https://www.reuters.com/article/2015/04/25/us-volkswagen-ceo-chairman-idUSKBN0NG0N720150425)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20150425&t=2&i=1043294668&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB3O0BC)
 
 ### Related:
 

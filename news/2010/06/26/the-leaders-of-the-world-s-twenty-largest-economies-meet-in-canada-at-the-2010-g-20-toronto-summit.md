@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/26/the-leaders-of-the-world-s-twenty-largest-economies-meet-in-canada-at-the-2010-g-20-toronto-summit.html)  [JSON](/news/2010/06/26/the-leaders-of-the-world-s-twenty-largest-economies-meet-in-canada-at-the-2010-g-20-toronto-summit.json)  [XML](/news/2010/06/26/the-leaders-of-the-world-s-twenty-largest-economies-meet-in-canada-at-the-2010-g-20-toronto-summit.xml)  
+
 ### [2010-06-26](/news/2010/06/26/index.md)
 
+##### G-20
 # The leaders of the world's twenty largest economies meet in Canada at the 2010 G-20 Toronto summit. 
 
 Black-clad anarchists protesting at the G20 summit have smashed storefronts and wrecked a police car.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i67tL7tKKQpvoKn3wuaJNxIQqOFg)
 2. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/06/201062617195194576.html)
@@ -19,15 +23,15 @@ Black-clad anarchists protesting at the G20 summit have smashed storefronts and 
 10. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3910924,00.html)
 10. [Cover Image](http://www.abc.net.au/news/image/875684-1x1-700x700.jpg)
 
-### Related:
-
-1. [The 36th G8 summit opens in Huntsville, Ontario and the 4th G20 summit is held in Toronto, Canada.](/news/2010/06/25/the-36th-g8-summit-opens-in-huntsville-ontario-and-the-4th-g20-summit-is-held-in-toronto-canada.md) _Context: Canada, G20 summit_
-2. [A Toronto man is charged with possessing explosives alleged to be part of a plot to bomb the 2010 G-20 Toronto summit in Canada. ](/news/2010/06/23/a-toronto-man-is-charged-with-possessing-explosives-alleged-to-be-part-of-a-plot-to-bomb-the-2010-g-20-toronto-summit-in-canada.md) _Context: Canada, G20 summit_
-3. [Canada's left-leaning New Democratic Party elects Jagmeet Singh its leader. ](/news/2017/10/1/canada-s-left-leaning-new-democratic-party-elects-jagmeet-singh-its-leader.md) _Context: Canada_
-4. [Winston Blackmore and James Oler, leaders of a polygamist Mormon sect in Canada, are convicted. ](/news/2017/07/24/winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-sect-in-canada-are-convicted.md) _Context: Canada_
-5. [Six teenagers, four males and two females, from a Burundi robotics team are reported missing after competing in the FIRST Global Robotics Competition in Washington, D.C. A 16-year-old boy and a 17-year old girl reportedly crossed the United States border into Canada. There is no indication of foul play. ](/news/2017/07/20/six-teenagers-four-males-and-two-females-from-a-burundi-robotics-team-are-reported-missing-after-competing-in-the-first-global-robotics-co.md) _Context: Canada_
-
 ### Changes:
 
 1. [2010 G-20 Toronto summit: The leaders of the world's twenty largest economies meet in Canada at the 2010 G-20 Toronto summit. ](/news/2010/06/26/2010-g-20-toronto-summit-the-leaders-of-the-world-s-twenty-largest-economies-meet-in-canada-at-the-2010-g-20-toronto-summit.md) _2017-08-27 03:28:26 (First version)_
 1. [The leaders of the world's twenty largest economies meet in Canada at the 2010 G-20 Toronto summit. ](/news/2010/06/26/the-leaders-of-the-world-s-twenty-largest-economies-meet-in-canada-at-the-2010-g-20-toronto-summit.md) _(Current version)_
+
+### Related:
+
+1. [The 36th G8 summit opens in Huntsville, Ontario and the 4th G20 summit is held in Toronto, Canada.](/news/2010/06/25/the-36th-g8-summit-opens-in-huntsville-ontario-and-the-4th-g20-summit-is-held-in-toronto-canada.md) _Context: Canadian, G20 summit_
+2. [A Toronto man is charged with possessing explosives alleged to be part of a plot to bomb the 2010 G-20 Toronto summit in Canada. ](/news/2010/06/23/a-toronto-man-is-charged-with-possessing-explosives-alleged-to-be-part-of-a-plot-to-bomb-the-2010-g-20-toronto-summit-in-canada.md) _Context: Canadian, G20 summit_
+3. [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md) _Context: Canadian_
+4. [Joshua Boyle, a Canadian man recently rescued from a Taliban linked group, is arrested on 15 charges, including assault, sexual assault, and unlawful confinement. ](/news/2018/01/2/joshua-boyle-a-canadian-man-recently-rescued-from-a-taliban-linked-group-is-arrested-on-15-charges-including-assault-sexual-assault-and.md) _Context: Canadian_
+5. [The United States will end the temporary protected status program (TPS) for more than 300,000 refugees from El Salvador, Haiti, Honduras, and Nicaragua. Many of the refugees have already left for Canada, where it is easier to get asylum. ](/news/2017/11/4/the-united-states-will-end-the-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-el-salvador-haiti-honduras-an.md) _Context: Canadian_

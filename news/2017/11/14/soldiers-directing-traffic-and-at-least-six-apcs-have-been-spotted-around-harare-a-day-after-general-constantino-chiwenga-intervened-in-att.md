@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/14/soldiers-directing-traffic-and-at-least-six-apc
 
 ### [2017-11-14](/news/2017/11/14/index.md)
 
+##### 2017 Zimbabwean coup d'etat
 # Soldiers directing traffic and at least six APCs have been spotted around Harare, a day after General Constantino Chiwenga intervened in attempt to prevent a purge within the ruling ZANU-PF party. The party has accused the general of treason. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/15/jon-huntsman-will-drop-out-of-the-2012-republican-party-presidential-primaries-and-will-endorse-rival-candidate-mitt-romney-according-to-me.html)  [JSON](/news/2012/01/15/jon-huntsman-will-drop-out-of-the-2012-republican-party-presidential-primaries-and-will-endorse-rival-candidate-mitt-romney-according-to-me.json)  [XML](/news/2012/01/15/jon-huntsman-will-drop-out-of-the-2012-republican-party-presidential-primaries-and-will-endorse-rival-candidate-mitt-romney-according-to-me.xml)  
+
 ### [2012-01-15](/news/2012/01/15/index.md)
 
+##### Jon Huntsman
 # Jon Huntsman will drop out of the 2012 Republican Party presidential primaries and will endorse rival candidate Mitt Romney, according to media reports. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-16570884)
 2. [CNN](http://www.cnn.com/2012/01/15/politics/gop-campaign-wrap/index.html?hpt=hp_t1)

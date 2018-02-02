@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/15/gunmen-armed-with-heavy-weapons-attack-a-restau
 
 ### [2016-01-15](/news/2016/01/15/index.md)
 
+##### 2016 Ouagadougou attacks
 # Gunmen armed with heavy weapons attack a restaurant called Cappuccino and the Splendid Hotel, taking hostages, in the heart of Burkino Faso's capital, Ouagadougou. At least 20 people are reportedly killed. 
 
 Exchanges of fire continue at a luxury hotel in Burkina Faso as special forces seek to break a deadly siege by suspected Islamist gunmen.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/13/u-s-based-hyatt-hotels-discovers-another-the-ot
 
 ### [2017-10-13](/news/2017/10/13/index.md)
 
+##### Cybercrime
 # U.S.-based Hyatt Hotels discovers another (the other much larger one being in 2015) unauthorized access to payment card information at certain Hyatt-managed locations worldwide between March 18 and July 2, at a total of 41 properties in 11 countries. 
 
 Hyatt Hotels Corp (H.N) said on Thursday it had discovered unauthorized access to payment card information at certain Hyatt-managed locations worldwide between March 18, 2017 and July 2, 2017.

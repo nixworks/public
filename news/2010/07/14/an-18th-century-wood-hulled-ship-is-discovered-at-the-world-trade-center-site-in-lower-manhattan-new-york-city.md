@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2010/07/14/an-18th-century-wood-hulled-ship-is-discovered-at-the-world-trade-center-site-in-lower-manhattan-new-york-city.html)  [JSON](/news/2010/07/14/an-18th-century-wood-hulled-ship-is-discovered-at-the-world-trade-center-site-in-lower-manhattan-new-york-city.json)  [XML](/news/2010/07/14/an-18th-century-wood-hulled-ship-is-discovered-at-the-world-trade-center-site-in-lower-manhattan-new-york-city.xml)  
+
 ### [2010-07-14](/news/2010/07/14/index.md)
 
+##### wood-hulled
 # An 18th-Century wood-hulled ship is discovered at the World Trade Center site in Lower Manhattan, New York City. 
 
 

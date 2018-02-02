@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/8/former-los-angeles-police-department-detective-stephanie-lazarus-is-found-guilty-of-a-high-profile-1986-murder.html)  [JSON](/news/2012/03/8/former-los-angeles-police-department-detective-stephanie-lazarus-is-found-guilty-of-a-high-profile-1986-murder.json)  [XML](/news/2012/03/8/former-los-angeles-police-department-detective-stephanie-lazarus-is-found-guilty-of-a-high-profile-1986-murder.xml)  
+
 ### [2012-03-8](/news/2012/03/8/index.md)
 
+##### Los Angeles Police Department
 # Former Los Angeles Police Department detective Stephanie Lazarus is found guilty of a high profile 1986 murder. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/templates/story/story.php?storyId=148249030)
 

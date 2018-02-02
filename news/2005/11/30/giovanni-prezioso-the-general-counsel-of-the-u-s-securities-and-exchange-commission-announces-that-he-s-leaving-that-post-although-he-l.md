@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/11/30/giovanni-prezioso-the-general-counsel-of-the-u-s-securities-and-exchange-commission-announces-that-he-s-leaving-that-post-although-he-l.html)  [JSON](/news/2005/11/30/giovanni-prezioso-the-general-counsel-of-the-u-s-securities-and-exchange-commission-announces-that-he-s-leaving-that-post-although-he-l.json)  [XML](/news/2005/11/30/giovanni-prezioso-the-general-counsel-of-the-u-s-securities-and-exchange-commission-announces-that-he-s-leaving-that-post-although-he-l.xml)  
+
 ### [2005-11-30](/news/2005/11/30/index.md)
 
+##### Giovanni Prezioso
 #  Giovanni Prezioso, the General Counsel of the U.S. Securities and Exchange Commission, announces that he's leaving that post, although he'll remain until early 2006 to aid with the transition. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [SEC website](http://www.sec.gov/news/press/2005-167.htm)
+1. [SEC website](https://www.sec.gov/news/press/2005-167.htm)
 
 ### Related:
 

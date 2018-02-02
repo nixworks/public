@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/22/in-zimbabwe-investigating-officer-wellington-ngena-accuses-the-government-of-south-africa-s-scorpions-intelligence-department-of-training-m.html)  [JSON](/news/2007/04/22/in-zimbabwe-investigating-officer-wellington-ngena-accuses-the-government-of-south-africa-s-scorpions-intelligence-department-of-training-m.json)  [XML](/news/2007/04/22/in-zimbabwe-investigating-officer-wellington-ngena-accuses-the-government-of-south-africa-s-scorpions-intelligence-department-of-training-m.xml)  
+
 ### [2007-04-22](/news/2007/04/22/index.md)
 
+##### Zimbabwe
 #  In Zimbabwe investigating officer Wellington Ngena accuses the Government of South Africa's Scorpions intelligence department of training members of the Movement for Democratic Change in combat to overthrow the Government of Zimbabwe. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [allAfrica](http://allafrica.com/stories/200704200779.html)
 

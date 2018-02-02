@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/07/7/nyse-euronext-shareholders-approve-of-the-acquisition-of-that-company-parent-corporation-of-the-new-york-stock-exchange-by-deutsche-boerse.html)  [JSON](/news/2011/07/7/nyse-euronext-shareholders-approve-of-the-acquisition-of-that-company-parent-corporation-of-the-new-york-stock-exchange-by-deutsche-boerse.json)  [XML](/news/2011/07/7/nyse-euronext-shareholders-approve-of-the-acquisition-of-that-company-parent-corporation-of-the-new-york-stock-exchange-by-deutsche-boerse.xml)  
+
 ### [2011-07-7](/news/2011/07/7/index.md)
 
+##### NYSE Euronext
 # NYSE Euronext shareholders approve of the acquisition of that company, parent corporation of the New York Stock Exchange, by Deutsche Boerse AG. The deal still needs to receive the approval of the acquiring firm's shareholders. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/07/07/us-nyse-deutscheboerse-idUSTRE7660SZ20110707)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110707&t=2&i=454174766&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-07-07T161223Z_01_BTRE766190P00_RTROPTP_0_NYSE-DEUTSCHEBOERSE)
+1. [Reuters](https://www.reuters.com/article/2011/07/07/us-nyse-deutscheboerse-idUSTRE7660SZ20110707)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20110707&t=2&i=454174766&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-07-07T161223Z_01_BTRE766190P00_RTROPTP_0_NYSE-DEUTSCHEBOERSE)
 
 ### Related:
 

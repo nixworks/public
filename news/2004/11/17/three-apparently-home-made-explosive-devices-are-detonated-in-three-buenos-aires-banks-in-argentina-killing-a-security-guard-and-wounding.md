@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/17/three-apparently-home-made-explosive-devices-are-detonated-in-three-buenos-aires-banks-in-argentina-killing-a-security-guard-and-wounding.html)  [JSON](/news/2004/11/17/three-apparently-home-made-explosive-devices-are-detonated-in-three-buenos-aires-banks-in-argentina-killing-a-security-guard-and-wounding.json)  [XML](/news/2004/11/17/three-apparently-home-made-explosive-devices-are-detonated-in-three-buenos-aires-banks-in-argentina-killing-a-security-guard-and-wounding.xml)  
+
 ### [2004-11-17](/news/2004/11/17/index.md)
 
+##### Buenos Aires
 #  Three apparently home-made explosive devices are detonated in three Buenos Aires banks in Argentina, killing a security guard and wounding a police officer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4019947.stm)
 2. [Reuters](http://reuters.com/newsArticle.jhtml?type=worldNews&storyID=6845666)

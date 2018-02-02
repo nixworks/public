@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2004/08/31/repeated-attacks-on-pipelines-linked-to-southern-oil-fields-have-significantly-hampered-oil-exports-from-iraq.html)  [JSON](/news/2004/08/31/repeated-attacks-on-pipelines-linked-to-southern-oil-fields-have-significantly-hampered-oil-exports-from-iraq.json)  [XML](/news/2004/08/31/repeated-attacks-on-pipelines-linked-to-southern-oil-fields-have-significantly-hampered-oil-exports-from-iraq.xml)  
+
 ### [2004-08-31](/news/2004/08/31/index.md)
 
+##### pipeline
 #  Repeated attacks on pipelines linked to southern oil fields have significantly hampered oil exports from Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Moscow Times](http://www.themoscowtimes.com/stories/2004/08/31/258.html)
-2. [Washington Post](http://www.washingtonpost.com/wp-dyn/articles/A46105-2004Aug30.html)
+2. [Washington Post](https://www.washingtonpost.com/wp-dyn/articles/A46105-2004Aug30.html)
 
 ### Related:
 
-1. [Attackers blow up Yemen's main oil pipeline, halting the flow of crude oil. ](/news/2013/05/24/attackers-blow-up-yemen-s-main-oil-pipeline-halting-the-flow-of-crude-oil.md) _Context: crude oil, pipeline_
-2. [ Four oil companies announce a plan to supply Europe with natural gas from Kurdistan, Iraq, via the Nabucco pipeline. ](/news/2009/05/17/four-oil-companies-announce-a-plan-to-supply-europe-with-natural-gas-from-kurdistan-iraq-via-the-nabucco-pipeline.md) _Context: Iraq, pipeline_
-3. [ The Kurdistan Workers Party claims responsibility for bombing an oil pipeline between Iraq and Turkey. ](/news/2008/11/22/the-kurdistan-workers-party-claims-responsibility-for-bombing-an-oil-pipeline-between-iraq-and-turkey.md) _Context: Iraq, pipeline_
-4. [ Ecuador suspends oil exports after a landslide cuts off its main pipeline. ](/news/2008/02/28/ecuador-suspends-oil-exports-after-a-landslide-cuts-off-its-main-pipeline.md) _Context: crude oil, pipeline_
-5. [ The Iraqi oil pipeline near Baiji catches fire, following two explosions](/news/2003/06/13/the-iraqi-oil-pipeline-near-baiji-catches-fire-following-two-explosions.md) _Context: Iraq, pipeline_
+1. [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md) _Context: Iraq_
+2. [A double suicide bombing kills at least 35 people and injures over 90 in Baghdad, Iraq. ](/news/2018/01/15/a-double-suicide-bombing-kills-at-least-35-people-and-injures-over-90-in-baghdad-iraq.md) _Context: Iraq_
+3. [Iraq announces that its war against Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vile-occupati.md) _Context: Iraq_
+4. [The Iraqi Armed Forces enter the town of Al-Qa'im, close to the border with Syria. Al-Qa'im is one of the last towns in Iraq still held by ISIL. ](/news/2017/11/3/the-iraqi-armed-forces-enter-the-town-of-al-qa-im-close-to-the-border-with-syria-al-qa-im-is-one-of-the-last-towns-in-iraq-still-held-by-i.md) _Context: Iraq_
+5. [The death toll from the earthquake in Iraq and Iran exceeds 400 with over 7,000 injured. The death toll is expected to rise further in coming days. ](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-iran-exceeds-400-with-over-7-000-injured-the-death-toll-is-expected-to-rise-further-in-comin.md) _Context: Iraq_

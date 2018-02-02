@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/17/at-least-one-person-is-killed-and-20-are-injured-in-two-separate-explosions-in-pyatigorsk-and-north-ossetia-in-russia-s-north-caucasus.html)  [JSON](/news/2010/08/17/at-least-one-person-is-killed-and-20-are-injured-in-two-separate-explosions-in-pyatigorsk-and-north-ossetia-in-russia-s-north-caucasus.json)  [XML](/news/2010/08/17/at-least-one-person-is-killed-and-20-are-injured-in-two-separate-explosions-in-pyatigorsk-and-north-ossetia-in-russia-s-north-caucasus.xml)  
+
 ### [2010-08-17](/news/2010/08/17/index.md)
 
+##### Pyatigorsk
 # At least one person is killed and 20 are injured in two separate explosions in Pyatigorsk and North Ossetia in Russia's North Caucasus. 
 
 At least one person killed as two explosions rip through volatile Russian region.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gWrVi4CalKKAwzRl7I8PhFIWCZ4g)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/08/20108171378362906.html)

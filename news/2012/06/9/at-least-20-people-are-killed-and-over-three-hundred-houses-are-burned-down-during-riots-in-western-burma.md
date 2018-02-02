@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/9/at-least-20-people-are-killed-and-over-three-hundred-houses-are-burned-down-during-riots-in-western-burma.html)  [JSON](/news/2012/06/9/at-least-20-people-are-killed-and-over-three-hundred-houses-are-burned-down-during-riots-in-western-burma.json)  [XML](/news/2012/06/9/at-least-20-people-are-killed-and-over-three-hundred-houses-are-burned-down-during-riots-in-western-burma.xml)  
+
 ### [2012-06-9](/news/2012/06/9/index.md)
 
+##### sectarian violence
 # At least 20 people are killed and over three hundred houses are burned down during riots in western Burma. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Nation](http://www.nationmultimedia.com/aec/Dozens-killed-hundreds-of-buildings-burnt-down-by--30183838.html)
 

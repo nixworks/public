@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/29/a-car-bomb-attack-on-a-police-checkpoint-in-bag
 
 ### [2017-03-29](/news/2017/03/29/index.md)
 
+##### Iraqi Civil War (2014-present)
 # A car bomb attack on a police checkpoint in Baghdad kills at least 15 people and injures 40 others. 
 
 

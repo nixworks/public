@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/13/south-african-police-shoot-a-lachrymatory-agent-at-hundreds-of-2010-fifa-world-cup-stewards-at-pay-cut-protests-in-durban.html)  [JSON](/news/2010/06/13/south-african-police-shoot-a-lachrymatory-agent-at-hundreds-of-2010-fifa-world-cup-stewards-at-pay-cut-protests-in-durban.json)  [XML](/news/2010/06/13/south-african-police-shoot-a-lachrymatory-agent-at-hundreds-of-2010-fifa-world-cup-stewards-at-pay-cut-protests-in-durban.xml)  
+
 ### [2010-06-13](/news/2010/06/13/index.md)
 
+##### South Africa
 # South African police shoot a lachrymatory agent at hundreds of 2010 FIFA World Cup stewards at pay cut protests in Durban. 
 
 Police in Durban fire tear gas to disperse hundreds of World Cup stewards protesting over alleged pay cuts.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10306156.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/20/the-death-toll-from-yesterday-s-taliban-attack-
 
 ### [2016-04-20](/news/2016/04/20/index.md)
 
+##### War in Afghanistan (2015-present)
 # The death toll from yesterday's Taliban attack on the National Directorate of Security in Kabul rises to 64, with 347 others wounded, according to the Afghan Interior Ministry. 
 
 

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/02/14/floods-and-mudslides-claim-at-least-64-lives-in-colombia-and-venezuela.html)  [JSON](/news/2005/02/14/floods-and-mudslides-claim-at-least-64-lives-in-colombia-and-venezuela.json)  [XML](/news/2005/02/14/floods-and-mudslides-claim-at-least-64-lives-in-colombia-and-venezuela.xml)  
+
 ### [2005-02-14](/news/2005/02/14/index.md)
 
+##### Flood
 #  Floods and mudslides claim at least 64 lives in Colombia and Venezuela. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2005/WORLD/americas/02/13/samerica.floods.ap/)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7612590)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7612590)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

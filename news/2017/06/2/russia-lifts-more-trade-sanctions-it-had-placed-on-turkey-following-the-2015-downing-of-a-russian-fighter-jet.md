@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/2/russia-lifts-more-trade-sanctions-it-had-placed-
 
 ### [2017-06-2](/news/2017/06/2/index.md)
 
+##### Russia-Turkey relations
 # Russia lifts more trade sanctions it had placed on Turkey following the 2015 downing of a Russian fighter jet. 
 
 The Russian government continues to partially remove sanctions on Turkey. A new decree lifted the ban on some agricultural products and some Turkish firms. Tomato imports might be allowed for some special uses, as Russia supports its own production

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/25/the-new-york-yankees-beat-the-los-angeles-angels-5-2-in-game-6-of-the-2009-american-league-championship-series-to-advance-to-the-world-seri.html)  [JSON](/news/2009/10/25/the-new-york-yankees-beat-the-los-angeles-angels-5-2-in-game-6-of-the-2009-american-league-championship-series-to-advance-to-the-world-seri.json)  [XML](/news/2009/10/25/the-new-york-yankees-beat-the-los-angeles-angels-5-2-in-game-6-of-the-2009-american-league-championship-series-to-advance-to-the-world-seri.xml)  
+
 ### [2009-10-25](/news/2009/10/25/index.md)
 
+##### New York Yankees
 #  The New York Yankees beat the Los Angeles Angels 5-2 in Game 6 of the 2009 American League Championship Series to advance to the World Series. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New York Times](http://bats.blogs.nytimes.com/2009/10/25/live-analysis-alcs-game-6-angels-at-yankees/?hp)
 

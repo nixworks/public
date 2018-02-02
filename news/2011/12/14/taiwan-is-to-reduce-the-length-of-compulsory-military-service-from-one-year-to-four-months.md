@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/14/taiwan-is-to-reduce-the-length-of-compulsory-military-service-from-one-year-to-four-months.html)  [JSON](/news/2011/12/14/taiwan-is-to-reduce-the-length-of-compulsory-military-service-from-one-year-to-four-months.json)  [XML](/news/2011/12/14/taiwan-is-to-reduce-the-length-of-compulsory-military-service-from-one-year-to-four-months.xml)  
+
 ### [2011-12-14](/news/2011/12/14/index.md)
 
+##### Taiwan
 # Taiwan is to reduce the length of compulsory military service from one year to four months. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_744824.html)
 

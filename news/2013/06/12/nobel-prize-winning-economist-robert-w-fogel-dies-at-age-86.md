@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/12/nobel-prize-winning-economist-robert-w-fogel-dies-at-age-86.html)  [JSON](/news/2013/06/12/nobel-prize-winning-economist-robert-w-fogel-dies-at-age-86.json)  [XML](/news/2013/06/12/nobel-prize-winning-economist-robert-w-fogel-dies-at-age-86.xml)  
+
 ### [2013-06-12](/news/2013/06/12/index.md)
 
+##### Nobel Memorial Prize in Economic Sciences
 # Nobel Prize-winning economist Robert W. Fogel dies at age 86. 
 
 CHICAGO -- Robert W. Fogel, a University of Chicago economist whose study of the economics of slavery sparked a furious debate in academia and later 
 
 
-### Source:
+### Sources:
 
 1. [Newsday](http://www.newsday.com/long-island/obituaries/economist-author-robert-w-fogel-dies-at-86-1.5470749)
 1. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)

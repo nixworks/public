@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/27/the-dubai-ports-world-controversy-continues-with-miami-based-eller-company-trying-to-obtain-an-injunction-in-the-uk-high-court-to-prevent.html)  [JSON](/news/2006/02/27/the-dubai-ports-world-controversy-continues-with-miami-based-eller-company-trying-to-obtain-an-injunction-in-the-uk-high-court-to-prevent.json)  [XML](/news/2006/02/27/the-dubai-ports-world-controversy-continues-with-miami-based-eller-company-trying-to-obtain-an-injunction-in-the-uk-high-court-to-prevent.xml)  
+
 ### [2006-02-27](/news/2006/02/27/index.md)
 
+##### Dubai Ports World controversy
 #  The Dubai Ports World controversy continues with Miami-based Eller & Company trying to obtain an injunction in the UK High Court to prevent the sale of P&O to Dubai Ports World. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/low/business/4752524.stm)
 

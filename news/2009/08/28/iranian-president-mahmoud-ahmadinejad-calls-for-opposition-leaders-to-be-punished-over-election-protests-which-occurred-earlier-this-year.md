@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/28/iranian-president-mahmoud-ahmadinejad-calls-for-opposition-leaders-to-be-punished-over-election-protests-which-occurred-earlier-this-year.html)  [JSON](/news/2009/08/28/iranian-president-mahmoud-ahmadinejad-calls-for-opposition-leaders-to-be-punished-over-election-protests-which-occurred-earlier-this-year.json)  [XML](/news/2009/08/28/iranian-president-mahmoud-ahmadinejad-calls-for-opposition-leaders-to-be-punished-over-election-protests-which-occurred-earlier-this-year.xml)  
+
 ### [2009-08-28](/news/2009/08/28/index.md)
 
+##### Iran
 #  Iranian President Mahmoud Ahmadinejad calls for opposition leaders to be punished over election protests which occurred earlier this year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/08/2009828113929586731.html)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=104678&sectionid=351020101)

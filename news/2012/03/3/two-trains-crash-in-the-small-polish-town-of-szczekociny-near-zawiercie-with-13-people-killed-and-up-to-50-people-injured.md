@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/3/two-trains-crash-in-the-small-polish-town-of-szczekociny-near-zawiercie-with-13-people-killed-and-up-to-50-people-injured.html)  [JSON](/news/2012/03/3/two-trains-crash-in-the-small-polish-town-of-szczekociny-near-zawiercie-with-13-people-killed-and-up-to-50-people-injured.json)  [XML](/news/2012/03/3/two-trains-crash-in-the-small-polish-town-of-szczekociny-near-zawiercie-with-13-people-killed-and-up-to-50-people-injured.xml)  
+
 ### [2012-03-3](/news/2012/03/3/index.md)
 
+##### train crash
 # Two trains crash in the small Polish town of Szczekociny near Zawiercie, with 13 people killed and up to 50 people injured. 
 
 Two trains collide on the Warsaw-Krakow mainline in southern Poland, leaving 16 people dead and about 58 injured, local officials say.
 
 
-### Source:
+### Sources:
 
 1. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5hrC06gXHrV-s9NWbNnJjOIViCHmg?docId=ead9d813b3c342b096a00d70e4e91c63)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-17248735)

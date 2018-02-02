@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/5/results-from-yesterday-s-election-indicate-that-
 
 ### [2016-03-5](/news/2016/03/5/index.md)
 
+##### Samoan general election, 2016
 # Results from yesterday's election indicate that the ruling Human Rights Protection Party will retain power in a landslide. 
 
 Preliminary results from Samoa&#039;s general election show the ruling party is set for a landslide win.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/24/china-announces-it-has-broken-up-what-it-describes-as-a-terrorist-ring-in-xinjiang-in-the-west-of-the-country.html)  [JSON](/news/2010/06/24/china-announces-it-has-broken-up-what-it-describes-as-a-terrorist-ring-in-xinjiang-in-the-west-of-the-country.json)  [XML](/news/2010/06/24/china-announces-it-has-broken-up-what-it-describes-as-a-terrorist-ring-in-xinjiang-in-the-west-of-the-country.xml)  
+
 ### [2010-06-24](/news/2010/06/24/index.md)
 
+##### China
 # China announces it has broken up what it describes as a terrorist ring in Xinjiang in the west of the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gSjMTGA_93sjHUt2y3ACaI8ak7vQD9GHDOT01)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/06/201062461350150419.html)

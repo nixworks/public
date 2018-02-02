@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/5/crossgates-mall-in-guilderland-new-york-dropped-charges-of-trespassing-against-a-man-who-had-been-arrested-for-refusing-to-remove-his-gi.html)  [JSON](/news/2003/03/5/crossgates-mall-in-guilderland-new-york-dropped-charges-of-trespassing-against-a-man-who-had-been-arrested-for-refusing-to-remove-his-gi.json)  [XML](/news/2003/03/5/crossgates-mall-in-guilderland-new-york-dropped-charges-of-trespassing-against-a-man-who-had-been-arrested-for-refusing-to-remove-his-gi.xml)  
+
 ### [2003-03-5](/news/2003/03/5/index.md)
 
+##### Crossgates Mall
 #  Crossgates Mall in Guilderland, New York, dropped charges of trespassing against a man who had been arrested for refusing to remove his "Give Peace a Chance" T-shirt. The change of heart occurred after over 100 anti-war demonstraters marched through the mall and threatened to stay until the mall backed down.
 
 

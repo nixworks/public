@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/25/representative-ronald-singson-of-the-philippines-is-sentenced-to-18-months-in-a-hong-kong-jail-for-cocaine-possession.html)  [JSON](/news/2011/02/25/representative-ronald-singson-of-the-philippines-is-sentenced-to-18-months-in-a-hong-kong-jail-for-cocaine-possession.json)  [XML](/news/2011/02/25/representative-ronald-singson-of-the-philippines-is-sentenced-to-18-months-in-a-hong-kong-jail-for-cocaine-possession.xml)  
+
 ### [2011-02-25](/news/2011/02/25/index.md)
 
+##### Philippine lower House
 # Representative Ronald Singson of the Philippines is sentenced to 18 months in a Hong Kong jail for cocaine possession. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Yahoo News Philippines](http://ph.news.yahoo.com/ap/20110223/tap-as-hong-kong-philippines-legislator-fe2a5de.html)
 

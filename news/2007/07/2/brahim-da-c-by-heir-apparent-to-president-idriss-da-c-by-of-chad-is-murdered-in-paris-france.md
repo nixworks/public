@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/2/brahim-da-c-by-heir-apparent-to-president-idriss-da-c-by-of-chad-is-murdered-in-paris-france.html)  [JSON](/news/2007/07/2/brahim-da-c-by-heir-apparent-to-president-idriss-da-c-by-of-chad-is-murdered-in-paris-france.json)  [XML](/news/2007/07/2/brahim-da-c-by-heir-apparent-to-president-idriss-da-c-by-of-chad-is-murdered-in-paris-france.xml)  
+
 ### [2007-07-2](/news/2007/07/2/index.md)
 
+##### Brahim Deby
 #  Brahim Deby, heir apparent to President Idriss Deby of Chad, is murdered in Paris, France. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IHT](http://www.iht.com/articles/2007/07/02/africa/chad.php)
 

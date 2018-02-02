@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/1/over-300-nbsp-mm-of-rain-fall-on-venice-italy-flooding-an-estimated-80-of-the-city-and-shutting-down-the-public-transit-system.html)  [JSON](/news/2004/11/1/over-300-nbsp-mm-of-rain-fall-on-venice-italy-flooding-an-estimated-80-of-the-city-and-shutting-down-the-public-transit-system.json)  [XML](/news/2004/11/1/over-300-nbsp-mm-of-rain-fall-on-venice-italy-flooding-an-estimated-80-of-the-city-and-shutting-down-the-public-transit-system.xml)  
+
 ### [2004-11-1](/news/2004/11/1/index.md)
 
+##### Venice
 #  Over 300&nbsp;mm of rain fall on Venice, Italy, flooding an estimated 80% of the city and shutting down the public transit system. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.co.uk/newsArticle.jhtml?type=scienceNews&storyID=6668269&section=news)
 2. [SBS](http://www9.sbs.com.au/theworldnews/region.php?id=97898&region=3)

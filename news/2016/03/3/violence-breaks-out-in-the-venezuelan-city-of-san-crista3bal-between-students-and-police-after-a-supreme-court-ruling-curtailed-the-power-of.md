@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/3/violence-breaks-out-in-the-venezuelan-city-of-sa
 
 ### [2016-03-3](/news/2016/03/3/index.md)
 
+##### 2014-16 Venezuelan protests
 # Violence breaks out in the Venezuelan city of San Cristobal between students and police after a supreme court ruling curtailed the power of the opposition-controlled National Assembly to review government appointments of Supreme Court justices. 
 
 

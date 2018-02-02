@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/12/a-coalition-led-by-the-democratic-party-of-koso
 
 ### [2017-06-12](/news/2017/06/12/index.md)
 
+##### Kosovan parliamentary election, 2017
 # A coalition led by the Democratic Party of Kosovo wins the most votes in yesterday's election and is in a good position to form a government led by former rebel leader and Prime Minister Ramush Haradinaj. 
 
 

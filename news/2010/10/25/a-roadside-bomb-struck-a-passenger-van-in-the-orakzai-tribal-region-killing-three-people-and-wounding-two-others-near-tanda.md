@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/25/a-roadside-bomb-struck-a-passenger-van-in-the-orakzai-tribal-region-killing-three-people-and-wounding-two-others-near-tanda.html)  [JSON](/news/2010/10/25/a-roadside-bomb-struck-a-passenger-van-in-the-orakzai-tribal-region-killing-three-people-and-wounding-two-others-near-tanda.json)  [XML](/news/2010/10/25/a-roadside-bomb-struck-a-passenger-van-in-the-orakzai-tribal-region-killing-three-people-and-wounding-two-others-near-tanda.xml)  
+
 ### [2010-10-25](/news/2010/10/25/index.md)
 
+##### Orakzai
 # A roadside bomb struck a passenger van in the Orakzai tribal region killing three people and wounding two others near Tanda. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/04-orakzai-blast-three-killed-qs-03)
 

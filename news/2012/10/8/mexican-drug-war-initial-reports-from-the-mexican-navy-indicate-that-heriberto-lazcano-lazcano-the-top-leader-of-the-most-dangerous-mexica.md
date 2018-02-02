@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/10/8/mexican-drug-war-initial-reports-from-the-mexican-navy-indicate-that-heriberto-lazcano-lazcano-the-top-leader-of-the-most-dangerous-mexica.html)  [JSON](/news/2012/10/8/mexican-drug-war-initial-reports-from-the-mexican-navy-indicate-that-heriberto-lazcano-lazcano-the-top-leader-of-the-most-dangerous-mexica.json)  [XML](/news/2012/10/8/mexican-drug-war-initial-reports-from-the-mexican-navy-indicate-that-heriberto-lazcano-lazcano-the-top-leader-of-the-most-dangerous-mexica.xml)  
+
 ### [2012-10-8](/news/2012/10/8/index.md)
 
+##### Mexican Drug War
 # Mexican Drug War: Initial reports from the Mexican Navy indicate that Heriberto Lazcano Lazcano, the top leader of the most dangerous Mexican criminal organization known as Los Zetas, may have been killed in a shootout. The forensic tests are currently on their way to confirm his identity. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/story/news/world/2012/10/09/mexico-drugs-zetas/1621921/)
-1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
+1. [USA Today](https://www.usatoday.com/story/news/world/2012/10/09/mexico-drugs-zetas/1621921/)
+1. [Cover Image](http://www.gannett-cdn.com/media/USATODAY/USATODAY/2012/10/09/ap-mexico-drug-war-4_3.jpg)
 
 ### Related:
 

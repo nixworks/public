@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/10/14/former-president-of-ecuador-lucio-gutierrez-borbua-deposed-by-the-ecuadorian-military-on-april-20-1995-after-days-of-civil-disturbances.html)  [JSON](/news/2005/10/14/former-president-of-ecuador-lucio-gutierrez-borbua-deposed-by-the-ecuadorian-military-on-april-20-1995-after-days-of-civil-disturbances.json)  [XML](/news/2005/10/14/former-president-of-ecuador-lucio-gutierrez-borbua-deposed-by-the-ecuadorian-military-on-april-20-1995-after-days-of-civil-disturbances.xml)  
+
 ### [2005-10-14](/news/2005/10/14/index.md)
 
+##### President
 #  Former President of Ecuador, Lucio Gutirrez Borba, deposed by the Ecuadorian military on April 20, 1995, after days of civil disturbances in Quito, returns voluntarily to Ecuador and is immediately locked in a maximum security prison cell in Quito, on charges of attempting to subvert national security, after having repeatedly stated to the international media that he continues to be the legitimate President of the Republic of Ecuador. [http:--www.eluniverso.com-2005-10-15-8-d08ee26deac048b0b3aca150fbe4439b.html?EUID= (El Universo, Guayaquil)] (article in Spanish).
 
 

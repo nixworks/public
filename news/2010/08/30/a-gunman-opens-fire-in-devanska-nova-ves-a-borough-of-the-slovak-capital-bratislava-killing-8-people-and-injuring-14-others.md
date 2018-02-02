@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/30/a-gunman-opens-fire-in-devanska-nova-ves-a-borough-of-the-slovak-capital-bratislava-killing-8-people-and-injuring-14-others.html)  [JSON](/news/2010/08/30/a-gunman-opens-fire-in-devanska-nova-ves-a-borough-of-the-slovak-capital-bratislava-killing-8-people-and-injuring-14-others.json)  [XML](/news/2010/08/30/a-gunman-opens-fire-in-devanska-nova-ves-a-borough-of-the-slovak-capital-bratislava-killing-8-people-and-injuring-14-others.xml)  
+
 ### [2010-08-30](/news/2010/08/30/index.md)
 
+##### opens fire
 # A gunman opens fire in Devinska Nova Ves, a borough of the Slovak capital Bratislava, killing 8 people and injuring 14 others. 
 
 A gunman has killed six people and wounded 14 others in Bratislava, the Slovak news agency reported on Monday. The news agency TASR said the shooting took place midmorning on the streets of the Devins
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Hindu](http://www.thehindu.com/news/international/article604068.ece)
 2. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/2010830103838162971.html)

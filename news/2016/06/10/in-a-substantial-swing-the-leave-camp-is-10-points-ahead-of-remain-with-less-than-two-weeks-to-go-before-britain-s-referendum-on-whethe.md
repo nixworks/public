@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/10/in-a-substantial-swing-the-leave-camp-is-10-poi
 
 ### [2016-06-10](/news/2016/06/10/index.md)
 
+##### 
 # In a substantial swing, the "Leave" camp is 10 points ahead of "Remain" with less than two weeks to go before Britain's referendum on whether to stay in the European Union, according to a poll by ORB. 
 
 The campaign to take Britain out of the EU has opened up a remarkable 10-point lead over the Remain camp, according to an exclusive poll for The Independent.

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/25/natural-disaster-an-earthquake-of-magnitude-8-0-struck-near-the-island-of-hokkaido-in-japan-at-19-50-07-utc-a-7-ft-tsunami-was-generate.html)  [JSON](/news/2003/09/25/natural-disaster-an-earthquake-of-magnitude-8-0-struck-near-the-island-of-hokkaido-in-japan-at-19-50-07-utc-a-7-ft-tsunami-was-generate.json)  [XML](/news/2003/09/25/natural-disaster-an-earthquake-of-magnitude-8-0-struck-near-the-island-of-hokkaido-in-japan-at-19-50-07-utc-a-7-ft-tsunami-was-generate.xml)  
+
 ### [2003-09-25](/news/2003/09/25/index.md)
 
+##### natural catastrophe
 #  Natural disaster: An earthquake of magnitude 8.0 struck near the island of Hokkaido in Japan at 19:50:07 (UTC). A 7 ft tsunami was generated off the coast of Hokkaido as a result of the quake and tsunami warnings have been issued for most of the Pacific Rim, including Japan, Russia's eastern coast, Alaska, and Hawaii.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/20/in-singapore-a-circle-mrt-line-tunnel-being-dug-under-the-nicoll-highway-collapses-killing-two-two-more-are-missing-and-feared-dead.html)  [JSON](/news/2004/04/20/in-singapore-a-circle-mrt-line-tunnel-being-dug-under-the-nicoll-highway-collapses-killing-two-two-more-are-missing-and-feared-dead.json)  [XML](/news/2004/04/20/in-singapore-a-circle-mrt-line-tunnel-being-dug-under-the-nicoll-highway-collapses-killing-two-two-more-are-missing-and-feared-dead.xml)  
+
 ### [2004-04-20](/news/2004/04/20/index.md)
 
+##### Singapore
 #  In Singapore, a Circle MRT Line tunnel being dug under the Nicoll Highway collapses, killing two. Two more are missing and feared dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://straitstimes.asia1.com.sg/latest/story/0,4390,246785,00.html)
 

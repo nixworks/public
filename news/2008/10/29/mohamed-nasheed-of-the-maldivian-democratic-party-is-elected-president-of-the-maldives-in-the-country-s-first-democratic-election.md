@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/29/mohamed-nasheed-of-the-maldivian-democratic-party-is-elected-president-of-the-maldives-in-the-country-s-first-democratic-election.html)  [JSON](/news/2008/10/29/mohamed-nasheed-of-the-maldivian-democratic-party-is-elected-president-of-the-maldives-in-the-country-s-first-democratic-election.json)  [XML](/news/2008/10/29/mohamed-nasheed-of-the-maldivian-democratic-party-is-elected-president-of-the-maldives-in-the-country-s-first-democratic-election.xml)  
+
 ### [2008-10-29](/news/2008/10/29/index.md)
 
+##### Mohamed Nasheed
 #  Mohamed Nasheed of the Maldivian Democratic Party is elected President of the Maldives in the country's first democratic election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.afp.com/english/news/stories/newsmlmmd.c9bf5c1d3cfda473783507fa803e06ce.51.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/4/anthem-inc-discloses-that-criminal-hackers-have-broken-into-its-servers-and-potentially-stolen-over-80-million-records-that-contain-persona.html)  [JSON](/news/2015/02/4/anthem-inc-discloses-that-criminal-hackers-have-broken-into-its-servers-and-potentially-stolen-over-80-million-records-that-contain-persona.json)  [XML](/news/2015/02/4/anthem-inc-discloses-that-criminal-hackers-have-broken-into-its-servers-and-potentially-stolen-over-80-million-records-that-contain-persona.xml)  
+
 ### [2015-02-4](/news/2015/02/4/index.md)
 
+##### Anthem
 # Anthem Inc. discloses that criminal hackers have broken into its servers and potentially stolen over 80 million records that contain personally identifiable information from its servers. According to Anthem, the data breach extends into multiple brands Anthem uses to market its healthcare plans, including, Anthem Blue Cross, Anthem Blue Cross and Blue Shield, Blue Cross and Blue Shield of Georgia, Empire Blue Cross and Blue Shield, Amerigroup, Caremore, Unicare, Healthlink, and DeCare. Anthem says the medical information and financial data was not compromised. 
 
 Criminals can use the numbers at hospitals and pharmacies to receive care and prescriptions, racking up charges and wrecking victims&#x27; medical records.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/742d64f85075438aa5b40d1bd4278b19/hackers-see-rewarding-targets-health-care-companies)
 2. [NBC News](http://www.nbcnews.com/tech/security/anthem-hack-credit-monitoring-wont-catch-medical-identity-theft-n300836)

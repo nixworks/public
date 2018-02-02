@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/16/a-man-is-sentenced-to-death-in-egypt-for-killing-copts-at-a-christmas-mass-a-year-ago.html)  [JSON](/news/2011/01/16/a-man-is-sentenced-to-death-in-egypt-for-killing-copts-at-a-christmas-mass-a-year-ago.json)  [XML](/news/2011/01/16/a-man-is-sentenced-to-death-in-egypt-for-killing-copts-at-a-christmas-mass-a-year-ago.xml)  
+
 ### [2011-01-16](/news/2011/01/16/index.md)
 
+##### Egypt
 # A man is sentenced to death in Egypt for killing Copts at a Christmas mass a year ago. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/meast/01/16/egypt.death.sentence/)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-01/16/c_13693201.htm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/24/ousted-president-of-paraguay-fernando-lugo-condemns-the-coup-against-the-citizenry-and-democracy-that-ousted-him-from-his-office.html)  [JSON](/news/2012/06/24/ousted-president-of-paraguay-fernando-lugo-condemns-the-coup-against-the-citizenry-and-democracy-that-ousted-him-from-his-office.json)  [XML](/news/2012/06/24/ousted-president-of-paraguay-fernando-lugo-condemns-the-coup-against-the-citizenry-and-democracy-that-ousted-him-from-his-office.xml)  
+
 ### [2012-06-24](/news/2012/06/24/index.md)
 
+##### Paraguayan President
 # Ousted President of Paraguay Fernando Lugo condemns the "coup against the citizenry and democracy" that ousted him from his office. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18569378)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/61105000/jpg/_61105412_015147019-1.jpg)

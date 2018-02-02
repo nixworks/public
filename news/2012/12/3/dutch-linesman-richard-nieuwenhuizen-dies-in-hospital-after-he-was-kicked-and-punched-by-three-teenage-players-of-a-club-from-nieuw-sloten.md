@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/3/dutch-linesman-richard-nieuwenhuizen-dies-in-hospital-after-he-was-kicked-and-punched-by-three-teenage-players-of-a-club-from-nieuw-sloten.html)  [JSON](/news/2012/12/3/dutch-linesman-richard-nieuwenhuizen-dies-in-hospital-after-he-was-kicked-and-punched-by-three-teenage-players-of-a-club-from-nieuw-sloten.json)  [XML](/news/2012/12/3/dutch-linesman-richard-nieuwenhuizen-dies-in-hospital-after-he-was-kicked-and-punched-by-three-teenage-players-of-a-club-from-nieuw-sloten.xml)  
+
 ### [2012-12-3](/news/2012/12/3/index.md)
 
+##### Netherlands
 # Dutch linesman Richard Nieuwenhuizen dies in hospital after he was kicked and punched by three teenage players of a club from Nieuw Sloten, Amsterdam, while officiating at a match on Sunday. 
 
 A Dutch man has died after being kicked and punched by three teenage football players for whom he acted as linesman during their league match.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20583970)
 2. [The Telegraph](http://www.telegraph.co.uk/sport/football/teams/holland/9720726/Dutch-linesman-Richard-Nieuwenhuizen-killed-by-youth-players-had-been-officiating-his-sons-match.html)

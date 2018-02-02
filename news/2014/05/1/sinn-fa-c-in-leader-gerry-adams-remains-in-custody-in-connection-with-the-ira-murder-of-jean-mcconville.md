@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/1/sinn-fa-c-in-leader-gerry-adams-remains-in-custody-in-connection-with-the-ira-murder-of-jean-mcconville.html)  [JSON](/news/2014/05/1/sinn-fa-c-in-leader-gerry-adams-remains-in-custody-in-connection-with-the-ira-murder-of-jean-mcconville.json)  [XML](/news/2014/05/1/sinn-fa-c-in-leader-gerry-adams-remains-in-custody-in-connection-with-the-ira-murder-of-jean-mcconville.xml)  
+
 ### [2014-05-1](/news/2014/05/1/index.md)
 
+##### Sinn Fein
 # Sinn Fein leader Gerry Adams remains in custody in connection with the IRA murder of Jean McConville. 
 
 Sinn Féin leader Gerry Adams continues to be questioned by Northern Ireland police in connection with the 1972 murder of widow and mother-of-10 Jean McConville.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-northern-ireland-27233712)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74565000/jpg/_74565975_adams2.jpg)

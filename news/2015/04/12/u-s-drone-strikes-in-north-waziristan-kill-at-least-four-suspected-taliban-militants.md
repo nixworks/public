@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/04/12/u-s-drone-strikes-in-north-waziristan-kill-at-least-four-suspected-taliban-militants.html)  [JSON](/news/2015/04/12/u-s-drone-strikes-in-north-waziristan-kill-at-least-four-suspected-taliban-militants.json)  [XML](/news/2015/04/12/u-s-drone-strikes-in-north-waziristan-kill-at-least-four-suspected-taliban-militants.xml)  
+
 ### [2015-04-12](/news/2015/04/12/index.md)
 
+##### War in North-West Pakistan
 # U.S. drone strikes in North Waziristan kill at least four suspected Taliban militants. 
 
 A U.S. drone strike killed at least four suspected Taliban militants in northwest Pakistan on Sunday, security officials said, as al Qaeda in the Indian Subcontinent confirmed two of its commanders had been killed in similar attacks this year.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2015/04/12/uk-pakistan-drones-idUKKBN0N30FA20150412)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [War in North-West Pakistan: U.S. drone strikes in North Waziristan kill at least four suspected Taliban militants. ](/news/2015/04/12/war-in-north-west-pakistan-u-s-drone-strikes-in-north-waziristan-kill-at-least-four-suspected-taliban-militants.md) _2017-08-27 03:42:11 (First version)_
+1. [U.S. drone strikes in North Waziristan kill at least four suspected Taliban militants. ](/news/2015/04/12/u-s-drone-strikes-in-north-waziristan-kill-at-least-four-suspected-taliban-militants.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ A U.S. drone strike killed at least four suspected Taliban militants in northwes
 3. [A Taliban suicide bomber hits a court complex in the town of Shabqadar killing at least 13 people and injuring 36. Jamaat-ul-Ahrar, a Pakistani Taliban faction, says the attack is retaliation for Mumtaz Qadri's execution last week. ](/news/2016/03/7/a-taliban-suicide-bomber-hits-a-court-complex-in-the-town-of-shabqadar-killing-at-least-13-people-and-injuring-36-jamaat-ul-ahrar-a-pakist.md) _Context: Taliban, War in North-West Pakistan_
 4. [Six suspected militants are killed in a United States drone attack in the tribal area of North Waziristan. ](/news/2015/09/1/six-suspected-militants-are-killed-in-a-united-states-drone-attack-in-the-tribal-area-of-north-waziristan.md) _Context: North Waziristan, War in North-West Pakistan_
 5. [A roadside bomb in North Waziristan kills at least three Pakistan Army soldiers and injures six others. ](/news/2015/07/5/a-roadside-bomb-in-north-waziristan-kills-at-least-three-pakistan-army-soldiers-and-injures-six-others.md) _Context: North Waziristan, War in North-West Pakistan_
-
-### Changes:
-
-1. [War in North-West Pakistan: U.S. drone strikes in North Waziristan kill at least four suspected Taliban militants. ](/news/2015/04/12/war-in-north-west-pakistan-u-s-drone-strikes-in-north-waziristan-kill-at-least-four-suspected-taliban-militants.md) _2017-08-27 03:42:11 (First version)_
-1. [U.S. drone strikes in North Waziristan kill at least four suspected Taliban militants. ](/news/2015/04/12/u-s-drone-strikes-in-north-waziristan-kill-at-least-four-suspected-taliban-militants.md) _(Current version)_

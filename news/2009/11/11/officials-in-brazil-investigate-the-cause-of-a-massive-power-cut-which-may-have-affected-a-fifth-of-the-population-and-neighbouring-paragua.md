@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/11/11/officials-in-brazil-investigate-the-cause-of-a-massive-power-cut-which-may-have-affected-a-fifth-of-the-population-and-neighbouring-paragua.html)  [JSON](/news/2009/11/11/officials-in-brazil-investigate-the-cause-of-a-massive-power-cut-which-may-have-affected-a-fifth-of-the-population-and-neighbouring-paragua.json)  [XML](/news/2009/11/11/officials-in-brazil-investigate-the-cause-of-a-massive-power-cut-which-may-have-affected-a-fifth-of-the-population-and-neighbouring-paragua.xml)  
+
 ### [2009-11-11](/news/2009/11/11/index.md)
 
+##### Brazil
 #  Officials in Brazil investigate the cause of a massive power cut which may have affected a fifth of the population and neighbouring Paraguay. 
 
 A huge power failure involving the world’s largest operating hydroelectric plant exposed the vulnerability of Brazil’s electricity infrastructure.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8355294.stm)
-2. [New York Times](http://www.nytimes.com/2009/11/12/world/americas/12brazil.html)
+2. [New York Times](https://www.nytimes.com/2009/11/12/world/americas/12brazil.html)
 2. [Cover Image](https://static01.nyt.com/images/2009/11/11/world/11cnd-brazilspan/thumbStandard.jpg)
 
 ### Related:
@@ -17,4 +21,4 @@ A huge power failure involving the world’s largest operating hydroelectric pla
 2. [Authorities in Paraguay arrest a Bolivian drug lord and seize nearly 1700kg of cocaine near the border with Brazil. ](/news/2012/11/11/authorities-in-paraguay-arrest-a-bolivian-drug-lord-and-seize-nearly-1700kg-of-cocaine-near-the-border-with-brazil.md) _Context: Brazil, Paraguay_
 3. [The Brazilian Senate approves a plan to triple payments to Paraguay for the use of excess electricity generated at the jointly-run Itaipu Dam. ](/news/2011/05/12/the-brazilian-senate-approves-a-plan-to-triple-payments-to-paraguay-for-the-use-of-excess-electricity-generated-at-the-jointly-run-itaipu-da.md) _Context: Brazil, Paraguay_
 4. [ A power failure at Itaipu causes a massive blackout, affecting 15 states of Brazil and, briefly, the entire country of Paraguay; chaos is reported in major cities such as So Paulo. ](/news/2009/11/10/a-power-failure-at-itaipu-causes-a-massive-blackout-affecting-15-states-of-brazil-and-briefly-the-entire-country-of-paraguay-chaos-is-r.md) _Context: Brazil, Paraguay_
-5. [In the town of Janauba, Minas Gerais state, Brazil, a recently dismissed security guard set fire to a childcare center, killing at least four children and a teacher and leaving 25 others, mostly children aged four and five, injured. ](/news/2017/10/5/in-the-town-of-janaaoba-minas-gerais-state-brazil-a-recently-dismissed-security-guard-set-fire-to-a-childcare-center-killing-at-least-fo.md) _Context: Brazil_
+5. [The state government of Minas Gerais, Brazil, declares a health emergency in three areas, Belo Horizonte, Itabira and Ponte Nova, over an outbreak of yellow fever. ](/news/2018/01/20/the-state-government-of-minas-gerais-brazil-declares-a-health-emergency-in-three-areas-belo-horizonte-itabira-and-ponte-nova-over-an-ou.md) _Context: Brazil_

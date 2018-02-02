@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/2/the-trial-of-suspected-nazi-death-camp-guard-john-demjanjuk-is-postponed-after-he-is-taken-ill.html)  [JSON](/news/2009/12/2/the-trial-of-suspected-nazi-death-camp-guard-john-demjanjuk-is-postponed-after-he-is-taken-ill.json)  [XML](/news/2009/12/2/the-trial-of-suspected-nazi-death-camp-guard-john-demjanjuk-is-postponed-after-he-is-taken-ill.xml)  
+
 ### [2009-12-2](/news/2009/12/2/index.md)
 
+##### Nazi
 #  The trial of suspected Nazi death camp guard John Demjanjuk is postponed after he is taken ill. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jHI-6xv7RV-tF2OGyP1QYQHlr7aQ)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,4957791,00.html)

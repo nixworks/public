@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/5/episcopal-church-the-annual-convention-of-the-episcopal-diocese-of-pittsburgh-approves-an-amendment-to-its-constitution-which-allows-it-to.html)  [JSON](/news/2004/11/5/episcopal-church-the-annual-convention-of-the-episcopal-diocese-of-pittsburgh-approves-an-amendment-to-its-constitution-which-allows-it-to.json)  [XML](/news/2004/11/5/episcopal-church-the-annual-convention-of-the-episcopal-diocese-of-pittsburgh-approves-an-amendment-to-its-constitution-which-allows-it-to.xml)  
+
 ### [2004-11-5](/news/2004/11/5/index.md)
 
+##### United States Episcopal Church
 #  Episcopal Church: The Annual Convention of the Episcopal Diocese of Pittsburgh approves an amendment to its Constitution which allows it to differ with the opinion of the national church on issues which the diocese believes to be "contrary to the historic faith and order" of the church. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Diocese of Pittsburgh](http://www.pgh.anglican.org/templates/cla15bl/details.asp?id=25239&PID=196046&mast=)
 

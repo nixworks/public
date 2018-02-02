@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/28/white-house-chief-of-staff-andy-card-announces-he-will-resign-from-his-job-on-april-14-2006-card-is-one-of-a-few-people-who-has-been-on-d.html)  [JSON](/news/2006/03/28/white-house-chief-of-staff-andy-card-announces-he-will-resign-from-his-job-on-april-14-2006-card-is-one-of-a-few-people-who-has-been-on-d.json)  [XML](/news/2006/03/28/white-house-chief-of-staff-andy-card-announces-he-will-resign-from-his-job-on-april-14-2006-card-is-one-of-a-few-people-who-has-been-on-d.xml)  
+
 ### [2006-03-28](/news/2006/03/28/index.md)
 
+##### White House Chief of Staff
 #  White House Chief of Staff Andy Card announces he will resign from his job on April 14, 2006. Card is one of a few people who has been on duty in the Bush Administration since day 1. He will be replaced by Joshua Bolten, Director of Office of Management and Budget. 
 
 White House chief of staff Andy Card is resigning, President Bush said Tuesday, and is being replaced by budget director Josh Bolten.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/12048598/from/ET/)
 1. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Video/060328/nn_greg_bush_060328.standard.jpg)

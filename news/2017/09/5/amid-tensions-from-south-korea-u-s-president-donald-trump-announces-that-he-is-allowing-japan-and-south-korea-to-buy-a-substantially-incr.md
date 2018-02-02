@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/5/amid-tensions-from-south-korea-u-s-president-don
 
 ### [2017-09-5](/news/2017/09/5/index.md)
 
+##### 2017 North Korea crisis
 # Amid tensions from South Korea, U.S. President Donald Trump announces that he is "allowing Japan and South Korea to buy a substantially increased amount of highly sophisticated military equipment from the United States." 
 
 Donald Trump has announced his is selling Japan and South Korea a “substantially increased” amount of US military equipment, as the President and his allies look for ways to counter the threat from North Korea.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/20/britain-warns-libya-not-to-celebrate-the-one-year-anniversary-of-the-release-of-pan-am-flight-103-bomber-abdelbaset-al-megrahi-released-on.html)  [JSON](/news/2010/08/20/britain-warns-libya-not-to-celebrate-the-one-year-anniversary-of-the-release-of-pan-am-flight-103-bomber-abdelbaset-al-megrahi-released-on.json)  [XML](/news/2010/08/20/britain-warns-libya-not-to-celebrate-the-one-year-anniversary-of-the-release-of-pan-am-flight-103-bomber-abdelbaset-al-megrahi-released-on.xml)  
+
 ### [2010-08-20](/news/2010/08/20/index.md)
 
+##### Lockerbie bombing
 # Britain warns Libya not to celebrate the one year anniversary of the release of Pan Am Flight 103 bomber Abdelbaset al-Megrahi, released on compassionate grounds suffering terminal cancer and expected to live just three months. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/201082013134809404.html)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE67J0CH20100820)

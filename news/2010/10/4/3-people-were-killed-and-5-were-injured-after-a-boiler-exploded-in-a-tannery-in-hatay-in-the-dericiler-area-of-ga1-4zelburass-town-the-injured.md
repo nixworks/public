@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/4/3-people-were-killed-and-5-were-injured-after-a-boiler-exploded-in-a-tannery-in-hatay-in-the-dericiler-area-of-ga1-4zelburass-town-the-injured.html)  [JSON](/news/2010/10/4/3-people-were-killed-and-5-were-injured-after-a-boiler-exploded-in-a-tannery-in-hatay-in-the-dericiler-area-of-ga1-4zelburass-town-the-injured.json)  [XML](/news/2010/10/4/3-people-were-killed-and-5-were-injured-after-a-boiler-exploded-in-a-tannery-in-hatay-in-the-dericiler-area-of-ga1-4zelburass-town-the-injured.xml)  
+
 ### [2010-10-4](/news/2010/10/4/index.md)
 
+##### Hatay Province
 # 3 people were killed and 5 were injured after a boiler exploded in a tannery in Hatay in the Dericiler area of Guzelburc town. The injured were taken to Mustafa Kemal University's faculty of medicine hospital. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Today's Zaman](http://www.todayszaman.com/tz-web/news-223400-boiler-explosion-kills-3-injures-5.html)
 

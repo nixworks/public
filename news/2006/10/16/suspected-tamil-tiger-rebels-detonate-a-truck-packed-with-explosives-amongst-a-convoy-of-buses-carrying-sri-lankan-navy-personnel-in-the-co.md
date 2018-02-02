@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/10/16/suspected-tamil-tiger-rebels-detonate-a-truck-packed-with-explosives-amongst-a-convoy-of-buses-carrying-sri-lankan-navy-personnel-in-the-co.html)  [JSON](/news/2006/10/16/suspected-tamil-tiger-rebels-detonate-a-truck-packed-with-explosives-amongst-a-convoy-of-buses-carrying-sri-lankan-navy-personnel-in-the-co.json)  [XML](/news/2006/10/16/suspected-tamil-tiger-rebels-detonate-a-truck-packed-with-explosives-amongst-a-convoy-of-buses-carrying-sri-lankan-navy-personnel-in-the-co.xml)  
+
 ### [2006-10-16](/news/2006/10/16/index.md)
 
+##### LTTE
 #  Suspected Tamil Tiger rebels detonate a truck packed with explosives amongst a convoy of buses carrying Sri Lankan Navy personnel in the country's northeast. Approximately 102 people are killed, and 150 people are wounded. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20061016/ts_afp/srilankaunrest_061016140027)
+1. [AFP via Yahoo! News](https://news.yahoo.com/s/afp/20061016/ts_afp/srilankaunrest_061016140027)
 
 ### Related:
 

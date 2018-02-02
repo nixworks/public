@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/20/the-hijacker-of-canjet-flight-918-surrenders-and-releases-his-six-hostages.html)  [JSON](/news/2009/04/20/the-hijacker-of-canjet-flight-918-surrenders-and-releases-his-six-hostages.json)  [XML](/news/2009/04/20/the-hijacker-of-canjet-flight-918-surrenders-and-releases-his-six-hostages.xml)  
+
 ### [2009-04-20](/news/2009/04/20/index.md)
 
+##### aircraft piracy
 #  The hijacker of CanJet Flight 918 surrenders and releases his six hostages. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8007546.stm)
 2. [Sky News](http://news.sky.com/skynews/Home/World-News/Hostages-Are-Being-Held-On-A-Plane-in-Montego-Bay-Jamaica-According-To-Reports/Article/200904315264919?lpos=World_News_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15264919_Hostages_Are_Being_Held_On_A_Plane_in_Montego_Bay%2C_Jamaica%2C_According_To_Reports)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/5/starbucks-corporation-is-embroiled-in-controversy-after-asking-its-irish-customers-if-they-are-proud-to-be-british.html)  [JSON](/news/2012/06/5/starbucks-corporation-is-embroiled-in-controversy-after-asking-its-irish-customers-if-they-are-proud-to-be-british.json)  [XML](/news/2012/06/5/starbucks-corporation-is-embroiled-in-controversy-after-asking-its-irish-customers-if-they-are-proud-to-be-british.xml)  
+
 ### [2012-06-5](/news/2012/06/5/index.md)
 
+##### Starbucks
 # Starbucks Corporation is embroiled in controversy after asking its Irish customers if they are "proud to be British." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/business/2012/jun/05/starbucks-british-tweet-irks-irish-followers)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/18/roch-wamytan-is-elected-president-of-the-congress-of-new-caledonia-by-the-congress-of-new-caledonia-with-32-votes.html)  [JSON](/news/2011/08/18/roch-wamytan-is-elected-president-of-the-congress-of-new-caledonia-by-the-congress-of-new-caledonia-with-32-votes.json)  [XML](/news/2011/08/18/roch-wamytan-is-elected-president-of-the-congress-of-new-caledonia-by-the-congress-of-new-caledonia-with-32-votes.xml)  
+
 ### [2011-08-18](/news/2011/08/18/index.md)
 
+##### Roch Wamytan
 # Roch Wamytan is elected President of the Congress of New Caledonia by the Congress of New Caledonia with 32 votes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=62513)
 

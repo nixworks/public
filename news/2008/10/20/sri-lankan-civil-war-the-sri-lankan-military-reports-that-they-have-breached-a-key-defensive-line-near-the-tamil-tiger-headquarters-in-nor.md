@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/20/sri-lankan-civil-war-the-sri-lankan-military-reports-that-they-have-breached-a-key-defensive-line-near-the-tamil-tiger-headquarters-in-nor.html)  [JSON](/news/2008/10/20/sri-lankan-civil-war-the-sri-lankan-military-reports-that-they-have-breached-a-key-defensive-line-near-the-tamil-tiger-headquarters-in-nor.json)  [XML](/news/2008/10/20/sri-lankan-civil-war-the-sri-lankan-military-reports-that-they-have-breached-a-key-defensive-line-near-the-tamil-tiger-headquarters-in-nor.xml)  
+
 ### [2008-10-20](/news/2008/10/20/index.md)
 
+##### Sri Lankan Civil War
 #  Sri Lankan Civil War: The Sri Lankan military reports that they have breached a key defensive line near the Tamil Tiger headquarters in northern Sri Lanka. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7679187.stm)
 

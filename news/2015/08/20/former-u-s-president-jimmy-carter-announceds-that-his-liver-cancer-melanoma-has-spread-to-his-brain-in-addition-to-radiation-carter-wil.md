@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/08/20/former-u-s-president-jimmy-carter-announceds-that-his-liver-cancer-melanoma-has-spread-to-his-brain-in-addition-to-radiation-carter-wil.html)  [JSON](/news/2015/08/20/former-u-s-president-jimmy-carter-announceds-that-his-liver-cancer-melanoma-has-spread-to-his-brain-in-addition-to-radiation-carter-wil.json)  [XML](/news/2015/08/20/former-u-s-president-jimmy-carter-announceds-that-his-liver-cancer-melanoma-has-spread-to-his-brain-in-addition-to-radiation-carter-wil.xml)  
+
 ### [2015-08-20](/news/2015/08/20/index.md)
 
+##### U.S. President
 # Former U.S. President Jimmy Carter announceds that his liver cancer (melanoma) has spread to his brain. In addition to radiation, Carter will be treated with a new drug, Keytruda (pembrolizumab), that boosts the immune system without the debilitating side effects of older treatments. 
 
 The 90-year-old former president says he is &ldquo;perfectly at ease with whatever comes.&rdquo;
 
 
-### Source:
+### Sources:
 
 1. [OncLive](http://www.onclive.com/web-exclusives/frontline-pembrolizumab-receives-priority-review-in-melanoma)
-2. [The Washington Post](http://www.washingtonpost.com/national/health-science/jimmy-carter-to-undergo-latest-immune-treatment-for-brain-cancer/2015/08/20/5b962c02-4775-11e5-846d-02792f854297_story.html)
+2. [The Washington Post](https://www.washingtonpost.com/national/health-science/jimmy-carter-to-undergo-latest-immune-treatment-for-brain-cancer/2015/08/20/5b962c02-4775-11e5-846d-02792f854297_story.html)
 3. [WRDW-TV GA](http://www.wrdw.com/home/headlines/Jimmy-Carter-to-discuss-cancer-diagnosis-in-Atlanta-on-Thursday-322206642.html)
 3. [Cover Image](http://media.graytvinc.com/images/431*315/jimmy.carter.jpg)
 

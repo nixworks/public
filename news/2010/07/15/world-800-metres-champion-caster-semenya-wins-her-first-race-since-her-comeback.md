@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/15/world-800-metres-champion-caster-semenya-wins-her-first-race-since-her-comeback.html)  [JSON](/news/2010/07/15/world-800-metres-champion-caster-semenya-wins-her-first-race-since-her-comeback.json)  [XML](/news/2010/07/15/world-800-metres-champion-caster-semenya-wins-her-first-race-since-her-comeback.xml)  
+
 ### [2010-07-15](/news/2010/07/15/index.md)
 
+##### 800 metres
 # World 800 metres champion Caster Semenya wins her first race since her comeback. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://arabnews.com/sports/article85007.ece)
 2. [BBC Sport](http://news.bbc.co.uk/sport2/hi/athletics/8822744.stm)

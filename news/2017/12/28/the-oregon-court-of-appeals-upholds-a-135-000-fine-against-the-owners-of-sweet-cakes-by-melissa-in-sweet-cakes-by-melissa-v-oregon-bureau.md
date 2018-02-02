@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/28/the-oregon-court-of-appeals-upholds-a-135-000-f
 
 ### [2017-12-28](/news/2017/12/28/index.md)
 
+##### Same-sex marriage in the United States
 # The Oregon Court of Appeals upholds a $135,000 fine against the owners of Sweet Cakes by Melissa in "Sweet Cakes by Melissa v. Oregon Bureau of Labor and Industries" for refusing to make a wedding cake for a same-sex couple. A similar case, "Masterpiece Cakeshop v. Colorado Civil Rights Commission" has reached the Supreme Court of the United States with a decision expected in June 2018. 
 
 

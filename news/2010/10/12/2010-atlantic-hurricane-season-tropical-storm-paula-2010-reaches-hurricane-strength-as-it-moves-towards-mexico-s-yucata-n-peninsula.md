@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/10/12/2010-atlantic-hurricane-season-tropical-storm-paula-2010-reaches-hurricane-strength-as-it-moves-towards-mexico-s-yucata-n-peninsula.html)  [JSON](/news/2010/10/12/2010-atlantic-hurricane-season-tropical-storm-paula-2010-reaches-hurricane-strength-as-it-moves-towards-mexico-s-yucata-n-peninsula.json)  [XML](/news/2010/10/12/2010-atlantic-hurricane-season-tropical-storm-paula-2010-reaches-hurricane-strength-as-it-moves-towards-mexico-s-yucata-n-peninsula.xml)  
+
 ### [2010-10-12](/news/2010/10/12/index.md)
 
+##### 2010 Atlantic hurricane season
 # 2010 Atlantic hurricane season: Tropical Storm Paula (2010) reaches hurricane strength as it moves towards Mexico's Yucatan Peninsula. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE69A4TD20101012)
+1. [Reuters](https://www.reuters.com/article/idUSTRE69A4TD20101012)
 1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20101012&t=2&i=224327175&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-10-12T200410Z_01_BTRE69B1J6000_RTROPTP_0_STORM-PAULA)
 
 ### Related:

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/4/ben-carson-suspends-his-campaign-for-the-republi
 
 ### [2016-03-4](/news/2016/03/4/index.md)
 
+##### 2016 U.S. presidential election
 # Ben Carson suspends his campaign for the Republican Party nomination. The expected announcement was made during a speech at the 2016 Conservative Political Action Conference (CPAC). 
 
 Ben Carson announced Friday he is suspending his presidential campaign after a string of disappointing finishes in the Republican nominating contests.

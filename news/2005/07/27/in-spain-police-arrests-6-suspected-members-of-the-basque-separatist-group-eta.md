@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/27/in-spain-police-arrests-6-suspected-members-of-the-basque-separatist-group-eta.html)  [JSON](/news/2005/07/27/in-spain-police-arrests-6-suspected-members-of-the-basque-separatist-group-eta.json)  [XML](/news/2005/07/27/in-spain-police-arrests-6-suspected-members-of-the-basque-separatist-group-eta.xml)  
+
 ### [2005-07-27](/news/2005/07/27/index.md)
 
+##### Spain
 #  In Spain, police arrests 6 suspected members of the Basque separatist group ETA 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [EITB](http://www.eitb24.com/noticia_en.php?id=78551)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-07-27T160559Z_01_N27259493_RTRIDST_0_INTERNATIONAL-SPAIN-ETA-DC.XML)

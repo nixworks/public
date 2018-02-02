@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/03/7/pakistan-s-election-commission-announces-the-completed-results-of-parliamentary-election.html)  [JSON](/news/2008/03/7/pakistan-s-election-commission-announces-the-completed-results-of-parliamentary-election.json)  [XML](/news/2008/03/7/pakistan-s-election-commission-announces-the-completed-results-of-parliamentary-election.xml)  
+
 ### [2008-03-7](/news/2008/03/7/index.md)
 
+##### Pakistan
 #  Pakistan's Election Commission announces the completed results of parliamentary election. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSSP17779720080307)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSSP17779720080307)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

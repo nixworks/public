@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/17/the-emerging-2008-baby-milk-scandal-shows-evidence-of-coverup-by-officials-during-the-olympics.html)  [JSON](/news/2008/09/17/the-emerging-2008-baby-milk-scandal-shows-evidence-of-coverup-by-officials-during-the-olympics.json)  [XML](/news/2008/09/17/the-emerging-2008-baby-milk-scandal-shows-evidence-of-coverup-by-officials-during-the-olympics.xml)  
+
 ### [2008-09-17](/news/2008/09/17/index.md)
 
+##### adulterated milk products and infant formula
 #  The emerging 2008 baby milk scandal shows evidence of coverup by officials during the Olympics. 
 
 China said on Wednesday a third infant had died after drinking contaminated milk and the number sick had leapt to many thousands, while an official said the health threat was concealed for at least a month.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/26755023/)
 1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)

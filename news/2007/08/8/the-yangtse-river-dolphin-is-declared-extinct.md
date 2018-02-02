@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/8/the-yangtse-river-dolphin-is-declared-extinct.html)  [JSON](/news/2007/08/8/the-yangtse-river-dolphin-is-declared-extinct.json)  [XML](/news/2007/08/8/the-yangtse-river-dolphin-is-declared-extinct.xml)  
+
 ### [2007-08-8](/news/2007/08/8/index.md)
 
+##### Yangtse River Dolphin
 #  The Yangtse River Dolphin is declared extinct. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/environment/2007/aug/08/endangeredspecies.conservation)
 2. [The Scotsman](http://thescotsman.scotsman.com/international.cfm?id=1241492007)

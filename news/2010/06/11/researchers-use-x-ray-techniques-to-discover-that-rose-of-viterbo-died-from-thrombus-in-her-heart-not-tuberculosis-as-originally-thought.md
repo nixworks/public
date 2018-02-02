@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/11/researchers-use-x-ray-techniques-to-discover-that-rose-of-viterbo-died-from-thrombus-in-her-heart-not-tuberculosis-as-originally-thought.html)  [JSON](/news/2010/06/11/researchers-use-x-ray-techniques-to-discover-that-rose-of-viterbo-died-from-thrombus-in-her-heart-not-tuberculosis-as-originally-thought.json)  [XML](/news/2010/06/11/researchers-use-x-ray-techniques-to-discover-that-rose-of-viterbo-died-from-thrombus-in-her-heart-not-tuberculosis-as-originally-thought.xml)  
+
 ### [2010-06-11](/news/2010/06/11/index.md)
 
+##### X-ray
 # Researchers use X-ray techniques to discover that Rose of Viterbo died from thrombus in her heart, not tuberculosis as originally thought. 
 
 Researchers have used X-ray techniques to uncover the cause of death of a 700-year-old mummy.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/health/10286267.stm)
 2. [Fox News](http://www.foxnews.com/story/0,2933,594404,00.html)

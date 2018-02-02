@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/10/stagehands-belonging-to-the-international-alliance-of-theatrical-stage-employees-go-on-strike-shutting-down-most-broadway-plays-and-musica.html)  [JSON](/news/2007/11/10/stagehands-belonging-to-the-international-alliance-of-theatrical-stage-employees-go-on-strike-shutting-down-most-broadway-plays-and-musica.json)  [XML](/news/2007/11/10/stagehands-belonging-to-the-international-alliance-of-theatrical-stage-employees-go-on-strike-shutting-down-most-broadway-plays-and-musica.xml)  
+
 ### [2007-11-10](/news/2007/11/10/index.md)
 
+##### Stagehand
 #  Stagehands belonging to the International Alliance of Theatrical Stage Employees go on strike, shutting down most Broadway plays and musicals. 
 
 Stagehands belonging to the Local One of the International Alliance of Theatrical Stage Employees set up picket lines on Saturday, shutting down more than 24 plays and musicals on the most popular theatergoing day of the week.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,310336,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

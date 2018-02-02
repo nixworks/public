@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/7/the-government-of-tanzania-cannot-account-for-sh-260-million-approx-us-200-000-in-aid-from-the-global-fund-initiative-to-fight-aids-and-h.html)  [JSON](/news/2008/01/7/the-government-of-tanzania-cannot-account-for-sh-260-million-approx-us-200-000-in-aid-from-the-global-fund-initiative-to-fight-aids-and-h.json)  [XML](/news/2008/01/7/the-government-of-tanzania-cannot-account-for-sh-260-million-approx-us-200-000-in-aid-from-the-global-fund-initiative-to-fight-aids-and-h.xml)  
+
 ### [2008-01-7](/news/2008/01/7/index.md)
 
+##### Tanzania
 #  The government of Tanzania cannot account for Sh$260 million (approx US$200,000) in aid from the Global Fund initiative to fight AIDS and HIV. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [allAfrica](http://allafrica.com/stories/200801070915.html)
 

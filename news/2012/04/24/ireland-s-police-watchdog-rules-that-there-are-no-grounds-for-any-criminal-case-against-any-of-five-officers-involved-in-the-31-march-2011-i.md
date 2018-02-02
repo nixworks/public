@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/24/ireland-s-police-watchdog-rules-that-there-are-no-grounds-for-any-criminal-case-against-any-of-five-officers-involved-in-the-31-march-2011-i.html)  [JSON](/news/2012/04/24/ireland-s-police-watchdog-rules-that-there-are-no-grounds-for-any-criminal-case-against-any-of-five-officers-involved-in-the-31-march-2011-i.json)  [XML](/news/2012/04/24/ireland-s-police-watchdog-rules-that-there-are-no-grounds-for-any-criminal-case-against-any-of-five-officers-involved-in-the-31-march-2011-i.xml)  
+
 ### [2012-04-24](/news/2012/04/24/index.md)
 
+##### GSOC
 # Ireland's police watchdog rules that there are no grounds for any criminal case against any of five officers involved in the 31 March 2011 incident known as the "rape tape" controversy, resulting from the inadvertent video recording of a sergeant in a patrol car joking about the rape of two women. 
 
 Jerrie Ann Sullivan says she is &#8220;not at all surprised&#8221; about the findings of the GSOC investigation released today.
 
 
-### Source:
+### Sources:
 
 1. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/watchdog-no-grounds-for-criminal-case-in-corrib-gas-rape-tape-furore-548792.html)
 2. [The Journal](http://www.thejournal.ie/rape-tape-controversy-woman-says-investigation-was-about-protecting-gardai-428047-Apr2012/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/15/unification-church-founder-sun-myung-moon-is-taken-to-hospital-in-grave-condition-due-to-complications-of-pneumonia-and-respiratory-problems.html)  [JSON](/news/2012/08/15/unification-church-founder-sun-myung-moon-is-taken-to-hospital-in-grave-condition-due-to-complications-of-pneumonia-and-respiratory-problems.json)  [XML](/news/2012/08/15/unification-church-founder-sun-myung-moon-is-taken-to-hospital-in-grave-condition-due-to-complications-of-pneumonia-and-respiratory-problems.xml)  
+
 ### [2012-08-15](/news/2012/08/15/index.md)
 
+##### Unification Church
 # Unification Church founder Sun Myung Moon is taken to hospital in grave condition due to complications of pneumonia and respiratory problems. 
 
 Rev. Moon Sun-myung, the founder of the Unification Church, is gravely ill, according to a hospital official. 
 
 
-### Source:
+### Sources:
 
 1. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2012/08/113_117482.html)
 

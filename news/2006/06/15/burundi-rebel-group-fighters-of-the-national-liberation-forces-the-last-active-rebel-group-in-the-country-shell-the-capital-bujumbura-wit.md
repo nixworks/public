@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/15/burundi-rebel-group-fighters-of-the-national-liberation-forces-the-last-active-rebel-group-in-the-country-shell-the-capital-bujumbura-wit.html)  [JSON](/news/2006/06/15/burundi-rebel-group-fighters-of-the-national-liberation-forces-the-last-active-rebel-group-in-the-country-shell-the-capital-bujumbura-wit.json)  [XML](/news/2006/06/15/burundi-rebel-group-fighters-of-the-national-liberation-forces-the-last-active-rebel-group-in-the-country-shell-the-capital-bujumbura-wit.xml)  
+
 ### [2006-06-15](/news/2006/06/15/index.md)
 
+##### Burundi
 #  Burundi rebel group Fighters of the National Liberation Forces, the last active rebel group in the country, shell the capital Bujumbura with 15 60mm mortars injuring at least eight civilians despite ongoing peace talks between the group and the Government of Burundi in Tanzania. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News24.com](http://www.news24.com/News24/Africa/News/0,6119,2-11-1447_1952189,00.html)
 1. [Cover Image](http://graph.facebook.com/10227041841/picture)

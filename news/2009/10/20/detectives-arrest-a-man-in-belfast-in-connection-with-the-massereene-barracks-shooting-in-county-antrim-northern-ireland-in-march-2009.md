@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/20/detectives-arrest-a-man-in-belfast-in-connection-with-the-massereene-barracks-shooting-in-county-antrim-northern-ireland-in-march-2009.html)  [JSON](/news/2009/10/20/detectives-arrest-a-man-in-belfast-in-connection-with-the-massereene-barracks-shooting-in-county-antrim-northern-ireland-in-march-2009.json)  [XML](/news/2009/10/20/detectives-arrest-a-man-in-belfast-in-connection-with-the-massereene-barracks-shooting-in-county-antrim-northern-ireland-in-march-2009.xml)  
+
 ### [2009-10-20](/news/2009/10/20/index.md)
 
+##### Belfast
 #  Detectives arrest a man in Belfast in connection with the Massereene Barracks shooting in County Antrim, Northern Ireland, in March 2009. 
 
 Detectives investigating the murders of two British soldiers in Co Antrim in March have arrested a 47-year-old man.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8317094.stm)
 2. [Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5j9obMgS2AwW4Tq2WmrXdLqkpmN2g)

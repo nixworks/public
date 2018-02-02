@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/06/24/murder-of-ronald-gajraj-who-had-made-guyanese-death-squad-allegations.html)  [JSON](/news/2004/06/24/murder-of-ronald-gajraj-who-had-made-guyanese-death-squad-allegations.json)  [XML](/news/2004/06/24/murder-of-ronald-gajraj-who-had-made-guyanese-death-squad-allegations.xml)  
+
 ### [2004-06-24](/news/2004/06/24/index.md)
 
+##### kill
 #  Murder of Ronald Gajraj, who had made Guyanese death squad allegations.
 
 
@@ -7,8 +11,8 @@
 
 ### Related:
 
-1. [Brazil is to investigate the supposed murder of ten members of an Amazonian tribe in the Javari Valley. ](/news/2017/09/11/brazil-is-to-investigate-the-supposed-murder-of-ten-members-of-an-amazonian-tribe-in-the-javari-valley.md) _Context: murder_
-2. [Two more Filipino journalists are murdered in a span of two days adding to toll of more than a hundred journalists killed since 2000. ](/news/2017/08/7/two-more-filipino-journalists-are-murdered-in-a-span-of-two-days-adding-to-toll-of-more-than-a-hundred-journalists-killed-since-2000.md) _Context: murder_
-3. [The Archbishop of Manila Luis Antonio Tagle condemns the extralegal killings and murders under Rodrigo Duterte. ](/news/2016/08/28/the-archbishop-of-manila-luis-antonio-tagle-condemns-the-extralegal-killings-and-murders-under-rodrigo-duterte.md) _Context: murder_
-4. [Philippines President Rodrigo Duterte urges Filipino citizens to murder people suspected of using illegal drugs. ](/news/2016/07/1/philippines-president-rodrigo-duterte-urges-filipino-citizens-to-murder-people-suspected-of-using-illegal-drugs.md) _Context: murder_
-5. [Presidential frontrunner Rodrigo Duterte jokes about an Australian woman being raped and murdered in Davao City. ](/news/2016/04/17/presidential-frontrunner-rodrigo-duterte-jokes-about-an-australian-woman-being-raped-and-murdered-in-davao-city.md) _Context: murder_
+1. [A riot at a prison in Guyana's capital Georgetown leaves at least 16 people dead. The riot began when inmates angered by a search that led to the confiscation of mobile phones set fires in one part of the prison. ](/news/2016/03/3/a-riot-at-a-prison-in-guyana-s-capital-georgetown-leaves-at-least-16-people-dead-the-riot-began-when-inmates-angered-by-a-search-that-led-t.md) _Context: Guyana_
+2. [Guyana's President David Granger accuses Venezuela of massing troops, armored vehicles, and rockets along its disputed border. ](/news/2015/09/27/guyana-s-president-david-granger-accuses-venezuela-of-massing-troops-armored-vehicles-and-rockets-along-its-disputed-border.md) _Context: Guyana_
+3. [Voters in Guyana go to the polls for a general election. ](/news/2015/05/11/voters-in-guyana-go-to-the-polls-for-a-general-election.md) _Context: Guyana_
+4. [Guyana rejects the latest objections raised by neighboring Venezuela over the granting to ExxonMobil Corp. of an oil and gas concession in Caribbean waters claimed by both nations. ](/news/2015/03/14/guyana-rejects-the-latest-objections-raised-by-neighboring-venezuela-over-the-granting-to-exxonmobil-corp-of-an-oil-and-gas-concession-in-c.md) _Context: Guyana_
+5. [Former New York City police officer Gilberto Valle is found guilty of plotting to kidnap, kill, and eat women. ](/news/2013/03/12/former-new-york-city-police-officer-gilberto-valle-is-found-guilty-of-plotting-to-kidnap-kill-and-eat-women.md) _Context: kill_

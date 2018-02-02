@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/25/president-mohamed-ould-abdel-aziz-returns-to-mauritania-after-being-in-france-for-five-weeks-recovering-after-being-shot-by-a-soldier-on-13.html)  [JSON](/news/2012/11/25/president-mohamed-ould-abdel-aziz-returns-to-mauritania-after-being-in-france-for-five-weeks-recovering-after-being-shot-by-a-soldier-on-13.json)  [XML](/news/2012/11/25/president-mohamed-ould-abdel-aziz-returns-to-mauritania-after-being-in-france-for-five-weeks-recovering-after-being-shot-by-a-soldier-on-13.xml)  
+
 ### [2012-11-25](/news/2012/11/25/index.md)
 
+##### President
 # President Mohamed Ould Abdel Aziz returns to Mauritania after being in France for five weeks recovering after being shot by a soldier on 13 October. 
 
 President Aziz returned after five weeks in France for medical treatment following a friendly-fire shooting accident.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/11/2012112423266262866.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/11/24/20121124234456793734_20.jpg)

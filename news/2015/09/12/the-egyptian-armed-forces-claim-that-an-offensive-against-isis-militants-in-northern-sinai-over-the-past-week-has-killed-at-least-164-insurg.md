@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2015/09/12/the-egyptian-armed-forces-claim-that-an-offensive-against-isis-militants-in-northern-sinai-over-the-past-week-has-killed-at-least-164-insurg.html)  [JSON](/news/2015/09/12/the-egyptian-armed-forces-claim-that-an-offensive-against-isis-militants-in-northern-sinai-over-the-past-week-has-killed-at-least-164-insurg.json)  [XML](/news/2015/09/12/the-egyptian-armed-forces-claim-that-an-offensive-against-isis-militants-in-northern-sinai-over-the-past-week-has-killed-at-least-164-insurg.xml)  
+
 ### [2015-09-12](/news/2015/09/12/index.md)
 
+##### Sinai insurgency
 # The Egyptian Armed Forces claim that an offensive against ISIS militants in northern Sinai over the past week has killed at least 164 insurgents with the loss of eight troops. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Sky News](http://www.skynews.com.au/news/world/mideast/2015/09/13/egypt-operation-kills-296-jihadists.html)
+
+### Changes:
+
+1. [Sinai insurgency: The Egyptian Armed Forces claim that an offensive against ISIS militants in northern Sinai over the past week has killed at least 164 insurgents with the loss of eight troops. ](/news/2015/09/12/sinai-insurgency-the-egyptian-armed-forces-claim-that-an-offensive-against-isis-militants-in-northern-sinai-over-the-past-week-has-killed-a.md) _2017-08-27 03:43:02 (First version)_
+1. [The Egyptian Armed Forces claim that an offensive against ISIS militants in northern Sinai over the past week has killed at least 164 insurgents with the loss of eight troops. ](/news/2015/09/12/the-egyptian-armed-forces-claim-that-an-offensive-against-isis-militants-in-northern-sinai-over-the-past-week-has-killed-at-least-164-insurg.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [Egypt's security forces shoot dead at least 24 ISIS militants as they hid inside a cave in a mountainous area in central Sinai, not far from the crash site of Metrojet Flight 9268, a Russian airliner the group says it brought down. ](/news/2015/11/16/egypt-s-security-forces-shoot-dead-at-least-24-isis-militants-as-they-hid-inside-a-cave-in-a-mountainous-area-in-central-sinai-not-far-from.md) _Context: Egyptian military, Sinai Peninsula, Sinai insurgency_
 4. [ A shell kills a woman and her two children as fighting continues on the Sinai Peninsula between the Egyptian Army and Islamic State of Iraq and the Levant militants. ](/news/2015/07/4/a-shell-kills-a-woman-and-her-two-children-as-fighting-continues-on-the-sinai-peninsula-between-the-egyptian-army-and-islamic-state-of-iraq.md) _Context: ISIL, Sinai Peninsula, Sinai insurgency_
 5. [ Militants ambush a police convoy in Egypt's Sinai Peninsula killing 18 police and wounding seven others. ](/news/2017/09/11/militants-ambush-a-police-convoy-in-egypt-s-sinai-peninsula-killing-18-police-and-wounding-seven-others.md) _Context: Sinai Peninsula, Sinai insurgency_
-
-### Changes:
-
-1. [Sinai insurgency: The Egyptian Armed Forces claim that an offensive against ISIS militants in northern Sinai over the past week has killed at least 164 insurgents with the loss of eight troops. ](/news/2015/09/12/sinai-insurgency-the-egyptian-armed-forces-claim-that-an-offensive-against-isis-militants-in-northern-sinai-over-the-past-week-has-killed-a.md) _2017-08-27 03:43:02 (First version)_
-1. [The Egyptian Armed Forces claim that an offensive against ISIS militants in northern Sinai over the past week has killed at least 164 insurgents with the loss of eight troops. ](/news/2015/09/12/the-egyptian-armed-forces-claim-that-an-offensive-against-isis-militants-in-northern-sinai-over-the-past-week-has-killed-at-least-164-insurg.md) _(Current version)_

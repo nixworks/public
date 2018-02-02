@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/12/2/australian-van-tuong-nguyen-is-executed-by-hanging-in-singapore-for-drug-trafficking.html)  [JSON](/news/2005/12/2/australian-van-tuong-nguyen-is-executed-by-hanging-in-singapore-for-drug-trafficking.json)  [XML](/news/2005/12/2/australian-van-tuong-nguyen-is-executed-by-hanging-in-singapore-for-drug-trafficking.xml)  
+
 ### [2005-12-2](/news/2005/12/2/index.md)
 
+##### Australia
 #  Australian Van Tuong Nguyen is executed by hanging in Singapore for drug trafficking. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo](http://news.yahoo.com/s/ap/20051201/ap_on_re_as/singapore_execution)
+1. [AP via Yahoo](https://news.yahoo.com/s/ap/20051201/ap_on_re_as/singapore_execution)
 
 ### Related:
 

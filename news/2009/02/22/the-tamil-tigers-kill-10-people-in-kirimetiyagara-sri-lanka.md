@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/22/the-tamil-tigers-kill-10-people-in-kirimetiyagara-sri-lanka.html)  [JSON](/news/2009/02/22/the-tamil-tigers-kill-10-people-in-kirimetiyagara-sri-lanka.json)  [XML](/news/2009/02/22/the-tamil-tigers-kill-10-people-in-kirimetiyagara-sri-lanka.xml)  
+
 ### [2009-02-22](/news/2009/02/22/index.md)
 
+##### LTTE
 #  The Tamil Tigers kill 10 people in Kirimetiyagara, Sri Lanka. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Melbourne Age](http://www.theage.com.au/world/tigers-kill-10-sri-lanka-villagers-defence-ministry-20090222-8egz.html)
 

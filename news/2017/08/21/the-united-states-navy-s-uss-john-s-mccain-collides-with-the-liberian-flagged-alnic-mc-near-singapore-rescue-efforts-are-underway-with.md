@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/21/the-united-states-navy-s-uss-john-s-mccain-coll
 
 ### [2017-08-21](/news/2017/08/21/index.md)
 
+##### Shipwrecks in 2017
 # The United States Navy's USS "John S. McCain" collides with the Liberian-flagged "Alnic" MC near Singapore. Rescue efforts are underway with ten sailors reported as missing. 
 
 The U.S. Navy announced on Monday a fleet-wide probe and plans for temporary halts in operations to focus on safety, as it searched for 10 sailors missing after the fourth major accident in the U.S. Pacific fleet this year.
@@ -25,8 +26,8 @@ The U.S. Navy announced on Monday a fleet-wide probe and plans for temporary hal
 
 ### Related:
 
-1. [A U.S. Navy C-2A Greyhound, operating off the aircraft carrier USS "Ronald Reagan", crashes in the Philippine Sea. Eight sailors are rescued, while three remain missing from the 11-person crew. ](/news/2017/11/22/a-u-s-navy-c-2a-greyhound-operating-off-the-aircraft-carrier-uss-ronald-reagan-crashes-in-the-philippine-sea-eight-sailors-are-rescued.md) _Context: U.S. Navy_
-2. [Voters in Liberia go to the polls to elect members to the country's House of Representatives and to replace President Ellen Johnson Sirleaf, who is constitutionally barred from seeking a third term. ](/news/2017/10/10/voters-in-liberia-go-to-the-polls-to-elect-members-to-the-country-s-house-of-representatives-and-to-replace-president-ellen-johnson-sirleaf.md) _Context: Liberia_
-3. [Halimah Yacob is elected as the first female president of Singapore as the sole candidate in the upcoming elections. ](/news/2017/09/12/halimah-yacob-is-elected-as-the-first-female-president-of-singapore-as-the-sole-candidate-in-the-upcoming-elections.md) _Context: Singapore_
-4. [The United States Navy relieves vice admiral Joseph Aucoin as commander of the United States Seventh Fleet following four collisions in Asia this year that claimed the lives of 17 sailors. ](/news/2017/08/23/the-united-states-navy-relieves-vice-admiral-joseph-aucoin-as-commander-of-the-united-states-seventh-fleet-following-four-collisions-in-asia.md) _Context: U.S. Navy_
-5. [The US Navy has announced that about a dozen sailors of the USS "Fitzgerald" are to be disciplined in the aftermath of the collision with a container ship last June, where 7 crew members died. ](/news/2017/08/17/the-us-navy-has-announced-that-about-a-dozen-sailors-of-the-uss-fitzgerald-are-to-be-disciplined-in-the-aftermath-of-the-collision-with-a.md) _Context: U.S. Navy_
+1. [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md) _Context: United States Navy_
+2. [Voters in Liberia will elect a new president in a run-off election between vice-president Joseph Boakai and former footballer George Weah. Weah is elected with 60% of the vote. ](/news/2017/12/26/voters-in-liberia-will-elect-a-new-president-in-a-run-off-election-between-vice-president-joseph-boakai-and-former-footballer-george-weah-w.md) _Context: Liberia_
+3. [A U.S. Navy C-2A Greyhound, operating off the aircraft carrier USS "Ronald Reagan", crashes in the Philippine Sea. Eight sailors are rescued, while three remain missing from the 11-person crew. ](/news/2017/11/22/a-u-s-navy-c-2a-greyhound-operating-off-the-aircraft-carrier-uss-ronald-reagan-crashes-in-the-philippine-sea-eight-sailors-are-rescued.md) _Context: United States Navy_
+4. [Voters in Liberia go to the polls to elect members to the country's House of Representatives and to replace President Ellen Johnson Sirleaf, who is constitutionally barred from seeking a third term. ](/news/2017/10/10/voters-in-liberia-go-to-the-polls-to-elect-members-to-the-country-s-house-of-representatives-and-to-replace-president-ellen-johnson-sirleaf.md) _Context: Liberia_
+5. [Halimah Yacob is elected as the first female president of Singapore as the sole candidate in the upcoming elections. ](/news/2017/09/12/halimah-yacob-is-elected-as-the-first-female-president-of-singapore-as-the-sole-candidate-in-the-upcoming-elections.md) _Context: Singapore_

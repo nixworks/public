@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2012/01/13/kiribati-president-anote-tong-is-re-elected-to-a-third-and-final-term-in-the-2012-presidential-election.html)  [JSON](/news/2012/01/13/kiribati-president-anote-tong-is-re-elected-to-a-third-and-final-term-in-the-2012-presidential-election.json)  [XML](/news/2012/01/13/kiribati-president-anote-tong-is-re-elected-to-a-third-and-final-term-in-the-2012-presidential-election.xml)  
+
 ### [2012-01-13](/news/2012/01/13/index.md)
 
+##### Kiribati
 # Kiribati President Anote Tong is re-elected to a third (and final) term in the 2012 presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Australia News](http://www.radioaustralianews.net.au/stories/201201/3408064.htm?desktop)
 1. [Cover Image](http://www.radioaustralianews.net.au/wp-content/uploads/2017/01/r584616_3701680.jpg)
 
 ### Related:
 
-1. [An international search and rescue mission is launched in Kiribati after six teenagers on an outrigger canoe go missing in the Pacific Ocean. ](/news/2011/05/8/an-international-search-and-rescue-mission-is-launched-in-kiribati-after-six-teenagers-on-an-outrigger-canoe-go-missing-in-the-pacific-ocean.md) _Context: Kiribati_
-2. [ Kiribati now has the largest protected marine reserve in the world. ](/news/2008/02/14/kiribati-now-has-the-largest-protected-marine-reserve-in-the-world.md) _Context: Kiribati_
-3. [ Voters in Kiribati go to the polls for the Kiribati parliamentary election, 2007. ](/news/2007/08/22/voters-in-kiribati-go-to-the-polls-for-the-kiribati-parliamentary-election-2007.md) _Context: Kiribati_
-4. [ The world begins celebrations of the beginning of 2007, starting at 10:00 UTC when midnight strikes in the Line Islands, Kiribati. ](/news/2006/12/31/the-world-begins-celebrations-of-the-beginning-of-2007-starting-at-10-00-utc-when-midnight-strikes-in-the-line-islands-kiribati.md) _Context: Kiribati_
-5. [ Air Nauru's only passenger jet is seized by creditors in Melbourne, leaving the island nations of Nauru and Kiribati without air transport to the rest of the world. ](/news/2005/12/18/air-nauru-s-only-passenger-jet-is-seized-by-creditors-in-melbourne-leaving-the-island-nations-of-nauru-and-kiribati-without-air-transport.md) _Context: Kiribati_
+1. [Seven survivors from the MV "Butiraoi", six adults and a baby, are found in a dinghy and rescued, four days after the 50-passenger ferry sank in Kiribati. New Zealand rescuers say there is a lot of debris near the dinghy, but no sign of anyone else. ](/news/2018/01/28/seven-survivors-from-the-mv-butiraoi-six-adults-and-a-baby-are-found-in-a-dinghy-and-rescued-four-days-after-the-50-passenger-ferry-san.md) _Context: Kiribati_
+2. [Rescuers, including the Royal New Zealand Air Force, search for the Kiribati ferry MV "Butiraoi" with around 50 people on board after it is declared missing. ](/news/2018/01/26/rescuers-including-the-royal-new-zealand-air-force-search-for-the-kiribati-ferry-mv-butiraoi-with-around-50-people-on-board-after-it-is.md) _Context: Kiribati_
+3. [An international search and rescue mission is launched in Kiribati after six teenagers on an outrigger canoe go missing in the Pacific Ocean. ](/news/2011/05/8/an-international-search-and-rescue-mission-is-launched-in-kiribati-after-six-teenagers-on-an-outrigger-canoe-go-missing-in-the-pacific-ocean.md) _Context: Kiribati_
+4. [ Kiribati now has the largest protected marine reserve in the world. ](/news/2008/02/14/kiribati-now-has-the-largest-protected-marine-reserve-in-the-world.md) _Context: Kiribati_
+5. [ Voters in Kiribati go to the polls for the Kiribati parliamentary election, 2007. ](/news/2007/08/22/voters-in-kiribati-go-to-the-polls-for-the-kiribati-parliamentary-election-2007.md) _Context: Kiribati_

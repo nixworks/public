@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/10/iraq-war-at-least-33-are-killed-in-an-attack-on-a-restaurant-in-baghdad-al-qaida-in-iraq-claims-responsibility.html)  [JSON](/news/2005/11/10/iraq-war-at-least-33-are-killed-in-an-attack-on-a-restaurant-in-baghdad-al-qaida-in-iraq-claims-responsibility.json)  [XML](/news/2005/11/10/iraq-war-at-least-33-are-killed-in-an-attack-on-a-restaurant-in-baghdad-al-qaida-in-iraq-claims-responsibility.xml)  
+
 ### [2005-11-10](/news/2005/11/10/index.md)
 
+##### Iraq War
 #  Iraq War: At least 33 are killed in an attack on a restaurant in Baghdad. Al-Qaida in Iraq claims responsibility. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4423836.stm)
 2. [CBS](http://www.cbsnews.com/2300-500257_162-1032459.html)

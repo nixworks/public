@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/21/burmese-comedian-zarganar-is-sentenced-to-45-years-in-prison-for-organising-relief-for-victims-of-cyclone-nargis.html)  [JSON](/news/2008/11/21/burmese-comedian-zarganar-is-sentenced-to-45-years-in-prison-for-organising-relief-for-victims-of-cyclone-nargis.json)  [XML](/news/2008/11/21/burmese-comedian-zarganar-is-sentenced-to-45-years-in-prison-for-organising-relief-for-victims-of-cyclone-nargis.xml)  
+
 ### [2008-11-21](/news/2008/11/21/index.md)
 
+##### Burma
 #  Burmese comedian Zarganar is sentenced to 45 years in prison for organising relief for victims of Cyclone Nargis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5govafNgo_aA311pK6PriM5FMcdtQ)
 

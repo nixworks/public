@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/21/mattel-admits-that-most-of-the-toys-recalled-in-recent-safety-scares-had-design-flaws-and-that-chinese-manufacturers-were-not-to-blame.html)  [JSON](/news/2007/09/21/mattel-admits-that-most-of-the-toys-recalled-in-recent-safety-scares-had-design-flaws-and-that-chinese-manufacturers-were-not-to-blame.json)  [XML](/news/2007/09/21/mattel-admits-that-most-of-the-toys-recalled-in-recent-safety-scares-had-design-flaws-and-that-chinese-manufacturers-were-not-to-blame.xml)  
+
 ### [2007-09-21](/news/2007/09/21/index.md)
 
+##### Mattel
 #  Mattel admits that most of the toys recalled in recent safety scares had "design flaws" and that Chinese manufacturers were not to blame. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/7006599.stm)
 

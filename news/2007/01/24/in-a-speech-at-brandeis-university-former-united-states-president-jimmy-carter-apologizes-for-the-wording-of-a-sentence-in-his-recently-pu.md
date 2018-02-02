@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/24/in-a-speech-at-brandeis-university-former-united-states-president-jimmy-carter-apologizes-for-the-wording-of-a-sentence-in-his-recently-pu.html)  [JSON](/news/2007/01/24/in-a-speech-at-brandeis-university-former-united-states-president-jimmy-carter-apologizes-for-the-wording-of-a-sentence-in-his-recently-pu.json)  [XML](/news/2007/01/24/in-a-speech-at-brandeis-university-former-united-states-president-jimmy-carter-apologizes-for-the-wording-of-a-sentence-in-his-recently-pu.xml)  
+
 ### [2007-01-24](/news/2007/01/24/index.md)
 
+##### Brandeis University
 #  In a speech at Brandeis University, former United States President Jimmy Carter apologizes for the wording of a sentence in his recently published book, "Palestine: Peace Not Apartheid". He referred to the wording as "stupid" and subsequent reprintings will change it. Despite the book's controversy, the audience received him with a standing ovation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [JTA](http://www.jta.org/page_view_breaking_story.asp?intid=6567&ref=daily_briefing)
 2. [JTA](http://www.jta.org/page_view_story.asp?intarticleid=17510&intcategoryid=4)

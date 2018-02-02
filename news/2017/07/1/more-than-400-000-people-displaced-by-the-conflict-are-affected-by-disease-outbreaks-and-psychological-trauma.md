@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/1/more-than-400-000-people-displaced-by-the-confli
 
 ### [2017-07-1](/news/2017/07/1/index.md)
 
+##### Marawi crisis
 # More than 400,000 people displaced by the conflict are affected by disease outbreaks and psychological trauma. 
 
 Over 70,380 people have been housed in 79 government-run evacuation centers where relief officials are struggling to deal with outbreaks of illness

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/28/tajikistan-votes-in-parliamentary-elections.html)  [JSON](/news/2010/02/28/tajikistan-votes-in-parliamentary-elections.json)  [XML](/news/2010/02/28/tajikistan-votes-in-parliamentary-elections.xml)  
+
 ### [2010-02-28](/news/2010/02/28/index.md)
 
+##### Tajikistan
 # Tajikistan votes in parliamentary elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/02/201022813822638475.html)
 1. [Cover Image](http://www.aljazeera.com)

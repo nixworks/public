@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/30/a-senior-chinese-admiral-says-the-country-may-build-its-first-foreign-naval-base-in-the-middle-east.html)  [JSON](/news/2009/12/30/a-senior-chinese-admiral-says-the-country-may-build-its-first-foreign-naval-base-in-the-middle-east.json)  [XML](/news/2009/12/30/a-senior-chinese-admiral-says-the-country-may-build-its-first-foreign-naval-base-in-the-middle-east.xml)  
+
 ### [2009-12-30](/news/2009/12/30/index.md)
 
+##### China
 #  A senior Chinese admiral says the country may build its first foreign naval base in the Middle East. 
 
 China&#039;s rapidly-expanding navy is considering building its first foreign naval base, according to a senior admiral.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hs9FI-bp-ej_mwo-HTAa4KBny6EA)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/6911198/China-may-build-Middle-East-naval-base.html)

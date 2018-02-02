@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/1/thousands-of-citizens-battle-local-government-officials-in-a-major-riot-in-guizhou-in-china-over-a-police-cover-up-dealing-with-the-death-o.html)  [JSON](/news/2008/07/1/thousands-of-citizens-battle-local-government-officials-in-a-major-riot-in-guizhou-in-china-over-a-police-cover-up-dealing-with-the-death-o.json)  [XML](/news/2008/07/1/thousands-of-citizens-battle-local-government-officials-in-a-major-riot-in-guizhou-in-china-over-a-police-cover-up-dealing-with-the-death-o.xml)  
+
 ### [2008-07-1](/news/2008/07/1/index.md)
 
+##### major riot in Guizhou
 #  Thousands of citizens battle local government officials in a major riot in Guizhou in China over a police cover-up dealing with the death of a local girl. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straitstimes](http://www.straitstimes.com/Free/Story/STIStory_253078.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/10/tibet-s-central-administration-claims-that-china-s-accusations-of-the-dalai-lama-s-genocide-are-fabricated.html)  [JSON](/news/2009/03/10/tibet-s-central-administration-claims-that-china-s-accusations-of-the-dalai-lama-s-genocide-are-fabricated.json)  [XML](/news/2009/03/10/tibet-s-central-administration-claims-that-china-s-accusations-of-the-dalai-lama-s-genocide-are-fabricated.xml)  
+
 ### [2009-03-10](/news/2009/03/10/index.md)
 
+##### Tibet Autonomous Region
 #  Tibet's Central Administration claims that China's accusations of the Dalai Lama's "genocide" are "fabricated." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2009-03/10/content_10984061.htm)
 

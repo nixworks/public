@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2009/07/15/six-people-including-two-traffic-police-are-killed-and-sixteen-people-are-injured-in-a-suicide-attack-in-anbar-iraq.html)  [JSON](/news/2009/07/15/six-people-including-two-traffic-police-are-killed-and-sixteen-people-are-injured-in-a-suicide-attack-in-anbar-iraq.json)  [XML](/news/2009/07/15/six-people-including-two-traffic-police-are-killed-and-sixteen-people-are-injured-in-a-suicide-attack-in-anbar-iraq.xml)  
+
 ### [2009-07-15](/news/2009/07/15/index.md)
 
+##### suicide attack
 #  Six people, including two traffic police, are killed and sixteen people are injured in a suicide attack in Anbar, Iraq. 
 
 A suicide car bomb has killed six people and wounded 16 others in Iraq&#39;s western Anbar province.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0715/iraq.html)
 1. [Cover Image](https://img.rasset.ie/0002726e-1600.jpg)
 
 ### Related:
 
-1. [Jordan declares its borders with Syria and Iraq are to be closed military zones following yesterday's suicide bomb attack in Rukban, Mafraq Governorate, that killed six soldiers. ](/news/2016/06/22/jordan-declares-its-borders-with-syria-and-iraq-are-to-be-closed-military-zones-following-yesterday-s-suicide-bomb-attack-in-rukban-mafraq.md) _Context: Iraq, suicide bombing_
-2. [A suicide bomber kills at least 60 people and wounds 70 others after ramming his explosives-laden truck into a security checkpoint at one of the entrances to the Iraqi city of Hillah, south of Baghdad. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/03/6/a-suicide-bomber-kills-at-least-60-people-and-wounds-70-others-after-ramming-his-explosives-laden-truck-into-a-security-checkpoint-at-one-of.md) _Context: Iraq, suicide bombing_
-3. [Two suicide bombings at a swimming pool in northern Iraq kill at least 12 people. ](/news/2015/07/25/two-suicide-bombings-at-a-swimming-pool-in-northern-iraq-kill-at-least-12-people.md) _Context: Iraq, suicide bombing_
-4. [A suicide bombing in the Iraqi town of Tuz Khormato kills at least eight policemen. ](/news/2013/07/28/a-suicide-bombing-in-the-iraqi-town-of-tuz-khormato-kills-at-least-eight-policemen.md) _Context: Iraq, suicide bombing_
-5. [A suicide bombing inside a Sunni mosque in the eastern Iraqi province of Diyala kills at least twenty people. ](/news/2013/07/19/a-suicide-bombing-inside-a-sunni-mosque-in-the-eastern-iraqi-province-of-diyala-kills-at-least-twenty-people.md) _Context: Iraq, suicide bombing_
+1. [A suicide bombing in the Iraqi town of Tuz Khormato kills at least eight policemen. ](/news/2013/07/28/a-suicide-bombing-in-the-iraqi-town-of-tuz-khormato-kills-at-least-eight-policemen.md) _Context: Iraq, suicide attack_
+2. [A suicide bombing inside a Sunni mosque in the eastern Iraqi province of Diyala kills at least twenty people. ](/news/2013/07/19/a-suicide-bombing-inside-a-sunni-mosque-in-the-eastern-iraqi-province-of-diyala-kills-at-least-twenty-people.md) _Context: Iraq, suicide attack_
+3. [At least 22 people are killed and more than 60 others injured when a suicide bomber blows himself up in a busy election campaign tent in the Iraqi city of Baquba. ](/news/2013/04/6/at-least-22-people-are-killed-and-more-than-60-others-injured-when-a-suicide-bomber-blows-himself-up-in-a-busy-election-campaign-tent-in-the.md) _Context: Iraq, suicide attack_
+4. [ At least 67 people are killed and over 200 are injured in a suicide attack near Kirkuk in Iraq. ](/news/2009/06/20/at-least-67-people-are-killed-and-over-200-are-injured-in-a-suicide-attack-near-kirkuk-in-iraq.md) _Context: Iraq, suicide attack_
+5. [ A suicide attack kills at least 60 people and injures 125 more in Baghdad, Iraq. ](/news/2009/04/24/a-suicide-attack-kills-at-least-60-people-and-injures-125-more-in-baghdad-iraq.md) _Context: Iraq, suicide attack_

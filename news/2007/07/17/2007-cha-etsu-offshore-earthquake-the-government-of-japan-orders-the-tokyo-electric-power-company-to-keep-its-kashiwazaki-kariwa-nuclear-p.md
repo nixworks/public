@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/17/2007-cha-etsu-offshore-earthquake-the-government-of-japan-orders-the-tokyo-electric-power-company-to-keep-its-kashiwazaki-kariwa-nuclear-p.html)  [JSON](/news/2007/07/17/2007-cha-etsu-offshore-earthquake-the-government-of-japan-orders-the-tokyo-electric-power-company-to-keep-its-kashiwazaki-kariwa-nuclear-p.json)  [XML](/news/2007/07/17/2007-cha-etsu-offshore-earthquake-the-government-of-japan-orders-the-tokyo-electric-power-company-to-keep-its-kashiwazaki-kariwa-nuclear-p.xml)  
+
 ### [2007-07-17](/news/2007/07/17/index.md)
 
+##### 2007 Chuetsu offshore earthquake
 #  2007 Chuetsu offshore earthquake: The Government of Japan orders The Tokyo Electric Power Company to keep its Kashiwazaki-Kariwa Nuclear Power Plant closed pending safety checks after the earthquake caused a leak. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg](http://quote.bloomberg.com/apps/news?pid=20601087&sid=aAgFdqejjH1A)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/22/uk-police-announce-that-they-are-calling-off-the-search-for-missing-girl-april-jones.html)  [JSON](/news/2013/04/22/uk-police-announce-that-they-are-calling-off-the-search-for-missing-girl-april-jones.json)  [XML](/news/2013/04/22/uk-police-announce-that-they-are-calling-off-the-search-for-missing-girl-april-jones.xml)  
+
 ### [2013-04-22](/news/2013/04/22/index.md)
 
+##### UK
 # UK police announce that they are calling off the search for missing girl April Jones. 
 
 A six-month search for the missing five-year-old comes to an end, as police say they have looked everywhere around Machynlleth.
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/story/1081479/missing-april-jones-police-search-called-off)
 1. [Cover Image](http://e3.365dm.com/16/07/1600x900/april-red-top-1_3657014.jpg?20160706073444)

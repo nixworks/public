@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/23/david-bartlett-resigns-as-the-premier-of-the-australian-state-of-tasmania.html)  [JSON](/news/2011/01/23/david-bartlett-resigns-as-the-premier-of-the-australian-state-of-tasmania.json)  [XML](/news/2011/01/23/david-bartlett-resigns-as-the-premier-of-the-australian-state-of-tasmania.xml)  
+
 ### [2011-01-23](/news/2011/01/23/index.md)
 
+##### David Bartlett
 # David Bartlett resigns as the Premier of the Australian state of Tasmania. 
 
 Tasmanian Premier David Bartlett has confirmed he will stand down as the state&#039;s leader, citing family reasons.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/01/23/3119174.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/1915112-1x1-700x700.jpg)

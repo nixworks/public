@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/16/fourteen-civilians-are-killed-and-four-others-injured-when-a-minibus-struck-a-roadside-bomb-while-traveling-to-herat-afghanistan.html)  [JSON](/news/2010/12/16/fourteen-civilians-are-killed-and-four-others-injured-when-a-minibus-struck-a-roadside-bomb-while-traveling-to-herat-afghanistan.json)  [XML](/news/2010/12/16/fourteen-civilians-are-killed-and-four-others-injured-when-a-minibus-struck-a-roadside-bomb-while-traveling-to-herat-afghanistan.xml)  
+
 ### [2010-12-16](/news/2010/12/16/index.md)
 
+##### Herat
 # Fourteen civilians are killed and four others injured when a minibus struck a roadside bomb while traveling to Herat, Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://news.blogs.cnn.com/2010/12/16/14-civilians-die-in-afghanistan-bombing/?hpt=T2)
 

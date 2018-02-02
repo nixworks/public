@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/05/17/ehud-barak-is-elected-prime-minister-of-israel.html)  [JSON](/news/1999/05/17/ehud-barak-is-elected-prime-minister-of-israel.json)  [XML](/news/1999/05/17/ehud-barak-is-elected-prime-minister-of-israel.xml)  
+
 ### [1999-05-17](/news/1999/05/17/index.md)
 
+##### Ehud Barak
 #  Ehud Barak is elected prime minister of Israel.
 
 

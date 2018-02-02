@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/9/the-alert-level-for-the-mayon-volcano-in-the-phi
 
 ### [2016-09-9](/news/2016/09/9/index.md)
 
+##### Mayon Volcano
 # The alert level for the Mayon Volcano in the Philippines is increased after more than a hundred earthquakes were detected in its vicinity. 
 
 

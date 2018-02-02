@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/19/american-samoa-bans-smoking-in-all-public-and-private-enclosed-spaces.html)  [JSON](/news/2011/01/19/american-samoa-bans-smoking-in-all-public-and-private-enclosed-spaces.json)  [XML](/news/2011/01/19/american-samoa-bans-smoking-in-all-public-and-private-enclosed-spaces.xml)  
+
 ### [2011-01-19](/news/2011/01/19/index.md)
 
+##### American Samoa
 # American Samoa bans smoking in all public and private enclosed spaces. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=58309)
 

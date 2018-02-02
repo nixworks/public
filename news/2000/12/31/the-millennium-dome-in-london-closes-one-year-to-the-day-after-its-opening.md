@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/12/31/the-millennium-dome-in-london-closes-one-year-to-the-day-after-its-opening.html)  [JSON](/news/2000/12/31/the-millennium-dome-in-london-closes-one-year-to-the-day-after-its-opening.json)  [XML](/news/2000/12/31/the-millennium-dome-in-london-closes-one-year-to-the-day-after-its-opening.xml)  
+
 ### [2000-12-31](/news/2000/12/31/index.md)
 
+##### Millennium Dome
 # The Millennium Dome, in London, closes one year to the day after its opening.
 
 

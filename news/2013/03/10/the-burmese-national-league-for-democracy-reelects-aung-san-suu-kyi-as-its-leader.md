@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/10/the-burmese-national-league-for-democracy-reelects-aung-san-suu-kyi-as-its-leader.html)  [JSON](/news/2013/03/10/the-burmese-national-league-for-democracy-reelects-aung-san-suu-kyi-as-its-leader.json)  [XML](/news/2013/03/10/the-burmese-national-league-for-democracy-reelects-aung-san-suu-kyi-as-its-leader.xml)  
+
 ### [2013-03-10](/news/2013/03/10/index.md)
 
+##### Burma
 # The Burmese National League for Democracy reelects Aung San Suu Kyi as its leader. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2013/03/10/world/asia/myanmar-opposition-leader)
 

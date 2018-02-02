@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/30/the-national-council-for-democracy-and-development-the-ruling-military-junta-of-guinea-after-a-recent-coup-appoints-kabine-komara-as-the.html)  [JSON](/news/2008/12/30/the-national-council-for-democracy-and-development-the-ruling-military-junta-of-guinea-after-a-recent-coup-appoints-kabine-komara-as-the.json)  [XML](/news/2008/12/30/the-national-council-for-democracy-and-development-the-ruling-military-junta-of-guinea-after-a-recent-coup-appoints-kabine-komara-as-the.xml)  
+
 ### [2008-12-30](/news/2008/12/30/index.md)
 
+##### junta
 #  The National Council for Democracy and Development, the ruling military junta of Guinea after a recent coup, appoints Kabin Komara as the country's new Prime Minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7804306.stm)
 

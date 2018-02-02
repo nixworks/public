@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/20/iraq-war-the-u-s-military-says-one-of-its-helicopters-has-crashed-north-east-of-baghdad-killing-all-13-passengers.html)  [JSON](/news/2007/01/20/iraq-war-the-u-s-military-says-one-of-its-helicopters-has-crashed-north-east-of-baghdad-killing-all-13-passengers.json)  [XML](/news/2007/01/20/iraq-war-the-u-s-military-says-one-of-its-helicopters-has-crashed-north-east-of-baghdad-killing-all-13-passengers.xml)  
+
 ### [2007-01-20](/news/2007/01/20/index.md)
 
+##### Iraq War
 #  Iraq War: The U.S. military says one of its helicopters has crashed north-east of Baghdad, killing all 13 passengers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6282839.stm)
 2. [CNN](http://edition.cnn.com/2007/WORLD/meast/01/20/Iraq.main/index.html)

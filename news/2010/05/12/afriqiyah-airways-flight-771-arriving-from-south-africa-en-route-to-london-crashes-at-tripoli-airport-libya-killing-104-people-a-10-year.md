@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/12/afriqiyah-airways-flight-771-arriving-from-south-africa-en-route-to-london-crashes-at-tripoli-airport-libya-killing-104-people-a-10-year.html)  [JSON](/news/2010/05/12/afriqiyah-airways-flight-771-arriving-from-south-africa-en-route-to-london-crashes-at-tripoli-airport-libya-killing-104-people-a-10-year.json)  [XML](/news/2010/05/12/afriqiyah-airways-flight-771-arriving-from-south-africa-en-route-to-london-crashes-at-tripoli-airport-libya-killing-104-people-a-10-year.xml)  
+
 ### [2010-05-12](/news/2010/05/12/index.md)
 
+##### Afriqiyah Airways Flight 771
 # Afriqiyah Airways Flight 771 arriving from South Africa en route to London crashes at Tripoli airport, Libya, killing 104 people; a 10-year-old child is the sole survivor. 
 
 Minister says Dutch child is the sole survivor as up to 103 people are killed at Tripoli airport.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h4olBn5MsRXoRA5Bc8r5hGloVunQ)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/2010512731621627.html)

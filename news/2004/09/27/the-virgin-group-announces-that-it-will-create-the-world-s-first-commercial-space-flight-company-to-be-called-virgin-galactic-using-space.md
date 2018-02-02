@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/27/the-virgin-group-announces-that-it-will-create-the-world-s-first-commercial-space-flight-company-to-be-called-virgin-galactic-using-space.html)  [JSON](/news/2004/09/27/the-virgin-group-announces-that-it-will-create-the-world-s-first-commercial-space-flight-company-to-be-called-virgin-galactic-using-space.json)  [XML](/news/2004/09/27/the-virgin-group-announces-that-it-will-create-the-world-s-first-commercial-space-flight-company-to-be-called-virgin-galactic-using-space.xml)  
+
 ### [2004-09-27](/news/2004/09/27/index.md)
 
+##### Virgin Group
 #  The Virgin Group announces that it will create the world's first commercial space-flight company, to be called Virgin Galactic, using SpaceShipOne technology licensed from Mojave Aerospace Ventures. Virgin hopes to begin commercial space flight within five years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/3693020.stm)
 

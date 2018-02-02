@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/11/8/a-government-conservation-campaign-and-possible-hoarding-by-state-oil-companies-causes-a-severe-shortage-on-diesel-fuel-in-the-people-s-re.html)  [JSON](/news/2010/11/8/a-government-conservation-campaign-and-possible-hoarding-by-state-oil-companies-causes-a-severe-shortage-on-diesel-fuel-in-the-people-s-re.json)  [XML](/news/2010/11/8/a-government-conservation-campaign-and-possible-hoarding-by-state-oil-companies-causes-a-severe-shortage-on-diesel-fuel-in-the-people-s-re.xml)  
+
 ### [2010-11-8](/news/2010/11/8/index.md)
 
+##### diesel fuel
 # A government conservation campaign, and possible hoarding by state oil companies, causes a severe shortage on diesel fuel in the People's Republic of China, disrupting industry and commerce. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [CNBC](http://www.cnbc.com/id/40066615)
+1. [CNBC](https://www.cnbc.com/id/40066615)
 
 ### Related:
 

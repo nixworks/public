@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/6/iran-meets-with-six-world-powers-in-geneva-for-talks-concerning-its-nuclear-program.html)  [JSON](/news/2010/12/6/iran-meets-with-six-world-powers-in-geneva-for-talks-concerning-its-nuclear-program.json)  [XML](/news/2010/12/6/iran-meets-with-six-world-powers-in-geneva-for-talks-concerning-its-nuclear-program.xml)  
+
 ### [2010-12-6](/news/2010/12/6/index.md)
 
+##### Geneva
 # Iran meets with six world powers in Geneva for talks concerning its nuclear program. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11923194)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/8/tomislav-nikolia-the-temporary-leader-of-the-serbian-radical-party-is-elected-as-the-speaker-of-the-national-assembly-of-serbia.html)  [JSON](/news/2007/05/8/tomislav-nikolia-the-temporary-leader-of-the-serbian-radical-party-is-elected-as-the-speaker-of-the-national-assembly-of-serbia.json)  [XML](/news/2007/05/8/tomislav-nikolia-the-temporary-leader-of-the-serbian-radical-party-is-elected-as-the-speaker-of-the-national-assembly-of-serbia.xml)  
+
 ### [2007-05-8](/news/2007/05/8/index.md)
 
+##### Tomislav Nikolic
 #  Tomislav Nikolic, the temporary leader of the Serbian Radical Party, is elected as the Speaker of the National Assembly of Serbia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20070507/serbia_politics_070507/20070507?hub=World)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/6633801.stm)

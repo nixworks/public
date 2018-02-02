@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/21/russell-williams-escalated-to-sexual-assaults-and-culminated-in-the-brutal-sex-killings-of-cpl-marie-france-comeau-37-and-jessica-lloyd.html)  [JSON](/news/2010/10/21/russell-williams-escalated-to-sexual-assaults-and-culminated-in-the-brutal-sex-killings-of-cpl-marie-france-comeau-37-and-jessica-lloyd.json)  [XML](/news/2010/10/21/russell-williams-escalated-to-sexual-assaults-and-culminated-in-the-brutal-sex-killings-of-cpl-marie-france-comeau-37-and-jessica-lloyd.xml)  
+
 ### [2010-10-21](/news/2010/10/21/index.md)
 
+##### Canadian Air Force
 # Russell Williams escalated to sexual assaults and culminated in the brutal sex killings of Cpl. Marie-France Comeau, 37, and Jessica Lloyd, 27. Canadian Air Force Colonel Russell Williams is sentenced to two consecutive life sentences for two murders, several sexual assaults and dozens of fetish burglaries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/americas/10/21/canada.colonel.killings/index.html?eref=edition)
 2. [Chronicle Herald](http://thechronicleherald.ca/Front/1208221.html)

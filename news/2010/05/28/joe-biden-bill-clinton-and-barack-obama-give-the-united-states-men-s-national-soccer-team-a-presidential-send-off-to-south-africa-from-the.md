@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/28/joe-biden-bill-clinton-and-barack-obama-give-the-united-states-men-s-national-soccer-team-a-presidential-send-off-to-south-africa-from-the.html)  [JSON](/news/2010/05/28/joe-biden-bill-clinton-and-barack-obama-give-the-united-states-men-s-national-soccer-team-a-presidential-send-off-to-south-africa-from-the.json)  [XML](/news/2010/05/28/joe-biden-bill-clinton-and-barack-obama-give-the-united-states-men-s-national-soccer-team-a-presidential-send-off-to-south-africa-from-the.xml)  
+
 ### [2010-05-28](/news/2010/05/28/index.md)
 
+##### Joe Biden
 # Joe Biden, Bill Clinton and Barack Obama give the United States men's national soccer team a presidential send-off to South Africa from the White House ahead of the 2010 FIFA World Cup. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/sports/2010-05/28/content_9905846.htm)
 2. [IOL](http://www.iol.co.za/index.php?from=rss_Soccer&set_id=1&click_id=19&art_id=nw20100528080413689C547354)

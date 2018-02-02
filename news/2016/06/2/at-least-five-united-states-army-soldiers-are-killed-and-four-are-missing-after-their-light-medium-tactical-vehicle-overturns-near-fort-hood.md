@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/2/at-least-five-united-states-army-soldiers-are-ki
 
 ### [2016-06-2](/news/2016/06/2/index.md)
 
+##### May 2016 United States storm complex
 # At least five United States Army soldiers are killed and four are missing after their Light Medium Tactical Vehicle overturns near Fort Hood in Texas. 
 
 The bodies of two additional soldiers were found Thursday night, bringing the total to 5. Four other soldiers remain missing.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/28/french-police-find-the-bodies-of-eight-new-born-babies-in-the-village-of-villers-au-tertre-in-north-east-of-france.html)  [JSON](/news/2010/07/28/french-police-find-the-bodies-of-eight-new-born-babies-in-the-village-of-villers-au-tertre-in-north-east-of-france.json)  [XML](/news/2010/07/28/french-police-find-the-bodies-of-eight-new-born-babies-in-the-village-of-villers-au-tertre-in-north-east-of-france.xml)  
+
 ### [2010-07-28](/news/2010/07/28/index.md)
 
+##### French police
 # French police find the bodies of eight new-born babies in the village of Villers-au-Tertre in north-east of France. 
 
 Prosecutors say a Frenchwoman has admitted killing eight newborn babies after remains are found in a northern village but says her husband knew nothing.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10799539)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

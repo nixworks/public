@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/21/eurostar-is-suspended-indefinitely-due-to-the-heavy-snowfall-affecting-continental-europe.html)  [JSON](/news/2009/12/21/eurostar-is-suspended-indefinitely-due-to-the-heavy-snowfall-affecting-continental-europe.json)  [XML](/news/2009/12/21/eurostar-is-suspended-indefinitely-due-to-the-heavy-snowfall-affecting-continental-europe.xml)  
+
 ### [2009-12-21](/news/2009/12/21/index.md)
 
+##### Eurostar
 #  Eurostar is suspended indefinitely due to the heavy snowfall affecting continental Europe. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8423442.stm)
 2. [CNN](http://www.cnn.com/2009/WORLD/europe/12/20/france.tunnel/index.html)

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2012/11/19/astronauts-yuri-malenchenko-sunita-williams-and-akihiko-hoshide-return-from-iss-to-earth-with-spacecraft-soyuz-tma-05m-marked-the-end-of-e.html)  [JSON](/news/2012/11/19/astronauts-yuri-malenchenko-sunita-williams-and-akihiko-hoshide-return-from-iss-to-earth-with-spacecraft-soyuz-tma-05m-marked-the-end-of-e.json)  [XML](/news/2012/11/19/astronauts-yuri-malenchenko-sunita-williams-and-akihiko-hoshide-return-from-iss-to-earth-with-spacecraft-soyuz-tma-05m-marked-the-end-of-e.xml)  
+
 ### [2012-11-19](/news/2012/11/19/index.md)
 
+##### Yuri Malenchenko
 # Astronauts Yuri Malenchenko, Sunita Williams, and Akihiko Hoshide return from ISS to Earth with spacecraft Soyuz TMA-05M marked the end of Expedition 33 and the start of Expedition 34. 
 
 A Russian Soyuz capsule landed onthe Kazakh steppe on Monday, safely delivering a trio ofastronauts from a four-month stint aboard the InternationalSpace Station.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iVlR4slH4k5pfZ5zxY9te-YDSPZw)
-2. [Reuters](http://www.reuters.com/article/idUSL5E8MJ02F20121119)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/idUSL5E8MJ02F20121119)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

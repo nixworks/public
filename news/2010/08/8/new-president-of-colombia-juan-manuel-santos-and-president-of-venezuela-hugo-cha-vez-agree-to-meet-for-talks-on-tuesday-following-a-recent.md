@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/08/8/new-president-of-colombia-juan-manuel-santos-and-president-of-venezuela-hugo-cha-vez-agree-to-meet-for-talks-on-tuesday-following-a-recent.html)  [JSON](/news/2010/08/8/new-president-of-colombia-juan-manuel-santos-and-president-of-venezuela-hugo-cha-vez-agree-to-meet-for-talks-on-tuesday-following-a-recent.json)  [XML](/news/2010/08/8/new-president-of-colombia-juan-manuel-santos-and-president-of-venezuela-hugo-cha-vez-agree-to-meet-for-talks-on-tuesday-following-a-recent.xml)  
+
 ### [2010-08-8](/news/2010/08/8/index.md)
 
+##### Colombian President
 # New President of Colombia Juan Manuel Santos and President of Venezuela Hugo Chavez agree to meet for talks on Tuesday, following a recent diplomatic disagreement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10909638)
-2. [Reuters](http://www.reuters.com/article/idUSTRE6771JW20100808)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20100808&t=2&i=175193968&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-08-08T203050Z_01_BTRE6771KZH00_RTROPTP_0_VENEZUELA)
+2. [Reuters](https://www.reuters.com/article/idUSTRE6771JW20100808)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20100808&t=2&i=175193968&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-08-08T203050Z_01_BTRE6771KZH00_RTROPTP_0_VENEZUELA)
 
 ### Related:
 

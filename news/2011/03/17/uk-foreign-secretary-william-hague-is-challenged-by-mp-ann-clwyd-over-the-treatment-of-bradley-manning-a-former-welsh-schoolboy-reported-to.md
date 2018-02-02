@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/17/uk-foreign-secretary-william-hague-is-challenged-by-mp-ann-clwyd-over-the-treatment-of-bradley-manning-a-former-welsh-schoolboy-reported-to.html)  [JSON](/news/2011/03/17/uk-foreign-secretary-william-hague-is-challenged-by-mp-ann-clwyd-over-the-treatment-of-bradley-manning-a-former-welsh-schoolboy-reported-to.json)  [XML](/news/2011/03/17/uk-foreign-secretary-william-hague-is-challenged-by-mp-ann-clwyd-over-the-treatment-of-bradley-manning-a-former-welsh-schoolboy-reported-to.xml)  
+
 ### [2011-03-17](/news/2011/03/17/index.md)
 
+##### William Hague
 # UK Foreign Secretary William Hague is challenged by MP Ann Clwyd over the treatment of Bradley Manning, a former Welsh schoolboy reported to be imprisoned in solitary confinement and stripped naked by the United States. 
 
 FOREIGN SECRETARY William Hague was yesterday challenged by a Welsh MP over the treatment of the former Welsh schoolboy suspected of being a key source for the Wikileaks website.
 
 
-### Source:
+### Sources:
 
 1. [Wales Online](http://www.walesonline.co.uk/news/wales-news/2011/03/17/hague-challenged-over-wikileaks-suspect-91466-28351113/)
 

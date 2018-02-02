@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/5/bahrain-will-no-longer-participate-in-the-arab-league-boycott-of-israel.html)  [JSON](/news/2007/07/5/bahrain-will-no-longer-participate-in-the-arab-league-boycott-of-israel.json)  [XML](/news/2007/07/5/bahrain-will-no-longer-participate-in-the-arab-league-boycott-of-israel.xml)  
+
 ### [2007-07-5](/news/2007/07/5/index.md)
 
+##### Bahrain
 #  Bahrain will no longer participate in the Arab League boycott of Israel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [GulfNews](http://archive.gulfnews.com/articles/07/07/05/10137040.html)
 

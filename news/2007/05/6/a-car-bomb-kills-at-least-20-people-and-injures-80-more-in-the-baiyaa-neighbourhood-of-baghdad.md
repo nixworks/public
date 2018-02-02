@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/6/a-car-bomb-kills-at-least-20-people-and-injures-80-more-in-the-baiyaa-neighbourhood-of-baghdad.html)  [JSON](/news/2007/05/6/a-car-bomb-kills-at-least-20-people-and-injures-80-more-in-the-baiyaa-neighbourhood-of-baghdad.json)  [XML](/news/2007/05/6/a-car-bomb-kills-at-least-20-people-and-injures-80-more-in-the-baiyaa-neighbourhood-of-baghdad.xml)  
+
 ### [2007-05-6](/news/2007/05/6/index.md)
 
+##### car bomb
 #  A car bomb kills at least 20 people and injures 80 more in the Baiyaa neighbourhood of Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://edition.cnn.com/2007/WORLD/meast/05/06/iraq.ap/index.html?eref=rss_world)
 

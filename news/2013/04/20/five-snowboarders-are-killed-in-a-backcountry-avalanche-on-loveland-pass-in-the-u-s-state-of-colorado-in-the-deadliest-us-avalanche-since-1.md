@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/20/five-snowboarders-are-killed-in-a-backcountry-avalanche-on-loveland-pass-in-the-u-s-state-of-colorado-in-the-deadliest-us-avalanche-since-1.html)  [JSON](/news/2013/04/20/five-snowboarders-are-killed-in-a-backcountry-avalanche-on-loveland-pass-in-the-u-s-state-of-colorado-in-the-deadliest-us-avalanche-since-1.json)  [XML](/news/2013/04/20/five-snowboarders-are-killed-in-a-backcountry-avalanche-on-loveland-pass-in-the-u-s-state-of-colorado-in-the-deadliest-us-avalanche-since-1.xml)  
+
 ### [2013-04-20](/news/2013/04/20/index.md)
 
+##### snowboarders
 # Five snowboarders are killed in a backcountry avalanche on Loveland Pass in the U.S. state of Colorado in the deadliest US avalanche since 1962. 
 
 Get the latest breaking news across the U.S. on ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/US/wireStory/sheriff-snowboarders-killed-colo-avalanche-19008277)
 

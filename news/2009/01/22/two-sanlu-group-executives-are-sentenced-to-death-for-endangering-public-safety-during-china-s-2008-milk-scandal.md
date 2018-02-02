@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/22/two-sanlu-group-executives-are-sentenced-to-death-for-endangering-public-safety-during-china-s-2008-milk-scandal.html)  [JSON](/news/2009/01/22/two-sanlu-group-executives-are-sentenced-to-death-for-endangering-public-safety-during-china-s-2008-milk-scandal.json)  [XML](/news/2009/01/22/two-sanlu-group-executives-are-sentenced-to-death-for-endangering-public-safety-during-china-s-2008-milk-scandal.xml)  
+
 ### [2009-01-22](/news/2009/01/22/index.md)
 
+##### Sanlu Group
 #  Two Sanlu Group executives are sentenced to death for endangering public safety during China's 2008 milk scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Chinese-Milk-Scandal-Two-Sentenced-To-Death/Article/200901415208247?lpos=World_News_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15208247_Chinese_Milk_Scandal%3A_Two_Sentenced_To_Death)
 

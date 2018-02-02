@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/16/a-united-nations-expert-panel-finds-credible-allegations-which-if-proven-indicate-that-war-crimes-and-crimes-against-humanity-were-commi.html)  [JSON](/news/2011/04/16/a-united-nations-expert-panel-finds-credible-allegations-which-if-proven-indicate-that-war-crimes-and-crimes-against-humanity-were-commi.json)  [XML](/news/2011/04/16/a-united-nations-expert-panel-finds-credible-allegations-which-if-proven-indicate-that-war-crimes-and-crimes-against-humanity-were-commi.xml)  
+
 ### [2011-04-16](/news/2011/04/16/index.md)
 
+##### United Nations
 # A United Nations expert panel finds "credible allegations" which, if proven, indicate that war crimes and crimes against humanity were committed both by the Government of Sri Lanka and the LTTE in the final stages of the Sri Lankan Civil War. 
 
 A United Nations panel has called for setting up of an “independent international mechanism” into what it called “credible” allegations that Sri Lankan military committed war crimes in its final decis
 
 
-### Source:
+### Sources:
 
 1. [AFP/France 24](http://www.france24.com/en/20110416-leaked-un-report-urges-sri-lanka-war-crimes-probe)
 2. [PTI/''The Hindu](http://www.thehindu.com/news/international/article1701700.ece)

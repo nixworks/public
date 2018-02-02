@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/27/thirty-thousand-people-are-evacuated-from-kalyn
 
 ### [2017-09-27](/news/2017/09/27/index.md)
 
+##### 2017 Kalynivka ammunition depot explosion
 # Thirty thousand people are evacuated from Kalynivka, Ukraine, following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. 
 
 

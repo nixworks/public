@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/28/as-many-as-60-people-die-off-the-coast-of-guinea-as-a-pirogue-or-open-fishing-boat-carrying-120-people-capsizes.html)  [JSON](/news/2007/03/28/as-many-as-60-people-die-off-the-coast-of-guinea-as-a-pirogue-or-open-fishing-boat-carrying-120-people-capsizes.json)  [XML](/news/2007/03/28/as-many-as-60-people-die-off-the-coast-of-guinea-as-a-pirogue-or-open-fishing-boat-carrying-120-people-capsizes.xml)  
+
 ### [2007-03-28](/news/2007/03/28/index.md)
 
+##### Guinea
 #  As many as 60 people die off the coast of Guinea as a pirogue or open fishing boat carrying 120 people capsizes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via CNN](http://edition.cnn.com/2007/WORLD/africa/03/29/guinea.capsize.reut/index.html?eref=rss_world)
 

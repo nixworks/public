@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/06/13/thousands-of-people-protest-in-skopje-demanding-the-resignation-of-the-prime-minister-of-macedonia-nikola-gruevski.html)  [JSON](/news/2015/06/13/thousands-of-people-protest-in-skopje-demanding-the-resignation-of-the-prime-minister-of-macedonia-nikola-gruevski.json)  [XML](/news/2015/06/13/thousands-of-people-protest-in-skopje-demanding-the-resignation-of-the-prime-minister-of-macedonia-nikola-gruevski.xml)  
+
 ### [2015-06-13](/news/2015/06/13/index.md)
 
+##### Skopje
 # Thousands of people protest in Skopje demanding the resignation of the Prime Minister of Macedonia Nikola Gruevski. 
 
 Several thousand people protested in Macedonia&#x27;s capital Skopje on Saturday demanding the resignation of Prime Minister Nikola Gruevski, AFP reporters said, with negotiations over the country&#x27;s deep political crisis in a deadlock. Organised by the &quot;Besa&quot; protest movement, which is
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/thousands-protest-macedonia-demanding-pms-resignation-195900937.html)
-1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/jwLMsOQ4uLYUV9PFIOlMcw--/aD02NDA7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par8197621-1-1-0.jpg)
+1. [AFP via Yahoo! News](https://news.yahoo.com/thousands-protest-macedonia-demanding-pms-resignation-195900937.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/hyxeQOyDZLwMD6yWMXI5Cg--~B/aD02NDA7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par8197621-1-1-0.jpg)
 
 ### Related:
 

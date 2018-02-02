@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/20/danish-and-swedish-royals-celebrate-200-years-since-establishment-of-swedish-royal-family.html)  [JSON](/news/2010/10/20/danish-and-swedish-royals-celebrate-200-years-since-establishment-of-swedish-royal-family.json)  [XML](/news/2010/10/20/danish-and-swedish-royals-celebrate-200-years-since-establishment-of-swedish-royal-family.xml)  
+
 ### [2010-10-20](/news/2010/10/20/index.md)
 
+##### Danish
 # Danish and Swedish royals celebrate 200 years since establishment of Swedish royal family. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CPHPOST](http://www.cphpost.dk/news/136-royal-news/50278-royal-anniversary.html)
 

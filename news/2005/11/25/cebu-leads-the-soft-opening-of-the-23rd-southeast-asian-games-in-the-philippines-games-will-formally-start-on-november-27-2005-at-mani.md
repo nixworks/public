@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/25/cebu-leads-the-soft-opening-of-the-23rd-southeast-asian-games-in-the-philippines-games-will-formally-start-on-november-27-2005-at-mani.html)  [JSON](/news/2005/11/25/cebu-leads-the-soft-opening-of-the-23rd-southeast-asian-games-in-the-philippines-games-will-formally-start-on-november-27-2005-at-mani.json)  [XML](/news/2005/11/25/cebu-leads-the-soft-opening-of-the-23rd-southeast-asian-games-in-the-philippines-games-will-formally-start-on-november-27-2005-at-mani.xml)  
+
 ### [2005-11-25](/news/2005/11/25/index.md)
 
+##### Cebu City
 #  Cebu leads the "soft-opening" of the 23rd Southeast Asian Games in the Philippines. Games will formally start on November 27, 2005, at Manila's Quirino Grandstand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Manila Bulletin](http://www.mb.com.ph/SPRT2005112650133.html)
 

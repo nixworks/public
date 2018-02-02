@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/23/el-vocero-reports-that-50-out-of-129-illegal-immigrants-travelling-by-boat-from-the-dominican-republic-to-puerto-rico-have-been-massacred-b.html)  [JSON](/news/2004/08/23/el-vocero-reports-that-50-out-of-129-illegal-immigrants-travelling-by-boat-from-the-dominican-republic-to-puerto-rico-have-been-massacred-b.json)  [XML](/news/2004/08/23/el-vocero-reports-that-50-out-of-129-illegal-immigrants-travelling-by-boat-from-the-dominican-republic-to-puerto-rico-have-been-massacred-b.xml)  
+
 ### [2004-08-23](/news/2004/08/23/index.md)
 
+##### El Vocero
 #  El Vocero reports that 50 out of 129 illegal immigrants travelling by boat from the Dominican Republic to Puerto Rico have been massacred by the ship's captains.
 
 
 
 
-### Source:
+### Sources:
 
 1. [El Vocero, in Spanish](http://vocero.com/noticia.asp?n=46104&d=8/23/2004)
 

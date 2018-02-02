@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/12/about-700-people-missing-in-southern-taiwan-after-typhoon-morakot-are-located-alive.html)  [JSON](/news/2009/08/12/about-700-people-missing-in-southern-taiwan-after-typhoon-morakot-are-located-alive.json)  [XML](/news/2009/08/12/about-700-people-missing-in-southern-taiwan-after-typhoon-morakot-are-located-alive.xml)  
+
 ### [2009-08-12](/news/2009/08/12/index.md)
 
+##### Taiwan
 #  About 700 people missing in southern Taiwan after Typhoon Morakot are located alive. 
 
 About 700 people from the remote mountains of southern Taiwan have been found alive overnight.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8196543.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0812/asia.html)

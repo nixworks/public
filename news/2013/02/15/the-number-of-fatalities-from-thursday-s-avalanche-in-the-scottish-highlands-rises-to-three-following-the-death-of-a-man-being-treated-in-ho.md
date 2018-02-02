@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/15/the-number-of-fatalities-from-thursday-s-avalanche-in-the-scottish-highlands-rises-to-three-following-the-death-of-a-man-being-treated-in-ho.html)  [JSON](/news/2013/02/15/the-number-of-fatalities-from-thursday-s-avalanche-in-the-scottish-highlands-rises-to-three-following-the-death-of-a-man-being-treated-in-ho.json)  [XML](/news/2013/02/15/the-number-of-fatalities-from-thursday-s-avalanche-in-the-scottish-highlands-rises-to-three-following-the-death-of-a-man-being-treated-in-ho.xml)  
+
 ### [2013-02-15](/news/2013/02/15/index.md)
 
+##### avalanche
 # The number of fatalities from Thursday's avalanche in the Scottish Highlands rises to three following the death of a man being treated in hospital. 
 
 Police name one of the three people who died after an avalanche in the Highlands on Thursday afternoon.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-highlands-islands-21469089)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/65917000/jpg/_65917955_sqnldrrimonthan1.jpg)

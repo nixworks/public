@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/12/the-parliament-of-burundi-votes-overwhelmingly-
 
 ### [2016-10-12](/news/2016/10/12/index.md)
 
+##### Foreign relations of Burundi
 # The Parliament of Burundi votes overwhelmingly to withdraw Burundi from the Dutch-based International Criminal Court. 
 
 

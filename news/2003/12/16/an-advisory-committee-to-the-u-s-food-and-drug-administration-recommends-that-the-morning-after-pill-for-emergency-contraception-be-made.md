@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/16/an-advisory-committee-to-the-u-s-food-and-drug-administration-recommends-that-the-morning-after-pill-for-emergency-contraception-be-made.html)  [JSON](/news/2003/12/16/an-advisory-committee-to-the-u-s-food-and-drug-administration-recommends-that-the-morning-after-pill-for-emergency-contraception-be-made.json)  [XML](/news/2003/12/16/an-advisory-committee-to-the-u-s-food-and-drug-administration-recommends-that-the-morning-after-pill-for-emergency-contraception-be-made.xml)  
+
 ### [2003-12-16](/news/2003/12/16/index.md)
 
+##### Food and Drug Administration
 #  An advisory committee to the U.S. Food and Drug Administration recommends that the morning-after pill (for emergency contraception) be made available without a prescription. [http:--www.cnn.com-2003-HEALTH-12-16-morning.after.pill-index.html]
 
 

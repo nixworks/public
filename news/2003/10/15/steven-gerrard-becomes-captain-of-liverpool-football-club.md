@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/15/steven-gerrard-becomes-captain-of-liverpool-football-club.html)  [JSON](/news/2003/10/15/steven-gerrard-becomes-captain-of-liverpool-football-club.json)  [XML](/news/2003/10/15/steven-gerrard-becomes-captain-of-liverpool-football-club.xml)  
+
 ### [2003-10-15](/news/2003/10/15/index.md)
 
+##### Steven Gerrard
 #  Steven Gerrard becomes captain of Liverpool Football Club.
 
 

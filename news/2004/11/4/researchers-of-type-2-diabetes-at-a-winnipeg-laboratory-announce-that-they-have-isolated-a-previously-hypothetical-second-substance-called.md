@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/11/4/researchers-of-type-2-diabetes-at-a-winnipeg-laboratory-announce-that-they-have-isolated-a-previously-hypothetical-second-substance-called.html)  [JSON](/news/2004/11/4/researchers-of-type-2-diabetes-at-a-winnipeg-laboratory-announce-that-they-have-isolated-a-previously-hypothetical-second-substance-called.json)  [XML](/news/2004/11/4/researchers-of-type-2-diabetes-at-a-winnipeg-laboratory-announce-that-they-have-isolated-a-previously-hypothetical-second-substance-called.xml)  
+
 ### [2004-11-4](/news/2004/11/4/index.md)
 
+##### Type 2 diabetes
 #  Researchers of Type 2 diabetes at a Winnipeg laboratory announce that they have isolated a previously hypothetical second substance, called hepatic insulin sensitizing substance or HISS, that participates in sugar storage along with insulin. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20041103.wdiab1103/BNStory/specialScienceandHealth/)
+1. [Globe and Mail](https://www.theglobeandmail.com/servlet/story/RTGAM.20041103.wdiab1103/BNStory/specialScienceandHealth/)
 
 ### Related:
 

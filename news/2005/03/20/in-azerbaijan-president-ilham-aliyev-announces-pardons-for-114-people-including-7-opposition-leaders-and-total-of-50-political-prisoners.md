@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/20/in-azerbaijan-president-ilham-aliyev-announces-pardons-for-114-people-including-7-opposition-leaders-and-total-of-50-political-prisoners.html)  [JSON](/news/2005/03/20/in-azerbaijan-president-ilham-aliyev-announces-pardons-for-114-people-including-7-opposition-leaders-and-total-of-50-political-prisoners.json)  [XML](/news/2005/03/20/in-azerbaijan-president-ilham-aliyev-announces-pardons-for-114-people-including-7-opposition-leaders-and-total-of-50-political-prisoners.xml)  
+
 ### [2005-03-20](/news/2005/03/20/index.md)
 
+##### Azerbaijan
 #  In Azerbaijan, president Ilham Aliyev announces pardons for 114 people, including 7 opposition leaders and total of 50 political prisoners 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Azertag](http://www.azertag.com/en/index.shtml?language=english&catid=&news_year=&news_month=&news_day=&newsid=101116&themes_viewing=&themes_page=&themeid=&news_page=)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/4366911.stm)

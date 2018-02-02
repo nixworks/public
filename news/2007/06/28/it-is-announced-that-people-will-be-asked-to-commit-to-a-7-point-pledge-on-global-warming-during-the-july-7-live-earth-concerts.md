@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/28/it-is-announced-that-people-will-be-asked-to-commit-to-a-7-point-pledge-on-global-warming-during-the-july-7-live-earth-concerts.html)  [JSON](/news/2007/06/28/it-is-announced-that-people-will-be-asked-to-commit-to-a-7-point-pledge-on-global-warming-during-the-july-7-live-earth-concerts.json)  [XML](/news/2007/06/28/it-is-announced-that-people-will-be-asked-to-commit-to-a-7-point-pledge-on-global-warming-during-the-july-7-live-earth-concerts.xml)  
+
 ### [2007-06-28](/news/2007/06/28/index.md)
 
+##### global warming
 #  It is announced that people will be asked to commit to a 7-point pledge on global warming during the July 7 Live Earth concerts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Live Earth](http://liveearth.org/?p=101)
 1. [Cover Image](http://liveearth.org/img/live-earth-road-to-paris.jpg)

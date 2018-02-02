@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/5/iranian-president-mahmoud-ahmadinejad-travels-to-egypt-it-is-the-first-time-since-1979-revolution-that-an-iranian-head-of-state-visits-that.html)  [JSON](/news/2013/02/5/iranian-president-mahmoud-ahmadinejad-travels-to-egypt-it-is-the-first-time-since-1979-revolution-that-an-iranian-head-of-state-visits-that.json)  [XML](/news/2013/02/5/iranian-president-mahmoud-ahmadinejad-travels-to-egypt-it-is-the-first-time-since-1979-revolution-that-an-iranian-head-of-state-visits-that.xml)  
+
 ### [2013-02-5](/news/2013/02/5/index.md)
 
+##### Iran
 # Iranian President Mahmoud Ahmadinejad travels to Egypt. It is the first time since 1979 revolution that an Iranian head of state visits that country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/video/2013/feb/05/ahmadinejad-iranian-egypt-video)
 

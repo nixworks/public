@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/5/the-coalition-government-of-latvia-headed-by-pm-einars-repa-e-resigns-but-will-continue-to-work-until-the-president-appoints-a-new-cabin.html)  [JSON](/news/2004/02/5/the-coalition-government-of-latvia-headed-by-pm-einars-repa-e-resigns-but-will-continue-to-work-until-the-president-appoints-a-new-cabin.json)  [XML](/news/2004/02/5/the-coalition-government-of-latvia-headed-by-pm-einars-repa-e-resigns-but-will-continue-to-work-until-the-president-appoints-a-new-cabin.xml)  
+
 ### [2004-02-5](/news/2004/02/5/index.md)
 
+##### Latvia
 #  The coalition government of Latvia, headed by PM Einars Repse, resigns, but will continue to work until the president appoints a new cabinet.
 
 

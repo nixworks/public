@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/30/a-gas-explosion-in-a-prison-in-the-us-town-of-pensacola-florida-reportedly-kills-at-least-two-people-injures-100-and-forces-an-evacuation.html)  [JSON](/news/2014/04/30/a-gas-explosion-in-a-prison-in-the-us-town-of-pensacola-florida-reportedly-kills-at-least-two-people-injures-100-and-forces-an-evacuation.json)  [XML](/news/2014/04/30/a-gas-explosion-in-a-prison-in-the-us-town-of-pensacola-florida-reportedly-kills-at-least-two-people-injures-100-and-forces-an-evacuation.xml)  
+
 ### [2014-04-30](/news/2014/04/30/index.md)
 
+##### Pensacola, Florida
 # A gas explosion in a prison in the US town of Pensacola, Florida reportedly kills at least two people, injures 100 and forces an evacuation. 
 
 An apparent gas explosion at a jail in Pensacola, Florida, kills two inmates and injures more than 180, forcing an evacuation, local officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-27234582)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74593000/jpg/_74593577_florida.jpg)

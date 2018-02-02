@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/30/prime-minister-julia-gillard-confirms-she-does-not-support-the-legalisation-of-same-sex-marriage-in-australia.html)  [JSON](/news/2010/06/30/prime-minister-julia-gillard-confirms-she-does-not-support-the-legalisation-of-same-sex-marriage-in-australia.json)  [XML](/news/2010/06/30/prime-minister-julia-gillard-confirms-she-does-not-support-the-legalisation-of-same-sex-marriage-in-australia.xml)  
+
 ### [2010-06-30](/news/2010/06/30/index.md)
 
+##### Australian Prime Minister
 # Prime Minister Julia Gillard confirms she does not support the legalisation of same-sex marriage in Australia, 
 
 It seems unlikely the Christian lobby will lay out the red carpet and the internet link for the latest prime minister, Julia Gillard.
 
 
-### Source:
+### Sources:
 
 1. [Ninemsn](http://news.ninemsn.com.au/national/1078473/gillard-does-not-support-gay-marriage)
 2. [The Sydney Morning Herald](http://www.smh.com.au/opinion/pm-tells-it-as-she-sees-it-on-the-god-issue-20100629-zjad.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/10/pekka-koskela-skates-the-1000-metres-in-a-new-world-record-time-of-1-07-00.html)  [JSON](/news/2007/11/10/pekka-koskela-skates-the-1000-metres-in-a-new-world-record-time-of-1-07-00.json)  [XML](/news/2007/11/10/pekka-koskela-skates-the-1000-metres-in-a-new-world-record-time-of-1-07-00.xml)  
+
 ### [2007-11-10](/news/2007/11/10/index.md)
 
+##### Pekka Koskela
 #  Pekka Koskela skates the 1000 metres in a new world record time of 1:07.00. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Helsingin Sanomat](http://www.hs.fi/english/article/Pekka+Koskela%E2%80%99s+world+record+speed+left+lasting+impression+on+his+skate+blade/1135231977094)
 

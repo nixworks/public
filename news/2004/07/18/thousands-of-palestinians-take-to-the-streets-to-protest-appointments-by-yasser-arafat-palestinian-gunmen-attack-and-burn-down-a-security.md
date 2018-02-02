@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/07/18/thousands-of-palestinians-take-to-the-streets-to-protest-appointments-by-yasser-arafat-palestinian-gunmen-attack-and-burn-down-a-security.html)  [JSON](/news/2004/07/18/thousands-of-palestinians-take-to-the-streets-to-protest-appointments-by-yasser-arafat-palestinian-gunmen-attack-and-burn-down-a-security.json)  [XML](/news/2004/07/18/thousands-of-palestinians-take-to-the-streets-to-protest-appointments-by-yasser-arafat-palestinian-gunmen-attack-and-burn-down-a-security.xml)  
+
 ### [2004-07-18](/news/2004/07/18/index.md)
 
+##### Palestinians
 #  Thousands of Palestinians take to the streets to protest appointments by Yasser Arafat. Palestinian gunmen attack and burn down a security force post in the Gaza Strip town of Khan Younis manned by forces loyal to Moussa Arafat, the cousin of Yasser Arafat. The security forces flee. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/hasen/spages/452782.html)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml;jsessionid=GZAMCABFQYZNSCRBAEZSFFA?type=topNews&storyID=5697599)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml;jsessionid=GZAMCABFQYZNSCRBAEZSFFA?type=topNews&storyID=5697599)
 
 ### Related:
 

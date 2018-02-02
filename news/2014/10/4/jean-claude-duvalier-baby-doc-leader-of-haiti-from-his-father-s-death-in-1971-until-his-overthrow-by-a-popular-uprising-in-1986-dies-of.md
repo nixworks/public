@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/4/jean-claude-duvalier-baby-doc-leader-of-haiti-from-his-father-s-death-in-1971-until-his-overthrow-by-a-popular-uprising-in-1986-dies-of.html)  [JSON](/news/2014/10/4/jean-claude-duvalier-baby-doc-leader-of-haiti-from-his-father-s-death-in-1971-until-his-overthrow-by-a-popular-uprising-in-1986-dies-of.json)  [XML](/news/2014/10/4/jean-claude-duvalier-baby-doc-leader-of-haiti-from-his-father-s-death-in-1971-until-his-overthrow-by-a-popular-uprising-in-1986-dies-of.xml)  
+
 ### [2014-10-4](/news/2014/10/4/index.md)
 
+##### Jean-Claude Duvalier
 # Jean-Claude Duvalier (Baby Doc), leader of Haiti from his father's death in 1971 until his overthrow by a popular uprising in 1986, dies of a heart attack. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2014/10/04/world/americas/jean-claude-duvalier-death/index.html?hpt=ila_c1)
 

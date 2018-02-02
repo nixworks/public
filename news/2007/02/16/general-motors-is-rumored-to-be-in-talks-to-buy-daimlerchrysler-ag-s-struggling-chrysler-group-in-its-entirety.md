@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/16/general-motors-is-rumored-to-be-in-talks-to-buy-daimlerchrysler-ag-s-struggling-chrysler-group-in-its-entirety.html)  [JSON](/news/2007/02/16/general-motors-is-rumored-to-be-in-talks-to-buy-daimlerchrysler-ag-s-struggling-chrysler-group-in-its-entirety.json)  [XML](/news/2007/02/16/general-motors-is-rumored-to-be-in-talks-to-buy-daimlerchrysler-ag-s-struggling-chrysler-group-in-its-entirety.xml)  
+
 ### [2007-02-16](/news/2007/02/16/index.md)
 
+##### General Motors
 #  General Motors is rumored to be in talks to buy DaimlerChrysler AG's struggling Chrysler Group in its entirety. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2007/02/16/news/companies/chrysler_gm/index.htm?cnn=yes)
 

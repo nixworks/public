@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/7/a-study-released-by-the-university-of-california-san-diego-shows-that-vitamin-d-increases-the-chances-of-survival-in-patients-suffering-fro.html)  [JSON](/news/2014/03/7/a-study-released-by-the-university-of-california-san-diego-shows-that-vitamin-d-increases-the-chances-of-survival-in-patients-suffering-fro.json)  [XML](/news/2014/03/7/a-study-released-by-the-university-of-california-san-diego-shows-that-vitamin-d-increases-the-chances-of-survival-in-patients-suffering-fro.xml)  
+
 ### [2014-03-7](/news/2014/03/7/index.md)
 
+##### University of California, San Diego
 # A study released by the University of California, San Diego shows that vitamin D increases the chances of survival in patients suffering from breast cancer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Science Recorder](http://www.sciencerecorder.com/news/vitamin-d-increases-breast-cancer-patient-survival-study-finds/)
 

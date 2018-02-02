@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/3/after-5-months-in-prison-martha-stewart-is-released-from-camp-cupcake-at-12-30-edt.html)  [JSON](/news/2005/03/3/after-5-months-in-prison-martha-stewart-is-released-from-camp-cupcake-at-12-30-edt.json)  [XML](/news/2005/03/3/after-5-months-in-prison-martha-stewart-is-released-from-camp-cupcake-at-12-30-edt.xml)  
+
 ### [2005-03-3](/news/2005/03/3/index.md)
 
+##### Martha Stewart
 #  After 5 months in prison, Martha Stewart is released from Camp Cupcake at 12:30 EDT. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2005/03/03/news/newsmakers/martha_walkup/index.htm?cnn=yes)
 

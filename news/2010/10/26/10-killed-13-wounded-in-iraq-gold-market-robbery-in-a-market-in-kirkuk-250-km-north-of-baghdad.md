@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/26/10-killed-13-wounded-in-iraq-gold-market-robbery-in-a-market-in-kirkuk-250-km-north-of-baghdad.html)  [JSON](/news/2010/10/26/10-killed-13-wounded-in-iraq-gold-market-robbery-in-a-market-in-kirkuk-250-km-north-of-baghdad.json)  [XML](/news/2010/10/26/10-killed-13-wounded-in-iraq-gold-market-robbery-in-a-market-in-kirkuk-250-km-north-of-baghdad.xml)  
+
 ### [2010-10-26](/news/2010/10/26/index.md)
 
+##### Iraq
 # 10 killed, 13 wounded in Iraq gold market robbery in a market in Kirkuk, 250 km north of Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CRI](http://english.cri.cn/6966/2010/10/27/2742s601323.htm)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/27/c_13576732.htm)

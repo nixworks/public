@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/3/recovery-efforts-continue-in-the-us-city-of-oakl
 
 ### [2016-12-3](/news/2016/12/3/index.md)
 
+##### 2016 Oakland warehouse fire
 # Recovery efforts continue in the US city of Oakland, California, after a fire at a music party in a converted warehouse kills at least nine people with dozens missing. 
 
 The fire broke out at a building known as the Ghost Ship which was being used as an artists&#x27; collective and where a party was being held in Oakland.

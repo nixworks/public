@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/16/an-apartment-block-collapses-in-the-egyptian-city-of-alexandria-killing-at-least-25-people.html)  [JSON](/news/2013/01/16/an-apartment-block-collapses-in-the-egyptian-city-of-alexandria-killing-at-least-25-people.json)  [XML](/news/2013/01/16/an-apartment-block-collapses-in-the-egyptian-city-of-alexandria-killing-at-least-25-people.xml)  
+
 ### [2013-01-16](/news/2013/01/16/index.md)
 
+##### Egypt
 # An apartment block collapses in the Egyptian city of Alexandria, killing at least 25 people. 
 
 At least 25 people were killed on Wednesday when a 12-storey building collapsed in the Egyptian coastal city of Alexandria, the health ministry said.
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.ria.ru/world/20130117/178825752/Egypt_Building_Collapse_Leaves_At_Least_25_Dead.html)
 2. [The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2013/Jan-16/202486-collapse-of-apartment-building-in-egypt-kills-14.ashx)

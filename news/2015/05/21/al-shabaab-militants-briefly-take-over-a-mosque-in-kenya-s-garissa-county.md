@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/21/al-shabaab-militants-briefly-take-over-a-mosque-in-kenya-s-garissa-county.html)  [JSON](/news/2015/05/21/al-shabaab-militants-briefly-take-over-a-mosque-in-kenya-s-garissa-county.json)  [XML](/news/2015/05/21/al-shabaab-militants-briefly-take-over-a-mosque-in-kenya-s-garissa-county.xml)  
+
 ### [2015-05-21](/news/2015/05/21/index.md)
 
+##### Al-Shabaab
 # Al-Shabaab militants briefly take over a mosque in Kenya's Garissa County. 
 
 Islamist militants al-Shabab briefly take over a mosque in northern Kenya, preaching for two hours, before disappearing into a nearby forest, locals say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-32826758?ocid=socialflow_twitter)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/83136000/jpg/_83136257_al-shabab_afp624.jpg)

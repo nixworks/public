@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/20/the-spla-attacks-sudanese-government-soldiers-at-abyei-a-disputed-town-at-the-border-of-south-sudan.html)  [JSON](/news/2008/05/20/the-spla-attacks-sudanese-government-soldiers-at-abyei-a-disputed-town-at-the-border-of-south-sudan.json)  [XML](/news/2008/05/20/the-spla-attacks-sudanese-government-soldiers-at-abyei-a-disputed-town-at-the-border-of-south-sudan.xml)  
+
 ### [2008-05-20](/news/2008/05/20/index.md)
 
+##### Sudan People's Liberation Army
 #  The SPLA attacks Sudanese government soldiers at Abyei, a disputed town at the border of South Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7409967.stm)
 

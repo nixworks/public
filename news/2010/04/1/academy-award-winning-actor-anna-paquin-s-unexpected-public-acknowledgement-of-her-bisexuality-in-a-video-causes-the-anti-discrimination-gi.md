@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/1/academy-award-winning-actor-anna-paquin-s-unexpected-public-acknowledgement-of-her-bisexuality-in-a-video-causes-the-anti-discrimination-gi.html)  [JSON](/news/2010/04/1/academy-award-winning-actor-anna-paquin-s-unexpected-public-acknowledgement-of-her-bisexuality-in-a-video-causes-the-anti-discrimination-gi.json)  [XML](/news/2010/04/1/academy-award-winning-actor-anna-paquin-s-unexpected-public-acknowledgement-of-her-bisexuality-in-a-video-causes-the-anti-discrimination-gi.xml)  
+
 ### [2010-04-1](/news/2010/04/1/index.md)
 
+##### Academy Award
 #  Academy Award winning actor Anna Paquin's unexpected public acknowledgement of her bisexuality in a video causes the anti-discrimination Give a Damn campaign website she is promoting to crash. 
 
 LOS ANGELES (Reuters Life!) - Oscar winner Anna Paquin came out as bisexual on Thursday in a video campaign for gay rights advocates, surprising the &quot;True Bl
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/arts/2010/0401/paquina.html)
 2. [Reuters](http://in.reuters.com/article/lifestyleMolt/idINTRE6303NT20100401)

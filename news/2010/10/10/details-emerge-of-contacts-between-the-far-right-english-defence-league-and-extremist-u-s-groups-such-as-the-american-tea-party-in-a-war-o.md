@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/10/details-emerge-of-contacts-between-the-far-right-english-defence-league-and-extremist-u-s-groups-such-as-the-american-tea-party-in-a-war-o.html)  [JSON](/news/2010/10/10/details-emerge-of-contacts-between-the-far-right-english-defence-league-and-extremist-u-s-groups-such-as-the-american-tea-party-in-a-war-o.json)  [XML](/news/2010/10/10/details-emerge-of-contacts-between-the-far-right-english-defence-league-and-extremist-u-s-groups-such-as-the-american-tea-party-in-a-war-o.xml)  
+
 ### [2010-10-10](/news/2010/10/10/index.md)
 
+##### far-right
 # Details emerge of contacts between the far-right English Defence League and extremist U.S. groups such as the American Tea Party in a "war on Islamification". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Observer](http://www.guardian.co.uk/uk/2010/oct/10/english-defence-league-tea-party)
 

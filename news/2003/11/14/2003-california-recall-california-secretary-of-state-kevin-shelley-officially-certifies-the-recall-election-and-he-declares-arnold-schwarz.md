@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/14/2003-california-recall-california-secretary-of-state-kevin-shelley-officially-certifies-the-recall-election-and-he-declares-arnold-schwarz.html)  [JSON](/news/2003/11/14/2003-california-recall-california-secretary-of-state-kevin-shelley-officially-certifies-the-recall-election-and-he-declares-arnold-schwarz.json)  [XML](/news/2003/11/14/2003-california-recall-california-secretary-of-state-kevin-shelley-officially-certifies-the-recall-election-and-he-declares-arnold-schwarz.xml)  
+
 ### [2003-11-14](/news/2003/11/14/index.md)
 
+##### 2003 California recall
 #  2003 California recall: California Secretary of State Kevin Shelley officially certifies the recall election and he declares Arnold Schwarzenegger the Governor-Elect. The swearing-in is set to take at 11:00 am PST on Monday November 17 on the steps of the State Capitol in Sacramento, California.
 
 

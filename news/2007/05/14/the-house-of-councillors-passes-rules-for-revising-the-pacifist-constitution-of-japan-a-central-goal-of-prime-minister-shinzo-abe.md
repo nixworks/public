@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/05/14/the-house-of-councillors-passes-rules-for-revising-the-pacifist-constitution-of-japan-a-central-goal-of-prime-minister-shinzo-abe.html)  [JSON](/news/2007/05/14/the-house-of-councillors-passes-rules-for-revising-the-pacifist-constitution-of-japan-a-central-goal-of-prime-minister-shinzo-abe.json)  [XML](/news/2007/05/14/the-house-of-councillors-passes-rules-for-revising-the-pacifist-constitution-of-japan-a-central-goal-of-prime-minister-shinzo-abe.xml)  
+
 ### [2007-05-14](/news/2007/05/14/index.md)
 
+##### House of Councillors
 #  The House of Councillors passes rules for revising the pacifist Constitution of Japan, a central goal of Prime Minister Shinzo Abe. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601101&sid=aBTExyzKqwsQ&refer=japan)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601101&sid=aBTExyzKqwsQ&refer=japan)
 
 ### Related:
 

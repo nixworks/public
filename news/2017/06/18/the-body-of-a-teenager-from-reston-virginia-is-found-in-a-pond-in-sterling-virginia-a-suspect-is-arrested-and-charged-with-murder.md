@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/18/the-body-of-a-teenager-from-reston-virginia-is-
 
 ### [2017-06-18](/news/2017/06/18/index.md)
 
+##### Murder of Nabra Hassanen
 # The body of a teenager from Reston, Virginia is found in a pond in Sterling, Virginia. A suspect is arrested and charged with murder. 
 
 Fairfax County Police said they are not investigating the attack as a hate crime.

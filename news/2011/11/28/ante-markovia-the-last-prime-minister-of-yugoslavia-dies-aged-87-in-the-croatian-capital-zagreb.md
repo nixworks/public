@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/11/28/ante-markovia-the-last-prime-minister-of-yugoslavia-dies-aged-87-in-the-croatian-capital-zagreb.html)  [JSON](/news/2011/11/28/ante-markovia-the-last-prime-minister-of-yugoslavia-dies-aged-87-in-the-croatian-capital-zagreb.json)  [XML](/news/2011/11/28/ante-markovia-the-last-prime-minister-of-yugoslavia-dies-aged-87-in-the-croatian-capital-zagreb.xml)  
+
 ### [2011-11-28](/news/2011/11/28/index.md)
 
+##### Ante Markovic
 # Ante Markovic, the last Prime Minister of Yugoslavia, dies aged 87 in the Croatian capital Zagreb. 
 
 The former Yugoslavia&rsquo;s last prime minister, Ante Markovic, who tried to prevent the country&rsquo;s bloody breakup in the 1990s, has died.
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/local/obituaries/ante-markovic-former-yugoslavias-last-prime-minister-dies-at-87/2011/11/28/gIQAA0o45N_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/local/obituaries/ante-markovic-former-yugoslavias-last-prime-minister-dies-at-87/2011/11/28/gIQAA0o45N_story.html)
 
 ### Related:
 

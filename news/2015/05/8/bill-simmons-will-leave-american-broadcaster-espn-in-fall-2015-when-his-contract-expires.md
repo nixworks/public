@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2015/05/8/bill-simmons-will-leave-american-broadcaster-espn-in-fall-2015-when-his-contract-expires.html)  [JSON](/news/2015/05/8/bill-simmons-will-leave-american-broadcaster-espn-in-fall-2015-when-his-contract-expires.json)  [XML](/news/2015/05/8/bill-simmons-will-leave-american-broadcaster-espn-in-fall-2015-when-his-contract-expires.xml)  
+
 ### [2015-05-8](/news/2015/05/8/index.md)
 
+##### Bill Simmons
 # Bill Simmons will leave American broadcaster ESPN in fall 2015 when his contract expires. 
 
+John Skipper, ESPN’s president, said the company would not renew its contract with Simmons, an outspoken personality who said nothing publicly on Friday about the move.
 
 
+### Sources:
 
-### Source:
-
-1. [The New York Times](http://www.nytimes.com/2015/05/09/sports/bill-simmons-and-espn-are-parting-ways.html)
+1. [The New York Times](https://www.nytimes.com/2015/05/09/sports/bill-simmons-and-espn-are-parting-ways.html)
+1. [Cover Image](https://static01.nyt.com/images/2015/05/09/sports/09espn-1/09espn-1-facebookJumbo-v2.jpg)
 
 ### Related:
 

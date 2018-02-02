@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/8/the-former-prime-minister-of-thailand-thaksin-shinawatra-goes-on-trial-facing-corruption-charges.html)  [JSON](/news/2008/07/8/the-former-prime-minister-of-thailand-thaksin-shinawatra-goes-on-trial-facing-corruption-charges.json)  [XML](/news/2008/07/8/the-former-prime-minister-of-thailand-thaksin-shinawatra-goes-on-trial-facing-corruption-charges.xml)  
+
 ### [2008-07-8](/news/2008/07/8/index.md)
 
+##### Prime Minister
 #  The former Prime Minister of Thailand Thaksin Shinawatra goes on trial facing corruption charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7494664.stm)
 

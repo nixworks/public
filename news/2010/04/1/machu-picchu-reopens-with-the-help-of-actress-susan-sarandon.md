@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/1/machu-picchu-reopens-with-the-help-of-actress-susan-sarandon.html)  [JSON](/news/2010/04/1/machu-picchu-reopens-with-the-help-of-actress-susan-sarandon.json)  [XML](/news/2010/04/1/machu-picchu-reopens-with-the-help-of-actress-susan-sarandon.xml)  
+
 ### [2010-04-1](/news/2010/04/1/index.md)
 
+##### Machu Picchu
 #  Machu Picchu reopens with the help of actress Susan Sarandon. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8598154.stm)
 2. [Channel 4 News](http://www.channel4.com/news/articles/world/floodhit+machu+picchu+reopens/3599162)

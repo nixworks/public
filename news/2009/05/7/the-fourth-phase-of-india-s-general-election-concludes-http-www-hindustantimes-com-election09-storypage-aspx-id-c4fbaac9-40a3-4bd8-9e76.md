@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2009/05/7/the-fourth-phase-of-india-s-general-election-concludes-http-www-hindustantimes-com-election09-storypage-aspx-id-c4fbaac9-40a3-4bd8-9e76.html)  [JSON](/news/2009/05/7/the-fourth-phase-of-india-s-general-election-concludes-http-www-hindustantimes-com-election09-storypage-aspx-id-c4fbaac9-40a3-4bd8-9e76.json)  [XML](/news/2009/05/7/the-fourth-phase-of-india-s-general-election-concludes-http-www-hindustantimes-com-election09-storypage-aspx-id-c4fbaac9-40a3-4bd8-9e76.xml)  
+
 ### [2009-05-7](/news/2009/05/7/index.md)
 
+##### India
 #  The fourth phase of India's general election concludes. [http:--www.hindustantimes.com-election09-storypage.aspx?id=c4fbaac9-40a3-4bd8-9e76-47c1901a8f1d&category=Chunk-HT-UI-Elections-SectionPage-TopStories "(Hindustan Times)"]
 
 

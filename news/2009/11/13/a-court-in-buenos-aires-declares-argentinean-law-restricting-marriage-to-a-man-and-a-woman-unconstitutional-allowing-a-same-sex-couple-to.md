@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/11/13/a-court-in-buenos-aires-declares-argentinean-law-restricting-marriage-to-a-man-and-a-woman-unconstitutional-allowing-a-same-sex-couple-to.html)  [JSON](/news/2009/11/13/a-court-in-buenos-aires-declares-argentinean-law-restricting-marriage-to-a-man-and-a-woman-unconstitutional-allowing-a-same-sex-couple-to.json)  [XML](/news/2009/11/13/a-court-in-buenos-aires-declares-argentinean-law-restricting-marriage-to-a-man-and-a-woman-unconstitutional-allowing-a-same-sex-couple-to.xml)  
+
 ### [2009-11-13](/news/2009/11/13/index.md)
 
+##### Buenos Aires
 #  A court in Buenos Aires declares Argentinean law restricting marriage to a man and a woman unconstitutional, allowing a same-sex couple to marry; the city government announces it will not appeal. 
 
 An Argentine judge has granted a homosexual couple permission to get married, setting a precedent that could pave the way for the Catholic country to become the first in Latin America to allow same-sex marriage.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/americas/11/14/argentina.same.sex.marriage/)
-2. [Reuters](http://www.reuters.com/article/lifestyleMolt/idUSTRE5AC32X20091113)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/lifestyleMolt/idUSTRE5AC32X20091113)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

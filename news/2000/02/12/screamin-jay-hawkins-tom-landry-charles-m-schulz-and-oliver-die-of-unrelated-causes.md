@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/02/12/screamin-jay-hawkins-tom-landry-charles-m-schulz-and-oliver-die-of-unrelated-causes.html)  [JSON](/news/2000/02/12/screamin-jay-hawkins-tom-landry-charles-m-schulz-and-oliver-die-of-unrelated-causes.json)  [XML](/news/2000/02/12/screamin-jay-hawkins-tom-landry-charles-m-schulz-and-oliver-die-of-unrelated-causes.xml)  
+
 ### [2000-02-12](/news/2000/02/12/index.md)
 
+##### Screamin' Jay Hawkins
 # Screamin' Jay Hawkins, Tom Landry, Charles M. Schulz, and Oliver die, of unrelated causes.
 
 

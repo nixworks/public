@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/23/the-minister-of-justice-in-finland-johannes-koskinen-said-that-there-could-be-legalized-brothels-for-example-for-handicapped-people-he-g.html)  [JSON](/news/2003/07/23/the-minister-of-justice-in-finland-johannes-koskinen-said-that-there-could-be-legalized-brothels-for-example-for-handicapped-people-he-g.json)  [XML](/news/2003/07/23/the-minister-of-justice-in-finland-johannes-koskinen-said-that-there-could-be-legalized-brothels-for-example-for-handicapped-people-he-g.xml)  
+
 ### [2003-07-23](/news/2003/07/23/index.md)
 
+##### Johannes Koskinen
 #  The Minister of Justice in Finland, Johannes Koskinen, said that there could be legalized brothels for example for handicapped people. He got very angry response of organizations for handicapped. 66% of people in Ilta-Sanomat newspaper's readers said that prostitution must be under state control.
 
 

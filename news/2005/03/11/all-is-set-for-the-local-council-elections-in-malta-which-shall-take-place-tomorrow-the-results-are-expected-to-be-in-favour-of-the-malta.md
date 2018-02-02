@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/11/all-is-set-for-the-local-council-elections-in-malta-which-shall-take-place-tomorrow-the-results-are-expected-to-be-in-favour-of-the-malta.html)  [JSON](/news/2005/03/11/all-is-set-for-the-local-council-elections-in-malta-which-shall-take-place-tomorrow-the-results-are-expected-to-be-in-favour-of-the-malta.json)  [XML](/news/2005/03/11/all-is-set-for-the-local-council-elections-in-malta-which-shall-take-place-tomorrow-the-results-are-expected-to-be-in-favour-of-the-malta.xml)  
+
 ### [2005-03-11](/news/2005/03/11/index.md)
 
+##### Malta
 #  All is set for the local council elections in Malta which shall take place tomorrow. The results are expected to be in favour of the Malta Labour Party, the current opposition party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Independent Online](http://217.145.4.56/ind/news.asp?newsitemid=12832)
 2. [MaltaToday](http://www.maltatoday.com.mt/2005/03/06/t20.html)

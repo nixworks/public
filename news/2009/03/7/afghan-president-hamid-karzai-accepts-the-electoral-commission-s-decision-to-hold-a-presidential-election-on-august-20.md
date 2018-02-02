@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/7/afghan-president-hamid-karzai-accepts-the-electoral-commission-s-decision-to-hold-a-presidential-election-on-august-20.html)  [JSON](/news/2009/03/7/afghan-president-hamid-karzai-accepts-the-electoral-commission-s-decision-to-hold-a-presidential-election-on-august-20.json)  [XML](/news/2009/03/7/afghan-president-hamid-karzai-accepts-the-electoral-commission-s-decision-to-hold-a-presidential-election-on-august-20.xml)  
+
 ### [2009-03-7](/news/2009/03/7/index.md)
 
+##### Afghanistan
 #  Afghan President Hamid Karzai accepts the Electoral Commission's decision to hold a presidential election on August 20. 
 
 Afghan president abandons move to bring forward poll and agrees to August 20 vote.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/03/2009378041992297.html)
 1. [Cover Image](http://www.aljazeera.com)

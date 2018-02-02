@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/24/imprisoned-u-s-serviceman-bradley-manning-s-defence-insist-his-case-was-mishandled-by-american-prosecutors-and-must-now-be-thrown-out.html)  [JSON](/news/2012/04/24/imprisoned-u-s-serviceman-bradley-manning-s-defence-insist-his-case-was-mishandled-by-american-prosecutors-and-must-now-be-thrown-out.json)  [XML](/news/2012/04/24/imprisoned-u-s-serviceman-bradley-manning-s-defence-insist-his-case-was-mishandled-by-american-prosecutors-and-must-now-be-thrown-out.xml)  
+
 ### [2012-04-24](/news/2012/04/24/index.md)
 
+##### Bradley Manning
 # Imprisoned U.S. serviceman Bradley Manning's defence insist his case was mishandled by American prosecutors and must now be thrown out. 
 
 Defence team for US soldier Bradley Manning argues that case was mishandled by prosecutors and must now be thrown out.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/04/2012424171319480942.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/2/23/20122232192991734_20.jpg)

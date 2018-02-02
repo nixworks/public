@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/09/17/bp-starts-pumping-cement-into-the-deepwater-horizon-oil-well-in-the-gulf-of-mexico-at-the-culmination-of-cleanup-efforts-for-the-deepwater-h.html)  [JSON](/news/2010/09/17/bp-starts-pumping-cement-into-the-deepwater-horizon-oil-well-in-the-gulf-of-mexico-at-the-culmination-of-cleanup-efforts-for-the-deepwater-h.json)  [XML](/news/2010/09/17/bp-starts-pumping-cement-into-the-deepwater-horizon-oil-well-in-the-gulf-of-mexico-at-the-culmination-of-cleanup-efforts-for-the-deepwater-h.xml)  
+
 ### [2010-09-17](/news/2010/09/17/index.md)
 
+##### BP
 # BP starts pumping cement into the Deepwater Horizon oil well in the Gulf of Mexico at the culmination of cleanup efforts for the Deepwater Horizon oil spill. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo News](http://news.yahoo.com/s/afp/20100917/bs_afp/usoilenvironmentpollution)
+1. [AFP via Yahoo News](https://news.yahoo.com/s/afp/20100917/bs_afp/usoilenvironmentpollution)
 
 ### Related:
 

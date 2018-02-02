@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/14/an-archaeological-excavation-uncovers-the-foundations-of-the-17th-century-smock-alley-theatre-and-several-artefacts-from-theatrical-perform.html)  [JSON](/news/2009/08/14/an-archaeological-excavation-uncovers-the-foundations-of-the-17th-century-smock-alley-theatre-and-several-artefacts-from-theatrical-perform.json)  [XML](/news/2009/08/14/an-archaeological-excavation-uncovers-the-foundations-of-the-17th-century-smock-alley-theatre-and-several-artefacts-from-theatrical-perform.xml)  
+
 ### [2009-08-14](/news/2009/08/14/index.md)
 
+##### Smock Alley Theatre
 #  An archaeological excavation uncovers the foundations of the 17th-century Smock Alley Theatre and several artefacts from theatrical performances in Dublin. 
 
 An archaeological excavation in Dublin has uncovered the foundations of a 17th century theatre and a number of artefacts from theatrical performances.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0814/smockalley.html)
 1. [Cover Image](https://img.rasset.ie/00028375-1600.jpg)

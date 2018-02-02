@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/25/pirates-hijack-the-mv-rozen-as-it-departed-somalia-after-delivering-united-nations-food-aid.html)  [JSON](/news/2007/02/25/pirates-hijack-the-mv-rozen-as-it-departed-somalia-after-delivering-united-nations-food-aid.json)  [XML](/news/2007/02/25/pirates-hijack-the-mv-rozen-as-it-departed-somalia-after-delivering-united-nations-food-aid.xml)  
+
 ### [2007-02-25](/news/2007/02/25/index.md)
 
+##### pirates
 #  Pirates hijack the MV "Rozen" as it departed Somalia after delivering United Nations food aid. 
 
 Pirates on Sunday struck a ship that had just dropped off more than 1,800 tons of food aid to northeastern Somalia; it was unknown if any crew members were harmed.
 
 
-### Source:
+### Sources:
 
 1. [FOX](http://www.foxnews.com/story/0,2933,254499,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

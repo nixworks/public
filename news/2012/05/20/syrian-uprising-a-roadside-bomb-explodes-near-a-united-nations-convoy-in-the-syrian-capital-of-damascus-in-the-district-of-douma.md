@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/20/syrian-uprising-a-roadside-bomb-explodes-near-a-united-nations-convoy-in-the-syrian-capital-of-damascus-in-the-district-of-douma.html)  [JSON](/news/2012/05/20/syrian-uprising-a-roadside-bomb-explodes-near-a-united-nations-convoy-in-the-syrian-capital-of-damascus-in-the-district-of-douma.json)  [XML](/news/2012/05/20/syrian-uprising-a-roadside-bomb-explodes-near-a-united-nations-convoy-in-the-syrian-capital-of-damascus-in-the-district-of-douma.xml)  
+
 ### [2012-05-20](/news/2012/05/20/index.md)
 
+##### Syrian uprising (2011-present)
 # Syrian uprising: A roadside bomb explodes near a United Nations convoy in the Syrian capital of Damascus, in the district of Douma. 
 
 Shelling by Syrian forces kills 34 people, according to the British-based group the Syrian Observatory for Human Rights.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18138269)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60361000/jpg/_60361419_014511645-1.jpg)

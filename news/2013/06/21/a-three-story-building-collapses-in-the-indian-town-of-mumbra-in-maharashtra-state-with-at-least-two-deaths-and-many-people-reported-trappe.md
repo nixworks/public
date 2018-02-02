@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/21/a-three-story-building-collapses-in-the-indian-town-of-mumbra-in-maharashtra-state-with-at-least-two-deaths-and-many-people-reported-trappe.html)  [JSON](/news/2013/06/21/a-three-story-building-collapses-in-the-indian-town-of-mumbra-in-maharashtra-state-with-at-least-two-deaths-and-many-people-reported-trappe.json)  [XML](/news/2013/06/21/a-three-story-building-collapses-in-the-indian-town-of-mumbra-in-maharashtra-state-with-at-least-two-deaths-and-many-people-reported-trappe.xml)  
+
 ### [2013-06-21](/news/2013/06/21/index.md)
 
+##### India
 # A three-story building collapses in the Indian town of Mumbra in Maharashtra state, with at least two deaths and many people reported trapped. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/India-news/Mumbai/Mumbai-Two-dead-more-trapped-in-latest-Thane-building-collapse/Article1-1079959.aspx)
 2. [IBN Live](http://ibnlive.in.com/news/thane-building-collapses-in-mumbra-3-people-rescued/400497-3-237.html)

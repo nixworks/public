@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/04/6/warring-factions-sign-a-peace-treaty-to-end-the-civil-war-in-ca-te-d-ivoire-start-immediate-disarmament-and-make-plans-for-new-elections.html)  [JSON](/news/2005/04/6/warring-factions-sign-a-peace-treaty-to-end-the-civil-war-in-ca-te-d-ivoire-start-immediate-disarmament-and-make-plans-for-new-elections.json)  [XML](/news/2005/04/6/warring-factions-sign-a-peace-treaty-to-end-the-civil-war-in-ca-te-d-ivoire-start-immediate-disarmament-and-make-plans-for-new-elections.xml)  
+
 ### [2005-04-6](/news/2005/04/6/index.md)
 
+##### peace treaty
 #  Warring factions sign a peace treaty to end the civil war in Cote d'Ivoire, start immediate disarmament and make plans for new elections. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Globe&Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20050406.wivoryz0406/BNStory/International/)
+1. [Globe&Mail](https://www.theglobeandmail.com/servlet/story/RTGAM.20050406.wivoryz0406/BNStory/International/)
 
 ### Related:
 

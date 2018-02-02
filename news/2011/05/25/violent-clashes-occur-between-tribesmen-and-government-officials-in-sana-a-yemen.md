@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/25/violent-clashes-occur-between-tribesmen-and-government-officials-in-sana-a-yemen.html)  [JSON](/news/2011/05/25/violent-clashes-occur-between-tribesmen-and-government-officials-in-sana-a-yemen.json)  [XML](/news/2011/05/25/violent-clashes-occur-between-tribesmen-and-government-officials-in-sana-a-yemen.xml)  
+
 ### [2011-05-25](/news/2011/05/25/index.md)
 
+##### 2011 Yemeni uprising
 # Violent clashes occur between tribesmen and government officials in Sana'a, Yemen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/meast/05/25/yemen.unrest/index.html)
 1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/meast/05/25/yemen.unrest/tzvids.yemen.m25.gi.afp.jpg)

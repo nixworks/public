@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/12/13/the-high-court-of-botswana-rules-that-thousands-of-bushmen-should-not-have-been-evicted-from-their-ancestral-home-which-is-now-the-central.html)  [JSON](/news/2006/12/13/the-high-court-of-botswana-rules-that-thousands-of-bushmen-should-not-have-been-evicted-from-their-ancestral-home-which-is-now-the-central.json)  [XML](/news/2006/12/13/the-high-court-of-botswana-rules-that-thousands-of-bushmen-should-not-have-been-evicted-from-their-ancestral-home-which-is-now-the-central.xml)  
+
 ### [2006-12-13](/news/2006/12/13/index.md)
 
+##### High Court of Botswana
 #  The High Court of Botswana rules that thousands of Bushmen should not have been evicted from their ancestral home which is now the Central Botswana Game Reserve. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/12/13/AR2006121301944.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2006/12/13/AR2006121301944.html)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/14/2011-syrian-uprising-several-deaths-are-reported-as-a-security-crackdown-continues-against-anti-government-protests-in-syria.html)  [JSON](/news/2011/07/14/2011-syrian-uprising-several-deaths-are-reported-as-a-security-crackdown-continues-against-anti-government-protests-in-syria.json)  [XML](/news/2011/07/14/2011-syrian-uprising-several-deaths-are-reported-as-a-security-crackdown-continues-against-anti-government-protests-in-syria.xml)  
+
 ### [2011-07-14](/news/2011/07/14/index.md)
 
+##### 2011 Syrian uprising
 # 2011 Syrian uprising: Several deaths are reported as a security crackdown continues against anti-government protests in Syria. 
 
 Activists report deaths in several provinces as Sarkozy calls for tougher sanctions against the Assad government.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/2011714115151803721.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/10/201171017422442580_20.jpg)

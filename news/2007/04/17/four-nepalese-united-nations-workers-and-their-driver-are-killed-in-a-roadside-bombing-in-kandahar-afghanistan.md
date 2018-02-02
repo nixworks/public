@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/17/four-nepalese-united-nations-workers-and-their-driver-are-killed-in-a-roadside-bombing-in-kandahar-afghanistan.html)  [JSON](/news/2007/04/17/four-nepalese-united-nations-workers-and-their-driver-are-killed-in-a-roadside-bombing-in-kandahar-afghanistan.json)  [XML](/news/2007/04/17/four-nepalese-united-nations-workers-and-their-driver-are-killed-in-a-roadside-bombing-in-kandahar-afghanistan.xml)  
+
 ### [2007-04-17](/news/2007/04/17/index.md)
 
+##### Nepal
 #  Four Nepalese United Nations workers and their driver are killed in a roadside bombing in Kandahar, Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6562779.stm)
 

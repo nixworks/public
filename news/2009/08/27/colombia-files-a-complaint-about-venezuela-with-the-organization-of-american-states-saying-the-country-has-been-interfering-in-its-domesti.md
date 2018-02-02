@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/27/colombia-files-a-complaint-about-venezuela-with-the-organization-of-american-states-saying-the-country-has-been-interfering-in-its-domesti.html)  [JSON](/news/2009/08/27/colombia-files-a-complaint-about-venezuela-with-the-organization-of-american-states-saying-the-country-has-been-interfering-in-its-domesti.json)  [XML](/news/2009/08/27/colombia-files-a-complaint-about-venezuela-with-the-organization-of-american-states-saying-the-country-has-been-interfering-in-its-domesti.xml)  
+
 ### [2009-08-27](/news/2009/08/27/index.md)
 
+##### Colombia
 #  Colombia files a complaint about Venezuela with the Organization of American States, saying the country has been interfering in its domestic affairs. 
 
 Colombia fled a formal complaint against Venezuelan President Hugo Chavez with the Organization of American States, accusing the populist leader of interfering in domestic affairs
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8224130.stm)
 2. [MercoPress](http://en.mercopress.com/2009/08/27/colombia-files-complaint-against-venezuela-with-oas)

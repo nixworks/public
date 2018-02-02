@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/1/the-african-union-meets-in-accra-ghana-for-a-summit-with-attention-focussed-on-a-proposal-by-muammar-al-gaddafi-of-libya-for-a-pan-africa.html)  [JSON](/news/2007/07/1/the-african-union-meets-in-accra-ghana-for-a-summit-with-attention-focussed-on-a-proposal-by-muammar-al-gaddafi-of-libya-for-a-pan-africa.json)  [XML](/news/2007/07/1/the-african-union-meets-in-accra-ghana-for-a-summit-with-attention-focussed-on-a-proposal-by-muammar-al-gaddafi-of-libya-for-a-pan-africa.xml)  
+
 ### [2007-07-1](/news/2007/07/1/index.md)
 
+##### African Union
 #  The African Union meets in Accra, Ghana, for a summit with attention focussed on a proposal by Muammar al-Gaddafi of Libya for a pan-African government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6258072.stm)
 

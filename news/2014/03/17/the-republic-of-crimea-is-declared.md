@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2014/03/17/the-republic-of-crimea-is-declared.html)  [JSON](/news/2014/03/17/the-republic-of-crimea-is-declared.json)  [XML](/news/2014/03/17/the-republic-of-crimea-is-declared.xml)  
+
 ### [2014-03-17](/news/2014/03/17/index.md)
 
+##### Crimean referendum, 2014
 # The Republic of Crimea is declared. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.politico.com/story/2014/03/crimea-independence-ukraine-russia-104721.html)
 1. [Cover Image](http://s3-origin-images.politico.com/2014/03/17/crimea_getty_605.jpg)
+
+### Changes:
+
+1. [Crimean referendum, 2014: The Republic of Crimea is declared. ](/news/2014/03/17/crimean-referendum-2014-the-republic-of-crimea-is-declared.md) _2017-08-27 03:40:28 (First version)_
+1. [The Republic of Crimea is declared. ](/news/2014/03/17/the-republic-of-crimea-is-declared.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [The March of Peace took place in Russia a day before the Crimean referendum. 30,000 people participated in anti-war protests in Moscow. ](/news/2014/03/15/the-march-of-peace-took-place-in-russia-a-day-before-the-crimean-referendum-30-000-people-participated-in-anti-war-protests-in-moscow.md) _Context: Crimean referendum, 2014_
 4. [The Parliament of Ukraine's Autonomous Republic of Crimea announces a referendum to determine the region's future and ousts the regional government. ](/news/2014/02/27/the-parliament-of-ukraineas-autonomous-republic-of-crimea-announces-a-referendum-to-determine-the-regionas-future-and-ousts-the-regional.md) _Context: Crimean referendum, 2014_
 5. [The Autonomous Republic of Crimea has announced that it plans to hold a referendum for independence the same day as the elections in Ukraine. ](/news/2014/02/27/the-autonomous-republic-of-crimea-has-announced-that-it-plans-to-hold-a-referendum-for-independence-the-same-day-as-the-elections-in-ukraine.md) _Context: Crimean referendum, 2014_
-
-### Changes:
-
-1. [Crimean referendum, 2014: The Republic of Crimea is declared. ](/news/2014/03/17/crimean-referendum-2014-the-republic-of-crimea-is-declared.md) _2017-08-27 03:40:28 (First version)_
-1. [The Republic of Crimea is declared. ](/news/2014/03/17/the-republic-of-crimea-is-declared.md) _(Current version)_

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/07/3/the-european-central-bank-increases-interest-rates-in-the-eurozone-to-4-25-per-cent-to-tackle-inflation.html)  [JSON](/news/2008/07/3/the-european-central-bank-increases-interest-rates-in-the-eurozone-to-4-25-per-cent-to-tackle-inflation.json)  [XML](/news/2008/07/3/the-european-central-bank-increases-interest-rates-in-the-eurozone-to-4-25-per-cent-to-tackle-inflation.xml)  
+
 ### [2008-07-3](/news/2008/07/3/index.md)
 
+##### European Central Bank
 #  The European Central Bank increases interest rates in the Eurozone to 4.25 per cent to tackle inflation. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Forbes](http://www.forbes.com/feeds/ap/2008/07/03/ap5180838.html)
+1. [AP via ''Forbes](https://www.forbes.com/feeds/ap/2008/07/03/ap5180838.html)
 
 ### Related:
 

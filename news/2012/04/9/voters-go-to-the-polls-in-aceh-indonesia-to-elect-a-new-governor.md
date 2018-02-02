@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/9/voters-go-to-the-polls-in-aceh-indonesia-to-elect-a-new-governor.html)  [JSON](/news/2012/04/9/voters-go-to-the-polls-in-aceh-indonesia-to-elect-a-new-governor.json)  [XML](/news/2012/04/9/voters-go-to-the-polls-in-aceh-indonesia-to-elect-a-new-governor.xml)  
+
 ### [2012-04-9](/news/2012/04/9/index.md)
 
+##### Aceh
 # Voters go to the polls in Aceh, Indonesia, to elect a new governor. 
 
 Tsunami-devastated region holds elections, testing strength of peace deal between separatist fighters and government.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/04/20124993311249877.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/9/2012499411883734_20.jpg)

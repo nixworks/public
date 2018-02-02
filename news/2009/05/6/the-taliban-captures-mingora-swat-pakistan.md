@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/6/the-taliban-captures-mingora-swat-pakistan.html)  [JSON](/news/2009/05/6/the-taliban-captures-mingora-swat-pakistan.json)  [XML](/news/2009/05/6/the-taliban-captures-mingora-swat-pakistan.xml)  
+
 ### [2009-05-6](/news/2009/05/6/index.md)
 
+##### Taliban
 #  The Taliban captures Mingora, Swat, Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6229243.ece)
 

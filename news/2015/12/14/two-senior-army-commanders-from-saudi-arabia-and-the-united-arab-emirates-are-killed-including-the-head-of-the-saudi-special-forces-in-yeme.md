@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/14/two-senior-army-commanders-from-saudi-arabia-and-the-united-arab-emirates-are-killed-including-the-head-of-the-saudi-special-forces-in-yeme.html)  [JSON](/news/2015/12/14/two-senior-army-commanders-from-saudi-arabia-and-the-united-arab-emirates-are-killed-including-the-head-of-the-saudi-special-forces-in-yeme.json)  [XML](/news/2015/12/14/two-senior-army-commanders-from-saudi-arabia-and-the-united-arab-emirates-are-killed-including-the-head-of-the-saudi-special-forces-in-yeme.xml)  
+
 ### [2015-12-14](/news/2015/12/14/index.md)
 
+##### Yemeni Civil War (2015)
 # Two senior army commanders from Saudi Arabia and the United Arab Emirates are killed, including the head of the Saudi Special forces in Yemen, Colonel Abdullah al-Sahyan, along with dozens of Saudi, Emirati, Sudanese and Yemeni coalition troops in a OTR-21 Tochka missile attack by Houthi forces on their base near the city of Taiz in southwestern Yemen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/uk-yemen-security-idUKKBN0TX0FN20151214)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

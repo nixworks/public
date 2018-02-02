@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/23/the-british-government-announce-a-carbon-emissions-trading-scheme-the-carbon-reduction-commitment-that-will-apply-to-hotel-chains-superm.html)  [JSON](/news/2007/05/23/the-british-government-announce-a-carbon-emissions-trading-scheme-the-carbon-reduction-commitment-that-will-apply-to-hotel-chains-superm.json)  [XML](/news/2007/05/23/the-british-government-announce-a-carbon-emissions-trading-scheme-the-carbon-reduction-commitment-that-will-apply-to-hotel-chains-superm.xml)  
+
 ### [2007-05-23](/news/2007/05/23/index.md)
 
+##### His Majesty's Government
 #  The British Government announce a carbon emissions trading scheme, the Carbon Reduction Commitment, that will apply to hotel chains, supermarkets, banks, and other large organisations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [DEFRA](http://www.defra.gov.uk/environment/climatechange/uk/business/crc/index.htm)
 

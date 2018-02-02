@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/11/apple-computer-is-investigating-a-reported-security-flaw-in-mac-os-x-operating-system-that-could-allow-hackers-to-trick-macs-into-opening-d.html)  [JSON](/news/2004/04/11/apple-computer-is-investigating-a-reported-security-flaw-in-mac-os-x-operating-system-that-could-allow-hackers-to-trick-macs-into-opening-d.json)  [XML](/news/2004/04/11/apple-computer-is-investigating-a-reported-security-flaw-in-mac-os-x-operating-system-that-could-allow-hackers-to-trick-macs-into-opening-d.xml)  
+
 ### [2004-04-11](/news/2004/04/11/index.md)
 
+##### Apple Computer
 #  Apple Computer is investigating a reported security flaw in Mac OS X operating system that could allow hackers to trick Macs into opening dangerous files, such as Trojan horses and viruses. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNet](http://news.cnet.com/2100-1002_3-5189335.html?tag=nefd.top)
 

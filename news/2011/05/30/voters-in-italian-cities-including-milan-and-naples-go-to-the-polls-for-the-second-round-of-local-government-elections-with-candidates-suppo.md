@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/30/voters-in-italian-cities-including-milan-and-naples-go-to-the-polls-for-the-second-round-of-local-government-elections-with-candidates-suppo.html)  [JSON](/news/2011/05/30/voters-in-italian-cities-including-milan-and-naples-go-to-the-polls-for-the-second-round-of-local-government-elections-with-candidates-suppo.json)  [XML](/news/2011/05/30/voters-in-italian-cities-including-milan-and-naples-go-to-the-polls-for-the-second-round-of-local-government-elections-with-candidates-suppo.xml)  
+
 ### [2011-05-30](/news/2011/05/30/index.md)
 
+##### Italian
 # Voters in Italian cities including Milan and Naples go to the polls for the second round of local government elections with candidates supported by Prime Minister Silvio Berlusconi losing in both cities. 
 
 Italian Prime Minister Silvio Berlusconi loses the key cities of Milan and Naples in local elections seen as a major test of his popularity.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13591870)
 2. [Bloomberg BusinessWeek](http://www.businessweek.com/news/2011-05-30/berlusconi-s-grip-on-power-shaken-after-local-election-defeat.html)

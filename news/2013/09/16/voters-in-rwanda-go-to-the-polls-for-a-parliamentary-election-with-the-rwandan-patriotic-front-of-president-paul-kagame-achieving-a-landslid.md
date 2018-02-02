@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/16/voters-in-rwanda-go-to-the-polls-for-a-parliamentary-election-with-the-rwandan-patriotic-front-of-president-paul-kagame-achieving-a-landslid.html)  [JSON](/news/2013/09/16/voters-in-rwanda-go-to-the-polls-for-a-parliamentary-election-with-the-rwandan-patriotic-front-of-president-paul-kagame-achieving-a-landslid.json)  [XML](/news/2013/09/16/voters-in-rwanda-go-to-the-polls-for-a-parliamentary-election-with-the-rwandan-patriotic-front-of-president-paul-kagame-achieving-a-landslid.xml)  
+
 ### [2013-09-16](/news/2013/09/16/index.md)
 
+##### Rwanda
 # Voters in Rwanda go to the polls for a parliamentary election with the Rwandan Patriotic Front of President Paul Kagame achieving a landslide victory. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hfGgXfY6vlq6-6sehqLlLEkrFgfA?docId=CNG.49bcc0089441faaa25bb3c6e28cc4338.2a1&hl=en)
 2. [NineMSN](http://news.ninemsn.com.au/world/2013/09/18/02/45/rwanda-s-ruling-party-wins-landslide-vote)

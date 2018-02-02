@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/28/the-eiffel-tower-and-the-surrounding-champ-de-mars-park-are-evacuated-due-to-a-bomb-threat-but-nothing-is-found.html)  [JSON](/news/2010/09/28/the-eiffel-tower-and-the-surrounding-champ-de-mars-park-are-evacuated-due-to-a-bomb-threat-but-nothing-is-found.json)  [XML](/news/2010/09/28/the-eiffel-tower-and-the-surrounding-champ-de-mars-park-are-evacuated-due-to-a-bomb-threat-but-nothing-is-found.xml)  
+
 ### [2010-09-28](/news/2010/09/28/index.md)
 
+##### Eiffel Tower
 # The Eiffel Tower and the surrounding Champ de Mars park are evacuated due to a bomb threat but nothing is found. 
 
 The Eiffel Tower and the surrounding Champ de Mars park were briefly evacuated overnight because of a bomb alert, the fourth in the Paris region in as many weeks, but a search turned up nothing, police said.
 
 
-### Source:
+### Sources:
 
 1. [ABC Online](http://www.abc.net.au/news/stories/2010/09/29/3024475.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

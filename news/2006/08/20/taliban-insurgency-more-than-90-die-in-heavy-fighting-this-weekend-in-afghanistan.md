@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/20/taliban-insurgency-more-than-90-die-in-heavy-fighting-this-weekend-in-afghanistan.html)  [JSON](/news/2006/08/20/taliban-insurgency-more-than-90-die-in-heavy-fighting-this-weekend-in-afghanistan.json)  [XML](/news/2006/08/20/taliban-insurgency-more-than-90-die-in-heavy-fighting-this-weekend-in-afghanistan.xml)  
+
 ### [2006-08-20](/news/2006/08/20/index.md)
 
+##### Taliban insurgency
 #  Taliban insurgency: More than 90 die in heavy fighting this weekend in Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.afp.com/english/news/stories/060820104626.ymw5mqlq.html)
 

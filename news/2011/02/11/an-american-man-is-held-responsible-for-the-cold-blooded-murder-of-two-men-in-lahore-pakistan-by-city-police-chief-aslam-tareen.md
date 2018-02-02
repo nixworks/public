@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/11/an-american-man-is-held-responsible-for-the-cold-blooded-murder-of-two-men-in-lahore-pakistan-by-city-police-chief-aslam-tareen.html)  [JSON](/news/2011/02/11/an-american-man-is-held-responsible-for-the-cold-blooded-murder-of-two-men-in-lahore-pakistan-by-city-police-chief-aslam-tareen.json)  [XML](/news/2011/02/11/an-american-man-is-held-responsible-for-the-cold-blooded-murder-of-two-men-in-lahore-pakistan-by-city-police-chief-aslam-tareen.xml)  
+
 ### [2011-02-11](/news/2011/02/11/index.md)
 
+##### Lahore
 # An American man is held responsible for the "cold-blooded murder" of two men in Lahore, Pakistan, by city police chief Aslam Tareen. 
 
 Pakistani police says a US citizen in custody over the deaths of two men in Lahore is guilty of murder, in a case fuelling tensions with Washington.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12427518)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/48333000/gif/_48333888_bn-448x252.gif)

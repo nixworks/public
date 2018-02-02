@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/6/2011-yemeni-protests-six-people-are-killed-and-hundreds-injured-in-yemen-violence.html)  [JSON](/news/2011/04/6/2011-yemeni-protests-six-people-are-killed-and-hundreds-injured-in-yemen-violence.json)  [XML](/news/2011/04/6/2011-yemeni-protests-six-people-are-killed-and-hundreds-injured-in-yemen-violence.xml)  
+
 ### [2011-04-6](/news/2011/04/6/index.md)
 
+##### 2011 Yemeni protests
 # 2011 Yemeni protests: six people are killed and hundreds injured in Yemen violence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/US/04/05/yemen.protests/)
 

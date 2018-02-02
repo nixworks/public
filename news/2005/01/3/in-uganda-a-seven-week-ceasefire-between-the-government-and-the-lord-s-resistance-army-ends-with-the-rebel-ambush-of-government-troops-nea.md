@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/3/in-uganda-a-seven-week-ceasefire-between-the-government-and-the-lord-s-resistance-army-ends-with-the-rebel-ambush-of-government-troops-nea.html)  [JSON](/news/2005/01/3/in-uganda-a-seven-week-ceasefire-between-the-government-and-the-lord-s-resistance-army-ends-with-the-rebel-ambush-of-government-troops-nea.json)  [XML](/news/2005/01/3/in-uganda-a-seven-week-ceasefire-between-the-government-and-the-lord-s-resistance-army-ends-with-the-rebel-ambush-of-government-troops-nea.xml)  
+
 ### [2005-01-3](/news/2005/01/3/index.md)
 
+##### Uganda
 #  In Uganda, a seven-week ceasefire between the government and the Lord's Resistance Army ends with the rebel ambush of government troops near the town of Gulu. President Yoweri Museveni promises to increase military action against the rebels. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4139513.stm)
 

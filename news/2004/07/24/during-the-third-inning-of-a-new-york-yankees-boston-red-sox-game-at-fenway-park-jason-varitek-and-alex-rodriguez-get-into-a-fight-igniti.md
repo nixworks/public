@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/07/24/during-the-third-inning-of-a-new-york-yankees-boston-red-sox-game-at-fenway-park-jason-varitek-and-alex-rodriguez-get-into-a-fight-igniti.html)  [JSON](/news/2004/07/24/during-the-third-inning-of-a-new-york-yankees-boston-red-sox-game-at-fenway-park-jason-varitek-and-alex-rodriguez-get-into-a-fight-igniti.json)  [XML](/news/2004/07/24/during-the-third-inning-of-a-new-york-yankees-boston-red-sox-game-at-fenway-park-jason-varitek-and-alex-rodriguez-get-into-a-fight-igniti.xml)  
+
 ### [2004-07-24](/news/2004/07/24/index.md)
 
+##### New York Yankees
 #  During the third inning of a New York Yankees-Boston Red Sox game at Fenway Park, Jason Varitek and Alex Rodriguez get into a fight, igniting a bench-clearing brawl. The Red Sox win the game 11-10 on a walk-off home run by Bill Mueller.
 
 

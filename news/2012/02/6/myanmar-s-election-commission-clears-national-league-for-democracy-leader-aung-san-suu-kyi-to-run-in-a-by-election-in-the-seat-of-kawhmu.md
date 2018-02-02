@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/02/6/myanmar-s-election-commission-clears-national-league-for-democracy-leader-aung-san-suu-kyi-to-run-in-a-by-election-in-the-seat-of-kawhmu.html)  [JSON](/news/2012/02/6/myanmar-s-election-commission-clears-national-league-for-democracy-leader-aung-san-suu-kyi-to-run-in-a-by-election-in-the-seat-of-kawhmu.json)  [XML](/news/2012/02/6/myanmar-s-election-commission-clears-national-league-for-democracy-leader-aung-san-suu-kyi-to-run-in-a-by-election-in-the-seat-of-kawhmu.xml)  
+
 ### [2012-02-6](/news/2012/02/6/index.md)
 
+##### Myanmar
 # Myanmar's Election Commission clears National League for Democracy leader Aung San Suu Kyi to run in a by-election in the seat of Kawhmu. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''US News and World Report](http://www.usnews.com/news/world/articles/2012/02/05/myanmar-panel-says-suu-kyi-can-run-for-parliament)
+1. [AP via ''US News and World Report](https://www.usnews.com/news/world/articles/2012/02/05/myanmar-panel-says-suu-kyi-can-run-for-parliament)
 
 ### Related:
 

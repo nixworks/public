@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/16/white-house-officials-announce-that-condoleezza-rice-will-be-nominated-to-succeed-colin-powell-as-secretary-of-state.html)  [JSON](/news/2004/11/16/white-house-officials-announce-that-condoleezza-rice-will-be-nominated-to-succeed-colin-powell-as-secretary-of-state.json)  [XML](/news/2004/11/16/white-house-officials-announce-that-condoleezza-rice-will-be-nominated-to-succeed-colin-powell-as-secretary-of-state.xml)  
+
 ### [2004-11-16](/news/2004/11/16/index.md)
 
+##### White House
 #  White House officials announce that Condoleezza Rice will be nominated to succeed Colin Powell as Secretary of State. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4014961.stm)
 

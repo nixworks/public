@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/24/a-suicide-bomber-blows-himself-up-at-a-checkpoi
 
 ### [2017-03-24](/news/2017/03/24/index.md)
 
+##### Shahjalal International Airport
 # A suicide bomber blows himself up at a checkpoint at Shahjalal International Airport, Bangladesh, with no other casualties reported. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/11/uk-police-raid-the-greenacre-caravan-site-in-leighton-buzzard-rescuing-24-men-who-had-been-held-there-as-slaves-in-squalid-conditions.html)  [JSON](/news/2011/09/11/uk-police-raid-the-greenacre-caravan-site-in-leighton-buzzard-rescuing-24-men-who-had-been-held-there-as-slaves-in-squalid-conditions.json)  [XML](/news/2011/09/11/uk-police-raid-the-greenacre-caravan-site-in-leighton-buzzard-rescuing-24-men-who-had-been-held-there-as-slaves-in-squalid-conditions.xml)  
+
 ### [2011-09-11](/news/2011/09/11/index.md)
 
+##### caravan site
 # UK police raid the Greenacre caravan site in Leighton Buzzard, rescuing 24 men who had been held there as slaves in squalid conditions . 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2011/sep/11/leighton-buzzard-slaves-released)
 

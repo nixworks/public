@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/26/alan-johnston-a-bbc-news-journalist-begins-his-third-week-in-captivity-making-him-the-longest-held-foreign-hostage-since-kidnappings-beg.html)  [JSON](/news/2007/03/26/alan-johnston-a-bbc-news-journalist-begins-his-third-week-in-captivity-making-him-the-longest-held-foreign-hostage-since-kidnappings-beg.json)  [XML](/news/2007/03/26/alan-johnston-a-bbc-news-journalist-begins-his-third-week-in-captivity-making-him-the-longest-held-foreign-hostage-since-kidnappings-beg.xml)  
+
 ### [2007-03-26](/news/2007/03/26/index.md)
 
+##### Alan Johnston
 #  Alan Johnston, a BBC News journalist, begins his third week in captivity, making him the longest-held foreign hostage since kidnappings began in Gaza. Reporters Without Borders urges the Arab League to make an appeal for his release at an upcoming summit. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MidEast Times](http://www.metimes.com/storyview.php?StoryID=20070326-065533-8170r)
 2. [RSF](http://www.rsf.org/article.php3?id_article=21431)

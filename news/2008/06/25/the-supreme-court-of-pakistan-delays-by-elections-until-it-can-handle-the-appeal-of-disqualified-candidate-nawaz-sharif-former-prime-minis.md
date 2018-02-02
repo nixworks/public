@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/25/the-supreme-court-of-pakistan-delays-by-elections-until-it-can-handle-the-appeal-of-disqualified-candidate-nawaz-sharif-former-prime-minis.html)  [JSON](/news/2008/06/25/the-supreme-court-of-pakistan-delays-by-elections-until-it-can-handle-the-appeal-of-disqualified-candidate-nawaz-sharif-former-prime-minis.json)  [XML](/news/2008/06/25/the-supreme-court-of-pakistan-delays-by-elections-until-it-can-handle-the-appeal-of-disqualified-candidate-nawaz-sharif-former-prime-minis.xml)  
+
 ### [2008-06-25](/news/2008/06/25/index.md)
 
+##### Supreme Court
 #  The Supreme Court of Pakistan delays by-elections until it can handle the appeal of disqualified candidate Nawaz Sharif, former Prime Minister and leader of the Pakistan Muslim League (N). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7472834.stm)
 

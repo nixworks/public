@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/10/national-hockey-league-great-wayne-gretzky-has-denied-placing-any-bets-with-an-illegal-sport-gambling-operation.html)  [JSON](/news/2006/02/10/national-hockey-league-great-wayne-gretzky-has-denied-placing-any-bets-with-an-illegal-sport-gambling-operation.json)  [XML](/news/2006/02/10/national-hockey-league-great-wayne-gretzky-has-denied-placing-any-bets-with-an-illegal-sport-gambling-operation.xml)  
+
 ### [2006-02-10](/news/2006/02/10/index.md)
 
+##### National Hockey League
 #  National Hockey League great Wayne Gretzky has denied placing any bets with an illegal sport gambling operation. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/News/newsArticle.aspx?type=sportsNews&storyID=2006-02-10T132814Z_01_SP142097_RTRUKOC_0_US-ICE-HOCKEY-GAMBLING.xml)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

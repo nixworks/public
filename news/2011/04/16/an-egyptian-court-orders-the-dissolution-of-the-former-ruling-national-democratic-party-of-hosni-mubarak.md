@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/16/an-egyptian-court-orders-the-dissolution-of-the-former-ruling-national-democratic-party-of-hosni-mubarak.html)  [JSON](/news/2011/04/16/an-egyptian-court-orders-the-dissolution-of-the-former-ruling-national-democratic-party-of-hosni-mubarak.json)  [XML](/news/2011/04/16/an-egyptian-court-orders-the-dissolution-of-the-former-ruling-national-democratic-party-of-hosni-mubarak.xml)  
+
 ### [2011-04-16](/news/2011/04/16/index.md)
 
+##### Egypt
 # An Egyptian court orders the dissolution of the former ruling National Democratic Party of Hosni Mubarak. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE73F07Z20110416)
 

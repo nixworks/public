@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/19/pakistani-president-asif-ali-zardari-returns-to-pakistan-after-undergoing-treatment-in-dubai.html)  [JSON](/news/2011/12/19/pakistani-president-asif-ali-zardari-returns-to-pakistan-after-undergoing-treatment-in-dubai.json)  [XML](/news/2011/12/19/pakistani-president-asif-ali-zardari-returns-to-pakistan-after-undergoing-treatment-in-dubai.xml)  
+
 ### [2011-12-19](/news/2011/12/19/index.md)
 
+##### Pakistan
 # Pakistani President Asif Ali Zardari returns to Pakistan after undergoing treatment in Dubai. 
 
 President Asif Ali Zardari on Monday returned to Pakistan from Dubai, where he had gone almost a fortnight ago to seek treatment for a heart condition, triggering rampant speculation that he might be on the verge of resigning.
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/world/pakistan/President-Zardari-returns-to-Pakistan/articleshow/11162794.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/11163766.cms)

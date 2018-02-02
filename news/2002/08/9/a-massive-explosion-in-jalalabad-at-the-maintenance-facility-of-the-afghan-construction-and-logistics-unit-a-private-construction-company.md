@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/08/9/a-massive-explosion-in-jalalabad-at-the-maintenance-facility-of-the-afghan-construction-and-logistics-unit-a-private-construction-company.html)  [JSON](/news/2002/08/9/a-massive-explosion-in-jalalabad-at-the-maintenance-facility-of-the-afghan-construction-and-logistics-unit-a-private-construction-company.json)  [XML](/news/2002/08/9/a-massive-explosion-in-jalalabad-at-the-maintenance-facility-of-the-afghan-construction-and-logistics-unit-a-private-construction-company.xml)  
+
 ### [2002-08-9](/news/2002/08/9/index.md)
 
+##### Jalalabad
 #  A massive explosion in Jalalabad at the maintenance facility of the Afghan Construction and Logistics Unit, a private construction company, kills at least 10 and injures 25, damaging 50 homes and a hydroelectric dam.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/21/laszlo-solyom-president-of-hungary-was-declared-unwelcome-by-slovakia-and-was-not-allowed-to-step-on-slovak-soil-to-attend-an-unveiling-of.html)  [JSON](/news/2009/08/21/laszlo-solyom-president-of-hungary-was-declared-unwelcome-by-slovakia-and-was-not-allowed-to-step-on-slovak-soil-to-attend-an-unveiling-of.json)  [XML](/news/2009/08/21/laszlo-solyom-president-of-hungary-was-declared-unwelcome-by-slovakia-and-was-not-allowed-to-step-on-slovak-soil-to-attend-an-unveiling-of.xml)  
+
 ### [2009-08-21](/news/2009/08/21/index.md)
 
+##### Lszl Slyom
 #  Lszl Slyom, President of Hungary was declared unwelcome by Slovakia and was not allowed to step on Slovak soil to attend an unveiling of a statue depicting King Saint Stephen, first King of Hungary. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8215220.stm)
 

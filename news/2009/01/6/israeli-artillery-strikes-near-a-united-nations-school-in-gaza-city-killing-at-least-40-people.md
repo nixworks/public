@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/6/israeli-artillery-strikes-near-a-united-nations-school-in-gaza-city-killing-at-least-40-people.html)  [JSON](/news/2009/01/6/israeli-artillery-strikes-near-a-united-nations-school-in-gaza-city-killing-at-least-40-people.json)  [XML](/news/2009/01/6/israeli-artillery-strikes-near-a-united-nations-school-in-gaza-city-killing-at-least-40-people.xml)  
+
 ### [2009-01-6](/news/2009/01/6/index.md)
 
+##### Israel
 #  Israeli artillery strikes near a United Nations school in Gaza City, killing at least 40 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2009/WORLD/meast/01/06/israel.gaza/index.html)
 

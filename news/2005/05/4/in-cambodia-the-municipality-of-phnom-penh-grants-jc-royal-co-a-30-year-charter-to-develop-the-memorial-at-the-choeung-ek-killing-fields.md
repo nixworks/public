@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2005/05/4/in-cambodia-the-municipality-of-phnom-penh-grants-jc-royal-co-a-30-year-charter-to-develop-the-memorial-at-the-choeung-ek-killing-fields.html)  [JSON](/news/2005/05/4/in-cambodia-the-municipality-of-phnom-penh-grants-jc-royal-co-a-30-year-charter-to-develop-the-memorial-at-the-choeung-ek-killing-fields.json)  [XML](/news/2005/05/4/in-cambodia-the-municipality-of-phnom-penh-grants-jc-royal-co-a-30-year-charter-to-develop-the-memorial-at-the-choeung-ek-killing-fields.xml)  
+
 ### [2005-05-4](/news/2005/05/4/index.md)
 
-#  In Cambodia, the Municipality of Phnom Penh grants JC Royal Co. a 30-year charter to develop the memorial at the Choeung Ek Killing Fields. [http:--news.yahoo.com-s-csm-20050503-wl_csm-obones_1 (Yahoo! News)] (Link dead as of 02:41, 15 January 2007 (UTC))
+##### Cambodia
+#  In Cambodia, the Municipality of Phnom Penh grants JC Royal Co. a 30-year charter to develop the memorial at the Choeung Ek Killing Fields. [https:--news.yahoo.com-s-csm-20050503-wl_csm-obones_1 (Yahoo! News)] (Link dead as of 02:41, 15 January 2007 (UTC))
 
 
 

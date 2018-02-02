@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/22/song-xiuyan-is-confirmed-by-the-3rd-plenum-of-the-10th-qinghai-people-s-congress-as-governor-of-qinghai-making-her-the-only-female-provinc.html)  [JSON](/news/2005/01/22/song-xiuyan-is-confirmed-by-the-3rd-plenum-of-the-10th-qinghai-people-s-congress-as-governor-of-qinghai-making-her-the-only-female-provinc.json)  [XML](/news/2005/01/22/song-xiuyan-is-confirmed-by-the-3rd-plenum-of-the-10th-qinghai-people-s-congress-as-governor-of-qinghai-making-her-the-only-female-provinc.xml)  
+
 ### [2005-01-22](/news/2005/01/22/index.md)
 
+##### Song Xiuyan
 #  Song Xiuyan is confirmed by the 3rd Plenum of the 10th Qinghai People's Congress as Governor of Qinghai, making her the only female Provincial Governor in the People's Republic of China at the time. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ChineseNewsNet](http://www4.chinesenewsnet.com/gb/MainNews/SinoNews/Mainland/zxs_2005-03-29_556207.shtml)
 

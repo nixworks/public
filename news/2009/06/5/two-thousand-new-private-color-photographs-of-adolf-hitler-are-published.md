@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/5/two-thousand-new-private-color-photographs-of-adolf-hitler-are-published.html)  [JSON](/news/2009/06/5/two-thousand-new-private-color-photographs-of-adolf-hitler-are-published.json)  [XML](/news/2009/06/5/two-thousand-new-private-color-photographs-of-adolf-hitler-are-published.xml)  
+
 ### [2009-06-5](/news/2009/06/5/index.md)
 
+##### Adolf Hitler
 #  Two thousand new private color photographs of Adolf Hitler are published. 
 
 Collection of colour photographs reveal the private life of Adolf Hitler.
 
 
-### Source:
+### Sources:
 
 1. [Daily News](http://www.nydailynews.com/news/us_world/2009/06/04/2009-06-04_neverbefore_seen_photos_of_adolf_hitler_taken_by_personal_photographer_revealed.html)
 2. [Telegraph](http://www.telegraph.co.uk/news/picturegalleries/worldnews/5452458/Unseen-photographs-reveal-the-private-life-of-Adolf-Hitler.html)

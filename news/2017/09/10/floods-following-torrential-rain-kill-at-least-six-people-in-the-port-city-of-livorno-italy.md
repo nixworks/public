@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/10/floods-following-torrential-rain-kill-at-least-
 
 ### [2017-09-10](/news/2017/09/10/index.md)
 
+##### 2017 Livorno floods
 # Floods, following torrential rain, kill at least six people in the port city of Livorno, Italy. 
 
 The mayor of Livorno lamented that the forecast underestimated the intensity of the storms that first struck overnight. The city only issued a code &quot;orange&quot; warning instead of a code &quot;red,&quot; which might have saved lives.

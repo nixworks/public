@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/14/united-nations-barges-carrying-aid-and-their-sudanese-people-s-liberation-army-escort-are-attacked-by-tribesmen-on-the-sobat-river-sudan.html)  [JSON](/news/2009/06/14/united-nations-barges-carrying-aid-and-their-sudanese-people-s-liberation-army-escort-are-attacked-by-tribesmen-on-the-sobat-river-sudan.json)  [XML](/news/2009/06/14/united-nations-barges-carrying-aid-and-their-sudanese-people-s-liberation-army-escort-are-attacked-by-tribesmen-on-the-sobat-river-sudan.xml)  
+
 ### [2009-06-14](/news/2009/06/14/index.md)
 
+##### United Nations
 #  United Nations barges carrying aid and their Sudanese People's Liberation Army escort are attacked by tribesmen on the Sobat River, Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8099242.stm)
 

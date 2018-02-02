@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/18/3-indian-peacekeepers-serving-in-a-united-nations-peacekeeping-operation-in-the-democratic-republic-of-the-congo-are-killed-by-rebels-in-an.html)  [JSON](/news/2010/08/18/3-indian-peacekeepers-serving-in-a-united-nations-peacekeeping-operation-in-the-democratic-republic-of-the-congo-are-killed-by-rebels-in-an.json)  [XML](/news/2010/08/18/3-indian-peacekeepers-serving-in-a-united-nations-peacekeeping-operation-in-the-democratic-republic-of-the-congo-are-killed-by-rebels-in-an.xml)  
+
 ### [2010-08-18](/news/2010/08/18/index.md)
 
+##### India
 # 3 Indian peacekeepers serving in a United Nations peacekeeping operation in the Democratic Republic of the Congo are killed by rebels in an apparent ambush. 
 
 Rebels kill three Indian peacekeepers in a night-time ambush at a base in the eastern region of the Democratic Republic of Congo.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11010206)
 2. [Hindustan Times](http://www.hindustantimes.com/Three-Indian-soldiers-killed-in-rebels-attack-in-Congo/Article1-588538.aspx)
@@ -13,8 +17,8 @@ Rebels kill three Indian peacekeepers in a night-time ambush at a base in the ea
 
 ### Related:
 
-1. [A United Nations peacekeeper from India is killed in the eastern Congo. ](/news/2012/07/6/a-united-nations-peacekeeper-from-india-is-killed-in-the-eastern-congo.md) _Context: Democratic Republic of the Congo, India_
-2. [The leader of a Congolese rebel group suspected of being involved in the mass rape of more than 300 civilians is arrested by the Congolese army and United Nations peacekeeping troops. ](/news/2010/10/7/the-leader-of-a-congolese-rebel-group-suspected-of-being-involved-in-the-mass-rape-of-more-than-300-civilians-is-arrested-by-the-congolese-a.md) _Context: Democratic Republic of the Congo, United Nations peacekeeping_
-3. [Prominent Indian journalist and "Lankesh Patrike" editor Gauri Lankesh is shot dead by unidentified men outside her house in the city of Bengaluru. ](/news/2017/09/5/prominent-indian-journalist-and-lankesh-patrike-editor-gauri-lankesh-is-shot-dead-by-unidentified-men-outside-her-house-in-the-city-of-ben.md) _Context: India_
-4. [Indian Prime Minister Narendra Modi heads to Myanmar for a state visit. ](/news/2017/09/5/indian-prime-minister-narendra-modi-heads-to-myanmar-for-a-state-visit.md) _Context: India_
-5. [A military transport plane crashes after take-off from N'djili Airport in Kinshasa, Democratic Republic of the Congo, killing all 12 Russian crew members. ](/news/2017/09/30/a-military-transport-plane-crashes-after-take-off-from-n-djili-airport-in-kinshasa-democratic-republic-of-the-congo-killing-all-12-russian.md) _Context: Democratic Republic of the Congo_
+1. [A United Nations peacekeeper from India is killed in the eastern Congo. ](/news/2012/07/6/a-united-nations-peacekeeper-from-india-is-killed-in-the-eastern-congo.md) _Context: DR Congo, India_
+2. [A bus plunges into the Bhairab River after falling off a bridge in Murshidabad district, West Bengal, India, killing at least 36 people. The late response by rescuers to save passengers leads to violence between local residents and police. ](/news/2018/01/29/a-bus-plunges-into-the-bhairab-river-after-falling-off-a-bridge-in-murshidabad-district-west-bengal-india-killing-at-least-36-people-the.md) _Context: India_
+3. [The Indian Space Research Organisation successfully launches India's 100th satellite and 30 other satellites from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh. [http:--www.thehindubusinessline.com-news-science-isro-launches-its-100th-satellite-into-space-article10027585.ece "(The Hindu)"]A Delta IV launches NROL-47, a classified U.S. military payload, from Vandenberg Air Force Base, California. It is the last single-core Delta IV to launch from Vandenberg. [https:--spaceflightnow.com-2018-01-13-delta-4-rocket-successfully-lofts-clandestine-nro-satellite-into-orbit-"(Spaceflight Now)"]](/news/2018/01/12/the-indian-space-research-organisation-successfully-launches-indiaas-100th-satellite-and-30-other-satellites-from-the-satish-dhawan-space.md) _Context: India_
+4. [Suspected Allied Democratic Forces militants in North Kivu, DR Congo, kill at least 15 United Nations peacekeepers, mostly Tanzanian, and five Congolese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. ](/news/2017/12/8/suspected-allied-democratic-forces-militants-in-north-kivu-dr-congo-kill-at-least-15-united-nations-peacekeepers-mostly-tanzanian-and-fi.md) _Context: DR Congo_
+5. [Fifteen countries ask the World Trade Organization a mandate to negotiate binding rules on e-commerce, days after India turned down negotiations. ](/news/2017/12/7/fifteen-countries-ask-the-world-trade-organization-a-mandate-to-negotiate-binding-rules-on-e-commerce-days-after-india-turned-down-negotiat.md) _Context: India_

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/6/russian-billionaire-viktor-vekselberg-purchases-a-huge-private-collection-of-faberga-c-art-pieces-including-nine-faberga-c-eggs-from-the-fo.html)  [JSON](/news/2004/02/6/russian-billionaire-viktor-vekselberg-purchases-a-huge-private-collection-of-faberga-c-art-pieces-including-nine-faberga-c-eggs-from-the-fo.json)  [XML](/news/2004/02/6/russian-billionaire-viktor-vekselberg-purchases-a-huge-private-collection-of-faberga-c-art-pieces-including-nine-faberga-c-eggs-from-the-fo.xml)  
+
 ### [2004-02-6](/news/2004/02/6/index.md)
 
+##### billionaire
 #  Russian billionaire Viktor Vekselberg purchases a huge private collection of Faberge art pieces, including nine Faberge eggs, from the Forbes family. The collection had been expected to go up for auction in April.
 
 

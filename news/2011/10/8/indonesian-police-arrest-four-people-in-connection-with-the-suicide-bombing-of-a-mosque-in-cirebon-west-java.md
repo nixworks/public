@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/8/indonesian-police-arrest-four-people-in-connection-with-the-suicide-bombing-of-a-mosque-in-cirebon-west-java.html)  [JSON](/news/2011/10/8/indonesian-police-arrest-four-people-in-connection-with-the-suicide-bombing-of-a-mosque-in-cirebon-west-java.json)  [XML](/news/2011/10/8/indonesian-police-arrest-four-people-in-connection-with-the-suicide-bombing-of-a-mosque-in-cirebon-west-java.xml)  
+
 ### [2011-10-8](/news/2011/10/8/index.md)
 
+##### Indonesian police
 # Indonesian police arrest four people in connection with the suicide bombing of a mosque in Cirebon, West Java. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jakarta Post](http://www.thejakartapost.com/news/2011/10/08/at-least-4-nabbed-cirebon-bombing-links.html)
 

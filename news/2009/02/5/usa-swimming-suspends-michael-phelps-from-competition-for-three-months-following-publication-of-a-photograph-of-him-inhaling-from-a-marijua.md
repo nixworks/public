@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/5/usa-swimming-suspends-michael-phelps-from-competition-for-three-months-following-publication-of-a-photograph-of-him-inhaling-from-a-marijua.html)  [JSON](/news/2009/02/5/usa-swimming-suspends-michael-phelps-from-competition-for-three-months-following-publication-of-a-photograph-of-him-inhaling-from-a-marijua.json)  [XML](/news/2009/02/5/usa-swimming-suspends-michael-phelps-from-competition-for-three-months-following-publication-of-a-photograph-of-him-inhaling-from-a-marijua.xml)  
+
 ### [2009-02-5](/news/2009/02/5/index.md)
 
+##### USA Swimming
 #  USA Swimming suspends Michael Phelps from competition for three months following publication of a photograph of him inhaling from a marijuana pipe. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Sports Illustrated](http://sportsillustrated.cnn.com/2009/more/02/05/phelps.suspended.ap/index.html?eref=si_topstories)
 

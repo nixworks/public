@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/8/at-least-7-people-are-killed-and-10-injured-in-a-stabbing-spree-in-tokyo-japan-coinciding-on-the-7th-anniversary-of-the-osaka-school-mass.html)  [JSON](/news/2008/06/8/at-least-7-people-are-killed-and-10-injured-in-a-stabbing-spree-in-tokyo-japan-coinciding-on-the-7th-anniversary-of-the-osaka-school-mass.json)  [XML](/news/2008/06/8/at-least-7-people-are-killed-and-10-injured-in-a-stabbing-spree-in-tokyo-japan-coinciding-on-the-7th-anniversary-of-the-osaka-school-mass.xml)  
+
 ### [2008-06-8](/news/2008/06/8/index.md)
 
+##### stabbing spree
 #  At least 7 people are killed and 10 injured in a stabbing spree in Tokyo, Japan, coinciding on the 7th anniversary of the Osaka school massacre. 
 
 At least seven people have been killed in a stabbing frenzy in a crowded part of Tokyo.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7442327.stm)
 2. [RTÉ](http://www.rte.ie/news/2008/0608/tokyo.html)

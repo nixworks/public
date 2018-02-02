@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/16/six-african-countries-begin-a-two-day-summit-in-tripoli-libya-to-assess-situation-in-darfur-none-of-the-local-rebel-groups-have-sent-rep.html)  [JSON](/news/2005/05/16/six-african-countries-begin-a-two-day-summit-in-tripoli-libya-to-assess-situation-in-darfur-none-of-the-local-rebel-groups-have-sent-rep.json)  [XML](/news/2005/05/16/six-african-countries-begin-a-two-day-summit-in-tripoli-libya-to-assess-situation-in-darfur-none-of-the-local-rebel-groups-have-sent-rep.xml)  
+
 ### [2005-05-16](/news/2005/05/16/index.md)
 
+##### Africa
 #  Six African countries begin a two-day summit in Tripoli, Libya, to assess situation in Darfur. None of the local rebel groups have sent representatives. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4551465.stm)
 2. [LJBC, Libya](http://en.ljbc.net/online/news_details.php?id=858)

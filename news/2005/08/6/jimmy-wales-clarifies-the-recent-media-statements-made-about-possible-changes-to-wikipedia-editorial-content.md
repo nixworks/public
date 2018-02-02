@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/6/jimmy-wales-clarifies-the-recent-media-statements-made-about-possible-changes-to-wikipedia-editorial-content.html)  [JSON](/news/2005/08/6/jimmy-wales-clarifies-the-recent-media-statements-made-about-possible-changes-to-wikipedia-editorial-content.json)  [XML](/news/2005/08/6/jimmy-wales-clarifies-the-recent-media-statements-made-about-possible-changes-to-wikipedia-editorial-content.xml)  
+
 ### [2005-08-6](/news/2005/08/6/index.md)
 
+##### Jimmy Wales
 #  Jimmy Wales clarifies the recent media statements made about possible changes to Wikipedia editorial content. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Mailing list](http://mail.wikimedia.org/pipermail/wikien-l/2005-August/027183.html)
 

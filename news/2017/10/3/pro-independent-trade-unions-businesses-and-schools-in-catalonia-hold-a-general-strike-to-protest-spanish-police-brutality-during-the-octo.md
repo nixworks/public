@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/3/pro-independent-trade-unions-businesses-and-scho
 
 ### [2017-10-3](/news/2017/10/3/index.md)
 
+##### 2017 Spanish constitutional crisis
 # Pro-independent trade unions, businesses, and schools in Catalonia hold a general strike to protest Spanish police brutality during the October 1 independence referendum. 
 
 A general strike in Catalonia on Tuesday will likely bring much of the wealthy Spanish region to a standstill.

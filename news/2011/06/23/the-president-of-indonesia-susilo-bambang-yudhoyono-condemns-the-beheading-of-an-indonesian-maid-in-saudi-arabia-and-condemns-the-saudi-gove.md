@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/23/the-president-of-indonesia-susilo-bambang-yudhoyono-condemns-the-beheading-of-an-indonesian-maid-in-saudi-arabia-and-condemns-the-saudi-gove.html)  [JSON](/news/2011/06/23/the-president-of-indonesia-susilo-bambang-yudhoyono-condemns-the-beheading-of-an-indonesian-maid-in-saudi-arabia-and-condemns-the-saudi-gove.json)  [XML](/news/2011/06/23/the-president-of-indonesia-susilo-bambang-yudhoyono-condemns-the-beheading-of-an-indonesian-maid-in-saudi-arabia-and-condemns-the-saudi-gove.xml)  
+
 ### [2011-06-23](/news/2011/06/23/index.md)
 
+##### President of Indonesia
 # The President of Indonesia Susilo Bambang Yudhoyono condemns the beheading of an Indonesian maid in Saudi Arabia and condemns the Saudi Government of breaking the "norms and manners" of international relations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_683019.html)
 

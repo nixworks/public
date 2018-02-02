@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/18/protestors-in-the-united-kingdom-make-preparations-for-president-bush-s-state-visit-to-the-uk-starting-tuesday-more-britons-approve-of-pre.html)  [JSON](/news/2003/11/18/protestors-in-the-united-kingdom-make-preparations-for-president-bush-s-state-visit-to-the-uk-starting-tuesday-more-britons-approve-of-pre.json)  [XML](/news/2003/11/18/protestors-in-the-united-kingdom-make-preparations-for-president-bush-s-state-visit-to-the-uk-starting-tuesday-more-britons-approve-of-pre.xml)  
+
 ### [2003-11-18](/news/2003/11/18/index.md)
 
+##### George W. Bush
 #  Protestors in the United Kingdom make preparations for President Bush's state visit to the UK starting Tuesday. More Britons approve of President Bush's visit to the UK than disapprove of it. In an ICM survey for "The Guardian", 43% of those questioned said they welcomed Bush's visit, while 36% said they did not. In the new poll, 62% agreed that the US was "generally speaking, a force for good", while 15% thought it was "an evil empire". The survey contrasted with a poll published last week by Populus for "The Times" newspaper.
 
 

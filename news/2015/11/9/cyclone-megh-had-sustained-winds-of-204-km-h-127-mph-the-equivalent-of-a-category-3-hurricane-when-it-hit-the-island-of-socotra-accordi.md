@@ -1,19 +1,28 @@
+
+Formats: [HTML](/news/2015/11/9/cyclone-megh-had-sustained-winds-of-204-km-h-127-mph-the-equivalent-of-a-category-3-hurricane-when-it-hit-the-island-of-socotra-accordi.html)  [JSON](/news/2015/11/9/cyclone-megh-had-sustained-winds-of-204-km-h-127-mph-the-equivalent-of-a-category-3-hurricane-when-it-hit-the-island-of-socotra-accordi.json)  [XML](/news/2015/11/9/cyclone-megh-had-sustained-winds-of-204-km-h-127-mph-the-equivalent-of-a-category-3-hurricane-when-it-hit-the-island-of-socotra-accordi.xml)  
+
 ### [2015-11-9](/news/2015/11/9/index.md)
 
+##### Cyclone Megh
 # Cyclone Megh had sustained winds of 204 km-h (127 mph), the equivalent of a Category 3 hurricane, when it hit the island of Socotra. According to AFP, Megh killed six, injured dozens with three reported missing and 5,000 people forced to leave their homes. 
 
-Cyclone Megh slammed into the Yemeni island of Socotra with winds of 127 mph on Sunday.
+A second extremely rare and powerful cyclone in two weeks battered the Yemeni island of Socotra with hurricane-force winds on Sunday, killing a woman and causing around 5,000 people to flee their homes, a local official said.
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo](http://news.yahoo.com/second-cyclone-kills-6-yemen-island-203101338.html)
+1. [AFP via Yahoo](https://news.yahoo.com/second-cyclone-kills-6-yemen-island-203101338.html)
 2. [Al Jazeera](http://www.aljazeera.com/news/2015/11/panic-cyclone-hits-yemen-week-deadly-weather-151108081019982.html)
 3. [Regional Specialized Meteorological Center](http://www.rsmcnewdelhi.imd.gov.in/images/bulletin/rsmc.pdf)
-4. [Reuters](http://www.reuters.com/article/2015/11/08/us-yemen-cyclone-idUSKCN0SX0TD20151108#x3ZfgHQ8zQJ5rsA8.97)
-5. [USA Today](http://www.usatoday.com/story/weather/2015/11/08/cyclone-megh-yemen-socotra/75411872/)
+4. [Reuters](https://www.reuters.com/article/2015/11/08/us-yemen-cyclone-idUSKCN0SX0TD20151108#x3ZfgHQ8zQJ5rsA8.97)
+5. [USA Today](https://www.usatoday.com/story/weather/2015/11/08/cyclone-megh-yemen-socotra/75411872/)
 6. [United States Naval Observatory](http://www.usno.navy.mil/NOOC/nmfc-ph/RSS/jtwc/warnings/io0515web.txt)
-6. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
+6. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [Cyclone Megh: Cyclone Megh had sustained winds of 204 km-h (127 mph), the equivalent of a Category 3 hurricane, when it hit the island of Socotra. According to AFP, Megh killed six, injured dozens with three reported missing and 5,000 people forced to leave their homes. ](/news/2015/11/9/cyclone-megh-cyclone-megh-had-sustained-winds-of-204-km-h-127-mph-the-equivalent-of-a-category-3-hurricane-when-it-hit-the-island-of-so.md) _2017-08-27 03:43:45 (First version)_
+1. [Cyclone Megh had sustained winds of 204 km-h (127 mph), the equivalent of a Category 3 hurricane, when it hit the island of Socotra. According to AFP, Megh killed six, injured dozens with three reported missing and 5,000 people forced to leave their homes. ](/news/2015/11/9/cyclone-megh-had-sustained-winds-of-204-km-h-127-mph-the-equivalent-of-a-category-3-hurricane-when-it-hit-the-island-of-socotra-accordi.md) _(Current version)_
 
 ### Related:
 
@@ -22,8 +31,3 @@ Cyclone Megh slammed into the Yemeni island of Socotra with winds of 127 mph on 
 3. [At least one person is killed after Cyclone Chapala hits Yemen's Socotra island in the Indian Ocean with flooding reported in Hadibu, the provincial capital. The severe cyclone is expected to cause considerable damage when it makes landfall on Yemeni mainland. ](/news/2015/11/2/at-least-one-person-is-killed-after-cyclone-chapala-hits-yemen-s-socotra-island-in-the-indian-ocean-with-flooding-reported-in-hadibu-the-pr.md) _Context: Socotra_
 4. [Hurricane Patricia, which hit the Mexican coast as a Category 5 storm, appeared to leave remarkably little damage as it moved rapidly inland over mountainous western Mexico and is now a tropical depression (35 mph-55 kph). The storm is currently centered northeast of Zacatecas, Mexico, moving northeast at 24 mph-39 kph. While there are no reports of casualties or substantial widespread damage, authorities warn deadly floods and mudslides remain possible. ](/news/2015/10/24/hurricane-patricia-which-hit-the-mexican-coast-as-a-category-5-storm-appeared-to-leave-remarkably-little-damage-as-it-moved-rapidly-inland.md) _Context: Category 1 hurricane_
 5. [A series of bomb blasts targeting Shia Muslims in the Bangladeshi capital Dhaka kills at least one person and injures dozens more. Claims of responsibility by ISIS are discounted by Dhaka police who told AFP, "So far we have not found any link to any militant group." ](/news/2015/10/24/a-series-of-bomb-blasts-targeting-shia-muslims-in-the-bangladeshi-capital-dhaka-kills-at-least-one-person-and-injures-dozens-more-claims-of.md) _Context: AFP_
-
-### Changes:
-
-1. [Cyclone Megh: Cyclone Megh had sustained winds of 204 km-h (127 mph), the equivalent of a Category 3 hurricane, when it hit the island of Socotra. According to AFP, Megh killed six, injured dozens with three reported missing and 5,000 people forced to leave their homes. ](/news/2015/11/9/cyclone-megh-cyclone-megh-had-sustained-winds-of-204-km-h-127-mph-the-equivalent-of-a-category-3-hurricane-when-it-hit-the-island-of-so.md) _2017-08-27 03:43:45 (First version)_
-1. [Cyclone Megh had sustained winds of 204 km-h (127 mph), the equivalent of a Category 3 hurricane, when it hit the island of Socotra. According to AFP, Megh killed six, injured dozens with three reported missing and 5,000 people forced to leave their homes. ](/news/2015/11/9/cyclone-megh-had-sustained-winds-of-204-km-h-127-mph-the-equivalent-of-a-category-3-hurricane-when-it-hit-the-island-of-socotra-accordi.md) _(Current version)_

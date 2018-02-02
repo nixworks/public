@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/19/the-united-nations-world-food-programme-calls-for-urgent-assistance-for-the-north-korean-people-due-to-a-food-crisis.html)  [JSON](/news/2011/05/19/the-united-nations-world-food-programme-calls-for-urgent-assistance-for-the-north-korean-people-due-to-a-food-crisis.json)  [XML](/news/2011/05/19/the-united-nations-world-food-programme-calls-for-urgent-assistance-for-the-north-korean-people-due-to-a-food-crisis.xml)  
+
 ### [2011-05-19](/news/2011/05/19/index.md)
 
+##### United Nations
 # The United Nations World Food Programme calls for "urgent assistance" for the North Korean people due to a food crisis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1129855/1/.html)
 

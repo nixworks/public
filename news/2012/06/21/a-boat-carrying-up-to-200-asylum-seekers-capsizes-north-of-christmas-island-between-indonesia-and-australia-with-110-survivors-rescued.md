@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/21/a-boat-carrying-up-to-200-asylum-seekers-capsizes-north-of-christmas-island-between-indonesia-and-australia-with-110-survivors-rescued.html)  [JSON](/news/2012/06/21/a-boat-carrying-up-to-200-asylum-seekers-capsizes-north-of-christmas-island-between-indonesia-and-australia-with-110-survivors-rescued.json)  [XML](/news/2012/06/21/a-boat-carrying-up-to-200-asylum-seekers-capsizes-north-of-christmas-island-between-indonesia-and-australia-with-110-survivors-rescued.xml)  
+
 ### [2012-06-21](/news/2012/06/21/index.md)
 
+##### asylum seeker
 # A boat carrying up to 200 asylum seekers capsizes north of Christmas Island, between Indonesia and Australia with 110 survivors rescued. 
 
 Rescue efforts are under way after a boat believed to be carrying about 200 asylum-seekers capsized north of Christmas Island, Australian officials say.
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''Brisbane Times](http://news.brisbanetimes.com.au/breaking-news-national/110-survivors-plucked-from-asylum-boat-20120622-20rgb.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-18530311)

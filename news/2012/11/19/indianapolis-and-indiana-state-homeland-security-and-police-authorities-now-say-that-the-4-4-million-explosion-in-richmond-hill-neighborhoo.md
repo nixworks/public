@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/19/indianapolis-and-indiana-state-homeland-security-and-police-authorities-now-say-that-the-4-4-million-explosion-in-richmond-hill-neighborhoo.html)  [JSON](/news/2012/11/19/indianapolis-and-indiana-state-homeland-security-and-police-authorities-now-say-that-the-4-4-million-explosion-in-richmond-hill-neighborhoo.json)  [XML](/news/2012/11/19/indianapolis-and-indiana-state-homeland-security-and-police-authorities-now-say-that-the-4-4-million-explosion-in-richmond-hill-neighborhoo.xml)  
+
 ### [2012-11-19](/news/2012/11/19/index.md)
 
+##### Indianapolis
 # Indianapolis and Indiana state homeland security and police authorities now say that the $4.4 million explosion in Richmond Hill neighborhood may not be due to gas or a faulty furnace, but may somehow have been an intentional criminal homicide; they are seeking a white van that was seen in that subdivision the day of the blast with a $10,000 reward. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN](http://news.msn.com/us/ind-home-explosion-now-homicide-investigation)
 2. [The Indianapolis Star](http://www.indystar.com/article/20121119/NEWS/121119040/Authorities-call-Richmond-Hill-explosion-homicide-case-seek-details-white-van?odyssey=tab%7Ctopnews%7Ctext%7CIndyStar.com&nclick_check=1)

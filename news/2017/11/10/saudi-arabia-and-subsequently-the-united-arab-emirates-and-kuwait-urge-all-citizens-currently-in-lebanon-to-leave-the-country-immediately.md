@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/10/saudi-arabia-and-subsequently-the-united-arab-e
 
 ### [2017-11-10](/news/2017/11/10/index.md)
 
+##### 2017 Lebanon-Saudi Arabia dispute
 # Saudi Arabia, and subsequently the United Arab Emirates and Kuwait, urge all citizens currently in Lebanon to leave the country immediately. Recently, Saudi Arabia declared that a missile attack on its airport from Yemen was "an act of war" by Lebanon. 
 
 Governments of three Gulf states urge citizens to leave &#39;as soon as possible&#39; and warn against travelling to Lebanon.

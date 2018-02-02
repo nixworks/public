@@ -1,7 +1,7 @@
-## [2003-03-31](/news/2003/03/31/index.md)
 
-### [ In Japan, farm minister Tadamori Oshima resigns.](/news/2003/03/31/in-japan-farm-minister-tadamori-oshima-resigns.md)
-_Context: Tadamori Oshima, farm minister_
+Formats: [HTML](2003/03/31/index.html)  [JSON](2003/03/31/index.json)  [XML](2003/03/31/index.xml)  
+
+## [2003-03-31](/news/2003/03/31/index.md)
 
 ## [Previous Day...](/news/2003/03/30/index.md)
 

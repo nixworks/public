@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/24/france-will-compensate-victims-of-nuclear-testing-in-algeria-and-french-polynesia.html)  [JSON](/news/2009/03/24/france-will-compensate-victims-of-nuclear-testing-in-algeria-and-french-polynesia.json)  [XML](/news/2009/03/24/france-will-compensate-victims-of-nuclear-testing-in-algeria-and-french-polynesia.xml)  
+
 ### [2009-03-24](/news/2009/03/24/index.md)
 
+##### France
 #  France will compensate victims of nuclear testing in Algeria and French Polynesia. 
 
 The French government will compensate victims of past nuclear tests and has earmarked an initial 10 million euros (9 million pounds) to do so, Defence Minister Herve Morin was quoted as saying on Tuesday.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/worldNews/idUKTRE52N0HT20090324)
 1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090324&t=2&i=9391464&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-03-24T020619Z_01_BTRE52N05UL00_RTROPTP_0_FRANCE-DEFENCE-AFGHANISTAN)

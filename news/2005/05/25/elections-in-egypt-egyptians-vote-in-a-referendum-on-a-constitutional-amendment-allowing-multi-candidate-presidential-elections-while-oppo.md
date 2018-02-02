@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2005/05/25/elections-in-egypt-egyptians-vote-in-a-referendum-on-a-constitutional-amendment-allowing-multi-candidate-presidential-elections-while-oppo.html)  [JSON](/news/2005/05/25/elections-in-egypt-egyptians-vote-in-a-referendum-on-a-constitutional-amendment-allowing-multi-candidate-presidential-elections-while-oppo.json)  [XML](/news/2005/05/25/elections-in-egypt-egyptians-vote-in-a-referendum-on-a-constitutional-amendment-allowing-multi-candidate-presidential-elections-while-oppo.xml)  
+
 ### [2005-05-25](/news/2005/05/25/index.md)
 
+##### Elections in Egypt
 #  Elections in Egypt: Egyptians vote in a referendum on a constitutional amendment allowing multi-candidate presidential elections while opposition groups call for a boycott, saying that requirements for candidates are too hard and still favour the ruling National Democratic Party. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/B2D85789-34E0-470B-88C9-55D50DD4DCB6.htm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aFcFnhXNAdnM&refer=top_world_news)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000087&sid=aFcFnhXNAdnM&refer=top_world_news)
 3. [Egypt Election DAily News](http://egyptelection.com/index.php)
 4. [Khaleej Times](http://www.khaleejtimes.com/DisplayArticle.asp?xfile=data/comment/2005/May/comment_May25.xml&section=comment)
-5. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8595926)
-5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+5. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8595926)
+5. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

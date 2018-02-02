@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/18/two-gunmen-kill-three-pakistani-army-soldiers-n
 
 ### [2016-09-18](/news/2016/09/18/index.md)
 
+##### War in North-West Pakistan
 # Two gunmen kill three Pakistani Army soldiers near the city of Peshawar. 
 
 

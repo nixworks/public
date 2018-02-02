@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/3/russia-investigates-smelly-orange-snow-oily-to-touch-which-has-fallen-across-an-area-of-1500-square-kilometres-in-the-omsk-region-of-the.html)  [JSON](/news/2007/02/3/russia-investigates-smelly-orange-snow-oily-to-touch-which-has-fallen-across-an-area-of-1500-square-kilometres-in-the-omsk-region-of-the.json)  [XML](/news/2007/02/3/russia-investigates-smelly-orange-snow-oily-to-touch-which-has-fallen-across-an-area-of-1500-square-kilometres-in-the-omsk-region-of-the.xml)  
+
 ### [2007-02-3](/news/2007/02/3/index.md)
 
+##### orange snow
 #  Russia investigates smelly orange snow, oily to touch, which has fallen across an area of 1500 square kilometres in the Omsk region of the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/6323611.stm)
 

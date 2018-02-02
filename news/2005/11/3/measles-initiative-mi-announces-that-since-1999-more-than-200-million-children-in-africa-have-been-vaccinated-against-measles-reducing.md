@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/3/measles-initiative-mi-announces-that-since-1999-more-than-200-million-children-in-africa-have-been-vaccinated-against-measles-reducing.html)  [JSON](/news/2005/11/3/measles-initiative-mi-announces-that-since-1999-more-than-200-million-children-in-africa-have-been-vaccinated-against-measles-reducing.json)  [XML](/news/2005/11/3/measles-initiative-mi-announces-that-since-1999-more-than-200-million-children-in-africa-have-been-vaccinated-against-measles-reducing.xml)  
+
 ### [2005-11-3](/news/2005/11/3/index.md)
 
+##### Measles Initiative
 #  Measles Initiative (MI) announces that since 1999, more than 200 million children in Africa have been vaccinated against measles, reducing the infection rate by 60 percent and saving 1 million lives. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [allAfrica](http://allafrica.com/stories/200511040164.html)
 

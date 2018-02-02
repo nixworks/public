@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/12/20/u-s-patent-authorities-reject-an-important-apple-inc-patent-concerning-pinch-to-zoom-gestures-on-a-mobile-device-screen.html)  [JSON](/news/2012/12/20/u-s-patent-authorities-reject-an-important-apple-inc-patent-concerning-pinch-to-zoom-gestures-on-a-mobile-device-screen.json)  [XML](/news/2012/12/20/u-s-patent-authorities-reject-an-important-apple-inc-patent-concerning-pinch-to-zoom-gestures-on-a-mobile-device-screen.xml)  
+
 ### [2012-12-20](/news/2012/12/20/index.md)
 
+##### U.S.
 # U.S. patent authorities reject an important Apple Inc. patent concerning pinch-to-zoom gestures on a mobile device screen. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/12/20/us-apple-samsung-patents-idUSBRE8BJ03620121220)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121220&t=2&i=686671850&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8BJ0Y9U00)
+1. [Reuters](https://www.reuters.com/article/2012/12/20/us-apple-samsung-patents-idUSBRE8BJ03620121220)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20121220&t=2&i=686671850&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8BJ0Y9U00)
 
 ### Related:
 

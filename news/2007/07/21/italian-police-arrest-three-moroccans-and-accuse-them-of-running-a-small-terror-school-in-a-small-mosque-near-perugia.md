@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/21/italian-police-arrest-three-moroccans-and-accuse-them-of-running-a-small-terror-school-in-a-small-mosque-near-perugia.html)  [JSON](/news/2007/07/21/italian-police-arrest-three-moroccans-and-accuse-them-of-running-a-small-terror-school-in-a-small-mosque-near-perugia.json)  [XML](/news/2007/07/21/italian-police-arrest-three-moroccans-and-accuse-them-of-running-a-small-terror-school-in-a-small-mosque-near-perugia.xml)  
+
 ### [2007-07-21](/news/2007/07/21/index.md)
 
+##### Italy
 #  Italian police arrest three Moroccans and accuse them of running a small "terror school" in a small mosque near Perugia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ (CNN](http://edition.cnn.com/2007/WORLD/europe/07/21/italy.terrorism.ap/index.html?eref=rss_topstories)
 
@@ -13,6 +17,6 @@
 
 1. [ An Italian jury finds Amanda Knox and Raffaele Sollecito guilty in the case of the 2007 murder of Meredith Kercher in Perugia. Knox is sentenced to 26 years in prison, Sollecito to 25. ](/news/2009/12/4/an-italian-jury-finds-amanda-knox-and-raffaele-sollecito-guilty-in-the-case-of-the-2007-murder-of-meredith-kercher-in-perugia-knox-is-sent.md) _Context: Italy, Perugia_
 2. [ The trial of two accused murderers of Meredith Kercher begins in Perugia, Italy. ](/news/2009/01/16/the-trial-of-two-accused-murderers-of-meredith-kercher-begins-in-perugia-italy.md) _Context: Italy, Perugia_
-3. [Italian fugitive and 'Ndrangheta member Rocco Morabito is arrested in Montevideo, Uruguay, after 23 years on the run. He is now expected to be extradited to Italy in the coming months. ](/news/2017/09/4/italian-fugitive-and-ndrangheta-member-rocco-morabito-is-arrested-in-montevideo-uruguay-after-23-years-on-the-run-he-is-now-expected-to.md) _Context: Italy_
-4. [A magnitude 4.0 earthquake strikes the Italian island of Ischia, leaving one person dead and 25 others injured. Italian media report 10 others are unaccounted for after several buildings collapsed in Casamicciola Terme. ](/news/2017/08/21/a-magnitude-4-0-earthquake-strikes-the-italian-island-of-ischia-leaving-one-person-dead-and-25-others-injured-italian-media-report-10-othe.md) _Context: Italy_
-5. [A five-story apartment block collapses in the town of Torre Annunziata near the Italian city of Naples, with six or seven people trapped inside. So far, three have been found dead. ](/news/2017/07/7/a-five-story-apartment-block-collapses-in-the-town-of-torre-annunziata-near-the-italian-city-of-naples-with-six-or-seven-people-trapped-ins.md) _Context: Italy_
+3. [At least three people are killed and over 100 injured in a train derailment near Milan, Italy. ](/news/2018/01/25/at-least-three-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy.md) _Context: Italy_
+4. [Thousands of Moroccans protest working conditions in Morocco's coal pits. ](/news/2017/12/26/thousands-of-moroccans-protest-working-conditions-in-morocco-s-coal-pits.md) _Context: Morocco_
+5. [An explosion and fire at the Gas Connect Austria pipeline hub in Baumgarten an der March kills one person and injures 21. Service to Hungary, Slovenia, Croatia and Italy is suspended. Italy declares a state of emergency. ](/news/2017/12/12/an-explosion-and-fire-at-the-gas-connect-austria-pipeline-hub-in-baumgarten-an-der-march-kills-one-person-and-injures-21-service-to-hungary.md) _Context: Italy_

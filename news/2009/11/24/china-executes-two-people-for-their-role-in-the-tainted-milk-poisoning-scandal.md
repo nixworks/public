@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/24/china-executes-two-people-for-their-role-in-the-tainted-milk-poisoning-scandal.html)  [JSON](/news/2009/11/24/china-executes-two-people-for-their-role-in-the-tainted-milk-poisoning-scandal.json)  [XML](/news/2009/11/24/china-executes-two-people-for-their-role-in-the-tainted-milk-poisoning-scandal.xml)  
+
 ### [2009-11-24](/news/2009/11/24/index.md)
 
+##### China
 #  China executes two people for their role in the tainted milk poisoning scandal. 
 
 State media says two executed over tainted milk that sickened thousands in 2008.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/11/2009112474935675377.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2009/nov/24/china-executes-milk-scandal-pair)

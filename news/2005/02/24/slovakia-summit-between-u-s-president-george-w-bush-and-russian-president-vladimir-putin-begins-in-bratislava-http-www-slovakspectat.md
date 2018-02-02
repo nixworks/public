@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/02/24/slovakia-summit-between-u-s-president-george-w-bush-and-russian-president-vladimir-putin-begins-in-bratislava-http-www-slovakspectat.html)  [JSON](/news/2005/02/24/slovakia-summit-between-u-s-president-george-w-bush-and-russian-president-vladimir-putin-begins-in-bratislava-http-www-slovakspectat.json)  [XML](/news/2005/02/24/slovakia-summit-between-u-s-president-george-w-bush-and-russian-president-vladimir-putin-begins-in-bratislava-http-www-slovakspectat.xml)  
+
 ### [2005-02-24](/news/2005/02/24/index.md)
 
+##### Slovakia Summit
 #  Slovakia Summit between U.S. President George W. Bush and Russian President Vladimir Putin begins in Bratislava. ([http:--www.slovakspectator.sk-rubrika-2005007-spect_special.html Slovak Spectator])
 
 

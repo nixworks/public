@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/15/israel-shuts-down-gaza-border-crossings-after-qassam-rockets-are-launched-toward-israel-in-breach-of-an-armistice.html)  [JSON](/news/2008/11/15/israel-shuts-down-gaza-border-crossings-after-qassam-rockets-are-launched-toward-israel-in-breach-of-an-armistice.json)  [XML](/news/2008/11/15/israel-shuts-down-gaza-border-crossings-after-qassam-rockets-are-launched-toward-israel-in-breach-of-an-armistice.xml)  
+
 ### [2008-11-15](/news/2008/11/15/index.md)
 
+##### Israel
 #  Israel shuts down Gaza border crossings after Qassam rockets are launched toward Israel in breach of an armistice. 
 
 The Gaza Strip is in danger of running out of food and fuel after Israel locked down a vital border crossing over the past two days.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/stories/2008/11/15/2420739.htm?section=world)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

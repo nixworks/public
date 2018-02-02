@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/29/the-cleveland-board-of-control-approves-changes
 
 ### [2016-06-29](/news/2016/06/29/index.md)
 
+##### 2016 United States presidential election
 # The Cleveland Board of Control approves changes to convention security rules negotiated with the ACLU, per Federal District Judge James Gwin's June 23rd court order. 
 
 City officials also extended the official &quot;parade&quot; route for demonstrators who want to legally march in the streets from one mile to about 1.25 miles. The new route includes a longer time marching near Progressive Field, one of the main convention venues, and now ends in a less-isolated area of downtown Cleveland.

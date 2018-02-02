@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/22/journalist-anatoly-bitkov-the-chief-editor-of-the-kolyma-plus-tv-channel-is-found-dead-in-his-apartment-in-the-town-of-magadan-in-the-russ.html)  [JSON](/news/2011/06/22/journalist-anatoly-bitkov-the-chief-editor-of-the-kolyma-plus-tv-channel-is-found-dead-in-his-apartment-in-the-town-of-magadan-in-the-russ.json)  [XML](/news/2011/06/22/journalist-anatoly-bitkov-the-chief-editor-of-the-kolyma-plus-tv-channel-is-found-dead-in-his-apartment-in-the-town-of-magadan-in-the-russ.xml)  
+
 ### [2011-06-22](/news/2011/06/22/index.md)
 
+##### Magadan
 # Journalist Anatoly Bitkov, the chief editor of the Kolyma Plus TV channel, is found dead in his apartment in the town of Magadan in the Russian Far East. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/society/20110622/164757235.html)
 

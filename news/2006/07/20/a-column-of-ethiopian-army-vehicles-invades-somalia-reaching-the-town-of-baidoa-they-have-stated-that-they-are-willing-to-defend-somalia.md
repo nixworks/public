@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/20/a-column-of-ethiopian-army-vehicles-invades-somalia-reaching-the-town-of-baidoa-they-have-stated-that-they-are-willing-to-defend-somalia.html)  [JSON](/news/2006/07/20/a-column-of-ethiopian-army-vehicles-invades-somalia-reaching-the-town-of-baidoa-they-have-stated-that-they-are-willing-to-defend-somalia.json)  [XML](/news/2006/07/20/a-column-of-ethiopian-army-vehicles-invades-somalia-reaching-the-town-of-baidoa-they-have-stated-that-they-are-willing-to-defend-somalia.xml)  
+
 ### [2006-07-20](/news/2006/07/20/index.md)
 
+##### Ethiopia
 #  A column of Ethiopian Army vehicles invades Somalia, reaching the town of Baidoa. They have stated that they are willing to defend Somalia's Transitional Federal Parliament from the Islamic Courts Union. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/5198338.stm)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/03/4/in-a-military-court-captain-richard-ashby-of-the-united-states-marines-is-acquitted-of-the-charge-of-reckless-flying-which-resulted-in-the.html)  [JSON](/news/1999/03/4/in-a-military-court-captain-richard-ashby-of-the-united-states-marines-is-acquitted-of-the-charge-of-reckless-flying-which-resulted-in-the.json)  [XML](/news/1999/03/4/in-a-military-court-captain-richard-ashby-of-the-united-states-marines-is-acquitted-of-the-charge-of-reckless-flying-which-resulted-in-the.xml)  
+
 ### [1999-03-4](/news/1999/03/4/index.md)
 
+##### United States Marines
 #  In a military court, Captain Richard Ashby of the United States Marines is acquitted of the charge of reckless flying which resulted in the deaths of twenty skiers in the Italian Alps when his low-flying jet hit a gondola lift cable.
 
 

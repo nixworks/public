@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/31/2-people-are-killed-and-29-000-are-evacuated-following-floods-in-johor-southern-malaysia.html)  [JSON](/news/2011/01/31/2-people-are-killed-and-29-000-are-evacuated-following-floods-in-johor-southern-malaysia.json)  [XML](/news/2011/01/31/2-people-are-killed-and-29-000-are-evacuated-following-floods-in-johor-southern-malaysia.xml)  
+
 ### [2011-01-31](/news/2011/01/31/index.md)
 
+##### Johor
 # 2 people are killed and 29,000 are evacuated following floods in Johor, southern Malaysia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_630291.html)
 

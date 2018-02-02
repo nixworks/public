@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/28/the-attorney-general-of-israel-avichai-mandelbl
 
 ### [2016-12-28](/news/2016/12/28/index.md)
 
+##### Attorney General of Israel
 # The Attorney General of Israel Avichai Mandelblit orders a criminal investigation of Israeli Prime Minister Benjamin Netanyahu for alleged corruption in two different cases. 
 
 Attorney general orders investigation into two unspecified matters involving prime minister, Israeli television station says

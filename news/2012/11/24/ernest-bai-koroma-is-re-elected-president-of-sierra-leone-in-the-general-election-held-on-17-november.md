@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/24/ernest-bai-koroma-is-re-elected-president-of-sierra-leone-in-the-general-election-held-on-17-november.html)  [JSON](/news/2012/11/24/ernest-bai-koroma-is-re-elected-president-of-sierra-leone-in-the-general-election-held-on-17-november.json)  [XML](/news/2012/11/24/ernest-bai-koroma-is-re-elected-president-of-sierra-leone-in-the-general-election-held-on-17-november.xml)  
+
 ### [2012-11-24](/news/2012/11/24/index.md)
 
+##### Ernest Bai Koroma
 # Ernest Bai Koroma is re-elected President of Sierra Leone in the general election, held on 17 November. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5icJi2877VmRajmIfzJtBmb7lQjIA)
 2. [The Guardian](http://www.guardian.co.uk/world/2012/nov/24/sierra-leone-ernest-bai-koroma-president)

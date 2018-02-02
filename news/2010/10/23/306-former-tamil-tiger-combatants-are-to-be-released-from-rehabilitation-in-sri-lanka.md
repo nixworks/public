@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/23/306-former-tamil-tiger-combatants-are-to-be-released-from-rehabilitation-in-sri-lanka.html)  [JSON](/news/2010/10/23/306-former-tamil-tiger-combatants-are-to-be-released-from-rehabilitation-in-sri-lanka.json)  [XML](/news/2010/10/23/306-former-tamil-tiger-combatants-are-to-be-released-from-rehabilitation-in-sri-lanka.xml)  
+
 ### [2010-10-23](/news/2010/10/23/index.md)
 
+##### LTTE
 # 306 former Tamil Tiger combatants are to be released from rehabilitation in Sri Lanka. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/23/c_13571621.htm)
 

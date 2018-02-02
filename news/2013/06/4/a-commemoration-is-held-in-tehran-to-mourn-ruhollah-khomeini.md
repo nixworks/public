@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/4/a-commemoration-is-held-in-tehran-to-mourn-ruhollah-khomeini.html)  [JSON](/news/2013/06/4/a-commemoration-is-held-in-tehran-to-mourn-ruhollah-khomeini.json)  [XML](/news/2013/06/4/a-commemoration-is-held-in-tehran-to-mourn-ruhollah-khomeini.xml)  
+
 ### [2013-06-4](/news/2013/06/4/index.md)
 
+##### Tehran
 # A commemoration is held in Tehran to mourn Ruhollah Khomeini. 
 
 TEHRAN: Iran’s Supreme Leader Ayatollah Ali Khamenei yesterday called on all Iranians to take part in next week’s election to create a “political epic” and confound what he called Western efforts to “manipulate” the presidential race.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/06/20136482957285163.html)
 2. [Arab News](http://www.arabnews.com/news/454033)

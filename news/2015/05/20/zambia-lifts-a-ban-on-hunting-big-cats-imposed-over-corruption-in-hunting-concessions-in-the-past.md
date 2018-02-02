@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/20/zambia-lifts-a-ban-on-hunting-big-cats-imposed-over-corruption-in-hunting-concessions-in-the-past.html)  [JSON](/news/2015/05/20/zambia-lifts-a-ban-on-hunting-big-cats-imposed-over-corruption-in-hunting-concessions-in-the-past.json)  [XML](/news/2015/05/20/zambia-lifts-a-ban-on-hunting-big-cats-imposed-over-corruption-in-hunting-concessions-in-the-past.xml)  
+
 ### [2015-05-20](/news/2015/05/20/index.md)
 
+##### Zambia
 # Zambia lifts a ban on hunting big cats imposed over corruption in hunting concessions in the past. 
 
 Zambia has lifted a ban on the hunting of big cats that was imposed over allegations of corruption in the awarding of government hunting concessions, officials said Wednesday.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Yahoo News](https://uk.news.yahoo.com/zambia-lifts-ban-hunting-big-cats-112736122.html#Iwc9moU)
 1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/I80gl44PzAQtVLdc783tWw--/aD01MTQ7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_GB/News/AFP/f75acd66d6ba1a10c9ef0ae4165ff3d9de6542dd.jpg)

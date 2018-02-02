@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/11/malaysia-has-announced-a-state-of-emergency-in-two-towns-after-air-pollution-reached-dangerous-levels-the-pollution-is-blamed-on-fires-lit.html)  [JSON](/news/2005/08/11/malaysia-has-announced-a-state-of-emergency-in-two-towns-after-air-pollution-reached-dangerous-levels-the-pollution-is-blamed-on-fires-lit.json)  [XML](/news/2005/08/11/malaysia-has-announced-a-state-of-emergency-in-two-towns-after-air-pollution-reached-dangerous-levels-the-pollution-is-blamed-on-fires-lit.xml)  
+
 ### [2005-08-11](/news/2005/08/11/index.md)
 
+##### Malaysia
 #  Malaysia has announced a state of emergency in two towns after air pollution reached dangerous levels. The pollution is blamed on fires lit to clear land in neighbouring Indonesia, seriously affecting air quality and visibility across the Strait of Malacca. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4140660.stm)
 

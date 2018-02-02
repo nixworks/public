@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2011/11/16/two-bullets-are-found-to-have-been-fired-at-the-white-house-in-washington-dc-one-into-a-window-that-was-stopped-by-bullet-proof-glass.html)  [JSON](/news/2011/11/16/two-bullets-are-found-to-have-been-fired-at-the-white-house-in-washington-dc-one-into-a-window-that-was-stopped-by-bullet-proof-glass.json)  [XML](/news/2011/11/16/two-bullets-are-found-to-have-been-fired-at-the-white-house-in-washington-dc-one-into-a-window-that-was-stopped-by-bullet-proof-glass.xml)  
+
 ### [2011-11-16](/news/2011/11/16/index.md)
 
+##### White House
 # Two bullets are found to have been fired at the White House in Washington, DC., one into a window that was stopped by bullet-proof glass. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/11/16/justice/dc-white-house-bullet/index.html)
 
 ### Related:
 
-1. [Anti-Iraq War demonstrators are arrested outside the White House in Washington DC including Daniel Ellsberg, the man who leaked the Pentagon Papers. ](/news/2011/03/19/anti-iraq-war-demonstrators-are-arrested-outside-the-white-house-in-washington-dc-including-daniel-ellsberg-the-man-who-leaked-the-pentagon.md) _Context: Washington DC, White House_
-2. [Kurt Volker, U.S. special representative for Ukraine, says in a BBC News interview that the White House is considering arming Ukrainian government forces fighting Pro-Russian militants with defensive weapons. ](/news/2017/07/25/kurt-volker-u-s-special-representative-for-ukraine-says-in-a-bbc-news-interview-that-the-white-house-is-considering-arming-ukrainian-gove.md) _Context: White House_
-3. [The White House releases unredacted emails of people concerned about the Presidential Advisory Commission on Election Integrity. Sensitive information revealed in the emails prompts immediate backlash and privacy concerns. ](/news/2017/07/14/the-white-house-releases-unredacted-emails-of-people-concerned-about-the-presidential-advisory-commission-on-election-integrity-sensitive-i.md) _Context: White House_
-4. [The White House releases a proposed budget that includes an increase in spending for the military but a decrease in healthcare and welfare. ](/news/2017/05/23/the-white-house-releases-a-proposed-budget-that-includes-an-increase-in-spending-for-the-military-but-a-decrease-in-healthcare-and-welfare.md) _Context: White House_
-5. [President Donald Trump's pick for the U.S. Supreme Court, Neil Gorsuch, is sworn in at the White House. ](/news/2017/04/10/president-donald-trump-s-pick-for-the-u-s-supreme-court-neil-gorsuch-is-sworn-in-at-the-white-house.md) _Context: White House_
+1. [An Amtrak train carrying Republican lawmakers to a retreat in West Virginia collides with a garbage truck in Crozet, Virginia. At least one person dies and one person is seriously injured. The White House states that there are no serious injuries among members of Congress or their staff. ](/news/2018/01/31/an-amtrak-train-carrying-republican-lawmakers-to-a-retreat-in-west-virginia-collides-with-a-garbage-truck-in-crozet-virginia-at-least-one.md) _Context: White House_
+2. [The White House announces that Deputy National Security Advisor Dina Powell will leave the Trump administration early 2018. ](/news/2017/12/8/the-white-house-announces-that-deputy-national-security-advisor-dina-powell-will-leave-the-trump-administration-early-2018.md) _Context: White House_
+3. [Days ahead of the Global Entrepreneurship Summit in India, scheduled to be attended by Ivanka Trump per Prime Minister Narendra Modi's June invitation, reports indicate the United States Department of State, led by Secretary of State Rex Tillerson, will not be sending a high-level delegation to support her amid reports of tensions between Tillerson and the White House. ](/news/2017/11/24/days-ahead-of-the-global-entrepreneurship-summit-in-india-scheduled-to-be-attended-by-ivanka-trump-per-prime-minister-narendra-modi-s-june.md) _Context: White House_
+4. [Kurt Volker, U.S. special representative for Ukraine, says in a BBC News interview that the White House is considering arming Ukrainian government forces fighting Pro-Russian militants with defensive weapons. ](/news/2017/07/25/kurt-volker-u-s-special-representative-for-ukraine-says-in-a-bbc-news-interview-that-the-white-house-is-considering-arming-ukrainian-gove.md) _Context: White House_
+5. [The White House releases unredacted emails of people concerned about the Presidential Advisory Commission on Election Integrity. Sensitive information revealed in the emails prompts immediate backlash and privacy concerns. ](/news/2017/07/14/the-white-house-releases-unredacted-emails-of-people-concerned-about-the-presidential-advisory-commission-on-election-integrity-sensitive-i.md) _Context: White House_

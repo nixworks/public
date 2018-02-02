@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/13/a-zimbabwe-court-frees-human-rights-activist-farai-maguwu-on-bail-after-five-weeks-in-detention-accused-of-providing-false-information-abou.html)  [JSON](/news/2010/07/13/a-zimbabwe-court-frees-human-rights-activist-farai-maguwu-on-bail-after-five-weeks-in-detention-accused-of-providing-false-information-abou.json)  [XML](/news/2010/07/13/a-zimbabwe-court-frees-human-rights-activist-farai-maguwu-on-bail-after-five-weeks-in-detention-accused-of-providing-false-information-abou.xml)  
+
 ### [2010-07-13](/news/2010/07/13/index.md)
 
+##### Zimbabwe
 # A Zimbabwe court frees human rights activist Farai Maguwu on bail after five weeks in detention, accused of providing false information about the diamond trade, charges he denies. 
 
 A Zimbabwe courts frees on bail a human rights activist accused of giving false information about the diamond trade.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10610976.stm)
 2. [IOL](http://www.iol.co.za/index.php?from=rss_Southern&set_id=1&click_id=84&art_id=nw20100712221931440C720338)
@@ -17,7 +21,7 @@ A Zimbabwe courts frees on bail a human rights activist accused of giving false 
 ### Related:
 
 1. [ In Zimbabwe, two British journalists, "Sunday Telegraph" correspondent Toby Harnden and photographer Julian Simmonds, are acquitted. They were accused of covering the last month's parliamentary elections without permission. They were charged with overstaying their visas and denied bail. ](/news/2005/04/14/in-zimbabwe-two-british-journalists-sunday-telegraph-correspondent-toby-harnden-and-photographer-julian-simmonds-are-acquitted-they-w.md) _Context: Zimbabwe, bail_
-2. [Zimbabwe president Robert Mugabe fires prosecutor Johannes Tomana. ](/news/2017/06/10/zimbabwe-president-robert-mugabe-fires-prosecutor-johannes-tomana.md) _Context: Zimbabwe_
-3. [Since December, flooding in Zimbabwe has killed 246 people and nearly 2,000 more have been left homeless, according to officials. ](/news/2017/03/3/since-december-flooding-in-zimbabwe-has-killed-246-people-and-nearly-2-000-more-have-been-left-homeless-according-to-officials.md) _Context: Zimbabwe_
-4. [A Zimbabwe high court judge drops charges against Theo Bronkhorst, the professional hunter who led the expedition that resulted in the death of the lion named Cecil, because the prosecutor's filing was not properly constituted, and was "too vague to enable (the defendant) to mount a proper defense." ](/news/2016/11/12/a-zimbabwe-high-court-judge-drops-charges-against-theo-bronkhorst-the-professional-hunter-who-led-the-expedition-that-resulted-in-the-death.md) _Context: Zimbabwe_
-5. [The High Court of Zimbabwe overturns bans on protests in Harare. ](/news/2016/09/8/the-high-court-of-zimbabwe-overturns-bans-on-protests-in-harare.md) _Context: Zimbabwe_
+2. [The U.S. state of Alaska eliminates the posting of bail in criminal cases, replacing it with a points-based system, rating the defendant on their previous criminal history, their danger to the public, and their probability of showing up to court hearings. ](/news/2018/01/1/the-u-s-state-of-alaska-eliminates-the-posting-of-bail-in-criminal-cases-replacing-it-with-a-points-based-system-rating-the-defendant-on.md) _Context: bail_
+3. [Emmerson Mnangagwa is fired as Vice President by Zimbabwe President Robert Mugabe. The public and the media widely perceives Mugabe's wife Grace as his likely successor after his death with Mnangagwa having been seen as her rival. ](/news/2017/11/6/emmerson-mnangagwa-is-fired-as-vice-president-by-zimbabwe-president-robert-mugabe-the-public-and-the-media-widely-perceives-mugabe-s-wife-g.md) _Context: Zimbabwe_
+4. [Zimbabwe accuses American citizen Martha O'Donovan of trying to overthrow the regime of Robert Mugabe. ](/news/2017/11/3/zimbabwe-accuses-american-citizen-martha-o-donovan-of-trying-to-overthrow-the-regime-of-robert-mugabe.md) _Context: Zimbabwe_
+5. [Zimbabwe president Robert Mugabe fires prosecutor Johannes Tomana. ](/news/2017/06/10/zimbabwe-president-robert-mugabe-fires-prosecutor-johannes-tomana.md) _Context: Zimbabwe_

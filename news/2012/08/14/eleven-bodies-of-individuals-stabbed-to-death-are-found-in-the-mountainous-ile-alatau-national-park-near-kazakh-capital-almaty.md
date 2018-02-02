@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/14/eleven-bodies-of-individuals-stabbed-to-death-are-found-in-the-mountainous-ile-alatau-national-park-near-kazakh-capital-almaty.html)  [JSON](/news/2012/08/14/eleven-bodies-of-individuals-stabbed-to-death-are-found-in-the-mountainous-ile-alatau-national-park-near-kazakh-capital-almaty.json)  [XML](/news/2012/08/14/eleven-bodies-of-individuals-stabbed-to-death-are-found-in-the-mountainous-ile-alatau-national-park-near-kazakh-capital-almaty.xml)  
+
 ### [2012-08-14](/news/2012/08/14/index.md)
 
+##### Almaty
 # Eleven bodies of individuals stabbed to death are found in the mountainous Ile Alatau national park, near Kazakh capital Almaty. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19260001)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62271000/jpg/_62271751_snapshot20120814181609(1).jpg)

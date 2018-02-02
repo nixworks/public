@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/20/the-houston-chronicle-reports-that-bill-sikora-who-advised-nasa-in-1989-on-how-to-evade-freedom-of-information-act-requests-is-now-work.html)  [JSON](/news/2003/06/20/the-houston-chronicle-reports-that-bill-sikora-who-advised-nasa-in-1989-on-how-to-evade-freedom-of-information-act-requests-is-now-work.json)  [XML](/news/2003/06/20/the-houston-chronicle-reports-that-bill-sikora-who-advised-nasa-in-1989-on-how-to-evade-freedom-of-information-act-requests-is-now-work.xml)  
+
 ### [2003-06-20](/news/2003/06/20/index.md)
 
+##### Houston Chronicle
 #  The "Houston Chronicle" reports that Bill Sikora, who advised NASA in 1989 on how to evade Freedom of Information Act requests, is now working as legal counsel on the agency's Space Shuttle Columbia disaster investigation board.
 
 

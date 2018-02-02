@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/20/forty-seven-people-are-injured-when-a-northwest-airlines-flight-from-the-philippines-to-japan-experiences-severe-turbulence.html)  [JSON](/news/2009/02/20/forty-seven-people-are-injured-when-a-northwest-airlines-flight-from-the-philippines-to-japan-experiences-severe-turbulence.json)  [XML](/news/2009/02/20/forty-seven-people-are-injured-when-a-northwest-airlines-flight-from-the-philippines-to-japan-experiences-severe-turbulence.xml)  
+
 ### [2009-02-20](/news/2009/02/20/index.md)
 
+##### Northwest Airlines
 #  Forty-seven people are injured when a Northwest Airlines flight from the Philippines to Japan experiences severe turbulence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7900892.stm)
 

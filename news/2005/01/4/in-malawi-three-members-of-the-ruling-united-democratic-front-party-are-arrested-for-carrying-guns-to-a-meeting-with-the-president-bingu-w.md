@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/4/in-malawi-three-members-of-the-ruling-united-democratic-front-party-are-arrested-for-carrying-guns-to-a-meeting-with-the-president-bingu-w.html)  [JSON](/news/2005/01/4/in-malawi-three-members-of-the-ruling-united-democratic-front-party-are-arrested-for-carrying-guns-to-a-meeting-with-the-president-bingu-w.json)  [XML](/news/2005/01/4/in-malawi-three-members-of-the-ruling-united-democratic-front-party-are-arrested-for-carrying-guns-to-a-meeting-with-the-president-bingu-w.xml)  
+
 ### [2005-01-4](/news/2005/01/4/index.md)
 
+##### Malawi
 #  In Malawi, three members of the ruling United Democratic Front party are arrested for carrying guns to a meeting with the president Bingu wa Mutharika. They are later released on bail. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4144961.stm)
 2. [Nation Onliune, Malawi](http://www.nationmalawi.com/articles.asp?articleID=9702)

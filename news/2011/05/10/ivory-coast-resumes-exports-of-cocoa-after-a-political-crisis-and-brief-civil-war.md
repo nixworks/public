@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/10/ivory-coast-resumes-exports-of-cocoa-after-a-political-crisis-and-brief-civil-war.html)  [JSON](/news/2011/05/10/ivory-coast-resumes-exports-of-cocoa-after-a-political-crisis-and-brief-civil-war.json)  [XML](/news/2011/05/10/ivory-coast-resumes-exports-of-cocoa-after-a-political-crisis-and-brief-civil-war.xml)  
+
 ### [2011-05-10](/news/2011/05/10/index.md)
 
+##### Ivory Coast
 # Ivory Coast resumes exports of cocoa after a political crisis and brief civil war. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jTNiOxPJcoJpanMWJY37pQmisUjw?docId=CNG.6d7bb2996840a8c2ee9d42fbe908fbd6.a91)
 

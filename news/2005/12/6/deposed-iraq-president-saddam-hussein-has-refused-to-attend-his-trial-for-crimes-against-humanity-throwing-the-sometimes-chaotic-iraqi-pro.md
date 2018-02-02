@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/6/deposed-iraq-president-saddam-hussein-has-refused-to-attend-his-trial-for-crimes-against-humanity-throwing-the-sometimes-chaotic-iraqi-pro.html)  [JSON](/news/2005/12/6/deposed-iraq-president-saddam-hussein-has-refused-to-attend-his-trial-for-crimes-against-humanity-throwing-the-sometimes-chaotic-iraqi-pro.json)  [XML](/news/2005/12/6/deposed-iraq-president-saddam-hussein-has-refused-to-attend-his-trial-for-crimes-against-humanity-throwing-the-sometimes-chaotic-iraqi-pro.xml)  
+
 ### [2005-12-6](/news/2005/12/6/index.md)
 
+##### deposed
 #  Deposed Iraq president Saddam Hussein has refused to attend his trial for crimes against humanity, throwing the sometimes chaotic Iraqi proceedings into further confusion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/newsitems/200512/s1526181.htm)
 

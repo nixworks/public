@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/2/at-least-two-people-are-dead-and-ten-injured-following-the-explosion-of-a-car-bomb-in-a-commercial-area-of-the-pakistani-town-of-peshawar.html)  [JSON](/news/2011/02/2/at-least-two-people-are-dead-and-ten-injured-following-the-explosion-of-a-car-bomb-in-a-commercial-area-of-the-pakistani-town-of-peshawar.json)  [XML](/news/2011/02/2/at-least-two-people-are-dead-and-ten-injured-following-the-explosion-of-a-car-bomb-in-a-commercial-area-of-the-pakistani-town-of-peshawar.xml)  
+
 ### [2011-02-2](/news/2011/02/2/index.md)
 
+##### car bomb
 # At least two people are dead and ten injured following the explosion of a car bomb in a commercial area of the Pakistani town of Peshawar. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Atlanta Journal Constitution](http://www.ajc.com/news/nation-world/bomb-kills-2-wounds-824355.html)
 2. [Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=206326)

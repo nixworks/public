@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/12/the-uk-government-s-back-to-work-programme-suffers-a-setback-when-judges-at-the-court-of-appeal-of-england-and-wales-rule-in-favour-of-a-uni.html)  [JSON](/news/2013/02/12/the-uk-government-s-back-to-work-programme-suffers-a-setback-when-judges-at-the-court-of-appeal-of-england-and-wales-rule-in-favour-of-a-uni.json)  [XML](/news/2013/02/12/the-uk-government-s-back-to-work-programme-suffers-a-setback-when-judges-at-the-court-of-appeal-of-england-and-wales-rule-in-favour-of-a-uni.xml)  
+
 ### [2013-02-12](/news/2013/02/12/index.md)
 
+##### 10 Downing Street
 # The UK government's back-to-work programme suffers a setback when judges at the Court of Appeal of England and Wales rule in favour of a university graduate's claim that unpaid schemes are legally flawed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-21426928)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65846000/jpg/_65846038_6s5ss833.jpg)

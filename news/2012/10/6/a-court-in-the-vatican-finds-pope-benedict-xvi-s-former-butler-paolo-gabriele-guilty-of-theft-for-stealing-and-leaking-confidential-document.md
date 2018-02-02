@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/6/a-court-in-the-vatican-finds-pope-benedict-xvi-s-former-butler-paolo-gabriele-guilty-of-theft-for-stealing-and-leaking-confidential-document.html)  [JSON](/news/2012/10/6/a-court-in-the-vatican-finds-pope-benedict-xvi-s-former-butler-paolo-gabriele-guilty-of-theft-for-stealing-and-leaking-confidential-document.json)  [XML](/news/2012/10/6/a-court-in-the-vatican-finds-pope-benedict-xvi-s-former-butler-paolo-gabriele-guilty-of-theft-for-stealing-and-leaking-confidential-document.xml)  
+
 ### [2012-10-6](/news/2012/10/6/index.md)
 
+##### Vatican City
 # A court in the Vatican finds Pope Benedict XVI's former butler Paolo Gabriele guilty of theft for stealing and leaking confidential documents and sentences Gabriele to 18 months' imprisonment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19850385)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63339000/jpg/_63339019_mjvmfkn8.jpg)

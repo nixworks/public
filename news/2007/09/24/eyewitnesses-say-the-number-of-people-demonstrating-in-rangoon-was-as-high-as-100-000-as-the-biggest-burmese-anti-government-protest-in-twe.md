@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/24/eyewitnesses-say-the-number-of-people-demonstrating-in-rangoon-was-as-high-as-100-000-as-the-biggest-burmese-anti-government-protest-in-twe.html)  [JSON](/news/2007/09/24/eyewitnesses-say-the-number-of-people-demonstrating-in-rangoon-was-as-high-as-100-000-as-the-biggest-burmese-anti-government-protest-in-twe.json)  [XML](/news/2007/09/24/eyewitnesses-say-the-number-of-people-demonstrating-in-rangoon-was-as-high-as-100-000-as-the-biggest-burmese-anti-government-protest-in-twe.xml)  
+
 ### [2007-09-24](/news/2007/09/24/index.md)
 
+##### Rangoon
 #  Eyewitnesses say the number of people demonstrating in Rangoon was as high as 100,000 as the biggest Burmese anti-government protest in twenty years continues. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7009825.stm)
 

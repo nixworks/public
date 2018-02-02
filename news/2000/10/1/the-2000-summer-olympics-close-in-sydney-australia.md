@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/10/1/the-2000-summer-olympics-close-in-sydney-australia.html)  [JSON](/news/2000/10/1/the-2000-summer-olympics-close-in-sydney-australia.json)  [XML](/news/2000/10/1/the-2000-summer-olympics-close-in-sydney-australia.xml)  
+
 ### [2000-10-1](/news/2000/10/1/index.md)
 
+##### 2000 Olympics
 #  The 2000 Summer Olympics close in Sydney, Australia.
 
 

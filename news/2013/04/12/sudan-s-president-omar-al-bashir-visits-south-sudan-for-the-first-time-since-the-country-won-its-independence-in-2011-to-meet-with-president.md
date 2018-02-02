@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/12/sudan-s-president-omar-al-bashir-visits-south-sudan-for-the-first-time-since-the-country-won-its-independence-in-2011-to-meet-with-president.html)  [JSON](/news/2013/04/12/sudan-s-president-omar-al-bashir-visits-south-sudan-for-the-first-time-since-the-country-won-its-independence-in-2011-to-meet-with-president.json)  [XML](/news/2013/04/12/sudan-s-president-omar-al-bashir-visits-south-sudan-for-the-first-time-since-the-country-won-its-independence-in-2011-to-meet-with-president.xml)  
+
 ### [2013-04-12](/news/2013/04/12/index.md)
 
+##### Sudan
 # Sudan's President Omar al-Bashir visits South Sudan for the first time since the country won its independence in 2011 to meet with President Salva Kiir. 
 
 JUBA, Apr 12 - Sudan&#039;s President Omar al-Bashir will visit South Sudan Friday for the first time since the country won its independence in 2011, a sign of - Kenya breaking news | Kenya news today | Capitalfm.co.ke
 
 
-### Source:
+### Sources:
 
 1. [AFP via Capital FM Kenya](http://www.capitalfm.co.ke/news/2013/04/bashir-heads-to-south-sudan-as-tensions-ease/)
 1. [Cover Image](http://www.capitalfm.co.ke/news/files/2013/04/BASHIR-SALUTE.jpg)

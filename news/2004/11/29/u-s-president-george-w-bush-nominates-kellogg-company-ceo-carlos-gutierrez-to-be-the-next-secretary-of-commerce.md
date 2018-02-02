@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/11/29/u-s-president-george-w-bush-nominates-kellogg-company-ceo-carlos-gutierrez-to-be-the-next-secretary-of-commerce.html)  [JSON](/news/2004/11/29/u-s-president-george-w-bush-nominates-kellogg-company-ceo-carlos-gutierrez-to-be-the-next-secretary-of-commerce.json)  [XML](/news/2004/11/29/u-s-president-george-w-bush-nominates-kellogg-company-ceo-carlos-gutierrez-to-be-the-next-secretary-of-commerce.xml)  
+
 ### [2004-11-29](/news/2004/11/29/index.md)
 
+##### U.S. President
 #  U.S. President George W. Bush nominates Kellogg Company CEO Carlos Gutierrez to be the next Secretary of Commerce. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/news/washington/2004-11-29-commerce_x.htm?POE=NEWISVA)
+1. [USA Today](https://www.usatoday.com/news/washington/2004-11-29-commerce_x.htm?POE=NEWISVA)
 
 ### Related:
 

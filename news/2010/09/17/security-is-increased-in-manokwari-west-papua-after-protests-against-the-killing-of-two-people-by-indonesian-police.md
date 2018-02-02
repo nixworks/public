@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/17/security-is-increased-in-manokwari-west-papua-after-protests-against-the-killing-of-two-people-by-indonesian-police.html)  [JSON](/news/2010/09/17/security-is-increased-in-manokwari-west-papua-after-protests-against-the-killing-of-two-people-by-indonesian-police.json)  [XML](/news/2010/09/17/security-is-increased-in-manokwari-west-papua-after-protests-against-the-killing-of-two-people-by-indonesian-police.xml)  
+
 ### [2010-09-17](/news/2010/09/17/index.md)
 
+##### Manokwari
 # Security is increased in Manokwari, West Papua, after protests against the killing of two people by Indonesian police. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11341819?utm)
 2. [Jakarta Globe](http://www.thejakartaglobe.com/home/soldiers-patrol-papua-town-after-deadly-police-shooting/396562)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/22/an-11-judge-panel-of-the-u-s-ninth-circuit-court-of-appeals-overturns-the-2011-conviction-of-all-time-major-league-baseball-home-run-leade.html)  [JSON](/news/2015/04/22/an-11-judge-panel-of-the-u-s-ninth-circuit-court-of-appeals-overturns-the-2011-conviction-of-all-time-major-league-baseball-home-run-leade.json)  [XML](/news/2015/04/22/an-11-judge-panel-of-the-u-s-ninth-circuit-court-of-appeals-overturns-the-2011-conviction-of-all-time-major-league-baseball-home-run-leade.xml)  
+
 ### [2015-04-22](/news/2015/04/22/index.md)
 
+##### United States Court of Appeals for the Ninth Circuit
 #  An 11-judge panel of the U.S. Ninth Circuit Court of Appeals overturns the 2011 conviction of all-time Major League Baseball home run leader Barry Bonds on obstruction of justice charges stemming from the BALCO doping scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ESPN](http://espn.go.com/mlb/story/_/id/12743113/barry-bonds-obstruction-conviction-thrown-appeals-court)
 1. [Cover Image](http://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F0422%2Fmlb_g_bbonds33_cr_b_1296x729.jpg)

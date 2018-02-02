@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/15/muqtada-al-sadr-withdraws-his-support-for-iraqi-prime-minister-nouri-al-maliki.html)  [JSON](/news/2006/12/15/muqtada-al-sadr-withdraws-his-support-for-iraqi-prime-minister-nouri-al-maliki.json)  [XML](/news/2006/12/15/muqtada-al-sadr-withdraws-his-support-for-iraqi-prime-minister-nouri-al-maliki.xml)  
+
 ### [2006-12-15](/news/2006/12/15/index.md)
 
+##### Muqtada al-Sadr
 #  Muqtada al-Sadr withdraws his support for Iraqi Prime Minister Nouri al-Maliki. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RFE/RL](http://www.rferl.org/featuresarticle/2006/12/9014EA32-B946-49CE-AB26-73618F7749AE.html)
 

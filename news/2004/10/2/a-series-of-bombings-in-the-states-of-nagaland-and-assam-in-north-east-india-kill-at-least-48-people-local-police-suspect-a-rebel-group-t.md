@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/2/a-series-of-bombings-in-the-states-of-nagaland-and-assam-in-north-east-india-kill-at-least-48-people-local-police-suspect-a-rebel-group-t.html)  [JSON](/news/2004/10/2/a-series-of-bombings-in-the-states-of-nagaland-and-assam-in-north-east-india-kill-at-least-48-people-local-police-suspect-a-rebel-group-t.json)  [XML](/news/2004/10/2/a-series-of-bombings-in-the-states-of-nagaland-and-assam-in-north-east-india-kill-at-least-48-people-local-police-suspect-a-rebel-group-t.xml)  
+
 ### [2004-10-2](/news/2004/10/2/index.md)
 
+##### Nagaland
 #  A series of bombings in the states of Nagaland and Assam in north-east India kill at least 48 people. Local police suspect a rebel group, the National Democratic Front of Bodoland (NDFB). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/3710318.stm)
 2. [Hindustan Times](http://www.hindustantimes.com/news/5922_1038855,0015002000000000.htm)

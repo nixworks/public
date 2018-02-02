@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/31/president-of-italy-giorgio-napolitano-announces-his-impending-resignation-citing-old-age.html)  [JSON](/news/2014/12/31/president-of-italy-giorgio-napolitano-announces-his-impending-resignation-citing-old-age.json)  [XML](/news/2014/12/31/president-of-italy-giorgio-napolitano-announces-his-impending-resignation-citing-old-age.xml)  
+
 ### [2014-12-31](/news/2014/12/31/index.md)
 
+##### President of Italy
 # President of Italy Giorgio Napolitano announces his impending resignation, citing "old age". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Business Week](http://www.businessweek.com/news/2014-12-31/italian-president-to-resign-posing-challenge-for-renzi)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/05/8/hundreds-of-people-take-part-in-a-two-hour-march-for-equality-in-vilnius-at-lithuania-s-first-gay-pride-with-police-shooting-tear-gas-a.html)  [JSON](/news/2010/05/8/hundreds-of-people-take-part-in-a-two-hour-march-for-equality-in-vilnius-at-lithuania-s-first-gay-pride-with-police-shooting-tear-gas-a.json)  [XML](/news/2010/05/8/hundreds-of-people-take-part-in-a-two-hour-march-for-equality-in-vilnius-at-lithuania-s-first-gay-pride-with-police-shooting-tear-gas-a.xml)  
+
 ### [2010-05-8](/news/2010/05/8/index.md)
 
+##### Vilnius
 # Hundreds of people take part in a two-hour march, "For Equality", in Vilnius at Lithuania's first gay pride, with police shooting tear gas and arresting at least 12 people who threw stones and fireworks at marchers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8669973.stm)
-2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/05/08/AR2010050801653.html)
+2. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/05/08/AR2010050801653.html)
 3. [iafrica.com](http://news.iafrica.com/worldnews/2402060.htm)
 3. [Cover Image](http://news.iafrica.com/apps/imageUtil/view/article/617337/1/630x385/)
 

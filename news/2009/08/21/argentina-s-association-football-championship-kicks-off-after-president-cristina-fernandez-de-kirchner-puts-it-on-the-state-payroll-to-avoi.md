@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/21/argentina-s-association-football-championship-kicks-off-after-president-cristina-fernandez-de-kirchner-puts-it-on-the-state-payroll-to-avoi.html)  [JSON](/news/2009/08/21/argentina-s-association-football-championship-kicks-off-after-president-cristina-fernandez-de-kirchner-puts-it-on-the-state-payroll-to-avoi.json)  [XML](/news/2009/08/21/argentina-s-association-football-championship-kicks-off-after-president-cristina-fernandez-de-kirchner-puts-it-on-the-state-payroll-to-avoi.xml)  
+
 ### [2009-08-21](/news/2009/08/21/index.md)
 
+##### Argentina
 #  Argentina's association football championship kicks off after President Cristina Fernndez de Kirchner puts it on the state payroll to avoid a financial crisis. 
 
 Argentina&rsquo;s soccer championship kicks Friday night after the government stepped in this week and put the national game on the state payroll in order to avoid a financial crisis gripping clubs that threatened the entire season.
 
 
-### Source:
+### Sources:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/21/argentine-football-season-begins-with-the-kirchners-scoring)
 1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19899/200x200/5c074cc7374b0bef93547446b4266ba4.jpg)

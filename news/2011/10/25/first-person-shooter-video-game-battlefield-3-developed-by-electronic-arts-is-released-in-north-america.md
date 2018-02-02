@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/25/first-person-shooter-video-game-battlefield-3-developed-by-electronic-arts-is-released-in-north-america.html)  [JSON](/news/2011/10/25/first-person-shooter-video-game-battlefield-3-developed-by-electronic-arts-is-released-in-north-america.json)  [XML](/news/2011/10/25/first-person-shooter-video-game-battlefield-3-developed-by-electronic-arts-is-released-in-north-america.xml)  
+
 ### [2011-10-25](/news/2011/10/25/index.md)
 
+##### First-person shooter
 # First-person shooter video game "Battlefield 3", developed by Electronic Arts, is released in North America. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Technology/battlefield-throws-gauntlet-warfare-lands/story?id=14799102)
 1. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)

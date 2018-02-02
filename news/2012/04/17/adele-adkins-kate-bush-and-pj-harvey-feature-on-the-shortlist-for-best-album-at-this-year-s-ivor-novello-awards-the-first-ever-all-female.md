@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/17/adele-adkins-kate-bush-and-pj-harvey-feature-on-the-shortlist-for-best-album-at-this-year-s-ivor-novello-awards-the-first-ever-all-female.html)  [JSON](/news/2012/04/17/adele-adkins-kate-bush-and-pj-harvey-feature-on-the-shortlist-for-best-album-at-this-year-s-ivor-novello-awards-the-first-ever-all-female.json)  [XML](/news/2012/04/17/adele-adkins-kate-bush-and-pj-harvey-feature-on-the-shortlist-for-best-album-at-this-year-s-ivor-novello-awards-the-first-ever-all-female.xml)  
+
 ### [2012-04-17](/news/2012/04/17/index.md)
 
+##### Adele
 # Adele Adkins, Kate Bush and PJ Harvey feature on the shortlist for best album at this year's Ivor Novello Awards - the first ever all-female shortlist. 
 
 Adele, Kate Bush and PJ Harvey will battle it out for best album at the Ivor Novello awards next month - the first time the shortlist has been all-female.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17739529)
 2. [The Guardian](http://www.guardian.co.uk/music/2012/apr/17/adele-ivor-novello-awards)

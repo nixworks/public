@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2015/10/26/leaders-of-nine-national-law-enforcement-groups-at-the-annual-international-association-of-chiefs-of-police-conference-in-chicago-illinois.html)  [JSON](/news/2015/10/26/leaders-of-nine-national-law-enforcement-groups-at-the-annual-international-association-of-chiefs-of-police-conference-in-chicago-illinois.json)  [XML](/news/2015/10/26/leaders-of-nine-national-law-enforcement-groups-at-the-annual-international-association-of-chiefs-of-police-conference-in-chicago-illinois.xml)  
+
 ### [2015-10-26](/news/2015/10/26/index.md)
 
+##### Gun politics in the United States
 # Leaders of nine national law enforcement groups, at the annual International Association of Chiefs of Police conference in Chicago, Illinois, call on federal lawmakers to strengthen background checks on gun purchases. 
 
-The push comes as President Obama is reportedly weighing taking executive action on gun laws.
+Police chiefs from across the United States called on Monday for universal background checks for firearms purchases, saying opinion polls consistently show that most Americans support such restrictions.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/10/27/us-usa-guns-police-idUSKCN0SK2RR20151027)
-2. [USA Today](http://www.usatoday.com/story/news/2015/10/26/polaice-chiefs-renew-push-for-expanded-background-checks-guns/74650146/)
-2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
+1. [Reuters](https://www.reuters.com/article/2015/10/27/us-usa-guns-police-idUSKCN0SK2RR20151027)
+2. [USA Today](https://www.usatoday.com/story/news/2015/10/26/polaice-chiefs-renew-push-for-expanded-background-checks-guns/74650146/)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20151026&t=2&i=1089975500&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9P1BC)
+
+### Changes:
+
+1. [Gun politics in the United States: Leaders of nine national law enforcement groups, at the annual International Association of Chiefs of Police conference in Chicago, Illinois, call on federal lawmakers to strengthen background checks on gun purchases. ](/news/2015/10/26/gun-politics-in-the-united-states-leaders-of-nine-national-law-enforcement-groups-at-the-annual-international-association-of-chiefs-of-pol.md) _2017-08-27 03:43:30 (First version)_
+1. [Leaders of nine national law enforcement groups, at the annual International Association of Chiefs of Police conference in Chicago, Illinois, call on federal lawmakers to strengthen background checks on gun purchases. ](/news/2015/10/26/leaders-of-nine-national-law-enforcement-groups-at-the-annual-international-association-of-chiefs-of-police-conference-in-chicago-illinois.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ The push comes as President Obama is reportedly weighing taking executive action
 3. [United States Federal agents are combing three states for 32 cases of commercial grade explosives, about 500 pounds of 21/2 to 5 inch aerial shells, stolen from a CSX train traveling from Chicago, Illinois, through Ohio that arrived in Detroit, Michigan, on Wednesday. ](/news/2016/04/23/united-states-federal-agents-are-combing-three-states-for-32-cases-of-commercial-grade-explosives-about-500-pounds-of-2a1-2-to-5-inch-aerial.md) _Context: Chicago, Illinois_
 4. [The United States Department of Justice will investigate the Chicago, Illinois police department. Long concerned with Chicago police department practices, the investigation is precipitated by the recent release of a video of the shooting death of Laquan McDonald. The Chicago police are set to release another video showing the police killing of Ronald Johnson in October of 2014. ](/news/2015/12/7/the-united-states-department-of-justice-will-investigate-the-chicago-illinois-police-department-long-concerned-with-chicago-police-departm.md) _Context: Chicago, Illinois_
 5. [Chicago, Illinois police officer, Jason Van Dyke, enters a not guilty plea regarding the charges of the 2014 shooting death of Laquan McDonald. ](/news/2015/12/29/chicago-illinois-police-officer-jason-van-dyke-enters-a-not-guilty-plea-regarding-the-charges-of-the-2014-shooting-death-of-laquan-mcdona.md) _Context: Chicago, Illinois_
-
-### Changes:
-
-1. [Gun politics in the United States: Leaders of nine national law enforcement groups, at the annual International Association of Chiefs of Police conference in Chicago, Illinois, call on federal lawmakers to strengthen background checks on gun purchases. ](/news/2015/10/26/gun-politics-in-the-united-states-leaders-of-nine-national-law-enforcement-groups-at-the-annual-international-association-of-chiefs-of-pol.md) _2017-08-27 03:43:30 (First version)_
-1. [Leaders of nine national law enforcement groups, at the annual International Association of Chiefs of Police conference in Chicago, Illinois, call on federal lawmakers to strengthen background checks on gun purchases. ](/news/2015/10/26/leaders-of-nine-national-law-enforcement-groups-at-the-annual-international-association-of-chiefs-of-police-conference-in-chicago-illinois.md) _(Current version)_

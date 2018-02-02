@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/10/21/kyrgyz-people-go-to-the-polls-to-vote-on-a-constitutional-referendum-called-by-president-kurmanbek-bakiyev.html)  [JSON](/news/2007/10/21/kyrgyz-people-go-to-the-polls-to-vote-on-a-constitutional-referendum-called-by-president-kurmanbek-bakiyev.json)  [XML](/news/2007/10/21/kyrgyz-people-go-to-the-polls-to-vote-on-a-constitutional-referendum-called-by-president-kurmanbek-bakiyev.xml)  
+
 ### [2007-10-21](/news/2007/10/21/index.md)
 
+##### Kyrgyzstan
 #  Kyrgyz people go to the polls to vote on a constitutional referendum called by President Kurmanbek Bakiyev. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/latestCrisis/idUSL21556982)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/latestCrisis/idUSL21556982)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

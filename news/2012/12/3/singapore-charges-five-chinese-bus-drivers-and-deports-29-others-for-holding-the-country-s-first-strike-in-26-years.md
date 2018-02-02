@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/3/singapore-charges-five-chinese-bus-drivers-and-deports-29-others-for-holding-the-country-s-first-strike-in-26-years.html)  [JSON](/news/2012/12/3/singapore-charges-five-chinese-bus-drivers-and-deports-29-others-for-holding-the-country-s-first-strike-in-26-years.json)  [XML](/news/2012/12/3/singapore-charges-five-chinese-bus-drivers-and-deports-29-others-for-holding-the-country-s-first-strike-in-26-years.xml)  
+
 ### [2012-12-3](/news/2012/12/3/index.md)
 
+##### Singapore
 # Singapore charges five Chinese bus drivers and deports 29 others for holding the country's first strike in 26 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-20576424)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64400000/jpg/_64400002_64399965.jpg)

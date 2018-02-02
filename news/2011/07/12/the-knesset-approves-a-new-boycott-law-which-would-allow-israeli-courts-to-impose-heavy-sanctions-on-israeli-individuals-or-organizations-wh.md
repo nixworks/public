@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/12/the-knesset-approves-a-new-boycott-law-which-would-allow-israeli-courts-to-impose-heavy-sanctions-on-israeli-individuals-or-organizations-wh.html)  [JSON](/news/2011/07/12/the-knesset-approves-a-new-boycott-law-which-would-allow-israeli-courts-to-impose-heavy-sanctions-on-israeli-individuals-or-organizations-wh.json)  [XML](/news/2011/07/12/the-knesset-approves-a-new-boycott-law-which-would-allow-israeli-courts-to-impose-heavy-sanctions-on-israeli-individuals-or-organizations-wh.xml)  
+
 ### [2011-07-12](/news/2011/07/12/index.md)
 
+##### parliament in Israel
 # The Knesset approves a new boycott law which would allow Israeli courts to impose heavy sanctions on Israeli individuals or organizations whom would initiate or promote a boycott against Israeli companies and entities.
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2011/jul/11/israel-passes-law-boycotts)
 

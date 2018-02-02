@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/09/14/ukrainian-prosecutors-say-that-former-interior-minister-yuriy-kravchenko-ordered-the-murder-of-journalist-georgiy-gongadze-in-2000.html)  [JSON](/news/2010/09/14/ukrainian-prosecutors-say-that-former-interior-minister-yuriy-kravchenko-ordered-the-murder-of-journalist-georgiy-gongadze-in-2000.json)  [XML](/news/2010/09/14/ukrainian-prosecutors-say-that-former-interior-minister-yuriy-kravchenko-ordered-the-murder-of-journalist-georgiy-gongadze-in-2000.xml)  
+
 ### [2010-09-14](/news/2010/09/14/index.md)
 
+##### Ukraine
 # Ukrainian prosecutors say that former Interior Minister Yuriy Kravchenko ordered the murder of journalist Georgiy Gongadze in 2000. 
 
+Former Ukrainian Interior Minister Yuri Kravchenko ordered the murder of Georgiy Gongadze, a reporter whose headless body was found in 2000, prosecutors said as they closed the investigation into Kravchenko’s involvement.
 
 
-
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11297880)
-2. [Bloomberg](http://www.bloomberg.com/news/2010-09-14/ex-ukraine-minister-kravchenko-ordered-reporter-s-murder-prosecutor-says.html)
+2. [Bloomberg](https://www.bloomberg.com/news/2010-09-14/ex-ukraine-minister-kravchenko-ordered-reporter-s-murder-prosecutor-says.html)
 3. [UNIAN](http://unian.net/eng/news/news-395761.html)
-3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
+3. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

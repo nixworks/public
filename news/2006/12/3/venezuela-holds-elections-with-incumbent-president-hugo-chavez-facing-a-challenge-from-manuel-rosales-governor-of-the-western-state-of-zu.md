@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/3/venezuela-holds-elections-with-incumbent-president-hugo-chavez-facing-a-challenge-from-manuel-rosales-governor-of-the-western-state-of-zu.html)  [JSON](/news/2006/12/3/venezuela-holds-elections-with-incumbent-president-hugo-chavez-facing-a-challenge-from-manuel-rosales-governor-of-the-western-state-of-zu.json)  [XML](/news/2006/12/3/venezuela-holds-elections-with-incumbent-president-hugo-chavez-facing-a-challenge-from-manuel-rosales-governor-of-the-western-state-of-zu.xml)  
+
 ### [2006-12-3](/news/2006/12/3/index.md)
 
+##### Venezuela
 #  Venezuela holds elections, with incumbent president Hugo Chvez facing a challenge from Manuel Rosales, Governor of the western state of Zulia. With 78% of votes counted by the National Electoral Council, Chvez wins with 61% over 38% for Rosales. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2006-12-04T021305Z_01_N29379032_RTRUKOC_0_US-VENEZUELA-ELECTION.xml)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

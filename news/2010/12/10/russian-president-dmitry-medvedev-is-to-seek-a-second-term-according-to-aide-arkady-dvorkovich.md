@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/10/russian-president-dmitry-medvedev-is-to-seek-a-second-term-according-to-aide-arkady-dvorkovich.html)  [JSON](/news/2010/12/10/russian-president-dmitry-medvedev-is-to-seek-a-second-term-according-to-aide-arkady-dvorkovich.json)  [XML](/news/2010/12/10/russian-president-dmitry-medvedev-is-to-seek-a-second-term-according-to-aide-arkady-dvorkovich.xml)  
+
 ### [2010-12-10](/news/2010/12/10/index.md)
 
+##### Russia
 # Russian President Dmitry Medvedev is to seek a second term, according to aide Arkady Dvorkovich. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11971851)
 2. [China Daily](http://www.chinadaily.com.cn/world/2010-12/11/content_11685907.htm)

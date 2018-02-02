@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/13/britain-s-most-senior-military-officer-sir-jock-stirrup-agrees-to-leave-before-the-end-of-his-term-in-april-2011-according-to-the-country.html)  [JSON](/news/2010/06/13/britain-s-most-senior-military-officer-sir-jock-stirrup-agrees-to-leave-before-the-end-of-his-term-in-april-2011-according-to-the-country.json)  [XML](/news/2010/06/13/britain-s-most-senior-military-officer-sir-jock-stirrup-agrees-to-leave-before-the-end-of-his-term-in-april-2011-according-to-the-country.xml)  
+
 ### [2010-06-13](/news/2010/06/13/index.md)
 
+##### Jock Stirrup
 # Britain's most senior military officer, Sir Jock Stirrup, agrees to leave before the end of his term in April 2011, according to the country's Defence Secretary Liam Fox. 
 
 Air Chief Marshal Sir Jock Stirrup is to quit as head of the armed forces in the autumn, before the end of his term in April 2011.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/politics/10303009.stm)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0613/breaking19.html)

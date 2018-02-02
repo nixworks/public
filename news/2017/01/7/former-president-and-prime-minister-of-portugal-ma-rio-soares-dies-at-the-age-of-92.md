@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/7/former-president-and-prime-minister-of-portugal-
 
 ### [2017-01-7](/news/2017/01/7/index.md)
 
+##### President
 # Former President and Prime Minister of Portugal Mario Soares dies at the age of 92. 
 
 

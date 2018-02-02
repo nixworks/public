@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/1/at-least-30-people-are-killed-and-250-injured-in-three-suicide-bombing-attacks-on-shia-procession-in-lahore-pakistan.html)  [JSON](/news/2010/09/1/at-least-30-people-are-killed-and-250-injured-in-three-suicide-bombing-attacks-on-shia-procession-in-lahore-pakistan.json)  [XML](/news/2010/09/1/at-least-30-people-are-killed-and-250-injured-in-three-suicide-bombing-attacks-on-shia-procession-in-lahore-pakistan.xml)  
+
 ### [2010-09-1](/news/2010/09/1/index.md)
 
+##### three suicide bombing attacks
 # At least 30 people are killed and 250 injured in three suicide bombing attacks on Shia procession in Lahore, Pakistan. 
 
 At least 25 people are killed and more than 170 are injured in three bomb blasts during a Shia religious parade in Lahore, Pakistan.
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://arabnews.com/world/article122857.ece)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-11152128)

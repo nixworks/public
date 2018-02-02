@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/2/google-s-gmail-service-is-hit-by-an-outage-affecting-the-majority-of-its-150-million-users.html)  [JSON](/news/2009/09/2/google-s-gmail-service-is-hit-by-an-outage-affecting-the-majority-of-its-150-million-users.json)  [XML](/news/2009/09/2/google-s-gmail-service-is-hit-by-an-outage-affecting-the-majority-of-its-150-million-users.xml)  
+
 ### [2009-09-2](/news/2009/09/2/index.md)
 
+##### Google
 #  Google's Gmail service is hit by an outage affecting the "majority" of its 150 million users. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/8232971.stm)
 

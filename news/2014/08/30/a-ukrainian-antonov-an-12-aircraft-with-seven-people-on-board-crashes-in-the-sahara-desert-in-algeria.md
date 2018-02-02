@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/08/30/a-ukrainian-antonov-an-12-aircraft-with-seven-people-on-board-crashes-in-the-sahara-desert-in-algeria.html)  [JSON](/news/2014/08/30/a-ukrainian-antonov-an-12-aircraft-with-seven-people-on-board-crashes-in-the-sahara-desert-in-algeria.json)  [XML](/news/2014/08/30/a-ukrainian-antonov-an-12-aircraft-with-seven-people-on-board-crashes-in-the-sahara-desert-in-algeria.xml)  
+
 ### [2014-08-30](/news/2014/08/30/index.md)
 
+##### Antonov An-12
 # A Ukrainian Antonov An-12 aircraft with seven people on board crashes in the Sahara Desert in Algeria. 
 
 A Ukrainian cargo plane crashed in the Sahara desert early on Saturday, killing all seven people on board, Algeria&#x27;s transport ministry said. The Antonov 12, which had come from Glasgow in Scotland and was bound for Equatorial Guinea, came down near Tamanrasset airport at around 2:40 am (0140 GMT
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/ukraine-plane-7-board-crashes-sahara-algeria-agency-100719360.html)
-1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/5pwPucasJT2iLur5qnIzlA--/aD05Nzc7dz0xMzgyO3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/ed635e52d22056450983ec9981c7e6d19b312a3a.jpg)
+1. [AFP via Yahoo! News](https://news.yahoo.com/ukraine-plane-7-board-crashes-sahara-algeria-agency-100719360.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/xTY673h9srl_8Z8b19tvQQ--~B/aD05Nzc7dz0xMzgyO3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/ed635e52d22056450983ec9981c7e6d19b312a3a.jpg)
 
 ### Related:
 

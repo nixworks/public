@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/23/1-person-is-killed-when-a-crane-crashes-at-chennai-international-airport-chennai-india.html)  [JSON](/news/2010/06/23/1-person-is-killed-when-a-crane-crashes-at-chennai-international-airport-chennai-india.json)  [XML](/news/2010/06/23/1-person-is-killed-when-a-crane-crashes-at-chennai-international-airport-chennai-india.xml)  
+
 ### [2010-06-23](/news/2010/06/23/index.md)
 
+##### Chennai International Airport
 # 1 person is killed when a crane crashes at Chennai International Airport, Chennai, India. 
 
 One person was killed and another seriously injured when a crane suddenly crashed and fell on them during airport expansion work near the domestic terminal here today, police said. 
 
 
-### Source:
+### Sources:
 
 1. [India Times](http://timesofindia.indiatimes.com/city/chennai/1-dead-as-crane-crashes-at-Chennai-airport/articleshow/6082265.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)

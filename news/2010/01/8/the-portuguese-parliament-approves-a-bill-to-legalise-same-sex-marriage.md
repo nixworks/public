@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/8/the-portuguese-parliament-approves-a-bill-to-legalise-same-sex-marriage.html)  [JSON](/news/2010/01/8/the-portuguese-parliament-approves-a-bill-to-legalise-same-sex-marriage.json)  [XML](/news/2010/01/8/the-portuguese-parliament-approves-a-bill-to-legalise-same-sex-marriage.xml)  
+
 ### [2010-01-8](/news/2010/01/8/index.md)
 
+##### Portugal
 # The Portuguese parliament approves a bill to legalise same-sex marriage. 
 
 The Portuguese parliament has approved at first reading a bill to legalise gay marriage.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/cp/world/100108/w010849A.html)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5101079,00.html)
@@ -14,8 +18,8 @@ The Portuguese parliament has approved at first reading a bill to legalise gay m
 
 ### Related:
 
-1. [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both same-gender and different-gender couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md) _Context: same-sex marriage_
-2. [A tree falls over at a religious ceremony in Funchal, Madeira, killing at least 12 people and injuring over 50 others. ](/news/2017/08/15/a-tree-falls-over-at-a-religious-ceremony-in-funchal-madeira-killing-at-least-12-people-and-injuring-over-50-others.md) _Context: Portugal_
-3. [A bill allowing same-sex marriage in Malta gets approved by Parliament. ](/news/2017/07/12/a-bill-allowing-same-sex-marriage-in-malta-gets-approved-by-parliament.md) _Context: same-sex marriage_
-4. [The Bundestag votes to introduce same-sex marriage in Germany. With 393 votes in favor and 226 against, including Chancellor Angela Merkel, the law is expected to enter into force before the end of the year. ](/news/2017/06/30/the-bundestag-votes-to-introduce-same-sex-marriage-in-germany-with-393-votes-in-favor-and-226-against-including-chancellor-angela-merkel.md) _Context: same-sex marriage_
-5. [German same-sex couples may be able to marry after Chancellor Angela Merkel drops her opposition for a parliamentary vote. ](/news/2017/06/29/german-same-sex-couples-may-be-able-to-marry-after-chancellor-angela-merkel-drops-her-opposition-for-a-parliamentary-vote.md) _Context: same-sex marriage_
+1. [A heat boiler explodes at a community center in Vila Nova da Rainha, Tondela, Portugal, leaving at least eight people dead and thirty five injured. ](/news/2018/01/14/a-heat-boiler-explodes-at-a-community-center-in-vila-nova-da-rainha-tondela-portugal-leaving-at-least-eight-people-dead-and-thirty-five-i.md) _Context: Portugal_
+2. [The Parliament of Australia votes to make same-sex marriage legal in Australia. ](/news/2017/12/7/the-parliament-of-australia-votes-to-make-same-sex-marriage-legal-in-australia.md) _Context: same-sex marriage_
+3. [The Eurogroup selects Mario Centeno, Portugal's Minister of Finance, to succeed Jeroen Dijsselbloem as their next president. ](/news/2017/12/4/the-eurogroup-selects-ma-rio-centeno-portugal-s-minister-of-finance-to-succeed-jeroen-dijsselbloem-as-their-next-president.md) _Context: Portugal_
+4. [Twenty-three European Union countries sign a defence integration pact known as the Permanent Structured Cooperation. NATO members Denmark, Portugal and the United Kingdom (withdrawal from EU underway), and non-NATO members Malta and Ireland, opt out. ](/news/2017/11/13/twenty-three-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-p.md) _Context: Portugal_
+5. [Wildfires in Spain and Portugal kill at least 31 people, which were worsened by strong winds brought by Hurricane Ophelia. ](/news/2017/10/16/wildfires-in-spain-and-portugal-kill-at-least-31-people-which-were-worsened-by-strong-winds-brought-by-hurricane-ophelia.md) _Context: Portugal_

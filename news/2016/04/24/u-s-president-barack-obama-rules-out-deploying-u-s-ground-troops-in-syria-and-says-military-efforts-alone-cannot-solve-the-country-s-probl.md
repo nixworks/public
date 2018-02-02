@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/24/u-s-president-barack-obama-rules-out-deploying-
 
 ### [2016-04-24](/news/2016/04/24/index.md)
 
+##### Syrian Civil War
 # U.S. President Barack Obama rules out deploying U.S. ground troops in Syria and says military efforts alone cannot solve the country's problems. He also said he did not think that ISIL would be defeated in his last nine months of office. 
 
 The Pentagon has already admitted there are 50 special forces inside Syria fighting ISIS

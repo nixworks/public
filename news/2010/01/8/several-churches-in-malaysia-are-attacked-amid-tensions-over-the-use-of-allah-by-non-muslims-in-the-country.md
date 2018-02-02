@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/8/several-churches-in-malaysia-are-attacked-amid-tensions-over-the-use-of-allah-by-non-muslims-in-the-country.html)  [JSON](/news/2010/01/8/several-churches-in-malaysia-are-attacked-amid-tensions-over-the-use-of-allah-by-non-muslims-in-the-country.json)  [XML](/news/2010/01/8/several-churches-in-malaysia-are-attacked-amid-tensions-over-the-use-of-allah-by-non-muslims-in-the-country.xml)  
+
 ### [2010-01-8](/news/2010/01/8/index.md)
 
+##### Malaysia
 # Several churches in Malaysia are attacked amid tensions over the use of "Allah" by non-Muslims in the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/20101871816435228.html)
 2. [Malaysia Star](http://www.thestar.com.my/news/story.asp?file=/2010/1/8/nation/20100108115637&sec=nation)

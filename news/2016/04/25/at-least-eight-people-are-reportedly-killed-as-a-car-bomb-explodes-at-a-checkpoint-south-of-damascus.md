@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/25/at-least-eight-people-are-reportedly-killed-as-
 
 ### [2016-04-25](/news/2016/04/25/index.md)
 
+##### Syrian Civil War
 # At least eight people are reportedly killed as a car bomb explodes at a checkpoint south of Damascus. 
 
 

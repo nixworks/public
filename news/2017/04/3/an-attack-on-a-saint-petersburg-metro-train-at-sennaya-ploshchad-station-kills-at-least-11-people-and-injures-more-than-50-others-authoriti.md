@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/3/an-attack-on-a-saint-petersburg-metro-train-at-s
 
 ### [2017-04-3](/news/2017/04/3/index.md)
 
+##### 2017 Saint Petersburg Metro bombing
 # An attack on a Saint Petersburg Metro train at Sennaya Ploshchad station kills at least 11 people and injures more than 50 others. Authorities disarm another bomb, found at nearby Vosstaniya Square station. 
 
 Russian police are hunting for two suspects in the wake of a bomb blast in the St Petersburg metro system that killed at least 11 people and wounded 45 more. Law enforcement officials have said that a suicide bomber was responsible for the blast, according to reports in Russian media. The suspected bomber is thought to have links to radical Islamists and is believed to be a 23-year-old from central Asia. 

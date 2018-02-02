@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/5/after-several-days-of-violent-protests-due-to-al
 
 ### [2017-12-5](/news/2017/12/5/index.md)
 
+##### Aftermath of the Honduran general election, 2017
 # After several days of violent protests due to allegations of electoral fraud, Honduran police have announced that they will not enforce a government-mandated curfew. 
 
 All national police will refuse to enforce a curfew after days of deadly violence triggered by allegations of electoral fraud

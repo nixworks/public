@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/04/6/monaco-s-prince-rainier-iii-dies-at-age-81.html)  [JSON](/news/2005/04/6/monaco-s-prince-rainier-iii-dies-at-age-81.json)  [XML](/news/2005/04/6/monaco-s-prince-rainier-iii-dies-at-age-81.xml)  
+
 ### [2005-04-6](/news/2005/04/6/index.md)
 
+##### Monaco
 #  Monaco's Prince Rainier III dies at age 81. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/aponline/international/AP-Obit-Rainier.html?hp)
+1. [NYT](https://www.nytimes.com/aponline/international/AP-Obit-Rainier.html?hp)
 
 ### Related:
 

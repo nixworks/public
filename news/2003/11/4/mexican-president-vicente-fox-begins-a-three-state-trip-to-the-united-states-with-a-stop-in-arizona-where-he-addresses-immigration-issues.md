@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/4/mexican-president-vicente-fox-begins-a-three-state-trip-to-the-united-states-with-a-stop-in-arizona-where-he-addresses-immigration-issues.html)  [JSON](/news/2003/11/4/mexican-president-vicente-fox-begins-a-three-state-trip-to-the-united-states-with-a-stop-in-arizona-where-he-addresses-immigration-issues.json)  [XML](/news/2003/11/4/mexican-president-vicente-fox-begins-a-three-state-trip-to-the-united-states-with-a-stop-in-arizona-where-he-addresses-immigration-issues.xml)  
+
 ### [2003-11-4](/news/2003/11/4/index.md)
 
+##### Mexico
 #  Mexican President Vicente Fox begins a three state trip to the United States with a stop in Arizona, where he addresses immigration issues. A man is reportedly injured at a shooting near the place Fox spoke.
 
 

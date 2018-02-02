@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/7/space-shuttle-atlantis-launches-successfully-on-its-sts-122-mission.html)  [JSON](/news/2008/02/7/space-shuttle-atlantis-launches-successfully-on-its-sts-122-mission.json)  [XML](/news/2008/02/7/space-shuttle-atlantis-launches-successfully-on-its-sts-122-mission.xml)  
+
 ### [2008-02-7](/news/2008/02/7/index.md)
 
+##### Space Shuttle Atlantis
 #  Space Shuttle Atlantis launches successfully on its STS-122 mission. 
 
 Atlantis launches on schedule despite earlier forecasts of thunderstorms and heavy cloud cover.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,329069,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

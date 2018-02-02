@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/13/the-prime-minister-of-fiji-frank-bainimarama-sends-in-troops-to-close-down-the-headquarters-of-fiji-s-great-council-of-chiefs.html)  [JSON](/news/2007/04/13/the-prime-minister-of-fiji-frank-bainimarama-sends-in-troops-to-close-down-the-headquarters-of-fiji-s-great-council-of-chiefs.json)  [XML](/news/2007/04/13/the-prime-minister-of-fiji-frank-bainimarama-sends-in-troops-to-close-down-the-headquarters-of-fiji-s-great-council-of-chiefs.xml)  
+
 ### [2007-04-13](/news/2007/04/13/index.md)
 
+##### Prime Minister
 #  The Prime Minister of Fiji Frank Bainimarama sends in troops to close down the headquarters of Fiji's Great Council of Chiefs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200704/s1897013.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/30/in-senegal-president-abdoulaye-wade-signs-a-peace-deal-with-separatist-rebels-in-the-casamance-region-the-war-has-lasted-22-years.html)  [JSON](/news/2004/12/30/in-senegal-president-abdoulaye-wade-signs-a-peace-deal-with-separatist-rebels-in-the-casamance-region-the-war-has-lasted-22-years.json)  [XML](/news/2004/12/30/in-senegal-president-abdoulaye-wade-signs-a-peace-deal-with-separatist-rebels-in-the-casamance-region-the-war-has-lasted-22-years.xml)  
+
 ### [2004-12-30](/news/2004/12/30/index.md)
 
+##### Senegal
 #  In Senegal, President Abdoulaye Wade signs a peace deal with separatist rebels in the Casamance region. The war has lasted 22 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4133881.stm)
 2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1640807,00.html)

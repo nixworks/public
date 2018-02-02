@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/12/italy-s-coast-guard-picks-up-1-230-migrants-in-
 
 ### [2016-06-12](/news/2016/06/12/index.md)
 
+##### European migration crisis
 # Italy's Coast Guard picks up 1,230 migrants in the Mediterranean Sea. More than 4,000 people have been saved at sea in the past week. 
 
 

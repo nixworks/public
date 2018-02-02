@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2010/08/2/the-government-of-the-united-states-claims-that-nearly-5-million-barrels-of-oil-have-spilt-from-the-deepwater-horizon-oil-spill-in-the-gul.html)  [JSON](/news/2010/08/2/the-government-of-the-united-states-claims-that-nearly-5-million-barrels-of-oil-have-spilt-from-the-deepwater-horizon-oil-spill-in-the-gul.json)  [XML](/news/2010/08/2/the-government-of-the-united-states-claims-that-nearly-5-million-barrels-of-oil-have-spilt-from-the-deepwater-horizon-oil-spill-in-the-gul.xml)  
+
 ### [2010-08-2](/news/2010/08/2/index.md)
 
+##### Government of the United States
 # The Government of the United States claims that nearly 5 million barrels of oil have spilt from the "Deepwater Horizon" oil spill in the Gulf of Mexico, making it the largest accidental maritime oil spill ever. 
 
 Nearly five million barrels of oil have gushed from BP’s well, federal scientists said, announcing the most precise estimates yet of the flow. The number would make this the biggest known oil spill.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2010/08/03/us/03flow.html?_r=1&hp)
+1. [New York Times](https://www.nytimes.com/2010/08/03/us/03flow.html?_r=1&hp)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+
+### Changes:
+
+1. [The Government of the United States claims that nearly 5 million barrels of oil have spilt from the ''Deepwater Horizon'' oil spill in the Gulf of Mexico, making it the largest accidental maritime oil spill ever. ](/news/2010/08/2/the-government-of-the-united-states-claims-that-nearly-5-million-barrels-of-oil-have-spilt-from-the-deepwater-horizon-oil-spill-in-the-g.md) _2017-08-25 03:29:08 (First version)_
+1. [The Government of the United States claims that nearly 5 million barrels of oil have spilt from the "Deepwater Horizon" oil spill in the Gulf of Mexico, making it the largest accidental maritime oil spill ever. ](/news/2010/08/2/the-government-of-the-united-states-claims-that-nearly-5-million-barrels-of-oil-have-spilt-from-the-deepwater-horizon-oil-spill-in-the-gul.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Nearly five million barrels of oil have gushed from BP’s well, federal scienti
 3. [The United States Department of Justice files papers in court documenting BP's "gross negligence and willful misconduct" over the April 2010 oil spill in the Gulf of Mexico. ](/news/2012/09/4/the-united-states-department-of-justice-files-papers-in-court-documenting-bp-s-gross-negligence-and-willful-misconduct-over-the-april-2010.md) _Context: Deepwater Horizon oil spill, Gulf of Mexico_
 4. [BP and plaintiffs reach an agreement over compensation for the Deepwater Horizon oil spill in the Gulf of Mexico. ](/news/2012/03/2/bp-and-plaintiffs-reach-an-agreement-over-compensation-for-the-deepwater-horizon-oil-spill-in-the-gulf-of-mexico.md) _Context: Deepwater Horizon oil spill, Gulf of Mexico_
 5. [The inquiry into the Deepwater Horizon oil spill in the Gulf of Mexico is released finding that the accident was entirely preventable. ](/news/2011/02/17/the-inquiry-into-the-deepwater-horizon-oil-spill-in-the-gulf-of-mexico-is-released-finding-that-the-accident-was-entirely-preventable.md) _Context: Deepwater Horizon oil spill, Gulf of Mexico_
-
-### Changes:
-
-1. [The Government of the United States claims that nearly 5 million barrels of oil have spilt from the ''Deepwater Horizon'' oil spill in the Gulf of Mexico, making it the largest accidental maritime oil spill ever. ](/news/2010/08/2/the-government-of-the-united-states-claims-that-nearly-5-million-barrels-of-oil-have-spilt-from-the-deepwater-horizon-oil-spill-in-the-g.md) _2017-08-25 03:29:08 (First version)_
-1. [The Government of the United States claims that nearly 5 million barrels of oil have spilt from the "Deepwater Horizon" oil spill in the Gulf of Mexico, making it the largest accidental maritime oil spill ever. ](/news/2010/08/2/the-government-of-the-united-states-claims-that-nearly-5-million-barrels-of-oil-have-spilt-from-the-deepwater-horizon-oil-spill-in-the-gul.md) _(Current version)_

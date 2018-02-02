@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2014/07/13/islamist-militias-attack-the-zintan-brigade-which-controls-tripoli-international-airport-triggering-fierce-clashes-that-result-in-six-deaths.html)  [JSON](/news/2014/07/13/islamist-militias-attack-the-zintan-brigade-which-controls-tripoli-international-airport-triggering-fierce-clashes-that-result-in-six-deaths.json)  [XML](/news/2014/07/13/islamist-militias-attack-the-zintan-brigade-which-controls-tripoli-international-airport-triggering-fierce-clashes-that-result-in-six-deaths.xml)  
+
 ### [2014-07-13](/news/2014/07/13/index.md)
 
+##### Islamist
 # Islamist militias attack the Zintan Brigade which controls Tripoli International Airport triggering fierce clashes that result in six deaths. 
 
 Islamists&#x20;on&#x20;Sunday&#x20;attacked&#x20;the&#x20;rival&#x20;Zintan&#x20;militia&#x20;that&#x20;now&#x20;controls&#x20;the&#x20;airport&#x20;in&#x20;Tripoli,&#x20;triggering&#x20;fierce&#x20;clashes&#x20;that&#x20;halted&#x20;flights&#x20;amid&#x20;already&#x20;heightened&#x20;tensions&#x20;as&#x20;Libya&#x20;awaits&#x20;the&#x20;results&#x20;of&#x20;contentious&#x20;elections.
 
 
-### Source:
+### Sources:
 
 1. [AFP via France 24](http://www.france24.com/en/20140713-libya-militias-fighting-tripoli-airport/)
 2. [AP](http://hosted.ap.org/dynamic/stories/M/ML_LIBYA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/tripoli-airport-twitter-%40za.jpg)
+
+### Changes:
+
+1. [Post-civil war violence in Libya:Islamist militias attack the Zintan Brigade which controls Tripoli International Airport triggering fierce clashes that result in six deaths. ](/news/2014/07/13/post-civil-war-violence-in-libya-pislamist-militias-attack-the-zintan-brigade-which-controls-tripoli-international-airport-triggering-fierce.md) _2017-08-25 03:40:40 (First version)_
+2. [Post-civil war violence in Libya:: Islamist militias attack the Zintan Brigade which controls Tripoli International Airport triggering fierce clashes that result in six deaths. ](/news/2014/07/13/post-civil-war-violence-in-libya-islamist-militias-attack-the-zintan-brigade-which-controls-tripoli-international-airport-triggering-fierc.md) _2017-08-27 03:40:58 (Update)_
+2. [Islamist militias attack the Zintan Brigade which controls Tripoli International Airport triggering fierce clashes that result in six deaths. ](/news/2014/07/13/islamist-militias-attack-the-zintan-brigade-which-controls-tripoli-international-airport-triggering-fierce-clashes-that-result-in-six-deaths.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ Islamists&#x20;on&#x20;Sunday&#x20;attacked&#x20;the&#x20;rival&#x20;Zintan&#x20
 3. [ Fourteen Sufi mausoleums in the city of Timbuktu in northern Mali have been rebuilt, three years after they were destroyed by Islamist militants from Ansar Dine group. ](/news/2015/07/19/fourteen-sufi-mausoleums-in-the-city-of-timbuktu-in-northern-mali-have-been-rebuilt-three-years-after-they-were-destroyed-by-islamist-mili.md) _Context: Islamist_
 4. [Bangladesh's Supreme Court upholds the death sentence against senior Islamist leader Ali Ahsan Mohammad Mojaheed in an appeal hearing. ](/news/2015/06/16/bangladesh-s-supreme-court-upholds-the-death-sentence-against-senior-islamist-leader-ali-ahsan-mohammad-mojaheed-in-an-appeal-hearing.md) _Context: Islamist_
 5. [Islamist rebels including the al-Qaeda-affiliated al-Nusra Front claim to have captured most of the town of Jisr al-Shughur in the Idlib Governorate. ](/news/2015/04/25/islamist-rebels-including-the-al-qaeda-affiliated-al-nusra-front-claim-to-have-captured-most-of-the-town-of-jisr-al-shughur-in-the-idlib-gov.md) _Context: Islamist_
-
-### Changes:
-
-1. [Post-civil war violence in Libya:Islamist militias attack the Zintan Brigade which controls Tripoli International Airport triggering fierce clashes that result in six deaths. ](/news/2014/07/13/post-civil-war-violence-in-libya-pislamist-militias-attack-the-zintan-brigade-which-controls-tripoli-international-airport-triggering-fierce.md) _2017-08-25 03:40:40 (First version)_
-2. [Post-civil war violence in Libya:: Islamist militias attack the Zintan Brigade which controls Tripoli International Airport triggering fierce clashes that result in six deaths. ](/news/2014/07/13/post-civil-war-violence-in-libya-islamist-militias-attack-the-zintan-brigade-which-controls-tripoli-international-airport-triggering-fierc.md) _2017-08-27 03:40:58 (Update)_
-2. [Islamist militias attack the Zintan Brigade which controls Tripoli International Airport triggering fierce clashes that result in six deaths. ](/news/2014/07/13/islamist-militias-attack-the-zintan-brigade-which-controls-tripoli-international-airport-triggering-fierce-clashes-that-result-in-six-deaths.md) _(Current version)_

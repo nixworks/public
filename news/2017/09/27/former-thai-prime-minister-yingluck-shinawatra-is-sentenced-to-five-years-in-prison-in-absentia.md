@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/27/former-thai-prime-minister-yingluck-shinawatra-
 
 ### [2017-09-27](/news/2017/09/27/index.md)
 
+##### Politics of Thailand
 # Former Thai Prime Minister Yingluck Shinawatra is sentenced to five years in prison "in absentia". 
 
 Yingluck Shinawatra denied negligence over a costly rice subsidy scheme and fled Thailand in August.

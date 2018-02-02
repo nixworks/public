@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/25/pope-benedict-xvi-delivers-the-annual-christmas-message-at-saint-peter-s-square-in-vatican-city.html)  [JSON](/news/2011/12/25/pope-benedict-xvi-delivers-the-annual-christmas-message-at-saint-peter-s-square-in-vatican-city.json)  [XML](/news/2011/12/25/pope-benedict-xvi-delivers-the-annual-christmas-message-at-saint-peter-s-square-in-vatican-city.xml)  
+
 ### [2011-12-25](/news/2011/12/25/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI delivers the annual Christmas message at Saint Peter's Square in Vatican City. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/12/25/world/europe/vatican-pope-christmas/index.html?hpt=hp_t2)
 

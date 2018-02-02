@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/22/armed-robbers-steal-the-edvard-munch-paintings-the-scream-and-madonna-from-the-munch-museum-in-oslo.html)  [JSON](/news/2004/08/22/armed-robbers-steal-the-edvard-munch-paintings-the-scream-and-madonna-from-the-munch-museum-in-oslo.json)  [XML](/news/2004/08/22/armed-robbers-steal-the-edvard-munch-paintings-the-scream-and-madonna-from-the-munch-museum-in-oslo.xml)  
+
 ### [2004-08-22](/news/2004/08/22/index.md)
 
+##### steal
 #  Armed robbers steal the Edvard Munch paintings "The Scream" and "Madonna" from the Munch Museum in Oslo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aftenposten](http://www.aftenposten.no/english/local/article853863.ece)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/3588282.stm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/1/a-member-of-the-board-of-directors-of-major-german-steel-manufacturing-company-thyssenkrupp-ag-says-the-company-is-examining-all-its-optio.html)  [JSON](/news/2006/03/1/a-member-of-the-board-of-directors-of-major-german-steel-manufacturing-company-thyssenkrupp-ag-says-the-company-is-examining-all-its-optio.json)  [XML](/news/2006/03/1/a-member-of-the-board-of-directors-of-major-german-steel-manufacturing-company-thyssenkrupp-ag-says-the-company-is-examining-all-its-optio.xml)  
+
 ### [2006-03-1](/news/2006/03/1/index.md)
 
+##### steel manufacturing
 #  A member of the board of directors of major German steel manufacturing company ThyssenKrupp AG says the company is "examining all its options," and may not complete its proposed acquisition of Canadian steel company Dofasco. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN Money](http://news.moneycentral.msn.com/provider/providerarticle.asp?feed=AP&Date=20060301&ID=5546668)
 

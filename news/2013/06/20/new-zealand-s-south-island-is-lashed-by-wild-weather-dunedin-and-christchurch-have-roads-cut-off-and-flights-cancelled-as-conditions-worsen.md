@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/20/new-zealand-s-south-island-is-lashed-by-wild-weather-dunedin-and-christchurch-have-roads-cut-off-and-flights-cancelled-as-conditions-worsen.html)  [JSON](/news/2013/06/20/new-zealand-s-south-island-is-lashed-by-wild-weather-dunedin-and-christchurch-have-roads-cut-off-and-flights-cancelled-as-conditions-worsen.json)  [XML](/news/2013/06/20/new-zealand-s-south-island-is-lashed-by-wild-weather-dunedin-and-christchurch-have-roads-cut-off-and-flights-cancelled-as-conditions-worsen.xml)  
+
 ### [2013-06-20](/news/2013/06/20/index.md)
 
+##### South Island
 # New Zealand's South Island is lashed by wild weather. Dunedin and Christchurch have roads cut off and flights cancelled as conditions worsen. Heavy snow and flooding is reported in parts of Canterbury, Otago and Southland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Stuff NZ](http://www.stuff.co.nz/national/8823168/Snow-falls-in-Christchurch-Dunedin)
 1. [Cover Image](https://static2.stuff.co.nz/1371765318/659/8824659.jpg)

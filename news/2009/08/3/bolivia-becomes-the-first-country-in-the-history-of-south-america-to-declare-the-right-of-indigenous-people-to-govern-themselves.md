@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/3/bolivia-becomes-the-first-country-in-the-history-of-south-america-to-declare-the-right-of-indigenous-people-to-govern-themselves.html)  [JSON](/news/2009/08/3/bolivia-becomes-the-first-country-in-the-history-of-south-america-to-declare-the-right-of-indigenous-people-to-govern-themselves.json)  [XML](/news/2009/08/3/bolivia-becomes-the-first-country-in-the-history-of-south-america-to-declare-the-right-of-indigenous-people-to-govern-themselves.xml)  
+
 ### [2009-08-3](/news/2009/08/3/index.md)
 
+##### Bolivia
 #  Bolivia becomes the first country in the history of South America to declare the right of indigenous people to govern themselves. 
 
 Bolivia has become the first country in the history of South America to declare the right of indigenous people to govern themselves. The country&#039;s first indigenous president, Evo Morales, launched his so-called &#147;indigenous autonomy&#148; policy in the eastern lowlands.
 
 
-### Source:
+### Sources:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/03/bolivian-president-morales-launches-the-indigenous-autonomy)
 1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19705/200x200/433ad42a1bd664e33f91fc5cab845e66.jpg)

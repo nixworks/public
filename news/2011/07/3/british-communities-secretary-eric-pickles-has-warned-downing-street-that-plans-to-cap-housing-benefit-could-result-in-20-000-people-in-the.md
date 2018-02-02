@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/3/british-communities-secretary-eric-pickles-has-warned-downing-street-that-plans-to-cap-housing-benefit-could-result-in-20-000-people-in-the.html)  [JSON](/news/2011/07/3/british-communities-secretary-eric-pickles-has-warned-downing-street-that-plans-to-cap-housing-benefit-could-result-in-20-000-people-in-the.json)  [XML](/news/2011/07/3/british-communities-secretary-eric-pickles-has-warned-downing-street-that-plans-to-cap-housing-benefit-could-result-in-20-000-people-in-the.xml)  
+
 ### [2011-07-3](/news/2011/07/3/index.md)
 
+##### British Communities Secretary
 # British Communities Secretary Eric Pickles has warned Downing Street that plans to cap Housing Benefit could result in 20,000 people in the UK being made homeless. 
 
 A government department warned Downing Street that a flagship policy to cap benefits could result in 20,000 people being made homeless, a situation Labour says is &quot;not good enough&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14004551)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53829000/jpg/_53829949_kh7zt2ox.jpg)

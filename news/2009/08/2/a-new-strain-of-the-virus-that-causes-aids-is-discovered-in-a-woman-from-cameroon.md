@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/2/a-new-strain-of-the-virus-that-causes-aids-is-discovered-in-a-woman-from-cameroon.html)  [JSON](/news/2009/08/2/a-new-strain-of-the-virus-that-causes-aids-is-discovered-in-a-woman-from-cameroon.json)  [XML](/news/2009/08/2/a-new-strain-of-the-virus-that-causes-aids-is-discovered-in-a-woman-from-cameroon.xml)  
+
 ### [2009-08-2](/news/2009/08/2/index.md)
 
+##### AIDS
 #  A new strain of the virus that causes AIDS is discovered in a woman from Cameroon. 
 
 A new strain of the virus that causes AIDS has been discovered in a woman from the African nation of Cameroon and it appears to be similar to strains recently found in wild gorillas.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/32258847/ns/health-aids/)
 1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)

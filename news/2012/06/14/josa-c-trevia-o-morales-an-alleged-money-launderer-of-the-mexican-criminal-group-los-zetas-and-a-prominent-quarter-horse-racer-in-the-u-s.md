@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/14/josa-c-trevia-o-morales-an-alleged-money-launderer-of-the-mexican-criminal-group-los-zetas-and-a-prominent-quarter-horse-racer-in-the-u-s.html)  [JSON](/news/2012/06/14/josa-c-trevia-o-morales-an-alleged-money-launderer-of-the-mexican-criminal-group-los-zetas-and-a-prominent-quarter-horse-racer-in-the-u-s.json)  [XML](/news/2012/06/14/josa-c-trevia-o-morales-an-alleged-money-launderer-of-the-mexican-criminal-group-los-zetas-and-a-prominent-quarter-horse-racer-in-the-u-s.xml)  
+
 ### [2012-06-14](/news/2012/06/14/index.md)
 
+##### Jose Trevino Morales
 # Jose Trevino Morales, an alleged money launderer of the Mexican criminal group Los Zetas and a prominent quarter horse racer in the U.S., is arrested in Lexington, Oklahoma. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://espn.go.com/horse-racing/story/_/id/7972979/drug-cartel-linked-quarter-horse-operation)
 1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)

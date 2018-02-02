@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/19/two-chinese-workers-are-kidnapped-from-a-controversial-copper-mine-in-burma-by-activists.html)  [JSON](/news/2014/05/19/two-chinese-workers-are-kidnapped-from-a-controversial-copper-mine-in-burma-by-activists.json)  [XML](/news/2014/05/19/two-chinese-workers-are-kidnapped-from-a-controversial-copper-mine-in-burma-by-activists.xml)  
+
 ### [2014-05-19](/news/2014/05/19/index.md)
 
+##### Chinese
 # Two Chinese workers are kidnapped from a controversial copper mine in Burma by activists. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/f70471f764144b2fab526d39972d37b3/Article_2014-05-19-Myanmar-Copper%20Mine%20Kidnappings/id-4651632677a74ea59cebff626b3038c6)
 

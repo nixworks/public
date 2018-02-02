@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/11/belgian-police-arrest-two-leaders-of-the-vlaams-belang-party-frank-vanhecke-and-filip-dewinter-as-well-as-dozens-of-party-supporters-duri.html)  [JSON](/news/2007/09/11/belgian-police-arrest-two-leaders-of-the-vlaams-belang-party-frank-vanhecke-and-filip-dewinter-as-well-as-dozens-of-party-supporters-duri.json)  [XML](/news/2007/09/11/belgian-police-arrest-two-leaders-of-the-vlaams-belang-party-frank-vanhecke-and-filip-dewinter-as-well-as-dozens-of-party-supporters-duri.xml)  
+
 ### [2007-09-11](/news/2007/09/11/index.md)
 
+##### Belgium
 #  Belgian police arrest two leaders of the Vlaams Belang party, Frank Vanhecke and Filip Dewinter, as well as dozens of party supporters during a banned march in Brussels against the "Islamisation of Europe". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6989581.stm)
 

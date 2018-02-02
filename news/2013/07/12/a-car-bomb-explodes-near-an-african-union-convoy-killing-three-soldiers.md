@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/12/a-car-bomb-explodes-near-an-african-union-convoy-killing-three-soldiers.html)  [JSON](/news/2013/07/12/a-car-bomb-explodes-near-an-african-union-convoy-killing-three-soldiers.json)  [XML](/news/2013/07/12/a-car-bomb-explodes-near-an-african-union-convoy-killing-three-soldiers.xml)  
+
 ### [2013-07-12](/news/2013/07/12/index.md)
 
+##### 
 # A car bomb explodes near an African Union convoy killing three soldiers. 
 
 MOGADISHU, July 12 - At least three people were killed Friday when a car bomb targeting a convoy of African Union troops exploded on a major street in the - Kenya breaking news | Kenya news today | Capitalfm.co.ke
 
 
-### Source:
+### Sources:
 
 1. [Capital FM Kenya](http://www.capitalfm.co.ke/news/2013/07/three-dead-in-attack-on-african-troops-in-mogadishu/)
 1. [Cover Image](http://www.capitalfm.co.ke/news/files/2013/07/UN-ATTACK-MOGADISHU.jpg)

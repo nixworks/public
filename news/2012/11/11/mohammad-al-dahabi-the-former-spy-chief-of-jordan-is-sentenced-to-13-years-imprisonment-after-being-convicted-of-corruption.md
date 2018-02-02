@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2012/11/11/mohammad-al-dahabi-the-former-spy-chief-of-jordan-is-sentenced-to-13-years-imprisonment-after-being-convicted-of-corruption.html)  [JSON](/news/2012/11/11/mohammad-al-dahabi-the-former-spy-chief-of-jordan-is-sentenced-to-13-years-imprisonment-after-being-convicted-of-corruption.json)  [XML](/news/2012/11/11/mohammad-al-dahabi-the-former-spy-chief-of-jordan-is-sentenced-to-13-years-imprisonment-after-being-convicted-of-corruption.xml)  
+
 ### [2012-11-11](/news/2012/11/11/index.md)
 
+##### Jordan
 # Mohammad al-Dahabi, the former spy chief of Jordan, is sentenced to 13 years imprisonment after being convicted of corruption. 
 
 Mohammad al-Dahabi found guilty of embezzlement and abuse of office and fined $30m.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/11/2012111173524308960.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/2/9/20122920495580734_20.jpg)
 
 ### Related:
 
-1. [The Peruvian Pedro Pablo Kuczynski Administration, through the Ministry of Justice, appoints a new head to the Direction of Presidential Graces, which is believed to be a first step towards granting a pardon to 79-year-old former president Alberto Fujimori (1990-2000), although President Kuczynski has denied it. In April 2009, a three-judge panel had sentenced Fujimori for acts of corruption, human rights violations, and various others crimes. Fujimori, who has been in jail since 2007 and whose health has deteriorated, including alleged tongue cancer, has applied for a pardon unsuccessfully on two occasions. ](/news/2017/10/11/the-peruvian-pedro-pablo-kuczynski-administration-through-the-ministry-of-justice-appoints-a-new-head-to-the-direction-of-presidential-gra.md) _Context: corruption_
+1. [U.S. President Donald Trump recognizes Jerusalem as the capital of Israel and says the U.S. starts the process of moving its embassy from Tel Aviv to Jerusalem. The United States Department of State issues an internal travel warning to Israel, Jerusalem and the West Bank until December 20. The U.S. embassy in Amman temporarily suspends routine public services and stops embassy travel around Jordan. Embassies in Berlin and London issue vigilance warnings to U.S. citizens. ](/news/2017/12/6/u-s-president-donald-trump-recognizes-jerusalem-as-the-capital-of-israel-and-says-the-u-s-starts-the-process-of-moving-its-embassy-from-te.md) _Context: Jordan_
 2. [Jordanian authorities release a video of a Jordanian Air Force sergeant shooting United States soldiers. ](/news/2017/07/25/jordanian-authorities-release-a-video-of-a-jordanian-air-force-sergeant-shooting-united-states-soldiers.md) _Context: Jordan_
 3. [Israel's embassy staff in Jordan, including a security guard involved in a shooting incident in which two Jordanians were killed yesterday, return to Israel from Amman. Israeli Prime Minister Benjamin Netanyahu thanked U.S. President Donald Trump and Jordan's King Abdullah for their help and cooperation. ](/news/2017/07/24/israel-s-embassy-staff-in-jordan-including-a-security-guard-involved-in-a-shooting-incident-in-which-two-jordanians-were-killed-yesterday.md) _Context: Jordan_
 4. [A shooting at the Israeli embassy in Amman, Jordan, leaves one person, a Jordanian, dead, and an Israeli and a Jordanian wounded. There is speculation the attack may be linked to recent events at Jerusalem's Al-Aqsa Mosque. Another Jordanian man was killed inadvertently. ](/news/2017/07/23/a-shooting-at-the-israeli-embassy-in-amman-jordan-leaves-one-person-a-jordanian-dead-and-an-israeli-and-a-jordanian-wounded-there-is-s.md) _Context: Jordan_

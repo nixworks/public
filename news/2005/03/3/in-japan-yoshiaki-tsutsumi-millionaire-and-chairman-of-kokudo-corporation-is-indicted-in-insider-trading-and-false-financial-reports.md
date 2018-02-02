@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/3/in-japan-yoshiaki-tsutsumi-millionaire-and-chairman-of-kokudo-corporation-is-indicted-in-insider-trading-and-false-financial-reports.html)  [JSON](/news/2005/03/3/in-japan-yoshiaki-tsutsumi-millionaire-and-chairman-of-kokudo-corporation-is-indicted-in-insider-trading-and-false-financial-reports.json)  [XML](/news/2005/03/3/in-japan-yoshiaki-tsutsumi-millionaire-and-chairman-of-kokudo-corporation-is-indicted-in-insider-trading-and-false-financial-reports.xml)  
+
 ### [2005-03-3](/news/2005/03/3/index.md)
 
+##### Yoshiaki Tsutsumi
 #  In Japan, Yoshiaki Tsutsumi, millionaire and chairman of Kokudo Corporation, is indicted in insider trading and false financial reports 
 
 The Asahi Shimbun is widely regarded for its journalism as the most respected daily newspaper in Japan. The English version offers selected articles from the vernacular Asahi Shimbun, as well as extensive coverage of cool Japan,focusing on manga, travel and other timely news
 
 
-### Source:
+### Sources:
 
 1. [Asahi Shimbun](http://www.asahi.com/english/nation/TKY200503010170.html)
 2. [Daily Yomiuri](http://www.yomiuri.co.jp/newse/20050303wo21.htm)

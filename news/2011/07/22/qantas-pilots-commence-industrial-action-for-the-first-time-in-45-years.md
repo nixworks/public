@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/22/qantas-pilots-commence-industrial-action-for-the-first-time-in-45-years.html)  [JSON](/news/2011/07/22/qantas-pilots-commence-industrial-action-for-the-first-time-in-45-years.json)  [XML](/news/2011/07/22/qantas-pilots-commence-industrial-action-for-the-first-time-in-45-years.xml)  
+
 ### [2011-07-22](/news/2011/07/22/index.md)
 
+##### Qantas
 # Qantas pilots commence industrial action for the first time in 45 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The West Australian](http://au.news.yahoo.com/thewest/a/-/world/9896114/qantas-pilots-begin-rare-industrial-action/)
 

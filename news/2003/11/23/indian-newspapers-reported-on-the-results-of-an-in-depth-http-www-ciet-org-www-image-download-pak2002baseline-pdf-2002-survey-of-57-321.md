@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/23/indian-newspapers-reported-on-the-results-of-an-in-depth-http-www-ciet-org-www-image-download-pak2002baseline-pdf-2002-survey-of-57-321.html)  [JSON](/news/2003/11/23/indian-newspapers-reported-on-the-results-of-an-in-depth-http-www-ciet-org-www-image-download-pak2002baseline-pdf-2002-survey-of-57-321.json)  [XML](/news/2003/11/23/indian-newspapers-reported-on-the-results-of-an-in-depth-http-www-ciet-org-www-image-download-pak2002baseline-pdf-2002-survey-of-57-321.xml)  
+
 ### [2003-11-23](/news/2003/11/23/index.md)
 
+##### districts
 #  Indian newspapers reported on the results of an in-depth [http:--www.ciet.org-www-image-download-Pak2002baseline.pdf 2002 survey] of 57,321 Pakistanis in 89 districts of Pakistan. Although the survey was primarily concerned with the performance of local governments, the newspapers mischaracterized its results as the "utter dissatisfaction" of Pakistanis with the government of Pakistani president Pervez Musharraf.
 
 

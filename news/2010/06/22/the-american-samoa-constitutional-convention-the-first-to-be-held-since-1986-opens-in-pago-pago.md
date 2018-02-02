@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/22/the-american-samoa-constitutional-convention-the-first-to-be-held-since-1986-opens-in-pago-pago.html)  [JSON](/news/2010/06/22/the-american-samoa-constitutional-convention-the-first-to-be-held-since-1986-opens-in-pago-pago.json)  [XML](/news/2010/06/22/the-american-samoa-constitutional-convention-the-first-to-be-held-since-1986-opens-in-pago-pago.xml)  
+
 ### [2010-06-22](/news/2010/06/22/index.md)
 
+##### American Samoa
 # The American Samoa Constitutional Convention, the first to be held since 1986, opens in Pago Pago. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand International](http://www.rnzi.com/pages/news.php?op=read&id=54301)
 

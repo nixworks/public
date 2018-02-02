@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/13/self-confessed-cannibal-yoo-young-chul-convicted-of-killing-20-people-mostly-prostitutes-is-sentenced-to-death-in-seoul-south-korea.html)  [JSON](/news/2004/12/13/self-confessed-cannibal-yoo-young-chul-convicted-of-killing-20-people-mostly-prostitutes-is-sentenced-to-death-in-seoul-south-korea.json)  [XML](/news/2004/12/13/self-confessed-cannibal-yoo-young-chul-convicted-of-killing-20-people-mostly-prostitutes-is-sentenced-to-death-in-seoul-south-korea.xml)  
+
 ### [2004-12-13](/news/2004/12/13/index.md)
 
+##### cannibal
 #  Self-confessed cannibal Yoo Young-Chul, convicted of killing 20 people, mostly prostitutes, is sentenced to death in Seoul, South Korea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2004-12/13/content_2329625.htm)
 

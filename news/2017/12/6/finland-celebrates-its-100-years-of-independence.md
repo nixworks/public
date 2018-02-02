@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/6/finland-celebrates-its-100-years-of-independence
 
 ### [2017-12-6](/news/2017/12/6/index.md)
 
+##### Finland
 # Finland celebrates its 100 years of independence. 
 
 Finland&amp;#039;s main official centenary celebrations are in Helsinki and Kuopio.

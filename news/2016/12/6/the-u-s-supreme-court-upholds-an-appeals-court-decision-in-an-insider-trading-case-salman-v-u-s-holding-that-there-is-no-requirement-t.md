@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/6/the-u-s-supreme-court-upholds-an-appeals-court-d
 
 ### [2016-12-6](/news/2016/12/6/index.md)
 
+##### U.S. Supreme Court
 #  The U.S. Supreme Court upholds an appeals court decision in an insider trading case, Salman v. U.S., holding that there is no requirement that a tipper receive any pecuniary consideration for a breach of faith in order to predicate the prosecution of the tippee. 
 
 Bassam Salman, a Chicago grocery wholesaler, received stock tips from a friend, who had in turn received inside information from Salman’s brother-in-law, an investment banker at Citigroup. Salman made hundreds of thousands of dollars from the tips, but he was also charged with insider trading and se

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/23/president-of-venezuela-hugo-cha-vez-confirms-he-is-still-alive.html)  [JSON](/news/2012/04/23/president-of-venezuela-hugo-cha-vez-confirms-he-is-still-alive.json)  [XML](/news/2012/04/23/president-of-venezuela-hugo-cha-vez-confirms-he-is-still-alive.xml)  
+
 ### [2012-04-23](/news/2012/04/23/index.md)
 
+##### President
 # President of Venezuela Hugo Chavez confirms he is still alive. 
 
 Venezuelan President Hugo Chavez phones state TV to deny rumours he has died while undergoing radiotherapy in Cuba for a malignant tumour.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-17821120)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59819000/jpg/_59819212_chavez2.jpg)

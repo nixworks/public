@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/2/the-syrian-army-and-its-allies-recapture-the-anc
 
 ### [2017-03-2](/news/2017/03/2/index.md)
 
+##### Syrian Civil War
 # The Syrian Army and its allies recapture the ancient city of Palmyra from the Islamic State of Iraq and the Levant. 
 
  The Syrian opposition declined to congratulate Syrian President Bashar al-Assad on retaking historic Palmyra from Islamic State militants on Thursday and sugge

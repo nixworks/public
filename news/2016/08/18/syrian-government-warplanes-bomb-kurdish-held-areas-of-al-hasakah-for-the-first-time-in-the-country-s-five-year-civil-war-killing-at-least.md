@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/18/syrian-government-warplanes-bomb-kurdish-held-a
 
 ### [2016-08-18](/news/2016/08/18/index.md)
 
+##### Syrian civil war
 # Syrian government warplanes bomb Kurdish-held areas of Al-Hasakah for the first time in the country's five-year civil war, killing at least 13 people. 
 
 Syrian government jets reportedly bomb Kurdish-held areas of the north-eastern city of Hassakeh for the first time since the civil war began in 2011.
@@ -21,8 +22,8 @@ Syrian government jets reportedly bomb Kurdish-held areas of the north-eastern c
 
 ### Related:
 
-1. [A suspected female suicide bomber kills at least 20 people at a Kurdish wedding in the Syrian city of Al-Hasakah. ](/news/2016/10/3/a-suspected-female-suicide-bomber-kills-at-least-20-people-at-a-kurdish-wedding-in-the-syrian-city-of-al-hasakah.md) _Context: Al-Hasakah, Kurdish, Syrian Civil War_
-2. [Suspected Syrian or Russian warplanes conduct airstrikes on a residential area and a school in Haas village in rebel-held Idlib Governorate, killing at least 26 civilians, most of them children. ](/news/2016/10/26/suspected-syrian-or-russian-warplanes-conduct-airstrikes-on-a-residential-area-and-a-school-in-haas-village-in-rebel-held-idlib-governorate.md) _Context: Syrian, Syrian Civil War_
-3. [Several bombings kill at least 40 people in government and Kurdish held territory across Syria, including Tartus, Homs, Al-Hasakah and Damascus. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/09/5/several-bombings-kill-at-least-40-people-in-government-and-kurdish-held-territory-across-syria-including-tartus-homs-al-hasakah-and-damas.md) _Context: Al-Hasakah, Syrian Civil War_
-4. [Amaq News Agency claims ISIL is responsible for shooting down a Syrian Air Force fighter jet over Deir ez-Zor. The London-based SOHR says the MiG pilot was killed. ](/news/2016/09/18/amaq-news-agency-claims-isil-is-responsible-for-shooting-down-a-syrian-air-force-fighter-jet-over-deir-ez-zor-the-london-based-sohr-says-th.md) _Context: Syrian, Syrian Civil War_
-5. [Syrian government airstrikes in Damascus kill at least 30 people. According to the rebels, the airstrikes were revenge for the killing of a Syrian Air Force pilot by Al-Nusra Front yesterday. The airstrikes reportedly targeted a medical centre and a school. ](/news/2016/07/2/syrian-government-airstrikes-in-damascus-kill-at-least-30-people-according-to-the-rebels-the-airstrikes-were-revenge-for-the-killing-of-a.md) _Context: Syrian, Syrian Civil War_
+1. [A suspected female suicide bomber kills at least 20 people at a Kurdish wedding in the Syrian city of Al-Hasakah. ](/news/2016/10/3/a-suspected-female-suicide-bomber-kills-at-least-20-people-at-a-kurdish-wedding-in-the-syrian-city-of-al-hasakah.md) _Context: Al-Hasakah, Syrian Kurdish, Syrian civil war_
+2. [Several bombings kill at least 40 people in government and Kurdish held territory across Syria, including Tartus, Homs, Al-Hasakah and Damascus. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/09/5/several-bombings-kill-at-least-40-people-in-government-and-kurdish-held-territory-across-syria-including-tartus-homs-al-hasakah-and-damas.md) _Context: Al-Hasakah, Syrian civil war_
+3. [Amaq News Agency claims ISIL is responsible for shooting down a Syrian Air Force fighter jet over Deir ez-Zor. The London-based SOHR says the MiG pilot was killed. ](/news/2016/09/18/amaq-news-agency-claims-isil-is-responsible-for-shooting-down-a-syrian-air-force-fighter-jet-over-deir-ez-zor-the-london-based-sohr-says-th.md) _Context: Syrian, Syrian civil war_
+4. [With a cross-border artillery bombardment into the Afrin Canton, Turkey starts its announced military campaign to "destroy" the Syrian Kurdish YPG group. ](/news/2018/01/19/with-a-cross-border-artillery-bombardment-into-the-afrin-canton-turkey-starts-its-announced-military-campaign-to-destroy-the-syrian-kurdi.md) _Context: Syrian Kurdish_
+5. [Russia vetoes a French-drafted United Nations Security Council resolution that calls for a ceasefire in Aleppo. China, which had backed Russia's four previous Syria-related vetoes, abstains. ](/news/2016/10/8/russia-vetoes-a-french-drafted-united-nations-security-council-resolution-that-calls-for-a-ceasefire-in-aleppo-china-which-had-backed-russ.md) _Context: Syrian civil war_

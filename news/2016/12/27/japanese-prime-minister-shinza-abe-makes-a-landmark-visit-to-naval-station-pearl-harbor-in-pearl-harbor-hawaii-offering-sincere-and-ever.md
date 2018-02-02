@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/27/japanese-prime-minister-shinza-abe-makes-a-land
 
 ### [2016-12-27](/news/2016/12/27/index.md)
 
+##### Japan-United States relations
 # Japanese Prime Minister Shinzo Abe makes a landmark visit to Naval Station Pearl Harbor in Pearl Harbor, Hawaii, offering "sincere and everlasting condolences" to the victims of the attack on Pearl Harbor by the Japanese empire on December 7, 1941. 
 
 

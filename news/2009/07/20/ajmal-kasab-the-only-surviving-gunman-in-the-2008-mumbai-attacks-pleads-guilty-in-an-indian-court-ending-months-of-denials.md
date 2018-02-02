@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/20/ajmal-kasab-the-only-surviving-gunman-in-the-2008-mumbai-attacks-pleads-guilty-in-an-indian-court-ending-months-of-denials.html)  [JSON](/news/2009/07/20/ajmal-kasab-the-only-surviving-gunman-in-the-2008-mumbai-attacks-pleads-guilty-in-an-indian-court-ending-months-of-denials.json)  [XML](/news/2009/07/20/ajmal-kasab-the-only-surviving-gunman-in-the-2008-mumbai-attacks-pleads-guilty-in-an-indian-court-ending-months-of-denials.xml)  
+
 ### [2009-07-20](/news/2009/07/20/index.md)
 
+##### Ajmal Kasab
 #  Ajmal Kasab, the only surviving gunman in the 2008 Mumbai attacks, pleads guilty in an Indian court, ending months of denials. 
 
 &quot;I plead guilty,&quot; the 22-year-old Pakistani national told the Special Court trying him for various charges including the shooting in the CST railway station.
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5h-FQ9r8hIkUyO-Due8L-6RbmTwGQD99I44PG0)
 2. [The Times of India](http://timesofindia.indiatimes.com/NEWS/India/Kasab-confesses-to-role-in-Mumbai-attacks/articleshow/4799086.cms)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/24/hilltop-26-an-illegal-israeli-settlement-in-the-west-bank-was-dismantled-by-the-israel-defense-forces.html)  [JSON](/news/2003/03/24/hilltop-26-an-illegal-israeli-settlement-in-the-west-bank-was-dismantled-by-the-israel-defense-forces.json)  [XML](/news/2003/03/24/hilltop-26-an-illegal-israeli-settlement-in-the-west-bank-was-dismantled-by-the-israel-defense-forces.xml)  
+
 ### [2003-03-24](/news/2003/03/24/index.md)
 
+##### Hilltop 26
 #  Hilltop 26, an illegal Israeli settlement in the West Bank, was dismantled by the Israel Defense Forces.
 
 

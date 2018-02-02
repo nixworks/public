@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/4/a-suicide-attack-kills-4-people-a-paramilitary-commander-sifwat-ghuyur-and-three-bodyguards-in-peshawar.html)  [JSON](/news/2010/08/4/a-suicide-attack-kills-4-people-a-paramilitary-commander-sifwat-ghuyur-and-three-bodyguards-in-peshawar.json)  [XML](/news/2010/08/4/a-suicide-attack-kills-4-people-a-paramilitary-commander-sifwat-ghuyur-and-three-bodyguards-in-peshawar.xml)  
+
 ### [2010-08-4](/news/2010/08/4/index.md)
 
+##### Peshawar
 # A suicide attack kills 4 people, a paramilitary commander Sifwat Ghuyur and three bodyguards, in Peshawar. 
 
 Head of paramilitary police force and three others killed near market in Peshawar.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201084123328444711.html)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-10868474)

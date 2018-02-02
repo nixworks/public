@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/6/a-french-investigation-finds-that-andreas-lubitz-perpetrator-copilot-of-the-murder-suicide-disaster-of-germanwings-flight-9525-had-practise.html)  [JSON](/news/2015/05/6/a-french-investigation-finds-that-andreas-lubitz-perpetrator-copilot-of-the-murder-suicide-disaster-of-germanwings-flight-9525-had-practise.json)  [XML](/news/2015/05/6/a-french-investigation-finds-that-andreas-lubitz-perpetrator-copilot-of-the-murder-suicide-disaster-of-germanwings-flight-9525-had-practise.xml)  
+
 ### [2015-05-6](/news/2015/05/6/index.md)
 
+##### Germanwings Flight 9525
 # A French investigation finds that Andreas Lubitz, perpetrator copilot of the murder-suicide disaster of Germanwings Flight 9525 had practised rapid descent on a previous flight. 
 
 The co-pilot of the Germanwings plane that crashed in the French Alps appears to have practised a rapid descent on a previous flight, investigators say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-32604552)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82103000/jpg/_82103263_9750teuf.jpg)

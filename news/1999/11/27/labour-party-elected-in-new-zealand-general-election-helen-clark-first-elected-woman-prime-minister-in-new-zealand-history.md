@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/11/27/labour-party-elected-in-new-zealand-general-election-helen-clark-first-elected-woman-prime-minister-in-new-zealand-history.html)  [JSON](/news/1999/11/27/labour-party-elected-in-new-zealand-general-election-helen-clark-first-elected-woman-prime-minister-in-new-zealand-history.json)  [XML](/news/1999/11/27/labour-party-elected-in-new-zealand-general-election-helen-clark-first-elected-woman-prime-minister-in-new-zealand-history.xml)  
+
 ### [1999-11-27](/news/1999/11/27/index.md)
 
+##### Labour Party
 #  Labour Party elected in New Zealand general election. Helen Clark first Elected Woman Prime Minister in New Zealand History.
 
 

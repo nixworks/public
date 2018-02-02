@@ -1,17 +1,27 @@
+
+Formats: [HTML](/news/2006/10/9/the-korean-central-news-agency-of-north-korea-reports-that-the-nation-has-tested-its-first-nuclear-weapon-in-an-underground-facility-at-gil.html)  [JSON](/news/2006/10/9/the-korean-central-news-agency-of-north-korea-reports-that-the-nation-has-tested-its-first-nuclear-weapon-in-an-underground-facility-at-gil.json)  [XML](/news/2006/10/9/the-korean-central-news-agency-of-north-korea-reports-that-the-nation-has-tested-its-first-nuclear-weapon-in-an-underground-facility-at-gil.xml)  
+
 ### [2006-10-9](/news/2006/10/9/index.md)
 
+##### Korean Central News Agency
 #  The Korean Central News Agency of North Korea reports that the nation has tested its first nuclear weapon in an underground facility at Gilju in North Hamgyong province. This report was at least somewhat confirmed by a seismic event that was measured around the world. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABS_CBN](http://www.abs-cbnnews.com/storypage.aspx?StoryId=52607)
 2. [AP](http://www.cnn.com/2006/WORLD/asiapcf/10/08/korea.nuclear.test.ap/index.html)
 3. [Adelaide Now](http://www.news.com.au/adelaidenow/story/0,22606,20548728-5006301,00.html)
 4. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/6034873.stm)
 5. [The Australian](http://www.theaustralian.news.com.au/story/0,20867,20549542-23109,00.html)
+
+### Changes:
+
+1. [ 2006 North Korean nuclear testing The Korean Central News Agency of North Korea reports that the nation has tested its first nuclear weapon in an underground facility at Gilju in North Hamgyong province. This report was at least somewhat confirmed by a seismic event that was measured around the world. ](/news/2006/10/9/2006-north-korean-nuclear-testingp-the-korean-central-news-agency-of-north-korea-reports-that-the-nation-has-tested-its-first-nuclear-weapo.md) _2017-08-25 03:18:33 (First version)_
+2. [ 2006 North Korean nuclear testing: The Korean Central News Agency of North Korea reports that the nation has tested its first nuclear weapon in an underground facility at Gilju in North Hamgyong province. This report was at least somewhat confirmed by a seismic event that was measured around the world. ](/news/2006/10/9/2006-north-korean-nuclear-testing-the-korean-central-news-agency-of-north-korea-reports-that-the-nation-has-tested-its-first-nuclear-weapo.md) _2017-08-27 03:18:27 (Update)_
+2. [ The Korean Central News Agency of North Korea reports that the nation has tested its first nuclear weapon in an underground facility at Gilju in North Hamgyong province. This report was at least somewhat confirmed by a seismic event that was measured around the world. ](/news/2006/10/9/the-korean-central-news-agency-of-north-korea-reports-that-the-nation-has-tested-its-first-nuclear-weapon-in-an-underground-facility-at-gil.md) _(Current version)_
 
 ### Related:
 
@@ -20,9 +30,3 @@
 3. [North Korea's supreme leader Kim Jong-un says his country will soon conduct a nuclear warhead test and test launch ballistic missiles capable of carrying nuclear warheads, according to North Korea's state media. ](/news/2016/03/14/north-korea-s-supreme-leader-kim-jong-un-says-his-country-will-soon-conduct-a-nuclear-warhead-test-and-test-launch-ballistic-missiles-capabl.md) _Context: Korean Central News Agency, North Korea_
 4. [North Korea's state media says Kim Yang-gon, a top aide to supreme leader Kim Jong-un and secretary of the ruling Workers' Party of Korea (WPK), who was also in charge of ties with South Korea, dies in a car crash. ](/news/2015/12/29/north-korea-s-state-media-says-kim-yang-gon-a-top-aide-to-supreme-leader-kim-jong-un-and-secretary-of-the-ruling-workers-party-of-korea-w.md) _Context: Korean Central News Agency, North Korea_
 5. [Kim Jong-un, the supreme leader of North Korea, announces that the country is now in possession of a hydrogen bomb, according to North Korean state media. Experts from South Korea however are skeptical about this claim. ](/news/2015/12/10/kim-jong-un-the-supreme-leader-of-north-korea-announces-that-the-country-is-now-in-possession-of-a-hydrogen-bomb-according-to-north-korea.md) _Context: Korean Central News Agency, North Korea_
-
-### Changes:
-
-1. [ 2006 North Korean nuclear testing The Korean Central News Agency of North Korea reports that the nation has tested its first nuclear weapon in an underground facility at Gilju in North Hamgyong province. This report was at least somewhat confirmed by a seismic event that was measured around the world. ](/news/2006/10/9/2006-north-korean-nuclear-testingp-the-korean-central-news-agency-of-north-korea-reports-that-the-nation-has-tested-its-first-nuclear-weapo.md) _2017-08-25 03:18:33 (First version)_
-2. [ 2006 North Korean nuclear testing: The Korean Central News Agency of North Korea reports that the nation has tested its first nuclear weapon in an underground facility at Gilju in North Hamgyong province. This report was at least somewhat confirmed by a seismic event that was measured around the world. ](/news/2006/10/9/2006-north-korean-nuclear-testing-the-korean-central-news-agency-of-north-korea-reports-that-the-nation-has-tested-its-first-nuclear-weapo.md) _2017-08-27 03:18:27 (Update)_
-2. [ The Korean Central News Agency of North Korea reports that the nation has tested its first nuclear weapon in an underground facility at Gilju in North Hamgyong province. This report was at least somewhat confirmed by a seismic event that was measured around the world. ](/news/2006/10/9/the-korean-central-news-agency-of-north-korea-reports-that-the-nation-has-tested-its-first-nuclear-weapon-in-an-underground-facility-at-gil.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/14/viviane-reding-a-luxembourg-politician-and-currently-the-european-commissioner-for-justice-fundamental-rights-and-citizenship-describes-f.html)  [JSON](/news/2010/09/14/viviane-reding-a-luxembourg-politician-and-currently-the-european-commissioner-for-justice-fundamental-rights-and-citizenship-describes-f.json)  [XML](/news/2010/09/14/viviane-reding-a-luxembourg-politician-and-currently-the-european-commissioner-for-justice-fundamental-rights-and-citizenship-describes-f.xml)  
+
 ### [2010-09-14](/news/2010/09/14/index.md)
 
+##### Viviane Reding
 # Viviane Reding, a Luxembourg politician and currently the European Commissioner for Justice, Fundamental Rights and Citizenship, describes France's deportation of Romani migrants as a "disgrace". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://www.voanews.com/english/news/europe/EU-French-Roma-Deportations-a-Disgrace--102866964.html)
 

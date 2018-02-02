@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/7/colombia-confirms-the-killing-of-farc-leader-ivan-rios-by-his-chief-of-security.html)  [JSON](/news/2008/03/7/colombia-confirms-the-killing-of-farc-leader-ivan-rios-by-his-chief-of-security.json)  [XML](/news/2008/03/7/colombia-confirms-the-killing-of-farc-leader-ivan-rios-by-his-chief-of-security.xml)  
+
 ### [2008-03-7](/news/2008/03/7/index.md)
 
+##### Colombia
 #  Colombia confirms the killing of FARC leader Ivn Ros by his chief of security. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''International Herald Tribune](http://www.iht.com/articles/ap/2008/03/07/america/LA-GEN-Colombia-Rebels.php)
 

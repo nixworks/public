@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/7/mylan-pays-us-465-million-to-settle-its-underpay
 
 ### [2016-10-7](/news/2016/10/7/index.md)
 
+##### Mylan
 # Mylan pays US$465 million to settle its underpayment to U.S. government healthcare programs by misclassifying its epinephrine autoinjector emergency allergy treatment. 
 
 Mylan NV (MYL.O) on Friday said it will pay $465 million to settle questions of whether it underpaid U.S. government healthcare programs by misclassifying its EpiPen emergency allergy treatment, which has come under intense scrutiny after a series of drastic price increases.

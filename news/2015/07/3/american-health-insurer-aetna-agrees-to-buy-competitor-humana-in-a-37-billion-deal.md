@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/3/american-health-insurer-aetna-agrees-to-buy-competitor-humana-in-a-37-billion-deal.html)  [JSON](/news/2015/07/3/american-health-insurer-aetna-agrees-to-buy-competitor-humana-in-a-37-billion-deal.json)  [XML](/news/2015/07/3/american-health-insurer-aetna-agrees-to-buy-competitor-humana-in-a-37-billion-deal.xml)  
+
 ### [2015-07-3](/news/2015/07/3/index.md)
 
+##### health insurance
 # American health insurer Aetna agrees to buy competitor Humana in a $37 billion deal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_AETNA_HUMANA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

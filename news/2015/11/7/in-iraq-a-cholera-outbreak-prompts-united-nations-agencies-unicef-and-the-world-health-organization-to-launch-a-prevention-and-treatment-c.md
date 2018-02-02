@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/7/in-iraq-a-cholera-outbreak-prompts-united-nations-agencies-unicef-and-the-world-health-organization-to-launch-a-prevention-and-treatment-c.html)  [JSON](/news/2015/11/7/in-iraq-a-cholera-outbreak-prompts-united-nations-agencies-unicef-and-the-world-health-organization-to-launch-a-prevention-and-treatment-c.json)  [XML](/news/2015/11/7/in-iraq-a-cholera-outbreak-prompts-united-nations-agencies-unicef-and-the-world-health-organization-to-launch-a-prevention-and-treatment-c.xml)  
+
 ### [2015-11-7](/news/2015/11/7/index.md)
 
+##### Iraq
 #  In Iraq, a cholera outbreak prompts United Nations agencies UNICEF and the World Health Organization to launch a prevention and treatment campaign. So far, around 2,200 cases have been confirmed, and some infections have occurred in neighboring countries. 
 
 UNICEF and WHO collaborate in major bid to contain disease that risks spiralling in regional epidemic.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera English](http://www.aljazeera.com/news/2015/11/launches-campaign-tackle-iraq-cholera-outbreak-151106142858671.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/11/6/d99d42fc6223409db837d434e2e41931_18.jpg)

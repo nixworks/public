@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/22/journalists-in-yemen-condemn-the-restrictions-on-their-media-coverage-of-the-2011-yemeni-protests.html)  [JSON](/news/2011/03/22/journalists-in-yemen-condemn-the-restrictions-on-their-media-coverage-of-the-2011-yemeni-protests.json)  [XML](/news/2011/03/22/journalists-in-yemen-condemn-the-restrictions-on-their-media-coverage-of-the-2011-yemeni-protests.xml)  
+
 ### [2011-03-22](/news/2011/03/22/index.md)
 
+##### Yemen
 # Journalists in Yemen condemn the restrictions on their media coverage of the 2011 Yemeni protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Arabiya](http://www.alarabiya.net/articles/2011/03/22/142593.html)
 

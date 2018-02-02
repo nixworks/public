@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/11/16/new-york-archbishop-timothy-dolan-is-voted-president-of-the-united-states-conference-of-catholic-bishops.html)  [JSON](/news/2010/11/16/new-york-archbishop-timothy-dolan-is-voted-president-of-the-united-states-conference-of-catholic-bishops.json)  [XML](/news/2010/11/16/new-york-archbishop-timothy-dolan-is-voted-president-of-the-united-states-conference-of-catholic-bishops.xml)  
+
 ### [2010-11-16](/news/2010/11/16/index.md)
 
+##### New York archbishop
 # New York archbishop Timothy Dolan is voted president of the United States Conference of Catholic Bishops. 
 
 Archbishop Timothy M. Dolan of New York will lead the United States Conference of Catholic Bishops.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2010/11/17/us/17bishops.html?_r=1&hp)
+1. [The New York Times](https://www.nytimes.com/2010/11/17/us/17bishops.html?_r=1&hp)
 1. [Cover Image](https://static01.nyt.com/images/2010/11/17/us/17bishop2/17bishop2-thumbStandard.jpg)
 
 ### Related:

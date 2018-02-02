@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/15/at-least-five-people-are-killed-and-10-injured-after-four-coaches-of-the-mangala-lakshadweep-express-derail-near-the-indian-city-of-nashik-i.html)  [JSON](/news/2013/11/15/at-least-five-people-are-killed-and-10-injured-after-four-coaches-of-the-mangala-lakshadweep-express-derail-near-the-indian-city-of-nashik-i.json)  [XML](/news/2013/11/15/at-least-five-people-are-killed-and-10-injured-after-four-coaches-of-the-mangala-lakshadweep-express-derail-near-the-indian-city-of-nashik-i.xml)  
+
 ### [2013-11-15](/news/2013/11/15/index.md)
 
+##### Mangala Lakshadweep Express
 # At least five people are killed and 10 injured after four coaches of the Mangala Lakshadweep Express derail near the Indian city of Nashik in Maharashtra state. 
 
 At least two persons have died and 15 others seriously injured as eight coaches of Hazrat Nizamuddin-Ernakulam Mangala Express derailed this morning, 30 km away from Nashik in Maharashtra.
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/article/india/train-derails-near-nashik-in-maharashtra-4-feared-dead-446314)
 2. [Times of India](http://timesofindia.indiatimes.com/india/At-least-5-killed-10-injured-as-Mangala-Express-derails-near-Nasik/articleshow/25796726.cms)

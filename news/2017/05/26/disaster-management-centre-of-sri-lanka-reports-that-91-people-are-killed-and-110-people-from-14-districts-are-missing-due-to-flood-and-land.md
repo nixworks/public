@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/26/disaster-management-centre-of-sri-lanka-reports
 
 ### [2017-05-26](/news/2017/05/26/index.md)
 
+##### 2017 Sri Lankan flood and landslide
 # Disaster Management Centre of Sri Lanka reports that 91 people are killed and 110 people from 14 districts are missing due to flood and landslide. 
 
 Flooding and mudslides caused by monsoon rains leave at least 91 dead and more than 100 missing.

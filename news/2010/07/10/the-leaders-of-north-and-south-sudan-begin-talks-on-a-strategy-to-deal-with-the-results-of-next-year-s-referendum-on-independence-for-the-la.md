@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/10/the-leaders-of-north-and-south-sudan-begin-talks-on-a-strategy-to-deal-with-the-results-of-next-year-s-referendum-on-independence-for-the-la.html)  [JSON](/news/2010/07/10/the-leaders-of-north-and-south-sudan-begin-talks-on-a-strategy-to-deal-with-the-results-of-next-year-s-referendum-on-independence-for-the-la.json)  [XML](/news/2010/07/10/the-leaders-of-north-and-south-sudan-begin-talks-on-a-strategy-to-deal-with-the-results-of-next-year-s-referendum-on-independence-for-the-la.xml)  
+
 ### [2010-07-10](/news/2010/07/10/index.md)
 
+##### Sudan
 # The leaders of North and South Sudan begin talks on a strategy to deal with the results of next year's referendum on independence for the latter. 
 
 Leaders meet to form strategy to deal with results of referendum on separation.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h7nmD9EzjfpjkcRgh4BE6XXT0C6A)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/07/201071013512424922.html)

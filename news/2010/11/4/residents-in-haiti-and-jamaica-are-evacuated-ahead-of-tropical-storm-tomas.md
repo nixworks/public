@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/4/residents-in-haiti-and-jamaica-are-evacuated-ahead-of-tropical-storm-tomas.html)  [JSON](/news/2010/11/4/residents-in-haiti-and-jamaica-are-evacuated-ahead-of-tropical-storm-tomas.json)  [XML](/news/2010/11/4/residents-in-haiti-and-jamaica-are-evacuated-ahead-of-tropical-storm-tomas.xml)  
+
 ### [2010-11-4](/news/2010/11/4/index.md)
 
+##### Haiti
 # Residents in Haiti and Jamaica are evacuated ahead of Tropical Storm Tomas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/T/TROPICAL_WEATHER?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
 

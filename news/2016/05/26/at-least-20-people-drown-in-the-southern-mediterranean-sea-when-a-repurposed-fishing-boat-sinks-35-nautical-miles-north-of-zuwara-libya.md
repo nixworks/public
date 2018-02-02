@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/26/at-least-20-people-drown-in-the-southern-medite
 
 ### [2016-05-26](/news/2016/05/26/index.md)
 
+##### European migrant crisis
 # At least 20 people drown in the southern Mediterranean Sea when a repurposed fishing boat sinks 35 nautical miles north of Zuwara, Libya. 
 
 Repurposed fishing boat thought to have had Syrians on board sinks off coast of Libya

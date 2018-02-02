@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/26/in-china-the-death-sentence-of-tibetan-lama-tenzin-delek-rinpoche-is-commuted-to-life-imprisonment.html)  [JSON](/news/2005/01/26/in-china-the-death-sentence-of-tibetan-lama-tenzin-delek-rinpoche-is-commuted-to-life-imprisonment.json)  [XML](/news/2005/01/26/in-china-the-death-sentence-of-tibetan-lama-tenzin-delek-rinpoche-is-commuted-to-life-imprisonment.xml)  
+
 ### [2005-01-26](/news/2005/01/26/index.md)
 
+##### Tibet
 #  In China, the death sentence of Tibetan lama Tenzin Delek Rinpoche is commuted to life imprisonment 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4208179.stm)
 2. [Human Rights Watch](http://hrw.org/english/docs/2005/01/25/china10071_txt.htm)

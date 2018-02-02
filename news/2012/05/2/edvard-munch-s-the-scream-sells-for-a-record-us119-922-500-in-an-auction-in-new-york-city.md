@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/2/edvard-munch-s-the-scream-sells-for-a-record-us119-922-500-in-an-auction-in-new-york-city.html)  [JSON](/news/2012/05/2/edvard-munch-s-the-scream-sells-for-a-record-us119-922-500-in-an-auction-in-new-york-city.json)  [XML](/news/2012/05/2/edvard-munch-s-the-scream-sells-for-a-record-us119-922-500-in-an-auction-in-new-york-city.xml)  
+
 ### [2012-05-2](/news/2012/05/2/index.md)
 
+##### Edvard Munch
 # Edvard Munch's "The Scream" sells for a record $US119,922,500 in an auction in New York City. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-business/munchs-the-scream-sold-for-record-120m-20120503-1y0ae.html)
 

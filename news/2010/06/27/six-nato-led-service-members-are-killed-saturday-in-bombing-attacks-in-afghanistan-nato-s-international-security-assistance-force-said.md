@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/27/six-nato-led-service-members-are-killed-saturday-in-bombing-attacks-in-afghanistan-nato-s-international-security-assistance-force-said.html)  [JSON](/news/2010/06/27/six-nato-led-service-members-are-killed-saturday-in-bombing-attacks-in-afghanistan-nato-s-international-security-assistance-force-said.json)  [XML](/news/2010/06/27/six-nato-led-service-members-are-killed-saturday-in-bombing-attacks-in-afghanistan-nato-s-international-security-assistance-force-said.xml)  
+
 ### [2010-06-27](/news/2010/06/27/index.md)
 
+##### NATO
 # Six NATO-led service members are killed Saturday in bombing attacks in Afghanistan, NATO's International Security Assistance Force said. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/06/26/afghanistan.troops.killed/index.html?hpt=T2&fbid=BDmC8Moqwt8)
 

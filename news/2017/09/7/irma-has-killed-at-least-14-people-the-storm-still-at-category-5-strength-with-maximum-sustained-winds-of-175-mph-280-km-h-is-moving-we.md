@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/7/irma-has-killed-at-least-14-people-the-storm-sti
 
 ### [2017-09-7](/news/2017/09/7/index.md)
 
+##### Atlantic hurricanes
 # Irma has killed at least 14 people. The storm, still at Category 5 strength with maximum sustained winds of 175 mph (280 km-h), is moving west-northwest at 16 mph (26 km-h). It has reached the dual-country island of Hispaniola and is forecast to pass over the Turks and Caicos Islands as it heads towards The Bahamas and Cuba. The eye did not directly hit Puerto Rico; still casualties are reported and around two-thirds of its 3.4 million population are without electricity. 
 
 (In Sept. 13 item, updates to correct spelling of the last name of Michael Beason from Benson, in 19th paragraph and throughout)

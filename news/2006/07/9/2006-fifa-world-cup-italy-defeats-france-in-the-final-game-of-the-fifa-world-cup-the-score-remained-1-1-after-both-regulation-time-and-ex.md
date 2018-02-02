@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/9/2006-fifa-world-cup-italy-defeats-france-in-the-final-game-of-the-fifa-world-cup-the-score-remained-1-1-after-both-regulation-time-and-ex.html)  [JSON](/news/2006/07/9/2006-fifa-world-cup-italy-defeats-france-in-the-final-game-of-the-fifa-world-cup-the-score-remained-1-1-after-both-regulation-time-and-ex.json)  [XML](/news/2006/07/9/2006-fifa-world-cup-italy-defeats-france-in-the-final-game-of-the-fifa-world-cup-the-score-remained-1-1-after-both-regulation-time-and-ex.xml)  
+
 ### [2006-07-9](/news/2006/07/9/index.md)
 
+##### French
 #  2006 FIFA World Cup: Italy defeats France in the final game of the FIFA World Cup. The score remained 1-1 after both regulation time and extra time; however, Italy won 5-3 in penalty kicks. The match is marred by the dismissal of Zinedine Zidane in the second period of Extra Time. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/sport/content/200607/s1682264.htm)
 

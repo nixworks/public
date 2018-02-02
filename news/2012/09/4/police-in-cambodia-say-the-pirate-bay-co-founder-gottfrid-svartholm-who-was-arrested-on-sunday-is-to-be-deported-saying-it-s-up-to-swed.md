@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/4/police-in-cambodia-say-the-pirate-bay-co-founder-gottfrid-svartholm-who-was-arrested-on-sunday-is-to-be-deported-saying-it-s-up-to-swed.html)  [JSON](/news/2012/09/4/police-in-cambodia-say-the-pirate-bay-co-founder-gottfrid-svartholm-who-was-arrested-on-sunday-is-to-be-deported-saying-it-s-up-to-swed.json)  [XML](/news/2012/09/4/police-in-cambodia-say-the-pirate-bay-co-founder-gottfrid-svartholm-who-was-arrested-on-sunday-is-to-be-deported-saying-it-s-up-to-swed.xml)  
+
 ### [2012-09-4](/news/2012/09/4/index.md)
 
+##### Cambodia
 # Police in Cambodia say The Pirate Bay co-founder Gottfrid Svartholm, who was arrested on Sunday, "is to be deported", saying it's up to Sweden to decide where and not specifying when. There is no extradition agreement between the two countries. 
 
 One of the founders of the popular file-sharing The Pirate Bay website, Gottfrid Svartholm Warg, is to be deported from Cambodia.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19475202)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59105000/jpg/_59105600_pirateeee.jpg)

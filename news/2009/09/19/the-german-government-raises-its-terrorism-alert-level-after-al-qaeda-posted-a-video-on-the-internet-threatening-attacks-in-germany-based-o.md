@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2009/09/19/the-german-government-raises-its-terrorism-alert-level-after-al-qaeda-posted-a-video-on-the-internet-threatening-attacks-in-germany-based-o.html)  [JSON](/news/2009/09/19/the-german-government-raises-its-terrorism-alert-level-after-al-qaeda-posted-a-video-on-the-internet-threatening-attacks-in-germany-based-o.json)  [XML](/news/2009/09/19/the-german-government-raises-its-terrorism-alert-level-after-al-qaeda-posted-a-video-on-the-internet-threatening-attacks-in-germany-based-o.xml)  
+
 ### [2009-09-19](/news/2009/09/19/index.md)
 
+##### al Qaeda
 #  The German government raises its terrorism alert level after al Qaeda posted a video on the Internet threatening attacks in Germany based on the outcome of this month's elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/europe/09/18/germany.alqaeda/index.html)
 
 ### Related:
 
-1. [ Two German intelligence officers are suspected of having given money to Al Qaeda in 2010. ](/news/2016/02/15/two-german-intelligence-officers-are-suspected-of-having-given-money-to-al-qaeda-in-2010.md) _Context: Germany, al-Qaeda_
-2. [ Security is tightened across Germany after the emergence of al-Qaeda videos threatening attacks if troops are not withdrawn from Afghanistan. ](/news/2009/09/22/security-is-tightened-across-germany-after-the-emergence-of-al-qaeda-videos-threatening-attacks-if-troops-are-not-withdrawn-from-afghanista.md) _Context: Germany, al-Qaeda_
-3. [A truck full of explosives was detonated close to the El Ghriba synagogue in Djerba, Tunisia killing 21 people, of whom 14 were German tourists, 2 French nationals and 5 Tunisians. Al Qaeda claimed responsibility for the Ghriba synagogue bombing.](/news/2002/04/11/a-truck-full-of-explosives-was-detonated-close-to-the-el-ghriba-synagogue-in-djerba-tunisia-killing-21-people-of-whom-14-were-german-touri.md) _Context: Germany, al-Qaeda_
-4. [The European X-ray free-electron laser is inaugurated in Hamburg, Germany. ](/news/2017/09/3/the-european-x-ray-free-electron-laser-is-inaugurated-in-hamburg-germany.md) _Context: Germany_
-5. [Large portions of Frankfurt, Germany, are evacuated as local authorities work to defuse a bomb left over from a Royal Air Force raid during World War II. The evacuation is the largest to occur in Europe since World War II. ](/news/2017/09/3/large-portions-of-frankfurt-germany-are-evacuated-as-local-authorities-work-to-defuse-a-bomb-left-over-from-a-royal-air-force-raid-during.md) _Context: Germany_
+1. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: German_
+2. [British, American and German men are among a group of international volunteers who travelled to Afrin to fight against Turkish-led forces in north-west Syria. ](/news/2018/01/24/british-american-and-german-men-are-among-a-group-of-international-volunteers-who-travelled-to-afrin-to-fight-against-turkish-led-forces-in.md) _Context: German_
+3. [A helicopter and a light aircraft collide mid-air close to the Philippsburg Nuclear Power Plant in Germany, killing four people. ](/news/2018/01/23/a-helicopter-and-a-light-aircraft-collide-mid-air-close-to-the-philippsburg-nuclear-power-plant-in-germany-killing-four-people.md) _Context: German_
+4. [German nurse and convicted serial killer Niels Hogel is charged with 97 further counts of murder. ](/news/2018/01/22/german-nurse-and-convicted-serial-killer-niels-hapgel-is-charged-with-97-further-counts-of-murder.md) _Context: German_
+5. [Nine prisoners have escaped from a Berlin, Germany prison over the last five days, with two escaping today. ](/news/2018/01/2/nine-prisoners-have-escaped-from-a-berlin-germany-prison-over-the-last-five-days-with-two-escaping-today.md) _Context: German_

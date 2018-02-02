@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/31/morocco-rejoins-the-african-union-after-a-33-ye
 
 ### [2017-01-31](/news/2017/01/31/index.md)
 
+##### Enlargement of the African Union
 # Morocco rejoins the African Union after a 33-year absence, despite opposition from several member states over the political status of Western Sahara. 
 
 Morocco rejoins the AU after a 33-year absence, despite resistance from member states over the status of Western Sahara.

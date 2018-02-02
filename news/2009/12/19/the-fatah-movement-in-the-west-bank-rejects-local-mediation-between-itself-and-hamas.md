@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/19/the-fatah-movement-in-the-west-bank-rejects-local-mediation-between-itself-and-hamas.html)  [JSON](/news/2009/12/19/the-fatah-movement-in-the-west-bank-rejects-local-mediation-between-itself-and-hamas.json)  [XML](/news/2009/12/19/the-fatah-movement-in-the-west-bank-rejects-local-mediation-between-itself-and-hamas.xml)  
+
 ### [2009-12-19](/news/2009/12/19/index.md)
 
+##### Fatah
 #  The Fatah movement in the West Bank rejects local mediation between itself and Hamas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2009-12/19/content_12672669.htm)
 

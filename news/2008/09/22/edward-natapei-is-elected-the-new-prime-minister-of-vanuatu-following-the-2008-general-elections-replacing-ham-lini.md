@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/22/edward-natapei-is-elected-the-new-prime-minister-of-vanuatu-following-the-2008-general-elections-replacing-ham-lini.html)  [JSON](/news/2008/09/22/edward-natapei-is-elected-the-new-prime-minister-of-vanuatu-following-the-2008-general-elections-replacing-ham-lini.json)  [XML](/news/2008/09/22/edward-natapei-is-elected-the-new-prime-minister-of-vanuatu-following-the-2008-general-elections-replacing-ham-lini.xml)  
+
 ### [2008-09-22](/news/2008/09/22/index.md)
 
+##### Edward Natapei
 #  Edward Natapei is elected the new Prime Minister of Vanuatu following the 2008 general elections replacing Ham Lini. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The International Herald Tribune](http://www.iht.com/articles/ap/2008/09/22/asia/AS-Vanuatu-Politics.php)
 

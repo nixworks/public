@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/28/the-lawyer-of-former-scottish-socialist-party-ssp-leader-tommy-sheridan-says-authorities-are-trying-to-gag-him.html)  [JSON](/news/2012/01/28/the-lawyer-of-former-scottish-socialist-party-ssp-leader-tommy-sheridan-says-authorities-are-trying-to-gag-him.json)  [XML](/news/2012/01/28/the-lawyer-of-former-scottish-socialist-party-ssp-leader-tommy-sheridan-says-authorities-are-trying-to-gag-him.xml)  
+
 ### [2012-01-28](/news/2012/01/28/index.md)
 
+##### Scottish Socialist Party
 # The lawyer of former Scottish Socialist Party (SSP) leader Tommy Sheridan says authorities are trying to gag him. 
 
 Tommy Sheridan&#039;s lawyer, Aamer Anwar, has accused prison authorities of trying to gag him on his release from jail.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-glasgow-west-16773620)
 2. [The Telegraph](http://www.telegraph.co.uk/news/uknews/scotland/9046647/Tommy-Sheridan-in-gagging-order-row.html)

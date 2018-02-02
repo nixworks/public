@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/12/at-least-33-people-die-following-a-suicide-bombing-near-the-iraqi-city-of-samarra.html)  [JSON](/news/2011/02/12/at-least-33-people-die-following-a-suicide-bombing-near-the-iraqi-city-of-samarra.json)  [XML](/news/2011/02/12/at-least-33-people-die-following-a-suicide-bombing-near-the-iraqi-city-of-samarra.xml)  
+
 ### [2011-02-12](/news/2011/02/12/index.md)
 
+##### suicide bombing
 # At least 33 people die following a suicide bombing near the Iraqi city of Samarra. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Yahoo News](http://uk.news.yahoo.com/18/20110213/twl-death-toll-from-iraqi-suicide-attack-ba734b9.html)
 

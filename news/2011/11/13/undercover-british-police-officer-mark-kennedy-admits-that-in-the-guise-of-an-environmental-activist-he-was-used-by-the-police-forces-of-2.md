@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/13/undercover-british-police-officer-mark-kennedy-admits-that-in-the-guise-of-an-environmental-activist-he-was-used-by-the-police-forces-of-2.html)  [JSON](/news/2011/11/13/undercover-british-police-officer-mark-kennedy-admits-that-in-the-guise-of-an-environmental-activist-he-was-used-by-the-police-forces-of-2.json)  [XML](/news/2011/11/13/undercover-british-police-officer-mark-kennedy-admits-that-in-the-guise-of-an-environmental-activist-he-was-used-by-the-police-forces-of-2.xml)  
+
 ### [2011-11-13](/news/2011/11/13/index.md)
 
+##### Mark Kennedy
 # Undercover British police officer Mark Kennedy admits that, in the guise of an environmental activist, he was used by the police forces of 22 countries, was responsible for the closing down of the Youth House community centre in Copenhagen, and committed two crimes on behalf of German police between 2004 and 2009, one of which was arson. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/environment/2011/nov/13/undercover-policeman-admits-spying-danish-activists)
 

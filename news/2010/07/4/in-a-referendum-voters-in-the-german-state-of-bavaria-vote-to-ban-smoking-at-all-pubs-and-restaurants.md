@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/4/in-a-referendum-voters-in-the-german-state-of-bavaria-vote-to-ban-smoking-at-all-pubs-and-restaurants.html)  [JSON](/news/2010/07/4/in-a-referendum-voters-in-the-german-state-of-bavaria-vote-to-ban-smoking-at-all-pubs-and-restaurants.json)  [XML](/news/2010/07/4/in-a-referendum-voters-in-the-german-state-of-bavaria-vote-to-ban-smoking-at-all-pubs-and-restaurants.xml)  
+
 ### [2010-07-4](/news/2010/07/4/index.md)
 
+##### state
 # In a referendum, voters in the German state of Bavaria vote to ban smoking at all pubs and restaurants. 
 
 The Oktoberfest beer festival in Munich is to become smoke-free after a referendum.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/munich-beer-fest-votes-to-ban-smoking-20100705-zw3b.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

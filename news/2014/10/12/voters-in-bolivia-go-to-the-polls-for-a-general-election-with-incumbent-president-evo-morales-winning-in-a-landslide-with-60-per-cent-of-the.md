@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2014/10/12/voters-in-bolivia-go-to-the-polls-for-a-general-election-with-incumbent-president-evo-morales-winning-in-a-landslide-with-60-per-cent-of-the.html)  [JSON](/news/2014/10/12/voters-in-bolivia-go-to-the-polls-for-a-general-election-with-incumbent-president-evo-morales-winning-in-a-landslide-with-60-per-cent-of-the.json)  [XML](/news/2014/10/12/voters-in-bolivia-go-to-the-polls-for-a-general-election-with-incumbent-president-evo-morales-winning-in-a-landslide-with-60-per-cent-of-the.xml)  
+
 ### [2014-10-12](/news/2014/10/12/index.md)
 
+##### re-elected
 # Voters in Bolivia go to the polls for a general election with incumbent President Evo Morales winning in a landslide with 60 per cent of the vote. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2014/10/13/left-wing-bolivia-president-morales-wins-unprecedented-third-term/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2014/10/13/left-wing-bolivia-president-morales-wins-unprecedented-third-term/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1449127181062.jpg?ve=1)
+
+### Changes:
+
+1. [Bolivian general election, 2014: Voters in Bolivia go to the polls for a general election with incumbent President Evo Morales winning in a landslide with 60 per cent of the vote. ](/news/2014/10/12/bolivian-general-election-2014-voters-in-bolivia-go-to-the-polls-for-a-general-election-with-incumbent-president-evo-morales-winning-in-a.md) _2017-08-27 03:41:23 (First version)_
+1. [Voters in Bolivia go to the polls for a general election with incumbent President Evo Morales winning in a landslide with 60 per cent of the vote. ](/news/2014/10/12/voters-in-bolivia-go-to-the-polls-for-a-general-election-with-incumbent-president-evo-morales-winning-in-a-landslide-with-60-per-cent-of-the.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [Bolivia's President Evo Morales vows to take a border dispute with Chile to the International Court of Justice in The Hague. ](/news/2013/03/24/bolivia-s-president-evo-morales-vows-to-take-a-border-dispute-with-chile-to-the-international-court-of-justice-in-the-hague.md) _Context: Bolivia, Evo Morales, President of Bolivia_
 4. [Voters in Bolivia go to the polls for a judicial election - the first ever held in Latin America - with opposition politicians urging voters to spoil their ballots in protest against the government of incumbent President Evo Morales. ](/news/2011/10/16/voters-in-bolivia-go-to-the-polls-for-a-judicial-election-the-first-ever-held-in-latin-america-with-opposition-politicians-urging-voters.md) _Context: Bolivia, Evo Morales, President of Bolivia_
 5. [Bolivian President Evo Morales abandons an event in the south of the country after crowds booed him and threw dynamite in a protest over rising food prices. ](/news/2011/02/11/bolivian-president-evo-morales-abandons-an-event-in-the-south-of-the-country-after-crowds-booed-him-and-threw-dynamite-in-a-protest-over-ris.md) _Context: Bolivia, Evo Morales, President of Bolivia_
-
-### Changes:
-
-1. [Bolivian general election, 2014: Voters in Bolivia go to the polls for a general election with incumbent President Evo Morales winning in a landslide with 60 per cent of the vote. ](/news/2014/10/12/bolivian-general-election-2014-voters-in-bolivia-go-to-the-polls-for-a-general-election-with-incumbent-president-evo-morales-winning-in-a.md) _2017-08-27 03:41:23 (First version)_
-1. [Voters in Bolivia go to the polls for a general election with incumbent President Evo Morales winning in a landslide with 60 per cent of the vote. ](/news/2014/10/12/voters-in-bolivia-go-to-the-polls-for-a-general-election-with-incumbent-president-evo-morales-winning-in-a-landslide-with-60-per-cent-of-the.md) _(Current version)_

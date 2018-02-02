@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/27/cote-d-ivoire-president-laurent-gbagbo-declares-a-curfew-amid-clashes-that-killed-three-people-ahead-of-the-second-round-of-the-presidentia.html)  [JSON](/news/2010/11/27/cote-d-ivoire-president-laurent-gbagbo-declares-a-curfew-amid-clashes-that-killed-three-people-ahead-of-the-second-round-of-the-presidentia.json)  [XML](/news/2010/11/27/cote-d-ivoire-president-laurent-gbagbo-declares-a-curfew-amid-clashes-that-killed-three-people-ahead-of-the-second-round-of-the-presidentia.xml)  
+
 ### [2010-11-27](/news/2010/11/27/index.md)
 
+##### Cte d'Ivoire
 # Cte d'Ivoire President Laurent Gbagbo declares a curfew, amid clashes that killed three people ahead of the second round of the presidential election on Sunday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/1095943/1/.html)
 2. [IOL](http://www.iol.co.za/news/africa/gbagbo-decrees-election-curfew-1.878269)

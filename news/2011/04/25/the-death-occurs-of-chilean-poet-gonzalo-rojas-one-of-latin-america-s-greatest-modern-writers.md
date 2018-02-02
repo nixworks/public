@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/25/the-death-occurs-of-chilean-poet-gonzalo-rojas-one-of-latin-america-s-greatest-modern-writers.html)  [JSON](/news/2011/04/25/the-death-occurs-of-chilean-poet-gonzalo-rojas-one-of-latin-america-s-greatest-modern-writers.json)  [XML](/news/2011/04/25/the-death-occurs-of-chilean-poet-gonzalo-rojas-one-of-latin-america-s-greatest-modern-writers.xml)  
+
 ### [2011-04-25](/news/2011/04/25/index.md)
 
+##### Gonzalo Rojas
 # The death occurs of Chilean poet Gonzalo Rojas, one of Latin America's greatest modern writers. 
 
 Rojas, one of Latin America&#039;s greatest modern writers, dies at the age of 93
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jOyl1YuhpDWJCvA5_VWvQzZSGLpQ?docId=CNG.c8db012cba954cc01b3d717fdd81175b.141)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-13187777)

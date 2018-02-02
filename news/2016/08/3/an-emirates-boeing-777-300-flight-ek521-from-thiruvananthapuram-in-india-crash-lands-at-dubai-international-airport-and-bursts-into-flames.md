@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/3/an-emirates-boeing-777-300-flight-ek521-from-thi
 
 ### [2016-08-3](/news/2016/08/3/index.md)
 
+##### Emirates
 # An Emirates Boeing 777-300, flight EK521 from Thiruvananthapuram in India, crash lands at Dubai International Airport and bursts into flames. All 282 passengers and 18 crew evacuate safely, although one firefighter is killed during the rescue. 
 
 
@@ -17,8 +18,8 @@ Formats: [HTML](/news/2016/08/3/an-emirates-boeing-777-300-flight-ek521-from-thi
 
 ### Related:
 
-1. [Cyclone Ockhi hits southern India causing 13 deaths in Tamil Nadu and Kerala. The cyclone kills 15 people and displaces another 200,000 persons in Sri Lanka. ](/news/2017/12/2/cyclone-ockhi-hits-southern-india-causing-13-deaths-in-tamil-nadu-and-kerala-the-cyclone-kills-15-people-and-displaces-another-200-000-pers.md) _Context: India_
-2. [A blanket of thick grey smog covers the Indian capital, Delhi, with some areas 30 times more polluted than the World Health Organization's recommended limit, one year after a similar smog. ](/news/2017/11/7/a-blanket-of-thick-grey-smog-covers-the-indian-capital-delhi-with-some-areas-30-times-more-polluted-than-the-world-health-organization-s-r.md) _Context: India_
-3. [Boeing announces at the Dubai Airshow that the airline Emirates will purchase forty 787 Dreamliners with a list value of US$15 billion. ](/news/2017/11/12/boeing-announces-at-the-dubai-airshow-that-the-airline-emirates-will-purchase-forty-787-dreamliners-with-a-list-value-of-us-15-billion.md) _Context: Emirates_
-4. [Prominent Indian journalist and "Lankesh Patrike" editor Gauri Lankesh is shot dead by unidentified men outside her house in the city of Bengaluru. ](/news/2017/09/5/prominent-indian-journalist-and-lankesh-patrike-editor-gauri-lankesh-is-shot-dead-by-unidentified-men-outside-her-house-in-the-city-of-ben.md) _Context: India_
-5. [Indian Prime Minister Narendra Modi heads to Myanmar for a state visit. ](/news/2017/09/5/indian-prime-minister-narendra-modi-heads-to-myanmar-for-a-state-visit.md) _Context: India_
+1. [A bus plunges into the Bhairab River after falling off a bridge in Murshidabad district, West Bengal, India, killing at least 36 people. The late response by rescuers to save passengers leads to violence between local residents and police. ](/news/2018/01/29/a-bus-plunges-into-the-bhairab-river-after-falling-off-a-bridge-in-murshidabad-district-west-bengal-india-killing-at-least-36-people-the.md) _Context: India_
+2. [The Emirates airline announces an order for up to 36 Airbus A380s. Emirates is already the aircraft's largest operator, with a fleet of over 100. ](/news/2018/01/18/the-emirates-airline-announces-an-order-for-up-to-36-airbus-a380s-emirates-is-already-the-aircraft-s-largest-operator-with-a-fleet-of-over.md) _Context: Emirates_
+3. [The Indian Space Research Organisation successfully launches India's 100th satellite and 30 other satellites from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh. [http:--www.thehindubusinessline.com-news-science-isro-launches-its-100th-satellite-into-space-article10027585.ece "(The Hindu)"]A Delta IV launches NROL-47, a classified U.S. military payload, from Vandenberg Air Force Base, California. It is the last single-core Delta IV to launch from Vandenberg. [https:--spaceflightnow.com-2018-01-13-delta-4-rocket-successfully-lofts-clandestine-nro-satellite-into-orbit-"(Spaceflight Now)"]](/news/2018/01/12/the-indian-space-research-organisation-successfully-launches-indiaas-100th-satellite-and-30-other-satellites-from-the-satish-dhawan-space.md) _Context: India_
+4. [Fifteen countries ask the World Trade Organization a mandate to negotiate binding rules on e-commerce, days after India turned down negotiations. ](/news/2017/12/7/fifteen-countries-ask-the-world-trade-organization-a-mandate-to-negotiate-binding-rules-on-e-commerce-days-after-india-turned-down-negotiat.md) _Context: India_
+5. [At least 15 people are killed in a rooftop restaurant fire in Mumbai, India. ](/news/2017/12/29/at-least-15-people-are-killed-in-a-rooftop-restaurant-fire-in-mumbai-india.md) _Context: India_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/18/senegalese-police-clash-with-protesters-in-dakar-in-the-fourth-consecutive-day-of-protests-ahead-of-next-week-s-presidential-election.html)  [JSON](/news/2012/02/18/senegalese-police-clash-with-protesters-in-dakar-in-the-fourth-consecutive-day-of-protests-ahead-of-next-week-s-presidential-election.json)  [XML](/news/2012/02/18/senegalese-police-clash-with-protesters-in-dakar-in-the-fourth-consecutive-day-of-protests-ahead-of-next-week-s-presidential-election.xml)  
+
 ### [2012-02-18](/news/2012/02/18/index.md)
 
+##### Senegalese police
 # Senegalese police clash with protesters in Dakar in the fourth consecutive day of protests ahead of next week's presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://blogs.voanews.com/breaking-news/2012/02/18/protests-over-election-continue-in-senegals-capital/)
 

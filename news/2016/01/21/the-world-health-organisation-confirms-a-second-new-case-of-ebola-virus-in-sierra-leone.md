@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/21/the-world-health-organisation-confirms-a-second
 
 ### [2016-01-21](/news/2016/01/21/index.md)
 
+##### Ebola virus epidemic in West Africa
 # The World Health Organisation confirms a second new case of Ebola virus in Sierra Leone. 
 
 A new case of Ebola has been confirmed in Sierra Leone, officials said Thursday, the second since west Africa celebrated the end of the epidemic last week. The World Health Organization said the new case involved the aunt of 22-year-old Marie Jalloh, who died of Ebola on January 12. The 38-year-old
@@ -20,8 +21,8 @@ A new case of Ebola has been confirmed in Sierra Leone, officials said Thursday,
 
 ### Related:
 
-1. [Sierra Leone imposes quarantine on hundreds of people following a recent death from the Ebola virus. ](/news/2016/01/17/sierra-leone-imposes-quarantine-on-hundreds-of-people-following-a-recent-death-from-the-ebola-virus.md) _Context: Ebola virus epidemic in West Africa, Sierra Leone, ebola virus_
-2. [The World Health Organisation declares an end to the Ebola virus outbreak in West Africa with Liberia the last country to be declared free of the virus. ](/news/2016/01/14/the-world-health-organisation-declares-an-end-to-the-ebola-virus-outbreak-in-west-africa-with-liberia-the-last-country-to-be-declared-free-o.md) _Context: Ebola virus epidemic in West Africa, World Health Organisation, ebola virus_
-3. [Australia issues a blanket ban on issuing visas for residents of Liberia, Guinea and Sierra Leone, the countries worst affected by the Ebola epidemic. ](/news/2014/10/28/australia-issues-a-blanket-ban-on-issuing-visas-for-residents-of-liberia-guinea-and-sierra-leone-the-countries-worst-affected-by-the-ebola.md) _Context: Ebola virus epidemic in West Africa, Sierra Leone, ebola virus_
-4. [The World Health Organisation declares Senegal to be free of the Ebola virus. ](/news/2014/10/17/the-world-health-organisation-declares-senegal-to-be-free-of-the-ebola-virus.md) _Context: Ebola virus epidemic in West Africa, World Health Organisation, ebola virus_
-5. [The World Health Organisation says that the death toll from the Ebola virus is over 2,900. ](/news/2014/09/26/the-world-health-organisation-says-that-the-death-toll-from-the-ebola-virus-is-over-2-900.md) _Context: Ebola virus epidemic in West Africa, World Health Organisation, ebola virus_
+1. [Sierra Leone imposes quarantine on hundreds of people following a recent death from the Ebola virus. ](/news/2016/01/17/sierra-leone-imposes-quarantine-on-hundreds-of-people-following-a-recent-death-from-the-ebola-virus.md) _Context: Ebola virus, Ebola virus epidemic in West Africa, Sierra Leone_
+2. [The World Health Organisation declares an end to the Ebola virus outbreak in West Africa with Liberia the last country to be declared free of the virus. ](/news/2016/01/14/the-world-health-organisation-declares-an-end-to-the-ebola-virus-outbreak-in-west-africa-with-liberia-the-last-country-to-be-declared-free-o.md) _Context: Ebola virus, Ebola virus epidemic in West Africa, World Health Organisation_
+3. [Australia issues a blanket ban on issuing visas for residents of Liberia, Guinea and Sierra Leone, the countries worst affected by the Ebola epidemic. ](/news/2014/10/28/australia-issues-a-blanket-ban-on-issuing-visas-for-residents-of-liberia-guinea-and-sierra-leone-the-countries-worst-affected-by-the-ebola.md) _Context: Ebola virus, Ebola virus epidemic in West Africa, Sierra Leone_
+4. [The World Health Organisation declares Senegal to be free of the Ebola virus. ](/news/2014/10/17/the-world-health-organisation-declares-senegal-to-be-free-of-the-ebola-virus.md) _Context: Ebola virus, Ebola virus epidemic in West Africa, World Health Organisation_
+5. [The World Health Organisation says that the death toll from the Ebola virus is over 2,900. ](/news/2014/09/26/the-world-health-organisation-says-that-the-death-toll-from-the-ebola-virus-is-over-2-900.md) _Context: Ebola virus, Ebola virus epidemic in West Africa, World Health Organisation_

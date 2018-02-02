@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/08/11/the-united-states-team-wins-the-4x100-men-s-freestyle-relay-setting-a-new-world-record-with-france-and-australia-finishing-second-and-third.html)  [JSON](/news/2008/08/11/the-united-states-team-wins-the-4x100-men-s-freestyle-relay-setting-a-new-world-record-with-france-and-australia-finishing-second-and-third.json)  [XML](/news/2008/08/11/the-united-states-team-wins-the-4x100-men-s-freestyle-relay-setting-a-new-world-record-with-france-and-australia-finishing-second-and-third.xml)  
+
 ### [2008-08-11](/news/2008/08/11/index.md)
 
+##### United States
 #  The United States team wins the 4x100 men's freestyle relay setting a new world record with France and Australia finishing second and third respectively. The top five teams all broke the previous world record and Australia's Eamon Sullivan in the lead-off leg broke the record for 100m. 
 
 An incredible anchor leg by Jason Lezak kept Michael Phelps’ hope of eight gold medals alive.
 
 
-### Source:
+### Sources:
 
 1. [SI via CNN](http://sportsillustrated.cnn.com/2008/olympics/2008/08/10/phelps.usa.relay.ap/index.html)
-2. [The New York Times](http://www.nytimes.com/2008/08/11/sports/olympics/11phelpsweb.html)
+2. [The New York Times](https://www.nytimes.com/2008/08/11/sports/olympics/11phelpsweb.html)
 2. [Cover Image](https://static01.nyt.com/images/2008/08/11/sports/olympics/11relay_75.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/17/five-more-bodies-are-found-after-a-gas-leak-in-a-coal-mine-in-china-s-henan-province-bringing-the-death-toll-to-26.html)  [JSON](/news/2010/10/17/five-more-bodies-are-found-after-a-gas-leak-in-a-coal-mine-in-china-s-henan-province-bringing-the-death-toll-to-26.json)  [XML](/news/2010/10/17/five-more-bodies-are-found-after-a-gas-leak-in-a-coal-mine-in-china-s-henan-province-bringing-the-death-toll-to-26.xml)  
+
 ### [2010-10-17](/news/2010/10/17/index.md)
 
+##### coal mine
 # Five more bodies are found after a gas leak in a coal mine in China's Henan province, bringing the death toll to 26. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/10/17/china.miners/index.html?eref=edition)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/5/armed-residents-of-the-indian-state-of-nagaland-burn-down-villages-in-the-neighbouring-state-of-assam.html)  [JSON](/news/2007/07/5/armed-residents-of-the-indian-state-of-nagaland-burn-down-villages-in-the-neighbouring-state-of-assam.json)  [XML](/news/2007/07/5/armed-residents-of-the-indian-state-of-nagaland-burn-down-villages-in-the-neighbouring-state-of-assam.xml)  
+
 ### [2007-07-5](/news/2007/07/5/index.md)
 
+##### Indian state
 #  Armed residents of the Indian state of Nagaland burn down villages in the neighbouring state of Assam. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6272136.stm)
 

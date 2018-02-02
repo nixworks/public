@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/25/protesters-in-egypt-commemorate-the-first-anniversary-of-the-revolution.html)  [JSON](/news/2012/01/25/protesters-in-egypt-commemorate-the-first-anniversary-of-the-revolution.json)  [XML](/news/2012/01/25/protesters-in-egypt-commemorate-the-first-anniversary-of-the-revolution.xml)  
+
 ### [2012-01-25](/news/2012/01/25/index.md)
 
+##### Egypt
 # Protesters in Egypt commemorate the first anniversary of the revolution. 
 
 Hundreds of thousands gather in iconic square demanding transition to civilian rule on first anniversary of revolution.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/01/201212535836564645.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/25/2012125231945162734_20.jpg)

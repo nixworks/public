@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/23/president-of-iran-mahmoud-ahmadinejad-announces-plans-to-launch-a-manned-shuttle-into-space-by-2019.html)  [JSON](/news/2010/07/23/president-of-iran-mahmoud-ahmadinejad-announces-plans-to-launch-a-manned-shuttle-into-space-by-2019.json)  [XML](/news/2010/07/23/president-of-iran-mahmoud-ahmadinejad-announces-plans-to-launch-a-manned-shuttle-into-space-by-2019.xml)  
+
 ### [2010-07-23](/news/2010/07/23/index.md)
 
+##### President
 # President of Iran Mahmoud Ahmadinejad announces plans to launch a manned shuttle into space by 2019. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10747390)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=135966&sectionid=351020101)

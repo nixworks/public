@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/17/pope-benedict-xvi-warns-traditionalist-catholic-organisation-society-of-st-pius-x-sspx-not-to-go-ahead-with-plans-to-ordain-more-than-30.html)  [JSON](/news/2009/06/17/pope-benedict-xvi-warns-traditionalist-catholic-organisation-society-of-st-pius-x-sspx-not-to-go-ahead-with-plans-to-ordain-more-than-30.json)  [XML](/news/2009/06/17/pope-benedict-xvi-warns-traditionalist-catholic-organisation-society-of-st-pius-x-sspx-not-to-go-ahead-with-plans-to-ordain-more-than-30.xml)  
+
 ### [2009-06-17](/news/2009/06/17/index.md)
 
+##### Pope Benedict XVI
 #  Pope Benedict XVI warns traditionalist Catholic organisation Society of St. Pius X (SSPX) not to go ahead with plans to ordain more than 30 priests on June 19 and 27, saying the move could incur disciplinary action. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8105716.stm)
 

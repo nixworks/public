@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2006/05/26/mahmoud-al-majzoub-a-leader-of-the-palestinian-islamic-jihad-is-killed-in-a-car-bombing-along-with-his-brother-nidal.html)  [JSON](/news/2006/05/26/mahmoud-al-majzoub-a-leader-of-the-palestinian-islamic-jihad-is-killed-in-a-car-bombing-along-with-his-brother-nidal.json)  [XML](/news/2006/05/26/mahmoud-al-majzoub-a-leader-of-the-palestinian-islamic-jihad-is-killed-in-a-car-bombing-along-with-his-brother-nidal.xml)  
+
 ### [2006-05-26](/news/2006/05/26/index.md)
 
+##### Mahmoud al-Majzoub
 #  Mahmoud al-Majzoub, a leader of the Palestinian Islamic Jihad, is killed in a car-bombing along with his brother, Nidal. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://news.yahoo.com/s/ap/20060526/ap_on_re_mi_ea/lebanon_explosion;_ylt=AsBQ9Kbwb1NmlZrkPUE2GGZbbBAF;_ylu=X3oDMTA4NTMzazIyBHNlYwMxNjk2)
-2. [NYT](http://www.nytimes.com/2006/05/26/world/middleeast/26cnd-mideast.html?pagewanted=2&ei=5094&en=35eff5ea0dc92679&hp&ex=1148702400&partner=homepage)
+1. [AP](https://news.yahoo.com/s/ap/20060526/ap_on_re_mi_ea/lebanon_explosion;_ylt=AsBQ9Kbwb1NmlZrkPUE2GGZbbBAF;_ylu=X3oDMTA4NTMzazIyBHNlYwMxNjk2)
+2. [NYT](https://www.nytimes.com/2006/05/26/world/middleeast/26cnd-mideast.html?pagewanted=2&ei=5094&en=35eff5ea0dc92679&hp&ex=1148702400&partner=homepage)
 2. [Cover Image](https://static01.nyt.com/images/2006/05/26/world/26cnd-hamas.75.jpg)
 
 ### Related:

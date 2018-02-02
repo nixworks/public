@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/11/the-death-toll-from-the-karachi-traffic-accident-rises-to-62.html)  [JSON](/news/2015/01/11/the-death-toll-from-the-karachi-traffic-accident-rises-to-62.json)  [XML](/news/2015/01/11/the-death-toll-from-the-karachi-traffic-accident-rises-to-62.xml)  
+
 ### [2015-01-11](/news/2015/01/11/index.md)
 
+##### Karachi traffic accident
 # The death toll from the Karachi traffic accident rises to 62. 
 
 There were around 60 to 70 passengers in the bus and those sitting in the back leapt out of the windows. 
 
 
-### Source:
+### Sources:
 
 1. [Indian Express](http://indianexpress.com/article/world/world-others/57-killed-in-bus-oil-tanker-collision-in-southern-pakistan/)
 1. [Cover Image](http://images.indianexpress.com/2015/01/pak21.jpg?w=209)

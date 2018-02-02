@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/29/multiple-individuals-rammed-a-van-into-the-entr
 
 ### [2016-08-29](/news/2016/08/29/index.md)
 
+##### 2016 Brussels National Institute of Criminology fire
 # Multiple individuals rammed a van into the entrance of the Brussels National Institute of Criminology building, setting its laboratories on fire. No casualties have been reported. At least five people are arrested. 
 
 Attackers ram a car through the gates of a Brussels crime laboratory before starting a fire to try and destroy forensic evidence, prosecutors say.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/23/voters-in-bahrain-go-to-the-polls-for-the-bahraini-parliamentary-election.html)  [JSON](/news/2010/10/23/voters-in-bahrain-go-to-the-polls-for-the-bahraini-parliamentary-election.json)  [XML](/news/2010/10/23/voters-in-bahrain-go-to-the-polls-for-the-bahraini-parliamentary-election.xml)  
+
 ### [2010-10-23](/news/2010/10/23/index.md)
 
+##### Bahrain
 # Voters in Bahrain go to the polls for the Bahraini parliamentary election. 
 
 Polls present opportunity for Shia majority to air grievances against Sunnis who have ruled the Gulf kingdom since 1783.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/2010102371445380323.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11608611)

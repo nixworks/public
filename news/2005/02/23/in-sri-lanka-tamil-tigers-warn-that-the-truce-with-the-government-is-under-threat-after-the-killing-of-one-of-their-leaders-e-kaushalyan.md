@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/02/23/in-sri-lanka-tamil-tigers-warn-that-the-truce-with-the-government-is-under-threat-after-the-killing-of-one-of-their-leaders-e-kaushalyan.html)  [JSON](/news/2005/02/23/in-sri-lanka-tamil-tigers-warn-that-the-truce-with-the-government-is-under-threat-after-the-killing-of-one-of-their-leaders-e-kaushalyan.json)  [XML](/news/2005/02/23/in-sri-lanka-tamil-tigers-warn-that-the-truce-with-the-government-is-under-threat-after-the-killing-of-one-of-their-leaders-e-kaushalyan.xml)  
+
 ### [2005-02-23](/news/2005/02/23/index.md)
 
+##### Sri Lanka
 #  In Sri Lanka, Tamil Tigers warn that the truce with the government is under threat after the killing of one of their leaders, E Kaushalyan. The ceasefire has lasted for four years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4287661.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aDpaq27kxoGY&refer=asia)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000080&sid=aDpaq27kxoGY&refer=asia)
 3. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/COL74961.htm)
 
 ### Related:

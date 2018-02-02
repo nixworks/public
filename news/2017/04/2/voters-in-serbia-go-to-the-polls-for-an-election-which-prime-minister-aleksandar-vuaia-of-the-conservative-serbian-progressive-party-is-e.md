@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/2/voters-in-serbia-go-to-the-polls-for-an-election
 
 ### [2017-04-2](/news/2017/04/2/index.md)
 
+##### Serbian presidential election, 2017
 # Voters in Serbia go to the polls for an election, which Prime Minister Aleksandar Vucic of the conservative Serbian Progressive Party is expected to win. In projections, Vucic gets around 55% of the votes, avoiding a second round. 
 
 Conservative Prime Minister Aleksandar Vucic won Serbia&#039;s presidential election on Sunday, confirming his domination of the Balkan country.

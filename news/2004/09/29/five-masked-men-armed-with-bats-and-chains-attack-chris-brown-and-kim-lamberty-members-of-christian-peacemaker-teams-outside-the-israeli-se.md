@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/29/five-masked-men-armed-with-bats-and-chains-attack-chris-brown-and-kim-lamberty-members-of-christian-peacemaker-teams-outside-the-israeli-se.html)  [JSON](/news/2004/09/29/five-masked-men-armed-with-bats-and-chains-attack-chris-brown-and-kim-lamberty-members-of-christian-peacemaker-teams-outside-the-israeli-se.json)  [XML](/news/2004/09/29/five-masked-men-armed-with-bats-and-chains-attack-chris-brown-and-kim-lamberty-members-of-christian-peacemaker-teams-outside-the-israeli-se.xml)  
+
 ### [2004-09-29](/news/2004/09/29/index.md)
 
+##### Arab-Israeli conflict
 # Five masked men armed with bats and chains attack Chris Brown and Kim Lamberty, members of Christian Peacemaker Teams outside the Israeli settlement of Ma'on in Hebron while the volunteers were escorting Palestinian children to school. CPT alleges the assaults are part of an ongoing pattern of intimidation by Israeli Settlers. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/07150357-0246-4366-9FBB-E9CE0D2A6CF3.htm)
 2. [Al Jazeera](http://english.aljazeera.net/NR/exeres/AE40E95F-C2E1-4401-8463-B83DA4B9391A.htm)
@@ -14,8 +18,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 5. [Haaretz](http://www.haaretz.com/hasen/spages/483032.html)
 6. [Haaretz](http://www.haaretz.com/hasen/spages/483283.html)
 7. [Haaretz](http://www.haaretzdaily.com/hasen/spages/483300.html)
-8. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6362400)
-8. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+8. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6362400)
 
 ### Related:
 

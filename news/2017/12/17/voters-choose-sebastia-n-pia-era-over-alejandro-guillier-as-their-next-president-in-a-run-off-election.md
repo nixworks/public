@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/17/voters-choose-sebastia-n-pia-era-over-alejandro
 
 ### [2017-12-17](/news/2017/12/17/index.md)
 
+##### Chilean general election, 2017
 # Voters choose Sebastian Pinera over Alejandro Guillier as their next president in a run-off election. 
 
 Voting has begun in Chile&#39;s presidential runoff election that pits conservative billionaire Sebastian Pinera against center-left journalist Alejandro Guillier. Analysts say the race could go either way. 

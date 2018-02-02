@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/24/a-russian-lieutenant-general-valery-asapov-is-k
 
 ### [2017-09-24](/news/2017/09/24/index.md)
 
+##### Russian military intervention in the Syrian Civil War
 # A Russian lieutenant general, Valery Asapov, is killed by mortar fire from ISIL militants near the city of Deir ez-Zor, according to the Russian Defence Ministry. Asapov has been described as one of the senior Russian military advisers in Syria. 
 
 A Russian general was killed while battling ISIS militants near the eastern Syrian city of Deir

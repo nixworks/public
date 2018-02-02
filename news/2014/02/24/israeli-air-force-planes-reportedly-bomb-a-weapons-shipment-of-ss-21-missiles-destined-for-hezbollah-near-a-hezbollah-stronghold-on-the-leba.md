@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/24/israeli-air-force-planes-reportedly-bomb-a-weapons-shipment-of-ss-21-missiles-destined-for-hezbollah-near-a-hezbollah-stronghold-on-the-leba.html)  [JSON](/news/2014/02/24/israeli-air-force-planes-reportedly-bomb-a-weapons-shipment-of-ss-21-missiles-destined-for-hezbollah-near-a-hezbollah-stronghold-on-the-leba.json)  [XML](/news/2014/02/24/israeli-air-force-planes-reportedly-bomb-a-weapons-shipment-of-ss-21-missiles-destined-for-hezbollah-near-a-hezbollah-stronghold-on-the-leba.xml)  
+
 ### [2014-02-24](/news/2014/02/24/index.md)
 
+##### Israeli Air Force
 # Israeli Air Force planes reportedly bomb a weapons shipment of SS-21 missiles destined for Hezbollah near a Hezbollah stronghold on the Lebanon-Syria border. 
 
 Two &#8216;house-shaking&#8217; bombing raids reported in stronghold in Bekaa Valley, on Syrian-Lebanese border; Al Arabiya: shipment may have contained ballistic missiles
 
 
-### Source:
+### Sources:
 
 1. [The Times of Israel](http://www.timesofisrael.com/israeli-jets-reportedly-strike-targets-near-lebanon-syria-border)
 1. [Cover Image](http://cdn.timesofisrael.com/uploads/2013/11/F131125IDF002.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/25/scientists-confirm-the-theory-that-hiv-originated-among-wild-chimpanzees-in-cameroon.html)  [JSON](/news/2006/05/25/scientists-confirm-the-theory-that-hiv-originated-among-wild-chimpanzees-in-cameroon.json)  [XML](/news/2006/05/25/scientists-confirm-the-theory-that-hiv-originated-among-wild-chimpanzees-in-cameroon.xml)  
+
 ### [2006-05-25](/news/2006/05/25/index.md)
 
+##### HIV
 #  Scientists confirm the theory that HIV originated among wild chimpanzees in Cameroon. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://seattlepi.com/health/1500AP_Chimps_HIV.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/health/5012268.stm)

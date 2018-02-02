@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/18/two-former-bosnian-serb-officers-vidoje-blagojevic-and-dragan-jokic-have-been-convicted-and-imprisoned-for-their-complicity-in-the-srebre.html)  [JSON](/news/2005/01/18/two-former-bosnian-serb-officers-vidoje-blagojevic-and-dragan-jokic-have-been-convicted-and-imprisoned-for-their-complicity-in-the-srebre.json)  [XML](/news/2005/01/18/two-former-bosnian-serb-officers-vidoje-blagojevic-and-dragan-jokic-have-been-convicted-and-imprisoned-for-their-complicity-in-the-srebre.xml)  
+
 ### [2005-01-18](/news/2005/01/18/index.md)
 
+##### Bosnia and Herzegovina
 #  Two former Bosnian Serb officers, Vidoje Blagojevic and Dragan Jokic, have been convicted and imprisoned for their complicity in the Srebrenica massacre in 1995. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4181603.stm)
 

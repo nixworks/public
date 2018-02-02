@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/3/citing-court-rulings-and-privacy-laws-the-united
 
 ### [2017-02-3](/news/2017/02/3/index.md)
 
+##### United States Department of Agriculture
 # Citing court rulings and privacy laws, the United States Department of Agriculture stops making its records of animal abuse available to the public online, which makes them available exclusively through Freedom of Information Act requests. It has not yet been revealed whether another Agency will now be responsible for the keeping and public hosting of such records. 
 
 The records, which had been freely available, were used to monitor animal treatment at circuses, scientific labs, breeding facilities and zoos.

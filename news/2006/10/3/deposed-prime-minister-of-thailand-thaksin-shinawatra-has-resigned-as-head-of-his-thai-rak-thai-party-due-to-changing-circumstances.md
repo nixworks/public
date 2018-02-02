@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/3/deposed-prime-minister-of-thailand-thaksin-shinawatra-has-resigned-as-head-of-his-thai-rak-thai-party-due-to-changing-circumstances.html)  [JSON](/news/2006/10/3/deposed-prime-minister-of-thailand-thaksin-shinawatra-has-resigned-as-head-of-his-thai-rak-thai-party-due-to-changing-circumstances.json)  [XML](/news/2006/10/3/deposed-prime-minister-of-thailand-thaksin-shinawatra-has-resigned-as-head-of-his-thai-rak-thai-party-due-to-changing-circumstances.xml)  
+
 ### [2006-10-3](/news/2006/10/3/index.md)
 
+##### Prime Minister
 #  Deposed Prime Minister of Thailand Thaksin Shinawatra has resigned as head of his Thai Rak Thai party due to "changing circumstances". 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/articlebusiness.aspx?type=tnBusinessNews&storyID=nBKK27424&imageid=&cap=&from=business)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

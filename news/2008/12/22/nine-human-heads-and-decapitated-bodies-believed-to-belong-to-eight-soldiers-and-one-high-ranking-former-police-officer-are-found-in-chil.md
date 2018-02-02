@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/22/nine-human-heads-and-decapitated-bodies-believed-to-belong-to-eight-soldiers-and-one-high-ranking-former-police-officer-are-found-in-chil.html)  [JSON](/news/2008/12/22/nine-human-heads-and-decapitated-bodies-believed-to-belong-to-eight-soldiers-and-one-high-ranking-former-police-officer-are-found-in-chil.json)  [XML](/news/2008/12/22/nine-human-heads-and-decapitated-bodies-believed-to-belong-to-eight-soldiers-and-one-high-ranking-former-police-officer-are-found-in-chil.xml)  
+
 ### [2008-12-22](/news/2008/12/22/index.md)
 
+##### Chilpancingo
 #  Nine human heads and decapitated bodies, believed to belong to eight soldiers and one high-ranking former police officer, are found in Chilpancingo, Guerrero, Mexico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/americas/12/21/mexico.decapitated.heads/index.html?eref=rss_world)
 

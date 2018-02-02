@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/11/chief-minister-of-the-indian-state-of-karnataka-dharam-singh-announced-that-the-state-government-had-accepted-jnanpith-awardee-u-r-anantha.html)  [JSON](/news/2005/12/11/chief-minister-of-the-indian-state-of-karnataka-dharam-singh-announced-that-the-state-government-had-accepted-jnanpith-awardee-u-r-anantha.json)  [XML](/news/2005/12/11/chief-minister-of-the-indian-state-of-karnataka-dharam-singh-announced-that-the-state-government-had-accepted-jnanpith-awardee-u-r-anantha.xml)  
+
 ### [2005-12-11](/news/2005/12/11/index.md)
 
+##### Chief minister
 #  Chief minister of the Indian state of Karnataka, Dharam Singh announced that the state government had accepted Jnanpith awardee U R Ananthamurthy's suggestion to rename Bangalore to its colloquial name, "Bengaluru". The new name will be effective from November 1, 2006. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/articleshow/1327480.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)

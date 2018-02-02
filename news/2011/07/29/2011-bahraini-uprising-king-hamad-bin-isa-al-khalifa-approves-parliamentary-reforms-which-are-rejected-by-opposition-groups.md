@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/29/2011-bahraini-uprising-king-hamad-bin-isa-al-khalifa-approves-parliamentary-reforms-which-are-rejected-by-opposition-groups.html)  [JSON](/news/2011/07/29/2011-bahraini-uprising-king-hamad-bin-isa-al-khalifa-approves-parliamentary-reforms-which-are-rejected-by-opposition-groups.json)  [XML](/news/2011/07/29/2011-bahraini-uprising-king-hamad-bin-isa-al-khalifa-approves-parliamentary-reforms-which-are-rejected-by-opposition-groups.xml)  
+
 ### [2011-07-29](/news/2011/07/29/index.md)
 
+##### 2011 Bahraini uprising
 # 2011 Bahraini uprising: King Hamad bin Isa Al Khalifa approves parliamentary reforms, which are rejected by opposition groups. 
 
 Elected lower house to have more power but opposition unimpressed as appointed upper house retains political dominance.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/201172955558583141.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/18/2011618161614223734_20.jpg)

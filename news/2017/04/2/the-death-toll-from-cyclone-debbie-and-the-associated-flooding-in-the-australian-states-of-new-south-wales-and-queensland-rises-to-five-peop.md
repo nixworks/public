@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/2/the-death-toll-from-cyclone-debbie-and-the-assoc
 
 ### [2017-04-2](/news/2017/04/2/index.md)
 
+##### Cyclone Debbie
 # The death toll from Cyclone Debbie and the associated flooding in the Australian states of New South Wales and Queensland rises to five people. 
 
 JUSTIN Roser couldn’t save his dad, but he knows he would be proud of him.
@@ -20,8 +21,8 @@ JUSTIN Roser couldn’t save his dad, but he knows he would be proud of him.
 
 ### Related:
 
-1. [Consequences of heavy rain from Cyclone Debbie kill at least three people and force 20,000 others to leave their homes in New South Wales and Queensland. ](/news/2017/04/1/consequences-of-heavy-rain-from-cyclone-debbie-kill-at-least-three-people-and-force-20-000-others-to-leave-their-homes-in-new-south-wales-an.md) _Context: Cyclone Debbie, New South Wales, Queensland_
-2. [Tens of thousands of people are stranded by floods in the Australian states of New South Wales and Queensland. ](/news/2012/02/4/tens-of-thousands-of-people-are-stranded-by-floods-in-the-australian-states-of-new-south-wales-and-queensland.md) _Context: Australia, New South Wales, Queensland_
-3. [Thousands of protesters demonstrate in the Australian states of New South Wales, Queensland and Western Australia against the coal seam gas industry. ](/news/2011/10/17/thousands-of-protesters-demonstrate-in-the-australian-states-of-new-south-wales-queensland-and-western-australia-against-the-coal-seam-gas.md) _Context: Australia, New South Wales, Queensland_
-4. [A Queensland man is missing presumed dead in floodwaters in Bajool while parts of central New South Wales are declared disaster zones after a week of heavy rains in eastern Australia. ](/news/2010/12/3/a-queensland-man-is-missing-presumed-dead-in-floodwaters-in-bajool-while-parts-of-central-new-south-wales-are-declared-disaster-zones-after.md) _Context: Australia, New South Wales, Queensland_
-5. [Mungo Man, the oldest human remains in Australia, is returned to Lake Mungo in outback New South Wales, where he was originally buried. ](/news/2017/11/17/mungo-man-the-oldest-human-remains-in-australia-is-returned-to-lake-mungo-in-outback-new-south-wales-where-he-was-originally-buried.md) _Context: Australia, New South Wales_
+1. [Consequences of heavy rain from Cyclone Debbie kill at least three people and force 20,000 others to leave their homes in New South Wales and Queensland. ](/news/2017/04/1/consequences-of-heavy-rain-from-cyclone-debbie-kill-at-least-three-people-and-force-20-000-others-to-leave-their-homes-in-new-south-wales-an.md) _Context: Cyclone Debbie, NSW, Queensland_
+2. [Tens of thousands of people are stranded by floods in the Australian states of New South Wales and Queensland. ](/news/2012/02/4/tens-of-thousands-of-people-are-stranded-by-floods-in-the-australian-states-of-new-south-wales-and-queensland.md) _Context: Australia, NSW, Queensland_
+3. [Thousands of protesters demonstrate in the Australian states of New South Wales, Queensland and Western Australia against the coal seam gas industry. ](/news/2011/10/17/thousands-of-protesters-demonstrate-in-the-australian-states-of-new-south-wales-queensland-and-western-australia-against-the-coal-seam-gas.md) _Context: Australia, NSW, Queensland_
+4. [A Queensland man is missing presumed dead in floodwaters in Bajool while parts of central New South Wales are declared disaster zones after a week of heavy rains in eastern Australia. ](/news/2010/12/3/a-queensland-man-is-missing-presumed-dead-in-floodwaters-in-bajool-while-parts-of-central-new-south-wales-are-declared-disaster-zones-after.md) _Context: Australia, NSW, Queensland_
+5. [A large number of fireworks accidentally go off in a barge at a New Year's Day show in Terrigal, NSW, Australia, causing thousands to be evacuated from the beach by police and the two people on the barge to suffer minor injuries. ](/news/2017/12/31/a-large-number-of-fireworks-accidentally-go-off-in-a-barge-at-a-new-year-s-day-show-in-terrigal-nsw-australia-causing-thousands-to-be-eva.md) _Context: Australia, NSW_

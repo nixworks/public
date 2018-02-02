@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/19/an-air-force-fokker-f27-crashes-in-fog-shrouded-mountains-near-the-northwestern-city-of-kohatpakistan-killing-pakistan-air-force-chief-air.html)  [JSON](/news/2003/02/19/an-air-force-fokker-f27-crashes-in-fog-shrouded-mountains-near-the-northwestern-city-of-kohatpakistan-killing-pakistan-air-force-chief-air.json)  [XML](/news/2003/02/19/an-air-force-fokker-f27-crashes-in-fog-shrouded-mountains-near-the-northwestern-city-of-kohatpakistan-killing-pakistan-air-force-chief-air.xml)  
+
 ### [2003-02-19](/news/2003/02/19/index.md)
 
+##### Fokker F27
 #  An air force Fokker F27 crashes in fog-shrouded mountains near the northwestern city of KohatPakistan, killing Pakistan air force chief Air Chief Marshal Mushaf Ali, his wife and 15 others.
 
 

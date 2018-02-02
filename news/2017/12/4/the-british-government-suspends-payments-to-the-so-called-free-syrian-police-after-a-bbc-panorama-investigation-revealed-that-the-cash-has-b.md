@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/4/the-british-government-suspends-payments-to-the-
 
 ### [2017-12-4](/news/2017/12/4/index.md)
 
+##### Syrian Civil War
 # The British government suspends payments to the so-called Free Syrian Police after a BBC Panorama investigation revealed that the cash has been diverted to the Salafist rebel groups of Nour al-Din al-Zenki and Jabhat al-Nusra, police officers being hand-picked by these groups, dead people appearing on the payroll and some police officers participating in summary executions. 
 
 A foreign aid scheme is suspended by the government, following a BBC Panorama investigation.

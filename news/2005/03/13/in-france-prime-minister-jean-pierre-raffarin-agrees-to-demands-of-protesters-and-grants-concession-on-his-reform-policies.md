@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/13/in-france-prime-minister-jean-pierre-raffarin-agrees-to-demands-of-protesters-and-grants-concession-on-his-reform-policies.html)  [JSON](/news/2005/03/13/in-france-prime-minister-jean-pierre-raffarin-agrees-to-demands-of-protesters-and-grants-concession-on-his-reform-policies.json)  [XML](/news/2005/03/13/in-france-prime-minister-jean-pierre-raffarin-agrees-to-demands-of-protesters-and-grants-concession-on-his-reform-policies.xml)  
+
 ### [2005-03-13](/news/2005/03/13/index.md)
 
+##### Jean-Pierre Raffarin
 #  In France, prime minister Jean-Pierre Raffarin agrees to demands of protesters and grants concession on his reform policies 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/business/4345193.stm)
 2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-03-13T152249Z_01_CHA355128_RTRUKOC_0_FRANCE-RAFFARIN.xml)

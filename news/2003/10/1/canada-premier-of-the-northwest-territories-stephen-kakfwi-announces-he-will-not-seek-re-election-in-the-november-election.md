@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/1/canada-premier-of-the-northwest-territories-stephen-kakfwi-announces-he-will-not-seek-re-election-in-the-november-election.html)  [JSON](/news/2003/10/1/canada-premier-of-the-northwest-territories-stephen-kakfwi-announces-he-will-not-seek-re-election-in-the-november-election.json)  [XML](/news/2003/10/1/canada-premier-of-the-northwest-territories-stephen-kakfwi-announces-he-will-not-seek-re-election-in-the-november-election.xml)  
+
 ### [2003-10-1](/news/2003/10/1/index.md)
 
+##### Premier of the Northwest Territories
 #  Canada: Premier of the Northwest Territories Stephen Kakfwi announces he will not seek re-election in the November election.
 
 

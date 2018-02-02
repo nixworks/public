@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/23/a-school-shooting-at-marshall-county-high-schoo
 
 ### [2018-01-23](/news/2018/01/23/index.md)
 
+##### school shooting
 # A school shooting at Marshall County High School in Draffenville, Kentucky kills two people and injures 19. The suspect is arrested. 
 
 At least two people were killed and 17 others were injured when a student opened fire at Marshall County High School in Benton, Ky., officials said.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/18/a-large-crater-dubbed-the-fried-egg-because-of-its-shape-is-discovered-off-the-coast-of-the-azores-in-the-atlantic-ocean-prompting-spe.html)  [JSON](/news/2009/12/18/a-large-crater-dubbed-the-fried-egg-because-of-its-shape-is-discovered-off-the-coast-of-the-azores-in-the-atlantic-ocean-prompting-spe.json)  [XML](/news/2009/12/18/a-large-crater-dubbed-the-fried-egg-because-of-its-shape-is-discovered-off-the-coast-of-the-azores-in-the-atlantic-ocean-prompting-spe.xml)  
+
 ### [2009-12-18](/news/2009/12/18/index.md)
 
+##### crater
 #  A large crater, dubbed the "Fried Egg" because of its shape, is discovered off the coast of The Azores in the Atlantic Ocean, prompting speculation that it may have been caused up to 17 million years ago by meteor impact. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8400264.stm)
 

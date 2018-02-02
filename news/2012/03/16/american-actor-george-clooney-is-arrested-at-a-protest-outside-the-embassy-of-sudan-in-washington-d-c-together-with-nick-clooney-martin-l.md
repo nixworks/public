@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/16/american-actor-george-clooney-is-arrested-at-a-protest-outside-the-embassy-of-sudan-in-washington-d-c-together-with-nick-clooney-martin-l.html)  [JSON](/news/2012/03/16/american-actor-george-clooney-is-arrested-at-a-protest-outside-the-embassy-of-sudan-in-washington-d-c-together-with-nick-clooney-martin-l.json)  [XML](/news/2012/03/16/american-actor-george-clooney-is-arrested-at-a-protest-outside-the-embassy-of-sudan-in-washington-d-c-together-with-nick-clooney-martin-l.xml)  
+
 ### [2012-03-16](/news/2012/03/16/index.md)
 
+##### George Clooney
 # American actor George Clooney is arrested at a protest outside the Embassy of Sudan in Washington, D.C. together with Nick Clooney, Martin Luther King III, NAACP President Ben Jealous and several congressmen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17403715)
 2. [E Online](http://au.eonline.com/news/george_clooney_arrested_protesting/301719)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/8/the-death-toll-from-the-taiwan-earthquake-rises-
 
 ### [2016-02-8](/news/2016/02/8/index.md)
 
+##### 2016 Taiwan earthquake
 # The death toll from the Taiwan earthquake rises to 38 with more than 100 people missing. 
 
 TAINAN, Taiwan (Reuters) - Rescuers in the southern Taiwan city of Tainan pulled a woman out alive from the wreckage of a collapsed building on Monday, a Reuters witness said, more than 48 hours after an earthquake hit the island. The death toll from the quake, which struck early on Saturday at the start

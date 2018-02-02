@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2007/06/4/the-government-of-nigeria-sues-pharmaceutical-company-pfizer-for-6-95-billion-in-damages.html)  [JSON](/news/2007/06/4/the-government-of-nigeria-sues-pharmaceutical-company-pfizer-for-6-95-billion-in-damages.json)  [XML](/news/2007/06/4/the-government-of-nigeria-sues-pharmaceutical-company-pfizer-for-6-95-billion-in-damages.xml)  
+
 ### [2007-06-4](/news/2007/06/4/index.md)
 
+##### Nigeria
 #  The government of Nigeria sues pharmaceutical company Pfizer for $6.95-billion in damages. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/health-SP/idUSL0480897320070604)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/health-SP/idUSL0480897320070604)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
 1. [The Supreme Court rules that Nigerian families can sue drug company Pfizer for using a deadly antibiotic on their children. ](/news/2010/06/29/the-supreme-court-rules-that-nigerian-families-can-sue-drug-company-pfizer-for-using-a-deadly-antibiotic-on-their-children.md) _Context: Nigeria, Pfizer_
-2. [Gunmen attack the Ogba Zoo in Benin City, Nigeria, killing three police officers and abduct the zoo's director. There is no information on who the gunmen and abductors are, or whether they have made any demands. ](/news/2017/09/25/gunmen-attack-the-ogba-zoo-in-benin-city-nigeria-killing-three-police-officers-and-abduct-the-zoo-s-director-there-is-no-information-on-w.md) _Context: Nigeria_
-3. [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Nigeria_
-4. [Three suicide bombers kill 27 people and wound 83 near Maiduguri, Nigeria. ](/news/2017/08/15/three-suicide-bombers-kill-27-people-and-wound-83-near-maiduguri-nigeria.md) _Context: Nigeria_
-5. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _Context: Nigeria_
+2. [Pharmaceutical company Pfizer discontinues research into treating patients with Alzheimer's disease and Parkinson's disease. [http:--www.telegraph.co.uk-science-2018-01-08-hunt-alzheimers-cure-suffers-heavy-blow-pfizer-pulls-research- "(The Telegraph)" ]](/news/2018/01/8/pharmaceutical-company-pfizer-discontinues-research-into-treating-patients-with-alzheimer-s-disease-and-parkinson-s-disease-http-www-tel.md) _Context: Pfizer_
+3. [A suicide bomber attacks a mosque in Gamboru, Nigeria, killing 11 people. ](/news/2018/01/3/a-suicide-bomber-attacks-a-mosque-in-gamboru-nigeria-killing-11-people.md) _Context: Nigeria_
+4. [Two Americans and two Canadians are abducted by unknown gunmen in Kaduna State, Nigeria. Two police officers are killed after engaging in a firefight with the abductors. ](/news/2018/01/17/two-americans-and-two-canadians-are-abducted-by-unknown-gunmen-in-kaduna-state-nigeria-two-police-officers-are-killed-after-engaging-in-a.md) _Context: Nigeria_
+5. [Suspected Boko Haram suicide bombers kill 12 people and injure 48 others, in Maiduguri, Nigeria. ](/news/2018/01/17/suspected-boko-haram-suicide-bombers-kill-12-people-and-injure-48-others-in-maiduguri-nigeria.md) _Context: Nigeria_

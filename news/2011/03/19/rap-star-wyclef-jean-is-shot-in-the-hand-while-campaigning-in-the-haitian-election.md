@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/19/rap-star-wyclef-jean-is-shot-in-the-hand-while-campaigning-in-the-haitian-election.html)  [JSON](/news/2011/03/19/rap-star-wyclef-jean-is-shot-in-the-hand-while-campaigning-in-the-haitian-election.json)  [XML](/news/2011/03/19/rap-star-wyclef-jean-is-shot-in-the-hand-while-campaigning-in-the-haitian-election.xml)  
+
 ### [2011-03-19](/news/2011/03/19/index.md)
 
+##### Rap
 # Rap star Wyclef Jean is shot in the hand while campaigning in the Haitian election. 
 
 Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, celeb videos, photos, movies, TV, music news and pop culture on&nbsp;ABCNews.com.
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/Entertainment/wireStory?id=13177746)
 

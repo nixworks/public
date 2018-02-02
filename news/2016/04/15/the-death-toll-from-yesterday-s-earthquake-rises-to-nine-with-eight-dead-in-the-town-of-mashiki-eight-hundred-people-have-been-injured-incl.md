@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/15/the-death-toll-from-yesterday-s-earthquake-rise
 
 ### [2016-04-15](/news/2016/04/15/index.md)
 
+##### 2016 Kumamoto earthquake
 # The death toll from yesterday's earthquake rises to nine with eight dead in the town of Mashiki. Eight hundred people have been injured including over 50 seriously injured. 
 
 

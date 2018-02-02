@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/25/five-children-died-in-guatemala-city-when-a-blaze-started-by-fireworks-swept-through-their-house-a-traditional-holiday-firecracker-called.html)  [JSON](/news/2005/12/25/five-children-died-in-guatemala-city-when-a-blaze-started-by-fireworks-swept-through-their-house-a-traditional-holiday-firecracker-called.json)  [XML](/news/2005/12/25/five-children-died-in-guatemala-city-when-a-blaze-started-by-fireworks-swept-through-their-house-a-traditional-holiday-firecracker-called.xml)  
+
 ### [2005-12-25](/news/2005/12/25/index.md)
 
+##### Guatemala City
 #  Five children died in Guatemala City when a blaze started by fireworks swept through their house. A traditional holiday firecracker called a "silbador" shot into their small wooden house started the fire. The children were aged 2, 3, 6, 10 and 13. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Scotsman](http://news.scotsman.com/latest.cfm?id=2459572005)
 

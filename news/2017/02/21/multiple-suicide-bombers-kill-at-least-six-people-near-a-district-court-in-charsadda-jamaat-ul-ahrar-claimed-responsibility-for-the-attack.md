@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/21/multiple-suicide-bombers-kill-at-least-six-peop
 
 ### [2017-02-21](/news/2017/02/21/index.md)
 
+##### War in North-West Pakistan
 # Multiple suicide bombers kill at least six people near a district court in Charsadda. Jamaat-ul-Ahrar claimed responsibility for the attack. 
 
 At least six killed in blasts in town of Charsadda as suicide bombers attempt to enter court premises.

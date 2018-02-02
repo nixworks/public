@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/16/the-vatican-announces-pope-benedict-xvi-will-send-a-delegation-to-damascus-to-express-his-brotherly-solidarity-with-the-entire-population.html)  [JSON](/news/2012/10/16/the-vatican-announces-pope-benedict-xvi-will-send-a-delegation-to-damascus-to-express-his-brotherly-solidarity-with-the-entire-population.json)  [XML](/news/2012/10/16/the-vatican-announces-pope-benedict-xvi-will-send-a-delegation-to-damascus-to-express-his-brotherly-solidarity-with-the-entire-population.xml)  
+
 ### [2012-10-16](/news/2012/10/16/index.md)
 
+##### Holy See
 # The Vatican announces Pope Benedict XVI will send a delegation to Damascus to "express his brotherly solidarity with the entire population". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://staff.blogs.aljazeera.com/topic/syria/pope-benedict-xvi-will-send-delegation-syrian-capital-express-his-brotherly-solidarity)
 

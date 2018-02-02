@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/4/one-of-the-grozny-city-towers-the-tallest-building-in-chechnya-russia-is-damaged-in-a-large-fire.html)  [JSON](/news/2013/04/4/one-of-the-grozny-city-towers-the-tallest-building-in-chechnya-russia-is-damaged-in-a-large-fire.json)  [XML](/news/2013/04/4/one-of-the-grozny-city-towers-the-tallest-building-in-chechnya-russia-is-damaged-in-a-large-fire.xml)  
+
 ### [2013-04-4](/news/2013/04/4/index.md)
 
+##### Grozny
 # One of the Grozny-City Towers, the tallest building in Chechnya, Russia, is damaged in a large fire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.ria.ru/russia/20130403/180426295.html)
 

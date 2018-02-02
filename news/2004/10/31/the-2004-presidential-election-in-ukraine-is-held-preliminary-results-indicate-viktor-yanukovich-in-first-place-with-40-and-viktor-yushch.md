@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/31/the-2004-presidential-election-in-ukraine-is-held-preliminary-results-indicate-viktor-yanukovich-in-first-place-with-40-and-viktor-yushch.html)  [JSON](/news/2004/10/31/the-2004-presidential-election-in-ukraine-is-held-preliminary-results-indicate-viktor-yanukovich-in-first-place-with-40-and-viktor-yushch.json)  [XML](/news/2004/10/31/the-2004-presidential-election-in-ukraine-is-held-preliminary-results-indicate-viktor-yanukovich-in-first-place-with-40-and-viktor-yushch.xml)  
+
 ### [2004-10-31](/news/2004/10/31/index.md)
 
+##### Ukrainian presidential election controversy
 #  The 2004 presidential election in Ukraine is held. Preliminary results indicate Viktor Yanukovich in first place with 40% and Viktor Yushchenko in second with 39%. The run-off will be held on November 21. International monitors report "serious irregularities" in the voting. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/3970265.stm)
 

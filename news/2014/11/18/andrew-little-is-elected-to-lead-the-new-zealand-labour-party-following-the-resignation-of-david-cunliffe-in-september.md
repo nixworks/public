@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2014/11/18/andrew-little-is-elected-to-lead-the-new-zealand-labour-party-following-the-resignation-of-david-cunliffe-in-september.html)  [JSON](/news/2014/11/18/andrew-little-is-elected-to-lead-the-new-zealand-labour-party-following-the-resignation-of-david-cunliffe-in-september.json)  [XML](/news/2014/11/18/andrew-little-is-elected-to-lead-the-new-zealand-labour-party-following-the-resignation-of-david-cunliffe-in-september.xml)  
+
 ### [2014-11-18](/news/2014/11/18/index.md)
 
+##### Andrew Little
 # Andrew Little is elected to lead the New Zealand Labour Party following the resignation of David Cunliffe in September. 
 
+New Zealand’s main opposition Labour Party elected its fourth leader in six years as it seeks to recover from an historic election defeat.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg News](http://www.bloomberg.com/news/2014-11-18/new-zealand-labour-party-elects-new-leader-after-election-defeat.html)
+1. [Bloomberg News](https://www.bloomberg.com/news/2014-11-18/new-zealand-labour-party-elects-new-leader-after-election-defeat.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

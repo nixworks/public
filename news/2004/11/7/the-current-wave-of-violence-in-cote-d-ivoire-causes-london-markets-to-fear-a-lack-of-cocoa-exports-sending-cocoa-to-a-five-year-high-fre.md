@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/7/the-current-wave-of-violence-in-cote-d-ivoire-causes-london-markets-to-fear-a-lack-of-cocoa-exports-sending-cocoa-to-a-five-year-high-fre.html)  [JSON](/news/2004/11/7/the-current-wave-of-violence-in-cote-d-ivoire-causes-london-markets-to-fear-a-lack-of-cocoa-exports-sending-cocoa-to-a-five-year-high-fre.json)  [XML](/news/2004/11/7/the-current-wave-of-violence-in-cote-d-ivoire-causes-london-markets-to-fear-a-lack-of-cocoa-exports-sending-cocoa-to-a-five-year-high-fre.xml)  
+
 ### [2004-11-7](/news/2004/11/7/index.md)
 
+##### Cte d'Ivoire
 #  The current wave of violence in Cte d'Ivoire causes London markets to fear a lack of cocoa exports, sending cocoa to a five-year high. French forces, including tanks, deploy throughout the Ivorian capital, Abidjan, to restore order. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/3991241.stm)
 

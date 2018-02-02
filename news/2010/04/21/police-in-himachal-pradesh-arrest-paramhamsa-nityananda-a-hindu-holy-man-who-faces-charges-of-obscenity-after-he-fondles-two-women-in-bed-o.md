@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/21/police-in-himachal-pradesh-arrest-paramhamsa-nityananda-a-hindu-holy-man-who-faces-charges-of-obscenity-after-he-fondles-two-women-in-bed-o.html)  [JSON](/news/2010/04/21/police-in-himachal-pradesh-arrest-paramhamsa-nityananda-a-hindu-holy-man-who-faces-charges-of-obscenity-after-he-fondles-two-women-in-bed-o.json)  [XML](/news/2010/04/21/police-in-himachal-pradesh-arrest-paramhamsa-nityananda-a-hindu-holy-man-who-faces-charges-of-obscenity-after-he-fondles-two-women-in-bed-o.xml)  
+
 ### [2010-04-21](/news/2010/04/21/index.md)
 
+##### Himachal Pradesh
 # Police in Himachal Pradesh arrest Paramhamsa Nityananda, a Hindu holy man who faces charges of obscenity after he fondles two women in bed on television. 
 
 An Indian guru shown on television fondling two women in bed last month was arrested Wednesday in northern India on charges including obscenity and hurting religious sentiments, police said.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8634696.stm)
 2. [Indian Express](http://www.indianexpress.com/news/swami-nityananda-arrested-in-himachal/609412/)

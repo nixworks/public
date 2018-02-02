@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2009/08/4/nigerian-airport-officials-release-an-ukrainian-aircraft-and-its-crew-arrested-in-june-with-an-arms-cargo-bound-for-equatorial-guinea.html)  [JSON](/news/2009/08/4/nigerian-airport-officials-release-an-ukrainian-aircraft-and-its-crew-arrested-in-june-with-an-arms-cargo-bound-for-equatorial-guinea.json)  [XML](/news/2009/08/4/nigerian-airport-officials-release-an-ukrainian-aircraft-and-its-crew-arrested-in-june-with-an-arms-cargo-bound-for-equatorial-guinea.xml)  
+
 ### [2009-08-4](/news/2009/08/4/index.md)
 
+##### Nigeria
 #  Nigerian airport officials release an Ukrainian aircraft and its crew arrested in June with an arms cargo bound for Equatorial Guinea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=86&art_id=nw20090804203442999C130682)
 
 ### Related:
 
-1. [Thirty thousand people are evacuated from Kalynivka, Ukraine, following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-from-kalynivka-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-gov.md) _Context: Ukraine_
-2. [Gunmen attack the Ogba Zoo in Benin City, Nigeria, killing three police officers and abduct the zoo's director. There is no information on who the gunmen and abductors are, or whether they have made any demands. ](/news/2017/09/25/gunmen-attack-the-ogba-zoo-in-benin-city-nigeria-killing-three-police-officers-and-abduct-the-zoo-s-director-there-is-no-information-on-w.md) _Context: Nigeria_
-3. [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Nigeria_
-4. [Three suicide bombers kill 27 people and wound 83 near Maiduguri, Nigeria. ](/news/2017/08/15/three-suicide-bombers-kill-27-people-and-wound-83-near-maiduguri-nigeria.md) _Context: Nigeria_
-5. [The International Institute for Strategic Studies releases a report arguing that North Korea has acquired a high-performance liquid-propellant engine for its missile program, probably from illicit networks in Russia and Ukraine, likely produced by Yuzhmash facilities. Ukraine denies the allegations. ](/news/2017/08/14/the-international-institute-for-strategic-studies-releases-a-report-arguing-that-north-korea-has-acquired-a-high-performance-liquid-propella.md) _Context: Ukraine_
+1. [A suicide bomber attacks a mosque in Gamboru, Nigeria, killing 11 people. ](/news/2018/01/3/a-suicide-bomber-attacks-a-mosque-in-gamboru-nigeria-killing-11-people.md) _Context: Nigeria_
+2. [Two Americans and two Canadians are abducted by unknown gunmen in Kaduna State, Nigeria. Two police officers are killed after engaging in a firefight with the abductors. ](/news/2018/01/17/two-americans-and-two-canadians-are-abducted-by-unknown-gunmen-in-kaduna-state-nigeria-two-police-officers-are-killed-after-engaging-in-a.md) _Context: Nigeria_
+3. [Suspected Boko Haram suicide bombers kill 12 people and injure 48 others, in Maiduguri, Nigeria. ](/news/2018/01/17/suspected-boko-haram-suicide-bombers-kill-12-people-and-injure-48-others-in-maiduguri-nigeria.md) _Context: Nigeria_
+4. [Nigerian Shia Islamic Movement leader, Ibrahim Zakzaky, who is detained at an unknown location without charges since December 2015, makes a short public appearance, his first in two years, being allowed to see his doctor. ](/news/2018/01/13/nigerian-shia-islamic-movement-leader-ibrahim-zakzaky-who-is-detained-at-an-unknown-location-without-charges-since-december-2015-makes-a.md) _Context: Nigeria_
+5. [A man strapped with explosives takes 11 people hostage in Kharkiv, Ukraine. The Ukrainian police free all the hostages and arrest the man. ](/news/2017/12/30/a-man-strapped-with-explosives-takes-11-people-hostage-in-kharkiv-ukraine-the-ukrainian-police-free-all-the-hostages-and-arrest-the-man.md) _Context: Ukraine_

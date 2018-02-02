@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/22/british-airways-chief-executive-willie-walsh-is-surrounded-by-demonstrators-who-storm-the-headquarters-of-the-acas-building-in-london.html)  [JSON](/news/2010/05/22/british-airways-chief-executive-willie-walsh-is-surrounded-by-demonstrators-who-storm-the-headquarters-of-the-acas-building-in-london.json)  [XML](/news/2010/05/22/british-airways-chief-executive-willie-walsh-is-surrounded-by-demonstrators-who-storm-the-headquarters-of-the-acas-building-in-london.xml)  
+
 ### [2010-05-22](/news/2010/05/22/index.md)
 
+##### British Airways
 # British Airways chief executive Willie Walsh is surrounded by demonstrators who storm the headquarters of the Acas building in London. 
 
 British Airways chief executive Willie Walsh had to be escorted to safety from a meeting with unions after demonstrators stormed the headquarters of conciliation service, Acas.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/BUSINESS/05/23/uk.british.airways.strike/?hpt=T2)
 2. [Hindustan Times](http://www.hindustantimes.com/British-Airways-talks-disrupted-as-protesters-storm-building/Article1-547336.aspx)

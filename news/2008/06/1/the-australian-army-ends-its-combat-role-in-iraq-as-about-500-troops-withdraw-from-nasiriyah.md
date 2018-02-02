@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/06/1/the-australian-army-ends-its-combat-role-in-iraq-as-about-500-troops-withdraw-from-nasiriyah.html)  [JSON](/news/2008/06/1/the-australian-army-ends-its-combat-role-in-iraq-as-about-500-troops-withdraw-from-nasiriyah.json)  [XML](/news/2008/06/1/the-australian-army-ends-its-combat-role-in-iraq-as-about-500-troops-withdraw-from-nasiriyah.xml)  
+
 ### [2008-06-1](/news/2008/06/1/index.md)
 
+##### soldiers
 #  The Australian Army ends its combat role in Iraq, as about 500 troops withdraw from Nasiriyah. 
 
 About 500 Australian combat troops pulled out of their base in southern Iraq on Sunday, fulfilling an election promise by Australian Prime Minister Kevin Rudd to bring the soldiers home this year.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/GCA-GCA-iraq/idUSL0164801020080601)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080601&t=2&i=4599155&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-06-01T144758Z_01_L01648010_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/GCA-GCA-iraq/idUSL0164801020080601)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20080601&t=2&i=4599155&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-06-01T144758Z_01_L01648010_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

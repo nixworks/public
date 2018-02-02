@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/08/19/two-passenger-train-carriages-are-swept-into-a-river-by-floods-in-sichuan-china.html)  [JSON](/news/2010/08/19/two-passenger-train-carriages-are-swept-into-a-river-by-floods-in-sichuan-china.json)  [XML](/news/2010/08/19/two-passenger-train-carriages-are-swept-into-a-river-by-floods-in-sichuan-china.xml)  
+
 ### [2010-08-19](/news/2010/08/19/index.md)
 
+##### 2010 China floods
 # Two passenger train carriages are swept into a river by floods in Sichuan, China. 
 
 Two train carriages fell into a river in southwestern China on Thursday after floods destroyed a bridge, but the passengers had been evacuated before the accident happened, state television said. The carriages were swept 200 metres (655 ft) down a river in Guanghan, Sichuan province, leaving the rest of the carriages sitting on the undamaged part of the bridge, the report said. There were no reports of injuries or death, it added. Large parts of China have been hit by torrential rains and mudslides this year, killing more than 2,000 people. (Reporting by Ben Blanchard)
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11024357)
-2. [Reuters](http://www.reuters.com/article/idUSSGE67I0EL)
+2. [Reuters](https://www.reuters.com/article/idUSSGE67I0EL)
 3. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-08/19/c_13452760.htm)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

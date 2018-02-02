@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/24/lockheed-martin-announces-that-it-plans-to-have-a-functioning-prototype-fusion-reactor-operational-in-3-years.html)  [JSON](/news/2014/10/24/lockheed-martin-announces-that-it-plans-to-have-a-functioning-prototype-fusion-reactor-operational-in-3-years.json)  [XML](/news/2014/10/24/lockheed-martin-announces-that-it-plans-to-have-a-functioning-prototype-fusion-reactor-operational-in-3-years.xml)  
+
 ### [2014-10-24](/news/2014/10/24/index.md)
 
+##### Lockheed
 # Lockheed Martin announces that it plans to have a functioning prototype fusion reactor operational in 3 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://www.voanews.com/content/fusion-power-lockheed-reactor/2495404.html)
 

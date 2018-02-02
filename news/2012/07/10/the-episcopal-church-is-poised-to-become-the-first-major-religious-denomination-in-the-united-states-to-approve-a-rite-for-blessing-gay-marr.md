@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/10/the-episcopal-church-is-poised-to-become-the-first-major-religious-denomination-in-the-united-states-to-approve-a-rite-for-blessing-gay-marr.html)  [JSON](/news/2012/07/10/the-episcopal-church-is-poised-to-become-the-first-major-religious-denomination-in-the-united-states-to-approve-a-rite-for-blessing-gay-marr.json)  [XML](/news/2012/07/10/the-episcopal-church-is-poised-to-become-the-first-major-religious-denomination-in-the-united-states-to-approve-a-rite-for-blessing-gay-marr.xml)  
+
 ### [2012-07-10](/news/2012/07/10/index.md)
 
+##### U.S. branch of the Communion
 # The Episcopal Church is poised to become the first major religious denomination in the United States to approve a rite for blessing gay marriages this December, just after its bishops approved such a liturgy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2012/jul/10/episcopal-church-gay-marriage)
 

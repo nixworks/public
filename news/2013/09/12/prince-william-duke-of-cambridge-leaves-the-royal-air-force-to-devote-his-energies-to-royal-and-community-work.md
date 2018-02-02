@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/12/prince-william-duke-of-cambridge-leaves-the-royal-air-force-to-devote-his-energies-to-royal-and-community-work.html)  [JSON](/news/2013/09/12/prince-william-duke-of-cambridge-leaves-the-royal-air-force-to-devote-his-energies-to-royal-and-community-work.json)  [XML](/news/2013/09/12/prince-william-duke-of-cambridge-leaves-the-royal-air-force-to-devote-his-energies-to-royal-and-community-work.xml)  
+
 ### [2013-09-12](/news/2013/09/12/index.md)
 
+##### Duke of Cambridge
 # Prince William, Duke of Cambridge, leaves the Royal Air Force to devote his energies to Royal and community work. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/news/world/as-duty-calls-prince-william-quits-the-airforce-for-charity-family-roles/story-fnb64oi6-1226718093218)
 

@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2010/03/20/a-western-saharan-human-rights-campaigner-alleges-abuse-by-moroccan-police-after-being-interviewed-by-the-bbc-for-their-tropic-of-cancer-p.html)  [JSON](/news/2010/03/20/a-western-saharan-human-rights-campaigner-alleges-abuse-by-moroccan-police-after-being-interviewed-by-the-bbc-for-their-tropic-of-cancer-p.json)  [XML](/news/2010/03/20/a-western-saharan-human-rights-campaigner-alleges-abuse-by-moroccan-police-after-being-interviewed-by-the-bbc-for-their-tropic-of-cancer-p.xml)  
+
 ### [2010-03-20](/news/2010/03/20/index.md)
 
+##### Western Sahara
 # A Western Saharan human rights campaigner alleges abuse by Moroccan police after being interviewed by the BBC for their "Tropic of Cancer" programme. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8575448.stm)
+
+### Changes:
+
+1. [A Western Saharan human rights campaigner alleges abuse by Moroccan police after being interviewed by the BBC for their ''Tropic of Cancer'' programme. ](/news/2010/03/20/a-western-saharan-human-rights-campaigner-alleges-abuse-by-moroccan-police-after-being-interviewed-by-the-bbc-for-their-tropic-of-cancer.md) _2017-08-25 03:27:25 (First version)_
+1. [A Western Saharan human rights campaigner alleges abuse by Moroccan police after being interviewed by the BBC for their "Tropic of Cancer" programme. ](/news/2010/03/20/a-western-saharan-human-rights-campaigner-alleges-abuse-by-moroccan-police-after-being-interviewed-by-the-bbc-for-their-tropic-of-cancer-p.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [Morocco suspends contact with the European Union over a European court ruling that invalidates the bloc's farm trade deal with Rabat, and saying it should exclude the disputed Moroccan-controlled territory of Western Sahara. ](/news/2016/02/25/morocco-suspends-contact-with-the-european-union-over-a-european-court-ruling-that-invalidates-the-bloc-s-farm-trade-deal-with-rabat-and-sa.md) _Context: Morocco, Western Sahara_
 4. [In New York, representatives of Morocco and Western Sahara conclude UN-backed talks on resolving the conflict between the two countries without reaching an agreement that was satisfactory to both parties. ](/news/2011/06/8/in-new-york-representatives-of-morocco-and-western-sahara-conclude-un-backed-talks-on-resolving-the-conflict-between-the-two-countries-with.md) _Context: Morocco, Western Sahara_
 5. [The death toll from clashes at a camp in Western Sahara between Sahrawi protesters and Moroccan police rises to eleven. ](/news/2010/11/9/the-death-toll-from-clashes-at-a-camp-in-western-sahara-between-sahrawi-protesters-and-moroccan-police-rises-to-eleven.md) _Context: Morocco, Western Sahara_
-
-### Changes:
-
-1. [A Western Saharan human rights campaigner alleges abuse by Moroccan police after being interviewed by the BBC for their ''Tropic of Cancer'' programme. ](/news/2010/03/20/a-western-saharan-human-rights-campaigner-alleges-abuse-by-moroccan-police-after-being-interviewed-by-the-bbc-for-their-tropic-of-cancer.md) _2017-08-25 03:27:25 (First version)_
-1. [A Western Saharan human rights campaigner alleges abuse by Moroccan police after being interviewed by the BBC for their "Tropic of Cancer" programme. ](/news/2010/03/20/a-western-saharan-human-rights-campaigner-alleges-abuse-by-moroccan-police-after-being-interviewed-by-the-bbc-for-their-tropic-of-cancer-p.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/31/2011-syrian-uprising-an-arab-league-observer-witnesses-snipers-in-the-syrian-city-of-deraa-and-calls-for-their-immediate-removal.html)  [JSON](/news/2011/12/31/2011-syrian-uprising-an-arab-league-observer-witnesses-snipers-in-the-syrian-city-of-deraa-and-calls-for-their-immediate-removal.json)  [XML](/news/2011/12/31/2011-syrian-uprising-an-arab-league-observer-witnesses-snipers-in-the-syrian-city-of-deraa-and-calls-for-their-immediate-removal.xml)  
+
 ### [2011-12-31](/news/2011/12/31/index.md)
 
+##### 2011 Syrian uprising
 # 2011 Syrian uprising: An Arab League observer witnesses snipers in the Syrian city of Deraa and calls for their immediate removal. 
 
 Observer says he witnessed snipers in southern Syrian city, as huge rallies took place across the country.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2011/12/2011123164911825320.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/31/20111231161514458734_20.jpg)

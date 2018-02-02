@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/31/the-pirate-bay-is-closed-when-servers-located-in-stockholm-sweden-are-confiscated-in-a-police-raid-initiated-by-the-swedish-anti-piracy-b.html)  [JSON](/news/2006/05/31/the-pirate-bay-is-closed-when-servers-located-in-stockholm-sweden-are-confiscated-in-a-police-raid-initiated-by-the-swedish-anti-piracy-b.json)  [XML](/news/2006/05/31/the-pirate-bay-is-closed-when-servers-located-in-stockholm-sweden-are-confiscated-in-a-police-raid-initiated-by-the-swedish-anti-piracy-b.xml)  
+
 ### [2006-05-31](/news/2006/05/31/index.md)
 
+##### The Pirate Bay
 #  The Pirate Bay is closed when servers located in Stockholm, Sweden, are confiscated in a police raid initiated by the Swedish anti-piracy bureau. Massive media-discussion and criticism against the bureau's methods and the acts of the Swedish police follows, since at least 20 non-piracy sites are taken down at the same time - including the website of Piratpartiet, a Swedish political party aimed to run in the 2006 elections. 
 
 Get the latest science news and technology news, read tech reviews and more at ABC News.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/Technology/wireStory?id=2024088)
 

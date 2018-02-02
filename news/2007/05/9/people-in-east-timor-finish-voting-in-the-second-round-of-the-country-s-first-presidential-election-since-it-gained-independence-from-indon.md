@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/9/people-in-east-timor-finish-voting-in-the-second-round-of-the-country-s-first-presidential-election-since-it-gained-independence-from-indon.html)  [JSON](/news/2007/05/9/people-in-east-timor-finish-voting-in-the-second-round-of-the-country-s-first-presidential-election-since-it-gained-independence-from-indon.json)  [XML](/news/2007/05/9/people-in-east-timor-finish-voting-in-the-second-round-of-the-country-s-first-presidential-election-since-it-gained-independence-from-indon.xml)  
+
 ### [2007-05-9](/news/2007/05/9/index.md)
 
+##### East Timor
 #  People in East Timor finish voting in the second round of the country's first presidential election since it gained independence from Indonesia in 2002. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6635009.stm)
 

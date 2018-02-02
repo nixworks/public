@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/8/kenya-replaces-almost-all-of-its-senior-police-officers-after-they-were-blamed-for-deaths-during-post-election-violence-in-2007-and-2008.html)  [JSON](/news/2009/09/8/kenya-replaces-almost-all-of-its-senior-police-officers-after-they-were-blamed-for-deaths-during-post-election-violence-in-2007-and-2008.json)  [XML](/news/2009/09/8/kenya-replaces-almost-all-of-its-senior-police-officers-after-they-were-blamed-for-deaths-during-post-election-violence-in-2007-and-2008.xml)  
+
 ### [2009-09-8](/news/2009/09/8/index.md)
 
+##### Kenya
 #  Kenya replaces almost all of its senior police officers after they were blamed for deaths during post-election violence in 2007 and 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8244594.stm)
 2. [Daily Nation](http://www.nation.co.ke/News/-/1056/654698/-/umsmbr/-/index.html)

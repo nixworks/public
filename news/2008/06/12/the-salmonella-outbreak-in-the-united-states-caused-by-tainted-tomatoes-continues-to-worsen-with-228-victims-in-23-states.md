@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2008/06/12/the-salmonella-outbreak-in-the-united-states-caused-by-tainted-tomatoes-continues-to-worsen-with-228-victims-in-23-states.html)  [JSON](/news/2008/06/12/the-salmonella-outbreak-in-the-united-states-caused-by-tainted-tomatoes-continues-to-worsen-with-228-victims-in-23-states.json)  [XML](/news/2008/06/12/the-salmonella-outbreak-in-the-united-states-caused-by-tainted-tomatoes-continues-to-worsen-with-228-victims-in-23-states.xml)  
+
 ### [2008-06-12](/news/2008/06/12/index.md)
 
+##### Salmonella
 #  The Salmonella outbreak in the United States caused by tainted tomatoes continues to worsen with 228 victims in 23 states. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=acZs0xEVJPvI&refer=home)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=acZs0xEVJPvI&refer=home)
 
 ### Related:
 
-1. [Health authorities in the United States say that 53 people in nine states have been sickened in a salmonella outbreak. California is the worst affected state with 31 cases with the other states with cases include Arizona, Illinois, Mississippi, New Mexico, South Dakota, Virginia, Washington and Wisconsin. ](/news/2015/05/21/health-authorities-in-the-united-states-say-that-53-people-in-nine-states-have-been-sickened-in-a-salmonella-outbreak-california-is-the-wor.md) _Context: United States, salmonella_
-2. [The United States is hit by a salmonella scare, with hundreds of people now thought to be ill across the country due to bad eggs; poisoning is expected to increase in the coming weeks. ](/news/2010/08/21/the-united-states-is-hit-by-a-salmonella-scare-with-hundreds-of-people-now-thought-to-be-ill-across-the-country-due-to-bad-eggs-poisoning.md) _Context: United States, salmonella_
-3. [An American egg company recalls 380 million products as outbreaks of "salmonella" poisoning spread across the United States. ](/news/2010/08/19/an-american-egg-company-recalls-380-million-products-as-outbreaks-of-salmonella-poisoning-spread-across-the-united-states.md) _Context: United States, salmonella_
-4. [ The United States Food and Drug Administration finds the salmonella strain responsible for the 2008 United States salmonellosis outbreak in irrigation water at a serrano pepper at a farm in Nuevo Leon, Mexico. ](/news/2008/07/30/the-united-states-food-and-drug-administration-finds-the-salmonella-strain-responsible-for-the-2008-united-states-salmonellosis-outbreak-in.md) _Context: United States, salmonella_
-5. [ McDonald's stops serving sliced tomatoes in its hamburgers in the United States following a Salmonella Saintpaul outbreak linked to raw tomatoes. ](/news/2008/06/9/mcdonald-s-stops-serving-sliced-tomatoes-in-its-hamburgers-in-the-united-states-following-a-salmonella-saintpaul-outbreak-linked-to-raw-tom.md) _Context: United States, tomato_
+1. [ McDonald's stops serving sliced tomatoes in its hamburgers in the United States following a Salmonella Saintpaul outbreak linked to raw tomatoes. ](/news/2008/06/9/mcdonald-s-stops-serving-sliced-tomatoes-in-its-hamburgers-in-the-united-states-following-a-salmonella-saintpaul-outbreak-linked-to-raw-tom.md) _Context: U.S., tomato_
+2. [ The United States Food and Drug Administration has received 167 reported incidents of Salmonellosis from eating tainted tomatoes in 17 states with New Mexico and Texas the worst affected areas. ](/news/2008/06/11/the-united-states-food-and-drug-administration-has-received-167-reported-incidents-of-salmonellosis-from-eating-tainted-tomatoes-in-17-stat.md) _Context: U.S., tomato_
+3. [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md) _Context: U.S._
+4. [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md) _Context: U.S._
+5. [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md) _Context: U.S._

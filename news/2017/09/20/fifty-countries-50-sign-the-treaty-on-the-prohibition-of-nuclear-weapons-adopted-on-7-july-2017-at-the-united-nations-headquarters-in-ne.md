@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/20/fifty-countries-50-sign-the-treaty-on-the-prohi
 
 ### [2017-09-20](/news/2017/09/20/index.md)
 
+##### U.N. Prohibition of Nuclear Weapons Treaty
 # Fifty countries (50) sign the Treaty on the Prohibition of Nuclear Weapons, adopted on 7 July 2017, at the United Nations headquarters in New York City. The world's nuclear-weapon states oppose the measure. 
 
 
@@ -19,4 +20,3 @@ Formats: [HTML](/news/2017/09/20/fifty-countries-50-sign-the-treaty-on-the-prohi
 
 1. [The United Nations votes in favour of the Treaty on the Prohibition of Nuclear Weapons with 122 in favour, 1 abstention, and 1 against. The treaty conference and negotiations had been boycotted by the nuclear weapon states and by the members of NATO. ](/news/2017/07/7/the-united-nations-votes-in-favour-of-the-treaty-on-the-prohibition-of-nuclear-weapons-with-122-in-favour-1-abstention-and-1-against-the.md) _Context: nuclear-weapon states_
 2. [President Mahmoud Ahmadinejad announces that Iran is now a nuclear state, following a successful 20% uranium enrichment. ](/news/2010/02/11/president-mahmoud-ahmadinejad-announces-that-iran-is-now-a-nuclear-state-following-a-successful-20-uranium-enrichment.md) _Context: nuclear-weapon states_
-3. [ "The New York Times" reports that a website created at the request of United States Representative Peter Hoekstra and Senator Pat Roberts was found to contain detailed information which could help nuclear-capable states produce nuclear weapons. The website was shut down on November 2 following questioning by "The New York Times" and protests by International Atomic Energy Agency officials. ](/news/2006/11/3/the-new-york-times-reports-that-a-website-created-at-the-request-of-united-states-representative-peter-hoekstra-and-senator-pat-roberts-w.md) _Context: nuclear-weapon states_

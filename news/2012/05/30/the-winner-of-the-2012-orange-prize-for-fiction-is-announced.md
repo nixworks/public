@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/30/the-winner-of-the-2012-orange-prize-for-fiction-is-announced.html)  [JSON](/news/2012/05/30/the-winner-of-the-2012-orange-prize-for-fiction-is-announced.json)  [XML](/news/2012/05/30/the-winner-of-the-2012-orange-prize-for-fiction-is-announced.xml)  
+
 ### [2012-05-30](/news/2012/05/30/index.md)
 
+##### Orange Prize for Fiction
 # The winner of the 2012 Orange Prize for Fiction is announced. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/books/quiz/2012/may/30/how-well-do-you-know-orange-prize-trivia-quiz)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/12/31/former-catholic-primate-of-all-ireland-cardinal-cahal-daly-the-hierarchy-s-foremost-theologian-and-its-most-trenchant-critic-of-political.html)  [JSON](/news/2009/12/31/former-catholic-primate-of-all-ireland-cardinal-cahal-daly-the-hierarchy-s-foremost-theologian-and-its-most-trenchant-critic-of-political.json)  [XML](/news/2009/12/31/former-catholic-primate-of-all-ireland-cardinal-cahal-daly-the-hierarchy-s-foremost-theologian-and-its-most-trenchant-critic-of-political.xml)  
+
 ### [2009-12-31](/news/2009/12/31/index.md)
 
+##### Catholic Church
 #  Former Catholic Primate of All Ireland Cardinal Cahal Daly, "the hierarchy's foremost theologian and its most trenchant critic of politically-inspired violence", dies in Belfast aged 92. 
 
 Tributes have been paid to the former Catholic Primate of All Ireland, Cardinal Cahal Daly who died in Belfast aged 92.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1231/dalyc.html)
-2. [Reuters](http://www.reuters.com/article/idUSTRE5BU3EP20091231)
+2. [Reuters](https://www.reuters.com/article/idUSTRE5BU3EP20091231)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/religion/6918610/Cardinal-Cahal-Daly-dies-aged-92.html)
 4. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1231/breaking66.htm)
 4. [Cover Image](https://img.rasset.ie/0002dfea-1600.jpg)

@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2010/10/20/france-braces-itself-for-another-day-of-strikes-against-proposed-cuts-to-pensions-that-the-senate-will-consider-later-this-week.html)  [JSON](/news/2010/10/20/france-braces-itself-for-another-day-of-strikes-against-proposed-cuts-to-pensions-that-the-senate-will-consider-later-this-week.json)  [XML](/news/2010/10/20/france-braces-itself-for-another-day-of-strikes-against-proposed-cuts-to-pensions-that-the-senate-will-consider-later-this-week.xml)  
+
 ### [2010-10-20](/news/2010/10/20/index.md)
 
+##### France
 # France braces itself for another day of strikes against proposed cuts to pensions that the Senate will consider later this week. 
 
 French strikers impose new fuel blockades, hours after security forces clear protesters from three depots.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11580492)
-2. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20101020/ts_nm/us_france_pensions)
+2. [Reuters via Yahoo! News](https://news.yahoo.com/s/nm/20101020/ts_nm/us_france_pensions)
 2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
+
+### Changes:
+
+1. [French strikesFrance braces itself for another day of strikes against proposed cuts to pensions that the Senate will consider later this week. ](/news/2010/10/20/french-strikespfrance-braces-itself-for-another-day-of-strikes-against-proposed-cuts-to-pensions-that-the-senate-will-consider-later-this-we.md) _2017-08-25 03:30:36 (First version)_
+2. [French strikes: France braces itself for another day of strikes against proposed cuts to pensions that the Senate will consider later this week. ](/news/2010/10/20/french-strikes-france-braces-itself-for-another-day-of-strikes-against-proposed-cuts-to-pensions-that-the-senate-will-consider-later-this-w.md) _2017-08-27 03:30:41 (Update)_
+2. [France braces itself for another day of strikes against proposed cuts to pensions that the Senate will consider later this week. ](/news/2010/10/20/france-braces-itself-for-another-day-of-strikes-against-proposed-cuts-to-pensions-that-the-senate-will-consider-later-this-week.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ French strikers impose new fuel blockades, hours after security forces clear pro
 3. [The National Assembly of France takes a final vote on pension reform, with President Nicolas Sarkozy hoping that it will end the recent strikes and demonstrations. ](/news/2010/10/27/the-national-assembly-of-france-takes-a-final-vote-on-pension-reform-with-president-nicolas-sarkozy-hoping-that-it-will-end-the-recent-stri.md) _Context: France, recent strikes and demonstrations_
 4. [French riot police take over the Grandpuits Total S.A. oil refinery which had been blockaded by strikers for more than ten days. ](/news/2010/10/22/french-riot-police-take-over-the-grandpuits-total-s-a-oil-refinery-which-had-been-blockaded-by-strikers-for-more-than-ten-days.md) _Context: France, recent strikes and demonstrations_
 5. [2010 strikes in France: French trade unions launch a new round of strikes over plans by the President Nicolas Sarkozy to lift the pension age to 62, with transport services and schools to be badly affected. ](/news/2010/09/23/2010-strikes-in-france-french-trade-unions-launch-a-new-round-of-strikes-over-plans-by-the-president-nicolas-sarkozy-to-lift-the-pension-ag.md) _Context: France, recent strikes and demonstrations_
-
-### Changes:
-
-1. [French strikesFrance braces itself for another day of strikes against proposed cuts to pensions that the Senate will consider later this week. ](/news/2010/10/20/french-strikespfrance-braces-itself-for-another-day-of-strikes-against-proposed-cuts-to-pensions-that-the-senate-will-consider-later-this-we.md) _2017-08-25 03:30:36 (First version)_
-2. [French strikes: France braces itself for another day of strikes against proposed cuts to pensions that the Senate will consider later this week. ](/news/2010/10/20/french-strikes-france-braces-itself-for-another-day-of-strikes-against-proposed-cuts-to-pensions-that-the-senate-will-consider-later-this-w.md) _2017-08-27 03:30:41 (Update)_
-2. [France braces itself for another day of strikes against proposed cuts to pensions that the Senate will consider later this week. ](/news/2010/10/20/france-braces-itself-for-another-day-of-strikes-against-proposed-cuts-to-pensions-that-the-senate-will-consider-later-this-week.md) _(Current version)_

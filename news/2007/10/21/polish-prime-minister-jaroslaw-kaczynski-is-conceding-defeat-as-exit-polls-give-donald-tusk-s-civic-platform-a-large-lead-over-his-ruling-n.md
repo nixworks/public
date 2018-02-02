@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/21/polish-prime-minister-jaroslaw-kaczynski-is-conceding-defeat-as-exit-polls-give-donald-tusk-s-civic-platform-a-large-lead-over-his-ruling-n.html)  [JSON](/news/2007/10/21/polish-prime-minister-jaroslaw-kaczynski-is-conceding-defeat-as-exit-polls-give-donald-tusk-s-civic-platform-a-large-lead-over-his-ruling-n.json)  [XML](/news/2007/10/21/polish-prime-minister-jaroslaw-kaczynski-is-conceding-defeat-as-exit-polls-give-donald-tusk-s-civic-platform-a-large-lead-over-his-ruling-n.xml)  
+
 ### [2007-10-21](/news/2007/10/21/index.md)
 
+##### Jaroslaw Kaczynski
 #  Polish Prime Minister Jaroslaw Kaczynski is conceding defeat as exit polls give Donald Tusk's Civic Platform a large lead over his ruling nationalists in the parliamentary elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7054912.stm)
 2. [VOA](http://www.voanews.com/english/2007-10-21-voa24.cfm)

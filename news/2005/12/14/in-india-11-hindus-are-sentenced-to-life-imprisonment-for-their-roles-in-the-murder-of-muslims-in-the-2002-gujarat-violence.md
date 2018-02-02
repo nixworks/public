@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/14/in-india-11-hindus-are-sentenced-to-life-imprisonment-for-their-roles-in-the-murder-of-muslims-in-the-2002-gujarat-violence.html)  [JSON](/news/2005/12/14/in-india-11-hindus-are-sentenced-to-life-imprisonment-for-their-roles-in-the-murder-of-muslims-in-the-2002-gujarat-violence.json)  [XML](/news/2005/12/14/in-india-11-hindus-are-sentenced-to-life-imprisonment-for-their-roles-in-the-murder-of-muslims-in-the-2002-gujarat-violence.xml)  
+
 ### [2005-12-14](/news/2005/12/14/index.md)
 
+##### India
 #  In India, 11 Hindus are sentenced to life imprisonment for their roles in the murder of Muslims in the 2002 Gujarat violence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4527752.stm)
 

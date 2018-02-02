@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/17/an-indian-train-fire-that-killed-up-to-60-hindus-and-sparked-deadly-religious-riots-in-2002-was-started-by-accident-not-firebombs-thrown.html)  [JSON](/news/2005/01/17/an-indian-train-fire-that-killed-up-to-60-hindus-and-sparked-deadly-religious-riots-in-2002-was-started-by-accident-not-firebombs-thrown.json)  [XML](/news/2005/01/17/an-indian-train-fire-that-killed-up-to-60-hindus-and-sparked-deadly-religious-riots-in-2002-was-started-by-accident-not-firebombs-thrown.xml)  
+
 ### [2005-01-17](/news/2005/01/17/index.md)
 
+##### India
 #  An Indian train fire that killed up to 60 Hindus and sparked deadly religious riots in 2002 was started by accident - not firebombs thrown by Muslims as had been reported, an Indian Railways inquiry headed by a retired Judge Bannerjee has said. Justice Banerjee said that according to eyewitness accounts people had been cooking in the carriage at the time it caught fire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/4180885.stm)
 

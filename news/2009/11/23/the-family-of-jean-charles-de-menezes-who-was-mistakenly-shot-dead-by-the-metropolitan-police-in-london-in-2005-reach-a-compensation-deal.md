@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/23/the-family-of-jean-charles-de-menezes-who-was-mistakenly-shot-dead-by-the-metropolitan-police-in-london-in-2005-reach-a-compensation-deal.html)  [JSON](/news/2009/11/23/the-family-of-jean-charles-de-menezes-who-was-mistakenly-shot-dead-by-the-metropolitan-police-in-london-in-2005-reach-a-compensation-deal.json)  [XML](/news/2009/11/23/the-family-of-jean-charles-de-menezes-who-was-mistakenly-shot-dead-by-the-metropolitan-police-in-london-in-2005-reach-a-compensation-deal.xml)  
+
 ### [2009-11-23](/news/2009/11/23/index.md)
 
+##### Jean Charles de Menezes
 #  The family of Jean Charles de Menezes, who was mistakenly shot dead by the Metropolitan Police in London in 2005, reach a compensation deal with police, resolving "all litigation" between them. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8374669.stm)
 

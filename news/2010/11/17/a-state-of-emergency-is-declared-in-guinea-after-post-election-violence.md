@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/17/a-state-of-emergency-is-declared-in-guinea-after-post-election-violence.html)  [JSON](/news/2010/11/17/a-state-of-emergency-is-declared-in-guinea-after-post-election-violence.json)  [XML](/news/2010/11/17/a-state-of-emergency-is-declared-in-guinea-after-post-election-violence.xml)  
+
 ### [2010-11-17](/news/2010/11/17/index.md)
 
+##### state of emergency
 # A state of emergency is declared in Guinea after post election violence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/africa/11/17/guinea.emergency/index.html?eref=edition)
 

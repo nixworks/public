@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/20/the-nigerian-army-regains-control-of-the-city-of-jos-after-religious-violence-killed-more-than-200-people.html)  [JSON](/news/2010/01/20/the-nigerian-army-regains-control-of-the-city-of-jos-after-religious-violence-killed-more-than-200-people.json)  [XML](/news/2010/01/20/the-nigerian-army-regains-control-of-the-city-of-jos-after-religious-violence-killed-more-than-200-people.xml)  
+
 ### [2010-01-20](/news/2010/01/20/index.md)
 
+##### Nigeria
 # The Nigerian Army regains control of the city of Jos after religious violence killed more than 200 people. 
 
 Up to 300 feared dead after fighting between Muslim and Christian communities.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/01/201012084322535901.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8469863.stm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/30/an-anti-terrorism-court-in-pakistan-s-swat-district-sentences-ten-people-to-life-imprisonment-after-finding-them-guilty-of-an-attack-on-nobe.html)  [JSON](/news/2015/04/30/an-anti-terrorism-court-in-pakistan-s-swat-district-sentences-ten-people-to-life-imprisonment-after-finding-them-guilty-of-an-attack-on-nobe.json)  [XML](/news/2015/04/30/an-anti-terrorism-court-in-pakistan-s-swat-district-sentences-ten-people-to-life-imprisonment-after-finding-them-guilty-of-an-attack-on-nobe.xml)  
+
 ### [2015-04-30](/news/2015/04/30/index.md)
 
+##### Swat District
 # An anti-terrorism court in Pakistan's Swat District sentences ten people to life imprisonment after finding them guilty of an attack on Nobel Peace Prize winner Malala Yousafzai and two other school girls. 
 
 In September last year, militants behind the attack on Malala and two other school girls were arrested
 
 
-### Source:
+### Sources:
 
 1. [Pakistan Tribune](http://tribune.com.pk/story/878462/swat-atc-sentences-malala-yousafzais-attackers-life-imprisonment/)
 1. [Cover Image](https://c.tribune.com.pk/2015/04/878462-malalalalalalala-1430382325-476-640x480.gif)

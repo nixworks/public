@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/01/20/george-walker-bush-succeeds-bill-clinton-as-president-of-the-united-states-after-prevailing-over-al-gore-in-the-disputed-u-s-presidential.html)  [JSON](/news/2001/01/20/george-walker-bush-succeeds-bill-clinton-as-president-of-the-united-states-after-prevailing-over-al-gore-in-the-disputed-u-s-presidential.json)  [XML](/news/2001/01/20/george-walker-bush-succeeds-bill-clinton-as-president-of-the-united-states-after-prevailing-over-al-gore-in-the-disputed-u-s-presidential.xml)  
+
 ### [2001-01-20](/news/2001/01/20/index.md)
 
+##### George W. Bush
 #  George Walker Bush succeeds Bill Clinton as President of the United States after prevailing over Al Gore in the disputed U.S. presidential election, 2000.
 
 

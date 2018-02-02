@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/27/u-s-senator-larry-craig-r-idaho-is-revealed-to-have-pleaded-guilty-on-august-8-to-a-charge-of-disorderly-conduct-at-the-minneapolis-st.html)  [JSON](/news/2007/08/27/u-s-senator-larry-craig-r-idaho-is-revealed-to-have-pleaded-guilty-on-august-8-to-a-charge-of-disorderly-conduct-at-the-minneapolis-st.json)  [XML](/news/2007/08/27/u-s-senator-larry-craig-r-idaho-is-revealed-to-have-pleaded-guilty-on-august-8-to-a-charge-of-disorderly-conduct-at-the-minneapolis-st.xml)  
+
 ### [2007-08-27](/news/2007/08/27/index.md)
 
+##### United States Senate
 #  U.S. Senator Larry Craig (R-Idaho) is revealed to have pleaded guilty on August 8 to a charge of disorderly conduct at the Minneapolis-St. Paul International Airport. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [McClatchy Post Bulletin](http://www.postbulletin.com/newsmanager/templates/localnews_story.asp?z=16&a=305401)
 

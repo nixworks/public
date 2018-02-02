@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/07/10/bangladeshi-police-fire-tear-gas-at-islamist-activists-trying-to-enforce-a-general-strike-in-the-town-of-keraniganj-with-dozens-hurt-in-the.html)  [JSON](/news/2011/07/10/bangladeshi-police-fire-tear-gas-at-islamist-activists-trying-to-enforce-a-general-strike-in-the-town-of-keraniganj-with-dozens-hurt-in-the.json)  [XML](/news/2011/07/10/bangladeshi-police-fire-tear-gas-at-islamist-activists-trying-to-enforce-a-general-strike-in-the-town-of-keraniganj-with-dozens-hurt-in-the.xml)  
+
 ### [2011-07-10](/news/2011/07/10/index.md)
 
+##### Bangladeshi police
 # Bangladeshi police fire tear gas at Islamist activists trying to enforce a general strike in the town of Keraniganj with dozens hurt in the riots. 
 
 Police in Bangladesh on Sunday fired tear gas and rubber bullets to disperse Islamist activists trying to enforce a nationwide strike over the removal of a Muslim phrase in the constitution, and witnesses said around 50 people were injured.
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/asia-pacific/bangladesh-police-clash-with-islamists-enforcing-a-general-strike/2011/07/10/gIQALQSR6H_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/asia-pacific/bangladesh-police-clash-with-islamists-enforcing-a-general-strike/2011/07/10/gIQALQSR6H_story.html)
 2. [Reuters](http://in.reuters.com/article/2011/07/10/idINIndia-58177420110710?feedType=RSS&feedName=southAsiaNews&dlvrit=70621)
 2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110710&t=2&i=455897206&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2011-07-10T143251Z_01_NOOTR_RTRMDNC_0_India-581774-1)
 

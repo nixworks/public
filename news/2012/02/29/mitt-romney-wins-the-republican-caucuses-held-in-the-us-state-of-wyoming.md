@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/29/mitt-romney-wins-the-republican-caucuses-held-in-the-us-state-of-wyoming.html)  [JSON](/news/2012/02/29/mitt-romney-wins-the-republican-caucuses-held-in-the-us-state-of-wyoming.json)  [XML](/news/2012/02/29/mitt-romney-wins-the-republican-caucuses-held-in-the-us-state-of-wyoming.xml)  
+
 ### [2012-02-29](/news/2012/02/29/index.md)
 
+##### Mitt Romney
 # Mitt Romney wins the Republican caucuses held in the US state of Wyoming. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://politicalticker.blogs.cnn.com/2012/02/29/breaking-romney-wins-wyoming-caucuses-cnn-projects/)
 

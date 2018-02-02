@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/5/president-of-indonesia-susilo-bambang-yudhoyono-cancels-a-state-visit-to-the-netherlands-in-protest-of-a-possible-court-arrest.html)  [JSON](/news/2010/10/5/president-of-indonesia-susilo-bambang-yudhoyono-cancels-a-state-visit-to-the-netherlands-in-protest-of-a-possible-court-arrest.json)  [XML](/news/2010/10/5/president-of-indonesia-susilo-bambang-yudhoyono-cancels-a-state-visit-to-the-netherlands-in-protest-of-a-possible-court-arrest.xml)  
+
 ### [2010-10-5](/news/2010/10/5/index.md)
 
+##### President of Indonesia
 # President of Indonesia Susilo Bambang Yudhoyono cancels a state visit to the Netherlands in protest of a possible court arrest. 
 
 Decision blamed on legal move by Holland-based pro-Moluccan group to have Yudhoyono arrested.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/2010105131324456865.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11475558)

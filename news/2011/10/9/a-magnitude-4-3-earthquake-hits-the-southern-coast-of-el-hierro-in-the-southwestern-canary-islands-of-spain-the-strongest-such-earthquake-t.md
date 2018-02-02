@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/9/a-magnitude-4-3-earthquake-hits-the-southern-coast-of-el-hierro-in-the-southwestern-canary-islands-of-spain-the-strongest-such-earthquake-t.html)  [JSON](/news/2011/10/9/a-magnitude-4-3-earthquake-hits-the-southern-coast-of-el-hierro-in-the-southwestern-canary-islands-of-spain-the-strongest-such-earthquake-t.json)  [XML](/news/2011/10/9/a-magnitude-4-3-earthquake-hits-the-southern-coast-of-el-hierro-in-the-southwestern-canary-islands-of-spain-the-strongest-such-earthquake-t.xml)  
+
 ### [2011-10-9](/news/2011/10/9/index.md)
 
+##### magnitude 4.3
 # A magnitude 4.3 earthquake hits the southern coast of El Hierro in the southwestern Canary Islands of Spain, the strongest such earthquake to occur in an earthquake swarm on the island. The quake is believed to have been caused by rising magma, which has forced evacuations amid fears of an impending volcanic eruption, which last occurred on El Hierro in 1793. 
 
 Get the latest digital weather news by visiting our website online. Our live Irish weather broadcast is update 24/7!
 
 
-### Source:
+### Sources:
 
 1. [Daily Mail](http://www.dailymail.co.uk/news/article-2042873/Earthquake-swarm-Canary-Island-El-Hierro-sparks-fears-volcanic-eruption.html?ito=feeds-newsxml)
 2. [Irish Weather Online](http://www.irishweatheronline.com/news/earth-science/geology/volcanic-alert-in-effect-on-el-hierro-as-4-3-magnitude-earthquake-hits/41200.html)

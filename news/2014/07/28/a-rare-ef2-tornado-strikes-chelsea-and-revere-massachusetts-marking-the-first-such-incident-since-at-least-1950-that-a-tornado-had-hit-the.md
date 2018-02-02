@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/07/28/a-rare-ef2-tornado-strikes-chelsea-and-revere-massachusetts-marking-the-first-such-incident-since-at-least-1950-that-a-tornado-had-hit-the.html)  [JSON](/news/2014/07/28/a-rare-ef2-tornado-strikes-chelsea-and-revere-massachusetts-marking-the-first-such-incident-since-at-least-1950-that-a-tornado-had-hit-the.json)  [XML](/news/2014/07/28/a-rare-ef2-tornado-strikes-chelsea-and-revere-massachusetts-marking-the-first-such-incident-since-at-least-1950-that-a-tornado-had-hit-the.xml)  
+
 ### [2014-07-28](/news/2014/07/28/index.md)
 
+##### EF-2
 # A rare EF2 tornado strikes Chelsea and Revere, Massachusetts marking the first such incident since at least 1950 that a tornado had hit the two communities north of Boston according to the NWS. 
 
 REVERE — A rare tornado roared through this seaside city with terrifying force Monday, uprooting hundreds of trees, ripping roofs off houses, and spurring a intensive recovery effort that is expected to last days.
 
 
-### Source:
+### Sources:
 
-1. [Boston Globe](http://www.bostonglobe.com/metro/2014/07/28/severe-thunderstorm-warning-issued-boston-area/niu44DD0yg1PiTCbOsVyXL/story.html)
+1. [Boston Globe](https://www.bostonglobe.com/metro/2014/07/28/severe-thunderstorm-warning-issued-boston-area/niu44DD0yg1PiTCbOsVyXL/story.html)
 2. [NWS](https://nwschat.weather.gov/p.php?pid=201407282110-KBOX-NOUS41-PNSBOX)
 2. [Cover Image](http://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2014/07/29/BostonGlobe.com/Metro/Images/ryan_stormy7_metasdf.jpg)
 

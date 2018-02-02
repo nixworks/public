@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/12/a-suicide-bomber-in-the-iraqi-city-of-ramadi-in-western-anbar-province-kills-several-people.html)  [JSON](/news/2010/12/12/a-suicide-bomber-in-the-iraqi-city-of-ramadi-in-western-anbar-province-kills-several-people.json)  [XML](/news/2010/12/12/a-suicide-bomber-in-the-iraqi-city-of-ramadi-in-western-anbar-province-kills-several-people.xml)  
+
 ### [2010-12-12](/news/2010/12/12/index.md)
 
+##### suicide bomber
 # A suicide bomber in the Iraqi city of Ramadi in western Anbar province kills several people. 
 
 At least 17 people killed after attack on government building in the western Iraqi province.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/2010121273656219446.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/12/20101212153238829112_20.jpg)

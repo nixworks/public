@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2011/01/24/three-indonesian-soldiers-captured-on-video-torturing-two-men-from-west-papua-are-jailed-human-rights-groups-criticize-the-sentences-of-10.html)  [JSON](/news/2011/01/24/three-indonesian-soldiers-captured-on-video-torturing-two-men-from-west-papua-are-jailed-human-rights-groups-criticize-the-sentences-of-10.json)  [XML](/news/2011/01/24/three-indonesian-soldiers-captured-on-video-torturing-two-men-from-west-papua-are-jailed-human-rights-groups-criticize-the-sentences-of-10.xml)  
+
 ### [2011-01-24](/news/2011/01/24/index.md)
 
+##### Indonesia
 # Three Indonesian soldiers captured on video torturing two men from West Papua are jailed; human rights groups criticize the sentences of 10 months in jail for "disobeying orders" handed out to the low-ranking soldiers, saying the military was reluctant to abide by human rights principles. 
 
 Human rights groups havecriticised sentences handed out on Monday to three low-rankingIndonesian soldiers whose alleged torture of indigenous Papuanscaused a sensation on Youtube.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/01/201112463525794602.html)
 2. [Jakarta Post](http://www.thejakartapost.com/news/2011/01/24/indonesia-torture-video-soldiers-jailed.html)
-3. [Reuters](http://www.reuters.com/article/idUSL3E7CO0EK20110124)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/article/idUSL3E7CO0EK20110124)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

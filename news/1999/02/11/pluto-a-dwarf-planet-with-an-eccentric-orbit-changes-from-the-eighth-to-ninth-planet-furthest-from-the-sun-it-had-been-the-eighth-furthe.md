@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/02/11/pluto-a-dwarf-planet-with-an-eccentric-orbit-changes-from-the-eighth-to-ninth-planet-furthest-from-the-sun-it-had-been-the-eighth-furthe.html)  [JSON](/news/1999/02/11/pluto-a-dwarf-planet-with-an-eccentric-orbit-changes-from-the-eighth-to-ninth-planet-furthest-from-the-sun-it-had-been-the-eighth-furthe.json)  [XML](/news/1999/02/11/pluto-a-dwarf-planet-with-an-eccentric-orbit-changes-from-the-eighth-to-ninth-planet-furthest-from-the-sun-it-had-been-the-eighth-furthe.xml)  
+
 ### [1999-02-11](/news/1999/02/11/index.md)
 
+##### Pluto
 #  Pluto, a dwarf planet with an eccentric orbit, changes from the eighth to ninth planet furthest from the Sun. It had been the eighth furthest since 1979, and will become again in "2231".
 
 

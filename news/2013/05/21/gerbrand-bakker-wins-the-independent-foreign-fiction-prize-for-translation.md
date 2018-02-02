@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/21/gerbrand-bakker-wins-the-independent-foreign-fiction-prize-for-translation.html)  [JSON](/news/2013/05/21/gerbrand-bakker-wins-the-independent-foreign-fiction-prize-for-translation.json)  [XML](/news/2013/05/21/gerbrand-bakker-wins-the-independent-foreign-fiction-prize-for-translation.xml)  
+
 ### [2013-05-21](/news/2013/05/21/index.md)
 
+##### Gerbrand Bakker
 # Gerbrand Bakker wins the Independent Foreign Fiction Prize for translation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/books/2013/may/21/independent-foreign-fiction-prize-gerbrand-bakker)
 

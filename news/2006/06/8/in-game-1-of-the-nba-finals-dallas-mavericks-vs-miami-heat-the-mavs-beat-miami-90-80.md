@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/06/8/in-game-1-of-the-nba-finals-dallas-mavericks-vs-miami-heat-the-mavs-beat-miami-90-80.html)  [JSON](/news/2006/06/8/in-game-1-of-the-nba-finals-dallas-mavericks-vs-miami-heat-the-mavs-beat-miami-90-80.json)  [XML](/news/2006/06/8/in-game-1-of-the-nba-finals-dallas-mavericks-vs-miami-heat-the-mavs-beat-miami-90-80.xml)  
+
 ### [2006-06-8](/news/2006/06/8/index.md)
 
+##### NBA Finals
 #  In Game 1 of the NBA Finals (Dallas Mavericks vs. Miami Heat) the Mavs beat Miami 90-80.
 
 

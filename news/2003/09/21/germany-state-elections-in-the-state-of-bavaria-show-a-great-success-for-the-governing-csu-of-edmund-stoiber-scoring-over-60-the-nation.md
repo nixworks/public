@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/21/germany-state-elections-in-the-state-of-bavaria-show-a-great-success-for-the-governing-csu-of-edmund-stoiber-scoring-over-60-the-nation.html)  [JSON](/news/2003/09/21/germany-state-elections-in-the-state-of-bavaria-show-a-great-success-for-the-governing-csu-of-edmund-stoiber-scoring-over-60-the-nation.json)  [XML](/news/2003/09/21/germany-state-elections-in-the-state-of-bavaria-show-a-great-success-for-the-governing-csu-of-edmund-stoiber-scoring-over-60-the-nation.xml)  
+
 ### [2003-09-21](/news/2003/09/21/index.md)
 
+##### Bavaria
 #  Germany: State elections in the state of Bavaria show a great success for the governing CSU of Edmund Stoiber, scoring over 60%. The nationally governing SPD is down to 19%, a historic low point.
 
 

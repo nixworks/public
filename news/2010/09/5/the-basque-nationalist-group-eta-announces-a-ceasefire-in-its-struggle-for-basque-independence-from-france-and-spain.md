@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/5/the-basque-nationalist-group-eta-announces-a-ceasefire-in-its-struggle-for-basque-independence-from-france-and-spain.html)  [JSON](/news/2010/09/5/the-basque-nationalist-group-eta-announces-a-ceasefire-in-its-struggle-for-basque-independence-from-france-and-spain.json)  [XML](/news/2010/09/5/the-basque-nationalist-group-eta-announces-a-ceasefire-in-its-struggle-for-basque-independence-from-france-and-spain.xml)  
+
 ### [2010-09-5](/news/2010/09/5/index.md)
 
+##### Basque nationalist
 # The Basque nationalist group ETA announces a ceasefire in its struggle for Basque independence from France and Spain. 
 
 The armed Basque separatist group Eta has decided not to carry out &quot;armed actions&quot; in its campaign for Basque independence from France and Spain, the BBC has been told.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11192246)
 1. [Cover Image](http://playlists.bbc.co.uk/news/world-europe-11192246A/playlist.sxml)

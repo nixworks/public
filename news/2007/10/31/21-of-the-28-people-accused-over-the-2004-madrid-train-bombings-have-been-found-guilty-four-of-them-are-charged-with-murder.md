@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/31/21-of-the-28-people-accused-over-the-2004-madrid-train-bombings-have-been-found-guilty-four-of-them-are-charged-with-murder.html)  [JSON](/news/2007/10/31/21-of-the-28-people-accused-over-the-2004-madrid-train-bombings-have-been-found-guilty-four-of-them-are-charged-with-murder.json)  [XML](/news/2007/10/31/21-of-the-28-people-accused-over-the-2004-madrid-train-bombings-have-been-found-guilty-four-of-them-are-charged-with-murder.xml)  
+
 ### [2007-10-31](/news/2007/10/31/index.md)
 
+##### 2004 Madrid train bombings
 #  21 of the 28 people accused over the 2004 Madrid train bombings have been found guilty; four of them are charged with murder. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/article/0,,30200-1290917,00.html)
 

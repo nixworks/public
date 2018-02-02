@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/12/a-bronze-age-village-is-discovered-in-cambridge
 
 ### [2016-01-12](/news/2016/01/12/index.md)
 
+##### Bronze Age
 # A Bronze Age village is discovered in Cambridgeshire, United Kingdom. 
 
 
@@ -15,8 +16,8 @@ Formats: [HTML](/news/2016/01/12/a-bronze-age-village-is-discovered-in-cambridge
 
 ### Related:
 
-1. [ Four people are killed in a helicopter crash in Cambridgeshire, United Kingdom. ](/news/2007/05/2/four-people-are-killed-in-a-helicopter-crash-in-cambridgeshire-united-kingdom.md) _Context: Cambridgeshire, United Kingdom_
-2. [Twenty-three European Union countries sign a defence integration pact known as the Permanent Structured Cooperation. NATO members Denmark, Portugal and the United Kingdom (withdrawal from EU underway), and non-NATO members Malta and Ireland, opt out. ](/news/2017/11/13/twenty-three-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-p.md) _Context: United Kingdom_
-3. [Michael Fallon resigns as the United Kingdom's Secretary of State for Defence amid controversy over reports he touched a female journalist inappropriately in 2002. ](/news/2017/11/1/michael-fallon-resigns-as-the-united-kingdom-s-secretary-of-state-for-defence-amid-controversy-over-reports-he-touched-a-female-journalist-i.md) _Context: United Kingdom_
-4. [The Nobel Committee awards Japanese-born British novelist Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." ](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-novelist-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-fo.md) _Context: United Kingdom_
-5. [The European Union heads of state prepare to start negotiations on a future UK-EU trade agreement in December, depending on progress with the financial "exit bill" negotiations by then. ](/news/2017/10/20/the-european-union-heads-of-state-prepare-to-start-negotiations-on-a-future-ukaeu-trade-agreement-in-december-depending-on-progress-with.md) _Context: United Kingdom_
+1. [ Four people are killed in a helicopter crash in Cambridgeshire, United Kingdom. ](/news/2007/05/2/four-people-are-killed-in-a-helicopter-crash-in-cambridgeshire-united-kingdom.md) _Context: British, Cambridgeshire_
+2. [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md) _Context: British_
+3. [British, American and German men are among a group of international volunteers who travelled to Afrin to fight against Turkish-led forces in north-west Syria. ](/news/2018/01/24/british-american-and-german-men-are-among-a-group-of-international-volunteers-who-travelled-to-afrin-to-fight-against-turkish-led-forces-in.md) _Context: British_
+4. [The Bayeux Tapestry, which depicts the Norman conquest of England, is to be displayed in the United Kingdom for the first time after French President Emmanuel Macron agreed to loan it out for the first time in 950 years. Subject to the outcome of tests, the loan is expected to happen somewhere after 2020. ](/news/2018/01/17/the-bayeux-tapestry-which-depicts-the-norman-conquest-of-england-is-to-be-displayed-in-the-united-kingdom-for-the-first-time-after-french.md) _Context: British_
+5. [After talks between the company, its lenders, and the United Kingdom's government fail to reach a deal, British multinational facilities management and construction services company Carillion fails and is liquidated, threatening thousands of jobs. Carillion is currently involved in projects such as the high-speed rail in the United Kingdom, including the High Speed 2 rail line. ](/news/2018/01/15/after-talks-between-the-company-its-lenders-and-the-united-kingdom-s-government-fail-to-reach-a-deal-british-multinational-facilities-man.md) _Context: British_

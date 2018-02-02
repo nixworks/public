@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/11/fires-are-reported-in-russia-s-nuclear-contaminated-forests-from-the-chernobyl-disaster-in-1986-amid-concerns-about-the-spread-of-radiation.html)  [JSON](/news/2010/08/11/fires-are-reported-in-russia-s-nuclear-contaminated-forests-from-the-chernobyl-disaster-in-1986-amid-concerns-about-the-spread-of-radiation.json)  [XML](/news/2010/08/11/fires-are-reported-in-russia-s-nuclear-contaminated-forests-from-the-chernobyl-disaster-in-1986-amid-concerns-about-the-spread-of-radiation.xml)  
+
 ### [2010-08-11](/news/2010/08/11/index.md)
 
+##### the recent wildfires
 # Fires are reported in Russia's nuclear-contaminated forests from the Chernobyl disaster in 1986, amid concerns about the spread of radiation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/Fires-at-Russian-radioactive-sites-confirmed/Article1-585291.aspx)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/11/russia-wildfires-chernobyl-radiation)

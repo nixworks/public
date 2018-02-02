@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/05/18/polish-president-aleksander-kwaaniewski-set-the-date-for-parliamentary-elections-for-september-25-2005-and-a-presidential-election-for-oc.html)  [JSON](/news/2005/05/18/polish-president-aleksander-kwaaniewski-set-the-date-for-parliamentary-elections-for-september-25-2005-and-a-presidential-election-for-oc.json)  [XML](/news/2005/05/18/polish-president-aleksander-kwaaniewski-set-the-date-for-parliamentary-elections-for-september-25-2005-and-a-presidential-election-for-oc.xml)  
+
 ### [2005-05-18](/news/2005/05/18/index.md)
 
+##### President
 #  Polish President Aleksander Kwasniewski set the date for parliamentary elections for September 25, 2005 and a presidential election for October 9, 2005. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aXilixb4eHXs&refer=europe)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000085&sid=aXilixb4eHXs&refer=europe)
 
 ### Related:
 

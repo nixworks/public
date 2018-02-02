@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/29/extreme-heat-in-las-vegas-nevada-us-leads-to-dozens-of-hospitalizations.html)  [JSON](/news/2013/06/29/extreme-heat-in-las-vegas-nevada-us-leads-to-dozens-of-hospitalizations.json)  [XML](/news/2013/06/29/extreme-heat-in-las-vegas-nevada-us-leads-to-dozens-of-hospitalizations.xml)  
+
 ### [2013-06-29](/news/2013/06/29/index.md)
 
+##### Las Vegas
 # Extreme heat in Las Vegas, Nevada, US, leads to dozens of hospitalizations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [LA Times](http://www.latimes.com/news/nation/nationnow/la-las-vegas-sizzle-sends-scores-to-hospital-20130629,0,5695429.story)
 

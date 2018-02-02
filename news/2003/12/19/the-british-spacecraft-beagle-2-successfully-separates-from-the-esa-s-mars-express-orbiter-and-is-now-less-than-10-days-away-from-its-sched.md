@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/19/the-british-spacecraft-beagle-2-successfully-separates-from-the-esa-s-mars-express-orbiter-and-is-now-less-than-10-days-away-from-its-sched.html)  [JSON](/news/2003/12/19/the-british-spacecraft-beagle-2-successfully-separates-from-the-esa-s-mars-express-orbiter-and-is-now-less-than-10-days-away-from-its-sched.json)  [XML](/news/2003/12/19/the-british-spacecraft-beagle-2-successfully-separates-from-the-esa-s-mars-express-orbiter-and-is-now-less-than-10-days-away-from-its-sched.xml)  
+
 ### [2003-12-19](/news/2003/12/19/index.md)
 
+##### Beagle 2
 #  The British spacecraft Beagle 2 successfully separates from the ESA's Mars Express orbiter and is now less than 10 days away from its scheduled landing on the surface of Mars; it will attempt to parachute onto the surface on Christmas morning. 
 
 

@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2008/02/10/anonymous-protests-the-policies-of-the-church-of-scientology-at-different-locations-around-the-world.html)  [JSON](/news/2008/02/10/anonymous-protests-the-policies-of-the-church-of-scientology-at-different-locations-around-the-world.json)  [XML](/news/2008/02/10/anonymous-protests-the-policies-of-the-church-of-scientology-at-different-locations-around-the-world.xml)  
+
 ### [2008-02-10](/news/2008/02/10/index.md)
 
+##### protest
 #  "Anonymous" protests the policies of the Church of Scientology at different locations around the world. 
 
 A shadowy, loose-knit consortium of activists and hackers called &#039;Anonymous&#039; is just the latest thorn in Scientology&#039;s side.
 
 
-### Source:
+### Sources:
 
 1. [Adelaid](http://www.news.com.au/adelaidenow/story/0,22606,23189665-5006301,00.html)
 2. [Indymedia](http://sydney.indymedia.org.au/story/anonymous-confronts-church-scientology)
 3. [Newsweek](http://www.newsweek.com/id/109410)
 4. [The Guardian](http://www.guardian.co.uk/commentisfree/2008/feb/10/8)
 5. [The Scotsman](http://thescotsman.scotsman.com/scotland/Masked-protesters-hike-up-pressure.3763138.jp)
-6. [The Star](http://www.thestar.com/News/GTA/article/302118)
+6. [The Star](https://www.thestar.com/News/GTA/article/302118)
 
 ### Related:
 

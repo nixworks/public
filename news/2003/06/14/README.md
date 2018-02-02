@@ -1,7 +1,7 @@
-## [2003-06-14](/news/2003/06/14/index.md)
 
-### [ Czech citizens vote "yes" to joining the European Union by 77% with 55% turnout.](/news/2003/06/14/czech-citizens-vote-yes-to-joining-the-european-union-by-77-with-55-turnout.md)
-_Context: Czech Republic, EU_
+Formats: [HTML](2003/06/14/index.html)  [JSON](2003/06/14/index.json)  [XML](2003/06/14/index.xml)  
+
+## [2003-06-14](/news/2003/06/14/index.md)
 
 ## [Previous Day...](/news/2003/06/13/index.md)
 

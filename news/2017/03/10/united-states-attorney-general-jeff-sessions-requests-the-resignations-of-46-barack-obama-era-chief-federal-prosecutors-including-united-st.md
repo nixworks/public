@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/10/united-states-attorney-general-jeff-sessions-re
 
 ### [2017-03-10](/news/2017/03/10/index.md)
 
+##### 2017 dismissal of U.S. attorneys
 # United States Attorney General Jeff Sessions requests the resignations of 46 Barack Obama-era chief federal prosecutors, including United States Attorney for the Southern District of New York Preet Bharara, who was previously told to stay on by then President-elect Donald Trump in November. 
 
  U.S. Attorney General Jeff Sessions abruptly asked the remaining 46 chief federal prosecutors left over from the Obama administration to resign on Friday, incl

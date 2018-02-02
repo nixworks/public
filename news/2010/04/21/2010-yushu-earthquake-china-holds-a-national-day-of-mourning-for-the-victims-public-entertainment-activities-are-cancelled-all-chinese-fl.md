@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/21/2010-yushu-earthquake-china-holds-a-national-day-of-mourning-for-the-victims-public-entertainment-activities-are-cancelled-all-chinese-fl.html)  [JSON](/news/2010/04/21/2010-yushu-earthquake-china-holds-a-national-day-of-mourning-for-the-victims-public-entertainment-activities-are-cancelled-all-chinese-fl.json)  [XML](/news/2010/04/21/2010-yushu-earthquake-china-holds-a-national-day-of-mourning-for-the-victims-public-entertainment-activities-are-cancelled-all-chinese-fl.xml)  
+
 ### [2010-04-21](/news/2010/04/21/index.md)
 
+##### an earthquake struck on 14 April
 # 2010 Yushu earthquake: China holds a national day of mourning for the victims. Public entertainment activities are cancelled, all Chinese flags around the world flew at half-staff. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gdspdDB0WaMv_An4A-NvHB_DwmCwD9F7CLVO0)
 

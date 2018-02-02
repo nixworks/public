@@ -1,7 +1,7 @@
-## [2000-10-23](/news/2000/10/23/index.md)
 
-### [ Rodney Anoa'i (professional wrestler) died in Liverpool at the age of 34.](/news/2000/10/23/rodney-anoa-i-professional-wrestler-died-in-liverpool-at-the-age-of-34.md)
-_Context: Liverpool, Rodney Anoa'i_
+Formats: [HTML](2000/10/23/index.html)  [JSON](2000/10/23/index.json)  [XML](2000/10/23/index.xml)  
+
+## [2000-10-23](/news/2000/10/23/index.md)
 
 ## [Previous Day...](/news/2000/10/22/index.md)
 

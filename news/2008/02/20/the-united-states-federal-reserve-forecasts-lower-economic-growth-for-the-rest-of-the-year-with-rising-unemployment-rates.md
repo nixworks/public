@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/20/the-united-states-federal-reserve-forecasts-lower-economic-growth-for-the-rest-of-the-year-with-rising-unemployment-rates.html)  [JSON](/news/2008/02/20/the-united-states-federal-reserve-forecasts-lower-economic-growth-for-the-rest-of-the-year-with-rising-unemployment-rates.json)  [XML](/news/2008/02/20/the-united-states-federal-reserve-forecasts-lower-economic-growth-for-the-rest-of-the-year-with-rising-unemployment-rates.xml)  
+
 ### [2008-02-20](/news/2008/02/20/index.md)
 
+##### United States Federal Reserve
 #  The United States Federal Reserve forecasts lower economic growth for the rest of the year with rising unemployment rates. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2008/02/20/news/economy/fed_minutes/)
 

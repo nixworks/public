@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/28/nissan-recalls-2-1-million-vehicles-worldwide-due-to-an-ignition-problem.html)  [JSON](/news/2010/10/28/nissan-recalls-2-1-million-vehicles-worldwide-due-to-an-ignition-problem.json)  [XML](/news/2010/10/28/nissan-recalls-2-1-million-vehicles-worldwide-due-to-an-ignition-problem.xml)  
+
 ### [2010-10-28](/news/2010/10/28/index.md)
 
+##### Nissan
 # Nissan recalls 2.1 million vehicles worldwide due to an ignition problem. 
 
 Nissan recalls 2.1 million vehicles worldwide because of an ignition problem, including nearly 84,000 K12 Micras built in the UK.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-11641425)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

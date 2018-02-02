@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/19/the-former-boss-of-the-royal-bank-of-scotland-sir-fred-goodwin-is-named-as-allegedly-having-had-an-affair-with-a-colleague-after-the-high.html)  [JSON](/news/2011/05/19/the-former-boss-of-the-royal-bank-of-scotland-sir-fred-goodwin-is-named-as-allegedly-having-had-an-affair-with-a-colleague-after-the-high.json)  [XML](/news/2011/05/19/the-former-boss-of-the-royal-bank-of-scotland-sir-fred-goodwin-is-named-as-allegedly-having-had-an-affair-with-a-colleague-after-the-high.xml)  
+
 ### [2011-05-19](/news/2011/05/19/index.md)
 
+##### Royal Bank of Scotland
 # The former boss of the Royal Bank of Scotland, Sir Fred Goodwin, is named as allegedly having had an affair with a colleague after the High Court of England and Wales lifts an injunction. 
 
 An order granting anonymity to ex-Royal Bank of Scotland boss Sir Fred Goodwin has been lifted at the High Court.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13453626)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52832000/jpg/_52832151_007931529-1.jpg)

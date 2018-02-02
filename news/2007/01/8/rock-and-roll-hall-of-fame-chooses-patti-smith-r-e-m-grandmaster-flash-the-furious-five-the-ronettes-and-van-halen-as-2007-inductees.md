@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/8/rock-and-roll-hall-of-fame-chooses-patti-smith-r-e-m-grandmaster-flash-the-furious-five-the-ronettes-and-van-halen-as-2007-inductees.html)  [JSON](/news/2007/01/8/rock-and-roll-hall-of-fame-chooses-patti-smith-r-e-m-grandmaster-flash-the-furious-five-the-ronettes-and-van-halen-as-2007-inductees.json)  [XML](/news/2007/01/8/rock-and-roll-hall-of-fame-chooses-patti-smith-r-e-m-grandmaster-flash-the-furious-five-the-ronettes-and-van-halen-as-2007-inductees.xml)  
+
 ### [2007-01-8](/news/2007/01/8/index.md)
 
+##### Rock and Roll Hall of Fame
 #  Rock and Roll Hall of Fame chooses Patti Smith, R.E.M., Grandmaster Flash & The Furious Five, the Ronettes, and Van Halen as 2007 inductees. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Billboard](http://www.billboard.com/bbcom/news/article_display.jsp?vnu_content_id=1003528752)
 2. [CBC](http://www.cbc.ca/arts/story/2007/01/08/rock-hall.html)

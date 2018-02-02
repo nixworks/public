@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/15/an-olympics-aerial-camera-and-its-cables-fall-s
 
 ### [2016-08-15](/news/2016/08/15/index.md)
 
+##### Olympics
 # An Olympics aerial camera and its cables fall sixty-five feet, injuring seven people. 
 
 

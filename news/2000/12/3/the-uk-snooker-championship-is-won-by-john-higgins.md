@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/12/3/the-uk-snooker-championship-is-won-by-john-higgins.html)  [JSON](/news/2000/12/3/the-uk-snooker-championship-is-won-by-john-higgins.json)  [XML](/news/2000/12/3/the-uk-snooker-championship-is-won-by-john-higgins.xml)  
+
 ### [2000-12-3](/news/2000/12/3/index.md)
 
+##### UK Snooker Championship
 # The UK Snooker Championship is won by John Higgins.
 
 

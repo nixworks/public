@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/5/at-least-six-afghan-policemen-are-killed-during-a-suicide-attack-in-kunduz-by-the-tajikistan-border.html)  [JSON](/news/2010/08/5/at-least-six-afghan-policemen-are-killed-during-a-suicide-attack-in-kunduz-by-the-tajikistan-border.json)  [XML](/news/2010/08/5/at-least-six-afghan-policemen-are-killed-during-a-suicide-attack-in-kunduz-by-the-tajikistan-border.xml)  
+
 ### [2010-08-5](/news/2010/08/5/index.md)
 
+##### Kunduz
 # At least six Afghan policemen are killed during a suicide attack in Kunduz, by the Tajikistan border. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10877110)
 2. [IOL](http://www.iol.co.za/index.php?from=rss_Asia&set_id=1&click_id=126&art_id=nw20100805074646859C741399)

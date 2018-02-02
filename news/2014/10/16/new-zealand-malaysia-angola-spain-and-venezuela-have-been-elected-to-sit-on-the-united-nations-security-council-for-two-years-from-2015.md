@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/16/new-zealand-malaysia-angola-spain-and-venezuela-have-been-elected-to-sit-on-the-united-nations-security-council-for-two-years-from-2015.html)  [JSON](/news/2014/10/16/new-zealand-malaysia-angola-spain-and-venezuela-have-been-elected-to-sit-on-the-united-nations-security-council-for-two-years-from-2015.json)  [XML](/news/2014/10/16/new-zealand-malaysia-angola-spain-and-venezuela-have-been-elected-to-sit-on-the-united-nations-security-council-for-two-years-from-2015.xml)  
+
 ### [2014-10-16](/news/2014/10/16/index.md)
 
+##### New Zealand
 # New Zealand, Malaysia, Angola, Spain and Venezuela have been elected to sit on the United Nations Security Council for two years from 2015. 
 
 New Zealand is one of five countries to win seats for two years on the powerful UN Security Council.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2014-10-17/new-zealand-wins-seat-on-united-nations-security-council/5820584)
 1. [Cover Image](http://www.abc.net.au/news/image/5323854-1x1-700x700.jpg)

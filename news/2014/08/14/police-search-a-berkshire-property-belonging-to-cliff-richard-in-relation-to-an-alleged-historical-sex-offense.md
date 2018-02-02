@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/14/police-search-a-berkshire-property-belonging-to-cliff-richard-in-relation-to-an-alleged-historical-sex-offense.html)  [JSON](/news/2014/08/14/police-search-a-berkshire-property-belonging-to-cliff-richard-in-relation-to-an-alleged-historical-sex-offense.json)  [XML](/news/2014/08/14/police-search-a-berkshire-property-belonging-to-cliff-richard-in-relation-to-an-alleged-historical-sex-offense.xml)  
+
 ### [2014-08-14](/news/2014/08/14/index.md)
 
+##### Berkshire
 # Police search a Berkshire property belonging to Cliff Richard in relation to an alleged historical sex offense. 
 
 Police search a Berkshire property belonging to Sir Cliff Richard in relation to an alleged historical sex offence.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-28790718)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/76941000/jpg/_76941925_cliff_getty.jpg)

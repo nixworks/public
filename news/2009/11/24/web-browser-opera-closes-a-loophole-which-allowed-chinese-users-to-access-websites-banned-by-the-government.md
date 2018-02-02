@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/24/web-browser-opera-closes-a-loophole-which-allowed-chinese-users-to-access-websites-banned-by-the-government.html)  [JSON](/news/2009/11/24/web-browser-opera-closes-a-loophole-which-allowed-chinese-users-to-access-websites-banned-by-the-government.json)  [XML](/news/2009/11/24/web-browser-opera-closes-a-loophole-which-allowed-chinese-users-to-access-websites-banned-by-the-government.xml)  
+
 ### [2009-11-24](/news/2009/11/24/index.md)
 
+##### Opera
 #  Web browser Opera closes a loophole which allowed Chinese users to access websites banned by the government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/technology/8376555.stm)
 

@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2011/08/8/rice-futures-trading-on-the-tokyo-grain-exchange-is-suspended-following-fears-that-the-japanese-crop-has-been-contaminated-by-radiation-from.html)  [JSON](/news/2011/08/8/rice-futures-trading-on-the-tokyo-grain-exchange-is-suspended-following-fears-that-the-japanese-crop-has-been-contaminated-by-radiation-from.json)  [XML](/news/2011/08/8/rice-futures-trading-on-the-tokyo-grain-exchange-is-suspended-following-fears-that-the-japanese-crop-has-been-contaminated-by-radiation-from.xml)  
+
 ### [2011-08-8](/news/2011/08/8/index.md)
 
+##### Rice
 # Rice futures trading on the Tokyo Grain Exchange is suspended following fears that the Japanese crop has been contaminated by radiation from the Fukushima Daiichi nuclear disaster. 
 
+Rice futures in Tokyo surged in their first appearance on the bourse since 1939, triggering a suspension of trade, on concern radiation from the stricken Fukushima nuclear plant may spread to crops and curb supply.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2011-08-08/rice-in-tokyo-gains-after-seven-decade-halt.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2011-08-08/rice-in-tokyo-gains-after-seven-decade-halt.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/17/microsoft-announces-that-internet-explorer-version-8-passes-tests-for-standards-compliance.html)  [JSON](/news/2007/12/17/microsoft-announces-that-internet-explorer-version-8-passes-tests-for-standards-compliance.json)  [XML](/news/2007/12/17/microsoft-announces-that-internet-explorer-version-8-passes-tests-for-standards-compliance.xml)  
+
 ### [2007-12-17](/news/2007/12/17/index.md)
 
+##### Microsoft
 #  Microsoft announces that Internet Explorer version 8 passes tests for standards compliance 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IEBlog](http://blogs.msdn.com/ie/archive/2007/12/19/internet-explorer-8-and-acid2-a-milestone.aspx)
 

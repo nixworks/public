@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/19/at-least-48-people-are-killed-in-rival-clashes-between-nomadic-groups-in-the-darfur-region-of-sudan.html)  [JSON](/news/2010/06/19/at-least-48-people-are-killed-in-rival-clashes-between-nomadic-groups-in-the-darfur-region-of-sudan.json)  [XML](/news/2010/06/19/at-least-48-people-are-killed-in-rival-clashes-between-nomadic-groups-in-the-darfur-region-of-sudan.xml)  
+
 ### [2010-06-19](/news/2010/06/19/index.md)
 
+##### Darfur
 # At least 48 people are killed in rival clashes between nomadic groups in the Darfur region of Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g2xjFj35gziekOd_lx9g2Ibn3Fgg)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10359112.stm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/14/researchers-find-that-the-vatican-radio-transmitters-increase-the-risk-of-tumours-and-leukaemia-in-children-who-live-nearby.html)  [JSON](/news/2010/07/14/researchers-find-that-the-vatican-radio-transmitters-increase-the-risk-of-tumours-and-leukaemia-in-children-who-live-nearby.json)  [XML](/news/2010/07/14/researchers-find-that-the-vatican-radio-transmitters-increase-the-risk-of-tumours-and-leukaemia-in-children-who-live-nearby.xml)  
+
 ### [2010-07-14](/news/2010/07/14/index.md)
 
+##### Vatican Radio
 # Researchers find that the Vatican Radio transmitters increase the risk of tumours and leukaemia in children who live nearby. 
 
 Italian cancer experts say there is a connection between radiation from Vatican Radio transmitters and a high number of child cancer cases.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10634977)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

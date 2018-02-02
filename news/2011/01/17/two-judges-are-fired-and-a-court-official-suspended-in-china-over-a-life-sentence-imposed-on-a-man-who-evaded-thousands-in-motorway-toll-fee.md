@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/17/two-judges-are-fired-and-a-court-official-suspended-in-china-over-a-life-sentence-imposed-on-a-man-who-evaded-thousands-in-motorway-toll-fee.html)  [JSON](/news/2011/01/17/two-judges-are-fired-and-a-court-official-suspended-in-china-over-a-life-sentence-imposed-on-a-man-who-evaded-thousands-in-motorway-toll-fee.json)  [XML](/news/2011/01/17/two-judges-are-fired-and-a-court-official-suspended-in-china-over-a-life-sentence-imposed-on-a-man-who-evaded-thousands-in-motorway-toll-fee.xml)  
+
 ### [2011-01-17](/news/2011/01/17/index.md)
 
+##### China
 # Two judges are fired and a court official suspended in China over a life sentence imposed on a man who evaded thousands in motorway toll fees. The ruling is also overturned. 
 
 Two judges are fired and a court official suspended in China for sentencing a farmer to life in prison for evading motorway toll fees, following a public outcry.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12205429)
 2. [Global Times](http://china.globaltimes.cn/society/2011-01/613112.html)

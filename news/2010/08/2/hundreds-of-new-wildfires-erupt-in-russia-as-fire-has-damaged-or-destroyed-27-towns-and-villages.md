@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/2/hundreds-of-new-wildfires-erupt-in-russia-as-fire-has-damaged-or-destroyed-27-towns-and-villages.html)  [JSON](/news/2010/08/2/hundreds-of-new-wildfires-erupt-in-russia-as-fire-has-damaged-or-destroyed-27-towns-and-villages.json)  [XML](/news/2010/08/2/hundreds-of-new-wildfires-erupt-in-russia-as-fire-has-damaged-or-destroyed-27-towns-and-villages.xml)  
+
 ### [2010-08-2](/news/2010/08/2/index.md)
 
+##### the recent wildfires
 # Hundreds of new wildfires erupt in Russia as fire has damaged or destroyed 27 towns and villages. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Boston Globe](http://www.boston.com/news/world/europe/articles/2010/08/02/hundreds_of_new_wildfires_erupt_in_russian_forests/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/17/the-prime-minister-of-australia-john-howard-makes-a-commitment-to-keep-australian-troops-in-iraq-until-iraq-is-able-to-control-its-own-secu.html)  [JSON](/news/2007/03/17/the-prime-minister-of-australia-john-howard-makes-a-commitment-to-keep-australian-troops-in-iraq-until-iraq-is-able-to-control-its-own-secu.json)  [XML](/news/2007/03/17/the-prime-minister-of-australia-john-howard-makes-a-commitment-to-keep-australian-troops-in-iraq-until-iraq-is-able-to-control-its-own-secu.xml)  
+
 ### [2007-03-17](/news/2007/03/17/index.md)
 
+##### Australian Prime Minister
 #  The Prime Minister of Australia John Howard makes a commitment to keep Australian troops in Iraq until Iraq is able to control its own security. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6462831.stm)
 

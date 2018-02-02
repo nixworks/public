@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/2/thousands-of-people-in-south-eastern-nigeria-attend-the-funeral-of-former-biafran-secessionist-leader-chukwuemeka-odumegwu-ojukwu-who-died-i.html)  [JSON](/news/2012/03/2/thousands-of-people-in-south-eastern-nigeria-attend-the-funeral-of-former-biafran-secessionist-leader-chukwuemeka-odumegwu-ojukwu-who-died-i.json)  [XML](/news/2012/03/2/thousands-of-people-in-south-eastern-nigeria-attend-the-funeral-of-former-biafran-secessionist-leader-chukwuemeka-odumegwu-ojukwu-who-died-i.xml)  
+
 ### [2012-03-2](/news/2012/03/2/index.md)
 
+##### Nigeria
 # Thousands of people in south-eastern Nigeria attend the funeral of former Biafran secessionist leader Chukwuemeka Odumegwu-Ojukwu who died in London last year. 
 
 Thousands of people in south-eastern Nigerian attend the funeral of former Biafran secessionist leader Chukwuemeka Odumegwu-Ojukwu.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17230673)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/58835000/jpg/_58835285_014145471.jpg)

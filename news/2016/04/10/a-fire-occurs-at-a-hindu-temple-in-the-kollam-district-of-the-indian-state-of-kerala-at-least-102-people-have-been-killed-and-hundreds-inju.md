@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/10/a-fire-occurs-at-a-hindu-temple-in-the-kollam-d
 
 ### [2016-04-10](/news/2016/04/10/index.md)
 
+##### Kollam temple fire
 # A fire occurs at a Hindu temple in the Kollam district of the Indian state of Kerala. At least 102 people have been killed and hundreds injured. 
 
 The incident took place at the 500-year-old Devi Temple at Puttingal of Paravur municipality in Kollam, located around 70 km from the state capital, where a fireworks show is part of the annual festival.

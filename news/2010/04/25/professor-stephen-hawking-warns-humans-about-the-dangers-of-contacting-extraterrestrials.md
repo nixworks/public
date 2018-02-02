@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/25/professor-stephen-hawking-warns-humans-about-the-dangers-of-contacting-extraterrestrials.html)  [JSON](/news/2010/04/25/professor-stephen-hawking-warns-humans-about-the-dangers-of-contacting-extraterrestrials.json)  [XML](/news/2010/04/25/professor-stephen-hawking-warns-humans-about-the-dangers-of-contacting-extraterrestrials.xml)  
+
 ### [2010-04-25](/news/2010/04/25/index.md)
 
+##### Stephen Hawking
 # Professor Stephen Hawking warns humans about the dangers of contacting extraterrestrials. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8642558.stm)
 2. [Fox News](http://www.foxnews.com/scitech/2010/04/25/dont-talk-aliens-warns-stephen-hawking/)

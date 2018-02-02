@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/18/lawyers-representing-the-entertainment-industry-defend-their-compensation-claims-of-us-13-million-against-the-pirate-bay.html)  [JSON](/news/2009/02/18/lawyers-representing-the-entertainment-industry-defend-their-compensation-claims-of-us-13-million-against-the-pirate-bay.json)  [XML](/news/2009/02/18/lawyers-representing-the-entertainment-industry-defend-their-compensation-claims-of-us-13-million-against-the-pirate-bay.xml)  
+
 ### [2009-02-18](/news/2009/02/18/index.md)
 
+##### Lawyer
 #  Lawyers representing the entertainment industry defend their compensation claims of US$13 million against The Pirate Bay. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Local](http://www.thelocal.se/17670/20090218/)
 

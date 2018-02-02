@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/18/reuters-reports-that-xiao-gang-the-head-of-the-
 
 ### [2016-01-18](/news/2016/01/18/index.md)
 
+##### Xiao Gang
 # Reuters reports that Xiao Gang, the head of the China Securities Regulatory Commission, has offered to resign after a sharp sell-off in two of China's stock exchanges. 
 
 

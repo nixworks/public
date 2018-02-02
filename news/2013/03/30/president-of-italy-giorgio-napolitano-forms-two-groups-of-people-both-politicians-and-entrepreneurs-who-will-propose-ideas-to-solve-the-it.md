@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/30/president-of-italy-giorgio-napolitano-forms-two-groups-of-people-both-politicians-and-entrepreneurs-who-will-propose-ideas-to-solve-the-it.html)  [JSON](/news/2013/03/30/president-of-italy-giorgio-napolitano-forms-two-groups-of-people-both-politicians-and-entrepreneurs-who-will-propose-ideas-to-solve-the-it.json)  [XML](/news/2013/03/30/president-of-italy-giorgio-napolitano-forms-two-groups-of-people-both-politicians-and-entrepreneurs-who-will-propose-ideas-to-solve-the-it.xml)  
+
 ### [2013-03-30](/news/2013/03/30/index.md)
 
+##### President of Italy
 # President of Italy Giorgio Napolitano forms two groups of people, both politicians and entrepreneurs, who will propose ideas to solve the Italian economic and political crisis. The government led by Mario Monti will be in charge until a new government can be formed. 
 
 Italian President Giorgio Napolitano says he will ask a select group of people to advise on ending an impasse in forming a new government.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21981679)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66678000/jpg/_66678499_66678498.jpg)

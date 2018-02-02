@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/18/chuck-berry-pioneering-rock-music-singer-and-gu
 
 ### [2017-03-18](/news/2017/03/18/index.md)
 
+##### Chuck Berry
 # Chuck Berry, pioneering rock music singer and guitarist, dies in the U.S. state of Missouri at the age of 90. Berry was one of the first inductees in the Rock and Roll Hall of Fame. 
 
 Tributes pour in for the legendary guitarist and songwriter after he dies in Missouri aged 90.

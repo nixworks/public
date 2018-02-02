@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/10/12/kai-eide-of-norway-the-top-united-nations-official-in-afghanistan-acknowledges-widespread-fraud-took-place-during-the-recent-presidenti.html)  [JSON](/news/2009/10/12/kai-eide-of-norway-the-top-united-nations-official-in-afghanistan-acknowledges-widespread-fraud-took-place-during-the-recent-presidenti.json)  [XML](/news/2009/10/12/kai-eide-of-norway-the-top-united-nations-official-in-afghanistan-acknowledges-widespread-fraud-took-place-during-the-recent-presidenti.xml)  
+
 ### [2009-10-12](/news/2009/10/12/index.md)
 
+##### Kai Eide
 #  Kai Eide of Norway, the top United Nations official in Afghanistan, acknowledges "widespread fraud" took place during the recent presidential election in the country. 
 
 The top UN official in Afghanistan today acknowledged &quot;widespread fraud&quot; in the disputed presidential election and rejected allegations from a former deputy that he covered up cheating to smooth the path to victory for President Hamid Karzai.
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/asia/un-chief-admits-afghan-elections-were-fraudulent-1801348.html)
+1. [The Independent](https://www.independent.co.uk/news/world/asia/un-chief-admits-afghan-elections-were-fraudulent-1801348.html)
 
 ### Related:
 

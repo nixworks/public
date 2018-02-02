@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/26/the-israeli-foreign-minister-silvan-shalom-apologises-to-new-zealand-for-the-actions-of-two-israeli-citizens-believed-to-be-mossad-agent.html)  [JSON](/news/2005/06/26/the-israeli-foreign-minister-silvan-shalom-apologises-to-new-zealand-for-the-actions-of-two-israeli-citizens-believed-to-be-mossad-agent.json)  [XML](/news/2005/06/26/the-israeli-foreign-minister-silvan-shalom-apologises-to-new-zealand-for-the-actions-of-two-israeli-citizens-believed-to-be-mossad-agent.xml)  
+
 ### [2005-06-26](/news/2005/06/26/index.md)
 
+##### Israel
 #  The Israeli Foreign Minister, Silvan Shalom, apologises to New Zealand for the actions of two Israeli citizens, believed to be Mossad agents, who attempted to gain New Zealand passports under false pretences in 2004. The apology allows diplomatic relations between the two countries to return to normal. 
 
 Israel has apologised for the spy scandal and has promised it will take steps to ensure no similar incident happens again. - New Zealand Herald
 
 
-### Source:
+### Sources:
 
 1. [NZ Herald](http://www.nzherald.co.nz/index.cfm?c_id=1&ObjectID=10332767)
 1. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)

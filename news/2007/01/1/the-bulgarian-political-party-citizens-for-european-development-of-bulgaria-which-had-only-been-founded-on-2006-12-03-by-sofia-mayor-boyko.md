@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/1/the-bulgarian-political-party-citizens-for-european-development-of-bulgaria-which-had-only-been-founded-on-2006-12-03-by-sofia-mayor-boyko.html)  [JSON](/news/2007/01/1/the-bulgarian-political-party-citizens-for-european-development-of-bulgaria-which-had-only-been-founded-on-2006-12-03-by-sofia-mayor-boyko.json)  [XML](/news/2007/01/1/the-bulgarian-political-party-citizens-for-european-development-of-bulgaria-which-had-only-been-founded-on-2006-12-03-by-sofia-mayor-boyko.xml)  
+
 ### [2007-01-1](/news/2007/01/1/index.md)
 
+##### Bulgaria
 #  The Bulgarian political party Citizens for European Development of Bulgaria, which had only been founded on 2006-12-03 by Sofia mayor Boyko Borisov, instantly comes second in a public poll on party support, trailing only the Bulgarian Socialist Party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Angus-Reid](http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14267)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/11/19/hi-hi-puffy-amiyumi-premieres-on-cartoon-network-and-scores-the-highest-ever-kids-2-11-rating-and-delivery-and-the-second-highest-kids-6-11.html)  [JSON](/news/2004/11/19/hi-hi-puffy-amiyumi-premieres-on-cartoon-network-and-scores-the-highest-ever-kids-2-11-rating-and-delivery-and-the-second-highest-kids-6-11.json)  [XML](/news/2004/11/19/hi-hi-puffy-amiyumi-premieres-on-cartoon-network-and-scores-the-highest-ever-kids-2-11-rating-and-delivery-and-the-second-highest-kids-6-11.xml)  
+
 ### [2004-11-19](/news/2004/11/19/index.md)
 
+##### Hi Hi Puffy AmiYumi
 #  Hi Hi Puffy AmiYumi premieres on Cartoon Network and scores the highest-ever Kids 2-11 rating and delivery and the second highest Kids 6-11 rating (4.4) and delivery (1,068,000) ever for an original series premiere.
 
 

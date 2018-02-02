@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/14/kenyan-police-instruct-20-leading-figures-not-to-leave-the-country-as-investigations-into-two-corruption-scandals-the-goldenberg-and-anglo.html)  [JSON](/news/2006/02/14/kenyan-police-instruct-20-leading-figures-not-to-leave-the-country-as-investigations-into-two-corruption-scandals-the-goldenberg-and-anglo.json)  [XML](/news/2006/02/14/kenyan-police-instruct-20-leading-figures-not-to-leave-the-country-as-investigations-into-two-corruption-scandals-the-goldenberg-and-anglo.xml)  
+
 ### [2006-02-14](/news/2006/02/14/index.md)
 
+##### Kenya
 #  Kenyan Police instruct 20 leading figures not to leave the country as investigations into two corruption scandals, the Goldenberg and Anglo Leasing scandals continue. Among the people told to hand in their passports is George Saitoti whose resignation as education minister was announced by President Mwai Kibaki yesterday. Meanwhile, 80 Members of Parliament have demanded the resignation of Deputy President Moody Awori, who is accused of involvement in the Anglo Leasing affair. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4711546.stm)
 

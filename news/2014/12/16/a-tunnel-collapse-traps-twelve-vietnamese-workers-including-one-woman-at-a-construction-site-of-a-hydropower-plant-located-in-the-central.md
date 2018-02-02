@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/16/a-tunnel-collapse-traps-twelve-vietnamese-workers-including-one-woman-at-a-construction-site-of-a-hydropower-plant-located-in-the-central.html)  [JSON](/news/2014/12/16/a-tunnel-collapse-traps-twelve-vietnamese-workers-including-one-woman-at-a-construction-site-of-a-hydropower-plant-located-in-the-central.json)  [XML](/news/2014/12/16/a-tunnel-collapse-traps-twelve-vietnamese-workers-including-one-woman-at-a-construction-site-of-a-hydropower-plant-located-in-the-central.xml)  
+
 ### [2014-12-16](/news/2014/12/16/index.md)
 
+##### Vietnamese
 # A tunnel collapse traps twelve Vietnamese workers, including one woman, at a construction site of a hydropower plant located in the Central Highlands. 
 
 Eleven workers, including a woman, are trapped inside a tunnel at the construction site of a hydropower plant in Vietnam&#39;s Central Highland after part of the tunnel collapsed at 7 a.m. this morning.
 
 
-### Source:
+### Sources:
 
 1. [Thanh Nien](http://www.thanhniennews.com/society/12-workers-trapped-after-tunnel-collapse-in-vietnam-hydropower-project-35366.html)
 1. [Cover Image](http://static.thanhniennews.com/Uploaded/danghanh/2014_12_16/oxy_KPBK.jpg)

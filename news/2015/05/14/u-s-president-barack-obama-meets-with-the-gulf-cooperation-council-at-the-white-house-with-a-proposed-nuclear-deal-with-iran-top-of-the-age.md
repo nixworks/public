@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/14/u-s-president-barack-obama-meets-with-the-gulf-cooperation-council-at-the-white-house-with-a-proposed-nuclear-deal-with-iran-top-of-the-age.html)  [JSON](/news/2015/05/14/u-s-president-barack-obama-meets-with-the-gulf-cooperation-council-at-the-white-house-with-a-proposed-nuclear-deal-with-iran-top-of-the-age.json)  [XML](/news/2015/05/14/u-s-president-barack-obama-meets-with-the-gulf-cooperation-council-at-the-white-house-with-a-proposed-nuclear-deal-with-iran-top-of-the-age.xml)  
+
 ### [2015-05-14](/news/2015/05/14/index.md)
 
+##### U.S. President
 # U.S. President Barack Obama meets with the Gulf Cooperation Council at the White House with a proposed nuclear deal with Iran top of the agenda.
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2015/05/13/politics/saudi-arabia-gcc-summit-obama-camp-david/)
 

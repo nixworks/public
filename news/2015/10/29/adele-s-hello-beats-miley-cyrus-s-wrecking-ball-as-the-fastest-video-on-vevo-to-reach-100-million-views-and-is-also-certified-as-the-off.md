@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/29/adele-s-hello-beats-miley-cyrus-s-wrecking-ball-as-the-fastest-video-on-vevo-to-reach-100-million-views-and-is-also-certified-as-the-off.html)  [JSON](/news/2015/10/29/adele-s-hello-beats-miley-cyrus-s-wrecking-ball-as-the-fastest-video-on-vevo-to-reach-100-million-views-and-is-also-certified-as-the-off.json)  [XML](/news/2015/10/29/adele-s-hello-beats-miley-cyrus-s-wrecking-ball-as-the-fastest-video-on-vevo-to-reach-100-million-views-and-is-also-certified-as-the-off.xml)  
+
 ### [2015-10-29](/news/2015/10/29/index.md)
 
+##### Adele
 # Adele's "Hello" beats Miley Cyrus's "Wrecking Ball" as the fastest video on Vevo to reach 100 million views and is also certified as the official Vevo Record holder. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Daily Mail](http://www.dailymail.co.uk/tvshowbiz/article-3294769/Adele-s-Hello-smashes-Miley-Cyrus-Vevo-record-Wrecking-Ball-new-music-video-viewed-100m-times-FIVE-days.html)
 

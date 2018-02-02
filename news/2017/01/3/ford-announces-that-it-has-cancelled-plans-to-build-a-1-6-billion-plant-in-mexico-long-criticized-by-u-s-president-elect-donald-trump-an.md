@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/3/ford-announces-that-it-has-cancelled-plans-to-bu
 
 ### [2017-01-3](/news/2017/01/3/index.md)
 
+##### Ford
 # Ford announces that it has cancelled plans to build a $1.6 billion plant in Mexico, long criticized by U.S. President-elect Donald Trump, and will invest $700 million in its Michigan plant in Flat Rock, potentially creating 700 new jobs from the investment and expansion of the plant. 
 
 Ford Motor Company on Tuesday announced plans to cancel the building of a $1.6 billion plant in Mexico and instead invest $700 million in a Michigan assembly plant, directly tying the decision to “pro-growth policies” championed by President-elect Donald Trump.

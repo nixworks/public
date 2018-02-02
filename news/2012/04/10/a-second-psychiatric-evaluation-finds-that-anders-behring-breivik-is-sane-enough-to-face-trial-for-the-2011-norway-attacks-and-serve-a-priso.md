@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/10/a-second-psychiatric-evaluation-finds-that-anders-behring-breivik-is-sane-enough-to-face-trial-for-the-2011-norway-attacks-and-serve-a-priso.html)  [JSON](/news/2012/04/10/a-second-psychiatric-evaluation-finds-that-anders-behring-breivik-is-sane-enough-to-face-trial-for-the-2011-norway-attacks-and-serve-a-priso.json)  [XML](/news/2012/04/10/a-second-psychiatric-evaluation-finds-that-anders-behring-breivik-is-sane-enough-to-face-trial-for-the-2011-norway-attacks-and-serve-a-priso.xml)  
+
 ### [2012-04-10](/news/2012/04/10/index.md)
 
+##### Anders Behring Breivik
 # A second psychiatric evaluation finds that Anders Behring Breivik is sane enough to face trial for the 2011 Norway attacks and serve a prison sentence if convicted. 
 
 A second psychiatric report declares Norwegian mass killer Anders Behring Breivik sane enough to face trial and jail, contradicting an earlier assessment.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17663958)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/59118000/jpg/_59118914_014189735-1.jpg)

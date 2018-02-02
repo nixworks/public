@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/6/thai-prime-minister-abhisit-vejjajiva-seeks-king-bhumibol-adulyadej-s-endorsement-to-dissolve-the-lower-house-of-parliament-and-calls-for-a.html)  [JSON](/news/2011/05/6/thai-prime-minister-abhisit-vejjajiva-seeks-king-bhumibol-adulyadej-s-endorsement-to-dissolve-the-lower-house-of-parliament-and-calls-for-a.json)  [XML](/news/2011/05/6/thai-prime-minister-abhisit-vejjajiva-seeks-king-bhumibol-adulyadej-s-endorsement-to-dissolve-the-lower-house-of-parliament-and-calls-for-a.xml)  
+
 ### [2011-05-6](/news/2011/05/6/index.md)
 
+##### Thai Prime Minister
 # Thai Prime Minister Abhisit Vejjajiva seeks King Bhumibol Adulyadej's endorsement to dissolve the lower house of parliament and calls for a national election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/news/world/violence-warning-as-thai-pm-abhisit-vejjajiva-calls-election/story-e6frg6so-1226051386855)
 

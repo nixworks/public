@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/4/houthi-rebels-in-yemen-fire-a-ballistic-missile-
 
 ### [2017-11-4](/news/2017/11/4/index.md)
 
+##### Saudi Arabian-led intervention in Yemen
 # Houthi rebels in Yemen fire a ballistic missile at King Khalid International Airport in Riyadh, Saudi Arabia. The missile was shot down, according to Saudi officials, with no resulting injuries or damage.
 
 Amid regional tensions, Yemen’s Iran-aligned Houthi rebels reached Riyadh with a ballistic missile for the first time.

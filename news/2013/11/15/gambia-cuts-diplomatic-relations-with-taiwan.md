@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/15/gambia-cuts-diplomatic-relations-with-taiwan.html)  [JSON](/news/2013/11/15/gambia-cuts-diplomatic-relations-with-taiwan.json)  [XML](/news/2013/11/15/gambia-cuts-diplomatic-relations-with-taiwan.xml)  
+
 ### [2013-11-15](/news/2013/11/15/index.md)
 
+##### Gambia
 # Gambia cuts diplomatic relations with Taiwan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-24951115)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71126000/jpg/_71126113_018183022.jpg)

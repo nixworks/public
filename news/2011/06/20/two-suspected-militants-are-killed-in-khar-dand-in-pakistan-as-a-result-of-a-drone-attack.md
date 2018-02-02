@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/20/two-suspected-militants-are-killed-in-khar-dand-in-pakistan-as-a-result-of-a-drone-attack.html)  [JSON](/news/2011/06/20/two-suspected-militants-are-killed-in-khar-dand-in-pakistan-as-a-result-of-a-drone-attack.json)  [XML](/news/2011/06/20/two-suspected-militants-are-killed-in-khar-dand-in-pakistan-as-a-result-of-a-drone-attack.xml)  
+
 ### [2011-06-20](/news/2011/06/20/index.md)
 
+##### Pakistan
 # Two suspected militants are killed in Khar Dand in Pakistan as a result of a drone attack. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via WVEC](http://hosted.ap.org/dynamic/stories/A/AS_PAKISTAN?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
 

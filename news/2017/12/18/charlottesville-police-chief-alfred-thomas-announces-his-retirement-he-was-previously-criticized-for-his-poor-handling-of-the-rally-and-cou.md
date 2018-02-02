@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/18/charlottesville-police-chief-alfred-thomas-anno
 
 ### [2017-12-18](/news/2017/12/18/index.md)
 
+##### Unite the Right rally
 # Charlottesville Police Chief Alfred Thomas announces his retirement. He was previously criticized for his poor handling of the rally and counterprotests. 
 
 Accused by a stinging report of a &quot;slow-footed response&quot; to violence at the rally, and amid claims that he intimidated officers, Alfred Thomas is retiring. His deputy will take over as interim chief.

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/03/10/saudi-police-open-fire-on-protesters-in-qatif.html)  [JSON](/news/2011/03/10/saudi-police-open-fire-on-protesters-in-qatif.json)  [XML](/news/2011/03/10/saudi-police-open-fire-on-protesters-in-qatif.xml)  
+
 ### [2011-03-10](/news/2011/03/10/index.md)
 
+##### policeman
 # Saudi police open fire on protesters in Qatif. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/03/10/AR2011031003269.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2011/03/10/AR2011031003269.html)
 1. [Cover Image](http://www.washingtonpost.com/wp-dyn/content/photo/2011/03/10/PH2011031004604.jpg)
 
 ### Related:

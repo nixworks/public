@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/03/5/sco-v-ibm-u-s-district-judge-brooke-wells-orders-the-two-involved-companies-to-produce-within-45-days-lines-of-code-and-documentation.html)  [JSON](/news/2004/03/5/sco-v-ibm-u-s-district-judge-brooke-wells-orders-the-two-involved-companies-to-produce-within-45-days-lines-of-code-and-documentation.json)  [XML](/news/2004/03/5/sco-v-ibm-u-s-district-judge-brooke-wells-orders-the-two-involved-companies-to-produce-within-45-days-lines-of-code-and-documentation.xml)  
+
 ### [2004-03-5](/news/2004/03/5/index.md)
 
+##### SCO v. IBM
 #  SCO v. IBM: U.S. District Judge Brooke Wells orders the two involved companies to produce, within 45 days, lines of code and documentation supporting their cases. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/tech/news/techpolicy/2004-03-04-ibm-sco-proof_x.htm)
+1. [USA Today](https://www.usatoday.com/tech/news/techpolicy/2004-03-04-ibm-sco-proof_x.htm)
 
 ### Related:
 

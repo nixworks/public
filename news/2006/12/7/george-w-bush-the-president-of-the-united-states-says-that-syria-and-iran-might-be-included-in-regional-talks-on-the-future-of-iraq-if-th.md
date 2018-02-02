@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/7/george-w-bush-the-president-of-the-united-states-says-that-syria-and-iran-might-be-included-in-regional-talks-on-the-future-of-iraq-if-th.html)  [JSON](/news/2006/12/7/george-w-bush-the-president-of-the-united-states-says-that-syria-and-iran-might-be-included-in-regional-talks-on-the-future-of-iraq-if-th.json)  [XML](/news/2006/12/7/george-w-bush-the-president-of-the-united-states-says-that-syria-and-iran-might-be-included-in-regional-talks-on-the-future-of-iraq-if-th.xml)  
+
 ### [2006-12-7](/news/2006/12/7/index.md)
 
+##### George W. Bush
 #  George W. Bush, the President of the United States says that Syria and Iran might be included in regional talks on the future of Iraq if they meet certain conditions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/POLITICS/12/07/bush.blair/index.html)
 

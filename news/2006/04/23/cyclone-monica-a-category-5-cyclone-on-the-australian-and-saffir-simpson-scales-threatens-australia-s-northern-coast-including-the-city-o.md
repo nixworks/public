@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/04/23/cyclone-monica-a-category-5-cyclone-on-the-australian-and-saffir-simpson-scales-threatens-australia-s-northern-coast-including-the-city-o.html)  [JSON](/news/2006/04/23/cyclone-monica-a-category-5-cyclone-on-the-australian-and-saffir-simpson-scales-threatens-australia-s-northern-coast-including-the-city-o.json)  [XML](/news/2006/04/23/cyclone-monica-a-category-5-cyclone-on-the-australian-and-saffir-simpson-scales-threatens-australia-s-northern-coast-including-the-city-o.xml)  
+
 ### [2006-04-23](/news/2006/04/23/index.md)
 
+##### Cyclone Monica
 #  Cyclone Monica, a Category 5 cyclone on the Australian and Saffir-Simpson scales, threatens Australia's northern coast including the city of Darwin. The Australian Bureau of Meteorology has warned of "dangerously high tides" that may cause "extensive flooding" along part of the coast and ordered the sounding of emergency sirens in the Gove Peninsula. Alcan, the world's second-biggest aluminium producer, has warned customers of potential interruptions to supplies on contracts from its Gove refinery. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000081&sid=a.BR4z3if15Y&refer=australia)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000081&sid=a.BR4z3if15Y&refer=australia)
 
 ### Related:
 

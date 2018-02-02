@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/1/the-justices-of-the-supreme-court-of-the-united-kingdom-are-sworn-into-office-replacing-the-law-lords-as-the-final-court-of-appeal-in-the.html)  [JSON](/news/2009/10/1/the-justices-of-the-supreme-court-of-the-united-kingdom-are-sworn-into-office-replacing-the-law-lords-as-the-final-court-of-appeal-in-the.json)  [XML](/news/2009/10/1/the-justices-of-the-supreme-court-of-the-united-kingdom-are-sworn-into-office-replacing-the-law-lords-as-the-final-court-of-appeal-in-the.xml)  
+
 ### [2009-10-1](/news/2009/10/1/index.md)
 
+##### Supreme Court of the United Kingdom
 #  The Justices of the Supreme Court of the United Kingdom are sworn into office, replacing the Law Lords as the final court of appeal in the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8283939.stm)
 2. [The Times](http://business.timesonline.co.uk/tol/business/law/article6856960.ece)

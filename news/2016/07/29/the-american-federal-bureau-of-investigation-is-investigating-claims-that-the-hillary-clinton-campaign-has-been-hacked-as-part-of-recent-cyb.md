@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/29/the-american-federal-bureau-of-investigation-is
 
 ### [2016-07-29](/news/2016/07/29/index.md)
 
+##### FBI
 # The American Federal Bureau of Investigation is investigating claims that the Hillary Clinton campaign has been hacked as part of recent cyber-attacks on the Democrats. 
 
 Hillary Clinton&#039;s campaign was caught up in the cyberattacks on Democrats, Reuters reported Friday afternoon. The hacks on the Clinton campaign were reported the same day as a hack on the Democratic Congressional Campaign Committee, the campaign arm of House Democrats. It&#039;s unknown at this point which group perpetuated the attack on Clinton&#039;s campaign. Democrats have been the targets of multiple hacks within the last week after WikiLeaks released thousands of emails by Democratic National Committee staffers. The revelations in the emails, including that DNC staffers mulled using Sen. Bernie Sanders&#039; Jewish heritage against him during the primary election, resulted in Chairwoman Debbie Wasserman Schultz resigning. WikiLeaks also released hacked voicemails of DNC staffers this week. The hacks have stirred speculation that the Russian government is trying to interfere in the American presidential election by breaking into Democratic Party computers. 

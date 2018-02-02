@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/1/the-trial-of-30-protesters-in-iran-who-demonstrated-in-protests-after-the-disputed-presidential-election-begins.html)  [JSON](/news/2009/08/1/the-trial-of-30-protesters-in-iran-who-demonstrated-in-protests-after-the-disputed-presidential-election-begins.json)  [XML](/news/2009/08/1/the-trial-of-30-protesters-in-iran-who-demonstrated-in-protests-after-the-disputed-presidential-election-begins.xml)  
+
 ### [2009-08-1](/news/2009/08/1/index.md)
 
+##### Iran
 #  The trial of 30 protesters in Iran who demonstrated in protests after the disputed presidential election begins. 
 
 Activists face charges of rioting in wake of disputed presidential vote.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/08/20098151815415827.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8179470.stm)

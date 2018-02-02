@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/10/an-israeli-air-force-f-16i-crashes-in-makhtesh-ramon-while-on-a-training-over-the-negev-desert-in-southern-israel-killing-both-the-pilot-an.html)  [JSON](/news/2010/11/10/an-israeli-air-force-f-16i-crashes-in-makhtesh-ramon-while-on-a-training-over-the-negev-desert-in-southern-israel-killing-both-the-pilot-an.json)  [XML](/news/2010/11/10/an-israeli-air-force-f-16i-crashes-in-makhtesh-ramon-while-on-a-training-over-the-negev-desert-in-southern-israel-killing-both-the-pilot-an.xml)  
+
 ### [2010-11-10](/news/2010/11/10/index.md)
 
+##### Israeli Air Force
 # An Israeli Air Force F-16I crashes in Makhtesh Ramon while on a training over the Negev desert in southern Israel, killing both the pilot and navigator of the plane. 
 
 Pilot Maj. Amichai Itkis and navigator Maj. Emanuel Levy took off from the Ramon Air Force base and crashed during training exercise. 
 
 
-### Source:
+### Sources:
 
 1. ["Bodies of IAF pilot and navigator found after F-16I crash in Negev" (Ha'aretz](http://www.haaretz.com/news/diplomacy-defense/bodies-of-iaf-pilot-and-navigator-found-after-f-16i-crash-in-negev-1.324188)
 1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.324189.1289483753!/image/1870132579.jpg_gen/derivatives/headline_1200x630/1870132579.jpg)

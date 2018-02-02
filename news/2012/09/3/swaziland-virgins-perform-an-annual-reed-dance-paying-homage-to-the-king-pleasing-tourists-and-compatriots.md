@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/09/3/swaziland-virgins-perform-an-annual-reed-dance-paying-homage-to-the-king-pleasing-tourists-and-compatriots.html)  [JSON](/news/2012/09/3/swaziland-virgins-perform-an-annual-reed-dance-paying-homage-to-the-king-pleasing-tourists-and-compatriots.json)  [XML](/news/2012/09/3/swaziland-virgins-perform-an-annual-reed-dance-paying-homage-to-the-king-pleasing-tourists-and-compatriots.xml)  
+
 ### [2012-09-3](/news/2012/09/3/index.md)
 
+##### Swaziland
 # Swaziland virgins perform an annual reed dance, paying homage to the king, pleasing tourists and compatriots. 
 
 Sep. 3 - Thousands of young virgins perform annual reed dance in Swaziland. Jessica Gray reports.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/video/2012/09/03/swaziland-virgins-perform-reed-dance?videoId=237453009&videoChannel=117760)
-1. [Cover Image](http://yospace-cds1.reuters.com/u/resize~ad1~1200/0/f/~image_jpeg~9999-1/1/m/e/1/d/p/4f12/reuters04?videoId=47513010)
+1. [Reuters](https://www.reuters.com/video/2012/09/03/swaziland-virgins-perform-reed-dance?videoId=237453009&videoChannel=117760)
+1. [Cover Image](https://yospace-cds1.reuters.com/u/resize~ad1~1200/0/f/~image_jpeg~9999-1/1/m/e/1/d/p/4f12/reuters04?videoId=47513010)
 
 ### Related:
 

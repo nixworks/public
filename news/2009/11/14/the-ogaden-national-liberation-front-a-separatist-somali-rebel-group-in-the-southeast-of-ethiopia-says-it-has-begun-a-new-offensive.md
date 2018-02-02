@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/14/the-ogaden-national-liberation-front-a-separatist-somali-rebel-group-in-the-southeast-of-ethiopia-says-it-has-begun-a-new-offensive.html)  [JSON](/news/2009/11/14/the-ogaden-national-liberation-front-a-separatist-somali-rebel-group-in-the-southeast-of-ethiopia-says-it-has-begun-a-new-offensive.json)  [XML](/news/2009/11/14/the-ogaden-national-liberation-front-a-separatist-somali-rebel-group-in-the-southeast-of-ethiopia-says-it-has-begun-a-new-offensive.xml)  
+
 ### [2009-11-14](/news/2009/11/14/index.md)
 
+##### Ogaden National Liberation Front
 #  The Ogaden National Liberation Front, a separatist Somali rebel group in the southeast of Ethiopia, says it has begun a new offensive. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8360199.stm)
 2. [Ethiopian Review](http://www.ethiopianreview.com/news/6919)

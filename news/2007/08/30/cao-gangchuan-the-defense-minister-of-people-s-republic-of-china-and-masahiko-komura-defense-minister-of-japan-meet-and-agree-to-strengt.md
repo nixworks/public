@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/30/cao-gangchuan-the-defense-minister-of-people-s-republic-of-china-and-masahiko-komura-defense-minister-of-japan-meet-and-agree-to-strengt.html)  [JSON](/news/2007/08/30/cao-gangchuan-the-defense-minister-of-people-s-republic-of-china-and-masahiko-komura-defense-minister-of-japan-meet-and-agree-to-strengt.json)  [XML](/news/2007/08/30/cao-gangchuan-the-defense-minister-of-people-s-republic-of-china-and-masahiko-komura-defense-minister-of-japan-meet-and-agree-to-strengt.xml)  
+
 ### [2007-08-30](/news/2007/08/30/index.md)
 
+##### Cao Gangchuan
 #  Cao Gangchuan, the Defense Minister of People's Republic of China and Masahiko Komura, Defense Minister of Japan. meet and agree to strengthen exchanges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://www.chinadaily.com.cn/china/2007-08/30/content_6068898.htm)
 

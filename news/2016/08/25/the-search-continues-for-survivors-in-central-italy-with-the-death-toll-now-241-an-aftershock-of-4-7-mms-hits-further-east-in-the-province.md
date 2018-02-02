@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/25/the-search-continues-for-survivors-in-central-i
 
 ### [2016-08-25](/news/2016/08/25/index.md)
 
+##### major quake in August
 # The search continues for survivors in central Italy with the death toll now 241. An aftershock of 4.7 MMS hits further east in the province near Norcia. 
 
 The death toll from the central Italy earthquake reaches 250, amid fears many more bodies remain buried in the rubble.
@@ -23,7 +24,7 @@ The death toll from the central Italy earthquake reaches 250, amid fears many mo
 
 ### Related:
 
-1. [A series of earthquakes strikes a region of Central Italy already impacted by a major quake in August. Many buildings are damaged or destroyed across several towns. ](/news/2016/10/26/a-series-of-earthquakes-strikes-a-region-of-central-italy-already-impacted-by-a-major-quake-in-august-many-buildings-are-damaged-or-destroy.md) _Context: Central Italy, major quake in August_
+1. [A 7.9 magnitude earthquake occurs in the Gulf of Alaska. A tsunami warning is issued for coastal Alaska and British Columbia, and the entire U.S. West Coast is placed under a tsunami watch. Areas of Alaska remain under a tsunami advisory. It is tied as the sixth-largest earthquake ever recorded in the United States, but there are no reports of significant damage or fatalities. ](/news/2018/01/23/a-7-9-magnitude-earthquake-occurs-in-the-gulf-of-alaska-a-tsunami-warning-is-issued-for-coastal-alaska-and-british-columbia-and-the-entire.md) _Context: magnitude_
 2. [A magnitude 6.5 earthquake strikes the island of Java causing massive damage along with two confirmed deaths. ](/news/2017/12/15/a-magnitude-6-5-earthquakea-strikesa-the-island-of-javaa-causing-massive-damage-along-with-two-confirmed-deaths.md) _Context: magnitude_
 3. [A 7.0 magnitude undersea earthquake strikes east of New Caledonia's Loyalty Islands in the South Pacific Ocean. Tsunami warnings for New Caledonia and Vanuatu are cancelled. There are no immediate reports of damage. ](/news/2017/11/20/a-7-0-magnitude-undersea-earthquake-strikes-east-of-new-caledonia-s-loyalty-islands-in-the-south-pacific-ocean-tsunami-warnings-for-new-cal.md) _Context: magnitude_
 4. [Costa Rica is hit by a 6.5 magnitude earthquake at Jaco near the capital San Jose. No immediate reports of casualties or damage. ](/news/2017/11/12/costa-rica-is-hit-by-a-6-5-magnitude-earthquake-at-jaca3-near-the-capital-san-josa-c-no-immediate-reports-of-casualties-or-damage.md) _Context: magnitude_

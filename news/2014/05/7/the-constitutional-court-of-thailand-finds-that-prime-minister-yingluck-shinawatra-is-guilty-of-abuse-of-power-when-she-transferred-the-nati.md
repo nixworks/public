@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/7/the-constitutional-court-of-thailand-finds-that-prime-minister-yingluck-shinawatra-is-guilty-of-abuse-of-power-when-she-transferred-the-nati.html)  [JSON](/news/2014/05/7/the-constitutional-court-of-thailand-finds-that-prime-minister-yingluck-shinawatra-is-guilty-of-abuse-of-power-when-she-transferred-the-nati.json)  [XML](/news/2014/05/7/the-constitutional-court-of-thailand-finds-that-prime-minister-yingluck-shinawatra-is-guilty-of-abuse-of-power-when-she-transferred-the-nati.xml)  
+
 ### [2014-05-7](/news/2014/05/7/index.md)
 
+##### Constitutional Court of Thailand
 # The Constitutional Court of Thailand finds that Prime Minister Yingluck Shinawatra is guilty of abuse of power when she transferred the National Security Council chief in 2011 and that she cannot remain in office. 
 
 There are fresh security concerns in Thailand after the elected prime minister was forced from power.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-05-07/thailand-yingluck-court-verdict/5436798)
 1. [Cover Image](http://www.abc.net.au/news/image/5438168-1x1-700x700.jpg)

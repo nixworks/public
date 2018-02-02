@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/24/state-television-in-cote-d-ivoire-goes-off-the-air-outside-the-capital-abidjan-amid-a-political-crisis-the-economic-community-of-west-afric.html)  [JSON](/news/2010/12/24/state-television-in-cote-d-ivoire-goes-off-the-air-outside-the-capital-abidjan-amid-a-political-crisis-the-economic-community-of-west-afric.json)  [XML](/news/2010/12/24/state-television-in-cote-d-ivoire-goes-off-the-air-outside-the-capital-abidjan-amid-a-political-crisis-the-economic-community-of-west-afric.xml)  
+
 ### [2010-12-24](/news/2010/12/24/index.md)
 
+##### Cte d'Ivoire
 # State television in Cte d'Ivoire goes off the air outside the capital Abidjan amid a political crisis. The Economic Community of West African States threatens to remove incumbent President Laurent Gbagbo by "legitimate force". 
 
 State television in Ivory Coast goes off air outside the main city, Abidjan, amid heightened tensions over the disputed presidency.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12074006)
 2. [IOL](http://www.iol.co.za/news/africa/ivory-coast-state-tv-off-the-air-1.1005014)

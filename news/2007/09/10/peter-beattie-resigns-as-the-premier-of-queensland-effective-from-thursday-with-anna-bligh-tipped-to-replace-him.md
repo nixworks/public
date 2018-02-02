@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/10/peter-beattie-resigns-as-the-premier-of-queensland-effective-from-thursday-with-anna-bligh-tipped-to-replace-him.html)  [JSON](/news/2007/09/10/peter-beattie-resigns-as-the-premier-of-queensland-effective-from-thursday-with-anna-bligh-tipped-to-replace-him.json)  [XML](/news/2007/09/10/peter-beattie-resigns-as-the-premier-of-queensland-effective-from-thursday-with-anna-bligh-tipped-to-replace-him.xml)  
+
 ### [2007-09-10](/news/2007/09/10/index.md)
 
+##### Peter Beattie
 #  Peter Beattie resigns as the Premier of Queensland effective from Thursday with Anna Bligh tipped to replace him. 
 
 Peter Beattie has announced his retirement as Premier of Queensland, effective from Thursday.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/09/10/2028691.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/641926-1x1-700x700.jpg)

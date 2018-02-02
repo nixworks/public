@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2014/03/27/prince-muqrin-bin-abdulaziz-al-saud-is-confirmed-as-second-in-line-to-the-saudi-arabian-throne.html)  [JSON](/news/2014/03/27/prince-muqrin-bin-abdulaziz-al-saud-is-confirmed-as-second-in-line-to-the-saudi-arabian-throne.json)  [XML](/news/2014/03/27/prince-muqrin-bin-abdulaziz-al-saud-is-confirmed-as-second-in-line-to-the-saudi-arabian-throne.xml)  
+
 ### [2014-03-27](/news/2014/03/27/index.md)
 
+##### Muqrin bin Abdulaziz Al Saud
 # Prince Muqrin bin Abdulaziz Al Saud is confirmed as second-in-line to the Saudi Arabian throne. 
 
+Saudi Arabia named Prince Muqrin bin Abdulaziz as second in line to the throne, the latest royal promotion as King Abdullah confronts unprecedented political instability in the Middle East and economic changes at home.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2014-03-27/saudi-arabia-appoints-prince-muqrin-as-second-crown-prince.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2014-03-27/saudi-arabia-appoints-prince-muqrin-as-second-crown-prince.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

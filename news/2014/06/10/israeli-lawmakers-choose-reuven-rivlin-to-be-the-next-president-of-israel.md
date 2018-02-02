@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/10/israeli-lawmakers-choose-reuven-rivlin-to-be-the-next-president-of-israel.html)  [JSON](/news/2014/06/10/israeli-lawmakers-choose-reuven-rivlin-to-be-the-next-president-of-israel.json)  [XML](/news/2014/06/10/israeli-lawmakers-choose-reuven-rivlin-to-be-the-next-president-of-israel.xml)  
+
 ### [2014-06-10](/news/2014/06/10/index.md)
 
+##### Israel
 # Israeli lawmakers choose Reuven Rivlin to be the next President of Israel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Chronicle](http://www.chron.com/news/world/article/Choice-for-Israeli-president-down-to-2-lawmakers-5540628.php)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/05/3/gulzar-receives-dadasaheb-phalke-award-while-ship-of-theseus-wins-the-best-feature-film-award.html)  [JSON](/news/2014/05/3/gulzar-receives-dadasaheb-phalke-award-while-ship-of-theseus-wins-the-best-feature-film-award.json)  [XML](/news/2014/05/3/gulzar-receives-dadasaheb-phalke-award-while-ship-of-theseus-wins-the-best-feature-film-award.xml)  
+
 ### [2014-05-3](/news/2014/05/3/index.md)
 
+##### Gulzar
 # Gulzar receives Dadasaheb Phalke Award while "Ship of Theseus" wins the Best Feature Film award. 
 
 &#8216;Fandry&#8217;, &#8216;Shahid&#8217; also rewarded.
 
 
-### Source:
+### Sources:
 
-1. [Variety](http://variety.com/2014/film/news/ship-of-theseus-wins-indias-national-film-award-1201158125/)
-1. [Cover Image](https://pmcvariety.files.wordpress.com/2013/11/ship_of_theseus_movie.jpg?w=1000&amp;h=750&amp;crop=1)
+1. [Variety](https://variety.com/2014/film/news/ship-of-theseus-wins-indias-national-film-award-1201158125/)
+1. [Cover Image](https://pmcvariety.files.wordpress.com/2013/11/ship_of_theseus_movie.jpg?w=700&#038;h=393&#038;crop=1)
 
 ### Related:
 

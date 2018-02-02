@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2005/04/15/the-ongoing-anti-japanese-demonstrations-in-china-might-have-been-scripted-and-manipulated-by-the-chinese-government-as-a-bargaining-tool-a.html)  [JSON](/news/2005/04/15/the-ongoing-anti-japanese-demonstrations-in-china-might-have-been-scripted-and-manipulated-by-the-chinese-government-as-a-bargaining-tool-a.json)  [XML](/news/2005/04/15/the-ongoing-anti-japanese-demonstrations-in-china-might-have-been-scripted-and-manipulated-by-the-chinese-government-as-a-bargaining-tool-a.xml)  
+
 ### [2005-04-15](/news/2005/04/15/index.md)
 
-#  The ongoing anti-Japanese demonstrations in China might have been scripted and manipulated by the Chinese government as a bargaining tool against its neighbor in the recent Sino-Japanese energy and territory disputes. [http:--www.nytimes.com-2005-04-15-international-asia-15china.html?ex=1114228800&en=56a7d2bc9637f864&ei=5070 ("NY Times")] (registration required). Personal announcements appeared on blogs [http:--blog.yesky.com-Blog-somewindows-archive-2005-04-14-108080.html] [http:--heart.pdx.cn-blog-diary,181320.html] attempting to stage massive anti-Japanese riots not only in the capital but also in 17 major Chinese cities, responding to the April 17 visit of the Japanese Foreign Minister to Beijing, and the 86th anniversary of the May Fourth Movement. 
+##### Japanese history textbooks controversy
+#  The ongoing anti-Japanese demonstrations in China might have been scripted and manipulated by the Chinese government as a bargaining tool against its neighbor in the recent Sino-Japanese energy and territory disputes. [https:--www.nytimes.com-2005-04-15-international-asia-15china.html?ex=1114228800&en=56a7d2bc9637f864&ei=5070 ("NY Times")] (registration required). Personal announcements appeared on blogs [http:--blog.yesky.com-Blog-somewindows-archive-2005-04-14-108080.html] [http:--heart.pdx.cn-blog-diary,181320.html] attempting to stage massive anti-Japanese riots not only in the capital but also in 17 major Chinese cities, responding to the April 17 visit of the Japanese Foreign Minister to Beijing, and the 86th anniversary of the May Fourth Movement. 
 
 
 

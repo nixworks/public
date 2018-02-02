@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/1/at-least-6-people-die-as-mozambique-police-fire-rubber-bullets-as-a-protest-in-maputo-over-rising-food-prices-turns-into-a-riot.html)  [JSON](/news/2010/09/1/at-least-6-people-die-as-mozambique-police-fire-rubber-bullets-as-a-protest-in-maputo-over-rising-food-prices-turns-into-a-riot.json)  [XML](/news/2010/09/1/at-least-6-people-die-as-mozambique-police-fire-rubber-bullets-as-a-protest-in-maputo-over-rising-food-prices-turns-into-a-riot.xml)  
+
 ### [2010-09-1](/news/2010/09/1/index.md)
 
+##### Mozambique
 # At least 6 people die as Mozambique police fire rubber bullets as a protest in Maputo over rising food prices turns into a riot. 
 
 At&#x20;least&#x20;four&#x20;people&#x20;have&#x20;died&#x20;in&#x20;protests&amp;nbsp&#x3B;over&#x20;rising&#x20;prices&#x20;in&#x20;Mozambique&amp;&#x23;039&#x3B;s&#x20;capital&#x20;Maputo.&#x20;Another&#x20;27&#x20;more&#x20;were&#x20;wounded&#x20;when&#x20;police&#x20;opened&#x20;fire&#x20;on&#x20;demonstrators,&#x20;though&#x20;police&#x20;deny&#x20;using&#x20;live&#x20;bullets&#x20;on&#x20;the&#x20;crowds.&#x0A;
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/09/201091135823503484.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11150063)

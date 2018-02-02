@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/3/in-an-open-letter-to-george-w-bush-more-than-50-former-high-ranking-united-states-diplomats-including-former-ambassadors-to-saudi-arabia.html)  [JSON](/news/2004/05/3/in-an-open-letter-to-george-w-bush-more-than-50-former-high-ranking-united-states-diplomats-including-former-ambassadors-to-saudi-arabia.json)  [XML](/news/2004/05/3/in-an-open-letter-to-george-w-bush-more-than-50-former-high-ranking-united-states-diplomats-including-former-ambassadors-to-saudi-arabia.xml)  
+
 ### [2004-05-3](/news/2004/05/3/index.md)
 
+##### George W. Bush
 #  In an open letter to George W. Bush more than 50 former high-ranking United States diplomats (including former ambassadors to Saudi Arabia and Qatar) complain about the Bush administration's policy towards the Middle East claiming that the President's approach, and specifically his endorsement of Israeli Prime Minister Ariel Sharon's disengagement plan, is losing the U.S. "credibility, prestige and friends". The letter follows a similar one written by 52 former British diplomats sent to Tony Blair a few days earlier. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/3681641.stm)
 

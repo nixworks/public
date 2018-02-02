@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/30/tunisian-journalist-taoufik-ben-brik-who-criticised-the-country-s-leader-and-who-is-according-to-amnesty-international-a-prisoner-of-con.html)  [JSON](/news/2010/01/30/tunisian-journalist-taoufik-ben-brik-who-criticised-the-country-s-leader-and-who-is-according-to-amnesty-international-a-prisoner-of-con.json)  [XML](/news/2010/01/30/tunisian-journalist-taoufik-ben-brik-who-criticised-the-country-s-leader-and-who-is-according-to-amnesty-international-a-prisoner-of-con.xml)  
+
 ### [2010-01-30](/news/2010/01/30/index.md)
 
+##### Tunisia
 # Tunisian journalist Taoufik Ben Brik, who criticised the country's leader and who is, according to Amnesty International, a "prisoner of conscience", loses his appeal against a six-month prison sentence for assault. 
 
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8488969.stm)
 2. [France 24](http://www.france24.com/en/20100130-court-rejects-taoufik-ben-brik-appeal-jail-press-freedom)
@@ -13,8 +17,8 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ### Related:
 
-1. [Turkey arrests six people, including the director of Amnesty International, for allegedly "helping an armed terrorist organisation". ](/news/2017/07/18/turkey-arrests-six-people-including-the-director-of-amnesty-international-for-allegedly-helping-an-armed-terrorist-organisation.md) _Context: Amnesty International_
-2. [Jordan says the country executed 15 people today, including 10 who were convicted on terrorism charges with others related to incidents that go back as far as 2003. Amnesty International protests the executions which were carried out in "secrecy and without transparency." Jordan restored the death sentence by hanging in 2014. ](/news/2017/03/4/jordan-says-the-country-executed-15-people-today-including-10-who-were-convicted-on-terrorism-charges-with-others-related-to-incidents-that.md) _Context: Amnesty International_
-3. [A report by Amnesty International states that between 5,000 and 13,000 people, most of them civilians, were hanged at the military-run Sednaya Prison near Damascus between September 2011 and December 2015. ](/news/2017/02/7/a-report-by-amnesty-international-states-that-between-5-000-and-13-000-people-most-of-them-civilians-were-hanged-at-the-military-run-sedna.md) _Context: Amnesty International_
-4. [Amnesty International releases a report criticizing the rise of populist leaders such as Donald Trump of the United States, Viktor Orban of Hungary, Rodrigo Duterte of the Philippines and Recep Tayyip Erdogan of Turkey. ](/news/2017/02/22/amnesty-international-releases-a-report-criticizing-the-rise-of-populist-leaders-such-as-donald-trump-of-the-united-states-viktor-orba-n-of.md) _Context: Amnesty International_
-5. [ Amnesty International criticizes a Saudi court decision to impose the death sentence on 15 people in a case involving 32 people including 30 Saudis, one Iranian and one Afghan national in an alleged Iranian spy cell. ](/news/2016/12/6/amnesty-international-criticizes-a-saudi-court-decision-to-impose-the-death-sentence-on-15-people-in-a-case-involving-32-people-including-3.md) _Context: Amnesty International_
+1. [Amid protests against rising prices and tax increases, a protestor is killed and five others are injured in clashes with security forces in the Tunisian town of Tebourba. ](/news/2018/01/8/amid-protests-against-rising-prices-and-tax-increases-a-protestor-is-killed-and-five-others-are-injured-in-clashes-with-security-forces-in.md) _Context: Tunisia_
+2. [The Tunisian government announces a wave of social and economic reforms after violent anti-austerity protests that have resulted in at least one death and the arrest of more than eight hundred people. ](/news/2018/01/14/the-tunisian-government-announces-a-wave-of-social-and-economic-reforms-after-violent-anti-austerity-protests-that-have-resulted-in-at-least.md) _Context: Tunisia_
+3. [More than two hundred people are arrested across Tunisia as protests against economic conditions continue to grip the North African country. At least 49 police officers have been injured during clashes with protesters. ](/news/2018/01/10/more-than-two-hundred-people-are-arrested-across-tunisia-as-protests-against-economic-conditions-continue-to-grip-the-north-african-country.md) _Context: Tunisia_
+4. [Tunisia's Transport Ministry suspends Emirates Airlines flights to Tunis. ](/news/2017/12/24/tunisia-s-transport-ministry-suspends-emirates-airlines-flights-to-tunis.md) _Context: Tunisia_
+5. [Sting, Peter Gabriel, Edward Snowden and Ai Weiwei call for president of Amnesty International Turkey Taner Kilic to be released from prison. ](/news/2017/11/24/sting-peter-gabriel-edward-snowden-and-ai-weiwei-call-for-president-of-amnesty-international-turkey-taner-ka-la-ass-to-be-released-from-pri.md) _Context: Amnesty International_

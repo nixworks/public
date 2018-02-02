@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2013/11/5/rival-militias-battle-each-other-in-firefights-on-the-streets-of-tripoli-no-deaths-are-reported-despite-the-use-of-rocket-propelled-grenade.html)  [JSON](/news/2013/11/5/rival-militias-battle-each-other-in-firefights-on-the-streets-of-tripoli-no-deaths-are-reported-despite-the-use-of-rocket-propelled-grenade.json)  [XML](/news/2013/11/5/rival-militias-battle-each-other-in-firefights-on-the-streets-of-tripoli-no-deaths-are-reported-despite-the-use-of-rocket-propelled-grenade.xml)  
+
 ### [2013-11-5](/news/2013/11/5/index.md)
 
+##### Tripoli
 # Rival militias battle each other in firefights on the streets of Tripoli. No deaths are reported despite the use of rocket-propelled grenades and anti-aircraft artillery by the combatants. 
 
 Libyan militia fighters on the government payroll fought each other with rifles, grenades and anti-aircraft weapons on the streets of Tripoli on Tuesday in the worst clashes in the capital in weeks.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/11/05/us-libya-security-idUSBRE9A40S920131105)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2013/11/05/us-libya-security-idUSBRE9A40S920131105)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [Post-civil war violence in Libya:Rival militias battle each other in firefights on the streets of Tripoli. No deaths are reported despite the use of rocket-propelled grenades and anti-aircraft artillery by the combatants. ](/news/2013/11/5/post-civil-war-violence-in-libya-prival-militias-battle-each-other-in-firefights-on-the-streets-of-tripoli-no-deaths-are-reported-despite-t.md) _2017-08-25 03:39:29 (First version)_
+2. [Post-civil war violence in Libya:: Rival militias battle each other in firefights on the streets of Tripoli. No deaths are reported despite the use of rocket-propelled grenades and anti-aircraft artillery by the combatants. ](/news/2013/11/5/post-civil-war-violence-in-libya-rival-militias-battle-each-other-in-firefights-on-the-streets-of-tripoli-no-deaths-are-reported-despite.md) _2017-08-27 03:39:47 (Update)_
+2. [Rival militias battle each other in firefights on the streets of Tripoli. No deaths are reported despite the use of rocket-propelled grenades and anti-aircraft artillery by the combatants. ](/news/2013/11/5/rival-militias-battle-each-other-in-firefights-on-the-streets-of-tripoli-no-deaths-are-reported-despite-the-use-of-rocket-propelled-grenade.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@ Libyan militia fighters on the government payroll fought each other with rifles,
 3. [A motorcade carrying prime minister Fayez al-Sarraj of the internationally recognized Government of National Accord, is attacked by unidentified gunmen in Tripoli. There were no injuries reported. ](/news/2017/02/20/a-motorcade-carrying-prime-minister-fayez-al-sarraj-of-the-internationally-recognized-government-of-national-accord-is-attacked-by-unidenti.md) _Context: Tripoli_
 4. [ At least eight are killed in clashes in Tripoli, Libya. ](/news/2016/12/2/at-least-eight-are-killed-in-clashes-in-tripoli-libya.md) _Context: Tripoli_
 5. [A Medecins Sans Frontieres (Doctors Without Borders) ship rescues 209 people, including 50 children, from two dinghies in distress in the Mediterranean Sea but finds 22 dead bodies, 21 women and a child, lying in a pool of fuel in the bottom of one of the boats. The dinghies were 17 miles east of Tripoli, Libya. Cause of death is unknown, though an MSF official says it could be that fumes from mixed fuel and water rendered the people unconscious. The MSF ship is expected to arrive in the Sicilian port of Trapani on Friday.](/news/2016/07/20/a-ma-c-decins-sans-frontia-res-doctors-without-borders-ship-rescues-209-people-including-50-children-from-two-dinghies-in-distress-in-the.md) _Context: Tripoli_
-
-### Changes:
-
-1. [Post-civil war violence in Libya:Rival militias battle each other in firefights on the streets of Tripoli. No deaths are reported despite the use of rocket-propelled grenades and anti-aircraft artillery by the combatants. ](/news/2013/11/5/post-civil-war-violence-in-libya-prival-militias-battle-each-other-in-firefights-on-the-streets-of-tripoli-no-deaths-are-reported-despite-t.md) _2017-08-25 03:39:29 (First version)_
-2. [Post-civil war violence in Libya:: Rival militias battle each other in firefights on the streets of Tripoli. No deaths are reported despite the use of rocket-propelled grenades and anti-aircraft artillery by the combatants. ](/news/2013/11/5/post-civil-war-violence-in-libya-rival-militias-battle-each-other-in-firefights-on-the-streets-of-tripoli-no-deaths-are-reported-despite.md) _2017-08-27 03:39:47 (Update)_
-2. [Rival militias battle each other in firefights on the streets of Tripoli. No deaths are reported despite the use of rocket-propelled grenades and anti-aircraft artillery by the combatants. ](/news/2013/11/5/rival-militias-battle-each-other-in-firefights-on-the-streets-of-tripoli-no-deaths-are-reported-despite-the-use-of-rocket-propelled-grenade.md) _(Current version)_

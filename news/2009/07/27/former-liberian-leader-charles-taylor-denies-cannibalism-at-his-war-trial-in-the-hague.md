@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/27/former-liberian-leader-charles-taylor-denies-cannibalism-at-his-war-trial-in-the-hague.html)  [JSON](/news/2009/07/27/former-liberian-leader-charles-taylor-denies-cannibalism-at-his-war-trial-in-the-hague.json)  [XML](/news/2009/07/27/former-liberian-leader-charles-taylor-denies-cannibalism-at-his-war-trial-in-the-hague.xml)  
+
 ### [2009-07-27](/news/2009/07/27/index.md)
 
+##### Liberia
 #  Former Liberian leader Charles Taylor denies cannibalism at his war trial in The Hague. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8171295.stm)
 2. [The Times](http://www.timesonline.co.uk/tol/news/world/africa/article6729628.ece)

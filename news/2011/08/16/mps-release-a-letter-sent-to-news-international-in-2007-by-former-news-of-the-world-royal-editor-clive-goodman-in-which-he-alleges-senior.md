@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2011/08/16/mps-release-a-letter-sent-to-news-international-in-2007-by-former-news-of-the-world-royal-editor-clive-goodman-in-which-he-alleges-senior.html)  [JSON](/news/2011/08/16/mps-release-a-letter-sent-to-news-international-in-2007-by-former-news-of-the-world-royal-editor-clive-goodman-in-which-he-alleges-senior.json)  [XML](/news/2011/08/16/mps-release-a-letter-sent-to-news-international-in-2007-by-former-news-of-the-world-royal-editor-clive-goodman-in-which-he-alleges-senior.xml)  
+
 ### [2011-08-16](/news/2011/08/16/index.md)
 
+##### News International
 # MPs release a letter sent to News International in 2007 by former "News of the World" Royal editor Clive Goodman, in which he alleges senior staff at the newspaper were aware of phone hacking activities. 
 
 MPs release a letter from a journalist jailed for phone hacking, alleging senior News of the World figures struck a deal to stop him implicating the paper at trial.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14541848)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/54632000/jpg/_54632895_011072711-1.jpg)
+
+### Changes:
+
+1. [''News of the World'' phone hacking scandal:MPs release a letter sent to News International in 2007 by former ''News of the World'' Royal editor Clive Goodman, in which he alleges senior staff at the newspaper were aware of phone hacking activities. ](/news/2011/08/16/news-of-the-world-phone-hacking-scandal-pmps-release-a-letter-sent-to-news-international-in-2007-by-former-news-of-the-world-royal-e.md) _2017-08-25 03:34:01 (First version)_
+2. ["News of the World" phone hacking scandal:: MPs release a letter sent to News International in 2007 by former "News of the World" Royal editor Clive Goodman, in which he alleges senior staff at the newspaper were aware of phone hacking activities. ](/news/2011/08/16/news-of-the-world-phone-hacking-scandal-mps-release-a-letter-sent-to-news-international-in-2007-by-former-news-of-the-world-royal-edit.md) _2017-08-27 03:34:08 (Update)_
+2. [MPs release a letter sent to News International in 2007 by former "News of the World" Royal editor Clive Goodman, in which he alleges senior staff at the newspaper were aware of phone hacking activities. ](/news/2011/08/16/mps-release-a-letter-sent-to-news-international-in-2007-by-former-news-of-the-world-royal-editor-clive-goodman-in-which-he-alleges-senior.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@ MPs release a letter from a journalist jailed for phone hacking, alleging senior
 3. [News International shuts down the British newspaper the "News of the World", as a result of a phone hacking affair, with the final edition coming out Sunday. ](/news/2011/07/7/news-international-shuts-down-the-british-newspaper-the-news-of-the-world-as-a-result-of-a-phone-hacking-affair-with-the-final-edition-c.md) _Context: News International, News of the World_
 4. [The final edition of the "News of the World" is published in the United Kingdom. ](/news/2011/07/10/the-final-edition-of-the-news-of-the-world-is-published-in-the-united-kingdom.md) _Context: News International, News of the World_
 5. [A prosecutor alleges in a London court that the Duke and Duchess of Cambridge's phones were hacked by the now-defunct "News of the World". ](/news/2013/12/19/a-prosecutor-alleges-in-a-london-court-that-the-duke-and-duchess-of-cambridge-s-phones-were-hacked-by-the-now-defunct-news-of-the-world.md) _Context: News of the World_
-
-### Changes:
-
-1. [''News of the World'' phone hacking scandal:MPs release a letter sent to News International in 2007 by former ''News of the World'' Royal editor Clive Goodman, in which he alleges senior staff at the newspaper were aware of phone hacking activities. ](/news/2011/08/16/news-of-the-world-phone-hacking-scandal-pmps-release-a-letter-sent-to-news-international-in-2007-by-former-news-of-the-world-royal-e.md) _2017-08-25 03:34:01 (First version)_
-2. ["News of the World" phone hacking scandal:: MPs release a letter sent to News International in 2007 by former "News of the World" Royal editor Clive Goodman, in which he alleges senior staff at the newspaper were aware of phone hacking activities. ](/news/2011/08/16/news-of-the-world-phone-hacking-scandal-mps-release-a-letter-sent-to-news-international-in-2007-by-former-news-of-the-world-royal-edit.md) _2017-08-27 03:34:08 (Update)_
-2. [MPs release a letter sent to News International in 2007 by former "News of the World" Royal editor Clive Goodman, in which he alleges senior staff at the newspaper were aware of phone hacking activities. ](/news/2011/08/16/mps-release-a-letter-sent-to-news-international-in-2007-by-former-news-of-the-world-royal-editor-clive-goodman-in-which-he-alleges-senior.md) _(Current version)_

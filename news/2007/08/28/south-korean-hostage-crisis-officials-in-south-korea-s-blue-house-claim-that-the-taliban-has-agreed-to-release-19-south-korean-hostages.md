@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/28/south-korean-hostage-crisis-officials-in-south-korea-s-blue-house-claim-that-the-taliban-has-agreed-to-release-19-south-korean-hostages.html)  [JSON](/news/2007/08/28/south-korean-hostage-crisis-officials-in-south-korea-s-blue-house-claim-that-the-taliban-has-agreed-to-release-19-south-korean-hostages.json)  [XML](/news/2007/08/28/south-korean-hostage-crisis-officials-in-south-korea-s-blue-house-claim-that-the-taliban-has-agreed-to-release-19-south-korean-hostages.xml)  
+
 ### [2007-08-28](/news/2007/08/28/index.md)
 
+##### 2007 South Korean hostage crisis in Afghanistan
 #  South Korean hostage crisis: Officials in South Korea's Blue House claim that the Taliban has agreed to release 19 South Korean hostages. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2007-08-28T133754Z_01_ISL212820_RTRUKOC_0_US-AFGHAN-HOSTAGES.xml&src=nl_ustopnewsearly)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

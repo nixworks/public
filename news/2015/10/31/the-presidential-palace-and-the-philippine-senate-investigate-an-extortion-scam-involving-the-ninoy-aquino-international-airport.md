@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/31/the-presidential-palace-and-the-philippine-senate-investigate-an-extortion-scam-involving-the-ninoy-aquino-international-airport.html)  [JSON](/news/2015/10/31/the-presidential-palace-and-the-philippine-senate-investigate-an-extortion-scam-involving-the-ninoy-aquino-international-airport.json)  [XML](/news/2015/10/31/the-presidential-palace-and-the-philippine-senate-investigate-an-extortion-scam-involving-the-ninoy-aquino-international-airport.xml)  
+
 ### [2015-10-31](/news/2015/10/31/index.md)
 
+##### Presidential Palace
 # The Presidential Palace and the Philippine Senate investigate an extortion scam involving the Ninoy Aquino International Airport. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-34671118)
 2. [Manila Bulletin](http://www.mb.com.ph/uproar-over-naia-bullet-mess-widens/)

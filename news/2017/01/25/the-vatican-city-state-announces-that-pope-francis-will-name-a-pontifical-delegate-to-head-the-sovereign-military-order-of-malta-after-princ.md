@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/25/the-vatican-city-state-announces-that-pope-fran
 
 ### [2017-01-25](/news/2017/01/25/index.md)
 
+##### Vatican City State
 # The Vatican City State announces that Pope Francis will name a Pontifical Delegate to head the Sovereign Military Order of Malta after Prince and Grand Master Matthew Festing's unexpected forced resignation in a spat over condoms. 
 
  Pope Francis will name his own man to run the Knights of Malta temporarily after the head of the ancient chivalric and charity institution resigned in the clim

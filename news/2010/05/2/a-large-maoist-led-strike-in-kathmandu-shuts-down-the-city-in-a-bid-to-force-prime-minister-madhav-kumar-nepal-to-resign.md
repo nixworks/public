@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/2/a-large-maoist-led-strike-in-kathmandu-shuts-down-the-city-in-a-bid-to-force-prime-minister-madhav-kumar-nepal-to-resign.html)  [JSON](/news/2010/05/2/a-large-maoist-led-strike-in-kathmandu-shuts-down-the-city-in-a-bid-to-force-prime-minister-madhav-kumar-nepal-to-resign.json)  [XML](/news/2010/05/2/a-large-maoist-led-strike-in-kathmandu-shuts-down-the-city-in-a-bid-to-force-prime-minister-madhav-kumar-nepal-to-resign.xml)  
+
 ### [2010-05-2](/news/2010/05/2/index.md)
 
+##### Maoist
 # A large Maoist-led strike in Kathmandu shuts down the city in a bid to force Prime Minister Madhav Kumar Nepal to resign. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2010/may/02/maoist-general-strike-nepal)
 

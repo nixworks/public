@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/18/as-many-as-fifty-thousand-people-gather-in-mani
 
 ### [2017-02-18](/news/2017/02/18/index.md)
 
+##### gather
 # As many as fifty thousand people gather in Manila for a march organized by the Philippine Catholic Church to protest the Philippine Drug War. 
 
 

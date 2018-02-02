@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/27/california-moves-its-2020-presidential-primary-
 
 ### [2017-09-27](/news/2017/09/27/index.md)
 
+##### United States presidential primary
 #  California moves its 2020 presidential primary to March 3, making it fifth in the nominating process after Iowa, New Hampshire, Nevada, and South Carolina. The 2016 primary was held on June 7. 
 
 California will move its presidential primary from June to March under a bill signed on Wednesday by Democratic Governor Jerry Brown, a change aimed at giving the liberal-leaning state more influence in choosing candidates from either national party.

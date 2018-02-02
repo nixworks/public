@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/28/henry-tang-resigns-as-the-chief-secretary-for-administration-in-hong-kong-with-the-expectation-that-he-will-run-for-chief-executive-of-hong.html)  [JSON](/news/2011/09/28/henry-tang-resigns-as-the-chief-secretary-for-administration-in-hong-kong-with-the-expectation-that-he-will-run-for-chief-executive-of-hong.json)  [XML](/news/2011/09/28/henry-tang-resigns-as-the-chief-secretary-for-administration-in-hong-kong-with-the-expectation-that-he-will-run-for-chief-executive-of-hong.xml)  
+
 ### [2011-09-28](/news/2011/09/28/index.md)
 
+##### Henry Tang
 # Henry Tang resigns as the Chief Secretary for Administration in Hong Kong with the expectation that he will run for Chief Executive of Hong Kong in next year's election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg via ''Business Week](http://www.businessweek.com/news/2011-09-28/china-s-hong-kong-succession-plan-takes-shape-as-tang-steps-down.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/04/9/voters-in-the-breakaway-state-of-south-ossetia-go-to-the-polls-for-an-election-and-a-referendum-the-referendum-will-ask-voters-if-the-count.html)  [JSON](/news/2017/04/9/voters-in-the-breakaway-state-of-south-ossetia-go-to-the-polls-for-an-election-and-a-referendum-the-referendum-will-ask-voters-if-the-count.json)  [XML](/news/2017/04/9/voters-in-the-breakaway-state-of-south-ossetia-go-to-the-polls-for-an-election-and-a-referendum-the-referendum-will-ask-voters-if-the-count.xml)  
+
 ### [2017-04-9](/news/2017/04/9/index.md)
 
+##### South Ossetian presidential election
 # Voters in the breakaway state of South Ossetia go to the polls for an election and a referendum. The referendum will ask voters if the country's official name should be changed to "Republic of South Ossetia-the State of Alania". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](https://www.rferl.org/a/caucasus-report-south-ossetia-presidential-vote/28418230.html)
 

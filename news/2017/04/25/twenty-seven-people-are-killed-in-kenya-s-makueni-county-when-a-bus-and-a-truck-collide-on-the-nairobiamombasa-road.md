@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/25/twenty-seven-people-are-killed-in-kenya-s-makue
 
 ### [2017-04-25](/news/2017/04/25/index.md)
 
+##### Makueni County
 # Twenty-seven people are killed in Kenya's Makueni County when a bus and a truck collide on the Nairobi-Mombasa Road. 
 
 27 people have been confirmed dead following head on collision between Malindi bound bus and a truck at Kambu along Mombasa-Nairobi highway.

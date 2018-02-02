@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/9/lloyds-banking-group-announce-the-closure-of-all-cheltenham-gloucester-branches-in-the-uk-and-the-loss-of-about-1-660-jobs.html)  [JSON](/news/2009/06/9/lloyds-banking-group-announce-the-closure-of-all-cheltenham-gloucester-branches-in-the-uk-and-the-loss-of-about-1-660-jobs.json)  [XML](/news/2009/06/9/lloyds-banking-group-announce-the-closure-of-all-cheltenham-gloucester-branches-in-the-uk-and-the-loss-of-about-1-660-jobs.xml)  
+
 ### [2009-06-9](/news/2009/06/9/index.md)
 
+##### Lloyds Banking Group
 #  Lloyds Banking Group announce the closure of all Cheltenham & Gloucester branches in the UK and the loss of about 1,660 jobs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/business/8090683.stm)
 

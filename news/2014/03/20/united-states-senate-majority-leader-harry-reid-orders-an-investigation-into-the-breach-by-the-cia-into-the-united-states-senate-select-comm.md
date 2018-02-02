@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/03/20/united-states-senate-majority-leader-harry-reid-orders-an-investigation-into-the-breach-by-the-cia-into-the-united-states-senate-select-comm.html)  [JSON](/news/2014/03/20/united-states-senate-majority-leader-harry-reid-orders-an-investigation-into-the-breach-by-the-cia-into-the-united-states-senate-select-comm.json)  [XML](/news/2014/03/20/united-states-senate-majority-leader-harry-reid-orders-an-investigation-into-the-breach-by-the-cia-into-the-united-states-senate-select-comm.xml)  
+
 ### [2014-03-20](/news/2014/03/20/index.md)
 
+##### United States Senate Majority Leader
 # United States Senate Majority Leader Harry Reid orders an investigation into the breach by the CIA into the United States Senate Select Committee on Intelligence's computer systems. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/03/20/usa-cia-interrogations-idUSL2N0MH0PU20140320)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2014/03/20/usa-cia-interrogations-idUSL2N0MH0PU20140320)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

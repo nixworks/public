@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/12/china-s-retail-sales-have-increased-15-2-in-2009.html)  [JSON](/news/2009/03/12/china-s-retail-sales-have-increased-15-2-in-2009.json)  [XML](/news/2009/03/12/china-s-retail-sales-have-increased-15-2-in-2009.xml)  
+
 ### [2009-03-12](/news/2009/03/12/index.md)
 
+##### China
 #  China's retail sales have increased 15.2% in 2009. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua News](http://news.xinhuanet.com/english/2009-03/12/content_10997228.htm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/2/philippines-foreign-secretary-albert-del-rosario
 
 ### [2016-03-2](/news/2016/03/2/index.md)
 
+##### South China Sea disputes
 # Philippines Foreign Secretary Albert del Rosario says Chinese coast guard ships that were sighted two weeks ago near the disputed Jackson Atoll in the northeast Dangerous Ground are no longer there today. Chinese Foreign Ministry spokesperson Hong Lei said ships were dispatched to the area in late 2015 to salvage a fishing vessel that posed a risk to navigation. Chinese ships, "... persuaded fishing boats to leave the waters in an effort to ensure safety conditions for normal navigation," Hong said. In addition to China and the Philippines, Vietnam, Malaysia, Taiwan, and Brunei also lay claim to the Spratly Islands waters. 
 
 

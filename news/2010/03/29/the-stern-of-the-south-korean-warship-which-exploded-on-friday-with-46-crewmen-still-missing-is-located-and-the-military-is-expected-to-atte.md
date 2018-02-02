@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/29/the-stern-of-the-south-korean-warship-which-exploded-on-friday-with-46-crewmen-still-missing-is-located-and-the-military-is-expected-to-atte.html)  [JSON](/news/2010/03/29/the-stern-of-the-south-korean-warship-which-exploded-on-friday-with-46-crewmen-still-missing-is-located-and-the-military-is-expected-to-atte.json)  [XML](/news/2010/03/29/the-stern-of-the-south-korean-warship-which-exploded-on-friday-with-46-crewmen-still-missing-is-located-and-the-military-is-expected-to-atte.xml)  
+
 ### [2010-03-29](/news/2010/03/29/index.md)
 
+##### stern
 # The stern of the South Korean warship which exploded on Friday with 46 crewmen still missing is located and the military is expected to attempt a dive. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/stern-of-sunken-s-korean-warship-located-20100329-r6mc.html)
 2. [Yonhap](http://english.yonhapnews.co.kr/national/2010/03/29/31/0301000000AEN20100329008700315F.HTML)

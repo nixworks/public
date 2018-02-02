@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/9/officials-announce-the-opening-of-pottermore-this-coming-april.html)  [JSON](/news/2012/03/9/officials-announce-the-opening-of-pottermore-this-coming-april.json)  [XML](/news/2012/03/9/officials-announce-the-opening-of-pottermore-this-coming-april.xml)  
+
 ### [2012-03-9](/news/2012/03/9/index.md)
 
+##### Pottermore
 # Officials announce the opening of Pottermore this coming April. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/childrens-books-site/2012/mar/09/pottermore-harry-potter-jk-rowling)
 

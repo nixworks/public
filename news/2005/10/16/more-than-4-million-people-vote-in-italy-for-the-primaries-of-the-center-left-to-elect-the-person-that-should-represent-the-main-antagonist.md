@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/10/16/more-than-4-million-people-vote-in-italy-for-the-primaries-of-the-center-left-to-elect-the-person-that-should-represent-the-main-antagonist.html)  [JSON](/news/2005/10/16/more-than-4-million-people-vote-in-italy-for-the-primaries-of-the-center-left-to-elect-the-person-that-should-represent-the-main-antagonist.json)  [XML](/news/2005/10/16/more-than-4-million-people-vote-in-italy-for-the-primaries-of-the-center-left-to-elect-the-person-that-should-represent-the-main-antagonist.xml)  
+
 ### [2005-10-16](/news/2005/10/16/index.md)
 
+##### Italy
 #  More than 4 million people vote in Italy for the primaries of the center left to elect the person that should represent the main antagonist to the current Prime Minister Silvio Berlusconi. (La Repubblica)
 
 

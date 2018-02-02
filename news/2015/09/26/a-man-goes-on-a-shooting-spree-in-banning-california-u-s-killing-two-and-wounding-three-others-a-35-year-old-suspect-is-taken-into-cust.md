@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/09/26/a-man-goes-on-a-shooting-spree-in-banning-california-u-s-killing-two-and-wounding-three-others-a-35-year-old-suspect-is-taken-into-cust.html)  [JSON](/news/2015/09/26/a-man-goes-on-a-shooting-spree-in-banning-california-u-s-killing-two-and-wounding-three-others-a-35-year-old-suspect-is-taken-into-cust.json)  [XML](/news/2015/09/26/a-man-goes-on-a-shooting-spree-in-banning-california-u-s-killing-two-and-wounding-three-others-a-35-year-old-suspect-is-taken-into-cust.xml)  
+
 ### [2015-09-26](/news/2015/09/26/index.md)
 
+##### shooting spree
 # A man goes on a shooting spree in Banning, California, U.S., killing two and wounding three others. A 35-year-old suspect is taken into custody. The shooting is suspected by authorities to be random. 
 
 James Paul Diaz, 34, is suspected of shooting at a series of people and vehicles starting shortly before noon on Saturday, Banning police said in a news release. Ten minutes later, a man was assaulted with fists and an unknown blunt instrument as he sat inside his parked vehicle, police said. A few
 
 
-### Source:
+### Sources:
 
-1. [Reuters via Yahoo News](http://news.yahoo.com/police-seek-motive-deadly-shooting-rampage-california-180531351.html)
+1. [Reuters via Yahoo News](https://news.yahoo.com/police-seek-motive-deadly-shooting-rampage-california-180531351.html)
 1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:

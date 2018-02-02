@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/4/first-minister-of-northern-ireland-ian-paisley-announces-his-intentions-to-stand-down-from-the-post-in-may-2008-and-at-the-same-time-resi.html)  [JSON](/news/2008/03/4/first-minister-of-northern-ireland-ian-paisley-announces-his-intentions-to-stand-down-from-the-post-in-may-2008-and-at-the-same-time-resi.json)  [XML](/news/2008/03/4/first-minister-of-northern-ireland-ian-paisley-announces-his-intentions-to-stand-down-from-the-post-in-may-2008-and-at-the-same-time-resi.xml)  
+
 ### [2008-03-4](/news/2008/03/4/index.md)
 
+##### First Minister
 #  First Minister of Northern Ireland Ian Paisley announces his intentions to stand down from the post in May 2008 and, at the same time, resign as leader of the DUP, a party he has led for almost 40 years. 
 
 Ian Paisley has announced that he is to resign as Northern Ireland First Minister and leader of the Democratic Unionist Party in May.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2008/0304/paisleyi.html)
 1. [Cover Image](https://img.rasset.ie/000152fc-1600.jpg)

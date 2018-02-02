@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/3/writer-iain-banks-announces-he-is-terminally-ill-with-gallbladder-cancer-at-the-age-of-59-and-has-months-to-live-the-publication-of-his-fin.html)  [JSON](/news/2013/04/3/writer-iain-banks-announces-he-is-terminally-ill-with-gallbladder-cancer-at-the-age-of-59-and-has-months-to-live-the-publication-of-his-fin.json)  [XML](/news/2013/04/3/writer-iain-banks-announces-he-is-terminally-ill-with-gallbladder-cancer-at-the-age-of-59-and-has-months-to-live-the-publication-of-his-fin.xml)  
+
 ### [2013-04-3](/news/2013/04/3/index.md)
 
+##### Iain Banks
 # Writer Iain Banks announces he is terminally ill with gallbladder cancer at the age of 59 and has months to live. The publication of his final novel is to be brought forward by several months in the hope of allowing him to see it in print. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Times of India](http://timesofindia.indiatimes.com/world/uk/Scottish-writer-Iain-Banks-has-terminal-cancer/articleshow/19366713.cms)
 2. [The Guardian](http://www.guardian.co.uk/books/2013/apr/03/iain-banks-gall-bladder-cancer)

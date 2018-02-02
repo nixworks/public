@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/22/nigeria-accuses-the-international-community-of-taking-action-in-libya-while-doing-little-to-resolve-the-crisis-in-ca-te-d-ivoire.html)  [JSON](/news/2011/03/22/nigeria-accuses-the-international-community-of-taking-action-in-libya-while-doing-little-to-resolve-the-crisis-in-ca-te-d-ivoire.json)  [XML](/news/2011/03/22/nigeria-accuses-the-international-community-of-taking-action-in-libya-while-doing-little-to-resolve-the-crisis-in-ca-te-d-ivoire.xml)  
+
 ### [2011-03-22](/news/2011/03/22/index.md)
 
+##### Nigeria
 # Nigeria accuses the international community of taking action in Libya while doing little to resolve the crisis in Cote d'Ivoire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE72L0J320110322?sp=true)
 

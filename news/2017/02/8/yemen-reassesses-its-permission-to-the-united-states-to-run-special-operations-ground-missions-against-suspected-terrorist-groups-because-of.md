@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/8/yemen-reassesses-its-permission-to-the-united-st
 
 ### [2017-02-8](/news/2017/02/8/index.md)
 
+##### Yemeni War
 # Yemen reassesses its permission to the United States to run special operations ground missions against suspected terrorist groups because of the civilian deaths in the January 29 raid. Earlier reports indicated permission had been suspended. [https:--www.nytimes.com-2017-02-07-world-middleeast-yemen-special-operations-missions.html?_r=0 ("The New York Times")] [https:--www.nytimes.com-2017-02-08-world-middleeast-yemen-raid-american-military.html ("The New York Times")2]
 
 

@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2013/04/8/afghanistan-president-hamid-karzai-denounces-the-reported-death-of-eleven-children-at-the-hands-of-nato-forces-in-kunar-province-and-orders.html)  [JSON](/news/2013/04/8/afghanistan-president-hamid-karzai-denounces-the-reported-death-of-eleven-children-at-the-hands-of-nato-forces-in-kunar-province-and-orders.json)  [XML](/news/2013/04/8/afghanistan-president-hamid-karzai-denounces-the-reported-death-of-eleven-children-at-the-hands-of-nato-forces-in-kunar-province-and-orders.xml)  
+
 ### [2013-04-8](/news/2013/04/8/index.md)
 
+##### Afghanistan
 # Afghanistan President Hamid Karzai denounces the reported death of eleven children at the hands of NATO forces in Kunar Province and orders a government inquiry into the killings. 
 
 President Hamid Karzai denounces reported death of 11 children by NATO forces in Kunar province and orders inquiry.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/04/20134712422926374.html)
 2. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/04/20134855848509383.html)
 2. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/4/7/201347182241502734_20.jpg)
+
+### Changes:
+
+1. [War in Afghanistan (2001-present):Afghanistan President Hamid Karzai denounces the reported death of eleven children at the hands of NATO forces in Kunar Province and orders a government inquiry into the killings. ](/news/2013/04/8/war-in-afghanistan-2001apresent-pafghanistan-president-hamid-karzai-denounces-the-reported-death-of-eleven-children-at-the-hands-of-nato.md) _2017-08-25 03:38:14 (First version)_
+2. [War in Afghanistan (2001-present):: Afghanistan President Hamid Karzai denounces the reported death of eleven children at the hands of NATO forces in Kunar Province and orders a government inquiry into the killings. ](/news/2013/04/8/war-in-afghanistan-2001-present-afghanistan-president-hamid-karzai-denounces-the-reported-death-of-eleven-children-at-the-hands-of-nat.md) _2017-08-27 03:38:26 (Update)_
+2. [Afghanistan President Hamid Karzai denounces the reported death of eleven children at the hands of NATO forces in Kunar Province and orders a government inquiry into the killings. ](/news/2013/04/8/afghanistan-president-hamid-karzai-denounces-the-reported-death-of-eleven-children-at-the-hands-of-nato-forces-in-kunar-province-and-orders.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ President Hamid Karzai denounces reported death of 11 children by NATO forces in
 3. [Attorney general Mohammad Ishaq Aloko is fired by Afghan President Hamid Karzai, over an unsanctioned meeting with Taliban peace negotiators in the United Arab Emirates. ](/news/2013/08/19/attorney-general-mohammad-ishaq-aloko-is-fired-by-afghan-president-hamid-karzai-over-an-unsanctioned-meeting-with-taliban-peace-negotiators.md) _Context: Afghanistan, Afghanistan President, Hamid Karzai_
 4. [An airstrike conducted by NATO kills at least 12 people in the Afghan province of Kunar. ](/news/2013/04/7/an-airstrike-conducted-by-nato-kills-at-least-12-people-in-the-afghan-province-of-kunar.md) _Context: Afghanistan, Kunar Province, NATO_
 5. [President of Afghanistan Hamid Karzai meets with Sheikh Hamad bin Khalifa Al Thani, the Emir of Qatar, to discuss plans for the Taliban to open an office in Doha in order to help solve the conflict in Afghanistan. ](/news/2013/03/31/president-of-afghanistan-hamid-karzai-meets-with-sheikh-hamad-bin-khalifa-al-thani-the-emir-of-qatar-to-discuss-plans-for-the-taliban-to-o.md) _Context: Afghanistan, Afghanistan President, Hamid Karzai_
-
-### Changes:
-
-1. [War in Afghanistan (2001-present):Afghanistan President Hamid Karzai denounces the reported death of eleven children at the hands of NATO forces in Kunar Province and orders a government inquiry into the killings. ](/news/2013/04/8/war-in-afghanistan-2001apresent-pafghanistan-president-hamid-karzai-denounces-the-reported-death-of-eleven-children-at-the-hands-of-nato.md) _2017-08-25 03:38:14 (First version)_
-2. [War in Afghanistan (2001-present):: Afghanistan President Hamid Karzai denounces the reported death of eleven children at the hands of NATO forces in Kunar Province and orders a government inquiry into the killings. ](/news/2013/04/8/war-in-afghanistan-2001-present-afghanistan-president-hamid-karzai-denounces-the-reported-death-of-eleven-children-at-the-hands-of-nat.md) _2017-08-27 03:38:26 (Update)_
-2. [Afghanistan President Hamid Karzai denounces the reported death of eleven children at the hands of NATO forces in Kunar Province and orders a government inquiry into the killings. ](/news/2013/04/8/afghanistan-president-hamid-karzai-denounces-the-reported-death-of-eleven-children-at-the-hands-of-nato-forces-in-kunar-province-and-orders.md) _(Current version)_

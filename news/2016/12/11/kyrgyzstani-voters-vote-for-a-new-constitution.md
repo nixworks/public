@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/11/kyrgyzstani-voters-vote-for-a-new-constitution.
 
 ### [2016-12-11](/news/2016/12/11/index.md)
 
+##### Kyrgyzstani constitutional referendum, 2016
 # Kyrgyzstani voters vote for a new constitution. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

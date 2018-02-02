@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2010/05/11/u-s-missiles-kill-24-suspected-insurgents-in-north-waziristan-pakistan-in-the-latest-two-of-three-strikes-since-an-attempted-car-bombing.html)  [JSON](/news/2010/05/11/u-s-missiles-kill-24-suspected-insurgents-in-north-waziristan-pakistan-in-the-latest-two-of-three-strikes-since-an-attempted-car-bombing.json)  [XML](/news/2010/05/11/u-s-missiles-kill-24-suspected-insurgents-in-north-waziristan-pakistan-in-the-latest-two-of-three-strikes-since-an-attempted-car-bombing.xml)  
+
 ### [2010-05-11](/news/2010/05/11/index.md)
 
-# U.S. missiles kill 24 suspected insurgents in North Waziristan, Pakistan, in the latest two of three strikes since an attempted car bombing in New York linked to the Taliban. The identities of most of those killed are not known. [http:--www.chicagotribune.com-news-nationworld-la-fgw-pakistan-missiles-20100511,0,278402.story ("Chicago Tribune")] [http:--www.usatoday.com-news-world-2010-05-11-pakistan-strikes_N.htm ("USA Today") ]
+##### North Waziristan
+# U.S. missiles kill 24 suspected insurgents in North Waziristan, Pakistan, in the latest two of three strikes since an attempted car bombing in New York linked to the Taliban. The identities of most of those killed are not known. [http:--www.chicagotribune.com-news-nationworld-la-fgw-pakistan-missiles-20100511,0,278402.story ("Chicago Tribune")] [https:--www.usatoday.com-news-world-2010-05-11-pakistan-strikes_N.htm ("USA Today") ]
 
 
 

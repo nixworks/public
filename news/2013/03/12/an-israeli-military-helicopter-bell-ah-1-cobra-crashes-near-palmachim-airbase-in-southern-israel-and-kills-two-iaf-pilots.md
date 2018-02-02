@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/03/12/an-israeli-military-helicopter-bell-ah-1-cobra-crashes-near-palmachim-airbase-in-southern-israel-and-kills-two-iaf-pilots.html)  [JSON](/news/2013/03/12/an-israeli-military-helicopter-bell-ah-1-cobra-crashes-near-palmachim-airbase-in-southern-israel-and-kills-two-iaf-pilots.json)  [XML](/news/2013/03/12/an-israeli-military-helicopter-bell-ah-1-cobra-crashes-near-palmachim-airbase-in-southern-israel-and-kills-two-iaf-pilots.xml)  
+
 ### [2013-03-12](/news/2013/03/12/index.md)
 
+##### Bell AH-1 Cobra
 # An Israeli military helicopter Bell AH-1 Cobra crashes near Palmachim Airbase in southern Israel and kills two IAF pilots. 
 
 An Israeli military helicopter crashes in southern Israel, killing the two pilots, the military says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21751915)
 2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/two-iaf-pilots-killed-in-helicopter-crash-in-southern-israel-1.508800)
-3. [Reuters](http://www.reuters.com/article/2013/03/12/us-israel-crash-idUSBRE92B07E20130312)
+3. [Reuters](https://www.reuters.com/article/2013/03/12/us-israel-crash-idUSBRE92B07E20130312)
 3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66334000/jpg/_66334403_66334402.jpg)
 
 ### Related:

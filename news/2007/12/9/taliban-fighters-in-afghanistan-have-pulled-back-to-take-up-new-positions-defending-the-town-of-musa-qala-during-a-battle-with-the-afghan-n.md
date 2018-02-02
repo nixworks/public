@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/9/taliban-fighters-in-afghanistan-have-pulled-back-to-take-up-new-positions-defending-the-town-of-musa-qala-during-a-battle-with-the-afghan-n.html)  [JSON](/news/2007/12/9/taliban-fighters-in-afghanistan-have-pulled-back-to-take-up-new-positions-defending-the-town-of-musa-qala-during-a-battle-with-the-afghan-n.json)  [XML](/news/2007/12/9/taliban-fighters-in-afghanistan-have-pulled-back-to-take-up-new-positions-defending-the-town-of-musa-qala-during-a-battle-with-the-afghan-n.xml)  
+
 ### [2007-12-9](/news/2007/12/9/index.md)
 
+##### Taliban
 #  Taliban fighters in Afghanistan have pulled back to take up new positions defending the town of Musa Qala during a battle with the Afghan National Army and the International Security Assistance Force. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7134973.stm)
 

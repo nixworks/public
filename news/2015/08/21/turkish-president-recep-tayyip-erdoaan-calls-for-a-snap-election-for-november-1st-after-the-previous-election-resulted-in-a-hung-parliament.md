@@ -1,24 +1,28 @@
+
+Formats: [HTML](/news/2015/08/21/turkish-president-recep-tayyip-erdoaan-calls-for-a-snap-election-for-november-1st-after-the-previous-election-resulted-in-a-hung-parliament.html)  [JSON](/news/2015/08/21/turkish-president-recep-tayyip-erdoaan-calls-for-a-snap-election-for-november-1st-after-the-previous-election-resulted-in-a-hung-parliament.json)  [XML](/news/2015/08/21/turkish-president-recep-tayyip-erdoaan-calls-for-a-snap-election-for-november-1st-after-the-previous-election-resulted-in-a-hung-parliament.xml)  
+
 ### [2015-08-21](/news/2015/08/21/index.md)
 
+##### Turkish general election, November 2015
 # Turkish President Recep Tayyip Erdogan calls for a snap election for November 1st after the previous election resulted in a hung parliament unable to form a coalition government. 
 
 Snap elections are being called in Turkey after efforts to form a coalition government in the wake of a June vote fail.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-34018497)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/BD75/production/_85110584_027466733-1.jpg)
-
-### Related:
-
-1. [The President of Turkey Recep Tayyip Erdogan calls for new elections after a deadline to form a new government following an inconclusive election in June. ](/news/2015/08/24/the-president-of-turkey-recep-tayyip-erdoaan-calls-for-new-elections-after-a-deadline-to-form-a-new-government-following-an-inconclusive-el.md) _Context: President of Turkey, Recep Tayyip Erdogan, Turkish general election, November 2015, election in June_
-2. [Turkish President Recep Tayyip Erdogan's ruling Justice and Development Party (AKP) wins Sunday's snap election with more than 49 percent of the vote. AKP, projected to get 316 seats in the 550-seat parliament, regains single-party rule just five months after losing it. ](/news/2015/11/1/turkish-president-recep-tayyip-erdoaan-s-ruling-justice-and-development-party-akp-wins-sunday-s-snap-election-with-more-than-49-percent-o.md) _Context: President of Turkey, Recep Tayyip Erdogan, Turkish general election, November 2015_
-3. [President of Turkey Recep Tayyip Erdogan affirms Turkey has paid a deposit on the purchase of Russian S-400 missile systems. ](/news/2017/09/12/president-of-turkey-recep-tayyip-erdoaan-affirms-turkey-has-paid-a-deposit-on-the-purchase-of-russian-s-400-missile-systems.md) _Context: President of Turkey, Recep Tayyip Erdogan_
-4. [Results of yesterday's snap election are counted, revealing a hung parliament as the Conservative Party fails to retain its parliamentary majority, despite remaining the party with the most seats. Prime Minister Theresa May announced that she will form a minority government with the support of the Northern Irish Democratic Unionist Party. ](/news/2017/06/9/results-of-yesterday-s-snap-election-are-counted-revealing-a-hung-parliament-as-the-conservative-party-fails-to-retain-its-parliamentary-ma.md) _Context: hung parliament, snap election_
-5. [Voters in Turkey go to the polls for a referendum that seeks to replace the country's parliamentary system with an executive presidency, thereby giving President Recep Tayyip Erdogan sweeping new powers. Erdogan's AK Party has claimed victory while the opposition CHP has said that it will challenge the result. ](/news/2017/04/16/voters-in-turkey-go-to-the-polls-for-a-referendum-that-seeks-to-replace-the-country-s-parliamentary-system-with-an-executive-presidency-the.md) _Context: President of Turkey, Recep Tayyip Erdogan_
 
 ### Changes:
 
 1. [Turkish general election, November 2015: Turkish President Recep Tayyip Erdogan calls for a snap election for November 1st after the previous election resulted in a hung parliament unable to form a coalition government. ](/news/2015/08/21/turkish-general-election-november-2015-turkish-president-recep-tayyip-erdoaan-calls-for-a-snap-election-for-november-1st-after-the-previo.md) _2017-08-27 03:42:52 (First version)_
 1. [Turkish President Recep Tayyip Erdogan calls for a snap election for November 1st after the previous election resulted in a hung parliament unable to form a coalition government. ](/news/2015/08/21/turkish-president-recep-tayyip-erdoaan-calls-for-a-snap-election-for-november-1st-after-the-previous-election-resulted-in-a-hung-parliament.md) _(Current version)_
+
+### Related:
+
+1. [The President of Turkey Recep Tayyip Erdogan calls for new elections after a deadline to form a new government following an inconclusive election in June. ](/news/2015/08/24/the-president-of-turkey-recep-tayyip-erdoaan-calls-for-new-elections-after-a-deadline-to-form-a-new-government-following-an-inconclusive-el.md) _Context: President of Turkey, Recep Tayyip Erdogan, Turkish general election, November 2015, election in June_
+2. [Turkish President Recep Tayyip Erdogan's ruling Justice and Development Party (AKP) wins Sunday's snap election with more than 49 percent of the vote. AKP, projected to get 316 seats in the 550-seat parliament, regains single-party rule just five months after losing it. ](/news/2015/11/1/turkish-president-recep-tayyip-erdoaan-s-ruling-justice-and-development-party-akp-wins-sunday-s-snap-election-with-more-than-49-percent-o.md) _Context: President of Turkey, Recep Tayyip Erdogan, Turkish general election, November 2015_
+3. [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md) _Context: President of Turkey, Recep Tayyip Erdogan_
+4. [Turkish President Erdogan announces that Turkish Army ground troops have entered the district of Afrin in Syria. Turkish Prime Minister Binali Yildirim says the goal is to establish a 30-km safe zone. ](/news/2018/01/21/turkish-president-erdoaan-announces-that-turkish-army-ground-troops-have-entered-the-district-of-afrin-in-syria-turkish-prime-minister-bin.md) _Context: President of Turkey, Recep Tayyip Erdogan_
+5. [The President of Turkey embarks on a two-day state visit of Greece. Recep Tayyip Erdogan's demarche is a first in 65 years. ](/news/2017/12/7/the-president-of-turkey-embarks-on-a-two-day-state-visit-of-greece-recep-tayyip-erdoaan-s-da-c-marche-is-a-first-in-65-years.md) _Context: President of Turkey, Recep Tayyip Erdogan_

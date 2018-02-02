@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/7/ronnie-biggs-one-of-the-participants-of-the-great-train-robbery-is-freed-on-medical-grounds.html)  [JSON](/news/2009/08/7/ronnie-biggs-one-of-the-participants-of-the-great-train-robbery-is-freed-on-medical-grounds.json)  [XML](/news/2009/08/7/ronnie-biggs-one-of-the-participants-of-the-great-train-robbery-is-freed-on-medical-grounds.xml)  
+
 ### [2009-08-7](/news/2009/08/7/index.md)
 
+##### Ronnie Biggs
 #  Ronnie Biggs, one of the participants of the Great Train Robbery, is freed on medical grounds. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [UK Guardian](http://www.guardian.co.uk/uk/2009/aug/07/ronnie-biggs-train-robber-freed)
 

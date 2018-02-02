@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/16/a-turkish-airlines-cargo-jet-crashes-near-kyrgy
 
 ### [2017-01-16](/news/2017/01/16/index.md)
 
+##### Turkish Airlines Flight 6491
 # A Turkish Airlines cargo jet crashes near Kyrgyzstan's Manas International Airport resulting in the deaths of at least 38 people. 
 
 Andrei Yevdochenko noted that it was with deep sympathy and grief that Belarus learned about the tragedy in Kyrgyzstan.

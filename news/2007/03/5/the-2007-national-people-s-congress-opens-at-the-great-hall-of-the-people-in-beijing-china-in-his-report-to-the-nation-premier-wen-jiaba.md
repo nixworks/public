@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/5/the-2007-national-people-s-congress-opens-at-the-great-hall-of-the-people-in-beijing-china-in-his-report-to-the-nation-premier-wen-jiaba.html)  [JSON](/news/2007/03/5/the-2007-national-people-s-congress-opens-at-the-great-hall-of-the-people-in-beijing-china-in-his-report-to-the-nation-premier-wen-jiaba.json)  [XML](/news/2007/03/5/the-2007-national-people-s-congress-opens-at-the-great-hall-of-the-people-in-beijing-china-in-his-report-to-the-nation-premier-wen-jiaba.xml)  
+
 ### [2007-03-5](/news/2007/03/5/index.md)
 
+##### 2007 National People's Congress
 #  The 2007 National People's Congress opens at the Great Hall of the People in Beijing, China. In his report to the nation, Premier Wen Jiabao focuses on environmental concerns, narrowing the wealth gap, controlling housing prices, and "resolute opposition" to Taiwan independence. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6418225.stm)
 2. [CNN](http://edition.cnn.com/2007/BUSINESS/03/04/china.economy.ap/)

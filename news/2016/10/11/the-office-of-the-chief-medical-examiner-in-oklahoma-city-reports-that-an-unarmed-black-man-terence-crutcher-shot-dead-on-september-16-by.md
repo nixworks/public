@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/11/the-office-of-the-chief-medical-examiner-in-okl
 
 ### [2016-10-11](/news/2016/10/11/index.md)
 
+##### Oklahoma City
 # The Office of the Chief Medical Examiner in Oklahoma City reports that an unarmed black man, Terence Crutcher, shot dead on September 16, by a white police officer, Betty Jo Shelby, had acute PCP intoxication. Authorities charged her with first-degree manslaughter. 
 
 An unarmed black man shot dead by a white police officer after his car broke down on a city street last month was high on the hallucinogenic drug PCP in when he died, according to toxicology tests released by a medical examiner Tuesday.

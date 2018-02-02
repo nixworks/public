@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/26/british-counter-terrorism-officers-arrest-another-man-in-connection-with-the-2013-woolwich-attack.html)  [JSON](/news/2013/05/26/british-counter-terrorism-officers-arrest-another-man-in-connection-with-the-2013-woolwich-attack.json)  [XML](/news/2013/05/26/british-counter-terrorism-officers-arrest-another-man-in-connection-with-the-2013-woolwich-attack.xml)  
+
 ### [2013-05-26](/news/2013/05/26/index.md)
 
+##### MI5
 # British counter-terrorism officers arrest another man in connection with the 2013 Woolwich attack. 
 
 Counter-terrorism officers have arrested another man in connection with the hacking death of a British soldier on the streets of London.
 
 
-### Source:
+### Sources:
 
 1. [SAPA via News24](http://www.news24.com/news24/World/News/UK-cops-arrest-another-attack-suspect-20130526)
 1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2359/2818533a08cb4d7db2676bf6e15840c5.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/2/the-opposition-in-venezuela-urges-the-government-to-be-more-transparent-about-the-health-of-president-hugo-cha-vez-as-his-inauguration-appro.html)  [JSON](/news/2013/01/2/the-opposition-in-venezuela-urges-the-government-to-be-more-transparent-about-the-health-of-president-hugo-cha-vez-as-his-inauguration-appro.json)  [XML](/news/2013/01/2/the-opposition-in-venezuela-urges-the-government-to-be-more-transparent-about-the-health-of-president-hugo-cha-vez-as-his-inauguration-appro.xml)  
+
 ### [2013-01-2](/news/2013/01/2/index.md)
 
+##### Venezuela
 # The opposition in Venezuela urges the government to be more transparent about the health of president Hugo Chavez as his inauguration approaches on January 10 amid rumours of his deteriorating health. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.ria.ru/world/20130102/178551235/Venezuelan_Opposition_Urges_Truth_on.html)
 

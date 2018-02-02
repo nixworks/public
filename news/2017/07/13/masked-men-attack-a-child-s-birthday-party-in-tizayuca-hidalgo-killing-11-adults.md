@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/13/masked-men-attack-a-child-s-birthday-party-in-t
 
 ### [2017-07-13](/news/2017/07/13/index.md)
 
+##### Crime in Mexico
 # Masked men attack a child's birthday party in Tizayuca, Hidalgo, killing 11 adults. 
 
 Police said they found three children alive but all the adults at the party were shot dead.

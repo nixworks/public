@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/14/j-p-morgan-chase-strikes-a-58-billion-merger-deal-to-buy-bank-one-to-create-the-second-largest-bank-in-the-united-states.html)  [JSON](/news/2004/01/14/j-p-morgan-chase-strikes-a-58-billion-merger-deal-to-buy-bank-one-to-create-the-second-largest-bank-in-the-united-states.json)  [XML](/news/2004/01/14/j-p-morgan-chase-strikes-a-58-billion-merger-deal-to-buy-bank-one-to-create-the-second-largest-bank-in-the-united-states.xml)  
+
 ### [2004-01-14](/news/2004/01/14/index.md)
 
+##### J.P. Morgan Chase
 #  J.P. Morgan Chase strikes a $58 billion merger deal to buy Bank One to create the second-largest bank in the United States.
 
 

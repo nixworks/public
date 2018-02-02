@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/11/a-rare-giant-panda-born-naturally-in-captivity-at-a-tokyo-zoo-dies-after-only-six-days-prompting-widespread-mourning-in-japan.html)  [JSON](/news/2012/07/11/a-rare-giant-panda-born-naturally-in-captivity-at-a-tokyo-zoo-dies-after-only-six-days-prompting-widespread-mourning-in-japan.json)  [XML](/news/2012/07/11/a-rare-giant-panda-born-naturally-in-captivity-at-a-tokyo-zoo-dies-after-only-six-days-prompting-widespread-mourning-in-japan.xml)  
+
 ### [2012-07-11](/news/2012/07/11/index.md)
 
+##### panda
 # A rare giant panda born naturally in captivity at a Tokyo zoo dies after only six days, prompting widespread mourning in Japan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [National Post](http://news.nationalpost.com/2012/07/11/baby-giant-panda-only-six-days-old-dies-in-mothers-arms-in-tokyo-zoo/)
 

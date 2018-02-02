@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/8/a-man-is-in-custody-in-harris-county-texas-after-six-children-and-two-adults-are-found-dead-near-the-u-s-city-of-houston.html)  [JSON](/news/2015/08/8/a-man-is-in-custody-in-harris-county-texas-after-six-children-and-two-adults-are-found-dead-near-the-u-s-city-of-houston.json)  [XML](/news/2015/08/8/a-man-is-in-custody-in-harris-county-texas-after-six-children-and-two-adults-are-found-dead-near-the-u-s-city-of-houston.xml)  
+
 ### [2015-08-8](/news/2015/08/8/index.md)
 
+##### Harris County, Texas
 # A man is in custody in Harris County, Texas, after six children and two adults are found dead near the U.S. city of Houston. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [KHOU](http://www.khou.com/story/news/crime/2015/08/09/multiple-people-killed-at-home-on-falling-oaks-in-n-harris-county/31366765/)
 1. [Cover Image](http://content.khou.com/photo/2015/11/01/635747231724340362-conley_1750161_ver1.0.jpg)

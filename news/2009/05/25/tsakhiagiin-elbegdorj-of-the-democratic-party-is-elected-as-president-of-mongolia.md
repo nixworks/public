@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/25/tsakhiagiin-elbegdorj-of-the-democratic-party-is-elected-as-president-of-mongolia.html)  [JSON](/news/2009/05/25/tsakhiagiin-elbegdorj-of-the-democratic-party-is-elected-as-president-of-mongolia.json)  [XML](/news/2009/05/25/tsakhiagiin-elbegdorj-of-the-democratic-party-is-elected-as-president-of-mongolia.xml)  
+
 ### [2009-05-25](/news/2009/05/25/index.md)
 
+##### Tsakhiagiin Elbegdorj
 #  Tsakhiagiin Elbegdorj of the Democratic Party is elected as President of Mongolia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8065608.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/9/nine-people-die-after-a-light-plane-crashes-on-an-approach-to-the-island-of-grand-bahama-the-dead-include-preacher-myles-munroe.html)  [JSON](/news/2014/11/9/nine-people-die-after-a-light-plane-crashes-on-an-approach-to-the-island-of-grand-bahama-the-dead-include-preacher-myles-munroe.json)  [XML](/news/2014/11/9/nine-people-die-after-a-light-plane-crashes-on-an-approach-to-the-island-of-grand-bahama-the-dead-include-preacher-myles-munroe.xml)  
+
 ### [2014-11-9](/news/2014/11/9/index.md)
 
+##### Grand Bahama
 # Nine people die after a light plane crashes on an approach to the island of Grand Bahama. The dead include preacher Myles Munroe. 
 
 A small plane crashed in the Bahamas, killing Myles Munroe, an internationally known preacher, and an unknown number of others, his ministry said.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2014/11/09/plane-with-people-on-board-crashes-in-bahamas-govt-says-some-fatalities/)
 2. [NBC News](http://www.nbcnews.com/news/world/prominent-preacher-myles-munroe-killed-small-plane-crash-bahamas-n244831)

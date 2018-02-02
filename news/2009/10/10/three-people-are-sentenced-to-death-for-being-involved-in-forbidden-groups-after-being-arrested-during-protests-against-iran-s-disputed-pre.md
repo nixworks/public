@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/10/three-people-are-sentenced-to-death-for-being-involved-in-forbidden-groups-after-being-arrested-during-protests-against-iran-s-disputed-pre.html)  [JSON](/news/2009/10/10/three-people-are-sentenced-to-death-for-being-involved-in-forbidden-groups-after-being-arrested-during-protests-against-iran-s-disputed-pre.json)  [XML](/news/2009/10/10/three-people-are-sentenced-to-death-for-being-involved-in-forbidden-groups-after-being-arrested-during-protests-against-iran-s-disputed-pre.xml)  
+
 ### [2009-10-10](/news/2009/10/10/index.md)
 
+##### protests against the regime
 #  Three people are sentenced to death for being involved in forbidden groups after being arrested during protests against Iran's disputed presidential election earlier this year. 
 
 Three people arrested during protests over disputed presidential poll are sentenced.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/10/2009101013811496700.html)
 1. [Cover Image](http://www.aljazeera.com)

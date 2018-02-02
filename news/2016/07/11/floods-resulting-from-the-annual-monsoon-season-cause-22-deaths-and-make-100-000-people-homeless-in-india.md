@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/11/floods-resulting-from-the-annual-monsoon-season
 
 ### [2016-07-11](/news/2016/07/11/index.md)
 
+##### Flood
 # Floods resulting from the annual monsoon season cause 22 deaths and make 100,000 people homeless in India. 
 
 
@@ -14,8 +15,8 @@ Formats: [HTML](/news/2016/07/11/floods-resulting-from-the-annual-monsoon-season
 
 ### Related:
 
-1. [Flooding caused by heavy monsoon rains has caused over 100 deaths in India over the past week with tens of thousands of people taking shelter in refugee camps. ](/news/2015/08/3/flooding-caused-by-heavy-monsoon-rains-has-caused-over-100-deaths-in-india-over-the-past-week-with-tens-of-thousands-of-people-taking-shelte.md) _Context: India, flood, monsoon_
-2. [ Monsoon rains in India kill at least 40 people with flooding heaviest in Andhra Pradesh with flooding in the capital Hyderabad killing 14 people. ](/news/2008/08/10/monsoon-rains-in-india-kill-at-least-40-people-with-flooding-heaviest-in-andhra-pradesh-with-flooding-in-the-capital-hyderabad-killing-14-p.md) _Context: India, flood, monsoon_
-3. [ 2007 South Asian floods: The Ganges River system will come under further strain from monsoon floods as 20 million are homeless in Nepal, India and Bangladesh. Almost 200 people have died. ](/news/2007/08/4/2007-south-asian-floods-the-ganges-river-system-will-come-under-further-strain-from-monsoon-floods-as-20-million-are-homeless-in-nepal-in.md) _Context: India, flood, monsoon_
-4. [ 2007 South Asian floods: Monsoon floods make millions homeless in India, Nepal and Bangladesh with a death toll of 145 in India and 65 in Bangladesh. ](/news/2007/08/3/2007-south-asian-floods-monsoon-floods-make-millions-homeless-in-india-nepal-and-bangladesh-with-a-death-toll-of-145-in-india-and-65-in-b.md) _Context: India, flood, monsoon_
-5. [ At least 28 people die in Uttar Pradesh, India as an overcrowded boat carrying flood evacuees and aid workers capsizes on the Rohni River. Monsoon floods have killed more than 150 people in India during July while at least 82 people have died in Nepal over the past two weeks and 38 in Bangladesh. ](/news/2007/08/1/at-least-28-people-die-in-uttar-pradesh-india-as-an-overcrowded-boat-carrying-flood-evacuees-and-aid-workers-capsizes-on-the-rohni-river.md) _Context: India, flood, monsoon_
+1. [Flooding caused by heavy monsoon rains has caused over 100 deaths in India over the past week with tens of thousands of people taking shelter in refugee camps. ](/news/2015/08/3/flooding-caused-by-heavy-monsoon-rains-has-caused-over-100-deaths-in-india-over-the-past-week-with-tens-of-thousands-of-people-taking-shelte.md) _Context: Flood, India, monsoon_
+2. [An early monsoon arrives in India resulting in floods in Gujarat state that have killed 60 people so far this week. ](/news/2015/06/26/an-early-monsoon-arrives-in-india-resulting-in-floods-in-gujarat-state-that-have-killed-60-people-so-far-this-week.md) _Context: India, monsoon_
+3. [North India braces for more rain in what is believed to be the worst monsoon season in 50 years. ](/news/2013/06/24/north-india-braces-for-more-rain-in-what-is-believed-to-be-the-worst-monsoon-season-in-50-years.md) _Context: India, monsoon_
+4. [At least 30 people are killed as a result of heavy monsoon rain in the northern Indian state of Rajasthan. ](/news/2012/08/23/at-least-30-people-are-killed-as-a-result-of-heavy-monsoon-rain-in-the-northern-indian-state-of-rajasthan.md) _Context: India, monsoon_
+5. [Floods hit northern India with transport services disrupted in Mumbai and 15 villages isolated in Maharashtra state. ](/news/2011/08/29/floods-hit-northern-india-with-transport-services-disrupted-in-mumbai-and-15-villages-isolated-in-maharashtra-state.md) _Context: Flood, India_

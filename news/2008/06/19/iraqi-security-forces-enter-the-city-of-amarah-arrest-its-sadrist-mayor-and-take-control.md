@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/19/iraqi-security-forces-enter-the-city-of-amarah-arrest-its-sadrist-mayor-and-take-control.html)  [JSON](/news/2008/06/19/iraqi-security-forces-enter-the-city-of-amarah-arrest-its-sadrist-mayor-and-take-control.json)  [XML](/news/2008/06/19/iraqi-security-forces-enter-the-city-of-amarah-arrest-its-sadrist-mayor-and-take-control.xml)  
+
 ### [2008-06-19](/news/2008/06/19/index.md)
 
+##### Iraqi security forces
 #  Iraqi security forces enter the city of Amarah, arrest its Sadrist mayor, and take control. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7463918.stm)
 

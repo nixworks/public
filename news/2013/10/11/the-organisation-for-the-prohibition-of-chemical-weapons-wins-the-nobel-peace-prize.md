@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/11/the-organisation-for-the-prohibition-of-chemical-weapons-wins-the-nobel-peace-prize.html)  [JSON](/news/2013/10/11/the-organisation-for-the-prohibition-of-chemical-weapons-wins-the-nobel-peace-prize.json)  [XML](/news/2013/10/11/the-organisation-for-the-prohibition-of-chemical-weapons-wins-the-nobel-peace-prize.xml)  
+
 ### [2013-10-11](/news/2013/10/11/index.md)
 
+##### Organisation for the Prohibition of Chemical Weapons
 # The Organisation for the Prohibition of Chemical Weapons wins the Nobel Peace Prize. 
 
 The Organisation for the Prohibition of Chemical Weapons has won this year&#039;s prestigious Nobel Peace Prize.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-24485566)
 2. [Reuters via ABC News Australia](http://www.abc.net.au/news/2013-10-11/chemical-weapons-watchdog-wins-nobel-peace-prize/5017768)

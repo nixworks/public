@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/9/the-death-toll-from-the-2007-south-asian-floods-rises-to-2000.html)  [JSON](/news/2007/08/9/the-death-toll-from-the-2007-south-asian-floods-rises-to-2000.json)  [XML](/news/2007/08/9/the-death-toll-from-the-2007-south-asian-floods-rises-to-2000.xml)  
+
 ### [2007-08-9](/news/2007/08/9/index.md)
 
+##### 2007 South Asian floods
 #  The death toll from the 2007 South Asian floods rises to 2000. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/story/0,23599,22215960-1702,00.html)
 

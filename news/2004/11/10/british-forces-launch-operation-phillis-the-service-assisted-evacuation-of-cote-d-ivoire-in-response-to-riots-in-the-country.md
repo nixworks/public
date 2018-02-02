@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/10/british-forces-launch-operation-phillis-the-service-assisted-evacuation-of-cote-d-ivoire-in-response-to-riots-in-the-country.html)  [JSON](/news/2004/11/10/british-forces-launch-operation-phillis-the-service-assisted-evacuation-of-cote-d-ivoire-in-response-to-riots-in-the-country.json)  [XML](/news/2004/11/10/british-forces-launch-operation-phillis-the-service-assisted-evacuation-of-cote-d-ivoire-in-response-to-riots-in-the-country.xml)  
+
 ### [2004-11-10](/news/2004/11/10/index.md)
 
+##### Operation Phillis
 #  British forces launch Operation Phillis, the service-assisted evacuation of Cte d'Ivoire, in response to riots in the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MoD](http://www.operations.mod.uk/phillis/index.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/4/shaichi-nakagawa-the-former-japanese-finance-minister-who-resigned-over-apparent-drunken-behaviour-at-the-2009-g7-meeting-in-rome-is-fou.html)  [JSON](/news/2009/10/4/shaichi-nakagawa-the-former-japanese-finance-minister-who-resigned-over-apparent-drunken-behaviour-at-the-2009-g7-meeting-in-rome-is-fou.json)  [XML](/news/2009/10/4/shaichi-nakagawa-the-former-japanese-finance-minister-who-resigned-over-apparent-drunken-behaviour-at-the-2009-g7-meeting-in-rome-is-fou.xml)  
+
 ### [2009-10-4](/news/2009/10/4/index.md)
 
+##### Shoichi Nakagawa
 #  Shoichi Nakagawa, the former Japanese Finance Minister who resigned over apparent drunken behaviour at the 2009 G7 meeting in Rome, is found dead in Tokyo. 
 
 Shoichi Nakagawa was forced to step down in February after accusations of drunkenness.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/10/20091043375284638.html)
 2. [Japan Today](http://www.japantoday.com/category/politics/view/ex-finance-minister-nakagawa-found-dead-at-tokyo-home)

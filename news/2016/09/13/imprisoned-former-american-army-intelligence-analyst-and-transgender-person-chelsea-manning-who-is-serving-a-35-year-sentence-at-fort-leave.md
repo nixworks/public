@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/13/imprisoned-former-american-army-intelligence-an
 
 ### [2016-09-13](/news/2016/09/13/index.md)
 
+##### Chelsea Manning
 # Imprisoned former American Army intelligence analyst and transgender person Chelsea Manning, who is serving a 35-year sentence at Fort Leavenworth, will have the military provide the costs of gender reassignment surgery. She was convicted by court-martial in July 2013 of violations of the Espionage Act and other offenses, after disclosing to WikiLeaks nearly three-quarters of a million classified or unclassified but sensitive military and diplomatic documents. 
 
 

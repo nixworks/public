@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/20/thousands-of-russians-demonstrate-across-the-country-against-the-policies-of-the-government-of-prime-minister-vladimir-putin.html)  [JSON](/news/2010/03/20/thousands-of-russians-demonstrate-across-the-country-against-the-policies-of-the-government-of-prime-minister-vladimir-putin.json)  [XML](/news/2010/03/20/thousands-of-russians-demonstrate-across-the-country-against-the-policies-of-the-government-of-prime-minister-vladimir-putin.xml)  
+
 ### [2010-03-20](/news/2010/03/20/index.md)
 
+##### Russia
 # Thousands of Russians demonstrate across the country against the policies of the government of Prime Minister Vladimir Putin. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/03/20103201028429755.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8578029.stm)

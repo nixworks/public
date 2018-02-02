@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/2/sixteen-somalis-drown-after-being-forced-overboard-into-the-gulf-of-aden.html)  [JSON](/news/2009/09/2/sixteen-somalis-drown-after-being-forced-overboard-into-the-gulf-of-aden.json)  [XML](/news/2009/09/2/sixteen-somalis-drown-after-being-forced-overboard-into-the-gulf-of-aden.xml)  
+
 ### [2009-09-2](/news/2009/09/2/index.md)
 
+##### Somalia
 #  Sixteen Somalis drown after being forced overboard into the Gulf of Aden. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=87&art_id=nw20090901222755513C439238)
 

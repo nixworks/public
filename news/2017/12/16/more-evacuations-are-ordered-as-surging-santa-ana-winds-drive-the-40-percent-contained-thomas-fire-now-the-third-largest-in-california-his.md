@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/16/more-evacuations-are-ordered-as-surging-santa-a
 
 ### [2017-12-16](/news/2017/12/16/index.md)
 
+##### December 2017 Southern California wildfires
 #  More evacuations are ordered as surging Santa Ana winds drive the 40-percent contained Thomas Fire, now the third-largest in California history, further westward in Santa Barbara County. 
 
 A raging California wildfire powered by fierce winds grew into the third-largest in state history on Saturday as forced evacuations turned neighborhoods into ghost towns and ash fell in some areas like heavy snow.

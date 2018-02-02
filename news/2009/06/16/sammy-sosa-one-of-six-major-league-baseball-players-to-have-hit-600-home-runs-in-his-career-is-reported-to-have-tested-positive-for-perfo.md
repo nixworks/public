@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/06/16/sammy-sosa-one-of-six-major-league-baseball-players-to-have-hit-600-home-runs-in-his-career-is-reported-to-have-tested-positive-for-perfo.html)  [JSON](/news/2009/06/16/sammy-sosa-one-of-six-major-league-baseball-players-to-have-hit-600-home-runs-in-his-career-is-reported-to-have-tested-positive-for-perfo.json)  [XML](/news/2009/06/16/sammy-sosa-one-of-six-major-league-baseball-players-to-have-hit-600-home-runs-in-his-career-is-reported-to-have-tested-positive-for-perfo.xml)  
+
 ### [2009-06-16](/news/2009/06/16/index.md)
 
+##### Sammy Sosa
 #  Sammy Sosa, one of six Major League Baseball players to have hit 600 home runs in his career, is reported to have tested positive for performance-enhancing drugs during the 2003 season. 
 
 Sammy Sosa, who joined Mark McGwire in 1998 in pursuit of the single-season home run record, is said to be among players who tested positive for a performance-enhancing drug.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2009/06/17/sports/baseball/17doping.html?hp)
+1. [The New York Times](https://www.nytimes.com/2009/06/17/sports/baseball/17doping.html?hp)
 1. [Cover Image](https://static01.nyt.com/images/2009/06/17/sports/17sosa75.jpg)
 
 ### Related:

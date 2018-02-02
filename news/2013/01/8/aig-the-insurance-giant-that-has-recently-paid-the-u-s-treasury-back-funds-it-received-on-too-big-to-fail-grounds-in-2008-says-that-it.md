@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/01/8/aig-the-insurance-giant-that-has-recently-paid-the-u-s-treasury-back-funds-it-received-on-too-big-to-fail-grounds-in-2008-says-that-it.html)  [JSON](/news/2013/01/8/aig-the-insurance-giant-that-has-recently-paid-the-u-s-treasury-back-funds-it-received-on-too-big-to-fail-grounds-in-2008-says-that-it.json)  [XML](/news/2013/01/8/aig-the-insurance-giant-that-has-recently-paid-the-u-s-treasury-back-funds-it-received-on-too-big-to-fail-grounds-in-2008-says-that-it.xml)  
+
 ### [2013-01-8](/news/2013/01/8/index.md)
 
+##### AIG
 # AIG, the insurance giant that has recently paid the U.S. treasury back funds it received on "too big to fail" grounds in 2008, says that it may join a lawsuit against the U.S. for the supposedly harsh nature of the bailout terms. 
 
 American International Group Inc, the insurer rescued by the U.S. government in 2008, drew angry condemnation from lawmakers on Tuesday after saying it may join a lawsuit that alleges the bailout terms were unfair.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/01/08/us-aig-lawsuit-government-idUSBRE9070GR20130108)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130108&t=2&i=692236024&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE907134B00)
+1. [Reuters](https://www.reuters.com/article/2013/01/08/us-aig-lawsuit-government-idUSBRE9070GR20130108)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130108&t=2&i=692236024&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE907134B00)
 
 ### Related:
 

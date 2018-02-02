@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/4/the-nepalese-maoist-party-says-that-they-will-wi
 
 ### [2016-05-4](/news/2016/05/4/index.md)
 
+##### Nepalese Maoist Party
 # The Nepalese Maoist Party says that they will withdraw support from Prime Minister Khadga Prasad Sharma Oli and form a new government. 
 
 

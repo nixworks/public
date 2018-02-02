@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/09/14/russia-and-belarus-begin-a-six-day-joint-strategic-military-exercise-inside-belarus-and-russia-s-kaliningrad-oblast-the-military-exercise-s.html)  [JSON](/news/2017/09/14/russia-and-belarus-begin-a-six-day-joint-strategic-military-exercise-inside-belarus-and-russia-s-kaliningrad-oblast-the-military-exercise-s.json)  [XML](/news/2017/09/14/russia-and-belarus-begin-a-six-day-joint-strategic-military-exercise-inside-belarus-and-russia-s-kaliningrad-oblast-the-military-exercise-s.xml)  
+
 ### [2017-09-14](/news/2017/09/14/index.md)
 
+##### Zapad 2017 exercise
 # Russia and Belarus begin a six-day joint strategic military exercise inside Belarus and Russia's Kaliningrad Oblast. The military exercise simulates war against the fictional state of Veyshnoria. According to the Defence Ministry of Belarus, fewer than 13,000 personnel will be taking part in the exercise; however, Western analysts believe the total number will range from 60,000 to 100,000. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](https://www.reuters.com/article/us-russia-nato/russias-zapad-war-games-unnerve-the-west-idUSKCN1BO1OG)
 1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170913&t=2&i=1201248988&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED8C148)

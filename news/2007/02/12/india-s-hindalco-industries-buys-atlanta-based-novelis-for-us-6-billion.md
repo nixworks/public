@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2007/02/12/india-s-hindalco-industries-buys-atlanta-based-novelis-for-us-6-billion.html)  [JSON](/news/2007/02/12/india-s-hindalco-industries-buys-atlanta-based-novelis-for-us-6-billion.json)  [XML](/news/2007/02/12/india-s-hindalco-industries-buys-atlanta-based-novelis-for-us-6-billion.xml)  
+
 ### [2007-02-12](/news/2007/02/12/index.md)
 
+##### India
 #  India's Hindalco Industries buys Atlanta-based Novelis for US$6 billion. 
 
 India&#39;s largest aluminum producer announces plans to acquire Atlanta-based company.
 
 
-### Source:
+### Sources:
 
 1. [BusinessWeek](http://www.businessweek.com/globalbiz/content/feb2007/gb20070212_419116.htm)
-2. [Forbes](http://www.forbes.com/2007/02/11/mergers-acquisitions-aluminum-biz-cx_0211hindalco.html)
-3. [NYTimes](http://www.nytimes.com/2007/02/12/business/worldbusiness/12alum.html)
+2. [Forbes](https://www.forbes.com/2007/02/11/mergers-acquisitions-aluminum-biz-cx_0211hindalco.html)
+3. [NYTimes](https://www.nytimes.com/2007/02/12/business/worldbusiness/12alum.html)
 3. [Cover Image](https://i.forbesimg.com/media/assets/forbes_1200x1200.jpg)
 
 ### Related:

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/22/mexican-foreign-minister-luis-videgaray-caso-re
 
 ### [2017-02-22](/news/2017/02/22/index.md)
 
+##### 2017 Mexico-United States diplomatic crisis
 # Mexican Foreign Minister Luis Videgaray Caso rejects and condemns the United States's new plan on deporting undocumented immigrants, stating that Mexico cannot "accept unilateral decisions imposed by one government on another." 
 
 Two top US officials are in Mexico to discuss the measures with President Enrique Pena Nieto.

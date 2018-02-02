@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/13/pakistan-s-former-foreign-minister-shah-mehmood-qureshi-dismisses-claims-by-u-s-authorities-that-the-american-gunman-who-recently-shot-two.html)  [JSON](/news/2011/02/13/pakistan-s-former-foreign-minister-shah-mehmood-qureshi-dismisses-claims-by-u-s-authorities-that-the-american-gunman-who-recently-shot-two.json)  [XML](/news/2011/02/13/pakistan-s-former-foreign-minister-shah-mehmood-qureshi-dismisses-claims-by-u-s-authorities-that-the-american-gunman-who-recently-shot-two.xml)  
+
 ### [2011-02-13](/news/2011/02/13/index.md)
 
+##### Shah Mehmood Qureshi
 # Pakistan's former foreign minister Shah Mehmood Qureshi dismisses claims by U.S. authorities that the American gunman who recently shot two Pakistanis dead is a diplomat. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-02/13/c_13730171.htm)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/19/dwight-watson-who-had-driven-a-tractor-into-the-constitution-gardens-pond-on-the-national-mall-in-washington-d-c-surrendered-to-federal.html)  [JSON](/news/2003/03/19/dwight-watson-who-had-driven-a-tractor-into-the-constitution-gardens-pond-on-the-national-mall-in-washington-d-c-surrendered-to-federal.json)  [XML](/news/2003/03/19/dwight-watson-who-had-driven-a-tractor-into-the-constitution-gardens-pond-on-the-national-mall-in-washington-d-c-surrendered-to-federal.xml)  
+
 ### [2003-03-19](/news/2003/03/19/index.md)
 
+##### Dwight Watson
 #  Dwight Watson, who had driven a tractor into the Constitution Gardens pond on the National Mall in Washington, D.C., surrendered to federal authorities. The 48 hour standoff severely disrupted the business and traffic of downtown D.C., as a large section of streets were blocked due to Watson's claim that he had explosives.
 
 

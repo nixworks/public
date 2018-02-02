@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/21/uefa-euro-2008-russia-beat-netherlands-3-1-after-extra-time-advancing-to-the-semi-finals.html)  [JSON](/news/2008/06/21/uefa-euro-2008-russia-beat-netherlands-3-1-after-extra-time-advancing-to-the-semi-finals.json)  [XML](/news/2008/06/21/uefa-euro-2008-russia-beat-netherlands-3-1-after-extra-time-advancing-to-the-semi-finals.xml)  
+
 ### [2008-06-21](/news/2008/06/21/index.md)
 
+##### UEFA Euro 2008
 #  UEFA Euro 2008: Russia beat Netherlands 3-1 after extra time, advancing to the semi-finals. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [UEFA Euro 2008 website](http://www.euro2008.uefa.com/tournament/matches/match=301701/report=rp.html/)
 

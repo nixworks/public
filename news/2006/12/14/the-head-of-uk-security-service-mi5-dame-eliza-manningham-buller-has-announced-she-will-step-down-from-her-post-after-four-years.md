@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/14/the-head-of-uk-security-service-mi5-dame-eliza-manningham-buller-has-announced-she-will-step-down-from-her-post-after-four-years.html)  [JSON](/news/2006/12/14/the-head-of-uk-security-service-mi5-dame-eliza-manningham-buller-has-announced-she-will-step-down-from-her-post-after-four-years.json)  [XML](/news/2006/12/14/the-head-of-uk-security-service-mi5-dame-eliza-manningham-buller-has-announced-she-will-step-down-from-her-post-after-four-years.xml)  
+
 ### [2006-12-14](/news/2006/12/14/index.md)
 
+##### head
 #  The head of UK security service MI5, Dame Eliza Manningham-Buller, has announced she will step down from her post after four years. 
 
 News and opinion from The Times &amp; The Sunday Times
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/article/0,,8543-2505710,00.html)
 1. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)

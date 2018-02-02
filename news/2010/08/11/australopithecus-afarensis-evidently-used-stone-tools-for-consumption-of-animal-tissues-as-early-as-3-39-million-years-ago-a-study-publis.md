@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2010/08/11/australopithecus-afarensis-evidently-used-stone-tools-for-consumption-of-animal-tissues-as-early-as-3-39-million-years-ago-a-study-publis.html)  [JSON](/news/2010/08/11/australopithecus-afarensis-evidently-used-stone-tools-for-consumption-of-animal-tissues-as-early-as-3-39-million-years-ago-a-study-publis.json)  [XML](/news/2010/08/11/australopithecus-afarensis-evidently-used-stone-tools-for-consumption-of-animal-tissues-as-early-as-3-39-million-years-ago-a-study-publis.xml)  
+
 ### [2010-08-11](/news/2010/08/11/index.md)
 
+##### Australopithecus afarensis
 # "Australopithecus afarensis" evidently used stone tools for consumption of animal tissues as early as 3.39 million years ago, a study published in "Nature" finds. 
 
 Researchers have unearthed evidence that our ancestors used tools and ate meat 800,000 years earlier than thought.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-10938453)
-2. [Nature](http://dx.doi.org/10.1038/nature09248)
+2. [Nature](https://dx.doi.org/10.1038/nature09248)
 2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
+
+### Changes:
+
+1. [''Australopithecus afarensis'' evidently used stone tools for consumption of animal tissues as early as 3.39 million years ago, a study published in ''Nature'' finds. ](/news/2010/08/11/australopithecus-afarensis-evidently-used-stone-tools-for-consumption-of-animal-tissues-as-early-as-3-39-million-years-ago-a-study-publ.md) _2017-08-25 03:29:22 (First version)_
+1. ["Australopithecus afarensis" evidently used stone tools for consumption of animal tissues as early as 3.39 million years ago, a study published in "Nature" finds. ](/news/2010/08/11/australopithecus-afarensis-evidently-used-stone-tools-for-consumption-of-animal-tissues-as-early-as-3-39-million-years-ago-a-study-publis.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ Researchers have unearthed evidence that our ancestors used tools and ate meat 8
 3. [A study published in Nature finds the Earth's surface is warmer than it has been in about 120,000 years, and is locked into eventually hitting its hottest mark in more than 2 million years. ](/news/2016/09/26/a-study-published-in-nature-finds-the-earth-s-surface-is-warmer-than-it-has-been-in-about-120-000-years-and-is-locked-into-eventually-hitti.md) _Context: ''Nature''_
 4. [Researchers report in the journal Nature the discovery of three potentially habitable, Earth-like exoplanets orbiting TRAPPIST-1, an ultracool dwarf star 40 light-years away in the constellation Aquarius. ](/news/2016/05/2/researchers-report-in-the-journal-nature-the-discovery-of-three-potentially-habitable-earth-like-exoplanets-orbiting-trappist-1-an-ultraco.md) _Context: ''Nature''_
 5. [ An article published in "Nature" reports high levels of molecular oxygen found by the Rosetta space probe on comet 67P-Churyumov-Gerasimenko. This discovery could have implications for theories of the origin of the solar system. ](/news/2015/10/28/an-article-published-in-nature-reports-high-levels-of-molecular-oxygen-found-by-the-rosetta-space-probe-on-comet-67p-churyumov-gerasimenk.md) _Context: ''Nature''_
-
-### Changes:
-
-1. [''Australopithecus afarensis'' evidently used stone tools for consumption of animal tissues as early as 3.39 million years ago, a study published in ''Nature'' finds. ](/news/2010/08/11/australopithecus-afarensis-evidently-used-stone-tools-for-consumption-of-animal-tissues-as-early-as-3-39-million-years-ago-a-study-publ.md) _2017-08-25 03:29:22 (First version)_
-1. ["Australopithecus afarensis" evidently used stone tools for consumption of animal tissues as early as 3.39 million years ago, a study published in "Nature" finds. ](/news/2010/08/11/australopithecus-afarensis-evidently-used-stone-tools-for-consumption-of-animal-tissues-as-early-as-3-39-million-years-ago-a-study-publis.md) _(Current version)_

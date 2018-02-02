@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/10/china-disputes-that-its-ships-illegally-harassed-usns-impeccable-in-the-south-china-sea.html)  [JSON](/news/2009/03/10/china-disputes-that-its-ships-illegally-harassed-usns-impeccable-in-the-south-china-sea.json)  [XML](/news/2009/03/10/china-disputes-that-its-ships-illegally-harassed-usns-impeccable-in-the-south-china-sea.xml)  
+
 ### [2009-03-10](/news/2009/03/10/index.md)
 
+##### China
 #  China disputes that its ships illegally harassed USNS "Impeccable" in the South China Sea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2009-03/10/content_10983647.htm)
 

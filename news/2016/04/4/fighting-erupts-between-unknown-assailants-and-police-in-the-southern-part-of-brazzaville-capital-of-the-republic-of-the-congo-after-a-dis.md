@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/04/4/fighting-erupts-between-unknown-assailants-and-police-in-the-southern-part-of-brazzaville-capital-of-the-republic-of-the-congo-after-a-dis.html)  [JSON](/news/2016/04/4/fighting-erupts-between-unknown-assailants-and-police-in-the-southern-part-of-brazzaville-capital-of-the-republic-of-the-congo-after-a-dis.json)  [XML](/news/2016/04/4/fighting-erupts-between-unknown-assailants-and-police-in-the-southern-part-of-brazzaville-capital-of-the-republic-of-the-congo-after-a-dis.xml)  
+
 ### [2016-04-4](/news/2016/04/4/index.md)
 
+##### Republic of the Congo presidential election, 2016
 # Fighting erupts between unknown assailants and police in the southern part of Brazzaville, capital of the Republic of the Congo, after a disputed Presidential election that brought Denis Sassou Nguesso back to power for a third term. The reason for the clashes is not immediately clear but they have taken place in districts where support for the opposition is strong. The government blames the violence on the Ninjas, a militant group active during the Second Republic of the Congo Civil War. 
 
 The Congolese government blames attacks on government buildings in the capital, Brazzaville, on the Ninja militia group.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/04/congo-police-exchange-fire-militia-reports-160404073833646.html)
 2. [BBC](http://www.bbc.com/news/world-africa-35958458)

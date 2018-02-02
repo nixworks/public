@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/06/30/in-france-a-court-in-paris-convicts-14-militant-separatists-from-eta-and-breton-revolutionary-army.html)  [JSON](/news/2005/06/30/in-france-a-court-in-paris-convicts-14-militant-separatists-from-eta-and-breton-revolutionary-army.json)  [XML](/news/2005/06/30/in-france-a-court-in-paris-convicts-14-militant-separatists-from-eta-and-breton-revolutionary-army.xml)  
+
 ### [2005-06-30](/news/2005/06/30/index.md)
 
+##### separatist
 #  In France, a court in Paris convicts 14 militant separatists from ETA and Breton Revolutionary Army
 
 

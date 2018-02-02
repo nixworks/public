@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/1/a-boat-carrying-70-asylum-seekers-en-route-to-australia-sinks-off-the-coast-of-java-in-indonesia-with-eight-confirmed-deaths-and-fifteen-peo.html)  [JSON](/news/2011/11/1/a-boat-carrying-70-asylum-seekers-en-route-to-australia-sinks-off-the-coast-of-java-in-indonesia-with-eight-confirmed-deaths-and-fifteen-peo.json)  [XML](/news/2011/11/1/a-boat-carrying-70-asylum-seekers-en-route-to-australia-sinks-off-the-coast-of-java-in-indonesia-with-eight-confirmed-deaths-and-fifteen-peo.xml)  
+
 ### [2011-11-1](/news/2011/11/1/index.md)
 
+##### asylum seeker
 # A boat carrying 70 asylum seekers en route to Australia sinks off the coast of Java in Indonesia with eight confirmed deaths and fifteen people missing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''The Melbourne Age](http://news.theage.com.au/breaking-news-world/grave-fears-for-missing-asylum-seekers-20111102-1muvj.html)
 

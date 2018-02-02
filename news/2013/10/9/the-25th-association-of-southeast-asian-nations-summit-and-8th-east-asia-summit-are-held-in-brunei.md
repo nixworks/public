@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/9/the-25th-association-of-southeast-asian-nations-summit-and-8th-east-asia-summit-are-held-in-brunei.html)  [JSON](/news/2013/10/9/the-25th-association-of-southeast-asian-nations-summit-and-8th-east-asia-summit-are-held-in-brunei.json)  [XML](/news/2013/10/9/the-25th-association-of-southeast-asian-nations-summit-and-8th-east-asia-summit-are-held-in-brunei.xml)  
+
 ### [2013-10-9](/news/2013/10/9/index.md)
 
+##### Association of Southeast Asian Nations
 # The 25th Association of Southeast Asian Nations summit and 8th East Asia Summit are held in Brunei. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Russia India Report](http://indrus.in/world/2013/10/08/southeast_asia_in_global_spotlight_with_apec_asean_and_east_asia_summit_29985.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/12/microsoft-announces-its-upcoming-windows-10-consumer-version-preview-for-january-21.html)  [JSON](/news/2014/12/12/microsoft-announces-its-upcoming-windows-10-consumer-version-preview-for-january-21.json)  [XML](/news/2014/12/12/microsoft-announces-its-upcoming-windows-10-consumer-version-preview-for-january-21.xml)  
+
 ### [2014-12-12](/news/2014/12/12/index.md)
 
+##### Microsoft
 # Microsoft announces its upcoming Windows 10 consumer version preview for January 21. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [FOX News](http://www.foxnews.com/tech/2014/12/12/microsoft-to-spill-windows-10-beans-jan-21)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/tech/2014/12/12/microsoft-to-spill-windows-10-beans-jan-21/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1446692575741.jpg?ve=1)

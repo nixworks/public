@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/4/a-peruvian-congressional-committee-accuses-president-alejandro-toledo-of-electoral-fraud.html)  [JSON](/news/2005/05/4/a-peruvian-congressional-committee-accuses-president-alejandro-toledo-of-electoral-fraud.json)  [XML](/news/2005/05/4/a-peruvian-congressional-committee-accuses-president-alejandro-toledo-of-electoral-fraud.xml)  
+
 ### [2005-05-4](/news/2005/05/4/index.md)
 
+##### Peru
 #  A Peruvian congressional committee accuses President Alejandro Toledo of electoral fraud. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4511513.stm)
 

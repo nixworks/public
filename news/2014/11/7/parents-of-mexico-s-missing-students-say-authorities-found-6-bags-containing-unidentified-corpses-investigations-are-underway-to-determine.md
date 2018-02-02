@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/7/parents-of-mexico-s-missing-students-say-authorities-found-6-bags-containing-unidentified-corpses-investigations-are-underway-to-determine.html)  [JSON](/news/2014/11/7/parents-of-mexico-s-missing-students-say-authorities-found-6-bags-containing-unidentified-corpses-investigations-are-underway-to-determine.json)  [XML](/news/2014/11/7/parents-of-mexico-s-missing-students-say-authorities-found-6-bags-containing-unidentified-corpses-investigations-are-underway-to-determine.xml)  
+
 ### [2014-11-7](/news/2014/11/7/index.md)
 
+##### 2014 Iguala mass kidnapping
 # Parents of Mexico's missing students say authorities found 6 bags containing unidentified corpses; investigations are underway to determine if they are of the missing students. Three people confess their involvement in the massacre. 
 
 Relatives of missing college students say Mexican authorities tell of finding six bags of unidentified human remains in the southern state of Guerrero near where their 43 sons disappeared Sept. 26.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/world/2014/11/07/parent-mexico-attorney-general-reports-6-bags-remains-in-missing-student/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2014/11/07/parent-mexico-attorney-general-reports-6-bags-remains-in-missing-student/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1449821782369.jpg?ve=1)

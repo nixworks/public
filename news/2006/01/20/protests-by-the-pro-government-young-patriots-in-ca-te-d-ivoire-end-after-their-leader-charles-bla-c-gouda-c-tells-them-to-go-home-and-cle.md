@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/20/protests-by-the-pro-government-young-patriots-in-ca-te-d-ivoire-end-after-their-leader-charles-bla-c-gouda-c-tells-them-to-go-home-and-cle.html)  [JSON](/news/2006/01/20/protests-by-the-pro-government-young-patriots-in-ca-te-d-ivoire-end-after-their-leader-charles-bla-c-gouda-c-tells-them-to-go-home-and-cle.json)  [XML](/news/2006/01/20/protests-by-the-pro-government-young-patriots-in-ca-te-d-ivoire-end-after-their-leader-charles-bla-c-gouda-c-tells-them-to-go-home-and-cle.xml)  
+
 ### [2006-01-20](/news/2006/01/20/index.md)
 
+##### Young Patriots
 #  Protests by the pro-government Young Patriots in Cote d'Ivoire end after their leader, Charles Ble Goude, tells them to "go home and clean up the streets". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4630796.stm)
 

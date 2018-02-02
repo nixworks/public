@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/10/iraq-disarmament-crisis-kofi-annan-secretary-general-of-the-united-nations-stated-if-the-us-and-others-were-to-go-outside-the-securi.html)  [JSON](/news/2003/03/10/iraq-disarmament-crisis-kofi-annan-secretary-general-of-the-united-nations-stated-if-the-us-and-others-were-to-go-outside-the-securi.json)  [XML](/news/2003/03/10/iraq-disarmament-crisis-kofi-annan-secretary-general-of-the-united-nations-stated-if-the-us-and-others-were-to-go-outside-the-securi.xml)  
+
 ### [2003-03-10](/news/2003/03/10/index.md)
 
+##### Iraq disarmament crisis
 #  Iraq disarmament crisis: *Kofi Annan, Secretary General of the United Nations, stated ""If the US and others were to go outside the [Security] Council and take military action it would not be in conformity with the [UN] Charter"".
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/1/a-boat-capsizes-in-the-north-of-indonesian-borne
 
 ### [2018-01-1](/news/2018/01/1/index.md)
 
+##### Indonesia
 # A boat capsizes in the north of Indonesian Borneo, leaving at least eight people dead. 
 
 Several others are missing after the vessel, whose passengers included children, sank near Borneo.

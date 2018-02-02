@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/18/the-japanese-red-cross-says-that-250-000-people
 
 ### [2016-04-18](/news/2016/04/18/index.md)
 
+##### 2016 Kumamoto earthquakes
 # The Japanese Red Cross says that 250,000 people have been asked to leave their homes due to further tremors. 
 
 Nearly 250,000 people are told to leave their homes amid fears of further tremors, an aid agency says, after two powerful quakes hit Japan in two days.

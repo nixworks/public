@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/8/it-is-revealed-that-sarah-duchess-of-york-faces-possible-bankruptcy-which-would-make-her-the-first-royal-to-suffer-this.html)  [JSON](/news/2010/08/8/it-is-revealed-that-sarah-duchess-of-york-faces-possible-bankruptcy-which-would-make-her-the-first-royal-to-suffer-this.json)  [XML](/news/2010/08/8/it-is-revealed-that-sarah-duchess-of-york-faces-possible-bankruptcy-which-would-make-her-the-first-royal-to-suffer-this.xml)  
+
 ### [2010-08-8](/news/2010/08/8/index.md)
 
+##### Sarah, Duchess of York
 # It is revealed that Sarah, Duchess of York faces possible bankruptcy, which would make her the first Royal to suffer this. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/uk/2010/aug/08/sarah-ferguson-bankrupt-debts-millions)
 

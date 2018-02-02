@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/12/around-100-people-are-killed-in-ethnic-clashes-and-cattle-raids-in-south-sudan.html)  [JSON](/news/2012/03/12/around-100-people-are-killed-in-ethnic-clashes-and-cattle-raids-in-south-sudan.json)  [XML](/news/2012/03/12/around-100-people-are-killed-in-ethnic-clashes-and-cattle-raids-in-south-sudan.xml)  
+
 ### [2012-03-12](/news/2012/03/12/index.md)
 
+##### South Sudan
 # Around 100 people are killed in ethnic clashes and cattle raids in South Sudan. 
 
 The number of people killed in the latest of a series of cattle raids and ethnic clashes in South Sudan rises to more than 200, officials tell the BBC.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17338139)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59035000/jpg/_59035107_93686282.jpg)

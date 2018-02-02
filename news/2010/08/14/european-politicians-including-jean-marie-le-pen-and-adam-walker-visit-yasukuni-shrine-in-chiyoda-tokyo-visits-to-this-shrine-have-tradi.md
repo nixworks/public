@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/08/14/european-politicians-including-jean-marie-le-pen-and-adam-walker-visit-yasukuni-shrine-in-chiyoda-tokyo-visits-to-this-shrine-have-tradi.html)  [JSON](/news/2010/08/14/european-politicians-including-jean-marie-le-pen-and-adam-walker-visit-yasukuni-shrine-in-chiyoda-tokyo-visits-to-this-shrine-have-tradi.json)  [XML](/news/2010/08/14/european-politicians-including-jean-marie-le-pen-and-adam-walker-visit-yasukuni-shrine-in-chiyoda-tokyo-visits-to-this-shrine-have-tradi.xml)  
+
 ### [2010-08-14](/news/2010/08/14/index.md)
 
+##### Jean-Marie Le Pen
 # European politicians, including Jean-Marie Le Pen and Adam Walker, visit Yasukuni Shrine in Chiyoda, Tokyo; visits to this shrine have traditionally been a sensitive point in international politics between Japan, Korea, and China. 
 
 British and Japanese ultranationalists will shrug off protests from war veterans in an unlikely show of solidarity at a controversial Tokyo memorial today, on the 65th anniversary of Japan&#039;s surrender in the Second World War.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10973225)
-2. [The Independent](http://www.independent.co.uk/news/world/asia/far-right-pays-tribute-to-japans-war-heroes-2052329.html)
+2. [The Independent](https://www.independent.co.uk/news/world/asia/far-right-pays-tribute-to-japans-war-heroes-2052329.html)
 2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/08/13/20/431846.bin)
 
 ### Related:

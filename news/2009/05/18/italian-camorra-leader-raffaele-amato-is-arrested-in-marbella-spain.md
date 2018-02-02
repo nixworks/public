@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/18/italian-camorra-leader-raffaele-amato-is-arrested-in-marbella-spain.html)  [JSON](/news/2009/05/18/italian-camorra-leader-raffaele-amato-is-arrested-in-marbella-spain.json)  [XML](/news/2009/05/18/italian-camorra-leader-raffaele-amato-is-arrested-in-marbella-spain.xml)  
+
 ### [2009-05-18](/news/2009/05/18/index.md)
 
+##### Italy
 #  Italian Camorra leader Raffaele Amato is arrested in Marbella, Spain. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8055481.stm)
 

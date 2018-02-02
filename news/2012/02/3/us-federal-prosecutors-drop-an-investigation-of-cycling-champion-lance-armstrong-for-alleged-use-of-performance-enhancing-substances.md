@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/02/3/us-federal-prosecutors-drop-an-investigation-of-cycling-champion-lance-armstrong-for-alleged-use-of-performance-enhancing-substances.html)  [JSON](/news/2012/02/3/us-federal-prosecutors-drop-an-investigation-of-cycling-champion-lance-armstrong-for-alleged-use-of-performance-enhancing-substances.json)  [XML](/news/2012/02/3/us-federal-prosecutors-drop-an-investigation-of-cycling-champion-lance-armstrong-for-alleged-use-of-performance-enhancing-substances.xml)  
+
 ### [2012-02-3](/news/2012/02/3/index.md)
 
+##### Lance Armstrong
 # US Federal prosecutors drop an investigation of cycling champion Lance Armstrong for alleged use of performance enhancing substances. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/sports/cycling/story/2012-02-03/lance-armstrong-performance-enhancing-investigation-closed/52951474/1)
+1. [USA Today](https://www.usatoday.com/sports/cycling/story/2012-02-03/lance-armstrong-performance-enhancing-investigation-closed/52951474/1)
 1. [Cover Image](http://i.usatoday.net/sports/_photos/2012/02/03/Feds-close-Armstrong-doping-inquiry-T3UNN6P-x.jpg)
 
 ### Related:

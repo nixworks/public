@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/8/legislators-in-the-jogorku-kenesh-approve-a-new-constitution-amid-fears-of-another-revolution-in-kyrgyzstan.html)  [JSON](/news/2006/11/8/legislators-in-the-jogorku-kenesh-approve-a-new-constitution-amid-fears-of-another-revolution-in-kyrgyzstan.json)  [XML](/news/2006/11/8/legislators-in-the-jogorku-kenesh-approve-a-new-constitution-amid-fears-of-another-revolution-in-kyrgyzstan.xml)  
+
 ### [2006-11-8](/news/2006/11/8/index.md)
 
+##### Supreme Council
 #  Legislators in the Jogorku Kenesh approve a new constitution amid fears of another revolution in Kyrgyzstan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RadioFreeEurope/RadioLiberty](http://www.rferl.com/featuresarticle/2006/11/DEDF91B4-A729-421A-A157-4F569C5A2016.html)
 

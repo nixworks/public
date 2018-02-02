@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2016/11/3/the-united-nations-believes-that-at-least-239-migrants-drowned-in-shipwrecks-near-the-coast-of-libya.html)  [JSON](/news/2016/11/3/the-united-nations-believes-that-at-least-239-migrants-drowned-in-shipwrecks-near-the-coast-of-libya.json)  [XML](/news/2016/11/3/the-united-nations-believes-that-at-least-239-migrants-drowned-in-shipwrecks-near-the-coast-of-libya.xml)  
+
 ### [2016-11-3](/news/2016/11/3/index.md)
 
+##### European migration crisis
 # The United Nations believes that at least 239 migrants drowned in shipwrecks near the coast of Libya. 
 
-More than 4,000 people have died this year trying to cross the Mediterranean to reach Europe. 
+More than 200 asylum seekers have drowned off the Libyan coast within 48 hours, the United Nation&#039;s migration agency said.
 
 
-### Source:
+### Sources:
 
 1. [ABC Online](http://www.abc.net.au/news/2016-11-04/un-says-240-asylum-seekers-drowned-off-libyan-coast/7994674)
-2. [USA Today](http://www.usatoday.com/story/news/world/2016/11/03/over-200-migrants-believed-drowned-mediterranean/93229370/)
-2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
+2. [USA Today](https://www.usatoday.com/story/news/world/2016/11/03/over-200-migrants-believed-drowned-mediterranean/93229370/)
+2. [Cover Image](http://www.abc.net.au/news/image/7994706-1x1-700x700.jpg)
 
 ### Related:
 

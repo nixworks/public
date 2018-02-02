@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/21/john-terry-the-captain-of-the-england-football-team-is-to-face-criminal-charges-over-allegations-he-used-racist-language-towards-a-black-pl.html)  [JSON](/news/2011/12/21/john-terry-the-captain-of-the-england-football-team-is-to-face-criminal-charges-over-allegations-he-used-racist-language-towards-a-black-pl.json)  [XML](/news/2011/12/21/john-terry-the-captain-of-the-england-football-team-is-to-face-criminal-charges-over-allegations-he-used-racist-language-towards-a-black-pl.xml)  
+
 ### [2011-12-21](/news/2011/12/21/index.md)
 
+##### John Terry
 # John Terry, the captain of the England football team is to face criminal charges over allegations he used racist language towards a black player during a Premier League game. 
 
 England captain John Terry is to face a criminal charge of using racist language towards fellow footballer Anton Ferdinand during a Premier League game.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-16284813)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57511000/jpg/_57511395_57511394.jpg)

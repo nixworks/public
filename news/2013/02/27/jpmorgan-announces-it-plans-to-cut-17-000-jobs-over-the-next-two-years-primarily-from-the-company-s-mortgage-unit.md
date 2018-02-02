@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/02/27/jpmorgan-announces-it-plans-to-cut-17-000-jobs-over-the-next-two-years-primarily-from-the-company-s-mortgage-unit.html)  [JSON](/news/2013/02/27/jpmorgan-announces-it-plans-to-cut-17-000-jobs-over-the-next-two-years-primarily-from-the-company-s-mortgage-unit.json)  [XML](/news/2013/02/27/jpmorgan-announces-it-plans-to-cut-17-000-jobs-over-the-next-two-years-primarily-from-the-company-s-mortgage-unit.xml)  
+
 ### [2013-02-27](/news/2013/02/27/index.md)
 
+##### JPMorgan
 # JPMorgan announces it plans to cut 17,000 jobs over the next two years, primarily from the company's mortgage unit. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/02/27/us-jpmorgan-jobs-idUSBRE91P0GX20130227)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130227&t=2&i=707919607&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91P12MC00)
+1. [Reuters](https://www.reuters.com/article/2013/02/27/us-jpmorgan-jobs-idUSBRE91P0GX20130227)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130227&t=2&i=707919607&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91P12MC00)
 
 ### Related:
 

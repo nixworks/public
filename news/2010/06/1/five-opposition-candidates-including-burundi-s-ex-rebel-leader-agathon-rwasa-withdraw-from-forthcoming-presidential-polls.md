@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/1/five-opposition-candidates-including-burundi-s-ex-rebel-leader-agathon-rwasa-withdraw-from-forthcoming-presidential-polls.html)  [JSON](/news/2010/06/1/five-opposition-candidates-including-burundi-s-ex-rebel-leader-agathon-rwasa-withdraw-from-forthcoming-presidential-polls.json)  [XML](/news/2010/06/1/five-opposition-candidates-including-burundi-s-ex-rebel-leader-agathon-rwasa-withdraw-from-forthcoming-presidential-polls.xml)  
+
 ### [2010-06-1](/news/2010/06/1/index.md)
 
+##### Burundi
 # Five opposition candidates, including Burundi's ex-rebel leader Agathon Rwasa, withdraw from forthcoming presidential polls. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10209175.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

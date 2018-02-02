@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/12/two-anti-government-protesters-are-killed-by-yemeni-security-forces.html)  [JSON](/news/2011/05/12/two-anti-government-protesters-are-killed-by-yemeni-security-forces.json)  [XML](/news/2011/05/12/two-anti-government-protesters-are-killed-by-yemeni-security-forces.xml)  
+
 ### [2011-05-12](/news/2011/05/12/index.md)
 
+##### 2011 Yemeni protests
 # Two anti-government protesters are killed by Yemeni security forces. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hfxY6hRFrFVK0lqBkR2XZnjVaUUA?docId=016132710b6f4d7ca631e4dc23a4c15c)
 

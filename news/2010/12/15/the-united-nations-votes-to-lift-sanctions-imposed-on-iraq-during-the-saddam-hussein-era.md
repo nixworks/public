@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/15/the-united-nations-votes-to-lift-sanctions-imposed-on-iraq-during-the-saddam-hussein-era.html)  [JSON](/news/2010/12/15/the-united-nations-votes-to-lift-sanctions-imposed-on-iraq-during-the-saddam-hussein-era.json)  [XML](/news/2010/12/15/the-united-nations-votes-to-lift-sanctions-imposed-on-iraq-during-the-saddam-hussein-era.xml)  
+
 ### [2010-12-15](/news/2010/12/15/index.md)
 
+##### United Nations
 # The United Nations votes to lift sanctions imposed on Iraq during the Saddam Hussein era. 
 
 The UN Security Council lifts most international sanctions imposed on Iraq during the Saddam Hussein era, citing progress made in the country.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12004115)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

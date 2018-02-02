@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/25/an-alert-is-issued-after-the-copahue-stratovolcano-located-on-the-border-between-argentina-and-chile-begins-spewing-ash.html)  [JSON](/news/2012/12/25/an-alert-is-issued-after-the-copahue-stratovolcano-located-on-the-border-between-argentina-and-chile-begins-spewing-ash.json)  [XML](/news/2012/12/25/an-alert-is-issued-after-the-copahue-stratovolcano-located-on-the-border-between-argentina-and-chile-begins-spewing-ash.xml)  
+
 ### [2012-12-25](/news/2012/12/25/index.md)
 
+##### Copahue
 # An alert is issued after the Copahue stratovolcano, located on the border between Argentina and Chile, begins spewing ash. 
 
 Low-level alert issued after Copahue Volcano began spewing ash, but officials say no need yet to evacuate people.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/12/2012122384619614833.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/12/23/2012122384852444734_20.jpg)

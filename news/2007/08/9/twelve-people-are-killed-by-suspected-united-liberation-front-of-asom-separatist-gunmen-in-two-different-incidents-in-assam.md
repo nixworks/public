@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/08/9/twelve-people-are-killed-by-suspected-united-liberation-front-of-asom-separatist-gunmen-in-two-different-incidents-in-assam.html)  [JSON](/news/2007/08/9/twelve-people-are-killed-by-suspected-united-liberation-front-of-asom-separatist-gunmen-in-two-different-incidents-in-assam.json)  [XML](/news/2007/08/9/twelve-people-are-killed-by-suspected-united-liberation-front-of-asom-separatist-gunmen-in-two-different-incidents-in-assam.xml)  
+
 ### [2007-08-9](/news/2007/08/9/index.md)
 
+##### United Liberation Front of Asom
 #  Twelve people are killed by suspected United Liberation Front of Asom separatist gunmen in two different incidents in Assam. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Forbes](http://www.forbes.com/feeds/ap/2007/08/09/ap4002232.html)
+1. [AP via Forbes](https://www.forbes.com/feeds/ap/2007/08/09/ap4002232.html)
 
 ### Related:
 

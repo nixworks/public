@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/8/ethiopian-general-elections-at-least-22-ethiopians-are-killed-at-demonstrations-in-addis-ababa-between-police-and-students-who-accuse-the.html)  [JSON](/news/2005/06/8/ethiopian-general-elections-at-least-22-ethiopians-are-killed-at-demonstrations-in-addis-ababa-between-police-and-students-who-accuse-the.json)  [XML](/news/2005/06/8/ethiopian-general-elections-at-least-22-ethiopians-are-killed-at-demonstrations-in-addis-ababa-between-police-and-students-who-accuse-the.xml)  
+
 ### [2005-06-8](/news/2005/06/8/index.md)
 
+##### 2005 elections
 #  Ethiopian general elections: At least 22 Ethiopians are killed at demonstrations in Addis Ababa between police and students who accuse the ruling party of fraud in last month's general elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-5060121,00.html)
 2. [News 24, South Africa](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1718079,00.html)

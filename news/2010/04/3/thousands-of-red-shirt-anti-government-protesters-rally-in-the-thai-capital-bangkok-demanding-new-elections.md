@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/3/thousands-of-red-shirt-anti-government-protesters-rally-in-the-thai-capital-bangkok-demanding-new-elections.html)  [JSON](/news/2010/04/3/thousands-of-red-shirt-anti-government-protesters-rally-in-the-thai-capital-bangkok-demanding-new-elections.json)  [XML](/news/2010/04/3/thousands-of-red-shirt-anti-government-protesters-rally-in-the-thai-capital-bangkok-demanding-new-elections.xml)  
+
 ### [2010-04-3](/news/2010/04/3/index.md)
 
+##### red shirt
 # Thousands of "red shirt" anti-government protesters rally in the Thai capital Bangkok demanding new elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/world/story/2010/04/03/thailand-protest.html)
 2. [Thai News Agency](http://www.mcot.net/content/40446)

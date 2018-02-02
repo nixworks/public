@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/1/palestinian-militants-in-the-gaza-strip-fire-four-rockets-and-sixteen-mortar-shells-into-israel-s-negev-region.html)  [JSON](/news/2009/02/1/palestinian-militants-in-the-gaza-strip-fire-four-rockets-and-sixteen-mortar-shells-into-israel-s-negev-region.json)  [XML](/news/2009/02/1/palestinian-militants-in-the-gaza-strip-fire-four-rockets-and-sixteen-mortar-shells-into-israel-s-negev-region.xml)  
+
 ### [2009-02-1](/news/2009/02/1/index.md)
 
+##### Palestinian
 #  Palestinian militants in the Gaza Strip fire four rockets and sixteen mortar shells into Israel's Negev region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/hasen/spages/1060562.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/13/cambodia-detains-a-thai-man-on-charges-of-spying-for-thailand.html)  [JSON](/news/2009/11/13/cambodia-detains-a-thai-man-on-charges-of-spying-for-thailand.json)  [XML](/news/2009/11/13/cambodia-detains-a-thai-man-on-charges-of-spying-for-thailand.xml)  
+
 ### [2009-11-13](/news/2009/11/13/index.md)
 
+##### Cambodia
 #  Cambodia detains a Thai man on charges of spying for Thailand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/local/27395/no-overflight-for-thaksin-jet-thai-on-spy-charge)
 2. [Sina](http://english.sina.com/world/p/2009/1112/285135.html)

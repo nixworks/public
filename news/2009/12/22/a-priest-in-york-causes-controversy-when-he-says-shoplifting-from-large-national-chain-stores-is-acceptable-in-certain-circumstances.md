@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/22/a-priest-in-york-causes-controversy-when-he-says-shoplifting-from-large-national-chain-stores-is-acceptable-in-certain-circumstances.html)  [JSON](/news/2009/12/22/a-priest-in-york-causes-controversy-when-he-says-shoplifting-from-large-national-chain-stores-is-acceptable-in-certain-circumstances.json)  [XML](/news/2009/12/22/a-priest-in-york-causes-controversy-when-he-says-shoplifting-from-large-national-chain-stores-is-acceptable-in-certain-circumstances.xml)  
+
 ### [2009-12-22](/news/2009/12/22/index.md)
 
+##### York
 #  A priest in York causes controversy when he says shoplifting from large national chain stores is acceptable in certain circumstances. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1222/breaking76.htm)
 1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)

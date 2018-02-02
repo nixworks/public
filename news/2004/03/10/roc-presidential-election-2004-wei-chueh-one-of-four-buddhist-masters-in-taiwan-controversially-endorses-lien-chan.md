@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/10/roc-presidential-election-2004-wei-chueh-one-of-four-buddhist-masters-in-taiwan-controversially-endorses-lien-chan.html)  [JSON](/news/2004/03/10/roc-presidential-election-2004-wei-chueh-one-of-four-buddhist-masters-in-taiwan-controversially-endorses-lien-chan.json)  [XML](/news/2004/03/10/roc-presidential-election-2004-wei-chueh-one-of-four-buddhist-masters-in-taiwan-controversially-endorses-lien-chan.xml)  
+
 ### [2004-03-10](/news/2004/03/10/index.md)
 
+##### 2004 presidential election
 #  ROC presidential election, 2004: Wei Chueh, one of four Buddhist masters in Taiwan, controversially endorses Lien Chan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/3500442.stm)
 

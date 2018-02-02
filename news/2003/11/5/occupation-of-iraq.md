@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/5/occupation-of-iraq.html)  [JSON](/news/2003/11/5/occupation-of-iraq.json)  [XML](/news/2003/11/5/occupation-of-iraq.xml)  
+
 ### [2003-11-5](/news/2003/11/5/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq:
 
 

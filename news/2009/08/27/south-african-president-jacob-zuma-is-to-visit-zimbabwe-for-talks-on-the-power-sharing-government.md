@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/27/south-african-president-jacob-zuma-is-to-visit-zimbabwe-for-talks-on-the-power-sharing-government.html)  [JSON](/news/2009/08/27/south-african-president-jacob-zuma-is-to-visit-zimbabwe-for-talks-on-the-power-sharing-government.json)  [XML](/news/2009/08/27/south-african-president-jacob-zuma-is-to-visit-zimbabwe-for-talks-on-the-power-sharing-government.xml)  
+
 ### [2009-08-27](/news/2009/08/27/index.md)
 
+##### South Africa
 #  South African President Jacob Zuma is to visit Zimbabwe for talks on the power-sharing government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jTuJocM3ui9CS-6l152Du5oVYHig)
 2. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090826223244196C517484)

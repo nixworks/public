@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/20/sony-announces-their-eighth-generation-console-the-playstation-4.html)  [JSON](/news/2013/02/20/sony-announces-their-eighth-generation-console-the-playstation-4.json)  [XML](/news/2013/02/20/sony-announces-their-eighth-generation-console-the-playstation-4.xml)  
+
 ### [2013-02-20](/news/2013/02/20/index.md)
 
+##### Sony
 # Sony announces their eighth generation console, the PlayStation 4. 
 
 Sony announces the fourth generation of its PlayStation games console featuring a new controller and a &quot;supercharged&quot; processor.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/technology-21526450)
 2. [IGN](http://www.ign.com/articles/2013/02/20/playstation-4-revealed)

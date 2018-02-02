@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/12/29/mount-cleveland-a-volcano-in-the-u-s-state-of-alaska-erupts-causing-an-air-traffic-alert-to-be-issued.html)  [JSON](/news/2011/12/29/mount-cleveland-a-volcano-in-the-u-s-state-of-alaska-erupts-causing-an-air-traffic-alert-to-be-issued.json)  [XML](/news/2011/12/29/mount-cleveland-a-volcano-in-the-u-s-state-of-alaska-erupts-causing-an-air-traffic-alert-to-be-issued.xml)  
+
 ### [2011-12-29](/news/2011/12/29/index.md)
 
+##### Mount Cleveland
 # Mount Cleveland, a volcano in the U.S. state of Alaska, erupts, causing an air traffic alert to be issued. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/12/30/us-volcano-alaska-alert-idUSTRE7BS1BG20111230)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111229&t=2&i=552537724&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BS1UIZ00)
+1. [Reuters](https://www.reuters.com/article/2011/12/30/us-volcano-alaska-alert-idUSTRE7BS1BG20111230)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111229&t=2&i=552537724&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BS1UIZ00)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/16/italian-astronaut-luca-parmitano-almost-drowns-while-undertaking-a-spacewalk-on-the-international-space-station.html)  [JSON](/news/2013/07/16/italian-astronaut-luca-parmitano-almost-drowns-while-undertaking-a-spacewalk-on-the-international-space-station.json)  [XML](/news/2013/07/16/italian-astronaut-luca-parmitano-almost-drowns-while-undertaking-a-spacewalk-on-the-international-space-station.xml)  
+
 ### [2013-07-16](/news/2013/07/16/index.md)
 
+##### Italian
 # Italian astronaut Luca Parmitano almost drowns while undertaking a spacewalk on the International Space Station. 
 
 Water accumulated inside astronaut Luca Parmitano&rsquo;s helmet this morning during a spacewalk at the International Space Station, causing Mission Control to abort the walk.
 
 
-### Source:
+### Sources:
 
 1. [ABC News America](http://abcnews.go.com/Technology/spacewalk-aborted-water-leak-found-astronaut-helmet/story?id=19678504)
 1. [Cover Image](http://a.abcnews.com/images/Technology/HT_spacewalk_nasa_jef_130716_16x9_992.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/1/ireland-s-government-agrees-to-bank-bailout-number-five-valued-at-a-24-billion-and-does-not-force-senior-bondholders-into-burden-sharing.html)  [JSON](/news/2011/04/1/ireland-s-government-agrees-to-bank-bailout-number-five-valued-at-a-24-billion-and-does-not-force-senior-bondholders-into-burden-sharing.json)  [XML](/news/2011/04/1/ireland-s-government-agrees-to-bank-bailout-number-five-valued-at-a-24-billion-and-does-not-force-senior-bondholders-into-burden-sharing.xml)  
+
 ### [2011-04-1](/news/2011/04/1/index.md)
 
+##### 
 # Ireland's government agrees to bank bailout number five, valued at EUR24 billion, and does not force senior bondholders into burden-sharing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0401/breaking1.html)
 1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)

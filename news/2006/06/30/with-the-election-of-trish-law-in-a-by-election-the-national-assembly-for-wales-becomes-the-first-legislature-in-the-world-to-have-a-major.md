@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/30/with-the-election-of-trish-law-in-a-by-election-the-national-assembly-for-wales-becomes-the-first-legislature-in-the-world-to-have-a-major.html)  [JSON](/news/2006/06/30/with-the-election-of-trish-law-in-a-by-election-the-national-assembly-for-wales-becomes-the-first-legislature-in-the-world-to-have-a-major.json)  [XML](/news/2006/06/30/with-the-election-of-trish-law-in-a-by-election-the-national-assembly-for-wales-becomes-the-first-legislature-in-the-world-to-have-a-major.xml)  
+
 ### [2006-06-30](/news/2006/06/30/index.md)
 
+##### Trish Law
 #  With the election of Trish Law in a by-election, the National Assembly for Wales becomes the first legislature in the world to have a majority of female members. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/wales/5127262.stm)
 

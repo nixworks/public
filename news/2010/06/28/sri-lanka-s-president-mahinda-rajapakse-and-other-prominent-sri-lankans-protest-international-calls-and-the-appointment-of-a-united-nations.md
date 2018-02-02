@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/28/sri-lanka-s-president-mahinda-rajapakse-and-other-prominent-sri-lankans-protest-international-calls-and-the-appointment-of-a-united-nations.html)  [JSON](/news/2010/06/28/sri-lanka-s-president-mahinda-rajapakse-and-other-prominent-sri-lankans-protest-international-calls-and-the-appointment-of-a-united-nations.json)  [XML](/news/2010/06/28/sri-lanka-s-president-mahinda-rajapakse-and-other-prominent-sri-lankans-protest-international-calls-and-the-appointment-of-a-united-nations.xml)  
+
 ### [2010-06-28](/news/2010/06/28/index.md)
 
+##### Sri Lanka
 # Sri Lanka's President Mahinda Rajapakse and other prominent Sri Lankans protest international calls and the appointment of a United Nations panel to investigate war crimes allegedly committed during the country's civil war with the Tamil Tiger separatists. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j60GBQM_ZjGIFK-M9B2PQotG-44w)
 2. [Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5jVFylRn08FMaluU80i8XBc2k9HIA)

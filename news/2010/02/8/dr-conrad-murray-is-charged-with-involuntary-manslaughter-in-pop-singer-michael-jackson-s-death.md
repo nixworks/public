@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/8/dr-conrad-murray-is-charged-with-involuntary-manslaughter-in-pop-singer-michael-jackson-s-death.html)  [JSON](/news/2010/02/8/dr-conrad-murray-is-charged-with-involuntary-manslaughter-in-pop-singer-michael-jackson-s-death.json)  [XML](/news/2010/02/8/dr-conrad-murray-is-charged-with-involuntary-manslaughter-in-pop-singer-michael-jackson-s-death.xml)  
+
 ### [2010-02-8](/news/2010/02/8/index.md)
 
+##### Conrad Murray
 # Dr. Conrad Murray is charged with involuntary manslaughter in pop singer Michael Jackson's death.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8499143.stm)
 

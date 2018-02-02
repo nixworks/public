@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/4/namibian-incumbent-president-hifikepunye-pohamba-is-reelected-along-with-the-ruling-swapo-party-after-elections-last-week.html)  [JSON](/news/2009/12/4/namibian-incumbent-president-hifikepunye-pohamba-is-reelected-along-with-the-ruling-swapo-party-after-elections-last-week.json)  [XML](/news/2009/12/4/namibian-incumbent-president-hifikepunye-pohamba-is-reelected-along-with-the-ruling-swapo-party-after-elections-last-week.xml)  
+
 ### [2009-12-4](/news/2009/12/4/index.md)
 
+##### Namibia
 #  Namibian incumbent President Hifikepunye Pohamba is reelected along with the ruling SWAPO party after elections last week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jf-SLYoIxKcqD6iMeNdFdGpnxnNQ)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/12/2009124204554749292.html)

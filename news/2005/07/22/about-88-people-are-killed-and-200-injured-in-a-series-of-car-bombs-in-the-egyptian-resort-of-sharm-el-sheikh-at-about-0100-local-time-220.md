@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/22/about-88-people-are-killed-and-200-injured-in-a-series-of-car-bombs-in-the-egyptian-resort-of-sharm-el-sheikh-at-about-0100-local-time-220.html)  [JSON](/news/2005/07/22/about-88-people-are-killed-and-200-injured-in-a-series-of-car-bombs-in-the-egyptian-resort-of-sharm-el-sheikh-at-about-0100-local-time-220.json)  [XML](/news/2005/07/22/about-88-people-are-killed-and-200-injured-in-a-series-of-car-bombs-in-the-egyptian-resort-of-sharm-el-sheikh-at-about-0100-local-time-220.xml)  
+
 ### [2005-07-22](/news/2005/07/22/index.md)
 
+##### series of car bombs
 #  About 88 people are killed and 200 injured in a series of car bombs in the Egyptian resort of Sharm el-Sheikh at about 0100 local time (2200 UTC Friday). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4709491.stm)
 

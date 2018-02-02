@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/14/kenyan-president-mwai-kibaki-undoes-the-suspensions-for-fraud-of-the-agriculture-and-education-ministers-handed-out-by-his-prime-minister.html)  [JSON](/news/2010/02/14/kenyan-president-mwai-kibaki-undoes-the-suspensions-for-fraud-of-the-agriculture-and-education-ministers-handed-out-by-his-prime-minister.json)  [XML](/news/2010/02/14/kenyan-president-mwai-kibaki-undoes-the-suspensions-for-fraud-of-the-agriculture-and-education-ministers-handed-out-by-his-prime-minister.xml)  
+
 ### [2010-02-14](/news/2010/02/14/index.md)
 
+##### Kenya
 # Kenyan President Mwai Kibaki undoes the suspensions for fraud of the agriculture and education ministers handed out by his Prime Minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8515516.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/23/china-relaxes-travel-curbs-for-guangdong-residents-visiting-macau.html)  [JSON](/news/2009/09/23/china-relaxes-travel-curbs-for-guangdong-residents-visiting-macau.json)  [XML](/news/2009/09/23/china-relaxes-travel-curbs-for-guangdong-residents-visiting-macau.xml)  
+
 ### [2009-09-23](/news/2009/09/23/index.md)
 
+##### China
 #  China relaxes travel curbs for Guangdong residents visiting Macau. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_433476.html)
 

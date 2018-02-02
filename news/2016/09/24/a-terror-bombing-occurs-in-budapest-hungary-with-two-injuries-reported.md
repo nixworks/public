@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/24/a-terror-bombing-occurs-in-budapest-hungary-wit
 
 ### [2016-09-24](/news/2016/09/24/index.md)
 
+##### occurs
 # A terror bombing occurs in Budapest, Hungary, with two injuries reported. 
 
 HUNGARIAN police are hunting a man they believed plotted a cold blooded terror attack after a massive explosion seriously injured two officers in the capital Budapest on Saturday.

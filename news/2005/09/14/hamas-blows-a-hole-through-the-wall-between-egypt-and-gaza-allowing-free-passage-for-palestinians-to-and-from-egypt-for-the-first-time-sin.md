@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/14/hamas-blows-a-hole-through-the-wall-between-egypt-and-gaza-allowing-free-passage-for-palestinians-to-and-from-egypt-for-the-first-time-sin.html)  [JSON](/news/2005/09/14/hamas-blows-a-hole-through-the-wall-between-egypt-and-gaza-allowing-free-passage-for-palestinians-to-and-from-egypt-for-the-first-time-sin.json)  [XML](/news/2005/09/14/hamas-blows-a-hole-through-the-wall-between-egypt-and-gaza-allowing-free-passage-for-palestinians-to-and-from-egypt-for-the-first-time-sin.xml)  
+
 ### [2005-09-14](/news/2005/09/14/index.md)
 
+##### Hamas
 #  Hamas blows a hole through the wall between Egypt and Gaza, allowing free passage for Palestinians to and from Egypt for the first time since 1967. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4244730.stm)
 

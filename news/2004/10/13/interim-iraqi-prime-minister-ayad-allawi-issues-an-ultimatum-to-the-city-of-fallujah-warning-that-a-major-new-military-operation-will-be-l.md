@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2004/10/13/interim-iraqi-prime-minister-ayad-allawi-issues-an-ultimatum-to-the-city-of-fallujah-warning-that-a-major-new-military-operation-will-be-l.html)  [JSON](/news/2004/10/13/interim-iraqi-prime-minister-ayad-allawi-issues-an-ultimatum-to-the-city-of-fallujah-warning-that-a-major-new-military-operation-will-be-l.json)  [XML](/news/2004/10/13/interim-iraqi-prime-minister-ayad-allawi-issues-an-ultimatum-to-the-city-of-fallujah-warning-that-a-major-new-military-operation-will-be-l.xml)  
+
 ### [2004-10-13](/news/2004/10/13/index.md)
 
+##### Ayad Allawi
 #  Interim Iraqi Prime Minister Ayad Allawi issues an ultimatum to the city of Fallujah, warning that a major new military operation will be launched if all foreign militants are not expelled from the city. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
+Local insurgents in the city of Fallujah are turning against the foreign fighters who have been their allies in the rebellion that has held the U.S. military at bay in parts of Iraq&#39;s Sunni Muslim heartland, according to Fallujah residents, insurgent leaders and Iraqi and U.S. officials. 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://msnbc.msn.com/id/6229305/)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6489817)
-2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6489817)
+2. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Photos/041012/041014_wp_fallujah_hlg10p.standard.jpg)
 
 ### Related:
 

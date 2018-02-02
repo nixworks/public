@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/23/former-presenter-andrea-tantaros-sues-fox-news-
 
 ### [2016-08-23](/news/2016/08/23/index.md)
 
+##### Andrea Tantaros
 # Former presenter Andrea Tantaros sues Fox News by accusing the network of being a "sex-fueled, Playboy Mansion-like cult." 
 
 Like Gretchen Carlson, she claims the ex-chairman harassed her.

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/05/25/in-bolivia-commander-in-chief-of-bolivian-army-luis-aranda-refutes-claims-that-military-is-planning-a-coup.html)  [JSON](/news/2005/05/25/in-bolivia-commander-in-chief-of-bolivian-army-luis-aranda-refutes-claims-that-military-is-planning-a-coup.json)  [XML](/news/2005/05/25/in-bolivia-commander-in-chief-of-bolivian-army-luis-aranda-refutes-claims-that-military-is-planning-a-coup.xml)  
+
 ### [2005-05-25](/news/2005/05/25/index.md)
 
+##### Bolivia
 #  In Bolivia, Commander-in-chief of Bolivian army, Luis Aranda, refutes claims that military is planning a coup. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4581453.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=am_.WQzl3fgg&refer=latin_america)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000086&sid=am_.WQzl3fgg&refer=latin_america)
 3. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N25404566.htm)
 
 ### Related:

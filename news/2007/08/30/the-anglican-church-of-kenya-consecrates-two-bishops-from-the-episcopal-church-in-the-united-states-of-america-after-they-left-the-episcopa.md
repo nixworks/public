@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/30/the-anglican-church-of-kenya-consecrates-two-bishops-from-the-episcopal-church-in-the-united-states-of-america-after-they-left-the-episcopa.html)  [JSON](/news/2007/08/30/the-anglican-church-of-kenya-consecrates-two-bishops-from-the-episcopal-church-in-the-united-states-of-america-after-they-left-the-episcopa.json)  [XML](/news/2007/08/30/the-anglican-church-of-kenya-consecrates-two-bishops-from-the-episcopal-church-in-the-united-states-of-america-after-they-left-the-episcopa.xml)  
+
 ### [2007-08-30](/news/2007/08/30/index.md)
 
+##### Anglican Church of Kenya
 #  The Anglican Church of Kenya consecrates two bishops from the Episcopal Church in the United States of America after they left the Episcopal Church due to concerns that the Church was consecrating gay bishops. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/6970093.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/21/after-two-years-on-the-run-mexican-officials-ar
 
 ### [2016-10-21](/news/2016/10/21/index.md)
 
+##### 2014 Iguala mass kidnapping
 # After two years on the run, Mexican officials arrest the former police chief of a Mexican city, Felipe Flores, capturing him in Iguala in the southern state of Guerrero. The city is where 43 students disappeared in September 2014. The police arrested the students and then handed them over to a drug cartel who killed them and incinerated their bodies. 
 
 The former police chief of the Mexican city where 43 students disappeared in September 2014 has been detained after two years in the run, officials say.

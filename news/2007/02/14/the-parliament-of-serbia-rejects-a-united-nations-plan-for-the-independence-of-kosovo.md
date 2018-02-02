@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/14/the-parliament-of-serbia-rejects-a-united-nations-plan-for-the-independence-of-kosovo.html)  [JSON](/news/2007/02/14/the-parliament-of-serbia-rejects-a-united-nations-plan-for-the-independence-of-kosovo.json)  [XML](/news/2007/02/14/the-parliament-of-serbia-rejects-a-united-nations-plan-for-the-independence-of-kosovo.xml)  
+
 ### [2007-02-14](/news/2007/02/14/index.md)
 
+##### Parliament of Serbia
 #  The Parliament of Serbia rejects a United Nations plan for the independence of Kosovo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6363419.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/12/united-nations-official-peter-mackay-is-revealed-to-have-been-expelled-from-sri-lanka-for-challenging-government-assertions-at-the-end-of-t.html)  [JSON](/news/2009/09/12/united-nations-official-peter-mackay-is-revealed-to-have-been-expelled-from-sri-lanka-for-challenging-government-assertions-at-the-end-of-t.json)  [XML](/news/2009/09/12/united-nations-official-peter-mackay-is-revealed-to-have-been-expelled-from-sri-lanka-for-challenging-government-assertions-at-the-end-of-t.xml)  
+
 ### [2009-09-12](/news/2009/09/12/index.md)
 
+##### United Nations
 #  United Nations official Peter Mackay is revealed to have been expelled from Sri Lanka for challenging government assertions at the end of the civil war. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2009/sep/11/sri-lanka-tamil-tigers-un)
 

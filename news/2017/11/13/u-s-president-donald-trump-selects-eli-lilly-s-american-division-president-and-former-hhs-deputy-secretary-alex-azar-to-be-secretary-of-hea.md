@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/13/u-s-president-donald-trump-selects-eli-lilly-s-
 
 ### [2017-11-13](/news/2017/11/13/index.md)
 
+##### Cabinet of Donald Trump
 # U.S. President Donald Trump selects Eli Lilly's American division president and former HHS deputy secretary Alex Azar to be Secretary of Health and Human Services, replacing Tom Price who resigned on September 29. 
 
 
@@ -19,4 +20,4 @@ Formats: [HTML](/news/2017/11/13/u-s-president-donald-trump-selects-eli-lilly-s-
 2. [President-elect Donald Trump names Tom Price as United States Secretary of Health and Human Services; former President George W. Bush Administration official and wife of Mitch McConnell Elaine Chao as United States Secretary of Transportation; ](/news/2016/11/29/president-elect-donald-trump-names-tom-price-as-united-states-secretary-of-health-and-human-services-former-president-george-w-bush-admini.md) _Context: Donald Trump, Secretary of Health and Human Services, Tom Price_
 3. [Democratic candidates face off with Republican candidates in a primary for a U.S. House seat vacated by Tom Price, now Health and Human Services Secretary, in a suburb of Atlanta, Georgia. ](/news/2017/04/18/democratic-candidates-face-off-with-republican-candidates-in-a-primary-for-a-u-s-house-seat-vacated-by-tom-price-now-health-and-human-serv.md) _Context: Secretary of Health and Human Services, Tom Price_
 4. [The U.S. Senate confirms the first two members of President Donald Trump's Cabinet: retired Marine General James Mattis as Secretary of Defense, and retired Marine general John F. Kelly as Secretary of Homeland Security. ](/news/2017/01/20/the-u-s-senate-confirms-the-first-two-members-of-president-donald-trump-s-cabinet-retired-marine-general-james-mattis-as-secretary-of-defe.md) _Context: Cabinet of Donald Trump, Donald Trump_
-5. [Donald Trump approves California's request for an emergency declaration, allowing the Federal Emergency Management Agency to coordinate disaster relief efforts across five Southern California counties. ](/news/2017/12/8/donald-trump-approves-california-s-request-for-an-emergency-declaration-allowing-the-federal-emergency-management-agency-to-coordinate-disa.md) _Context: Donald Trump_
+5. [Steve Bannon steps down as executive chairman of Breitbart News amid a dispute with U.S. President Donald Trump over comments he made about the Trump family in Michael Wolff's "Fire and Fury". ](/news/2018/01/9/steve-bannon-steps-down-as-executive-chairman-of-breitbart-news-amid-a-dispute-with-u-s-president-donald-trump-over-comments-he-made-about.md) _Context: Donald Trump_

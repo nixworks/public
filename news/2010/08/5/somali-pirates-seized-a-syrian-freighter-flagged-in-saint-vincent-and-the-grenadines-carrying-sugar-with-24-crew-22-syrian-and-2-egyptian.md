@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/5/somali-pirates-seized-a-syrian-freighter-flagged-in-saint-vincent-and-the-grenadines-carrying-sugar-with-24-crew-22-syrian-and-2-egyptian.html)  [JSON](/news/2010/08/5/somali-pirates-seized-a-syrian-freighter-flagged-in-saint-vincent-and-the-grenadines-carrying-sugar-with-24-crew-22-syrian-and-2-egyptian.json)  [XML](/news/2010/08/5/somali-pirates-seized-a-syrian-freighter-flagged-in-saint-vincent-and-the-grenadines-carrying-sugar-with-24-crew-22-syrian-and-2-egyptian.xml)  
+
 ### [2010-08-5](/news/2010/08/5/index.md)
 
+##### Somali pirates
 # Somali pirates seized a Syrian freighter flagged in Saint Vincent and the Grenadines carrying sugar with 24 crew (22 Syrian and 2 Egyptian) in the Gulf of Aden. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g1vYetudyRcjbn9QH9Gks3EKWKiQ)
 

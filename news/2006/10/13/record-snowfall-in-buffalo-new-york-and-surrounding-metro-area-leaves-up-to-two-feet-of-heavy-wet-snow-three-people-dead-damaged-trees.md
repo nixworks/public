@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/10/13/record-snowfall-in-buffalo-new-york-and-surrounding-metro-area-leaves-up-to-two-feet-of-heavy-wet-snow-three-people-dead-damaged-trees.html)  [JSON](/news/2006/10/13/record-snowfall-in-buffalo-new-york-and-surrounding-metro-area-leaves-up-to-two-feet-of-heavy-wet-snow-three-people-dead-damaged-trees.json)  [XML](/news/2006/10/13/record-snowfall-in-buffalo-new-york-and-surrounding-metro-area-leaves-up-to-two-feet-of-heavy-wet-snow-three-people-dead-damaged-trees.xml)  
+
 ### [2006-10-13](/news/2006/10/13/index.md)
 
+##### Buffalo
 #  Record Snowfall in Buffalo, New York and surrounding metro area leaves up to two feet of heavy wet snow, three people dead, damaged trees, and over 400,000 residents without power. [http:--www.buffalonews.com]
 
 

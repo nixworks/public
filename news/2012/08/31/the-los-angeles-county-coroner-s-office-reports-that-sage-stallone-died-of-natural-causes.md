@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/31/the-los-angeles-county-coroner-s-office-reports-that-sage-stallone-died-of-natural-causes.html)  [JSON](/news/2012/08/31/the-los-angeles-county-coroner-s-office-reports-that-sage-stallone-died-of-natural-causes.json)  [XML](/news/2012/08/31/the-los-angeles-county-coroner-s-office-reports-that-sage-stallone-died-of-natural-causes.xml)  
+
 ### [2012-08-31](/news/2012/08/31/index.md)
 
+##### Los Angeles County Coroner's Office
 # The Los Angeles County Coroner's Office reports that Sage Stallone died of natural causes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-19433768)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/62594000/jpg/_62594033_62594030.jpg)

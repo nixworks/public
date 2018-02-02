@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/07/29/association-of-south-east-asian-nations-foreign-ministers-adopt-a-plan-to-strengthen-the-south-east-asian-nuclear-weapons-free-zone.html)  [JSON](/news/2007/07/29/association-of-south-east-asian-nations-foreign-ministers-adopt-a-plan-to-strengthen-the-south-east-asian-nuclear-weapons-free-zone.json)  [XML](/news/2007/07/29/association-of-south-east-asian-nations-foreign-ministers-adopt-a-plan-to-strengthen-the-south-east-asian-nuclear-weapons-free-zone.xml)  
+
 ### [2007-07-29](/news/2007/07/29/index.md)
 
+##### Association of South East Asian Nations
 #  Association of South East Asian Nations foreign ministers adopt a plan to strengthen the South East Asian Nuclear Weapons Free Zone. 
 
 Foreign ministers from Southeast Asia are due to adopt a five-year work plan on Sunday to strengthen the implementation of a treaty banning nuclear weapons in the region, a Philippine diplomat said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/newsOne/idUSMAN26683520070729)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/newsOne/idUSMAN26683520070729)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

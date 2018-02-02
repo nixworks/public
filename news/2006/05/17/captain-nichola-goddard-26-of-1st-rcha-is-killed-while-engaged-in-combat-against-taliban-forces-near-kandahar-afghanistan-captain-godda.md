@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/17/captain-nichola-goddard-26-of-1st-rcha-is-killed-while-engaged-in-combat-against-taliban-forces-near-kandahar-afghanistan-captain-godda.html)  [JSON](/news/2006/05/17/captain-nichola-goddard-26-of-1st-rcha-is-killed-while-engaged-in-combat-against-taliban-forces-near-kandahar-afghanistan-captain-godda.json)  [XML](/news/2006/05/17/captain-nichola-goddard-26-of-1st-rcha-is-killed-while-engaged-in-combat-against-taliban-forces-near-kandahar-afghanistan-captain-godda.xml)  
+
 ### [2006-05-17](/news/2006/05/17/index.md)
 
+##### Nichola Goddard
 #  Captain Nichola Goddard, 26, of 1st RCHA is killed while engaged in combat against Taliban forces near Kandahar, Afghanistan. Captain Goddard is Canada's first female casualty since World War 2, and Canada's first female combat arms casualty. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4992116.stm)
 

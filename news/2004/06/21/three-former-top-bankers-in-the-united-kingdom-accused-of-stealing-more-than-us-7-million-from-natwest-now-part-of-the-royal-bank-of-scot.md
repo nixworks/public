@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/06/21/three-former-top-bankers-in-the-united-kingdom-accused-of-stealing-more-than-us-7-million-from-natwest-now-part-of-the-royal-bank-of-scot.html)  [JSON](/news/2004/06/21/three-former-top-bankers-in-the-united-kingdom-accused-of-stealing-more-than-us-7-million-from-natwest-now-part-of-the-royal-bank-of-scot.json)  [XML](/news/2004/06/21/three-former-top-bankers-in-the-united-kingdom-accused-of-stealing-more-than-us-7-million-from-natwest-now-part-of-the-royal-bank-of-scot.xml)  
+
 ### [2004-06-21](/news/2004/06/21/index.md)
 
+##### Royal Bank of Scotland
 #  Three former top bankers in the United Kingdom, accused of stealing more than US$7 million from NatWest (now part of the Royal Bank of Scotland) in a scheme that helped to bring about the collapse of Enron vowed to fight attempts to extradite them to the United States.
 
 

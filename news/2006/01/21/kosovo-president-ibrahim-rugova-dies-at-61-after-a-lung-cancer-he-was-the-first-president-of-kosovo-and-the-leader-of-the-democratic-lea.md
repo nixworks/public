@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/01/21/kosovo-president-ibrahim-rugova-dies-at-61-after-a-lung-cancer-he-was-the-first-president-of-kosovo-and-the-leader-of-the-democratic-lea.html)  [JSON](/news/2006/01/21/kosovo-president-ibrahim-rugova-dies-at-61-after-a-lung-cancer-he-was-the-first-president-of-kosovo-and-the-leader-of-the-democratic-lea.json)  [XML](/news/2006/01/21/kosovo-president-ibrahim-rugova-dies-at-61-after-a-lung-cancer-he-was-the-first-president-of-kosovo-and-the-leader-of-the-democratic-lea.xml)  
+
 ### [2006-01-21](/news/2006/01/21/index.md)
 
+##### Ibrahim Rugova
 #  Kosovo President Ibrahim Rugova dies at 61, after a lung cancer. He was the first President of Kosovo, and the leader of the Democratic League of Kosovo (LDK).
 
 

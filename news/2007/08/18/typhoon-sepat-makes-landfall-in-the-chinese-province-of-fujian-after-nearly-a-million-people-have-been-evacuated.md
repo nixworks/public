@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/18/typhoon-sepat-makes-landfall-in-the-chinese-province-of-fujian-after-nearly-a-million-people-have-been-evacuated.html)  [JSON](/news/2007/08/18/typhoon-sepat-makes-landfall-in-the-chinese-province-of-fujian-after-nearly-a-million-people-have-been-evacuated.json)  [XML](/news/2007/08/18/typhoon-sepat-makes-landfall-in-the-chinese-province-of-fujian-after-nearly-a-million-people-have-been-evacuated.xml)  
+
 ### [2007-08-18](/news/2007/08/18/index.md)
 
+##### Typhoon Sepat
 #  Typhoon Sepat makes landfall in the Chinese province of Fujian after nearly a million people have been evacuated. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2007-08/19/content_6561419.htm)
 

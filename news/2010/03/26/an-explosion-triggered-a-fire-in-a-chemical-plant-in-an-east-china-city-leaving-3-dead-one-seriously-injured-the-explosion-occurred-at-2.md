@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/26/an-explosion-triggered-a-fire-in-a-chemical-plant-in-an-east-china-city-leaving-3-dead-one-seriously-injured-the-explosion-occurred-at-2.html)  [JSON](/news/2010/03/26/an-explosion-triggered-a-fire-in-a-chemical-plant-in-an-east-china-city-leaving-3-dead-one-seriously-injured-the-explosion-occurred-at-2.json)  [XML](/news/2010/03/26/an-explosion-triggered-a-fire-in-a-chemical-plant-in-an-east-china-city-leaving-3-dead-one-seriously-injured-the-explosion-occurred-at-2.xml)  
+
 ### [2010-03-26](/news/2010/03/26/index.md)
 
+##### east China
 # An explosion triggered a fire in a chemical plant in an east China city, leaving 3 dead, one seriously injured. The explosion occurred at 2:40 p.m. in Haiyi Specialty Chemicals Co., Ltd. in Qingdao, a coastal city in Shandong Province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sina](http://english.sina.com/china/p/2010/0326/311132.html)
 

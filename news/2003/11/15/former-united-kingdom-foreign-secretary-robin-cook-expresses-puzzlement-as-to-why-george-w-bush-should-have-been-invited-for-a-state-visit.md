@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/15/former-united-kingdom-foreign-secretary-robin-cook-expresses-puzzlement-as-to-why-george-w-bush-should-have-been-invited-for-a-state-visit.html)  [JSON](/news/2003/11/15/former-united-kingdom-foreign-secretary-robin-cook-expresses-puzzlement-as-to-why-george-w-bush-should-have-been-invited-for-a-state-visit.json)  [XML](/news/2003/11/15/former-united-kingdom-foreign-secretary-robin-cook-expresses-puzzlement-as-to-why-george-w-bush-should-have-been-invited-for-a-state-visit.xml)  
+
 ### [2003-11-15](/news/2003/11/15/index.md)
 
+##### Robin Cook
 #  Former United Kingdom Foreign Secretary Robin Cook expresses puzzlement as to why George W. Bush should have been invited for a state visit to the UK. Opinion polls suggest that 60% of the British people think President Bush is a threat to world peace.
 
 

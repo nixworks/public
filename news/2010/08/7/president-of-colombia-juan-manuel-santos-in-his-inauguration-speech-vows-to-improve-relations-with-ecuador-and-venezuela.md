@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/7/president-of-colombia-juan-manuel-santos-in-his-inauguration-speech-vows-to-improve-relations-with-ecuador-and-venezuela.html)  [JSON](/news/2010/08/7/president-of-colombia-juan-manuel-santos-in-his-inauguration-speech-vows-to-improve-relations-with-ecuador-and-venezuela.json)  [XML](/news/2010/08/7/president-of-colombia-juan-manuel-santos-in-his-inauguration-speech-vows-to-improve-relations-with-ecuador-and-venezuela.xml)  
+
 ### [2010-08-7](/news/2010/08/7/index.md)
 
+##### Colombian President
 # President of Colombia Juan Manuel Santos, in his inauguration speech, vows to improve relations with Ecuador and Venezuela. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/08/c_13435768.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/9/mohammad-baqer-qalibaf-is-re-elected-as-the-mayor-of-tehran-iran.html)  [JSON](/news/2007/05/9/mohammad-baqer-qalibaf-is-re-elected-as-the-mayor-of-tehran-iran.json)  [XML](/news/2007/05/9/mohammad-baqer-qalibaf-is-re-elected-as-the-mayor-of-tehran-iran.xml)  
+
 ### [2007-05-9](/news/2007/05/9/index.md)
 
+##### Mohammad Baqer Qalibaf
 #  Mohammad Baqer Qalibaf is re-elected as the Mayor of Tehran, Iran. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6640067.stm)
 

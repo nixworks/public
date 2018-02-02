@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/15/approximately-3000-coal-miners-working-for-bhp-billiton-in-the-australian-state-of-queensland-commence-a-week-long-strike.html)  [JSON](/news/2012/02/15/approximately-3000-coal-miners-working-for-bhp-billiton-in-the-australian-state-of-queensland-commence-a-week-long-strike.json)  [XML](/news/2012/02/15/approximately-3000-coal-miners-working-for-bhp-billiton-in-the-australian-state-of-queensland-commence-a-week-long-strike.xml)  
+
 ### [2012-02-15](/news/2012/02/15/index.md)
 
+##### coal miner
 # Approximately 3000 coal miners working for BHP Billiton in the Australian state of Queensland commence a week-long strike. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Business Day](http://www.businessday.com.au/business/3000-bhp-coalminers-walk-off-the-job-20120215-1t5aj.html)
 

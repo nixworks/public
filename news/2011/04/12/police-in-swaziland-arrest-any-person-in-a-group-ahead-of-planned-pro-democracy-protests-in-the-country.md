@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/12/police-in-swaziland-arrest-any-person-in-a-group-ahead-of-planned-pro-democracy-protests-in-the-country.html)  [JSON](/news/2011/04/12/police-in-swaziland-arrest-any-person-in-a-group-ahead-of-planned-pro-democracy-protests-in-the-country.json)  [XML](/news/2011/04/12/police-in-swaziland-arrest-any-person-in-a-group-ahead-of-planned-pro-democracy-protests-in-the-country.xml)  
+
 ### [2011-04-12](/news/2011/04/12/index.md)
 
+##### Swaziland
 # Police in Swaziland arrest any person in a group ahead of planned pro-democracy protests in the country. 
 
 Thirteen activists have been arrested on their way to Swaziland’s main city Manzini, where they planned to lead a banned march against King Mswati III, Africa’s last absolute monarch. 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13046740)
 2. [News24 South Africa](http://www.news24.com/Africa/News/13-Swazi-activists-held-ahead-of-protest-20110412)

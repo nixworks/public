@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/12/the-united-states-court-of-appeals-for-the-nint
 
 ### [2017-07-12](/news/2017/07/12/index.md)
 
+##### Monkey selfie
 # The United States Court of Appeals for the Ninth Circuit in San Francisco hears a case on whether or not a Celebes crested macaque owns its selfie. 
 
 A case between PETA and nature photographer David Slater and Blurb is now being discussed by a federal appeals court.

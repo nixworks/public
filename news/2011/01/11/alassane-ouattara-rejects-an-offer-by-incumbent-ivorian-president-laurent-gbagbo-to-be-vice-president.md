@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/11/alassane-ouattara-rejects-an-offer-by-incumbent-ivorian-president-laurent-gbagbo-to-be-vice-president.html)  [JSON](/news/2011/01/11/alassane-ouattara-rejects-an-offer-by-incumbent-ivorian-president-laurent-gbagbo-to-be-vice-president.json)  [XML](/news/2011/01/11/alassane-ouattara-rejects-an-offer-by-incumbent-ivorian-president-laurent-gbagbo-to-be-vice-president.xml)  
+
 ### [2011-01-11](/news/2011/01/11/index.md)
 
+##### Alassane Ouattara
 # Alassane Ouattara rejects an offer by incumbent Ivorian President Laurent Gbagbo to be Vice President. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/201111113257652603.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/11/2011111205441745140_20.jpg)

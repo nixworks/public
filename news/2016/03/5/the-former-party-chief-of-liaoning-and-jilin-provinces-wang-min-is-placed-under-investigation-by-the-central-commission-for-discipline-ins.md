@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/5/the-former-party-chief-of-liaoning-and-jilin-pro
 
 ### [2016-03-5](/news/2016/03/5/index.md)
 
+##### Liaoning
 # The former party chief of Liaoning and Jilin provinces, Wang Min, is placed under investigation by the Central Commission for Discipline Inspection. 
 
 

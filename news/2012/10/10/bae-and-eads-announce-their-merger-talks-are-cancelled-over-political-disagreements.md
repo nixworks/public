@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/10/bae-and-eads-announce-their-merger-talks-are-cancelled-over-political-disagreements.html)  [JSON](/news/2012/10/10/bae-and-eads-announce-their-merger-talks-are-cancelled-over-political-disagreements.json)  [XML](/news/2012/10/10/bae-and-eads-announce-their-merger-talks-are-cancelled-over-political-disagreements.xml)  
+
 ### [2012-10-10](/news/2012/10/10/index.md)
 
+##### BAE Systems
 # BAE and EADS announce their merger talks are cancelled over political disagreements. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New York Times](http://dealbook.nytimes.com/2012/10/10/eads-and-bae-systems-abandon-merger-talks/)
 

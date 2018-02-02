@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/26/james-cameron-s-avatar-becomes-the-highest-grossing-film-of-all-time-not-accounting-inflation-surpassing-his-1997-titanic.html)  [JSON](/news/2010/01/26/james-cameron-s-avatar-becomes-the-highest-grossing-film-of-all-time-not-accounting-inflation-surpassing-his-1997-titanic.json)  [XML](/news/2010/01/26/james-cameron-s-avatar-becomes-the-highest-grossing-film-of-all-time-not-accounting-inflation-surpassing-his-1997-titanic.xml)  
+
 ### [2010-01-26](/news/2010/01/26/index.md)
 
+##### James Cameron
 # James Cameron's "Avatar" becomes the highest-grossing film of all time (not accounting inflation), surpassing his 1997 "Titanic". 
 
 &quot;Avatar&quot; has passed &quot;Titanic&quot; to become the all-time highest-grossing film world-wide.
 
 
-### Source:
+### Sources:
 
 1. [New York Post](http://www.nypost.com/p/news/national/avatar_inks_titanic_record_Rc9vud4jePOCTyC4maaAMM)
 2. [The Hollywood Reporter](http://www.hollywoodreporter.com/hr/content_display/news/e3i107616f101d6818868bd08edad593649)

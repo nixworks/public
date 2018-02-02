@@ -1,21 +1,30 @@
+
+Formats: [HTML](/news/2015/12/2/two-people-open-fire-in-san-bernardino-california-u-s-at-a-center-for-people-with-developmental-disabilities-killing-at-least-14-people.html)  [JSON](/news/2015/12/2/two-people-open-fire-in-san-bernardino-california-u-s-at-a-center-for-people-with-developmental-disabilities-killing-at-least-14-people.json)  [XML](/news/2015/12/2/two-people-open-fire-in-san-bernardino-california-u-s-at-a-center-for-people-with-developmental-disabilities-killing-at-least-14-people.xml)  
+
 ### [2015-12-2](/news/2015/12/2/index.md)
 
+##### 2015 San Bernardino shooting
 # Two people open fire in San Bernardino, California (U.S.) at a center for people with developmental disabilities, killing at least 14 people and injuring 14 others in what the city's police chief described as an act of domestic terrorism. 
 
 Gunmen opened fire on a holiday party on Wednesday at a social services agency in San Bernardino, California, killing 14 people and wounding 17 others before fleeing, authorities said.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/gunman-in-mass-shooting-in-california/story-e6frg6so-1227631887153)
 2. [CNN](http://edition.cnn.com/2015/12/02/us/san-bernardino-shooting/index.html)
 3. [Fox News](http://www.foxnews.com/us/2015/12/02/as-many-as-20-shot-police-in-standoff-in-san-bernardino-calif/?intcmp=hpbt1)
-4. [Reuters](http://www.reuters.com/article/2015/12/02/us-california-shooting-idUSKBN0TL2F120151202?feedType=RSS&feedName=topNews)
+4. [Reuters](https://www.reuters.com/article/2015/12/02/us-california-shooting-idUSKBN0TL2F120151202?feedType=RSS&feedName=topNews)
 5. [The Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-san-bernardino-shooting-live-updates-htmlstory.html)
 6. [The Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-up-to-20-shot-in-san-bernardino-active-shooter-sought-20151202-story.html)
-7. [The New York Times](http://www.nytimes.com/live/san-bernardino-shooting/)
+7. [The New York Times](https://www.nytimes.com/live/san-bernardino-shooting/)
 8. [The Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2015/12/02/police-in-san-bernadino-calif-responding-report-of-shooting/)
-8. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151202&t=2&i=1099373266&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB116U)
+8. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20151202&t=2&i=1099373266&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB116U)
+
+### Changes:
+
+1. [2015 San Bernardino shooting: Two people open fire in San Bernardino, California (U.S.) at a center for people with developmental disabilities, killing at least 14 people and injuring 14 others in what the city-s police chief described as an act of domestic terrorism. ](/news/2015/12/2/2015-san-bernardino-shooting-two-people-open-fire-in-san-bernardino-california-u-s-at-a-center-for-people-with-developmental-disabiliti.md) _2017-08-27 03:44:10 (First version)_
+1. [Two people open fire in San Bernardino, California (U.S.) at a center for people with developmental disabilities, killing at least 14 people and injuring 14 others in what the city's police chief described as an act of domestic terrorism. ](/news/2015/12/2/two-people-open-fire-in-san-bernardino-california-u-s-at-a-center-for-people-with-developmental-disabilities-killing-at-least-14-people.md) _(Current version)_
 
 ### Related:
 
@@ -24,8 +33,3 @@ Gunmen opened fire on a holiday party on Wednesday at a social services agency i
 3. [A $28,500 deposit was made to Syed Farook's bank account two weeks before he and his wife, Tashfeen Malik, carried out the San Bernardino massacre, a source close to the investigation says. Investigators are exploring whether the transaction was a personal loan or something else. ](/news/2015/12/8/a-28-500-deposit-was-made-to-syed-farookas-bank-account-two-weeks-before-he-and-his-wife-tashfeen-malik-carried-out-the-san-bernardino.md) _Context: San Bernardino, California_
 4. [President Barack Obama called the San Bernardino shootings "an act of terrorism designed to kill innocent people". ](/news/2015/12/6/president-barack-obama-called-the-san-bernardino-shootings-an-act-of-terrorism-designed-to-kill-innocent-people.md) _Context: 2015 San Bernardino shooting_
 5. [The US city of San Bernardino, California, declares that it has an "immediate and severe" fiscal emergency allowing it to declare bankruptcy without negotiating with creditors. ](/news/2012/07/18/the-us-city-of-san-bernardino-california-declares-that-it-has-an-immediate-and-severe-fiscal-emergency-allowing-it-to-declare-bankruptcy.md) _Context: San Bernardino, California_
-
-### Changes:
-
-1. [2015 San Bernardino shooting: Two people open fire in San Bernardino, California (U.S.) at a center for people with developmental disabilities, killing at least 14 people and injuring 14 others in what the city-s police chief described as an act of domestic terrorism. ](/news/2015/12/2/2015-san-bernardino-shooting-two-people-open-fire-in-san-bernardino-california-u-s-at-a-center-for-people-with-developmental-disabiliti.md) _2017-08-27 03:44:10 (First version)_
-1. [Two people open fire in San Bernardino, California (U.S.) at a center for people with developmental disabilities, killing at least 14 people and injuring 14 others in what the city's police chief described as an act of domestic terrorism. ](/news/2015/12/2/two-people-open-fire-in-san-bernardino-california-u-s-at-a-center-for-people-with-developmental-disabilities-killing-at-least-14-people.md) _(Current version)_

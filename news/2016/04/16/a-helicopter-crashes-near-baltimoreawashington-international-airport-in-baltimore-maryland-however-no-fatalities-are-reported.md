@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/16/a-helicopter-crashes-near-baltimoreawashington-
 
 ### [2016-04-16](/news/2016/04/16/index.md)
 
+##### Baltimore-Washington International Airport
 # A helicopter crashes near Baltimore-Washington International Airport in Baltimore, Maryland. However, no fatalities are reported. 
 
 News - Your daily dose of information: European and International latest breaking news, economic news, business news and more. Stay up to date with Euronews.

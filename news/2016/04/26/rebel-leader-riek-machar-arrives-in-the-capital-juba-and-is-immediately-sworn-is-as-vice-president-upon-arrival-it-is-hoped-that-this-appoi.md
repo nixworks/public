@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/26/rebel-leader-riek-machar-arrives-in-the-capital
 
 ### [2016-04-26](/news/2016/04/26/index.md)
 
+##### South Sudanese Civil War
 # Rebel leader Riek Machar arrives in the capital Juba and is immediately sworn is as Vice President upon arrival. It is hoped that this appointment will put an end to the civil war that has plagued the country since late 2013. 
 
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/05/12/the-xbox-360-is-announced-on-mtv.html)  [JSON](/news/2005/05/12/the-xbox-360-is-announced-on-mtv.json)  [XML](/news/2005/05/12/the-xbox-360-is-announced-on-mtv.xml)  
+
 ### [2005-05-12](/news/2005/05/12/index.md)
 
+##### Xbox 360
 #  The Xbox 360 is announced on MTV.
 
 

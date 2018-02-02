@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/10/darfur-conflict-united-nations-secretary-general-kofi-annan-warns-that-the-security-situation-in-darfur-is-deteriorating.html)  [JSON](/news/2005/01/10/darfur-conflict-united-nations-secretary-general-kofi-annan-warns-that-the-security-situation-in-darfur-is-deteriorating.json)  [XML](/news/2005/01/10/darfur-conflict-united-nations-secretary-general-kofi-annan-warns-that-the-security-situation-in-darfur-is-deteriorating.xml)  
+
 ### [2005-01-10](/news/2005/01/10/index.md)
 
+##### Darfur conflict
 #  Darfur conflict: United Nations secretary general Kofi Annan warns that the security situation in Darfur is deteriorating. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4156931.stm)
 

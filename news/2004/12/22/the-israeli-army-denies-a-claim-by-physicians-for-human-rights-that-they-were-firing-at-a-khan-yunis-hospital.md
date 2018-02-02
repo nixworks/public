@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/22/the-israeli-army-denies-a-claim-by-physicians-for-human-rights-that-they-were-firing-at-a-khan-yunis-hospital.html)  [JSON](/news/2004/12/22/the-israeli-army-denies-a-claim-by-physicians-for-human-rights-that-they-were-firing-at-a-khan-yunis-hospital.json)  [XML](/news/2004/12/22/the-israeli-army-denies-a-claim-by-physicians-for-human-rights-that-they-were-firing-at-a-khan-yunis-hospital.xml)  
+
 ### [2004-12-22](/news/2004/12/22/index.md)
 
+##### Israel
 #  The Israeli Army denies a claim by Physicians for Human Rights that they were firing at a Khan Yunis hospital. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4115505.stm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4116709.stm)

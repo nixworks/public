@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/2/catherine-duchess-of-cambridge-returns-home-to-cheering-crowds-after-giving-birth-to-her-and-the-duke-s-second-child-princess-charlotte-o.html)  [JSON](/news/2015/05/2/catherine-duchess-of-cambridge-returns-home-to-cheering-crowds-after-giving-birth-to-her-and-the-duke-s-second-child-princess-charlotte-o.json)  [XML](/news/2015/05/2/catherine-duchess-of-cambridge-returns-home-to-cheering-crowds-after-giving-birth-to-her-and-the-duke-s-second-child-princess-charlotte-o.xml)  
+
 ### [2015-05-2](/news/2015/05/2/index.md)
 
+##### Catherine, Duchess of Cambridge
 # Catherine, Duchess of Cambridge, returns home to cheering crowds after giving birth to her and the Duke's second child, Princess Charlotte of Cambridge, fourth in line to the throne behind her older brother, Prince George of Cambridge, at St Mary's Hospital, London. Many countries send congratulations. 
 
 Prince William says he and wife Catherine are &quot;very happy&quot; after the birth of their first daughter, as he brings his son Prince George to the hospital to meet his sister.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-32562117?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
 2. [Daily Mail](http://www.dailymail.co.uk/news/article-3044227/Kate-Middleton-Prince-William-s-new-royal-baby-GIRL.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)

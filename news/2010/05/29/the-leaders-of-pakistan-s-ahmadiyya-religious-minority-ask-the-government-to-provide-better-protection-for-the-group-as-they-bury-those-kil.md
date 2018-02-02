@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/29/the-leaders-of-pakistan-s-ahmadiyya-religious-minority-ask-the-government-to-provide-better-protection-for-the-group-as-they-bury-those-kil.html)  [JSON](/news/2010/05/29/the-leaders-of-pakistan-s-ahmadiyya-religious-minority-ask-the-government-to-provide-better-protection-for-the-group-as-they-bury-those-kil.json)  [XML](/news/2010/05/29/the-leaders-of-pakistan-s-ahmadiyya-religious-minority-ask-the-government-to-provide-better-protection-for-the-group-as-they-bury-those-kil.xml)  
+
 ### [2010-05-29](/news/2010/05/29/index.md)
 
+##### Pakistan
 # The leaders of Pakistan's Ahmadiyya religious minority ask the government to provide better protection for the group, as they bury those killed in yesterday's double mosque attack in Lahore. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/05/2010528923401784.html)
 1. [Cover Image](http://www.aljazeera.com)

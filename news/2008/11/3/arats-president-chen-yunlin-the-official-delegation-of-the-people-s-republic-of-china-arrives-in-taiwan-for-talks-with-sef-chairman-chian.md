@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/3/arats-president-chen-yunlin-the-official-delegation-of-the-people-s-republic-of-china-arrives-in-taiwan-for-talks-with-sef-chairman-chian.html)  [JSON](/news/2008/11/3/arats-president-chen-yunlin-the-official-delegation-of-the-people-s-republic-of-china-arrives-in-taiwan-for-talks-with-sef-chairman-chian.json)  [XML](/news/2008/11/3/arats-president-chen-yunlin-the-official-delegation-of-the-people-s-republic-of-china-arrives-in-taiwan-for-talks-with-sef-chairman-chian.xml)  
+
 ### [2008-11-3](/news/2008/11/3/index.md)
 
+##### Association for Relations Across the Taiwan Straits
 #  ARATS president Chen Yunlin, the official delegation of the People's Republic of China, arrives in Taiwan for talks with SEF chairman Chiang Pin-kung. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/asiapcf/11/03/taiwan.china/index.html)
 

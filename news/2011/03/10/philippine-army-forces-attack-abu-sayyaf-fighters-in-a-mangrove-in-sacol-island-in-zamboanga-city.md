@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/10/philippine-army-forces-attack-abu-sayyaf-fighters-in-a-mangrove-in-sacol-island-in-zamboanga-city.html)  [JSON](/news/2011/03/10/philippine-army-forces-attack-abu-sayyaf-fighters-in-a-mangrove-in-sacol-island-in-zamboanga-city.json)  [XML](/news/2011/03/10/philippine-army-forces-attack-abu-sayyaf-fighters-in-a-mangrove-in-sacol-island-in-zamboanga-city.xml)  
+
 ### [2011-03-10](/news/2011/03/10/index.md)
 
+##### army
 # Philippine Army forces attack Abu Sayyaf fighters in a mangrove in Sacol Island in Zamboanga City. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Monterey County Herald](http://www.montereyherald.com/national/ci_17580336?nclick_check=1)
 

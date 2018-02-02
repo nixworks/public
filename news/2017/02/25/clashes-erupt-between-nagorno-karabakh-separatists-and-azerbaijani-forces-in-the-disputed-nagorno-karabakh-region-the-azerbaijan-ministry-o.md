@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/25/clashes-erupt-between-nagorno-karabakh-separati
 
 ### [2017-02-25](/news/2017/02/25/index.md)
 
+##### Nagorno-Karabakh conflict
 # Clashes erupt between Nagorno-Karabakh separatists and Azerbaijani forces in the disputed Nagorno-Karabakh region. The Azerbaijan Ministry of Defense confirmed casualties on its side while the separatist forces claim to have no causalities. Both sides blame each other for the flareup in fighting. 
 
 

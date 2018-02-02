@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/14/the-aviva-stadium-ireland-s-new-national-stadium-is-officially-opened-by-taoiseach-brian-cowen-in-dublin.html)  [JSON](/news/2010/05/14/the-aviva-stadium-ireland-s-new-national-stadium-is-officially-opened-by-taoiseach-brian-cowen-in-dublin.json)  [XML](/news/2010/05/14/the-aviva-stadium-ireland-s-new-national-stadium-is-officially-opened-by-taoiseach-brian-cowen-in-dublin.xml)  
+
 ### [2010-05-14](/news/2010/05/14/index.md)
 
+##### Aviva Stadium
 # The Aviva Stadium, Ireland's new national stadium, is officially opened by Taoiseach Brian Cowen in Dublin. 
 
 The collective gasp the IRFU and FAI had hoped for when showing the media around the new Aviva Stadium on Lansdowne Road this&hellip;
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8683419.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKLDE64D1UV20100514)

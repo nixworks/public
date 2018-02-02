@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/21/a-shooter-wounds-at-least-13-people-at-a-house-
 
 ### [2016-08-21](/news/2016/08/21/index.md)
 
+##### Bridgeport
 # A shooter wounds at least 13 people at a house party in Bridgeport, Connecticut. 
 
 

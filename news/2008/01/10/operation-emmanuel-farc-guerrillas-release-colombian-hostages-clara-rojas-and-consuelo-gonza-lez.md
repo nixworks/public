@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/10/operation-emmanuel-farc-guerrillas-release-colombian-hostages-clara-rojas-and-consuelo-gonza-lez.html)  [JSON](/news/2008/01/10/operation-emmanuel-farc-guerrillas-release-colombian-hostages-clara-rojas-and-consuelo-gonza-lez.json)  [XML](/news/2008/01/10/operation-emmanuel-farc-guerrillas-release-colombian-hostages-clara-rojas-and-consuelo-gonza-lez.xml)  
+
 ### [2008-01-10](/news/2008/01/10/index.md)
 
+##### Operation Emmanuel
 #  Operation Emmanuel: FARC guerrillas release Colombian hostages Clara Rojas and Consuelo Gonzalez. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/7182105.stm)
 

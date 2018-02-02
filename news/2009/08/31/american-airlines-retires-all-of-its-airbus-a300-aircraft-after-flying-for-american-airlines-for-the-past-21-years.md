@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2009/08/31/american-airlines-retires-all-of-its-airbus-a300-aircraft-after-flying-for-american-airlines-for-the-past-21-years.html)  [JSON](/news/2009/08/31/american-airlines-retires-all-of-its-airbus-a300-aircraft-after-flying-for-american-airlines-for-the-past-21-years.json)  [XML](/news/2009/08/31/american-airlines-retires-all-of-its-airbus-a300-aircraft-after-flying-for-american-airlines-for-the-past-21-years.xml)  
+
 ### [2009-08-31](/news/2009/08/31/index.md)
 
+##### American Airlines
 #  American Airlines retires all of its Airbus A300 aircraft after flying for American Airlines for the past 21 years.
 
 

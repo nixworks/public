@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/9/chinese-vice-premier-li-keqiang-begins-a-four-day-visit-to-the-uk-scotland-and-china-sign-a-green-energy-deal.html)  [JSON](/news/2011/01/9/chinese-vice-premier-li-keqiang-begins-a-four-day-visit-to-the-uk-scotland-and-china-sign-a-green-energy-deal.json)  [XML](/news/2011/01/9/chinese-vice-premier-li-keqiang-begins-a-four-day-visit-to-the-uk-scotland-and-china-sign-a-green-energy-deal.xml)  
+
 ### [2011-01-9](/news/2011/01/9/index.md)
 
+##### Li Keqiang
 # Chinese Vice Premier Li Keqiang begins a four-day visit to the UK; Scotland and China sign a green energy deal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-12136722)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

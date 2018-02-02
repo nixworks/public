@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/29/protests-in-france-turn-violent-as-protesters-c
 
 ### [2016-04-29](/news/2016/04/29/index.md)
 
+##### France
 # Protests in France turn violent as protesters clash with police, injuring over 20 police officers and resulting in over 120 arrests nationwide. The protests are against a labour law being proposed in the National Assembly, saying it will reduce rights and deepen job insecurity for youth. 
 
 Two dozen police injured and more than 120 arrests during night of demonstrations nationwide against watering-down of worker rights

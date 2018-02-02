@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/1/at-least-150-000-people-gather-in-kathmandu-to-support-maoists-who-want-the-prime-minister-to-resign-a-general-strike-is-called-for-on-sund.html)  [JSON](/news/2010/05/1/at-least-150-000-people-gather-in-kathmandu-to-support-maoists-who-want-the-prime-minister-to-resign-a-general-strike-is-called-for-on-sund.json)  [XML](/news/2010/05/1/at-least-150-000-people-gather-in-kathmandu-to-support-maoists-who-want-the-prime-minister-to-resign-a-general-strike-is-called-for-on-sund.xml)  
+
 ### [2010-05-1](/news/2010/05/1/index.md)
 
+##### Kathmandu
 # At least 150,000 people gather in Kathmandu to support Maoists who want the Prime Minister to resign; a general strike is called for on Sunday, May 2. 
 
 Nationwide shutdown announced after prime minister refused calls to step down.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/05/201051141726427220.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8655767.stm)

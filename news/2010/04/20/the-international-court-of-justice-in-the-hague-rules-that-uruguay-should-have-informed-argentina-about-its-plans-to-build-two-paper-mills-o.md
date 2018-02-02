@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/20/the-international-court-of-justice-in-the-hague-rules-that-uruguay-should-have-informed-argentina-about-its-plans-to-build-two-paper-mills-o.html)  [JSON](/news/2010/04/20/the-international-court-of-justice-in-the-hague-rules-that-uruguay-should-have-informed-argentina-about-its-plans-to-build-two-paper-mills-o.json)  [XML](/news/2010/04/20/the-international-court-of-justice-in-the-hague-rules-that-uruguay-should-have-informed-argentina-about-its-plans-to-build-two-paper-mills-o.xml)  
+
 ### [2010-04-20](/news/2010/04/20/index.md)
 
+##### International Court of Justice
 # The International Court of Justice in The Hague rules that Uruguay should have informed Argentina about its plans to build two paper mills on the banks of the River Uruguay, although it allows the one mill which was built to continue operating. 
 
 International court rejects Argentine claims that Uruguay contaminated shared river.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/04/2010420181035373716.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/8632933.stm)

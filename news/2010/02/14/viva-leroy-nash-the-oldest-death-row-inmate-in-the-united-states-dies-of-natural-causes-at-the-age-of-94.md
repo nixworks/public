@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/14/viva-leroy-nash-the-oldest-death-row-inmate-in-the-united-states-dies-of-natural-causes-at-the-age-of-94.html)  [JSON](/news/2010/02/14/viva-leroy-nash-the-oldest-death-row-inmate-in-the-united-states-dies-of-natural-causes-at-the-age-of-94.json)  [XML](/news/2010/02/14/viva-leroy-nash-the-oldest-death-row-inmate-in-the-united-states-dies-of-natural-causes-at-the-age-of-94.xml)  
+
 ### [2010-02-14](/news/2010/02/14/index.md)
 
+##### Viva Leroy Nash
 # Viva Leroy Nash, the oldest death row inmate in the United States, dies of natural causes at the age of 94. 
 
 FLORENCE - The oldest death row inmate in the US has died of natural causes at age 94. - New Zealand Herald
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8515573.stm)
 2. [Taipei News](http://www.taipeinews.net/story/601494)

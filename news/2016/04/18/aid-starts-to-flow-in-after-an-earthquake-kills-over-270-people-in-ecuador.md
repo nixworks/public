@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/18/aid-starts-to-flow-in-after-an-earthquake-kills
 
 ### [2016-04-18](/news/2016/04/18/index.md)
 
+##### earthquake
 # Aid starts to flow in after an earthquake kills over 270 people in Ecuador. 
 
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/10/gay-rights-campaigner-peter-tatchell-claims-the-second-most-senior-church-of-england-cleric-archbishop-hope-of-york-is-gay-the-archbisho.html)  [JSON](/news/2003/07/10/gay-rights-campaigner-peter-tatchell-claims-the-second-most-senior-church-of-england-cleric-archbishop-hope-of-york-is-gay-the-archbisho.json)  [XML](/news/2003/07/10/gay-rights-campaigner-peter-tatchell-claims-the-second-most-senior-church-of-england-cleric-archbishop-hope-of-york-is-gay-the-archbisho.xml)  
+
 ### [2003-07-10](/news/2003/07/10/index.md)
 
+##### Peter Tatchell
 #  Gay rights campaigner Peter Tatchell claims the second most senior Church of England cleric, Archbishop Hope of York, is gay. The Archbishop had previously described his sexuality as a "grey area". The claim follows the row over a nomination of an openly gay canon to a bishopric in England and his withdrawal after attacks from conservative groups within the Anglican communion.
 
 

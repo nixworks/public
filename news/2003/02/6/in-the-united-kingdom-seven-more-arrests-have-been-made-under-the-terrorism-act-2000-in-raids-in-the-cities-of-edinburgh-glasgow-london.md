@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/6/in-the-united-kingdom-seven-more-arrests-have-been-made-under-the-terrorism-act-2000-in-raids-in-the-cities-of-edinburgh-glasgow-london.html)  [JSON](/news/2003/02/6/in-the-united-kingdom-seven-more-arrests-have-been-made-under-the-terrorism-act-2000-in-raids-in-the-cities-of-edinburgh-glasgow-london.json)  [XML](/news/2003/02/6/in-the-united-kingdom-seven-more-arrests-have-been-made-under-the-terrorism-act-2000-in-raids-in-the-cities-of-edinburgh-glasgow-london.xml)  
+
 ### [2003-02-6](/news/2003/02/6/index.md)
 
+##### Terrorism Act
 #  In the United Kingdom, seven more arrests have been made under the Terrorism Act 2000 in raids in the cities of Edinburgh, Glasgow, London and Manchester.
 
 

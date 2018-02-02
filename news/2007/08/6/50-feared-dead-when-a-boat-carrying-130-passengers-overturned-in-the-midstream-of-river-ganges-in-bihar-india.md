@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/08/6/50-feared-dead-when-a-boat-carrying-130-passengers-overturned-in-the-midstream-of-river-ganges-in-bihar-india.html)  [JSON](/news/2007/08/6/50-feared-dead-when-a-boat-carrying-130-passengers-overturned-in-the-midstream-of-river-ganges-in-bihar-india.json)  [XML](/news/2007/08/6/50-feared-dead-when-a-boat-carrying-130-passengers-overturned-in-the-midstream-of-river-ganges-in-bihar-india.xml)  
+
 ### [2007-08-6](/news/2007/08/6/index.md)
 
+##### Ganges
 #  50 feared dead when a boat carrying 130 passengers overturned in the midstream of River Ganges in Bihar, India.
 
 

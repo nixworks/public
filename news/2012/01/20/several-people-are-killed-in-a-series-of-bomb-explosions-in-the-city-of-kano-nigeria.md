@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/20/several-people-are-killed-in-a-series-of-bomb-explosions-in-the-city-of-kano-nigeria.html)  [JSON](/news/2012/01/20/several-people-are-killed-in-a-series-of-bomb-explosions-in-the-city-of-kano-nigeria.json)  [XML](/news/2012/01/20/several-people-are-killed-in-a-series-of-bomb-explosions-in-the-city-of-kano-nigeria.xml)  
+
 ### [2012-01-20](/news/2012/01/20/index.md)
 
+##### Kano
 # Several people are killed in a series of bomb explosions in the city of Kano, Nigeria. 
 
 KANO (AFP) &#8211; A suicide blast and a series of other strong explosions rocked the city of Kano on Friday, killing at least two officers, a police source said, with many others feared dead. A senior police source said the suicide blast occurred at a regional police headquarters in Kano, the largest city in mainlyRead More
 
 
-### Source:
+### Sources:
 
 1. [Vanguard](http://www.vanguardngr.com/2012/01/many-feared-dead-as-deadly-suicide-blast-explosions-rock-kano/)
 1. [Cover Image](http://www.vanguardngr.com/vangurad.png)

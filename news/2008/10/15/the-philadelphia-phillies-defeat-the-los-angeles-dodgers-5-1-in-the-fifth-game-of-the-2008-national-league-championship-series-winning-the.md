@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/10/15/the-philadelphia-phillies-defeat-the-los-angeles-dodgers-5-1-in-the-fifth-game-of-the-2008-national-league-championship-series-winning-the.html)  [JSON](/news/2008/10/15/the-philadelphia-phillies-defeat-the-los-angeles-dodgers-5-1-in-the-fifth-game-of-the-2008-national-league-championship-series-winning-the.json)  [XML](/news/2008/10/15/the-philadelphia-phillies-defeat-the-los-angeles-dodgers-5-1-in-the-fifth-game-of-the-2008-national-league-championship-series-winning-the.xml)  
+
 ### [2008-10-15](/news/2008/10/15/index.md)
 
+##### Philadelphia Phillies
 #  The Philadelphia Phillies defeat the Los Angeles Dodgers 5-1 in the fifth game of the 2008 National League Championship Series winning the series 4-1 and advancing to the 2008 World Series. 
 
 The Phillies beat the Dodgers in Game 5 of the N.L.C.S. to advance to the World Series for the first time since 1993.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2008/10/16/sports/baseball/16nlcs.html?_r=1&hp&oref=slogin)
+1. [New York Times](https://www.nytimes.com/2008/10/16/sports/baseball/16nlcs.html?_r=1&hp&oref=slogin)
 1. [Cover Image](https://static01.nyt.com/images/2008/10/15/sports/16ncls_75.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/6/a-large-explosion-occurs-near-downtown-milwaukee-killing-3-injuring-37-others-and-leveling-a-factory-compound.html)  [JSON](/news/2006/12/6/a-large-explosion-occurs-near-downtown-milwaukee-killing-3-injuring-37-others-and-leveling-a-factory-compound.json)  [XML](/news/2006/12/6/a-large-explosion-occurs-near-downtown-milwaukee-killing-3-injuring-37-others-and-leveling-a-factory-compound.xml)  
+
 ### [2006-12-6](/news/2006/12/6/index.md)
 
+##### explosion
 #  A large explosion occurs near downtown Milwaukee, killing 3, injuring 37 others and leveling a factory compound.
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/M/MILWAUKEE_EXPLOSION)
 

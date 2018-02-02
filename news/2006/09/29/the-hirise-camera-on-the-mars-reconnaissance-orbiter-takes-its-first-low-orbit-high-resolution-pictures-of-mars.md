@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/29/the-hirise-camera-on-the-mars-reconnaissance-orbiter-takes-its-first-low-orbit-high-resolution-pictures-of-mars.html)  [JSON](/news/2006/09/29/the-hirise-camera-on-the-mars-reconnaissance-orbiter-takes-its-first-low-orbit-high-resolution-pictures-of-mars.json)  [XML](/news/2006/09/29/the-hirise-camera-on-the-mars-reconnaissance-orbiter-takes-its-first-low-orbit-high-resolution-pictures-of-mars.xml)  
+
 ### [2006-09-29](/news/2006/09/29/index.md)
 
+##### HiRISE
 #  The HiRISE camera on the Mars Reconnaissance Orbiter takes its first low-orbit, high-resolution pictures of Mars. 
 
 New images from a low-altitude Mars satellite are giving scientists some of their most detailed glimpses yet of the surface of the Red planet.
 
 
-### Source:
+### Sources:
 
 1. [HiRISE team blog](http://hirise.lpl.arizona.edu/HiBlog)
 2. [Space.com](http://www.space.com/missionlaunches/060929_mars_upclose.html)

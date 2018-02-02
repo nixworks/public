@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/9/peter-de-villiers-is-appointed-the-first-black-coach-of-the-south-african-rugby-union-team.html)  [JSON](/news/2008/01/9/peter-de-villiers-is-appointed-the-first-black-coach-of-the-south-african-rugby-union-team.json)  [XML](/news/2008/01/9/peter-de-villiers-is-appointed-the-first-black-coach-of-the-south-african-rugby-union-team.xml)  
+
 ### [2008-01-9](/news/2008/01/9/index.md)
 
+##### Peter de Villiers
 #  Peter de Villiers is appointed the first black coach of the South African rugby union team. 
 
 News and opinion from The Times &amp; The Sunday Times
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/tol/sport/rugby/article3160294.ece)
 1. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)

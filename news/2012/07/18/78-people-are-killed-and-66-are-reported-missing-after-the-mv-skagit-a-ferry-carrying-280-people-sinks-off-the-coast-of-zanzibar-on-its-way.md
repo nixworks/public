@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/18/78-people-are-killed-and-66-are-reported-missing-after-the-mv-skagit-a-ferry-carrying-280-people-sinks-off-the-coast-of-zanzibar-on-its-way.html)  [JSON](/news/2012/07/18/78-people-are-killed-and-66-are-reported-missing-after-the-mv-skagit-a-ferry-carrying-280-people-sinks-off-the-coast-of-zanzibar-on-its-way.json)  [XML](/news/2012/07/18/78-people-are-killed-and-66-are-reported-missing-after-the-mv-skagit-a-ferry-carrying-280-people-sinks-off-the-coast-of-zanzibar-on-its-way.xml)  
+
 ### [2012-07-18](/news/2012/07/18/index.md)
 
+##### MV Skagit
 # 78 people are killed and 66 are reported missing after the MV Skagit, a ferry carrying 280 people sinks off the coast of Zanzibar on its way from Tanzania. 
 
 At least 31 people dead, including foreigners, and many missing after vessel capsizes on voyage from mainland Tanzania.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/07/201271814217312822.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/7/18/201271818292124734_20.jpg)
@@ -16,4 +20,4 @@ At least 31 people dead, including foreigners, and many missing after vessel cap
 2. [A rerun of Zanzibar's presidential election takes place amid an opposition boycott. The election originally occurred at the same time as Tanzania's general election in 2015 but was annulled because of supposed fraud. ](/news/2016/03/20/a-rerun-of-zanzibar-s-presidential-election-takes-place-amid-an-opposition-boycott-the-election-originally-occurred-at-the-same-time-as-tan.md) _Context: Tanzania, Zanzibar_
 3. [Tanzania's opposition Chadema party presidential candidate Edward Lowassa calls for a recount of Sunday's election for the presidency before official results are announced tomorrow. Meanwhile, the election commission chief of semi-autonomous Zanzibar nullifies their results, which opposition presidential candidate Seif Sharif Hamad of the Civic United Front announced he won on Monday. The United States said it's "gravely alarmed" and called for reversal of the annulment. ](/news/2015/10/28/tanzania-s-opposition-chadema-party-presidential-candidate-edward-lowassa-calls-for-a-recount-of-sunday-s-election-for-the-presidency-before.md) _Context: Tanzania, Zanzibar_
 4. [Voters in Tanzania, including Tanganyika and semi-autonomous Zanzibar, which also elects its own government, go to the polls for an election with the ruling Chama Cha Mapinduzi (Revolutionary Party) facing the greatest challenge to its dominance in over 50 years. ](/news/2015/10/25/voters-in-tanzania-including-tanganyika-and-semi-autonomous-zanzibar-which-also-elects-its-own-government-go-to-the-polls-for-an-election.md) _Context: Tanzania, Zanzibar_
-5. [As many as 30 people, mostly children, are killed after a school bus plunges off a road into a steep ravine in the Arusha Region of northern Tanzania. ](/news/2017/05/6/as-many-as-30-people-mostly-children-are-killed-after-a-school-bus-plunges-off-a-road-into-a-steep-ravine-in-the-arusha-region-of-northern.md) _Context: Tanzania_
+5. [The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" - allegedly bound for Libya, loaded with 410 tonnes of explosives - in Heraklion, Greece. 102 safety deficiencies are found, and 8 crew members are arrested. ](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-flagged-cargo-ship-andromeda-a-allegedly-bound-for-libya-loaded-with-410-tonnes-of-explos.md) _Context: Tanzania_

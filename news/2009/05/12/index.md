@@ -1,22 +1,27 @@
+
+Formats: [HTML](2009/05/12/index.html)  [JSON](2009/05/12/index.json)  [XML](2009/05/12/index.xml)  
+
 ## [2009-05-12](/news/2009/05/12/index.md)
 
+##### Liberal Party
 ### [ The Liberal Party wins a majority of seats in British Columbia's general election. ](/news/2009/05/12/the-liberal-party-wins-a-majority-of-seats-in-british-columbia-s-general-election.md)
-_Context: British Columbia, Liberal Party, general election, majority, seats_
+_Context: majority, seats, Liberal Party, British Columbia, general election_
 
+##### Pakistan Army
 ### [ The Army raids a Taliban military base in Swat, Pakistan. ](/news/2009/05/12/the-army-raids-a-taliban-military-base-in-swat-pakistan.md)
-_Context: Pakistan, Pakistan army, Swat, Pakistan, Taliban, War in North-West Pakistan, military installations_
+_Context: Pakistan Army, Pakistan, military base, War in North-West Pakistan, Swat, Pakistan, Taliban_
 
+##### Nazi
 ### [ Suspected Nazi death-camp officer John Demjanjuk arrives in Munich, Germany, to begin his trial. ](/news/2009/05/12/suspected-nazi-death-camp-officer-john-demjanjuk-arrives-in-munich-germany-to-begin-his-trial.md)
-_Context: Germany, John Demjanjuk, Munich, Nazi, extermination camp, officer, trial_
+_Context: Munich, trial, death-camp, John Demjanjuk, German, Nazi, officer_
 
+##### declares
 ### [ Combat between the government and the Islamic Courts Union kills at least 123 people in Mogadishu, Somalia. ](/news/2009/05/12/combat-between-the-government-and-the-islamic-courts-union-kills-at-least-123-people-in-mogadishu-somalia.md)
-_Context: Islamic Courts Union, Mogadishu, Somalia, Transitional Federal Government, declares_
+_Context: Transitional Federal Government, declares, Islamic Courts Union, Somalia, Mogadishu_
 
+##### U.S.
 ### [ The United States obtains its first seat on the United Nations Human Rights Council. ](/news/2009/05/12/the-united-states-obtains-its-first-seat-on-the-united-nations-human-rights-council.md)
-_Context: Human Rights Council, United Nations, United States_
-
-### [ The Space Shuttle "Atlantis" begins the final servicing mission to the Hubble Space Telescope.](/news/2009/05/12/the-space-shuttle-atlantis-begins-the-final-servicing-mission-to-the-hubble-space-telescope.md)
-_Context: Hubble space telescope, Space Shuttle, Space Shuttle Atlantis, completes_
+_Context: U.S., United Nations, Human Rights Council_
 
 ## [Previous Day...](/news/2009/05/11/index.md)
 

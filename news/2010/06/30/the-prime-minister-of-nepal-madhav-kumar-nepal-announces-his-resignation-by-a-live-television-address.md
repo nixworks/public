@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/30/the-prime-minister-of-nepal-madhav-kumar-nepal-announces-his-resignation-by-a-live-television-address.html)  [JSON](/news/2010/06/30/the-prime-minister-of-nepal-madhav-kumar-nepal-announces-his-resignation-by-a-live-television-address.json)  [XML](/news/2010/06/30/the-prime-minister-of-nepal-madhav-kumar-nepal-announces-his-resignation-by-a-live-television-address.xml)  
+
 ### [2010-06-30](/news/2010/06/30/index.md)
 
+##### Prime Minister
 # The Prime Minister of Nepal, Madhav Kumar Nepal, announces his resignation by a live television address. 
 
 Nepalese Prime Minister Madhav Kumar Nepal announces his resignation in a televised speech.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/201063013169630394.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/10464705.stm)

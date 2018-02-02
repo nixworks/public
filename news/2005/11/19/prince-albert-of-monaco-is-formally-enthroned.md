@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/19/prince-albert-of-monaco-is-formally-enthroned.html)  [JSON](/news/2005/11/19/prince-albert-of-monaco-is-formally-enthroned.json)  [XML](/news/2005/11/19/prince-albert-of-monaco-is-formally-enthroned.xml)  
+
 ### [2005-11-19](/news/2005/11/19/index.md)
 
+##### Albert II, Prince of Monaco
 #  Prince Albert of Monaco is formally enthroned. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2005/WORLD/europe/11/19/monaco.albert.reut/index.html)
 

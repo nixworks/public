@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/10/gunmen-attack-a-training-facility-near-the-jinnah-international-airport.html)  [JSON](/news/2014/06/10/gunmen-attack-a-training-facility-near-the-jinnah-international-airport.json)  [XML](/news/2014/06/10/gunmen-attack-a-training-facility-near-the-jinnah-international-airport.xml)  
+
 ### [2014-06-10](/news/2014/06/10/index.md)
 
+##### Jinnah International Airport
 # Gunmen attack a training facility near the Jinnah International Airport. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-06-10-AS--Pakistan/id-eb1232fb7795472699393589f2d011d6)
 

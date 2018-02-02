@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/20/two-prominent-chinese-human-rights-lawyers-jiang-tianyong-and-liu-xiaoyuan-are-released.html)  [JSON](/news/2011/04/20/two-prominent-chinese-human-rights-lawyers-jiang-tianyong-and-liu-xiaoyuan-are-released.json)  [XML](/news/2011/04/20/two-prominent-chinese-human-rights-lawyers-jiang-tianyong-and-liu-xiaoyuan-are-released.xml)  
+
 ### [2011-04-20](/news/2011/04/20/index.md)
 
+##### China
 # Two prominent Chinese human rights lawyers Jiang Tianyong and Liu Xiaoyuan are released. 
 
 Prominent Chinese human rights lawyer Jiang Tianyong is released and allowed to return home after two months in police custody.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/04/201142052845436935.html)
 2. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2011/3/16/Chinese-human-rights-lawyer-Jiang-Tianyong-freed,03cb8dbb-a575-4a58-825e-2b1efd4e0fd3.html)

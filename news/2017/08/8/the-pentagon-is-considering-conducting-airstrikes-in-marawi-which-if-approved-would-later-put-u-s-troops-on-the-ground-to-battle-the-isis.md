@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/8/the-pentagon-is-considering-conducting-airstrike
 
 ### [2017-08-8](/news/2017/08/8/index.md)
 
+##### Battle of Marawi
 # The Pentagon is considering conducting airstrikes in Marawi, which if approved would later put U.S. troops on the ground to battle the ISIS-affiliated Maute group as well as related Islamist terror groups. A spokesperson later denied the claims as well as clarified that the Philippines has yet to make a request. 
 
 The strikes would likely be conducted by drones, and would be part of an official military operation that may be named as early as Tuesday. 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/22/representatives-of-the-united-states-and-european-nations-walk-out-of-the-general-assembly-of-the-united-nations-during-an-accusatory-speech.html)  [JSON](/news/2011/09/22/representatives-of-the-united-states-and-european-nations-walk-out-of-the-general-assembly-of-the-united-nations-during-an-accusatory-speech.json)  [XML](/news/2011/09/22/representatives-of-the-united-states-and-european-nations-walk-out-of-the-general-assembly-of-the-united-nations-during-an-accusatory-speech.xml)  
+
 ### [2011-09-22](/news/2011/09/22/index.md)
 
+##### General Assembly of the United Nations
 # Representatives of the United States and European nations walk out of the General Assembly of the United Nations during an accusatory speech by the President of Iran, Mahmoud Ahmadinejad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/us-leads-un-walkout-on-ahmadinejad/story-e6frg6so-1226144241848)
 

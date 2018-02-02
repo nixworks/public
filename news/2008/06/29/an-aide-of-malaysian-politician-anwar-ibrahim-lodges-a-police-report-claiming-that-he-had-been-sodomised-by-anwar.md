@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/29/an-aide-of-malaysian-politician-anwar-ibrahim-lodges-a-police-report-claiming-that-he-had-been-sodomised-by-anwar.html)  [JSON](/news/2008/06/29/an-aide-of-malaysian-politician-anwar-ibrahim-lodges-a-police-report-claiming-that-he-had-been-sodomised-by-anwar.json)  [XML](/news/2008/06/29/an-aide-of-malaysian-politician-anwar-ibrahim-lodges-a-police-report-claiming-that-he-had-been-sodomised-by-anwar.xml)  
+
 ### [2008-06-29](/news/2008/06/29/index.md)
 
+##### Malaysia
 #  An aide of Malaysian politician Anwar Ibrahim lodges a police report claiming that he had been sodomised by Anwar. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7479514.stm)
 

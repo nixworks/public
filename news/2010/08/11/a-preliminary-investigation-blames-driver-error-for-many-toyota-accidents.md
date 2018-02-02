@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/11/a-preliminary-investigation-blames-driver-error-for-many-toyota-accidents.html)  [JSON](/news/2010/08/11/a-preliminary-investigation-blames-driver-error-for-many-toyota-accidents.json)  [XML](/news/2010/08/11/a-preliminary-investigation-blames-driver-error-for-many-toyota-accidents.xml)  
+
 ### [2010-08-11](/news/2010/08/11/index.md)
 
+##### Toyota
 # A preliminary investigation blames driver error for many Toyota accidents. 
 
 A preliminary study into accidents involving Toyota cars suggests driver error may have played a part in many incidents.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-10936016)
 2. [The Guardian](http://www.guardian.co.uk/business/2010/aug/11/toyota-inquiry-driver-error)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/29/sudan-announces-it-will-close-its-border-with-libya-due-to-the-operations-of-darfur-rebels-in-the-area.html)  [JSON](/news/2010/06/29/sudan-announces-it-will-close-its-border-with-libya-due-to-the-operations-of-darfur-rebels-in-the-area.json)  [XML](/news/2010/06/29/sudan-announces-it-will-close-its-border-with-libya-due-to-the-operations-of-darfur-rebels-in-the-area.xml)  
+
 ### [2010-06-29](/news/2010/06/29/index.md)
 
+##### Sudan
 # Sudan announces it will close its border with Libya due to the operations of Darfur rebels in the area. 
 
 Sudan announces it is closing its border with Libya to protect travellers from attack by Darfur rebels.
 
 
-### Source:
+### Sources:
 
 1. [AfricaNews](http://www.africanews.com/site/Sudan_to_close_border_with_Libya/list_messages/33069)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/10445470.stm)

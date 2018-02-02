@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/26/the-prime-minister-of-australia-malcolm-turnbul
 
 ### [2016-07-26](/news/2016/07/26/index.md)
 
+##### Australian Prime Minister
 # The Prime Minister of Australia Malcolm Turnbull announces that a Royal Commission will be held into the Northern Territory youth justice system after the Australian Broadcasting Commission's Four Corners program shows footage of juvenile Aboriginal Australians being tortured at the Don Dale Juvenile Detention Centre. John Elferink has been sacked as the Northern Territory's Minister for Justice and Corrections following the report. 
 
 John Elferink is sacked as NT Corrections Minister in the wake of the damning Four Corners report.

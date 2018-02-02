@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/12/christine-lagarde-the-managing-director-of-the-
 
 ### [2016-12-12](/news/2016/12/12/index.md)
 
+##### Christine Lagarde
 # Christine Lagarde, the managing director of the International Monetary Fund, goes on trial in France for alleged negligence as Finance Minister resulting in the loss of hundreds of millions of euros. 
 
 The case caps a long-running legal drama that has captivated the public and exposed ties between powerful politicians and the wealthy.

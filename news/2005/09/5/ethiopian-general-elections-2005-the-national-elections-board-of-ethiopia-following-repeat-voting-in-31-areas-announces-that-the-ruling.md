@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/09/5/ethiopian-general-elections-2005-the-national-elections-board-of-ethiopia-following-repeat-voting-in-31-areas-announces-that-the-ruling.html)  [JSON](/news/2005/09/5/ethiopian-general-elections-2005-the-national-elections-board-of-ethiopia-following-repeat-voting-in-31-areas-announces-that-the-ruling.json)  [XML](/news/2005/09/5/ethiopian-general-elections-2005-the-national-elections-board-of-ethiopia-following-repeat-voting-in-31-areas-announces-that-the-ruling.xml)  
+
 ### [2005-09-5](/news/2005/09/5/index.md)
 
+##### 2005 elections
 #  Ethiopian general elections, 2005: The National Elections Board of Ethiopia, following repeat voting in 31 areas, announces that the ruling EPRDF coalition has retained control of the government, obtaining 59 percent of the seats in Parliament. ([http:--www.irinnews.org-report.asp?ReportID=48905&SelectRegion=Horn_of_Africa&SelectCountry=ETHIOPIA IRIN])
 
 

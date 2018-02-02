@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/20/spanair-flight-jk-5022-with-178-on-board-crashes-on-takeoff-at-madrid-s-barajas-international-airport-causing-154-fatalities.html)  [JSON](/news/2008/08/20/spanair-flight-jk-5022-with-178-on-board-crashes-on-takeoff-at-madrid-s-barajas-international-airport-causing-154-fatalities.json)  [XML](/news/2008/08/20/spanair-flight-jk-5022-with-178-on-board-crashes-on-takeoff-at-madrid-s-barajas-international-airport-causing-154-fatalities.xml)  
+
 ### [2008-08-20](/news/2008/08/20/index.md)
 
+##### Spanair Flight JK 5022
 #  Spanair Flight JK 5022 with 178 on board crashes on takeoff at Madrid's Barajas International Airport, causing 154 fatalities. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Mercury](http://www.news.com.au/mercury/story/0,22884,24216348-5005940,00.html)
 2. [El País](http://www.elpais.com/articulo/espana/Decenas/muertos/estrellarse/despegue/avion/salia/Barajas/elpepuesp/20080820elpepunac_11/Tes)

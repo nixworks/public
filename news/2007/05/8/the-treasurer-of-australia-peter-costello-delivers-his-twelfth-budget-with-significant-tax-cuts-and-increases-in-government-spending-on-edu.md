@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/8/the-treasurer-of-australia-peter-costello-delivers-his-twelfth-budget-with-significant-tax-cuts-and-increases-in-government-spending-on-edu.html)  [JSON](/news/2007/05/8/the-treasurer-of-australia-peter-costello-delivers-his-twelfth-budget-with-significant-tax-cuts-and-increases-in-government-spending-on-edu.json)  [XML](/news/2007/05/8/the-treasurer-of-australia-peter-costello-delivers-his-twelfth-budget-with-significant-tax-cuts-and-increases-in-government-spending-on-edu.xml)  
+
 ### [2007-05-8](/news/2007/05/8/index.md)
 
+##### Treasurer of Australia
 #  The Treasurer of Australia Peter Costello delivers his twelfth budget with significant tax cuts and increases in government spending on education and health. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/news/budget2007/70bn-splurge-on-education-tax-cuts/2007/05/08/1178390315019.html?page=fullpage)
 

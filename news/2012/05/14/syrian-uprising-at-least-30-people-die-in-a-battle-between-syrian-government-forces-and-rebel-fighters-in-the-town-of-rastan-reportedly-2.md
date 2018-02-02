@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/14/syrian-uprising-at-least-30-people-die-in-a-battle-between-syrian-government-forces-and-rebel-fighters-in-the-town-of-rastan-reportedly-2.html)  [JSON](/news/2012/05/14/syrian-uprising-at-least-30-people-die-in-a-battle-between-syrian-government-forces-and-rebel-fighters-in-the-town-of-rastan-reportedly-2.json)  [XML](/news/2012/05/14/syrian-uprising-at-least-30-people-die-in-a-battle-between-syrian-government-forces-and-rebel-fighters-in-the-town-of-rastan-reportedly-2.xml)  
+
 ### [2012-05-14](/news/2012/05/14/index.md)
 
+##### Syrian uprising (2011-present)
 # Syrian uprising: At least 30 people die in a battle between Syrian government forces and rebel fighters in the town of Rastan. Reportedly, 23 of the dead are government soldiers. 
 
 Syrian rebels have claimed a major blow against the Assad regime, driving its forces back and securing a town in the centre of the country, killing more than 20 soldiers and setting a number of tanks on fire.
 
 
-### Source:
+### Sources:
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9264079/Syrian-army-looses-23-troops-in-assualt-on-Rastan-in-defiance-of-ceasefire.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02218/syria-1_2218608k.jpg)
@@ -14,6 +18,6 @@ Syrian rebels have claimed a major blow against the Assad regime, driving its fo
 
 1. [Dozens of women and children are killed in a massacre by the Syrian army in the town of Houla, Homs province, Syria during the ongoing Syrian uprising. ](/news/2012/05/25/dozens-of-women-and-children-are-killed-in-a-massacre-by-the-syrian-army-in-the-town-of-houla-homs-province-syria-during-the-ongoing-syria.md) _Context: Syria, Syrian uprising (2011-present)_
 2. [Syrian uprising: Two large explosions occur in quick succession in the embattled Syrian capital Damascus, with dozens of people reportedly killed or injured. ](/news/2012/05/10/syrian-uprising-two-large-explosions-occur-in-quick-succession-in-the-embattled-syrian-capital-damascus-with-dozens-of-people-reportedly-k.md) _Context: Syria, Syrian uprising (2011-present)_
-3. [The Israeli Air Force (IAF) destroys a Syrian S-200 anti-aircraft battery near Damascus after it fired on its aircraft patrolling in Lebanese air space on a reconnaissance mission. ](/news/2017/10/16/the-israeli-air-force-iaf-destroys-a-syrian-s-200-anti-aircraft-battery-near-damascus-after-it-fired-on-its-aircraft-patrolling-in-lebanes.md) _Context: Syria_
-4. [A Russian Air Force Sukhoi Su-24 crashes at the Khmeimim air base in Latakia province in northwestern Syria, killing the two crewmen. ](/news/2017/10/10/a-russian-air-force-sukhoi-su-24-crashes-at-the-khmeimim-air-base-in-latakia-province-in-northwestern-syria-killing-the-two-crewmen.md) _Context: Syria_
-5. [A Russian lieutenant general, Valery Asapov, is killed by mortar fire from ISIL militants near the city of Deir ez-Zor, according to the Russian Defence Ministry. Asapov has been described as one of the senior Russian military advisers in Syria. ](/news/2017/09/24/a-russian-lieutenant-general-valery-asapov-is-killed-by-mortar-fire-from-isil-militants-near-the-city-of-deir-ez-zor-according-to-the-rus.md) _Context: Syria_
+3. [An explosion at the headquarters of the Chechen-led Ajnad al-Kavkaz rebel group in Idlib, Syria, kills at least 23 people, while several people remain unaccounted for, according to the Syrian Observatory for Human Rights. ](/news/2018/01/7/an-explosion-at-the-headquarters-of-the-chechen-led-ajnad-al-kavkaz-rebel-group-in-idlib-syria-kills-at-least-23-people-while-several-peo.md) _Context: Syria_
+4. [Turkish airstrikes and shelling heavily damage the ancient Syro-Hittite Ain Dara temple in Syria's Afrin District. The Directorate-General of Antiquities and Museums calls on the international community to pressure Turkey "to prevent the targeting of archaeological and cultural sites". ](/news/2018/01/28/turkish-airstrikes-and-shelling-heavily-damage-the-ancient-syro-hittite-ain-dara-temple-in-syria-s-afrin-district-the-directorate-general-o.md) _Context: Syria_
+5. [Researchers note that in November 2017, Strava, which processes data from apps and Internet of Things devices such as Fitbit, accidentally revealed the locations of alleged United States military bases overseas, including in Afghanistan, Djibouti and Syria. ](/news/2018/01/28/researchers-note-that-in-november-2017-strava-which-processes-data-from-apps-and-internet-of-things-devices-such-as-fitbit-accidentally-r.md) _Context: Syria_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/20/governor-of-the-northern-mariana-islands-benigno-fitial-resigns-from-office-ahead-of-a-senate-trial-on-18-articles-of-impeachment-lt-gover.html)  [JSON](/news/2013/02/20/governor-of-the-northern-mariana-islands-benigno-fitial-resigns-from-office-ahead-of-a-senate-trial-on-18-articles-of-impeachment-lt-gover.json)  [XML](/news/2013/02/20/governor-of-the-northern-mariana-islands-benigno-fitial-resigns-from-office-ahead-of-a-senate-trial-on-18-articles-of-impeachment-lt-gover.xml)  
+
 ### [2013-02-20](/news/2013/02/20/index.md)
 
+##### Governor of the Northern Mariana Islands
 # Governor of the Northern Mariana Islands Benigno Fitial resigns from office ahead of a Senate trial on 18 articles of impeachment. Lt. Governor Eloy Inos is sworn in as Governor. Senate President Jude Hofschneider takes office as the new Lieutenant Governor of the Northern Mariana Islands. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand International](http://www.rnzi.com/pages/news.php?op=read&id=74162)
 2. [Saipan Tribune](http://www.saipantribune.com/newsstory.aspx?cat=1&newsID=125436)

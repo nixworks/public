@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/19/the-u-s-supreme-court-agrees-to-hear-an-appeal-
 
 ### [2016-01-19](/news/2016/01/19/index.md)
 
+##### U.S. Supreme Court
 # The U.S. Supreme Court agrees to hear an appeal that may redefine the boundaries of insider trading in U.S. law and regulation, especially as it relates to tips shared among family and friends. 
 
 

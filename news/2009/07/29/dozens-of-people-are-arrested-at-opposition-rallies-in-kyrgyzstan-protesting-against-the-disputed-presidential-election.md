@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/29/dozens-of-people-are-arrested-at-opposition-rallies-in-kyrgyzstan-protesting-against-the-disputed-presidential-election.html)  [JSON](/news/2009/07/29/dozens-of-people-are-arrested-at-opposition-rallies-in-kyrgyzstan-protesting-against-the-disputed-presidential-election.json)  [XML](/news/2009/07/29/dozens-of-people-are-arrested-at-opposition-rallies-in-kyrgyzstan-protesting-against-the-disputed-presidential-election.xml)  
+
 ### [2009-07-29](/news/2009/07/29/index.md)
 
+##### Kyrgyzstan
 #  Dozens of people are arrested at opposition rallies in Kyrgyzstan, protesting against the disputed presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iUJB1Ax2FeGHXiHNZk3tsHtooaHw)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=101904&sectionid=351020406)

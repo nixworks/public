@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/15/a-uk-regulatory-agency-the-financial-conduct-authority-announces-plans-to-cap-the-interest-rates-that-can-be-set-by-payday-lenders-as-well.html)  [JSON](/news/2014/07/15/a-uk-regulatory-agency-the-financial-conduct-authority-announces-plans-to-cap-the-interest-rates-that-can-be-set-by-payday-lenders-as-well.json)  [XML](/news/2014/07/15/a-uk-regulatory-agency-the-financial-conduct-authority-announces-plans-to-cap-the-interest-rates-that-can-be-set-by-payday-lenders-as-well.xml)  
+
 ### [2014-07-15](/news/2014/07/15/index.md)
 
+##### UK
 # A UK regulatory agency, the Financial Conduct Authority announces plans to cap the interest rates that can be set by payday lenders, as well as their default charges. 
 
 Plans for a cap on interest rates on payday loans from January 2015 are announced by UK regulator the Financial Conduct Authority.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-28305886)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/76265000/jpg/_76265504_155109669.jpg)

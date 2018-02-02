@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/14/estonian-european-union-membership-referendum-2003-estonians-vote-66-8-percent-to-33-2-percent-to-join-the-european-union.html)  [JSON](/news/2003/09/14/estonian-european-union-membership-referendum-2003-estonians-vote-66-8-percent-to-33-2-percent-to-join-the-european-union.json)  [XML](/news/2003/09/14/estonian-european-union-membership-referendum-2003-estonians-vote-66-8-percent-to-33-2-percent-to-join-the-european-union.xml)  
+
 ### [2003-09-14](/news/2003/09/14/index.md)
 
+##### Estonian European Union membership referendum, 2003
 #  Estonian European Union membership referendum, 2003: Estonians vote, 66.8 percent to 33.2 percent, to join the European Union.
 
 

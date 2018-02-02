@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/13/at-least-11-people-are-killed-and-over-228-injured-in-a-collision-between-a-bus-and-train-in-the-suburb-of-flores-in-the-argentine-capital-o.html)  [JSON](/news/2011/09/13/at-least-11-people-are-killed-and-over-228-injured-in-a-collision-between-a-bus-and-train-in-the-suburb-of-flores-in-the-argentine-capital-o.json)  [XML](/news/2011/09/13/at-least-11-people-are-killed-and-over-228-injured-in-a-collision-between-a-bus-and-train-in-the-suburb-of-flores-in-the-argentine-capital-o.xml)  
+
 ### [2011-09-13](/news/2011/09/13/index.md)
 
+##### Flores
 # At least 11 people are killed and over 228 injured in a collision between a bus and train in the suburb of Flores in the Argentine capital of Buenos Aires. 
 
 At 6.15am, a fatal level crossing accident occurred in Flores neighbourhood on Tuesday morning on the Sarmiento train line that connects with Artigas street, where a 92 line bus crashed into a passenger train. The wreckage of the bus were removed by 9 pm. The impact of the crash caused the trai
 
 
-### Source:
+### Sources:
 
 1. [Buenos Aires Herald](http://www.buenosairesherald.com/article/78679/train-crash-in-flores-leaves-11-dead-over-212-injured)
 1. [Cover Image](/files/imagenes//201109/78679_13_110718.jpg)

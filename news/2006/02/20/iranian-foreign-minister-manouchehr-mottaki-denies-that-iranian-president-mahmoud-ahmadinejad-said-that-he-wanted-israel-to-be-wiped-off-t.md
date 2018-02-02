@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/02/20/iranian-foreign-minister-manouchehr-mottaki-denies-that-iranian-president-mahmoud-ahmadinejad-said-that-he-wanted-israel-to-be-wiped-off-t.html)  [JSON](/news/2006/02/20/iranian-foreign-minister-manouchehr-mottaki-denies-that-iranian-president-mahmoud-ahmadinejad-said-that-he-wanted-israel-to-be-wiped-off-t.json)  [XML](/news/2006/02/20/iranian-foreign-minister-manouchehr-mottaki-denies-that-iranian-president-mahmoud-ahmadinejad-said-that-he-wanted-israel-to-be-wiped-off-t.xml)  
+
 ### [2006-02-20](/news/2006/02/20/index.md)
 
+##### Iran
 #  Iranian Foreign Minister Manouchehr Mottaki denies that Iranian President Mahmoud Ahmadinejad said that he wanted Israel to be "wiped off the map", saying Ahmadinejad was misunderstood. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://news.yahoo.com/s/nm/20060220/wl_nm/iran_israel_dc;_ylt=Au_s7hHhEmUoRB0Hda7OyYm9IxIF;_ylu=X3oDMTA4NTMzazIyBHNlYwMxNjk2)
+1. [Reuters](https://news.yahoo.com/s/nm/20060220/wl_nm/iran_israel_dc;_ylt=Au_s7hHhEmUoRB0Hda7OyYm9IxIF;_ylu=X3oDMTA4NTMzazIyBHNlYwMxNjk2)
 
 ### Related:
 

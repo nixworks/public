@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/9/malawian-president-joyce-banda-sacks-the-national-police-chief-peter-mukhito.html)  [JSON](/news/2012/04/9/malawian-president-joyce-banda-sacks-the-national-police-chief-peter-mukhito.json)  [XML](/news/2012/04/9/malawian-president-joyce-banda-sacks-the-national-police-chief-peter-mukhito.xml)  
+
 ### [2012-04-9](/news/2012/04/9/index.md)
 
+##### Malawi
 # Malawian President Joyce Banda sacks the national police chief, Peter Mukhito. 
 
  Lilongwe - The Malawi Inspector General of Police, Peter Mukhito, has becomes the first political casualty in President Joyce Banda’ three day...
 
 
-### Source:
+### Sources:
 
 1. [Newstime Africa](http://www.newstimeafrica.com/archives/25079)
 1. [Cover Image](http://www.newstimeafrica.com/wp-content/uploads/2012/04/Police-Chief-Peter-Mukhito-150x150.jpg)

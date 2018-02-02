@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/03/7/hundreds-of-christian-villagers-are-hacked-to-death-with-machetes-by-muslim-herders-in-dogo-nahawa-nigeria.html)  [JSON](/news/2010/03/7/hundreds-of-christian-villagers-are-hacked-to-death-with-machetes-by-muslim-herders-in-dogo-nahawa-nigeria.json)  [XML](/news/2010/03/7/hundreds-of-christian-villagers-are-hacked-to-death-with-machetes-by-muslim-herders-in-dogo-nahawa-nigeria.xml)  
+
 ### [2010-03-7](/news/2010/03/7/index.md)
 
+##### Christian
 # Hundreds of Christian villagers are hacked to death with machetes by Muslim herders in Dogo-Nahawa, Nigeria. 
 
 * Death toll may be above 300 - local official * Jonathan places security forces on red alert * Violence in same area killed hundreds in J
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8554304.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKLDE6260AW20100307)
-3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/07/AR2010030701020.html)
+3. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/03/07/AR2010030701020.html)
 3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/6/in-bougainville-joseph-kabui-is-elected-president-of-the-autonomous-government.html)  [JSON](/news/2005/06/6/in-bougainville-joseph-kabui-is-elected-president-of-the-autonomous-government.json)  [XML](/news/2005/06/6/in-bougainville-joseph-kabui-is-elected-president-of-the-autonomous-government.xml)  
+
 ### [2005-06-6](/news/2005/06/6/index.md)
 
+##### Bougainville Island
 #  In Bougainville, Joseph Kabui is elected president of the autonomous government 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4612685.stm)
 2. [Radio Australia](http://www.abc.net.au/ra/news/stories/s1385733.htm)

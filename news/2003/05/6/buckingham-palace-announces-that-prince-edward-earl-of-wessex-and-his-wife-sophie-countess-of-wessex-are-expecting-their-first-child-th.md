@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2003/05/6/buckingham-palace-announces-that-prince-edward-earl-of-wessex-and-his-wife-sophie-countess-of-wessex-are-expecting-their-first-child-th.html)  [JSON](/news/2003/05/6/buckingham-palace-announces-that-prince-edward-earl-of-wessex-and-his-wife-sophie-countess-of-wessex-are-expecting-their-first-child-th.json)  [XML](/news/2003/05/6/buckingham-palace-announces-that-prince-edward-earl-of-wessex-and-his-wife-sophie-countess-of-wessex-are-expecting-their-first-child-th.xml)  
+
 ### [2003-05-6](/news/2003/05/6/index.md)
 
-#  Buckingham Palace announces that Prince Edward, Earl of Wessex and his wife, Sophie, Countess of Wessex are expecting their first child. The child, due to be born on May 6, 2003. He or she will be the seventh grandchild of Queen Elizabeth&nbsp;II and Prince Philip, Duke of Edinburgh.
+##### Buckingham Palace
+#  Buckingham Palace announces that Prince Edward, Earl of Wessex and his wife, Sophie, Countess of Wessex are expecting their first child. The child will be the seventh grandchild of Queen Elizabeth&nbsp;II and Prince Philip, Duke of Edinburgh.
 
 
 

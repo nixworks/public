@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/20/riga-castle-fire-a-major-fire-breaks-out-at-the-riga-castle-the-latvian-presidential-palace.html)  [JSON](/news/2013/06/20/riga-castle-fire-a-major-fire-breaks-out-at-the-riga-castle-the-latvian-presidential-palace.json)  [XML](/news/2013/06/20/riga-castle-fire-a-major-fire-breaks-out-at-the-riga-castle-the-latvian-presidential-palace.xml)  
+
 ### [2013-06-20](/news/2013/06/20/index.md)
 
+##### Riga Castle fire
 # Riga Castle fire: A major fire breaks out at the Riga Castle, the Latvian presidential palace. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-22998569)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68295000/jpg/_68295785_018386664.jpg)

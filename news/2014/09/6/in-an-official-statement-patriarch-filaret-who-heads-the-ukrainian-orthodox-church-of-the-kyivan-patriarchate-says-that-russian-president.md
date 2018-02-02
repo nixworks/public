@@ -1,25 +1,29 @@
+
+Formats: [HTML](/news/2014/09/6/in-an-official-statement-patriarch-filaret-who-heads-the-ukrainian-orthodox-church-of-the-kyivan-patriarchate-says-that-russian-president.html)  [JSON](/news/2014/09/6/in-an-official-statement-patriarch-filaret-who-heads-the-ukrainian-orthodox-church-of-the-kyivan-patriarchate-says-that-russian-president.json)  [XML](/news/2014/09/6/in-an-official-statement-patriarch-filaret-who-heads-the-ukrainian-orthodox-church-of-the-kyivan-patriarchate-says-that-russian-president.xml)  
+
 ### [2014-09-6](/news/2014/09/6/index.md)
 
+##### Patriarch Filaret
 # In an official statement, Patriarch Filaret, who heads the Ukrainian Orthodox Church of the Kyivan Patriarchate, says that Russian President Vladimir Putin has fallen under the spell of Satan and faces eternal damnation to hell unless he repents. 
 
 President Vladimir Putin has fallen under the spell of Satan and faces eternal damnation unless he repents, a top Ukrainian clergyman said on Saturday in an unusually blunt statement that squarely blamed the Russian leader for the war in Ukraine.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/09/06/us-ukraine-crisis-patriarch-putin-idUSKBN0H10F920140906)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
-
-### Related:
-
-1. [Russian police arrest 290 protesters calling on President Vladimir Putin to resign. ](/news/2017/10/7/russian-police-arrest-290-protesters-calling-on-president-vladimir-putin-to-resign.md) _Context: Vladimir Putin_
-2. [King Salman of Saudi Arabia visits Russian President Vladimir Putin in the Moscow Kremlin. They discuss oil prices and the Syrian Civil War. ](/news/2017/10/5/king-salman-of-saudi-arabia-visits-russian-president-vladimir-putin-in-the-moscow-kremlin-they-discuss-oil-prices-and-the-syrian-civil-war.md) _Context: Vladimir Putin_
-3. [Russian president Vladimir Putin signs decree to implement UNSC sanctions on North Korea. ](/news/2017/10/16/russian-president-vladimir-putin-signs-decree-to-implement-unsc-sanctions-on-north-korea.md) _Context: Vladimir Putin_
-4. [Russian President Vladimir Putin dismisses Nizhny Novgorod Oblast governor Valery Shantsev from his post, the second governor to lose his job in a week after Putin dismissed Samara Oblast governor Nikolay Merkushkin the day before. The dismissals come amid speculation that governors of several federal subjects will resign in anticipation of presidential elections in 2018. ](/news/2017/09/26/russian-president-vladimir-putin-dismisses-nizhny-novgorod-oblast-governor-valery-shantsev-from-his-post-the-second-governor-to-lose-his-jo.md) _Context: Vladimir Putin_
-5. [U.S. President Donald Trump says he and Russian President Vladimir Putin "discussed forming an impenetrable cyber security unit so that election hacking, and many other negative things, will be guarded and safe." Trump later says he does not think this will happen. ](/news/2017/07/9/u-s-president-donald-trump-says-he-and-russian-president-vladimir-putin-discussed-forming-an-impenetrable-cyber-security-unit-so-that-elec.md) _Context: Vladimir Putin_
+1. [Reuters](https://www.reuters.com/article/2014/09/06/us-ukraine-crisis-patriarch-putin-idUSKBN0H10F920140906)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Changes:
 
 1. [Russian military intervention in Ukraine:In an official statement, Patriarch Filaret, who heads the Ukrainian Orthodox Church of the Kyivan Patriarchate, says that Russian President Vladimir Putin has fallen under the spell of Satan and faces eternal damnation to hell unless he repents. ](/news/2014/09/6/russian-military-intervention-in-ukraine-pin-an-official-statement-patriarch-filaret-who-heads-the-ukrainian-orthodox-church-of-the-kyivan.md) _2017-08-25 03:40:56 (First version)_
 2. [Russian military intervention in Ukraine:: In an official statement, Patriarch Filaret, who heads the Ukrainian Orthodox Church of the Kyivan Patriarchate, says that Russian President Vladimir Putin has fallen under the spell of Satan and faces eternal damnation to hell unless he repents. ](/news/2014/09/6/russian-military-intervention-in-ukraine-in-an-official-statement-patriarch-filaret-who-heads-the-ukrainian-orthodox-church-of-the-kyiva.md) _2017-08-27 03:41:15 (Update)_
 2. [In an official statement, Patriarch Filaret, who heads the Ukrainian Orthodox Church of the Kyivan Patriarchate, says that Russian President Vladimir Putin has fallen under the spell of Satan and faces eternal damnation to hell unless he repents. ](/news/2014/09/6/in-an-official-statement-patriarch-filaret-who-heads-the-ukrainian-orthodox-church-of-the-kyivan-patriarchate-says-that-russian-president.md) _(Current version)_
+
+### Related:
+
+1. [Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was.md) _Context: Vladimir Putin_
+2. [Russian opposition politician Alexei Navalny is arrested by police at a protest rally in Moscow. His arrest comes shortly after police raid the headquarters of his unregistered Progress Party in an apparent attempt to disrupt online broadcasts of opposition rallies against Vladimir Putin, while police say they were looking for a bomb. Navalny is released from police custody without charge late Sunday but needs to appear in court later. ](/news/2018/01/28/russian-opposition-politician-alexei-navalny-is-arrested-by-police-at-a-protest-rally-in-moscow-his-arrest-comes-shortly-after-police-raid.md) _Context: Vladimir Putin_
+3. [President Vladimir Putin declares victory over the Islamic State terror group across both banks of the river Euphrates. ](/news/2017/12/6/president-vladimir-putin-declares-victory-over-the-islamic-state-terror-group-across-both-banks-of-the-river-euphrates.md) _Context: Vladimir Putin_
+4. [President Vladimir Putin announces his participation in the 2018 presidential election. ](/news/2017/12/6/president-vladimir-putin-announces-his-participation-in-the-2018-presidential-election.md) _Context: Vladimir Putin_
+5. [Russian President Vladimir Putin thanks U.S. President Donald Trump for sharing intelligence from the Central Intelligence Agency which they say helped prevent a terrorist attack in Saint Petersburg. ](/news/2017/12/17/russian-president-vladimir-putin-thanks-u-s-president-donald-trump-for-sharing-intelligence-from-the-central-intelligence-agency-which-they.md) _Context: Vladimir Putin_

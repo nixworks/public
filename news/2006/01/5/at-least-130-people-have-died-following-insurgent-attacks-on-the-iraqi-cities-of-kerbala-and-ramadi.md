@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/5/at-least-130-people-have-died-following-insurgent-attacks-on-the-iraqi-cities-of-kerbala-and-ramadi.html)  [JSON](/news/2006/01/5/at-least-130-people-have-died-following-insurgent-attacks-on-the-iraqi-cities-of-kerbala-and-ramadi.json)  [XML](/news/2006/01/5/at-least-130-people-have-died-following-insurgent-attacks-on-the-iraqi-cities-of-kerbala-and-ramadi.xml)  
+
 ### [2006-01-5](/news/2006/01/5/index.md)
 
+##### Iraqi insurgency
 #  At least 130 people have died following insurgent attacks on the Iraqi cities of Kerbala and Ramadi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4583232.stm)
 

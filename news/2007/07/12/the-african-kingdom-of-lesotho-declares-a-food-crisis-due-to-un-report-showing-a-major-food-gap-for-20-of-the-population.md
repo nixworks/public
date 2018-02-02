@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/07/12/the-african-kingdom-of-lesotho-declares-a-food-crisis-due-to-un-report-showing-a-major-food-gap-for-20-of-the-population.html)  [JSON](/news/2007/07/12/the-african-kingdom-of-lesotho-declares-a-food-crisis-due-to-un-report-showing-a-major-food-gap-for-20-of-the-population.json)  [XML](/news/2007/07/12/the-african-kingdom-of-lesotho-declares-a-food-crisis-due-to-un-report-showing-a-major-food-gap-for-20-of-the-population.xml)  
+
 ### [2007-07-12](/news/2007/07/12/index.md)
 
+##### Africa
 #  The African kingdom of Lesotho declares a food crisis due to UN report showing a "major food gap" for 20% of the population. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/homepageCrisis/idUSL12334155._CH_.2400)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20070712&t=2&i=1091935&w=&fh=545px&fw=&ll=&pl=&sq=&r=1091935)
+1. [Reuters](https://www.reuters.com/article/homepageCrisis/idUSL12334155._CH_.2400)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20070712&t=2&i=1091935&w=&fh=545px&fw=&ll=&pl=&sq=&r=1091935)
 
 ### Related:
 

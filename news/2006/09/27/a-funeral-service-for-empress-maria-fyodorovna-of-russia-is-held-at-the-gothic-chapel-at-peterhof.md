@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/27/a-funeral-service-for-empress-maria-fyodorovna-of-russia-is-held-at-the-gothic-chapel-at-peterhof.html)  [JSON](/news/2006/09/27/a-funeral-service-for-empress-maria-fyodorovna-of-russia-is-held-at-the-gothic-chapel-at-peterhof.json)  [XML](/news/2006/09/27/a-funeral-service-for-empress-maria-fyodorovna-of-russia-is-held-at-the-gothic-chapel-at-peterhof.xml)  
+
 ### [2006-09-27](/news/2006/09/27/index.md)
 
+##### Maria Fyodorovna
 #  A funeral service for Empress Maria Fyodorovna of Russia is held at the Gothic Chapel at Peterhof. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Interfax](http://www.interfax-religion.com/?act=news&div=2059)
 

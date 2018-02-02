@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/28/in-a-legal-milestone-the-high-court-of-england-and-wales-rules-that-bt-group-must-block-access-to-newzbin-2-a-members-only-website-providi.html)  [JSON](/news/2011/07/28/in-a-legal-milestone-the-high-court-of-england-and-wales-rules-that-bt-group-must-block-access-to-newzbin-2-a-members-only-website-providi.json)  [XML](/news/2011/07/28/in-a-legal-milestone-the-high-court-of-england-and-wales-rules-that-bt-group-must-block-access-to-newzbin-2-a-members-only-website-providi.xml)  
+
 ### [2011-07-28](/news/2011/07/28/index.md)
 
+##### High Court of England and Wales
 # In a legal milestone, the High Court of England and Wales rules that BT Group must block access to Newzbin 2, a members-only website providing links to pirated movies. 
 
 In a UK legal first a judge has ruled that a website offering links to free movies must be blocked.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/technology-14322957)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53721000/jpg/_53721259_filmstock,bbc.jpg)

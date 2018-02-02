@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/5/the-federated-states-of-micronesia-recognize-kosovo.html)  [JSON](/news/2008/12/5/the-federated-states-of-micronesia-recognize-kosovo.json)  [XML](/news/2008/12/5/the-federated-states-of-micronesia-recognize-kosovo.xml)  
+
 ### [2008-12-5](/news/2008/12/5/index.md)
 
+##### Federated States of Micronesia
 #  The Federated States of Micronesia recognize Kosovo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New Kosova Report](http://www.ks-gov.net/MPJ/Home/tabid/161/ItemID/175/View/Details/Default.aspx)
 

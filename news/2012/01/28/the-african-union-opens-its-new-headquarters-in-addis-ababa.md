@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/28/the-african-union-opens-its-new-headquarters-in-addis-ababa.html)  [JSON](/news/2012/01/28/the-african-union-opens-its-new-headquarters-in-addis-ababa.json)  [XML](/news/2012/01/28/the-african-union-opens-its-new-headquarters-in-addis-ababa.xml)  
+
 ### [2012-01-28](/news/2012/01/28/index.md)
 
+##### African Union
 # The African Union opens its new headquarters in Addis Ababa. 
 
 The African Union inaugurates its newly built Chinese-funded headquarters in the Ethiopian capital, Addis Ababa.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-16770932)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/58151000/jpg/_58151068_013804346-1.jpg)

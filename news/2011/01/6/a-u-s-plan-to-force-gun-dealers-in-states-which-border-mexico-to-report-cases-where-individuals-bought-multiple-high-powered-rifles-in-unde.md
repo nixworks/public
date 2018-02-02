@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/01/6/a-u-s-plan-to-force-gun-dealers-in-states-which-border-mexico-to-report-cases-where-individuals-bought-multiple-high-powered-rifles-in-unde.html)  [JSON](/news/2011/01/6/a-u-s-plan-to-force-gun-dealers-in-states-which-border-mexico-to-report-cases-where-individuals-bought-multiple-high-powered-rifles-in-unde.json)  [XML](/news/2011/01/6/a-u-s-plan-to-force-gun-dealers-in-states-which-border-mexico-to-report-cases-where-individuals-bought-multiple-high-powered-rifles-in-unde.xml)  
+
 ### [2011-01-6](/news/2011/01/6/index.md)
 
+##### U.S.
 # A U.S. plan to force gun dealers in states which border Mexico to report cases where individuals bought multiple high-powered rifles in under 5 days, is stalled due to opposition from gun lobbies. Approximately 90% of crime guns seized in Mexico originate in the U.S., and over 30,000 people have died in Mexico due to drug cartel violence since 2006. 
 
 A planned Obama administration clampdown on Mexico border gun dealers which would require them to report multiple assault rifle sales has been delayed by the White House amid stiff opposition from the powerful gun lobby.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE7055XA20110106)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110106&t=2&i=297823217&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-06T214528Z_01_BTRE7051OFV00_RTROPTP_0_USA)
+1. [Reuters](https://www.reuters.com/article/idUSTRE7055XA20110106)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20110106&t=2&i=297823217&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-06T214528Z_01_BTRE7051OFV00_RTROPTP_0_USA)
 
 ### Related:
 

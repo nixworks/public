@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/15/iran-s-parliament-approves-president-mahmoud-ahmadinejad-s-final-three-ministerial-choices.html)  [JSON](/news/2009/11/15/iran-s-parliament-approves-president-mahmoud-ahmadinejad-s-final-three-ministerial-choices.json)  [XML](/news/2009/11/15/iran-s-parliament-approves-president-mahmoud-ahmadinejad-s-final-three-ministerial-choices.xml)  
+
 ### [2009-11-15](/news/2009/11/15/index.md)
 
+##### Iran
 #  Iran's Parliament approves President Mahmoud Ahmadinejad's final three ministerial choices. 
 
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://www.presstv.ir/detail.aspx?id=111330&sectionid=351020101)
 2. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1108929&lang=eng_news)

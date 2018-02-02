@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/23/various-billionaires-world-leaders-and-investor
 
 ### [2018-01-23](/news/2018/01/23/index.md)
 
+##### World Economic Forum
 # Various billionaires, world leaders, and investors gather in Davos, Switzerland to discuss economic issues. 
 
 Billionaires, world leaders and investors are gathering in Davos for the World Economic Forum’s annual meeting.

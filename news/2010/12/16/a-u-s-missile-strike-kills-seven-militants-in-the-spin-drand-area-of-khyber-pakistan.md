@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/16/a-u-s-missile-strike-kills-seven-militants-in-the-spin-drand-area-of-khyber-pakistan.html)  [JSON](/news/2010/12/16/a-u-s-missile-strike-kills-seven-militants-in-the-spin-drand-area-of-khyber-pakistan.json)  [XML](/news/2010/12/16/a-u-s-missile-strike-kills-seven-militants-in-the-spin-drand-area-of-khyber-pakistan.xml)  
+
 ### [2010-12-16](/news/2010/12/16/index.md)
 
+##### U.S.
 # A U.S. missile strike kills seven militants in the Spin Drand area of Khyber, Pakistan. 
 
 A U.S. missile strike killed seven militants Thursday in a Pakistani region close to the Afghan border that has rarely seen such attacks, two Pakistani intelligence officials said.
 
 
-### Source:
+### Sources:
 
 1. [Washington Times](http://www.washingtontimes.com/news/2010/dec/16/pakistani-officials-say-us-missiles-kill-7-northwe/)
 

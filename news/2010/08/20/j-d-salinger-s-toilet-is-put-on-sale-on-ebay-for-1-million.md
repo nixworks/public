@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/08/20/j-d-salinger-s-toilet-is-put-on-sale-on-ebay-for-1-million.html)  [JSON](/news/2010/08/20/j-d-salinger-s-toilet-is-put-on-sale-on-ebay-for-1-million.json)  [XML](/news/2010/08/20/j-d-salinger-s-toilet-is-put-on-sale-on-ebay-for-1-million.xml)  
+
 ### [2010-08-20](/news/2010/08/20/index.md)
 
+##### J. D. Salinger
 # J. D. Salinger's toilet is put on sale on eBay for $1 million. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/08/20/AR2010082003818.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/08/20/AR2010082003818.html)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-11044329)
 2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 

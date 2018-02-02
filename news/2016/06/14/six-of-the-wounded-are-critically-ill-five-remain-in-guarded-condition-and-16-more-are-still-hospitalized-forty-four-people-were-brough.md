@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/14/six-of-the-wounded-are-critically-ill-five-rema
 
 ### [2016-06-14](/news/2016/06/14/index.md)
 
+##### 2016 Orlando mass shooting
 # Six of the wounded are critically ill, five remain in "guarded" condition, and 16 more are still hospitalized. Forty-four people were brought to the Orlando Regional Medical Center after the shooting. 
 
 Investigators from the FBI peered deeper Tuesday into the life of the Orlando nightclub gunman, even as the bureau faced questions and an internal

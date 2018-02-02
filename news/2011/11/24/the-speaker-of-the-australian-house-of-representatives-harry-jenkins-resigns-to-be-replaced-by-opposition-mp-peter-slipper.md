@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/24/the-speaker-of-the-australian-house-of-representatives-harry-jenkins-resigns-to-be-replaced-by-opposition-mp-peter-slipper.html)  [JSON](/news/2011/11/24/the-speaker-of-the-australian-house-of-representatives-harry-jenkins-resigns-to-be-replaced-by-opposition-mp-peter-slipper.json)  [XML](/news/2011/11/24/the-speaker-of-the-australian-house-of-representatives-harry-jenkins-resigns-to-be-replaced-by-opposition-mp-peter-slipper.xml)  
+
 ### [2011-11-24](/news/2011/11/24/index.md)
 
+##### Speaker of the Australian House of Representatives
 # The Speaker of the Australian House of Representatives Harry Jenkins resigns to be replaced by Opposition MP Peter Slipper. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/national-affairs/house-speaker-harry-jenkins-resigns/story-fn59niix-1226204376033)
 2. [The Australian](http://www.theaustralian.com.au/national-affairs/peter-slipper-has-been-formally-elected-speaker-of-the-house-of-representatives/story-fn59niix-1226204792858)

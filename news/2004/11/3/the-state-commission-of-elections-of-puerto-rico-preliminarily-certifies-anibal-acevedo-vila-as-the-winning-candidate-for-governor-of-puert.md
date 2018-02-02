@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/3/the-state-commission-of-elections-of-puerto-rico-preliminarily-certifies-anibal-acevedo-vila-as-the-winning-candidate-for-governor-of-puert.html)  [JSON](/news/2004/11/3/the-state-commission-of-elections-of-puerto-rico-preliminarily-certifies-anibal-acevedo-vila-as-the-winning-candidate-for-governor-of-puert.json)  [XML](/news/2004/11/3/the-state-commission-of-elections-of-puerto-rico-preliminarily-certifies-anibal-acevedo-vila-as-the-winning-candidate-for-governor-of-puert.xml)  
+
 ### [2004-11-3](/news/2004/11/3/index.md)
 
+##### State Commission of Elections of Puerto Rico
 #  The State Commission of Elections of Puerto Rico preliminarily certifies Anbal Acevedo Vil as the winning candidate for Governor of Puerto Rico, and Luis Fortuo as Resident Commissioner after computing 98.3% of the total votes. A full recount will begin on November 9 to announce the official winner. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CEE-PUR](http://www.ceepur.org/)
 2. [El Nuevo Día](http://www.endi.com/elecciones2004/noticia.asp?newsid=3DC2C262-908F-45EF-A14A-6B0BAC2ABB57)

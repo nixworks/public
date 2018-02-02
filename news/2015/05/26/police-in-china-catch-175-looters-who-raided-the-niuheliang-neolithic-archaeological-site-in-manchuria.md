@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/26/police-in-china-catch-175-looters-who-raided-the-niuheliang-neolithic-archaeological-site-in-manchuria.html)  [JSON](/news/2015/05/26/police-in-china-catch-175-looters-who-raided-the-niuheliang-neolithic-archaeological-site-in-manchuria.json)  [XML](/news/2015/05/26/police-in-china-catch-175-looters-who-raided-the-niuheliang-neolithic-archaeological-site-in-manchuria.xml)  
+
 ### [2015-05-26](/news/2015/05/26/index.md)
 
+##### China
 # Police in China catch 175 looters who raided the Niuheliang Neolithic archaeological site in Manchuria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/0df32f0d33fb461eb8db464f9c8b59fb/police-catch-175-looters-chinas-biggest-artifact-find)
 

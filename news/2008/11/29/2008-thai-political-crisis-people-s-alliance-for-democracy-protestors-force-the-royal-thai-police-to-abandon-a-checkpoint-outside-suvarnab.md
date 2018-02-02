@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/11/29/2008-thai-political-crisis-people-s-alliance-for-democracy-protestors-force-the-royal-thai-police-to-abandon-a-checkpoint-outside-suvarnab.html)  [JSON](/news/2008/11/29/2008-thai-political-crisis-people-s-alliance-for-democracy-protestors-force-the-royal-thai-police-to-abandon-a-checkpoint-outside-suvarnab.json)  [XML](/news/2008/11/29/2008-thai-political-crisis-people-s-alliance-for-democracy-protestors-force-the-royal-thai-police-to-abandon-a-checkpoint-outside-suvarnab.xml)  
+
 ### [2008-11-29](/news/2008/11/29/index.md)
 
+##### assemble
 #  2008 Thai political crisis: People's Alliance for Democracy protestors force the Royal Thai Police to abandon a checkpoint outside Suvarnabhumi Airport. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/rbssFinancialServicesAndRealEstateNews/idUSSP5775320081129)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/rbssFinancialServicesAndRealEstateNews/idUSSP5775320081129)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

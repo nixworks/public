@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/16/seeking-legal-recognition-as-a-news-organization-the-national-rifle-association-begins-nranews-a-website-dedicated-to-presenting-its-view.html)  [JSON](/news/2004/04/16/seeking-legal-recognition-as-a-news-organization-the-national-rifle-association-begins-nranews-a-website-dedicated-to-presenting-its-view.json)  [XML](/news/2004/04/16/seeking-legal-recognition-as-a-news-organization-the-national-rifle-association-begins-nranews-a-website-dedicated-to-presenting-its-view.xml)  
+
 ### [2004-04-16](/news/2004/04/16/index.md)
 
+##### NRA
 #  Seeking legal recognition as a news organization, the National Rifle Association begins NRANews, a website dedicated to presenting its view of the right to keep and bear arms. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NRANews](http://www.nranews.com/)
 

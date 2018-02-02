@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/6/burma-s-main-opposition-party-the-national-league-for-democracy-led-by-aung-san-suu-kyi-disbands-after-it-refuses-to-register-under-new-el.html)  [JSON](/news/2010/05/6/burma-s-main-opposition-party-the-national-league-for-democracy-led-by-aung-san-suu-kyi-disbands-after-it-refuses-to-register-under-new-el.json)  [XML](/news/2010/05/6/burma-s-main-opposition-party-the-national-league-for-democracy-led-by-aung-san-suu-kyi-disbands-after-it-refuses-to-register-under-new-el.xml)  
+
 ### [2010-05-6](/news/2010/05/6/index.md)
 
+##### Burma
 # Burma's main opposition party, the National League for Democracy led by Aung San Suu Kyi, disbands after it refuses to register under new election laws. 
 
 Myanmar opposition party says campaign will go on as it faces being disbanded.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hpTuO71miIEaHjubVEQ5LQwk6Uig)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/05/2010565313809276.html)

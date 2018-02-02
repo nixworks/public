@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/29/halloween-solar-storms-the-earth-s-magnetosphere-is-hit-by-the-recent-solar-flare-causing-a-brief-but-intense-geomagnetic-storm-provoking.html)  [JSON](/news/2003/10/29/halloween-solar-storms-the-earth-s-magnetosphere-is-hit-by-the-recent-solar-flare-causing-a-brief-but-intense-geomagnetic-storm-provoking.json)  [XML](/news/2003/10/29/halloween-solar-storms-the-earth-s-magnetosphere-is-hit-by-the-recent-solar-flare-causing-a-brief-but-intense-geomagnetic-storm-provoking.xml)  
+
 ### [2003-10-29](/news/2003/10/29/index.md)
 
+##### Halloween Solar Storms
 #  Halloween Solar Storms. The Earth's magnetosphere is hit by the recent solar flare causing a brief but intense geomagnetic storm, provoking unusual displays of Northern Lights.
 
 

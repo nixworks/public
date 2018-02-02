@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/4/china-is-to-boost-defence-spending-by-12-7-this-year.html)  [JSON](/news/2011/03/4/china-is-to-boost-defence-spending-by-12-7-this-year.json)  [XML](/news/2011/03/4/china-is-to-boost-defence-spending-by-12-7-this-year.xml)  
+
 ### [2011-03-4](/news/2011/03/4/index.md)
 
+##### China
 # China is to boost defence spending by 12.7% this year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Mainichi Shimbun](http://mdn.mainichi.jp/mdnnews/international/news/20110304p2g00m0in076000c.html)
 

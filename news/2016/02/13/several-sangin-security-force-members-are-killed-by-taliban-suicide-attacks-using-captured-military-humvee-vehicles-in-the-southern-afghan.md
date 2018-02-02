@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/13/several-sangin-security-force-members-are-kille
 
 ### [2016-02-13](/news/2016/02/13/index.md)
 
+##### War in Afghanistan (2015-present)
 # Several Sangin security force members are killed by Taliban suicide attacks, using captured military Humvee vehicles, in the southern Afghan province of Helmand. 
 
 Taliban insurgents in captured military Humvee vehicles launched suicide attacks in the southern Afghan province of Helmand on Saturday, killing several members of the security forces in the district centre of Sangin, a senior official said.

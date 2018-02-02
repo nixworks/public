@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/12/the-uk-s-terrorism-act-2006-comes-into-force-making-illegal-the-act-of-glorifying-terrorism.html)  [JSON](/news/2006/04/12/the-uk-s-terrorism-act-2006-comes-into-force-making-illegal-the-act-of-glorifying-terrorism.json)  [XML](/news/2006/04/12/the-uk-s-terrorism-act-2006-comes-into-force-making-illegal-the-act-of-glorifying-terrorism.xml)  
+
 ### [2006-04-12](/news/2006/04/12/index.md)
 
+##### Terrorism Act
 #  The UK's Terrorism Act 2006 comes into force, making illegal the act of glorifying terrorism. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/4905304.stm)
 

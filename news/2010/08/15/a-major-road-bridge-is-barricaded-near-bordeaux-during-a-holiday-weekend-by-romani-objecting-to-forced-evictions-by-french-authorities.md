@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/15/a-major-road-bridge-is-barricaded-near-bordeaux-during-a-holiday-weekend-by-romani-objecting-to-forced-evictions-by-french-authorities.html)  [JSON](/news/2010/08/15/a-major-road-bridge-is-barricaded-near-bordeaux-during-a-holiday-weekend-by-romani-objecting-to-forced-evictions-by-french-authorities.json)  [XML](/news/2010/08/15/a-major-road-bridge-is-barricaded-near-bordeaux-during-a-holiday-weekend-by-romani-objecting-to-forced-evictions-by-french-authorities.xml)  
+
 ### [2010-08-15](/news/2010/08/15/index.md)
 
+##### Bordeaux
 # A major road bridge is barricaded near Bordeaux during a holiday weekend by Romani objecting to forced evictions by French authorities. 
 
 Roma (Gypsies) block a major road near Bordeaux in protest after hundreds of them were evicted from an illegal campsite.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10982129)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5911704,00.html?maca=en-rss-en-all-1573-rdf)

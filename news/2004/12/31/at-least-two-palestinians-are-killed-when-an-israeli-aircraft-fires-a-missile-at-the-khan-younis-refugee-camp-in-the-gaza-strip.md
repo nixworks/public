@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/31/at-least-two-palestinians-are-killed-when-an-israeli-aircraft-fires-a-missile-at-the-khan-younis-refugee-camp-in-the-gaza-strip.html)  [JSON](/news/2004/12/31/at-least-two-palestinians-are-killed-when-an-israeli-aircraft-fires-a-missile-at-the-khan-younis-refugee-camp-in-the-gaza-strip.json)  [XML](/news/2004/12/31/at-least-two-palestinians-are-killed-when-an-israeli-aircraft-fires-a-missile-at-the-khan-younis-refugee-camp-in-the-gaza-strip.xml)  
+
 ### [2004-12-31](/news/2004/12/31/index.md)
 
+##### Palestinians
 #  At least two Palestinians are killed when an Israeli aircraft fires a missile at the Khan Younis refugee camp in the Gaza Strip. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4136631.stm)
 

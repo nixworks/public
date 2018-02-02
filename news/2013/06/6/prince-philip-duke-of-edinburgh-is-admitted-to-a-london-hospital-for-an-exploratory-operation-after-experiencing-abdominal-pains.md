@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/6/prince-philip-duke-of-edinburgh-is-admitted-to-a-london-hospital-for-an-exploratory-operation-after-experiencing-abdominal-pains.html)  [JSON](/news/2013/06/6/prince-philip-duke-of-edinburgh-is-admitted-to-a-london-hospital-for-an-exploratory-operation-after-experiencing-abdominal-pains.json)  [XML](/news/2013/06/6/prince-philip-duke-of-edinburgh-is-admitted-to-a-london-hospital-for-an-exploratory-operation-after-experiencing-abdominal-pains.xml)  
+
 ### [2013-06-6](/news/2013/06/6/index.md)
 
+##### Prince Philip, Duke of Edinburgh
 # Prince Philip, Duke of Edinburgh is admitted to a London hospital for an exploratory operation after experiencing abdominal pains. 
 
 The Duke of Edinburgh has been admitted to hospital for an exploratory operation, Buckingham Palace says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-22807942)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68027000/jpg/_68027752_duke_reuters.jpg)

@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2004/11/7/iraqi-prime-minister-iyad-allawi-publicly-authorizes-an-offensive-in-fallujah-and-ramadi-to-liberate-the-people-and-clean-falluja-of-ter.html)  [JSON](/news/2004/11/7/iraqi-prime-minister-iyad-allawi-publicly-authorizes-an-offensive-in-fallujah-and-ramadi-to-liberate-the-people-and-clean-falluja-of-ter.json)  [XML](/news/2004/11/7/iraqi-prime-minister-iyad-allawi-publicly-authorizes-an-offensive-in-fallujah-and-ramadi-to-liberate-the-people-and-clean-falluja-of-ter.xml)  
+
 ### [2004-11-7](/news/2004/11/7/index.md)
 
+##### Iyad Allawi
 #  Iraqi Prime Minister Iyad Allawi publicly authorizes an offensive in Fallujah and Ramadi to "liberate the people" and "clean Falluja of terrorists". U.S. and Iraqi forces advance. A hospital doctor in Falluja reports 15 people killed and 20 wounded. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3992263.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6750224)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6750224&pageNumber=2)
-3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6750224)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6750224&pageNumber=2)
 
 ### Related:
 

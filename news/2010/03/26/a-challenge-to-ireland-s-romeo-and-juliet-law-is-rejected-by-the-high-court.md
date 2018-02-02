@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/26/a-challenge-to-ireland-s-romeo-and-juliet-law-is-rejected-by-the-high-court.html)  [JSON](/news/2010/03/26/a-challenge-to-ireland-s-romeo-and-juliet-law-is-rejected-by-the-high-court.json)  [XML](/news/2010/03/26/a-challenge-to-ireland-s-romeo-and-juliet-law-is-rejected-by-the-high-court.xml)  
+
 ### [2010-03-26](/news/2010/03/26/index.md)
 
+##### Romeo and Juliet law
 # A challenge to Ireland's Romeo and Juliet law is rejected by the High Court. 
 
 A man who is charged with having sex with a 14-year-old girl when he was 15 has lost his High Court challenge to the law under which he is charged.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0326/court.html)
 1. [Cover Image](https://img.rasset.ie/000103d4-1600.jpg)

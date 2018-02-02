@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/12/oracle-corporation-announced-that-it-has-agreed-to-purchase-siebel-systems-for-approximately-5-85-billion-in-cash.html)  [JSON](/news/2005/09/12/oracle-corporation-announced-that-it-has-agreed-to-purchase-siebel-systems-for-approximately-5-85-billion-in-cash.json)  [XML](/news/2005/09/12/oracle-corporation-announced-that-it-has-agreed-to-purchase-siebel-systems-for-approximately-5-85-billion-in-cash.xml)  
+
 ### [2005-09-12](/news/2005/09/12/index.md)
 
+##### Oracle Corporation
 #  Oracle Corporation announced that it has agreed to purchase Siebel Systems for approximately $5.85 billion in cash. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/business/4237810.stm)
 

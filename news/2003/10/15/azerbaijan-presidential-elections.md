@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/15/azerbaijan-presidential-elections.html)  [JSON](/news/2003/10/15/azerbaijan-presidential-elections.json)  [XML](/news/2003/10/15/azerbaijan-presidential-elections.xml)  
+
 ### [2003-10-15](/news/2003/10/15/index.md)
 
+##### Azerbaijan
 #  Azerbaijan: Presidential elections.
 
 

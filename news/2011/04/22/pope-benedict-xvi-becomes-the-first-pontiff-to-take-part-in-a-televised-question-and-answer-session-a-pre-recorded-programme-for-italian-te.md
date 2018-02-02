@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/22/pope-benedict-xvi-becomes-the-first-pontiff-to-take-part-in-a-televised-question-and-answer-session-a-pre-recorded-programme-for-italian-te.html)  [JSON](/news/2011/04/22/pope-benedict-xvi-becomes-the-first-pontiff-to-take-part-in-a-televised-question-and-answer-session-a-pre-recorded-programme-for-italian-te.json)  [XML](/news/2011/04/22/pope-benedict-xvi-becomes-the-first-pontiff-to-take-part-in-a-televised-question-and-answer-session-a-pre-recorded-programme-for-italian-te.xml)  
+
 ### [2011-04-22](/news/2011/04/22/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI becomes the first pontiff to take part in a televised question-and-answer session, a pre-recorded programme for Italian television. 
 
 Pope Benedict makes history by taking part in a TV question-and-answer programme that aired on Good Friday.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13167831)
 2. [The Guardian](http://www.guardian.co.uk/world/2011/apr/22/pope-benedict-stumped-japanese-suffering)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/11/the-indian-navy-foils-an-attempt-by-somali-pirates-to-hijack-a-merchant-ship-in-gulf-of-aden.html)  [JSON](/news/2008/11/11/the-indian-navy-foils-an-attempt-by-somali-pirates-to-hijack-a-merchant-ship-in-gulf-of-aden.json)  [XML](/news/2008/11/11/the-indian-navy-foils-an-attempt-by-somali-pirates-to-hijack-a-merchant-ship-in-gulf-of-aden.xml)  
+
 ### [2008-11-11](/news/2008/11/11/index.md)
 
+##### India
 #  The Indian Navy foils an attempt by Somali pirates to hijack a merchant ship in Gulf of Aden. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Indian Express](http://www.expressindia.com/latest-news/Indian-Navy-foils-attack-by-pirates-rescue-ship/384257/)
 

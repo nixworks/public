@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/16/iran-bans-cnn-from-the-country-after-a-translator-mistranslated-a-remark-by-president-mahmoud-ahmadinejad-in-which-he-defended-iran-s-righ.html)  [JSON](/news/2006/01/16/iran-bans-cnn-from-the-country-after-a-translator-mistranslated-a-remark-by-president-mahmoud-ahmadinejad-in-which-he-defended-iran-s-righ.json)  [XML](/news/2006/01/16/iran-bans-cnn-from-the-country-after-a-translator-mistranslated-a-remark-by-president-mahmoud-ahmadinejad-in-which-he-defended-iran-s-righ.xml)  
+
 ### [2006-01-16](/news/2006/01/16/index.md)
 
+##### Iran
 #  Iran bans CNN from the country after a translator mistranslated a remark by President Mahmoud Ahmadinejad, in which he defended Iran's right to nuclear energy. The comment was translated as the right to construct nuclear weapons. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory?id=1510680)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/19/iraq-prime-minister-haider-al-abadi-says-u-s-ba
 
 ### [2017-02-19](/news/2017/02/19/index.md)
 
+##### Iraqi Civil War
 # Iraq Prime Minister Haider al-Abadi says U.S.-backed Iraqi forces have launched an operation to regain control of western Mosul from ISIL militants. The United Nations says humanitarian agencies are setting up in these older sections of the city where, already, food and fuel supplies are dwindling, running water is scarce, and electricity in many neighborhoods is unreliable for the estimated 800,000 civilians. 
 
 The UN warns about the safety of up to 650,000 civilians in the IS stronghold.

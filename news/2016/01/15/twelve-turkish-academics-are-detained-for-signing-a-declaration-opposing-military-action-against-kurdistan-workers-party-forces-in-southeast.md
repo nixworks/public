@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/15/twelve-turkish-academics-are-detained-for-signi
 
 ### [2016-01-15](/news/2016/01/15/index.md)
 
+##### PKK rebellion (2015-present)
 # Twelve Turkish academics are detained for signing a declaration opposing military action against Kurdistan Workers Party forces in southeast Turkey. 
 
 
@@ -20,8 +21,8 @@ Formats: [HTML](/news/2016/01/15/twelve-turkish-academics-are-detained-for-signi
 
 ### Related:
 
-1. [Turkish security forces kill at least 32 Kurdistan Workers' Party (PKK) militants over the weekend, in military operations across the embattled Kurdish-majority southeast. ](/news/2016/01/10/turkish-security-forces-kill-at-least-32-kurdistan-workers-party-pkk-militants-over-the-weekend-in-military-operations-across-the-embatt.md) _Context: Kurdistan Workers' Party, PKK rebellion (2015-present), Turkey_
-2. [Turkish jets bomb Kurdish PKK positions in south-east Turkey. ](/news/2014/10/14/turkish-jets-bomb-kurdish-pkk-positions-in-south-east-turkey.md) _Context: Kurdistan Workers' Party, Turkey, Turkish_
-3. [A suspected PKK car bomb kills at least 17 people, and injures 27 others in Turkey's southeast Hakkari Province. ](/news/2016/10/9/a-suspected-pkk-car-bomb-kills-at-least-17-people-and-injures-27-others-in-turkey-s-southeast-hakkac-ri-province.md) _Context: Kurdistan Workers' Party, Turkey_
-4. [Turkey suspends 11,500 teachers over alleged links to separatist terrorist organization Kurdistan Workers' Party (PKK) a week before the start of school. ](/news/2016/09/8/turkey-suspends-11-500-teachers-over-alleged-links-to-separatist-terrorist-organization-kurdistan-workers-party-pkk-a-week-before-the-sta.md) _Context: Kurdistan Workers' Party, Turkey_
-5. [Turkish Armed Forces claims that it has killed three Kurdistan Workers' Party fighters in air strikes in southeastern Turkey near the borders with Iraq. ](/news/2016/09/1/turkish-armed-forces-claims-that-it-has-killed-three-kurdistan-workers-party-fighters-in-air-strikes-in-southeastern-turkey-near-the-border.md) _Context: Kurdistan Workers' Party, Turkey_
+1. [Eight Turkish soldiers and 21 Kurdistan Workers Party (PKK) militants are killed in clashes and in a subsequent helicopter crash near Turkey's border with Iraq. ](/news/2016/05/13/eight-turkish-soldiers-and-21-kurdistan-workers-party-pkk-militants-are-killed-in-clashes-and-in-a-subsequent-helicopter-crash-near-turkey.md) _Context: Kurdistan Workers Party, Turkish_
+2. [A bombing kills at least five Turkish soldiers and one special forces police officer in the southeastern city of Nusaybin, near the Syria-Turkey border. ](/news/2016/04/2/a-bombing-kills-at-least-five-turkish-soldiers-and-one-special-forces-police-officer-in-the-southeastern-city-of-nusaybin-near-the-syriaa.md) _Context: PKK rebellion (2015-present), Turkish_
+3. [Two Turkish police officers are killed and at least 14 others including several civilians are injured by a car bomb attack on a police station in the town of Nusaybin, near the Syria-Turkey border. The Kurdistan Workers Party (PKK) are blamed for the attack. ](/news/2016/03/4/two-turkish-police-officers-are-killed-and-at-least-14-others-including-several-civilians-are-injured-by-a-car-bomb-attack-on-a-police-stati.md) _Context: Kurdistan Workers Party, PKK rebellion (2015-present)_
+4. [ Authorities in Turkey arrest three academics on charges of "terrorist propaganda" after they called for an end to security operations in the country's Kurdish-majority southeast. ](/news/2016/03/16/authorities-in-turkey-arrest-three-academics-on-charges-of-terrorist-propaganda-after-they-called-for-an-end-to-security-operations-in-th.md) _Context: PKK rebellion (2015-present), Turkish_
+5. [Turkish security forces kill at least 32 Kurdistan Workers' Party (PKK) militants over the weekend, in military operations across the embattled Kurdish-majority southeast. ](/news/2016/01/10/turkish-security-forces-kill-at-least-32-kurdistan-workers-party-pkk-militants-over-the-weekend-in-military-operations-across-the-embatt.md) _Context: PKK rebellion (2015-present), Turkish_

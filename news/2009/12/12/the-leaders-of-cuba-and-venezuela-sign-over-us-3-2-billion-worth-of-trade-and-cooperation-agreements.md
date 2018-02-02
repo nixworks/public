@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/12/the-leaders-of-cuba-and-venezuela-sign-over-us-3-2-billion-worth-of-trade-and-cooperation-agreements.html)  [JSON](/news/2009/12/12/the-leaders-of-cuba-and-venezuela-sign-over-us-3-2-billion-worth-of-trade-and-cooperation-agreements.json)  [XML](/news/2009/12/12/the-leaders-of-cuba-and-venezuela-sign-over-us-3-2-billion-worth-of-trade-and-cooperation-agreements.xml)  
+
 ### [2009-12-12](/news/2009/12/12/index.md)
 
+##### Cuba
 #  The leaders of Cuba and Venezuela sign over US$3.2 billion worth of trade and cooperation agreements. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_world_business/view/1024466/1/.html)
 

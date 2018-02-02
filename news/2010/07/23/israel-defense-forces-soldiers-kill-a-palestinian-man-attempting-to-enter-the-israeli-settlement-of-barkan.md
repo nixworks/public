@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/23/israel-defense-forces-soldiers-kill-a-palestinian-man-attempting-to-enter-the-israeli-settlement-of-barkan.html)  [JSON](/news/2010/07/23/israel-defense-forces-soldiers-kill-a-palestinian-man-attempting-to-enter-the-israeli-settlement-of-barkan.json)  [XML](/news/2010/07/23/israel-defense-forces-soldiers-kill-a-palestinian-man-attempting-to-enter-the-israeli-settlement-of-barkan.xml)  
+
 ### [2010-07-23](/news/2010/07/23/index.md)
 
+##### Israel Defense Forces
 # Israel Defense Forces soldiers kill a Palestinian man attempting to enter the Israeli settlement of Barkan. 
 
 A Palestinian man has been shot dead by Israeli troops after entering a Jewish settlement in the West Bank.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10725444)
 2. [Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=182325)

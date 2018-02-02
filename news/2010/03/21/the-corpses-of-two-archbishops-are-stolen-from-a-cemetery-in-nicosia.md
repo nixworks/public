@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/21/the-corpses-of-two-archbishops-are-stolen-from-a-cemetery-in-nicosia.html)  [JSON](/news/2010/03/21/the-corpses-of-two-archbishops-are-stolen-from-a-cemetery-in-nicosia.json)  [XML](/news/2010/03/21/the-corpses-of-two-archbishops-are-stolen-from-a-cemetery-in-nicosia.xml)  
+
 ### [2010-03-21](/news/2010/03/21/index.md)
 
+##### Nicosia
 # The corpses of two archbishops are stolen from a cemetery in Nicosia. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory?id=10160568)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8578760.stm)

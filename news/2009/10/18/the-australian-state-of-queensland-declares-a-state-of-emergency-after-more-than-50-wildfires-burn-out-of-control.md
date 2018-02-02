@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/18/the-australian-state-of-queensland-declares-a-state-of-emergency-after-more-than-50-wildfires-burn-out-of-control.html)  [JSON](/news/2009/10/18/the-australian-state-of-queensland-declares-a-state-of-emergency-after-more-than-50-wildfires-burn-out-of-control.json)  [XML](/news/2009/10/18/the-australian-state-of-queensland-declares-a-state-of-emergency-after-more-than-50-wildfires-burn-out-of-control.xml)  
+
 ### [2009-10-18](/news/2009/10/18/index.md)
 
+##### Australia
 #  The Australian state of Queensland declares a state of emergency after more than 50 wildfires burn out of control. 
 
 State of emergency declared in Queensland where homes have been destroyed.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/10/2009101863556779542.html)
 2. [TVNZ](http://tvnz.co.nz/world-news/bushfires-burn-across-australia-3080869)

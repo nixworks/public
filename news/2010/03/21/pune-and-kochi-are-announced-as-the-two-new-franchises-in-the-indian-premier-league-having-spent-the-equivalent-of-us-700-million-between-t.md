@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/21/pune-and-kochi-are-announced-as-the-two-new-franchises-in-the-indian-premier-league-having-spent-the-equivalent-of-us-700-million-between-t.html)  [JSON](/news/2010/03/21/pune-and-kochi-are-announced-as-the-two-new-franchises-in-the-indian-premier-league-having-spent-the-equivalent-of-us-700-million-between-t.json)  [XML](/news/2010/03/21/pune-and-kochi-are-announced-as-the-two-new-franchises-in-the-indian-premier-league-having-spent-the-equivalent-of-us-700-million-between-t.xml)  
+
 ### [2010-03-21](/news/2010/03/21/index.md)
 
+##### Pune
 # Pune and Kochi are announced as the two new franchises in the Indian Premier League, having spent the equivalent of US$700 million between them. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/cricket/8578606.stm)
 2. [Press Trust of India](http://www.ptinews.com/news/574835_Pune--Kochi-named-new-Indian-Premier-League-teams)

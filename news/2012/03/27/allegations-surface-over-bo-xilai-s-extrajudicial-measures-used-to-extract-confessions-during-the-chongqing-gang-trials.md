@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/03/27/allegations-surface-over-bo-xilai-s-extrajudicial-measures-used-to-extract-confessions-during-the-chongqing-gang-trials.html)  [JSON](/news/2012/03/27/allegations-surface-over-bo-xilai-s-extrajudicial-measures-used-to-extract-confessions-during-the-chongqing-gang-trials.json)  [XML](/news/2012/03/27/allegations-surface-over-bo-xilai-s-extrajudicial-measures-used-to-extract-confessions-during-the-chongqing-gang-trials.xml)  
+
 ### [2012-03-27](/news/2012/03/27/index.md)
 
+##### Bo Xilai
 # Allegations surface over Bo Xilai's extrajudicial measures used to extract confessions during the Chongqing gang trials. 
 
 Disturbing new details are emerging about an anticrime initiative led by the ousted party official Bo Xilai.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2012/03/27/world/asia/bo-xilais-china-crime-crackdown-adds-to-scandal.html?_r=1&hpw)
+1. [The New York Times](https://www.nytimes.com/2012/03/27/world/asia/bo-xilais-china-crime-crackdown-adds-to-scandal.html?_r=1&hpw)
 1. [Cover Image](https://static01.nyt.com/images/2012/03/27/world/JP-BO-4/JP-BO-4-thumbStandard.jpg)
 
 ### Related:

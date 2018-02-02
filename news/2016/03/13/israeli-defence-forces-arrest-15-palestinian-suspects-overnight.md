@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/13/israeli-defence-forces-arrest-15-palestinian-su
 
 ### [2016-03-13](/news/2016/03/13/index.md)
 
+##### Israeli-Palestinian conflict
 # Israeli Defence Forces arrest 15 Palestinian suspects overnight. 
 
 

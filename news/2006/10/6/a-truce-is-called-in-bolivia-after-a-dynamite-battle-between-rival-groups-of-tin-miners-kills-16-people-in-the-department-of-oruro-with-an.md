@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/6/a-truce-is-called-in-bolivia-after-a-dynamite-battle-between-rival-groups-of-tin-miners-kills-16-people-in-the-department-of-oruro-with-an.html)  [JSON](/news/2006/10/6/a-truce-is-called-in-bolivia-after-a-dynamite-battle-between-rival-groups-of-tin-miners-kills-16-people-in-the-department-of-oruro-with-an.json)  [XML](/news/2006/10/6/a-truce-is-called-in-bolivia-after-a-dynamite-battle-between-rival-groups-of-tin-miners-kills-16-people-in-the-department-of-oruro-with-an.xml)  
+
 ### [2006-10-6](/news/2006/10/6/index.md)
 
+##### Bolivia
 #  A truce is called in Bolivia after a dynamite battle between rival groups of tin miners kills 16 people in the department of Oruro, with another 60 people injured. President Evo Morales sacks his mining minister for not anticipating the violence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200610/s1757867.htm)
 

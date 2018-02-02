@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/27/incumbent-president-omar-bongo-ondimba-seeks-another-seven-year-term-against-four-other-candidates-in-gabonese-presidential-election-2005.html)  [JSON](/news/2005/11/27/incumbent-president-omar-bongo-ondimba-seeks-another-seven-year-term-against-four-other-candidates-in-gabonese-presidential-election-2005.json)  [XML](/news/2005/11/27/incumbent-president-omar-bongo-ondimba-seeks-another-seven-year-term-against-four-other-candidates-in-gabonese-presidential-election-2005.xml)  
+
 ### [2005-11-27](/news/2005/11/27/index.md)
 
+##### Omar Bongo Ondimba
 #  Incumbent President Omar Bongo Ondimba seeks another seven-year term against four other candidates in Gabonese presidential election, 2005. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://za.today.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=2005-11-27T082022Z_01_ALL729962_RTRIDST_0_OZATP-GABON-ELECTIONS-20051127.XML)
 

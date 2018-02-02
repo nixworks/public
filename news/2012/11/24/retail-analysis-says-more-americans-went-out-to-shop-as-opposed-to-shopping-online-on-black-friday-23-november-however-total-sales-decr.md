@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/24/retail-analysis-says-more-americans-went-out-to-shop-as-opposed-to-shopping-online-on-black-friday-23-november-however-total-sales-decr.html)  [JSON](/news/2012/11/24/retail-analysis-says-more-americans-went-out-to-shop-as-opposed-to-shopping-online-on-black-friday-23-november-however-total-sales-decr.json)  [XML](/news/2012/11/24/retail-analysis-says-more-americans-went-out-to-shop-as-opposed-to-shopping-online-on-black-friday-23-november-however-total-sales-decr.xml)  
+
 ### [2012-11-24](/news/2012/11/24/index.md)
 
+##### shopping online
 # Retail analysis says more Americans went out to shop (as opposed to shopping online) on Black Friday, 23 November. However, total sales decreased 1.8% from the previous Black Friday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2012/11/24/pf/black-friday-traffic/index.html?hpt=hp_t1)
 

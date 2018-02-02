@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/9/dozens-of-workers-in-china-are-hurt-during-labour-strikes-with-at-least-2-000-workers-clashing-with-police-in-the-city-of-kunshan.html)  [JSON](/news/2010/06/9/dozens-of-workers-in-china-are-hurt-during-labour-strikes-with-at-least-2-000-workers-clashing-with-police-in-the-city-of-kunshan.json)  [XML](/news/2010/06/9/dozens-of-workers-in-china-are-hurt-during-labour-strikes-with-at-least-2-000-workers-clashing-with-police-in-the-city-of-kunshan.xml)  
+
 ### [2010-06-9](/news/2010/06/9/index.md)
 
+##### Kunshan
 # Dozens of workers in China are hurt during labour strikes, with at least 2,000 workers clashing with police in the city of Kunshan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g3tEg0B3hY8rZ6t-upQTmLHQFAGw)
 2. [China Daily](http://www.chinadaily.com.cn/cndy/2010-06/09/content_9952151.htm)

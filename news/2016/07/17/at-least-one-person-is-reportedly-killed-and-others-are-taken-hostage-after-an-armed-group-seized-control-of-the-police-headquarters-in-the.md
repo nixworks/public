@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/17/at-least-one-person-is-reportedly-killed-and-ot
 
 ### [2016-07-17](/news/2016/07/17/index.md)
 
+##### Erebuni District
 # At least one person is reportedly killed and others are taken hostage after an armed group seized control of the police headquarters in the Erebuni District of Yerevan, Armenia. The gunmen are demanding the release of jailed opposition figure, Jirair Sefilian, according to Armenia's National Security Service. 
 
 One person was killed and least three wounded as an armed group seized a police station in Armenia&#039;s capital Yerevan. At least six hostages are still being held by the attackers, TASS reports citing police.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/22/the-world-bank-stops-financing-ca-te-d-ivoire.html)  [JSON](/news/2010/12/22/the-world-bank-stops-financing-ca-te-d-ivoire.json)  [XML](/news/2010/12/22/the-world-bank-stops-financing-ca-te-d-ivoire.xml)  
+
 ### [2010-12-22](/news/2010/12/22/index.md)
 
+##### World Bank
 # The World Bank stops financing Cote d'Ivoire. 
 
 World Bank stops loans to West African nation as disputed president insists on asserting his leadership.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/20101222162641743382.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/22/20101222183542866884_20.jpg)

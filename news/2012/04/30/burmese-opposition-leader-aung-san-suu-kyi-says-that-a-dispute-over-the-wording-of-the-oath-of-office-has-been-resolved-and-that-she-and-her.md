@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/30/burmese-opposition-leader-aung-san-suu-kyi-says-that-a-dispute-over-the-wording-of-the-oath-of-office-has-been-resolved-and-that-she-and-her.html)  [JSON](/news/2012/04/30/burmese-opposition-leader-aung-san-suu-kyi-says-that-a-dispute-over-the-wording-of-the-oath-of-office-has-been-resolved-and-that-she-and-her.json)  [XML](/news/2012/04/30/burmese-opposition-leader-aung-san-suu-kyi-says-that-a-dispute-over-the-wording-of-the-oath-of-office-has-been-resolved-and-that-she-and-her.xml)  
+
 ### [2012-04-30](/news/2012/04/30/index.md)
 
+##### Burma
 # Burmese opposition leader Aung San Suu Kyi says that a dispute over the wording of the oath of office has been resolved and that she and her colleagues from the National League for Democracy will attend parliament for the first time. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Huffington Post](http://www.huffingtonpost.com/huff-wires/20120430/as-myanmar-oath-dispute/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/20/the-death-of-a-fijian-detainee-at-the-villawood-detention-centre-in-sydney-australia-sparks-a-rooftop-protest-by-tamil-detainees.html)  [JSON](/news/2010/09/20/the-death-of-a-fijian-detainee-at-the-villawood-detention-centre-in-sydney-australia-sparks-a-rooftop-protest-by-tamil-detainees.json)  [XML](/news/2010/09/20/the-death-of-a-fijian-detainee-at-the-villawood-detention-centre-in-sydney-australia-sparks-a-rooftop-protest-by-tamil-detainees.xml)  
+
 ### [2010-09-20](/news/2010/09/20/index.md)
 
+##### Fiji
 # The death of a Fijian detainee at the Villawood Detention Centre in Sydney, Australia, sparks a rooftop protest by Tamil detainees. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Herald-Sun](http://www.heraldsun.com.au/news/national/fijian-detainees-death-at-villawood-detention-centre-sparks-new-rooftop-protest/story-e6frf7l6-1225926871328)
 

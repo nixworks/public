@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/07/2/hamas-suspends-voter-registration-in-the-gaza-strip-stalling-palestinian-plans-for-parliamentary-and-presidential-elections-and-thwarting-m.html)  [JSON](/news/2012/07/2/hamas-suspends-voter-registration-in-the-gaza-strip-stalling-palestinian-plans-for-parliamentary-and-presidential-elections-and-thwarting-m.json)  [XML](/news/2012/07/2/hamas-suspends-voter-registration-in-the-gaza-strip-stalling-palestinian-plans-for-parliamentary-and-presidential-elections-and-thwarting-m.xml)  
+
 ### [2012-07-2](/news/2012/07/2/index.md)
 
+##### Hamas
 # Hamas suspends voter registration in the Gaza Strip, stalling Palestinian plans for parliamentary and presidential elections and thwarting moves towards reconciliation with the rival Fatah party. 
 
 Hamas said it suspended the elections commission for not treating its supporters in the West Bank fairly, halting one of the only tangible steps toward reconciliation with the rival Fatah Party based in the West Bank.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://news.yahoo.com/hamas-suspends-gaza-voter-registration-100055747.html;_ylt=A2KJ3CRyefJPsVcAtlTQtDMD)
-2. [The New York Times](http://www.nytimes.com/2012/07/03/world/middleeast/hamas-suspends-voter-registration-in-gaza.html?_r=1)
+1. [Reuters](https://news.yahoo.com/hamas-suspends-gaza-voter-registration-100055747.html;_ylt=A2KJ3CRyefJPsVcAtlTQtDMD)
+2. [The New York Times](https://www.nytimes.com/2012/07/03/world/middleeast/hamas-suspends-voter-registration-in-gaza.html?_r=1)
 2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

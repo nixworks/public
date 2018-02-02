@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/23/voters-in-egypt-go-to-the-polls-for-a-presidential-election-15-months-after-former-president-hosni-mubarak-was-ousted-in-a-revolution.html)  [JSON](/news/2012/05/23/voters-in-egypt-go-to-the-polls-for-a-presidential-election-15-months-after-former-president-hosni-mubarak-was-ousted-in-a-revolution.json)  [XML](/news/2012/05/23/voters-in-egypt-go-to-the-polls-for-a-presidential-election-15-months-after-former-president-hosni-mubarak-was-ousted-in-a-revolution.xml)  
+
 ### [2012-05-23](/news/2012/05/23/index.md)
 
+##### Egypt
 # Voters in Egypt go to the polls for a presidential election, 15 months after former president Hosni Mubarak was ousted in a revolution. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18167224)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60438000/jpg/_60438851_pollingfeet_getty.jpg)

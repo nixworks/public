@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/11/1/at-least-two-women-are-killed-and-six-people-trapped-after-a-landslide-in-los-gigantes-tenerife.html)  [JSON](/news/2009/11/1/at-least-two-women-are-killed-and-six-people-trapped-after-a-landslide-in-los-gigantes-tenerife.json)  [XML](/news/2009/11/1/at-least-two-women-are-killed-and-six-people-trapped-after-a-landslide-in-los-gigantes-tenerife.xml)  
+
 ### [2009-11-1](/news/2009/11/1/index.md)
 
+##### Los Gigantes
 #  At least two women are killed and six people trapped after a landslide in Los Gigantes, Tenerife. 
 
 At least two people were killed and as many as six were thought to be trapped in a landslide of rocks and stones on a beach on the Spanish island of Tenerife, local emergency services said on Sunday.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8337017.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/1101/spain.html)
-3. [Reuters](http://www.reuters.com/article/latestCrisis/idUSL1729504)
+3. [Reuters](https://www.reuters.com/article/latestCrisis/idUSL1729504)
 4. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/spain/6481117/Two-killed-by-landslide-at-Spanish-beach.html)
 4. [Cover Image](http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg)
 

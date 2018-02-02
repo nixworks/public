@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/22/edgewater-police-chief-william-skidmore-says-that-workers-doing-plumbing-work-accidentally-started-the-january-21-fire-in-the-avalon-at-edge.html)  [JSON](/news/2015/01/22/edgewater-police-chief-william-skidmore-says-that-workers-doing-plumbing-work-accidentally-started-the-january-21-fire-in-the-avalon-at-edge.json)  [XML](/news/2015/01/22/edgewater-police-chief-william-skidmore-says-that-workers-doing-plumbing-work-accidentally-started-the-january-21-fire-in-the-avalon-at-edge.xml)  
+
 ### [2015-01-22](/news/2015/01/22/index.md)
 
+##### Edgewater, New Jersey
 # Edgewater Police Chief William Skidmore says that workers doing plumbing work accidentally started the January 21 fire in The Avalon at Edgewater apartments in Edgewater, New Jersey that caused the destruction of 240 units and displaced 1,000 residents. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/4cd5e271233f4e789a941bbd6cea893f/fire-ravaged-new-jersey-apartment-complex-continues-burn)
 

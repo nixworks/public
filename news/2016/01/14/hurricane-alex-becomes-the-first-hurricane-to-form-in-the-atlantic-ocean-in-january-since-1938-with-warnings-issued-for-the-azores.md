@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/14/hurricane-alex-becomes-the-first-hurricane-to-f
 
 ### [2016-01-14](/news/2016/01/14/index.md)
 
+##### 2016 Atlantic hurricane season
 # Hurricane Alex becomes the first hurricane to form in the Atlantic Ocean in January since 1938 with warnings issued for the Azores. 
 
 The first January Atlantic hurricane in 61 years, hit the Azores as a tropical storm Friday.

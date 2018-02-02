@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/12/the-u-s-government-announces-its-intention-to-stockpile-as-many-as-25-million-doses-of-an-experimental-anthrax-vaccine.html)  [JSON](/news/2004/03/12/the-u-s-government-announces-its-intention-to-stockpile-as-many-as-25-million-doses-of-an-experimental-anthrax-vaccine.json)  [XML](/news/2004/03/12/the-u-s-government-announces-its-intention-to-stockpile-as-many-as-25-million-doses-of-an-experimental-anthrax-vaccine.xml)  
+
 ### [2004-03-12](/news/2004/03/12/index.md)
 
+##### anthrax
 #  The U.S. government announces its intention to stockpile as many as 25 million doses of an experimental anthrax vaccine. 
 
 Things to do in Miami
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.miami.com/mld/miamiherald/news/politics/8170707.htm)
 1. [Cover Image](http://www.miami.com/wp-content/themes/miami/images/sg/img-16x9.png)

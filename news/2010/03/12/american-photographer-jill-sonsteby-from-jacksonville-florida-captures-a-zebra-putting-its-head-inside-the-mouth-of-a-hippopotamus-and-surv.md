@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/12/american-photographer-jill-sonsteby-from-jacksonville-florida-captures-a-zebra-putting-its-head-inside-the-mouth-of-a-hippopotamus-and-surv.html)  [JSON](/news/2010/03/12/american-photographer-jill-sonsteby-from-jacksonville-florida-captures-a-zebra-putting-its-head-inside-the-mouth-of-a-hippopotamus-and-surv.json)  [XML](/news/2010/03/12/american-photographer-jill-sonsteby-from-jacksonville-florida-captures-a-zebra-putting-its-head-inside-the-mouth-of-a-hippopotamus-and-surv.xml)  
+
 ### [2010-03-12](/news/2010/03/12/index.md)
 
+##### Jacksonville, Florida
 # American photographer Jill Sonsteby from Jacksonville, Florida captures a zebra putting its head inside the mouth of a hippopotamus and surviving at Zurich Zoologischer Garten. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8564834.stm)
 

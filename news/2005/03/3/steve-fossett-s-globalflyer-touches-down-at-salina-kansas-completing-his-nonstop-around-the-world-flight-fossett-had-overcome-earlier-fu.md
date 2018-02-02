@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/3/steve-fossett-s-globalflyer-touches-down-at-salina-kansas-completing-his-nonstop-around-the-world-flight-fossett-had-overcome-earlier-fu.html)  [JSON](/news/2005/03/3/steve-fossett-s-globalflyer-touches-down-at-salina-kansas-completing-his-nonstop-around-the-world-flight-fossett-had-overcome-earlier-fu.json)  [XML](/news/2005/03/3/steve-fossett-s-globalflyer-touches-down-at-salina-kansas-completing-his-nonstop-around-the-world-flight-fossett-had-overcome-earlier-fu.xml)  
+
 ### [2005-03-3](/news/2005/03/3/index.md)
 
+##### Steve Fossett
 #  Steve Fossett's GlobalFlyer touches down at Salina, Kansas, completing his nonstop around-the-world flight. Fossett had overcome earlier fuel problems to become the first person to achieve the flight solo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2005/TECH/03/03/globalflyer.fossett/)
 

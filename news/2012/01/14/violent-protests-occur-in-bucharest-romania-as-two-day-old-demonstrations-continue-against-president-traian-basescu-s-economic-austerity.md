@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/01/14/violent-protests-occur-in-bucharest-romania-as-two-day-old-demonstrations-continue-against-president-traian-basescu-s-economic-austerity.html)  [JSON](/news/2012/01/14/violent-protests-occur-in-bucharest-romania-as-two-day-old-demonstrations-continue-against-president-traian-basescu-s-economic-austerity.json)  [XML](/news/2012/01/14/violent-protests-occur-in-bucharest-romania-as-two-day-old-demonstrations-continue-against-president-traian-basescu-s-economic-austerity.xml)  
+
 ### [2012-01-14](/news/2012/01/14/index.md)
 
+##### Clashes
 # Violent protests occur in Bucharest, Romania, as two-day-old demonstrations continue against President Traian Basescu's economic austerity measures. Clashes are reported in numerous Romanian cities between protesters and law enforcement officers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Antena 3](http://www.antena3.ro/romania/proteste-violente-in-bucuresti-protestatarii-s-au-luat-la-bataie-cu-jandarmii-live-video-151508.html)
-2. [Washington Post](http://www.washingtonpost.com/business/romanians-protest-for-3rd-day-against-government-austerity-cuts/2012/01/14/gIQAVhWuyP_story.html)
+2. [Washington Post](https://www.washingtonpost.com/business/romanians-protest-for-3rd-day-against-government-austerity-cuts/2012/01/14/gIQAVhWuyP_story.html)
 2. [Cover Image](https://www.antena3.ro/thumbs/big3/2012/01/14/proteste-violente-in-bucuresti-jandarmii-au-trimis-oamenii-acasa-dupa-ce-i-au-amenintat-cu-125972.jpg)
 
 ### Related:

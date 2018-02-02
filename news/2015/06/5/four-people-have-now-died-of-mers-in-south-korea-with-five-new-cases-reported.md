@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/5/four-people-have-now-died-of-mers-in-south-korea-with-five-new-cases-reported.html)  [JSON](/news/2015/06/5/four-people-have-now-died-of-mers-in-south-korea-with-five-new-cases-reported.json)  [XML](/news/2015/06/5/four-people-have-now-died-of-mers-in-south-korea-with-five-new-cases-reported.xml)  
+
 ### [2015-06-5](/news/2015/06/5/index.md)
 
+##### 2015 Middle East respiratory syndrome coronavirus outbreak in South Korea
 # Four people have now died of MERS in South Korea with five new cases reported. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Bangkok Post](http://www.bangkokpost.com/news/asia/583563/fourth-korean-dies-in-mers-outbreak)
 

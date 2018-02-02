@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/21/a-catalan-official-says-the-13-exchange-student
 
 ### [2016-03-21](/news/2016/03/21/index.md)
 
+##### Erasmus bus crash
 # A Catalan official says the 13 exchange students killed in Sunday's accident were 19-to-25-year-old women, seven from Italy, two Germans, an Austrian, a woman from France, a Romanian and an Uzbek. Twenty-four people are being treated in hospital with one student in critical condition, and six people, including the driver, in serious condition. Reports from officials indicate the driver lost control of the coach and crashed to the other side before running into an oncoming car. The bus driver, who passed alcohol and drug tests, is being investigated for possible negligent homicide as police seek to determine the cause of the crash. 
 
 Spanish investigators were on Monday attempting to establish the cause of a weekend coach crash that killed 13 foreign students, all young women and most of them from Italy. The vehicle was carrying 57 passengers from about 20 countries, many of them students on the European Erasmus exchange programme
@@ -10,9 +11,9 @@ Spanish investigators were on Monday attempting to establish the cause of a week
 
 ### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/7-italians-2-germans-among-spain-coach-crash-082422852.html)
+1. [AFP via Yahoo! News](https://news.yahoo.com/7-italians-2-germans-among-spain-coach-crash-082422852.html)
 2. [AP via ''the Washington Post](https://www.washingtonpost.com/world/europe/spain-7-of-13-student-bush-crash-victims-were-italian/2016/03/21/e5fcf894-ef45-11e5-a2a3-d4e9697917d1_story.html)
-2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/LG2MMdGKcs3fS.H3DuWMWw--/aD01NDg7dz01MTI7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/News/afp.com/b10ee5587e57029331a221e142b8ff98da0993f0.jpg)
+2. [Cover Image](https://s.yimg.com/uu/api/res/1.2/ZRoQzJSPnJiPAKwESlzXJQ--~B/aD01NDg7dz01MTI7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/News/afp.com/b10ee5587e57029331a221e142b8ff98da0993f0.jpg)
 
 ### Changes:
 

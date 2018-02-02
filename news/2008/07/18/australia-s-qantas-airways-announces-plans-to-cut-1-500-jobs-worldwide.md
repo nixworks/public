@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/18/australia-s-qantas-airways-announces-plans-to-cut-1-500-jobs-worldwide.html)  [JSON](/news/2008/07/18/australia-s-qantas-airways-announces-plans-to-cut-1-500-jobs-worldwide.json)  [XML](/news/2008/07/18/australia-s-qantas-airways-announces-plans-to-cut-1-500-jobs-worldwide.xml)  
+
 ### [2008-07-18](/news/2008/07/18/index.md)
 
+##### Australia
 #  Australia's Qantas Airways announces plans to cut 1,500 jobs worldwide. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/governmentFilingsNews/idUKSYD5958120080718)
 

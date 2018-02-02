@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/1/the-world-bank-urges-the-people-s-republic-of-china-to-undertake-financial-reforms-to-keep-economic-growth-on-track.html)  [JSON](/news/2015/07/1/the-world-bank-urges-the-people-s-republic-of-china-to-undertake-financial-reforms-to-keep-economic-growth-on-track.json)  [XML](/news/2015/07/1/the-world-bank-urges-the-people-s-republic-of-china-to-undertake-financial-reforms-to-keep-economic-growth-on-track.xml)  
+
 ### [2015-07-1](/news/2015/07/1/index.md)
 
+##### World Bank
 # The World Bank urges the People's Republic of China to undertake financial reforms to keep economic growth on track. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/422640c3f1884b1c80ede4978b7c0eae/world-bank-urges-china-embrace-basic-financial-reforms)
 

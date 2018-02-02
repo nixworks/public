@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/03/24/danish-artist-marco-evaristti-paints-an-iceberg-in-greenland-red-using-780-gallons-of-paint.html)  [JSON](/news/2004/03/24/danish-artist-marco-evaristti-paints-an-iceberg-in-greenland-red-using-780-gallons-of-paint.json)  [XML](/news/2004/03/24/danish-artist-marco-evaristti-paints-an-iceberg-in-greenland-red-using-780-gallons-of-paint.xml)  
+
 ### [2004-03-24](/news/2004/03/24/index.md)
 
+##### Denmark
 #  Danish artist Marco Evaristti paints an iceberg in Greenland red, using 780 gallons of paint. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/weather/news/2004-03-25-painted-iceburg_x.htm)
+1. [USA Today](https://www.usatoday.com/weather/news/2004-03-25-painted-iceburg_x.htm)
 
 ### Related:
 
@@ -15,4 +19,4 @@
 2. [3 Greenpeace activists successfully evade a Danish warship to scale an oil rig off the coast of Greenland, attempting to begin deepwater drilling in the arctic. ](/news/2011/05/29/3-greenpeace-activists-successfully-evade-a-danish-warship-to-scale-an-oil-rig-off-the-coast-of-greenland-attempting-to-begin-deepwater-dri.md) _Context: Denmark, Greenland_
 3. [ Denmark sends a scientific team to the Arctic to try to establish that the Lomonosov Ridge is an extension of Greenland so it can claim sovereignty over oil reserves. ](/news/2007/08/12/denmark-sends-a-scientific-team-to-the-arctic-to-try-to-establish-that-the-lomonosov-ridge-is-an-extension-of-greenland-so-it-can-claim-sov.md) _Context: Denmark, Greenland_
 4. [ The government of Denmark is investigating whether it can claim ownership of the North Pole, by studying how far the underwater portion of Greenland, a Danish territory, extends. Canada and Russia are already undertaking similar investigations regarding their own claims. ](/news/2004/10/1/the-government-of-denmark-is-investigating-whether-it-can-claim-ownership-of-the-north-pole-by-studying-how-far-the-underwater-portion-of.md) _Context: Denmark, Greenland_
-5. [Denmark's Prince Henrik announces he won't be buried next to Queen Margrethe II in the Roskilde Cathedral where Danish royals have been buried since 1559. The 83-year-old, French-born Henrik has been dissatisfied with his non-equal role as Prince consort. The 77-year old Margrethe, who had a specially designed sarcophagus made for the couple, accepts Henrik's decision, according to a royal house spokeswoman. ](/news/2017/08/4/denmark-s-prince-henrik-announces-he-won-t-be-buried-next-to-queen-margrethe-ii-in-the-roskilde-cathedral-where-danish-royals-have-been-buri.md) _Context: Denmark_
+5. [Twenty-three European Union countries sign a defence integration pact known as the Permanent Structured Cooperation. NATO members Denmark, Portugal and the United Kingdom (withdrawal from EU underway), and non-NATO members Malta and Ireland, opt out. ](/news/2017/11/13/twenty-three-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-p.md) _Context: Denmark_

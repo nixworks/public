@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2013/08/10/an-american-drone-strike-kills-two-suspected-al-qaeda-in-the-arabian-peninsula-militants-in-southern-yemen.html)  [JSON](/news/2013/08/10/an-american-drone-strike-kills-two-suspected-al-qaeda-in-the-arabian-peninsula-militants-in-southern-yemen.json)  [XML](/news/2013/08/10/an-american-drone-strike-kills-two-suspected-al-qaeda-in-the-arabian-peninsula-militants-in-southern-yemen.xml)  
+
 ### [2013-08-10](/news/2013/08/10/index.md)
 
+##### Al Qaeda in the Arabian Peninsula
 # An American drone strike kills two suspected Al Qaeda in the Arabian Peninsula militants in southern Yemen. 
 
 Two militants have been killed in a suspected US drone strike in southern Yemen, officials say, the ninth since the end of July.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-middle-east-23653488)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69225000/gif/_69225081_yemen_lahj_strikes_0813.gif)
 
 ### Related:
 
-1. [A suspected U.S. drone strike kills two al-Qaida militants in central Shabwa province, according to Yemeni security and tribal officials. ](/news/2017/01/30/a-suspected-u-s-drone-strike-kills-two-al-qaida-militants-in-central-shabwa-province-according-to-yemeni-security-and-tribal-officials.md) _Context: Yemen, al-Qaida_
-2. [A U.S. military raid takes place in Yemen's southern Al Bayda Governorate. According to medics on the scene as reported by Reuters, "around 30" were killed, among which were at least three senior Al-Qaeda members, at least one U.S. service member, and 10 women and children. ](/news/2017/01/29/a-u-s-military-raid-takes-place-in-yemen-s-southern-al-bayda-governorate-according-to-medics-on-the-scene-as-reported-by-reuters-around.md) _Context: Yemen, al-Qaida_
-3. [Saudi-led air strikes kill at least ten al Qaeda in the Arabian Peninsula fighters in southern Yemen. ](/news/2016/04/24/saudi-led-air-strikes-kill-at-least-ten-al-qaeda-in-the-arabian-peninsula-fighters-in-southern-yemen.md) _Context: Yemen, al-Qaida_
-4. [At least 50 militants are reportedly killed in a U.S. air strike on an Al-Qaeda training camp in southern Yemen. ](/news/2016/03/23/at-least-50-militants-are-reportedly-killed-in-a-u-s-air-strike-on-an-al-qaeda-training-camp-in-southern-yemen.md) _Context: Yemen, al-Qaida_
-5. [Airstrikes near the Yemeni port city of Al Mukalla, Hadhramaut Governorate, reportedly kill at least 30 Al-Qaeda militants. ](/news/2016/03/22/airstrikes-near-the-yemeni-port-city-of-al-mukalla-hadhramaut-governorate-reportedly-kill-at-least-30-al-qaeda-militants.md) _Context: Yemen, al-Qaida_
+1. [A US drone strike kills five Al Qaeda in the Arabian Peninsula operatives including Shawki al-Badani and Nabil al-Dahab, leader of Ansar al-Sharia in Yemen's Al Bayda Governorate. ](/news/2014/11/5/a-us-drone-strike-kills-five-al-qaeda-in-the-arabian-peninsula-operatives-including-shawki-al-badani-and-nabil-al-dahab-leader-of-ansar-al.md) _Context: Al Qaeda in the Arabian Peninsula, Yemen_
+2. [Al Qaeda in the Arabian Peninsula leader and U.S. citizen Anwar al-Awlaki is reported killed in Yemen. ](/news/2011/09/30/al-qaeda-in-the-arabian-peninsula-leader-and-u-s-citizen-anwar-al-awlaki-is-reported-killed-in-yemen.md) _Context: Al Qaeda in the Arabian Peninsula, Yemen_
+3. [The Southern Transitional Council (STC) takes control of the Yemeni port city of Aden following two days of fierce fighting in the city which has left dozens dead. Yemeni Prime Minister Ahmed Obeid bin Daghr, and members of the President Abdrabbuh Mansur Hadi-led government are confined to the presidential palace which has been surrounded. ](/news/2018/01/30/the-southern-transitional-council-stc-takes-control-of-the-yemeni-port-city-of-aden-following-two-days-of-fierce-fighting-in-the-city-whic.md) _Context: Yemen_
+4. [United Arab Emirates-backed Southern Transitional Council (STC) fighters seize control of government buildings in the southern Yemeni city of Aden, after clashing with forces loyal to President Abdrabbuh Mansur Hadi. At least 10 people are reportedly killed and 30 wounded. Yemeni Prime Minister Ahmed Obeid bin Daghr accuses the separatists of mounting a coup. ](/news/2018/01/28/united-arab-emirates-backed-southern-transitional-council-stc-fighters-seize-control-of-government-buildings-in-the-southern-yemeni-city-o.md) _Context: Yemen_
+5. [After 1,000 days of civil war in Yemen, eight million people are at risk of starvation. ](/news/2017/12/22/after-1-000-days-of-civil-war-in-yemen-eight-million-people-are-at-risk-of-starvation.md) _Context: Yemen_

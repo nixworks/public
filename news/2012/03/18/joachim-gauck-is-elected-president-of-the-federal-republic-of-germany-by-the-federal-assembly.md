@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/03/18/joachim-gauck-is-elected-president-of-the-federal-republic-of-germany-by-the-federal-assembly.html)  [JSON](/news/2012/03/18/joachim-gauck-is-elected-president-of-the-federal-republic-of-germany-by-the-federal-assembly.json)  [XML](/news/2012/03/18/joachim-gauck-is-elected-president-of-the-federal-republic-of-germany-by-the-federal-assembly.xml)  
+
 ### [2012-03-18](/news/2012/03/18/index.md)
 
+##### Joachim Gauck
 # Joachim Gauck is elected President of the Federal Republic of Germany by the Federal Assembly. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/03/18/us-germany-president-result-idUSBRE82H06020120318)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120318&t=2&i=583960492&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE82H11AN00)
+1. [Reuters](https://www.reuters.com/article/2012/03/18/us-germany-president-result-idUSBRE82H06020120318)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120318&t=2&i=583960492&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE82H11AN00)
 
 ### Related:
 

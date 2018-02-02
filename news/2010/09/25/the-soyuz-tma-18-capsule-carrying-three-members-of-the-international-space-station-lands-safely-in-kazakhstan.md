@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/25/the-soyuz-tma-18-capsule-carrying-three-members-of-the-international-space-station-lands-safely-in-kazakhstan.html)  [JSON](/news/2010/09/25/the-soyuz-tma-18-capsule-carrying-three-members-of-the-international-space-station-lands-safely-in-kazakhstan.json)  [XML](/news/2010/09/25/the-soyuz-tma-18-capsule-carrying-three-members-of-the-international-space-station-lands-safely-in-kazakhstan.xml)  
+
 ### [2010-09-25](/news/2010/09/25/index.md)
 
+##### Soyuz TMA-18
 # The Soyuz TMA-18 capsule carrying three members of the International Space Station lands safely in Kazakhstan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/sci/2010-09/25/c_13528787.htm)
 

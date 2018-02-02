@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/1/two-afghan-women-charity-workers-are-shot-dead-they-were-travelling-between-lashkar-gah-and-garmser-a-volatile-area-in-the-helmand-river-v.html)  [JSON](/news/2010/11/1/two-afghan-women-charity-workers-are-shot-dead-they-were-travelling-between-lashkar-gah-and-garmser-a-volatile-area-in-the-helmand-river-v.json)  [XML](/news/2010/11/1/two-afghan-women-charity-workers-are-shot-dead-they-were-travelling-between-lashkar-gah-and-garmser-a-volatile-area-in-the-helmand-river-v.xml)  
+
 ### [2010-11-1](/news/2010/11/1/index.md)
 
+##### Afghanistan
 # Two Afghan women charity workers are shot dead. They were travelling between Lashkar Gah and Garmser, a volatile area in the Helmand River valley, when they were attacked. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [dawn](http://news.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/world/04-afghan-women-shot-dead-qs-01)
 

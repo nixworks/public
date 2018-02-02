@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/23/around-27-000-anti-government-red-shirt-protestors-march-in-bangkok-thailand-calling-for-the-release-of-imprisoned-leaders.html)  [JSON](/news/2011/01/23/around-27-000-anti-government-red-shirt-protestors-march-in-bangkok-thailand-calling-for-the-release-of-imprisoned-leaders.json)  [XML](/news/2011/01/23/around-27-000-anti-government-red-shirt-protestors-march-in-bangkok-thailand-calling-for-the-release-of-imprisoned-leaders.xml)  
+
 ### [2011-01-23](/news/2011/01/23/index.md)
 
+##### red shirt
 # Around 27,000 anti-government red shirt protestors march in Bangkok, Thailand, calling for the release of imprisoned leaders. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12262439)
 2. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/159642.html)

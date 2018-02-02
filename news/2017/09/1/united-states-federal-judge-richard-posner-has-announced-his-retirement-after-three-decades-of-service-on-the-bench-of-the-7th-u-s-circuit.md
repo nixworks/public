@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/1/united-states-federal-judge-richard-posner-has-a
 
 ### [2017-09-1](/news/2017/09/1/index.md)
 
+##### United States Court of Appeals for the Seventh Circuit
 # United States federal judge Richard Posner has announced his retirement after three decades of service on the bench of the 7th U.S. Circuit Court of Appeals, headquartered in Chicago, Illinois. Appointed by President Ronald Reagan in 1981, Justice Posner has written more than 3,300 opinions from the bench.
 
 

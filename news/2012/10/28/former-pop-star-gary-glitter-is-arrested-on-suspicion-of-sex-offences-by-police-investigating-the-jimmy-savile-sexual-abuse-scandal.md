@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/28/former-pop-star-gary-glitter-is-arrested-on-suspicion-of-sex-offences-by-police-investigating-the-jimmy-savile-sexual-abuse-scandal.html)  [JSON](/news/2012/10/28/former-pop-star-gary-glitter-is-arrested-on-suspicion-of-sex-offences-by-police-investigating-the-jimmy-savile-sexual-abuse-scandal.json)  [XML](/news/2012/10/28/former-pop-star-gary-glitter-is-arrested-on-suspicion-of-sex-offences-by-police-investigating-the-jimmy-savile-sexual-abuse-scandal.xml)  
+
 ### [2012-10-28](/news/2012/10/28/index.md)
 
+##### Gary Glitter
 # Former pop star Gary Glitter is arrested on suspicion of sex offences by police investigating the Jimmy Savile sexual abuse scandal. 
 
 Former pop star Gary Glitter is released on bail after being arrested on suspicion of sex offences by police investigating Jimmy Savile sex abuse claims.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20114378)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/63765000/jpg/_63765344_duz42kub.jpg)

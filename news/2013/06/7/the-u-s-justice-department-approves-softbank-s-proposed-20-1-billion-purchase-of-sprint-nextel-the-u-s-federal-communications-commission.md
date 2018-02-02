@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2013/06/7/the-u-s-justice-department-approves-softbank-s-proposed-20-1-billion-purchase-of-sprint-nextel-the-u-s-federal-communications-commission.html)  [JSON](/news/2013/06/7/the-u-s-justice-department-approves-softbank-s-proposed-20-1-billion-purchase-of-sprint-nextel-the-u-s-federal-communications-commission.json)  [XML](/news/2013/06/7/the-u-s-justice-department-approves-softbank-s-proposed-20-1-billion-purchase-of-sprint-nextel-the-u-s-federal-communications-commission.xml)  
+
 ### [2013-06-7](/news/2013/06/7/index.md)
 
+##### SoftBank
 # The U.S. Justice Department approves SoftBank's proposed $20.1 billion purchase of Sprint Nextel. The U.S. Federal Communications Commission is the final hurdle in the way of the deal's final approval. 
 
+SoftBank Corp. cleared a U.S. security review of its proposed $20.1 billion purchase of Sprint Nextel Corp., the Justice Department said, confirming a statement from the companies.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2013-06-07/softbank-clearance-for-sprint-deal-confirmed-by-justice.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2013-06-07/softbank-clearance-for-sprint-deal-confirmed-by-justice.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

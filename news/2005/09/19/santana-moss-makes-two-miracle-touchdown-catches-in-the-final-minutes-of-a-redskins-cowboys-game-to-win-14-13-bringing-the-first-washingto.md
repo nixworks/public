@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2005/09/19/santana-moss-makes-two-miracle-touchdown-catches-in-the-final-minutes-of-a-redskins-cowboys-game-to-win-14-13-bringing-the-first-washingto.html)  [JSON](/news/2005/09/19/santana-moss-makes-two-miracle-touchdown-catches-in-the-final-minutes-of-a-redskins-cowboys-game-to-win-14-13-bringing-the-first-washingto.json)  [XML](/news/2005/09/19/santana-moss-makes-two-miracle-touchdown-catches-in-the-final-minutes-of-a-redskins-cowboys-game-to-win-14-13-bringing-the-first-washingto.xml)  
+
 ### [2005-09-19](/news/2005/09/19/index.md)
 
-#  Santana Moss makes two miracle touchdown catches in the final minutes of a Redskins-Cowboys game to win 14-13, bringing the first Washington Redskins victory at Texas Stadium in ten years. [http:--sports.yahoo.com-nfl-recap?gid=20050919006]
+##### Santana Moss
+#  Santana Moss makes two miracle touchdown catches in the final minutes of a Redskins-Cowboys game to win 14-13, bringing the first Washington Redskins victory at Texas Stadium in ten years. [https:--sports.yahoo.com-nfl-recap?gid=20050919006]
 
 
 

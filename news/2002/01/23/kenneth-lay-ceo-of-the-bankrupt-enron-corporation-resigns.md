@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/01/23/kenneth-lay-ceo-of-the-bankrupt-enron-corporation-resigns.html)  [JSON](/news/2002/01/23/kenneth-lay-ceo-of-the-bankrupt-enron-corporation-resigns.json)  [XML](/news/2002/01/23/kenneth-lay-ceo-of-the-bankrupt-enron-corporation-resigns.xml)  
+
 ### [2002-01-23](/news/2002/01/23/index.md)
 
+##### Kenneth Lay
 # Kenneth Lay, CEO of the bankrupt Enron Corporation, resigns.
 
 

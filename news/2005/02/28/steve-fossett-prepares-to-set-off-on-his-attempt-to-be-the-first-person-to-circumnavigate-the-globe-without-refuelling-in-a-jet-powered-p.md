@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/28/steve-fossett-prepares-to-set-off-on-his-attempt-to-be-the-first-person-to-circumnavigate-the-globe-without-refuelling-in-a-jet-powered-p.html)  [JSON](/news/2005/02/28/steve-fossett-prepares-to-set-off-on-his-attempt-to-be-the-first-person-to-circumnavigate-the-globe-without-refuelling-in-a-jet-powered-p.json)  [XML](/news/2005/02/28/steve-fossett-prepares-to-set-off-on-his-attempt-to-be-the-first-person-to-circumnavigate-the-globe-without-refuelling-in-a-jet-powered-p.xml)  
+
 ### [2005-02-28](/news/2005/02/28/index.md)
 
+##### Steve Fossett
 #  Steve Fossett prepares to set off on his attempt to be the first person to circumnavigate the globe, without refuelling, in a jet-powered plane &ndash; the Virgin Atlantic GlobalFlyer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/4304179.stm)
 

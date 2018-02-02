@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/29/2011-syrian-uprising-at-least-10-people-are-killed-in-clashes-in-the-city-of-homs-as-arab-league-monitors-continue-their-inspection-of-syri.html)  [JSON](/news/2011/12/29/2011-syrian-uprising-at-least-10-people-are-killed-in-clashes-in-the-city-of-homs-as-arab-league-monitors-continue-their-inspection-of-syri.json)  [XML](/news/2011/12/29/2011-syrian-uprising-at-least-10-people-are-killed-in-clashes-in-the-city-of-homs-as-arab-league-monitors-continue-their-inspection-of-syri.xml)  
+
 ### [2011-12-29](/news/2011/12/29/index.md)
 
+##### 2011 Syrian uprising
 # 2011 Syrian uprising: At least 10 people are killed in clashes in the city of Homs as Arab League monitors continue their inspection of Syria's conflict zones. 
 
 Arab League peace monitors spread to various parts of Syria but anti-government violence continues, with more deaths reported.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16350047)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57599000/jpg/_57599406_013596395-2.jpg)

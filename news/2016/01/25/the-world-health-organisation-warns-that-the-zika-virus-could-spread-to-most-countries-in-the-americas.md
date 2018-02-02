@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/25/the-world-health-organisation-warns-that-the-zi
 
 ### [2016-01-25](/news/2016/01/25/index.md)
 
+##### Zika virus outbreak in Brazil (2015 - present)
 # The World Health Organisation warns that the Zika virus could spread to most countries in the Americas. 
 
 The Zika virus is likely to spread across nearly all of the Americas, the World Health Organization has warned.

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/09/4/the-united-states-department-of-justice-files-papers-in-court-documenting-bp-s-gross-negligence-and-willful-misconduct-over-the-april-2010.html)  [JSON](/news/2012/09/4/the-united-states-department-of-justice-files-papers-in-court-documenting-bp-s-gross-negligence-and-willful-misconduct-over-the-april-2010.json)  [XML](/news/2012/09/4/the-united-states-department-of-justice-files-papers-in-court-documenting-bp-s-gross-negligence-and-willful-misconduct-over-the-april-2010.xml)  
+
 ### [2012-09-4](/news/2012/09/4/index.md)
 
+##### U.S. Justice Department
 # The United States Department of Justice files papers in court documenting BP's "gross negligence and willful misconduct" over the April 2010 oil spill in the Gulf of Mexico. 
 
 The U.S. Justice Department is ramping up its rhetoric against BP PLC for the massive 2010 oil spill in the Gulf of Mexico, describing in new court papers examples of what it calls &quot;gross negligence and willful misconduct.&quot;
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/09/05/us-bp-oilspill-negligence-idUSBRE88401E20120905)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120905&t=2&i=649462917&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE88402J600)
+1. [Reuters](https://www.reuters.com/article/2012/09/05/us-bp-oilspill-negligence-idUSBRE88401E20120905)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120905&t=2&i=649462917&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE88402J600)
 
 ### Related:
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/21/spanish-police-hunting-the-chief-suspect-in-las
 
 ### [2017-08-21](/news/2017/08/21/index.md)
 
+##### van attack
 # Spanish police hunting the chief suspect in last Thursday's van attack in Barcelona shoot dead a man to the west of the city who appeared to be wearing an explosive belt. 
 
 Police hunting the chief suspect shoot a man in an area to the west of the city.
@@ -23,7 +24,7 @@ Police hunting the chief suspect shoot a man in an area to the west of the city.
 ### Related:
 
 1. [A van drives into crowds of people in La Rambla, Barcelona, in what Spanish police are calling a terrorist attack, killing at least 12 people. Two suspects are taken into custody, and ISIL claims responsibility. ](/news/2017/08/17/a-van-drives-into-crowds-of-people-in-la-rambla-barcelona-in-what-spanish-police-are-calling-a-terrorist-attack-killing-at-least-12-peopl.md) _Context: Barcelona, van attack_
-2. [The Attorney General of Catalonia, Jose Maria Romero de Tejada, unexpectedly dies in Barcelona of pneumonia at the age of 69, few days after the death of the Attorney General of the State. ](/news/2017/11/27/the-attorney-general-of-catalonia-josa-c-maraa-romero-de-tejada-unexpectedly-dies-in-barcelona-of-pneumonia-at-the-age-of-69-few-days-aft.md) _Context: Barcelona_
-3. [At least 350,000 people attend a rally in Barcelona to oppose Catalan independence. ](/news/2017/10/8/at-least-350-000-people-attend-a-rally-in-barcelona-to-oppose-catalan-independence.md) _Context: Barcelona_
-4. [Spanish Prime Minister Mariano Rajoy deploys the 41st Logistic Support Group of the Spanish Armed Forces in Catalonia to support riot police in Barcelona. ](/news/2017/10/4/spanish-prime-minister-mariano-rajoy-deploys-the-41st-logistic-support-group-of-the-spanish-armed-forces-in-catalonia-to-support-riot-police.md) _Context: Barcelona_
-5. [Hundreds of thousands of supporters for a unified Spain gather in Barcelona, the capital and largest city of Catalonia, in one of the biggest shows of force against Catalan independence. ](/news/2017/10/29/hundreds-of-thousands-of-supporters-for-a-unified-spain-gather-in-barcelona-the-capital-and-largest-city-of-catalonia-in-one-of-the-bigges.md) _Context: Barcelona_
+2. [The European Court of Justice (ECJ) rules that Uber is officially a transport company and not a digital service, thus requiring it to accept stricter regulation and licensing within the European Union. The case arose after Uber was told to obey local taxi rules in Barcelona. ](/news/2017/12/20/the-european-court-of-justice-ecj-rules-that-uber-is-officially-a-transport-company-and-not-a-digital-service-thus-requiring-it-to-accept.md) _Context: Barcelona_
+3. [The Attorney General of Catalonia, Jose Maria Romero de Tejada, unexpectedly dies in Barcelona of pneumonia at the age of 69, few days after the death of the Attorney General of the State. ](/news/2017/11/27/the-attorney-general-of-catalonia-josa-c-maraa-romero-de-tejada-unexpectedly-dies-in-barcelona-of-pneumonia-at-the-age-of-69-few-days-aft.md) _Context: Barcelona_
+4. [At least 350,000 people attend a rally in Barcelona to oppose Catalan independence. ](/news/2017/10/8/at-least-350-000-people-attend-a-rally-in-barcelona-to-oppose-catalan-independence.md) _Context: Barcelona_
+5. [Spanish Prime Minister Mariano Rajoy deploys the 41st Logistic Support Group of the Spanish Armed Forces in Catalonia to support riot police in Barcelona. ](/news/2017/10/4/spanish-prime-minister-mariano-rajoy-deploys-the-41st-logistic-support-group-of-the-spanish-armed-forces-in-catalonia-to-support-riot-police.md) _Context: Barcelona_

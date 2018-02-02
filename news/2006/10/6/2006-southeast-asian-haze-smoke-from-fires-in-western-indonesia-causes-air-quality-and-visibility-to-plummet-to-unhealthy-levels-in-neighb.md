@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/6/2006-southeast-asian-haze-smoke-from-fires-in-western-indonesia-causes-air-quality-and-visibility-to-plummet-to-unhealthy-levels-in-neighb.html)  [JSON](/news/2006/10/6/2006-southeast-asian-haze-smoke-from-fires-in-western-indonesia-causes-air-quality-and-visibility-to-plummet-to-unhealthy-levels-in-neighb.json)  [XML](/news/2006/10/6/2006-southeast-asian-haze-smoke-from-fires-in-western-indonesia-causes-air-quality-and-visibility-to-plummet-to-unhealthy-levels-in-neighb.xml)  
+
 ### [2006-10-6](/news/2006/10/6/index.md)
 
+##### 2006 Southeast Asian haze
 #  2006 Southeast Asian haze: Smoke from fires in western Indonesia causes air quality and visibility to plummet to unhealthy levels in neighboring Malaysia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://www.cnn.com/2006/WORLD/asiapcf/10/06/asia.fires.ap/index.html)
 

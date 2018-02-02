@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/29/gary-johnson-former-governor-of-new-mexico-secu
 
 ### [2016-05-29](/news/2016/05/29/index.md)
 
+##### 2016 U.S. presidential election
 # Gary Johnson, former Governor of New Mexico, secures the nomination for the Libertarian Party in the U.S. presidential election. Johnson picks former Massachusetts governor, and former Republican, William Weld as his running mate. 
 
 But his near-miss on the first ballot kicked off an afternoon of protests.

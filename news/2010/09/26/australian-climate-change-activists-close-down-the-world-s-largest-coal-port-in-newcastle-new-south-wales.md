@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/09/26/australian-climate-change-activists-close-down-the-world-s-largest-coal-port-in-newcastle-new-south-wales.html)  [JSON](/news/2010/09/26/australian-climate-change-activists-close-down-the-world-s-largest-coal-port-in-newcastle-new-south-wales.json)  [XML](/news/2010/09/26/australian-climate-change-activists-close-down-the-world-s-largest-coal-port-in-newcastle-new-south-wales.xml)  
+
 ### [2010-09-26](/news/2010/09/26/index.md)
 
+##### Australia
 # Australian climate change activists close down the world's largest coal port in Newcastle, New South Wales. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20100926/wl_nm/us_australia_coal)
+1. [Reuters via Yahoo! News](https://news.yahoo.com/s/nm/20100926/wl_nm/us_australia_coal)
 
 ### Related:
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/17/several-hundred-people-take-part-in-clashes-bet
 
 ### [2017-12-17](/news/2017/12/17/index.md)
 
+##### Ukrainian crisis
 # Several hundred people take part in clashes between Ukrainian police and anti-Petro Poroshenko protesters (led by opposition leader Mikheil Saakashvili) demanding the president's resignation at the October Palace in Kiev. 
 
 

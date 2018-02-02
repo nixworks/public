@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/5/a-group-of-danish-rocketeers-postpone-launch-when-a-valve-on-their-rocket-jammed.html)  [JSON](/news/2010/09/5/a-group-of-danish-rocketeers-postpone-launch-when-a-valve-on-their-rocket-jammed.json)  [XML](/news/2010/09/5/a-group-of-danish-rocketeers-postpone-launch-when-a-valve-on-their-rocket-jammed.xml)  
+
 ### [2010-09-5](/news/2010/09/5/index.md)
 
+##### Danes
 # A group of Danish rocketeers postpone launch when a valve on their rocket jammed. 
 
 A group of Danish rocket enthusiasts trying to launch a dummy 30km into the sky abort the mission when a valve on their rocket freezes up.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-11178034)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

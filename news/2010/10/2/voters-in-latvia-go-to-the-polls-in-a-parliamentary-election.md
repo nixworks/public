@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/10/2/voters-in-latvia-go-to-the-polls-in-a-parliamentary-election.html)  [JSON](/news/2010/10/2/voters-in-latvia-go-to-the-polls-in-a-parliamentary-election.json)  [XML](/news/2010/10/2/voters-in-latvia-go-to-the-polls-in-a-parliamentary-election.xml)  
+
 ### [2010-10-2](/news/2010/10/2/index.md)
 
+##### Latvia
 # Voters in Latvia go to the polls in a parliamentary election. 
 
 (corrects family name of first pensioner in para 9) * Vote to reflect views on bailout, austerity package * Main Russian minori
 
 
-### Source:
+### Sources:
 
 1. [Latvians Online](http://latviansonline.com/news/article/7030/)
-2. [Reuters](http://www.reuters.com/article/idUSLDE69102L20101002)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/idUSLDE69102L20101002)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/07/17/microsoft-announces-deeper-than-expected-job-cuts-as-part-of-its-cloud-oriented-restructuring-almost-halving-the-newly-purchased-nokia-phon.html)  [JSON](/news/2014/07/17/microsoft-announces-deeper-than-expected-job-cuts-as-part-of-its-cloud-oriented-restructuring-almost-halving-the-newly-purchased-nokia-phon.json)  [XML](/news/2014/07/17/microsoft-announces-deeper-than-expected-job-cuts-as-part-of-its-cloud-oriented-restructuring-almost-halving-the-newly-purchased-nokia-phon.xml)  
+
 ### [2014-07-17](/news/2014/07/17/index.md)
 
+##### Microsoft
 # Microsoft announces deeper-than-expected job cuts as part of its cloud-oriented restructuring, almost halving the newly-purchased Nokia phone business. 
 
 Microsoft Chief Executive Officer Satya Nadella kicked off one of the largest layoffs in tech history on Thursday, hoping to reshape the aging PC industry titan into a nimbler rival to Apple and Google, and jolt a culture at the company that is used to protecting its existing Windows and Office franchises.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/07/17/us-microsoft-employment-idUSKBN0FM1EH20140717)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20140717&t=2&i=936811169&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA6G0KB)
+1. [Reuters](https://www.reuters.com/article/2014/07/17/us-microsoft-employment-idUSKBN0FM1EH20140717)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20140717&t=2&i=936811169&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA6G0KB)
 
 ### Related:
 

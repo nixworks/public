@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/7/united-states-president-elect-donald-trump-indic
 
 ### [2017-01-7](/news/2017/01/7/index.md)
 
+##### Presidential transition of Donald Trump
 # United States President-elect Donald Trump indicates that he will nominate former Indiana senator Dan Coats as Director of National Intelligence. 
 
 US President-elect Donald Trump names Dan Coats as his national intelligence director

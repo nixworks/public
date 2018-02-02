@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/22/iranian-president-mahmoud-ahmadinejad-heads-for-new-york-to-attend-the-united-nations-general-assembly.html)  [JSON](/news/2009/09/22/iranian-president-mahmoud-ahmadinejad-heads-for-new-york-to-attend-the-united-nations-general-assembly.json)  [XML](/news/2009/09/22/iranian-president-mahmoud-ahmadinejad-heads-for-new-york-to-attend-the-united-nations-general-assembly.xml)  
+
 ### [2009-09-22](/news/2009/09/22/index.md)
 
+##### Iran
 #  Iranian President Mahmoud Ahmadinejad heads for New York to attend the United Nations General Assembly. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2009-09/21/content_12091344.htm)
 

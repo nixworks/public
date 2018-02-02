@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/22/a-senior-israeli-army-officer-tells-the-bbc-that-another-gaza-war-is-a-question-of-when-not-if-should-hamas-continue-to-control-the-gaza.html)  [JSON](/news/2010/12/22/a-senior-israeli-army-officer-tells-the-bbc-that-another-gaza-war-is-a-question-of-when-not-if-should-hamas-continue-to-control-the-gaza.json)  [XML](/news/2010/12/22/a-senior-israeli-army-officer-tells-the-bbc-that-another-gaza-war-is-a-question-of-when-not-if-should-hamas-continue-to-control-the-gaza.xml)  
+
 ### [2010-12-22](/news/2010/12/22/index.md)
 
+##### Israel
 # A senior Israeli army officer tells the BBC that another Gaza War is "a question of when, not if" should Hamas continue to control the Gaza Strip. 
 
 A senior Israeli army officer tells the BBC that as long as Hamas remains in control of the Gaza Strip, another war is &quot;only a question of time&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12064775)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

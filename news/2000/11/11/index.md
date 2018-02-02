@@ -1,7 +1,7 @@
-## [2000-11-11](/news/2000/11/11/index.md)
 
-### [155 skiers and snowboarders die when a train catches fire in an alpine tunnel in Kaprun, Austria](/news/2000/11/11/155-skiers-and-snowboarders-die-when-a-train-catches-fire-in-an-alpine-tunnel-in-kaprun-austria.md)
-_Context: Austria, Kaprun, Kaprun disaster_
+Formats: [HTML](2000/11/11/index.html)  [JSON](2000/11/11/index.json)  [XML](2000/11/11/index.xml)  
+
+## [2000-11-11](/news/2000/11/11/index.md)
 
 ## [Previous Day...](/news/2000/11/10/index.md)
 

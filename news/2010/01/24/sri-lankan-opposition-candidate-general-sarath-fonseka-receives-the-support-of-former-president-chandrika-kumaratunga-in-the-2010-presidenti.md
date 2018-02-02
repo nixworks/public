@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/24/sri-lankan-opposition-candidate-general-sarath-fonseka-receives-the-support-of-former-president-chandrika-kumaratunga-in-the-2010-presidenti.html)  [JSON](/news/2010/01/24/sri-lankan-opposition-candidate-general-sarath-fonseka-receives-the-support-of-former-president-chandrika-kumaratunga-in-the-2010-presidenti.json)  [XML](/news/2010/01/24/sri-lankan-opposition-candidate-general-sarath-fonseka-receives-the-support-of-former-president-chandrika-kumaratunga-in-the-2010-presidenti.xml)  
+
 ### [2010-01-24](/news/2010/01/24/index.md)
 
+##### Sri Lanka
 # Sri Lankan opposition candidate General Sarath Fonseka receives the support of former President Chandrika Kumaratunga in the 2010 presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8477727.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/6/it-is-impossible-that-abdelbaset-al-megrahi-could-have-pretended-to-have-terminal-prostate-cancer-according-to-an-oncologist-who-examined-h.html)  [JSON](/news/2010/08/6/it-is-impossible-that-abdelbaset-al-megrahi-could-have-pretended-to-have-terminal-prostate-cancer-according-to-an-oncologist-who-examined-h.json)  [XML](/news/2010/08/6/it-is-impossible-that-abdelbaset-al-megrahi-could-have-pretended-to-have-terminal-prostate-cancer-according-to-an-oncologist-who-examined-h.xml)  
+
 ### [2010-08-6](/news/2010/08/6/index.md)
 
+##### Abdelbaset al-Megrahi
 # It is impossible that Abdelbaset al-Megrahi could have pretended to have terminal prostate cancer, according to an oncologist who examined him. 
 
 Professor Karol Sikora, who examined Abdelbaset al-Megrahi in jail, insists the Libyan could not have &quot;faked&quot; his terminal cancer.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/health-10878514)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/48621000/jpg/_48621630_008452630-1.jpg)

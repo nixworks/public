@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/23/several-people-are-killed-in-a-helicopter-crash-in-the-mourne-mountains-county-down.html)  [JSON](/news/2010/10/23/several-people-are-killed-in-a-helicopter-crash-in-the-mourne-mountains-county-down.json)  [XML](/news/2010/10/23/several-people-are-killed-in-a-helicopter-crash-in-the-mourne-mountains-county-down.xml)  
+
 ### [2010-10-23](/news/2010/10/23/index.md)
 
+##### Mourne Mountains
 # Several people are killed in a helicopter crash in the Mourne Mountains, County Down. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-11613622)
 2. [RTÉ](http://www.rte.ie/news/2010/1023/down.html)

@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2008/06/12/cuban-hurdler-dayron-robles-sets-a-world-record-of-12-87-seconds-for-the-110-metre-hurdles-at-a-golden-spike-meet-in-ostrava-czech-republi.html)  [JSON](/news/2008/06/12/cuban-hurdler-dayron-robles-sets-a-world-record-of-12-87-seconds-for-the-110-metre-hurdles-at-a-golden-spike-meet-in-ostrava-czech-republi.json)  [XML](/news/2008/06/12/cuban-hurdler-dayron-robles-sets-a-world-record-of-12-87-seconds-for-the-110-metre-hurdles-at-a-golden-spike-meet-in-ostrava-czech-republi.xml)  
+
 ### [2008-06-12](/news/2008/06/12/index.md)
 
+##### Cuba
 #  Cuban hurdler Dayron Robles sets a world record of 12.87 seconds for the 110 metre hurdles at a Golden Spike meet in Ostrava, Czech Republic. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://ap.google.com/article/ALeqM5jgJfYeKHUf9zo07lItnxAtdfyRnQD918LMHG0)
 
 ### Related:
 
-1. [The Trump administration, through the Department of State and Secretary of State Rex Tillerson, expels 15 Cuban diplomats, after pulling half of its own embassy staff from Havana on Sept. 29, due to the alleged failure of Cuba to take appropriate steps to protect American personnel against the mysterious health attacks. ](/news/2017/10/3/the-trump-administration-through-the-department-of-state-and-secretary-of-state-rex-tillerson-expels-15-cuban-diplomats-after-pulling-hal.md) _Context: Cuba_
-2. [Hurricane Irma makes landfall in Cuba. The death toll across the Caribbean is at least 25 people, ](/news/2017/09/9/hurricane-irma-makes-landfall-in-cuba-the-death-toll-across-the-caribbean-is-at-least-25-people.md) _Context: Cuba_
-3. [Irma has killed at least 14 people. The storm, still at Category 5 strength with maximum sustained winds of 175 mph (280 km-h), is moving west-northwest at 16 mph (26 km-h). It has reached the dual-country island of Hispaniola and is forecast to pass over the Turks and Caicos Islands as it heads towards The Bahamas and Cuba. The eye did not directly hit Puerto Rico; still casualties are reported and around two-thirds of its 3.4 million population are without electricity. ](/news/2017/09/7/irma-has-killed-at-least-14-people-the-storm-still-at-category-5-strength-with-maximum-sustained-winds-of-175-mph-280-km-h-is-moving-we.md) _Context: Cuba_
-4. [The United States State Department says at least 16 U.S. government employees and family members based in Cuba showed physical symptoms from the previously reported acoustic attacks. Investigators are exploring whether some form of sonic attack was directed at diplomats' homes. ](/news/2017/08/24/the-united-states-state-department-says-at-least-16-u-s-government-employees-and-family-members-based-in-cuba-showed-physical-symptoms-from.md) _Context: Cuba_
-5. [The Chamber of Deputies of the Czech Republic passes a Czech Social Democratic Party-proposed amendment to the constitution, giving citizens the right to acquire, possess and carry firearms for the purpose of security. The constitutional amendment will now go to the Senate, where it is expected to pass. ](/news/2017/06/29/the-chamber-of-deputies-of-the-czech-republic-passes-a-czech-social-democratic-party-proposed-amendment-to-the-constitution-giving-citizens.md) _Context: Czech Republic_
+1. [Incumbent Milos Zeman, who opposes immigration and objects to EU sanctions against Russia, is elected to a second term as President of the Czech Republic, after receiving 51.8 percent of the votes in the run-off election over pro-EU challenger Jiri Drahos. ](/news/2018/01/27/incumbent-miloa-zeman-who-opposes-immigration-and-objects-to-eu-sanctions-against-russia-is-elected-to-a-second-term-as-president-of-the.md) _Context: Czech Republic_
+2. [The European Commission orders Poland, the Czech Republic and Hungary to court over their refusal to incorporate more refugees. This is the third step in a process that may lead to fines and loss of the countries' voting rights in the European Union. ](/news/2017/12/7/the-european-commission-orders-poland-the-czech-republic-and-hungary-to-court-over-their-refusal-to-incorporate-more-refugees-this-is-the.md) _Context: Czech Republic_
+3. [The Czech Republic recognizes West Jerusalem as Israel's capital "in practice". ](/news/2017/12/7/the-czech-republic-recognizes-west-jerusalem-as-israel-s-capital-in-practice.md) _Context: Czech Republic_
+4. [The Cuban Parliament approves moving the country's municipal elections to March, and the presidential election to April, when President Raul Castro is expected to step down. ](/news/2017/12/21/the-cuban-parliament-approves-moving-the-country-s-municipal-elections-to-march-and-the-presidential-election-to-april-when-president-raao.md) _Context: Cuba_
+5. [The United States and Russia begin fighting over the extradition of Yevgeniy Nikulin, who was detained in October 2016 in the Czech Republic, after the U.S. Justice Department issued an international arrest warrant for him. However, soon after the U.S. issued its arrest warrant, Russian authorities also sought his extradition. The Russian charge accuses Nikulin of stealing from an online money transfer company back in 2009. ](/news/2017/11/25/the-united-states-and-russia-begin-fighting-over-the-extradition-of-yevgeniy-nikulin-who-was-detained-in-october-2016-in-the-czech-republic.md) _Context: Czech Republic_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/15/at-least-38-people-are-killed-in-flash-floods-in-north-sumatra-indonesia.html)  [JSON](/news/2009/09/15/at-least-38-people-are-killed-in-flash-floods-in-north-sumatra-indonesia.json)  [XML](/news/2009/09/15/at-least-38-people-are-killed-in-flash-floods-in-north-sumatra-indonesia.xml)  
+
 ### [2009-09-15](/news/2009/09/15/index.md)
 
+##### North Sumatra
 #  At least 38 people are killed in flash floods in North Sumatra, Indonesia. 
 
 At least 38 people have been killed in flash floods in a remote region of Indonesia&#39;s North Sumatra province.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0915/indonesia.html)
 1. [Cover Image](https://img.rasset.ie/0001091a-1600.jpg)

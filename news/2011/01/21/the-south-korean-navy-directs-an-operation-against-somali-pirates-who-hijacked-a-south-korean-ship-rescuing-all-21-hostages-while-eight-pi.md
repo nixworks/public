@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/21/the-south-korean-navy-directs-an-operation-against-somali-pirates-who-hijacked-a-south-korean-ship-rescuing-all-21-hostages-while-eight-pi.html)  [JSON](/news/2011/01/21/the-south-korean-navy-directs-an-operation-against-somali-pirates-who-hijacked-a-south-korean-ship-rescuing-all-21-hostages-while-eight-pi.json)  [XML](/news/2011/01/21/the-south-korean-navy-directs-an-operation-against-somali-pirates-who-hijacked-a-south-korean-ship-rescuing-all-21-hostages-while-eight-pi.xml)  
+
 ### [2011-01-21](/news/2011/01/21/index.md)
 
+##### South Korea
 # The South Korean navy directs an operation against Somali pirates who hijacked a South Korean ship, rescuing all 21 hostages, while eight pirates are killed and five are captured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google news](http://www.google.com/hostednews/afp/article/ALeqM5gf70DVsBfMzrfZYM6GKyK0KRlu2Q?docId=CNG.11c7d94470f99279648cec3b421426c2.a51)
 

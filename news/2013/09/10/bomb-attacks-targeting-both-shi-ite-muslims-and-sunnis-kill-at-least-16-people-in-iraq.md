@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/09/10/bomb-attacks-targeting-both-shi-ite-muslims-and-sunnis-kill-at-least-16-people-in-iraq.html)  [JSON](/news/2013/09/10/bomb-attacks-targeting-both-shi-ite-muslims-and-sunnis-kill-at-least-16-people-in-iraq.json)  [XML](/news/2013/09/10/bomb-attacks-targeting-both-shi-ite-muslims-and-sunnis-kill-at-least-16-people-in-iraq.xml)  
+
 ### [2013-09-10](/news/2013/09/10/index.md)
 
+##### 
 # Bomb attacks targeting both Shi'ite Muslims and Sunnis kill at least 16 people in Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/09/10/us-iraq-violence-idUSBRE9890UE20130910)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130910&t=2&i=791740399&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9891FJP00)
+1. [Reuters](https://www.reuters.com/article/2013/09/10/us-iraq-violence-idUSBRE9890UE20130910)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130910&t=2&i=791740399&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9891FJP00)
 
 ### Changes:
 

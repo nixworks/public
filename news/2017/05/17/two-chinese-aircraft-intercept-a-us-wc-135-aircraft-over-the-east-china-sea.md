@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/17/two-chinese-aircraft-intercept-a-us-wc-135-airc
 
 ### [2017-05-17](/news/2017/05/17/index.md)
 
+##### Chinese aircraft
 # Two Chinese aircraft intercept a US WC-135 aircraft over the East China Sea. 
 
 One jet came within 150ft (45m) of the US plane and flew upside over it, officials tell US media.

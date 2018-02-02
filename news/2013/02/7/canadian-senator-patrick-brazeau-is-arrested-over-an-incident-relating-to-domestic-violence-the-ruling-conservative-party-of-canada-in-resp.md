@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/7/canadian-senator-patrick-brazeau-is-arrested-over-an-incident-relating-to-domestic-violence-the-ruling-conservative-party-of-canada-in-resp.html)  [JSON](/news/2013/02/7/canadian-senator-patrick-brazeau-is-arrested-over-an-incident-relating-to-domestic-violence-the-ruling-conservative-party-of-canada-in-resp.json)  [XML](/news/2013/02/7/canadian-senator-patrick-brazeau-is-arrested-over-an-incident-relating-to-domestic-violence-the-ruling-conservative-party-of-canada-in-resp.xml)  
+
 ### [2013-02-7](/news/2013/02/7/index.md)
 
+##### Canadian Senator
 # Canadian Senator Patrick Brazeau is arrested over an incident relating to domestic violence. The ruling Conservative Party of Canada in response removes him from caucus. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/politics/story/2013/02/07/pol-brazeau-kicked-out-caucus.html)
 1. [Cover Image](https://i.cbc.ca/1.1386959.1378970573!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-brazeau-patrick-03690375.jpg)

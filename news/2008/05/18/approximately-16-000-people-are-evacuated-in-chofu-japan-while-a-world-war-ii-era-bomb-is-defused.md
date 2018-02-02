@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/05/18/approximately-16-000-people-are-evacuated-in-chofu-japan-while-a-world-war-ii-era-bomb-is-defused.html)  [JSON](/news/2008/05/18/approximately-16-000-people-are-evacuated-in-chofu-japan-while-a-world-war-ii-era-bomb-is-defused.json)  [XML](/news/2008/05/18/approximately-16-000-people-are-evacuated-in-chofu-japan-while-a-world-war-ii-era-bomb-is-defused.xml)  
+
 ### [2008-05-18](/news/2008/05/18/index.md)
 
+##### Chofu
 #  Approximately 16,000 people are evacuated in Chofu, Japan while a World War II era bomb is defused. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601101&sid=aRgYrLJacj0M&refer=japan)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601101&sid=aRgYrLJacj0M&refer=japan)
 
 ### Related:
 

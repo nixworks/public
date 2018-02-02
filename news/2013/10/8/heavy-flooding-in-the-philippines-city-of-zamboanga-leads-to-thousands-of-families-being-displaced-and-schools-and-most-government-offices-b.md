@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/8/heavy-flooding-in-the-philippines-city-of-zamboanga-leads-to-thousands-of-families-being-displaced-and-schools-and-most-government-offices-b.html)  [JSON](/news/2013/10/8/heavy-flooding-in-the-philippines-city-of-zamboanga-leads-to-thousands-of-families-being-displaced-and-schools-and-most-government-offices-b.json)  [XML](/news/2013/10/8/heavy-flooding-in-the-philippines-city-of-zamboanga-leads-to-thousands-of-families-being-displaced-and-schools-and-most-government-offices-b.xml)  
+
 ### [2013-10-8](/news/2013/10/8/index.md)
 
+##### Philippines
 # Heavy flooding in the Philippines city of Zamboanga leads to thousands of families being displaced and schools and most government offices being closed. 
 
 MANILA &ndash; Classes and work in government offices in Zamboanga City were suspended Tuesday due to continuous rains and severe flooding.
 
 
-### Source:
+### Sources:
 
 1. [ABS-CBN](http://www.abs-cbnnews.com/nation/regions/10/08/13/classes-govt-work-zamboanga-suspended)
 1. [Cover Image](http://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/a_images/topics/tvpatrol/2013october/100713_flood1.jpg)

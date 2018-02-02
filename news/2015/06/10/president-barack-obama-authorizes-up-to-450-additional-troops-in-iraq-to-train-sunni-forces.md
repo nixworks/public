@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2015/06/10/president-barack-obama-authorizes-up-to-450-additional-troops-in-iraq-to-train-sunni-forces.html)  [JSON](/news/2015/06/10/president-barack-obama-authorizes-up-to-450-additional-troops-in-iraq-to-train-sunni-forces.json)  [XML](/news/2015/06/10/president-barack-obama-authorizes-up-to-450-additional-troops-in-iraq-to-train-sunni-forces.xml)  
+
 ### [2015-06-10](/news/2015/06/10/index.md)
 
+##### U.S. President
 # President Barack Obama authorizes up to 450 additional troops in Iraq to train Sunni forces. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2015/06/09/politics/u-s-considering-1000-additional-troops-in-iraq/)
+
+### Changes:
+
+1. [American-led intervention in Iraq (2014-present):President Barack Obama authorizes up to 450 additional troops in Iraq to train Sunni forces. ](/news/2015/06/10/american-led-intervention-in-iraq-2014apresent-ppresident-barack-obama-authorizes-up-to-450-additional-troops-in-iraq-to-train-sunni-for.md) _2017-08-25 03:42:12 (First version)_
+2. [American-led intervention in Iraq (2014-present):: President Barack Obama authorizes up to 450 additional troops in Iraq to train Sunni forces. ](/news/2015/06/10/american-led-intervention-in-iraq-2014-present-president-barack-obama-authorizes-up-to-450-additional-troops-in-iraq-to-train-sunni-fo.md) _2017-08-27 03:42:30 (Update)_
+2. [President Barack Obama authorizes up to 450 additional troops in Iraq to train Sunni forces. ](/news/2015/06/10/president-barack-obama-authorizes-up-to-450-additional-troops-in-iraq-to-train-sunni-forces.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [The President of the United States Barack Obama authorises $25 million for "immediate military assistance" to the Iraqi government and Kurdistan Regional Government. He also outlines plans to expand US operations against Islamic State in Iraq and the Levant to Syria in a televised address to the nation. ](/news/2014/09/10/the-president-of-the-united-states-barack-obama-authorises-25-million-for-immediate-military-assistance-to-the-iraqi-government-and-kurdi.md) _Context: Barack Obama, Iraq, U.S. President_
 4. [The President of the United States, Barack Obama, announces a plan to withdraw all of the remaining American military forces from Iraq by the end of 2011. ](/news/2011/10/21/the-president-of-the-united-states-barack-obama-announces-a-plan-to-withdraw-all-of-the-remaining-american-military-forces-from-iraq-by-th.md) _Context: Barack Obama, Iraq, U.S. President_
 5. [President of the United States Barack Obama delivers a televised Oval Office address to the United States commemorating the end of United States armed forces being directly involved in fighting in Iraq. ](/news/2010/08/31/president-of-the-united-states-barack-obama-delivers-a-televised-oval-office-address-to-the-united-states-commemorating-the-end-of-united-st.md) _Context: Barack Obama, Iraq, U.S. President_
-
-### Changes:
-
-1. [American-led intervention in Iraq (2014-present):President Barack Obama authorizes up to 450 additional troops in Iraq to train Sunni forces. ](/news/2015/06/10/american-led-intervention-in-iraq-2014apresent-ppresident-barack-obama-authorizes-up-to-450-additional-troops-in-iraq-to-train-sunni-for.md) _2017-08-25 03:42:12 (First version)_
-2. [American-led intervention in Iraq (2014-present):: President Barack Obama authorizes up to 450 additional troops in Iraq to train Sunni forces. ](/news/2015/06/10/american-led-intervention-in-iraq-2014-present-president-barack-obama-authorizes-up-to-450-additional-troops-in-iraq-to-train-sunni-fo.md) _2017-08-27 03:42:30 (Update)_
-2. [President Barack Obama authorizes up to 450 additional troops in Iraq to train Sunni forces. ](/news/2015/06/10/president-barack-obama-authorizes-up-to-450-additional-troops-in-iraq-to-train-sunni-forces.md) _(Current version)_

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/29/republican-front-runner-donald-trump-says-he-no
 
 ### [2016-04-29](/news/2016/04/29/index.md)
 
+##### Donald Trump
 # Republican front runner Donald Trump says he now has 1001 confirmed delegates for the Cleveland convention in June. 
 
 A new analysis by the Cook Political Report says the odds of a contested Republican convention have &quot;dramatically declined&quot; after Donald Trump&#39;s big victories this week in five key Northeast primaries.

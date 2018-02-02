@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/17/the-leaders-of-brazil-bolivia-and-chile-agree-to-build-a-highway-by-2009-that-will-link-the-atlantic-in-santos-brazil-and-the-pacific.html)  [JSON](/news/2007/12/17/the-leaders-of-brazil-bolivia-and-chile-agree-to-build-a-highway-by-2009-that-will-link-the-atlantic-in-santos-brazil-and-the-pacific.json)  [XML](/news/2007/12/17/the-leaders-of-brazil-bolivia-and-chile-agree-to-build-a-highway-by-2009-that-will-link-the-atlantic-in-santos-brazil-and-the-pacific.xml)  
+
 ### [2007-12-17](/news/2007/12/17/index.md)
 
+##### Brazil
 #  The leaders of Brazil, Bolivia, and Chile agree to build a highway by 2009 that will link the Atlantic (in Santos, Brazil) and the Pacific (in Iquique, Chile) coasts of South America. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/7147941.stm)
 

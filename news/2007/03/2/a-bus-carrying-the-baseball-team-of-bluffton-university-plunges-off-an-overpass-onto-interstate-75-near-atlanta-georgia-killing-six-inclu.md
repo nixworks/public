@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/2/a-bus-carrying-the-baseball-team-of-bluffton-university-plunges-off-an-overpass-onto-interstate-75-near-atlanta-georgia-killing-six-inclu.html)  [JSON](/news/2007/03/2/a-bus-carrying-the-baseball-team-of-bluffton-university-plunges-off-an-overpass-onto-interstate-75-near-atlanta-georgia-killing-six-inclu.json)  [XML](/news/2007/03/2/a-bus-carrying-the-baseball-team-of-bluffton-university-plunges-off-an-overpass-onto-interstate-75-near-atlanta-georgia-killing-six-inclu.xml)  
+
 ### [2007-03-2](/news/2007/03/2/index.md)
 
+##### Bluffton University
 #  A bus carrying the baseball team of Bluffton University plunges off an overpass onto Interstate 75 near Atlanta, Georgia, killing six including four students. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/US/03/02/bus.accident/index.html)
 

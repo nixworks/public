@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/19/a-man-is-arrested-following-a-break-in-at-the-home-of-the-irish-minister-for-justice-alan-shatter-in-dublin.html)  [JSON](/news/2012/03/19/a-man-is-arrested-following-a-break-in-at-the-home-of-the-irish-minister-for-justice-alan-shatter-in-dublin.json)  [XML](/news/2012/03/19/a-man-is-arrested-following-a-break-in-at-the-home-of-the-irish-minister-for-justice-alan-shatter-in-dublin.xml)  
+
 ### [2012-03-19](/news/2012/03/19/index.md)
 
+##### Alan Shatter
 # A man is arrested following a break-in at the home of the Irish minister for Justice, Alan Shatter, in Dublin. 
 
 Police are investigating a break-in at the home of the Irish minister for Justice, Alan Shatter, in Dublin.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17425979)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59171000/jpg/_59171044_pacemaker_department_of_justice_04.jpg)

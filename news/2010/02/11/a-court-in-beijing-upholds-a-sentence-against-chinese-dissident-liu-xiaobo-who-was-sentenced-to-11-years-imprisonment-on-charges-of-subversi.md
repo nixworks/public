@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/11/a-court-in-beijing-upholds-a-sentence-against-chinese-dissident-liu-xiaobo-who-was-sentenced-to-11-years-imprisonment-on-charges-of-subversi.html)  [JSON](/news/2010/02/11/a-court-in-beijing-upholds-a-sentence-against-chinese-dissident-liu-xiaobo-who-was-sentenced-to-11-years-imprisonment-on-charges-of-subversi.json)  [XML](/news/2010/02/11/a-court-in-beijing-upholds-a-sentence-against-chinese-dissident-liu-xiaobo-who-was-sentenced-to-11-years-imprisonment-on-charges-of-subversi.xml)  
+
 ### [2010-02-11](/news/2010/02/11/index.md)
 
+##### Beijing
 # A court in Beijing upholds a sentence against Chinese dissident Liu Xiaobo who was sentenced to 11 years imprisonment on charges of subversion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/02/20102115328466434.html)
 2. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7022877.ece)

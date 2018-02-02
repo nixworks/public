@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/03/1/rwandan-hutu-rebels-kill-and-hack-to-pieces-eight-foreign-tourists-at-the-buhoma-homestead-uganda.html)  [JSON](/news/1999/03/1/rwandan-hutu-rebels-kill-and-hack-to-pieces-eight-foreign-tourists-at-the-buhoma-homestead-uganda.json)  [XML](/news/1999/03/1/rwandan-hutu-rebels-kill-and-hack-to-pieces-eight-foreign-tourists-at-the-buhoma-homestead-uganda.xml)  
+
 ### [1999-03-1](/news/1999/03/1/index.md)
 
+##### Rwanda
 #  Rwandan Hutu rebels kill and hack to pieces eight foreign tourists at the Buhoma homestead, Uganda
 
 

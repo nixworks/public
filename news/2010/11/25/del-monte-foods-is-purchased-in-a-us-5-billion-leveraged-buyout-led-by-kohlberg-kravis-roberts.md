@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/25/del-monte-foods-is-purchased-in-a-us-5-billion-leveraged-buyout-led-by-kohlberg-kravis-roberts.html)  [JSON](/news/2010/11/25/del-monte-foods-is-purchased-in-a-us-5-billion-leveraged-buyout-led-by-kohlberg-kravis-roberts.json)  [XML](/news/2010/11/25/del-monte-foods-is-purchased-in-a-us-5-billion-leveraged-buyout-led-by-kohlberg-kravis-roberts.xml)  
+
 ### [2010-11-25](/news/2010/11/25/index.md)
 
+##### Del Monte Foods
 # Del Monte Foods is purchased in a US$5 billion leveraged buyout led by Kohlberg Kravis Roberts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Financial Times](http://www.ft.com/cms/s/0/d5fe994e-f8c8-11df-b550-00144feab49a.html?ftcamp=rss#axzz16KteyYF5)
 

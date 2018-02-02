@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2006/11/19/india-test-fires-a-prithvi-missile-a-surface-to-surface-missile-capable-of-carrying-a-nuclear-weapon.html)  [JSON](/news/2006/11/19/india-test-fires-a-prithvi-missile-a-surface-to-surface-missile-capable-of-carrying-a-nuclear-weapon.json)  [XML](/news/2006/11/19/india-test-fires-a-prithvi-missile-a-surface-to-surface-missile-capable-of-carrying-a-nuclear-weapon.xml)  
+
 ### [2006-11-19](/news/2006/11/19/index.md)
 
+##### India
 #  India test fires a Prithvi missile, a surface-to-surface missile, capable of carrying a nuclear weapon. 
 
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/template/template.asp?category=National&template=Sciencetech&slug=India+test+fires+%27Prithvi%27+missile&id=96646&callid=1)
 1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 
-1. [India test fires two short range missiles, the Dhanush and Prithvi II. ](/news/2010/03/27/india-test-fires-two-short-range-missiles-the-dhanush-and-prithvi-ii.md) _Context: India, Prithvi II_
-2. [ India test fires two medium range Prithvi II missiles in the eastern state of Orissa. ](/news/2009/10/12/india-test-fires-two-medium-range-prithvi-ii-missiles-in-the-eastern-state-of-orissa.md) _Context: India, Prithvi II_
-3. [ The Indian-Pakistani conflict intensifies in the Kashmir region. Both powers have nuclear weapons.](/news/2002/05/23/the-indian-pakistani-conflict-intensifies-in-the-kashmir-region-both-powers-have-nuclear-weapons.md) _Context: India, nuclear weapon_
-4. [Mexico expels the ambassador of North Korea in the country over the recent nuclear weapons testing. ](/news/2017/09/7/mexico-expels-the-ambassador-of-north-korea-in-the-country-over-the-recent-nuclear-weapons-testing.md) _Context: nuclear weapon_
-5. [Prominent Indian journalist and "Lankesh Patrike" editor Gauri Lankesh is shot dead by unidentified men outside her house in the city of Bengaluru. ](/news/2017/09/5/prominent-indian-journalist-and-lankesh-patrike-editor-gauri-lankesh-is-shot-dead-by-unidentified-men-outside-her-house-in-the-city-of-ben.md) _Context: India_
+1. [ The Indian-Pakistani conflict intensifies in the Kashmir region. Both powers have nuclear weapons.](/news/2002/05/23/the-indian-pakistani-conflict-intensifies-in-the-kashmir-region-both-powers-have-nuclear-weapons.md) _Context: India, nuclear weapon_
+2. [A bus plunges into the Bhairab River after falling off a bridge in Murshidabad district, West Bengal, India, killing at least 36 people. The late response by rescuers to save passengers leads to violence between local residents and police. ](/news/2018/01/29/a-bus-plunges-into-the-bhairab-river-after-falling-off-a-bridge-in-murshidabad-district-west-bengal-india-killing-at-least-36-people-the.md) _Context: India_
+3. [The Indian Space Research Organisation successfully launches India's 100th satellite and 30 other satellites from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh. [http:--www.thehindubusinessline.com-news-science-isro-launches-its-100th-satellite-into-space-article10027585.ece "(The Hindu)"]A Delta IV launches NROL-47, a classified U.S. military payload, from Vandenberg Air Force Base, California. It is the last single-core Delta IV to launch from Vandenberg. [https:--spaceflightnow.com-2018-01-13-delta-4-rocket-successfully-lofts-clandestine-nro-satellite-into-orbit-"(Spaceflight Now)"]](/news/2018/01/12/the-indian-space-research-organisation-successfully-launches-indiaas-100th-satellite-and-30-other-satellites-from-the-satish-dhawan-space.md) _Context: India_
+4. [Fifteen countries ask the World Trade Organization a mandate to negotiate binding rules on e-commerce, days after India turned down negotiations. ](/news/2017/12/7/fifteen-countries-ask-the-world-trade-organization-a-mandate-to-negotiate-binding-rules-on-e-commerce-days-after-india-turned-down-negotiat.md) _Context: India_
+5. [United Nations Secretary-General Antonio Guterres issues "a red alert for our world," saying that conflicts have deepened, global anxieties about nuclear weapons have increased, inequalities have grown, and nationalism and xenophobia are on the rise. Guterres calls for global unity to overcome these growing challenges. ](/news/2017/12/31/united-nations-secretary-general-anta3nio-guterres-issues-a-red-alert-for-our-world-saying-that-conflicts-have-deepened-global-anxieties.md) _Context: nuclear weapon_

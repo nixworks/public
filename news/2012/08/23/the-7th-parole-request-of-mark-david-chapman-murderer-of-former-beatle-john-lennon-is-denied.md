@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/23/the-7th-parole-request-of-mark-david-chapman-murderer-of-former-beatle-john-lennon-is-denied.html)  [JSON](/news/2012/08/23/the-7th-parole-request-of-mark-david-chapman-murderer-of-former-beatle-john-lennon-is-denied.json)  [XML](/news/2012/08/23/the-7th-parole-request-of-mark-david-chapman-murderer-of-former-beatle-john-lennon-is-denied.xml)  
+
 ### [2012-08-23](/news/2012/08/23/index.md)
 
+##### Mark David Chapman
 # The 7th parole request of Mark David Chapman, murderer of former Beatle John Lennon, is denied. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/entertainment/sns-rt-us-usa-lennon-killerbre87m0la-20120823,0,132156.story)
 1. [Cover Image](http://www.trbimg.com/img-5530052e/turbine/chi-default-open-graph-ct-logo/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/04/4/mexico-city-authorities-declare-a-pollution-alert-after-smog-rose-to-1-5-times-acceptable-limits-the-day-before-implementation-of-the-city-s.html)  [JSON](/news/2016/04/4/mexico-city-authorities-declare-a-pollution-alert-after-smog-rose-to-1-5-times-acceptable-limits-the-day-before-implementation-of-the-city-s.json)  [XML](/news/2016/04/4/mexico-city-authorities-declare-a-pollution-alert-after-smog-rose-to-1-5-times-acceptable-limits-the-day-before-implementation-of-the-city-s.xml)  
+
 ### [2016-04-4](/news/2016/04/4/index.md)
 
+##### Mexico City
 # Mexico City authorities declare a pollution alert after smog rose to 1.5 times acceptable limits the day before implementation of the City's new, temporary air quality program that will keep one-fifth of the city's cars at home every weekday. 
 
 MEXICO CITY (AP) — Mexico City authorities have declared a pollution alert after smog rose to 1½ times acceptable limits on the eve of an unpopular new program to reduce the number of cars on the road in hopes of improving…
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/d2417d9c70674cd492571091c5aa01ce/pollution-alert-mexico-city-eve-new-driving-rule)
 

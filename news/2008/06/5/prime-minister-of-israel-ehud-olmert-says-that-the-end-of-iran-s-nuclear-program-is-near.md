@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/5/prime-minister-of-israel-ehud-olmert-says-that-the-end-of-iran-s-nuclear-program-is-near.html)  [JSON](/news/2008/06/5/prime-minister-of-israel-ehud-olmert-says-that-the-end-of-iran-s-nuclear-program-is-near.json)  [XML](/news/2008/06/5/prime-minister-of-israel-ehud-olmert-says-that-the-end-of-iran-s-nuclear-program-is-near.xml)  
+
 ### [2008-06-5](/news/2008/06/5/index.md)
 
+##### Israeli Prime Minister
 #  Prime Minister of Israel Ehud Olmert says that "the end of Iran's nuclear program is near". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/hasen/spages/990458.html)
 

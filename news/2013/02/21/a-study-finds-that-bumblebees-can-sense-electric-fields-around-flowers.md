@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/21/a-study-finds-that-bumblebees-can-sense-electric-fields-around-flowers.html)  [JSON](/news/2013/02/21/a-study-finds-that-bumblebees-can-sense-electric-fields-around-flowers.json)  [XML](/news/2013/02/21/a-study-finds-that-bumblebees-can-sense-electric-fields-around-flowers.xml)  
+
 ### [2013-02-21](/news/2013/02/21/index.md)
 
+##### bumblebee
 # A study finds that bumblebees can sense electric fields around flowers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Science News](http://www.sciencenews.org/view/generic/id/348490/description/Bees_learn_the_electric_buzz_of_flowers)
 

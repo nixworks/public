@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/3/united-states-presidential-election-2008-republican-presidential-candidates-debate-at-the-ronald-reagan-presidential-library-in-simi-vall.html)  [JSON](/news/2007/05/3/united-states-presidential-election-2008-republican-presidential-candidates-debate-at-the-ronald-reagan-presidential-library-in-simi-vall.json)  [XML](/news/2007/05/3/united-states-presidential-election-2008-republican-presidential-candidates-debate-at-the-ronald-reagan-presidential-library-in-simi-vall.xml)  
+
 ### [2007-05-3](/news/2007/05/3/index.md)
 
+##### 2008
 #  United States presidential election, 2008: Republican presidential candidates debate at the Ronald Reagan Presidential Library in Simi Valley, California. 
 
 Republican presidential candidates gave a qualified endorsement Thursday night to President Bush&#8217;s Iraq strategy, criticizing Bush for mismanaging the war but insisting that U.S. troops should not be withdrawn.&#160;&#160;[!]
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/18466314/)
 1. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Photos/070503/070503_debate_hmed_7p.standard.jpg)

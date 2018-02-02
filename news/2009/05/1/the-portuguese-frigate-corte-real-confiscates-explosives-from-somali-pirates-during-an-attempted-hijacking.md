@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/1/the-portuguese-frigate-corte-real-confiscates-explosives-from-somali-pirates-during-an-attempted-hijacking.html)  [JSON](/news/2009/05/1/the-portuguese-frigate-corte-real-confiscates-explosives-from-somali-pirates-during-an-attempted-hijacking.json)  [XML](/news/2009/05/1/the-portuguese-frigate-corte-real-confiscates-explosives-from-somali-pirates-during-an-attempted-hijacking.xml)  
+
 ### [2009-05-1](/news/2009/05/1/index.md)
 
+##### Portugal
 #  The Portuguese frigate "Corte-Real" confiscates explosives from Somali pirates during an attempted hijacking. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gB7YMEDuCwwY9ncDOtPAkEI4-H2wD97TURP80)
 

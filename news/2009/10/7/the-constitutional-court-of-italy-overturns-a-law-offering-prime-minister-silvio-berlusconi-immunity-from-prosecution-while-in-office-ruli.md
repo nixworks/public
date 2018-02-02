@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/7/the-constitutional-court-of-italy-overturns-a-law-offering-prime-minister-silvio-berlusconi-immunity-from-prosecution-while-in-office-ruli.html)  [JSON](/news/2009/10/7/the-constitutional-court-of-italy-overturns-a-law-offering-prime-minister-silvio-berlusconi-immunity-from-prosecution-while-in-office-ruli.json)  [XML](/news/2009/10/7/the-constitutional-court-of-italy-overturns-a-law-offering-prime-minister-silvio-berlusconi-immunity-from-prosecution-while-in-office-ruli.xml)  
+
 ### [2009-10-7](/news/2009/10/7/index.md)
 
+##### Constitutional Court
 #  The Constitutional Court of Italy overturns a law offering Prime Minister Silvio Berlusconi immunity from prosecution while in office, ruling it unconstitutional. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Adnkronos](http://www.adnkronos.com/AKI/English/Politics/?id=3.0.3849262745)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/10/2009107162326332602.html)

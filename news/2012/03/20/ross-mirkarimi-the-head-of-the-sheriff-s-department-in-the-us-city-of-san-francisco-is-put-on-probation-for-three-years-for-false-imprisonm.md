@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/20/ross-mirkarimi-the-head-of-the-sheriff-s-department-in-the-us-city-of-san-francisco-is-put-on-probation-for-three-years-for-false-imprisonm.html)  [JSON](/news/2012/03/20/ross-mirkarimi-the-head-of-the-sheriff-s-department-in-the-us-city-of-san-francisco-is-put-on-probation-for-three-years-for-false-imprisonm.json)  [XML](/news/2012/03/20/ross-mirkarimi-the-head-of-the-sheriff-s-department-in-the-us-city-of-san-francisco-is-put-on-probation-for-three-years-for-false-imprisonm.xml)  
+
 ### [2012-03-20](/news/2012/03/20/index.md)
 
+##### Ross Mirkarimi
 # Ross Mirkarimi, the head of the Sheriff's Department in the US city of San Francisco is put on probation for three years for false imprisonment of his wife on New Years Eve 2011. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times'' via ''Boston Herald](http://bostonherald.com/news/national/west/view/20120320sf_sheriff_gets_3_years_of_probation_for_imprisoning_wife)
 

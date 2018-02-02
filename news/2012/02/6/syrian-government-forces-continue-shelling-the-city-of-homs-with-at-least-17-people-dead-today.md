@@ -1,18 +1,27 @@
+
+Formats: [HTML](/news/2012/02/6/syrian-government-forces-continue-shelling-the-city-of-homs-with-at-least-17-people-dead-today.html)  [JSON](/news/2012/02/6/syrian-government-forces-continue-shelling-the-city-of-homs-with-at-least-17-people-dead-today.json)  [XML](/news/2012/02/6/syrian-government-forces-continue-shelling-the-city-of-homs-with-at-least-17-people-dead-today.xml)  
+
 ### [2012-02-6](/news/2012/02/6/index.md)
 
+##### 2011-2012 Syrian uprising
 # Syrian government forces continue shelling the city of Homs with at least 17 people dead today. 
 
 The closure of the embassy comes after weeks of concern about the safety of those working there.
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hfzSyRpEIP5fDkNzSdCgVAZLZVtg?docId=9f36adf0f9a54e8e85a079627ee38341)
 2. [CNN](http://www.cnn.com/2012/02/06/world/meast/syria-unrest/index.html?hpt=hp_t2)
 3. [Haaretz](http://www.haaretz.com/print-edition/news/bashar-assad-emails-leaked-tips-for-abc-interview-revealed-1.411445)
 4. [Hurriyet Daily News](http://www.hurriyetdailynews.com/turkey-opens-its-doors-to-all-syrians-fleeing-regime--.aspx?PageID=238&NID=13091&NewsCatID=409)
-5. [Washington Post](http://www.washingtonpost.com/world/us-pulls-diplomats-out-of-syria-as-violence-intensifies/2012/02/06/gIQAN1CxtQ_story.html)
+5. [Washington Post](https://www.washingtonpost.com/world/us-pulls-diplomats-out-of-syria-as-violence-intensifies/2012/02/06/gIQAN1CxtQ_story.html)
 5. [Cover Image](http://www.haaretz.com/polopoly_fs/1.411457.1328574645!/image/2349077637.jpg_gen/derivatives/headline_1200x630/2349077637.jpg)
+
+### Changes:
+
+1. [2011-2012 Syrian uprising: Syrian government forces continue shelling the city of Homs with at least 17 people dead today. ](/news/2012/02/6/2011-2012-syrian-uprising-syrian-government-forces-continue-shelling-the-city-of-homs-with-at-least-17-people-dead-today.md) _2017-08-27 03:35:08 (First version)_
+1. [Syrian government forces continue shelling the city of Homs with at least 17 people dead today. ](/news/2012/02/6/syrian-government-forces-continue-shelling-the-city-of-homs-with-at-least-17-people-dead-today.md) _(Current version)_
 
 ### Related:
 
@@ -21,8 +30,3 @@ The closure of the embassy comes after weeks of concern about the safety of thos
 3. [Several bombings kill at least 40 people in government and Kurdish held territory across Syria, including Tartus, Homs, Al-Hasakah and Damascus. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/09/5/several-bombings-kill-at-least-40-people-in-government-and-kurdish-held-territory-across-syria-including-tartus-homs-al-hasakah-and-damas.md) _Context: Homs, Syria_
 4. [ A Russian Air Force Mi-28 attack helicopter crashes near the Syrian city of Homs, killing two pilots. ](/news/2016/04/12/a-russian-air-force-mi-28-attack-helicopter-crashes-near-the-syrian-city-of-homs-killing-two-pilots.md) _Context: Homs, Syria_
 5. [Twin bomb blasts hit the Syrian city of Homs with at least 57 people reportedly killed and more than 100 injured. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/02/21/twin-bomb-blasts-hit-the-syrian-city-of-homs-with-at-least-57-people-reportedly-killed-and-more-than-100-injured-the-islamic-state-of-iraq.md) _Context: Homs, Syria_
-
-### Changes:
-
-1. [2011-2012 Syrian uprising: Syrian government forces continue shelling the city of Homs with at least 17 people dead today. ](/news/2012/02/6/2011-2012-syrian-uprising-syrian-government-forces-continue-shelling-the-city-of-homs-with-at-least-17-people-dead-today.md) _2017-08-27 03:35:08 (First version)_
-1. [Syrian government forces continue shelling the city of Homs with at least 17 people dead today. ](/news/2012/02/6/syrian-government-forces-continue-shelling-the-city-of-homs-with-at-least-17-people-dead-today.md) _(Current version)_

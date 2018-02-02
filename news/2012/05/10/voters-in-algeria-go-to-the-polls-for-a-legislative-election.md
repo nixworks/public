@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/10/voters-in-algeria-go-to-the-polls-for-a-legislative-election.html)  [JSON](/news/2012/05/10/voters-in-algeria-go-to-the-polls-for-a-legislative-election.json)  [XML](/news/2012/05/10/voters-in-algeria-go-to-the-polls-for-a-legislative-election.xml)  
+
 ### [2012-05-10](/news/2012/05/10/index.md)
 
+##### Algeria
 # Voters in Algeria go to the polls for a legislative election. 
 
 Algerian have voted in parliamentary elections billed by the authorities as historically transparent, but marred by a low turnout.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-18016899)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60138000/jpg/_60138445_014706525-1.jpg)

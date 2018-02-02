@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/04/11/farooque-ahmed-is-sentenced-to-23-years-in-jail-in-the-us-for-plotting-attacks-on-the-washington-metro-system.html)  [JSON](/news/2011/04/11/farooque-ahmed-is-sentenced-to-23-years-in-jail-in-the-us-for-plotting-attacks-on-the-washington-metro-system.json)  [XML](/news/2011/04/11/farooque-ahmed-is-sentenced-to-23-years-in-jail-in-the-us-for-plotting-attacks-on-the-washington-metro-system.xml)  
+
 ### [2011-04-11](/news/2011/04/11/index.md)
 
+##### Farooque Ahmed
 # Farooque Ahmed is sentenced to 23 years in jail in the US for plotting attacks on the Washington Metro system. 
 
 A Northern Virginia man on Monday was sentenced to 23 years in prison for his role in a plot to carry out terrorist bombings at stations in the Washington Metro system.
 
 
-### Source:
+### Sources:
 
-1. [Washington post](http://www.washingtonpost.com/blogs/crime-scene/post/va-man-admits-metro-bomb-plot/2011/04/11/AFHLboLD_blog.html)
+1. [Washington post](https://www.washingtonpost.com/blogs/crime-scene/post/va-man-admits-metro-bomb-plot/2011/04/11/AFHLboLD_blog.html)
 
 ### Related:
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/11/9/using-social-media-russian-investigative-bloggers-from-the-conflict-intelligence-team-photo-geolocate-three-russian-military-personnel-outs.html)  [JSON](/news/2015/11/9/using-social-media-russian-investigative-bloggers-from-the-conflict-intelligence-team-photo-geolocate-three-russian-military-personnel-outs.json)  [XML](/news/2015/11/9/using-social-media-russian-investigative-bloggers-from-the-conflict-intelligence-team-photo-geolocate-three-russian-military-personnel-outs.xml)  
+
 ### [2015-11-9](/news/2015/11/9/index.md)
 
+##### Syrian Civil War
 # Using social media, Russian investigative bloggers from the Conflict Intelligence Team photo-geolocate three Russian military personnel outside expected air support operations areas -- evidence of what the group says may be a broader Russian military role in Syria. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/08/us-mideast-crisis-syria-russia-idUSKCN0SX0H820151108#smxv69VMLyiDCkD4.97)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151108&t=2&i=1093251850&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA708T)
+1. [Reuters](https://www.reuters.com/article/2015/11/08/us-mideast-crisis-syria-russia-idUSKCN0SX0H820151108#smxv69VMLyiDCkD4.97)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20151108&t=2&i=1093251850&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA708T)
 
 ### Related:
 

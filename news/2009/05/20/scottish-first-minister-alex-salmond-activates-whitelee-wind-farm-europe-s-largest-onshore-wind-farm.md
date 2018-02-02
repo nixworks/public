@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/20/scottish-first-minister-alex-salmond-activates-whitelee-wind-farm-europe-s-largest-onshore-wind-farm.html)  [JSON](/news/2009/05/20/scottish-first-minister-alex-salmond-activates-whitelee-wind-farm-europe-s-largest-onshore-wind-farm.json)  [XML](/news/2009/05/20/scottish-first-minister-alex-salmond-activates-whitelee-wind-farm-europe-s-largest-onshore-wind-farm.xml)  
+
 ### [2009-05-20](/news/2009/05/20/index.md)
 
+##### Scotland
 #  Scottish First Minister Alex Salmond activates Whitelee Wind Farm, Europe's largest onshore wind farm. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/scotland/glasgow_and_west/8057198.stm)
 2. [NCE](http://www.nce.co.uk/news/energy/scotlands-first-minister-to-switch-on-europes-largest-onshore-windfarm/5202311.article)

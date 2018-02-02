@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/31/7-more-suspects-are-arrested-in-brighton-following-the-21-july-2005-london-bombings.html)  [JSON](/news/2005/07/31/7-more-suspects-are-arrested-in-brighton-following-the-21-july-2005-london-bombings.json)  [XML](/news/2005/07/31/7-more-suspects-are-arrested-in-brighton-following-the-21-july-2005-london-bombings.xml)  
+
 ### [2005-07-31](/news/2005/07/31/index.md)
 
+##### Brighton
 #  7 more suspects are arrested in Brighton following the 21 July 2005 London bombings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4732951.stm)
 

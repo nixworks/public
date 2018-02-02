@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/24/jp-morgan-chase-bank-apologizes-for-its-predecessors-canal-bank-and-citizens-bank-which-accepted-slaves-as-collateral.html)  [JSON](/news/2005/01/24/jp-morgan-chase-bank-apologizes-for-its-predecessors-canal-bank-and-citizens-bank-which-accepted-slaves-as-collateral.json)  [XML](/news/2005/01/24/jp-morgan-chase-bank-apologizes-for-its-predecessors-canal-bank-and-citizens-bank-which-accepted-slaves-as-collateral.xml)  
+
 ### [2005-01-24](/news/2005/01/24/index.md)
 
+##### JP Morgan Chase
 #  JP Morgan Chase bank apologizes for its predecessors Canal Bank and Citizens' Bank which accepted slaves as collateral. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/4193797.stm)
 2. [CBS2](http://cbs2chicago.com/marketwatch/local_story_020225802.html)

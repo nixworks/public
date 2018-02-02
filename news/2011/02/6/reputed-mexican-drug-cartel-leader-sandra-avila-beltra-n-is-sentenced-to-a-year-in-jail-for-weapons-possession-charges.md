@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/6/reputed-mexican-drug-cartel-leader-sandra-avila-beltra-n-is-sentenced-to-a-year-in-jail-for-weapons-possession-charges.html)  [JSON](/news/2011/02/6/reputed-mexican-drug-cartel-leader-sandra-avila-beltra-n-is-sentenced-to-a-year-in-jail-for-weapons-possession-charges.json)  [XML](/news/2011/02/6/reputed-mexican-drug-cartel-leader-sandra-avila-beltra-n-is-sentenced-to-a-year-in-jail-for-weapons-possession-charges.xml)  
+
 ### [2011-02-6](/news/2011/02/6/index.md)
 
+##### Mexican drug cartel
 # Reputed Mexican drug cartel leader Sandra Avila Beltran is sentenced to a year in jail for weapons possession charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''El Paso Times](http://www.elpasotimes.com/newupdated/ci_17311293)
 

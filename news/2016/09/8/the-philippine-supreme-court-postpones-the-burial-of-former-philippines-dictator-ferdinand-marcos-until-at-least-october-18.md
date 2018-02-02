@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/8/the-philippine-supreme-court-postpones-the-buria
 
 ### [2016-09-8](/news/2016/09/8/index.md)
 
+##### Burial of Ferdinand Marcos
 # The Philippine Supreme Court postpones the burial of former Philippines dictator Ferdinand Marcos until at least October 18. 
 
 The Supreme Court yesterday extended until Oct. 18 its order temporarily stopping the burial of the late strongman Ferdinand Marcos at the Libingan ng mga Bayani in Taguig City that was supposedly set on Sept. 18. 

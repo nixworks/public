@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/7/the-united-nations-is-asking-donors-for-us-3-2-million-to-help-six-west-african-countries-fight-cholera-the-disease-has-killed-at-least-70.html)  [JSON](/news/2005/11/7/the-united-nations-is-asking-donors-for-us-3-2-million-to-help-six-west-african-countries-fight-cholera-the-disease-has-killed-at-least-70.json)  [XML](/news/2005/11/7/the-united-nations-is-asking-donors-for-us-3-2-million-to-help-six-west-african-countries-fight-cholera-the-disease-has-killed-at-least-70.xml)  
+
 ### [2005-11-7](/news/2005/11/7/index.md)
 
+##### United Nations
 #  The United Nations is asking donors for US$3.2 million to help six West African countries fight cholera. The disease has killed at least 700 people and infected over 42,000 in the region since June, a sharp rise due to the unusually heavy rains this year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [allAfrica](http://allafrica.com/stories/200511071055.html)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/19/a-23-year-old-stabs-and-injures-eight-people-in
 
 ### [2017-08-19](/news/2017/08/19/index.md)
 
+##### Terrorism in Russia
 # A 23-year-old stabs and injures eight people in the Russian city of Surgut, before being killed by police. ISIL claims responsibility for the attack. 
 
 ISIS claimed responsibility for a stabbing attack in the Russian city of Surgut. Earlier today, a 23-year-old local resident with a...
@@ -10,7 +11,7 @@ ISIS claimed responsibility for a stabbing attack in the Russian city of Surgut.
 
 ### Sources:
 
-1. [Reuters](https://www.reuters.com/article/us-russia-stabbing-idUSKCN1AZ0A6?il=0)
+1. [Reuters](https://www.reuters.com/article/us-russia-stabbing-idUSKCN1AZ0A6)
 2. [South Front](https://southfront.org/isis-claimed-responsibility-stabbing-attack-russias-surgut/)
 2. [Cover Image](https://southfront.org/wp-content/uploads/2017/08/Screenshot_2-5.jpg)
 

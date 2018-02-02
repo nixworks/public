@@ -1,15 +1,23 @@
+
+Formats: [HTML](/news/2006/03/27/the-new-york-times-reports-that-it-has-seen-a-memo-that-shows-george-w-bush-was-determined-to-go-to-war-at-least-two-months-before-the-2.html)  [JSON](/news/2006/03/27/the-new-york-times-reports-that-it-has-seen-a-memo-that-shows-george-w-bush-was-determined-to-go-to-war-at-least-two-months-before-the-2.json)  [XML](/news/2006/03/27/the-new-york-times-reports-that-it-has-seen-a-memo-that-shows-george-w-bush-was-determined-to-go-to-war-at-least-two-months-before-the-2.xml)  
+
 ### [2006-03-27](/news/2006/03/27/index.md)
 
+##### The New York Times
 #  "The New York Times" reports that it has seen a memo that shows George W. Bush was determined to go to war at least two months before the 2003 invasion of Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4849744.stm)
-2. [NYT](http://www.nytimes.com/2006/03/27/international/europe/27memo.html?pagewanted=1&ei=5090&en=7c30d11fe0c8c923&ex=1301115600&partner=rssuserland&emc=rss)
-2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+2. [NYT](https://www.nytimes.com/2006/03/27/international/europe/27memo.html?pagewanted=1&ei=5090&en=7c30d11fe0c8c923&ex=1301115600&partner=rssuserland&emc=rss)
+
+### Changes:
+
+1. [ ''The New York Times'' reports that it has seen a memo that shows George W. Bush was determined to go to war at least two months before the 2003 invasion of Iraq. ](/news/2006/03/27/the-new-york-times-reports-that-it-has-seen-a-memo-that-shows-george-w-bush-was-determined-to-go-to-war-at-least-two-months-before-the.md) _2017-08-25 03:17:32 (First version)_
+1. [ "The New York Times" reports that it has seen a memo that shows George W. Bush was determined to go to war at least two months before the 2003 invasion of Iraq. ](/news/2006/03/27/the-new-york-times-reports-that-it-has-seen-a-memo-that-shows-george-w-bush-was-determined-to-go-to-war-at-least-two-months-before-the-2.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +26,3 @@
 3. [ A coalition of citizen groups will ask United States Congress to file a formal "Resolution of Inquiry", the first necessary legal step to determine whether U.S. President George W. Bush has committed impeachable offenses. The request, written by Boston constitutional attorney John C. Bonifaz, cites the Downing Street memo and issues surrounding the planning and execution of the Iraq war. ](/news/2005/05/26/a-coalition-of-citizen-groups-will-ask-united-states-congress-to-file-a-formal-resolution-of-inquiry-the-first-necessary-legal-step-to-d.md) _Context: 2003 invasion of Iraq, George W. Bush_
 4. [ The Bush administration is requesting an additional $80 billion from Congress for Iraq and Afghanistan, bringing the total cost of both operations over $280 billion. ](/news/2005/01/25/the-bush-administration-is-requesting-an-additional-80-billion-from-congress-for-iraq-and-afghanistan-bringing-the-total-cost-of-both-ope.md) _Context: 2003 invasion of Iraq, George W. Bush_
 5. [ U.S. President George W. Bush arrives at the Asia-Pacific Economic Cooperation summit in Santiago de Chile for talks with China and other nations. The summit's agenda includes nuclear proliferation and new free trade agreements, particularly on agriculture. Bush hopes to revive six-party talks on North Korea's nuclear program and promote the "War on Terrorism". The Chinese delegation ask Bush to take "all measures necessary" to halt the slide in value of the U.S. dollar. About 40,000 people protest against the summit, Bush, the war in Iraq, and globalization; they are blocked by Chilean police with tear gas and water cannon. ](/news/2004/11/19/u-s-president-george-w-bush-arrives-at-the-asia-pacific-economic-cooperation-summit-in-santiago-de-chile-for-talks-with-china-and-other-n.md) _Context: 2003 invasion of Iraq, George W. Bush_
-
-### Changes:
-
-1. [ ''The New York Times'' reports that it has seen a memo that shows George W. Bush was determined to go to war at least two months before the 2003 invasion of Iraq. ](/news/2006/03/27/the-new-york-times-reports-that-it-has-seen-a-memo-that-shows-george-w-bush-was-determined-to-go-to-war-at-least-two-months-before-the.md) _2017-08-25 03:17:32 (First version)_
-1. [ "The New York Times" reports that it has seen a memo that shows George W. Bush was determined to go to war at least two months before the 2003 invasion of Iraq. ](/news/2006/03/27/the-new-york-times-reports-that-it-has-seen-a-memo-that-shows-george-w-bush-was-determined-to-go-to-war-at-least-two-months-before-the-2.md) _(Current version)_

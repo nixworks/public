@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/11/a-suicide-bombing-in-kandahar-afghanistan-injures-3-people-while-killing-the-bomber.html)  [JSON](/news/2005/12/11/a-suicide-bombing-in-kandahar-afghanistan-injures-3-people-while-killing-the-bomber.json)  [XML](/news/2005/12/11/a-suicide-bombing-in-kandahar-afghanistan-injures-3-people-while-killing-the-bomber.xml)  
+
 ### [2005-12-11](/news/2005/12/11/index.md)
 
+##### suicide bombing
 #  A suicide bombing in Kandahar, Afghanistan, injures 3 people while killing the bomber. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-5472061,00.html)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2005-12-11T132915Z_01_FOR126332_RTRUKOC_0_US-AFGHAN-BLAST.xml&archived=False)

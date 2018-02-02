@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/15/the-trial-of-six-men-accused-of-the-21-july-2005-london-bombings-begins.html)  [JSON](/news/2007/01/15/the-trial-of-six-men-accused-of-the-21-july-2005-london-bombings-begins.json)  [XML](/news/2007/01/15/the-trial-of-six-men-accused-of-the-21-july-2005-london-bombings-begins.xml)  
+
 ### [2007-01-15](/news/2007/01/15/index.md)
 
+##### 21 July 2005 London bombings
 #  The trial of six men accused of the 21 July 2005 London bombings begins. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/6261899.stm)
 

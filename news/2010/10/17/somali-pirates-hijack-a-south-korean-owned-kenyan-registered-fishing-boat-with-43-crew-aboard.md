@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/17/somali-pirates-hijack-a-south-korean-owned-kenyan-registered-fishing-boat-with-43-crew-aboard.html)  [JSON](/news/2010/10/17/somali-pirates-hijack-a-south-korean-owned-kenyan-registered-fishing-boat-with-43-crew-aboard.json)  [XML](/news/2010/10/17/somali-pirates-hijack-a-south-korean-owned-kenyan-registered-fishing-boat-with-43-crew-aboard.xml)  
+
 ### [2010-10-17](/news/2010/10/17/index.md)
 
+##### Somalia
 # Somali pirates hijack a South Korean owned Kenyan registered fishing boat with 43 crew aboard. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11559890)
 2. [Yonhap](http://english.yonhapnews.co.kr/national/2010/10/17/17/0301000000AEN20101017000900315F.HTML)

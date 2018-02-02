@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/16/a-report-by-the-metropolitan-police-in-the-uk-states-that-children-are-being-trafficked-into-the-uk-from-africa-to-be-used-as-human-sacrif.html)  [JSON](/news/2005/06/16/a-report-by-the-metropolitan-police-in-the-uk-states-that-children-are-being-trafficked-into-the-uk-from-africa-to-be-used-as-human-sacrif.json)  [XML](/news/2005/06/16/a-report-by-the-metropolitan-police-in-the-uk-states-that-children-are-being-trafficked-into-the-uk-from-africa-to-be-used-as-human-sacrif.xml)  
+
 ### [2005-06-16](/news/2005/06/16/index.md)
 
+##### Metropolitan Police
 #  A report by the Metropolitan Police in the UK states that children are being trafficked into the UK from Africa to be used as 'human sacrifices'. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4098172.stm)
 2. [Guardian](http://www.guardian.co.uk/child/story/0,7369,1508539,00.html)

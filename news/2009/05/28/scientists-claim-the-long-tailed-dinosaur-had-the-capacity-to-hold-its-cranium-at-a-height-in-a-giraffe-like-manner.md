@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/28/scientists-claim-the-long-tailed-dinosaur-had-the-capacity-to-hold-its-cranium-at-a-height-in-a-giraffe-like-manner.html)  [JSON](/news/2009/05/28/scientists-claim-the-long-tailed-dinosaur-had-the-capacity-to-hold-its-cranium-at-a-height-in-a-giraffe-like-manner.json)  [XML](/news/2009/05/28/scientists-claim-the-long-tailed-dinosaur-had-the-capacity-to-hold-its-cranium-at-a-height-in-a-giraffe-like-manner.xml)  
+
 ### [2009-05-28](/news/2009/05/28/index.md)
 
+##### Scientist
 #  Scientists claim the "long-tailed dinosaur" had the capacity to hold its cranium at a height in a giraffe-like manner. 
 
 LONDON - Ever since palaeontologists pieced together the many bones of lumbering sauropods they have argued about how these largest of dinosaurs would have held their immensely long - New Zealand Herald
 
 
-### Source:
+### Sources:
 
 1. [New Zealand Harold](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10574901)
 1. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/6/the-lebanese-cautiously-welcome-a-political-agre
 
 ### [2017-12-6](/news/2017/12/6/index.md)
 
+##### Politics of Lebanon
 # The Lebanese cautiously welcome a political agreement that enables Prime Minister Saad Hariri to officially withdraw his unexpected November 4 resignation. 
 
 It is welcome news that Prime Minister Saad Hariri has withdrawn his resignation, which alone promises good tidings for the Lebanese, especially during the festive season.
@@ -16,7 +17,7 @@ It is welcome news that Prime Minister Saad Hariri has withdrawn his resignation
 ### Related:
 
 1. [Lebanon's Government led by Prime Minister Saad Hariri collapses following the withdrawal of Hezbollah. ](/news/2011/01/12/lebanon-s-government-led-by-prime-minister-saad-hariri-collapses-following-the-withdrawal-of-hezbollah.md) _Context: Prime Minister, Saad Hariri_
-2. [Lebanon's Prime Minister Saad Hariri visits Iran, seeking help to prevent violence if a U.N.-backed tribunal indicts Hezbollah members for killing former prime minister, Rafiq Hariri, and 21 others in a car bombing ](/news/2010/11/26/lebanon-s-prime-minister-saad-hariri-visits-iran-seeking-help-to-prevent-violence-if-a-u-n-backed-tribunal-indicts-hezbollah-members-for-k.md) _Context: Prime Minister, Saad Hariri_
-3. [Thousands of people collect in Beirut on the fifth anniversary of the assassination of former Prime Minister Rafic Hariri in a bombing alongside 21 other people, with his son and current Prime Minister Saad Hariri addressing the crowd. ](/news/2010/02/14/thousands-of-people-collect-in-beirut-on-the-fifth-anniversary-of-the-assassination-of-former-prime-minister-rafic-hariri-in-a-bombing-along.md) _Context: Prime Minister, Saad Hariri_
-4. [ Prime Minister-designate Saad Hariri steps aside in Lebanon. ](/news/2009/09/10/prime-minister-designate-saad-hariri-steps-aside-in-lebanon.md) _Context: Prime Minister, Saad Hariri_
-5. [ Saad al-Hariri is appointed the new Prime Minister of Lebanon. ](/news/2009/06/27/saad-al-hariri-is-appointed-the-new-prime-minister-of-lebanon.md) _Context: Prime Minister, Saad Hariri_
+2. [Thousands of people collect in Beirut on the fifth anniversary of the assassination of former Prime Minister Rafic Hariri in a bombing alongside 21 other people, with his son and current Prime Minister Saad Hariri addressing the crowd. ](/news/2010/02/14/thousands-of-people-collect-in-beirut-on-the-fifth-anniversary-of-the-assassination-of-former-prime-minister-rafic-hariri-in-a-bombing-along.md) _Context: Prime Minister, Saad Hariri_
+3. [ Prime Minister-designate Saad Hariri steps aside in Lebanon. ](/news/2009/09/10/prime-minister-designate-saad-hariri-steps-aside-in-lebanon.md) _Context: Prime Minister, Saad Hariri_
+4. [ Saad al-Hariri is appointed the new Prime Minister of Lebanon. ](/news/2009/06/27/saad-al-hariri-is-appointed-the-new-prime-minister-of-lebanon.md) _Context: Prime Minister, Saad Hariri_
+5. [Lebanese Prime Minister Saad al-Hariri resigns, citing assassination threats. ](/news/2017/11/4/lebanese-prime-minister-saad-al-hariri-resigns-citing-assassination-threats.md) _Context: Politics of Lebanon_

@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2010/10/30/one-person-was-killed-and-eight-others-were-wounded-when-unknown-assailants-opened-fire-in-rawalpindias-civil-lines-area-of-pakistan.html)  [JSON](/news/2010/10/30/one-person-was-killed-and-eight-others-were-wounded-when-unknown-assailants-opened-fire-in-rawalpindias-civil-lines-area-of-pakistan.json)  [XML](/news/2010/10/30/one-person-was-killed-and-eight-others-were-wounded-when-unknown-assailants-opened-fire-in-rawalpindias-civil-lines-area-of-pakistan.xml)  
+
 ### [2010-10-30](/news/2010/10/30/index.md)
 
+##### Rawalpindi
 # One person was killed and eight others were wounded when unknown assailants opened fire in Rawalpindi's Civil Lines area of Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [dawn](http://news.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/04-rawalpindi-shooting-one-killed-qs-05)
+
+### Changes:
+
+1. [One person was killed and eight others were wounded when unknown assailants opened fire in Rawalpindi-s Civil Lines area of Pakistan. ](/news/2010/10/30/one-person-was-killed-and-eight-others-were-wounded-when-unknown-assailants-opened-fire-in-rawalpindi-s-civil-lines-area-of-pakistan.md) _2017-08-27 03:30:53 (First version)_
+1. [One person was killed and eight others were wounded when unknown assailants opened fire in Rawalpindi's Civil Lines area of Pakistan. ](/news/2010/10/30/one-person-was-killed-and-eight-others-were-wounded-when-unknown-assailants-opened-fire-in-rawalpindias-civil-lines-area-of-pakistan.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [A suicide bomber blows himself up near Pakistan's military headquarters in Rawalpindi killing at least 13 people. ](/news/2014/01/20/a-suicide-bomber-blows-himself-up-near-pakistan-s-military-headquarters-in-rawalpindi-killing-at-least-13-people.md) _Context: Pakistan, Rawalpindi_
 4. [An explosion on the Jaffar Express, travelling between the Pakistani cities of Rawalpindi and Quetta, kills 7 people and injures at least another 10. ](/news/2013/10/21/an-explosion-on-the-jaffar-express-travelling-between-the-pakistani-cities-of-rawalpindi-and-quetta-kills-7-people-and-injures-at-least-an.md) _Context: Pakistan, Rawalpindi_
 5. [At least 24 Pakistan Army soldiers are killed and 5 are injured after their bus crashes into a ravine in Rawalpindi, Pakistan. ](/news/2013/03/16/at-least-24-pakistan-army-soldiers-are-killed-and-5-are-injured-after-their-bus-crashes-into-a-ravine-in-rawalpindi-pakistan.md) _Context: Pakistan, Rawalpindi_
-
-### Changes:
-
-1. [One person was killed and eight others were wounded when unknown assailants opened fire in Rawalpindi-s Civil Lines area of Pakistan. ](/news/2010/10/30/one-person-was-killed-and-eight-others-were-wounded-when-unknown-assailants-opened-fire-in-rawalpindi-s-civil-lines-area-of-pakistan.md) _2017-08-27 03:30:53 (First version)_
-1. [One person was killed and eight others were wounded when unknown assailants opened fire in Rawalpindi's Civil Lines area of Pakistan. ](/news/2010/10/30/one-person-was-killed-and-eight-others-were-wounded-when-unknown-assailants-opened-fire-in-rawalpindias-civil-lines-area-of-pakistan.md) _(Current version)_

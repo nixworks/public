@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/28/josa-c-manuel-barroso-the-prime-minister-of-portugal-gains-the-backing-of-the-united-kingdom-and-germany-as-the-next-president-of-the-euro.html)  [JSON](/news/2004/06/28/josa-c-manuel-barroso-the-prime-minister-of-portugal-gains-the-backing-of-the-united-kingdom-and-germany-as-the-next-president-of-the-euro.json)  [XML](/news/2004/06/28/josa-c-manuel-barroso-the-prime-minister-of-portugal-gains-the-backing-of-the-united-kingdom-and-germany-as-the-next-president-of-the-euro.xml)  
+
 ### [2004-06-28](/news/2004/06/28/index.md)
 
+##### Jose Manuel Barroso
 #  Jose Manuel Barroso, the Prime Minister of Portugal, gains the backing of the United Kingdom and Germany as the next President of the European Commission 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Independent](http://news.independent.co.uk/europe/story.jsp?story=535734)
 

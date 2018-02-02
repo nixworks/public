@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/23/nigerian-airline-bellview-airlines-flight-210-crashed-in-oyo-state-nigeria-shortly-after-take-off-from-lagos-en-route-to-abuja-the-red-cr.html)  [JSON](/news/2005/10/23/nigerian-airline-bellview-airlines-flight-210-crashed-in-oyo-state-nigeria-shortly-after-take-off-from-lagos-en-route-to-abuja-the-red-cr.json)  [XML](/news/2005/10/23/nigerian-airline-bellview-airlines-flight-210-crashed-in-oyo-state-nigeria-shortly-after-take-off-from-lagos-en-route-to-abuja-the-red-cr.xml)  
+
 ### [2005-10-23](/news/2005/10/23/index.md)
 
+##### Nigeria
 #  Nigerian airline Bellview Airlines Flight 210 crashed in Oyo State, Nigeria shortly after take-off from Lagos en route to Abuja. The Red Cross reports there are no survivors. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4368516.stm)
 2. [CNN](http://www.cnn.com/2005/WORLD/africa/10/23/nigeria.plane/index.html)

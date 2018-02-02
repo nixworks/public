@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/2/the-government-of-sweden-submits-a-bill-to-the-r
 
 ### [2017-03-2](/news/2017/03/2/index.md)
 
+##### Sweden
 # The government of Sweden submits a bill to the Riksdag to reintroduce conscription this summer in response to new global security challenges. 
 
 Minority government introduces bill to restore 11-month conscription this summer for all Swedes born after 1999.

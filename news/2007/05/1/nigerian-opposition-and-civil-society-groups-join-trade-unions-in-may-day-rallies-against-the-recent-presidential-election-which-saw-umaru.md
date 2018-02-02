@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/1/nigerian-opposition-and-civil-society-groups-join-trade-unions-in-may-day-rallies-against-the-recent-presidential-election-which-saw-umaru.html)  [JSON](/news/2007/05/1/nigerian-opposition-and-civil-society-groups-join-trade-unions-in-may-day-rallies-against-the-recent-presidential-election-which-saw-umaru.json)  [XML](/news/2007/05/1/nigerian-opposition-and-civil-society-groups-join-trade-unions-in-may-day-rallies-against-the-recent-presidential-election-which-saw-umaru.xml)  
+
 ### [2007-05-1](/news/2007/05/1/index.md)
 
+##### Nigeria
 #  Nigerian opposition and civil society groups join trade unions in May Day rallies against the recent presidential election which saw Umaru Yar'Adua elected as the President of Nigeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6610387.stm)
 

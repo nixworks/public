@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/12/the-senate-of-thailand-rejects-an-asylum-bill-that-could-have-seen-the-return-of-former-prime-minister-thaksin-shinawatra.html)  [JSON](/news/2013/11/12/the-senate-of-thailand-rejects-an-asylum-bill-that-could-have-seen-the-return-of-former-prime-minister-thaksin-shinawatra.json)  [XML](/news/2013/11/12/the-senate-of-thailand-rejects-an-asylum-bill-that-could-have-seen-the-return-of-former-prime-minister-thaksin-shinawatra.xml)  
+
 ### [2013-11-12](/news/2013/11/12/index.md)
 
+##### Thai Senate
 # The Senate of Thailand rejects an asylum bill that could have seen the return of former Prime Minister Thaksin Shinawatra. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-24903958)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/71054000/jpg/_71054696_71052042.jpg)

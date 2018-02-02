@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/11/an-egyptian-court-sentences-the-leader-of-the-muslim-brotherhood-mohamed-badie-and-fourteen-other-people-to-death-for-inciting-violence.html)  [JSON](/news/2015/04/11/an-egyptian-court-sentences-the-leader-of-the-muslim-brotherhood-mohamed-badie-and-fourteen-other-people-to-death-for-inciting-violence.json)  [XML](/news/2015/04/11/an-egyptian-court-sentences-the-leader-of-the-muslim-brotherhood-mohamed-badie-and-fourteen-other-people-to-death-for-inciting-violence.xml)  
+
 ### [2015-04-11](/news/2015/04/11/index.md)
 
+##### Egypt
 # An Egyptian court sentences the leader of the Muslim Brotherhood Mohamed Badie and fourteen other people to death for inciting violence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2015/04/11/africa/egypt-muslim-brotherhood-leader-death-sentence/index.html?eref=edition)
 

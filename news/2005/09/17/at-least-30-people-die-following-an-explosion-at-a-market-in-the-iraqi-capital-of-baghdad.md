@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/17/at-least-30-people-die-following-an-explosion-at-a-market-in-the-iraqi-capital-of-baghdad.html)  [JSON](/news/2005/09/17/at-least-30-people-die-following-an-explosion-at-a-market-in-the-iraqi-capital-of-baghdad.json)  [XML](/news/2005/09/17/at-least-30-people-die-following-an-explosion-at-a-market-in-the-iraqi-capital-of-baghdad.xml)  
+
 ### [2005-09-17](/news/2005/09/17/index.md)
 
+##### market
 #  At least 30 people die following an explosion at a market in the Iraqi capital of Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4256484.stm)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/12/city-officials-in-san-francisco-california-start-issuing-marriage-licenses-to-same-sex-couples-performing-the-first-known-civil-marriage.html)  [JSON](/news/2004/02/12/city-officials-in-san-francisco-california-start-issuing-marriage-licenses-to-same-sex-couples-performing-the-first-known-civil-marriage.json)  [XML](/news/2004/02/12/city-officials-in-san-francisco-california-start-issuing-marriage-licenses-to-same-sex-couples-performing-the-first-known-civil-marriage.xml)  
+
 ### [2004-02-12](/news/2004/02/12/index.md)
 
+##### San Francisco, California
 #  City officials in San Francisco, California, start issuing marriage licenses to same-sex couples, performing the first known civil marriage of a same-sex couple in the U.S. by marrying a lesbian couple, gay rights activists Del Martin and Phyllis Lyon. Over 80 couples whisked through quick ceremonies. Various conservative and other family groups, including the Campaign for California Families, plan to sue the mayor of San Francisco for violating California's marriage laws. The Family Research Council (FRC) states that ""It could not be clearer that the institution of marriage is under a direct assault by homosexual activists"". Virginia House of Delegates give preliminary approval to legislation that would ban the recognition of same-sex civil unions and domestic partnerships.
 
 

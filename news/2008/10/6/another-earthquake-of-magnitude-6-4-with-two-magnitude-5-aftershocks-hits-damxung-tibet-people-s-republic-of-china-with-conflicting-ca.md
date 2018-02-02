@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/10/6/another-earthquake-of-magnitude-6-4-with-two-magnitude-5-aftershocks-hits-damxung-tibet-people-s-republic-of-china-with-conflicting-ca.html)  [JSON](/news/2008/10/6/another-earthquake-of-magnitude-6-4-with-two-magnitude-5-aftershocks-hits-damxung-tibet-people-s-republic-of-china-with-conflicting-ca.json)  [XML](/news/2008/10/6/another-earthquake-of-magnitude-6-4-with-two-magnitude-5-aftershocks-hits-damxung-tibet-people-s-republic-of-china-with-conflicting-ca.xml)  
+
 ### [2008-10-6](/news/2008/10/6/index.md)
 
+##### Another earthquake
 #  Another earthquake of magnitude 6.4, with two magnitude-5 aftershocks, hits Damxung, Tibet, People's Republic of China, with conflicting casualty reports anywhere from 9 to 30 deaths. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2008/WORLD/asiapcf/10/07/china.quake/index.html)
-2. [USGS](http://earthquake.usgs.gov/eqcenter/eqinthenews/2008/us2008xva9/)
+2. [USGS](https://earthquake.usgs.gov/eqcenter/eqinthenews/2008/us2008xva9/)
 
 ### Related:
 

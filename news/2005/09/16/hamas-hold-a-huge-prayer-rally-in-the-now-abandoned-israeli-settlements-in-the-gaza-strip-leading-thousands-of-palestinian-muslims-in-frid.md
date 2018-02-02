@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/16/hamas-hold-a-huge-prayer-rally-in-the-now-abandoned-israeli-settlements-in-the-gaza-strip-leading-thousands-of-palestinian-muslims-in-frid.html)  [JSON](/news/2005/09/16/hamas-hold-a-huge-prayer-rally-in-the-now-abandoned-israeli-settlements-in-the-gaza-strip-leading-thousands-of-palestinian-muslims-in-frid.json)  [XML](/news/2005/09/16/hamas-hold-a-huge-prayer-rally-in-the-now-abandoned-israeli-settlements-in-the-gaza-strip-leading-thousands-of-palestinian-muslims-in-frid.xml)  
+
 ### [2005-09-16](/news/2005/09/16/index.md)
 
+##### Hamas
 #  Hamas hold a huge prayer rally in the now abandoned Israeli settlements in the Gaza Strip, leading thousands of Palestinian Muslims in Friday Prayers (Salat ul Jum'a). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4253536.stm)
 

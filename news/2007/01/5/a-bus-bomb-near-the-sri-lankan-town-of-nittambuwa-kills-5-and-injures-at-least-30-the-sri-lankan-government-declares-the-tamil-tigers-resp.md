@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/5/a-bus-bomb-near-the-sri-lankan-town-of-nittambuwa-kills-5-and-injures-at-least-30-the-sri-lankan-government-declares-the-tamil-tigers-resp.html)  [JSON](/news/2007/01/5/a-bus-bomb-near-the-sri-lankan-town-of-nittambuwa-kills-5-and-injures-at-least-30-the-sri-lankan-government-declares-the-tamil-tigers-resp.json)  [XML](/news/2007/01/5/a-bus-bomb-near-the-sri-lankan-town-of-nittambuwa-kills-5-and-injures-at-least-30-the-sri-lankan-government-declares-the-tamil-tigers-resp.xml)  
+
 ### [2007-01-5](/news/2007/01/5/index.md)
 
+##### bus bomb
 #  A bus bomb near the Sri Lankan town of Nittambuwa kills 5 and injures at least 30. The Sri Lankan government declares the Tamil Tigers responsible, but the rebel group denies involvement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/south_asia/6234797.stm)
 2. [UPI](http://www.upi.com/NewsTrack/view.php?StoryID=20070105-071725-2677r)

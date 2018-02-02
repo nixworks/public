@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/23/us-president-barack-obama-concludes-his-visit-to-the-middle-east-with-a-trip-to-the-famous-ruins-of-the-ancient-city-of-petra-in-jordan.html)  [JSON](/news/2013/03/23/us-president-barack-obama-concludes-his-visit-to-the-middle-east-with-a-trip-to-the-famous-ruins-of-the-ancient-city-of-petra-in-jordan.json)  [XML](/news/2013/03/23/us-president-barack-obama-concludes-his-visit-to-the-middle-east-with-a-trip-to-the-famous-ruins-of-the-ancient-city-of-petra-in-jordan.xml)  
+
 ### [2013-03-23](/news/2013/03/23/index.md)
 
+##### US President
 # US President Barack Obama concludes his visit to the Middle East with a trip to the famous ruins of the ancient city of Petra in Jordan. 
 
 US President Barack Obama ends his visit to the Middle East with a trip to the famous ancient ruins of Petra in Jordan.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21909614)
 2. [CBC](http://www.cbc.ca/news/world/story/2013/03/23/obama-petra-jordan.html)

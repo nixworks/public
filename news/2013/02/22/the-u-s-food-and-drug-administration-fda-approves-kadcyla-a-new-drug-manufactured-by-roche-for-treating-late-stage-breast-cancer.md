@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/02/22/the-u-s-food-and-drug-administration-fda-approves-kadcyla-a-new-drug-manufactured-by-roche-for-treating-late-stage-breast-cancer.html)  [JSON](/news/2013/02/22/the-u-s-food-and-drug-administration-fda-approves-kadcyla-a-new-drug-manufactured-by-roche-for-treating-late-stage-breast-cancer.json)  [XML](/news/2013/02/22/the-u-s-food-and-drug-administration-fda-approves-kadcyla-a-new-drug-manufactured-by-roche-for-treating-late-stage-breast-cancer.xml)  
+
 ### [2013-02-22](/news/2013/02/22/index.md)
 
+##### Food and Drug Administration
 # The U.S. Food and Drug Administration (FDA) approves Kadcyla, a new drug manufactured by Roche, for treating late-stage breast cancer. 
 
 U.S. health regulators approved a new drug made by Swiss drugmaker Roche Holding AG for some patients with late-stage metastatic breast cancer who fail to respond to other therapies.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/02/23/us-roche-approval-idUSBRE91L0N420130223)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130222&t=2&i=706473315&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91L14U600)
+1. [Reuters](https://www.reuters.com/article/2013/02/23/us-roche-approval-idUSBRE91L0N420130223)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130222&t=2&i=706473315&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91L14U600)
 
 ### Related:
 

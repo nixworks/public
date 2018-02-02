@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2004/01/20/martha-stewart-pleads-not-guilty-to-five-criminal-counts-that-include-conspiracy-obstruction-of-justice-and-securities-fraud-stemming-from.html)  [JSON](/news/2004/01/20/martha-stewart-pleads-not-guilty-to-five-criminal-counts-that-include-conspiracy-obstruction-of-justice-and-securities-fraud-stemming-from.json)  [XML](/news/2004/01/20/martha-stewart-pleads-not-guilty-to-five-criminal-counts-that-include-conspiracy-obstruction-of-justice-and-securities-fraud-stemming-from.xml)  
+
 ### [2004-01-20](/news/2004/01/20/index.md)
 
-# Martha Stewart pleads not guilty to five criminal counts that include conspiracy, obstruction of justice and securities fraud stemming from a sale of ImClone stock in 2001. Conviction on any of the charges against her could put Ms. Stewart in federal prison. The five counts carry a total prison term of 30 years and a $1.25 million fine.[http:--www.nytimes.com-2004-01-20-business-20CND-MARTHA.html?hp]
+##### Martha Stewart
+# Martha Stewart pleads not guilty to five criminal counts that include conspiracy, obstruction of justice and securities fraud stemming from a sale of ImClone stock in 2001. Conviction on any of the charges against her could put Ms. Stewart in federal prison. The five counts carry a total prison term of 30 years and a $1.25 million fine.[https:--www.nytimes.com-2004-01-20-business-20CND-MARTHA.html?hp]
 
 
 

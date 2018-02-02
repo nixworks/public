@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/03/21/a-top-yemeni-commander-and-at-least-18-other-officers-defect-to-the-opposition-as-the-2011-yemeni-protests-continue.html)  [JSON](/news/2011/03/21/a-top-yemeni-commander-and-at-least-18-other-officers-defect-to-the-opposition-as-the-2011-yemeni-protests-continue.json)  [XML](/news/2011/03/21/a-top-yemeni-commander-and-at-least-18-other-officers-defect-to-the-opposition-as-the-2011-yemeni-protests-continue.xml)  
+
 ### [2011-03-21](/news/2011/03/21/index.md)
 
+##### Yemen
 # A top Yemeni commander and at least 18 other officers defect to the Opposition as the 2011 Yemeni protests continue. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/yemeni-leader-loses-more-of-his-dwindling-power-base-as-top-army-officers-defect/2011/03/21/ABWX9Q5_story.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/yemeni-leader-loses-more-of-his-dwindling-power-base-as-top-army-officers-defect/2011/03/21/ABWX9Q5_story.html)
 2. [Al-Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/2011321164113728994.html)
 2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/22/20113225652583360_20.jpg)
 

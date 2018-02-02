@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/11/the-presidents-of-nigeria-and-cameroon-have-not-made-progress-in-talks-on-the-disputed-bakassi-peninsula-they-agree-to-negotiate-a-new-dat.html)  [JSON](/news/2005/05/11/the-presidents-of-nigeria-and-cameroon-have-not-made-progress-in-talks-on-the-disputed-bakassi-peninsula-they-agree-to-negotiate-a-new-dat.json)  [XML](/news/2005/05/11/the-presidents-of-nigeria-and-cameroon-have-not-made-progress-in-talks-on-the-disputed-bakassi-peninsula-they-agree-to-negotiate-a-new-dat.xml)  
+
 ### [2005-05-11](/news/2005/05/11/index.md)
 
+##### Nigeria
 #  The presidents of Nigeria and Cameroon have not made progress in talks on the disputed Bakassi peninsula. They agree to negotiate a new date for the pullout of Nigerian troops. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4537611.stm)
 2. [Cameroon-Info](http://www.cameroon-info.net/cmi_show_news.php?id=16282)

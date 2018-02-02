@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2005/05/11/guantanamo-bay-qur-an-desecration-allegations-riots-over-a-newsweek-story-later-retracted-lead-to-dozens-of-injuries-and-at-least-thre.html)  [JSON](/news/2005/05/11/guantanamo-bay-qur-an-desecration-allegations-riots-over-a-newsweek-story-later-retracted-lead-to-dozens-of-injuries-and-at-least-thre.json)  [XML](/news/2005/05/11/guantanamo-bay-qur-an-desecration-allegations-riots-over-a-newsweek-story-later-retracted-lead-to-dozens-of-injuries-and-at-least-thre.xml)  
+
 ### [2005-05-11](/news/2005/05/11/index.md)
 
+##### Guantnamo Bay Qur'an desecration allegations
 #  Guantnamo Bay Qur'an desecration allegations: Riots over a "Newsweek" story (later retracted) lead to dozens of injuries and at least three deaths in Jalalabad, Eastern Afghanistan. Afghan police use live ammunition to stop the Anti-American rioting organized in protest of the alleged desecration of a copy of the Qur'an. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4535491.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8453298)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8453298)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [ Guantnamo Bay Qur'an desecration allegations: Riots over a ''Newsweek'' story (later retracted) lead to dozens of injuries and at least three deaths in Jalalabad, Eastern Afghanistan. Afghan police use live ammunition to stop the Anti-American rioting organized in protest of the alleged desecration of a copy of the Qur'an. ](/news/2005/05/11/guantanamo-bay-qur-an-desecration-allegations-riots-over-a-newsweek-story-later-retracted-lead-to-dozens-of-injuries-and-at-least-th.md) _2017-08-25 03:16:10 (First version)_
+1. [ Guantnamo Bay Qur'an desecration allegations: Riots over a "Newsweek" story (later retracted) lead to dozens of injuries and at least three deaths in Jalalabad, Eastern Afghanistan. Afghan police use live ammunition to stop the Anti-American rioting organized in protest of the alleged desecration of a copy of the Qur'an. ](/news/2005/05/11/guantanamo-bay-qur-an-desecration-allegations-riots-over-a-newsweek-story-later-retracted-lead-to-dozens-of-injuries-and-at-least-thre.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 3. [A suicide bomber kills at least 13 people and injures 14 in the Afghan city of Jalalabad. ](/news/2016/01/17/a-suicide-bomber-kills-at-least-13-people-and-injures-14-in-the-afghan-city-of-jalalabad.md) _Context: Afghanistan, Jalalabad_
 4. [A suicide bomber allegedly affiliated with ISIL strikes a bank in the city of Jalalabad in Afghanistan, killing at least 33 and wounding 100. ](/news/2015/04/18/a-suicide-bomber-allegedly-affiliated-with-isil-strikes-a-bank-in-the-city-of-jalalabad-in-afghanistan-killing-at-least-33-and-wounding-100.md) _Context: Afghanistan, Jalalabad_
 5. [Nine children die in a suicide bombing near the Indian consulate in the Afghan city of Jalalabad. ](/news/2013/08/3/nine-children-die-in-a-suicide-bombing-near-the-indian-consulate-in-the-afghan-city-of-jalalabad.md) _Context: Afghanistan, Jalalabad_
-
-### Changes:
-
-1. [ Guantnamo Bay Qur'an desecration allegations: Riots over a ''Newsweek'' story (later retracted) lead to dozens of injuries and at least three deaths in Jalalabad, Eastern Afghanistan. Afghan police use live ammunition to stop the Anti-American rioting organized in protest of the alleged desecration of a copy of the Qur'an. ](/news/2005/05/11/guantanamo-bay-qur-an-desecration-allegations-riots-over-a-newsweek-story-later-retracted-lead-to-dozens-of-injuries-and-at-least-th.md) _2017-08-25 03:16:10 (First version)_
-1. [ Guantnamo Bay Qur'an desecration allegations: Riots over a "Newsweek" story (later retracted) lead to dozens of injuries and at least three deaths in Jalalabad, Eastern Afghanistan. Afghan police use live ammunition to stop the Anti-American rioting organized in protest of the alleged desecration of a copy of the Qur'an. ](/news/2005/05/11/guantanamo-bay-qur-an-desecration-allegations-riots-over-a-newsweek-story-later-retracted-lead-to-dozens-of-injuries-and-at-least-thre.md) _(Current version)_

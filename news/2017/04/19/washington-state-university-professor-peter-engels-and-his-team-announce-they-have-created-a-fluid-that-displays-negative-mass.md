@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/19/washington-state-university-professor-peter-eng
 
 ### [2017-04-19](/news/2017/04/19/index.md)
 
+##### Washington State University
 # Washington State University professor Peter Engels and his team announce they have created a fluid that displays negative mass. 
 
 Physicists have created a fluid with &quot;negative mass&quot;, which accelerates towards you when pushed.

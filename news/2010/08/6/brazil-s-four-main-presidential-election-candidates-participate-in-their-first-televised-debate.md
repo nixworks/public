@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/6/brazil-s-four-main-presidential-election-candidates-participate-in-their-first-televised-debate.html)  [JSON](/news/2010/08/6/brazil-s-four-main-presidential-election-candidates-participate-in-their-first-televised-debate.json)  [XML](/news/2010/08/6/brazil-s-four-main-presidential-election-candidates-participate-in-their-first-televised-debate.xml)  
+
 ### [2010-08-6](/news/2010/08/6/index.md)
 
+##### Brazil
 # Brazil's four main presidential election candidates participate in their first televised debate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10892582)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/6/joseph-muscat-becomes-the-leader-of-the-malta-labour-party-to-become-the-opposition-leader-of-malta-to-take-the-place-of-charles-mangion.html)  [JSON](/news/2008/06/6/joseph-muscat-becomes-the-leader-of-the-malta-labour-party-to-become-the-opposition-leader-of-malta-to-take-the-place-of-charles-mangion.json)  [XML](/news/2008/06/6/joseph-muscat-becomes-the-leader-of-the-malta-labour-party-to-become-the-opposition-leader-of-malta-to-take-the-place-of-charles-mangion.xml)  
+
 ### [2008-06-6](/news/2008/06/6/index.md)
 
+##### Joseph Muscat
 #  Joseph Muscat becomes the leader of the Malta Labour Party, to become the opposition leader of Malta, to take the place of Charles Mangion, after the resignation of Alfred Sant. 
 
 (Adds further comments by Dr Muscat and video) New Labour leader Joseph Muscat had an informal meeting with the Prime Minister this morning when it was agreed that issues such as parliamentary business, including pairing, will be discussed once the MLP completes the election of its deputy leaders...
 
 
-### Source:
+### Sources:
 
 1. [Times of Malta](http://www.timesofmalta.com/articles/view/20080607/local/muscat-offers-cooperation-with-government-on-national-issues)
 1. [Cover Image](https://cdn-attachments.timesofmalta.com/default-article-image.png)

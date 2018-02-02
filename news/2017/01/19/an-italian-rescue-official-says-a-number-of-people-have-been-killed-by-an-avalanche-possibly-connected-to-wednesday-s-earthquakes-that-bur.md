@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/19/an-italian-rescue-official-says-a-number-of-peo
 
 ### [2017-01-19](/news/2017/01/19/index.md)
 
+##### 2017 Rigopiano avalanche
 # An Italian rescue official says a number of people have been killed by an avalanche, possibly connected to Wednesday's earthquakes, that buried a ski resort on a slope of the Gran Sasso mountain in Italy's Abruzzo region. About 30 guests and staff were at the hotel. The only survivors are two men who had been outside when the disaster struck. 
 
 AN avalanche in Italy has buried a hotel killing up to 35, after a series of earthquakes struck the region, which were followed by 80 aftershocks during the night. 

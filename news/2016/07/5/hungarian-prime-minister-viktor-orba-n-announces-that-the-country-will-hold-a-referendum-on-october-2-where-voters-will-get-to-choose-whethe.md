@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/5/hungarian-prime-minister-viktor-orba-n-announces
 
 ### [2016-07-5](/news/2016/07/5/index.md)
 
+##### European migrant crisis
 # Hungarian Prime Minister Viktor Orban announces that the country will hold a referendum on October 2 where voters will get to choose whether or not to accept European Union-imposed quotas on the distribution of migrants. 
 
 Hungary will hold a referendum on 2 October on whether to accept mandatory EU quotas for relocating migrants, President Janos Ader says.

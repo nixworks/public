@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/16/gary-jackson-former-president-of-the-us-private-security-firm-blackwater-worldwide-xe-services-llc-and-four-other-former-workers-are-in.html)  [JSON](/news/2010/04/16/gary-jackson-former-president-of-the-us-private-security-firm-blackwater-worldwide-xe-services-llc-and-four-other-former-workers-are-in.json)  [XML](/news/2010/04/16/gary-jackson-former-president-of-the-us-private-security-firm-blackwater-worldwide-xe-services-llc-and-four-other-former-workers-are-in.xml)  
+
 ### [2010-04-16](/news/2010/04/16/index.md)
 
+##### Blackwater Worldwide
 # Gary Jackson, former president of the US private security firm, Blackwater Worldwide (Xe Services LLC), and four other former workers are indicted on federal weapons charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8626585.stm)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/07/14/at-pine-lake-in-central-alberta-a-tornado-tears-through-the-green-acres-campground-killing-12-people-and-critically-injuring-more-than-60.html)  [JSON](/news/2000/07/14/at-pine-lake-in-central-alberta-a-tornado-tears-through-the-green-acres-campground-killing-12-people-and-critically-injuring-more-than-60.json)  [XML](/news/2000/07/14/at-pine-lake-in-central-alberta-a-tornado-tears-through-the-green-acres-campground-killing-12-people-and-critically-injuring-more-than-60.xml)  
+
 ### [2000-07-14](/news/2000/07/14/index.md)
 
+##### Alberta
 #  At Pine Lake in Central Alberta, a tornado tears through the Green Acres Campground killing 12 people and critically injuring more than 60.
 
 

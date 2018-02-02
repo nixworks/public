@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/23/a-mail-carrier-from-dublin-ohio-told-that-he-wo
 
 ### [2017-12-23](/news/2017/12/23/index.md)
 
+##### mail carrier
 # A mail carrier from Dublin, Ohio, (told that he would lose his job) allegedly kills 2 of his supervisors. 
 
 A&nbsp;mail carrier&nbsp;facing the loss of his job&nbsp;walked naked into the Dublin post office early Saturday and fatally shot his supervisor, police

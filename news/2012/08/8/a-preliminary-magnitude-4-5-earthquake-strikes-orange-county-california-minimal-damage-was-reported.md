@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/8/a-preliminary-magnitude-4-5-earthquake-strikes-orange-county-california-minimal-damage-was-reported.html)  [JSON](/news/2012/08/8/a-preliminary-magnitude-4-5-earthquake-strikes-orange-county-california-minimal-damage-was-reported.json)  [XML](/news/2012/08/8/a-preliminary-magnitude-4-5-earthquake-strikes-orange-county-california-minimal-damage-was-reported.xml)  
+
 ### [2012-08-8](/news/2012/08/8/index.md)
 
+##### Orange County
 # A preliminary magnitude 4.5 earthquake strikes Orange County, California. Minimal damage was reported.
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://usnews.nbcnews.com/_news/2012/08/08/13179675-new-earthquake-jolts-southern-california?lite)
 

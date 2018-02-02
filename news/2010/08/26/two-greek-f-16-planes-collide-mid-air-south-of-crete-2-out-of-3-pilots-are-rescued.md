@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/26/two-greek-f-16-planes-collide-mid-air-south-of-crete-2-out-of-3-pilots-are-rescued.html)  [JSON](/news/2010/08/26/two-greek-f-16-planes-collide-mid-air-south-of-crete-2-out-of-3-pilots-are-rescued.json)  [XML](/news/2010/08/26/two-greek-f-16-planes-collide-mid-air-south-of-crete-2-out-of-3-pilots-are-rescued.xml)  
+
 ### [2010-08-26](/news/2010/08/26/index.md)
 
+##### Hellenic Air Force
 # Two Greek F-16 planes collide mid-air south of Crete; 2 out of 3 pilots are rescued. 
 
 Two Greek fighter jets have collided in mid-air, the defence ministry says, with one of the pilots apparently managing to eject safely.
 
 
-### Source:
+### Sources:
 
 1. [Athens News Agency](http://www.ana-mpa.gr/anaweb/user/showplain?maindoc=9035186&maindocimg=1389524&service=10)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/greek-fighter-jets-in-midair-collision-20100826-13uc3.html)

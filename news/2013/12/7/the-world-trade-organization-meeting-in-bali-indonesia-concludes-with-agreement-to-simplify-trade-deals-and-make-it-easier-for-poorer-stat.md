@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/7/the-world-trade-organization-meeting-in-bali-indonesia-concludes-with-agreement-to-simplify-trade-deals-and-make-it-easier-for-poorer-stat.html)  [JSON](/news/2013/12/7/the-world-trade-organization-meeting-in-bali-indonesia-concludes-with-agreement-to-simplify-trade-deals-and-make-it-easier-for-poorer-stat.json)  [XML](/news/2013/12/7/the-world-trade-organization-meeting-in-bali-indonesia-concludes-with-agreement-to-simplify-trade-deals-and-make-it-easier-for-poorer-stat.xml)  
+
 ### [2013-12-7](/news/2013/12/7/index.md)
 
+##### World Trade Organization
 # The World Trade Organization meeting in Bali, Indonesia, concludes with agreement to simplify trade deals and make it easier for poorer states to sell their goods as part of the Bali Package. 
 
 The World Trade Organization agrees a historic global deal aimed at boosting commerce, which could add nearly $1tn to the global economy.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-25274889#TWEET977692)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/71596000/jpg/_71596053_71596052.jpg)

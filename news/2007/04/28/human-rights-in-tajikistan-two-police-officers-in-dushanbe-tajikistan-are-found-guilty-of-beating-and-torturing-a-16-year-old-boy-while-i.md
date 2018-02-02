@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/28/human-rights-in-tajikistan-two-police-officers-in-dushanbe-tajikistan-are-found-guilty-of-beating-and-torturing-a-16-year-old-boy-while-i.html)  [JSON](/news/2007/04/28/human-rights-in-tajikistan-two-police-officers-in-dushanbe-tajikistan-are-found-guilty-of-beating-and-torturing-a-16-year-old-boy-while-i.json)  [XML](/news/2007/04/28/human-rights-in-tajikistan-two-police-officers-in-dushanbe-tajikistan-are-found-guilty-of-beating-and-torturing-a-16-year-old-boy-while-i.xml)  
+
 ### [2007-04-28](/news/2007/04/28/index.md)
 
+##### Human rights in Tajikistan
 #  Human rights in Tajikistan: Two police officers in Dushanbe, Tajikistan are found guilty of beating and torturing a 16-year-old boy while in police custody. They are sentenced to two years in prison. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RFE/RL](http://www.rferl.org/featuresarticle/2007/4/424BBA0E-2A36-40AE-9448-BDD793354E3B.html)
 

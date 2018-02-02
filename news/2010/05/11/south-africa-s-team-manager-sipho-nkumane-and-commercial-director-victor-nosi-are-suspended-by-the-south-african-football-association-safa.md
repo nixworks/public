@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/11/south-africa-s-team-manager-sipho-nkumane-and-commercial-director-victor-nosi-are-suspended-by-the-south-african-football-association-safa.html)  [JSON](/news/2010/05/11/south-africa-s-team-manager-sipho-nkumane-and-commercial-director-victor-nosi-are-suspended-by-the-south-african-football-association-safa.json)  [XML](/news/2010/05/11/south-africa-s-team-manager-sipho-nkumane-and-commercial-director-victor-nosi-are-suspended-by-the-south-african-football-association-safa.xml)  
+
 ### [2010-05-11](/news/2010/05/11/index.md)
 
+##### South Africa national football team
 # South Africa's team manager Sipho Nkumane and commercial director Victor Nosi are suspended by the South African Football Association (SAFA) one month before the start of the 2010 FIFA World Cup. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8675013.stm)
 2. [Bangkok Post](http://www.bangkokpost.com/news/sports/177572/s-african-football-officials-suspended)

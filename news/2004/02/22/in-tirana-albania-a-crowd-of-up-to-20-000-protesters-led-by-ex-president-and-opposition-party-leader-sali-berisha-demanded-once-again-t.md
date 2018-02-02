@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/22/in-tirana-albania-a-crowd-of-up-to-20-000-protesters-led-by-ex-president-and-opposition-party-leader-sali-berisha-demanded-once-again-t.html)  [JSON](/news/2004/02/22/in-tirana-albania-a-crowd-of-up-to-20-000-protesters-led-by-ex-president-and-opposition-party-leader-sali-berisha-demanded-once-again-t.json)  [XML](/news/2004/02/22/in-tirana-albania-a-crowd-of-up-to-20-000-protesters-led-by-ex-president-and-opposition-party-leader-sali-berisha-demanded-once-again-t.xml)  
+
 ### [2004-02-22](/news/2004/02/22/index.md)
 
+##### Tirana
 #  In Tirana, Albania, a crowd of up to 20,000 protesters, led by ex-president and opposition party leader Sali Berisha, demanded once again that Prime Minister Fatos Nano resign for failing to improve the economy. This protest, though a peaceful one, comes on the heels of a more violent protest two weeks ago in which protesters threw rocks at police and tried to storm the Prime Minister's office. 
 
 Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAsia featuring Business, World, Sport, Entertainment, Technology, Health, Lifestyle and Live Streaming.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/3509877.stm)
 2. [ChannelNewsAsia](http://www.channelnewsasia.com/stories/afp_world/view/72161/1/.html)

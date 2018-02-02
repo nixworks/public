@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/10/10/france-and-belgium-agree-to-break-up-and-partially-nationalize-dexia-belgium-s-largest-bank.html)  [JSON](/news/2011/10/10/france-and-belgium-agree-to-break-up-and-partially-nationalize-dexia-belgium-s-largest-bank.json)  [XML](/news/2011/10/10/france-and-belgium-agree-to-break-up-and-partially-nationalize-dexia-belgium-s-largest-bank.xml)  
+
 ### [2011-10-10](/news/2011/10/10/index.md)
 
+##### France
 # France and Belgium agree to break up and partially nationalize Dexia, Belgium's largest bank. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Globe and Mail](http://www.theglobeandmail.com/report-on-business/international-news/france-belgium-luxembourg-agree-on-plan-to-protect-dexias-depositers/article2195985/)
+1. [Globe and Mail](https://www.theglobeandmail.com/report-on-business/international-news/france-belgium-luxembourg-agree-on-plan-to-protect-dexias-depositers/article2195985/)
 
 ### Related:
 

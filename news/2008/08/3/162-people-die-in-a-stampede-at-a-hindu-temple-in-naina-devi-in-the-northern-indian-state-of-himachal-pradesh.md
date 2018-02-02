@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/3/162-people-die-in-a-stampede-at-a-hindu-temple-in-naina-devi-in-the-northern-indian-state-of-himachal-pradesh.html)  [JSON](/news/2008/08/3/162-people-die-in-a-stampede-at-a-hindu-temple-in-naina-devi-in-the-northern-indian-state-of-himachal-pradesh.json)  [XML](/news/2008/08/3/162-people-die-in-a-stampede-at-a-hindu-temple-in-naina-devi-in-the-northern-indian-state-of-himachal-pradesh.xml)  
+
 ### [2008-08-3](/news/2008/08/3/index.md)
 
+##### die in a stampede
 #  162 people die in a stampede at a Hindu temple in Naina Devi in the northern Indian state of Himachal Pradesh. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5gn5fPvwqOE6jppDxKE8m--lgZtMw)
 

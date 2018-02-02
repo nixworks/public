@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/10/the-rio-tinto-group-announces-plans-to-cut-14-000-jobs-worldwide.html)  [JSON](/news/2008/12/10/the-rio-tinto-group-announces-plans-to-cut-14-000-jobs-worldwide.json)  [XML](/news/2008/12/10/the-rio-tinto-group-announces-plans-to-cut-14-000-jobs-worldwide.xml)  
+
 ### [2008-12-10](/news/2008/12/10/index.md)
 
+##### Rio Tinto
 #  The Rio Tinto Group announces plans to cut 14,000 jobs worldwide. 
 
 One of the world&#039;s biggest miners, Rio Tinto, will slash more than 14,000 jobs globally as part of an aggressive cost cutting exercise to reduce its debt.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Online](http://www.abc.net.au/news/stories/2008/12/10/2443038.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/184602-1x1-700x700.jpg)

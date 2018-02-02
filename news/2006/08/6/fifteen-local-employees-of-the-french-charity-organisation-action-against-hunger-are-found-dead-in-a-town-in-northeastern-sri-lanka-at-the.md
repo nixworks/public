@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/6/fifteen-local-employees-of-the-french-charity-organisation-action-against-hunger-are-found-dead-in-a-town-in-northeastern-sri-lanka-at-the.html)  [JSON](/news/2006/08/6/fifteen-local-employees-of-the-french-charity-organisation-action-against-hunger-are-found-dead-in-a-town-in-northeastern-sri-lanka-at-the.json)  [XML](/news/2006/08/6/fifteen-local-employees-of-the-french-charity-organisation-action-against-hunger-are-found-dead-in-a-town-in-northeastern-sri-lanka-at-the.xml)  
+
 ### [2006-08-6](/news/2006/08/6/index.md)
 
+##### Action Against Hunger
 #  Fifteen local employees of the French charity organisation Action Against Hunger are found dead in a town in northeastern Sri Lanka at the center of heavy fighting between Tamil rebels and government forces. Both sides have denied involvement in the killings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/5251282.stm)
 

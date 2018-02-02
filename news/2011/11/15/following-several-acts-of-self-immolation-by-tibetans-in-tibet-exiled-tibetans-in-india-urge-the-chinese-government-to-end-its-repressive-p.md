@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/15/following-several-acts-of-self-immolation-by-tibetans-in-tibet-exiled-tibetans-in-india-urge-the-chinese-government-to-end-its-repressive-p.html)  [JSON](/news/2011/11/15/following-several-acts-of-self-immolation-by-tibetans-in-tibet-exiled-tibetans-in-india-urge-the-chinese-government-to-end-its-repressive-p.json)  [XML](/news/2011/11/15/following-several-acts-of-self-immolation-by-tibetans-in-tibet-exiled-tibetans-in-india-urge-the-chinese-government-to-end-its-repressive-p.xml)  
+
 ### [2011-11-15](/news/2011/11/15/index.md)
 
+##### acts of self-immolation
 # Following several acts of self-immolation by Tibetans in Tibet, exiled Tibetans in India urge the Chinese government to end its repressive policies restricting the religious freedom of Tibetans. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Tibet Post](http://www.thetibetpost.com/en/news/international/2177-china-urged-to-ease-situation-in-tibet-warns-of-more-self-immolations)
 

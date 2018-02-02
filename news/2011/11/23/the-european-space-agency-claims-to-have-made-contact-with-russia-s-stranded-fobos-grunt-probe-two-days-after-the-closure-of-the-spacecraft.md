@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/23/the-european-space-agency-claims-to-have-made-contact-with-russia-s-stranded-fobos-grunt-probe-two-days-after-the-closure-of-the-spacecraft.html)  [JSON](/news/2011/11/23/the-european-space-agency-claims-to-have-made-contact-with-russia-s-stranded-fobos-grunt-probe-two-days-after-the-closure-of-the-spacecraft.json)  [XML](/news/2011/11/23/the-european-space-agency-claims-to-have-made-contact-with-russia-s-stranded-fobos-grunt-probe-two-days-after-the-closure-of-the-spacecraft.xml)  
+
 ### [2011-11-23](/news/2011/11/23/index.md)
 
+##### European Space Agency
 # The European Space Agency claims to have made contact with Russia's stranded Fobos-Grunt probe, two days after the closure of the spacecraft's window for launch to Mars. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Discovery.com](http://news.discovery.com/space/lost-russian-mars-probe-phones-home-111123.html)
 

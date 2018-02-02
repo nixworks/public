@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/30/allahabad-high-court-in-india-gives-its-verdict-on-the-ayodhya-title-suits-amid-fears-that-the-ruling-could-spark-unrest-they-decide-to-sp.html)  [JSON](/news/2010/09/30/allahabad-high-court-in-india-gives-its-verdict-on-the-ayodhya-title-suits-amid-fears-that-the-ruling-could-spark-unrest-they-decide-to-sp.json)  [XML](/news/2010/09/30/allahabad-high-court-in-india-gives-its-verdict-on-the-ayodhya-title-suits-amid-fears-that-the-ruling-could-spark-unrest-they-decide-to-sp.xml)  
+
 ### [2010-09-30](/news/2010/09/30/index.md)
 
+##### Allahabad High Court
 # Allahabad High Court in India gives its verdict on the Ayodhya title suits, amid fears that the ruling could spark unrest. They decide to split the site into three portions between Hindus and Muslims. 
 
 The Allahabad HC on Thursday ruled by a majority verdict that the disputed land in Ayodhya be divided equally into three parts among Hindus and Muslims. Read Judgement: Text | PDF Part I | II | III | IV | Tracking the dispute | In Pics: Babri demolition | Special 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11433481)
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/09/28/india.ayodhya.backgrounder/index.html?hpt=Mid)
@@ -18,4 +22,4 @@ The Allahabad HC on Thursday ruled by a majority verdict that the disputed land 
 2. [Seven people are feared dead after a helicopter crashes in the Indian town of Katra, Jammu and Kashmir, near the Hindu shrine of Vaishno Devi. ](/news/2015/11/23/seven-people-are-feared-dead-after-a-helicopter-crashes-in-the-indian-town-of-katra-jammu-and-kashmir-near-the-hindu-shrine-of-vaishno-dev.md) _Context: Hindu, India_
 3. [Tens of millions of Hindus bathe in the Ganges River in the Indian city of Allahabad during the Maha Kumbh Mela festival. ](/news/2013/02/10/tens-of-millions-of-hindus-bathe-in-the-ganges-river-in-the-indian-city-of-allahabad-during-the-maha-kumbh-mela-festival.md) _Context: Hindu, India_
 4. [Narendra Modi, the Chief Minister of the Indian state of Gujarat, orders an inquiry into the death of six people at a stampede at the Bhavnath Hindu temple in the Junagadh district over the weekend. ](/news/2012/02/20/narendra-modi-the-chief-minister-of-the-indian-state-of-gujarat-orders-an-inquiry-into-the-death-of-six-people-at-a-stampede-at-the-bhavna.md) _Context: Hindu, India_
-5. [5 insurgents and 2 soldiers die in a "'gunbattle"' between Islamic rebels and Indian security forces in Kashmir. ](/news/2010/05/7/5-insurgents-and-2-soldiers-die-in-a-gunbattle-between-islamic-rebels-and-indian-security-forces-in-kashmir.md) _Context: India, Muslims_
+5. [5 insurgents and 2 soldiers die in a "'gunbattle"' between Islamic rebels and Indian security forces in Kashmir. ](/news/2010/05/7/5-insurgents-and-2-soldiers-die-in-a-gunbattle-between-islamic-rebels-and-indian-security-forces-in-kashmir.md) _Context: India, Islam_

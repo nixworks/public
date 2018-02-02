@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2012/12/27/marzieh-vahid-dastjerdi-the-only-female-minister-ever-appointed-in-the-islamic-republic-of-iran-is-sacked-after-a-dispute-with-president-o.html)  [JSON](/news/2012/12/27/marzieh-vahid-dastjerdi-the-only-female-minister-ever-appointed-in-the-islamic-republic-of-iran-is-sacked-after-a-dispute-with-president-o.json)  [XML](/news/2012/12/27/marzieh-vahid-dastjerdi-the-only-female-minister-ever-appointed-in-the-islamic-republic-of-iran-is-sacked-after-a-dispute-with-president-o.xml)  
+
 ### [2012-12-27](/news/2012/12/27/index.md)
 
+##### Marzieh Vahid-Dastjerdi
 # Marzieh Vahid-Dastjerdi, the only female minister ever appointed in the Islamic Republic of Iran, is sacked after a dispute with President of Iran Mahmoud Ahmadinejad. 
 
 Iranian President MahmoudAhmadinejad on Thursday dismissed his only female cabinetminister, Health Minister Marzieh Vahid Dastjerdi, after shecriticised her colleagues for failing to provide funds to importvital medicines.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20853142)
-2. [Reuters](http://www.reuters.com/article/2012/12/27/iran-government-sacking-idUSL5E8NR7EX20121227)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/2012/12/27/iran-government-sacking-idUSL5E8NR7EX20121227)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/19/northern-mariana-islands-governor-benigno-fitial-and-guam-governor-eddie-calvo-state-that-they-are-in-serious-talks-to-potentially-merge-the.html)  [JSON](/news/2011/07/19/northern-mariana-islands-governor-benigno-fitial-and-guam-governor-eddie-calvo-state-that-they-are-in-serious-talks-to-potentially-merge-the.json)  [XML](/news/2011/07/19/northern-mariana-islands-governor-benigno-fitial-and-guam-governor-eddie-calvo-state-that-they-are-in-serious-talks-to-potentially-merge-the.xml)  
+
 ### [2011-07-19](/news/2011/07/19/index.md)
 
+##### Northern Mariana Islands Governor
 # Northern Mariana Islands Governor Benigno Fitial and Guam Governor Eddie Calvo state that they are in serious talks to potentially merge the U.S. territories of Guam and the Northern Mariana Islands. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Saipan Tribune](http://www.saipantribune.com/newsstory.aspx?newsID=111145&cat=1)
 

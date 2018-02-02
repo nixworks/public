@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/28/u-s-navy-vice-admiral-tim-giardina-is-suspended-from-his-duties-as-2-of-the-u-s-strategic-command-due-to-an-investigation-into-gambling-r.html)  [JSON](/news/2013/09/28/u-s-navy-vice-admiral-tim-giardina-is-suspended-from-his-duties-as-2-of-the-u-s-strategic-command-due-to-an-investigation-into-gambling-r.json)  [XML](/news/2013/09/28/u-s-navy-vice-admiral-tim-giardina-is-suspended-from-his-duties-as-2-of-the-u-s-strategic-command-due-to-an-investigation-into-gambling-r.xml)  
+
 ### [2013-09-28](/news/2013/09/28/index.md)
 
+##### U.S. Navy
 # U.S. Navy Vice Admiral Tim Giardina is suspended from his duties as #2 of the U.S. Strategic Command due to an investigation into gambling-related issues. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://usnews.nbcnews.com/_news/2013/09/28/20734598-no-2-us-nuke-commander-suspended-amid-gambling-probe?lite)
 

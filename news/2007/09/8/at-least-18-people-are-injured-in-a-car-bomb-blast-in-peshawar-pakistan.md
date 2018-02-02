@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/09/8/at-least-18-people-are-injured-in-a-car-bomb-blast-in-peshawar-pakistan.html)  [JSON](/news/2007/09/8/at-least-18-people-are-injured-in-a-car-bomb-blast-in-peshawar-pakistan.json)  [XML](/news/2007/09/8/at-least-18-people-are-injured-in-a-car-bomb-blast-in-peshawar-pakistan.xml)  
+
 ### [2007-09-8](/news/2007/09/8/index.md)
 
+##### Peshawar
 #  At least 18 people are injured in a car bomb blast in Peshawar, Pakistan. 
 
 

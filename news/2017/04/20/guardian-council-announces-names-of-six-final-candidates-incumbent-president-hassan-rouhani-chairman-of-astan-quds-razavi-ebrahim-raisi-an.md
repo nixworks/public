@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/20/guardian-council-announces-names-of-six-final-c
 
 ### [2017-04-20](/news/2017/04/20/index.md)
 
+##### re-elected
 # Guardian Council announces names of six final candidates. Incumbent President Hassan Rouhani, chairman of Astan Quds Razavi Ebrahim Raisi and Tehran Mayor Mohammad Bagher Ghalibaf is among the list. More than 1,600 nominees were disqualified, including all 137 female candidates and former president Mahmoud Ahmadinejad. 
 
 Six politicians given go-ahead to run in presidential election, which is likely to boil down to a three-man race on 19 May

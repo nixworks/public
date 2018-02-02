@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/2/conservative-party-candidate-boris-johnson-is-elected-as-the-mayor-of-london-replacing-ken-livingstone-capping-huge-gains-by-the-conservat.html)  [JSON](/news/2008/05/2/conservative-party-candidate-boris-johnson-is-elected-as-the-mayor-of-london-replacing-ken-livingstone-capping-huge-gains-by-the-conservat.json)  [XML](/news/2008/05/2/conservative-party-candidate-boris-johnson-is-elected-as-the-mayor-of-london-replacing-ken-livingstone-capping-huge-gains-by-the-conservat.xml)  
+
 ### [2008-05-2](/news/2008/05/2/index.md)
 
+##### Conservative Party
 #  Conservative Party candidate Boris Johnson is elected as the Mayor of London replacing Ken Livingstone, capping huge gains by the Conservatives in local elections, which gave them a net gain of 256 council seats and a net gain of 12 city councils. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/uk_news/politics/7380947.stm)
 

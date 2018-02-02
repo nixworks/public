@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/21/muslim-cleric-abu-bakar-bashir-is-cleared-of-any-involvement-in-the-2002-bali-bombings-by-the-supreme-court-of-indonesia.html)  [JSON](/news/2006/12/21/muslim-cleric-abu-bakar-bashir-is-cleared-of-any-involvement-in-the-2002-bali-bombings-by-the-supreme-court-of-indonesia.json)  [XML](/news/2006/12/21/muslim-cleric-abu-bakar-bashir-is-cleared-of-any-involvement-in-the-2002-bali-bombings-by-the-supreme-court-of-indonesia.xml)  
+
 ### [2006-12-21](/news/2006/12/21/index.md)
 
+##### Abu Bakar Bashir
 #  Muslim cleric Abu Bakar Bashir is cleared of any involvement in the 2002 Bali bombings by the Supreme Court of Indonesia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/story/0,23599,20963762-2,00.html)
 

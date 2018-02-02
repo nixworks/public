@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/24/german-chancellor-angela-merkel-states-that-iran-s-response-to-the-incentives-by-world-powers-aiming-to-persuade-it-to-give-up-nuclear-powe.html)  [JSON](/news/2006/08/24/german-chancellor-angela-merkel-states-that-iran-s-response-to-the-incentives-by-world-powers-aiming-to-persuade-it-to-give-up-nuclear-powe.json)  [XML](/news/2006/08/24/german-chancellor-angela-merkel-states-that-iran-s-response-to-the-incentives-by-world-powers-aiming-to-persuade-it-to-give-up-nuclear-powe.xml)  
+
 ### [2006-08-24](/news/2006/08/24/index.md)
 
+##### Chancellor
 #  German Chancellor Angela Merkel states that Iran's response to the incentives by world powers aiming to persuade it to give up nuclear power is unsatisfactory. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://go.reuters.co.uk/newsArticle.jhtml?type=worldNews&storyID=1422682&section=news&src=rss/uk/worldNews)
 

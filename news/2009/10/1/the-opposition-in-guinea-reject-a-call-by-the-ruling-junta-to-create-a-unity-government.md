@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/10/1/the-opposition-in-guinea-reject-a-call-by-the-ruling-junta-to-create-a-unity-government.html)  [JSON](/news/2009/10/1/the-opposition-in-guinea-reject-a-call-by-the-ruling-junta-to-create-a-unity-government.json)  [XML](/news/2009/10/1/the-opposition-in-guinea-reject-a-call-by-the-ruling-junta-to-create-a-unity-government.xml)  
+
 ### [2009-10-1](/news/2009/10/1/index.md)
 
+##### Guinea
 #  The opposition in Guinea reject a call by the ruling junta to create a unity government. 
 
 Opposition leaders say the call is a tactic to divert attention from crackdown on protesters.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/10/200910117636509521.html)
-2. [Reuters](http://www.reuters.com/article/latestCrisis/idUSL1213668)
+2. [Reuters](https://www.reuters.com/article/latestCrisis/idUSL1213668)
 2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:

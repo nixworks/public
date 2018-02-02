@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/27/private-investigator-paul-huebl-claims-whitney-houston-was-killed-by-drug-dealers-in-february-2012-after-clocking-up-a-1-5-million-debt.html)  [JSON](/news/2012/12/27/private-investigator-paul-huebl-claims-whitney-houston-was-killed-by-drug-dealers-in-february-2012-after-clocking-up-a-1-5-million-debt.json)  [XML](/news/2012/12/27/private-investigator-paul-huebl-claims-whitney-houston-was-killed-by-drug-dealers-in-february-2012-after-clocking-up-a-1-5-million-debt.xml)  
+
 ### [2012-12-27](/news/2012/12/27/index.md)
 
+##### Private investigator
 # Private investigator Paul Huebl claims Whitney Houston was killed by drug dealers in February 2012 after clocking up a $1.5 million debt. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RT](http://rt.com/art-and-culture/news/investigator-whitney-houston-murdered-909/)
 2. [Radar Online](http://www.radaronline.com/exclusives/2012/12/whitney-houston-murdered-private-investigator-new-video-evidence-fbi)

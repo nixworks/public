@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2014/09/28/antonio-costa-mayor-of-lisbon-wins-a-landslide-in-the-portuguese-socialist-party-prime-ministerial-primary-against-the-incumbent-antonio-j.html)  [JSON](/news/2014/09/28/antonio-costa-mayor-of-lisbon-wins-a-landslide-in-the-portuguese-socialist-party-prime-ministerial-primary-against-the-incumbent-antonio-j.json)  [XML](/news/2014/09/28/antonio-costa-mayor-of-lisbon-wins-a-landslide-in-the-portuguese-socialist-party-prime-ministerial-primary-against-the-incumbent-antonio-j.xml)  
+
 ### [2014-09-28](/news/2014/09/28/index.md)
 
+##### Antnio Costa
 # Antnio Costa, mayor of Lisbon, wins a landslide in the Portuguese Socialist Party prime ministerial primary against the incumbent Antnio Jos Seguro.
 
 

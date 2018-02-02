@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/1/the-tal-law-which-granted-a-sweeping-exemption-from-military-service-to-a-majority-of-the-israeli-ultra-orthodox-population-in-israel-expi.html)  [JSON](/news/2012/08/1/the-tal-law-which-granted-a-sweeping-exemption-from-military-service-to-a-majority-of-the-israeli-ultra-orthodox-population-in-israel-expi.json)  [XML](/news/2012/08/1/the-tal-law-which-granted-a-sweeping-exemption-from-military-service-to-a-majority-of-the-israeli-ultra-orthodox-population-in-israel-expi.xml)  
+
 ### [2012-08-1](/news/2012/08/1/index.md)
 
+##### Tal Law
 # The Tal Law, which granted a sweeping exemption from military service to a majority of the Israeli ultra-Orthodox population in Israel, expires. As a result Defense Minister Ehud Barak orders the Israeli Defense Forces to prepare for a universal draft of ultra-Orthodox Jewish males in 30 days. 
 
 No haredim slated to be drafted as defense minister orders IDF to create a plan within 30 days on enlistment.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19072717)
 2. [Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=279554)

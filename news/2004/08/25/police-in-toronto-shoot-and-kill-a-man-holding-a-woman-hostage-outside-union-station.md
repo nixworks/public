@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/08/25/police-in-toronto-shoot-and-kill-a-man-holding-a-woman-hostage-outside-union-station.html)  [JSON](/news/2004/08/25/police-in-toronto-shoot-and-kill-a-man-holding-a-woman-hostage-outside-union-station.json)  [XML](/news/2004/08/25/police-in-toronto-shoot-and-kill-a-man-holding-a-woman-hostage-outside-union-station.xml)  
+
 ### [2004-08-25](/news/2004/08/25/index.md)
 
+##### Toronto
 #  Police in Toronto shoot and kill a man holding a woman hostage outside Union Station. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2004/08/25/hostage_union040825.html)
-2. [Timeline (Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1093428111014&call_pageid=968332188492&col=968793972154)
+2. [Timeline (Toronto Star](https://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1093428111014&call_pageid=968332188492&col=968793972154)
 
 ### Related:
 

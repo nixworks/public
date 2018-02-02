@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/8/at-least-25-people-are-killed-and-at-least-320-others-are-wounded-at-camp-ashraf.html)  [JSON](/news/2011/04/8/at-least-25-people-are-killed-and-at-least-320-others-are-wounded-at-camp-ashraf.json)  [XML](/news/2011/04/8/at-least-25-people-are-killed-and-at-least-320-others-are-wounded-at-camp-ashraf.xml)  
+
 ### [2011-04-8](/news/2011/04/8/index.md)
 
+##### Camp Ashraf
 # At least 25 people are killed and at least 320 others are wounded at Camp Ashraf. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/20114816297411773.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/8/201148164857621140_20.jpg)

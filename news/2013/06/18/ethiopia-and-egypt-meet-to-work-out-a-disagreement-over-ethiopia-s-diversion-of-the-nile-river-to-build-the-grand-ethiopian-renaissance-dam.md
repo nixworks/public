@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/18/ethiopia-and-egypt-meet-to-work-out-a-disagreement-over-ethiopia-s-diversion-of-the-nile-river-to-build-the-grand-ethiopian-renaissance-dam.html)  [JSON](/news/2013/06/18/ethiopia-and-egypt-meet-to-work-out-a-disagreement-over-ethiopia-s-diversion-of-the-nile-river-to-build-the-grand-ethiopian-renaissance-dam.json)  [XML](/news/2013/06/18/ethiopia-and-egypt-meet-to-work-out-a-disagreement-over-ethiopia-s-diversion-of-the-nile-river-to-build-the-grand-ethiopian-renaissance-dam.xml)  
+
 ### [2013-06-18](/news/2013/06/18/index.md)
 
+##### Nile River
 # Ethiopia and Egypt meet to work out a disagreement over Ethiopia's diversion of the Nile River to build the Grand Ethiopian Renaissance Dam. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA](http://www.voanews.com/content/ethiopia-egypt-meet-to-ease-nile-dam-tensions/1683975.html)
 

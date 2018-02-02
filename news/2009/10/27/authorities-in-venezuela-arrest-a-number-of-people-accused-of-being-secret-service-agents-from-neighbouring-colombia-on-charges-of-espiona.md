@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/27/authorities-in-venezuela-arrest-a-number-of-people-accused-of-being-secret-service-agents-from-neighbouring-colombia-on-charges-of-espiona.html)  [JSON](/news/2009/10/27/authorities-in-venezuela-arrest-a-number-of-people-accused-of-being-secret-service-agents-from-neighbouring-colombia-on-charges-of-espiona.json)  [XML](/news/2009/10/27/authorities-in-venezuela-arrest-a-number-of-people-accused-of-being-secret-service-agents-from-neighbouring-colombia-on-charges-of-espiona.xml)  
+
 ### [2009-10-27](/news/2009/10/27/index.md)
 
+##### Venezuela
 #  Authorities in Venezuela arrest a number of people accused of being secret service agents from neighbouring Colombia, on charges of espionage. 
 
 Authorities in Venezuela arrested alleged Colombian intelligence officials who were caught &#8220;in espionage,&#8221; on Tuesday, said Deputy Foreign Minister for Latin America, Francisco Arias Cardenas. &#8220;They will be presented in&hellip;
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8329042.stm)
 2. [Colombia Reports](http://colombiareports.com/colombia-news/news/6597-venezuela-announces-arrests-of-alleged-colombian-spies.html)

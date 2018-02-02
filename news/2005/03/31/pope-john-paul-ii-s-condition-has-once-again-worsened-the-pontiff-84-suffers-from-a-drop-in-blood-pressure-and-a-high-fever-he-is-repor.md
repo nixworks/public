@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/31/pope-john-paul-ii-s-condition-has-once-again-worsened-the-pontiff-84-suffers-from-a-drop-in-blood-pressure-and-a-high-fever-he-is-repor.html)  [JSON](/news/2005/03/31/pope-john-paul-ii-s-condition-has-once-again-worsened-the-pontiff-84-suffers-from-a-drop-in-blood-pressure-and-a-high-fever-he-is-repor.json)  [XML](/news/2005/03/31/pope-john-paul-ii-s-condition-has-once-again-worsened-the-pontiff-84-suffers-from-a-drop-in-blood-pressure-and-a-high-fever-he-is-repor.xml)  
+
 ### [2005-03-31](/news/2005/03/31/index.md)
 
+##### Pope John Paul II
 #  Pope John Paul II's condition has once again worsened. The pontiff, 84, suffers from a drop in blood pressure and a high fever. He is reportedly given Last Rites. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2005/WORLD/europe/03/31/pope1/index.html)
 

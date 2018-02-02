@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/7/the-united-states-court-of-appeals-for-the-ninth-circuit-overturns-california-s-proposition-8-banning-gay-marriage-in-that-state.html)  [JSON](/news/2012/02/7/the-united-states-court-of-appeals-for-the-ninth-circuit-overturns-california-s-proposition-8-banning-gay-marriage-in-that-state.json)  [XML](/news/2012/02/7/the-united-states-court-of-appeals-for-the-ninth-circuit-overturns-california-s-proposition-8-banning-gay-marriage-in-that-state.xml)  
+
 ### [2012-02-7](/news/2012/02/7/index.md)
 
+##### United States Court of Appeals for the Ninth Circuit
 # The United States Court of Appeals for the Ninth Circuit overturns California's Proposition 8 banning gay marriage in that state. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2012/02/gay-marriage-prop-8s-ban-ruled-unconstitutional.html)
 1. [Cover Image](http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef016761e6a591970b-120pi)

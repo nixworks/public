@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/11/kosovo-adopts-a-national-anthem-named-europe-composed-by-mendi-menxhiqi-it-comes-without-lyrics-in-any-language-to-avoid-offending-the.html)  [JSON](/news/2008/06/11/kosovo-adopts-a-national-anthem-named-europe-composed-by-mendi-menxhiqi-it-comes-without-lyrics-in-any-language-to-avoid-offending-the.json)  [XML](/news/2008/06/11/kosovo-adopts-a-national-anthem-named-europe-composed-by-mendi-menxhiqi-it-comes-without-lyrics-in-any-language-to-avoid-offending-the.xml)  
+
 ### [2008-06-11](/news/2008/06/11/index.md)
 
+##### Kosovo
 #  Kosovo adopts a national anthem named "Europe"; composed by Mendi Menxhiqi, it comes without lyrics in any language to avoid offending the newly independent state's Serbian minority. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [B-92](http://www.b92.net/eng/news/politics-article.php?yyyy=2008&mm=06&dd=11&nav_id=51011)
 2. [International Herald Tribune](http://www.iht.com/articles/2008/06/11/europe/kosovo.php)

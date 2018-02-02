@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/5/two-people-are-killed-and-five-are-wounded-in-a-shooting-outside-a-taco-restaurant-in-salinas-california-u-s-it-is-believed-to-be-gang-re.html)  [JSON](/news/2013/08/5/two-people-are-killed-and-five-are-wounded-in-a-shooting-outside-a-taco-restaurant-in-salinas-california-u-s-it-is-believed-to-be-gang-re.json)  [XML](/news/2013/08/5/two-people-are-killed-and-five-are-wounded-in-a-shooting-outside-a-taco-restaurant-in-salinas-california-u-s-it-is-believed-to-be-gang-re.xml)  
+
 ### [2013-08-5](/news/2013/08/5/index.md)
 
+##### Salinas, California
 # Two people are killed and five are wounded in a shooting outside a taco restaurant in Salinas, California, U.S. It is believed to be gang-related. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [San Francisco Chronicle](http://www.sfgate.com/news/crime/article/2-dead-5-wounded-in-Calif-shooting-at-taco-shop-4707375.php)
 

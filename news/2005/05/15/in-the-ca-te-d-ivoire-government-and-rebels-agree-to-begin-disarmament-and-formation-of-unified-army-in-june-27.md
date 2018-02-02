@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/15/in-the-ca-te-d-ivoire-government-and-rebels-agree-to-begin-disarmament-and-formation-of-unified-army-in-june-27.html)  [JSON](/news/2005/05/15/in-the-ca-te-d-ivoire-government-and-rebels-agree-to-begin-disarmament-and-formation-of-unified-army-in-june-27.json)  [XML](/news/2005/05/15/in-the-ca-te-d-ivoire-government-and-rebels-agree-to-begin-disarmament-and-formation-of-unified-army-in-june-27.xml)  
+
 ### [2005-05-15](/news/2005/05/15/index.md)
 
+##### Cote d'Ivoire
 #  In the Cote d'Ivoire, government and rebels agree to begin disarmament and formation of unified army in June 27. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/MHII-6CF3TB?OpenDocument)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L14645646.htm)

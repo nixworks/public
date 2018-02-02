@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/15/2008-cambodian-thai-stand-off-cambodia-claims-that-thai-forces-are-grouping-near-the-disputed-area-with-later-reports-of-an-exchange-of-gu.html)  [JSON](/news/2008/10/15/2008-cambodian-thai-stand-off-cambodia-claims-that-thai-forces-are-grouping-near-the-disputed-area-with-later-reports-of-an-exchange-of-gu.json)  [XML](/news/2008/10/15/2008-cambodian-thai-stand-off-cambodia-claims-that-thai-forces-are-grouping-near-the-disputed-area-with-later-reports-of-an-exchange-of-gu.xml)  
+
 ### [2008-10-15](/news/2008/10/15/index.md)
 
+##### exchange gunfire
 #  2008 Cambodian-Thai stand-off: Cambodia claims that Thai forces are grouping near the disputed area with later reports of an exchange of gunfire resulting in the death of two Royal Cambodian Army soldiers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5g8AhIuzqwdhGNNCnS10exiTCqEKQ)
 2. [AFP via Google News](http://afp.google.com/article/ALeqM5gJThWxviB0isVBqKEDUkiw3JEhoA)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/25/the-former-president-of-zambia-rupiah-banda-is-arrested-for-alleged-corruption-and-abuse-of-authority.html)  [JSON](/news/2013/03/25/the-former-president-of-zambia-rupiah-banda-is-arrested-for-alleged-corruption-and-abuse-of-authority.json)  [XML](/news/2013/03/25/the-former-president-of-zambia-rupiah-banda-is-arrested-for-alleged-corruption-and-abuse-of-authority.xml)  
+
 ### [2013-03-25](/news/2013/03/25/index.md)
 
+##### President
 # The former President of Zambia Rupiah Banda is arrested for alleged corruption and abuse of authority. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2013/03/25/former-zambian-president-rupiah-banda-arrested-for-alleged-corruption/)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

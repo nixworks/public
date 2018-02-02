@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/5/at-least-2-people-are-killed-and-6-injured-after-a-shooting-in-a-hair-salon-in-bucharest-romania.html)  [JSON](/news/2012/03/5/at-least-2-people-are-killed-and-6-injured-after-a-shooting-in-a-hair-salon-in-bucharest-romania.json)  [XML](/news/2012/03/5/at-least-2-people-are-killed-and-6-injured-after-a-shooting-in-a-hair-salon-in-bucharest-romania.xml)  
+
 ### [2012-03-5](/news/2012/03/5/index.md)
 
+##### a shooting in a hair salon
 # At least 2 people are killed and 6 injured after a shooting in a hair salon in Bucharest, Romania. 
 
 A gunman opened fire Monday in a hair salon in the Romanian capital, killing two people and wounding six, officials said. The suspected shooter was identified as an ambulance driver who was married to one of the women killed.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/world/2012/03/05/2-dead-6-wounded-in-hair-salon-shooting-in-romania/)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

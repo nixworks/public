@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/31/the-black-box-for-airblue-flight-202-which-crashed-near-islamabad-pakistan-is-found.html)  [JSON](/news/2010/07/31/the-black-box-for-airblue-flight-202-which-crashed-near-islamabad-pakistan-is-found.json)  [XML](/news/2010/07/31/the-black-box-for-airblue-flight-202-which-crashed-near-islamabad-pakistan-is-found.xml)  
+
 ### [2010-07-31](/news/2010/07/31/index.md)
 
+##### "black box" flight data recorder
 # The black box for Airblue Flight 202 which crashed near Islamabad, Pakistan, is found. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [DAWN](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/03-crashed-air-blue-flights-black-box-found-report-ss-04)
 

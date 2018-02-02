@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/10/29/the-african-union-imposes-a-travel-ban-on-the-leader-of-guinea-s-military-junta-moussa-dadis-camara-and-41-of-his-colleagues-and-freezes.html)  [JSON](/news/2009/10/29/the-african-union-imposes-a-travel-ban-on-the-leader-of-guinea-s-military-junta-moussa-dadis-camara-and-41-of-his-colleagues-and-freezes.json)  [XML](/news/2009/10/29/the-african-union-imposes-a-travel-ban-on-the-leader-of-guinea-s-military-junta-moussa-dadis-camara-and-41-of-his-colleagues-and-freezes.xml)  
+
 ### [2009-10-29](/news/2009/10/29/index.md)
 
+##### African Union
 #  The African Union imposes a travel ban on the leader of Guinea's military junta, Moussa Dadis Camara, and 41 of his colleagues and freezes their bank accounts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8333026.stm)
-2. [Reuters](http://www.reuters.com/article/africaCrisis/idUSLT440627)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/africaCrisis/idUSLT440627)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

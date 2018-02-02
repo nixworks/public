@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/24/mexican-gunmen-burst-into-a-drug-rehabilitation-centre-in-eastern-tijuana-killing-thirteen-people.html)  [JSON](/news/2010/10/24/mexican-gunmen-burst-into-a-drug-rehabilitation-centre-in-eastern-tijuana-killing-thirteen-people.json)  [XML](/news/2010/10/24/mexican-gunmen-burst-into-a-drug-rehabilitation-centre-in-eastern-tijuana-killing-thirteen-people.xml)  
+
 ### [2010-10-24](/news/2010/10/24/index.md)
 
+##### Mexico
 # Mexican gunmen burst into a drug rehabilitation centre in eastern Tijuana, killing thirteen people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sign On San Diego](http://www.signonsandiego.com/news/2010/oct/25/13-killed-at-tijuana-drug-rehab-center/)
 

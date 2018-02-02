@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/3/7-suspected-weapons-traffickers-to-iran-2-iranians-5-italians-are-detained-in-italy-with-the-help-of-swiss-police.html)  [JSON](/news/2010/03/3/7-suspected-weapons-traffickers-to-iran-2-iranians-5-italians-are-detained-in-italy-with-the-help-of-swiss-police.json)  [XML](/news/2010/03/3/7-suspected-weapons-traffickers-to-iran-2-iranians-5-italians-are-detained-in-italy-with-the-help-of-swiss-police.xml)  
+
 ### [2010-03-3](/news/2010/03/3/index.md)
 
+##### Iran
 # 7 suspected weapons traffickers to Iran (2 Iranians, 5 Italians) are detained in Italy with the help of Swiss police. 
 
 Five Italians and two Iranians arrested for suspected weapons trafficking to Iran.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/03/20103311345293916.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8546870.stm)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/07/28/cyclist-lance-armstrong-wins-his-fourth-consecutive-tour-de-france.html)  [JSON](/news/2002/07/28/cyclist-lance-armstrong-wins-his-fourth-consecutive-tour-de-france.json)  [XML](/news/2002/07/28/cyclist-lance-armstrong-wins-his-fourth-consecutive-tour-de-france.xml)  
+
 ### [2002-07-28](/news/2002/07/28/index.md)
 
+##### Lance Armstrong
 #  Cyclist Lance Armstrong wins his fourth consecutive Tour de France.
 
 

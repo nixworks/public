@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/25/rebels-in-the-ivory-coast-seize-another-town-from-the-control-of-incumbent-president-laurent-gbagbo-who-refused-to-step-down-following-a-di.html)  [JSON](/news/2011/02/25/rebels-in-the-ivory-coast-seize-another-town-from-the-control-of-incumbent-president-laurent-gbagbo-who-refused-to-step-down-following-a-di.json)  [XML](/news/2011/02/25/rebels-in-the-ivory-coast-seize-another-town-from-the-control-of-incumbent-president-laurent-gbagbo-who-refused-to-step-down-following-a-di.xml)  
+
 ### [2011-02-25](/news/2011/02/25/index.md)
 
+##### Ivory Coast
 # Rebels in the Ivory Coast seize another town from the control of incumbent President Laurent Gbagbo, who refused to step down following a disputed presidential election. Unrest occurs in the capital Yamoussoukro. 
 
 Ivory Coast rebels take the town of Zouan-Hounien in the west, as the UN warns that the country may be heading towards civil war.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12582014)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

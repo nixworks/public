@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/30/two-earthquakes-occur-off-the-coast-of-west-papua-in-indonesia-of-6-2-and-7-2-in-magnitude.html)  [JSON](/news/2010/09/30/two-earthquakes-occur-off-the-coast-of-west-papua-in-indonesia-of-6-2-and-7-2-in-magnitude.json)  [XML](/news/2010/09/30/two-earthquakes-occur-off-the-coast-of-west-papua-in-indonesia-of-6-2-and-7-2-in-magnitude.xml)  
+
 ### [2010-09-30](/news/2010/09/30/index.md)
 
+##### earthquake
 # Two earthquakes occur off the coast of West Papua in Indonesia of 6.2 and 7.2 in magnitude. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5gjbYJKyCS5tN42hgF26UbzzHe7OA?docId=CNG.87fc43de98513173dcce8b64af55cda1.611)
 

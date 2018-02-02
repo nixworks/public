@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/7/northern-ireland-s-ulster-unionist-party-leader-david-trimble-the-1998-nobel-peace-prize-winner-who-helped-reach-the-good-friday-agreement.html)  [JSON](/news/2005/05/7/northern-ireland-s-ulster-unionist-party-leader-david-trimble-the-1998-nobel-peace-prize-winner-who-helped-reach-the-good-friday-agreement.json)  [XML](/news/2005/05/7/northern-ireland-s-ulster-unionist-party-leader-david-trimble-the-1998-nobel-peace-prize-winner-who-helped-reach-the-good-friday-agreement.xml)  
+
 ### [2005-05-7](/news/2005/05/7/index.md)
 
+##### Northern Ireland
 #  Northern Ireland's Ulster Unionist Party leader David Trimble, the 1998 Nobel Peace Prize winner who helped reach the Good Friday Agreement, resigns from the leadership post he has held for ten years, after losing his seat in the British general election the previous day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/vote_2005/northern_ireland/4525407.stm)
 

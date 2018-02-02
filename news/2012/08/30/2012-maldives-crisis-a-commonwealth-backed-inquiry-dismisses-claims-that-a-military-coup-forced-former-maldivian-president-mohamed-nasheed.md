@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/30/2012-maldives-crisis-a-commonwealth-backed-inquiry-dismisses-claims-that-a-military-coup-forced-former-maldivian-president-mohamed-nasheed.html)  [JSON](/news/2012/08/30/2012-maldives-crisis-a-commonwealth-backed-inquiry-dismisses-claims-that-a-military-coup-forced-former-maldivian-president-mohamed-nasheed.json)  [XML](/news/2012/08/30/2012-maldives-crisis-a-commonwealth-backed-inquiry-dismisses-claims-that-a-military-coup-forced-former-maldivian-president-mohamed-nasheed.xml)  
+
 ### [2012-08-30](/news/2012/08/30/index.md)
 
+##### 2012 Maldives Crisis
 # 2012 Maldives Crisis: A Commonwealth-backed inquiry dismisses claims that a military coup forced former Maldivian president Mohamed Nasheed from power. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/08/2012830114628304464.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/images/2012/8/30//2012830115038436734_20.jpg)

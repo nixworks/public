@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/7/rival-factions-in-madagascar-agree-to-form-a-unity-government-to-end-the-political-crisis-in-the-country.html)  [JSON](/news/2009/11/7/rival-factions-in-madagascar-agree-to-form-a-unity-government-to-end-the-political-crisis-in-the-country.json)  [XML](/news/2009/11/7/rival-factions-in-madagascar-agree-to-form-a-unity-government-to-end-the-political-crisis-in-the-country.xml)  
+
 ### [2009-11-7](/news/2009/11/7/index.md)
 
+##### Madagascar
 #  Rival factions in Madagascar agree to form a unity government to end the political crisis in the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8347942.stm)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-11/07/content_12406319.htm)

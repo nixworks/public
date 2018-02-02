@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/26/norway-s-public-broadcaster-nrk-publishes-for-the-first-time-video-footage-of-anders-behring-breivik-parking-his-van-bomb-that-killed-eight.html)  [JSON](/news/2012/11/26/norway-s-public-broadcaster-nrk-publishes-for-the-first-time-video-footage-of-anders-behring-breivik-parking-his-van-bomb-that-killed-eight.json)  [XML](/news/2012/11/26/norway-s-public-broadcaster-nrk-publishes-for-the-first-time-video-footage-of-anders-behring-breivik-parking-his-van-bomb-that-killed-eight.xml)  
+
 ### [2012-11-26](/news/2012/11/26/index.md)
 
+##### Norway
 # Norway's public broadcaster NRK publishes for the first time video footage of Anders Behring Breivik parking his van bomb that killed eight people in Oslo on 22 July 2011. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5hVJ51y3gFcMot1knc2veiaCW7Lag)
 2. [NRK](http://www.nrk.no/fordypning/her-parkerer-breivik-bombebilen-1.8593408)

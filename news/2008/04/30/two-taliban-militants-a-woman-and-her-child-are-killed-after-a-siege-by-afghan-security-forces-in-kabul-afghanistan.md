@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/04/30/two-taliban-militants-a-woman-and-her-child-are-killed-after-a-siege-by-afghan-security-forces-in-kabul-afghanistan.html)  [JSON](/news/2008/04/30/two-taliban-militants-a-woman-and-her-child-are-killed-after-a-siege-by-afghan-security-forces-in-kabul-afghanistan.json)  [XML](/news/2008/04/30/two-taliban-militants-a-woman-and-her-child-are-killed-after-a-siege-by-afghan-security-forces-in-kabul-afghanistan.xml)  
+
 ### [2008-04-30](/news/2008/04/30/index.md)
 
+##### Taliban
 #  Two Taliban militants, a woman, and her child are killed after a siege by Afghan security forces in Kabul, Afghanistan. 
 
 Afghan security forces surrounded a house in the capital Kabul on Wednesday and traded gunfire with Taliban insurgents before blowing up the building and killing two militants as well as a woman and child inside, officials said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSSP22490020080430)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080430&t=2&i=4081249&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-04-30T125042Z_01_SP224900_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSSP22490020080430)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20080430&t=2&i=4081249&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-04-30T125042Z_01_SP224900_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

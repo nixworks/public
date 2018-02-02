@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/6/burma-myanmar-releases-249-dissidents-from-jail-aung-san-suu-kyi-remains-in-house-arrest.html)  [JSON](/news/2005/07/6/burma-myanmar-releases-249-dissidents-from-jail-aung-san-suu-kyi-remains-in-house-arrest.json)  [XML](/news/2005/07/6/burma-myanmar-releases-249-dissidents-from-jail-aung-san-suu-kyi-remains-in-house-arrest.xml)  
+
 ### [2005-07-6](/news/2005/07/6/index.md)
 
+##### Burma
 #  Burma-Myanmar releases 249 dissidents from jail. Aung San Suu Kyi remains in house arrest 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/156455/1/.html)
 2. [Democratic Voice of Burma](http://english.dvb.no/news.php?id=5106)

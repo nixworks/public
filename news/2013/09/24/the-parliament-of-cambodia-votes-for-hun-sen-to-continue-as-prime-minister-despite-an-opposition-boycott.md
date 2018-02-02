@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/24/the-parliament-of-cambodia-votes-for-hun-sen-to-continue-as-prime-minister-despite-an-opposition-boycott.html)  [JSON](/news/2013/09/24/the-parliament-of-cambodia-votes-for-hun-sen-to-continue-as-prime-minister-despite-an-opposition-boycott.json)  [XML](/news/2013/09/24/the-parliament-of-cambodia-votes-for-hun-sen-to-continue-as-prime-minister-despite-an-opposition-boycott.xml)  
+
 ### [2013-09-24](/news/2013/09/24/index.md)
 
+##### Parliament
 # The Parliament of Cambodia votes for Hun Sen to continue as Prime Minister despite an opposition boycott. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/cambodias-parliament-votes-hun-sen-prime-minister-opposition-20352177)
 

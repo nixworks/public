@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/05/17/the-president-of-the-united-states-george-w-bush-states-that-a-palestinian-state-can-be-defined-by-the-end-of-his-presidency-including-t.html)  [JSON](/news/2008/05/17/the-president-of-the-united-states-george-w-bush-states-that-a-palestinian-state-can-be-defined-by-the-end-of-his-presidency-including-t.json)  [XML](/news/2008/05/17/the-president-of-the-united-states-george-w-bush-states-that-a-palestinian-state-can-be-defined-by-the-end-of-his-presidency-including-t.xml)  
+
 ### [2008-05-17](/news/2008/05/17/index.md)
 
+##### U.S. President
 #  The President of the United States George W. Bush states that a Palestinian state can be "defined" by the end of his Presidency including the issue of borders and right to resettlement. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601116&sid=aw7_UffZ40ds&refer=africa)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601116&sid=aw7_UffZ40ds&refer=africa)
 
 ### Related:
 

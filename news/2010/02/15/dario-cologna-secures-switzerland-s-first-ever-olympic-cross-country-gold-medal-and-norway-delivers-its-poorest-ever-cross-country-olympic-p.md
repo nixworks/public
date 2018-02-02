@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/15/dario-cologna-secures-switzerland-s-first-ever-olympic-cross-country-gold-medal-and-norway-delivers-its-poorest-ever-cross-country-olympic-p.html)  [JSON](/news/2010/02/15/dario-cologna-secures-switzerland-s-first-ever-olympic-cross-country-gold-medal-and-norway-delivers-its-poorest-ever-cross-country-olympic-p.json)  [XML](/news/2010/02/15/dario-cologna-secures-switzerland-s-first-ever-olympic-cross-country-gold-medal-and-norway-delivers-its-poorest-ever-cross-country-olympic-p.xml)  
+
 ### [2010-02-15](/news/2010/02/15/index.md)
 
+##### Dario Cologna
 # Dario Cologna secures Switzerland's first ever Olympic cross-country gold medal and Norway delivers its poorest ever cross-country Olympic performance in the men's 15km freestyle cross-country competition 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hXJcn_2ic5ZKZoMTNNWWH0yV_sog)
 2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gMQqh_xuSIkA2RzZVrKiPN685nMQD9DSSP301)

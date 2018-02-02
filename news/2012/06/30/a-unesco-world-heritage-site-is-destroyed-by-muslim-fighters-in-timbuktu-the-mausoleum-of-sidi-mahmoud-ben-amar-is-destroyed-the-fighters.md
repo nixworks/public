@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/06/30/a-unesco-world-heritage-site-is-destroyed-by-muslim-fighters-in-timbuktu-the-mausoleum-of-sidi-mahmoud-ben-amar-is-destroyed-the-fighters.html)  [JSON](/news/2012/06/30/a-unesco-world-heritage-site-is-destroyed-by-muslim-fighters-in-timbuktu-the-mausoleum-of-sidi-mahmoud-ben-amar-is-destroyed-the-fighters.json)  [XML](/news/2012/06/30/a-unesco-world-heritage-site-is-destroyed-by-muslim-fighters-in-timbuktu-the-mausoleum-of-sidi-mahmoud-ben-amar-is-destroyed-the-fighters.xml)  
+
 ### [2012-06-30](/news/2012/06/30/index.md)
 
+##### UNESCO
 # A UNESCO World Heritage site is destroyed by Muslim fighters in Timbuktu. The mausoleum of Sidi Mahmoud Ben Amar is destroyed. The fighters are said to have ties with al-Qaida. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://mobile.washingtonpost.com/rss.jsp?rssid=4220853&item=http://www.washingtonpost.com/world/africa/resident-islamist-rebels-attack-unesco-world-heritage-sites-in-historic-mali-city-of-timbuktu/2012/06/30/gJQAWloSDW_mobile.mobile&cid=-1&fullSiteUrl=http%3A%2F%2Fwww.washingtonpost.com%2Fworld%2Fafrica%2Fresident-islamist-rebels-attack-unesco-world-heritage-sites-in-historic-mali-city-of-timbuktu%2F2012%2F06%2F30%2FgJQAWloSDW_story.html)
+1. [The Washington Post](http://mobile.washingtonpost.com/rss.jsp?rssid=4220853&item=https://www.washingtonpost.com/world/africa/resident-islamist-rebels-attack-unesco-world-heritage-sites-in-historic-mali-city-of-timbuktu/2012/06/30/gJQAWloSDW_mobile.mobile&cid=-1&fullSiteUrl=http%3A%2F%2Fwww.washingtonpost.com%2Fworld%2Fafrica%2Fresident-islamist-rebels-attack-unesco-world-heritage-sites-in-historic-mali-city-of-timbuktu%2F2012%2F06%2F30%2FgJQAWloSDW_story.html)
 
 ### Related:
 

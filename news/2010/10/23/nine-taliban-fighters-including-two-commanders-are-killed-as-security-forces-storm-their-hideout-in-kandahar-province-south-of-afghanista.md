@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2010/10/23/nine-taliban-fighters-including-two-commanders-are-killed-as-security-forces-storm-their-hideout-in-kandahar-province-south-of-afghanista.html)  [JSON](/news/2010/10/23/nine-taliban-fighters-including-two-commanders-are-killed-as-security-forces-storm-their-hideout-in-kandahar-province-south-of-afghanista.json)  [XML](/news/2010/10/23/nine-taliban-fighters-including-two-commanders-are-killed-as-security-forces-storm-their-hideout-in-kandahar-province-south-of-afghanista.xml)  
+
 ### [2010-10-23](/news/2010/10/23/index.md)
 
+##### Taliban
 # Nine Taliban fighters, including two commanders, are killed as security forces storm their hideout in Kandahar province, south of Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua'' via PLA](http://english.pladaily.com.cn/)
 
 ### Related:
 
-1. [The Taliban kills four US soldiers in Kandahar Province, Afghanistan. ](/news/2013/05/14/the-taliban-kills-four-us-soldiers-in-kandahar-province-afghanistan.md) _Context: Afghanistan, Kandahar Province, Taliban_
-2. [A suicide bomber kills 17 people and wounds at least 20 others in a public bathhouse in Kandahar province, Afghanistan; the Taliban claims responsibility for the attack. ](/news/2011/01/7/a-suicide-bomber-kills-17-people-and-wounds-at-least-20-others-in-a-public-bathhouse-in-kandahar-province-afghanistan-the-taliban-claims-r.md) _Context: Afghanistan, Kandahar Province, Taliban_
-3. [An Australian Special Air Service Regiment soldier Jason Brown, is killed in fighting the Taliban in northern Kandahar Province, Afghanistan. ](/news/2010/08/13/an-australian-special-air-service-regiment-soldier-jason-brown-is-killed-in-fighting-the-taliban-in-northern-kandahar-province-afghanistan.md) _Context: Afghanistan, Kandahar Province, Taliban_
-4. [ Afghan officials claim that the Taliban has executed as many as 30 of 50 people captured on a bus in Kandahar Province. ](/news/2008/10/19/afghan-officials-claim-that-the-taliban-has-executed-as-many-as-30-of-50-people-captured-on-a-bus-in-kandahar-province.md) _Context: Afghanistan, Kandahar Province, Taliban_
-5. [ Hundreds of Taliban militants swarm in the Arghandab District of Kandahar Province with the Afghan government sending reinforcements to the nearby city of Kandahar. ](/news/2008/06/16/hundreds-of-taliban-militants-swarm-in-the-arghandab-district-of-kandahar-province-with-the-afghan-government-sending-reinforcements-to-the.md) _Context: Afghanistan, Kandahar Province, Taliban_
+1. [A suicide bomber kills 17 people and wounds at least 20 others in a public bathhouse in Kandahar province, Afghanistan; the Taliban claims responsibility for the attack. ](/news/2011/01/7/a-suicide-bomber-kills-17-people-and-wounds-at-least-20-others-in-a-public-bathhouse-in-kandahar-province-afghanistan-the-taliban-claims-r.md) _Context: Afghanistan, Kandahar province, Taliban_
+2. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: Afghanistan, Taliban_
+3. [Six insurgents kill at least 18 people, including 4 Afghans and 14 foreigners, in a 13-hour gun battle. The Afghan Interior Ministry says that the siege ended when the last gunman was shot dead. NATO reports that "no foreign troops" died. The Taliban claim that they sent five suicide bombers armed with hand grenades and AK-47 assault rifles. The Afghan government blames the attack on the Pakistan-based Haqqani network. ](/news/2018/01/21/six-insurgents-kill-at-least-18-people-including-4-afghans-and-14-foreigners-in-a-13-hour-gun-battle-the-afghan-interior-ministry-says-th.md) _Context: Afghanistan, Taliban_
+4. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Afghanistan, Taliban_
+5. [An Afghan soldier kills 3 U.S. troops and injures 1 other in Achin, Nangarhar Province. The Taliban claims responsibility, saying the Afghan soldier was one of several Taliban infiltrators in the Afghan Armed Forces. ](/news/2017/06/10/an-afghan-soldier-kills-3-u-s-troops-and-injures-1-other-in-achin-nangarhar-province-the-taliban-claims-responsibility-saying-the-afghan.md) _Context: Afghanistan, Taliban_

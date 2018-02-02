@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/2/the-nigerian-islamist-militant-group-boko-haram-issues-a-warning-to-christians-in-northern-nigeria-to-leave-the-region-within-three-days.html)  [JSON](/news/2012/01/2/the-nigerian-islamist-militant-group-boko-haram-issues-a-warning-to-christians-in-northern-nigeria-to-leave-the-region-within-three-days.json)  [XML](/news/2012/01/2/the-nigerian-islamist-militant-group-boko-haram-issues-a-warning-to-christians-in-northern-nigeria-to-leave-the-region-within-three-days.xml)  
+
 ### [2012-01-2](/news/2012/01/2/index.md)
 
+##### Nigerian
 # The Nigerian Islamist militant group Boko Haram issues a warning to Christians in northern Nigeria to leave the region within three days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/01/02/world/africa/nigeria-sectarian-divisions/)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/07/2/the-honduran-interim-government-defies-international-pressure-to-reverse-the-recent-coup-saying-there-is-no-chance-at-all-of-ousted-presid.html)  [JSON](/news/2009/07/2/the-honduran-interim-government-defies-international-pressure-to-reverse-the-recent-coup-saying-there-is-no-chance-at-all-of-ousted-presid.json)  [XML](/news/2009/07/2/the-honduran-interim-government-defies-international-pressure-to-reverse-the-recent-coup-saying-there-is-no-chance-at-all-of-ousted-presid.xml)  
+
 ### [2009-07-2](/news/2009/07/2/index.md)
 
+##### Honduras
 #  The Honduran interim government defies international pressure to reverse the recent coup, saying there is no chance at all of ousted President Manuel Zelaya returning to office. 
 
 An interim government set up after a military coup in Honduras said on Thursday it would be open to bringing forward a November general election to resolve a crisis over the ouster of President Manuel Zelaya.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE55R24E20090702)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090702&t=2&i=10728589&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-07-02T233255Z_01_BTRE5610O7P00_RTROPTP_0_HONDURAS)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE55R24E20090702)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20090702&t=2&i=10728589&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-07-02T233255Z_01_BTRE5610O7P00_RTROPTP_0_HONDURAS)
 
 ### Related:
 

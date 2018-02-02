@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/06/28/the-federal-bureau-of-investigation-and-bureau-of-alcohol-tobacco-firearms-and-explosives-are-investigating-a-series-of-fires-at-black-chu.html)  [JSON](/news/2015/06/28/the-federal-bureau-of-investigation-and-bureau-of-alcohol-tobacco-firearms-and-explosives-are-investigating-a-series-of-fires-at-black-chu.json)  [XML](/news/2015/06/28/the-federal-bureau-of-investigation-and-bureau-of-alcohol-tobacco-firearms-and-explosives-are-investigating-a-series-of-fires-at-black-chu.xml)  
+
 ### [2015-06-28](/news/2015/06/28/index.md)
 
+##### FBI
 # The Federal Bureau of Investigation and Bureau of Alcohol, Tobacco, Firearms and Explosives are investigating a series of fires at black churches in the states of Tennessee, South Carolina, North Carolina and Georgia with three of the four cases confirmed as arson. 
 
 There’s no indication the fires in states across the South are connected, a spokesperson told BuzzFeed News, but FBI and ATF officials are cooperating with local investigators.
 
 
-### Source:
+### Sources:
 
-1. [Buzzfeed](http://www.buzzfeed.com/darrensands/fbi-investigating-black-church-fires#.bplMlB4VkY)
+1. [Buzzfeed](https://www.buzzfeed.com/darrensands/fbi-investigating-black-church-fires#.bplMlB4VkY)
 1. [Cover Image](https://img.buzzfeed.com/buzzfeed-static/static/2015-06/28/16/campaign_images/webdr12/fbi-investigating-black-church-fires-2-18704-1435523068-1_dblbig.jpg)
 
 ### Related:

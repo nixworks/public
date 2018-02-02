@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/03/10/forbes-magazine-publishes-its-2010-list-of-billionaires-replacing-bill-gates-with-carlos-slim-as-the-world-s-wealthiest-person.html)  [JSON](/news/2010/03/10/forbes-magazine-publishes-its-2010-list-of-billionaires-replacing-bill-gates-with-carlos-slim-as-the-world-s-wealthiest-person.json)  [XML](/news/2010/03/10/forbes-magazine-publishes-its-2010-list-of-billionaires-replacing-bill-gates-with-carlos-slim-as-the-world-s-wealthiest-person.xml)  
+
 ### [2010-03-10](/news/2010/03/10/index.md)
 
+##### Forbes
 # "Forbes" magazine publishes its 2010 list of billionaires, replacing Bill Gates with Carlos Slim as the world's wealthiest person. 
 
 Carlos Slim Helu takes No. 1 spot on Forbes World&#39;s Billionaires list as a record 164 10-figure titans return to the ranking amid the global economic recovery.
 
 
-### Source:
+### Sources:
 
-1. [Forbes](http://www.forbes.com/2010/03/09/worlds-richest-people-slim-gates-buffett-billionaires-2010-intro.html)
+1. [Forbes](https://www.forbes.com/2010/03/09/worlds-richest-people-slim-gates-buffett-billionaires-2010-intro.html)
 1. [Cover Image](https://i.forbesimg.com/media/assets/forbes_1200x1200.jpg)
 
 ### Related:

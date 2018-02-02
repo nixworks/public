@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/07/29/moscow-describes-tokyo-s-decision-to-impose-further-sanctions-on-russia-in-the-wake-of-the-downing-of-malaysia-airlines-flight-17-as-an-unf.html)  [JSON](/news/2014/07/29/moscow-describes-tokyo-s-decision-to-impose-further-sanctions-on-russia-in-the-wake-of-the-downing-of-malaysia-airlines-flight-17-as-an-unf.json)  [XML](/news/2014/07/29/moscow-describes-tokyo-s-decision-to-impose-further-sanctions-on-russia-in-the-wake-of-the-downing-of-malaysia-airlines-flight-17-as-an-unf.xml)  
+
 ### [2014-07-29](/news/2014/07/29/index.md)
 
+##### Russia
 # Moscow describes Tokyo's decision to impose further sanctions on Russia in the wake of the downing of Malaysia Airlines Flight 17 as an "unfriendly step" that may harm "the entire system of relations" between Russia and Japan. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/07/29/us-ukraine-crisis-russia-japan-idUSKBN0FY0GN20140729)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2014/07/29/us-ukraine-crisis-russia-japan-idUSKBN0FY0GN20140729)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

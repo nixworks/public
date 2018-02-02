@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/16/at-least-ten-people-die-and-another-35-are-wounded-in-a-suicide-attack-on-a-hospital-in-quetta.html)  [JSON](/news/2010/04/16/at-least-ten-people-die-and-another-35-are-wounded-in-a-suicide-attack-on-a-hospital-in-quetta.json)  [XML](/news/2010/04/16/at-least-ten-people-die-and-another-35-are-wounded-in-a-suicide-attack-on-a-hospital-in-quetta.xml)  
+
 ### [2010-04-16](/news/2010/04/16/index.md)
 
+##### Quetta
 # At least ten people die and another 35 are wounded in a suicide attack on a hospital in Quetta. 
 
 At least eight people killed and 35 wounded in explosion in Quetta in Balochistan province.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/2010416681216329.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8624338.stm)

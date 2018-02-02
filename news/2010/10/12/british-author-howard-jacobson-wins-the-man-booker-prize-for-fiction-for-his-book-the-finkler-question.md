@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/12/british-author-howard-jacobson-wins-the-man-booker-prize-for-fiction-for-his-book-the-finkler-question.html)  [JSON](/news/2010/10/12/british-author-howard-jacobson-wins-the-man-booker-prize-for-fiction-for-his-book-the-finkler-question.json)  [XML](/news/2010/10/12/british-author-howard-jacobson-wins-the-man-booker-prize-for-fiction-for-his-book-the-finkler-question.xml)  
+
 ### [2010-10-12](/news/2010/10/12/index.md)
 
+##### Howard Jacobson
 # British author Howard Jacobson wins the Man Booker Prize for Fiction for his book "The Finkler Question". 
 
 British author and former University of Sydney lecturer Howard Jacobson has edged out the favourites to win the Man Booker Prize for Fiction, scooping the &amp;#x00A3;50,000 ($80,000) literary prize for his novel, The Finkler Question.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/entertainment/books/howard-jacobson-wins-man-booker-prize-20101013-16ia1.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/1/6/i/a/p/image.related.articleLeadwide.620x349.16ia1.png/1286930169997.jpg)

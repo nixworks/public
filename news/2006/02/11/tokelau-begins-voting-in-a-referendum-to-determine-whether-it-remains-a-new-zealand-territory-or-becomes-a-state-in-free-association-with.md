@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/11/tokelau-begins-voting-in-a-referendum-to-determine-whether-it-remains-a-new-zealand-territory-or-becomes-a-state-in-free-association-with.html)  [JSON](/news/2006/02/11/tokelau-begins-voting-in-a-referendum-to-determine-whether-it-remains-a-new-zealand-territory-or-becomes-a-state-in-free-association-with.json)  [XML](/news/2006/02/11/tokelau-begins-voting-in-a-referendum-to-determine-whether-it-remains-a-new-zealand-territory-or-becomes-a-state-in-free-association-with.xml)  
+
 ### [2006-02-11](/news/2006/02/11/index.md)
 
+##### Tokelau
 #  Tokelau begins voting in a referendum to determine whether it remains a New Zealand territory, or becomes a state in free association with New Zealand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NZ Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=1&ObjectID=10367667)
 

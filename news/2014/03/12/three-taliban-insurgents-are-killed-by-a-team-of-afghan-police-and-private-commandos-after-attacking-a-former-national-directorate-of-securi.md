@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/12/three-taliban-insurgents-are-killed-by-a-team-of-afghan-police-and-private-commandos-after-attacking-a-former-national-directorate-of-securi.html)  [JSON](/news/2014/03/12/three-taliban-insurgents-are-killed-by-a-team-of-afghan-police-and-private-commandos-after-attacking-a-former-national-directorate-of-securi.json)  [XML](/news/2014/03/12/three-taliban-insurgents-are-killed-by-a-team-of-afghan-police-and-private-commandos-after-attacking-a-former-national-directorate-of-securi.xml)  
+
 ### [2014-03-12](/news/2014/03/12/index.md)
 
+##### Taliban
 # Three Taliban insurgents are killed by a team of Afghan police and private commandos after attacking a former National Directorate of Security headquarters in Kandahar, Afghanistan. The Taliban claims they killed four commandos and five policemen, which police deny. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC](http://abcnews.go.com/International/wireStory/afghan-police-insurgents-killed-shootout-22871716)
 

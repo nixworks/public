@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/23/a-man-in-nanping-china-stabs-and-kills-eight-children-and-wounds-another-five-at-an-elementary-school.html)  [JSON](/news/2010/03/23/a-man-in-nanping-china-stabs-and-kills-eight-children-and-wounds-another-five-at-an-elementary-school.json)  [XML](/news/2010/03/23/a-man-in-nanping-china-stabs-and-kills-eight-children-and-wounds-another-five-at-an-elementary-school.xml)  
+
 ### [2010-03-23](/news/2010/03/23/index.md)
 
+##### Nanping
 # A man in Nanping, China, stabs and kills eight children, and wounds another five at an elementary school. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8582203.stm)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-03/23/content_9629117.htm)

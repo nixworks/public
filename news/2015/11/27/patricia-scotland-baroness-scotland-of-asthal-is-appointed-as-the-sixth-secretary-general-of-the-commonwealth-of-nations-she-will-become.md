@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/27/patricia-scotland-baroness-scotland-of-asthal-is-appointed-as-the-sixth-secretary-general-of-the-commonwealth-of-nations-she-will-become.html)  [JSON](/news/2015/11/27/patricia-scotland-baroness-scotland-of-asthal-is-appointed-as-the-sixth-secretary-general-of-the-commonwealth-of-nations-she-will-become.json)  [XML](/news/2015/11/27/patricia-scotland-baroness-scotland-of-asthal-is-appointed-as-the-sixth-secretary-general-of-the-commonwealth-of-nations-she-will-become.xml)  
+
 ### [2015-11-27](/news/2015/11/27/index.md)
 
+##### Patricia Scotland, Baroness Scotland of Asthal
 # Patricia Scotland, Baroness Scotland of Asthal, is appointed as the sixth Secretary-General of the Commonwealth of Nations. She will become the first woman to hold the position from April 2016. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NYSE Post](http://nysepost.com/baroness-scotland-is-new-commonwealth-secretary-general-58487)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/22/typhoon-mindulle-is-forecast-to-make-landfall-n
 
 ### [2016-08-22](/news/2016/08/22/index.md)
 
+##### 2016 Pacific typhoon season
 # Typhoon Mindulle is forecast to make landfall near the Japanese capital Tokyo with flights and train services being cancelled. It arrives one day after Typhoon Kompasu. 
 
 Tokyo was pummeled by rain and winds as Mindulle became the first typhoon to make landfall near the metropolitan region in 11 years on Monday, bringing the risk of floods and landslides.

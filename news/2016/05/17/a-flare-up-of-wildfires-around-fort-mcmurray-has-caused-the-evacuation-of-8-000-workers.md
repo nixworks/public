@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/17/a-flare-up-of-wildfires-around-fort-mcmurray-ha
 
 ### [2016-05-17](/news/2016/05/17/index.md)
 
+##### 2016 Fort McMurray wildfire
 # A flare up of wildfires around Fort McMurray has caused the evacuation of 8,000 workers. 
 
 A massive wildfire around the oil sands hub of Fort McMurray, Canada forces the evacuation of another 8,000 workers.

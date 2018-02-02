@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/22/the-king-of-bahrain-hamad-ibn-isa-al-khalifa-orders-the-release-of-political-prisoners-in-response-to-the-2011-bahraini-protests.html)  [JSON](/news/2011/02/22/the-king-of-bahrain-hamad-ibn-isa-al-khalifa-orders-the-release-of-political-prisoners-in-response-to-the-2011-bahraini-protests.json)  [XML](/news/2011/02/22/the-king-of-bahrain-hamad-ibn-isa-al-khalifa-orders-the-release-of-political-prisoners-in-response-to-the-2011-bahraini-protests.xml)  
+
 ### [2011-02-22](/news/2011/02/22/index.md)
 
+##### King of Bahrain
 # The King of Bahrain Hamad ibn Isa Al Khalifa orders the release of political prisoners in response to the 2011 Bahraini protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CF News](http://www.cfnews13.com/article/news/ap/february/210609/Bahrain-king-orders-release-of-political-prisoners)
 

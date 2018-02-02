@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/1/south-korea-bans-three-japanese-lawmakers-all-from-the-liberal-democratic-party-due-to-an-assertion-of-japanese-sovereignty-over-the-liancou.html)  [JSON](/news/2011/08/1/south-korea-bans-three-japanese-lawmakers-all-from-the-liberal-democratic-party-due-to-an-assertion-of-japanese-sovereignty-over-the-liancou.json)  [XML](/news/2011/08/1/south-korea-bans-three-japanese-lawmakers-all-from-the-liberal-democratic-party-due-to-an-assertion-of-japanese-sovereignty-over-the-liancou.xml)  
+
 ### [2011-08-1](/news/2011/08/1/index.md)
 
+##### South Korea
 # South Korea bans three Japanese lawmakers all from the Liberal Democratic Party due to an assertion of Japanese sovereignty over the Liancourt Rocks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Mainichi Shimbun](http://mdn.mainichi.jp/mdnnews/news/20110801p2g00m0dm006000c.html)
 2. [Yonhap](http://english.yonhapnews.co.kr/news/2011/08/01/33/0200000000AEN20110801004100315F.HTML)

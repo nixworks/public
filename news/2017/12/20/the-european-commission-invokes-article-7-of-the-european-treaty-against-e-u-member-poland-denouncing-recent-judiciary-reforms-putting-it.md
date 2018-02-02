@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/20/the-european-commission-invokes-article-7-of-th
 
 ### [2017-12-20](/news/2017/12/20/index.md)
 
+##### Judiciary reforms in Poland
 # The European Commission invokes Article 7 of the European Treaty against E.U. member Poland, denouncing recent judiciary reforms putting it under the political control of the ruling majority and citing "serious risk to the independence of the judiciary and the separation of powers". 
 
 European commission tells member states that Polish government has put fundamental democratic values at risk

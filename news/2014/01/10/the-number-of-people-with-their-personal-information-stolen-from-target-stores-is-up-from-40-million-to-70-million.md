@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/10/the-number-of-people-with-their-personal-information-stolen-from-target-stores-is-up-from-40-million-to-70-million.html)  [JSON](/news/2014/01/10/the-number-of-people-with-their-personal-information-stolen-from-target-stores-is-up-from-40-million-to-70-million.json)  [XML](/news/2014/01/10/the-number-of-people-with-their-personal-information-stolen-from-target-stores-is-up-from-40-million-to-70-million.xml)  
+
 ### [2014-01-10](/news/2014/01/10/index.md)
 
+##### Target Corporation
 # The number of people with their personal information stolen from Target stores is up from 40 million to 70 million. 
 
 Target ups the number of shoppers affected by the card hacking problems during holiday shopping season.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2014/01/10/news/companies/target-hacking/)
 

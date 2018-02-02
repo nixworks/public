@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/05/5/eleven-people-are-missing-after-a-chinese-cargo-ship-collides-with-a-marshall-islands-registered-container-ship-off-the-coast-of-hong-kong.html)  [JSON](/news/2014/05/5/eleven-people-are-missing-after-a-chinese-cargo-ship-collides-with-a-marshall-islands-registered-container-ship-off-the-coast-of-hong-kong.json)  [XML](/news/2014/05/5/eleven-people-are-missing-after-a-chinese-cargo-ship-collides-with-a-marshall-islands-registered-container-ship-off-the-coast-of-hong-kong.xml)  
+
 ### [2014-05-5](/news/2014/05/5/index.md)
 
+##### Eleven people are missing
 # Eleven people are missing after a Chinese cargo ship collides with a Marshall Islands registered container ship off the coast of Hong Kong. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2014/may/05/cargo-ships-collide-hong-kong-hong)
+1. [The Guardian](https://www.theguardian.com/world/2014/may/05/cargo-ships-collide-hong-kong-hong)
 
 ### Related:
 

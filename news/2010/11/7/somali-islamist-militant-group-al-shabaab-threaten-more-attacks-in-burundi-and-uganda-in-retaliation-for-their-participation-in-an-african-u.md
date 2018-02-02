@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/7/somali-islamist-militant-group-al-shabaab-threaten-more-attacks-in-burundi-and-uganda-in-retaliation-for-their-participation-in-an-african-u.html)  [JSON](/news/2010/11/7/somali-islamist-militant-group-al-shabaab-threaten-more-attacks-in-burundi-and-uganda-in-retaliation-for-their-participation-in-an-african-u.json)  [XML](/news/2010/11/7/somali-islamist-militant-group-al-shabaab-threaten-more-attacks-in-burundi-and-uganda-in-retaliation-for-their-participation-in-an-african-u.xml)  
+
 ### [2010-11-7](/news/2010/11/7/index.md)
 
+##### Somalia
 # Somali Islamist militant group al-Shabaab threaten more attacks in Burundi and Uganda in retaliation for their participation in an African Union peacekeeping operation in the country. Meanwhile, seven people are killed in fighting in the capital Mogadishu. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CP](http://www.google.com/hostednews/canadianpress/article/ALeqM5i-vywHi1QYecd2wE0Up_OcBehvlA?docId=5060528)
 

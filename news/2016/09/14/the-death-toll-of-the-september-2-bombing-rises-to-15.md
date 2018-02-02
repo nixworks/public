@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/14/the-death-toll-of-the-september-2-bombing-rises
 
 ### [2016-09-14](/news/2016/09/14/index.md)
 
+##### 2016 Davao City bombing
 # The death toll of the September 2 bombing rises to 15. 
 
 A 21-year-old pregnant woman who sustained a severe head injury from the Davao City bombing died on Monday. The death toll of the blast has risen to 15.

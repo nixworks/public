@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/22/a-decorated-combat-veteran-of-the-iraq-war-and-united-states-military-academy-west-point-u-s-army-staff-member-sgt-1st-class-michael-mc.html)  [JSON](/news/2013/05/22/a-decorated-combat-veteran-of-the-iraq-war-and-united-states-military-academy-west-point-u-s-army-staff-member-sgt-1st-class-michael-mc.json)  [XML](/news/2013/05/22/a-decorated-combat-veteran-of-the-iraq-war-and-united-states-military-academy-west-point-u-s-army-staff-member-sgt-1st-class-michael-mc.xml)  
+
 ### [2013-05-22](/news/2013/05/22/index.md)
 
+##### Iraq War
 # A decorated combat veteran of the Iraq War and United States Military Academy (West Point) U.S. Army staff member, Sgt. 1st Class Michael McClendon, is relieved of his duties for allegedly planting cameras to spy on female cadets. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://usnews.nbcnews.com/_news/2013/05/22/18426996-west-point-staff-member-accused-of-spying-on-female-cadets?lite)
 

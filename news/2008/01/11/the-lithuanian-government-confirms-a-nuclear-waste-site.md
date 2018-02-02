@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/11/the-lithuanian-government-confirms-a-nuclear-waste-site.html)  [JSON](/news/2008/01/11/the-lithuanian-government-confirms-a-nuclear-waste-site.json)  [XML](/news/2008/01/11/the-lithuanian-government-confirms-a-nuclear-waste-site.xml)  
+
 ### [2008-01-11](/news/2008/01/11/index.md)
 
+##### Lithuania
 #  The Lithuanian government confirms a nuclear waste site. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Alfa](http://www.alfa.lt/straipsnis/164096)
 

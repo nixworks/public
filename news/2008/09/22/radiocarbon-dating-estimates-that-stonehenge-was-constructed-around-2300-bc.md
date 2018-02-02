@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/22/radiocarbon-dating-estimates-that-stonehenge-was-constructed-around-2300-bc.html)  [JSON](/news/2008/09/22/radiocarbon-dating-estimates-that-stonehenge-was-constructed-around-2300-bc.json)  [XML](/news/2008/09/22/radiocarbon-dating-estimates-that-stonehenge-was-constructed-around-2300-bc.xml)  
+
 ### [2008-09-22](/news/2008/09/22/index.md)
 
+##### radiocarbon dating
 #  Radiocarbon dating estimates that Stonehenge was constructed around 2300 BC. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/sci/tech/7625145.stm)
 

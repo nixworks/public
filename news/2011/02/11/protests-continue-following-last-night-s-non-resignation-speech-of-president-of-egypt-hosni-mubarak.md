@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/11/protests-continue-following-last-night-s-non-resignation-speech-of-president-of-egypt-hosni-mubarak.html)  [JSON](/news/2011/02/11/protests-continue-following-last-night-s-non-resignation-speech-of-president-of-egypt-hosni-mubarak.json)  [XML](/news/2011/02/11/protests-continue-following-last-night-s-non-resignation-speech-of-president-of-egypt-hosni-mubarak.xml)  
+
 ### [2011-02-11](/news/2011/02/11/index.md)
 
+##### President
 # Protests continue following last night's non-resignation speech of President of Egypt Hosni Mubarak. 
 
 Egyptian president stands down and hands over power to the Supreme Council for the Armed Forces.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://blogs.aljazeera.net/middle-east/2011/02/10/live-blog-feb-11-egypt-protests)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/201121125158705862.html)
@@ -17,21 +21,21 @@ Egyptian president stands down and hands over power to the Supreme Council for t
 8. [Reuters](http://af.reuters.com/article/egyptNews/idAFLDE7192I62011021)
 9. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/11/egypt-hosni-mubarak-left-cairo#block-5)
 10. [The Guardian](http://www.guardian.co.uk/world/blog/2011/feb/11/egypt-protests-mubarak)
-11. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/02/11/AR2011021102386.html)
+11. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2011/02/11/AR2011021102386.html)
 12. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-02/11/c_13728121.htm)
 13. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4027193,00.html)
 13. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/19/201091983334300734_20.jpg)
-
-### Related:
-
-1. [Former Egyptian President Hosni Mubarak is acquitted of involvement in the deaths of hundreds of anti-government protesters during the 2011 Egyptian revolution. ](/news/2017/03/2/former-egyptian-president-hosni-mubarak-is-acquitted-of-involvement-in-the-deaths-of-hundreds-of-anti-government-protesters-during-the-2011.md) _Context: Egyptian President, Hosni Mubarak_
-2. [Former President of Egypt Hosni Mubarak and his two sons are sentenced to three years imprisonment and a fine for corruption. ](/news/2015/05/9/former-president-of-egypt-hosni-mubarak-and-his-two-sons-are-sentenced-to-three-years-imprisonment-and-a-fine-for-corruption.md) _Context: Egyptian President, Hosni Mubarak_
-3. [Egypt's highest court overturns and initiates a retrial on the only remaining conviction against former President Hosni Mubarak (a May 2014 sentencing of three years in prison for embezzlement). ](/news/2015/01/13/egypt-s-highest-court-overturns-and-initiates-a-retrial-on-the-only-remaining-conviction-against-former-president-hosni-mubarak-a-may-2014.md) _Context: Egyptian President, Hosni Mubarak_
-4. [A Cairo court clears former President of Egypt Hosni Mubarak on murder charges related to the death of hundreds of protesters in the 2011 Egyptian revolution. ](/news/2014/11/29/a-cairo-court-clears-former-president-of-egypt-hosni-mubarak-on-murder-charges-related-to-the-death-of-hundreds-of-protesters-in-the-2011-eg.md) _Context: Egyptian President, Hosni Mubarak_
-5. [Former President of Egypt Hosni Mubarak is sentenced to three years in jail for embezzlement. ](/news/2014/05/21/former-president-of-egypt-hosni-mubarak-is-sentenced-to-three-years-in-jail-for-embezzlement.md) _Context: Egyptian President, Hosni Mubarak_
 
 ### Changes:
 
 1. [Egyptian Revolution of 2011 - Downfall of Hosni Mubarak:Protests continue following last night's non-resignation speech of President of Egypt Hosni Mubarak. ](/news/2011/02/11/egyptian-revolution-of-2011-downfall-of-hosni-mubarak-pprotests-continue-following-last-night-s-non-resignation-speech-of-president-of-egy.md) _2017-08-25 03:32:08 (First version)_
 2. [Egyptian Revolution of 2011 - Downfall of Hosni Mubarak:: Protests continue following last night's non-resignation speech of President of Egypt Hosni Mubarak. ](/news/2011/02/11/egyptian-revolution-of-2011-downfall-of-hosni-mubarak-protests-continue-following-last-night-s-non-resignation-speech-of-president-of-eg.md) _2017-08-27 03:32:17 (Update)_
 2. [Protests continue following last night's non-resignation speech of President of Egypt Hosni Mubarak. ](/news/2011/02/11/protests-continue-following-last-night-s-non-resignation-speech-of-president-of-egypt-hosni-mubarak.md) _(Current version)_
+
+### Related:
+
+1. [Former Egyptian President Hosni Mubarak is acquitted of involvement in the deaths of hundreds of anti-government protesters during the 2011 Egyptian revolution. ](/news/2017/03/2/former-egyptian-president-hosni-mubarak-is-acquitted-of-involvement-in-the-deaths-of-hundreds-of-anti-government-protesters-during-the-2011.md) _Context: Hosni Mubarak, President_
+2. [Former President of Egypt Hosni Mubarak and his two sons are sentenced to three years imprisonment and a fine for corruption. ](/news/2015/05/9/former-president-of-egypt-hosni-mubarak-and-his-two-sons-are-sentenced-to-three-years-imprisonment-and-a-fine-for-corruption.md) _Context: Hosni Mubarak, President_
+3. [Egypt's highest court overturns and initiates a retrial on the only remaining conviction against former President Hosni Mubarak (a May 2014 sentencing of three years in prison for embezzlement). ](/news/2015/01/13/egypt-s-highest-court-overturns-and-initiates-a-retrial-on-the-only-remaining-conviction-against-former-president-hosni-mubarak-a-may-2014.md) _Context: Hosni Mubarak, President_
+4. [A Cairo court clears former President of Egypt Hosni Mubarak on murder charges related to the death of hundreds of protesters in the 2011 Egyptian revolution. ](/news/2014/11/29/a-cairo-court-clears-former-president-of-egypt-hosni-mubarak-on-murder-charges-related-to-the-death-of-hundreds-of-protesters-in-the-2011-eg.md) _Context: Hosni Mubarak, President_
+5. [Former President of Egypt Hosni Mubarak is sentenced to three years in jail for embezzlement. ](/news/2014/05/21/former-president-of-egypt-hosni-mubarak-is-sentenced-to-three-years-in-jail-for-embezzlement.md) _Context: Hosni Mubarak, President_

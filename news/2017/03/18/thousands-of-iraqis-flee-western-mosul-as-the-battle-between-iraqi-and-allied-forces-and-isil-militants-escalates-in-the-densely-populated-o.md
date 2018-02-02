@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/18/thousands-of-iraqis-flee-western-mosul-as-the-b
 
 ### [2017-03-18](/news/2017/03/18/index.md)
 
+##### Battle of Mosul
 # Thousands of Iraqis flee western Mosul as the battle between Iraqi and allied forces and ISIL militants escalates in the densely populated Old City. 
 
  Thousands of Iraqis surged out of western Mosul on Saturday during a lull in heavy fighting in districts around the densely populated Old City where Iraqi forc

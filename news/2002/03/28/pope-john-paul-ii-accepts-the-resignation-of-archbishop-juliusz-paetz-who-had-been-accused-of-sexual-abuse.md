@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/03/28/pope-john-paul-ii-accepts-the-resignation-of-archbishop-juliusz-paetz-who-had-been-accused-of-sexual-abuse.html)  [JSON](/news/2002/03/28/pope-john-paul-ii-accepts-the-resignation-of-archbishop-juliusz-paetz-who-had-been-accused-of-sexual-abuse.json)  [XML](/news/2002/03/28/pope-john-paul-ii-accepts-the-resignation-of-archbishop-juliusz-paetz-who-had-been-accused-of-sexual-abuse.xml)  
+
 ### [2002-03-28](/news/2002/03/28/index.md)
 
+##### Pope John Paul II
 # Pope John Paul II accepts the resignation of Archbishop Juliusz Paetz, who had been accused of sexual abuse.
 
 

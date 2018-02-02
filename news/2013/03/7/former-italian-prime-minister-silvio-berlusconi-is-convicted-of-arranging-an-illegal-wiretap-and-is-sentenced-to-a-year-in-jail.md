@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/7/former-italian-prime-minister-silvio-berlusconi-is-convicted-of-arranging-an-illegal-wiretap-and-is-sentenced-to-a-year-in-jail.html)  [JSON](/news/2013/03/7/former-italian-prime-minister-silvio-berlusconi-is-convicted-of-arranging-an-illegal-wiretap-and-is-sentenced-to-a-year-in-jail.json)  [XML](/news/2013/03/7/former-italian-prime-minister-silvio-berlusconi-is-convicted-of-arranging-an-illegal-wiretap-and-is-sentenced-to-a-year-in-jail.xml)  
+
 ### [2013-03-7](/news/2013/03/7/index.md)
 
+##### Italy
 # Former Italian Prime Minister Silvio Berlusconi is convicted of arranging an illegal wiretap and is sentenced to a year in jail. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21698802)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/66253000/jpg/_66253777_66252993.jpg)

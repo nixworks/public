@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/8/republican-presidential-front-runner-donald-trump-early-tuesday-rejected-criticism-of-his-call-to-shut-the-door-on-muslims-entering-the-u.html)  [JSON](/news/2015/12/8/republican-presidential-front-runner-donald-trump-early-tuesday-rejected-criticism-of-his-call-to-shut-the-door-on-muslims-entering-the-u.json)  [XML](/news/2015/12/8/republican-presidential-front-runner-donald-trump-early-tuesday-rejected-criticism-of-his-call-to-shut-the-door-on-muslims-entering-the-u.xml)  
+
 ### [2015-12-8](/news/2015/12/8/index.md)
 
+##### Republican
 # Republican presidential front-runner Donald Trump early Tuesday rejected criticism of his call to "shut the door" on Muslims entering the U.S. during a heated round of interviews in which he said he was not worried about being compared to Hitler. 
 
 Trump stressed that his plan to prevent Muslims from entering the U.S. was &quot;temporary.&quot;
 
 
-### Source:
+### Sources:
 
 1. [The Hill](http://thehill.com/blogs/ballot-box/presidential-races/262410-trump-were-at-war-get-it-through-your-head)
 1. [Cover Image](http://thehill.com/sites/default/files/blogs/donaldtrump212-3-15.jpg)

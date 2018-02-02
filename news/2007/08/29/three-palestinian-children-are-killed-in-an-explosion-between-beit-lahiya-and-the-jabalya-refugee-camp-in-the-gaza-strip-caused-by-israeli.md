@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/29/three-palestinian-children-are-killed-in-an-explosion-between-beit-lahiya-and-the-jabalya-refugee-camp-in-the-gaza-strip-caused-by-israeli.html)  [JSON](/news/2007/08/29/three-palestinian-children-are-killed-in-an-explosion-between-beit-lahiya-and-the-jabalya-refugee-camp-in-the-gaza-strip-caused-by-israeli.json)  [XML](/news/2007/08/29/three-palestinian-children-are-killed-in-an-explosion-between-beit-lahiya-and-the-jabalya-refugee-camp-in-the-gaza-strip-caused-by-israeli.xml)  
+
 ### [2007-08-29](/news/2007/08/29/index.md)
 
+##### Palestinian
 #  Three Palestinian children are killed in an explosion between Beit Lahiya and the Jabalya refugee camp in the Gaza Strip caused by Israeli tank fire. The Israeli Defence Forces later claim they were aiming for rocket launchers in the area directed towards Israel, but eyewitnesses and medical sources said that there were no gunmen or rocket launchers at the scene. 
 
 Eyewitnesses in Gaza say girl, two boys killed and a number of other children injured from IDF artillery shell fired at group of people between Beit Lahiya and Jabalya refugee camp in the northern strip; IDF sources say military attacked rocket launchers
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6969111.stm)
 2. [YNet](http://www.ynetnews.com/articles/0,7340,L-3443544,00.html)

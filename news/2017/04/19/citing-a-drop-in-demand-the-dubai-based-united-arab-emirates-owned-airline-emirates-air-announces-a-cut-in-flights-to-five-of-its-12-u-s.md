@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/19/citing-a-drop-in-demand-the-dubai-based-united-
 
 ### [2017-04-19](/news/2017/04/19/index.md)
 
+##### Dubai
 # Citing a drop in demand, the Dubai-based, United Arab Emirates-owned airline Emirates Air announces a cut in flights to five of its 12 U.S. destinations. The airline's Dubai hub, third-busiest in the world, is a major stop for travelers in countries affected by President Donald Trump's travel ban, and is also one of several Middle East airports affected by a U.S. ban on tablets, laptops, and similar devices in the passenger cabin. 
 
 Emirates, the Middle East&apos;s biggest airline, said it is cutting flights to the U.S. because of a drop in demand caused by heightened U.S. security measures and Trump administration attempts to ban...

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/4/campaigning-gets-underway-in-japan-for-the-house-of-councillors-election-with-voting-to-start-on-july-21.html)  [JSON](/news/2013/07/4/campaigning-gets-underway-in-japan-for-the-house-of-councillors-election-with-voting-to-start-on-july-21.json)  [XML](/news/2013/07/4/campaigning-gets-underway-in-japan-for-the-house-of-councillors-election-with-voting-to-start-on-july-21.xml)  
+
 ### [2013-07-4](/news/2013/07/4/index.md)
 
+##### Japan
 # Campaigning gets underway in Japan for the House of Councillors election with voting to start on July 21. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/world/2013-07/04/c_132510412.htm)
 
@@ -15,4 +19,4 @@
 2. [Two Japanese ministers are censured by the House of Councillors over a territorial dispute with China. ](/news/2010/11/27/two-japanese-ministers-are-censured-by-the-house-of-councillors-over-a-territorial-dispute-with-china.md) _Context: House of Councillors, Japan_
 3. [ Japan's House of Councillors passes a censure motion against the Prime Minister of Japan Yasuo Fukuda, the first such motion to be passed since World War II. ](/news/2008/06/11/japan-s-house-of-councillors-passes-a-censure-motion-against-the-prime-minister-of-japan-yasuo-fukuda-the-first-such-motion-to-be-passed-s.md) _Context: House of Councillors, Japan_
 4. [ Japanese voters go to the polls for elections for half of the House of Councillors. The ruling coalition of the Liberal Democratic Party and New Komeito Party lost seats with the opposition Democratic Party of Japan becoming the largest party in the chamber. ](/news/2007/07/29/japanese-voters-go-to-the-polls-for-elections-for-half-of-the-house-of-councillors-the-ruling-coalition-of-the-liberal-democratic-party-an.md) _Context: House of Councillors, Japan_
-5. [Japan's third-biggest steelmaker, Kobe Steel, admits to falsification of product data. About four percent of the aluminum and copper products that it shipped from September 2016 to August 2017 were falsely labeled as meeting the specifications requested by 200 customers, including Toyota Motor Corp, Central Japan Railway Company, Mitsubishi Heavy Industries, Mazda Motor Corp, and Subaru Corp. ](/news/2017/10/9/japan-s-third-biggest-steelmaker-kobe-steel-admits-to-falsification-of-product-data-about-four-percent-of-the-aluminum-and-copper-product.md) _Context: Japan_
+5. [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md) _Context: Japan_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/30/prime-minister-of-israel-ehud-olmert-announces-his-intention-to-resign-as-prime-minister-in-two-months-as-his-kadima-party-chooses-a-new-le.html)  [JSON](/news/2008/07/30/prime-minister-of-israel-ehud-olmert-announces-his-intention-to-resign-as-prime-minister-in-two-months-as-his-kadima-party-chooses-a-new-le.json)  [XML](/news/2008/07/30/prime-minister-of-israel-ehud-olmert-announces-his-intention-to-resign-as-prime-minister-in-two-months-as-his-kadima-party-chooses-a-new-le.xml)  
+
 ### [2008-07-30](/news/2008/07/30/index.md)
 
+##### Israeli Prime Minister
 #  Prime Minister of Israel Ehud Olmert announces his intention to resign as Prime Minister in two months as his Kadima party chooses a new leader. He will also resign as Chairman of Kadima effective in two months. One reason for resignation is the corruption scandal in which Olmert is embattled. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7533855.stm)
 

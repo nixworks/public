@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/27/u-s-bankruptcy-court-judge-sean-lane-who-is-overseeing-the-case-of-the-bankruptcy-reorganization-of-american-airlines-gives-his-required.html)  [JSON](/news/2013/11/27/u-s-bankruptcy-court-judge-sean-lane-who-is-overseeing-the-case-of-the-bankruptcy-reorganization-of-american-airlines-gives-his-required.json)  [XML](/news/2013/11/27/u-s-bankruptcy-court-judge-sean-lane-who-is-overseeing-the-case-of-the-bankruptcy-reorganization-of-american-airlines-gives-his-required.xml)  
+
 ### [2013-11-27](/news/2013/11/27/index.md)
 
+##### American Airlines
 # U.S. Bankruptcy Court Judge Sean Lane, who is overseeing the case of the bankruptcy reorganization of American Airlines, gives his required approval to the American Airlines-US Airways merger, dismissing the objection of a passenger's group, clearing the way for it to go forward in December 2013 unless there is an appeal. 
 
 Bankruptcy court judge approves anti-trust settlement with Justice Department, clearing way for American Airlines and US Air to merge on Dec. 9.
 
 
-### Source:
+### Sources:
 
 1. [CNN Money](http://money.cnn.com/2013/11/27/news/companies/american-us-air-merger/index.html?hpt=hp_t2)
 

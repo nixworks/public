@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/28/queensland-australia-authorities-revise-the-estimated-amount-of-sulphuric-acid-leaked-from-sunday-s-26-carriage-aurizon-freight-train-dera.html)  [JSON](/news/2015/12/28/queensland-australia-authorities-revise-the-estimated-amount-of-sulphuric-acid-leaked-from-sunday-s-26-carriage-aurizon-freight-train-dera.json)  [XML](/news/2015/12/28/queensland-australia-authorities-revise-the-estimated-amount-of-sulphuric-acid-leaked-from-sunday-s-26-carriage-aurizon-freight-train-dera.xml)  
+
 ### [2015-12-28](/news/2015/12/28/index.md)
 
+##### Queensland
 # Queensland, Australia, authorities revise the estimated amount of sulphuric acid leaked from Sunday's 26-carriage Aurizon freight train derailment near Julia Creek to 31,500 liters. The train was carrying 819,000 liters, not 200,000 liters as originally thought. Flinders Highway remains closed in both directions. 
 
 Police set up an exclusion zone around the wreckage in the Australian outback and three people suffer minor injuries.
 
 
-### Source:
+### Sources:
 
 1. [ABC Australia](http://www.abc.net.au/news/2015-12-28/freight-train-derailment-emergency-continues-near-julia-creek/7056322)
 2. [Sky News](http://news.sky.com/story/1613206/freight-train-carrying-sulphuric-acid-derails)

@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2014/01/29/scientists-find-a-way-to-convert-normal-cells-into-stem-cells-which-can-be-used-for-any-part-of-the-body-previously-the-standard-method-o.html)  [JSON](/news/2014/01/29/scientists-find-a-way-to-convert-normal-cells-into-stem-cells-which-can-be-used-for-any-part-of-the-body-previously-the-standard-method-o.json)  [XML](/news/2014/01/29/scientists-find-a-way-to-convert-normal-cells-into-stem-cells-which-can-be-used-for-any-part-of-the-body-previously-the-standard-method-o.xml)  
+
 ### [2014-01-29](/news/2014/01/29/index.md)
 
+##### stem cells
 # Scientists find a way to convert normal cells into stem cells, which can be used for any part of the body. Previously, the standard method of obtaining stem cells was to get them from an embryo. 
 
+The new technique — a simple acid bath — has so far been used successfully only with cells from mice, but some researchers see human potential.
 
 
+### Sources:
 
-### Source:
-
-1. [The New York Times](http://www.nytimes.com/2014/01/30/business/study-says-new-method-could-be-a-quicker-source-of-stem-cells.html)
+1. [The New York Times](https://www.nytimes.com/2014/01/30/business/study-says-new-method-could-be-a-quicker-source-of-stem-cells.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

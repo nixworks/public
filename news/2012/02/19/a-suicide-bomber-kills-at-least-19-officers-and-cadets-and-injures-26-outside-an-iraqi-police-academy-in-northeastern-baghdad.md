@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/19/a-suicide-bomber-kills-at-least-19-officers-and-cadets-and-injures-26-outside-an-iraqi-police-academy-in-northeastern-baghdad.html)  [JSON](/news/2012/02/19/a-suicide-bomber-kills-at-least-19-officers-and-cadets-and-injures-26-outside-an-iraqi-police-academy-in-northeastern-baghdad.json)  [XML](/news/2012/02/19/a-suicide-bomber-kills-at-least-19-officers-and-cadets-and-injures-26-outside-an-iraqi-police-academy-in-northeastern-baghdad.xml)  
+
 ### [2012-02-19](/news/2012/02/19/index.md)
 
+##### suicide bomber
 # A suicide bomber kills at least 19 officers and cadets and injures 26 outside an Iraqi police academy in northeastern Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Trust.org](http://www.trust.org/alertnet/news/suicide-attack-on-baghdad-police-academy-kills-19/)
 

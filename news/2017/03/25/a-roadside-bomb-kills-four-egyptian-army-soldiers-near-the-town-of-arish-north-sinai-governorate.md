@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/25/a-roadside-bomb-kills-four-egyptian-army-soldie
 
 ### [2017-03-25](/news/2017/03/25/index.md)
 
+##### Sinai insurgency
 # A roadside bomb kills four Egyptian Army soldiers near the town of Arish, North Sinai Governorate. 
 
  Four Egyptian soldiers were killed in an explosion that hit their armored vehicle on Saturday in the northern Sinai peninsula, where the government is battling

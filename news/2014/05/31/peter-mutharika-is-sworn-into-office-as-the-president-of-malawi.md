@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/31/peter-mutharika-is-sworn-into-office-as-the-president-of-malawi.html)  [JSON](/news/2014/05/31/peter-mutharika-is-sworn-into-office-as-the-president-of-malawi.json)  [XML](/news/2014/05/31/peter-mutharika-is-sworn-into-office-as-the-president-of-malawi.xml)  
+
 ### [2014-05-31](/news/2014/05/31/index.md)
 
+##### Peter Mutharika
 # Peter Mutharika is sworn into office as the President of Malawi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Miami Herald](http://www.miamiherald.com/2014/05/31/4149013/malawi-election-panel-declares.html)
 

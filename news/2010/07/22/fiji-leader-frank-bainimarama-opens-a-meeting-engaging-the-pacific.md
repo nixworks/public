@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/22/fiji-leader-frank-bainimarama-opens-a-meeting-engaging-the-pacific.html)  [JSON](/news/2010/07/22/fiji-leader-frank-bainimarama-opens-a-meeting-engaging-the-pacific.json)  [XML](/news/2010/07/22/fiji-leader-frank-bainimarama-opens-a-meeting-engaging-the-pacific.xml)  
+
 ### [2010-07-22](/news/2010/07/22/index.md)
 
+##### Fiji
 # Fiji leader Frank Bainimarama opens a meeting, "Engaging the Pacific". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10722634)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

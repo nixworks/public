@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/18/somali-police-say-at-least-seven-are-dead-after
 
 ### [2016-10-18](/news/2016/10/18/index.md)
 
+##### War in Somalia
 # Somali police say at least seven are dead after clashes as Somali and African Union troops pushed back al-Shabab extremists from Afgooye, a town near Mogadishu. 
 
 MOGADISHU, Somalia (AP) — Somali police say at least seven are dead after hours of clashes as Somali and African Union troops pushed back al-Shabab extremists from a town near Mogadishu. The attacks in Afgoye started when…

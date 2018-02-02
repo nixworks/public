@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/8/qatar-emir-sheikh-tamim-bin-hamad-al-than-teleph
 
 ### [2017-09-8](/news/2017/09/8/index.md)
 
+##### 2017 Qatar diplomatic crisis
 # Qatar Emir Sheikh Tamim bin Hamad al-Than telephones Saudi Arabia Crown Prince Mohammad bin Salman to discuss the three-month old crisis. 
 
 Trump emphasized that unity among Washington&#039;s Arab partners &quot;is essential to promoting regional stability and countering the threat of Iran,&quot; according to a White House read out of the calls.

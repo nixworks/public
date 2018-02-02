@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/19/a-court-sentences-former-restaurant-spokesperson-jared-fogle-to-over-15-years-imprisonment-for-sex-with-minors-and-the-possession-of-child-p.html)  [JSON](/news/2015/11/19/a-court-sentences-former-restaurant-spokesperson-jared-fogle-to-over-15-years-imprisonment-for-sex-with-minors-and-the-possession-of-child-p.json)  [XML](/news/2015/11/19/a-court-sentences-former-restaurant-spokesperson-jared-fogle-to-over-15-years-imprisonment-for-sex-with-minors-and-the-possession-of-child-p.xml)  
+
 ### [2015-11-19](/news/2015/11/19/index.md)
 
+##### restaurant
 # A court sentences former restaurant spokesperson Jared Fogle to over 15 years imprisonment for sex with minors and the possession of child pornography. 
 
 A plea deal was reached in August, with the former Subway pitchman admitting to crossing state lines to pay to have sex with minors and receiving child pornography from the head of his charity.
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2015/11/19/456622271/jared-fogle-to-learn-sentence-for-sex-with-minors-child-pornography)
 1. [Cover Image](https://media.npr.org/assets/img/2015/11/19/ap_365484922617_wide-b0bd6c456e10467a4addddb440dc11cdf0eb628b.jpg?s=1400)

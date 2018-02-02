@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/9/thousands-of-wikileaks-supporters-launch-further-and-more-intense-denial-of-service-attack-against-companies-who-have-blacklisted-the-websit.html)  [JSON](/news/2010/12/9/thousands-of-wikileaks-supporters-launch-further-and-more-intense-denial-of-service-attack-against-companies-who-have-blacklisted-the-websit.json)  [XML](/news/2010/12/9/thousands-of-wikileaks-supporters-launch-further-and-more-intense-denial-of-service-attack-against-companies-who-have-blacklisted-the-websit.xml)  
+
 ### [2010-12-9](/news/2010/12/9/index.md)
 
+##### WikiLeaks
 # Thousands of WikiLeaks supporters launch further and more intense denial-of-service attack against companies who have blacklisted the website. 
 
 A group of computer hackers are planning to attack Amazon, the online retailer, over its treatment of the whistle-blowing website WikiLeaks.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/12/09/3088550.htm)
 2. [AFP via iafrica](http://news.iafrica.com/worldnews/693099.html)
@@ -24,22 +28,22 @@ A group of computer hackers are planning to attack Amazon, the online retailer, 
 15. [The Guardian](http://www.guardian.co.uk/media/2010/dec/09/operation-payback-wikileaks-anonymous)
 16. [The Guardian](http://www.guardian.co.uk/world/2010/dec/09/pakistani-newspaper-fake-leaks-india)
 17. [The Hindu](http://www.thehindu.com/news/international/article941267.ece)
-18. [The New York Times](http://www.nytimes.com/2010/12/10/world/europe/10wikileaks-react.html?partner=rss&emc=rss)
+18. [The New York Times](https://www.nytimes.com/2010/12/10/world/europe/10wikileaks-react.html?partner=rss&emc=rss)
 19. [The Sydney Morning Herald](http://www.smh.com.au/technology/technology-news/americans-supported-pragmatic-gillard-20101208-18pwk.html)
 20. [The Sydney Morning Herald](http://www.smh.com.au/technology/technology-news/mark-arbib-aka-cia-agent-007-20101209-18q50.html)
 21. [Times LIVE](http://www.timeslive.co.za/scitech/article806742.ece/US--China-has-no-morals-in-Africa)
 21. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01782/amazon_1782135a.jpg)
-
-### Related:
-
-1. [The WikiLeaks website is attacked by a computer-hacking operation and undergoes "a mass distributed denial of service attack" as it prepares to release more secret U.S. documents. Julian Assange says U.S. authorities are afraid of being held accountable for their actions. ](/news/2010/11/28/the-wikileaks-website-is-attacked-by-a-computer-hacking-operation-and-undergoes-a-mass-distributed-denial-of-service-attack-as-it-prepares.md) _Context: WikiLeaks, denial-of-service attack_
-2. [Swedish prosecutors drop a seven-year sexual assault investigation into WikiLeaks founder Julian Assange. ](/news/2017/05/19/swedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian-assange.md) _Context: WikiLeaks_
-3. [WikiLeaks releases thousands of documents that it claims provides details of surveillance software used by the United States Central Intelligence Agency. ](/news/2017/03/7/wikileaks-releases-thousands-of-documents-that-it-claims-provides-details-of-surveillance-software-used-by-the-united-states-central-intelli.md) _Context: WikiLeaks_
-4. [The President of the United States Barack Obama commutes the bulk of the sentence for Chelsea Manning for leaking documents to WikiLeaks. Manning will now be released in 2017 instead of 2045. ](/news/2017/01/17/the-president-of-the-united-states-barack-obama-commutes-the-bulk-of-the-sentence-for-chelsea-manning-for-leaking-documents-to-wikileaks-ma.md) _Context: WikiLeaks_
-5. [WikiLeaks releases 500 internal documents and emails allegedly from the American Embassy in Sana'a, Yemen. ](/news/2016/11/25/wikileaks-releases-500-internal-documents-and-emails-allegedly-from-the-american-embassy-in-sana-a-yemen.md) _Context: WikiLeaks_
 
 ### Changes:
 
 1. [United States diplomatic cables leak:Thousands of WikiLeaks supporters launch further and more intense denial-of-service attack against companies who have blacklisted the website. ](/news/2010/12/9/united-states-diplomatic-cables-leak-pthousands-of-wikileaks-supporters-launch-further-and-more-intense-denial-of-service-attack-against-com.md) _2017-08-25 03:31:20 (First version)_
 2. [United States diplomatic cables leak:: Thousands of WikiLeaks supporters launch further and more intense denial-of-service attack against companies who have blacklisted the website. ](/news/2010/12/9/united-states-diplomatic-cables-leak-thousands-of-wikileaks-supporters-launch-further-and-more-intense-denial-of-service-attack-against-co.md) _2017-08-27 03:31:28 (Update)_
 2. [Thousands of WikiLeaks supporters launch further and more intense denial-of-service attack against companies who have blacklisted the website. ](/news/2010/12/9/thousands-of-wikileaks-supporters-launch-further-and-more-intense-denial-of-service-attack-against-companies-who-have-blacklisted-the-websit.md) _(Current version)_
+
+### Related:
+
+1. [Swedish prosecutors drop a seven-year sexual assault investigation into WikiLeaks founder Julian Assange. ](/news/2017/05/19/swedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian-assange.md) _Context: WikiLeaks_
+2. [WikiLeaks releases thousands of documents that it claims provides details of surveillance software used by the United States Central Intelligence Agency. ](/news/2017/03/7/wikileaks-releases-thousands-of-documents-that-it-claims-provides-details-of-surveillance-software-used-by-the-united-states-central-intelli.md) _Context: WikiLeaks_
+3. [The President of the United States Barack Obama commutes the bulk of the sentence for Chelsea Manning for leaking documents to WikiLeaks. Manning will now be released in 2017 instead of 2045. ](/news/2017/01/17/the-president-of-the-united-states-barack-obama-commutes-the-bulk-of-the-sentence-for-chelsea-manning-for-leaking-documents-to-wikileaks-ma.md) _Context: WikiLeaks_
+4. [WikiLeaks releases 500 internal documents and emails allegedly from the American Embassy in Sana'a, Yemen. ](/news/2016/11/25/wikileaks-releases-500-internal-documents-and-emails-allegedly-from-the-american-embassy-in-sana-a-yemen.md) _Context: WikiLeaks_
+5. [Security analysts state that the October 21 denial-of-service attacks on Internet performance management company Dyn was perpetrated using Mirai malware-created botnets that used consumer internet of things (IoT) smart devices, such as digital video recorders, cable set-top boxes, routers, etc. Technology experts warn that the security included with IoT is weak, or sometimes even nonexistent. ](/news/2016/10/22/security-analysts-state-that-the-october-21-denial-of-service-attacks-on-internet-performance-management-company-dyn-was-perpetrated-using-m.md) _Context: denial-of-service attack_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/9/fierce-fighting-continues-between-u-s-forces-and-backers-of-shiite-cleric-moqtada-al-sadr-sadr-threatens-that-he-will-defend-najaf-until.html)  [JSON](/news/2004/08/9/fierce-fighting-continues-between-u-s-forces-and-backers-of-shiite-cleric-moqtada-al-sadr-sadr-threatens-that-he-will-defend-najaf-until.json)  [XML](/news/2004/08/9/fierce-fighting-continues-between-u-s-forces-and-backers-of-shiite-cleric-moqtada-al-sadr-sadr-threatens-that-he-will-defend-najaf-until.xml)  
+
 ### [2004-08-9](/news/2004/08/9/index.md)
 
+##### Muqtada al-Sadr
 #  Fierce fighting continues between U.S. forces and backers of Shiite cleric Moqtada al-Sadr. Sadr threatens that he "will defend Najaf until my last drop of blood." According to the U.S. military, U.S forces have killed 300 supporters of Sadr in some of the most violent clashes since the fall of Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [democracy now!](http://www.democracynow.org/article.pl?sid=04/08/09/1339206)
 

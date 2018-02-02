@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/16/ohi-nuclear-power-plant-in-japan-is-being-shut-down-due-a-technical-fault-fukushima-daiichi-nuclear-disaster-only-18-out-of-54-nuclear-pla.html)  [JSON](/news/2011/07/16/ohi-nuclear-power-plant-in-japan-is-being-shut-down-due-a-technical-fault-fukushima-daiichi-nuclear-disaster-only-18-out-of-54-nuclear-pla.json)  [XML](/news/2011/07/16/ohi-nuclear-power-plant-in-japan-is-being-shut-down-due-a-technical-fault-fukushima-daiichi-nuclear-disaster-only-18-out-of-54-nuclear-pla.xml)  
+
 ### [2011-07-16](/news/2011/07/16/index.md)
 
+##### Ohi Nuclear Power Plant
 # Ohi Nuclear Power Plant in Japan is being shut down due a technical fault, Fukushima Daiichi nuclear disaster. Only 18 out of 54 nuclear plants in Japan are currently producing electricity. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14171962)
 2. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/07/16/japan.nuclear.reactor/index.html?hpt=wo_c2)

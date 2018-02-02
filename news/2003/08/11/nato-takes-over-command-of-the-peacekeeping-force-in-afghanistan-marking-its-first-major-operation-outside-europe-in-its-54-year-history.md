@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/11/nato-takes-over-command-of-the-peacekeeping-force-in-afghanistan-marking-its-first-major-operation-outside-europe-in-its-54-year-history.html)  [JSON](/news/2003/08/11/nato-takes-over-command-of-the-peacekeeping-force-in-afghanistan-marking-its-first-major-operation-outside-europe-in-its-54-year-history.json)  [XML](/news/2003/08/11/nato-takes-over-command-of-the-peacekeeping-force-in-afghanistan-marking-its-first-major-operation-outside-europe-in-its-54-year-history.xml)  
+
 ### [2003-08-11](/news/2003/08/11/index.md)
 
+##### NATO
 #  NATO takes over command of the peacekeeping force in Afghanistan, marking its first major operation outside Europe in its 54-year history.
 
 

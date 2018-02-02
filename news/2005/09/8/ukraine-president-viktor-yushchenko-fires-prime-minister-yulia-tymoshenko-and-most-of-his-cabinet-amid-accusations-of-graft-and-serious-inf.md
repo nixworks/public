@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2005/09/8/ukraine-president-viktor-yushchenko-fires-prime-minister-yulia-tymoshenko-and-most-of-his-cabinet-amid-accusations-of-graft-and-serious-inf.html)  [JSON](/news/2005/09/8/ukraine-president-viktor-yushchenko-fires-prime-minister-yulia-tymoshenko-and-most-of-his-cabinet-amid-accusations-of-graft-and-serious-inf.json)  [XML](/news/2005/09/8/ukraine-president-viktor-yushchenko-fires-prime-minister-yulia-tymoshenko-and-most-of-his-cabinet-amid-accusations-of-graft-and-serious-inf.xml)  
+
 ### [2005-09-8](/news/2005/09/8/index.md)
 
-#  Ukraine President Viktor Yushchenko fires Prime Minister Yulia Tymoshenko and most of his cabinet amid accusations of graft and serious infighting. [http:--news.yahoo.com-s-nm-20050908-wl_nm-ukraine_dc (Yahoo! News)] (Link dead as of 00:43, 15 January 2007 (UTC))
+##### Ukraine
+#  Ukraine President Viktor Yushchenko fires Prime Minister Yulia Tymoshenko and most of his cabinet amid accusations of graft and serious infighting. [https:--news.yahoo.com-s-nm-20050908-wl_nm-ukraine_dc (Yahoo! News)] (Link dead as of 00:43, 15 January 2007 (UTC))
 
 
 

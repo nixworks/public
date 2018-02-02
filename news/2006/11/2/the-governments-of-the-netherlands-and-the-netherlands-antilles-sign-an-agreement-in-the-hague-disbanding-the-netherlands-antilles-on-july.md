@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/2/the-governments-of-the-netherlands-and-the-netherlands-antilles-sign-an-agreement-in-the-hague-disbanding-the-netherlands-antilles-on-july.html)  [JSON](/news/2006/11/2/the-governments-of-the-netherlands-and-the-netherlands-antilles-sign-an-agreement-in-the-hague-disbanding-the-netherlands-antilles-on-july.json)  [XML](/news/2006/11/2/the-governments-of-the-netherlands-and-the-netherlands-antilles-sign-an-agreement-in-the-hague-disbanding-the-netherlands-antilles-on-july.xml)  
+
 ### [2006-11-2](/news/2006/11/2/index.md)
 
+##### Netherlands
 #  The governments of the Netherlands and the Netherlands Antilles sign an agreement in The Hague, disbanding the Netherlands Antilles on July 1, 2007. The islands of Curaao and Sint Maarten become autonomous associated states within the Kingdom of the Netherlands, while Bonaire, Saba and Sint Eustatius become Dutch municipalities. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Nu.nl](http://www.nu.nl/news/871638/11/Cura%E7ao_en_Sint_Maarten_autonoom.html)
 

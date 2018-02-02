@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/13/political-tension-continues-in-papua-new-guinea-with-former-prime-minister-sir-michael-somare-expected-to-be-sworn-in-again-following-a-ruli.html)  [JSON](/news/2011/12/13/political-tension-continues-in-papua-new-guinea-with-former-prime-minister-sir-michael-somare-expected-to-be-sworn-in-again-following-a-ruli.json)  [XML](/news/2011/12/13/political-tension-continues-in-papua-new-guinea-with-former-prime-minister-sir-michael-somare-expected-to-be-sworn-in-again-following-a-ruli.xml)  
+
 ### [2011-12-13](/news/2011/12/13/index.md)
 
+##### Papua New Guinea
 # Political tension continues in Papua New Guinea with former Prime Minister Sir Michael Somare expected to be sworn in again following a ruling by the Supreme Court and incumbent PM Peter O'Neill refusing to stand aside. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16152534)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57284000/jpg/_57284964_013336011-1.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/16/zambia-investigates-an-incident-in-which-managers-at-a-chinese-run-mine-allegedly-shot-and-wounded-at-least-11-miners-who-had-objected-to-th.html)  [JSON](/news/2010/10/16/zambia-investigates-an-incident-in-which-managers-at-a-chinese-run-mine-allegedly-shot-and-wounded-at-least-11-miners-who-had-objected-to-th.json)  [XML](/news/2010/10/16/zambia-investigates-an-incident-in-which-managers-at-a-chinese-run-mine-allegedly-shot-and-wounded-at-least-11-miners-who-had-objected-to-th.xml)  
+
 ### [2010-10-16](/news/2010/10/16/index.md)
 
+##### Zambia
 # Zambia investigates an incident in which managers at a Chinese-run mine allegedly shot and wounded at least 11 miners who had objected to their working conditions. 
 
 Zambian police investigate claims that managers at a Chinese-run coal mine in the south of the country shot and wounded at least 11 local workers.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11558741)
 2. [Zambia Post](http://www.postzambia.com/post-read_article.php?articleId=14693)

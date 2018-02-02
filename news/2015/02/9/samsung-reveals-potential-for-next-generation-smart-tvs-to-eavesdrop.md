@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/9/samsung-reveals-potential-for-next-generation-smart-tvs-to-eavesdrop.html)  [JSON](/news/2015/02/9/samsung-reveals-potential-for-next-generation-smart-tvs-to-eavesdrop.json)  [XML](/news/2015/02/9/samsung-reveals-potential-for-next-generation-smart-tvs-to-eavesdrop.xml)  
+
 ### [2015-02-9](/news/2015/02/9/index.md)
 
+##### Samsung
 # Samsung reveals potential for next generation smart TVs to eavesdrop. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/729ca19a1daa451a8ea7808f18f97ba1/samsung-reveals-potential-smart-tvs-eavesdrop)
 

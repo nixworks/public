@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/01/21/2013-vienna-train-collision-two-trains-packed-with-morning-commuters-collide-in-vienna-suburb-austria-leaving-41-people-injured-five-of.html)  [JSON](/news/2013/01/21/2013-vienna-train-collision-two-trains-packed-with-morning-commuters-collide-in-vienna-suburb-austria-leaving-41-people-injured-five-of.json)  [XML](/news/2013/01/21/2013-vienna-train-collision-two-trains-packed-with-morning-commuters-collide-in-vienna-suburb-austria-leaving-41-people-injured-five-of.xml)  
+
 ### [2013-01-21](/news/2013/01/21/index.md)
 
+##### 2013 Vienna train collision
 # 2013 Vienna train collision: Two trains packed with morning commuters collide in Vienna suburb, Austria, leaving 41 people injured, five of them seriously. 
 
 Dozens of people are injured in a head-on collision between two commuter trains that were on the same railway track in Vienna.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/austria/9815155/Five-hurt-in-Vienna-rush-hour-train-crash.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-21120778)
-3. [Reuters](http://www.reuters.com/article/2013/01/21/us-austria-crash-idUSBRE90K0HW20130121)
+3. [Reuters](https://www.reuters.com/article/2013/01/21/us-austria-crash-idUSBRE90K0HW20130121)
 3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65409000/jpg/_65409409_65409408.jpg)
 
 ### Related:

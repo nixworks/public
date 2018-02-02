@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/10/u-s-diplomat-john-brown-who-joined-the-state-department-in-1981-resigned-he-said-that-the-bush-administration-s-iraq-policy-was-fomenti.html)  [JSON](/news/2003/03/10/u-s-diplomat-john-brown-who-joined-the-state-department-in-1981-resigned-he-said-that-the-bush-administration-s-iraq-policy-was-fomenti.json)  [XML](/news/2003/03/10/u-s-diplomat-john-brown-who-joined-the-state-department-in-1981-resigned-he-said-that-the-bush-administration-s-iraq-policy-was-fomenti.xml)  
+
 ### [2003-03-10](/news/2003/03/10/index.md)
 
+##### George W. Bush
 #  U.S. diplomat John Brown, who joined the State Department in 1981, resigned. He said that the Bush administration's Iraq policy was fomenting a massive rise in anti-US sentiment around the world and he could not support it.
 
 

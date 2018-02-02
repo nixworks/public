@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/24/a-knesset-parliamentary-delegation-to-the-council-of-europe-led-by-yohanan-plesner-seeks-to-block-a-key-vote-intent-on-establishing-an-int.html)  [JSON](/news/2010/06/24/a-knesset-parliamentary-delegation-to-the-council-of-europe-led-by-yohanan-plesner-seeks-to-block-a-key-vote-intent-on-establishing-an-int.json)  [XML](/news/2010/06/24/a-knesset-parliamentary-delegation-to-the-council-of-europe-led-by-yohanan-plesner-seeks-to-block-a-key-vote-intent-on-establishing-an-int.xml)  
+
 ### [2010-06-24](/news/2010/06/24/index.md)
 
+##### parliament in Israel
 # A Knesset parliamentary delegation to the Council of Europe, led by Yohanan Plesner, seeks to block a key vote intent on establishing an international probe into the Gaza flotilla raid. 
 
 Plessner: The Turks are opening another front against us.
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=179344)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=145125)

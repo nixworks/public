@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/9/waldir-maranhagbpo-the-acting-president-of-brazi
 
 ### [2016-05-9](/news/2016/05/9/index.md)
 
+##### Impeachment process against Dilma Rousseff
 # Waldir MaranhGBPo, the acting President of Brazil's Chamber of Deputies, says that the impeachment vote in that chamber should be annulled due to procedural irregularities and the voting process be held again. The Federal Senate is due to start voting on whether to impeach President Rousseff later this week. 
 
 RIO DE JANEIRO (AP) — The rollercoaster ride that is the impeachment drive against President Dilma Rousseff took another hairpin turn Tuesday after the acting speaker of Congress&#039; lower house reversed his own decision…

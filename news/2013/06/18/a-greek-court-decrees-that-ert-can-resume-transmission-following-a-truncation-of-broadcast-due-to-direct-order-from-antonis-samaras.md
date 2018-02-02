@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/18/a-greek-court-decrees-that-ert-can-resume-transmission-following-a-truncation-of-broadcast-due-to-direct-order-from-antonis-samaras.html)  [JSON](/news/2013/06/18/a-greek-court-decrees-that-ert-can-resume-transmission-following-a-truncation-of-broadcast-due-to-direct-order-from-antonis-samaras.json)  [XML](/news/2013/06/18/a-greek-court-decrees-that-ert-can-resume-transmission-following-a-truncation-of-broadcast-due-to-direct-order-from-antonis-samaras.xml)  
+
 ### [2013-06-18](/news/2013/06/18/index.md)
 
+##### ERT
 # A Greek court decrees that ERT can resume transmission, following a truncation of broadcast due to direct order from Antonis Samaras. 
 
 A Greek court suspends a government order to close state broadcaster ERT - a move that triggered mass protests - meaning transmission can resume.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-22945155)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68228000/jpg/_68228913_greece.jpg)

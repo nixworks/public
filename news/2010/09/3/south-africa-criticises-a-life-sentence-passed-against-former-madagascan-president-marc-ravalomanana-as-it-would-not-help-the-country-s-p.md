@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/3/south-africa-criticises-a-life-sentence-passed-against-former-madagascan-president-marc-ravalomanana-as-it-would-not-help-the-country-s-p.html)  [JSON](/news/2010/09/3/south-africa-criticises-a-life-sentence-passed-against-former-madagascan-president-marc-ravalomanana-as-it-would-not-help-the-country-s-p.json)  [XML](/news/2010/09/3/south-africa-criticises-a-life-sentence-passed-against-former-madagascan-president-marc-ravalomanana-as-it-would-not-help-the-country-s-p.xml)  
+
 ### [2010-09-3](/news/2010/09/3/index.md)
 
+##### South Africa
 # South Africa criticises a life sentence passed against former Madagascan President Marc Ravalomanana, as it would "not help" the country's political situation. 
 
 South Africa strongly criticises Madagascar over the life sentence passed on exiled President Marc Ravalomanana.
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica.com](http://allafrica.com/stories/201009030016.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11174975)

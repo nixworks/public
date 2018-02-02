@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/14/shootout-between-police-and-unknown-assailants-leaves-20-police-officers-dead-in-ashkhabad-turkmenistan.html)  [JSON](/news/2008/09/14/shootout-between-police-and-unknown-assailants-leaves-20-police-officers-dead-in-ashkhabad-turkmenistan.json)  [XML](/news/2008/09/14/shootout-between-police-and-unknown-assailants-leaves-20-police-officers-dead-in-ashkhabad-turkmenistan.xml)  
+
 ### [2008-09-14](/news/2008/09/14/index.md)
 
+##### Ashkhabad
 #  Shootout between police and unknown assailants leaves 20 police officers dead in Ashkhabad, Turkmenistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/world/twenty-police-killed-in-turkmenistan-20080914-4g1s.html)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/12/16/the-israeli-army-exchanges-fire-with-the-lebanese-army-after-a-suspected-sniper-attack-occurs-in-the-border-killing-an-israeli-soldier.html)  [JSON](/news/2013/12/16/the-israeli-army-exchanges-fire-with-the-lebanese-army-after-a-suspected-sniper-attack-occurs-in-the-border-killing-an-israeli-soldier.json)  [XML](/news/2013/12/16/the-israeli-army-exchanges-fire-with-the-lebanese-army-after-a-suspected-sniper-attack-occurs-in-the-border-killing-an-israeli-soldier.xml)  
+
 ### [2013-12-16](/news/2013/12/16/index.md)
 
+##### Israeli Army
 # The Israeli Army exchanges fire with the Lebanese Army after a suspected sniper attack occurs in the border killing an Israeli soldier. 
 
 Military liaison officers met with representatives of the United Nations peacekeeping force after an Israeli soldier was killed and Israeli forces returned fire.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2013/12/17/world/middleeast/israel-lebanon-border-shooting.html?_r=0)
+1. [The New York Times](https://www.nytimes.com/2013/12/17/world/middleeast/israel-lebanon-border-shooting.html?_r=0)
 1. [Cover Image](https://static01.nyt.com/images/2013/12/17/world/ISRAEL/ISRAEL-videoSixteenByNine1050.jpg)
 
 ### Related:

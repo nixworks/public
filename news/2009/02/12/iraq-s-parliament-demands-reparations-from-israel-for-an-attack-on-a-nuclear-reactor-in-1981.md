@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2009/02/12/iraq-s-parliament-demands-reparations-from-israel-for-an-attack-on-a-nuclear-reactor-in-1981.html)  [JSON](/news/2009/02/12/iraq-s-parliament-demands-reparations-from-israel-for-an-attack-on-a-nuclear-reactor-in-1981.json)  [XML](/news/2009/02/12/iraq-s-parliament-demands-reparations-from-israel-for-an-attack-on-a-nuclear-reactor-in-1981.xml)  
+
 ### [2009-02-12](/news/2009/02/12/index.md)
 
+##### Iraq
 #  Iraq's Parliament demands reparations from Israel for an attack on a nuclear reactor in 1981. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/hasen/spages/1063718.html)
+
+### Changes:
+
+1. [ Iraq's Parliament demands reparations from Israel for an attack on a nuclear reactor in 1981. [http:--www.haaretz.com-hasen-spages-1063718.html (Haaretz)].](/news/2009/02/12/iraq-s-parliament-demands-reparations-from-israel-for-an-attack-on-a-nuclear-reactor-in-1981-http-www-haaretz-com-hasen-spages-1063718.md) _2017-06-18 03:24:12 (First version)_
+1. [ Iraq's Parliament demands reparations from Israel for an attack on a nuclear reactor in 1981. ](/news/2009/02/12/iraq-s-parliament-demands-reparations-from-israel-for-an-attack-on-a-nuclear-reactor-in-1981.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [Iraq's Parliament cancels its third session in a week to discuss political reforms as some MPs dispute the legitimacy of speaker Salim al-Jabouri to chair the meeting. Also, protesters gathered in the streets of Baghdad to protest the growing political deadlock in the country. ](/news/2016/04/16/iraq-s-parliament-cancels-its-third-session-in-a-week-to-discuss-political-reforms-as-some-mps-dispute-the-legitimacy-of-speaker-salim-al-ja.md) _Context: Iraq, Iraqi Parliament_
 4. [The Iraqi Council of Representatives convenes in Baghdad three months after inconclusive elections. ](/news/2010/06/14/the-iraqi-council-of-representatives-convenes-in-baghdad-three-months-after-inconclusive-elections.md) _Context: Iraq, Iraqi Parliament_
 5. [ The head of the fourth largest coalition in the Iraqi parliament, Harith al-Obeidi, is assassinated in west Baghdad. ](/news/2009/06/12/the-head-of-the-fourth-largest-coalition-in-the-iraqi-parliament-harith-al-obeidi-is-assassinated-in-west-baghdad.md) _Context: Iraq, Iraqi Parliament_
-
-### Changes:
-
-1. [ Iraq's Parliament demands reparations from Israel for an attack on a nuclear reactor in 1981. [http:--www.haaretz.com-hasen-spages-1063718.html (Haaretz)].](/news/2009/02/12/iraq-s-parliament-demands-reparations-from-israel-for-an-attack-on-a-nuclear-reactor-in-1981-http-www-haaretz-com-hasen-spages-1063718.md) _2017-06-18 03:24:12 (First version)_
-1. [ Iraq's Parliament demands reparations from Israel for an attack on a nuclear reactor in 1981. ](/news/2009/02/12/iraq-s-parliament-demands-reparations-from-israel-for-an-attack-on-a-nuclear-reactor-in-1981.md) _(Current version)_

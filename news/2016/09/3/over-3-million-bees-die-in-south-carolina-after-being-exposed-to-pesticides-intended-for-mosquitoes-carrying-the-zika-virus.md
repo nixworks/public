@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/3/over-3-million-bees-die-in-south-carolina-after-
 
 ### [2016-09-3](/news/2016/09/3/index.md)
 
+##### Bees and toxic chemicals
 # Over 3 million bees die in South Carolina after being exposed to pesticides intended for mosquitoes carrying the Zika virus. 
 
 Dorchester County, in South Carolina, was worried about the risk posed by Zika. So officials recently ordered that a pesticide be sprayed from planes. Local beehives have been devastated.

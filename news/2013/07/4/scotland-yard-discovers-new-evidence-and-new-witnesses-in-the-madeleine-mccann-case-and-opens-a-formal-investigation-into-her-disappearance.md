@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/4/scotland-yard-discovers-new-evidence-and-new-witnesses-in-the-madeleine-mccann-case-and-opens-a-formal-investigation-into-her-disappearance.html)  [JSON](/news/2013/07/4/scotland-yard-discovers-new-evidence-and-new-witnesses-in-the-madeleine-mccann-case-and-opens-a-formal-investigation-into-her-disappearance.json)  [XML](/news/2013/07/4/scotland-yard-discovers-new-evidence-and-new-witnesses-in-the-madeleine-mccann-case-and-opens-a-formal-investigation-into-her-disappearance.xml)  
+
 ### [2013-07-4](/news/2013/07/4/index.md)
 
+##### Metropolitan Police Service
 # Scotland Yard discovers new evidence and new witnesses in the Madeleine McCann case and opens a formal investigation into her disappearance. 
 
 Scotland Yard says it has &quot;new evidence and new witnesses&quot; in the Madeleine McCann case as it opens a formal investigation into her disappearance.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-23179230)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/55253000/jpg/_55253854_maddy2.jpg)

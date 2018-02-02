@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/18/relatives-of-srebrenica-massacre-victims-open-a-case-in-a-dutch-court-against-the-united-nations-and-the-netherlands-for-the-failure-of-the.html)  [JSON](/news/2008/06/18/relatives-of-srebrenica-massacre-victims-open-a-case-in-a-dutch-court-against-the-united-nations-and-the-netherlands-for-the-failure-of-the.json)  [XML](/news/2008/06/18/relatives-of-srebrenica-massacre-victims-open-a-case-in-a-dutch-court-against-the-united-nations-and-the-netherlands-for-the-failure-of-the.xml)  
+
 ### [2008-06-18](/news/2008/06/18/index.md)
 
+##### Srebrenica massacre
 #  Relatives of Srebrenica massacre victims open a case in a Dutch court against the United Nations and the Netherlands for the failure of the Dutchbat force to prevent the killings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7461310.stm)
 

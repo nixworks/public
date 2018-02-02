@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/1/greg-abbott-the-governor-of-the-us-state-of-texa
 
 ### [2016-06-1](/news/2016/06/1/index.md)
 
+##### Greg Abbott
 # Greg Abbott, the Governor of the US state of Texas, declares a disaster in 31 counties due to floods which have claimed several lives in recent days. 
 
 Gov. Greg Abbott declared a state of disaster in 31 counties across the state on Wednesday.

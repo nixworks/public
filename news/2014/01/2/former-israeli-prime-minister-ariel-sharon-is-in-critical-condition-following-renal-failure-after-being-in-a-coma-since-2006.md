@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/2/former-israeli-prime-minister-ariel-sharon-is-in-critical-condition-following-renal-failure-after-being-in-a-coma-since-2006.html)  [JSON](/news/2014/01/2/former-israeli-prime-minister-ariel-sharon-is-in-critical-condition-following-renal-failure-after-being-in-a-coma-since-2006.json)  [XML](/news/2014/01/2/former-israeli-prime-minister-ariel-sharon-is-in-critical-condition-following-renal-failure-after-being-in-a-coma-since-2006.xml)  
+
 ### [2014-01-2](/news/2014/01/2/index.md)
 
+##### Israeli Prime Minister
 # Former Israeli Prime Minister Ariel Sharon is in critical condition following renal failure after being in a coma since 2006. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/01/02/world/meast/israel-ariel-sharon/index.html?hpt=hp_t2)
 

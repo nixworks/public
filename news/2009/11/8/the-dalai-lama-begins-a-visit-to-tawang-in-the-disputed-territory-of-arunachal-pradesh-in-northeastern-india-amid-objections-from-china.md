@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/8/the-dalai-lama-begins-a-visit-to-tawang-in-the-disputed-territory-of-arunachal-pradesh-in-northeastern-india-amid-objections-from-china.html)  [JSON](/news/2009/11/8/the-dalai-lama-begins-a-visit-to-tawang-in-the-disputed-territory-of-arunachal-pradesh-in-northeastern-india-amid-objections-from-china.json)  [XML](/news/2009/11/8/the-dalai-lama-begins-a-visit-to-tawang-in-the-disputed-territory-of-arunachal-pradesh-in-northeastern-india-amid-objections-from-china.xml)  
+
 ### [2009-11-8](/news/2009/11/8/index.md)
 
+##### 14th Dalai Lama
 #  The Dalai Lama begins a visit to Tawang, in the disputed territory of Arunachal Pradesh in northeastern India, amid objections from China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8349010.stm)
 2. [Hindustan Times](http://www.hindustantimes.com/india/Dalai-Lama-gets-rousing-reception-in-Tawang/474149/H1-Article1-474070.aspx)

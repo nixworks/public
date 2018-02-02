@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/18/the-united-nations-fires-one-employee-and-suspends-six-others-without-pay-for-allegations-of-sexual-abuse-in-the-democratic-republic-of-con.html)  [JSON](/news/2005/03/18/the-united-nations-fires-one-employee-and-suspends-six-others-without-pay-for-allegations-of-sexual-abuse-in-the-democratic-republic-of-con.json)  [XML](/news/2005/03/18/the-united-nations-fires-one-employee-and-suspends-six-others-without-pay-for-allegations-of-sexual-abuse-in-the-democratic-republic-of-con.xml)  
+
 ### [2005-03-18](/news/2005/03/18/index.md)
 
+##### United Nations
 #  The United Nations fires one employee and suspends six others without pay for allegations of sexual abuse in the Democratic Republic of Congo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N17189681.htm)
 2. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=13695&Cr=democratic&Cr1=congo)

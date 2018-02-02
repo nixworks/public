@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/5/national-security-agency-director-admiral-mike-r
 
 ### [2018-01-5](/news/2018/01/5/index.md)
 
+##### Politics of the United States
 # National Security Agency director Admiral Mike Rogers plans to retire this spring. President Donald Trump is expected to nominate a successor later this month. 
 
 It&#39;s expected that Donald Trump will nominate Rogers&#39; successor this month.

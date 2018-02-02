@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/04/9/six-people-are-killed-in-clashes-between-protesters-and-police-near-srinagar-in-the-disputed-region-of-kashmir-valley-during-a-by-election.html)  [JSON](/news/2017/04/9/six-people-are-killed-in-clashes-between-protesters-and-police-near-srinagar-in-the-disputed-region-of-kashmir-valley-during-a-by-election.json)  [XML](/news/2017/04/9/six-people-are-killed-in-clashes-between-protesters-and-police-near-srinagar-in-the-disputed-region-of-kashmir-valley-during-a-by-election.xml)  
+
 ### [2017-04-9](/news/2017/04/9/index.md)
 
+##### Srinagar (Lok Sabha constituency) by-election, 2017
 # Six people are killed in clashes between protesters and police near Srinagar in the disputed region of Kashmir Valley, during a by-election for a vacant seat in the Indian Lok Sabha. 
 
 Violence erupted as thousands protesting against Indian rule stormed polling stations.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-39550551)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/768A/production/_95564303_8c42b1f6-0de5-4642-bd11-11bacb1185f5.jpg)

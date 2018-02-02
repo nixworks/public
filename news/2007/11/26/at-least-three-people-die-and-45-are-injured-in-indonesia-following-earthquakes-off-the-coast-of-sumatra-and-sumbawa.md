@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/26/at-least-three-people-die-and-45-are-injured-in-indonesia-following-earthquakes-off-the-coast-of-sumatra-and-sumbawa.html)  [JSON](/news/2007/11/26/at-least-three-people-die-and-45-are-injured-in-indonesia-following-earthquakes-off-the-coast-of-sumatra-and-sumbawa.json)  [XML](/news/2007/11/26/at-least-three-people-die-and-45-are-injured-in-indonesia-following-earthquakes-off-the-coast-of-sumatra-and-sumbawa.xml)  
+
 ### [2007-11-26](/news/2007/11/26/index.md)
 
+##### Indonesia
 #  At least three people die and 45 are injured in Indonesia following earthquakes off the coast of Sumatra and Sumbawa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA](http://voanews.com/english/2007-11-26-voa5.cfm)
 

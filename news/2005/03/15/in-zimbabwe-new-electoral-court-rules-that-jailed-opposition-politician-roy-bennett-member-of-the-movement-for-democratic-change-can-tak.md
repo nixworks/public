@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/15/in-zimbabwe-new-electoral-court-rules-that-jailed-opposition-politician-roy-bennett-member-of-the-movement-for-democratic-change-can-tak.html)  [JSON](/news/2005/03/15/in-zimbabwe-new-electoral-court-rules-that-jailed-opposition-politician-roy-bennett-member-of-the-movement-for-democratic-change-can-tak.json)  [XML](/news/2005/03/15/in-zimbabwe-new-electoral-court-rules-that-jailed-opposition-politician-roy-bennett-member-of-the-movement-for-democratic-change-can-tak.xml)  
+
 ### [2005-03-15](/news/2005/03/15/index.md)
 
+##### Zimbabwe
 #  In Zimbabwe, new electoral court rules that jailed opposition politician Roy Bennett, member of the Movement for Democratic Change, can take part of parliamentary elections on March 31. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica](http://allafrica.com/stories/200503150570.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4351491.stm)

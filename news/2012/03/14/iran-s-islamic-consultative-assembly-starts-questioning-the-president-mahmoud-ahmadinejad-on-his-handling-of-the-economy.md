@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/14/iran-s-islamic-consultative-assembly-starts-questioning-the-president-mahmoud-ahmadinejad-on-his-handling-of-the-economy.html)  [JSON](/news/2012/03/14/iran-s-islamic-consultative-assembly-starts-questioning-the-president-mahmoud-ahmadinejad-on-his-handling-of-the-economy.json)  [XML](/news/2012/03/14/iran-s-islamic-consultative-assembly-starts-questioning-the-president-mahmoud-ahmadinejad-on-his-handling-of-the-economy.xml)  
+
 ### [2012-03-14](/news/2012/03/14/index.md)
 
+##### Iran
 # Iran's Islamic Consultative Assembly starts questioning the President Mahmoud Ahmadinejad on his handling of the economy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4202661,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

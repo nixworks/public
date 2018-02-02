@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/7/ca-te-d-ivoire-is-expelled-from-the-economic-community-of-west-african-states-ecowas.html)  [JSON](/news/2010/12/7/ca-te-d-ivoire-is-expelled-from-the-economic-community-of-west-african-states-ecowas.json)  [XML](/news/2010/12/7/ca-te-d-ivoire-is-expelled-from-the-economic-community-of-west-african-states-ecowas.xml)  
+
 ### [2010-12-7](/news/2010/12/7/index.md)
 
+##### Cote d'Ivoire
 # Cote d'Ivoire is expelled from the Economic Community of West African States (ECOWAS). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/20101272090983941.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/7/2010127205431149876_20.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/28/israel-reduces-the-flow-of-oil-to-the-hamas-controlled-gaza-strip.html)  [JSON](/news/2007/10/28/israel-reduces-the-flow-of-oil-to-the-hamas-controlled-gaza-strip.json)  [XML](/news/2007/10/28/israel-reduces-the-flow-of-oil-to-the-hamas-controlled-gaza-strip.xml)  
+
 ### [2007-10-28](/news/2007/10/28/index.md)
 
+##### Israel
 #  Israel reduces the flow of oil to the Hamas-controlled Gaza Strip. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/meast/10/28/israel.gaza/index.html)
 

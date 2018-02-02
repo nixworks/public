@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/05/5/advanced-micro-devices-expands-a-licensing-agreement-with-arm-holdings-that-may-allow-amd-to-become-a-more-aggressive-competitor-in-the-mark.html)  [JSON](/news/2014/05/5/advanced-micro-devices-expands-a-licensing-agreement-with-arm-holdings-that-may-allow-amd-to-become-a-more-aggressive-competitor-in-the-mark.json)  [XML](/news/2014/05/5/advanced-micro-devices-expands-a-licensing-agreement-with-arm-holdings-that-may-allow-amd-to-become-a-more-aggressive-competitor-in-the-mark.xml)  
+
 ### [2014-05-5](/news/2014/05/5/index.md)
 
+##### Advanced Micro Devices
 # Advanced Micro Devices expands a licensing agreement with ARM Holdings that may allow AMD to become a more aggressive competitor in the market for chips outside the PC realm. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/05/05/us-amd-chips-idUSBREA440OO20140505)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2014/05/05/us-amd-chips-idUSBREA440OO20140505)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

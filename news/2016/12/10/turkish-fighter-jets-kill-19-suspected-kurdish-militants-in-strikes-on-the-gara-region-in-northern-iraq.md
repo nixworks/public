@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/10/turkish-fighter-jets-kill-19-suspected-kurdish-
 
 ### [2016-12-10](/news/2016/12/10/index.md)
 
+##### Kurdish-Turkish conflict (2015-present)
 #  Turkish fighter jets kill 19 suspected Kurdish militants in strikes on the Gara region in northern Iraq. 
 
 

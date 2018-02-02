@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/7/voters-in-montenegro-go-to-the-polls-for-a-presidential-election-with-both-candidates-declaring-themselves-winner.html)  [JSON](/news/2013/04/7/voters-in-montenegro-go-to-the-polls-for-a-presidential-election-with-both-candidates-declaring-themselves-winner.json)  [XML](/news/2013/04/7/voters-in-montenegro-go-to-the-polls-for-a-presidential-election-with-both-candidates-declaring-themselves-winner.xml)  
+
 ### [2013-04-7](/news/2013/04/7/index.md)
 
+##### Montenegro
 # Voters in Montenegro go to the polls for a presidential election with both candidates declaring themselves winner. 
 
 Incumbent Vujanovic holds lead in opinion polls going into election day, as statehood issue dominates voter concerns.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/04/201347172646632425.html)
 2. [Xinhua](http://news.xinhuanet.com/english/world/2013-04/08/c_124548773.htm)

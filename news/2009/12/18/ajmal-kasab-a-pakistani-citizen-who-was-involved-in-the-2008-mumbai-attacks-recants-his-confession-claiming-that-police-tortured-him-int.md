@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/18/ajmal-kasab-a-pakistani-citizen-who-was-involved-in-the-2008-mumbai-attacks-recants-his-confession-claiming-that-police-tortured-him-int.html)  [JSON](/news/2009/12/18/ajmal-kasab-a-pakistani-citizen-who-was-involved-in-the-2008-mumbai-attacks-recants-his-confession-claiming-that-police-tortured-him-int.json)  [XML](/news/2009/12/18/ajmal-kasab-a-pakistani-citizen-who-was-involved-in-the-2008-mumbai-attacks-recants-his-confession-claiming-that-police-tortured-him-int.xml)  
+
 ### [2009-12-18](/news/2009/12/18/index.md)
 
+##### Ajmal Kasab
 #  Ajmal Kasab, a Pakistani citizen who was involved in the 2008 Mumbai attacks, recants his confession, claiming that police tortured him into admitting his role in the attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hz0C0SXcxgP0NxzlqGA_EI57FBkQD9CLKT102)
 2. [Press Trust Of India](http://www.hindustantimes.com/News-Feed/mumbai/Kasab-denies-taking-part-in-Mumbai-terror-attacks/Article1-487949.aspx)

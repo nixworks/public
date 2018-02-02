@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/5/one-of-four-existing-aerocar-i-s-flying-cars-is-up-for-sale-for-us-3-5-million.html)  [JSON](/news/2006/09/5/one-of-four-existing-aerocar-i-s-flying-cars-is-up-for-sale-for-us-3-5-million.json)  [XML](/news/2006/09/5/one-of-four-existing-aerocar-i-s-flying-cars-is-up-for-sale-for-us-3-5-million.xml)  
+
 ### [2006-09-5](/news/2006/09/5/index.md)
 
+##### Aerocar I
 #  One of four existing Aerocar I's (flying cars) is up for sale for US$3.5 million. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Seattle Times](http://seattletimes.nwsource.com/html/localnews/2003243681_aerocar05m.html)
 

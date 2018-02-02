@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/4/naoto-kan-is-elected-as-the-new-leader-of-the-democratic-party-of-japan-and-subsequently-as-the-new-prime-minister-of-japan-where-he-curren.html)  [JSON](/news/2010/06/4/naoto-kan-is-elected-as-the-new-leader-of-the-democratic-party-of-japan-and-subsequently-as-the-new-prime-minister-of-japan-where-he-curren.json)  [XML](/news/2010/06/4/naoto-kan-is-elected-as-the-new-leader-of-the-democratic-party-of-japan-and-subsequently-as-the-new-prime-minister-of-japan-where-he-curren.xml)  
+
 ### [2010-06-4](/news/2010/06/4/index.md)
 
+##### Naoto Kan
 # Naoto Kan is elected as the new leader of the Democratic Party of Japan and subsequently as the new Prime Minister of Japan, where he currently awaits confirmation from Emperor Akihito. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/news/world/naoto-kan-new-japanese-prime-minister/story-e6frg6so-1225875517698)
 

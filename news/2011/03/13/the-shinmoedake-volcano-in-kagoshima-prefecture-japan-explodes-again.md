@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/13/the-shinmoedake-volcano-in-kagoshima-prefecture-japan-explodes-again.html)  [JSON](/news/2011/03/13/the-shinmoedake-volcano-in-kagoshima-prefecture-japan-explodes-again.json)  [XML](/news/2011/03/13/the-shinmoedake-volcano-in-kagoshima-prefecture-japan-explodes-again.xml)  
+
 ### [2011-03-13](/news/2011/03/13/index.md)
 
+##### Shinmoedake
 # The Shinmoedake volcano in Kagoshima Prefecture, Japan explodes again. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times of South Africa](http://www.timeslive.co.za/world/article965229.ece/Japanese-volcano-erupts)
 

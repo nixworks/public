@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/7/a-pickup-truck-reported-to-be-driving-erraticall
 
 ### [2016-06-7](/news/2016/06/7/index.md)
 
+##### mowed down
 #  A pickup truck reported to be driving erratically mowed down a group of nine bicycle riders, killing five and injuring four near Kalamazoo, Michigan. The driver was arrested after fleeing. Authorities have not established any contributing causes of what is being called the worst bicycle accident in the county. 
 
 The county prosecutor charged the 50-year-old man who struck nine bicyclists Tuesday, killing five of them, with five counts of second-degree murder.

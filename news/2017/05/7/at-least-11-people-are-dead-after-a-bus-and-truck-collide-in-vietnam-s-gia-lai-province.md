@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/7/at-least-11-people-are-dead-after-a-bus-and-truc
 
 ### [2017-05-7](/news/2017/05/7/index.md)
 
+##### Vietnam
 # At least 11 people are dead after a bus and truck collide in Vietnam's Gia Lai province. 
 
 HANOI (AFP) - A truck driving in the wrong direction on a one-way road smashed into a bus in Vietnam&#039;s central highlands on Sunday (May 7) killing at least 11 people, state media said.. Read more at straitstimes.com.

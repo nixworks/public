@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/31/nigerian-police-say-they-have-foiled-a-bomb-attack-at-a-church-in-the-city-of-bauchi-days-after-deadly-clashes-between-christian-and-muslim.html)  [JSON](/news/2011/01/31/nigerian-police-say-they-have-foiled-a-bomb-attack-at-a-church-in-the-city-of-bauchi-days-after-deadly-clashes-between-christian-and-muslim.json)  [XML](/news/2011/01/31/nigerian-police-say-they-have-foiled-a-bomb-attack-at-a-church-in-the-city-of-bauchi-days-after-deadly-clashes-between-christian-and-muslim.xml)  
+
 ### [2011-01-31](/news/2011/01/31/index.md)
 
+##### Nigeria
 # Nigerian police say they have foiled a bomb attack at a church in the city of Bauchi, days after deadly clashes between Christian and Muslim youths. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE70U08J20110131?sp=true)
 

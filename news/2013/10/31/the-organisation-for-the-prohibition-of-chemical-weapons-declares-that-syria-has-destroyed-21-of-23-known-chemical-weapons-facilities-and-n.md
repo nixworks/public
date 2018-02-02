@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/10/31/the-organisation-for-the-prohibition-of-chemical-weapons-declares-that-syria-has-destroyed-21-of-23-known-chemical-weapons-facilities-and-n.html)  [JSON](/news/2013/10/31/the-organisation-for-the-prohibition-of-chemical-weapons-declares-that-syria-has-destroyed-21-of-23-known-chemical-weapons-facilities-and-n.json)  [XML](/news/2013/10/31/the-organisation-for-the-prohibition-of-chemical-weapons-declares-that-syria-has-destroyed-21-of-23-known-chemical-weapons-facilities-and-n.xml)  
+
 ### [2013-10-31](/news/2013/10/31/index.md)
 
+##### Organisation for the Prohibition of Chemical Weapons
 # The Organisation for the Prohibition of Chemical Weapons declares that Syria has destroyed 21 of 23 known chemical weapons facilities, and now must destroy the chemical weapons themselves. 
 
 Syria has destroyed or rendered inoperable all of its declared chemical weapons production and mixing facilities, meeting a major deadline in an ambitious disarmament program, the international chemical weapons watchdog said Thursday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/10/31/us-syria-crisis-chemical-idUSBRE99U08N20131031)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131031&t=2&i=807746433&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99U0NOD00)
+1. [Reuters](https://www.reuters.com/article/2013/10/31/us-syria-crisis-chemical-idUSBRE99U08N20131031)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20131031&t=2&i=807746433&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99U0NOD00)
 
 ### Related:
 

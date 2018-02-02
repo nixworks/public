@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/2/at-least-eleven-people-are-killed-in-heavy-flood
 
 ### [2016-06-2](/news/2016/06/2/index.md)
 
+##### 2016 European floods
 # At least eleven people are killed in heavy flooding across Europe. 
 
 At least five people are dead and dozens of towns are inundated by flooding across France and Germany, authorities say.

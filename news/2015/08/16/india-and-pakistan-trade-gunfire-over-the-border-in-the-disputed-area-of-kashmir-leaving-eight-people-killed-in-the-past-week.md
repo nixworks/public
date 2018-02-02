@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/16/india-and-pakistan-trade-gunfire-over-the-border-in-the-disputed-area-of-kashmir-leaving-eight-people-killed-in-the-past-week.html)  [JSON](/news/2015/08/16/india-and-pakistan-trade-gunfire-over-the-border-in-the-disputed-area-of-kashmir-leaving-eight-people-killed-in-the-past-week.json)  [XML](/news/2015/08/16/india-and-pakistan-trade-gunfire-over-the-border-in-the-disputed-area-of-kashmir-leaving-eight-people-killed-in-the-past-week.xml)  
+
 ### [2015-08-16](/news/2015/08/16/index.md)
 
+##### 2014-15 India-Pakistan border skirmishes
 # India and Pakistan trade gunfire over the border in the disputed area of Kashmir leaving eight people killed in the past week. 
 
 Indian and Pakistani troops are continuing to trade heavy gunfire and mortar rounds along the highly militarized line of control dividing the disputed Himalayan region of Kashmir between the two archrivals.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2015/08/16/8-killed-as-indian-pakistani-troops-trade-fire-and-blame-in-troubled-kashmir/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2015/08/16/8-killed-as-indian-pakistani-troops-trade-fire-and-blame-in-troubled-kashmir/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1439715744346.jpg?ve=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/29/chinese-state-media-announce-that-the-country-s-government-will-abolish-its-national-agricultural-tax-starting-january-1-2006.html)  [JSON](/news/2005/12/29/chinese-state-media-announce-that-the-country-s-government-will-abolish-its-national-agricultural-tax-starting-january-1-2006.json)  [XML](/news/2005/12/29/chinese-state-media-announce-that-the-country-s-government-will-abolish-its-national-agricultural-tax-starting-january-1-2006.xml)  
+
 ### [2005-12-29](/news/2005/12/29/index.md)
 
+##### China
 #  Chinese state media announce that the country's government will abolish its national agricultural tax starting January 1, 2006. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/english/doc/2005-12/29/content_507775.htm)
 2. [Reuters](http://za.today.reuters.com/news/newsArticle.aspx?type=businessNews&storyID=2005-12-29T090827Z_01_BAN933059_RTRIDST_0_OZABS-CHINA-TAX-20051229.XML)

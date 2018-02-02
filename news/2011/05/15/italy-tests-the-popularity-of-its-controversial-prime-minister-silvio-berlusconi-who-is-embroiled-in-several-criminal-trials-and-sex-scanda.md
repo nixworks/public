@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/15/italy-tests-the-popularity-of-its-controversial-prime-minister-silvio-berlusconi-who-is-embroiled-in-several-criminal-trials-and-sex-scanda.html)  [JSON](/news/2011/05/15/italy-tests-the-popularity-of-its-controversial-prime-minister-silvio-berlusconi-who-is-embroiled-in-several-criminal-trials-and-sex-scanda.json)  [XML](/news/2011/05/15/italy-tests-the-popularity-of-its-controversial-prime-minister-silvio-berlusconi-who-is-embroiled-in-several-criminal-trials-and-sex-scanda.xml)  
+
 ### [2011-05-15](/news/2011/05/15/index.md)
 
+##### Italy
 # Italy tests the popularity of its controversial prime minister Silvio Berlusconi, who is embroiled in several criminal trials and sex scandals; Berlusconi alleges the opposition does not "wash much". 
 
 Local elections in Italy are seen as a test of Prime Minister Silvio Berlusconi as he faces corruption trials and sex scandals.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13403249)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52728000/jpg/_52728462_52728461.jpg)

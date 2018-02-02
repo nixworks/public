@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/15/turkish-backed-rebels-advance-on-the-symbolic-i
 
 ### [2016-10-15](/news/2016/10/15/index.md)
 
+##### Syrian Civil War
 # Turkish-backed rebels advance on the symbolic ISIL-controlled town of Dabiq, in northern Syria. ISIL believes Dabiq is the location where an apocalyptic battle will take place shortly before the end of the world. 
 
 Turkish-backed rebels in Syria are advancing on the symbolically important IS stronghold of Dabiq, as US and Russian envoys discuss efforts to achieve a truce.

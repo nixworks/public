@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/21/the-bank-of-japan-and-reserve-bank-of-australia-inject-more-funds-into-money-markets-to-ensure-stock-market-liquidity.html)  [JSON](/news/2007/08/21/the-bank-of-japan-and-reserve-bank-of-australia-inject-more-funds-into-money-markets-to-ensure-stock-market-liquidity.json)  [XML](/news/2007/08/21/the-bank-of-japan-and-reserve-bank-of-australia-inject-more-funds-into-money-markets-to-ensure-stock-market-liquidity.xml)  
+
 ### [2007-08-21](/news/2007/08/21/index.md)
 
+##### Bank of Japan
 #  The Bank of Japan and Reserve Bank of Australia inject more funds into money markets to ensure stock market liquidity. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Taipei Times](http://www.taipeitimes.com/News/worldbiz/archives/2007/08/22/2003375338)
 1. [Cover Image](http://www.taipeitimes.com/images/2007/08/22/thumbs/20070821191836.jpeg)

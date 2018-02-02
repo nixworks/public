@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/2/puerto-rico-institutes-a-smoking-ban-in-all-public-places-smoking-will-only-be-allowed-in-homes-places-dedicated-to-tobacco-sales-and-op.html)  [JSON](/news/2007/03/2/puerto-rico-institutes-a-smoking-ban-in-all-public-places-smoking-will-only-be-allowed-in-homes-places-dedicated-to-tobacco-sales-and-op.json)  [XML](/news/2007/03/2/puerto-rico-institutes-a-smoking-ban-in-all-public-places-smoking-will-only-be-allowed-in-homes-places-dedicated-to-tobacco-sales-and-op.xml)  
+
 ### [2007-03-2](/news/2007/03/2/index.md)
 
+##### Puerto Rico
 #  Puerto Rico institutes a smoking ban in all public places. Smoking will only be allowed in homes, places dedicated to tobacco sales, and open and ventilated places. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [El Nuevo Día](http://www.endi.com/noticia/portada/noticias/cerrado_el_cerco/171820)
 1. [Cover Image](http://rec-end.gfrcdn.net/images/2014/06/25/Placeholders-1200x1040.png)

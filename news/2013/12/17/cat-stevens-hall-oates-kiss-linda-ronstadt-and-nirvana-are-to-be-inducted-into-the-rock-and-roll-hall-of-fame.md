@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/12/17/cat-stevens-hall-oates-kiss-linda-ronstadt-and-nirvana-are-to-be-inducted-into-the-rock-and-roll-hall-of-fame.html)  [JSON](/news/2013/12/17/cat-stevens-hall-oates-kiss-linda-ronstadt-and-nirvana-are-to-be-inducted-into-the-rock-and-roll-hall-of-fame.json)  [XML](/news/2013/12/17/cat-stevens-hall-oates-kiss-linda-ronstadt-and-nirvana-are-to-be-inducted-into-the-rock-and-roll-hall-of-fame.xml)  
+
 ### [2013-12-17](/news/2013/12/17/index.md)
 
+##### Cat Stevens
 # Cat Stevens, Hall & Oates, Kiss, Linda Ronstadt, and Nirvana are to be inducted into the Rock and Roll Hall of Fame. 
 
 In a list heavy with make-good honors, grunge pioneer Nirvana is the sole act among 2014 inductees in the Rock and Roll Hall of Fame to be recognized in their first year of eligibility. The Aberdee…
 
 
-### Source:
+### Sources:
 
-1. [Variety](http://variety.com/2013/music/news/nirvana-kiss-cat-stevens-among-2014-rock-hall-of-fame-inductees-1200966382/)
-1. [Cover Image](https://pmcvariety.files.wordpress.com/2013/12/rock-and-roll-hall-of-fame-nirvana-kiss.jpg?w=1000&amp;h=563&amp;crop=1)
+1. [Variety](https://variety.com/2013/music/news/nirvana-kiss-cat-stevens-among-2014-rock-hall-of-fame-inductees-1200966382/)
+1. [Cover Image](https://pmcvariety.files.wordpress.com/2013/12/rock-and-roll-hall-of-fame-nirvana-kiss.jpg?w=700&#038;h=393&#038;crop=1)
 
 ### Related:
 

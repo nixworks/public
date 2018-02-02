@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/08/7/the-iraqi-interim-government-bans-al-jazeera-from-operating-in-iraq-for-30-days-police-order-staff-from-their-baghdad-newsroom.html)  [JSON](/news/2004/08/7/the-iraqi-interim-government-bans-al-jazeera-from-operating-in-iraq-for-30-days-police-order-staff-from-their-baghdad-newsroom.json)  [XML](/news/2004/08/7/the-iraqi-interim-government-bans-al-jazeera-from-operating-in-iraq-for-30-days-police-order-staff-from-their-baghdad-newsroom.xml)  
+
 ### [2004-08-7](/news/2004/08/7/index.md)
 
+##### Iraqi Interim Government
 #  The Iraqi Interim Government bans Al Jazeera from operating in Iraq for 30 days; police order staff from their Baghdad newsroom.
 
 

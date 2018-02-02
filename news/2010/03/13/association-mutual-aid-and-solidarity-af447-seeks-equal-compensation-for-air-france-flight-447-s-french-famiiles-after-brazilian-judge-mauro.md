@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/03/13/association-mutual-aid-and-solidarity-af447-seeks-equal-compensation-for-air-france-flight-447-s-french-famiiles-after-brazilian-judge-mauro.html)  [JSON](/news/2010/03/13/association-mutual-aid-and-solidarity-af447-seeks-equal-compensation-for-air-france-flight-447-s-french-famiiles-after-brazilian-judge-mauro.json)  [XML](/news/2010/03/13/association-mutual-aid-and-solidarity-af447-seeks-equal-compensation-for-air-france-flight-447-s-french-famiiles-after-brazilian-judge-mauro.xml)  
+
 ### [2010-03-13](/news/2010/03/13/index.md)
 
+##### Association Mutual Aid and Solidarity AF447
 # Association Mutual Aid and Solidarity AF447 seeks equal compensation for Air France Flight 447's French famiiles after Brazilian judge Mauro Nicolau Junior awards NZ$1.6 million for dead state prosecutor Marcelle Valpacos Fonseca; French insurer Axa will appeal. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSN1224359020100312?type=marketsNews)
+1. [Reuters](https://www.reuters.com/article/idUSN1224359020100312?type=marketsNews)
 2. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10631808)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

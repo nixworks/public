@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2009/10/16/one-part-of-movement-for-the-emancipation-of-the-niger-delta-mend-ends-a-three-month-ceasefire-and-resumes-attacks-on-the-oil-industry-in.html)  [JSON](/news/2009/10/16/one-part-of-movement-for-the-emancipation-of-the-niger-delta-mend-ends-a-three-month-ceasefire-and-resumes-attacks-on-the-oil-industry-in.json)  [XML](/news/2009/10/16/one-part-of-movement-for-the-emancipation-of-the-niger-delta-mend-ends-a-three-month-ceasefire-and-resumes-attacks-on-the-oil-industry-in.xml)  
+
 ### [2009-10-16](/news/2009/10/16/index.md)
 
+##### Movement for the Emancipation of the Niger Delta
 #  One part of Movement for the Emancipation of the Niger Delta (MEND) ends a three-month ceasefire and resumes attacks on the oil industry in Nigeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8309980.stm)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=86&art_id=nw20091015130713645C635571)
-3. [Reuters](http://www.reuters.com/article/marketsNews/idUSLG9715920091016)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/article/marketsNews/idUSLG9715920091016)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

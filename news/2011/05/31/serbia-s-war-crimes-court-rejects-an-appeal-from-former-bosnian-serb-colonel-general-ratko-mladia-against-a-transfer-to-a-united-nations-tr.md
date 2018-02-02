@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/31/serbia-s-war-crimes-court-rejects-an-appeal-from-former-bosnian-serb-colonel-general-ratko-mladia-against-a-transfer-to-a-united-nations-tr.html)  [JSON](/news/2011/05/31/serbia-s-war-crimes-court-rejects-an-appeal-from-former-bosnian-serb-colonel-general-ratko-mladia-against-a-transfer-to-a-united-nations-tr.json)  [XML](/news/2011/05/31/serbia-s-war-crimes-court-rejects-an-appeal-from-former-bosnian-serb-colonel-general-ratko-mladia-against-a-transfer-to-a-united-nations-tr.xml)  
+
 ### [2011-05-31](/news/2011/05/31/index.md)
 
+##### Serbia
 # Serbia's war crimes court rejects an appeal from former Bosnian Serb Colonel General Ratko Mladic against a transfer to a United Nations tribunal in The Hague to face genocide charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Guardian](http://www.guardian.co.uk/world/2011/may/31/ratko-mladic-extradition-appeal-rejected)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-13598590)

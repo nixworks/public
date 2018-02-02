@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2010/07/8/a-study-conducted-by-stanford-university-suggests-that-heat-waves-will-become-more-common-in-the-future-due-to-climate-change-and-global-wa.html)  [JSON](/news/2010/07/8/a-study-conducted-by-stanford-university-suggests-that-heat-waves-will-become-more-common-in-the-future-due-to-climate-change-and-global-wa.json)  [XML](/news/2010/07/8/a-study-conducted-by-stanford-university-suggests-that-heat-waves-will-become-more-common-in-the-future-due-to-climate-change-and-global-wa.xml)  
+
 ### [2010-07-8](/news/2010/07/8/index.md)
 
+##### Stanford University
 # A study conducted by Stanford University suggests that heat waves will become more common in the future, due to climate change and global warming. [http:--www.msnbc.msn.com-id-38154121-ns-us_news-environment- (MSNBC)] See Climate change mitigation scenarios.
 
 

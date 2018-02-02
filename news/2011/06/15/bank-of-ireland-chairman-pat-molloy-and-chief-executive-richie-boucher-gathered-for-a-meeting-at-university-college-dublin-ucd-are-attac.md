@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/15/bank-of-ireland-chairman-pat-molloy-and-chief-executive-richie-boucher-gathered-for-a-meeting-at-university-college-dublin-ucd-are-attac.html)  [JSON](/news/2011/06/15/bank-of-ireland-chairman-pat-molloy-and-chief-executive-richie-boucher-gathered-for-a-meeting-at-university-college-dublin-ucd-are-attac.json)  [XML](/news/2011/06/15/bank-of-ireland-chairman-pat-molloy-and-chief-executive-richie-boucher-gathered-for-a-meeting-at-university-college-dublin-ucd-are-attac.xml)  
+
 ### [2011-06-15](/news/2011/06/15/index.md)
 
+##### Bank of Ireland
 # Bank of Ireland chairman Pat Molloy and chief executive Richie Boucher, gathered for a meeting at University College Dublin (UCD), are attacked with eggs amid calls to have them all "taken out and bloody shot". 
 
 Eggs have been thrown at Bank of Ireland&#39;s Chairman and CEO at the Annual General Meeting.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-13782172)
 2. [RTÉ](http://www.rte.ie/news/2011/0615/boi.html)

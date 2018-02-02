@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/22/5-000-people-are-evacuated-in-north-korea-after-the-yalu-river-on-the-border-with-china-floods-94-000-in-china-are-also-evacuated.html)  [JSON](/news/2010/08/22/5-000-people-are-evacuated-in-north-korea-after-the-yalu-river-on-the-border-with-china-floods-94-000-in-china-are-also-evacuated.json)  [XML](/news/2010/08/22/5-000-people-are-evacuated-in-north-korea-after-the-yalu-river-on-the-border-with-china-floods-94-000-in-china-are-also-evacuated.xml)  
+
 ### [2010-08-22](/news/2010/08/22/index.md)
 
+##### North Korea
 # 5,000 people are evacuated in North Korea after the Yalu River on the border with China floods; 94,000 in China are also evacuated. 
 
 China and North Korea evacuate thousands of people from their homes after heavy rains flood villages on both sides of the border.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jvDMGMPxvE0ITO4eYEgHTas3Qrcg)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11051028)

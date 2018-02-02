@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/1/sarah-palin-spoke-to-thousands-of-tea-party-activists-gathered-in-the-nevada-desert-about-harry-reid.html)  [JSON](/news/2010/04/1/sarah-palin-spoke-to-thousands-of-tea-party-activists-gathered-in-the-nevada-desert-about-harry-reid.json)  [XML](/news/2010/04/1/sarah-palin-spoke-to-thousands-of-tea-party-activists-gathered-in-the-nevada-desert-about-harry-reid.xml)  
+
 ### [2010-04-1](/news/2010/04/1/index.md)
 
+##### Sarah Palin
 #  Sarah Palin spoke to thousands of tea party activists gathered in the Nevada desert about Harry Reid. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Main line](http://mainlinemedianews.com/articles/2010/04/02/main_line_suburban_life/news/doc4baf7fac8e7d0923041071.txt)
 

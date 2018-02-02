@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/26/indian-fugitive-gangster-chhota-rajan-is-arrested-at-ngurah-rai-international-airport-in-bali.html)  [JSON](/news/2015/10/26/indian-fugitive-gangster-chhota-rajan-is-arrested-at-ngurah-rai-international-airport-in-bali.json)  [XML](/news/2015/10/26/indian-fugitive-gangster-chhota-rajan-is-arrested-at-ngurah-rai-international-airport-in-bali.xml)  
+
 ### [2015-10-26](/news/2015/10/26/index.md)
 
+##### Chhota Rajan
 # Indian fugitive gangster Chhota Rajan is arrested at Ngurah Rai International Airport in Bali. 
 
 Police in Indonesia say they have arrested an alleged Indian underworld don who has been on the run for 20 years.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/34634900)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/121C6/production/_86328147_86328145.jpg)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/12/4/sultan-salahuddin-abdul-aziz-shah-ibni-almarhum-sultan-hisamuddin-alam-shah-al-haj-sultan-of-selangor-and-11th-yang-di-pertuan-agong-of-ma.html)  [JSON](/news/2001/12/4/sultan-salahuddin-abdul-aziz-shah-ibni-almarhum-sultan-hisamuddin-alam-shah-al-haj-sultan-of-selangor-and-11th-yang-di-pertuan-agong-of-ma.json)  [XML](/news/2001/12/4/sultan-salahuddin-abdul-aziz-shah-ibni-almarhum-sultan-hisamuddin-alam-shah-al-haj-sultan-of-selangor-and-11th-yang-di-pertuan-agong-of-ma.xml)  
+
 ### [2001-12-4](/news/2001/12/4/index.md)
 
+##### Sultan Salahuddin Abdul Aziz Shah ibni Almarhum Sultan Hisamuddin Alam Shah Al-Haj
 #  Sultan Salahuddin Abdul Aziz Shah ibni Almarhum Sultan Hisamuddin Alam Shah Al-Haj, Sultan of Selangor and 11th Yang di-Pertuan Agong of Malaysia dies in office.
 
 

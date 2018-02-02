@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2005/01/14/in-what-is-expected-to-be-one-of-the-major-scientific-events-of-this-decade-the-huygens-probe-successfully-lands-on-saturn-s-largest-moon.html)  [JSON](/news/2005/01/14/in-what-is-expected-to-be-one-of-the-major-scientific-events-of-this-decade-the-huygens-probe-successfully-lands-on-saturn-s-largest-moon.json)  [XML](/news/2005/01/14/in-what-is-expected-to-be-one-of-the-major-scientific-events-of-this-decade-the-huygens-probe-successfully-lands-on-saturn-s-largest-moon.xml)  
+
 ### [2005-01-14](/news/2005/01/14/index.md)
 
+##### Huygens probe
 #  In what is expected to be one of the major scientific events of this decade, the Huygens probe successfully lands on Saturn's largest moon Titan. Data sent back from the probe via the Cassini orbiter is now being analysed. Three low-resolution pictures have been released, including one from an altitude of 16&nbsp;km that appears to show channels cut by liquid, and another from the surface of Titan showing rocks or ice. 
 
 Get the latest science news and technology news, read tech reviews and more at ABC News.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Technology/wireStory?id=412945)
 2. [BBC](http://news.bbc.co.uk/2/hi/science/nature/4175099.stm)
 3. [ESA](http://www.esa.int/SPECIALS/Cassini-Huygens/index.html)
-4. [New Scientist](http://www.newscientist.com/article.ns?id=dn6878)
+4. [New Scientist](https://www.newscientist.com/article.ns?id=dn6878)
 5. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=7323241)
-6. [Wired](http://www.wired.com/news/space/0,2697,66272,00.html?tw=wn_tophead_2)
+6. [Wired](https://www.wired.com/news/space/0,2697,66272,00.html?tw=wn_tophead_2)
 6. [Cover Image](http://www.esa.int/)
 
 ### Related:

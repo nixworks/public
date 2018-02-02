@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/3/jill-stein-the-2016-presidential-candidate-for-t
 
 ### [2016-12-3](/news/2016/12/3/index.md)
 
+##### 2016 United States presidential election recounts
 # Jill Stein, the 2016 presidential candidate for the Green Party, withdraws her lawsuit in the Commonwealth Court of Pennsylvania for a statewide recount of votes in Pennsylvania due to the cost. 
 
 

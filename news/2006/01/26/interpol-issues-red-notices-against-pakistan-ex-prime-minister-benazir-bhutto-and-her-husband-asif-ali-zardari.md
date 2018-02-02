@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/26/interpol-issues-red-notices-against-pakistan-ex-prime-minister-benazir-bhutto-and-her-husband-asif-ali-zardari.html)  [JSON](/news/2006/01/26/interpol-issues-red-notices-against-pakistan-ex-prime-minister-benazir-bhutto-and-her-husband-asif-ali-zardari.json)  [XML](/news/2006/01/26/interpol-issues-red-notices-against-pakistan-ex-prime-minister-benazir-bhutto-and-her-husband-asif-ali-zardari.xml)  
+
 ### [2006-01-26](/news/2006/01/26/index.md)
 
+##### Interpol
 #  Interpol issues red notices against Pakistan ex-Prime Minister Benazir Bhutto and her husband, Asif Ali Zardari. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4650234.stm)
 

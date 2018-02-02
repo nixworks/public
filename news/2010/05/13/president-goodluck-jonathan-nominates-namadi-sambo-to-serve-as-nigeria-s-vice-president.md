@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/13/president-goodluck-jonathan-nominates-namadi-sambo-to-serve-as-nigeria-s-vice-president.html)  [JSON](/news/2010/05/13/president-goodluck-jonathan-nominates-namadi-sambo-to-serve-as-nigeria-s-vice-president.json)  [XML](/news/2010/05/13/president-goodluck-jonathan-nominates-namadi-sambo-to-serve-as-nigeria-s-vice-president.xml)  
+
 ### [2010-05-13](/news/2010/05/13/index.md)
 
+##### Goodluck Jonathan
 # President Goodluck Jonathan nominates Namadi Sambo to serve as Nigeria's vice president. 
 
 Nomination of Sambo, a governor from north, must be approved by houses of parliament.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/201051317124433566.html)
 1. [Cover Image](http://www.aljazeera.com)

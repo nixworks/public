@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/24/mathematician-peter-lax-receives-the-abel-prize-worth-nearly-one-million-usd-from-norway-s-crown-prince-haakon-in-a-ceremony-in-oslo-the.html)  [JSON](/news/2005/05/24/mathematician-peter-lax-receives-the-abel-prize-worth-nearly-one-million-usd-from-norway-s-crown-prince-haakon-in-a-ceremony-in-oslo-the.json)  [XML](/news/2005/05/24/mathematician-peter-lax-receives-the-abel-prize-worth-nearly-one-million-usd-from-norway-s-crown-prince-haakon-in-a-ceremony-in-oslo-the.xml)  
+
 ### [2005-05-24](/news/2005/05/24/index.md)
 
+##### Mathematicians
 #  Mathematician Peter Lax receives the Abel Prize, worth nearly one million USD, from Norway's Crown Prince Haakon in a ceremony in Oslo. The prize is awarded for his work on "the theory and application of partial differential equations.
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2005/TECH/science/05/24/math.prize.reut/)
 

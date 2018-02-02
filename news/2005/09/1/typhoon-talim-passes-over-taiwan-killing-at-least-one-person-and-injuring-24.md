@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/1/typhoon-talim-passes-over-taiwan-killing-at-least-one-person-and-injuring-24.html)  [JSON](/news/2005/09/1/typhoon-talim-passes-over-taiwan-killing-at-least-one-person-and-injuring-24.json)  [XML](/news/2005/09/1/typhoon-talim-passes-over-taiwan-killing-at-least-one-person-and-injuring-24.xml)  
+
 ### [2005-09-1](/news/2005/09/1/index.md)
 
+##### Typhoon Talim
 #  Typhoon Talim passes over Taiwan, killing at least one person and injuring 24. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4200406.stm)
 

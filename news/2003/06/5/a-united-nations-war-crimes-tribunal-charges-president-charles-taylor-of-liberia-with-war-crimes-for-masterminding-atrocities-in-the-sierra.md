@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/5/a-united-nations-war-crimes-tribunal-charges-president-charles-taylor-of-liberia-with-war-crimes-for-masterminding-atrocities-in-the-sierra.html)  [JSON](/news/2003/06/5/a-united-nations-war-crimes-tribunal-charges-president-charles-taylor-of-liberia-with-war-crimes-for-masterminding-atrocities-in-the-sierra.json)  [XML](/news/2003/06/5/a-united-nations-war-crimes-tribunal-charges-president-charles-taylor-of-liberia-with-war-crimes-for-masterminding-atrocities-in-the-sierra.xml)  
+
 ### [2003-06-5](/news/2003/06/5/index.md)
 
+##### United Nations
 #  A United Nations war crimes tribunal charges President Charles Taylor of Liberia with war crimes for masterminding atrocities in the Sierra Leone civil war.
 
 

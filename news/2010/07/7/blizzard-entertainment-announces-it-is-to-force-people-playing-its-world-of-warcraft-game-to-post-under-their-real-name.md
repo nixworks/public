@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/7/blizzard-entertainment-announces-it-is-to-force-people-playing-its-world-of-warcraft-game-to-post-under-their-real-name.html)  [JSON](/news/2010/07/7/blizzard-entertainment-announces-it-is-to-force-people-playing-its-world-of-warcraft-game-to-post-under-their-real-name.json)  [XML](/news/2010/07/7/blizzard-entertainment-announces-it-is-to-force-people-playing-its-world-of-warcraft-game-to-post-under-their-real-name.xml)  
+
 ### [2010-07-7](/news/2010/07/7/index.md)
 
+##### Blizzard Entertainment
 # Blizzard Entertainment announces it is to force people playing its World of Warcraft game to post under their real name. 
 
 A row erupts after the firm behind World of Warcraft announced that users of its sites would have to use their real names.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/10543100.stm)
 2. [Boston Globe](http://www.boston.com/business/technology/articles/2010/07/07/bye_bye_trolls_blizzard_forums_to_use_real_names/)

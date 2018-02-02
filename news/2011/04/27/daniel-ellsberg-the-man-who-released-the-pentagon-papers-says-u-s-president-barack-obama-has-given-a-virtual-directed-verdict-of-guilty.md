@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/27/daniel-ellsberg-the-man-who-released-the-pentagon-papers-says-u-s-president-barack-obama-has-given-a-virtual-directed-verdict-of-guilty.html)  [JSON](/news/2011/04/27/daniel-ellsberg-the-man-who-released-the-pentagon-papers-says-u-s-president-barack-obama-has-given-a-virtual-directed-verdict-of-guilty.json)  [XML](/news/2011/04/27/daniel-ellsberg-the-man-who-released-the-pentagon-papers-says-u-s-president-barack-obama-has-given-a-virtual-directed-verdict-of-guilty.xml)  
+
 ### [2011-04-27](/news/2011/04/27/index.md)
 
+##### Daniel Ellsberg
 # Daniel Ellsberg, the man who released the Pentagon Papers, says U.S. president Barack Obama has "given a virtual directed verdict" of guilty in the case of imprisoned Welsh-born U.S. serviceman Bradley Manning after Obama is caught on camera accusing Manning of breaking the law. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Huffington Post](http://www.huffingtonpost.com/robert-weller/obama-makes-it-difficult-_b_854124.html)
 

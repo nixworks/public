@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/15/the-m23-rebel-movement-and-the-congolese-army-are-engaged-in-heavy-fighting-in-the-environs-of-goma.html)  [JSON](/news/2013/07/15/the-m23-rebel-movement-and-the-congolese-army-are-engaged-in-heavy-fighting-in-the-environs-of-goma.json)  [XML](/news/2013/07/15/the-m23-rebel-movement-and-the-congolese-army-are-engaged-in-heavy-fighting-in-the-environs-of-goma.xml)  
+
 ### [2013-07-15](/news/2013/07/15/index.md)
 
+##### M23 rebel movement
 # The M23 rebel movement and the Congolese Army are engaged in heavy fighting in the environs of Goma. 
 
 Rebels and army forces in eastern DR Congo are engaged in heavy fighting close to Goma city, which was briefly captured by the rebels last year.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-23316609)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68730000/jpg/_68730809_68730808.jpg)

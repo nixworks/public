@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/11/a-16-year-old-teenager-in-the-u-s-state-of-ohio-is-charged-with-murder-in-a-deadly-craigslist-robbery-scheme.html)  [JSON](/news/2011/12/11/a-16-year-old-teenager-in-the-u-s-state-of-ohio-is-charged-with-murder-in-a-deadly-craigslist-robbery-scheme.json)  [XML](/news/2011/12/11/a-16-year-old-teenager-in-the-u-s-state-of-ohio-is-charged-with-murder-in-a-deadly-craigslist-robbery-scheme.xml)  
+
 ### [2011-12-11](/news/2011/12/11/index.md)
 
+##### Ohio
 # A 16-year-old teenager in the U.S. state of Ohio is charged with murder in a deadly Craigslist robbery scheme.
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/US/t/story/teen-charged-ohio-craigslist-scheme-writes-dad-15133723)
 1. [Cover Image](http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png)

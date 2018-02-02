@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/4/u-s-attorney-general-jeff-sessions-rescinds-thre
 
 ### [2018-01-4](/news/2018/01/4/index.md)
 
+##### Marijuana policy of the Donald Trump administration
 # U.S. Attorney General Jeff Sessions rescinds three Obama-era memos that had adopted a policy of non-interference with states that have legalized recreational marijuana. 
 
  WASHINGTON (AP) — The Trump administration threw the burgeoning movement to legalize marijuana into uncertainty Thursday as it lifted an Obama-era policy that kept federal authori

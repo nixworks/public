@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/25/a-court-in-nigeria-charges-an-iranian-man-over-an-illegal-weapons-shipment-discovered-in-lagos.html)  [JSON](/news/2010/11/25/a-court-in-nigeria-charges-an-iranian-man-over-an-illegal-weapons-shipment-discovered-in-lagos.json)  [XML](/news/2010/11/25/a-court-in-nigeria-charges-an-iranian-man-over-an-illegal-weapons-shipment-discovered-in-lagos.xml)  
+
 ### [2010-11-25](/news/2010/11/25/index.md)
 
+##### Nigeria
 # A court in Nigeria charges an Iranian man over an illegal weapons shipment discovered in Lagos. 
 
 An Iranian man is charged with arms trafficking in a Nigerian court, in connection with an arms shipment intercepted at a port last month.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gmEeWNy7YOVg0l9lxf1aguUqhZjg?docId=CNG.8a715e6abb8e8888f916a64a424e6b92.cd1)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11843366)

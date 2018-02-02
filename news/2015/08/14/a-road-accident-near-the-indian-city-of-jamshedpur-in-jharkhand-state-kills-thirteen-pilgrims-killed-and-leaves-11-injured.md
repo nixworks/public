@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/14/a-road-accident-near-the-indian-city-of-jamshedpur-in-jharkhand-state-kills-thirteen-pilgrims-killed-and-leaves-11-injured.html)  [JSON](/news/2015/08/14/a-road-accident-near-the-indian-city-of-jamshedpur-in-jharkhand-state-kills-thirteen-pilgrims-killed-and-leaves-11-injured.json)  [XML](/news/2015/08/14/a-road-accident-near-the-indian-city-of-jamshedpur-in-jharkhand-state-kills-thirteen-pilgrims-killed-and-leaves-11-injured.xml)  
+
 ### [2015-08-14](/news/2015/08/14/index.md)
 
+##### India
 # A road accident near the Indian city of Jamshedpur in Jharkhand state kills thirteen pilgrims killed and leaves 11 injured. 
 
 Thirteen pilgrims, including six women, on Friday were killed and 11 others injured when a pick-up van carrying them collided with a speeding truck on the NH-33 near here. 
 
 
-### Source:
+### Sources:
 
 1. [The International Business News Live](http://www.ibnlive.com/news/india/13-pilgrims-killed-11-injured-in-road-accident-in-jharkhand-1039457.html)
 1. [Cover Image](http://img01.ibnlive.in/ibnlive/uploads/2015/07/jamshedpur.jpg)

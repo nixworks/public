@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/4/global-spread-of-bird-flu-uk-authorities-incinerate-more-than-50-000-turkeys-as-they-are-working-to-contain-the-bird-flu.html)  [JSON](/news/2007/02/4/global-spread-of-bird-flu-uk-authorities-incinerate-more-than-50-000-turkeys-as-they-are-working-to-contain-the-bird-flu.json)  [XML](/news/2007/02/4/global-spread-of-bird-flu-uk-authorities-incinerate-more-than-50-000-turkeys-as-they-are-working-to-contain-the-bird-flu.xml)  
+
 ### [2007-02-4](/news/2007/02/4/index.md)
 
+##### Global spread of bird flu
 #  Global spread of bird flu: UK authorities incinerate more than 50,000 turkeys as they are working to contain the bird flu. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/6328889.stm)
 

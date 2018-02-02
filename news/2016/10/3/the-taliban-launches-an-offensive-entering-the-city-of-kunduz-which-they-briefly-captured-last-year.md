@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/3/the-taliban-launches-an-offensive-entering-the-c
 
 ### [2016-10-3](/news/2016/10/3/index.md)
 
+##### War in Afghanistan (2015-present)
 # The Taliban launches an offensive entering the city of Kunduz which they briefly captured last year. 
 
 The Taliban have attacked and entered the northern Afghanistan city of Kunduz.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/22/israel-hands-over-control-of-tulkarm-to-the-palestinian-authority.html)  [JSON](/news/2005/03/22/israel-hands-over-control-of-tulkarm-to-the-palestinian-authority.json)  [XML](/news/2005/03/22/israel-hands-over-control-of-tulkarm-to-the-palestinian-authority.xml)  
+
 ### [2005-03-22](/news/2005/03/22/index.md)
 
+##### Israel
 #  Israel hands over control of Tulkarm to the Palestinian Authority. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4370813.stm)
 

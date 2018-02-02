@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/28/chinese-authorities-offer-no-response-to-requests-by-jailed-dissident-and-nobel-peace-laureate-liu-xiaobo-for-family-visits.html)  [JSON](/news/2011/01/28/chinese-authorities-offer-no-response-to-requests-by-jailed-dissident-and-nobel-peace-laureate-liu-xiaobo-for-family-visits.json)  [XML](/news/2011/01/28/chinese-authorities-offer-no-response-to-requests-by-jailed-dissident-and-nobel-peace-laureate-liu-xiaobo-for-family-visits.xml)  
+
 ### [2011-01-28](/news/2011/01/28/index.md)
 
+##### Chinese police
 # Chinese authorities offer no response to requests by jailed dissident and Nobel peace laureate Liu Xiaobo for family visits. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Asia](http://www.rfa.org/english/news/china/visit-01282011110529.html)
 

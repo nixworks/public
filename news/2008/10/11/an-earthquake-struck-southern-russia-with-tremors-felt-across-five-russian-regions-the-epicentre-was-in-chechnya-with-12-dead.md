@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/11/an-earthquake-struck-southern-russia-with-tremors-felt-across-five-russian-regions-the-epicentre-was-in-chechnya-with-12-dead.html)  [JSON](/news/2008/10/11/an-earthquake-struck-southern-russia-with-tremors-felt-across-five-russian-regions-the-epicentre-was-in-chechnya-with-12-dead.json)  [XML](/news/2008/10/11/an-earthquake-struck-southern-russia-with-tremors-felt-across-five-russian-regions-the-epicentre-was-in-chechnya-with-12-dead.xml)  
+
 ### [2008-10-11](/news/2008/10/11/index.md)
 
+##### earthquake
 #  An earthquake struck southern Russia with tremors felt across five Russian regions. The epicentre was in Chechnya, with 12 dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Russia Today](http://www.russiatoday.com/news/news/31733)
 

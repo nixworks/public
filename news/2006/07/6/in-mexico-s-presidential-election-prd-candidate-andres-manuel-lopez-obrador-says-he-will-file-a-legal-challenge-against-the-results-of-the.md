@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/6/in-mexico-s-presidential-election-prd-candidate-andres-manuel-lopez-obrador-says-he-will-file-a-legal-challenge-against-the-results-of-the.html)  [JSON](/news/2006/07/6/in-mexico-s-presidential-election-prd-candidate-andres-manuel-lopez-obrador-says-he-will-file-a-legal-challenge-against-the-results-of-the.json)  [XML](/news/2006/07/6/in-mexico-s-presidential-election-prd-candidate-andres-manuel-lopez-obrador-says-he-will-file-a-legal-challenge-against-the-results-of-the.xml)  
+
 ### [2006-07-6](/news/2006/07/6/index.md)
 
+##### Mexico
 #  In Mexico's presidential election, PRD candidate Andrs Manuel Lpez Obrador says he will file a legal challenge against the results of the ongoing official vote count that have him loscing to the PAN's Felipe Caldern by 0.57 percentage points. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/5154896.stm)
 

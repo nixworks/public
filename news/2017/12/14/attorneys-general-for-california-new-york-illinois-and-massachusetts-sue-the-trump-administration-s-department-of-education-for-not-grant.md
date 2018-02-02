@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/14/attorneys-general-for-california-new-york-illin
 
 ### [2017-12-14](/news/2017/12/14/index.md)
 
+##### Education in the United States
 # Attorneys general for California, New York, Illinois, and Massachusetts sue the Trump Administration's Department of Education for not granting loan relief to students defrauded by for-profit schools. 
 
 

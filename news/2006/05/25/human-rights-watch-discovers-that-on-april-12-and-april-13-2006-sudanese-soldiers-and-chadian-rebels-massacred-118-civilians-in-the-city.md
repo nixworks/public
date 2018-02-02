@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/25/human-rights-watch-discovers-that-on-april-12-and-april-13-2006-sudanese-soldiers-and-chadian-rebels-massacred-118-civilians-in-the-city.html)  [JSON](/news/2006/05/25/human-rights-watch-discovers-that-on-april-12-and-april-13-2006-sudanese-soldiers-and-chadian-rebels-massacred-118-civilians-in-the-city.json)  [XML](/news/2006/05/25/human-rights-watch-discovers-that-on-april-12-and-april-13-2006-sudanese-soldiers-and-chadian-rebels-massacred-118-civilians-in-the-city.xml)  
+
 ### [2006-05-25](/news/2006/05/25/index.md)
 
+##### Human Rights Watch
 #  Human Rights Watch discovers that on April 12 and April 13, 2006, Sudanese soldiers and Chadian rebels massacred 118 civilians in the city of Djawara with machetes and then buried them in mass graves. If the allegations are true, then the Sudanese government has sponsored genocide in Chad, and it has violated the Tripoli Accord. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA News](http://www.voanews.com/english/2006-05-25-voa23.cfm)
 

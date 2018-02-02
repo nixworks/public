@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/06/13/pakistani-warplanes-strike-a-stronghold-of-taliban-leader-baitullah-mehsud-in-south-waziristan.html)  [JSON](/news/2009/06/13/pakistani-warplanes-strike-a-stronghold-of-taliban-leader-baitullah-mehsud-in-south-waziristan.json)  [XML](/news/2009/06/13/pakistani-warplanes-strike-a-stronghold-of-taliban-leader-baitullah-mehsud-in-south-waziristan.xml)  
+
 ### [2009-06-13](/news/2009/06/13/index.md)
 
+##### Pakistan
 #  Pakistani warplanes strike a stronghold of Taliban leader Baitullah Mehsud in South Waziristan. 
 
 * Aircraft bomb stronghold of Pakistani Taliban leader Mehsud * U.S. officials see Pakistani operation in South Waziristan * President Zardari vow
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/homepageCrisis/idUSISL249196._CH_.2400)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090613&t=2&i=10492020&w=&fh=545px&fw=&ll=&pl=&sq=&r=PKswatboy238)
+1. [Reuters](https://www.reuters.com/article/homepageCrisis/idUSISL249196._CH_.2400)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20090613&t=2&i=10492020&w=&fh=545px&fw=&ll=&pl=&sq=&r=PKswatboy238)
 
 ### Related:
 

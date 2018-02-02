@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/11/22/the-bbc-appoints-tony-hall-baron-hall-of-birkenhead-as-the-new-director-general-of-the-corporation-after-the-resignation-of-george-entwist.html)  [JSON](/news/2012/11/22/the-bbc-appoints-tony-hall-baron-hall-of-birkenhead-as-the-new-director-general-of-the-corporation-after-the-resignation-of-george-entwist.json)  [XML](/news/2012/11/22/the-bbc-appoints-tony-hall-baron-hall-of-birkenhead-as-the-new-director-general-of-the-corporation-after-the-resignation-of-george-entwist.xml)  
+
 ### [2012-11-22](/news/2012/11/22/index.md)
 
+##### BBC
 # The BBC appoints Tony Hall, Baron Hall of Birkenhead, as the new Director-General of the corporation after the resignation of George Entwistle earlier this month due to the Newsnight controversy. He is expected to start in the role in early March 2013. 
 
 The BBC has appointed Tony Hall - Lord Hall of Birkenhead - as the new Director General of the corporation. 
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/uk/home-news/bbc-confirms-tony-hall-to-be-appointed-new-directorgeneral-8343625.html)
+1. [The Independent](https://www.independent.co.uk/news/uk/home-news/bbc-confirms-tony-hall-to-be-appointed-new-directorgeneral-8343625.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/03/11/22/Pg-20-seat-ireland.jpg)
 
 ### Related:

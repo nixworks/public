@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/20/manfo-kwaku-asiedu-is-sentenced-to-33-years-in-jail-for-his-role-in-the-21-july-2005-london-bombings.html)  [JSON](/news/2007/11/20/manfo-kwaku-asiedu-is-sentenced-to-33-years-in-jail-for-his-role-in-the-21-july-2005-london-bombings.json)  [XML](/news/2007/11/20/manfo-kwaku-asiedu-is-sentenced-to-33-years-in-jail-for-his-role-in-the-21-july-2005-london-bombings.xml)  
+
 ### [2007-11-20](/news/2007/11/20/index.md)
 
+##### Manfo Kwaku Asiedu
 #  Manfo Kwaku Asiedu is sentenced to 33 years in jail for his role in the 21 July 2005 London bombings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/7101514.stm)
 

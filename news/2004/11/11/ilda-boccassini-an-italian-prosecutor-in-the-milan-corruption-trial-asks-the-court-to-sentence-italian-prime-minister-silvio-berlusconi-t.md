@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/11/11/ilda-boccassini-an-italian-prosecutor-in-the-milan-corruption-trial-asks-the-court-to-sentence-italian-prime-minister-silvio-berlusconi-t.html)  [JSON](/news/2004/11/11/ilda-boccassini-an-italian-prosecutor-in-the-milan-corruption-trial-asks-the-court-to-sentence-italian-prime-minister-silvio-berlusconi-t.json)  [XML](/news/2004/11/11/ilda-boccassini-an-italian-prosecutor-in-the-milan-corruption-trial-asks-the-court-to-sentence-italian-prime-minister-silvio-berlusconi-t.xml)  
+
 ### [2004-11-11](/news/2004/11/11/index.md)
 
+##### Milan
 #  Ilda Boccassini, an Italian prosecutor in the Milan corruption trial, asks the court to sentence Italian Prime Minister Silvio Berlusconi to eight years' imprisonment for bribing judges. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6801872)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6801872)
 
 ### Related:
 

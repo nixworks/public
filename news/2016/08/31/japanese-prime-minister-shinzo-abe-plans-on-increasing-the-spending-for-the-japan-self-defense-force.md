@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/31/japanese-prime-minister-shinzo-abe-plans-on-inc
 
 ### [2016-08-31](/news/2016/08/31/index.md)
 
+##### Prime Minister of Japan
 # Japanese Prime Minister Shinzo Abe plans on increasing the spending for the Japan Self-Defense Force. 
 
 Missile defenses are a major focus amid challenges from North Korea and China. But the budget proposal is a test of Japan’s commitment to pacifism.

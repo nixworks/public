@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/8/tony-blair-is-recalled-to-give-further-evidence-before-the-iraq-inquiry-after-gaps-concerning-the-legality-of-the-iraq-war-are-identified.html)  [JSON](/news/2010/12/8/tony-blair-is-recalled-to-give-further-evidence-before-the-iraq-inquiry-after-gaps-concerning-the-legality-of-the-iraq-war-are-identified.json)  [XML](/news/2010/12/8/tony-blair-is-recalled-to-give-further-evidence-before-the-iraq-inquiry-after-gaps-concerning-the-legality-of-the-iraq-war-are-identified.xml)  
+
 ### [2010-12-8](/news/2010/12/8/index.md)
 
+##### Tony Blair
 # Tony Blair is recalled to give further evidence before the Iraq Inquiry after "gaps" concerning the legality of the Iraq War are identified in his evidence. Jack Straw and Lord Goldsmith are to return too. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Mail](http://www.dailymail.co.uk/news/article-1336821/Tony-Blair-recalled-evidence-Iraq-inquiry.html?ITO=1490)
 2. [Irish Examiner](http://www.irishexaminer.com/breakingnews/world/iraq-inquiry-to-recall-blair-for-questioning-484939.html)

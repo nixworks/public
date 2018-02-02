@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/7/the-reserve-bank-of-australia-cuts-its-benchmark-interest-rate-to-2-75-down-from-3-00.html)  [JSON](/news/2013/05/7/the-reserve-bank-of-australia-cuts-its-benchmark-interest-rate-to-2-75-down-from-3-00.json)  [XML](/news/2013/05/7/the-reserve-bank-of-australia-cuts-its-benchmark-interest-rate-to-2-75-down-from-3-00.xml)  
+
 ### [2013-05-7](/news/2013/05/7/index.md)
 
+##### Reserve Bank of Australia
 # The Reserve Bank of Australia cuts its benchmark interest rate to 2.75%, down from 3.00%. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-22430652)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56398000/jpg/_56398297_009870325-1.jpg)

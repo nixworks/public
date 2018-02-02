@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/12/9/police-discover-four-packages-of-suspected-explosives-at-the-main-station-of-the-taipei-rapid-transit-system-two-days-before-the-legislativ.html)  [JSON](/news/2004/12/9/police-discover-four-packages-of-suspected-explosives-at-the-main-station-of-the-taipei-rapid-transit-system-two-days-before-the-legislativ.json)  [XML](/news/2004/12/9/police-discover-four-packages-of-suspected-explosives-at-the-main-station-of-the-taipei-rapid-transit-system-two-days-before-the-legislativ.xml)  
+
 ### [2004-12-9](/news/2004/12/9/index.md)
 
+##### Taipei Rapid Transit System
 #  Police discover four packages of suspected explosives at the main station of the Taipei Rapid Transit System two days before the legislative elections take place.
 
 

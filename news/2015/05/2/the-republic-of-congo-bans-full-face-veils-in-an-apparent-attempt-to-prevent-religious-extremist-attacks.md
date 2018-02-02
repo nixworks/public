@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/05/2/the-republic-of-congo-bans-full-face-veils-in-an-apparent-attempt-to-prevent-religious-extremist-attacks.html)  [JSON](/news/2015/05/2/the-republic-of-congo-bans-full-face-veils-in-an-apparent-attempt-to-prevent-religious-extremist-attacks.json)  [XML](/news/2015/05/2/the-republic-of-congo-bans-full-face-veils-in-an-apparent-attempt-to-prevent-religious-extremist-attacks.xml)  
+
 ### [2015-05-2](/news/2015/05/2/index.md)
 
+##### Republic of Congo
 # The Republic of Congo bans full face-veils in an apparent attempt to prevent religious extremist attacks. 
 
 The Republic of Congo will ban full face-veils in an attempt to prevent violent extremism.
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/africa/republic-of-congo-bans-fullface-veils-in-attempt-to-prevent-religious-extremist-attacks-10220909.html)
+1. [The Independent](https://www.independent.co.uk/news/world/africa/republic-of-congo-bans-fullface-veils-in-attempt-to-prevent-religious-extremist-attacks-10220909.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/05/02/15/veil-getty.jpg)
 
 ### Related:

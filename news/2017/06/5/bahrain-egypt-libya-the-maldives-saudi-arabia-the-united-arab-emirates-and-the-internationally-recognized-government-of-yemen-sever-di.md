@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/5/bahrain-egypt-libya-the-maldives-saudi-arabia-th
 
 ### [2017-06-5](/news/2017/06/5/index.md)
 
+##### 2017 Qatar diplomatic crisis
 # Bahrain, Egypt, Libya, the Maldives, Saudi Arabia, the United Arab Emirates, and the internationally recognized government of Yemen sever diplomatic ties with Qatar, ordering Qatari citizens in those countries to be expelled as well as cutting all land, air and sea connections. "National security," "media incitement" and Qatar's support of Iran are variously cited. 
 
 Saudi Arabia said the move was necessary to protect the kingdom from what it described as extremism, reasoning that was echoed by Bahrain

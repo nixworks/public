@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/25/the-united-states-supreme-court-ruled-in-montgo
 
 ### [2016-01-25](/news/2016/01/25/index.md)
 
+##### United States Supreme Court
 # The United States Supreme Court ruled in "Montgomery v. Louisiana" (2016) that its prohibition of mandatory life sentences for juveniles convicted of murder (under "Miller v. Alabama" (2012)), had to be applied retroactively, potentially affecting 1300 to 2300 cases nationally.
 
 The Supreme Court clarified a 2012 ruling and created the possibility of release for some older inmates serving life sentences for killings committed when they were young.

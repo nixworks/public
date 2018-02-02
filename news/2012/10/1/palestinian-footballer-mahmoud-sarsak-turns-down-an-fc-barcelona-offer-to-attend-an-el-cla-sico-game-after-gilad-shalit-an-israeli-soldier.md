@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/1/palestinian-footballer-mahmoud-sarsak-turns-down-an-fc-barcelona-offer-to-attend-an-el-cla-sico-game-after-gilad-shalit-an-israeli-soldier.html)  [JSON](/news/2012/10/1/palestinian-footballer-mahmoud-sarsak-turns-down-an-fc-barcelona-offer-to-attend-an-el-cla-sico-game-after-gilad-shalit-an-israeli-soldier.json)  [XML](/news/2012/10/1/palestinian-footballer-mahmoud-sarsak-turns-down-an-fc-barcelona-offer-to-attend-an-el-cla-sico-game-after-gilad-shalit-an-israeli-soldier.xml)  
+
 ### [2012-10-1](/news/2012/10/1/index.md)
 
+##### Palestinian
 # Palestinian footballer Mahmoud Sarsak turns down an FC Barcelona offer to attend an El Clasico game, after Gilad Shalit, an Israeli soldier who had been held captive in Gaza for five years, is also invited. A Hamas spokesperson asked the media not to broadcast the game. 
 
 A Palestinian footballer who went on a hunger strike in an Israeli jail says he is turning down an invitation to see Barcelona play Real Madrid after an Israeli soldier was also asked to attend.
 
 
-### Source:
+### Sources:
 
 1. [Daily Star](http://www.dailystar.com.lb/Sports/Football/2012/Oct-01/189781-palestinian-footballer-turns-down-barca-invite.ashx#axzz283WCTu42)
 1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2012/10/01/103889_img650x420_img650x420_crop.jpg)

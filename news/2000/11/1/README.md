@@ -1,7 +1,7 @@
-## [2000-11-1](/news/2000/11/1/index.md)
 
-### [ Serbia is admitted to the United Nations as the 190th member](/news/2000/11/1/serbia-is-admitted-to-the-united-nations-as-the-190th-member.md)
-_Context: Serbia, United Nations_
+Formats: [HTML](2000/11/1/index.html)  [JSON](2000/11/1/index.json)  [XML](2000/11/1/index.xml)  
+
+## [2000-11-1](/news/2000/11/1/index.md)
 
 ## [Previous Day...](/news/2000/10/31/index.md)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/19/doctors-in-vienna-transplant-a-human-tongue-at-vienna-general-hospital.html)  [JSON](/news/2003/07/19/doctors-in-vienna-transplant-a-human-tongue-at-vienna-general-hospital.json)  [XML](/news/2003/07/19/doctors-in-vienna-transplant-a-human-tongue-at-vienna-general-hospital.xml)  
+
 ### [2003-07-19](/news/2003/07/19/index.md)
 
+##### Vienna
 #  Doctors in Vienna transplant a human tongue at Vienna General Hospital.
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/19/an-american-federal-appeals-court-in-richmond-v
 
 ### [2016-04-19](/news/2016/04/19/index.md)
 
+##### Transgender rights in the United States
 # An American federal appeals court in Richmond, Virginia, rules a transgender high school student who was banned from the boys' bathroom can proceed with the lawsuit against the school board. 
 
 In a case that may have national implications, the Richmond-based 4th U.S. Circuit Court of Appeals ruled Tuesday in favor of a transgender student fighting to use the boys bathroom

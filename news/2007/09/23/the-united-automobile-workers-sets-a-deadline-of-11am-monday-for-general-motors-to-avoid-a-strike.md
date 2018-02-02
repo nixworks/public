@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/09/23/the-united-automobile-workers-sets-a-deadline-of-11am-monday-for-general-motors-to-avoid-a-strike.html)  [JSON](/news/2007/09/23/the-united-automobile-workers-sets-a-deadline-of-11am-monday-for-general-motors-to-avoid-a-strike.json)  [XML](/news/2007/09/23/the-united-automobile-workers-sets-a-deadline-of-11am-monday-for-general-motors-to-avoid-a-strike.xml)  
+
 ### [2007-09-23](/news/2007/09/23/index.md)
 
+##### United Auto Workers
 #  The United Automobile Workers sets a deadline of 11am Monday for General Motors to avoid a strike. 
 
 Bargainers worked through the night in an effort to reach a settlement in contentious contract talks, facing an 11 a.m. Eastern time strike deadline.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2007/09/24/business/24cnd-auto.html?ex=1348286400&en=69debcb9ed8662a7&ei=5088&partner=rssnyt&emc=rss)
+1. [New York Times](https://www.nytimes.com/2007/09/24/business/24cnd-auto.html?ex=1348286400&en=69debcb9ed8662a7&ei=5088&partner=rssnyt&emc=rss)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

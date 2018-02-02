@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/12/flooding-caused-by-tropical-depression-04f-kills-eight-people-and-displaces-more-than-6-000-in-fiji.html)  [JSON](/news/2009/01/12/flooding-caused-by-tropical-depression-04f-kills-eight-people-and-displaces-more-than-6-000-in-fiji.json)  [XML](/news/2009/01/12/flooding-caused-by-tropical-depression-04f-kills-eight-people-and-displaces-more-than-6-000-in-fiji.xml)  
+
 ### [2009-01-12](/news/2009/01/12/index.md)
 
+##### Flooding
 #  Flooding caused by Tropical Depression 04F kills eight people and displaces more than 6,000 in Fiji. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gGryhFev3JXXkzortknfl6uBM-ugD95LI20O0)
 

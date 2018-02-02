@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2012/10/31/the-new-york-stock-exchange-reopens-following-a-two-day-closure-due-to-hurricane-sandy-with-stocks-trending-lower.html)  [JSON](/news/2012/10/31/the-new-york-stock-exchange-reopens-following-a-two-day-closure-due-to-hurricane-sandy-with-stocks-trending-lower.json)  [XML](/news/2012/10/31/the-new-york-stock-exchange-reopens-following-a-two-day-closure-due-to-hurricane-sandy-with-stocks-trending-lower.xml)  
+
 ### [2012-10-31](/news/2012/10/31/index.md)
 
+##### New York Stock Exchange
 # The New York Stock Exchange reopens following a two-day closure due to Hurricane Sandy, with stocks trending lower. 
 
 Stocks drift in a narrow range as the New York Stock Exchange reopens after two-day closure due to Sandy.
 
 
-### Source:
+### Sources:
 
 1. [CNN Money](http://money.cnn.com/2012/10/31/investing/stocks-markets/index.html?hpt=hp_t3)
-2. [Reuters](http://www.reuters.com/article/2012/10/31/us-markets-stocks-idUSBRE89T0LN20121031)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121031&t=2&i=669339765&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE89U14HU00)
+2. [Reuters](https://www.reuters.com/article/2012/10/31/us-markets-stocks-idUSBRE89T0LN20121031)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20121031&t=2&i=669339765&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE89U14HU00)
 
 ### Related:
 

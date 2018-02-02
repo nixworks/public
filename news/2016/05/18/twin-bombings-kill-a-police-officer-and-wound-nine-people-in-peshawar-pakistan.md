@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/18/twin-bombings-kill-a-police-officer-and-wound-n
 
 ### [2016-05-18](/news/2016/05/18/index.md)
 
+##### War in North-West Pakistan
 # Twin bombings kill a police officer and wound nine people in Peshawar, Pakistan. 
 
 A Pakistani police official says a twin bombing has killed a police officer and wounded nine people in northwestern Peshawar city.

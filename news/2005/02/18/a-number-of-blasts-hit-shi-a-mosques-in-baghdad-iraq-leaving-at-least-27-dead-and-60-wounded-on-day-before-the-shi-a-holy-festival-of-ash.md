@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/18/a-number-of-blasts-hit-shi-a-mosques-in-baghdad-iraq-leaving-at-least-27-dead-and-60-wounded-on-day-before-the-shi-a-holy-festival-of-ash.html)  [JSON](/news/2005/02/18/a-number-of-blasts-hit-shi-a-mosques-in-baghdad-iraq-leaving-at-least-27-dead-and-60-wounded-on-day-before-the-shi-a-holy-festival-of-ash.json)  [XML](/news/2005/02/18/a-number-of-blasts-hit-shi-a-mosques-in-baghdad-iraq-leaving-at-least-27-dead-and-60-wounded-on-day-before-the-shi-a-holy-festival-of-ash.xml)  
+
 ### [2005-02-18](/news/2005/02/18/index.md)
 
+##### Shi'a
 #  A number of blasts hit Shi'a mosques in Baghdad, Iraq, leaving at least 27 dead and 60 wounded on day before the Shi'a holy festival of Ashura. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/middle_east/4276367.stm)
 2. [CNN](http://www.cnn.com/2005/WORLD/meast/02/18/iraq.main/index.html)

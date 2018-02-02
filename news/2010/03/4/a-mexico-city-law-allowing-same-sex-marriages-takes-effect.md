@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/4/a-mexico-city-law-allowing-same-sex-marriages-takes-effect.html)  [JSON](/news/2010/03/4/a-mexico-city-law-allowing-same-sex-marriages-takes-effect.json)  [XML](/news/2010/03/4/a-mexico-city-law-allowing-same-sex-marriages-takes-effect.xml)  
+
 ### [2010-03-4](/news/2010/03/4/index.md)
 
+##### Mexico City
 # A Mexico City law allowing same-sex marriages takes effect. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/americas/03/04/mexico.argentina.gay.marriage)
 

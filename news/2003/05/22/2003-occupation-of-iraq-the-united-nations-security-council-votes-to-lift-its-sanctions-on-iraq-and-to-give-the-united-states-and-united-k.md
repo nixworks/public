@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/22/2003-occupation-of-iraq-the-united-nations-security-council-votes-to-lift-its-sanctions-on-iraq-and-to-give-the-united-states-and-united-k.html)  [JSON](/news/2003/05/22/2003-occupation-of-iraq-the-united-nations-security-council-votes-to-lift-its-sanctions-on-iraq-and-to-give-the-united-states-and-united-k.json)  [XML](/news/2003/05/22/2003-occupation-of-iraq-the-united-nations-security-council-votes-to-lift-its-sanctions-on-iraq-and-to-give-the-united-states-and-united-k.xml)  
+
 ### [2003-05-22](/news/2003/05/22/index.md)
 
+##### U.S. presence in Iraq
 #  2003 occupation of Iraq: The United Nations Security Council votes to lift its sanctions on Iraq and to give the United States and United Kingdom control over the country indefinitely until a democratic government is formed.
 
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/02/16/l-paul-bremer-the-united-states-administrator-of-iraq-states-he-will-veto-any-interim-constitution-that-would-make-islam-the-chief-sourc.html)  [JSON](/news/2004/02/16/l-paul-bremer-the-united-states-administrator-of-iraq-states-he-will-veto-any-interim-constitution-that-would-make-islam-the-chief-sourc.json)  [XML](/news/2004/02/16/l-paul-bremer-the-united-states-administrator-of-iraq-states-he-will-veto-any-interim-constitution-that-would-make-islam-the-chief-sourc.xml)  
+
 ### [2004-02-16](/news/2004/02/16/index.md)
 
+##### L. Paul Bremer
 #  L. Paul Bremer, the United States administrator of Iraq states he will veto any interim constitution that would make Islam "the chief source of law", as opposed to "a source of inspiration for the law." Many Iraqi women express fears that the rights they hold under Iraq's longtime secular system may be denied them in the interim constitution based upon Islam as "the chief source of law." 
 
 
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/aponline/international/AP-Iraq-Women.html)
+1. [NYT](https://www.nytimes.com/aponline/international/AP-Iraq-Women.html)
 
 ### Related:
 

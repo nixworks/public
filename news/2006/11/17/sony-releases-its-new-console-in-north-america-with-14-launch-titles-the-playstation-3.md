@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/11/17/sony-releases-its-new-console-in-north-america-with-14-launch-titles-the-playstation-3.html)  [JSON](/news/2006/11/17/sony-releases-its-new-console-in-north-america-with-14-launch-titles-the-playstation-3.json)  [XML](/news/2006/11/17/sony-releases-its-new-console-in-north-america-with-14-launch-titles-the-playstation-3.xml)  
+
 ### [2006-11-17](/news/2006/11/17/index.md)
 
+##### Sony
 #  Sony releases its new console in North America with 14 launch titles, the PlayStation 3.
 
 

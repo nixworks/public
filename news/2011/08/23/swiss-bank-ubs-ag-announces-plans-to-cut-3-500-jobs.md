@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/23/swiss-bank-ubs-ag-announces-plans-to-cut-3-500-jobs.html)  [JSON](/news/2011/08/23/swiss-bank-ubs-ag-announces-plans-to-cut-3-500-jobs.json)  [XML](/news/2011/08/23/swiss-bank-ubs-ag-announces-plans-to-cut-3-500-jobs.xml)  
+
 ### [2011-08-23](/news/2011/08/23/index.md)
 
+##### Swiss
 # Swiss bank UBS AG announces plans to cut 3,500 jobs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Financial Times](http://www.ft.com/intl/cms/s/0/d00711e6-cd4e-11e0-b267-00144feabdc0.html#axzz1VplW7YmY)
 

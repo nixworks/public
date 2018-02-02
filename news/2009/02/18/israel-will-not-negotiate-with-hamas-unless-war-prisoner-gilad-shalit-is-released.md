@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/18/israel-will-not-negotiate-with-hamas-unless-war-prisoner-gilad-shalit-is-released.html)  [JSON](/news/2009/02/18/israel-will-not-negotiate-with-hamas-unless-war-prisoner-gilad-shalit-is-released.json)  [XML](/news/2009/02/18/israel-will-not-negotiate-with-hamas-unless-war-prisoner-gilad-shalit-is-released.xml)  
+
 ### [2009-02-18](/news/2009/02/18/index.md)
 
+##### Israel
 #  Israel will not negotiate with Hamas unless war prisoner Gilad Shalit is released. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/7896506.stm)
 

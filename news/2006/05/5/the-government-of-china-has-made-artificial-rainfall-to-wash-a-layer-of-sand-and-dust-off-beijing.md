@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/5/the-government-of-china-has-made-artificial-rainfall-to-wash-a-layer-of-sand-and-dust-off-beijing.html)  [JSON](/news/2006/05/5/the-government-of-china-has-made-artificial-rainfall-to-wash-a-layer-of-sand-and-dust-off-beijing.json)  [XML](/news/2006/05/5/the-government-of-china-has-made-artificial-rainfall-to-wash-a-layer-of-sand-and-dust-off-beijing.xml)  
+
 ### [2006-05-5](/news/2006/05/5/index.md)
 
+##### China
 #  The government of China has made artificial rainfall to wash a layer of sand and dust off Beijing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua News](http://news.xinhuanet.com/english/2006-05/05/content_4511250.htm)
 

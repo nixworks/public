@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/14/authorities-in-mexico-s-veracruz-state-evacuate-residents-in-low-lying-areas-ahead-of-the-arrival-of-hurricane-ingrid.html)  [JSON](/news/2013/09/14/authorities-in-mexico-s-veracruz-state-evacuate-residents-in-low-lying-areas-ahead-of-the-arrival-of-hurricane-ingrid.json)  [XML](/news/2013/09/14/authorities-in-mexico-s-veracruz-state-evacuate-residents-in-low-lying-areas-ahead-of-the-arrival-of-hurricane-ingrid.xml)  
+
 ### [2013-09-14](/news/2013/09/14/index.md)
 
+##### Mexico
 # Authorities in Mexico's Veracruz state evacuate residents in low-lying areas ahead of the arrival of Hurricane Ingrid. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/tropical-depression-threatens-eastern-mexico)
 

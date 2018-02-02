@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/5/workers-say-a-miner-is-killed-by-a-police-rubber-bullet-near-rustenburg-a-national-union-of-mineworkers-branch-leader-of-lonmin-is-killed-a.html)  [JSON](/news/2012/10/5/workers-say-a-miner-is-killed-by-a-police-rubber-bullet-near-rustenburg-a-national-union-of-mineworkers-branch-leader-of-lonmin-is-killed-a.json)  [XML](/news/2012/10/5/workers-say-a-miner-is-killed-by-a-police-rubber-bullet-near-rustenburg-a-national-union-of-mineworkers-branch-leader-of-lonmin-is-killed-a.xml)  
+
 ### [2012-10-5](/news/2012/10/5/index.md)
 
+##### Rustenburg
 # Workers say a miner is killed by a police rubber bullet near Rustenburg. A National Union of Mineworkers branch leader of Lonmin is killed at his house in Marikana, South Africa. 
 
 News - Your daily dose of information: European and International latest breaking news, economic news, business news and more. Stay up to date with Euronews.
 
 
-### Source:
+### Sources:
 
 1. [Euronews](http://www.euronews.com/newswires/1681628-south-african-union-leader-shot-dead-near-lonmin-mine-num/)
 2. [Reuters](http://af.reuters.com/article/worldNews/idAFBRE8940CQ20121005?pageNumber=4&virtualBrandChannel=0)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/6/sakineh-mohammadi-ashtiani-sentenced-to-death-in-iran-speaks-out-saying-iran-is-desperately-trying-to-distract-attention-and-confuse-the.html)  [JSON](/news/2010/08/6/sakineh-mohammadi-ashtiani-sentenced-to-death-in-iran-speaks-out-saying-iran-is-desperately-trying-to-distract-attention-and-confuse-the.json)  [XML](/news/2010/08/6/sakineh-mohammadi-ashtiani-sentenced-to-death-in-iran-speaks-out-saying-iran-is-desperately-trying-to-distract-attention-and-confuse-the.xml)  
+
 ### [2010-08-6](/news/2010/08/6/index.md)
 
+##### Sakineh Mohammadi Ashtiani
 # Sakineh Mohammadi Ashtiani, sentenced to death in Iran, speaks out, saying Iran is "desperately trying to distract attention and confuse the media so that they can kill me in secret". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2010/aug/06/sakineh-mohammadi-ashtiani-iran-interview)
 

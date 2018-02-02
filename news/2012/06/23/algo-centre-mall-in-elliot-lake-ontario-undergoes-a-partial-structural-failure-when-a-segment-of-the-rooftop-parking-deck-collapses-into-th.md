@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/06/23/algo-centre-mall-in-elliot-lake-ontario-undergoes-a-partial-structural-failure-when-a-segment-of-the-rooftop-parking-deck-collapses-into-th.html)  [JSON](/news/2012/06/23/algo-centre-mall-in-elliot-lake-ontario-undergoes-a-partial-structural-failure-when-a-segment-of-the-rooftop-parking-deck-collapses-into-th.json)  [XML](/news/2012/06/23/algo-centre-mall-in-elliot-lake-ontario-undergoes-a-partial-structural-failure-when-a-segment-of-the-rooftop-parking-deck-collapses-into-th.xml)  
+
 ### [2012-06-23](/news/2012/06/23/index.md)
 
+##### Algo Centre Mall
 # Algo Centre Mall in Elliot Lake, Ontario undergoes a partial structural failure when a segment of the rooftop parking deck collapses into the building. 22 people are injured and two bodies are recovered four days later. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Toronto Star](http://www.thestar.com/news/canada/article/1217795--elliot-lake-roof-mall-collapse-rescuers-inched-closer-to-possible-victims)
+1. [Toronto Star](https://www.thestar.com/news/canada/article/1217795--elliot-lake-roof-mall-collapse-rescuers-inched-closer-to-possible-victims)
 
 ### Related:
 

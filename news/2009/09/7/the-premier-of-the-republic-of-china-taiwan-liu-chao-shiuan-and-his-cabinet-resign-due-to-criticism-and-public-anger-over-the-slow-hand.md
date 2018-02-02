@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/7/the-premier-of-the-republic-of-china-taiwan-liu-chao-shiuan-and-his-cabinet-resign-due-to-criticism-and-public-anger-over-the-slow-hand.html)  [JSON](/news/2009/09/7/the-premier-of-the-republic-of-china-taiwan-liu-chao-shiuan-and-his-cabinet-resign-due-to-criticism-and-public-anger-over-the-slow-hand.json)  [XML](/news/2009/09/7/the-premier-of-the-republic-of-china-taiwan-liu-chao-shiuan-and-his-cabinet-resign-due-to-criticism-and-public-anger-over-the-slow-hand.xml)  
+
 ### [2009-09-7](/news/2009/09/7/index.md)
 
+##### Premier
 #  The premier of the Republic of China (Taiwan), Liu Chao-shiuan, and his cabinet resign due to criticism and public anger over the slow handling of the disaster during Typhoon Morakot. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.alertnet.org/thenews/newsdesk/SP494665.htm)
 

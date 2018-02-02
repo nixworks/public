@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/30/the-white-house-allows-condoleezza-rice-the-president-s-national-security-advisor-to-publicly-testify-under-oath-on-the-investigation-int.html)  [JSON](/news/2004/03/30/the-white-house-allows-condoleezza-rice-the-president-s-national-security-advisor-to-publicly-testify-under-oath-on-the-investigation-int.json)  [XML](/news/2004/03/30/the-white-house-allows-condoleezza-rice-the-president-s-national-security-advisor-to-publicly-testify-under-oath-on-the-investigation-int.xml)  
+
 ### [2004-03-30](/news/2004/03/30/index.md)
 
+##### White House
 #  The White House allows Condoleezza Rice, the president's National Security Advisor, to publicly testify under oath on the investigation into the September 11, 2001 attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/ALLPOLITICS/03/30/rice.testimony/index.html)
 2. [XINHUA](http://news.xinhuanet.com/english/2004-03/30/content_1392734.htm)

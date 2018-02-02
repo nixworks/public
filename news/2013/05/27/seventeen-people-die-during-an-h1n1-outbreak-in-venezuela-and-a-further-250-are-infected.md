@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/05/27/seventeen-people-die-during-an-h1n1-outbreak-in-venezuela-and-a-further-250-are-infected.html)  [JSON](/news/2013/05/27/seventeen-people-die-during-an-h1n1-outbreak-in-venezuela-and-a-further-250-are-infected.json)  [XML](/news/2013/05/27/seventeen-people-die-during-an-h1n1-outbreak-in-venezuela-and-a-further-250-are-infected.xml)  
+
 ### [2013-05-27](/news/2013/05/27/index.md)
 
+##### H1N1
 # Seventeen people die during an H1N1 outbreak in Venezuela, and a further 250 are infected. 
 
 An outbreak of H1N1 flu has killed 17 people in Venezuela and infected another 250, private media and local authorities said on Monday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/05/27/us-venezuela-flu-idUSBRE94Q0K120130527)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2013/05/27/us-venezuela-flu-idUSBRE94Q0K120130527)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

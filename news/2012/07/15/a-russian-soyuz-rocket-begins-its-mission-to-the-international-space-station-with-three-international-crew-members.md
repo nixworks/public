@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/07/15/a-russian-soyuz-rocket-begins-its-mission-to-the-international-space-station-with-three-international-crew-members.html)  [JSON](/news/2012/07/15/a-russian-soyuz-rocket-begins-its-mission-to-the-international-space-station-with-three-international-crew-members.json)  [XML](/news/2012/07/15/a-russian-soyuz-rocket-begins-its-mission-to-the-international-space-station-with-three-international-crew-members.xml)  
+
 ### [2012-07-15](/news/2012/07/15/index.md)
 
+##### Soyuz rocket
 # A Russian Soyuz rocket begins its mission to the International Space Station with three international crew members. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/asia_pacific/russian-soyuz-rocket-starts-mission-to-space-station-with-3-person-international-crew-onboard/2012/07/14/gJQAphBFlW_story.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/russian-soyuz-rocket-starts-mission-to-space-station-with-3-person-international-crew-onboard/2012/07/14/gJQAphBFlW_story.html)
 
 ### Related:
 

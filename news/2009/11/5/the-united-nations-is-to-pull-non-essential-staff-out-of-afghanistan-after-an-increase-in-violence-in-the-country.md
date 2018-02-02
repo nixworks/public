@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/5/the-united-nations-is-to-pull-non-essential-staff-out-of-afghanistan-after-an-increase-in-violence-in-the-country.html)  [JSON](/news/2009/11/5/the-united-nations-is-to-pull-non-essential-staff-out-of-afghanistan-after-an-increase-in-violence-in-the-country.json)  [XML](/news/2009/11/5/the-united-nations-is-to-pull-non-essential-staff-out-of-afghanistan-after-an-increase-in-violence-in-the-country.xml)  
+
 ### [2009-11-5](/news/2009/11/5/index.md)
 
+##### United Nations
 #  The United Nations is to pull non-essential staff out of Afghanistan after an increase in violence in the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Arabiya](http://www.alarabiya.net/articles/2009/11/05/90279.html)
 2. [The Times](http://www.timesonline.co.uk/tol/news/world/Afghanistan/article6904098.ece)

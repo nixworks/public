@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/16/64-of-voters-in-liechtenstein-approved-a-measure-to-give-prince-hans-adam-nbsp-ii-the-power-to-dismiss-governments-approve-judicial-nomin.html)  [JSON](/news/2003/03/16/64-of-voters-in-liechtenstein-approved-a-measure-to-give-prince-hans-adam-nbsp-ii-the-power-to-dismiss-governments-approve-judicial-nomin.json)  [XML](/news/2003/03/16/64-of-voters-in-liechtenstein-approved-a-measure-to-give-prince-hans-adam-nbsp-ii-the-power-to-dismiss-governments-approve-judicial-nomin.xml)  
+
 ### [2003-03-16](/news/2003/03/16/index.md)
 
+##### Liechtenstein
 #  64% of voters in Liechtenstein approved a measure to give Prince Hans-Adam&nbsp;II the power to dismiss governments, approve judicial nominees and veto laws. It is the most power of any monarch in Europe. Hans-Adam had threatened to leave the country if the measure was not approved.
 
 

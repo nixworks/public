@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/27/somali-civil-war-the-islamic-courts-union-that-controls-much-of-southern-somalia-has-revealed-they-would-attack-ethiopian-forces-in-galkay.html)  [JSON](/news/2006/11/27/somali-civil-war-the-islamic-courts-union-that-controls-much-of-southern-somalia-has-revealed-they-would-attack-ethiopian-forces-in-galkay.json)  [XML](/news/2006/11/27/somali-civil-war-the-islamic-courts-union-that-controls-much-of-southern-somalia-has-revealed-they-would-attack-ethiopian-forces-in-galkay.xml)  
+
 ### [2006-11-27](/news/2006/11/27/index.md)
 
+##### Somali Civil War
 #  Somali Civil War: The Islamic Courts Union that controls much of southern Somalia has revealed they would attack Ethiopian forces in Galkayo in Mudug province, central Somalia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica](http://allafrica.com/stories/200611260097.html)
 

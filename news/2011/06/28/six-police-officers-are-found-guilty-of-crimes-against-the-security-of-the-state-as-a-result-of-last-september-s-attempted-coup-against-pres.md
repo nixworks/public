@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/28/six-police-officers-are-found-guilty-of-crimes-against-the-security-of-the-state-as-a-result-of-last-september-s-attempted-coup-against-pres.html)  [JSON](/news/2011/06/28/six-police-officers-are-found-guilty-of-crimes-against-the-security-of-the-state-as-a-result-of-last-september-s-attempted-coup-against-pres.json)  [XML](/news/2011/06/28/six-police-officers-are-found-guilty-of-crimes-against-the-security-of-the-state-as-a-result-of-last-september-s-attempted-coup-against-pres.xml)  
+
 ### [2011-06-28](/news/2011/06/28/index.md)
 
+##### President
 # Six police officers are found guilty of crimes against the security of the state as a result of last September's attempted coup against President of Ecuador Rafael Correa who was tear gassed and imprisoned in a hospital. 
 
 A court in Ecuador convicts six policemen of crimes against state security after protests last September in which President Correa was detained.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-13952584)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53748000/jpg/_53748100_000184548-1.jpg)

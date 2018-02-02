@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/25/the-uss-dewey-sails-within-12-nautical-miles-of
 
 ### [2017-05-25](/news/2017/05/25/index.md)
 
+##### Territorial disputes in the South China Sea
 # The USS Dewey sails within 12 nautical miles of the disputed Mischief Reef in the South China Sea. 
 
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/08/1/the-association-of-south-east-asian-nations-asean-sign-an-agreement-to-bolster-economic-and-security-relationships-it-also-called-for-ne.html)  [JSON](/news/2007/08/1/the-association-of-south-east-asian-nations-asean-sign-an-agreement-to-bolster-economic-and-security-relationships-it-also-called-for-ne.json)  [XML](/news/2007/08/1/the-association-of-south-east-asian-nations-asean-sign-an-agreement-to-bolster-economic-and-security-relationships-it-also-called-for-ne.xml)  
+
 ### [2007-08-1](/news/2007/08/1/index.md)
 
+##### Association of South East Asian Nations
 #  The Association of South East Asian Nations (ASEAN) sign an agreement to bolster economic and security relationships. It also called for negotiations on a Free Trade Agreement between ASEAN, Australia and New Zealand by the end of 2008. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Forbes](http://www.forbes.com/feeds/ap/2007/08/01/ap3977176.html)
+1. [AP via Forbes](https://www.forbes.com/feeds/ap/2007/08/01/ap3977176.html)
 
 ### Related:
 

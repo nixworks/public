@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/4/china-announces-the-creation-of-a-state-internet-information-office-to-direct-coordinate-and-supervise-online-content-management-prompt.html)  [JSON](/news/2011/05/4/china-announces-the-creation-of-a-state-internet-information-office-to-direct-coordinate-and-supervise-online-content-management-prompt.json)  [XML](/news/2011/05/4/china-announces-the-creation-of-a-state-internet-information-office-to-direct-coordinate-and-supervise-online-content-management-prompt.xml)  
+
 ### [2011-05-4](/news/2011/05/4/index.md)
 
+##### China
 # China announces the creation of a State Internet Information Office to 'direct, coordinate, and supervise' online content management, prompting fears that online censorship will grow even more stringent. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RFA](http://www.rfa.org/english/news/china/internet-05042011153819.html)
 

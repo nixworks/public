@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/7/pope-benedict-xvi-calls-for-a-new-financial-world-order-guided-by-ethics-dignity-and-the-search-for-a-common-good.html)  [JSON](/news/2009/07/7/pope-benedict-xvi-calls-for-a-new-financial-world-order-guided-by-ethics-dignity-and-the-search-for-a-common-good.json)  [XML](/news/2009/07/7/pope-benedict-xvi-calls-for-a-new-financial-world-order-guided-by-ethics-dignity-and-the-search-for-a-common-good.xml)  
+
 ### [2009-07-7](/news/2009/07/7/index.md)
 
+##### Pope
 #  Pope Benedict XVI calls for a new financial world order guided by ethics, dignity and the search for a common good. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hS8o80-pzFgO16AGW9tGYGdp68jQD999I4D84)
 2. [The Times of India](http://timesofindia.indiatimes.com/World/Europe/Pope-calls-for-new-world-body-with-real-teeth-/articleshow/4748864.cms)

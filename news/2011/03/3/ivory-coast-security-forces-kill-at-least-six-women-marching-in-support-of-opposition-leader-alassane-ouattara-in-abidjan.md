@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/3/ivory-coast-security-forces-kill-at-least-six-women-marching-in-support-of-opposition-leader-alassane-ouattara-in-abidjan.html)  [JSON](/news/2011/03/3/ivory-coast-security-forces-kill-at-least-six-women-marching-in-support-of-opposition-leader-alassane-ouattara-in-abidjan.json)  [XML](/news/2011/03/3/ivory-coast-security-forces-kill-at-least-six-women-marching-in-support-of-opposition-leader-alassane-ouattara-in-abidjan.xml)  
+
 ### [2011-03-3](/news/2011/03/3/index.md)
 
+##### Ivory Coast
 # Ivory Coast security forces kill at least six women marching in support of Opposition leader Alassane Ouattara in Abidjan. 
 
 Security forces in Ivory Coast shoot dead at least six women marching in support of presidential claimant Alassane Ouattara, witnesses say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12637088)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

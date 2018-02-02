@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/28/fighting-between-militia-and-al-shabaab-militan
 
 ### [2016-11-28](/news/2016/11/28/index.md)
 
+##### War in Somalia (2009-present)
 # Fighting between militia and Al-Shabaab militants has left at least 26 people dead. 
 
 Twenty six people have been killed and several others wounded in an ongoing heavy fighting between Al-Shabaab and local militiamen in southern Mudug region in central Somalia. The fighting erupted at Dumaaye village about 50km away from the Al-Shabaab-held Harardere town after resident took arms against Al-Shabaab over alms or Zakah (an Islamic levy on wealth). &hellip;

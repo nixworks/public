@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/8/dna-analysis-reveals-the-identity-of-the-cursed-blood-disorder-that-afflicted-the-british-royal-family-in-the-19th-and-early-20th-centuri.html)  [JSON](/news/2009/10/8/dna-analysis-reveals-the-identity-of-the-cursed-blood-disorder-that-afflicted-the-british-royal-family-in-the-19th-and-early-20th-centuri.json)  [XML](/news/2009/10/8/dna-analysis-reveals-the-identity-of-the-cursed-blood-disorder-that-afflicted-the-british-royal-family-in-the-19th-and-early-20th-centuri.xml)  
+
 ### [2009-10-8](/news/2009/10/8/index.md)
 
+##### DNA
 #  DNA analysis reveals the identity of the "cursed blood" disorder that afflicted the British Royal Family in the 19th and early 20th centuries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/8297467.stm)
 

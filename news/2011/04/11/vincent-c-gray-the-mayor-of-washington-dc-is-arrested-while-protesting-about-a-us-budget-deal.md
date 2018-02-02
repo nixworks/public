@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/11/vincent-c-gray-the-mayor-of-washington-dc-is-arrested-while-protesting-about-a-us-budget-deal.html)  [JSON](/news/2011/04/11/vincent-c-gray-the-mayor-of-washington-dc-is-arrested-while-protesting-about-a-us-budget-deal.json)  [XML](/news/2011/04/11/vincent-c-gray-the-mayor-of-washington-dc-is-arrested-while-protesting-about-a-us-budget-deal.xml)  
+
 ### [2011-04-11](/news/2011/04/11/index.md)
 
+##### Vincent C. Gray
 # Vincent C. Gray, the Mayor of Washington DC is arrested while protesting about a US budget deal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://politicalticker.blogs.cnn.com/2011/04/11/d-c-mayor-arrested/)
 

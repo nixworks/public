@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/8/at-least-21-people-are-killed-after-two-suicide-
 
 ### [2017-03-8](/news/2017/03/8/index.md)
 
+##### Iraqi Civil War (2014-present)
 # At least 21 people are killed after two suicide bombers attack a wedding party near Tikrit. 
 
 Suicide bomb explosions target wedding ceremony in a village near the Iraqi city of Tikrit, officials say.

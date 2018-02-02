@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/19/post-mubarak-egypt-tens-of-thousands-of-people-converge-on-cairo-s-tahrir-square-to-demonstrate-against-egypt-s-military-rulers-who-have-se.html)  [JSON](/news/2012/06/19/post-mubarak-egypt-tens-of-thousands-of-people-converge-on-cairo-s-tahrir-square-to-demonstrate-against-egypt-s-military-rulers-who-have-se.json)  [XML](/news/2012/06/19/post-mubarak-egypt-tens-of-thousands-of-people-converge-on-cairo-s-tahrir-square-to-demonstrate-against-egypt-s-military-rulers-who-have-se.xml)  
+
 ### [2012-06-19](/news/2012/06/19/index.md)
 
+##### post-Mubarak Egypt
 # post-Mubarak Egypt:Tens of thousands of people converge on Cairo's Tahrir Square to demonstrate against Egypt's military rulers, who have seized power following the ousting from power of Hosni Mubarak in last year's revolution. 
 
 Hosni Mubarak has reportedly suffered a stroke in prison and is reportedly &#034;clinically dead&#034;, according to sources who have spoken to Reuters.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/20126191465269424.html)
 2. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/2012619193851869222.html)
@@ -17,6 +21,12 @@ Hosni Mubarak has reportedly suffered a stroke in prison and is reportedly &#034
 8. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9339933/Britain-stops-Russian-ship-carrying-attack-helicopters-for-Syria.html)
 8. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02245/hos_2245589a.jpg)
 
+### Changes:
+
+1. [Arab Spring:post-Mubarak Egypt:Tens of thousands of people converge on Cairo's Tahrir Square to demonstrate against Egypt's military rulers, who have seized power following the ousting from power of Hosni Mubarak in last year's revolution. ](/news/2012/06/19/arab-spring-ppost-mubarak-egypt-ptens-of-thousands-of-people-converge-on-cairo-s-tahrir-square-to-demonstrate-against-egypt-s-military-ruler.md) _2017-08-25 03:35:55 (First version)_
+2. [Arab Spring:: post-Mubarak Egypt:: Tens of thousands of people converge on Cairo's Tahrir Square to demonstrate against Egypt's military rulers, who have seized power following the ousting from power of Hosni Mubarak in last year's revolution. ](/news/2012/06/19/arab-spring-post-mubarak-egypt-tens-of-thousands-of-people-converge-on-cairo-s-tahrir-square-to-demonstrate-against-egypt-s-military-rul.md) _2017-08-27 03:36:06 (Update)_
+2. [post-Mubarak Egypt:Tens of thousands of people converge on Cairo's Tahrir Square to demonstrate against Egypt's military rulers, who have seized power following the ousting from power of Hosni Mubarak in last year's revolution. ](/news/2012/06/19/post-mubarak-egypt-tens-of-thousands-of-people-converge-on-cairo-s-tahrir-square-to-demonstrate-against-egypt-s-military-rulers-who-have-se.md) _(Current version)_
+
 ### Related:
 
 1. [2011 Egyptian revolution: Activists gather in the Egyptian capital Cairo, calling for the end of the post-Hosni Mubarak military regime. ](/news/2011/12/23/2011-egyptian-revolution-activists-gather-in-the-egyptian-capital-cairo-calling-for-the-end-of-the-post-hosni-mubarak-military-regime.md) _Context: 2011 Egyptian revolution, Cairo, Egypt, Hosni Mubarak_
@@ -24,9 +34,3 @@ Hosni Mubarak has reportedly suffered a stroke in prison and is reportedly &#034
 3. [2011 Egyptian revolution: A female journalist is attacked in Cairo's Tahrir Square while covering a demonstration demanding an immediate trial for former President of Egypt Hosni Mubarak. ](/news/2011/06/3/2011-egyptian-revolution-a-female-journalist-is-attacked-in-cairo-s-tahrir-square-while-covering-a-demonstration-demanding-an-immediate-tri.md) _Context: 2011 Egyptian revolution, Cairo, Hosni Mubarak, Tahrir Square_
 4. [Former Egyptian President Hosni Mubarak is released from detention in Cairo. ](/news/2017/03/24/former-egyptian-president-hosni-mubarak-is-released-from-detention-in-cairo.md) _Context: Cairo, Egypt, Hosni Mubarak_
 5. [A retrial of former President of Egypt Hosni Mubarak begins in Cairo for his alleged complicity in the deaths of protesters in the 2011 Egyptian revolution. ](/news/2013/05/11/a-retrial-of-former-president-of-egypt-hosni-mubarak-begins-in-cairo-for-his-alleged-complicity-in-the-deaths-of-protesters-in-the-2011-egyp.md) _Context: 2011 Egyptian revolution, Cairo, Hosni Mubarak_
-
-### Changes:
-
-1. [Arab Spring:post-Mubarak Egypt:Tens of thousands of people converge on Cairo's Tahrir Square to demonstrate against Egypt's military rulers, who have seized power following the ousting from power of Hosni Mubarak in last year's revolution. ](/news/2012/06/19/arab-spring-ppost-mubarak-egypt-ptens-of-thousands-of-people-converge-on-cairo-s-tahrir-square-to-demonstrate-against-egypt-s-military-ruler.md) _2017-08-25 03:35:55 (First version)_
-2. [Arab Spring:: post-Mubarak Egypt:: Tens of thousands of people converge on Cairo's Tahrir Square to demonstrate against Egypt's military rulers, who have seized power following the ousting from power of Hosni Mubarak in last year's revolution. ](/news/2012/06/19/arab-spring-post-mubarak-egypt-tens-of-thousands-of-people-converge-on-cairo-s-tahrir-square-to-demonstrate-against-egypt-s-military-rul.md) _2017-08-27 03:36:06 (Update)_
-2. [post-Mubarak Egypt:Tens of thousands of people converge on Cairo's Tahrir Square to demonstrate against Egypt's military rulers, who have seized power following the ousting from power of Hosni Mubarak in last year's revolution. ](/news/2012/06/19/post-mubarak-egypt-tens-of-thousands-of-people-converge-on-cairo-s-tahrir-square-to-demonstrate-against-egypt-s-military-rulers-who-have-se.md) _(Current version)_

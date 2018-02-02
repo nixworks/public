@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/21/the-world-s-biggest-banks-endorse-a-rescue-plan-also-supported-by-the-united-states-treasury-to-restore-the-world-s-financial-system.html)  [JSON](/news/2007/10/21/the-world-s-biggest-banks-endorse-a-rescue-plan-also-supported-by-the-united-states-treasury-to-restore-the-world-s-financial-system.json)  [XML](/news/2007/10/21/the-world-s-biggest-banks-endorse-a-rescue-plan-also-supported-by-the-united-states-treasury-to-restore-the-world-s-financial-system.xml)  
+
 ### [2007-10-21](/news/2007/10/21/index.md)
 
+##### bank
 #  The world's biggest banks endorse a rescue plan, also supported by the United States Treasury, to restore the world's financial system. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/7055600.stm)
 

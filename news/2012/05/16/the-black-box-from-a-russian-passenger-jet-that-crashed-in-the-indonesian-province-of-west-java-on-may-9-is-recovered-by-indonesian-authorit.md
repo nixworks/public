@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/16/the-black-box-from-a-russian-passenger-jet-that-crashed-in-the-indonesian-province-of-west-java-on-may-9-is-recovered-by-indonesian-authorit.html)  [JSON](/news/2012/05/16/the-black-box-from-a-russian-passenger-jet-that-crashed-in-the-indonesian-province-of-west-java-on-may-9-is-recovered-by-indonesian-authorit.json)  [XML](/news/2012/05/16/the-black-box-from-a-russian-passenger-jet-that-crashed-in-the-indonesian-province-of-west-java-on-may-9-is-recovered-by-indonesian-authorit.xml)  
+
 ### [2012-05-16](/news/2012/05/16/index.md)
 
+##### black box
 # The black box from a Russian passenger jet that crashed in the Indonesian province of West Java on May 9 is recovered by Indonesian authorities. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/05/16/world/asia/indonesia-plane-crash/index.html?hpt=hp_t3)
 

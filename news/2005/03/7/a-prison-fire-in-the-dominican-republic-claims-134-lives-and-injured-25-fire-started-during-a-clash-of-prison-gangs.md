@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/03/7/a-prison-fire-in-the-dominican-republic-claims-134-lives-and-injured-25-fire-started-during-a-clash-of-prison-gangs.html)  [JSON](/news/2005/03/7/a-prison-fire-in-the-dominican-republic-claims-134-lives-and-injured-25-fire-started-during-a-clash-of-prison-gangs.json)  [XML](/news/2005/03/7/a-prison-fire-in-the-dominican-republic-claims-134-lives-and-injured-25-fire-started-during-a-clash-of-prison-gangs.xml)  
+
 ### [2005-03-7](/news/2005/03/7/index.md)
 
+##### Dominican Republic
 #  A prison fire in the Dominican Republic claims 134 lives and injured 25. Fire started during a clash of prison gangs 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4326431.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7828704)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7828704)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/04/26/in-elections-marred-by-boycotts-and-fraud-allegations-omar-al-bashir-is-re-elected-president-of-sudan-despite-facing-war-crimes-charges-and.html)  [JSON](/news/2010/04/26/in-elections-marred-by-boycotts-and-fraud-allegations-omar-al-bashir-is-re-elected-president-of-sudan-despite-facing-war-crimes-charges-and.json)  [XML](/news/2010/04/26/in-elections-marred-by-boycotts-and-fraud-allegations-omar-al-bashir-is-re-elected-president-of-sudan-despite-facing-war-crimes-charges-and.xml)  
+
 ### [2010-04-26](/news/2010/04/26/index.md)
 
+##### Omar al-Bashir
 # In elections marred by boycotts and fraud allegations, Omar al-Bashir is re-elected president of Sudan despite facing war crimes charges and an international arrest warrant. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/news/world/2010-04-26-Sudan_N.htm)
+1. [USA Today](https://www.usatoday.com/news/world/2010-04-26-Sudan_N.htm)
 
 ### Related:
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/30/a-private-twin-squirrel-helicopter-crashes-in-t
 
 ### [2017-03-30](/news/2017/03/30/index.md)
 
+##### Twin Squirrel
 # A private Twin Squirrel helicopter crashes in the Rhinog mountains of North Wales, killing all five people aboard. 
 
 Five members of the same family are believed to have died in a Dublin-bound helicopter crash.
@@ -12,7 +13,3 @@ Five members of the same family are believed to have died in a Dublin-bound heli
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-39445384)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/FDDD/production/_95398946_burke2.jpg)
-
-### Related:
-
-1. [Heavy rain leads to warnings of floods in mid and north Wales. ](/news/2015/11/15/heavy-rain-leads-to-warnings-of-floods-in-mid-and-north-wales.md) _Context: North Wales_

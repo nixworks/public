@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/31/ali-bongo-is-re-elected-president-of-gabon.html
 
 ### [2016-08-31](/news/2016/08/31/index.md)
 
+##### Gabonese presidential election, 2016
 # Ali Bongo is re-elected President of Gabon. 
 
 Photos of protests in Gabon emerge after election results were released Wednesday.

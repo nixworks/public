@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/01/5/apple-computer-releases-the-power-macintosh-g3-blue-white.html)  [JSON](/news/1999/01/5/apple-computer-releases-the-power-macintosh-g3-blue-white.json)  [XML](/news/1999/01/5/apple-computer-releases-the-power-macintosh-g3-blue-white.xml)  
+
 ### [1999-01-5](/news/1999/01/5/index.md)
 
+##### Apple Computer
 #  Apple Computer releases the Power Macintosh G3 (Blue & White).
 
 

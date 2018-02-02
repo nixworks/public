@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/11/authorities-in-tajikistan-are-to-ban-divorce-by-text-message.html)  [JSON](/news/2011/04/11/authorities-in-tajikistan-are-to-ban-divorce-by-text-message.json)  [XML](/news/2011/04/11/authorities-in-tajikistan-are-to-ban-divorce-by-text-message.xml)  
+
 ### [2011-04-11](/news/2011/04/11/index.md)
 
+##### Tajikistan
 # Authorities in Tajikistan are to ban divorce by text message. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CP](http://www.google.com/hostednews/canadianpress/article/ALeqM5jvfm56-beTQRF6fDJFIDdkmoRZEg?docId=6530679)
 

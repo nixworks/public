@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/07/19/iraq-s-main-sunni-arab-political-block-the-iraqi-accord-front-agrees-to-end-its-boycott-of-the-iraqi-council-of-representatives.html)  [JSON](/news/2007/07/19/iraq-s-main-sunni-arab-political-block-the-iraqi-accord-front-agrees-to-end-its-boycott-of-the-iraqi-council-of-representatives.json)  [XML](/news/2007/07/19/iraq-s-main-sunni-arab-political-block-the-iraqi-accord-front-agrees-to-end-its-boycott-of-the-iraqi-council-of-representatives.xml)  
+
 ### [2007-07-19](/news/2007/07/19/index.md)
 
+##### Iraq
 #  Iraq's main Sunni Arab political block, the Iraqi Accord Front, agrees to end its boycott of the Iraqi Council of Representatives. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSL1964517020070719?feedType=RSS)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSL1964517020070719?feedType=RSS)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

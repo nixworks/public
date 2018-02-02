@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/27/french-foreign-minister-laurent-fabius-announces-that-france-intends-to-vote-in-favor-of-upgrading-palestine-s-status-at-the-united-nations.html)  [JSON](/news/2012/11/27/french-foreign-minister-laurent-fabius-announces-that-france-intends-to-vote-in-favor-of-upgrading-palestine-s-status-at-the-united-nations.json)  [XML](/news/2012/11/27/french-foreign-minister-laurent-fabius-announces-that-france-intends-to-vote-in-favor-of-upgrading-palestine-s-status-at-the-united-nations.xml)  
+
 ### [2012-11-27](/news/2012/11/27/index.md)
 
+##### Foreign Minister of France
 # French Foreign Minister Laurent Fabius announces that France intends to vote in favor of upgrading Palestine's status at the United Nations from permanent observer as the Palestinian Liberation Organization to a non-member observer state. The vote is scheduled to be held later this week. 
 
 France confirms it intends to vote in favour of the Palestinian bid for recognition as a non-member observer state at the United Nations.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20514194)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64413000/jpg/_64413584_64413583.jpg)

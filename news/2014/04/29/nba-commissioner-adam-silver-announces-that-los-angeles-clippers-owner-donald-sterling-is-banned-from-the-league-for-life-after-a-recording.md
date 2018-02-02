@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/29/nba-commissioner-adam-silver-announces-that-los-angeles-clippers-owner-donald-sterling-is-banned-from-the-league-for-life-after-a-recording.html)  [JSON](/news/2014/04/29/nba-commissioner-adam-silver-announces-that-los-angeles-clippers-owner-donald-sterling-is-banned-from-the-league-for-life-after-a-recording.json)  [XML](/news/2014/04/29/nba-commissioner-adam-silver-announces-that-los-angeles-clippers-owner-donald-sterling-is-banned-from-the-league-for-life-after-a-recording.xml)  
+
 ### [2014-04-29](/news/2014/04/29/index.md)
 
+##### NBA
 # NBA Commissioner Adam Silver announces that Los Angeles Clippers owner Donald Sterling is banned from the league for life after a recording of Sterling making racist comments surfaces. Sterling is also fined the maximum allowable US$2.5 million as the NBA examines options for a forced sale. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/US/nba-donald-sterling-banned-life/story?id=23513899)
 2. [Fox News](http://www.foxnews.com/sports/2014/04/29/clippers-owner-donald-sterling-banned-for-life-from-nba-fined-25-million-by-nba/)

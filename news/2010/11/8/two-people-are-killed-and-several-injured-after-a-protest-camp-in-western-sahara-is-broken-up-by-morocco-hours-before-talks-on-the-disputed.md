@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/8/two-people-are-killed-and-several-injured-after-a-protest-camp-in-western-sahara-is-broken-up-by-morocco-hours-before-talks-on-the-disputed.html)  [JSON](/news/2010/11/8/two-people-are-killed-and-several-injured-after-a-protest-camp-in-western-sahara-is-broken-up-by-morocco-hours-before-talks-on-the-disputed.json)  [XML](/news/2010/11/8/two-people-are-killed-and-several-injured-after-a-protest-camp-in-western-sahara-is-broken-up-by-morocco-hours-before-talks-on-the-disputed.xml)  
+
 ### [2010-11-8](/news/2010/11/8/index.md)
 
+##### Western Sahara
 # Two people are killed and several injured after a protest camp in Western Sahara is broken up by Morocco, hours before talks on the disputed territory begin. 
 
 At least five people are killed and dozens injured as Moroccan forces break up a protest camp in the disputed Western Sahara territory.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11710400)
 2. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1426781&lang=eng_news&cate_img=1037.jpg&cate_rss=General)

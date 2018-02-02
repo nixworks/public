@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/10/russian-foreign-minister-igor-ivanov-announced-that-russia-would-veto-a-un-resolution-by-the-us-and-the-uk-authorising-the-use-of-force-aga.html)  [JSON](/news/2003/03/10/russian-foreign-minister-igor-ivanov-announced-that-russia-would-veto-a-un-resolution-by-the-us-and-the-uk-authorising-the-use-of-force-aga.json)  [XML](/news/2003/03/10/russian-foreign-minister-igor-ivanov-announced-that-russia-would-veto-a-un-resolution-by-the-us-and-the-uk-authorising-the-use-of-force-aga.xml)  
+
 ### [2003-03-10](/news/2003/03/10/index.md)
 
+##### Igor Ivanov
 #  Russian Foreign Minister Igor Ivanov announced that Russia would veto a UN resolution by the US and the UK authorising the use of force against Iraq.
 
 

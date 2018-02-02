@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/30/at-least-26-people-die-following-a-bus-crash-near-guwahati-the-capital-of-india-s-assam-state.html)  [JSON](/news/2011/05/30/at-least-26-people-die-following-a-bus-crash-near-guwahati-the-capital-of-india-s-assam-state.json)  [XML](/news/2011/05/30/at-least-26-people-die-following-a-bus-crash-near-guwahati-the-capital-of-india-s-assam-state.xml)  
+
 ### [2011-05-30](/news/2011/05/30/index.md)
 
+##### Guwahati
 # At least 26 people die following a bus crash near Guwahati, the capital of India's Assam state. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2011/05/30/international/i193444D60.DTL)
 

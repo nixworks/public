@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/1/in-the-democratic-republic-of-congo-at-least-10-people-have-died-during-protests-over-delay-to-the-presidential-elections-opposition-clai.html)  [JSON](/news/2005/07/1/in-the-democratic-republic-of-congo-at-least-10-people-have-died-during-protests-over-delay-to-the-presidential-elections-opposition-clai.json)  [XML](/news/2005/07/1/in-the-democratic-republic-of-congo-at-least-10-people-have-died-during-protests-over-delay-to-the-presidential-elections-opposition-clai.xml)  
+
 ### [2005-07-1](/news/2005/07/1/index.md)
 
+##### Democratic Republic of Congo
 #  In the Democratic Republic of Congo, at least 10 people have died during protests over delay to the presidential elections. Opposition claims the numbers are closer to 42. (Wikinews) 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4636627.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/25/a-protester-is-arrested-for-throwing-a-paint-bomb-at-british-deputy-prime-minister-nick-clegg-as-he-arrives-at-a-liberal-democrats-party-mee.html)  [JSON](/news/2011/08/25/a-protester-is-arrested-for-throwing-a-paint-bomb-at-british-deputy-prime-minister-nick-clegg-as-he-arrives-at-a-liberal-democrats-party-mee.json)  [XML](/news/2011/08/25/a-protester-is-arrested-for-throwing-a-paint-bomb-at-british-deputy-prime-minister-nick-clegg-as-he-arrives-at-a-liberal-democrats-party-mee.xml)  
+
 ### [2011-08-25](/news/2011/08/25/index.md)
 
+##### Deputy Prime Minister
 # A protester is arrested for throwing a paint bomb at British Deputy Prime Minister Nick Clegg as he arrives at a Liberal Democrats party meeting in Glasgow. 
 
 A man is arrested after Deputy Prime Minister Nick Clegg was splattered with blue paint by a protester while arriving at a Lib Dem meeting in Glasgow.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-14672120)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54830000/jpg/_54830958_wall.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/11/hannibal-gaddafi-son-of-libya-s-late-leader-muammar-gaddafi-who-was-kidnapped-by-militants-is-released-in-baalbek-lebanon-gaddafi-s-abd.html)  [JSON](/news/2015/12/11/hannibal-gaddafi-son-of-libya-s-late-leader-muammar-gaddafi-who-was-kidnapped-by-militants-is-released-in-baalbek-lebanon-gaddafi-s-abd.json)  [XML](/news/2015/12/11/hannibal-gaddafi-son-of-libya-s-late-leader-muammar-gaddafi-who-was-kidnapped-by-militants-is-released-in-baalbek-lebanon-gaddafi-s-abd.xml)  
+
 ### [2015-12-11](/news/2015/12/11/index.md)
 
+##### Hannibal Gaddafi
 # Hannibal Gaddafi, son of Libya's late leader Muammar Gaddafi, who was kidnapped by militants, is released in Baalbek, Lebanon. Gaddafi's abductors said they were seeking information on the fate of Shiite cleric Imam Moussa al-Sadr, who disappeared during a trip to Tripoli in 1978. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/son-late-libyan-leader-gadhafi-kidnapped-lebanon-35721493)
 2. [AP via NBC News-update](http://www.nbcnews.com/news/world/muammar-gaddafis-son-kidnapped-released-lebanon-n478821)

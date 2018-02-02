@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2006/04/6/palaeontologists-announce-the-discovery-of-the-tiktaalik-genus-an-important-fossil-link-between-fish-and-land-animals.html)  [JSON](/news/2006/04/6/palaeontologists-announce-the-discovery-of-the-tiktaalik-genus-an-important-fossil-link-between-fish-and-land-animals.json)  [XML](/news/2006/04/6/palaeontologists-announce-the-discovery-of-the-tiktaalik-genus-an-important-fossil-link-between-fish-and-land-animals.xml)  
+
 ### [2006-04-6](/news/2006/04/6/index.md)
 
+##### Paleontologists
 #  Palaeontologists announce the discovery of the "Tiktaalik" genus, an important fossil link between fish and land animals. 
 
 The 375 million-year-old fish fossil exhibits changes that anticipate the emergence of land animals. 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/4879672.stm)
 2. [Guardian](http://www.guardian.co.uk/science/story/0,,1747926,00.html)
-3. [New York Times](http://www.nytimes.com/2006/04/05/science/05cnd-fossil.html?hp&ex=1144296000&en=fe3427d67e965e46&ei=5094&partner=homepage)
+3. [New York Times](https://www.nytimes.com/2006/04/05/science/05cnd-fossil.html?hp&ex=1144296000&en=fe3427d67e965e46&ei=5094&partner=homepage)
 3. [Cover Image](https://static01.nyt.com/images/2006/04/05/science/05cnd-fossil.75.jpg)
 
 ### Related:

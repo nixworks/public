@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/30/waziristan-war-scores-of-pakistani-soldiers-have-gone-missing-near-the-afghanistan-border-amid-claims-from-pro-taleban-militants-that-the.html)  [JSON](/news/2007/08/30/waziristan-war-scores-of-pakistani-soldiers-have-gone-missing-near-the-afghanistan-border-amid-claims-from-pro-taleban-militants-that-the.json)  [XML](/news/2007/08/30/waziristan-war-scores-of-pakistani-soldiers-have-gone-missing-near-the-afghanistan-border-amid-claims-from-pro-taleban-militants-that-the.xml)  
+
 ### [2007-08-30](/news/2007/08/30/index.md)
 
+##### Waziristan War
 #  Waziristan War: Scores of Pakistani soldiers have gone missing near the Afghanistan border, amid claims from pro-Taleban militants that they have kidnapped the troops. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6971179.stm)
 

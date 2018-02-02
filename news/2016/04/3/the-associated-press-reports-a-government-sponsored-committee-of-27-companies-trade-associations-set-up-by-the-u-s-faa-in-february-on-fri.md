@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/3/the-associated-press-reports-a-government-sponso
 
 ### [2016-04-3](/news/2016/04/3/index.md)
 
+##### Associated Press
 # The Associated Press reports a government-sponsored committee of 27 companies-trade associations, set up by the U.S. FAA in February, on Friday submitted recommendations that could clear the way for commercial drone flights over populated areas, and help speed the introduction of package delivery drones. 
 
 WASHINGTON (AP) — A government-sponsored committee is recommending standards that could clear the way for commercial drone flights over populated areas and help speed the introduction of package delivery drones and other…

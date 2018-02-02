@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/6/orthodox-jews-in-boro-park-in-new-york-city-continue-to-protest-after-a-75-year-old-hasidic-man-was-beaten-and-arrested-by-police-for-talki.html)  [JSON](/news/2006/04/6/orthodox-jews-in-boro-park-in-new-york-city-continue-to-protest-after-a-75-year-old-hasidic-man-was-beaten-and-arrested-by-police-for-talki.json)  [XML](/news/2006/04/6/orthodox-jews-in-boro-park-in-new-york-city-continue-to-protest-after-a-75-year-old-hasidic-man-was-beaten-and-arrested-by-police-for-talki.xml)  
+
 ### [2006-04-6](/news/2006/04/6/index.md)
 
+##### Orthodox Jews
 #  Orthodox Jews in Boro Park in New York City continue to protest after a 75-year-old Hasidic man was beaten and arrested by police for talking on a cell phone while driving. NYPD Chief Joseph Esposito allegedly cursed out the protestors in anti-Semitic terms, resulting in condemnations and calls for him to step down. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [FOX news](http://www.fox12news.com/Global/story.asp?S=4734568)
 2. [New York Sun](http://www.nysun.com/article/30527)

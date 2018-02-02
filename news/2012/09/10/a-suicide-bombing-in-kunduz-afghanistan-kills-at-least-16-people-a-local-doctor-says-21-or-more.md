@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/10/a-suicide-bombing-in-kunduz-afghanistan-kills-at-least-16-people-a-local-doctor-says-21-or-more.html)  [JSON](/news/2012/09/10/a-suicide-bombing-in-kunduz-afghanistan-kills-at-least-16-people-a-local-doctor-says-21-or-more.json)  [XML](/news/2012/09/10/a-suicide-bombing-in-kunduz-afghanistan-kills-at-least-16-people-a-local-doctor-says-21-or-more.xml)  
+
 ### [2012-09-10](/news/2012/09/10/index.md)
 
+##### Kunduz
 # A suicide bombing in Kunduz, Afghanistan, kills at least 16 people; a local doctor says "21 or more". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Financial Express](http://www.thefinancialexpress-bd.com/more.php?news_id=142996&date=2012-09-11)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-19543786)

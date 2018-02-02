@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/4/unesco-adds-new-sites-to-the-world-heritage-list-tusi-sites-china-susa-cultural-landscape-of-maymand-both-in-iran-singapore-botanic.html)  [JSON](/news/2015/07/4/unesco-adds-new-sites-to-the-world-heritage-list-tusi-sites-china-susa-cultural-landscape-of-maymand-both-in-iran-singapore-botanic.json)  [XML](/news/2015/07/4/unesco-adds-new-sites-to-the-world-heritage-list-tusi-sites-china-susa-cultural-landscape-of-maymand-both-in-iran-singapore-botanic.xml)  
+
 ### [2015-07-4](/news/2015/07/4/index.md)
 
+##### UNESCO
 #  UNESCO adds new sites to the World Heritage List: Tusi Sites (China), Susa, Cultural Landscape of Maymand (both in Iran), Singapore Botanic Gardens (Singapore), Baekje Historic Areas (Republic of Korea), Great Burkhan Khaldun Mountain and its surrounding sacred landscape (Mongolia), and the French wine producing regions of Champagne and Burgundy. 
 
 BERLIN (AFP) - The historic vineyards, wine cellars and champagne houses where the world’s most famous sparkling wines are produced were listed as a world heritage site by Unesco on Saturday.. Read more at straitstimes.com.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Straits Times](http://www.straitstimes.com/world/europe/unesco-lists-champagnes-vineyards-and-wine-cellars)
 2. [UNESCO](http://whc.unesco.org/en/news/1314/)

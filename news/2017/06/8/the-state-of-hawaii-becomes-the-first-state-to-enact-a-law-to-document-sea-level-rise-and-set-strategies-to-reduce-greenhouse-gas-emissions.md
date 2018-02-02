@@ -1,11 +1,9 @@
 
-### Formats:
+Formats: [HTML](/news/2017/06/8/the-state-of-hawaii-becomes-the-first-state-to-enact-a-law-to-document-sea-level-rise-and-set-strategies-to-reduce-greenhouse-gas-emissions.html)  [JSON](/news/2017/06/8/the-state-of-hawaii-becomes-the-first-state-to-enact-a-law-to-document-sea-level-rise-and-set-strategies-to-reduce-greenhouse-gas-emissions.json)  [XML](/news/2017/06/8/the-state-of-hawaii-becomes-the-first-state-to-enact-a-law-to-document-sea-level-rise-and-set-strategies-to-reduce-greenhouse-gas-emissions.xml)  
 
-* [HTML](/news/2017/06/8/the-state-of-hawaii-becomes-the-first-state-to-enact-a-law-to-document-sea-level-rise-and-set-strategies-to-reduce-greenhouse-gas-emissions.html)
-* [JSON](/news/2017/06/8/the-state-of-hawaii-becomes-the-first-state-to-enact-a-law-to-document-sea-level-rise-and-set-strategies-to-reduce-greenhouse-gas-emissions.json)
-* [XML](/news/2017/06/8/the-state-of-hawaii-becomes-the-first-state-to-enact-a-law-to-document-sea-level-rise-and-set-strategies-to-reduce-greenhouse-gas-emissions.xml)
 ### [2017-06-8](/news/2017/06/8/index.md)
 
+##### plan to leave
 # The state of Hawaii becomes the first state to enact a law, to document sea level rise and set strategies to reduce greenhouse gas emissions, that aligns the state's goals with the Paris climate accord. Governor David Ige says the islands are seeing the impacts of climate change first-hand. 
 
 Hawaii has passed a law to document sea level rise and set strategies to reduce greenhouse gas emissions. 

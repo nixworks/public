@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/20/the-vatican-is-said-to-be-troubled-by-the-latest-sex-scandal-engulfing-italy-s-prime-minister-silvio-berlusconi-alleging-that-berlusconi.html)  [JSON](/news/2011/01/20/the-vatican-is-said-to-be-troubled-by-the-latest-sex-scandal-engulfing-italy-s-prime-minister-silvio-berlusconi-alleging-that-berlusconi.json)  [XML](/news/2011/01/20/the-vatican-is-said-to-be-troubled-by-the-latest-sex-scandal-engulfing-italy-s-prime-minister-silvio-berlusconi-alleging-that-berlusconi.xml)  
+
 ### [2011-01-20](/news/2011/01/20/index.md)
 
+##### Italy
 # The Vatican is said to be "troubled" by the latest sex scandal engulfing Italy's prime minister Silvio Berlusconi, alleging that Berlusconi purchased an under-age prostitute. 
 
 The Vatican says it is troubled by the latest allegations against Italian PM Silvio Berlusconi, who is accused of paying a under-age prostitute.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12245730)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/50862000/jpg/_50862054_011012985-1.jpg)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/07/10/a-strong-earthquake-of-7-1-magnitude-occurs-off-the-coast-of-honshu-in-japan-sparking-a-tsunami-warning.html)  [JSON](/news/2011/07/10/a-strong-earthquake-of-7-1-magnitude-occurs-off-the-coast-of-honshu-in-japan-sparking-a-tsunami-warning.json)  [XML](/news/2011/07/10/a-strong-earthquake-of-7-1-magnitude-occurs-off-the-coast-of-honshu-in-japan-sparking-a-tsunami-warning.xml)  
+
 ### [2011-07-10](/news/2011/07/10/index.md)
 
+##### earthquake
 # A strong earthquake of 7.1 magnitude occurs off the coast of Honshu in Japan sparking a tsunami warning. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/asia-pacific/magnitude-71-earthquake-hits-off-northeastern-japan-coast-still-recovering-from-tsunami/2011/07/09/gIQAkAHB6H_story.html?wpisrc=al_national)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/asia-pacific/magnitude-71-earthquake-hits-off-northeastern-japan-coast-still-recovering-from-tsunami/2011/07/09/gIQAkAHB6H_story.html?wpisrc=al_national)
 
 ### Related:
 

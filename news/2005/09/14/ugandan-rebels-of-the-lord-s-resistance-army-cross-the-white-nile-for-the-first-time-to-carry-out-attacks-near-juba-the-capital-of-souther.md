@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/14/ugandan-rebels-of-the-lord-s-resistance-army-cross-the-white-nile-for-the-first-time-to-carry-out-attacks-near-juba-the-capital-of-souther.html)  [JSON](/news/2005/09/14/ugandan-rebels-of-the-lord-s-resistance-army-cross-the-white-nile-for-the-first-time-to-carry-out-attacks-near-juba-the-capital-of-souther.json)  [XML](/news/2005/09/14/ugandan-rebels-of-the-lord-s-resistance-army-cross-the-white-nile-for-the-first-time-to-carry-out-attacks-near-juba-the-capital-of-souther.xml)  
+
 ### [2005-09-14](/news/2005/09/14/index.md)
 
+##### Uganda
 #  Ugandan Rebels of the Lord's Resistance Army cross the White Nile for the first time to carry out attacks near Juba, the capital of Southern Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4246276.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/1/austriaas-highest-court-orders-a-repeat-of-the-p
 
 ### [2016-07-1](/news/2016/07/1/index.md)
 
+##### Austrian presidential election, 2016
 # Austria's highest court orders a repeat of the presidential elections narrowly lost in May by right-wing populist Freedom Party of Austria candidate Norbert Hofer. The margin of votes was less than 1%. 
 
 Europe was plunged into fresh crisis on Friday as Austria&rsquo;s courts ordered a re-run of the country&rsquo;s presidential election.

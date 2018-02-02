@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/22/paul-ryan-announces-that-he-will-run-to-succeed-outgoing-speaker-of-the-united-states-house-of-representatives-john-boehner-after-receiving.html)  [JSON](/news/2015/10/22/paul-ryan-announces-that-he-will-run-to-succeed-outgoing-speaker-of-the-united-states-house-of-representatives-john-boehner-after-receiving.json)  [XML](/news/2015/10/22/paul-ryan-announces-that-he-will-run-to-succeed-outgoing-speaker-of-the-united-states-house-of-representatives-john-boehner-after-receiving.xml)  
+
 ### [2015-10-22](/news/2015/10/22/index.md)
 
+##### Paul Ryan
 # Paul Ryan announces that he will run to succeed outgoing Speaker of the United States House of Representatives John Boehner after receiving the support of a significant majority of members of the Republican Party. 
 
 Rep. Paul Ryan, R-Wisc., informed House Republicans late Thursday that he would run for speaker after initially saying he does not want the job.
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://www.nbcnews.com/politics/congress/paul-ryan-says-hell-run-house-speaker-n449631?cid=eml_nbn_20151022)
 1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2015_43/1269661/151020-paul-ryan-jsw-847p_cb363c22563a66e355641dbd5fbc2028.nbcnews-fp-1200-800.jpg)

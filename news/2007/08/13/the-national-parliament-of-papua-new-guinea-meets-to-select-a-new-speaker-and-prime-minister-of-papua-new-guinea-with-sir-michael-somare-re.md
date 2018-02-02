@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/13/the-national-parliament-of-papua-new-guinea-meets-to-select-a-new-speaker-and-prime-minister-of-papua-new-guinea-with-sir-michael-somare-re.html)  [JSON](/news/2007/08/13/the-national-parliament-of-papua-new-guinea-meets-to-select-a-new-speaker-and-prime-minister-of-papua-new-guinea-with-sir-michael-somare-re.json)  [XML](/news/2007/08/13/the-national-parliament-of-papua-new-guinea-meets-to-select-a-new-speaker-and-prime-minister-of-papua-new-guinea-with-sir-michael-somare-re.xml)  
+
 ### [2007-08-13](/news/2007/08/13/index.md)
 
+##### National Parliament
 #  The National Parliament of Papua New Guinea meets to select a new Speaker and Prime Minister of Papua New Guinea with Sir Michael Somare re-elected as Prime Minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand](http://www.rnzi.com/pages/news.php?op=read&id=34347)
 2. [Reuters](http://uk.reuters.com/article/worldNews/idUKSYD7802620070813)

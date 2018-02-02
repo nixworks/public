@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/19/the-montreal-band-arcade-fire-wins-the-2011-polaris-music-prize-for-best-canadian-album-for-the-suburbs.html)  [JSON](/news/2011/09/19/the-montreal-band-arcade-fire-wins-the-2011-polaris-music-prize-for-best-canadian-album-for-the-suburbs.json)  [XML](/news/2011/09/19/the-montreal-band-arcade-fire-wins-the-2011-polaris-music-prize-for-best-canadian-album-for-the-suburbs.xml)  
+
 ### [2011-09-19](/news/2011/09/19/index.md)
 
+##### Montreal
 # The Montreal band Arcade Fire wins the 2011 Polaris Music Prize for best Canadian album for "The Suburbs". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Canadian Press via ''Winnipeg Free Press](http://www.winnipegfreepress.com/breakingnews/arcade-fire-sexsmith-austra-vie-for-polaris-music-prize-at-gala-tonight-130101398.html)
 

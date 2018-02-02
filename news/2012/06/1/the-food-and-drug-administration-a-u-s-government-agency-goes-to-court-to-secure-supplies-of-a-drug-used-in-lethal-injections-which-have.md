@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/1/the-food-and-drug-administration-a-u-s-government-agency-goes-to-court-to-secure-supplies-of-a-drug-used-in-lethal-injections-which-have.html)  [JSON](/news/2012/06/1/the-food-and-drug-administration-a-u-s-government-agency-goes-to-court-to-secure-supplies-of-a-drug-used-in-lethal-injections-which-have.json)  [XML](/news/2012/06/1/the-food-and-drug-administration-a-u-s-government-agency-goes-to-court-to-secure-supplies-of-a-drug-used-in-lethal-injections-which-have.xml)  
+
 ### [2012-06-1](/news/2012/06/1/index.md)
 
+##### Food and Drug Administration
 # The Food and Drug Administration, a U.S. government agency, goes to court to secure supplies of a drug used in lethal injections, which have dwindled since an importation ban. 
 
 A US government agency goes to court to secure supplies of a drug used in lethal injections, which have dwindled since an importation ban.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-18253578)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60611000/jpg/_60611133_001837638-1.jpg)

@@ -1,16 +1,26 @@
+
+Formats: [HTML](/news/2005/11/3/a-joint-israeli-palestinian-doctors-group-has-filed-a-petition-to-the-supreme-court-of-israel-requesting-an-end-to-the-israel-defense-force.html)  [JSON](/news/2005/11/3/a-joint-israeli-palestinian-doctors-group-has-filed-a-petition-to-the-supreme-court-of-israel-requesting-an-end-to-the-israel-defense-force.json)  [XML](/news/2005/11/3/a-joint-israeli-palestinian-doctors-group-has-filed-a-petition-to-the-supreme-court-of-israel-requesting-an-end-to-the-israel-defense-force.xml)  
+
 ### [2005-11-3](/news/2005/11/3/index.md)
 
+##### Israel
 #  A joint Israeli-Palestinian doctors group has filed a petition to the Supreme Court of Israel requesting an end to the Israel Defense Forces use of sonic booms to terrify the Palestinian populace. The Doctors complain that the "sound bombs" cause widespread fear, induce miscarriages and traumatise children. The United Nations claim that the tactic causes panic attacks in children and has smashed thousands of windows. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4402326.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4402502.stm)
 3. [Haaretz](http://www.haaretz.com/hasen/spages/641578.html)
 4. [The Guardian](http://www.guardian.co.uk/israel/Story/0,2763,1607450,00.html)
+
+### Changes:
+
+1. [ Israeli-Palestinian Conflict: A joint Israeli-Palestinian doctors group has filed a petition to the Supreme Court of Israel requesting an end to the Israel Defense Forces use of sonic booms to terrify the Palestinian populace. The Doctors complain that the "sound bombs" cause widespread fear, induce miscarriages and traumatise children. The United Nations claim that the tactic causes panic attacks in children and has smashed thousands of windows. ](/news/2005/11/3/israeli-palestinian-conflict-p-a-joint-israeli-palestinian-doctors-group-has-filed-a-petition-to-the-supreme-court-of-israel-requesting-an.md) _2017-08-25 03:17:04 (First version)_
+2. [ Israeli-Palestinian Conflict:: A joint Israeli-Palestinian doctors group has filed a petition to the Supreme Court of Israel requesting an end to the Israel Defense Forces use of sonic booms to terrify the Palestinian populace. The Doctors complain that the "sound bombs" cause widespread fear, induce miscarriages and traumatise children. The United Nations claim that the tactic causes panic attacks in children and has smashed thousands of windows. ](/news/2005/11/3/israeli-palestinian-conflict-a-joint-israeli-palestinian-doctors-group-has-filed-a-petition-to-the-supreme-court-of-israel-requesting-an.md) _2017-08-27 03:17:04 (Update)_
+2. [ A joint Israeli-Palestinian doctors group has filed a petition to the Supreme Court of Israel requesting an end to the Israel Defense Forces use of sonic booms to terrify the Palestinian populace. The Doctors complain that the "sound bombs" cause widespread fear, induce miscarriages and traumatise children. The United Nations claim that the tactic causes panic attacks in children and has smashed thousands of windows. ](/news/2005/11/3/a-joint-israeli-palestinian-doctors-group-has-filed-a-petition-to-the-supreme-court-of-israel-requesting-an-end-to-the-israel-defense-force.md) _(Current version)_
 
 ### Related:
 
@@ -19,9 +29,3 @@
 3. [ The Israel Defense Forces bomb the Gaza Strip in response to Palestinian rocket and mortar fire. ](/news/2009/02/2/the-israel-defense-forces-bomb-the-gaza-strip-in-response-to-palestinian-rocket-and-mortar-fire.md) _Context: Israel, Israel Defense Forces, Palestinian_
 4. [ Israel will pay US$50,000 to the family of a Palestinian man who was killed by the country's Defense Forces in December 2003. ](/news/2009/02/15/israel-will-pay-us-50-000-to-the-family-of-a-palestinian-man-who-was-killed-by-the-country-s-defense-forces-in-december-2003.md) _Context: Israel, Israel Defense Forces, Palestinian_
 5. [The Israel Defense Forces continue airstrikes against Hamas in the Gaza Strip as the number of Palestinian casualties approaches 300. ](/news/2008/12/28/the-israel-defense-forces-continue-airstrikes-against-hamas-in-the-gaza-strip-as-the-number-of-palestinian-casualties-approaches-300.md) _Context: Israel, Israel Defense Forces, Palestinian_
-
-### Changes:
-
-1. [ Israeli-Palestinian Conflict: A joint Israeli-Palestinian doctors group has filed a petition to the Supreme Court of Israel requesting an end to the Israel Defense Forces use of sonic booms to terrify the Palestinian populace. The Doctors complain that the "sound bombs" cause widespread fear, induce miscarriages and traumatise children. The United Nations claim that the tactic causes panic attacks in children and has smashed thousands of windows. ](/news/2005/11/3/israeli-palestinian-conflict-p-a-joint-israeli-palestinian-doctors-group-has-filed-a-petition-to-the-supreme-court-of-israel-requesting-an.md) _2017-08-25 03:17:04 (First version)_
-2. [ Israeli-Palestinian Conflict:: A joint Israeli-Palestinian doctors group has filed a petition to the Supreme Court of Israel requesting an end to the Israel Defense Forces use of sonic booms to terrify the Palestinian populace. The Doctors complain that the "sound bombs" cause widespread fear, induce miscarriages and traumatise children. The United Nations claim that the tactic causes panic attacks in children and has smashed thousands of windows. ](/news/2005/11/3/israeli-palestinian-conflict-a-joint-israeli-palestinian-doctors-group-has-filed-a-petition-to-the-supreme-court-of-israel-requesting-an.md) _2017-08-27 03:17:04 (Update)_
-2. [ A joint Israeli-Palestinian doctors group has filed a petition to the Supreme Court of Israel requesting an end to the Israel Defense Forces use of sonic booms to terrify the Palestinian populace. The Doctors complain that the "sound bombs" cause widespread fear, induce miscarriages and traumatise children. The United Nations claim that the tactic causes panic attacks in children and has smashed thousands of windows. ](/news/2005/11/3/a-joint-israeli-palestinian-doctors-group-has-filed-a-petition-to-the-supreme-court-of-israel-requesting-an-end-to-the-israel-defense-force.md) _(Current version)_

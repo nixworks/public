@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/4/art-exhibit-of-chinese-dissident-ai-weiwei-jailed-by-the-chinese-government-last-month-for-unspecified-economic-crimes-opens-in-new-yor.html)  [JSON](/news/2011/05/4/art-exhibit-of-chinese-dissident-ai-weiwei-jailed-by-the-chinese-government-last-month-for-unspecified-economic-crimes-opens-in-new-yor.json)  [XML](/news/2011/05/4/art-exhibit-of-chinese-dissident-ai-weiwei-jailed-by-the-chinese-government-last-month-for-unspecified-economic-crimes-opens-in-new-yor.xml)  
+
 ### [2011-05-4](/news/2011/05/4/index.md)
 
+##### dissident
 # Art exhibit of Chinese dissident, Ai Weiwei, jailed by the Chinese government last month for unspecified "economic crimes," opens in New York City. 
 
 A Chinese artist was noticeably absent from his own exhibit in New York after having been detained by his government for unspecified &quot;economic crimes.&quot; 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/US/05/04/new.york.chinese.art/index.html)
 1. [Cover Image](http://i.cdn.turner.com/cnn/2011/US/05/04/new.york.chinese.art/tzvids.ai.weiwei.afp.gi.jpg)

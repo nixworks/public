@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/04/16/tuanku-syed-putra-ibni-almarhum-syed-hassan-jamalullail-raja-of-perlis-dies-after-a-reign-of-55-years-he-was-the-longest-reigning-monarch.html)  [JSON](/news/2000/04/16/tuanku-syed-putra-ibni-almarhum-syed-hassan-jamalullail-raja-of-perlis-dies-after-a-reign-of-55-years-he-was-the-longest-reigning-monarch.json)  [XML](/news/2000/04/16/tuanku-syed-putra-ibni-almarhum-syed-hassan-jamalullail-raja-of-perlis-dies-after-a-reign-of-55-years-he-was-the-longest-reigning-monarch.xml)  
+
 ### [2000-04-16](/news/2000/04/16/index.md)
 
+##### Tuanku Syed Putra ibni Almarhum Syed Hassan Jamalullail
 #  Tuanku Syed Putra ibni Almarhum Syed Hassan Jamalullail, Raja of Perlis dies after a reign of 55 years. He was the longest reigning monarch in the world since the death of Hirohito, Emperor of Japan.
 
 

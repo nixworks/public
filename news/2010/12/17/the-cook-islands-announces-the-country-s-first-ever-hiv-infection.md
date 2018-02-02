@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/17/the-cook-islands-announces-the-country-s-first-ever-hiv-infection.html)  [JSON](/news/2010/12/17/the-cook-islands-announces-the-country-s-first-ever-hiv-infection.json)  [XML](/news/2010/12/17/the-cook-islands-announces-the-country-s-first-ever-hiv-infection.xml)  
+
 ### [2010-12-17](/news/2010/12/17/index.md)
 
+##### Cook Islands
 # The Cook Islands announces the country's first ever HIV infection. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC Radio Australia](http://www.radioaustralianews.net.au/stories/201012/3095514.htm?desktop)
 

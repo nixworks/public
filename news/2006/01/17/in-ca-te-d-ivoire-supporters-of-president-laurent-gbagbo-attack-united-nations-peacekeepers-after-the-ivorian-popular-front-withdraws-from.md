@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/17/in-ca-te-d-ivoire-supporters-of-president-laurent-gbagbo-attack-united-nations-peacekeepers-after-the-ivorian-popular-front-withdraws-from.html)  [JSON](/news/2006/01/17/in-ca-te-d-ivoire-supporters-of-president-laurent-gbagbo-attack-united-nations-peacekeepers-after-the-ivorian-popular-front-withdraws-from.json)  [XML](/news/2006/01/17/in-ca-te-d-ivoire-supporters-of-president-laurent-gbagbo-attack-united-nations-peacekeepers-after-the-ivorian-popular-front-withdraws-from.xml)  
+
 ### [2006-01-17](/news/2006/01/17/index.md)
 
+##### Cote d'Ivoire
 #  In Cote d'Ivoire, supporters of President Laurent Gbagbo attack United Nations peacekeepers after the Ivorian Popular Front withdraws from the Ivorian Civil War peace process. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4620838.stm)
 

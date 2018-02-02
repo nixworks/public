@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/30/iraq-s-government-admit-that-seven-iranian-exiles-were-killed-when-iraqi-forces-took-control-of-their-camp-north-of-baghdad.html)  [JSON](/news/2009/07/30/iraq-s-government-admit-that-seven-iranian-exiles-were-killed-when-iraqi-forces-took-control-of-their-camp-north-of-baghdad.json)  [XML](/news/2009/07/30/iraq-s-government-admit-that-seven-iranian-exiles-were-killed-when-iraqi-forces-took-control-of-their-camp-north-of-baghdad.xml)  
+
 ### [2009-07-30](/news/2009/07/30/index.md)
 
+##### Iraq
 #  Iraq's government admit that seven Iranian exiles were killed when Iraqi forces took control of their camp north of Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/idUKTRE56T3CB20090730)
 1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090730&t=2&i=11060321&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-07-30T134925Z_01_BTRE56T12EH00_RTROPTP_0_IRAQ-ASHRAF)

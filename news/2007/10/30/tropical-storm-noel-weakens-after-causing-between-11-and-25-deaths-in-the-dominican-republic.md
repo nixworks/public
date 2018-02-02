@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/30/tropical-storm-noel-weakens-after-causing-between-11-and-25-deaths-in-the-dominican-republic.html)  [JSON](/news/2007/10/30/tropical-storm-noel-weakens-after-causing-between-11-and-25-deaths-in-the-dominican-republic.json)  [XML](/news/2007/10/30/tropical-storm-noel-weakens-after-causing-between-11-and-25-deaths-in-the-dominican-republic.xml)  
+
 ### [2007-10-30](/news/2007/10/30/index.md)
 
+##### Tropical Storm Noel
 #  Tropical Storm Noel weakens after causing between 11 and 25 deaths in the Dominican Republic. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/weather/10/30/tropical.storm/index.html)
 

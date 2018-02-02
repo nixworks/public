@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/27/a-dry-cargo-vessel-broke-in-two-in-the-black-se
 
 ### [2017-08-27](/news/2017/08/27/index.md)
 
+##### Maritime incidents in 2017
 # A dry cargo vessel broke in two in the Black Sea off Turkey's northwest coast, television images showed early on Sunday, while the 11-man crew was rescued. "Leonardo", a 114 meter dry cargo ship flagged from Mongolia, started buckling and broke in two while on anchor off Istanbul's Kilyos coast. 
 
 

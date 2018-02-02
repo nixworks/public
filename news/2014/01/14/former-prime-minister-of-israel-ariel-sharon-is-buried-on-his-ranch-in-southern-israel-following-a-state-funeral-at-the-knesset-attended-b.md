@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/14/former-prime-minister-of-israel-ariel-sharon-is-buried-on-his-ranch-in-southern-israel-following-a-state-funeral-at-the-knesset-attended-b.html)  [JSON](/news/2014/01/14/former-prime-minister-of-israel-ariel-sharon-is-buried-on-his-ranch-in-southern-israel-following-a-state-funeral-at-the-knesset-attended-b.json)  [XML](/news/2014/01/14/former-prime-minister-of-israel-ariel-sharon-is-buried-on-his-ranch-in-southern-israel-following-a-state-funeral-at-the-knesset-attended-b.xml)  
+
 ### [2014-01-14](/news/2014/01/14/index.md)
 
+##### Israeli Prime Minister
 # Former Prime Minister of Israel, Ariel Sharon, is buried on his ranch in southern Israel following a state funeral at the Knesset attended by foreign dignitaries and Israelis. 
 
 Knesset speeches highlighted late general&#8217;s military successes against Egyptian forces in 1973 war; as PM, Sharon got on well with Sadat, Mubarak
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-25708082)
 2. [The Times of Israel](http://www.timesofisrael.com/senior-egyptian-diplomat-quietly-attends-sharon-memorial-ceremony/)

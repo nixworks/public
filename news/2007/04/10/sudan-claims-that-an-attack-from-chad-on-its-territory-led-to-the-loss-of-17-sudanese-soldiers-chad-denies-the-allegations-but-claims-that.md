@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/10/sudan-claims-that-an-attack-from-chad-on-its-territory-led-to-the-loss-of-17-sudanese-soldiers-chad-denies-the-allegations-but-claims-that.html)  [JSON](/news/2007/04/10/sudan-claims-that-an-attack-from-chad-on-its-territory-led-to-the-loss-of-17-sudanese-soldiers-chad-denies-the-allegations-but-claims-that.json)  [XML](/news/2007/04/10/sudan-claims-that-an-attack-from-chad-on-its-territory-led-to-the-loss-of-17-sudanese-soldiers-chad-denies-the-allegations-but-claims-that.xml)  
+
 ### [2007-04-10](/news/2007/04/10/index.md)
 
+##### Sudan
 #  Sudan claims that an attack from Chad on its territory led to the loss of 17 Sudanese soldiers. Chad denies the allegations but claims that it repulsed an attack from Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L10379368.htm)
 

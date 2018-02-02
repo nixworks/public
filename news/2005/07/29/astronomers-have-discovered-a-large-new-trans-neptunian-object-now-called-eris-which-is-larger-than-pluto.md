@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/07/29/astronomers-have-discovered-a-large-new-trans-neptunian-object-now-called-eris-which-is-larger-than-pluto.html)  [JSON](/news/2005/07/29/astronomers-have-discovered-a-large-new-trans-neptunian-object-now-called-eris-which-is-larger-than-pluto.json)  [XML](/news/2005/07/29/astronomers-have-discovered-a-large-new-trans-neptunian-object-now-called-eris-which-is-larger-than-pluto.xml)  
+
 ### [2005-07-29](/news/2005/07/29/index.md)
 
+##### Astronomers
 #  Astronomers have discovered a large new trans-Neptunian object, now called Eris, which is larger than Pluto. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [New Scientist](http://www.newscientist.com/article.ns?id=dn7751)
+1. [New Scientist](https://www.newscientist.com/article.ns?id=dn7751)
 2. [Sky and Telescope](http://skyandtelescope.com/news/article_1560_1.asp)
 
 ### Related:

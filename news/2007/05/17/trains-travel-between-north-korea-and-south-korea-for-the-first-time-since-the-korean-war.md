@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/17/trains-travel-between-north-korea-and-south-korea-for-the-first-time-since-the-korean-war.html)  [JSON](/news/2007/05/17/trains-travel-between-north-korea-and-south-korea-for-the-first-time-since-the-korean-war.json)  [XML](/news/2007/05/17/trains-travel-between-north-korea-and-south-korea-for-the-first-time-since-the-korean-war.xml)  
+
 ### [2007-05-17](/news/2007/05/17/index.md)
 
+##### Train
 #  Trains travel between North Korea and South Korea for the first time since the Korean War. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ITV](http://www.itv.com/news/index_bb8544f6a3123d96244b3347f56e24b6.html)
 

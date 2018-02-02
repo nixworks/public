@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/3/u-s-plan-to-invade-iraq-united-nations-arms-inspectors-from-unmovic-have-established-a-base-of-operations-in-mosul-iraq-375-kilometers.html)  [JSON](/news/2003/01/3/u-s-plan-to-invade-iraq-united-nations-arms-inspectors-from-unmovic-have-established-a-base-of-operations-in-mosul-iraq-375-kilometers.json)  [XML](/news/2003/01/3/u-s-plan-to-invade-iraq-united-nations-arms-inspectors-from-unmovic-have-established-a-base-of-operations-in-mosul-iraq-375-kilometers.xml)  
+
 ### [2003-01-3](/news/2003/01/3/index.md)
 
+##### 2003 invasion of Iraq
 #  U.S. plan to invade Iraq: United Nations arms inspectors from UNMOVIC have established a base of operations in Mosul, Iraq, 375 kilometers or 200 miles north of Baghdad, to speed the inspection process.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/5/juan-ponce-enrile-resigns-as-the-president-of-the-senate-of-the-philippines-president-pro-tempore-jinggoy-estrada-assumes-the-position-of-i.html)  [JSON](/news/2013/06/5/juan-ponce-enrile-resigns-as-the-president-of-the-senate-of-the-philippines-president-pro-tempore-jinggoy-estrada-assumes-the-position-of-i.json)  [XML](/news/2013/06/5/juan-ponce-enrile-resigns-as-the-president-of-the-senate-of-the-philippines-president-pro-tempore-jinggoy-estrada-assumes-the-position-of-i.xml)  
+
 ### [2013-06-5](/news/2013/06/5/index.md)
 
+##### Juan Ponce Enrile
 # Juan Ponce Enrile resigns as the President of the Senate of the Philippines; President pro tempore Jinggoy Estrada assumes the position of interim Senate President until assumption of the new Congress in July. 
 
 (UPDATED) Enrile resigns on the 2nd to the last session day of the 15th Congress, challenges COA to audit fund disbursements of senators
 
 
-### Source:
+### Sources:
 
 1. [Rappler](http://www.rappler.com/nation/30685-enrile-resigns-senate-presidency)
 1. [Cover Image](http://static.rappler.com/images/1_DSC2984.jpg)

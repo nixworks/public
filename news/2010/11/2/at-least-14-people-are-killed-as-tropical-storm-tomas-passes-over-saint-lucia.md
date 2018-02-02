@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/2/at-least-14-people-are-killed-as-tropical-storm-tomas-passes-over-saint-lucia.html)  [JSON](/news/2010/11/2/at-least-14-people-are-killed-as-tropical-storm-tomas-passes-over-saint-lucia.json)  [XML](/news/2010/11/2/at-least-14-people-are-killed-as-tropical-storm-tomas-passes-over-saint-lucia.xml)  
+
 ### [2010-11-2](/news/2010/11/2/index.md)
 
+##### Tropical Storm Tomas
 # At least 14 people are killed as Tropical Storm Tomas passes over Saint Lucia. 
 
 At least 14 people are now known to have died on the Caribbean island of St Lucia after a hurricane triggered landslides, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11672819)
 2. [Jamaica Observer](http://www.jamaicaobserver.com/news/Death-and-destruction-as-Tomas-barrels-through-Eastern-Caribbean_8110764)

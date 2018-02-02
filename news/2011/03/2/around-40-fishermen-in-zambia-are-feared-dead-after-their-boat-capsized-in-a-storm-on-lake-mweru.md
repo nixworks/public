@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/2/around-40-fishermen-in-zambia-are-feared-dead-after-their-boat-capsized-in-a-storm-on-lake-mweru.html)  [JSON](/news/2011/03/2/around-40-fishermen-in-zambia-are-feared-dead-after-their-boat-capsized-in-a-storm-on-lake-mweru.json)  [XML](/news/2011/03/2/around-40-fishermen-in-zambia-are-feared-dead-after-their-boat-capsized-in-a-storm-on-lake-mweru.xml)  
+
 ### [2011-03-2](/news/2011/03/2/index.md)
 
+##### Zambia
 # Around 40 fishermen in Zambia are feared dead after their boat capsized in a storm on Lake Mweru. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gtZLjgSdmp1Dlb2HycLlKNxFLELA?docId=CNG.72baebb483973586ff9863836d430cfa.a71)
 

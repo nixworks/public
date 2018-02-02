@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/22/farid-babayev-a-russian-politician-with-the-yabloko-party-is-shot-and-seriously-wounded-in-makhachkala-dagestan.html)  [JSON](/news/2007/11/22/farid-babayev-a-russian-politician-with-the-yabloko-party-is-shot-and-seriously-wounded-in-makhachkala-dagestan.json)  [XML](/news/2007/11/22/farid-babayev-a-russian-politician-with-the-yabloko-party-is-shot-and-seriously-wounded-in-makhachkala-dagestan.xml)  
+
 ### [2007-11-22](/news/2007/11/22/index.md)
 
+##### Farid Babayev
 #  Farid Babayev, a Russian politician with the Yabloko party, is shot and seriously wounded in Makhachkala, Dagestan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7106970.stm)
 

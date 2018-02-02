@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/18/2004-u-s-presidential-election-controversy-according-to-a-report-called-the-effect-of-electronic-voting-machines-on-change-in-support-fo.html)  [JSON](/news/2004/11/18/2004-u-s-presidential-election-controversy-according-to-a-report-called-the-effect-of-electronic-voting-machines-on-change-in-support-fo.json)  [XML](/news/2004/11/18/2004-u-s-presidential-election-controversy-according-to-a-report-called-the-effect-of-electronic-voting-machines-on-change-in-support-fo.xml)  
+
 ### [2004-11-18](/news/2004/11/18/index.md)
 
+##### 2004 U.S. presidential election controversy
 #  2004 U.S. presidential election controversy: According to a report called "The Effect of Electronic Voting Machines on Change in Support for Bush in the 2004 Florida Elections" George W. Bush received between 130,000 and 260,000 faulty votes in Florida. 
 
 Incisive Media is a leading, geographically diverse B2B information and events business, built on digital innovation, with customer insight at our core.
 
 
-### Source:
+### Sources:
 
 1. [IDG](http://www.idg.se/ArticlePages/200411/19/20041119151145_CS/20041119151145_CS.dbp.asp)
 2. [IT Week](http://www.itweek.co.uk/news/1159546)

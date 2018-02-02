@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/31/the-president-of-the-united-states-barack-obama-signs-a-law-providing-for-new-sanctions-against-iran.html)  [JSON](/news/2011/12/31/the-president-of-the-united-states-barack-obama-signs-a-law-providing-for-new-sanctions-against-iran.json)  [XML](/news/2011/12/31/the-president-of-the-united-states-barack-obama-signs-a-law-providing-for-new-sanctions-against-iran.xml)  
+
 ### [2011-12-31](/news/2011/12/31/index.md)
 
+##### U.S. President
 # The President of the United States Barack Obama signs a law providing for new sanctions against Iran. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5i8aDTUax9ph9ZF781ujYIn1Kr65w?docId=CNG.708e02122a0745a94d1e4949e69f7399.5f1)
 

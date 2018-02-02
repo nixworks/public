@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/7/at-least-5-people-are-confirmed-dead-as-tornados-and-storms-batter-the-midwest-u-s-state-of-ohio.html)  [JSON](/news/2010/06/7/at-least-5-people-are-confirmed-dead-as-tornados-and-storms-batter-the-midwest-u-s-state-of-ohio.json)  [XML](/news/2010/06/7/at-least-5-people-are-confirmed-dead-as-tornados-and-storms-batter-the-midwest-u-s-state-of-ohio.xml)  
+
 ### [2010-06-7](/news/2010/06/7/index.md)
 
+##### Midwest U.S.
 # At least 5 people are confirmed dead as tornados and storms batter the Midwest U.S. state of Ohio. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/seven-confirmed-dead-in-us-tornado-20100607-xnqz.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/07/c_13336214.htm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/20/a-6-1-magnitude-aftershock-rocks-haiti-a-week-after-the-2010-haiti-earthquake.html)  [JSON](/news/2010/01/20/a-6-1-magnitude-aftershock-rocks-haiti-a-week-after-the-2010-haiti-earthquake.json)  [XML](/news/2010/01/20/a-6-1-magnitude-aftershock-rocks-haiti-a-week-after-the-2010-haiti-earthquake.xml)  
+
 ### [2010-01-20](/news/2010/01/20/index.md)
 
+##### magnitude
 # A 6.1 magnitude aftershock rocks Haiti a week after the 2010 Haiti earthquake. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8469800.stm)
 2. [CBC](http://www.cbc.ca/world/story/2010/01/20/haiti-earthquake.html)

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/09/5/the-g-20-finance-ministers-outline-plans-for-banking-reform-including-tougher-regulation-of-financial-institutions.html)  [JSON](/news/2009/09/5/the-g-20-finance-ministers-outline-plans-for-banking-reform-including-tougher-regulation-of-financial-institutions.json)  [XML](/news/2009/09/5/the-g-20-finance-ministers-outline-plans-for-banking-reform-including-tougher-regulation-of-financial-institutions.xml)  
+
 ### [2009-09-5](/news/2009/09/5/index.md)
 
+##### G-20
 #  The G-20 finance ministers outline plans for banking reform, including tougher regulation of financial institutions. 
 
 Finance ministers and centralbank heads from the G20 nations met in London on Friday andSaturday to discuss the next steps in tackling the worstfinancial crisis since World War Two.
 
 
-### Source:
+### Sources:
 
 1. [MarketWatch](http://www.marketwatch.com/story/g20-outlines-tougher-bank-regulations-2009-09-05)
-2. [Reuters](http://www.reuters.com/article/marketsNews/idUSL566412820090905)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/marketsNews/idUSL566412820090905)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

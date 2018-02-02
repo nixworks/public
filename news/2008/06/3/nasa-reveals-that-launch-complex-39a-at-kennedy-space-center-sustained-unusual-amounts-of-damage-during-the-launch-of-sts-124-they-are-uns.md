@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2008/06/3/nasa-reveals-that-launch-complex-39a-at-kennedy-space-center-sustained-unusual-amounts-of-damage-during-the-launch-of-sts-124-they-are-uns.html)  [JSON](/news/2008/06/3/nasa-reveals-that-launch-complex-39a-at-kennedy-space-center-sustained-unusual-amounts-of-damage-during-the-launch-of-sts-124-they-are-uns.json)  [XML](/news/2008/06/3/nasa-reveals-that-launch-complex-39a-at-kennedy-space-center-sustained-unusual-amounts-of-damage-during-the-launch-of-sts-124-they-are-uns.xml)  
+
 ### [2008-06-3](/news/2008/06/3/index.md)
 
+##### NASA
 #  NASA reveals that Launch Complex 39A at Kennedy Space Center sustained unusual amounts of damage during the launch of STS-124. They are unsure what caused the damage, but are certain it will not cause any delay for the next launch, STS-125, in October. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS News via Spaceflight Now](http://www.spaceflightnow.com/shuttle/sts124/080601pad/)
+
+### Changes:
+
+1. [ NASA reveals that Launch Complex 39A at Kennedy Space Center sustained unusual amounts of damage during the launch of STS-124. They are unsure what caused the damage, but are certain it will not cause any delay for the next launch, STS-125, in October. ](/news/2008/06/3/nasa-reveals-that-launch-complex-39a-at-kennedy-space-center-sustained-unusual-amounts-of-damage-during-the-launch-of-sts-124-they-are-un.md) _2017-08-25 03:22:16 (First version)_
+1. [ NASA reveals that Launch Complex 39A at Kennedy Space Center sustained unusual amounts of damage during the launch of STS-124. They are unsure what caused the damage, but are certain it will not cause any delay for the next launch, STS-125, in October. ](/news/2008/06/3/nasa-reveals-that-launch-complex-39a-at-kennedy-space-center-sustained-unusual-amounts-of-damage-during-the-launch-of-sts-124-they-are-uns.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [ The Space Shuttle "Atlantis" prepares to land at the Kennedy Space Center in Florida, United States. ](/news/2009/05/22/the-space-shuttle-atlantis-prepares-to-land-at-the-kennedy-space-center-in-florida-united-states.md) _Context: Kennedy Space Center, completes_
 4. [ NASA postpones the landing of "Atlantis" at Kennedy Space Center due to inclement weather, prolonging STS-117 for another day. NASA states that it can extend the mission until June 24 if necessary. ](/news/2007/06/21/nasa-postpones-the-landing-of-atlantis-at-kennedy-space-center-due-to-inclement-weather-prolonging-sts-117-for-another-day-nasa-states.md) _Context: Kennedy Space Center, NASA_
 5. [ NASA's planned launch of STS-114, Space Shuttle "Discovery" from pad 39B at the Kennedy Space Center at 3:51pm EDT (1951 UTC) is delayed due to a problem with the fuel level sensors. This would have been the first manned space launch by NASA since the loss of "Columbia" over 2 years ago. ](/news/2005/07/13/nasa-s-planned-launch-of-sts-114-space-shuttle-discovery-from-pad-39b-at-the-kennedy-space-center-at-3-51pm-edt-1951-utc-is-delayed-du.md) _Context: Kennedy Space Center, NASA_
-
-### Changes:
-
-1. [ NASA reveals that Launch Complex 39A at Kennedy Space Center sustained unusual amounts of damage during the launch of STS-124. They are unsure what caused the damage, but are certain it will not cause any delay for the next launch, STS-125, in October. ](/news/2008/06/3/nasa-reveals-that-launch-complex-39a-at-kennedy-space-center-sustained-unusual-amounts-of-damage-during-the-launch-of-sts-124-they-are-un.md) _2017-08-25 03:22:16 (First version)_
-1. [ NASA reveals that Launch Complex 39A at Kennedy Space Center sustained unusual amounts of damage during the launch of STS-124. They are unsure what caused the damage, but are certain it will not cause any delay for the next launch, STS-125, in October. ](/news/2008/06/3/nasa-reveals-that-launch-complex-39a-at-kennedy-space-center-sustained-unusual-amounts-of-damage-during-the-launch-of-sts-124-they-are-uns.md) _(Current version)_

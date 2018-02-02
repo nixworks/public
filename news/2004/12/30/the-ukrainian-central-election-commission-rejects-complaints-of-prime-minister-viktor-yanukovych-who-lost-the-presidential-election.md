@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/30/the-ukrainian-central-election-commission-rejects-complaints-of-prime-minister-viktor-yanukovych-who-lost-the-presidential-election.html)  [JSON](/news/2004/12/30/the-ukrainian-central-election-commission-rejects-complaints-of-prime-minister-viktor-yanukovych-who-lost-the-presidential-election.json)  [XML](/news/2004/12/30/the-ukrainian-central-election-commission-rejects-complaints-of-prime-minister-viktor-yanukovych-who-lost-the-presidential-election.xml)  
+
 ### [2004-12-30](/news/2004/12/30/index.md)
 
+##### Ukraine
 #  The Ukrainian Central Election Commission rejects complaints of prime minister Viktor Yanukovych, who lost the presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4134423.stm)
 2. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=topNews&storyID=7209338)

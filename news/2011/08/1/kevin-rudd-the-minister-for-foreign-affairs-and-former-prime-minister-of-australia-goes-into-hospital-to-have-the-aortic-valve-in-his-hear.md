@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/1/kevin-rudd-the-minister-for-foreign-affairs-and-former-prime-minister-of-australia-goes-into-hospital-to-have-the-aortic-valve-in-his-hear.html)  [JSON](/news/2011/08/1/kevin-rudd-the-minister-for-foreign-affairs-and-former-prime-minister-of-australia-goes-into-hospital-to-have-the-aortic-valve-in-his-hear.json)  [XML](/news/2011/08/1/kevin-rudd-the-minister-for-foreign-affairs-and-former-prime-minister-of-australia-goes-into-hospital-to-have-the-aortic-valve-in-his-hear.xml)  
+
 ### [2011-08-1](/news/2011/08/1/index.md)
 
+##### Kevin Rudd
 # Kevin Rudd, the Minister for Foreign Affairs and former Prime Minister of Australia, goes into hospital to have the aortic valve in his heart replaced. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Courier Mail](http://www.couriermail.com.au/news/queensland/kevin-rudd-enters-hospital-to-have-heart-surgery/story-e6freoof-1226105812945)
 

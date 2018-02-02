@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/11/dr-albert-hofmann-celebrated-his-99th-birthday-dr-hofmann-first-synthesized-lsd-in-1938-while-working-at-sandoz-laboratories-in-basle-s.html)  [JSON](/news/2005/01/11/dr-albert-hofmann-celebrated-his-99th-birthday-dr-hofmann-first-synthesized-lsd-in-1938-while-working-at-sandoz-laboratories-in-basle-s.json)  [XML](/news/2005/01/11/dr-albert-hofmann-celebrated-his-99th-birthday-dr-hofmann-first-synthesized-lsd-in-1938-while-working-at-sandoz-laboratories-in-basle-s.xml)  
+
 ### [2005-01-11](/news/2005/01/11/index.md)
 
+##### Albert Hofmann
 #  Dr. Albert Hofmann celebrated his 99th birthday. Dr. Hofmann first synthesized LSD in 1938 while working at Sandoz Laboratories in Basle, Switzerland. He became the first person to discover its psychedelic effects on April 16, 1943. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MAPS](http://www.maps.org/conferences/ah99/)
 

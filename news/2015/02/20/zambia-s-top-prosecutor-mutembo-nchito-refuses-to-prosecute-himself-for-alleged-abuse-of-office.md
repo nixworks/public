@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/20/zambia-s-top-prosecutor-mutembo-nchito-refuses-to-prosecute-himself-for-alleged-abuse-of-office.html)  [JSON](/news/2015/02/20/zambia-s-top-prosecutor-mutembo-nchito-refuses-to-prosecute-himself-for-alleged-abuse-of-office.json)  [XML](/news/2015/02/20/zambia-s-top-prosecutor-mutembo-nchito-refuses-to-prosecute-himself-for-alleged-abuse-of-office.xml)  
+
 ### [2015-02-20](/news/2015/02/20/index.md)
 
+##### Zambia
 # Zambia's top prosecutor Mutembo Nchito refuses to prosecute himself for alleged abuse of office. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via France 24](http://www.france24.com/en/20150220-zambias-top-prosecutor-drops-charges-against-self/?aef_campaign_date=2015-02-20&aef_campaign_ref=partage_aef&dlvrit=66745&ns_campaign=reseaux_sociaux&ns_linkname=editorial&ns_mchannel=social&ns_source=twitter)
 

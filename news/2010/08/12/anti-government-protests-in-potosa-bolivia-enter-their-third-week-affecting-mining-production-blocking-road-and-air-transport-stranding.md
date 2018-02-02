@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/12/anti-government-protests-in-potosa-bolivia-enter-their-third-week-affecting-mining-production-blocking-road-and-air-transport-stranding.html)  [JSON](/news/2010/08/12/anti-government-protests-in-potosa-bolivia-enter-their-third-week-affecting-mining-production-blocking-road-and-air-transport-stranding.json)  [XML](/news/2010/08/12/anti-government-protests-in-potosa-bolivia-enter-their-third-week-affecting-mining-production-blocking-road-and-air-transport-stranding.xml)  
+
 ### [2010-08-12](/news/2010/08/12/index.md)
 
+##### Potosi
 # Anti-government protests in Potosi, Bolivia enter their third week, affecting mining production, blocking road and air transport, stranding tourists and reducing food supplies. 
 
 Anti-government protests, including strikes and road blocks, in the Bolivian region of Potosi disrupt mining operations.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10949160)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

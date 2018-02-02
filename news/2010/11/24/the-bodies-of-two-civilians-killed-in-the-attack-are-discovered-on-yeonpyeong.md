@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/24/the-bodies-of-two-civilians-killed-in-the-attack-are-discovered-on-yeonpyeong.html)  [JSON](/news/2010/11/24/the-bodies-of-two-civilians-killed-in-the-attack-are-discovered-on-yeonpyeong.json)  [XML](/news/2010/11/24/the-bodies-of-two-civilians-killed-in-the-attack-are-discovered-on-yeonpyeong.xml)  
+
 ### [2010-11-24](/news/2010/11/24/index.md)
 
+##### Yeonpyeong
 # The bodies of two civilians killed in the attack are discovered on Yeonpyeong. 
 
 The bodies of two civilians are found on the South Korean island of Yeonpyeong, shelled during the attack by North Korea.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/skorea-suspends-nkorea-flood-aid-20101124-186p4.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11827080)

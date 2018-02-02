@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/20/voting-is-underway-in-today-s-parliamentary-ele
 
 ### [2016-03-20](/news/2016/03/20/index.md)
 
+##### Kazakhstani legislative election, 2016
 # Voting is underway in today's parliamentary election in the former Soviet republic. President Nursultan Nazarbayev's Nur Otan party is expected to win easily, and retain control of the 107-seat Mazhilis, the lower house of parliament. The recent crackdown on political activists and media dims chances this election will be the first judged free and fair by Western observers. 
 
  ALMATY/ASTANA (Reuters) - Kazakhstan&#39;s ruling party is almost certain to retain 

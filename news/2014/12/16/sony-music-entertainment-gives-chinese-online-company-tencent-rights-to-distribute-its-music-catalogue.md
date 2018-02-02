@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/12/16/sony-music-entertainment-gives-chinese-online-company-tencent-rights-to-distribute-its-music-catalogue.html)  [JSON](/news/2014/12/16/sony-music-entertainment-gives-chinese-online-company-tencent-rights-to-distribute-its-music-catalogue.json)  [XML](/news/2014/12/16/sony-music-entertainment-gives-chinese-online-company-tencent-rights-to-distribute-its-music-catalogue.xml)  
+
 ### [2014-12-16](/news/2014/12/16/index.md)
 
+##### Sony Music Entertainment
 # Sony Music Entertainment gives Chinese online company Tencent rights to distribute its music catalogue. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/12/16/tencent-sony-music-idUSL3N0U02WT20141216)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2014/12/16/tencent-sony-music-idUSL3N0U02WT20141216)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

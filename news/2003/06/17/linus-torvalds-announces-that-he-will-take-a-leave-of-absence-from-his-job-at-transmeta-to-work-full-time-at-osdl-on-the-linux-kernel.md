@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/17/linus-torvalds-announces-that-he-will-take-a-leave-of-absence-from-his-job-at-transmeta-to-work-full-time-at-osdl-on-the-linux-kernel.html)  [JSON](/news/2003/06/17/linus-torvalds-announces-that-he-will-take-a-leave-of-absence-from-his-job-at-transmeta-to-work-full-time-at-osdl-on-the-linux-kernel.json)  [XML](/news/2003/06/17/linus-torvalds-announces-that-he-will-take-a-leave-of-absence-from-his-job-at-transmeta-to-work-full-time-at-osdl-on-the-linux-kernel.xml)  
+
 ### [2003-06-17](/news/2003/06/17/index.md)
 
+##### Linus Torvalds
 #  Linus Torvalds announces that he will take a leave of absence from his job at Transmeta to work full-time at OSDL on the Linux kernel.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/13/11-people-are-killed-in-isabela-city-philippines-after-25-suspected-members-of-the-abu-sayyaf-extremist-group-clash-with-security-forces.html)  [JSON](/news/2010/04/13/11-people-are-killed-in-isabela-city-philippines-after-25-suspected-members-of-the-abu-sayyaf-extremist-group-clash-with-security-forces.json)  [XML](/news/2010/04/13/11-people-are-killed-in-isabela-city-philippines-after-25-suspected-members-of-the-abu-sayyaf-extremist-group-clash-with-security-forces.xml)  
+
 ### [2010-04-13](/news/2010/04/13/index.md)
 
+##### Isabela City
 # 11 people are killed in Isabela City, Philippines, after 25 suspected members of the Abu Sayyaf extremist group clash with security forces. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://news.blogs.cnn.com/2010/04/13/extremists-disguised-as-military-kill-11-in-philippines/)
 

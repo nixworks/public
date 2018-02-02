@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/6/scientists-say-they-have-decoded-the-entire-genetic-structure-of-hiv-1-mdash-the-main-cause-of-aids-in-humans.html)  [JSON](/news/2009/08/6/scientists-say-they-have-decoded-the-entire-genetic-structure-of-hiv-1-mdash-the-main-cause-of-aids-in-humans.json)  [XML](/news/2009/08/6/scientists-say-they-have-decoded-the-entire-genetic-structure-of-hiv-1-mdash-the-main-cause-of-aids-in-humans.xml)  
+
 ### [2009-08-6](/news/2009/08/6/index.md)
 
+##### AIDS
 #  Scientists say they have decoded the entire genetic structure of HIV-1&mdash;the main cause of AIDS in humans. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/health/8186263.stm)
 

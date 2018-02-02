@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/24/floods-in-mozambique-cut-off-the-country-s-main-north-south-motorway.html)  [JSON](/news/2012/01/24/floods-in-mozambique-cut-off-the-country-s-main-north-south-motorway.json)  [XML](/news/2012/01/24/floods-in-mozambique-cut-off-the-country-s-main-north-south-motorway.xml)  
+
 ### [2012-01-24](/news/2012/01/24/index.md)
 
+##### Mozambique
 # Floods in Mozambique cut off the country's main north-south motorway. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/dailynews/news/floods-cut-off-maputo-1.1218537)
 

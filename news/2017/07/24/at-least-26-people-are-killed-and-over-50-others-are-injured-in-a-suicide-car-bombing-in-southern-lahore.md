@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/24/at-least-26-people-are-killed-and-over-50-other
 
 ### [2017-07-24](/news/2017/07/24/index.md)
 
+##### War in North-West Pakistan
 # At least 26 people are killed and over 50 others are injured in a suicide car bombing in southern Lahore. 
 
 Almost 50 others were injured in the explosion near a vegetable market in the south of the city.

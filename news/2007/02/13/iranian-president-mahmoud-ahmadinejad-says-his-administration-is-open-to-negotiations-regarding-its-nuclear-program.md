@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/13/iranian-president-mahmoud-ahmadinejad-says-his-administration-is-open-to-negotiations-regarding-its-nuclear-program.html)  [JSON](/news/2007/02/13/iranian-president-mahmoud-ahmadinejad-says-his-administration-is-open-to-negotiations-regarding-its-nuclear-program.json)  [XML](/news/2007/02/13/iranian-president-mahmoud-ahmadinejad-says-his-administration-is-open-to-negotiations-regarding-its-nuclear-program.xml)  
+
 ### [2007-02-13](/news/2007/02/13/index.md)
 
+##### Iran
 #  Iranian President Mahmoud Ahmadinejad says his administration is open to negotiations regarding its nuclear program. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6357451.stm)
 

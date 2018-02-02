@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/3/jack-abramoff-of-the-jack-abramoff-lobbying-and-corruption-scandal-pleads-guilty-to-federal-conspiracy-fraud-and-tax-evasion-charges-acco.html)  [JSON](/news/2006/01/3/jack-abramoff-of-the-jack-abramoff-lobbying-and-corruption-scandal-pleads-guilty-to-federal-conspiracy-fraud-and-tax-evasion-charges-acco.json)  [XML](/news/2006/01/3/jack-abramoff-of-the-jack-abramoff-lobbying-and-corruption-scandal-pleads-guilty-to-federal-conspiracy-fraud-and-tax-evasion-charges-acco.xml)  
+
 ### [2006-01-3](/news/2006/01/3/index.md)
 
+##### Jack Abramoff
 #  Jack Abramoff of the Jack Abramoff lobbying and corruption scandal pleads guilty to federal conspiracy, fraud and tax evasion charges. According to NPR, this puts Abramoff on the prosecutor's side and he is expected to cooperate in the continuing investigation that could involve "up to 20 members of Congress" 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NPR.org ](http://www.npr.org/documents/2006/jan/abramoff_charges.pdf)
 2. [NPR](http://www.npr.org/templates/story/story.php?storyId=5081540)

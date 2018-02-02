@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/22/a-bankruptcy-court-judge-in-new-york-has-authorized-the-creation-of-an-equity-holders-committee-in-connection-with-the-reorganization-of-a.html)  [JSON](/news/2006/03/22/a-bankruptcy-court-judge-in-new-york-has-authorized-the-creation-of-an-equity-holders-committee-in-connection-with-the-reorganization-of-a.json)  [XML](/news/2006/03/22/a-bankruptcy-court-judge-in-new-york-has-authorized-the-creation-of-an-equity-holders-committee-in-connection-with-the-reorganization-of-a.xml)  
+
 ### [2006-03-22](/news/2006/03/22/index.md)
 
+##### bankruptcy
 #  A bankruptcy court judge in New York has authorized the creation of an equity holders' committee in connection with the reorganization of auto parts maker Delphi Corporation, 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://money.cnn.com/2006/03/23/news/companies/delphi_committee.reut/)
 

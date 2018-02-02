@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/8/a-taliban-attack-on-the-indian-embassy-in-kabul-kills-at-least-17-and-injures-83.html)  [JSON](/news/2009/10/8/a-taliban-attack-on-the-indian-embassy-in-kabul-kills-at-least-17-and-injures-83.json)  [XML](/news/2009/10/8/a-taliban-attack-on-the-indian-embassy-in-kabul-kills-at-least-17-and-injures-83.xml)  
+
 ### [2009-10-8](/news/2009/10/8/index.md)
 
+##### Taliban
 #  A Taliban attack on the Indian embassy in Kabul kills at least 17 and injures 83. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/news/world/kabul_attack_taliban_claims_responsibility.php)
 2. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26185731-2703,00.html)

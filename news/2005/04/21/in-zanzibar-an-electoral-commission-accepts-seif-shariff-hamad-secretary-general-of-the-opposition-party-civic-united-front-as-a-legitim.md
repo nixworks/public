@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/21/in-zanzibar-an-electoral-commission-accepts-seif-shariff-hamad-secretary-general-of-the-opposition-party-civic-united-front-as-a-legitim.html)  [JSON](/news/2005/04/21/in-zanzibar-an-electoral-commission-accepts-seif-shariff-hamad-secretary-general-of-the-opposition-party-civic-united-front-as-a-legitim.json)  [XML](/news/2005/04/21/in-zanzibar-an-electoral-commission-accepts-seif-shariff-hamad-secretary-general-of-the-opposition-party-civic-united-front-as-a-legitim.xml)  
+
 ### [2005-04-21](/news/2005/04/21/index.md)
 
+##### Zanzibar
 #  In Zanzibar, an electoral commission accepts Seif Shariff Hamad, secretary general of the opposition party Civic United Front, as a legitimate voter and therefore eligible candidate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4464443.stm)
 2. [IPPMEdia, Zanzibar](http://64.202.177.112/ipp/guardian/2005/04/21/37562.html)

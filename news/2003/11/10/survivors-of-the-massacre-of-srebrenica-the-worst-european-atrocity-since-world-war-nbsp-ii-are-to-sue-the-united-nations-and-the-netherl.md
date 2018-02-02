@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/10/survivors-of-the-massacre-of-srebrenica-the-worst-european-atrocity-since-world-war-nbsp-ii-are-to-sue-the-united-nations-and-the-netherl.html)  [JSON](/news/2003/11/10/survivors-of-the-massacre-of-srebrenica-the-worst-european-atrocity-since-world-war-nbsp-ii-are-to-sue-the-united-nations-and-the-netherl.json)  [XML](/news/2003/11/10/survivors-of-the-massacre-of-srebrenica-the-worst-european-atrocity-since-world-war-nbsp-ii-are-to-sue-the-united-nations-and-the-netherl.xml)  
+
 ### [2003-11-10](/news/2003/11/10/index.md)
 
+##### Srebrenica
 #  Survivors of the massacre of Srebrenica, the worst European atrocity since World War&nbsp;II, are to sue the United Nations and the Netherlands for almost USD $850 million for failing to protect the Muslim enclave.
 
 

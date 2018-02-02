@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/17/rodney-king-whose-videotaped-beating-by-los-angeles-police-officers-in-march-1991-later-led-to-riots-in-april-1992-is-found-dead-at-the-bo.html)  [JSON](/news/2012/06/17/rodney-king-whose-videotaped-beating-by-los-angeles-police-officers-in-march-1991-later-led-to-riots-in-april-1992-is-found-dead-at-the-bo.json)  [XML](/news/2012/06/17/rodney-king-whose-videotaped-beating-by-los-angeles-police-officers-in-march-1991-later-led-to-riots-in-april-1992-is-found-dead-at-the-bo.xml)  
+
 ### [2012-06-17](/news/2012/06/17/index.md)
 
+##### Rodney King
 # Rodney King, whose videotaped beating by Los Angeles police officers in March 1991 later led to riots in April 1992, is found dead at the bottom of a swimming pool in Rialto, California. 
 
 Rodney King, the African American at the centre of the 1992 LA riots, is found dead at the bottom of a swimming pool aged 47.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/06/201261716454859368.html)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-18478979)

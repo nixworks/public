@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/24/in-kyrgyzstan-thousands-of-people-protest-in-support-of-opposition-politicians-who-were-barred-from-elections.html)  [JSON](/news/2005/02/24/in-kyrgyzstan-thousands-of-people-protest-in-support-of-opposition-politicians-who-were-barred-from-elections.json)  [XML](/news/2005/02/24/in-kyrgyzstan-thousands-of-people-protest-in-support-of-opposition-politicians-who-were-barred-from-elections.xml)  
+
 ### [2005-02-24](/news/2005/02/24/index.md)
 
+##### Kyrgyzstan
 #  In Kyrgyzstan, thousands of people protest in support of opposition politicians who were barred from elections 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4292793.stm)
 

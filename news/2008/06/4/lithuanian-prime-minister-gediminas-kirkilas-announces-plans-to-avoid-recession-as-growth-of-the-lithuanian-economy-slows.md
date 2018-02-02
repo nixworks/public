@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/06/4/lithuanian-prime-minister-gediminas-kirkilas-announces-plans-to-avoid-recession-as-growth-of-the-lithuanian-economy-slows.html)  [JSON](/news/2008/06/4/lithuanian-prime-minister-gediminas-kirkilas-announces-plans-to-avoid-recession-as-growth-of-the-lithuanian-economy-slows.json)  [XML](/news/2008/06/4/lithuanian-prime-minister-gediminas-kirkilas-announces-plans-to-avoid-recession-as-growth-of-the-lithuanian-economy-slows.xml)  
+
 ### [2008-06-4](/news/2008/06/4/index.md)
 
+##### Lithuania
 #  Lithuanian Prime Minister Gediminas Kirkilas announces plans to avoid recession as growth of the Lithuanian economy slows. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=aKveBg84sHZE&refer=europe)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601085&sid=aKveBg84sHZE&refer=europe)
 
 ### Related:
 

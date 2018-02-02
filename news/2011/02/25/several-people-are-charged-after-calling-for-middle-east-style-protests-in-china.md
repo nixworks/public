@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/25/several-people-are-charged-after-calling-for-middle-east-style-protests-in-china.html)  [JSON](/news/2011/02/25/several-people-are-charged-after-calling-for-middle-east-style-protests-in-china.json)  [XML](/news/2011/02/25/several-people-are-charged-after-calling-for-middle-east-style-protests-in-china.xml)  
+
 ### [2011-02-25](/news/2011/02/25/index.md)
 
+##### Arab Spring
 # Several people are charged after calling for Middle-East style protests in China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iEnDihe4M1iR6C_tHDyUKrg7wMPg?docId=CNG.99868b1ecc4e65dad00cb9c958f4949c.391)
 

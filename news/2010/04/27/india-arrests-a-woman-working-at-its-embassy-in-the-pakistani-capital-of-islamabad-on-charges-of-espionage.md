@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/27/india-arrests-a-woman-working-at-its-embassy-in-the-pakistani-capital-of-islamabad-on-charges-of-espionage.html)  [JSON](/news/2010/04/27/india-arrests-a-woman-working-at-its-embassy-in-the-pakistani-capital-of-islamabad-on-charges-of-espionage.json)  [XML](/news/2010/04/27/india-arrests-a-woman-working-at-its-embassy-in-the-pakistani-capital-of-islamabad-on-charges-of-espionage.xml)  
+
 ### [2010-04-27](/news/2010/04/27/index.md)
 
+##### India
 # India arrests a woman working at its embassy in the Pakistani capital of Islamabad on charges of espionage. 
 
 Madhuri Gupta, a second secretary in the Indian High Commission in Islamabad, has been arrested for passing on Indian state secrets to Pakistan for two years. 
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/Indian-diplomat-held-for-passing-secrets-to-Pakistan/articleshow/5863761.cms)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-04/27/c_13269841.htm)

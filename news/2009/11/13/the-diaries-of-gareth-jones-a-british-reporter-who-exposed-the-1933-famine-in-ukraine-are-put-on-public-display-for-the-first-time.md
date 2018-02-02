@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/13/the-diaries-of-gareth-jones-a-british-reporter-who-exposed-the-1933-famine-in-ukraine-are-put-on-public-display-for-the-first-time.html)  [JSON](/news/2009/11/13/the-diaries-of-gareth-jones-a-british-reporter-who-exposed-the-1933-famine-in-ukraine-are-put-on-public-display-for-the-first-time.json)  [XML](/news/2009/11/13/the-diaries-of-gareth-jones-a-british-reporter-who-exposed-the-1933-famine-in-ukraine-are-put-on-public-display-for-the-first-time.xml)  
+
 ### [2009-11-13](/news/2009/11/13/index.md)
 
+##### Gareth Jones
 #  The diaries of Gareth Jones, a British reporter who exposed the 1933 famine in Ukraine, are put on public display for the first time. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jp3RmOWBug3DV2S3i7Jge22_livgD9BUMVJG1)
 2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/wales/8359029.stm)

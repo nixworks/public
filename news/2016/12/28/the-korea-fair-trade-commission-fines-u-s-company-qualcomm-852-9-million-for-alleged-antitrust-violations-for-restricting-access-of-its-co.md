@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/28/the-korea-fair-trade-commission-fines-u-s-compa
 
 ### [2016-12-28](/news/2016/12/28/index.md)
 
+##### South Korea
 # The Korea Fair Trade Commission fines U.S. company Qualcomm $852.9 million for alleged antitrust violations for restricting access of its competitors to its patents. 
 
 
@@ -15,8 +16,8 @@ Formats: [HTML](/news/2016/12/28/the-korea-fair-trade-commission-fines-u-s-compa
 
 ### Related:
 
-1. [South Korea and the United States launch their largest-ever annual joint aerial drill. ](/news/2017/12/4/south-korea-and-the-united-states-launch-their-largest-ever-annual-joint-aerial-drill.md) _Context: South Korea_
-2. [A 10-tonne fishing boat collides with a 336-tonne fuel tanker near Yeongheung Island, South Korea, killing 13 of the 22 people on board the fishing boat. Two people remain missing. ](/news/2017/12/3/a-10-tonne-fishing-boat-collides-with-a-336-tonne-fuel-tanker-near-yeongheung-island-south-korea-killing-13-of-the-22-people-on-board-the.md) _Context: South Korea_
-3. [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md) _Context: South Korea_
-4. [A Korean People's Army soldier defects to South Korea via the Korean Demilitarized Zone (DMZ). He was shot and injured by fellow North Korean soldiers as he crossed to the South Korean side at Panmunjom, and has been taken to hospital. ](/news/2017/11/13/a-korean-people-s-army-soldier-defects-to-south-korea-via-the-korean-demilitarized-zone-dmz-he-was-shot-and-injured-by-fellow-north-korea.md) _Context: South Korea_
-5. [A South Korean lawmaker claims that in 2016, North Korean hackers stole classified military documents detailing joint operations between the South Korean and United States military forces in the event of war with North Korea. ](/news/2017/10/10/a-south-korean-lawmaker-claims-that-in-2016-north-korean-hackers-stole-classified-military-documents-detailing-joint-operations-between-the.md) _Context: South Korea_
+1. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: South Korea_
+2. [A fire breaks out in a hospital in Miryang, South Korea, killing at least 37 people and injuring over 130 others. ](/news/2018/01/26/a-fire-breaks-out-in-a-hospital-in-miryang-south-korea-killing-at-least-37-people-and-injuring-over-130-others.md) _Context: South Korea_
+3. [The South Korean Ministry of Unification announces that both North Korea and South Korea will march together under the Korean Unification Flag during the opening ceremony of the 2018 Winter Olympics. ](/news/2018/01/17/the-south-korean-ministry-of-unification-announces-that-both-north-korea-and-south-korea-will-march-together-under-the-korean-unification-fl.md) _Context: South Korea_
+4. [The South Korean Ministry of Justice announces that it is a preparing a bill to ban cryptocurrency trading through exchanges. ](/news/2018/01/11/the-south-korean-ministry-of-justice-announces-that-it-is-a-preparing-a-bill-to-ban-cryptocurrency-trading-through-exchanges.md) _Context: South Korea_
+5. [South Korea and the United States launch their largest-ever annual joint aerial drill. ](/news/2017/12/4/south-korea-and-the-united-states-launch-their-largest-ever-annual-joint-aerial-drill.md) _Context: South Korea_

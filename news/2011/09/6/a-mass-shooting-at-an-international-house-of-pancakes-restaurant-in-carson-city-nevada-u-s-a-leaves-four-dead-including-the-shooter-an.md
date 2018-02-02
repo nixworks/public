@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/6/a-mass-shooting-at-an-international-house-of-pancakes-restaurant-in-carson-city-nevada-u-s-a-leaves-four-dead-including-the-shooter-an.html)  [JSON](/news/2011/09/6/a-mass-shooting-at-an-international-house-of-pancakes-restaurant-in-carson-city-nevada-u-s-a-leaves-four-dead-including-the-shooter-an.json)  [XML](/news/2011/09/6/a-mass-shooting-at-an-international-house-of-pancakes-restaurant-in-carson-city-nevada-u-s-a-leaves-four-dead-including-the-shooter-an.xml)  
+
 ### [2011-09-6](/news/2011/09/6/index.md)
 
+##### mass shooting
 # A mass shooting at an International House of Pancakes restaurant in Carson City, Nevada (U.S.A.) leaves four dead, including the shooter, and six wounded. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jcYmGJTl6ON7FoJqZ5vUsVhB_Zhw?docId=0135c90c1d1d459d9d5034cdd9563bbc)
 

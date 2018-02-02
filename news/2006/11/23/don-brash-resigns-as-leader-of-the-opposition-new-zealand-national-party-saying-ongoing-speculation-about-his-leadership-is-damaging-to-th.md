@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/23/don-brash-resigns-as-leader-of-the-opposition-new-zealand-national-party-saying-ongoing-speculation-about-his-leadership-is-damaging-to-th.html)  [JSON](/news/2006/11/23/don-brash-resigns-as-leader-of-the-opposition-new-zealand-national-party-saying-ongoing-speculation-about-his-leadership-is-damaging-to-th.json)  [XML](/news/2006/11/23/don-brash-resigns-as-leader-of-the-opposition-new-zealand-national-party-saying-ongoing-speculation-about-his-leadership-is-damaging-to-th.xml)  
+
 ### [2006-11-23](/news/2006/11/23/index.md)
 
+##### Don Brash
 #  Don Brash resigns as leader of the opposition New Zealand National Party, saying ongoing speculation about his leadership is damaging to the party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NZ Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=1&ObjectID=10412121)
 

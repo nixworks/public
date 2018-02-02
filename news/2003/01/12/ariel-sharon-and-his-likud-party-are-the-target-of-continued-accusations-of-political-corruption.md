@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/12/ariel-sharon-and-his-likud-party-are-the-target-of-continued-accusations-of-political-corruption.html)  [JSON](/news/2003/01/12/ariel-sharon-and-his-likud-party-are-the-target-of-continued-accusations-of-political-corruption.json)  [XML](/news/2003/01/12/ariel-sharon-and-his-likud-party-are-the-target-of-continued-accusations-of-political-corruption.xml)  
+
 ### [2003-01-12](/news/2003/01/12/index.md)
 
+##### Ariel Sharon
 #  Ariel Sharon and his Likud party are the target of continued accusations of political corruption.
 
 

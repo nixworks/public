@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/17/four-more-people-are-found-guilty-and-jailed-for-carrying-out-attacks-with-syringes-in-the-western-chinese-province-of-xinjiang.html)  [JSON](/news/2009/09/17/four-more-people-are-found-guilty-and-jailed-for-carrying-out-attacks-with-syringes-in-the-western-chinese-province-of-xinjiang.json)  [XML](/news/2009/09/17/four-more-people-are-found-guilty-and-jailed-for-carrying-out-attacks-with-syringes-in-the-western-chinese-province-of-xinjiang.xml)  
+
 ### [2009-09-17](/news/2009/09/17/index.md)
 
+##### attacks with syringes
 #  Four more people are found guilty and jailed for carrying out attacks with syringes in the western Chinese province of Xinjiang. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8261169.stm)
 

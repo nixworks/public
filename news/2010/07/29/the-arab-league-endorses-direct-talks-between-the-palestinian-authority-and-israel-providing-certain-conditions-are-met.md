@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/29/the-arab-league-endorses-direct-talks-between-the-palestinian-authority-and-israel-providing-certain-conditions-are-met.html)  [JSON](/news/2010/07/29/the-arab-league-endorses-direct-talks-between-the-palestinian-authority-and-israel-providing-certain-conditions-are-met.json)  [XML](/news/2010/07/29/the-arab-league-endorses-direct-talks-between-the-palestinian-authority-and-israel-providing-certain-conditions-are-met.xml)  
+
 ### [2010-07-29](/news/2010/07/29/index.md)
 
+##### Arab League
 # The Arab League endorses direct talks between the Palestinian Authority and Israel providing certain conditions are met. 
 
 Timing to be left to Palestinians; conditions are set.
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=183034)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=146921)

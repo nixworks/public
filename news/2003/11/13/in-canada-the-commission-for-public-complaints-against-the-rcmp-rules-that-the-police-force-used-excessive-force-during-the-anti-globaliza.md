@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/13/in-canada-the-commission-for-public-complaints-against-the-rcmp-rules-that-the-police-force-used-excessive-force-during-the-anti-globaliza.html)  [JSON](/news/2003/11/13/in-canada-the-commission-for-public-complaints-against-the-rcmp-rules-that-the-police-force-used-excessive-force-during-the-anti-globaliza.json)  [XML](/news/2003/11/13/in-canada-the-commission-for-public-complaints-against-the-rcmp-rules-that-the-police-force-used-excessive-force-during-the-anti-globaliza.xml)  
+
 ### [2003-11-13](/news/2003/11/13/index.md)
 
+##### Royal Canadian Mounted Police
 #  In Canada, the Commission for Public Complaints Against the RCMP rules that the police force used excessive force during the anti-globalization protests at the Quebec City Summit of the Americas FTAA negotiations in April 2001.
 
 

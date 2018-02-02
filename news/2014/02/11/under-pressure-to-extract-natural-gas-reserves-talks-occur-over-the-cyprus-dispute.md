@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/11/under-pressure-to-extract-natural-gas-reserves-talks-occur-over-the-cyprus-dispute.html)  [JSON](/news/2014/02/11/under-pressure-to-extract-natural-gas-reserves-talks-occur-over-the-cyprus-dispute.json)  [XML](/news/2014/02/11/under-pressure-to-extract-natural-gas-reserves-talks-occur-over-the-cyprus-dispute.xml)  
+
 ### [2014-02-11](/news/2014/02/11/index.md)
 
+##### Cyprus dispute
 # Under pressure to extract natural gas reserves, talks occur over the Cyprus dispute. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hruuDM_5zrjUz1QVYlVSnJoCUPGQ?docId=1efbe480-d21d-4180-8b6f-e8246ba097da)
 

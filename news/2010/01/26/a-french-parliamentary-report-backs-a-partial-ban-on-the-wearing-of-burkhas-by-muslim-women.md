@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/26/a-french-parliamentary-report-backs-a-partial-ban-on-the-wearing-of-burkhas-by-muslim-women.html)  [JSON](/news/2010/01/26/a-french-parliamentary-report-backs-a-partial-ban-on-the-wearing-of-burkhas-by-muslim-women.json)  [XML](/news/2010/01/26/a-french-parliamentary-report-backs-a-partial-ban-on-the-wearing-of-burkhas-by-muslim-women.xml)  
+
 ### [2010-01-26](/news/2010/01/26/index.md)
 
+##### France
 # A French parliamentary report backs a partial ban on the wearing of burkhas by Muslim women. 
 
 Panel recommends niqab be outlawed in schools, hospitals and on public transport.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/01/20101269170257444.html)
 2. [CNN](http://edition.cnn.com/2010/WORLD/europe/01/26/france.burqa.ban/)

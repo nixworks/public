@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/14/a-motorcycle-gunman-shoots-and-kills-a-journalist-in-the-philippines-who-had-been-critical-of-local-officials-alleged-involvement-in-the-il.html)  [JSON](/news/2015/02/14/a-motorcycle-gunman-shoots-and-kills-a-journalist-in-the-philippines-who-had-been-critical-of-local-officials-alleged-involvement-in-the-il.json)  [XML](/news/2015/02/14/a-motorcycle-gunman-shoots-and-kills-a-journalist-in-the-philippines-who-had-been-critical-of-local-officials-alleged-involvement-in-the-il.xml)  
+
 ### [2015-02-14](/news/2015/02/14/index.md)
 
+##### journalist
 # A motorcycle gunman shoots and kills a journalist in the Philippines who had been critical of local officials' alleged involvement in the illegal drug trade. The murder of the journalist is the 34th since the regime of Benigno Aquino III began in 2010. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/672939/radio-broadcaster-killed-in-tagbilaran)
 

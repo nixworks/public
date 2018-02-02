@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/31/in-cote-d-ivoire-former-rebels-known-as-the-new-forces-refuse-to-disarm-before-legislative-reforms.html)  [JSON](/news/2005/07/31/in-cote-d-ivoire-former-rebels-known-as-the-new-forces-refuse-to-disarm-before-legislative-reforms.json)  [XML](/news/2005/07/31/in-cote-d-ivoire-former-rebels-known-as-the-new-forces-refuse-to-disarm-before-legislative-reforms.xml)  
+
 ### [2005-07-31](/news/2005/07/31/index.md)
 
+##### Cte d'Ivoire
 #  In Cte d'Ivoire, former rebels known as the New Forces refuse to disarm before legislative reforms 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4733879.stm)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L31362525.htm)

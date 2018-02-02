@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/18/ugandan-police-arrest-20-people-including-several-pakistanis-for-their-alleged-role-in-the-recent-bombings-in-kampala.html)  [JSON](/news/2010/07/18/ugandan-police-arrest-20-people-including-several-pakistanis-for-their-alleged-role-in-the-recent-bombings-in-kampala.json)  [XML](/news/2010/07/18/ugandan-police-arrest-20-people-including-several-pakistanis-for-their-alleged-role-in-the-recent-bombings-in-kampala.xml)  
+
 ### [2010-07-18](/news/2010/07/18/index.md)
 
+##### Uganda
 # Ugandan police arrest 20 people, including several Pakistanis, for their alleged role in the recent bombings in Kampala. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5iwUDMBbJu5U8mSxZPuXk8fJgj0qg)
 

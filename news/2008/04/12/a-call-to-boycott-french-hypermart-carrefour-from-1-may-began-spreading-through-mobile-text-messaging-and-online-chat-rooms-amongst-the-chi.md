@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2008/04/12/a-call-to-boycott-french-hypermart-carrefour-from-1-may-began-spreading-through-mobile-text-messaging-and-online-chat-rooms-amongst-the-chi.html)  [JSON](/news/2008/04/12/a-call-to-boycott-french-hypermart-carrefour-from-1-may-began-spreading-through-mobile-text-messaging-and-online-chat-rooms-amongst-the-chi.json)  [XML](/news/2008/04/12/a-call-to-boycott-french-hypermart-carrefour-from-1-may-began-spreading-through-mobile-text-messaging-and-online-chat-rooms-amongst-the-chi.xml)  
+
 ### [2008-04-12](/news/2008/04/12/index.md)
 
+##### Carrefour
 #  A call to boycott French hypermart Carrefour from 1 May began spreading through mobile text messaging and online chat rooms amongst the Chinese over the weekend from 12 April, accusing the company's major shareholder, the LVMH Group, of donating funds to the Dalai Lama. There were also calls to extend the boycott to include French luxury goods and cosmetic products. According to the "Washington Times" on April 15, however, the Chinese government was attempting to "calm the situation" through censorship: "All comments posted on popular Internet forum Sohu.com relating to a boycott of Carrefour have been deleted."
 
 

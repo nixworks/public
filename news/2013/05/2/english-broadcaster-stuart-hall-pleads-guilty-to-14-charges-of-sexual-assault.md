@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/2/english-broadcaster-stuart-hall-pleads-guilty-to-14-charges-of-sexual-assault.html)  [JSON](/news/2013/05/2/english-broadcaster-stuart-hall-pleads-guilty-to-14-charges-of-sexual-assault.json)  [XML](/news/2013/05/2/english-broadcaster-stuart-hall-pleads-guilty-to-14-charges-of-sexual-assault.xml)  
+
 ### [2013-05-2](/news/2013/05/2/index.md)
 
+##### English
 # English broadcaster Stuart Hall pleads guilty to 14 charges of sexual assault. 
 
 BBC broadcaster Stuart Hall pleads guilty to 14 charges of indecently assaulting girls, including one as young as nine, between 1967 and 1985.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-22379286)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67381000/jpg/_67381405_hi017886592.jpg)

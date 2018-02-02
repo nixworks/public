@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/25/pakistani-leaders-pressure-muslim-militants-in-kashmir-to-declare-a-ceasefire-with-india-meanwhile-indian-prime-minister-atal-bihari-vajp.html)  [JSON](/news/2004/02/25/pakistani-leaders-pressure-muslim-militants-in-kashmir-to-declare-a-ceasefire-with-india-meanwhile-indian-prime-minister-atal-bihari-vajp.json)  [XML](/news/2004/02/25/pakistani-leaders-pressure-muslim-militants-in-kashmir-to-declare-a-ceasefire-with-india-meanwhile-indian-prime-minister-atal-bihari-vajp.xml)  
+
 ### [2004-02-25](/news/2004/02/25/index.md)
 
+##### Kashmir
 #  Pakistani leaders pressure Muslim militants in Kashmir to declare a ceasefire with India. Meanwhile, Indian Prime Minister Atal Bihari Vajpayee tries to gain Muslim votes for his Bharatiya Janata Party with the prospect of peace with Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.news.yahoo.com/040225/137/2bnd1.html)
 2. [Reuters](http://in.news.yahoo.com/040225/137/2bo5l.html)

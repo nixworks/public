@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/3/the-high-court-of-australia-rules-that-rod-culle
 
 ### [2017-02-3](/news/2017/02/3/index.md)
 
+##### High Court of Australia
 # The High Court of Australia rules that Rod Culleton was ineligible for election as a candidate for Pauline Hanson's One Nation Party in Western Australia in the Federal election and is ineligible to serve in the Senate of Australia. 
 
 After a protracted legal battle that began almost as soon as he was elected, Rod Culleton&#039;s election has been ruled ineligible by the High Court.

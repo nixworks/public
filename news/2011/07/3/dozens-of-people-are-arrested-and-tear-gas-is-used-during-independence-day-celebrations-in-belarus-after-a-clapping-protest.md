@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/3/dozens-of-people-are-arrested-and-tear-gas-is-used-during-independence-day-celebrations-in-belarus-after-a-clapping-protest.html)  [JSON](/news/2011/07/3/dozens-of-people-are-arrested-and-tear-gas-is-used-during-independence-day-celebrations-in-belarus-after-a-clapping-protest.json)  [XML](/news/2011/07/3/dozens-of-people-are-arrested-and-tear-gas-is-used-during-independence-day-celebrations-in-belarus-after-a-clapping-protest.xml)  
+
 ### [2011-07-3](/news/2011/07/3/index.md)
 
+##### tear gas
 # Dozens of people are arrested and tear gas is used during Independence Day celebrations in Belarus after a "clapping" protest. 
 
 Belarus President Alexander Lukashenko vows not to allow a revolution in his country as police arrest scores of protesters.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/07/201173184516320207.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-14006365)

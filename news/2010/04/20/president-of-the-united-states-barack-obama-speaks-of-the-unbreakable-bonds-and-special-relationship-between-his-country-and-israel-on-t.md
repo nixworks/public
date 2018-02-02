@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/20/president-of-the-united-states-barack-obama-speaks-of-the-unbreakable-bonds-and-special-relationship-between-his-country-and-israel-on-t.html)  [JSON](/news/2010/04/20/president-of-the-united-states-barack-obama-speaks-of-the-unbreakable-bonds-and-special-relationship-between-his-country-and-israel-on-t.json)  [XML](/news/2010/04/20/president-of-the-united-states-barack-obama-speaks-of-the-unbreakable-bonds-and-special-relationship-between-his-country-and-israel-on-t.xml)  
+
 ### [2010-04-20](/news/2010/04/20/index.md)
 
+##### U.S. President
 # President of the United States Barack Obama speaks of the "unbreakable bonds" and "special relationship" between his country and Israel on the 62nd anniversary of Israel's birth. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Israel-US-President-Barack-Obama-Insists-Ties-Are-Strong-On-62nd-Anniversary-Of-The-State/Article/201004315609813?lpos=World_News_First_Home_Article_Teaser_Region_3&lid=ARTICLE_15609813_Israel%3A_US_President_Barack_Obama_Insists_Ties_Are_Strong_On_62nd_Anniversary_Of_The_State)
 2. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=173525)

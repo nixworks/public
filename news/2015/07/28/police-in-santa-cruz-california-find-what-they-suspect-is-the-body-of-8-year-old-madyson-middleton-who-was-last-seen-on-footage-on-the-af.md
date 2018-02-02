@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/28/police-in-santa-cruz-california-find-what-they-suspect-is-the-body-of-8-year-old-madyson-middleton-who-was-last-seen-on-footage-on-the-af.html)  [JSON](/news/2015/07/28/police-in-santa-cruz-california-find-what-they-suspect-is-the-body-of-8-year-old-madyson-middleton-who-was-last-seen-on-footage-on-the-af.json)  [XML](/news/2015/07/28/police-in-santa-cruz-california-find-what-they-suspect-is-the-body-of-8-year-old-madyson-middleton-who-was-last-seen-on-footage-on-the-af.xml)  
+
 ### [2015-07-28](/news/2015/07/28/index.md)
 
+##### Santa Cruz, California
 # Police in Santa Cruz, California, find what they suspect is the body of 8-year-old Madyson Middleton, who was last seen on footage on the afternoon of Sunday, July 27, riding her new scooter. A 15-year-old male minor has been arrested on suspicion of homicide. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN](http://www.msn.com/en-us/news/us/body-believed-to-be-missing-california-girl-8-found/ar-AAdyPcE)
 

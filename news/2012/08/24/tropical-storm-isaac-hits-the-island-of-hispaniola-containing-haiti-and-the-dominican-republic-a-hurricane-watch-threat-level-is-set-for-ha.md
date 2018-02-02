@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/24/tropical-storm-isaac-hits-the-island-of-hispaniola-containing-haiti-and-the-dominican-republic-a-hurricane-watch-threat-level-is-set-for-ha.html)  [JSON](/news/2012/08/24/tropical-storm-isaac-hits-the-island-of-hispaniola-containing-haiti-and-the-dominican-republic-a-hurricane-watch-threat-level-is-set-for-ha.json)  [XML](/news/2012/08/24/tropical-storm-isaac-hits-the-island-of-hispaniola-containing-haiti-and-the-dominican-republic-a-hurricane-watch-threat-level-is-set-for-ha.xml)  
+
 ### [2012-08-24](/news/2012/08/24/index.md)
 
+##### Tropical Storm Isaac
 # Tropical Storm Isaac hits the island of Hispaniola containing Haiti and the Dominican Republic. A hurricane watch threat level is set for Haiti. 
 
 Tropical Storm Isaac dumps rain on eastern Cuba after bringing flood misery to the south coast of Haiti, where four people were killed.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-19365052#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa)
 2. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/)

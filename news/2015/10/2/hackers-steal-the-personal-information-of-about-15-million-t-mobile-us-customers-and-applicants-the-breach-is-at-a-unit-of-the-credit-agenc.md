@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/2/hackers-steal-the-personal-information-of-about-15-million-t-mobile-us-customers-and-applicants-the-breach-is-at-a-unit-of-the-credit-agenc.html)  [JSON](/news/2015/10/2/hackers-steal-the-personal-information-of-about-15-million-t-mobile-us-customers-and-applicants-the-breach-is-at-a-unit-of-the-credit-agenc.json)  [XML](/news/2015/10/2/hackers-steal-the-personal-information-of-about-15-million-t-mobile-us-customers-and-applicants-the-breach-is-at-a-unit-of-the-credit-agenc.xml)  
+
 ### [2015-10-2](/news/2015/10/2/index.md)
 
+##### hackers
 # Hackers steal the personal information of about 15 million T-Mobile US customers and applicants. The breach is at a unit of the credit agency Experian. 
 
 Hackers target credit agency Experian to steal the personal information of about 15 million T-Mobile customers and applicants for contracts in the US.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-34420879)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/15BEA/production/_85866098_pridepic1-1.jpg)

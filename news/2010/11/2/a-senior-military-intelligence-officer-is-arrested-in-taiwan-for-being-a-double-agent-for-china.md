@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/2/a-senior-military-intelligence-officer-is-arrested-in-taiwan-for-being-a-double-agent-for-china.html)  [JSON](/news/2010/11/2/a-senior-military-intelligence-officer-is-arrested-in-taiwan-for-being-a-double-agent-for-china.json)  [XML](/news/2010/11/2/a-senior-military-intelligence-officer-is-arrested-in-taiwan-for-being-a-double-agent-for-china.xml)  
+
 ### [2010-11-2](/news/2010/11/2/index.md)
 
+##### Taiwan
 # A senior military intelligence officer is arrested in Taiwan for being a double agent for China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11673184)
 2. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?ID=201011020010&Type=aIPL)

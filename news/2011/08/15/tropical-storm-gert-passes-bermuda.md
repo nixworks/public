@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/15/tropical-storm-gert-passes-bermuda.html)  [JSON](/news/2011/08/15/tropical-storm-gert-passes-bermuda.json)  [XML](/news/2011/08/15/tropical-storm-gert-passes-bermuda.xml)  
+
 ### [2011-08-15](/news/2011/08/15/index.md)
 
+##### Hurricane Rina
 # Tropical Storm Gert passes Bermuda. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [National Hurricane Centre](http://www.nhc.noaa.gov/nhc_storms.shtml)
 

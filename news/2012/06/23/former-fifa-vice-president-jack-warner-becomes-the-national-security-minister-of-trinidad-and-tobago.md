@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/23/former-fifa-vice-president-jack-warner-becomes-the-national-security-minister-of-trinidad-and-tobago.html)  [JSON](/news/2012/06/23/former-fifa-vice-president-jack-warner-becomes-the-national-security-minister-of-trinidad-and-tobago.json)  [XML](/news/2012/06/23/former-fifa-vice-president-jack-warner-becomes-the-national-security-minister-of-trinidad-and-tobago.xml)  
+
 ### [2012-06-23](/news/2012/06/23/index.md)
 
+##### FIFA
 # Former FIFA vice-president Jack Warner becomes the national security minister of Trinidad and Tobago. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18564268)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/61099000/jpg/_61099293_012132143-1.jpg)

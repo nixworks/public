@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/6/workers-at-the-fukushima-i-nuclear-power-plant-manage-to-plug-radiation-leaks.html)  [JSON](/news/2011/04/6/workers-at-the-fukushima-i-nuclear-power-plant-manage-to-plug-radiation-leaks.json)  [XML](/news/2011/04/6/workers-at-the-fukushima-i-nuclear-power-plant-manage-to-plug-radiation-leaks.xml)  
+
 ### [2011-04-6](/news/2011/04/6/index.md)
 
+##### Fukushima I Nuclear Power Plant
 # Workers at the Fukushima I Nuclear Power Plant manage to plug radiation leaks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_JAPAN_EARTHQUAKE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

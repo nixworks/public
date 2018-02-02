@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/05/7/in-guinea-bissau-president-joao-bernardo-vieira-is-ousted-in-a-military-coup.html)  [JSON](/news/1999/05/7/in-guinea-bissau-president-joao-bernardo-vieira-is-ousted-in-a-military-coup.json)  [XML](/news/1999/05/7/in-guinea-bissau-president-joao-bernardo-vieira-is-ousted-in-a-military-coup.xml)  
+
 ### [1999-05-7](/news/1999/05/7/index.md)
 
+##### Guinea-Bissau
 #  In Guinea-Bissau, President Joo Bernardo Vieira is ousted in a military coup.
 
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/03/10/yahoo-tops-the-list-in-the-first-attempt-to-quantify-the-data-collected-from-web-users-for-internet-marketing.html)  [JSON](/news/2008/03/10/yahoo-tops-the-list-in-the-first-attempt-to-quantify-the-data-collected-from-web-users-for-internet-marketing.json)  [XML](/news/2008/03/10/yahoo-tops-the-list-in-the-first-attempt-to-quantify-the-data-collected-from-web-users-for-internet-marketing.xml)  
+
 ### [2008-03-10](/news/2008/03/10/index.md)
 
+##### Yahoo!
 #  Yahoo! tops the list in the first attempt to quantify the data collected from Web users for Internet marketing. 
 
 A new analysis of online consumer data shows that large Web companies are learning more about people than ever from what they search for and do on the Internet.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/03/10/technology/10privacy.html)
+1. [The New York Times](https://www.nytimes.com/2008/03/10/technology/10privacy.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

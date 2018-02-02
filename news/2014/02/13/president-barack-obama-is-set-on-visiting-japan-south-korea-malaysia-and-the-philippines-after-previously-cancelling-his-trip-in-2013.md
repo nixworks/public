@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/02/13/president-barack-obama-is-set-on-visiting-japan-south-korea-malaysia-and-the-philippines-after-previously-cancelling-his-trip-in-2013.html)  [JSON](/news/2014/02/13/president-barack-obama-is-set-on-visiting-japan-south-korea-malaysia-and-the-philippines-after-previously-cancelling-his-trip-in-2013.json)  [XML](/news/2014/02/13/president-barack-obama-is-set-on-visiting-japan-south-korea-malaysia-and-the-philippines-after-previously-cancelling-his-trip-in-2013.xml)  
+
 ### [2014-02-13](/news/2014/02/13/index.md)
 
+##### Barack Obama
 # President Barack Obama is set on visiting Japan, South Korea, Malaysia, and the Philippines after previously cancelling his trip in 2013. 
 
 President Barack Obama on Wednesday announced he will visit Japan, South Korea, Malaysia and the Philippines in April, six months after a scrapped tour of the region raised questions about his commitment to an increasingly influential region of the world.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/02/13/us-usa-obama-asia-idUSBREA1C00220140213)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140213&t=2&i=837867446&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA1C003900)
+1. [Reuters](https://www.reuters.com/article/2014/02/13/us-usa-obama-asia-idUSBREA1C00220140213)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140213&t=2&i=837867446&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA1C003900)
 
 ### Related:
 

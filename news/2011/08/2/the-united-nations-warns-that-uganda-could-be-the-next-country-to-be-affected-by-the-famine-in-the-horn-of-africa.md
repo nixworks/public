@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/2/the-united-nations-warns-that-uganda-could-be-the-next-country-to-be-affected-by-the-famine-in-the-horn-of-africa.html)  [JSON](/news/2011/08/2/the-united-nations-warns-that-uganda-could-be-the-next-country-to-be-affected-by-the-famine-in-the-horn-of-africa.json)  [XML](/news/2011/08/2/the-united-nations-warns-that-uganda-could-be-the-next-country-to-be-affected-by-the-famine-in-the-horn-of-africa.xml)  
+
 ### [2011-08-2](/news/2011/08/2/index.md)
 
+##### United Nations
 # The United Nations warns that Uganda could be the next country to be affected by the famine in the Horn of Africa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE7710BD20110802?sp=true)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/22/seven-pakistani-crew-members-on-iranian-cargo-s
 
 ### [2016-12-22](/news/2016/12/22/index.md)
 
+##### Yemeni Civil War
 # Seven Pakistani crew members on Iranian cargo ship MV "Joya", sailing from Egypt to Dubai, UAE, are killed in a rocket attack off Yemen's coast. 
 
 KARACHI: At least seven Pakistanis are reportedly killed in a rocket attack on a cargo ship off Yemen coast, Geo News reported on Thursday. All the members of crew of the Iranian ship were...

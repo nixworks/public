@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/28/iraq-crisis-of-2003-iraq-begins-the-process-of-destroying-al-samoud-two-missiles-on-march-1-hans-blix-u-n-chief-weapons-inspector-said.html)  [JSON](/news/2003/02/28/iraq-crisis-of-2003-iraq-begins-the-process-of-destroying-al-samoud-two-missiles-on-march-1-hans-blix-u-n-chief-weapons-inspector-said.json)  [XML](/news/2003/02/28/iraq-crisis-of-2003-iraq-begins-the-process-of-destroying-al-samoud-two-missiles-on-march-1-hans-blix-u-n-chief-weapons-inspector-said.xml)  
+
 ### [2003-02-28](/news/2003/02/28/index.md)
 
+##### Iraq crisis of 2003
 #  Iraq crisis of 2003: Iraq begins the process of destroying Al Samoud two missiles on March 1. Hans Blix, U.N. chief weapons inspector said "It is a very significant piece of real disarmament". However, the spokesman of the White House, Ari Fleischer declared that the Iraq commitment to destroy these missiles is a fraud that President George W. Bush had predicted, and indicated that the United States wanted a total and complete disarmament of Iraq. He also repeated that if the United Nations did not act to disarm Baghdad, the United States would lead a coalition of voluntary countries to disarm Saddam Hussein.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/21/six-world-powers-and-iran-meet-in-istanbul-to-talk-about-iran-s-nuclear-programme-iran-denies-allegations-it-is-developing-nuclear-weapons.html)  [JSON](/news/2011/01/21/six-world-powers-and-iran-meet-in-istanbul-to-talk-about-iran-s-nuclear-programme-iran-denies-allegations-it-is-developing-nuclear-weapons.json)  [XML](/news/2011/01/21/six-world-powers-and-iran-meet-in-istanbul-to-talk-about-iran-s-nuclear-programme-iran-denies-allegations-it-is-developing-nuclear-weapons.xml)  
+
 ### [2011-01-21](/news/2011/01/21/index.md)
 
+##### Iran
 # Six world powers and Iran meet in Istanbul to talk about Iran's nuclear programme; Iran denies allegations it is developing nuclear weapons. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/20111218501267212.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/6/2010126132218102965_20.jpg)

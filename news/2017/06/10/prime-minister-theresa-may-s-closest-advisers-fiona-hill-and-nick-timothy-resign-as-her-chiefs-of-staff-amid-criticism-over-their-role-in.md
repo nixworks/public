@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/10/prime-minister-theresa-may-s-closest-advisers-f
 
 ### [2017-06-10](/news/2017/06/10/index.md)
 
+##### last general election
 # Prime Minister Theresa May's closest advisers, Fiona Hill and Nick Timothy, resign as her Chiefs of Staff amid criticism over their role in the Conservative Party's election campaign. 
 
 Theresa May’s key aides Nick Timothy and Fiona Hill have resigned, taking the blame for her disastrous election campaign. Mr Timothy said he was taking responsibility for the social care U-turn which torpedoed her manifesto, acknowledging he had “oversight of our policy programme”. “In particular, I regret the decision not to include in the manifesto a ceiling as well as a floor in our proposal to help meet the increasing cost of social care,” he added.

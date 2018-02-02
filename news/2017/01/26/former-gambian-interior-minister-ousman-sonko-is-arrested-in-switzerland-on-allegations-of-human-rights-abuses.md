@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/26/former-gambian-interior-minister-ousman-sonko-i
 
 ### [2017-01-26](/news/2017/01/26/index.md)
 
+##### Ousman Sonko
 # Former Gambian Interior Minister Ousman Sonko is arrested in Switzerland on allegations of human rights abuses. 
 
 Switzerland has detained former Gambian interior minister Ousman Sonko, who is accused of committing grave abuses under the regime of ousted president Yahya Jammeh.

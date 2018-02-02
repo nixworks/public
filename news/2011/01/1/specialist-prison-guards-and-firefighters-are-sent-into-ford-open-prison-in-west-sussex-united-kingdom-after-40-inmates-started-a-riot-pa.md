@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/1/specialist-prison-guards-and-firefighters-are-sent-into-ford-open-prison-in-west-sussex-united-kingdom-after-40-inmates-started-a-riot-pa.html)  [JSON](/news/2011/01/1/specialist-prison-guards-and-firefighters-are-sent-into-ford-open-prison-in-west-sussex-united-kingdom-after-40-inmates-started-a-riot-pa.json)  [XML](/news/2011/01/1/specialist-prison-guards-and-firefighters-are-sent-into-ford-open-prison-in-west-sussex-united-kingdom-after-40-inmates-started-a-riot-pa.xml)  
+
 ### [2011-01-1](/news/2011/01/1/index.md)
 
+##### Ford Open Prison
 # Specialist prison guards and firefighters are sent into Ford Open Prison in West Sussex, United Kingdom, after 40 inmates started a riot. Part of the prison has been destroyed by fire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-12102266)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

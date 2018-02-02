@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/22/voters-in-east-timor-go-to-the-polls-to-elect-m
 
 ### [2017-07-22](/news/2017/07/22/index.md)
 
+##### East Timorese parliamentary election, 2017
 # Voters in East Timor go to the polls to elect members of their National Parliament. 
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/25/the-supreme-court-of-norway-rejects-nsa-whistle
 
 ### [2016-11-25](/news/2016/11/25/index.md)
 
+##### Supreme Court of Norway
 # The Supreme Court of Norway rejects NSA whistleblower Edward Snowden's extradition lawsuit against the Norwegian government. 
 
 

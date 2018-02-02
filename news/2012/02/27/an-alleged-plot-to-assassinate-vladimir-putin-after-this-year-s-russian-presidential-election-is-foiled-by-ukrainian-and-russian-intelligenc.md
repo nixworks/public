@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2012/02/27/an-alleged-plot-to-assassinate-vladimir-putin-after-this-year-s-russian-presidential-election-is-foiled-by-ukrainian-and-russian-intelligenc.html)  [JSON](/news/2012/02/27/an-alleged-plot-to-assassinate-vladimir-putin-after-this-year-s-russian-presidential-election-is-foiled-by-ukrainian-and-russian-intelligenc.json)  [XML](/news/2012/02/27/an-alleged-plot-to-assassinate-vladimir-putin-after-this-year-s-russian-presidential-election-is-foiled-by-ukrainian-and-russian-intelligenc.xml)  
+
 ### [2012-02-27](/news/2012/02/27/index.md)
 
+##### Vladimir Putin
 # An alleged plot to assassinate Vladimir Putin after this year's Russian presidential election is foiled by Ukrainian and Russian intelligence services. 
 
 Critics questioned the timing of a revelation by Russian state media on Monday of the alleged assassination plot.
 
 
-### Source:
+### Sources:
 
 1. [1TV.ru](http://www.1tv.ru/news/crime/200014)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-17176615)
 3. [Daily Mail](http://www.dailymail.co.uk/news/article-2107026/Vladimir-Putin-assassination-plot-Chechen-rebel-Adam-Osmayev-captured.html)
-4. [New York Times](http://www.nytimes.com/2012/02/28/world/europe/plot-to-kill-vladimir-putin-uncovered.html)
+4. [New York Times](https://www.nytimes.com/2012/02/28/world/europe/plot-to-kill-vladimir-putin-uncovered.html)
 5. [Russia Today](http://rt.com/news/putin-assassination-attempt-thwarted-271/comments/)
 5. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 

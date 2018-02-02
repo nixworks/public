@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/04/19/myspace-com-was-officially-introduced-to-the-internet-though-myspace-beta-had-been-around-since-1998.html)  [JSON](/news/1999/04/19/myspace-com-was-officially-introduced-to-the-internet-though-myspace-beta-had-been-around-since-1998.json)  [XML](/news/1999/04/19/myspace-com-was-officially-introduced-to-the-internet-though-myspace-beta-had-been-around-since-1998.xml)  
+
 ### [1999-04-19](/news/1999/04/19/index.md)
 
+##### MySpace
 #  MySpace.com was officially introduced to the Internet, though MySpace-beta had been around since 1998
 
 

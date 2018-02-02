@@ -1,7 +1,7 @@
-## [2002-10-27](/news/2002/10/27/index.md)
 
-### [ Leftist Luis Inacio Lula da Silva handily wins Brazil's presidential election.](/news/2002/10/27/leftist-luis-ina-cio-lula-da-silva-handily-wins-brazil-s-presidential-election.md)
-_Context: Leftist, Luis Inacio Lula da Silva_
+Formats: [HTML](2002/10/27/index.html)  [JSON](2002/10/27/index.json)  [XML](2002/10/27/index.xml)  
+
+## [2002-10-27](/news/2002/10/27/index.md)
 
 ## [Previous Day...](/news/2002/10/26/index.md)
 

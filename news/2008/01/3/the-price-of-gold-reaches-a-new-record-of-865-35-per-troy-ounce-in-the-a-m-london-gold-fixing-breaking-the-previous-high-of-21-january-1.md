@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/3/the-price-of-gold-reaches-a-new-record-of-865-35-per-troy-ounce-in-the-a-m-london-gold-fixing-breaking-the-previous-high-of-21-january-1.html)  [JSON](/news/2008/01/3/the-price-of-gold-reaches-a-new-record-of-865-35-per-troy-ounce-in-the-a-m-london-gold-fixing-breaking-the-previous-high-of-21-january-1.json)  [XML](/news/2008/01/3/the-price-of-gold-reaches-a-new-record-of-865-35-per-troy-ounce-in-the-a-m-london-gold-fixing-breaking-the-previous-high-of-21-january-1.xml)  
+
 ### [2008-01-3](/news/2008/01/3/index.md)
 
+##### gold
 #  The price of gold reaches a new record of $865.35 per troy ounce in the a.m. London Gold Fixing, breaking the previous high of 21 January 1980. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [LBMA](http://www.lbma.org.uk/2008dailygold.htm)
 

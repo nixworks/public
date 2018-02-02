@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/11/22/a-washington-d-c-jury-convicts-ingmar-guandique-of-the-murder-of-chandra-levy.html)  [JSON](/news/2010/11/22/a-washington-d-c-jury-convicts-ingmar-guandique-of-the-murder-of-chandra-levy.json)  [XML](/news/2010/11/22/a-washington-d-c-jury-convicts-ingmar-guandique-of-the-murder-of-chandra-levy.xml)  
+
 ### [2010-11-22](/news/2010/11/22/index.md)
 
+##### Ingmar Guandique
 # A Washington D.C. jury convicts Ingmar Guandique of the murder of Chandra Levy. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/11/22/AR2010112203633.html?hpid=topnews)
+1. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/11/22/AR2010112203633.html?hpid=topnews)
 1. [Cover Image](http://www.washingtonpost.com/wp-dyn/content/photo/2010/11/22/PH2010112204246.jpg)
 
 ### Related:

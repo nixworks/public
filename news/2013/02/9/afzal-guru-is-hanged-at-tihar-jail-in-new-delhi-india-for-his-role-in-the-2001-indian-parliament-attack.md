@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/9/afzal-guru-is-hanged-at-tihar-jail-in-new-delhi-india-for-his-role-in-the-2001-indian-parliament-attack.html)  [JSON](/news/2013/02/9/afzal-guru-is-hanged-at-tihar-jail-in-new-delhi-india-for-his-role-in-the-2001-indian-parliament-attack.json)  [XML](/news/2013/02/9/afzal-guru-is-hanged-at-tihar-jail-in-new-delhi-india-for-his-role-in-the-2001-indian-parliament-attack.xml)  
+
 ### [2013-02-9](/news/2013/02/9/index.md)
 
+##### Afzal Guru
 # Afzal Guru is hanged at Tihar Jail in New Delhi, India, for his role in the 2001 Indian Parliament attack. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-21392156)
 2. [CNN](http://edition.cnn.com/2013/02/09/world/asia/india-execution)

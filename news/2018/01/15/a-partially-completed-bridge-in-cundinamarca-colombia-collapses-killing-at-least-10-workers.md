@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/15/a-partially-completed-bridge-in-cundinamarca-co
 
 ### [2018-01-15](/news/2018/01/15/index.md)
 
+##### Chirajara bridge collapse
 # A partially completed bridge in Cundinamarca, Colombia, collapses, killing at least 10 workers. 
 
 At least nine construction workers were killed and five injured when a partially-constructed bridge collapsed in central Colombia on Monday, an official from the disaster response agency said.
@@ -16,7 +17,7 @@ At least nine construction workers were killed and five injured when a partially
 ### Related:
 
 1. [ A roadside bomb hits a United Nations Interim Force in Lebanon patrol, killing six Spanish-speaking peacekeepers (three of whom were Colombian) and injuring two others. ](/news/2018/06/24/a-roadside-bomb-hits-a-united-nations-interim-force-in-lebanon-patrol-killing-six-spanish-speaking-peacekeepers-three-of-whom-were-colomb.md) _Context: Colombia_
-2. [A Colombian Army Mi-17 helicopter crashes near Segovia, Antioquia, in northern Colombia, killing at least ten people. ](/news/2018/01/16/a-colombian-army-mi-17-helicopter-crashes-near-segovia-antioquia-in-northern-colombia-killing-at-least-ten-people.md) _Context: Colombia_
-3. [Pope Francis arrives in Colombia for a five-day visit. In early 2016, Francis promised he would visit the South American country once a civil war peace agreement was in place. ](/news/2017/09/6/pope-francis-arrives-in-colombia-for-a-five-day-visit-in-early-2016-francis-promised-he-would-visit-the-south-american-country-once-a-civi.md) _Context: Colombia_
-4. [Venezuela's National Commission of Telecommunications (Conatel) takes Colombian television channels Caracol Television and RCN Television off air due to their coverage of the 2017 Venezuelan constitutional crisis. ](/news/2017/08/24/venezuela-s-national-commission-of-telecommunications-conatel-takes-colombian-television-channels-caracol-televisia3n-and-rcn-televisia3n.md) _Context: Colombia_
-5. [At least nine people are killed and about 30 others are missing after their multi-story tourist boat, carrying about 170 people, sinks in a reservoir in northwest Colombia near Medellin. ](/news/2017/06/25/at-least-nine-people-are-killed-and-about-30-others-are-missing-after-their-multi-story-tourist-boat-carrying-about-170-people-sinks-in-a.md) _Context: Colombia_
+2. [A landslide pushes a bus into a ravine in Colombia, killing 13 people. ](/news/2018/01/22/a-landslide-pushes-a-bus-into-a-ravine-in-colombia-killing-13-people.md) _Context: Colombia_
+3. [A Colombian Army Mi-17 helicopter crashes near Segovia, Antioquia, in northern Colombia, killing at least ten people. ](/news/2018/01/16/a-colombian-army-mi-17-helicopter-crashes-near-segovia-antioquia-in-northern-colombia-killing-at-least-ten-people.md) _Context: Colombia_
+4. [Pope Francis arrives in Colombia for a five-day visit. In early 2016, Francis promised he would visit the South American country once a civil war peace agreement was in place. ](/news/2017/09/6/pope-francis-arrives-in-colombia-for-a-five-day-visit-in-early-2016-francis-promised-he-would-visit-the-south-american-country-once-a-civi.md) _Context: Colombia_
+5. [Venezuela's National Commission of Telecommunications (Conatel) takes Colombian television channels Caracol Television and RCN Television off air due to their coverage of the 2017 Venezuelan constitutional crisis. ](/news/2017/08/24/venezuela-s-national-commission-of-telecommunications-conatel-takes-colombian-television-channels-caracol-televisia3n-and-rcn-televisia3n.md) _Context: Colombia_

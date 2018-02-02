@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/6/scientists-warn-a-new-strain-of-the-panama-disease-fungus-which-in-the-1950s-nearly-wiped-out-the-most-popular-banana-in-the-world-the-gro.html)  [JSON](/news/2015/12/6/scientists-warn-a-new-strain-of-the-panama-disease-fungus-which-in-the-1950s-nearly-wiped-out-the-most-popular-banana-in-the-world-the-gro.json)  [XML](/news/2015/12/6/scientists-warn-a-new-strain-of-the-panama-disease-fungus-which-in-the-1950s-nearly-wiped-out-the-most-popular-banana-in-the-world-the-gro.xml)  
+
 ### [2015-12-6](/news/2015/12/6/index.md)
 
+##### Panama Disease
 # Scientists warn a new strain of the Panama Disease fungus, which in the 1950s nearly wiped out the most popular banana in the world, the Gros Michel, is threatening today's favorite, the Cavendish, according to a new study published in "PLOS Pathogens". This untreatable fungal disease, called Tropical Race 4, has been active for decades in Southeast Asia. It recently has spread to other parts of Asia, Africa, the Middle East, and Australia, and is expected to make its way to Latin America, where the vast majority of the world's exported bananas are grown. 
 
 The banana variety enjoyed worldwide may go extinct because of a rare and soil-borne fungus. Panama disease or Tropical Race 4 is infecting banana crops in Asia and the rest of the world.
 
 
-### Source:
+### Sources:
 
 1. [Tech Times](http://www.techtimes.com/articles/113050/20151206/bananas-may-go-extinct-as-lethal-fungus-threatens-worlds-favorite-fruit.htm)
 2. [The Sydney Morning Herald](http://www.smh.com.au/world/disease-threatens-the-commercial-banana-20151205-glgh1y)

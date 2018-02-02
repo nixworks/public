@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/05/31/olusegun-obasanjo-is-elected-president-of-nigeria.html)  [JSON](/news/1999/05/31/olusegun-obasanjo-is-elected-president-of-nigeria.json)  [XML](/news/1999/05/31/olusegun-obasanjo-is-elected-president-of-nigeria.xml)  
+
 ### [1999-05-31](/news/1999/05/31/index.md)
 
+##### Olusegun Obasanjo
 #  Olusegun Obasanjo is elected President of Nigeria.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/13/the-economic-growth-rate-for-the-people-s-republic-of-china-falls-to-7-6-per-cent-its-lowest-level-in-three-years.html)  [JSON](/news/2012/07/13/the-economic-growth-rate-for-the-people-s-republic-of-china-falls-to-7-6-per-cent-its-lowest-level-in-three-years.json)  [XML](/news/2012/07/13/the-economic-growth-rate-for-the-people-s-republic-of-china-falls-to-7-6-per-cent-its-lowest-level-in-three-years.xml)  
+
 ### [2012-07-13](/news/2012/07/13/index.md)
 
+##### economic growth
 # The economic growth rate for the People's Republic of China falls to 7.6 per cent, its lowest level in three years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg via ''Sydney Morning Herald](http://www.smh.com.au/business/china/chinas-economy-sparks-relief-rally-20120713-2207r.html)
 2. [Xinhua](http://news.xinhuanet.com/english/china/2012-07/13/c_131713073.htm)

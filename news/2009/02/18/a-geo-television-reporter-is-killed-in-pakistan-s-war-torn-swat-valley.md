@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/18/a-geo-television-reporter-is-killed-in-pakistan-s-war-torn-swat-valley.html)  [JSON](/news/2009/02/18/a-geo-television-reporter-is-killed-in-pakistan-s-war-torn-swat-valley.json)  [XML](/news/2009/02/18/a-geo-television-reporter-is-killed-in-pakistan-s-war-torn-swat-valley.xml)  
+
 ### [2009-02-18](/news/2009/02/18/index.md)
 
+##### GEO Television
 #  A GEO Television reporter is killed in Pakistan's war-torn Swat Valley. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hkiMxbHNH0BqgpWA2ZG6VD6wVTmAD96E319G1)
 

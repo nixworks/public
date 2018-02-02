@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/25/irish-minister-for-foreign-affairs-michea-l-martin-makes-history-as-he-leads-a-10-member-delegation-to-gaza-via-egypt-becoming-the-first-eu.html)  [JSON](/news/2010/02/25/irish-minister-for-foreign-affairs-michea-l-martin-makes-history-as-he-leads-a-10-member-delegation-to-gaza-via-egypt-becoming-the-first-eu.json)  [XML](/news/2010/02/25/irish-minister-for-foreign-affairs-michea-l-martin-makes-history-as-he-leads-a-10-member-delegation-to-gaza-via-egypt-becoming-the-first-eu.xml)  
+
 ### [2010-02-25](/news/2010/02/25/index.md)
 
+##### Minister for Foreign Affairs
 # Irish Minister for Foreign Affairs Micheal Martin makes history as he leads a 10-member delegation to Gaza via Egypt, becoming the first EU Foreign Minister to visit since the 2009 Israeli assault after having previously been refused entry by Israel. He calls on Israel to end the blockade. 
 
 Minister for Foreign Affairs Miche&aacute;l Martin today pleaded with Israel to end the blockade of Gaza and vowed Ireland would continue&hellip;
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://arabnews.com/middleeast/article22374.ece)
 2. [RTÉ](http://www.rte.ie/news/2010/0225/gaza.html)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/11/hillary-clinton-s-doctor-says-she-is-being-trea
 
 ### [2016-09-11](/news/2016/09/11/index.md)
 
+##### 2016 U.S. presidential election
 # Hillary Clinton's doctor says she is being treated for pneumonia and dehydration after the Democratic Party presidential candidate fell ill and abruptly left a ceremony in New York City honoring the 15th anniversary of the September 11 attacks. 
 
 The incident, which occurred after months of questions about Mrs. Clinton’s health from Republicans, is likely to increase pressure on her to address the issue.

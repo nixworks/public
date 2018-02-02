@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/9/the-house-of-keys-the-lower-house-of-the-isle-of-man-a-crown-dependency-of-the-united-kingdom-votes-to-lower-the-voting-age-to-16.html)  [JSON](/news/2006/02/9/the-house-of-keys-the-lower-house-of-the-isle-of-man-a-crown-dependency-of-the-united-kingdom-votes-to-lower-the-voting-age-to-16.json)  [XML](/news/2006/02/9/the-house-of-keys-the-lower-house-of-the-isle-of-man-a-crown-dependency-of-the-united-kingdom-votes-to-lower-the-voting-age-to-16.xml)  
+
 ### [2006-02-9](/news/2006/02/9/index.md)
 
+##### House of Keys
 #  The House of Keys, the lower house of the Isle of Man, a crown dependency of the United Kingdom, votes to lower the voting age to 16. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/isle_of_man/4690678.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/1/the-department-of-justice-asks-the-supreme-court
 
 ### [2017-06-1](/news/2017/06/1/index.md)
 
+##### United States immigration ban
 # The Department of Justice asks the Supreme Court for expedited review of the Fourth Circuit Appeals Court's May 25 ruling that affirmed the Maryland district court decision to prevent implementation of revised Executive Order 13780, and let the travel ban take effect. The Appeals Court of the Ninth Circuit has not announced its decision on a similar ruling from Hawaii. 
 
 

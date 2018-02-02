@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/30/ja3n-gnarr-s-best-party-besti-flokkurinn-wins-the-elections-in-reykjavak.html)  [JSON](/news/2010/05/30/ja3n-gnarr-s-best-party-besti-flokkurinn-wins-the-elections-in-reykjavak.json)  [XML](/news/2010/05/30/ja3n-gnarr-s-best-party-besti-flokkurinn-wins-the-elections-in-reykjavak.xml)  
+
 ### [2010-05-30](/news/2010/05/30/index.md)
 
+##### Jon Gnarr
 # Jon Gnarr's Best Party (Besti flokkurinn) wins the elections in Reykjavik. 
 
 The new Best Party wins local polls in Reykjavik, promising transparency, free towels and a polar bear for the zoo.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10194757.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

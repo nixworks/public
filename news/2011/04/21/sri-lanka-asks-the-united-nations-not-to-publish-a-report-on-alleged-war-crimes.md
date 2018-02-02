@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/21/sri-lanka-asks-the-united-nations-not-to-publish-a-report-on-alleged-war-crimes.html)  [JSON](/news/2011/04/21/sri-lanka-asks-the-united-nations-not-to-publish-a-report-on-alleged-war-crimes.json)  [XML](/news/2011/04/21/sri-lanka-asks-the-united-nations-not-to-publish-a-report-on-alleged-war-crimes.xml)  
+
 ### [2011-04-21](/news/2011/04/21/index.md)
 
+##### Sri Lanka
 # Sri Lanka asks the United Nations not to publish a report on alleged war crimes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/News-Feed/srilanka/Do-not-publish-report-Lanka-govt-to-UN/Article1-687992.aspx)
 2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_659592.html)

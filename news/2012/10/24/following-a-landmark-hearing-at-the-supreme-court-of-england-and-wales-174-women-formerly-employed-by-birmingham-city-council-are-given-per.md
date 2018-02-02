@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/24/following-a-landmark-hearing-at-the-supreme-court-of-england-and-wales-174-women-formerly-employed-by-birmingham-city-council-are-given-per.html)  [JSON](/news/2012/10/24/following-a-landmark-hearing-at-the-supreme-court-of-england-and-wales-174-women-formerly-employed-by-birmingham-city-council-are-given-per.json)  [XML](/news/2012/10/24/following-a-landmark-hearing-at-the-supreme-court-of-england-and-wales-174-women-formerly-employed-by-birmingham-city-council-are-given-per.xml)  
+
 ### [2012-10-24](/news/2012/10/24/index.md)
 
+##### Supreme Court of England and Wales
 # Following a landmark hearing at the Supreme Court of England and Wales, 174 women formerly employed by Birmingham City Council are given permission to seek compensation under Equal Pay legislation for missed bonuses. The ruling extends the time window for such claims from six months to six years. 
 
 A total of 174 ex-Birmingham City Council workers can go ahead with compensation claims over missed bonuses after the council loses its appeal.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-birmingham-20054049)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/finance/jobs/9629990/Women-win-equal-pay-fight-in-landmark-ruling.html)

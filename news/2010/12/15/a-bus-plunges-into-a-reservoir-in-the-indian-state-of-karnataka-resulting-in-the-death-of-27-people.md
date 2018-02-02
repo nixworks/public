@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/15/a-bus-plunges-into-a-reservoir-in-the-indian-state-of-karnataka-resulting-in-the-death-of-27-people.html)  [JSON](/news/2010/12/15/a-bus-plunges-into-a-reservoir-in-the-indian-state-of-karnataka-resulting-in-the-death-of-27-people.json)  [XML](/news/2010/12/15/a-bus-plunges-into-a-reservoir-in-the-indian-state-of-karnataka-resulting-in-the-death-of-27-people.xml)  
+
 ### [2010-12-15](/news/2010/12/15/index.md)
 
+##### reservoir
 # A bus plunges into a reservoir in the Indian state of Karnataka resulting in the death of 27 people. 
 
 Nearly 30 people die as a bus carrying wedding guests plunges into a reservoir in southern India.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11997225)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

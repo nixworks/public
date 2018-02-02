@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/20/local-tribesmen-and-uzbek-militants-clash-in-south-waziristan-pakistan-leaving-at-least-46-people-dead.html)  [JSON](/news/2007/03/20/local-tribesmen-and-uzbek-militants-clash-in-south-waziristan-pakistan-leaving-at-least-46-people-dead.json)  [XML](/news/2007/03/20/local-tribesmen-and-uzbek-militants-clash-in-south-waziristan-pakistan-leaving-at-least-46-people-dead.xml)  
+
 ### [2007-03-20](/news/2007/03/20/index.md)
 
+##### Uzbek
 #  Local tribesmen and Uzbek militants clash in South Waziristan, Pakistan, leaving at least 46 people dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Independent](http://news.independent.co.uk/world/asia/article2377748.ece)
 

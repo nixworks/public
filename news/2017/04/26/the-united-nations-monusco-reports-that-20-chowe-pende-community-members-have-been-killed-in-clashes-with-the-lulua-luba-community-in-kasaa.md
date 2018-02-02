@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/26/the-united-nations-monusco-reports-that-20-chow
 
 ### [2017-04-26](/news/2017/04/26/index.md)
 
+##### Kamwina Nsapu rebellion
 # The United Nations MONUSCO reports that 20 Chowe-Pende community members have been killed in clashes with the Lulua-Luba community in Kasai-Central, Democratic Republic of Congo. 
 
 Latest violence between Lulua-Luba and Chow-Pende communities extends eight months of bloodshed.

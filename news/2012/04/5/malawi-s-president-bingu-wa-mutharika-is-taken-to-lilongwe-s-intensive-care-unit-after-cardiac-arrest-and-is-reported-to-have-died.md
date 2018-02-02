@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2012/04/5/malawi-s-president-bingu-wa-mutharika-is-taken-to-lilongwe-s-intensive-care-unit-after-cardiac-arrest-and-is-reported-to-have-died.html)  [JSON](/news/2012/04/5/malawi-s-president-bingu-wa-mutharika-is-taken-to-lilongwe-s-intensive-care-unit-after-cardiac-arrest-and-is-reported-to-have-died.json)  [XML](/news/2012/04/5/malawi-s-president-bingu-wa-mutharika-is-taken-to-lilongwe-s-intensive-care-unit-after-cardiac-arrest-and-is-reported-to-have-died.xml)  
+
 ### [2012-04-5](/news/2012/04/5/index.md)
 
+##### Malawi
 # Malawi's President Bingu wa Mutharika is taken to Lilongwe's intensive care unit after cardiac arrest and is reported to have died. 
 
 Malawi President Bingu wa Mutharika has died after a heart attack, medical and government sources said on Friday, although few of his countrymen mourned a leader widely seen as an autocrat responsible for a stunning economic collapse.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17628591)
-2. [Reuters](http://www.reuters.com/article/2012/04/06/us-malawi-president-idUSBRE83504E20120406)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120406&t=2&i=591584393&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8350JCR00)
+2. [Reuters](https://www.reuters.com/article/2012/04/06/us-malawi-president-idUSBRE83504E20120406)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120406&t=2&i=591584393&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8350JCR00)
 
 ### Related:
 

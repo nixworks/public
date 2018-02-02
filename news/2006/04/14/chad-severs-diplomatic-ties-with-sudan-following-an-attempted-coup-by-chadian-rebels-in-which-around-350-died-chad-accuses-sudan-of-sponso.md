@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/14/chad-severs-diplomatic-ties-with-sudan-following-an-attempted-coup-by-chadian-rebels-in-which-around-350-died-chad-accuses-sudan-of-sponso.html)  [JSON](/news/2006/04/14/chad-severs-diplomatic-ties-with-sudan-following-an-attempted-coup-by-chadian-rebels-in-which-around-350-died-chad-accuses-sudan-of-sponso.json)  [XML](/news/2006/04/14/chad-severs-diplomatic-ties-with-sudan-following-an-attempted-coup-by-chadian-rebels-in-which-around-350-died-chad-accuses-sudan-of-sponso.xml)  
+
 ### [2006-04-14](/news/2006/04/14/index.md)
 
+##### Chad
 #  Chad severs diplomatic ties with Sudan following an attempted coup by Chadian rebels in which around 350 died. Chad accuses Sudan of sponsoring the rebels. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP](http://abcnews.go.com/International/wireStory?id=1843594)
 

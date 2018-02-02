@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/8/south-korea-unveils-sanctions-against-iran-for-its-nuclear-program.html)  [JSON](/news/2010/09/8/south-korea-unveils-sanctions-against-iran-for-its-nuclear-program.json)  [XML](/news/2010/09/8/south-korea-unveils-sanctions-against-iran-for-its-nuclear-program.xml)  
+
 ### [2010-09-8](/news/2010/09/8/index.md)
 
+##### South Korea
 # South Korea unveils sanctions against Iran for its nuclear program. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua via Sina](http://english.sina.com/world/2010/0907/338437.html)
 

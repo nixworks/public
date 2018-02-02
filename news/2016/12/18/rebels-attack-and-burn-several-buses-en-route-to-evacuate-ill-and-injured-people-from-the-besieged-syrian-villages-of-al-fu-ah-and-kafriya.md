@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/18/rebels-attack-and-burn-several-buses-en-route-t
 
 ### [2016-12-18](/news/2016/12/18/index.md)
 
+##### Syrian Civil War
 # Rebels attack and burn several buses en route to evacuate ill and injured people from the besieged Syrian villages of Al-Fu'ah and Kafriya. 
 
 Hundreds leave rebel-held areas after vehicles set on fire on their way to collect villagers from Kefraya and Fua
@@ -18,5 +19,5 @@ Hundreds leave rebel-held areas after vehicles set on fire on their way to colle
 1. [A car bomb strikes a convoy of buses near Aleppo which were carrying evacuees from the pro-government towns of Al-Fu'ah and Kafriya. Over 100 people are killed. ](/news/2017/04/15/a-car-bomb-strikes-a-convoy-of-buses-near-aleppo-which-were-carrying-evacuees-from-the-pro-government-towns-of-al-fu-ah-and-kafriya-over-10.md) _Context: Al-Fu'ah, Kafriya, Syrian Civil War_
 2. [ Syrian rebels withdraw from the old city of Aleppo. ](/news/2016/12/7/syrian-rebels-withdraw-from-the-old-city-of-aleppo.md) _Context: Aleppo offensive (November-December 2016), Syrian Civil War_
 3. [UNICEF confirms severe malnutrition in the besieged Syrian town of Madaya. Russia calls for humanitarian aid to be let into besieged towns like Madaya, Fua and Kafraya. ](/news/2016/01/15/unicef-confirms-severe-malnutrition-in-the-besieged-syrian-town-of-madaya-russia-calls-for-humanitarian-aid-to-be-let-into-besieged-towns-l.md) _Context: Al-Fu'ah, Syrian Civil War_
-4. [The British government suspends payments to the so-called Free Syrian Police after a BBC Panorama investigation revealed that the cash has been diverted to the Salafist rebel groups of Nour al-Din al-Zenki and Jabhat al-Nusra, police officers being hand-picked by these groups, dead people appearing on the payroll and some police officers participating in summary executions. ](/news/2017/12/4/the-british-government-suspends-payments-to-the-so-called-free-syrian-police-after-a-bbc-panorama-investigation-revealed-that-the-cash-has-b.md) _Context: Syrian Civil War_
-5. [The Syrian Army and its allies capture Abu Kamal from the Islamic State of Iraq and the Levant. ](/news/2017/11/8/the-syrian-army-and-its-allies-capture-abu-kamal-from-the-islamic-state-of-iraq-and-the-levant.md) _Context: Syrian Civil War_
+4. [An explosion at the headquarters of the Chechen-led Ajnad al-Kavkaz rebel group in Idlib, Syria, kills at least 23 people, while several people remain unaccounted for, according to the Syrian Observatory for Human Rights. ](/news/2018/01/7/an-explosion-at-the-headquarters-of-the-chechen-led-ajnad-al-kavkaz-rebel-group-in-idlib-syria-kills-at-least-23-people-while-several-peo.md) _Context: Syrian Civil War_
+5. [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md) _Context: Syrian Civil War_

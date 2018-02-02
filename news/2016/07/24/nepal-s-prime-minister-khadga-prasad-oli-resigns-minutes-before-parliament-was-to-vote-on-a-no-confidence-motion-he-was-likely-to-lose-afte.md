@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/24/nepal-s-prime-minister-khadga-prasad-oli-resign
 
 ### [2016-07-24](/news/2016/07/24/index.md)
 
+##### Prime Minister
 # Nepal's Prime Minister Khadga Prasad Oli resigns minutes before parliament was to vote on a no confidence motion he was likely to lose, after allies of his multi-party coalition leave the government accusing him of not honoring power sharing deals that helped him assume office in October 2015. 
 
 

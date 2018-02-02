@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/20/international-atomic-energy-agency-nuclear-inspectors-arrive-in-tehran-to-hold-discussions-about-iran-s-nuclear-program.html)  [JSON](/news/2012/02/20/international-atomic-energy-agency-nuclear-inspectors-arrive-in-tehran-to-hold-discussions-about-iran-s-nuclear-program.json)  [XML](/news/2012/02/20/international-atomic-energy-agency-nuclear-inspectors-arrive-in-tehran-to-hold-discussions-about-iran-s-nuclear-program.xml)  
+
 ### [2012-02-20](/news/2012/02/20/index.md)
 
+##### IAEA
 # International Atomic Energy Agency nuclear inspectors arrive in Tehran to hold discussions about Iran's nuclear program. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw.de/dw/article/0,,15751907,00.html)
 

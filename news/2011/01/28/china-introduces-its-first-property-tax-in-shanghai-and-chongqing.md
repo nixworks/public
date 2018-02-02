@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/28/china-introduces-its-first-property-tax-in-shanghai-and-chongqing.html)  [JSON](/news/2011/01/28/china-introduces-its-first-property-tax-in-shanghai-and-chongqing.json)  [XML](/news/2011/01/28/china-introduces-its-first-property-tax-in-shanghai-and-chongqing.xml)  
+
 ### [2011-01-28](/news/2011/01/28/index.md)
 
+##### Chongqing
 # China introduces its first property tax in Shanghai and Chongqing. 
 
 China introduces its first property tax for home buyers in an attempt to curb record house prices and tame inflation.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5inXlzpzg6CWT0X_86DE0H-0R7o-A?docId=CNG.d181f701d74575a4927d78a53b5b7ce3.651)
 2. [BBC](http://www.bbc.co.uk/news/business-12304990)

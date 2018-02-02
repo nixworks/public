@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2013/03/25/hundreds-of-people-gather-outside-daily-mail-headquarters-to-hold-a-vigil-after-the-possible-hounding-to-death-of-a-primary-school-teacher.html)  [JSON](/news/2013/03/25/hundreds-of-people-gather-outside-daily-mail-headquarters-to-hold-a-vigil-after-the-possible-hounding-to-death-of-a-primary-school-teacher.json)  [XML](/news/2013/03/25/hundreds-of-people-gather-outside-daily-mail-headquarters-to-hold-a-vigil-after-the-possible-hounding-to-death-of-a-primary-school-teacher.xml)  
+
 ### [2013-03-25](/news/2013/03/25/index.md)
 
+##### Daily Mail
 # Hundreds of people gather outside "Daily Mail" headquarters to hold a vigil after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/society/2013/mar/25/lucy-meadows-daily-mail-vigil)
+
+### Changes:
+
+1. [Hundreds of people gather outside ''Daily Mail'' headquarters to hold a vigil after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. ](/news/2013/03/25/hundreds-of-people-gather-outside-daily-mail-headquarters-to-hold-a-vigil-after-the-possible-hounding-to-death-of-a-primary-school-teach.md) _2017-08-25 03:38:00 (First version)_
+1. [Hundreds of people gather outside "Daily Mail" headquarters to hold a vigil after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. ](/news/2013/03/25/hundreds-of-people-gather-outside-daily-mail-headquarters-to-hold-a-vigil-after-the-possible-hounding-to-death-of-a-primary-school-teacher.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [Lord Leveson announces the findings of the Leveson Inquiry into the British media. ](/news/2012/11/29/lord-leveson-announces-the-findings-of-the-leveson-inquiry-into-the-british-media.md) _Context: British media_
 4. [Channel 4 news anchor Jon Snow tells the Leveson Inquiry that Associated Newspapers, which publishes the "Daily Mail" and "Mail on Sunday", is worse than News International's titles, that it has a "pernicious" and sometimes "mendacious" agenda to undermine people in public life, and predicts that "very possibly they will go after me for saying so". ](/news/2012/06/25/channel-4-news-anchor-jon-snow-tells-the-leveson-inquiry-that-associated-newspapers-which-publishes-the-daily-mail-and-mail-on-sunday.md) _Context: Daily Mail_
 5. [After a five-day trial in the High Court, 27-year-old assistant tutor Luke Cooper, who is completing a PhD in international relations at the University of Sussex, is awarded GBP35,000 over a front page "Evening Standard" article and GBP25,000 over a follow-up piece in the "Daily Mail". These articles threatened his future academic prospects during the November 2010 march against government cuts. ](/news/2012/06/23/after-a-five-day-trial-in-the-high-court-27-year-old-assistant-tutor-luke-cooper-who-is-completing-a-phd-in-international-relations-at-the.md) _Context: Daily Mail_
-
-### Changes:
-
-1. [Hundreds of people gather outside ''Daily Mail'' headquarters to hold a vigil after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. ](/news/2013/03/25/hundreds-of-people-gather-outside-daily-mail-headquarters-to-hold-a-vigil-after-the-possible-hounding-to-death-of-a-primary-school-teach.md) _2017-08-25 03:38:00 (First version)_
-1. [Hundreds of people gather outside "Daily Mail" headquarters to hold a vigil after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. ](/news/2013/03/25/hundreds-of-people-gather-outside-daily-mail-headquarters-to-hold-a-vigil-after-the-possible-hounding-to-death-of-a-primary-school-teacher.md) _(Current version)_

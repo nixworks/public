@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/23/a-7-3-magnitude-earthquake-offshore-from-the-us-northern-state-of-alaska-leads-to-a-tsunami-warning-being-issued-but-it-is-later-cancelled.html)  [JSON](/news/2011/06/23/a-7-3-magnitude-earthquake-offshore-from-the-us-northern-state-of-alaska-leads-to-a-tsunami-warning-being-issued-but-it-is-later-cancelled.json)  [XML](/news/2011/06/23/a-7-3-magnitude-earthquake-offshore-from-the-us-northern-state-of-alaska-leads-to-a-tsunami-warning-being-issued-but-it-is-later-cancelled.xml)  
+
 ### [2011-06-23](/news/2011/06/23/index.md)
 
+##### earthquake
 # A 7.3 magnitude earthquake offshore from the US northern state of Alaska leads to a tsunami warning being issued but it is later cancelled. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NOAA](http://wcatwc.arh.noaa.gov/2011/06/24/ln9y44/01/messageln9y44-01.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/31/the-russian-city-of-volgograd-passes-a-measure-to-refer-to-itself-by-its-previous-name-stalingrad-on-victory-day-and-five-key-dates-relati.html)  [JSON](/news/2013/01/31/the-russian-city-of-volgograd-passes-a-measure-to-refer-to-itself-by-its-previous-name-stalingrad-on-victory-day-and-five-key-dates-relati.json)  [XML](/news/2013/01/31/the-russian-city-of-volgograd-passes-a-measure-to-refer-to-itself-by-its-previous-name-stalingrad-on-victory-day-and-five-key-dates-relati.xml)  
+
 ### [2013-01-31](/news/2013/01/31/index.md)
 
+##### Russia
 # The Russian city of Volgograd passes a measure to refer to itself by its previous name, Stalingrad, on Victory Day and five key dates relating to the Battle of Stalingrad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.ria.ru/russia/20130131/179149273/Volgograd-to-Regain-Stalins-Name-For-Battle-Anniversary.html)
 

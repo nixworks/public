@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/16/italian-centre-left-leader-romano-prodi-is-given-the-mandate-to-form-a-new-government-by-president-giorgio-napolitano-prodi-is-supposed-to.html)  [JSON](/news/2006/05/16/italian-centre-left-leader-romano-prodi-is-given-the-mandate-to-form-a-new-government-by-president-giorgio-napolitano-prodi-is-supposed-to.json)  [XML](/news/2006/05/16/italian-centre-left-leader-romano-prodi-is-given-the-mandate-to-form-a-new-government-by-president-giorgio-napolitano-prodi-is-supposed-to.xml)  
+
 ### [2006-05-16](/news/2006/05/16/index.md)
 
+##### Romano Prodi
 #  Italian centre-left leader Romano Prodi is given the mandate to form a new government by President Giorgio Napolitano. Prodi is supposed to present his list of ministers on May 17. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4987942.stm)
 

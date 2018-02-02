@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/28/the-euromillions-lottery-website-is-hacked-its-homepage-is-replaced-by-a-quran-passage-which-condemns-gambling.html)  [JSON](/news/2012/10/28/the-euromillions-lottery-website-is-hacked-its-homepage-is-replaced-by-a-quran-passage-which-condemns-gambling.json)  [XML](/news/2012/10/28/the-euromillions-lottery-website-is-hacked-its-homepage-is-replaced-by-a-quran-passage-which-condemns-gambling.xml)  
+
 ### [2012-10-28](/news/2012/10/28/index.md)
 
+##### Euromillions
 # The Euromillions lottery website is hacked; its homepage is replaced by a Quran passage which condemns gambling. 
 
 The French site of the Euromillions lottery is hacked, with a passage from the Koran discouraging gambling posted on its homepage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20118960)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63766000/jpg/_63766295_63766294.jpg)

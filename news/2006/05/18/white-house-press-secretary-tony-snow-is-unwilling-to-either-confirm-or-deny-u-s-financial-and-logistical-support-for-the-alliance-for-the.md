@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/18/white-house-press-secretary-tony-snow-is-unwilling-to-either-confirm-or-deny-u-s-financial-and-logistical-support-for-the-alliance-for-the.html)  [JSON](/news/2006/05/18/white-house-press-secretary-tony-snow-is-unwilling-to-either-confirm-or-deny-u-s-financial-and-logistical-support-for-the-alliance-for-the.json)  [XML](/news/2006/05/18/white-house-press-secretary-tony-snow-is-unwilling-to-either-confirm-or-deny-u-s-financial-and-logistical-support-for-the-alliance-for-the.xml)  
+
 ### [2006-05-18](/news/2006/05/18/index.md)
 
+##### White House Press Secretary
 #  White House Press Secretary Tony Snow is unwilling to either confirm or deny U.S. financial and logistical support for the Alliance for the Restoration of Peace and Counter-Terrorism in Somalia. Previously, such accusations were denied. The current Prime Minister of Somalia, Ali Mohamed Gedi, criticized U.S. support for "criminals." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Philadelphia Inquirer](http://www.mercurynews.com/mld/inquirer/news/nation/14605266.htm?source=rss)
 

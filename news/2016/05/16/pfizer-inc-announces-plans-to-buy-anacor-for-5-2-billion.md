@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/16/pfizer-inc-announces-plans-to-buy-anacor-for-5-
 
 ### [2016-05-16](/news/2016/05/16/index.md)
 
+##### Pfizer Inc.
 # Pfizer Inc. announces plans to buy Anacor for $5.2 billion. 
 
 Pfizer Inc (PFE.N) is buying Anacor Pharmaceuticals Inc ANAC.O in a $5.2 billion deal to add an eczema gel to its portfolio, just a month after the U.S. drug major scrapped plans to acquire Allergan Plc (AGN.N).

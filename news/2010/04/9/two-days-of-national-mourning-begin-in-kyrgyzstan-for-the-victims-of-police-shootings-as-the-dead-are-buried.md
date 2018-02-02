@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/9/two-days-of-national-mourning-begin-in-kyrgyzstan-for-the-victims-of-police-shootings-as-the-dead-are-buried.html)  [JSON](/news/2010/04/9/two-days-of-national-mourning-begin-in-kyrgyzstan-for-the-victims-of-police-shootings-as-the-dead-are-buried.json)  [XML](/news/2010/04/9/two-days-of-national-mourning-begin-in-kyrgyzstan-for-the-victims-of-police-shootings-as-the-dead-are-buried.xml)  
+
 ### [2010-04-9](/news/2010/04/9/index.md)
 
+##### Kyrgyzstan
 # Two days of national mourning begin in Kyrgyzstan for the victims of police shootings as the dead are buried. 
 
 Kyrgyzstan&#039;s new leaders have frozen the national banking system, saying the country&#039;s ousted president emptied the state coffers before fleeing.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/04/09/2869084.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8610866.stm)

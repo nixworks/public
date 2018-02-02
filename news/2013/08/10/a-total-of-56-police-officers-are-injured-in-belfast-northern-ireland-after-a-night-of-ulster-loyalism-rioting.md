@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/10/a-total-of-56-police-officers-are-injured-in-belfast-northern-ireland-after-a-night-of-ulster-loyalism-rioting.html)  [JSON](/news/2013/08/10/a-total-of-56-police-officers-are-injured-in-belfast-northern-ireland-after-a-night-of-ulster-loyalism-rioting.json)  [XML](/news/2013/08/10/a-total-of-56-police-officers-are-injured-in-belfast-northern-ireland-after-a-night-of-ulster-loyalism-rioting.xml)  
+
 ### [2013-08-10](/news/2013/08/10/index.md)
 
+##### Belfast
 # A total of 56 police officers are injured in Belfast, Northern Ireland after a night of Ulster loyalism rioting. 
 
 More than 50 police officers are injured in what have been described as &quot;shameful attacks&quot; during loyalist protests against a republican parade in Belfast.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/uk-northern-ireland-23645607)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69216000/jpg/_69216324_trouble_flares_at_republican_parade_28.jpg)

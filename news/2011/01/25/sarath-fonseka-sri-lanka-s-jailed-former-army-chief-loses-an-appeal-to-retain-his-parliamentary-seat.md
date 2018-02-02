@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/25/sarath-fonseka-sri-lanka-s-jailed-former-army-chief-loses-an-appeal-to-retain-his-parliamentary-seat.html)  [JSON](/news/2011/01/25/sarath-fonseka-sri-lanka-s-jailed-former-army-chief-loses-an-appeal-to-retain-his-parliamentary-seat.json)  [XML](/news/2011/01/25/sarath-fonseka-sri-lanka-s-jailed-former-army-chief-loses-an-appeal-to-retain-his-parliamentary-seat.xml)  
+
 ### [2011-01-25](/news/2011/01/25/index.md)
 
+##### Sarath Fonseka
 # Sarath Fonseka, Sri Lanka's jailed former army chief, loses an appeal to retain his parliamentary seat. 
 
 A court martial is part of the legal system, and a conviction by it will attract disqualification like any other court, the Sri Lankan Supreme Court ruled on Tuesday, upholding the disqualification fr
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/201112542852405127.html)
 2. [The Hindu](http://www.thehindu.com/news/international/article1124527.ece)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/12/in-china-the-death-toll-of-the-xinjiang-mine-explosion-rises-to-65-eighteen-are-still-missing.html)  [JSON](/news/2005/07/12/in-china-the-death-toll-of-the-xinjiang-mine-explosion-rises-to-65-eighteen-are-still-missing.json)  [XML](/news/2005/07/12/in-china-the-death-toll-of-the-xinjiang-mine-explosion-rises-to-65-eighteen-are-still-missing.xml)  
+
 ### [2005-07-12](/news/2005/07/12/index.md)
 
+##### China
 #  In China, the death toll of the Xinjiang mine explosion rises to 65. Eighteen are still missing. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/english/doc/2005-07/12/content_459285.htm)
 2. [People's Daily](http://english.people.com.cn/200507/12/eng20050712_195606.html)

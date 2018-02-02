@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/11/25/bhp-billiton-the-world-s-largest-mining-company-withdraws-a-66-billion-bid-for-the-rio-tinto-group-due-to-the-global-financial-crisis.html)  [JSON](/news/2008/11/25/bhp-billiton-the-world-s-largest-mining-company-withdraws-a-66-billion-bid-for-the-rio-tinto-group-due-to-the-global-financial-crisis.json)  [XML](/news/2008/11/25/bhp-billiton-the-world-s-largest-mining-company-withdraws-a-66-billion-bid-for-the-rio-tinto-group-due-to-the-global-financial-crisis.xml)  
+
 ### [2008-11-25](/news/2008/11/25/index.md)
 
+##### BHP Billiton
 #  BHP Billiton, the world's largest mining company, withdraws a $66 billion bid for the Rio Tinto Group due to the global financial crisis. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=acb0npgKQrEw&refer=home)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=acb0npgKQrEw&refer=home)
 
 ### Related:
 

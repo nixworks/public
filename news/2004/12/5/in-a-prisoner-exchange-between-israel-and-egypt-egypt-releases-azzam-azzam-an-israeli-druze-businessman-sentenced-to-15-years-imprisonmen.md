@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/5/in-a-prisoner-exchange-between-israel-and-egypt-egypt-releases-azzam-azzam-an-israeli-druze-businessman-sentenced-to-15-years-imprisonmen.html)  [JSON](/news/2004/12/5/in-a-prisoner-exchange-between-israel-and-egypt-egypt-releases-azzam-azzam-an-israeli-druze-businessman-sentenced-to-15-years-imprisonmen.json)  [XML](/news/2004/12/5/in-a-prisoner-exchange-between-israel-and-egypt-egypt-releases-azzam-azzam-an-israeli-druze-businessman-sentenced-to-15-years-imprisonmen.xml)  
+
 ### [2004-12-5](/news/2004/12/5/index.md)
 
+##### prisoner exchange
 #  In a prisoner exchange between Israel and Egypt, Egypt releases Azzam Azzam, an Israeli Druze businessman sentenced to 15 years imprisonment by Egypt in 1997 on charges of spying for Israel, while Israel releases six Egyptian students who allegedly infiltrated Israel to kidnap soldiers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4069795.stm)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/510244.html)

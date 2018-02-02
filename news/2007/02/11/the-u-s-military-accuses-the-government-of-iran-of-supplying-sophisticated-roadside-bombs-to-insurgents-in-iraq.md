@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2007/02/11/the-u-s-military-accuses-the-government-of-iran-of-supplying-sophisticated-roadside-bombs-to-insurgents-in-iraq.html)  [JSON](/news/2007/02/11/the-u-s-military-accuses-the-government-of-iran-of-supplying-sophisticated-roadside-bombs-to-insurgents-in-iraq.json)  [XML](/news/2007/02/11/the-u-s-military-accuses-the-government-of-iran-of-supplying-sophisticated-roadside-bombs-to-insurgents-in-iraq.xml)  
+
 ### [2007-02-11](/news/2007/02/11/index.md)
 
+##### Military of the United States
 #  The U. S. military accuses the government of Iran of supplying sophisticated roadside bombs to insurgents in Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/3AED8954-D69D-4AAB-9343-00513D7518BD.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6351257.stm)
 3. [CNN](http://edition.cnn.com/2007/WORLD/meast/02/11/iran.nuclear/index.html?eref=rss_world)
+
+### Changes:
+
+1. [ Iran: The U. S. military accuses the government of Iran of supplying sophisticated roadside bombs to insurgents in Iraq. ](/news/2007/02/11/iran-p-the-u-s-military-accuses-the-government-of-iran-of-supplying-sophisticated-roadside-bombs-to-insurgents-in-iraq.md) _2017-08-25 03:19:09 (First version)_
+2. [ Iran:: The U. S. military accuses the government of Iran of supplying sophisticated roadside bombs to insurgents in Iraq. ](/news/2007/02/11/iran-the-u-s-military-accuses-the-government-of-iran-of-supplying-sophisticated-roadside-bombs-to-insurgents-in-iraq.md) _2017-08-27 03:19:05 (Update)_
+2. [ The U. S. military accuses the government of Iran of supplying sophisticated roadside bombs to insurgents in Iraq. ](/news/2007/02/11/the-u-s-military-accuses-the-government-of-iran-of-supplying-sophisticated-roadside-bombs-to-insurgents-in-iraq.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@
 3. [ Conflict in Iraq: 39 people have died, including at least two U.S. soldiers, following a series of insurgent attacks throughout Iraq. ](/news/2005/08/7/conflict-in-iraq-39-people-have-died-including-at-least-two-u-s-soldiers-following-a-series-of-insurgent-attacks-throughout-iraq.md) _Context: Iraq, Iraqi insurgency, Military of the United States_
 4. [Iraq War: The United States has lost a total of 15 troops in Iraq this month, making it the deadliest month for U.S. forces in Iraq since June 2009, when 14 soldiers were killed fighting the Iraqi insurgency. ](/news/2011/06/30/iraq-war-the-united-states-has-lost-a-total-of-15-troops-in-iraq-this-month-making-it-the-deadliest-month-for-u-s-forces-in-iraq-since-ju.md) _Context: Iraq, Iraqi insurgency_
 5. [Iraqi insurgents kill 102 and injure over 200 people, mostly Iraqi civilians, in a series of suicide bombings from Mosul to Basra in Iraq, the highest number in one day this year, and jeopardizing a planned US withdrawal. ](/news/2010/05/10/iraqi-insurgents-kill-102-and-injure-over-200-people-mostly-iraqi-civilians-in-a-series-of-suicide-bombings-from-mosul-to-basra-in-iraq-t.md) _Context: Iraq, Iraqi insurgency_
-
-### Changes:
-
-1. [ Iran: The U. S. military accuses the government of Iran of supplying sophisticated roadside bombs to insurgents in Iraq. ](/news/2007/02/11/iran-p-the-u-s-military-accuses-the-government-of-iran-of-supplying-sophisticated-roadside-bombs-to-insurgents-in-iraq.md) _2017-08-25 03:19:09 (First version)_
-2. [ Iran:: The U. S. military accuses the government of Iran of supplying sophisticated roadside bombs to insurgents in Iraq. ](/news/2007/02/11/iran-the-u-s-military-accuses-the-government-of-iran-of-supplying-sophisticated-roadside-bombs-to-insurgents-in-iraq.md) _2017-08-27 03:19:05 (Update)_
-2. [ The U. S. military accuses the government of Iran of supplying sophisticated roadside bombs to insurgents in Iraq. ](/news/2007/02/11/the-u-s-military-accuses-the-government-of-iran-of-supplying-sophisticated-roadside-bombs-to-insurgents-in-iraq.md) _(Current version)_

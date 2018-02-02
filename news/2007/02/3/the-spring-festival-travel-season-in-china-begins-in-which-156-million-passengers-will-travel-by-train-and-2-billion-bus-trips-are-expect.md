@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/3/the-spring-festival-travel-season-in-china-begins-in-which-156-million-passengers-will-travel-by-train-and-2-billion-bus-trips-are-expect.html)  [JSON](/news/2007/02/3/the-spring-festival-travel-season-in-china-begins-in-which-156-million-passengers-will-travel-by-train-and-2-billion-bus-trips-are-expect.json)  [XML](/news/2007/02/3/the-spring-festival-travel-season-in-china-begins-in-which-156-million-passengers-will-travel-by-train-and-2-billion-bus-trips-are-expect.xml)  
+
 ### [2007-02-3](/news/2007/02/3/index.md)
 
+##### stranded in train stations
 #  The Spring Festival travel season in China begins, in which 156 million passengers will travel by train, and 2 billion bus trips are expected. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [People's Daily](http://english.people.com.cn/200702/05/eng20070205_347644.html)
 2. [Xinhua](http://news.xinhuanet.com/english/2007-02/03/content_5690247.htm)

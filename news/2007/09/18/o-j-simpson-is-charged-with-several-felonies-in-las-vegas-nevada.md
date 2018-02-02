@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2007/09/18/o-j-simpson-is-charged-with-several-felonies-in-las-vegas-nevada.html)  [JSON](/news/2007/09/18/o-j-simpson-is-charged-with-several-felonies-in-las-vegas-nevada.json)  [XML](/news/2007/09/18/o-j-simpson-is-charged-with-several-felonies-in-las-vegas-nevada.xml)  
+
 ### [2007-09-18](/news/2007/09/18/index.md)
 
+##### O.J. Simpson
 #  O.J. Simpson is charged with several felonies in Las Vegas, Nevada. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/newsOne/idUSN1421498820070919)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070919&t=2&i=1789364&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-19T214503Z_01_N14214988_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/newsOne/idUSN1421498820070919)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20070919&t=2&i=1789364&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-19T214503Z_01_N14214988_RTRUKOP_0_PICTURE0)
 
 ### Related:
 
-1. [ O.J. Simpson is charged with six felonies in relation to an alleged armed robbery of sports memorabilia from a Las Vegas hotel room. ](/news/2007/09/16/o-j-simpson-is-charged-with-six-felonies-in-relation-to-an-alleged-armed-robbery-of-sports-memorabilia-from-a-las-vegas-hotel-room.md) _Context: Las Vegas, Nevada, O. J. Simpson, felons_
-2. [Nevada prison authorities release former NFL player O. J. Simpson on parole after serving nine years for a 2007 Las Vegas armed robbery. Previously, a jury had acquitted Simpson of the 1995 murder of his ex-wife Nicole Brown Simpson and her friend Ron Goldman. ](/news/2017/10/1/nevada-prison-authorities-release-former-nfl-player-o-j-simpson-on-parole-after-serving-nine-years-for-a-2007-las-vegas-armed-robbery-pre.md) _Context: O. J. Simpson_
-3. [A gunman opens fire in Las Vegas, Nevada, at the Mandalay Bay Resort and Casino from the upper floors down upon a Jason Aldean outdoor concert, with at least 59 people dead and 527 others injured. Authorities believe the lone gunman is dead. ](/news/2017/10/1/a-gunman-opens-fire-in-las-vegas-nevada-at-the-mandalay-bay-resort-and-casino-from-the-upper-floors-down-upon-a-jason-aldean-outdoor-conce.md) _Context: Las Vegas, Nevada_
-4. [O. J. Simpson is granted parole by the Nevada Board of Parole Commissioners after spending nearly nine years in prison. ](/news/2017/07/20/o-j-simpson-is-granted-parole-by-the-nevada-board-of-parole-commissioners-after-spending-nearly-nine-years-in-prison.md) _Context: O. J. Simpson_
-5. [In the United States, Virginia Governor Terry McAuliffe signs an executive order restoring the rights of an estimated 200,000 convicted felons to vote and run for office. ](/news/2016/04/22/in-the-united-states-virginia-governor-terry-mcauliffe-signs-an-executive-order-restoring-the-rights-of-an-estimated-200-000-convicted-felo.md) _Context: felons_
+1. [ O.J. Simpson is charged with six felonies in relation to an alleged armed robbery of sports memorabilia from a Las Vegas hotel room. ](/news/2007/09/16/o-j-simpson-is-charged-with-six-felonies-in-relation-to-an-alleged-armed-robbery-of-sports-memorabilia-from-a-las-vegas-hotel-room.md) _Context: Las Vegas, Nevada, O.J. Simpson, felony_
+2. [British Airways Flight 2276, a Boeing 777 aircraft, suffers an uncontained engine failure and fire on take-off from McCarran International Airport, Las Vegas, Nevada, United States. Fourteen of the 172 on board are injured and taken to a nearby hospital. ](/news/2015/09/8/british-airways-flight-2276-a-boeing-777-aircraft-suffers-an-uncontained-engine-failure-and-fire-on-take-off-from-mccarran-international-a.md) _Context: Las Vegas, Nevada_
+3. [ Joyce Mitchell, who had smuggled hacksaw blades inside frozen meat to Richard Matt and David Sweat in prison, before withdrawing as their getaway driver, pleads guilty to a first-degree felony of promoting prison contraband and to a misdemeanor count of fourth-degree criminal facilitation. She faces up to 7 years in prison when sentenced. ](/news/2015/07/28/joyce-mitchell-who-had-smuggled-hacksaw-blades-inside-frozen-meat-to-richard-matt-and-david-sweat-in-prison-before-withdrawing-as-their-g.md) _Context: felony_
+4. [Texas Governor Rick Perry is indicted on felony charges for abuse of power. He is accused of coercing a District Attorney who had been convicted of drunk driving to resign by threatening to veto funding for state public corruption prosecutors. ](/news/2014/08/15/texas-governor-rick-perry-is-indicted-on-felony-charges-for-abuse-of-power-he-is-accused-of-coercing-a-district-attorney-who-had-been-convi.md) _Context: felony_
+5. [Three people, including two police officers, are shot dead by a couple in a shooting in a pizzeria in the US city of Las Vegas, Nevada. The woman (Amanda Miller) kills her husband (Jerad Miller) and then herself. ](/news/2014/06/8/three-people-including-two-police-officers-are-shot-dead-by-a-couple-in-a-shooting-in-a-pizzeria-in-the-us-city-of-las-vegas-nevada-the.md) _Context: Las Vegas, Nevada_

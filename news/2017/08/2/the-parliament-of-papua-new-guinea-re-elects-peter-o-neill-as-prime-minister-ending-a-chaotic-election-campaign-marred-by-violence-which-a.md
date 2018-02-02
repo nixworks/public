@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/2/the-parliament-of-papua-new-guinea-re-elects-pet
 
 ### [2017-08-2](/news/2017/08/2/index.md)
 
+##### Papua New Guinean general election, 2017
 # The parliament of Papua New Guinea re-elects Peter O'Neill as Prime Minister, ending a chaotic election campaign marred by violence, which analysts fear may continue amid widespread voter unrest. 
 
 

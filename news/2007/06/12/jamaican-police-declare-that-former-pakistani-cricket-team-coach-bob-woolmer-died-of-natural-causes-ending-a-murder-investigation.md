@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/12/jamaican-police-declare-that-former-pakistani-cricket-team-coach-bob-woolmer-died-of-natural-causes-ending-a-murder-investigation.html)  [JSON](/news/2007/06/12/jamaican-police-declare-that-former-pakistani-cricket-team-coach-bob-woolmer-died-of-natural-causes-ending-a-murder-investigation.json)  [XML](/news/2007/06/12/jamaican-police-declare-that-former-pakistani-cricket-team-coach-bob-woolmer-died-of-natural-causes-ending-a-murder-investigation.xml)  
+
 ### [2007-06-12](/news/2007/06/12/index.md)
 
+##### Jamaica
 #  Jamaican police declare that former Pakistani cricket team coach Bob Woolmer died of natural causes, ending a murder investigation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Jamaica](http://www.radiojamaica.com/news/story.php?story=36768&category=2)
 

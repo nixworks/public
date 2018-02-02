@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/3/four-sisters-are-burned-by-motorcyclists-throwing-acid-in-india-s-uttar-pradesh-province.html)  [JSON](/news/2013/04/3/four-sisters-are-burned-by-motorcyclists-throwing-acid-in-india-s-uttar-pradesh-province.json)  [XML](/news/2013/04/3/four-sisters-are-burned-by-motorcyclists-throwing-acid-in-india-s-uttar-pradesh-province.xml)  
+
 ### [2013-04-3](/news/2013/04/3/index.md)
 
+##### motorcyclist
 # Four sisters are burned by motorcyclists throwing acid in India's Uttar Pradesh province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press Trust of India](http://www.ptinews.com/news/3520239_Acid-thrown-on-4-sisters-in-UP)
 

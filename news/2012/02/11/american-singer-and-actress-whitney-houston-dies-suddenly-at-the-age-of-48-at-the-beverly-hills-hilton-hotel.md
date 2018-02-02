@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/11/american-singer-and-actress-whitney-houston-dies-suddenly-at-the-age-of-48-at-the-beverly-hills-hilton-hotel.html)  [JSON](/news/2012/02/11/american-singer-and-actress-whitney-houston-dies-suddenly-at-the-age-of-48-at-the-beverly-hills-hilton-hotel.json)  [XML](/news/2012/02/11/american-singer-and-actress-whitney-houston-dies-suddenly-at-the-age-of-48-at-the-beverly-hills-hilton-hotel.xml)  
+
 ### [2012-02-11](/news/2012/02/11/index.md)
 
+##### Whitney Houston
 # American singer and actress Whitney Houston dies suddenly at the age of 48 at the Beverly Hills Hilton Hotel. 
 
 Singer and actress Whitney Houston, one of the most celebrated acts of all time, is found dead in Los Angeles at the age of 48.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Herald-Sun](http://www.heraldsun.com.au/news/more-news/whitney-houston-superstar-of-records-films-dies-age-48/story-fn7x8me2-1226268869683)
 2. [BBC](http://www.bbc.co.uk/news/world-17001548)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/11/former-u-s-track-and-field-athlete-marion-jones-is-sentenced-to-6-months-in-prison-for-lying-about-performance-enhancing-drug-usage-and-he.html)  [JSON](/news/2008/01/11/former-u-s-track-and-field-athlete-marion-jones-is-sentenced-to-6-months-in-prison-for-lying-about-performance-enhancing-drug-usage-and-he.json)  [XML](/news/2008/01/11/former-u-s-track-and-field-athlete-marion-jones-is-sentenced-to-6-months-in-prison-for-lying-about-performance-enhancing-drug-usage-and-he.xml)  
+
 ### [2008-01-11](/news/2008/01/11/index.md)
 
+##### U.S.
 #  Former U.S. track and field athlete Marion Jones is sentenced to 6 months in prison for lying about performance enhancing drug usage and her role in a check fraud scheme. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/SPORT/01/11/athletics.jonesm/index.html)
 

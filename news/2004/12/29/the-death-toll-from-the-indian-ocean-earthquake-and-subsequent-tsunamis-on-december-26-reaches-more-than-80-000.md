@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2004/12/29/the-death-toll-from-the-indian-ocean-earthquake-and-subsequent-tsunamis-on-december-26-reaches-more-than-80-000.html)  [JSON](/news/2004/12/29/the-death-toll-from-the-indian-ocean-earthquake-and-subsequent-tsunamis-on-december-26-reaches-more-than-80-000.json)  [XML](/news/2004/12/29/the-death-toll-from-the-indian-ocean-earthquake-and-subsequent-tsunamis-on-december-26-reaches-more-than-80-000.xml)  
+
 ### [2004-12-29](/news/2004/12/29/index.md)
 
+##### death toll
 #  The death toll from the Indian Ocean earthquake and subsequent tsunamis on December 26 reaches more than 80,000. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4133005.stm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4132725.stm)
-3. [washingtonpost.com](http://www.washingtonpost.com/wp-srv/world/daily/graphics/tsunami_122804.html)
+3. [washingtonpost.com](https://www.washingtonpost.com/wp-srv/world/daily/graphics/tsunami_122804.html)
 
 ### Related:
 

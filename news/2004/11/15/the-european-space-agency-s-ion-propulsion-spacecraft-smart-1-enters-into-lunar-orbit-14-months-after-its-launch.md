@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/15/the-european-space-agency-s-ion-propulsion-spacecraft-smart-1-enters-into-lunar-orbit-14-months-after-its-launch.html)  [JSON](/news/2004/11/15/the-european-space-agency-s-ion-propulsion-spacecraft-smart-1-enters-into-lunar-orbit-14-months-after-its-launch.json)  [XML](/news/2004/11/15/the-european-space-agency-s-ion-propulsion-spacecraft-smart-1-enters-into-lunar-orbit-14-months-after-its-launch.xml)  
+
 ### [2004-11-15](/news/2004/11/15/index.md)
 
+##### European Space Agency
 #  The European Space Agency's ion propulsion spacecraft SMART-1 enters into lunar orbit, 14 months after its launch. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Space.com](http://www.space.com/missionlaunches/smart1_lunarorbit_041112.html)
 2. [SpaceDaily.com](http://www.spacedaily.com/2004/041114031722.iu2d7dbs.html)

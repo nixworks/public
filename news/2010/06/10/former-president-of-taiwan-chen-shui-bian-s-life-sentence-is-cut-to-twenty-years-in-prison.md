@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/10/former-president-of-taiwan-chen-shui-bian-s-life-sentence-is-cut-to-twenty-years-in-prison.html)  [JSON](/news/2010/06/10/former-president-of-taiwan-chen-shui-bian-s-life-sentence-is-cut-to-twenty-years-in-prison.json)  [XML](/news/2010/06/10/former-president-of-taiwan-chen-shui-bian-s-life-sentence-is-cut-to-twenty-years-in-prison.xml)  
+
 ### [2010-06-10](/news/2010/06/10/index.md)
 
+##### President
 # Former president of Taiwan Chen Shui-bian's life sentence is cut to twenty years in prison. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/7047427.html)
 

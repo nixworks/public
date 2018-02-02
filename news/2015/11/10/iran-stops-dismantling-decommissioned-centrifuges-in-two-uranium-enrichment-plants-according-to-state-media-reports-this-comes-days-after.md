@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/11/10/iran-stops-dismantling-decommissioned-centrifuges-in-two-uranium-enrichment-plants-according-to-state-media-reports-this-comes-days-after.html)  [JSON](/news/2015/11/10/iran-stops-dismantling-decommissioned-centrifuges-in-two-uranium-enrichment-plants-according-to-state-media-reports-this-comes-days-after.json)  [XML](/news/2015/11/10/iran-stops-dismantling-decommissioned-centrifuges-in-two-uranium-enrichment-plants-according-to-state-media-reports-this-comes-days-after.xml)  
+
 ### [2015-11-10](/news/2015/11/10/index.md)
 
+##### Iran, P5+1 & European Union Joint Comprehensive Plan of Action
 # Iran stops dismantling decommissioned centrifuges in two uranium enrichment plants, according to state media reports. This comes days after Iran's conservative lawmakers complained to President Hassan Rouhani that the process was too rushed. 
 
 Iran has stopped dismantling centrifuges in two uranium enrichment plants, state media reported on Tuesday, days after conservative lawmakers complained to President Hassan Rouhani that the process was too rushed.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/10/us-iran-nuclear-deal-idUSKCN0SZ1Z720151110#yo8KAoW02OuryRs1.97)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151110&t=2&i=1093790839&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA90S8)
+1. [Reuters](https://www.reuters.com/article/2015/11/10/us-iran-nuclear-deal-idUSKCN0SZ1Z720151110#yo8KAoW02OuryRs1.97)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20151110&t=2&i=1093790839&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA90S8)
 
 ### Related:
 

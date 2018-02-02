@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/20/a-morning-peak-tranz-metro-commuter-train-derails-near-central-wellington-new-zealand-after-part-of-the-undercarriage-comes-loose-and-punc.html)  [JSON](/news/2013/05/20/a-morning-peak-tranz-metro-commuter-train-derails-near-central-wellington-new-zealand-after-part-of-the-undercarriage-comes-loose-and-punc.json)  [XML](/news/2013/05/20/a-morning-peak-tranz-metro-commuter-train-derails-near-central-wellington-new-zealand-after-part-of-the-undercarriage-comes-loose-and-punc.xml)  
+
 ### [2013-05-20](/news/2013/05/20/index.md)
 
+##### Tranz Metro
 # A morning peak Tranz Metro commuter train derails near central Wellington, New Zealand, after part of the undercarriage comes loose and punctures the carriage floor, injuring four people and delaying tens of thousands of commuters as services are cancelled. 
 
 Rail services in Wellington have returned to normal after delays caused by a train derailment.
 
 
-### Source:
+### Sources:
 
 1. [Fairfax NZ](http://www.stuff.co.nz/national/8693203/Wellington-trains-stopped-after-derailment)
 1. [Cover Image](https://static2.stuff.co.nz/1382564252/169/8695169.jpg)

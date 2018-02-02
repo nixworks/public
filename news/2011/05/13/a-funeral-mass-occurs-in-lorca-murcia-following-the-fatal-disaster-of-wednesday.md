@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/13/a-funeral-mass-occurs-in-lorca-murcia-following-the-fatal-disaster-of-wednesday.html)  [JSON](/news/2011/05/13/a-funeral-mass-occurs-in-lorca-murcia-following-the-fatal-disaster-of-wednesday.json)  [XML](/news/2011/05/13/a-funeral-mass-occurs-in-lorca-murcia-following-the-fatal-disaster-of-wednesday.xml)  
+
 ### [2011-05-13](/news/2011/05/13/index.md)
 
+##### Mass
 # A funeral Mass occurs in Lorca, Murcia, following the fatal disaster of Wednesday. 
 
 The Spanish PM and members of the royal family attend a funeral Mass for victims of the earthquakes that struck the town of Lorca.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13385997)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52700000/jpg/_52700137_52700136.jpg)

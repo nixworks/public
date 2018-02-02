@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/01/25/in-the-republic-of-china-taiwan-president-chen-shui-bian-names-fellow-democratic-progressive-party-member-frank-hsieh-as-the-new-premier.html)  [JSON](/news/2005/01/25/in-the-republic-of-china-taiwan-president-chen-shui-bian-names-fellow-democratic-progressive-party-member-frank-hsieh-as-the-new-premier.json)  [XML](/news/2005/01/25/in-the-republic-of-china-taiwan-president-chen-shui-bian-names-fellow-democratic-progressive-party-member-frank-hsieh-as-the-new-premier.xml)  
+
 ### [2005-01-25](/news/2005/01/25/index.md)
 
+##### Taiwan
 #  In the Republic of China-Taiwan, President Chen Shui-bian names fellow Democratic Progressive Party member Frank Hsieh, as the new premier. He calls for a reconciliation with the political opposition, which maintained its legislative majority in last month's elections. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=ajkHZsOylViM&refer=top_world_news)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000087&sid=ajkHZsOylViM&refer=top_world_news)
 2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/128998/1/.html)
 
 ### Related:

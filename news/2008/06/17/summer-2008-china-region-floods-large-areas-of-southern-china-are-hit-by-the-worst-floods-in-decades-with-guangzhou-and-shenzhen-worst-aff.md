@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/17/summer-2008-china-region-floods-large-areas-of-southern-china-are-hit-by-the-worst-floods-in-decades-with-guangzhou-and-shenzhen-worst-aff.html)  [JSON](/news/2008/06/17/summer-2008-china-region-floods-large-areas-of-southern-china-are-hit-by-the-worst-floods-in-decades-with-guangzhou-and-shenzhen-worst-aff.json)  [XML](/news/2008/06/17/summer-2008-china-region-floods-large-areas-of-southern-china-are-hit-by-the-worst-floods-in-decades-with-guangzhou-and-shenzhen-worst-aff.xml)  
+
 ### [2008-06-17](/news/2008/06/17/index.md)
 
+##### Summer 2008 China region floods
 #  Summer 2008 China region floods: Large areas of southern China are hit by the worst floods in decades with Guangzhou and Shenzhen worst affected. So far, 63 people have died and 1.66 million have been evacuated. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5gd0ac134jwO38OJ0QNYTPCf07yyA)
 

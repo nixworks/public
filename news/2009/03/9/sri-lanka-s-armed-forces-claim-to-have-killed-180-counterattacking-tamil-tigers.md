@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/03/9/sri-lanka-s-armed-forces-claim-to-have-killed-180-counterattacking-tamil-tigers.html)  [JSON](/news/2009/03/9/sri-lanka-s-armed-forces-claim-to-have-killed-180-counterattacking-tamil-tigers.json)  [XML](/news/2009/03/9/sri-lanka-s-armed-forces-claim-to-have-killed-180-counterattacking-tamil-tigers.xml)  
+
 ### [2009-03-9](/news/2009/03/9/index.md)
 
+##### Sri Lanka
 #  Sri Lanka's Armed Forces claim to have killed 180 counterattacking Tamil Tigers. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/homepageCrisis/idUSSP484979._CH_.2400)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/homepageCrisis/idUSSP484979._CH_.2400)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

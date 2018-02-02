@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/26/the-svalbard-global-seed-vault-receives-90-000-food-crop-seed-samples.html)  [JSON](/news/2009/02/26/the-svalbard-global-seed-vault-receives-90-000-food-crop-seed-samples.json)  [XML](/news/2009/02/26/the-svalbard-global-seed-vault-receives-90-000-food-crop-seed-samples.xml)  
+
 ### [2009-02-26](/news/2009/02/26/index.md)
 
+##### Svalbard Global Seed Vault
 #  The Svalbard Global Seed Vault receives 90,000 food crop seed samples. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/7912543.stm)
 

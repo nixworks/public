@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/15/at-least-eight-homes-are-destroyed-as-a-wildfir
 
 ### [2017-02-15](/news/2017/02/15/index.md)
 
+##### a wildfire
 # At least eight homes are destroyed as a wildfire rages out of control in the Port Hills, in the southern outskirts of Christchurch, New Zealand. A pilot died when his helicopter crashed while fighting the fire. 
 
 Paul Askin has spent many years fearing terrible news about his son Steve. - New Zealand Herald

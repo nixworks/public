@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/25/pakistani-forces-report-the-killing-of-the-mastermind-behind-the-peshawar-school-massacre-during-a-gun-battle-in-the-khyber-agency-tribal.html)  [JSON](/news/2014/12/25/pakistani-forces-report-the-killing-of-the-mastermind-behind-the-peshawar-school-massacre-during-a-gun-battle-in-the-khyber-agency-tribal.json)  [XML](/news/2014/12/25/pakistani-forces-report-the-killing-of-the-mastermind-behind-the-peshawar-school-massacre-during-a-gun-battle-in-the-khyber-agency-tribal.xml)  
+
 ### [2014-12-25](/news/2014/12/25/index.md)
 
+##### Pakistani forces
 # Pakistani forces report the killing of the "mastermind" behind the Peshawar school massacre during a gun battle in the Khyber Agency tribal area. 
 
 Pakistan says it has killed the alleged mastermind of a school attack in Peshawar that claimed the lives of 132 children
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/pakistan/11313678/Mastermind-of-Peshawar-school-attack-killed.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/03139/pakistan-peshawar-_3139330k.jpg)

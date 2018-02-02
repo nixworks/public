@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/2/ennama-asfari-the-co-president-of-a-committee-for-the-respect-of-freedoms-in-western-sahara-is-jailed-for-four-months-for-insulting-a-pol.html)  [JSON](/news/2009/09/2/ennama-asfari-the-co-president-of-a-committee-for-the-respect-of-freedoms-in-western-sahara-is-jailed-for-four-months-for-insulting-a-pol.json)  [XML](/news/2009/09/2/ennama-asfari-the-co-president-of-a-committee-for-the-respect-of-freedoms-in-western-sahara-is-jailed-for-four-months-for-insulting-a-pol.xml)  
+
 ### [2009-09-2](/news/2009/09/2/index.md)
 
+##### Ennama Asfari
 #  Ennama Asfari, the co-president of a Committee for the Respect of Freedoms in Western Sahara, is jailed for four months for insulting a policeman. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090902085659311C971504)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/11/15/over-1-million-people-in-300-cities-protest-the-passing-of-california-s-proposition-8.html)  [JSON](/news/2008/11/15/over-1-million-people-in-300-cities-protest-the-passing-of-california-s-proposition-8.json)  [XML](/news/2008/11/15/over-1-million-people-in-300-cities-protest-the-passing-of-california-s-proposition-8.xml)  
+
 ### [2008-11-15](/news/2008/11/15/index.md)
 
+##### reversed its legalization
 #  Over 1 million people in 300 cities protest the passing of California's Proposition 8. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USAToday](http://www.usatoday.com/news/topstories/2008-11-15-668737864_x.htm)
+1. [USAToday](https://www.usatoday.com/news/topstories/2008-11-15-668737864_x.htm)
 
 ### Related:
 

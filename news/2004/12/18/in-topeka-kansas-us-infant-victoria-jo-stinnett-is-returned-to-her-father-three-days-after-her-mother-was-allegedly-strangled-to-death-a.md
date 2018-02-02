@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/18/in-topeka-kansas-us-infant-victoria-jo-stinnett-is-returned-to-her-father-three-days-after-her-mother-was-allegedly-strangled-to-death-a.html)  [JSON](/news/2004/12/18/in-topeka-kansas-us-infant-victoria-jo-stinnett-is-returned-to-her-father-three-days-after-her-mother-was-allegedly-strangled-to-death-a.json)  [XML](/news/2004/12/18/in-topeka-kansas-us-infant-victoria-jo-stinnett-is-returned-to-her-father-three-days-after-her-mother-was-allegedly-strangled-to-death-a.xml)  
+
 ### [2004-12-18](/news/2004/12/18/index.md)
 
+##### Topeka
 #  In Topeka, Kansas, US, infant Victoria Jo Stinnett is returned to her father three days after her mother was allegedly strangled to death and she was cut from her mother's uterus and abducted. The AMBER Alert system is credited with helping to safely recover the child. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/LAW/12/18/missouri.fetus/)
 

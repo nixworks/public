@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/10/roger-federer-wins-the-u-s-open-defeating-andy-roddick-6-2-4-6-7-5-6-1.html)  [JSON](/news/2006/09/10/roger-federer-wins-the-u-s-open-defeating-andy-roddick-6-2-4-6-7-5-6-1.json)  [XML](/news/2006/09/10/roger-federer-wins-the-u-s-open-defeating-andy-roddick-6-2-4-6-7-5-6-1.xml)  
+
 ### [2006-09-10](/news/2006/09/10/index.md)
 
+##### Roger Federer
 #  Roger Federer wins the U.S. Open defeating Andy Roddick 6-2, 4-6, 7-5, 6-1. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox Sports](http://msn.foxsports.com/tennis/story/5954124?CMP=OTC-K9B140813162&ATT=199)
 

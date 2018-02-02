@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/9/pakistani-president-pervez-musharraf-suspends-chief-justice-iftikhar-muhammad-chaudhry-on-charges-of-misuse-of-authority.html)  [JSON](/news/2007/03/9/pakistani-president-pervez-musharraf-suspends-chief-justice-iftikhar-muhammad-chaudhry-on-charges-of-misuse-of-authority.json)  [XML](/news/2007/03/9/pakistani-president-pervez-musharraf-suspends-chief-justice-iftikhar-muhammad-chaudhry-on-charges-of-misuse-of-authority.xml)  
+
 ### [2007-03-9](/news/2007/03/9/index.md)
 
+##### Pakistan
 #  Pakistani President Pervez Musharraf suspends Chief Justice Iftikhar Muhammad Chaudhry on charges of misuse of authority. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IBN](http://www.ibnlive.com/news/musharraf-sacks-pak-chief-justice/35635-2.html)
 

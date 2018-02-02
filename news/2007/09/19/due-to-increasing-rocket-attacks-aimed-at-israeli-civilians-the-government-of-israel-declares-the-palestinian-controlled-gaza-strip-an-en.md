@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/19/due-to-increasing-rocket-attacks-aimed-at-israeli-civilians-the-government-of-israel-declares-the-palestinian-controlled-gaza-strip-an-en.html)  [JSON](/news/2007/09/19/due-to-increasing-rocket-attacks-aimed-at-israeli-civilians-the-government-of-israel-declares-the-palestinian-controlled-gaza-strip-an-en.json)  [XML](/news/2007/09/19/due-to-increasing-rocket-attacks-aimed-at-israeli-civilians-the-government-of-israel-declares-the-palestinian-controlled-gaza-strip-an-en.xml)  
+
 ### [2007-09-19](/news/2007/09/19/index.md)
 
+##### government
 #  Due to increasing rocket attacks aimed at Israeli civilians, The Government of Israel declares the Palestinian-controlled Gaza Strip an "enemy entity", and announces plans to cut utilities to the territory. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian Unlimited](http://www.guardian.co.uk/worldlatest/story/0,,-6934079,00.html)
 

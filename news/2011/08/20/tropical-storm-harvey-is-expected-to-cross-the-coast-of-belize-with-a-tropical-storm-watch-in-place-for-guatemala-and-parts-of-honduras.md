@@ -1,16 +1,26 @@
+
+Formats: [HTML](/news/2011/08/20/tropical-storm-harvey-is-expected-to-cross-the-coast-of-belize-with-a-tropical-storm-watch-in-place-for-guatemala-and-parts-of-honduras.html)  [JSON](/news/2011/08/20/tropical-storm-harvey-is-expected-to-cross-the-coast-of-belize-with-a-tropical-storm-watch-in-place-for-guatemala-and-parts-of-honduras.json)  [XML](/news/2011/08/20/tropical-storm-harvey-is-expected-to-cross-the-coast-of-belize-with-a-tropical-storm-watch-in-place-for-guatemala-and-parts-of-honduras.xml)  
+
 ### [2011-08-20](/news/2011/08/20/index.md)
 
+##### Tropical Storm Harvey
 # Tropical Storm Harvey is expected to cross the coast of Belize with a tropical storm watch in place for Guatemala and parts of Honduras. 
 
 A tropical storm formed in the Caribbean Friday and is expected to move across the coast of Belize Saturday afternoon or night.
 
 
-### Source:
+### Sources:
 
 1. [Alertnet](http://www.trust.org/alertnet/news/tropical-storm-harvey-is-forecast-to-strike-belize-as-a-hurricane-at-about-0000-gmt-on-21-august)
 2. [CNN](http://edition.cnn.com/2011/WORLD/americas/08/19/tropical.storm.harvey/index.html?eref=edition)
 3. [Hurricane Terrapin](http://hurricane.terrapin.com/text/1313895795-HAFT24US.TXT.html.en)
 3. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/americas/08/19/tropical.storm.harvey/tzvids.tropical.storm.harvey.nasa.jpg)
+
+### Changes:
+
+1. [2011 Atlantic hurricane season:Tropical Storm Harvey is expected to cross the coast of Belize with a tropical storm watch in place for Guatemala and parts of Honduras. ](/news/2011/08/20/2011-atlantic-hurricane-season-ptropical-storm-harvey-is-expected-to-cross-the-coast-of-belize-with-a-tropical-storm-watch-in-place-for-guat.md) _2017-08-25 03:34:02 (First version)_
+2. [2011 Atlantic hurricane season:: Tropical Storm Harvey is expected to cross the coast of Belize with a tropical storm watch in place for Guatemala and parts of Honduras. ](/news/2011/08/20/2011-atlantic-hurricane-season-tropical-storm-harvey-is-expected-to-cross-the-coast-of-belize-with-a-tropical-storm-watch-in-place-for-gua.md) _2017-08-27 03:34:09 (Update)_
+2. [Tropical Storm Harvey is expected to cross the coast of Belize with a tropical storm watch in place for Guatemala and parts of Honduras. ](/news/2011/08/20/tropical-storm-harvey-is-expected-to-cross-the-coast-of-belize-with-a-tropical-storm-watch-in-place-for-guatemala-and-parts-of-honduras.md) _(Current version)_
 
 ### Related:
 
@@ -19,9 +29,3 @@ A tropical storm formed in the Caribbean Friday and is expected to move across t
 3. [American businessman John McAfee is deported from Guatemala to the United States despite being wanted for questioning in Belize. ](/news/2012/12/12/american-businessman-john-mcafee-is-deported-from-guatemala-to-the-united-states-despite-being-wanted-for-questioning-in-belize.md) _Context: Belize, Guatemala_
 4. [A 7.4 magnitude earthquake occurs in the Pacific Ocean off the coast of El Salvador with tsunami warnings in place for Costa Rica, Nicaragua, El Salvador, Honduras, Guatemala, Panama and Mexico. ](/news/2012/08/26/a-7-4-magnitude-earthquake-occurs-in-the-pacific-ocean-off-the-coast-of-el-salvador-with-tsunami-warnings-in-place-for-costa-rica-nicaragua.md) _Context: Guatemala, Honduras_
 5. [Tropical Storm Richard lashes Honduras's Caribbean Coast with heavy rain before becoming a hurricane and making landfall in Belize. ](/news/2010/10/24/tropical-storm-richard-lashes-honduras-s-caribbean-coast-with-heavy-rain-before-becoming-a-hurricane-and-making-landfall-in-belize.md) _Context: Belize, Honduras_
-
-### Changes:
-
-1. [2011 Atlantic hurricane season:Tropical Storm Harvey is expected to cross the coast of Belize with a tropical storm watch in place for Guatemala and parts of Honduras. ](/news/2011/08/20/2011-atlantic-hurricane-season-ptropical-storm-harvey-is-expected-to-cross-the-coast-of-belize-with-a-tropical-storm-watch-in-place-for-guat.md) _2017-08-25 03:34:02 (First version)_
-2. [2011 Atlantic hurricane season:: Tropical Storm Harvey is expected to cross the coast of Belize with a tropical storm watch in place for Guatemala and parts of Honduras. ](/news/2011/08/20/2011-atlantic-hurricane-season-tropical-storm-harvey-is-expected-to-cross-the-coast-of-belize-with-a-tropical-storm-watch-in-place-for-gua.md) _2017-08-27 03:34:09 (Update)_
-2. [Tropical Storm Harvey is expected to cross the coast of Belize with a tropical storm watch in place for Guatemala and parts of Honduras. ](/news/2011/08/20/tropical-storm-harvey-is-expected-to-cross-the-coast-of-belize-with-a-tropical-storm-watch-in-place-for-guatemala-and-parts-of-honduras.md) _(Current version)_

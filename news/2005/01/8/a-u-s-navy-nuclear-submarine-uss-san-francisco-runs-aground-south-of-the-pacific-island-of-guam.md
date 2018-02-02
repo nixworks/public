@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/01/8/a-u-s-navy-nuclear-submarine-uss-san-francisco-runs-aground-south-of-the-pacific-island-of-guam.html)  [JSON](/news/2005/01/8/a-u-s-navy-nuclear-submarine-uss-san-francisco-runs-aground-south-of-the-pacific-island-of-guam.json)  [XML](/news/2005/01/8/a-u-s-navy-nuclear-submarine-uss-san-francisco-runs-aground-south-of-the-pacific-island-of-guam.xml)  
+
 ### [2005-01-8](/news/2005/01/8/index.md)
 
+##### U.S. Navy
 #  A U.S. Navy nuclear submarine, USS "San Francisco", runs aground south of the Pacific island of Guam. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4157517.stm)
-2. [USA Today|AP](http://www.usatoday.com/news/world/2005-01-08-sub_x.htm)
+2. [USA Today|AP](https://www.usatoday.com/news/world/2005-01-08-sub_x.htm)
 
 ### Related:
 

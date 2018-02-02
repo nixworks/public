@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/11/24/anta3nio-costa-the-leader-of-the-socialist-party-is-named-as-the-prime-minister-of-portugal.html)  [JSON](/news/2015/11/24/anta3nio-costa-the-leader-of-the-socialist-party-is-named-as-the-prime-minister-of-portugal.json)  [XML](/news/2015/11/24/anta3nio-costa-the-leader-of-the-socialist-party-is-named-as-the-prime-minister-of-portugal.xml)  
+
 ### [2015-11-24](/news/2015/11/24/index.md)
 
+##### Antonio Costa
 # Antonio Costa, the leader of the Socialist Party, is named as the Prime Minister of Portugal. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/24/portugal-government-premier-idUSP4N12801720151124)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/11/24/portugal-government-premier-idUSP4N12801720151124)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

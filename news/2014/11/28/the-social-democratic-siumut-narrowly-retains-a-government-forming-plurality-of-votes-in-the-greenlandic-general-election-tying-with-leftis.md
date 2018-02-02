@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/11/28/the-social-democratic-siumut-narrowly-retains-a-government-forming-plurality-of-votes-in-the-greenlandic-general-election-tying-with-leftis.html)  [JSON](/news/2014/11/28/the-social-democratic-siumut-narrowly-retains-a-government-forming-plurality-of-votes-in-the-greenlandic-general-election-tying-with-leftis.json)  [XML](/news/2014/11/28/the-social-democratic-siumut-narrowly-retains-a-government-forming-plurality-of-votes-in-the-greenlandic-general-election-tying-with-leftis.xml)  
+
 ### [2014-11-28](/news/2014/11/28/index.md)
 
+##### social-democratic
 # The social-democratic Siumut narrowly retains a government-forming plurality of votes in the Greenlandic general election, tying with leftist opposition Inuit Ataqatigiit for number of parliament seats. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/11/29/us-greenland-election-idUSKCN0JD04B20141129)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20141129&t=2&i=995518991&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEAAS01L)
+1. [Reuters](https://www.reuters.com/article/2014/11/29/us-greenland-election-idUSKCN0JD04B20141129)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20141129&t=2&i=995518991&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEAAS01L)
 
 ### Related:
 

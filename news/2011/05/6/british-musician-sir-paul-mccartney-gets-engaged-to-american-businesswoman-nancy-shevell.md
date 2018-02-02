@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/6/british-musician-sir-paul-mccartney-gets-engaged-to-american-businesswoman-nancy-shevell.html)  [JSON](/news/2011/05/6/british-musician-sir-paul-mccartney-gets-engaged-to-american-businesswoman-nancy-shevell.json)  [XML](/news/2011/05/6/british-musician-sir-paul-mccartney-gets-engaged-to-american-businesswoman-nancy-shevell.xml)  
+
 ### [2011-05-6](/news/2011/05/6/index.md)
 
+##### Paul McCartney
 # British musician Sir Paul McCartney gets engaged to American businesswoman Nancy Shevell. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via KOMO News](http://www.komonews.com/news/entertainment/121398414.html?ref=guiltypleasures)
 

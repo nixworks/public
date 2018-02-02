@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/27/thousands-of-people-protest-in-visaginas-about-a-four-fold-rise-in-electricity-prices-after-their-local-ignalina-nuclear-power-plant-was-shu.html)  [JSON](/news/2010/02/27/thousands-of-people-protest-in-visaginas-about-a-four-fold-rise-in-electricity-prices-after-their-local-ignalina-nuclear-power-plant-was-shu.json)  [XML](/news/2010/02/27/thousands-of-people-protest-in-visaginas-about-a-four-fold-rise-in-electricity-prices-after-their-local-ignalina-nuclear-power-plant-was-shu.xml)  
+
 ### [2010-02-27](/news/2010/02/27/index.md)
 
+##### Visaginas
 # Thousands of people protest in Visaginas about a four-fold rise in electricity prices after their local Ignalina Nuclear Power Plant was shut down. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [euronews](http://www.euronews.net/2010/02/27/lithuanians-protest-as-electricity-bills-soar-after-nuclear-power-station-/)
 

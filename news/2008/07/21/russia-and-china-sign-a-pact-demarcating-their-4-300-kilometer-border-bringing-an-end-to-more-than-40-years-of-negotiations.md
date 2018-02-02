@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/21/russia-and-china-sign-a-pact-demarcating-their-4-300-kilometer-border-bringing-an-end-to-more-than-40-years-of-negotiations.html)  [JSON](/news/2008/07/21/russia-and-china-sign-a-pact-demarcating-their-4-300-kilometer-border-bringing-an-end-to-more-than-40-years-of-negotiations.json)  [XML](/news/2008/07/21/russia-and-china-sign-a-pact-demarcating-their-4-300-kilometer-border-bringing-an-end-to-more-than-40-years-of-negotiations.xml)  
+
 ### [2008-07-21](/news/2008/07/21/index.md)
 
+##### Russia
 #  Russia and China sign a pact demarcating their 4,300-kilometer border, bringing an end to more than 40 years of negotiations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/asia-pacific/7517380.stm)
 

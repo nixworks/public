@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/15/the-french-warship-clemenceau-s-transit-through-the-suez-canal-is-approved-by-egyptian-authorities-this-decision-is-heavily-criticized-by.html)  [JSON](/news/2006/01/15/the-french-warship-clemenceau-s-transit-through-the-suez-canal-is-approved-by-egyptian-authorities-this-decision-is-heavily-criticized-by.json)  [XML](/news/2006/01/15/the-french-warship-clemenceau-s-transit-through-the-suez-canal-is-approved-by-egyptian-authorities-this-decision-is-heavily-criticized-by.xml)  
+
 ### [2006-01-15](/news/2006/01/15/index.md)
 
+##### Clemenceau
 #  The French warship Clemenceau's transit through the Suez Canal is approved by Egyptian authorities. This decision is heavily criticized by Greenpeace and other environmental groups. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4615662.stm)
 

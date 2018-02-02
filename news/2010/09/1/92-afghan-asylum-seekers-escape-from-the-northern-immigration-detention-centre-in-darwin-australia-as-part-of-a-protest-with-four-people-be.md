@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/1/92-afghan-asylum-seekers-escape-from-the-northern-immigration-detention-centre-in-darwin-australia-as-part-of-a-protest-with-four-people-be.html)  [JSON](/news/2010/09/1/92-afghan-asylum-seekers-escape-from-the-northern-immigration-detention-centre-in-darwin-australia-as-part-of-a-protest-with-four-people-be.json)  [XML](/news/2010/09/1/92-afghan-asylum-seekers-escape-from-the-northern-immigration-detention-centre-in-darwin-australia-as-part-of-a-protest-with-four-people-be.xml)  
+
 ### [2010-09-1](/news/2010/09/1/index.md)
 
+##### Afghanistan
 # 92 Afghan asylum seekers escape from the Northern Immigration Detention Centre in Darwin, Australia as part of a protest with four people being hospitalised due to dehydration. 
 
 Four Afghan asylum seekers have been hospitalised with dehydration after pushing down a fence at the Darwin detention centre to stage a peaceful protest.
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/situation-calm-in-darwin-protest-evans-20100901-14mvv.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

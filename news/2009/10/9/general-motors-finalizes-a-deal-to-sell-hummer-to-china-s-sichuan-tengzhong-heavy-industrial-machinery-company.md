@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/9/general-motors-finalizes-a-deal-to-sell-hummer-to-china-s-sichuan-tengzhong-heavy-industrial-machinery-company.html)  [JSON](/news/2009/10/9/general-motors-finalizes-a-deal-to-sell-hummer-to-china-s-sichuan-tengzhong-heavy-industrial-machinery-company.json)  [XML](/news/2009/10/9/general-motors-finalizes-a-deal-to-sell-hummer-to-china-s-sichuan-tengzhong-heavy-industrial-machinery-company.xml)  
+
 ### [2009-10-9](/news/2009/10/9/index.md)
 
+##### General Motors
 #  General Motors finalizes a deal to sell Hummer to China's Sichuan Tengzhong Heavy Industrial Machinery Company. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20091009-712508.html)
 

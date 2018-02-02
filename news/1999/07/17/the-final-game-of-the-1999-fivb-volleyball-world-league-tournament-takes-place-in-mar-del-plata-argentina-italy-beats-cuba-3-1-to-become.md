@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/1999/07/17/the-final-game-of-the-1999-fivb-volleyball-world-league-tournament-takes-place-in-mar-del-plata-argentina-italy-beats-cuba-3-1-to-become.html)  [JSON](/news/1999/07/17/the-final-game-of-the-1999-fivb-volleyball-world-league-tournament-takes-place-in-mar-del-plata-argentina-italy-beats-cuba-3-1-to-become.json)  [XML](/news/1999/07/17/the-final-game-of-the-1999-fivb-volleyball-world-league-tournament-takes-place-in-mar-del-plata-argentina-italy-beats-cuba-3-1-to-become.xml)  
+
 ### [1999-07-17](/news/1999/07/17/index.md)
 
+##### 1999 FIVB Volleyball World League
 #  The final game of the 1999 FIVB Volleyball World League tournament takes place in Mar del Plata, Argentina. Italy beats Cuba 3:1 to become the champion. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [OSSCG](http://wayback.archive.org/web/20080512182610id_/http://www.osscg.org.yu/volleyball_WL2005/2_historyWL_1999.asp)
+1. [OSSCG](https://web.archive.org/web/20080512182610id_/http://www.osscg.org.yu/volleyball_WL2005/2_historyWL_1999.asp)
 
 ### Related:
 
 1. [ An Argentine train headed for Mar del Plata from Buenos Aires slams into a bus at a rural rail crossing near Dolores, killing 26 people and leaving at least 60 others injured. ](/news/2008/03/9/an-argentine-train-headed-for-mar-del-plata-from-buenos-aires-slams-into-a-bus-at-a-rural-rail-crossing-near-dolores-killing-26-people-and.md) _Context: Argentina, Mar del Plata_
 2. [ Massive demonstrations against U.S. President George W. Bush continue to grow at the Fourth Summit of the Americas in Mar del Plata, Argentina. ](/news/2005/11/4/massive-demonstrations-against-u-s-president-george-w-bush-continue-to-grow-at-the-fourth-summit-of-the-americas-in-mar-del-plata-argent.md) _Context: Argentina, Mar del Plata_
-3. [A car knocks down the security fences of the Pink House, the Presidential Palace of Argentina, and then stops in front of the building's gate. The authorities reported that the driver of the vehicle had psychiatric disorders and that, in addition, the security personnel present at the time of the incident was separated from his position. It was also learned that this fact took place on 21 June. ](/news/2017/06/29/a-car-knocks-down-the-security-fences-of-the-pink-house-the-presidential-palace-of-argentina-and-then-stops-in-front-of-the-building-s-gat.md) _Context: Argentina_
-4. [A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/a-secret-collection-of-nazi-heritage-is-found-in-argentina.md) _Context: Argentina_
-5. [A bus traveling to Chile overturns in Argentina's Mendoza Province, killing at least 19 people. ](/news/2017/02/18/a-bus-traveling-to-chile-overturns-in-argentina-s-mendoza-province-killing-at-least-19-people.md) _Context: Argentina_
+3. [ Mauricio Macri, a member of the National Congress of Argentina and president of Boca Juniors, is elected as the Chief of Government of Buenos Aires. ](/news/2018/06/24/mauricio-macri-a-member-of-the-national-congress-of-argentina-and-president-of-boca-juniors-is-elected-as-the-chief-of-government-of-buen.md) _Context: Argentina_
+4. [Voters in Argentina go to the polls to elect half of the members of the Chamber of Deputies and Senate. "Cambiemos", the national government coalition led by president Mauricio Macri, got a clear victory in the four most populated provinces and the city of Buenos Aires. Former president Cristina Fernandez de Kirchner ran for senator of Buenos and ended second, leading the opposition. ](/news/2017/10/22/voters-in-argentina-go-to-the-polls-to-elect-half-of-the-members-of-the-chamber-of-deputies-and-senate-cambiemos-the-national-government.md) _Context: Argentina_
+5. [Parties in Argentina halt their election campaigns due to the appearance of a body thought to be Santiago Maldonado, an indigenous rights activist who disappeared at the beginning of August 2017. ](/news/2017/10/21/parties-in-argentina-halt-their-election-campaigns-due-to-the-appearance-of-a-body-thought-to-be-santiago-maldonado-an-indigenous-rights-ac.md) _Context: Argentina_

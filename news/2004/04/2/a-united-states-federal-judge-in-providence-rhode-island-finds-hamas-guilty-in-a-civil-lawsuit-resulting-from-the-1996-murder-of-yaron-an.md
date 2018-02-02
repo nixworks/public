@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/2/a-united-states-federal-judge-in-providence-rhode-island-finds-hamas-guilty-in-a-civil-lawsuit-resulting-from-the-1996-murder-of-yaron-an.html)  [JSON](/news/2004/04/2/a-united-states-federal-judge-in-providence-rhode-island-finds-hamas-guilty-in-a-civil-lawsuit-resulting-from-the-1996-murder-of-yaron-an.json)  [XML](/news/2004/04/2/a-united-states-federal-judge-in-providence-rhode-island-finds-hamas-guilty-in-a-civil-lawsuit-resulting-from-the-1996-murder-of-yaron-an.xml)  
+
 ### [2004-04-2](/news/2004/04/2/index.md)
 
+##### Hamas
 #  A United States federal judge in Providence, Rhode Island, finds Hamas guilty in a civil lawsuit resulting from the 1996 murder of Yaron and Efrat Unga in Israel. Hamas is ordered to pay the family of Yaron and Efrat Ungar $116 million. The court has not yet ruled regarding the liability of the Palestinian Authority and the PLO. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BostonGlobe](http://www.boston.com/news/local/articles/2004/01/29/116m_awarded_in_terrorism_suit/)
 

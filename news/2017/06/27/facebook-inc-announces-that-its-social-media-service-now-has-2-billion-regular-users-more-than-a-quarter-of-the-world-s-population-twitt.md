@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/27/facebook-inc-announces-that-its-social-media-se
 
 ### [2017-06-27](/news/2017/06/27/index.md)
 
+##### Social networking service
 # Facebook, Inc. announces that its social media service now has 2 billion regular users, more than a quarter of the world's population. Twitter, by comparison, has 328 million users as of April 2017. 
 
 

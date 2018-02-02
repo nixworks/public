@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/27/kenneth-williams-is-executed-at-the-cummins-uni
 
 ### [2017-04-27](/news/2017/04/27/index.md)
 
+##### Cummins Unit
 # Kenneth Williams is executed at the Cummins Unit, Arkansas, by injection of midazolam, marking the state's fourth execution within eight days before the drug passes its expiration date. 
 
 Arkansas executed convicted killer Kenneth Williams on Thursday, who was the fourth inmate put to death in the state in a little more than a week.

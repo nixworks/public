@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/1/chinese-archaeologists-have-found-a-hidden-underground-chamber-within-the-tomb-of-qin-shi-huang.html)  [JSON](/news/2007/07/1/chinese-archaeologists-have-found-a-hidden-underground-chamber-within-the-tomb-of-qin-shi-huang.json)  [XML](/news/2007/07/1/chinese-archaeologists-have-found-a-hidden-underground-chamber-within-the-tomb-of-qin-shi-huang.xml)  
+
 ### [2007-07-1](/news/2007/07/1/index.md)
 
+##### Chinese archaeologists
 #  Chinese archaeologists have found a hidden underground chamber within the tomb of Qin Shi Huang. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/6258586.stm)
 

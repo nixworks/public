@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/29/philippines-president-rodrigo-duterte-calls-on-
 
 ### [2016-08-29](/news/2016/08/29/index.md)
 
+##### drug crackdown
 # Philippines president Rodrigo Duterte calls on critic senator Leila de Lima to resign and "hang herself". 
 
 The President tells the feisty lady senator that she should resign amid allegations she is involved in the New Bilibid Prison illegal drug trade

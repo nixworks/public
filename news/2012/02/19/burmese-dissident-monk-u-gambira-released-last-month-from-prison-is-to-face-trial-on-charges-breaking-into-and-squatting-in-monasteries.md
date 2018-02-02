@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/19/burmese-dissident-monk-u-gambira-released-last-month-from-prison-is-to-face-trial-on-charges-breaking-into-and-squatting-in-monasteries.html)  [JSON](/news/2012/02/19/burmese-dissident-monk-u-gambira-released-last-month-from-prison-is-to-face-trial-on-charges-breaking-into-and-squatting-in-monasteries.json)  [XML](/news/2012/02/19/burmese-dissident-monk-u-gambira-released-last-month-from-prison-is-to-face-trial-on-charges-breaking-into-and-squatting-in-monasteries.xml)  
+
 ### [2012-02-19](/news/2012/02/19/index.md)
 
+##### Burma
 # Burmese dissident monk U Gambira, released last month from prison, is to face trial on charges breaking into and squatting in monasteries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_768412.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/24/the-gun-that-killed-nine-million-people-the-browning-with-serial-no-19047-which-gavrilo-princip-used-to-assassinate-archduke-franz-ferd.html)  [JSON](/news/2004/06/24/the-gun-that-killed-nine-million-people-the-browning-with-serial-no-19047-which-gavrilo-princip-used-to-assassinate-archduke-franz-ferd.json)  [XML](/news/2004/06/24/the-gun-that-killed-nine-million-people-the-browning-with-serial-no-19047-which-gavrilo-princip-used-to-assassinate-archduke-franz-ferd.xml)  
+
 ### [2004-06-24](/news/2004/06/24/index.md)
 
+##### Browning
 #  "The gun that killed nine million people", the Browning with serial no. 19047 which Gavrilo Princip used to assassinate Archduke Franz Ferdinand of Austria, is found in a Jesuit house in Austria and will be put on display in the Vienna museum of military history. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Scotsman](http://news.scotsman.com/international.cfm?id=714342004)
 

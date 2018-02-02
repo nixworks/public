@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/5/rebels-against-the-gaddafi-regime-in-libya-have-begun-to-export-oil.html)  [JSON](/news/2011/04/5/rebels-against-the-gaddafi-regime-in-libya-have-begun-to-export-oil.json)  [XML](/news/2011/04/5/rebels-against-the-gaddafi-regime-in-libya-have-begun-to-export-oil.xml)  
+
 ### [2011-04-5](/news/2011/04/5/index.md)
 
+##### Muammar Gaddafi
 # Rebels against the Gaddafi regime in Libya have begun to export oil. 
 
 A tanker is believed to have docked in rebel-held eastern Libya to begin the first export of oil for almost three weeks, as new air strikes hit government forces.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-12969004)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

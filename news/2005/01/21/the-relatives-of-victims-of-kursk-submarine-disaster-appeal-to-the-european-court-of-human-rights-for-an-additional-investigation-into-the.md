@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/21/the-relatives-of-victims-of-kursk-submarine-disaster-appeal-to-the-european-court-of-human-rights-for-an-additional-investigation-into-the.html)  [JSON](/news/2005/01/21/the-relatives-of-victims-of-kursk-submarine-disaster-appeal-to-the-european-court-of-human-rights-for-an-additional-investigation-into-the.json)  [XML](/news/2005/01/21/the-relatives-of-victims-of-kursk-submarine-disaster-appeal-to-the-european-court-of-human-rights-for-an-additional-investigation-into-the.xml)  
+
 ### [2005-01-21](/news/2005/01/21/index.md)
 
+##### Kursk submarine
 #  The relatives of victims of Kursk submarine disaster appeal to the European Court of Human Rights for an additional investigation into the catastrophe. 
 
 The Moscow Times offers everything you need to know about Russia: breaking news, features, analysis, opinion, cultural events and tips.
 
 
-### Source:
+### Sources:
 
 1. [Mosnews](http://www.mosnews.com/news/2005/01/20/kurskclaim.shtml)
 2. [St.Petersburg Times](http://www.sptimes.ru/archive/times/1037/news/n_14642.htm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/17/the-labour-party-and-ariel-sharon-s-likud-party-reach-an-agreement-forming-a-unity-government-in-order-to-implement-israel-s-unilateral-di.html)  [JSON](/news/2004/12/17/the-labour-party-and-ariel-sharon-s-likud-party-reach-an-agreement-forming-a-unity-government-in-order-to-implement-israel-s-unilateral-di.json)  [XML](/news/2004/12/17/the-labour-party-and-ariel-sharon-s-likud-party-reach-an-agreement-forming-a-unity-government-in-order-to-implement-israel-s-unilateral-di.xml)  
+
 ### [2004-12-17](/news/2004/12/17/index.md)
 
+##### Labor Party
 #  The Labour Party and Ariel Sharon's Likud Party reach an agreement, forming a unity government in order to implement Israel's unilateral disengagement plan of 2004. In return, the Labor will receive eight cabinet portfolios, including "peace-disengagement minister" specially suited for Shimon Peres and Internal Affairs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4103793.stm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4106291.stm)

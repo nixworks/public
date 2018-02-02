@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/15/the-tokyo-electric-power-company-will-pay-a-provisional-1-million-yen-to-each-household-living-within-the-exclusion-zone-near-the-fukushima.html)  [JSON](/news/2011/04/15/the-tokyo-electric-power-company-will-pay-a-provisional-1-million-yen-to-each-household-living-within-the-exclusion-zone-near-the-fukushima.json)  [XML](/news/2011/04/15/the-tokyo-electric-power-company-will-pay-a-provisional-1-million-yen-to-each-household-living-within-the-exclusion-zone-near-the-fukushima.xml)  
+
 ### [2011-04-15](/news/2011/04/15/index.md)
 
+##### Tokyo Electric Power Company
 # The Tokyo Electric Power Company will pay a provisional 1 million yen to each household living within the exclusion zone near the Fukushima I Nuclear Power Plant. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kyodo](http://english.kyodonews.jp/news/2011/04/85611.html)
 

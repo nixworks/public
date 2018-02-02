@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/26/a-man-is-killed-and-about-40-people-are-hurt-during-a-night-of-unrest-in-tallinn-estonia-demonstrators-protesting-against-the-removal-of.html)  [JSON](/news/2007/04/26/a-man-is-killed-and-about-40-people-are-hurt-during-a-night-of-unrest-in-tallinn-estonia-demonstrators-protesting-against-the-removal-of.json)  [XML](/news/2007/04/26/a-man-is-killed-and-about-40-people-are-hurt-during-a-night-of-unrest-in-tallinn-estonia-demonstrators-protesting-against-the-removal-of.xml)  
+
 ### [2007-04-26](/news/2007/04/26/index.md)
 
+##### Tallinn
 #  A man is killed and about 40 people are hurt during a night of unrest in Tallinn, Estonia. Demonstrators protesting against the removal of the Bronze Soldier statue clash with the police. Russia's authorities threaten to break off diplomatic relations with their Baltic neighbour. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6597497.stm)
 

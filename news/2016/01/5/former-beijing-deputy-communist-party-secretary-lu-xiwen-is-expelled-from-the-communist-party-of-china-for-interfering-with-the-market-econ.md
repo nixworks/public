@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/5/former-beijing-deputy-communist-party-secretary-
 
 ### [2016-01-5](/news/2016/01/5/index.md)
 
+##### Deputy Communist Party Secretary
 # Former Beijing Deputy Communist Party Secretary Lu Xiwen is expelled from the Communist Party of China for "interfering with the market economy and law enforcement" and "living a luxurious lifestyle", among other offenses. 
 
 

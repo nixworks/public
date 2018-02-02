@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/22/the-u-s-agrees-to-supply-ukraine-with-more-leth
 
 ### [2017-12-22](/news/2017/12/22/index.md)
 
+##### Ukraine-United States relations
 # The U.S. agrees to supply Ukraine with more lethal weapons, now including Javelin anti-tank missiles. 
 
 

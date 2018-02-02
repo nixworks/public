@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/26/mari-alkatiri-resigns-as-prime-minister-of-east-timor-after-weeks-of-political-unrest.html)  [JSON](/news/2006/06/26/mari-alkatiri-resigns-as-prime-minister-of-east-timor-after-weeks-of-political-unrest.json)  [XML](/news/2006/06/26/mari-alkatiri-resigns-as-prime-minister-of-east-timor-after-weeks-of-political-unrest.xml)  
+
 ### [2006-06-26](/news/2006/06/26/index.md)
 
+##### Mar Alkatiri
 #  Mar Alkatiri resigns as Prime Minister of East Timor after weeks of political unrest. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Melbourne Herald Sun](http://www.heraldsun.news.com.au/common/story_page/0,5478,19591368%255E661,00.html)
 2. [Reuters](http://today.reuters.com/News/newsArticle.aspx?type=worldNews&storyID=2006-06-26T032905Z_01_SP8189_RTRUKOC_0_US-TIMOR.xml)

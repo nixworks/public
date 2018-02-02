@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/10/26/sony-s-playstation-2-is-released-in-north-america-with-27-launch-titles.html)  [JSON](/news/2000/10/26/sony-s-playstation-2-is-released-in-north-america-with-27-launch-titles.json)  [XML](/news/2000/10/26/sony-s-playstation-2-is-released-in-north-america-with-27-launch-titles.xml)  
+
 ### [2000-10-26](/news/2000/10/26/index.md)
 
+##### Sony
 # Sony's PlayStation 2 is released in North America with 27 launch titles.
 
 

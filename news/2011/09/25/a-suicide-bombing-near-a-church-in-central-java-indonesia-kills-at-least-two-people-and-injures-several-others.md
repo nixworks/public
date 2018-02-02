@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/25/a-suicide-bombing-near-a-church-in-central-java-indonesia-kills-at-least-two-people-and-injures-several-others.html)  [JSON](/news/2011/09/25/a-suicide-bombing-near-a-church-in-central-java-indonesia-kills-at-least-two-people-and-injures-several-others.json)  [XML](/news/2011/09/25/a-suicide-bombing-near-a-church-in-central-java-indonesia-kills-at-least-two-people-and-injures-several-others.xml)  
+
 ### [2011-09-25](/news/2011/09/25/index.md)
 
+##### suicide bombing
 # A suicide bombing near a church in Central Java, Indonesia, kills at least two people and injures several others. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-15051334)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/55572000/jpg/_55572680_013010707-1.jpg)

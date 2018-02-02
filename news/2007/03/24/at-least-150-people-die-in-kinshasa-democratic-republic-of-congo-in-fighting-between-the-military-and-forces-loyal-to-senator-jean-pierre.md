@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/24/at-least-150-people-die-in-kinshasa-democratic-republic-of-congo-in-fighting-between-the-military-and-forces-loyal-to-senator-jean-pierre.html)  [JSON](/news/2007/03/24/at-least-150-people-die-in-kinshasa-democratic-republic-of-congo-in-fighting-between-the-military-and-forces-loyal-to-senator-jean-pierre.json)  [XML](/news/2007/03/24/at-least-150-people-die-in-kinshasa-democratic-republic-of-congo-in-fighting-between-the-military-and-forces-loyal-to-senator-jean-pierre.xml)  
+
 ### [2007-03-24](/news/2007/03/24/index.md)
 
+##### Kinshasa
 #  At least 150 people die in Kinshasa, Democratic Republic of Congo in fighting between the military and forces loyal to Senator Jean-Pierre Bemba. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6492283.stm)
 

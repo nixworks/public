@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/25/protestors-and-police-clash-in-madrid-over-spanish-anti-austerity-measures.html)  [JSON](/news/2012/09/25/protestors-and-police-clash-in-madrid-over-spanish-anti-austerity-measures.json)  [XML](/news/2012/09/25/protestors-and-police-clash-in-madrid-over-spanish-anti-austerity-measures.xml)  
+
 ### [2012-09-25](/news/2012/09/25/index.md)
 
+##### clash
 # Protestors and police clash in Madrid over Spanish anti-austerity measures. 
 
 Spanish police ringing parliament in Madrid fire rubber bullets at protesters taking part in a mass rally against austerity.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19712203)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63115000/jpg/_63115534_63116274.jpg)

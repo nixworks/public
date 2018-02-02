@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/8/a-road-collapse-at-a-major-intersection-near-the
 
 ### [2016-06-8](/news/2016/06/8/index.md)
 
+##### road collapse
 # A road collapse at a major intersection near the Canadian Parliament in Ottawa, Ontario, forces evacuation of a mall, a hotel, the Shaw Convention Centre, and a book store because of the smell of gas. Power and water are now shut off. 
 
 A giant sinkhole opened up next to a major shopping mall in downtown Ottawa on Wednesday, causing a gas leak, collapsing a street and forcing the evacuation of all nearby businesses.

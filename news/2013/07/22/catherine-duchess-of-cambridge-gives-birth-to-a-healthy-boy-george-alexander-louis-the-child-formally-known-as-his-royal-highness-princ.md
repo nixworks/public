@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/22/catherine-duchess-of-cambridge-gives-birth-to-a-healthy-boy-george-alexander-louis-the-child-formally-known-as-his-royal-highness-princ.html)  [JSON](/news/2013/07/22/catherine-duchess-of-cambridge-gives-birth-to-a-healthy-boy-george-alexander-louis-the-child-formally-known-as-his-royal-highness-princ.json)  [XML](/news/2013/07/22/catherine-duchess-of-cambridge-gives-birth-to-a-healthy-boy-george-alexander-louis-the-child-formally-known-as-his-royal-highness-princ.xml)  
+
 ### [2013-07-22](/news/2013/07/22/index.md)
 
+##### Catherine, Duchess of Cambridge
 # Catherine, Duchess of Cambridge, gives birth to a healthy boy, George Alexander Louis. The child, formally known as His Royal Highness Prince George of Cambridge, is third in line to the British throne. 
 
 The Duke and Duchess of Cambridge name their son George Alexander Louis, Kensington Palace says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-23443504)
 2. [CNN](http://edition.cnn.com/2013/07/12/world/europe/royal-baby-live-updates/index.html?hpt=hp_c1)

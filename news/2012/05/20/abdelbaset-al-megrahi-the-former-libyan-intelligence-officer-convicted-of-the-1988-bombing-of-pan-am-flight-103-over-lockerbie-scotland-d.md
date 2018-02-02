@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/20/abdelbaset-al-megrahi-the-former-libyan-intelligence-officer-convicted-of-the-1988-bombing-of-pan-am-flight-103-over-lockerbie-scotland-d.html)  [JSON](/news/2012/05/20/abdelbaset-al-megrahi-the-former-libyan-intelligence-officer-convicted-of-the-1988-bombing-of-pan-am-flight-103-over-lockerbie-scotland-d.json)  [XML](/news/2012/05/20/abdelbaset-al-megrahi-the-former-libyan-intelligence-officer-convicted-of-the-1988-bombing-of-pan-am-flight-103-over-lockerbie-scotland-d.xml)  
+
 ### [2012-05-20](/news/2012/05/20/index.md)
 
+##### Abdelbaset al-Megrahi
 # Abdelbaset al-Megrahi, the former Libyan intelligence officer convicted of the 1988 bombing of Pan Am Flight 103 over Lockerbie, Scotland, dies at his home in the Libyan capital of Tripoli at the age of 60. 
 
 Lockerbie bomber Abdelbaset al-Megrahi dies at home in Tripoli, nearly three years after he was controversially freed from a Scottish prison.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/05/201252012581955868.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-18137896)

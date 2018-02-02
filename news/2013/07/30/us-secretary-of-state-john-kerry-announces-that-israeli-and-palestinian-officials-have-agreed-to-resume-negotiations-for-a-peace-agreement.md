@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/30/us-secretary-of-state-john-kerry-announces-that-israeli-and-palestinian-officials-have-agreed-to-resume-negotiations-for-a-peace-agreement.html)  [JSON](/news/2013/07/30/us-secretary-of-state-john-kerry-announces-that-israeli-and-palestinian-officials-have-agreed-to-resume-negotiations-for-a-peace-agreement.json)  [XML](/news/2013/07/30/us-secretary-of-state-john-kerry-announces-that-israeli-and-palestinian-officials-have-agreed-to-resume-negotiations-for-a-peace-agreement.xml)  
+
 ### [2013-07-30](/news/2013/07/30/index.md)
 
+##### US Secretary of State
 # US Secretary of State, John Kerry, announces that Israeli and Palestinian officials have agreed to resume negotiations for a peace agreement. 
 
 Israelis and Palestinians will aim to reach a final-status agreement to end their conflict over the next nine months, US Secretary of State John Kerry says in Washington.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/07/30/world/meast/mideast-peace/index.html?hpt=wo_c2)
 2. [The Jerusalem Post](http://www.jpost.com/Diplomacy-and-Politics/Kerry-Sides-will-meet-again-to-continue-talks-within-two-weeks-321546)

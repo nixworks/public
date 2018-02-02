@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/08/29/a-magnitude-5-4-earthquake-strikes-off-the-maluku-islands-in-indonesia-officials-currently-state-that-a-tsunami-is-not-possible-as-their.html)  [JSON](/news/2006/08/29/a-magnitude-5-4-earthquake-strikes-off-the-maluku-islands-in-indonesia-officials-currently-state-that-a-tsunami-is-not-possible-as-their.json)  [XML](/news/2006/08/29/a-magnitude-5-4-earthquake-strikes-off-the-maluku-islands-in-indonesia-officials-currently-state-that-a-tsunami-is-not-possible-as-their.xml)  
+
 ### [2006-08-29](/news/2006/08/29/index.md)
 
+##### earthquake
 #  A magnitude-5.4 earthquake strikes off the Maluku Islands in Indonesia. Officials currently state that a tsunami is not possible, as their initial magnitude estimates have been downgraded. 
 
 

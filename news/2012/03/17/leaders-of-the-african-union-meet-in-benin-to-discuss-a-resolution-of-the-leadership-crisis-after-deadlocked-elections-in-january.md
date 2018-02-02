@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/17/leaders-of-the-african-union-meet-in-benin-to-discuss-a-resolution-of-the-leadership-crisis-after-deadlocked-elections-in-january.html)  [JSON](/news/2012/03/17/leaders-of-the-african-union-meet-in-benin-to-discuss-a-resolution-of-the-leadership-crisis-after-deadlocked-elections-in-january.json)  [XML](/news/2012/03/17/leaders-of-the-african-union-meet-in-benin-to-discuss-a-resolution-of-the-leadership-crisis-after-deadlocked-elections-in-january.xml)  
+
 ### [2012-03-17](/news/2012/03/17/index.md)
 
+##### African Union
 # Leaders of the African Union meet in Benin to discuss a resolution of the leadership crisis after deadlocked elections in January. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/africa/african-leaders-to-discuss-crisis-1.1258672)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/13/iranian-president-mahmoud-ahmadinejad-dismisses-foreign-minister-manouchehr-mottaki-for-unknown-reasons-he-is-replaced-by-ali-akbar-salehi.html)  [JSON](/news/2010/12/13/iranian-president-mahmoud-ahmadinejad-dismisses-foreign-minister-manouchehr-mottaki-for-unknown-reasons-he-is-replaced-by-ali-akbar-salehi.json)  [XML](/news/2010/12/13/iranian-president-mahmoud-ahmadinejad-dismisses-foreign-minister-manouchehr-mottaki-for-unknown-reasons-he-is-replaced-by-ali-akbar-salehi.xml)  
+
 ### [2010-12-13](/news/2010/12/13/index.md)
 
+##### Iran
 # Iranian President Mahmoud Ahmadinejad dismisses Foreign Minister Manouchehr Mottaki for unknown reasons. He is replaced by Ali Akbar Salehi in an acting capacity. 
 
 Tehran, Dec 13 (DPA) In a surprise move, Iranian President Mahmoud Ahmadinejad has fired Foreign Minister Manouchehr Mottaki, state media reported...
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11984931)
 2. [Press TV](http://www.presstv.ir/detail/155293.html)

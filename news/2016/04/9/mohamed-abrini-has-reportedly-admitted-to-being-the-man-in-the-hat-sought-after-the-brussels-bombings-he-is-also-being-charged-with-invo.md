@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/9/mohamed-abrini-has-reportedly-admitted-to-being-
 
 ### [2016-04-9](/news/2016/04/9/index.md)
 
+##### 2016 Brussels bombings
 #  Mohamed Abrini has reportedly admitted to being the "man in the hat" sought after the Brussels bombings. He is also being charged with involvement in the November 2015 Paris attacks. 
 
  Mohamed Abrini, who was arrested in Brussels, has admitted to being the third would-be suicide bomber at Brussels Airport 

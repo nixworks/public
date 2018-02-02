@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/1/azerbaijan-law-enforcement-agencies-launch-a-special-operation-against-islamists-in-nardaran-a-suburb-in-the-capital-baku.html)  [JSON](/news/2015/12/1/azerbaijan-law-enforcement-agencies-launch-a-special-operation-against-islamists-in-nardaran-a-suburb-in-the-capital-baku.json)  [XML](/news/2015/12/1/azerbaijan-law-enforcement-agencies-launch-a-special-operation-against-islamists-in-nardaran-a-suburb-in-the-capital-baku.xml)  
+
 ### [2015-12-1](/news/2015/12/1/index.md)
 
+##### National Police
 # Azerbaijan law enforcement agencies launch a special operation against Islamists in Nardaran, a suburb in the capital Baku. 
 
 Local citizens are reportedly demanding the return of the bodies of the Nardaran residents killed during the special operation on November 26
 
 
-### Source:
+### Sources:
 
 1. [Tass](http://tass.ru/en/world/840565)
 1. [Cover Image](https://phototass2.cdnvideo.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20151201/1116175.jpg)

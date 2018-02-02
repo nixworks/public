@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/11/china-s-exports-contract-25-7-the-worst-decline-since-1993.html)  [JSON](/news/2009/03/11/china-s-exports-contract-25-7-the-worst-decline-since-1993.json)  [XML](/news/2009/03/11/china-s-exports-contract-25-7-the-worst-decline-since-1993.xml)  
+
 ### [2009-03-11](/news/2009/03/11/index.md)
 
+##### China
 #  China's exports contract 25.7%, the worst decline since 1993. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/china/2009-03/11/content_7568707.htm)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-03/11/content_10990447.htm)

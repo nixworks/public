@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/09/2/nuclear-program-of-iran-the-president-of-iran-mahmoud-ahmadinejad-claims-that-iran-now-has-3-000-centrifuges-the-international-atomic-ene.html)  [JSON](/news/2007/09/2/nuclear-program-of-iran-the-president-of-iran-mahmoud-ahmadinejad-claims-that-iran-now-has-3-000-centrifuges-the-international-atomic-ene.json)  [XML](/news/2007/09/2/nuclear-program-of-iran-the-president-of-iran-mahmoud-ahmadinejad-claims-that-iran-now-has-3-000-centrifuges-the-international-atomic-ene.xml)  
+
 ### [2007-09-2](/news/2007/09/2/index.md)
 
+##### nuclear program
 #  Nuclear program of Iran: The President of Iran Mahmoud Ahmadinejad claims that Iran now has 3,000 centrifuges. The International Atomic Energy Agency estimates the number at 2,000. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via NYT](http://www.nytimes.com/aponline/world/AP-Iran-Nuclear.html?ex=1346385600&en=8d065921556fa6b9&ei=5088&partner=rssnyt&emc=rss)
+1. [AP via NYT](https://www.nytimes.com/aponline/world/AP-Iran-Nuclear.html?ex=1346385600&en=8d065921556fa6b9&ei=5088&partner=rssnyt&emc=rss)
 
 ### Related:
 

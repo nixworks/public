@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/24/edgar-lungu-of-the-ruling-patriotic-front-party-wins-the-zambian-presidential-election.html)  [JSON](/news/2015/01/24/edgar-lungu-of-the-ruling-patriotic-front-party-wins-the-zambian-presidential-election.json)  [XML](/news/2015/01/24/edgar-lungu-of-the-ruling-patriotic-front-party-wins-the-zambian-presidential-election.xml)  
+
 ### [2015-01-24](/news/2015/01/24/index.md)
 
+##### Edgar Lungu
 # Edgar Lungu of the ruling Patriotic Front party wins the Zambian presidential election. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/zambia-ruling-party-candidate-wins-presidential-election-28455442)
 

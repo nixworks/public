@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/13/a-vehicle-filled-with-explosives-detonates-near
 
 ### [2017-03-13](/news/2017/03/13/index.md)
 
+##### War in Somalia (2009-present)
 # A vehicle filled with explosives detonates near a hotel in Mogadishu, killing at least six people and wounding four others. 
 
 At least six people killed by bomb-laden vehicle in Mogadishu, according to police and medical services.

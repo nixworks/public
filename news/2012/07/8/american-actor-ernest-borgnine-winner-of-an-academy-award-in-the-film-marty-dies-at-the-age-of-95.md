@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/8/american-actor-ernest-borgnine-winner-of-an-academy-award-in-the-film-marty-dies-at-the-age-of-95.html)  [JSON](/news/2012/07/8/american-actor-ernest-borgnine-winner-of-an-academy-award-in-the-film-marty-dies-at-the-age-of-95.json)  [XML](/news/2012/07/8/american-actor-ernest-borgnine-winner-of-an-academy-award-in-the-film-marty-dies-at-the-age-of-95.xml)  
+
 ### [2012-07-8](/news/2012/07/8/index.md)
 
+##### Ernest Borgnine
 # American actor Ernest Borgnine, winner of an Academy Award in the film "Marty", dies at the age of 95. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/8301-207_162-57468279/actor-ernest-borgnine-dies-at-95/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/07/08/b99dd52f-a644-11e2-a3f0-029118418759/Borgnine_Marty.jpg)

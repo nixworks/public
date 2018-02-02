@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/29/doughnut-maker-krispy-kreme-announces-that-its-accounting-practices-are-the-subject-of-an-informal-inquiry-by-the-u-s-securities-and-excha.html)  [JSON](/news/2004/07/29/doughnut-maker-krispy-kreme-announces-that-its-accounting-practices-are-the-subject-of-an-informal-inquiry-by-the-u-s-securities-and-excha.json)  [XML](/news/2004/07/29/doughnut-maker-krispy-kreme-announces-that-its-accounting-practices-are-the-subject-of-an-informal-inquiry-by-the-u-s-securities-and-excha.xml)  
+
 ### [2004-07-29](/news/2004/07/29/index.md)
 
+##### Krispy Kreme
 #  Doughnut maker Krispy Kreme announces that its accounting practices are the subject of an informal inquiry by the U.S. Securities and Exchange Commission. The inquiry is concerned with the company's repurchase of franchises as well as a recent earnings warning. 
 
 Find a local lawyer and free legal information at FindLaw, the award-winning website.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://news.findlaw.com/ap/f/1310/7-29-2004/20040729073007-13.html)
 1. [Cover Image](http://www.findlawimages.com/public/thumbnails_62x62/findlaw_62x62.png)

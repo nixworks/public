@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/11/israeli-security-forces-arrest-18-palestinians-
 
 ### [2016-04-11](/news/2016/04/11/index.md)
 
+##### Israeli-Palestinian conflict (2015-present)
 # Israeli security forces arrest 18 Palestinians on the West Bank for alleged terrorism related offences. 
 
 

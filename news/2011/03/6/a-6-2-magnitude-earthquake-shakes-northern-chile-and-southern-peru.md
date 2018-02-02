@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/6/a-6-2-magnitude-earthquake-shakes-northern-chile-and-southern-peru.html)  [JSON](/news/2011/03/6/a-6-2-magnitude-earthquake-shakes-northern-chile-and-southern-peru.json)  [XML](/news/2011/03/6/a-6-2-magnitude-earthquake-shakes-northern-chile-and-southern-peru.xml)  
+
 ### [2011-03-6](/news/2011/03/6/index.md)
 
+##### Chile
 # A 6.2 magnitude earthquake shakes northern Chile and southern Peru. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Andina](http://www.andina.com.pe/Ingles/Noticia.aspx?id=6xd8gOuykLM=#)
 

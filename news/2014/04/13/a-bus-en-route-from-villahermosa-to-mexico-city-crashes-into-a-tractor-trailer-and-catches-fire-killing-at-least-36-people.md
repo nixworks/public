@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/04/13/a-bus-en-route-from-villahermosa-to-mexico-city-crashes-into-a-tractor-trailer-and-catches-fire-killing-at-least-36-people.html)  [JSON](/news/2014/04/13/a-bus-en-route-from-villahermosa-to-mexico-city-crashes-into-a-tractor-trailer-and-catches-fire-killing-at-least-36-people.json)  [XML](/news/2014/04/13/a-bus-en-route-from-villahermosa-to-mexico-city-crashes-into-a-tractor-trailer-and-catches-fire-killing-at-least-36-people.xml)  
+
 ### [2014-04-13](/news/2014/04/13/index.md)
 
+##### Villahermosa
 # A bus en route from Villahermosa to Mexico City crashes into a tractor-trailer and catches fire, killing at least 36 people. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/the_americas/at-least-30-reported-dead-in-mexico-bus-crash/2014/04/13/9c2004ec-c322-11e3-9ee7-02c1e10a03f0_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/the_americas/at-least-30-reported-dead-in-mexico-bus-crash/2014/04/13/9c2004ec-c322-11e3-9ee7-02c1e10a03f0_story.html)
 
 ### Related:
 

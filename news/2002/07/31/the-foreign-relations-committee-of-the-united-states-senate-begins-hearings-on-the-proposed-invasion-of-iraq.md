@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/07/31/the-foreign-relations-committee-of-the-united-states-senate-begins-hearings-on-the-proposed-invasion-of-iraq.html)  [JSON](/news/2002/07/31/the-foreign-relations-committee-of-the-united-states-senate-begins-hearings-on-the-proposed-invasion-of-iraq.json)  [XML](/news/2002/07/31/the-foreign-relations-committee-of-the-united-states-senate-begins-hearings-on-the-proposed-invasion-of-iraq.xml)  
+
 ### [2002-07-31](/news/2002/07/31/index.md)
 
+##### United States Senate
 # The Foreign Relations Committee of the United States Senate begins hearings on the proposed invasion of Iraq
 
 
@@ -7,8 +11,8 @@
 
 ### Related:
 
-1. [ George Galloway, British MP and anti-war campaigner, appears before the United States Senate to defend himself against charges that he profited from Saddam Hussein's regime, launching a tirade against the senators who had accused him and attacking the war in Iraq. ](/news/2005/05/17/george-galloway-british-mp-and-anti-war-campaigner-appears-before-the-united-states-senate-to-defend-himself-against-charges-that-he-prof.md) _Context: 2003 invasion of Iraq, United States Senate_
-2. [The United States Senate, in a 92-5 vote, confirms Christopher A. Wray as Director of the Federal Bureau of Investigation. ](/news/2017/08/1/the-united-states-senate-in-a-92a5-vote-confirms-christopher-a-wray-as-director-of-the-federal-bureau-of-investigation.md) _Context: United States Senate_
-3. [The American Health Care Act of 2017, an attempt to repeal the Patient Protection and Affordable Care Act, fails passage in the United States Senate. ](/news/2017/07/28/the-american-health-care-act-of-2017-an-attempt-to-repeal-the-patient-protection-and-affordable-care-act-fails-passage-in-the-united-state.md) _Context: United States Senate_
-4. [The United States Senate rejects "repeal only" propositions of the Patient Protection and Affordable Care Act. United States President Donald Trump lashes out at Republican Senator Lisa Murkowski, who voted against the proposal. ](/news/2017/07/26/the-united-states-senate-rejects-repeal-only-propositions-of-the-patient-protection-and-affordable-care-act-united-states-president-donal.md) _Context: United States Senate_
-5. [The U.S. Senate votes to open debate on repealing and possibly replacing Obamacare. ](/news/2017/07/25/the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.md) _Context: United States Senate_
+1. [Two new Democratic senators&mdash;Doug Jones of Alabama and Tina Smith of Minnesota&mdash;are sworn in, bringing the Republican majority down to 51&ndash;49. ](/news/2018/01/3/two-new-democratic-senators-mdash-doug-jones-of-alabama-and-tina-smith-of-minnesota-mdash-are-sworn-in-bringing-the-republican-majority-dow.md) _Context: United States Senate_
+2. [The United States Senate confirms Jerome Powell as chairman of the Federal Reserve Bank with 84 votes for and 13 against. ](/news/2018/01/23/the-united-states-senate-confirms-jerome-powell-as-chairman-of-the-federal-reserve-bank-with-84-votes-for-and-13-against.md) _Context: United States Senate_
+3. [The United States Senate reaches an agreement to reopen federal agencies through to February 8. A bill is working its way through the legislative process. The first Senate vote was 81-18. ](/news/2018/01/22/the-united-states-senate-reaches-an-agreement-to-reopen-federal-agencies-through-to-february-8-a-bill-is-working-its-way-through-the-legisl.md) _Context: United States Senate_
+4. [ The United States federal government shuts down after the United States Senate fails to pass a budget bill. ](/news/2018/01/20/the-united-states-federal-government-shuts-down-after-the-united-states-senate-fails-to-pass-a-budget-bill.md) _Context: United States Senate_
+5. [U.S. Senator Orrin Hatch announces that he will retire in January 2019. ](/news/2018/01/2/u-s-senator-orrin-hatch-announces-that-he-will-retire-in-january-2019.md) _Context: United States Senate_

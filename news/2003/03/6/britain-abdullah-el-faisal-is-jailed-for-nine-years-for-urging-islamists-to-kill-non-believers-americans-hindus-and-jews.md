@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/6/britain-abdullah-el-faisal-is-jailed-for-nine-years-for-urging-islamists-to-kill-non-believers-americans-hindus-and-jews.html)  [JSON](/news/2003/03/6/britain-abdullah-el-faisal-is-jailed-for-nine-years-for-urging-islamists-to-kill-non-believers-americans-hindus-and-jews.json)  [XML](/news/2003/03/6/britain-abdullah-el-faisal-is-jailed-for-nine-years-for-urging-islamists-to-kill-non-believers-americans-hindus-and-jews.xml)  
+
 ### [2003-03-6](/news/2003/03/6/index.md)
 
+##### Abdullah el-Faisal
 #  Britain: Abdullah el-Faisal is jailed for nine years for urging Islamists to kill non-believers, Americans, Hindus and Jews.
 
 

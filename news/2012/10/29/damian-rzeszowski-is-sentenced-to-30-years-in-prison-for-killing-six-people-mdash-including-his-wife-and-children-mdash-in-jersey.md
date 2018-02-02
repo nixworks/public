@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/29/damian-rzeszowski-is-sentenced-to-30-years-in-prison-for-killing-six-people-mdash-including-his-wife-and-children-mdash-in-jersey.html)  [JSON](/news/2012/10/29/damian-rzeszowski-is-sentenced-to-30-years-in-prison-for-killing-six-people-mdash-including-his-wife-and-children-mdash-in-jersey.json)  [XML](/news/2012/10/29/damian-rzeszowski-is-sentenced-to-30-years-in-prison-for-killing-six-people-mdash-including-his-wife-and-children-mdash-in-jersey.xml)  
+
 ### [2012-10-29](/news/2012/10/29/index.md)
 
+##### Damian Rzeszowski
 # Damian Rzeszowski is sentenced to 30 years in prison for killing six people&mdash;including his wife and children&mdash;in Jersey. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-jersey-20123158)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/62456000/jpg/_62456413_damian.jpg)

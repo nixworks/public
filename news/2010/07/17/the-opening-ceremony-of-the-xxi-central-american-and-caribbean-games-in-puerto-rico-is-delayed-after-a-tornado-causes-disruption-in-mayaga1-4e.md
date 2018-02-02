@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/17/the-opening-ceremony-of-the-xxi-central-american-and-caribbean-games-in-puerto-rico-is-delayed-after-a-tornado-causes-disruption-in-mayaga1-4e.html)  [JSON](/news/2010/07/17/the-opening-ceremony-of-the-xxi-central-american-and-caribbean-games-in-puerto-rico-is-delayed-after-a-tornado-causes-disruption-in-mayaga1-4e.json)  [XML](/news/2010/07/17/the-opening-ceremony-of-the-xxi-central-american-and-caribbean-games-in-puerto-rico-is-delayed-after-a-tornado-causes-disruption-in-mayaga1-4e.xml)  
+
 ### [2010-07-17](/news/2010/07/17/index.md)
 
+##### XXI
 # The opening ceremony of the XXI Central American and Caribbean Games in Puerto Rico is delayed after a tornado causes disruption in Mayaguez. 
 
 A tornado hits the venue for the Central American and Caribbean games in Puerto Rico, delaying the opening ceremony.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10674793)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

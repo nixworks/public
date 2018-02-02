@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/6/japan-renews-a-territorial-claim-over-liancourt-rocks-takeshima-dokdo-which-south-korea-also-claims-to-be-part-of-its-territory.html)  [JSON](/news/2012/04/6/japan-renews-a-territorial-claim-over-liancourt-rocks-takeshima-dokdo-which-south-korea-also-claims-to-be-part-of-its-territory.json)  [XML](/news/2012/04/6/japan-renews-a-territorial-claim-over-liancourt-rocks-takeshima-dokdo-which-south-korea-also-claims-to-be-part-of-its-territory.xml)  
+
 ### [2012-04-6](/news/2012/04/6/index.md)
 
+##### Japan
 # Japan renews a territorial claim over Liancourt Rocks (Takeshima-Dokdo), which South Korea also claims to be part of its territory. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/national/2012/04/06/99/0301000000AEN20120406002351315F.HTML)
 1. [Cover Image]({YNA_TAG_RELATION_IMAGE})

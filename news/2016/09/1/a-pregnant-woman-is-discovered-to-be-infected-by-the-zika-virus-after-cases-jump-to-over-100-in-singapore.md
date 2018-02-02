@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/1/a-pregnant-woman-is-discovered-to-be-infected-by
 
 ### [2016-09-1](/news/2016/09/1/index.md)
 
+##### 2015-16 Zika virus epidemic
 # A pregnant woman is discovered to be infected by the Zika virus after cases jump to over 100 in Singapore. 
 
 Singapore, a city-state about two-thirds the size of Washington, D.C., has 115 confirmed cases of the viral infection spread by local mosquitoes.

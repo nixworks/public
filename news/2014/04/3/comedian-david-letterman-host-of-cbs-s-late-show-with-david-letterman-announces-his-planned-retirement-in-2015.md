@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/3/comedian-david-letterman-host-of-cbs-s-late-show-with-david-letterman-announces-his-planned-retirement-in-2015.html)  [JSON](/news/2014/04/3/comedian-david-letterman-host-of-cbs-s-late-show-with-david-letterman-announces-his-planned-retirement-in-2015.json)  [XML](/news/2014/04/3/comedian-david-letterman-host-of-cbs-s-late-show-with-david-letterman-announces-his-planned-retirement-in-2015.xml)  
+
 ### [2014-04-3](/news/2014/04/3/index.md)
 
+##### David Letterman
 # Comedian David Letterman, host of CBS's "Late Show with David Letterman", announces his planned retirement in 2015. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS](http://www.cbsnews.com/news/david-letterman-makes-big-announcement/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/04/03/1ac29aa8-1359-453c-8ea1-8273ab5f0392/letterman4.jpg)

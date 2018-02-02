@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/4/united-technologies-corp-will-buy-airplane-parts
 
 ### [2017-09-4](/news/2017/09/4/index.md)
 
+##### Economy of the United States
 # United Technologies Corp will buy airplane parts maker Rockwell Collins for USD$30 Billion, including seven billion in debt previously incurred by Rockwell Collins. 
 
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/10/british-airways-and-air-france-simultaneously-announce-that-they-will-retire-the-supersonic-concorde-aircraft-passenger-numbers-had-never.html)  [JSON](/news/2003/04/10/british-airways-and-air-france-simultaneously-announce-that-they-will-retire-the-supersonic-concorde-aircraft-passenger-numbers-had-never.json)  [XML](/news/2003/04/10/british-airways-and-air-france-simultaneously-announce-that-they-will-retire-the-supersonic-concorde-aircraft-passenger-numbers-had-never.xml)  
+
 ### [2003-04-10](/news/2003/04/10/index.md)
 
+##### British Airways
 #  British Airways and Air France simultaneously announce that they will retire the supersonic Concorde aircraft. Passenger numbers had never recovered following a crash that killed 113 in 2000. In response, Sir Richard Branson offers to buy British Airways' Concordes for GBP1 for the use of his Virgin Atlantic Airlines. BA dismisses the offer as a stunt and indicates that the planes will go to air museums.
 
 

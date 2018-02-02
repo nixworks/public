@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/11/the-government-of-bolivia-annuls-a-new-coca-production-law-which-cut-the-number-of-leaves-growers-could-sell-following-widespread-protests.html)  [JSON](/news/2010/10/11/the-government-of-bolivia-annuls-a-new-coca-production-law-which-cut-the-number-of-leaves-growers-could-sell-following-widespread-protests.json)  [XML](/news/2010/10/11/the-government-of-bolivia-annuls-a-new-coca-production-law-which-cut-the-number-of-leaves-growers-could-sell-following-widespread-protests.xml)  
+
 ### [2010-10-11](/news/2010/10/11/index.md)
 
+##### Government of Bolivia
 # The government of Bolivia annuls a new coca production law which cut the number of leaves growers could sell following widespread protests. 
 
 The Bolivian government says it has annulled a new coca production law which cut by two-thirds the number of coca leaves which growers could sell.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11519970)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

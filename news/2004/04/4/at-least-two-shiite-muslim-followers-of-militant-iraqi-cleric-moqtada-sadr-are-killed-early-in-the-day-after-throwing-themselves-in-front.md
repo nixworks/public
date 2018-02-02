@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/4/at-least-two-shiite-muslim-followers-of-militant-iraqi-cleric-moqtada-sadr-are-killed-early-in-the-day-after-throwing-themselves-in-front.html)  [JSON](/news/2004/04/4/at-least-two-shiite-muslim-followers-of-militant-iraqi-cleric-moqtada-sadr-are-killed-early-in-the-day-after-throwing-themselves-in-front.json)  [XML](/news/2004/04/4/at-least-two-shiite-muslim-followers-of-militant-iraqi-cleric-moqtada-sadr-are-killed-early-in-the-day-after-throwing-themselves-in-front.xml)  
+
 ### [2004-04-4](/news/2004/04/4/index.md)
 
+##### Shiite
 #  At least two Shiite Muslim followers of militant Iraqi cleric, Moqtada Sadr, are killed early in the day after throwing themselves in front of United States tanks during a demonstration in Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.abc.net.au/news/newsitems/s1080574.htm)
 2. [Al Jazeera](http://english.aljazeera.net/NR/exeres/1E587A95-A4F5-4528-9E4D-CFDC40419FDC.htm)

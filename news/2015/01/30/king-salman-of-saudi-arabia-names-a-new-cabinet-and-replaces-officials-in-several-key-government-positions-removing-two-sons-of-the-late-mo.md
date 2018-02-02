@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/30/king-salman-of-saudi-arabia-names-a-new-cabinet-and-replaces-officials-in-several-key-government-positions-removing-two-sons-of-the-late-mo.html)  [JSON](/news/2015/01/30/king-salman-of-saudi-arabia-names-a-new-cabinet-and-replaces-officials-in-several-key-government-positions-removing-two-sons-of-the-late-mo.json)  [XML](/news/2015/01/30/king-salman-of-saudi-arabia-names-a-new-cabinet-and-replaces-officials-in-several-key-government-positions-removing-two-sons-of-the-late-mo.xml)  
+
 ### [2015-01-30](/news/2015/01/30/index.md)
 
+##### King
 # King Salman of Saudi Arabia names a new cabinet and replaces officials in several key government positions, removing two sons of the late monarch Abdullah from their regional governorships in the process. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Ahram Online](http://english.ahram.org.eg/NewsContent/2/8/121751/World/Region/New-Saudi-king-announces-major-government-shakeup-.aspx)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/24/ethiopian-prime-minister-meles-zenawi-accuses-the-government-of-eritrea-of-jeopardizing-regional-stability-by-engaging-in-a-proxy-war-throu.html)  [JSON](/news/2006/10/24/ethiopian-prime-minister-meles-zenawi-accuses-the-government-of-eritrea-of-jeopardizing-regional-stability-by-engaging-in-a-proxy-war-throu.json)  [XML](/news/2006/10/24/ethiopian-prime-minister-meles-zenawi-accuses-the-government-of-eritrea-of-jeopardizing-regional-stability-by-engaging-in-a-proxy-war-throu.xml)  
+
 ### [2006-10-24](/news/2006/10/24/index.md)
 
+##### Ethiopian Prime Minister
 #  Ethiopian Prime Minister Meles Zenawi accuses the Government of Eritrea of jeopardizing regional stability by engaging in a proxy war through its assistance to the Islamic Courts Union in Somalia. Zenawi warns the Ethiopian Parliament that "Jihadists are amassing their forces near our borders.
 
 
 
 
-### Source:
+### Sources:
 
 1. [allAfrica](http://allafrica.com/stories/200610230046.html)
 

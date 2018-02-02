@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/4/at-least-eleven-people-are-killed-in-a-suicide-bombing-attack-in-a-crowded-market-in-pakistan-s-bajaur-agency.html)  [JSON](/news/2012/05/4/at-least-eleven-people-are-killed-in-a-suicide-bombing-attack-in-a-crowded-market-in-pakistan-s-bajaur-agency.json)  [XML](/news/2012/05/4/at-least-eleven-people-are-killed-in-a-suicide-bombing-attack-in-a-crowded-market-in-pakistan-s-bajaur-agency.xml)  
+
 ### [2012-05-4](/news/2012/05/4/index.md)
 
+##### suicide bomb
 # At least eleven people are killed in a suicide bombing attack in a crowded market in Pakistan's Bajaur Agency. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via MSNBC](http://www.msnbc.msn.com/id/47290078#.T6NeKOu85o8)
 2. [Xinhua](http://news.xinhuanet.com/english/world/2012-05/04/c_131568246.htm)

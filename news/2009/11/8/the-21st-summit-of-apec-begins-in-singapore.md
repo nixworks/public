@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/8/the-21st-summit-of-apec-begins-in-singapore.html)  [JSON](/news/2009/11/8/the-21st-summit-of-apec-begins-in-singapore.json)  [XML](/news/2009/11/8/the-21st-summit-of-apec-begins-in-singapore.xml)  
+
 ### [2009-11-8](/news/2009/11/8/index.md)
 
+##### 21st summit
 #  The 21st summit of APEC begins in Singapore. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/singaporelocalnews/view/1016743/1/.html)
 2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_452003.html)

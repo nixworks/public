@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/06/9/kurdish-leaders-in-iraq-state-that-the-kurds-would-refrain-from-participating-in-the-central-government-should-the-interim-constitution-b.html)  [JSON](/news/2004/06/9/kurdish-leaders-in-iraq-state-that-the-kurds-would-refrain-from-participating-in-the-central-government-should-the-interim-constitution-b.json)  [XML](/news/2004/06/9/kurdish-leaders-in-iraq-state-that-the-kurds-would-refrain-from-participating-in-the-central-government-should-the-interim-constitution-b.xml)  
+
 ### [2004-06-9](/news/2004/06/9/index.md)
 
+##### Kurd
 #  Kurdish leaders in Iraq state that the Kurds would "refrain from participating in the central government" should the interim constitution be modified or replaced with a constitution that diminishes Kurdish political role in the central government. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/2004/06/09/international/middleeast/09KURD.html?hp)
-1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+1. [NYT](https://www.nytimes.com/2004/06/09/international/middleeast/09KURD.html?hp)
 
 ### Related:
 

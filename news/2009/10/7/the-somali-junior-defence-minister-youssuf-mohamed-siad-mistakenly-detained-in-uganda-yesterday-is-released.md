@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/7/the-somali-junior-defence-minister-youssuf-mohamed-siad-mistakenly-detained-in-uganda-yesterday-is-released.html)  [JSON](/news/2009/10/7/the-somali-junior-defence-minister-youssuf-mohamed-siad-mistakenly-detained-in-uganda-yesterday-is-released.json)  [XML](/news/2009/10/7/the-somali-junior-defence-minister-youssuf-mohamed-siad-mistakenly-detained-in-uganda-yesterday-is-released.xml)  
+
 ### [2009-10-7](/news/2009/10/7/index.md)
 
+##### Somalia
 #  The Somali junior Defence Minister Youssuf Mohamed Siad, mistakenly detained in Uganda yesterday, is released. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jWu96xWZ3g7YBOMqDezMBBxK1nOA)
 2. [Daily Monitor](http://www.monitor.co.ug/artman/publish/news/Uganda_to_free_Somali_deputy_defense_minister_92531.shtml)

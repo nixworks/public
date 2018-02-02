@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/10/hundreds-of-thousands-of-children-are-potentially-fingerprinted-in-the-uk-some-as-young-as-five-years-old-and-without-parental-consent.html)  [JSON](/news/2006/07/10/hundreds-of-thousands-of-children-are-potentially-fingerprinted-in-the-uk-some-as-young-as-five-years-old-and-without-parental-consent.json)  [XML](/news/2006/07/10/hundreds-of-thousands-of-children-are-potentially-fingerprinted-in-the-uk-some-as-young-as-five-years-old-and-without-parental-consent.xml)  
+
 ### [2006-07-10](/news/2006/07/10/index.md)
 
+##### UK
 #  Hundreds of thousands of children are potentially fingerprinted in the UK, some as young as five years old and without parental consent. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IndyMedia](http://www.indymedia.org.uk/en/2006/07/344228.html)
 2. [Mirror](http://www.mirror.co.uk/news/tm_objectid=17324161&method=full&siteid=94762&headline=fingerprint-scandal-of-700-000-kids--name_page.html)

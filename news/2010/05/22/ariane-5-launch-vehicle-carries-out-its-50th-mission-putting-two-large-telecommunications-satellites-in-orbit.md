@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/22/ariane-5-launch-vehicle-carries-out-its-50th-mission-putting-two-large-telecommunications-satellites-in-orbit.html)  [JSON](/news/2010/05/22/ariane-5-launch-vehicle-carries-out-its-50th-mission-putting-two-large-telecommunications-satellites-in-orbit.json)  [XML](/news/2010/05/22/ariane-5-launch-vehicle-carries-out-its-50th-mission-putting-two-large-telecommunications-satellites-in-orbit.xml)  
+
 ### [2010-05-22](/news/2010/05/22/index.md)
 
+##### Ariane 5
 # "Ariane 5" launch vehicle carries out its 50th mission, putting two large telecommunications satellites in orbit. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science_and_environment/10140470.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

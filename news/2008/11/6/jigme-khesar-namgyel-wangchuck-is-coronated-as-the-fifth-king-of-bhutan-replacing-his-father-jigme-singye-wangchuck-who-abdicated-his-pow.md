@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/6/jigme-khesar-namgyel-wangchuck-is-coronated-as-the-fifth-king-of-bhutan-replacing-his-father-jigme-singye-wangchuck-who-abdicated-his-pow.html)  [JSON](/news/2008/11/6/jigme-khesar-namgyel-wangchuck-is-coronated-as-the-fifth-king-of-bhutan-replacing-his-father-jigme-singye-wangchuck-who-abdicated-his-pow.json)  [XML](/news/2008/11/6/jigme-khesar-namgyel-wangchuck-is-coronated-as-the-fifth-king-of-bhutan-replacing-his-father-jigme-singye-wangchuck-who-abdicated-his-pow.xml)  
+
 ### [2008-11-6](/news/2008/11/6/index.md)
 
+##### Jigme Khesar Namgyel Wangchuck
 #  Jigme Khesar Namgyel Wangchuck is coronated as the fifth King of Bhutan, replacing his father Jigme Singye Wangchuck, who abdicated his power, making him the world's youngest monarch. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7712301.stm)
 

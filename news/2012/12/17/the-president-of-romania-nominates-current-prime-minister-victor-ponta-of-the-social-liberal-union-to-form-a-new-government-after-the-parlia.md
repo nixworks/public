@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/17/the-president-of-romania-nominates-current-prime-minister-victor-ponta-of-the-social-liberal-union-to-form-a-new-government-after-the-parlia.html)  [JSON](/news/2012/12/17/the-president-of-romania-nominates-current-prime-minister-victor-ponta-of-the-social-liberal-union-to-form-a-new-government-after-the-parlia.json)  [XML](/news/2012/12/17/the-president-of-romania-nominates-current-prime-minister-victor-ponta-of-the-social-liberal-union-to-form-a-new-government-after-the-parlia.xml)  
+
 ### [2012-12-17](/news/2012/12/17/index.md)
 
+##### President
 # The President of Romania nominates current Prime Minister Victor Ponta of the Social Liberal Union to form a new government after the parliamentary election held earlier this month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Cotidianul](http://www.cotidianul.ro/victor-ponta-desemnat-premier-202359/)
 1. [Cover Image](http://mediacotiv1.freenode.ro/images/stiri/1212/135574279324543.jpg)

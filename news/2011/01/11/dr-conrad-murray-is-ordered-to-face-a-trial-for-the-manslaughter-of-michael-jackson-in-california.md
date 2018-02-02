@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/11/dr-conrad-murray-is-ordered-to-face-a-trial-for-the-manslaughter-of-michael-jackson-in-california.html)  [JSON](/news/2011/01/11/dr-conrad-murray-is-ordered-to-face-a-trial-for-the-manslaughter-of-michael-jackson-in-california.json)  [XML](/news/2011/01/11/dr-conrad-murray-is-ordered-to-face-a-trial-for-the-manslaughter-of-michael-jackson-in-california.xml)  
+
 ### [2011-01-11](/news/2011/01/11/index.md)
 
+##### Conrad Murray
 # Dr Conrad Murray is ordered to face a trial for the manslaughter of Michael Jackson in California. 
 
 Dr. Conrad Murray was just ordered to stand trial in the death of Michael Jackson.Judge Michael Pastor ruled there is sufficient evidence to warrant a&hellip;
 
 
-### Source:
+### Sources:
 
 1. [TMZ](http://www.tmz.com/2011/01/11/dr-conrad-murray-ordered-stand-trial-michael-jackson-manslaughter-case-propofol-preliminary-hearing-witnesses-medical-board/)
 

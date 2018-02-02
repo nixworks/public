@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/15/a-contract-between-the-north-american-automaker-chrysler-and-the-united-auto-workers-expires-at-midnight-while-negotiations-continue-between.html)  [JSON](/news/2011/09/15/a-contract-between-the-north-american-automaker-chrysler-and-the-united-auto-workers-expires-at-midnight-while-negotiations-continue-between.json)  [XML](/news/2011/09/15/a-contract-between-the-north-american-automaker-chrysler-and-the-united-auto-workers-expires-at-midnight-while-negotiations-continue-between.xml)  
+
 ### [2011-09-15](/news/2011/09/15/index.md)
 
+##### North America
 # A contract between the North American automaker Chrysler and the United Auto Workers expires at midnight while negotiations continue between the union and General Motors. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Detroit Free Press](http://www.freep.com/article/20110914/BUSINESS0104/110914015/Chrysler-offers-contract-extension-UAW-GM-still-negotiating)
 

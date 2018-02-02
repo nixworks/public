@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/02/17/south-korean-company-samsung-electronics-says-that-they-have-56-billion-in-cash-and-plan-to-use-some-of-it-for-mergers-and-acquisitions.html)  [JSON](/news/2015/02/17/south-korean-company-samsung-electronics-says-that-they-have-56-billion-in-cash-and-plan-to-use-some-of-it-for-mergers-and-acquisitions.json)  [XML](/news/2015/02/17/south-korean-company-samsung-electronics-says-that-they-have-56-billion-in-cash-and-plan-to-use-some-of-it-for-mergers-and-acquisitions.xml)  
+
 ### [2015-02-17](/news/2015/02/17/index.md)
 
+##### South Korea
 # South Korean company Samsung Electronics says that they have $56 billion in cash and plan to use some of it for mergers and acquisitions. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/02/17/us-samsung-elec-cash-idUSKBN0LL08020150217)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150217&t=2&i=1025674202&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB1G03F)
+1. [Reuters](https://www.reuters.com/article/2015/02/17/us-samsung-elec-cash-idUSKBN0LL08020150217)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20150217&t=2&i=1025674202&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB1G03F)
 
 ### Related:
 

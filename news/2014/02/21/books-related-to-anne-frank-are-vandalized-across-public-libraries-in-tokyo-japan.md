@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2014/02/21/books-related-to-anne-frank-are-vandalized-across-public-libraries-in-tokyo-japan.html)  [JSON](/news/2014/02/21/books-related-to-anne-frank-are-vandalized-across-public-libraries-in-tokyo-japan.json)  [XML](/news/2014/02/21/books-related-to-anne-frank-are-vandalized-across-public-libraries-in-tokyo-japan.xml)  
+
 ### [2014-02-21](/news/2014/02/21/index.md)
 
+##### Anne Frank
 # Books related to Anne Frank are vandalized across public libraries in Tokyo, Japan. 
 
+Japan promised to begin an investigation into the mutilation of hundreds of copies of Anne Frank’s diary and other books related to her at public libraries across Tokyo.
 
 
+### Sources:
 
-### Source:
-
-1. [The New York Times](http://www.nytimes.com/2014/02/22/world/asia/diary-of-anne-frank-vandalized-at-japanese-libraries.html?_r=0)
+1. [The New York Times](https://www.nytimes.com/2014/02/22/world/asia/diary-of-anne-frank-vandalized-at-japanese-libraries.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2014/02/22/world/japan/japan-videoSixteenByNine1050.jpg)
 
 ### Related:
 

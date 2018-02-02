@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/04/6/tokyo-electric-power-company-says-that-it-is-moving-tons-of-highly-radioactive-water-from-a-temporary-storage-tank-to-another-after-detectin.html)  [JSON](/news/2013/04/6/tokyo-electric-power-company-says-that-it-is-moving-tons-of-highly-radioactive-water-from-a-temporary-storage-tank-to-another-after-detectin.json)  [XML](/news/2013/04/6/tokyo-electric-power-company-says-that-it-is-moving-tons-of-highly-radioactive-water-from-a-temporary-storage-tank-to-another-after-detectin.xml)  
+
 ### [2013-04-6](/news/2013/04/6/index.md)
 
+##### Tokyo Electric Power Company
 # Tokyo Electric Power Company says that it is moving tons of highly radioactive water from a temporary storage tank to another after detecting signs of leakage at the Fukushima Daiichi Nuclear Power Plant in Futaba District of Fukushima Prefecture, Japan. 
 
-About 120 tons of the water are believed to have breached a storage tank&#39;s inner linings.
 
 
-### Source:
 
-1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2013/04/06/japan-nuclear-radioactive-water/2058513/)
+### Sources:
+
+1. [AP via ''USA Today](https://www.usatoday.com/story/news/world/2013/04/06/japan-nuclear-radioactive-water/2058513/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

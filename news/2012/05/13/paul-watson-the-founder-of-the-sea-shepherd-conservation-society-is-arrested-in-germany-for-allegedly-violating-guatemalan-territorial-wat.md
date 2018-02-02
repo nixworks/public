@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2012/05/13/paul-watson-the-founder-of-the-sea-shepherd-conservation-society-is-arrested-in-germany-for-allegedly-violating-guatemalan-territorial-wat.html)  [JSON](/news/2012/05/13/paul-watson-the-founder-of-the-sea-shepherd-conservation-society-is-arrested-in-germany-for-allegedly-violating-guatemalan-territorial-wat.json)  [XML](/news/2012/05/13/paul-watson-the-founder-of-the-sea-shepherd-conservation-society-is-arrested-in-germany-for-allegedly-violating-guatemalan-territorial-wat.xml)  
+
 ### [2012-05-13](/news/2012/05/13/index.md)
 
+##### Paul Watson
 # Paul Watson, the founder of the Sea Shepherd Conservation Society, is arrested in Germany for allegedly violating Guatemalan territorial waters in 2002. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/news/nation/eco-warrior-sea-shepherd-founder-paul-watson-faces-charges-in-germany/story-e6frg6nf-1226354610320)
 
 ### Related:
 
-1. [Police in Chimaltenango, Guatemala capture ngel Gabriel Reyes Marroquin, a leader of the notorious Mara Salvatrucha, or MS-13, street gang. Prosecutors say he is connected to the deaths of at least 287 people. In 2014 Reyes escaped while facing charges including murder from a maximum security prison. Currently, he was also wanted for an August 17 armed attack on Roosevelt Hospital in Guatemala City in which seven people were shot dead. ](/news/2017/10/13/police-in-chimaltenango-guatemala-capture-angel-gabriel-reyes-marroquin-a-leader-of-the-notorious-mara-salvatrucha-or-ms-13-street-gang.md) _Context: Guatemala_
-2. [The European X-ray free-electron laser is inaugurated in Hamburg, Germany. ](/news/2017/09/3/the-european-x-ray-free-electron-laser-is-inaugurated-in-hamburg-germany.md) _Context: Germany_
-3. [Large portions of Frankfurt, Germany, are evacuated as local authorities work to defuse a bomb left over from a Royal Air Force raid during World War II. The evacuation is the largest to occur in Europe since World War II. ](/news/2017/09/3/large-portions-of-frankfurt-germany-are-evacuated-as-local-authorities-work-to-defuse-a-bomb-left-over-from-a-royal-air-force-raid-during.md) _Context: Germany_
-4. [Voters in Germany go to the polls to elect members of the Bundestag. Chancellor Angela Merkel of the Christian Democratic Union is widely expected to win a fourth term in office. ](/news/2017/09/24/voters-in-germany-go-to-the-polls-to-elect-members-of-the-bundestag-chancellor-angela-merkel-of-the-christian-democratic-union-is-widely-ex.md) _Context: Germany_
-5. [The Venerable Rev. Father Stanley Rother, a priest of the Roman Catholic Archdiocese of Oklahoma City (born in Okarche, Oklahoma), is beatified at the Cox Convention Center in Oklahoma City by Cardinal Angelo Amato, head of the sainthood Congregation in the Roman Curia and Pope Francis's delegate. Rother, who became a missionary, was assassinated in July 1981 in the poor rural village of Santiago Atitlan, Guatemala, and is the first Catholic martyr born a citizen of the United States. ](/news/2017/09/23/the-venerable-rev-father-stanley-rother-a-priest-of-the-roman-catholic-archdiocese-of-oklahoma-city-born-in-okarche-oklahoma-is-beatif.md) _Context: Guatemala_
+1. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: German_
+2. [British, American and German men are among a group of international volunteers who travelled to Afrin to fight against Turkish-led forces in north-west Syria. ](/news/2018/01/24/british-american-and-german-men-are-among-a-group-of-international-volunteers-who-travelled-to-afrin-to-fight-against-turkish-led-forces-in.md) _Context: German_
+3. [A helicopter and a light aircraft collide mid-air close to the Philippsburg Nuclear Power Plant in Germany, killing four people. ](/news/2018/01/23/a-helicopter-and-a-light-aircraft-collide-mid-air-close-to-the-philippsburg-nuclear-power-plant-in-germany-killing-four-people.md) _Context: German_
+4. [German nurse and convicted serial killer Niels Hogel is charged with 97 further counts of murder. ](/news/2018/01/22/german-nurse-and-convicted-serial-killer-niels-hapgel-is-charged-with-97-further-counts-of-murder.md) _Context: German_
+5. [Nine prisoners have escaped from a Berlin, Germany prison over the last five days, with two escaping today. ](/news/2018/01/2/nine-prisoners-have-escaped-from-a-berlin-germany-prison-over-the-last-five-days-with-two-escaping-today.md) _Context: German_

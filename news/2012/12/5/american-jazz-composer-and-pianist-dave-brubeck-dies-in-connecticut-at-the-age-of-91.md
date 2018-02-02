@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/5/american-jazz-composer-and-pianist-dave-brubeck-dies-in-connecticut-at-the-age-of-91.html)  [JSON](/news/2012/12/5/american-jazz-composer-and-pianist-dave-brubeck-dies-in-connecticut-at-the-age-of-91.json)  [XML](/news/2012/12/5/american-jazz-composer-and-pianist-dave-brubeck-dies-in-connecticut-at-the-age-of-91.xml)  
+
 ### [2012-12-5](/news/2012/12/5/index.md)
 
+##### American
 # American jazz composer and pianist Dave Brubeck dies in Connecticut at the age of 91. 
 
 Dave Brubeck, the US jazz pianist who recorded Take Five and toured with Duke Ellington, dies aged 91, his manager says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-20609327)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/64593000/jpg/_64593592_brubeck464alt_bbc.jpg)

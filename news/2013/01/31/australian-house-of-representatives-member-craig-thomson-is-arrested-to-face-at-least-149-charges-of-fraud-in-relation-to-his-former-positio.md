@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/31/australian-house-of-representatives-member-craig-thomson-is-arrested-to-face-at-least-149-charges-of-fraud-in-relation-to-his-former-positio.html)  [JSON](/news/2013/01/31/australian-house-of-representatives-member-craig-thomson-is-arrested-to-face-at-least-149-charges-of-fraud-in-relation-to-his-former-positio.json)  [XML](/news/2013/01/31/australian-house-of-representatives-member-craig-thomson-is-arrested-to-face-at-least-149-charges-of-fraud-in-relation-to-his-former-positio.xml)  
+
 ### [2013-01-31](/news/2013/01/31/index.md)
 
+##### Australia
 # Australian House of Representatives member Craig Thomson is arrested to face at least 149 charges of fraud in relation to his former position as National Secretary of the Health Services Union. 
 
 Craig Thomson vows to vigorously defend himself against 150 fraud charges after being arrested yesterday.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-01-31/craig-thomson-arrested/4493722)
 1. [Cover Image](http://www.abc.net.au/news/image/4494200-1x1-700x700.jpg)
@@ -15,5 +19,5 @@ Craig Thomson vows to vigorously defend himself against 150 fraud charges after 
 1. [Former Australian parliamentarian Craig Thomson is found guilty of theft and fraud during his time as national secretary of the Health Services Union. ](/news/2014/02/18/former-australian-parliamentarian-craig-thomson-is-found-guilty-of-theft-and-fraud-during-his-time-as-national-secretary-of-the-health-servi.md) _Context: Craig Thomson, Health Services Union_
 2. [The Health Services Union disaffiliates from the Australian Labor Party in the states of New South Wales and Victoria and the Australian Capital Territory, following the commencement of a New South Wales Police Force investigation into alleged "inappropriate practices" by current and former union officials, including Craig Thomson, a member of the House of Representatives. ](/news/2011/09/16/the-health-services-union-disaffiliates-from-the-australian-labor-party-in-the-states-of-new-south-wales-and-victoria-and-the-australian-cap.md) _Context: Craig Thomson, Health Services Union_
 3. [ In Australia, a Queensland government inquiry states that medical doctor Jayant Patel should be charged with murder, fraud, negligence and medical malpractice due to the death of 87 of his patients. Jayant Patel has left the country and his current location is unknown. ](/news/2005/06/10/in-australia-a-queensland-government-inquiry-states-that-medical-doctor-jayant-patel-should-be-charged-with-murder-fraud-negligence-and.md) _Context: Australia, fraud_
-4. [Last year a hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware after breaching the network of a defense contractor. ](/news/2017/10/11/last-year-a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-after-breac.md) _Context: Australia_
-5. [Australia and East Timor settle a dispute between the two countries in the Timor Sea. ](/news/2017/09/2/australia-and-east-timor-settle-a-dispute-between-the-two-countries-in-the-timor-sea.md) _Context: Australia_
+4. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Australia_
+5. [In a world's first, a drone rescues two swimmers off the coast of Lennox Head, New South Wales in Australia by dropping a safety device to them. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. ](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-swimmers-off-the-coast-of-lennox-head-new-south-wales-in-australia-by-dropping-a-safety-device-to-t.md) _Context: Australia_

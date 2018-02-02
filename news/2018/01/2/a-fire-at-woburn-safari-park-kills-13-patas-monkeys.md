@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/2/a-fire-at-woburn-safari-park-kills-13-patas-monk
 
 ### [2018-01-2](/news/2018/01/2/index.md)
 
+##### Woburn Safari Park fire
 # A fire at Woburn Safari Park kills 13 patas monkeys. 
 
 Park will remain open except for affected enclosure while cause of blaze is investigated

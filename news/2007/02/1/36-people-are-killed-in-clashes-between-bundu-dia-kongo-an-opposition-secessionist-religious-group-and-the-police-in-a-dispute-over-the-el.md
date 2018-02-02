@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/1/36-people-are-killed-in-clashes-between-bundu-dia-kongo-an-opposition-secessionist-religious-group-and-the-police-in-a-dispute-over-the-el.html)  [JSON](/news/2007/02/1/36-people-are-killed-in-clashes-between-bundu-dia-kongo-an-opposition-secessionist-religious-group-and-the-police-in-a-dispute-over-the-el.json)  [XML](/news/2007/02/1/36-people-are-killed-in-clashes-between-bundu-dia-kongo-an-opposition-secessionist-religious-group-and-the-police-in-a-dispute-over-the-el.xml)  
+
 ### [2007-02-1](/news/2007/02/1/index.md)
 
+##### Bundu dia Kongo
 #  36 people are killed in clashes between Bundu dia Kongo, an opposition secessionist religious group and the police in a dispute over the election of provincial governors. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6321083.stm)
 

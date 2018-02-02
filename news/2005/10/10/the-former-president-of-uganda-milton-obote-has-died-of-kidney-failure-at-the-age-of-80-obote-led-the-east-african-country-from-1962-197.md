@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/10/the-former-president-of-uganda-milton-obote-has-died-of-kidney-failure-at-the-age-of-80-obote-led-the-east-african-country-from-1962-197.html)  [JSON](/news/2005/10/10/the-former-president-of-uganda-milton-obote-has-died-of-kidney-failure-at-the-age-of-80-obote-led-the-east-african-country-from-1962-197.json)  [XML](/news/2005/10/10/the-former-president-of-uganda-milton-obote-has-died-of-kidney-failure-at-the-age-of-80-obote-led-the-east-african-country-from-1962-197.xml)  
+
 ### [2005-10-10](/news/2005/10/10/index.md)
 
+##### President
 #  The former President of Uganda, Milton Obote, has died of kidney failure at the age of 80. Obote led the East African country from 1962-1971 and again from 1980-1985. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4328834.stm)
 

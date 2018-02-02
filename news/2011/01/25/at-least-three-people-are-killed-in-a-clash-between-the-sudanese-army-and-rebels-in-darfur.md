@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/25/at-least-three-people-are-killed-in-a-clash-between-the-sudanese-army-and-rebels-in-darfur.html)  [JSON](/news/2011/01/25/at-least-three-people-are-killed-in-a-clash-between-the-sudanese-army-and-rebels-in-darfur.json)  [XML](/news/2011/01/25/at-least-three-people-are-killed-in-a-clash-between-the-sudanese-army-and-rebels-in-darfur.xml)  
+
 ### [2011-01-25](/news/2011/01/25/index.md)
 
+##### Sudan
 # At least three people are killed in a clash between the Sudanese army and rebels in Darfur. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE70O0HB20110125)
 

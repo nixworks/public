@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/22/russia-informs-lithuania-that-russia-is-stopping-military-co-operation-with-lithuania.html)  [JSON](/news/2008/08/22/russia-informs-lithuania-that-russia-is-stopping-military-co-operation-with-lithuania.json)  [XML](/news/2008/08/22/russia-informs-lithuania-that-russia-is-stopping-military-co-operation-with-lithuania.xml)  
+
 ### [2008-08-22](/news/2008/08/22/index.md)
 
+##### Russia
 #  Russia informs Lithuania that Russia is stopping military co-operation with Lithuania. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Delfi](http://ru.delfi.lt/archive/print.php?id=18241215)
 

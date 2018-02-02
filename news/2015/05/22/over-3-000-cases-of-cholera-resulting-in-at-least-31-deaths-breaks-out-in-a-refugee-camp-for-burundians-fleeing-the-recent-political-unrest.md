@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/22/over-3-000-cases-of-cholera-resulting-in-at-least-31-deaths-breaks-out-in-a-refugee-camp-for-burundians-fleeing-the-recent-political-unrest.html)  [JSON](/news/2015/05/22/over-3-000-cases-of-cholera-resulting-in-at-least-31-deaths-breaks-out-in-a-refugee-camp-for-burundians-fleeing-the-recent-political-unrest.json)  [XML](/news/2015/05/22/over-3-000-cases-of-cholera-resulting-in-at-least-31-deaths-breaks-out-in-a-refugee-camp-for-burundians-fleeing-the-recent-political-unrest.xml)  
+
 ### [2015-05-22](/news/2015/05/22/index.md)
 
+##### cholera
 # Over 3,000 cases of cholera resulting in at least 31 deaths breaks out in a refugee camp for Burundians fleeing the recent political unrest in their country. 
 
 At least 3,000 cases of cholera have been reported in Tanzania since last week and the outbreak has claimed 31 lives.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/05/burundi-refugees-cholera-epidemic-worsening-150522110614073.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/5/22/188cf85b83f543f9bc1966386745c1f5_18.jpg)

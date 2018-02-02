@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/05/15/french-prime-minister-dominique-de-villepin-resigns.html)  [JSON](/news/2007/05/15/french-prime-minister-dominique-de-villepin-resigns.json)  [XML](/news/2007/05/15/french-prime-minister-dominique-de-villepin-resigns.xml)  
+
 ### [2007-05-15](/news/2007/05/15/index.md)
 
+##### France
 #  French Prime Minister Dominique de Villepin resigns. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20070515.wvillepin0515/BNStory/International/?page=rss&id=RTGAM.20070515.wvillepin0515)
+1. [The Globe and Mail](https://www.theglobeandmail.com/servlet/story/RTGAM.20070515.wvillepin0515/BNStory/International/?page=rss&id=RTGAM.20070515.wvillepin0515)
 
 ### Related:
 

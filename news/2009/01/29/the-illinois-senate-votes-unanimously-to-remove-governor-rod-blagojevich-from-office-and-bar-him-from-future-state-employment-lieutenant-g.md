@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/29/the-illinois-senate-votes-unanimously-to-remove-governor-rod-blagojevich-from-office-and-bar-him-from-future-state-employment-lieutenant-g.html)  [JSON](/news/2009/01/29/the-illinois-senate-votes-unanimously-to-remove-governor-rod-blagojevich-from-office-and-bar-him-from-future-state-employment-lieutenant-g.json)  [XML](/news/2009/01/29/the-illinois-senate-votes-unanimously-to-remove-governor-rod-blagojevich-from-office-and-bar-him-from-future-state-employment-lieutenant-g.xml)  
+
 ### [2009-01-29](/news/2009/01/29/index.md)
 
+##### Illinois
 #  The Illinois Senate votes unanimously to remove Governor Rod Blagojevich from office and bar him from future state employment. Lieutenant Governor Pat Quinn is sworn in to finish Blagojevich's term. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Chicago Tribune](http://newsblogs.chicagotribune.com/clout_st/2009/01/blagojevich-to-give-impeachment-speech-in-a-few-hours.html)
 

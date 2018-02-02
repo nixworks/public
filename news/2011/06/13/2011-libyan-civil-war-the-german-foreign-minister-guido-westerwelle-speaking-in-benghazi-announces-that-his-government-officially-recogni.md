@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/13/2011-libyan-civil-war-the-german-foreign-minister-guido-westerwelle-speaking-in-benghazi-announces-that-his-government-officially-recogni.html)  [JSON](/news/2011/06/13/2011-libyan-civil-war-the-german-foreign-minister-guido-westerwelle-speaking-in-benghazi-announces-that-his-government-officially-recogni.json)  [XML](/news/2011/06/13/2011-libyan-civil-war-the-german-foreign-minister-guido-westerwelle-speaking-in-benghazi-announces-that-his-government-officially-recogni.xml)  
+
 ### [2011-06-13](/news/2011/06/13/index.md)
 
+##### civil war
 # 2011 Libyan civil war: The German foreign minister Guido Westerwelle, speaking in Benghazi, announces that his government officially recognises the country's rebels as "the legitimate representatives of the Libyan people". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13753422)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,15150852,00.html)
@@ -13,8 +17,8 @@
 
 ### Related:
 
-1. [2011 Libyan civil war:Hospitals in Benghazi are reported to be running low on vital supplies. ](/news/2011/06/28/2011-libyan-civil-war-hospitals-in-benghazi-are-reported-to-be-running-low-on-vital-supplies.md) _Context: Benghazi, Libyan Civil War_
-2. [Libyan Civil War:The International Committee of the Red Cross withdraws from the rebel held city of Benghazi, Libya, fearing an attack from forces loyal to Muammar Gaddafi. ](/news/2011/03/17/libyan-civil-war-the-international-committee-of-the-red-cross-withdraws-from-the-rebel-held-city-of-benghazi-libya-fearing-an-attack-from.md) _Context: Benghazi, Libyan Civil War_
-3. [Forces of the Libyan National Army claim to have captured one of the last remaining strongholds of Benghazi from Ansar al-Sharia. ](/news/2017/01/26/forces-of-the-libyan-national-army-claim-to-have-captured-one-of-the-last-remaining-strongholds-of-benghazi-from-ansar-al-sharia.md) _Context: Benghazi_
-4. [A car bomb in Benghazi kills three children and injures 20 others. ](/news/2016/11/21/a-car-bomb-in-benghazi-kills-three-children-and-injures-20-others.md) _Context: Benghazi_
-5. [A car bombing in the Al-Quwarsha area on the outskirts of Benghazi claims at least 23 lives. The Shura Council of Benghazi Revolutionaries says it is responsible. ](/news/2016/08/2/a-car-bombing-in-the-al-quwarsha-area-on-the-outskirts-of-benghazi-claims-at-least-23-lives-the-shura-council-of-benghazi-revolutionaries-s.md) _Context: Benghazi_
+1. [2011 Libyan civil war:Hospitals in Benghazi are reported to be running low on vital supplies. ](/news/2011/06/28/2011-libyan-civil-war-hospitals-in-benghazi-are-reported-to-be-running-low-on-vital-supplies.md) _Context: Benghazi, civil war_
+2. [A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials. ](/news/2018/01/23/a-double-car-bombing-in-benghazi-libya-kills-at-least-33-people-and-wounds-dozens-of-others-the-victims-include-both-military-personnel.md) _Context: Benghazi_
+3. [The Libyan National Army declares full control of Benghazi, the country's second largest city, after retaking the last district held by Islamist militants. ](/news/2017/12/28/the-libyan-national-army-declares-full-control-of-benghazi-the-country-s-second-largest-city-after-retaking-the-last-district-held-by-isla.md) _Context: Benghazi_
+4. [Forces of the Libyan National Army claim to have captured one of the last remaining strongholds of Benghazi from Ansar al-Sharia. ](/news/2017/01/26/forces-of-the-libyan-national-army-claim-to-have-captured-one-of-the-last-remaining-strongholds-of-benghazi-from-ansar-al-sharia.md) _Context: Benghazi_
+5. [A car bomb in Benghazi kills three children and injures 20 others. ](/news/2016/11/21/a-car-bomb-in-benghazi-kills-three-children-and-injures-20-others.md) _Context: Benghazi_

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/03/7/3-19-shooting-incident-police-in-taiwan-says-that-they-have-identified-the-man-who-shot-at-president-chen-shui-bian-last-year-wife-of-une.html)  [JSON](/news/2005/03/7/3-19-shooting-incident-police-in-taiwan-says-that-they-have-identified-the-man-who-shot-at-president-chen-shui-bian-last-year-wife-of-une.json)  [XML](/news/2005/03/7/3-19-shooting-incident-police-in-taiwan-says-that-they-have-identified-the-man-who-shot-at-president-chen-shui-bian-last-year-wife-of-une.xml)  
+
 ### [2005-03-7](/news/2005/03/7/index.md)
 
+##### 3-19 shooting incident
 #  3-19 shooting incident: Police in Taiwan says that they have identified the man who shot at president Chen Shui-bian last year. Wife of unemployed man "Chen Yi-hsiung" says he confessed and committed suicide a few days later 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4324583.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=a90g5k2eyjLg&refer=top_world_news)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000087&sid=a90g5k2eyjLg&refer=top_world_news)
 3. [CNA, Taiwan](http://english.www.gov.tw/index.jsp?action=cna&cnaid=7438)
 4. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/SP290324.htm)
 

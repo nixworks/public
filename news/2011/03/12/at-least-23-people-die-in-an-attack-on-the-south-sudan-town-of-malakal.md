@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/12/at-least-23-people-die-in-an-attack-on-the-south-sudan-town-of-malakal.html)  [JSON](/news/2011/03/12/at-least-23-people-die-in-an-attack-on-the-south-sudan-town-of-malakal.json)  [XML](/news/2011/03/12/at-least-23-people-die-in-an-attack-on-the-south-sudan-town-of-malakal.xml)  
+
 ### [2011-03-12](/news/2011/03/12/index.md)
 
+##### South Sudan
 # At least 23 people die in an attack on the South Sudan town of Malakal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Alert Net](http://www.trust.org/alertnet/news/attack-on-south-sudan-oil-town-kills-23--army)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/06/28/the-los-angeles-dodgers-become-only-the-fifth-team-in-modern-major-league-baseball-history-to-win-a-game-in-which-they-didn-t-get-a-hit-de.html)  [JSON](/news/2008/06/28/the-los-angeles-dodgers-become-only-the-fifth-team-in-modern-major-league-baseball-history-to-win-a-game-in-which-they-didn-t-get-a-hit-de.json)  [XML](/news/2008/06/28/the-los-angeles-dodgers-become-only-the-fifth-team-in-modern-major-league-baseball-history-to-win-a-game-in-which-they-didn-t-get-a-hit-de.xml)  
+
 ### [2008-06-28](/news/2008/06/28/index.md)
 
+##### Los Angeles Dodgers
 #  The Los Angeles Dodgers become only the fifth team in modern major league baseball history to win a game in which they didn't get a hit, defeating the Anaheim Angels 1-0. 
 
+All the latest Sports News, Scores, Fantasy Games.
 
 
+### Sources:
 
-### Source:
-
-1. [AP via Yahoo! Sports](http://sports.yahoo.com/mlb/recap;_ylt=Arvjke.ASFUabxBMUbsnqfY5nYcB?gid=280628119&prov=ap)
+1. [AP via Yahoo! Sports](https://sports.yahoo.com/mlb/recap;_ylt=Arvjke.ASFUabxBMUbsnqfY5nYcB?gid=280628119&prov=ap)
 
 ### Related:
 

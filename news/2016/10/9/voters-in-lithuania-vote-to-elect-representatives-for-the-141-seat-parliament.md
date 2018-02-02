@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/9/voters-in-lithuania-vote-to-elect-representative
 
 ### [2016-10-9](/news/2016/10/9/index.md)
 
+##### Lithuanian parliamentary election, 2016
 # Voters in Lithuania vote to elect representatives for the 141-seat parliament. 
 
 

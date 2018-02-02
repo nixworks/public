@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/2/sudan-frees-seven-political-prisoners-a-day-after-president-omar-al-bashir-orders-the-release-of-all-such-detainees.html)  [JSON](/news/2013/04/2/sudan-frees-seven-political-prisoners-a-day-after-president-omar-al-bashir-orders-the-release-of-all-such-detainees.json)  [XML](/news/2013/04/2/sudan-frees-seven-political-prisoners-a-day-after-president-omar-al-bashir-orders-the-release-of-all-such-detainees.xml)  
+
 ### [2013-04-2](/news/2013/04/2/index.md)
 
+##### Sudan
 # Sudan frees seven political prisoners, a day after President Omar al-Bashir orders the release of all such detainees. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2013/apr/02/sudan-free-political-prisoner-amnesty)
 

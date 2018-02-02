@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/10/11/the-bodies-of-12-chinese-sailors-have-been-found-and-one-remains-missing-in-mekong-river-where-thailand-laos-and-myanmar-meet-after-the-i.html)  [JSON](/news/2011/10/11/the-bodies-of-12-chinese-sailors-have-been-found-and-one-remains-missing-in-mekong-river-where-thailand-laos-and-myanmar-meet-after-the-i.json)  [XML](/news/2011/10/11/the-bodies-of-12-chinese-sailors-have-been-found-and-one-remains-missing-in-mekong-river-where-thailand-laos-and-myanmar-meet-after-the-i.xml)  
+
 ### [2011-10-11](/news/2011/10/11/index.md)
 
+##### Mekong River
 # The bodies of 12 Chinese sailors have been found and one remains missing in Mekong river, where Thailand, Laos and Myanmar meet, after the incident last week in which two Chinese cargo vessels were hijacked by suspected drug smugglers in the Golden Triangle, and later captured by Thai river police.
 
 Passenger and cargo traffic was halted after Thai border police heard gunfire, found two Chinese cargo vessels adrift with drugs and one body — and then 11 floating bodies.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2011/10/11/world/asia/china-suspends-boat-traffic-on-mekong.html)
+1. [The New York Times](https://www.nytimes.com/2011/10/11/world/asia/china-suspends-boat-traffic-on-mekong.html)
 2. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052970204450804576622800519874000.html)
 3. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-10/11/c_131185545.htm)
 3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)

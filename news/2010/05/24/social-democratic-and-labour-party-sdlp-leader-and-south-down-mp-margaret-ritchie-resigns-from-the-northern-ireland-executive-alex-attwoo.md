@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/24/social-democratic-and-labour-party-sdlp-leader-and-south-down-mp-margaret-ritchie-resigns-from-the-northern-ireland-executive-alex-attwoo.html)  [JSON](/news/2010/05/24/social-democratic-and-labour-party-sdlp-leader-and-south-down-mp-margaret-ritchie-resigns-from-the-northern-ireland-executive-alex-attwoo.json)  [XML](/news/2010/05/24/social-democratic-and-labour-party-sdlp-leader-and-south-down-mp-margaret-ritchie-resigns-from-the-northern-ireland-executive-alex-attwoo.xml)  
+
 ### [2010-05-24](/news/2010/05/24/index.md)
 
+##### Social Democratic and Labour Party
 # Social Democratic and Labour Party (SDLP) leader and South Down MP Margaret Ritchie resigns from the Northern Ireland Executive. Alex Attwood is the new Minister for Social Development. 
 
 The SDLP leader and South Down MP Margaret Ritchie has formally resigned from the Stormont Executive.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0524/ritchiem.html)
 1. [Cover Image](https://img.rasset.ie/00016621-1600.jpg)

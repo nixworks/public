@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/22/tunisia-s-prime-minister-mohamed-ghannouchi-promises-in-a-tv-interview-to-leave-politics-in-the-shortest-possible-timeframe-after-election.html)  [JSON](/news/2011/01/22/tunisia-s-prime-minister-mohamed-ghannouchi-promises-in-a-tv-interview-to-leave-politics-in-the-shortest-possible-timeframe-after-election.json)  [XML](/news/2011/01/22/tunisia-s-prime-minister-mohamed-ghannouchi-promises-in-a-tv-interview-to-leave-politics-in-the-shortest-possible-timeframe-after-election.xml)  
+
 ### [2011-01-22](/news/2011/01/22/index.md)
 
+##### Tunisia
 # Tunisia's prime minister Mohamed Ghannouchi promises in a TV interview to leave politics "in the shortest possible timeframe" after elections to be held following President Zine El Abidine Ben Ali's recent fall. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12257631)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

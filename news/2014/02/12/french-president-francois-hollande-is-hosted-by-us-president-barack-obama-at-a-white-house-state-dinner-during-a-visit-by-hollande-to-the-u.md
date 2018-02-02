@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/12/french-president-francois-hollande-is-hosted-by-us-president-barack-obama-at-a-white-house-state-dinner-during-a-visit-by-hollande-to-the-u.html)  [JSON](/news/2014/02/12/french-president-francois-hollande-is-hosted-by-us-president-barack-obama-at-a-white-house-state-dinner-during-a-visit-by-hollande-to-the-u.json)  [XML](/news/2014/02/12/french-president-francois-hollande-is-hosted-by-us-president-barack-obama-at-a-white-house-state-dinner-during-a-visit-by-hollande-to-the-u.xml)  
+
 ### [2014-02-12](/news/2014/02/12/index.md)
 
+##### French President
 # French President Franois Hollande is hosted by US President Barack Obama at a White House state dinner, during a visit by Hollande to the US aimed at renewing the partnership between the two countries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/02/11/politics/state-dinner/index.html?hpt=po_c1)
 

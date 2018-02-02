@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/22/chinese-artist-and-dissident-ai-weiwei-is-freed-on-bail-under-the-terms-of-his-bail-agreement-he-is-not-permitted-to-disclose-the-reason-f.html)  [JSON](/news/2011/06/22/chinese-artist-and-dissident-ai-weiwei-is-freed-on-bail-under-the-terms-of-his-bail-agreement-he-is-not-permitted-to-disclose-the-reason-f.json)  [XML](/news/2011/06/22/chinese-artist-and-dissident-ai-weiwei-is-freed-on-bail-under-the-terms-of-his-bail-agreement-he-is-not-permitted-to-disclose-the-reason-f.xml)  
+
 ### [2011-06-22](/news/2011/06/22/index.md)
 
+##### China
 # Chinese artist and dissident Ai Weiwei is freed on bail. Under the terms of his bail agreement, he is not permitted to disclose the reason for his arrest and detention. 
 
 Chinese artist and activist Ai Weiwei returns home &quot;in good health&quot; having been freed on bail after reportedly admitting to tax evasion charges.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/06/2011622155318767503.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13878859)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/8/the-prime-minister-of-australia-tony-abbott-and-the-prime-minister-of-japan-shinzo-abe-sign-a-free-trade-agreement-in-the-australian-capital.html)  [JSON](/news/2014/07/8/the-prime-minister-of-australia-tony-abbott-and-the-prime-minister-of-japan-shinzo-abe-sign-a-free-trade-agreement-in-the-australian-capital.json)  [XML](/news/2014/07/8/the-prime-minister-of-australia-tony-abbott-and-the-prime-minister-of-japan-shinzo-abe-sign-a-free-trade-agreement-in-the-australian-capital.xml)  
+
 ### [2014-07-8](/news/2014/07/8/index.md)
 
+##### Australian Prime Minister
 # The Prime Minister of Australia Tony Abbott and the Prime Minister of Japan Shinzo Abe sign a free trade agreement in the Australian capital Canberra. 
 
 Japan&#039;s PM Shinzo Abe says Australia and his nation are joined like players in a rugby scrum, in a speech to MPs.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-07-08/australia2c-japan-to-sign-economic-partnership-agreement/5580738)
 1. [Cover Image](http://www.abc.net.au/news/image/5581058-1x1-700x700.jpg)

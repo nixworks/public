@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/24/a-strong-earthquake-with-a-preliminary-magnitude-of-6-8-hits-off-the-coast-of-honshu-japan-with-reports-of-landslides-injuries-and-disrup.html)  [JSON](/news/2008/07/24/a-strong-earthquake-with-a-preliminary-magnitude-of-6-8-hits-off-the-coast-of-honshu-japan-with-reports-of-landslides-injuries-and-disrup.json)  [XML](/news/2008/07/24/a-strong-earthquake-with-a-preliminary-magnitude-of-6-8-hits-off-the-coast-of-honshu-japan-with-reports-of-landslides-injuries-and-disrup.xml)  
+
 ### [2008-07-24](/news/2008/07/24/index.md)
 
+##### earthquake
 #  A strong earthquake with a preliminary magnitude of 6.8 hits off the coast of Honshu, Japan with reports of landslides, injuries and disruption to transport and power supplies. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7522338.stm)
 

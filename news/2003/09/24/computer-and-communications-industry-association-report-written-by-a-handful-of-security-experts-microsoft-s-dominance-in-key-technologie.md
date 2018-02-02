@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/24/computer-and-communications-industry-association-report-written-by-a-handful-of-security-experts-microsoft-s-dominance-in-key-technologie.html)  [JSON](/news/2003/09/24/computer-and-communications-industry-association-report-written-by-a-handful-of-security-experts-microsoft-s-dominance-in-key-technologie.json)  [XML](/news/2003/09/24/computer-and-communications-industry-association-report-written-by-a-handful-of-security-experts-microsoft-s-dominance-in-key-technologie.xml)  
+
 ### [2003-09-24](/news/2003/09/24/index.md)
 
+##### Computer and Communications Industry Association
 #  Computer and Communications Industry Association report, written by a handful of security experts, Microsoft's dominance in key technologies poses security risk and threatens the national infrastructure. Computer and Communications Industry Association states reliance on a single technology, such as the Windows operating system, threatens economic security and critical infrastructure. The paper warns that many security improvements planned by Microsoft are likely designed to deter customers from switching to another operating system.
 
 

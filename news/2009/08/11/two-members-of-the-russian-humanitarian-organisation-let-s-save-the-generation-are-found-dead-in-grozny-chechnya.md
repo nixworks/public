@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/11/two-members-of-the-russian-humanitarian-organisation-let-s-save-the-generation-are-found-dead-in-grozny-chechnya.html)  [JSON](/news/2009/08/11/two-members-of-the-russian-humanitarian-organisation-let-s-save-the-generation-are-found-dead-in-grozny-chechnya.json)  [XML](/news/2009/08/11/two-members-of-the-russian-humanitarian-organisation-let-s-save-the-generation-are-found-dead-in-grozny-chechnya.xml)  
+
 ### [2009-08-11](/news/2009/08/11/index.md)
 
+##### Russia
 #  Two members of the Russian humanitarian organisation Let's Save the Generation are found dead in Grozny, Chechnya. 
 
 Bodies of Zarema Sadulayeva and husband discovered after abduction in Grozny.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/08/200981154346856185.html)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=103125&sectionid=351020606)

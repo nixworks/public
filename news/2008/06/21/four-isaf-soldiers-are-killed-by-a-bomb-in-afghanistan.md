@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/21/four-isaf-soldiers-are-killed-by-a-bomb-in-afghanistan.html)  [JSON](/news/2008/06/21/four-isaf-soldiers-are-killed-by-a-bomb-in-afghanistan.json)  [XML](/news/2008/06/21/four-isaf-soldiers-are-killed-by-a-bomb-in-afghanistan.xml)  
+
 ### [2008-06-21](/news/2008/06/21/index.md)
 
+##### International Security Assistance Force
 #  Four ISAF soldiers are killed by a bomb in Afghanistan. 
 
 Roadside bombs killed five foreign troops in Afghanistan on Saturday, military officials said, extending a series of daily attacks that have lifted the death toll for foreign forces this year to more than 100. 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/25295430/)
 1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)

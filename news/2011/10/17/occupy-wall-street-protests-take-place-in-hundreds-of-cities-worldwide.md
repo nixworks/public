@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/17/occupy-wall-street-protests-take-place-in-hundreds-of-cities-worldwide.html)  [JSON](/news/2011/10/17/occupy-wall-street-protests-take-place-in-hundreds-of-cities-worldwide.json)  [XML](/news/2011/10/17/occupy-wall-street-protests-take-place-in-hundreds-of-cities-worldwide.xml)  
+
 ### [2011-10-17](/news/2011/10/17/index.md)
 
+##### Occupy Wall Street
 # Occupy Wall Street protests take place in hundreds of cities worldwide. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/10/15/world/occupy-goes-global/?hpt=wo_t3)
 

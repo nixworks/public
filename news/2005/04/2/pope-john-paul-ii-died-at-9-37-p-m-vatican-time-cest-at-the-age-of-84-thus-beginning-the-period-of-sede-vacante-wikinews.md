@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/04/2/pope-john-paul-ii-died-at-9-37-p-m-vatican-time-cest-at-the-age-of-84-thus-beginning-the-period-of-sede-vacante-wikinews.html)  [JSON](/news/2005/04/2/pope-john-paul-ii-died-at-9-37-p-m-vatican-time-cest-at-the-age-of-84-thus-beginning-the-period-of-sede-vacante-wikinews.json)  [XML](/news/2005/04/2/pope-john-paul-ii-died-at-9-37-p-m-vatican-time-cest-at-the-age-of-84-thus-beginning-the-period-of-sede-vacante-wikinews.xml)  
+
 ### [2005-04-2](/news/2005/04/2/index.md)
 
+##### Pope
 #  Pope John Paul II died at 9:37 p.m. Vatican time (CEST) at the age of 84, thus beginning the period of "Sede vacante". (Wikinews)
 
 

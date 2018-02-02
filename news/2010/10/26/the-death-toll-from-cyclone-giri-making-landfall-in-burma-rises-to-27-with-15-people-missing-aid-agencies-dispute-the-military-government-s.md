@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/26/the-death-toll-from-cyclone-giri-making-landfall-in-burma-rises-to-27-with-15-people-missing-aid-agencies-dispute-the-military-government-s.html)  [JSON](/news/2010/10/26/the-death-toll-from-cyclone-giri-making-landfall-in-burma-rises-to-27-with-15-people-missing-aid-agencies-dispute-the-military-government-s.json)  [XML](/news/2010/10/26/the-death-toll-from-cyclone-giri-making-landfall-in-burma-rises-to-27-with-15-people-missing-aid-agencies-dispute-the-military-government-s.xml)  
+
 ### [2010-10-26](/news/2010/10/26/index.md)
 
+##### Cyclone Giri
 # The death toll from Cyclone Giri making landfall in Burma rises to 27 with 15 people missing; aid agencies dispute the military government's figures. 
 
 Residents face aftermath of powerful Cyclone Giri, as aid groups warn number of dead could be higher than official toll.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/20101026103633565494.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/27/20101027152612615436_20.jpg)

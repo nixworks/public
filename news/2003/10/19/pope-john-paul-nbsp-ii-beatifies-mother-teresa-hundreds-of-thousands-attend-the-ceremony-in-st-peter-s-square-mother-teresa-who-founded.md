@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/19/pope-john-paul-nbsp-ii-beatifies-mother-teresa-hundreds-of-thousands-attend-the-ceremony-in-st-peter-s-square-mother-teresa-who-founded.html)  [JSON](/news/2003/10/19/pope-john-paul-nbsp-ii-beatifies-mother-teresa-hundreds-of-thousands-attend-the-ceremony-in-st-peter-s-square-mother-teresa-who-founded.json)  [XML](/news/2003/10/19/pope-john-paul-nbsp-ii-beatifies-mother-teresa-hundreds-of-thousands-attend-the-ceremony-in-st-peter-s-square-mother-teresa-who-founded.xml)  
+
 ### [2003-10-19](/news/2003/10/19/index.md)
 
+##### Pope John Paul&nbsp;II
 #  Pope John Paul&nbsp;II beatifies Mother Teresa. Hundreds of thousands attend the ceremony in St. Peter's Square. Mother Teresa, who founded the Missionaries of Charity, is now one step from sainthood.
 
 

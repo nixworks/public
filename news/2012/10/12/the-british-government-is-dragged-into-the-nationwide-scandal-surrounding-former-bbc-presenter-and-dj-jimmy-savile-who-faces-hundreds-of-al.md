@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/12/the-british-government-is-dragged-into-the-nationwide-scandal-surrounding-former-bbc-presenter-and-dj-jimmy-savile-who-faces-hundreds-of-al.html)  [JSON](/news/2012/10/12/the-british-government-is-dragged-into-the-nationwide-scandal-surrounding-former-bbc-presenter-and-dj-jimmy-savile-who-faces-hundreds-of-al.json)  [XML](/news/2012/10/12/the-british-government-is-dragged-into-the-nationwide-scandal-surrounding-former-bbc-presenter-and-dj-jimmy-savile-who-faces-hundreds-of-al.xml)  
+
 ### [2012-10-12](/news/2012/10/12/index.md)
 
+##### recent allegations of sexual abuse
 # The British government is dragged into the nationwide scandal surrounding former BBC presenter and DJ Jimmy Savile, who faces hundreds of allegations surrounding his conduct in the presence of teenage girls. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/media/2012/oct/12/jimmy-savile-government-civil-claims)
 

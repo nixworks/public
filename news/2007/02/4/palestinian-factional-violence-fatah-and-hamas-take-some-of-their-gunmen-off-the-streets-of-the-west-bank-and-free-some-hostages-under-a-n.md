@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/4/palestinian-factional-violence-fatah-and-hamas-take-some-of-their-gunmen-off-the-streets-of-the-west-bank-and-free-some-hostages-under-a-n.html)  [JSON](/news/2007/02/4/palestinian-factional-violence-fatah-and-hamas-take-some-of-their-gunmen-off-the-streets-of-the-west-bank-and-free-some-hostages-under-a-n.json)  [XML](/news/2007/02/4/palestinian-factional-violence-fatah-and-hamas-take-some-of-their-gunmen-off-the-streets-of-the-west-bank-and-free-some-hostages-under-a-n.xml)  
+
 ### [2007-02-4](/news/2007/02/4/index.md)
 
+##### clashes
 #  Palestinian factional violence: Fatah and Hamas take some of their gunmen off the streets of the West Bank and free some hostages under a new declared ceasefire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6329443.stm)
 

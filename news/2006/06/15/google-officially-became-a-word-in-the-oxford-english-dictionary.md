@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/15/google-officially-became-a-word-in-the-oxford-english-dictionary.html)  [JSON](/news/2006/06/15/google-officially-became-a-word-in-the-oxford-english-dictionary.json)  [XML](/news/2006/06/15/google-officially-became-a-word-in-the-oxford-english-dictionary.xml)  
+
 ### [2006-06-15](/news/2006/06/15/index.md)
 
+##### Google
 #  Google officially became a word in the Oxford English Dictionary. 
 
  Articles in the newsletter include : + Harmless drudgery - getting started at the OED (the story of a new OED employee) + Interesting antedatings + Thought-provoking snippets from the OED quotation files Also, on June 15th, the OED added several new entries and updates were made to the ...
 
 
-### Source:
+### Sources:
 
 1. [ResourceShelf](http://web.resourceshelf.com/go/resourceblog/42925)
 1. [Cover Image](http://web.resourceshelf.com/library/Logo-ResourceShelf-RS_72x72.png)

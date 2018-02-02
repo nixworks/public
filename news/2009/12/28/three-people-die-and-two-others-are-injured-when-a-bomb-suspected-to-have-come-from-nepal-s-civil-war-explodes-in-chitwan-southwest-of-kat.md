@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/28/three-people-die-and-two-others-are-injured-when-a-bomb-suspected-to-have-come-from-nepal-s-civil-war-explodes-in-chitwan-southwest-of-kat.html)  [JSON](/news/2009/12/28/three-people-die-and-two-others-are-injured-when-a-bomb-suspected-to-have-come-from-nepal-s-civil-war-explodes-in-chitwan-southwest-of-kat.json)  [XML](/news/2009/12/28/three-people-die-and-two-others-are-injured-when-a-bomb-suspected-to-have-come-from-nepal-s-civil-war-explodes-in-chitwan-southwest-of-kat.xml)  
+
 ### [2009-12-28](/news/2009/12/28/index.md)
 
+##### Nepal
 #  Three people die and two others are injured when a bomb suspected to have come from Nepal's civil war explodes in Chitwan, southwest of Kathmandu. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_471226.html)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/06/6/singer-and-grammy-award-winner-robert-kelly-aka-r-kelly-was-arrested-and-charged-with-having-sex-with-an-underaged-girl-he-was-sentence.html)  [JSON](/news/2002/06/6/singer-and-grammy-award-winner-robert-kelly-aka-r-kelly-was-arrested-and-charged-with-having-sex-with-an-underaged-girl-he-was-sentence.json)  [XML](/news/2002/06/6/singer-and-grammy-award-winner-robert-kelly-aka-r-kelly-was-arrested-and-charged-with-having-sex-with-an-underaged-girl-he-was-sentence.xml)  
+
 ### [2002-06-6](/news/2002/06/6/index.md)
 
+##### Grammy Award
 #  Singer and Grammy Award winner Robert Kelly (aka R. Kelly) was arrested and charged with having sex with an underaged girl. He was sentenced 2 years.
 
 

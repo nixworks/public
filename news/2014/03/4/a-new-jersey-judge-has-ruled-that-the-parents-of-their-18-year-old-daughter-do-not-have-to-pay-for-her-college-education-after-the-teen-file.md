@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/4/a-new-jersey-judge-has-ruled-that-the-parents-of-their-18-year-old-daughter-do-not-have-to-pay-for-her-college-education-after-the-teen-file.html)  [JSON](/news/2014/03/4/a-new-jersey-judge-has-ruled-that-the-parents-of-their-18-year-old-daughter-do-not-have-to-pay-for-her-college-education-after-the-teen-file.json)  [XML](/news/2014/03/4/a-new-jersey-judge-has-ruled-that-the-parents-of-their-18-year-old-daughter-do-not-have-to-pay-for-her-college-education-after-the-teen-file.xml)  
+
 ### [2014-03-4](/news/2014/03/4/index.md)
 
+##### New Jersey
 # A New Jersey judge has ruled that the parents of their 18-year-old daughter do not have to pay for her college education after the teen filed a lawsuit against them seeking support and alleging abuse. 
 
 Court sets April hearing to revisit question of college tuition
 
 
-### Source:
+### Sources:
 
 1. [CBS](http://www.cbsnews.com/news/nj-teen-sues-parents-claims-they-kicked-her-out/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/03/04/7f28dd2c-ec38-4106-9465-64c82e79c25d/rachel-canning.jpg)

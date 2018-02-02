@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/15/more-than-23-000-people-sign-a-jewish-council-for-public-affairs-petition-urging-the-us-state-department-to-investigate-passengers-on-the-ma.html)  [JSON](/news/2010/06/15/more-than-23-000-people-sign-a-jewish-council-for-public-affairs-petition-urging-the-us-state-department-to-investigate-passengers-on-the-ma.json)  [XML](/news/2010/06/15/more-than-23-000-people-sign-a-jewish-council-for-public-affairs-petition-urging-the-us-state-department-to-investigate-passengers-on-the-ma.xml)  
+
 ### [2010-06-15](/news/2010/06/15/index.md)
 
+##### Jewish Council for Public Affairs
 # More than 23,000 people sign a Jewish Council for Public Affairs petition urging the US State Department to investigate passengers on the Mavi Marmara who are expected to visit New York on a speaking tour citing a 2006 report by the Danish Institute for International Studies, which documents a link between IHH and al-Qaida and "global jihad networks". 
 
 Turkish IHH activist, Viva Palestina organizer set to speak in New York at event organized by Palestinian Right to Return Coalition.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/2010615114624953775.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10319210.stm)
@@ -13,20 +17,20 @@ Turkish IHH activist, Viva Palestina organizer set to speak in New York at event
 4. [Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=178446)
 5. [Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=178460)
 6. [RTÉ](http://www.rte.ie/news/2010/0615/dubai.html)
-7. [The Globe and Mail](http://www.theglobeandmail.com/news/world/europe/ireland-tells-israel-to-withdraw-staffer-over-dubai-hit/article1604382/)
+7. [The Globe and Mail](https://www.theglobeandmail.com/news/world/europe/ireland-tells-israel-to-withdraw-staffer-over-dubai-hit/article1604382/)
 8. [euronews](http://www.euronews.net/2010/06/15/ireland-to-expel-israeli-diplomat/)
 8. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=144109)
-
-### Related:
-
-1. [Sulaiman Abu Ghaith, Osama bin Laden's son-in-law, is convicted in New York City of conspiring to kill Americans in his role as spokesman for al-Qaida. ](/news/2014/03/26/sulaiman-abu-ghaith-osama-bin-laden-s-son-in-law-is-convicted-in-new-york-city-of-conspiring-to-kill-americans-in-his-role-as-spokesman-fo.md) _Context: Al Qaida's, New York City_
-2. [Both the FBI and NSD declare that they possess no records indicating that Trump Tower in New York City, New York was wiretapped earlier in March. ](/news/2017/09/2/both-the-fbi-and-nsd-declare-that-they-possess-no-records-indicating-that-trump-tower-in-new-york-city-new-york-was-wiretapped-earlier-in-m.md) _Context: New York City_
-3. [SpaceX CEO Elon Musk says he has received federal government approval for The Boring Company to build an underground 760mph Hyperloop that will connect New York City and Washington, D.C.. ](/news/2017/07/20/spacex-ceo-elon-musk-says-he-has-received-federal-government-approval-for-the-boring-company-to-build-an-underground-760mph-hyperloop-that-w.md) _Context: New York City_
-4. [A doctor thought to be formerly employed with the Bronx-Lebanon Hospital Center kills one and wounds five others at the facility in New York City. ](/news/2017/06/30/a-doctor-thought-to-be-formerly-employed-with-the-bronx-lebanon-hospital-center-kills-one-and-wounds-five-others-at-the-facility-in-new-york.md) _Context: New York City_
-5. [The Tony Awards are held in New York City with "Dear Evan Hansen" winning six awards including Best Musical and "Oslo" winning best play. ](/news/2017/06/11/the-tony-awards-are-held-in-new-york-city-with-dear-evan-hansen-winning-six-awards-including-best-musical-and-oslo-winning-best-play.md) _Context: New York City_
 
 ### Changes:
 
 1. [Israeli-Palestinian conflict:More than 23,000 people sign a Jewish Council for Public Affairs petition urging the US State Department to investigate passengers on the Mavi Marmara who are expected to visit New York on a speaking tour citing a 2006 report by the Danish Institute for International Studies, which documents a link between IHH and al-Qaida and "global jihad networks". ](/news/2010/06/15/israeli-palestinian-conflict-pmore-than-23-000-people-sign-a-jewish-council-for-public-affairs-petition-urging-the-us-state-department-to-in.md) _2017-08-25 03:28:16 (First version)_
 2. [Israeli-Palestinian conflict:: More than 23,000 people sign a Jewish Council for Public Affairs petition urging the US State Department to investigate passengers on the Mavi Marmara who are expected to visit New York on a speaking tour citing a 2006 report by the Danish Institute for International Studies, which documents a link between IHH and al-Qaida and -global jihad networks-. ](/news/2010/06/15/israeli-palestinian-conflict-more-than-23-000-people-sign-a-jewish-council-for-public-affairs-petition-urging-the-us-state-department-to-i.md) _2017-08-27 03:28:16 (Update)_
 2. [More than 23,000 people sign a Jewish Council for Public Affairs petition urging the US State Department to investigate passengers on the Mavi Marmara who are expected to visit New York on a speaking tour citing a 2006 report by the Danish Institute for International Studies, which documents a link between IHH and al-Qaida and "global jihad networks". ](/news/2010/06/15/more-than-23-000-people-sign-a-jewish-council-for-public-affairs-petition-urging-the-us-state-department-to-investigate-passengers-on-the-ma.md) _(Current version)_
+
+### Related:
+
+1. [Sulaiman Abu Ghaith, Osama bin Laden's son-in-law, is convicted in New York City of conspiring to kill Americans in his role as spokesman for al-Qaida. ](/news/2014/03/26/sulaiman-abu-ghaith-osama-bin-laden-s-son-in-law-is-convicted-in-new-york-city-of-conspiring-to-kill-americans-in-his-role-as-spokesman-fo.md) _Context: al-Qaida_
+2. [Jihadis belonging to the al-Qaida offshoot known as the ISIL overrun the town of Azaz, after driving out the Free Syrian Army. ](/news/2013/09/19/jihadis-belonging-to-the-al-qaida-offshoot-known-as-the-isil-overrun-the-town-of-azaz-after-driving-out-the-free-syrian-army.md) _Context: al-Qaida_
+3. [Three U.S. drone strikes in central and southern Yemen kill 12 suspected al-Qaida militants. ](/news/2013/08/8/three-u-s-drone-strikes-in-central-and-southern-yemen-kill-12-suspected-al-qaida-militants.md) _Context: al-Qaida_
+4. [The United States Department of State evacuates staff from the United States Embassy in Yemen due to an al-Qaida threat. ](/news/2013/08/6/the-united-states-department-of-state-evacuates-staff-from-the-united-states-embassy-in-yemen-due-to-an-al-qaida-threat.md) _Context: al-Qaida_
+5. [Venezuela cuts off an informal channel of communication with the United States because of comments by a US State Department official about next month's presidential election. ](/news/2013/03/20/venezuela-cuts-off-an-informal-channel-of-communication-with-the-united-states-because-of-comments-by-a-us-state-department-official-about-n.md) _Context: US State Department_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/19/the-cambodian-government-expels-22-chinese-muslim-uyghurs-who-arrived-in-the-country-back-to-china-despite-criticism-from-the-un.html)  [JSON](/news/2009/12/19/the-cambodian-government-expels-22-chinese-muslim-uyghurs-who-arrived-in-the-country-back-to-china-despite-criticism-from-the-un.json)  [XML](/news/2009/12/19/the-cambodian-government-expels-22-chinese-muslim-uyghurs-who-arrived-in-the-country-back-to-china-despite-criticism-from-the-un.xml)  
+
 ### [2009-12-19](/news/2009/12/19/index.md)
 
+##### Cambodia
 #  The Cambodian government expels 22 Chinese Muslim Uyghurs who arrived in the country back to China, despite criticism from the UN. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8422022.stm)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=114128&sectionid=351020406)

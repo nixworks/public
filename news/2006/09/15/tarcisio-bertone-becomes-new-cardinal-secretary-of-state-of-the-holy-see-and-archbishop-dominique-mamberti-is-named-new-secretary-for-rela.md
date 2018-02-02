@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/09/15/tarcisio-bertone-becomes-new-cardinal-secretary-of-state-of-the-holy-see-and-archbishop-dominique-mamberti-is-named-new-secretary-for-rela.html)  [JSON](/news/2006/09/15/tarcisio-bertone-becomes-new-cardinal-secretary-of-state-of-the-holy-see-and-archbishop-dominique-mamberti-is-named-new-secretary-for-rela.json)  [XML](/news/2006/09/15/tarcisio-bertone-becomes-new-cardinal-secretary-of-state-of-the-holy-see-and-archbishop-dominique-mamberti-is-named-new-secretary-for-rela.xml)  
+
 ### [2006-09-15](/news/2006/09/15/index.md)
 
+##### Cardinal Tarcisio Bertone
 #  Tarcisio Bertone becomes new Cardinal Secretary of State of the Holy See, and Archbishop Dominique Mamberti is named new Secretary for Relations with States (foreign minister). At the same time, Angelo Sodano retires after sixteen years as Cardinal Secretary of State. [http:--www.theindiancatholic.com-newsread.asp?nid=3419]
 
 

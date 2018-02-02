@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/23/a-double-car-bombing-in-benghazi-libya-kills-at
 
 ### [2018-01-23](/news/2018/01/23/index.md)
 
+##### Libyan Civil War (2014-present)
 # A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials. 
 
 A double car bombing in the east Libyan city of Benghazi on Tuesday left at least 33 people dead and dozens more wounded, including senior security figures and civilians, officials said.

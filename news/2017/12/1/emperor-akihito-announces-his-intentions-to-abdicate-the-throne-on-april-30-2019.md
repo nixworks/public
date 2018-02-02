@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/1/emperor-akihito-announces-his-intentions-to-abdi
 
 ### [2017-12-1](/news/2017/12/1/index.md)
 
+##### Abdication of Emperor Akihito
 # Emperor Akihito announces his intentions to abdicate the throne on April 30, 2019. 
 
 

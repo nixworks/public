@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/19/a-palestinian-cell-affiliated-with-hamas-and-named-after-the-perpetrators-of-the-2014-kidnapping-and-murder-of-israeli-teenagers-claims-resp.html)  [JSON](/news/2015/06/19/a-palestinian-cell-affiliated-with-hamas-and-named-after-the-perpetrators-of-the-2014-kidnapping-and-murder-of-israeli-teenagers-claims-resp.json)  [XML](/news/2015/06/19/a-palestinian-cell-affiliated-with-hamas-and-named-after-the-perpetrators-of-the-2014-kidnapping-and-murder-of-israeli-teenagers-claims-resp.xml)  
+
 ### [2015-06-19](/news/2015/06/19/index.md)
 
+##### Palestinian
 # A Palestinian cell affiliated with Hamas and named after the perpetrators of the 2014 kidnapping and murder of Israeli teenagers claims responsibility for an ambush style attack in which one Israeli was killed and another seriously injured. 
 
 Danny Gonen, 25, succumbs to wounds after coming under fire near settlement of Dolev; second man in moderate condition; IDF searching for gunman
 
 
-### Source:
+### Sources:
 
 1. [Times of Israel](http://www.timesofisrael.com/israeli-man-killed-in-west-bank-terror-attack/)
 1. [Cover Image](http://cdn.timesofisrael.com/uploads/2015/06/gonen-e1434729891159.jpg)

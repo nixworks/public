@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/7/the-molecular-basis-for-the-breakage-of-dna-an-important-process-in-the-development-of-cancer-has-been-identified-by-hebrew-university-of.html)  [JSON](/news/2011/07/7/the-molecular-basis-for-the-breakage-of-dna-an-important-process-in-the-development-of-cancer-has-been-identified-by-hebrew-university-of.json)  [XML](/news/2011/07/7/the-molecular-basis-for-the-breakage-of-dna-an-important-process-in-the-development-of-cancer-has-been-identified-by-hebrew-university-of.xml)  
+
 ### [2011-07-7](/news/2011/07/7/index.md)
 
+##### DNA
 # The molecular basis for the breakage of DNA, an important process in the development of cancer, has been identified by Hebrew University of Jerusalem scientists. 
 
 Jerusalem scientists identify molecular basis for DNA breakage, which results in the development of cancer.
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/HealthAndSci-Tech/Health/Article.aspx?id=228363)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=169385)

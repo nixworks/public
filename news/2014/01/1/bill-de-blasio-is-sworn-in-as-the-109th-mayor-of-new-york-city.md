@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/01/1/bill-de-blasio-is-sworn-in-as-the-109th-mayor-of-new-york-city.html)  [JSON](/news/2014/01/1/bill-de-blasio-is-sworn-in-as-the-109th-mayor-of-new-york-city.json)  [XML](/news/2014/01/1/bill-de-blasio-is-sworn-in-as-the-109th-mayor-of-new-york-city.xml)  
+
 ### [2014-01-1](/news/2014/01/1/index.md)
 
+##### Bill de Blasio
 # Bill de Blasio is sworn in as the 109th Mayor of New York City. 
 
-NEW YORK (AP) — Bill de Blasio took the oath of office administered by former president Bill Clinton on Wednesday, formally becoming the 109th mayor of New York City while pledging to pursue a sweeping liberal agenda.
 
 
-### Source:
 
-1. [AP via ''USA Today](http://www.usatoday.com/story/news/politics/2014/01/01/deblasio-sworn-in/4274669/)
+### Sources:
+
+1. [AP via ''USA Today](https://www.usatoday.com/story/news/politics/2014/01/01/deblasio-sworn-in/4274669/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

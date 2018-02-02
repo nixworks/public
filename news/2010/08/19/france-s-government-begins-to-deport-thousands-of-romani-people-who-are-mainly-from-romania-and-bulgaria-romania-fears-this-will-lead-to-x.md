@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/19/france-s-government-begins-to-deport-thousands-of-romani-people-who-are-mainly-from-romania-and-bulgaria-romania-fears-this-will-lead-to-x.html)  [JSON](/news/2010/08/19/france-s-government-begins-to-deport-thousands-of-romani-people-who-are-mainly-from-romania-and-bulgaria-romania-fears-this-will-lead-to-x.json)  [XML](/news/2010/08/19/france-s-government-begins-to-deport-thousands-of-romani-people-who-are-mainly-from-romania-and-bulgaria-romania-fears-this-will-lead-to-x.xml)  
+
 ### [2010-08-19](/news/2010/08/19/index.md)
 
+##### France
 # France's government begins to deport thousands of Romani people, who are mainly from Romania and Bulgaria; Romania fears this will lead to xenophobic tensions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11020429)
 2. [CNN](http://edition.cnn.com/2010/WORLD/europe/08/19/france.roma/?hpt=Sbin#fbid=kfQgteZwI1N&wom=false)

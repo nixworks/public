@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/6/unknown-assailants-attack-a-refugee-camp-near-th
 
 ### [2016-10-6](/news/2016/10/6/index.md)
 
+##### Niger
 # Unknown assailants attack a refugee camp near the village of Tassalit, in Niger's Tahoua Region, killing at least 22 soldiers. 
 
 

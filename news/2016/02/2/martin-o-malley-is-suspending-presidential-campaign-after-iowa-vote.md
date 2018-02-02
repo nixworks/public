@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/2/martin-o-malley-is-suspending-presidential-campa
 
 ### [2016-02-2](/news/2016/02/2/index.md)
 
+##### Martin O'Malley
 # Martin O'Malley is suspending Presidential Campaign after Iowa Vote. 
 
 The former Maryland governor’s love of Irish poetry provides a fitting send off to his candidacy.

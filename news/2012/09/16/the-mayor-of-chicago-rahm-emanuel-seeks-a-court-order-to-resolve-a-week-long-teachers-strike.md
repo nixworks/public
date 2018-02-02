@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/09/16/the-mayor-of-chicago-rahm-emanuel-seeks-a-court-order-to-resolve-a-week-long-teachers-strike.html)  [JSON](/news/2012/09/16/the-mayor-of-chicago-rahm-emanuel-seeks-a-court-order-to-resolve-a-week-long-teachers-strike.json)  [XML](/news/2012/09/16/the-mayor-of-chicago-rahm-emanuel-seeks-a-court-order-to-resolve-a-week-long-teachers-strike.xml)  
+
 ### [2012-09-16](/news/2012/09/16/index.md)
 
+##### Mayor of Chicago
 # The Mayor of Chicago Rahm Emanuel seeks a court order to resolve a week-long teachers strike. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo News](http://news.yahoo.com/chicago-seek-order-end-teachers-strike-002133764.html)
+1. [AP via Yahoo News](https://news.yahoo.com/chicago-seek-order-end-teachers-strike-002133764.html)
 1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/02/12/european-space-agency-s-columbus-module-is-attached-to-the-international-space-station.html)  [JSON](/news/2008/02/12/european-space-agency-s-columbus-module-is-attached-to-the-international-space-station.json)  [XML](/news/2008/02/12/european-space-agency-s-columbus-module-is-attached-to-the-international-space-station.xml)  
+
 ### [2008-02-12](/news/2008/02/12/index.md)
 
+##### European Space Agency
 #  European Space Agency's Columbus module is attached to the International Space Station. 
 
 Europe’s new Columbus science module became a permanent part of the International Space Station on Monday.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/02/11/science/space/11cnd-shuttle.html)
+1. [The New York Times](https://www.nytimes.com/2008/02/11/science/space/11cnd-shuttle.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

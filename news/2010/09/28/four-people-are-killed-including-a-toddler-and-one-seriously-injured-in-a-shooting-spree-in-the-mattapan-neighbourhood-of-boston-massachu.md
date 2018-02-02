@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/28/four-people-are-killed-including-a-toddler-and-one-seriously-injured-in-a-shooting-spree-in-the-mattapan-neighbourhood-of-boston-massachu.html)  [JSON](/news/2010/09/28/four-people-are-killed-including-a-toddler-and-one-seriously-injured-in-a-shooting-spree-in-the-mattapan-neighbourhood-of-boston-massachu.json)  [XML](/news/2010/09/28/four-people-are-killed-including-a-toddler-and-one-seriously-injured-in-a-shooting-spree-in-the-mattapan-neighbourhood-of-boston-massachu.xml)  
+
 ### [2010-09-28](/news/2010/09/28/index.md)
 
+##### shooting spree
 # Four people are killed, including a toddler, and one seriously injured in a shooting spree in the Mattapan neighbourhood of Boston, Massachusetts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/CRIME/09/28/massachusetts.fatal.shooting/)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/29/c_13534428.htm)

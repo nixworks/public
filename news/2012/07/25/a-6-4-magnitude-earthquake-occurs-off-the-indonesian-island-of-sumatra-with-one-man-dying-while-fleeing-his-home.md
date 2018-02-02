@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/25/a-6-4-magnitude-earthquake-occurs-off-the-indonesian-island-of-sumatra-with-one-man-dying-while-fleeing-his-home.html)  [JSON](/news/2012/07/25/a-6-4-magnitude-earthquake-occurs-off-the-indonesian-island-of-sumatra-with-one-man-dying-while-fleeing-his-home.json)  [XML](/news/2012/07/25/a-6-4-magnitude-earthquake-occurs-off-the-indonesian-island-of-sumatra-with-one-man-dying-while-fleeing-his-home.xml)  
+
 ### [2012-07-25](/news/2012/07/25/index.md)
 
+##### earthquake
 # A 6.4 magnitude earthquake occurs off the Indonesian island of Sumatra with one man dying while fleeing his home. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5j-tnO295aJ1VkovH4WwmJ773HwXA?docId=CNG.007421df9b1fa45b01208882a65fff0b.81)
 

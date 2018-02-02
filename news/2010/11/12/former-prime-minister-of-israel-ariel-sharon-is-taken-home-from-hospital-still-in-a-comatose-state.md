@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/12/former-prime-minister-of-israel-ariel-sharon-is-taken-home-from-hospital-still-in-a-comatose-state.html)  [JSON](/news/2010/11/12/former-prime-minister-of-israel-ariel-sharon-is-taken-home-from-hospital-still-in-a-comatose-state.json)  [XML](/news/2010/11/12/former-prime-minister-of-israel-ariel-sharon-is-taken-home-from-hospital-still-in-a-comatose-state.xml)  
+
 ### [2010-11-12](/news/2010/11/12/index.md)
 
+##### Israeli Prime Minister
 # Former Prime Minister of Israel Ariel Sharon is taken home from hospital still in a comatose state. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/11/20101112135326883390.html)
 2. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/LDE6AB0AI.htm)

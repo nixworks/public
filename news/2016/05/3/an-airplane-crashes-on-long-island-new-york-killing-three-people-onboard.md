@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/3/an-airplane-crashes-on-long-island-new-york-kill
 
 ### [2016-05-3](/news/2016/05/3/index.md)
 
+##### Long Island, New York
 # An airplane crashes on Long Island, New York, killing three people onboard. 
 
 The single-engine aircraft, which took off from Myrtle Beach, S.C., was headed to Plainville, Conn., officials said.

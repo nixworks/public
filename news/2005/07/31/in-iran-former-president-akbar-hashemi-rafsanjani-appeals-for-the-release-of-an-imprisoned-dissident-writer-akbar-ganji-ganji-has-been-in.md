@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/31/in-iran-former-president-akbar-hashemi-rafsanjani-appeals-for-the-release-of-an-imprisoned-dissident-writer-akbar-ganji-ganji-has-been-in.html)  [JSON](/news/2005/07/31/in-iran-former-president-akbar-hashemi-rafsanjani-appeals-for-the-release-of-an-imprisoned-dissident-writer-akbar-ganji-ganji-has-been-in.json)  [XML](/news/2005/07/31/in-iran-former-president-akbar-hashemi-rafsanjani-appeals-for-the-release-of-an-imprisoned-dissident-writer-akbar-ganji-ganji-has-been-in.xml)  
+
 ### [2005-07-31](/news/2005/07/31/index.md)
 
+##### Iran
 #  In Iran former president Akbar Hashemi Rafsanjani appeals for the release of an imprisoned dissident writer Akbar Ganji. Ganji has been in a hunger strike for more than 50 days and is possibly near death 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IRNA](http://www.irna.ir/en/news/view/menu-236/0507310874175650.htm)
 2. [Reporters Without Borders](http://www.rsf.org/article.php3?id_article=14562)

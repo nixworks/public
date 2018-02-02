@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/18/former-zambian-president-frederick-chiluba-dies-aged-68.html)  [JSON](/news/2011/06/18/former-zambian-president-frederick-chiluba-dies-aged-68.json)  [XML](/news/2011/06/18/former-zambian-president-frederick-chiluba-dies-aged-68.xml)  
+
 ### [2011-06-18](/news/2011/06/18/index.md)
 
+##### Zambia
 # Former Zambian President Frederick Chiluba dies aged 68. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5i9YqRUJ6RnWmSbb2xeopsRWyolkw?docId=789dd7b46f7444fba4fa4d5f45fb677a)
 2. [IOL](http://www.iol.co.za/news/africa/zambia-s-ex-president-chiluba-dies-1.1084985)

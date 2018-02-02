@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/31/the-united-nations-security-council-authorises-up-to-26-000-troops-and-soldiers-being-sent-to-the-darfur-region-of-sudan-united-nations-af.html)  [JSON](/news/2007/07/31/the-united-nations-security-council-authorises-up-to-26-000-troops-and-soldiers-being-sent-to-the-darfur-region-of-sudan-united-nations-af.json)  [XML](/news/2007/07/31/the-united-nations-security-council-authorises-up-to-26-000-troops-and-soldiers-being-sent-to-the-darfur-region-of-sudan-united-nations-af.xml)  
+
 ### [2007-07-31](/news/2007/07/31/index.md)
 
+##### United Nations Security Council
 #  The United Nations Security Council authorises up to 26,000 troops and soldiers being sent to the Darfur region of Sudan (United Nations African Union Mission in Darfur or UNAMID). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/topNews/idUKN3146123820070731)
 1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070731&t=2&i=1223561&w=&fh=545px&fw=&ll=&pl=&sq=&r=1223561)

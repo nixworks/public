@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/25/two-men-one-today-one-yesterday-have-been-arrested-in-the-new-southgate-area-of-london-during-police-investigations-into-the-recent-lond.html)  [JSON](/news/2005/07/25/two-men-one-today-one-yesterday-have-been-arrested-in-the-new-southgate-area-of-london-during-police-investigations-into-the-recent-lond.json)  [XML](/news/2005/07/25/two-men-one-today-one-yesterday-have-been-arrested-in-the-new-southgate-area-of-london-during-police-investigations-into-the-recent-lond.xml)  
+
 ### [2005-07-25](/news/2005/07/25/index.md)
 
+##### New Southgate
 #  Two men, one today, one yesterday, have been arrested in the New Southgate area of London during police investigations into the recent London bombings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Mail](http://www.dailymail.co.uk/pages/live/articles/news/news.html?in_article_id=357016&in_page_id=1770)
 2. [This is London](http://www.thisislondon.co.uk/news/articles/PA_NEWA12886201122231232A0000I?source=PA%20Feed&ct=5)

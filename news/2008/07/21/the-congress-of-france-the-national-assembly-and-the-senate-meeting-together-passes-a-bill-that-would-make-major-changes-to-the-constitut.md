@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/21/the-congress-of-france-the-national-assembly-and-the-senate-meeting-together-passes-a-bill-that-would-make-major-changes-to-the-constitut.html)  [JSON](/news/2008/07/21/the-congress-of-france-the-national-assembly-and-the-senate-meeting-together-passes-a-bill-that-would-make-major-changes-to-the-constitut.json)  [XML](/news/2008/07/21/the-congress-of-france-the-national-assembly-and-the-senate-meeting-together-passes-a-bill-that-would-make-major-changes-to-the-constitut.xml)  
+
 ### [2008-07-21](/news/2008/07/21/index.md)
 
+##### Congress of France
 #  The Congress of France (the National Assembly and the Senate meeting together) passes a bill that would make major changes to the Constitution of France, with a margin of only one vote; this bill is designed to strengthen Parliament, while establishing a two-term presidential term limit and allowing the President to speak before Parliament.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7517505.stm)
 

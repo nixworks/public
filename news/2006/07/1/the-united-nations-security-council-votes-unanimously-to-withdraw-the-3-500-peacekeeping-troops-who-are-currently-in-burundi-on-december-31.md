@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/07/1/the-united-nations-security-council-votes-unanimously-to-withdraw-the-3-500-peacekeeping-troops-who-are-currently-in-burundi-on-december-31.html)  [JSON](/news/2006/07/1/the-united-nations-security-council-votes-unanimously-to-withdraw-the-3-500-peacekeeping-troops-who-are-currently-in-burundi-on-december-31.json)  [XML](/news/2006/07/1/the-united-nations-security-council-votes-unanimously-to-withdraw-the-3-500-peacekeeping-troops-who-are-currently-in-burundi-on-december-31.xml)  
+
 ### [2006-07-1](/news/2006/07/1/index.md)
 
+##### United Nations Security Council
 #  The United Nations Security Council votes unanimously to withdraw the 3,500 peacekeeping troops who are currently in Burundi on December 31, despite the continuing activities of the National Liberation Force rebel group. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://news.yahoo.com/s/ap/20060701/ap_on_re_af/un_burundi_1)
+1. [Reuters](https://news.yahoo.com/s/ap/20060701/ap_on_re_af/un_burundi_1)
 
 ### Related:
 
@@ -15,4 +19,4 @@
 2. [Two former Presidents of Burundi call for the United Nations Security Council to authorise the use of peacekeeping troops in Burundi to prevent a potential civil war. ](/news/2016/01/21/two-former-presidents-of-burundi-call-for-the-united-nations-security-council-to-authorise-the-use-of-peacekeeping-troops-in-burundi-to-prev.md) _Context: Burundi, United Nations Security Council_
 3. [The African Union's Peace and Security Council approves the plan to send 5,000 peacekeepers to Burundi to protect civilians caught up in the growing crisis; approval by the U.N. Security Council is required. Burundi's Philippe Nzobonariba says the force would not be allowed in without government permission. ](/news/2015/12/18/the-african-union-s-peace-and-security-council-approves-the-plan-to-send-5-000-peacekeepers-to-burundi-to-protect-civilians-caught-up-in-the.md) _Context: Burundi, United Nations Security Council_
 4. [U.S. diplomats, amid growing international concern the violence could spiral into an ethnic conflict, push for peace talks in Burundi. The European Union advises non-essential staff to evacuate the Central African nation amid rising violence and an uptick in political rhetoric. The head of the opposition UPRONA group urges the United Nations to send peacekeepers quickly. Yesterday, the UN Security Council called on the Burundi Government to protect human rights and cooperate with regional African mediators to immediately convene "an inclusive and genuine inter-Burundian dialogue" to find a peaceful resolution of the crisis. ](/news/2015/11/13/u-s-diplomats-amid-growing-international-concern-the-violence-could-spiral-into-an-ethnic-conflict-push-for-peace-talks-in-burundi-the-e.md) _Context: Burundi, United Nations Security Council_
-5. [The Philippines suspends trade relations with North Korea to comply with a recent United Nations Security Council resolution over its repeated missile tests. ](/news/2017/09/8/the-philippines-suspends-trade-relations-with-north-korea-to-comply-with-a-recent-united-nations-security-council-resolution-over-its-repeat.md) _Context: United Nations Security Council_
+5. [During a session of the United Nations Security Council, the United States repeat its "unapologetic" support for the ongoing Iranian protests. Russia denounces the "veiled [U.S.] attempt to use the current moment to continue to undermine" the JCPOA. France calls to "be wary of any attempt to exploit this crisis for personal ends". ](/news/2018/01/5/during-a-session-of-the-united-nations-security-council-the-united-states-repeat-its-unapologetic-support-for-the-ongoing-iranian-protest.md) _Context: United Nations Security Council_

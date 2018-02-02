@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/15/richard-causey-former-chief-accounting-officer-at-enron-is-sentenced-to-66-months-or-five-and-a-half-years-in-prison-for-his-role-in-the-c.html)  [JSON](/news/2006/11/15/richard-causey-former-chief-accounting-officer-at-enron-is-sentenced-to-66-months-or-five-and-a-half-years-in-prison-for-his-role-in-the-c.json)  [XML](/news/2006/11/15/richard-causey-former-chief-accounting-officer-at-enron-is-sentenced-to-66-months-or-five-and-a-half-years-in-prison-for-his-role-in-the-c.xml)  
+
 ### [2006-11-15](/news/2006/11/15/index.md)
 
+##### Richard Causey
 #  Richard Causey, former Chief Accounting Officer at Enron is sentenced to 66 months or five and a half years in prison for his role in the collapse of the company. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=domesticNews&storyid=2006-11-15T202314Z_01_N15430638_RTRUKOC_0_US-ENRON-CAUSEY.xml)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

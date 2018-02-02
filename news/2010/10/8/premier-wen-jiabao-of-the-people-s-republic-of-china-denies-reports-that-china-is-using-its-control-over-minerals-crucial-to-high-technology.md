@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/8/premier-wen-jiabao-of-the-people-s-republic-of-china-denies-reports-that-china-is-using-its-control-over-minerals-crucial-to-high-technology.html)  [JSON](/news/2010/10/8/premier-wen-jiabao-of-the-people-s-republic-of-china-denies-reports-that-china-is-using-its-control-over-minerals-crucial-to-high-technology.json)  [XML](/news/2010/10/8/premier-wen-jiabao-of-the-people-s-republic-of-china-denies-reports-that-china-is-using-its-control-over-minerals-crucial-to-high-technology.xml)  
+
 ### [2010-10-8](/news/2010/10/8/index.md)
 
+##### Wen Jiabao
 # Premier Wen Jiabao of the People's Republic of China denies reports that China is using its control over minerals crucial to high technology (called "rare earth") as a bargaining chip, especially in a dispute with Japan over Japan's arrest of a Chinese fishing-boat captain 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.oregonlive.com/newsflash/index.ssf/story/premier-china-wont-block-rare-earth-exports/f3bdb6b73369463d86aa33157e77c159)
 

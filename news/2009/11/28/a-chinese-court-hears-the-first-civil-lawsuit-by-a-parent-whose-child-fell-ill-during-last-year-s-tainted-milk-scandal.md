@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/28/a-chinese-court-hears-the-first-civil-lawsuit-by-a-parent-whose-child-fell-ill-during-last-year-s-tainted-milk-scandal.html)  [JSON](/news/2009/11/28/a-chinese-court-hears-the-first-civil-lawsuit-by-a-parent-whose-child-fell-ill-during-last-year-s-tainted-milk-scandal.json)  [XML](/news/2009/11/28/a-chinese-court-hears-the-first-civil-lawsuit-by-a-parent-whose-child-fell-ill-during-last-year-s-tainted-milk-scandal.xml)  
+
 ### [2009-11-28](/news/2009/11/28/index.md)
 
+##### China
 #  A Chinese court hears the first civil lawsuit by a parent whose child fell ill during last year's tainted milk scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jL7mHkJcSHVOLlejms7eQS2xXDiwD9C8ECS80)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8384304.stm)

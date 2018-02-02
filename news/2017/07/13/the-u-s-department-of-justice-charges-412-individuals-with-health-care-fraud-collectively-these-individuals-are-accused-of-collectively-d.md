@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/13/the-u-s-department-of-justice-charges-412-indiv
 
 ### [2017-07-13](/news/2017/07/13/index.md)
 
+##### Health care in the United States
 # The U.S. Department of Justice charges 412 individuals with health care fraud. Collectively, these individuals are accused of collectively defrauding $1.3 billion from the U.S. government. 
 
 About a third of the defendants are accused of opioid-related crimes. Other accusations included billing Medicare and Medicaid for drugs that were never purchased.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/28/american-billionaire-carl-icahn-in-an-interview
 
 ### [2016-04-28](/news/2016/04/28/index.md)
 
+##### Carl Icahn
 # American billionaire Carl Icahn, in an interview on the cable network CNBC says he has closed his position in Apple. 
 
 

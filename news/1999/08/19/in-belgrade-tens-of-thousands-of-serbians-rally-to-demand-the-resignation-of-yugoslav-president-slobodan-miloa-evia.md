@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/08/19/in-belgrade-tens-of-thousands-of-serbians-rally-to-demand-the-resignation-of-yugoslav-president-slobodan-miloa-evia.html)  [JSON](/news/1999/08/19/in-belgrade-tens-of-thousands-of-serbians-rally-to-demand-the-resignation-of-yugoslav-president-slobodan-miloa-evia.json)  [XML](/news/1999/08/19/in-belgrade-tens-of-thousands-of-serbians-rally-to-demand-the-resignation-of-yugoslav-president-slobodan-miloa-evia.xml)  
+
 ### [1999-08-19](/news/1999/08/19/index.md)
 
+##### Belgrade
 #  In Belgrade, tens of thousands of Serbians rally to demand the resignation of Yugoslav President Slobodan Milosevic
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/18/police-in-manipur-india-claim-a-rebel-group-has-killed-seven-migrant-workers.html)  [JSON](/news/2008/03/18/police-in-manipur-india-claim-a-rebel-group-has-killed-seven-migrant-workers.json)  [XML](/news/2008/03/18/police-in-manipur-india-claim-a-rebel-group-has-killed-seven-migrant-workers.xml)  
+
 ### [2008-03-18](/news/2008/03/18/index.md)
 
+##### Manipur
 #  Police in Manipur, India claim a rebel group has killed seven migrant workers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7302038.stm)
 

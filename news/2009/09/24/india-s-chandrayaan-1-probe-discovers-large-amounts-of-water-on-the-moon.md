@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/24/india-s-chandrayaan-1-probe-discovers-large-amounts-of-water-on-the-moon.html)  [JSON](/news/2009/09/24/india-s-chandrayaan-1-probe-discovers-large-amounts-of-water-on-the-moon.json)  [XML](/news/2009/09/24/india-s-chandrayaan-1-probe-discovers-large-amounts-of-water-on-the-moon.xml)  
+
 ### [2009-09-24](/news/2009/09/24/index.md)
 
+##### India
 #  India's Chandrayaan-1 probe discovers large amounts of water on the Moon. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Financial Times](http://www.ft.com/cms/s/0/607e2b60-a911-11de-b8bd-00144feabdc0.html)
 2. [Press Trust of India](http://www.ptinews.com/news/298416_Water-detected-on-moon-by-Chandrayaan--ISRO-says-path-breaking)
@@ -19,4 +23,4 @@
 2. [ India's Chandrayaan-1 lunar exploration mission successfully completes its journey to the Moon, entering its intended operational orbit 100 km above the surface. ](/news/2008/11/12/india-s-chandrayaan-1-lunar-exploration-mission-successfully-completes-its-journey-to-the-moon-entering-its-intended-operational-orbit-100.md) _Context: Chandrayaan-1, India, Moon_
 3. [ India successfully launches seven satellites in a single mission one month after its inaugural Moon mission is aborted. Included are six smaller satellites from Germany, Switzerland and Turkey. ](/news/2009/09/23/india-successfully-launches-seven-satellites-in-a-single-mission-one-month-after-its-inaugural-moon-mission-is-aborted-included-are-six-sm.md) _Context: India, Moon_
 4. [ India's first lunar mission, Chandrayaan-1, transmits two pictures of the Earth while en route to the Moon. ](/news/2008/11/1/india-s-first-lunar-mission-chandrayaan-1-transmits-two-pictures-of-the-earth-while-en-route-to-the-moon.md) _Context: Chandrayaan-1, Moon_
-5. [As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes a distance of 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.md) _Context: Moon_
+5. [Six-time U.S. NASA astronaut John Young dies at the age of 87. He was the 9th man who walked on the Moon. [http:--amp.timeinc.net-fortune-2018-01-06-astronaut-john-young-dead "(Time Magazine)"]](/news/2018/01/5/six-time-u-s-nasa-astronaut-john-young-dies-at-the-age-of-87-he-was-the-9th-man-who-walked-on-the-moon-http-amp-timeinc-net-fortune-20.md) _Context: Moon_

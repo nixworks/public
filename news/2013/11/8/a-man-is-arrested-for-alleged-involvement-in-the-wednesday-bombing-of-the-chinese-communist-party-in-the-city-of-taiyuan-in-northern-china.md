@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/8/a-man-is-arrested-for-alleged-involvement-in-the-wednesday-bombing-of-the-chinese-communist-party-in-the-city-of-taiyuan-in-northern-china.html)  [JSON](/news/2013/11/8/a-man-is-arrested-for-alleged-involvement-in-the-wednesday-bombing-of-the-chinese-communist-party-in-the-city-of-taiyuan-in-northern-china.json)  [XML](/news/2013/11/8/a-man-is-arrested-for-alleged-involvement-in-the-wednesday-bombing-of-the-chinese-communist-party-in-the-city-of-taiyuan-in-northern-china.xml)  
+
 ### [2013-11-8](/news/2013/11/8/index.md)
 
+##### Chinese Communist Party
 # A man is arrested for alleged involvement in the Wednesday bombing of the Chinese Communist Party in the city of Taiyuan in northern China. 
 
 State media says police arrested a 41-year-old ex-convict in the early hours of Friday morning in connection with Wednesday&#039;s bombing of a Communist Party headquarters in north China
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/10434851/Man-arrested-for-bombing-Communist-Party-HQ.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02725/china-bomb-street-_2725179k.jpg)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/03/25/reading-football-club-are-promoted-to-the-premier-league-for-the-first-time-in-their-135-year-history-they-are-also-the-first-post-war-foo.html)  [JSON](/news/2006/03/25/reading-football-club-are-promoted-to-the-premier-league-for-the-first-time-in-their-135-year-history-they-are-also-the-first-post-war-foo.json)  [XML](/news/2006/03/25/reading-football-club-are-promoted-to-the-premier-league-for-the-first-time-in-their-135-year-history-they-are-also-the-first-post-war-foo.xml)  
+
 ### [2006-03-25](/news/2006/03/25/index.md)
 
+##### Reading Football Club
 #  Reading Football Club are promoted to the Premier League for the first time in their 135-year history. They are also the first post-war football club to be promoted to the Premier League in March.
 
 

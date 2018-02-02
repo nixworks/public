@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/1/news-anchor-barbara-walters-admits-to-having-affair-with-us-senator-edward-brooke.html)  [JSON](/news/2008/05/1/news-anchor-barbara-walters-admits-to-having-affair-with-us-senator-edward-brooke.json)  [XML](/news/2008/05/1/news-anchor-barbara-walters-admits-to-having-affair-with-us-senator-edward-brooke.xml)  
+
 ### [2008-05-1](/news/2008/05/1/index.md)
 
+##### Barbara Walters
 #  News anchor Barbara Walters admits to having affair with US Senator Edward Brooke. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://www.cnn.com/2008/SHOWBIZ/books/05/01/tv.walters.affair.ap/index.html)
 

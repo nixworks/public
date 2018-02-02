@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/15/the-croatian-parliament-passes-a-law-that-recognizes-life-partnerships-for-same-sex-couples-making-them-equal-married-couples-in-everything.html)  [JSON](/news/2014/07/15/the-croatian-parliament-passes-a-law-that-recognizes-life-partnerships-for-same-sex-couples-making-them-equal-married-couples-in-everything.json)  [XML](/news/2014/07/15/the-croatian-parliament-passes-a-law-that-recognizes-life-partnerships-for-same-sex-couples-making-them-equal-married-couples-in-everything.xml)  
+
 ### [2014-07-15](/news/2014/07/15/index.md)
 
+##### Croatian
 # The Croatian parliament passes a law that recognizes life partnerships for same-sex couples, making them equal married couples in everything except adoption. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [queer.de](http://www.queer.de/detail.php?article_id=21946)
 1. [Cover Image](http://www.queer.de/publisher/pics/Kroatien-Parlament-800.jpg)

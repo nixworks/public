@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/15/at-least-20-people-are-killed-and-200-injured-in-an-explosion-in-southern-beirut-near-a-complex-used-by-lebanon-s-militant-group-hezbollah-i.html)  [JSON](/news/2013/08/15/at-least-20-people-are-killed-and-200-injured-in-an-explosion-in-southern-beirut-near-a-complex-used-by-lebanon-s-militant-group-hezbollah-i.json)  [XML](/news/2013/08/15/at-least-20-people-are-killed-and-200-injured-in-an-explosion-in-southern-beirut-near-a-complex-used-by-lebanon-s-militant-group-hezbollah-i.xml)  
+
 ### [2013-08-15](/news/2013/08/15/index.md)
 
+##### 20 people are killed and 200 injured
 # At least 20 people are killed and 200 injured in an explosion in southern Beirut near a complex used by Lebanon's militant group Hezbollah in Lebanon. A previously unknown Syrian Sunni group claims responsibility in an online video. 
 
 At least 22 people killed and buildings and cars set ablaze by explosion near facility used by the powerful Shia group.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/08/2013815152140188564.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/8/15/201381523718129734_20.jpg)

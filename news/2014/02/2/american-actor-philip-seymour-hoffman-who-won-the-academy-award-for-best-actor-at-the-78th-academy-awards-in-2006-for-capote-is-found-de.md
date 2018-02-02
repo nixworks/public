@@ -1,24 +1,28 @@
+
+Formats: [HTML](/news/2014/02/2/american-actor-philip-seymour-hoffman-who-won-the-academy-award-for-best-actor-at-the-78th-academy-awards-in-2006-for-capote-is-found-de.html)  [JSON](/news/2014/02/2/american-actor-philip-seymour-hoffman-who-won-the-academy-award-for-best-actor-at-the-78th-academy-awards-in-2006-for-capote-is-found-de.json)  [XML](/news/2014/02/2/american-actor-philip-seymour-hoffman-who-won-the-academy-award-for-best-actor-at-the-78th-academy-awards-in-2006-for-capote-is-found-de.xml)  
+
 ### [2014-02-2](/news/2014/02/2/index.md)
 
+##### U.S.
 # American actor Philip Seymour Hoffman, who won the Academy Award for Best Actor at the 78th Academy Awards in 2006 for "Capote", is found dead in his Manhattan apartment at the age of 46. Authorities initially attributed the death to a drug overdose. 
 
 Oscar-winning actor Philip Seymour Hoffman was found dead of an apparent heroin overdose — with a hypodermic needle still stuck in his arm and 70 baggies of the drug inside his Greenwich Village pa…
 
 
-### Source:
+### Sources:
 
-1. [NY Post](http://nypost.com/2014/02/02/philip-seymour-hoffman-found-dead-in-his-apartment/)
+1. [NY Post](https://nypost.com/2014/02/02/philip-seymour-hoffman-found-dead-in-his-apartment/)
 1. [Cover Image](https://thenypost.files.wordpress.com/2014/02/hoffmaninset.jpg?quality=90&amp;strip=all&amp;w=1200)
-
-### Related:
-
-1. [ 78th Academy Awards: "Crash" wins Best Picture, Ang Lee ("Brokeback Mountain") wins Best Director, Reese Witherspoon ("Walk the Line") wins Best Actress, and Philip Seymour Hoffman ("Capote") wins Best Actor. ](/news/2006/03/5/78th-academy-awards-crash-wins-best-picture-ang-lee-brokeback-mountain-wins-best-director-reese-witherspoon-walk-the-line-wins.md) _Context: 78th Academy Awards, Academy Award for Best Actor, Capote, Philip Seymour Hoffman_
-2. [Manhattan District Attorney Cyrus R. Vance, Jr. announces over $800 million in grants available to various agencies across the U.S. for law enforcement-related initiatives such as testing of potentially expired rape kits, the funding of an international center devoted to monitoring cyber attacks, and a program at John Jay College of Criminal Justice dedicated to training prosecutors. The grants are funded from criminal penalties paid by several international banks accused of violating sanctions. ](/news/2015/11/8/manhattan-district-attorney-cyrus-r-vance-jr-announces-over-800-million-in-grants-available-to-various-agencies-across-the-u-s-for-law.md) _Context: Manhattan, United States_
-3. [A Manhattan federal court convicts Ross Ulbricht, aka "Dread Pirate Roberts", the owner of the Silk Road Deep Web illicit products website, on seven charges including trafficking and money laundering in the United States. ](/news/2015/02/4/a-manhattan-federal-court-convicts-ross-ulbricht-aka-dread-pirate-roberts-the-owner-of-the-silk-road-deep-web-illicit-products-website.md) _Context: Manhattan, United States_
-4. [The Nobel Prize committee awards American Richard Thaler the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-his.md) _Context: United States_
-5. [Tropical Storm Nate heads for the Gulf Coast of the United States after causing dozens of deaths in Central America and severe flooding in the Nicaraguan town of Rivas. ](/news/2017/10/6/tropical-storm-nate-heads-for-the-gulf-coast-of-the-united-states-after-causing-dozens-of-deaths-in-central-america-and-severe-flooding-in-t.md) _Context: United States_
 
 ### Changes:
 
 1. [American actor Philip Seymour Hoffman, who won the Academy Award for Best Actor at the 78th Academy Awards in 2006 for ''Capote'', is found dead in his Manhattan apartment at the age of 46. Authorities initially attributed the death to a drug overdose. ](/news/2014/02/2/american-actor-philip-seymour-hoffman-who-won-the-academy-award-for-best-actor-at-the-78th-academy-awards-in-2006-for-capote-is-found.md) _2017-08-25 03:39:57 (First version)_
 1. [American actor Philip Seymour Hoffman, who won the Academy Award for Best Actor at the 78th Academy Awards in 2006 for "Capote", is found dead in his Manhattan apartment at the age of 46. Authorities initially attributed the death to a drug overdose. ](/news/2014/02/2/american-actor-philip-seymour-hoffman-who-won-the-academy-award-for-best-actor-at-the-78th-academy-awards-in-2006-for-capote-is-found-de.md) _(Current version)_
+
+### Related:
+
+1. [ 78th Academy Awards: "Crash" wins Best Picture, Ang Lee ("Brokeback Mountain") wins Best Director, Reese Witherspoon ("Walk the Line") wins Best Actress, and Philip Seymour Hoffman ("Capote") wins Best Actor. ](/news/2006/03/5/78th-academy-awards-crash-wins-best-picture-ang-lee-brokeback-mountain-wins-best-director-reese-witherspoon-walk-the-line-wins.md) _Context: 78th Academy Awards, Academy Award for Best Actor, Capote, Philip Seymour Hoffman_
+2. [Manhattan District Attorney Cyrus R. Vance, Jr. announces over $800 million in grants available to various agencies across the U.S. for law enforcement-related initiatives such as testing of potentially expired rape kits, the funding of an international center devoted to monitoring cyber attacks, and a program at John Jay College of Criminal Justice dedicated to training prosecutors. The grants are funded from criminal penalties paid by several international banks accused of violating sanctions. ](/news/2015/11/8/manhattan-district-attorney-cyrus-r-vance-jr-announces-over-800-million-in-grants-available-to-various-agencies-across-the-u-s-for-law.md) _Context: Manhattan, U.S._
+3. [A Manhattan federal court convicts Ross Ulbricht, aka "Dread Pirate Roberts", the owner of the Silk Road Deep Web illicit products website, on seven charges including trafficking and money laundering in the United States. ](/news/2015/02/4/a-manhattan-federal-court-convicts-ross-ulbricht-aka-dread-pirate-roberts-the-owner-of-the-silk-road-deep-web-illicit-products-website.md) _Context: Manhattan, U.S._
+4. [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md) _Context: U.S._
+5. [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md) _Context: U.S._

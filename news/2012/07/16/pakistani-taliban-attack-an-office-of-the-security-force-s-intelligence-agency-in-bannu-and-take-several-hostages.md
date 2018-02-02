@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/07/16/pakistani-taliban-attack-an-office-of-the-security-force-s-intelligence-agency-in-bannu-and-take-several-hostages.html)  [JSON](/news/2012/07/16/pakistani-taliban-attack-an-office-of-the-security-force-s-intelligence-agency-in-bannu-and-take-several-hostages.json)  [XML](/news/2012/07/16/pakistani-taliban-attack-an-office-of-the-security-force-s-intelligence-agency-in-bannu-and-take-several-hostages.xml)  
+
 ### [2012-07-16](/news/2012/07/16/index.md)
 
+##### Pakistani Taliban
 # Pakistani Taliban attack an office of the security force's intelligence agency in Bannu and take several hostages. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/news/world/story/2012-07-16/pakistan-taliban-hostages/56245524/1?csp=34news)
+1. [USA Today](https://www.usatoday.com/news/world/story/2012-07-16/pakistan-taliban-hostages/56245524/1?csp=34news)
 1. [Cover Image](http://i.usatoday.net/news/_photos/2012/07/16/Pakistani-Taliban-attacks-police-takes-hostages-EO1SC6M4-x.jpg)
 
 ### Related:

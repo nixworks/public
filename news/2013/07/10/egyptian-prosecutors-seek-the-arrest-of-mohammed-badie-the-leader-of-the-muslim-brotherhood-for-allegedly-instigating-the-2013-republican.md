@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/10/egyptian-prosecutors-seek-the-arrest-of-mohammed-badie-the-leader-of-the-muslim-brotherhood-for-allegedly-instigating-the-2013-republican.html)  [JSON](/news/2013/07/10/egyptian-prosecutors-seek-the-arrest-of-mohammed-badie-the-leader-of-the-muslim-brotherhood-for-allegedly-instigating-the-2013-republican.json)  [XML](/news/2013/07/10/egyptian-prosecutors-seek-the-arrest-of-mohammed-badie-the-leader-of-the-muslim-brotherhood-for-allegedly-instigating-the-2013-republican.xml)  
+
 ### [2013-07-10](/news/2013/07/10/index.md)
 
+##### Egyptian
 # Egyptian prosecutors seek the arrest of Mohammed Badie, the leader of the Muslim Brotherhood, for allegedly instigating the 2013 Republican Guard headquarters clashes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23256937)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68644000/jpg/_68644501_68644500.jpg)

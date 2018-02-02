@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/25/voters-in-jamaica-go-to-the-polls-for-a-general
 
 ### [2016-02-25](/news/2016/02/25/index.md)
 
+##### Jamaican general election, 2016
 # Voters in Jamaica go to the polls for a general election, with the Jamaican Labour Party, led by Andrew Holness, winning a narrow victory. 
 
 Jamaica’s austerity policy that has brought three credit updates in the past year, is hanging in the balance. Voters must decide tomorrow whether to extend the rule of its chief advocate, Prime Minister Portia Simpson Miller, or vote in the opposition Jamaica Labour Party that pledges higher spending to create more jobs.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/18/somalia-sends-a-letter-of-protest-to-kenya-after-the-arrest-of-mps-and-other-officials-including-muslim-leader-al-amin-kimathi-over-recent.html)  [JSON](/news/2010/01/18/somalia-sends-a-letter-of-protest-to-kenya-after-the-arrest-of-mps-and-other-officials-including-muslim-leader-al-amin-kimathi-over-recent.json)  [XML](/news/2010/01/18/somalia-sends-a-letter-of-protest-to-kenya-after-the-arrest-of-mps-and-other-officials-including-muslim-leader-al-amin-kimathi-over-recent.xml)  
+
 ### [2010-01-18](/news/2010/01/18/index.md)
 
+##### Somalia
 # Somalia sends a letter of protest to Kenya after the arrest of MPs and other officials, including Muslim leader Al-Amin Kimathi, over recent riots. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Africa News](http://www.africanews.com/site/Kenya_12_Somali_MPs_arrested_in_Nairobi/list_messages/29461)
 2. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/africa/2010/0/3/Somali-MPs-among-300-arrested-Kenya-riot-swoop,17fcf521-e9c8-42bd-9657-c5e1318f9fd9.html)

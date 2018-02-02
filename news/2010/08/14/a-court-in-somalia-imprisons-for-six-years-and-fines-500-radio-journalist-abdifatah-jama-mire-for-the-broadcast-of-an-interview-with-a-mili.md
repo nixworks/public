@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/14/a-court-in-somalia-imprisons-for-six-years-and-fines-500-radio-journalist-abdifatah-jama-mire-for-the-broadcast-of-an-interview-with-a-mili.html)  [JSON](/news/2010/08/14/a-court-in-somalia-imprisons-for-six-years-and-fines-500-radio-journalist-abdifatah-jama-mire-for-the-broadcast-of-an-interview-with-a-mili.json)  [XML](/news/2010/08/14/a-court-in-somalia-imprisons-for-six-years-and-fines-500-radio-journalist-abdifatah-jama-mire-for-the-broadcast-of-an-interview-with-a-mili.xml)  
+
 ### [2010-08-14](/news/2010/08/14/index.md)
 
+##### Somalia
 # A court in Somalia imprisons for six years and fines $500 radio journalist Abdifatah Jama Mire for the broadcast of an interview with a militia leader in Puntland. 
 
 Puntland court jails journalist for interviewing Muslim leader with ties to fighters.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/08/20108151010514985.html)
 2. [RTÉ](http://www.rte.ie/news/2010/0814/somalia.html)

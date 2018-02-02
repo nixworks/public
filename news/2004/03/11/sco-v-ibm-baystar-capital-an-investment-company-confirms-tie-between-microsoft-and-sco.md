@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/11/sco-v-ibm-baystar-capital-an-investment-company-confirms-tie-between-microsoft-and-sco.html)  [JSON](/news/2004/03/11/sco-v-ibm-baystar-capital-an-investment-company-confirms-tie-between-microsoft-and-sco.json)  [XML](/news/2004/03/11/sco-v-ibm-baystar-capital-an-investment-company-confirms-tie-between-microsoft-and-sco.xml)  
+
 ### [2004-03-11](/news/2004/03/11/index.md)
 
+##### SCO v. IBM
 #  SCO v. IBM: BayStar Capital, an investment company, confirms tie between Microsoft and SCO. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Business Week](http://www.businessweek.com/technology/content/mar2004/tc20040311_8915_tc119.htm)
 2. [CNet](http://news.cnet.com/2100-7344_3-5172426.html?tag=nefd_lede)

@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2012/09/5/the-unctad-releases-a-report-detailing-the-further-deterioration-of-the-occupied-palestinian-territories-s-economic-environment.html)  [JSON](/news/2012/09/5/the-unctad-releases-a-report-detailing-the-further-deterioration-of-the-occupied-palestinian-territories-s-economic-environment.json)  [XML](/news/2012/09/5/the-unctad-releases-a-report-detailing-the-further-deterioration-of-the-occupied-palestinian-territories-s-economic-environment.xml)  
+
 ### [2012-09-5](/news/2012/09/5/index.md)
 
+##### UNCTAD
 # The UNCTAD releases a report detailing the further deterioration of the occupied Palestinian territories's economic environment. 
 
 The United Nations UNCTAD agencyissued a gloomy outlook for the Palestinian economy onWednesday, arguing that tougher Israeli policies and settlementexpansion were pushing the occupied territories and Gaza deeperinto poverty.
 
 
-### Source:
+### Sources:
 
 1. [AFP via MSN Philippines](http://news.ph.msn.com/business/palestinian-economic-outlook-bleak-un-report-warns-1)
 2. [ReliefWeb](http://reliefweb.int/report/occupied-palestinian-territory/report-unctad-assistance-palestinian-people-developments-2)
-3. [Reuters](http://www.reuters.com/article/2012/09/05/palestine-economy-idUSL6E8K5HUB20120905)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/article/2012/09/05/palestine-economy-idUSL6E8K5HUB20120905)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

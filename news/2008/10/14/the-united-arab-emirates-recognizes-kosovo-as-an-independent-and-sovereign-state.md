@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/14/the-united-arab-emirates-recognizes-kosovo-as-an-independent-and-sovereign-state.html)  [JSON](/news/2008/10/14/the-united-arab-emirates-recognizes-kosovo-as-an-independent-and-sovereign-state.json)  [XML](/news/2008/10/14/the-united-arab-emirates-recognizes-kosovo-as-an-independent-and-sovereign-state.xml)  
+
 ### [2008-10-14](/news/2008/10/14/index.md)
 
+##### United Arab Emirates
 #  The United Arab Emirates recognizes Kosovo as an independent and sovereign state. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Emirates News Agency](http://www.wam.org.ae/servlet/Satellite?c=WamLocEnews&cid=1223546208865&p=1135099400124&pagename=WAM%2FWamLocEnews%2FW-T-LEN-FullNews)
 

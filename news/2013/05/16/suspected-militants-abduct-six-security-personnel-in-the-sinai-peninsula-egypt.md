@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/16/suspected-militants-abduct-six-security-personnel-in-the-sinai-peninsula-egypt.html)  [JSON](/news/2013/05/16/suspected-militants-abduct-six-security-personnel-in-the-sinai-peninsula-egypt.json)  [XML](/news/2013/05/16/suspected-militants-abduct-six-security-personnel-in-the-sinai-peninsula-egypt.xml)  
+
 ### [2013-05-16](/news/2013/05/16/index.md)
 
+##### Sinai Peninsula
 # Suspected militants abduct six security personnel in the Sinai Peninsula, Egypt. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Bloomberg](http://www.businessweek.com/ap/2013-05-16/gunmen-kidnap-7-egyptian-security-men-in-sinai)
 

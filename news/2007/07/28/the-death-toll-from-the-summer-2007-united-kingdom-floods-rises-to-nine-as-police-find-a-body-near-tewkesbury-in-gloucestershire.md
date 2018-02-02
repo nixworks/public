@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/28/the-death-toll-from-the-summer-2007-united-kingdom-floods-rises-to-nine-as-police-find-a-body-near-tewkesbury-in-gloucestershire.html)  [JSON](/news/2007/07/28/the-death-toll-from-the-summer-2007-united-kingdom-floods-rises-to-nine-as-police-find-a-body-near-tewkesbury-in-gloucestershire.json)  [XML](/news/2007/07/28/the-death-toll-from-the-summer-2007-united-kingdom-floods-rises-to-nine-as-police-find-a-body-near-tewkesbury-in-gloucestershire.xml)  
+
 ### [2007-07-28](/news/2007/07/28/index.md)
 
+##### Summer 2007 United Kingdom floods
 #  The death toll from the Summer 2007 United Kingdom floods rises to nine as police find a body near Tewkesbury in Gloucestershire. 
 
 Police say emergency workers have found a man&#039;s body in a submerged field, bringing to at least nine the death toll in Britain&#039;s worst floods for 60 years.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/29/1991008.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

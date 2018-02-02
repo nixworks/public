@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/19/danish-filmmaker-lars-von-trier-is-banned-by-the-cannes-film-festival-for-remarks-made-in-jest-that-he-sympathizes-with-adolf-hitler-trie.html)  [JSON](/news/2011/05/19/danish-filmmaker-lars-von-trier-is-banned-by-the-cannes-film-festival-for-remarks-made-in-jest-that-he-sympathizes-with-adolf-hitler-trie.json)  [XML](/news/2011/05/19/danish-filmmaker-lars-von-trier-is-banned-by-the-cannes-film-festival-for-remarks-made-in-jest-that-he-sympathizes-with-adolf-hitler-trie.xml)  
+
 ### [2011-05-19](/news/2011/05/19/index.md)
 
+##### Danish
 # Danish filmmaker Lars von Trier is banned by the Cannes Film Festival for remarks, made in jest, that he sympathizes with Adolf Hitler. Trier later apologises for his comments. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ga452JRxmj1dNY8Pan429Afh3sig?docId=df8f9cbde00e418d80ae5966386f77aa)
 2. [The Guardian](http://www.guardian.co.uk/film/2011/may/19/cannes-film-festival-2011-lars-von-trier-banned)

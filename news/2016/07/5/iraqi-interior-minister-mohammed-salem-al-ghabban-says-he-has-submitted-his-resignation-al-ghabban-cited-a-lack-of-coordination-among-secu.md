@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/5/iraqi-interior-minister-mohammed-salem-al-ghabba
 
 ### [2016-07-5](/news/2016/07/5/index.md)
 
+##### July 2016 Baghdad bombings
 # Iraqi Interior Minister Mohammed Salem Al-Ghabban says he has submitted his resignation. Al-Ghabban cited a lack of "coordination among security systems" demonstrated by Sunday's bombings in Baghdad that killed over 200 people and injured at least 175 others. No report yet that Prime Minister Haider al-Abadi has accepted this resignation. 
 
 

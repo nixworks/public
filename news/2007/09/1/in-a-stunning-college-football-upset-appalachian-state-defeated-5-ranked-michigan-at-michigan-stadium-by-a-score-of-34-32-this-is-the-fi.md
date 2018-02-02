@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2007/09/1/in-a-stunning-college-football-upset-appalachian-state-defeated-5-ranked-michigan-at-michigan-stadium-by-a-score-of-34-32-this-is-the-fi.html)  [JSON](/news/2007/09/1/in-a-stunning-college-football-upset-appalachian-state-defeated-5-ranked-michigan-at-michigan-stadium-by-a-score-of-34-32-this-is-the-fi.json)  [XML](/news/2007/09/1/in-a-stunning-college-football-upset-appalachian-state-defeated-5-ranked-michigan-at-michigan-stadium-by-a-score-of-34-32-this-is-the-fi.xml)  
+
 ### [2007-09-1](/news/2007/09/1/index.md)
 
+##### college football
 #  In a stunning college football upset, Appalachian State defeated #5-ranked Michigan at Michigan Stadium by a score of 34-32. This is the first time a team from the second-tier NCAA Division I FCS has defeated an AP-ranked Division I FBS opponent. Armanti Edwards was the quarterback for the underdog Mountaineers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Ann Arbor News](http://www.mlive.com/wolverines/index.ssf/2007/09/appalachian_state_derails_mich.html)
+
+### Changes:
+
+1. [ In a stunning college football upset, Appalachian State defeated #5-ranked Michigan at Michigan Stadium by a score of 34-32. This is the first time a team from the second-tier NCAA Division I FCS has defeated an AP-ranked Division I FBS opponent. Armanti Edwards was the quarterback for the underdog Mountaineers. ](/news/2007/09/1/in-a-stunning-college-football-upset-appalachian-state-defeated-5-ranked-michigan-at-michigan-stadium-by-a-score-of-34-32-this-is-the-f.md) _2017-08-25 03:20:48 (First version)_
+1. [ In a stunning college football upset, Appalachian State defeated #5-ranked Michigan at Michigan Stadium by a score of 34-32. This is the first time a team from the second-tier NCAA Division I FCS has defeated an AP-ranked Division I FBS opponent. Armanti Edwards was the quarterback for the underdog Mountaineers. ](/news/2007/09/1/in-a-stunning-college-football-upset-appalachian-state-defeated-5-ranked-michigan-at-michigan-stadium-by-a-score-of-34-32-this-is-the-fi.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [The office of the United States Attorney for the Southern District of New York announces that 10 individuals, including assistant coaches at four NCAA Division I men's basketball programs--Arizona, Auburn, Oklahoma State, and USC--have been arrested on federal corruption charges. The accused are alleged to be part of a scheme by which coaches accepted bribes to steer NBA-bound college players toward certain agents and financial advisers. Court documents also allege that an apparel company later identified as Adidas paid $100,000 to the family of an unnamed player to ensure his signing with an unnamed Division I school, which was later confirmed as the University of Louisville. ](/news/2017/09/26/the-office-of-the-united-states-attorney-for-the-southern-district-of-new-york-announces-that-10-individuals-including-assistant-coaches-at.md) _Context: NCAA_
 4. [In a case brought by a group of former NCAA athletes, U.S. District Court judge Claudia Wilken rules that the NCAA violated antitrust law by restricting the compensation that college athletes can receive for their publicity rights. ](/news/2014/08/8/in-a-case-brought-by-a-group-of-former-ncaa-athletes-u-s-district-court-judge-claudia-wilken-rules-that-the-ncaa-violated-antitrust-law-by.md) _Context: NCAA_
 5. [ The University of Florida Gators defeat the Ohio State Buckeyes 84-75 in the 2007 NCAA Men's Division I Basketball Tournament championship game, becoming the first school in Division I history to win both the men's college basketball and college football titles in the same academic year. ](/news/2007/04/2/the-university-of-florida-gators-defeat-the-ohio-state-buckeyes-84-75-in-the-2007-ncaa-men-s-division-i-basketball-tournament-championship.md) _Context: college football_
-
-### Changes:
-
-1. [ In a stunning college football upset, Appalachian State defeated #5-ranked Michigan at Michigan Stadium by a score of 34-32. This is the first time a team from the second-tier NCAA Division I FCS has defeated an AP-ranked Division I FBS opponent. Armanti Edwards was the quarterback for the underdog Mountaineers. ](/news/2007/09/1/in-a-stunning-college-football-upset-appalachian-state-defeated-5-ranked-michigan-at-michigan-stadium-by-a-score-of-34-32-this-is-the-f.md) _2017-08-25 03:20:48 (First version)_
-1. [ In a stunning college football upset, Appalachian State defeated #5-ranked Michigan at Michigan Stadium by a score of 34-32. This is the first time a team from the second-tier NCAA Division I FCS has defeated an AP-ranked Division I FBS opponent. Armanti Edwards was the quarterback for the underdog Mountaineers. ](/news/2007/09/1/in-a-stunning-college-football-upset-appalachian-state-defeated-5-ranked-michigan-at-michigan-stadium-by-a-score-of-34-32-this-is-the-fi.md) _(Current version)_

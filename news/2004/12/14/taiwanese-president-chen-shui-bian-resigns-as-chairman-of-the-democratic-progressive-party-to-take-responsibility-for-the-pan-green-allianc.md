@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/14/taiwanese-president-chen-shui-bian-resigns-as-chairman-of-the-democratic-progressive-party-to-take-responsibility-for-the-pan-green-allianc.html)  [JSON](/news/2004/12/14/taiwanese-president-chen-shui-bian-resigns-as-chairman-of-the-democratic-progressive-party-to-take-responsibility-for-the-pan-green-allianc.json)  [XML](/news/2004/12/14/taiwanese-president-chen-shui-bian-resigns-as-chairman-of-the-democratic-progressive-party-to-take-responsibility-for-the-pan-green-allianc.xml)  
+
 ### [2004-12-14](/news/2004/12/14/index.md)
 
+##### Taiwan
 #  Taiwanese President Chen Shui-bian resigns as Chairman of the Democratic Progressive Party to take responsibility for the pan-green alliance's failure to win a majority in the legislative election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4094073.stm)
 

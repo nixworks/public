@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/12/9/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe-comes-out-to-theatres-walt-disney-pictures-and-walden-media.html)  [JSON](/news/2005/12/9/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe-comes-out-to-theatres-walt-disney-pictures-and-walden-media.json)  [XML](/news/2005/12/9/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe-comes-out-to-theatres-walt-disney-pictures-and-walden-media.xml)  
+
 ### [2005-12-9](/news/2005/12/9/index.md)
 
+##### The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
 #  The Chronicles of Narnia: The Lion, the Witch and the Wardrobe comes out to theatres. Walt Disney Pictures and Walden Media
 
 

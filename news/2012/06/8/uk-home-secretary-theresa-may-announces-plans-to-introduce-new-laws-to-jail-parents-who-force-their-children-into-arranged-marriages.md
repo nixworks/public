@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/8/uk-home-secretary-theresa-may-announces-plans-to-introduce-new-laws-to-jail-parents-who-force-their-children-into-arranged-marriages.html)  [JSON](/news/2012/06/8/uk-home-secretary-theresa-may-announces-plans-to-introduce-new-laws-to-jail-parents-who-force-their-children-into-arranged-marriages.json)  [XML](/news/2012/06/8/uk-home-secretary-theresa-may-announces-plans-to-introduce-new-laws-to-jail-parents-who-force-their-children-into-arranged-marriages.xml)  
+
 ### [2012-06-8](/news/2012/06/8/index.md)
 
+##### Home Secretary
 # UK Home Secretary Theresa May announces plans to introduce new laws to jail parents who force their children into arranged marriages. 
 
 New laws are to be introduced for England and Wales by the home secretary to jail parents who force their children to marry.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-18356117)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60756000/jpg/_60756458_007326210-1.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/29/a-u-s-military-raid-takes-place-in-yemen-s-sout
 
 ### [2017-01-29](/news/2017/01/29/index.md)
 
+##### Yemeni Civil War (2015-present)
 # A U.S. military raid takes place in Yemen's southern Al Bayda Governorate. According to medics on the scene as reported by Reuters, "around 30" were killed, among which were at least three senior Al-Qaeda members, at least one U.S. service member, and 10 women and children. 
 
  A U.S. commando died and three others were wounded carrying out a deadly dawn raid on the al Qaeda militant group in southern Yemen on Sunday, in the first mil

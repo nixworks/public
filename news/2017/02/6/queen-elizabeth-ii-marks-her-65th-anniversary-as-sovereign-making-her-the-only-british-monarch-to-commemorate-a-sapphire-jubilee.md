@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/6/queen-elizabeth-ii-marks-her-65th-anniversary-as
 
 ### [2017-02-6](/news/2017/02/6/index.md)
 
+##### Elizabeth II
 # Queen Elizabeth II marks her 65th anniversary as sovereign, making her the only British monarch to commemorate a Sapphire Jubilee. 
 
 

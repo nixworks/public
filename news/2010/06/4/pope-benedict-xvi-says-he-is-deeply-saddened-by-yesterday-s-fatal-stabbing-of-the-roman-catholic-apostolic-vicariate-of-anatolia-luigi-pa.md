@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/4/pope-benedict-xvi-says-he-is-deeply-saddened-by-yesterday-s-fatal-stabbing-of-the-roman-catholic-apostolic-vicariate-of-anatolia-luigi-pa.html)  [JSON](/news/2010/06/4/pope-benedict-xvi-says-he-is-deeply-saddened-by-yesterday-s-fatal-stabbing-of-the-roman-catholic-apostolic-vicariate-of-anatolia-luigi-pa.json)  [XML](/news/2010/06/4/pope-benedict-xvi-says-he-is-deeply-saddened-by-yesterday-s-fatal-stabbing-of-the-roman-catholic-apostolic-vicariate-of-anatolia-luigi-pa.xml)  
+
 ### [2010-06-4](/news/2010/06/4/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI says he is "deeply saddened" by yesterday's fatal stabbing of the Roman Catholic Apostolic Vicariate of Anatolia, Luigi Padovese, who was to meet him on the first ever visit to Cyprus by any Pope today. 
 
 The Pope says he is saddened by the killing of a Catholic bishop in Turkey, but that the murder was not politically motivated.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10236062.stm)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

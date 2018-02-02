@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/29/north-korea-frees-four-south-korean-fishermen-seized-last-month-when-the-boat-strayed-across-the-northern-limit-line-sea-boundary.html)  [JSON](/news/2009/08/29/north-korea-frees-four-south-korean-fishermen-seized-last-month-when-the-boat-strayed-across-the-northern-limit-line-sea-boundary.json)  [XML](/news/2009/08/29/north-korea-frees-four-south-korean-fishermen-seized-last-month-when-the-boat-strayed-across-the-northern-limit-line-sea-boundary.xml)  
+
 ### [2009-08-29](/news/2009/08/29/index.md)
 
+##### North Korea
 #  North Korea frees four South Korean fishermen seized last month when the boat strayed across the Northern Limit Line sea boundary. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8228175.stm)
 2. [JoongAng Daily](http://joongangdaily.joins.com/article/view.asp?aid=2909406)

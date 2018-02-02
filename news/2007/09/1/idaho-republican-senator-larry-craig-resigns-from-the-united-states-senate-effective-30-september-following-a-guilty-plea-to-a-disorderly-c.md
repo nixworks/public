@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/09/1/idaho-republican-senator-larry-craig-resigns-from-the-united-states-senate-effective-30-september-following-a-guilty-plea-to-a-disorderly-c.html)  [JSON](/news/2007/09/1/idaho-republican-senator-larry-craig-resigns-from-the-united-states-senate-effective-30-september-following-a-guilty-plea-to-a-disorderly-c.json)  [XML](/news/2007/09/1/idaho-republican-senator-larry-craig-resigns-from-the-united-states-senate-effective-30-september-following-a-guilty-plea-to-a-disorderly-c.xml)  
+
 ### [2007-09-1](/news/2007/09/1/index.md)
 
+##### Idaho
 #  Idaho Republican Senator Larry Craig resigns from the United States Senate effective 30 September following a guilty plea to a disorderly conduct charge following his arrest in a restroom at the Minneapolis-St. Paul International Airport. (Wikinews)
 
 

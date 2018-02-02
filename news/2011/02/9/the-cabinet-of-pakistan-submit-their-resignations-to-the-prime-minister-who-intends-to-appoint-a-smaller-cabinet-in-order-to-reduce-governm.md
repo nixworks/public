@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/9/the-cabinet-of-pakistan-submit-their-resignations-to-the-prime-minister-who-intends-to-appoint-a-smaller-cabinet-in-order-to-reduce-governm.html)  [JSON](/news/2011/02/9/the-cabinet-of-pakistan-submit-their-resignations-to-the-prime-minister-who-intends-to-appoint-a-smaller-cabinet-in-order-to-reduce-governm.json)  [XML](/news/2011/02/9/the-cabinet-of-pakistan-submit-their-resignations-to-the-prime-minister-who-intends-to-appoint-a-smaller-cabinet-in-order-to-reduce-governm.xml)  
+
 ### [2011-02-9](/news/2011/02/9/index.md)
 
+##### Cabinet of Pakistan
 # The Cabinet of Pakistan submit their resignations to the prime minister, who intends to appoint a smaller cabinet in order to reduce government spending at a time of economic crisis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5i8jZd9DQPiTclbcq2U9o-kVxxE-A?docId=CNG.5b1299bcf195e527eee38fa8e23c0446.161)
 

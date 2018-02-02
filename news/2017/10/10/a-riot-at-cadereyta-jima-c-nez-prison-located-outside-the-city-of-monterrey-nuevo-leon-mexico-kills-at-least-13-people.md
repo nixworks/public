@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/10/10/a-riot-at-cadereyta-jima-c-nez-prison-located-outside-the-city-of-monterrey-nuevo-leon-mexico-kills-at-least-13-people.html)  [JSON](/news/2017/10/10/a-riot-at-cadereyta-jima-c-nez-prison-located-outside-the-city-of-monterrey-nuevo-leon-mexico-kills-at-least-13-people.json)  [XML](/news/2017/10/10/a-riot-at-cadereyta-jima-c-nez-prison-located-outside-the-city-of-monterrey-nuevo-leon-mexico-kills-at-least-13-people.xml)  
+
 ### [2017-10-10](/news/2017/10/10/index.md)
 
+##### Prison riot in Mexico
 # A riot at Cadereyta Jimenez prison located outside the city of Monterrey, Nuevo Leon, Mexico, kills at least 13 people. 
 
 At least 13 people were killed when a fight broke out in a prison in the northern Mexican state of Nuevo Leon and security troops were sent in to quell the violence, a state security official said on Tuesday.
@@ -16,4 +20,4 @@ At least 13 people were killed when a fight broke out in a prison in the norther
 2. [Mexican Drug War: 49 dismembered bodies are discovered by Mexican authorities on Mexican Federal Highway 40. The decapitated and mutilated bodies were dumped on a roadside near the northern city of Monterrey, presumably by members of the powerful Los Zetas drug cartel. ](/news/2012/05/13/mexican-drug-war-49-dismembered-bodies-are-discovered-by-mexican-authorities-on-mexican-federal-highway-40-the-decapitated-and-mutilated-b.md) _Context: Mexico, Monterrey_
 3. [A mass grave containing at least 50 tortured and burned corpses is unearthed east of Monterrey, Nuevo Leon, in Mexico. ](/news/2010/07/24/a-mass-grave-containing-at-least-50-tortured-and-burned-corpses-is-unearthed-east-of-monterrey-nuevo-lea3n-in-mexico.md) _Context: Mexico, Monterrey_
 4. [A cargo aircraft crashes on take-off from General Mariano Escobedo International Airport, Monterrey, Mexico, killing five crew members and one person in a car on the ground. ](/news/2010/04/14/a-cargo-aircraft-crashes-on-take-off-from-general-mariano-escobedo-international-airport-monterrey-mexico-killing-five-crew-members-and-o.md) _Context: Mexico, Monterrey_
-5. [A Mexican military Bell 412 model helicopter crashes northeast of the town of El Salto in the mountainous state of Durango, seriously injuring one military member aboard and likely killing seven others. ](/news/2017/10/6/a-mexican-military-bell-412-model-helicopter-crashes-northeast-of-the-town-of-el-salto-in-the-mountainous-state-of-durango-seriously-injuri.md) _Context: Mexico_
+5. [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-pea-a-nieto-and-foreign-secretary-luis-videgaray.md) _Context: Mexico_

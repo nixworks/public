@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/15/a-preliminary-report-from-the-dutch-safety-board-of-the-investigation-of-the-malaysia-airlines-flight-17-mh17-disaster-points-to-pro-russi.html)  [JSON](/news/2015/07/15/a-preliminary-report-from-the-dutch-safety-board-of-the-investigation-of-the-malaysia-airlines-flight-17-mh17-disaster-points-to-pro-russi.json)  [XML](/news/2015/07/15/a-preliminary-report-from-the-dutch-safety-board-of-the-investigation-of-the-malaysia-airlines-flight-17-mh17-disaster-points-to-pro-russi.xml)  
+
 ### [2015-07-15](/news/2015/07/15/index.md)
 
+##### Dutch Safety Board
 # A preliminary report from the Dutch Safety Board of the investigation of the Malaysia Airlines Flight 17 (MH17) disaster points to pro-Russian rebels as being responsible for the shooting down of the passenger flight on 17 July 2014. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2015/07/15/politics/mh17-pro-russian-missile-crash-ukraine/index.html)
 

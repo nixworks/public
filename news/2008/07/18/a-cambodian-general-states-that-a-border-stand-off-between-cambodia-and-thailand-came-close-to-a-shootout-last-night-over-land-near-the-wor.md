@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/18/a-cambodian-general-states-that-a-border-stand-off-between-cambodia-and-thailand-came-close-to-a-shootout-last-night-over-land-near-the-wor.html)  [JSON](/news/2008/07/18/a-cambodian-general-states-that-a-border-stand-off-between-cambodia-and-thailand-came-close-to-a-shootout-last-night-over-land-near-the-wor.json)  [XML](/news/2008/07/18/a-cambodian-general-states-that-a-border-stand-off-between-cambodia-and-thailand-came-close-to-a-shootout-last-night-over-land-near-the-wor.xml)  
+
 ### [2008-07-18](/news/2008/07/18/index.md)
 
+##### Cambodia
 #  A Cambodian general states that a border stand off between Cambodia and Thailand came close to a shootout last night over land near the World Heritage nominated Prasat Preah Vihear temple. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5h6tp2tO94iKNqIquUil4we_HH52QD9201FVO0)
 

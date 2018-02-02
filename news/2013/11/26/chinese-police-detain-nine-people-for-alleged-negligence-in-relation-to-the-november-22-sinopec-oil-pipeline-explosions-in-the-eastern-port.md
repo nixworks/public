@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/11/26/chinese-police-detain-nine-people-for-alleged-negligence-in-relation-to-the-november-22-sinopec-oil-pipeline-explosions-in-the-eastern-port.html)  [JSON](/news/2013/11/26/chinese-police-detain-nine-people-for-alleged-negligence-in-relation-to-the-november-22-sinopec-oil-pipeline-explosions-in-the-eastern-port.json)  [XML](/news/2013/11/26/chinese-police-detain-nine-people-for-alleged-negligence-in-relation-to-the-november-22-sinopec-oil-pipeline-explosions-in-the-eastern-port.xml)  
+
 ### [2013-11-26](/news/2013/11/26/index.md)
 
+##### Chinese police
 # Chinese police detain nine people for alleged negligence in relation to the November 22 Sinopec oil pipeline explosions in the eastern port city of Qingdao which killed at least 55 people. 
 
 Chinese police have detained nine people in connection with oil pipeline explosions last week that killed 55 people in the eastern port city of Qingdao, state media reported on Tuesday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/11/26/us-china-sinopec-blasts-idUSBRE9AP02N20131126)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131126&t=2&i=815081241&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9AP05ID00)
+1. [Reuters](https://www.reuters.com/article/2013/11/26/us-china-sinopec-blasts-idUSBRE9AP02N20131126)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20131126&t=2&i=815081241&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9AP05ID00)
 
 ### Related:
 

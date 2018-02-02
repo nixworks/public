@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/26/marshall-islands-president-casten-nemra-is-defe
 
 ### [2016-01-26](/news/2016/01/26/index.md)
 
+##### Marshall Islands
 # Marshall Islands President Casten Nemra is defeated in a vote of no confidence. Nemra had just been elected President in early January 2016. A successor is expected to be selected soon. 
 
 The Marshall Islands newly elected president Casten Nemra has been toppled in a no confidence vote in Majuro this afternoon.

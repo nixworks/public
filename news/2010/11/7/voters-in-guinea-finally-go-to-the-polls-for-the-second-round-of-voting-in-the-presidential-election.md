@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/7/voters-in-guinea-finally-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election.html)  [JSON](/news/2010/11/7/voters-in-guinea-finally-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election.json)  [XML](/news/2010/11/7/voters-in-guinea-finally-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election.xml)  
+
 ### [2010-11-7](/news/2010/11/7/index.md)
 
+##### Guinea
 # Voters in Guinea finally go to the polls for the second round of voting in the presidential election. 
 
 Guineans cast their ballots in a vote that has been delayed multiple times following violent ethnic clashes.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/11/20101176543138159.html)
 2. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE6A51U920101106)

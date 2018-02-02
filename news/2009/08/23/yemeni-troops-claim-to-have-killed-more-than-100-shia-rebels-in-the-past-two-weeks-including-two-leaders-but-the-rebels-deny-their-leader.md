@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/23/yemeni-troops-claim-to-have-killed-more-than-100-shia-rebels-in-the-past-two-weeks-including-two-leaders-but-the-rebels-deny-their-leader.html)  [JSON](/news/2009/08/23/yemeni-troops-claim-to-have-killed-more-than-100-shia-rebels-in-the-past-two-weeks-including-two-leaders-but-the-rebels-deny-their-leader.json)  [XML](/news/2009/08/23/yemeni-troops-claim-to-have-killed-more-than-100-shia-rebels-in-the-past-two-weeks-including-two-leaders-but-the-rebels-deny-their-leader.xml)  
+
 ### [2009-08-23](/news/2009/08/23/index.md)
 
+##### Yemen
 #  Yemeni troops claim to have killed more than 100 Shia rebels in the past two weeks, including two leaders, but the rebels deny their leaders, Mohsen Saleh Gawd and Salah Jorman, are dead and no independent confirmation is made available. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8217131.stm)
 

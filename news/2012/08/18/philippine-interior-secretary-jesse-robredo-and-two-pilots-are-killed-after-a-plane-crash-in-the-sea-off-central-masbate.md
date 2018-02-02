@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/18/philippine-interior-secretary-jesse-robredo-and-two-pilots-are-killed-after-a-plane-crash-in-the-sea-off-central-masbate.html)  [JSON](/news/2012/08/18/philippine-interior-secretary-jesse-robredo-and-two-pilots-are-killed-after-a-plane-crash-in-the-sea-off-central-masbate.json)  [XML](/news/2012/08/18/philippine-interior-secretary-jesse-robredo-and-two-pilots-are-killed-after-a-plane-crash-in-the-sea-off-central-masbate.xml)  
+
 ### [2012-08-18](/news/2012/08/18/index.md)
 
+##### Jesse Robredo
 # Philippine Interior Secretary Jesse Robredo and two pilots are killed after a plane crash in the sea off central Masbate. 
 
 Philippine Interior Secretary Jesse Robredo is missing after a light aircraft he was travelling in crashed into the sea, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19305939)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62360000/jpg/_62360563_robredo.jpg)

@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2009/08/15/a-prison-riot-in-the-mexican-state-of-durango-leaves-at-least-19-people-dead-and-20-injured.html)  [JSON](/news/2009/08/15/a-prison-riot-in-the-mexican-state-of-durango-leaves-at-least-19-people-dead-and-20-injured.json)  [XML](/news/2009/08/15/a-prison-riot-in-the-mexican-state-of-durango-leaves-at-least-19-people-dead-and-20-injured.xml)  
+
 ### [2009-08-15](/news/2009/08/15/index.md)
 
+##### prison riot
 #  A prison riot in the Mexican state of Durango leaves at least 19 people dead and 20 injured. 
 
 Nineteen people died and at least another 20 were hurt in a prison fight on Friday in the northern Mexican state of Durango, a security official said. Many of the dead were shot in the clash between rival gangs at the prison in the town of Gomez Palacios, said Barbara Ramirez, a spokeswoman for the state security minister. &quot;We are currently trying to find out how these weapons got into the prison,&quot; she said. The prison holds inmates seen as low or medium security risks. Durango has seen an explosion of drug gang violence in recent months in clashes between the Gulf and the Sinaloa cartels but it was unclear whether this incident was related to drugs. At least 13,000 people have died in drug violence since President Felipe Calderon took office in Dec., 2006. Some 4,000 have been slain this year as powerful gangs clash over territory and federal police and soldiers try to impose order. (Reporting by Luis Rojas Mena and Robert Campbell, editing by Alan Elsner)
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8202789.stm)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=103557&sectionid=351020705)
-3. [Reuters](http://www.reuters.com/article/latestCrisis/idUSN14324060)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/article/latestCrisis/idUSN14324060)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

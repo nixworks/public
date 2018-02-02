@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/12/12/nicola-s-maduro-the-vice-president-of-venezuela-warns-that-president-hugo-cha-vez-faces-a-difficult-recovery-from-cancer-surgery-in-cuba.html)  [JSON](/news/2012/12/12/nicola-s-maduro-the-vice-president-of-venezuela-warns-that-president-hugo-cha-vez-faces-a-difficult-recovery-from-cancer-surgery-in-cuba.json)  [XML](/news/2012/12/12/nicola-s-maduro-the-vice-president-of-venezuela-warns-that-president-hugo-cha-vez-faces-a-difficult-recovery-from-cancer-surgery-in-cuba.xml)  
+
 ### [2012-12-12](/news/2012/12/12/index.md)
 
+##### Nicolas Maduro
 # Nicolas Maduro, the Vice President of Venezuela, warns that President Hugo Chavez faces a "difficult" recovery from cancer surgery in Cuba. 
 
 Venezuelan President Hugo Chavez is in stable but delicate condition after his latest cancer surgery, the government said on Wednesday in a somber assessment that could indicate an end to his 14-year rule.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/12/13/us-venezuela-chavez-idUSBRE8BB0XY20121213)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121213&t=2&i=684076323&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8BC076V00)
+1. [Reuters](https://www.reuters.com/article/2012/12/13/us-venezuela-chavez-idUSBRE8BB0XY20121213)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20121213&t=2&i=684076323&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8BC076V00)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/17/david-paterson-is-sworn-in-as-the-new-governor-of-new-york-after-the-eliot-spitzer-prostitution-scandal.html)  [JSON](/news/2008/03/17/david-paterson-is-sworn-in-as-the-new-governor-of-new-york-after-the-eliot-spitzer-prostitution-scandal.json)  [XML](/news/2008/03/17/david-paterson-is-sworn-in-as-the-new-governor-of-new-york-after-the-eliot-spitzer-prostitution-scandal.xml)  
+
 ### [2008-03-17](/news/2008/03/17/index.md)
 
+##### David Paterson
 #  David Paterson is sworn in as the new Governor of New York after the Eliot Spitzer prostitution scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/7300670.stm)
 

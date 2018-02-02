@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/8/a-woman-attacks-two-pilots-on-eagle-airways-flight-2279-from-blenheim-to-christchurch-new-zealand-the-aircraft-lands-safely-at-christchur.html)  [JSON](/news/2008/02/8/a-woman-attacks-two-pilots-on-eagle-airways-flight-2279-from-blenheim-to-christchurch-new-zealand-the-aircraft-lands-safely-at-christchur.json)  [XML](/news/2008/02/8/a-woman-attacks-two-pilots-on-eagle-airways-flight-2279-from-blenheim-to-christchurch-new-zealand-the-aircraft-lands-safely-at-christchur.xml)  
+
 ### [2008-02-8](/news/2008/02/8/index.md)
 
+##### Eagle Airways Flight 2279
 #  A woman attacks two pilots on Eagle Airways Flight 2279 from Blenheim to Christchurch, New Zealand. The aircraft lands safely at Christchurch and the suspect is arrested and charged with hijacking and three counts of assault. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/section/1/story.cfm?c_id=1&objectid=10491291)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/15/governments-companies-and-non-profit-organizations-around-the-world-have-been-editing-wikipedia-to-hide-criticism-and-push-a-point-of-vie.html)  [JSON](/news/2007/08/15/governments-companies-and-non-profit-organizations-around-the-world-have-been-editing-wikipedia-to-hide-criticism-and-push-a-point-of-vie.json)  [XML](/news/2007/08/15/governments-companies-and-non-profit-organizations-around-the-world-have-been-editing-wikipedia-to-hide-criticism-and-push-a-point-of-vie.xml)  
+
 ### [2007-08-15](/news/2007/08/15/index.md)
 
+##### Wikipedia
 #  Governments, companies, and non-profit organizations around the world have been editing Wikipedia to hide criticism and push a point of view. The previously anonymous edits can now be tracked to their source using the Wikipedia Scanner. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/6947532.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/6949153.stm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/4/south-africa-s-president-jacob-zuma-announces-full-withdrawal-from-the-central-african-republic-after-criticism-over-death-of-13-soldiers-du.html)  [JSON](/news/2013/04/4/south-africa-s-president-jacob-zuma-announces-full-withdrawal-from-the-central-african-republic-after-criticism-over-death-of-13-soldiers-du.json)  [XML](/news/2013/04/4/south-africa-s-president-jacob-zuma-announces-full-withdrawal-from-the-central-african-republic-after-criticism-over-death-of-13-soldiers-du.xml)  
+
 ### [2013-04-4](/news/2013/04/4/index.md)
 
+##### South Africa
 # South Africa's President Jacob Zuma announces full withdrawal from the Central African Republic after criticism over death of 13 soldiers during the fall of the government there. 
 
 President Jacob Zuma announces full withdrawal from Central African Republic after criticism over death of 13 soldiers.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/04/20134464929202943.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-22017853)

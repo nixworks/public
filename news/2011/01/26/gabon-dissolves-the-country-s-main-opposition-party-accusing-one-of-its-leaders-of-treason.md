@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/26/gabon-dissolves-the-country-s-main-opposition-party-accusing-one-of-its-leaders-of-treason.html)  [JSON](/news/2011/01/26/gabon-dissolves-the-country-s-main-opposition-party-accusing-one-of-its-leaders-of-treason.json)  [XML](/news/2011/01/26/gabon-dissolves-the-country-s-main-opposition-party-accusing-one-of-its-leaders-of-treason.xml)  
+
 ### [2011-01-26](/news/2011/01/26/index.md)
 
+##### Gabon
 # Gabon dissolves the country's main opposition party, accusing one of its leaders of treason. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE70P0C820110126)
 

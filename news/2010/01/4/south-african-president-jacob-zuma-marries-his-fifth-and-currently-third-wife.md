@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/4/south-african-president-jacob-zuma-marries-his-fifth-and-currently-third-wife.html)  [JSON](/news/2010/01/4/south-african-president-jacob-zuma-marries-his-fifth-and-currently-third-wife.json)  [XML](/news/2010/01/4/south-african-president-jacob-zuma-marries-his-fifth-and-currently-third-wife.xml)  
+
 ### [2010-01-4](/news/2010/01/4/index.md)
 
+##### South Africa
 # South African President Jacob Zuma marries his fifth and currently third wife. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8434865.stm)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE6030CF20100104)

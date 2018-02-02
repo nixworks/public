@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/13/the-men-s-downhill-skiing-is-postponed-due-to-slushy-conditions-with-the-women-s-super-combined-event-having-already-been-postponed.html)  [JSON](/news/2010/02/13/the-men-s-downhill-skiing-is-postponed-due-to-slushy-conditions-with-the-women-s-super-combined-event-having-already-been-postponed.json)  [XML](/news/2010/02/13/the-men-s-downhill-skiing-is-postponed-due-to-slushy-conditions-with-the-women-s-super-combined-event-having-already-been-postponed.xml)  
+
 ### [2010-02-13](/news/2010/02/13/index.md)
 
+##### 
 # The men's downhill skiing is postponed due to "slushy conditions", with the women's super-combined event having already been postponed. 
 
 Vancouvers Olympic troubles continued on Saturday as the mens downhill skiing event was postponed due to unsuitable weather.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/stories/2010/02/13/2818863.htm?section=world)
 2. [BBC](http://news.bbc.co.uk/sport2/hi/olympic_games/vancouver_2010/8513805.stm)

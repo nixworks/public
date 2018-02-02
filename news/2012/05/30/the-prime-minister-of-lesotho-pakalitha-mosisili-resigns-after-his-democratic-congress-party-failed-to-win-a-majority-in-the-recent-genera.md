@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/30/the-prime-minister-of-lesotho-pakalitha-mosisili-resigns-after-his-democratic-congress-party-failed-to-win-a-majority-in-the-recent-genera.html)  [JSON](/news/2012/05/30/the-prime-minister-of-lesotho-pakalitha-mosisili-resigns-after-his-democratic-congress-party-failed-to-win-a-majority-in-the-recent-genera.json)  [XML](/news/2012/05/30/the-prime-minister-of-lesotho-pakalitha-mosisili-resigns-after-his-democratic-congress-party-failed-to-win-a-majority-in-the-recent-genera.xml)  
+
 ### [2012-05-30](/news/2012/05/30/index.md)
 
+##### Prime Minister of Lesotho
 # The Prime Minister of Lesotho, Pakalitha Mosisili, resigns after his Democratic Congress party failed to win a majority in the recent general election, while opposition parties form a coalition. 
 
 Read the latest World and International news headlines from Sky News Australia. For coverage of breaking news from around the World visit skynews.com.au.
 
 
-### Source:
+### Sources:
 
 1. [Sky News Australia](http://www.skynews.com.au/world/article.aspx?id=755888&vId=)
 1. [Cover Image](http://www.skynews.com.au/content/dam/skynews/default-images/sn-default.jpg/_jcr_content/renditions/skynews.img.368.276.jpeg)

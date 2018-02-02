@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/07/9/venezuelan-president-hugo-cha-vez-says-that-he-has-completely-recovered-from-cancer-in-the-pelvic-region.html)  [JSON](/news/2012/07/9/venezuelan-president-hugo-cha-vez-says-that-he-has-completely-recovered-from-cancer-in-the-pelvic-region.json)  [XML](/news/2012/07/9/venezuelan-president-hugo-cha-vez-says-that-he-has-completely-recovered-from-cancer-in-the-pelvic-region.xml)  
+
 ### [2012-07-9](/news/2012/07/9/index.md)
 
+##### Venezuela
 # Venezuelan president Hugo Chavez says that he has completely recovered from cancer in the pelvic region. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/07/09/us-venezuela-election-chavez-idUSBRE8681CQ20120709)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120709&t=2&i=628346302&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8681OS600)
+1. [Reuters](https://www.reuters.com/article/2012/07/09/us-venezuela-election-chavez-idUSBRE8681CQ20120709)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120709&t=2&i=628346302&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8681OS600)
 
 ### Related:
 

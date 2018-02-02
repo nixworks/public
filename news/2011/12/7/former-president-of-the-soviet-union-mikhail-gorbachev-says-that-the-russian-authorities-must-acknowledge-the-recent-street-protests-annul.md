@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/7/former-president-of-the-soviet-union-mikhail-gorbachev-says-that-the-russian-authorities-must-acknowledge-the-recent-street-protests-annul.html)  [JSON](/news/2011/12/7/former-president-of-the-soviet-union-mikhail-gorbachev-says-that-the-russian-authorities-must-acknowledge-the-recent-street-protests-annul.json)  [XML](/news/2011/12/7/former-president-of-the-soviet-union-mikhail-gorbachev-says-that-the-russian-authorities-must-acknowledge-the-recent-street-protests-annul.xml)  
+
 ### [2011-12-7](/news/2011/12/7/index.md)
 
+##### President
 # Former President of the Soviet Union, Mikhail Gorbachev says that the Russian authorities must acknowledge the recent street protests, annul the results of Sunday's parliamentary election and hold a new poll. 
 
 The first and only president of the Soviet Union, Mikhail Gorbachev has said that the Russian authorities must acknowledge the recent street protests, annul the results of Sunday’s parliamentary election and hold a new poll.
 
 
-### Source:
+### Sources:
 
 1. [RT](http://rt.com/politics/calls-repeated-parliamentary-elections-241/)
 1. [Cover Image](https://img.rt.com/files/oldfiles/politics/calls-repeated-parliamentary-elections-241/novosti-krivobok-ruslan-ria.si.jpg)

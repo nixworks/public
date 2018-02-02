@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/10/following-the-german-federal-election-2005-christian-democrat-angela-merkel-will-become-the-next-chancellor-of-germany-replacing-social.html)  [JSON](/news/2005/10/10/following-the-german-federal-election-2005-christian-democrat-angela-merkel-will-become-the-next-chancellor-of-germany-replacing-social.json)  [XML](/news/2005/10/10/following-the-german-federal-election-2005-christian-democrat-angela-merkel-will-become-the-next-chancellor-of-germany-replacing-social.xml)  
+
 ### [2005-10-10](/news/2005/10/10/index.md)
 
+##### German federal election, 2005
 #  Following the German federal election, 2005, Christian Democrat Angela Merkel will become the next Chancellor of Germany, replacing Social Democrat Gerhard Schroder, although Schroder's party will be the dominant party in the grand coalition.
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4325600.stm)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2005-10-10T114504Z_01_KRA983130_RTRUKOC_0_US-GERMANY.xml)

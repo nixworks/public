@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/19/research-by-the-medical-research-council-shows-that-the-antibiotic-co-trimoxazole-can-halve-the-death-rate-in-hiv-positive-children-in-zamb.html)  [JSON](/news/2004/11/19/research-by-the-medical-research-council-shows-that-the-antibiotic-co-trimoxazole-can-halve-the-death-rate-in-hiv-positive-children-in-zamb.json)  [XML](/news/2004/11/19/research-by-the-medical-research-council-shows-that-the-antibiotic-co-trimoxazole-can-halve-the-death-rate-in-hiv-positive-children-in-zamb.xml)  
+
 ### [2004-11-19](/news/2004/11/19/index.md)
 
+##### Medical Research Council
 #  Research by the Medical Research Council shows that the antibiotic co-trimoxazole can halve the death rate in HIV-positive children in Zambia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/health/4021887.stm)
 

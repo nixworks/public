@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/8/ford-motor-company-recalls-nearly-435-000-vehicles-citing-rust-and-seat-issues.html)  [JSON](/news/2014/04/8/ford-motor-company-recalls-nearly-435-000-vehicles-citing-rust-and-seat-issues.json)  [XML](/news/2014/04/8/ford-motor-company-recalls-nearly-435-000-vehicles-citing-rust-and-seat-issues.xml)  
+
 ### [2014-04-8](/news/2014/04/8/index.md)
 
+##### Ford Motor Company
 # Ford Motor Company recalls nearly 435,000 vehicles, citing rust and seat issues. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/leisure/2014/04/08/ford-recalls-nearly-435000-cars-for-rust-seats/)
 

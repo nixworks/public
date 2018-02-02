@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2004/05/9/chechen-president-akhmad-kadyrov-is-killed-in-a-landmine-bomb-blast-under-a-vip-stage-during-a-world-war-nbsp-ii-memorial-victory-parade-in.html)  [JSON](/news/2004/05/9/chechen-president-akhmad-kadyrov-is-killed-in-a-landmine-bomb-blast-under-a-vip-stage-during-a-world-war-nbsp-ii-memorial-victory-parade-in.json)  [XML](/news/2004/05/9/chechen-president-akhmad-kadyrov-is-killed-in-a-landmine-bomb-blast-under-a-vip-stage-during-a-world-war-nbsp-ii-memorial-victory-parade-in.xml)  
+
 ### [2004-05-9](/news/2004/05/9/index.md)
 
+##### Akhmad Kadyrov
 #  Chechen president Akhmad Kadyrov is killed in a landmine bomb blast under a VIP stage during a World War&nbsp;II memorial victory parade in Grozny, Chechnya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://customwire.ap.org/dynamic/stories/R/RUSSIA_EXPLOSION?SITE=CAWOO&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/3697715.stm)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=5081717&section=news)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=5081717&section=news)
 
 ### Related:
 

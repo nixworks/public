@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/12/an-anti-china-protest-takes-place-in-hanoi-vietnam-for-the-second-weekend-in-a-row-amid-a-territorial-dispute-between-the-two-countries.html)  [JSON](/news/2011/06/12/an-anti-china-protest-takes-place-in-hanoi-vietnam-for-the-second-weekend-in-a-row-amid-a-territorial-dispute-between-the-two-countries.json)  [XML](/news/2011/06/12/an-anti-china-protest-takes-place-in-hanoi-vietnam-for-the-second-weekend-in-a-row-amid-a-territorial-dispute-between-the-two-countries.xml)  
+
 ### [2011-06-12](/news/2011/06/12/index.md)
 
+##### China
 # An anti-China protest takes place in Hanoi, Vietnam, for the second weekend in a row, amid a territorial dispute between the two countries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hQ8U4qVfLEgyEE5fxofV1rW3A0CA?docId=CNG.ceb1ca9177f1aa0846e65139128374a8.3d1)
 2. [Voice of America](http://www.voanews.com/english/news/Vietnamese-Stage-Anti-China-Protest-123709094.html)

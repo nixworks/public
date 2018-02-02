@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/12/yemeni-troops-backed-by-tanks-and-fighter-aircraft-launch-a-major-offensive-on-the-stronghold-of-shia-fighters-in-northern-yemen.html)  [JSON](/news/2009/08/12/yemeni-troops-backed-by-tanks-and-fighter-aircraft-launch-a-major-offensive-on-the-stronghold-of-shia-fighters-in-northern-yemen.json)  [XML](/news/2009/08/12/yemeni-troops-backed-by-tanks-and-fighter-aircraft-launch-a-major-offensive-on-the-stronghold-of-shia-fighters-in-northern-yemen.xml)  
+
 ### [2009-08-12](/news/2009/08/12/index.md)
 
+##### Yemen
 #  Yemeni troops, backed by tanks and fighter aircraft, launch a major offensive on the stronghold of Shia fighters in northern Yemen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/08/200981262048170260.html)
 1. [Cover Image](http://www.aljazeera.com)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/20/at-least-one-person-is-dead-and-twenty-injured-after-a-bomb-is-thrown-into-a-people-s-alliance-for-democracy-protest-compound-in-bangkok-t.html)  [JSON](/news/2008/11/20/at-least-one-person-is-dead-and-twenty-injured-after-a-bomb-is-thrown-into-a-people-s-alliance-for-democracy-protest-compound-in-bangkok-t.json)  [XML](/news/2008/11/20/at-least-one-person-is-dead-and-twenty-injured-after-a-bomb-is-thrown-into-a-people-s-alliance-for-democracy-protest-compound-in-bangkok-t.xml)  
+
 ### [2008-11-20](/news/2008/11/20/index.md)
 
+##### yellow shirt
 #  At least one person is dead and twenty injured after a bomb is thrown into a People's Alliance for Democracy protest compound in Bangkok, Thailand. 
 
 At least one person has died in Bangkok after a bomb was thrown into a compound full of anti-government protesters.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/stories/2008/11/20/2425058.htm?section=world)
 1. [Cover Image](http://www.abc.net.au/news/image/212768-1x1-700x700.jpg)

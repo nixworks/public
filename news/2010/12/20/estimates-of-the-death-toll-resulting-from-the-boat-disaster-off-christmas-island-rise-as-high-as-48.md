@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/20/estimates-of-the-death-toll-resulting-from-the-boat-disaster-off-christmas-island-rise-as-high-as-48.html)  [JSON](/news/2010/12/20/estimates-of-the-death-toll-resulting-from-the-boat-disaster-off-christmas-island-rise-as-high-as-48.json)  [XML](/news/2010/12/20/estimates-of-the-death-toll-resulting-from-the-boat-disaster-off-christmas-island-rise-as-high-as-48.xml)  
+
 ### [2010-12-20](/news/2010/12/20/index.md)
 
+##### Christmas Island boat disaster
 # Estimates of the death toll resulting from the boat disaster off Christmas Island rise as high as 48. 
 
 The death toll from the Christmas Island shipwreck could rise as high as 50, Prime Minister Julia Gillard confirmed today.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2010/12/20/3097650.htm?section=justin)
 1. [Cover Image](http://www.abc.net.au/news/image/2375540-1x1-700x700.jpg)

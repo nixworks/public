@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/27/a-bombing-of-a-superferry-by-abu-sayyaf-in-the-philippines.html)  [JSON](/news/2004/02/27/a-bombing-of-a-superferry-by-abu-sayyaf-in-the-philippines.json)  [XML](/news/2004/02/27/a-bombing-of-a-superferry-by-abu-sayyaf-in-the-philippines.xml)  
+
 ### [2004-02-27](/news/2004/02/27/index.md)
 
+##### Superferry
 #  A bombing of a Superferry by Abu Sayyaf in the Philippines.
 
 

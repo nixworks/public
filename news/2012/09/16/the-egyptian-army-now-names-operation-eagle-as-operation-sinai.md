@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/16/the-egyptian-army-now-names-operation-eagle-as-operation-sinai.html)  [JSON](/news/2012/09/16/the-egyptian-army-now-names-operation-eagle-as-operation-sinai.json)  [XML](/news/2012/09/16/the-egyptian-army-now-names-operation-eagle-as-operation-sinai.xml)  
+
 ### [2012-09-16](/news/2012/09/16/index.md)
 
+##### Egyptian Army
 # The Egyptian Army now names Operation Eagle as Operation Sinai. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Daily News Egypt](http://thedailynewsegypt.com/2012/09/08/egyptian-armed-forces-announce-results-of-operation-sinai/)
 

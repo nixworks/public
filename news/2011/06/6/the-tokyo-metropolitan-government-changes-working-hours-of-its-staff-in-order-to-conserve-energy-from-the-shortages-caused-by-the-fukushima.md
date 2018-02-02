@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/06/6/the-tokyo-metropolitan-government-changes-working-hours-of-its-staff-in-order-to-conserve-energy-from-the-shortages-caused-by-the-fukushima.html)  [JSON](/news/2011/06/6/the-tokyo-metropolitan-government-changes-working-hours-of-its-staff-in-order-to-conserve-energy-from-the-shortages-caused-by-the-fukushima.json)  [XML](/news/2011/06/6/the-tokyo-metropolitan-government-changes-working-hours-of-its-staff-in-order-to-conserve-energy-from-the-shortages-caused-by-the-fukushima.xml)  
+
 ### [2011-06-6](/news/2011/06/6/index.md)
 
+##### Tokyo Metropolitan Government
 # The Tokyo Metropolitan Government changes working hours of its staff in order to conserve energy from the shortages caused by the Fukushima Daiichi nuclear disaster. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/faced-with-power-crunch-from-nuke-accident-tokyo-city-workers-start-day-an-hour-earlier/2011/06/06/AGLNRxJH_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/faced-with-power-crunch-from-nuke-accident-tokyo-city-workers-start-day-an-hour-earlier/2011/06/06/AGLNRxJH_story.html)
 
 ### Related:
 

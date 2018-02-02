@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/19/in-azerbaijan-two-students-turan-aliev-from-baku-state-university-and-namik-feiziev-of-azerbaijan-state-pedagogical-university-are-readm.html)  [JSON](/news/2006/01/19/in-azerbaijan-two-students-turan-aliev-from-baku-state-university-and-namik-feiziev-of-azerbaijan-state-pedagogical-university-are-readm.json)  [XML](/news/2006/01/19/in-azerbaijan-two-students-turan-aliev-from-baku-state-university-and-namik-feiziev-of-azerbaijan-state-pedagogical-university-are-readm.xml)  
+
 ### [2006-01-19](/news/2006/01/19/index.md)
 
+##### Azerbaijan
 #  In Azerbaijan, two students (Turan Aliev from Baku State University and Namik Feiziev of Azerbaijan State Pedagogical University) are readmitted and end their 22-day hunger strike, started in protest at their expulsion which they claim resulted from their political activities. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IWPR](http://www.iwpr.net/?p=crs&s=f&o=259173&apc_state=henh)
 

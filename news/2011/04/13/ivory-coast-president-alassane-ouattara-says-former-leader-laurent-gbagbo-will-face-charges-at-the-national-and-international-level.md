@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/13/ivory-coast-president-alassane-ouattara-says-former-leader-laurent-gbagbo-will-face-charges-at-the-national-and-international-level.html)  [JSON](/news/2011/04/13/ivory-coast-president-alassane-ouattara-says-former-leader-laurent-gbagbo-will-face-charges-at-the-national-and-international-level.json)  [XML](/news/2011/04/13/ivory-coast-president-alassane-ouattara-says-former-leader-laurent-gbagbo-will-face-charges-at-the-national-and-international-level.xml)  
+
 ### [2011-04-13](/news/2011/04/13/index.md)
 
+##### Ivory Coast
 # Ivory Coast President Alassane Ouattara says former leader Laurent Gbagbo will face charges at the national and international level. 
 
 Former president to face charges while Ouattara pledges to ask ICC to probe alleged massacres committed during crisis.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/04/20114131271630353.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/13/2011413124511331784_20.jpg)

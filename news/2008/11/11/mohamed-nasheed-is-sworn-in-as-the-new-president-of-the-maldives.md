@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/11/mohamed-nasheed-is-sworn-in-as-the-new-president-of-the-maldives.html)  [JSON](/news/2008/11/11/mohamed-nasheed-is-sworn-in-as-the-new-president-of-the-maldives.json)  [XML](/news/2008/11/11/mohamed-nasheed-is-sworn-in-as-the-new-president-of-the-maldives.xml)  
+
 ### [2008-11-11](/news/2008/11/11/index.md)
 
+##### Mohamed Nasheed
 #  Mohamed Nasheed is sworn in as the new President of the Maldives. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/asiapcf/11/11/maldives.president/index.html?eref=edition_asia)
 

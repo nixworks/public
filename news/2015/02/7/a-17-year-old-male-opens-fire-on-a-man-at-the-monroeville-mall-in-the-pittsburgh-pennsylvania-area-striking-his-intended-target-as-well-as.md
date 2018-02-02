@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/7/a-17-year-old-male-opens-fire-on-a-man-at-the-monroeville-mall-in-the-pittsburgh-pennsylvania-area-striking-his-intended-target-as-well-as.html)  [JSON](/news/2015/02/7/a-17-year-old-male-opens-fire-on-a-man-at-the-monroeville-mall-in-the-pittsburgh-pennsylvania-area-striking-his-intended-target-as-well-as.json)  [XML](/news/2015/02/7/a-17-year-old-male-opens-fire-on-a-man-at-the-monroeville-mall-in-the-pittsburgh-pennsylvania-area-striking-his-intended-target-as-well-as.xml)  
+
 ### [2015-02-7](/news/2015/02/7/index.md)
 
+##### Monroeville Mall
 # A 17-year-old male opens fire on a man at the Monroeville Mall in the Pittsburgh, Pennsylvania area, striking his intended target as well as two bystanders hospitalizing three people. 
 
 Three people have been hospitalised with gunshot wounds after a 17-year-old male opened fire on a man at a mall in the Pittsburgh, Pennsylvania area, police say.
 
 
-### Source:
+### Sources:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/Teen-arrested-in-US-mall-shooting-20150208)
 2. [Pittsburgh Post-Gazette](http://www.post-gazette.com/local/2015/02/07/Shots-fired-at-Monroeville-Mall/stories/201502070146)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/25/1986-nobel-laureate-for-literature-wole-soyinka-the-first-african-to-receive-the-award-launches-a-political-party-ahead-of-nigeria-s-upcom.html)  [JSON](/news/2010/09/25/1986-nobel-laureate-for-literature-wole-soyinka-the-first-african-to-receive-the-award-launches-a-political-party-ahead-of-nigeria-s-upcom.json)  [XML](/news/2010/09/25/1986-nobel-laureate-for-literature-wole-soyinka-the-first-african-to-receive-the-award-launches-a-political-party-ahead-of-nigeria-s-upcom.xml)  
+
 ### [2010-09-25](/news/2010/09/25/index.md)
 
+##### Nobel Prize for Literature
 # 1986 Nobel Laureate for Literature Wole Soyinka, the first African to receive the award, launches a political party ahead of Nigeria's upcoming presidential election. 
 
 Nobel literature laureate Wole Soyinka launches a political party in Nigeria, months before the presidential election.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11411759)
 2. [Daily Nation](http://www.nation.co.ke/News/africa/Wole%20Soyinka%20launches%20new%20Nigeria%20party%20/-/1066/1018164/-/s7yk4kz/-/)

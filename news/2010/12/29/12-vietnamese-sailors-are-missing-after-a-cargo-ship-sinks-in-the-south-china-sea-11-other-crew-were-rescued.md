@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/29/12-vietnamese-sailors-are-missing-after-a-cargo-ship-sinks-in-the-south-china-sea-11-other-crew-were-rescued.html)  [JSON](/news/2010/12/29/12-vietnamese-sailors-are-missing-after-a-cargo-ship-sinks-in-the-south-china-sea-11-other-crew-were-rescued.json)  [XML](/news/2010/12/29/12-vietnamese-sailors-are-missing-after-a-cargo-ship-sinks-in-the-south-china-sea-11-other-crew-were-rescued.xml)  
+
 ### [2010-12-29](/news/2010/12/29/index.md)
 
+##### Vietnam
 # 12 Vietnamese sailors are missing after a cargo ship sinks in the South China Sea. 11 other crew were rescued. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Saigon Daily](http://www.saigon-gpdaily.com.vn/National/2010/12/88431/)
 

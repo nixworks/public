@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/6/the-sunday-times-uk-reports-that-israel-has-drawn-up-plans-to-possibly-destroy-iran-s-uranium-enrichment-facilities-with-tactical-nuclear.html)  [JSON](/news/2007/01/6/the-sunday-times-uk-reports-that-israel-has-drawn-up-plans-to-possibly-destroy-iran-s-uranium-enrichment-facilities-with-tactical-nuclear.json)  [XML](/news/2007/01/6/the-sunday-times-uk-reports-that-israel-has-drawn-up-plans-to-possibly-destroy-iran-s-uranium-enrichment-facilities-with-tactical-nuclear.xml)  
+
 ### [2007-01-6](/news/2007/01/6/index.md)
 
+##### The Sunday Times (UK)
 #  The Sunday Times (UK) reports that Israel has drawn up plans to possibly destroy Iran's uranium enrichment facilities with tactical nuclear weapons in the event that U.S. intervention does not occur, and non-nuclear strikes are ruled out. Iran has responded saying that "anyone who attacks will regret their actions very quickly." Israel denies such plans were made.
 
 News and opinion from The Times &amp; The Sunday Times
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/hasen/spages/810130.html)
 2. [The Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1167467674699&pagename=JPost%2FJPArticle%2FShowFull)

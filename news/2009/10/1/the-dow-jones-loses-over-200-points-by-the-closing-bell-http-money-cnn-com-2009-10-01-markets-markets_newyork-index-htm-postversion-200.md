@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2009/10/1/the-dow-jones-loses-over-200-points-by-the-closing-bell-http-money-cnn-com-2009-10-01-markets-markets_newyork-index-htm-postversion-200.html)  [JSON](/news/2009/10/1/the-dow-jones-loses-over-200-points-by-the-closing-bell-http-money-cnn-com-2009-10-01-markets-markets_newyork-index-htm-postversion-200.json)  [XML](/news/2009/10/1/the-dow-jones-loses-over-200-points-by-the-closing-bell-http-money-cnn-com-2009-10-01-markets-markets_newyork-index-htm-postversion-200.xml)  
+
 ### [2009-10-1](/news/2009/10/1/index.md)
 
+##### Dow Jones
 #  The Dow Jones loses over 200 points by the closing bell. [http:--money.cnn.com-2009-10-01-markets-markets_newyork-index.htm?postversion=2009100116 (CNN) ]
 
 

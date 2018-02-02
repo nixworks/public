@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/15/the-general-assembly-of-the-u-s-state-of-north-carolina-votes-on-a-motion-to-veto-override-by-the-governor-bev-perdue-of-the-state-budget.html)  [JSON](/news/2011/06/15/the-general-assembly-of-the-u-s-state-of-north-carolina-votes-on-a-motion-to-veto-override-by-the-governor-bev-perdue-of-the-state-budget.json)  [XML](/news/2011/06/15/the-general-assembly-of-the-u-s-state-of-north-carolina-votes-on-a-motion-to-veto-override-by-the-governor-bev-perdue-of-the-state-budget.xml)  
+
 ### [2011-06-15](/news/2011/06/15/index.md)
 
+##### state's legislature
 # The General Assembly of the U.S. state of North Carolina votes on a motion to veto override by the Governor Bev Perdue of the state budget. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News and Observer](http://projects.newsobserver.com/under_the_dome/democrats_house_republicans_to_hold_midnight_vote_to_override_perdue_veto)
 

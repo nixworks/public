@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/10/the-board-for-the-us-1-billion-lucas-museum-of-
 
 ### [2017-01-10](/news/2017/01/10/index.md)
 
+##### Lucas Museum of Narrative Art
 # The board for the US$1 billion Lucas Museum of Narrative Art announces it will construct the museum in Los Angeles, California. 
 
 George Lucas has chosen L.A.&apos;s Exposition Park for his Museum of Narrative Art, beating out a rival bid by San Francisco, officials announced Tuesday.

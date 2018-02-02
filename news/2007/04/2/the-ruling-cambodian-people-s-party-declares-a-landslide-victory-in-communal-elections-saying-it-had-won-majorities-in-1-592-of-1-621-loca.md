@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/2/the-ruling-cambodian-people-s-party-declares-a-landslide-victory-in-communal-elections-saying-it-had-won-majorities-in-1-592-of-1-621-loca.html)  [JSON](/news/2007/04/2/the-ruling-cambodian-people-s-party-declares-a-landslide-victory-in-communal-elections-saying-it-had-won-majorities-in-1-592-of-1-621-loca.json)  [XML](/news/2007/04/2/the-ruling-cambodian-people-s-party-declares-a-landslide-victory-in-communal-elections-saying-it-had-won-majorities-in-1-592-of-1-621-loca.xml)  
+
 ### [2007-04-2](/news/2007/04/2/index.md)
 
+##### Cambodian People's Party
 #  The ruling Cambodian People's Party declares a landslide victory in communal elections, saying it had won majorities in 1,592 of 1,621 local commune councils. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.channelnewsasia.com/stories/afp_asiapacific/view/267983/1/.html)
 

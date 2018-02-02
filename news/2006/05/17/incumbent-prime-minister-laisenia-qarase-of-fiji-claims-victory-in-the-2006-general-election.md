@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/17/incumbent-prime-minister-laisenia-qarase-of-fiji-claims-victory-in-the-2006-general-election.html)  [JSON](/news/2006/05/17/incumbent-prime-minister-laisenia-qarase-of-fiji-claims-victory-in-the-2006-general-election.json)  [XML](/news/2006/05/17/incumbent-prime-minister-laisenia-qarase-of-fiji-claims-victory-in-the-2006-general-election.xml)  
+
 ### [2006-05-17](/news/2006/05/17/index.md)
 
+##### re-election
 #  Incumbent Prime Minister Laisenia Qarase of Fiji claims victory in the 2006 general election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4988644.stm)
 

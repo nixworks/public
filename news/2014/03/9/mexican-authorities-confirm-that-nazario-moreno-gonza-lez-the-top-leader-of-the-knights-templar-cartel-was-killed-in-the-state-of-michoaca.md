@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/9/mexican-authorities-confirm-that-nazario-moreno-gonza-lez-the-top-leader-of-the-knights-templar-cartel-was-killed-in-the-state-of-michoaca.html)  [JSON](/news/2014/03/9/mexican-authorities-confirm-that-nazario-moreno-gonza-lez-the-top-leader-of-the-knights-templar-cartel-was-killed-in-the-state-of-michoaca.json)  [XML](/news/2014/03/9/mexican-authorities-confirm-that-nazario-moreno-gonza-lez-the-top-leader-of-the-knights-templar-cartel-was-killed-in-the-state-of-michoaca.xml)  
+
 ### [2014-03-9](/news/2014/03/9/index.md)
 
+##### Nazario Moreno Gonzalez
 # Mexican authorities confirm that Nazario Moreno Gonzalez, the top leader of the Knights Templar Cartel, was killed in the state of Michoacan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/03/09/world/americas/mexico-drug-lord-nazario-moreno-killed/)
 

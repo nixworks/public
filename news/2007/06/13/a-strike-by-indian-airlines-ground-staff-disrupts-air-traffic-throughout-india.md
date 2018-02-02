@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2007/06/13/a-strike-by-indian-airlines-ground-staff-disrupts-air-traffic-throughout-india.html)  [JSON](/news/2007/06/13/a-strike-by-indian-airlines-ground-staff-disrupts-air-traffic-throughout-india.json)  [XML](/news/2007/06/13/a-strike-by-indian-airlines-ground-staff-disrupts-air-traffic-throughout-india.xml)  
+
 ### [2007-06-13](/news/2007/06/13/index.md)
 
+##### strike
 #  A strike by Indian Airlines ground staff disrupts air traffic throughout India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN-IBN](http://www.ibnlive.com/news/indian-grounded-as-12000-employees-go-on-strike/42797-3.html)
 
 ### Related:
 
-1. [ India faces a major shortage of petroleum products as a strike by employees of the Indian Oil Corporation and 14 other PSUs enters its third day. ](/news/2009/01/9/india-faces-a-major-shortage-of-petroleum-products-as-a-strike-by-employees-of-the-indian-oil-corporation-and-14-other-psus-enters-its-thir.md) _Context: India, strike_
-2. [ In India, numerous bank workers take part in a one-day strike to protest government reforms and bank merges they say will lead to job cuts. ](/news/2005/03/22/in-india-numerous-bank-workers-take-part-in-a-one-day-strike-to-protest-government-reforms-and-bank-merges-they-say-will-lead-to-job-cuts.md) _Context: India, strike_
-3. [ Large scale strikes begin in Andhra Pradesh, India, in protest of the killing of Paritala Ravi, a senior leader of Telugu Desam Party assassinated two days ago. ](/news/2005/01/25/large-scale-strikes-begin-in-andhra-pradesh-india-in-protest-of-the-killing-of-paritala-ravi-a-senior-leader-of-telugu-desam-party-assas.md) _Context: India, strike_
-4. [Prominent Indian journalist and "Lankesh Patrike" editor Gauri Lankesh is shot dead by unidentified men outside her house in the city of Bengaluru. ](/news/2017/09/5/prominent-indian-journalist-and-lankesh-patrike-editor-gauri-lankesh-is-shot-dead-by-unidentified-men-outside-her-house-in-the-city-of-ben.md) _Context: India_
-5. [Indian Prime Minister Narendra Modi heads to Myanmar for a state visit. ](/news/2017/09/5/indian-prime-minister-narendra-modi-heads-to-myanmar-for-a-state-visit.md) _Context: India_
+1. [A bus plunges into the Bhairab River after falling off a bridge in Murshidabad district, West Bengal, India, killing at least 36 people. The late response by rescuers to save passengers leads to violence between local residents and police. ](/news/2018/01/29/a-bus-plunges-into-the-bhairab-river-after-falling-off-a-bridge-in-murshidabad-district-west-bengal-india-killing-at-least-36-people-the.md) _Context: India_
+2. [The Indian Space Research Organisation successfully launches India's 100th satellite and 30 other satellites from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh. [http:--www.thehindubusinessline.com-news-science-isro-launches-its-100th-satellite-into-space-article10027585.ece "(The Hindu)"]A Delta IV launches NROL-47, a classified U.S. military payload, from Vandenberg Air Force Base, California. It is the last single-core Delta IV to launch from Vandenberg. [https:--spaceflightnow.com-2018-01-13-delta-4-rocket-successfully-lofts-clandestine-nro-satellite-into-orbit-"(Spaceflight Now)"]](/news/2018/01/12/the-indian-space-research-organisation-successfully-launches-indiaas-100th-satellite-and-30-other-satellites-from-the-satish-dhawan-space.md) _Context: India_
+3. [Fifteen countries ask the World Trade Organization a mandate to negotiate binding rules on e-commerce, days after India turned down negotiations. ](/news/2017/12/7/fifteen-countries-ask-the-world-trade-organization-a-mandate-to-negotiate-binding-rules-on-e-commerce-days-after-india-turned-down-negotiat.md) _Context: India_
+4. [At least 15 people are killed in a rooftop restaurant fire in Mumbai, India. ](/news/2017/12/29/at-least-15-people-are-killed-in-a-rooftop-restaurant-fire-in-mumbai-india.md) _Context: India_
+5. [Cyclone Ockhi hits southern India causing 13 deaths in Tamil Nadu and Kerala. The cyclone kills 15 people and displaces another 200,000 persons in Sri Lanka. ](/news/2017/12/2/cyclone-ockhi-hits-southern-india-causing-13-deaths-in-tamil-nadu-and-kerala-the-cyclone-kills-15-people-and-displaces-another-200-000-pers.md) _Context: India_

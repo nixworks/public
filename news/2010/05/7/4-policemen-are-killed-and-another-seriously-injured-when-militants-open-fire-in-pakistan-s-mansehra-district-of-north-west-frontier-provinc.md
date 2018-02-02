@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/7/4-policemen-are-killed-and-another-seriously-injured-when-militants-open-fire-in-pakistan-s-mansehra-district-of-north-west-frontier-provinc.html)  [JSON](/news/2010/05/7/4-policemen-are-killed-and-another-seriously-injured-when-militants-open-fire-in-pakistan-s-mansehra-district-of-north-west-frontier-provinc.json)  [XML](/news/2010/05/7/4-policemen-are-killed-and-another-seriously-injured-when-militants-open-fire-in-pakistan-s-mansehra-district-of-north-west-frontier-provinc.xml)  
+
 ### [2010-05-7](/news/2010/05/7/index.md)
 
+##### Pakistan
 # 4 policemen are killed and another seriously injured when militants open fire in Pakistan's Mansehra district of North-West Frontier Province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [PTI](http://www.ptinews.com/news/643601_Militants-kill-4-policemen-in-Pak)
 

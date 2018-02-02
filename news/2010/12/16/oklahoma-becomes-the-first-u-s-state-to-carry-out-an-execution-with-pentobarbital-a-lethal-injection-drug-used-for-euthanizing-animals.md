@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/16/oklahoma-becomes-the-first-u-s-state-to-carry-out-an-execution-with-pentobarbital-a-lethal-injection-drug-used-for-euthanizing-animals.html)  [JSON](/news/2010/12/16/oklahoma-becomes-the-first-u-s-state-to-carry-out-an-execution-with-pentobarbital-a-lethal-injection-drug-used-for-euthanizing-animals.json)  [XML](/news/2010/12/16/oklahoma-becomes-the-first-u-s-state-to-carry-out-an-execution-with-pentobarbital-a-lethal-injection-drug-used-for-euthanizing-animals.xml)  
+
 ### [2010-12-16](/news/2010/12/16/index.md)
 
+##### Oklahoma
 # Oklahoma becomes the first U.S. state to carry out an execution with pentobarbital, a lethal injection drug used for euthanizing animals. 
 
 Officials in Oklahoma execute a prison inmate using a drug cocktail that includes for the first time a sedative typically used to put down animals.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-12014323)
 2. [CNN](http://www.cnn.com/2010/CRIME/12/16/oklahoma.execution/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/3/serbian-minister-on-kosovo-slobodan-samarda3-4ia-submits-to-unmik-a-plan-suggesting-kosovo-s-division-into-cantons-along-ethnic-lines.html)  [JSON](/news/2008/04/3/serbian-minister-on-kosovo-slobodan-samarda3-4ia-submits-to-unmik-a-plan-suggesting-kosovo-s-division-into-cantons-along-ethnic-lines.json)  [XML](/news/2008/04/3/serbian-minister-on-kosovo-slobodan-samarda3-4ia-submits-to-unmik-a-plan-suggesting-kosovo-s-division-into-cantons-along-ethnic-lines.xml)  
+
 ### [2008-04-3](/news/2008/04/3/index.md)
 
+##### Serbia
 #  Serbian Minister on Kosovo Slobodan Samardzic submits to UNMIK a plan suggesting Kosovo's division into cantons along ethnic lines. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Tanjug via Portalino](http://www.portalino.it/nuke/modules.php?name=News&file=article&sid=28630)
 

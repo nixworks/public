@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/28/the-boomtown-rats-reform-for-isle-of-wight-festival-their-first-show-since-1986.html)  [JSON](/news/2013/01/28/the-boomtown-rats-reform-for-isle-of-wight-festival-their-first-show-since-1986.json)  [XML](/news/2013/01/28/the-boomtown-rats-reform-for-isle-of-wight-festival-their-first-show-since-1986.xml)  
+
 ### [2013-01-28](/news/2013/01/28/index.md)
 
+##### The Boomtown Rats
 # The Boomtown Rats reform for Isle of Wight festival, their first show since 1986. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/music/2013/jan/28/boomtown-rats-reform-isle-of-wight-festival)
 

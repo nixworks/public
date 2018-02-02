@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/17/king-abdullah-of-saudi-arabia-pardons-a-rape-victim-who-had-been-sentenced-to-six-months-in-prison-and-200-lashes.html)  [JSON](/news/2007/12/17/king-abdullah-of-saudi-arabia-pardons-a-rape-victim-who-had-been-sentenced-to-six-months-in-prison-and-200-lashes.json)  [XML](/news/2007/12/17/king-abdullah-of-saudi-arabia-pardons-a-rape-victim-who-had-been-sentenced-to-six-months-in-prison-and-200-lashes.xml)  
+
 ### [2007-12-17](/news/2007/12/17/index.md)
 
+##### King
 #  King Abdullah of Saudi Arabia pardons a rape victim who had been sentenced to six months in prison and 200 lashes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-7158675,00.html)
 

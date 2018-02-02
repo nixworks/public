@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/7/a-five-hour-transit-of-mercury-takes-place-an-event-that-occurs-only-13-times-per-century-on-average.html)  [JSON](/news/2003/05/7/a-five-hour-transit-of-mercury-takes-place-an-event-that-occurs-only-13-times-per-century-on-average.json)  [XML](/news/2003/05/7/a-five-hour-transit-of-mercury-takes-place-an-event-that-occurs-only-13-times-per-century-on-average.xml)  
+
 ### [2003-05-7](/news/2003/05/7/index.md)
 
+##### transit of Mercury
 #  A five-hour transit of Mercury takes place, an event that occurs only 13 times per century on average.
 
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/02/5/bahraini-opposition-parties-launch-a-week-long-sit-in-for-political-reform.html)  [JSON](/news/2012/02/5/bahraini-opposition-parties-launch-a-week-long-sit-in-for-political-reform.json)  [XML](/news/2012/02/5/bahraini-opposition-parties-launch-a-week-long-sit-in-for-political-reform.xml)  
+
 ### [2012-02-5](/news/2012/02/5/index.md)
 
+##### Bahrain
 # Bahraini opposition parties launch a week-long sit in for political reform. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/02/05/us-bahrain-rally-idUSTRE81406L20120205)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120205&t=2&i=566884214&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE8140SPY00)
+1. [Reuters](https://www.reuters.com/article/2012/02/05/us-bahrain-rally-idUSTRE81406L20120205)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120205&t=2&i=566884214&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE8140SPY00)
 
 ### Related:
 

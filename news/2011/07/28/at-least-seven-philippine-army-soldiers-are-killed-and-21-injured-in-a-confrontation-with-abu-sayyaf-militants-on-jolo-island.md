@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/28/at-least-seven-philippine-army-soldiers-are-killed-and-21-injured-in-a-confrontation-with-abu-sayyaf-militants-on-jolo-island.html)  [JSON](/news/2011/07/28/at-least-seven-philippine-army-soldiers-are-killed-and-21-injured-in-a-confrontation-with-abu-sayyaf-militants-on-jolo-island.json)  [XML](/news/2011/07/28/at-least-seven-philippine-army-soldiers-are-killed-and-21-injured-in-a-confrontation-with-abu-sayyaf-militants-on-jolo-island.xml)  
+
 ### [2011-07-28](/news/2011/07/28/index.md)
 
+##### army
 # At least seven Philippine Army soldiers are killed and 21 injured in a confrontation with Abu Sayyaf militants on Jolo Island. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [DPA via Monsters and Critics](http://www.monstersandcritics.com/news/asiapacific/news/article_1653620.php/Seven-soldiers-killed-in-fighting-in-southern-Philippines)
 

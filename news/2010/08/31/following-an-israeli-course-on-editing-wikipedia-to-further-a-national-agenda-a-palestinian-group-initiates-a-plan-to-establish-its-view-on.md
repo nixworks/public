@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2010/08/31/following-an-israeli-course-on-editing-wikipedia-to-further-a-national-agenda-a-palestinian-group-initiates-a-plan-to-establish-its-view-on.html)  [JSON](/news/2010/08/31/following-an-israeli-course-on-editing-wikipedia-to-further-a-national-agenda-a-palestinian-group-initiates-a-plan-to-establish-its-view-on.json)  [XML](/news/2010/08/31/following-an-israeli-course-on-editing-wikipedia-to-further-a-national-agenda-a-palestinian-group-initiates-a-plan-to-establish-its-view-on.xml)  
+
 ### [2010-08-31](/news/2010/08/31/index.md)
 
+##### editing
 # Following an Israeli-course on editing Wikipedia to further a national agenda, a Palestinian group initiates a plan to establish its view on the encyclopaedia.[http:--www.israelnationalnews.com-News-News.aspx-139189][http:--www.ynetnews.com-articles-0,7340,L-3944937,00.html]
 
 

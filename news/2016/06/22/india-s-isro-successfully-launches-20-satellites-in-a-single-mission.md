@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/22/india-s-isro-successfully-launches-20-satellite
 
 ### [2016-06-22](/news/2016/06/22/index.md)
 
+##### ISRO
 # India's ISRO successfully launches 20 satellites in a single mission. 
 
 India took a big leap in space technology on Wednesday when Indian Space Research Organization (ISRO) used its workhorse PSLV-C34 to inject 20 satellites including 17 foreign satellites into orbit in a single mission and set a new record.

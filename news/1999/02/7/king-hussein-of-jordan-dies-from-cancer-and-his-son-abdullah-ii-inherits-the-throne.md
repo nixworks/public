@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/02/7/king-hussein-of-jordan-dies-from-cancer-and-his-son-abdullah-ii-inherits-the-throne.html)  [JSON](/news/1999/02/7/king-hussein-of-jordan-dies-from-cancer-and-his-son-abdullah-ii-inherits-the-throne.json)  [XML](/news/1999/02/7/king-hussein-of-jordan-dies-from-cancer-and-his-son-abdullah-ii-inherits-the-throne.xml)  
+
 ### [1999-02-7](/news/1999/02/7/index.md)
 
+##### Hussein of Jordan
 #  King Hussein of Jordan dies from cancer, and his son Abdullah II inherits the throne.
 
 

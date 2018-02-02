@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/12/17/the-death-toll-from-the-christmas-island-wreck-rises-to-30-with-many-still-missing.html)  [JSON](/news/2010/12/17/the-death-toll-from-the-christmas-island-wreck-rises-to-30-with-many-still-missing.json)  [XML](/news/2010/12/17/the-death-toll-from-the-christmas-island-wreck-rises-to-30-with-many-still-missing.xml)  
+
 ### [2010-12-17](/news/2010/12/17/index.md)
 
+##### Christmas Island
 # The death toll from the Christmas Island wreck rises to 30 with many still missing. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20101217/ap_on_re_as/as_australia_boat_sinks)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20101217/ap_on_re_as/as_australia_boat_sinks)
 
 ### Related:
 

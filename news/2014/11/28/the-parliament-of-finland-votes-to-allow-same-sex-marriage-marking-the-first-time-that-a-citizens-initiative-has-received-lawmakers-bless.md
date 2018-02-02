@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/28/the-parliament-of-finland-votes-to-allow-same-sex-marriage-marking-the-first-time-that-a-citizens-initiative-has-received-lawmakers-bless.html)  [JSON](/news/2014/11/28/the-parliament-of-finland-votes-to-allow-same-sex-marriage-marking-the-first-time-that-a-citizens-initiative-has-received-lawmakers-bless.json)  [XML](/news/2014/11/28/the-parliament-of-finland-votes-to-allow-same-sex-marriage-marking-the-first-time-that-a-citizens-initiative-has-received-lawmakers-bless.xml)  
+
 ### [2014-11-28](/news/2014/11/28/index.md)
 
+##### Parliament of Finland
 # The Parliament of Finland votes to allow same-sex marriage, marking the first time that a citizens' initiative has received lawmakers' blessing to be written into the legislation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [YLE](http://yle.fi/uutiset/finnish_parliament_approves_same-sex_marriage/7657759)
 

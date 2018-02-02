@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/18/the-russian-army-loses-17-soldiers-while-fighting-in-a-day-long-battle-with-insurgents-in-the-north-caucasus-region.html)  [JSON](/news/2012/02/18/the-russian-army-loses-17-soldiers-while-fighting-in-a-day-long-battle-with-insurgents-in-the-north-caucasus-region.json)  [XML](/news/2012/02/18/the-russian-army-loses-17-soldiers-while-fighting-in-a-day-long-battle-with-insurgents-in-the-north-caucasus-region.xml)  
+
 ### [2012-02-18](/news/2012/02/18/index.md)
 
+##### Russian Army
 # The Russian Army loses 17 soldiers while fighting in a day-long battle with insurgents in the North Caucasus region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Antara News](http://www.antaranews.com/en/news/1329594220/17-russian-troops-killed-in-caucasus-battle-minister)
 1. [Cover Image](http://img.antaranews.com/new)

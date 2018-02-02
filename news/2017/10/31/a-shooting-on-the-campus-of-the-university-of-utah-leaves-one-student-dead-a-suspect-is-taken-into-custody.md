@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/31/a-shooting-on-the-campus-of-the-university-of-u
 
 ### [2017-10-31](/news/2017/10/31/index.md)
 
+##### Crime in Utah
 # A shooting on the campus of the University of Utah leaves one student dead. A suspect is taken into custody. 
 
 

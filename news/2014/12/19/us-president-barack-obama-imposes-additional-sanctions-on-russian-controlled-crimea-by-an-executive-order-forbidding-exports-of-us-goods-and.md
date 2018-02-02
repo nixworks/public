@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/19/us-president-barack-obama-imposes-additional-sanctions-on-russian-controlled-crimea-by-an-executive-order-forbidding-exports-of-us-goods-and.html)  [JSON](/news/2014/12/19/us-president-barack-obama-imposes-additional-sanctions-on-russian-controlled-crimea-by-an-executive-order-forbidding-exports-of-us-goods-and.json)  [XML](/news/2014/12/19/us-president-barack-obama-imposes-additional-sanctions-on-russian-controlled-crimea-by-an-executive-order-forbidding-exports-of-us-goods-and.xml)  
+
 ### [2014-12-19](/news/2014/12/19/index.md)
 
+##### International sanctions during the 2014 pro-Russian unrest in Ukraine
 # US President Barack Obama imposes additional sanctions on Russian-controlled Crimea by an executive order forbidding exports of US goods and services to the region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel NewsAsia](http://www.channelnewsasia.com/news/business/international/us-slaps-trade-ban-on/1540372.html)
 

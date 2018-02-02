@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/27/war-in-afghanistan-a-nato-air-strike-kills-a-family-of-eight-including-six-children.html)  [JSON](/news/2012/05/27/war-in-afghanistan-a-nato-air-strike-kills-a-family-of-eight-including-six-children.json)  [XML](/news/2012/05/27/war-in-afghanistan-a-nato-air-strike-kills-a-family-of-eight-including-six-children.xml)  
+
 ### [2012-05-27](/news/2012/05/27/index.md)
 
+##### War in Afghanistan (2001-present)
 # War in Afghanistan: A NATO air strike kills a family of eight, including six children. 
 
 A Nato air strike has killed eight members of a family in the eastern Afghan province of Paktia, according to local officials.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/05/20125277911748807.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-18224875)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/22/a-venezuelan-soldier-opens-fire-at-an-army-base-in-the-capital-caracas-killing-two-officers-and-injuring-six-others.html)  [JSON](/news/2010/08/22/a-venezuelan-soldier-opens-fire-at-an-army-base-in-the-capital-caracas-killing-two-officers-and-injuring-six-others.json)  [XML](/news/2010/08/22/a-venezuelan-soldier-opens-fire-at-an-army-base-in-the-capital-caracas-killing-two-officers-and-injuring-six-others.xml)  
+
 ### [2010-08-22](/news/2010/08/22/index.md)
 
+##### Venezuela
 # A Venezuelan soldier opens fire at an army base in the capital Caracas, killing two officers and injuring six others. 
 
 Police in Venezuela search for a soldier who shot dead two officers and wounded six soldiers at a military base in the capital, Caracas.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jVa-R6Ft0Omx8FAWSYY0FCBYXZwAD9HO8CR80)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11050286)

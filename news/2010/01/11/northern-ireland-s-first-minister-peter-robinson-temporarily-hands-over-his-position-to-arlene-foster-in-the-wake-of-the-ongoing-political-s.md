@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2010/01/11/northern-ireland-s-first-minister-peter-robinson-temporarily-hands-over-his-position-to-arlene-foster-in-the-wake-of-the-ongoing-political-s.html)  [JSON](/news/2010/01/11/northern-ireland-s-first-minister-peter-robinson-temporarily-hands-over-his-position-to-arlene-foster-in-the-wake-of-the-ongoing-political-s.json)  [XML](/news/2010/01/11/northern-ireland-s-first-minister-peter-robinson-temporarily-hands-over-his-position-to-arlene-foster-in-the-wake-of-the-ongoing-political-s.xml)  
+
 ### [2010-01-11](/news/2010/01/11/index.md)
 
+##### Northern Ireland
 # Northern Ireland's First Minister Peter Robinson temporarily hands over his position to Arlene Foster in the wake of the ongoing political scandal surrounding his wife and fellow politician Iris Robinson.
 
 

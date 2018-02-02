@@ -1,7 +1,7 @@
-## [2000-04-22](/news/2000/04/22/index.md)
 
-### [ In a predawn raid, federal agents seize six-year-old Elin Gonzlez from his relatives' home in Miami, Florida, and fly him to his Cuban father in Washington, DC, ending one of the most publicized custody battles in US history.](/news/2000/04/22/in-a-predawn-raid-federal-agents-seize-six-year-old-elian-gonzalez-from-his-relatives-home-in-miami-florida-and-fly-him-to-his-cuban-fa.md)
-_Context: Cuba, Elin Gonzlez, Miami, Washington DC_
+Formats: [HTML](2000/04/22/index.html)  [JSON](2000/04/22/index.json)  [XML](2000/04/22/index.xml)  
+
+## [2000-04-22](/news/2000/04/22/index.md)
 
 ## [Previous Day...](/news/2000/04/21/index.md)
 

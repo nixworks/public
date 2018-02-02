@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/28/two-al-shabaab-suicide-bombers-kill-at-least-40
 
 ### [2016-02-28](/news/2016/02/28/index.md)
 
+##### War in Somalia (2009-present)
 # Two al-Shabaab suicide bombers kill at least 40 people in the Somali town of Baidoa. 
 
 

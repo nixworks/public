@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/27/war-in-afghanistan-three-soldiers-in-the-nato-led-international-security-assistance-force-are-killed.html)  [JSON](/news/2007/07/27/war-in-afghanistan-three-soldiers-in-the-nato-led-international-security-assistance-force-are-killed.json)  [XML](/news/2007/07/27/war-in-afghanistan-three-soldiers-in-the-nato-led-international-security-assistance-force-are-killed.xml)  
+
 ### [2007-07-27](/news/2007/07/27/index.md)
 
+##### War in Afghanistan (2001-present)
 #  War in Afghanistan: Three soldiers in the NATO-led International Security Assistance Force are killed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2007-07/28/content_6441176.htm)
 

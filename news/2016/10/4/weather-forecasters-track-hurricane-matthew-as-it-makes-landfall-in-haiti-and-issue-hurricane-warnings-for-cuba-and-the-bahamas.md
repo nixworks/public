@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/4/weather-forecasters-track-hurricane-matthew-as-i
 
 ### [2016-10-4](/news/2016/10/4/index.md)
 
+##### 2016 Atlantic hurricane season
 # Weather forecasters track Hurricane Matthew as it makes landfall in Haiti and issue hurricane warnings for Cuba and the Bahamas. 
 
 More than a million residents near the South Carolina coast should get at least 100 miles away before Hurricane Matthew arrives, Gov. Nikki Haley said.

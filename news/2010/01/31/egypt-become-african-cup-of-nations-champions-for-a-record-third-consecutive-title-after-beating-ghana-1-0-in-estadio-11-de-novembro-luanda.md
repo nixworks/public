@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/31/egypt-become-african-cup-of-nations-champions-for-a-record-third-consecutive-title-after-beating-ghana-1-0-in-estadio-11-de-novembro-luanda.html)  [JSON](/news/2010/01/31/egypt-become-african-cup-of-nations-champions-for-a-record-third-consecutive-title-after-beating-ghana-1-0-in-estadio-11-de-novembro-luanda.json)  [XML](/news/2010/01/31/egypt-become-african-cup-of-nations-champions-for-a-record-third-consecutive-title-after-beating-ghana-1-0-in-estadio-11-de-novembro-luanda.xml)  
+
 ### [2010-01-31](/news/2010/01/31/index.md)
 
+##### Egypt
 # Egypt become African Cup of Nations champions for a record third consecutive title after beating Ghana 1-0 in Estdio 11 de Novembro, Luanda, Angola, in the 2010 Africa Cup of Nations final. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC Sport](http://news.bbc.co.uk/go/rss/-/sport2/hi/football/africa/8489708.stm)
 

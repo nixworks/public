@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/17/the-chilean-military-removes-1-000-protesters-who-had-occupied-government-buildings-museums-and-a-hotel-on-easter-island.html)  [JSON](/news/2010/08/17/the-chilean-military-removes-1-000-protesters-who-had-occupied-government-buildings-museums-and-a-hotel-on-easter-island.json)  [XML](/news/2010/08/17/the-chilean-military-removes-1-000-protesters-who-had-occupied-government-buildings-museums-and-a-hotel-on-easter-island.xml)  
+
 ### [2010-08-17](/news/2010/08/17/index.md)
 
+##### Chilean military
 # The Chilean military removes 1,000 protesters who had occupied government buildings, museums and a hotel on Easter Island. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand International](http://www.rnzi.com/pages/news.php?op=read&id=55365)
 

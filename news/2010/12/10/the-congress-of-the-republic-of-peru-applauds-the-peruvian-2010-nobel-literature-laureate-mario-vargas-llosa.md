@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/10/the-congress-of-the-republic-of-peru-applauds-the-peruvian-2010-nobel-literature-laureate-mario-vargas-llosa.html)  [JSON](/news/2010/12/10/the-congress-of-the-republic-of-peru-applauds-the-peruvian-2010-nobel-literature-laureate-mario-vargas-llosa.json)  [XML](/news/2010/12/10/the-congress-of-the-republic-of-peru-applauds-the-peruvian-2010-nobel-literature-laureate-mario-vargas-llosa.xml)  
+
 ### [2010-12-10](/news/2010/12/10/index.md)
 
+##### Congress of the Republic of Peru
 # The Congress of the Republic of Peru applauds the Peruvian 2010 Nobel Literature laureate Mario Vargas Llosa. 
 
 As of today Taca Peru will depart from Lima every Monday, Wednesday, Friday and Sunday at 7:50 pm and depart from Arequipa the same days at 10:00 pm.
 
 
-### Source:
+### Sources:
 
 1. [Living in Peru](http://www.livinginperu.com/news/13698)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/20/venezuelans-continue-their-march-against-presid
 
 ### [2017-04-20](/news/2017/04/20/index.md)
 
+##### 2014-17 Venezuelan protests
 # Venezuelans continue their march against President Nicolas Maduro with thousands flocking into the streets of Caracas for a second day. 
 
 Weeks of protests in Venezuela are shifting the spotlight onto the nation’s military. Despite the growing unrest, analysts say the armed forces still have compelling reasons to back President Nicolás Maduro

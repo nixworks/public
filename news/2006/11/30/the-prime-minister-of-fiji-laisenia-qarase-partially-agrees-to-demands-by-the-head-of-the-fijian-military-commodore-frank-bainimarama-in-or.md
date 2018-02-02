@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/30/the-prime-minister-of-fiji-laisenia-qarase-partially-agrees-to-demands-by-the-head-of-the-fijian-military-commodore-frank-bainimarama-in-or.html)  [JSON](/news/2006/11/30/the-prime-minister-of-fiji-laisenia-qarase-partially-agrees-to-demands-by-the-head-of-the-fijian-military-commodore-frank-bainimarama-in-or.json)  [XML](/news/2006/11/30/the-prime-minister-of-fiji-laisenia-qarase-partially-agrees-to-demands-by-the-head-of-the-fijian-military-commodore-frank-bainimarama-in-or.xml)  
+
 ### [2006-11-30](/news/2006/11/30/index.md)
 
+##### Prime Minister
 #  The Prime Minister of Fiji Laisenia Qarase partially agrees to demands by the head of the Fijian military Commodore Frank Bainimarama in order to avert a coup. Bainimarama rejects the compromise and issues a deadline of noon on Friday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia and AFP](http://www.abc.net.au/news/newsitems/200611/s1801433.htm)
 2. [News Limited](http://www.news.com.au/heraldsun/story/0,21985,20848041-5005961,00.html)

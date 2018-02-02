@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/20/au-optronics-was-fined-500-million-for-a-global-lcd-screen-price-fixing-conspiracy.html)  [JSON](/news/2012/09/20/au-optronics-was-fined-500-million-for-a-global-lcd-screen-price-fixing-conspiracy.json)  [XML](/news/2012/09/20/au-optronics-was-fined-500-million-for-a-global-lcd-screen-price-fixing-conspiracy.xml)  
+
 ### [2012-09-20](/news/2012/09/20/index.md)
 
+##### AU Optronics
 # AU Optronics was fined $500 million for a global LCD screen price-fixing conspiracy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Seattle Post-Intelligencer](http://www.seattlepi.com/news/article/Taiwan-co-fined-500-million-for-LCD-price-fixing-3879370.php)
 

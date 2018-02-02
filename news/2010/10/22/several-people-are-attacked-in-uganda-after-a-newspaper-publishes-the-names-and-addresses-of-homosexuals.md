@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/22/several-people-are-attacked-in-uganda-after-a-newspaper-publishes-the-names-and-addresses-of-homosexuals.html)  [JSON](/news/2010/10/22/several-people-are-attacked-in-uganda-after-a-newspaper-publishes-the-names-and-addresses-of-homosexuals.json)  [XML](/news/2010/10/22/several-people-are-attacked-in-uganda-after-a-newspaper-publishes-the-names-and-addresses-of-homosexuals.xml)  
+
 ### [2010-10-22](/news/2010/10/22/index.md)
 
+##### Uganda
 # Several people are attacked in Uganda after a newspaper publishes the names and addresses of homosexuals. 
 
 Several people have been attacked in Uganda after a newspaper printed their names and photos, saying they were homosexual, an activist tells the BBC.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11608241)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

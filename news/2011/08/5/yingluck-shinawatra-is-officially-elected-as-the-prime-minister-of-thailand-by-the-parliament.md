@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/08/5/yingluck-shinawatra-is-officially-elected-as-the-prime-minister-of-thailand-by-the-parliament.html)  [JSON](/news/2011/08/5/yingluck-shinawatra-is-officially-elected-as-the-prime-minister-of-thailand-by-the-parliament.json)  [XML](/news/2011/08/5/yingluck-shinawatra-is-officially-elected-as-the-prime-minister-of-thailand-by-the-parliament.xml)  
+
 ### [2011-08-5](/news/2011/08/5/index.md)
 
+##### Yingluck Shinawatra
 # Yingluck Shinawatra is officially elected as the Prime Minister of Thailand by the parliament. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/08/05/thailand-politics-idUSL3E7J508T20110805)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/08/05/thailand-politics-idUSL3E7J508T20110805)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

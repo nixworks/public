@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/9/at-least-42-migrants-from-the-horn-of-africa-drown-when-their-boat-overturns-off-the-coast-of-shabwah-governorate-yemen.html)  [JSON](/news/2014/03/9/at-least-42-migrants-from-the-horn-of-africa-drown-when-their-boat-overturns-off-the-coast-of-shabwah-governorate-yemen.json)  [XML](/news/2014/03/9/at-least-42-migrants-from-the-horn-of-africa-drown-when-their-boat-overturns-off-the-coast-of-shabwah-governorate-yemen.xml)  
+
 ### [2014-03-9](/news/2014/03/9/index.md)
 
+##### Horn of Africa
 # At least 42 migrants from the Horn of Africa drown when their boat overturns off the coast of Shabwah Governorate, Yemen. 
 
 Boat smuggling scores of migrants overturns off southern Yemen coast, leaving at least 42 drowned.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2014/03/scores-african-migrants-drown-off-yemen-201439225338349870.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/8/7/20138795116636734_20.jpg)

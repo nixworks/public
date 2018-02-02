@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/6/former-south-african-president-nelson-mandela-is-discharged-after-spending-nine-days-in-hospital.html)  [JSON](/news/2013/04/6/former-south-african-president-nelson-mandela-is-discharged-after-spending-nine-days-in-hospital.json)  [XML](/news/2013/04/6/former-south-african-president-nelson-mandela-is-discharged-after-spending-nine-days-in-hospital.xml)  
+
 ### [2013-04-6](/news/2013/04/6/index.md)
 
+##### South Africa
 # Former South African president Nelson Mandela is discharged after spending nine days in hospital. 
 
 Former president Nelson Mandela has been discharged after spending nine days in hospital for treatment for pneumonia, the presidency says. 
 
 
-### Source:
+### Sources:
 
 1. [SAPA via News24](http://www.news24.com/news24/SouthAfrica/News/Nelson-Mandela-discharged-from-hospital-20130406)
 1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/522/2a9e772dc0dd4013a2714e9e694789e9.jpg)

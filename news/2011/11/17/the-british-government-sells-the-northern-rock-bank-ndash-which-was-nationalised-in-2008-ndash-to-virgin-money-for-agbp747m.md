@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2011/11/17/the-british-government-sells-the-northern-rock-bank-ndash-which-was-nationalised-in-2008-ndash-to-virgin-money-for-agbp747m.html)  [JSON](/news/2011/11/17/the-british-government-sells-the-northern-rock-bank-ndash-which-was-nationalised-in-2008-ndash-to-virgin-money-for-agbp747m.json)  [XML](/news/2011/11/17/the-british-government-sells-the-northern-rock-bank-ndash-which-was-nationalised-in-2008-ndash-to-virgin-money-for-agbp747m.xml)  
+
 ### [2011-11-17](/news/2011/11/17/index.md)
 
+##### 10 Downing Street
 # The British Government sells the Northern Rock bank &ndash; which was nationalised in 2008 &ndash; to Virgin Money for GBP747m. 
 
 Northern Rock bank, nationalised at the height of the credit crunch, is being sold to Virgin Money for £747m, the government says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-15769886)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56764000/jpg/_56764377_013352675-1.jpg)
+
+### Changes:
+
+1. [The British Government sells the Northern Rock bank &ndash; which was nationalised in 2008 &ndash; to Virgin Money for PS747m. ](/news/2011/11/17/the-british-government-sells-the-northern-rock-bank-ndash-which-was-nationalised-in-2008-ndash-to-virgin-money-for-aps747m.md) _2017-08-25 03:34:30 (First version)_
+1. [The British Government sells the Northern Rock bank &ndash; which was nationalised in 2008 &ndash; to Virgin Money for GBP747m. ](/news/2011/11/17/the-british-government-sells-the-northern-rock-bank-ndash-which-was-nationalised-in-2008-ndash-to-virgin-money-for-agbp747m.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Northern Rock bank, nationalised at the height of the credit crunch, is being so
 3. [A petition, launched Sunday to cancel U.S. President Donald Trump's state visit to the United Kingdom later this year, tops 1 million signatures, passing the threshold for British Parliament debate. A British government spokesman says the state visit is going ahead as planned. ](/news/2017/01/30/a-petition-launched-sunday-to-cancel-u-s-president-donald-trump-s-state-visit-to-the-united-kingdom-later-this-year-tops-1-million-signat.md) _Context: 10 Downing Street_
 4. [The Supreme Court of the United Kingdom rules that the Government of the United Kingdom may not begin the formal Brexit process until Parliament votes in approval of the move. ](/news/2017/01/24/the-supreme-court-of-the-united-kingdom-rules-that-the-government-of-the-united-kingdom-may-not-begin-the-formal-brexit-process-until-parlia.md) _Context: 10 Downing Street_
 5. [There is no plan for Brexit, according to a critical leaked memo from the consulting firm Deloitte Touche Tohmatsu Limited. The document indicates Whitehall is working on 500 Brexit-related projects. Both Deloitte and the British Government confirm the document is an internal working document from Deloitte that was compiled without government approval or assistance. ](/news/2016/11/15/there-is-no-plan-for-brexit-according-to-a-critical-leaked-memo-from-the-consulting-firm-deloitte-touche-tohmatsu-limited-the-document-ind.md) _Context: 10 Downing Street_
-
-### Changes:
-
-1. [The British Government sells the Northern Rock bank &ndash; which was nationalised in 2008 &ndash; to Virgin Money for PS747m. ](/news/2011/11/17/the-british-government-sells-the-northern-rock-bank-ndash-which-was-nationalised-in-2008-ndash-to-virgin-money-for-aps747m.md) _2017-08-25 03:34:30 (First version)_
-1. [The British Government sells the Northern Rock bank &ndash; which was nationalised in 2008 &ndash; to Virgin Money for GBP747m. ](/news/2011/11/17/the-british-government-sells-the-northern-rock-bank-ndash-which-was-nationalised-in-2008-ndash-to-virgin-money-for-agbp747m.md) _(Current version)_

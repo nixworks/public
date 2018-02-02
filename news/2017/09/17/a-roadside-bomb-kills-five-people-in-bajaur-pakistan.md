@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.html)  [JSON](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.json)  [XML](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.xml)  
+
 ### [2017-09-17](/news/2017/09/17/index.md)
 
+##### War in North-West Pakistan
 # A roadside bomb kills five people in Bajaur, Pakistan. 
 
 Deceased include political tehsildar; one Levies official injured 
 
 
-### Source:
+### Sources:
 
 1. [Geo TV](https://www.geo.tv/latest/158478-roadside-bombing-leaves-five-dead-in-bajaur)
 1. [Cover Image](https://www.geo.tv/assets/uploads/updates/2017-09-17/158478_124029_updates.jpg)
+
+### Changes:
+
+1. [A roadside bomb kills five people in Pakistan's Bajaur Agency. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-pakistan-s-bajaur-agency.md) _2017-09-18 21:30:06 (First version)_
+1. [A roadside bomb kills five people in Bajaur, Pakistan. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Deceased include political tehsildar; one Levies official injured
 3. [Chinese authorities report "grave concern" over reports that two kidnapped Chinese teachers in Quetta, Pakistan, were killed by members of the Islamic State of Iraq and the Levant. ](/news/2017/06/9/chinese-authorities-report-grave-concern-over-reports-that-two-kidnapped-chinese-teachers-in-quetta-pakistan-were-killed-by-members-of-t.md) _Context: Pakistan, War in North-West Pakistan_
 4. [Gunmen raid a Pakistani military post near the border with Afghanistan, killing at least eight people. Jamaat-ul-Ahrar, a faction of Tehrik-i-Taliban Pakistan, claim responsibility. ](/news/2017/03/17/gunmen-raid-a-pakistani-military-post-near-the-border-with-afghanistan-killing-at-least-eight-people-jamaat-ul-ahrar-a-faction-of-tehrik.md) _Context: Pakistan, War in North-West Pakistan_
 5. [At least six people are killed in a bomb blast in the Pakistani city of Lahore. ](/news/2017/02/23/at-least-six-people-are-killed-in-a-bomb-blast-in-the-pakistani-city-of-lahore.md) _Context: Pakistan, War in North-West Pakistan_
-
-### Changes:
-
-1. [A roadside bomb kills five people in Pakistan's Bajaur Agency. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-pakistan-s-bajaur-agency.md) _2017-09-18 21:30:06 (First version)_
-1. [A roadside bomb kills five people in Bajaur, Pakistan. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.md) _(Current version)_

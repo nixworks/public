@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/9/the-christian-association-of-nigeria-says-the-nigerian-army-ignored-warnings-before-the-recent-massacre-of-civilians-near-jos.html)  [JSON](/news/2010/03/9/the-christian-association-of-nigeria-says-the-nigerian-army-ignored-warnings-before-the-recent-massacre-of-civilians-near-jos.json)  [XML](/news/2010/03/9/the-christian-association-of-nigeria-says-the-nigerian-army-ignored-warnings-before-the-recent-massacre-of-civilians-near-jos.xml)  
+
 ### [2010-03-9](/news/2010/03/9/index.md)
 
+##### Christian Association of Nigeria
 # The Christian Association of Nigeria says the Nigerian Army ignored warnings before the recent massacre of civilians near Jos. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Afrik.com](http://en.afrik.com/article17119.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8558246.stm)

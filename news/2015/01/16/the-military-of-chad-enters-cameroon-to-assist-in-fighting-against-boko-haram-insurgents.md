@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/01/16/the-military-of-chad-enters-cameroon-to-assist-in-fighting-against-boko-haram-insurgents.html)  [JSON](/news/2015/01/16/the-military-of-chad-enters-cameroon-to-assist-in-fighting-against-boko-haram-insurgents.json)  [XML](/news/2015/01/16/the-military-of-chad-enters-cameroon-to-assist-in-fighting-against-boko-haram-insurgents.xml)  
+
 ### [2015-01-16](/news/2015/01/16/index.md)
 
+##### Military
 # The Military of Chad enters Cameroon to assist in fighting against Boko Haram insurgents. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/01/16/us-nigeria-violence-cameroon-idUSKBN0KP05V20150116)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/01/16/us-nigeria-violence-cameroon-idUSKBN0KP05V20150116)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

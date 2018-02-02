@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/12/three-people-are-arrested-following-a-grenade-attack-in-the-rwandan-capital-kigali-which-injured-several-people.html)  [JSON](/news/2010/08/12/three-people-are-arrested-following-a-grenade-attack-in-the-rwandan-capital-kigali-which-injured-several-people.json)  [XML](/news/2010/08/12/three-people-are-arrested-following-a-grenade-attack-in-the-rwandan-capital-kigali-which-injured-several-people.xml)  
+
 ### [2010-08-12](/news/2010/08/12/index.md)
 
+##### Rwanda
 # Three people are arrested following a grenade attack in the Rwandan capital Kigali which injured several people. 
 
 Police arrest three people after a grenade explosion in the capital Kigali injures at least seven days after the election.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10951147)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/48707000/jpg/_48707058_009953467-1.jpg)

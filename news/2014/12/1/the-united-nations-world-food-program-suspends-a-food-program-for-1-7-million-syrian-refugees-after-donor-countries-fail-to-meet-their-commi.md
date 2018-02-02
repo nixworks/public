@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/1/the-united-nations-world-food-program-suspends-a-food-program-for-1-7-million-syrian-refugees-after-donor-countries-fail-to-meet-their-commi.html)  [JSON](/news/2014/12/1/the-united-nations-world-food-program-suspends-a-food-program-for-1-7-million-syrian-refugees-after-donor-countries-fail-to-meet-their-commi.json)  [XML](/news/2014/12/1/the-united-nations-world-food-program-suspends-a-food-program-for-1-7-million-syrian-refugees-after-donor-countries-fail-to-meet-their-commi.xml)  
+
 ### [2014-12-1](/news/2014/12/1/index.md)
 
+##### United Nations World Food Program
 # The United Nations World Food Program suspends a food program for 1.7 million Syrian refugees after donor countries fail to meet their commitments. 
 
 The United Nations World Food Program on Monday suspended a food voucher program serving more than 1.7 million Syrian refugees, citing a funding crisis after many donors failed to meet their commitments.
 
 
-### Source:
+### Sources:
 
 1. [AP via CBC](http://www.cbc.ca/news/world/un-food-program-suspended-for-1-7-million-syrian-refugees-1.2856928)
 1. [Cover Image](https://i.cbc.ca/1.2856933.1417486817!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/mideast-syria.jpg)

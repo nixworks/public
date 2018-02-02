@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/9/canada-announces-it-will-be-increasing-its-non-military-role-in-iraq-while-nato-is-currently-undecided-about-sending-more-support-to-iraq.html)  [JSON](/news/2004/06/9/canada-announces-it-will-be-increasing-its-non-military-role-in-iraq-while-nato-is-currently-undecided-about-sending-more-support-to-iraq.json)  [XML](/news/2004/06/9/canada-announces-it-will-be-increasing-its-non-military-role-in-iraq-while-nato-is-currently-undecided-about-sending-more-support-to-iraq.xml)  
+
 ### [2004-06-9](/news/2004/06/9/index.md)
 
+##### military
 #  Canada announces it will be increasing its non-military role in Iraq, while NATO is currently undecided about sending more support to Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Globe and Mail](http://www.globeandmail.com/servlet/story/RTGAM.20040609.wnato0609_3/BNStory/International/)
 

@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2015/04/23/the-united-states-senate-confirms-loretta-lynch-as-the-attorney-general-of-the-united-states-lynch-will-be-the-first-african-american-woman.html)  [JSON](/news/2015/04/23/the-united-states-senate-confirms-loretta-lynch-as-the-attorney-general-of-the-united-states-lynch-will-be-the-first-african-american-woman.json)  [XML](/news/2015/04/23/the-united-states-senate-confirms-loretta-lynch-as-the-attorney-general-of-the-united-states-lynch-will-be-the-first-african-american-woman.xml)  
+
 ### [2015-04-23](/news/2015/04/23/index.md)
 
+##### United States Senate
 # The United States Senate confirms Loretta Lynch as the Attorney General of the United States. Lynch will be the first African-American woman to hold the position. 
 
+The nomination of Ms. Lynch to replace Attorney General Eric H. Holder Jr. put Republicans in a difficult position politically.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2015/04/24/us/politics/loretta-lynch-attorney-general-vote.html)
+1. [New York Times](https://www.nytimes.com/2015/04/24/us/politics/loretta-lynch-attorney-general-vote.html)
+1. [Cover Image](https://static01.nyt.com/images/2015/04/24/world/24Cong-web/24Cong-web-facebookJumbo.jpg)
 
 ### Related:
 

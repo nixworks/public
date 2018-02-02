@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/17/minnesota-state-patrol-after-issuing-three-warn
 
 ### [2017-06-17](/news/2017/06/17/index.md)
 
+##### Shooting of Philando Castile
 # Minnesota State Patrol, after issuing three warnings, arrest 18 people who were blocking Interstate 94 in St. Paul. A peaceful protest started following Friday's acquittal of St. Anthony police officer Jeronimo Yanez, who was charged with manslaughter in the fatal shooting of Philando Castile. 
 
 

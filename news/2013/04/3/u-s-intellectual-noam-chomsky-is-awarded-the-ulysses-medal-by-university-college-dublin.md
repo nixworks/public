@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/3/u-s-intellectual-noam-chomsky-is-awarded-the-ulysses-medal-by-university-college-dublin.html)  [JSON](/news/2013/04/3/u-s-intellectual-noam-chomsky-is-awarded-the-ulysses-medal-by-university-college-dublin.json)  [XML](/news/2013/04/3/u-s-intellectual-noam-chomsky-is-awarded-the-ulysses-medal-by-university-college-dublin.xml)  
+
 ### [2013-04-3](/news/2013/04/3/index.md)
 
+##### U.S.
 # U.S. intellectual Noam Chomsky is awarded the Ulysses Medal by University College Dublin. 
 
 Veteran US political activist and intellectual Noam Chomsky has received another accolade.
 
 
-### Source:
+### Sources:
 
 1. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/republic-of-ireland/ucd-gives-noam-chomsky-top-honour-ahead-of-dublin-lecture-29170379.html)
 1. [Cover Image](http://www.belfasttelegraph.co.uk/migration_catalog/article25653425.ece/ALTERNATES/h342/noam-chomsky)

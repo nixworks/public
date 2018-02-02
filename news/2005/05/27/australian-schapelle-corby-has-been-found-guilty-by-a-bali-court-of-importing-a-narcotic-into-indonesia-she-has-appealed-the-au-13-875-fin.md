@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/27/australian-schapelle-corby-has-been-found-guilty-by-a-bali-court-of-importing-a-narcotic-into-indonesia-she-has-appealed-the-au-13-875-fin.html)  [JSON](/news/2005/05/27/australian-schapelle-corby-has-been-found-guilty-by-a-bali-court-of-importing-a-narcotic-into-indonesia-she-has-appealed-the-au-13-875-fin.json)  [XML](/news/2005/05/27/australian-schapelle-corby-has-been-found-guilty-by-a-bali-court-of-importing-a-narcotic-into-indonesia-she-has-appealed-the-au-13-875-fin.xml)  
+
 ### [2005-05-27](/news/2005/05/27/index.md)
 
+##### Australia
 #  Australian Schapelle Corby has been found guilty by a Bali court of importing a narcotic into Indonesia. She has appealed the AU$13,875 fine and the 20-year jail sentence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/newsitems/200505/s1378668.htm)
 2. [Jakarta Post](http://www.thejakartapost.com/detaillatestnews.asp?fileid=20050525094057&irec=0)

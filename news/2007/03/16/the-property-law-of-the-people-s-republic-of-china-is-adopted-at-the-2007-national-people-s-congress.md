@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/16/the-property-law-of-the-people-s-republic-of-china-is-adopted-at-the-2007-national-people-s-congress.html)  [JSON](/news/2007/03/16/the-property-law-of-the-people-s-republic-of-china-is-adopted-at-the-2007-national-people-s-congress.json)  [XML](/news/2007/03/16/the-property-law-of-the-people-s-republic-of-china-is-adopted-at-the-2007-national-people-s-congress.xml)  
+
 ### [2007-03-16](/news/2007/03/16/index.md)
 
+##### Property Law of the People's Republic of China
 #  The Property Law of the People's Republic of China is adopted at the 2007 National People's Congress. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6456959.stm)
 

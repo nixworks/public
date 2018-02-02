@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/16/american-singer-kitty-wells-the-queen-of-country-music-and-the-first-female-singer-to-have-a-number-one-song-on-the-country-charts-with.html)  [JSON](/news/2012/07/16/american-singer-kitty-wells-the-queen-of-country-music-and-the-first-female-singer-to-have-a-number-one-song-on-the-country-charts-with.json)  [XML](/news/2012/07/16/american-singer-kitty-wells-the-queen-of-country-music-and-the-first-female-singer-to-have-a-number-one-song-on-the-country-charts-with.xml)  
+
 ### [2012-07-16](/news/2012/07/16/index.md)
 
+##### Kitty Wells
 # American singer Kitty Wells, the "Queen of country music" and the first female singer to have a number one song on the country charts with "It Wasn't God Who Made Honky Tonk Angels", dies of complications of a stroke. 
 
 Kitty Wells, the long-reigning “Queen of Country Music” and the first woman to reach No. 1 on the country chart with her attitude-changing hit “It Wasn’t God Who Made Honky Tonk Angels,” died Monday at age 92 of complications from a stroke.
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/entertainment/music/posts/la-et-ms-kitty-wells-obituary-country-music-dead-92-20120716,0,6691564.story)
 1. [Cover Image](http://www.trbimg.com/img-50047db9/turbine/la-et-ms-kitty-wells-obituary-country-music-dead-92-20120716)

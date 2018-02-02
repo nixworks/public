@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/17/pope-benedict-xvi-launches-an-internal-investigation-into-leaks-of-confidential-documents-alleging-corruption-financial-mismanagement-and-p.html)  [JSON](/news/2012/03/17/pope-benedict-xvi-launches-an-internal-investigation-into-leaks-of-confidential-documents-alleging-corruption-financial-mismanagement-and-p.json)  [XML](/news/2012/03/17/pope-benedict-xvi-launches-an-internal-investigation-into-leaks-of-confidential-documents-alleging-corruption-financial-mismanagement-and-p.xml)  
+
 ### [2012-03-17](/news/2012/03/17/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI launches an internal investigation into leaks of confidential documents alleging corruption, financial mismanagement and power struggles among senior church officials. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iRCRXL80ZjGMCov0AFy8PyFuX19A?docId=48c8901f7ca04491b1d247f989bef08e)
 

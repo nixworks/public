@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2004/03/15/pavlo-lazarenko-former-prime-minister-of-ukraine-stands-trial-in-a-u-s-federal-court-in-san-francisco-for-money-laundering.html)  [JSON](/news/2004/03/15/pavlo-lazarenko-former-prime-minister-of-ukraine-stands-trial-in-a-u-s-federal-court-in-san-francisco-for-money-laundering.json)  [XML](/news/2004/03/15/pavlo-lazarenko-former-prime-minister-of-ukraine-stands-trial-in-a-u-s-federal-court-in-san-francisco-for-money-laundering.xml)  
+
 ### [2004-03-15](/news/2004/03/15/index.md)
 
+##### Pavlo Lazarenko
 #  Pavlo Lazarenko, former prime minister of Ukraine, stands trial in a U.S. federal court in San Francisco for money laundering. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.ktvu.com/news/2923065/detail.html)
 
 ### Related:
 
-1. [Thirty thousand people are evacuated from Kalynivka, Ukraine, following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-from-kalynivka-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-gov.md) _Context: Ukraine_
-2. [The United States State Department orders Russia to close the Consulate-General in San Francisco and two other buildings by September 2, 2017, invoking "parity" over a Russian measure in July. ](/news/2017/08/31/the-united-states-state-department-orders-russia-to-close-the-consulate-general-in-san-francisco-and-two-other-buildings-by-september-2-201.md) _Context: San Francisco_
-3. [The International Institute for Strategic Studies releases a report arguing that North Korea has acquired a high-performance liquid-propellant engine for its missile program, probably from illicit networks in Russia and Ukraine, likely produced by Yuzhmash facilities. Ukraine denies the allegations. ](/news/2017/08/14/the-international-institute-for-strategic-studies-releases-a-report-arguing-that-north-korea-has-acquired-a-high-performance-liquid-propella.md) _Context: Ukraine_
-4. [California and San Francisco sue the United States Federal government over its opposition towards sanctuary cities. ](/news/2017/08/14/california-and-san-francisco-sue-the-united-states-federal-government-over-its-opposition-towards-sanctuary-cities.md) _Context: San Francisco_
-5. [Ukraine's domestic intelligence service, the SBU, reports that the March 2017 explosions at Balakliia military base in Eastern Ukraine were caused by a drone carrying a ZMG-1 thermite grenade. The explosions resulted in 1 death and 5 injuries. ](/news/2017/07/27/ukraine-s-domestic-intelligence-service-the-sbu-reports-that-the-march-2017-explosions-at-balakliia-military-base-in-eastern-ukraine-were.md) _Context: Ukraine_
+1. [A French court does not order the custody of Suleyman Kerimov but sets a EUR40 million bail and tighter controls. Kerimov was arrested on November 21 in a money laundering and tax fraud case. ](/news/2017/12/6/a-french-court-does-not-order-the-custody-of-suleyman-kerimov-but-sets-a-a-40-million-bail-and-tighter-controls-kerimov-was-arrested-on-no.md) _Context: money laundering_
+2. [A man strapped with explosives takes 11 people hostage in Kharkiv, Ukraine. The Ukrainian police free all the hostages and arrest the man. ](/news/2017/12/30/a-man-strapped-with-explosives-takes-11-people-hostage-in-kharkiv-ukraine-the-ukrainian-police-free-all-the-hostages-and-arrest-the-man.md) _Context: Ukraine_
+3. [Ukraine exchanges hundreds of prisoners with the Donetsk People's Republic and Luhansk People's Republic. ](/news/2017/12/27/ukraine-exchanges-hundreds-of-prisoners-with-the-donetsk-people-s-republic-and-luhansk-people-s-republic.md) _Context: Ukraine_
+4. [U.S. President Donald Trump commutes the prison sentence of Sholom Rubashkin, who in 2009 was sentenced to 27 years in prison for bank fraud and money laundering. ](/news/2017/12/20/u-s-president-donald-trump-commutes-the-prison-sentence-of-sholom-rubashkin-who-in-2009-was-sentenced-to-27-years-in-prison-for-bank-fraud.md) _Context: money laundering_
+5. [Refuse Fascism holds protests against U.S. President Donald Trump in several major cities, including New York City, Chicago, and San Francisco. ](/news/2017/11/4/refuse-fascism-holds-protests-against-u-s-president-donald-trump-in-several-major-cities-including-new-york-city-chicago-and-san-francis.md) _Context: San Francisco_

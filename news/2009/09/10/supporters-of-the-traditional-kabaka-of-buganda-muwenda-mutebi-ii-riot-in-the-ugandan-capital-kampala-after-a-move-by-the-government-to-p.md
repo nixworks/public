@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/10/supporters-of-the-traditional-kabaka-of-buganda-muwenda-mutebi-ii-riot-in-the-ugandan-capital-kampala-after-a-move-by-the-government-to-p.html)  [JSON](/news/2009/09/10/supporters-of-the-traditional-kabaka-of-buganda-muwenda-mutebi-ii-riot-in-the-ugandan-capital-kampala-after-a-move-by-the-government-to-p.json)  [XML](/news/2009/09/10/supporters-of-the-traditional-kabaka-of-buganda-muwenda-mutebi-ii-riot-in-the-ugandan-capital-kampala-after-a-move-by-the-government-to-p.xml)  
+
 ### [2009-09-10](/news/2009/09/10/index.md)
 
+##### kings
 #  Supporters of the traditional Kabaka of Buganda, Muwenda Mutebi II, riot in the Ugandan capital Kampala after a move by the government to prevent him from visiting a local area, resulting in several deaths. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8249693.stm)
 2. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090910175518798C143588)

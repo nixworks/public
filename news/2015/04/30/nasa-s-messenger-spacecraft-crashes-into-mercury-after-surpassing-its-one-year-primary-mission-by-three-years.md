@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/30/nasa-s-messenger-spacecraft-crashes-into-mercury-after-surpassing-its-one-year-primary-mission-by-three-years.html)  [JSON](/news/2015/04/30/nasa-s-messenger-spacecraft-crashes-into-mercury-after-surpassing-its-one-year-primary-mission-by-three-years.json)  [XML](/news/2015/04/30/nasa-s-messenger-spacecraft-crashes-into-mercury-after-surpassing-its-one-year-primary-mission-by-three-years.xml)  
+
 ### [2015-04-30](/news/2015/04/30/index.md)
 
+##### NASA
 # NASA's MESSENGER spacecraft crashes into Mercury after surpassing its one year primary mission by three years. 
 
 The team for NASA&#x27;s Messenger mission to Mercury reported that the spacecraft smashed into the planet&#x27;s surface as expected on Thursday.
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://www.nbcnews.com/science/space/thatsmessenger-nasa-probe-hits-mercury-after-smashing-mission-n351331)
 1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2015_18/1000461/150429-mecury-messenger-arp-935a_60f9ab63731ca339aa7639553555a8be.nbcnews-fp-1200-800.jpg)

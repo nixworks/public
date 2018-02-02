@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/18/militants-attack-a-checkpoint-near-the-city-of-peshawar-in-northwest-pakistan-resulting-in-the-deaths-of-two-police-officers-and-15-insurge.html)  [JSON](/news/2011/05/18/militants-attack-a-checkpoint-near-the-city-of-peshawar-in-northwest-pakistan-resulting-in-the-deaths-of-two-police-officers-and-15-insurge.json)  [XML](/news/2011/05/18/militants-attack-a-checkpoint-near-the-city-of-peshawar-in-northwest-pakistan-resulting-in-the-deaths-of-two-police-officers-and-15-insurge.xml)  
+
 ### [2011-05-18](/news/2011/05/18/index.md)
 
+##### Peshawar
 # Militants attack a checkpoint near the city of Peshawar in northwest Pakistan, resulting in the deaths of two police officers and 15 insurgents. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7569237.html)
 

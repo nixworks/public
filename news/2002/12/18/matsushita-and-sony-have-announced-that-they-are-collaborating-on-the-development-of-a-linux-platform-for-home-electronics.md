@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/18/matsushita-and-sony-have-announced-that-they-are-collaborating-on-the-development-of-a-linux-platform-for-home-electronics.html)  [JSON](/news/2002/12/18/matsushita-and-sony-have-announced-that-they-are-collaborating-on-the-development-of-a-linux-platform-for-home-electronics.json)  [XML](/news/2002/12/18/matsushita-and-sony-have-announced-that-they-are-collaborating-on-the-development-of-a-linux-platform-for-home-electronics.xml)  
+
 ### [2002-12-18](/news/2002/12/18/index.md)
 
+##### Panasonic Corporation
 #  Matsushita and Sony have announced that they are collaborating on the development of a Linux platform for home electronics.
 
 

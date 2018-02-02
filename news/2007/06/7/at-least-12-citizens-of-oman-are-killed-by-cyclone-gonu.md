@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/7/at-least-12-citizens-of-oman-are-killed-by-cyclone-gonu.html)  [JSON](/news/2007/06/7/at-least-12-citizens-of-oman-are-killed-by-cyclone-gonu.json)  [XML](/news/2007/06/7/at-least-12-citizens-of-oman-are-killed-by-cyclone-gonu.xml)  
+
 ### [2007-06-7](/news/2007/06/7/index.md)
 
+##### Oman
 #  At least 12 citizens of Oman are killed by Cyclone Gonu. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Australia](http://www.theaustralian.news.com.au/story/0,20867,21865927-1702,00.html)
 

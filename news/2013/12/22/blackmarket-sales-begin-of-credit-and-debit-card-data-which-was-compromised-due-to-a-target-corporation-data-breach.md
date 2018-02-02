@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/22/blackmarket-sales-begin-of-credit-and-debit-card-data-which-was-compromised-due-to-a-target-corporation-data-breach.html)  [JSON](/news/2013/12/22/blackmarket-sales-begin-of-credit-and-debit-card-data-which-was-compromised-due-to-a-target-corporation-data-breach.json)  [XML](/news/2013/12/22/blackmarket-sales-begin-of-credit-and-debit-card-data-which-was-compromised-due-to-a-target-corporation-data-breach.xml)  
+
 ### [2013-12-22](/news/2013/12/22/index.md)
 
+##### payment cards
 # Blackmarket sales begin of credit and debit card data which was compromised due to a Target Corporation data breach. 
 
 Credit and debit card accounts stolen during a security breach involving retailer Target have reportedly flooded underground black markets, going on sale in batches of one million cards.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/us/2013/12/22/debit-and-credit-cards-stolen-in-target-breach-reportedly-for-sale-in/)
 1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/122213/0/0/122213_ANHQ_Target_640.jpg?ve=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/18/japan-officially-suspends-its-whaling-program-for-the-season-due-to-interference-by-the-sea-shepherd-conservation-organisation.html)  [JSON](/news/2011/02/18/japan-officially-suspends-its-whaling-program-for-the-season-due-to-interference-by-the-sea-shepherd-conservation-organisation.json)  [XML](/news/2011/02/18/japan-officially-suspends-its-whaling-program-for-the-season-due-to-interference-by-the-sea-shepherd-conservation-organisation.xml)  
+
 ### [2011-02-18](/news/2011/02/18/index.md)
 
+##### Japan
 # Japan officially suspends its whaling program for the season due to interference by the Sea Shepherd conservation organisation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NHK](http://www.nhk.or.jp/daily/english/18_23.html)
 

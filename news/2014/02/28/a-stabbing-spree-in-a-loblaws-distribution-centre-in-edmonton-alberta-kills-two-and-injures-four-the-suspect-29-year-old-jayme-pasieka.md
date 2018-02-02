@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/28/a-stabbing-spree-in-a-loblaws-distribution-centre-in-edmonton-alberta-kills-two-and-injures-four-the-suspect-29-year-old-jayme-pasieka.html)  [JSON](/news/2014/02/28/a-stabbing-spree-in-a-loblaws-distribution-centre-in-edmonton-alberta-kills-two-and-injures-four-the-suspect-29-year-old-jayme-pasieka.json)  [XML](/news/2014/02/28/a-stabbing-spree-in-a-loblaws-distribution-centre-in-edmonton-alberta-kills-two-and-injures-four-the-suspect-29-year-old-jayme-pasieka.xml)  
+
 ### [2014-02-28](/news/2014/02/28/index.md)
 
+##### Loblaws
 # A stabbing spree in a Loblaws distribution centre in Edmonton, Alberta kills two, and injures four. The suspect, 29-year-old Jayme Pasieka, is arrested hours after the attack. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2014/02/28/world/americas/stabbing-edmonton-warehouse/index.html?hpt=hp_t3)
 

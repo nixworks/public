@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/6/opposition-parties-in-burma-accuse-the-military-junta-of-cheating-and-threatening-voters-ahead-of-the-general-election-on-sunday.html)  [JSON](/news/2010/11/6/opposition-parties-in-burma-accuse-the-military-junta-of-cheating-and-threatening-voters-ahead-of-the-general-election-on-sunday.json)  [XML](/news/2010/11/6/opposition-parties-in-burma-accuse-the-military-junta-of-cheating-and-threatening-voters-ahead-of-the-general-election-on-sunday.xml)  
+
 ### [2010-11-6](/news/2010/11/6/index.md)
 
+##### Burma
 # Opposition parties in Burma accuse the military junta of "cheating" and "threatening" voters ahead of the general election on Sunday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/11/20101169237967672.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/6/2010116103526942140_20.jpg)

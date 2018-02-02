@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/30/yosemite-national-park-commemorates-the-150th-anniversary-of-abraham-lincoln-signing-into-law-the-yosemite-grant-act-establishing-yosemite.html)  [JSON](/news/2014/06/30/yosemite-national-park-commemorates-the-150th-anniversary-of-abraham-lincoln-signing-into-law-the-yosemite-grant-act-establishing-yosemite.json)  [XML](/news/2014/06/30/yosemite-national-park-commemorates-the-150th-anniversary-of-abraham-lincoln-signing-into-law-the-yosemite-grant-act-establishing-yosemite.xml)  
+
 ### [2014-06-30](/news/2014/06/30/index.md)
 
+##### Yosemite National Park
 # Yosemite National Park commemorates the 150th anniversary of Abraham Lincoln signing into law the Yosemite Grant Act, establishing Yosemite as a federally-protected area. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [KGO](http://abc7news.com/news/yosemite-celebrates-150th-anniversary/148782/#&cmp=twi-kgo-post-148782)
 

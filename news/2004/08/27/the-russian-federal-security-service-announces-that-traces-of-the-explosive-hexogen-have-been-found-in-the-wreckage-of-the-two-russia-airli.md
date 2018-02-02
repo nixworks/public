@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/27/the-russian-federal-security-service-announces-that-traces-of-the-explosive-hexogen-have-been-found-in-the-wreckage-of-the-two-russia-airli.html)  [JSON](/news/2004/08/27/the-russian-federal-security-service-announces-that-traces-of-the-explosive-hexogen-have-been-found-in-the-wreckage-of-the-two-russia-airli.json)  [XML](/news/2004/08/27/the-russian-federal-security-service-announces-that-traces-of-the-explosive-hexogen-have-been-found-in-the-wreckage-of-the-two-russia-airli.xml)  
+
 ### [2004-08-27](/news/2004/08/27/index.md)
 
+##### Federal Security Service
 #  The Russian Federal Security Service announces that traces of the explosive hexogen have been found in the wreckage of the two Russia airliners which crashed on August 24, 2004. The Islamic group "the Islambouli Brigades" claims responsibility. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://ap.washingtontimes.com/dynamic/stories/R/RUSSIA_PLANE_CRASH?SITE=DCTMS&SECTION=HOME)
 

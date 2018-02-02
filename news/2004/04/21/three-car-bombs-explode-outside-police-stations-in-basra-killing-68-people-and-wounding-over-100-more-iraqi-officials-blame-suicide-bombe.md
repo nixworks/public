@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2004/04/21/three-car-bombs-explode-outside-police-stations-in-basra-killing-68-people-and-wounding-over-100-more-iraqi-officials-blame-suicide-bombe.html)  [JSON](/news/2004/04/21/three-car-bombs-explode-outside-police-stations-in-basra-killing-68-people-and-wounding-over-100-more-iraqi-officials-blame-suicide-bombe.json)  [XML](/news/2004/04/21/three-car-bombs-explode-outside-police-stations-in-basra-killing-68-people-and-wounding-over-100-more-iraqi-officials-blame-suicide-bombe.xml)  
+
 ### [2004-04-21](/news/2004/04/21/index.md)
 
+##### Basra
 #  Three car bombs explode outside police stations in Basra, killing 68 people and wounding over 100 more. Iraqi officials blame suicide bombers for the terrorism. 23 of the casualties are school children. A fourth car bomb explodes in Zubeir, south of Basra, killing three and wounding four. British soldiers assisting the wounded are pelted with stones, injuring four, two seriously. 
 
-The suicide attacks brought anger, mourning and upheaval to a mostly Shiite southern city that has been spared the worst of the violence.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3644733.stm)
-2. [NYT](http://www.nytimes.com/2004/04/21/international/middleeast/21CND-IRAQ.html?hp)
-3. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1082499014094&call_pageid=968332188854&col=968350060724)
-3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+2. [NYT](https://www.nytimes.com/2004/04/21/international/middleeast/21CND-IRAQ.html?hp)
+3. [Toronto Star](https://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1082499014094&call_pageid=968332188854&col=968350060724)
 
 ### Related:
 

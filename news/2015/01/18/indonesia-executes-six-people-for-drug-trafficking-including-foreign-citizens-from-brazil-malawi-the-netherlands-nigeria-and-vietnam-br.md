@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/18/indonesia-executes-six-people-for-drug-trafficking-including-foreign-citizens-from-brazil-malawi-the-netherlands-nigeria-and-vietnam-br.html)  [JSON](/news/2015/01/18/indonesia-executes-six-people-for-drug-trafficking-including-foreign-citizens-from-brazil-malawi-the-netherlands-nigeria-and-vietnam-br.json)  [XML](/news/2015/01/18/indonesia-executes-six-people-for-drug-trafficking-including-foreign-citizens-from-brazil-malawi-the-netherlands-nigeria-and-vietnam-br.xml)  
+
 ### [2015-01-18](/news/2015/01/18/index.md)
 
+##### Indonesia
 # Indonesia executes six people for drug trafficking including foreign citizens from Brazil, Malawi, the Netherlands, Nigeria, and Vietnam. Brazil and the Netherlands withdraw their ambassadors in protest. 
 
 INDONESIA has put to death five foreigners and one local woman convicted of drugs offences, unleashing a diplomatic storm as Brazil and the Netherlands condemned the execution of their citizens. 
 
 
-### Source:
+### Sources:
 
 1. [ABC Australia](http://www.abc.net.au/news/2015-01-19/countries-remove-ambassadors-from-indonesia-after-executions/6024100)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-30870558)

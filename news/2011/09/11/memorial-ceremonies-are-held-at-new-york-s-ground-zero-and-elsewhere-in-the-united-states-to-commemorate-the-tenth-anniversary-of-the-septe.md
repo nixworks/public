@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2011/09/11/memorial-ceremonies-are-held-at-new-york-s-ground-zero-and-elsewhere-in-the-united-states-to-commemorate-the-tenth-anniversary-of-the-septe.html)  [JSON](/news/2011/09/11/memorial-ceremonies-are-held-at-new-york-s-ground-zero-and-elsewhere-in-the-united-states-to-commemorate-the-tenth-anniversary-of-the-septe.json)  [XML](/news/2011/09/11/memorial-ceremonies-are-held-at-new-york-s-ground-zero-and-elsewhere-in-the-united-states-to-commemorate-the-tenth-anniversary-of-the-septe.xml)  
+
 ### [2011-09-11](/news/2011/09/11/index.md)
 
+##### Ground Zero
 # Memorial ceremonies are held at New York's Ground Zero and elsewhere in the United States, to commemorate the tenth anniversary of the September 11 attacks. Ceremonies are also held worldwide to mark the anniversary of the attacks. 
 
-Ten years on from the day the 9/11 terrorist attacks changed so much for so many people, the world&#x27;s leaders and millions of citizens are pausing to reflect.
+A memorial will be completed by the decade anniversary of the terrorist attacks that brought down the World Trade Center, reported the Port Authority of New York and New Jersey. There will be a ded…
 
 
-### Source:
+### Sources:
 
 1. [Daily Sundial](http://sundial.csun.edu/2011/09/ground-zero-memorial-plaza-to-open-on-10th-anniversary-of-911/)
-2. [Yahoo News via AP](http://news.yahoo.com/9-11-remembered-worldwide-ceremonies-012658121.html)
-2. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
+2. [Yahoo News via AP](https://news.yahoo.com/9-11-remembered-worldwide-ceremonies-012658121.html)
+2. [Cover Image](https://i1.wp.com/sundial.csun.edu/wp-content/uploads/2011/09/GroundZero2.jpg?fit=990%2C660)
 
 ### Related:
 

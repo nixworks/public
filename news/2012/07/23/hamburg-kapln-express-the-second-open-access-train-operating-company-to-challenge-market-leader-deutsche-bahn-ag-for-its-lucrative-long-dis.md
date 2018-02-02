@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/23/hamburg-kapln-express-the-second-open-access-train-operating-company-to-challenge-market-leader-deutsche-bahn-ag-for-its-lucrative-long-dis.html)  [JSON](/news/2012/07/23/hamburg-kapln-express-the-second-open-access-train-operating-company-to-challenge-market-leader-deutsche-bahn-ag-for-its-lucrative-long-dis.json)  [XML](/news/2012/07/23/hamburg-kapln-express-the-second-open-access-train-operating-company-to-challenge-market-leader-deutsche-bahn-ag-for-its-lucrative-long-dis.xml)  
+
 ### [2012-07-23](/news/2012/07/23/index.md)
 
+##### Hamburg-Koln-Express
 # Hamburg-Koln-Express, the second open-access train operating company to challenge market leader Deutsche Bahn AG for its lucrative long-distance business, launches a route in Germany connecting the northern city of Hamburg with Cologne in the west. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/us-backed-firm-enters-german-rail-passenger-market-16837834#.UA2KRmEe6So)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/26/two-rockets-strike-the-lebanese-capital-of-beirut-in-the-predominantly-shiite-southern-suburbs-which-also-serves-as-the-stronghold-of-hezbo.html)  [JSON](/news/2013/05/26/two-rockets-strike-the-lebanese-capital-of-beirut-in-the-predominantly-shiite-southern-suburbs-which-also-serves-as-the-stronghold-of-hezbo.json)  [XML](/news/2013/05/26/two-rockets-strike-the-lebanese-capital-of-beirut-in-the-predominantly-shiite-southern-suburbs-which-also-serves-as-the-stronghold-of-hezbo.xml)  
+
 ### [2013-05-26](/news/2013/05/26/index.md)
 
+##### Lebanese
 # Two rockets strike the Lebanese capital of Beirut in the predominantly Shiite southern suburbs, which also serves as the stronghold of Hezbollah. 
 
 Rockets have slammed into two southern Beirut neighbourhoods that are strongholds of Lebanon&#039;s Hezbollah group, wounding four people and raising fears that Syria&#039;s civil war is increasingly moving to Lebanon.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Sydney Morning Herald](http://www.smh.com.au/world/two-rockets-hit-lebanese-hezbollah-area-20130526-2n58p.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/2/n/5/9/d/image.related.articleLeadwide.620x349.2n58p.png/1369578073313.jpg)

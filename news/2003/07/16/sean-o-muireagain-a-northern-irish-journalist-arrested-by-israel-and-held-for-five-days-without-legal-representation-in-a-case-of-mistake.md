@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/16/sean-o-muireagain-a-northern-irish-journalist-arrested-by-israel-and-held-for-five-days-without-legal-representation-in-a-case-of-mistake.html)  [JSON](/news/2003/07/16/sean-o-muireagain-a-northern-irish-journalist-arrested-by-israel-and-held-for-five-days-without-legal-representation-in-a-case-of-mistake.json)  [XML](/news/2003/07/16/sean-o-muireagain-a-northern-irish-journalist-arrested-by-israel-and-held-for-five-days-without-legal-representation-in-a-case-of-mistake.xml)  
+
 ### [2003-07-16](/news/2003/07/16/index.md)
 
+##### Sen  Muireagin
 #  Sen  Muireagin, a Northern Irish journalist, arrested by Israel and held for five days without legal representation in a case of mistaken identity, is released and leaves Israel. The affair causes considerable embarrassment to the Israeli and British secret services, the former having arrested  Mureagin on the advice of the latter, who claimed incorrectly that he was a Real IRA man with the same name. In the confused aftermath, the Israeli Foreign Ministry spokesman suggests that  Muireagin may have been guilty, while Prime Minister Sharon's spokesman states categorically that he was innocent and the entire affair an error. He claims that  Muireagin is a former convicted Provisional IRA terrorist.
 
 

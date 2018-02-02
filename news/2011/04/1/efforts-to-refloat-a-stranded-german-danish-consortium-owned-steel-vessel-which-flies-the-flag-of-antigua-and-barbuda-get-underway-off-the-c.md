@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/1/efforts-to-refloat-a-stranded-german-danish-consortium-owned-steel-vessel-which-flies-the-flag-of-antigua-and-barbuda-get-underway-off-the-c.html)  [JSON](/news/2011/04/1/efforts-to-refloat-a-stranded-german-danish-consortium-owned-steel-vessel-which-flies-the-flag-of-antigua-and-barbuda-get-underway-off-the-c.json)  [XML](/news/2011/04/1/efforts-to-refloat-a-stranded-german-danish-consortium-owned-steel-vessel-which-flies-the-flag-of-antigua-and-barbuda-get-underway-off-the-c.xml)  
+
 ### [2011-04-1](/news/2011/04/1/index.md)
 
+##### Antigua and Barbuda
 # Efforts to refloat a stranded German-Danish consortium-owned steel vessel which flies the flag of Antigua and Barbuda get underway off the coast of Connemara in the west of Ireland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Irish Independent](http://www.independent.ie/national-news/bid-to-refloat-cargo-ship-stranded-on-rocks-in-connemara-2603974.html)
 

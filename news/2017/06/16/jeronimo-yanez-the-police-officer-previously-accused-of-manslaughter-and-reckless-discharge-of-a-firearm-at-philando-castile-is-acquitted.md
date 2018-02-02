@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/16/jeronimo-yanez-the-police-officer-previously-ac
 
 ### [2017-06-16](/news/2017/06/16/index.md)
 
+##### Shooting of Philando Castile
 # Jeronimo Yanez, the police officer previously accused of manslaughter and reckless discharge of a firearm at Philando Castile, is acquitted of all charges. 
 
 A jury has acquitted a Minnesota police officer in the shooting death of a black man outside St. Paul last year.

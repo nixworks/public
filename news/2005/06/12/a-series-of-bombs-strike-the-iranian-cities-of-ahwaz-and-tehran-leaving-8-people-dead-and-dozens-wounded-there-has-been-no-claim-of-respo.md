@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/12/a-series-of-bombs-strike-the-iranian-cities-of-ahwaz-and-tehran-leaving-8-people-dead-and-dozens-wounded-there-has-been-no-claim-of-respo.html)  [JSON](/news/2005/06/12/a-series-of-bombs-strike-the-iranian-cities-of-ahwaz-and-tehran-leaving-8-people-dead-and-dozens-wounded-there-has-been-no-claim-of-respo.json)  [XML](/news/2005/06/12/a-series-of-bombs-strike-the-iranian-cities-of-ahwaz-and-tehran-leaving-8-people-dead-and-dozens-wounded-there-has-been-no-claim-of-respo.xml)  
+
 ### [2005-06-12](/news/2005/06/12/index.md)
 
+##### Iran
 #  A series of Bombs strike the Iranian cities of Ahwaz and Tehran, leaving 8 people dead and dozens wounded. There has been no claim of responsibility. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4084908.stm)
 

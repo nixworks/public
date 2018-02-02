@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/28/chinese-premier-wen-jiabao-holds-the-first-online-discussion-with-internet-users-before-the-national-people-s-congress-s-annual-plenary-ses.html)  [JSON](/news/2009/02/28/chinese-premier-wen-jiabao-holds-the-first-online-discussion-with-internet-users-before-the-national-people-s-congress-s-annual-plenary-ses.json)  [XML](/news/2009/02/28/chinese-premier-wen-jiabao-holds-the-first-online-discussion-with-internet-users-before-the-national-people-s-congress-s-annual-plenary-ses.xml)  
+
 ### [2009-02-28](/news/2009/02/28/index.md)
 
+##### China
 #  Chinese Premier Wen Jiabao holds the first online discussion with Internet users before the National People's Congress's annual plenary session. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [People's Daily](http://english.people.com.cn/90002/96491/index.html)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/20/egyptian-armed-forces-claim-that-passenger-lugg
 
 ### [2016-05-20](/news/2016/05/20/index.md)
 
+##### EgyptAir Flight 804
 # Egyptian Armed Forces claim that passenger luggage and part of the aircraft have been found in the Mediterranean Sea 290 kilometers north of Alexandria. 
 
 

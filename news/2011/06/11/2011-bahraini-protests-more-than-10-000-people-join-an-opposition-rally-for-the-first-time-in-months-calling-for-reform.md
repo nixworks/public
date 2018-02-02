@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/11/2011-bahraini-protests-more-than-10-000-people-join-an-opposition-rally-for-the-first-time-in-months-calling-for-reform.html)  [JSON](/news/2011/06/11/2011-bahraini-protests-more-than-10-000-people-join-an-opposition-rally-for-the-first-time-in-months-calling-for-reform.json)  [XML](/news/2011/06/11/2011-bahraini-protests-more-than-10-000-people-join-an-opposition-rally-for-the-first-time-in-months-calling-for-reform.xml)  
+
 ### [2011-06-11](/news/2011/06/11/index.md)
 
+##### 2011 Bahraini protests
 # 2011 Bahraini protests: More than 10,000 people join an opposition rally for the first time in months calling for reform. 
 
 Opposition calls for further reform at first protest in months after martial law-style restrictions were lifted.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/2011611163013709512.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/10/201161014916776734_20.jpg)

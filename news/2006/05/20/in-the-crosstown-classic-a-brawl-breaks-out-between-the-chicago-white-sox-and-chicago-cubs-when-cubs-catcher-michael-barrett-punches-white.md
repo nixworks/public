@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/05/20/in-the-crosstown-classic-a-brawl-breaks-out-between-the-chicago-white-sox-and-chicago-cubs-when-cubs-catcher-michael-barrett-punches-white.html)  [JSON](/news/2006/05/20/in-the-crosstown-classic-a-brawl-breaks-out-between-the-chicago-white-sox-and-chicago-cubs-when-cubs-catcher-michael-barrett-punches-white.json)  [XML](/news/2006/05/20/in-the-crosstown-classic-a-brawl-breaks-out-between-the-chicago-white-sox-and-chicago-cubs-when-cubs-catcher-michael-barrett-punches-white.xml)  
+
 ### [2006-05-20](/news/2006/05/20/index.md)
 
+##### Crosstown Classic
 #  In the Crosstown Classic, a brawl breaks out between the Chicago White Sox and Chicago Cubs when Cubs catcher Michael Barrett punches White Sox catcher A. J. Pierzynski. Barrett drew a 10 game suspension.
 
 

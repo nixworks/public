@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/7/the-uk-s-environment-agency-issues-a-severe-flood-warning-for-part-of-south-west-england-following-torrential-rain.html)  [JSON](/news/2012/07/7/the-uk-s-environment-agency-issues-a-severe-flood-warning-for-part-of-south-west-england-following-torrential-rain.json)  [XML](/news/2012/07/7/the-uk-s-environment-agency-issues-a-severe-flood-warning-for-part-of-south-west-england-following-torrential-rain.xml)  
+
 ### [2012-07-7](/news/2012/07/7/index.md)
 
+##### Environment Agency
 # The UK's Environment Agency issues a severe flood warning for part of south-west England following torrential rain. 
 
 A severe flood warning remains in place for part of south-west England, following two days of heavy rain that has affected many parts of the UK.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18750430)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61428000/jpg/_61428073_015268420-1.jpg)

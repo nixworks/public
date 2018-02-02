@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/31/china-opens-three-gorges-dam-to-tourists.html)  [JSON](/news/2005/05/31/china-opens-three-gorges-dam-to-tourists.json)  [XML](/news/2005/05/31/china-opens-three-gorges-dam-to-tourists.xml)  
+
 ### [2005-05-31](/news/2005/05/31/index.md)
 
+##### China
 #  China opens Three Gorges Dam to tourists. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/PEK265609.htm)
 

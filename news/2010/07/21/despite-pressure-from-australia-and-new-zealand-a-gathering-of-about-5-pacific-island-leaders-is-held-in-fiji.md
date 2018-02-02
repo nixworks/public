@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/21/despite-pressure-from-australia-and-new-zealand-a-gathering-of-about-5-pacific-island-leaders-is-held-in-fiji.html)  [JSON](/news/2010/07/21/despite-pressure-from-australia-and-new-zealand-a-gathering-of-about-5-pacific-island-leaders-is-held-in-fiji.json)  [XML](/news/2010/07/21/despite-pressure-from-australia-and-new-zealand-a-gathering-of-about-5-pacific-island-leaders-is-held-in-fiji.xml)  
+
 ### [2010-07-21](/news/2010/07/21/index.md)
 
+##### Australia
 # Despite pressure from Australia and New Zealand, a gathering of about 5 Pacific Island leaders is held in Fiji. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/fiji-expects-strong-turnout-at-talkfest-20100721-10kh6.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/24/a-union-pacific-freight-train-derails-in-flooded-north-texas-near-corsicana-where-the-tracks-washed-away-the-two-crewmen-on-board-swam-to.html)  [JSON](/news/2015/10/24/a-union-pacific-freight-train-derails-in-flooded-north-texas-near-corsicana-where-the-tracks-washed-away-the-two-crewmen-on-board-swam-to.json)  [XML](/news/2015/10/24/a-union-pacific-freight-train-derails-in-flooded-north-texas-near-corsicana-where-the-tracks-washed-away-the-two-crewmen-on-board-swam-to.xml)  
+
 ### [2015-10-24](/news/2015/10/24/index.md)
 
+##### Union Pacific
 # A Union Pacific freight train derails in flooded North Texas, near Corsicana, where the tracks washed away. The two crewmen on board swam to safety. 
 
 San Antonio man missing after being swept into drainage ditch while walking his dog; washed out railroad track causes freight train derailment
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/news/texas-floods-union-pacific-train-derails-as-rains-soak-state/)
 2. [WFAA blog](http://www.wfaa.com/story/weather/2015/10/24/weather-blog-rain/74523686/)

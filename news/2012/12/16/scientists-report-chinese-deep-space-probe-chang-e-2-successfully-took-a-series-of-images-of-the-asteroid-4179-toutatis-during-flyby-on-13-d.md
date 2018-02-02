@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/16/scientists-report-chinese-deep-space-probe-chang-e-2-successfully-took-a-series-of-images-of-the-asteroid-4179-toutatis-during-flyby-on-13-d.html)  [JSON](/news/2012/12/16/scientists-report-chinese-deep-space-probe-chang-e-2-successfully-took-a-series-of-images-of-the-asteroid-4179-toutatis-during-flyby-on-13-d.json)  [XML](/news/2012/12/16/scientists-report-chinese-deep-space-probe-chang-e-2-successfully-took-a-series-of-images-of-the-asteroid-4179-toutatis-during-flyby-on-13-d.xml)  
+
 ### [2012-12-16](/news/2012/12/16/index.md)
 
+##### Chinese
 # Scientists report Chinese deep-space probe Chang'e 2 successfully took a series of images of the asteroid 4179 Toutatis during flyby on 13 December. 
 
 The closest fly-by was at 08:30:09 UTC on December 13 at an altitude of just 3.2 km and at a relative velocity of 10.73 km/s. Quite a few photos were snapped by the CCD camera - including this series of photos taken 93 - 240 km away from Toutatis:
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://cosmiclog.nbcnews.com/_news/2012/12/15/15919205-new-milestone-for-china-probe-snaps-close-ups-of-asteroid-toutatis)
 2. [The Guardian Express](http://guardianlv.com/2012/12/china-space-probe-takes-close-up-images-of-the-asteroid-4179-toutatis/)
@@ -15,8 +19,8 @@ The closest fly-by was at 08:30:09 UTC on December 13 at an altitude of just 3.2
 
 ### Related:
 
-1. [4179 Toutatis, an asteroid about 3 miles wide, passes within 4.3 million miles or 18 lunar distances of the Earth. ](/news/2012/12/12/4179-toutatis-an-asteroid-about-3-miles-wide-passes-within-4-3-million-miles-or-18-lunar-distances-of-the-earth.md) _Context: 4179 Toutatis, Asteroid_
-2. [ The asteroid 4179 Toutatis passes within 1 million miles (1.6 million kilometers, or about four times the distance from Earth to the Moon) of Earth. Toutatis is the largest known asteroid to pass this close to Earth. ](/news/2004/09/29/the-asteroid-4179-toutatis-passes-within-1-million-miles-1-6-million-kilometers-or-about-four-times-the-distance-from-earth-to-the-moon.md) _Context: 4179 Toutatis, Asteroid_
-3. [An Indian Air Force Mi-17 helicopter ferrying military officials crashes in Tawang, Arunachal Pradesh, a remote mountain region near the border with China, killing all seven personnel on board. ](/news/2017/10/6/an-indian-air-force-mi-17-helicopter-ferrying-military-officials-crashes-in-tawang-arunachal-pradesh-a-remote-mountain-region-near-the-bor.md) _Context: China_
-4. [China limits petroleum exports and bans imports of textiles from North Korea as part of new sanctions following the latest nuclear test. ](/news/2017/09/23/china-limits-petroleum-exports-and-bans-imports-of-textiles-from-north-korea-as-part-of-new-sanctions-following-the-latest-nuclear-test.md) _Context: China_
-5. [China's credit rating has been downgraded by Standard & Poor's (S&P) because of worries over the rapid build up of debt in the country. ](/news/2017/09/21/china-s-credit-rating-has-been-downgraded-by-standard-poor-s-s-p-because-of-worries-over-the-rapid-build-up-of-debt-in-the-country.md) _Context: China_
+1. [4179 Toutatis, an asteroid about 3 miles wide, passes within 4.3 million miles or 18 lunar distances of the Earth. ](/news/2012/12/12/4179-toutatis-an-asteroid-about-3-miles-wide-passes-within-4-3-million-miles-or-18-lunar-distances-of-the-earth.md) _Context: 4179 Toutatis, asteroid_
+2. [ The asteroid 4179 Toutatis passes within 1 million miles (1.6 million kilometers, or about four times the distance from Earth to the Moon) of Earth. Toutatis is the largest known asteroid to pass this close to Earth. ](/news/2004/09/29/the-asteroid-4179-toutatis-passes-within-1-million-miles-1-6-million-kilometers-or-about-four-times-the-distance-from-earth-to-the-moon.md) _Context: 4179 Toutatis, asteroid_
+3. [Sanchi is still ablaze this morning and it continues to leak oil. Chinese officials mention the danger of explosion and sinking. ](/news/2018/01/8/sanchi-is-still-ablaze-this-morning-and-it-continues-to-leak-oil-chinese-officials-mention-the-danger-of-explosion-and-sinking.md) _Context: Chinese_
+4. [Thirty-two sailors are missing after Iranian oil tanker Sanchi and Chinese freighter "CF-Crystal" collide off the east coast of China. The collision ignites the oil tanker, which carried a 136,000-tonne load. ](/news/2018/01/6/thirty-two-sailors-are-missing-after-iranian-oil-tanker-sanchi-and-chinese-freighter-cf-crystal-collide-off-the-east-coast-of-china-the-c.md) _Context: Chinese_
+5. [Chinese scientists announce they have successfully cloned crab-eating macaques using somatic cell nuclear transfer (SCNT), making them the first primates to be cloned. The monkeys were named Zhong Zhong and Hua Hua. ](/news/2018/01/24/chinese-scientists-announce-they-have-successfully-cloned-crab-eating-macaques-using-somatic-cell-nuclear-transfer-scnt-making-them-the-f.md) _Context: Chinese_

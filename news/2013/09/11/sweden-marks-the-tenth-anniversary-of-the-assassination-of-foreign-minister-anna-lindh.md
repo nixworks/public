@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/11/sweden-marks-the-tenth-anniversary-of-the-assassination-of-foreign-minister-anna-lindh.html)  [JSON](/news/2013/09/11/sweden-marks-the-tenth-anniversary-of-the-assassination-of-foreign-minister-anna-lindh.json)  [XML](/news/2013/09/11/sweden-marks-the-tenth-anniversary-of-the-assassination-of-foreign-minister-anna-lindh.xml)  
+
 ### [2013-09-11](/news/2013/09/11/index.md)
 
+##### Anna Lindh
 # Sweden marks the tenth anniversary of the assassination of Foreign Minister Anna Lindh. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Local](http://www.thelocal.se/50174/20130910/)
 

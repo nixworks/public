@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/22/the-texas-education-agency-adopts-controversial-changes-to-the-texas-public-school-curriculum-including-dropping-coverage-of-enlightenment.html)  [JSON](/news/2010/05/22/the-texas-education-agency-adopts-controversial-changes-to-the-texas-public-school-curriculum-including-dropping-coverage-of-enlightenment.json)  [XML](/news/2010/05/22/the-texas-education-agency-adopts-controversial-changes-to-the-texas-public-school-curriculum-including-dropping-coverage-of-enlightenment.xml)  
+
 ### [2010-05-22](/news/2010/05/22/index.md)
 
+##### Texas Education Agency
 # The Texas Education Agency adopts controversial changes to the Texas public school curriculum, including dropping coverage of enlightenment thinker Thomas Jefferson and suggesting United Nations is a "threat to freedom". The proposal to refer to the slave trade as the "Atlantic triangular trade" is not implemented. 
 
 Texas adopts a school curriculum which critics say will politicise teaching by demonising the UN and celebrating the free market.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/us_and_canada/10141121.stm)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
@@ -14,6 +18,6 @@ Texas adopts a school curriculum which critics say will politicise teaching by d
 
 1. [ Texas oilman Oscar Wyatt Jr. is sentenced to a year and one day in jail for breaching the rules of the United Nations oil-for-food program. ](/news/2007/11/27/texas-oilman-oscar-wyatt-jr-is-sentenced-to-a-year-and-one-day-in-jail-for-breaching-the-rules-of-the-united-nations-oil-for-food-program.md) _Context: Texas, United Nations_
 2. [ Texas oil executive David B. Chalmers, Jr pleads guilty to wire fraud connected with the United Nations oil-for-food program associated with the United Nations. ](/news/2007/08/17/texas-oil-executive-david-b-chalmers-jr-pleads-guilty-to-wire-fraud-connected-with-the-united-nations-oil-for-food-program-associated-wit.md) _Context: Texas, United Nations_
-3. [Qatar announces it will donate USD$ 30 million to help people in Texas recover from Harvey. ](/news/2017/09/7/qatar-announces-it-will-donate-usd-30-million-to-help-people-in-texas-recover-from-harvey.md) _Context: Texas_
-4. [At least eight people have died in the American state of Texas with 30,000 residents in the city of Houston expected to seek temporary shelter. ](/news/2017/08/28/at-least-eight-people-have-died-in-the-american-state-of-texas-with-30-000-residents-in-the-city-of-houston-expected-to-seek-temporary-shelt.md) _Context: Texas_
-5. [The death toll from Hurricane Harvey in the American city of Houston, Texas, rises to three with several more days of heavy rain causing "catastrophic" floods to come. ](/news/2017/08/27/the-death-toll-from-hurricane-harvey-in-the-american-city-of-houston-texas-rises-to-three-with-several-more-days-of-heavy-rain-causing-ca.md) _Context: Texas_
+3. [Suspected Allied Democratic Forces militants in North Kivu, DR Congo, kill at least 15 United Nations peacekeepers, mostly Tanzanian, and five Congolese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. ](/news/2017/12/8/suspected-allied-democratic-forces-militants-in-north-kivu-dr-congo-kill-at-least-15-united-nations-peacekeepers-mostly-tanzanian-and-fi.md) _Context: United Nations_
+4. [President Trump suggests that the United States could withhold foreign aid for countries that vote in favor of a United Nations resolution calling on the U.S. to withdraw its recognition of Jerusalem as Israel's capital. ](/news/2017/12/20/president-trump-suggests-that-the-united-states-could-withhold-foreign-aid-for-countries-that-vote-in-favor-of-a-united-nations-resolution-c.md) _Context: United Nations_
+5. [The Trump administrations withdraws the United States from the Global Compact on Migration of the United Nations. ](/news/2017/12/2/the-trump-administrations-withdraws-the-united-states-from-the-global-compact-on-migration-of-the-united-nations.md) _Context: United Nations_

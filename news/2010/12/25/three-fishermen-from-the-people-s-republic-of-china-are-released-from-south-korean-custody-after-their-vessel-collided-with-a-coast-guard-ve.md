@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/25/three-fishermen-from-the-people-s-republic-of-china-are-released-from-south-korean-custody-after-their-vessel-collided-with-a-coast-guard-ve.html)  [JSON](/news/2010/12/25/three-fishermen-from-the-people-s-republic-of-china-are-released-from-south-korean-custody-after-their-vessel-collided-with-a-coast-guard-ve.json)  [XML](/news/2010/12/25/three-fishermen-from-the-people-s-republic-of-china-are-released-from-south-korean-custody-after-their-vessel-collided-with-a-coast-guard-ve.xml)  
+
 ### [2010-12-25](/news/2010/12/25/index.md)
 
+##### China
 # Three fishermen from the People's Republic of China are released from South Korean custody after their vessel collided with a Coast Guard vessel last week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN.com](http://edition.cnn.com/2010/WORLD/asiapcf/12/25/south.korea.china.fishermen/index.html?hpt=T2)
 

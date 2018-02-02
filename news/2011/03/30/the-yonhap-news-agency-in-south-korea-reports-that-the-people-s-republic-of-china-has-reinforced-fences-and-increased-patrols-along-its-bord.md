@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/03/30/the-yonhap-news-agency-in-south-korea-reports-that-the-people-s-republic-of-china-has-reinforced-fences-and-increased-patrols-along-its-bord.html)  [JSON](/news/2011/03/30/the-yonhap-news-agency-in-south-korea-reports-that-the-people-s-republic-of-china-has-reinforced-fences-and-increased-patrols-along-its-bord.json)  [XML](/news/2011/03/30/the-yonhap-news-agency-in-south-korea-reports-that-the-people-s-republic-of-china-has-reinforced-fences-and-increased-patrols-along-its-bord.xml)  
+
 ### [2011-03-30](/news/2011/03/30/index.md)
 
+##### Yonhap
 # The Yonhap news agency in South Korea reports that the People's Republic of China has reinforced fences and increased patrols along its border with North Korea in order to stop a flow of refugees. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20110330/wl_asia_afp/nkoreachinamilitaryrefugees)
+1. [AFP via Yahoo! News](https://news.yahoo.com/s/afp/20110330/wl_asia_afp/nkoreachinamilitaryrefugees)
 
 ### Related:
 

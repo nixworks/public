@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/09/21/conflict-in-iraq-tawhid-and-jihad-a-militant-group-led-by-abu-musab-al-zarqawi-beheads-american-hostage-jack-hensley-the-group-threaten.html)  [JSON](/news/2004/09/21/conflict-in-iraq-tawhid-and-jihad-a-militant-group-led-by-abu-musab-al-zarqawi-beheads-american-hostage-jack-hensley-the-group-threaten.json)  [XML](/news/2004/09/21/conflict-in-iraq-tawhid-and-jihad-a-militant-group-led-by-abu-musab-al-zarqawi-beheads-american-hostage-jack-hensley-the-group-threaten.xml)  
+
 ### [2004-09-21](/news/2004/09/21/index.md)
 
+##### rebel-held
 #  Conflict in Iraq: Tawhid and Jihad, a militant group led by Abu Musab al-Zarqawi, beheads American hostage Jack Hensley. The group threatens to behead the remaining hostage, Briton Kenneth Bigley, within 24 hours unless the United States meets its demands. Eugene Armstrong was beheaded yesterday. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6295804)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6295804)
 
 ### Related:
 

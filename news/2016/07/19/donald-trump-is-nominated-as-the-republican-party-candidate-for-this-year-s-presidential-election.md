@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/19/donald-trump-is-nominated-as-the-republican-par
 
 ### [2016-07-19](/news/2016/07/19/index.md)
 
+##### 2016 Republican National Convention
 # Donald Trump is nominated as the Republican Party candidate for this year's presidential election. 
 
 Donald Trump was formally chosen as the Republican Party&#x27;s presidential nominee Tuesday evening.

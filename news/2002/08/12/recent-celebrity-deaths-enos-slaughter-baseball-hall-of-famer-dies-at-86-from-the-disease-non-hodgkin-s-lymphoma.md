@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/08/12/recent-celebrity-deaths-enos-slaughter-baseball-hall-of-famer-dies-at-86-from-the-disease-non-hodgkin-s-lymphoma.html)  [JSON](/news/2002/08/12/recent-celebrity-deaths-enos-slaughter-baseball-hall-of-famer-dies-at-86-from-the-disease-non-hodgkin-s-lymphoma.json)  [XML](/news/2002/08/12/recent-celebrity-deaths-enos-slaughter-baseball-hall-of-famer-dies-at-86-from-the-disease-non-hodgkin-s-lymphoma.xml)  
+
 ### [2002-08-12](/news/2002/08/12/index.md)
 
+##### Recent celebrity deaths
 #  Recent celebrity deaths: Enos Slaughter, Baseball Hall of Famer, dies at 86 from the disease non-Hodgkin's lymphoma.
 
 

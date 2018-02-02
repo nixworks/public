@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/5/the-high-court-of-australia-receives-a-complaint
 
 ### [2017-09-5](/news/2017/09/5/index.md)
 
+##### Australian Marriage Law Postal Survey (Same-sex marriage)
 # The High Court of Australia receives a complaint against the Australian Marriage Law Postal Survey citing the postal survey as "unique and offensive." 
 
 QC for one plaintiff says ‘putting to the public a vote on her family unit’ before heated debate about powers of Bureau of Statistics

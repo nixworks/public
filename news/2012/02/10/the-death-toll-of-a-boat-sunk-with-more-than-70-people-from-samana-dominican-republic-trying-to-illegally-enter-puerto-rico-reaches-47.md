@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/02/10/the-death-toll-of-a-boat-sunk-with-more-than-70-people-from-samana-dominican-republic-trying-to-illegally-enter-puerto-rico-reaches-47.html)  [JSON](/news/2012/02/10/the-death-toll-of-a-boat-sunk-with-more-than-70-people-from-samana-dominican-republic-trying-to-illegally-enter-puerto-rico-reaches-47.json)  [XML](/news/2012/02/10/the-death-toll-of-a-boat-sunk-with-more-than-70-people-from-samana-dominican-republic-trying-to-illegally-enter-puerto-rico-reaches-47.xml)  
+
 ### [2012-02-10](/news/2012/02/10/index.md)
 
+##### Samana
 # The death toll of a boat sunk with more than 70 people from Samana, Dominican Republic, trying to illegally enter Puerto Rico, reaches 47. 
 
 Search crewsrecovered 22 more bodies from the sea off the coast of theDominican Republic on Wednesday, bringing the death toll to 47after an overloaded migrant smuggling vessel capsized.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/02/08/dominican-shipwreck-idUSL2E8D894C20120208)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/02/08/dominican-shipwreck-idUSL2E8D894C20120208)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

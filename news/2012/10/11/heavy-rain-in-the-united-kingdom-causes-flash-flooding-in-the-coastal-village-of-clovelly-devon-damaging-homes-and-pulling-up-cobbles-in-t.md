@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/11/heavy-rain-in-the-united-kingdom-causes-flash-flooding-in-the-coastal-village-of-clovelly-devon-damaging-homes-and-pulling-up-cobbles-in-t.html)  [JSON](/news/2012/10/11/heavy-rain-in-the-united-kingdom-causes-flash-flooding-in-the-coastal-village-of-clovelly-devon-damaging-homes-and-pulling-up-cobbles-in-t.json)  [XML](/news/2012/10/11/heavy-rain-in-the-united-kingdom-causes-flash-flooding-in-the-coastal-village-of-clovelly-devon-damaging-homes-and-pulling-up-cobbles-in-t.xml)  
+
 ### [2012-10-11](/news/2012/10/11/index.md)
 
+##### Clovelly
 # Heavy rain in the United Kingdom causes flash flooding in the coastal village of Clovelly, Devon, damaging homes and pulling up cobbles in the street. 
 
 Heavy rain causes flash flooding in a north Devon coastal village, damaging homes and pulling up cobbles in the street.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-devon-19913483)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63437000/jpg/_63437810_clovellyflood.jpg)

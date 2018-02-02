@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/1/portugal-s-anta3nio-guterres-begins-his-term-as-
 
 ### [2017-01-1](/news/2017/01/1/index.md)
 
+##### United Nations Secretary-General selection, 2016
 # Portugal's Antonio Guterres begins his term as United Nations Secretary-General, replacing South Korea's Ban Ki-moon. 
 
 UNITED NATIONS (AP) — Ban Ki-moon ends 10 years at the helm of the United Nations lamenting the &quot;fires still burning&quot; from Syria to South Sudan but buoyed by a global agreement to combat climate change and new U.N. goals…

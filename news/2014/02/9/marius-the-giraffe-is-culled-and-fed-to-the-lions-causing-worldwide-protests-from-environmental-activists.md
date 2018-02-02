@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/9/marius-the-giraffe-is-culled-and-fed-to-the-lions-causing-worldwide-protests-from-environmental-activists.html)  [JSON](/news/2014/02/9/marius-the-giraffe-is-culled-and-fed-to-the-lions-causing-worldwide-protests-from-environmental-activists.json)  [XML](/news/2014/02/9/marius-the-giraffe-is-culled-and-fed-to-the-lions-causing-worldwide-protests-from-environmental-activists.xml)  
+
 ### [2014-02-9](/news/2014/02/9/index.md)
 
+##### Marius the giraffe
 # Marius the giraffe is culled and fed to the lions causing worldwide protests from environmental activists. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/02/09/world/europe/denmark-zoo-giraffe/)
 

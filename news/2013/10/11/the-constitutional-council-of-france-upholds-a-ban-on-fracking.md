@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/11/the-constitutional-council-of-france-upholds-a-ban-on-fracking.html)  [JSON](/news/2013/10/11/the-constitutional-council-of-france-upholds-a-ban-on-fracking.json)  [XML](/news/2013/10/11/the-constitutional-council-of-france-upholds-a-ban-on-fracking.xml)  
+
 ### [2013-10-11](/news/2013/10/11/index.md)
 
+##### Constitutional Council of France
 # The Constitutional Council of France upholds a ban on fracking. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/french-high-court-upholds-ban-fracking-20539479)
 

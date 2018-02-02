@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/13/sony-recalls-3-5-million-faulty-playstation-2-power-adapters.html)  [JSON](/news/2005/09/13/sony-recalls-3-5-million-faulty-playstation-2-power-adapters.json)  [XML](/news/2005/09/13/sony-recalls-3-5-million-faulty-playstation-2-power-adapters.xml)  
+
 ### [2005-09-13](/news/2005/09/13/index.md)
 
+##### Sony
 #  Sony recalls 3.5 million faulty PlayStation 2 power adapters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/4240558.stm)
 

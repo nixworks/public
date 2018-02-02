@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/23/9-iraqis-are-killed-in-bombings-including-two-leaders-of-u-s-government-backed-sunni-militants.html)  [JSON](/news/2010/06/23/9-iraqis-are-killed-in-bombings-including-two-leaders-of-u-s-government-backed-sunni-militants.json)  [XML](/news/2010/06/23/9-iraqis-are-killed-in-bombings-including-two-leaders-of-u-s-government-backed-sunni-militants.xml)  
+
 ### [2010-06-23](/news/2010/06/23/index.md)
 
+##### Iraq
 # 9 Iraqis are killed in bombings, including two leaders of U.S. government-backed Sunni militants. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TIME](http://www.time.com/time/world/article/0,8599,1998959,00.html)
 

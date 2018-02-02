@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/27/an-indian-army-soldier-kills-five-colleagues-and-himself-in-jammu-and-kashmir.html)  [JSON](/news/2014/02/27/an-indian-army-soldier-kills-five-colleagues-and-himself-in-jammu-and-kashmir.json)  [XML](/news/2014/02/27/an-indian-army-soldier-kills-five-colleagues-and-himself-in-jammu-and-kashmir.xml)  
+
 ### [2014-02-27](/news/2014/02/27/index.md)
 
+##### Indian Army
 # An Indian Army soldier kills five colleagues and himself in Jammu and Kashmir. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2014/02/27/world/asia/india-kashmir-soldier-killings/index.html?eref=edition)
 

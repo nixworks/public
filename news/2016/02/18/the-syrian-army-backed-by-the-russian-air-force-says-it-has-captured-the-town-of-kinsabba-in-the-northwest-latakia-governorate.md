@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/18/the-syrian-army-backed-by-the-russian-air-force
 
 ### [2016-02-18](/news/2016/02/18/index.md)
 
+##### Syrian Civil War
 # The Syrian Army, backed by the Russian Air Force, says it has captured the town of Kinsabba in the northwest Latakia Governorate. 
 
 The Syrian army backed by heavy Russian aerial bombing said on Thursday it had captured the town of Kansaba in the northern countryside of the coastal province of Latakia.

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/01/5/hitachi-breaks-the-1-terabyte-barrier-in-hard-disk-drive-capacity.html)  [JSON](/news/2007/01/5/hitachi-breaks-the-1-terabyte-barrier-in-hard-disk-drive-capacity.json)  [XML](/news/2007/01/5/hitachi-breaks-the-1-terabyte-barrier-in-hard-disk-drive-capacity.xml)  
+
 ### [2007-01-5](/news/2007/01/5/index.md)
 
+##### Hitachi
 #  Hitachi breaks the 1 terabyte barrier in hard disk drive capacity. 
 
 Colossal storage reaches new milestone with a drive that holds 1000 gigabytes.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601101&sid=aWQWy6X6YOMQ)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601101&sid=aWQWy6X6YOMQ)
 2. [PC World](http://www.pcworld.com/article/id,128400-page,1/article.html)
 2. [Cover Image](http://csmb.staticworld.net/images/furniture/pcworld/NoPrimaryImage.png)
 

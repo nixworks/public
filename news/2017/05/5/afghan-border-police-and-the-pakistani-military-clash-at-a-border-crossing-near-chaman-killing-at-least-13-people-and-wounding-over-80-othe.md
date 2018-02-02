@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/5/afghan-border-police-and-the-pakistani-military-
 
 ### [2017-05-5](/news/2017/05/5/index.md)
 
+##### police
 # Afghan border police and the Pakistani military clash at a border crossing near Chaman, killing at least 13 people and wounding over 80 others. Both sides blame each other for the flareup in fighting. 
 
 

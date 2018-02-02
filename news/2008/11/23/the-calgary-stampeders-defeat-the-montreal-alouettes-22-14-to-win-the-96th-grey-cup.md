@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2008/11/23/the-calgary-stampeders-defeat-the-montreal-alouettes-22-14-to-win-the-96th-grey-cup.html)  [JSON](/news/2008/11/23/the-calgary-stampeders-defeat-the-montreal-alouettes-22-14-to-win-the-96th-grey-cup.json)  [XML](/news/2008/11/23/the-calgary-stampeders-defeat-the-montreal-alouettes-22-14-to-win-the-96th-grey-cup.xml)  
+
 ### [2008-11-23](/news/2008/11/23/index.md)
 
+##### Calgary Stampeders
 #  The Calgary Stampeders defeat the Montreal Alouettes 22-14 to win the 96th Grey Cup. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [TSN](http://www.tsn.ca/cfl/story/?id=257111&lid=headline&lpos=topStory_cfl)
-1. [Cover Image](http://www.tsn.ca/img/tsn/logos/tsn-logo.png)
+1. [TSN](https://www.tsn.ca/cfl/story/?id=257111&lid=headline&lpos=topStory_cfl)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/23/soyuz-tma-17-carrying-an-international-crew-of-one-russian-one-american-and-one-japanese-astronaut-docks-with-the-international-space-st.html)  [JSON](/news/2009/12/23/soyuz-tma-17-carrying-an-international-crew-of-one-russian-one-american-and-one-japanese-astronaut-docks-with-the-international-space-st.json)  [XML](/news/2009/12/23/soyuz-tma-17-carrying-an-international-crew-of-one-russian-one-american-and-one-japanese-astronaut-docks-with-the-international-space-st.xml)  
+
 ### [2009-12-23](/news/2009/12/23/index.md)
 
+##### Soyuz TMA-17
 #  Soyuz TMA-17, carrying an international crew of one Russian, one American and one Japanese astronaut, docks with the International Space Station. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/8427575.stm)
 2. [RIA Novosti](http://en.rian.ru/science/20091223/157329535.html)

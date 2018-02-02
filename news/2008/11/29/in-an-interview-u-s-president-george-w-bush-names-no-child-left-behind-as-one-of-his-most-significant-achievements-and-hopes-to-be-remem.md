@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/29/in-an-interview-u-s-president-george-w-bush-names-no-child-left-behind-as-one-of-his-most-significant-achievements-and-hopes-to-be-remem.html)  [JSON](/news/2008/11/29/in-an-interview-u-s-president-george-w-bush-names-no-child-left-behind-as-one-of-his-most-significant-achievements-and-hopes-to-be-remem.json)  [XML](/news/2008/11/29/in-an-interview-u-s-president-george-w-bush-names-no-child-left-behind-as-one-of-his-most-significant-achievements-and-hopes-to-be-remem.xml)  
+
 ### [2008-11-29](/news/2008/11/29/index.md)
 
+##### U.S. President
 #  In an interview, U.S. President George W. Bush names No Child Left Behind as one of his most significant achievements and hopes to be remembered for the current situation in Iraq 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abcnews.go.com/Politics/Story?id=6353033&page=1)
 

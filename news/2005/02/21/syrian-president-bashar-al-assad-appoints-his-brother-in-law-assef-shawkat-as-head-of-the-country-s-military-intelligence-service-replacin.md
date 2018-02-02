@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/21/syrian-president-bashar-al-assad-appoints-his-brother-in-law-assef-shawkat-as-head-of-the-country-s-military-intelligence-service-replacin.html)  [JSON](/news/2005/02/21/syrian-president-bashar-al-assad-appoints-his-brother-in-law-assef-shawkat-as-head-of-the-country-s-military-intelligence-service-replacin.json)  [XML](/news/2005/02/21/syrian-president-bashar-al-assad-appoints-his-brother-in-law-assef-shawkat-as-head-of-the-country-s-military-intelligence-service-replacin.xml)  
+
 ### [2005-02-21](/news/2005/02/21/index.md)
 
+##### Syria
 #  Syrian President Bashar al-Assad appoints his brother-in-law Assef Shawkat as head of the country's military intelligence service, replacing Hassan Khalil.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4277595.stm)
 2. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L18679258.htm)

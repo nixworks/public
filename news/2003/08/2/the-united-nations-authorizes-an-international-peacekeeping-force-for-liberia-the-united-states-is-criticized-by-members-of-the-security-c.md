@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/2/the-united-nations-authorizes-an-international-peacekeeping-force-for-liberia-the-united-states-is-criticized-by-members-of-the-security-c.html)  [JSON](/news/2003/08/2/the-united-nations-authorizes-an-international-peacekeeping-force-for-liberia-the-united-states-is-criticized-by-members-of-the-security-c.json)  [XML](/news/2003/08/2/the-united-nations-authorizes-an-international-peacekeeping-force-for-liberia-the-united-states-is-criticized-by-members-of-the-security-c.xml)  
+
 ### [2003-08-2](/news/2003/08/2/index.md)
 
+##### United Nations
 #  The United Nations authorizes an international peacekeeping force for Liberia. The United States is criticized by members of the Security Council for insisting that UN peacekeepers serving in Liberia be granted immunity from war crimes prosecution. The U.S. demand is described by its critics as a breach of international law.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/30/the-bahraini-regime-makes-all-opposition-to-its-rule-illegal.html)  [JSON](/news/2012/10/30/the-bahraini-regime-makes-all-opposition-to-its-rule-illegal.json)  [XML](/news/2012/10/30/the-bahraini-regime-makes-all-opposition-to-its-rule-illegal.xml)  
+
 ### [2012-10-30](/news/2012/10/30/index.md)
 
+##### Bahrain
 # The Bahraini regime makes all opposition to its rule illegal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/10/2012103093735935103.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-20135218)

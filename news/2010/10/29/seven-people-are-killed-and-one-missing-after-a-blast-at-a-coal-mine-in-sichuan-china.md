@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/29/seven-people-are-killed-and-one-missing-after-a-blast-at-a-coal-mine-in-sichuan-china.html)  [JSON](/news/2010/10/29/seven-people-are-killed-and-one-missing-after-a-blast-at-a-coal-mine-in-sichuan-china.json)  [XML](/news/2010/10/29/seven-people-are-killed-and-one-missing-after-a-blast-at-a-coal-mine-in-sichuan-china.xml)  
+
 ### [2010-10-29](/news/2010/10/29/index.md)
 
+##### Sichuan
 # Seven people are killed and one missing after a blast at a coal mine in Sichuan, China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CRI](http://english.cri.cn/6909/2010/10/29/2681s601870.htm)
 2. [Trend News Agency](http://en.trend.az/regions/world/ocountries/1774341.html)

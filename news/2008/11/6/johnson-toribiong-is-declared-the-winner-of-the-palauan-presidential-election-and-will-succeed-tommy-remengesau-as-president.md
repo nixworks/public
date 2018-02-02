@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/6/johnson-toribiong-is-declared-the-winner-of-the-palauan-presidential-election-and-will-succeed-tommy-remengesau-as-president.html)  [JSON](/news/2008/11/6/johnson-toribiong-is-declared-the-winner-of-the-palauan-presidential-election-and-will-succeed-tommy-remengesau-as-president.json)  [XML](/news/2008/11/6/johnson-toribiong-is-declared-the-winner-of-the-palauan-presidential-election-and-will-succeed-tommy-remengesau-as-president.xml)  
+
 ### [2008-11-6](/news/2008/11/6/index.md)
 
+##### Johnson Toribiong
 #  Johnson Toribiong is declared the winner of the Palauan presidential election and will succeed Tommy Remengesau as President. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Pacific Magazine](http://www.pacificmagazine.net/news/2008/11/07/johnson-toribiong-wins-palau-presidential-race)
 

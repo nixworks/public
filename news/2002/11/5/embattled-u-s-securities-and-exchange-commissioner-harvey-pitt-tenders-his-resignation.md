@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/11/5/embattled-u-s-securities-and-exchange-commissioner-harvey-pitt-tenders-his-resignation.html)  [JSON](/news/2002/11/5/embattled-u-s-securities-and-exchange-commissioner-harvey-pitt-tenders-his-resignation.json)  [XML](/news/2002/11/5/embattled-u-s-securities-and-exchange-commissioner-harvey-pitt-tenders-his-resignation.xml)  
+
 ### [2002-11-5](/news/2002/11/5/index.md)
 
+##### Securities and Exchange Commission
 #  Embattled U.S. Securities and Exchange Commissioner Harvey Pitt tenders his resignation.
 
 

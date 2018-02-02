@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/10/residents-of-the-falkland-islands-begin-voting-in-a-two-day-sovereignty-referendum-on-whether-the-islands-should-remain-a-british-overseas-t.html)  [JSON](/news/2013/03/10/residents-of-the-falkland-islands-begin-voting-in-a-two-day-sovereignty-referendum-on-whether-the-islands-should-remain-a-british-overseas-t.json)  [XML](/news/2013/03/10/residents-of-the-falkland-islands-begin-voting-in-a-two-day-sovereignty-referendum-on-whether-the-islands-should-remain-a-british-overseas-t.xml)  
+
 ### [2013-03-10](/news/2013/03/10/index.md)
 
+##### Falkland Islands
 # Residents of the Falkland Islands begin voting in a two day sovereignty referendum on whether the islands should remain a British overseas territory. 
 
 The people of the Falkland Islands are voting in a referendum on whether to remain a British overseas territory, amid claims on the islands by Argentina.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21731760)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66304000/jpg/_66304014_posters.jpg)

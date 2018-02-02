@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/10/mary-barra-of-general-motors-becomes-the-first-female-ceo-of-an-automotive-company.html)  [JSON](/news/2013/12/10/mary-barra-of-general-motors-becomes-the-first-female-ceo-of-an-automotive-company.json)  [XML](/news/2013/12/10/mary-barra-of-general-motors-becomes-the-first-female-ceo-of-an-automotive-company.xml)  
+
 ### [2013-12-10](/news/2013/12/10/index.md)
 
+##### Mary Barra
 # Mary Barra of General Motors becomes the first female CEO of an automotive company. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Businessweek](http://www.businessweek.com/articles/2013-12-10/the-new-ceo-of-gm-is-mary-barra-following-dan-akerson-reitrement)
 

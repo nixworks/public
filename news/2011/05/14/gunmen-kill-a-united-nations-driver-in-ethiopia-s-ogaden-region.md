@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/05/14/gunmen-kill-a-united-nations-driver-in-ethiopia-s-ogaden-region.html)  [JSON](/news/2011/05/14/gunmen-kill-a-united-nations-driver-in-ethiopia-s-ogaden-region.json)  [XML](/news/2011/05/14/gunmen-kill-a-united-nations-driver-in-ethiopia-s-ogaden-region.xml)  
+
 ### [2011-05-14](/news/2011/05/14/index.md)
 
+##### United Nations
 # Gunmen kill a United Nations driver in Ethiopia's Ogaden region. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20110514/wl_nm/us_ethiopia_un_attack)
+1. [Reuters via Yahoo! News](https://news.yahoo.com/s/nm/20110514/wl_nm/us_ethiopia_un_attack)
 
 ### Related:
 

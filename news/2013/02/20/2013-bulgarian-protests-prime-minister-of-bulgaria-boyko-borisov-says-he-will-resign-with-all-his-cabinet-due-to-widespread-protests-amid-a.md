@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/20/2013-bulgarian-protests-prime-minister-of-bulgaria-boyko-borisov-says-he-will-resign-with-all-his-cabinet-due-to-widespread-protests-amid-a.html)  [JSON](/news/2013/02/20/2013-bulgarian-protests-prime-minister-of-bulgaria-boyko-borisov-says-he-will-resign-with-all-his-cabinet-due-to-widespread-protests-amid-a.json)  [XML](/news/2013/02/20/2013-bulgarian-protests-prime-minister-of-bulgaria-boyko-borisov-says-he-will-resign-with-all-his-cabinet-due-to-widespread-protests-amid-a.xml)  
+
 ### [2013-02-20](/news/2013/02/20/index.md)
 
+##### 2013 Bulgarian protests
 # 2013 Bulgarian protests: Prime Minister of Bulgaria Boyko Borisov says he will resign with all his cabinet due to widespread protests amid a financial crisis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21516658)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65971000/jpg/_65971246_65971245.jpg)

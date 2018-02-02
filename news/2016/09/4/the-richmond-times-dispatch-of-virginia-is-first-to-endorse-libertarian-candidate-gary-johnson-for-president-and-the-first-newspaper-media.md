@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/4/the-richmond-times-dispatch-of-virginia-is-first
 
 ### [2016-09-4](/news/2016/09/4/index.md)
 
+##### 2016 U.S. presidential election
 # The "Richmond Times-Dispatch" of Virginia is first to endorse Libertarian candidate Gary Johnson for president and the first newspaper media endorsement of a third-party nominee in this election cycle. 
 
 

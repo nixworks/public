@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/06/5/the-harehills-riots-takes-place-in-harehills-leeds-uk-after-a-questionable-arrest-of-an-asian-man-for-possession-of-an-illegal-car-tax-d.html)  [JSON](/news/2001/06/5/the-harehills-riots-takes-place-in-harehills-leeds-uk-after-a-questionable-arrest-of-an-asian-man-for-possession-of-an-illegal-car-tax-d.json)  [XML](/news/2001/06/5/the-harehills-riots-takes-place-in-harehills-leeds-uk-after-a-questionable-arrest-of-an-asian-man-for-possession-of-an-illegal-car-tax-d.xml)  
+
 ### [2001-06-5](/news/2001/06/5/index.md)
 
+##### Harehills riots
 #  The Harehills riots takes place in Harehills, Leeds, UK, after a questionable arrest of an Asian man for possession of an illegal car tax disc.
 
 

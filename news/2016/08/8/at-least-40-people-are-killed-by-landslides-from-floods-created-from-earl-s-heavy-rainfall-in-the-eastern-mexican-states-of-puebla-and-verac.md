@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/8/at-least-40-people-are-killed-by-landslides-from
 
 ### [2016-08-8](/news/2016/08/8/index.md)
 
+##### 2016 Atlantic hurricane season
 # At least 40 people are killed by landslides from floods created from Earl's heavy rainfall in the eastern Mexican states of Puebla and Veracruz. The tropical depression dissipated early today. 
 
 Hurricane Earl had been downgraded to a tropical storm by the time it hit southern Mexico, but heavy rains prompted mudslides that killed at least 39 people.

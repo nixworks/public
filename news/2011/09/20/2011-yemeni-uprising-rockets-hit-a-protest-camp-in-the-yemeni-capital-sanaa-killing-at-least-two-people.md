@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/20/2011-yemeni-uprising-rockets-hit-a-protest-camp-in-the-yemeni-capital-sanaa-killing-at-least-two-people.html)  [JSON](/news/2011/09/20/2011-yemeni-uprising-rockets-hit-a-protest-camp-in-the-yemeni-capital-sanaa-killing-at-least-two-people.json)  [XML](/news/2011/09/20/2011-yemeni-uprising-rockets-hit-a-protest-camp-in-the-yemeni-capital-sanaa-killing-at-least-two-people.xml)  
+
 ### [2011-09-20](/news/2011/09/20/index.md)
 
+##### 2011 Yemeni uprising
 # 2011 Yemeni uprising: Rockets hit a protest camp in the Yemeni capital, Sanaa, killing at least two people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE78H0Z220110920)
 

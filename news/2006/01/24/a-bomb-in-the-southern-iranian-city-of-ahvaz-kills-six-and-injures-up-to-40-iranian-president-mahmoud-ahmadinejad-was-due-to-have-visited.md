@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/24/a-bomb-in-the-southern-iranian-city-of-ahvaz-kills-six-and-injures-up-to-40-iranian-president-mahmoud-ahmadinejad-was-due-to-have-visited.html)  [JSON](/news/2006/01/24/a-bomb-in-the-southern-iranian-city-of-ahvaz-kills-six-and-injures-up-to-40-iranian-president-mahmoud-ahmadinejad-was-due-to-have-visited.json)  [XML](/news/2006/01/24/a-bomb-in-the-southern-iranian-city-of-ahvaz-kills-six-and-injures-up-to-40-iranian-president-mahmoud-ahmadinejad-was-due-to-have-visited.xml)  
+
 ### [2006-01-24](/news/2006/01/24/index.md)
 
+##### Ahvaz
 #  A bomb in the southern Iranian city of Ahvaz kills six and injures up to 40. Iranian President Mahmoud Ahmadinejad was due to have visited the city today, however the trip was called off at the last minute. Lebanon's al-Manar television said the president had called off his trip after a security tip-off. Local MP Nezam Molla-Hoveyzeh accused Britain of being behind the attack. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4642170.stm)
 2. [LKBN ANTARA](http://www.antara.co.id/en/seenws/?id=8411)

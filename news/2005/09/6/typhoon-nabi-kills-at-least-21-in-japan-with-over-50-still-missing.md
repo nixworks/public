@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/09/6/typhoon-nabi-kills-at-least-21-in-japan-with-over-50-still-missing.html)  [JSON](/news/2005/09/6/typhoon-nabi-kills-at-least-21-in-japan-with-over-50-still-missing.json)  [XML](/news/2005/09/6/typhoon-nabi-kills-at-least-21-in-japan-with-over-50-still-missing.xml)  
+
 ### [2005-09-6](/news/2005/09/6/index.md)
 
+##### Typhoon Nabi
 #  Typhoon Nabi kills at least 21 in Japan with over 50 still missing. 
 
 Typhoon Nabi lashed Japan and parts of South Korea, killing one person and injuring more than 40 others. Another 17 people were reported missing.
 
 
-### Source:
+### Sources:
 
-1. [AFP](http://news.yahoo.com/s/afp/20050906/wl_asia_afp/japanweathertyphoon)
+1. [AFP](https://news.yahoo.com/s/afp/20050906/wl_asia_afp/japanweathertyphoon)
 2. [CBC](http://www.cbc.ca/world/story/2005/09/06/typhoon_japan_20050906.html)
 2. [Cover Image](https://i.cbc.ca/1.2349438.1383461992!/httpImage/image.jpg_gen/derivatives/16x9_1180/japan-typhoon-cp-8370855.jpg)
 

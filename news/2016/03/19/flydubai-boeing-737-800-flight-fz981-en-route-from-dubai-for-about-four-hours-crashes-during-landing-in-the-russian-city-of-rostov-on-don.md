@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/19/flydubai-boeing-737-800-flight-fz981-en-route-f
 
 ### [2016-03-19](/news/2016/03/19/index.md)
 
+##### Flydubai Flight 981
 # Flydubai Boeing 737-800 Flight FZ981, en route from Dubai for about four hours, crashes during landing in the Russian city of Rostov-on-Don, killing all 62 on board. It appears the jet crashed in poor visibility, some 50-100 meters left of the runway, during the second approach. Rostov-on-Don Airport will remain closed until at least 9:00 am Moscow time. 
 
 Flydubai flight FZ981 has crashed in the southern Russian city of Rostov-on-Don killing all 62 passengers and crew on board. The flight was en route from Dubai and crashed during its second landing approach amid poor weather conditions.

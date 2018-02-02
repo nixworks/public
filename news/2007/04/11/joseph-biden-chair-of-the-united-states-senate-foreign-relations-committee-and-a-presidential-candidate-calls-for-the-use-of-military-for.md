@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/11/joseph-biden-chair-of-the-united-states-senate-foreign-relations-committee-and-a-presidential-candidate-calls-for-the-use-of-military-for.html)  [JSON](/news/2007/04/11/joseph-biden-chair-of-the-united-states-senate-foreign-relations-committee-and-a-presidential-candidate-calls-for-the-use-of-military-for.json)  [XML](/news/2007/04/11/joseph-biden-chair-of-the-united-states-senate-foreign-relations-committee-and-a-presidential-candidate-calls-for-the-use-of-military-for.xml)  
+
 ### [2007-04-11](/news/2007/04/11/index.md)
 
+##### Joseph Biden
 #  Joseph Biden, chair of the United States Senate Foreign Relations Committee and a presidential candidate, calls for the use of military force in Darfur. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/politics/4706020.html)
 

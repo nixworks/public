@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/10/16/a-united-nations-expert-panel-reports-that-although-the-two-governments-deny-it-rwanda-and-uganda-continue-to-support-the-march-23-movement.html)  [JSON](/news/2012/10/16/a-united-nations-expert-panel-reports-that-although-the-two-governments-deny-it-rwanda-and-uganda-continue-to-support-the-march-23-movement.json)  [XML](/news/2012/10/16/a-united-nations-expert-panel-reports-that-although-the-two-governments-deny-it-rwanda-and-uganda-continue-to-support-the-march-23-movement.xml)  
+
 ### [2012-10-16](/news/2012/10/16/index.md)
 
+##### United Nations
 # A United Nations expert panel reports that although the two governments deny it, Rwanda and Uganda continue to support the March 23 Movement. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/10/16/us-congo-democratic-rwanda-uganda-idUSBRE89F1CM20121016)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/10/16/us-congo-democratic-rwanda-uganda-idUSBRE89F1CM20121016)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

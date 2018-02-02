@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/24/final-results-in-the-nepal-constituent-assembly-election-show-that-the-communist-party-of-nepal-maoist-won-double-the-number-of-seats-of.html)  [JSON](/news/2008/04/24/final-results-in-the-nepal-constituent-assembly-election-show-that-the-communist-party-of-nepal-maoist-won-double-the-number-of-seats-of.json)  [XML](/news/2008/04/24/final-results-in-the-nepal-constituent-assembly-election-show-that-the-communist-party-of-nepal-maoist-won-double-the-number-of-seats-of.xml)  
+
 ### [2008-04-24](/news/2008/04/24/index.md)
 
+##### Nepal
 #  Final results in the Nepal Constituent Assembly election show that the Communist Party of Nepal (Maoist) won double the number of seats of the next largest party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5h1yYb6-4kcXky3nerzEnSWgPGKrQ)
 

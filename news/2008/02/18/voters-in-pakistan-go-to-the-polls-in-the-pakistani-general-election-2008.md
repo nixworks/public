@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/18/voters-in-pakistan-go-to-the-polls-in-the-pakistani-general-election-2008.html)  [JSON](/news/2008/02/18/voters-in-pakistan-go-to-the-polls-in-the-pakistani-general-election-2008.json)  [XML](/news/2008/02/18/voters-in-pakistan-go-to-the-polls-in-the-pakistani-general-election-2008.xml)  
+
 ### [2008-02-18](/news/2008/02/18/index.md)
 
+##### Pakistan
 #  Voters in Pakistan go to the polls in the Pakistani general election, 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Sydney Morning Herald](http://news.smh.com.au/voting-begins-in-pakistan-election/20080218-1sqo.html)
 2. [Geo Television Network](http://www.geo.tv/home/)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/25/thailand-s-supreme-court-issues-an-arrest-warra
 
 ### [2017-08-25](/news/2017/08/25/index.md)
 
+##### Trial of Yingluck Shinawatra
 # Thailand's Supreme Court issues an arrest warrant for former Prime Minister Yingluck Shinawatra, who didn't appear in court for the verdict in her negligence trial regarding a rice subsidy program for farmers. The court also issued a statement questioning her attorney's report that she is unwell and a potential flight risk, citing the lack of a physician's certificate. The reading of the verdict has been rescheduled to September 27. Sources within Shinawatra's party Pheu Thai Party have said that she has allegedly fled the country, though not saying where to, in response current prime minister Prayuth Chan-ocha has ordered the border checkpoints to be closely monitored to prevent Shinawatra leaving the country if she has not already. 
 
 Ousted Thai prime minister Yingluck Shinawatra has fled the country ahead of a verdict against her in a negligence trial brought by the junta that overthrew her, sources close to the Shinawatra family said on Friday.

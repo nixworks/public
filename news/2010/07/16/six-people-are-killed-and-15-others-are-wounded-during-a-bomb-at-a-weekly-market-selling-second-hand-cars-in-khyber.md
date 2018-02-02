@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/16/six-people-are-killed-and-15-others-are-wounded-during-a-bomb-at-a-weekly-market-selling-second-hand-cars-in-khyber.html)  [JSON](/news/2010/07/16/six-people-are-killed-and-15-others-are-wounded-during-a-bomb-at-a-weekly-market-selling-second-hand-cars-in-khyber.json)  [XML](/news/2010/07/16/six-people-are-killed-and-15-others-are-wounded-during-a-bomb-at-a-weekly-market-selling-second-hand-cars-in-khyber.xml)  
+
 ### [2010-07-16](/news/2010/07/16/index.md)
 
+##### Khyber Agency
 # Six people are killed and 15 others are wounded during a bomb at a weekly market selling second-hand cars in Khyber. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10658560)
 2. [News24.com](http://www.news24.com/World/News/Pakistan-market-bomb-kills-10-20100716)

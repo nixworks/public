@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/05/26/manchester-united-win-the-uefa-champions-league-at-the-nou-camp-stadium-barcelona-beating-bayern-munich-to-lift-their-third-major-trophy.html)  [JSON](/news/1999/05/26/manchester-united-win-the-uefa-champions-league-at-the-nou-camp-stadium-barcelona-beating-bayern-munich-to-lift-their-third-major-trophy.json)  [XML](/news/1999/05/26/manchester-united-win-the-uefa-champions-league-at-the-nou-camp-stadium-barcelona-beating-bayern-munich-to-lift-their-third-major-trophy.xml)  
+
 ### [1999-05-26](/news/1999/05/26/index.md)
 
+##### Manchester United
 #  Manchester United win the UEFA Champions League at the Nou Camp stadium, Barcelona, beating Bayern Munich to lift their third major trophy in their unprecedented Treble, after winning the English Premier League and FA Cup.
 
 

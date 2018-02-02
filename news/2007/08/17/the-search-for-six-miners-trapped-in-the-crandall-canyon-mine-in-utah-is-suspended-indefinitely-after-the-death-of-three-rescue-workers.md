@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/08/17/the-search-for-six-miners-trapped-in-the-crandall-canyon-mine-in-utah-is-suspended-indefinitely-after-the-death-of-three-rescue-workers.html)  [JSON](/news/2007/08/17/the-search-for-six-miners-trapped-in-the-crandall-canyon-mine-in-utah-is-suspended-indefinitely-after-the-death-of-three-rescue-workers.json)  [XML](/news/2007/08/17/the-search-for-six-miners-trapped-in-the-crandall-canyon-mine-in-utah-is-suspended-indefinitely-after-the-death-of-three-rescue-workers.xml)  
+
 ### [2007-08-17](/news/2007/08/17/index.md)
 
+##### Crandall Canyon mine
 #  The search for six miners trapped in the Crandall Canyon mine in Utah is suspended indefinitely after the death of three rescue workers. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Forbes](http://www.forbes.com/feeds/ap/2007/08/17/ap4031199.html)
+1. [AP via Forbes](https://www.forbes.com/feeds/ap/2007/08/17/ap4031199.html)
 
 ### Related:
 

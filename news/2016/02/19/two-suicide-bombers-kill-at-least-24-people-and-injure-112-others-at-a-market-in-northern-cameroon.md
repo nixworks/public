@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/19/two-suicide-bombers-kill-at-least-24-people-and
 
 ### [2016-02-19](/news/2016/02/19/index.md)
 
+##### Boko Haram insurgency
 # Two suicide bombers kill at least 24 people and injure 112 others at a market in northern Cameroon. 
 
 Two suicide bombers posing as food vendors killed at least 24 people and injured 112 others in a market in Meme, northern Cameroon, security sources said on Friday.

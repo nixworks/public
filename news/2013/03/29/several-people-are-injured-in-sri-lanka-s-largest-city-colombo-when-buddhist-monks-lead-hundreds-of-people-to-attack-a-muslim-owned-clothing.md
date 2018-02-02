@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/29/several-people-are-injured-in-sri-lanka-s-largest-city-colombo-when-buddhist-monks-lead-hundreds-of-people-to-attack-a-muslim-owned-clothing.html)  [JSON](/news/2013/03/29/several-people-are-injured-in-sri-lanka-s-largest-city-colombo-when-buddhist-monks-lead-hundreds-of-people-to-attack-a-muslim-owned-clothing.json)  [XML](/news/2013/03/29/several-people-are-injured-in-sri-lanka-s-largest-city-colombo-when-buddhist-monks-lead-hundreds-of-people-to-attack-a-muslim-owned-clothing.xml)  
+
 ### [2013-03-29](/news/2013/03/29/index.md)
 
+##### Sri Lanka
 # Several people are injured in Sri Lanka's largest city Colombo when Buddhist monks lead hundreds of people to attack a Muslim owned clothing warehouse. 
 
 Several people are injured in the Sri Lankan capital, Colombo, as Buddhist monks lead hundreds of people in an assault on a Muslim-owned clothing warehouse.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21973292)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66664000/jpg/_66664964_66664963.jpg)

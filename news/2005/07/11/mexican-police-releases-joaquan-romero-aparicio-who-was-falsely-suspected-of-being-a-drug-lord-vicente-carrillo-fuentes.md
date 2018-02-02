@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/11/mexican-police-releases-joaquan-romero-aparicio-who-was-falsely-suspected-of-being-a-drug-lord-vicente-carrillo-fuentes.html)  [JSON](/news/2005/07/11/mexican-police-releases-joaquan-romero-aparicio-who-was-falsely-suspected-of-being-a-drug-lord-vicente-carrillo-fuentes.json)  [XML](/news/2005/07/11/mexican-police-releases-joaquan-romero-aparicio-who-was-falsely-suspected-of-being-a-drug-lord-vicente-carrillo-fuentes.xml)  
+
 ### [2005-07-11](/news/2005/07/11/index.md)
 
+##### Vicente Carrillo Fuentes
 #  Mexican police releases Joaquin Romero Aparicio, who was falsely suspected of being a drug lord Vicente Carrillo Fuentes 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [El Universal](http://www2.eluniversal.com.mx/pls/impreso/noticia.html?id_nota=11176&tabla=miami)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=oddlyEnoughNews&storyID=2005-07-11T131501Z_01_N10409755_RTRIDST_0_ODD-CRIME-MEXICO-DC.XML)

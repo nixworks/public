@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/18/the-american-ballet-theatre-is-given-permission-by-its-country-s-president-barack-obama-to-perform-in-cuba-it-would-be-the-first-time-in.html)  [JSON](/news/2010/08/18/the-american-ballet-theatre-is-given-permission-by-its-country-s-president-barack-obama-to-perform-in-cuba-it-would-be-the-first-time-in.json)  [XML](/news/2010/08/18/the-american-ballet-theatre-is-given-permission-by-its-country-s-president-barack-obama-to-perform-in-cuba-it-would-be-the-first-time-in.xml)  
+
 ### [2010-08-18](/news/2010/08/18/index.md)
 
+##### American Ballet Theatre
 # The American Ballet Theatre is given permission by its country's President, Barack Obama, to perform in Cuba; it would be the first time in 50 years. American tourists are still banned by their government from travelling to Cuba. 
 
 The American Ballet Theatre company is to perform in Cuba later this year for the first time in 50 years.
 
 
-### Source:
+### Sources:
 
 1. [AFP via France24](http://www.france24.com/en/20100818-us-ballet-troupe-dance-cuba-first-time-50-years)
 2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11010321)

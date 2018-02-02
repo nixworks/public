@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/9/the-government-of-the-republic-of-china-more-commonly-known-as-taiwan-has-announced-the-name-change-of-a-number-of-state-owned-enterprise.html)  [JSON](/news/2007/02/9/the-government-of-the-republic-of-china-more-commonly-known-as-taiwan-has-announced-the-name-change-of-a-number-of-state-owned-enterprise.json)  [XML](/news/2007/02/9/the-government-of-the-republic-of-china-more-commonly-known-as-taiwan-has-announced-the-name-change-of-a-number-of-state-owned-enterprise.xml)  
+
 ### [2007-02-9](/news/2007/02/9/index.md)
 
+##### Taiwan
 #  The government of the Republic of China, more commonly known as Taiwan, has announced the name change of a number of state-owned enterprises, including Chunghwa Telecom, Chunghwa Post, China Shipbuilding Corporation and Chinese Petroleum Corporation to use the name Taiwan in their titles. 
 
 The Chunghwa Post Co. yesterday was renamed the Taiwan Post Co. although about 100 postal workers disrupted a meeting of its board in an attempt to block it from changing the state-run company’s name.
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/china/2007-02/10/content_806473.htm)
 2. [Radio Taiwan](http://english.rti.org.tw/Content/GetSingleNews.aspx?ContentID=31092)
@@ -15,6 +19,12 @@ The Chunghwa Post Co. yesterday was renamed the Taiwan Post Co. although about 1
 6. [U.S. State Department](http://www.state.gov/r/pa/prs/dpb/2007/80360.htm)
 6. [Cover Image](http://www.chinapost.com.tw)
 
+### Changes:
+
+1. [ Cross-Strait relations: The government of the Republic of China, more commonly known as Taiwan, has announced the name change of a number of state-owned enterprises, including Chunghwa Telecom, Chunghwa Post, China Shipbuilding Corporation and Chinese Petroleum Corporation to use the name Taiwan in their titles. ](/news/2007/02/9/cross-strait-relations-p-the-government-of-the-republic-of-china-more-commonly-known-as-taiwan-has-announced-the-name-change-of-a-number.md) _2017-08-25 03:19:08 (First version)_
+2. [ Cross-Strait relations:: The government of the Republic of China, more commonly known as Taiwan, has announced the name change of a number of state-owned enterprises, including Chunghwa Telecom, Chunghwa Post, China Shipbuilding Corporation and Chinese Petroleum Corporation to use the name Taiwan in their titles. ](/news/2007/02/9/cross-strait-relations-the-government-of-the-republic-of-china-more-commonly-known-as-taiwan-has-announced-the-name-change-of-a-number.md) _2017-08-27 03:19:04 (Update)_
+2. [ The government of the Republic of China, more commonly known as Taiwan, has announced the name change of a number of state-owned enterprises, including Chunghwa Telecom, Chunghwa Post, China Shipbuilding Corporation and Chinese Petroleum Corporation to use the name Taiwan in their titles. ](/news/2007/02/9/the-government-of-the-republic-of-china-more-commonly-known-as-taiwan-has-announced-the-name-change-of-a-number-of-state-owned-enterprise.md) _(Current version)_
+
 ### Related:
 
 1. [ The premier of the Republic of China (Taiwan), Liu Chao-shiuan, and his cabinet resign due to criticism and public anger over the slow handling of the disaster during Typhoon Morakot. ](/news/2009/09/7/the-premier-of-the-republic-of-china-taiwan-liu-chao-shiuan-and-his-cabinet-resign-due-to-criticism-and-public-anger-over-the-slow-hand.md) _Context: Taiwan, Taiwan_
@@ -22,9 +32,3 @@ The Chunghwa Post Co. yesterday was renamed the Taiwan Post Co. although about 1
 3. [ Four state-owned enterprises of the Republic of China (Taiwan)--Chunghwa Post, the Chinese Petroleum Corporation, the China Shipbuilding Corporation, and the Central Bank of China--change their names to remove "China" from their titles at the request of President Chen Shui-bian. The decision is condemned by the Pan-Blue Coalition, the United States and People's Republic of China as a move towards Taiwan independence. ](/news/2007/02/12/four-state-owned-enterprises-of-the-republic-of-china-taiwan-achunghwa-post-the-chinese-petroleum-corporation-the-china-shipbuilding-c.md) _Context: Taiwan, Taiwan_
 4. [ A motion to vote on a bill opening the Three Links between mainland China and Taiwan is defeated for the third time in the Legislative Yuan of the Republic of China when a Democratic Progressive Party lawmaker tries to eat the written cloture motion. The opposition Pan-Blue Coalition controls the legislature and would have likely passed the bill. ](/news/2006/05/30/a-motion-to-vote-on-a-bill-opening-the-three-links-between-mainland-china-and-taiwan-is-defeated-for-the-third-time-in-the-legislative-yuan.md) _Context: Taiwan, Taiwan_
 5. [ The President of the Republic of China (Taiwan) Chen Shui-bian will be accompanied by his foreign minister as well as Roman Catholic and Muslim religious figures for the trip to attend the funeral of Pope John Paul II. ](/news/2005/04/7/the-president-of-the-republic-of-china-taiwan-chen-shui-bian-will-be-accompanied-by-his-foreign-minister-as-well-as-roman-catholic-and-mu.md) _Context: Taiwan, Taiwan_
-
-### Changes:
-
-1. [ Cross-Strait relations: The government of the Republic of China, more commonly known as Taiwan, has announced the name change of a number of state-owned enterprises, including Chunghwa Telecom, Chunghwa Post, China Shipbuilding Corporation and Chinese Petroleum Corporation to use the name Taiwan in their titles. ](/news/2007/02/9/cross-strait-relations-p-the-government-of-the-republic-of-china-more-commonly-known-as-taiwan-has-announced-the-name-change-of-a-number.md) _2017-08-25 03:19:08 (First version)_
-2. [ Cross-Strait relations:: The government of the Republic of China, more commonly known as Taiwan, has announced the name change of a number of state-owned enterprises, including Chunghwa Telecom, Chunghwa Post, China Shipbuilding Corporation and Chinese Petroleum Corporation to use the name Taiwan in their titles. ](/news/2007/02/9/cross-strait-relations-the-government-of-the-republic-of-china-more-commonly-known-as-taiwan-has-announced-the-name-change-of-a-number.md) _2017-08-27 03:19:04 (Update)_
-2. [ The government of the Republic of China, more commonly known as Taiwan, has announced the name change of a number of state-owned enterprises, including Chunghwa Telecom, Chunghwa Post, China Shipbuilding Corporation and Chinese Petroleum Corporation to use the name Taiwan in their titles. ](/news/2007/02/9/the-government-of-the-republic-of-china-more-commonly-known-as-taiwan-has-announced-the-name-change-of-a-number-of-state-owned-enterprise.md) _(Current version)_

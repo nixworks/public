@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/26/death-toll-from-marburg-virus-epidemic-in-angola-rises-to-120-first-case-of-the-ebola-like-virus-is-reported-outside-uige-province-and-the.html)  [JSON](/news/2005/03/26/death-toll-from-marburg-virus-epidemic-in-angola-rises-to-120-first-case-of-the-ebola-like-virus-is-reported-outside-uige-province-and-the.json)  [XML](/news/2005/03/26/death-toll-from-marburg-virus-epidemic-in-angola-rises-to-120-first-case-of-the-ebola-like-virus-is-reported-outside-uige-province-and-the.xml)  
+
 ### [2005-03-26](/news/2005/03/26/index.md)
 
+##### Marburg virus
 #  Death toll from Marburg virus epidemic in Angola rises to 120; first case of the Ebola-like virus is reported outside Uige Province and the capital, Luanda. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC Australia](http://www.abc.net.au/news/newsitems/200503/s1332103.htm)
 2. [SBS](http://www9.sbs.com.au/theworldnews/region.php?id=108080&region=5)

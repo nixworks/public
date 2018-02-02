@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/2/power-broker-ichiro-ozawa-announces-that-he-is-leaving-the-ruling-democratic-party-of-japan-along-with-51-other-lawmakers-with-anticipation.html)  [JSON](/news/2012/07/2/power-broker-ichiro-ozawa-announces-that-he-is-leaving-the-ruling-democratic-party-of-japan-along-with-51-other-lawmakers-with-anticipation.json)  [XML](/news/2012/07/2/power-broker-ichiro-ozawa-announces-that-he-is-leaving-the-ruling-democratic-party-of-japan-along-with-51-other-lawmakers-with-anticipation.xml)  
+
 ### [2012-07-2](/news/2012/07/2/index.md)
 
+##### Power broker
 # Power broker Ichiro Ozawa announces that he is leaving the ruling Democratic Party of Japan along with 51 other lawmakers with anticipation that they will form a new party. 
 
 Ichiro Ozawa and his faction resign from the ruling Democratic Party of Japan, amid a bitter row over the sales tax rise.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18669381)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61294000/jpg/_61294686_79wsfbdf.jpg)

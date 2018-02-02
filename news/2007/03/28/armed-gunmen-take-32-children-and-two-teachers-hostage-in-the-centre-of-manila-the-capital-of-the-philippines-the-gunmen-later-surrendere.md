@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/28/armed-gunmen-take-32-children-and-two-teachers-hostage-in-the-centre-of-manila-the-capital-of-the-philippines-the-gunmen-later-surrendere.html)  [JSON](/news/2007/03/28/armed-gunmen-take-32-children-and-two-teachers-hostage-in-the-centre-of-manila-the-capital-of-the-philippines-the-gunmen-later-surrendere.json)  [XML](/news/2007/03/28/armed-gunmen-take-32-children-and-two-teachers-hostage-in-the-centre-of-manila-the-capital-of-the-philippines-the-gunmen-later-surrendere.xml)  
+
 ### [2007-03-28](/news/2007/03/28/index.md)
 
+##### teacher
 #  Armed gunmen take 32 children and two teachers hostage in the centre of Manila, the capital of the Philippines. The gunmen later surrendered and released the hostages. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Sydney Morning Herald](http://www.smh.com.au/news/world/hostage-taker-agrees-to-surrender/2007/03/28/1174761532412.html?s_cid=rss_smh)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6501695.stm)

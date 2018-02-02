@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/10/the-united-states-and-the-african-union-have-dropped-their-demands-that-last-week-s-coup-in-mauritania-be-reversed-the-us-is-working-with.html)  [JSON](/news/2005/08/10/the-united-states-and-the-african-union-have-dropped-their-demands-that-last-week-s-coup-in-mauritania-be-reversed-the-us-is-working-with.json)  [XML](/news/2005/08/10/the-united-states-and-the-african-union-have-dropped-their-demands-that-last-week-s-coup-in-mauritania-be-reversed-the-us-is-working-with.xml)  
+
 ### [2005-08-10](/news/2005/08/10/index.md)
 
+##### African Union
 #  The United States and the African Union have dropped their demands that last week's coup in Mauritania be reversed. The US is working with the military junta to ensure that multi-party elections are held as soon as possible 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4137434.stm)
 

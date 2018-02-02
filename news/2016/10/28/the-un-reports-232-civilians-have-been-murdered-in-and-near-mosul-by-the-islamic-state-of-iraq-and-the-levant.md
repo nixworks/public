@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/28/the-un-reports-232-civilians-have-been-murdered
 
 ### [2016-10-28](/news/2016/10/28/index.md)
 
+##### Iraqi Civil War (2014-present)
 #  The UN reports 232 civilians have been murdered in and near Mosul by the Islamic State of Iraq and the Levant. 
 
 The extremist group has forced almost 8,000 families to leave the homes, probably as a defensive tactic to defend the city of Mosul, according to the U.N.

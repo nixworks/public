@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/15/win-myat-aye-myanmar-s-minister-of-social-welfa
 
 ### [2018-01-15](/news/2018/01/15/index.md)
 
+##### Rohingya persecution in Myanmar
 # Win Myat Aye, Myanmar's minister of social welfare, relief and resettlement, announced that his country would begin repatriating Rohingya refugees in Bangladesh beginning on January 23, 2018. Burmese officials also promised that a newly built camp for repatriated refugees would also be finished by that date. 
 
 Bangladesh and Myanmar have agreed that they will try to complete the repatriation of hundreds of thousands of Rohingya Muslim refugees who fled from violence in Myanmar within two years, Bangladesh&rsquo;s Foreign Ministry said Tuesday.

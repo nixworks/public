@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/3/the-first-major-earth-directed-solar-eruption-in-a-decade-will-generate-aurorae-visible-in-non-polar-areas-from-early-august-4th-to-august-5.html)  [JSON](/news/2010/08/3/the-first-major-earth-directed-solar-eruption-in-a-decade-will-generate-aurorae-visible-in-non-polar-areas-from-early-august-4th-to-august-5.json)  [XML](/news/2010/08/3/the-first-major-earth-directed-solar-eruption-in-a-decade-will-generate-aurorae-visible-in-non-polar-areas-from-early-august-4th-to-august-5.xml)  
+
 ### [2010-08-3](/news/2010/08/3/index.md)
 
+##### Earth
 # The first major Earth-directed solar eruption in a decade will generate aurorae visible in non-polar areas from early August 4th to August 5th. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/US/08/03/northern.lights/?hpt=Mid#fbid=crHqzahSRoE)
 2. [Foxnews.com](http://www.foxnews.com/scitech/2010/08/03/spectacular-northern-lights-signals-sun-waking/)

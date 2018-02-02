@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/8/5-people-are-killed-and-11-others-are-injured-in-separate-attacks-in-diyala-and-nineveh.html)  [JSON](/news/2010/04/8/5-people-are-killed-and-11-others-are-injured-in-separate-attacks-in-diyala-and-nineveh.json)  [XML](/news/2010/04/8/5-people-are-killed-and-11-others-are-injured-in-separate-attacks-in-diyala-and-nineveh.xml)  
+
 ### [2010-04-8](/news/2010/04/8/index.md)
 
+##### Diyala Governorate
 # 5 people are killed and 11 others are injured in separate attacks in Diyala and Nineveh. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [People's Daily Online](http://english.people.com.cn/90001/90777/90854/6945515.html)
 

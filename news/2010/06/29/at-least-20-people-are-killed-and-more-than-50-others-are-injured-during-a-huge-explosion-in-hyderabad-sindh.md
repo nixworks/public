@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/29/at-least-20-people-are-killed-and-more-than-50-others-are-injured-during-a-huge-explosion-in-hyderabad-sindh.html)  [JSON](/news/2010/06/29/at-least-20-people-are-killed-and-more-than-50-others-are-injured-during-a-huge-explosion-in-hyderabad-sindh.json)  [XML](/news/2010/06/29/at-least-20-people-are-killed-and-more-than-50-others-are-injured-during-a-huge-explosion-in-hyderabad-sindh.xml)  
+
 ### [2010-06-29](/news/2010/06/29/index.md)
 
+##### Hyderabad
 # At least 20 people are killed and more than 50 others are injured during a huge explosion in Hyderabad, Sindh. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The News International](http://www.thenews.com.pk/top_story_detail.asp?Id=29731)
 

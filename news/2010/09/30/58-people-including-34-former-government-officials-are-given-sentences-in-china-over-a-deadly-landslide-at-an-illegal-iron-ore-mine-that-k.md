@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/30/58-people-including-34-former-government-officials-are-given-sentences-in-china-over-a-deadly-landslide-at-an-illegal-iron-ore-mine-that-k.html)  [JSON](/news/2010/09/30/58-people-including-34-former-government-officials-are-given-sentences-in-china-over-a-deadly-landslide-at-an-illegal-iron-ore-mine-that-k.json)  [XML](/news/2010/09/30/58-people-including-34-former-government-officials-are-given-sentences-in-china-over-a-deadly-landslide-at-an-illegal-iron-ore-mine-that-k.xml)  
+
 ### [2010-09-30](/news/2010/09/30/index.md)
 
+##### China
 # 58 people, including 34 former government officials, are given sentences in China over a deadly landslide at an illegal iron ore mine that killed 277 people in 2008. 
 
 Beijing, Sep 30 (IANS) Fifteen courts in China Thursday handed down sentences to 58 people after they were held responsible for a landslide at an illegal...
 
 
-### Source:
+### Sources:
 
 1. [China Radio International](http://english.cri.cn/6909/2010/09/30/53s597187.htm)
 2. [Sify India](http://sify.com/news/china-sentences-58-in-mine-landslide-case-news-international-kj4v4medgai.html)

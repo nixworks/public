@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/6/egyptian-police-increases-security-around-coptic-churches-on-the-eve-of-coptic-christmas-following-a-bombing-in-alexandria-on-new-year-s-da.html)  [JSON](/news/2011/01/6/egyptian-police-increases-security-around-coptic-churches-on-the-eve-of-coptic-christmas-following-a-bombing-in-alexandria-on-new-year-s-da.json)  [XML](/news/2011/01/6/egyptian-police-increases-security-around-coptic-churches-on-the-eve-of-coptic-christmas-following-a-bombing-in-alexandria-on-new-year-s-da.xml)  
+
 ### [2011-01-6](/news/2011/01/6/index.md)
 
+##### Egypt
 # Egyptian police increases security around Coptic churches on the eve of Coptic Christmas, following a bombing in Alexandria on New Year's Day that killed 23 people and sparked protests and riots across the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iKCKJTCxRvpD06Q_qf022JiDLtlg?docId=CNG.5ef495a04e9f24705338c4bd6be74062.1f1)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12125143)

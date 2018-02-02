@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/17/nearly-1-400-members-of-the-ruling-communist-party-of-vietnam-gathers-to-vote-for-new-leaders.html)  [JSON](/news/2011/01/17/nearly-1-400-members-of-the-ruling-communist-party-of-vietnam-gathers-to-vote-for-new-leaders.json)  [XML](/news/2011/01/17/nearly-1-400-members-of-the-ruling-communist-party-of-vietnam-gathers-to-vote-for-new-leaders.xml)  
+
 ### [2011-01-17](/news/2011/01/17/index.md)
 
+##### Communist Party
 # Nearly 1,400 members of the ruling Communist Party of Vietnam gathers to vote for new leaders. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h-TtiezWwU-DZzHaXfvf7MipoOPQ?docId=CNG.e240cfb3386ed1df294d36a84de9eef0.181)
 2. [Saigon Daily](http://www.saigon-gpdaily.com.vn/National/Politics/2011/1/88947/)

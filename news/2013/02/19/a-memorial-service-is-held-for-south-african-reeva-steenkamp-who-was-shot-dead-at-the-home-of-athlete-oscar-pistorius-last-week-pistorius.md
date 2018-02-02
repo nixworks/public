@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/19/a-memorial-service-is-held-for-south-african-reeva-steenkamp-who-was-shot-dead-at-the-home-of-athlete-oscar-pistorius-last-week-pistorius.html)  [JSON](/news/2013/02/19/a-memorial-service-is-held-for-south-african-reeva-steenkamp-who-was-shot-dead-at-the-home-of-athlete-oscar-pistorius-last-week-pistorius.json)  [XML](/news/2013/02/19/a-memorial-service-is-held-for-south-african-reeva-steenkamp-who-was-shot-dead-at-the-home-of-athlete-oscar-pistorius-last-week-pistorius.xml)  
+
 ### [2013-02-19](/news/2013/02/19/index.md)
 
+##### South Africa
 # A memorial service is held for South African Reeva Steenkamp, who was shot dead at the home of athlete Oscar Pistorius last week. Pistorius faced murder hearings. 
 
 Adam Steenkamp, the brother of Reeva Steenkamp, says her family wants to remember his sister and &quot;all the goodness that she stood for&quot;, as her memorial service takes place on Tuesday. Athlete Oscar Pistorius denies a charge of pre-meditated murder.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21501839)
 2. [The Guardian](http://www.guardian.co.uk/world/2013/feb/19/oscar-pistorius-weeps-riveting-testimony)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/10/rose-francine-rogombe-is-sworn-in-as-acting-head-of-state-in-gabon-following-the-death-of-omar-bongo-ondimba.html)  [JSON](/news/2009/06/10/rose-francine-rogombe-is-sworn-in-as-acting-head-of-state-in-gabon-following-the-death-of-omar-bongo-ondimba.json)  [XML](/news/2009/06/10/rose-francine-rogombe-is-sworn-in-as-acting-head-of-state-in-gabon-following-the-death-of-omar-bongo-ondimba.xml)  
+
 ### [2009-06-10](/news/2009/06/10/index.md)
 
+##### Rose Francine Rogomb
 #  Rose Francine Rogomb is sworn in as acting head of state in Gabon, following the death of Omar Bongo Ondimba. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iibkNHqKk__4qRrB8morUV8U5Cew)
 

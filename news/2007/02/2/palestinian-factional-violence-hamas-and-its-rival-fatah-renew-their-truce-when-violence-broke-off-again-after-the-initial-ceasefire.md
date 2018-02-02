@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/2/palestinian-factional-violence-hamas-and-its-rival-fatah-renew-their-truce-when-violence-broke-off-again-after-the-initial-ceasefire.html)  [JSON](/news/2007/02/2/palestinian-factional-violence-hamas-and-its-rival-fatah-renew-their-truce-when-violence-broke-off-again-after-the-initial-ceasefire.json)  [XML](/news/2007/02/2/palestinian-factional-violence-hamas-and-its-rival-fatah-renew-their-truce-when-violence-broke-off-again-after-the-initial-ceasefire.xml)  
+
 ### [2007-02-2](/news/2007/02/2/index.md)
 
+##### clashes
 #  Palestinian factional violence: Hamas and its rival Fatah renew their truce when violence broke off again after the initial ceasefire. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6326265.stm)
 2. [CNN](http://www.cnn.com/2007/WORLD/meast/02/02/israel.palestinians.ap/index.html)

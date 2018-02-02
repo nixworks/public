@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/2/ciudad-jua-rez-based-newspaper-norte-closes-its-
 
 ### [2017-04-2](/news/2017/04/2/index.md)
 
+##### Ciudad Juarez
 # Ciudad Juarez-based newspaper "Norte" closes its print edition, citing a lack of security in Mexico. 
 
 Norte editor tells readers the paper is closing because the safety of reporters cannot be guaranteed

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/2/nine-families-who-have-been-living-in-east-jerusalem-since-1956-are-evicted-by-force-previous-reports-of-two-families-are-wrong.html)  [JSON](/news/2009/08/2/nine-families-who-have-been-living-in-east-jerusalem-since-1956-are-evicted-by-force-previous-reports-of-two-families-are-wrong.json)  [XML](/news/2009/08/2/nine-families-who-have-been-living-in-east-jerusalem-since-1956-are-evicted-by-force-previous-reports-of-two-families-are-wrong.xml)  
+
 ### [2009-08-2](/news/2009/08/2/index.md)
 
+##### East Jerusalem
 #  Nine families who have been living in East Jerusalem since 1956 are evicted by force. (Previous reports of 'two families' are wrong.) 
 
 Two families are forcibly expelled from their homes in East Jerusalem.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hce1b3lWDANrCmFY5sLsCEWLGOCA)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/08/2009825148146153.html)
@@ -14,8 +18,8 @@ Two families are forcibly expelled from their homes in East Jerusalem.
 
 ### Related:
 
-1. [Israeli Prime Minister Benjamin Netanyahu blames the Islamic State for the attack that killed four soldiers and injured 15 others in East Jerusalem. ](/news/2017/01/9/israeli-prime-minister-benjamin-netanyahu-blames-the-islamic-state-for-the-attack-that-killed-four-soldiers-and-injured-15-others-in-east-je.md) _Context: East Jerusalem_
-2. [A truck rams into a group of Israeli soldiers in a deliberate attack in East Jerusalem, killing four and wounding 21. The perpetrator was previously convicted of terrorism and was jailed for 10 years. ](/news/2017/01/8/a-truck-rams-into-a-group-of-israeli-soldiers-in-a-deliberate-attack-in-east-jerusalem-killing-four-and-wounding-21-the-perpetrator-was-pr.md) _Context: East Jerusalem_
-3. [Following the inauguration of Donald Trump as President of the United States, Israel approves the construction of 566 new settlement homes in East Jerusalem. ](/news/2017/01/22/following-the-inauguration-of-donald-trump-as-president-of-the-united-states-israel-approves-the-construction-of-566-new-settlement-homes-i.md) _Context: East Jerusalem_
-4. [UNESCO's executive board approves the "Occupied Palestine" resolution which reaffirms the cultural heritage of Palestine, especially East Jerusalem, and criticizes certain Israeli actions regarding the Palestinian territories. For the land in Jerusalem where the Al-Aqsa Mosque stands, the board uses only Islamic naming terms without also mentioning Jewish or Christian historical references. ](/news/2016/10/18/unesco-s-executive-board-approves-the-occupied-palestine-resolution-which-reaffirms-the-cultural-heritage-of-palestine-especially-east-je.md) _Context: East Jerusalem_
-5. [Israel announces plans for construction of a three-story residential building for Jewish settlers in a Palestinian neighborhood of East Jerusalem. ](/news/2016/06/15/israel-announces-plans-for-construction-of-a-three-story-residential-building-for-jewish-settlers-in-a-palestinian-neighborhood-of-east-jeru.md) _Context: East Jerusalem_
+1. [After a meeting with the President of the State of Palestine Mahmoud Abbas, High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini again assures President Abbas that the European Union supports his ambition to have East Jerusalem as capital of a Palestinian state. ](/news/2018/01/22/after-a-meeting-with-the-president-of-the-state-of-palestine-mahmoud-abbas-high-representative-of-the-union-for-foreign-affairs-and-securit.md) _Context: East Jerusalem_
+2. [Israel's Transportation Minister Yisrael Katz says that the new underground railroad terminal in the Jewish Quarter in the Old City of Jerusalem (part of East Jerusalem) will be named in honor of U.S. President Donald Trump. ](/news/2017/12/27/israel-s-transportation-minister-yisrael-katz-says-that-the-new-underground-railroad-terminal-in-the-jewish-quarter-in-the-old-city-of-jerus.md) _Context: East Jerusalem_
+3. [Two Palestinians are shot dead and about 60 others are wounded by Israeli troops gunfire as thousands protest along the Gaza border fence, in all seven West Bank cities and in East Jerusalem, against the U.S. declaration. ](/news/2017/12/22/two-palestinians-are-shot-dead-and-about-60-others-are-wounded-by-israeli-troops-gunfire-as-thousands-protest-along-the-gaza-border-fence-i.md) _Context: East Jerusalem_
+4. [Recep Tayyip Erdogan, the President of Turkey says "the day is close when officially, with God's permission" his nation will open an embassy to Palestine in East Jerusalem. ](/news/2017/12/17/recep-tayyip-erdoaan-the-president-of-turkey-says-the-day-is-close-when-officially-with-god-s-permission-his-nation-will-open-an-embass.md) _Context: East Jerusalem_
+5. [Israeli Prime Minister Benjamin Netanyahu blames the Islamic State for the attack that killed four soldiers and injured 15 others in East Jerusalem. ](/news/2017/01/9/israeli-prime-minister-benjamin-netanyahu-blames-the-islamic-state-for-the-attack-that-killed-four-soldiers-and-injured-15-others-in-east-je.md) _Context: East Jerusalem_

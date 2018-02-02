@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/8/roger-federer-defeats-andy-murray-to-win-the-u-s-tennis-open-for-a-record-breaking-fifth-consecutive-time.html)  [JSON](/news/2008/09/8/roger-federer-defeats-andy-murray-to-win-the-u-s-tennis-open-for-a-record-breaking-fifth-consecutive-time.json)  [XML](/news/2008/09/8/roger-federer-defeats-andy-murray-to-win-the-u-s-tennis-open-for-a-record-breaking-fifth-consecutive-time.xml)  
+
 ### [2008-09-8](/news/2008/09/8/index.md)
 
+##### Roger Federer
 #  Roger Federer defeats Andy Murray to win the U.S. Tennis Open for a record-breaking fifth consecutive time. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox Sports](http://msn.foxsports.com/tennis/story/8539492)
 

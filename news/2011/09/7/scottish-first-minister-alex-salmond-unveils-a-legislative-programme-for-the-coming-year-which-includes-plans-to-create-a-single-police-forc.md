@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/7/scottish-first-minister-alex-salmond-unveils-a-legislative-programme-for-the-coming-year-which-includes-plans-to-create-a-single-police-forc.html)  [JSON](/news/2011/09/7/scottish-first-minister-alex-salmond-unveils-a-legislative-programme-for-the-coming-year-which-includes-plans-to-create-a-single-police-forc.json)  [XML](/news/2011/09/7/scottish-first-minister-alex-salmond-unveils-a-legislative-programme-for-the-coming-year-which-includes-plans-to-create-a-single-police-forc.xml)  
+
 ### [2011-09-7](/news/2011/09/7/index.md)
 
+##### First Minister
 # Scottish First Minister Alex Salmond unveils a legislative programme for the coming year which includes plans to create a single police force and a single fire service for Scotland. 
 
 Legislation to create a single police force and single fire service in Scotland is among 15 new bills to be introduced at Holyrood.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-14804184)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/55219000/jpg/_55219658_012834369-1.jpg)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/05/3/darfur-rebel-group-the-justice-and-equality-movement-breaks-off-peace-talks-with-the-sudanese-government-accusing-it-of-a-renewing-the-co.html)  [JSON](/news/2010/05/3/darfur-rebel-group-the-justice-and-equality-movement-breaks-off-peace-talks-with-the-sudanese-government-accusing-it-of-a-renewing-the-co.json)  [XML](/news/2010/05/3/darfur-rebel-group-the-justice-and-equality-movement-breaks-off-peace-talks-with-the-sudanese-government-accusing-it-of-a-renewing-the-co.xml)  
+
 ### [2010-05-3](/news/2010/05/3/index.md)
 
+##### Darfur
 # Darfur rebel group, the Justice and Equality Movement, breaks off peace talks with the Sudanese government, accusing it of a renewing the conflict with a military offensive that has included airstrikes and ground attacks over the past week. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/05/03/AR2010050300594.html)
-2. [USA Today](http://www.usatoday.com/news/world/2010-05-03-Darfur-peace_N.htm)
+1. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/05/03/AR2010050300594.html)
+2. [USA Today](https://www.usatoday.com/news/world/2010-05-03-Darfur-peace_N.htm)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/18/senator-patrick-leahy-of-vermont-is-sworn-in-as-the-president-pro-tempore-of-the-united-states-senate-making-him-third-in-the-united-states.html)  [JSON](/news/2012/12/18/senator-patrick-leahy-of-vermont-is-sworn-in-as-the-president-pro-tempore-of-the-united-states-senate-making-him-third-in-the-united-states.json)  [XML](/news/2012/12/18/senator-patrick-leahy-of-vermont-is-sworn-in-as-the-president-pro-tempore-of-the-united-states-senate-making-him-third-in-the-united-states.xml)  
+
 ### [2012-12-18](/news/2012/12/18/index.md)
 
+##### United States Senate
 # Senator Patrick Leahy of Vermont is sworn in as the President pro tempore of the United States Senate, making him third in the United States presidential line of succession. 
 
 Sen. Patrick Leahy was officially sworn in as the third-in-line for the presidency, following the death of Sen. Inouye. 
 
 
-### Source:
+### Sources:
 
 1. [The Hill](http://thehill.com/video/senate/273461-biden-swears-in-leahy-as-third-in-line-for-the-presidency)
 1. [Cover Image](http://thehill.com/sites/default/files/LehaeySwearingin-MovieThumbnail.jpg)

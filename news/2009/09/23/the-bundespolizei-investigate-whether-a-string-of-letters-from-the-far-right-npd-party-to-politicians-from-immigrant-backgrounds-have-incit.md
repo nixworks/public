@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/23/the-bundespolizei-investigate-whether-a-string-of-letters-from-the-far-right-npd-party-to-politicians-from-immigrant-backgrounds-have-incit.html)  [JSON](/news/2009/09/23/the-bundespolizei-investigate-whether-a-string-of-letters-from-the-far-right-npd-party-to-politicians-from-immigrant-backgrounds-have-incit.json)  [XML](/news/2009/09/23/the-bundespolizei-investigate-whether-a-string-of-letters-from-the-far-right-npd-party-to-politicians-from-immigrant-backgrounds-have-incit.xml)  
+
 ### [2009-09-23](/news/2009/09/23/index.md)
 
+##### German police
 #  The Bundespolizei investigate whether a string of letters from the far-right NPD party to politicians from immigrant backgrounds have incited racial hatred. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8270598.stm)
 2. [Deusche Welle](http://www.dw-world.de/dw/article/0,,4713188,00.html?maca=en-currentaffairs_germany-77-rdf)

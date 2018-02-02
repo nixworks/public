@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/11/stephen-smith-the-australian-minister-for-defence-orders-an-investigation-into-the-way-women-are-treated-at-the-australian-defence-force-a.html)  [JSON](/news/2011/04/11/stephen-smith-the-australian-minister-for-defence-orders-an-investigation-into-the-way-women-are-treated-at-the-australian-defence-force-a.json)  [XML](/news/2011/04/11/stephen-smith-the-australian-minister-for-defence-orders-an-investigation-into-the-way-women-are-treated-at-the-australian-defence-force-a.xml)  
+
 ### [2011-04-11](/news/2011/04/11/index.md)
 
+##### Stephen Smith
 # Stephen Smith, the Australian Minister for Defence, orders an investigation into the way women are treated at the Australian Defence Force Academy following recent sexual abuse allegations. 
 
 The Sex Discrimination Commissioner will hold a wide-ranging inquiry into the way women are treated at the Defence Force Academy.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/04/11/3188096.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/2619366-1x1-700x700.jpg)

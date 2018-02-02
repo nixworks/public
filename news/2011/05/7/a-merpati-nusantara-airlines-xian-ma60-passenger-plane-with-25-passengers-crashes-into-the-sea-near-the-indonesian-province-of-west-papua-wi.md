@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/05/7/a-merpati-nusantara-airlines-xian-ma60-passenger-plane-with-25-passengers-crashes-into-the-sea-near-the-indonesian-province-of-west-papua-wi.html)  [JSON](/news/2011/05/7/a-merpati-nusantara-airlines-xian-ma60-passenger-plane-with-25-passengers-crashes-into-the-sea-near-the-indonesian-province-of-west-papua-wi.json)  [XML](/news/2011/05/7/a-merpati-nusantara-airlines-xian-ma60-passenger-plane-with-25-passengers-crashes-into-the-sea-near-the-indonesian-province-of-west-papua-wi.xml)  
+
 ### [2011-05-7](/news/2011/05/7/index.md)
 
+##### Merpati Nusantara Airlines
 # A Merpati Nusantara Airlines Xian MA60 passenger plane with 25 passengers crashes into the sea near the Indonesian province of West Papua with no survivors. 
 
 There were no survivors from the crash of an Indonesian passenger aircraft into the sea with up to 27 people on board, a navy officer says.
 
 
-### Source:
+### Sources:
 
 1. [AFP via''Calgary Herald](http://www.calgaryherald.com/news/survivors+Indonesia+plane+crash+navy+officer/4744264/story.html)
-2. [AP via Yahoo News](http://news.yahoo.com/s/ap/20110507/ap_on_re_as/as_indonesia_plane_crash_1)
+2. [AP via Yahoo News](https://news.yahoo.com/s/ap/20110507/ap_on_re_as/as_indonesia_plane_crash_1)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13320313)
 3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52596000/jpg/_52596053_crash_site.jpg)
 

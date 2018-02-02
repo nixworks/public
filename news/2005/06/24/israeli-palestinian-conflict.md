@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/06/24/israeli-palestinian-conflict.html)  [JSON](/news/2005/06/24/israeli-palestinian-conflict.json)  [XML](/news/2005/06/24/israeli-palestinian-conflict.xml)  
+
 ### [2005-06-24](/news/2005/06/24/index.md)
 
+##### Israeli-Palestinian conflict
 #  Israeli-Palestinian conflict:
 
 

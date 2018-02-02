@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/22/the-hugo-award-committee-announces-their-choices-for-the-2015-winners-in-spokane-u-s.html)  [JSON](/news/2015/08/22/the-hugo-award-committee-announces-their-choices-for-the-2015-winners-in-spokane-u-s.json)  [XML](/news/2015/08/22/the-hugo-award-committee-announces-their-choices-for-the-2015-winners-in-spokane-u-s.xml)  
+
 ### [2015-08-22](/news/2015/08/22/index.md)
 
+##### Hugo Award
 # The Hugo Award committee announces their choices for the 2015 winners in Spokane, U.S. 
 
 The 73rd World Science Fiction Convention, Sasquan, has announced the 2015 Hugo Award winners. 5950 valid ballots were received and counted in the final ballot. The members of the World Science Fic…
 
 
-### Source:
+### Sources:
 
 1. [The Hugo Awards](http://www.thehugoawards.org/2015/08/2014-hugo-award-winners-announced/)
 1. [Cover Image](https://s0.wp.com/i/blank.jpg)

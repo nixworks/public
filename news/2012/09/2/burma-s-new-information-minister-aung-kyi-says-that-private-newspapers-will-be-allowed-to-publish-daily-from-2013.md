@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/2/burma-s-new-information-minister-aung-kyi-says-that-private-newspapers-will-be-allowed-to-publish-daily-from-2013.html)  [JSON](/news/2012/09/2/burma-s-new-information-minister-aung-kyi-says-that-private-newspapers-will-be-allowed-to-publish-daily-from-2013.json)  [XML](/news/2012/09/2/burma-s-new-information-minister-aung-kyi-says-that-private-newspapers-will-be-allowed-to-publish-daily-from-2013.xml)  
+
 ### [2012-09-2](/news/2012/09/2/index.md)
 
+##### Burma
 # Burma's new information minister Aung Kyi says that private newspapers will be allowed to publish daily from 2013. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/asia/310465/myanmar-to-allow-daily-newspapers-next-year)
 

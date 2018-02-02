@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/2/police-in-tupelo-mississippi-us-arrest-thomas-jesse-lee-for-killing-his-wife-and-four-other-members-of-his-family-in-lagrange-georgia.html)  [JSON](/news/2015/02/2/police-in-tupelo-mississippi-us-arrest-thomas-jesse-lee-for-killing-his-wife-and-four-other-members-of-his-family-in-lagrange-georgia.json)  [XML](/news/2015/02/2/police-in-tupelo-mississippi-us-arrest-thomas-jesse-lee-for-killing-his-wife-and-four-other-members-of-his-family-in-lagrange-georgia.xml)  
+
 ### [2015-02-2](/news/2015/02/2/index.md)
 
+##### Tupelo, Mississippi
 # Police in Tupelo, Mississippi, US arrest Thomas Jesse Lee for killing his wife and four other members of his family in LaGrange, Georgia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/us/2015/02/02/nationwide-hunt-for-georgia-man-accused-murdering-five-people/)
 

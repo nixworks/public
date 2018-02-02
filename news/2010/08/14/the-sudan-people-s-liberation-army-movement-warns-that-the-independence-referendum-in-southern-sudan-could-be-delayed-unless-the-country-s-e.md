@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/14/the-sudan-people-s-liberation-army-movement-warns-that-the-independence-referendum-in-southern-sudan-could-be-delayed-unless-the-country-s-e.html)  [JSON](/news/2010/08/14/the-sudan-people-s-liberation-army-movement-warns-that-the-independence-referendum-in-southern-sudan-could-be-delayed-unless-the-country-s-e.json)  [XML](/news/2010/08/14/the-sudan-people-s-liberation-army-movement-warns-that-the-independence-referendum-in-southern-sudan-could-be-delayed-unless-the-country-s-e.xml)  
+
 ### [2010-08-14](/news/2010/08/14/index.md)
 
+##### Sudan People's Liberation Army/Movement
 # The Sudan People's Liberation Army-Movement warns that the independence referendum in Southern Sudan could be delayed unless the country's electoral commission resolves an internal dispute. 
 
 South Sudan party says disputes in electoral body jeopardises independence referendum.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/08/201081454738520280.html)
 1. [Cover Image](http://www.aljazeera.com)

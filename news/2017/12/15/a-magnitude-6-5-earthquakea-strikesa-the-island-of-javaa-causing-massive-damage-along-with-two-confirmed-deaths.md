@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/15/a-magnitude-6-5-earthquakea-strikesa-the-island
 
 ### [2017-12-15](/news/2017/12/15/index.md)
 
+##### 2017 Java earthquake
 # A magnitude 6.5 earthquake strikes the island of Java causing massive damage along with two confirmed deaths. 
 
 

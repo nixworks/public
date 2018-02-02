@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/03/13/a-major-oil-slick-which-could-contain-some-40-tonnes-of-fuel-has-been-detected-off-the-coast-of-estonia-one-week-after-the-runner-4-carg.html)  [JSON](/news/2006/03/13/a-major-oil-slick-which-could-contain-some-40-tonnes-of-fuel-has-been-detected-off-the-coast-of-estonia-one-week-after-the-runner-4-carg.json)  [XML](/news/2006/03/13/a-major-oil-slick-which-could-contain-some-40-tonnes-of-fuel-has-been-detected-off-the-coast-of-estonia-one-week-after-the-runner-4-carg.xml)  
+
 ### [2006-03-13](/news/2006/03/13/index.md)
 
+##### Estonia
 #  A major oil slick, which could contain some 40 tonnes of fuel, has been detected off the coast of Estonia, one week after the Runner-4 cargo vessel sank in the Baltic Sea. Heavy sea ice prevents an accurate estimate of the content of the oil slick that may have killed 35,000 sea birds. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Yahoo News](http://news.yahoo.com/s/afp/estoniashippingenvironmentpollution;_ylt=Atvl4F0uyWvG5y1KEgXz42qs0NUE;_ylu=X3oDMTA3ODdxdHBhBHNlYwM5NjQ-)
+1. [Yahoo News](https://news.yahoo.com/s/afp/estoniashippingenvironmentpollution;_ylt=Atvl4F0uyWvG5y1KEgXz42qs0NUE;_ylu=X3oDMTA3ODdxdHBhBHNlYwM5NjQ-)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/13/china-begins-human-trials-of-a-vaccine-for-aids.html)  [JSON](/news/2005/03/13/china-begins-human-trials-of-a-vaccine-for-aids.json)  [XML](/news/2005/03/13/china-begins-human-trials-of-a-vaccine-for-aids.xml)  
+
 ### [2005-03-13](/news/2005/03/13/index.md)
 
+##### human trial
 #  China begins human trials of a vaccine for AIDS 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/137133/1/.html)
 2. [Medical News Today](http://www.medicalnewstoday.com/medicalnews.php?newsid=21185)

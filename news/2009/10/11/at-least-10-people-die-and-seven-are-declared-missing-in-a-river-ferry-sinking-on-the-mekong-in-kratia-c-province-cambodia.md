@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/11/at-least-10-people-die-and-seven-are-declared-missing-in-a-river-ferry-sinking-on-the-mekong-in-kratia-c-province-cambodia.html)  [JSON](/news/2009/10/11/at-least-10-people-die-and-seven-are-declared-missing-in-a-river-ferry-sinking-on-the-mekong-in-kratia-c-province-cambodia.json)  [XML](/news/2009/10/11/at-least-10-people-die-and-seven-are-declared-missing-in-a-river-ferry-sinking-on-the-mekong-in-kratia-c-province-cambodia.xml)  
+
 ### [2009-10-11](/news/2009/10/11/index.md)
 
+##### river ferry sinking
 #  At least 10 people die and seven are declared missing in a river ferry sinking on the Mekong in Kratie Province, Cambodia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/10/2009101143150954460.html)
 2. [The News International](http://www.thenews.com.pk/updates.asp?id=88809)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/26/toyota-is-once-again-the-world-s-largest-carmaker-with-7-5-million-units-sold-thus-far-in-2015-compared-to-volkswagen-s-7-43-million-and-ge.html)  [JSON](/news/2015/10/26/toyota-is-once-again-the-world-s-largest-carmaker-with-7-5-million-units-sold-thus-far-in-2015-compared-to-volkswagen-s-7-43-million-and-ge.json)  [XML](/news/2015/10/26/toyota-is-once-again-the-world-s-largest-carmaker-with-7-5-million-units-sold-thus-far-in-2015-compared-to-volkswagen-s-7-43-million-and-ge.xml)  
+
 ### [2015-10-26](/news/2015/10/26/index.md)
 
+##### Toyota
 # Toyota is once again the world's largest carmaker with 7.5 million units sold thus far in 2015, compared to Volkswagen's 7.43 million and General Motors' 7.2 million. 
 
 Toyota returns to the top slot in global vehicle sales after releasing figures for the first nine months of the year.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-34635468)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1679E/production/_86326029_gettyimages-492429732.jpg)

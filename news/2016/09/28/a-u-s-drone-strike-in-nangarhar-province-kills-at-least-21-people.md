@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/28/a-u-s-drone-strike-in-nangarhar-province-kills-
 
 ### [2016-09-28](/news/2016/09/28/index.md)
 
+##### War in Afghanistan (2015-present)
 # A U.S. drone strike in Nangarhar Province kills at least 21 people. 
 
 A suspected U.S. drone strike against Islamic State in Afghanistan killed at least 21 people on Wednesday, most of them militants but possibly including some civilians, Afghan officials said.

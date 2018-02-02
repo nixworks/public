@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/15/police-in-ethiopia-arrest-dozens-of-people-outside-the-saudi-arabian-embassy-in-the-capital-addis-ababa-who-were-protesting-against-attacks.html)  [JSON](/news/2013/11/15/police-in-ethiopia-arrest-dozens-of-people-outside-the-saudi-arabian-embassy-in-the-capital-addis-ababa-who-were-protesting-against-attacks.json)  [XML](/news/2013/11/15/police-in-ethiopia-arrest-dozens-of-people-outside-the-saudi-arabian-embassy-in-the-capital-addis-ababa-who-were-protesting-against-attacks.xml)  
+
 ### [2013-11-15](/news/2013/11/15/index.md)
 
+##### Ethiopia
 # Police in Ethiopia arrest dozens of people outside the Saudi Arabian embassy in the capital Addis Ababa who were protesting against attacks on Ethiopians in Saudi Arabia. 
 
 Police crackdown on demonstrations against targeted attacks on Ethiopian migrant workers in Saudi Arabia.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/11/arrests-at-anti-saudi-protest-ethiopia-201311151464025832.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/11/15/20131115164047281734_20.jpg)

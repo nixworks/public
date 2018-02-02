@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/5/alexander-litvinenko-poisoning-traces-of-polonium-210-have-been-found-in-a-second-restaurant-in-london-the-health-protection-agency-had-b.html)  [JSON](/news/2007/01/5/alexander-litvinenko-poisoning-traces-of-polonium-210-have-been-found-in-a-second-restaurant-in-london-the-health-protection-agency-had-b.json)  [XML](/news/2007/01/5/alexander-litvinenko-poisoning-traces-of-polonium-210-have-been-found-in-a-second-restaurant-in-london-the-health-protection-agency-had-b.xml)  
+
 ### [2007-01-5](/news/2007/01/5/index.md)
 
+##### murder of Russian spy Alexander Litvinenko
 #  Alexander Litvinenko poisoning: Traces of polonium-210 have been found in a second restaurant in London. The Health Protection Agency had been monitoring the establishment in connection with the Alexander Litvinenko assassination. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/uk/6234855.stm)
 

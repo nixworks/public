@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/20/typhoon-malakas-makes-landfall-on-the-southern-
 
 ### [2016-09-20](/news/2016/09/20/index.md)
 
+##### 2016 Pacific typhoon season
 # Typhoon Malakas makes landfall on the southern Japanese island of Kyushu dumping heavy rain and causing flight cancellations. 
 
 

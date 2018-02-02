@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2009/11/3/former-bosnian-serb-leader-radovan-karada3-4ia-attends-his-war-crimes-trial-for-the-first-time-after-boycotting-previous-sittings.html)  [JSON](/news/2009/11/3/former-bosnian-serb-leader-radovan-karada3-4ia-attends-his-war-crimes-trial-for-the-first-time-after-boycotting-previous-sittings.json)  [XML](/news/2009/11/3/former-bosnian-serb-leader-radovan-karada3-4ia-attends-his-war-crimes-trial-for-the-first-time-after-boycotting-previous-sittings.xml)  
+
 ### [2009-11-3](/news/2009/11/3/index.md)
 
+##### Bosnian Serb
 #  Former Bosnian Serb leader Radovan Karadzic attends his war crimes trial for the first time after boycotting previous sittings. 
 
 Former Bosnian Serb leader Radovan Karadzic appeared on Tuesday for an administrative hearing in his war crimes trial, temporarily giving up his boycott to ask for more time to prepare his case. Karadzic, who is acting as his own attorney, refused to attend the opening of the proceedings before the Yugoslavia war crimes tribunal last week. He has said he needs another 10 months to prepare his defence against 11 war crimes charges, including genocide, related to the 1992-1995 war. (Reporting by Aaron Gray-Block, writing by Ben Berkowitz; editing by David Stamp)
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/11/2009113132158847997.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8339833.stm)
-3. [Reuters](http://www.reuters.com/article/latestCrisis/idUSL3465329)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/article/latestCrisis/idUSL3465329)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

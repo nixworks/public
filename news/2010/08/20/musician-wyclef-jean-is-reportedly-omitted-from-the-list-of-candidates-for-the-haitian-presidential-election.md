@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/20/musician-wyclef-jean-is-reportedly-omitted-from-the-list-of-candidates-for-the-haitian-presidential-election.html)  [JSON](/news/2010/08/20/musician-wyclef-jean-is-reportedly-omitted-from-the-list-of-candidates-for-the-haitian-presidential-election.json)  [XML](/news/2010/08/20/musician-wyclef-jean-is-reportedly-omitted-from-the-list-of-candidates-for-the-haitian-presidential-election.xml)  
+
 ### [2010-08-20](/news/2010/08/20/index.md)
 
+##### Wyclef Jean
 # Musician Wyclef Jean is reportedly omitted from the list of candidates for the Haitian presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2010/aug/20/wyclef-jean-not-haiti-election-list)
 
@@ -15,4 +19,4 @@
 2. [Musician Wyclef Jean formally registers to stand for the presidency of Haiti. ](/news/2010/08/5/musician-wyclef-jean-formally-registers-to-stand-for-the-presidency-of-haiti.md) _Context: Haiti, Wyclef Jean_
 3. [Musician Wyclef Jean confirms he is to announce plans to stand for the presidency in Haiti. ](/news/2010/08/4/musician-wyclef-jean-confirms-he-is-to-announce-plans-to-stand-for-the-presidency-in-haiti.md) _Context: Haiti, Wyclef Jean_
 4. [Musician Wyclef Jean is formally declared unsuitable as a presidential candidate in Haiti's election. ](/news/2010/08/21/musician-wyclef-jean-is-formally-declared-unsuitable-as-a-presidential-candidate-in-haiti-s-election.md) _Context: Haiti, Wyclef Jean_
-5. [Haiti will reinstate its armed forces after 20 years of having none. ](/news/2017/07/11/haiti-will-reinstate-its-armed-forces-after-20-years-of-having-none.md) _Context: Haiti_
+5. [The United States closes its embassy in Port-au-Prince, Haiti, due to large-scale protests against the policy of U.S. President Donald Trump. ](/news/2018/01/23/the-united-states-closes-its-embassy-in-port-au-prince-haiti-due-to-large-scale-protests-against-the-policy-of-u-s-president-donald-trump.md) _Context: Haiti_

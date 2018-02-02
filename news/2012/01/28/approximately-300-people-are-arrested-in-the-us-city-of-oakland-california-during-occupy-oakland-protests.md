@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/28/approximately-300-people-are-arrested-in-the-us-city-of-oakland-california-during-occupy-oakland-protests.html)  [JSON](/news/2012/01/28/approximately-300-people-are-arrested-in-the-us-city-of-oakland-california-during-occupy-oakland-protests.json)  [XML](/news/2012/01/28/approximately-300-people-are-arrested-in-the-us-city-of-oakland-california-during-occupy-oakland-protests.xml)  
+
 ### [2012-01-28](/news/2012/01/28/index.md)
 
+##### Oakland, California
 # Approximately 300 people are arrested in the US city of Oakland, California during Occupy Oakland protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Yahoo! News](http://old.news.yahoo.com/s/ap/20120129/ap_on_re_us/us_occupy_oakland)
 

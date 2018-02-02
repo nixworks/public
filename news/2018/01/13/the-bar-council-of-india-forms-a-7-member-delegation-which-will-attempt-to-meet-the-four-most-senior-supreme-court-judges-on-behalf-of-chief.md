@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/13/the-bar-council-of-india-forms-a-7-member-deleg
 
 ### [2018-01-13](/news/2018/01/13/index.md)
 
+##### Bar Council of India
 # The Bar Council of India forms a 7-member delegation which will attempt to meet the four most senior Supreme Court judges on behalf of Chief Justice of India (CJI) Dipak Misra. This comes in the wake of allegations made by the four top judges against the CJI at a first of its kind press conference held on January 12. 
 
 India News: The Bar Council of India (BCI) has formed a seven-member delegation which will attempt to bridge the apparent rift between four senior Supreme Court j

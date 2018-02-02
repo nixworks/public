@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/11/charlot-salwai-is-elected-prime-minister-of-van
 
 ### [2016-02-11](/news/2016/02/11/index.md)
 
+##### Charlot Salwai
 # Charlot Salwai is elected Prime Minister of Vanuatu following the January snap election. Salwai takes office the same day. 
 
 Charlot Salwai will be Vanuatu&#039;s 11th prime minister after receiving more than 40 votes from the 52 Members of Parliament.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/3/peruvian-president-pedro-pablo-kuczynski-s-gover
 
 ### [2017-02-3](/news/2017/02/3/index.md)
 
+##### President
 # Peruvian President Pedro Pablo Kuczynski's government creates a temporary visa for thousands of Venezuelans whose country is mired in a deep economic crisis. Visa holders will be able to study, work, and receive health services in Peru for a year. "This is part of our migratory policy that aims to build bridges not walls", says Interior Minister Carlos Basombrio. 
 
 
@@ -22,7 +23,7 @@ Formats: [HTML](/news/2017/02/3/peruvian-president-pedro-pablo-kuczynski-s-gover
 ### Related:
 
 1. [Venezuelan President Nicolas Maduro announces the creation of the petro cryptocurrency in a bid to ease the country's ongoing socioeconomic crisis. ](/news/2017/12/3/venezuelan-president-nicola-s-maduro-announces-the-creation-of-the-petro-cryptocurrency-in-a-bid-to-ease-the-country-s-ongoing-socioeconomic.md) _Context: Venezuela_
-2. [Venezuelan President Nicolas Maduro, who is up for re-election, bans the main opposition parties, Justice First, Democratic Action and Popular Will from running in next year's presidential election. ](/news/2017/12/10/venezuelan-president-nicola-s-maduro-who-is-up-for-re-election-bans-the-main-opposition-parties-justice-first-democratic-action-and-popu.md) _Context: Venezuela_
-3. [Venezuela defaults on sovereign debt and bonds issued by state oil firm PDVSA (Petroleos de Venezuela, S.A.). ](/news/2017/11/16/venezuela-defaults-on-sovereign-debt-and-bonds-issued-by-state-oil-firm-pdvsa-petra3leos-de-venezuela-s-a.md) _Context: Venezuela_
-4. [Venezuela's democratic opposition wins the Sakharov Prize, the European Union's top human rights award. ([http:--www.bbc.com-news-world-latin-america-41760899 BBC])](/news/2017/10/26/venezuela-s-democratic-opposition-wins-the-sakharov-prize-the-european-union-s-top-human-rights-award-http-www-bbc-com-news-world-lati.md) _Context: Venezuela_
-5. [Voters in Venezuela go to the polls to elect new state governors, resulting in the incumbent socialist party winning the majority of the governorships, a result disputed by the opposition. ](/news/2017/10/15/voters-in-venezuela-go-to-the-polls-to-elect-new-state-governors-resulting-in-the-incumbent-socialist-party-winning-the-majority-of-the-gov.md) _Context: Venezuela_
+2. [Peruvian President Pedro Pablo Kuczynski pardons Alberto Fujimori, who was serving a 25-year sentence for corruption and human rights violations. ](/news/2017/12/24/peruvian-president-pedro-pablo-kuczynski-pardons-alberto-fujimori-who-was-serving-a-25-year-sentence-for-corruption-and-human-rights-violat.md) _Context: Pedro Pablo Kuczynski_
+3. [Venezuela and Rosneft sign agreements on gas exploration and exploitation. ](/news/2017/12/17/venezuela-and-rosneft-sign-agreements-on-gas-exploration-and-exploitation.md) _Context: Venezuela_
+4. [The main opposition party of Peru, Popular Force, which has the absolute majority in Congress, gives the president Pedro Pablo Kuczynski less than 24 hours to present his resignation. This comes after it revealed that he received large sums of money from the Odebrecht construction company, through a financial advisory firm of his property, in exchange of the concession of important infrastructures for the country. ](/news/2017/12/14/the-main-opposition-party-of-peru-popular-force-which-has-the-absolute-majority-in-congress-gives-the-president-pedro-pablo-kuczynski-les.md) _Context: Pedro Pablo Kuczynski_
+5. [Venezuelan President Nicolas Maduro, who is up for re-election, bans the main opposition parties, Justice First, Democratic Action and Popular Will from running in next year's presidential election. ](/news/2017/12/10/venezuelan-president-nicola-s-maduro-who-is-up-for-re-election-bans-the-main-opposition-parties-justice-first-democratic-action-and-popu.md) _Context: Venezuela_

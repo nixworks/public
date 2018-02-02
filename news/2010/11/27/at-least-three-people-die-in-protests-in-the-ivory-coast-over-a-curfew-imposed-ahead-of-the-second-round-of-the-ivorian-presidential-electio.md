@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/27/at-least-three-people-die-in-protests-in-the-ivory-coast-over-a-curfew-imposed-ahead-of-the-second-round-of-the-ivorian-presidential-electio.html)  [JSON](/news/2010/11/27/at-least-three-people-die-in-protests-in-the-ivory-coast-over-a-curfew-imposed-ahead-of-the-second-round-of-the-ivorian-presidential-electio.json)  [XML](/news/2010/11/27/at-least-three-people-die-in-protests-in-the-ivory-coast-over-a-curfew-imposed-ahead-of-the-second-round-of-the-ivorian-presidential-electio.xml)  
+
 ### [2010-11-27](/news/2010/11/27/index.md)
 
+##### Ivory Coast
 # At least three people die in protests in the Ivory Coast over a curfew imposed ahead of the second round of the Ivorian presidential election. 
 
 At least three people have been killed in violence in Ivory Coast, hours before a presidential run-off election, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11855179)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

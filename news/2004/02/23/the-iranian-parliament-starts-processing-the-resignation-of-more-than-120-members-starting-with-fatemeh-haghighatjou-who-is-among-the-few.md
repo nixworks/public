@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/23/the-iranian-parliament-starts-processing-the-resignation-of-more-than-120-members-starting-with-fatemeh-haghighatjou-who-is-among-the-few.html)  [JSON](/news/2004/02/23/the-iranian-parliament-starts-processing-the-resignation-of-more-than-120-members-starting-with-fatemeh-haghighatjou-who-is-among-the-few.json)  [XML](/news/2004/02/23/the-iranian-parliament-starts-processing-the-resignation-of-more-than-120-members-starting-with-fatemeh-haghighatjou-who-is-among-the-few.xml)  
+
 ### [2004-02-23](/news/2004/02/23/index.md)
 
+##### Majlis of Iran
 #  The Iranian parliament starts processing the resignation of more than 120 members, starting with Fatemeh Haghighatjou who is among the few female members.k
 
 

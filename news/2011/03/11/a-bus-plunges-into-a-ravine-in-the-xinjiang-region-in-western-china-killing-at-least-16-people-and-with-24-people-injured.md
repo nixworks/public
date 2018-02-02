@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/11/a-bus-plunges-into-a-ravine-in-the-xinjiang-region-in-western-china-killing-at-least-16-people-and-with-24-people-injured.html)  [JSON](/news/2011/03/11/a-bus-plunges-into-a-ravine-in-the-xinjiang-region-in-western-china-killing-at-least-16-people-and-with-24-people-injured.json)  [XML](/news/2011/03/11/a-bus-plunges-into-a-ravine-in-the-xinjiang-region-in-western-china-killing-at-least-16-people-and-with-24-people-injured.xml)  
+
 ### [2011-03-11](/news/2011/03/11/index.md)
 
+##### ravine
 # A bus plunges into a ravine in the Xinjiang region in western China killing at least 16 people and with 24 people injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/42040439/ns/world_news-asiapacific/?ocid=twitter)
 

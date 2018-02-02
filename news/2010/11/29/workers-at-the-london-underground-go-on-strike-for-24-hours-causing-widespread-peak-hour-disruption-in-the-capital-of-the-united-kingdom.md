@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/29/workers-at-the-london-underground-go-on-strike-for-24-hours-causing-widespread-peak-hour-disruption-in-the-capital-of-the-united-kingdom.html)  [JSON](/news/2010/11/29/workers-at-the-london-underground-go-on-strike-for-24-hours-causing-widespread-peak-hour-disruption-in-the-capital-of-the-united-kingdom.json)  [XML](/news/2010/11/29/workers-at-the-london-underground-go-on-strike-for-24-hours-causing-widespread-peak-hour-disruption-in-the-capital-of-the-united-kingdom.xml)  
+
 ### [2010-11-29](/news/2010/11/29/index.md)
 
+##### London Underground
 # Workers at the London Underground go on strike for 24 hours, causing widespread peak-hour disruption in the capital of the United Kingdom. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/uk/2010/nov/28/tube-workers-begin-strike)
 

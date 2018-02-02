@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/2/italian-prime-minister-silvio-berlusconi-officially-hands-in-his-resignation-to-president-carlo-azeglio-ciampi-berlusconi-was-defeated-by.html)  [JSON](/news/2006/05/2/italian-prime-minister-silvio-berlusconi-officially-hands-in-his-resignation-to-president-carlo-azeglio-ciampi-berlusconi-was-defeated-by.json)  [XML](/news/2006/05/2/italian-prime-minister-silvio-berlusconi-officially-hands-in-his-resignation-to-president-carlo-azeglio-ciampi-berlusconi-was-defeated-by.xml)  
+
 ### [2006-05-2](/news/2006/05/2/index.md)
 
+##### Italian Prime Minister
 #  Italian Prime Minister Silvio Berlusconi officially hands in his resignation to President Carlo Azeglio Ciampi. Berlusconi was defeated by Romano Prodi in the April 9-10 elections, but Ciampi has asked him to remain in office, "for the handling of current affairs". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4963882.stm)
 2. [Corriere](http://www.corriere.it/Primo_Piano/Politica/2006/05_Maggio/02/GOVERNO.shtml)

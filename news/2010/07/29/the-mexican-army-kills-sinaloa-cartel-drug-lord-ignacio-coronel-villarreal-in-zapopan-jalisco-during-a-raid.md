@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/29/the-mexican-army-kills-sinaloa-cartel-drug-lord-ignacio-coronel-villarreal-in-zapopan-jalisco-during-a-raid.html)  [JSON](/news/2010/07/29/the-mexican-army-kills-sinaloa-cartel-drug-lord-ignacio-coronel-villarreal-in-zapopan-jalisco-during-a-raid.json)  [XML](/news/2010/07/29/the-mexican-army-kills-sinaloa-cartel-drug-lord-ignacio-coronel-villarreal-in-zapopan-jalisco-during-a-raid.xml)  
+
 ### [2010-07-29](/news/2010/07/29/index.md)
 
+##### Mexican Army
 # The Mexican Army kills Sinaloa Cartel drug lord Ignacio Coronel Villarreal in Zapopan, Jalisco, during a raid. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jX2Dw8B3272HtVQLLdqO-56ET7dg)
 2. [CNN](http://edition.cnn.com/2010/CRIME/07/29/mexico.cartel.leader.killed/?hpt=T2#fbid=YIYm6U-LlVS)
@@ -16,4 +20,4 @@
 2. [15 mutilated bodies are found inside two abandoned SUVs in the state of Jalisco, a region that is under dispute between Los Zetas and the Sinaloa Cartel. The Mexican authorities believe the massacre is a response by Los Zetas for the 2012 Nuevo Laredo massacres reportedly carried out by Joaquin Guzman Loera (a.k.a. "El Chapo"), Mexico's most-wanted drug lord. ](/news/2012/05/9/15-mutilated-bodies-are-found-inside-two-abandoned-suvs-in-the-state-of-jalisco-a-region-that-is-under-dispute-between-los-zetas-and-the-si.md) _Context: Jalisco, Sinaloa Cartel_
 3. [Mexican police search for a gunman who shot and wounded a U.S. Consular official in Guadalajara, Jalisco. The victim is in stable condition. ](/news/2017/01/7/mexican-police-search-for-a-gunman-who-shot-and-wounded-a-u-s-consular-official-in-guadalajara-jalisco-the-victim-is-in-stable-condition.md) _Context: Jalisco_
 4. [Mexican drug lord Joaquin "El Chapo" Guzman is extradited to the United States, where he will face charges for his role as leader of the Sinaloa Cartel. ](/news/2017/01/19/mexican-drug-lord-joaquan-el-chapo-guzma-n-is-extradited-to-the-united-states-where-he-will-face-charges-for-his-role-as-leader-of-the-s.md) _Context: Sinaloa Cartel_
-5. [Rodrigo Duterte says that the Sinaloa cartel and the Chinese triad are active in the Philippine narcotic trade. ](/news/2016/08/4/rodrigo-duterte-says-that-the-sinaloa-cartel-and-the-chinese-triad-are-active-in-the-philippine-narcotic-trade.md) _Context: Sinaloa Cartel_
+5. [The legal team of Joaquin Guzman ("El Chapo"), the leader of the Sinaloa Cartel, has challenged the foreign ministry of Mexico's decision to extradite him to the United States. ](/news/2016/05/27/the-legal-team-of-joaquan-guzma-n-el-chapo-the-leader-of-the-sinaloa-cartel-has-challenged-the-foreign-ministry-of-mexico-s-decision.md) _Context: Sinaloa Cartel_

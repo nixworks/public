@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/28/the-death-toll-from-yesterday-s-apartment-collapse-in-liege-reaches-nine-as-the-search-for-bodies-is-temporarily-suspended-due-to-the-danger.html)  [JSON](/news/2010/01/28/the-death-toll-from-yesterday-s-apartment-collapse-in-liege-reaches-nine-as-the-search-for-bodies-is-temporarily-suspended-due-to-the-danger.json)  [XML](/news/2010/01/28/the-death-toll-from-yesterday-s-apartment-collapse-in-liege-reaches-nine-as-the-search-for-bodies-is-temporarily-suspended-due-to-the-danger.xml)  
+
 ### [2010-01-28](/news/2010/01/28/index.md)
 
+##### Lige
 # The death toll from yesterday's apartment collapse in Lige reaches nine as the search for bodies is temporarily suspended due to the danger caused by other falling buildings. 
 
 The death toll from a collapsed apartment block in eastern Belgium has risen to nine, but rescue efforts have been suspended because of fears that more buildings could fall down, Belgian media reported on Thursday.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0128/belgium.html)
 2. [Reuters India](http://in.reuters.com/article/worldNews/idINIndia-45763820100128)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/12/2/cameroonas-army-backed-by-a-regional-taskforce-has-killed-at-least-100-members-of-the-militant-islamist-boko-haram-group-and-freed-900-p.html)  [JSON](/news/2015/12/2/cameroonas-army-backed-by-a-regional-taskforce-has-killed-at-least-100-members-of-the-militant-islamist-boko-haram-group-and-freed-900-p.json)  [XML](/news/2015/12/2/cameroonas-army-backed-by-a-regional-taskforce-has-killed-at-least-100-members-of-the-militant-islamist-boko-haram-group-and-freed-900-p.xml)  
+
 ### [2015-12-2](/news/2015/12/2/index.md)
 
+##### 2015 West African offensive
 # Cameroon's army, backed by a regional taskforce, has killed at least 100 members of the militant Islamist Boko Haram group and freed 900 people it had held hostage, the west African country's defence ministry has said. Regional taskforce conducts sweep along border with Nigeria. 
 
 Regional taskforce conducts sweep along border with Nigeria, freeing 900 captives, army says
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo](http://news.yahoo.com/cameroon-army-kills-100-boko-haram-fighters-frees-001313100.html)
-2. [The Guardian](http://www.theguardian.com/world/2015/dec/02/cameroon-boko-haram-members-killed)
+1. [AFP via Yahoo](https://news.yahoo.com/cameroon-army-kills-100-boko-haram-fighters-frees-001313100.html)
+2. [The Guardian](https://www.theguardian.com/world/2015/dec/02/cameroon-boko-haram-members-killed)
 2. [Cover Image](https://i.guim.co.uk/img/media/8b7f02bb6f8c93de1e8ac9f1c394fd037d9cf0f4/0_220_3333_2003/master/3333.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=10e7aa9dc6d34957364e7e084606076b)
 
 ### Related:

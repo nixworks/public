@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/20/china-s-state-council-announces-that-liu-shiyu-
 
 ### [2016-02-20](/news/2016/02/20/index.md)
 
+##### China's State Council
 # China's State Council announces that Liu Shiyu, who had been chairman of the Agricultural Bank of China Limited, will replace Xiao Gang as head of the China's Securities Regulatory Commission. 
 
 

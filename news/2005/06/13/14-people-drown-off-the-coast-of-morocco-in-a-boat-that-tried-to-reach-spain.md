@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/13/14-people-drown-off-the-coast-of-morocco-in-a-boat-that-tried-to-reach-spain.html)  [JSON](/news/2005/06/13/14-people-drown-off-the-coast-of-morocco-in-a-boat-that-tried-to-reach-spain.json)  [XML](/news/2005/06/13/14-people-drown-off-the-coast-of-morocco-in-a-boat-that-tried-to-reach-spain.xml)  
+
 ### [2005-06-13](/news/2005/06/13/index.md)
 
+##### Morocco
 #  14 people drown off the coast of Morocco in a boat that tried to reach Spain 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/7FED172A-04FE-4CD4-855A-01E6AC0A2FBE.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/4090016.stm)

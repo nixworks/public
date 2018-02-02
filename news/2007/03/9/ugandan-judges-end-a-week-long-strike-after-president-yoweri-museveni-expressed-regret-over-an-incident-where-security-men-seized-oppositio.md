@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/9/ugandan-judges-end-a-week-long-strike-after-president-yoweri-museveni-expressed-regret-over-an-incident-where-security-men-seized-oppositio.html)  [JSON](/news/2007/03/9/ugandan-judges-end-a-week-long-strike-after-president-yoweri-museveni-expressed-regret-over-an-incident-where-security-men-seized-oppositio.json)  [XML](/news/2007/03/9/ugandan-judges-end-a-week-long-strike-after-president-yoweri-museveni-expressed-regret-over-an-incident-where-security-men-seized-oppositio.xml)  
+
 ### [2007-03-9](/news/2007/03/9/index.md)
 
+##### Uganda
 #  Ugandan judges end a week-long strike after President Yoweri Museveni expressed regret over an incident where security men seized Opposition supporters from the High Court of Uganda. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L0995040.htm)
 

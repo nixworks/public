@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/5/sathya-sai-baba-is-reported-to-be-in-a-critical-condition-as-thousands-of-followers-gather-outside-the-hospital.html)  [JSON](/news/2011/04/5/sathya-sai-baba-is-reported-to-be-in-a-critical-condition-as-thousands-of-followers-gather-outside-the-hospital.json)  [XML](/news/2011/04/5/sathya-sai-baba-is-reported-to-be-in-a-critical-condition-as-thousands-of-followers-gather-outside-the-hospital.xml)  
+
 ### [2011-04-5](/news/2011/04/5/index.md)
 
+##### Sathya Sai Baba
 # Sathya Sai Baba is reported to be in a critical condition as thousands of followers gather outside the hospital. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Asian Age](http://www.asianage.com/india/sai-baba-critical-826)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-12968238)

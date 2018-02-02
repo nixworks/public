@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/17/a-palestinian-cameraman-working-for-reuters-mazen-dana-is-shot-dead-by-a-coalition-tank-crew-in-iraq-while-trying-to-film-around-abu-ghra.html)  [JSON](/news/2003/08/17/a-palestinian-cameraman-working-for-reuters-mazen-dana-is-shot-dead-by-a-coalition-tank-crew-in-iraq-while-trying-to-film-around-abu-ghra.json)  [XML](/news/2003/08/17/a-palestinian-cameraman-working-for-reuters-mazen-dana-is-shot-dead-by-a-coalition-tank-crew-in-iraq-while-trying-to-film-around-abu-ghra.xml)  
+
 ### [2003-08-17](/news/2003/08/17/index.md)
 
+##### Palestinian
 #  A Palestinian cameraman working for Reuters, Mazen Dana, is shot dead by a Coalition tank crew in Iraq while trying to film around Abu Ghraib prison, after a mortar attack on the prison. The tank crew mistook the camera for a grenade launcher.
 
 

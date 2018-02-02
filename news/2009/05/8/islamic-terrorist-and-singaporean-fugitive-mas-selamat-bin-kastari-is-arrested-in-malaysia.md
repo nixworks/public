@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/8/islamic-terrorist-and-singaporean-fugitive-mas-selamat-bin-kastari-is-arrested-in-malaysia.html)  [JSON](/news/2009/05/8/islamic-terrorist-and-singaporean-fugitive-mas-selamat-bin-kastari-is-arrested-in-malaysia.json)  [XML](/news/2009/05/8/islamic-terrorist-and-singaporean-fugitive-mas-selamat-bin-kastari-is-arrested-in-malaysia.xml)  
+
 ### [2009-05-8](/news/2009/05/8/index.md)
 
+##### Islam
 #  Islamic terrorist and Singaporean fugitive Mas Selamat bin Kastari is arrested in Malaysia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5ijS9AFNRzk5IqovAYgXegzI9g07AD981PRJO1)
 

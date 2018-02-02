@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/17/at-least-six-people-are-killed-in-clashes-between-supporters-of-the-banned-muslim-brotherhood-and-egyptian-police.html)  [JSON](/news/2015/07/17/at-least-six-people-are-killed-in-clashes-between-supporters-of-the-banned-muslim-brotherhood-and-egyptian-police.json)  [XML](/news/2015/07/17/at-least-six-people-are-killed-in-clashes-between-supporters-of-the-banned-muslim-brotherhood-and-egyptian-police.xml)  
+
 ### [2015-07-17](/news/2015/07/17/index.md)
 
+##### Muslim Brotherhood
 # At least six people are killed in clashes between supporters of the banned Muslim Brotherhood and Egyptian police. 
 
 At least six people are killed in Cairo as supporters of the banned Muslim Brotherhood clash with police on the Muslim holiday of Eid.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-33567024)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/174BF/production/_84332459_84332458.jpg)

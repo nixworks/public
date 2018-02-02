@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/30/burmese-opposition-leader-aung-san-suu-kyi-meets-with-opposition-leaders-who-broke-away-from-the-national-league-for-democracy-party.html)  [JSON](/news/2010/12/30/burmese-opposition-leader-aung-san-suu-kyi-meets-with-opposition-leaders-who-broke-away-from-the-national-league-for-democracy-party.json)  [XML](/news/2010/12/30/burmese-opposition-leader-aung-san-suu-kyi-meets-with-opposition-leaders-who-broke-away-from-the-national-league-for-democracy-party.xml)  
+
 ### [2010-12-30](/news/2010/12/30/index.md)
 
+##### Burma
 # Burmese opposition leader Aung San Suu Kyi meets with opposition leaders who broke away from the National League for Democracy party. 
 
 Burma&#039;s opposition leader Aung San Suu Kyi has met with former colleagues who disagreed with her election boycott and formed a new party to fight the controversial poll, the breakaway group said.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/12/30/3104024.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/359740-1x1-700x700.jpg)

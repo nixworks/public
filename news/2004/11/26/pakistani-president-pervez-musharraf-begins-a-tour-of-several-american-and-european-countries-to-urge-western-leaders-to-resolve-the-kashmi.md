@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/11/26/pakistani-president-pervez-musharraf-begins-a-tour-of-several-american-and-european-countries-to-urge-western-leaders-to-resolve-the-kashmi.html)  [JSON](/news/2004/11/26/pakistani-president-pervez-musharraf-begins-a-tour-of-several-american-and-european-countries-to-urge-western-leaders-to-resolve-the-kashmi.json)  [XML](/news/2004/11/26/pakistani-president-pervez-musharraf-begins-a-tour-of-several-american-and-european-countries-to-urge-western-leaders-to-resolve-the-kashmi.xml)  
+
 ### [2004-11-26](/news/2004/11/26/index.md)
 
+##### Pervez Musharraf
 #  Pakistani President Pervez Musharraf begins a tour of several American and European countries to urge Western leaders to resolve the Kashmir and Palestinian disputes, which he sees as root causes of terrorism by Muslims. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6929070&section=news)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6929070&section=news)
 
 ### Related:
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/10/the-u-s-immigration-and-customs-enforcement-age
 
 ### [2018-01-10](/news/2018/01/10/index.md)
 
+##### Immigration policy of Donald Trump
 # The U.S. Immigration and Customs Enforcement agency conducts operations at 98 7-Eleven stores in 17 states, arresting 21 people suspected of being illegal immigrants. 
 
 U.S. immigration agents fanned out to nearly 100 7-Eleven convenience stores nationwide on Wednesday, arresting 21 people suspected of being in the country illegally and giving owners a tight deadline to prove other employees are authorized to work.

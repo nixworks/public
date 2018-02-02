@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/27/the-scottish-national-party-wins-the-moray-by-election-2006-for-the-moray-constituency-to-the-scottish-parliament.html)  [JSON](/news/2006/04/27/the-scottish-national-party-wins-the-moray-by-election-2006-for-the-moray-constituency-to-the-scottish-parliament.json)  [XML](/news/2006/04/27/the-scottish-national-party-wins-the-moray-by-election-2006-for-the-moray-constituency-to-the-scottish-parliament.xml)  
+
 ### [2006-04-27](/news/2006/04/27/index.md)
 
+##### Scottish National Party
 #  The Scottish National Party wins the Moray by-election, 2006 for the Moray constituency to the Scottish Parliament. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/scotland/4949432.stm)
 

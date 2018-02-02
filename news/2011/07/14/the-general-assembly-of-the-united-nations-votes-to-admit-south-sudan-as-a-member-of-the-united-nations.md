@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/14/the-general-assembly-of-the-united-nations-votes-to-admit-south-sudan-as-a-member-of-the-united-nations.html)  [JSON](/news/2011/07/14/the-general-assembly-of-the-united-nations-votes-to-admit-south-sudan-as-a-member-of-the-united-nations.json)  [XML](/news/2011/07/14/the-general-assembly-of-the-united-nations-votes-to-admit-south-sudan-as-a-member-of-the-united-nations.xml)  
+
 ### [2011-07-14](/news/2011/07/14/index.md)
 
+##### General Assembly of the United Nations
 # The General Assembly of the United Nations votes to admit South Sudan as a member of the United Nations. 
 
 South Sudan officially became the 193rd member of the United Nations on Thursday morning, capping a flurry of activities that started with its independence last week.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/africa/07/14/south.sudan.un/index.html?eref=edition)
 1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/africa/07/14/south.sudan.un/tzvids.tenydhurgon.ban.afp.gi.jpg)

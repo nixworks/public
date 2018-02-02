@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/7/the-united-nations-security-council-condemns-the-recent-missile-launches-by-north-korea.html)  [JSON](/news/2009/07/7/the-united-nations-security-council-condemns-the-recent-missile-launches-by-north-korea.json)  [XML](/news/2009/07/7/the-united-nations-security-council-condemns-the-recent-missile-launches-by-north-korea.xml)  
+
 ### [2009-07-7](/news/2009/07/7/index.md)
 
+##### United Nations
 #  The United Nations Security Council condemns the recent missile launches by North Korea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2009-07/07/content_11664242.htm)
 

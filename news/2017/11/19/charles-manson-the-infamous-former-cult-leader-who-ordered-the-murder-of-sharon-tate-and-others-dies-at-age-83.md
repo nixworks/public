@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/19/charles-manson-the-infamous-former-cult-leader-
 
 ### [2017-11-19](/news/2017/11/19/index.md)
 
+##### Charles Manson
 # Charles Manson, the infamous former cult leader who ordered the murder of Sharon Tate and others, dies at age 83. 
 
 

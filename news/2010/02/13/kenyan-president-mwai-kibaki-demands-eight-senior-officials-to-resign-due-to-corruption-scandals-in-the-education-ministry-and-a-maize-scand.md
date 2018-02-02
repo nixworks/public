@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/13/kenyan-president-mwai-kibaki-demands-eight-senior-officials-to-resign-due-to-corruption-scandals-in-the-education-ministry-and-a-maize-scand.html)  [JSON](/news/2010/02/13/kenyan-president-mwai-kibaki-demands-eight-senior-officials-to-resign-due-to-corruption-scandals-in-the-education-ministry-and-a-maize-scand.json)  [XML](/news/2010/02/13/kenyan-president-mwai-kibaki-demands-eight-senior-officials-to-resign-due-to-corruption-scandals-in-the-education-ministry-and-a-maize-scand.xml)  
+
 ### [2010-02-13](/news/2010/02/13/index.md)
 
+##### Kenya
 # Kenyan President Mwai Kibaki demands eight senior officials to resign due to corruption scandals in the education ministry and a maize scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8514675.stm)
 

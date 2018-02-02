@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/23/independent-candidate-alexander-van-der-bellen-
 
 ### [2016-05-23](/news/2016/05/23/index.md)
 
+##### Austrian presidential election, 2016
 #  Independent candidate Alexander Van der Bellen, a member of The Greens, is elected President of Austria in a tight contest that was decided by mail-in votes. 
 
 

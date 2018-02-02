@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/1/the-taliban-claims-responsibility-for-a-truck-bo
 
 ### [2016-08-1](/news/2016/08/1/index.md)
 
+##### War in Afghanistan (2015-present)
 # The Taliban claims responsibility for a truck bombing in a military complex in Kabul. 
 
 A Taliban truck bomb exploded outside a protected hotel compound used by foreign service contractors in Kabul on Monday, ripping a deep crater in the ground and leaving a tangle of wreckage but causing few casualties.

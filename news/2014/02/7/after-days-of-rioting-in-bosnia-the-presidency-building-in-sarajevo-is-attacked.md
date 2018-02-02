@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/7/after-days-of-rioting-in-bosnia-the-presidency-building-in-sarajevo-is-attacked.html)  [JSON](/news/2014/02/7/after-days-of-rioting-in-bosnia-the-presidency-building-in-sarajevo-is-attacked.json)  [XML](/news/2014/02/7/after-days-of-rioting-in-bosnia-the-presidency-building-in-sarajevo-is-attacked.xml)  
+
 ### [2014-02-7](/news/2014/02/7/index.md)
 
+##### rioting
 # After days of rioting in Bosnia, the presidency building in Sarajevo is attacked. 
 
 Protesters smash windows and set ablaze section of government building in Sarajevo on third day of demonstrations.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2014/02/bosnia-braces-more-protests-20142754844558298.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/2/7/20142721619711734_20.jpg)

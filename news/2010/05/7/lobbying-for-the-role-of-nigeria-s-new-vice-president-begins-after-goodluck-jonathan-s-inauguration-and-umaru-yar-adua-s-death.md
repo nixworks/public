@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/7/lobbying-for-the-role-of-nigeria-s-new-vice-president-begins-after-goodluck-jonathan-s-inauguration-and-umaru-yar-adua-s-death.html)  [JSON](/news/2010/05/7/lobbying-for-the-role-of-nigeria-s-new-vice-president-begins-after-goodluck-jonathan-s-inauguration-and-umaru-yar-adua-s-death.json)  [XML](/news/2010/05/7/lobbying-for-the-role-of-nigeria-s-new-vice-president-begins-after-goodluck-jonathan-s-inauguration-and-umaru-yar-adua-s-death.xml)  
+
 ### [2010-05-7](/news/2010/05/7/index.md)
 
+##### Nigeria
 # Lobbying for the role of Nigeria's new vice-president begins after Goodluck Jonathan's inauguration and Umaru Yar'Adua's death. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8667715.stm)
 

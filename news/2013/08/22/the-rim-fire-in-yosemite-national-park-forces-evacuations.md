@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/22/the-rim-fire-in-yosemite-national-park-forces-evacuations.html)  [JSON](/news/2013/08/22/the-rim-fire-in-yosemite-national-park-forces-evacuations.json)  [XML](/news/2013/08/22/the-rim-fire-in-yosemite-national-park-forces-evacuations.xml)  
+
 ### [2013-08-22](/news/2013/08/22/index.md)
 
+##### Rim Fire
 # The Rim Fire, in Yosemite National Park forces evacuations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://usnews.nbcnews.com/_news/2013/08/22/20143435-state-of-emergency-declared-over-yosemite-fire?lite)
 

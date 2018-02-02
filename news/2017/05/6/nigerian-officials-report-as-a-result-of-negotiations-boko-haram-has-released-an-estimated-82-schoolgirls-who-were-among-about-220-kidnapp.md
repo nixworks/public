@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotia
 
 ### [2017-05-6](/news/2017/05/6/index.md)
 
+##### Boko Haram insurgency
 # Nigerian officials report, as a result of negotiations, Boko Haram has released an estimated 82 schoolgirls who were among about 220 kidnapped from a secondary school in Chibok in Borno State in April 2014. 
 
  Boko Haram militants have released 82 schoolgirls out of a group of more than 200 whom they kidnapped from the northeastern town of Chibok three years ago in e

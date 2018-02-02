@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/12/2/muslim-rioters-attack-liquor-stores-and-massage-parlours-in-zakho-in-the-kurdistan-region-of-northern-iraq-after-friday-prayers-the-attacks.html)  [JSON](/news/2011/12/2/muslim-rioters-attack-liquor-stores-and-massage-parlours-in-zakho-in-the-kurdistan-region-of-northern-iraq-after-friday-prayers-the-attacks.json)  [XML](/news/2011/12/2/muslim-rioters-attack-liquor-stores-and-massage-parlours-in-zakho-in-the-kurdistan-region-of-northern-iraq-after-friday-prayers-the-attacks.xml)  
+
 ### [2011-12-2](/news/2011/12/2/index.md)
 
+##### attack
 # Muslim rioters attack liquor stores and massage parlours in Zakho in the Kurdistan region of northern Iraq after Friday prayers. The attacks later extended to include Christian owned shops and businesses in other cities including Dohuk and Simele. 
 
 Crowds attacked liquor stores, a massage parlor and hotels in the town of Zakho.
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/news/world/story/2011-12-03/riot-zahko-iraq/51611328/1)
+1. [USA Today](https://www.usatoday.com/news/world/story/2011-12-03/riot-zahko-iraq/51611328/1)
 
 ### Related:
 

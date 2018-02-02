@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/5/six-doctors-in-the-united-kingdom-are-taking-legal-action-to-demand-a-formal-inquest-into-the-death-of-government-scientist-david-christoph.html)  [JSON](/news/2009/12/5/six-doctors-in-the-united-kingdom-are-taking-legal-action-to-demand-a-formal-inquest-into-the-death-of-government-scientist-david-christoph.json)  [XML](/news/2009/12/5/six-doctors-in-the-united-kingdom-are-taking-legal-action-to-demand-a-formal-inquest-into-the-death-of-government-scientist-david-christoph.xml)  
+
 ### [2009-12-5](/news/2009/12/5/index.md)
 
+##### David Christopher Kelly
 #  Six doctors in the United Kingdom are taking legal action to demand a formal inquest into the death of government scientist David Christopher Kelly. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8397625.stm)
 

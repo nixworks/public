@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/01/25/microsoft-in-an-effort-to-resolve-a-controversy-with-the-antitrust-authorities-of-the-european-community-announced-that-it-will-license-s.html)  [JSON](/news/2006/01/25/microsoft-in-an-effort-to-resolve-a-controversy-with-the-antitrust-authorities-of-the-european-community-announced-that-it-will-license-s.json)  [XML](/news/2006/01/25/microsoft-in-an-effort-to-resolve-a-controversy-with-the-antitrust-authorities-of-the-european-community-announced-that-it-will-license-s.xml)  
+
 ### [2006-01-25](/news/2006/01/25/index.md)
 
+##### Microsoft
 #  Microsoft, in an effort to resolve a controversy with the antitrust authorities of the European Community, announced that it will license some of its source code to rivals. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [c|net news](http://archive.is/20130119131833/http://news.com.com/Microsoft+offers+up+source+code+in+EC+dispute/2100-1014_3-6030879.html)
+1. [c|net news](https://archive.is/20130119131833/http://news.com.com/Microsoft+offers+up+source+code+in+EC+dispute/2100-1014_3-6030879.html)
 
 ### Related:
 

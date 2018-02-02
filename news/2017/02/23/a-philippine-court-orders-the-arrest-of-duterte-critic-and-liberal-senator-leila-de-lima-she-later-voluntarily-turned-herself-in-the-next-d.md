@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/23/a-philippine-court-orders-the-arrest-of-duterte
 
 ### [2017-02-23](/news/2017/02/23/index.md)
 
+##### Philippine
 # A Philippine court orders the arrest of Duterte critic and Liberal senator Leila de Lima. She later voluntarily turned herself in the next day 
 
 De Lima, a vocal critic of President Duterte, is facing drug trafficking charges during her term as a justice secretary.

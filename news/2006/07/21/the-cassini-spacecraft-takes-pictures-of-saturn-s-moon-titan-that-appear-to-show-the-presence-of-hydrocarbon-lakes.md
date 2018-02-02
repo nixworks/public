@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/21/the-cassini-spacecraft-takes-pictures-of-saturn-s-moon-titan-that-appear-to-show-the-presence-of-hydrocarbon-lakes.html)  [JSON](/news/2006/07/21/the-cassini-spacecraft-takes-pictures-of-saturn-s-moon-titan-that-appear-to-show-the-presence-of-hydrocarbon-lakes.json)  [XML](/news/2006/07/21/the-cassini-spacecraft-takes-pictures-of-saturn-s-moon-titan-that-appear-to-show-the-presence-of-hydrocarbon-lakes.xml)  
+
 ### [2006-07-21](/news/2006/07/21/index.md)
 
+##### Cassini spacecraft
 #  The Cassini spacecraft takes pictures of Saturn's moon Titan that appear to show the presence of hydrocarbon lakes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NASA](http://photojournal.jpl.nasa.gov/catalog/PIA08630)
 

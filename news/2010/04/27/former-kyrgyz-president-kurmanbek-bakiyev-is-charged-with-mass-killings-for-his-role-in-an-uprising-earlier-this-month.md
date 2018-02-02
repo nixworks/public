@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/04/27/former-kyrgyz-president-kurmanbek-bakiyev-is-charged-with-mass-killings-for-his-role-in-an-uprising-earlier-this-month.html)  [JSON](/news/2010/04/27/former-kyrgyz-president-kurmanbek-bakiyev-is-charged-with-mass-killings-for-his-role-in-an-uprising-earlier-this-month.json)  [XML](/news/2010/04/27/former-kyrgyz-president-kurmanbek-bakiyev-is-charged-with-mass-killings-for-his-role-in-an-uprising-earlier-this-month.xml)  
+
 ### [2010-04-27](/news/2010/04/27/index.md)
 
+##### Kyrgyzstan
 # Former Kyrgyz President Kurmanbek Bakiyev is charged with mass killings for his role in an uprising earlier this month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/exsoviet/20100427/158763449.html)
-2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/27/AR2010042700592.html)
+2. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/04/27/AR2010042700592.html)
 
 ### Related:
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/06/25/pmtair-flight-u4-241-crashes-in-cambodia-with-22-on-board-there-are-no-survivors-wikinews.html)  [JSON](/news/2007/06/25/pmtair-flight-u4-241-crashes-in-cambodia-with-22-on-board-there-are-no-survivors-wikinews.json)  [XML](/news/2007/06/25/pmtair-flight-u4-241-crashes-in-cambodia-with-22-on-board-there-are-no-survivors-wikinews.xml)  
+
 ### [2007-06-25](/news/2007/06/25/index.md)
 
+##### PMTair Flight U4 241
 #  PMTair Flight U4 241 crashes in Cambodia with 22 on board; there are no survivors. (WikiNews)
 
 

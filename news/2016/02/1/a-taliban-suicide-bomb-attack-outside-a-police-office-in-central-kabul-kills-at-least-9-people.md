@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/1/a-taliban-suicide-bomb-attack-outside-a-police-o
 
 ### [2016-02-1](/news/2016/02/1/index.md)
 
+##### War in Afghanistan (2015-present)
 # A Taliban suicide bomb attack outside a police office in central Kabul kills at least 9 people. 
 
 Ambulances rushed to the scene but there was no immediate comment from Afghan security officials.

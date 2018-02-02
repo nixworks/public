@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/22/explosions-and-gunfire-are-heard-in-the-georgia
 
 ### [2017-11-22](/news/2017/11/22/index.md)
 
+##### Georgia
 # Explosions and gunfire are heard in the Georgian capital of Tbilisi amidst counter-terrorism operations. One security guard and 3 terrorists are killed. 
 
 Suspects allegedly opened fire on special forces during large-scale operation on the outskirts of the capital, Tbilisi.

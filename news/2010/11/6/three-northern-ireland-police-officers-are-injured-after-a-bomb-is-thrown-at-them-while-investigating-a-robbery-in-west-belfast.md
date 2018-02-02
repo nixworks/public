@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/6/three-northern-ireland-police-officers-are-injured-after-a-bomb-is-thrown-at-them-while-investigating-a-robbery-in-west-belfast.html)  [JSON](/news/2010/11/6/three-northern-ireland-police-officers-are-injured-after-a-bomb-is-thrown-at-them-while-investigating-a-robbery-in-west-belfast.json)  [XML](/news/2010/11/6/three-northern-ireland-police-officers-are-injured-after-a-bomb-is-thrown-at-them-while-investigating-a-robbery-in-west-belfast.xml)  
+
 ### [2010-11-6](/news/2010/11/6/index.md)
 
+##### Northern Ireland
 # Three Northern Ireland police officers are injured after a bomb is thrown at them while investigating a robbery in West Belfast. 
 
 Police say a bomb attack on officers in West Belfast could have ended in &quot;mass murder&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-11703535)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

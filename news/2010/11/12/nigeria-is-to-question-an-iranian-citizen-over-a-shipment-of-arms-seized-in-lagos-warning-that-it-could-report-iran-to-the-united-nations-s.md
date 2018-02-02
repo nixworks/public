@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/12/nigeria-is-to-question-an-iranian-citizen-over-a-shipment-of-arms-seized-in-lagos-warning-that-it-could-report-iran-to-the-united-nations-s.html)  [JSON](/news/2010/11/12/nigeria-is-to-question-an-iranian-citizen-over-a-shipment-of-arms-seized-in-lagos-warning-that-it-could-report-iran-to-the-united-nations-s.json)  [XML](/news/2010/11/12/nigeria-is-to-question-an-iranian-citizen-over-a-shipment-of-arms-seized-in-lagos-warning-that-it-could-report-iran-to-the-united-nations-s.xml)  
+
 ### [2010-11-12](/news/2010/11/12/index.md)
 
+##### Nigeria
 # Nigeria is to question an Iranian citizen over a shipment of arms seized in Lagos, warning that it could report Iran to the United Nations Security Council if sanctions had been breached. 
 
 Iran allows Nigeria to question one of its citizens inside its embassy, over a weapons shipment seized in Lagos.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11743454)
 2. [IBTimes Hong Kong](http://hken.ibtimes.com/articles/81372/20101112/nigeria-iran-arms-shipment-consignment-abuja-sanctions-united-nations-port-of-lagos.htm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/18/nasa-has-decided-to-push-the-next-shuttle-mission-sts-121-to-march-2006-and-reassign-it-to-the-space-shuttle-discovery.html)  [JSON](/news/2005/08/18/nasa-has-decided-to-push-the-next-shuttle-mission-sts-121-to-march-2006-and-reassign-it-to-the-space-shuttle-discovery.json)  [XML](/news/2005/08/18/nasa-has-decided-to-push-the-next-shuttle-mission-sts-121-to-march-2006-and-reassign-it-to-the-space-shuttle-discovery.xml)  
+
 ### [2005-08-18](/news/2005/08/18/index.md)
 
+##### NASA
 #  NASA has decided to push the next shuttle mission STS-121 to March 2006 and reassign it to the Space Shuttle "Discovery" 
 
 Because of the repercussions of the shuttle Discovery&#39;s fuel tank problems, NASA is adjusting its plans for the next launch to come in March or later.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://msnbc.msn.com/id/8989072/)
 1. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Photos/050817/050817_shuttledelay_hmed6p.standard.jpg)

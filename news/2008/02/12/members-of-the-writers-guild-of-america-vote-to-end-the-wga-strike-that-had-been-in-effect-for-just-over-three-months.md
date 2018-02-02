@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/12/members-of-the-writers-guild-of-america-vote-to-end-the-wga-strike-that-had-been-in-effect-for-just-over-three-months.html)  [JSON](/news/2008/02/12/members-of-the-writers-guild-of-america-vote-to-end-the-wga-strike-that-had-been-in-effect-for-just-over-three-months.json)  [XML](/news/2008/02/12/members-of-the-writers-guild-of-america-vote-to-end-the-wga-strike-that-had-been-in-effect-for-just-over-three-months.xml)  
+
 ### [2008-02-12](/news/2008/02/12/index.md)
 
+##### Writers Guild of America
 #  Members of the Writers Guild of America vote to end the WGA strike that had been in effect for just over three months. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2008/SHOWBIZ/TV/02/12/hollywood.labor.ap/index.html)
 

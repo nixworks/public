@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/9/a-suicide-car-bomber-kills-42-people-at-a-police-checkpoint-in-hillah-iraq.html)  [JSON](/news/2014/03/9/a-suicide-car-bomber-kills-42-people-at-a-police-checkpoint-in-hillah-iraq.json)  [XML](/news/2014/03/9/a-suicide-car-bomber-kills-42-people-at-a-police-checkpoint-in-hillah-iraq.xml)  
+
 ### [2014-03-9](/news/2014/03/9/index.md)
 
+##### Hillah
 # A suicide car bomber kills 42 people at a police checkpoint in Hillah, Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://www.voanews.com/content/suicide-bomber-kills-42-in-iraq/1867510.html)
 
@@ -15,4 +19,4 @@
 2. [Bombs in two majority Shia Muslim cities in southern Iraq, Hillah and Karbala, kill at least 30 people and wound more than 100. ](/news/2012/11/29/bombs-in-two-majority-shia-muslim-cities-in-southern-iraq-hillah-and-karbala-kill-at-least-30-people-and-wound-more-than-100.md) _Context: Hillah, Iraq_
 3. [A series of bombings across Iraq, including Baghdad, Hillah and Kirkuk, kills at least 93 people and wounds over 300 others. ](/news/2012/06/13/a-series-of-bombings-across-iraq-including-baghdad-hillah-and-kirkuk-kills-at-least-93-people-and-wounds-over-300-others.md) _Context: Hillah, Iraq_
 4. [ A suicide bomb explodes in Hillah, Iraq, killing 17 and wounding 49. ](/news/2006/11/19/a-suicide-bomb-explodes-in-hillah-iraq-killing-17-and-wounding-49.md) _Context: Hillah, Iraq_
-5. [The Iraqi Army and allied paramilitary fighters storm the ISIL-held city of Hawija in the Kirkuk Governorate. Hawija is one of the last remaining ISIL strongholds in Iraq. ](/news/2017/10/4/the-iraqi-army-and-allied-paramilitary-fighters-storm-the-isil-held-city-of-hawija-in-the-kirkuk-governorate-hawija-is-one-of-the-last-rema.md) _Context: Iraq_
+5. [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md) _Context: Iraq_

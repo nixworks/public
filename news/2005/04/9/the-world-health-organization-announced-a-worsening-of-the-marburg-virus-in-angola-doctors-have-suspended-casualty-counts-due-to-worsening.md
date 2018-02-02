@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/9/the-world-health-organization-announced-a-worsening-of-the-marburg-virus-in-angola-doctors-have-suspended-casualty-counts-due-to-worsening.html)  [JSON](/news/2005/04/9/the-world-health-organization-announced-a-worsening-of-the-marburg-virus-in-angola-doctors-have-suspended-casualty-counts-due-to-worsening.json)  [XML](/news/2005/04/9/the-world-health-organization-announced-a-worsening-of-the-marburg-virus-in-angola-doctors-have-suspended-casualty-counts-due-to-worsening.xml)  
+
 ### [2005-04-9](/news/2005/04/9/index.md)
 
+##### World Health Organization
 #  The World Health Organization announced a worsening of the Marburg virus in Angola. Doctors have suspended casualty counts due to worsening conditions; medical personnel are under increasing attacks by residents who blame doctors for the virus's spread. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2005/WORLD/africa/04/09/marburg.angola.reuters.reut/index.html)
 

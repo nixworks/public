@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/19/the-international-monetary-fund-approves-a-us-2-1-billion-rescue-package-for-iceland-following-its-financial-crisis.html)  [JSON](/news/2008/11/19/the-international-monetary-fund-approves-a-us-2-1-billion-rescue-package-for-iceland-following-its-financial-crisis.json)  [XML](/news/2008/11/19/the-international-monetary-fund-approves-a-us-2-1-billion-rescue-package-for-iceland-following-its-financial-crisis.xml)  
+
 ### [2008-11-19](/news/2008/11/19/index.md)
 
+##### International Monetary Fund
 #  The International Monetary Fund approves a US$2.1 billion rescue package for Iceland following its financial crisis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Wall Street Journal](http://online.wsj.com/article/SB122713217157642107.html?mod=googlenews_wsj)
 

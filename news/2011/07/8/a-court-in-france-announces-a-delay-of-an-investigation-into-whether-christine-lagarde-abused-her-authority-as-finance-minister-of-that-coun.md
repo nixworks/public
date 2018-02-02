@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/07/8/a-court-in-france-announces-a-delay-of-an-investigation-into-whether-christine-lagarde-abused-her-authority-as-finance-minister-of-that-coun.html)  [JSON](/news/2011/07/8/a-court-in-france-announces-a-delay-of-an-investigation-into-whether-christine-lagarde-abused-her-authority-as-finance-minister-of-that-coun.json)  [XML](/news/2011/07/8/a-court-in-france-announces-a-delay-of-an-investigation-into-whether-christine-lagarde-abused-her-authority-as-finance-minister-of-that-coun.xml)  
+
 ### [2011-07-8](/news/2011/07/8/index.md)
 
+##### France
 # A court in France announces a delay of an investigation into whether Christine Lagarde abused her authority as Finance Minister of that country. Lagarde is the new Director of the International Monetary Fund. 
 
 A possible inquiry into the handling of a 2007 French court case by Christine Lagarde, the new head of the I.M.F., has been set aside for the time being.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2011/07/09/business/global/french-court-delays-inquiry-into-lagardes-handling-of-2007-case.html?_r=1&ref=business)
+1. [The New York Times](https://www.nytimes.com/2011/07/09/business/global/french-court-delays-inquiry-into-lagardes-handling-of-2007-case.html?_r=1&ref=business)
 1. [Cover Image](https://static01.nyt.com/images/2011/07/09/business/Lagarde/Lagarde-thumbStandard.jpg)
 
 ### Related:

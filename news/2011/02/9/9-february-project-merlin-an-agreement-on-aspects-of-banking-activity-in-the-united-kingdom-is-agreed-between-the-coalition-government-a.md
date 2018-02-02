@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2011/02/9/9-february-project-merlin-an-agreement-on-aspects-of-banking-activity-in-the-united-kingdom-is-agreed-between-the-coalition-government-a.html)  [JSON](/news/2011/02/9/9-february-project-merlin-an-agreement-on-aspects-of-banking-activity-in-the-united-kingdom-is-agreed-between-the-coalition-government-a.json)  [XML](/news/2011/02/9/9-february-project-merlin-an-agreement-on-aspects-of-banking-activity-in-the-united-kingdom-is-agreed-between-the-coalition-government-a.xml)  
+
 ### [2011-02-9](/news/2011/02/9/index.md)
 
+##### Project Merlin
 # 9 February - Project Merlin, an agreement on aspects of banking activity in the United Kingdom, is agreed between the coalition government and the country's four major high street banks. 
 
 A long-awaited agreement with the largest UK banks on lending and bonuses is announced by the government.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-12402469)
 2. [BBC](http://www.bbc.co.uk/news/uk-politics-12411664)
 2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
+
+### Changes:
+
+1. [Project Merlin: 9 February - Project Merlin, an agreement on aspects of banking activity in the United Kingdom, is agreed between the coalition government and the country's four major high street banks. ](/news/2011/02/9/project-merlin-9-february-project-merlin-an-agreement-on-aspects-of-banking-activity-in-the-united-kingdom-is-agreed-between-the-coalit.md) _2017-08-27 03:32:15 (First version)_
+1. [9 February - Project Merlin, an agreement on aspects of banking activity in the United Kingdom, is agreed between the coalition government and the country's four major high street banks. ](/news/2011/02/9/9-february-project-merlin-an-agreement-on-aspects-of-banking-activity-in-the-united-kingdom-is-agreed-between-the-coalition-government-a.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ A long-awaited agreement with the largest UK banks on lending and bonuses is ann
 3. [In a confidential letter to Liberal Democrat leader Nick Clegg, the party's former leader of Liverpool City Council, Warren Bradley, urges Clegg to pull out of the coalition government before the Lib Dems "disappears into the annals of history". ](/news/2011/04/11/in-a-confidential-letter-to-liberal-democrat-leader-nick-clegg-the-party-s-former-leader-of-liverpool-city-council-warren-bradley-urges-c.md) _Context: government_
 4. [At a British Medical Association conference, delegates call for the coalition government to halt its plans to overhaul the National Health Service in England. However, they stop short of complete opposition to the proposals. ](/news/2011/03/15/at-a-british-medical-association-conference-delegates-call-for-the-coalition-government-to-halt-its-plans-to-overhaul-the-national-health-s.md) _Context: government_
 5. [The UK Government defends a decision not to include children under the age of five in this year's flu vaccination programme, saying the decision is for medical and not financial reasons. ](/news/2010/12/28/the-uk-government-defends-a-decision-not-to-include-children-under-the-age-of-five-in-this-year-s-flu-vaccination-programme-saying-the-deci.md) _Context: government_
-
-### Changes:
-
-1. [Project Merlin: 9 February - Project Merlin, an agreement on aspects of banking activity in the United Kingdom, is agreed between the coalition government and the country's four major high street banks. ](/news/2011/02/9/project-merlin-9-february-project-merlin-an-agreement-on-aspects-of-banking-activity-in-the-united-kingdom-is-agreed-between-the-coalit.md) _2017-08-27 03:32:15 (First version)_
-1. [9 February - Project Merlin, an agreement on aspects of banking activity in the United Kingdom, is agreed between the coalition government and the country's four major high street banks. ](/news/2011/02/9/9-february-project-merlin-an-agreement-on-aspects-of-banking-activity-in-the-united-kingdom-is-agreed-between-the-coalition-government-a.md) _(Current version)_

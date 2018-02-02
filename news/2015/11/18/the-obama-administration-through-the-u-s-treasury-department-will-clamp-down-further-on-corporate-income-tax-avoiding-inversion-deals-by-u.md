@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/11/18/the-obama-administration-through-the-u-s-treasury-department-will-clamp-down-further-on-corporate-income-tax-avoiding-inversion-deals-by-u.html)  [JSON](/news/2015/11/18/the-obama-administration-through-the-u-s-treasury-department-will-clamp-down-further-on-corporate-income-tax-avoiding-inversion-deals-by-u.json)  [XML](/news/2015/11/18/the-obama-administration-through-the-u-s-treasury-department-will-clamp-down-further-on-corporate-income-tax-avoiding-inversion-deals-by-u.xml)  
+
 ### [2015-11-18](/news/2015/11/18/index.md)
 
+##### Obama Administration
 # The Obama Administration through the U.S. Treasury Department will clamp down further on corporate income tax-avoiding inversion deals by U.S. companies with foreign rivals. There is a pending inversion deal between U.S. drug maker Pfizer Inc. and smaller Irish competitor Allergan, Plc. 
 
 The U.S. Treasury Department will clamp down further this week on corporate income tax-avoiding &quot;inversion&quot; deals by U.S. companies with foreign rivals, according to a letter seen by Reuters on Wednesday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/18/us-usa-tax-inversions-idUSKCN0T732U20151118?feedType=RSS&feedName=newsOne&google_editors_picks=true#QHUKoyyLUB0FkI0Q.97)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151118&t=2&i=1096025003&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAH1DS)
+1. [Reuters](https://www.reuters.com/article/2015/11/18/us-usa-tax-inversions-idUSKCN0T732U20151118?feedType=RSS&feedName=newsOne&google_editors_picks=true#QHUKoyyLUB0FkI0Q.97)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20151118&t=2&i=1096025003&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAH1DS)
 
 ### Related:
 
@@ -16,4 +20,4 @@ The U.S. Treasury Department will clamp down further this week on corporate inco
 2. [Pfizer Inc. decides to terminate its $160 billion merger with Allergan, Plc as officials in Washington crack down on corporate inversions. Pfizer will need to pay a $400 million fee to Allergan for expenses relating to the deal. ](/news/2016/04/5/pfizer-inc-decides-to-terminate-its-160-billion-merger-with-allergan-plc-as-officials-in-washington-crack-down-on-corporate-inversions-p.md) _Context: Allergan, Plc, Pfizer, corporate tax inversions_
 3. [The Obama administration's Treasury Department, in a move against corporate tax inversions, enacts regulations to combat a key tax-reduction technique known as earnings stripping. ](/news/2016/10/13/the-obama-administration-s-treasury-department-in-a-move-against-corporate-tax-inversions-enacts-regulations-to-combat-a-key-tax-reduction.md) _Context: United States Treasury Department, corporate tax inversions_
 4. [American pharmaceutical companies Pfizer and Allergan, Plc announce plans to merge to form the world's largest drug company. The merger is subject to approval from regulators in the U.S., European Union and elsewhere as well as approval by shareholders of both companies. If approved, the deal will reduce tax revenue paid to the U.S. by approximately $930 million. ](/news/2015/11/23/american-pharmaceutical-companies-pfizer-and-allergan-plc-announce-plans-to-merge-to-form-the-world-s-largest-drug-company-the-merger-is-s.md) _Context: Allergan, Plc, Pfizer_
-5. [The United States Treasury Department imposes sanctions on six Shahid Hemmat Industrial Group satellite companies following a recent Iranian rocket launch that the U.S. says breached United Nations Security Council Resolution 2231. ](/news/2017/07/28/the-united-states-treasury-department-imposes-sanctions-on-six-shahid-hemmat-industrial-group-satellite-companies-following-a-recent-iranian.md) _Context: United States Treasury Department_
+5. [Pharmaceutical company Pfizer discontinues research into treating patients with Alzheimer's disease and Parkinson's disease. [http:--www.telegraph.co.uk-science-2018-01-08-hunt-alzheimers-cure-suffers-heavy-blow-pfizer-pulls-research- "(The Telegraph)" ]](/news/2018/01/8/pharmaceutical-company-pfizer-discontinues-research-into-treating-patients-with-alzheimer-s-disease-and-parkinson-s-disease-http-www-tel.md) _Context: Pfizer_

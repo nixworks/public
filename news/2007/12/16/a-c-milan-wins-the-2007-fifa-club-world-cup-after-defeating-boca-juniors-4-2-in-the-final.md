@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/16/a-c-milan-wins-the-2007-fifa-club-world-cup-after-defeating-boca-juniors-4-2-in-the-final.html)  [JSON](/news/2007/12/16/a-c-milan-wins-the-2007-fifa-club-world-cup-after-defeating-boca-juniors-4-2-in-the-final.json)  [XML](/news/2007/12/16/a-c-milan-wins-the-2007-fifa-club-world-cup-after-defeating-boca-juniors-4-2-in-the-final.xml)  
+
 ### [2007-12-16](/news/2007/12/16/index.md)
 
+##### A.C. Milan
 #  A.C. Milan wins the 2007 FIFA Club World Cup after defeating Boca Juniors 4-2 in the final. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/sport2/hi/football/7145975.stm)
 

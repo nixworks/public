@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/9/the-international-atomic-energy-agency-votes-to-report-syria-to-the-united-nations-security-council-over-its-alleged-covert-nuclear-programm.html)  [JSON](/news/2011/06/9/the-international-atomic-energy-agency-votes-to-report-syria-to-the-united-nations-security-council-over-its-alleged-covert-nuclear-programm.json)  [XML](/news/2011/06/9/the-international-atomic-energy-agency-votes-to-report-syria-to-the-united-nations-security-council-over-its-alleged-covert-nuclear-programm.xml)  
+
 ### [2011-06-9](/news/2011/06/9/index.md)
 
+##### IAEA
 # The International Atomic Energy Agency votes to report Syria to the United Nations Security Council over its alleged covert nuclear programme. 
 
 Syria is to be reported to the UN Security Council over its alleged covert nuclear programme, amid increasing pressure over its crackdown on protests.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13717874)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52945000/jpg/_52945219_44600348.jpg)

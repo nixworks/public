@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/28/at-least-one-person-is-killed-and-another-four-injured-in-renewed-fighting-in-the-indian-city-of-kokrajhar-in-the-state-of-assam.html)  [JSON](/news/2012/08/28/at-least-one-person-is-killed-and-another-four-injured-in-renewed-fighting-in-the-indian-city-of-kokrajhar-in-the-state-of-assam.json)  [XML](/news/2012/08/28/at-least-one-person-is-killed-and-another-four-injured-in-renewed-fighting-in-the-indian-city-of-kokrajhar-in-the-state-of-assam.xml)  
+
 ### [2012-08-28](/news/2012/08/28/index.md)
 
+##### India
 # At least one person is killed and another four injured in renewed fighting in the Indian city of Kokrajhar in the state of Assam. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-19394421#)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61840000/jpg/_61840742_61840741.jpg)

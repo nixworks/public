@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/15/heavy-rainfall-causes-multiple-bus-crashes-that
 
 ### [2016-08-15](/news/2016/08/15/index.md)
 
+##### Kavrepalanchowk bus crashes
 # Heavy rainfall causes multiple bus crashes that kill at least 40 people and injure 86 in the Kavrepalanchowk bus crashes. 
 
 

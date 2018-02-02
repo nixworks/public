@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/5/the-corpse-of-a-partially-eaten-70-year-old-female-german-tourist-washes-up-on-sharm-el-sheikh-believed-to-have-been-killed-by-sharks-in-th.html)  [JSON](/news/2010/12/5/the-corpse-of-a-partially-eaten-70-year-old-female-german-tourist-washes-up-on-sharm-el-sheikh-believed-to-have-been-killed-by-sharks-in-th.json)  [XML](/news/2010/12/5/the-corpse-of-a-partially-eaten-70-year-old-female-german-tourist-washes-up-on-sharm-el-sheikh-believed-to-have-been-killed-by-sharks-in-th.xml)  
+
 ### [2010-12-5](/news/2010/12/5/index.md)
 
+##### Sharm el-Sheikh
 # The corpse of a partially eaten 70-year-old female German tourist washes up on Sharm el-Sheikh, believed to have been killed by sharks in the fifth attack this week. 
 
 Body of German tourist washes up on shore of Sharm el-Sheikh, just days after four divers were injured by sharks.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/2010125175914872666.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/5/2010125181134631633_20.jpg)

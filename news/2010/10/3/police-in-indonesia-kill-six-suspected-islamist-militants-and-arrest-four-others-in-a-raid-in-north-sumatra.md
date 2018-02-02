@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/3/police-in-indonesia-kill-six-suspected-islamist-militants-and-arrest-four-others-in-a-raid-in-north-sumatra.html)  [JSON](/news/2010/10/3/police-in-indonesia-kill-six-suspected-islamist-militants-and-arrest-four-others-in-a-raid-in-north-sumatra.json)  [XML](/news/2010/10/3/police-in-indonesia-kill-six-suspected-islamist-militants-and-arrest-four-others-in-a-raid-in-north-sumatra.xml)  
+
 ### [2010-10-3](/news/2010/10/3/index.md)
 
+##### Indonesia
 # Police in Indonesia kill six suspected Islamist militants and arrest four others in a raid in North Sumatra. 
 
 Four suspected terrorists were killed and another two were detained in a firefight with a police unit at a village in Deli Serdang regency on Saturday
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ia131Eh_8W6axWuhYJubYBrZw6lw?docId=CNG.7d5e8b96a2901608eeaea3e20bdd6446.461)
 2. [Jakarta Post](http://www.thejakartapost.com/news/2010/10/03/police-kill-four-suspects-north-sumatra-gunfight.html)

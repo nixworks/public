@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/16/iranian-state-television-allegedly-airs-an-interview-with-sakineh-mohammadi-ashtiani-claiming-that-she-has-not-been-tortured.html)  [JSON](/news/2010/09/16/iranian-state-television-allegedly-airs-an-interview-with-sakineh-mohammadi-ashtiani-claiming-that-she-has-not-been-tortured.json)  [XML](/news/2010/09/16/iranian-state-television-allegedly-airs-an-interview-with-sakineh-mohammadi-ashtiani-claiming-that-she-has-not-been-tortured.xml)  
+
 ### [2010-09-16](/news/2010/09/16/index.md)
 
+##### Iran
 # Iranian state television allegedly airs an interview with Sakineh Mohammadi Ashtiani claiming that she has not been tortured. 
 
 Iranian TV airs what it says is an interview with Sakineh Mohammadi Ashtiani, who faces being stoned to death, in which she denies being lashed for not wearing the veil.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11326583)
 2. [CNN](http://edition.cnn.com/2010/WORLD/meast/09/16/iran.stoning.lashing/)

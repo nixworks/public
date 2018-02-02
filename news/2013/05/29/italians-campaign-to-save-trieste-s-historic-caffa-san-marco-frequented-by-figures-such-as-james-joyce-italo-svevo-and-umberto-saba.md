@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/29/italians-campaign-to-save-trieste-s-historic-caffa-san-marco-frequented-by-figures-such-as-james-joyce-italo-svevo-and-umberto-saba.html)  [JSON](/news/2013/05/29/italians-campaign-to-save-trieste-s-historic-caffa-san-marco-frequented-by-figures-such-as-james-joyce-italo-svevo-and-umberto-saba.json)  [XML](/news/2013/05/29/italians-campaign-to-save-trieste-s-historic-caffa-san-marco-frequented-by-figures-such-as-james-joyce-italo-svevo-and-umberto-saba.xml)  
+
 ### [2013-05-29](/news/2013/05/29/index.md)
 
+##### Trieste
 # Italians campaign to save Trieste's historic Caffe San Marco, frequented by figures such as James Joyce, Italo Svevo and Umberto Saba. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2013/may/29/italian-trieste-caffe-san-marco)
 

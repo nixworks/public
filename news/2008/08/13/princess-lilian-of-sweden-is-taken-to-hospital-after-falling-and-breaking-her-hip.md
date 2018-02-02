@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/13/princess-lilian-of-sweden-is-taken-to-hospital-after-falling-and-breaking-her-hip.html)  [JSON](/news/2008/08/13/princess-lilian-of-sweden-is-taken-to-hospital-after-falling-and-breaking-her-hip.json)  [XML](/news/2008/08/13/princess-lilian-of-sweden-is-taken-to-hospital-after-falling-and-breaking-her-hip.xml)  
+
 ### [2008-08-13](/news/2008/08/13/index.md)
 
+##### Lilian of Sweden
 #  Princess Lilian of Sweden is taken to hospital after falling and breaking her hip. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Local](http://www.thelocal.se/13656/20080813/)
 

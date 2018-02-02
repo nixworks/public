@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/13/thailand-s-election-commission-fails-to-endorse-142-prospective-members-of-the-house-of-representatives-including-incoming-prime-minister-yi.html)  [JSON](/news/2011/07/13/thailand-s-election-commission-fails-to-endorse-142-prospective-members-of-the-house-of-representatives-including-incoming-prime-minister-yi.json)  [XML](/news/2011/07/13/thailand-s-election-commission-fails-to-endorse-142-prospective-members-of-the-house-of-representatives-including-incoming-prime-minister-yi.xml)  
+
 ### [2011-07-13](/news/2011/07/13/index.md)
 
+##### Thailand
 # Thailand's Election Commission fails to endorse 142 prospective members of the House of Representatives including incoming Prime Minister Yingluck Shinawatra and outgoing Prime Minister Abhisit Vejjajiva. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/election/246778/leading-names-in-limbo)
 

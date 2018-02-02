@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/28/italians-test-silvio-berlusconi-in-regional-elections.html)  [JSON](/news/2010/03/28/italians-test-silvio-berlusconi-in-regional-elections.json)  [XML](/news/2010/03/28/italians-test-silvio-berlusconi-in-regional-elections.xml)  
+
 ### [2010-03-28](/news/2010/03/28/index.md)
 
+##### Italy
 # Italians test Silvio Berlusconi in regional elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8591341.stm)
 

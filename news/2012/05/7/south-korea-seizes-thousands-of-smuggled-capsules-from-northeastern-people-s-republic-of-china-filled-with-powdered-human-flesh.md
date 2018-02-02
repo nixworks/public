@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/7/south-korea-seizes-thousands-of-smuggled-capsules-from-northeastern-people-s-republic-of-china-filled-with-powdered-human-flesh.html)  [JSON](/news/2012/05/7/south-korea-seizes-thousands-of-smuggled-capsules-from-northeastern-people-s-republic-of-china-filled-with-powdered-human-flesh.json)  [XML](/news/2012/05/7/south-korea-seizes-thousands-of-smuggled-capsules-from-northeastern-people-s-republic-of-china-filled-with-powdered-human-flesh.xml)  
+
 ### [2012-05-7](/news/2012/05/7/index.md)
 
+##### South Korea
 # South Korea seizes thousands of smuggled capsules from Northeastern People's Republic of China filled with powdered human flesh. 
 
 Officials seize thousands of smuggled capsules containing powdered flesh of fetuses from China thought to cure disease.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/05/201257142432164324.html)
 2. [IOL](http://www.iol.co.za/news/world/s-korea-seizes-pills-made-from-dead-babies-1.1290736)

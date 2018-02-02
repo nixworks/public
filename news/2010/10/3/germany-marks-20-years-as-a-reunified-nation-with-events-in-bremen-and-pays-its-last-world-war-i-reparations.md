@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/3/germany-marks-20-years-as-a-reunified-nation-with-events-in-bremen-and-pays-its-last-world-war-i-reparations.html)  [JSON](/news/2010/10/3/germany-marks-20-years-as-a-reunified-nation-with-events-in-bremen-and-pays-its-last-world-war-i-reparations.json)  [XML](/news/2010/10/3/germany-marks-20-years-as-a-reunified-nation-with-events-in-bremen-and-pays-its-last-world-war-i-reparations.xml)  
+
 ### [2010-10-3](/news/2010/10/3/index.md)
 
+##### Bremen
 # Germany marks 20 years as a reunified nation with events in Bremen and pays its last World War I reparations. 
 
 Germany marks 20 years as a reunified nation, with tens of thousands attending festivities in the city of Bremen.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/germany-marks-reunification-celebrations-20101003-162k7.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/20101039320963774.html)

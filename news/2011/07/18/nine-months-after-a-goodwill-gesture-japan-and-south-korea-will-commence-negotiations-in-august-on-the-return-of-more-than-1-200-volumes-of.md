@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/18/nine-months-after-a-goodwill-gesture-japan-and-south-korea-will-commence-negotiations-in-august-on-the-return-of-more-than-1-200-volumes-of.html)  [JSON](/news/2011/07/18/nine-months-after-a-goodwill-gesture-japan-and-south-korea-will-commence-negotiations-in-august-on-the-return-of-more-than-1-200-volumes-of.json)  [XML](/news/2011/07/18/nine-months-after-a-goodwill-gesture-japan-and-south-korea-will-commence-negotiations-in-august-on-the-return-of-more-than-1-200-volumes-of.xml)  
+
 ### [2011-07-18](/news/2011/07/18/index.md)
 
+##### Japan
 # Nine months after a goodwill gesture Japan and South Korea will commence negotiations in August on the return of more than 1,200 volumes of ancient Korean royal archives taken during Japanese rule between 1910 and 1945. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yonhap News](http://english.yonhapnews.co.kr/news/2011/07/18/64/0200000000AEN20110718002800315F.HTML)
 

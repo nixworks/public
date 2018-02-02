@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/13/chile-withdraws-its-ambassador-from-peru-for-consultations-after-peru-publishes-a-map-of-maritime-territory-claimed-by-both-countries.html)  [JSON](/news/2007/08/13/chile-withdraws-its-ambassador-from-peru-for-consultations-after-peru-publishes-a-map-of-maritime-territory-claimed-by-both-countries.json)  [XML](/news/2007/08/13/chile-withdraws-its-ambassador-from-peru-for-consultations-after-peru-publishes-a-map-of-maritime-territory-claimed-by-both-countries.xml)  
+
 ### [2007-08-13](/news/2007/08/13/index.md)
 
+##### Chile
 #  Chile withdraws its ambassador from Peru for consultations after Peru publishes a map of maritime territory claimed by both countries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via CNN](http://edition.cnn.com/2007/WORLD/americas/08/13/chile.peru.reut/index.html?eref=rss_world)
 

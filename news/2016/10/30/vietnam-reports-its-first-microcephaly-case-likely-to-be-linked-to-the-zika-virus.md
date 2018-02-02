@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/30/vietnam-reports-its-first-microcephaly-case-lik
 
 ### [2016-10-30](/news/2016/10/30/index.md)
 
+##### Zika virus outbreak timeline
 # Vietnam reports its first microcephaly case likely to be linked to the Zika virus. 
 
 Vietnamese authorities report a microcephaly case that it says is likely to be the country&#039;s first linked to the Zika virus.

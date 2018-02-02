@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/25/the-united-states-supreme-court-issues-three-5-ndash-4-split-decision-rulings-limiting-student-freedom-of-expression.html)  [JSON](/news/2007/06/25/the-united-states-supreme-court-issues-three-5-ndash-4-split-decision-rulings-limiting-student-freedom-of-expression.json)  [XML](/news/2007/06/25/the-united-states-supreme-court-issues-three-5-ndash-4-split-decision-rulings-limiting-student-freedom-of-expression.xml)  
+
 ### [2007-06-25](/news/2007/06/25/index.md)
 
+##### United States Supreme Court
 #  The United States Supreme Court issues three 5&ndash;4 split-decision rulings limiting student freedom of expression 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Guardian Unlimited](http://www.guardian.co.uk/worldlatest/story/0,,-6734595,00.html)
 2. [AP via Guardian Unlimited](http://www.guardian.co.uk/worldlatest/story/0,,-6734676,00.html)

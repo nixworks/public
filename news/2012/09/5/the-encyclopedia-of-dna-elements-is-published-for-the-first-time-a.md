@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/5/the-encyclopedia-of-dna-elements-is-published-for-the-first-time-a.html)  [JSON](/news/2012/09/5/the-encyclopedia-of-dna-elements-is-published-for-the-first-time-a.json)  [XML](/news/2012/09/5/the-encyclopedia-of-dna-elements-is-published-for-the-first-time-a.xml)  
+
 ### [2012-09-5](/news/2012/09/5/index.md)
 
+##### Encyclopedia of DNA Elements
 # The Encyclopedia of DNA Elements is published. For the first time, a 
 
 First they sequenced it. Now they have surveyed its hinterlands.
 
 
-### Source:
+### Sources:
 
 1. [ENCODE](http://encodeproject.org/ENCODE/)
 2. [Nature](http://www.nature.com/news/encode-the-human-encyclopaedia-1.11312)

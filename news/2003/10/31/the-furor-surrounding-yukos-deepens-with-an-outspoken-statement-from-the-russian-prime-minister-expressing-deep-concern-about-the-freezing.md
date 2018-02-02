@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/31/the-furor-surrounding-yukos-deepens-with-an-outspoken-statement-from-the-russian-prime-minister-expressing-deep-concern-about-the-freezing.html)  [JSON](/news/2003/10/31/the-furor-surrounding-yukos-deepens-with-an-outspoken-statement-from-the-russian-prime-minister-expressing-deep-concern-about-the-freezing.json)  [XML](/news/2003/10/31/the-furor-surrounding-yukos-deepens-with-an-outspoken-statement-from-the-russian-prime-minister-expressing-deep-concern-about-the-freezing.xml)  
+
 ### [2003-10-31](/news/2003/10/31/index.md)
 
+##### Yukos
 #  The furor surrounding Yukos deepens with an outspoken statement from the Russian Prime Minister expressing deep concern about the freezing of Yukos shares.
 
 

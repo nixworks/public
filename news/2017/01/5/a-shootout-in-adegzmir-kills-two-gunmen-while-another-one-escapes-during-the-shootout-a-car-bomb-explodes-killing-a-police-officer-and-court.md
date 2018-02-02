@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/5/a-shootout-in-adegzmir-kills-two-gunmen-while-an
 
 ### [2017-01-5](/news/2017/01/5/index.md)
 
+##### Kurdish-Turkish conflict
 # A shootout in Izmir kills two gunmen while another one escapes. During the shootout a car bomb explodes, killing a police officer and court employee. 
 
 Car bomb detonates outside court complex in coastal city, killing police officer and court employee

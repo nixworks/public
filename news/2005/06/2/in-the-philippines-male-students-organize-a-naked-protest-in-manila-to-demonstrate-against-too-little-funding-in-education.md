@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/2/in-the-philippines-male-students-organize-a-naked-protest-in-manila-to-demonstrate-against-too-little-funding-in-education.html)  [JSON](/news/2005/06/2/in-the-philippines-male-students-organize-a-naked-protest-in-manila-to-demonstrate-against-too-little-funding-in-education.json)  [XML](/news/2005/06/2/in-the-philippines-male-students-organize-a-naked-protest-in-manila-to-demonstrate-against-too-little-funding-in-education.xml)  
+
 ### [2005-06-2](/news/2005/06/2/index.md)
 
+##### Philippines
 #  In the Philippines, male students organize a naked protest in Manila to demonstrate against too little funding in education 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABS-CBN, Philippines](http://www.abs-cbnnews.com/topofthehour.aspx?StoryId=6752)
 

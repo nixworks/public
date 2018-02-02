@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/13/malaysia-crowns-its-thirteenth-king-the-second-youngest-ever-in-a-traditional-ceremony-in-kuala-lumpur-sultan-mizan-zainal-abidin-44.html)  [JSON](/news/2006/12/13/malaysia-crowns-its-thirteenth-king-the-second-youngest-ever-in-a-traditional-ceremony-in-kuala-lumpur-sultan-mizan-zainal-abidin-44.json)  [XML](/news/2006/12/13/malaysia-crowns-its-thirteenth-king-the-second-youngest-ever-in-a-traditional-ceremony-in-kuala-lumpur-sultan-mizan-zainal-abidin-44.xml)  
+
 ### [2006-12-13](/news/2006/12/13/index.md)
 
+##### Mizan Zainal Abidin
 #  Malaysia crowns its thirteenth king - the second youngest ever - in a traditional ceremony in Kuala Lumpur. Sultan Mizan Zainal Abidin, 44, takes over from outgoing King Tuanku Syed Sirajuddin, 63, whose five-year term as monarch ended on December 12. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/6174781.stm)
 

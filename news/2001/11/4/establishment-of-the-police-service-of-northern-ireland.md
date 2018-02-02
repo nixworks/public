@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/11/4/establishment-of-the-police-service-of-northern-ireland.html)  [JSON](/news/2001/11/4/establishment-of-the-police-service-of-northern-ireland.json)  [XML](/news/2001/11/4/establishment-of-the-police-service-of-northern-ireland.xml)  
+
 ### [2001-11-4](/news/2001/11/4/index.md)
 
+##### Police Service of Northern Ireland
 #  Establishment of the Police Service of Northern Ireland
 
 

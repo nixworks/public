@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/20/the-whakaari-white-island-volcano-in-the-bay-of-plenty-off-new-zealand-s-north-island-erupts.html)  [JSON](/news/2013/08/20/the-whakaari-white-island-volcano-in-the-bay-of-plenty-off-new-zealand-s-north-island-erupts.json)  [XML](/news/2013/08/20/the-whakaari-white-island-volcano-in-the-bay-of-plenty-off-new-zealand-s-north-island-erupts.xml)  
+
 ### [2013-08-20](/news/2013/08/20/index.md)
 
+##### Whakaari / White Island
 # The Whakaari - White Island volcano in the Bay of Plenty off New Zealand's North Island erupts. 
 
 GNS Science says it wouldn&#39;t be surprised if there are more eruptions at White Island in the next few days.
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand](http://www.radionz.co.nz/news/national/217417/further-eruptions-on-white-island-possible)
 1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)

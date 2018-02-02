@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/26/danish-prime-minister-lars-lokke-rasmussen-calls-for-parliamentary-elections-to-be-held-on-september-15-nearly-two-months-ahead-of-the-sch.html)  [JSON](/news/2011/08/26/danish-prime-minister-lars-lokke-rasmussen-calls-for-parliamentary-elections-to-be-held-on-september-15-nearly-two-months-ahead-of-the-sch.json)  [XML](/news/2011/08/26/danish-prime-minister-lars-lokke-rasmussen-calls-for-parliamentary-elections-to-be-held-on-september-15-nearly-two-months-ahead-of-the-sch.xml)  
+
 ### [2011-08-26](/news/2011/08/26/index.md)
 
+##### Lars Lkke Rasmussen
 # Danish Prime Minister Lars Lkke Rasmussen calls for Parliamentary elections to be held on September 15 - nearly two months ahead of the scheduled date. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-08/26/c_131077323.htm)
 

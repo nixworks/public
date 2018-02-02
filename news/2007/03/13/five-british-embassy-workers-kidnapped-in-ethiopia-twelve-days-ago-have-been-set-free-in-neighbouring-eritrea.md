@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/13/five-british-embassy-workers-kidnapped-in-ethiopia-twelve-days-ago-have-been-set-free-in-neighbouring-eritrea.html)  [JSON](/news/2007/03/13/five-british-embassy-workers-kidnapped-in-ethiopia-twelve-days-ago-have-been-set-free-in-neighbouring-eritrea.json)  [XML](/news/2007/03/13/five-british-embassy-workers-kidnapped-in-ethiopia-twelve-days-ago-have-been-set-free-in-neighbouring-eritrea.xml)  
+
 ### [2007-03-13](/news/2007/03/13/index.md)
 
+##### Ethiopia
 #  Five British Embassy workers kidnapped in Ethiopia twelve days ago have been set free in neighbouring Eritrea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/tol/news/world/africa/article1509988.ece)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/3/media-reports-indicate-that-former-national-secu
 
 ### [2017-04-3](/news/2017/04/3/index.md)
 
+##### Trump Tower wiretapping allegations
 # Media reports indicate that former National Security Advisor Susan Rice improperly requested the unmasking of some American names, including those of Donald Trump's campaign staff, that had been incidentally collected during national security investigations. A National Security Adviser may request unmasking if specific criteria are met. A Rice associate denies that the unmasking was improper. 
 
 Multiple sources tell Fox News that Susan Rice, former national security adviser under then-President Barack Obama, requested to unmask the names of Trump transition officials caught up in surveillance.

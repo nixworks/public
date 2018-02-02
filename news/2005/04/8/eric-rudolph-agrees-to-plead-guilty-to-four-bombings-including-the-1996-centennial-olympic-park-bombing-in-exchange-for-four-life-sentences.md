@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2005/04/8/eric-rudolph-agrees-to-plead-guilty-to-four-bombings-including-the-1996-centennial-olympic-park-bombing-in-exchange-for-four-life-sentences.html)  [JSON](/news/2005/04/8/eric-rudolph-agrees-to-plead-guilty-to-four-bombings-including-the-1996-centennial-olympic-park-bombing-in-exchange-for-four-life-sentences.json)  [XML](/news/2005/04/8/eric-rudolph-agrees-to-plead-guilty-to-four-bombings-including-the-1996-centennial-olympic-park-bombing-in-exchange-for-four-life-sentences.xml)  
+
 ### [2005-04-8](/news/2005/04/8/index.md)
 
-#  Eric Rudolph agrees to plead guilty to four bombings including the 1996 Centennial Olympic Park bombing in exchange for four life sentences. [http:--news.yahoo.com-news?tmpl=story&e=4&u=-ap-20050408-ap_on_re_us-eric_rudolph&sid=84439559 (AP-Yahoo! News)] (Link dead as of 22:29, 14 January 2007 (UTC))
+##### Eric Rudolph
+#  Eric Rudolph agrees to plead guilty to four bombings including the 1996 Centennial Olympic Park bombing in exchange for four life sentences. [https:--news.yahoo.com-news?tmpl=story&e=4&u=-ap-20050408-ap_on_re_us-eric_rudolph&sid=84439559 (AP-Yahoo! News)] (Link dead as of 22:29, 14 January 2007 (UTC))
 
 
 

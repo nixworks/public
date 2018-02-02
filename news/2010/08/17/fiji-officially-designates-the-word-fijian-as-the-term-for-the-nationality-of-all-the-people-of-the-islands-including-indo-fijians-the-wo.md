@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/17/fiji-officially-designates-the-word-fijian-as-the-term-for-the-nationality-of-all-the-people-of-the-islands-including-indo-fijians-the-wo.html)  [JSON](/news/2010/08/17/fiji-officially-designates-the-word-fijian-as-the-term-for-the-nationality-of-all-the-people-of-the-islands-including-indo-fijians-the-wo.json)  [XML](/news/2010/08/17/fiji-officially-designates-the-word-fijian-as-the-term-for-the-nationality-of-all-the-people-of-the-islands-including-indo-fijians-the-wo.xml)  
+
 ### [2010-08-17](/news/2010/08/17/index.md)
 
+##### Fiji
 # Fiji officially designates the word "Fijian" as the term for the nationality of all the people of the islands including Indo-Fijians. The word was previously used only for indigenous inhabitants. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fijivillage](http://www.fijivillage.com/?mod=story&id=1708108a73366fc13f42302ebc83cc)
 2. [People's Daily](http://english.peopledaily.com.cn/90001/90777/90851/7107203.html)

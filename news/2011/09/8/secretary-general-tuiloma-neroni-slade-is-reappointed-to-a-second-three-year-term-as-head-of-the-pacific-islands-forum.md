@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/8/secretary-general-tuiloma-neroni-slade-is-reappointed-to-a-second-three-year-term-as-head-of-the-pacific-islands-forum.html)  [JSON](/news/2011/09/8/secretary-general-tuiloma-neroni-slade-is-reappointed-to-a-second-three-year-term-as-head-of-the-pacific-islands-forum.json)  [XML](/news/2011/09/8/secretary-general-tuiloma-neroni-slade-is-reappointed-to-a-second-three-year-term-as-head-of-the-pacific-islands-forum.xml)  
+
 ### [2011-09-8](/news/2011/09/8/index.md)
 
+##### Tuiloma Neroni Slade
 # Secretary General Tuiloma Neroni Slade is reappointed to a second, three-year term as head of the Pacific Islands Forum. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fiji Times](http://www.fijitimes.com/story.aspx?id=180093)
 

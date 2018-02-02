@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/24/former-egyptian-president-hosni-mubarak-is-rele
 
 ### [2017-03-24](/news/2017/03/24/index.md)
 
+##### Egypt
 # Former Egyptian President Hosni Mubarak is released from detention in Cairo. 
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/14/more-than-2-000-migrants-are-rescued-from-the-m
 
 ### [2017-04-14](/news/2017/04/14/index.md)
 
+##### European migrant crisis
 # More than 2,000 migrants are rescued from the Mediterranean Sea off the coast of Libya. 
 
  More than 2,000 migrants trying to reach Europe were plucked from the Mediterranean on Friday in a series of dramatic rescues and one person was found dead, of

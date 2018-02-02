@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/08/5/microsoft-has-announced-that-it-is-to-make-some-concessions-towards-the-proposed-final-settlement-of-the-united-states-v-microsoft-case-a.html)  [JSON](/news/2002/08/5/microsoft-has-announced-that-it-is-to-make-some-concessions-towards-the-proposed-final-settlement-of-the-united-states-v-microsoft-case-a.json)  [XML](/news/2002/08/5/microsoft-has-announced-that-it-is-to-make-some-concessions-towards-the-proposed-final-settlement-of-the-united-states-v-microsoft-case-a.xml)  
+
 ### [2002-08-5](/news/2002/08/5/index.md)
 
+##### Microsoft
 #  Microsoft has announced that it is to make some concessions towards the proposed final settlement of the United States v. Microsoft case, ahead of the judge's verdict.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/16/the-people-s-republic-of-china-praises-the-united-nations-commission-on-human-rights-decision-to-block-a-u-s-motion-to-condemn-beijing-s.html)  [JSON](/news/2004/04/16/the-people-s-republic-of-china-praises-the-united-nations-commission-on-human-rights-decision-to-block-a-u-s-motion-to-condemn-beijing-s.json)  [XML](/news/2004/04/16/the-people-s-republic-of-china-praises-the-united-nations-commission-on-human-rights-decision-to-block-a-u-s-motion-to-condemn-beijing-s.xml)  
+
 ### [2004-04-16](/news/2004/04/16/index.md)
 
+##### China
 #  The People's Republic of China praises the United Nations Commission on Human Rights' decision to block a U.S. motion to condemn Beijing's human rights record. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA](http://www.voanews.com/article.cfm?objectID=3293B3DE-4049-4BD5-B00BB93A923B8086&title=Beijing%20Hails%20UNCHR%20Decision%20to%20Block%20Anti%2DChina%20Motion&catOID=45C9C78B-88AD-11D4-A57200A0CC5EE46C&categoryname=Asia%20Pacific)
 

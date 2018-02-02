@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/28/the-eastern-span-of-the-san-francisco-bay-bridge-closes-forever-as-construction-crews-finish-the-replacement-the-new-span-is-scheduled-to-o.html)  [JSON](/news/2013/08/28/the-eastern-span-of-the-san-francisco-bay-bridge-closes-forever-as-construction-crews-finish-the-replacement-the-new-span-is-scheduled-to-o.json)  [XML](/news/2013/08/28/the-eastern-span-of-the-san-francisco-bay-bridge-closes-forever-as-construction-crews-finish-the-replacement-the-new-span-is-scheduled-to-o.xml)  
+
 ### [2013-08-28](/news/2013/08/28/index.md)
 
+##### San Francisco Bay Bridge
 # The eastern span of the San Francisco Bay Bridge closes forever as construction crews finish the replacement. The new span is scheduled to open Tuesday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abclocal.go.com/kgo/story?section=resources/traffic&id=9221668)
 

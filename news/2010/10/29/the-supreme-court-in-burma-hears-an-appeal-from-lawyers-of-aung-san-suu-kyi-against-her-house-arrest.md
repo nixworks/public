@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/29/the-supreme-court-in-burma-hears-an-appeal-from-lawyers-of-aung-san-suu-kyi-against-her-house-arrest.html)  [JSON](/news/2010/10/29/the-supreme-court-in-burma-hears-an-appeal-from-lawyers-of-aung-san-suu-kyi-against-her-house-arrest.json)  [XML](/news/2010/10/29/the-supreme-court-in-burma-hears-an-appeal-from-lawyers-of-aung-san-suu-kyi-against-her-house-arrest.xml)  
+
 ### [2010-10-29](/news/2010/10/29/index.md)
 
+##### Burma
 # The Supreme Court in Burma hears an appeal from lawyers of Aung San Suu Kyi against her house arrest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11650538)
 2. [Bangkok Post](http://www.bangkokpost.com/breakingnews/203813/burma-supreme-court-to-hear-suu-kyi-appeal)

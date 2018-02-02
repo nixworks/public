@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/24/a-cache-of-over-7-000-stolen-firearms-is-discovered-by-law-enforcement-in-the-u-s-state-of-south-carolina.html)  [JSON](/news/2015/10/24/a-cache-of-over-7-000-stolen-firearms-is-discovered-by-law-enforcement-in-the-u-s-state-of-south-carolina.json)  [XML](/news/2015/10/24/a-cache-of-over-7-000-stolen-firearms-is-discovered-by-law-enforcement-in-the-u-s-state-of-south-carolina.xml)  
+
 ### [2015-10-24](/news/2015/10/24/index.md)
 
+##### law enforcement
 # A cache of over 7,000 stolen firearms is discovered by law enforcement in the U.S. state of South Carolina. 
 
 In his 30 years of law enforcement, about the largest illegal stash of weapons Chesterfield County, S.C., Sheriff Jay Brooks ever investigated was 50 guns.
 
 
-### Source:
+### Sources:
 
 1. [Charlotte Observer](http://www.charlotteobserver.com/news/local/article41313024.html)
 1. [Cover Image](http://www.charlotteobserver.com/news/local/6eldmf/picture41336475/ALTERNATES/LANDSCAPE_1140/ManyGuns2)

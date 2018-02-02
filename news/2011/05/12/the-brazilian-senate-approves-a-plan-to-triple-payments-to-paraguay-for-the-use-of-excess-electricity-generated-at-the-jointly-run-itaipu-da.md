@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/12/the-brazilian-senate-approves-a-plan-to-triple-payments-to-paraguay-for-the-use-of-excess-electricity-generated-at-the-jointly-run-itaipu-da.html)  [JSON](/news/2011/05/12/the-brazilian-senate-approves-a-plan-to-triple-payments-to-paraguay-for-the-use-of-excess-electricity-generated-at-the-jointly-run-itaipu-da.json)  [XML](/news/2011/05/12/the-brazilian-senate-approves-a-plan-to-triple-payments-to-paraguay-for-the-use-of-excess-electricity-generated-at-the-jointly-run-itaipu-da.xml)  
+
 ### [2011-05-12](/news/2011/05/12/index.md)
 
+##### Brazil
 # The Brazilian Senate approves a plan to triple payments to Paraguay for the use of excess electricity generated at the jointly-run Itaipu Dam. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20110512-708927.html)
 

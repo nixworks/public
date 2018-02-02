@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/15/india-the-defending-champions-and-favorites-at-the-2009-icc-world-twenty20-are-defeated-by-england.html)  [JSON](/news/2009/06/15/india-the-defending-champions-and-favorites-at-the-2009-icc-world-twenty20-are-defeated-by-england.json)  [XML](/news/2009/06/15/india-the-defending-champions-and-favorites-at-the-2009-icc-world-twenty20-are-defeated-by-england.xml)  
+
 ### [2009-06-15](/news/2009/06/15/index.md)
 
+##### India
 #  India, the defending champions and favorites at the 2009 ICC World Twenty20, are defeated by England. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/cricket/7484861.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/19/war-in-somalia-somalia-s-presidential-palace-is-hit-by-two-mortar-shells-it-s-unknown-if-somali-president-abdullahi-yusuf-was-inside-duri.html)  [JSON](/news/2007/01/19/war-in-somalia-somalia-s-presidential-palace-is-hit-by-two-mortar-shells-it-s-unknown-if-somali-president-abdullahi-yusuf-was-inside-duri.json)  [XML](/news/2007/01/19/war-in-somalia-somalia-s-presidential-palace-is-hit-by-two-mortar-shells-it-s-unknown-if-somali-president-abdullahi-yusuf-was-inside-duri.xml)  
+
 ### [2007-01-19](/news/2007/01/19/index.md)
 
+##### War in Somalia
 #  War in Somalia: Somalia's presidential palace is hit by two mortar shells. It's unknown if Somali President Abdullahi Yusuf was inside during the attack. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/africa/01/19/somalia.reut/index.html)
 

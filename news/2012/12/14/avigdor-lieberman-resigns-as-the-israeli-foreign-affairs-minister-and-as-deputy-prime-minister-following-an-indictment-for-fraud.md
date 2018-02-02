@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/14/avigdor-lieberman-resigns-as-the-israeli-foreign-affairs-minister-and-as-deputy-prime-minister-following-an-indictment-for-fraud.html)  [JSON](/news/2012/12/14/avigdor-lieberman-resigns-as-the-israeli-foreign-affairs-minister-and-as-deputy-prime-minister-following-an-indictment-for-fraud.json)  [XML](/news/2012/12/14/avigdor-lieberman-resigns-as-the-israeli-foreign-affairs-minister-and-as-deputy-prime-minister-following-an-indictment-for-fraud.xml)  
+
 ### [2012-12-14](/news/2012/12/14/index.md)
 
+##### Avigdor Lieberman
 # Avigdor Lieberman resigns as the Israeli Foreign Affairs Minister and as Deputy Prime Minister following an indictment for fraud. 
 
 Israeli Foreign Minister Avigdor Lieberman resigns after prosecutors decide to charge him with breach of trust.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20731396)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64748000/jpg/_64748808_64748807.jpg)

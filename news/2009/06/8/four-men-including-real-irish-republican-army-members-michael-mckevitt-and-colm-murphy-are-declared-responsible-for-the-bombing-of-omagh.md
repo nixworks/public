@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/8/four-men-including-real-irish-republican-army-members-michael-mckevitt-and-colm-murphy-are-declared-responsible-for-the-bombing-of-omagh.html)  [JSON](/news/2009/06/8/four-men-including-real-irish-republican-army-members-michael-mckevitt-and-colm-murphy-are-declared-responsible-for-the-bombing-of-omagh.json)  [XML](/news/2009/06/8/four-men-including-real-irish-republican-army-members-michael-mckevitt-and-colm-murphy-are-declared-responsible-for-the-bombing-of-omagh.xml)  
+
 ### [2009-06-8](/news/2009/06/8/index.md)
 
+##### Real Irish Republican Army
 #  Four men, including Real Irish Republican Army members Michael McKevitt and Colm Murphy, are declared responsible for the bombing of Omagh, County Tyrone, Northern Ireland, in 1998. 
 
 Four of the five men being sued by the families of the Omagh bomb victims have been found liable for the August 1998 attack.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0608/omagh.html)
 2. [Reuters](http://in.reuters.com/article/worldNews/idINIndia-40164020090608)

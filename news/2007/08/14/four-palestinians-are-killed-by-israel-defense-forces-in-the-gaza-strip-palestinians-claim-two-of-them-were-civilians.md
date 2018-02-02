@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/14/four-palestinians-are-killed-by-israel-defense-forces-in-the-gaza-strip-palestinians-claim-two-of-them-were-civilians.html)  [JSON](/news/2007/08/14/four-palestinians-are-killed-by-israel-defense-forces-in-the-gaza-strip-palestinians-claim-two-of-them-were-civilians.json)  [XML](/news/2007/08/14/four-palestinians-are-killed-by-israel-defense-forces-in-the-gaza-strip-palestinians-claim-two-of-them-were-civilians.xml)  
+
 ### [2007-08-14](/news/2007/08/14/index.md)
 
+##### Palestinians
 #  Four Palestinians are killed by Israel Defense Forces in the Gaza Strip. Palestinians claim two of them were civilians. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6945299.stm)
 

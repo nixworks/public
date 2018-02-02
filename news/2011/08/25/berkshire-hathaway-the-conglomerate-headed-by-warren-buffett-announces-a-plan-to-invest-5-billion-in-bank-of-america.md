@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/25/berkshire-hathaway-the-conglomerate-headed-by-warren-buffett-announces-a-plan-to-invest-5-billion-in-bank-of-america.html)  [JSON](/news/2011/08/25/berkshire-hathaway-the-conglomerate-headed-by-warren-buffett-announces-a-plan-to-invest-5-billion-in-bank-of-america.json)  [XML](/news/2011/08/25/berkshire-hathaway-the-conglomerate-headed-by-warren-buffett-announces-a-plan-to-invest-5-billion-in-bank-of-america.xml)  
+
 ### [2011-08-25](/news/2011/08/25/index.md)
 
+##### Berkshire Hathaway Inc.
 # Berkshire Hathaway, the conglomerate headed by Warren Buffett, announces a plan to invest $5 billion in Bank of America. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [DealBook](http://dealbook.nytimes.com/2011/08/25/buffett-to-invest-5-billion-in-bank-of-america/)
 

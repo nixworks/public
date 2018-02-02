@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/8/israel-makes-the-first-permanent-appointment-of-an-arab-to-its-supreme-court-as-salim-jubran-is-selected-unanimously-esther-hayut-and-elya.html)  [JSON](/news/2004/05/8/israel-makes-the-first-permanent-appointment-of-an-arab-to-its-supreme-court-as-salim-jubran-is-selected-unanimously-esther-hayut-and-elya.json)  [XML](/news/2004/05/8/israel-makes-the-first-permanent-appointment-of-an-arab-to-its-supreme-court-as-salim-jubran-is-selected-unanimously-esther-hayut-and-elya.xml)  
+
 ### [2004-05-8](/news/2004/05/8/index.md)
 
+##### Israel
 #  Israel makes the first permanent appointment of an Arab to its Supreme Court as Salim Jubran is selected unanimously; Esther Hayut and Elyakim Rubinstein are also selected unanimously. Edna Arbel, the former state prosecutor who recommended indicting Prime Minister Ariel Sharon on bribery charges, is selected amongst considerably more controversy and opposition. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/hasen/spages/424730.html)
 

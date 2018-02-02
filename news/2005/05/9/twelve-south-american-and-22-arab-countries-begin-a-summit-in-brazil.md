@@ -1,22 +1,26 @@
+
+Formats: [HTML](/news/2005/05/9/twelve-south-american-and-22-arab-countries-begin-a-summit-in-brazil.html)  [JSON](/news/2005/05/9/twelve-south-american-and-22-arab-countries-begin-a-summit-in-brazil.json)  [XML](/news/2005/05/9/twelve-south-american-and-22-arab-countries-begin-a-summit-in-brazil.xml)  
+
 ### [2005-05-9](/news/2005/05/9/index.md)
 
+##### South America
 #  Twelve South American and 22 Arab countries begin a summit in Brazil. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [Agencia Estado Brazil](http://www.aebrazil.com/highlights/2005/mai/09/84.htm)
 2. [Arabic News](http://www.arabicnews.com/ansub/Daily/Day/050509/2005050920.html)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=acjRcP6sMGNY&refer=latin_america)
-4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8432204)
-4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000086&sid=acjRcP6sMGNY&refer=latin_america)
+4. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8432204)
+4. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
 1. [ The leaders of Brazil, Bolivia, and Chile agree to build a highway by 2009 that will link the Atlantic (in Santos, Brazil) and the Pacific (in Iquique, Chile) coasts of South America. ](/news/2007/12/17/the-leaders-of-brazil-bolivia-and-chile-agree-to-build-a-highway-by-2009-that-will-link-the-atlantic-in-santos-brazil-and-the-pacific.md) _Context: Brazil, South America_
-2. [In the town of Janauba, Minas Gerais state, Brazil, a recently dismissed security guard set fire to a childcare center, killing at least four children and a teacher and leaving 25 others, mostly children aged four and five, injured. ](/news/2017/10/5/in-the-town-of-janaaoba-minas-gerais-state-brazil-a-recently-dismissed-security-guard-set-fire-to-a-childcare-center-killing-at-least-fo.md) _Context: Brazil_
-3. [Brazilian police detain fugitive Italian former left-wing guerrilla and convicted murderer Cesare Battisti, as he was attempting to flee across the border into Bolivia to avoid extradition back to Italy and facing his life sentence prison term for four murders in the 1970s. ](/news/2017/10/4/brazilian-police-detain-fugitive-italian-former-left-wing-guerrilla-and-convicted-murderer-cesare-battisti-as-he-was-attempting-to-flee-acr.md) _Context: Brazil_
-4. [Brazilian prosecutor Rodrigo Janot files charges in the Supreme Court against officials in President Michel Temer's Brazilian Democratic Movement Party accusing them of forming a criminal organization. Earlier the Court said, next week, it will consider Temer's request to block Janot from issuing further charges. ](/news/2017/09/8/brazilian-prosecutor-rodrigo-janot-files-charges-in-the-supreme-court-against-officials-in-president-michel-temeras-brazilian-democratic-m.md) _Context: Brazil_
-5. [Pope Francis arrives in Colombia for a five-day visit. In early 2016, Francis promised he would visit the South American country once a civil war peace agreement was in place. ](/news/2017/09/6/pope-francis-arrives-in-colombia-for-a-five-day-visit-in-early-2016-francis-promised-he-would-visit-the-south-american-country-once-a-civi.md) _Context: South America_
+2. [The state government of Minas Gerais, Brazil, declares a health emergency in three areas, Belo Horizonte, Itabira and Ponte Nova, over an outbreak of yellow fever. ](/news/2018/01/20/the-state-government-of-minas-gerais-brazil-declares-a-health-emergency-in-three-areas-belo-horizonte-itabira-and-ponte-nova-over-an-ou.md) _Context: Brazil_
+3. [Fifteen people are injured and an infant is killed after a car hits a group of pedestrians near Copacabana Beach in Rio de Janeiro, Brazil. The police report that the driver had an epileptic seizure. ](/news/2018/01/19/fifteen-people-are-injured-and-an-infant-is-killed-after-a-car-hits-a-group-of-pedestrians-near-copacabana-beach-in-rio-de-janeiro-brazil.md) _Context: Brazil_
+4. [An apparent gang riot at Colonia Agroindustrial prison in Goiania, Brazil, results in nine deaths and 14 inmates injured. Authorities report 233 prisoners escaped but now only 95 prisoners remain at large. ](/news/2018/01/1/an-apparent-gang-riot-at-colonia-agroindustrial-prison-in-goiac-nia-brazil-results-in-nine-deaths-and-14-inmates-injured-authorities-repor.md) _Context: Brazil_
+5. [Ecuadorian Vice President Jorge Glas is sentenced to six years imprisonment for financial corruption involving the Brazilian construction company Odebrecht. The decision will not be enforced until the court confirms the ruling. The court's decision can be appealed. [http:--www.bbc.com-news-world-latin-america-42346881 ("BBC News")] [https:--www.eluniverso.com-noticias-2017-12-13-nota-6525058-jorge-glas-sentenciado-como-culpable-6-anos-prision-caso-odebrecht ("El Universo")] {{es icon}}](/news/2017/12/13/ecuadorian-vice-president-jorge-glas-is-sentenced-to-six-years-imprisonment-for-financial-corruption-involving-the-brazilian-construction-co.md) _Context: Brazil_

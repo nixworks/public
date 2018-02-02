@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/3/the-truce-between-muqtada-al-sadr-s-militia-and-occupation-troops-ends-as-us-troops-surround-his-house-in-najaf-to-arrest-him.html)  [JSON](/news/2004/08/3/the-truce-between-muqtada-al-sadr-s-militia-and-occupation-troops-ends-as-us-troops-surround-his-house-in-najaf-to-arrest-him.json)  [XML](/news/2004/08/3/the-truce-between-muqtada-al-sadr-s-militia-and-occupation-troops-ends-as-us-troops-surround-his-house-in-najaf-to-arrest-him.xml)  
+
 ### [2004-08-3](/news/2004/08/3/index.md)
 
+##### Muqtada al-Sadr
 #  The truce between Muqtada al-Sadr's militia and occupation troops ends as US troops surround his house in Najaf to arrest him. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3528992.stm)
 

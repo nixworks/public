@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/12/in-last-week-s-meeting-between-indonesian-presi
 
 ### [2016-09-12](/news/2016/09/12/index.md)
 
+##### Indonesia-Philippines relations
 # In last week's meeting between Indonesian president Joko Widodo and Philippine president Rodrigo Duterte, Widodo today says that Duterte allegedly said that he '(would) not interfere' in the execution of accused drug smuggler and Philippine national Mary Jane Veloso. However, today a "Manila Bulletin" article says that Manny Pinol, the Philippines Agriculture Secretary, states that Duterte actually asked for clemency for Veloso. 
 
 

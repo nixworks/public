@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/19/u-s-president-george-w-bush-arrives-at-the-asia-pacific-economic-cooperation-summit-in-santiago-de-chile-for-talks-with-china-and-other-n.html)  [JSON](/news/2004/11/19/u-s-president-george-w-bush-arrives-at-the-asia-pacific-economic-cooperation-summit-in-santiago-de-chile-for-talks-with-china-and-other-n.json)  [XML](/news/2004/11/19/u-s-president-george-w-bush-arrives-at-the-asia-pacific-economic-cooperation-summit-in-santiago-de-chile-for-talks-with-china-and-other-n.xml)  
+
 ### [2004-11-19](/news/2004/11/19/index.md)
 
+##### George W. Bush
 #  U.S. President George W. Bush arrives at the Asia-Pacific Economic Cooperation summit in Santiago de Chile for talks with China and other nations. The summit's agenda includes nuclear proliferation and new free trade agreements, particularly on agriculture. Bush hopes to revive six-party talks on North Korea's nuclear program and promote the "War on Terrorism". The Chinese delegation ask Bush to take "all measures necessary" to halt the slide in value of the U.S. dollar. About 40,000 people protest against the summit, Bush, the war in Iraq, and globalization; they are blocked by Chilean police with tear gas and water cannon. 
 
 Pacific Rim leaders pledged Sunday to work on global security issues and push ahead with the World Trade Organization&#8217;s negotiations on lowering trade barriers.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/world/story/2004/11/19/apec-bush041119.html)
 2. [MSNBC](http://www.msnbc.msn.com/id/6533636/)

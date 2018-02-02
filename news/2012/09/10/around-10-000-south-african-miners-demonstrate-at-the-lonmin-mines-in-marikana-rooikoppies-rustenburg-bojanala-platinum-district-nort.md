@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2012/09/10/around-10-000-south-african-miners-demonstrate-at-the-lonmin-mines-in-marikana-rooikoppies-rustenburg-bojanala-platinum-district-nort.html)  [JSON](/news/2012/09/10/around-10-000-south-african-miners-demonstrate-at-the-lonmin-mines-in-marikana-rooikoppies-rustenburg-bojanala-platinum-district-nort.json)  [XML](/news/2012/09/10/around-10-000-south-african-miners-demonstrate-at-the-lonmin-mines-in-marikana-rooikoppies-rustenburg-bojanala-platinum-district-nort.xml)  
+
 ### [2012-09-10](/news/2012/09/10/index.md)
 
+##### South Africa
 # Around 10,000 South African miners demonstrate at the Lonmin mines in Marikana ("Rooikoppies"), Rustenburg, Bojanala Platinum district, North West province. Fifteen thousand miners strike at the Gold Fields KDC West Driefontein mine. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters via Yahoo! News](http://news.yahoo.com/gold-fields-says-15-000-workers-strike-south-072621266--finance.html?_esi=1)
+1. [Reuters via Yahoo! News](https://news.yahoo.com/gold-fields-says-15-000-workers-strike-south-072621266--finance.html?_esi=1)
+
+### Changes:
+
+1. [Around 10,000 South African miners demonstrate at the Lonmin mines in Marikana (''Rooikoppies''), Rustenburg, Bojanala Platinum district, North West province. Fifteen thousand miners strike at the Gold Fields KDC West Driefontein mine. ](/news/2012/09/10/around-10-000-south-african-miners-demonstrate-at-the-lonmin-mines-in-marikana-rooikoppies-rustenburg-bojanala-platinum-district-no.md) _2017-08-25 03:36:28 (First version)_
+1. [Around 10,000 South African miners demonstrate at the Lonmin mines in Marikana ("Rooikoppies"), Rustenburg, Bojanala Platinum district, North West province. Fifteen thousand miners strike at the Gold Fields KDC West Driefontein mine. ](/news/2012/09/10/around-10-000-south-african-miners-demonstrate-at-the-lonmin-mines-in-marikana-rooikoppies-rustenburg-bojanala-platinum-district-nort.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [The miners' strike movement in South Africa extends to Anglo Platinum in Rustenburg. At least 45 people have died in the ongoing Lonmin Marikana miners' strike. ](/news/2012/09/12/the-miners-strike-movement-in-south-africa-extends-to-anglo-platinum-in-rustenburg-at-least-45-people-have-died-in-the-ongoing-lonmin-mari.md) _Context: Lonmin, South Africa_
 4. [The death toll following yesterday's clash between South African police and Lonmin striking miners in Marikana, Rustenburg, rises to 34. South African President Jacob Zuma announces an inquiry. ](/news/2012/08/17/the-death-toll-following-yesterday-s-clash-between-south-african-police-and-lonmin-striking-miners-in-marikana-rustenburg-rises-to-34-sou.md) _Context: Lonmin, Marikana_
 5. [ In South Africa, Johannesburg's Labour Court rules that the mining strike of the 30,000 employees of mining company Gold Fields is "unlawful and unprotected" and orders them to go back to work. The National Union of Mineworkers states that it expects its members to obey the ruling ](/news/2005/03/31/in-south-africa-johannesburg-s-labour-court-rules-that-the-mining-strike-of-the-30-000-employees-of-mining-company-gold-fields-is-unlawfu.md) _Context: Gold Fields, South Africa_
-
-### Changes:
-
-1. [Around 10,000 South African miners demonstrate at the Lonmin mines in Marikana (''Rooikoppies''), Rustenburg, Bojanala Platinum district, North West province. Fifteen thousand miners strike at the Gold Fields KDC West Driefontein mine. ](/news/2012/09/10/around-10-000-south-african-miners-demonstrate-at-the-lonmin-mines-in-marikana-rooikoppies-rustenburg-bojanala-platinum-district-no.md) _2017-08-25 03:36:28 (First version)_
-1. [Around 10,000 South African miners demonstrate at the Lonmin mines in Marikana ("Rooikoppies"), Rustenburg, Bojanala Platinum district, North West province. Fifteen thousand miners strike at the Gold Fields KDC West Driefontein mine. ](/news/2012/09/10/around-10-000-south-african-miners-demonstrate-at-the-lonmin-mines-in-marikana-rooikoppies-rustenburg-bojanala-platinum-district-nort.md) _(Current version)_

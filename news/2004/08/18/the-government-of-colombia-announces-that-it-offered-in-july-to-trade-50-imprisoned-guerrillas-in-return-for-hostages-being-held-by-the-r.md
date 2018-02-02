@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/18/the-government-of-colombia-announces-that-it-offered-in-july-to-trade-50-imprisoned-guerrillas-in-return-for-hostages-being-held-by-the-r.html)  [JSON](/news/2004/08/18/the-government-of-colombia-announces-that-it-offered-in-july-to-trade-50-imprisoned-guerrillas-in-return-for-hostages-being-held-by-the-r.json)  [XML](/news/2004/08/18/the-government-of-colombia-announces-that-it-offered-in-july-to-trade-50-imprisoned-guerrillas-in-return-for-hostages-being-held-by-the-r.xml)  
+
 ### [2004-08-18](/news/2004/08/18/index.md)
 
+##### Colombia
 #  The government of Colombia announces that it offered, in July, to trade 50 imprisoned guerrillas in return for hostages being held by the Revolutionary Armed Forces of Colombia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/3578532.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/30/in-democratic-party-congressional-leadership-el
 
 ### [2016-11-30](/news/2016/11/30/index.md)
 
+##### United States elections, 2016
 # In Democratic Party congressional leadership elections, U.S. House minority leader Nancy Pelosi is re-elected, holding off the challenge by Tim Ryan. Democratic whip Steny Hoyer is also re-elected. Current caucus vice chair Joseph Crowley takes the caucus chairmanship. Linda Sanchez, in a three-way race, is elected the new vice chair. 
 
 Minority Leader Nancy Pelosi held onto her job leading House Democrats today as her caucus re-elected her to the position -- despite rumblings from inside and outside the caucus that change and fresh ideas may be needed after a disappointing November election. The Democratic caucus voted 134-63...

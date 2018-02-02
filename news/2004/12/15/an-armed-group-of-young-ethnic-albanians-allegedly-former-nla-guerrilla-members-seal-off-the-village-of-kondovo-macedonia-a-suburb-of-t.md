@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/15/an-armed-group-of-young-ethnic-albanians-allegedly-former-nla-guerrilla-members-seal-off-the-village-of-kondovo-macedonia-a-suburb-of-t.html)  [JSON](/news/2004/12/15/an-armed-group-of-young-ethnic-albanians-allegedly-former-nla-guerrilla-members-seal-off-the-village-of-kondovo-macedonia-a-suburb-of-t.json)  [XML](/news/2004/12/15/an-armed-group-of-young-ethnic-albanians-allegedly-former-nla-guerrilla-members-seal-off-the-village-of-kondovo-macedonia-a-suburb-of-t.xml)  
+
 ### [2004-12-15](/news/2004/12/15/index.md)
 
+##### Albanians
 #  An armed group of young ethnic Albanians, allegedly former NLA guerrilla members, seal off the village of Kondovo, Macedonia, a suburb of the capital Skopje, citing poor conditions and repression by state authorities. The fledgling multi-ethnic governing coalition plays down the incident stating it is a local problem stemming from the slow implementation of the peace agreement after the 2001 civil war, while some opposition parties call for "strong action". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RealityMK](http://www.realitymacedonia.org.mk/web/news_page.asp?nid=3967)
 2. [TOL](http://www.tol.cz/look/TOL/printf.tpl?IdLanguage=1&IdPublication=4&NrIssue=94&NrSection=1&NrArticle=13176&ST1=ad&ST_T1=job&ST_AS1=1&ST2=body&ST_T2=letter&ST_AS2=1&ST3=text&ST_T3=aatol&ST_AS3=1&ST_max=3)

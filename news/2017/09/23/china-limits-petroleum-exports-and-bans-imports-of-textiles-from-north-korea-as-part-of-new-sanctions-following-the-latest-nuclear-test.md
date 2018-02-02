@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/23/china-limits-petroleum-exports-and-bans-imports
 
 ### [2017-09-23](/news/2017/09/23/index.md)
 
+##### 2017 North Korea crisis
 # China limits petroleum exports and bans imports of textiles from North Korea as part of new sanctions following the latest nuclear test. 
 
 China&#039;s earthquake administration says it has detected a magnitude-3.4 tremor in North Korea that was a suspected explosion.

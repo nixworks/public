@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/03/20/serbs-launch-an-offensive-in-kosovo.html)  [JSON](/news/1999/03/20/serbs-launch-an-offensive-in-kosovo.json)  [XML](/news/1999/03/20/serbs-launch-an-offensive-in-kosovo.xml)  
+
 ### [1999-03-20](/news/1999/03/20/index.md)
 
+##### Serb
 #  Serbs launch an offensive in Kosovo.
 
 

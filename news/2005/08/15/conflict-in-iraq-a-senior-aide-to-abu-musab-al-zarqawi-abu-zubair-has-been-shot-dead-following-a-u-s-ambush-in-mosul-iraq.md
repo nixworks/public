@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/15/conflict-in-iraq-a-senior-aide-to-abu-musab-al-zarqawi-abu-zubair-has-been-shot-dead-following-a-u-s-ambush-in-mosul-iraq.html)  [JSON](/news/2005/08/15/conflict-in-iraq-a-senior-aide-to-abu-musab-al-zarqawi-abu-zubair-has-been-shot-dead-following-a-u-s-ambush-in-mosul-iraq.json)  [XML](/news/2005/08/15/conflict-in-iraq-a-senior-aide-to-abu-musab-al-zarqawi-abu-zubair-has-been-shot-dead-following-a-u-s-ambush-in-mosul-iraq.xml)  
+
 ### [2005-08-15](/news/2005/08/15/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: A senior aide to Abu Musab al-Zarqawi, Abu Zubair, has been shot dead following a U.S. ambush in Mosul, Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4152348.stm)
 

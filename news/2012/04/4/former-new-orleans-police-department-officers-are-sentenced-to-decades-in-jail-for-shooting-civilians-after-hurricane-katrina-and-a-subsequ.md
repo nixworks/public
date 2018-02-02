@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/04/4/former-new-orleans-police-department-officers-are-sentenced-to-decades-in-jail-for-shooting-civilians-after-hurricane-katrina-and-a-subsequ.html)  [JSON](/news/2012/04/4/former-new-orleans-police-department-officers-are-sentenced-to-decades-in-jail-for-shooting-civilians-after-hurricane-katrina-and-a-subsequ.json)  [XML](/news/2012/04/4/former-new-orleans-police-department-officers-are-sentenced-to-decades-in-jail-for-shooting-civilians-after-hurricane-katrina-and-a-subsequ.xml)  
+
 ### [2012-04-4](/news/2012/04/4/index.md)
 
+##### New Orleans Police Department
 # Former New Orleans Police Department officers are sentenced to decades in jail for shooting civilians after Hurricane Katrina, and a subsequent coverup. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/national/new-orleans-police-officers-face-decades-in-jail-for-shootings-cover-up-after-katrina/2012/04/04/gIQARGhkuS_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/national/new-orleans-police-officers-face-decades-in-jail-for-shootings-cover-up-after-katrina/2012/04/04/gIQARGhkuS_story.html)
 
 ### Related:
 

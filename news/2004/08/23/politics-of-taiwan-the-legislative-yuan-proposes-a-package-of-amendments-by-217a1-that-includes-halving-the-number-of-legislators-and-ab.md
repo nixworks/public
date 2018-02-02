@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/23/politics-of-taiwan-the-legislative-yuan-proposes-a-package-of-amendments-by-217a1-that-includes-halving-the-number-of-legislators-and-ab.html)  [JSON](/news/2004/08/23/politics-of-taiwan-the-legislative-yuan-proposes-a-package-of-amendments-by-217a1-that-includes-halving-the-number-of-legislators-and-ab.json)  [XML](/news/2004/08/23/politics-of-taiwan-the-legislative-yuan-proposes-a-package-of-amendments-by-217a1-that-includes-halving-the-number-of-legislators-and-ab.xml)  
+
 ### [2004-08-23](/news/2004/08/23/index.md)
 
+##### Politics of Taiwan
 #  Politics of Taiwan: The Legislative Yuan proposes a package of amendments by 217-1 that includes halving the number of legislators and abolishing the National Assembly. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/3589714.stm)
 2. [Taiwan News](http://www.etaiwannews.com/Taiwan/2004/08/24/1093312475.htm)

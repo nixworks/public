@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/10/police-in-france-discover-the-bodies-of-sakine-cansa-z-one-of-the-co-founders-of-the-kurdistan-workers-party-and-two-other-kurdish-activi.html)  [JSON](/news/2013/01/10/police-in-france-discover-the-bodies-of-sakine-cansa-z-one-of-the-co-founders-of-the-kurdistan-workers-party-and-two-other-kurdish-activi.json)  [XML](/news/2013/01/10/police-in-france-discover-the-bodies-of-sakine-cansa-z-one-of-the-co-founders-of-the-kurdistan-workers-party-and-two-other-kurdish-activi.xml)  
+
 ### [2013-01-10](/news/2013/01/10/index.md)
 
+##### Police
 # Police in France discover the bodies of Sakine Cansiz, one of the co-founders of the Kurdistan Workers' Party, and two other Kurdish activists who were all shot dead in a Kurdish information center in the capital, Paris. 
 
 Three Kurdish activists - among them a co-founder of the militant PKK group - are shot dead in Paris, but no motive has yet been established.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20968375)
 2. [Channel4](http://www.channel4.com/news/kurdish-pkk-co-founder-shot-dead-in-paris)

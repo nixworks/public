@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/10/conflict-in-iraq-heavy-fighting-continues-in-falluja-where-u-s-military-officials-say-over-500-insurgents-18-u-s-and-five-iraqi-troops.html)  [JSON](/news/2004/11/10/conflict-in-iraq-heavy-fighting-continues-in-falluja-where-u-s-military-officials-say-over-500-insurgents-18-u-s-and-five-iraqi-troops.json)  [XML](/news/2004/11/10/conflict-in-iraq-heavy-fighting-continues-in-falluja-where-u-s-military-officials-say-over-500-insurgents-18-u-s-and-five-iraqi-troops.xml)  
+
 ### [2004-11-10](/news/2004/11/10/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: Heavy fighting continues in Falluja, where U.S. military officials say over 500 insurgents, 18 U.S. and five Iraqi troops had been killed. In Baghdad, 17 people are killed when a car bomb explodes near a shopping center. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4003549.stm)
 

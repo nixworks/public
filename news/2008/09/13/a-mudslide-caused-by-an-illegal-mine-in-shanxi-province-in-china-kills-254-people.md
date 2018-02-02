@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/13/a-mudslide-caused-by-an-illegal-mine-in-shanxi-province-in-china-kills-254-people.html)  [JSON](/news/2008/09/13/a-mudslide-caused-by-an-illegal-mine-in-shanxi-province-in-china-kills-254-people.json)  [XML](/news/2008/09/13/a-mudslide-caused-by-an-illegal-mine-in-shanxi-province-in-china-kills-254-people.xml)  
+
 ### [2008-09-13](/news/2008/09/13/index.md)
 
+##### deadly landslide
 #  A mudslide caused by an illegal mine in Shanxi province in China kills 254 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ (Xinhua News Agency](http://news.xinhuanet.com/english/2008-09/12/content_9950331.htm)
 

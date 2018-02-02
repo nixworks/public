@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/6/musician-wyclef-jean-files-his-papers-in-his-bid-to-become-president-of-haiti.html)  [JSON](/news/2010/08/6/musician-wyclef-jean-files-his-papers-in-his-bid-to-become-president-of-haiti.json)  [XML](/news/2010/08/6/musician-wyclef-jean-files-his-papers-in-his-bid-to-become-president-of-haiti.xml)  
+
 ### [2010-08-6](/news/2010/08/6/index.md)
 
+##### Wyclef Jean
 # Musician Wyclef Jean files his papers in his bid to become President of Haiti. 
 
 Hip hop star Wyclef Jean formally registers to stand for president of his native Haiti as it rebuilds after the earthquake.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-10888173)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

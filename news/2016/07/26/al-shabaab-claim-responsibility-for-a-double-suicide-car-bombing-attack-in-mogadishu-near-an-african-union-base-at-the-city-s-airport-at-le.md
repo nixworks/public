@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/26/al-shabaab-claim-responsibility-for-a-double-su
 
 ### [2016-07-26](/news/2016/07/26/index.md)
 
+##### War in Somalia (2009-present)
 # Al-Shabaab claim responsibility for a double suicide car bombing attack in Mogadishu near an African Union base at the city's airport. At least 13 people are killed, including seven UN guards. 
 
 MOGADISHU, Somalia (AP) — Two suicide bombers detonated explosives-laden cars Tuesday outside the office of the U.N.&#039;s mine-clearing agency and a Somali army checkpoint in Mogadishu, killing 13 people, including seven…

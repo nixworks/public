@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/13/ugandan-president-yoweri-museveni-urges-the-government-to-reconsider-the-anti-homosexuality-bill-being-debated-due-to-foreign-policy-issues.html)  [JSON](/news/2010/01/13/ugandan-president-yoweri-museveni-urges-the-government-to-reconsider-the-anti-homosexuality-bill-being-debated-due-to-foreign-policy-issues.json)  [XML](/news/2010/01/13/ugandan-president-yoweri-museveni-urges-the-government-to-reconsider-the-anti-homosexuality-bill-being-debated-due-to-foreign-policy-issues.xml)  
+
 ### [2010-01-13](/news/2010/01/13/index.md)
 
+##### Uganda
 # Ugandan President Yoweri Museveni urges the government to reconsider the anti-homosexuality bill being debated due to "foreign policy issues". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New Vision](http://www.newvision.co.ug/D/8/12/706894)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/jan/13/uganda-anti-gay-bill-president)

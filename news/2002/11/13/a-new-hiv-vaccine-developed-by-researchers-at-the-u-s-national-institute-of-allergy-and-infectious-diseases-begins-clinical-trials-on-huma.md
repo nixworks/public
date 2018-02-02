@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/11/13/a-new-hiv-vaccine-developed-by-researchers-at-the-u-s-national-institute-of-allergy-and-infectious-diseases-begins-clinical-trials-on-huma.html)  [JSON](/news/2002/11/13/a-new-hiv-vaccine-developed-by-researchers-at-the-u-s-national-institute-of-allergy-and-infectious-diseases-begins-clinical-trials-on-huma.json)  [XML](/news/2002/11/13/a-new-hiv-vaccine-developed-by-researchers-at-the-u-s-national-institute-of-allergy-and-infectious-diseases-begins-clinical-trials-on-huma.xml)  
+
 ### [2002-11-13](/news/2002/11/13/index.md)
 
+##### HIV vaccine
 #  A new HIV vaccine developed by researchers at the U.S. National Institute of Allergy and Infectious Diseases begins clinical trials on humans.
 
 

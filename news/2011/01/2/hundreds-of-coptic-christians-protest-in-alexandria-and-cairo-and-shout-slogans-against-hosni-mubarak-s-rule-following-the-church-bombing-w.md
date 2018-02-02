@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/2/hundreds-of-coptic-christians-protest-in-alexandria-and-cairo-and-shout-slogans-against-hosni-mubarak-s-rule-following-the-church-bombing-w.html)  [JSON](/news/2011/01/2/hundreds-of-coptic-christians-protest-in-alexandria-and-cairo-and-shout-slogans-against-hosni-mubarak-s-rule-following-the-church-bombing-w.json)  [XML](/news/2011/01/2/hundreds-of-coptic-christians-protest-in-alexandria-and-cairo-and-shout-slogans-against-hosni-mubarak-s-rule-following-the-church-bombing-w.xml)  
+
 ### [2011-01-2](/news/2011/01/2/index.md)
 
+##### Coptic Church
 # Hundreds of Coptic Christians protest in Alexandria and Cairo and shout slogans against Hosni Mubarak's rule following the church bombing, where some people held mass. Egyptian media warns of civil war and increasing sectarian violence between Christians and Muslims, and Pope Benedict XVI publicly condemns the bombing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Agence Presse-France](http://www.google.com/hostednews/afp/article/ALeqM5gM4ojQSkgen45AIWUkmRXYIsEFwA)
 2. [Ahlul Bayt News Agency](http://abna.ir/data.asp?lang=3&id=219459)

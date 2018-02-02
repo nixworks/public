@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/10/an-indonesian-chopper-carrying-five-people-lost-contact-with-air-traffic-control-during-a-flight-on-north-sumatra-indonesia.html)  [JSON](/news/2015/10/10/an-indonesian-chopper-carrying-five-people-lost-contact-with-air-traffic-control-during-a-flight-on-north-sumatra-indonesia.json)  [XML](/news/2015/10/10/an-indonesian-chopper-carrying-five-people-lost-contact-with-air-traffic-control-during-a-flight-on-north-sumatra-indonesia.xml)  
+
 ### [2015-10-10](/news/2015/10/10/index.md)
 
+##### North Sumatra
 #  An Indonesian chopper carrying five people lost contact with air traffic control during a flight on North Sumatra, Indonesia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/indonesian-helicopter/2184788.html)
 1. [Cover Image](http://www.channelnewsasia.com/image/2185450/1444604305000/large16x9/640/360/sumatra-haze.jpg)

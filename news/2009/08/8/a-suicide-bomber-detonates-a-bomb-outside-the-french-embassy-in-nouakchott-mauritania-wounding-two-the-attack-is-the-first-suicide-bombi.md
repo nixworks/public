@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/8/a-suicide-bomber-detonates-a-bomb-outside-the-french-embassy-in-nouakchott-mauritania-wounding-two-the-attack-is-the-first-suicide-bombi.html)  [JSON](/news/2009/08/8/a-suicide-bomber-detonates-a-bomb-outside-the-french-embassy-in-nouakchott-mauritania-wounding-two-the-attack-is-the-first-suicide-bombi.json)  [XML](/news/2009/08/8/a-suicide-bomber-detonates-a-bomb-outside-the-french-embassy-in-nouakchott-mauritania-wounding-two-the-attack-is-the-first-suicide-bombi.xml)  
+
 ### [2009-08-8](/news/2009/08/8/index.md)
 
+##### suicide bomber
 #  A suicide bomber detonates a bomb outside the French embassy in Nouakchott, Mauritania, wounding two. The attack is the first suicide bombing in Mauritania's history.
 
 
 
 
-### Source:
+### Sources:
 
 1. [France 24](http://www.france24.com/en/20090809-two-wounded-suicide-bombing-outside-french-embassy-)
 2. [RFI](http://www.rfi.fr/actuen/articles/116/article_4690.asp)

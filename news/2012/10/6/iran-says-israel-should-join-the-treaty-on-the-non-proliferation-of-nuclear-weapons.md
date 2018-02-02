@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/6/iran-says-israel-should-join-the-treaty-on-the-non-proliferation-of-nuclear-weapons.html)  [JSON](/news/2012/10/6/iran-says-israel-should-join-the-treaty-on-the-non-proliferation-of-nuclear-weapons.json)  [XML](/news/2012/10/6/iran-says-israel-should-join-the-treaty-on-the-non-proliferation-of-nuclear-weapons.xml)  
+
 ### [2012-10-6](/news/2012/10/6/index.md)
 
+##### Iran
 # Iran says Israel should join the Treaty on the Non-Proliferation of Nuclear Weapons. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/mlitary_news/20121006/176444466.html)
 

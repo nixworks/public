@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/11/at-least-five-people-including-four-police-officers-are-killed-after-a-bomb-explodes-near-a-police-van-in-the-pakistani-city-of-peshawar.html)  [JSON](/news/2011/08/11/at-least-five-people-including-four-police-officers-are-killed-after-a-bomb-explodes-near-a-police-van-in-the-pakistani-city-of-peshawar.json)  [XML](/news/2011/08/11/at-least-five-people-including-four-police-officers-are-killed-after-a-bomb-explodes-near-a-police-van-in-the-pakistani-city-of-peshawar.xml)  
+
 ### [2011-08-11](/news/2011/08/11/index.md)
 
+##### Pakistani police
 # At least five people including four police officers are killed after a bomb explodes near a police van in the Pakistani city of Peshawar. 
 
 At least seven people are killed in twin bombings in the north-western Pakistani city of Peshawar, police say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-14486382)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54538000/jpg/_54538674_54538673.jpg)

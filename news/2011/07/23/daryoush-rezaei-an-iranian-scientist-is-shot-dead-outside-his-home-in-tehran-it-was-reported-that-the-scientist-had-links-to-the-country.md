@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/23/daryoush-rezaei-an-iranian-scientist-is-shot-dead-outside-his-home-in-tehran-it-was-reported-that-the-scientist-had-links-to-the-country.html)  [JSON](/news/2011/07/23/daryoush-rezaei-an-iranian-scientist-is-shot-dead-outside-his-home-in-tehran-it-was-reported-that-the-scientist-had-links-to-the-country.json)  [XML](/news/2011/07/23/daryoush-rezaei-an-iranian-scientist-is-shot-dead-outside-his-home-in-tehran-it-was-reported-that-the-scientist-had-links-to-the-country.xml)  
+
 ### [2011-07-23](/news/2011/07/23/index.md)
 
+##### Daryoush Rezaei
 # Daryoush Rezaei, an Iranian scientist, is shot dead outside his home in Tehran. It was reported that the scientist had links to the country's nuclear programme. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-14263126)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52643000/jpg/_52643809_tv008164179.jpg)

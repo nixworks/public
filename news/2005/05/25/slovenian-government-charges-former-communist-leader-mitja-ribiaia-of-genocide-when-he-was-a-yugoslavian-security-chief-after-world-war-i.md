@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/25/slovenian-government-charges-former-communist-leader-mitja-ribiaia-of-genocide-when-he-was-a-yugoslavian-security-chief-after-world-war-i.html)  [JSON](/news/2005/05/25/slovenian-government-charges-former-communist-leader-mitja-ribiaia-of-genocide-when-he-was-a-yugoslavian-security-chief-after-world-war-i.json)  [XML](/news/2005/05/25/slovenian-government-charges-former-communist-leader-mitja-ribiaia-of-genocide-when-he-was-a-yugoslavian-security-chief-after-world-war-i.xml)  
+
 ### [2005-05-25](/news/2005/05/25/index.md)
 
+##### Slovenia
 #  Slovenian government charges former communist leader Mitja Ribicic of genocide when he was a Yugoslavian security chief after World War II 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/politics/4581197.stm)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L25600183.htm)
@@ -13,7 +17,7 @@
 ### Related:
 
 1. [ Former Yugoslav President Slobodan Milosevic, a University of Belgrade Faculty of Law graduate, opens his defence at the trial which accuses him of genocide, crimes against humanity and war crimes for his alleged role in the conflicts in which tens of thousands were killed. He maintains the charges are 'unscrupulous lies'. ](/news/2004/08/31/former-yugoslav-president-slobodan-miloa-evic-a-university-of-belgrade-faculty-of-law-graduate-opens-his-defence-at-the-trial-which-accus.md) _Context: Yugoslavia, genocide_
-2. [Large portions of Frankfurt, Germany, are evacuated as local authorities work to defuse a bomb left over from a Royal Air Force raid during World War II. The evacuation is the largest to occur in Europe since World War II. ](/news/2017/09/3/large-portions-of-frankfurt-germany-are-evacuated-as-local-authorities-work-to-defuse-a-bomb-left-over-from-a-royal-air-force-raid-during.md) _Context: World War II_
-3. [Around 50,000 people are evacuated from the German city of Hanover while bomb disposal experts defuse three bombs dropped by the Royal Air Force during World War II. ](/news/2017/05/7/around-50-000-people-are-evacuated-from-the-german-city-of-hanover-while-bomb-disposal-experts-defuse-three-bombs-dropped-by-the-royal-air-f.md) _Context: World War II_
-4. [Stephen O'Brien, head of the United Nations Office for the Coordination of Humanitarian Affairs, reports that the world is experiencing its most severe humanitarian crisis since World War II, with over 20 million people suffering from severe lack of food security in Yemen, South Sudan, Somalia, and Northeast Nigeria. ](/news/2017/03/10/stephen-o-brien-head-of-the-united-nations-office-for-the-coordination-of-humanitarian-affairs-reports-that-the-world-is-experiencing-its.md) _Context: World War II_
-5. [United Nations officials announce the creation of a new team in Geneva to investigate possible war crimes, crimes against humanity and genocide during the Syrian Civil War in order to prepare for future prosecutions of those responsible. ](/news/2017/02/16/united-nations-officials-announce-the-creation-of-a-new-team-in-geneva-to-investigate-possible-war-crimes-crimes-against-humanity-and-genoc.md) _Context: genocide_
+2. [An explosion and fire at the Gas Connect Austria pipeline hub in Baumgarten an der March kills one person and injures 21. Service to Hungary, Slovenia, Croatia and Italy is suspended. Italy declares a state of emergency. ](/news/2017/12/12/an-explosion-and-fire-at-the-gas-connect-austria-pipeline-hub-in-baumgarten-an-der-march-kills-one-person-and-injures-21-service-to-hungary.md) _Context: Slovenia_
+3. [Ratko Mladic, the former Chief of Staff of the Bosnian Serb army during the Bosnian War, is found guilty of genocide, war crimes, and crimes against humanity by the International Criminal Tribunal for the former Yugoslavia and is sentenced to life imprisonment. ](/news/2017/11/22/ratko-mladia-the-former-chief-of-staff-of-the-bosnian-serb-army-during-the-bosnian-war-is-found-guilty-of-genocide-war-crimes-and-crime.md) _Context: genocide_
+4. [The Congressional Gold Medal is awarded to Filipino American veterans of World War II more than 70 years after the end of that war. ](/news/2017/10/25/the-congressional-gold-medal-is-awarded-to-filipino-american-veterans-of-world-war-ii-more-than-70-years-after-the-end-of-that-war.md) _Context: World War II_
+5. [Voters in Slovenia go to the polls to elect their president. Opinion polls predict that the independent incumbent Borut Pahor will retain the largely ceremonial role despite being challenged by noted actor and comedian Marjan Sarec. ](/news/2017/10/22/voters-in-slovenia-go-to-the-polls-to-elect-their-president-opinion-polls-predict-that-the-independent-incumbent-borut-pahor-will-retain-th.md) _Context: Slovenia_

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/06/11/june-2008-tornado-outbreak-sequence-a-tornado-at-the-little-sioux-scout-ranch-near-little-sioux-iowa-kills-four-boy-scouts-and-injures-se.html)  [JSON](/news/2008/06/11/june-2008-tornado-outbreak-sequence-a-tornado-at-the-little-sioux-scout-ranch-near-little-sioux-iowa-kills-four-boy-scouts-and-injures-se.json)  [XML](/news/2008/06/11/june-2008-tornado-outbreak-sequence-a-tornado-at-the-little-sioux-scout-ranch-near-little-sioux-iowa-kills-four-boy-scouts-and-injures-se.xml)  
+
 ### [2008-06-11](/news/2008/06/11/index.md)
 
+##### June 2008 tornado outbreak sequence
 #  June 2008 tornado outbreak sequence: A tornado at the Little Sioux Scout Ranch near Little Sioux, Iowa kills four Boy Scouts and injures several others. 
 
 Four teenagers were killed and 48 others were injured after a tornado ripped through a Boy Scout campground in western Iowa, Boy Scouts of America officials said Thursday. The powerful storm struck at the Little Sioux Scout Ranch, where about 93 Scouts and 25 staffers were camping.
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/severe_weather)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/severe_weather)
 2. [Atlanta Journal-Constitution](http://www.ajc.com/travel/content/news/stories/2008/06/11/boy_scouts_tornado.html)
 3. [Des Moines Register](http://www.desmoinesregister.com/apps/pbcs.dll/article?AID=/20080611/NEWS/80611078/0/politics)
 4. [National Public Radio](http://www.npr.org/templates/story/story.php?storyId=91415289)

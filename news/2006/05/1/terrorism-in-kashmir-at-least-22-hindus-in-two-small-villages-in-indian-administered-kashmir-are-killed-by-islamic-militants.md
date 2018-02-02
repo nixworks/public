@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/1/terrorism-in-kashmir-at-least-22-hindus-in-two-small-villages-in-indian-administered-kashmir-are-killed-by-islamic-militants.html)  [JSON](/news/2006/05/1/terrorism-in-kashmir-at-least-22-hindus-in-two-small-villages-in-indian-administered-kashmir-are-killed-by-islamic-militants.json)  [XML](/news/2006/05/1/terrorism-in-kashmir-at-least-22-hindus-in-two-small-villages-in-indian-administered-kashmir-are-killed-by-islamic-militants.xml)  
+
 ### [2006-05-1](/news/2006/05/1/index.md)
 
+##### Terrorism in Kashmir
 #  Terrorism in Kashmir: At least 22 Hindus in two small villages in Indian-administered Kashmir are killed by Islamic militants. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/4961464.stm)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyid=2006-05-01T050944Z_01_DEL17172_RTRUKOC_0_US-KASHMIR-KILLING.xml)

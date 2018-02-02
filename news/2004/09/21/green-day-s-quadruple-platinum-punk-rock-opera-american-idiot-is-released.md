@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/09/21/green-day-s-quadruple-platinum-punk-rock-opera-american-idiot-is-released.html)  [JSON](/news/2004/09/21/green-day-s-quadruple-platinum-punk-rock-opera-american-idiot-is-released.json)  [XML](/news/2004/09/21/green-day-s-quadruple-platinum-punk-rock-opera-american-idiot-is-released.xml)  
+
 ### [2004-09-21](/news/2004/09/21/index.md)
 
+##### Green Day
 #  Green Day's quadruple platinum "Punk Rock Opera" American Idiot is released.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/25/the-al-qaeda-organization-in-the-islamic-maghreb-announces-it-has-killed-a-french-hostage-in-mali-after-a-failed-rescue-attempt-by-french-an.html)  [JSON](/news/2010/07/25/the-al-qaeda-organization-in-the-islamic-maghreb-announces-it-has-killed-a-french-hostage-in-mali-after-a-failed-rescue-attempt-by-french-an.json)  [XML](/news/2010/07/25/the-al-qaeda-organization-in-the-islamic-maghreb-announces-it-has-killed-a-french-hostage-in-mali-after-a-failed-rescue-attempt-by-french-an.xml)  
+
 ### [2010-07-25](/news/2010/07/25/index.md)
 
+##### Al Qaeda in the Islamic Maghreb
 # The Al-Qaeda Organization in the Islamic Maghreb announces it has killed a French hostage in Mali after a failed rescue attempt by French and Mauritanian troops. 
 
 Al-Qaeda in the Islamic Maghreb says it has killed a French hostage being held in Mali, in an audio statement broadcast by al-Jazeera.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/07/201072519292114510.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-10757199)

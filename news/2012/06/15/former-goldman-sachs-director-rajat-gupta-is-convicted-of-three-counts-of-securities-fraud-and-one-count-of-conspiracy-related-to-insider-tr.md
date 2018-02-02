@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/15/former-goldman-sachs-director-rajat-gupta-is-convicted-of-three-counts-of-securities-fraud-and-one-count-of-conspiracy-related-to-insider-tr.html)  [JSON](/news/2012/06/15/former-goldman-sachs-director-rajat-gupta-is-convicted-of-three-counts-of-securities-fraud-and-one-count-of-conspiracy-related-to-insider-tr.json)  [XML](/news/2012/06/15/former-goldman-sachs-director-rajat-gupta-is-convicted-of-three-counts-of-securities-fraud-and-one-count-of-conspiracy-related-to-insider-tr.xml)  
+
 ### [2012-06-15](/news/2012/06/15/index.md)
 
+##### Goldman Sachs
 # Former Goldman Sachs director Rajat Gupta is convicted of three counts of securities fraud and one count of conspiracy related to insider trading in 2011.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052702303822204577468470878668722.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/19/voters-in-the-seychelles-begin-voting-in-the-country-s-presidential-election.html)  [JSON](/news/2011/05/19/voters-in-the-seychelles-begin-voting-in-the-country-s-presidential-election.json)  [XML](/news/2011/05/19/voters-in-the-seychelles-begin-voting-in-the-country-s-presidential-election.xml)  
+
 ### [2011-05-19](/news/2011/05/19/index.md)
 
+##### Seychelles
 # Voters in the Seychelles begin voting in the country's presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE74I0UQ20110519?sp=true)
 

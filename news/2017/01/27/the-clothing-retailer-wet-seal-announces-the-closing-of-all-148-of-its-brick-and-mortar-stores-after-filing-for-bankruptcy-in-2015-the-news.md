@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/27/the-clothing-retailer-wet-seal-announces-the-cl
 
 ### [2017-01-27](/news/2017/01/27/index.md)
 
+##### Wet Seal
 # The clothing retailer Wet Seal announces the closing of all 148 of its brick-and-mortar stores after filing for bankruptcy in 2015. The news comes on the heels of recent announcements of the closings of other major clothing chains, such as The Limited. 
 
 The retailer already closed two locations in the Dayton area. 

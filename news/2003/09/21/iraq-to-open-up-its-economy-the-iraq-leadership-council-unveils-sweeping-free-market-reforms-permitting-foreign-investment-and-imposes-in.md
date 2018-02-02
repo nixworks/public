@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/21/iraq-to-open-up-its-economy-the-iraq-leadership-council-unveils-sweeping-free-market-reforms-permitting-foreign-investment-and-imposes-in.html)  [JSON](/news/2003/09/21/iraq-to-open-up-its-economy-the-iraq-leadership-council-unveils-sweeping-free-market-reforms-permitting-foreign-investment-and-imposes-in.json)  [XML](/news/2003/09/21/iraq-to-open-up-its-economy-the-iraq-leadership-council-unveils-sweeping-free-market-reforms-permitting-foreign-investment-and-imposes-in.xml)  
+
 ### [2003-09-21](/news/2003/09/21/index.md)
 
+##### Iraq
 #  Iraq: To open up its economy, the Iraq leadership council unveils sweeping free market reforms permitting foreign investment and imposes income taxes - but keeps oil under government control.
 
 

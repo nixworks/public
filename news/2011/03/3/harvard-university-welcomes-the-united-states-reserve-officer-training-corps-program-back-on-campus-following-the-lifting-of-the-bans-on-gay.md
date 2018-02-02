@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/3/harvard-university-welcomes-the-united-states-reserve-officer-training-corps-program-back-on-campus-following-the-lifting-of-the-bans-on-gay.html)  [JSON](/news/2011/03/3/harvard-university-welcomes-the-united-states-reserve-officer-training-corps-program-back-on-campus-following-the-lifting-of-the-bans-on-gay.json)  [XML](/news/2011/03/3/harvard-university-welcomes-the-united-states-reserve-officer-training-corps-program-back-on-campus-following-the-lifting-of-the-bans-on-gay.xml)  
+
 ### [2011-03-3](/news/2011/03/3/index.md)
 
+##### Harvard University
 # Harvard University welcomes the United States Reserve Officer Training Corps program back on campus following the lifting of the bans on gays in the military. 
 
 Get the latest breaking news across the U.S. on ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/US/wireStory?id=13051256)
 

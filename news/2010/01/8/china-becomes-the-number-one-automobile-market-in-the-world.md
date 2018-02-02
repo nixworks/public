@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/01/8/china-becomes-the-number-one-automobile-market-in-the-world.html)  [JSON](/news/2010/01/8/china-becomes-the-number-one-automobile-market-in-the-world.json)  [XML](/news/2010/01/8/china-becomes-the-number-one-automobile-market-in-the-world.xml)  
+
 ### [2010-01-8](/news/2010/01/8/index.md)
 
+##### China
 # China becomes the number one automobile market in the world. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE60722O20100108)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/idUSTRE60722O20100108)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

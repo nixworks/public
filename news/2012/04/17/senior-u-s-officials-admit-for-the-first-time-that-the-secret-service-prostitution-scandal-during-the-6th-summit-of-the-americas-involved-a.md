@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/17/senior-u-s-officials-admit-for-the-first-time-that-the-secret-service-prostitution-scandal-during-the-6th-summit-of-the-americas-involved-a.html)  [JSON](/news/2012/04/17/senior-u-s-officials-admit-for-the-first-time-that-the-secret-service-prostitution-scandal-during-the-6th-summit-of-the-americas-involved-a.json)  [XML](/news/2012/04/17/senior-u-s-officials-admit-for-the-first-time-that-the-secret-service-prostitution-scandal-during-the-6th-summit-of-the-americas-involved-a.xml)  
+
 ### [2012-04-17](/news/2012/04/17/index.md)
 
+##### 6th Summit of the Americas
 # Senior U.S. officials admit for the first time that the Secret Service prostitution scandal during the 6th Summit of the Americas involved as many as 20 women, 11 American agents and some military personnel. 
 
 A prostitution scandal involving US Secret Service agents in Cartagena, Colombia, involved as many as 20 women, US Senator Susan Collins says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17747793)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/59706000/jpg/_59706984_59706983.jpg)

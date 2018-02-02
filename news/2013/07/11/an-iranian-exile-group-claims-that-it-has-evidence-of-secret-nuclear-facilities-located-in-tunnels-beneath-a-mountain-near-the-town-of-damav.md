@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/11/an-iranian-exile-group-claims-that-it-has-evidence-of-secret-nuclear-facilities-located-in-tunnels-beneath-a-mountain-near-the-town-of-damav.html)  [JSON](/news/2013/07/11/an-iranian-exile-group-claims-that-it-has-evidence-of-secret-nuclear-facilities-located-in-tunnels-beneath-a-mountain-near-the-town-of-damav.json)  [XML](/news/2013/07/11/an-iranian-exile-group-claims-that-it-has-evidence-of-secret-nuclear-facilities-located-in-tunnels-beneath-a-mountain-near-the-town-of-damav.xml)  
+
 ### [2013-07-11](/news/2013/07/11/index.md)
 
+##### Iranian
 # An Iranian exile group claims that it has evidence of secret nuclear facilities located in tunnels beneath a mountain near the town of Damavand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via France 24](http://www.france24.com/en/20130711-iran-exile-group-claims-evidence-hidden-nuclear-site)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/11/6/australia-win-over-france-to-win-the-1999-rugby-world-cup-at-millennium-stadium.html)  [JSON](/news/1999/11/6/australia-win-over-france-to-win-the-1999-rugby-world-cup-at-millennium-stadium.json)  [XML](/news/1999/11/6/australia-win-over-france-to-win-the-1999-rugby-world-cup-at-millennium-stadium.xml)  
+
 ### [1999-11-6](/news/1999/11/6/index.md)
 
+##### Australia
 #  Australia win over France to win the 1999 Rugby world Cup at Millennium Stadium.
 
 

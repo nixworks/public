@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/23/two-of-the-three-people-accused-of-plotting-to-steal-trade-secrets-from-coca-cola-have-each-pleaded-guilty-to-one-count-of-conspiracy.html)  [JSON](/news/2006/10/23/two-of-the-three-people-accused-of-plotting-to-steal-trade-secrets-from-coca-cola-have-each-pleaded-guilty-to-one-count-of-conspiracy.json)  [XML](/news/2006/10/23/two-of-the-three-people-accused-of-plotting-to-steal-trade-secrets-from-coca-cola-have-each-pleaded-guilty-to-one-count-of-conspiracy.xml)  
+
 ### [2006-10-23](/news/2006/10/23/index.md)
 
+##### Coca-Cola
 #  Two of the three people accused of plotting to steal trade secrets from Coca-Cola have each pleaded guilty to one count of conspiracy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Sharewatch](http://www.sharewatch.com/story.php?storynumber=234511)
 

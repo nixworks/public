@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/19/2004-indian-ocean-earthquake-the-number-of-people-known-to-have-died-in-last-month-s-asian-tsunami-has-reached-226-000-following-an-annou.html)  [JSON](/news/2005/01/19/2004-indian-ocean-earthquake-the-number-of-people-known-to-have-died-in-last-month-s-asian-tsunami-has-reached-226-000-following-an-annou.json)  [XML](/news/2005/01/19/2004-indian-ocean-earthquake-the-number-of-people-known-to-have-died-in-last-month-s-asian-tsunami-has-reached-226-000-following-an-annou.xml)  
+
 ### [2005-01-19](/news/2005/01/19/index.md)
 
+##### 2004 Indian Ocean earthquake
 #  2004 Indian Ocean earthquake: The number of people known to have died in last month's Asian tsunami has reached 226,000, following an announcement by Indonesian officials that more than 166,000 had been confirmed dead in their country alone. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4189883.stm)
 

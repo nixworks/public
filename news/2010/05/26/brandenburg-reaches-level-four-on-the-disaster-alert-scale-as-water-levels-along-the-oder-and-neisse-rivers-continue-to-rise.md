@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/26/brandenburg-reaches-level-four-on-the-disaster-alert-scale-as-water-levels-along-the-oder-and-neisse-rivers-continue-to-rise.html)  [JSON](/news/2010/05/26/brandenburg-reaches-level-four-on-the-disaster-alert-scale-as-water-levels-along-the-oder-and-neisse-rivers-continue-to-rise.json)  [XML](/news/2010/05/26/brandenburg-reaches-level-four-on-the-disaster-alert-scale-as-water-levels-along-the-oder-and-neisse-rivers-continue-to-rise.xml)  
+
 ### [2010-05-26](/news/2010/05/26/index.md)
 
+##### Brandenburg
 # Brandenburg reaches level four on the disaster alert scale as water levels along the Oder and Neisse rivers continue to rise. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5608973,00.html)
 

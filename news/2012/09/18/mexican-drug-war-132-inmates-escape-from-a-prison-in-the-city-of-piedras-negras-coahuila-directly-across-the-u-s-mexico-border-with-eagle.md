@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/18/mexican-drug-war-132-inmates-escape-from-a-prison-in-the-city-of-piedras-negras-coahuila-directly-across-the-u-s-mexico-border-with-eagle.html)  [JSON](/news/2012/09/18/mexican-drug-war-132-inmates-escape-from-a-prison-in-the-city-of-piedras-negras-coahuila-directly-across-the-u-s-mexico-border-with-eagle.json)  [XML](/news/2012/09/18/mexican-drug-war-132-inmates-escape-from-a-prison-in-the-city-of-piedras-negras-coahuila-directly-across-the-u-s-mexico-border-with-eagle.xml)  
+
 ### [2012-09-18](/news/2012/09/18/index.md)
 
+##### Mexican Drug War
 # Mexican Drug War: 132 inmates escape from a prison in the city of Piedras Negras, Coahuila, directly across the U.S-Mexico border with Eagle Pass, Texas, by digging a tunnel underground. The authorities have yet to determine which drug gang was responsible for the jailbreak. 
 
 Officials have found three inmates thought to have escaped through a tunnel at a northern Mexico border prison on Monday. The number of still-escaped prisoners now stands at 129.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2012/09/18/132-inmates-escape-from-mexican-border-prison-officials-say/)
 2. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/09/another-mass-prison-break-in-mexico.html)

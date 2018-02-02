@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/8/more-than-1-000-journalists-march-through-mexico-city-in-protest-at-the-repeated-killings-and-disappearances-of-their-colleagues-throughout.html)  [JSON](/news/2010/08/8/more-than-1-000-journalists-march-through-mexico-city-in-protest-at-the-repeated-killings-and-disappearances-of-their-colleagues-throughout.json)  [XML](/news/2010/08/8/more-than-1-000-journalists-march-through-mexico-city-in-protest-at-the-repeated-killings-and-disappearances-of-their-colleagues-throughout.xml)  
+
 ### [2010-08-8](/news/2010/08/8/index.md)
 
+##### Mexico City
 # More than 1,000 journalists march through Mexico City in protest at the repeated killings and disappearances of their colleagues throughout Mexico. 
 
 Journalists gather to demand greater freedoms and protection amid escalating drug war.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/201087221227991917.html)
 1. [Cover Image](http://www.aljazeera.com)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/26/a-sudanese-plane-is-hijacked-shortly-after-taking-off-from-nyala-in-the-darfur-region-and-flown-to-kufra-in-libya.html)  [JSON](/news/2008/08/26/a-sudanese-plane-is-hijacked-shortly-after-taking-off-from-nyala-in-the-darfur-region-and-flown-to-kufra-in-libya.json)  [XML](/news/2008/08/26/a-sudanese-plane-is-hijacked-shortly-after-taking-off-from-nyala-in-the-darfur-region-and-flown-to-kufra-in-libya.xml)  
+
 ### [2008-08-26](/news/2008/08/26/index.md)
 
+##### Sudan
 #  A Sudanese plane is hijacked shortly after taking off from Nyala in the Darfur region and flown to Kufra in Libya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/africa/08/26/sudan.plane/index.html?section=cnn_latest)
 

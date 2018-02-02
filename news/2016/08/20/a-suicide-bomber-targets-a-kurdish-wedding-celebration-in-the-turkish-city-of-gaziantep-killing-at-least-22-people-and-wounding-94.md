@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/20/a-suicide-bomber-targets-a-kurdish-wedding-cele
 
 ### [2016-08-20](/news/2016/08/20/index.md)
 
+##### Gaziantep bombing
 # A suicide bomber targets a Kurdish wedding celebration in the Turkish city of Gaziantep killing at least 22 people and wounding 94. 
 
 Turkey vowed on Monday to &quot;completely cleanse&quot; Islamic State militants from its border region after a suicide bomber suspected of links to the group killed 54 people, including 22 children, at a Kurdish wedding.

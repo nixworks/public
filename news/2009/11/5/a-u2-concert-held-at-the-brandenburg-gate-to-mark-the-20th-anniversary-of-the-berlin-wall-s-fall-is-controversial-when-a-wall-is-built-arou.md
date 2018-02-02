@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/5/a-u2-concert-held-at-the-brandenburg-gate-to-mark-the-20th-anniversary-of-the-berlin-wall-s-fall-is-controversial-when-a-wall-is-built-arou.html)  [JSON](/news/2009/11/5/a-u2-concert-held-at-the-brandenburg-gate-to-mark-the-20th-anniversary-of-the-berlin-wall-s-fall-is-controversial-when-a-wall-is-built-arou.json)  [XML](/news/2009/11/5/a-u2-concert-held-at-the-brandenburg-gate-to-mark-the-20th-anniversary-of-the-berlin-wall-s-fall-is-controversial-when-a-wall-is-built-arou.xml)  
+
 ### [2009-11-5](/news/2009/11/5/index.md)
 
+##### U2
 #  A U2 concert held at the Brandenburg Gate to mark the 20th anniversary of the Berlin Wall's fall is controversial when a wall is built around the venue. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8344776.stm)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/frontpage/2009/1106/1224258194048.html)

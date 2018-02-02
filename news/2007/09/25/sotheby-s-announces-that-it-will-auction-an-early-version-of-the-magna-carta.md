@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/25/sotheby-s-announces-that-it-will-auction-an-early-version-of-the-magna-carta.html)  [JSON](/news/2007/09/25/sotheby-s-announces-that-it-will-auction-an-early-version-of-the-magna-carta.json)  [XML](/news/2007/09/25/sotheby-s-announces-that-it-will-auction-an-early-version-of-the-magna-carta.xml)  
+
 ### [2007-09-25](/news/2007/09/25/index.md)
 
+##### Sotheby's
 #  Sotheby's announces that it will auction an early version of the Magna Carta. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/US/09/25/magna.carta.auction/index.html?eref=rss_topstories)
 

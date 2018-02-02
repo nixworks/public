@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/2/al-qaeda-militants-seize-control-of-zinjibar-capital-of-yemen-s-southern-abyan-governorate-as-well-as-the-town-of-jae-ar-following-fierc.html)  [JSON](/news/2015/12/2/al-qaeda-militants-seize-control-of-zinjibar-capital-of-yemen-s-southern-abyan-governorate-as-well-as-the-town-of-jae-ar-following-fierc.json)  [XML](/news/2015/12/2/al-qaeda-militants-seize-control-of-zinjibar-capital-of-yemen-s-southern-abyan-governorate-as-well-as-the-town-of-jae-ar-following-fierc.xml)  
+
 ### [2015-12-2](/news/2015/12/2/index.md)
 
+##### Yemeni Civil War (2015)
 # Al-Qaeda militants seize control of Zinjibar, capital of Yemen's southern Abyan Governorate, as well as the town of Ja'ar, following fierce clashes with pro-Hadi government forces. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2015/12/02/us/al-qaeda-yemen/)
 

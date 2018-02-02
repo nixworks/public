@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/19/paul-twomey-is-chosen-for-being-the-next-president-of-icann.html)  [JSON](/news/2003/03/19/paul-twomey-is-chosen-for-being-the-next-president-of-icann.json)  [XML](/news/2003/03/19/paul-twomey-is-chosen-for-being-the-next-president-of-icann.xml)  
+
 ### [2003-03-19](/news/2003/03/19/index.md)
 
+##### Paul Twomey
 #  Paul Twomey is chosen for being the next president of ICANN.
 
 

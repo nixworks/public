@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/27/voters-in-namibia-vote-in-a-general-election.html)  [JSON](/news/2009/11/27/voters-in-namibia-vote-in-a-general-election.json)  [XML](/news/2009/11/27/voters-in-namibia-vote-in-a-general-election.xml)  
+
 ### [2009-11-27](/news/2009/11/27/index.md)
 
+##### Namibia
 #  Voters in Namibia vote in a general election. 
 
 Longtime governing party Swapo is expected to win poll contested by 14 parties.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gZ9DPmN5Bdno4ymgngQlD1uNaQ6g)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/11/2009112735448504966.html)

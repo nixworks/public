@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/23/david-kay-steps-down-from-iraq-survey-group-george-tenet-names-former-un-weapons-inspector-charles-duelfer-to-succeed-kay.html)  [JSON](/news/2004/01/23/david-kay-steps-down-from-iraq-survey-group-george-tenet-names-former-un-weapons-inspector-charles-duelfer-to-succeed-kay.json)  [XML](/news/2004/01/23/david-kay-steps-down-from-iraq-survey-group-george-tenet-names-former-un-weapons-inspector-charles-duelfer-to-succeed-kay.xml)  
+
 ### [2004-01-23](/news/2004/01/23/index.md)
 
+##### David Kay
 #  David Kay steps down from Iraq Survey Group. George Tenet names former UN weapons inspector Charles Duelfer to succeed Kay.
 
 

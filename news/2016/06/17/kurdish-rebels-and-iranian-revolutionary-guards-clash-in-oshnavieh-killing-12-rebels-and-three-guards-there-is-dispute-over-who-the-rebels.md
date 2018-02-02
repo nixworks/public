@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/17/kurdish-rebels-and-iranian-revolutionary-guards
 
 ### [2016-06-17](/news/2016/06/17/index.md)
 
+##### Kurdish separatism in Iran
 # Kurdish rebels and Iranian Revolutionary guards clash in Oshnavieh, killing 12 rebels and three guards. There is dispute over who the rebels were. Iranian authorities claim it was the Party of Free Life of Kurdistan movement while a member of the Democratic Party of Iranian Kurdistan claimed their group was responsible for the fighting. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/23/the-bridge-in-mostar-dividing-croatian-and-bosniak-communities-is-opened-11-years-after-it-was-destroyed-in-the-bosnian-war.html)  [JSON](/news/2004/07/23/the-bridge-in-mostar-dividing-croatian-and-bosniak-communities-is-opened-11-years-after-it-was-destroyed-in-the-bosnian-war.json)  [XML](/news/2004/07/23/the-bridge-in-mostar-dividing-croatian-and-bosniak-communities-is-opened-11-years-after-it-was-destroyed-in-the-bosnian-war.xml)  
+
 ### [2004-07-23](/news/2004/07/23/index.md)
 
+##### Mostar
 #  The bridge in Mostar dividing Croatian and Bosniak communities is opened 11 years after it was destroyed in the Bosnian war. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/3919047.stm)
 

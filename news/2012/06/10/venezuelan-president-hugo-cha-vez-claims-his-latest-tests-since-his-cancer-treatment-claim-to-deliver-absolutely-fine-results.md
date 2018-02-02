@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/10/venezuelan-president-hugo-cha-vez-claims-his-latest-tests-since-his-cancer-treatment-claim-to-deliver-absolutely-fine-results.html)  [JSON](/news/2012/06/10/venezuelan-president-hugo-cha-vez-claims-his-latest-tests-since-his-cancer-treatment-claim-to-deliver-absolutely-fine-results.json)  [XML](/news/2012/06/10/venezuelan-president-hugo-cha-vez-claims-his-latest-tests-since-his-cancer-treatment-claim-to-deliver-absolutely-fine-results.xml)  
+
 ### [2012-06-10](/news/2012/06/10/index.md)
 
+##### Venezuela
 # Venezuelan president Hugo Chavez claims his latest tests since his cancer treatment claim to deliver "absolutely fine" results. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/201/201261041944756575.html)
 

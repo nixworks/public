@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/11/a-study-finds-that-carefully-timed-sounds-played-during-sleep-can-enhance-memory.html)  [JSON](/news/2013/04/11/a-study-finds-that-carefully-timed-sounds-played-during-sleep-can-enhance-memory.json)  [XML](/news/2013/04/11/a-study-finds-that-carefully-timed-sounds-played-during-sleep-can-enhance-memory.xml)  
+
 ### [2013-04-11](/news/2013/04/11/index.md)
 
+##### sleep
 # A study finds that carefully timed sounds played during sleep can enhance memory. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/science/science-news/9988234/Memory-given-a-boost-by-playing-sounds-during-sleep.html)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/14/three-palestinians-are-shot-and-killed-by-israe
 
 ### [2016-03-14](/news/2016/03/14/index.md)
 
+##### Israeli-Palestinian conflict (2015-present)
 # Three Palestinians are shot and killed by Israeli Defence Forces after attempting to run over Israeli soldiers. Multiple guns were found in their car. 
 
 

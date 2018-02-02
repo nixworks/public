@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/5/queen-elizabeth-ii-begins-a-state-visit-to-france-in-honour-of-the-centennial-of-the-entente-cordiale-arriving-in-the-eurostar-via-the-cha.html)  [JSON](/news/2004/04/5/queen-elizabeth-ii-begins-a-state-visit-to-france-in-honour-of-the-centennial-of-the-entente-cordiale-arriving-in-the-eurostar-via-the-cha.json)  [XML](/news/2004/04/5/queen-elizabeth-ii-begins-a-state-visit-to-france-in-honour-of-the-centennial-of-the-entente-cordiale-arriving-in-the-eurostar-via-the-cha.xml)  
+
 ### [2004-04-5](/news/2004/04/5/index.md)
 
+##### Queen Elizabeth
 #  Queen Elizabeth II begins a state visit to France in honour of the centennial of the Entente Cordiale, arriving in the Eurostar via the Channel Tunnel. The following day, she is to address the French Senate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/stories/2004/04/05/world/queen_france040405)
 

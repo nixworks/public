@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/10/15/yemen-s-sana-a-controlled-forces-fire-a-scud-missile-at-saudi-arabia-in-retaliation-to-saudi-war-crimes-a-spokesman-for-yemen-s-military.html)  [JSON](/news/2015/10/15/yemen-s-sana-a-controlled-forces-fire-a-scud-missile-at-saudi-arabia-in-retaliation-to-saudi-war-crimes-a-spokesman-for-yemen-s-military.json)  [XML](/news/2015/10/15/yemen-s-sana-a-controlled-forces-fire-a-scud-missile-at-saudi-arabia-in-retaliation-to-saudi-war-crimes-a-spokesman-for-yemen-s-military.xml)  
+
 ### [2015-10-15](/news/2015/10/15/index.md)
 
+##### Yemeni Civil War (2015)
 # Yemen's Sana'a-controlled forces fire a Scud missile at Saudi Arabia in retaliation to Saudi "war crimes". A spokesman for Yemen's military allied with Houthi militants said the missile hit a Saudi airbase and caused "widespread destruction". There was no immediate comment from the Saudi side. 
 
 Yemenis fly the flags and posters of the leaders of Saudi Arabia and the UAE
 
 
-### Source:
+### Sources:
 
 1. [Gulf News](http://gulfnews.com/news/gulf/yemen/thousands-celebrate-al-houthi-defeat-in-aden-1.1601267)
-2. [Reuters](http://www.reuters.com/article/2015/10/15/us-yemen-security-missile-idUSKCN0S90BD20151015)
+2. [Reuters](https://www.reuters.com/article/2015/10/15/us-yemen-security-missile-idUSKCN0S90BD20151015)
 2. [Cover Image](http://static.gulfnews.com/polopoly_fs/1.1601265!/image/351483197.jpg_gen/derivatives/box_460346/351483197.jpg)
 
 ### Related:

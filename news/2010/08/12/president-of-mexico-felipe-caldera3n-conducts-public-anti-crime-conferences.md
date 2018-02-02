@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/12/president-of-mexico-felipe-caldera3n-conducts-public-anti-crime-conferences.html)  [JSON](/news/2010/08/12/president-of-mexico-felipe-caldera3n-conducts-public-anti-crime-conferences.json)  [XML](/news/2010/08/12/president-of-mexico-felipe-caldera3n-conducts-public-anti-crime-conferences.xml)  
+
 ### [2010-08-12](/news/2010/08/12/index.md)
 
+##### President
 # President of Mexico Felipe Calderon conducts public anti-crime conferences. 
 
 Calderon critical of the amount of people caught and punished for violent crimes.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/2010812175827745104.html)
 1. [Cover Image](http://www.aljazeera.com)

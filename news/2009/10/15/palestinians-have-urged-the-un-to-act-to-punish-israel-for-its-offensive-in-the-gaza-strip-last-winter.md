@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/15/palestinians-have-urged-the-un-to-act-to-punish-israel-for-its-offensive-in-the-gaza-strip-last-winter.html)  [JSON](/news/2009/10/15/palestinians-have-urged-the-un-to-act-to-punish-israel-for-its-offensive-in-the-gaza-strip-last-winter.json)  [XML](/news/2009/10/15/palestinians-have-urged-the-un-to-act-to-punish-israel-for-its-offensive-in-the-gaza-strip-last-winter.xml)  
+
 ### [2009-10-15](/news/2009/10/15/index.md)
 
+##### Palestinians
 #  Palestinians have urged the UN to act to punish Israel for its offensive in the Gaza Strip last winter. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8307628.stm)
 2. [Ha'aretz](http://www.haaretz.com/hasen/spages/1121045.html)

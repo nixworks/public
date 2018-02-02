@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/03/13/malaysian-general-election-2004-nomination-day-barisan-nasional-takes-15-parliamentary-seats-uncontested-and-7-state-assembly-seats-the.html)  [JSON](/news/2004/03/13/malaysian-general-election-2004-nomination-day-barisan-nasional-takes-15-parliamentary-seats-uncontested-and-7-state-assembly-seats-the.json)  [XML](/news/2004/03/13/malaysian-general-election-2004-nomination-day-barisan-nasional-takes-15-parliamentary-seats-uncontested-and-7-state-assembly-seats-the.xml)  
+
 ### [2004-03-13](/news/2004/03/13/index.md)
 
+##### Malaysian general election
 #  Malaysian general election, 2004: Nomination day. Barisan Nasional takes 15 Parliamentary seats uncontested and 7 state assembly seats. The Pan-Malaysian Islamic Party captures one parliamentary seat in the state of Johor.
 
 

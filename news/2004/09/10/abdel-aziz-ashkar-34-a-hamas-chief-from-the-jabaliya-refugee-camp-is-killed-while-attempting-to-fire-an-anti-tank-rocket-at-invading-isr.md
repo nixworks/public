@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/09/10/abdel-aziz-ashkar-34-a-hamas-chief-from-the-jabaliya-refugee-camp-is-killed-while-attempting-to-fire-an-anti-tank-rocket-at-invading-isr.html)  [JSON](/news/2004/09/10/abdel-aziz-ashkar-34-a-hamas-chief-from-the-jabaliya-refugee-camp-is-killed-while-attempting-to-fire-an-anti-tank-rocket-at-invading-isr.json)  [XML](/news/2004/09/10/abdel-aziz-ashkar-34-a-hamas-chief-from-the-jabaliya-refugee-camp-is-killed-while-attempting-to-fire-an-anti-tank-rocket-at-invading-isr.xml)  
+
 ### [2004-09-10](/news/2004/09/10/index.md)
 
+##### Hamas
 #  Abdel Aziz Ashkar, 34, a Hamas chief from the Jabaliya refugee camp, is killed while attempting to fire an anti-tank rocket at invading Israeli forces in the northern Gaza Strip. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3640212.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6205891)
-2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6205891)
 
 ### Related:
 

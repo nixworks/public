@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/1/in-punjab-pakistan-the-death-toll-has-risen-from
 
 ### [2016-05-1](/news/2016/05/1/index.md)
 
+##### Punjab
 # In Punjab, Pakistan, the death toll has risen from 13 to 33 for people who has eaten sweets, accidentally tainted with insecticide. The mass poisoning occurred in April. 
 
 

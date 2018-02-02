@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/24/moscow-theatre-siege-second-chechen-war-the-chechen-rebels-holding-hundreds-of-hostages-in-a-moscow-theater-shot-and-killed-one-captive-a.html)  [JSON](/news/2002/10/24/moscow-theatre-siege-second-chechen-war-the-chechen-rebels-holding-hundreds-of-hostages-in-a-moscow-theater-shot-and-killed-one-captive-a.json)  [XML](/news/2002/10/24/moscow-theatre-siege-second-chechen-war-the-chechen-rebels-holding-hundreds-of-hostages-in-a-moscow-theater-shot-and-killed-one-captive-a.xml)  
+
 ### [2002-10-24](/news/2002/10/24/index.md)
 
+##### Moscow theatre siege
 #  Moscow theatre siege, Second Chechen War: The Chechen rebels holding hundreds of hostages in a Moscow theater shot and killed one captive and said they were ready to die for their cause, warning that thousands more of their comrades were "keen on dying." 
 
 

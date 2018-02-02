@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/8/israel-responds-to-the-shooting-dead-of-a-65-year-old-palestinian-civilian-in-his-bed-during-a-pre-dawn-raid-by-ordering-an-investigation-t.html)  [JSON](/news/2011/01/8/israel-responds-to-the-shooting-dead-of-a-65-year-old-palestinian-civilian-in-his-bed-during-a-pre-dawn-raid-by-ordering-an-investigation-t.json)  [XML](/news/2011/01/8/israel-responds-to-the-shooting-dead-of-a-65-year-old-palestinian-civilian-in-his-bed-during-a-pre-dawn-raid-by-ordering-an-investigation-t.xml)  
+
 ### [2011-01-8](/news/2011/01/8/index.md)
 
+##### Israel
 # Israel responds to the shooting dead of a 65-year-old Palestinian civilian in his bed during a pre-dawn raid by ordering an investigation. Troops were attempting to re-arrest five Hamas members who had been released from prison the previous day when they made the fatal error. 
 
 ISRAEL has ordered an investigation after soldiers burst into a house in a pre-dawn raid yesterday and shot dead a Palestinian civilian in his bed.
 
 
-### Source:
+### Sources:
 
 1. [Irish Independent](http://www.independent.ie/world-news/middle-east/israeli-soldiers-shoot-civilian-65-in-his-bed-2488664.html)
 1. [Cover Image](http://www.independent.ie/editorial/facebook_share_logos/FacebookPostImage_158x158_News.jpg)

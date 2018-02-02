@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/08/25/a-military-spokesperson-claims-that-a-suicide-bomber-was-shot-and-killed-when-he-tried-to-drive-a-truckload-of-explosives-into-a-mauritanian.html)  [JSON](/news/2010/08/25/a-military-spokesperson-claims-that-a-suicide-bomber-was-shot-and-killed-when-he-tried-to-drive-a-truckload-of-explosives-into-a-mauritanian.json)  [XML](/news/2010/08/25/a-military-spokesperson-claims-that-a-suicide-bomber-was-shot-and-killed-when-he-tried-to-drive-a-truckload-of-explosives-into-a-mauritanian.xml)  
+
 ### [2010-08-25](/news/2010/08/25/index.md)
 
+##### army
 # A military spokesperson claims that a suicide bomber was shot and killed when he tried to drive a truckload of explosives into a Mauritanian army barracks in Nema near the border with Mali. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/08/24/AR2010082406887.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/08/24/AR2010082406887.html)
 
 ### Related:
 

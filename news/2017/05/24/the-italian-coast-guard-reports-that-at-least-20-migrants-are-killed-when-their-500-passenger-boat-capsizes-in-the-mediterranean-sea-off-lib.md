@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/24/the-italian-coast-guard-reports-that-at-least-2
 
 ### [2017-05-24](/news/2017/05/24/index.md)
 
+##### European migrant crisis
 # The Italian Coast Guard reports that at least 20 migrants are killed when their 500-passenger boat capsizes in the Mediterranean Sea off Libya's coast. About 1,700 people have been rescued in 15 operations since Tuesday. 
 
 

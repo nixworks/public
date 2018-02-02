@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/4/the-uk-government-will-introduce-emergency-legislation-designed-to-reverse-a-controversial-judgement-on-police-bail-for-debate-in-the-house.html)  [JSON](/news/2011/07/4/the-uk-government-will-introduce-emergency-legislation-designed-to-reverse-a-controversial-judgement-on-police-bail-for-debate-in-the-house.json)  [XML](/news/2011/07/4/the-uk-government-will-introduce-emergency-legislation-designed-to-reverse-a-controversial-judgement-on-police-bail-for-debate-in-the-house.xml)  
+
 ### [2011-07-4](/news/2011/07/4/index.md)
 
+##### the coalition
 # The UK government will introduce emergency legislation designed to reverse a controversial judgement on police bail for debate in the House of Commons on Thursday. 
 
 Emergency legislation designed to reverse a controversial judgement on police bail will go before MPs on Thursday.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-14019396)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53754000/jpg/_53754510_005338169-1.jpg)

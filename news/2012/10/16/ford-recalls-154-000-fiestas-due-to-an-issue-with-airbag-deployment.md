@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/16/ford-recalls-154-000-fiestas-due-to-an-issue-with-airbag-deployment.html)  [JSON](/news/2012/10/16/ford-recalls-154-000-fiestas-due-to-an-issue-with-airbag-deployment.json)  [XML](/news/2012/10/16/ford-recalls-154-000-fiestas-due-to-an-issue-with-airbag-deployment.xml)  
+
 ### [2012-10-16](/news/2012/10/16/index.md)
 
+##### Ford
 # Ford recalls 154,000 Fiestas due to an issue with airbag deployment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AutoWeek](http://www.autoweek.com/article/20121016/CARNEWS/121019881)
 

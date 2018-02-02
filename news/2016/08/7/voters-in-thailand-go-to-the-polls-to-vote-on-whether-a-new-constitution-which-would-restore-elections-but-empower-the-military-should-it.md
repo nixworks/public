@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/7/voters-in-thailand-go-to-the-polls-to-vote-on-wh
 
 ### [2016-08-7](/news/2016/08/7/index.md)
 
+##### Thai constitutional referendum, 2016
 # Voters in Thailand go to the polls to vote on whether a new constitution, which would restore elections but empower the military, should it be adopted. The military junta has banned campaigning in opposition to the new constitution. The constitution is approved by 61.45 percent. 
 
 A clear majority of Thai referendum voters back a draft constitution written by an army-appointed committee, with unofficial tallies saying more than 60% voted in favour.

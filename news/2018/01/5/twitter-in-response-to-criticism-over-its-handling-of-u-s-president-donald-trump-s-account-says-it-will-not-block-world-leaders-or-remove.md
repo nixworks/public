@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/5/twitter-in-response-to-criticism-over-its-handli
 
 ### [2018-01-5](/news/2018/01/5/index.md)
 
+##### Donald Trump on social media
 # Twitter, in response to criticism over its handling of U.S. President Donald Trump's account, says it will not block world leaders or remove their controversial tweets. 
 
 Twitter Inc on Friday reiterated its stance that accounts belonging to world leaders have special status on the social media network, pushing back against users who have called on the company to banish U.S. President Donald Trump.

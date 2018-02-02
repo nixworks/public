@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/8/a-female-student-at-alpine-high-school-in-texas-
 
 ### [2016-09-8](/news/2016/09/8/index.md)
 
+##### Alpine High School
 # A female student at Alpine High School in Texas, U.S., shoots herself dead in what appeared to be an "active shooter" event, resulting in a student and police officer being injured. 
 
 A female student died of an apparent self-inflicted gunshot wound after shooting and injuring another female student inside a high school in West Texas.

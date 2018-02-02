@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/28/abdelkader-belliraj-accused-of-leading-an-islamist-militant-group-and-committing-six-murders-in-belgium-is-sentenced-to-life-imprisonment.html)  [JSON](/news/2009/07/28/abdelkader-belliraj-accused-of-leading-an-islamist-militant-group-and-committing-six-murders-in-belgium-is-sentenced-to-life-imprisonment.json)  [XML](/news/2009/07/28/abdelkader-belliraj-accused-of-leading-an-islamist-militant-group-and-committing-six-murders-in-belgium-is-sentenced-to-life-imprisonment.xml)  
+
 ### [2009-07-28](/news/2009/07/28/index.md)
 
+##### Abdelkader Belliraj
 #  Abdelkader Belliraj, accused of leading an Islamist militant group and committing six murders in Belgium, is sentenced to life imprisonment in Morocco. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8171721.stm)
 
@@ -13,6 +17,6 @@
 
 1. [An investigation by "The Independent" uncovers the first evidence of a UK-based rendition recruitment drive, free of American involvement, suggesting MI5 was directly involved in the 2004 "illegal" transfer of a Moroccan national from a Belgian prison to London. ](/news/2010/07/23/an-investigation-by-the-independent-uncovers-the-first-evidence-of-a-uk-based-rendition-recruitment-drive-free-of-american-involvement-s.md) _Context: Belgium, Morocco_
 2. [ The last of three men who escaped from a Belgian jail on board a hijacked helicopter are recaptured in Morocco. ](/news/2009/08/9/the-last-of-three-men-who-escaped-from-a-belgian-jail-on-board-a-hijacked-helicopter-are-recaptured-in-morocco.md) _Context: Belgium, Morocco_
-3. [Approximately fifty migrants are feared drowned off the coast of Morocco. Three men were rescued near Alboran Island near the coast of Spain. ](/news/2017/07/4/approximately-fifty-migrants-are-feared-drowned-off-the-coast-of-morocco-three-men-were-rescued-near-alboran-island-near-the-coast-of-spain.md) _Context: Morocco_
-4. [A fire forces the evacuation of more than 22,000 concertgoers at the Tomorrowland music festival at the Parc de Can Zam in Barcelona, Spain. There were no serious injuries. This is the first time the festival has been held in Spain; Belgium had been the home since 2005. ](/news/2017/07/29/a-fire-forces-the-evacuation-of-more-than-22-000-concertgoers-at-the-tomorrowland-music-festival-at-the-parc-de-can-zam-in-barcelona-spain.md) _Context: Belgium_
-5. [The oldest fossil records of "Homo sapiens" are discovered in Jebel Irhoud, Morocco, dated at between 300,000 and 350,000 years old. The earliest "Homo sapiens" fossils had been dated as 200,000 years old. ](/news/2017/06/7/the-oldest-fossil-records-of-homo-sapiens-are-discovered-in-jebel-irhoud-morocco-dated-at-between-300-000-and-350-000-years-old-the-ear.md) _Context: Morocco_
+3. [Belgium and the Netherlands, by swapping 48 acres of land, agree that one section of their border is now the center of the Meuse River. This is expected to fix a police jurisdiction problem. ](/news/2018/01/5/belgium-and-the-netherlands-by-swapping-48-acres-of-land-agree-that-one-section-of-their-border-is-now-the-center-of-the-meuse-river-this.md) _Context: Belgium_
+4. [Renaud Hardy, a suspected serial killer from Mechelen, Belgium, confesses to two murders and two attempted murders ahead of his February assizes case in Tongeren. ](/news/2018/01/31/renaud-hardy-a-suspected-serial-killer-from-mechelen-belgium-confesses-to-two-murders-and-two-attempted-murders-ahead-of-his-february-ass.md) _Context: Belgium_
+5. [Eurofighter GmbH offers Belgium a national cyber defense network--suggesting telecommunications security on par with United Kingdom intelligence, which would save Belgium EUR1.6 billion per year--in exchange for buying 34 of their multirole combat aircraft, the Eurofighter Typhoon. ](/news/2017/12/5/eurofighter-gmbh-offers-belgium-a-national-cyber-defense-networkasuggesting-telecommunications-security-on-par-with-united-kingdom-intelli.md) _Context: Belgium_

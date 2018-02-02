@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/7/new-guinea-volcano-rabaul-caldera-erupts-two-hundred-people-are-evacuated-but-favourable-winds-help-protect-nearby-towns-from-the-impact.html)  [JSON](/news/2006/10/7/new-guinea-volcano-rabaul-caldera-erupts-two-hundred-people-are-evacuated-but-favourable-winds-help-protect-nearby-towns-from-the-impact.json)  [XML](/news/2006/10/7/new-guinea-volcano-rabaul-caldera-erupts-two-hundred-people-are-evacuated-but-favourable-winds-help-protect-nearby-towns-from-the-impact.xml)  
+
 ### [2006-10-7](/news/2006/10/7/index.md)
 
+##### New Guinea
 #  New Guinea volcano Rabaul caldera erupts. Two hundred people are evacuated but favourable winds help protect nearby towns from the impact. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200610/s1758072.htm)
 

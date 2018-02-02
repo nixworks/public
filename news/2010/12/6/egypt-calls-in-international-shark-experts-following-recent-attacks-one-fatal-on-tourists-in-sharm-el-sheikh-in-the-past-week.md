@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/6/egypt-calls-in-international-shark-experts-following-recent-attacks-one-fatal-on-tourists-in-sharm-el-sheikh-in-the-past-week.html)  [JSON](/news/2010/12/6/egypt-calls-in-international-shark-experts-following-recent-attacks-one-fatal-on-tourists-in-sharm-el-sheikh-in-the-past-week.json)  [XML](/news/2010/12/6/egypt-calls-in-international-shark-experts-following-recent-attacks-one-fatal-on-tourists-in-sharm-el-sheikh-in-the-past-week.xml)  
+
 ### [2010-12-6](/news/2010/12/6/index.md)
 
+##### Egypt
 # Egypt calls in international shark experts following recent attacks, one fatal, on tourists in Sharm el-Sheikh in the past week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2010/dec/06/sharm-el-sheikh-shark-experts)
 

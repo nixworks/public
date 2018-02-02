@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/04/6/israeli-police-arrest-and-release-khaled-abu-arafa-minister-of-jerusalem-affairs-in-the-new-hamas-led-government-of-the-palestinian-author.html)  [JSON](/news/2006/04/6/israeli-police-arrest-and-release-khaled-abu-arafa-minister-of-jerusalem-affairs-in-the-new-hamas-led-government-of-the-palestinian-author.json)  [XML](/news/2006/04/6/israeli-police-arrest-and-release-khaled-abu-arafa-minister-of-jerusalem-affairs-in-the-new-hamas-led-government-of-the-palestinian-author.xml)  
+
 ### [2006-04-6](/news/2006/04/6/index.md)
 
+##### Israel
 #  Israeli police arrest and release Khaled Abu Arafa, minister of Jerusalem affairs in the new Hamas-led government of the Palestinian Authority. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Associated Press](http://news.yahoo.com/s/ap/20060406/ap_on_re_mi_ea/israel_hamas_arrest)
+1. [Associated Press](https://news.yahoo.com/s/ap/20060406/ap_on_re_mi_ea/israel_hamas_arrest)
 
 ### Related:
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/04/21/forty-armed-men-in-camouflaged-uniforms-and-speaking-albanian-take-several-police-officers-hostage-in-northern-macedonia-the-armed-men-are.html)  [JSON](/news/2015/04/21/forty-armed-men-in-camouflaged-uniforms-and-speaking-albanian-take-several-police-officers-hostage-in-northern-macedonia-the-armed-men-are.json)  [XML](/news/2015/04/21/forty-armed-men-in-camouflaged-uniforms-and-speaking-albanian-take-several-police-officers-hostage-in-northern-macedonia-the-armed-men-are.xml)  
+
 ### [2015-04-21](/news/2015/04/21/index.md)
 
+##### Albanian
 # Forty armed men in camouflaged uniforms and speaking Albanian take several police officers hostage in northern Macedonia, the armed men are apparently calling for the creation of "an Albanian state". The incident was reminiscent of an insurgency in Macedonia in 2001 when Skopje's security forces battled rebels demanding greater rights for the former Yugoslav republic's large ethnic Albanian minority. 
 
 Macedonia said on Tuesday 40 armed men in camouflage uniforms and speaking Albanian had crossed from neighboring Kosovo and taken several police officers hostage overnight, calling for the creation of &quot;an Albanian state&quot;.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/04/21/us-macedonia-incident-idUSKBN0NC19220150421)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150421&t=2&i=1042159363&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB3K0M5)
+1. [Reuters](https://www.reuters.com/article/2015/04/21/us-macedonia-incident-idUSKBN0NC19220150421)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20150421&t=2&i=1042159363&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB3K0M5)
 
 ### Related:
 

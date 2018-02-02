@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/14/president-barack-obama-issues-an-executive-orde
 
 ### [2016-10-14](/news/2016/10/14/index.md)
 
+##### Cuba-United States relations
 # President Barack Obama issues an executive order on Cuba lifting monetary limits on the amount of Cuban products, including cigars and rum, which Americans can bring back for personal use, allowing Cubans and Americans to engage in joint medical research, and allowing Cubans to buy certain U.S. consumer goods online. 
 
 In a sweeping directive, President Obama pressed forward in the face of lingering opposition in Congress to repealing the Cold War trade embargo.

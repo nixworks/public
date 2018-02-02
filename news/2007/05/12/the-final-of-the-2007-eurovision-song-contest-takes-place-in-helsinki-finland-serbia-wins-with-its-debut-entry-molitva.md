@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/12/the-final-of-the-2007-eurovision-song-contest-takes-place-in-helsinki-finland-serbia-wins-with-its-debut-entry-molitva.html)  [JSON](/news/2007/05/12/the-final-of-the-2007-eurovision-song-contest-takes-place-in-helsinki-finland-serbia-wins-with-its-debut-entry-molitva.json)  [XML](/news/2007/05/12/the-final-of-the-2007-eurovision-song-contest-takes-place-in-helsinki-finland-serbia-wins-with-its-debut-entry-molitva.xml)  
+
 ### [2007-05-12](/news/2007/05/12/index.md)
 
+##### 2007 Eurovision Song Contest
 #  The final of the 2007 Eurovision Song Contest takes place in Helsinki, Finland. Serbia wins with its debut entry "Molitva". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/6648093.stm)
 

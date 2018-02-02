@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/31/the-russian-health-minister-yuri-shevchenko-has-now-stated-that-the-incapacitating-agent-used-in-the-storming-of-the-moscow-theatre-siege-w.html)  [JSON](/news/2002/10/31/the-russian-health-minister-yuri-shevchenko-has-now-stated-that-the-incapacitating-agent-used-in-the-storming-of-the-moscow-theatre-siege-w.json)  [XML](/news/2002/10/31/the-russian-health-minister-yuri-shevchenko-has-now-stated-that-the-incapacitating-agent-used-in-the-storming-of-the-moscow-theatre-siege-w.xml)  
+
 ### [2002-10-31](/news/2002/10/31/index.md)
 
+##### Yuri Shevchenko
 #  The Russian Health Minister Yuri Shevchenko has now stated that the incapacitating agent used in the storming of the Moscow theatre siege was a fentanyl derivative.
 
 

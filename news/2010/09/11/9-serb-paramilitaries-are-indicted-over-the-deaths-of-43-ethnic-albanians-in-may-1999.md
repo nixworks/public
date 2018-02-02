@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/11/9-serb-paramilitaries-are-indicted-over-the-deaths-of-43-ethnic-albanians-in-may-1999.html)  [JSON](/news/2010/09/11/9-serb-paramilitaries-are-indicted-over-the-deaths-of-43-ethnic-albanians-in-may-1999.json)  [XML](/news/2010/09/11/9-serb-paramilitaries-are-indicted-over-the-deaths-of-43-ethnic-albanians-in-may-1999.xml)  
+
 ### [2010-09-11](/news/2010/09/11/index.md)
 
+##### Serb
 # 9 Serb paramilitaries are indicted over the deaths of 43 ethnic Albanians in May 1999. 
 
 Belgrade charges former paramilitaries over killing of at least 43 ethnic Albanians in village of Cuska in May 1999.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/09/20109111535606107.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/11/201091115229636734_20.jpg)

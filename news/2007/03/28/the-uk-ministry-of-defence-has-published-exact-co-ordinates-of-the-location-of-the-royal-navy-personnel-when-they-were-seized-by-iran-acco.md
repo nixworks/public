@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/28/the-uk-ministry-of-defence-has-published-exact-co-ordinates-of-the-location-of-the-royal-navy-personnel-when-they-were-seized-by-iran-acco.html)  [JSON](/news/2007/03/28/the-uk-ministry-of-defence-has-published-exact-co-ordinates-of-the-location-of-the-royal-navy-personnel-when-they-were-seized-by-iran-acco.json)  [XML](/news/2007/03/28/the-uk-ministry-of-defence-has-published-exact-co-ordinates-of-the-location-of-the-royal-navy-personnel-when-they-were-seized-by-iran-acco.xml)  
+
 ### [2007-03-28](/news/2007/03/28/index.md)
 
+##### UK Ministry of Defence
 #  The UK Ministry of Defence has published exact co-ordinates of the location of the Royal Navy personnel when they were seized by Iran. According to this data the soldiers were 1.7 nautical miles within Iraqi waters at the time of their capture. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/tol/news/world/middle_east/article1579646.ece)
 

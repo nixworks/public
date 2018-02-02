@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/13/the-king-s-speech-wins-seven-awards-at-the-64th-british-academy-film-awards-including-best-film-and-best-actor-for-colin-firth.html)  [JSON](/news/2011/02/13/the-king-s-speech-wins-seven-awards-at-the-64th-british-academy-film-awards-including-best-film-and-best-actor-for-colin-firth.json)  [XML](/news/2011/02/13/the-king-s-speech-wins-seven-awards-at-the-64th-british-academy-film-awards-including-best-film-and-best-actor-for-colin-firth.xml)  
+
 ### [2011-02-13](/news/2011/02/13/index.md)
 
+##### The King's Speech
 # "The King's Speech" wins seven awards at the 64th British Academy Film Awards including best film and Best Actor for Colin Firth. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-12432378)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

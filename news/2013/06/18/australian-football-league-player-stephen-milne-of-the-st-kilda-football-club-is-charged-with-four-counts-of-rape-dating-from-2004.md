@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/18/australian-football-league-player-stephen-milne-of-the-st-kilda-football-club-is-charged-with-four-counts-of-rape-dating-from-2004.html)  [JSON](/news/2013/06/18/australian-football-league-player-stephen-milne-of-the-st-kilda-football-club-is-charged-with-four-counts-of-rape-dating-from-2004.json)  [XML](/news/2013/06/18/australian-football-league-player-stephen-milne-of-the-st-kilda-football-club-is-charged-with-four-counts-of-rape-dating-from-2004.xml)  
+
 ### [2013-06-18](/news/2013/06/18/index.md)
 
+##### Australian Football League
 # Australian Football League player Stephen Milne of the St Kilda Football Club is charged with four counts of rape dating from 2004. 
 
 Stephen Milne charged with four counts of rape dating back to an incident involving a 19-year-old girl in 2004.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/afl/afl-news/st-kilda-forward-charged-with-rape-20130618-2ofzh.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/2/o/f/z/t/image.related.articleLeadwide.620x349.2ofzh.png/1371597121207.jpg)

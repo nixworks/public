@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/16/the-2010-bric-summit-opens-in-brasalia-amidst-growing-cooperation-and-calls-for-a-bigger-role.html)  [JSON](/news/2010/04/16/the-2010-bric-summit-opens-in-brasalia-amidst-growing-cooperation-and-calls-for-a-bigger-role.json)  [XML](/news/2010/04/16/the-2010-bric-summit-opens-in-brasalia-amidst-growing-cooperation-and-calls-for-a-bigger-role.xml)  
+
 ### [2010-04-16](/news/2010/04/16/index.md)
 
+##### 2010 BRIC summit
 # The 2010 BRIC summit opens in Brasilia amidst growing cooperation and calls for a bigger role. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.thehindu.com/2010/04/16/stories/2010041662881200.htm)
 1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)

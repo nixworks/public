@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/11/in-bosnia-and-herzegovina-tens-of-thousands-of-people-gather-in-potocari-to-commemorate-the-srebrenica-massacre-and-rebury-610-victims.html)  [JSON](/news/2005/07/11/in-bosnia-and-herzegovina-tens-of-thousands-of-people-gather-in-potocari-to-commemorate-the-srebrenica-massacre-and-rebury-610-victims.json)  [XML](/news/2005/07/11/in-bosnia-and-herzegovina-tens-of-thousands-of-people-gather-in-potocari-to-commemorate-the-srebrenica-massacre-and-rebury-610-victims.xml)  
+
 ### [2005-07-11](/news/2005/07/11/index.md)
 
+##### Bosnia and Herzegovina
 #  In Bosnia and Herzegovina, tens of thousands of people gather in Potocari to commemorate the Srebrenica massacre and rebury 610 victims 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/1DF7683A-4114-4E8E-878E-FAF829504C35.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/4670379.stm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/19/2008-cambodian-thai-stand-off-some-500-thai-and-1-000-cambodian-troops-have-massed-near-prasat-preah-vihear-temple-on-the-border-between-t.html)  [JSON](/news/2008/07/19/2008-cambodian-thai-stand-off-some-500-thai-and-1-000-cambodian-troops-have-massed-near-prasat-preah-vihear-temple-on-the-border-between-t.json)  [XML](/news/2008/07/19/2008-cambodian-thai-stand-off-some-500-thai-and-1-000-cambodian-troops-have-massed-near-prasat-preah-vihear-temple-on-the-border-between-t.xml)  
+
 ### [2008-07-19](/news/2008/07/19/index.md)
 
+##### exchange gunfire
 #  2008 Cambodian-Thai stand-off: Some 500 Thai and 1,000 Cambodian troops have massed near Prasat Preah Vihear temple on the border between the two countries, increasing their presence on the fifth day of the tense stand-off. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [France 24](http://www.france24.com/en/20080719-troops-build-cambodia-border-thailand&navi=MONDE)
 

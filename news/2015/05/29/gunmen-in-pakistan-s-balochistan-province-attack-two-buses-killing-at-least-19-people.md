@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/05/29/gunmen-in-pakistan-s-balochistan-province-attack-two-buses-killing-at-least-19-people.html)  [JSON](/news/2015/05/29/gunmen-in-pakistan-s-balochistan-province-attack-two-buses-killing-at-least-19-people.json)  [XML](/news/2015/05/29/gunmen-in-pakistan-s-balochistan-province-attack-two-buses-killing-at-least-19-people.xml)  
+
 ### [2015-05-29](/news/2015/05/29/index.md)
 
+##### Balochistan conflict
 # Gunmen in Pakistan's Balochistan Province attack two buses killing at least 19 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-32940272?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/83314000/jpg/_83314269_83308184.jpg)
+
+### Changes:
+
+1. [Balochistan conflict: Gunmen in Pakistan's Balochistan Province attack two buses killing at least 19 people. ](/news/2015/05/29/balochistan-conflict-gunmen-in-pakistan-s-balochistan-province-attack-two-buses-killing-at-least-19-people.md) _2017-08-27 03:42:26 (First version)_
+1. [Gunmen in Pakistan's Balochistan Province attack two buses killing at least 19 people. ](/news/2015/05/29/gunmen-in-pakistan-s-balochistan-province-attack-two-buses-killing-at-least-19-people.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [China's People's Liberation Army (PLA) will be deployed in Pakistan to protect the China-Pakistan Economic Corridor that connects the Chinese-operated Gwadar Port in Balochistan, Pakistan to China's Xinjiang region. Neighboring India has voiced concern about the planned move. ](/news/2016/03/13/china-s-people-s-liberation-army-pla-will-be-deployed-in-pakistan-to-protect-the-chinaapakistan-economic-corridor-that-connects-the-chin.md) _Context: Balochistan, Pakistan_
 4. [A bomb on a motorcycle kills at least 3 people and injured 20 in the town of Sibi in Pakistan's Balochistan region. ](/news/2015/04/26/a-bomb-on-a-motorcycle-kills-at-least-3-people-and-injured-20-in-the-town-of-sibi-in-pakistan-s-balochistan-region.md) _Context: Balochistan conflict, Pakistan_
 5. [Pakistani human rights campaigner Sabeen Mahmud is killed by gunmen after attending a seminar on Balochistan's "disappeared people" in Karachi. ](/news/2015/04/24/pakistani-human-rights-campaigner-sabeen-mahmud-is-killed-by-gunmen-after-attending-a-seminar-on-balochistanas-disappeared-people-in-kar.md) _Context: Balochistan conflict, Pakistan_
-
-### Changes:
-
-1. [Balochistan conflict: Gunmen in Pakistan's Balochistan Province attack two buses killing at least 19 people. ](/news/2015/05/29/balochistan-conflict-gunmen-in-pakistan-s-balochistan-province-attack-two-buses-killing-at-least-19-people.md) _2017-08-27 03:42:26 (First version)_
-1. [Gunmen in Pakistan's Balochistan Province attack two buses killing at least 19 people. ](/news/2015/05/29/gunmen-in-pakistan-s-balochistan-province-attack-two-buses-killing-at-least-19-people.md) _(Current version)_

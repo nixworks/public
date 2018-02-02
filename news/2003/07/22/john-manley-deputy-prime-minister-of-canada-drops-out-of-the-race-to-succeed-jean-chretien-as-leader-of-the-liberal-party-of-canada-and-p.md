@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/22/john-manley-deputy-prime-minister-of-canada-drops-out-of-the-race-to-succeed-jean-chretien-as-leader-of-the-liberal-party-of-canada-and-p.html)  [JSON](/news/2003/07/22/john-manley-deputy-prime-minister-of-canada-drops-out-of-the-race-to-succeed-jean-chretien-as-leader-of-the-liberal-party-of-canada-and-p.json)  [XML](/news/2003/07/22/john-manley-deputy-prime-minister-of-canada-drops-out-of-the-race-to-succeed-jean-chretien-as-leader-of-the-liberal-party-of-canada-and-p.xml)  
+
 ### [2003-07-22](/news/2003/07/22/index.md)
 
+##### John Manley
 #  John Manley, Deputy Prime Minister of Canada, drops out of the race to succeed Jean Chrtien as leader of the Liberal Party of Canada and Prime Minister after conceding he cannot catch front-runner Paul Martin, Jr..
 
 

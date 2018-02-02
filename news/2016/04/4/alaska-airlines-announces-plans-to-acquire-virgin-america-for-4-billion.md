@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2016/04/4/alaska-airlines-announces-plans-to-acquire-virgin-america-for-4-billion.html)  [JSON](/news/2016/04/4/alaska-airlines-announces-plans-to-acquire-virgin-america-for-4-billion.json)  [XML](/news/2016/04/4/alaska-airlines-announces-plans-to-acquire-virgin-america-for-4-billion.xml)  
+
 ### [2016-04-4](/news/2016/04/4/index.md)
 
+##### Alaska Airlines
 # Alaska Airlines announces plans to acquire Virgin America for $4 billion. 
 
 

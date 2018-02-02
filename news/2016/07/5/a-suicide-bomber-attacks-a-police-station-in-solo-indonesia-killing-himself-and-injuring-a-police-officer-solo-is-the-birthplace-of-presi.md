@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/5/a-suicide-bomber-attacks-a-police-station-in-sol
 
 ### [2016-07-5](/news/2016/07/5/index.md)
 
+##### Terrorism in Indonesia
 # A suicide bomber attacks a police station in Solo, Indonesia, killing himself and injuring a police officer. Solo is the birthplace of President Joko Widodo. 
 
 An Indonesian suicide bomber believed to be a supporter of the Islamic State militant group attacked a police station in the city of Solo on Tuesday, killing himself and wounding a police officer, security officials said.

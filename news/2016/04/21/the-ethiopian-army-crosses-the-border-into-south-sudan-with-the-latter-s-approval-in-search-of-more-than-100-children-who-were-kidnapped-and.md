@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/21/the-ethiopian-army-crosses-the-border-into-sout
 
 ### [2016-04-21](/news/2016/04/21/index.md)
 
+##### Ethnic violence in South Sudan
 # The Ethiopian Army crosses the border into South Sudan with the latter's approval in search of more than 100 children who were kidnapped and spirited across the border in a surprise attack by unknown assailants that also killed 208 people a few days ago. 
 
 Troops cross into South Sudan in search of more than 100 children believed abducted in violent raid last week.

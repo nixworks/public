@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/12/u-s-republican-presidential-candidate-ron-paul-announces-that-he-will-not-stand-again-for-his-texas-district-in-2012.html)  [JSON](/news/2011/07/12/u-s-republican-presidential-candidate-ron-paul-announces-that-he-will-not-stand-again-for-his-texas-district-in-2012.json)  [XML](/news/2011/07/12/u-s-republican-presidential-candidate-ron-paul-announces-that-he-will-not-stand-again-for-his-texas-district-in-2012.xml)  
+
 ### [2011-07-12](/news/2011/07/12/index.md)
 
+##### Republican
 # U.S. Republican presidential candidate Ron Paul announces that he will not stand again for his Texas district in 2012. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/USA/Politics/The-Vote/2011/0712/Ron-Paul-says-he-s-all-in-for-the-presidency-won-t-run-again-for-Congress)
 2. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052702304584404576442223826681388.html)

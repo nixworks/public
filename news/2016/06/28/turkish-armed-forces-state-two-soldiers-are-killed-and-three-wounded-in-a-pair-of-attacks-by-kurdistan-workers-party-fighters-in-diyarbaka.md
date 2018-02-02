@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/28/turkish-armed-forces-state-two-soldiers-are-kil
 
 ### [2016-06-28](/news/2016/06/28/index.md)
 
+##### Kurdish-Turkish conflict
 # Turkish Armed Forces state two soldiers are killed and three wounded in a pair of attacks by Kurdistan Workers' Party fighters in Diyarbakir Province in the country's southeast. 
 
 A roadside bomb planted by Kurdish militants ripped apart a military armored vehicle in southeast Turkey on Wednesday, killing two soldiers and wounding three others, security sources said.

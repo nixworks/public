@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/13/thousands-of-members-of-nigeria-s-ruling-people-s-democratic-party-begin-voting-on-whether-incumbent-president-goodluck-jonathan-should-be-t.html)  [JSON](/news/2011/01/13/thousands-of-members-of-nigeria-s-ruling-people-s-democratic-party-begin-voting-on-whether-incumbent-president-goodluck-jonathan-should-be-t.json)  [XML](/news/2011/01/13/thousands-of-members-of-nigeria-s-ruling-people-s-democratic-party-begin-voting-on-whether-incumbent-president-goodluck-jonathan-should-be-t.xml)  
+
 ### [2011-01-13](/news/2011/01/13/index.md)
 
+##### Nigeria
 # Thousands of members of Nigeria's ruling People's Democratic Party begin voting on whether incumbent President Goodluck Jonathan should be their choice of candidate in April presidential elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/commoditiesNews/idAFLDE70C1Y120110113?sp=true)
 

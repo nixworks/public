@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2011/07/23/general-john-m-shalikashvili-a-polish-american-former-chairman-of-the-joint-chiefs-of-staff-under-president-bill-clinton-during-the-post-c.html)  [JSON](/news/2011/07/23/general-john-m-shalikashvili-a-polish-american-former-chairman-of-the-joint-chiefs-of-staff-under-president-bill-clinton-during-the-post-c.json)  [XML](/news/2011/07/23/general-john-m-shalikashvili-a-polish-american-former-chairman-of-the-joint-chiefs-of-staff-under-president-bill-clinton-during-the-post-c.xml)  
+
 ### [2011-07-23](/news/2011/07/23/index.md)
 
+##### John M. Shalikashvili
 # General John M. Shalikashvili, a Polish-American former Chairman of the Joint Chiefs of Staff under President Bill Clinton during the Post-Cold War years and the Bosnian conflicts who had suffered a major stroke several years ago, dies.
 
 

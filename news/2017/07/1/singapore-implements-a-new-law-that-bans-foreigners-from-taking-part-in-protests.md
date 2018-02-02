@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/1/singapore-implements-a-new-law-that-bans-foreign
 
 ### [2017-07-1](/news/2017/07/1/index.md)
 
+##### Law of Singapore
 # Singapore implements a new law that bans foreigners from taking part in protests. 
 
 Those taking part in the rally had to show identity cards to prove they were citizens or permanent residents before being allowed into a barricaded zone.

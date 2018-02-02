@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/3/alberto-contador-joins-team-saxo-bank-managed-by-bjarne-riis.html)  [JSON](/news/2010/08/3/alberto-contador-joins-team-saxo-bank-managed-by-bjarne-riis.json)  [XML](/news/2010/08/3/alberto-contador-joins-team-saxo-bank-managed-by-bjarne-riis.xml)  
+
 ### [2010-08-3](/news/2010/08/3/index.md)
 
+##### Alberto Contador
 # Alberto Contador joins Team Saxo Bank, managed by Bjarne Riis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/other_sports/cycling/8880854.stm)
 

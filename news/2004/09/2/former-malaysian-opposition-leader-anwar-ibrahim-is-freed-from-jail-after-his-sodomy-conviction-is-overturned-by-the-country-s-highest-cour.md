@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/2/former-malaysian-opposition-leader-anwar-ibrahim-is-freed-from-jail-after-his-sodomy-conviction-is-overturned-by-the-country-s-highest-cour.html)  [JSON](/news/2004/09/2/former-malaysian-opposition-leader-anwar-ibrahim-is-freed-from-jail-after-his-sodomy-conviction-is-overturned-by-the-country-s-highest-cour.json)  [XML](/news/2004/09/2/former-malaysian-opposition-leader-anwar-ibrahim-is-freed-from-jail-after-his-sodomy-conviction-is-overturned-by-the-country-s-highest-cour.xml)  
+
 ### [2004-09-2](/news/2004/09/2/index.md)
 
+##### Malaysia
 #  Former Malaysian opposition leader Anwar Ibrahim is freed from jail after his sodomy conviction is overturned by the country's highest court. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/3619790.stm)
 2. [Bloomberg](http://quote.bloomberg.com/apps/news?pid=10000080&sid=abS0aIHad388&refer=asia)

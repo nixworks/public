@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/9/authorities-in-bangladesh-arrest-five-leaders-of-the-opposition-bangladesh-nationalist-party-the-day-before-the-start-of-a-nationwide-strike.html)  [JSON](/news/2013/11/9/authorities-in-bangladesh-arrest-five-leaders-of-the-opposition-bangladesh-nationalist-party-the-day-before-the-start-of-a-nationwide-strike.json)  [XML](/news/2013/11/9/authorities-in-bangladesh-arrest-five-leaders-of-the-opposition-bangladesh-nationalist-party-the-day-before-the-start-of-a-nationwide-strike.xml)  
+
 ### [2013-11-9](/news/2013/11/9/index.md)
 
+##### Bangladesh
 # Authorities in Bangladesh arrest five leaders of the Opposition Bangladesh Nationalist Party the day before the start of a nationwide strike. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/bangladesh-arrests-5-opposition-leaders)
 

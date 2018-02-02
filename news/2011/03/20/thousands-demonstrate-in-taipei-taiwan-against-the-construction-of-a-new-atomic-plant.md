@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/20/thousands-demonstrate-in-taipei-taiwan-against-the-construction-of-a-new-atomic-plant.html)  [JSON](/news/2011/03/20/thousands-demonstrate-in-taipei-taiwan-against-the-construction-of-a-new-atomic-plant.json)  [XML](/news/2011/03/20/thousands-demonstrate-in-taipei-taiwan-against-the-construction-of-a-new-atomic-plant.xml)  
+
 ### [2011-03-20](/news/2011/03/20/index.md)
 
+##### Taipei
 # Thousands demonstrate in Taipei, Taiwan against the construction of a new atomic plant. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aALL&ID=201103200021)
 2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_647255.html)

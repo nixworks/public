@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/4/mattel-and-the-consumer-product-safety-commission-in-the-united-states-announces-that-it-is-recalling-700-000-chinese-made-toys-on-the-grou.html)  [JSON](/news/2007/09/4/mattel-and-the-consumer-product-safety-commission-in-the-united-states-announces-that-it-is-recalling-700-000-chinese-made-toys-on-the-grou.json)  [XML](/news/2007/09/4/mattel-and-the-consumer-product-safety-commission-in-the-united-states-announces-that-it-is-recalling-700-000-chinese-made-toys-on-the-grou.xml)  
+
 ### [2007-09-4](/news/2007/09/4/index.md)
 
+##### Mattel
 #  Mattel and the Consumer Product Safety Commission in the United States announces that it is recalling 700,000 Chinese-made toys on the grounds of excessive lead paint making it the third recall in the past month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://ap.google.com/article/ALeqM5hHLBZZotFT8hmC56ugcHueYlfOKQ)
 

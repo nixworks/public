@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/29/a-stampede-at-a-concert-in-conakry-the-capital-of-guinea-to-mark-the-end-of-ramadan-results-in-at-least-24-deaths-with-dozens-more-injured.html)  [JSON](/news/2014/07/29/a-stampede-at-a-concert-in-conakry-the-capital-of-guinea-to-mark-the-end-of-ramadan-results-in-at-least-24-deaths-with-dozens-more-injured.json)  [XML](/news/2014/07/29/a-stampede-at-a-concert-in-conakry-the-capital-of-guinea-to-mark-the-end-of-ramadan-results-in-at-least-24-deaths-with-dozens-more-injured.xml)  
+
 ### [2014-07-29](/news/2014/07/29/index.md)
 
+##### Conakry
 # A stampede at a concert in Conakry, the capital of Guinea, to mark the end of Ramadan results in at least 24 deaths with dozens more injured. 
 
 At least 34 people have reportedly died in a stampede in Guinea, during a concert marking the end of the Muslim holy month of Ramadan.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-28558081)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/76626000/jpg/_76626335_dsc_0277.jpg)

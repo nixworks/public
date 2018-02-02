@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/30/agents-from-the-federal-bureau-of-investigation-and-internal-revenue-service-search-the-house-of-senator-ted-stevens-in-girdwood-alaska.html)  [JSON](/news/2007/07/30/agents-from-the-federal-bureau-of-investigation-and-internal-revenue-service-search-the-house-of-senator-ted-stevens-in-girdwood-alaska.json)  [XML](/news/2007/07/30/agents-from-the-federal-bureau-of-investigation-and-internal-revenue-service-search-the-house-of-senator-ted-stevens-in-girdwood-alaska.xml)  
+
 ### [2007-07-30](/news/2007/07/30/index.md)
 
+##### FBI
 #  Agents from the Federal Bureau of Investigation and Internal Revenue Service search the house of Senator Ted Stevens in Girdwood, Alaska. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://www.abcnews.go.com/US/wireStory?id=3429531)
 

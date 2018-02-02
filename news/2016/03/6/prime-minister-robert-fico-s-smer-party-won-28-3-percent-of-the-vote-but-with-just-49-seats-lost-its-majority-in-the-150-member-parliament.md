@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/6/prime-minister-robert-fico-s-smer-party-won-28-3
 
 ### [2016-03-6](/news/2016/03/6/index.md)
 
+##### Slovak parliamentary election, 2016
 # Prime Minister Robert Fico's Smer party won 28.3 percent of the vote, but with just 49 seats, lost its majority in the 150-member parliament. The Freedom and Solidarity party won 21 seats (12.1%), and the Ordinary People party took 19 seats (11.0%). 
 
 Slovakia was haunted by its past yesterday after far-right militants who have donned uniforms modelled on a World War II Nazi puppet state won seats for the first time.

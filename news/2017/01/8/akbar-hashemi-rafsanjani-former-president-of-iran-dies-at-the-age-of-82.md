@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/8/akbar-hashemi-rafsanjani-former-president-of-ira
 
 ### [2017-01-8](/news/2017/01/8/index.md)
 
+##### Akbar Hashemi Rafsanjani
 # Akbar Hashemi Rafsanjani, former President of Iran, dies at the age of 82. 
 
 Former Iranian president Akbar Hashemi Rafsanjani was taken to hospital on Sunday with a heart condition, the official Iranian news agency IRNA reported.

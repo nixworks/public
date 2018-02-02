@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/23/the-election-commission-in-guinea-proposes-10-october-as-a-revised-date-for-the-presidential-run-off-election.html)  [JSON](/news/2010/09/23/the-election-commission-in-guinea-proposes-10-october-as-a-revised-date-for-the-presidential-run-off-election.json)  [XML](/news/2010/09/23/the-election-commission-in-guinea-proposes-10-october-as-a-revised-date-for-the-presidential-run-off-election.xml)  
+
 ### [2010-09-23](/news/2010/09/23/index.md)
 
+##### Guinea
 # The election commission in Guinea proposes 10 October as a revised date for the presidential run-off election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/africa/09/22/guinea.elections/)
 2. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE68L5S420100922?sp=true)

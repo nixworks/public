@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/21/egypt-temporarily-reopens-its-border-crossing-with-gaza-which-had-been-closed-since-october-until-4-pm-monday.html)  [JSON](/news/2014/12/21/egypt-temporarily-reopens-its-border-crossing-with-gaza-which-had-been-closed-since-october-until-4-pm-monday.json)  [XML](/news/2014/12/21/egypt-temporarily-reopens-its-border-crossing-with-gaza-which-had-been-closed-since-october-until-4-pm-monday.xml)  
+
 ### [2014-12-21](/news/2014/12/21/index.md)
 
+##### Egypt
 # Egypt temporarily reopens its border crossing with Gaza, which had been closed since October, until 4 pm Monday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Ahram Online](http://english.ahram.org.eg/NewsContent/1/64/118496/Egypt/Politics-/Egypt-opens-Rafah-border-crossing-for-two-days.aspx)
 

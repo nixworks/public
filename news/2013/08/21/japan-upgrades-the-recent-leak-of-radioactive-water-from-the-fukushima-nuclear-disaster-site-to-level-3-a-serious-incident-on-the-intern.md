@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/21/japan-upgrades-the-recent-leak-of-radioactive-water-from-the-fukushima-nuclear-disaster-site-to-level-3-a-serious-incident-on-the-intern.html)  [JSON](/news/2013/08/21/japan-upgrades-the-recent-leak-of-radioactive-water-from-the-fukushima-nuclear-disaster-site-to-level-3-a-serious-incident-on-the-intern.json)  [XML](/news/2013/08/21/japan-upgrades-the-recent-leak-of-radioactive-water-from-the-fukushima-nuclear-disaster-site-to-level-3-a-serious-incident-on-the-intern.xml)  
+
 ### [2013-08-21](/news/2013/08/21/index.md)
 
+##### Japan
 # Japan upgrades the recent leak of radioactive water from the Fukushima nuclear disaster site to Level 3, a "serious incident," on the International Nuclear Event Scale. 
 
 “FLASH: Japan raises severity of latest Fukushima leak to level 3 (&quot;serious&quot; radiation &quot;incident&quot;) on international scale”
 
 
-### Source:
+### Sources:
 
 1. [Reuters India](https://twitter.com/ReutersIndia/status/369996569359036416)
 1. [Cover Image](https://pbs.twimg.com/profile_images/1430805980/rtr_logo_twitter_dred_400x400.png)

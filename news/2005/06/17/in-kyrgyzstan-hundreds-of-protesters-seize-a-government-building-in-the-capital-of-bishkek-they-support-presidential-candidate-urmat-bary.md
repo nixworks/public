@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/17/in-kyrgyzstan-hundreds-of-protesters-seize-a-government-building-in-the-capital-of-bishkek-they-support-presidential-candidate-urmat-bary.html)  [JSON](/news/2005/06/17/in-kyrgyzstan-hundreds-of-protesters-seize-a-government-building-in-the-capital-of-bishkek-they-support-presidential-candidate-urmat-bary.json)  [XML](/news/2005/06/17/in-kyrgyzstan-hundreds-of-protesters-seize-a-government-building-in-the-capital-of-bishkek-they-support-presidential-candidate-urmat-bary.xml)  
+
 ### [2005-06-17](/news/2005/06/17/index.md)
 
+##### Kyrgyzstan
 #  In Kyrgyzstan, hundreds of protesters seize a government building in the capital of Bishkek. They support presidential candidate Urmat Baryaktadasov, who was denied registration because the government says he is also a citizen of Kazakhstan. Police later seized the building. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4102294.stm)
 2. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/06/17/kyrgystan.protest.ap/)

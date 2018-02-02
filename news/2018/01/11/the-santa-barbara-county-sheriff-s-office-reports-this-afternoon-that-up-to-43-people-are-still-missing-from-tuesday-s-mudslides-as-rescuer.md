@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/11/the-santa-barbara-county-sheriff-s-office-repor
 
 ### [2018-01-11](/news/2018/01/11/index.md)
 
+##### 2018 Southern California mudflows
 #  The Santa Barbara County Sheriff's Office reports this afternoon that up to 43 people are still missing from Tuesday's mudslides as rescuers continue to search through Montecito's massive debris field; this morning the report had been eight missing. The casualty numbers are expected to rise. 
 
 

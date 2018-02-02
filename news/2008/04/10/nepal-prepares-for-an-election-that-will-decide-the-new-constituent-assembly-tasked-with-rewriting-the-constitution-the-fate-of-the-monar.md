@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/04/10/nepal-prepares-for-an-election-that-will-decide-the-new-constituent-assembly-tasked-with-rewriting-the-constitution-the-fate-of-the-monar.html)  [JSON](/news/2008/04/10/nepal-prepares-for-an-election-that-will-decide-the-new-constituent-assembly-tasked-with-rewriting-the-constitution-the-fate-of-the-monar.json)  [XML](/news/2008/04/10/nepal-prepares-for-an-election-that-will-decide-the-new-constituent-assembly-tasked-with-rewriting-the-constitution-the-fate-of-the-monar.xml)  
+
 ### [2008-04-10](/news/2008/04/10/index.md)
 
+##### Nepal
 #  Nepal prepares for an election that will decide the new Constituent Assembly, tasked with rewriting the constitution. The fate of the monarchy is also at stake. 
 
 Polls opened Thursday morning for Nepal’s 17.6 million voters to choose a special assembly that will rewrite the Constitution and govern the nation in the meantime.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/04/10/world/asia/10nepal.html)
+1. [The New York Times](https://www.nytimes.com/2008/04/10/world/asia/10nepal.html)
 1. [Cover Image](https://static01.nyt.com/images/2008/04/10/world/10nepal03-75.jpg)
 
 ### Related:

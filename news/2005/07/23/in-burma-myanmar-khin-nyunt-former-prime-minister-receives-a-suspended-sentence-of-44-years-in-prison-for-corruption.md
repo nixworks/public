@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/23/in-burma-myanmar-khin-nyunt-former-prime-minister-receives-a-suspended-sentence-of-44-years-in-prison-for-corruption.html)  [JSON](/news/2005/07/23/in-burma-myanmar-khin-nyunt-former-prime-minister-receives-a-suspended-sentence-of-44-years-in-prison-for-corruption.json)  [XML](/news/2005/07/23/in-burma-myanmar-khin-nyunt-former-prime-minister-receives-a-suspended-sentence-of-44-years-in-prison-for-corruption.xml)  
+
 ### [2005-07-23](/news/2005/07/23/index.md)
 
+##### Burma
 #  In Burma-Myanmar, Khin Nyunt, former prime minister, receives a suspended sentence of 44 years in prison for corruption 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Democratic Voice of Burma](http://english.dvb.no/news.php?id=5207)
 2. [Irrawaddy](http://www.irrawaddy.org/aviewer.asp?a=4836&z=153)

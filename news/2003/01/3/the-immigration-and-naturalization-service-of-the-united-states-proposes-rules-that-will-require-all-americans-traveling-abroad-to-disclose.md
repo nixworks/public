@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/3/the-immigration-and-naturalization-service-of-the-united-states-proposes-rules-that-will-require-all-americans-traveling-abroad-to-disclose.html)  [JSON](/news/2003/01/3/the-immigration-and-naturalization-service-of-the-united-states-proposes-rules-that-will-require-all-americans-traveling-abroad-to-disclose.json)  [XML](/news/2003/01/3/the-immigration-and-naturalization-service-of-the-united-states-proposes-rules-that-will-require-all-americans-traveling-abroad-to-disclose.xml)  
+
 ### [2003-01-3](/news/2003/01/3/index.md)
 
+##### INS
 #  The Immigration and Naturalization Service of the United States proposes rules that will require all Americans traveling abroad to disclose detailed personal information both before leaving the country and before being permitted to re-enter the country.
 
 

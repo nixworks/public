@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/15/the-jammu-and-kashmir-police-arrest-nine-suspected-jaish-e-mohammed-members-in-connection-with-the-grenade-attacks-that-shook-srinagar-kill.html)  [JSON](/news/2006/04/15/the-jammu-and-kashmir-police-arrest-nine-suspected-jaish-e-mohammed-members-in-connection-with-the-grenade-attacks-that-shook-srinagar-kill.json)  [XML](/news/2006/04/15/the-jammu-and-kashmir-police-arrest-nine-suspected-jaish-e-mohammed-members-in-connection-with-the-grenade-attacks-that-shook-srinagar-kill.xml)  
+
 ### [2006-04-15](/news/2006/04/15/index.md)
 
+##### Jammu and Kashmir
 #  The Jammu and Kashmir police arrest nine suspected Jaish-e-Mohammed members in connection with the grenade attacks that shook Srinagar killing five and injuring 40 others. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.hindu.com/2006/04/16/stories/2006041612580100.htm)
 2. [The Tribune](http://www.tribuneindia.com/2006/20060416/main4.htm)

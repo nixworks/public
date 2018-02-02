@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/01/22/the-elections-for-the-19th-knesset-are-held-in-israel-the-incumbent-prime-minister-benjamin-netanyahu-s-electoral-alliance-likud-yisrael-b.html)  [JSON](/news/2013/01/22/the-elections-for-the-19th-knesset-are-held-in-israel-the-incumbent-prime-minister-benjamin-netanyahu-s-electoral-alliance-likud-yisrael-b.json)  [XML](/news/2013/01/22/the-elections-for-the-19th-knesset-are-held-in-israel-the-incumbent-prime-minister-benjamin-netanyahu-s-electoral-alliance-likud-yisrael-b.xml)  
+
 ### [2013-01-22](/news/2013/01/22/index.md)
 
+##### Elections for the 19th Knesset
 # The Elections for the 19th Knesset are held in Israel. The incumbent Prime Minister Benjamin Netanyahu's electoral alliance, Likud Yisrael Beiteinu, wins a plurality with 31 seats. 
 
 Israeli Prime Minister Benjamin Netanyahu vows to form &quot;as broad a government as possible&quot; after his bloc narrowly wins general elections.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21155063)
-2. [Reuters](http://www.reuters.com/article/2013/01/23/us-israel-election-idUSBRE90K0FP20130123)
+2. [Reuters](https://www.reuters.com/article/2013/01/23/us-israel-election-idUSBRE90K0FP20130123)
 2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65450000/jpg/_65450962_ab9e4oor.jpg)
 
 ### Related:

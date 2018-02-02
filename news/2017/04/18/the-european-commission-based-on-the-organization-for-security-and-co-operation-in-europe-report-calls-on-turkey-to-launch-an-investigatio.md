@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/18/the-european-commission-based-on-the-organizati
 
 ### [2017-04-18](/news/2017/04/18/index.md)
 
+##### Turkish constitutional referendum, 2017
 # The European Commission, based on the Organization for Security and Co-operation in Europe report, calls on Turkey to launch an investigation into allegations of referendum voting irregularities. 
 
 The EU called on Turkey to launch an investigation into allegations of irregularities following a report stating its referendum was not genuinely democratic.
@@ -21,8 +22,8 @@ The EU called on Turkey to launch an investigation into allegations of irregular
 
 ### Related:
 
-1. [Voters in Turkey go to the polls for a referendum that seeks to replace the country's parliamentary system with an executive presidency, thereby giving President Recep Tayyip Erdogan sweeping new powers. Erdogan's AK Party has claimed victory while the opposition CHP has said that it will challenge the result. ](/news/2017/04/16/voters-in-turkey-go-to-the-polls-for-a-referendum-that-seeks-to-replace-the-country-s-parliamentary-system-with-an-executive-presidency-the.md) _Context: Turkey, Turkish constitutional referendum, 2017_
-2. [Several people are wounded in clashes outside the Turkish consulate in Brussels. ](/news/2017/03/30/several-people-are-wounded-in-clashes-outside-the-turkish-consulate-in-brussels.md) _Context: Turkey, Turkish constitutional referendum, 2017_
-3. [ A draft European Commission report raises new doubts about Turkey's bid to join the European Union. ](/news/2006/11/3/a-draft-european-commission-report-raises-new-doubts-about-turkey-s-bid-to-join-the-european-union.md) _Context: European Commission, Turkey_
-4. [ The European Commission recommends that talks be opened with Turkey aiming for it to join the European Union. ](/news/2004/10/6/the-european-commission-recommends-that-talks-be-opened-with-turkey-aiming-for-it-to-join-the-european-union.md) _Context: European Commission, Turkey_
-5. [The European Commission orders Poland, the Czech Republic and Hungary to court over their refusal to incorporate more refugees. This is the third step in a process that may lead to fines and loss of the countries' voting rights in the European Union. ](/news/2017/12/7/the-european-commission-orders-poland-the-czech-republic-and-hungary-to-court-over-their-refusal-to-incorporate-more-refugees-this-is-the.md) _Context: European Commission_
+1. [Voters in Turkey go to the polls for a referendum that seeks to replace the country's parliamentary system with an executive presidency, thereby giving President Recep Tayyip Erdogan sweeping new powers. Erdogan's AK Party has claimed victory while the opposition CHP has said that it will challenge the result. ](/news/2017/04/16/voters-in-turkey-go-to-the-polls-for-a-referendum-that-seeks-to-replace-the-country-s-parliamentary-system-with-an-executive-presidency-the.md) _Context: Turkish, Turkish constitutional referendum, 2017_
+2. [Several people are wounded in clashes outside the Turkish consulate in Brussels. ](/news/2017/03/30/several-people-are-wounded-in-clashes-outside-the-turkish-consulate-in-brussels.md) _Context: Turkish, Turkish constitutional referendum, 2017_
+3. [ A draft European Commission report raises new doubts about Turkey's bid to join the European Union. ](/news/2006/11/3/a-draft-european-commission-report-raises-new-doubts-about-turkey-s-bid-to-join-the-european-union.md) _Context: European Commission, Turkish_
+4. [ The European Commission recommends that talks be opened with Turkey aiming for it to join the European Union. ](/news/2004/10/6/the-european-commission-recommends-that-talks-be-opened-with-turkey-aiming-for-it-to-join-the-european-union.md) _Context: European Commission, Turkish_
+5. [Turkish airstrikes and shelling heavily damage the ancient Syro-Hittite Ain Dara temple in Syria's Afrin District. The Directorate-General of Antiquities and Museums calls on the international community to pressure Turkey "to prevent the targeting of archaeological and cultural sites". ](/news/2018/01/28/turkish-airstrikes-and-shelling-heavily-damage-the-ancient-syro-hittite-ain-dara-temple-in-syria-s-afrin-district-the-directorate-general-o.md) _Context: Turkish_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/17/sahwari-activist-aminatou-haidar-is-hospitalized-in-tenerife-spain-after-32-nbsp-days-of-hunger-strike-protesting-against-her-expulsion-b.html)  [JSON](/news/2009/12/17/sahwari-activist-aminatou-haidar-is-hospitalized-in-tenerife-spain-after-32-nbsp-days-of-hunger-strike-protesting-against-her-expulsion-b.json)  [XML](/news/2009/12/17/sahwari-activist-aminatou-haidar-is-hospitalized-in-tenerife-spain-after-32-nbsp-days-of-hunger-strike-protesting-against-her-expulsion-b.xml)  
+
 ### [2009-12-17](/news/2009/12/17/index.md)
 
+##### Western Sahara
 #  Sahwari activist Aminatou Haidar is hospitalized in Tenerife, Spain, after 32&nbsp;days of hunger strike protesting against her expulsion by the Moroccan authorities. 
 
 Western Sahara independence activist Aminatou Haidar was taken to hospital at her own request early Thursday from the Spanish airport where she has been staging a hunger strike for more than a month, one of her aides said.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8417841.stm)
 2. [CNN](http://edition.cnn.com/2009/WORLD/europe/12/17/haidar.hunger.hospital.sahara/index.html)

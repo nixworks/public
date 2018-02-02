@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/9/the-nobel-prize-in-chemistry-is-awarded-to-martin-karplus-michael-levitt-and-arieh-warshel-for-their-work-on-multiscale-models-for-complex.html)  [JSON](/news/2013/10/9/the-nobel-prize-in-chemistry-is-awarded-to-martin-karplus-michael-levitt-and-arieh-warshel-for-their-work-on-multiscale-models-for-complex.json)  [XML](/news/2013/10/9/the-nobel-prize-in-chemistry-is-awarded-to-martin-karplus-michael-levitt-and-arieh-warshel-for-their-work-on-multiscale-models-for-complex.xml)  
+
 ### [2013-10-9](/news/2013/10/9/index.md)
 
+##### Nobel Prize
 # The Nobel Prize in Chemistry is awarded to Martin Karplus, Michael Levitt and Arieh Warshel for their work on multiscale models for complex chemical systems. 
 
 The Nobel Prize in chemistry has been awarded to three scientists who &quot;took the chemical experiment into cyberspace&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-24458534)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70372000/jpg/_70372716_c0176364-chlorophyll_molecule-spl.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/22/japanese-police-rescue-four-hostages-from-a-toyokawa-shinkin-bank-and-arrest-the-knife-wielding-man-who-had-held-them-captive-for-more-than.html)  [JSON](/news/2012/11/22/japanese-police-rescue-four-hostages-from-a-toyokawa-shinkin-bank-and-arrest-the-knife-wielding-man-who-had-held-them-captive-for-more-than.json)  [XML](/news/2012/11/22/japanese-police-rescue-four-hostages-from-a-toyokawa-shinkin-bank-and-arrest-the-knife-wielding-man-who-had-held-them-captive-for-more-than.xml)  
+
 ### [2012-11-22](/news/2012/11/22/index.md)
 
+##### Japan
 # Japanese police rescue four hostages from a Toyokawa Shinkin bank and arrest the knife-wielding man who had held them captive for more than 12 hours while demanding that Prime Minister Yoshihiko Noda resign. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5h_eq4oCaJUb8oWOiq3U6ep8xcg0Q)
 

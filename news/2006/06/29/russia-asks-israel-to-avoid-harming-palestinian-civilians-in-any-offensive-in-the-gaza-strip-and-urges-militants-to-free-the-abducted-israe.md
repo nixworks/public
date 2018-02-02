@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/29/russia-asks-israel-to-avoid-harming-palestinian-civilians-in-any-offensive-in-the-gaza-strip-and-urges-militants-to-free-the-abducted-israe.html)  [JSON](/news/2006/06/29/russia-asks-israel-to-avoid-harming-palestinian-civilians-in-any-offensive-in-the-gaza-strip-and-urges-militants-to-free-the-abducted-israe.json)  [XML](/news/2006/06/29/russia-asks-israel-to-avoid-harming-palestinian-civilians-in-any-offensive-in-the-gaza-strip-and-urges-militants-to-free-the-abducted-israe.xml)  
+
 ### [2006-06-29](/news/2006/06/29/index.md)
 
+##### Russia
 #  Russia asks Israel to avoid harming Palestinian civilians in any offensive in the Gaza Strip and urges militants to free the abducted Israeli soldier. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Independent SA](http://www.iol.co.za/index.php?set_id=1&click_id=123&art_id=qw1151580780992B253)
 

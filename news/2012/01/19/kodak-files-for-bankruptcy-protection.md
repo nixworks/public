@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/01/19/kodak-files-for-bankruptcy-protection.html)  [JSON](/news/2012/01/19/kodak-files-for-bankruptcy-protection.json)  [XML](/news/2012/01/19/kodak-files-for-bankruptcy-protection.xml)  
+
 ### [2012-01-19](/news/2012/01/19/index.md)
 
+##### Kodak
 # Kodak files for bankruptcy protection. 
 
 * Liabilities exceed assets by about $1.65 billion* Kodak holds 1,100 digital patents* Obtains $950 mln credit line from Citigroup* C
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/01/19/kodak-idUSL3E8CJ20N20120119)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/01/19/kodak-idUSL3E8CJ20N20120119)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

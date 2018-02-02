@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/18/the-egyptian-ministry-of-antiquities-announces-
 
 ### [2017-04-18](/news/2017/04/18/index.md)
 
+##### Egypt
 # The Egyptian Ministry of Antiquities announces the discovery of eight mummies, 10 colorful sarcophagi, and numerous figurines in a 3,500-year-old tomb near the Valley of the Kings in Luxor. 
 
 Eight mummies, colourful coffins and more than 1000 funerary statues have been found at a tomb near the Valley of the Kings in Egypt.

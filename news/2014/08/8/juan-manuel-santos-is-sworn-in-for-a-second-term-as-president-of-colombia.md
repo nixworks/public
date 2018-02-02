@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/8/juan-manuel-santos-is-sworn-in-for-a-second-term-as-president-of-colombia.html)  [JSON](/news/2014/08/8/juan-manuel-santos-is-sworn-in-for-a-second-term-as-president-of-colombia.json)  [XML](/news/2014/08/8/juan-manuel-santos-is-sworn-in-for-a-second-term-as-president-of-colombia.xml)  
+
 ### [2014-08-8](/news/2014/08/8/index.md)
 
+##### Juan Manuel Santos
 # Juan Manuel Santos is sworn in for a second term as President of Colombia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Today Colombia](http://todaycolombia.com/2014/08/president-santos-sworn-in-for-second-term/)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/03/21/in-estonia-prime-minister-juhan-parts-announces-his-resignation-after-vote-of-no-confidence-against-justice-minister-ken-marti-vaher-that.html)  [JSON](/news/2005/03/21/in-estonia-prime-minister-juhan-parts-announces-his-resignation-after-vote-of-no-confidence-against-justice-minister-ken-marti-vaher-that.json)  [XML](/news/2005/03/21/in-estonia-prime-minister-juhan-parts-announces-his-resignation-after-vote-of-no-confidence-against-justice-minister-ken-marti-vaher-that.xml)  
+
 ### [2005-03-21](/news/2005/03/21/index.md)
 
+##### Estonia
 #  In Estonia, prime minister Juhan Parts announces his resignation after vote of no confidence against justice minister Ken-Marti Vaher. That also means his government is dissolved 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4369399.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aZKvA0ecB7Dw&refer=europe)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000085&sid=aZKvA0ecB7Dw&refer=europe)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/21/the-wwf-warns-that-some-species-of-tuna-including-bluefin-tuna-are-at-risk-of-commercial-extinction-due-to-illegal-fishing.html)  [JSON](/news/2007/01/21/the-wwf-warns-that-some-species-of-tuna-including-bluefin-tuna-are-at-risk-of-commercial-extinction-due-to-illegal-fishing.json)  [XML](/news/2007/01/21/the-wwf-warns-that-some-species-of-tuna-including-bluefin-tuna-are-at-risk-of-commercial-extinction-due-to-illegal-fishing.xml)  
+
 ### [2007-01-21](/news/2007/01/21/index.md)
 
+##### World Wildlife Fund
 #  The WWF warns that some species of tuna including bluefin tuna are at risk of commercial extinction due to illegal fishing. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2007-01-22T001048Z_01_L18927513_RTRUKOC_0_US-FISHERIES-TUNA.xml&src=rss)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

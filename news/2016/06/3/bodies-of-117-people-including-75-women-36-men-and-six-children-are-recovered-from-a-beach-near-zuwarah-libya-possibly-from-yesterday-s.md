@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/3/bodies-of-117-people-including-75-women-36-men-a
 
 ### [2016-06-3](/news/2016/06/3/index.md)
 
+##### European migrant crisis
 # Bodies of 117 people, including 75 women, 36 men and six children, are recovered from a beach near Zuwarah, Libya, possibly from yesterday's capsize in the Mediterranean Sea. 
 
 

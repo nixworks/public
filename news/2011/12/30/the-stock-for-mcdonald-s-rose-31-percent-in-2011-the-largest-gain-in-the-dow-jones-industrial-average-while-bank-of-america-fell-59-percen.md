@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/30/the-stock-for-mcdonald-s-rose-31-percent-in-2011-the-largest-gain-in-the-dow-jones-industrial-average-while-bank-of-america-fell-59-percen.html)  [JSON](/news/2011/12/30/the-stock-for-mcdonald-s-rose-31-percent-in-2011-the-largest-gain-in-the-dow-jones-industrial-average-while-bank-of-america-fell-59-percen.json)  [XML](/news/2011/12/30/the-stock-for-mcdonald-s-rose-31-percent-in-2011-the-largest-gain-in-the-dow-jones-industrial-average-while-bank-of-america-fell-59-percen.xml)  
+
 ### [2011-12-30](/news/2011/12/30/index.md)
 
+##### McDonald's restaurants
 # The stock for McDonald's rose 31 percent in 2011, the largest gain in the Dow Jones Industrial Average, while Bank of America fell 59 percent, the largest loss in the Dow Jones. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2011/12/30/markets/biggest_losers_winners/index.htm?hpt=hp_t3)
 1. [Cover Image](http://i2.cdn.turner.com/money/2011/12/30/markets/biggest_losers_winners/mcdonalds.gi.01.jpg)

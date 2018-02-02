@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/13/israeli-palestinian-clashes-subside-as-a-truce-between-israel-and-palestinians-militants-in-the-gaza-strip-comes-into-effect.html)  [JSON](/news/2012/03/13/israeli-palestinian-clashes-subside-as-a-truce-between-israel-and-palestinians-militants-in-the-gaza-strip-comes-into-effect.json)  [XML](/news/2012/03/13/israeli-palestinian-clashes-subside-as-a-truce-between-israel-and-palestinians-militants-in-the-gaza-strip-comes-into-effect.xml)  
+
 ### [2012-03-13](/news/2012/03/13/index.md)
 
+##### Israeli-Palestinian clashes
 # Israeli-Palestinian clashes subside as a truce between Israel and Palestinians militants in the Gaza Strip comes into effect. 
 
 A truce mediated by Egypt has been agreed between Israel and Palestinian militants in Gaza after four days of deadly clashes.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-17348403)
 2. [CNN](http://www.cnn.com/2012/03/13/world/meast/gaza-israel-airstrikes/index.html?hpt=hp_bn2)

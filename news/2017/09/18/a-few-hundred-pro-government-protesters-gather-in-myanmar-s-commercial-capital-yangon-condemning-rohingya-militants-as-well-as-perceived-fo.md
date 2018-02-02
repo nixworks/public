@@ -1,23 +1,27 @@
+
+Formats: [HTML](/news/2017/09/18/a-few-hundred-pro-government-protesters-gather-in-myanmar-s-commercial-capital-yangon-condemning-rohingya-militants-as-well-as-perceived-fo.html)  [JSON](/news/2017/09/18/a-few-hundred-pro-government-protesters-gather-in-myanmar-s-commercial-capital-yangon-condemning-rohingya-militants-as-well-as-perceived-fo.json)  [XML](/news/2017/09/18/a-few-hundred-pro-government-protesters-gather-in-myanmar-s-commercial-capital-yangon-condemning-rohingya-militants-as-well-as-perceived-fo.xml)  
+
 ### [2017-09-18](/news/2017/09/18/index.md)
 
+##### Northern Rakhine State clashes
 # A few hundred pro-government protesters gather in Myanmar's commercial capital Yangon, condemning Rohingya militants as well as perceived foreign interference in the Rakhine conflict. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN](https://www.msn.com/en-gb/video/headlines/pro-government-protest-in-myanmars-yangon/vi-AAs8vpu)
-
-### Related:
-
-1. [The Government of Malaysia claims that violence against Myanmar's Muslim Rohingya minority is "ethnic cleansing" ahead of a march in Kuala Lumpur led by Prime Minister Najib Razak. ](/news/2016/12/3/the-government-of-malaysia-claims-that-violence-against-myanmar-s-muslim-rohingya-minority-is-ethnic-cleansing-ahead-of-a-march-in-kuala-l.md) _Context: Myanmar, Rohingya_
-2. [Myanmarese students on a march to Yangon to protest an academic bill defy a police order to disperse in Letpadan Township. ](/news/2015/03/3/myanmarese-students-on-a-march-to-yangon-to-protest-an-academic-bill-defy-a-police-order-to-disperse-in-letpadan-township.md) _Context: Myanmar, Yangon_
-3. [A Myanmar court sentences four journalists and the editor of the Yangon based Unity journal to ten years hard labor for allegedly publishing state secrets in an investigative series of reports on a weapons factory. ](/news/2014/07/10/a-myanmar-court-sentences-four-journalists-and-the-editor-of-the-yangon-based-unity-journal-to-ten-years-hard-labor-for-allegedly-publishing.md) _Context: Myanmar, Yangon_
-4. [Several dozen Rohingya boat refugees from Bangladesh and Myanmar are accepted to India at Port Blair in the Andaman Islands after being detained by the Thai Navy and rejected at sea, but face repatriation to Bangladesh. ](/news/2011/02/8/several-dozen-rohingya-boat-refugees-from-bangladesh-and-myanmar-are-accepted-to-india-at-port-blair-in-the-andaman-islands-after-being-deta.md) _Context: Myanmar, Rohingya_
-5. [U Tin Oo, the Vice-Chairman of the National League for Democracy was released today in Yangon, the largest city in Myanmar, after the expiration of his term of house arrest. ](/news/2010/02/13/u-tin-oo-the-vice-chairman-of-the-national-league-for-democracy-was-released-today-in-yangon-the-largest-city-in-myanmar-after-the-expira.md) _Context: Myanmar, Yangon_
 
 ### Changes:
 
 1. [A few hundred pro-government protesters gather in Myanmar's commercial capital Yangon, condemning Rohingya insurgents as well as perceived foreign interference in the Rakhine conflict. ](/news/2017/09/18/a-few-hundred-pro-government-protesters-gather-in-myanmar-s-commercial-capital-yangon-condemning-rohingya-insurgents-as-well-as-perceived-f.md) _2017-09-26 03:53:38 (First version)_
 1. [A few hundred pro-government protesters gather in Myanmar's commercial capital Yangon, condemning Rohingya militants as well as perceived foreign interference in the Rakhine conflict. ](/news/2017/09/18/a-few-hundred-pro-government-protesters-gather-in-myanmar-s-commercial-capital-yangon-condemning-rohingya-militants-as-well-as-perceived-fo.md) _(Current version)_
+
+### Related:
+
+1. [Pope Francis arrives in Yangon to begin a six-day trip to Myanmar and Bangladesh, where he is expected to meet with the Rohingya people. ](/news/2017/11/27/pope-francis-arrives-in-yangon-to-begin-a-six-day-trip-to-myanmar-and-bangladesh-where-he-is-expected-to-meet-with-the-rohingya-people.md) _Context: Myanmar, Yangon_
+2. [Chinese delegates visiting the Burmese capital of Naypyidaw propose a three-phase plan to resolve the conflict in Myanmar's Rakhine State. The governments of Myanmar and Bangladesh expressed support for the plan, which included repatriating refugees that have fled from violence in Rakhine State. ](/news/2017/11/19/chinese-delegates-visiting-the-burmese-capital-of-naypyidaw-propose-a-three-phase-plan-to-resolve-the-conflict-in-myanmar-s-rakhine-state-t.md) _Context: Myanmar, Northern Rakhine State clashes_
+3. [Human Rights Watch releases a report detailing the alleged systematic rape of Rohingya women and girls by Myanmar's security forces in Rakhine State. ](/news/2017/11/16/human-rights-watch-releases-a-report-detailing-the-alleged-systematic-rape-of-rohingya-women-and-girls-by-myanmar-s-security-forces-in-rakhi.md) _Context: Myanmar, Northern Rakhine State clashes_
+4. [More than 2,000 people march in Yangon to show support for the military, urging the military to secure the country's sovereignty, protect national security and stop illegal intruders (referring to the Rohingya people). ](/news/2017/10/29/more-than-2-000-people-march-in-yangon-to-show-support-for-the-military-urging-the-military-to-secure-the-country-s-sovereignty-protect-na.md) _Context: Northern Rakhine State clashes, Yangon_
+5. [The Government of Malaysia claims that violence against Myanmar's Muslim Rohingya minority is "ethnic cleansing" ahead of a march in Kuala Lumpur led by Prime Minister Najib Razak. ](/news/2016/12/3/the-government-of-malaysia-claims-that-violence-against-myanmar-s-muslim-rohingya-minority-is-ethnic-cleansing-ahead-of-a-march-in-kuala-l.md) _Context: Myanmar, Rohingya_

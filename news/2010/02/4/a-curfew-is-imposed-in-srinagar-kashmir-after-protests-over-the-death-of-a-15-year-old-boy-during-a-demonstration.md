@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/4/a-curfew-is-imposed-in-srinagar-kashmir-after-protests-over-the-death-of-a-15-year-old-boy-during-a-demonstration.html)  [JSON](/news/2010/02/4/a-curfew-is-imposed-in-srinagar-kashmir-after-protests-over-the-death-of-a-15-year-old-boy-during-a-demonstration.json)  [XML](/news/2010/02/4/a-curfew-is-imposed-in-srinagar-kashmir-after-protests-over-the-death-of-a-15-year-old-boy-during-a-demonstration.xml)  
+
 ### [2010-02-4](/news/2010/02/4/index.md)
 
+##### Srinagar
 # A curfew is imposed in Srinagar, Kashmir, after protests over the death of a 15-year-old boy during a demonstration. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j3XfauzJeh2KV8ty3vr2jiIOZIzQ)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8497438.stm)

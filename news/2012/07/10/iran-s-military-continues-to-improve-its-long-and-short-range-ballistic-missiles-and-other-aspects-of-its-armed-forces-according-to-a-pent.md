@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2012/07/10/iran-s-military-continues-to-improve-its-long-and-short-range-ballistic-missiles-and-other-aspects-of-its-armed-forces-according-to-a-pent.html)  [JSON](/news/2012/07/10/iran-s-military-continues-to-improve-its-long-and-short-range-ballistic-missiles-and-other-aspects-of-its-armed-forces-according-to-a-pent.json)  [XML](/news/2012/07/10/iran-s-military-continues-to-improve-its-long-and-short-range-ballistic-missiles-and-other-aspects-of-its-armed-forces-according-to-a-pent.xml)  
+
 ### [2012-07-10](/news/2012/07/10/index.md)
 
+##### Iran's military
 # Iran's military continues to improve its long- and short-range ballistic missiles and other aspects of its armed forces, according to a Pentagon report to the US Congress. 
 
+Iran’s military continues to improve the accuracy and killing power of its long- and short-range ballistic missiles, including designing a weapon to target vessels, according to a Pentagon report to Congress.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2012-07-10/iran-improves-ballistics-missiles-to-target-ships.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2012-07-10/iran-improves-ballistics-missiles-to-target-ships.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/30/burma-says-26-government-troops-and-8-rebels-were-killed-during-violence-in-the-kokang-region-of-shan-state.html)  [JSON](/news/2009/08/30/burma-says-26-government-troops-and-8-rebels-were-killed-during-violence-in-the-kokang-region-of-shan-state.json)  [XML](/news/2009/08/30/burma-says-26-government-troops-and-8-rebels-were-killed-during-violence-in-the-kokang-region-of-shan-state.xml)  
+
 ### [2009-08-30](/news/2009/08/30/index.md)
 
+##### Burma
 #  Burma says 26 government troops and 8 rebels were killed during violence in the Kokang region of Shan State. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hov4RaavtS7HucD-x2bbXCIWsf_gD9AD8TNO0)
 

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2012/02/22/indonesian-police-storm-kerobokan-prison-on-the-island-of-bali-to-end-a-riot-with-two-prisoners-injured.html)  [JSON](/news/2012/02/22/indonesian-police-storm-kerobokan-prison-on-the-island-of-bali-to-end-a-riot-with-two-prisoners-injured.json)  [XML](/news/2012/02/22/indonesian-police-storm-kerobokan-prison-on-the-island-of-bali-to-end-a-riot-with-two-prisoners-injured.xml)  
+
 ### [2012-02-22](/news/2012/02/22/index.md)
 
+##### Indonesian police
 # Indonesian police storm Kerobokan Prison on the island of Bali to end a riot with two prisoners injured. 
 
 Indonesian police stormed a prison on the resort island of Bali on Wednesday to regain control after inmates burned offices and seized weapons in a riot during which two prisoners were shot and wounded, officials said.
 
 
-### Source:
+### Sources:
 
 1. [AAP via News Limited](http://www.news.com.au/world/rioting-prisoners-take-over-bali-prison/story-e6frfkyi-1226277760803)
-2. [Reuters](http://www.reuters.com/article/2012/02/22/us-indonesia-prison-idUSTRE81L06F20120222)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120222&t=2&i=573729986&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE81L09M400)
+2. [Reuters](https://www.reuters.com/article/2012/02/22/us-indonesia-prison-idUSTRE81L06F20120222)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120222&t=2&i=573729986&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE81L09M400)
 
 ### Related:
 

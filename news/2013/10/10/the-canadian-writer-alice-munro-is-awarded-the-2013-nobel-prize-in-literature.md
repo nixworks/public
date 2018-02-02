@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/10/the-canadian-writer-alice-munro-is-awarded-the-2013-nobel-prize-in-literature.html)  [JSON](/news/2013/10/10/the-canadian-writer-alice-munro-is-awarded-the-2013-nobel-prize-in-literature.json)  [XML](/news/2013/10/10/the-canadian-writer-alice-munro-is-awarded-the-2013-nobel-prize-in-literature.xml)  
+
 ### [2013-10-10](/news/2013/10/10/index.md)
 
+##### Canadian writer
 # The Canadian writer Alice Munro is awarded the 2013 Nobel Prize in Literature. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2013/10/10/living/nobel-prize-literature/)
 

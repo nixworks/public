@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2015/10/9/iranian-state-television-says-revolutionary-guard-brigadier-general-hossein-hamadani-has-been-killed-on-the-outskirts-of-syria-s-aleppo-by.html)  [JSON](/news/2015/10/9/iranian-state-television-says-revolutionary-guard-brigadier-general-hossein-hamadani-has-been-killed-on-the-outskirts-of-syria-s-aleppo-by.json)  [XML](/news/2015/10/9/iranian-state-television-says-revolutionary-guard-brigadier-general-hossein-hamadani-has-been-killed-on-the-outskirts-of-syria-s-aleppo-by.xml)  
+
 ### [2015-10-9](/news/2015/10/9/index.md)
 
+##### Syrian Civil War
 # Iranian state television says Revolutionary Guard brigadier general, Hossein Hamadani, has been killed on the outskirts of Syria's Aleppo by Islamic State of Iraq and the Levant militants. This is the latest in a string of high-ranking Iranian commanders killed in Iraq and Syria in the last six months. 
 
 An Iranian military commander has been killed in Syria while advising President Bashar al-Assad’s army. Iran’s Islamic Revolution Guards Corps said that Brigadier General Hossein Hamedani was killed by Isis militants on the outskirts of Aleppo city on Thursday night.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/pentagon-end-training-syrian-rebels-large-groups/story?id=34365905)
 2. [AP via The Washington Times](http://www.washingtontimes.com/news/2015/oct/9/islamic-state-group-seizes-syrian-villages-north-a/)
 3. [CNN](http://www.cnn.com/2015/10/09/politics/us-syria-rebels-arms-program-suspended/)
 4. [Daily Sabah](http://www.dailysabah.com/syrian-crisis/2015/10/09/un-condemns-killing-of-anadolu-agency-journalist-by-isis-bomb-attack-in-syria)
-5. [Independent](http://www.independent.co.uk/news/world/middle-east/iranian-commander-brigadier-general-hossein-hamedani-killed-by-isis-while-advising-syrian-regime-a6687276.html)
+5. [Independent](https://www.independent.co.uk/news/world/middle-east/iranian-commander-brigadier-general-hossein-hamedani-killed-by-isis-while-advising-syrian-regime-a6687276.html)
 6. [Novinite](http://www.novinite.com/articles/171245/Turkey%E2%80%99s+Anadolu+Agency+Photojournalist+Killed+in+Syria)
 6. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/10/09/08/Hossein-Hamedani.jpg)
 

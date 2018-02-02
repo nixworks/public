@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/20/u-s-president-george-w-bush-attends-a-church-service-during-his-visit-to-people-s-republic-of-china-as-he-presses-for-greater-freedoms-of.html)  [JSON](/news/2005/11/20/u-s-president-george-w-bush-attends-a-church-service-during-his-visit-to-people-s-republic-of-china-as-he-presses-for-greater-freedoms-of.json)  [XML](/news/2005/11/20/u-s-president-george-w-bush-attends-a-church-service-during-his-visit-to-people-s-republic-of-china-as-he-presses-for-greater-freedoms-of.xml)  
+
 ### [2005-11-20](/news/2005/11/20/index.md)
 
+##### U.S. President
 #  U.S. President George W. Bush attends a church service during his visit to People's Republic of China as he presses for greater freedoms of expression and faith during his east Asian tour. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4453336.stm)
 

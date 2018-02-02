@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/20/hurricane-beatriz-becomes-the-second-hurricane-of-the-2011-pacific-hurricane-season.html)  [JSON](/news/2011/06/20/hurricane-beatriz-becomes-the-second-hurricane-of-the-2011-pacific-hurricane-season.json)  [XML](/news/2011/06/20/hurricane-beatriz-becomes-the-second-hurricane-of-the-2011-pacific-hurricane-season.xml)  
+
 ### [2011-06-20](/news/2011/06/20/index.md)
 
+##### Hurricane Beatriz
 # Hurricane Beatriz becomes the second hurricane of the 2011 Pacific hurricane season. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [National Hurricane Centre](http://www.nhc.noaa.gov/nhc_storms.shtml)
 

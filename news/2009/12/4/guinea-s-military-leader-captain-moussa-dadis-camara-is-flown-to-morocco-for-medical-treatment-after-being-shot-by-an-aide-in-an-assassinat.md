@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/4/guinea-s-military-leader-captain-moussa-dadis-camara-is-flown-to-morocco-for-medical-treatment-after-being-shot-by-an-aide-in-an-assassinat.html)  [JSON](/news/2009/12/4/guinea-s-military-leader-captain-moussa-dadis-camara-is-flown-to-morocco-for-medical-treatment-after-being-shot-by-an-aide-in-an-assassinat.json)  [XML](/news/2009/12/4/guinea-s-military-leader-captain-moussa-dadis-camara-is-flown-to-morocco-for-medical-treatment-after-being-shot-by-an-aide-in-an-assassinat.xml)  
+
 ### [2009-12-4](/news/2009/12/4/index.md)
 
+##### Guinea
 #  Guinea's military leader Captain Moussa Dadis Camara is flown to Morocco for medical treatment after being shot by an aide in an assassination attempt. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iAVjutFiNxMjNLZd6fFZMANVHAXgD9CCFCS80)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/8395191.stm)

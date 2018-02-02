@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/31/fifteen-people-are-killed-and-11-injured-in-a-fire-at-the-public-markets-at-zamboanga-city-in-the-philippines.html)  [JSON](/news/2015/10/31/fifteen-people-are-killed-and-11-injured-in-a-fire-at-the-public-markets-at-zamboanga-city-in-the-philippines.json)  [XML](/news/2015/10/31/fifteen-people-are-killed-and-11-injured-in-a-fire-at-the-public-markets-at-zamboanga-city-in-the-philippines.xml)  
+
 ### [2015-10-31](/news/2015/10/31/index.md)
 
+##### Zamboanga City
 # Fifteen people are killed and 11 injured in a fire at the public markets at Zamboanga City in the Philippines. 
 
 Fifteen people were killed while 11 others were injured in a fire that struck the Zamboanga City Public Market at dawn on Saturday (October 31). According to police sources, the fatalities – some of whom were minors – were trapped in the market.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://cnnphilippines.com/regional/2015/10/31/15-killed-11-injured-in-Zamboanga-City-Public-Market-fire.html)
 1. [Cover Image](http://cnnphilippines.com/incoming/mr9jow-31-oct-2015-zamboanga-city-public-market-fire.jpg/ALTERNATES/LANDSCAPE_640/31-oct-2015-zamboanga-city-public-market-fire.jpg)

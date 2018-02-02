@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/5/first-minister-of-northern-ireland-peter-robinson-holds-separate-talks-with-both-sides-in-the-dispute-over-the-drumcree-conflict.html)  [JSON](/news/2009/07/5/first-minister-of-northern-ireland-peter-robinson-holds-separate-talks-with-both-sides-in-the-dispute-over-the-drumcree-conflict.json)  [XML](/news/2009/07/5/first-minister-of-northern-ireland-peter-robinson-holds-separate-talks-with-both-sides-in-the-dispute-over-the-drumcree-conflict.xml)  
+
 ### [2009-07-5](/news/2009/07/5/index.md)
 
+##### deputy First Minister of Northern Ireland
 #  First Minister of Northern Ireland Peter Robinson holds separate talks with both sides in the dispute over the Drumcree conflict. 
 
 The annual Orange Order parade in Drumcree passed off peacefully, with the PSNI mounting the smallest operation in over a decade.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0705/drumcree.html)
 1. [Cover Image](https://img.rasset.ie/00026c53-1600.jpg)

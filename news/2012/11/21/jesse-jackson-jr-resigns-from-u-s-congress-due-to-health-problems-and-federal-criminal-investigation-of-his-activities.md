@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/21/jesse-jackson-jr-resigns-from-u-s-congress-due-to-health-problems-and-federal-criminal-investigation-of-his-activities.html)  [JSON](/news/2012/11/21/jesse-jackson-jr-resigns-from-u-s-congress-due-to-health-problems-and-federal-criminal-investigation-of-his-activities.json)  [XML](/news/2012/11/21/jesse-jackson-jr-resigns-from-u-s-congress-due-to-health-problems-and-federal-criminal-investigation-of-his-activities.xml)  
+
 ### [2012-11-21](/news/2012/11/21/index.md)
 
+##### Jesse Jackson Jr.
 # Jesse Jackson Jr. resigns from U.S. Congress due to health problems and federal criminal investigation of his activities. 
 
 Rep. Jesse Jackson Jr. will announce his resignation from Congress &quot;momentarily&quot; in a letter to House Speaker John Boehner, Jackson&apos;s brother Jonathan Jackson said.
 
 
-### Source:
+### Sources:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-brother-rep-jackson-to-announce-resignation-20121121,0,3302727.story)
 1. [Cover Image](http://www.trbimg.com/img-50ae2ff0/turbine/chi-brother-rep-jackson-to-announce-resignation-20121121)

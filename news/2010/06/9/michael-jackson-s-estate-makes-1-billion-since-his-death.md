@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/9/michael-jackson-s-estate-makes-1-billion-since-his-death.html)  [JSON](/news/2010/06/9/michael-jackson-s-estate-makes-1-billion-since-his-death.json)  [XML](/news/2010/06/9/michael-jackson-s-estate-makes-1-billion-since-his-death.xml)  
+
 ### [2010-06-9](/news/2010/06/9/index.md)
 
+##### Michael Jackson
 # Michael Jackson's estate makes $1 billion since his death. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sina](http://english.sina.com/entertainment/p/2010/0607/323551.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/entertainment/2010-06/08/c_13339165.htm)

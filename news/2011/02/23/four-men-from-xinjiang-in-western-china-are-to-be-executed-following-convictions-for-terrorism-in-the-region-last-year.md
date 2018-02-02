@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/23/four-men-from-xinjiang-in-western-china-are-to-be-executed-following-convictions-for-terrorism-in-the-region-last-year.html)  [JSON](/news/2011/02/23/four-men-from-xinjiang-in-western-china-are-to-be-executed-following-convictions-for-terrorism-in-the-region-last-year.json)  [XML](/news/2011/02/23/four-men-from-xinjiang-in-western-china-are-to-be-executed-following-convictions-for-terrorism-in-the-region-last-year.xml)  
+
 ### [2011-02-23](/news/2011/02/23/index.md)
 
+##### Xinjiang
 # Four men from Xinjiang in western China are to be executed following convictions for terrorism in the region last year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12548724)
 2. [The Times of India](http://timesofindia.indiatimes.com/world/china/China-to-execute-four-Uighurs-in-western-region/articleshow/7556653.cms)

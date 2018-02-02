@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/19/construction-of-temporary-housing-begins-in-the-japanese-town-of-rikuzentakata-severely-damaged-in-the-2011-tahoku-earthquake-and-tsunami.html)  [JSON](/news/2011/03/19/construction-of-temporary-housing-begins-in-the-japanese-town-of-rikuzentakata-severely-damaged-in-the-2011-tahoku-earthquake-and-tsunami.json)  [XML](/news/2011/03/19/construction-of-temporary-housing-begins-in-the-japanese-town-of-rikuzentakata-severely-damaged-in-the-2011-tahoku-earthquake-and-tsunami.xml)  
+
 ### [2011-03-19](/news/2011/03/19/index.md)
 
+##### Japan
 # Construction of temporary housing begins in the Japanese town of Rikuzentakata severely damaged in the 2011 Tohoku earthquake and tsunami. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kyodo](http://english.kyodonews.jp/news/2011/03/79517.html)
 

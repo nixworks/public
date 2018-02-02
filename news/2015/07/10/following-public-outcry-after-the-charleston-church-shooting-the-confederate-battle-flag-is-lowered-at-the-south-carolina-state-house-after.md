@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/10/following-public-outcry-after-the-charleston-church-shooting-the-confederate-battle-flag-is-lowered-at-the-south-carolina-state-house-after.html)  [JSON](/news/2015/07/10/following-public-outcry-after-the-charleston-church-shooting-the-confederate-battle-flag-is-lowered-at-the-south-carolina-state-house-after.json)  [XML](/news/2015/07/10/following-public-outcry-after-the-charleston-church-shooting-the-confederate-battle-flag-is-lowered-at-the-south-carolina-state-house-after.xml)  
+
 ### [2015-07-10](/news/2015/07/10/index.md)
 
+##### Charleston church shooting
 # Following public outcry after the Charleston church shooting, the Confederate Battle Flag is lowered at the South Carolina State House after 54 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2015/07/10/us/south-carolina-confederate-battle-flag/index.html)
 

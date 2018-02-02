@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/4/several-rockets-were-fired-from-gaza-at-israel-and-exploded-near-the-cities-of-ashdod-netivot-and-ashkelon-causing-no-casualties-the-idf-r.html)  [JSON](/news/2015/06/4/several-rockets-were-fired-from-gaza-at-israel-and-exploded-near-the-cities-of-ashdod-netivot-and-ashkelon-causing-no-casualties-the-idf-r.json)  [XML](/news/2015/06/4/several-rockets-were-fired-from-gaza-at-israel-and-exploded-near-the-cities-of-ashdod-netivot-and-ashkelon-causing-no-casualties-the-idf-r.xml)  
+
 ### [2015-06-4](/news/2015/06/4/index.md)
 
+##### Israel
 # Several rockets were fired from Gaza at Israel and exploded near the cities of Ashdod, Netivot and Ashkelon causing no casualties. The IDF retaliated with airstrikes against empty Hamas training camps in Gaza. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/06/rockets-fired-gaza-southern-israel-150603230355923.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/6/3/a1e3afcf046b49fb9dc404b0372e72eb_18.jpg)

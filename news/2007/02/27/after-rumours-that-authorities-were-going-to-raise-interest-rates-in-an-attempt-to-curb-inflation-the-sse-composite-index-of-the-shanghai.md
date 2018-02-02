@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/02/27/after-rumours-that-authorities-were-going-to-raise-interest-rates-in-an-attempt-to-curb-inflation-the-sse-composite-index-of-the-shanghai.html)  [JSON](/news/2007/02/27/after-rumours-that-authorities-were-going-to-raise-interest-rates-in-an-attempt-to-curb-inflation-the-sse-composite-index-of-the-shanghai.json)  [XML](/news/2007/02/27/after-rumours-that-authorities-were-going-to-raise-interest-rates-in-an-attempt-to-curb-inflation-the-sse-composite-index-of-the-shanghai.xml)  
+
 ### [2007-02-27](/news/2007/02/27/index.md)
 
+##### Shanghai Composite Index
 #  After rumours that authorities were going to raise interest rates in an attempt to curb inflation, the SSE Composite Index of the Shanghai Stock Exchange tumbles 9% from unexpected selloffs, the largest drop in 10 years, triggering major drops in worldwide stock markets. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/business/6399941.stm)
-2. [Forbes](http://www.forbes.com/home/markets/2007/02/27/china-shanghai-update-markets-emerge-cx_jc_vk_0227markets15.html)
+2. [Forbes](https://www.forbes.com/home/markets/2007/02/27/china-shanghai-update-markets-emerge-cx_jc_vk_0227markets15.html)
 3. [Xinhua](http://news.xinhuanet.com/english/2007-02/27/content_5780066.htm)
 
 ### Related:

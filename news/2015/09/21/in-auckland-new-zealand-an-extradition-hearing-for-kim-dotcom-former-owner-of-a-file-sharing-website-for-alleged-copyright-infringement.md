@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/21/in-auckland-new-zealand-an-extradition-hearing-for-kim-dotcom-former-owner-of-a-file-sharing-website-for-alleged-copyright-infringement.html)  [JSON](/news/2015/09/21/in-auckland-new-zealand-an-extradition-hearing-for-kim-dotcom-former-owner-of-a-file-sharing-website-for-alleged-copyright-infringement.json)  [XML](/news/2015/09/21/in-auckland-new-zealand-an-extradition-hearing-for-kim-dotcom-former-owner-of-a-file-sharing-website-for-alleged-copyright-infringement.xml)  
+
 ### [2015-09-21](/news/2015/09/21/index.md)
 
+##### Auckland, New Zealand
 # In Auckland, New Zealand, an extradition hearing for Kim Dotcom, former owner of a file sharing website, for alleged copyright infringement, racketeering, and money laundering begins, seeking to bring him to the U.S. 
 
 The long-awaited extradition hearing for internet entrepreneur Kim Dotcom by US authorities opens in Auckland, New Zealand.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-34311267)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/5BA9/production/_85656432_6d7af6b4-788e-4352-9a4c-fd688acda2d1.jpg)

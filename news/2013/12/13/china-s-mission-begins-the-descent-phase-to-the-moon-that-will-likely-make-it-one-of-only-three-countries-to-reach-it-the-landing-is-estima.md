@@ -1,26 +1,30 @@
+
+Formats: [HTML](/news/2013/12/13/china-s-mission-begins-the-descent-phase-to-the-moon-that-will-likely-make-it-one-of-only-three-countries-to-reach-it-the-landing-is-estima.html)  [JSON](/news/2013/12/13/china-s-mission-begins-the-descent-phase-to-the-moon-that-will-likely-make-it-one-of-only-three-countries-to-reach-it-the-landing-is-estima.json)  [XML](/news/2013/12/13/china-s-mission-begins-the-descent-phase-to-the-moon-that-will-likely-make-it-one-of-only-three-countries-to-reach-it-the-landing-is-estima.xml)  
+
 ### [2013-12-13](/news/2013/12/13/index.md)
 
+##### Chinese
 # China's mission begins the descent phase to the moon that will likely make it one of only three countries to reach it. The landing is estimated to occur at 8:40 a.m. EST, December 14. 
 
 All systems appear to be “GO” for the world’s first attempt to soft land a space probe on the Moon in nearly four decades. China’s maiden moon landing prob
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/12/13/world/asia/china-moon-landing/)
 2. [Universe Today](http://www.universetoday.com/107169/chinas-change-3-moon-rover-descends-to-lower-orbit-sets-up-historic-soft-landing/)
 2. [Cover Image](http://www.universetoday.com/wp-content/uploads/2013/12/125838360_21n.jpg)
-
-### Related:
-
-1. [China's unmanned lunar rover Yutu shuts down after exploring the Moon for 31 months. ](/news/2016/08/4/china-s-unmanned-lunar-rover-yutu-shuts-down-after-exploring-the-moon-for-31-months.md) _Context: China, Moon_
-2. [China's mission carrying Yutu, China's first lunar rover, lands on the Moon. It is the first "soft" landing on the Moon since 1976 and the third ever robotic rover. ](/news/2013/12/14/china-s-mission-carrying-yutu-china-s-first-lunar-rover-lands-on-the-moon-it-is-the-first-soft-landing-on-the-moon-since-1976-and-the-t.md) _Context: China, Moon_
-3. [An Indian Air Force Mi-17 helicopter ferrying military officials crashes in Tawang, Arunachal Pradesh, a remote mountain region near the border with China, killing all seven personnel on board. ](/news/2017/10/6/an-indian-air-force-mi-17-helicopter-ferrying-military-officials-crashes-in-tawang-arunachal-pradesh-a-remote-mountain-region-near-the-bor.md) _Context: China_
-4. [As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes a distance of 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.md) _Context: Moon_
-5. [China limits petroleum exports and bans imports of textiles from North Korea as part of new sanctions following the latest nuclear test. ](/news/2017/09/23/china-limits-petroleum-exports-and-bans-imports-of-textiles-from-north-korea-as-part-of-new-sanctions-following-the-latest-nuclear-test.md) _Context: China_
 
 ### Changes:
 
 1. [Chang'e-3:China's mission begins the descent phase to the moon that will likely make it one of only three countries to reach it. The landing is estimated to occur at 8:40 a.m. EST, December 14. ](/news/2013/12/13/chang-e-3-pchina-s-mission-begins-the-descent-phase-to-the-moon-that-will-likely-make-it-one-of-only-three-countries-to-reach-it-the-landin.md) _2017-08-25 03:39:41 (First version)_
 2. [Chang'e-3:: China's mission begins the descent phase to the moon that will likely make it one of only three countries to reach it. The landing is estimated to occur at 8:40 a.m. EST, December 14. ](/news/2013/12/13/chang-e-3-china-s-mission-begins-the-descent-phase-to-the-moon-that-will-likely-make-it-one-of-only-three-countries-to-reach-it-the-landi.md) _2017-08-27 03:39:59 (Update)_
 2. [China's mission begins the descent phase to the moon that will likely make it one of only three countries to reach it. The landing is estimated to occur at 8:40 a.m. EST, December 14. ](/news/2013/12/13/china-s-mission-begins-the-descent-phase-to-the-moon-that-will-likely-make-it-one-of-only-three-countries-to-reach-it-the-landing-is-estima.md) _(Current version)_
+
+### Related:
+
+1. [Sanchi is still ablaze this morning and it continues to leak oil. Chinese officials mention the danger of explosion and sinking. ](/news/2018/01/8/sanchi-is-still-ablaze-this-morning-and-it-continues-to-leak-oil-chinese-officials-mention-the-danger-of-explosion-and-sinking.md) _Context: Chinese_
+2. [Thirty-two sailors are missing after Iranian oil tanker Sanchi and Chinese freighter "CF-Crystal" collide off the east coast of China. The collision ignites the oil tanker, which carried a 136,000-tonne load. ](/news/2018/01/6/thirty-two-sailors-are-missing-after-iranian-oil-tanker-sanchi-and-chinese-freighter-cf-crystal-collide-off-the-east-coast-of-china-the-c.md) _Context: Chinese_
+3. [Chinese scientists announce they have successfully cloned crab-eating macaques using somatic cell nuclear transfer (SCNT), making them the first primates to be cloned. The monkeys were named Zhong Zhong and Hua Hua. ](/news/2018/01/24/chinese-scientists-announce-they-have-successfully-cloned-crab-eating-macaques-using-somatic-cell-nuclear-transfer-scnt-making-them-the-f.md) _Context: Chinese_
+4. [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md) _Context: Chinese_
+5. [The National Iranian Tanker Company-operated Sanchi sinks, following its January 6 collision with a Hong Kong-flagged cargo ship off Shanghai, China, leaving no survivors. ](/news/2018/01/14/the-national-iranian-tanker-company-operated-sanchi-sinks-following-its-january-6-collision-with-a-hong-kong-flagged-cargo-ship-off-shangha.md) _Context: Chinese_

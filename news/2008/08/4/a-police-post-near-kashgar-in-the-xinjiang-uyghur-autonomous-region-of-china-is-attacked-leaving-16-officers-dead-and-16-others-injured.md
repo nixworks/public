@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/4/a-police-post-near-kashgar-in-the-xinjiang-uyghur-autonomous-region-of-china-is-attacked-leaving-16-officers-dead-and-16-others-injured.html)  [JSON](/news/2008/08/4/a-police-post-near-kashgar-in-the-xinjiang-uyghur-autonomous-region-of-china-is-attacked-leaving-16-officers-dead-and-16-others-injured.json)  [XML](/news/2008/08/4/a-police-post-near-kashgar-in-the-xinjiang-uyghur-autonomous-region-of-china-is-attacked-leaving-16-officers-dead-and-16-others-injured.xml)  
+
 ### [2008-08-4](/news/2008/08/4/index.md)
 
+##### Kashgar
 #  A police post near Kashgar in the Xinjiang Uyghur Autonomous Region of China is attacked, leaving 16 officers dead and 16 others injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7540138.stm)
 

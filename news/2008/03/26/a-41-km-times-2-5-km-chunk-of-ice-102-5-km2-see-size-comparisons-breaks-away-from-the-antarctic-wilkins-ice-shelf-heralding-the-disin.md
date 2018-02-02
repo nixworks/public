@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/26/a-41-km-times-2-5-km-chunk-of-ice-102-5-km2-see-size-comparisons-breaks-away-from-the-antarctic-wilkins-ice-shelf-heralding-the-disin.html)  [JSON](/news/2008/03/26/a-41-km-times-2-5-km-chunk-of-ice-102-5-km2-see-size-comparisons-breaks-away-from-the-antarctic-wilkins-ice-shelf-heralding-the-disin.json)  [XML](/news/2008/03/26/a-41-km-times-2-5-km-chunk-of-ice-102-5-km2-see-size-comparisons-breaks-away-from-the-antarctic-wilkins-ice-shelf-heralding-the-disin.xml)  
+
 ### [2008-03-26](/news/2008/03/26/index.md)
 
+##### iceberg
 #  A 41 km &times; 2.5 km chunk of ice (102.5 km, see size comparisons) breaks away from the Antarctic Wilkins ice shelf, heralding the disintegration of the remaining 14,000 km 2 . 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/science/nature/7313264.stm)
 2. [CNN](http://edition.cnn.com/2008/TECH/science/03/25/antarctic.ice/)

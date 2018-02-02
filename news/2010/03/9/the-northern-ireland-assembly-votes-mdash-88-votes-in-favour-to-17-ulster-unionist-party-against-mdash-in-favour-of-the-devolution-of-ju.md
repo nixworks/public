@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/9/the-northern-ireland-assembly-votes-mdash-88-votes-in-favour-to-17-ulster-unionist-party-against-mdash-in-favour-of-the-devolution-of-ju.html)  [JSON](/news/2010/03/9/the-northern-ireland-assembly-votes-mdash-88-votes-in-favour-to-17-ulster-unionist-party-against-mdash-in-favour-of-the-devolution-of-ju.json)  [XML](/news/2010/03/9/the-northern-ireland-assembly-votes-mdash-88-votes-in-favour-to-17-ulster-unionist-party-against-mdash-in-favour-of-the-devolution-of-ju.xml)  
+
 ### [2010-03-9](/news/2010/03/9/index.md)
 
+##### Northern Ireland Assembly
 # The Northern Ireland Assembly votes &mdash; 88 votes in favour to 17 Ulster Unionist Party against &mdash; in favour of the devolution of justice. 
 
 Northern Ireland&#39;s Assembly has voted in favour of transferring justice and policing powers from Westminster to Stormont.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8558466.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0309/northpolitics.html)

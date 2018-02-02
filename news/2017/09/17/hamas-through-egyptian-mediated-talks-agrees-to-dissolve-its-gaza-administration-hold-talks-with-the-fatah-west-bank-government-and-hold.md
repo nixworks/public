@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2017/09/17/hamas-through-egyptian-mediated-talks-agrees-to-dissolve-its-gaza-administration-hold-talks-with-the-fatah-west-bank-government-and-hold.html)  [JSON](/news/2017/09/17/hamas-through-egyptian-mediated-talks-agrees-to-dissolve-its-gaza-administration-hold-talks-with-the-fatah-west-bank-government-and-hold.json)  [XML](/news/2017/09/17/hamas-through-egyptian-mediated-talks-agrees-to-dissolve-its-gaza-administration-hold-talks-with-the-fatah-west-bank-government-and-hold.xml)  
+
 ### [2017-09-17](/news/2017/09/17/index.md)
 
+##### Palestinian politics
 # Hamas, through Egyptian-mediated talks, agrees to dissolve its Gaza administration, hold talks with the Fatah West Bank government, and hold elections for a Palestinian unity government. 
 
 Hamas says it is willing to dissolve its Gaza administration, 10 years after it fought a bloody war with Fatah
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-israel-palestinians-gaza/hamas-says-ready-to-hand-gaza-to-a-palestinian-unity-government-idUSKCN1BS013?il=0)
+1. [Reuters](https://www.reuters.com/article/us-israel-palestinians-gaza/hamas-says-ready-to-hand-gaza-to-a-palestinian-unity-government-idUSKCN1BS013?il=0)
 2. [The Guardian](https://www.theguardian.com/world/2017/sep/17/palestinian-elections-hamas-fatah-gaza-feud)
 2. [Cover Image](https://i.guim.co.uk/img/media/735be4eda12c43fc0f275c89f75ba699a705688b/0_215_4140_2484/master/4140.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=6e8f7013cc01631a23359774bf7b97b9)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/10/hundreds-of-mainland-chinese-and-taiwanese-people-are-arrested-in-several-countries-across-asia-during-a-crackdown-on-a-telephone-scam-netwo.html)  [JSON](/news/2011/06/10/hundreds-of-mainland-chinese-and-taiwanese-people-are-arrested-in-several-countries-across-asia-during-a-crackdown-on-a-telephone-scam-netwo.json)  [XML](/news/2011/06/10/hundreds-of-mainland-chinese-and-taiwanese-people-are-arrested-in-several-countries-across-asia-during-a-crackdown-on-a-telephone-scam-netwo.xml)  
+
 ### [2011-06-10](/news/2011/06/10/index.md)
 
+##### China
 # Hundreds of Mainland Chinese and Taiwanese people are arrested in several countries across Asia during a crackdown on a telephone scam network. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iECkhx17wB4Ms4TccTDy8_cko9tg?docId=CNG.2d0364df4f09fe91f0929404deff47c1.431)
 

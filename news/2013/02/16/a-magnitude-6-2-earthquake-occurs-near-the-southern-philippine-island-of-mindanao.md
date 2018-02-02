@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/16/a-magnitude-6-2-earthquake-occurs-near-the-southern-philippine-island-of-mindanao.html)  [JSON](/news/2013/02/16/a-magnitude-6-2-earthquake-occurs-near-the-southern-philippine-island-of-mindanao.json)  [XML](/news/2013/02/16/a-magnitude-6-2-earthquake-occurs-near-the-southern-philippine-island-of-mindanao.xml)  
+
 ### [2013-02-16](/news/2013/02/16/index.md)
 
+##### magnitude
 # A magnitude 6.2 earthquake occurs near the southern Philippine island of Mindanao. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2013/02/16/world/asia/philippines-earthquake)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/25/thousands-of-homes-in-scotland-and-northern-ireland-are-without-electricity-and-many-roads-are-closed-after-snowfall-and-strong-winds-hit-ov.html)  [JSON](/news/2013/03/25/thousands-of-homes-in-scotland-and-northern-ireland-are-without-electricity-and-many-roads-are-closed-after-snowfall-and-strong-winds-hit-ov.json)  [XML](/news/2013/03/25/thousands-of-homes-in-scotland-and-northern-ireland-are-without-electricity-and-many-roads-are-closed-after-snowfall-and-strong-winds-hit-ov.xml)  
+
 ### [2013-03-25](/news/2013/03/25/index.md)
 
+##### Scotland
 # Thousands of homes in Scotland and Northern Ireland are without electricity and many roads are closed after snowfall and strong winds hit over the weekend. 
 
 Thousands of homes are still without power and many roads are impassable after severe weather affected much of the UK during the weekend.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21920467)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66588000/jpg/_66588554_66588553.jpg)

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/03/21/the-european-space-agency-releases-the-planck-space-observatory-s-first-all-sky-map-of-the-cosmic-microwave-background-the-most-accurate-ev.html)  [JSON](/news/2013/03/21/the-european-space-agency-releases-the-planck-space-observatory-s-first-all-sky-map-of-the-cosmic-microwave-background-the-most-accurate-ev.json)  [XML](/news/2013/03/21/the-european-space-agency-releases-the-planck-space-observatory-s-first-all-sky-map-of-the-cosmic-microwave-background-the-most-accurate-ev.xml)  
+
 ### [2013-03-21](/news/2013/03/21/index.md)
 
+##### European Space Agency
 # The European Space Agency releases the Planck space observatory's first all-sky map of the cosmic microwave background, the most accurate ever created. It determines that the Universe is older than expected, at 13.82 billion years old. 
 
 The Planck space mission has released the most accurate and detailed map ever made of the oldest light in the universe, revealing new information about its age, contents and origins.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-21866464)
 2. [NASA](http://www.nasa.gov/mission_pages/planck/news/planck20130321.html)
-3. [The New York Times](http://www.nytimes.com/2013/03/22/science/space/planck-satellite-shows-image-of-infant-universe.html)
+3. [The New York Times](https://www.nytimes.com/2013/03/22/science/space/planck-satellite-shows-image-of-infant-universe.html)
 3. [Cover Image](http://www.nasa.gov/sites/default/files/images/735676main_pia16873-43_226-170.jpg)
 
 ### Related:

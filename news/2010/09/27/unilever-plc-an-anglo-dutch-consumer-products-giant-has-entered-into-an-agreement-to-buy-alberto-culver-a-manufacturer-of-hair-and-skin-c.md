@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/27/unilever-plc-an-anglo-dutch-consumer-products-giant-has-entered-into-an-agreement-to-buy-alberto-culver-a-manufacturer-of-hair-and-skin-c.html)  [JSON](/news/2010/09/27/unilever-plc-an-anglo-dutch-consumer-products-giant-has-entered-into-an-agreement-to-buy-alberto-culver-a-manufacturer-of-hair-and-skin-c.json)  [XML](/news/2010/09/27/unilever-plc-an-anglo-dutch-consumer-products-giant-has-entered-into-an-agreement-to-buy-alberto-culver-a-manufacturer-of-hair-and-skin-c.xml)  
+
 ### [2010-09-27](/news/2010/09/27/index.md)
 
+##### Unilever
 # Unilever plc, an Anglo-Dutch consumer products giant, has entered into an agreement to buy Alberto-Culver, a manufacturer of hair and skin care products, for $3.7 billion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TheStreet](http://www.thestreet.com/story/10871500/1/unilever-to-buy-alberto-culver-for-37b.html)
 

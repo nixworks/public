@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/11/6/african-union-mediators-adjourn-negotiations-with-sudan-on-the-darfur-conflict-after-numerous-security-issues-are-not-agreed-upon-mainly-a.html)  [JSON](/news/2004/11/6/african-union-mediators-adjourn-negotiations-with-sudan-on-the-darfur-conflict-after-numerous-security-issues-are-not-agreed-upon-mainly-a.json)  [XML](/news/2004/11/6/african-union-mediators-adjourn-negotiations-with-sudan-on-the-darfur-conflict-after-numerous-security-issues-are-not-agreed-upon-mainly-a.xml)  
+
 ### [2004-11-6](/news/2004/11/6/index.md)
 
+##### African Union
 #  African Union mediators adjourn negotiations with Sudan on the Darfur conflict after numerous security issues are not agreed upon, mainly a no-fly zone in Darfur. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/3988709.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6734420&pageNumber=0)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6734420&pageNumber=0)
 
 ### Related:
 

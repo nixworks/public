@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/07/7/dale-earnhardt-jr-wins-the-pepsi-400-in-the-first-nascar-nextel-cup-series-race-at-the-daytona-international-speedway-since-the-death-of-d.html)  [JSON](/news/2001/07/7/dale-earnhardt-jr-wins-the-pepsi-400-in-the-first-nascar-nextel-cup-series-race-at-the-daytona-international-speedway-since-the-death-of-d.json)  [XML](/news/2001/07/7/dale-earnhardt-jr-wins-the-pepsi-400-in-the-first-nascar-nextel-cup-series-race-at-the-daytona-international-speedway-since-the-death-of-d.xml)  
+
 ### [2001-07-7](/news/2001/07/7/index.md)
 
+##### Dale Earnhardt Jr.
 #  Dale Earnhardt Jr. wins the Pepsi 400 in the first NASCAR NEXTEL Cup Series race at the Daytona International Speedway since the death of Dale Earnhardt. Teammate Michael Waltrip ran second, blocking for Jr., an exact mirror of the Daytona 500 where Jr. blocked for Waltrip en route to his first 500 win.
 
 

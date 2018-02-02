@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/04/14/indian-police-arrest-16-people-in-a-case-where-more-than-us-400-000-was-transferred-from-citibank-accounts-to-fraudulent-accounts-in-india.html)  [JSON](/news/2005/04/14/indian-police-arrest-16-people-in-a-case-where-more-than-us-400-000-was-transferred-from-citibank-accounts-to-fraudulent-accounts-in-india.json)  [XML](/news/2005/04/14/indian-police-arrest-16-people-in-a-case-where-more-than-us-400-000-was-transferred-from-citibank-accounts-to-fraudulent-accounts-in-india.xml)  
+
 ### [2005-04-14](/news/2005/04/14/index.md)
 
+##### Citibank
 #  Indian police arrest 16 people in a case where more than US$400,000 was transferred from Citibank accounts to fraudulent accounts in India. 
 
 PUNE: The Pune police investigating the money siphoning racket told a city court that the accused had also clandestinely transferred an amount of Rs 38 lakh from a multinational bank into their accounts.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8185214)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8185214)
 2. [Times of India](http://timesofindia.indiatimes.com/articleshow/1076023.cms)
 2. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 

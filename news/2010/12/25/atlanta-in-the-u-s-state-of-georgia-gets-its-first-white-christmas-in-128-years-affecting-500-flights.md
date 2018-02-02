@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/25/atlanta-in-the-u-s-state-of-georgia-gets-its-first-white-christmas-in-128-years-affecting-500-flights.html)  [JSON](/news/2010/12/25/atlanta-in-the-u-s-state-of-georgia-gets-its-first-white-christmas-in-128-years-affecting-500-flights.json)  [XML](/news/2010/12/25/atlanta-in-the-u-s-state-of-georgia-gets-its-first-white-christmas-in-128-years-affecting-500-flights.xml)  
+
 ### [2010-12-25](/news/2010/12/25/index.md)
 
+##### Atlanta
 # Atlanta in the U.S. state of Georgia gets its first white Christmas in 128 years affecting 500 flights. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hY9KwjOcPBHXoxY_0bFWkqojremQ?docId=CNG.bf43c601f67e06b129ba3136fcd3b670.9c1)
 

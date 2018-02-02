@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/12/u-s-officials-say-unmanned-airstrikes-in-southe
 
 ### [2016-04-12](/news/2016/04/12/index.md)
 
+##### War in Somalia
 #  U.S. officials say unmanned airstrikes in southern Somalia killed about a dozen suspected militants from the al Qaeda-linked group al Shabaab on Monday and Tuesday. 
 
  About a dozen suspected militants from the al Qaeda-linked group al Shabaab were killed in U.S. air strikes in southern Somalia on Monday and Tuesday, the Pent

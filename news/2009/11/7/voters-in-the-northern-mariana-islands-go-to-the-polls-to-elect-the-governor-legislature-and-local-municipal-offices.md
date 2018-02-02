@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/7/voters-in-the-northern-mariana-islands-go-to-the-polls-to-elect-the-governor-legislature-and-local-municipal-offices.html)  [JSON](/news/2009/11/7/voters-in-the-northern-mariana-islands-go-to-the-polls-to-elect-the-governor-legislature-and-local-municipal-offices.json)  [XML](/news/2009/11/7/voters-in-the-northern-mariana-islands-go-to-the-polls-to-elect-the-governor-legislature-and-local-municipal-offices.xml)  
+
 ### [2009-11-7](/news/2009/11/7/index.md)
 
+##### Northern Mariana Islands
 #  Voters in the Northern Mariana Islands go to the polls to elect the governor, legislature and local municipal offices. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Marianas Variety](http://www.mvarietynews.com/cnmi-news/local/21561-your-vote-your-future.html)
 

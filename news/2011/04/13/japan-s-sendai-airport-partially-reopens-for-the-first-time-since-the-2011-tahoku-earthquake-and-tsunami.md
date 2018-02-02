@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/13/japan-s-sendai-airport-partially-reopens-for-the-first-time-since-the-2011-tahoku-earthquake-and-tsunami.html)  [JSON](/news/2011/04/13/japan-s-sendai-airport-partially-reopens-for-the-first-time-since-the-2011-tahoku-earthquake-and-tsunami.json)  [XML](/news/2011/04/13/japan-s-sendai-airport-partially-reopens-for-the-first-time-since-the-2011-tahoku-earthquake-and-tsunami.xml)  
+
 ### [2011-04-13](/news/2011/04/13/index.md)
 
+##### Japan
 # Japan's Sendai Airport partially reopens for the first time since the 2011 Tohoku earthquake and tsunami. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kyodo News](http://english.kyodonews.jp/news/2011/04/85059.html)
 

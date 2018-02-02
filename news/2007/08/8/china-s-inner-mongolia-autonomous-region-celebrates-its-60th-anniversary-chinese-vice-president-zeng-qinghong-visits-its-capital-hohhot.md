@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/8/china-s-inner-mongolia-autonomous-region-celebrates-its-60th-anniversary-chinese-vice-president-zeng-qinghong-visits-its-capital-hohhot.html)  [JSON](/news/2007/08/8/china-s-inner-mongolia-autonomous-region-celebrates-its-60th-anniversary-chinese-vice-president-zeng-qinghong-visits-its-capital-hohhot.json)  [XML](/news/2007/08/8/china-s-inner-mongolia-autonomous-region-celebrates-its-60th-anniversary-chinese-vice-president-zeng-qinghong-visits-its-capital-hohhot.xml)  
+
 ### [2007-08-8](/news/2007/08/8/index.md)
 
+##### Inner Mongolia
 #  China's Inner Mongolia Autonomous Region celebrates its 60th Anniversary. Chinese Vice-President Zeng Qinghong visits its capital, Hohhot, and participates in a series of large celebration events. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CCTV International](http://www.cctv.com/english/20070809/101419.shtml)
 

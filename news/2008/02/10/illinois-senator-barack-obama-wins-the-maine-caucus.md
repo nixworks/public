@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/02/10/illinois-senator-barack-obama-wins-the-maine-caucus.html)  [JSON](/news/2008/02/10/illinois-senator-barack-obama-wins-the-maine-caucus.json)  [XML](/news/2008/02/10/illinois-senator-barack-obama-wins-the-maine-caucus.xml)  
+
 ### [2008-02-10](/news/2008/02/10/index.md)
 
+##### Illinois
 #  Illinois Senator Barack Obama wins the Maine caucus. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080211/ap_on_el_pr/clinton_campaign_manager_11;_ylt=Am6MJDOiN8dpPrNIYcf_8MME1vAI)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080211/ap_on_el_pr/maine_caucuses_13;_ylt=AmU3eQZcua93EW9bQBFzmsUE1vAI)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20080211/ap_on_el_pr/clinton_campaign_manager_11;_ylt=Am6MJDOiN8dpPrNIYcf_8MME1vAI)
+2. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20080211/ap_on_el_pr/maine_caucuses_13;_ylt=AmU3eQZcua93EW9bQBFzmsUE1vAI)
 
 ### Related:
 

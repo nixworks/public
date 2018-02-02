@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/04/25/end-of-term-for-tuanku-jaafar-ibni-almarhum-tuanku-abdul-rahman-as-the-tenth-yang-di-pertuan-agong-of-malaysia.html)  [JSON](/news/1999/04/25/end-of-term-for-tuanku-jaafar-ibni-almarhum-tuanku-abdul-rahman-as-the-tenth-yang-di-pertuan-agong-of-malaysia.json)  [XML](/news/1999/04/25/end-of-term-for-tuanku-jaafar-ibni-almarhum-tuanku-abdul-rahman-as-the-tenth-yang-di-pertuan-agong-of-malaysia.xml)  
+
 ### [1999-04-25](/news/1999/04/25/index.md)
 
+##### Tuanku Jaafar ibni Almarhum Tuanku Abdul Rahman
 #  End of term for Tuanku Jaafar ibni Almarhum Tuanku Abdul Rahman as the tenth Yang di-Pertuan Agong of Malaysia.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/7/hurricane-bertha-becomes-the-first-hurricane-of-the-2008-atlantic-hurricane-season.html)  [JSON](/news/2008/07/7/hurricane-bertha-becomes-the-first-hurricane-of-the-2008-atlantic-hurricane-season.json)  [XML](/news/2008/07/7/hurricane-bertha-becomes-the-first-hurricane-of-the-2008-atlantic-hurricane-season.xml)  
+
 ### [2008-07-7](/news/2008/07/7/index.md)
 
+##### Hurricane Bertha
 #  Hurricane Bertha becomes the first hurricane of the 2008 Atlantic hurricane season. 
 
 Strengthening far more swiftly and vigorously than predicted, Hurricane Bertha became a &quot;major&quot; hurricane in the open Atlantic on Monday, with sustained winds of at least 115 miles per hour (185 kph), U.S. forecasters said.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/worldNews/idUKN0738496720080707)
 1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080707&t=2&i=5060182&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-07-07T221425Z_01_N07384967_RTRUKOP_0_PICTURE0)

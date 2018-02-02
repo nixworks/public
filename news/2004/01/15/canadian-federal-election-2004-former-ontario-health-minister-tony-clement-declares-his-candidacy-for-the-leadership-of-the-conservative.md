@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/15/canadian-federal-election-2004-former-ontario-health-minister-tony-clement-declares-his-candidacy-for-the-leadership-of-the-conservative.html)  [JSON](/news/2004/01/15/canadian-federal-election-2004-former-ontario-health-minister-tony-clement-declares-his-candidacy-for-the-leadership-of-the-conservative.json)  [XML](/news/2004/01/15/canadian-federal-election-2004-former-ontario-health-minister-tony-clement-declares-his-candidacy-for-the-leadership-of-the-conservative.xml)  
+
 ### [2004-01-15](/news/2004/01/15/index.md)
 
+##### 2004 federal election
 #  Canadian federal election, 2004: Former Ontario Health Minister Tony Clement declares his candidacy for the leadership of the Conservative Party of Canada. Also confirmed is the candidacy of auto parts magnate Belinda Stronach, who will announce her entry into the leadership race next week.
 
 

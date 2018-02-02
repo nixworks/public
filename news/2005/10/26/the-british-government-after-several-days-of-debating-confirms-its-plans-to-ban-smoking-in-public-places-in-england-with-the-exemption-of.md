@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2005/10/26/the-british-government-after-several-days-of-debating-confirms-its-plans-to-ban-smoking-in-public-places-in-england-with-the-exemption-of.html)  [JSON](/news/2005/10/26/the-british-government-after-several-days-of-debating-confirms-its-plans-to-ban-smoking-in-public-places-in-england-with-the-exemption-of.json)  [XML](/news/2005/10/26/the-british-government-after-several-days-of-debating-confirms-its-plans-to-ban-smoking-in-public-places-in-england-with-the-exemption-of.xml)  
+
 ### [2005-10-26](/news/2005/10/26/index.md)
 
+##### Politics of the United Kingdom
 #  The British Government, after several days of debating, confirms its plans to ban smoking in public places in England with the exemption of pubs and clubs not serving food. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/4377250.stm)
 
 ### Related:
 
-1. [After six days of debate, the House of Commons of the United Kingdom votes to approve, with 323 votes for and 309 against, the policies set out in the Queen's Speech. In order to avoid a 'regret' amendment, Chancellor of the Exchequer Philip Hammond says that England's National Health Service is to provide free abortions to women from Northern Ireland with funds from the Government Equalities Office. ](/news/2017/06/29/after-six-days-of-debate-the-house-of-commons-of-the-united-kingdom-votes-to-approve-with-323-votes-for-and-309-against-the-policies-set.md) _Context: Politics of the United Kingdom_
-2. [A country-wide smoking ban in most public spaces goes into effect in Russia. ](/news/2013/06/1/a-country-wide-smoking-ban-in-most-public-spaces-goes-into-effect-in-russia.md) _Context: smoking ban_
-3. [Russia enacts a law banning smoking on subways and in schools. ](/news/2013/02/25/russia-enacts-a-law-banning-smoking-on-subways-and-in-schools.md) _Context: smoking ban_
-4. [Strict new anti-smoking legislation comes into effect in Spain. ](/news/2011/01/2/strict-new-anti-smoking-legislation-comes-into-effect-in-spain.md) _Context: smoking ban_
-5. [Greece brings into force a smoking ban. ](/news/2010/09/1/greece-brings-into-force-a-smoking-ban.md) _Context: smoking ban_
+1. [Prime Minister Theresa May orders Phillip Lee, a Justice minister, to "air his views in private" after he suggested that Brexit planning should be based on evidence rather than dogma. ](/news/2018/01/31/prime-minister-theresa-may-orders-phillip-lee-a-justice-minister-to-air-his-views-in-private-after-he-suggested-that-brexit-planning-sho.md) _Context: Politics of the United Kingdom_
+2. [Theresa May criticizes Boris Johnson for airing National Health Service funding concerns outside private U.K. Cabinet meetings. ](/news/2018/01/23/theresa-may-criticizes-boris-johnson-for-airing-national-health-service-funding-concerns-outside-private-u-k-cabinet-meetings.md) _Context: Politics of the United Kingdom_
+3. [A spokesperson for Prime Minister Theresa May says the government has seen no plans for Foreign Secretary Boris Johnson's idea of building a road bridge across the English Channel between France and the United Kingdom. ](/news/2018/01/19/a-spokesperson-for-prime-minister-theresa-may-says-the-government-has-seen-no-plans-for-foreign-secretary-boris-johnson-s-idea-of-building-a.md) _Context: Politics of the United Kingdom_
+4. [Prime Minister Theresa May suffers a 309-305 defeat, her first, in the House of Commons when MPs from both major parties approve an amendment to the Brexit bill subjecting a Brexit agreement to a preliminary vote by Parliament. ](/news/2017/12/13/prime-minister-theresa-may-suffers-a-309a305-defeat-her-first-in-the-house-of-commons-when-mps-from-both-major-parties-approve-an-amendm.md) _Context: Politics of the United Kingdom_
+5. [British politician Priti Patel resigns from her position as Secretary of State for International Development amid reports that she had had unauthorized meetings with senior Israeli officials. ](/news/2017/11/8/british-politician-priti-patel-resigns-from-her-position-as-secretary-of-state-for-international-development-amid-reports-that-she-had-had-u.md) _Context: Politics of the United Kingdom_

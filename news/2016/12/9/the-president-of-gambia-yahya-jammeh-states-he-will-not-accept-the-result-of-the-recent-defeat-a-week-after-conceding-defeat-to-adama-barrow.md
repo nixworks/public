@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/9/the-president-of-gambia-yahya-jammeh-states-he-w
 
 ### [2016-12-9](/news/2016/12/9/index.md)
 
+##### Gambian presidential election, 2016
 # The President of Gambia Yahya Jammeh states he will not accept the result of the recent defeat a week after conceding defeat to Adama Barrow. 
 
 

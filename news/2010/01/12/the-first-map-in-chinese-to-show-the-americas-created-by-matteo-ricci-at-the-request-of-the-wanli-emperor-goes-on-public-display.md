@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/12/the-first-map-in-chinese-to-show-the-americas-created-by-matteo-ricci-at-the-request-of-the-wanli-emperor-goes-on-public-display.html)  [JSON](/news/2010/01/12/the-first-map-in-chinese-to-show-the-americas-created-by-matteo-ricci-at-the-request-of-the-wanli-emperor-goes-on-public-display.json)  [XML](/news/2010/01/12/the-first-map-in-chinese-to-show-the-americas-created-by-matteo-ricci-at-the-request-of-the-wanli-emperor-goes-on-public-display.xml)  
+
 ### [2010-01-12](/news/2010/01/12/index.md)
 
+##### map
 # The first map in Chinese to show the Americas, created by Matteo Ricci at the request of the Wanli Emperor, goes on public display. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Travel/wireStory?id=9541353)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=31&art_id=nw20100112110251598C594183)

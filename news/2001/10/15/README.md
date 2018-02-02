@@ -1,7 +1,7 @@
-## [2001-10-15](/news/2001/10/15/index.md)
 
-### [ NASA's Galileo spacecraft passes within 112 miles of Jupiter's moon Io.](/news/2001/10/15/nasa-s-galileo-spacecraft-passes-within-112-miles-of-jupiter-s-moon-io.md)
-_Context: Galileo spacecraft, Io, Jupiter, NASA_
+Formats: [HTML](2001/10/15/index.html)  [JSON](2001/10/15/index.json)  [XML](2001/10/15/index.xml)  
+
+## [2001-10-15](/news/2001/10/15/index.md)
 
 ## [Previous Day...](/news/2001/10/14/index.md)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/29/demand-for-samsung-electronics-products-plummets-again-with-the-company-only-managing-net-profits-of-2-6-billion-for-the-first-three-month.html)  [JSON](/news/2011/04/29/demand-for-samsung-electronics-products-plummets-again-with-the-company-only-managing-net-profits-of-2-6-billion-for-the-first-three-month.json)  [XML](/news/2011/04/29/demand-for-samsung-electronics-products-plummets-again-with-the-company-only-managing-net-profits-of-2-6-billion-for-the-first-three-month.xml)  
+
 ### [2011-04-29](/news/2011/04/29/index.md)
 
+##### Samsung
 # Demand for Samsung Electronics products plummets again, with the company only managing net profits of $2.6 billion for the first three months of 2011. 
 
 Samsung Electronics says profits for the first three months of the year have fallen by 30%.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-13234850)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52398000/jpg/_52398209_011793349-1.jpg)

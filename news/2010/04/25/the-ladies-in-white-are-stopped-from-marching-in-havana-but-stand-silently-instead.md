@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/25/the-ladies-in-white-are-stopped-from-marching-in-havana-but-stand-silently-instead.html)  [JSON](/news/2010/04/25/the-ladies-in-white-are-stopped-from-marching-in-havana-but-stand-silently-instead.json)  [XML](/news/2010/04/25/the-ladies-in-white-are-stopped-from-marching-in-havana-but-stand-silently-instead.xml)  
+
 ### [2010-04-25](/news/2010/04/25/index.md)
 
+##### Ladies in White
 # The Ladies in White are stopped from marching in Havana but stand silently instead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8643346.stm)
 2. [The Miami Herald](http://www.miamiherald.com/2010/04/25/1597711/cubas-ladies-in-white-march-blocked.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/9/new-cyber-attacks-strike-south-korean-websites-after-several-successive-days-of-attacks.html)  [JSON](/news/2009/07/9/new-cyber-attacks-strike-south-korean-websites-after-several-successive-days-of-attacks.json)  [XML](/news/2009/07/9/new-cyber-attacks-strike-south-korean-websites-after-several-successive-days-of-attacks.xml)  
+
 ### [2009-07-9](/news/2009/07/9/index.md)
 
+##### cyber-war
 #  New cyber attacks strike South Korean websites, after several successive days of attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jvH8X8qojQgzc1R8X_5PceTd1nWQD99ATHCO0)
 2. [The Korea Times](http://www.koreatimes.co.kr/www/news/biz/2009/07/123_48203.html)
@@ -14,7 +18,7 @@
 ### Related:
 
 1. [ South Korea says North Korea is behind a number of cyber attacks on the websites of government agencies, banks and businesses in South Korea and the United States. ](/news/2009/07/8/south-korea-says-north-korea-is-behind-a-number-of-cyber-attacks-on-the-websites-of-government-agencies-banks-and-businesses-in-south-kore.md) _Context: South Korea, cyber-war_
-2. [A South Korean lawmaker claims that in 2016, North Korean hackers stole classified military documents detailing joint operations between the South Korean and United States military forces in the event of war with North Korea. ](/news/2017/10/10/a-south-korean-lawmaker-claims-that-in-2016-north-korean-hackers-stole-classified-military-documents-detailing-joint-operations-between-the.md) _Context: South Korea_
-3. [Amid tensions from South Korea, U.S. President Donald Trump announces that he is "allowing Japan and South Korea to buy a substantially increased amount of highly sophisticated military equipment from the United States." ](/news/2017/09/5/amid-tensions-from-south-korea-u-s-president-donald-trump-announces-that-he-is-allowing-japan-and-south-korea-to-buy-a-substantially-incr.md) _Context: South Korea_
-4. [South Korean President Moon Jae-in and U.S. President Donald Trump agree to revise the South Korea Ballistic Missile Range Guidelines which caps South Korea's missile development. ](/news/2017/09/1/south-korean-president-moon-jae-in-and-u-s-president-donald-trump-agree-to-revise-the-south-korea-ballistic-missile-range-guidelines-which.md) _Context: South Korea_
-5. [An explosion at a South Korean shipyard owned by STX Offshore & Shipbuilding kills four workers. ](/news/2017/08/20/an-explosion-at-a-south-korean-shipyard-owned-by-stx-offshore-shipbuilding-kills-four-workers.md) _Context: South Korea_
+2. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: South Korea_
+3. [A fire breaks out in a hospital in Miryang, South Korea, killing at least 37 people and injuring over 130 others. ](/news/2018/01/26/a-fire-breaks-out-in-a-hospital-in-miryang-south-korea-killing-at-least-37-people-and-injuring-over-130-others.md) _Context: South Korea_
+4. [The South Korean Ministry of Unification announces that both North Korea and South Korea will march together under the Korean Unification Flag during the opening ceremony of the 2018 Winter Olympics. ](/news/2018/01/17/the-south-korean-ministry-of-unification-announces-that-both-north-korea-and-south-korea-will-march-together-under-the-korean-unification-fl.md) _Context: South Korea_
+5. [The South Korean Ministry of Justice announces that it is a preparing a bill to ban cryptocurrency trading through exchanges. ](/news/2018/01/11/the-south-korean-ministry-of-justice-announces-that-it-is-a-preparing-a-bill-to-ban-cryptocurrency-trading-through-exchanges.md) _Context: South Korea_

@@ -1,17 +1,27 @@
+
+Formats: [HTML](/news/2012/05/27/six-people-are-given-up-to-15-years-in-prison-as-the-bahraini-regime-continues-its-clampdown-on-protesters.html)  [JSON](/news/2012/05/27/six-people-are-given-up-to-15-years-in-prison-as-the-bahraini-regime-continues-its-clampdown-on-protesters.json)  [XML](/news/2012/05/27/six-people-are-given-up-to-15-years-in-prison-as-the-bahraini-regime-continues-its-clampdown-on-protesters.xml)  
+
 ### [2012-05-27](/news/2012/05/27/index.md)
 
+##### Bahraini uprising (2011-present)
 # Six people are given up to 15 years in prison as the Bahraini regime continues its clampdown on protesters. 
 
 Six activists given up to 15 years in prison for allegedly working with Iran to topple government, charges they deny.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/2012527143426694817.html)
-2. [Reuters](http://www.reuters.com/article/2012/05/27/us-syria-hama-idUSBRE84Q0CS20120527)
-3. [Rueters](http://www.reuters.com/article/2012/05/27/us-syria-un-deaths-idUSBRE84Q0C520120527)
+2. [Reuters](https://www.reuters.com/article/2012/05/27/us-syria-hama-idUSBRE84Q0CS20120527)
+3. [Rueters](https://www.reuters.com/article/2012/05/27/us-syria-un-deaths-idUSBRE84Q0C520120527)
 4. [The Guardian](http://www.guardian.co.uk/world/2012/may/28/syria-condemned-by-un-houla-massacre)
 4. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/30/201243072441305734_20.jpg)
+
+### Changes:
+
+1. [Arab Spring:Six people are given up to 15 years in prison as the Bahraini regime continues its clampdown on protesters. ](/news/2012/05/27/arab-spring-psix-people-are-given-up-to-15-years-in-prison-as-the-bahraini-regime-continues-its-clampdown-on-protesters.md) _2017-08-25 03:35:45 (First version)_
+2. [Arab Spring:: Six people are given up to 15 years in prison as the Bahraini regime continues its clampdown on protesters. ](/news/2012/05/27/arab-spring-six-people-are-given-up-to-15-years-in-prison-as-the-bahraini-regime-continues-its-clampdown-on-protesters.md) _2017-08-27 03:35:56 (Update)_
+2. [Six people are given up to 15 years in prison as the Bahraini regime continues its clampdown on protesters. ](/news/2012/05/27/six-people-are-given-up-to-15-years-in-prison-as-the-bahraini-regime-continues-its-clampdown-on-protesters.md) _(Current version)_
 
 ### Related:
 
@@ -20,9 +30,3 @@ Six activists given up to 15 years in prison for allegedly working with Iran to 
 3. [The government of Bahrain defends its decision to impose a ban on all public protests and demonstrations, following calls from Amnesty International to lift the ban immediately as it breaches the rights to free speech and assembly. ](/news/2012/10/31/the-government-of-bahrain-defends-its-decision-to-impose-a-ban-on-all-public-protests-and-demonstrations-following-calls-from-amnesty-inter.md) _Context: Bahraini uprising (2011-present)_
 4. [Bahraini uprising: Anti-government protests are banned and legal action is threatened against those backing the protests. ](/news/2012/10/29/bahraini-uprising-anti-government-protests-are-banned-and-legal-action-is-threatened-against-those-backing-the-protests.md) _Context: Bahraini uprising (2011-present)_
 5. [A court in Bahrain upholds the jail sentences of nine medics convicted for their role in the country's uprising. ](/news/2012/10/1/a-court-in-bahrain-upholds-the-jail-sentences-of-nine-medics-convicted-for-their-role-in-the-country-s-uprising.md) _Context: Bahraini uprising (2011-present)_
-
-### Changes:
-
-1. [Arab Spring:Six people are given up to 15 years in prison as the Bahraini regime continues its clampdown on protesters. ](/news/2012/05/27/arab-spring-psix-people-are-given-up-to-15-years-in-prison-as-the-bahraini-regime-continues-its-clampdown-on-protesters.md) _2017-08-25 03:35:45 (First version)_
-2. [Arab Spring:: Six people are given up to 15 years in prison as the Bahraini regime continues its clampdown on protesters. ](/news/2012/05/27/arab-spring-six-people-are-given-up-to-15-years-in-prison-as-the-bahraini-regime-continues-its-clampdown-on-protesters.md) _2017-08-27 03:35:56 (Update)_
-2. [Six people are given up to 15 years in prison as the Bahraini regime continues its clampdown on protesters. ](/news/2012/05/27/six-people-are-given-up-to-15-years-in-prison-as-the-bahraini-regime-continues-its-clampdown-on-protesters.md) _(Current version)_

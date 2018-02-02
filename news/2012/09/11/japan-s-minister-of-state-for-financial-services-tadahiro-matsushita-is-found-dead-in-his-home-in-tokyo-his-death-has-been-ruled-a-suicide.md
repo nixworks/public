@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/11/japan-s-minister-of-state-for-financial-services-tadahiro-matsushita-is-found-dead-in-his-home-in-tokyo-his-death-has-been-ruled-a-suicide.html)  [JSON](/news/2012/09/11/japan-s-minister-of-state-for-financial-services-tadahiro-matsushita-is-found-dead-in-his-home-in-tokyo-his-death-has-been-ruled-a-suicide.json)  [XML](/news/2012/09/11/japan-s-minister-of-state-for-financial-services-tadahiro-matsushita-is-found-dead-in-his-home-in-tokyo-his-death-has-been-ruled-a-suicide.xml)  
+
 ### [2012-09-11](/news/2012/09/11/index.md)
 
+##### Minister of State for Financial Services
 # Japan's Minister of State for Financial Services Tadahiro Matsushita is found dead in his home in Tokyo. His death has been ruled a suicide and may further complicate matters for the ruling party which has been battered by internal divisions and parliamentary gridlock. Finance minister Jun Azumi has been named to succeed Matsushita. 
 
 Japanese Banking MinisterTadahiro Matsushita was found hanged at his home on Monday inwhat police suspect was a suicide, Kyodo news agency said.
 
 
-### Source:
+### Sources:
 
 1. [CNN via ''Financial Times](http://edition.cnn.com/2012/09/11/business/japan-minister-death/index.html)
 2. [Daily Yomiuri](http://www.yomiuri.co.jp/dy/national/T120911004318.htm)

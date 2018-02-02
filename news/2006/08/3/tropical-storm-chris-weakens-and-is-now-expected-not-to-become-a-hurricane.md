@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/3/tropical-storm-chris-weakens-and-is-now-expected-not-to-become-a-hurricane.html)  [JSON](/news/2006/08/3/tropical-storm-chris-weakens-and-is-now-expected-not-to-become-a-hurricane.json)  [XML](/news/2006/08/3/tropical-storm-chris-weakens-and-is-now-expected-not-to-become-a-hurricane.xml)  
+
 ### [2006-08-3](/news/2006/08/3/index.md)
 
+##### Tropical Depression Chris
 #  Tropical Storm Chris weakens and is now expected not to become a hurricane. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://go.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=13066969&src=rss/domesticNews)
 

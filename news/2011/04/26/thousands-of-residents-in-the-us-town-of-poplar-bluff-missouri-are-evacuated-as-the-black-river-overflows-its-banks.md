@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/26/thousands-of-residents-in-the-us-town-of-poplar-bluff-missouri-are-evacuated-as-the-black-river-overflows-its-banks.html)  [JSON](/news/2011/04/26/thousands-of-residents-in-the-us-town-of-poplar-bluff-missouri-are-evacuated-as-the-black-river-overflows-its-banks.json)  [XML](/news/2011/04/26/thousands-of-residents-in-the-us-town-of-poplar-bluff-missouri-are-evacuated-as-the-black-river-overflows-its-banks.xml)  
+
 ### [2011-04-26](/news/2011/04/26/index.md)
 
+##### Poplar Bluff
 # Thousands of residents in the US town of Poplar Bluff, Missouri, are evacuated as the Black River overflows its banks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_SEVERE_WEATHER_FLOODING?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2011-04-26-01-31-58)
 

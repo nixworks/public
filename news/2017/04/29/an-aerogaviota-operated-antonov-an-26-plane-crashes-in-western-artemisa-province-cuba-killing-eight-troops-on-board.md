@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/29/an-aerogaviota-operated-antonov-an-26-plane-cra
 
 ### [2017-04-29](/news/2017/04/29/index.md)
 
+##### 2017 Aerogaviota Antonov An-26 crash
 # An Aerogaviota-operated Antonov An-26 plane crashes in western Artemisa Province, Cuba, killing eight troops on board. 
 
 A Cuban military plane has reportedly crashed in the western province of Artemisa, killing eight troops on board.

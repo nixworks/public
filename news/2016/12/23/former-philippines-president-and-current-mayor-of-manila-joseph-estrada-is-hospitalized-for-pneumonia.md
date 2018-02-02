@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/23/former-philippines-president-and-current-mayor-
 
 ### [2016-12-23](/news/2016/12/23/index.md)
 
+##### Philippines
 # Former Philippines president and current mayor of Manila Joseph Estrada is hospitalized for pneumonia. 
 
 

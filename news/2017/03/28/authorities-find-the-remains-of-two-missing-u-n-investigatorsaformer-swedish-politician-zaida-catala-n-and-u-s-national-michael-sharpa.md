@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/28/authorities-find-the-remains-of-two-missing-u-n
 
 ### [2017-03-28](/news/2017/03/28/index.md)
 
+##### 2017 Congolese police decapitation attacks
 # Authorities find the remains of two missing U.N. investigators--former Swedish politician Zaida Catalan and U.S. national Michael Sharp--in a shallow grave in the province of Kasai-Central, Democratic Republic of the Congo. 
 
  Villagers in Democratic Republic of Congo discovered the remains of two U.N. investigators and their Congolese interpreter who went missing this month in an ar

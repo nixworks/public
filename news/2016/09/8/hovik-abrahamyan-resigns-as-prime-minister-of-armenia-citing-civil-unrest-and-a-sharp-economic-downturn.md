@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/8/hovik-abrahamyan-resigns-as-prime-minister-of-ar
 
 ### [2016-09-8](/news/2016/09/8/index.md)
 
+##### Hovik Abrahamyan
 # Hovik Abrahamyan resigns as Prime Minister of Armenia citing civil unrest and a sharp economic downturn. 
 
 Move follows standoff in capital Yerevan between police and armed men, and could pave way for a coalition government

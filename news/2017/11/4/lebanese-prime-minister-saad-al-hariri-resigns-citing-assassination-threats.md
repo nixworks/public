@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/4/lebanese-prime-minister-saad-al-hariri-resigns-c
 
 ### [2017-11-4](/news/2017/11/4/index.md)
 
+##### Politics of Lebanon
 # Lebanese Prime Minister Saad al-Hariri resigns, citing assassination threats. 
 
 Saad al-Hariri resigns saying he fears an assassination plot, while also fiercely criticising Iran.

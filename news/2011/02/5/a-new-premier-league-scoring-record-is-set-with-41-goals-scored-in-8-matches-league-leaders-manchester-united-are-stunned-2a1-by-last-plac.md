@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2011/02/5/a-new-premier-league-scoring-record-is-set-with-41-goals-scored-in-8-matches-league-leaders-manchester-united-are-stunned-2a1-by-last-plac.html)  [JSON](/news/2011/02/5/a-new-premier-league-scoring-record-is-set-with-41-goals-scored-in-8-matches-league-leaders-manchester-united-are-stunned-2a1-by-last-plac.json)  [XML](/news/2011/02/5/a-new-premier-league-scoring-record-is-set-with-41-goals-scored-in-8-matches-league-leaders-manchester-united-are-stunned-2a1-by-last-plac.xml)  
+
 ### [2011-02-5](/news/2011/02/5/index.md)
 
+##### English Premier League
 # A new Premier League scoring record is set with 41 goals scored in 8 matches.League leaders Manchester United are stunned 2-1 by last-place Wolverhampton Wanderers, ending United's 29-match unbeaten streak in Premiership play.Second-place Arsenal become the first team since the establishment of the Premier League in 1992 to blow a 4-0 lead, as Newcastle United storm back to draw 4-4.
 
 

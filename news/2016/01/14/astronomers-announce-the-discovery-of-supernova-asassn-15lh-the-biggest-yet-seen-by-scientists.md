@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/14/astronomers-announce-the-discovery-of-supernova
 
 ### [2016-01-14](/news/2016/01/14/index.md)
 
+##### supernova
 # Astronomers announce the discovery of supernova ASASSN-15lh, the biggest yet seen by scientists. 
 
 Superluminous supernova ASASSN-15lh is 200 times as powerful as typical dead stars, astronomers say

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/14/venezuela-recalls-its-ambassador-to-colombia-because-of-the-disagreement-over-capture-of-farc-member-rodrigo-granda.html)  [JSON](/news/2005/01/14/venezuela-recalls-its-ambassador-to-colombia-because-of-the-disagreement-over-capture-of-farc-member-rodrigo-granda.json)  [XML](/news/2005/01/14/venezuela-recalls-its-ambassador-to-colombia-because-of-the-disagreement-over-capture-of-farc-member-rodrigo-granda.xml)  
+
 ### [2005-01-14](/news/2005/01/14/index.md)
 
+##### Venezuela
 #  Venezuela recalls its ambassador to Colombia because of the disagreement over capture of FARC member Rodrigo Granda 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4173113.stm)
 

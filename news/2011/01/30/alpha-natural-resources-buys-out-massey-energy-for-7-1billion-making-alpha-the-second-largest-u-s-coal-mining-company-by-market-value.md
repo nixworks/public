@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/01/30/alpha-natural-resources-buys-out-massey-energy-for-7-1billion-making-alpha-the-second-largest-u-s-coal-mining-company-by-market-value.html)  [JSON](/news/2011/01/30/alpha-natural-resources-buys-out-massey-energy-for-7-1billion-making-alpha-the-second-largest-u-s-coal-mining-company-by-market-value.json)  [XML](/news/2011/01/30/alpha-natural-resources-buys-out-massey-energy-for-7-1billion-making-alpha-the-second-largest-u-s-coal-mining-company-by-market-value.xml)  
+
 ### [2011-01-30](/news/2011/01/30/index.md)
 
+##### Alpha Natural Resources
 # Alpha Natural Resources buys out Massey Energy for $7.1billion, making Alpha the second largest U.S. coal mining company by market value.
 
 Alpha Natural Resources said on Saturday it agreed to a $7.1 billion deal to buy Massey Energy Co, which was rocked by a deadly coal mining accident last year.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/01/30/us-alpha-massey-idUSTRE70S0PC20110130)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/01/30/us-alpha-massey-idUSTRE70S0PC20110130)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

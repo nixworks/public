@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/19/the-president-of-burundi-pierre-nkurunziza-says-that-the-government-will-proceed-with-a-presidential-election-despite-protests-and-a-recent.html)  [JSON](/news/2015/05/19/the-president-of-burundi-pierre-nkurunziza-says-that-the-government-will-proceed-with-a-presidential-election-despite-protests-and-a-recent.json)  [XML](/news/2015/05/19/the-president-of-burundi-pierre-nkurunziza-says-that-the-government-will-proceed-with-a-presidential-election-despite-protests-and-a-recent.xml)  
+
 ### [2015-05-19](/news/2015/05/19/index.md)
 
+##### Presidents
 # The President of Burundi Pierre Nkurunziza says that the government will proceed with a presidential election despite protests and a recent failed coup. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-32795149)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/83088000/jpg/_83088258_83088254.jpg)

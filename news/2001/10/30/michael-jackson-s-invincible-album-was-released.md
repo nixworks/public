@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/10/30/michael-jackson-s-invincible-album-was-released.html)  [JSON](/news/2001/10/30/michael-jackson-s-invincible-album-was-released.json)  [XML](/news/2001/10/30/michael-jackson-s-invincible-album-was-released.xml)  
+
 ### [2001-10-30](/news/2001/10/30/index.md)
 
+##### Michael Jackson
 #  Michael Jackson's "Invincible" album was released.
 
 

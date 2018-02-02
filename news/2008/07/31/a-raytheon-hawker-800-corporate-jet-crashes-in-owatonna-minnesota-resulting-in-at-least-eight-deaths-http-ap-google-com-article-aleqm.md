@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2008/07/31/a-raytheon-hawker-800-corporate-jet-crashes-in-owatonna-minnesota-resulting-in-at-least-eight-deaths-http-ap-google-com-article-aleqm.html)  [JSON](/news/2008/07/31/a-raytheon-hawker-800-corporate-jet-crashes-in-owatonna-minnesota-resulting-in-at-least-eight-deaths-http-ap-google-com-article-aleqm.json)  [XML](/news/2008/07/31/a-raytheon-hawker-800-corporate-jet-crashes-in-owatonna-minnesota-resulting-in-at-least-eight-deaths-http-ap-google-com-article-aleqm.xml)  
+
 ### [2008-07-31](/news/2008/07/31/index.md)
 
+##### Raytheon
 #  A Raytheon Hawker 800 corporate jet crashes in Owatonna, Minnesota, resulting in at least eight deaths. [http:--ap.google.com-article-ALeqM5gig1LIOGzGlClbdDV7HYLd3muEwAD9295O2O0 (AP via Google News)] (Wikinews Article)
 
 

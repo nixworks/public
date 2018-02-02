@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/8/scientists-discover-antibodies-that-may-eventually-lead-to-the-development-of-a-vaccine-against-aids.html)  [JSON](/news/2010/07/8/scientists-discover-antibodies-that-may-eventually-lead-to-the-development-of-a-vaccine-against-aids.json)  [XML](/news/2010/07/8/scientists-discover-antibodies-that-may-eventually-lead-to-the-development-of-a-vaccine-against-aids.xml)  
+
 ### [2010-07-8](/news/2010/07/8/index.md)
 
+##### AIDS
 # Scientists discover antibodies that may eventually lead to the development of a vaccine against AIDS. 
 
 Researchers have discovered antibodies that can protect against a wide range of AIDS viruses and said they may be able to use them to design a vaccine against the fatal and incurable virus.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/38151534/ns/health-aids/)
 1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)

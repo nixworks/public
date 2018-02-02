@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/7/palestinian-sources-say-that-14-people-died-after-an-israeli-raid-into-the-refugee-camps-of-al-bureij-and-nusseirat-israeli-sources-say-it.html)  [JSON](/news/2004/03/7/palestinian-sources-say-that-14-people-died-after-an-israeli-raid-into-the-refugee-camps-of-al-bureij-and-nusseirat-israeli-sources-say-it.json)  [XML](/news/2004/03/7/palestinian-sources-say-that-14-people-died-after-an-israeli-raid-into-the-refugee-camps-of-al-bureij-and-nusseirat-israeli-sources-say-it.xml)  
+
 ### [2004-03-7](/news/2004/03/7/index.md)
 
+##### Palestinian Authority
 #  Palestinian sources say that 14 people died after an Israeli raid into the refugee camps of al-Bureij and Nusseirat. Israeli sources say it was a "pinpoint" operation against the "terrorist infrastructure". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3540179.stm)
 

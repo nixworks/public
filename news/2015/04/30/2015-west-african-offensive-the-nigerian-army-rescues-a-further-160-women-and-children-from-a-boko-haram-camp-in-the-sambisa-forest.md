@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/30/2015-west-african-offensive-the-nigerian-army-rescues-a-further-160-women-and-children-from-a-boko-haram-camp-in-the-sambisa-forest.html)  [JSON](/news/2015/04/30/2015-west-african-offensive-the-nigerian-army-rescues-a-further-160-women-and-children-from-a-boko-haram-camp-in-the-sambisa-forest.json)  [XML](/news/2015/04/30/2015-west-african-offensive-the-nigerian-army-rescues-a-further-160-women-and-children-from-a-boko-haram-camp-in-the-sambisa-forest.xml)  
+
 ### [2015-04-30](/news/2015/04/30/index.md)
 
+##### 2015 West African offensive
 # 2015 West African offensive: The Nigerian Army rescues a further 160 women and children from a Boko Haram camp in the Sambisa Forest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2015/04/30/africa/nigeria-boko-haram-hostages-rescued/)
 

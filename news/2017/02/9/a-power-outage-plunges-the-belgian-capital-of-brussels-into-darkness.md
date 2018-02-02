@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/9/a-power-outage-plunges-the-belgian-capital-of-br
 
 ### [2017-02-9](/news/2017/02/9/index.md)
 
+##### power outage
 # A power outage plunges the Belgian capital of Brussels into darkness. 
 
 Pictures posted on social media show blacked-out streets, lit only by headlights and torches.

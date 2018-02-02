@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/11/hundreds-of-arrests-are-reported-in-the-u-s-cap
 
 ### [2016-04-11](/news/2016/04/11/index.md)
 
+##### U.S. Capitol
 # Hundreds of arrests are reported in the U.S. Capitol in response to the Democracy Spring protests. 
 
 Democracy Spring is a movement organization committed to winning fundamental reforms to end the corruption of big money in politics and guarantee the right to vote for all Americans. We use campaigns of escalating nonviolent action to achieve this goal and believe in the power of mass civil disobedience to transform our political system.

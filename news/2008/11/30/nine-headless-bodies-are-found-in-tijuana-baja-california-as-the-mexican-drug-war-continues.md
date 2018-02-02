@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/30/nine-headless-bodies-are-found-in-tijuana-baja-california-as-the-mexican-drug-war-continues.html)  [JSON](/news/2008/11/30/nine-headless-bodies-are-found-in-tijuana-baja-california-as-the-mexican-drug-war-continues.json)  [XML](/news/2008/11/30/nine-headless-bodies-are-found-in-tijuana-baja-california-as-the-mexican-drug-war-continues.xml)  
+
 ### [2008-11-30](/news/2008/11/30/index.md)
 
+##### Tijuana
 #  Nine headless bodies are found in Tijuana, Baja California, as the Mexican Drug War continues. 
 
 Nine decapitated bodies have been discovered in the Mexican border city of Tijuana, a hot spot in an increasingly gruesome war between drug cartels.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2008/12/01/2434040.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

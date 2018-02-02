@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/5/the-ivorian-presidential-election-2010-is-set-for-31-october.html)  [JSON](/news/2010/08/5/the-ivorian-presidential-election-2010-is-set-for-31-october.json)  [XML](/news/2010/08/5/the-ivorian-presidential-election-2010-is-set-for-31-october.xml)  
+
 ### [2010-08-5](/news/2010/08/5/index.md)
 
+##### 2010 presidential election
 # The Ivorian presidential election, 2010 is set for 31 October. 
 
 The date for long-delayed presidential elections in Ivory Coast is set, in a move seen as a vital step to ending the political crisis.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10884545)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

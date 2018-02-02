@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/3/an-illinois-circuit-court-in-an-emergency-order-rules-chicago-authorities-must-notify-journalists-and-activists-before-they-destroy-decade.html)  [JSON](/news/2015/12/3/an-illinois-circuit-court-in-an-emergency-order-rules-chicago-authorities-must-notify-journalists-and-activists-before-they-destroy-decade.json)  [XML](/news/2015/12/3/an-illinois-circuit-court-in-an-emergency-order-rules-chicago-authorities-must-notify-journalists-and-activists-before-they-destroy-decade.xml)  
+
 ### [2015-12-3](/news/2015/12/3/index.md)
 
+##### Illinois circuit court
 # An Illinois circuit court, in an emergency order, rules Chicago authorities must notify journalists and activists before they destroy decades of records related to police misconduct. 
 
 The records cover a period when a notorious former police commander was accused of torturing hundreds of detainees.
 
 
-### Source:
+### Sources:
 
 1. [The Chicago Sun-Times](http://chicago.suntimes.com/news/7/71/1149585/lawsuit-seeks-stop-police-discipline-files-destroyed)
 2. [The Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2015/12/03/judge-chicago-police-must-notify-media-before-destroying-decades-of-misconduct-files/?wpmm=1&wpisrc=nl_headlines)

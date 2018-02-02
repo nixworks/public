@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/8/tropical-cyclone-sandra-forms-in-the-coral-sea-off-the-coast-of-the-australian-state-of-queensland.html)  [JSON](/news/2013/03/8/tropical-cyclone-sandra-forms-in-the-coral-sea-off-the-coast-of-the-australian-state-of-queensland.json)  [XML](/news/2013/03/8/tropical-cyclone-sandra-forms-in-the-coral-sea-off-the-coast-of-the-australian-state-of-queensland.xml)  
+
 ### [2013-03-8](/news/2013/03/8/index.md)
 
+##### Tropical Cyclone Sandra
 # Tropical Cyclone Sandra forms in the Coral Sea off the coast of the Australian state of Queensland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Courier-Mail](http://www.couriermail.com.au/news/queensland/forecasters-expect-tropical-storm-off-north-queensland-to-morph-into-cyclone-sandra-as-early-today/story-e6freoof-1226592766650)
 

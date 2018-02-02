@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/06/1/japan-s-opposition-lodges-a-no-confidence-motion-in-the-diet-against-prime-minister-naoto-kan.html)  [JSON](/news/2011/06/1/japan-s-opposition-lodges-a-no-confidence-motion-in-the-diet-against-prime-minister-naoto-kan.json)  [XML](/news/2011/06/1/japan-s-opposition-lodges-a-no-confidence-motion-in-the-diet-against-prime-minister-naoto-kan.xml)  
+
 ### [2011-06-1](/news/2011/06/1/index.md)
 
+##### Japan
 # Japan's Opposition lodges a no-confidence motion in the Diet against Prime Minister Naoto Kan. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/japanese-prime-minister-refuses-to-quit-faces-no-confidence-vote-over-handling-of-crisis/2011/06/01/AGVGs6FH_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/japanese-prime-minister-refuses-to-quit-faces-no-confidence-vote-over-handling-of-crisis/2011/06/01/AGVGs6FH_story.html)
 
 ### Related:
 

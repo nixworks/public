@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/22/a-plan-to-create-a-modern-silk-route-of-roads-and-railways-linking-east-asia-with-europe-makes-its-first-substantial-progress.html)  [JSON](/news/2009/06/22/a-plan-to-create-a-modern-silk-route-of-roads-and-railways-linking-east-asia-with-europe-makes-its-first-substantial-progress.json)  [XML](/news/2009/06/22/a-plan-to-create-a-modern-silk-route-of-roads-and-railways-linking-east-asia-with-europe-makes-its-first-substantial-progress.xml)  
+
 ### [2009-06-22](/news/2009/06/22/index.md)
 
+##### Silk Route
 #  A plan to create a modern Silk Route of roads and railways linking East Asia with Europe makes its first substantial progress. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8102422.stm)
 

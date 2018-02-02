@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/21/a-14-year-old-girl-is-killed-and-15-people-are-injured-in-a-5-9-magnitude-earthquake-in-indonesia.html)  [JSON](/news/2013/01/21/a-14-year-old-girl-is-killed-and-15-people-are-injured-in-a-5-9-magnitude-earthquake-in-indonesia.json)  [XML](/news/2013/01/21/a-14-year-old-girl-is-killed-and-15-people-are-injured-in-a-5-9-magnitude-earthquake-in-indonesia.xml)  
+
 ### [2013-01-21](/news/2013/01/21/index.md)
 
+##### magnitude
 # A 14-year-old girl is killed and 15 people are injured in a 5.9-magnitude earthquake in Indonesia. 
 
 A strong 5.9-magnitude earthquake has struck off Indonesia&#039;s Aceh province, killing an eight-year-old girl and injuring seven others.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC](http://www.abc.net.au/news/2013-01-22/an-indon-quake/4478910)
 2. [CNN](http://www.cnn.com/2013/01/21/world/asia/indonesia-earthquake)

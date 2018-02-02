@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2013/07/9/an-afghan-soldier-kills-a-slovak-soldier-and-wounds-six-others.html)  [JSON](/news/2013/07/9/an-afghan-soldier-kills-a-slovak-soldier-and-wounds-six-others.json)  [XML](/news/2013/07/9/an-afghan-soldier-kills-a-slovak-soldier-and-wounds-six-others.xml)  
+
 ### [2013-07-9](/news/2013/07/9/index.md)
 
+##### Afghanistan
 # An Afghan soldier kills a Slovak soldier and wounds six others. 
 
 At least 17 people including women and children are killed by a roadside bomb in in western Afghanistan, officials tell the BBC.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23242444)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-23244404)
 2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68634000/gif/_68634325_afghan_herat_1111.gif)
+
+### Changes:
+
+1. [War in Afghanistan (2001-present):An Afghan soldier kills a Slovak soldier and wounds six others. ](/news/2013/07/9/war-in-afghanistan-2001apresent-pan-afghan-soldier-kills-a-slovak-soldier-and-wounds-six-others.md) _2017-08-25 03:38:58 (First version)_
+2. [War in Afghanistan (2001-present):: An Afghan soldier kills a Slovak soldier and wounds six others. ](/news/2013/07/9/war-in-afghanistan-2001-present-an-afghan-soldier-kills-a-slovak-soldier-and-wounds-six-others.md) _2017-08-27 03:39:13 (Update)_
+2. [An Afghan soldier kills a Slovak soldier and wounds six others. ](/news/2013/07/9/an-afghan-soldier-kills-a-slovak-soldier-and-wounds-six-others.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ At least 17 people including women and children are killed by a roadside bomb in
 3. [Afghan and Pakistani soldiers clash at the Torkham border crossing between the two countries, leaving one Afghan soldier and a Pakistani major killed. At least 22 other people were also injured. Tensions between Afghanistan and Pakistan have grown since the latter's attempts to build a gate at the crossing. ](/news/2016/06/14/afghan-and-pakistani-soldiers-clash-at-the-torkham-border-crossing-between-the-two-countries-leaving-one-afghan-soldier-and-a-pakistani-maj.md) _Context: Afghan National Army, Afghanistan_
 4. [A bomb kills eight people in Afghanistan's Wardak Province, including three United States Army soldiers, four Afghan National Army soldiers and an Afghan interpreter. ](/news/2013/07/23/a-bomb-kills-eight-people-in-afghanistan-s-wardak-province-including-three-united-states-army-soldiers-four-afghan-national-army-soldiers.md) _Context: Afghan National Army, Afghanistan_
 5. [American and Afghan officials announce five people died on Saturday in a clash involving American and Afghan army troops at a checkpoint in Maidan Wardak Province, Afghanistan. The circumstances are unclear. ](/news/2012/09/30/american-and-afghan-officials-announce-five-people-died-on-saturday-in-a-clash-involving-american-and-afghan-army-troops-at-a-checkpoint-in.md) _Context: Afghan National Army, Afghanistan_
-
-### Changes:
-
-1. [War in Afghanistan (2001-present):An Afghan soldier kills a Slovak soldier and wounds six others. ](/news/2013/07/9/war-in-afghanistan-2001apresent-pan-afghan-soldier-kills-a-slovak-soldier-and-wounds-six-others.md) _2017-08-25 03:38:58 (First version)_
-2. [War in Afghanistan (2001-present):: An Afghan soldier kills a Slovak soldier and wounds six others. ](/news/2013/07/9/war-in-afghanistan-2001-present-an-afghan-soldier-kills-a-slovak-soldier-and-wounds-six-others.md) _2017-08-27 03:39:13 (Update)_
-2. [An Afghan soldier kills a Slovak soldier and wounds six others. ](/news/2013/07/9/an-afghan-soldier-kills-a-slovak-soldier-and-wounds-six-others.md) _(Current version)_

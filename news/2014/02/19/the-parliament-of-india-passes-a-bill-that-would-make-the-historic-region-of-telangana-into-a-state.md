@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/02/19/the-parliament-of-india-passes-a-bill-that-would-make-the-historic-region-of-telangana-into-a-state.html)  [JSON](/news/2014/02/19/the-parliament-of-india-passes-a-bill-that-would-make-the-historic-region-of-telangana-into-a-state.json)  [XML](/news/2014/02/19/the-parliament-of-india-passes-a-bill-that-would-make-the-historic-region-of-telangana-into-a-state.xml)  
+
 ### [2014-02-19](/news/2014/02/19/index.md)
 
+##### Parliament of India
 # The Parliament of India passes a bill that would make the historic region of Telangana into a state. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2014/feb/18/india-lower-house-votes-split-andhra-pradesh-create-telangana)
+1. [The Guardian](https://www.theguardian.com/world/2014/feb/18/india-lower-house-votes-split-andhra-pradesh-create-telangana)
 
 ### Related:
 

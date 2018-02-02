@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2008/06/30/peru-s-largest-federation-of-mining-unions-commences-strike-action-in-order-to-pressure-the-congress-of-peru-to-pass-legislation-to-improve.html)  [JSON](/news/2008/06/30/peru-s-largest-federation-of-mining-unions-commences-strike-action-in-order-to-pressure-the-congress-of-peru-to-pass-legislation-to-improve.json)  [XML](/news/2008/06/30/peru-s-largest-federation-of-mining-unions-commences-strike-action-in-order-to-pressure-the-congress-of-peru-to-pass-legislation-to-improve.xml)  
+
 ### [2008-06-30](/news/2008/06/30/index.md)
 
+##### Peru
 #  Peru's largest federation of mining unions commences strike action in order to pressure the Congress of Peru to pass legislation to improve labor benefits. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''The Guardian](http://www.guardian.co.uk/business/feedarticle/7619244)
 
 ### Related:
 
-1. [Histadrut, Israel's trade union organisation, calls a nationwide strike with Ben Gurion Airport to be closed until midday. ](/news/2012/02/8/histadrut-israel-s-trade-union-organisation-calls-a-nationwide-strike-with-ben-gurion-airport-to-be-closed-until-midday.md) _Context: strike, unionize_
-2. [ The Indonesian Pilots Federation threatens to strike unless Marwoto Komar's conviction is overturned. ](/news/2009/05/2/the-indonesian-pilots-federation-threatens-to-strike-unless-marwoto-komar-s-conviction-is-overturned.md) _Context: strike, unionize_
-3. [ Transport unions start talks with management and the government over pension reforms in the eighth consecutive day of strike. ](/news/2007/11/21/transport-unions-start-talks-with-management-and-the-government-over-pension-reforms-in-the-eighth-consecutive-day-of-strike.md) _Context: strike, unionize_
-4. [ November 2007 strikes in France: The transport workers' strike enters its sixth day, but unions have agreed to restart negotiations with SNCF on November 22. ](/news/2007/11/19/november-2007-strikes-in-france-the-transport-workers-strike-enters-its-sixth-day-but-unions-have-agreed-to-restart-negotiations-with-sn.md) _Context: strike, unionize_
-5. [ Solidarity, a South African trade union, calls a strike in coal mines. ](/news/2007/08/13/solidarity-a-south-african-trade-union-calls-a-strike-in-coal-mines.md) _Context: strike, unionize_
+1. [Histadrut, Israel's trade union organisation, calls a nationwide strike with Ben Gurion Airport to be closed until midday. ](/news/2012/02/8/histadrut-israel-s-trade-union-organisation-calls-a-nationwide-strike-with-ben-gurion-airport-to-be-closed-until-midday.md) _Context: labour unions, strike_
+2. [ Transport unions start talks with management and the government over pension reforms in the eighth consecutive day of strike. ](/news/2007/11/21/transport-unions-start-talks-with-management-and-the-government-over-pension-reforms-in-the-eighth-consecutive-day-of-strike.md) _Context: labour unions, strike_
+3. [A coach bus plunges off a cliff on a coastal road in Peru, killing at least 48 people. ](/news/2018/01/2/a-coach-bus-plunges-off-a-cliff-on-a-coastal-road-in-peru-killing-at-least-48-people.md) _Context: Peru_
+4. [A 7.1 magnitude earthquake strikes in the Pacific Ocean near Acari in Peru's Arequipa Region resulting in 1 death and 65 injured. ](/news/2018/01/14/a-7-1-magnitude-earthquake-strikes-in-the-pacific-ocean-near-acara-in-peru-s-arequipa-region-resulting-in-1-death-and-65-injured.md) _Context: Peru_
+5. [Former Peru president Alberto Fujimori is taken, from prison, to a local hospital for treatment for abnormally low blood pressure. ](/news/2017/12/23/former-peru-president-alberto-fujimori-is-taken-from-prison-to-a-local-hospital-for-treatment-for-abnormally-low-blood-pressure.md) _Context: Peru_

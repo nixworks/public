@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/16/in-the-standoff-between-the-jaish-i-mahdi-militia-and-iraqi-and-us-forces-fears-of-a-major-assault-on-najaf-mount-the-city-is-closed-to-j.html)  [JSON](/news/2004/08/16/in-the-standoff-between-the-jaish-i-mahdi-militia-and-iraqi-and-us-forces-fears-of-a-major-assault-on-najaf-mount-the-city-is-closed-to-j.json)  [XML](/news/2004/08/16/in-the-standoff-between-the-jaish-i-mahdi-militia-and-iraqi-and-us-forces-fears-of-a-major-assault-on-najaf-mount-the-city-is-closed-to-j.xml)  
+
 ### [2004-08-16](/news/2004/08/16/index.md)
 
+##### Mahdi Army
 #  In the standoff between the Jaish-i-Mahdi militia and Iraqi and US forces, fears of a major assault on Najaf mount. The city is closed to journalists and some Iraqi government soldiers are reported to desert. Some delegates at the national conference call on Iraqi interim Prime Minister Allawi to end military operations against Muqtada al-Sadr. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3568570.stm)
 2. [Knight Ridder](http://www.realcities.com/mld/krwashington/9409919.htm)

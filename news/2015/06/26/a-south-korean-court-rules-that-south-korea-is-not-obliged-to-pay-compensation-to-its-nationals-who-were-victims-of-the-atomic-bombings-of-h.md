@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/26/a-south-korean-court-rules-that-south-korea-is-not-obliged-to-pay-compensation-to-its-nationals-who-were-victims-of-the-atomic-bombings-of-h.html)  [JSON](/news/2015/06/26/a-south-korean-court-rules-that-south-korea-is-not-obliged-to-pay-compensation-to-its-nationals-who-were-victims-of-the-atomic-bombings-of-h.json)  [XML](/news/2015/06/26/a-south-korean-court-rules-that-south-korea-is-not-obliged-to-pay-compensation-to-its-nationals-who-were-victims-of-the-atomic-bombings-of-h.xml)  
+
 ### [2015-06-26](/news/2015/06/26/index.md)
 
+##### South Korea
 # A South Korean court rules that South Korea is not obliged to pay compensation to its nationals who were victims of the Atomic bombings of Hiroshima and Nagasaki who have not been compensated by Japan. 
 
  A court ruled Friday that South Korea is not obligated to compensate its victims of the Hiroshima and Nakasaki atomic bombings who had been denied reparations from Japan.
 
 
-### Source:
+### Sources:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/news/2015/06/26/0200000000AEN20150626004100315.html?input=www.tweeter.com)
 

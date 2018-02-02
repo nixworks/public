@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2012/11/15/the-myanmar-government-pardons-452-prisoners-under-an-amnesty-in-a-goodwill-gesture-before-a-visit-by-us-president-barack-obama-state-media.html)  [JSON](/news/2012/11/15/the-myanmar-government-pardons-452-prisoners-under-an-amnesty-in-a-goodwill-gesture-before-a-visit-by-us-president-barack-obama-state-media.json)  [XML](/news/2012/11/15/the-myanmar-government-pardons-452-prisoners-under-an-amnesty-in-a-goodwill-gesture-before-a-visit-by-us-president-barack-obama-state-media.xml)  
+
 ### [2012-11-15](/news/2012/11/15/index.md)
 
+##### Myanmar
 # The Myanmar government pardons 452 prisoners under an amnesty in a goodwill gesture before a visit by US President Barack Obama. State media said some of the people released were foreigners, though it remained unknown if any dissidents are among them at all. Human Rights Watch accuses the government of using strategically timed prisoner releases to appease the international community. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/11/2012111514445412342.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/11//201251112163175734_20.jpg)
 
 ### Related:
 
-1. [Burmese State Counsellor Aung San Suu Kyi asks U.S. businesses to invest in Myanmar after Barack Obama agrees to lift U.S. sanctions. ](/news/2016/09/15/burmese-state-counsellor-aung-san-suu-kyi-asks-u-s-businesses-to-invest-in-myanmar-after-barack-obama-agrees-to-lift-u-s-sanctions.md) _Context: Barack Obama, Myanmar_
-2. [A refugee boat en route to Bangladesh from Myanmar capsizes, resulting in at least 12 deaths. ](/news/2017/10/8/a-refugee-boat-en-route-to-bangladesh-from-myanmar-capsizes-resulting-in-at-least-12-deaths.md) _Context: Myanmar_
-3. [Bangladesh accuses the Myanmar Army of laying landmines on the border between both countries to prevent the return of fleeing Rohingya refugees. Myanmar denies the Bangladeshi claims. ](/news/2017/09/6/bangladesh-accuses-the-myanmar-army-of-laying-landmines-on-the-border-between-both-countries-to-prevent-the-return-of-fleeing-rohingya-refug.md) _Context: Myanmar_
-4. [More than 123,000 Rohingya refugees have fled Myanmar and crossed into Bangladesh due to escalating violence by the Myanmar Army. ](/news/2017/09/5/more-than-123-000-rohingya-refugees-have-fled-myanmar-and-crossed-into-bangladesh-due-to-escalating-violence-by-the-myanmar-army.md) _Context: Myanmar_
-5. [Thailand's Ministry of Foreign Affairs says it is "closely following the situation" in Rakhine State and offers aid for the governments of Myanmar and Bangladesh. ](/news/2017/09/30/thailand-s-ministry-of-foreign-affairs-says-it-is-closely-following-the-situation-in-rakhine-state-and-offers-aid-for-the-governments-of-m.md) _Context: Myanmar_
+1. [Human Rights Watch releases a report detailing the alleged systematic rape of Rohingya women and girls by Myanmar's security forces in Rakhine State. ](/news/2017/11/16/human-rights-watch-releases-a-report-detailing-the-alleged-systematic-rape-of-rohingya-women-and-girls-by-myanmar-s-security-forces-in-rakhi.md) _Context: Human Rights Watch, Myanmar_
+2. [Burmese State Counsellor Aung San Suu Kyi asks U.S. businesses to invest in Myanmar after Barack Obama agrees to lift U.S. sanctions. ](/news/2016/09/15/burmese-state-counsellor-aung-san-suu-kyi-asks-u-s-businesses-to-invest-in-myanmar-after-barack-obama-agrees-to-lift-u-s-sanctions.md) _Context: Barack Obama, Myanmar_
+3. [China announces the country's ivory trade is now illegal. In 2015, Chinese President Xi Jinping and then-U.S. President Barack Obama announced "near-complete" ivory bans for each country. America's ivory ban went into effect in June 2016. ](/news/2017/12/31/china-announces-the-country-s-ivory-trade-is-now-illegal-in-2015-chinese-president-xi-jinping-and-then-u-s-president-barack-obama-announc.md) _Context: Barack Obama_
+4. [Pope Francis ends his six-day trip to Myanmar and Bangladesh by visiting the Rohingya refugees in Dhaka. ](/news/2017/12/2/pope-francis-ends-his-six-day-trip-to-myanmar-and-bangladesh-by-visiting-the-rohingya-refugees-in-dhaka.md) _Context: Myanmar_
+5. [Two Reuters journalists are arrested in Myanmar for trying to illegally obtain official documents. The were reporting about the Rohingya Muslim community in Rakhine State. ](/news/2017/12/13/two-reuters-journalists-are-arrested-in-myanmar-for-trying-to-illegally-obtain-official-documents-the-were-reporting-about-the-rohingya-mus.md) _Context: Myanmar_

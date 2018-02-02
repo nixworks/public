@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/11/authorities-from-the-marshal-s-service-the-fbi-customs-state-and-local-police-and-the-forest-police-searching-for-6-days-in-northeastern.html)  [JSON](/news/2015/06/11/authorities-from-the-marshal-s-service-the-fbi-customs-state-and-local-police-and-the-forest-police-searching-for-6-days-in-northeastern.json)  [XML](/news/2015/06/11/authorities-from-the-marshal-s-service-the-fbi-customs-state-and-local-police-and-the-forest-police-searching-for-6-days-in-northeastern.xml)  
+
 ### [2015-06-11](/news/2015/06/11/index.md)
 
+##### Lake Champlain
 # Authorities from the Marshal's Service, the FBI, Customs, state and local police, and the Forest Police searching for 6 days in northeastern New York (about 25 miles south of the Canadian border, near Lake Champlain and Vermont, in the Adirondack Forest area, in Dannemora, New York and Plattsburgh, New York) for two high-risk murderers who staged an elaborate escape from the high-security Clinton Correctional Facility- the first there- the night of Friday, June 5, 2015 (it was discovered the next morning), using bloodhounds, find a scent and leftover evidence that could be from the two, Richard Matt and David Sweat. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2015/06/11/us/new-york-prison-break/index.html)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/08/15/daniel-skahan-a-29-year-old-from-ottawa-is-charged-5-000-for-mischief-and-possession-of-incendiary-materials-for-his-role-in-setting-a.html)  [JSON](/news/2010/08/15/daniel-skahan-a-29-year-old-from-ottawa-is-charged-5-000-for-mischief-and-possession-of-incendiary-materials-for-his-role-in-setting-a.json)  [XML](/news/2010/08/15/daniel-skahan-a-29-year-old-from-ottawa-is-charged-5-000-for-mischief-and-possession-of-incendiary-materials-for-his-role-in-setting-a.xml)  
+
 ### [2010-08-15](/news/2010/08/15/index.md)
 
+##### Ottawa
 # Daniel Skahan, a 29-year-old from Ottawa, is charged 5,000 $ for mischief and possession of incendiary materials, for his role in setting a fire just outside of Canadian Prime Minister Stephen Harper's home. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Star](http://www.thestar.com/news/canada/stephenharper/article/848132--charges-laid-over-fire-set-outside-gate-to-pm-s-residence)
+1. [The Star](https://www.thestar.com/news/canada/stephenharper/article/848132--charges-laid-over-fire-set-outside-gate-to-pm-s-residence)
 
 ### Related:
 

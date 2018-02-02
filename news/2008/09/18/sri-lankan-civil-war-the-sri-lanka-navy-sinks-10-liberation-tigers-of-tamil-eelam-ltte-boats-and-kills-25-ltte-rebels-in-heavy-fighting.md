@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/18/sri-lankan-civil-war-the-sri-lanka-navy-sinks-10-liberation-tigers-of-tamil-eelam-ltte-boats-and-kills-25-ltte-rebels-in-heavy-fighting.html)  [JSON](/news/2008/09/18/sri-lankan-civil-war-the-sri-lanka-navy-sinks-10-liberation-tigers-of-tamil-eelam-ltte-boats-and-kills-25-ltte-rebels-in-heavy-fighting.json)  [XML](/news/2008/09/18/sri-lankan-civil-war-the-sri-lanka-navy-sinks-10-liberation-tigers-of-tamil-eelam-ltte-boats-and-kills-25-ltte-rebels-in-heavy-fighting.xml)  
+
 ### [2008-09-18](/news/2008/09/18/index.md)
 
+##### Sri Lankan Civil War
 #  Sri Lankan Civil War: The Sri Lanka Navy sinks 10 Liberation Tigers of Tamil Eelam (LTTE) boats and kills 25 LTTE rebels in heavy fighting off the port of Nachikkudah in Sri Lanka, according to the navy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''The International Herald Tribune](http://www.iht.com/articles/reuters/2008/09/18/asia/OUKWD-UK-SRILANKA-WAR.php)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/18/the-arab-league-threatens-to-take-syria-to-the-united-nations-within-two-weeks-if-the-country-does-not-accept-its-proposals-to-end-the-crack.html)  [JSON](/news/2011/12/18/the-arab-league-threatens-to-take-syria-to-the-united-nations-within-two-weeks-if-the-country-does-not-accept-its-proposals-to-end-the-crack.json)  [XML](/news/2011/12/18/the-arab-league-threatens-to-take-syria-to-the-united-nations-within-two-weeks-if-the-country-does-not-accept-its-proposals-to-end-the-crack.xml)  
+
 ### [2011-12-18](/news/2011/12/18/index.md)
 
+##### Arab League
 # The Arab League threatens to take Syria to the United Nations within two weeks if the country does not accept its proposals to end the crackdown on the uprising. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/world/2011-12/18/c_131313498.htm)
 

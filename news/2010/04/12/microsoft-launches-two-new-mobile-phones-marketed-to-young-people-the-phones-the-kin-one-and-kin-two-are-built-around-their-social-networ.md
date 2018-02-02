@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/04/12/microsoft-launches-two-new-mobile-phones-marketed-to-young-people-the-phones-the-kin-one-and-kin-two-are-built-around-their-social-networ.html)  [JSON](/news/2010/04/12/microsoft-launches-two-new-mobile-phones-marketed-to-young-people-the-phones-the-kin-one-and-kin-two-are-built-around-their-social-networ.json)  [XML](/news/2010/04/12/microsoft-launches-two-new-mobile-phones-marketed-to-young-people-the-phones-the-kin-one-and-kin-two-are-built-around-their-social-networ.xml)  
+
 ### [2010-04-12](/news/2010/04/12/index.md)
 
+##### Microsoft
 # Microsoft launches two new mobile phones marketed to young people. The phones, the Kin One and Kin Two, are built around their social networking features. 
 
 The phones have social-networking features, like the ability to update status messages on sites like Facebook, Twitter and MySpace, all at once.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2010/04/13/technology/13soft.html?hp)
+1. [New York Times](https://www.nytimes.com/2010/04/13/technology/13soft.html?hp)
 1. [Cover Image](https://static01.nyt.com/images/2010/04/13/business/13soft1-cnd/13soft1-cnd-thumbStandard.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/3/lal-masjid-clashes-at-least-seven-people-have-been-killed-in-clashes-between-security-forces-and-militant-students-at-a-mosque-in-the-paki.html)  [JSON](/news/2007/07/3/lal-masjid-clashes-at-least-seven-people-have-been-killed-in-clashes-between-security-forces-and-militant-students-at-a-mosque-in-the-paki.json)  [XML](/news/2007/07/3/lal-masjid-clashes-at-least-seven-people-have-been-killed-in-clashes-between-security-forces-and-militant-students-at-a-mosque-in-the-paki.xml)  
+
 ### [2007-07-3](/news/2007/07/3/index.md)
 
+##### 700 students surrender
 #  Lal Masjid clashes: At least seven people have been killed in clashes between security forces and militant students at a mosque in the Pakistani capital Islamabad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6264338.stm)
 

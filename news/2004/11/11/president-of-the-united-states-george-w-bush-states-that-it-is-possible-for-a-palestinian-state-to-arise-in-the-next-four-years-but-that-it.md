@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2004/11/11/president-of-the-united-states-george-w-bush-states-that-it-is-possible-for-a-palestinian-state-to-arise-in-the-next-four-years-but-that-it.html)  [JSON](/news/2004/11/11/president-of-the-united-states-george-w-bush-states-that-it-is-possible-for-a-palestinian-state-to-arise-in-the-next-four-years-but-that-it.json)  [XML](/news/2004/11/11/president-of-the-united-states-george-w-bush-states-that-it-is-possible-for-a-palestinian-state-to-arise-in-the-next-four-years-but-that-it.xml)  
+
 ### [2004-11-11](/news/2004/11/11/index.md)
 
+##### U.S. President
 #  President of the United States George W Bush states that it is possible for a Palestinian state to arise in the next four years but that it would depend greatly upon who they elect to replace Yasser Arafat. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6801950)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6801950)
 
 ### Related:
 
-1. [The George W. Bush Presidential Center in Dallas, Texas, is dedicated in the presence of President of the United States Barack Obama, former president George W. Bush and all living former presidents. The complex will be opened to the public on May 1. ](/news/2013/04/25/the-george-w-bush-presidential-center-in-dallas-texas-is-dedicated-in-the-presence-of-president-of-the-united-states-barack-obama-former.md) _Context: George W. Bush, U.S. President_
-2. [U.S. news magazine "Time" selects U.S. President Barack Obama as its 2012 Person of the Year, following on from his 2008 award, and those of his predecessors George W. Bush in 2000 and 2004, Bill Clinton in 1992 and 1998, George H. W. Bush in 1990, Ronald Reagan in 1980 and 1983, Jimmy Carter in 1976, Richard Nixon in 1971 and 1972 and Lyndon B. Johnson in 1964 and 1967. ](/news/2012/12/19/u-s-news-magazine-time-selects-u-s-president-barack-obama-as-its-2012-person-of-the-year-following-on-from-his-2008-award-and-those-of.md) _Context: George W. Bush, U.S. President_
-3. [Former President of the United States George W. Bush cancels a planned appearance in Switzerland; Human Rights Watch link the cancellation to growing pressure for Bush to be arrested over his approval of waterboarding torture, saying Bush is "avoiding handcuffs". ](/news/2011/02/5/former-president-of-the-united-states-george-w-bush-cancels-a-planned-appearance-in-switzerland-human-rights-watch-link-the-cancellation-t.md) _Context: George W. Bush, U.S. President_
-4. [A Saudi Arabian student is arrested in Texas for allegedly planning a terrorist attack against the Dallas home of former President of the United States George W. Bush as a target as well as New York City and dams in California and Colorado. ](/news/2011/02/24/a-saudi-arabian-student-is-arrested-in-texas-for-allegedly-planning-a-terrorist-attack-against-the-dallas-home-of-former-president-of-the-un.md) _Context: George W. Bush, U.S. President_
-5. [The President of the United States Barack Obama says that a deal has been reached with the Republican Party to extend the Bush era tax cuts. ](/news/2010/12/6/the-president-of-the-united-states-barack-obama-says-that-a-deal-has-been-reached-with-the-republican-party-to-extend-the-bush-era-tax-cuts.md) _Context: George W. Bush, U.S. President_
+1. [ U.S. President Barack Obama urges Israeli Prime Minister Benjamin Netanyahu to accept a Palestinian state. ](/news/2009/05/18/u-s-president-barack-obama-urges-israeli-prime-minister-benjamin-netanyahu-to-accept-a-palestinian-state.md) _Context: Palestinian state, U.S. President_
+2. [Steve Bannon steps down as executive chairman of Breitbart News amid a dispute with U.S. President Donald Trump over comments he made about the Trump family in Michael Wolff's "Fire and Fury". ](/news/2018/01/9/steve-bannon-steps-down-as-executive-chairman-of-breitbart-news-amid-a-dispute-with-u-s-president-donald-trump-over-comments-he-made-about.md) _Context: U.S. President_
+3. [U.S. President Donald Trump delivers his first State of the Union Address to the 115th United States Congress in the chamber of the House of Representatives.](/news/2018/01/30/u-s-president-donald-trump-delivers-his-first-state-of-the-union-address-to-the-115th-united-states-congress-in-the-chamber-of-the-house-of.md) _Context: U.S. President_
+4. [U.S. President Donald Trump dissolves the voter fraud commission noting the cost to the public of litigating against lawsuits from states objecting to the voter information requested. ](/news/2018/01/3/u-s-president-donald-trump-dissolves-the-voter-fraud-commission-noting-the-cost-to-the-public-of-litigating-against-lawsuits-from-states-ob.md) _Context: U.S. President_
+5. [Andrew McCabe resigns as Deputy Director of the Federal Bureau of Investigation amid a dispute with President Donald Trump. ](/news/2018/01/29/andrew-mccabe-resigns-as-deputy-director-of-the-federal-bureau-of-investigation-amid-a-dispute-with-president-donald-trump.md) _Context: U.S. President_

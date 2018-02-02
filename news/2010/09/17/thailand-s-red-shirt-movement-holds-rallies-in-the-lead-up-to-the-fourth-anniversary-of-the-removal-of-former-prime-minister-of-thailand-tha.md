@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/17/thailand-s-red-shirt-movement-holds-rallies-in-the-lead-up-to-the-fourth-anniversary-of-the-removal-of-former-prime-minister-of-thailand-tha.html)  [JSON](/news/2010/09/17/thailand-s-red-shirt-movement-holds-rallies-in-the-lead-up-to-the-fourth-anniversary-of-the-removal-of-former-prime-minister-of-thailand-tha.json)  [XML](/news/2010/09/17/thailand-s-red-shirt-movement-holds-rallies-in-the-lead-up-to-the-fourth-anniversary-of-the-removal-of-former-prime-minister-of-thailand-tha.xml)  
+
 ### [2010-09-17](/news/2010/09/17/index.md)
 
+##### Thailand
 # Thailand's red shirt movement holds rallies in the lead up to the fourth anniversary of the removal of former Prime Minister of Thailand Thaksin Shinawatra on Sunday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://blogs.aljazeera.net/asia/2010/09/17/red-shirts-return)
 

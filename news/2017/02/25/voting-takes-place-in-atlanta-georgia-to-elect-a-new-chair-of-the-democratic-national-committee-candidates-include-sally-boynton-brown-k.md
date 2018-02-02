@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/25/voting-takes-place-in-atlanta-georgia-to-elect-
 
 ### [2017-02-25](/news/2017/02/25/index.md)
 
+##### Democratic National Committee chairmanship election, 2017
 # Voting takes place in Atlanta, Georgia, to elect a new Chair of the Democratic National Committee. Candidates include Sally Boynton Brown, Keith Ellison, Jehmu Greene and former United States Secretary of Labor Tom Perez. 
 
 Perez was elected Saturday as the new DNC chair, tasked with rebuilding the factionalized party after the November election.

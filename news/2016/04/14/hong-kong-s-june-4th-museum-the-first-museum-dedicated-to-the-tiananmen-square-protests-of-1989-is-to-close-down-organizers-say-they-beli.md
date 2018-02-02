@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/14/hong-kong-s-june-4th-museum-the-first-museum-de
 
 ### [2016-04-14](/news/2016/04/14/index.md)
 
+##### Hong Kong
 # Hong Kong's June 4th Museum, the first museum dedicated to the Tiananmen Square protests of 1989, is to close down. Organizers say they believe they are being targeted for political reasons. It comes at a time when concerns are growing in Hong Kong that Beijing is tightening its grip on the city. 
 
 Organisers believe they are being targeted for political reasons as China seeks to cast more influence on the city

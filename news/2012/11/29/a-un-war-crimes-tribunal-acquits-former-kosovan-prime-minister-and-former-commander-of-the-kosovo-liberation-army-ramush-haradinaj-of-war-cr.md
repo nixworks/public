@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/11/29/a-un-war-crimes-tribunal-acquits-former-kosovan-prime-minister-and-former-commander-of-the-kosovo-liberation-army-ramush-haradinaj-of-war-cr.html)  [JSON](/news/2012/11/29/a-un-war-crimes-tribunal-acquits-former-kosovan-prime-minister-and-former-commander-of-the-kosovo-liberation-army-ramush-haradinaj-of-war-cr.json)  [XML](/news/2012/11/29/a-un-war-crimes-tribunal-acquits-former-kosovan-prime-minister-and-former-commander-of-the-kosovo-liberation-army-ramush-haradinaj-of-war-cr.xml)  
+
 ### [2012-11-29](/news/2012/11/29/index.md)
 
+##### UN
 # A UN war crimes tribunal acquits former Kosovan Prime Minister and former commander of the Kosovo Liberation Army Ramush Haradinaj of war crimes, prompting Serbia to denounce the court. 
 
 A UN war crimes tribunal acquits former Kosovan Prime Minister Ramush Haradinaj of war crimes, prompting Serbia to denounce the court.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20536318)
-2. [Reuters](http://www.reuters.com/article/2012/11/29/uk-kosovo-tribunal-haradinaj-idUKBRE8AS0BA20121129)
+2. [Reuters](https://www.reuters.com/article/2012/11/29/uk-kosovo-tribunal-haradinaj-idUKBRE8AS0BA20121129)
 3. [The Guardian](http://www.guardian.co.uk/world/2012/nov/29/kosovan-former-pm-cleared-war-crimes)
 3. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/64453000/jpg/_64453046_64453045.jpg)
 

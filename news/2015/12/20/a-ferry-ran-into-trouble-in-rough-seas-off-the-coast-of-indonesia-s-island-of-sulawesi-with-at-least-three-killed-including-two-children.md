@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/20/a-ferry-ran-into-trouble-in-rough-seas-off-the-coast-of-indonesia-s-island-of-sulawesi-with-at-least-three-killed-including-two-children.html)  [JSON](/news/2015/12/20/a-ferry-ran-into-trouble-in-rough-seas-off-the-coast-of-indonesia-s-island-of-sulawesi-with-at-least-three-killed-including-two-children.json)  [XML](/news/2015/12/20/a-ferry-ran-into-trouble-in-rough-seas-off-the-coast-of-indonesia-s-island-of-sulawesi-with-at-least-three-killed-including-two-children.xml)  
+
 ### [2015-12-20](/news/2015/12/20/index.md)
 
+##### ferry
 # A ferry ran into trouble in rough seas off the coast of Indonesia's island of Sulawesi, with at least three killed, including two children, 39 rescued, and 77 missing. The New Marina, a fiberglass boat, was reported to be carrying 109 passengers with a crew of 10. The National Search and Rescue Agency says the boat sank 22.5 km (24 miles) off the coast of the Wajo Regency in South Sulawesi. Rescue teams expect to resume their search for the missing, Monday. 
 
 Thirty-nine people have been rescued so far.
 
 
-### Source:
+### Sources:
 
 1. [BenarNews](http://www.benarnews.org/english/news/indonesian/sulawesi-sinking-12202015004255.html)
 2. [Muscat Daily](http://www.muscatdaily.com/Archive/World/Nearly-80-still-missing-in-Indonesian-ferry-accident-4hwh)

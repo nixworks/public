@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/13/the-south-african-development-community-calls-on-madagascar-to-allow-political-exiles-including-former-president-marc-ravalomanana-to-retur.html)  [JSON](/news/2011/06/13/the-south-african-development-community-calls-on-madagascar-to-allow-political-exiles-including-former-president-marc-ravalomanana-to-retur.json)  [XML](/news/2011/06/13/the-south-african-development-community-calls-on-madagascar-to-allow-political-exiles-including-former-president-marc-ravalomanana-to-retur.xml)  
+
 ### [2011-06-13](/news/2011/06/13/index.md)
 
+##### Madagascar
 # The South African Development Community calls on Madagascar to allow political exiles, including former President Marc Ravalomanana to return to end the political deadlock. 
 
 Southern African leaders have called on Madagascar&#39;s rulers to allow exiled leaders, including the deposed president, Marc Ravalomanana, to return home. However, the country&#39;s administration is reported to have rejected the call.
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica.com](http://allafrica.com/stories/201106130985.html)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE75C0A320110613)

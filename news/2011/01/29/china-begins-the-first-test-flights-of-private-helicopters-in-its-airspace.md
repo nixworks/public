@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/29/china-begins-the-first-test-flights-of-private-helicopters-in-its-airspace.html)  [JSON](/news/2011/01/29/china-begins-the-first-test-flights-of-private-helicopters-in-its-airspace.json)  [XML](/news/2011/01/29/china-begins-the-first-test-flights-of-private-helicopters-in-its-airspace.xml)  
+
 ### [2011-01-29](/news/2011/01/29/index.md)
 
+##### China
 # China begins the first test flights of private helicopters in its airspace. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5g4NJlZPhVsfshWbNkfNA9eQgP7YA?docId=CNG.e879b80d1011df0465e895c1c65e4e6d.f1)
 

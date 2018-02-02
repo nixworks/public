@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/14/the-nevado-del-huila-volcano-erupts-in-colombia-causing-thousands-to-evacuate.html)  [JSON](/news/2008/04/14/the-nevado-del-huila-volcano-erupts-in-colombia-causing-thousands-to-evacuate.json)  [XML](/news/2008/04/14/the-nevado-del-huila-volcano-erupts-in-colombia-causing-thousands-to-evacuate.xml)  
+
 ### [2008-04-14](/news/2008/04/14/index.md)
 
+##### Nevado del Huila
 #  The Nevado del Huila volcano erupts in Colombia, causing thousands to evacuate.
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2008/WORLD/americas/04/15/volcano.colom/index.html)
 

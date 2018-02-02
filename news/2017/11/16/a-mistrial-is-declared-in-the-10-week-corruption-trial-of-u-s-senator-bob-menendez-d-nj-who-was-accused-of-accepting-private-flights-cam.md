@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/16/a-mistrial-is-declared-in-the-10-week-corruptio
 
 ### [2017-11-16](/news/2017/11/16/index.md)
 
+##### Crime in the United States
 # A mistrial is declared in the 10-week corruption trial of U.S. Senator Bob Menendez (D-NJ) who was accused of accepting private flights, campaign contributions, etc., from Florida ophthalmologist Salomon Melgen in exchange for official favors. A juror told the media the panel was split 10-2 in favor of acquittal. 
 
 

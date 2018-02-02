@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/17/the-head-of-the-greek-terrorist-group-revolutionary-organization-17-november-and-their-chief-hitman-are-jailed-for-life-along-with-four-ot.html)  [JSON](/news/2003/12/17/the-head-of-the-greek-terrorist-group-revolutionary-organization-17-november-and-their-chief-hitman-are-jailed-for-life-along-with-four-ot.json)  [XML](/news/2003/12/17/the-head-of-the-greek-terrorist-group-revolutionary-organization-17-november-and-their-chief-hitman-are-jailed-for-life-along-with-four-ot.xml)  
+
 ### [2003-12-17](/news/2003/12/17/index.md)
 
+##### Revolutionary Organization 17 November
 #  The head of the Greek terrorist group Revolutionary Organization 17 November and their chief hitman are jailed for life, along with four other members of the organisation. 
 
 

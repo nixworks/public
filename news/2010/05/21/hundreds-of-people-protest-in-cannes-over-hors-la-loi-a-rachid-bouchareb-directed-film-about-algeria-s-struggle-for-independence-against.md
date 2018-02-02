@@ -1,16 +1,25 @@
+
+Formats: [HTML](/news/2010/05/21/hundreds-of-people-protest-in-cannes-over-hors-la-loi-a-rachid-bouchareb-directed-film-about-algeria-s-struggle-for-independence-against.html)  [JSON](/news/2010/05/21/hundreds-of-people-protest-in-cannes-over-hors-la-loi-a-rachid-bouchareb-directed-film-about-algeria-s-struggle-for-independence-against.json)  [XML](/news/2010/05/21/hundreds-of-people-protest-in-cannes-over-hors-la-loi-a-rachid-bouchareb-directed-film-about-algeria-s-struggle-for-independence-against.xml)  
+
 ### [2010-05-21](/news/2010/05/21/index.md)
 
+##### Cannes
 # Hundreds of people protest in Cannes over "Hors-la-loi", a Rachid Bouchareb directed film about Algeria's struggle for independence against France. 
 
 What to do... what to do...
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10139215.stm)
 2. [CBC](http://www.cbc.ca/arts/film/story/2010/05/21/cannes-algeria-protest.html)
 3. [The Times](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/film/cannes/article7133175.ece)
 3. [Cover Image](https://i.cbc.ca/1.4044480.1490728468!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trudeau-comic-1.jpg)
+
+### Changes:
+
+1. [Hundreds of people protest in Cannes over ''Hors-la-loi'', a Rachid Bouchareb directed film about Algeria's struggle for independence against France. ](/news/2010/05/21/hundreds-of-people-protest-in-cannes-over-hors-la-loi-a-rachid-bouchareb-directed-film-about-algeria-s-struggle-for-independence-agains.md) _2017-08-25 03:27:58 (First version)_
+1. [Hundreds of people protest in Cannes over "Hors-la-loi", a Rachid Bouchareb directed film about Algeria's struggle for independence against France. ](/news/2010/05/21/hundreds-of-people-protest-in-cannes-over-hors-la-loi-a-rachid-bouchareb-directed-film-about-algeria-s-struggle-for-independence-against.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +28,3 @@ What to do... what to do...
 3. [A Frenchman and his Algerian driver are kidnapped by armed men in Niger. ](/news/2010/04/23/a-frenchman-and-his-algerian-driver-are-kidnapped-by-armed-men-in-niger.md) _Context: Algeria, France_
 4. [At the NRJ Music Awards in Cannes, France, hip hop band Black Eyed Peas are mistakenly presented with an award for best international group which was intended for Tokio Hotel, while Rihanna falls off the stage during a live performance of "Russian Roulette". ](/news/2010/01/24/at-the-nrj-music-awards-in-cannes-france-hip-hop-band-black-eyed-peas-are-mistakenly-presented-with-an-award-for-best-international-group.md) _Context: Cannes, France_
 5. [ Algerian ra music star Cheb Mami is jailed for five years in France for trying to force his former partner to have an abortion. ](/news/2009/07/3/algerian-rai-music-star-cheb-mami-is-jailed-for-five-years-in-france-for-trying-to-force-his-former-partner-to-have-an-abortion.md) _Context: Algeria, France_
-
-### Changes:
-
-1. [Hundreds of people protest in Cannes over ''Hors-la-loi'', a Rachid Bouchareb directed film about Algeria's struggle for independence against France. ](/news/2010/05/21/hundreds-of-people-protest-in-cannes-over-hors-la-loi-a-rachid-bouchareb-directed-film-about-algeria-s-struggle-for-independence-agains.md) _2017-08-25 03:27:58 (First version)_
-1. [Hundreds of people protest in Cannes over "Hors-la-loi", a Rachid Bouchareb directed film about Algeria's struggle for independence against France. ](/news/2010/05/21/hundreds-of-people-protest-in-cannes-over-hors-la-loi-a-rachid-bouchareb-directed-film-about-algeria-s-struggle-for-independence-against.md) _(Current version)_

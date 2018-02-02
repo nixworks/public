@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/19/burma-s-state-television-airs-the-first-memorial-ceremony-in-over-20-years-for-aung-san-ndash-the-father-of-aung-san-suu-kyi-ndash-who-l.html)  [JSON](/news/2012/07/19/burma-s-state-television-airs-the-first-memorial-ceremony-in-over-20-years-for-aung-san-ndash-the-father-of-aung-san-suu-kyi-ndash-who-l.json)  [XML](/news/2012/07/19/burma-s-state-television-airs-the-first-memorial-ceremony-in-over-20-years-for-aung-san-ndash-the-father-of-aung-san-suu-kyi-ndash-who-l.xml)  
+
 ### [2012-07-19](/news/2012/07/19/index.md)
 
+##### Burma
 # Burma's state television airs the first memorial ceremony in over 20 years for Aung San &ndash; the father of Aung San Suu Kyi &ndash; who led the country to its independence. 
 
 Myanmar state television broadcast a memorial ceremony for opposition leader Aung San Suu Kyi’s revered independence hero father for the first time in decades on Thursday, the latest sign of change in
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.thehindu.com/news/international/article3656551.ece)
 1. [Cover Image](http://www.thehindu.com/migration_catalog/article12722193.ece/ALTERNATES/LANDSCAPE_615/19%20myanmar)

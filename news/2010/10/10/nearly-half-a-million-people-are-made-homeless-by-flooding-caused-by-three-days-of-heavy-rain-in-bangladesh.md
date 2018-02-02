@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/10/nearly-half-a-million-people-are-made-homeless-by-flooding-caused-by-three-days-of-heavy-rain-in-bangladesh.html)  [JSON](/news/2010/10/10/nearly-half-a-million-people-are-made-homeless-by-flooding-caused-by-three-days-of-heavy-rain-in-bangladesh.json)  [XML](/news/2010/10/10/nearly-half-a-million-people-are-made-homeless-by-flooding-caused-by-three-days-of-heavy-rain-in-bangladesh.xml)  
+
 ### [2010-10-10](/news/2010/10/10/index.md)
 
+##### flood
 # Nearly half a million people are made homeless by flooding caused by three days of heavy rain in Bangladesh. 
 
 Nearly half a million people in Bangladesh have been made homeless and at least 15 people have been killed by three days of storms and heavy rain.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2010/10/10/3034135.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

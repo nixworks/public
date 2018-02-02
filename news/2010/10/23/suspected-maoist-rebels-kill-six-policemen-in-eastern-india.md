@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/23/suspected-maoist-rebels-kill-six-policemen-in-eastern-india.html)  [JSON](/news/2010/10/23/suspected-maoist-rebels-kill-six-policemen-in-eastern-india.json)  [XML](/news/2010/10/23/suspected-maoist-rebels-kill-six-policemen-in-eastern-india.xml)  
+
 ### [2010-10-23](/news/2010/10/23/index.md)
 
+##### Maoist
 # Suspected Maoist rebels kill six policemen in eastern India. 
 
 Rebels blamed for landmine blast that killed six officers in eastern Indian state of Bihar.
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hTL7vdy8hdzG_eSP56slBkZcbjeQ?docId=377849a34ebd447eb3a736d68ab752a5)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/10/2010102314428629615.html)

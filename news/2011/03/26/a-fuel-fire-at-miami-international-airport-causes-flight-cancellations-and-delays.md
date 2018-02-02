@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/26/a-fuel-fire-at-miami-international-airport-causes-flight-cancellations-and-delays.html)  [JSON](/news/2011/03/26/a-fuel-fire-at-miami-international-airport-causes-flight-cancellations-and-delays.json)  [XML](/news/2011/03/26/a-fuel-fire-at-miami-international-airport-causes-flight-cancellations-and-delays.xml)  
+
 ### [2011-03-26](/news/2011/03/26/index.md)
 
+##### Miami International Airport
 # A fuel fire at Miami International Airport causes flight cancellations and delays. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Miami Herald](http://www.miamiherald.com/2011/03/26/2135529/more-miami-international-flights.html)
 

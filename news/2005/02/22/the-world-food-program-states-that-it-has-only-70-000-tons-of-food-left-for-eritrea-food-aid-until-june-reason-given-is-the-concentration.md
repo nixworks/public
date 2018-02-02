@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/22/the-world-food-program-states-that-it-has-only-70-000-tons-of-food-left-for-eritrea-food-aid-until-june-reason-given-is-the-concentration.html)  [JSON](/news/2005/02/22/the-world-food-program-states-that-it-has-only-70-000-tons-of-food-left-for-eritrea-food-aid-until-june-reason-given-is-the-concentration.json)  [XML](/news/2005/02/22/the-world-food-program-states-that-it-has-only-70-000-tons-of-food-left-for-eritrea-food-aid-until-june-reason-given-is-the-concentration.xml)  
+
 ### [2005-02-22](/news/2005/02/22/index.md)
 
+##### World Food Program
 #  The World Food Program states that it has only 70 000 tons of food left for Eritrea food aid until June. Reason given is the concentration of aid to areas that suffered from 2004 Indian Ocean earthquake 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4284837.stm)
 

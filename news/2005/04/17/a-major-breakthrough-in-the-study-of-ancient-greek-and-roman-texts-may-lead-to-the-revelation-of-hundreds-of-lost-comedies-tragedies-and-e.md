@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/17/a-major-breakthrough-in-the-study-of-ancient-greek-and-roman-texts-may-lead-to-the-revelation-of-hundreds-of-lost-comedies-tragedies-and-e.html)  [JSON](/news/2005/04/17/a-major-breakthrough-in-the-study-of-ancient-greek-and-roman-texts-may-lead-to-the-revelation-of-hundreds-of-lost-comedies-tragedies-and-e.json)  [XML](/news/2005/04/17/a-major-breakthrough-in-the-study-of-ancient-greek-and-roman-texts-may-lead-to-the-revelation-of-hundreds-of-lost-comedies-tragedies-and-e.xml)  
+
 ### [2005-04-17](/news/2005/04/17/index.md)
 
+##### ancient Greek
 #  A major breakthrough in the study of ancient Greek and Roman texts may lead to the revelation of hundreds of lost comedies, tragedies and epic poems. Using an infrared technique originally developed for satellite imaging, classicists at Oxford University, in the past four days alone, have made a series of new discoveries from Oxyrhynchus, including writings by Sophocles, Euripides, Hesiod and other literary giants. It may also be used to reveal lost Christian gospels. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Blogger News Network](http://www.legendgames.net/showstory.asp?page=blognews/stories/ST0000030.txt)
 2. [The Independent](http://news.independent.co.uk/world/science_technology/story.jsp?story=630165)

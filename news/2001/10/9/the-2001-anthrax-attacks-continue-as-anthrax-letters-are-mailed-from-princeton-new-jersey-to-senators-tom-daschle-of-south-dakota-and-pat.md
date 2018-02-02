@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/10/9/the-2001-anthrax-attacks-continue-as-anthrax-letters-are-mailed-from-princeton-new-jersey-to-senators-tom-daschle-of-south-dakota-and-pat.html)  [JSON](/news/2001/10/9/the-2001-anthrax-attacks-continue-as-anthrax-letters-are-mailed-from-princeton-new-jersey-to-senators-tom-daschle-of-south-dakota-and-pat.json)  [XML](/news/2001/10/9/the-2001-anthrax-attacks-continue-as-anthrax-letters-are-mailed-from-princeton-new-jersey-to-senators-tom-daschle-of-south-dakota-and-pat.xml)  
+
 ### [2001-10-9](/news/2001/10/9/index.md)
 
+##### 2001 anthrax attacks
 #  The 2001 anthrax attacks continue as anthrax letters are mailed from Princeton, New Jersey, to Senators Tom Daschle of South Dakota and Patrick Leahy of Vermont.
 
 

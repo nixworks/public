@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/08/7/the-people-s-republic-of-china-evacuates-200-000-people-from-shanghai-ahead-of-typhoon-haikui-which-is-expected-to-make-landfall-in-zhejiang.html)  [JSON](/news/2012/08/7/the-people-s-republic-of-china-evacuates-200-000-people-from-shanghai-ahead-of-typhoon-haikui-which-is-expected-to-make-landfall-in-zhejiang.json)  [XML](/news/2012/08/7/the-people-s-republic-of-china-evacuates-200-000-people-from-shanghai-ahead-of-typhoon-haikui-which-is-expected-to-make-landfall-in-zhejiang.xml)  
+
 ### [2012-08-7](/news/2012/08/7/index.md)
 
+##### China
 # The People's Republic of China evacuates 200,000 people from Shanghai ahead of Typhoon Haikui which is expected to make landfall in Zhejiang early tonight or tomorrow morning. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/200-000-evacuated-typhoon-threatens-shanghai-042022847.html?_esi=1)
+1. [AFP via Yahoo! News](https://news.yahoo.com/200-000-evacuated-typhoon-threatens-shanghai-042022847.html?_esi=1)
 
 ### Related:
 

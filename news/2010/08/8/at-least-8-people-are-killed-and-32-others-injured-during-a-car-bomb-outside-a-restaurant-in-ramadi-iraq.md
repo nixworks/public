@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/8/at-least-8-people-are-killed-and-32-others-injured-during-a-car-bomb-outside-a-restaurant-in-ramadi-iraq.html)  [JSON](/news/2010/08/8/at-least-8-people-are-killed-and-32-others-injured-during-a-car-bomb-outside-a-restaurant-in-ramadi-iraq.json)  [XML](/news/2010/08/8/at-least-8-people-are-killed-and-32-others-injured-during-a-car-bomb-outside-a-restaurant-in-ramadi-iraq.xml)  
+
 ### [2010-08-8](/news/2010/08/8/index.md)
 
+##### Ramadi
 # At least 8 people are killed and 32 others injured during a car bomb outside a restaurant in Ramadi, Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/201088105924351167.html)
 1. [Cover Image](http://www.aljazeera.com)

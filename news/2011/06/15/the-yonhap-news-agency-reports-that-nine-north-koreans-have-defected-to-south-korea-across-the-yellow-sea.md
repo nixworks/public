@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/15/the-yonhap-news-agency-reports-that-nine-north-koreans-have-defected-to-south-korea-across-the-yellow-sea.html)  [JSON](/news/2011/06/15/the-yonhap-news-agency-reports-that-nine-north-koreans-have-defected-to-south-korea-across-the-yellow-sea.json)  [XML](/news/2011/06/15/the-yonhap-news-agency-reports-that-nine-north-koreans-have-defected-to-south-korea-across-the-yellow-sea.xml)  
+
 ### [2011-06-15](/news/2011/06/15/index.md)
 
+##### Yonhap
 # The Yonhap news agency reports that nine North Koreans have defected to South Korea across the Yellow Sea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/news/2011/06/15/0200000000AEN20110615006000315.HTML?source=rss)
 

@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2006/03/20/the-organization-for-security-and-co-operation-in-europe-which-monitored-the-election-concluded-that-the-presidential-election-failed-to.html)  [JSON](/news/2006/03/20/the-organization-for-security-and-co-operation-in-europe-which-monitored-the-election-concluded-that-the-presidential-election-failed-to.json)  [XML](/news/2006/03/20/the-organization-for-security-and-co-operation-in-europe-which-monitored-the-election-concluded-that-the-presidential-election-failed-to.xml)  
+
 ### [2006-03-20](/news/2006/03/20/index.md)
 
+##### OSCE
 #  The Organization for Security and Co-operation in Europe, which monitored the election, concluded that the presidential election failed to meet OSCE commitments for democratic elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4823800.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/4824642.stm)
 3. [Monsters and Critics](http://news.monstersandcritics.com/europe/article_1148866.php/Russia_Belarus_election_was_fair_and_open)
-4. [Reuters](http://news.yahoo.com/s/nm/20060320/wl_nm/belarus_dc)
+4. [Reuters](https://news.yahoo.com/s/nm/20060320/wl_nm/belarus_dc)
 
 ### Related:
 

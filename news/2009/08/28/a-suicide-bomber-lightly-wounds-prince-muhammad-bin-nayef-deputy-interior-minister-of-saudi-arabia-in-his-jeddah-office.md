@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/08/28/a-suicide-bomber-lightly-wounds-prince-muhammad-bin-nayef-deputy-interior-minister-of-saudi-arabia-in-his-jeddah-office.html)  [JSON](/news/2009/08/28/a-suicide-bomber-lightly-wounds-prince-muhammad-bin-nayef-deputy-interior-minister-of-saudi-arabia-in-his-jeddah-office.json)  [XML](/news/2009/08/28/a-suicide-bomber-lightly-wounds-prince-muhammad-bin-nayef-deputy-interior-minister-of-saudi-arabia-in-his-jeddah-office.xml)  
+
 ### [2009-08-28](/news/2009/08/28/index.md)
 
+##### Muhammad bin Nayef
 #  A suicide bomber lightly wounds Prince Muhammad bin Nayef, deputy interior minister of Saudi Arabia, in his Jeddah office. 
 
 A suicide bomber tried to assassinate the head of Saudi Arabia’s antiterrorism efforts, the official news agency reported from the Saudi capital, Riyadh.
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jCT8DQitylyzMv_NflHTMQe_1B9gD9ABJD8G1)
-2. [NY Times](http://www.nytimes.com/2009/08/29/world/middleeast/29saudi.html)
-3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/08/27/AR2009082704189.html?wprss=rss_world/wires)
+2. [NY Times](https://www.nytimes.com/2009/08/29/world/middleeast/29saudi.html)
+3. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2009/08/27/AR2009082704189.html?wprss=rss_world/wires)
 3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

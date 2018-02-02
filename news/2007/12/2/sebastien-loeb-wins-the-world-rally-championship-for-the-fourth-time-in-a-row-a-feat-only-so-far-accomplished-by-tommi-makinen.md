@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/2/sebastien-loeb-wins-the-world-rally-championship-for-the-fourth-time-in-a-row-a-feat-only-so-far-accomplished-by-tommi-makinen.html)  [JSON](/news/2007/12/2/sebastien-loeb-wins-the-world-rally-championship-for-the-fourth-time-in-a-row-a-feat-only-so-far-accomplished-by-tommi-makinen.json)  [XML](/news/2007/12/2/sebastien-loeb-wins-the-world-rally-championship-for-the-fourth-time-in-a-row-a-feat-only-so-far-accomplished-by-tommi-makinen.xml)  
+
 ### [2007-12-2](/news/2007/12/2/index.md)
 
+##### Sbastien Loeb
 #  Sbastien Loeb wins the World Rally Championship for the fourth time in a row, a feat only so far accomplished by Tommi Mkinen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.co.uk/news/articlenews.aspx?type=motoringMotorSportsNews&storyID=2007-12-02T145556Z_01_L02331474_RTRIDST_0_RALLYING-BRITAIN-UPDATE-1-PIX-GRAPHIC-TV.XML)
 

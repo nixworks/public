@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/1999/07/20/mercury-program-liberty-bell-7-is-raised-from-the-atlantic-ocean.html)  [JSON](/news/1999/07/20/mercury-program-liberty-bell-7-is-raised-from-the-atlantic-ocean.json)  [XML](/news/1999/07/20/mercury-program-liberty-bell-7-is-raised-from-the-atlantic-ocean.xml)  
+
 ### [1999-07-20](/news/1999/07/20/index.md)
 
+##### Mercury program
 #  Mercury program: "Liberty Bell 7" is raised from the Atlantic Ocean. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/TECH/space/9907/20/grissom.capsule.01/)
 

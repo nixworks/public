@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/10/29/thirty-people-are-feared-dead-after-a-footbridge-in-india-s-arunachal-pradesh-collapses-into-the-kameng-river.html)  [JSON](/news/2011/10/29/thirty-people-are-feared-dead-after-a-footbridge-in-india-s-arunachal-pradesh-collapses-into-the-kameng-river.json)  [XML](/news/2011/10/29/thirty-people-are-feared-dead-after-a-footbridge-in-india-s-arunachal-pradesh-collapses-into-the-kameng-river.xml)  
+
 ### [2011-10-29](/news/2011/10/29/index.md)
 
+##### footbridge
 # Thirty people are feared dead after a footbridge in India's Arunachal Pradesh collapses into the Kameng River. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/asia-pacific/police-foot-bridge-collapses-in-indias-remote-northeast-and-30-people-are-feared-drowned/2011/10/29/gIQAXgXVSM_story.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia-pacific/police-foot-bridge-collapses-in-indias-remote-northeast-and-30-people-are-feared-drowned/2011/10/29/gIQAXgXVSM_story.html)
 
 ### Related:
 

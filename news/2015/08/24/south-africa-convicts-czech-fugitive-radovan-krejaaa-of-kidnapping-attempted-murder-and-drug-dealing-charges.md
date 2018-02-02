@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2015/08/24/south-africa-convicts-czech-fugitive-radovan-krejaaa-of-kidnapping-attempted-murder-and-drug-dealing-charges.html)  [JSON](/news/2015/08/24/south-africa-convicts-czech-fugitive-radovan-krejaaa-of-kidnapping-attempted-murder-and-drug-dealing-charges.json)  [XML](/news/2015/08/24/south-africa-convicts-czech-fugitive-radovan-krejaaa-of-kidnapping-attempted-murder-and-drug-dealing-charges.xml)  
+
 ### [2015-08-24](/news/2015/08/24/index.md)
 
+##### South Africa
 # South Africa convicts Czech fugitive Radovan Krejcir of kidnapping, attempted murder, and drug dealing charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Independent Online](http://www.iol.co.za/news/crime-courts/top-cop-welcomes-krejcir-guilty-verdict-1.1904924#.Vdth_BYqbwg)
 
 ### Related:
 
-1. [Two people die and 17 others are injured in a stampede at the First National Bank Stadium in Soweto, near Johannesburg, South Africa, during a soccer match between Orlando Pirates and Kaizer Chiefs. ](/news/2017/07/29/two-people-die-and-17-others-are-injured-in-a-stampede-at-the-first-national-bank-stadium-in-soweto-near-johannesburg-south-africa-during.md) _Context: South Africa_
-2. [ Up to 10,000 people have been evacuated from Knysna Local Municipality on Garden Route in South Africa after wildfire destroyed 150 homes. The Wildfire is connected to the worst windstorm in 30 years, which already killed at least 8 people in Cape Town. [http:--www.bbc.com-news-world-africa-40199270 (BBC)], [https:--www.enca.com-south-africa-knysna-toddler-dies-on-birthday (ENCA)], [https:--www.rte.ie-news-world-2017-0608-881071-south_africa- (RTE)], [http:--www.aljazeera.com-news-2017-06-storm-kills-displaces-thousands-cape-town-170608052748704.html (Al Jazeera)], [https:--www.nytimes.com-2017-06-07-world-africa-south-africa-cape-town-storm-fires.html "(The New York Times)"]](/news/2017/06/8/up-to-10-000-people-have-been-evacuated-from-knysna-local-municipality-on-garden-route-in-south-africa-after-wildfire-destroyed-150-homes.md) _Context: South Africa_
-3. [The giant South Africa based cement company, PPC Ltd., presents its first quarter results, dominated by the "impact of a liquidity crisis precipitated by an unexpected S&P debt downgrade." ](/news/2017/06/7/the-giant-south-africa-based-cement-company-ppc-ltd-presents-its-first-quarter-results-dominated-by-the-impact-of-a-liquidity-crisis-pr.md) _Context: South Africa_
-4. [The Chamber of Deputies of the Czech Republic passes a Czech Social Democratic Party-proposed amendment to the constitution, giving citizens the right to acquire, possess and carry firearms for the purpose of security. The constitutional amendment will now go to the Senate, where it is expected to pass. ](/news/2017/06/29/the-chamber-of-deputies-of-the-czech-republic-passes-a-czech-social-democratic-party-proposed-amendment-to-the-constitution-giving-citizens.md) _Context: Czech Republic_
-5. [ Czech Prime Minister Bohuslav Sobotka has announced that he will submit his government's resignation because of a disagreement with Finance Minister Andrej Babis. ](/news/2017/05/2/czech-prime-minister-bohuslav-sobotka-has-announced-that-he-will-submit-his-government-s-resignation-because-of-a-disagreement-with-finance.md) _Context: Czech Republic_
+1. [A Shosholoza train collides with a vehicle at a crossing near Kroonstad in the Free State, South Africa, killing 19 and injuring at least 100 people. ](/news/2018/01/4/a-shosholoza-train-collides-with-a-vehicle-at-a-crossing-near-kroonstad-in-the-free-state-south-africa-killing-19-and-injuring-at-least-10.md) _Context: South Africa_
+2. [Incumbent Milos Zeman, who opposes immigration and objects to EU sanctions against Russia, is elected to a second term as President of the Czech Republic, after receiving 51.8 percent of the votes in the run-off election over pro-EU challenger Jiri Drahos. ](/news/2018/01/27/incumbent-miloa-zeman-who-opposes-immigration-and-objects-to-eu-sanctions-against-russia-is-elected-to-a-second-term-as-president-of-the.md) _Context: Czech Republic_
+3. [The European Commission orders Poland, the Czech Republic and Hungary to court over their refusal to incorporate more refugees. This is the third step in a process that may lead to fines and loss of the countries' voting rights in the European Union. ](/news/2017/12/7/the-european-commission-orders-poland-the-czech-republic-and-hungary-to-court-over-their-refusal-to-incorporate-more-refugees-this-is-the.md) _Context: Czech Republic_
+4. [The Czech Republic recognizes West Jerusalem as Israel's capital "in practice". ](/news/2017/12/7/the-czech-republic-recognizes-west-jerusalem-as-israel-s-capital-in-practice.md) _Context: Czech Republic_
+5. [The United States and Russia begin fighting over the extradition of Yevgeniy Nikulin, who was detained in October 2016 in the Czech Republic, after the U.S. Justice Department issued an international arrest warrant for him. However, soon after the U.S. issued its arrest warrant, Russian authorities also sought his extradition. The Russian charge accuses Nikulin of stealing from an online money transfer company back in 2009. ](/news/2017/11/25/the-united-states-and-russia-begin-fighting-over-the-extradition-of-yevgeniy-nikulin-who-was-detained-in-october-2016-in-the-czech-republic.md) _Context: Czech Republic_

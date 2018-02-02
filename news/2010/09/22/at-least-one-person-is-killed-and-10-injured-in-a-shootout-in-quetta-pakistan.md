@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/22/at-least-one-person-is-killed-and-10-injured-in-a-shootout-in-quetta-pakistan.html)  [JSON](/news/2010/09/22/at-least-one-person-is-killed-and-10-injured-in-a-shootout-in-quetta-pakistan.json)  [XML](/news/2010/09/22/at-least-one-person-is-killed-and-10-injured-in-a-shootout-in-quetta-pakistan.xml)  
+
 ### [2010-09-22](/news/2010/09/22/index.md)
 
+##### Quetta
 # At least one person is killed and 10 injured in a shootout in Quetta, Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/photo/2010-09/23/c_13525554.htm)
 

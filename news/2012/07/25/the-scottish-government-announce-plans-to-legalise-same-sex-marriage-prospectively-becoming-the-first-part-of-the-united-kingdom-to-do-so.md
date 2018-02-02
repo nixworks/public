@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/25/the-scottish-government-announce-plans-to-legalise-same-sex-marriage-prospectively-becoming-the-first-part-of-the-united-kingdom-to-do-so.html)  [JSON](/news/2012/07/25/the-scottish-government-announce-plans-to-legalise-same-sex-marriage-prospectively-becoming-the-first-part-of-the-united-kingdom-to-do-so.json)  [XML](/news/2012/07/25/the-scottish-government-announce-plans-to-legalise-same-sex-marriage-prospectively-becoming-the-first-part-of-the-united-kingdom-to-do-so.xml)  
+
 ### [2012-07-25](/news/2012/07/25/index.md)
 
+##### Scottish Government
 # The Scottish Government announce plans to legalise same-sex marriage, prospectively becoming the first part of the United Kingdom to do so. 
 
 Scotland could become the first part of the UK to introduce gay marriage after the SNP government announces plans to make the change.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-scotland-politics-18981287)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61662000/jpg/_61662472_015021395-1.jpg)

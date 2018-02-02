@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/03/3/frozen-becomes-the-eighteenth-film-and-second-animated-film-to-cross-the-1-billion-mark-in-worldwide-box-office-grosses.html)  [JSON](/news/2014/03/3/frozen-becomes-the-eighteenth-film-and-second-animated-film-to-cross-the-1-billion-mark-in-worldwide-box-office-grosses.json)  [XML](/news/2014/03/3/frozen-becomes-the-eighteenth-film-and-second-animated-film-to-cross-the-1-billion-mark-in-worldwide-box-office-grosses.xml)  
+
 ### [2014-03-3](/news/2014/03/3/index.md)
 
+##### cross the $1 billion mark
 # "Frozen" becomes the eighteenth film and second animated film to cross the $1 billion mark in worldwide box office grosses. 
 
 “Frozen” had several reasons to celebrate last night (excluding the flubbed introduction of star Idina Menzel). Aside from nabbing two Oscars, including Disney’s first best animated feature win in …
 
 
-### Source:
+### Sources:
 
-1. [Variety](http://variety.com/2014/film/news/box-office-frozen-crosses-1-billion-worldwide-1201124818/)
-1. [Cover Image](https://pmcvariety.files.wordpress.com/2013/12/frozen3.jpg?w=1000&amp;h=562&amp;crop=1)
+1. [Variety](https://variety.com/2014/film/news/box-office-frozen-crosses-1-billion-worldwide-1201124818/)
+1. [Cover Image](https://pmcvariety.files.wordpress.com/2013/12/frozen3.jpg?w=700&#038;h=393&#038;crop=1)
 
 ### Related:
 

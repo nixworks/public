@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/13/argentina-s-supreme-court-rules-that-abortions-following-rape-are-not-punishable.html)  [JSON](/news/2012/03/13/argentina-s-supreme-court-rules-that-abortions-following-rape-are-not-punishable.json)  [XML](/news/2012/03/13/argentina-s-supreme-court-rules-that-abortions-following-rape-are-not-punishable.xml)  
+
 ### [2012-03-13](/news/2012/03/13/index.md)
 
+##### Argentina
 # Argentina's Supreme Court rules that abortions following rape are not punishable. 
 
 The Supreme Court has ratified today a ruling of a Chubut&rsquo;s court authorizing an abortion in the case of a woman that got pregnant after being raped. However, the head of the Supreme Court Ricardo Lorenzini emphasized that the ruling doesn&rsquo;t mean the start of possible abortion legalization. &nbsp;&nbsp;
 
 
-### Source:
+### Sources:
 
 1. [Buenos Aires Herald](http://www.buenosairesherald.com/article/95266/sc-ratifies-abortion-authorization-in-case-of-rape-)
 2. [Inquirer](http://newsinfo.inquirer.net/161233/argentina-court-okays-abortion-in-cases-of-rape)
@@ -14,7 +18,7 @@ The Supreme Court has ratified today a ruling of a Chubut&rsquo;s court authoriz
 ### Related:
 
 1. [ A court in Argentina blocks Latin America's first gay marriage, overturning an earlier ruling, saying the Supreme Court should decide on its constitutionality. ](/news/2009/11/30/a-court-in-argentina-blocks-latin-america-s-first-gay-marriage-overturning-an-earlier-ruling-saying-the-supreme-court-should-decide-on-it.md) _Context: Argentina, Supreme Court_
-2. [The Republic of Ireland announces a referendum on abortion will be held between May and June 2018. ](/news/2017/09/27/the-republic-of-ireland-announces-a-referendum-on-abortion-will-be-held-between-may-and-june-2018.md) _Context: abortion_
-3. [Chilean lawmakers have approved a bill that would legalize abortion in limited circumstances and end the socially conservative country's status as the last in South America with a blanket ban on the procedure. ](/news/2017/08/3/chilean-lawmakers-have-approved-a-bill-that-would-legalize-abortion-in-limited-circumstances-and-end-the-socially-conservative-country-s-sta.md) _Context: abortion_
-4. [After six days of debate, the House of Commons of the United Kingdom votes to approve, with 323 votes for and 309 against, the policies set out in the Queen's Speech. In order to avoid a 'regret' amendment, Chancellor of the Exchequer Philip Hammond says that England's National Health Service is to provide free abortions to women from Northern Ireland with funds from the Government Equalities Office. ](/news/2017/06/29/after-six-days-of-debate-the-house-of-commons-of-the-united-kingdom-votes-to-approve-with-323-votes-for-and-309-against-the-policies-set.md) _Context: abortion_
-5. [A car knocks down the security fences of the Pink House, the Presidential Palace of Argentina, and then stops in front of the building's gate. The authorities reported that the driver of the vehicle had psychiatric disorders and that, in addition, the security personnel present at the time of the incident was separated from his position. It was also learned that this fact took place on 21 June. ](/news/2017/06/29/a-car-knocks-down-the-security-fences-of-the-pink-house-the-presidential-palace-of-argentina-and-then-stops-in-front-of-the-building-s-gat.md) _Context: Argentina_
+2. [ Mauricio Macri, a member of the National Congress of Argentina and president of Boca Juniors, is elected as the Chief of Government of Buenos Aires. ](/news/2018/06/24/mauricio-macri-a-member-of-the-national-congress-of-argentina-and-president-of-boca-juniors-is-elected-as-the-chief-of-government-of-buen.md) _Context: Argentina_
+3. [It is revealed that Ecuador granted citizenship to Julian Assange. Ecuador granted him asylum in August 2012 and he has remained in the Embassy of Ecuador in London avoiding extradition to Sweden on rape charges. Subsequently, Swedish authorities dropped the charges in May 2017. ](/news/2018/01/11/it-is-revealed-that-ecuador-granted-citizenship-to-julian-assange-ecuador-granted-him-asylum-in-august-2012-and-he-has-remained-in-the-emba.md) _Context: rape_
+4. [The Supreme Court of Justice of Guatemala rules not to allow the implementation of a usage manual from the Procuratorate of Human Rights for talks and workshops about sexuality due to the document's views on abortion, which, except risk for mother's life, is illegal in the country. ](/news/2017/12/14/the-supreme-court-of-justice-of-guatemala-rules-not-to-allow-the-implementation-of-a-usage-manual-from-the-procuratorate-of-human-rights-for.md) _Context: abortion_
+5. [Voters in Argentina go to the polls to elect half of the members of the Chamber of Deputies and Senate. "Cambiemos", the national government coalition led by president Mauricio Macri, got a clear victory in the four most populated provinces and the city of Buenos Aires. Former president Cristina Fernandez de Kirchner ran for senator of Buenos and ended second, leading the opposition. ](/news/2017/10/22/voters-in-argentina-go-to-the-polls-to-elect-half-of-the-members-of-the-chamber-of-deputies-and-senate-cambiemos-the-national-government.md) _Context: Argentina_

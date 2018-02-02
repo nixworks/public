@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/12/22/italian-president-giorgio-napolitano-dissolves-the-parliament-after-the-resignation-of-the-prime-minister-mario-monti.html)  [JSON](/news/2012/12/22/italian-president-giorgio-napolitano-dissolves-the-parliament-after-the-resignation-of-the-prime-minister-mario-monti.json)  [XML](/news/2012/12/22/italian-president-giorgio-napolitano-dissolves-the-parliament-after-the-resignation-of-the-prime-minister-mario-monti.xml)  
+
 ### [2012-12-22](/news/2012/12/22/index.md)
 
+##### President of Italy
 # Italian President Giorgio Napolitano dissolves the Parliament after the resignation of the Prime Minister Mario Monti 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/business/italian-president-dissolves-parliament-after-monti-resigns-setting-stage-for-february-vote/2012/12/22/38072f6e-4c52-11e2-8758-b64a2997a921_story.html)
+1. [The Washington Post](https://www.washingtonpost.com/business/italian-president-dissolves-parliament-after-monti-resigns-setting-stage-for-february-vote/2012/12/22/38072f6e-4c52-11e2-8758-b64a2997a921_story.html)
 
 ### Related:
 

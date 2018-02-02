@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/2/icann-celebrates-vint-cerf-years-names-peter-dengate-thrush-chairman-forms-working-group-on-internationalized-domain-names.html)  [JSON](/news/2007/11/2/icann-celebrates-vint-cerf-years-names-peter-dengate-thrush-chairman-forms-working-group-on-internationalized-domain-names.json)  [XML](/news/2007/11/2/icann-celebrates-vint-cerf-years-names-peter-dengate-thrush-chairman-forms-working-group-on-internationalized-domain-names.xml)  
+
 ### [2007-11-2](/news/2007/11/2/index.md)
 
+##### Internet Corporation for Assigned Names and Numbers
 #  ICANN celebrates Vint Cerf years, names Peter Dengate Thrush chairman, forms working group on internationalized domain names. 
 
 ICANN forms group to hasten non-English domain names
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.mercurynews.com/business/ci_7353789)
 2. [CBC.ca](http://www.cbc.ca/cp/technology/071102/z110211A.html)

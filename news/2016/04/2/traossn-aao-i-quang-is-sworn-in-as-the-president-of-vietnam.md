@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/2/traossn-aao-i-quang-is-sworn-in-as-the-president
 
 ### [2016-04-2](/news/2016/04/2/index.md)
 
+##### Tran Dai Quang
 # Tran Dai Quang is sworn in as the President of Vietnam. 
 
 

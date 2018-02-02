@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/9/honda-recalls-more-than-384-000-vehicles-due-to-ignition-difficulties.html)  [JSON](/news/2010/08/9/honda-recalls-more-than-384-000-vehicles-due-to-ignition-difficulties.json)  [XML](/news/2010/08/9/honda-recalls-more-than-384-000-vehicles-due-to-ignition-difficulties.xml)  
+
 ### [2010-08-9](/news/2010/08/9/index.md)
 
+##### Honda Motor Co.
 # Honda recalls more than 384,000 vehicles due to ignition difficulties. 
 
 Japanese car maker Honda is recalling more than 384,000 vehicles in the US because of problems with the ignition.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-10921161)
 2. [Japan Today](http://www.japantoday.com/category/business/view/honda-recalling-nearly-400000-vehicles-in-us)

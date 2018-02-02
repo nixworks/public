@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/3/former-speaker-of-the-united-states-house-of-representatives-newt-gingrich-announces-plans-to-explore-a-bid-for-the-republican-party-nominat.html)  [JSON](/news/2011/03/3/former-speaker-of-the-united-states-house-of-representatives-newt-gingrich-announces-plans-to-explore-a-bid-for-the-republican-party-nominat.json)  [XML](/news/2011/03/3/former-speaker-of-the-united-states-house-of-representatives-newt-gingrich-announces-plans-to-explore-a-bid-for-the-republican-party-nominat.xml)  
+
 ### [2011-03-3](/news/2011/03/3/index.md)
 
+##### U.S. Speaker of the House of Representatives
 # Former Speaker of the United States House of Representatives Newt Gingrich announces plans to explore a bid for the Republican Party nomination in the 2012 US Presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Atlanta Journal Constitution](http://blogs.ajc.com/political-insider-jim-galloway/2011/03/03/newt-gingrich-ready-to-see-if-there-are-%E2%80%98enough-folks%E2%80%99-to-launch-a-12-bid/)
 

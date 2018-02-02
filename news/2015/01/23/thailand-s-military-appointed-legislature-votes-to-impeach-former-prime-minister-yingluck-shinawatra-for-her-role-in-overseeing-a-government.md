@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/23/thailand-s-military-appointed-legislature-votes-to-impeach-former-prime-minister-yingluck-shinawatra-for-her-role-in-overseeing-a-government.html)  [JSON](/news/2015/01/23/thailand-s-military-appointed-legislature-votes-to-impeach-former-prime-minister-yingluck-shinawatra-for-her-role-in-overseeing-a-government.json)  [XML](/news/2015/01/23/thailand-s-military-appointed-legislature-votes-to-impeach-former-prime-minister-yingluck-shinawatra-for-her-role-in-overseeing-a-government.xml)  
+
 ### [2015-01-23](/news/2015/01/23/index.md)
 
+##### Thailand
 # Thailand's military-appointed legislature votes to impeach former Prime Minister Yingluck Shinawatra for her role in overseeing a government rice subsidy program that lost billions of dollars. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/1b6fd6575097435689b5b4a8d67f9b55/thai-legislature-votes-impeach-ex-pm-yingluck)
 

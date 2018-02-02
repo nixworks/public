@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/9/2011-syrian-uprising-human-rights-watch-issues-a-report-claiming-that-syrian-army-soldiers-have-been-issued-orders-to-shoot-protesters-part.html)  [JSON](/news/2011/07/9/2011-syrian-uprising-human-rights-watch-issues-a-report-claiming-that-syrian-army-soldiers-have-been-issued-orders-to-shoot-protesters-part.json)  [XML](/news/2011/07/9/2011-syrian-uprising-human-rights-watch-issues-a-report-claiming-that-syrian-army-soldiers-have-been-issued-orders-to-shoot-protesters-part.xml)  
+
 ### [2011-07-9](/news/2011/07/9/index.md)
 
+##### 2011 Syrian uprising
 # 2011 Syrian uprising: Human Rights Watch issues a report claiming that Syrian Army soldiers have been issued orders to shoot protesters participating in demonstrations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/43695260/ns/world_news-mideast_n_africa/)
 

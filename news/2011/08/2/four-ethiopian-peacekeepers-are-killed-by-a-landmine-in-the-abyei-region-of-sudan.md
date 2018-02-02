@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/2/four-ethiopian-peacekeepers-are-killed-by-a-landmine-in-the-abyei-region-of-sudan.html)  [JSON](/news/2011/08/2/four-ethiopian-peacekeepers-are-killed-by-a-landmine-in-the-abyei-region-of-sudan.json)  [XML](/news/2011/08/2/four-ethiopian-peacekeepers-are-killed-by-a-landmine-in-the-abyei-region-of-sudan.xml)  
+
 ### [2011-08-2](/news/2011/08/2/index.md)
 
+##### Ethiopia
 # Four Ethiopian peacekeepers are killed by a landmine in the Abyei region of Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE7710EN20110802)
 

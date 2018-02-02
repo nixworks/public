@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/11/warren-truss-the-deputy-prime-minister-of-austr
 
 ### [2016-02-11](/news/2016/02/11/index.md)
 
+##### Warren Truss
 # Warren Truss, the Deputy Prime Minister of Australia, announces his resignation as the leader of the National Party of Australia. Barnaby Joyce is elected as the new leader with Fiona Nash elected as the new deputy leader. 
 
 Barnaby Joyce will stand unopposed for the leadership of the Nationals following the retirement of Warren Truss.

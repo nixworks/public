@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/5/trump-s-travel-ban-remains-suspended-as-the-u-s-
 
 ### [2017-02-5](/news/2017/02/5/index.md)
 
+##### United States Court of Appeals for the Ninth Circuit
 # Trump's travel ban remains suspended as the U.S. Court of Appeals for the Ninth Circuit denies the Justice Department's request to stay the ruling which blocks major portions of the executive order. 
 
 The 9th U.S. Circuit Court of Appeals denied a Trump administration request to halt a suspension of the Trump order. It means the order remains suspended.

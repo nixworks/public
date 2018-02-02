@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/14/president-hassan-rouhani-seeks-for-a-second-ter
 
 ### [2017-04-14](/news/2017/04/14/index.md)
 
+##### re-elected
 # President Hassan Rouhani seeks for a second term while one of his main rivals Ebrahim Raisi also registers with just one day remaining for the submission. 
 
 Upcoming vote will be seen, among other things, as a referendum on the landmark nuclear deal signed with world powers.

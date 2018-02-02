@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/24/south-korea-issues-a-report-into-the-sinking-of-the-roks-cheonan-criticising-the-readiness-of-the-navy.html)  [JSON](/news/2011/03/24/south-korea-issues-a-report-into-the-sinking-of-the-roks-cheonan-criticising-the-readiness-of-the-navy.json)  [XML](/news/2011/03/24/south-korea-issues-a-report-into-the-sinking-of-the-roks-cheonan-criticising-the-readiness-of-the-navy.xml)  
+
 ### [2011-03-24](/news/2011/03/24/index.md)
 
+##### South Korea
 # South Korea issues a report into the sinking of the ROKS "Cheonan criticising the readiness of the Navy. 
 
 South Korea issues a report criticising its lack readiness which allowed a North Korean attack on a warship one year ago.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12844507)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

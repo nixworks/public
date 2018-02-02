@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/17/the-u-s-food-and-drug-administration-lifts-a-warning-on-tomatoes-following-a-recent-salmonellosis-outbreak.html)  [JSON](/news/2008/07/17/the-u-s-food-and-drug-administration-lifts-a-warning-on-tomatoes-following-a-recent-salmonellosis-outbreak.json)  [XML](/news/2008/07/17/the-u-s-food-and-drug-administration-lifts-a-warning-on-tomatoes-following-a-recent-salmonellosis-outbreak.xml)  
+
 ### [2008-07-17](/news/2008/07/17/index.md)
 
+##### Food and Drug Administration
 #  The U.S. Food and Drug Administration lifts a warning on tomatoes following a recent salmonellosis outbreak. 
 
 U.S. regulators on Thursday lifted a warning on tomatoes and repeated a warning on peppers as the possible cause of an outbreak of Salmonella Saintpaul in which more than 1,200 people have reported getting sick.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/health/idINN1745688020080717)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

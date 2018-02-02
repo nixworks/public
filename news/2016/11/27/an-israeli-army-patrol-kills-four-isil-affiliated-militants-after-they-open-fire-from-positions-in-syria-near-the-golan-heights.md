@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/27/an-israeli-army-patrol-kills-four-isil-affiliat
 
 ### [2016-11-27](/news/2016/11/27/index.md)
 
+##### Spillover of the Syrian Civil War
 # An Israeli Army patrol kills four ISIL-affiliated militants after they open fire from positions in Syria near the Golan Heights. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

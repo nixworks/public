@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/9/australian-police-are-condemned-for-their-failure-to-treat-the-2007-death-of-an-aboriginal-boy-found-weighted-with-rocks-in-a-waterhole-as-a.html)  [JSON](/news/2011/04/9/australian-police-are-condemned-for-their-failure-to-treat-the-2007-death-of-an-aboriginal-boy-found-weighted-with-rocks-in-a-waterhole-as-a.json)  [XML](/news/2011/04/9/australian-police-are-condemned-for-their-failure-to-treat-the-2007-death-of-an-aboriginal-boy-found-weighted-with-rocks-in-a-waterhole-as-a.xml)  
+
 ### [2011-04-9](/news/2011/04/9/index.md)
 
+##### Australia
 # Australian police are condemned for their failure to treat the 2007 death of an Aboriginal boy found weighted with rocks in a waterhole as anything other than an accident in Borroloola, Northern Territory. 
 
 POLICE treated as an accident the death of an eight-year-old Aboriginal boy whose body was found with head injuries and weighted with rocks in a water hole near a remote Northern Territory community.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/national/boys-death-police-flayed-20110408-1d7rm.html)
 1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)

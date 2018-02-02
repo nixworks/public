@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/29/warren-jeffs-the-fugitive-leader-of-a-polygamist-mormon-sect-and-one-of-the-fbi-ten-most-wanted-fugitives-has-been-arrested-in-southern-n.html)  [JSON](/news/2006/08/29/warren-jeffs-the-fugitive-leader-of-a-polygamist-mormon-sect-and-one-of-the-fbi-ten-most-wanted-fugitives-has-been-arrested-in-southern-n.json)  [XML](/news/2006/08/29/warren-jeffs-the-fugitive-leader-of-a-polygamist-mormon-sect-and-one-of-the-fbi-ten-most-wanted-fugitives-has-been-arrested-in-southern-n.xml)  
+
 ### [2006-08-29](/news/2006/08/29/index.md)
 
+##### Warren Jeffs
 #  Warren Jeffs, the fugitive leader of a polygamist Mormon sect and one of the FBI Ten Most Wanted Fugitives, has been arrested in southern Nevada. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.thestate.com/mld/thestate/news/nation/15388919.htm)
 

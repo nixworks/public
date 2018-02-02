@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/05/21/polls-close-in-the-seychelles-after-a-three-day-three-day-presidential-election-with-the-incumbent-president-james-michel-winning-55-per-cen.html)  [JSON](/news/2011/05/21/polls-close-in-the-seychelles-after-a-three-day-three-day-presidential-election-with-the-incumbent-president-james-michel-winning-55-per-cen.json)  [XML](/news/2011/05/21/polls-close-in-the-seychelles-after-a-three-day-three-day-presidential-election-with-the-incumbent-president-james-michel-winning-55-per-cen.xml)  
+
 ### [2011-05-21](/news/2011/05/21/index.md)
 
+##### Seychelles
 # Polls close in the Seychelles after a three day three day presidential election with the incumbent President James Michel winning 55 per cent of the vote. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5h_y2_CIxdASHF5rbXARWQJXUhQ4w?docId=0d842c9a1a7c49a3a8c6ed535a10f022)
-2. [Reuters](http://www.reuters.com/article/2011/05/21/seychelles-election-result-idUSLDE74K07Y20110521?feedType=RSS&feedName=hotStocksNews)
+2. [Reuters](https://www.reuters.com/article/2011/05/21/seychelles-election-result-idUSLDE74K07Y20110521?feedType=RSS&feedName=hotStocksNews)
 2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:

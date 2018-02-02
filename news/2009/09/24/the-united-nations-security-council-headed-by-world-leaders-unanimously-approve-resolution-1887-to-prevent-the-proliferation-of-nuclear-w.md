@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2009/09/24/the-united-nations-security-council-headed-by-world-leaders-unanimously-approve-resolution-1887-to-prevent-the-proliferation-of-nuclear-w.html)  [JSON](/news/2009/09/24/the-united-nations-security-council-headed-by-world-leaders-unanimously-approve-resolution-1887-to-prevent-the-proliferation-of-nuclear-w.json)  [XML](/news/2009/09/24/the-united-nations-security-council-headed-by-world-leaders-unanimously-approve-resolution-1887-to-prevent-the-proliferation-of-nuclear-w.xml)  
+
 ### [2009-09-24](/news/2009/09/24/index.md)
 
+##### United Nations
 #  The United Nations Security Council, headed by world leaders, unanimously approve Resolution 1887 to prevent the proliferation of nuclear weapons. 
 
 The United Nations council unanimously passed a resolution aimed at shoring up commitment to limiting nuclear weapons.
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jgipm0XJZREav4IStxO6HzUn0nAwD9ATP44G0)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8272396.stm)
 3. [China Daily](http://www.chinadaily.com.cn/world/2009-09/24/content_8733432.htm)
 4. [Hindustan Times](http://www.hindustantimes.com/News/world/UNSC-adopts-N-resolution-asks-non-NPT-states-to-join-treaty/Article1-457658.aspx)
-5. [New York Times](http://www.nytimes.com/2009/09/25/world/25prexy.html?hp)
+5. [New York Times](https://www.nytimes.com/2009/09/25/world/25prexy.html?hp)
 5. [Cover Image](https://static01.nyt.com/images/2009/09/24/world/obama.75.4.jpg)
 
 ### Related:

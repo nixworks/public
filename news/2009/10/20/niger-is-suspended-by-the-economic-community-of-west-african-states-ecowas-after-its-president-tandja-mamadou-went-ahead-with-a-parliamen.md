@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/10/20/niger-is-suspended-by-the-economic-community-of-west-african-states-ecowas-after-its-president-tandja-mamadou-went-ahead-with-a-parliamen.html)  [JSON](/news/2009/10/20/niger-is-suspended-by-the-economic-community-of-west-african-states-ecowas-after-its-president-tandja-mamadou-went-ahead-with-a-parliamen.json)  [XML](/news/2009/10/20/niger-is-suspended-by-the-economic-community-of-west-african-states-ecowas-after-its-president-tandja-mamadou-went-ahead-with-a-parliamen.xml)  
+
 ### [2009-10-20](/news/2009/10/20/index.md)
 
+##### Niger
 #  Niger is suspended by the Economic Community of West African States (ECOWAS) after its President Tandja Mamadou went ahead with a parliamentary election it had asked to be postponed over boycotts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8316866.stm)
-2. [Reuters](http://www.reuters.com/article/latestCrisis/idUSLK563508)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/latestCrisis/idUSLK563508)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

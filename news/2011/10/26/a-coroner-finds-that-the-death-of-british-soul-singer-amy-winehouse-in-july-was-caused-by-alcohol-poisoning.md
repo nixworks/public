@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2011/10/26/a-coroner-finds-that-the-death-of-british-soul-singer-amy-winehouse-in-july-was-caused-by-alcohol-poisoning.html)  [JSON](/news/2011/10/26/a-coroner-finds-that-the-death-of-british-soul-singer-amy-winehouse-in-july-was-caused-by-alcohol-poisoning.json)  [XML](/news/2011/10/26/a-coroner-finds-that-the-death-of-british-soul-singer-amy-winehouse-in-july-was-caused-by-alcohol-poisoning.xml)  
+
 ### [2011-10-26](/news/2011/10/26/index.md)
 
+##### coroner
 # A coroner finds that the death of British soul singer Amy Winehouse in July was caused by alcohol poisoning. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Australian](http://www.theaustralian.com.au/news/world/amy-winehouse-died-from-alcohol-poisoning-after-drinking-bottles-of-vodka-the-coroner-has-ruled/story-e6frg6so-1226177895228)
 
 ### Related:
 
-1. [A new inquest begins into the death of British singer Amy Winehouse after it was discovered that the original coroner was not qualified to conduct the inquiry. A second inquiry into Winehouse's death concludes that the singer died of alcohol poisoning. ](/news/2013/01/8/a-new-inquest-begins-into-the-death-of-british-singer-amy-winehouse-after-it-was-discovered-that-the-original-coroner-was-not-qualified-to-c.md) _Context: Amy Winehouse, British, coronial_
+1. [A new inquest begins into the death of British singer Amy Winehouse after it was discovered that the original coroner was not qualified to conduct the inquiry. A second inquiry into Winehouse's death concludes that the singer died of alcohol poisoning. ](/news/2013/01/8/a-new-inquest-begins-into-the-death-of-british-singer-amy-winehouse-after-it-was-discovered-that-the-original-coroner-was-not-qualified-to-c.md) _Context: Amy Winehouse, British, coroner_
 2. [The Nobel Committee awards Swiss Jacques Dubochet, German Joachim Frank, and British Richard Henderson the Nobel Prize in Chemistry for developing cryo-electron microscopy for the high-resolution structural determination of biomolecules in a solution. ](/news/2017/10/4/the-nobel-committee-awards-swiss-jacques-dubochet-german-joachim-frank-and-british-richard-henderson-the-nobel-prize-in-chemistry-for-deve.md) _Context: British_
 3. [The British people vote locally. ](/news/2017/05/4/the-british-people-vote-locally.md) _Context: British_
 4. [U.S. President Barack Obama, in an op-ed in London's "Daily Telegraph", urges Britons to keep the U.K. in the European Union. Tomorrow, Obama is scheduled to have lunch with Prince Philip and Queen Elizabeth, who celebrated her 90th birthday today. He then will hold talks with Prime Minister David Cameron. ](/news/2016/04/21/u-s-president-barack-obama-in-an-op-ed-in-london-s-daily-telegraph-urges-britons-to-keep-the-u-k-in-the-european-union-tomorrow-obam.md) _Context: British_

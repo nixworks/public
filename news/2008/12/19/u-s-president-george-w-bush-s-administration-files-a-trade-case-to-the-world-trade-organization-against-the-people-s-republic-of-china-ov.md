@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/19/u-s-president-george-w-bush-s-administration-files-a-trade-case-to-the-world-trade-organization-against-the-people-s-republic-of-china-ov.html)  [JSON](/news/2008/12/19/u-s-president-george-w-bush-s-administration-files-a-trade-case-to-the-world-trade-organization-against-the-people-s-republic-of-china-ov.json)  [XML](/news/2008/12/19/u-s-president-george-w-bush-s-administration-files-a-trade-case-to-the-world-trade-organization-against-the-people-s-republic-of-china-ov.xml)  
+
 ### [2008-12-19](/news/2008/12/19/index.md)
 
+##### U.S. President
 #  U.S. President George W. Bush's administration files a trade case to the World Trade Organization against the People's Republic of China over the alleged use of export subsidies to promote Chinese-made goods. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Fort Worth Star-Telegram](http://www.star-telegram.com/190/story/1104180.html)
 

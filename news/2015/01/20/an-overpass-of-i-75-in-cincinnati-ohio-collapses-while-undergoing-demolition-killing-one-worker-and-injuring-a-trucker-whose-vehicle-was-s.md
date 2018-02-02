@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/20/an-overpass-of-i-75-in-cincinnati-ohio-collapses-while-undergoing-demolition-killing-one-worker-and-injuring-a-trucker-whose-vehicle-was-s.html)  [JSON](/news/2015/01/20/an-overpass-of-i-75-in-cincinnati-ohio-collapses-while-undergoing-demolition-killing-one-worker-and-injuring-a-trucker-whose-vehicle-was-s.json)  [XML](/news/2015/01/20/an-overpass-of-i-75-in-cincinnati-ohio-collapses-while-undergoing-demolition-killing-one-worker-and-injuring-a-trucker-whose-vehicle-was-s.xml)  
+
 ### [2015-01-20](/news/2015/01/20/index.md)
 
+##### I-75
 # An overpass of I-75 in Cincinnati, Ohio collapses while undergoing demolition, killing one worker and injuring a trucker whose vehicle was struck by debris. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Cincinnati.com](http://www.cincinnati.com/story/news/2015/01/19/bridge-collapse-75-south/22031429/)
 

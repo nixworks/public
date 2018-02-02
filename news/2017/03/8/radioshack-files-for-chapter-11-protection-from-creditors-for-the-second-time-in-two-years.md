@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/8/radioshack-files-for-chapter-11-protection-from-
 
 ### [2017-03-8](/news/2017/03/8/index.md)
 
+##### RadioShack
 # RadioShack files for chapter 11 protection from creditors for the second time in two years. 
 
  U.S. electronics chain RadioShack Corp filed for bankruptcy on Wednesday for the second time in a little over two years, faced with a challenging retail enviro

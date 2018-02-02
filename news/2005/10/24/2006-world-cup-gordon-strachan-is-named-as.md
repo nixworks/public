@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/24/2006-world-cup-gordon-strachan-is-named-as.html)  [JSON](/news/2005/10/24/2006-world-cup-gordon-strachan-is-named-as.json)  [XML](/news/2005/10/24/2006-world-cup-gordon-strachan-is-named-as.xml)  
+
 ### [2005-10-24](/news/2005/10/24/index.md)
 
+##### World Cup
 #  2006 World Cup: Gordon Strachan is named as 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Celtic FC](http://www.celticfc.co.uk/)
 2. [FIFA/SOS Ambassador](http://www.soschildrensvillages.org.uk/charity-news/six-villages-ambassadors.htm)

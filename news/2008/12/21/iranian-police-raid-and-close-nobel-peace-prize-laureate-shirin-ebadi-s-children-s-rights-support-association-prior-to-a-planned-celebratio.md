@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/21/iranian-police-raid-and-close-nobel-peace-prize-laureate-shirin-ebadi-s-children-s-rights-support-association-prior-to-a-planned-celebratio.html)  [JSON](/news/2008/12/21/iranian-police-raid-and-close-nobel-peace-prize-laureate-shirin-ebadi-s-children-s-rights-support-association-prior-to-a-planned-celebratio.json)  [XML](/news/2008/12/21/iranian-police-raid-and-close-nobel-peace-prize-laureate-shirin-ebadi-s-children-s-rights-support-association-prior-to-a-planned-celebratio.xml)  
+
 ### [2008-12-21](/news/2008/12/21/index.md)
 
+##### Iran
 #  Iranian police raid and close Nobel Peace Prize laureate Shirin Ebadi's Children's Rights Support Association prior to a planned celebration of Human Rights Day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''International Herald Tribune](http://www.iht.com/articles/reuters/2008/12/21/africa/OUKWD-UK-IRAN-RIGHTS-RAID.php)
 

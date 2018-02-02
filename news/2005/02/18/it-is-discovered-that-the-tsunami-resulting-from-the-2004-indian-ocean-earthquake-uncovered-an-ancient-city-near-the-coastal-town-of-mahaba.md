@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/18/it-is-discovered-that-the-tsunami-resulting-from-the-2004-indian-ocean-earthquake-uncovered-an-ancient-city-near-the-coastal-town-of-mahaba.html)  [JSON](/news/2005/02/18/it-is-discovered-that-the-tsunami-resulting-from-the-2004-indian-ocean-earthquake-uncovered-an-ancient-city-near-the-coastal-town-of-mahaba.json)  [XML](/news/2005/02/18/it-is-discovered-that-the-tsunami-resulting-from-the-2004-indian-ocean-earthquake-uncovered-an-ancient-city-near-the-coastal-town-of-mahaba.xml)  
+
 ### [2005-02-18](/news/2005/02/18/index.md)
 
+##### tsunami
 #  It is discovered that the tsunami resulting from the 2004 Indian Ocean earthquake uncovered an ancient city near the coastal town of Mahabalipuram in India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Yahoo!](http://story.news.yahoo.com/news?tmpl=story&cid=624&ncid=624&e=3&u=/ap/20050218/ap_on_sc/tsunami_sea_temple)
 

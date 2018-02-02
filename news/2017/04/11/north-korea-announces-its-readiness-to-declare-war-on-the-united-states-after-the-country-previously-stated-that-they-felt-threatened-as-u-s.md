@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/11/north-korea-announces-its-readiness-to-declare-
 
 ### [2017-04-11](/news/2017/04/11/index.md)
 
+##### North Korea-United States relations
 # North Korea announces its readiness to declare war on the United States after the country previously stated that they felt threatened as U.S. military forces approach the Korean Peninsula. 
 
 NORTH Korea is continuing to talk tough with the US, this time promising their “grim action” is going to bring “catastrophic consequences” to the world.

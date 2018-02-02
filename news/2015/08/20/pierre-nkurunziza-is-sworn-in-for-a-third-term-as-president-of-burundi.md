@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/20/pierre-nkurunziza-is-sworn-in-for-a-third-term-as-president-of-burundi.html)  [JSON](/news/2015/08/20/pierre-nkurunziza-is-sworn-in-for-a-third-term-as-president-of-burundi.json)  [XML](/news/2015/08/20/pierre-nkurunziza-is-sworn-in-for-a-third-term-as-president-of-burundi.xml)  
+
 ### [2015-08-20](/news/2015/08/20/index.md)
 
+##### Pierre Nkurunziza
 # Pierre Nkurunziza is sworn in for a third term as President of Burundi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-34000420)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/3029/production/_85092321_pierre_reuters.jpg)

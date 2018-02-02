@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/09/9/the-president-of-afghanistan-hamid-karzai-is-forced-to-cut-short-a-speech-in-kabul-after-gunfire-is-heard-outside.html)  [JSON](/news/2007/09/9/the-president-of-afghanistan-hamid-karzai-is-forced-to-cut-short-a-speech-in-kabul-after-gunfire-is-heard-outside.json)  [XML](/news/2007/09/9/the-president-of-afghanistan-hamid-karzai-is-forced-to-cut-short-a-speech-in-kabul-after-gunfire-is-heard-outside.xml)  
+
 ### [2007-09-9](/news/2007/09/9/index.md)
 
+##### Afghanistan President
 #  The President of Afghanistan Hamid Karzai is forced to cut short a speech in Kabul after gunfire is heard outside. 
 
 Afghan President Hamid Karzai renewed a call for talks with Taliban insurgents on Sunday, shortly after a security scare forced him to cut short a commemoration speech when gunshots were fired outside the venue.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSISL13902320070909?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070909&t=2&i=1679353&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-09T100231Z_01_ISL139023_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSISL13902320070909?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20070909&t=2&i=1679353&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-09T100231Z_01_ISL139023_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

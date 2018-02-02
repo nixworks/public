@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/04/17/negotiations-in-helsinki-between-the-government-of-indonesia-and-free-aceh-movement-end-constructively-according-to-mediator-martti-ahti.html)  [JSON](/news/2005/04/17/negotiations-in-helsinki-between-the-government-of-indonesia-and-free-aceh-movement-end-constructively-according-to-mediator-martti-ahti.json)  [XML](/news/2005/04/17/negotiations-in-helsinki-between-the-government-of-indonesia-and-free-aceh-movement-end-constructively-according-to-mediator-martti-ahti.xml)  
+
 ### [2005-04-17](/news/2005/04/17/index.md)
 
+##### Helsinki
 #  Negotiations in Helsinki between the government of Indonesia and Free Aceh Movement end "constructively", according to mediator Martti Ahtisaari. Talks are scheduled to continue in May. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4452087.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=a195xp8fMXk0&refer=asia)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000080&sid=a195xp8fMXk0&refer=asia)
 
 ### Related:
 

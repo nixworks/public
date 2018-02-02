@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/19/john-key-is-officially-sworn-in-as-the-prime-minister-of-new-zealand-by-governor-general-anand-satyanand.html)  [JSON](/news/2008/11/19/john-key-is-officially-sworn-in-as-the-prime-minister-of-new-zealand-by-governor-general-anand-satyanand.json)  [XML](/news/2008/11/19/john-key-is-officially-sworn-in-as-the-prime-minister-of-new-zealand-by-governor-general-anand-satyanand.xml)  
+
 ### [2008-11-19](/news/2008/11/19/index.md)
 
+##### John Key
 #  John Key is officially sworn in as the Prime Minister of New Zealand by Governor-General Anand Satyanand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jHlKIcUb-bAZzFAO7VuEILU9-o0A)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/23/a-fire-breaks-out-at-a-cafa-c-and-shop-at-the-l
 
 ### [2017-12-23](/news/2017/12/23/index.md)
 
+##### London Zoo fire
 # A fire breaks out at a cafe and shop at the London Zoo. An aardvark is killed and four meerkats are missing. 
 
 The flames are now &quot;under control&quot; but there is no word on the safety of animals that were in the vicinity.

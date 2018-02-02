@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/22/former-world-number-1-tennis-player-justine-henin-announces-that-she-is-ending-her-year-long-retirement-from-the-sport.html)  [JSON](/news/2009/09/22/former-world-number-1-tennis-player-justine-henin-announces-that-she-is-ending-her-year-long-retirement-from-the-sport.json)  [XML](/news/2009/09/22/former-world-number-1-tennis-player-justine-henin-announces-that-she-is-ending-her-year-long-retirement-from-the-sport.xml)  
+
 ### [2009-09-22](/news/2009/09/22/index.md)
 
+##### world number 1
 #  Former world number 1 tennis player Justine Henin announces that she is ending her year-long retirement from the sport. 
 
 Justine Henin will return to competitive tennis next year.
 
 
-### Source:
+### Sources:
 
 1. [AP via ESPN](http://sports.espn.go.com/sports/tennis/news/story?id=4494731)
 1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)

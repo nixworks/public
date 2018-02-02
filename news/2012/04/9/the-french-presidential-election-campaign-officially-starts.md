@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/9/the-french-presidential-election-campaign-officially-starts.html)  [JSON](/news/2012/04/9/the-french-presidential-election-campaign-officially-starts.json)  [XML](/news/2012/04/9/the-french-presidential-election-campaign-officially-starts.xml)  
+
 ### [2012-04-9](/news/2012/04/9/index.md)
 
+##### 2012 presidential election
 # The French presidential election campaign officially starts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17658808)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59565000/jpg/_59565484_014473886-2.jpg)

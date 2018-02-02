@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/10/23/a-huge-explosion-rips-through-an-upmarket-area-of-peshawar-in-pakistan.html)  [JSON](/news/2009/10/23/a-huge-explosion-rips-through-an-upmarket-area-of-peshawar-in-pakistan.json)  [XML](/news/2009/10/23/a-huge-explosion-rips-through-an-upmarket-area-of-peshawar-in-pakistan.xml)  
+
 ### [2009-10-23](/news/2009/10/23/index.md)
 
+##### Peshawar
 #  A huge explosion rips through an upmarket area of Peshawar in Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5g-mOyk8-qbKzUNI6lUsFWv49jogQ)
-2. [Yahoo News](http://news.yahoo.com/s/afp/20091023/wl_afp/pakistanunrest)
+2. [Yahoo News](https://news.yahoo.com/s/afp/20091023/wl_afp/pakistanunrest)
 
 ### Related:
 

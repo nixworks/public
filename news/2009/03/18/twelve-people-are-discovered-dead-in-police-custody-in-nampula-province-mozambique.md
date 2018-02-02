@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/18/twelve-people-are-discovered-dead-in-police-custody-in-nampula-province-mozambique.html)  [JSON](/news/2009/03/18/twelve-people-are-discovered-dead-in-police-custody-in-nampula-province-mozambique.json)  [XML](/news/2009/03/18/twelve-people-are-discovered-dead-in-police-custody-in-nampula-province-mozambique.xml)  
+
 ### [2009-03-18](/news/2009/03/18/index.md)
 
+##### police
 #  Twelve people are discovered dead in police custody in Nampula Province, Mozambique. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7950343.stm)
 

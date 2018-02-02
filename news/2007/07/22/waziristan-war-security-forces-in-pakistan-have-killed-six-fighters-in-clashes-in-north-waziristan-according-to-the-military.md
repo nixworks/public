@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/22/waziristan-war-security-forces-in-pakistan-have-killed-six-fighters-in-clashes-in-north-waziristan-according-to-the-military.html)  [JSON](/news/2007/07/22/waziristan-war-security-forces-in-pakistan-have-killed-six-fighters-in-clashes-in-north-waziristan-according-to-the-military.json)  [XML](/news/2007/07/22/waziristan-war-security-forces-in-pakistan-have-killed-six-fighters-in-clashes-in-north-waziristan-according-to-the-military.xml)  
+
 ### [2007-07-22](/news/2007/07/22/index.md)
 
+##### Waziristan War
 #  Waziristan War: Security forces in Pakistan have killed six fighters in clashes in North Waziristan, according to the military. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/NR/exeres/15FFCDDE-0E50-4192-BD27-BA682ECB8AC3.htm)
 

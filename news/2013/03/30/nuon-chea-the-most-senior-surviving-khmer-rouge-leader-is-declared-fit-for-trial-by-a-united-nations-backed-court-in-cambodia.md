@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/30/nuon-chea-the-most-senior-surviving-khmer-rouge-leader-is-declared-fit-for-trial-by-a-united-nations-backed-court-in-cambodia.html)  [JSON](/news/2013/03/30/nuon-chea-the-most-senior-surviving-khmer-rouge-leader-is-declared-fit-for-trial-by-a-united-nations-backed-court-in-cambodia.json)  [XML](/news/2013/03/30/nuon-chea-the-most-senior-surviving-khmer-rouge-leader-is-declared-fit-for-trial-by-a-united-nations-backed-court-in-cambodia.xml)  
+
 ### [2013-03-30](/news/2013/03/30/index.md)
 
+##### Nuon Chea
 # Nuon Chea, the most senior surviving Khmer Rouge leader, is declared fit for trial by a United Nations-backed court in Cambodia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/03/29/world/asia/cambodia-khmer-rouge)
 

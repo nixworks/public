@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/29/mexican-drug-war-a-car-bomb-explodes-outside-the-city-hall-in-the-mexican-border-city-of-nuevo-laredo-injuring-7-bystanders-this-is-the-t.html)  [JSON](/news/2012/06/29/mexican-drug-war-a-car-bomb-explodes-outside-the-city-hall-in-the-mexican-border-city-of-nuevo-laredo-injuring-7-bystanders-this-is-the-t.json)  [XML](/news/2012/06/29/mexican-drug-war-a-car-bomb-explodes-outside-the-city-hall-in-the-mexican-border-city-of-nuevo-laredo-injuring-7-bystanders-this-is-the-t.xml)  
+
 ### [2012-06-29](/news/2012/06/29/index.md)
 
+##### Mexican Drug War
 # Mexican Drug War: A car bomb explodes outside the city hall in the Mexican border city of Nuevo Laredo, injuring 7 bystanders. This is the third car bomb in Nuevo Laredo this year, and much of the violence is blamed on the country's most powerful cartels: Los Zetas and the Sinaloa Cartel. 
 
 Explosives in a Ford Ranger pickup parked in front of the municipal building blew up shortly after 11 a.m., causing injuries to bystanders and damaging vehicles, the prosecutors said. Since 2010, the scene of a bloody turf war between the Zetas criminal organization and their former masters the Gulf Cartel, Nuevo Laredo has seen violence increase this year as the west coast Sinaloa Cartel has joined the fray to wrest lucrative smuggling routes away from the Zetas. Pictures posted on social media showed the twisted wreckage of a pickup in front of the city hall and bloody victims being treated by paramedics.
 
 
-### Source:
+### Sources:
 
 1. [San Antonio Express-News](http://www.mysanantonio.com/news/local_news/article/Car-bomb-rocks-Nuevo-Laredo-3673813.php)
 1. [Cover Image](http://ww2.hdnux.com/photos/13/76/35/3139425/4/rawImage.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/3/sakineh-mohammadi-ashtiani-is-to-be-hanged-for-murder-today-in-iran-according-to-the-international-committee-against-stoning.html)  [JSON](/news/2010/11/3/sakineh-mohammadi-ashtiani-is-to-be-hanged-for-murder-today-in-iran-according-to-the-international-committee-against-stoning.json)  [XML](/news/2010/11/3/sakineh-mohammadi-ashtiani-is-to-be-hanged-for-murder-today-in-iran-according-to-the-international-committee-against-stoning.xml)  
+
 ### [2010-11-3](/news/2010/11/3/index.md)
 
+##### Sakineh Mohammadi Ashtiani
 # Sakineh Mohammadi Ashtiani is to be hanged for murder today in Iran, according to the International Committee against Stoning. 
 
 An Iranian woman whose sentence of execution by stoning for adultery provoked a worldwide outcry will instead be hanged for murder&hellip;
 
 
-### Source:
+### Sources:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1102/breaking67.html)
 1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)

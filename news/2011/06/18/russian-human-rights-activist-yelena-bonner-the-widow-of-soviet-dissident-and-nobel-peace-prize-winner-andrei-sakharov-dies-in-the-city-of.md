@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/18/russian-human-rights-activist-yelena-bonner-the-widow-of-soviet-dissident-and-nobel-peace-prize-winner-andrei-sakharov-dies-in-the-city-of.html)  [JSON](/news/2011/06/18/russian-human-rights-activist-yelena-bonner-the-widow-of-soviet-dissident-and-nobel-peace-prize-winner-andrei-sakharov-dies-in-the-city-of.json)  [XML](/news/2011/06/18/russian-human-rights-activist-yelena-bonner-the-widow-of-soviet-dissident-and-nobel-peace-prize-winner-andrei-sakharov-dies-in-the-city-of.xml)  
+
 ### [2011-06-18](/news/2011/06/18/index.md)
 
+##### Russian
 # Russian human rights activist Yelena Bonner, the widow of Soviet dissident and Nobel Peace Prize winner Andrei Sakharov, dies in the city of Boston, MA, USA. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/world/20110619/164706887.html)
 

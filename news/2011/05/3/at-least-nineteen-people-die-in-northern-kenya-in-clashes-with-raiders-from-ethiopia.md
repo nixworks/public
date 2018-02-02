@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/05/3/at-least-nineteen-people-die-in-northern-kenya-in-clashes-with-raiders-from-ethiopia.html)  [JSON](/news/2011/05/3/at-least-nineteen-people-die-in-northern-kenya-in-clashes-with-raiders-from-ethiopia.json)  [XML](/news/2011/05/3/at-least-nineteen-people-die-in-northern-kenya-in-clashes-with-raiders-from-ethiopia.xml)  
+
 ### [2011-05-3](/news/2011/05/3/index.md)
 
+##### Kenya
 # At least nineteen people die in northern Kenya in clashes with raiders from Ethiopia. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters via Yahoo News](http://news.yahoo.com/s/nm/20110503/wl_nm/us_kenya_ethiopia_clashes)
+1. [Reuters via Yahoo News](https://news.yahoo.com/s/nm/20110503/wl_nm/us_kenya_ethiopia_clashes)
 
 ### Related:
 

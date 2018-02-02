@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/16/u-s-president-donald-trump-announces-new-restri
 
 ### [2017-06-16](/news/2017/06/16/index.md)
 
+##### Cuba-United States relations
 # U.S. President Donald Trump announces new restrictions on travel and business with Cuba, reversing policies of Cuban Thaw, implemented during the tenure of President Barack Obama. 
 
 

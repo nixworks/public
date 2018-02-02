@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/23/the-death-toll-in-brazil-s-worst-flood-disaster-tops-800-people.html)  [JSON](/news/2011/01/23/the-death-toll-in-brazil-s-worst-flood-disaster-tops-800-people.json)  [XML](/news/2011/01/23/the-death-toll-in-brazil-s-worst-flood-disaster-tops-800-people.xml)  
+
 ### [2011-01-23](/news/2011/01/23/index.md)
 
+##### the recent floods and landslides in Rio de Janeiro state
 # The death toll in Brazil's worst flood disaster tops 800 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12263166)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

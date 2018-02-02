@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/14/the-arrest-of-several-army-officers-in-guinea-is-not-linked-to-elections-according-to-the-country-s-army-chief.html)  [JSON](/news/2010/06/14/the-arrest-of-several-army-officers-in-guinea-is-not-linked-to-elections-according-to-the-country-s-army-chief.json)  [XML](/news/2010/06/14/the-arrest-of-several-army-officers-in-guinea-is-not-linked-to-elections-according-to-the-country-s-army-chief.xml)  
+
 ### [2010-06-14](/news/2010/06/14/index.md)
 
+##### Guinea
 # The arrest of several army officers in Guinea is not linked to elections, according to the country's army chief. 
 
 The arrest of several army officers in Guinea is not linked to the forthcoming elections, the army chief says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10312755.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

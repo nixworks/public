@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/4/the-15th-anniversary-of-the-crackdown-of-the-tiananmen-square-protests-of-1989-is-marked-in-hong-kong-by-a-candlelight-vigil-police-keep-t.html)  [JSON](/news/2004/06/4/the-15th-anniversary-of-the-crackdown-of-the-tiananmen-square-protests-of-1989-is-marked-in-hong-kong-by-a-candlelight-vigil-police-keep-t.json)  [XML](/news/2004/06/4/the-15th-anniversary-of-the-crackdown-of-the-tiananmen-square-protests-of-1989-is-marked-in-hong-kong-by-a-candlelight-vigil-police-keep-t.xml)  
+
 ### [2004-06-4](/news/2004/06/4/index.md)
 
+##### Tiananmen Square protests of 1989
 #  The 15th anniversary of the crackdown of the Tiananmen Square protests of 1989 is marked in Hong Kong by a candlelight vigil. Police keep Tiananmen Square and other places in mainland China free of demonstrators. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/3775463.stm)
 2. [VOA](http://www.voanews.com/article.cfm?objectID=77B73ABF-032F-48D7-937FD19EBC740D99&title=Hong%20Kong%20Residents%20Hold%20Candlelight%20Vigil%20for%20Tiananmen%20Anniversary&catOID=45C9C78B-88AD-11D4-A57200A0CC5EE46C&categoryname=Asia%20Pacific)

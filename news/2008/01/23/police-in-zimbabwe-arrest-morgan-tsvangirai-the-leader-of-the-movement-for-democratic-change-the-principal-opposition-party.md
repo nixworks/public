@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/23/police-in-zimbabwe-arrest-morgan-tsvangirai-the-leader-of-the-movement-for-democratic-change-the-principal-opposition-party.html)  [JSON](/news/2008/01/23/police-in-zimbabwe-arrest-morgan-tsvangirai-the-leader-of-the-movement-for-democratic-change-the-principal-opposition-party.json)  [XML](/news/2008/01/23/police-in-zimbabwe-arrest-morgan-tsvangirai-the-leader-of-the-movement-for-democratic-change-the-principal-opposition-party.xml)  
+
 ### [2008-01-23](/news/2008/01/23/index.md)
 
+##### Zimbabwe
 #  Police in Zimbabwe arrest Morgan Tsvangirai, the leader of the Movement for Democratic Change, the principal opposition party. 
 
 The lawyer for Zimbabwe&#039;s main opposition leader Morgan Tsvangirai say police took him away in the middle of the night for questioning about a demonstration planned for later today.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2008/01/23/2145015.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/1/in-the-united-states-south-dakota-governor-denni
 
 ### [2016-03-1](/news/2016/03/1/index.md)
 
+##### Transgender and schools
 # In the United States, South Dakota Governor Dennis Daugaard vetoes House Bill 1008 that would have required transgender students to use bathrooms, locker rooms, and other facilities based on their gender at birth in state public schools. The bill would have been law at midnight if the governor had not acted. 
 
 South Dakota Governor Dennis Daugaard vetoed legislation that would have restricted transgender students access to school facilities.

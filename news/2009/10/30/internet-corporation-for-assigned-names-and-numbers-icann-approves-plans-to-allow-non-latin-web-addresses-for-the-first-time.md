@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/30/internet-corporation-for-assigned-names-and-numbers-icann-approves-plans-to-allow-non-latin-web-addresses-for-the-first-time.html)  [JSON](/news/2009/10/30/internet-corporation-for-assigned-names-and-numbers-icann-approves-plans-to-allow-non-latin-web-addresses-for-the-first-time.json)  [XML](/news/2009/10/30/internet-corporation-for-assigned-names-and-numbers-icann-approves-plans-to-allow-non-latin-web-addresses-for-the-first-time.xml)  
+
 ### [2009-10-30](/news/2009/10/30/index.md)
 
+##### Internet Corporation for Assigned Names and Numbers
 #  Internet Corporation for Assigned Names and Numbers (ICANN) approves plans to allow non-Latin web addresses for the first time. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/technology/8333194.stm)
 2. [CNET News](http://news.cnet.com/8301-1023_3-10387139-93.html)

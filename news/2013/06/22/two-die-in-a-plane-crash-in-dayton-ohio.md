@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/22/two-die-in-a-plane-crash-in-dayton-ohio.html)  [JSON](/news/2013/06/22/two-die-in-a-plane-crash-in-dayton-ohio.json)  [XML](/news/2013/06/22/two-die-in-a-plane-crash-in-dayton-ohio.xml)  
+
 ### [2013-06-22](/news/2013/06/22/index.md)
 
+##### Dayton, Ohio
 # Two die in a plane crash in Dayton, Ohio. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [whiotv.com](http://www.whiotv.com/news/news/local/wing-walkers-plane-crashes-at-dayton-air-show/nYSBY/?hpt=hp_t2)
 

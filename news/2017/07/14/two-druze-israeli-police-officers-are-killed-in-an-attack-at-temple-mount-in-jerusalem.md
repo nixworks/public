@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/14/two-druze-israeli-police-officers-are-killed-in
 
 ### [2017-07-14](/news/2017/07/14/index.md)
 
+##### 2017 Temple Mount shooting
 # Two Druze Israeli police officers are killed in an attack at Temple Mount in Jerusalem. 
 
 Police say the attackers were killed after opening fire near the holy Temple Mount/Haram al-Sharif.

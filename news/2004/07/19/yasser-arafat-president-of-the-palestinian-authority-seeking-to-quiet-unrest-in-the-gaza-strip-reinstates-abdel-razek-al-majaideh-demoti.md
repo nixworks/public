@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/07/19/yasser-arafat-president-of-the-palestinian-authority-seeking-to-quiet-unrest-in-the-gaza-strip-reinstates-abdel-razek-al-majaideh-demoti.html)  [JSON](/news/2004/07/19/yasser-arafat-president-of-the-palestinian-authority-seeking-to-quiet-unrest-in-the-gaza-strip-reinstates-abdel-razek-al-majaideh-demoti.json)  [XML](/news/2004/07/19/yasser-arafat-president-of-the-palestinian-authority-seeking-to-quiet-unrest-in-the-gaza-strip-reinstates-abdel-razek-al-majaideh-demoti.xml)  
+
 ### [2004-07-19](/news/2004/07/19/index.md)
 
+##### Yasser Arafat
 #  Yasser Arafat, President of the Palestinian Authority, seeking to quiet unrest in the Gaza Strip reinstates Abdel-Razek al-Majaideh, demoting his cousin Moussa Arafat who was appointed just three days ago. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5708780&pageNumber=1)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5708780&pageNumber=1)
 
 ### Related:
 

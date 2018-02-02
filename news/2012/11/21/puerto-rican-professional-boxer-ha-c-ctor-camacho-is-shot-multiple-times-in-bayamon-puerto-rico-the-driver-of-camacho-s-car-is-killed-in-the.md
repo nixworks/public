@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/21/puerto-rican-professional-boxer-ha-c-ctor-camacho-is-shot-multiple-times-in-bayamon-puerto-rico-the-driver-of-camacho-s-car-is-killed-in-the.html)  [JSON](/news/2012/11/21/puerto-rican-professional-boxer-ha-c-ctor-camacho-is-shot-multiple-times-in-bayamon-puerto-rico-the-driver-of-camacho-s-car-is-killed-in-the.json)  [XML](/news/2012/11/21/puerto-rican-professional-boxer-ha-c-ctor-camacho-is-shot-multiple-times-in-bayamon-puerto-rico-the-driver-of-camacho-s-car-is-killed-in-the.xml)  
+
 ### [2012-11-21](/news/2012/11/21/index.md)
 
+##### Puerto Rican
 # Puerto Rican professional boxer Hector Camacho is shot multiple times in Bayamon, Puerto Rico. The driver of Camacho's car is killed in the attack. Camacho was shot in the neck and face and taken to St. Paul's Hospital in Rio Piedras, where he was pronounced to be in critical condition shortly thereafter. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [El Nuevo Herald](http://www.elnuevoherald.com/2012/11/21/1348323/el-exboxeador-hector-macho-camacho.html)
 1. [Cover Image](http://www.elnuevoherald.com/static/images/elnuevoherald/facebook.jpg)

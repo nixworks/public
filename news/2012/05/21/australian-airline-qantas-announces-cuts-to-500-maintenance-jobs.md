@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/21/australian-airline-qantas-announces-cuts-to-500-maintenance-jobs.html)  [JSON](/news/2012/05/21/australian-airline-qantas-announces-cuts-to-500-maintenance-jobs.json)  [XML](/news/2012/05/21/australian-airline-qantas-announces-cuts-to-500-maintenance-jobs.xml)  
+
 ### [2012-05-21](/news/2012/05/21/index.md)
 
+##### Australia
 # Australian airline Qantas announces cuts to 500 maintenance jobs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/business/breaking-news/get-behind-job-cuts-qantas-tells-unions/story-e6frfkur-1226362458740)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

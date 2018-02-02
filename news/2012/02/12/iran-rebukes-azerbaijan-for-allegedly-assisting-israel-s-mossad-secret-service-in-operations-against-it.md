@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/12/iran-rebukes-azerbaijan-for-allegedly-assisting-israel-s-mossad-secret-service-in-operations-against-it.html)  [JSON](/news/2012/02/12/iran-rebukes-azerbaijan-for-allegedly-assisting-israel-s-mossad-secret-service-in-operations-against-it.json)  [XML](/news/2012/02/12/iran-rebukes-azerbaijan-for-allegedly-assisting-israel-s-mossad-secret-service-in-operations-against-it.xml)  
+
 ### [2012-02-12](/news/2012/02/12/index.md)
 
+##### Iran
 # Iran rebukes Azerbaijan for allegedly assisting Israel's Mossad secret service in operations against it. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/iran-rebukes-azerbaijan-for-allegedly-aiding-israel-s-mossad-1.412511)
 1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.288369.1323173483!/image/1355184826.jpg_gen/derivatives/headline_1200x630/1355184826.jpg)

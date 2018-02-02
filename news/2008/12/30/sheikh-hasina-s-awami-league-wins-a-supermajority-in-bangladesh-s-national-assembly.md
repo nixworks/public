@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/30/sheikh-hasina-s-awami-league-wins-a-supermajority-in-bangladesh-s-national-assembly.html)  [JSON](/news/2008/12/30/sheikh-hasina-s-awami-league-wins-a-supermajority-in-bangladesh-s-national-assembly.json)  [XML](/news/2008/12/30/sheikh-hasina-s-awami-league-wins-a-supermajority-in-bangladesh-s-national-assembly.xml)  
+
 ### [2008-12-30](/news/2008/12/30/index.md)
 
+##### Sheikh Hasina
 #  Sheikh Hasina's Awami League wins a supermajority in Bangladesh's National Assembly. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Rediff](http://www.rediff.com/news/2008/dec/30sheikh-hasina-storms-to-power-in-bangladesh.htm)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/04/24/a-tornado-in-mississippi-kills-at-least-10-people.html)  [JSON](/news/2010/04/24/a-tornado-in-mississippi-kills-at-least-10-people.json)  [XML](/news/2010/04/24/a-tornado-in-mississippi-kills-at-least-10-people.xml)  
+
 ### [2010-04-24](/news/2010/04/24/index.md)
 
+##### tornado
 # A tornado in Mississippi kills at least 10 people. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/weather/storms/tornadoes/2010-04-24-tornadoes-south_N.htm)
+1. [USA Today](https://www.usatoday.com/weather/storms/tornadoes/2010-04-24-tornadoes-south_N.htm)
 
 ### Related:
 

@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2011/03/1/ally-financial-the-company-formerly-known-as-general-motors-acceptance-corporation-announced-in-a-filing-with-the-securities-and-exchange.html)  [JSON](/news/2011/03/1/ally-financial-the-company-formerly-known-as-general-motors-acceptance-corporation-announced-in-a-filing-with-the-securities-and-exchange.json)  [XML](/news/2011/03/1/ally-financial-the-company-formerly-known-as-general-motors-acceptance-corporation-announced-in-a-filing-with-the-securities-and-exchange.xml)  
+
 ### [2011-03-1](/news/2011/03/1/index.md)
 
+##### Ally Financial
 # Ally Financial, the company formerly known as General Motors Acceptance Corporation, announced in a filing with the Securities and Exchange Commission that the U.S. Treasury Department will be selling some of Ally's preferred securities. This is part of the unwinding of the Treasury's investment in the auto industry as a result of the 2008 financial crisis. 
 
+The U.S. Treasury Department today said it has priced a secondary offering at par for about $2.7 billion it holds in Ally Financial Inc. trust-preferred securities.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2011-03-01/treasury-to-offer-ally-financial-trust-preferred-securities.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2011-03-01/treasury-to-offer-ally-financial-trust-preferred-securities.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

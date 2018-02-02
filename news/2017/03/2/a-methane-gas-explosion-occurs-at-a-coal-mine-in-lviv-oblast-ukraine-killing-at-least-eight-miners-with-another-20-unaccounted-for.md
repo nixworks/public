@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/2/a-methane-gas-explosion-occurs-at-a-coal-mine-in
 
 ### [2017-03-2](/news/2017/03/2/index.md)
 
+##### methane
 # A methane gas explosion occurs at a coal mine in Lviv Oblast, Ukraine, killing at least eight miners, with another 20 unaccounted for. 
 
 Rescue efforts in western Ukraine ongoing after methane gas blast kills eight miners and leaves 20 unaccounted for.

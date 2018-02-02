@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/04/1/president-of-sudan-omar-al-bashir-orders-the-release-of-all-political-prisoners.html)  [JSON](/news/2013/04/1/president-of-sudan-omar-al-bashir-orders-the-release-of-all-political-prisoners.json)  [XML](/news/2013/04/1/president-of-sudan-omar-al-bashir-orders-the-release-of-all-political-prisoners.xml)  
+
 ### [2013-04-1](/news/2013/04/1/index.md)
 
+##### President of Sudan
 # President of Sudan Omar al-Bashir orders the release of all political prisoners. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/04/01/sudan-amnesty-idUSL5N0CO1OL20130401)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2013/04/01/sudan-amnesty-idUSL5N0CO1OL20130401)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

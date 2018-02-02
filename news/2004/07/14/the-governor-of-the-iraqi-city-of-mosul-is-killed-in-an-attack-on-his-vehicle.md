@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/14/the-governor-of-the-iraqi-city-of-mosul-is-killed-in-an-attack-on-his-vehicle.html)  [JSON](/news/2004/07/14/the-governor-of-the-iraqi-city-of-mosul-is-killed-in-an-attack-on-his-vehicle.json)  [XML](/news/2004/07/14/the-governor-of-the-iraqi-city-of-mosul-is-killed-in-an-attack-on-his-vehicle.xml)  
+
 ### [2004-07-14](/news/2004/07/14/index.md)
 
+##### Iraq
 #  The governor of the Iraqi city of Mosul is killed in an attack on his vehicle. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3894653.stm)
 

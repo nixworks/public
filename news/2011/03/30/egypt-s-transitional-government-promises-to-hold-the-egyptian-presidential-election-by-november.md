@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/30/egypt-s-transitional-government-promises-to-hold-the-egyptian-presidential-election-by-november.html)  [JSON](/news/2011/03/30/egypt-s-transitional-government-promises-to-hold-the-egyptian-presidential-election-by-november.json)  [XML](/news/2011/03/30/egypt-s-transitional-government-promises-to-hold-the-egyptian-presidential-election-by-november.xml)  
+
 ### [2011-03-30](/news/2011/03/30/index.md)
 
+##### Egypt
 # Egypt's transitional government promises to hold the Egyptian presidential election by November. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Masry Al Youm](http://www.almasryalyoum.com/en/node/380532)
 
@@ -15,4 +19,4 @@
 2. [Egyptian President Hosni Mubarak says he does not mind the nomination of the former Director-General of International Atomic Energy Agency Mohamed ElBaradei in the next presidential election as long as it is under the framework of existing constitution. ](/news/2010/03/4/egyptian-president-hosni-mubarak-says-he-does-not-mind-the-nomination-of-the-former-director-general-of-international-atomic-energy-agency-m.md) _Context: Egypt, Egyptian presidential election in September_
 3. [Ex-IAEA head Mohamed ElBaradei is set to return to Egypt hoping to run for the presidency in the 2011 election. ](/news/2010/02/19/ex-iaea-head-mohamed-elbaradei-is-set-to-return-to-egypt-hoping-to-run-for-the-presidency-in-the-2011-election.md) _Context: Egypt, Egyptian presidential election in September_
 4. [ Former Director General of the International Atomic Energy Agency (IAEA) Mohamed ElBaradei says that if he decides to run in the presidential election in Egypt in 2011, he will run as an independent candidate instead of running as a candidate of any of the political parties in Egypt. ](/news/2009/12/11/former-director-general-of-the-international-atomic-energy-agency-iaea-mohamed-elbaradei-says-that-if-he-decides-to-run-in-the-presidenti.md) _Context: Egypt, Egyptian presidential election in September_
-5. [Thirty-thousand North Korean rocket propelled grenades are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (EGBP406 million-W20 billion). ](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.md) _Context: Egypt_
+5. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Egypt_

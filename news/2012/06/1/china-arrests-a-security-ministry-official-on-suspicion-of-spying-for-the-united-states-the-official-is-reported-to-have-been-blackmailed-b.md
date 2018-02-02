@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/1/china-arrests-a-security-ministry-official-on-suspicion-of-spying-for-the-united-states-the-official-is-reported-to-have-been-blackmailed-b.html)  [JSON](/news/2012/06/1/china-arrests-a-security-ministry-official-on-suspicion-of-spying-for-the-united-states-the-official-is-reported-to-have-been-blackmailed-b.json)  [XML](/news/2012/06/1/china-arrests-a-security-ministry-official-on-suspicion-of-spying-for-the-united-states-the-official-is-reported-to-have-been-blackmailed-b.xml)  
+
 ### [2012-06-1](/news/2012/06/1/index.md)
 
+##### China
 # China arrests a security ministry official on suspicion of spying for the United States; the official is reported to have been blackmailed by the CIA. 
 
 A Chinese security ministry official has been arrested on suspicion of spying for the United States, Hong Kong media reports say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-18299065)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60646000/jpg/_60646295_chinausflags.jpg)

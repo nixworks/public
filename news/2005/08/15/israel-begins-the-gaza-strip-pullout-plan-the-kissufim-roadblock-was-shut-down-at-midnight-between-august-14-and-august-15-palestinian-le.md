@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/15/israel-begins-the-gaza-strip-pullout-plan-the-kissufim-roadblock-was-shut-down-at-midnight-between-august-14-and-august-15-palestinian-le.html)  [JSON](/news/2005/08/15/israel-begins-the-gaza-strip-pullout-plan-the-kissufim-roadblock-was-shut-down-at-midnight-between-august-14-and-august-15-palestinian-le.json)  [XML](/news/2005/08/15/israel-begins-the-gaza-strip-pullout-plan-the-kissufim-roadblock-was-shut-down-at-midnight-between-august-14-and-august-15-palestinian-le.xml)  
+
 ### [2005-08-15](/news/2005/08/15/index.md)
 
+##### Israel
 #  Israel begins the Gaza Strip pullout plan. The Kissufim Roadblock was shut down at midnight between August 14 and August 15. Palestinian leader Mahmoud Abbas hailed the move as "historic" but said Israel should also pull out of the West Bank. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4150028.stm)
 2. [Canada.com](http://www.canada.com/news/world/story.html?id=d92f6c87-4c9e-439a-85af-d6259776b3ef)

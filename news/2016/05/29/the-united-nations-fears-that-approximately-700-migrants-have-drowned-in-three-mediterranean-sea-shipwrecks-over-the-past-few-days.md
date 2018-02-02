@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/29/the-united-nations-fears-that-approximately-700
 
 ### [2016-05-29](/news/2016/05/29/index.md)
 
+##### European migrant crisis
 # The United Nations fears that approximately 700 migrants have drowned in three Mediterranean Sea shipwrecks over the past few days. 
 
 

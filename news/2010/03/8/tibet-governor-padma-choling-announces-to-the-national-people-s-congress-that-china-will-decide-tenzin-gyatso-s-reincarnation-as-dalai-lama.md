@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/8/tibet-governor-padma-choling-announces-to-the-national-people-s-congress-that-china-will-decide-tenzin-gyatso-s-reincarnation-as-dalai-lama.html)  [JSON](/news/2010/03/8/tibet-governor-padma-choling-announces-to-the-national-people-s-congress-that-china-will-decide-tenzin-gyatso-s-reincarnation-as-dalai-lama.json)  [XML](/news/2010/03/8/tibet-governor-padma-choling-announces-to-the-national-people-s-congress-that-china-will-decide-tenzin-gyatso-s-reincarnation-as-dalai-lama.xml)  
+
 ### [2010-03-8](/news/2010/03/8/index.md)
 
+##### Tibet
 # Tibet Governor Padma Choling announces to the National People's Congress that China will decide Tenzin Gyatso's reincarnation as Dalai Lama. 
 
 The Chinese government says that it will have the final say, rather than the Dalai Lama, on who succeeds him as Tibet&#039;s spiritual leader.
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/7397440/China-insists-it-will-choose-Dalai-Lamas-successor.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01292/dalai-lama_1292940a.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/2/lieutenant-colonel-thomas-k-mooney-the-military-attacha-c-at-the-united-states-embassy-is-found-dead-in-western-cyprus.html)  [JSON](/news/2007/07/2/lieutenant-colonel-thomas-k-mooney-the-military-attacha-c-at-the-united-states-embassy-is-found-dead-in-western-cyprus.json)  [XML](/news/2007/07/2/lieutenant-colonel-thomas-k-mooney-the-military-attacha-c-at-the-united-states-embassy-is-found-dead-in-western-cyprus.xml)  
+
 ### [2007-07-2](/news/2007/07/2/index.md)
 
+##### Lieutenant-Colonel
 #  Lieutenant-Colonel Thomas K. Mooney, the military attache at the United States Embassy is found dead in western Cyprus. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via IHT](http://www.iht.com/articles/ap/2007/07/02/europe/EU-GEN-Cyprus-Missing-Diplomat.php)
 

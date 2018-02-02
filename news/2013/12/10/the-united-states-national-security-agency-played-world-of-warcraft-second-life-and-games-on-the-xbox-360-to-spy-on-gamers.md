@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/10/the-united-states-national-security-agency-played-world-of-warcraft-second-life-and-games-on-the-xbox-360-to-spy-on-gamers.html)  [JSON](/news/2013/12/10/the-united-states-national-security-agency-played-world-of-warcraft-second-life-and-games-on-the-xbox-360-to-spy-on-gamers.json)  [XML](/news/2013/12/10/the-united-states-national-security-agency-played-world-of-warcraft-second-life-and-games-on-the-xbox-360-to-spy-on-gamers.xml)  
+
 ### [2013-12-10](/news/2013/12/10/index.md)
 
+##### National Security Agency
 # The United States National Security Agency played "World of Warcraft", "Second Life", and games on the Xbox 360 to spy on gamers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/12/09/tech/web/nsa-spying-video-games/)
 

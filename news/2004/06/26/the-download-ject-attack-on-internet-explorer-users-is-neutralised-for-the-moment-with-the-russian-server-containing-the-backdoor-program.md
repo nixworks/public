@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/06/26/the-download-ject-attack-on-internet-explorer-users-is-neutralised-for-the-moment-with-the-russian-server-containing-the-backdoor-program.html)  [JSON](/news/2004/06/26/the-download-ject-attack-on-internet-explorer-users-is-neutralised-for-the-moment-with-the-russian-server-containing-the-backdoor-program.json)  [XML](/news/2004/06/26/the-download-ject-attack-on-internet-explorer-users-is-neutralised-for-the-moment-with-the-russian-server-containing-the-backdoor-program.xml)  
+
 ### [2004-06-26](/news/2004/06/26/index.md)
 
+##### Download.ject
 #  The Download.ject attack on Internet Explorer users is neutralised for the moment, with the Russian server containing the backdoor program having been shut down. Security experts warn that the IE vulnerabilities still exist and a copycat attack is still possible. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [CNet](http://archive.is/20130102074545/http://news.cnet.com/Web+site+virus+attack+blunted--for+now/2100-7349_3-5248279.html)
+1. [CNet](https://archive.is/20130102074545/http://news.cnet.com/Web+site+virus+attack+blunted--for+now/2100-7349_3-5248279.html)
 2. [Information Week](http://www.informationweek.com/story/showArticle.jhtml?articleID=22102178)
 
 ### Related:

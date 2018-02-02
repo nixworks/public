@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/26/nepalese-authorities-ban-rallies-and-mass-meetings-in-kathmandu-prior-to-the-first-meeting-of-the-nepalese-constituent-assembly-which-is-ex.html)  [JSON](/news/2008/05/26/nepalese-authorities-ban-rallies-and-mass-meetings-in-kathmandu-prior-to-the-first-meeting-of-the-nepalese-constituent-assembly-which-is-ex.json)  [XML](/news/2008/05/26/nepalese-authorities-ban-rallies-and-mass-meetings-in-kathmandu-prior-to-the-first-meeting-of-the-nepalese-constituent-assembly-which-is-ex.xml)  
+
 ### [2008-05-26](/news/2008/05/26/index.md)
 
+##### rallies
 #  Nepalese authorities ban rallies and mass meetings in Kathmandu prior to the first meeting of the Nepalese Constituent Assembly which is expected to declare Nepal a republic. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7419772.stm)
 

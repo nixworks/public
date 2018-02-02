@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/12/at-least-7-die-in-several-separate-attacks-and-suicide-bombings-in-russia-s-north-caucasus.html)  [JSON](/news/2009/09/12/at-least-7-die-in-several-separate-attacks-and-suicide-bombings-in-russia-s-north-caucasus.json)  [XML](/news/2009/09/12/at-least-7-die-in-several-separate-attacks-and-suicide-bombings-in-russia-s-north-caucasus.xml)  
+
 ### [2009-09-12](/news/2009/09/12/index.md)
 
+##### Russia
 #  At least 7 die in several separate attacks and suicide bombings in Russia's North Caucasus. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5h9OHz4nVWKKUjgrraAGSlhUXSaNQD9ALS0CG0)
 

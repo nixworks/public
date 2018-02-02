@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/12/nine-suicide-bombing-attacks-on-the-pakistani-military-kill-more-than-350-people-in-lahore.html)  [JSON](/news/2010/03/12/nine-suicide-bombing-attacks-on-the-pakistani-military-kill-more-than-350-people-in-lahore.json)  [XML](/news/2010/03/12/nine-suicide-bombing-attacks-on-the-pakistani-military-kill-more-than-350-people-in-lahore.xml)  
+
 ### [2010-03-12](/news/2010/03/12/index.md)
 
+##### suicide bombing
 # Nine suicide bombing attacks on the Pakistani military kill more than 350 people in Lahore. 
 
 Twin suicide attacks have targeted the Pakistani military, killing 45 people in the second attack to hit the country&#039;s cultural capital, Lahore.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/03/12/2844698.htm?section=justin)
 1. [Cover Image](http://www.abc.net.au/news/image/360322-1x1-700x700.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/1/news-international-phone-hacking-scandal-the-house-of-commons-culture-media-and-sport-committee-publishes-its-report-into-phone-hacking-at.html)  [JSON](/news/2012/05/1/news-international-phone-hacking-scandal-the-house-of-commons-culture-media-and-sport-committee-publishes-its-report-into-phone-hacking-at.json)  [XML](/news/2012/05/1/news-international-phone-hacking-scandal-the-house-of-commons-culture-media-and-sport-committee-publishes-its-report-into-phone-hacking-at.xml)  
+
 ### [2012-05-1](/news/2012/05/1/index.md)
 
+##### conspiracy to hack mobile phones
 # News International phone hacking scandal: The House of Commons Culture, Media and Sport Committee publishes its report into phone hacking at the "News of the World". The committee concludes that Rupert Murdoch "is not a fit person" to run a major international company and exhibited "wilful blindness" to phone-hacking and other practices going on in his media empire. The report also accuses three News Corporation executives of giving misleading evidence. 
 
 Rupert Murdoch exhibited &quot;wilful blindness&quot; to what was going on in his media empire and &quot;is not a fit person to exercise the stewardship of a major international company&quot;, MPs say.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/05/20125110498452985.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-politics-17898029)

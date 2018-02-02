@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/9/delta-air-lines-cancels-about-530-flights-worldw
 
 ### [2016-08-9](/news/2016/08/9/index.md)
 
+##### Delta Air Lines
 # Delta Air Lines cancels about 530 flights worldwide on the second day of its major computer systems problem due to malfunctioning switchgear. 
 
 Delta Air Lines (DAL.N) faces a &quot;time-consuming process&quot; to restore normal operations and get stranded passengers to their destinations after a power outage caused more than 1,600 flight cancellations over two days, a top executive said on Tuesday.

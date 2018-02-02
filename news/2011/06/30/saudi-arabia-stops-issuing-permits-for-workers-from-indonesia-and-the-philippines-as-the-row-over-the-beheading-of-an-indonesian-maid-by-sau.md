@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/30/saudi-arabia-stops-issuing-permits-for-workers-from-indonesia-and-the-philippines-as-the-row-over-the-beheading-of-an-indonesian-maid-by-sau.html)  [JSON](/news/2011/06/30/saudi-arabia-stops-issuing-permits-for-workers-from-indonesia-and-the-philippines-as-the-row-over-the-beheading-of-an-indonesian-maid-by-sau.json)  [XML](/news/2011/06/30/saudi-arabia-stops-issuing-permits-for-workers-from-indonesia-and-the-philippines-as-the-row-over-the-beheading-of-an-indonesian-maid-by-sau.xml)  
+
 ### [2011-06-30](/news/2011/06/30/index.md)
 
+##### Saudi Arabia
 # Saudi Arabia stops issuing permits for workers from Indonesia and the Philippines as the row over the beheading of an Indonesian maid by Saudi Arabia continues. 
 
 Saudi Arabia says it will stop issuing work permits for domestic workers from Indonesia and the Philippines, after a series of high-profile spats.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13970689)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53776000/jpg/_53776475_53776474.jpg)

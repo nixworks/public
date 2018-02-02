@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/11/7/scores-of-candidates-in-the-afghan-parliamentary-election-protest-at-the-lack-of-any-results-from-the-election-held-on-september-18-and-call.html)  [JSON](/news/2010/11/7/scores-of-candidates-in-the-afghan-parliamentary-election-protest-at-the-lack-of-any-results-from-the-election-held-on-september-18-and-call.json)  [XML](/news/2010/11/7/scores-of-candidates-in-the-afghan-parliamentary-election-protest-at-the-lack-of-any-results-from-the-election-held-on-september-18-and-call.xml)  
+
 ### [2010-11-7](/news/2010/11/7/index.md)
 
+##### parliamentary election
 # Scores of candidates in the Afghan parliamentary election protest at the lack of any results from the election held on September 18 and call for a new election. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6A60MK20101107)
+1. [Reuters](https://www.reuters.com/article/idUSTRE6A60MK20101107)
 1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:

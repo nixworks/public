@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/12/four-earthquakes-ranging-from-5-to-6-2-in-magnitude-hit-the-philippines.html)  [JSON](/news/2011/07/12/four-earthquakes-ranging-from-5-to-6-2-in-magnitude-hit-the-philippines.json)  [XML](/news/2011/07/12/four-earthquakes-ranging-from-5-to-6-2-in-magnitude-hit-the-philippines.xml)  
+
 ### [2011-07-12](/news/2011/07/12/index.md)
 
+##### earthquake
 # Four earthquakes ranging from 5 to 6.2 in magnitude hit the Philippines. 
 
 A 6.2-magnitude earthquake struck off the coast of the Philippines this morning but caused no damage, authorities said.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News](http://www.abc.net.au/news/stories/2011/07/12/3267412.htm?section=justin)
 2. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/New-Article/articleshow/9193808.cms)

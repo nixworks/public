@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/13/results-of-serbian-presidential-elections-show-expected-lead-of-tomislav-nikolic-with-30-1-of-votes-followed-with-boris-tadic-with-27-3.html)  [JSON](/news/2004/06/13/results-of-serbian-presidential-elections-show-expected-lead-of-tomislav-nikolic-with-30-1-of-votes-followed-with-boris-tadic-with-27-3.json)  [XML](/news/2004/06/13/results-of-serbian-presidential-elections-show-expected-lead-of-tomislav-nikolic-with-30-1-of-votes-followed-with-boris-tadic-with-27-3.xml)  
+
 ### [2004-06-13](/news/2004/06/13/index.md)
 
+##### Serbian presidential election, 2004
 #  Results of Serbian presidential elections show expected lead of Tomislav Nikolic with 30.1% of votes, followed with Boris Tadic with 27.3%; but it comes as a surprise that Bogoljub Karic has 19.3% of votes, more than government's candidate Dragan Marsicanin with 13.3%. Second round will be held on Sunday 27 June. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [cesid.org](http://www.cesid.org)
 

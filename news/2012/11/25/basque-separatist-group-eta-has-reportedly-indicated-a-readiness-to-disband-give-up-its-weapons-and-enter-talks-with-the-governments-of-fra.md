@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/25/basque-separatist-group-eta-has-reportedly-indicated-a-readiness-to-disband-give-up-its-weapons-and-enter-talks-with-the-governments-of-fra.html)  [JSON](/news/2012/11/25/basque-separatist-group-eta-has-reportedly-indicated-a-readiness-to-disband-give-up-its-weapons-and-enter-talks-with-the-governments-of-fra.json)  [XML](/news/2012/11/25/basque-separatist-group-eta-has-reportedly-indicated-a-readiness-to-disband-give-up-its-weapons-and-enter-talks-with-the-governments-of-fra.xml)  
+
 ### [2012-11-25](/news/2012/11/25/index.md)
 
+##### Basque
 # Basque separatist group ETA has reportedly indicated a readiness to disband, give up its weapons and enter talks with the governments of France and Spain. 
 
 Basque separatist group Eta says it is ready to disband, give up its weapons and enter talks with the French and Spanish governments.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20482620)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64364000/jpg/_64364866_u8tym0ux.jpg)

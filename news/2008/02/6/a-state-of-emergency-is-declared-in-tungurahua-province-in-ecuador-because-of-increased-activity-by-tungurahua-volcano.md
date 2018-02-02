@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/02/6/a-state-of-emergency-is-declared-in-tungurahua-province-in-ecuador-because-of-increased-activity-by-tungurahua-volcano.html)  [JSON](/news/2008/02/6/a-state-of-emergency-is-declared-in-tungurahua-province-in-ecuador-because-of-increased-activity-by-tungurahua-volcano.json)  [XML](/news/2008/02/6/a-state-of-emergency-is-declared-in-tungurahua-province-in-ecuador-because-of-increased-activity-by-tungurahua-volcano.xml)  
+
 ### [2008-02-6](/news/2008/02/6/index.md)
 
+##### Tungurahua
 #  A state of emergency is declared in Tungurahua Province in Ecuador because of increased activity by Tungurahua volcano. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601086&sid=a_0we2EwhAHI&refer=latin_america)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601086&sid=a_0we2EwhAHI&refer=latin_america)
 
 ### Related:
 

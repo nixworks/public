@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/14/the-philippines-cabinet-of-rodrigo-duterte-thro
 
 ### [2016-12-14](/news/2016/12/14/index.md)
 
+##### Philippines
 # The Philippines cabinet of Rodrigo Duterte, through former journalist Martin Andanar, criticizes the Western media's coverage of the Philippine Drug War, particularly that of "The New York Times", and urges them to cover the purge more effectively. 
 
 The office of the president said the article and photographic essay had falsely depicted the country as “the Wild, Wild West.”

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/9/union-minister-of-home-affairs-of-the-republic-of-india-p-chidambaram-takes-full-responsibility-for-the-killing-of-76-paramilitary-troops.html)  [JSON](/news/2010/04/9/union-minister-of-home-affairs-of-the-republic-of-india-p-chidambaram-takes-full-responsibility-for-the-killing-of-76-paramilitary-troops.json)  [XML](/news/2010/04/9/union-minister-of-home-affairs-of-the-republic-of-india-p-chidambaram-takes-full-responsibility-for-the-killing-of-76-paramilitary-troops.xml)  
+
 ### [2010-04-9](/news/2010/04/9/index.md)
 
+##### Union Minister of Home Affairs of the Republic of India
 # Union Minister of Home Affairs of the Republic of India P. Chidambaram takes "full responsibility" for the killing of 76 paramilitary troops in Tuesday's Maoist ambush in Chhattisgarh &mdash; history's deadliest attack on security forces by Maoist insurgents &mdash; and offers to resign. 
 
 Home Minister Palaniappan Chidambaram offered to resign after Maoist insurgents killed 76 police this week, officials said on Friday, as New Delhi mobilised more security forces to flush out the rebels from their forest bases.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8611166.stm)
 2. [Reuters India](http://in.reuters.com/article/topNews/idINIndia-47563120100409)

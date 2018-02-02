@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/01/12/haitians-commemorate-the-first-anniversary-of-the-2010-earthquake.html)  [JSON](/news/2011/01/12/haitians-commemorate-the-first-anniversary-of-the-2010-earthquake.json)  [XML](/news/2011/01/12/haitians-commemorate-the-first-anniversary-of-the-2010-earthquake.xml)  
+
 ### [2011-01-12](/news/2011/01/12/index.md)
 
+##### Haiti
 # Haitians commemorate the first anniversary of the 2010 earthquake. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20110113/ap_on_re_la_am_ca/cb_haiti_earthquake)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20110113/ap_on_re_la_am_ca/cb_haiti_earthquake)
 
 ### Related:
 

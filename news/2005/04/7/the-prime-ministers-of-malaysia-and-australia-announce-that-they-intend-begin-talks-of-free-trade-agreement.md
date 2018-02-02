@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/04/7/the-prime-ministers-of-malaysia-and-australia-announce-that-they-intend-begin-talks-of-free-trade-agreement.html)  [JSON](/news/2005/04/7/the-prime-ministers-of-malaysia-and-australia-announce-that-they-intend-begin-talks-of-free-trade-agreement.json)  [XML](/news/2005/04/7/the-prime-ministers-of-malaysia-and-australia-announce-that-they-intend-begin-talks-of-free-trade-agreement.xml)  
+
 ### [2005-04-7](/news/2005/04/7/index.md)
 
+##### Malaysia
 #  The prime ministers of Malaysia and Australia announce that they intend begin talks of free trade agreement 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000081&sid=aJYGCExCIPJU&refer=australia)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000081&sid=aJYGCExCIPJU&refer=australia)
 2. [Malaysian Star](http://biz.thestar.com.my/news/story.asp?file=/2005/4/5/business/10581841&sec=business)
 3. [Radio Australia](http://www.abc.net.au/ra/news/stories/s1340187.htm)
 

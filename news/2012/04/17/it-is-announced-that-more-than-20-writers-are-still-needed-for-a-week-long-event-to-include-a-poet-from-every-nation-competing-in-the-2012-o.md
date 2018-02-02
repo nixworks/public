@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/17/it-is-announced-that-more-than-20-writers-are-still-needed-for-a-week-long-event-to-include-a-poet-from-every-nation-competing-in-the-2012-o.html)  [JSON](/news/2012/04/17/it-is-announced-that-more-than-20-writers-are-still-needed-for-a-week-long-event-to-include-a-poet-from-every-nation-competing-in-the-2012-o.json)  [XML](/news/2012/04/17/it-is-announced-that-more-than-20-writers-are-still-needed-for-a-week-long-event-to-include-a-poet-from-every-nation-competing-in-the-2012-o.xml)  
+
 ### [2012-04-17](/news/2012/04/17/index.md)
 
+##### Jo Shapcott
 # It is announced that more than 20 writers are still needed for a week-long event to include a poet from every nation competing in the 2012 Olympics and Paralympics: among those attending are Jo Shapcott (Great Britain) and Nobel laureates Seamus Heaney (Ireland) and Wole Soyinka (Nigeria). 
 
 More than 20 writers are still needed to complete the line-up for a poetry festival representing every nation competing in the 2012 Olympics and Paralympics.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17746304)
 2. [The Guardian](http://www.guardian.co.uk/books/2012/apr/17/poetry-parnassus-poets-olympic-nation)

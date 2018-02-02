@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/18/the-new-york-attorney-general-announces-that-do
 
 ### [2016-11-18](/news/2016/11/18/index.md)
 
+##### New York Attorney General
 # The New York Attorney General announces that Donald Trump has settled three lawsuits by former students of Trump University for $25 million. 
 
 Donald Trump settles three fraud lawsuits relating to Trump University for $25m, an official says.
@@ -16,7 +17,7 @@ Donald Trump settles three fraud lawsuits relating to Trump University for $25m,
 ### Related:
 
 1. [Federal District Judge Gonzalo Curiel unseals documents requested by "The Washington Post" that had been filed with the court in connection with pending civil cases against Trump University, a former business of the Republican Party's presumptive presidential nominee Donald Trump. The judge noted that Trump's candidacy has increased interest in these cases, and that Trump's comments "... (have) placed the integrity of these court proceedings at issue." ](/news/2016/05/28/federal-district-judge-gonzalo-curiel-unseals-documents-requested-by-the-washington-post-that-had-been-filed-with-the-court-in-connection.md) _Context: Donald Trump, Trump University_
-2. [U.S. President Donald Trump signs executive orders shrinking the Bears Ears National Monument area by 85% and the Grand Staircase-Escalante National Monument by half. ](/news/2017/12/4/u-s-president-donald-trump-signs-executive-orders-shrinking-the-bears-ears-national-monument-area-by-85-and-the-grand-staircase-escalante.md) _Context: Donald Trump_
-3. [Michael Flynn, former U.S. National Security Advisor to President Donald Trump, pleads guilty to one count of making a false statement to the FBI about his contacts with Russian officials. It is also announced that Flynn will cooperate with Robert Mueller's Special Counsel investigation. ](/news/2017/12/1/michael-flynn-former-u-s-national-security-advisor-to-president-donald-trump-pleads-guilty-to-one-count-of-making-a-false-statement-to-th.md) _Context: Donald Trump_
-4. [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md) _Context: Donald Trump_
-5. [U.S. President Donald Trump visits Japan amidst the 2017 North Korea crisis. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.md) _Context: Donald Trump_
+2. [Steve Bannon steps down as executive chairman of Breitbart News amid a dispute with U.S. President Donald Trump over comments he made about the Trump family in Michael Wolff's "Fire and Fury". ](/news/2018/01/9/steve-bannon-steps-down-as-executive-chairman-of-breitbart-news-amid-a-dispute-with-u-s-president-donald-trump-over-comments-he-made-about.md) _Context: Donald Trump_
+3. [Twitter, in response to criticism over its handling of U.S. President Donald Trump's account, says it will not block world leaders or remove their controversial tweets. ](/news/2018/01/5/twitter-in-response-to-criticism-over-its-handling-of-u-s-president-donald-trump-s-account-says-it-will-not-block-world-leaders-or-remove.md) _Context: Donald Trump_
+4. [U.S. President Donald Trump delivers his first State of the Union Address to the 115th United States Congress in the chamber of the House of Representatives.](/news/2018/01/30/u-s-president-donald-trump-delivers-his-first-state-of-the-union-address-to-the-115th-united-states-congress-in-the-chamber-of-the-house-of.md) _Context: Donald Trump_
+5. [U.S. President Donald Trump dissolves the voter fraud commission noting the cost to the public of litigating against lawsuits from states objecting to the voter information requested. ](/news/2018/01/3/u-s-president-donald-trump-dissolves-the-voter-fraud-commission-noting-the-cost-to-the-public-of-litigating-against-lawsuits-from-states-ob.md) _Context: Donald Trump_

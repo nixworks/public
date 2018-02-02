@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/07/1/the-organization-of-american-states-gives-honduras-three-days-to-restore-its-deposed-president-manuel-zelaya.html)  [JSON](/news/2009/07/1/the-organization-of-american-states-gives-honduras-three-days-to-restore-its-deposed-president-manuel-zelaya.json)  [XML](/news/2009/07/1/the-organization-of-american-states-gives-honduras-three-days-to-restore-its-deposed-president-manuel-zelaya.xml)  
+
 ### [2009-07-1](/news/2009/07/1/index.md)
 
+##### Organization of American States
 #  The Organization of American States gives Honduras three days to restore its deposed president, Manuel Zelaya. 
 
 A flurry of negotiations began on Wednesday to lay the groundwork for a possible return of the nation’s ousted president, Manuel Zelaya.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2009/07/02/world/americas/02honduras.html)
+1. [The New York Times](https://www.nytimes.com/2009/07/02/world/americas/02honduras.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

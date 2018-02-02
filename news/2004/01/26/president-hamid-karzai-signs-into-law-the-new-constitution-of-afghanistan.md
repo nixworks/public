@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/26/president-hamid-karzai-signs-into-law-the-new-constitution-of-afghanistan.html)  [JSON](/news/2004/01/26/president-hamid-karzai-signs-into-law-the-new-constitution-of-afghanistan.json)  [XML](/news/2004/01/26/president-hamid-karzai-signs-into-law-the-new-constitution-of-afghanistan.xml)  
+
 ### [2004-01-26](/news/2004/01/26/index.md)
 
+##### Hamid Karzai
 #  President Hamid Karzai signs into law the new constitution of Afghanistan.
 
 

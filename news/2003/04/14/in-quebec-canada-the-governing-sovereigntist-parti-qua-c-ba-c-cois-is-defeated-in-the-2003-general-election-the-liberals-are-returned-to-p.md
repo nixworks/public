@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/14/in-quebec-canada-the-governing-sovereigntist-parti-qua-c-ba-c-cois-is-defeated-in-the-2003-general-election-the-liberals-are-returned-to-p.html)  [JSON](/news/2003/04/14/in-quebec-canada-the-governing-sovereigntist-parti-qua-c-ba-c-cois-is-defeated-in-the-2003-general-election-the-liberals-are-returned-to-p.json)  [XML](/news/2003/04/14/in-quebec-canada-the-governing-sovereigntist-parti-qua-c-ba-c-cois-is-defeated-in-the-2003-general-election-the-liberals-are-returned-to-p.xml)  
+
 ### [2003-04-14](/news/2003/04/14/index.md)
 
+##### Quebec
 #  In Quebec, Canada, the governing sovereigntist "Parti Quebecois" is defeated in the 2003 general election. The Liberals are returned to power after nine years, and Jean Charest becomes the new premier.
 
 

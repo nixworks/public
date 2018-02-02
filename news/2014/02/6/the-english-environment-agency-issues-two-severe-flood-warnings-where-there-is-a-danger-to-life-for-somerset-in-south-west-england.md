@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/6/the-english-environment-agency-issues-two-severe-flood-warnings-where-there-is-a-danger-to-life-for-somerset-in-south-west-england.html)  [JSON](/news/2014/02/6/the-english-environment-agency-issues-two-severe-flood-warnings-where-there-is-a-danger-to-life-for-somerset-in-south-west-england.json)  [XML](/news/2014/02/6/the-english-environment-agency-issues-two-severe-flood-warnings-where-there-is-a-danger-to-life-for-somerset-in-south-west-england.xml)  
+
 ### [2014-02-6](/news/2014/02/6/index.md)
 
+##### English
 # The English Environment Agency issues two severe flood warnings where there is a "danger to life" for Somerset in South West England. 
 
 Royal Marines are deployed to help with the sandbagging of properties at risk from flooding on the Somerset Levels.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-somerset-26062799)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72769000/jpg/_72769873_72769872.jpg)

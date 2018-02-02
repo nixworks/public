@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/06/21/author-josa-c-eduardo-agualusa-wins-the-international-dublin-literary-award-for-his-novel-a-general-theory-of-oblivion.html)  [JSON](/news/2017/06/21/author-josa-c-eduardo-agualusa-wins-the-international-dublin-literary-award-for-his-novel-a-general-theory-of-oblivion.json)  [XML](/news/2017/06/21/author-josa-c-eduardo-agualusa-wins-the-international-dublin-literary-award-for-his-novel-a-general-theory-of-oblivion.xml)  
+
 ### [2017-06-21](/news/2017/06/21/index.md)
 
+##### Jose Eduardo Agualusa
 # Author Jose Eduardo Agualusa wins the International Dublin Literary Award for his novel "A General Theory of Oblivion". (
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Irish Times](https://www.irishtimes.com/culture/books/josé-eduardo-agualusa-wins-100-000-international-dublin-literary-award-1.3127773?mode=amp)
 

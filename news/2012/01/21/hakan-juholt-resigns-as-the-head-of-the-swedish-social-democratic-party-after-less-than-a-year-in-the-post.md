@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/21/hakan-juholt-resigns-as-the-head-of-the-swedish-social-democratic-party-after-less-than-a-year-in-the-post.html)  [JSON](/news/2012/01/21/hakan-juholt-resigns-as-the-head-of-the-swedish-social-democratic-party-after-less-than-a-year-in-the-post.json)  [XML](/news/2012/01/21/hakan-juholt-resigns-as-the-head-of-the-swedish-social-democratic-party-after-less-than-a-year-in-the-post.xml)  
+
 ### [2012-01-21](/news/2012/01/21/index.md)
 
+##### Hkan Juholt
 # Hkan Juholt resigns as the head of the Swedish Social Democratic Party, after less than a year in the post. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aftonbladet](http://www.aftonbladet.se/nyheter/article14247180.ab)
 

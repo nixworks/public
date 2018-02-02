@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/22/egyptian-police-shoot-two-african-migrants-dead-as-they-attempt-to-cross-the-border-into-israel.html)  [JSON](/news/2012/01/22/egyptian-police-shoot-two-african-migrants-dead-as-they-attempt-to-cross-the-border-into-israel.json)  [XML](/news/2012/01/22/egyptian-police-shoot-two-african-migrants-dead-as-they-attempt-to-cross-the-border-into-israel.xml)  
+
 ### [2012-01-22](/news/2012/01/22/index.md)
 
+##### Egypt
 # Egyptian police shoot two African migrants dead as they attempt to cross the border into Israel. 
 
 Egyptian police say they intercepted and killed two African migrants who were apparently trying to sneak across the Israeli border in Sinai during the weekend.
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2012/01/22/Egypt-kills-two-migrants-entering-Israel/UPI-37051327245058/)
 

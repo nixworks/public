@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/11/2/competing-software-manufacturers-microsoft-and-novell-hold-a-http-www-novell-com-linux-microsoft-webcast-html-press-conference-to-http.html)  [JSON](/news/2006/11/2/competing-software-manufacturers-microsoft-and-novell-hold-a-http-www-novell-com-linux-microsoft-webcast-html-press-conference-to-http.json)  [XML](/news/2006/11/2/competing-software-manufacturers-microsoft-and-novell-hold-a-http-www-novell-com-linux-microsoft-webcast-html-press-conference-to-http.xml)  
+
 ### [2006-11-2](/news/2006/11/2/index.md)
 
+##### Microsoft
 #  Competing software manufacturers Microsoft and Novell hold a [http:--www.novell.com-linux-microsoft-webcast.html press conference] to [http:--www.microsoft.com-presspass-press-2006-nov06-11-02MSNovellPR.mspx announce a collaboration] on technologies for inter operation between Microsoft's Windows and Novell's SUSE Linux operating systems.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/12/the-corpse-of-missing-10-year-old-australian-girl-zahra-baker-is-found-in-caldwell-county-in-the-u-s-state-of-north-carolina-her-father-an.html)  [JSON](/news/2010/11/12/the-corpse-of-missing-10-year-old-australian-girl-zahra-baker-is-found-in-caldwell-county-in-the-u-s-state-of-north-carolina-her-father-an.json)  [XML](/news/2010/11/12/the-corpse-of-missing-10-year-old-australian-girl-zahra-baker-is-found-in-caldwell-county-in-the-u-s-state-of-north-carolina-her-father-an.xml)  
+
 ### [2010-11-12](/news/2010/11/12/index.md)
 
+##### Australia
 # The corpse of missing 10-year-old Australian girl Zahra Baker is found in Caldwell County in the U.S. state of North Carolina; her father and stepmother, Adam and Elisa Baker, are the main suspects in her disappearance and homicide. 
 
 The human remains found in North Carolina Wednesday were confirmed to be those of missing Australian 10-year-old Zahra Baker, WCNC-TV reported Friday, citing a source close to the investigation.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/us/2010/11/12/remains-north-carolina-reportedly-confirmed-missing-girl/)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

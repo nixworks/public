@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/25/statues-of-4-chinese-leaders-mao-zedong-deng-xiaoping-jiang-zemin-hu-jintao-are-unveiled-in-sichuan.html)  [JSON](/news/2010/06/25/statues-of-4-chinese-leaders-mao-zedong-deng-xiaoping-jiang-zemin-hu-jintao-are-unveiled-in-sichuan.json)  [XML](/news/2010/06/25/statues-of-4-chinese-leaders-mao-zedong-deng-xiaoping-jiang-zemin-hu-jintao-are-unveiled-in-sichuan.xml)  
+
 ### [2010-06-25](/news/2010/06/25/index.md)
 
+##### Mao Zedong
 # Statues of 4 Chinese leaders, Mao Zedong, Deng Xiaoping, Jiang Zemin, Hu Jintao, are unveiled in Sichuan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Global Times](http://china.globaltimes.cn/day-photo/2010-06/545676_4.html)
 

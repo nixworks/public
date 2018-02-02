@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/10/godfather-of-soul-james-brown-is-diagnosed-with-prostate-cancer-and-will-undergo-surgery-next-week.html)  [JSON](/news/2004/12/10/godfather-of-soul-james-brown-is-diagnosed-with-prostate-cancer-and-will-undergo-surgery-next-week.json)  [XML](/news/2004/12/10/godfather-of-soul-james-brown-is-diagnosed-with-prostate-cancer-and-will-undergo-surgery-next-week.xml)  
+
 ### [2004-12-10](/news/2004/12/10/index.md)
 
+##### James Brown
 #  "Godfather of Soul" James Brown is diagnosed with prostate cancer and will undergo surgery next week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/entertainment/music/4085565.stm)
 

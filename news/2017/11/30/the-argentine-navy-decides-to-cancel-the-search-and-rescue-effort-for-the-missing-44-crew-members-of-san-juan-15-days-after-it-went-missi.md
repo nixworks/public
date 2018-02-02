@@ -3,14 +3,16 @@ Formats: [HTML](/news/2017/11/30/the-argentine-navy-decides-to-cancel-the-search
 
 ### [2017-11-30](/news/2017/11/30/index.md)
 
+##### Disappearance of ARA San Juan
 # The Argentine Navy decides to cancel the search and rescue effort for the missing 44 crew members of "San Juan", 15 days after it went missing, in order to focus on the search for the submarine itself. 
 
-
+Argentina&#039;s navy says it has called off a rescue mission for the crew of missing submarine ARA San Juan that went missing two weeks ago a few hundred kilometres off the coast of Argentina. The search for the vessel itself will continue. Navy spokesman Enrique Balbi said that the rescue mission for the 44 crew members &quot;extended for more than twice what is estimated for a rescue.&quot;
 
 
 ### Sources:
 
 1. [Reuters via ''The Independent](https://www.independent.co.uk/news/world/americas/ara-san-juan-latest-submarine-argentina-search-rescue-crew-over-news-a8085911.html)
+1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/11/30/22/argentina-submarine.jpg)
 
 ### Related:
 

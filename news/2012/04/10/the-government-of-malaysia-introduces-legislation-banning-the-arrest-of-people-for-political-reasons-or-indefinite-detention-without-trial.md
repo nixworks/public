@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/10/the-government-of-malaysia-introduces-legislation-banning-the-arrest-of-people-for-political-reasons-or-indefinite-detention-without-trial.html)  [JSON](/news/2012/04/10/the-government-of-malaysia-introduces-legislation-banning-the-arrest-of-people-for-political-reasons-or-indefinite-detention-without-trial.json)  [XML](/news/2012/04/10/the-government-of-malaysia-introduces-legislation-banning-the-arrest-of-people-for-political-reasons-or-indefinite-detention-without-trial.xml)  
+
 ### [2012-04-10](/news/2012/04/10/index.md)
 
+##### Government of Malaysia
 # The Government of Malaysia introduces legislation banning the arrest of people for political reasons or indefinite detention without trial. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Boston Globe](http://www.boston.com/news/world/asia/articles/2012/04/10/malaysia_to_end_indefinite_detention_without_trial/)
 

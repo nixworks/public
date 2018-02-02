@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/6/fiji-reintroduces-martial-law.html)  [JSON](/news/2007/09/6/fiji-reintroduces-martial-law.json)  [XML](/news/2007/09/6/fiji-reintroduces-martial-law.xml)  
+
 ### [2007-09-6](/news/2007/09/6/index.md)
 
+##### Fiji
 #  Fiji reintroduces martial law. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NZ Herald](http://www.nzherald.co.nz/section/2/story.cfm?c_id=2&objectid=10462047)
 

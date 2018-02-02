@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/25/as-the-leveson-inquiry-releases-emails-exchanged-between-uk-secretary-of-state-for-culture-media-and-sport-jeremy-hunt-and-news-corporation.html)  [JSON](/news/2012/05/25/as-the-leveson-inquiry-releases-emails-exchanged-between-uk-secretary-of-state-for-culture-media-and-sport-jeremy-hunt-and-news-corporation.json)  [XML](/news/2012/05/25/as-the-leveson-inquiry-releases-emails-exchanged-between-uk-secretary-of-state-for-culture-media-and-sport-jeremy-hunt-and-news-corporation.xml)  
+
 ### [2012-05-25](/news/2012/05/25/index.md)
 
+##### Leveson Inquiry
 # As the Leveson Inquiry releases emails exchanged between UK Secretary of State for Culture, Media and Sport Jeremy Hunt and News Corporation lobbyist Fred Michel, Prime Minister David Cameron says he does not regret his decision to let Hunt rule on News Corp's bid for BSkyB. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18215020)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60502000/jpg/_60502093_014849546-1.jpg)

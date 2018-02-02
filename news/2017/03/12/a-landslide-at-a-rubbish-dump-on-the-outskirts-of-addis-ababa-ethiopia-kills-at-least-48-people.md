@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/12/a-landslide-at-a-rubbish-dump-on-the-outskirts-
 
 ### [2017-03-12](/news/2017/03/12/index.md)
 
+##### Addis Ababa
 # A landslide at a rubbish dump on the outskirts of Addis Ababa, Ethiopia, kills at least 48 people. 
 
 Many had scavenged at the rubbish dump to make a living - and some even lived there permanently.

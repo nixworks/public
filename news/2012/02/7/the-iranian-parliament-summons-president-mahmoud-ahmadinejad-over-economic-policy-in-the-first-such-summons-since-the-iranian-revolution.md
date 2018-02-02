@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/7/the-iranian-parliament-summons-president-mahmoud-ahmadinejad-over-economic-policy-in-the-first-such-summons-since-the-iranian-revolution.html)  [JSON](/news/2012/02/7/the-iranian-parliament-summons-president-mahmoud-ahmadinejad-over-economic-policy-in-the-first-such-summons-since-the-iranian-revolution.json)  [XML](/news/2012/02/7/the-iranian-parliament-summons-president-mahmoud-ahmadinejad-over-economic-policy-in-the-first-such-summons-since-the-iranian-revolution.xml)  
+
 ### [2012-02-7](/news/2012/02/7/index.md)
 
+##### Iran
 # The Iranian parliament summons president Mahmoud Ahmadinejad over economic policy, in the first such summons since the Iranian Revolution. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Arabiya](http://english.alarabiya.net/articles/2012/02/07/193231.html)
 

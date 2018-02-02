@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/2/india-announces-a-new-effort-to-survey-and-decontaminate-the-area-affected-by-the-december-3-1984-bhopal-chemical-disaster.html)  [JSON](/news/2004/12/2/india-announces-a-new-effort-to-survey-and-decontaminate-the-area-affected-by-the-december-3-1984-bhopal-chemical-disaster.json)  [XML](/news/2004/12/2/india-announces-a-new-effort-to-survey-and-decontaminate-the-area-affected-by-the-december-3-1984-bhopal-chemical-disaster.xml)  
+
 ### [2004-12-2](/news/2004/12/2/index.md)
 
+##### Bhopal disaster
 # India announces a new effort to survey and decontaminate the area affected by the December 3, 1984, Bhopal chemical disaster. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/4060849.stm)
 

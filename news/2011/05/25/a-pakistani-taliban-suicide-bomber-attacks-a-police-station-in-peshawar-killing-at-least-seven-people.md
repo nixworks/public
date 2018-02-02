@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/05/25/a-pakistani-taliban-suicide-bomber-attacks-a-police-station-in-peshawar-killing-at-least-seven-people.html)  [JSON](/news/2011/05/25/a-pakistani-taliban-suicide-bomber-attacks-a-police-station-in-peshawar-killing-at-least-seven-people.json)  [XML](/news/2011/05/25/a-pakistani-taliban-suicide-bomber-attacks-a-police-station-in-peshawar-killing-at-least-seven-people.xml)  
+
 ### [2011-05-25](/news/2011/05/25/index.md)
 
+##### Pakistani Taliban
 # A Pakistani Taliban suicide bomber attacks a police station in Peshawar, killing at least seven people. 
 
 A suicide bomber in an explosive-laden car rammed into a police station in Peshawar, Pakistan, on Wednesday in a Taliban attack that killed seven police officers and injured several others, a senior police official said.
 
 
-### Source:
+### Sources:
 
 1. [AFP via France 24](http://www.france24.com/en/20110525-suicide-bomb-kills-four-pakistan-police-station#)
-2. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20110525/wl_asia_afp/pakistanunrest)
+2. [AFP via Yahoo! News](https://news.yahoo.com/s/afp/20110525/wl_asia_afp/pakistanunrest)
 3. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/25/pakistan.violence/index.html)
 3. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/05/25/pakistan.violence/tzvids.pakistan.blast.gi.jpg)
 

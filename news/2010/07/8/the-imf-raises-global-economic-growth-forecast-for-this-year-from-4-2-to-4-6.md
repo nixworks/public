@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/8/the-imf-raises-global-economic-growth-forecast-for-this-year-from-4-2-to-4-6.html)  [JSON](/news/2010/07/8/the-imf-raises-global-economic-growth-forecast-for-this-year-from-4-2-to-4-6.json)  [XML](/news/2010/07/8/the-imf-raises-global-economic-growth-forecast-for-this-year-from-4-2-to-4-6.xml)  
+
 ### [2010-07-8](/news/2010/07/8/index.md)
 
+##### International Monetary Fund
 # The IMF raises global economic growth forecast for this year from 4.2% to 4.6%. 
 
 The International Monetary Fund raises its world economic growth forecast for 2010 from 4.2% to 4.6%, but downgrades the UK.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/business/10549770.stm)
 2. [Business Week](http://www.businessweek.com/news/2010-07-08/copper-advances-on-imf-growth-forecast-contracting-stockpiles.html)

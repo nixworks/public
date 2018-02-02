@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/10/fijian-president-ratu-josefa-iloilo-abrogates-the-constitution-and-dismisses-the-court-of-appeal.html)  [JSON](/news/2009/04/10/fijian-president-ratu-josefa-iloilo-abrogates-the-constitution-and-dismisses-the-court-of-appeal.json)  [XML](/news/2009/04/10/fijian-president-ratu-josefa-iloilo-abrogates-the-constitution-and-dismisses-the-court-of-appeal.xml)  
+
 ### [2009-04-10](/news/2009/04/10/index.md)
 
+##### Fiji
 #  Fijian President Ratu Josefa Iloilo abrogates the Constitution and dismisses the Court of Appeal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New Zealand Stuff](http://www.stuff.co.nz/world/south-pacific/2327182/Fiji-president-fires-all-judges)
 1. [Cover Image](https://static2.stuff.co.nz/1239347824/336/2328336.jpg)

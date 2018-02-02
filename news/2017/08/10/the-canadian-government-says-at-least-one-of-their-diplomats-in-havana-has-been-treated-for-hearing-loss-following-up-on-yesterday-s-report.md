@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/08/10/the-canadian-government-says-at-least-one-of-their-diplomats-in-havana-has-been-treated-for-hearing-loss-following-up-on-yesterday-s-report.html)  [JSON](/news/2017/08/10/the-canadian-government-says-at-least-one-of-their-diplomats-in-havana-has-been-treated-for-hearing-loss-following-up-on-yesterday-s-report.json)  [XML](/news/2017/08/10/the-canadian-government-says-at-least-one-of-their-diplomats-in-havana-has-been-treated-for-hearing-loss-following-up-on-yesterday-s-report.xml)  
+
 ### [2017-08-10](/news/2017/08/10/index.md)
 
+##### Canada-Cuba relations
 # The Canadian government says at least one of their diplomats in Havana has been treated for hearing loss, following up on yesterday's report that American diplomats had similar injuries. U.S. officials say the problems started in the fall of 2016. The Cuban Foreign Ministry says it was informed of the incidents in February and has been investigating since that time. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Time](http://time.com/4896456/canada-diplomat-cuba-hearing-loss-sonic-device/)
 

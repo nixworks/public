@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/5/the-chinese-embassy-in-oslo-implicitly-warns-foreign-diplomats-not-to-attend-the-nobel-peace-prize-award-ceremony-for-liu-xiaobo.html)  [JSON](/news/2010/11/5/the-chinese-embassy-in-oslo-implicitly-warns-foreign-diplomats-not-to-attend-the-nobel-peace-prize-award-ceremony-for-liu-xiaobo.json)  [XML](/news/2010/11/5/the-chinese-embassy-in-oslo-implicitly-warns-foreign-diplomats-not-to-attend-the-nobel-peace-prize-award-ceremony-for-liu-xiaobo.xml)  
+
 ### [2010-11-5](/news/2010/11/5/index.md)
 
+##### China
 # The Chinese embassy in Oslo implicitly warns foreign diplomats not to attend the Nobel Peace Prize award ceremony for Liu Xiaobo. 
 
 China warns that there will be &quot;consequences&quot; if governments show support for jailed Nobel peace laureate Liu Xiaobo.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11701725)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/48333000/gif/_48333888_bn-448x252.gif)

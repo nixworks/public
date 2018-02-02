@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/9/baghdad-falls-to-coalition-forces-american-infantrymen-seize-deserted-ba-ath-party-ministries-and-pull-down-a-huge-iron-statue-of-saddam-h.html)  [JSON](/news/2003/04/9/baghdad-falls-to-coalition-forces-american-infantrymen-seize-deserted-ba-ath-party-ministries-and-pull-down-a-huge-iron-statue-of-saddam-h.json)  [XML](/news/2003/04/9/baghdad-falls-to-coalition-forces-american-infantrymen-seize-deserted-ba-ath-party-ministries-and-pull-down-a-huge-iron-statue-of-saddam-h.xml)  
+
 ### [2003-04-9](/news/2003/04/9/index.md)
 
+##### Baghdad
 #  Baghdad falls to coalition forces. American infantrymen seize deserted Ba'ath Party ministries and pull down a huge iron statue of Saddam Hussein at the Firdos Square in front of the Palestine Hotel, as a symbolic ending his autocratic rule of Iraq. Baghdad citizens then dragged the severed head of the statue through the streets of the city. Dozens of people there cheer U.S. soldiers, according to BBC. Much looting of cars and buildings is seen in Baghdad and other cities as the government and police lost control.
 
 

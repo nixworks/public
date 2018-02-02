@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/1/benazir-bhutto-leaves-karachi-for-united-arab-emirates-amidst-speculations-that-president-pervez-musharraf-might-impose-martial-law-in-paki.html)  [JSON](/news/2007/11/1/benazir-bhutto-leaves-karachi-for-united-arab-emirates-amidst-speculations-that-president-pervez-musharraf-might-impose-martial-law-in-paki.json)  [XML](/news/2007/11/1/benazir-bhutto-leaves-karachi-for-united-arab-emirates-amidst-speculations-that-president-pervez-musharraf-might-impose-martial-law-in-paki.xml)  
+
 ### [2007-11-1](/news/2007/11/1/index.md)
 
+##### Benazir Bhutto
 #  Benazir Bhutto leaves Karachi for United Arab Emirates amidst speculations that President Pervez Musharraf might impose martial law in Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Dailyindia.com/ANI](http://www.dailyindia.com/show/187765.php/Bhutto-in-Dubai-as-emergency-looms-over-Pakistan)
 

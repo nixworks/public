@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/17/seventeen-people-including-the-head-of-mogadishu-s-police-force-are-killed-in-fighting-between-the-transitional-federal-government-and-al.html)  [JSON](/news/2009/06/17/seventeen-people-including-the-head-of-mogadishu-s-police-force-are-killed-in-fighting-between-the-transitional-federal-government-and-al.json)  [XML](/news/2009/06/17/seventeen-people-including-the-head-of-mogadishu-s-police-force-are-killed-in-fighting-between-the-transitional-federal-government-and-al.xml)  
+
 ### [2009-06-17](/news/2009/06/17/index.md)
 
+##### Mogadishu
 #  Seventeen people, including the head of Mogadishu's police force, are killed in fighting between the Transitional Federal Government and al-Shabaab. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g7OaI4_kjeHA-o4UhlmP7vlWmrrwD98SE2E80)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-06/17/content_11556971.htm)

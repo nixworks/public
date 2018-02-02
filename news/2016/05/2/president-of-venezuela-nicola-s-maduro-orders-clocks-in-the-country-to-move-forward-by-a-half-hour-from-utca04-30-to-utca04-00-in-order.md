@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/2/president-of-venezuela-nicola-s-maduro-orders-cl
 
 ### [2016-05-2](/news/2016/05/2/index.md)
 
+##### President
 # President of Venezuela Nicolas Maduro orders clocks in the country to move forward by a half hour from UTC[?]04:30 to UTC[?]04:00 in order to save electricity as Venezuela faces an increasing electricity shortage. While gaining a half hour of sunlight, this means Venezuelans will now lose a half hour of sleep. 
 
 Clocks moved forward by half an hour to restrict use of lighting and power as country grapples with economic crisis

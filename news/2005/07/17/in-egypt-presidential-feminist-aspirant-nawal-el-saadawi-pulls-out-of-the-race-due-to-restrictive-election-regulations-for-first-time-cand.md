@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/17/in-egypt-presidential-feminist-aspirant-nawal-el-saadawi-pulls-out-of-the-race-due-to-restrictive-election-regulations-for-first-time-cand.html)  [JSON](/news/2005/07/17/in-egypt-presidential-feminist-aspirant-nawal-el-saadawi-pulls-out-of-the-race-due-to-restrictive-election-regulations-for-first-time-cand.json)  [XML](/news/2005/07/17/in-egypt-presidential-feminist-aspirant-nawal-el-saadawi-pulls-out-of-the-race-due-to-restrictive-election-regulations-for-first-time-cand.xml)  
+
 ### [2005-07-17](/news/2005/07/17/index.md)
 
+##### Egypt
 #  In Egypt, presidential feminist aspirant Nawal El Saadawi pulls out of the race due to restrictive election regulations for first-time candidates. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/25128CED-C5D6-48DF-BAF9-EEFCDBE2A1FA.htm)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-07-16T141408Z_01_N16704258_RTRIDST_0_INTERNATIONAL-EGYPT-PRESIDENCY-DC.XML)
@@ -13,8 +17,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Related:
 
-1. [Thirty-thousand North Korean rocket propelled grenades are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (EGBP406 million-W20 billion). ](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.md) _Context: Egypt_
-2. [Palestinian factions, Hamas and Fatah, sign a unity deal in Cairo, that is also publicly supported by the governments of Egypt and Saudi Arabia. The Fatah-controlled Palestinian National Authority (PNA), along with Israel, currently govern the West Bank. According to the signatories of the deal, the PNA will take administrative control of the Gaza Strip, and, along with Hamas, police its borders. The signatories consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. The government of Israel opposes any involvement by Hamas in a Palestinian government. ](/news/2017/10/12/palestinian-factions-hamas-and-fatah-sign-a-unity-deal-in-cairo-that-is-also-publicly-supported-by-the-governments-of-egypt-and-saudi-ara.md) _Context: Egypt_
-3. [Egypt announces the discovery of a tomb in Luxor belonging to a royal goldsmith who lived more than 3,500 years ago in the 18th Dynasty. ](/news/2017/09/9/egypt-announces-the-discovery-of-a-tomb-in-luxor-belonging-to-a-royal-goldsmith-who-lived-more-than-3-500-years-ago-in-the-18th-dynasty.md) _Context: Egypt_
-4. [Hamas, through Egyptian-mediated talks, agrees to dissolve its Gaza administration, hold talks with the Fatah West Bank government, and hold elections for a Palestinian unity government. ](/news/2017/09/17/hamas-through-egyptian-mediated-talks-agrees-to-dissolve-its-gaza-administration-hold-talks-with-the-fatah-west-bank-government-and-hold.md) _Context: Egypt_
-5. [ Militants ambush a police convoy in Egypt's Sinai Peninsula killing 18 police and wounding seven others. ](/news/2017/09/11/militants-ambush-a-police-convoy-in-egypt-s-sinai-peninsula-killing-18-police-and-wounding-seven-others.md) _Context: Egypt_
+1. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Egypt_
+2. [Archaeologists in Egypt display items, including figurines, masks and a mummy, from one of two previously unexplored tombs, Kampp 150 and Kampp 161, in the ancient Nile city of Luxor. ](/news/2017/12/9/archaeologists-in-egypt-display-items-including-figurines-masks-and-a-mummy-from-one-of-two-previously-unexplored-tombs-kampp-150-and-ka.md) _Context: Egypt_
+3. [The lawyer of Ahmed Shafiq, a candidate for the spring 2018 presidential elections in Egypt, says she met him in a hotel room in Cairo following his arrest the day before in Dubai, U.A.E., after saying earlier today that his family didn't know his whereabouts. ](/news/2017/12/3/the-lawyer-of-ahmed-shafiq-a-candidate-for-the-spring-2018-presidential-elections-in-egypt-says-she-met-him-in-a-hotel-room-in-cairo-follo.md) _Context: Egypt_
+4. [Nine people are killed in two coordinated attacks targeting Coptic Christians in Egypt. Two of the victims are killed by a gunman in a Coptic-owned appliance store in the Helwan area of Cairo. The gunman then moves to a church where he kills a further six civilians and a policeman before being arrested. ](/news/2017/12/29/nine-people-are-killed-in-two-coordinated-attacks-targeting-coptic-christians-in-egypt-two-of-the-victims-are-killed-by-a-gunman-in-a-copti.md) _Context: Egypt_
+5. [Fifteen militants accused of carrying out attacks in 2013 during the Sinai Insurgency are hanged in Egypt. The last mass execution in the country took place in 2015, when six jihadists were executed. ](/news/2017/12/26/fifteen-militants-accused-of-carrying-out-attacks-in-2013-during-the-sinai-insurgency-are-hanged-in-egypt-the-last-mass-execution-in-the-co.md) _Context: Egypt_

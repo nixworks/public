@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/23/the-strongest-earthquake-to-hit-tokyo-in-more-than-a-decade-strikes-eastern-japan-at-4-35-p-m-local-time-injuring-at-least-27-people-rat.html)  [JSON](/news/2005/07/23/the-strongest-earthquake-to-hit-tokyo-in-more-than-a-decade-strikes-eastern-japan-at-4-35-p-m-local-time-injuring-at-least-27-people-rat.json)  [XML](/news/2005/07/23/the-strongest-earthquake-to-hit-tokyo-in-more-than-a-decade-strikes-eastern-japan-at-4-35-p-m-local-time-injuring-at-least-27-people-rat.xml)  
+
 ### [2005-07-23](/news/2005/07/23/index.md)
 
+##### earthquake
 #  The strongest earthquake to hit Tokyo in more than a decade strikes eastern Japan at 4:35 p.m. local time, injuring at least 27 people, rattling buildings and disrupting train and plane services. 
 
 An earthquake with a magnitude of 6.0 shook eastern Japan, rattling buildings in Tokyo and disrupting train services.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/world/story/2005/07/23/tokyo-quake-050723.html)
 1. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)

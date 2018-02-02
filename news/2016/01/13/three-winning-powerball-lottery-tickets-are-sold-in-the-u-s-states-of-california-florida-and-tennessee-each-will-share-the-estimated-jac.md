@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/13/three-winning-powerball-lottery-tickets-are-sol
 
 ### [2016-01-13](/news/2016/01/13/index.md)
 
+##### Powerball
 # Three winning Powerball lottery tickets are sold in the U.S. states of California, Florida, and Tennessee. Each will share the estimated jackpot of US $1.6 billion dollars, the largest lottery jackpot in world history. 
 
 The Powerball jackpot was estimated at $1.6 billion on Wednesday.

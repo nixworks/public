@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/03/5/warren-buffett-ceo-of-berkshire-hathaway-is-named-the-richest-person-in-the-world-by-forbes-magazine.html)  [JSON](/news/2008/03/5/warren-buffett-ceo-of-berkshire-hathaway-is-named-the-richest-person-in-the-world-by-forbes-magazine.json)  [XML](/news/2008/03/5/warren-buffett-ceo-of-berkshire-hathaway-is-named-the-richest-person-in-the-world-by-forbes-magazine.xml)  
+
 ### [2008-03-5](/news/2008/03/5/index.md)
 
+##### Warren Buffett
 #  Warren Buffett, CEO of Berkshire Hathaway, is named the richest person in the world by "Forbes" magazine. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Forbes](http://www.forbes.com/home/billionaires/2008/03/05/buffett-worlds-richest-cx_mm_0229buffetrichest.html)
+1. [Forbes](https://www.forbes.com/home/billionaires/2008/03/05/buffett-worlds-richest-cx_mm_0229buffetrichest.html)
 
 ### Related:
 

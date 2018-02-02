@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/21/bangladeshi-police-charge-10-people-accused-of-murder-of-opposition-politician-shah-ams-kibria-member-of-awami-league-they-include-eight.html)  [JSON](/news/2005/03/21/bangladeshi-police-charge-10-people-accused-of-murder-of-opposition-politician-shah-ams-kibria-member-of-awami-league-they-include-eight.json)  [XML](/news/2005/03/21/bangladeshi-police-charge-10-people-accused-of-murder-of-opposition-politician-shah-ams-kibria-member-of-awami-league-they-include-eight.xml)  
+
 ### [2005-03-21](/news/2005/03/21/index.md)
 
+##### Bangladesh
 #  Bangladeshi police charge 10 people accused of murder of opposition politician Shah AMS Kibria, member of Awami League. They include eight members of the ruling Bangladesh Nationalist Party. Kibria was killed in a grenade attack January 27. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4367359.stm)
 2. [New Nation, Bangladesh](http://nation.ittefaq.com/artman/publish/article_17033.shtml)

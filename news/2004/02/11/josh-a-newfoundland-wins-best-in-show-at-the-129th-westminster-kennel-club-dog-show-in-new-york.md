@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/11/josh-a-newfoundland-wins-best-in-show-at-the-129th-westminster-kennel-club-dog-show-in-new-york.html)  [JSON](/news/2004/02/11/josh-a-newfoundland-wins-best-in-show-at-the-129th-westminster-kennel-club-dog-show-in-new-york.json)  [XML](/news/2004/02/11/josh-a-newfoundland-wins-best-in-show-at-the-129th-westminster-kennel-club-dog-show-in-new-york.xml)  
+
 ### [2004-02-11](/news/2004/02/11/index.md)
 
+##### Newfoundland
 #  Josh, a Newfoundland, wins Best in Show at the 129th Westminster Kennel Club Dog Show in New York.
 
 

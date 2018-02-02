@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/23/the-iraqi-government-begins-operation-breaking-
 
 ### [2016-05-23](/news/2016/05/23/index.md)
 
+##### Iraqi civil war (2014-present)
 #  The Iraqi government begins Operation Breaking Terrorism, aimed at retaking the city of Fallujah, which has been under the control of the Islamic State of Iraq and the Levant group since early 2014. 
 
 Reports of heavy shelling in city that was first to fall to ISIL in 2014 as beleaguered residents struggle to get out.
@@ -20,8 +21,8 @@ Reports of heavy shelling in city that was first to fall to ISIL in 2014 as bele
 
 ### Related:
 
-1. [According to reports, at least 250 ISIL militants were killed during fighting in the city of Fallujah while fighting Iraqi Army forces with assistance from U.S. airstrikes. ](/news/2016/06/30/according-to-reports-at-least-250-isil-militants-were-killed-during-fighting-in-the-city-of-fallujah-while-fighting-iraqi-army-forces-with.md) _Context: Fallujah, ISIL, Iraqi Civil War (2014-present)_
-2. [The United States reports 70 militants were killed, including ISIL commander Maher al-Bilawi, in a Fallujah airstrike on Wednesday. ](/news/2016/05/27/the-united-states-reports-70-militants-were-killed-including-isil-commander-maher-al-bilawi-in-a-fallujah-airstrike-on-wednesday.md) _Context: Fallujah, ISIL, Operation Breaking Terrorism_
-3. [The Iraqi Armed Forces enter the town of Al-Qa'im, close to the border with Syria. Al-Qa'im is one of the last towns in Iraq still held by ISIL. ](/news/2017/11/3/the-iraqi-armed-forces-enter-the-town-of-al-qa-im-close-to-the-border-with-syria-al-qa-im-is-one-of-the-last-towns-in-iraq-still-held-by-i.md) _Context: ISIL, Iraqi Civil War (2014-present)_
-4. [The Iraqi Armed Forces launch an offensive to recapture the last ISIL stronghold in Iraq, Rawa. ](/news/2017/11/11/the-iraqi-armed-forces-launch-an-offensive-to-recapture-the-last-isil-stronghold-in-iraq-rawa.md) _Context: ISIL, Iraqi Civil War (2014-present)_
-5. [A suicide bomber at a market in Musayyib kills 31 and wounds 35. ISIL claims responsibility. ](/news/2017/06/9/a-suicide-bomber-at-a-market-in-musayyib-kills-31-and-wounds-35-isil-claims-responsibility.md) _Context: ISIL, Iraqi Civil War (2014-present)_
+1. [The United States reports 70 militants were killed, including ISIL commander Maher al-Bilawi, in a Fallujah airstrike on Wednesday. ](/news/2016/05/27/the-united-states-reports-70-militants-were-killed-including-isil-commander-maher-al-bilawi-in-a-fallujah-airstrike-on-wednesday.md) _Context: Fallujah, ISIL, Operation Breaking Terrorism_
+2. [According to reports, at least 250 ISIL militants were killed during fighting in the city of Fallujah while fighting Iraqi Army forces with assistance from U.S. airstrikes. ](/news/2016/06/30/according-to-reports-at-least-250-isil-militants-were-killed-during-fighting-in-the-city-of-fallujah-while-fighting-iraqi-army-forces-with.md) _Context: Fallujah, ISIL_
+3. [The United Nations reports 80,000 civilians have fled Fallujah, as Iraqi Army and Shia militias retake most of the city from ISIL. ](/news/2016/06/22/the-united-nations-reports-80-000-civilians-have-fled-fallujah-as-iraqi-army-and-shia-militias-retake-most-of-the-city-from-isil.md) _Context: Fallujah, ISIL_
+4. [Iraqi security forces and Shiite Popular Mobilization Forces recapture Al-Karmah, about 16 kilometers (10 miles) northeast of Fallujah. ](/news/2016/05/26/iraqi-security-forces-and-shiite-popular-mobilization-forces-recapture-al-karmah-about-16-kilometers-10-miles-northeast-of-fallujah.md) _Context: Fallujah, Operation Breaking Terrorism_
+5. [Iraqi Army forces helped by U.S. airstrikes recapture the southwestern city of Ar-Rutbah from the Islamic State of Iraq and the Levant group. The victory will allow for the re-opening of the Baghdad-Amman highway. ](/news/2016/05/20/iraqi-army-forces-helped-by-u-s-airstrikes-recapture-the-southwestern-city-of-ar-rutbah-from-the-islamic-state-of-iraq-and-the-levant-group.md) _Context: ISIL, Iraqi civil war (2014-present)_

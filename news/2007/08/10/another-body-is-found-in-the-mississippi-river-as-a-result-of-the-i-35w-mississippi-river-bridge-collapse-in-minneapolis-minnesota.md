@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/08/10/another-body-is-found-in-the-mississippi-river-as-a-result-of-the-i-35w-mississippi-river-bridge-collapse-in-minneapolis-minnesota.html)  [JSON](/news/2007/08/10/another-body-is-found-in-the-mississippi-river-as-a-result-of-the-i-35w-mississippi-river-bridge-collapse-in-minneapolis-minnesota.json)  [XML](/news/2007/08/10/another-body-is-found-in-the-mississippi-river-as-a-result-of-the-i-35w-mississippi-river-bridge-collapse-in-minneapolis-minnesota.xml)  
+
 ### [2007-08-10](/news/2007/08/10/index.md)
 
+##### Mississippi River
 #  Another body is found in the Mississippi River as a result of the I-35W Mississippi River bridge collapse in Minneapolis, Minnesota. 
 
 Divers in Minneapolis found the remains of someone killed in the disaster, bringing the death toll in the collapse to as many as nine, with at least four others still missing.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2007/08/10/us/10cnd-bridge2.html?ex=1344398400&en=515f5c3ce0e93726&ei=5088&partner=rssnyt&emc=rss)
+1. [New York Times](https://www.nytimes.com/2007/08/10/us/10cnd-bridge2.html?ex=1344398400&en=515f5c3ce0e93726&ei=5088&partner=rssnyt&emc=rss)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

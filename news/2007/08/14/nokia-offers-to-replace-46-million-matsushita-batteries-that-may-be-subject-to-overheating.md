@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/14/nokia-offers-to-replace-46-million-matsushita-batteries-that-may-be-subject-to-overheating.html)  [JSON](/news/2007/08/14/nokia-offers-to-replace-46-million-matsushita-batteries-that-may-be-subject-to-overheating.json)  [XML](/news/2007/08/14/nokia-offers-to-replace-46-million-matsushita-batteries-that-may-be-subject-to-overheating.xml)  
+
 ### [2007-08-14](/news/2007/08/14/index.md)
 
+##### Nokia
 #  Nokia offers to replace 46 million Matsushita batteries that may be subject to overheating. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/6945593.stm)
 2. [Nokia](http://www.nokia.com/batteryreplacement)

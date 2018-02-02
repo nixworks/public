@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/06/6/french-open-gasta3n-gaudio-wins-the-men-s-singles-title-defeating-compatriot-guillermo-coria-0a6-3a6-6a4-6a1-8a6.html)  [JSON](/news/2004/06/6/french-open-gasta3n-gaudio-wins-the-men-s-singles-title-defeating-compatriot-guillermo-coria-0a6-3a6-6a4-6a1-8a6.json)  [XML](/news/2004/06/6/french-open-gasta3n-gaudio-wins-the-men-s-singles-title-defeating-compatriot-guillermo-coria-0a6-3a6-6a4-6a1-8a6.xml)  
+
 ### [2004-06-6](/news/2004/06/6/index.md)
 
+##### French Open
 #  French Open: Gaston Gaudio wins the men's singles title, defeating compatriot Guillermo Coria 0-6, 3-6, 6-4, 6-1, 8-6. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://news.yahoo.com/news?tmpl=story&u=/ap/20040606/ap_on_sp_te_ga_su/ten_french_open_211)
+1. [AP](https://news.yahoo.com/news?tmpl=story&u=/ap/20040606/ap_on_sp_te_ga_su/ten_french_open_211)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/24/the-organization-for-security-and-co-operation-in-europe-says-recent-parliamentary-elections-in-belarus-were-neither-free-nor-fair-vrt-call.html)  [JSON](/news/2012/09/24/the-organization-for-security-and-co-operation-in-europe-says-recent-parliamentary-elections-in-belarus-were-neither-free-nor-fair-vrt-call.json)  [XML](/news/2012/09/24/the-organization-for-security-and-co-operation-in-europe-says-recent-parliamentary-elections-in-belarus-were-neither-free-nor-fair-vrt-call.xml)  
+
 ### [2012-09-24](/news/2012/09/24/index.md)
 
+##### OSCE
 # The Organization for Security and Co-operation in Europe says recent parliamentary elections in Belarus were neither free nor fair. VRT calls them "a farce". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/worldNews/idAFBRE88N0F420120924)
 2. [VRT](http://www.deredactie.be/cm/vrtnieuws/buitenland/120924_Wit-Rusland_verkiezingen)

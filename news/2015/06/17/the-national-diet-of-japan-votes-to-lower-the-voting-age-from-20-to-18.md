@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/17/the-national-diet-of-japan-votes-to-lower-the-voting-age-from-20-to-18.html)  [JSON](/news/2015/06/17/the-national-diet-of-japan-votes-to-lower-the-voting-age-from-20-to-18.json)  [XML](/news/2015/06/17/the-national-diet-of-japan-votes-to-lower-the-voting-age-from-20-to-18.xml)  
+
 ### [2015-06-17](/news/2015/06/17/index.md)
 
+##### Diet
 # The National Diet of Japan votes to lower the voting age from 20 to 18. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Mainichi](http://mainichi.jp/english/english/newsselect/news/20150617p2g00m0dm047000c.html)
 

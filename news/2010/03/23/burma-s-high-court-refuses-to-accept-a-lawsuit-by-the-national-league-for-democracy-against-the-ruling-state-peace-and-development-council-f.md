@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/23/burma-s-high-court-refuses-to-accept-a-lawsuit-by-the-national-league-for-democracy-against-the-ruling-state-peace-and-development-council-f.html)  [JSON](/news/2010/03/23/burma-s-high-court-refuses-to-accept-a-lawsuit-by-the-national-league-for-democracy-against-the-ruling-state-peace-and-development-council-f.json)  [XML](/news/2010/03/23/burma-s-high-court-refuses-to-accept-a-lawsuit-by-the-national-league-for-democracy-against-the-ruling-state-peace-and-development-council-f.xml)  
+
 ### [2010-03-23](/news/2010/03/23/index.md)
 
+##### Burma
 # Burma's High Court refuses to accept a lawsuit by the National League for Democracy against the ruling State Peace and Development Council for what they allege are unfair and discriminatory election laws. 
 
 Court refuses to hear lawsuit against new election laws that bar oppositiion leaders.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jGUjn1tvCajriVjZLgty1tj8seYAD9EK6P0O0)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/03/20103236447887954.html)

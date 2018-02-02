@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/04/5/rolling-stone-magazine-retracts-a-rape-on-campus-a-discredited-story-claiming-an-alleged-gang-rape-at-the-university-of-virginia.html)  [JSON](/news/2015/04/5/rolling-stone-magazine-retracts-a-rape-on-campus-a-discredited-story-claiming-an-alleged-gang-rape-at-the-university-of-virginia.json)  [XML](/news/2015/04/5/rolling-stone-magazine-retracts-a-rape-on-campus-a-discredited-story-claiming-an-alleged-gang-rape-at-the-university-of-virginia.xml)  
+
 ### [2015-04-5](/news/2015/04/5/index.md)
 
+##### Rolling Stone
 # "Rolling Stone" magazine retracts "A Rape on Campus", a discredited story claiming an alleged gang rape at the University of Virginia. 
 
 Rolling Stone magazine has apologized and officially retracted its discredited article about an alleged gang rape at the University of Virginia.
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/americas/university-of-virginia-rolling-stone-magazine-apologises-and-retracts-discredited-rape-story-10157668.html)
+1. [The Independent](https://www.independent.co.uk/news/world/americas/university-of-virginia-rolling-stone-magazine-apologises-and-retracts-discredited-rape-story-10157668.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/04/06/01/university-of-virginia.jpg)
 
 ### Related:

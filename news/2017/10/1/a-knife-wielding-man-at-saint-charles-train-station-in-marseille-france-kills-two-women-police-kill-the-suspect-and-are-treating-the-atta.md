@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-stat
 
 ### [2017-10-1](/news/2017/10/1/index.md)
 
+##### Marseille stabbing
 # A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. 
 
 

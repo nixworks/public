@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/21/u-s-businessman-herman-cain-announces-that-he-will-be-seeking-the-republican-party-nomination-in-the-2012-u-s-presidential-election.html)  [JSON](/news/2011/05/21/u-s-businessman-herman-cain-announces-that-he-will-be-seeking-the-republican-party-nomination-in-the-2012-u-s-presidential-election.json)  [XML](/news/2011/05/21/u-s-businessman-herman-cain-announces-that-he-will-be-seeking-the-republican-party-nomination-in-the-2012-u-s-presidential-election.xml)  
+
 ### [2011-05-21](/news/2011/05/21/index.md)
 
+##### Herman Cain
 # U.S. businessman Herman Cain announces that he will be seeking the Republican Party nomination in the 2012 U.S. presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Atlanta Journal-Constitution](http://www.ajc.com/news/georgia-politics-elections/cain-to-make-presidential-952604.html)
 2. [KETV](http://www.ketv.com/r/27972403/detail.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/4/mining-giant-rio-tinto-continuing-a-program-of-asset-divestment-asks-macquarie-group-to-find-a-buyer-for-its-interest-in-the-australian-no.html)  [JSON](/news/2013/04/4/mining-giant-rio-tinto-continuing-a-program-of-asset-divestment-asks-macquarie-group-to-find-a-buyer-for-its-interest-in-the-australian-no.json)  [XML](/news/2013/04/4/mining-giant-rio-tinto-continuing-a-program-of-asset-divestment-asks-macquarie-group-to-find-a-buyer-for-its-interest-in-the-australian-no.xml)  
+
 ### [2013-04-4](/news/2013/04/4/index.md)
 
+##### Rio Tinto
 # Mining giant Rio Tinto, continuing a program of asset divestment, asks Macquarie Group to find a buyer for its interest in the Australian Northparkes copper and gold mine. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Wall Street Journal](http://online.wsj.com/article/SB10001424127887323646604578401953761467208.html)
 

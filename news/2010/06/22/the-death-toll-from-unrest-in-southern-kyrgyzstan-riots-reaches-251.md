@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/22/the-death-toll-from-unrest-in-southern-kyrgyzstan-riots-reaches-251.html)  [JSON](/news/2010/06/22/the-death-toll-from-unrest-in-southern-kyrgyzstan-riots-reaches-251.json)  [XML](/news/2010/06/22/the-death-toll-from-unrest-in-southern-kyrgyzstan-riots-reaches-251.xml)  
+
 ### [2010-06-22](/news/2010/06/22/index.md)
 
+##### Kyrgyzstan
 # The death toll from unrest in southern Kyrgyzstan riots reaches 251. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [itar-tass](http://www.itar-tass.com/eng/level2.html?NewsID=15251223&PageNum=0)
 

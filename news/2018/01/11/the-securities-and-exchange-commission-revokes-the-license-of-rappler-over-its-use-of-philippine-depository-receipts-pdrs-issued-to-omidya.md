@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/11/the-securities-and-exchange-commission-revokes-
 
 ### [2018-01-11](/news/2018/01/11/index.md)
 
+##### Media of the Philippines
 # The Securities and Exchange Commission revokes the license of Rappler over its use of Philippine Depository Receipts (PDRs) issued to Omidyar Network. The commission ruled that the provisions of the PDRs issued by Rappler to Omidyar violates constitutional restrictions on foreign ownership and control of companies. Critics of the administration of President Rodrigo Duterte condemned the move as an "attack on press freedom". 
 
 

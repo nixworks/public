@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/15/september-2007-sumatra-earthquakes-the-death-toll-rises-to-21-with-88-people-injured.html)  [JSON](/news/2007/09/15/september-2007-sumatra-earthquakes-the-death-toll-rises-to-21-with-88-people-injured.json)  [XML](/news/2007/09/15/september-2007-sumatra-earthquakes-the-death-toll-rises-to-21-with-88-people-injured.xml)  
+
 ### [2007-09-15](/news/2007/09/15/index.md)
 
+##### September 2007 Sumatra earthquakes
 #  September 2007 Sumatra earthquakes: The death toll rises to 21 with 88 people injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.alertnet.org/thenews/newsdesk/SP40512.htm)
 

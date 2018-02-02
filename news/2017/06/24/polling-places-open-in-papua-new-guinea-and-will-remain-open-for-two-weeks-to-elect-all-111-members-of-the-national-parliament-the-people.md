@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2017/06/24/polling-places-open-in-papua-new-guinea-and-will-remain-open-for-two-weeks-to-elect-all-111-members-of-the-national-parliament-the-people.html)  [JSON](/news/2017/06/24/polling-places-open-in-papua-new-guinea-and-will-remain-open-for-two-weeks-to-elect-all-111-members-of-the-national-parliament-the-people.json)  [XML](/news/2017/06/24/polling-places-open-in-papua-new-guinea-and-will-remain-open-for-two-weeks-to-elect-all-111-members-of-the-national-parliament-the-people.xml)  
+
 ### [2017-06-24](/news/2017/06/24/index.md)
 
+##### Papua New Guinean general election, 2017
 # Polling places open in Papua New Guinea, and will remain open for two weeks, to elect all 111 members of the National Parliament. The People's National Congress led by Prime Minister Peter O'Neill is considered likely to maintain a governing coalition, despite uncertainty due to lack of opinion polling. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via news.com.au](http://www.news.com.au/national/breaking-news/papua-new-guineans-head-to-the-polls/news-story/96ffc5ea6c2820dbc7f2a5b2ea21e004)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
+
+### Changes:
+
+1. [Papua New Guinean general election, 2017: Polling places open in Papua New Guinea, and will remain open for two weeks, to elect all 111 members of the National Parliament. The People's National Congress led by Prime Minister Peter O'Neill is considered likely to maintain a governing coalition, despite uncertainty due to lack of opinion polling. ](/news/2017/06/24/papua-new-guinean-general-election-2017-polling-places-open-in-papua-new-guinea-and-will-remain-open-for-two-weeks-to-elect-all-111-memb.md) _2017-08-27 03:48:33 (First version)_
+1. [Polling places open in Papua New Guinea, and will remain open for two weeks, to elect all 111 members of the National Parliament. The People's National Congress led by Prime Minister Peter O'Neill is considered likely to maintain a governing coalition, despite uncertainty due to lack of opinion polling. ](/news/2017/06/24/polling-places-open-in-papua-new-guinea-and-will-remain-open-for-two-weeks-to-elect-all-111-members-of-the-national-parliament-the-people.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +25,4 @@
 2. [Anti-government protests erupt across Papua New Guinea against Prime Minister Peter O'Neill, calling on him to resign. Papua New Guinea has been in a state of political turmoil since 2014 when the Prime Minister was accused of fraud and corruption. ](/news/2016/05/28/anti-government-protests-erupt-across-papua-new-guinea-against-prime-minister-peter-o-neill-calling-on-him-to-resign-papua-new-guinea-has.md) _Context: Papua New Guinea, Peter O'Neill, Prime Minister_
 3. [Political tension continues in Papua New Guinea with former Prime Minister Sir Michael Somare expected to be sworn in again following a ruling by the Supreme Court and incumbent PM Peter O'Neill refusing to stand aside. ](/news/2011/12/13/political-tension-continues-in-papua-new-guinea-with-former-prime-minister-sir-michael-somare-expected-to-be-sworn-in-again-following-a-ruli.md) _Context: Papua New Guinea, Peter O'Neill, Prime Minister_
 4. [Papua New Guinea student protest leader Noel Anjo says demonstrations will continue despite the court order barring protests. "The students are not going to give up until and unless the prime minister resigns or surrenders himself to police and is arrested and charged," Anjo said. ](/news/2016/06/9/papua-new-guinea-student-protest-leader-noel-anjo-says-demonstrations-will-continue-despite-the-court-order-barring-protests-the-students.md) _Context: Papua New Guinea, Peter O'Neill_
-5. [Police open fire on University of Papua New Guinea students in Port Moresby protesting against the government of Prime Minister Peter O'Neill. Four people have been killed and seven injured. However, according to the police, nobody was killed while a university spokesperson claims police only fired tear gas. ](/news/2016/06/8/police-open-fire-on-university-of-papua-new-guinea-students-in-port-moresby-protesting-against-the-government-of-prime-minister-peter-o-neil.md) _Context: Peter O'Neill, Prime Minister_
-
-### Changes:
-
-1. [Papua New Guinean general election, 2017: Polling places open in Papua New Guinea, and will remain open for two weeks, to elect all 111 members of the National Parliament. The People's National Congress led by Prime Minister Peter O'Neill is considered likely to maintain a governing coalition, despite uncertainty due to lack of opinion polling. ](/news/2017/06/24/papua-new-guinean-general-election-2017-polling-places-open-in-papua-new-guinea-and-will-remain-open-for-two-weeks-to-elect-all-111-memb.md) _2017-08-27 03:48:33 (First version)_
-1. [Polling places open in Papua New Guinea, and will remain open for two weeks, to elect all 111 members of the National Parliament. The People's National Congress led by Prime Minister Peter O'Neill is considered likely to maintain a governing coalition, despite uncertainty due to lack of opinion polling. ](/news/2017/06/24/polling-places-open-in-papua-new-guinea-and-will-remain-open-for-two-weeks-to-elect-all-111-members-of-the-national-parliament-the-people.md) _(Current version)_
+5. [The Prime Minister of Papua New Guinea Peter O'Neill states that the Manus Island Regional Processing Centre will be closed following the ruling of the Supreme Court and that he will ask the Australian Government to make alternative arrangements for the asylum seekers detained there. ](/news/2016/04/27/the-prime-minister-of-papua-new-guinea-peter-o-neill-states-that-the-manus-island-regional-processing-centre-will-be-closed-following-the-ru.md) _Context: Peter O'Neill, Prime Minister_

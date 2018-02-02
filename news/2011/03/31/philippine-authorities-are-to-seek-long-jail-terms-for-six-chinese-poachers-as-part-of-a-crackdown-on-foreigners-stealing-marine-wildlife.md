@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/31/philippine-authorities-are-to-seek-long-jail-terms-for-six-chinese-poachers-as-part-of-a-crackdown-on-foreigners-stealing-marine-wildlife.html)  [JSON](/news/2011/03/31/philippine-authorities-are-to-seek-long-jail-terms-for-six-chinese-poachers-as-part-of-a-crackdown-on-foreigners-stealing-marine-wildlife.json)  [XML](/news/2011/03/31/philippine-authorities-are-to-seek-long-jail-terms-for-six-chinese-poachers-as-part-of-a-crackdown-on-foreigners-stealing-marine-wildlife.xml)  
+
 ### [2011-03-31](/news/2011/03/31/index.md)
 
+##### Philippine
 # Philippine authorities are to seek long jail terms for six Chinese poachers as part of a crackdown on foreigners stealing marine wildlife. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sin Chew Jit Poh](http://www.mysinchew.com/node/55440)
 1. [Cover Image](http://www.mysinchew.com/sites/all/themes/mysinchewv2/img/mysinchew_logo_fbv1.jpg)

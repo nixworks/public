@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-eleme
 
 ### [2018-01-7](/news/2018/01/7/index.md)
 
+##### Education in Iran
 # Iran enforces a ban on teaching English in elementary schools. 
 
 The government of Iran has forbidden English lessons for all primary schools after a week of unrest blamed on foreign agents. Ayatollah Khamenei has called English part of a &quot;cultural invasion&quot; by the West.

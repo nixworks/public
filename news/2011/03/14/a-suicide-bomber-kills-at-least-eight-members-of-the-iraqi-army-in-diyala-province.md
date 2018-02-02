@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/14/a-suicide-bomber-kills-at-least-eight-members-of-the-iraqi-army-in-diyala-province.html)  [JSON](/news/2011/03/14/a-suicide-bomber-kills-at-least-eight-members-of-the-iraqi-army-in-diyala-province.json)  [XML](/news/2011/03/14/a-suicide-bomber-kills-at-least-eight-members-of-the-iraqi-army-in-diyala-province.xml)  
+
 ### [2011-03-14](/news/2011/03/14/index.md)
 
+##### suicide bomber
 # A suicide bomber kills at least eight members of the Iraqi Army in Diyala Province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''The Guardian](http://www.guardian.co.uk/world/2011/mar/14/iraq-car-bomb-soldiers)
 

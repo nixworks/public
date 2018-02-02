@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/29/at-least-12-philippine-army-soldiers-die-in-cla
 
 ### [2016-08-29](/news/2016/08/29/index.md)
 
+##### Moro conflict
 # At least 12 Philippine Army soldiers die in clashes with the Abu Sayyaf. 
 
 At least 12 soldiers from the Philippines have died during heavy fighting with Abu Sayyaf militants in the south, the military says.

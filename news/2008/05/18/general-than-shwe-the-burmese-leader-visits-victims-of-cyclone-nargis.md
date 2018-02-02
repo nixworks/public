@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/18/general-than-shwe-the-burmese-leader-visits-victims-of-cyclone-nargis.html)  [JSON](/news/2008/05/18/general-than-shwe-the-burmese-leader-visits-victims-of-cyclone-nargis.json)  [XML](/news/2008/05/18/general-than-shwe-the-burmese-leader-visits-victims-of-cyclone-nargis.xml)  
+
 ### [2008-05-18](/news/2008/05/18/index.md)
 
+##### General Than Shwe
 #  General Than Shwe, the Burmese leader, visits victims of Cyclone Nargis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7407353.stm)
 

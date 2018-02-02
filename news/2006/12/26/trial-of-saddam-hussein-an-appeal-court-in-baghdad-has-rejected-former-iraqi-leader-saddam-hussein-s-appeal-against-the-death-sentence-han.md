@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/26/trial-of-saddam-hussein-an-appeal-court-in-baghdad-has-rejected-former-iraqi-leader-saddam-hussein-s-appeal-against-the-death-sentence-han.html)  [JSON](/news/2006/12/26/trial-of-saddam-hussein-an-appeal-court-in-baghdad-has-rejected-former-iraqi-leader-saddam-hussein-s-appeal-against-the-death-sentence-han.json)  [XML](/news/2006/12/26/trial-of-saddam-hussein-an-appeal-court-in-baghdad-has-rejected-former-iraqi-leader-saddam-hussein-s-appeal-against-the-death-sentence-han.xml)  
+
 ### [2006-12-26](/news/2006/12/26/index.md)
 
+##### Trial of Saddam Hussein
 #  Trial of Saddam Hussein: An appeal court in Baghdad has rejected former Iraqi leader Saddam Hussein's appeal against the death sentence handed down on November 5 for the 1982 killings of Shias in Dujail. By Iraqi law, the execution by hanging has to be carried out within 30 days after the announcement of the rejection. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/middle_east/6210245.stm)
 

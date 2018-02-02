@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/24/the-government-of-djibouti-has-said-that-the-country-will-have-to-go-to-war-with-eritrea-unless-the-united-nations-acts-to-resolve-growing.html)  [JSON](/news/2008/10/24/the-government-of-djibouti-has-said-that-the-country-will-have-to-go-to-war-with-eritrea-unless-the-united-nations-acts-to-resolve-growing.json)  [XML](/news/2008/10/24/the-government-of-djibouti-has-said-that-the-country-will-have-to-go-to-war-with-eritrea-unless-the-united-nations-acts-to-resolve-growing.xml)  
+
 ### [2008-10-24](/news/2008/10/24/index.md)
 
+##### government
 #  The government of Djibouti has said that the country will have to go to war with Eritrea unless the United Nations acts to resolve growing tension over a border dispute. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ (BBC News](http://news.bbc.co.uk/2/hi/africa/7687503.stm)
 

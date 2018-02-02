@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/9/protesters-and-riot-police-clash-for-the-third-night-in-a-row-in-montreal-near-the-grand-prix-events-on-the-corner-of-sainte-catherine-and-c.html)  [JSON](/news/2012/06/9/protesters-and-riot-police-clash-for-the-third-night-in-a-row-in-montreal-near-the-grand-prix-events-on-the-corner-of-sainte-catherine-and-c.json)  [XML](/news/2012/06/9/protesters-and-riot-police-clash-for-the-third-night-in-a-row-in-montreal-near-the-grand-prix-events-on-the-corner-of-sainte-catherine-and-c.xml)  
+
 ### [2012-06-9](/news/2012/06/9/index.md)
 
+##### student protests
 # Protesters and riot police clash for the third night in a row in Montreal near the Grand Prix events on the corner of Sainte-Catherine and Crescent. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/montreal/story/2012/06/09/montreal-f1-protests-continue.html)
 2. [Radio-Canada](http://www.lapresse.ca/actualites/dossiers/conflit-etudiant/201206/09/01-4533389-haute-tension-au-centre-ville.php)

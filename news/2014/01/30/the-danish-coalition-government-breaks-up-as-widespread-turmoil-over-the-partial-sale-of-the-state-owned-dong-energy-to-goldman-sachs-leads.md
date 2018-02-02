@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/30/the-danish-coalition-government-breaks-up-as-widespread-turmoil-over-the-partial-sale-of-the-state-owned-dong-energy-to-goldman-sachs-leads.html)  [JSON](/news/2014/01/30/the-danish-coalition-government-breaks-up-as-widespread-turmoil-over-the-partial-sale-of-the-state-owned-dong-energy-to-goldman-sachs-leads.json)  [XML](/news/2014/01/30/the-danish-coalition-government-breaks-up-as-widespread-turmoil-over-the-partial-sale-of-the-state-owned-dong-energy-to-goldman-sachs-leads.xml)  
+
 ### [2014-01-30](/news/2014/01/30/index.md)
 
+##### Danish coalition government
 # The Danish coalition government breaks up as widespread turmoil over the partial sale of the state-owned DONG Energy to Goldman Sachs leads to the withdrawal of the Socialist People's Party. 
 
 Disagreement over DONG sale spells doom for coalition. SF leaves government, Vilhelmsen steps down
 
 
-### Source:
+### Sources:
 
 1. [Copenhagen Post](http://cphpost.dk/news/sf-leaves-government-vilhelmsen-steps-down.8476.html)
 1. [Cover Image](http://cphpost.dk/wp-content/themes/cphpostssb/images/logo.png)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/18/taiwanese-universities-announce-they-will-admit-mainland-chinese-students-for-the-first-time-next-year.html)  [JSON](/news/2009/11/18/taiwanese-universities-announce-they-will-admit-mainland-chinese-students-for-the-first-time-next-year.json)  [XML](/news/2009/11/18/taiwanese-universities-announce-they-will-admit-mainland-chinese-students-for-the-first-time-next-year.xml)  
+
 ### [2009-11-18](/news/2009/11/18/index.md)
 
+##### Taiwan
 #  Taiwanese universities announce they will admit mainland Chinese students for the first time next year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iaZF8q1rj96RQAxy5ifvnUofRPAQ)
 2. [China Daily](http://www.chinadaily.com.cn/china/2009-11/18/content_8997049.htm)

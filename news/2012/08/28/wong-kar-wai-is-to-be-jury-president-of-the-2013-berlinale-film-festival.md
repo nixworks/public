@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/28/wong-kar-wai-is-to-be-jury-president-of-the-2013-berlinale-film-festival.html)  [JSON](/news/2012/08/28/wong-kar-wai-is-to-be-jury-president-of-the-2013-berlinale-film-festival.json)  [XML](/news/2012/08/28/wong-kar-wai-is-to-be-jury-president-of-the-2013-berlinale-film-festival.xml)  
+
 ### [2012-08-28](/news/2012/08/28/index.md)
 
+##### Wong Kar-wai
 # Wong Kar-wai is to be jury president of the 2013 Berlinale film festival. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/entertainment/2012-08/28/c_131813533.htm)
 

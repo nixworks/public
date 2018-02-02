@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/7/a-pakistani-lawyers-group-in-lahore-threatens-to-burn-alive-anyone-who-prosecutes-lawyer-accused-of-murdering-a-12-year-old-servant-girl.html)  [JSON](/news/2010/02/7/a-pakistani-lawyers-group-in-lahore-threatens-to-burn-alive-anyone-who-prosecutes-lawyer-accused-of-murdering-a-12-year-old-servant-girl.json)  [XML](/news/2010/02/7/a-pakistani-lawyers-group-in-lahore-threatens-to-burn-alive-anyone-who-prosecutes-lawyer-accused-of-murdering-a-12-year-old-servant-girl.xml)  
+
 ### [2010-02-7](/news/2010/02/7/index.md)
 
+##### Pakistan
 # A Pakistani lawyers' group in Lahore threatens to "burn alive" anyone who prosecutes lawyer accused of murdering a 12-year-old servant girl. 
 
 No lawyer comes forward to defend Shazia Bashir, the servant girl murdered by her employer. The powerful association of lawyers in Lahore, arrayed in defence of the murderer, launches death threats and prevents access to the Court. Christian Association condemns this new form of terrorism. 
 
 
-### Source:
+### Sources:
 
 1. [Asia News](http://www.asianews.it/news-en/Lahore,-Muslim-lawyers-will-burn-alive-anyone-who-defends-murdered-12-year-old-Christian-17559.html)
 1. [Cover Image](http://www.asianews.it/files/img/PAKISTAN__avvocati_scalmanatiok.jpg)

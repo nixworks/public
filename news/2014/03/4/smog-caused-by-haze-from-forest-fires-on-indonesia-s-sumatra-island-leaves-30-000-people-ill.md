@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/4/smog-caused-by-haze-from-forest-fires-on-indonesia-s-sumatra-island-leaves-30-000-people-ill.html)  [JSON](/news/2014/03/4/smog-caused-by-haze-from-forest-fires-on-indonesia-s-sumatra-island-leaves-30-000-people-ill.json)  [XML](/news/2014/03/4/smog-caused-by-haze-from-forest-fires-on-indonesia-s-sumatra-island-leaves-30-000-people-ill.xml)  
+
 ### [2014-03-4](/news/2014/03/4/index.md)
 
+##### Indonesia
 # Smog caused by haze from forest fires on Indonesia's Sumatra island leaves 30,000 people ill. 
 
 SMOG from forest and brush fires on Indonesia’s Sumatra island has triggered respiratory problems in more than 30,000 people, an official says.
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/world/asia/smog-leaves-30000-ill-in-indonesias-sumatra-island/story-fnh81fz8-1226844881879)
 1. [Cover Image](http://api.news.com.au/content/1.0/newscomau/images/1226844881794?format=jpg)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/10/20/ubuntu-released-its-first-version-of-the-linux-operating-system-called-warty-warthog-4-10-it-is-based-on-the-linux-distribution-debian.html)  [JSON](/news/2004/10/20/ubuntu-released-its-first-version-of-the-linux-operating-system-called-warty-warthog-4-10-it-is-based-on-the-linux-distribution-debian.json)  [XML](/news/2004/10/20/ubuntu-released-its-first-version-of-the-linux-operating-system-called-warty-warthog-4-10-it-is-based-on-the-linux-distribution-debian.xml)  
+
 ### [2004-10-20](/news/2004/10/20/index.md)
 
+##### Ubuntu
 #  Ubuntu released its first version of the Linux operating system, called Warty Warthog (4.10). It is based on the Linux distribution Debian.
 
 

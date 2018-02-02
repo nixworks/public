@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/12/heavy-rain-on-the-gulf-coast-of-the-united-stat
 
 ### [2016-08-12](/news/2016/08/12/index.md)
 
+##### Gulf Coast of the United States
 # Heavy rain on the Gulf Coast of the United States causes floods in the state of Louisiana and the southern part of Mississippi with one person drowning. 
 
 Here are the latest details from flooding along the Gulf Coast.

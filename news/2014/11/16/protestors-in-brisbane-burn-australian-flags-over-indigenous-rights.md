@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/16/protestors-in-brisbane-burn-australian-flags-over-indigenous-rights.html)  [JSON](/news/2014/11/16/protestors-in-brisbane-burn-australian-flags-over-indigenous-rights.json)  [XML](/news/2014/11/16/protestors-in-brisbane-burn-australian-flags-over-indigenous-rights.xml)  
+
 ### [2014-11-16](/news/2014/11/16/index.md)
 
+##### Brisbane
 # Protestors in Brisbane burn Australian flags over indigenous rights. 
 
 PROTESTERS at the G20 burned Australian flags today in a demonstration over indigenous rights.
 
 
-### Source:
+### Sources:
 
 1. [News.com.au](http://www.news.com.au/national/g20-protesters-burn-australian-flag-in-rally-on-indigenous-rights/story-fncynjr2-1227124714154)
 1. [Cover Image](http://cdn.newsapi.com.au/image/v1/21907c75aa15a262676981d5de8280e7)

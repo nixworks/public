@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/25/at-least-16-people-are-killed-by-multiple-airst
 
 ### [2017-03-25](/news/2017/03/25/index.md)
 
+##### Syrian Civil War
 # At least 16 people are killed by multiple airstrikes on a prison in Idlib, according to the Syrian Observatory for Human Rights. 
 
 
@@ -19,7 +20,7 @@ Formats: [HTML](/news/2017/03/25/at-least-16-people-are-killed-by-multiple-airst
 
 ### Related:
 
-1. [Syrian rebels kill 28 soldiers in attacks on military checkpoints near the town of Saraqeb in northern Idlib province, hours after a wave of bombings hit Damascus and its outskirts, according to a report from the Syrian Observatory for Human Rights; five rebels also died in gun battles following the attacks. ](/news/2012/11/1/syrian-rebels-kill-28-soldiers-in-attacks-on-military-checkpoints-near-the-town-of-saraqeb-in-northern-idlib-province-hours-after-a-wave-of.md) _Context: Idlib, Syrian Civil War, Syrian Observatory for Human Rights_
+1. [An explosion at the headquarters of the Chechen-led Ajnad al-Kavkaz rebel group in Idlib, Syria, kills at least 23 people, while several people remain unaccounted for, according to the Syrian Observatory for Human Rights. ](/news/2018/01/7/an-explosion-at-the-headquarters-of-the-chechen-led-ajnad-al-kavkaz-rebel-group-in-idlib-syria-kills-at-least-23-people-while-several-peo.md) _Context: Idlib, Syrian Civil War, Syrian Observatory for Human Rights_
 2. [According to the Syrian Observatory for Human Rights, Russian airstrikes kill at least 14 civilians, including three children, as they cross the Euphrates river near the ISIL-held city of Mayadin in eastern Syria while fleeing the village of Mahkan. ](/news/2017/10/6/according-to-the-syrian-observatory-for-human-rights-russian-airstrikes-kill-at-least-14-civilians-including-three-children-as-they-cross.md) _Context: Syrian Civil War, Syrian Observatory for Human Rights_
 3. [Russian aircraft carry out air strikes on the Christian-majority Qaina and Yaqobia villages, in the western countryside of Idlib, killing a child and injuring 5 others. ](/news/2017/09/27/russian-aircraft-carry-out-air-strikes-on-the-christian-majority-qaina-and-yaqobia-villages-in-the-western-countryside-of-idlib-killing-a.md) _Context: Idlib, Syrian Civil War_
 4. [Russian and Syrian warplanes carry out airstrikes in southern Idlib, killing three civilians and wounding others. ](/news/2017/09/21/russian-and-syrian-warplanes-carry-out-airstrikes-in-southern-idlib-killing-three-civilians-and-wounding-others.md) _Context: Idlib, Syrian Civil War_

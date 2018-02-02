@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/5/bp-is-authorized-to-pump-cement-into-the-deepwater-horizon-oil-spill-site-after-a-successful-static-kill-procedure-with-drilling-mud.html)  [JSON](/news/2010/08/5/bp-is-authorized-to-pump-cement-into-the-deepwater-horizon-oil-spill-site-after-a-successful-static-kill-procedure-with-drilling-mud.json)  [XML](/news/2010/08/5/bp-is-authorized-to-pump-cement-into-the-deepwater-horizon-oil-spill-site-after-a-successful-static-kill-procedure-with-drilling-mud.xml)  
+
 ### [2010-08-5](/news/2010/08/5/index.md)
 
+##### BP
 # BP is authorized to pump cement into the Deepwater Horizon oil spill site after a successful "static kill" procedure with drilling mud. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2010/US/08/05/gulf.oil.disaster/index.html?hpt=T1)
 

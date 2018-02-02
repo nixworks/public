@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/9/adam-west-the-actor-widely-known-for-playing-bat
 
 ### [2017-06-9](/news/2017/06/9/index.md)
 
+##### Cinema of the United States
 # Adam West, the actor widely known for playing Batman in the ABC series of the same name during the 1960's, dies from leukemia. 
 
 The US actor struggled to find work after starring as the Caped Crusader in the 1960s hit TV series.

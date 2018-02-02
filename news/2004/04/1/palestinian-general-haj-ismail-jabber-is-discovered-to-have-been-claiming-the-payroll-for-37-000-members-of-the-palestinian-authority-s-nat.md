@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/1/palestinian-general-haj-ismail-jabber-is-discovered-to-have-been-claiming-the-payroll-for-37-000-members-of-the-palestinian-authority-s-nat.html)  [JSON](/news/2004/04/1/palestinian-general-haj-ismail-jabber-is-discovered-to-have-been-claiming-the-payroll-for-37-000-members-of-the-palestinian-authority-s-nat.json)  [XML](/news/2004/04/1/palestinian-general-haj-ismail-jabber-is-discovered-to-have-been-claiming-the-payroll-for-37-000-members-of-the-palestinian-authority-s-nat.xml)  
+
 ### [2004-04-1](/news/2004/04/1/index.md)
 
+##### Palestinian
 #  Palestinian General Haj Ismail Jabber is discovered to have been claiming the payroll for 37,000 members of the Palestinian Authority's National Security force when only 30,000 members exist. The difference of $2 million is kept by General Jabber each month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [HaAretz](http://www.haaretz.com/hasen/spages/411056.html)
 

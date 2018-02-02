@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/15/the-southern-sudanese-independence-referendum-2011-ends.html)  [JSON](/news/2011/01/15/the-southern-sudanese-independence-referendum-2011-ends.json)  [XML](/news/2011/01/15/the-southern-sudanese-independence-referendum-2011-ends.xml)  
+
 ### [2011-01-15](/news/2011/01/15/index.md)
 
+##### Southern Sudanese Independence Referendum
 # The Southern Sudanese independence referendum, 2011 ends. 
 
 Huge turnout in south Sudan referendum expected to back secession from the north of the country.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/201111513594958973.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/15/2011115141114856580_20.jpg)

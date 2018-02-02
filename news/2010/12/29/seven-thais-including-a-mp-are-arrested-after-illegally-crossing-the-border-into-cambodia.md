@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/29/seven-thais-including-a-mp-are-arrested-after-illegally-crossing-the-border-into-cambodia.html)  [JSON](/news/2010/12/29/seven-thais-including-a-mp-are-arrested-after-illegally-crossing-the-border-into-cambodia.json)  [XML](/news/2010/12/29/seven-thais-including-a-mp-are-arrested-after-illegally-crossing-the-border-into-cambodia.xml)  
+
 ### [2010-12-29](/news/2010/12/29/index.md)
 
+##### Thailand
 # Seven Thais, including a MP, are arrested after illegally crossing the border into Cambodia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1472124&lang=eng_news&cate_img=1037.jpg&cate_rss=General)
 2. [The Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_618642.html)

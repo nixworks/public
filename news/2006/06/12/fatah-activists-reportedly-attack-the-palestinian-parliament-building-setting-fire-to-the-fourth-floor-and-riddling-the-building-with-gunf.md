@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/12/fatah-activists-reportedly-attack-the-palestinian-parliament-building-setting-fire-to-the-fourth-floor-and-riddling-the-building-with-gunf.html)  [JSON](/news/2006/06/12/fatah-activists-reportedly-attack-the-palestinian-parliament-building-setting-fire-to-the-fourth-floor-and-riddling-the-building-with-gunf.json)  [XML](/news/2006/06/12/fatah-activists-reportedly-attack-the-palestinian-parliament-building-setting-fire-to-the-fourth-floor-and-riddling-the-building-with-gunf.xml)  
+
 ### [2006-06-12](/news/2006/06/12/index.md)
 
+##### Fatah
 #  Fatah activists reportedly attack the Palestinian parliament building, setting fire to the fourth floor and riddling the building with gunfire. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP](http://abcnews.go.com/International/wireStory?id=2069416)
 2. [VoA](http://www.voanews.com/english/2006-06-13-voa16.cfm)

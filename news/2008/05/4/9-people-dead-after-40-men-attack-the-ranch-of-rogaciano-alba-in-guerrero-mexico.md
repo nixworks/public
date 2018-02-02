@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/4/9-people-dead-after-40-men-attack-the-ranch-of-rogaciano-alba-in-guerrero-mexico.html)  [JSON](/news/2008/05/4/9-people-dead-after-40-men-attack-the-ranch-of-rogaciano-alba-in-guerrero-mexico.json)  [XML](/news/2008/05/4/9-people-dead-after-40-men-attack-the-ranch-of-rogaciano-alba-in-guerrero-mexico.xml)  
+
 ### [2008-05-4](/news/2008/05/4/index.md)
 
+##### Rogaciano Alba
 #  9 people dead after 40 men attack the ranch of Rogaciano Alba in Guerrero, Mexico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/7383559.stm)
 

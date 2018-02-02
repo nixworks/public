@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/20/two-women-in-jieyang-guangdong-prc-are-executed-for-counterfeiting-nearly-300-million-yuan-rmb.html)  [JSON](/news/2012/05/20/two-women-in-jieyang-guangdong-prc-are-executed-for-counterfeiting-nearly-300-million-yuan-rmb.json)  [XML](/news/2012/05/20/two-women-in-jieyang-guangdong-prc-are-executed-for-counterfeiting-nearly-300-million-yuan-rmb.xml)  
+
 ### [2012-05-20](/news/2012/05/20/index.md)
 
+##### Jieyang
 # Two women in Jieyang, Guangdong, PRC, are executed for counterfeiting nearly 300 million yuan RMB. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Inside China](http://insidechina.onehotspots.com/the-two-women-forged-nearly-300-million-yuan-rmb/41326/)
 2. [NetEase](http://news.163.com/12/0520/06/81U9IV1N00014AED.html)

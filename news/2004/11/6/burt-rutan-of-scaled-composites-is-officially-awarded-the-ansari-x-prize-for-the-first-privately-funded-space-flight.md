@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/6/burt-rutan-of-scaled-composites-is-officially-awarded-the-ansari-x-prize-for-the-first-privately-funded-space-flight.html)  [JSON](/news/2004/11/6/burt-rutan-of-scaled-composites-is-officially-awarded-the-ansari-x-prize-for-the-first-privately-funded-space-flight.json)  [XML](/news/2004/11/6/burt-rutan-of-scaled-composites-is-officially-awarded-the-ansari-x-prize-for-the-first-privately-funded-space-flight.xml)  
+
 ### [2004-11-6](/news/2004/11/6/index.md)
 
+##### Burt Rutan
 #  Burt Rutan of Scaled Composites is officially awarded the Ansari X Prize for the first privately funded space flight. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/P/PRIVATE_SPACESHIP?SITE=UTSGS&SECTION=HOME&TEMPLATE=DEFAULT)
 

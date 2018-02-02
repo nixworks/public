@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/9/japan-commemorates-the-70th-anniversary-of-the-atomic-bomb-dropped-over-the-japanese-city-of-nagasaki-during-world-war-ii.html)  [JSON](/news/2015/08/9/japan-commemorates-the-70th-anniversary-of-the-atomic-bomb-dropped-over-the-japanese-city-of-nagasaki-during-world-war-ii.json)  [XML](/news/2015/08/9/japan-commemorates-the-70th-anniversary-of-the-atomic-bomb-dropped-over-the-japanese-city-of-nagasaki-during-world-war-ii.xml)  
+
 ### [2015-08-9](/news/2015/08/9/index.md)
 
+##### atomic bomb
 # Japan commemorates the 70th anniversary of the atomic bomb dropped over the Japanese city of Nagasaki during World War II. 
 
 The Japanese city of Nagasaki holds an emotional service to mark 70 years since the US atomic bomb attack amid a row over its military.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-33839055)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/B910/production/_84767374_84767373.jpg)

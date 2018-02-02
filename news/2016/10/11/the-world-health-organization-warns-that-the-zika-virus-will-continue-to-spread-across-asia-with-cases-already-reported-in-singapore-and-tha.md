@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/11/the-world-health-organization-warns-that-the-zi
 
 ### [2016-10-11](/news/2016/10/11/index.md)
 
+##### 2015-16 Zika virus epidemic
 # The World Health Organization warns that the Zika virus will continue to spread across Asia with cases already reported in Singapore and Thailand. 
 
 Infections of the Zika virus are &quot;highly likely&quot; to keep spreading in Asia and the Pacific, the World Health Organization (WHO) warns.

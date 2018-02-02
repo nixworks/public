@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/19/original-handwritten-harry-potter-manuscripts-are-to-be-displayed-at-scotland-s-wigtown-festival.html)  [JSON](/news/2010/09/19/original-handwritten-harry-potter-manuscripts-are-to-be-displayed-at-scotland-s-wigtown-festival.json)  [XML](/news/2010/09/19/original-handwritten-harry-potter-manuscripts-are-to-be-displayed-at-scotland-s-wigtown-festival.xml)  
+
 ### [2010-09-19](/news/2010/09/19/index.md)
 
+##### Harry Potter
 # Original handwritten Harry Potter manuscripts are to be displayed at Scotland's Wigtown festival. 
 
 Original handwritten manuscripts by Harry Potter author JK Rowling are going on display as part of a book festival in the south of Scotland.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-11365173)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

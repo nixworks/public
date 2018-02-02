@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/22/the-united-nations-claims-that-3-709-iraqi-civilians-died-during-october-2006-as-sectarian-violence-worsens.html)  [JSON](/news/2006/11/22/the-united-nations-claims-that-3-709-iraqi-civilians-died-during-october-2006-as-sectarian-violence-worsens.json)  [XML](/news/2006/11/22/the-united-nations-claims-that-3-709-iraqi-civilians-died-during-october-2006-as-sectarian-violence-worsens.xml)  
+
 ### [2006-11-22](/news/2006/11/22/index.md)
 
+##### United Nations
 #  The United Nations claims that 3,709 Iraqi civilians died during October 2006 as sectarian violence worsens. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/4354207.html)
 

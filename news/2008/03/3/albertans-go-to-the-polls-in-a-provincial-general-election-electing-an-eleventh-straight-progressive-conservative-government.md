@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/3/albertans-go-to-the-polls-in-a-provincial-general-election-electing-an-eleventh-straight-progressive-conservative-government.html)  [JSON](/news/2008/03/3/albertans-go-to-the-polls-in-a-provincial-general-election-electing-an-eleventh-straight-progressive-conservative-government.json)  [XML](/news/2008/03/3/albertans-go-to-the-polls-in-a-provincial-general-election-electing-an-eleventh-straight-progressive-conservative-government.xml)  
+
 ### [2008-03-3](/news/2008/03/3/index.md)
 
+##### Alberta
 #  Albertans go to the polls in a provincial general election, electing an eleventh straight Progressive Conservative government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/albertavotes2008/story/2008/03/03/election-call.html)
 

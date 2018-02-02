@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/5/a-bus-fire-kills-at-least-24-people-in-chengdu-sichuan-china.html)  [JSON](/news/2009/06/5/a-bus-fire-kills-at-least-24-people-in-chengdu-sichuan-china.json)  [XML](/news/2009/06/5/a-bus-fire-kills-at-least-24-people-in-chengdu-sichuan-china.xml)  
+
 ### [2009-06-5](/news/2009/06/5/index.md)
 
+##### bus fire
 #  A bus fire kills at least 24 people in Chengdu, Sichuan, China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via News Limited](http://www.news.com.au/story/0,23599,25591314-1702,00.html?from=public_rss?ref=BPNT)
 

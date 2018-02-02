@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/2/unification-church-founder-and-self-proclaimed-messiah-sun-myung-moon-dies-at-the-age-of-92.html)  [JSON](/news/2012/09/2/unification-church-founder-and-self-proclaimed-messiah-sun-myung-moon-dies-at-the-age-of-92.json)  [XML](/news/2012/09/2/unification-church-founder-and-self-proclaimed-messiah-sun-myung-moon-dies-at-the-age-of-92.xml)  
+
 ### [2012-09-2](/news/2012/09/2/index.md)
 
+##### Unification Church
 # Unification Church founder and self-proclaimed messiah Sun Myung Moon dies at the age of 92. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/09/02/world/asia/south-korea-reverend-moon-dead/index.html)
 

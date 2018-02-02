@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/17/anthony-graves-an-american-man-found-innocent-of-the-murders-which-left-him-on-death-row-for-18-years-is-denied-restitution-due-to-a-techn.html)  [JSON](/news/2011/02/17/anthony-graves-an-american-man-found-innocent-of-the-murders-which-left-him-on-death-row-for-18-years-is-denied-restitution-due-to-a-techn.json)  [XML](/news/2011/02/17/anthony-graves-an-american-man-found-innocent-of-the-murders-which-left-him-on-death-row-for-18-years-is-denied-restitution-due-to-a-techn.xml)  
+
 ### [2011-02-17](/news/2011/02/17/index.md)
 
+##### Anthony Graves
 # Anthony Graves, an American man found innocent of the murders which left him on death row for 18 years, is denied restitution due to a technicality. 
 
 FOX 26 Houston News, Breaking News, Local, Weather, Traffic, Sports
 
 
-### Source:
+### Sources:
 
 1. [My Fox Houston](http://www.myfoxhouston.com/dpp/news/texas/110217-attorney%3A-not-paying-graves-a-travesty)
 2. [Press TV](http://www.presstv.ir/detail/165754.html)

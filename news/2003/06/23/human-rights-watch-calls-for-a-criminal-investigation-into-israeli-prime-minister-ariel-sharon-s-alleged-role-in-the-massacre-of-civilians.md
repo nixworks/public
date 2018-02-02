@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/23/human-rights-watch-calls-for-a-criminal-investigation-into-israeli-prime-minister-ariel-sharon-s-alleged-role-in-the-massacre-of-civilians.html)  [JSON](/news/2003/06/23/human-rights-watch-calls-for-a-criminal-investigation-into-israeli-prime-minister-ariel-sharon-s-alleged-role-in-the-massacre-of-civilians.json)  [XML](/news/2003/06/23/human-rights-watch-calls-for-a-criminal-investigation-into-israeli-prime-minister-ariel-sharon-s-alleged-role-in-the-massacre-of-civilians.xml)  
+
 ### [2003-06-23](/news/2003/06/23/index.md)
 
+##### Human Rights Watch
 #  Human Rights Watch calls for a criminal investigation into Israeli Prime Minister Ariel Sharon's alleged role in the massacre of civilians, mostly Palestinians and Lebanese Shiites, in Sabra and the Shatila refugee camp.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/9/the-last-london-routemaster-double-decker-bus-makes-its-final-journey-on-route-159-before-being-withdrawn-from-general-service.html)  [JSON](/news/2005/12/9/the-last-london-routemaster-double-decker-bus-makes-its-final-journey-on-route-159-before-being-withdrawn-from-general-service.json)  [XML](/news/2005/12/9/the-last-london-routemaster-double-decker-bus-makes-its-final-journey-on-route-159-before-being-withdrawn-from-general-service.xml)  
+
 ### [2005-12-9](/news/2005/12/9/index.md)
 
+##### Routemaster
 #  The last London Routemaster double-decker bus makes its final journey on route 159 before being withdrawn from general service. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/london/4510410.stm)
 

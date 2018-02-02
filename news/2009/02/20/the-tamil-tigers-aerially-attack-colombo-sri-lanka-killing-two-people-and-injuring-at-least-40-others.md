@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/02/20/the-tamil-tigers-aerially-attack-colombo-sri-lanka-killing-two-people-and-injuring-at-least-40-others.html)  [JSON](/news/2009/02/20/the-tamil-tigers-aerially-attack-colombo-sri-lanka-killing-two-people-and-injuring-at-least-40-others.json)  [XML](/news/2009/02/20/the-tamil-tigers-aerially-attack-colombo-sri-lanka-killing-two-people-and-injuring-at-least-40-others.xml)  
+
 ### [2009-02-20](/news/2009/02/20/index.md)
 
+##### LTTE
 #  The Tamil Tigers aerially attack Colombo, Sri Lanka, killing two people and injuring at least 40 others. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE51J4I720090220)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090220&t=2&i=8349077&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-20T205059Z_01_BTRE51J1LX300_RTROPTP_0_SRILANKA-WAR)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE51J4I720090220)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20090220&t=2&i=8349077&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-20T205059Z_01_BTRE51J1LX300_RTROPTP_0_SRILANKA-WAR)
 
 ### Related:
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/16/phil-fontaine-is-elected-grand-chief-of-the-assembly-of-first-nations-of-canada.html)  [JSON](/news/2003/07/16/phil-fontaine-is-elected-grand-chief-of-the-assembly-of-first-nations-of-canada.json)  [XML](/news/2003/07/16/phil-fontaine-is-elected-grand-chief-of-the-assembly-of-first-nations-of-canada.xml)  
+
 ### [2003-07-16](/news/2003/07/16/index.md)
 
+##### Chief Phil Fontaine
 #  Phil Fontaine is elected Grand Chief of the Assembly of First Nations of Canada.
 
 

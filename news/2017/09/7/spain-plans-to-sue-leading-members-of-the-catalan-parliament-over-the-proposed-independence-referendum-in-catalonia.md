@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/7/spain-plans-to-sue-leading-members-of-the-catala
 
 ### [2017-09-7](/news/2017/09/7/index.md)
 
+##### secession
 # Spain plans to sue leading members of the Catalan Parliament over the proposed independence referendum in Catalonia. 
 
 Members of Catalonia&#39;s parliament who voted in favour of a referendum on independence set to face legal challenge.

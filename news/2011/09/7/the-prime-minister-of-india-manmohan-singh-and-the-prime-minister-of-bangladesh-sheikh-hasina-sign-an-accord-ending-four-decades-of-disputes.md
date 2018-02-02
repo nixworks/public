@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/7/the-prime-minister-of-india-manmohan-singh-and-the-prime-minister-of-bangladesh-sheikh-hasina-sign-an-accord-ending-four-decades-of-disputes.html)  [JSON](/news/2011/09/7/the-prime-minister-of-india-manmohan-singh-and-the-prime-minister-of-bangladesh-sheikh-hasina-sign-an-accord-ending-four-decades-of-disputes.json)  [XML](/news/2011/09/7/the-prime-minister-of-india-manmohan-singh-and-the-prime-minister-of-bangladesh-sheikh-hasina-sign-an-accord-ending-four-decades-of-disputes.xml)  
+
 ### [2011-09-7](/news/2011/09/7/index.md)
 
+##### Prime Minister
 # The Prime Minister of India Manmohan Singh and the Prime Minister of Bangladesh Sheikh Hasina sign an accord ending four decades of disputes over the borders of India and Bangladesh. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IBN Live](http://ibnlive.in.com/news/indiabangladesh-sign-pact-on-border-demarcation/181937-3.html)
 

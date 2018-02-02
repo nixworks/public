@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/5/somali-pirates-release-egypt-s-mv-blue-star.html)  [JSON](/news/2009/03/5/somali-pirates-release-egypt-s-mv-blue-star.json)  [XML](/news/2009/03/5/somali-pirates-release-egypt-s-mv-blue-star.xml)  
+
 ### [2009-03-5](/news/2009/03/5/index.md)
 
+##### Somalia
 #  Somali pirates release Egypt's MV "Blue Star". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IHT](http://www.iht.com/articles/reuters/2009/03/05/africa/OUKWD-UK-SOMALIA-PIRATES-EGYPT.php)
 

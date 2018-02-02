@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/12/9/azeri-tanks-on-the-front-line-shell-military-positions-in-the-breakaway-nagorno-karabakh-republic-for-the-first-time-since-a-russian-brokere.html)  [JSON](/news/2015/12/9/azeri-tanks-on-the-front-line-shell-military-positions-in-the-breakaway-nagorno-karabakh-republic-for-the-first-time-since-a-russian-brokere.json)  [XML](/news/2015/12/9/azeri-tanks-on-the-front-line-shell-military-positions-in-the-breakaway-nagorno-karabakh-republic-for-the-first-time-since-a-russian-brokere.xml)  
+
 ### [2015-12-9](/news/2015/12/9/index.md)
 
+##### Nagorno-Karabakh conflict
 # Azeri tanks on the front line shell military positions in the breakaway Nagorno-Karabakh Republic for the first time since a Russian-brokered ceasefire ended fighting in 1994. At least one Nagorno-Karabakh Defense Army soldier is killed. 
 
 Azerbaijani tanks on Wednesday shelled positions in the breakaway Nagorny Karabakh region for the first time in more than 20 years, the rebel defence ministry said, as Armenia arrested a former army officer accused of spying for its archfoe. Armenia and Azerbaijan fought a bloody conflict over the disputed
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo](http://news.yahoo.com/azerbaijani-tanks-shell-breakaway-region-rebels-001012716.html)
-1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/EVMC1RZfU8VslArMd.Mp0Q--/aD01NDY7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-DV-DV1163430-1-1-0.jpg)
+1. [AFP via Yahoo](https://news.yahoo.com/azerbaijani-tanks-shell-breakaway-region-rebels-001012716.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/aLA2m2NQddZGaz95VHU1fA--~B/aD01NDY7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-DV-DV1163430-1-1-0.jpg)
+
+### Changes:
+
+1. [Nagorno-Karabakh conflict: Azeri tanks on the front line shell military positions in the breakaway Nagorno-Karabakh Republic for the first time since a Russian-brokered ceasefire ended fighting in 1994. At least one Nagorno-Karabakh Defense Army soldier is killed. ](/news/2015/12/9/nagorno-karabakh-conflict-azeri-tanks-on-the-front-line-shell-military-positions-in-the-breakaway-nagorno-karabakh-republic-for-the-first-t.md) _2017-08-27 03:44:17 (First version)_
+1. [Azeri tanks on the front line shell military positions in the breakaway Nagorno-Karabakh Republic for the first time since a Russian-brokered ceasefire ended fighting in 1994. At least one Nagorno-Karabakh Defense Army soldier is killed. ](/news/2015/12/9/azeri-tanks-on-the-front-line-shell-military-positions-in-the-breakaway-nagorno-karabakh-republic-for-the-first-time-since-a-russian-brokere.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Azerbaijani tanks on Wednesday shelled positions in the breakaway Nagorny Karaba
 3. [Four Azerbaijani soldiers are killed in fresh clashes with Armenian groups near the border of the breakaway Nagorno-Karabakh Republic. ](/news/2014/08/3/four-azerbaijani-soldiers-are-killed-in-fresh-clashes-with-armenian-groups-near-the-border-of-the-breakaway-nagorno-karabakh-republic.md) _Context: Azerbaijan, Nagorno-Karabakh, Nagorno-Karabakh conflict_
 4. [Five more Azeri troops are killed in overnight fighting with ethnic Armenians in Nagorno-Karabakh. The casualties bring the death toll to at least 13 in a flare-up of violence over the last few days around Nagorno-Karabakh. Russia has said that any further escalation is unacceptable. ](/news/2014/08/2/five-more-azeri-troops-are-killed-in-overnight-fighting-with-ethnic-armenians-in-nagorno-karabakh-the-casualties-bring-the-death-toll-to-at.md) _Context: Azerbaijan, Nagorno-Karabakh conflict, Russia_
 5. [In a referendum held yesterday in the breakaway state of Nagorno-Karabakh (a region long claimed by both Azerbaijan and Armenia), 87.6% of voters approve changing the country's governance system from semi-presidential to full presidential, therefore abolishing the position of prime minister. ](/news/2017/02/21/in-a-referendum-held-yesterday-in-the-breakaway-state-of-nagorno-karabakh-a-region-long-claimed-by-both-azerbaijan-and-armenia-87-6-of-v.md) _Context: Azerbaijan, Nagorno-Karabakh_
-
-### Changes:
-
-1. [Nagorno-Karabakh conflict: Azeri tanks on the front line shell military positions in the breakaway Nagorno-Karabakh Republic for the first time since a Russian-brokered ceasefire ended fighting in 1994. At least one Nagorno-Karabakh Defense Army soldier is killed. ](/news/2015/12/9/nagorno-karabakh-conflict-azeri-tanks-on-the-front-line-shell-military-positions-in-the-breakaway-nagorno-karabakh-republic-for-the-first-t.md) _2017-08-27 03:44:17 (First version)_
-1. [Azeri tanks on the front line shell military positions in the breakaway Nagorno-Karabakh Republic for the first time since a Russian-brokered ceasefire ended fighting in 1994. At least one Nagorno-Karabakh Defense Army soldier is killed. ](/news/2015/12/9/azeri-tanks-on-the-front-line-shell-military-positions-in-the-breakaway-nagorno-karabakh-republic-for-the-first-time-since-a-russian-brokere.md) _(Current version)_

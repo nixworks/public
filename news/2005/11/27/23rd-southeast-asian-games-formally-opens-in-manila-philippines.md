@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/27/23rd-southeast-asian-games-formally-opens-in-manila-philippines.html)  [JSON](/news/2005/11/27/23rd-southeast-asian-games-formally-opens-in-manila-philippines.json)  [XML](/news/2005/11/27/23rd-southeast-asian-games-formally-opens-in-manila-philippines.xml)  
+
 ### [2005-11-27](/news/2005/11/27/index.md)
 
+##### 23rd Southeast Asian Games
 #  23rd Southeast Asian Games formally opens in Manila, Philippines. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Manila Bulletin](http://www.mb.com.ph/issues/2005/11/28/MAIN2005112850308.html)
 

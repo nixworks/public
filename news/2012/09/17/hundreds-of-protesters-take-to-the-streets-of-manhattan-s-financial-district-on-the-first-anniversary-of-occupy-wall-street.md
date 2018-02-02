@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/17/hundreds-of-protesters-take-to-the-streets-of-manhattan-s-financial-district-on-the-first-anniversary-of-occupy-wall-street.html)  [JSON](/news/2012/09/17/hundreds-of-protesters-take-to-the-streets-of-manhattan-s-financial-district-on-the-first-anniversary-of-occupy-wall-street.json)  [XML](/news/2012/09/17/hundreds-of-protesters-take-to-the-streets-of-manhattan-s-financial-district-on-the-first-anniversary-of-occupy-wall-street.xml)  
+
 ### [2012-09-17](/news/2012/09/17/index.md)
 
+##### Occupy Wall Street
 # Hundreds of protesters take to the streets of Manhattan's financial district on the first anniversary of Occupy Wall Street. 
 
 More than 100 arrests were reported today, the first anniversary of the Occupy Wall Street movement, as protesters converged &hellip;
 
 
-### Source:
+### Sources:
 
 1. [Huffington Post](http://www.huffingtonpost.com/2012/09/17/occupy-wall-street-anniversary-live_n_1891041.html)
 2. [Los Angeles Times](http://www.latimes.com/news/nation/nationnow/la-na-nn-occupy-anniversary-20120917,0,6713498.story)

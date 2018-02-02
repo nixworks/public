@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/12/14/a-research-expedition-concludes-that-the-chinese-river-dolphin-is-now-likely-extinct-directly-due-to-human-action.html)  [JSON](/news/2006/12/14/a-research-expedition-concludes-that-the-chinese-river-dolphin-is-now-likely-extinct-directly-due-to-human-action.json)  [XML](/news/2006/12/14/a-research-expedition-concludes-that-the-chinese-river-dolphin-is-now-likely-extinct-directly-due-to-human-action.xml)  
+
 ### [2006-12-14](/news/2006/12/14/index.md)
 
+##### Chinese River Dolphin
 #  A research expedition concludes that the Chinese River Dolphin is now likely extinct, directly due to human action. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Globe & Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20061213.wdolphin1213/BNStory/Science/home)
+1. [Globe & Mail](https://www.theglobeandmail.com/servlet/story/RTGAM.20061213.wdolphin1213/BNStory/Science/home)
 
 ### Related:
 

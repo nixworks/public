@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/1/shanghai-cooperation-organization-to-mark-10th-anniversary-in-astana-kazakhstan.html)  [JSON](/news/2011/02/1/shanghai-cooperation-organization-to-mark-10th-anniversary-in-astana-kazakhstan.json)  [XML](/news/2011/02/1/shanghai-cooperation-organization-to-mark-10th-anniversary-in-astana-kazakhstan.xml)  
+
 ### [2011-02-1](/news/2011/02/1/index.md)
 
+##### Shanghai Cooperation Organization
 # Shanghai Cooperation Organization to mark 10th anniversary in Astana, Kazakhstan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Rian](http://en.rian.ru/world/20110201/162403689.html)
 

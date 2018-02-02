@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/25/golden-globe-awards-major-winners-include-the-lord-of-the-rings-the-return-of-the-king-lost-in-translation-and-angels-in-america.html)  [JSON](/news/2004/01/25/golden-globe-awards-major-winners-include-the-lord-of-the-rings-the-return-of-the-king-lost-in-translation-and-angels-in-america.json)  [XML](/news/2004/01/25/golden-globe-awards-major-winners-include-the-lord-of-the-rings-the-return-of-the-king-lost-in-translation-and-angels-in-america.xml)  
+
 ### [2004-01-25](/news/2004/01/25/index.md)
 
+##### Golden Globe Awards
 #  Golden Globe Awards: Major winners include "The Lord of the Rings: The Return of the King", "Lost in Translation", and "Angels in America".
 
 

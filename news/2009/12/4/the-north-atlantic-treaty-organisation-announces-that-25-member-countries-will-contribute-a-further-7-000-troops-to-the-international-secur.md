@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/4/the-north-atlantic-treaty-organisation-announces-that-25-member-countries-will-contribute-a-further-7-000-troops-to-the-international-secur.html)  [JSON](/news/2009/12/4/the-north-atlantic-treaty-organisation-announces-that-25-member-countries-will-contribute-a-further-7-000-troops-to-the-international-secur.json)  [XML](/news/2009/12/4/the-north-atlantic-treaty-organisation-announces-that-25-member-countries-will-contribute-a-further-7-000-troops-to-the-international-secur.xml)  
+
 ### [2009-12-4](/news/2009/12/4/index.md)
 
+##### North Atlantic Treaty Organisation
 #  The North Atlantic Treaty Organisation announces that 25 member countries will contribute a further 7,000 troops to the International Security Assistance Force in Afghanistan in addition to 30,000 additional American and 500 British troops previously announced. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8394985.stm)
 

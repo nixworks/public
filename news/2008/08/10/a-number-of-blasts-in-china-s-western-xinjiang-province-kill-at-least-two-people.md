@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/08/10/a-number-of-blasts-in-china-s-western-xinjiang-province-kill-at-least-two-people.html)  [JSON](/news/2008/08/10/a-number-of-blasts-in-china-s-western-xinjiang-province-kill-at-least-two-people.json)  [XML](/news/2008/08/10/a-number-of-blasts-in-china-s-western-xinjiang-province-kill-at-least-two-people.xml)  
+
 ### [2008-08-10](/news/2008/08/10/index.md)
 
+##### A number of blasts
 #  A number of blasts in China's western Xinjiang province kill at least two people. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/latestCrisis/idUSL986830)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/latestCrisis/idUSL986830)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

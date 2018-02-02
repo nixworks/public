@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/17/a-recount-in-moldova-s-parliamentary-election-confirms-an-emphatic-win-by-the-communist-party.html)  [JSON](/news/2009/04/17/a-recount-in-moldova-s-parliamentary-election-confirms-an-emphatic-win-by-the-communist-party.json)  [XML](/news/2009/04/17/a-recount-in-moldova-s-parliamentary-election-confirms-an-emphatic-win-by-the-communist-party.xml)  
+
 ### [2009-04-17](/news/2009/04/17/index.md)
 
+##### recount
 #  A recount in Moldova's parliamentary election confirms an "emphatic win" by the Communist Party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Russia Today](http://www.russiatoday.com/Politics/2009-04-17/Moldovan_vote_recount__Communists_still_winners.html)
 

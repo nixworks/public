@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/03/30/the-andaman-islands-are-rattled-by-a-6-6-magnitude-earthquake.html)  [JSON](/news/2010/03/30/the-andaman-islands-are-rattled-by-a-6-6-magnitude-earthquake.json)  [XML](/news/2010/03/30/the-andaman-islands-are-rattled-by-a-6-6-magnitude-earthquake.xml)  
+
 ### [2010-03-30](/news/2010/03/30/index.md)
 
+##### Andaman Islands
 # The Andaman Islands are rattled by a 6.6 magnitude earthquake. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USGS](http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010ula2.php)
+1. [USGS](https://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010ula2.php)
 
 ### Related:
 

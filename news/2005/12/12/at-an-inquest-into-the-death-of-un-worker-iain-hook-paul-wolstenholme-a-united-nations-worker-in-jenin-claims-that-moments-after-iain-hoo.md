@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/12/at-an-inquest-into-the-death-of-un-worker-iain-hook-paul-wolstenholme-a-united-nations-worker-in-jenin-claims-that-moments-after-iain-hoo.html)  [JSON](/news/2005/12/12/at-an-inquest-into-the-death-of-un-worker-iain-hook-paul-wolstenholme-a-united-nations-worker-in-jenin-claims-that-moments-after-iain-hoo.json)  [XML](/news/2005/12/12/at-an-inquest-into-the-death-of-un-worker-iain-hook-paul-wolstenholme-a-united-nations-worker-in-jenin-claims-that-moments-after-iain-hoo.xml)  
+
 ### [2005-12-12](/news/2005/12/12/index.md)
 
+##### UN
 #  At an inquest into the death of UN worker Iain Hook, Paul Wolstenholme, a United Nations worker in Jenin claims that moments after Iain Hook was shot by a mysterious sniper rifle-shot to the pelvis, an Israeli sniper rifle laser was pointed at his head. He also supplied documentary evidence which stated that the Israeli army had delayed an ambulance which was sent to take the wounded Mr Hook to hospital. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/suffolk/4521694.stm)
 

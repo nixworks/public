@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/03/7/the-biggest-solar-flare-in-five-years-that-occurred-on-march-6-nears-earth-with-the-capacity-to-disrupt-power-grids-gps-systems-and-airline.html)  [JSON](/news/2012/03/7/the-biggest-solar-flare-in-five-years-that-occurred-on-march-6-nears-earth-with-the-capacity-to-disrupt-power-grids-gps-systems-and-airline.json)  [XML](/news/2012/03/7/the-biggest-solar-flare-in-five-years-that-occurred-on-march-6-nears-earth-with-the-capacity-to-disrupt-power-grids-gps-systems-and-airline.xml)  
+
 ### [2012-03-7](/news/2012/03/7/index.md)
 
+##### solar flare
 # The biggest solar flare in five years that occurred on March 6 nears Earth with the capacity to disrupt power grids, GPS systems and airline flights. 
 
 Huge solar storm heading toward Earth could disrupt power grids and airplane flights.
 
 
-### Source:
+### Sources:
 
-1. [AP via ''USA Today](http://www.usatoday.com/tech/science/space/story/2012-03-07/solar-storm-earth-power-disruptions/53398390/1?csp=34news)
+1. [AP via ''USA Today](https://www.usatoday.com/tech/science/space/story/2012-03-07/solar-storm-earth-power-disruptions/53398390/1?csp=34news)
 1. [Cover Image](http://i.usatoday.net/tech/_photos/2012/03/07/Solar-storm-headed-toward-Earth-C713TBKI-x.jpg)
 
 ### Related:

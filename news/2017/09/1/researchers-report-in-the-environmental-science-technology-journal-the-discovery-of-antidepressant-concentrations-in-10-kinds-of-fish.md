@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/1/researchers-report-in-the-environmental-science-
 
 ### [2017-09-1](/news/2017/09/1/index.md)
 
+##### Environmental Science & Technology
 # Researchers report, in the "Environmental Science & Technology" journal, the discovery of antidepressant concentrations in 10 kinds of fish in the Niagara River, which links to the Great Lakes via Lakes Erie and Ontario. Speculated causes include inadequate treatment of water re-introduced into said bodies of water. 
 
 

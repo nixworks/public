@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/02/20/the-united-states-geological-survey-reports-the-occurrence-of-a-7-6-magnitude-earthquake-off-the-western-coast-of-the-indonesian-island-of.html)  [JSON](/news/2008/02/20/the-united-states-geological-survey-reports-the-occurrence-of-a-7-6-magnitude-earthquake-off-the-western-coast-of-the-indonesian-island-of.json)  [XML](/news/2008/02/20/the-united-states-geological-survey-reports-the-occurrence-of-a-7-6-magnitude-earthquake-off-the-western-coast-of-the-indonesian-island-of.xml)  
+
 ### [2008-02-20](/news/2008/02/20/index.md)
 
+##### United States Geological Survey
 #  The United States Geological Survey reports the occurrence of a 7.6 magnitude earthquake off the western coast of the Indonesian island of Sumatra. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008nran.php)
+1. [USGS](https://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008nran.php)
 
 ### Related:
 

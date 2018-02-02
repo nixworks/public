@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/16/opposition-protesters-in-the-ivory-coast-attempt-to-seize-the-state-television-station-in-central-abidjan-which-is-surrounded-by-the-army.html)  [JSON](/news/2010/12/16/opposition-protesters-in-the-ivory-coast-attempt-to-seize-the-state-television-station-in-central-abidjan-which-is-surrounded-by-the-army.json)  [XML](/news/2010/12/16/opposition-protesters-in-the-ivory-coast-attempt-to-seize-the-state-television-station-in-central-abidjan-which-is-surrounded-by-the-army.xml)  
+
 ### [2010-12-16](/news/2010/12/16/index.md)
 
+##### Ivory Coast
 # Opposition protesters in the Ivory Coast attempt to seize the state television station in central Abidjan, which is surrounded by the army. At least fifteen people have died in clashes. 
 
 Troops and police loyal to Ivory Coast leader Laurent Gbagbo have sealed off state television headquarters in Abidjan ahead of a planned attempt by one of his rivals to seize the airwaves. 
 
 
-### Source:
+### Sources:
 
 1. [AP via NJ](http://www.nj.com/newsflash/index.ssf/story/at-least-15-dead-in-ivory-coast/e76d7f4b1fd948d69a62874253aa92be)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12007523)

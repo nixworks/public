@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/16/an-amnesty-deal-is-being-floated-by-the-national-security-agency-for-the-leaker-edward-snowden.html)  [JSON](/news/2013/12/16/an-amnesty-deal-is-being-floated-by-the-national-security-agency-for-the-leaker-edward-snowden.json)  [XML](/news/2013/12/16/an-amnesty-deal-is-being-floated-by-the-national-security-agency-for-the-leaker-edward-snowden.xml)  
+
 ### [2013-12-16](/news/2013/12/16/index.md)
 
+##### National Security Agency
 # An amnesty deal is being floated by the National Security Agency for the leaker Edward Snowden. 
 
 If the leaker could show the data he took is contained
 
 
-### Source:
+### Sources:
 
 1. [Time'' magazine](http://nation.time.com/2013/12/16/nsa-official-floats-amnesty-for-snowden/)
 1. [Cover Image](https://timemilitary.files.wordpress.com/2013/06/snowden.jpg?w=600)

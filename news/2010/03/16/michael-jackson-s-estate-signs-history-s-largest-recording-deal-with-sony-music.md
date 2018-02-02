@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/16/michael-jackson-s-estate-signs-history-s-largest-recording-deal-with-sony-music.html)  [JSON](/news/2010/03/16/michael-jackson-s-estate-signs-history-s-largest-recording-deal-with-sony-music.json)  [XML](/news/2010/03/16/michael-jackson-s-estate-signs-history-s-largest-recording-deal-with-sony-music.xml)  
+
 ### [2010-03-16](/news/2010/03/16/index.md)
 
+##### Michael Jackson
 # Michael Jackson's estate signs history's largest recording deal with Sony Music. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8569481.stm)
 2. [Sky News](http://news.sky.com/skynews/Home/Showbiz-News/Estate-Of-Michael-Jackson-Signs-Record-Breaking-Deal-Worth-Millions-With-Sony/Article/201003315574570?lpos=Showbiz_News_News_Your_Way_Region_8&lid=NewsYourWay_ARTICLE_15574570_Estate_Of_Michael_Jackson_Signs_R)

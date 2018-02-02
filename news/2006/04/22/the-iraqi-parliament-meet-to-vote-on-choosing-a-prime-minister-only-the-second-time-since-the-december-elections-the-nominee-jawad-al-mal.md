@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/22/the-iraqi-parliament-meet-to-vote-on-choosing-a-prime-minister-only-the-second-time-since-the-december-elections-the-nominee-jawad-al-mal.html)  [JSON](/news/2006/04/22/the-iraqi-parliament-meet-to-vote-on-choosing-a-prime-minister-only-the-second-time-since-the-december-elections-the-nominee-jawad-al-mal.json)  [XML](/news/2006/04/22/the-iraqi-parliament-meet-to-vote-on-choosing-a-prime-minister-only-the-second-time-since-the-december-elections-the-nominee-jawad-al-mal.xml)  
+
 ### [2006-04-22](/news/2006/04/22/index.md)
 
+##### Iraq
 #  The Iraqi Parliament meet to vote on choosing a Prime Minister, only the second time since the December elections. The nominee Jawad al-Maliki has been put forward by the dominant Shia block. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4933026.stm)
 2. [CNN International](http://edition.cnn.com/2006/WORLD/meast/04/22/iraq.main/)

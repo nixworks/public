@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/5/toyota-begins-recalling-91-903-japanese-vehicles-due-to-an-engine-defect-in-its-luxury-lexus-range-and-toyota-crown-luxury-sedans.html)  [JSON](/news/2010/07/5/toyota-begins-recalling-91-903-japanese-vehicles-due-to-an-engine-defect-in-its-luxury-lexus-range-and-toyota-crown-luxury-sedans.json)  [XML](/news/2010/07/5/toyota-begins-recalling-91-903-japanese-vehicles-due-to-an-engine-defect-in-its-luxury-lexus-range-and-toyota-crown-luxury-sedans.xml)  
+
 ### [2010-07-5](/news/2010/07/5/index.md)
 
+##### Toyota
 # Toyota begins recalling 91,903 Japanese vehicles due to an engine defect in its luxury Lexus range and Toyota Crown luxury sedans. 
 
 Toyota Motor on Monday began recalling more than 91,000 vehicles in Japan because of an engine defect affecting its luxury Lexus range and Crown sedans, the latest in a string of recalls hitting the company.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/toyota-begins-recalls-in-japan-over-faulty-engines-20100705-zwqb.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

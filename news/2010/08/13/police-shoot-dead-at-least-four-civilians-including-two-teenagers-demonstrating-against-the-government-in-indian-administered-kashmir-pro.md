@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/13/police-shoot-dead-at-least-four-civilians-including-two-teenagers-demonstrating-against-the-government-in-indian-administered-kashmir-pro.html)  [JSON](/news/2010/08/13/police-shoot-dead-at-least-four-civilians-including-two-teenagers-demonstrating-against-the-government-in-indian-administered-kashmir-pro.json)  [XML](/news/2010/08/13/police-shoot-dead-at-least-four-civilians-including-two-teenagers-demonstrating-against-the-government-in-indian-administered-kashmir-pro.xml)  
+
 ### [2010-08-13](/news/2010/08/13/index.md)
 
+##### Indian-administered Kashmir
 # Police shoot dead at least four civilians, including two teenagers, demonstrating against the government in Indian-administered Kashmir; protesters say they were unarmed. 
 
 At least four protesters are killed in violence between police and anti-government demonstrators in Indian-administered Kashmir.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10961817)
 2. [IOL](http://www.iol.co.za/index.php?from=rss_World&set_id=1&click_id=3&art_id=nw20100813201058613C769454)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/25/abdul-nacer-benbrika-serving-a-15-year-jail-term-in-australia-after-being-found-guilty-on-a-number-of-terrorism-related-charged-loses-an-a.html)  [JSON](/news/2010/10/25/abdul-nacer-benbrika-serving-a-15-year-jail-term-in-australia-after-being-found-guilty-on-a-number-of-terrorism-related-charged-loses-an-a.json)  [XML](/news/2010/10/25/abdul-nacer-benbrika-serving-a-15-year-jail-term-in-australia-after-being-found-guilty-on-a-number-of-terrorism-related-charged-loses-an-a.xml)  
+
 ### [2010-10-25](/news/2010/10/25/index.md)
 
+##### Abdul Nacer Benbrika
 # Abdul Nacer Benbrika, serving a 15-year jail term in Australia after being found guilty on a number of terrorism-related charged, loses an appeal in the Court of Appeal against conviction of leading a terrorist group. 
 
 The leader of a terrorist organisation that plotted to wage violent jihad in Australia has failed to have his sentence reduced, despite a partial win in the Court of Appeal.
 
 
-### Source:
+### Sources:
 
 1. [ABC Melbourne](http://www.abc.net.au/news/stories/2010/10/25/3047217.htm?site=melbourne)
 2. [Herald Sun](http://www.heraldsun.com.au/news/national/benbrika-loses-court-appeal/story-e6frf7l6-1225943235000)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/13/israeli-investigation-brings-evidence-that-a-buried-explosive-device-caused-the-gaza-beach-blast-in-which-seven-palestenian-civilians-were.html)  [JSON](/news/2006/06/13/israeli-investigation-brings-evidence-that-a-buried-explosive-device-caused-the-gaza-beach-blast-in-which-seven-palestenian-civilians-were.json)  [XML](/news/2006/06/13/israeli-investigation-brings-evidence-that-a-buried-explosive-device-caused-the-gaza-beach-blast-in-which-seven-palestenian-civilians-were.xml)  
+
 ### [2006-06-13](/news/2006/06/13/index.md)
 
+##### Israel
 #  Israeli investigation brings evidence that a buried explosive device caused the Gaza beach blast in which seven Palestenian civilians were killed, rather than an artillery shelling as stated by the Hamas-led Palestenian government. A former Pentagon official paid by the Human Rights Watch organization asserts than an Israeli shelling caused the tragedy. United Nations Secretary-General Kofi Annan retracts earlier skeptic remarks he made on Israel's position on the incident. Sddeutsche Zeitung reports numerous flaws in the Palestenian footage from the beach, including a dead man later walking around. 
 
 After meeting with Israel&#39;s UN Ambassador Danny Gillerman, Secretary General Kofi Annan pulls back comments he said after conclusion of IDF report on civilian casualties on Gaza beach
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/israel/Story/0,,1796691,00.html)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/726162.html)

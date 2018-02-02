@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/26/the-cruise-ship-msc-melody-thwarts-an-attack-by-somali-pirates-in-the-gulf-of-aden.html)  [JSON](/news/2009/04/26/the-cruise-ship-msc-melody-thwarts-an-attack-by-somali-pirates-in-the-gulf-of-aden.json)  [XML](/news/2009/04/26/the-cruise-ship-msc-melody-thwarts-an-attack-by-somali-pirates-in-the-gulf-of-aden.xml)  
+
 ### [2009-04-26](/news/2009/04/26/index.md)
 
+##### cruise ship
 #  The cruise ship MSC "Melody" thwarts an attack by Somali pirates in the Gulf of Aden. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-piracy27-2009apr27,0,599166.story)
 1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

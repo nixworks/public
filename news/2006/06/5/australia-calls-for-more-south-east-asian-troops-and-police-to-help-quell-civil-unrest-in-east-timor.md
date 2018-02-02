@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/5/australia-calls-for-more-south-east-asian-troops-and-police-to-help-quell-civil-unrest-in-east-timor.html)  [JSON](/news/2006/06/5/australia-calls-for-more-south-east-asian-troops-and-police-to-help-quell-civil-unrest-in-east-timor.json)  [XML](/news/2006/06/5/australia-calls-for-more-south-east-asian-troops-and-police-to-help-quell-civil-unrest-in-east-timor.xml)  
+
 ### [2006-06-5](/news/2006/06/5/index.md)
 
+##### Australia
 #  Australia calls for more South East Asian troops and police to help quell civil unrest in East Timor. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/News/CrisesArticle.aspx?storyId=SYD331963)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

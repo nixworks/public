@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/06/11/taiwanese-negotiators-led-by-chiang-pin-kung-chairman-of-the-strait-exchange-foundation-travel-to-the-people-s-republic-of-china-to-condu.html)  [JSON](/news/2008/06/11/taiwanese-negotiators-led-by-chiang-pin-kung-chairman-of-the-strait-exchange-foundation-travel-to-the-people-s-republic-of-china-to-condu.json)  [XML](/news/2008/06/11/taiwanese-negotiators-led-by-chiang-pin-kung-chairman-of-the-strait-exchange-foundation-travel-to-the-people-s-republic-of-china-to-condu.xml)  
+
 ### [2008-06-11](/news/2008/06/11/index.md)
 
+##### Taiwan
 #  Taiwanese negotiators led by Chiang Pin-kung, Chairman of the Strait Exchange Foundation, travel to the People's Republic of China to conduct talks on improving Cross-Strait relations. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080612/ap_on_re_as/taiwan_china_talks)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20080612/ap_on_re_as/taiwan_china_talks)
 2. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7447536.stm)
 
 ### Related:

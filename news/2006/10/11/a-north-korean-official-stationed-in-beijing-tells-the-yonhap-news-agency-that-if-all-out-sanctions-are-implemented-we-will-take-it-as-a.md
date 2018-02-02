@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2006/10/11/a-north-korean-official-stationed-in-beijing-tells-the-yonhap-news-agency-that-if-all-out-sanctions-are-implemented-we-will-take-it-as-a.html)  [JSON](/news/2006/10/11/a-north-korean-official-stationed-in-beijing-tells-the-yonhap-news-agency-that-if-all-out-sanctions-are-implemented-we-will-take-it-as-a.json)  [XML](/news/2006/10/11/a-north-korean-official-stationed-in-beijing-tells-the-yonhap-news-agency-that-if-all-out-sanctions-are-implemented-we-will-take-it-as-a.xml)  
+
 ### [2006-10-11](/news/2006/10/11/index.md)
 
+##### North Korea
 #  A North Korean official stationed in Beijing tells the Yonhap news agency that "If all out sanctions are implemented, we will take it as a declaration of war". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC Australia](http://www.abc.net.au/news/newsitems/200610/s1762667.htm)
 2. [News Limited](http://www.news.com.au/story/0,10117,20562334-1702,00.html?from=public_rss)
+
+### Changes:
+
+1. [ 2006 North Korean nuclear testing A North Korean official stationed in Beijing tells the Yonhap news agency that "If all out sanctions are implemented, we will take it as a declaration of war". ](/news/2006/10/11/2006-north-korean-nuclear-testingp-a-north-korean-official-stationed-in-beijing-tells-the-yonhap-news-agency-that-if-all-out-sanctions-are.md) _2017-08-25 03:18:33 (First version)_
+2. [ 2006 North Korean nuclear testing: A North Korean official stationed in Beijing tells the Yonhap news agency that "If all out sanctions are implemented, we will take it as a declaration of war". ](/news/2006/10/11/2006-north-korean-nuclear-testing-a-north-korean-official-stationed-in-beijing-tells-the-yonhap-news-agency-that-if-all-out-sanctions-are.md) _2017-08-27 03:18:27 (Update)_
+2. [ A North Korean official stationed in Beijing tells the Yonhap news agency that "If all out sanctions are implemented, we will take it as a declaration of war". ](/news/2006/10/11/a-north-korean-official-stationed-in-beijing-tells-the-yonhap-news-agency-that-if-all-out-sanctions-are-implemented-we-will-take-it-as-a.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@
 3. [According to South Korea's Yonhap news agency, North Korea appears to be preparing a test-launch of an intermediate-range ballistic missile. This comes after what the United States described as the "fiery, catastrophic" failure of the first attempt a few days prior. ](/news/2016/04/26/according-to-south-korea-s-yonhap-news-agency-north-korea-appears-to-be-preparing-a-test-launch-of-an-intermediate-range-ballistic-missile.md) _Context: North Korea, Yonhap_
 4. [South Korea's Yonhap news agency reports that North Korea tried to launch a BM25 Musudan intermediate-range ballistic missile but was unsuccessful. ](/news/2016/04/15/south-korea-s-yonhap-news-agency-reports-that-north-korea-tried-to-launch-a-bm25-musudan-intermediate-range-ballistic-missile-but-was-unsucc.md) _Context: North Korea, Yonhap_
 5. [North Korea deploys one or two intermediate-range ballistic missiles on its east coast, possibly preparing for launch on or around Friday, the anniversary of the birth of the country's founder Kim Il-sung, according to South Korea's Yonhap news agency. ](/news/2016/04/14/north-korea-deploys-one-or-two-intermediate-range-ballistic-missiles-on-its-east-coast-possibly-preparing-for-launch-on-or-around-friday-t.md) _Context: North Korea, Yonhap_
-
-### Changes:
-
-1. [ 2006 North Korean nuclear testing A North Korean official stationed in Beijing tells the Yonhap news agency that "If all out sanctions are implemented, we will take it as a declaration of war". ](/news/2006/10/11/2006-north-korean-nuclear-testingp-a-north-korean-official-stationed-in-beijing-tells-the-yonhap-news-agency-that-if-all-out-sanctions-are.md) _2017-08-25 03:18:33 (First version)_
-2. [ 2006 North Korean nuclear testing: A North Korean official stationed in Beijing tells the Yonhap news agency that "If all out sanctions are implemented, we will take it as a declaration of war". ](/news/2006/10/11/2006-north-korean-nuclear-testing-a-north-korean-official-stationed-in-beijing-tells-the-yonhap-news-agency-that-if-all-out-sanctions-are.md) _2017-08-27 03:18:27 (Update)_
-2. [ A North Korean official stationed in Beijing tells the Yonhap news agency that "If all out sanctions are implemented, we will take it as a declaration of war". ](/news/2006/10/11/a-north-korean-official-stationed-in-beijing-tells-the-yonhap-news-agency-that-if-all-out-sanctions-are-implemented-we-will-take-it-as-a.md) _(Current version)_

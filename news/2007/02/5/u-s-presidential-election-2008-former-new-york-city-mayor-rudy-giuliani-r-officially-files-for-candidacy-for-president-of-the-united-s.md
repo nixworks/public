@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/5/u-s-presidential-election-2008-former-new-york-city-mayor-rudy-giuliani-r-officially-files-for-candidacy-for-president-of-the-united-s.html)  [JSON](/news/2007/02/5/u-s-presidential-election-2008-former-new-york-city-mayor-rudy-giuliani-r-officially-files-for-candidacy-for-president-of-the-united-s.json)  [XML](/news/2007/02/5/u-s-presidential-election-2008-former-new-york-city-mayor-rudy-giuliani-r-officially-files-for-candidacy-for-president-of-the-united-s.xml)  
+
 ### [2007-02-5](/news/2007/02/5/index.md)
 
+##### 2008
 #  U.S. Presidential Election, 2008: Former New York City mayor Rudy Giuliani (R) officially files for candidacy for President of the United States of America. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [FOX](http://www.foxnews.com/story/0,2933,250354,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

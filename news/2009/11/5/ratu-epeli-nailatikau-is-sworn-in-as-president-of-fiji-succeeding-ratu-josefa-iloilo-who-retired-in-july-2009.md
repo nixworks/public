@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/5/ratu-epeli-nailatikau-is-sworn-in-as-president-of-fiji-succeeding-ratu-josefa-iloilo-who-retired-in-july-2009.html)  [JSON](/news/2009/11/5/ratu-epeli-nailatikau-is-sworn-in-as-president-of-fiji-succeeding-ratu-josefa-iloilo-who-retired-in-july-2009.json)  [XML](/news/2009/11/5/ratu-epeli-nailatikau-is-sworn-in-as-president-of-fiji-succeeding-ratu-josefa-iloilo-who-retired-in-july-2009.xml)  
+
 ### [2009-11-5](/news/2009/11/5/index.md)
 
+##### Epeli Nailatikau
 #  Ratu Epeli Nailatikau is sworn in as President of Fiji, succeeding Ratu Josefa Iloilo who retired in July 2009. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fiji Times](http://www.fijitimes.com/story.aspx?id=132929)
 2. [Radio New Zealand International](http://www.rnzi.com/pages/news.php?op=read&id=50136)

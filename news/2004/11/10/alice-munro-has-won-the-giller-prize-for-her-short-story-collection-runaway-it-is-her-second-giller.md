@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/10/alice-munro-has-won-the-giller-prize-for-her-short-story-collection-runaway-it-is-her-second-giller.html)  [JSON](/news/2004/11/10/alice-munro-has-won-the-giller-prize-for-her-short-story-collection-runaway-it-is-her-second-giller.json)  [XML](/news/2004/11/10/alice-munro-has-won-the-giller-prize-for-her-short-story-collection-runaway-it-is-her-second-giller.xml)  
+
 ### [2004-11-10](/news/2004/11/10/index.md)
 
+##### Alice Munro
 #  Alice Munro has won the Giller Prize for her short story collection "Runaway". It is her second Giller. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/arts/story/2004/11/11/gillerwin041111.html)
 

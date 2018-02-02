@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/24/mohamoud-mohamed-gacmodhere-who-was-appointed-prime-minister-of-somalia-by-president-abdullahi-yusuf-ahmed-last-week-resigns.html)  [JSON](/news/2008/12/24/mohamoud-mohamed-gacmodhere-who-was-appointed-prime-minister-of-somalia-by-president-abdullahi-yusuf-ahmed-last-week-resigns.json)  [XML](/news/2008/12/24/mohamoud-mohamed-gacmodhere-who-was-appointed-prime-minister-of-somalia-by-president-abdullahi-yusuf-ahmed-last-week-resigns.xml)  
+
 ### [2008-12-24](/news/2008/12/24/index.md)
 
+##### Mohamoud Mohamed Gacmodhere
 #  Mohamoud Mohamed Gacmodhere, who was appointed Prime Minister of Somalia by President Abdullahi Yusuf Ahmed last week, resigns. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7798801.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/9/in-australia-immigration-minister-amanda-vanstone-grants-cui-yu-hu-permanent-residency.html)  [JSON](/news/2005/03/9/in-australia-immigration-minister-amanda-vanstone-grants-cui-yu-hu-permanent-residency.json)  [XML](/news/2005/03/9/in-australia-immigration-minister-amanda-vanstone-grants-cui-yu-hu-permanent-residency.xml)  
+
 ### [2005-03-9](/news/2005/03/9/index.md)
 
+##### Amanda Vanstone
 #  In Australia, immigration minister Amanda Vanstone grants Cui Yu Hu permanent residency 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,12490323%255E1702,00.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4328063.stm)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/12/15/an-alliance-of-opposition-parties-that-endorse-the-presidency-of-alassane-ouattara-in-the-ivory-coast-call-for-mass-protests-following-the.html)  [JSON](/news/2010/12/15/an-alliance-of-opposition-parties-that-endorse-the-presidency-of-alassane-ouattara-in-the-ivory-coast-call-for-mass-protests-following-the.json)  [XML](/news/2010/12/15/an-alliance-of-opposition-parties-that-endorse-the-presidency-of-alassane-ouattara-in-the-ivory-coast-call-for-mass-protests-following-the.xml)  
+
 ### [2010-12-15](/news/2010/12/15/index.md)
 
+##### Alassane Ouattara
 # An alliance of opposition parties that endorse the presidency of Alassane Ouattara in the Ivory Coast call for mass protests, following the presidential election. 
 
 Ouattara’s camp asks supporters to help them take over state television and government buildings
 
 
-### Source:
+### Sources:
 
 1. [Africa Review](http://www.africareview.com/News/-/979180/1072742/-/i7ikn5z/-/)
-2. [New York Times](http://www.nytimes.com/2010/12/15/world/africa/15briefs-IvoryCoast.html?src=twrhp)
+2. [New York Times](https://www.nytimes.com/2010/12/15/world/africa/15briefs-IvoryCoast.html?src=twrhp)
 2. [Cover Image](http://www.africareview.com/image/view/-/1071054/medRes/220756/-/fu4ygp/-/Quattara.jpg)
 
 ### Related:

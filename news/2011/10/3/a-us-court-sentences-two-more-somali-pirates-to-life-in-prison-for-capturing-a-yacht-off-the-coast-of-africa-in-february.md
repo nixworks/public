@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/3/a-us-court-sentences-two-more-somali-pirates-to-life-in-prison-for-capturing-a-yacht-off-the-coast-of-africa-in-february.html)  [JSON](/news/2011/10/3/a-us-court-sentences-two-more-somali-pirates-to-life-in-prison-for-capturing-a-yacht-off-the-coast-of-africa-in-february.json)  [XML](/news/2011/10/3/a-us-court-sentences-two-more-somali-pirates-to-life-in-prison-for-capturing-a-yacht-off-the-coast-of-africa-in-february.xml)  
+
 ### [2011-10-3](/news/2011/10/3/index.md)
 
+##### Somali
 # A US court sentences two more Somali pirates to life in prison for capturing a yacht off the coast of Africa in February. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iwtONCACkpho30vCMhyAoFE1Tbhw?docId=CNG.cc5f76b56ab63ced6a0bd74dc8327e47.5d1)
 

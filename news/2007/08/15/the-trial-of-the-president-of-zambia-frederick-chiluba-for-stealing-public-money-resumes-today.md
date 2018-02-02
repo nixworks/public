@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/15/the-trial-of-the-president-of-zambia-frederick-chiluba-for-stealing-public-money-resumes-today.html)  [JSON](/news/2007/08/15/the-trial-of-the-president-of-zambia-frederick-chiluba-for-stealing-public-money-resumes-today.json)  [XML](/news/2007/08/15/the-trial-of-the-president-of-zambia-frederick-chiluba-for-stealing-public-money-resumes-today.xml)  
+
 ### [2007-08-15](/news/2007/08/15/index.md)
 
+##### President
 #  The trial of the President of Zambia Frederick Chiluba for stealing public money resumes today. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via CNN](http://edition.cnn.com/2007/WORLD/africa/08/15/zambia.chiluba.reut/index.html?eref=rss_world)
 

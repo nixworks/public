@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/4/a-suicide-bomb-attack-kills-three-policemen-and-a-civilian-in-southern-afghanistan.html)  [JSON](/news/2008/04/4/a-suicide-bomb-attack-kills-three-policemen-and-a-civilian-in-southern-afghanistan.json)  [XML](/news/2008/04/4/a-suicide-bomb-attack-kills-three-policemen-and-a-civilian-in-southern-afghanistan.xml)  
+
 ### [2008-04-4](/news/2008/04/4/index.md)
 
+##### suicide bomb
 #  A suicide bomb attack kills three policemen and a civilian in southern Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5ijDA5bgxiHlTvS_r-SSjskS1Tq1wD8VQRNL00)
 

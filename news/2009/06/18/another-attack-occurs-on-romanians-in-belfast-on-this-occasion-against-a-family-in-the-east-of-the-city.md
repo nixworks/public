@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/18/another-attack-occurs-on-romanians-in-belfast-on-this-occasion-against-a-family-in-the-east-of-the-city.html)  [JSON](/news/2009/06/18/another-attack-occurs-on-romanians-in-belfast-on-this-occasion-against-a-family-in-the-east-of-the-city.json)  [XML](/news/2009/06/18/another-attack-occurs-on-romanians-in-belfast-on-this-occasion-against-a-family-in-the-east-of-the-city.xml)  
+
 ### [2009-06-18](/news/2009/06/18/index.md)
 
+##### Romanians
 #  Another attack occurs on Romanians in Belfast, on this occasion against a family in the east of the city. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8106306.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/10/after-public-outcry-gamemaker-blizzard-entertainment-rescinds-its-plan-to-force-users-of-its-world-of-warcraft-online-game-to-post-under-th.html)  [JSON](/news/2010/07/10/after-public-outcry-gamemaker-blizzard-entertainment-rescinds-its-plan-to-force-users-of-its-world-of-warcraft-online-game-to-post-under-th.json)  [XML](/news/2010/07/10/after-public-outcry-gamemaker-blizzard-entertainment-rescinds-its-plan-to-force-users-of-its-world-of-warcraft-online-game-to-post-under-th.xml)  
+
 ### [2010-07-10](/news/2010/07/10/index.md)
 
+##### Blizzard Entertainment
 # After public outcry, gamemaker Blizzard Entertainment rescinds its plan to force users of its World of Warcraft online game to post under their real names. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/technology/8806623.stm)
 

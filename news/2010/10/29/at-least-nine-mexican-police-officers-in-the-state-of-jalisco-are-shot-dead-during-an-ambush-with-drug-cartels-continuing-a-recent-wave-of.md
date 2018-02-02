@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/29/at-least-nine-mexican-police-officers-in-the-state-of-jalisco-are-shot-dead-during-an-ambush-with-drug-cartels-continuing-a-recent-wave-of.html)  [JSON](/news/2010/10/29/at-least-nine-mexican-police-officers-in-the-state-of-jalisco-are-shot-dead-during-an-ambush-with-drug-cartels-continuing-a-recent-wave-of.json)  [XML](/news/2010/10/29/at-least-nine-mexican-police-officers-in-the-state-of-jalisco-are-shot-dead-during-an-ambush-with-drug-cartels-continuing-a-recent-wave-of.xml)  
+
 ### [2010-10-29](/news/2010/10/29/index.md)
 
+##### Mexico
 # At least nine Mexican police officers in the state of Jalisco are shot dead during an ambush with drug cartels, continuing a recent wave of violence connected to the Mexican Drug War. 
 
 At least nine Mexican police officers are shot and killed in an ambush - the sixth multiple killing in Mexico in less than a week.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-latin-america-11648454)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

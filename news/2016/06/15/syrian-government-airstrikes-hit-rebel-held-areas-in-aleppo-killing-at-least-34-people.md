@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/15/syrian-government-airstrikes-hit-rebel-held-are
 
 ### [2016-06-15](/news/2016/06/15/index.md)
 
+##### Syrian Civil War
 # Syrian government airstrikes hit rebel-held areas in Aleppo, killing at least 34 people. 
 
 At least 34 people die, including civilians, amid intense shelling and air strikes on battle-stricken city.

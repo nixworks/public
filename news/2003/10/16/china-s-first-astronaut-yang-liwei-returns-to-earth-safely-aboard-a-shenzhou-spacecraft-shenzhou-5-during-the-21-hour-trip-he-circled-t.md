@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/16/china-s-first-astronaut-yang-liwei-returns-to-earth-safely-aboard-a-shenzhou-spacecraft-shenzhou-5-during-the-21-hour-trip-he-circled-t.html)  [JSON](/news/2003/10/16/china-s-first-astronaut-yang-liwei-returns-to-earth-safely-aboard-a-shenzhou-spacecraft-shenzhou-5-during-the-21-hour-trip-he-circled-t.json)  [XML](/news/2003/10/16/china-s-first-astronaut-yang-liwei-returns-to-earth-safely-aboard-a-shenzhou-spacecraft-shenzhou-5-during-the-21-hour-trip-he-circled-t.xml)  
+
 ### [2003-10-16](/news/2003/10/16/index.md)
 
+##### Yang Liwei
 #  China's first astronaut, Yang Liwei returns to earth safely aboard a Shenzhou spacecraft, Shenzhou 5. During the 21-hour trip, he circled the planet 14 times.
 
 

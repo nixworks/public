@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/18/tropical-storm-beryl-forms-off-the-coast-of-the-u-s-state-of-north-carolina-180-miles-southeast-of-cape-hatteras-it-is-the-second-tropic.html)  [JSON](/news/2006/07/18/tropical-storm-beryl-forms-off-the-coast-of-the-u-s-state-of-north-carolina-180-miles-southeast-of-cape-hatteras-it-is-the-second-tropic.json)  [XML](/news/2006/07/18/tropical-storm-beryl-forms-off-the-coast-of-the-u-s-state-of-north-carolina-180-miles-southeast-of-cape-hatteras-it-is-the-second-tropic.xml)  
+
 ### [2006-07-18](/news/2006/07/18/index.md)
 
+##### Tropical Storm Beryl
 #  Tropical Storm Beryl forms off the coast of the U.S. state of North Carolina, 180 miles southeast of Cape Hatteras. It is the second tropical storm to form in the North Atlantic in the 2006 hurricane season. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC Wilmington](http://www.wect.com/Global/story.asp?S=5164730)
 

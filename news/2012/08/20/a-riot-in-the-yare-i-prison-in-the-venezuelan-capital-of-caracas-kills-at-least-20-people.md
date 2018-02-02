@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/20/a-riot-in-the-yare-i-prison-in-the-venezuelan-capital-of-caracas-kills-at-least-20-people.html)  [JSON](/news/2012/08/20/a-riot-in-the-yare-i-prison-in-the-venezuelan-capital-of-caracas-kills-at-least-20-people.json)  [XML](/news/2012/08/20/a-riot-in-the-yare-i-prison-in-the-venezuelan-capital-of-caracas-kills-at-least-20-people.xml)  
+
 ### [2012-08-20](/news/2012/08/20/index.md)
 
+##### riot in the Yare I prison
 # A riot in the Yare I prison in the Venezuelan capital of Caracas kills at least 20 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-19323029)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/62397000/jpg/_62397150_62397149.jpg)

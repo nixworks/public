@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/7/the-prime-minister-of-nepal-surya-bahadur-thapa-resigns-amid-protests-by-opposition-parties-prime-minister-thapa-was-appointed-by-king-gya.html)  [JSON](/news/2004/05/7/the-prime-minister-of-nepal-surya-bahadur-thapa-resigns-amid-protests-by-opposition-parties-prime-minister-thapa-was-appointed-by-king-gya.json)  [XML](/news/2004/05/7/the-prime-minister-of-nepal-surya-bahadur-thapa-resigns-amid-protests-by-opposition-parties-prime-minister-thapa-was-appointed-by-king-gya.xml)  
+
 ### [2004-05-7](/news/2004/05/7/index.md)
 
+##### Prime Minister
 #  The Prime Minister of Nepal Surya Bahadur Thapa resigns amid protests by opposition parties. Prime Minister Thapa was appointed by King Gyanendra eleven months ago. The opposing parties are demanding formation of an all party government with a Prime Minister of their choice. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/3693233.stm)
 

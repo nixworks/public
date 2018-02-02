@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/18/the-world-health-organisation-reports-that-global-malaria-deaths-have-fallen-by-over-20-since-2001-claiming-that-over-30-countries-are-on.html)  [JSON](/news/2011/10/18/the-world-health-organisation-reports-that-global-malaria-deaths-have-fallen-by-over-20-since-2001-claiming-that-over-30-countries-are-on.json)  [XML](/news/2011/10/18/the-world-health-organisation-reports-that-global-malaria-deaths-have-fallen-by-over-20-since-2001-claiming-that-over-30-countries-are-on.xml)  
+
 ### [2011-10-18](/news/2011/10/18/index.md)
 
+##### World Health Organisation
 # The World Health Organisation reports that global malaria deaths have fallen by over 20% since 2001, claiming that over 30 countries are on course to eradicate the mosquito-borne disease by 2020. 
 
 There has been a fall of just over 20% in the number of deaths from malaria worldwide in the past decade, the World Health Organization says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/health-15346624)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56118000/jpg/_56118484_001069344-1.jpg)

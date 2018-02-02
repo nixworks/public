@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/5/a-pakistan-anti-terror-court-indicts-two-police-officers-and-five-alleged-members-of-the-taliban-for-the-murder-of-former-prime-minister-of.html)  [JSON](/news/2011/11/5/a-pakistan-anti-terror-court-indicts-two-police-officers-and-five-alleged-members-of-the-taliban-for-the-murder-of-former-prime-minister-of.json)  [XML](/news/2011/11/5/a-pakistan-anti-terror-court-indicts-two-police-officers-and-five-alleged-members-of-the-taliban-for-the-murder-of-former-prime-minister-of.xml)  
+
 ### [2011-11-5](/news/2011/11/5/index.md)
 
+##### Pakistan
 # A Pakistan anti-terror court indicts two police officers and five alleged members of the Taliban for the murder of former Prime Minister of Pakistan Benazir Bhutto. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Dawn](http://www.dawn.com/2011/11/05/atc-indicts-seven-in-benazir-murder-case.html)
 

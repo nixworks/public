@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2010/05/3/iranian-president-mahmoud-ahmadinejad-and-united-states-secretary-of-state-hillary-clinton-exchange-criticism-of-each-otheras-countries-nu.html)  [JSON](/news/2010/05/3/iranian-president-mahmoud-ahmadinejad-and-united-states-secretary-of-state-hillary-clinton-exchange-criticism-of-each-otheras-countries-nu.json)  [XML](/news/2010/05/3/iranian-president-mahmoud-ahmadinejad-and-united-states-secretary-of-state-hillary-clinton-exchange-criticism-of-each-otheras-countries-nu.xml)  
+
 ### [2010-05-3](/news/2010/05/3/index.md)
 
+##### President
 # Iranian President Mahmoud Ahmadinejad and United States Secretary of State Hillary Clinton exchange criticism of each other's countries nuclear policies at the opening of the Nuclear Non-proliferation Treaty Review Conference at the United Nations Headquarters in New York. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2010/POLITICS/05/03/un.ahmadinejad/index.html)
 2. [Chicago Tribune](http://www.chicagotribune.com/news/sns-ap-un-nuclear-treaty,0,722200.story)
-3. [USA Today](http://www.usatoday.com/news/world/2010-05-03-nuclear-conference-un_N.htm)
+3. [USA Today](https://www.usatoday.com/news/world/2010-05-03-nuclear-conference-un_N.htm)
+
+### Changes:
+
+1. [Iranian President Mahmoud Ahmadinejad and United States Secretary of State Hillary Clinton exchange criticism of each other-s countries nuclear policies at the opening of the Nuclear Non-proliferation Treaty Review Conference at the United Nations Headquarters in New York. ](/news/2010/05/3/iranian-president-mahmoud-ahmadinejad-and-united-states-secretary-of-state-hillary-clinton-exchange-criticism-of-each-other-s-countries-nu.md) _2017-08-27 03:27:48 (First version)_
+1. [Iranian President Mahmoud Ahmadinejad and United States Secretary of State Hillary Clinton exchange criticism of each other's countries nuclear policies at the opening of the Nuclear Non-proliferation Treaty Review Conference at the United Nations Headquarters in New York. ](/news/2010/05/3/iranian-president-mahmoud-ahmadinejad-and-united-states-secretary-of-state-hillary-clinton-exchange-criticism-of-each-otheras-countries-nu.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@
 3. [Former Iranian President Mahmoud Ahmadinejad faces sentences on seven verdicts of misusing billions of dollars in government funds while in office, the Supreme Audit Court public prosecutor said. If confirmed, Ahmadinejad will be barred from public office for seven years. ](/news/2017/07/30/former-iranian-president-mahmoud-ahmadinejad-faces-sentences-on-seven-verdicts-of-misusing-billions-of-dollars-in-government-funds-while-in.md) _Context: Mahmoud Ahmadinejad, President_
 4. [Former Iranian President Mahmoud Ahmadinejad registers to run in next month's election for a non-consecutive third term, according to state media. ](/news/2017/04/12/former-iranian-president-mahmoud-ahmadinejad-registers-to-run-in-next-month-s-election-for-a-non-consecutive-third-term-according-to-state.md) _Context: Mahmoud Ahmadinejad, President_
 5. [Former President Mahmoud Ahmadinejad declines to run for a third term in the upcoming election. Ayatollah Ali Khamenei has previously advised Ahmadinejad to not seek the presidency next year. ](/news/2016/09/27/former-president-mahmoud-ahmadinejad-declines-to-run-for-a-third-term-in-the-upcoming-election-ayatollah-ali-khamenei-has-previously-advise.md) _Context: Mahmoud Ahmadinejad, President_
-
-### Changes:
-
-1. [Iranian President Mahmoud Ahmadinejad and United States Secretary of State Hillary Clinton exchange criticism of each other-s countries nuclear policies at the opening of the Nuclear Non-proliferation Treaty Review Conference at the United Nations Headquarters in New York. ](/news/2010/05/3/iranian-president-mahmoud-ahmadinejad-and-united-states-secretary-of-state-hillary-clinton-exchange-criticism-of-each-other-s-countries-nu.md) _2017-08-27 03:27:48 (First version)_
-1. [Iranian President Mahmoud Ahmadinejad and United States Secretary of State Hillary Clinton exchange criticism of each other's countries nuclear policies at the opening of the Nuclear Non-proliferation Treaty Review Conference at the United Nations Headquarters in New York. ](/news/2010/05/3/iranian-president-mahmoud-ahmadinejad-and-united-states-secretary-of-state-hillary-clinton-exchange-criticism-of-each-otheras-countries-nu.md) _(Current version)_

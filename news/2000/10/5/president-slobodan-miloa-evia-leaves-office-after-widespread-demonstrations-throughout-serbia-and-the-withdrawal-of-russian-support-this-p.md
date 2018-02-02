@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/10/5/president-slobodan-miloa-evia-leaves-office-after-widespread-demonstrations-throughout-serbia-and-the-withdrawal-of-russian-support-this-p.html)  [JSON](/news/2000/10/5/president-slobodan-miloa-evia-leaves-office-after-widespread-demonstrations-throughout-serbia-and-the-withdrawal-of-russian-support-this-p.json)  [XML](/news/2000/10/5/president-slobodan-miloa-evia-leaves-office-after-widespread-demonstrations-throughout-serbia-and-the-withdrawal-of-russian-support-this-p.xml)  
+
 ### [2000-10-5](/news/2000/10/5/index.md)
 
+##### Slobodan Milosevic
 # President Slobodan Milosevic leaves office after widespread demonstrations throughout Serbia and the withdrawal of Russian support. This political event became known as 5th October Revolution in Serbia.
 
 

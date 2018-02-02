@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/7/the-leaders-of-the-2008-mauritanian-coup-d-etat-promise-to-hold-elections-as-soon-as-possible.html)  [JSON](/news/2008/08/7/the-leaders-of-the-2008-mauritanian-coup-d-etat-promise-to-hold-elections-as-soon-as-possible.json)  [XML](/news/2008/08/7/the-leaders-of-the-2008-mauritanian-coup-d-etat-promise-to-hold-elections-as-soon-as-possible.xml)  
+
 ### [2008-08-7](/news/2008/08/7/index.md)
 
+##### coup d'tat
 #  The leaders of the 2008 Mauritanian coup d'tat promise to hold elections as soon as possible. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2008-08/07/content_9014706.htm)
 

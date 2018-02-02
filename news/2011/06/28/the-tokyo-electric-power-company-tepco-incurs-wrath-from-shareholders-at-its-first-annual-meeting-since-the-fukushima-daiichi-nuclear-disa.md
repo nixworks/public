@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/28/the-tokyo-electric-power-company-tepco-incurs-wrath-from-shareholders-at-its-first-annual-meeting-since-the-fukushima-daiichi-nuclear-disa.html)  [JSON](/news/2011/06/28/the-tokyo-electric-power-company-tepco-incurs-wrath-from-shareholders-at-its-first-annual-meeting-since-the-fukushima-daiichi-nuclear-disa.json)  [XML](/news/2011/06/28/the-tokyo-electric-power-company-tepco-incurs-wrath-from-shareholders-at-its-first-annual-meeting-since-the-fukushima-daiichi-nuclear-disa.xml)  
+
 ### [2011-06-28](/news/2011/06/28/index.md)
 
+##### Tokyo Electric Power Company
 # The Tokyo Electric Power Company (Tepco) incurs wrath from shareholders at its first annual meeting since the Fukushima Daiichi nuclear disaster, with a motion asking the company to abandon nuclear power being defeated. 
 
 Angry Tepco shareholders fail to force the company to abandon nuclear power in the wake of the Fukushima Daiichi radiation crisis.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-13938774)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53727000/jpg/_53727778_tepco.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/24/at-least-three-prisoners-die-in-a-prison-riot-in-abidjan-ivory-coast.html)  [JSON](/news/2013/07/24/at-least-three-prisoners-die-in-a-prison-riot-in-abidjan-ivory-coast.json)  [XML](/news/2013/07/24/at-least-three-prisoners-die-in-a-prison-riot-in-abidjan-ivory-coast.xml)  
+
 ### [2013-07-24](/news/2013/07/24/index.md)
 
+##### prison riot
 # At least three prisoners die in a prison riot in Abidjan, Ivory Coast. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-23441153)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/68931000/jpg/_68931218_68931217.jpg)

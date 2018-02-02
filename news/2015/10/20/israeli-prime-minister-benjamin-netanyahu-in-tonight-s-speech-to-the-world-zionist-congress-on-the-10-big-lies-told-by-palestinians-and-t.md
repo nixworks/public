@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/20/israeli-prime-minister-benjamin-netanyahu-in-tonight-s-speech-to-the-world-zionist-congress-on-the-10-big-lies-told-by-palestinians-and-t.html)  [JSON](/news/2015/10/20/israeli-prime-minister-benjamin-netanyahu-in-tonight-s-speech-to-the-world-zionist-congress-on-the-10-big-lies-told-by-palestinians-and-t.json)  [XML](/news/2015/10/20/israeli-prime-minister-benjamin-netanyahu-in-tonight-s-speech-to-the-world-zionist-congress-on-the-10-big-lies-told-by-palestinians-and-t.xml)  
+
 ### [2015-10-20](/news/2015/10/20/index.md)
 
+##### Israeli Prime Minister
 # Israeli Prime Minister Benjamin Netanyahu, in tonight's speech to the World Zionist Congress on "the 10 big lies" told by Palestinians and their backers, said Haj Amin al-Husseini, the Grand Mufti of Jerusalem from 1922-1937, convinced Adolf Hitler and the Nazis to change their original plan of expelling Jews to the so-called Final Solution, i.e., the extermination of Jews. "The Washington Post" states this reinforces Netanyahu's position that Palestinian violence is caused by their old and intractable hatred of Jews, not Israel's 1948 creation. 
 
 The Israeli leader shocked allies and foes alike by claiming Jerusalem&rsquo;s grand mufti instigated the Nazi plan.
 
 
-### Source:
+### Sources:
 
 1. [Washington Post](https://www.washingtonpost.com/world/middle_east/netanyahu-says-a-palestinian-gave-hitler-the-idea-for-the-holocaust/2015/10/21/0a36d7da-ee8b-4135-9726-968eceda4cc9_story.html)
 

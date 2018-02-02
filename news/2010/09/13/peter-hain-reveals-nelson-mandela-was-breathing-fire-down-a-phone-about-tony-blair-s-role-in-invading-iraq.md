@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/13/peter-hain-reveals-nelson-mandela-was-breathing-fire-down-a-phone-about-tony-blair-s-role-in-invading-iraq.html)  [JSON](/news/2010/09/13/peter-hain-reveals-nelson-mandela-was-breathing-fire-down-a-phone-about-tony-blair-s-role-in-invading-iraq.json)  [XML](/news/2010/09/13/peter-hain-reveals-nelson-mandela-was-breathing-fire-down-a-phone-about-tony-blair-s-role-in-invading-iraq.xml)  
+
 ### [2010-09-13](/news/2010/09/13/index.md)
 
+##### Peter Hain
 # Peter Hain reveals Nelson Mandela was "breathing fire" down a phone about Tony Blair's role in invading Iraq. 
 
 Nelson Mandela made a furious phone call to the Cabinet against the Iraq invasion, says shadow Welsh secretary Peter Hain.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/uk-11277148)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/06/7/a-suspected-rapist-is-attacked-and-buried-alive-by-an-angry-mob-in-bolivia.html)  [JSON](/news/2013/06/7/a-suspected-rapist-is-attacked-and-buried-alive-by-an-angry-mob-in-bolivia.json)  [XML](/news/2013/06/7/a-suspected-rapist-is-attacked-and-buried-alive-by-an-angry-mob-in-bolivia.xml)  
+
 ### [2013-06-7](/news/2013/06/7/index.md)
 
+##### Bolivia
 # A suspected rapist is attacked and buried alive by an angry mob in Bolivia. 
 
 A mob in a Bolivian town buried alive a teenager alongside the body of a woman they suspected he had raped and murdered, Bolivian media reported on Friday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/06/07/us-bolivia-mob-idUSBRE9561B420130607)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2013/06/07/us-bolivia-mob-idUSBRE9561B420130607)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

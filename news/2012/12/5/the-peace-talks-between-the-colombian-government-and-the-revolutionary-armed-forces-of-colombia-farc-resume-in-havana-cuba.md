@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/5/the-peace-talks-between-the-colombian-government-and-the-revolutionary-armed-forces-of-colombia-farc-resume-in-havana-cuba.html)  [JSON](/news/2012/12/5/the-peace-talks-between-the-colombian-government-and-the-revolutionary-armed-forces-of-colombia-farc-resume-in-havana-cuba.json)  [XML](/news/2012/12/5/the-peace-talks-between-the-colombian-government-and-the-revolutionary-armed-forces-of-colombia-farc-resume-in-havana-cuba.xml)  
+
 ### [2012-12-5](/news/2012/12/5/index.md)
 
+##### government
 # The peace talks between the Colombian government and the Revolutionary Armed Forces of Colombia (FARC) resume in Havana, Cuba. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/sns-rt-us-colombia-rebelsbre8b40v9-20121205,0,7223880.story)
 

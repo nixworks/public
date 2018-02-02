@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/11/leading-opponents-of-zimbabwe-s-president-robert-mugabe-including-morgan-tsvangirai-leader-of-the-movement-for-democratic-change-and-fou.html)  [JSON](/news/2007/03/11/leading-opponents-of-zimbabwe-s-president-robert-mugabe-including-morgan-tsvangirai-leader-of-the-movement-for-democratic-change-and-fou.json)  [XML](/news/2007/03/11/leading-opponents-of-zimbabwe-s-president-robert-mugabe-including-morgan-tsvangirai-leader-of-the-movement-for-democratic-change-and-fou.xml)  
+
 ### [2007-03-11](/news/2007/03/11/index.md)
 
+##### Zimbabwe
 #  Leading opponents of Zimbabwe's President Robert Mugabe, including Morgan Tsvangirai, leader of the Movement for Democratic Change, and four other members of parliament and party activists, are arrested for defying a ban on protest rallies in Harare. Riot police shoot one activist dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/story/0,10117,21365239-401,00.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/6439013.stm)

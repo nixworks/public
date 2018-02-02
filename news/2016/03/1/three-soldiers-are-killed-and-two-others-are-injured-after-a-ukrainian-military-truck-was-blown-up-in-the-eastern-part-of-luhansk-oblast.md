@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/1/three-soldiers-are-killed-and-two-others-are-inj
 
 ### [2016-03-1](/news/2016/03/1/index.md)
 
+##### War in Donbass
 # Three soldiers are killed and two others are injured after a Ukrainian military truck was blown up in the eastern part of Luhansk Oblast. 
 
 

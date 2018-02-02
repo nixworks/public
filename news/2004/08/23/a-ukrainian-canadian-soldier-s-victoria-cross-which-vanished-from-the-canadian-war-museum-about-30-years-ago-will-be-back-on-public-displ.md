@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2004/08/23/a-ukrainian-canadian-soldier-s-victoria-cross-which-vanished-from-the-canadian-war-museum-about-30-years-ago-will-be-back-on-public-displ.html)  [JSON](/news/2004/08/23/a-ukrainian-canadian-soldier-s-victoria-cross-which-vanished-from-the-canadian-war-museum-about-30-years-ago-will-be-back-on-public-displ.json)  [XML](/news/2004/08/23/a-ukrainian-canadian-soldier-s-victoria-cross-which-vanished-from-the-canadian-war-museum-about-30-years-ago-will-be-back-on-public-displ.xml)  
+
 ### [2004-08-23](/news/2004/08/23/index.md)
 
+##### Ukrainian
 #  A Ukrainian-Canadian soldier's Victoria Cross, which vanished from the Canadian War Museum about 30 years ago, will be back on public display Monday. Cpl. Filip Konowal received the Commonwealth's highest decoration for valour for his bravery in the battle for Hill 70 in France in 1917. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://winnipeg.cbc.ca/regional/servlet/View?filename=mb_konowal20040823)
 2. [National Post](http://www.canada.com/components/printstory/printstory4.aspx?id=58911cbc-32b3-40fa-ad34-23b787a60285)
-3. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_PrintFriendly&c=Article&cid=1093299011601&call_pageid=968332188492)
+3. [Toronto Star](https://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_PrintFriendly&c=Article&cid=1093299011601&call_pageid=968332188492)
 
 ### Related:
 

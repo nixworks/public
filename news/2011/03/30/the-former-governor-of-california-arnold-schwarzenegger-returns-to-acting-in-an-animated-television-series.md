@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/30/the-former-governor-of-california-arnold-schwarzenegger-returns-to-acting-in-an-animated-television-series.html)  [JSON](/news/2011/03/30/the-former-governor-of-california-arnold-schwarzenegger-returns-to-acting-in-an-animated-television-series.json)  [XML](/news/2011/03/30/the-former-governor-of-california-arnold-schwarzenegger-returns-to-acting-in-an-animated-television-series.xml)  
+
 ### [2011-03-30](/news/2011/03/30/index.md)
 
+##### Governor of California
 # The former Governor of California Arnold Schwarzenegger returns to acting in an animated television series. 
 
 With his years as governor behind him, Arnold Schwarzenegger will soon return to his acting career with a new animated TV series.
 
 
-### Source:
+### Sources:
 
 1. [AP via MSNBC](http://today.msnbc.msn.com/id/42349888/ns/today-entertainment/)
 1. [Cover Image](http://media4.s-nbcnews.com/j/ap/tv schwarzenegger series--56790989_v2.standard.jpg)

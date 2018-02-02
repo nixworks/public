@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/12/kenya-threatens-to-leave-the-international-crim
 
 ### [2016-12-12](/news/2016/12/12/index.md)
 
+##### Kenya
 # Kenya threatens to leave the International Criminal Court. 
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/25/the-australian-labor-party-leads-the-tight-race
 
 ### [2017-11-25](/news/2017/11/25/index.md)
 
+##### Queensland state election, 2017
 # The Australian Labor Party leads the tight race with three-quarters of the votes counted. Pauline Hanson's One Nation party has yet to confirm victory in any contest; the nationalists are projected to win just one seat though they may poll better overall than the predicted 20 percent. Official results may not be known for several days. 
 
 

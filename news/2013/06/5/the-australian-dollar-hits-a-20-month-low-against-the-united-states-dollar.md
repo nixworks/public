@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/5/the-australian-dollar-hits-a-20-month-low-against-the-united-states-dollar.html)  [JSON](/news/2013/06/5/the-australian-dollar-hits-a-20-month-low-against-the-united-states-dollar.json)  [XML](/news/2013/06/5/the-australian-dollar-hits-a-20-month-low-against-the-united-states-dollar.xml)  
+
 ### [2013-06-5](/news/2013/06/5/index.md)
 
+##### A$
 # The Australian dollar hits a 20-month low against the United States dollar. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Telegraph](http://www.dailytelegraph.com.au/business/australian-dollar/dollar-hits-20month-low/story-fni0d3av-1226658247294)
 

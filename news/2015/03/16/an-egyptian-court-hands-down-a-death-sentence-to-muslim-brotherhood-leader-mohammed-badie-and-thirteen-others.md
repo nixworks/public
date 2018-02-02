@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/16/an-egyptian-court-hands-down-a-death-sentence-to-muslim-brotherhood-leader-mohammed-badie-and-thirteen-others.html)  [JSON](/news/2015/03/16/an-egyptian-court-hands-down-a-death-sentence-to-muslim-brotherhood-leader-mohammed-badie-and-thirteen-others.json)  [XML](/news/2015/03/16/an-egyptian-court-hands-down-a-death-sentence-to-muslim-brotherhood-leader-mohammed-badie-and-thirteen-others.xml)  
+
 ### [2015-03-16](/news/2015/03/16/index.md)
 
+##### Egypt
 # An Egyptian court hands down a death sentence to Muslim Brotherhood leader Mohammed Badie and thirteen others. 
 
 An Egyptian court hands down death sentences to Muslim Brotherhood leader Mohammed Badie and 13 others, state media reports.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://m.bbc.com/news/world-middle-east-31914964)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69395000/jpg/_69395185_019015350.jpg)

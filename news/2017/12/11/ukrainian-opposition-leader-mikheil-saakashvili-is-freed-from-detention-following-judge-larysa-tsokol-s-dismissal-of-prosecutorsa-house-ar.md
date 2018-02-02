@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/11/ukrainian-opposition-leader-mikheil-saakashvili
 
 ### [2017-12-11](/news/2017/12/11/index.md)
 
+##### Ukrainian crisis
 # Ukrainian opposition leader Mikheil Saakashvili is freed from detention following Judge Larysa Tsokol's dismissal of prosecutors' house arrest request. 
 
 

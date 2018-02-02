@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/14/the-us-trade-deficit-with-the-people-s-republic-of-china-hit-a-record-usd-12-7-billion-in-september-with-imports-from-mainland-china-also.html)  [JSON](/news/2003/11/14/the-us-trade-deficit-with-the-people-s-republic-of-china-hit-a-record-usd-12-7-billion-in-september-with-imports-from-mainland-china-also.json)  [XML](/news/2003/11/14/the-us-trade-deficit-with-the-people-s-republic-of-china-hit-a-record-usd-12-7-billion-in-september-with-imports-from-mainland-china-also.xml)  
+
 ### [2003-11-14](/news/2003/11/14/index.md)
 
+##### USD
 #  The US trade deficit with the People's Republic of China hit a record USD $12.7 billion in September, with imports from mainland China also a record at $14.8 billion. For the first nine months of that year, the total trade deficit was $89.7 billion. At this pace, it will surpass the record of $103 billion set in 2002.
 
 

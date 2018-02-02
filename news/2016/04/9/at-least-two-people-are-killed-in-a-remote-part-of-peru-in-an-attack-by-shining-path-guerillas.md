@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/9/at-least-two-people-are-killed-in-a-remote-part-
 
 ### [2016-04-9](/news/2016/04/9/index.md)
 
+##### Internal conflict in Peru
 #  At least two people are killed in a remote part of Peru in an attack by Shining Path guerillas. 
 
 

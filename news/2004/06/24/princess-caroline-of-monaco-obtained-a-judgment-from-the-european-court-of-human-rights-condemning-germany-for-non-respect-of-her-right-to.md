@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/06/24/princess-caroline-of-monaco-obtained-a-judgment-from-the-european-court-of-human-rights-condemning-germany-for-non-respect-of-her-right-to.html)  [JSON](/news/2004/06/24/princess-caroline-of-monaco-obtained-a-judgment-from-the-european-court-of-human-rights-condemning-germany-for-non-respect-of-her-right-to.json)  [XML](/news/2004/06/24/princess-caroline-of-monaco-obtained-a-judgment-from-the-european-court-of-human-rights-condemning-germany-for-non-respect-of-her-right-to.xml)  
+
 ### [2004-06-24](/news/2004/06/24/index.md)
 
+##### Caroline, Princess of Hanover
 #  Princess Caroline of Monaco obtained a judgment from the European Court of Human Rights condemning Germany for non-respect of her right to a private life. The seven judges who examined her request ruled that German jurisdictions have misunderstood this right by refusing to forbid publication of photographs depicting Caroline in scenes of her daily life.
 
 

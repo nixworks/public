@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/27/more-than-30-activists-are-held-in-detention-in-malaysia-ahead-of-a-mass-rally-in-kuala-lumpur-asking-for-an-end-to-fraud-the-government-de.html)  [JSON](/news/2011/06/27/more-than-30-activists-are-held-in-detention-in-malaysia-ahead-of-a-mass-rally-in-kuala-lumpur-asking-for-an-end-to-fraud-the-government-de.json)  [XML](/news/2011/06/27/more-than-30-activists-are-held-in-detention-in-malaysia-ahead-of-a-mass-rally-in-kuala-lumpur-asking-for-an-end-to-fraud-the-government-de.xml)  
+
 ### [2011-06-27](/news/2011/06/27/index.md)
 
+##### Malaysia
 # More than 30 activists are held in detention in Malaysia ahead of a mass rally in Kuala Lumpur asking for an end to fraud. The government declares the rally "illegal". 
 
 More than 30 Malaysian activists remain in detention after police arrests at the weekend ahead of a planned mass rally calling for electoral reform.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13923599)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53706000/jpg/_53706229_012268924-1.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/5/u-s-president-george-w-bush-on-his-way-to-beijing-to-attend-the-olympics-stops-in-south-korea-and-thailand.html)  [JSON](/news/2008/08/5/u-s-president-george-w-bush-on-his-way-to-beijing-to-attend-the-olympics-stops-in-south-korea-and-thailand.json)  [XML](/news/2008/08/5/u-s-president-george-w-bush-on-his-way-to-beijing-to-attend-the-olympics-stops-in-south-korea-and-thailand.xml)  
+
 ### [2008-08-5](/news/2008/08/5/index.md)
 
+##### George W. Bush
 #  U.S. President George W. Bush, on his way to Beijing to attend the Olympics, stops in South Korea and Thailand. 
 
 President Bush embarks Monday on his last venture as president to the Far East, a trip built around the Olympic Games in Beijing. The president will stop en route at an Alaskan Air Force base to speak to military personnel and get his plane refueled.
 
 
-### Source:
+### Sources:
 
 1. [FOX News](http://www.foxnews.com/story/0,2933,396761,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

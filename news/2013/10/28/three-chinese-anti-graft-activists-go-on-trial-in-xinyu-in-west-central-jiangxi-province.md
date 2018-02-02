@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/10/28/three-chinese-anti-graft-activists-go-on-trial-in-xinyu-in-west-central-jiangxi-province.html)  [JSON](/news/2013/10/28/three-chinese-anti-graft-activists-go-on-trial-in-xinyu-in-west-central-jiangxi-province.json)  [XML](/news/2013/10/28/three-chinese-anti-graft-activists-go-on-trial-in-xinyu-in-west-central-jiangxi-province.xml)  
+
 ### [2013-10-28](/news/2013/10/28/index.md)
 
+##### Chinese
 # Three Chinese anti-graft activists go on trial in Xinyu in west-central Jiangxi province. 
 
 Three Chinese anti-graft activists who agitated for officials to disclose their assets went on trial on Monday in the first case of its kind, underscoring the limits of government tolerance of challenges to its authority.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/10/28/us-china-corruption-idUSBRE99Q0C920131028)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131028&t=2&i=806724122&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99Q1N1900)
+1. [Reuters](https://www.reuters.com/article/2013/10/28/us-china-corruption-idUSBRE99Q0C920131028)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20131028&t=2&i=806724122&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE99Q1N1900)
 
 ### Related:
 

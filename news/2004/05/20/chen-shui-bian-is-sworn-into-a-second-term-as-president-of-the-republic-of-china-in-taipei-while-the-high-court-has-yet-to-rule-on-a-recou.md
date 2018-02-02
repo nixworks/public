@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/20/chen-shui-bian-is-sworn-into-a-second-term-as-president-of-the-republic-of-china-in-taipei-while-the-high-court-has-yet-to-rule-on-a-recou.html)  [JSON](/news/2004/05/20/chen-shui-bian-is-sworn-into-a-second-term-as-president-of-the-republic-of-china-in-taipei-while-the-high-court-has-yet-to-rule-on-a-recou.json)  [XML](/news/2004/05/20/chen-shui-bian-is-sworn-into-a-second-term-as-president-of-the-republic-of-china-in-taipei-while-the-high-court-has-yet-to-rule-on-a-recou.xml)  
+
 ### [2004-05-20](/news/2004/05/20/index.md)
 
+##### Chen Shui-bian
 #  Chen Shui-bian is sworn into a second term as President of the Republic of China in Taipei, while the High Court has yet to rule on a recount of the presidential election that concluded two days before. About 400 dignitaries, including 15 foreign heads of state, attend. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/3731043.stm)
 

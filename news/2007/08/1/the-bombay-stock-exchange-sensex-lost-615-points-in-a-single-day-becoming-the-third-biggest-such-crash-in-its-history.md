@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/08/1/the-bombay-stock-exchange-sensex-lost-615-points-in-a-single-day-becoming-the-third-biggest-such-crash-in-its-history.html)  [JSON](/news/2007/08/1/the-bombay-stock-exchange-sensex-lost-615-points-in-a-single-day-becoming-the-third-biggest-such-crash-in-its-history.json)  [XML](/news/2007/08/1/the-bombay-stock-exchange-sensex-lost-615-points-in-a-single-day-becoming-the-third-biggest-such-crash-in-its-history.xml)  
+
 ### [2007-08-1](/news/2007/08/1/index.md)
 
+##### Bombay Stock Exchange
 #  The Bombay Stock Exchange Sensex lost 615 points in a single day becoming the third biggest such crash in its history.
 
 

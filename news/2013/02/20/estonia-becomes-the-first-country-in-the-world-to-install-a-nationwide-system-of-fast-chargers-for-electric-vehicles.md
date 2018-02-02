@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/02/20/estonia-becomes-the-first-country-in-the-world-to-install-a-nationwide-system-of-fast-chargers-for-electric-vehicles.html)  [JSON](/news/2013/02/20/estonia-becomes-the-first-country-in-the-world-to-install-a-nationwide-system-of-fast-chargers-for-electric-vehicles.json)  [XML](/news/2013/02/20/estonia-becomes-the-first-country-in-the-world-to-install-a-nationwide-system-of-fast-chargers-for-electric-vehicles.xml)  
+
 ### [2013-02-20](/news/2013/02/20/index.md)
 
+##### Estonia
 # Estonia becomes the first country in the world to install a nationwide system of fast chargers for electric vehicles. 
 
 Estonia has become the first country in the world to install a nationwide system of fast chargers for electrical vehicles, the manager of the new system said, as part of European efforts to reduce carbon emissions.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/02/20/uk-estonia-environment-cars-idUKLNE91J02O20130220)
+1. [Reuters](https://www.reuters.com/article/2013/02/20/uk-estonia-environment-cars-idUKLNE91J02O20130220)
 2. [The Guardian](http://www.guardian.co.uk/environment/2013/feb/20/estonia-electric-car-charging-network)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

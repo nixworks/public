@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/7/empire-maker-wins-the-belmont-stakes-horse-race-stopping-the-bid-of-funny-cide-to-win-the-triple-crown-of-thoroughbred-racing-funny-cide.html)  [JSON](/news/2003/06/7/empire-maker-wins-the-belmont-stakes-horse-race-stopping-the-bid-of-funny-cide-to-win-the-triple-crown-of-thoroughbred-racing-funny-cide.json)  [XML](/news/2003/06/7/empire-maker-wins-the-belmont-stakes-horse-race-stopping-the-bid-of-funny-cide-to-win-the-triple-crown-of-thoroughbred-racing-funny-cide.xml)  
+
 ### [2003-06-7](/news/2003/06/7/index.md)
 
+##### Empire Maker
 #  Empire Maker wins the Belmont Stakes horse race, stopping the bid of Funny Cide to win the Triple Crown of Thoroughbred Racing. Funny Cide is third, behind Ten Most Wanted (horse).
 
 

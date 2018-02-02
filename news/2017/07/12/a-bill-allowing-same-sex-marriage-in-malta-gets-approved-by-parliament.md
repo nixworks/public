@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/12/a-bill-allowing-same-sex-marriage-in-malta-gets
 
 ### [2017-07-12](/news/2017/07/12/index.md)
 
+##### Recognition of same-sex unions in Malta
 # A bill allowing same-sex marriage in Malta gets approved by Parliament. 
 
 Parliament this evening approved the introduction of gay marriage through the new Marriage Equality Act with Nationalist MP Edwin Vassallo voting against. Malta became the 15th EU state to introduce same-sex marriage, just six years after the introduction of divorce. Clarifying his vote, Mr...

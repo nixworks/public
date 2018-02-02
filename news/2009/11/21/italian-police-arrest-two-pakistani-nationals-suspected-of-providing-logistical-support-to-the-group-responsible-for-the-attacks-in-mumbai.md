@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2009/11/21/italian-police-arrest-two-pakistani-nationals-suspected-of-providing-logistical-support-to-the-group-responsible-for-the-attacks-in-mumbai.html)  [JSON](/news/2009/11/21/italian-police-arrest-two-pakistani-nationals-suspected-of-providing-logistical-support-to-the-group-responsible-for-the-attacks-in-mumbai.json)  [XML](/news/2009/11/21/italian-police-arrest-two-pakistani-nationals-suspected-of-providing-logistical-support-to-the-group-responsible-for-the-attacks-in-mumbai.xml)  
+
 ### [2009-11-21](/news/2009/11/21/index.md)
 
+##### Italy
 #  Italian police arrest two Pakistani nationals suspected of providing logistical support to the group responsible for the attacks in Mumbai in 2008. 
 
 Italian anti-terrorist police have arrested two Pakistanis suspected of helping to finance the Islamic militant group responsible for the attacks on Mumbai in November 2008, that killed 166 people.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/8372080.stm)
-2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5AK0K220091121)
+2. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE5AK0K220091121)
 3. [The Hindu](http://www.hindu.com/2009/11/22/stories/2009112255760100.htm)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

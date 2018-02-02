@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/02/7/iranian-president-mahmoud-ahmadinejad-orders-his-country-s-atomic-agency-to-begin-enriching-uranium-to-a-higher-level.html)  [JSON](/news/2010/02/7/iranian-president-mahmoud-ahmadinejad-orders-his-country-s-atomic-agency-to-begin-enriching-uranium-to-a-higher-level.json)  [XML](/news/2010/02/7/iranian-president-mahmoud-ahmadinejad-orders-his-country-s-atomic-agency-to-begin-enriching-uranium-to-a-higher-level.xml)  
+
 ### [2010-02-7](/news/2010/02/7/index.md)
 
+##### Iran
 # Iranian President Mahmoud Ahmadinejad orders his country's atomic agency to begin enriching uranium to a higher level. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://www.presstv.ir/detail.aspx?id=118131&sectionid=3510303)
-2. [The New York Times](http://www.nytimes.com/aponline/2010/02/07/world/AP-Iran-Nuclear.html?_r=1&ref=global-home)
+2. [The New York Times](https://www.nytimes.com/aponline/2010/02/07/world/AP-Iran-Nuclear.html?_r=1&ref=global-home)
 
 ### Related:
 

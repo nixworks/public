@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/12/14/annular-solar-eclipse.html)  [JSON](/news/2001/12/14/annular-solar-eclipse.json)  [XML](/news/2001/12/14/annular-solar-eclipse.xml)  
+
 ### [2001-12-14](/news/2001/12/14/index.md)
 
+##### solar eclipse
 #  Annular solar eclipse
 
 

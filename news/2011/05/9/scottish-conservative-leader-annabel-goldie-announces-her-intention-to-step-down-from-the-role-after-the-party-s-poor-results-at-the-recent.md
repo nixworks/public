@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/9/scottish-conservative-leader-annabel-goldie-announces-her-intention-to-step-down-from-the-role-after-the-party-s-poor-results-at-the-recent.html)  [JSON](/news/2011/05/9/scottish-conservative-leader-annabel-goldie-announces-her-intention-to-step-down-from-the-role-after-the-party-s-poor-results-at-the-recent.json)  [XML](/news/2011/05/9/scottish-conservative-leader-annabel-goldie-announces-her-intention-to-step-down-from-the-role-after-the-party-s-poor-results-at-the-recent.xml)  
+
 ### [2011-05-9](/news/2011/05/9/index.md)
 
+##### Scottish Conservative Party
 # Scottish Conservative leader Annabel Goldie announces her intention to step down from the role after the Party's poor results at the recent general election. 
 
 The leader of the Scottish Conservative Party Annabel Goldie says she will stand down in the autumn.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-13340641)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52630000/jpg/_52630699_011708539-1.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/20/an-unknown-shooter-kills-a-newspaper-publisher-in-mindanao-philippines.html)  [JSON](/news/2015/08/20/an-unknown-shooter-kills-a-newspaper-publisher-in-mindanao-philippines.json)  [XML](/news/2015/08/20/an-unknown-shooter-kills-a-newspaper-publisher-in-mindanao-philippines.xml)  
+
 ### [2015-08-20](/news/2015/08/20/index.md)
 
+##### Mindanao
 # An unknown shooter kills a newspaper publisher in Mindanao, Philippines. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/newspaper-publisher-killed-philippines-33174211)
 

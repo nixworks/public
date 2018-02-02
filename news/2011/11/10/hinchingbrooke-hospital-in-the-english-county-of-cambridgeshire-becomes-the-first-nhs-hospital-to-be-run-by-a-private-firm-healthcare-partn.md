@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/10/hinchingbrooke-hospital-in-the-english-county-of-cambridgeshire-becomes-the-first-nhs-hospital-to-be-run-by-a-private-firm-healthcare-partn.html)  [JSON](/news/2011/11/10/hinchingbrooke-hospital-in-the-english-county-of-cambridgeshire-becomes-the-first-nhs-hospital-to-be-run-by-a-private-firm-healthcare-partn.json)  [XML](/news/2011/11/10/hinchingbrooke-hospital-in-the-english-county-of-cambridgeshire-becomes-the-first-nhs-hospital-to-be-run-by-a-private-firm-healthcare-partn.xml)  
+
 ### [2011-11-10](/news/2011/11/10/index.md)
 
+##### Hinchingbrooke Hospital
 # Hinchingbrooke Hospital in the English county of Cambridgeshire becomes the first NHS hospital to be run by a private firm. Healthcare partnership Circle has been awarded a ten-year contract, and will take over administration of the hospital &ndash; which has heavy financial debts &ndash; in February 2012. 
 
 A private firm is taking over the running of a struggling NHS hospital in a groundbreaking £1bn, 10-year deal, it has been confirmed.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/health-15436685)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54219000/jpg/_54219112_hinch.jpg)

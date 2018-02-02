@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/05/9/the-shanghai-composite-index-of-the-shanghai-stock-exchange-reaches-a-record-high-4-000-points.html)  [JSON](/news/2007/05/9/the-shanghai-composite-index-of-the-shanghai-stock-exchange-reaches-a-record-high-4-000-points.json)  [XML](/news/2007/05/9/the-shanghai-composite-index-of-the-shanghai-stock-exchange-reaches-a-record-high-4-000-points.xml)  
+
 ### [2007-05-9](/news/2007/05/9/index.md)
 
+##### Shanghai Composite Index
 #  The Shanghai Composite Index of the Shanghai Stock Exchange reaches a record high 4,000 points. 
 
 After another feverish day in this country’s amazing bull run, share prices in China broke records again today.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2007/05/09/business/worldbusiness/09cnd-chinastox.html?_r=1&hp&oref=slogin)
+1. [New York Times](https://www.nytimes.com/2007/05/09/business/worldbusiness/09cnd-chinastox.html?_r=1&hp&oref=slogin)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2014/11/12/azerbaijan-shoots-down-an-armenian-mil-mi-24-military-helicopter.html)  [JSON](/news/2014/11/12/azerbaijan-shoots-down-an-armenian-mil-mi-24-military-helicopter.json)  [XML](/news/2014/11/12/azerbaijan-shoots-down-an-armenian-mil-mi-24-military-helicopter.xml)  
+
 ### [2014-11-12](/news/2014/11/12/index.md)
 
+##### Azerbaijan
 # Azerbaijan shoots down an Armenian Mil Mi-24 military helicopter. 
 
+Azerbaijan shot down an Armenian helicopter that it said violated its airspace in an attack that may trigger fresh confrontations between the two countries over a disputed region.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2014-11-12/azerbaijan-says-armenian-helicopter-shot-down-in-conflict-zone.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2014-11-12/azerbaijan-says-armenian-helicopter-shot-down-in-conflict-zone.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

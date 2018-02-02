@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/30/the-israeli-supreme-court-issues-a-landmark-ruling-that-a-30-kilometer-planned-stretch-of-the-separation-barrier-in-eastern-jerusalem-viola.html)  [JSON](/news/2004/06/30/the-israeli-supreme-court-issues-a-landmark-ruling-that-a-30-kilometer-planned-stretch-of-the-separation-barrier-in-eastern-jerusalem-viola.json)  [XML](/news/2004/06/30/the-israeli-supreme-court-issues-a-landmark-ruling-that-a-30-kilometer-planned-stretch-of-the-separation-barrier-in-eastern-jerusalem-viola.xml)  
+
 ### [2004-06-30](/news/2004/06/30/index.md)
 
+##### Israel
 #  The Israeli Supreme Court issues a landmark ruling that a 30-kilometer planned stretch of the separation barrier in eastern Jerusalem violates the legal rights of the local Palestinian population to an extent not justified by security concerns, and therefore must be changed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/hasen/pages/ShArt.jhtml?itemNo=446342)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/11/at-least-12-people-are-killed-when-a-bomb-explodes-at-offices-of-pakistan-s-federal-investigation-agency-in-lahore.html)  [JSON](/news/2008/03/11/at-least-12-people-are-killed-when-a-bomb-explodes-at-offices-of-pakistan-s-federal-investigation-agency-in-lahore.json)  [XML](/news/2008/03/11/at-least-12-people-are-killed-when-a-bomb-explodes-at-offices-of-pakistan-s-federal-investigation-agency-in-lahore.xml)  
+
 ### [2008-03-11](/news/2008/03/11/index.md)
 
+##### Pakistan
 #  At least 12 people are killed when a bomb explodes at offices of Pakistan's Federal Investigation Agency in Lahore. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.afp.com/english/news/stories/newsmlmmd.b80071b924fee78597010ca2f833e345.131.html)
 

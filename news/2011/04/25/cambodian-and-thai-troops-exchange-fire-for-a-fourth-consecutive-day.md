@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/25/cambodian-and-thai-troops-exchange-fire-for-a-fourth-consecutive-day.html)  [JSON](/news/2011/04/25/cambodian-and-thai-troops-exchange-fire-for-a-fourth-consecutive-day.json)  [XML](/news/2011/04/25/cambodian-and-thai-troops-exchange-fire-for-a-fourth-consecutive-day.xml)  
+
 ### [2011-04-25](/news/2011/04/25/index.md)
 
+##### Cambodia
 # Cambodian and Thai troops exchange fire for a fourth consecutive day. 
 
 Bangkok calls for bilateral talks while Cambodia accuses Thai forces of damaging ancient temples in renewed fighting.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/04/20114254046831170.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/25/201142551915718621_20.jpg)

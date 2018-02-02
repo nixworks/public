@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/1/a-diarrhea-epidemic-kills-34-people-in-ethiopia-and-infects-more-than-5-000-with-500-hospitalised-in-addis-ababa-in-one-day-alone.html)  [JSON](/news/2009/09/1/a-diarrhea-epidemic-kills-34-people-in-ethiopia-and-infects-more-than-5-000-with-500-hospitalised-in-addis-ababa-in-one-day-alone.json)  [XML](/news/2009/09/1/a-diarrhea-epidemic-kills-34-people-in-ethiopia-and-infects-more-than-5-000-with-500-hospitalised-in-addis-ababa-in-one-day-alone.xml)  
+
 ### [2009-09-1](/news/2009/09/1/index.md)
 
+##### diarrhea
 #  A diarrhea epidemic kills 34 people in Ethiopia and infects more than 5,000, with 500 hospitalised in Addis Ababa in one day alone. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=87&art_id=nw20090901085002930C470042)
 

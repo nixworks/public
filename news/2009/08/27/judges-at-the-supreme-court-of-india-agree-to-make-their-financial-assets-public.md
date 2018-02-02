@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/27/judges-at-the-supreme-court-of-india-agree-to-make-their-financial-assets-public.html)  [JSON](/news/2009/08/27/judges-at-the-supreme-court-of-india-agree-to-make-their-financial-assets-public.json)  [XML](/news/2009/08/27/judges-at-the-supreme-court-of-india-agree-to-make-their-financial-assets-public.xml)  
+
 ### [2009-08-27](/news/2009/08/27/index.md)
 
+##### Supreme Court of India
 #  Judges at the Supreme Court of India agree to make their financial assets public. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8223745.stm)
 2. [Press Trust of India](http://www.ptinews.com/news/250488_Decision-of-SC-judges-to-declare-assets-welcomed)

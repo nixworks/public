@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/19/south-ossetian-president-leonid-tibilov-announces-south-ossetia-intends-on-holding-a-referendum-on-joining-the-russian-federation-tibilov-s.html)  [JSON](/news/2015/10/19/south-ossetian-president-leonid-tibilov-announces-south-ossetia-intends-on-holding-a-referendum-on-joining-the-russian-federation-tibilov-s.json)  [XML](/news/2015/10/19/south-ossetian-president-leonid-tibilov-announces-south-ossetia-intends-on-holding-a-referendum-on-joining-the-russian-federation-tibilov-s.xml)  
+
 ### [2015-10-19](/news/2015/10/19/index.md)
 
+##### Leonid Tibilov
 # South Ossetian President Leonid Tibilov announces South Ossetia intends on holding a referendum on joining the Russian Federation. Tibilov said reuniting with Russia "is a century-long dream of the South Ossetian people". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe](http://www.rferl.org/content/southe-ossetia-referendum-joining-russia/27315075.html)
 

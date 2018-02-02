@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/14/volkswagen-gets-approval-from-germany-s-motor-v
 
 ### [2016-08-14](/news/2016/08/14/index.md)
 
+##### Volkswagen emissions scandal
 # Volkswagen gets approval from Germany's motor vehicle authority for technical fixes on 460,000 cars. 
 
 Volkswagen (VOWG_p.DE) has won German regulatory approval for technical fixes on another 460,000 diesel cars with illicit emissions control software, it said on Sunday, raising the number of vehicles cleared for repair to over 5 million.

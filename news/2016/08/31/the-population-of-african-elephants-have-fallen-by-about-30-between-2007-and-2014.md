@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/31/the-population-of-african-elephants-have-fallen
 
 ### [2016-08-31](/news/2016/08/31/index.md)
 
+##### African elephants
 # The population of African elephants have fallen by about 30% between 2007 and 2014. 
 
 An unprecedented census gives a sobering baseline for managing what’s left of Africa’s elephants.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/16/a-bomb-detonates-in-a-bus-carrying-government-e
 
 ### [2016-03-16](/news/2016/03/16/index.md)
 
+##### War in North-West Pakistan
 #  A bomb detonates in a bus carrying government employees in Peshawar, Pakistan, killing 15 and injuring at least 54. 
 
 More than a dozen killed in attack on government workers in volatile city of Peshawar, near Afghan border

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/18/rioting-at-a-police-station-in-hotan-in-the-xinjiang-region-of-western-china-kills-at-least-four-people.html)  [JSON](/news/2011/07/18/rioting-at-a-police-station-in-hotan-in-the-xinjiang-region-of-western-china-kills-at-least-four-people.json)  [XML](/news/2011/07/18/rioting-at-a-police-station-in-hotan-in-the-xinjiang-region-of-western-china-kills-at-least-four-people.xml)  
+
 ### [2011-07-18](/news/2011/07/18/index.md)
 
+##### Hotan
 # Rioting at a police station in Hotan in the Xinjiang region of western China kills at least four people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14186163)
 2. [Times of India](http://timesofindia.indiatimes.com/world/china/Several-killed-in-police-station-attack-in-Chinas-restive-province-bordering-Pakistan/articleshow/9273172.cms)

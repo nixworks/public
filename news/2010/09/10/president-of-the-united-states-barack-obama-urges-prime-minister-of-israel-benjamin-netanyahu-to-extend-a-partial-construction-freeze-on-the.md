@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/10/president-of-the-united-states-barack-obama-urges-prime-minister-of-israel-benjamin-netanyahu-to-extend-a-partial-construction-freeze-on-the.html)  [JSON](/news/2010/09/10/president-of-the-united-states-barack-obama-urges-prime-minister-of-israel-benjamin-netanyahu-to-extend-a-partial-construction-freeze-on-the.json)  [XML](/news/2010/09/10/president-of-the-united-states-barack-obama-urges-prime-minister-of-israel-benjamin-netanyahu-to-extend-a-partial-construction-freeze-on-the.xml)  
+
 ### [2010-09-10](/news/2010/09/10/index.md)
 
+##### U.S. President
 # President of the United States Barack Obama urges Prime Minister of Israel Benjamin Netanyahu to extend a partial construction freeze on the West Bank. 
 
 President Obama said Friday that he had urged Israeli Prime Minister Benjamin Netanyahu to extend a partial freeze on Israeli settlement construction in the West Bank because peace talks with the...
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/news/politics/la-fg-obama-mideast-peace-20100911,0,6386922.story)
 1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

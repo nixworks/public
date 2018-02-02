@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/27/two-years-after-its-launch-supporters-of-the-ic
 
 ### [2016-07-27](/news/2016/07/27/index.md)
 
+##### Ice Bucket Challenge
 # Two years after its launch, supporters of the Ice Bucket Challenge to bring awareness to ALS celebrate scientific discovery regarding NEK1. 
 
 

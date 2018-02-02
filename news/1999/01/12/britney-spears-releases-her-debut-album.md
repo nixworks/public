@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/01/12/britney-spears-releases-her-debut-album.html)  [JSON](/news/1999/01/12/britney-spears-releases-her-debut-album.json)  [XML](/news/1999/01/12/britney-spears-releases-her-debut-album.xml)  
+
 ### [1999-01-12](/news/1999/01/12/index.md)
 
+##### Britney Spears
 #  Britney Spears releases her debut album.
 
 

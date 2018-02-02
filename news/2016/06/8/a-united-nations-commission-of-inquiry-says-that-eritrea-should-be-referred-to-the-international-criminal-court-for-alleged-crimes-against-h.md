@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/8/a-united-nations-commission-of-inquiry-says-that
 
 ### [2016-06-8](/news/2016/06/8/index.md)
 
+##### United Nations
 # A United Nations commission of inquiry says that Eritrea should be referred to the International Criminal Court for alleged crimes against humanity committed in the country, including the enslavement of between 300,000 and 400,000 people through military conscription. 
 
 GENEVA (AP) — Eritrea&#039;s &quot;systematic, widespread&quot; human rights abuses should be referred to the International Criminal Court as crimes against humanity that include enslavement of up to 400,000 people, a United Nations…

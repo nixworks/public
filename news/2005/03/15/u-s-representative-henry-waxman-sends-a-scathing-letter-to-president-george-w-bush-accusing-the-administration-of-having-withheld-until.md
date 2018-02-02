@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/15/u-s-representative-henry-waxman-sends-a-scathing-letter-to-president-george-w-bush-accusing-the-administration-of-having-withheld-until.html)  [JSON](/news/2005/03/15/u-s-representative-henry-waxman-sends-a-scathing-letter-to-president-george-w-bush-accusing-the-administration-of-having-withheld-until.json)  [XML](/news/2005/03/15/u-s-representative-henry-waxman-sends-a-scathing-letter-to-president-george-w-bush-accusing-the-administration-of-having-withheld-until.xml)  
+
 ### [2005-03-15](/news/2005/03/15/index.md)
 
+##### Henry Waxman
 #  U.S. Representative Henry Waxman sends a scathing letter to President George W. Bush, accusing the administration of having withheld until after the election a damaging audit regarding overcharges by Halliburton for services in Iraq (such as charging $27,000,000 for transporting $82,000 worth of fuel from Kuwait to Iraq). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/Iraq/Story/0,2763,1438694,00.html)
 2. [Philadelphia Daily News](http://www.philly.com/mld/dailynews/news/nation/11139371.htm)

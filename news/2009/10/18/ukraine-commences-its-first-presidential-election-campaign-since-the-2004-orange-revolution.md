@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/10/18/ukraine-commences-its-first-presidential-election-campaign-since-the-2004-orange-revolution.html)  [JSON](/news/2009/10/18/ukraine-commences-its-first-presidential-election-campaign-since-the-2004-orange-revolution.json)  [XML](/news/2009/10/18/ukraine-commences-its-first-presidential-election-campaign-since-the-2004-orange-revolution.xml)  
+
 ### [2009-10-18](/news/2009/10/18/index.md)
 
+##### Ukraine
 #  Ukraine commences its first presidential election campaign since the 2004 Orange Revolution. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE59H0UN20091018)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20091018&t=2&i=11986388&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-10-18T121711Z_01_BTRE59H0Y4U00_RTROPTP_0_BELGIUM)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE59H0UN20091018)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20091018&t=2&i=11986388&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-10-18T121711Z_01_BTRE59H0Y4U00_RTROPTP_0_BELGIUM)
 
 ### Related:
 

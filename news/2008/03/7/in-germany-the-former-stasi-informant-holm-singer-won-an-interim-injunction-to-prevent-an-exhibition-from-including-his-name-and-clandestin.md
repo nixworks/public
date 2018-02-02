@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/03/7/in-germany-the-former-stasi-informant-holm-singer-won-an-interim-injunction-to-prevent-an-exhibition-from-including-his-name-and-clandestin.html)  [JSON](/news/2008/03/7/in-germany-the-former-stasi-informant-holm-singer-won-an-interim-injunction-to-prevent-an-exhibition-from-including-his-name-and-clandestin.json)  [XML](/news/2008/03/7/in-germany-the-former-stasi-informant-holm-singer-won-an-interim-injunction-to-prevent-an-exhibition-from-including-his-name-and-clandestin.xml)  
+
 ### [2008-03-7](/news/2008/03/7/index.md)
 
+##### Stasi
 #  In Germany the former Stasi informant Holm Singer won an interim injunction to prevent an exhibition from including his name and clandestine activities. 
 
 A former East German Stasi informant who betrayed local church officials has won a court battle to prevent an exhibition on the notorious secret police from including his name and clandestine activities.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSL2587786520080325)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSL2587786520080325)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

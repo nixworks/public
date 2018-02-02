@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/17/irish-nationwide-chairman-michael-walsh-resigns-over-his-involvement-in-questionable-loan-arrangements-with-anglo-irish-bank.html)  [JSON](/news/2009/02/17/irish-nationwide-chairman-michael-walsh-resigns-over-his-involvement-in-questionable-loan-arrangements-with-anglo-irish-bank.json)  [XML](/news/2009/02/17/irish-nationwide-chairman-michael-walsh-resigns-over-his-involvement-in-questionable-loan-arrangements-with-anglo-irish-bank.xml)  
+
 ### [2009-02-17](/news/2009/02/17/index.md)
 
+##### Irish Nationwide
 #  Irish Nationwide Chairman Michael Walsh resigns over his involvement in questionable loan arrangements with Anglo Irish Bank. 
 
 The Chairman of the Irish Nationwide Building Society, Dr Michael Walsh, resigned this evening.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0217/irishnationwide.html)
 1. [Cover Image](https://img.rasset.ie/000213b3-1600.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/11/a-suicide-bomber-kills-at-least-29-people-and-i
 
 ### [2016-12-11](/news/2016/12/11/index.md)
 
+##### War in Somalia (2009-present)
 # A suicide bomber kills at least 29 people and injures 50 others in an attack on a police station near Mogadishu's port. 
 
 

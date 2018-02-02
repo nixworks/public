@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/23/a-frenchman-and-his-algerian-driver-are-kidnapped-by-armed-men-in-niger.html)  [JSON](/news/2010/04/23/a-frenchman-and-his-algerian-driver-are-kidnapped-by-armed-men-in-niger.json)  [XML](/news/2010/04/23/a-frenchman-and-his-algerian-driver-are-kidnapped-by-armed-men-in-niger.xml)  
+
 ### [2010-04-23](/news/2010/04/23/index.md)
 
+##### France
 # A Frenchman and his Algerian driver are kidnapped by armed men in Niger. 
 
 A&#x20;Frenchman&#x20;and&#x20;an&#x20;Algerian&#x20;national&#x20;were&#x20;kidnapped&#x20;by&#x20;armed&#x20;men&#x20;Thursday&#x20;near&#x20;Niger&#x27;s&#x20;northern&#x20;town&#x20;of&#x20;Inabangaret,&#x20;close&#x20;to&#x20;the&#x20;Algerian&#x20;border.&#x20;The&#x20;desert&#x20;region&#x20;which&#x20;spans&#x20;between&#x20;Niger,&#x20;Mali&#x20;and&#x20;Algeria&#x20;is&#x20;notorious&#x20;for&#x20;tourist&#x20;abductions.
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://arabnews.com/world/article46462.ece)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8639205.stm)

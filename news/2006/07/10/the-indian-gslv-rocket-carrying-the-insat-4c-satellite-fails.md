@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/10/the-indian-gslv-rocket-carrying-the-insat-4c-satellite-fails.html)  [JSON](/news/2006/07/10/the-indian-gslv-rocket-carrying-the-insat-4c-satellite-fails.json)  [XML](/news/2006/07/10/the-indian-gslv-rocket-carrying-the-insat-4c-satellite-fails.xml)  
+
 ### [2006-07-10](/news/2006/07/10/index.md)
 
+##### Indian Space Research Organization
 #  The Indian GSLV rocket carrying the INSAT 4C satellite fails. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN.com](http://www.cnn.com/2006/TECH/space/07/10/india.satellite.ap/index.html)
 

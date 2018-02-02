@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/7/war-on-terrorism-british-police-announced-details-of-the-discovery-of-traces-of-the-toxin-ricin-in-a-flat-in-wood-green-in-north-london-in.html)  [JSON](/news/2003/01/7/war-on-terrorism-british-police-announced-details-of-the-discovery-of-traces-of-the-toxin-ricin-in-a-flat-in-wood-green-in-north-london-in.json)  [XML](/news/2003/01/7/war-on-terrorism-british-police-announced-details-of-the-discovery-of-traces-of-the-toxin-ricin-in-a-flat-in-wood-green-in-north-london-in.xml)  
+
 ### [2003-01-7](/news/2003/01/7/index.md)
 
+##### War on Terrorism
 #  War on Terrorism: British police announced details of the discovery of traces of the toxin ricin in a flat in Wood Green in North London in the wake of the arrest of six terrorist suspects. The timing of this news coincided with a major speech by Prime Minister Tony Blair dealing with the threat of terrorism and Britain's relationship with the U.S.A.
 
 

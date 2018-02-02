@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/7/the-philippines-house-of-representatives-seeks-t
 
 ### [2016-07-7](/news/2016/07/7/index.md)
 
+##### drug crackdown
 # The Philippines House of Representatives seeks to investigate the rise in deaths of suspected drug dealers in the country. 
 
 

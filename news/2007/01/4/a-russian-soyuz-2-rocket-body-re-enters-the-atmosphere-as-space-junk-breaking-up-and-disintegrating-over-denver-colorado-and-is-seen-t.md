@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/4/a-russian-soyuz-2-rocket-body-re-enters-the-atmosphere-as-space-junk-breaking-up-and-disintegrating-over-denver-colorado-and-is-seen-t.html)  [JSON](/news/2007/01/4/a-russian-soyuz-2-rocket-body-re-enters-the-atmosphere-as-space-junk-breaking-up-and-disintegrating-over-denver-colorado-and-is-seen-t.json)  [XML](/news/2007/01/4/a-russian-soyuz-2-rocket-body-re-enters-the-atmosphere-as-space-junk-breaking-up-and-disintegrating-over-denver-colorado-and-is-seen-t.xml)  
+
 ### [2007-01-4](/news/2007/01/4/index.md)
 
+##### Soyuz 2
 #  A Russian Soyuz 2 rocket body re-enters the atmosphere as "space junk", breaking up and disintegrating over Denver, Colorado, and is seen throughout the Rocky Mountains of the United States. The rocket was used to launch the French CoRoT astronomy satellite on December 27, 2006. None of the "space junk" fragments are confirmed to have struck Earth. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [KDVR](http://www.myfoxcolorado.com/myfox/pages/Home/Detail?contentId=1961501&version=36&locale=EN-US&layoutCode=TSTY&pageId=1.1.1)
 2. [KMGH](http://www.thedenverchannel.com/video/10669653/index.html)

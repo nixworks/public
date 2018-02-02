@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/21/president-yoweri-museveni-of-uganda-meets-rebels-of-the-lord-s-resistance-army-for-the-first-time-in-an-attempt-to-revive-the-juba-talks.html)  [JSON](/news/2006/10/21/president-yoweri-museveni-of-uganda-meets-rebels-of-the-lord-s-resistance-army-for-the-first-time-in-an-attempt-to-revive-the-juba-talks.json)  [XML](/news/2006/10/21/president-yoweri-museveni-of-uganda-meets-rebels-of-the-lord-s-resistance-army-for-the-first-time-in-an-attempt-to-revive-the-juba-talks.xml)  
+
 ### [2006-10-21](/news/2006/10/21/index.md)
 
+##### President
 #  President Yoweri Museveni of Uganda meets rebels of the Lord's Resistance Army for the first time in an attempt to revive the Juba talks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6072994.stm)
 

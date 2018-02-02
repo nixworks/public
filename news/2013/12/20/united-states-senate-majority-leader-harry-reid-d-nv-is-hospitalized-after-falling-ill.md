@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/12/20/united-states-senate-majority-leader-harry-reid-d-nv-is-hospitalized-after-falling-ill.html)  [JSON](/news/2013/12/20/united-states-senate-majority-leader-harry-reid-d-nv-is-hospitalized-after-falling-ill.json)  [XML](/news/2013/12/20/united-states-senate-majority-leader-harry-reid-d-nv-is-hospitalized-after-falling-ill.xml)  
+
 ### [2013-12-20](/news/2013/12/20/index.md)
 
+##### Senate Majority Leader
 # United States Senate Majority Leader Harry Reid (D-NV) is hospitalized after falling ill. 
 
 Senator Harry Reid, the majority leader, fell ill Friday morning and went to the hospital as a precaution, a spokesman said.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2013/12/21/us/politics/harry-reid-health.html?_r=0)
+1. [The New York Times](https://www.nytimes.com/2013/12/21/us/politics/harry-reid-health.html?_r=0)
 1. [Cover Image](https://static01.nyt.com/images/2013/12/21/us/21reid_span/21reid_span-videoSixteenByNine1050.jpg)
 
 ### Related:

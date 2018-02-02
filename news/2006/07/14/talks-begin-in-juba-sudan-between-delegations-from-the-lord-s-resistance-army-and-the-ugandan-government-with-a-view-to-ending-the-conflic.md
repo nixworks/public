@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/14/talks-begin-in-juba-sudan-between-delegations-from-the-lord-s-resistance-army-and-the-ugandan-government-with-a-view-to-ending-the-conflic.html)  [JSON](/news/2006/07/14/talks-begin-in-juba-sudan-between-delegations-from-the-lord-s-resistance-army-and-the-ugandan-government-with-a-view-to-ending-the-conflic.json)  [XML](/news/2006/07/14/talks-begin-in-juba-sudan-between-delegations-from-the-lord-s-resistance-army-and-the-ugandan-government-with-a-view-to-ending-the-conflic.xml)  
+
 ### [2006-07-14](/news/2006/07/14/index.md)
 
+##### Juba
 #  Talks begin in Juba, Sudan between delegations from the Lord's Resistance Army and the Ugandan Government with a view to ending the conflict centred in Acholiland. The leader of the Ugandan delegation, Internal Affairs Minister Dr Ruhakana Rugunda had stated that obtaining a quick ceasefire is his priority. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [allAfrica.com](http://allafrica.com/stories/200607140756.html)
 

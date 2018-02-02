@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/30/u-s-secretary-of-state-condoleezza-rice-canceled-her-visit-to-a-mosque-after-a-protest-group-threatened-to-invade-the-mosque-during-sche.html)  [JSON](/news/2006/03/30/u-s-secretary-of-state-condoleezza-rice-canceled-her-visit-to-a-mosque-after-a-protest-group-threatened-to-invade-the-mosque-during-sche.json)  [XML](/news/2006/03/30/u-s-secretary-of-state-condoleezza-rice-canceled-her-visit-to-a-mosque-after-a-protest-group-threatened-to-invade-the-mosque-during-sche.xml)  
+
 ### [2006-03-30](/news/2006/03/30/index.md)
 
+##### Secretary of State
 #  U.S. Secretary of State Condoleezza Rice canceled her visit to a mosque after a protest group threatened to "invade the mosque" during scheduled prayers (see Condoleezza Rice visit to Blackburn and Liverpool). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/england/lancashire/4860496.stm)
 

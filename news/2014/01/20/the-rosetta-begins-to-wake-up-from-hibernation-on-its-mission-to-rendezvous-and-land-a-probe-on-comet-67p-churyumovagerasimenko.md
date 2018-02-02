@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2014/01/20/the-rosetta-begins-to-wake-up-from-hibernation-on-its-mission-to-rendezvous-and-land-a-probe-on-comet-67p-churyumovagerasimenko.html)  [JSON](/news/2014/01/20/the-rosetta-begins-to-wake-up-from-hibernation-on-its-mission-to-rendezvous-and-land-a-probe-on-comet-67p-churyumovagerasimenko.json)  [XML](/news/2014/01/20/the-rosetta-begins-to-wake-up-from-hibernation-on-its-mission-to-rendezvous-and-land-a-probe-on-comet-67p-churyumovagerasimenko.xml)  
+
 ### [2014-01-20](/news/2014/01/20/index.md)
 
+##### ''Rosetta'' space probe
 # The Rosetta begins to 'wake up' from hibernation on its mission to rendezvous and land a probe on Comet 67P-Churyumov-Gerasimenko. 
 
 European Space Agency controllers wait for a signal from the Rosetta probe that confirms it is awake and ready to resume the audacious mission to chase down a comet.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/science-environment-25782249)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72376000/jpg/_72376241_rosetta_-_the_comet_chaser.jpg)
+
+### Changes:
+
+1. [The Rosetta begins to 'wake up' from hibernation on its mission to rendezvous and land a probe on Comet 67P-Churyumov-Gerasimenko. ](/news/2014/01/20/the-rosetta-begins-to-wake-up-from-hibernation-on-its-mission-to-rendezvous-and-land-a-probe-on-comet-67p-churyumov-gerasimenko.md) _2017-08-27 03:40:13 (First version)_
+1. [The Rosetta begins to 'wake up' from hibernation on its mission to rendezvous and land a probe on Comet 67P-Churyumov-Gerasimenko. ](/news/2014/01/20/the-rosetta-begins-to-wake-up-from-hibernation-on-its-mission-to-rendezvous-and-land-a-probe-on-comet-67p-churyumovagerasimenko.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ European Space Agency controllers wait for a signal from the Rosetta probe that 
 3. [Europe's Rosetta space probe reaches the distant 67P-Churyumov-Gerasimenko to orbit it and eventually land. ](/news/2014/08/6/europe-s-rosetta-space-probe-reaches-the-distant-67p-churyumovagerasimenko-to-orbit-it-and-eventually-land.md) _Context: ''Rosetta'' space probe, 67P/Churyumov-Gerasimenko_
 4. [ An article published in "Nature" reports high levels of molecular oxygen found by the Rosetta space probe on comet 67P-Churyumov-Gerasimenko. This discovery could have implications for theories of the origin of the solar system. ](/news/2015/10/28/an-article-published-in-nature-reports-high-levels-of-molecular-oxygen-found-by-the-rosetta-space-probe-on-comet-67p-churyumov-gerasimenk.md) _Context: ''Rosetta'' space probe_
 5. [ The Philae lander on comet 67P-Churyumov-Gerasimenko has lost contact with the European Space Agency (ESA) ground control. ](/news/2015/07/20/the-philae-lander-on-comet-67p-churyumovagerasimenko-has-lost-contact-with-the-european-space-agency-esa-ground-control.md) _Context: 67P/Churyumov-Gerasimenko_
-
-### Changes:
-
-1. [The Rosetta begins to 'wake up' from hibernation on its mission to rendezvous and land a probe on Comet 67P-Churyumov-Gerasimenko. ](/news/2014/01/20/the-rosetta-begins-to-wake-up-from-hibernation-on-its-mission-to-rendezvous-and-land-a-probe-on-comet-67p-churyumov-gerasimenko.md) _2017-08-27 03:40:13 (First version)_
-1. [The Rosetta begins to 'wake up' from hibernation on its mission to rendezvous and land a probe on Comet 67P-Churyumov-Gerasimenko. ](/news/2014/01/20/the-rosetta-begins-to-wake-up-from-hibernation-on-its-mission-to-rendezvous-and-land-a-probe-on-comet-67p-churyumovagerasimenko.md) _(Current version)_

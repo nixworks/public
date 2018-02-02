@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/22/an-indian-air-force-an32-carrying-29-people-on-
 
 ### [2016-07-22](/news/2016/07/22/index.md)
 
+##### Indian Air Force AN32
 # An Indian Air Force AN32 carrying 29 people on board has gone missing over the Bay of Bengal while en route to Port Blair in the Andaman and Nicobar Islands. The Indian Navy has launched a search and rescue operation. 
 
 Ships, aircraft and a submarine hunt for an Indian air force plane which has gone missing with more than 20 people on board.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/22/singapore-s-new-prime-minister-lee-hsien-loong-hoping-to-quell-beijing-s-fury-over-his-july-10a12-visit-to-taiwan-says-that-he-will-not.html)  [JSON](/news/2004/08/22/singapore-s-new-prime-minister-lee-hsien-loong-hoping-to-quell-beijing-s-fury-over-his-july-10a12-visit-to-taiwan-says-that-he-will-not.json)  [XML](/news/2004/08/22/singapore-s-new-prime-minister-lee-hsien-loong-hoping-to-quell-beijing-s-fury-over-his-july-10a12-visit-to-taiwan-says-that-he-will-not.xml)  
+
 ### [2004-08-22](/news/2004/08/22/index.md)
 
+##### Singapore
 #  Singapore's new Prime Minister Lee Hsien Loong, hoping to quell Beijing's fury over his July 10-12 visit to Taiwan, says that he will not support the island if the People's Republic of China attacks it in retaliation for any push for Taiwan independence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yahoo! India](http://in.news.yahoo.com/040822/137/2fmou.html)
 

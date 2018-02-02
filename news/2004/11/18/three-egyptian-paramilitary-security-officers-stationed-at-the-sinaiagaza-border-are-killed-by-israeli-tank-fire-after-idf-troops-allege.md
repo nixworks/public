@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/18/three-egyptian-paramilitary-security-officers-stationed-at-the-sinaiagaza-border-are-killed-by-israeli-tank-fire-after-idf-troops-allege.html)  [JSON](/news/2004/11/18/three-egyptian-paramilitary-security-officers-stationed-at-the-sinaiagaza-border-are-killed-by-israeli-tank-fire-after-idf-troops-allege.json)  [XML](/news/2004/11/18/three-egyptian-paramilitary-security-officers-stationed-at-the-sinaiagaza-border-are-killed-by-israeli-tank-fire-after-idf-troops-allege.xml)  
+
 ### [2004-11-18](/news/2004/11/18/index.md)
 
+##### Sinai Peninsula
 #  Three Egyptian paramilitary security officers stationed at the Sinai-Gaza border are killed by Israeli tank fire, after IDF troops allegedly mistook them for Palestinian terrorists or militants. The Egyptian government accepts an apology from Israeli Prime Minister Ariel Sharon and demands an investigation on the incident. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4021461.stm)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/503304.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/1/a-video-obtained-by-the-associated-press-shows-u-s-president-george-w-bush-being-warned-that-the-levees-in-new-orleans-could-break-one-da.html)  [JSON](/news/2006/03/1/a-video-obtained-by-the-associated-press-shows-u-s-president-george-w-bush-being-warned-that-the-levees-in-new-orleans-could-break-one-da.json)  [XML](/news/2006/03/1/a-video-obtained-by-the-associated-press-shows-u-s-president-george-w-bush-being-warned-that-the-levees-in-new-orleans-could-break-one-da.xml)  
+
 ### [2006-03-1](/news/2006/03/1/index.md)
 
+##### George W. Bush
 #  A video obtained by the Associated Press shows U.S. President George W. Bush being warned that the levees in New Orleans could break one day before Hurricane Katrina hit. 
 
 The public release of confidential video shot during high-level government briefings about Hurricane Katrina touched off a new partisan skirmish Thursday.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC.com](http://www.msnbc.msn.com/id/11640594/)
 1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Video/060302/nn_meyers_tapes_060302.standard.jpg)

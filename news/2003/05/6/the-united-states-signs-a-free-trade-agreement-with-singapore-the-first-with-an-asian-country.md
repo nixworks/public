@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/6/the-united-states-signs-a-free-trade-agreement-with-singapore-the-first-with-an-asian-country.html)  [JSON](/news/2003/05/6/the-united-states-signs-a-free-trade-agreement-with-singapore-the-first-with-an-asian-country.json)  [XML](/news/2003/05/6/the-united-states-signs-a-free-trade-agreement-with-singapore-the-first-with-an-asian-country.xml)  
+
 ### [2003-05-6](/news/2003/05/6/index.md)
 
+##### Free Trade Agreement
 #  The United States signs a Free Trade Agreement with Singapore, the first with an Asian country.
 
 

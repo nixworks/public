@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/16/officials-at-the-city-and-county-of-san-francisco-california-estimate-by-the-end-of-the-day-that-they-will-have-issued-2-000-licenses-for.html)  [JSON](/news/2004/02/16/officials-at-the-city-and-county-of-san-francisco-california-estimate-by-the-end-of-the-day-that-they-will-have-issued-2-000-licenses-for.json)  [XML](/news/2004/02/16/officials-at-the-city-and-county-of-san-francisco-california-estimate-by-the-end-of-the-day-that-they-will-have-issued-2-000-licenses-for.xml)  
+
 ### [2004-02-16](/news/2004/02/16/index.md)
 
+##### San Francisco, California
 #  Officials at the city and county of San Francisco, California, estimate by the end of the day that they will have issued 2,000 licenses for same-sex marriages in the four days since they started granting legal recognition to gay and lesbian unions. 
 
 Things to do in Miami
 
 
-### Source:
+### Sources:
 
 1. [Mercury News](http://www.mercurynews.com/mld/mercurynews/news/local/7964972.htm)
 2. [Miami Herald](http://www.miami.com/mld/miamiherald/news/nation/7963377.htm)

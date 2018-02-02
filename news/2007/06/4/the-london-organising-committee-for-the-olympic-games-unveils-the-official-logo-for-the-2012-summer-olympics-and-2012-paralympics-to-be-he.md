@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/4/the-london-organising-committee-for-the-olympic-games-unveils-the-official-logo-for-the-2012-summer-olympics-and-2012-paralympics-to-be-he.html)  [JSON](/news/2007/06/4/the-london-organising-committee-for-the-olympic-games-unveils-the-official-logo-for-the-2012-summer-olympics-and-2012-paralympics-to-be-he.json)  [XML](/news/2007/06/4/the-london-organising-committee-for-the-olympic-games-unveils-the-official-logo-for-the-2012-summer-olympics-and-2012-paralympics-to-be-he.xml)  
+
 ### [2007-06-4](/news/2007/06/4/index.md)
 
+##### London Organising Committee for the Olympic Games
 #  The London Organising Committee for the Olympic Games unveils the official logo for the 2012 Summer Olympics and 2012 Paralympics, to be held in London, England. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/other_sports/olympics_2012/6718243.stm)
 

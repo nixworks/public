@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/09/3/11-people-are-shot-dead-and-a-bomb-at-a-restaurant-injures-27-amid-unrest-in-thailand-s-muslim-south.html)  [JSON](/news/2009/09/3/11-people-are-shot-dead-and-a-bomb-at-a-restaurant-injures-27-amid-unrest-in-thailand-s-muslim-south.json)  [XML](/news/2009/09/3/11-people-are-shot-dead-and-a-bomb-at-a-restaurant-injures-27-amid-unrest-in-thailand-s-muslim-south.xml)  
+
 ### [2009-09-3](/news/2009/09/3/index.md)
 
+##### Thailand
 #  11 people are shot dead and a bomb at a restaurant injures 27 amid unrest in Thailand's Muslim south. 
 
 An army spokesman says 10 people have been killed and at least 25 wounded in two days of attacks in insurgency-plagued southern Thailand.
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/local/153404/motorcycle-bomb-injures-27-in-south)
-2. [The Independent](http://www.independent.co.uk/news/world/asia/ten-killed-in-series-of-attacks-in-southern-thailand-1781028.html)
+2. [The Independent](https://www.independent.co.uk/news/world/asia/ten-killed-in-series-of-attacks-in-southern-thailand-1781028.html)
 
 ### Related:
 

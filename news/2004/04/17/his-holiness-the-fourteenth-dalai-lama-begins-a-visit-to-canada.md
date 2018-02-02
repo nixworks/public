@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/04/17/his-holiness-the-fourteenth-dalai-lama-begins-a-visit-to-canada.html)  [JSON](/news/2004/04/17/his-holiness-the-fourteenth-dalai-lama-begins-a-visit-to-canada.json)  [XML](/news/2004/04/17/his-holiness-the-fourteenth-dalai-lama-begins-a-visit-to-canada.xml)  
+
 ### [2004-04-17](/news/2004/04/17/index.md)
 
+##### Tenzin Gyatso
 #  His Holiness the Fourteenth Dalai Lama begins a visit to Canada. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1082239810670&call_pageid=968332188774&col=968705899037)
+1. [Toronto Star](https://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1082239810670&call_pageid=968332188774&col=968705899037)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/24/united-states-and-iraqi-forces-arrest-at-least-20-suspected-militants-in-kirkuk-iraq.html)  [JSON](/news/2007/11/24/united-states-and-iraqi-forces-arrest-at-least-20-suspected-militants-in-kirkuk-iraq.json)  [XML](/news/2007/11/24/united-states-and-iraqi-forces-arrest-at-least-20-suspected-militants-in-kirkuk-iraq.xml)  
+
 ### [2007-11-24](/news/2007/11/24/index.md)
 
+##### militant
 #  United States and Iraqi forces arrest at least 20 suspected militants in Kirkuk, Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/7111194.stm)
 

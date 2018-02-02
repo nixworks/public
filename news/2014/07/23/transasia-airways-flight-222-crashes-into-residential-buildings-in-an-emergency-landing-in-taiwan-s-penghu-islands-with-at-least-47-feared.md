@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/07/23/transasia-airways-flight-222-crashes-into-residential-buildings-in-an-emergency-landing-in-taiwan-s-penghu-islands-with-at-least-47-feared.html)  [JSON](/news/2014/07/23/transasia-airways-flight-222-crashes-into-residential-buildings-in-an-emergency-landing-in-taiwan-s-penghu-islands-with-at-least-47-feared.json)  [XML](/news/2014/07/23/transasia-airways-flight-222-crashes-into-residential-buildings-in-an-emergency-landing-in-taiwan-s-penghu-islands-with-at-least-47-feared.xml)  
+
 ### [2014-07-23](/news/2014/07/23/index.md)
 
+##### TransAsia Airways Flight 222
 # TransAsia Airways Flight 222 crashes into residential buildings in an emergency landing in Taiwan's Penghu Islands, with at least 47 feared dead and 11 injured. 
 
-Over 40 people are feared dead after a TransAsia Airways plane crashed Wednesday while making an emergency landing in bad weather in the Penghu Islands off the coast of Taiwan.
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/world/2014/07/23/taiwan-transasia-airways-crash/13036929/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/news/world/2014/07/23/taiwan-transasia-airways-crash/13036929/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

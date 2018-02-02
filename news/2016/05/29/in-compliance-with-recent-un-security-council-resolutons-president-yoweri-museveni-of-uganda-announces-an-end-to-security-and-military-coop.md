@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/29/in-compliance-with-recent-un-security-council-r
 
 ### [2016-05-29](/news/2016/05/29/index.md)
 
+##### Foreign relations of North Korea
 # In compliance with recent UN Security Council resolutons, President Yoweri Museveni of Uganda announces an end to security and military cooperation with North Korea. 
 
 Ugandan President Yoweri Museveni said his country would halt security and military cooperation with North Korea, a South Korean official said following a summit in Kampala between Museveni and South Korean President Park Geun-hye.

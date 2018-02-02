@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/01/26/a-meteorite-lands-in-cambodia-and-sparks-several-fires-some-locals-hope-it-is-a-divine-omen-for-peace.html)  [JSON](/news/2005/01/26/a-meteorite-lands-in-cambodia-and-sparks-several-fires-some-locals-hope-it-is-a-divine-omen-for-peace.json)  [XML](/news/2005/01/26/a-meteorite-lands-in-cambodia-and-sparks-several-fires-some-locals-hope-it-is-a-divine-omen-for-peace.xml)  
+
 ### [2005-01-26](/news/2005/01/26/index.md)
 
+##### meteorite
 #  A meteorite lands in Cambodia and sparks several fires. Some locals hope it is a divine omen for peace 
 
 From newly charted astronomical anomalies at the far reaches of the universe to the rise of nanotechnology, nobody covers science and the latest discoveries like Reuters.com.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=7430802)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=7430802)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

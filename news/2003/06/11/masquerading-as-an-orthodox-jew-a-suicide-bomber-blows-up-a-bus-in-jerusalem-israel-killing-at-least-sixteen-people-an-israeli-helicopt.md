@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/11/masquerading-as-an-orthodox-jew-a-suicide-bomber-blows-up-a-bus-in-jerusalem-israel-killing-at-least-sixteen-people-an-israeli-helicopt.html)  [JSON](/news/2003/06/11/masquerading-as-an-orthodox-jew-a-suicide-bomber-blows-up-a-bus-in-jerusalem-israel-killing-at-least-sixteen-people-an-israeli-helicopt.json)  [XML](/news/2003/06/11/masquerading-as-an-orthodox-jew-a-suicide-bomber-blows-up-a-bus-in-jerusalem-israel-killing-at-least-sixteen-people-an-israeli-helicopt.xml)  
+
 ### [2003-06-11](/news/2003/06/11/index.md)
 
+##### Orthodox
 #  Masquerading as an Orthodox Jew, a suicide bomber blows up a bus in Jerusalem, Israel, killing at least sixteen people. An Israeli helicopter attack in the Gaza Strip kills at least seven.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/20/slovenian-meps-of-the-european-people-s-party-announce-that-they-will-vote-against-the-new-line-up-of-the-european-commission-on-22-october.html)  [JSON](/news/2014/09/20/slovenian-meps-of-the-european-people-s-party-announce-that-they-will-vote-against-the-new-line-up-of-the-european-commission-on-22-october.json)  [XML](/news/2014/09/20/slovenian-meps-of-the-european-people-s-party-announce-that-they-will-vote-against-the-new-line-up-of-the-european-commission-on-22-october.xml)  
+
 ### [2014-09-20](/news/2014/09/20/index.md)
 
+##### Member of the European Parliament
 # Slovenian MEPs of the European People's Party announce that they will vote against the new line-up of the European Commission on 22 October unless former PM Alenka Bratusek is replaced as Slovenia's commissioner. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Slovenia Times](http://www.sloveniatimes.com/political-kindergarten-slovenian-epp-meps-to-vote-against-commission)
 

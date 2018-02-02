@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/20/claude-choules-the-last-person-alive-to-have-fought-in-world-war-i-is-buried-in-the-west-australian-port-of-fremantle-having-died-aged-11.html)  [JSON](/news/2011/05/20/claude-choules-the-last-person-alive-to-have-fought-in-world-war-i-is-buried-in-the-west-australian-port-of-fremantle-having-died-aged-11.json)  [XML](/news/2011/05/20/claude-choules-the-last-person-alive-to-have-fought-in-world-war-i-is-buried-in-the-west-australian-port-of-fremantle-having-died-aged-11.xml)  
+
 ### [2011-05-20](/news/2011/05/20/index.md)
 
+##### Claude Choules
 # Claude Choules, the last person alive to have fought in World War I, is buried in the West Australian port of Fremantle, having died aged 110 on 5 May. 
 
 The last person to have fought in World War I has been farewelled at a naval funeral in WA&#039;s port city Fremantle.
 
 
-### Source:
+### Sources:
 
 1. [Melbourne Age](http://www.theage.com.au/wa-news/worlds-last-wwi-combat-veteran-farewelled-20110520-1ew29.html)
 1. [Cover Image](http://www.theage.com.au/content/dam/images/1/b/f/t/f/image.related.articleLeadwide.620x349.1ew29.png/1305865386690.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/21/sagbpo-toma-c-and-prancipe-breaks-relations-wit
 
 ### [2016-12-21](/news/2016/12/21/index.md)
 
+##### International recognition of Taiwan
 # SGBPo Tome and Principe breaks relations with the island country of Taiwan. 
 
 The African island nation of Sao Tome has cut diplomatic ties with Taiwan, officials say.

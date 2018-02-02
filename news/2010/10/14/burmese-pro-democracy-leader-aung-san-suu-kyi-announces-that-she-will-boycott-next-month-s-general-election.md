@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/14/burmese-pro-democracy-leader-aung-san-suu-kyi-announces-that-she-will-boycott-next-month-s-general-election.html)  [JSON](/news/2010/10/14/burmese-pro-democracy-leader-aung-san-suu-kyi-announces-that-she-will-boycott-next-month-s-general-election.json)  [XML](/news/2010/10/14/burmese-pro-democracy-leader-aung-san-suu-kyi-announces-that-she-will-boycott-next-month-s-general-election.xml)  
+
 ### [2010-10-14](/news/2010/10/14/index.md)
 
+##### Burma
 # Burmese pro-democracy leader Aung San Suu Kyi announces that she will boycott next month's general election. 
 
 Burmese pro-democracy leader Aung San Suu Kyi will boycott the country&#039;s general election next month.
 
 
-### Source:
+### Sources:
 
 1. [BBC via ABC News Australia](http://www.abc.net.au/news/stories/2010/10/14/3038552.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

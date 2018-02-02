@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/27/nato-intervenes-in-the-border-clashes-between-kosovo-and-serbia.html)  [JSON](/news/2011/07/27/nato-intervenes-in-the-border-clashes-between-kosovo-and-serbia.json)  [XML](/news/2011/07/27/nato-intervenes-in-the-border-clashes-between-kosovo-and-serbia.xml)  
+
 ### [2011-07-27](/news/2011/07/27/index.md)
 
+##### NATO
 # NATO intervenes in the border clashes between Kosovo and Serbia. 
 
 International concern is raised over a Kosovo police bid to take over border crossings in the ethnic Serb north in which one officer was killed.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-europe-14303165)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54285000/jpg/_54285755_012536408-2.jpg)

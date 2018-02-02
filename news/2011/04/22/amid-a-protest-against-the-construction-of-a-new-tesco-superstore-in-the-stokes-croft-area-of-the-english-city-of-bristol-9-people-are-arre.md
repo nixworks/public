@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/22/amid-a-protest-against-the-construction-of-a-new-tesco-superstore-in-the-stokes-croft-area-of-the-english-city-of-bristol-9-people-are-arre.html)  [JSON](/news/2011/04/22/amid-a-protest-against-the-construction-of-a-new-tesco-superstore-in-the-stokes-croft-area-of-the-english-city-of-bristol-9-people-are-arre.json)  [XML](/news/2011/04/22/amid-a-protest-against-the-construction-of-a-new-tesco-superstore-in-the-stokes-croft-area-of-the-english-city-of-bristol-9-people-are-arre.xml)  
+
 ### [2011-04-22](/news/2011/04/22/index.md)
 
+##### Tesco
 # Amid a protest against the construction of a new Tesco superstore in the Stokes Croft area of the English city of Bristol, 9 people are arrested and 8 police officers are injured. 
 
 Nine people are arrested and eight police officers hurt during violent clashes sparked by a raid on opponents of a new Tesco store in Bristol.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-bristol-13167041)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52312000/jpg/_52312671_tesco_bristol_jonathan_taphouse-12.jpg)

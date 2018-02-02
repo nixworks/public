@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/11/a-moderate-earthquake-strikes-indonesia-s-north-maluku-province.html)  [JSON](/news/2010/09/11/a-moderate-earthquake-strikes-indonesia-s-north-maluku-province.json)  [XML](/news/2010/09/11/a-moderate-earthquake-strikes-indonesia-s-north-maluku-province.xml)  
+
 ### [2010-09-11](/news/2010/09/11/index.md)
 
+##### earthquake
 # A moderate earthquake strikes Indonesia's North Maluku province. 
 
 A moderate 5.9-magnitude earthquake struck Indonesia&#039;s North Maluku province, the meteorology and geophysics agency said, but no tsunami warning was issued.
 
 
-### Source:
+### Sources:
 
 1. [ABC Online](http://www.abc.net.au/news/stories/2010/09/11/3009148.htm?section=justin)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

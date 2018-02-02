@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/6/iraq-war-at-least-eight-explosions-rock-baghdad-and-kill-at-least-35-people-and-wound-over-140-others.html)  [JSON](/news/2010/04/6/iraq-war-at-least-eight-explosions-rock-baghdad-and-kill-at-least-35-people-and-wound-over-140-others.json)  [XML](/news/2010/04/6/iraq-war-at-least-eight-explosions-rock-baghdad-and-kill-at-least-35-people-and-wound-over-140-others.xml)  
+
 ### [2010-04-6](/news/2010/04/6/index.md)
 
+##### Iraq War
 # Iraq War: At least eight explosions rock Baghdad and kill at least 35 people and wound over 140 others. 
 
 String of attacks on residential buildings across Iraqi capital leaves dozens dead.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/04/2010467284376679.html)
 1. [Cover Image](http://www.aljazeera.com)

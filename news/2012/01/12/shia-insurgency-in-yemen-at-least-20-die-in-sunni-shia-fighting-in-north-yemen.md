@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/12/shia-insurgency-in-yemen-at-least-20-die-in-sunni-shia-fighting-in-north-yemen.html)  [JSON](/news/2012/01/12/shia-insurgency-in-yemen-at-least-20-die-in-sunni-shia-fighting-in-north-yemen.json)  [XML](/news/2012/01/12/shia-insurgency-in-yemen-at-least-20-die-in-sunni-shia-fighting-in-north-yemen.xml)  
+
 ### [2012-01-12](/news/2012/01/12/index.md)
 
+##### Shia insurgency in Yemen
 # Shia insurgency in Yemen: at least 20 die in Sunni-Shia fighting in north Yemen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AJE](http://www.aljazeera.com/news/middleeast/2012/01/2012112131156182136.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/12/2012112184637116734_20.jpg)

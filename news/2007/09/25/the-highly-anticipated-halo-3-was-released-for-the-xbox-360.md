@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/09/25/the-highly-anticipated-halo-3-was-released-for-the-xbox-360.html)  [JSON](/news/2007/09/25/the-highly-anticipated-halo-3-was-released-for-the-xbox-360.json)  [XML](/news/2007/09/25/the-highly-anticipated-halo-3-was-released-for-the-xbox-360.xml)  
+
 ### [2007-09-25](/news/2007/09/25/index.md)
 
+##### Halo 3
 #  The highly anticipated Halo 3 was released for the Xbox 360.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/8/the-nebraska-supreme-court-rules-the-electric-chair-unconstitutional.html)  [JSON](/news/2008/02/8/the-nebraska-supreme-court-rules-the-electric-chair-unconstitutional.json)  [XML](/news/2008/02/8/the-nebraska-supreme-court-rules-the-electric-chair-unconstitutional.xml)  
+
 ### [2008-02-8](/news/2008/02/8/index.md)
 
+##### Nebraska
 #  The Nebraska Supreme Court rules the electric chair unconstitutional. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5hrsodwCiOzhG9K71pUY5lHaegIKw)
 

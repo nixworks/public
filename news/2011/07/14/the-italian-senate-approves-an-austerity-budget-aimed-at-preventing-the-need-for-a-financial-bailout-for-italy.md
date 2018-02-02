@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/14/the-italian-senate-approves-an-austerity-budget-aimed-at-preventing-the-need-for-a-financial-bailout-for-italy.html)  [JSON](/news/2011/07/14/the-italian-senate-approves-an-austerity-budget-aimed-at-preventing-the-need-for-a-financial-bailout-for-italy.json)  [XML](/news/2011/07/14/the-italian-senate-approves-an-austerity-budget-aimed-at-preventing-the-need-for-a-financial-bailout-for-italy.xml)  
+
 ### [2011-07-14](/news/2011/07/14/index.md)
 
+##### Italian Senate
 # The Italian Senate approves an austerity budget aimed at preventing the need for a financial bailout for Italy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-14149164)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54064000/jpg/_54064295_012444297-1.jpg)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2015/02/9/bahrain-suspends-the-newly-launched-alarab-news-channel-on-february-1-2015-alarab-s-first-day-of-operations-bahrain-s-information-affair.html)  [JSON](/news/2015/02/9/bahrain-suspends-the-newly-launched-alarab-news-channel-on-february-1-2015-alarab-s-first-day-of-operations-bahrain-s-information-affair.json)  [XML](/news/2015/02/9/bahrain-suspends-the-newly-launched-alarab-news-channel-on-february-1-2015-alarab-s-first-day-of-operations-bahrain-s-information-affair.xml)  
+
 ### [2015-02-9](/news/2015/02/9/index.md)
 
+##### Bahrain
 # Bahrain suspends the newly launched Alarab News Channel. On February 1, 2015, Alarab's first day of operations, Bahrain's Information Affairs Authority had ordered the channel to cease broadcasting since it had not done enough to combat "extremism and terrorism." Alarab had debuted with a Shia opposition politician interview. [http:--www.aljazeera.com-news-middleeast-2015-02-bahrain-suspends-newly-launched-alarab-news-channel-150209155209829.html (Al Jazeera)] [http:--nation.com.pk-international-10-Feb-2015-bahrain-suspends-ksa-owned-news-channel ("The Nation" (Pakistan))] 
 
 

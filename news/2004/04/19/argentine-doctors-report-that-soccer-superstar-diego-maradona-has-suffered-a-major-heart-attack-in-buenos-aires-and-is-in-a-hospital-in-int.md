@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/19/argentine-doctors-report-that-soccer-superstar-diego-maradona-has-suffered-a-major-heart-attack-in-buenos-aires-and-is-in-a-hospital-in-int.html)  [JSON](/news/2004/04/19/argentine-doctors-report-that-soccer-superstar-diego-maradona-has-suffered-a-major-heart-attack-in-buenos-aires-and-is-in-a-hospital-in-int.json)  [XML](/news/2004/04/19/argentine-doctors-report-that-soccer-superstar-diego-maradona-has-suffered-a-major-heart-attack-in-buenos-aires-and-is-in-a-hospital-in-int.xml)  
+
 ### [2004-04-19](/news/2004/04/19/index.md)
 
+##### Argentina
 #  Argentine doctors report that soccer superstar Diego Maradona has suffered a major heart attack in Buenos Aires and is in a hospital in intensive care. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [news.com.au](http://news.com.au/common/story_page/0,4057,9334684%255E13780,00.html)
 

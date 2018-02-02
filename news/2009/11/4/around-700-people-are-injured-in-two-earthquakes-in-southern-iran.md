@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/4/around-700-people-are-injured-in-two-earthquakes-in-southern-iran.html)  [JSON](/news/2009/11/4/around-700-people-are-injured-in-two-earthquakes-in-southern-iran.json)  [XML](/news/2009/11/4/around-700-people-are-injured-in-two-earthquakes-in-southern-iran.xml)  
+
 ### [2009-11-4](/news/2009/11/4/index.md)
 
+##### earthquake
 #  Around 700 people are injured in two earthquakes in southern Iran. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fars News Agency](http://english.farsnews.com/newstext.php?nn=8808130620)
 2. [Times of India](http://edition.cnn.com/2009/WORLD/meast/11/04/iran.earthquake/)

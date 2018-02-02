@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/30/raif-badawi-the-editor-of-a-saudi-arabian-website-to-discuss-the-role-of-religion-in-saudi-arabia-is-sentenced-to-seven-years-in-prison-an.html)  [JSON](/news/2013/07/30/raif-badawi-the-editor-of-a-saudi-arabian-website-to-discuss-the-role-of-religion-in-saudi-arabia-is-sentenced-to-seven-years-in-prison-an.json)  [XML](/news/2013/07/30/raif-badawi-the-editor-of-a-saudi-arabian-website-to-discuss-the-role-of-religion-in-saudi-arabia-is-sentenced-to-seven-years-in-prison-an.xml)  
+
 ### [2013-07-30](/news/2013/07/30/index.md)
 
+##### Raif Badawi
 # Raif Badawi, the editor of a Saudi Arabian website to discuss the role of religion in Saudi Arabia, is sentenced to seven years in prison and 600 lashes for founding an Internet forum that "violates Islamic values and propagates liberal thought." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''New York Daily News](http://www.nydailynews.com/news/world/saudi-arabian-social-website-editor-sentenced-years-behind-bars-600-lashes-article-1.1412811)
 

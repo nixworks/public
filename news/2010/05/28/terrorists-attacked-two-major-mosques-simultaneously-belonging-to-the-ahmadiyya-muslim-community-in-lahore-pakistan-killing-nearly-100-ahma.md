@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2010/05/28/terrorists-attacked-two-major-mosques-simultaneously-belonging-to-the-ahmadiyya-muslim-community-in-lahore-pakistan-killing-nearly-100-ahma.html)  [JSON](/news/2010/05/28/terrorists-attacked-two-major-mosques-simultaneously-belonging-to-the-ahmadiyya-muslim-community-in-lahore-pakistan-killing-nearly-100-ahma.json)  [XML](/news/2010/05/28/terrorists-attacked-two-major-mosques-simultaneously-belonging-to-the-ahmadiyya-muslim-community-in-lahore-pakistan-killing-nearly-100-ahma.xml)  
+
 ### [2010-05-28](/news/2010/05/28/index.md)
 
+##### Ahmadiyya Muslim Community
 # Terrorists attacked two major mosques simultaneously belonging to the Ahmadiyya Muslim Community in Lahore, Pakistan killing nearly 100 Ahmadis. See:May 2010 attacks on Ahmadi mosques in Lahore
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/8/singapore-holds-its-largest-civil-counter-terrorism-exercise-codenamed-exercise-northstar-nbsp-v-simulating-bombing-and-chemical-attacks.html)  [JSON](/news/2006/01/8/singapore-holds-its-largest-civil-counter-terrorism-exercise-codenamed-exercise-northstar-nbsp-v-simulating-bombing-and-chemical-attacks.json)  [XML](/news/2006/01/8/singapore-holds-its-largest-civil-counter-terrorism-exercise-codenamed-exercise-northstar-nbsp-v-simulating-bombing-and-chemical-attacks.xml)  
+
 ### [2006-01-8](/news/2006/01/8/index.md)
 
+##### Singapore
 #  Singapore holds its largest civil counter-terrorism exercise, codenamed Exercise Northstar&nbsp;V, simulating bombing and chemical attacks at four Mass Rapid Transit stations and a bus interchange. Thirteen MRT stations and part of Toa Payoh Bus Interchange are closed for three hours, causing travel disruptions for over 15,000 commuters and triggering a response from some 2,000 personnel from 22 governmental organizations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNA](http://www.channelnewsasia.com/stories/singaporelocalnews/view/187113/1/.html)
 

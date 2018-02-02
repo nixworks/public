@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/09/11/hundreds-of-thousands-of-catalans-link-up-in-a-human-chain-for-the-independence-of-catalonia.html)  [JSON](/news/2013/09/11/hundreds-of-thousands-of-catalans-link-up-in-a-human-chain-for-the-independence-of-catalonia.json)  [XML](/news/2013/09/11/hundreds-of-thousands-of-catalans-link-up-in-a-human-chain-for-the-independence-of-catalonia.xml)  
+
 ### [2013-09-11](/news/2013/09/11/index.md)
 
+##### Catalan people
 # Hundreds of thousands of Catalans link up in a human chain for the independence of Catalonia. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/world/europe/catalans-in-favor-of-breaking-away-from-spain-form-huge-human-chain-to-advertise-their-cause/2013/09/11/0ce45f06-1afa-11e3-80ac-96205cacb45a_story.html)
+1. [The Washington Post](https://www.washingtonpost.com/world/europe/catalans-in-favor-of-breaking-away-from-spain-form-huge-human-chain-to-advertise-their-cause/2013/09/11/0ce45f06-1afa-11e3-80ac-96205cacb45a_story.html)
 
 ### Related:
 

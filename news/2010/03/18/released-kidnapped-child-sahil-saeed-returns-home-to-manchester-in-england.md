@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/18/released-kidnapped-child-sahil-saeed-returns-home-to-manchester-in-england.html)  [JSON](/news/2010/03/18/released-kidnapped-child-sahil-saeed-returns-home-to-manchester-in-england.json)  [XML](/news/2010/03/18/released-kidnapped-child-sahil-saeed-returns-home-to-manchester-in-england.xml)  
+
 ### [2010-03-18](/news/2010/03/18/index.md)
 
+##### Sahil Saeed
 # Released kidnapped child Sahil Saeed returns home to Manchester in England. 
 
 Sahil Saeed, the five-year-old boy freed by kidnappers in Pakistan after his family paid a &pound;110,000 ransom has landed in England with his father.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8575435.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/pakistan/7471320/Sahil-Saeed-returns-home-with-father-after-kidnapping-in-Pakistan.html)

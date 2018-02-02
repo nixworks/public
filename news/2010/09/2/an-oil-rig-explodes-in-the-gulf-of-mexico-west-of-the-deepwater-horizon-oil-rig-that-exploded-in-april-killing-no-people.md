@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/2/an-oil-rig-explodes-in-the-gulf-of-mexico-west-of-the-deepwater-horizon-oil-rig-that-exploded-in-april-killing-no-people.html)  [JSON](/news/2010/09/2/an-oil-rig-explodes-in-the-gulf-of-mexico-west-of-the-deepwater-horizon-oil-rig-that-exploded-in-april-killing-no-people.json)  [XML](/news/2010/09/2/an-oil-rig-explodes-in-the-gulf-of-mexico-west-of-the-deepwater-horizon-oil-rig-that-exploded-in-april-killing-no-people.xml)  
+
 ### [2010-09-2](/news/2010/09/2/index.md)
 
+##### oil rig explodes
 # An oil rig explodes in the Gulf of Mexico, west of the Deepwater Horizon oil rig that exploded in April, killing no people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_GULF_RIG_EXPLOSION?SITE=ILEDW&SECTION=HOME&TEMPLATE=DEFAULT)
 

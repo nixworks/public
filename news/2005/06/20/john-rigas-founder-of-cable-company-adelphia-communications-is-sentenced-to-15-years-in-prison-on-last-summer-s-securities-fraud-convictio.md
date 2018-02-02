@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/06/20/john-rigas-founder-of-cable-company-adelphia-communications-is-sentenced-to-15-years-in-prison-on-last-summer-s-securities-fraud-convictio.html)  [JSON](/news/2005/06/20/john-rigas-founder-of-cable-company-adelphia-communications-is-sentenced-to-15-years-in-prison-on-last-summer-s-securities-fraud-convictio.json)  [XML](/news/2005/06/20/john-rigas-founder-of-cable-company-adelphia-communications-is-sentenced-to-15-years-in-prison-on-last-summer-s-securities-fraud-convictio.xml)  
+
 ### [2005-06-20](/news/2005/06/20/index.md)
 
+##### John Rigas
 #  John Rigas, founder of cable company Adelphia Communications is sentenced to 15 years in prison on last summer's securities fraud conviction. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000103&sid=akRfX9bZxkGI&refer=us)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000103&sid=akRfX9bZxkGI&refer=us)
 
 ### Related:
 

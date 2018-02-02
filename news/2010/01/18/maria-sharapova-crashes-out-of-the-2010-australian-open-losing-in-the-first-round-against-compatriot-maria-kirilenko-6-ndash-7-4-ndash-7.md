@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/18/maria-sharapova-crashes-out-of-the-2010-australian-open-losing-in-the-first-round-against-compatriot-maria-kirilenko-6-ndash-7-4-ndash-7.html)  [JSON](/news/2010/01/18/maria-sharapova-crashes-out-of-the-2010-australian-open-losing-in-the-first-round-against-compatriot-maria-kirilenko-6-ndash-7-4-ndash-7.json)  [XML](/news/2010/01/18/maria-sharapova-crashes-out-of-the-2010-australian-open-losing-in-the-first-round-against-compatriot-maria-kirilenko-6-ndash-7-4-ndash-7.xml)  
+
 ### [2010-01-18](/news/2010/01/18/index.md)
 
+##### Maria Sharapova
 # Maria Sharapova crashes out of the 2010 Australian Open, losing in the first round against compatriot Maria Kirilenko, 6&ndash;7 (4&ndash;7), 6&ndash;3, 4&ndash;6. 
 
 Russian star Maria Sharapova has slumped to her worst grand slam performance in seven years after a shock first round exit from the Australian Open.
 
 
-### Source:
+### Sources:
 
 1. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2010-01-18/sharapova-dumped-in-opening-round/1213620)
 1. [Cover Image](http://www.abc.net.au/news/image/1214584-1x1-700x700.jpg)

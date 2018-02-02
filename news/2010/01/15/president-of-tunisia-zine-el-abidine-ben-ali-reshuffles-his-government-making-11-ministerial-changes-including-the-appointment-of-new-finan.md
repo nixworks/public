@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/15/president-of-tunisia-zine-el-abidine-ben-ali-reshuffles-his-government-making-11-ministerial-changes-including-the-appointment-of-new-finan.html)  [JSON](/news/2010/01/15/president-of-tunisia-zine-el-abidine-ben-ali-reshuffles-his-government-making-11-ministerial-changes-including-the-appointment-of-new-finan.json)  [XML](/news/2010/01/15/president-of-tunisia-zine-el-abidine-ben-ali-reshuffles-his-government-making-11-ministerial-changes-including-the-appointment-of-new-finan.xml)  
+
 ### [2010-01-15](/news/2010/01/15/index.md)
 
+##### President
 # President of Tunisia Zine El Abidine Ben Ali reshuffles his government, making 11 ministerial changes including the appointment of new finance, defence, tourism and foreign affairs ministers, and sends his condolences to Haiti. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=85&art_id=nw20100114222757335C306852)
 2. [Middle East Online](http://www.middle-east-online.com/english/?id=36663)

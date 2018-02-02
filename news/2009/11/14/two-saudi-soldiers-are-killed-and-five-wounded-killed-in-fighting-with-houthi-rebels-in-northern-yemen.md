@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/14/two-saudi-soldiers-are-killed-and-five-wounded-killed-in-fighting-with-houthi-rebels-in-northern-yemen.html)  [JSON](/news/2009/11/14/two-saudi-soldiers-are-killed-and-five-wounded-killed-in-fighting-with-houthi-rebels-in-northern-yemen.json)  [XML](/news/2009/11/14/two-saudi-soldiers-are-killed-and-five-wounded-killed-in-fighting-with-houthi-rebels-in-northern-yemen.xml)  
+
 ### [2009-11-14](/news/2009/11/14/index.md)
 
+##### Saudi Arabia
 #  Two Saudi soldiers are killed and five wounded killed in fighting with Houthi rebels in northern Yemen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h3C84WjYxLlFWA4h15ep2lz6KC3g)
 2. [Al-Sharq al-Awsat](http://www.asharq-e.com/news.asp?section=1&id=18806)

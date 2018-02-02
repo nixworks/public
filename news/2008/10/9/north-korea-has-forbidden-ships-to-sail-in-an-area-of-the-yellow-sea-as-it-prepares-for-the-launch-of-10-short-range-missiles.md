@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2008/10/9/north-korea-has-forbidden-ships-to-sail-in-an-area-of-the-yellow-sea-as-it-prepares-for-the-launch-of-10-short-range-missiles.html)  [JSON](/news/2008/10/9/north-korea-has-forbidden-ships-to-sail-in-an-area-of-the-yellow-sea-as-it-prepares-for-the-launch-of-10-short-range-missiles.json)  [XML](/news/2008/10/9/north-korea-has-forbidden-ships-to-sail-in-an-area-of-the-yellow-sea-as-it-prepares-for-the-launch-of-10-short-range-missiles.xml)  
+
 ### [2008-10-9](/news/2008/10/9/index.md)
 
+##### North Korea
 #  North Korea has forbidden ships to sail in an area of the Yellow Sea as it prepares for the launch of 10 short-range missiles. 
 
 North Korea deployed more than 10 missiles on its west coast apparently for an imminent test launch, a South Korean newspaper said on Thursday, and Pyongyang halted U.N. monitoring of its nuclear complex.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7660444.stm)
-2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE4984S320081009)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20081009&t=2&i=6317861&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-10-09T134235Z_01_BTRE4980FDI00_RTROPTP_0_KOREA)
+2. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE4984S320081009)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20081009&t=2&i=6317861&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-10-09T134235Z_01_BTRE4980FDI00_RTROPTP_0_KOREA)
 
 ### Related:
 

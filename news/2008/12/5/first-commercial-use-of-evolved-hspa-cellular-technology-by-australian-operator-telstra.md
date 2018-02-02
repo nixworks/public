@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/5/first-commercial-use-of-evolved-hspa-cellular-technology-by-australian-operator-telstra.html)  [JSON](/news/2008/12/5/first-commercial-use-of-evolved-hspa-cellular-technology-by-australian-operator-telstra.json)  [XML](/news/2008/12/5/first-commercial-use-of-evolved-hspa-cellular-technology-by-australian-operator-telstra.xml)  
+
 ### [2008-12-5](/news/2008/12/5/index.md)
 
+##### Evolved HSPA
 #  First commercial use of Evolved HSPA cellular technology by Australian operator Telstra. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ITWire](http://www.itwire.com/content/view/22150/127/)
 

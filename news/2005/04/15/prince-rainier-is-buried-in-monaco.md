@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/15/prince-rainier-is-buried-in-monaco.html)  [JSON](/news/2005/04/15/prince-rainier-is-buried-in-monaco.json)  [XML](/news/2005/04/15/prince-rainier-is-buried-in-monaco.xml)  
+
 ### [2005-04-15](/news/2005/04/15/index.md)
 
+##### Prince Rainier
 #  Prince Rainier is buried in Monaco. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4446965.stm)
 2. [CNN](http://edition.cnn.com/2005/WORLD/europe/04/14/monaco.funeral/)

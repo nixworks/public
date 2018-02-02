@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/3/the-iraqi-military-says-a-suicide-bomber-has-attacked-a-checkpoint-near-mosul-killing-7-people-and-wounding-12.html)  [JSON](/news/2008/04/3/the-iraqi-military-says-a-suicide-bomber-has-attacked-a-checkpoint-near-mosul-killing-7-people-and-wounding-12.json)  [XML](/news/2008/04/3/the-iraqi-military-says-a-suicide-bomber-has-attacked-a-checkpoint-near-mosul-killing-7-people-and-wounding-12.xml)  
+
 ### [2008-04-3](/news/2008/04/3/index.md)
 
+##### Iraq
 #  The Iraqi military says a suicide bomber has attacked a checkpoint near Mosul, killing 7 people and wounding 12. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5gKZuVJ3_HFKxl5WFJUnkaJtL2MLAD8VQ7F8O0)
 

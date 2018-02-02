@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/25/libya-s-foreign-minister-abdulrahman-shalgam-issues-a-statement-reaffirming-its-acceptance-of-culpability-for-the-1988-bombing-of-pan-am.html)  [JSON](/news/2004/02/25/libya-s-foreign-minister-abdulrahman-shalgam-issues-a-statement-reaffirming-its-acceptance-of-culpability-for-the-1988-bombing-of-pan-am.json)  [XML](/news/2004/02/25/libya-s-foreign-minister-abdulrahman-shalgam-issues-a-statement-reaffirming-its-acceptance-of-culpability-for-the-1988-bombing-of-pan-am.xml)  
+
 ### [2004-02-25](/news/2004/02/25/index.md)
 
+##### Libya
 #  Libya's Foreign Minister, Abdulrahman Shalgam, issues a statement reaffirming its acceptance of culpability for the 1988 bombing of Pan Am Flight 103 over Lockerbie, after the Prime Minister Shukri Ghanem, in an interview for the BBC, claimed Libya had "bought peace" with the $2.7bn compensation payments, but had not accepted guilt. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/3487562.stm)
 2. [Mercury News](http://www.mercurynews.com/mld/mercurynews/news/world/8042204.htm)

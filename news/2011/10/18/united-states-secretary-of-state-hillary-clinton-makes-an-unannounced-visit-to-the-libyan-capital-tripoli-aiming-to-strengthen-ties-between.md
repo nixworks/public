@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/18/united-states-secretary-of-state-hillary-clinton-makes-an-unannounced-visit-to-the-libyan-capital-tripoli-aiming-to-strengthen-ties-between.html)  [JSON](/news/2011/10/18/united-states-secretary-of-state-hillary-clinton-makes-an-unannounced-visit-to-the-libyan-capital-tripoli-aiming-to-strengthen-ties-between.json)  [XML](/news/2011/10/18/united-states-secretary-of-state-hillary-clinton-makes-an-unannounced-visit-to-the-libyan-capital-tripoli-aiming-to-strengthen-ties-between.xml)  
+
 ### [2011-10-18](/news/2011/10/18/index.md)
 
+##### United States Secretary of State
 # United States Secretary of State Hillary Clinton makes an unannounced visit to the Libyan capital Tripoli, aiming to strengthen ties between the United States and the National Transitional Council, which has established itself as Libya's ruling body following the ousting of Muammar Gaddafi. 
 
 US Secretary of State Hillary Clinton makes an unannounced visit to Libya aimed at showing support for the Libyan people and building ties as fierce fighting breaks out in Sirte.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-15349335)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56122000/jpg/_56122158_013175483-1.jpg)

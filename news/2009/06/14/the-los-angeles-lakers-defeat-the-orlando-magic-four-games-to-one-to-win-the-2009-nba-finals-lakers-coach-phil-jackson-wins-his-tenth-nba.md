@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/06/14/the-los-angeles-lakers-defeat-the-orlando-magic-four-games-to-one-to-win-the-2009-nba-finals-lakers-coach-phil-jackson-wins-his-tenth-nba.html)  [JSON](/news/2009/06/14/the-los-angeles-lakers-defeat-the-orlando-magic-four-games-to-one-to-win-the-2009-nba-finals-lakers-coach-phil-jackson-wins-his-tenth-nba.json)  [XML](/news/2009/06/14/the-los-angeles-lakers-defeat-the-orlando-magic-four-games-to-one-to-win-the-2009-nba-finals-lakers-coach-phil-jackson-wins-his-tenth-nba.xml)  
+
 ### [2009-06-14](/news/2009/06/14/index.md)
 
+##### Los Angeles Lakers
 #  The Los Angeles Lakers defeat the Orlando Magic four games to one to win the 2009 NBA Finals. Lakers coach Phil Jackson wins his tenth NBA Championship, becoming the all-time leader. 
 
 Kobe Bryant carried the Lakers to their 15th title with a victory over the Magic in Game 5, finally shrugging off the shadow of Shaquille O’Neal, his former teammate.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2009/06/15/sports/basketball/15nba.html?_r=1&scp=1&sq=L.A.%20Lakers&st=cse)
+1. [The New York Times](https://www.nytimes.com/2009/06/15/sports/basketball/15nba.html?_r=1&scp=1&sq=L.A.%20Lakers&st=cse)
 1. [Cover Image](https://static01.nyt.com/images/2009/06/15/sports/15lakers.754.jpg)
 
 ### Related:

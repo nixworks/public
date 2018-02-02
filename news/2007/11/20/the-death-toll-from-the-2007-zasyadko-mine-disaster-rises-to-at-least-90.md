@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/20/the-death-toll-from-the-2007-zasyadko-mine-disaster-rises-to-at-least-90.html)  [JSON](/news/2007/11/20/the-death-toll-from-the-2007-zasyadko-mine-disaster-rises-to-at-least-90.json)  [XML](/news/2007/11/20/the-death-toll-from-the-2007-zasyadko-mine-disaster-rises-to-at-least-90.xml)  
+
 ### [2007-11-20](/news/2007/11/20/index.md)
 
+##### twelve days earlier
 #  The death toll from the 2007 Zasyadko mine disaster rises to at least 90. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7103086.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/15/militants-open-fire-on-a-bus-carrying-workers-from-a-cement-factory-in-arish-northern-sinai-egypt-killing-three-and-injuring-17-the-gunf.html)  [JSON](/news/2013/07/15/militants-open-fire-on-a-bus-carrying-workers-from-a-cement-factory-in-arish-northern-sinai-egypt-killing-three-and-injuring-17-the-gunf.json)  [XML](/news/2013/07/15/militants-open-fire-on-a-bus-carrying-workers-from-a-cement-factory-in-arish-northern-sinai-egypt-killing-three-and-injuring-17-the-gunf.xml)  
+
 ### [2013-07-15](/news/2013/07/15/index.md)
 
+##### Arish
 # Militants open fire on a bus carrying workers from a cement factory in Arish, Northern Sinai, Egypt, killing three and injuring 17. The gunfire is believed to have been intended for a police vehicle.
 
 Militants killed at least three people today and wounded 17 when they fired on a bus carrying workers in the North Sinai town of Al-Arish, security and medical sources said.
 
 
-### Source:
+### Sources:
 
 1. [AFP via NDTV](http://www.ndtv.com/article/world/egypt-militants-kill-three-people-in-sinai-bus-attack-392266)
 1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)

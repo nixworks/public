@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/7/australian-prime-minister-malcolm-turnbull-s-lib
 
 ### [2016-07-7](/news/2016/07/7/index.md)
 
+##### 2016 federal election
 # Australian Prime Minister Malcolm Turnbull's Liberal-National coalition, behind Bill Shorten's Labor Party in the first 48 hours following Saturday's election, is now ahead of Labor in the Lower House, 74-71 seats; 76 seats are needed to form a government. Minor parties and independents have won five seats; mail-in and absentee votes are still being counted. Turnbull is on the road today seeking support from a small handful of independent and small party lawmakers. 
 
 Embattled Australian Prime Minister Malcolm Turnbull appeared likely to retain power after gaining the support of a key independent on Thursday, although the closeness of the vote signaled more tough political and economic times ahead.

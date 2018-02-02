@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/21/up-to-gbp30-million-are-reported-stolen-from-the-headquarters-of-the-northern-bank-in-belfast-northern-ireland-two-members-of-the-bank-s.html)  [JSON](/news/2004/12/21/up-to-gbp30-million-are-reported-stolen-from-the-headquarters-of-the-northern-bank-in-belfast-northern-ireland-two-members-of-the-bank-s.json)  [XML](/news/2004/12/21/up-to-gbp30-million-are-reported-stolen-from-the-headquarters-of-the-northern-bank-in-belfast-northern-ireland-two-members-of-the-bank-s.xml)  
+
 ### [2004-12-21](/news/2004/12/21/index.md)
 
+##### GBP
 #  Up to GBP30 million are reported stolen from the headquarters of the Northern Bank in Belfast, Northern Ireland. Two members of the bank's senior staff and their families are reported to have been held hostage before the robbery. This is likely to be the second biggest bank robbery in British history, and the fourth largest in the world. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/4114219.stm)
 2. [Glasgow Evening Times](http://www.eveningtimes.co.uk/hi/news/5033804.html)

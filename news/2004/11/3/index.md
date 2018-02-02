@@ -1,22 +1,27 @@
+
+Formats: [HTML](2004/11/3/index.html)  [JSON](2004/11/3/index.json)  [XML](2004/11/3/index.xml)  
+
 ## [2004-11-3](/news/2004/11/3/index.md)
 
+##### Khalifa bin Zayed Al Nahyan
 ### [ Khalifa bin Zayed Al Nahyan, the son of Sheikh Zayed bin Sultan Al Nahyan who died yesterday, is elected President by the United Arab Emirates' federal council. ](/news/2004/11/3/khalifa-bin-zayed-al-nahyan-the-son-of-sheikh-zayed-bin-sultan-al-nahyan-who-died-yesterday-is-elected-president-by-the-united-arab-emira.md)
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
+_Context: Sheikh Zayed bin Sultan Al Nahyan, United Arab Emirates, Khalifa bin Zayed Al Nahyan_
 
-### [ Senator John Kerry concedes to President George W. Bush "The outcome should be decided by voters, not a protracted legal process", Kerry said. "I would not give up if there was a chance we could prevail." [http:--reuters.com-newsArticle.jhtml?type=topNews&storyID=6703896 (Reuters)] [http:--news.bbc.co.uk-1-hi-world-americas-3980533.stm (BBC)] Republican President George W. Bush wins the popular vote, receiving 3.58 million more votes than Democratic Senator John Kerry. (51.6% to 48.4%, 59.0 million to 55.4 million) Claiming victory in the swing state of Ohio, Bush will probably have more than the 270 votes needed when the U.S. Electoral College meets on December 13. [http:--www.cnn.com-ELECTION-2004- (CNN)] The Republican Party widens its majority in the Senate and House of Representatives. Democratic Senate Minority Leader Tom Daschle concedes defeat to Republican challenger John Thune, thus becoming the first Senate leader in 52 years to lose a re-election bid and leaving the leadership of the Democratic Party in the Senate open. [http:--www.cnn.com-2004-ALLPOLITICS-11-02-senate.main-index.html (CNN)] The Electronic Frontier Foundation (EFF) reports that on November 2, touch-screen electronic voting machines in at least six U.S. states had incorrectly recorded their choices, including for the presidential election. Incorrectly recorded votes make up roughly 20 percent of the e-voting problems. [http:--www.eff.org-news-archives-2004_11.php#002062 (EFF)] Same-sex marriage in the United States: Gay rights activists suffer a severe setback when state constitutional amendments prohibiting same-sex marriage are passed in eleven states: Arkansas, Georgia, Kentucky, Michigan, Mississippi, Montana, North Dakota, Oklahoma, Ohio, Oregon, and Utah. The measures in Oregon, Mississippi, and Montana ban same-sex marriage only, while Arkansas, Georgia, Kentucky, North Dakota, Oklahoma, Ohio, and Utah ban both same-sex marriage and civil unions and Michigan bans granting any benefits whatsoever to same-sex couples. ](/news/2004/11/3/senator-john-kerry-concedes-to-president-george-w-bush-the-outcome-should-be-decided-by-voters-not-a-protracted-legal-process-kerry-sa.md)
-_Context: 2004 U.S. presidential candidate, Arkansas, Democratic, Electronic Frontier Foundation, George W. Bush, Georgia, John Kerry, John Thune, Kentucky, Michigan, Mississippi, Montana, North Dakota, Ohio, Oklahoma!, Oregon, Republican, Tom Daschle, U.S. Electoral College, United States House of Representatives, United States Senate, Utah, bans same-sex marriage, civil union, election system, gay rights, same-sex marriage, same-sex marriage, swing state_
-
+##### Salman Pak
 ### [ A roadside bomb kills a U.S. soldier and wounds another in Salman Pak, south of Baghdad. An Iraqi Oil Ministry official is shot dead while leaving his house in Baghdad. The militant group Army of Ansar al-Sunna release a video on their website confirming the beheading of an Iraqi officer kidnapped in Mosul. In Tikrit, fires continue to burn from major oil wells and a pipeline attacked earlier, halting oil exports. The militant Brigades of Iraq's Honorable People release videos showing beheadings of three Iraqi security guards kidnapped in Baghdad. ](/news/2004/11/3/a-roadside-bomb-kills-a-u-s-soldier-and-wounds-another-in-salman-pak-south-of-baghdad-an-iraqi-oil-ministry-official-is-shot-dead-while.md)
-_Context: Baghdad, Brigades of Iraq's Honorable People, Iraq, Jaish Ansar al-Sunna, Mosul, Salman Pak, Tikrit, militant_
+_Context: Tikrit, Brigades of Iraq's Honorable People, Mosul, militant, Iraq, Salman Pak, Jaish Ansar al-Sunna, Baghdad_
 
+##### Charles Robert Jenkins
 ### [ Sgt. Charles Robert Jenkins, who crossed over the DMZ to North Korea in 1965, pleads guilty to desertion and aiding the enemy at his court martial in Japan. He is sentenced to 30 days in prison and given a dishonorable discharge. ](/news/2004/11/3/sgt-charles-robert-jenkins-who-crossed-over-the-dmz-to-north-korea-in-1965-pleads-guilty-to-desertion-and-aiding-the-enemy-at-his-court.md)
-_Context: AWOL, Charles Robert Jenkins, North Korea, safe zone_
+_Context: desertion, North Korea, Charles Robert Jenkins, safe zone_
 
+##### Taiwan
 ### [ The Republic of China (Taiwan) establishes diplomatic relations with Vanuatu, bringing its international recognition to 27 countries. ](/news/2004/11/3/the-republic-of-china-taiwan-establishes-diplomatic-relations-with-vanuatu-bringing-its-international-recognition-to-27-countries.md)
-_Context: Taiwan, Vanuatu, diplomatic ties_
+_Context: its international recognition, Vanuatu, Taiwan_
 
+##### State Commission of Elections of Puerto Rico
 ### [ The State Commission of Elections of Puerto Rico preliminarily certifies Anbal Acevedo Vil as the winning candidate for Governor of Puerto Rico, and Luis Fortuo as Resident Commissioner after computing 98.3% of the total votes. A full recount will begin on November 9 to announce the official winner. ](/news/2004/11/3/the-state-commission-of-elections-of-puerto-rico-preliminarily-certifies-anibal-acevedo-vila-as-the-winning-candidate-for-governor-of-puert.md)
-_Context: Anbal Acevedo Vil, Governor of Puerto Rico, Luis Fortuo, Resident Commissioner, State Commission of Elections of Puerto Rico_
+_Context: State Commission of Elections of Puerto Rico, Resident Commissioner, Luis Fortuo, Governor of Puerto Rico, Anbal Acevedo Vil_
 
 ## [Previous Day...](/news/2004/11/2/index.md)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/2/ugandan-presidential-candidate-kizza-besigye-is-released-from-prison-besigye-was-arrested-on-november-14-on-treason-and-rape-charges.html)  [JSON](/news/2006/01/2/ugandan-presidential-candidate-kizza-besigye-is-released-from-prison-besigye-was-arrested-on-november-14-on-treason-and-rape-charges.json)  [XML](/news/2006/01/2/ugandan-presidential-candidate-kizza-besigye-is-released-from-prison-besigye-was-arrested-on-november-14-on-treason-and-rape-charges.xml)  
+
 ### [2006-01-2](/news/2006/01/2/index.md)
 
+##### Uganda
 #  Ugandan presidential candidate Kizza Besigye is released from prison. Besigye was arrested on November 14 on treason and rape charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1857533,00.html)
 1. [Cover Image](http://graph.facebook.com/10227041841/picture)

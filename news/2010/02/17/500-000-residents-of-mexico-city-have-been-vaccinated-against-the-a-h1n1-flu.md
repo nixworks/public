@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/17/500-000-residents-of-mexico-city-have-been-vaccinated-against-the-a-h1n1-flu.html)  [JSON](/news/2010/02/17/500-000-residents-of-mexico-city-have-been-vaccinated-against-the-a-h1n1-flu.json)  [XML](/news/2010/02/17/500-000-residents-of-mexico-city-have-been-vaccinated-against-the-a-h1n1-flu.xml)  
+
 ### [2010-02-17](/news/2010/02/17/index.md)
 
+##### Mexico City
 # 500,000 residents of Mexico City have been vaccinated against the A-H1N1 flu. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhuanet](http://news.xinhuanet.com/english2010/health/2010-02/18/c_13178391.htm)
 

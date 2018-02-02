@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/21/rupert-murdoch-resigns-from-a-number-of-directorships-including-that-of-news-international.html)  [JSON](/news/2012/07/21/rupert-murdoch-resigns-from-a-number-of-directorships-including-that-of-news-international.json)  [XML](/news/2012/07/21/rupert-murdoch-resigns-from-a-number-of-directorships-including-that-of-news-international.xml)  
+
 ### [2012-07-21](/news/2012/07/21/index.md)
 
+##### Rupert Murdoch
 # Rupert Murdoch resigns from a number of directorships, including that of News International. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18940016)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/61731000/jpg/_61731398_015363517-1.jpg)

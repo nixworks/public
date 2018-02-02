@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/21/microsoft-sues-barnes-noble-and-manufacturers-foxconn-and-inventec-over-their-nook-e-readers-claiming-that-they-infringe-patents.html)  [JSON](/news/2011/03/21/microsoft-sues-barnes-noble-and-manufacturers-foxconn-and-inventec-over-their-nook-e-readers-claiming-that-they-infringe-patents.json)  [XML](/news/2011/03/21/microsoft-sues-barnes-noble-and-manufacturers-foxconn-and-inventec-over-their-nook-e-readers-claiming-that-they-infringe-patents.xml)  
+
 ### [2011-03-21](/news/2011/03/21/index.md)
 
+##### Microsoft
 # Microsoft sues Barnes & Noble and manufacturers Foxconn and Inventec over their Nook e-readers, claiming that they infringe patents. 
 
 Microsoft today sued Barnes &amp; Noble and manufacturers Foxconn and Inventec over their Nook e-readers, alleging the devices infringe Microsoft patents. The lawsuit continues recent action in the…
 
 
-### Source:
+### Sources:
 
 1. [Seattle PI](http://blog.seattlepi.com/microsoft/2011/03/21/microsoft-sues-barnes-noble-over-android-based-nook-e-reader/)
 1. [Cover Image](http://blog.seattlepi.com/microsoft/files/2011/03/nooks.jpg)

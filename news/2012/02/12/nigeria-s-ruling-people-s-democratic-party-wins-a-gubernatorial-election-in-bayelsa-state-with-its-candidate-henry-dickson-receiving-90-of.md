@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/02/12/nigeria-s-ruling-people-s-democratic-party-wins-a-gubernatorial-election-in-bayelsa-state-with-its-candidate-henry-dickson-receiving-90-of.html)  [JSON](/news/2012/02/12/nigeria-s-ruling-people-s-democratic-party-wins-a-gubernatorial-election-in-bayelsa-state-with-its-candidate-henry-dickson-receiving-90-of.json)  [XML](/news/2012/02/12/nigeria-s-ruling-people-s-democratic-party-wins-a-gubernatorial-election-in-bayelsa-state-with-its-candidate-henry-dickson-receiving-90-of.xml)  
+
 ### [2012-02-12](/news/2012/02/12/index.md)
 
+##### Nigeria
 # Nigeria's ruling People's Democratic Party wins a gubernatorial election in Bayelsa State with its candidate Henry Dickson receiving 90% of the vote. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/02/12/us-nigeria-oil-vote-idUSTRE81B0W820120212)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/02/12/us-nigeria-oil-vote-idUSTRE81B0W820120212)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

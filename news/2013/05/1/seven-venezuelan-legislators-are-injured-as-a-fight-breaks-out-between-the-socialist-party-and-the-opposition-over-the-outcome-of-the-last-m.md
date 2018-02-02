@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/1/seven-venezuelan-legislators-are-injured-as-a-fight-breaks-out-between-the-socialist-party-and-the-opposition-over-the-outcome-of-the-last-m.html)  [JSON](/news/2013/05/1/seven-venezuelan-legislators-are-injured-as-a-fight-breaks-out-between-the-socialist-party-and-the-opposition-over-the-outcome-of-the-last-m.json)  [XML](/news/2013/05/1/seven-venezuelan-legislators-are-injured-as-a-fight-breaks-out-between-the-socialist-party-and-the-opposition-over-the-outcome-of-the-last-m.xml)  
+
 ### [2013-05-1](/news/2013/05/1/index.md)
 
+##### National Assembly
 # Seven Venezuelan legislators are injured as a fight breaks out between the Socialist Party and the opposition over the outcome of the last month's presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Daily Beast](http://www.thedailybeast.com/cheats/2013/05/01/fistfight-breaks-out-at-venezuelan-parliament.html)
 1. [Cover Image](http://cdn.thedailybeast.com/content/dailybeast/cheats/2013/05/01/fistfight-breaks-out-at-venezuelan-parliament/jcr:content/image.img.2000.jpg/1367410215631.cached.jpg)

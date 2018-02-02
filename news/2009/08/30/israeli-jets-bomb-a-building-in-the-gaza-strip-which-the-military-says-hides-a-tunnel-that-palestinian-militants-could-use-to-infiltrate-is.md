@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/30/israeli-jets-bomb-a-building-in-the-gaza-strip-which-the-military-says-hides-a-tunnel-that-palestinian-militants-could-use-to-infiltrate-is.html)  [JSON](/news/2009/08/30/israeli-jets-bomb-a-building-in-the-gaza-strip-which-the-military-says-hides-a-tunnel-that-palestinian-militants-could-use-to-infiltrate-is.json)  [XML](/news/2009/08/30/israeli-jets-bomb-a-building-in-the-gaza-strip-which-the-military-says-hides-a-tunnel-that-palestinian-militants-could-use-to-infiltrate-is.xml)  
+
 ### [2009-08-30](/news/2009/08/30/index.md)
 
+##### Gaza Strip
 #  Israeli jets bomb a building in the Gaza Strip which the military says hides a tunnel that Palestinian militants could use to infiltrate Israel. 
 
 Tunnel, dug inside building located about 1.5 kilometers from border fence, aimed at smuggling terrorists into Israel. IDF says strike a response to rocket fire; no injuries reported in Strip 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8229122.stm)
 2. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-3768973,00.html)

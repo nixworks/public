@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/22/after-two-months-of-negotiations-angela-merkel-is-elected-the-first-female-chancellor-of-germany-by-a-coalition-of-the-cdu-csu-and-spd-del.html)  [JSON](/news/2005/11/22/after-two-months-of-negotiations-angela-merkel-is-elected-the-first-female-chancellor-of-germany-by-a-coalition-of-the-cdu-csu-and-spd-del.json)  [XML](/news/2005/11/22/after-two-months-of-negotiations-angela-merkel-is-elected-the-first-female-chancellor-of-germany-by-a-coalition-of-the-cdu-csu-and-spd-del.xml)  
+
 ### [2005-11-22](/news/2005/11/22/index.md)
 
+##### Angela Merkel
 #  After two months of negotiations, Angela Merkel is elected the first female Chancellor of Germany by a coalition of the CDU-CSU and SPD delegates in the Bundestag. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4458430.stm)
 

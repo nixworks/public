@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/02/16/in-uzbekistan-a-bomb-explodes-and-gunfire-is-heard-at-the-government-headquarters-in-an-apparent-assassination-attempt-against-president-is.html)  [JSON](/news/1999/02/16/in-uzbekistan-a-bomb-explodes-and-gunfire-is-heard-at-the-government-headquarters-in-an-apparent-assassination-attempt-against-president-is.json)  [XML](/news/1999/02/16/in-uzbekistan-a-bomb-explodes-and-gunfire-is-heard-at-the-government-headquarters-in-an-apparent-assassination-attempt-against-president-is.xml)  
+
 ### [1999-02-16](/news/1999/02/16/index.md)
 
+##### Uzbekistan
 #  In Uzbekistan a bomb explodes and gunfire is heard at the government headquarters in an apparent assassination attempt against President Islam Karimov.
 
 

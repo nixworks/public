@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/17/a-nigerian-air-force-jet-mistakenly-bombs-a-ref
 
 ### [2017-01-17](/news/2017/01/17/index.md)
 
+##### Boko Haram insurgency
 # A Nigerian Air Force jet mistakenly bombs a refugee camp in Borno State, near the border with Cameroon, killing at least 90 people and injuring more than 100. The pilot reportedly believed he was attacking Boko Haram militants. 
 
 Scores are killed when a military jet targets a refugee camp, thinking it was Boko Haram militants.

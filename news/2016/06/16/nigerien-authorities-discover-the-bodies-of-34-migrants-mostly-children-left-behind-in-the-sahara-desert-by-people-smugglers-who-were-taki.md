@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/16/nigerien-authorities-discover-the-bodies-of-34-
 
 ### [2016-06-16](/news/2016/06/16/index.md)
 
+##### European migrant crisis
 # Nigerien authorities discover the bodies of 34 migrants, mostly children, left behind in the Sahara desert by people smugglers who were taking them to Algeria and then to Europe. 
 
 Five men, nine women and 20 children abandoned by people smugglers die while trying to reach Algeria

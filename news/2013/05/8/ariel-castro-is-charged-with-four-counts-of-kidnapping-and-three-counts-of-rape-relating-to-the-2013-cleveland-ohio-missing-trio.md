@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/05/8/ariel-castro-is-charged-with-four-counts-of-kidnapping-and-three-counts-of-rape-relating-to-the-2013-cleveland-ohio-missing-trio.html)  [JSON](/news/2013/05/8/ariel-castro-is-charged-with-four-counts-of-kidnapping-and-three-counts-of-rape-relating-to-the-2013-cleveland-ohio-missing-trio.json)  [XML](/news/2013/05/8/ariel-castro-is-charged-with-four-counts-of-kidnapping-and-three-counts-of-rape-relating-to-the-2013-cleveland-ohio-missing-trio.xml)  
+
 ### [2013-05-8](/news/2013/05/8/index.md)
 
+##### Cleveland, Ohio kidnapper
 # Ariel Castro is charged with four counts of kidnapping and three counts of rape relating to the 2013 Cleveland, Ohio, missing trio. 
 
 Cleveland resident Ariel Castro was charged on Wednesday with kidnapping and raping three women who were rescued from his house on Monday after nearly a decade in captivity.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/05/08/us-usa-missing-ohio-idUSBRE94600620130508)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130508&t=2&i=729911674&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9471N4000)
+1. [Reuters](https://www.reuters.com/article/2013/05/08/us-usa-missing-ohio-idUSBRE94600620130508)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130508&t=2&i=729911674&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9471N4000)
 
 ### Related:
 

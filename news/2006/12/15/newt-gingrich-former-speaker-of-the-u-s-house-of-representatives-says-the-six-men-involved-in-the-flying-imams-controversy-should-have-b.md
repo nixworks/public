@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/15/newt-gingrich-former-speaker-of-the-u-s-house-of-representatives-says-the-six-men-involved-in-the-flying-imams-controversy-should-have-b.html)  [JSON](/news/2006/12/15/newt-gingrich-former-speaker-of-the-u-s-house-of-representatives-says-the-six-men-involved-in-the-flying-imams-controversy-should-have-b.json)  [XML](/news/2006/12/15/newt-gingrich-former-speaker-of-the-u-s-house-of-representatives-says-the-six-men-involved-in-the-flying-imams-controversy-should-have-b.xml)  
+
 ### [2006-12-15](/news/2006/12/15/index.md)
 
+##### Newt Gingrich
 #  Newt Gingrich, former Speaker of the U.S. House of Representatives, says the six men involved in the Flying Imams controversy should have been "arrested and prosecuted for pretending to be terrorists." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/NewsTrack/view.php?StoryID=20061216-074335-6760r)
 1. [Cover Image](//www.upi.com/img/upi-fb.png)

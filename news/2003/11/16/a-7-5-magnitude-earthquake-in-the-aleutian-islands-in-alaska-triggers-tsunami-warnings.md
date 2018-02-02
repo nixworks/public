@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/16/a-7-5-magnitude-earthquake-in-the-aleutian-islands-in-alaska-triggers-tsunami-warnings.html)  [JSON](/news/2003/11/16/a-7-5-magnitude-earthquake-in-the-aleutian-islands-in-alaska-triggers-tsunami-warnings.json)  [XML](/news/2003/11/16/a-7-5-magnitude-earthquake-in-the-aleutian-islands-in-alaska-triggers-tsunami-warnings.xml)  
+
 ### [2003-11-16](/news/2003/11/16/index.md)
 
+##### earthquake
 #  A 7.5-magnitude earthquake in the Aleutian Islands in Alaska triggers tsunami warnings.
 
 

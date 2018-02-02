@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/25/heinz-fischer-wins-the-austrian-presidential-election-2010.html)  [JSON](/news/2010/04/25/heinz-fischer-wins-the-austrian-presidential-election-2010.json)  [XML](/news/2010/04/25/heinz-fischer-wins-the-austrian-presidential-election-2010.xml)  
+
 ### [2010-04-25](/news/2010/04/25/index.md)
 
+##### Heinz Fischer
 # Heinz Fischer wins the Austrian presidential election, 2010. 
 
 Heinz Fischer easily defeats controversial leader of far-right Freedom Party.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/04/2010425175334560120.html)
 2. [CBC](http://www.cbc.ca/world/story/2010/04/25/austria-president-wins.html)

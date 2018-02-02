@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/12/india-test-fires-two-medium-range-prithvi-ii-missiles-in-the-eastern-state-of-orissa.html)  [JSON](/news/2009/10/12/india-test-fires-two-medium-range-prithvi-ii-missiles-in-the-eastern-state-of-orissa.json)  [XML](/news/2009/10/12/india-test-fires-two-medium-range-prithvi-ii-missiles-in-the-eastern-state-of-orissa.xml)  
+
 ### [2009-10-12](/news/2009/10/12/index.md)
 
+##### India
 #  India test fires two medium range Prithvi II missiles in the eastern state of Orissa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8301964.stm)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=108452&sectionid=351020402)

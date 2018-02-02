@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/12/conflict-in-iraq-hundreds-of-us-troops-are-diverted-from-falluja-as-insurgents-appear-to-take-control-of-the-northeastern-city-of-mosul.html)  [JSON](/news/2004/11/12/conflict-in-iraq-hundreds-of-us-troops-are-diverted-from-falluja-as-insurgents-appear-to-take-control-of-the-northeastern-city-of-mosul.json)  [XML](/news/2004/11/12/conflict-in-iraq-hundreds-of-us-troops-are-diverted-from-falluja-as-insurgents-appear-to-take-control-of-the-northeastern-city-of-mosul.xml)  
+
 ### [2004-11-12](/news/2004/11/12/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: Hundreds of US Troops are diverted from Falluja as insurgents appear to take control of the northeastern city of Mosul. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4010549.stm)
 

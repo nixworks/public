@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/17/the-pakistani-opposition-calls-on-president-asif-ali-zardari-to-resign-after-the-supreme-court-declared-void-an-amnesty-protecting-him-and.html)  [JSON](/news/2009/12/17/the-pakistani-opposition-calls-on-president-asif-ali-zardari-to-resign-after-the-supreme-court-declared-void-an-amnesty-protecting-him-and.json)  [XML](/news/2009/12/17/the-pakistani-opposition-calls-on-president-asif-ali-zardari-to-resign-after-the-supreme-court-declared-void-an-amnesty-protecting-him-and.xml)  
+
 ### [2009-12-17](/news/2009/12/17/index.md)
 
+##### Pakistan
 #  The Pakistani opposition calls on President Asif Ali Zardari to resign after the Supreme Court declared void an amnesty protecting him and other senior officials from corruption charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/12/2009121765458321966.html)
 2. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/04-Zardari-NRO-ruling-qs-02)

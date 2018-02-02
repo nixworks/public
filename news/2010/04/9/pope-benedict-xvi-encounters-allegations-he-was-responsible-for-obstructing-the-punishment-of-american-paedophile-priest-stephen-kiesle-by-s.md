@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/9/pope-benedict-xvi-encounters-allegations-he-was-responsible-for-obstructing-the-punishment-of-american-paedophile-priest-stephen-kiesle-by-s.html)  [JSON](/news/2010/04/9/pope-benedict-xvi-encounters-allegations-he-was-responsible-for-obstructing-the-punishment-of-american-paedophile-priest-stephen-kiesle-by-s.json)  [XML](/news/2010/04/9/pope-benedict-xvi-encounters-allegations-he-was-responsible-for-obstructing-the-punishment-of-american-paedophile-priest-stephen-kiesle-by-s.xml)  
+
 ### [2010-04-9](/news/2010/04/9/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI encounters allegations he was responsible for obstructing the punishment of American paedophile priest Stephen Kiesle by signing 
 
 Benedict XVI may have resisted removal of cleric with child molestation record.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8612457.stm)
 2. [LA Times](http://latimesblogs.latimes.com/lanow/2010/04/future-pope-had-concerns-about-defrocking-california-priest-accused-of-molestation-letter-shows.html)

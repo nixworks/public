@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/20/british-holocaust-denier-david-irving-is-jailed-for-three-years-by-an-austrian-court-after-pleading-guilty-to-denying-the-existence-of-the.html)  [JSON](/news/2006/02/20/british-holocaust-denier-david-irving-is-jailed-for-three-years-by-an-austrian-court-after-pleading-guilty-to-denying-the-existence-of-the.json)  [XML](/news/2006/02/20/british-holocaust-denier-david-irving-is-jailed-for-three-years-by-an-austrian-court-after-pleading-guilty-to-denying-the-existence-of-the.xml)  
+
 ### [2006-02-20](/news/2006/02/20/index.md)
 
+##### David Irving
 #  British Holocaust denier David Irving is jailed for three years by an Austrian court after pleading guilty to denying the existence of the Holocaust during a visit to Austria in 1989. Arrested last November, a suspended sentence had been expected and Irving is expected to appeal the sentence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4733820.stm)
 2. [The Independent](http://news.independent.co.uk/europe/article346727.ece)

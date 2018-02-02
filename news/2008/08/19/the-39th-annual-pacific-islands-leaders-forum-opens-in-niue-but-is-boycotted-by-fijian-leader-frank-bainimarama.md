@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/19/the-39th-annual-pacific-islands-leaders-forum-opens-in-niue-but-is-boycotted-by-fijian-leader-frank-bainimarama.html)  [JSON](/news/2008/08/19/the-39th-annual-pacific-islands-leaders-forum-opens-in-niue-but-is-boycotted-by-fijian-leader-frank-bainimarama.json)  [XML](/news/2008/08/19/the-39th-annual-pacific-islands-leaders-forum-opens-in-niue-but-is-boycotted-by-fijian-leader-frank-bainimarama.xml)  
+
 ### [2008-08-19](/news/2008/08/19/index.md)
 
+##### Pacific Islands Leaders Forum
 #  The 39th annual Pacific Islands Leaders Forum opens in Niue, but is boycotted by Fijian leader Frank Bainimarama. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,24211239-12377,00.html)
 

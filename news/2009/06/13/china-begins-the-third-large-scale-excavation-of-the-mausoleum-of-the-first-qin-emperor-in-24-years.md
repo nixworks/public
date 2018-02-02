@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/13/china-begins-the-third-large-scale-excavation-of-the-mausoleum-of-the-first-qin-emperor-in-24-years.html)  [JSON](/news/2009/06/13/china-begins-the-third-large-scale-excavation-of-the-mausoleum-of-the-first-qin-emperor-in-24-years.json)  [XML](/news/2009/06/13/china-begins-the-third-large-scale-excavation-of-the-mausoleum-of-the-first-qin-emperor-in-24-years.xml)  
+
 ### [2009-06-13](/news/2009/06/13/index.md)
 
+##### China
 #  China begins the third large-scale excavation of the Mausoleum of the First Qin Emperor in 24 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2009-06/13/content_11537132.htm)
 

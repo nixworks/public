@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/3/madagascar-holds-an-election-with-incumbent-marc-ravalomanana-expected-to-be-elected-as-the-president-of-madagascar.html)  [JSON](/news/2006/12/3/madagascar-holds-an-election-with-incumbent-marc-ravalomanana-expected-to-be-elected-as-the-president-of-madagascar.json)  [XML](/news/2006/12/3/madagascar-holds-an-election-with-incumbent-marc-ravalomanana-expected-to-be-elected-as-the-president-of-madagascar.xml)  
+
 ### [2006-12-3](/news/2006/12/3/index.md)
 
+##### Madagascar
 #  Madagascar holds an election with incumbent Marc Ravalomanana expected to be elected as the President of Madagascar. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via the Scotsman](http://news.scotsman.com/latest.cfm?id=1793922006)
 

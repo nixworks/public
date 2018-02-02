@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/3/several-thousand-opposition-supporters-demonstra
 
 ### [2017-12-3](/news/2017/12/3/index.md)
 
+##### Ukrainian crisis
 # Several thousand opposition supporters demonstrate in central Kiev, calling for the parliament to adopt legislation on presidential impeachment. 
 
 
@@ -24,4 +25,4 @@ Formats: [HTML](/news/2017/12/3/several-thousand-opposition-supporters-demonstra
 2. [Eleven anti-corruption protestors are detained in Kiev, Ukraine, where police attempted to enter a protestor camp near the parliament building. ](/news/2017/10/18/eleven-anti-corruption-protestors-are-detained-in-kiev-ukraine-where-police-attempted-to-enter-a-protestor-camp-near-the-parliament-buildi.md) _Context: Kiev, Ukrainian crisis, parliament_
 3. [Three protestors and one police officer are injured in clashes between anti-corruption demonstrators and Ukrainian police in front of the parliament building in Kiev, Ukraine. ](/news/2017/10/17/three-protestors-and-one-police-officer-are-injured-in-clashes-between-anti-corruption-demonstrators-and-ukrainian-police-in-front-of-the-pa.md) _Context: Kiev, Ukrainian crisis, parliament_
 4. [As police arrive at the stateless Mikheil Saakashvili's house in Kiev to detain him, Saakashvili goes up on the roof to protest verbally. Police then detain him and try to take him away in a blue minivan while hundreds of people block the street. Finally the supporters free him out of the van. Bespeeching the cameras again, he rails against corruption, against Petro Poroshenko and urges Ukrainians to "be afraid of nothing". ](/news/2017/12/5/as-police-arrive-at-the-stateless-mikheil-saakashvili-s-house-in-kiev-to-detain-him-saakashvili-goes-up-on-the-roof-to-protest-verbally-po.md) _Context: Kiev, Ukrainian crisis_
-5. [A parked scooter explosion in Kiev, thought to be an assassination attempt on Ukrainian Radical MP Ihor Mosiychuk, kills his bodyguard and one more man. Mosiychuk, political scientist Vitaliy Bala and a woman are injured. ](/news/2017/10/25/a-parked-scooter-explosion-in-kiev-thought-to-be-an-assassination-attempt-on-ukrainian-radical-mp-ihor-mosiychuk-kills-his-bodyguard-and-o.md) _Context: Kiev, Ukrainian crisis_
+5. [Several hundred people take part in clashes between Ukrainian police and anti-Petro Poroshenko protesters (led by opposition leader Mikheil Saakashvili) demanding the president's resignation at the October Palace in Kiev. ](/news/2017/12/17/several-hundred-people-take-part-in-clashes-between-ukrainian-police-and-anti-petro-poroshenko-protesters-led-by-opposition-leader-mikheil.md) _Context: Kiev, Ukrainian crisis_

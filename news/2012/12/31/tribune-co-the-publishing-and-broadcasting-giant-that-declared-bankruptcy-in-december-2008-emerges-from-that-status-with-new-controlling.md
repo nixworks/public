@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/31/tribune-co-the-publishing-and-broadcasting-giant-that-declared-bankruptcy-in-december-2008-emerges-from-that-status-with-new-controlling.html)  [JSON](/news/2012/12/31/tribune-co-the-publishing-and-broadcasting-giant-that-declared-bankruptcy-in-december-2008-emerges-from-that-status-with-new-controlling.json)  [XML](/news/2012/12/31/tribune-co-the-publishing-and-broadcasting-giant-that-declared-bankruptcy-in-december-2008-emerges-from-that-status-with-new-controlling.xml)  
+
 ### [2012-12-31](/news/2012/12/31/index.md)
 
+##### Tribune Co.
 # Tribune Co., the publishing and broadcasting giant that declared bankruptcy in December 2008, emerges from that status with new controlling shareholders including Oaktree Capital and JPMorgan Chase. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Thomson Reuters](http://newsandinsight.thomsonreuters.com/Legal/News/2012/12_-_December/Publisher_Tribune_emerges_from_bankruptcy/)
 

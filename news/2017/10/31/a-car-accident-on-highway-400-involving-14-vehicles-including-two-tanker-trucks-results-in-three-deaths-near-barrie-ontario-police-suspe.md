@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/31/a-car-accident-on-highway-400-involving-14-vehi
 
 ### [2017-10-31](/news/2017/10/31/index.md)
 
+##### Road accidents in 2017
 # A car accident on highway 400 involving 14 vehicles, including two tanker trucks, results in three deaths near Barrie, Ontario. Police suspect distracted driving to be the cause. 
 
 A fatal, 14-vehicle pileup that killed at least three people and left Highway 400 about an hour north of Toronto littered with &quot;tangled, twisted metal&quot; may have been caused by an inattentive transport truck driver, police say.

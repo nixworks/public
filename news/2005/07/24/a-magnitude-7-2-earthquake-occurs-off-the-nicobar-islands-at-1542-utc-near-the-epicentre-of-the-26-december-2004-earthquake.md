@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/07/24/a-magnitude-7-2-earthquake-occurs-off-the-nicobar-islands-at-1542-utc-near-the-epicentre-of-the-26-december-2004-earthquake.html)  [JSON](/news/2005/07/24/a-magnitude-7-2-earthquake-occurs-off-the-nicobar-islands-at-1542-utc-near-the-epicentre-of-the-26-december-2004-earthquake.json)  [XML](/news/2005/07/24/a-magnitude-7-2-earthquake-occurs-off-the-nicobar-islands-at-1542-utc-near-the-epicentre-of-the-26-december-2004-earthquake.xml)  
+
 ### [2005-07-24](/news/2005/07/24/index.md)
 
+##### earthquake
 #  A magnitude 7.2 earthquake occurs off the Nicobar Islands at 1542 UTC, near the epicentre of the 26 December 2004 earthquake. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USGS](http://earthquake.usgs.gov/recenteqsww/Quakes/usaxay.htm)
-2. [USGS](http://neic.usgs.gov/neis/bulletin/neic_axay_nr.html)
+1. [USGS](http://neic.usgs.gov/neis/bulletin/neic_axay_nr.html)
+2. [USGS](https://earthquake.usgs.gov/recenteqsww/Quakes/usaxay.htm)
 
 ### Related:
 

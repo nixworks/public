@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/17/former-rio-de-janeiro-governor-sa-c-rgio-cabral
 
 ### [2016-11-17](/news/2016/11/17/index.md)
 
+##### Rio de Janeiro
 # Former Rio de Janeiro governor Sergio Cabral is arrested in corruption probe. 
 
 

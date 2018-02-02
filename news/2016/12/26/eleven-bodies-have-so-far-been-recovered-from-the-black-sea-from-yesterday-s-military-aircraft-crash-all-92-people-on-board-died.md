@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/26/eleven-bodies-have-so-far-been-recovered-from-t
 
 ### [2016-12-26](/news/2016/12/26/index.md)
 
+##### 2016 Russian Defence Ministry Tupolev Tu-154 crash
 # Eleven bodies have so far been recovered from the Black Sea from yesterday's military aircraft crash. All 92 people on board died. 
 
 

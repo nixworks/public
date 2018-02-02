@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/27/chadian-rebels-attack-the-neighboring-central-african-republic-they-have-reportedly-formed-an-alliance-with-car-rebels-large-areas-of-bot.html)  [JSON](/news/2006/06/27/chadian-rebels-attack-the-neighboring-central-african-republic-they-have-reportedly-formed-an-alliance-with-car-rebels-large-areas-of-bot.json)  [XML](/news/2006/06/27/chadian-rebels-attack-the-neighboring-central-african-republic-they-have-reportedly-formed-an-alliance-with-car-rebels-large-areas-of-bot.xml)  
+
 ### [2006-06-27](/news/2006/06/27/index.md)
 
+##### Chad
 #  Chadian rebels attack the neighboring Central African Republic. They have reportedly formed an alliance with CAR rebels. Large areas of both countries have descended into violence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/5121792.stm)
 

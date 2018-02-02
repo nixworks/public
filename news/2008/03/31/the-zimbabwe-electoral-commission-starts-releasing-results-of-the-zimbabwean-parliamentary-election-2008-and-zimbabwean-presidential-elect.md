@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/31/the-zimbabwe-electoral-commission-starts-releasing-results-of-the-zimbabwean-parliamentary-election-2008-and-zimbabwean-presidential-elect.html)  [JSON](/news/2008/03/31/the-zimbabwe-electoral-commission-starts-releasing-results-of-the-zimbabwean-parliamentary-election-2008-and-zimbabwean-presidential-elect.json)  [XML](/news/2008/03/31/the-zimbabwe-electoral-commission-starts-releasing-results-of-the-zimbabwean-parliamentary-election-2008-and-zimbabwean-presidential-elect.xml)  
+
 ### [2008-03-31](/news/2008/03/31/index.md)
 
+##### parliamentary
 #  The Zimbabwe Electoral Commission starts releasing results of the Zimbabwean parliamentary election, 2008 and Zimbabwean presidential election, 2008 with the Opposition Movement for Democratic Change claiming victory on the basis of unofficial results. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7321938.stm)
 

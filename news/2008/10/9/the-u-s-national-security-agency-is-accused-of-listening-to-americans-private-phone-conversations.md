@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/9/the-u-s-national-security-agency-is-accused-of-listening-to-americans-private-phone-conversations.html)  [JSON](/news/2008/10/9/the-u-s-national-security-agency-is-accused-of-listening-to-americans-private-phone-conversations.json)  [XML](/news/2008/10/9/the-u-s-national-security-agency-is-accused-of-listening-to-americans-private-phone-conversations.xml)  
+
 ### [2008-10-9](/news/2008/10/9/index.md)
 
+##### U.S.
 #  The U.S. National Security Agency is accused of listening to Americans' private phone conversations.
 
 Despite pledges by President George W. Bush and American intelligence officials to the contrary, hundreds of US citizens overseas have been eavesdropped on as part of the U.S. terrorist surveillance program, according to two former military intercept operators who say they listened to private phone...
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Blotter/Story?id=5987804&page=1)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/31/a-church-in-copenhagen-offers-blessings-to-18-same-sex-couples-from-around-the-world-who-are-typically-chastised.html)  [JSON](/news/2009/07/31/a-church-in-copenhagen-offers-blessings-to-18-same-sex-couples-from-around-the-world-who-are-typically-chastised.json)  [XML](/news/2009/07/31/a-church-in-copenhagen-offers-blessings-to-18-same-sex-couples-from-around-the-world-who-are-typically-chastised.xml)  
+
 ### [2009-07-31](/news/2009/07/31/index.md)
 
+##### Copenhagen
 #  A church in Copenhagen offers blessings to 18 same-sex couples from around the world who are typically chastised. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Copenhagen Post](http://www.cphpost.dk/culture/culture/122-culture/46443-church-blesses-homosexuals.html)
 

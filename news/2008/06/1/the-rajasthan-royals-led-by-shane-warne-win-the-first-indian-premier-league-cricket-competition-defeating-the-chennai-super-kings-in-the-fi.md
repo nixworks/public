@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/1/the-rajasthan-royals-led-by-shane-warne-win-the-first-indian-premier-league-cricket-competition-defeating-the-chennai-super-kings-in-the-fi.html)  [JSON](/news/2008/06/1/the-rajasthan-royals-led-by-shane-warne-win-the-first-indian-premier-league-cricket-competition-defeating-the-chennai-super-kings-in-the-fi.json)  [XML](/news/2008/06/1/the-rajasthan-royals-led-by-shane-warne-win-the-first-indian-premier-league-cricket-competition-defeating-the-chennai-super-kings-in-the-fi.xml)  
+
 ### [2008-06-1](/news/2008/06/1/index.md)
 
+##### Rajasthan Royals
 #  The Rajasthan Royals led by Shane Warne win the first Indian Premier League cricket competition defeating the Chennai Super Kings in the final at the DY Patil Stadium in Navi Mumbai. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via Fox Sports](http://www.foxsports.com.au/story/0,8659,23795260-23212,00.html)
 

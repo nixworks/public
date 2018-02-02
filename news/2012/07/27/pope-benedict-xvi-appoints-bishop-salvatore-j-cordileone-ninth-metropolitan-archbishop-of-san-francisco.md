@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/27/pope-benedict-xvi-appoints-bishop-salvatore-j-cordileone-ninth-metropolitan-archbishop-of-san-francisco.html)  [JSON](/news/2012/07/27/pope-benedict-xvi-appoints-bishop-salvatore-j-cordileone-ninth-metropolitan-archbishop-of-san-francisco.json)  [XML](/news/2012/07/27/pope-benedict-xvi-appoints-bishop-salvatore-j-cordileone-ninth-metropolitan-archbishop-of-san-francisco.xml)  
+
 ### [2012-07-27](/news/2012/07/27/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI appoints bishop Salvatore J. Cordileone ninth Metropolitan Archbishop of San Francisco 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Archdiocese of San Francisco](http://www.sfarchdiocese.org/about-us/news/2012/The-Most-Reverend-Salvatore-J.-Cordileone-Appointed-Ninth-Archbishop-of-San-Francisco-3168/)
 

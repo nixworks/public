@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/15/the-nigerian-government-will-not-rule-out-military-actions-against-the-coup-regime-in-togo-if-it-does-not-comply-with-demands-from-west-afr.html)  [JSON](/news/2005/02/15/the-nigerian-government-will-not-rule-out-military-actions-against-the-coup-regime-in-togo-if-it-does-not-comply-with-demands-from-west-afr.json)  [XML](/news/2005/02/15/the-nigerian-government-will-not-rule-out-military-actions-against-the-coup-regime-in-togo-if-it-does-not-comply-with-demands-from-west-afr.xml)  
+
 ### [2005-02-15](/news/2005/02/15/index.md)
 
+##### Nigeria
 #  The Nigerian government will not rule out military actions against the coup regime in Togo if it does not comply with demands from West African leaders to step down. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFROL](http://www.afrol.com/articles/15625)
 

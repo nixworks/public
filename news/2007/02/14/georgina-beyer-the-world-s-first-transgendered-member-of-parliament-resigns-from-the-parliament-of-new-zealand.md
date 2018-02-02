@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/14/georgina-beyer-the-world-s-first-transgendered-member-of-parliament-resigns-from-the-parliament-of-new-zealand.html)  [JSON](/news/2007/02/14/georgina-beyer-the-world-s-first-transgendered-member-of-parliament-resigns-from-the-parliament-of-new-zealand.json)  [XML](/news/2007/02/14/georgina-beyer-the-world-s-first-transgendered-member-of-parliament-resigns-from-the-parliament-of-new-zealand.xml)  
+
 ### [2007-02-14](/news/2007/02/14/index.md)
 
+##### Georgina Beyer
 #  Georgina Beyer, the world's first transgendered member of parliament, resigns from the Parliament of New Zealand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NZ Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=280&objectid=10424057)
 

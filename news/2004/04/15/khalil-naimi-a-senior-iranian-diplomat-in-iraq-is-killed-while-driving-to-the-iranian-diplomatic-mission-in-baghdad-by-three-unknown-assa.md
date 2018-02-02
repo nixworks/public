@@ -1,19 +1,22 @@
+
+Formats: [HTML](/news/2004/04/15/khalil-naimi-a-senior-iranian-diplomat-in-iraq-is-killed-while-driving-to-the-iranian-diplomatic-mission-in-baghdad-by-three-unknown-assa.html)  [JSON](/news/2004/04/15/khalil-naimi-a-senior-iranian-diplomat-in-iraq-is-killed-while-driving-to-the-iranian-diplomatic-mission-in-baghdad-by-three-unknown-assa.json)  [XML](/news/2004/04/15/khalil-naimi-a-senior-iranian-diplomat-in-iraq-is-killed-while-driving-to-the-iranian-diplomatic-mission-in-baghdad-by-three-unknown-assa.xml)  
+
 ### [2004-04-15](/news/2004/04/15/index.md)
 
+##### Khalil Naimi
 #  Khalil Naimi, a senior Iranian diplomat in Iraq, is killed while driving to the Iranian diplomatic mission in Baghdad by three unknown assailants, who drove up and shot him. He died shortly afterwards and the motives for the killing are unknown. The killing could complicate the mission of an Iranian government delegation which is in Iraq trying to mediate in the standoff between Iraq Alliance troops and Muqtada al-Sadr's militia, led by the radical Shiite cleric who is fortified in the town of Najaf. 
 
-The killing could complicate an Iranian mission to mediate the standoff between U.S. troops and a rebel Shiite cleric.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3628985.stm)
 2. [CommandPost](http://www.command-post.org/2_archives/011683.html)
 3. [Japan Times](http://www.japantimes.com/cgi-bin/getarticle.pl5?nn20040416a1.htm)
-4. [NYT](http://www.nytimes.com/2004/04/15/international/middleeast/15CND-IRAQ.html?hp)
-5. [NYT](http://www.nytimes.com/aponline/international/AP-Iraq-Kidnappings.html)
+4. [NYT](https://www.nytimes.com/2004/04/15/international/middleeast/15CND-IRAQ.html?hp)
+5. [NYT](https://www.nytimes.com/aponline/international/AP-Iraq-Kidnappings.html)
 6. [VOA](http://www.voanews.com/article.cfm?objectID=0000F56D-47B7-429B-879F77E4D95DF67B)
-6. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

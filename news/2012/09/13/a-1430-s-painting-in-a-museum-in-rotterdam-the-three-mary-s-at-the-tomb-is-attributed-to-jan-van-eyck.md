@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/13/a-1430-s-painting-in-a-museum-in-rotterdam-the-three-mary-s-at-the-tomb-is-attributed-to-jan-van-eyck.html)  [JSON](/news/2012/09/13/a-1430-s-painting-in-a-museum-in-rotterdam-the-three-mary-s-at-the-tomb-is-attributed-to-jan-van-eyck.json)  [XML](/news/2012/09/13/a-1430-s-painting-in-a-museum-in-rotterdam-the-three-mary-s-at-the-tomb-is-attributed-to-jan-van-eyck.xml)  
+
 ### [2012-09-13](/news/2012/09/13/index.md)
 
+##### a museum
 # A 1430's painting in a museum in Rotterdam, "The three Mary's at the tomb", is attributed to Jan van Eyck. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Volkskrant](http://translate.google.com/translate?sl=auto&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.volkskrant.nl%2Fvk%2Fnl%2F2686%2FBinnenland%2Farticle%2Fdetail%2F3315912%2F2012%2F09%2F13%2FVan-Eyck-in-Museum-Boijmans-is-echt.dhtml&act=url)
 

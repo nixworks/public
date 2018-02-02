@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/1/chinese-state-media-voices-its-disapproval-after-the-obama-administration-unveils-its-first-arms-package-for-taiwan-a-move-that-prompted-ch.html)  [JSON](/news/2010/02/1/chinese-state-media-voices-its-disapproval-after-the-obama-administration-unveils-its-first-arms-package-for-taiwan-a-move-that-prompted-ch.json)  [XML](/news/2010/02/1/chinese-state-media-voices-its-disapproval-after-the-obama-administration-unveils-its-first-arms-package-for-taiwan-a-move-that-prompted-ch.xml)  
+
 ### [2010-02-1](/news/2010/02/1/index.md)
 
+##### China
 # Chinese state media voices its disapproval after the Obama administration unveils its first arms package for Taiwan, a move that prompted China to threaten sanctions on the firms involved. 
 
 Chinese state media blasted the United States on Monday for a planned $6.4 billion (4 billion pound) arms package for Taiwan, while a U.S. official said Washington was committed to helping the island defend itself.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8490537.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE6100CK20100201)

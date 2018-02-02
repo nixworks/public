@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/16/minister-of-the-interior-and-kingdom-relations-of-the-netherlands-piet-hein-donner-resigns-after-being-named-the-new-vice-president-of-the-c.html)  [JSON](/news/2011/12/16/minister-of-the-interior-and-kingdom-relations-of-the-netherlands-piet-hein-donner-resigns-after-being-named-the-new-vice-president-of-the-c.json)  [XML](/news/2011/12/16/minister-of-the-interior-and-kingdom-relations-of-the-netherlands-piet-hein-donner-resigns-after-being-named-the-new-vice-president-of-the-c.xml)  
+
 ### [2011-12-16](/news/2011/12/16/index.md)
 
+##### Minister of Colonial Affairs
 # Minister of the Interior and Kingdom Relations of the Netherlands Piet Hein Donner resigns after being named the new Vice President of the Council of State, succeeding Herman Tjeenk Willink. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NOS](http://nos.nl/artikel/322863-donner-naar-raad-van-state.html)
 1. [Cover Image](http://nos.nl/bundles/nossite/img/placeholders/no_image.png?170322)

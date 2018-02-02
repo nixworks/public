@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/30/an-iowa-district-court-rules-that-same-sex-couples-can-marry-based-on-the-iowa-constitution-guarantee-of-equal-protection.html)  [JSON](/news/2007/08/30/an-iowa-district-court-rules-that-same-sex-couples-can-marry-based-on-the-iowa-constitution-guarantee-of-equal-protection.json)  [XML](/news/2007/08/30/an-iowa-district-court-rules-that-same-sex-couples-can-marry-based-on-the-iowa-constitution-guarantee-of-equal-protection.xml)  
+
 ### [2007-08-30](/news/2007/08/30/index.md)
 
+##### Iowa
 #  An Iowa district court rules that same-sex couples can marry based on the Iowa constitution guarantee of equal protection. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007i/US/law/08/30/iowa.samesexmarriage/index.html?eref=rss_us)
 

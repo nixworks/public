@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/26/a-total-of-nine-unidentified-individuals-are-shot-to-death-in-sinaloa-state-mexico.html)  [JSON](/news/2012/12/26/a-total-of-nine-unidentified-individuals-are-shot-to-death-in-sinaloa-state-mexico.json)  [XML](/news/2012/12/26/a-total-of-nine-unidentified-individuals-are-shot-to-death-in-sinaloa-state-mexico.xml)  
+
 ### [2012-12-26](/news/2012/12/26/index.md)
 
+##### Sinaloa
 # A total of nine unidentified individuals are shot to death in Sinaloa state, Mexico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Rantburg](http://rantburg.com/poparticle.php?D=12/26/2012&SO=&HC=1&ID=358713)
 

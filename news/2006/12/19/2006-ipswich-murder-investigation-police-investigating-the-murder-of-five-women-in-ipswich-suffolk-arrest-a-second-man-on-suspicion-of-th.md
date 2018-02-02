@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/19/2006-ipswich-murder-investigation-police-investigating-the-murder-of-five-women-in-ipswich-suffolk-arrest-a-second-man-on-suspicion-of-th.html)  [JSON](/news/2006/12/19/2006-ipswich-murder-investigation-police-investigating-the-murder-of-five-women-in-ipswich-suffolk-arrest-a-second-man-on-suspicion-of-th.json)  [XML](/news/2006/12/19/2006-ipswich-murder-investigation-police-investigating-the-murder-of-five-women-in-ipswich-suffolk-arrest-a-second-man-on-suspicion-of-th.xml)  
+
 ### [2006-12-19](/news/2006/12/19/index.md)
 
+##### Ipswich murder case
 #  2006 Ipswich murder investigation: Police investigating the murder of five women in Ipswich, Suffolk arrest a second man on suspicion of their murders. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/england/suffolk/6192085.stm)
 

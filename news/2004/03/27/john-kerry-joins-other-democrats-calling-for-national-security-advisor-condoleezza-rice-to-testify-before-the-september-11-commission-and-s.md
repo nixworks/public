@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/27/john-kerry-joins-other-democrats-calling-for-national-security-advisor-condoleezza-rice-to-testify-before-the-september-11-commission-and-s.html)  [JSON](/news/2004/03/27/john-kerry-joins-other-democrats-calling-for-national-security-advisor-condoleezza-rice-to-testify-before-the-september-11-commission-and-s.json)  [XML](/news/2004/03/27/john-kerry-joins-other-democrats-calling-for-national-security-advisor-condoleezza-rice-to-testify-before-the-september-11-commission-and-s.xml)  
+
 ### [2004-03-27](/news/2004/03/27/index.md)
 
+##### John Kerry
 #  John Kerry joins other Democrats calling for National Security Advisor Condoleezza Rice to testify before the September 11 commission and states the White House should learn from President Franklin Delano Roosevelt's openness during an inquiry after Pearl Harbor. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Atlanta Journal-Constitution](http://www.ajc.com/news/content/news/election/0304nation/28kerry.html)
 

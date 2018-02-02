@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/12/salva-kiir-the-new-vice-president-of-sudan-is-opposed-to-independence-for-the-country-s-south.html)  [JSON](/news/2005/08/12/salva-kiir-the-new-vice-president-of-sudan-is-opposed-to-independence-for-the-country-s-south.json)  [XML](/news/2005/08/12/salva-kiir-the-new-vice-president-of-sudan-is-opposed-to-independence-for-the-country-s-south.xml)  
+
 ### [2005-08-12](/news/2005/08/12/index.md)
 
+##### Salva Kiir
 #  Salva Kiir, the new vice-president of Sudan, is opposed to independence for the country's south. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4144142.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4144502.stm)
@@ -16,4 +20,4 @@
 2. [Southern Sudanese leader Salva Kiir calls on the people of South Sudan to forgive the north for killings during the civil war. ](/news/2011/01/16/southern-sudanese-leader-salva-kiir-calls-on-the-people-of-south-sudan-to-forgive-the-north-for-killings-during-the-civil-war.md) _Context: Salva Kiir, Sudan_
 3. [Sudan's ruling National Congress Party endorses South Sudan President Salva Kiir in upcoming elections. ](/news/2010/01/28/sudan-s-ruling-national-congress-party-endorses-south-sudan-president-salva-kiir-in-upcoming-elections.md) _Context: Salva Kiir, Sudan_
 4. [ Salva Kiir has been sworn in as the Vice-President of Sudan, following the recent death of John Garang. ](/news/2005/08/11/salva-kiir-has-been-sworn-in-as-the-vice-president-of-sudan-following-the-recent-death-of-john-garang.md) _Context: Salva Kiir, Sudan_
-5. [The White House announces that citizens of North Korea, Venezuela, and Chad will be restricted from travelling to the United States, along with citizens of the six nations previously listed in Executive Order 13780 with the exception of Sudan. ](/news/2017/09/24/the-white-house-announces-that-citizens-of-north-korea-venezuela-and-chad-will-be-restricted-from-travelling-to-the-united-states-along-w.md) _Context: Sudan_
+5. [Sudan's National Intelligence and Security Service arrests 7 journalists who were covering this week's economic protests in Khartoum. The charges are unclear. ](/news/2018/01/19/sudan-s-national-intelligence-and-security-service-arrests-7-journalists-who-were-covering-this-week-s-economic-protests-in-khartoum-the-ch.md) _Context: Sudan_

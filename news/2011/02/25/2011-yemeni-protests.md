@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/25/2011-yemeni-protests.html)  [JSON](/news/2011/02/25/2011-yemeni-protests.json)  [XML](/news/2011/02/25/2011-yemeni-protests.xml)  
+
 ### [2011-02-25](/news/2011/02/25/index.md)
 
+##### 2011 Yemeni protests
 # 2011 Yemeni protests, 
 
 Sanaa, Feb 25 (DPA) At least nine people were wounded after security forces opened fire at anti-government protesters in the southern Yemeni port city of...
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/world/223538/tens-of-thousands-rally-across-yemen)
 2. [Dow Jones via Trading Charts](http://news.tradingcharts.com/futures/0/2/154015820.html)

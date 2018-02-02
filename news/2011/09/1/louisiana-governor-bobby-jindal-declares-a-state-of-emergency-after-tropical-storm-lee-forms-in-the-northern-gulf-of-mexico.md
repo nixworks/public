@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/1/louisiana-governor-bobby-jindal-declares-a-state-of-emergency-after-tropical-storm-lee-forms-in-the-northern-gulf-of-mexico.html)  [JSON](/news/2011/09/1/louisiana-governor-bobby-jindal-declares-a-state-of-emergency-after-tropical-storm-lee-forms-in-the-northern-gulf-of-mexico.json)  [XML](/news/2011/09/1/louisiana-governor-bobby-jindal-declares-a-state-of-emergency-after-tropical-storm-lee-forms-in-the-northern-gulf-of-mexico.xml)  
+
 ### [2011-09-1](/news/2011/09/1/index.md)
 
+##### Governor of Louisiana
 # Louisiana Governor Bobby Jindal declares a state of emergency after Tropical Storm Lee forms in the northern Gulf of Mexico. 
 
 Oil companies evacuated workers from offshore wells, New Orleans prepared for possible flooding and Louisiana Gov. Bobby Jindal declared a state of emergency as a tropical depression formed Thursday in the Gulf of Mexico.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/US/09/01/tropical.weather.gulf/)
 1. [Cover Image](http://i.cdn.turner.com/cnn/2011/US/09/01/tropical.weather.gulf/tzvids.gulf.storm.tracker.cnn.jpg)

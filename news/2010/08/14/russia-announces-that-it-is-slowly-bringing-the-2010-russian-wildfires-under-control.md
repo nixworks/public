@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/14/russia-announces-that-it-is-slowly-bringing-the-2010-russian-wildfires-under-control.html)  [JSON](/news/2010/08/14/russia-announces-that-it-is-slowly-bringing-the-2010-russian-wildfires-under-control.json)  [XML](/news/2010/08/14/russia-announces-that-it-is-slowly-bringing-the-2010-russian-wildfires-under-control.xml)  
+
 ### [2010-08-14](/news/2010/08/14/index.md)
 
+##### Russia
 # Russia announces that it is slowly bringing the 2010 Russian wildfires under control. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/natural/20100814/160198297.html)
 

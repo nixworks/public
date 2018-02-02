@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/11/a-gunman-kills-two-people-and-commits-suicide-near-oslo-norway.html)  [JSON](/news/2009/05/11/a-gunman-kills-two-people-and-commits-suicide-near-oslo-norway.json)  [XML](/news/2009/05/11/a-gunman-kills-two-people-and-commits-suicide-near-oslo-norway.xml)  
+
 ### [2009-05-11](/news/2009/05/11/index.md)
 
+##### kills
 #  A gunman kills two people and commits suicide near Oslo, Norway. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8044826.stm)
 

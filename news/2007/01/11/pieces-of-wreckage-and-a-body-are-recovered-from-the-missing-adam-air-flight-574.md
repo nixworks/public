@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/11/pieces-of-wreckage-and-a-body-are-recovered-from-the-missing-adam-air-flight-574.html)  [JSON](/news/2007/01/11/pieces-of-wreckage-and-a-body-are-recovered-from-the-missing-adam-air-flight-574.json)  [XML](/news/2007/01/11/pieces-of-wreckage-and-a-body-are-recovered-from-the-missing-adam-air-flight-574.xml)  
+
 ### [2007-01-11](/news/2007/01/11/index.md)
 
+##### Adam Air
 #  Pieces of wreckage and a body are recovered from the missing Adam Air flight 574. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.news.com.au/dailytelegraph/story/0,22049,21042808-401,00.html)
 

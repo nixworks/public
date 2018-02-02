@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/24/oxfam-hong-kong-suspends-its-student-training-programme-in-china-after-the-chinese-government-said-the-charity-had-unfriendly-intentions.html)  [JSON](/news/2010/02/24/oxfam-hong-kong-suspends-its-student-training-programme-in-china-after-the-chinese-government-said-the-charity-had-unfriendly-intentions.json)  [XML](/news/2010/02/24/oxfam-hong-kong-suspends-its-student-training-programme-in-china-after-the-chinese-government-said-the-charity-had-unfriendly-intentions.xml)  
+
 ### [2010-02-24](/news/2010/02/24/index.md)
 
+##### Oxfam
 # Oxfam Hong Kong suspends its student training programme in China after the Chinese government said the charity had "unfriendly intentions". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8533752.stm)
 2. [My Sin Chew](http://www.mysinchew.com/node/35540)

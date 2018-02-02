@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/23/the-united-nations-says-173-people-have-been-killed-during-post-election-violence-in-the-ivory-coast.html)  [JSON](/news/2010/12/23/the-united-nations-says-173-people-have-been-killed-during-post-election-violence-in-the-ivory-coast.json)  [XML](/news/2010/12/23/the-united-nations-says-173-people-have-been-killed-during-post-election-violence-in-the-ivory-coast.xml)  
+
 ### [2010-12-23](/news/2010/12/23/index.md)
 
+##### United Nations
 # The United Nations says 173 people have been killed during post-election violence in the Ivory Coast. 
 
 Post-election violence kills 173 in Ivory Coast, the UN says, as pressure mounts for Laurent Gbagbo to quit the presidency.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12067318)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

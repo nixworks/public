@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/30/mitt-romney-accepts-the-nomination-of-the-republican-party-to-be-its-candidate-in-the-2012-us-presidential-election.html)  [JSON](/news/2012/08/30/mitt-romney-accepts-the-nomination-of-the-republican-party-to-be-its-candidate-in-the-2012-us-presidential-election.json)  [XML](/news/2012/08/30/mitt-romney-accepts-the-nomination-of-the-republican-party-to-be-its-candidate-in-the-2012-us-presidential-election.xml)  
+
 ### [2012-08-30](/news/2012/08/30/index.md)
 
+##### Mitt Romney
 # Mitt Romney accepts the nomination of the Republican Party to be its candidate in the 2012 US presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Boston Globe](http://www.boston.com/politicalintelligence/2012/08/30/mitt-romney-accept-nomination-address-delegates-and-nation-gop-convention/t8yQrtATK3Q4Y3IlRjUd5J/story.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/15/the-people-s-republic-of-china-sentences-four-people-to-death-in-the-xinjiang-region-following-threats-to-crack-down-on-terrorism-in-the-far.html)  [JSON](/news/2011/09/15/the-people-s-republic-of-china-sentences-four-people-to-death-in-the-xinjiang-region-following-threats-to-crack-down-on-terrorism-in-the-far.json)  [XML](/news/2011/09/15/the-people-s-republic-of-china-sentences-four-people-to-death-in-the-xinjiang-region-following-threats-to-crack-down-on-terrorism-in-the-far.xml)  
+
 ### [2011-09-15](/news/2011/09/15/index.md)
 
+##### China
 # The People's Republic of China sentences four people to death in the Xinjiang region following threats to crack down on terrorism in the far-western region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hejQtvnZJWwZzkv4YzDOI8E9uElg?docId=CNG.84013840d691548b4d501bfc5f665885.371)
 

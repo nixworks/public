@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/20/2011-syrian-uprising-troops-surround-the-harasta-suburb-of-the-capital-damascus.html)  [JSON](/news/2011/07/20/2011-syrian-uprising-troops-surround-the-harasta-suburb-of-the-capital-damascus.json)  [XML](/news/2011/07/20/2011-syrian-uprising-troops-surround-the-harasta-suburb-of-the-capital-damascus.xml)  
+
 ### [2011-07-20](/news/2011/07/20/index.md)
 
+##### 2011 Syrian uprising
 # 2011 Syrian uprising: Troops surround the Harasta suburb of the capital Damascus. 
 
 Residents of Harasta say entrances blocked by elite forces as foreign minister gives warning to US and French diplomats.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/2011720134034659458.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/17/201171761623973621_20.jpg)

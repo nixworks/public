@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/20/president-karzai-dismisses-mohammad-gulab-mangal-and-others-in-a-reshuffle-of-the-government-in-afghanistan.html)  [JSON](/news/2012/09/20/president-karzai-dismisses-mohammad-gulab-mangal-and-others-in-a-reshuffle-of-the-government-in-afghanistan.json)  [XML](/news/2012/09/20/president-karzai-dismisses-mohammad-gulab-mangal-and-others-in-a-reshuffle-of-the-government-in-afghanistan.xml)  
+
 ### [2012-09-20](/news/2012/09/20/index.md)
 
+##### Hamid Karzai
 # President Karzai dismisses Mohammad Gulab Mangal and others in a reshuffle of the government in Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jlqV9psDAbChRpUj-SR1iE_1pBzQ?docId=CNG.ef0a36adc5444073ab82af5aa9e3c9cd.ae1)
 

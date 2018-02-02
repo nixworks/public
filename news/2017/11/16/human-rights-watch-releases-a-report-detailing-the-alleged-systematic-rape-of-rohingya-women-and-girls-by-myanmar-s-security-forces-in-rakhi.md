@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/16/human-rights-watch-releases-a-report-detailing-
 
 ### [2017-11-16](/news/2017/11/16/index.md)
 
+##### Northern Rakhine State clashes
 # Human Rights Watch releases a report detailing the alleged systematic rape of Rohingya women and girls by Myanmar's security forces in Rakhine State. 
 
 The Burmese military’s barbaric acts of violence have left countless women and girls brutally harmed and traumatized.

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/06/12/kurdish-parliament-in-northern-iraq-elects-masoud-barzani-as-a-president-of-the-region.html)  [JSON](/news/2005/06/12/kurdish-parliament-in-northern-iraq-elects-masoud-barzani-as-a-president-of-the-region.json)  [XML](/news/2005/06/12/kurdish-parliament-in-northern-iraq-elects-masoud-barzani-as-a-president-of-the-region.xml)  
+
 ### [2005-06-12](/news/2005/06/12/index.md)
 
+##### Kurd
 #  Kurdish parliament in Northern Iraq elects Masoud Barzani as a president of the region 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8764477)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8764477)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

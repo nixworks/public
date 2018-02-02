@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/06/28/kyrgyzstan-approves-a-new-constitution-with-90-6-percent-of-voters-backing-a-constitution-that-would-pave-the-way-for-a-parliamentary-electi.html)  [JSON](/news/2010/06/28/kyrgyzstan-approves-a-new-constitution-with-90-6-percent-of-voters-backing-a-constitution-that-would-pave-the-way-for-a-parliamentary-electi.json)  [XML](/news/2010/06/28/kyrgyzstan-approves-a-new-constitution-with-90-6-percent-of-voters-backing-a-constitution-that-would-pave-the-way-for-a-parliamentary-electi.xml)  
+
 ### [2010-06-28](/news/2010/06/28/index.md)
 
+##### Kyrgyzstan
 # Kyrgyzstan approves a new constitution with 90.6 percent of voters backing a constitution that would pave the way for a parliamentary election in October, following the violence of the recent uprising and riots. 
 
 Tens of thousands of people who fled ethnic fighting in Kyrgyzstan earlier this month streamed back into the country over the course of a few days last week. 
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2010/06/29/world/asia/29kyrgyz.html)
+1. [The New York Times](https://www.nytimes.com/2010/06/29/world/asia/29kyrgyz.html)
 1. [Cover Image](https://static01.nyt.com/images/2010/06/29/world/29kyrgyzspan-cnd/29kyrgyzspan-cnd-thumbStandard.jpg)
 
 ### Related:

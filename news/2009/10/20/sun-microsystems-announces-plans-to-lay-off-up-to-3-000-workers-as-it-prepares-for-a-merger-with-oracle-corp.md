@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/20/sun-microsystems-announces-plans-to-lay-off-up-to-3-000-workers-as-it-prepares-for-a-merger-with-oracle-corp.html)  [JSON](/news/2009/10/20/sun-microsystems-announces-plans-to-lay-off-up-to-3-000-workers-as-it-prepares-for-a-merger-with-oracle-corp.json)  [XML](/news/2009/10/20/sun-microsystems-announces-plans-to-lay-off-up-to-3-000-workers-as-it-prepares-for-a-merger-with-oracle-corp.xml)  
+
 ### [2009-10-20](/news/2009/10/20/index.md)
 
+##### Sun Microsystems
 #  Sun Microsystems announces plans to lay off up to 3,000 workers as it prepares for a merger with Oracle Corp. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Market Watch](http://www.marketwatch.com/story/sun-microsystems-to-lay-off-up-to-3000-workers-2009-10-20)
 1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)

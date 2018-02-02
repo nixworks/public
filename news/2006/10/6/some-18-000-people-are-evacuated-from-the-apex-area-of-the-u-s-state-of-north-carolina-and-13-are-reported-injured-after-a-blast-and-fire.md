@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/6/some-18-000-people-are-evacuated-from-the-apex-area-of-the-u-s-state-of-north-carolina-and-13-are-reported-injured-after-a-blast-and-fire.html)  [JSON](/news/2006/10/6/some-18-000-people-are-evacuated-from-the-apex-area-of-the-u-s-state-of-north-carolina-and-13-are-reported-injured-after-a-blast-and-fire.json)  [XML](/news/2006/10/6/some-18-000-people-are-evacuated-from-the-apex-area-of-the-u-s-state-of-north-carolina-and-13-are-reported-injured-after-a-blast-and-fire.xml)  
+
 ### [2006-10-6](/news/2006/10/6/index.md)
 
+##### Apex
 #  Some 18,000 people are evacuated from the Apex area of the U.S. state of North Carolina and 13 are reported injured after a blast and fire at an Environmental Quality Industrial Services chemical plant. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/US/10/06/plant.fire/index.html)
 

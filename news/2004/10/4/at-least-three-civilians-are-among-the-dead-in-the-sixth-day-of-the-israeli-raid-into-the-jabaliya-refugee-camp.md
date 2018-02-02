@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/4/at-least-three-civilians-are-among-the-dead-in-the-sixth-day-of-the-israeli-raid-into-the-jabaliya-refugee-camp.html)  [JSON](/news/2004/10/4/at-least-three-civilians-are-among-the-dead-in-the-sixth-day-of-the-israeli-raid-into-the-jabaliya-refugee-camp.json)  [XML](/news/2004/10/4/at-least-three-civilians-are-among-the-dead-in-the-sixth-day-of-the-israeli-raid-into-the-jabaliya-refugee-camp.xml)  
+
 ### [2004-10-4](/news/2004/10/4/index.md)
 
+##### civilian
 #  At least three civilians are among the dead in the sixth day of the Israeli raid into the Jabaliya refugee camp. 
 
 Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAsia featuring Business, World, Sport, Entertainment, Technology, Health, Lifestyle and Live Streaming.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3711996.stm)
 2. [Channel news Asia](http://www.channelnewsasia.com/stories/afp_world/view/110026/1/.html)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/9/the-election-between-democrat-jon-ossoff-and-rep
 
 ### [2017-05-9](/news/2017/05/9/index.md)
 
+##### Georgia's 6th congressional district special election, 2017
 # The election between Democrat Jon Ossoff and Republican Karen Handel to replace the seat vacated by Tom Price becomes the most expensive congressional race in United States history. 
 
 

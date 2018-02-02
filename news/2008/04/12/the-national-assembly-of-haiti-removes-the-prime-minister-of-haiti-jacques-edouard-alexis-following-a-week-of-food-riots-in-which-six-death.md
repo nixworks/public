@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/12/the-national-assembly-of-haiti-removes-the-prime-minister-of-haiti-jacques-edouard-alexis-following-a-week-of-food-riots-in-which-six-death.html)  [JSON](/news/2008/04/12/the-national-assembly-of-haiti-removes-the-prime-minister-of-haiti-jacques-edouard-alexis-following-a-week-of-food-riots-in-which-six-death.json)  [XML](/news/2008/04/12/the-national-assembly-of-haiti-removes-the-prime-minister-of-haiti-jacques-edouard-alexis-following-a-week-of-food-riots-in-which-six-death.xml)  
+
 ### [2008-04-12](/news/2008/04/12/index.md)
 
+##### National Assembly of Haiti
 #  The National Assembly of Haiti removes the Prime Minister of Haiti Jacques-Edouard Alexis following a week of food riots in which six deaths had occurred. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/latinamerica/la-fg-haiti13apr13,1,3759951.story?track=rss)
 

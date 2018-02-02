@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/10/an-indonesian-air-force-plane-on-a-routine-trai
 
 ### [2016-02-10](/news/2016/02/10/index.md)
 
+##### Indonesian Air Force
 # An Indonesian Air Force plane on a routine training flight crashes into a house in the city of Malang in the East Java province, killing four people and injuring one. 
 
 An air force official reportedly said that a woman who was inside the house was critically injured.

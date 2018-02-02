@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/15/australian-prime-minister-julia-gillard-announces-that-the-late-swedish-diplomat-raoul-wallenberg-has-been-made-an-honorary-australian-citiz.html)  [JSON](/news/2013/04/15/australian-prime-minister-julia-gillard-announces-that-the-late-swedish-diplomat-raoul-wallenberg-has-been-made-an-honorary-australian-citiz.json)  [XML](/news/2013/04/15/australian-prime-minister-julia-gillard-announces-that-the-late-swedish-diplomat-raoul-wallenberg-has-been-made-an-honorary-australian-citiz.xml)  
+
 ### [2013-04-15](/news/2013/04/15/index.md)
 
+##### Australia
 # Australian Prime Minister Julia Gillard announces that the late Swedish diplomat Raoul Wallenberg has been made an honorary Australian citizen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Australian](http://www.theaustralian.com.au/news/nation/holocaust-hero-raoul-wallenberg-made-first-honorary-australian/story-e6frg6nf-1226620896921)
 

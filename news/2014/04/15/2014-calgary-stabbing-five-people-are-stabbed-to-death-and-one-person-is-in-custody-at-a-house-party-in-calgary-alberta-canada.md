@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/15/2014-calgary-stabbing-five-people-are-stabbed-to-death-and-one-person-is-in-custody-at-a-house-party-in-calgary-alberta-canada.html)  [JSON](/news/2014/04/15/2014-calgary-stabbing-five-people-are-stabbed-to-death-and-one-person-is-in-custody-at-a-house-party-in-calgary-alberta-canada.json)  [XML](/news/2014/04/15/2014-calgary-stabbing-five-people-are-stabbed-to-death-and-one-person-is-in-custody-at-a-house-party-in-calgary-alberta-canada.xml)  
+
 ### [2014-04-15](/news/2014/04/15/index.md)
 
+##### 2014 Calgary stabbing
 # 2014 Calgary stabbing. Five people are stabbed to death and one person is in custody at a house party in Calgary, Alberta, Canada. 
 
 Matthew de Grood, the 22-year-old son of a veteran Calgary police officer, has been charged with five counts of first-degree murder in the stabbing deaths of five young people at a northwest Calgary house party.
 
 
-### Source:
+### Sources:
 
 1. [CBC News](http://www.cbc.ca/news/canada/calgary/calgary-stabbings-4-male-youths-1-female-dead-1.2610465)
 1. [Cover Image](https://i.cbc.ca/1.2611421.1406032652!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/matthew-de-grood.jpg)

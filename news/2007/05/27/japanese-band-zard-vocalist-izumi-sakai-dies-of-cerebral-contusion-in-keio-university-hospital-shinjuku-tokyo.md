@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/27/japanese-band-zard-vocalist-izumi-sakai-dies-of-cerebral-contusion-in-keio-university-hospital-shinjuku-tokyo.html)  [JSON](/news/2007/05/27/japanese-band-zard-vocalist-izumi-sakai-dies-of-cerebral-contusion-in-keio-university-hospital-shinjuku-tokyo.json)  [XML](/news/2007/05/27/japanese-band-zard-vocalist-izumi-sakai-dies-of-cerebral-contusion-in-keio-university-hospital-shinjuku-tokyo.xml)  
+
 ### [2007-05-27](/news/2007/05/27/index.md)
 
+##### Japan
 #  Japanese band Zard vocalist Izumi Sakai dies of cerebral contusion in Keio University hospital, Shinjuku, Tokyo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Breitbart](http://www.breitbart.com/article.php?id=D8PD5LPO0&show_article=1&cat=0)
 

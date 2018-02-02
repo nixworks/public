@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/7/in-a-study-published-in-nature-communications-scientists-unearth-in-alberta-canada-and-identify-what-may-be-the-earliest-known-pachycephal.html)  [JSON](/news/2013/05/7/in-a-study-published-in-nature-communications-scientists-unearth-in-alberta-canada-and-identify-what-may-be-the-earliest-known-pachycephal.json)  [XML](/news/2013/05/7/in-a-study-published-in-nature-communications-scientists-unearth-in-alberta-canada-and-identify-what-may-be-the-earliest-known-pachycephal.xml)  
+
 ### [2013-05-7](/news/2013/05/7/index.md)
 
+##### Nature Communications
 # In a study published in Nature Communications, scientists unearth in Alberta, Canada and identify what may be the earliest known pachycephalosaur (bone-headed dinosaur), "Acrotholus audeti". 
 
 We can add another dinosaur species to the roster, with a newly identified type of bone-headed creature discovered in Alberta, Canada. It&#039;s especially significant considering scientists believe it may be the oldest bonehead dinosaur to be found in North America, and maybe even the world.
 
 
-### Source:
+### Sources:
 
 1. [Latinos Post](http://www.latinospost.com/articles/18536/20130507/scientists-discover-worlds-oldest-bone-headed-dinosaur.htm)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/03/20/charles-prince-of-wales-and-his-wife-camilla-duchess-of-cornwall-begin-official-visit-to-egypt-saudi-arabia-and-india.html)  [JSON](/news/2006/03/20/charles-prince-of-wales-and-his-wife-camilla-duchess-of-cornwall-begin-official-visit-to-egypt-saudi-arabia-and-india.json)  [XML](/news/2006/03/20/charles-prince-of-wales-and-his-wife-camilla-duchess-of-cornwall-begin-official-visit-to-egypt-saudi-arabia-and-india.xml)  
+
 ### [2006-03-20](/news/2006/03/20/index.md)
 
+##### Prince of Wales
 #  Charles, Prince of Wales, and his wife, Camilla, Duchess of Cornwall, begin official visit to Egypt, Saudi Arabia and India.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/12/asean-summit-begins-in-kuala-lumpur-malaysia.html)  [JSON](/news/2005/12/12/asean-summit-begins-in-kuala-lumpur-malaysia.json)  [XML](/news/2005/12/12/asean-summit-begins-in-kuala-lumpur-malaysia.xml)  
+
 ### [2005-12-12](/news/2005/12/12/index.md)
 
+##### ASEAN Summit
 #  ASEAN Summit begins in Kuala Lumpur, Malaysia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/singaporelocalnews/view/183232/1/.html)
 

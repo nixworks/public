@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/06/30/in-the-united-states-president-george-w-bush-names-u-s-securities-and-exchange-commission-sec-member-cynthia-a-glassman-as-acting-chai.html)  [JSON](/news/2005/06/30/in-the-united-states-president-george-w-bush-names-u-s-securities-and-exchange-commission-sec-member-cynthia-a-glassman-as-acting-chai.json)  [XML](/news/2005/06/30/in-the-united-states-president-george-w-bush-names-u-s-securities-and-exchange-commission-sec-member-cynthia-a-glassman-as-acting-chai.xml)  
+
 ### [2005-06-30](/news/2005/06/30/index.md)
 
+##### George W. Bush
 #  In the United States President George W. Bush names U.S. Securities and Exchange Commission (SEC) member Cynthia A. Glassman as acting chair, replacing William Donaldson, who announced his retirement early this month, effective today.
 
 

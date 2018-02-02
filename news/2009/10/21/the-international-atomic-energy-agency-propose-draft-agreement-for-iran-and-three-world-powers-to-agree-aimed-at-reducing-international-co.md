@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/21/the-international-atomic-energy-agency-propose-draft-agreement-for-iran-and-three-world-powers-to-agree-aimed-at-reducing-international-co.html)  [JSON](/news/2009/10/21/the-international-atomic-energy-agency-propose-draft-agreement-for-iran-and-three-world-powers-to-agree-aimed-at-reducing-international-co.json)  [XML](/news/2009/10/21/the-international-atomic-energy-agency-propose-draft-agreement-for-iran-and-three-world-powers-to-agree-aimed-at-reducing-international-co.xml)  
+
 ### [2009-10-21](/news/2009/10/21/index.md)
 
+##### IAEA
 #  The International Atomic Energy Agency propose draft agreement for Iran and three world powers to agree, aimed at reducing international concerns over Tehran's nuclear programme. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8318258.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/13/a-palestinian-university-student-is-killed-as-he-attempts-to-defy-arrest-after-residents-throw-stones-at-israeli-soldiers-in-a-community-nor.html)  [JSON](/news/2011/07/13/a-palestinian-university-student-is-killed-as-he-attempts-to-defy-arrest-after-residents-throw-stones-at-israeli-soldiers-in-a-community-nor.json)  [XML](/news/2011/07/13/a-palestinian-university-student-is-killed-as-he-attempts-to-defy-arrest-after-residents-throw-stones-at-israeli-soldiers-in-a-community-nor.xml)  
+
 ### [2011-07-13](/news/2011/07/13/index.md)
 
+##### Israeli Defense Forces
 # A Palestinian university student is killed as he attempts to defy arrest after residents throw stones at Israeli soldiers in a community north of Nablus. 
 
 A Palestinian man is killed in an Israeli military raid on a West Bank refugee camp as Israel carries out overnight air strikes in Gaza.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-14134711)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54044000/jpg/_54044753_012441024-1.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/24/prime-minister-of-the-ivory-coast-guillaume-soro-announces-the-formation-of-a-new-government-after-48-hours-of-negotiations-and-opposition.html)  [JSON](/news/2010/02/24/prime-minister-of-the-ivory-coast-guillaume-soro-announces-the-formation-of-a-new-government-after-48-hours-of-negotiations-and-opposition.json)  [XML](/news/2010/02/24/prime-minister-of-the-ivory-coast-guillaume-soro-announces-the-formation-of-a-new-government-after-48-hours-of-negotiations-and-opposition.xml)  
+
 ### [2010-02-24](/news/2010/02/24/index.md)
 
+##### Prime Minister
 # Prime Minister of the Ivory Coast Guillaume Soro announces the formation of a new government after 48 hours of negotiations, and opposition parties demand the reinstatement of the electoral commission. 
 
 Opposition delays joining government pending reinstatement of electoral commission.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/02/2010224131949809375.html)
 2. [Post Zambia](http://www.postzambia.com/post-read_article.php?articleId=6315)

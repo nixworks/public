@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/04/26/robotic-submarines-attempt-to-stop-leaking-oil-in-the-aftermath-of-the-deepwater-horizon-drilling-rig-explosion.html)  [JSON](/news/2010/04/26/robotic-submarines-attempt-to-stop-leaking-oil-in-the-aftermath-of-the-deepwater-horizon-drilling-rig-explosion.json)  [XML](/news/2010/04/26/robotic-submarines-attempt-to-stop-leaking-oil-in-the-aftermath-of-the-deepwater-horizon-drilling-rig-explosion.xml)  
+
 ### [2010-04-26](/news/2010/04/26/index.md)
 
+##### Deepwater Horizon drilling rig explosion
 #  Robotic submarines attempt to stop leaking oil in the aftermath of the Deepwater Horizon drilling rig explosion. 
 
 32 boats working to contain, collect oil that is spilling from sunken rig at the rate of 160,000 litres a day
 
 
-### Source:
+### Sources:
 
-1. [The Globe and Mail](http://www.theglobeandmail.com/news/world/robot-subs-trying-to-stop-oil-leak-deep-below-gulf-of-mexico/article1547673/)
-1. [Cover Image](http://static.theglobeandmail.ca/828/migration_catalog/article3954599.ece/ALTERNATES/w620/oil+rig+BP+Gulf+of+Mexico)
+1. [The Globe and Mail](https://www.theglobeandmail.com/news/world/robot-subs-trying-to-stop-oil-leak-deep-below-gulf-of-mexico/article1547673/)
+1. [Cover Image](https://beta.theglobeandmail.com/resizer/TbF4NqFNT6fu5RlaE5aa-ylsKhU=/1200x0/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/OAQCWKICKZAIZBR3H6GWNUPF5A)
 
 ### Related:
 

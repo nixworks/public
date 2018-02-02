@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2006/04/23/elections-in-the-solomon-islands-beijing-begins-to-evacuate-ethnic-chinese-from-solomon-islands-following-anti-chinese-riots-during-the-el.html)  [JSON](/news/2006/04/23/elections-in-the-solomon-islands-beijing-begins-to-evacuate-ethnic-chinese-from-solomon-islands-following-anti-chinese-riots-during-the-el.json)  [XML](/news/2006/04/23/elections-in-the-solomon-islands-beijing-begins-to-evacuate-ethnic-chinese-from-solomon-islands-following-anti-chinese-riots-during-the-el.xml)  
+
 ### [2006-04-23](/news/2006/04/23/index.md)
 
+##### Elections in the Solomon Islands
 #  Elections in the Solomon Islands: Beijing begins to evacuate ethnic Chinese from Solomon Islands following Anti-Chinese riots during the election protests that destroyed the Chinatown. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/04/23/AR2006042300065.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2006/04/23/AR2006042300065.html)
 2. [Xinhua](http://news.xinhuanet.com/english/2006-04/23/content_4462418.htm)
 
 ### Related:
 
 1. [ Snyder Rini was sworn in as the new Prime Minister of the Solomon Islands and took office in secret, amid continued post-election rioting targeting ethnic Chinese. ](/news/2006/04/20/snyder-rini-was-sworn-in-as-the-new-prime-minister-of-the-solomon-islands-and-took-office-in-secret-amid-continued-post-election-rioting-t.md) _Context: Elections in the Solomon Islands, ethnic Chinese_
-2. [Along with the Solomon Islands, the State of Palestine joins Interpol despite objections from Israel. ](/news/2017/09/27/along-with-the-solomon-islands-the-state-of-palestine-joins-interpol-despite-objections-from-israel.md) _Context: Solomon Islands_
-3. [A stalemate between China and India leads to fears that the ongoing stand-off over Doklam in the Himalayas, disputed by Bhutan, may continue into the winter. It comes after rumors that Indian National Security Adviser Ajit Doval may travel to Beijing later this month. "[http:--economictimes.indiatimes.com-news-defence-beijing-wont-have-formal-talks-with-india-stand-off-may-continue-till-winter-chinese-expert-articleshow-59615025.cms (Economic Times)]"](/news/2017/07/16/a-stalemate-between-china-and-india-leads-to-fears-that-the-ongoing-stand-off-over-doklam-in-the-himalayas-disputed-by-bhutan-may-continue.md) _Context: Beijing_
-4. [A farewell ceremony in Honiara ends the 14 year RAMSI mission in the Solomon Islands. ](/news/2017/06/29/a-farewell-ceremony-in-honiara-ends-the-14-year-ramsi-mission-in-the-solomon-islands.md) _Context: Solomon Islands_
-5. [Following the death of 22-year-old U.S. student Otto Warmbier, touring firm Young Pioneer Tours, who arranged Otto's visit to North Korea, say they will no longer be taking U.S. citizens to North Korea as the "risk is too high". Beijing-based Koryo Tours say they are reviewing their positions on taking U.S. citizens to the country. ](/news/2017/06/20/following-the-death-of-22-year-old-u-s-student-otto-warmbier-touring-firm-young-pioneer-tours-who-arranged-otto-s-visit-to-north-korea-s.md) _Context: Beijing_
+2. [The Russian Ministry of Defense says that Russia and China concluded a five-day computer-generated air defense drill in Beijing. ](/news/2017/12/17/the-russian-ministry-of-defense-says-that-russia-and-china-concluded-a-five-day-computer-generated-air-defense-drill-in-beijing.md) _Context: Beijing_
+3. [Solomon Islands Prime Minister Manasseh Sogavare is narrowly ousted in a vote of no confidence by 27 to 23 votes. ](/news/2017/11/6/solomon-islands-prime-minister-manasseh-sogavare-is-narrowly-ousted-in-a-vote-of-no-confidence-by-27-to-23-votes.md) _Context: Solomon Islands_
+4. [Authorities in Beijing evict thousands of its migrant population in wake of a fire that left 19 people dead earlier this month, leaving many homeless in sub-zero temperatures. ](/news/2017/11/27/authorities-in-beijing-evict-thousands-of-its-migrant-population-in-wake-of-a-fire-that-left-19-people-dead-earlier-this-month-leaving-many.md) _Context: Beijing_
+5. [A fire in a low-rent apartment in a suburb of Beijing kills 19 people and injures 8. ](/news/2017/11/18/a-fire-in-a-low-rent-apartment-in-a-suburb-of-beijing-kills-19-people-and-injures-8.md) _Context: Beijing_

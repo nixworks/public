@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/26/philippine-president-rodrigo-duterte-unintentio
 
 ### [2016-08-26](/news/2016/08/26/index.md)
 
+##### Philippines
 # Philippine president Rodrigo Duterte unintentionally reveals that a US$1 million ransom was given to the Abu Sayyaf terror group in exchange for a Norwegian hostage. 
 
 President Rodrigo Duterte says ransom has been paid for Norwegian hostage Kjartan Sekkingstad, who has yet to be released by the Abu Sayyaf

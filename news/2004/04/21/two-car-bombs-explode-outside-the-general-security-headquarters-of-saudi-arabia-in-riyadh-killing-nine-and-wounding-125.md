@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/04/21/two-car-bombs-explode-outside-the-general-security-headquarters-of-saudi-arabia-in-riyadh-killing-nine-and-wounding-125.html)  [JSON](/news/2004/04/21/two-car-bombs-explode-outside-the-general-security-headquarters-of-saudi-arabia-in-riyadh-killing-nine-and-wounding-125.json)  [XML](/news/2004/04/21/two-car-bombs-explode-outside-the-general-security-headquarters-of-saudi-arabia-in-riyadh-killing-nine-and-wounding-125.xml)  
+
 ### [2004-04-21](/news/2004/04/21/index.md)
 
+##### Saudi Arabia
 #  Two car bombs explode outside the General Security headquarters of Saudi Arabia in Riyadh, killing nine and wounding 125. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://www.nytimes.com/aponline/international/AP-Saudi-Explosion.html?hp)
+1. [AP](https://www.nytimes.com/aponline/international/AP-Saudi-Explosion.html?hp)
 2. [CNN](http://www.cnn.com/2004/WORLD/meast/04/21/saudi.blast/index.html)
 
 ### Related:

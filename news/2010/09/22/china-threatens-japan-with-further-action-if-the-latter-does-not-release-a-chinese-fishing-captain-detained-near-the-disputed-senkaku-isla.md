@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/22/china-threatens-japan-with-further-action-if-the-latter-does-not-release-a-chinese-fishing-captain-detained-near-the-disputed-senkaku-isla.html)  [JSON](/news/2010/09/22/china-threatens-japan-with-further-action-if-the-latter-does-not-release-a-chinese-fishing-captain-detained-near-the-disputed-senkaku-isla.json)  [XML](/news/2010/09/22/china-threatens-japan-with-further-action-if-the-latter-does-not-release-a-chinese-fishing-captain-detained-near-the-disputed-senkaku-isla.xml)  
+
 ### [2010-09-22](/news/2010/09/22/index.md)
 
+##### China
 # China threatens Japan with "further action" if the latter does not release a Chinese fishing captain detained near the disputed Senkaku Islands. 
 
 Residents in northern Burundi are on alert after the discovery of 14 bodies, some of them mutilated, in a local river, an official says. 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jshUTNlE5mO2KsKaxhSMi7f1uXCA)
 2. [News24](http://www.news24.com/Africa/News/14-bodies-found-in-Burundian-river-20100922)

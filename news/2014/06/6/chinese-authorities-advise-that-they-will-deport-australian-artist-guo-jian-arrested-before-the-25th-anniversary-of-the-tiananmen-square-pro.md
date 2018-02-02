@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/6/chinese-authorities-advise-that-they-will-deport-australian-artist-guo-jian-arrested-before-the-25th-anniversary-of-the-tiananmen-square-pro.html)  [JSON](/news/2014/06/6/chinese-authorities-advise-that-they-will-deport-australian-artist-guo-jian-arrested-before-the-25th-anniversary-of-the-tiananmen-square-pro.json)  [XML](/news/2014/06/6/chinese-authorities-advise-that-they-will-deport-australian-artist-guo-jian-arrested-before-the-25th-anniversary-of-the-tiananmen-square-pro.xml)  
+
 ### [2014-06-6](/news/2014/06/6/index.md)
 
+##### China
 # Chinese authorities advise that they will deport Australian artist Guo Jian arrested before the 25th anniversary of the Tiananmen Square protests. 
 
 Chinese-born Australian artist Guo Jian, detained before the Tiananmen anniversary, will be deported from Beijing, Canberra says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-27727504)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75340000/jpg/_75340075_gj-portrait-06.jpg)

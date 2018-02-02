@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/5/russia-has-officially-declined-a-request-by-the-uk-to-extradite-andrei-lugovoi-for-the-murder-of-alexander-litvinenko-russia-s-constitutio.html)  [JSON](/news/2007/07/5/russia-has-officially-declined-a-request-by-the-uk-to-extradite-andrei-lugovoi-for-the-murder-of-alexander-litvinenko-russia-s-constitutio.json)  [XML](/news/2007/07/5/russia-has-officially-declined-a-request-by-the-uk-to-extradite-andrei-lugovoi-for-the-murder-of-alexander-litvinenko-russia-s-constitutio.xml)  
+
 ### [2007-07-5](/news/2007/07/5/index.md)
 
+##### Russia
 #  Russia has officially declined a request by the UK to extradite Andrei Lugovoi for the murder of Alexander Litvinenko. Russia's constitution bars extradition of its citizens. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/russia/article/0,,2119227,00.html?gusrc=rss&feed=networkfront)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/01/24/according-to-finland-based-crisis-management-initiative-group-free-aceh-movement-and-the-indonesian-government-have-agreed-to-negotiate-fo.html)  [JSON](/news/2005/01/24/according-to-finland-based-crisis-management-initiative-group-free-aceh-movement-and-the-indonesian-government-have-agreed-to-negotiate-fo.json)  [XML](/news/2005/01/24/according-to-finland-based-crisis-management-initiative-group-free-aceh-movement-and-the-indonesian-government-have-agreed-to-negotiate-fo.xml)  
+
 ### [2005-01-24](/news/2005/01/24/index.md)
 
+##### Finland
 #  According to Finland-based Crisis Management Initiative group, Free Aceh Movement and the Indonesian government have agreed to negotiate for ceasefire in Helsinki. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aJyYHwV7K4qM&refer=asia)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000080&sid=aJyYHwV7K4qM&refer=asia)
 2. [London Free Press](http://www.canoe.ca/NewsStand/LondonFreePress/News/2005/01/24/908255-sun.html)
 3. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L23410981.htm)
 

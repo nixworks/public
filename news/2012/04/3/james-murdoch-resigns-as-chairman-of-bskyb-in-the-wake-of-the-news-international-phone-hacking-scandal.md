@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/3/james-murdoch-resigns-as-chairman-of-bskyb-in-the-wake-of-the-news-international-phone-hacking-scandal.html)  [JSON](/news/2012/04/3/james-murdoch-resigns-as-chairman-of-bskyb-in-the-wake-of-the-news-international-phone-hacking-scandal.json)  [XML](/news/2012/04/3/james-murdoch-resigns-as-chairman-of-bskyb-in-the-wake-of-the-news-international-phone-hacking-scandal.xml)  
+
 ### [2012-04-3](/news/2012/04/3/index.md)
 
+##### James
 # James Murdoch resigns as Chairman of BSkyB in the wake of the News International phone hacking scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/201243124140621481.html)
 2. [BBC](http://www.bbc.co.uk/news/business-17599269)

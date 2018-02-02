@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/16/a-blue-islands-atr-42-aircraft-suffers-an-undercarriage-collapse-on-the-runway-at-jersey-airport-the-aircraft-is-later-evacuated-with-no-in.html)  [JSON](/news/2012/06/16/a-blue-islands-atr-42-aircraft-suffers-an-undercarriage-collapse-on-the-runway-at-jersey-airport-the-aircraft-is-later-evacuated-with-no-in.json)  [XML](/news/2012/06/16/a-blue-islands-atr-42-aircraft-suffers-an-undercarriage-collapse-on-the-runway-at-jersey-airport-the-aircraft-is-later-evacuated-with-no-in.xml)  
+
 ### [2012-06-16](/news/2012/06/16/index.md)
 
+##### Blue Islands
 # A Blue Islands ATR 42 aircraft suffers an undercarriage collapse on the runway at Jersey Airport. The aircraft is later evacuated with no injuries reported. 
 
 The undercarriage of a Blue Islands plane from Guernsey gives way after landing at Jersey Airport but nobody is injured.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-jersey-18469947)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56674000/jpg/_56674400_56674399.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/17/north-caucasus-insurgency-4-police-officers-are-killed-in-an-attack-near-grozny-the-capital-of-the-russian-north-caucasus-republic-of-chec.html)  [JSON](/news/2012/08/17/north-caucasus-insurgency-4-police-officers-are-killed-in-an-attack-near-grozny-the-capital-of-the-russian-north-caucasus-republic-of-chec.json)  [XML](/news/2012/08/17/north-caucasus-insurgency-4-police-officers-are-killed-in-an-attack-near-grozny-the-capital-of-the-russian-north-caucasus-republic-of-chec.xml)  
+
 ### [2012-08-17](/news/2012/08/17/index.md)
 
+##### Insurgency in the North Caucasus
 # North Caucasus insurgency: 4 police officers are killed in an attack near Grozny, the capital of the Russian North Caucasus republic of Chechnya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.ria.ru/crime/20120818/175289675.html)
 

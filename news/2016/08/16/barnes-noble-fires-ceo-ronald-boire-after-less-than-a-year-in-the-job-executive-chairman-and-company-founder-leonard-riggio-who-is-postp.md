@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/16/barnes-noble-fires-ceo-ronald-boire-after-less-
 
 ### [2016-08-16](/news/2016/08/16/index.md)
 
+##### Barnes & Noble
 # Barnes & Noble fires CEO Ronald Boire after less than a year in the job. Executive Chairman and company founder Leonard Riggio, who is postponing his September retirement, will assume Boire's duties. 
 
 Barnes & Noble Inc said on Tuesday Chief Executive Ronald Boire would leave, after less than a year at the helm, as its board had decided he was not a &quot;good fit&quot; for the bookstore chain operator.

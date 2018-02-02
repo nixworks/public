@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/6/the-prime-minister-of-thailand-yingluck-shinawatra-appears-before-the-thai-constitutional-court-to-defend-herself-against-charges-of-abuse-o.html)  [JSON](/news/2014/05/6/the-prime-minister-of-thailand-yingluck-shinawatra-appears-before-the-thai-constitutional-court-to-defend-herself-against-charges-of-abuse-o.json)  [XML](/news/2014/05/6/the-prime-minister-of-thailand-yingluck-shinawatra-appears-before-the-thai-constitutional-court-to-defend-herself-against-charges-of-abuse-o.xml)  
+
 ### [2014-05-6](/news/2014/05/6/index.md)
 
+##### Prime Minister
 # The Prime Minister of Thailand Yingluck Shinawatra appears before the Thai Constitutional Court to defend herself against charges of abuse of power. 
 
 Thai PM Yingluck Shinawatra in court for hearing that may lead to her dismissal - Thai Prime Minister Yingluck Shinawatra arrived at the Constitutional Court on Tuesday to defend herself against charges of abuse of power, one of two legal challenges that could see her removed from office this month. Six months of street protests aimed at toppling Yingluck have undermined her government, but she has clung on and the number of protesters has dwindled. However, tension is rising again, with her supporters threatening action if the courts remove her and fears of confrontation with the protesters growing.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''DNA India](http://www.dnaindia.com/world/report-thai-pm-yingluck-shinawatra-in-court-for-hearing-that-may-lead-to-her-dismissal-1985446)
 1. [Cover Image](http://static.dnaindia.com/images/2015/dna-logo-shared.jpg?v=1212)

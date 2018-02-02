@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/7/the-death-toll-from-a-factory-collapse-in-the-pakistani-city-of-lahore-rises-to-17-with-20-more-people-trapped-in-the-rubble.html)  [JSON](/news/2012/02/7/the-death-toll-from-a-factory-collapse-in-the-pakistani-city-of-lahore-rises-to-17-with-20-more-people-trapped-in-the-rubble.json)  [XML](/news/2012/02/7/the-death-toll-from-a-factory-collapse-in-the-pakistani-city-of-lahore-rises-to-17-with-20-more-people-trapped-in-the-rubble.xml)  
+
 ### [2012-02-7](/news/2012/02/7/index.md)
 
+##### Pakistan
 # The death toll from a factory collapse in the Pakistani city of Lahore rises to 17 with 20 more people trapped in the rubble. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via Yahoo7 News](http://au.news.yahoo.com/world/a/-/world/12836126/17-dead-as-pakistan-building-toll-rises/)
 

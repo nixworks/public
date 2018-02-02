@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/12/16/at-least-two-people-die-in-clashes-between-demonstrators-and-egyptian-army-soldiers-in-cairo.html)  [JSON](/news/2011/12/16/at-least-two-people-die-in-clashes-between-demonstrators-and-egyptian-army-soldiers-in-cairo.json)  [XML](/news/2011/12/16/at-least-two-people-die-in-clashes-between-demonstrators-and-egyptian-army-soldiers-in-cairo.xml)  
+
 ### [2011-12-16](/news/2011/12/16/index.md)
 
+##### Egyptian Army
 # At least two people die in clashes between demonstrators and Egyptian Army soldiers in Cairo. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/12/16/us-egypt-clashes-idUSTRE7BF1H520111216)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111216&t=2&i=547857340&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BF1UMN00)
+1. [Reuters](https://www.reuters.com/article/2011/12/16/us-egypt-clashes-idUSTRE7BF1H520111216)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111216&t=2&i=547857340&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BF1UMN00)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/10/2010-fifa-world-cup-germany-defeats-uruguay-3-2-to-finish-third.html)  [JSON](/news/2010/07/10/2010-fifa-world-cup-germany-defeats-uruguay-3-2-to-finish-third.json)  [XML](/news/2010/07/10/2010-fifa-world-cup-germany-defeats-uruguay-3-2-to-finish-third.xml)  
+
 ### [2010-07-10](/news/2010/07/10/index.md)
 
+##### 2010 FIFA World Cup
 # 2010 FIFA World Cup: Germany defeats Uruguay 3-2 to finish third. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_63/default.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/26/tunisia-issues-an-international-arrest-warrant-for-former-president-zine-el-abidine-ben-ali-and-members-of-his-family-who-fled-the-country-e.html)  [JSON](/news/2011/01/26/tunisia-issues-an-international-arrest-warrant-for-former-president-zine-el-abidine-ben-ali-and-members-of-his-family-who-fled-the-country-e.json)  [XML](/news/2011/01/26/tunisia-issues-an-international-arrest-warrant-for-former-president-zine-el-abidine-ben-ali-and-members-of-his-family-who-fled-the-country-e.xml)  
+
 ### [2011-01-26](/news/2011/01/26/index.md)
 
+##### Tunisia
 # Tunisia issues an international arrest warrant for former President Zine El Abidine Ben Ali and members of his family who fled the country earlier this month following demonstrations that toppled his regime. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g-LwuYrv8kNfnY_cE6P_9SnMC9Qg?docId=CNG.189a3a1fe5c8bba71806f5a7de2822bc.671)
 2. [CNN](http://edition.cnn.com/2011/WORLD/africa/01/26/tunisia.warrant/)

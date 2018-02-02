@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/11/the-body-of-the-former-president-of-cyprus-tassos-papadopoulos-is-stolen-from-the-grave-a-day-before-the-first-anniversary-of-his-death.html)  [JSON](/news/2009/12/11/the-body-of-the-former-president-of-cyprus-tassos-papadopoulos-is-stolen-from-the-grave-a-day-before-the-first-anniversary-of-his-death.json)  [XML](/news/2009/12/11/the-body-of-the-former-president-of-cyprus-tassos-papadopoulos-is-stolen-from-the-grave-a-day-before-the-first-anniversary-of-his-death.xml)  
+
 ### [2009-12-11](/news/2009/12/11/index.md)
 
+##### President
 #  The body of the former President of Cyprus Tassos Papadopoulos is stolen from the grave, a day before the first anniversary of his death. 
 
 Grave robbers have stolen the remains of Tassos Papadopoulos, the former president of the Republic of Cyprus.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8407552.stm)
 2. [Cyprus News Agency](http://www.cna.org.cy/website/english/announcedisplay2.asp?id=1)

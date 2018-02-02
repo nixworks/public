@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/22/sudan-launches-a-fresh-incursion-into-south-sudan.html)  [JSON](/news/2012/04/22/sudan-launches-a-fresh-incursion-into-south-sudan.json)  [XML](/news/2012/04/22/sudan-launches-a-fresh-incursion-into-south-sudan.xml)  
+
 ### [2012-04-22](/news/2012/04/22/index.md)
 
+##### Sudan
 # Sudan launches a fresh incursion into South Sudan. 
 
 Border areas across Unity State bombed leaving one dead and three others wounded, an official said.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/04/2012422224749713350.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/23/201242385139361734_20.jpg)

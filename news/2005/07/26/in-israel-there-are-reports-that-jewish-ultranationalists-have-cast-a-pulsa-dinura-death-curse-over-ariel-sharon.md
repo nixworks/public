@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/26/in-israel-there-are-reports-that-jewish-ultranationalists-have-cast-a-pulsa-dinura-death-curse-over-ariel-sharon.html)  [JSON](/news/2005/07/26/in-israel-there-are-reports-that-jewish-ultranationalists-have-cast-a-pulsa-dinura-death-curse-over-ariel-sharon.json)  [XML](/news/2005/07/26/in-israel-there-are-reports-that-jewish-ultranationalists-have-cast-a-pulsa-dinura-death-curse-over-ariel-sharon.xml)  
+
 ### [2005-07-26](/news/2005/07/26/index.md)
 
+##### Israel
 #  In Israel, there are reports that Jewish ultranationalists have cast a Pulsa diNura death curse over Ariel Sharon 
 
 Condemnations of the Pulsa Dinura death prayer against Prime Minister Sharon, conducted by radical rabbis and right-wing activists, have come flooding in from across the political spectrum
 
 
-### Source:
+### Sources:
 
 1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L26684414.htm)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3118408,00.html)

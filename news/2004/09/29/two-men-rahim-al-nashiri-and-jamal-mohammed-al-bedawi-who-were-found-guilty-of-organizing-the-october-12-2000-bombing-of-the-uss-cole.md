@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/29/two-men-rahim-al-nashiri-and-jamal-mohammed-al-bedawi-who-were-found-guilty-of-organizing-the-october-12-2000-bombing-of-the-uss-cole.html)  [JSON](/news/2004/09/29/two-men-rahim-al-nashiri-and-jamal-mohammed-al-bedawi-who-were-found-guilty-of-organizing-the-october-12-2000-bombing-of-the-uss-cole.json)  [XML](/news/2004/09/29/two-men-rahim-al-nashiri-and-jamal-mohammed-al-bedawi-who-were-found-guilty-of-organizing-the-october-12-2000-bombing-of-the-uss-cole.xml)  
+
 ### [2004-09-29](/news/2004/09/29/index.md)
 
+##### Rahim al-Nashiri
 #  Two men, Rahim al-Nashiri and Jamal Mohammed al-Bedawi, who were found guilty of organizing the October 12, 2000, bombing of the USS "Cole", are sentenced to death by a court in Yemen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3699426.stm)
 

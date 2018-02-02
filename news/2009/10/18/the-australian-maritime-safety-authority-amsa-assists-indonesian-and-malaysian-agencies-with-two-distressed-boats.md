@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/18/the-australian-maritime-safety-authority-amsa-assists-indonesian-and-malaysian-agencies-with-two-distressed-boats.html)  [JSON](/news/2009/10/18/the-australian-maritime-safety-authority-amsa-assists-indonesian-and-malaysian-agencies-with-two-distressed-boats.json)  [XML](/news/2009/10/18/the-australian-maritime-safety-authority-amsa-assists-indonesian-and-malaysian-agencies-with-two-distressed-boats.xml)  
+
 ### [2009-10-18](/news/2009/10/18/index.md)
 
+##### Australian Maritime Safety Authority
 #  The Australian Maritime Safety Authority (AMSA) assists Indonesian and Malaysian agencies with two distressed boats. 
 
 Hundreds of people believed to be heading to Australia are reportedly aboard two boats in distress in Indonesian waters, but there is no confirmation at this stage that they are asylum seekers.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/national/two-boats-in-distress-20091018-h2j3.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/h/2/k/e/image.related.thumbnail.320x214.h2j3.png/1255830445457.jpg)

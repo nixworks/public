@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/5/bill-cosby-files-a-counter-lawsuit-against-the-woman-who-accused-him-of-sexual-assault-claiming-she-attempted-to-extort-money-from-him.html)  [JSON](/news/2014/12/5/bill-cosby-files-a-counter-lawsuit-against-the-woman-who-accused-him-of-sexual-assault-claiming-she-attempted-to-extort-money-from-him.json)  [XML](/news/2014/12/5/bill-cosby-files-a-counter-lawsuit-against-the-woman-who-accused-him-of-sexual-assault-claiming-she-attempted-to-extort-money-from-him.xml)  
+
 ### [2014-12-5](/news/2014/12/5/index.md)
 
+##### Bill Cosby
 # Bill Cosby files a counter-lawsuit against the woman who accused him of sexual assault, claiming she attempted to extort money from him. 
 
 Bill Cosby files a legal action against the woman accusing him of sexual assault when she was 15, claiming she attempted to extort money from him.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-30343324)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79529000/jpg/_79529148_79529143.jpg)

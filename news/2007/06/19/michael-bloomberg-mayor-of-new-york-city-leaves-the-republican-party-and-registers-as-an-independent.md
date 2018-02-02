@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2007/06/19/michael-bloomberg-mayor-of-new-york-city-leaves-the-republican-party-and-registers-as-an-independent.html)  [JSON](/news/2007/06/19/michael-bloomberg-mayor-of-new-york-city-leaves-the-republican-party-and-registers-as-an-independent.json)  [XML](/news/2007/06/19/michael-bloomberg-mayor-of-new-york-city-leaves-the-republican-party-and-registers-as-an-independent.xml)  
+
 ### [2007-06-19](/news/2007/06/19/index.md)
 
+##### Michael Bloomberg
 #  Michael Bloomberg, mayor of New York City, leaves the Republican Party and registers as an independent. 
 
 Mayor Michael R. Bloomberg of New York, a former Democrat, is changing his affiliation to independent.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2007/06/19/us/politics/19cnd-mayor.html?ex=1339905600&en=b443cfb06452fc6a&ei=5088&partner=rssnyt&emc=rss)
+1. [New York Times](https://www.nytimes.com/2007/06/19/us/politics/19cnd-mayor.html?ex=1339905600&en=b443cfb06452fc6a&ei=5088&partner=rssnyt&emc=rss)
 1. [Cover Image](https://static01.nyt.com/images/2007/06/19/nyregion/19cnd-bloomberg3_75.jpg)
 
 ### Related:
 
-1. [Former New York City mayor Michael Bloomberg announces he will not run for president in 2016 because of the impact his candidacy might have on the outcome in November. ](/news/2016/03/7/former-new-york-city-mayor-michael-bloomberg-announces-he-will-not-run-for-president-in-2016-because-of-the-impact-his-candidacy-might-have.md) _Context: Mayor, Michael Bloomberg_
-2. [Former New York City mayor Michael Bloomberg is seriously considering a possible independent presidential run if Donald Trump or Texas Senator Ted Cruz face Vermont Senator Bernie Sanders in the general election. ](/news/2016/01/23/former-new-york-city-mayor-michael-bloomberg-is-seriously-considering-a-possible-independent-presidential-run-if-donald-trump-or-texas-senat.md) _Context: Mayor, Michael Bloomberg_
-3. [Michael Bloomberg, the Mayor of New York City, claims that the US Federal Bureau of Investigation briefed him that suspect Dzhokhar Tsarnaev said that the bombers intended to attack New York City next. ](/news/2013/04/25/michael-bloomberg-the-mayor-of-new-york-city-claims-that-the-us-federal-bureau-of-investigation-briefed-him-that-suspect-dzhokhar-tsarnaev.md) _Context: Mayor, Michael Bloomberg_
-4. [A New York state judge invalidates a New York City ban on the sale of soft drinks larger than 16 ounces that was set to take effect on March 12. The office of Mayor Michael Bloomberg indicates it will appeal. ](/news/2013/03/11/a-new-york-state-judge-invalidates-a-new-york-city-ban-on-the-sale-of-soft-drinks-larger-than-16-ounces-that-was-set-to-take-effect-on-march.md) _Context: Mayor, Michael Bloomberg_
-5. [ Michael Bloomberg wins a third term as Mayor of New York City. ](/news/2009/11/4/michael-bloomberg-wins-a-third-term-as-mayor-of-new-york-city.md) _Context: Mayor, Michael Bloomberg_
+1. [A drawing is held to resolve a tied election between Democrat Shelly Simonds and Republican David Yancey, with Yancey being randomly chosen as the winner. ](/news/2018/01/4/a-drawing-is-held-to-resolve-a-tied-election-between-democrat-shelly-simonds-and-republican-david-yancey-with-yancey-being-randomly-chosen.md) _Context: Republican_
+2. [An Amtrak train carrying Republican lawmakers to a retreat in West Virginia collides with a garbage truck in Crozet, Virginia. At least one person dies and one person is seriously injured. The White House states that there are no serious injuries among members of Congress or their staff. ](/news/2018/01/31/an-amtrak-train-carrying-republican-lawmakers-to-a-retreat-in-west-virginia-collides-with-a-garbage-truck-in-crozet-virginia-at-least-one.md) _Context: Republican_
+3. [Two new Democratic senators&mdash;Doug Jones of Alabama and Tina Smith of Minnesota&mdash;are sworn in, bringing the Republican majority down to 51&ndash;49. ](/news/2018/01/3/two-new-democratic-senators-mdash-doug-jones-of-alabama-and-tina-smith-of-minnesota-mdash-are-sworn-in-bringing-the-republican-majority-dow.md) _Context: Republican_
+4. [Voters in Alabama go to the polls to fill the United States Senate seat vacated by current United States Attorney General Jeff Sessions. The race is between Roy Moore (R) and Doug Jones (D). ](/news/2017/12/12/voters-in-alabama-go-to-the-polls-to-fill-the-united-states-senate-seat-vacated-by-current-united-states-attorney-general-jeff-sessions-the.md) _Context: Republican_
+5. [Republican Senator Jeff Flake from Arizona announces that he will not run again in 2018. ](/news/2017/10/24/republican-senator-jeff-flake-from-arizona-announces-that-he-will-not-run-again-in-2018.md) _Context: Republican_

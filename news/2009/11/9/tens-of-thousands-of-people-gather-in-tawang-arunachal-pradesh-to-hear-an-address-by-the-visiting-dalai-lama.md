@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/9/tens-of-thousands-of-people-gather-in-tawang-arunachal-pradesh-to-hear-an-address-by-the-visiting-dalai-lama.html)  [JSON](/news/2009/11/9/tens-of-thousands-of-people-gather-in-tawang-arunachal-pradesh-to-hear-an-address-by-the-visiting-dalai-lama.json)  [XML](/news/2009/11/9/tens-of-thousands-of-people-gather-in-tawang-arunachal-pradesh-to-hear-an-address-by-the-visiting-dalai-lama.xml)  
+
 ### [2009-11-9](/news/2009/11/9/index.md)
 
+##### Tawang
 #  Tens of thousands of people gather in Tawang, Arunachal Pradesh to hear an address by the visiting Dalai Lama. 
 
 Tawang (Arunachal Pradesh): Tibetan spiritual leader the Dalai Lama on Monday called for universal brotherhood and peace among all communities as he...
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8349875.stm)
 2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?main&20091109&56&625419)

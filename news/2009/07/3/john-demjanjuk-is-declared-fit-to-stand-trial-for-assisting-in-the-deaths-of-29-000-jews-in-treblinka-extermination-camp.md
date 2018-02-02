@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/3/john-demjanjuk-is-declared-fit-to-stand-trial-for-assisting-in-the-deaths-of-29-000-jews-in-treblinka-extermination-camp.html)  [JSON](/news/2009/07/3/john-demjanjuk-is-declared-fit-to-stand-trial-for-assisting-in-the-deaths-of-29-000-jews-in-treblinka-extermination-camp.json)  [XML](/news/2009/07/3/john-demjanjuk-is-declared-fit-to-stand-trial-for-assisting-in-the-deaths-of-29-000-jews-in-treblinka-extermination-camp.xml)  
+
 ### [2009-07-3](/news/2009/07/3/index.md)
 
+##### John Demjanjuk
 #  John Demjanjuk is declared fit to stand trial for assisting in the deaths of 29,000 Jews in Treblinka extermination camp. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0703/demjanjukj.html)
 1. [Cover Image](https://img.rasset.ie/000248d5-1600.jpg)

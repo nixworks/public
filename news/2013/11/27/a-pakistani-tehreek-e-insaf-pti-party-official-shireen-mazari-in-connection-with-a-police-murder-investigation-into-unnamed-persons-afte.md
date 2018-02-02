@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/27/a-pakistani-tehreek-e-insaf-pti-party-official-shireen-mazari-in-connection-with-a-police-murder-investigation-into-unnamed-persons-afte.html)  [JSON](/news/2013/11/27/a-pakistani-tehreek-e-insaf-pti-party-official-shireen-mazari-in-connection-with-a-police-murder-investigation-into-unnamed-persons-afte.json)  [XML](/news/2013/11/27/a-pakistani-tehreek-e-insaf-pti-party-official-shireen-mazari-in-connection-with-a-police-murder-investigation-into-unnamed-persons-afte.xml)  
+
 ### [2013-11-27](/news/2013/11/27/index.md)
 
+##### Tehreek-e-Insaf
 # A Pakistani Tehreek-e-Insaf (PTI) party official, Shireen Mazari, in connection with a police murder investigation into unnamed persons after a recent drone strike that killed five, reportedly outs the names of two CIA officials, Director John Brennan and the Pakistan Station Chief (U.S. and CIA officials have not yet given official confirmation). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/11/27/world/asia/pakistan-cia-officials/index.html?hpt=hp_t2)
 

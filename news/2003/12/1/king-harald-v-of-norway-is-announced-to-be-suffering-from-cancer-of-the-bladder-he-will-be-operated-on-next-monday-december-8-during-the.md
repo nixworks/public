@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/1/king-harald-v-of-norway-is-announced-to-be-suffering-from-cancer-of-the-bladder-he-will-be-operated-on-next-monday-december-8-during-the.html)  [JSON](/news/2003/12/1/king-harald-v-of-norway-is-announced-to-be-suffering-from-cancer-of-the-bladder-he-will-be-operated-on-next-monday-december-8-during-the.json)  [XML](/news/2003/12/1/king-harald-v-of-norway-is-announced-to-be-suffering-from-cancer-of-the-bladder-he-will-be-operated-on-next-monday-december-8-during-the.xml)  
+
 ### [2003-12-1](/news/2003/12/1/index.md)
 
+##### King
 #  King Harald V of Norway is announced to be suffering from cancer of the bladder; he will be operated on next Monday, December 8. During the King's illness and two to three month convalescence, Crown Prince Haakon will be acting regent. [http:--www.aftenposten.no-english-local-article.jhtml?articleID=682035]
 
 

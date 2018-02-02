@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/12/the-u-s-patent-and-trademark-office-announces-the-ten-top-united-states-patent-recipients-for-the-11th-year-in-a-row-ibm-tops-the-list.html)  [JSON](/news/2004/01/12/the-u-s-patent-and-trademark-office-announces-the-ten-top-united-states-patent-recipients-for-the-11th-year-in-a-row-ibm-tops-the-list.json)  [XML](/news/2004/01/12/the-u-s-patent-and-trademark-office-announces-the-ten-top-united-states-patent-recipients-for-the-11th-year-in-a-row-ibm-tops-the-list.xml)  
+
 ### [2004-01-12](/news/2004/01/12/index.md)
 
+##### United States Patent and Trademark Office
 #  The U.S. Patent and Trademark Office announces the ten top United States patent recipients. For the 11th year in a row, IBM tops the list; the next three in the list are headquartered in Japan. Companies from the Netherlands (Philips) and Korea (Samsung) also make appearances.
 
 

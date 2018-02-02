@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/7/the-archdiocese-of-portland-oregon-u-s-files-for-bankruptcy-claiming-payouts-for-roman-catholic-sex-abuse-cases-have-exhausted-all-of.html)  [JSON](/news/2004/07/7/the-archdiocese-of-portland-oregon-u-s-files-for-bankruptcy-claiming-payouts-for-roman-catholic-sex-abuse-cases-have-exhausted-all-of.json)  [XML](/news/2004/07/7/the-archdiocese-of-portland-oregon-u-s-files-for-bankruptcy-claiming-payouts-for-roman-catholic-sex-abuse-cases-have-exhausted-all-of.xml)  
+
 ### [2004-07-7](/news/2004/07/7/index.md)
 
+##### archdiocese
 #  The archdiocese of Portland, Oregon, U.S., files for bankruptcy, claiming payouts for Roman Catholic sex abuse cases have exhausted all of its funds. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/usa/story/0,12271,1255966,00.html)
 

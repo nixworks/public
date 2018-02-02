@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/30/eight-men-are-arrested-after-a-series-of-raids-in-the-uk-under-the-terrorism-act-2000-half-a-ton-of-ammonium-nitrate-fertiliser-was-found.html)  [JSON](/news/2004/03/30/eight-men-are-arrested-after-a-series-of-raids-in-the-uk-under-the-terrorism-act-2000-half-a-ton-of-ammonium-nitrate-fertiliser-was-found.json)  [XML](/news/2004/03/30/eight-men-are-arrested-after-a-series-of-raids-in-the-uk-under-the-terrorism-act-2000-half-a-ton-of-ammonium-nitrate-fertiliser-was-found.xml)  
+
 ### [2004-03-30](/news/2004/03/30/index.md)
 
+##### Terrorism Act
 #  Eight men are arrested after a series of raids in the UK under the Terrorism Act 2000. Half a ton of ammonium nitrate fertiliser was found during the raids. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/terrorism/story/0,12780,1181017,00.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/27/bilawal-bhutto-zardari-the-son-of-pakistan-s-murdered-ex-prime-minister-benazir-bhutto-promises-to-fight-militancy-and-maintain-democracy.html)  [JSON](/news/2012/12/27/bilawal-bhutto-zardari-the-son-of-pakistan-s-murdered-ex-prime-minister-benazir-bhutto-promises-to-fight-militancy-and-maintain-democracy.json)  [XML](/news/2012/12/27/bilawal-bhutto-zardari-the-son-of-pakistan-s-murdered-ex-prime-minister-benazir-bhutto-promises-to-fight-militancy-and-maintain-democracy.xml)  
+
 ### [2012-12-27](/news/2012/12/27/index.md)
 
+##### Bilawal Bhutto Zardari
 # Bilawal Bhutto Zardari, the son of Pakistan's murdered ex-Prime Minister Benazir Bhutto, promises to fight militancy and maintain democracy, in his first major political speech marking five years since his mother's death. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20849444)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64981000/jpg/_64981722_016811310-1.jpg)

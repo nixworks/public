@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2015/11/20/usplabs-and-s-k-laboratory-are-indicted-following-a-u-s-department-of-justice-investigation-finds-synthetic-ingredients-manufactured-in-ch.html)  [JSON](/news/2015/11/20/usplabs-and-s-k-laboratory-are-indicted-following-a-u-s-department-of-justice-investigation-finds-synthetic-ingredients-manufactured-in-ch.json)  [XML](/news/2015/11/20/usplabs-and-s-k-laboratory-are-indicted-following-a-u-s-department-of-justice-investigation-finds-synthetic-ingredients-manufactured-in-ch.xml)  
+
 ### [2015-11-20](/news/2015/11/20/index.md)
 
+##### U.S. Justice Department
 # USPlabs and S.K. Laboratory are indicted following a U.S. Department of Justice investigation finds synthetic ingredients manufactured in China were added to workout boosters and weight-loss products the firms claimed to be natural. Supplements from these companies were previously implicated in consumer illnesses and death. Several other defendants from the companies face additional charges. 
 
 The makers of dietary supplements Jack3d and OxyElite Pro face criminal charges following a Justice Department investigation that alleges key ingredients in thwere made in a Chinese laboratory rather than extracted from natural ingredients as claimed
 
 
-### Source:
+### Sources:
 
 1. [Military Times](http://www.militarytimes.com/story/military/2015/11/19/jack3d-oxyelite-pro-manufacturers-face-criminal-charges/76043058/)
 1. [Cover Image](http://snagfilms-a.akamaihd.net/0d/0a/3483a6404b549c629cbbac15aff7/635835329039217141-ap-696409531731jpg)
 
 ### Related:
 
-1. [Democratic Governor of Virginia Terry McAuliffe is being investigated by federal prosecutors over campaign contributions, including a foreign contribution from a Chinese businessman, and what they consider to be "suspicious personal finances", as part of a public integrity probe that has lasted for more than a year, according to officials. The United States Department of Justice would not confirm or deny the investigation. ](/news/2016/05/23/democratic-governor-of-virginia-terry-mcauliffe-is-being-investigated-by-federal-prosecutors-over-campaign-contributions-including-a-foreig.md) _Context: China, Department of Justice_
-2. [An Indian Air Force Mi-17 helicopter ferrying military officials crashes in Tawang, Arunachal Pradesh, a remote mountain region near the border with China, killing all seven personnel on board. ](/news/2017/10/6/an-indian-air-force-mi-17-helicopter-ferrying-military-officials-crashes-in-tawang-arunachal-pradesh-a-remote-mountain-region-near-the-bor.md) _Context: China_
-3. [The Trump administration, through the Department of Justice, reverses an Obama-era policy which used Title VII of the Civil Rights Act to protect transgender employees from discrimination. ](/news/2017/10/5/the-trump-administration-through-the-department-of-justice-reverses-an-obama-era-policy-which-used-title-vii-of-the-civil-rights-act-to-pr.md) _Context: Department of Justice_
-4. [The U.S. Justice Department announces Roman Seleznev, the son of Russian parliament member Valery Seleznev, pleaded guilty in a $50 million identity theft probe. This past April, Roman Seleznev was sentenced to 27 years in prison on 38 counts of hacking crimes. ](/news/2017/09/8/the-u-s-justice-department-announces-roman-seleznev-the-son-of-russian-parliament-member-valery-seleznev-pleaded-guilty-in-a-50-million.md) _Context: Department of Justice_
-5. [China limits petroleum exports and bans imports of textiles from North Korea as part of new sanctions following the latest nuclear test. ](/news/2017/09/23/china-limits-petroleum-exports-and-bans-imports-of-textiles-from-north-korea-as-part-of-new-sanctions-following-the-latest-nuclear-test.md) _Context: China_
+1. [Democratic Governor of Virginia Terry McAuliffe is being investigated by federal prosecutors over campaign contributions, including a foreign contribution from a Chinese businessman, and what they consider to be "suspicious personal finances", as part of a public integrity probe that has lasted for more than a year, according to officials. The United States Department of Justice would not confirm or deny the investigation. ](/news/2016/05/23/democratic-governor-of-virginia-terry-mcauliffe-is-being-investigated-by-federal-prosecutors-over-campaign-contributions-including-a-foreig.md) _Context: Chinese, U.S. Justice Department_
+2. [Sanchi is still ablaze this morning and it continues to leak oil. Chinese officials mention the danger of explosion and sinking. ](/news/2018/01/8/sanchi-is-still-ablaze-this-morning-and-it-continues-to-leak-oil-chinese-officials-mention-the-danger-of-explosion-and-sinking.md) _Context: Chinese_
+3. [Thirty-two sailors are missing after Iranian oil tanker Sanchi and Chinese freighter "CF-Crystal" collide off the east coast of China. The collision ignites the oil tanker, which carried a 136,000-tonne load. ](/news/2018/01/6/thirty-two-sailors-are-missing-after-iranian-oil-tanker-sanchi-and-chinese-freighter-cf-crystal-collide-off-the-east-coast-of-china-the-c.md) _Context: Chinese_
+4. [Chinese scientists announce they have successfully cloned crab-eating macaques using somatic cell nuclear transfer (SCNT), making them the first primates to be cloned. The monkeys were named Zhong Zhong and Hua Hua. ](/news/2018/01/24/chinese-scientists-announce-they-have-successfully-cloned-crab-eating-macaques-using-somatic-cell-nuclear-transfer-scnt-making-them-the-f.md) _Context: Chinese_
+5. [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md) _Context: Chinese_

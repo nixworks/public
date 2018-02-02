@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/07/27/u-s-heat-wave-of-2006-a-heat-wave-in-california-causes-at-least-90-deaths-kovr-tv-cbs-13.html)  [JSON](/news/2006/07/27/u-s-heat-wave-of-2006-a-heat-wave-in-california-causes-at-least-90-deaths-kovr-tv-cbs-13.json)  [XML](/news/2006/07/27/u-s-heat-wave-of-2006-a-heat-wave-in-california-causes-at-least-90-deaths-kovr-tv-cbs-13.xml)  
+
 ### [2006-07-27](/news/2006/07/27/index.md)
 
+##### heat wave
 #  U.S. Heat Wave of 2006: A heat wave in California causes at least 90 deaths. (KOVR-TV - CBS 13)
 
 
@@ -9,6 +13,6 @@
 
 1. [A heat wave strikes the Western U.S. states of Arizona, California, and Nevada. It is predicted to last until June 23. ](/news/2017/06/20/a-heat-wave-strikes-the-western-u-s-states-of-arizona-california-and-nevada-it-is-predicted-to-last-until-june-23.md) _Context: California, heat wave_
 2. [ Coroners in the U.S. state of California estimate the death toll from the current heat wave at at least 123.](/news/2006/07/28/coroners-in-the-u-s-state-of-california-estimate-the-death-toll-from-the-current-heat-wave-at-at-least-123.md) _Context: California, heat wave_
-3. [More than a dozen wildfires around Mendocino, Napa, Sonoma, and Yuba counties in California, kill at least ten people, destroy at least 1500 homes and businesses, and force 20 thousand people to evacuate. The Governor of California, Jerry Brown, declares a state of emergency. ](/news/2017/10/9/more-than-a-dozen-wildfires-around-mendocino-napa-sonoma-and-yuba-counties-in-california-kill-at-least-ten-people-destroy-at-least-1500.md) _Context: California_
-4. [Governor Jerry Brown signs legislation to make California a sanctuary state. Next January, this law will prevent police from inquiring about immigration status during routine interactions, and will reduce law enforcement cooperation with U.S. immigration officers. ](/news/2017/10/5/governor-jerry-brown-signs-legislation-to-make-california-a-sanctuary-state-next-january-this-law-will-prevent-police-from-inquiring-about.md) _Context: California_
-5. [Among the property damage from the wildfires in California is the Santa Rosa home of "Peanuts" creator Charles M. Schulz; his widow was evacuated Monday. "Peanuts" featured the characters Snoopy and Charlie Brown. ](/news/2017/10/13/among-the-property-damage-from-the-wildfires-in-california-is-the-santa-rosa-home-of-peanuts-creator-charles-m-schulz-his-widow-was-evac.md) _Context: California_
+3. [Two 15-year-old students are shot and three others injured at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-shot-and-three-others-injured-at-sal-castro-middle-school-in-los-angeles-california-a-12-year-old-female-stud.md) _Context: California_
+4. [The cost of the Oroville Dam spill rises to US$870 million. The U.S. state of California continues to hope for federal aid for the project. ](/news/2018/01/26/the-cost-of-the-oroville-dam-spill-rises-to-us-870-million-the-u-s-state-of-california-continues-to-hope-for-federal-aid-for-the-project.md) _Context: California_
+5. [The Indian Space Research Organisation successfully launches India's 100th satellite and 30 other satellites from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh. [http:--www.thehindubusinessline.com-news-science-isro-launches-its-100th-satellite-into-space-article10027585.ece "(The Hindu)"]A Delta IV launches NROL-47, a classified U.S. military payload, from Vandenberg Air Force Base, California. It is the last single-core Delta IV to launch from Vandenberg. [https:--spaceflightnow.com-2018-01-13-delta-4-rocket-successfully-lofts-clandestine-nro-satellite-into-orbit-"(Spaceflight Now)"]](/news/2018/01/12/the-indian-space-research-organisation-successfully-launches-indiaas-100th-satellite-and-30-other-satellites-from-the-satish-dhawan-space.md) _Context: California_

@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2009/08/3/somali-pirates-release-a-malaysian-tugboat-with-11-indonesian-crew-after-being-held-for-more-than-seven-months.html)  [JSON](/news/2009/08/3/somali-pirates-release-a-malaysian-tugboat-with-11-indonesian-crew-after-being-held-for-more-than-seven-months.json)  [XML](/news/2009/08/3/somali-pirates-release-a-malaysian-tugboat-with-11-indonesian-crew-after-being-held-for-more-than-seven-months.xml)  
+
 ### [2009-08-3](/news/2009/08/3/index.md)
 
+##### Somalia
 #  Somali pirates release a Malaysian tugboat with 11 Indonesian crew after being held for more than seven months. 
 
 Somali pirates freed a German ship seized in April on Monday after receiving a ransom and a Malaysian-owned tug boat has also been released after being held for more than seven months.
 
 
-### Source:
+### Sources:
 
 1. [People's Daily](http://english.people.com.cn/90001/90777/90855/6717305.html)
-2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5721A220090803)
+2. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE5721A220090803)
 3. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/SE%2BAsia/Story/STIStory_411814.html)
-3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20090803&t=2&i=11103766&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-08-03T190710Z_01_BTRE5721FAY00_RTROPTP_0_SOMALIA)
+3. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20090803&t=2&i=11103766&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-08-03T190710Z_01_BTRE5721FAY00_RTROPTP_0_SOMALIA)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/26/jamaican-police-arrest-more-than-500-people-after-an-unsuccessful-attempt-to-arrest-a-suspected-drug-kingpin-in-kingston-the-capital-resul.html)  [JSON](/news/2010/05/26/jamaican-police-arrest-more-than-500-people-after-an-unsuccessful-attempt-to-arrest-a-suspected-drug-kingpin-in-kingston-the-capital-resul.json)  [XML](/news/2010/05/26/jamaican-police-arrest-more-than-500-people-after-an-unsuccessful-attempt-to-arrest-a-suspected-drug-kingpin-in-kingston-the-capital-resul.xml)  
+
 ### [2010-05-26](/news/2010/05/26/index.md)
 
+##### Jamaica
 # Jamaican police arrest more than 500 people after an unsuccessful attempt to arrest a suspected drug kingpin in Kingston, the capital, results in violence that leaves at least 44 people dead. 
 
 The anti-drug offensive in the Jamaican capital claims at least 44 lives as battles between police and gunmen continue.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10164623.stm)
 2. [CNN](http://edition.cnn.com/2010/WORLD/americas/05/26/jamaica/index.html?hpt=T2)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/10/in-mexico-raul-gibb-guerrero-editor-of-la-opinion-newspaper-who-covered-mexican-drug-cartels-is-killed.html)  [JSON](/news/2005/04/10/in-mexico-raul-gibb-guerrero-editor-of-la-opinion-newspaper-who-covered-mexican-drug-cartels-is-killed.json)  [XML](/news/2005/04/10/in-mexico-raul-gibb-guerrero-editor-of-la-opinion-newspaper-who-covered-mexican-drug-cartels-is-killed.xml)  
+
 ### [2005-04-10](/news/2005/04/10/index.md)
 
+##### Mexico
 #  In Mexico, Ral Gibb Guerrero, editor of "La Opinin" newspaper, who covered Mexican drug cartels is killed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Prensa Latina](http://www.plenglish.com/Article.asp?ID=%7BEB88740B-DC2D-47E0-A8AC-D989DA446519%7D&language=EN)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N10393469.htm)

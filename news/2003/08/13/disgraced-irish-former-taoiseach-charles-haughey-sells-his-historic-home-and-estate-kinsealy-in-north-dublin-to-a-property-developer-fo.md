@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/13/disgraced-irish-former-taoiseach-charles-haughey-sells-his-historic-home-and-estate-kinsealy-in-north-dublin-to-a-property-developer-fo.html)  [JSON](/news/2003/08/13/disgraced-irish-former-taoiseach-charles-haughey-sells-his-historic-home-and-estate-kinsealy-in-north-dublin-to-a-property-developer-fo.json)  [XML](/news/2003/08/13/disgraced-irish-former-taoiseach-charles-haughey-sells-his-historic-home-and-estate-kinsealy-in-north-dublin-to-a-property-developer-fo.xml)  
+
 ### [2003-08-13](/news/2003/08/13/index.md)
 
+##### Taoiseach
 #  Disgraced Irish former Taoiseach Charles Haughey sells his historic home and estate, "Kinsealy", in north Dublin to a property developer for 35 million euro. The former taoiseach, whose financial dealings and tax-evasion is the subject of a judicial inquiry and which have largely destroyed his reputation, bought the palatial mansion for GBP120,000 in the 1960s. Haughey, who is suffering from terminal prostate cancer, will not be allowed to remain in the house as a sitting tenant for the rest of his life, a demand of his which scuppered past attempts to sell.
 
 

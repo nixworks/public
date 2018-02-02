@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/30/kenyan-general-election-2007-incumbent-mwai-kibaki-is-declared-the-winner-beating-challenger-raila-odinga-by-231-728-votes-odinga-suppo.html)  [JSON](/news/2007/12/30/kenyan-general-election-2007-incumbent-mwai-kibaki-is-declared-the-winner-beating-challenger-raila-odinga-by-231-728-votes-odinga-suppo.json)  [XML](/news/2007/12/30/kenyan-general-election-2007-incumbent-mwai-kibaki-is-declared-the-winner-beating-challenger-raila-odinga-by-231-728-votes-odinga-suppo.xml)  
+
 ### [2007-12-30](/news/2007/12/30/index.md)
 
+##### 2007 presidential election
 #  Kenyan general election, 2007: Incumbent Mwai Kibaki is declared the winner, beating challenger Raila Odinga by 231,728 votes; Odinga supporters riot in Kibera; EU election observers complain of irregularities; Odinga's Orange Democratic Movement is set for a majority in parliament. 
 
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 
-### Source:
+### Sources:
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/12/30/wkenya230.xml)
 

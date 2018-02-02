@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/13/the-people-s-republic-of-china-rejects-an-offer-by-taiwanese-president-chen-shui-bian-to-begin-a-peace-dialogue-deriding-the-offer-as-mea.html)  [JSON](/news/2004/10/13/the-people-s-republic-of-china-rejects-an-offer-by-taiwanese-president-chen-shui-bian-to-begin-a-peace-dialogue-deriding-the-offer-as-mea.json)  [XML](/news/2004/10/13/the-people-s-republic-of-china-rejects-an-offer-by-taiwanese-president-chen-shui-bian-to-begin-a-peace-dialogue-deriding-the-offer-as-mea.xml)  
+
 ### [2004-10-13](/news/2004/10/13/index.md)
 
+##### President
 #  The People's Republic of China rejects an offer by Taiwanese President Chen Shui-bian to begin a peace dialogue, deriding the offer as "meaningless", and accusing Chen of making "an open and audacious expression of Taiwan independence" by explicitly stating that the "Republic of China is Taiwan and Taiwan is the Republic of China". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA](http://www.voanews.com/article.cfm?objectID=FF571212-3F71-4F02-AF405BAB6DFF3C38&title=China%20Rejects%20Calls%20for%20Peace%20Talks%20with%20Taiwan&catOID=45C9C78B-88AD-11D4-A57200A0CC5EE46C&categoryname=Asia%20Pacific)
 

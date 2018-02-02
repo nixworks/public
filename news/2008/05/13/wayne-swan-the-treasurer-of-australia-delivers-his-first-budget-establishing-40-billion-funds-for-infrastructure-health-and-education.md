@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/13/wayne-swan-the-treasurer-of-australia-delivers-his-first-budget-establishing-40-billion-funds-for-infrastructure-health-and-education.html)  [JSON](/news/2008/05/13/wayne-swan-the-treasurer-of-australia-delivers-his-first-budget-establishing-40-billion-funds-for-infrastructure-health-and-education.json)  [XML](/news/2008/05/13/wayne-swan-the-treasurer-of-australia-delivers-his-first-budget-establishing-40-billion-funds-for-infrastructure-health-and-education.xml)  
+
 ### [2008-05-13](/news/2008/05/13/index.md)
 
+##### Wayne Swan
 #  Wayne Swan, the Treasurer of Australia, delivers his first budget establishing $40 billion funds for infrastructure, health and education. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/story/0,23599,23696535-29277,00.html)
 

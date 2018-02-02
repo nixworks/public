@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2013/02/13/after-a-12-mi-chase-a-man-was-caught-for-shooting-a-woman-and-her-stepfather-near-a-south-carolina-courthouse.html)  [JSON](/news/2013/02/13/after-a-12-mi-chase-a-man-was-caught-for-shooting-a-woman-and-her-stepfather-near-a-south-carolina-courthouse.json)  [XML](/news/2013/02/13/after-a-12-mi-chase-a-man-was-caught-for-shooting-a-woman-and-her-stepfather-near-a-south-carolina-courthouse.xml)  
+
 ### [2013-02-13](/news/2013/02/13/index.md)
 
+##### stepfather
 # After a 12 mi chase, a man was caught for shooting a woman and her stepfather near a South Carolina courthouse. 
 
 A man involved in a paternity dispute opened fire Wednesday in front of a South Carolina courthouse, wounding a woman and her stepfather, then led police on a 12-mile chase before he was caught, a sheriff said.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/us/2013/02/13/2-wounded-in-shooting-outside-south-carolina-courthouse/)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
+
+### Changes:
+
+1. [After a {{convert|12|mi|km|adj=on}} chase, a man was caught for shooting a woman and her stepfather near a South Carolina courthouse. ](/news/2013/02/13/after-a-convert-12-mi-km-adj-on-chase-a-man-was-caught-for-shooting-a-woman-and-her-stepfather-near-a-south-carolina-courthouse.md) _2017-05-01 03:40:30 (First version)_
+2. [After a 12|mi|km|adj=on chase, a man was caught for shooting a woman and her stepfather near a South Carolina courthouse. ](/news/2013/02/13/after-a-12-mi-km-adj-on-chase-a-man-was-caught-for-shooting-a-woman-and-her-stepfather-near-a-south-carolina-courthouse.md) _2017-08-29 03:37:32 (Update)_
+2. [After a 12 mi chase, a man was caught for shooting a woman and her stepfather near a South Carolina courthouse. ](/news/2013/02/13/after-a-12-mi-chase-a-man-was-caught-for-shooting-a-woman-and-her-stepfather-near-a-south-carolina-courthouse.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@ A man involved in a paternity dispute opened fire Wednesday in front of a South 
 3. [Kohlhepp, a man arrested in the American state of South Carolina for keeping a missing woman "chained like a dog", has reportedly confessed to seven murders, including four killed in an unsolved mass shooting at a motorcycle shop in 2003. ](/news/2016/11/5/kohlhepp-a-man-arrested-in-the-american-state-of-south-carolina-for-keeping-a-missing-woman-chained-like-a-dog-has-reportedly-confessed.md) _Context: South Carolina_
 4. [Hurricane Matthew moves towards the United States with hundreds of thousands of people being evacuated from the states of Florida and South Carolina. ](/news/2016/10/6/hurricane-matthew-moves-towards-the-united-states-with-hundreds-of-thousands-of-people-being-evacuated-from-the-states-of-florida-and-south.md) _Context: South Carolina_
 5. [Over 3 million bees die in South Carolina after being exposed to pesticides intended for mosquitoes carrying the Zika virus. ](/news/2016/09/3/over-3-million-bees-die-in-south-carolina-after-being-exposed-to-pesticides-intended-for-mosquitoes-carrying-the-zika-virus.md) _Context: South Carolina_
-
-### Changes:
-
-1. [After a {{convert|12|mi|km|adj=on}} chase, a man was caught for shooting a woman and her stepfather near a South Carolina courthouse. ](/news/2013/02/13/after-a-convert-12-mi-km-adj-on-chase-a-man-was-caught-for-shooting-a-woman-and-her-stepfather-near-a-south-carolina-courthouse.md) _2017-05-01 03:40:30 (First version)_
-2. [After a 12|mi|km|adj=on chase, a man was caught for shooting a woman and her stepfather near a South Carolina courthouse. ](/news/2013/02/13/after-a-12-mi-km-adj-on-chase-a-man-was-caught-for-shooting-a-woman-and-her-stepfather-near-a-south-carolina-courthouse.md) _2017-08-29 03:37:32 (Update)_
-2. [After a 12 mi chase, a man was caught for shooting a woman and her stepfather near a South Carolina courthouse. ](/news/2013/02/13/after-a-12-mi-chase-a-man-was-caught-for-shooting-a-woman-and-her-stepfather-near-a-south-carolina-courthouse.md) _(Current version)_

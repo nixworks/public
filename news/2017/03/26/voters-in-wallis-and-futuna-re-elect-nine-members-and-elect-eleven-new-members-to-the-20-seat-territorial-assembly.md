@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/26/voters-in-wallis-and-futuna-re-elect-nine-membe
 
 ### [2017-03-26](/news/2017/03/26/index.md)
 
+##### Wallis and Futuna
 # Voters in Wallis and Futuna re-elect nine members and elect eleven new members to the 20-seat Territorial Assembly. 
 
 Voters in Wallis and Futuna have gone to the polls in a territorial election to choose a new 20-member assembly for a five-year term.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/7/hundreds-of-delegates-meet-in-doha-qatar-to-raise-funds-to-rebuild-the-sudanese-region-of-darfur-that-has-been-racked-by-conflict.html)  [JSON](/news/2013/04/7/hundreds-of-delegates-meet-in-doha-qatar-to-raise-funds-to-rebuild-the-sudanese-region-of-darfur-that-has-been-racked-by-conflict.json)  [XML](/news/2013/04/7/hundreds-of-delegates-meet-in-doha-qatar-to-raise-funds-to-rebuild-the-sudanese-region-of-darfur-that-has-been-racked-by-conflict.xml)  
+
 ### [2013-04-7](/news/2013/04/7/index.md)
 
+##### Doha
 # Hundreds of delegates meet in Doha, Qatar, to raise funds to rebuild the Sudanese region of Darfur, that has been racked by conflict. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/video/africa/2013/04/20134732514850321.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/4/7/2013473346609734_20.jpg)

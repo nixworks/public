@@ -1,14 +1,25 @@
+
+Formats: [HTML](/news/2008/08/17/tropical-storm-fay-kills-at-least-4-people-in-haiti-and-the-dominican-republic-before-heading-for-the-florida-keys-where-tourists-are-being.html)  [JSON](/news/2008/08/17/tropical-storm-fay-kills-at-least-4-people-in-haiti-and-the-dominican-republic-before-heading-for-the-florida-keys-where-tourists-are-being.json)  [XML](/news/2008/08/17/tropical-storm-fay-kills-at-least-4-people-in-haiti-and-the-dominican-republic-before-heading-for-the-florida-keys-where-tourists-are-being.xml)  
+
 ### [2008-08-17](/news/2008/08/17/index.md)
 
+##### Tropical Storm Fay
 #  Tropical Storm Fay kills at least 4 people in Haiti and the Dominican Republic before heading for the Florida Keys where tourists are being evacuated. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/7564611.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601086&sid=auhiZlwC0Oz0&refer=latin_america)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601086&sid=auhiZlwC0Oz0&refer=latin_america)
+
+### Changes:
+
+1. [ 2008 Atlantic hurricane season: Tropical Storm Fay kills at least 4 people in Haiti and the Dominican Republic before heading for the Florida Keys where tourists are being evacuated. ](/news/2008/08/17/2008-atlantic-hurricane-season-p-tropical-storm-fay-kills-at-least-4-people-in-haiti-and-the-dominican-republic-before-heading-for-the-flo.md) _2017-05-25 03:23:17 (First version)_
+2. [ 2008 Atlantic hurricane season: Tropical Storm Fay kills at least 4 people in Haiti and the Dominican Republic before heading for the Florida Keys where tourists are being evacuated. ](/news/2008/08/17/2008-atlantic-hurricane-season-p-tropical-storm-fay-kills-at-least-4-people-in-haiti-and-the-dominican-republic-before-heading-for-the-flor.md) _2017-08-25 03:22:43 (Update)_
+3. [ 2008 Atlantic hurricane season:: Tropical Storm Fay kills at least 4 people in Haiti and the Dominican Republic before heading for the Florida Keys where tourists are being evacuated. ](/news/2008/08/17/2008-atlantic-hurricane-season-tropical-storm-fay-kills-at-least-4-people-in-haiti-and-the-dominican-republic-before-heading-for-the-flor.md) _2017-08-27 03:22:36 (Update)_
+3. [ Tropical Storm Fay kills at least 4 people in Haiti and the Dominican Republic before heading for the Florida Keys where tourists are being evacuated. ](/news/2008/08/17/tropical-storm-fay-kills-at-least-4-people-in-haiti-and-the-dominican-republic-before-heading-for-the-florida-keys-where-tourists-are-being.md) _(Current version)_
 
 ### Related:
 
@@ -17,10 +28,3 @@
 3. [The Prime Minister of Haiti Evans Paul accuses the Dominican Republic of causing a humanitarian crisis by mass deportation of people mainly from Haiti. ](/news/2015/06/25/the-prime-minister-of-haiti-evans-paul-accuses-the-dominican-republic-of-causing-a-humanitarian-crisis-by-mass-deportation-of-people-mainly.md) _Context: Dominican Republic, Haiti_
 4. [Tropical Storm Isaac hits the island of Hispaniola containing Haiti and the Dominican Republic. A hurricane watch threat level is set for Haiti. ](/news/2012/08/24/tropical-storm-isaac-hits-the-island-of-hispaniola-containing-haiti-and-the-dominican-republic-a-hurricane-watch-threat-level-is-set-for-ha.md) _Context: Dominican Republic, Haiti_
 5. [Hurricane Irene reaches Category 2 strength as it hits the island of Hispaniola containing Haiti and the Dominican Republic. ](/news/2011/08/23/hurricane-irene-reaches-category-2-strength-as-it-hits-the-island-of-hispaniola-containing-haiti-and-the-dominican-republic.md) _Context: Dominican Republic, Haiti_
-
-### Changes:
-
-1. [ 2008 Atlantic hurricane season: Tropical Storm Fay kills at least 4 people in Haiti and the Dominican Republic before heading for the Florida Keys where tourists are being evacuated. ](/news/2008/08/17/2008-atlantic-hurricane-season-p-tropical-storm-fay-kills-at-least-4-people-in-haiti-and-the-dominican-republic-before-heading-for-the-flo.md) _2017-05-25 03:23:17 (First version)_
-2. [ 2008 Atlantic hurricane season: Tropical Storm Fay kills at least 4 people in Haiti and the Dominican Republic before heading for the Florida Keys where tourists are being evacuated. ](/news/2008/08/17/2008-atlantic-hurricane-season-p-tropical-storm-fay-kills-at-least-4-people-in-haiti-and-the-dominican-republic-before-heading-for-the-flor.md) _2017-08-25 03:22:43 (Update)_
-3. [ 2008 Atlantic hurricane season:: Tropical Storm Fay kills at least 4 people in Haiti and the Dominican Republic before heading for the Florida Keys where tourists are being evacuated. ](/news/2008/08/17/2008-atlantic-hurricane-season-tropical-storm-fay-kills-at-least-4-people-in-haiti-and-the-dominican-republic-before-heading-for-the-flor.md) _2017-08-27 03:22:36 (Update)_
-3. [ Tropical Storm Fay kills at least 4 people in Haiti and the Dominican Republic before heading for the Florida Keys where tourists are being evacuated. ](/news/2008/08/17/tropical-storm-fay-kills-at-least-4-people-in-haiti-and-the-dominican-republic-before-heading-for-the-florida-keys-where-tourists-are-being.md) _(Current version)_

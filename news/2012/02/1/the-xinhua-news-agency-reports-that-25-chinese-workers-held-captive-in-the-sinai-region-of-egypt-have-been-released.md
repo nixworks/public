@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/1/the-xinhua-news-agency-reports-that-25-chinese-workers-held-captive-in-the-sinai-region-of-egypt-have-been-released.html)  [JSON](/news/2012/02/1/the-xinhua-news-agency-reports-that-25-chinese-workers-held-captive-in-the-sinai-region-of-egypt-have-been-released.json)  [XML](/news/2012/02/1/the-xinhua-news-agency-reports-that-25-chinese-workers-held-captive-in-the-sinai-region-of-egypt-have-been-released.xml)  
+
 ### [2012-02-1](/news/2012/02/1/index.md)
 
+##### Xinhua
 # The Xinhua news agency reports that 25 Chinese workers held captive in the Sinai region of Egypt have been released. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/01/31/world/africa/egypt--chinese-workers/index.html)
 

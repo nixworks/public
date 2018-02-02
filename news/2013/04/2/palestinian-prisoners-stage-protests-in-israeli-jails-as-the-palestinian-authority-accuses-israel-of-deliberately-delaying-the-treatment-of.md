@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/04/2/palestinian-prisoners-stage-protests-in-israeli-jails-as-the-palestinian-authority-accuses-israel-of-deliberately-delaying-the-treatment-of.html)  [JSON](/news/2013/04/2/palestinian-prisoners-stage-protests-in-israeli-jails-as-the-palestinian-authority-accuses-israel-of-deliberately-delaying-the-treatment-of.json)  [XML](/news/2013/04/2/palestinian-prisoners-stage-protests-in-israeli-jails-as-the-palestinian-authority-accuses-israel-of-deliberately-delaying-the-treatment-of.xml)  
+
 ### [2013-04-2](/news/2013/04/2/index.md)
 
+##### Palestinian
 # Palestinian prisoners stage protests in Israeli jails as the Palestinian Authority accuses Israel of deliberately delaying the treatment of Maysara Abu Hamdiya, a prisoner who died of throat cancer. 
 
 The Palestinian Authority accused Israel of deliberately delaying the treatment of the prisoner, a retired general who had throat cancer.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2013/04/03/world/middleeast/palestinian-prisoners-in-israel-protest-after-inmate-dies.html)
+1. [The New York Times](https://www.nytimes.com/2013/04/03/world/middleeast/palestinian-prisoners-in-israel-protest-after-inmate-dies.html)
 1. [Cover Image](https://static01.nyt.com/images/2013/04/03/world/ISRAEL/ISRAEL-videoLarge.jpg)
 
 ### Related:

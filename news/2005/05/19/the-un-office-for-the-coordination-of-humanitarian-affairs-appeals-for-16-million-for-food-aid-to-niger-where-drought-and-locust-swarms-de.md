@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/19/the-un-office-for-the-coordination-of-humanitarian-affairs-appeals-for-16-million-for-food-aid-to-niger-where-drought-and-locust-swarms-de.html)  [JSON](/news/2005/05/19/the-un-office-for-the-coordination-of-humanitarian-affairs-appeals-for-16-million-for-food-aid-to-niger-where-drought-and-locust-swarms-de.json)  [XML](/news/2005/05/19/the-un-office-for-the-coordination-of-humanitarian-affairs-appeals-for-16-million-for-food-aid-to-niger-where-drought-and-locust-swarms-de.xml)  
+
 ### [2005-05-19](/news/2005/05/19/index.md)
 
+##### United Nations
 #  The UN Office for the Coordination of Humanitarian Affairs appeals for $16 million for food aid to Niger where drought and locust swarms destroyed part of the crop last year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica](http://allafrica.com/stories/200505190005.html)
 2. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/HMYT-6CJQJ3?OpenDocument)

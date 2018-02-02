@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/27/2003-tour-de-france-lance-armstrong-wins-his-fifth-consecutive-tour-de-france.html)  [JSON](/news/2003/07/27/2003-tour-de-france-lance-armstrong-wins-his-fifth-consecutive-tour-de-france.json)  [XML](/news/2003/07/27/2003-tour-de-france-lance-armstrong-wins-his-fifth-consecutive-tour-de-france.xml)  
+
 ### [2003-07-27](/news/2003/07/27/index.md)
 
+##### 2003 Tour de France
 #  2003 Tour de France: Lance Armstrong wins his fifth consecutive Tour de France.
 
 

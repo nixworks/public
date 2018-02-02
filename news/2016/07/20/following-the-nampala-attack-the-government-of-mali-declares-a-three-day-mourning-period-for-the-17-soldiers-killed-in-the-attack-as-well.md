@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/20/following-the-nampala-attack-the-government-of-
 
 ### [2016-07-20](/news/2016/07/20/index.md)
 
+##### Northern Mali conflict
 # Following the Nampala attack, the government of Mali declares a three-day mourning period for the 17 soldiers killed in the attack, as well as a state of emergency for three months across the country. 
 
 MALI-VIOLENCE/ (URGENT):Mali declares 3-month state of emergency as Islamist violence surges

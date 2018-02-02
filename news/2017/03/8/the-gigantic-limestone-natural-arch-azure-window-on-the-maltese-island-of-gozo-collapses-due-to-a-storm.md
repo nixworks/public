@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/8/the-gigantic-limestone-natural-arch-azure-window
 
 ### [2017-03-8](/news/2017/03/8/index.md)
 
+##### Azure Window
 # The gigantic limestone natural arch Azure Window on the Maltese island of Gozo collapses due to a storm. 
 
 Updated 2.39pm - Added Environment Minister comments The Azure Window has collapsed and it is not just the top part which has fallen off - even the stacks have gone. Roger Chessell, a Xagħra resident, was at Dwejra when the window collapsed at about 9.40am, having gone to take pictures of the...

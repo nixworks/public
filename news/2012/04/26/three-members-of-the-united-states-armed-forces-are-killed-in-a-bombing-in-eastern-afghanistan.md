@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/26/three-members-of-the-united-states-armed-forces-are-killed-in-a-bombing-in-eastern-afghanistan.html)  [JSON](/news/2012/04/26/three-members-of-the-united-states-armed-forces-are-killed-in-a-bombing-in-eastern-afghanistan.json)  [XML](/news/2012/04/26/three-members-of-the-united-states-armed-forces-are-killed-in-a-bombing-in-eastern-afghanistan.xml)  
+
 ### [2012-04-26](/news/2012/04/26/index.md)
 
+##### United States military personnel
 # Three members of the United States Armed Forces are killed in a bombing in eastern Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5iirNZRFmjS1h_hqn3NHsRGTOdcfA?docId=9dc2fa20b0fa4d80a7eaa8180ecdb7c3)
 

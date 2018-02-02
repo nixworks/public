@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/07/1/a-bank-of-japan-survey-shows-that-business-confidence-has-fallen-markedly-since-the-2011-tahoku-earthquake-and-tsunami.html)  [JSON](/news/2011/07/1/a-bank-of-japan-survey-shows-that-business-confidence-has-fallen-markedly-since-the-2011-tahoku-earthquake-and-tsunami.json)  [XML](/news/2011/07/1/a-bank-of-japan-survey-shows-that-business-confidence-has-fallen-markedly-since-the-2011-tahoku-earthquake-and-tsunami.xml)  
+
 ### [2011-07-1](/news/2011/07/1/index.md)
 
+##### Bank of Japan
 # A Bank of Japan survey shows that business confidence has fallen markedly since the 2011 Tohoku earthquake and tsunami. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/business/economy/japan-central-bank-survey-shows-business-confidence-down-sharply-after-tsunami/2011/06/30/AGP5kksH_story.html)
+1. [Washington Post](https://www.washingtonpost.com/business/economy/japan-central-bank-survey-shows-business-confidence-down-sharply-after-tsunami/2011/06/30/AGP5kksH_story.html)
 
 ### Related:
 

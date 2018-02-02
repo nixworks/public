@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/1/the-towns-of-colman-and-flandreau-in-the-us-state-of-south-dakota-are-hit-by-a-heavy-storm-resulting-in-the-loss-of-power-for-several-days.html)  [JSON](/news/2011/07/1/the-towns-of-colman-and-flandreau-in-the-us-state-of-south-dakota-are-hit-by-a-heavy-storm-resulting-in-the-loss-of-power-for-several-days.json)  [XML](/news/2011/07/1/the-towns-of-colman-and-flandreau-in-the-us-state-of-south-dakota-are-hit-by-a-heavy-storm-resulting-in-the-loss-of-power-for-several-days.xml)  
+
 ### [2011-07-1](/news/2011/07/1/index.md)
 
+##### Colman
 # The towns of Colman and Flandreau in the US state of South Dakota are hit by a heavy storm resulting in the loss of power for several days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Argus Leader](http://www.argusleader.com/article/20110701/ARGUS911/110701049/Argus-911-update-Colman-Flandreau-may-lack-power-days)
 

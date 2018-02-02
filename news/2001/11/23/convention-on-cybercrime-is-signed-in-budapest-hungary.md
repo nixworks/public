@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/11/23/convention-on-cybercrime-is-signed-in-budapest-hungary.html)  [JSON](/news/2001/11/23/convention-on-cybercrime-is-signed-in-budapest-hungary.json)  [XML](/news/2001/11/23/convention-on-cybercrime-is-signed-in-budapest-hungary.xml)  
+
 ### [2001-11-23](/news/2001/11/23/index.md)
 
+##### Convention on Cybercrime
 #  Convention on Cybercrime is signed in Budapest, Hungary.
 
 

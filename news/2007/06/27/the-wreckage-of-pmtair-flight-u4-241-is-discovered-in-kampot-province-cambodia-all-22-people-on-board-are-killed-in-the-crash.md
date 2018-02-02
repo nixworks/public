@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/27/the-wreckage-of-pmtair-flight-u4-241-is-discovered-in-kampot-province-cambodia-all-22-people-on-board-are-killed-in-the-crash.html)  [JSON](/news/2007/06/27/the-wreckage-of-pmtair-flight-u4-241-is-discovered-in-kampot-province-cambodia-all-22-people-on-board-are-killed-in-the-crash.json)  [XML](/news/2007/06/27/the-wreckage-of-pmtair-flight-u4-241-is-discovered-in-kampot-province-cambodia-all-22-people-on-board-are-killed-in-the-crash.xml)  
+
 ### [2007-06-27](/news/2007/06/27/index.md)
 
+##### PMTair Flight U4 241
 #  The wreckage of PMTair Flight U4 241 is discovered in Kampot Province, Cambodia; all 22 people on board are killed in the crash. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6243842.stm)
 

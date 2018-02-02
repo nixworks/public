@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/14/a-magnitude-6-8-earthquake-occurs-off-the-coast-of-japan-causing-a-small-tsunami-that-hits-the-coast-of-aomori-prefecture-on-the-island-of-h.html)  [JSON](/news/2012/03/14/a-magnitude-6-8-earthquake-occurs-off-the-coast-of-japan-causing-a-small-tsunami-that-hits-the-coast-of-aomori-prefecture-on-the-island-of-h.json)  [XML](/news/2012/03/14/a-magnitude-6-8-earthquake-occurs-off-the-coast-of-japan-causing-a-small-tsunami-that-hits-the-coast-of-aomori-prefecture-on-the-island-of-h.xml)  
+
 ### [2012-03-14](/news/2012/03/14/index.md)
 
+##### earthquake
 # A magnitude 6.8 earthquake occurs off the coast of Japan causing a small tsunami that hits the coast of Aomori prefecture on the island of Hokkaido. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/world/magnitude-68-earthquake-strikes-japanese-coast-tsunami-warning-issued/story-e6frfkyi-1226299794617)
 1. [Cover Image](http://cdn.newsapi.com.au/image/v1/d6169ae0f5af5c02ce8b30d7634089b5)

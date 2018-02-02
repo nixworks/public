@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/9/a-man-surrendered-to-police-and-confessed-to-killing-five-and-wounding-one-in-two-separate-attacks-in-south-china-s-hainan-province.html)  [JSON](/news/2010/11/9/a-man-surrendered-to-police-and-confessed-to-killing-five-and-wounding-one-in-two-separate-attacks-in-south-china-s-hainan-province.json)  [XML](/news/2010/11/9/a-man-surrendered-to-police-and-confessed-to-killing-five-and-wounding-one-in-two-separate-attacks-in-south-china-s-hainan-province.xml)  
+
 ### [2010-11-9](/news/2010/11/9/index.md)
 
+##### South China
 # A man surrendered to police and confessed to killing five and wounding one in two separate attacks in South China's Hainan province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/china/2010-11/09/content_11524659.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/1/in-the-australian-national-rugby-league-s-premiership-deciding-game-for-season-2006-the-brisbane-broncos-defeat-the-melbourne-storm-by-15.html)  [JSON](/news/2006/10/1/in-the-australian-national-rugby-league-s-premiership-deciding-game-for-season-2006-the-brisbane-broncos-defeat-the-melbourne-storm-by-15.json)  [XML](/news/2006/10/1/in-the-australian-national-rugby-league-s-premiership-deciding-game-for-season-2006-the-brisbane-broncos-defeat-the-melbourne-storm-by-15.xml)  
+
 ### [2006-10-1](/news/2006/10/1/index.md)
 
+##### National Rugby League
 #  In the Australian National Rugby League's premiership-deciding game for season 2006, the Brisbane Broncos defeat the Melbourne Storm by 15&ndash;8 to win its sixth premiership title. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/rugby_league/international_and_australian/5392958.stm)
 

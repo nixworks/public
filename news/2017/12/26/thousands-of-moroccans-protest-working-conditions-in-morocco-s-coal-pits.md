@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/26/thousands-of-moroccans-protest-working-conditio
 
 ### [2017-12-26](/news/2017/12/26/index.md)
 
+##### Mining industry of Morocco
 # Thousands of Moroccans protest working conditions in Morocco's coal pits. 
 
 They&#x20;call&#x20;them&#x20;&quot;the&#x20;mines&#x20;of&#x20;death&quot;.&#x20;In&#x20;the&#x20;neglected&#x20;northern&#x20;Moroccan&#x20;mining&#x20;city&#x20;of&#x20;Jerada,&#x20;hundreds&#x20;of&#x20;people&#x20;risk&#x20;their&#x20;lives&#x20;every&#x20;day&#x20;to&#x20;scrape&#x20;a&#x20;meagre&#x20;living&#x20;from&#x20;perilous&#x20;abandoned&#x20;coal&#x20;pits.

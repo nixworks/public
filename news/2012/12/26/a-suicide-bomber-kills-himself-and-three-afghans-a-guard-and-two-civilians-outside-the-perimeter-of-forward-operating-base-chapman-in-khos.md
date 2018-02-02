@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2012/12/26/a-suicide-bomber-kills-himself-and-three-afghans-a-guard-and-two-civilians-outside-the-perimeter-of-forward-operating-base-chapman-in-khos.html)  [JSON](/news/2012/12/26/a-suicide-bomber-kills-himself-and-three-afghans-a-guard-and-two-civilians-outside-the-perimeter-of-forward-operating-base-chapman-in-khos.json)  [XML](/news/2012/12/26/a-suicide-bomber-kills-himself-and-three-afghans-a-guard-and-two-civilians-outside-the-perimeter-of-forward-operating-base-chapman-in-khos.xml)  
+
 ### [2012-12-26](/news/2012/12/26/index.md)
 
+##### Afghans
 # A suicide bomber kills himself and three Afghans (a guard and two civilians) outside the perimeter of Forward Operating Base Chapman in Khost, Afghanistan, the scene of an earlier attack in December 2009. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSN](http://news.msn.com/world/bomber-3-afghans-killed-in-suicide-attack-at-us-base)
+
+### Changes:
+
+1. [War in Afghanistan (2001-present):A suicide bomber kills himself and three Afghans (a guard and two civilians) outside the perimeter of Forward Operating Base Chapman in Khost, Afghanistan, the scene of an earlier attack in December 2009. ](/news/2012/12/26/war-in-afghanistan-2001apresent-pa-suicide-bomber-kills-himself-and-three-afghans-a-guard-and-two-civilians-outside-the-perimeter-of-f.md) _2017-08-25 03:37:08 (First version)_
+2. [War in Afghanistan (2001-present):: A suicide bomber kills himself and three Afghans (a guard and two civilians) outside the perimeter of Forward Operating Base Chapman in Khost, Afghanistan, the scene of an earlier attack in December 2009. ](/news/2012/12/26/war-in-afghanistan-2001-present-a-suicide-bomber-kills-himself-and-three-afghans-a-guard-and-two-civilians-outside-the-perimeter-of.md) _2017-08-27 03:37:18 (Update)_
+2. [A suicide bomber kills himself and three Afghans (a guard and two civilians) outside the perimeter of Forward Operating Base Chapman in Khost, Afghanistan, the scene of an earlier attack in December 2009. ](/news/2012/12/26/a-suicide-bomber-kills-himself-and-three-afghans-a-guard-and-two-civilians-outside-the-perimeter-of-forward-operating-base-chapman-in-khos.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [War in Afghanistan: A suicide bombing in the eastern Afghan city of Khost kills three NATO soldiers and 16 Afghan police officers and civilians. ](/news/2012/10/1/war-in-afghanistan-a-suicide-bombing-in-the-eastern-afghan-city-of-khost-kills-three-nato-soldiers-and-16-afghan-police-officers-and-civili.md) _Context: Afghanistan, Khost_
 4. [Gunmen wearing explosive suicide vests storm a government building in Khost, Afghanistan. ](/news/2011/05/22/gunmen-wearing-explosive-suicide-vests-storm-a-government-building-in-khost-afghanistan.md) _Context: Afghanistan, Khost_
 5. [CIA director Leon Panetta reveals Jordanian double agent Humam Khalil Abu-Mulal al-Balawi was not properly vetted before his suicide attack on the CIA's Forward Operating Base Chapman in Afghanistan. ](/news/2010/10/19/cia-director-leon-panetta-reveals-jordanian-double-agent-humam-khalil-abu-mulal-al-balawi-was-not-properly-vetted-before-his-suicide-attack.md) _Context: Afghanistan, Forward Operating Base Chapman_
-
-### Changes:
-
-1. [War in Afghanistan (2001-present):A suicide bomber kills himself and three Afghans (a guard and two civilians) outside the perimeter of Forward Operating Base Chapman in Khost, Afghanistan, the scene of an earlier attack in December 2009. ](/news/2012/12/26/war-in-afghanistan-2001apresent-pa-suicide-bomber-kills-himself-and-three-afghans-a-guard-and-two-civilians-outside-the-perimeter-of-f.md) _2017-08-25 03:37:08 (First version)_
-2. [War in Afghanistan (2001-present):: A suicide bomber kills himself and three Afghans (a guard and two civilians) outside the perimeter of Forward Operating Base Chapman in Khost, Afghanistan, the scene of an earlier attack in December 2009. ](/news/2012/12/26/war-in-afghanistan-2001-present-a-suicide-bomber-kills-himself-and-three-afghans-a-guard-and-two-civilians-outside-the-perimeter-of.md) _2017-08-27 03:37:18 (Update)_
-2. [A suicide bomber kills himself and three Afghans (a guard and two civilians) outside the perimeter of Forward Operating Base Chapman in Khost, Afghanistan, the scene of an earlier attack in December 2009. ](/news/2012/12/26/a-suicide-bomber-kills-himself-and-three-afghans-a-guard-and-two-civilians-outside-the-perimeter-of-forward-operating-base-chapman-in-khos.md) _(Current version)_

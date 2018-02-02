@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/27/using-h-iia-rocket-japan-launches-two-spy-satellites-to-collect-sharp-imagery-for-the-government-s-defence-and-intelligence-agency.html)  [JSON](/news/2013/01/27/using-h-iia-rocket-japan-launches-two-spy-satellites-to-collect-sharp-imagery-for-the-government-s-defence-and-intelligence-agency.json)  [XML](/news/2013/01/27/using-h-iia-rocket-japan-launches-two-spy-satellites-to-collect-sharp-imagery-for-the-government-s-defence-and-intelligence-agency.xml)  
+
 ### [2013-01-27](/news/2013/01/27/index.md)
 
+##### H-IIA
 # Using H-IIA rocket, Japan launches two spy satellites to collect sharp imagery for the government's defence and intelligence agency. 
 
 Japan launched two spy satellites Sunday to collect sharp imagery for the government&#039;s defense and intelligence agencies.
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://europe.chinadaily.com.cn/world/2013-01/27/content_16178572.htm)
 2. [Space.com](http://www.space.com/19503-japan-spy-satellites-launch.html)

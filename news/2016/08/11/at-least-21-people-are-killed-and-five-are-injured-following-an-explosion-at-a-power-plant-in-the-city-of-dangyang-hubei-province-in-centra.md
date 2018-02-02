@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/11/at-least-21-people-are-killed-and-five-are-inju
 
 ### [2016-08-11](/news/2016/08/11/index.md)
 
+##### Dangyang
 # At least 21 people are killed and five are injured following an explosion at a power plant in the city of Dangyang, Hubei province in central China. The blast occurred around 3:20 p.m. local time, when a high-pressure steam pipe exploded, according to China's official Xinhua News Agency. 
 
 An explosion at a power plant in China killed at least 21 people and injured five on Thursday, state media said, the latest deadly industrial accident in a country that struggles with poor safety standards.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/15/ukraine-bans-russian-cargo-trucks-from-transiti
 
 ### [2016-02-15](/news/2016/02/15/index.md)
 
+##### Russia-Ukraine relations
 # Ukraine bans Russian cargo trucks from transiting its territory after Russia's Ministry of Transport barred Ukrainian cargo trucks because armed groups had been blocking some Russian trucks from entering Ukraine. 
 
 Ukraine has banned Russian trucks from crossing its territory in response to a similar move by Moscow, Prime Minister Arseny Yatseniuk said on Monday.

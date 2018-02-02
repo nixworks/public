@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/21/at-t-reportedly-agrees-in-principle-to-buy-time
 
 ### [2016-10-21](/news/2016/10/21/index.md)
 
+##### AT&T
 # AT&T reportedly agrees in principle to buy Time Warner for about $85 billion. 
 
 AT&T Inc (T.N) reached a deal to buy media company Time Warner Inc (TWX.N) for more than $80 billion, The Wall Street Journal reported on Saturday.

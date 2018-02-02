@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/01/18/the-tokyo-stock-exchange-closes-20-minutes-early-due-to-a-flood-of-sell-orders-overwhelming-the-capacity-of-its-trading-system.html)  [JSON](/news/2006/01/18/the-tokyo-stock-exchange-closes-20-minutes-early-due-to-a-flood-of-sell-orders-overwhelming-the-capacity-of-its-trading-system.json)  [XML](/news/2006/01/18/the-tokyo-stock-exchange-closes-20-minutes-early-due-to-a-flood-of-sell-orders-overwhelming-the-capacity-of-its-trading-system.xml)  
+
 ### [2006-01-18](/news/2006/01/18/index.md)
 
+##### Tokyo Stock Exchange
 #  The Tokyo Stock Exchange closes 20 minutes early due to a flood of sell orders overwhelming the capacity of its trading system. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP/Yahoo!News](http://news.yahoo.com/s/ap/20060118/ap_on_bi_ge/japan_markets)
+1. [AP/Yahoo!News](https://news.yahoo.com/s/ap/20060118/ap_on_bi_ge/japan_markets)
 
 ### Related:
 

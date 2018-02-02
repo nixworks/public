@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/28/the-share-price-of-barclays-bank-plunges-by-17-per-cent-after-it-was-hit-with-a-record-fine-for-distorting-key-interest-rates-to-rig-interna.html)  [JSON](/news/2012/06/28/the-share-price-of-barclays-bank-plunges-by-17-per-cent-after-it-was-hit-with-a-record-fine-for-distorting-key-interest-rates-to-rig-interna.json)  [XML](/news/2012/06/28/the-share-price-of-barclays-bank-plunges-by-17-per-cent-after-it-was-hit-with-a-record-fine-for-distorting-key-interest-rates-to-rig-interna.xml)  
+
 ### [2012-06-28](/news/2012/06/28/index.md)
 
+##### Barclays
 # The share price of Barclays bank plunges by 17 per cent after it was hit with a record fine for distorting key interest rates to rig international markets. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/06/201262813481078562.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/28/201262813485953734_20.jpg)

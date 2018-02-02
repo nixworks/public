@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/19/police-in-china-search-for-a-man-who-threw-eggs-and-a-shoe-at-the-creator-of-the-great-firewall-of-china-fang-binxing.html)  [JSON](/news/2011/05/19/police-in-china-search-for-a-man-who-threw-eggs-and-a-shoe-at-the-creator-of-the-great-firewall-of-china-fang-binxing.json)  [XML](/news/2011/05/19/police-in-china-search-for-a-man-who-threw-eggs-and-a-shoe-at-the-creator-of-the-great-firewall-of-china-fang-binxing.xml)  
+
 ### [2011-05-19](/news/2011/05/19/index.md)
 
+##### China
 # Police in China search for a man who threw eggs and a shoe at the creator of the "Great Firewall of China", Fang Binxing. 
 
 The man known as the father of the so-called &#034;Great Firewall of China&#034; was pelted with eggs and shoes by a students protesting against China&#039;s draconian online censorship regime, online reports in China claimed.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13455819)
 2. [Business Insider](http://www.businessinsider.com/fang-binxing-2011-5)

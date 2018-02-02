@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/21/egypt-restricts-opposition-before-vote-with-security-forces-arresting-hundreds-of-opposition-activists-and-clamping-down-on-the-media-ahea.html)  [JSON](/news/2010/11/21/egypt-restricts-opposition-before-vote-with-security-forces-arresting-hundreds-of-opposition-activists-and-clamping-down-on-the-media-ahea.json)  [XML](/news/2010/11/21/egypt-restricts-opposition-before-vote-with-security-forces-arresting-hundreds-of-opposition-activists-and-clamping-down-on-the-media-ahea.xml)  
+
 ### [2010-11-21](/news/2010/11/21/index.md)
 
+##### Egypt
 # Egypt restricts opposition before vote, with security forces arresting hundreds of opposition activists, and clamping down on the media ahead of parliamentary elections next week according to Amnesty International. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gtkZcfkd0-BwGCLH2bI8Spbdq1RQ?docId=74dd26267e7f4f50b4facfb57f9264d5)
 2. [CNN](http://edition.cnn.com/2010/WORLD/africa/11/21/egypt.elections/)

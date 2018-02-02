@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2004/06/8/al-qaeda-members-in-saudi-arabia-threaten-new-attacks-on-western-passenger-airliners.html)  [JSON](/news/2004/06/8/al-qaeda-members-in-saudi-arabia-threaten-new-attacks-on-western-passenger-airliners.json)  [XML](/news/2004/06/8/al-qaeda-members-in-saudi-arabia-threaten-new-attacks-on-western-passenger-airliners.xml)  
+
 ### [2004-06-8](/news/2004/06/8/index.md)
 
+##### al-Qaeda
 #  Al-Qaeda members in Saudi Arabia threaten new attacks on Western passenger airliners. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://reuters.com/newsArticle.jhtml?type=topNews&storyID=5363727)
 
 ### Related:
 
-1. [The Saudi Arabian government designates the Muslim Brotherhood and al-Qaeda among others as terrorist groups and warns that people joining them could face 30 years in prison. ](/news/2014/03/7/the-saudi-arabian-government-designates-the-muslim-brotherhood-and-al-qaeda-among-others-as-terrorist-groups-and-warns-that-people-joining-t.md) _Context: Saudi Arabia, al-Qaeda_
-2. [Syrian officers reports that Syrian Army kills senior Saudi Arabian al-Qaeda commander Abu Malik al-Shahri, who is known as 'Bin Laden of Syria', in outskirt of Latakia. ](/news/2013/08/11/syrian-officers-reports-that-syrian-army-kills-senior-saudi-arabian-al-qaeda-commander-abu-malik-al-shahri-who-is-known-as-bin-laden-of-sy.md) _Context: Saudi Arabia, al-Qaeda_
-3. [Former Al-Qaeda chief Osama bin Laden's wives and children are deported from Pakistan to Saudi Arabia. ](/news/2012/04/27/former-al-qaeda-chief-osama-bin-laden-s-wives-and-children-are-deported-from-pakistan-to-saudi-arabia.md) _Context: Saudi Arabia, al-Qaeda_
-4. [Authorities in Saudi Arabia arrest 149 people with links to al-Qaeda suspected of planning attacks on government officials and journalists. ](/news/2010/11/26/authorities-in-saudi-arabia-arrest-149-people-with-links-to-al-qaeda-suspected-of-planning-attacks-on-government-officials-and-journalists.md) _Context: Saudi Arabia, al-Qaeda_
-5. [French Interior Minister Brice Hortefeux states that Saudi Arabia has warned that Al-Qaeda is targeting Europe particularly France. ](/news/2010/10/17/french-interior-minister-brice-hortefeux-states-that-saudi-arabia-has-warned-that-al-qaeda-is-targeting-europe-particularly-france.md) _Context: Saudi Arabia, al-Qaeda_
+1. [Former Al-Qaeda chief Osama bin Laden's wives and children are deported from Pakistan to Saudi Arabia. ](/news/2012/04/27/former-al-qaeda-chief-osama-bin-laden-s-wives-and-children-are-deported-from-pakistan-to-saudi-arabia.md) _Context: Saudi Arabia, al-Qaeda_
+2. [French Interior Minister Brice Hortefeux states that Saudi Arabia has warned that Al-Qaeda is targeting Europe particularly France. ](/news/2010/10/17/french-interior-minister-brice-hortefeux-states-that-saudi-arabia-has-warned-that-al-qaeda-is-targeting-europe-particularly-france.md) _Context: Saudi Arabia, al-Qaeda_
+3. [More than 100 people with possible links to Al-Qaeda are arrested in Saudi Arabia for allegedly planning attacks on oil and security installations in the country. ](/news/2010/03/24/more-than-100-people-with-possible-links-to-al-qaeda-are-arrested-in-saudi-arabia-for-allegedly-planning-attacks-on-oil-and-security-install.md) _Context: Saudi Arabia, al-Qaeda_
+4. [ In Yanbu, Saudi Arabia, gunmen kill five Westerners and a Saudi security guard in a shooting spree and car chase. ](/news/2004/05/1/in-yanbu-saudi-arabia-gunmen-kill-five-westerners-and-a-saudi-security-guard-in-a-shooting-spree-and-car-chase.md) _Context: Saudi Arabia, Westerners_
+5. [For the first time, Saudi Arabia allows women to spectate at football matches, part of an easing of strict rules on gender separation by the ultra-conservative Muslim country. ](/news/2018/01/12/for-the-first-time-saudi-arabia-allows-women-to-spectate-at-football-matches-part-of-an-easing-of-strict-rules-on-gender-separation-by-the.md) _Context: Saudi Arabia_

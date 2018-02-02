@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/09/26/al-shabaab-militants-attack-two-kenyan-towns-near-the-somali-border.html)  [JSON](/news/2013/09/26/al-shabaab-militants-attack-two-kenyan-towns-near-the-somali-border.json)  [XML](/news/2013/09/26/al-shabaab-militants-attack-two-kenyan-towns-near-the-somali-border.xml)  
+
 ### [2013-09-26](/news/2013/09/26/index.md)
 
+##### Al-Shabaab
 # Al-Shabaab militants attack two Kenyan towns near the Somali border. 
 
-Attacks carried out by group that killed scores of people in Nairobi mall siege.
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/world/2013/09/26/shabab-kenya-nairobi-qaeda/2876993/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/news/world/2013/09/26/shabab-kenya-nairobi-qaeda/2876993/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

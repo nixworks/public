@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/19/australians-commemorate-the-70th-anniversary-of-the-bombing-of-darwin-by-japan-during-world-war-ii.html)  [JSON](/news/2012/02/19/australians-commemorate-the-70th-anniversary-of-the-bombing-of-darwin-by-japan-during-world-war-ii.json)  [XML](/news/2012/02/19/australians-commemorate-the-70th-anniversary-of-the-bombing-of-darwin-by-japan-during-world-war-ii.xml)  
+
 ### [2012-02-19](/news/2012/02/19/index.md)
 
+##### Australian
 # Australians commemorate the 70th anniversary of the Bombing of Darwin by Japan during World War II. 
 
 Prime Minister Julia Gillard has described the bombing of Darwin during World War II as Australia’s Pearl Harbour and says more Australians must learn about the attack.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://m.smh.com.au/national/darwin-bombing-was-our-pearl-harbour-gillard-20120219-1tgr1.html)
 1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)

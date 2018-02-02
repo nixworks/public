@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/2/the-new-york-city-marathon-is-canceled-due-to-the-devastation-wreaked-by-hurricane-sandy.html)  [JSON](/news/2012/11/2/the-new-york-city-marathon-is-canceled-due-to-the-devastation-wreaked-by-hurricane-sandy.json)  [XML](/news/2012/11/2/the-new-york-city-marathon-is-canceled-due-to-the-devastation-wreaked-by-hurricane-sandy.xml)  
+
 ### [2012-11-2](/news/2012/11/2/index.md)
 
+##### New York City Marathon
 # The New York City Marathon is canceled due to the devastation wreaked by Hurricane Sandy. 
 
 The New York City Marathon, one of the premier US distance-running events, will not take place as planned on Sunday, a New York city official said.
 
 
-### Source:
+### Sources:
 
 1. [RTE](http://www.rte.ie/sport/athletics/2012/1102/344114-new-york-city-marathon-is-cancelled/)
 1. [Cover Image](https://img.rasset.ie/000698e7-1600.jpg)

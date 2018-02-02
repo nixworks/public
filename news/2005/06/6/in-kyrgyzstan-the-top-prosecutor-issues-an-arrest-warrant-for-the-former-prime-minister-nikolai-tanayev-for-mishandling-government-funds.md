@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/6/in-kyrgyzstan-the-top-prosecutor-issues-an-arrest-warrant-for-the-former-prime-minister-nikolai-tanayev-for-mishandling-government-funds.html)  [JSON](/news/2005/06/6/in-kyrgyzstan-the-top-prosecutor-issues-an-arrest-warrant-for-the-former-prime-minister-nikolai-tanayev-for-mishandling-government-funds.json)  [XML](/news/2005/06/6/in-kyrgyzstan-the-top-prosecutor-issues-an-arrest-warrant-for-the-former-prime-minister-nikolai-tanayev-for-mishandling-government-funds.xml)  
+
 ### [2005-06-6](/news/2005/06/6/index.md)
 
+##### Kyrgyzstan
 #  In Kyrgyzstan, the top prosecutor issues an arrest warrant for the former prime minister Nikolai Tanayev for mishandling government funds 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4615433.stm)
 2. [Guardian Unlimited](http://www.guardian.co.uk/worldlatest/story/0,1280,-5056725,00.html)

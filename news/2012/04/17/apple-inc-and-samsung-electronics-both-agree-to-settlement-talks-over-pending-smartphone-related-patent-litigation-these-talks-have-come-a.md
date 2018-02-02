@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/04/17/apple-inc-and-samsung-electronics-both-agree-to-settlement-talks-over-pending-smartphone-related-patent-litigation-these-talks-have-come-a.html)  [JSON](/news/2012/04/17/apple-inc-and-samsung-electronics-both-agree-to-settlement-talks-over-pending-smartphone-related-patent-litigation-these-talks-have-come-a.json)  [XML](/news/2012/04/17/apple-inc-and-samsung-electronics-both-agree-to-settlement-talks-over-pending-smartphone-related-patent-litigation-these-talks-have-come-a.xml)  
+
 ### [2012-04-17](/news/2012/04/17/index.md)
 
+##### Apple Inc.
 # Apple Inc. and Samsung Electronics both agree to settlement talks over pending smartphone related patent litigation. These talks have come about at the urging of U.S. District Court Judge Lucy Koh. 
 
 Apple Inc and Samsung Electronics Co Ltd agreed that their chief executives would participate in settlement talks to try to resolve a patent lawsuit over smartphone and tablet technology, according to a court filing.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/04/17/us-apple-samsung-lawsuit-idUSBRE83G19W20120417)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120417&t=2&i=595916092&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE83G1GVO00)
+1. [Reuters](https://www.reuters.com/article/2012/04/17/us-apple-samsung-lawsuit-idUSBRE83G19W20120417)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120417&t=2&i=595916092&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE83G1GVO00)
 
 ### Related:
 

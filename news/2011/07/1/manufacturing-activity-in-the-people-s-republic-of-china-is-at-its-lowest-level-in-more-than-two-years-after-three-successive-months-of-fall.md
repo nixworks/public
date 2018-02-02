@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/1/manufacturing-activity-in-the-people-s-republic-of-china-is-at-its-lowest-level-in-more-than-two-years-after-three-successive-months-of-fall.html)  [JSON](/news/2011/07/1/manufacturing-activity-in-the-people-s-republic-of-china-is-at-its-lowest-level-in-more-than-two-years-after-three-successive-months-of-fall.json)  [XML](/news/2011/07/1/manufacturing-activity-in-the-people-s-republic-of-china-is-at-its-lowest-level-in-more-than-two-years-after-three-successive-months-of-fall.xml)  
+
 ### [2011-07-1](/news/2011/07/1/index.md)
 
+##### China
 # Manufacturing activity in the People's Republic of China is at its lowest level in more than two years after three successive months of falls indicating a continued slowdown. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Financial Times](http://www.ft.com/home/asia)
 2. [Wall Street Journal](http://online.wsj.com/article/SB10001424052702304450604576418570501579448.html?mod=googlenews_wsj)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/26/pakistan-s-supreme-court-will-allow-former-prime-minister-nawaz-sharif-to-stand-for-election.html)  [JSON](/news/2009/05/26/pakistan-s-supreme-court-will-allow-former-prime-minister-nawaz-sharif-to-stand-for-election.json)  [XML](/news/2009/05/26/pakistan-s-supreme-court-will-allow-former-prime-minister-nawaz-sharif-to-stand-for-election.xml)  
+
 ### [2009-05-26](/news/2009/05/26/index.md)
 
+##### Pakistan
 #  Pakistan's Supreme Court will allow former Prime Minister Nawaz Sharif to stand for election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8068082.stm)
 

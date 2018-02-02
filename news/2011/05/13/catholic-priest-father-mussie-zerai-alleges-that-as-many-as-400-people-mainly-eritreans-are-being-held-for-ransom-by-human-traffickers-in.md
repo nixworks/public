@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/13/catholic-priest-father-mussie-zerai-alleges-that-as-many-as-400-people-mainly-eritreans-are-being-held-for-ransom-by-human-traffickers-in.html)  [JSON](/news/2011/05/13/catholic-priest-father-mussie-zerai-alleges-that-as-many-as-400-people-mainly-eritreans-are-being-held-for-ransom-by-human-traffickers-in.json)  [XML](/news/2011/05/13/catholic-priest-father-mussie-zerai-alleges-that-as-many-as-400-people-mainly-eritreans-are-being-held-for-ransom-by-human-traffickers-in.xml)  
+
 ### [2011-05-13](/news/2011/05/13/index.md)
 
+##### Eritrea
 # Catholic priest Father Mussie Zerai alleges that as many as 400 people, mainly Eritreans, are being held for ransom by human traffickers in the Sinai Desert, and that at least one has been killed after experiencing electric shock torture. 
 
 Hundreds of Eritrean migrants are being held hostage in brutal conditions in the Sinai Desert, the head of a Catholic charity says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13388039)
 2. [UPI](http://www.upi.com/Top_News/World-News/2011/05/13/Priest-Eritrean-migrants-being-tortured/UPI-94941305293696/)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/22/greater-manchester-police-gmp-report-deadly-exp
 
 ### [2017-05-22](/news/2017/05/22/index.md)
 
+##### 2017 Manchester Arena bombing
 # Greater Manchester Police (GMP) report deadly explosions at Manchester Arena in Manchester, England, at the end of Ariana Grande's performance on her Dangerous Woman Tour. 
 
 The explosion happened at the end of a pop concert by the US singer Ariana Grande.

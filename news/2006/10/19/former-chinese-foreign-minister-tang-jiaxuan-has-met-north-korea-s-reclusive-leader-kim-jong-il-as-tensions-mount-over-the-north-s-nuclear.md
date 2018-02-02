@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2006/10/19/former-chinese-foreign-minister-tang-jiaxuan-has-met-north-korea-s-reclusive-leader-kim-jong-il-as-tensions-mount-over-the-north-s-nuclear.html)  [JSON](/news/2006/10/19/former-chinese-foreign-minister-tang-jiaxuan-has-met-north-korea-s-reclusive-leader-kim-jong-il-as-tensions-mount-over-the-north-s-nuclear.json)  [XML](/news/2006/10/19/former-chinese-foreign-minister-tang-jiaxuan-has-met-north-korea-s-reclusive-leader-kim-jong-il-as-tensions-mount-over-the-north-s-nuclear.xml)  
+
 ### [2006-10-19](/news/2006/10/19/index.md)
 
+##### Tang Jiaxuan
 #  former Chinese Foreign Minister Tang Jiaxuan has met North Korea's reclusive leader Kim Jong-il as tensions mount over the North's nuclear test, according to Chinese officials. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6065168.stm)
 2. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/10/19/nkorea.sanctions/index.html)
+
+### Changes:
+
+1. [ 2006 North Korean nuclear testing: former Chinese Foreign Minister Tang Jiaxuan has met North Korea's reclusive leader Kim Jong-il as tensions mount over the North's nuclear test, according to Chinese officials. ](/news/2006/10/19/2006-north-korean-nuclear-testing-p-former-chinese-foreign-minister-tang-jiaxuan-has-met-north-korea-s-reclusive-leader-kim-jong-il-as-tens.md) _2017-08-25 03:18:36 (First version)_
+2. [ 2006 North Korean nuclear testing:: former Chinese Foreign Minister Tang Jiaxuan has met North Korea's reclusive leader Kim Jong-il as tensions mount over the North's nuclear test, according to Chinese officials. ](/news/2006/10/19/2006-north-korean-nuclear-testing-former-chinese-foreign-minister-tang-jiaxuan-has-met-north-korea-s-reclusive-leader-kim-jong-il-as-tens.md) _2017-08-27 03:18:30 (Update)_
+2. [ former Chinese Foreign Minister Tang Jiaxuan has met North Korea's reclusive leader Kim Jong-il as tensions mount over the North's nuclear test, according to Chinese officials. ](/news/2006/10/19/former-chinese-foreign-minister-tang-jiaxuan-has-met-north-korea-s-reclusive-leader-kim-jong-il-as-tensions-mount-over-the-north-s-nuclear.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@
 3. [North Korea may be preparing for an imminent thermonuclear weapon test at its Punggye-ri Nuclear Test Site, located in the country's North Hamgyong Province where previous tests took place in 2006, 2009 and 2013, according to a South Korean military report. ](/news/2016/01/3/north-korea-may-be-preparing-for-an-imminent-thermonuclear-weapon-test-at-its-punggye-ri-nuclear-test-site-located-in-the-country-s-north-h.md) _Context: 2006_
 4. [Paramount Pictures orders theater chains, including those in Cleveland, Atlanta, and New Orleans, not to re-release the 2004 film "Team America: World Police", which depicts a fictional mission to kill Kim Jong-il. ](/news/2014/12/19/paramount-pictures-orders-theater-chains-including-those-in-cleveland-atlanta-and-new-orleans-not-to-re-release-the-2004-film-team-amer.md) _Context: Kim Jong-il_
 5. [North Korea commemorates the one-year anniversary of the death of former Leader Kim Jong-il. ](/news/2012/12/17/north-korea-commemorates-the-one-year-anniversary-of-the-death-of-former-leader-kim-jong-il.md) _Context: Kim Jong-il_
-
-### Changes:
-
-1. [ 2006 North Korean nuclear testing: former Chinese Foreign Minister Tang Jiaxuan has met North Korea's reclusive leader Kim Jong-il as tensions mount over the North's nuclear test, according to Chinese officials. ](/news/2006/10/19/2006-north-korean-nuclear-testing-p-former-chinese-foreign-minister-tang-jiaxuan-has-met-north-korea-s-reclusive-leader-kim-jong-il-as-tens.md) _2017-08-25 03:18:36 (First version)_
-2. [ 2006 North Korean nuclear testing:: former Chinese Foreign Minister Tang Jiaxuan has met North Korea's reclusive leader Kim Jong-il as tensions mount over the North's nuclear test, according to Chinese officials. ](/news/2006/10/19/2006-north-korean-nuclear-testing-former-chinese-foreign-minister-tang-jiaxuan-has-met-north-korea-s-reclusive-leader-kim-jong-il-as-tens.md) _2017-08-27 03:18:30 (Update)_
-2. [ former Chinese Foreign Minister Tang Jiaxuan has met North Korea's reclusive leader Kim Jong-il as tensions mount over the North's nuclear test, according to Chinese officials. ](/news/2006/10/19/former-chinese-foreign-minister-tang-jiaxuan-has-met-north-korea-s-reclusive-leader-kim-jong-il-as-tensions-mount-over-the-north-s-nuclear.md) _(Current version)_

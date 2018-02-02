@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/12/12/ben-bernanke-chairman-of-the-u-s-federal-reserve-announces-explicit-ties-between-fed-policy-on-interest-rates-and-economic-goals-especial.html)  [JSON](/news/2012/12/12/ben-bernanke-chairman-of-the-u-s-federal-reserve-announces-explicit-ties-between-fed-policy-on-interest-rates-and-economic-goals-especial.json)  [XML](/news/2012/12/12/ben-bernanke-chairman-of-the-u-s-federal-reserve-announces-explicit-ties-between-fed-policy-on-interest-rates-and-economic-goals-especial.xml)  
+
 ### [2012-12-12](/news/2012/12/12/index.md)
 
+##### Ben Bernanke
 # Ben Bernanke, chairman of the U.S. Federal Reserve announces explicit ties between Fed policy on interest rates and economic goals, especially unemployment. 
 
 The Federal Reserve, announcing a new round of monetary stimulus, took the unprecedented step on Wednesday of indicating interest rates would remain near zero until unemployment falls to at least 6.5 percent.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/12/13/us-usa-fed-idUSBRE8BB08A20121213)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121213&t=2&i=684153380&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8BB1KQV00)
+1. [Reuters](https://www.reuters.com/article/2012/12/13/us-usa-fed-idUSBRE8BB08A20121213)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20121213&t=2&i=684153380&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8BB1KQV00)
 
 ### Related:
 

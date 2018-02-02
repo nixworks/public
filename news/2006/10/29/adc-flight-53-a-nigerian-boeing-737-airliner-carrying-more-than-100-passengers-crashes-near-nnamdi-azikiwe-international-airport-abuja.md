@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/29/adc-flight-53-a-nigerian-boeing-737-airliner-carrying-more-than-100-passengers-crashes-near-nnamdi-azikiwe-international-airport-abuja.html)  [JSON](/news/2006/10/29/adc-flight-53-a-nigerian-boeing-737-airliner-carrying-more-than-100-passengers-crashes-near-nnamdi-azikiwe-international-airport-abuja.json)  [XML](/news/2006/10/29/adc-flight-53-a-nigerian-boeing-737-airliner-carrying-more-than-100-passengers-crashes-near-nnamdi-azikiwe-international-airport-abuja.xml)  
+
 ### [2006-10-29](/news/2006/10/29/index.md)
 
+##### ADC
 #  ADC Flight 53, a Nigerian Boeing 737 airliner carrying more than 100 passengers, crashes near Nnamdi Azikiwe International Airport, Abuja. The Sultan of Sokoto Mohammadu Maccido, the sultan's son, Muhammed Maccido, a senator, and Abdulrahman Shehu Shagari, son of former Nigerian President Shehu Shagari, are on the list of passengers on board. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS](http://cbs3.com/topstories/topstories_story_302082204.html)
 2. [CNN](http://edition.cnn.com/2006/WORLD/africa/10/29/nigeria.crash/)

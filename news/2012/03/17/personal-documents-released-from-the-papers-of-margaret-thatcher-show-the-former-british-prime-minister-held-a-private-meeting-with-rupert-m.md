@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/17/personal-documents-released-from-the-papers-of-margaret-thatcher-show-the-former-british-prime-minister-held-a-private-meeting-with-rupert-m.html)  [JSON](/news/2012/03/17/personal-documents-released-from-the-papers-of-margaret-thatcher-show-the-former-british-prime-minister-held-a-private-meeting-with-rupert-m.json)  [XML](/news/2012/03/17/personal-documents-released-from-the-papers-of-margaret-thatcher-show-the-former-british-prime-minister-held-a-private-meeting-with-rupert-m.xml)  
+
 ### [2012-03-17](/news/2012/03/17/index.md)
 
+##### Margaret Thatcher
 # Personal documents released from the papers of Margaret Thatcher show the former British Prime Minister held a private meeting with Rupert Murdoch at Chequers weeks before his purchase of Times Newspapers in 1981. 
 
 Private papers released for the first time reveal a meeting kept secret and denied between Margaret Thatcher and Rupert Murdoch over his bid to buy the Times newspapers.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-17366040)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/59136000/jpg/_59136939_003804858-1.jpg)

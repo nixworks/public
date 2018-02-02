@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/31/the-governor-of-ohio-john-kasich-signs-a-bill-removing-collective-bargaining-rights-from-ohio-government-employees.html)  [JSON](/news/2011/03/31/the-governor-of-ohio-john-kasich-signs-a-bill-removing-collective-bargaining-rights-from-ohio-government-employees.json)  [XML](/news/2011/03/31/the-governor-of-ohio-john-kasich-signs-a-bill-removing-collective-bargaining-rights-from-ohio-government-employees.xml)  
+
 ### [2011-03-31](/news/2011/03/31/index.md)
 
+##### Governor of Ohio
 # The Governor of Ohio John Kasich signs a bill removing collective bargaining rights from Ohio government employees. 
 
 COLUMBUS—Gov. John Kasich plans to follow through on Thursday night with his pledge to sign into law a bill severely restricting the collective bargaining power of some 350,000 public employees in Ohio. At 7 p.m., after the Statehouse has been closed for the night, the Republican governor will sign Senate Bill 5 in his ceremonial office. The bill, however, is unlikely to go into effect for another seven months, if at all. An expensive, manpower-intensive petition effort is expected to put the bill to voters via a referendum on Nov. 8, a move that would place the law on hold at least temporarily. “There is a reason that the union bosses opposed these changes; because it strips power from the union leaders and returns it to the taxpayers and workers…,’’ he wrote in a campaign fund-
 
 
-### Source:
+### Sources:
 
 1. [Toledo Blade](http://toledoblade.com/news/2011/03/31/Kasich-will-sign-collective-bargaining-bill-Thursday-night.html)
 1. [Cover Image](/image/2011/03/31/UnionFight.jpg)

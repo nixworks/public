@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/18/the-casoria-contemporary-art-museum-in-naples-begins-burning-its-artworks-due-to-government-budget-cuts-affecting-cultural-institutions.html)  [JSON](/news/2012/04/18/the-casoria-contemporary-art-museum-in-naples-begins-burning-its-artworks-due-to-government-budget-cuts-affecting-cultural-institutions.json)  [XML](/news/2012/04/18/the-casoria-contemporary-art-museum-in-naples-begins-burning-its-artworks-due-to-government-budget-cuts-affecting-cultural-institutions.xml)  
+
 ### [2012-04-18](/news/2012/04/18/index.md)
 
+##### Casoria Contemporary Art Museum
 # The Casoria Contemporary Art Museum in Naples begins burning its artworks due to government budget cuts affecting cultural institutions. 
 
 A museum in Italy has started burning its artworks in protest at budget cuts which it says have left cultural institutions out of pocket.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17754129)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59715000/jpg/_59715608_59715606.jpg)

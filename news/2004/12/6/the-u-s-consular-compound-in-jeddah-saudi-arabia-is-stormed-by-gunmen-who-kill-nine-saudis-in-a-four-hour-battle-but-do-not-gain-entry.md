@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/6/the-u-s-consular-compound-in-jeddah-saudi-arabia-is-stormed-by-gunmen-who-kill-nine-saudis-in-a-four-hour-battle-but-do-not-gain-entry.html)  [JSON](/news/2004/12/6/the-u-s-consular-compound-in-jeddah-saudi-arabia-is-stormed-by-gunmen-who-kill-nine-saudis-in-a-four-hour-battle-but-do-not-gain-entry.json)  [XML](/news/2004/12/6/the-u-s-consular-compound-in-jeddah-saudi-arabia-is-stormed-by-gunmen-who-kill-nine-saudis-in-a-four-hour-battle-but-do-not-gain-entry.xml)  
+
 ### [2004-12-6](/news/2004/12/6/index.md)
 
+##### Jeddah
 #  The U.S. consular compound in Jeddah, Saudi Arabia, is stormed by gunmen, who kill nine Saudis in a four-hour battle but do not gain entry to the consulate building itself. Saudi security forces kill three of the gunmen, arrest two others, and pursue several more. There are no Americans dead, though some are slightly wounded. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4071387.stm)
 2. [Reuters/AFP](http://www.abc.net.au/news/newsitems/200412/s1259186.htm)

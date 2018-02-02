@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/9/the-trial-of-gu-kailai-wife-of-former-communist-powerbroker-bo-xilai-for-the-alleged-murder-of-british-businessman-neil-haywood-begins-in.html)  [JSON](/news/2012/08/9/the-trial-of-gu-kailai-wife-of-former-communist-powerbroker-bo-xilai-for-the-alleged-murder-of-british-businessman-neil-haywood-begins-in.json)  [XML](/news/2012/08/9/the-trial-of-gu-kailai-wife-of-former-communist-powerbroker-bo-xilai-for-the-alleged-murder-of-british-businessman-neil-haywood-begins-in.xml)  
+
 ### [2012-08-9](/news/2012/08/9/index.md)
 
+##### Gu Kailai
 # The trial of Gu Kailai, wife of former Communist powerbroker Bo Xilai, for the alleged murder of British businessman Neil Haywood begins in the Chinese city of Hefei. 
 
 Disgraced Chinese politician Bo Xilai&#039;s wife goes on trial for murder in a high-profile poisoning case which has transfixed the nation.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2012-08-09/bo-xilai-wife-trial-starts-today/4186826)
 1. [Cover Image](http://www.abc.net.au/news/image/4158064-1x1-700x700.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/6/tens-of-thousands-of-pakistanis-greet-suspended-chief-justice-iftikhar-chaudhry-in-lahore.html)  [JSON](/news/2007/05/6/tens-of-thousands-of-pakistanis-greet-suspended-chief-justice-iftikhar-chaudhry-in-lahore.json)  [XML](/news/2007/05/6/tens-of-thousands-of-pakistanis-greet-suspended-chief-justice-iftikhar-chaudhry-in-lahore.xml)  
+
 ### [2007-05-6](/news/2007/05/6/index.md)
 
+##### Pakistan
 #  Tens of thousands of Pakistanis greet suspended Chief Justice Iftikhar Chaudhry in Lahore. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via CNN](http://edition.cnn.com/2007/WORLD/asiapcf/05/06/pakistan.judicial.reut/index.html?eref=rss_world)
 

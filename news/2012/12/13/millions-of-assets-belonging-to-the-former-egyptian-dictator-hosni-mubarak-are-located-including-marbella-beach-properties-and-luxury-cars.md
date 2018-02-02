@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/13/millions-of-assets-belonging-to-the-former-egyptian-dictator-hosni-mubarak-are-located-including-marbella-beach-properties-and-luxury-cars.html)  [JSON](/news/2012/12/13/millions-of-assets-belonging-to-the-former-egyptian-dictator-hosni-mubarak-are-located-including-marbella-beach-properties-and-luxury-cars.json)  [XML](/news/2012/12/13/millions-of-assets-belonging-to-the-former-egyptian-dictator-hosni-mubarak-are-located-including-marbella-beach-properties-and-luxury-cars.xml)  
+
 ### [2012-12-13](/news/2012/12/13/index.md)
 
+##### Hosni Mubarak
 # Millions of assets belonging to the former Egyptian dictator Hosni Mubarak are located, including Marbella beach properties and luxury cars. 
 
 Millions of assets of ex-Egyptian president and associates located, including Marbella beach properties and luxury cars.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/12/20121213173425562653.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/30/201253010231636734_20.jpg)

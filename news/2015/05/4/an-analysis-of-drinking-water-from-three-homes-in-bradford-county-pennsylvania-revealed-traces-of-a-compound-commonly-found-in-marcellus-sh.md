@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2015/05/4/an-analysis-of-drinking-water-from-three-homes-in-bradford-county-pennsylvania-revealed-traces-of-a-compound-commonly-found-in-marcellus-sh.html)  [JSON](/news/2015/05/4/an-analysis-of-drinking-water-from-three-homes-in-bradford-county-pennsylvania-revealed-traces-of-a-compound-commonly-found-in-marcellus-sh.json)  [XML](/news/2015/05/4/an-analysis-of-drinking-water-from-three-homes-in-bradford-county-pennsylvania-revealed-traces-of-a-compound-commonly-found-in-marcellus-sh.xml)  
+
 ### [2015-05-4](/news/2015/05/4/index.md)
 
+##### Bradford County, Pennsylvania
 # An analysis of drinking water from three homes in Bradford County, Pennsylvania revealed traces of a compound commonly found in Marcellus Shale drilling fluids. The paper in the Proceedings of the National Academy of Sciences (PNAS) addresses the potential risks to underground drinking water from the drilling technique fracking. 
 
+The study, which has been criticized by the industry, noted that the contamination at three houses may have stemmed from faulty drill wells.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2015/05/05/science/earth/fracking-chemicals-detected-in-pennsylvania-drinking-water.html?hp&action=click&pgtype=Homepage&module=second-column-region&region=top-news&WT.nav=top-news)
+1. [New York Times](https://www.nytimes.com/2015/05/05/science/earth/fracking-chemicals-detected-in-pennsylvania-drinking-water.html?hp&action=click&pgtype=Homepage&module=second-column-region&region=top-news&WT.nav=top-news)
+1. [Cover Image](https://static01.nyt.com/images/2015/05/05/science/05fracking/05fracking-facebookJumbo.jpg)
 
 ### Related:
 

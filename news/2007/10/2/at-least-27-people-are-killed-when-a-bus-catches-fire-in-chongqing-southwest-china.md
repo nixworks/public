@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/2/at-least-27-people-are-killed-when-a-bus-catches-fire-in-chongqing-southwest-china.html)  [JSON](/news/2007/10/2/at-least-27-people-are-killed-when-a-bus-catches-fire-in-chongqing-southwest-china.json)  [XML](/news/2007/10/2/at-least-27-people-are-killed-when-a-bus-catches-fire-in-chongqing-southwest-china.xml)  
+
 ### [2007-10-2](/news/2007/10/2/index.md)
 
+##### bus
 #  At least 27 people are killed when a bus catches fire in Chongqing, southwest China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/story/0,10117,22523381-401,00.html)
 

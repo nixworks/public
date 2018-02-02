@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/12/australia-raises-its-terror-threat-level-to-high-following-concerns-about-militants-returning-from-conflicts-in-iraq-and-syria.html)  [JSON](/news/2014/09/12/australia-raises-its-terror-threat-level-to-high-following-concerns-about-militants-returning-from-conflicts-in-iraq-and-syria.json)  [XML](/news/2014/09/12/australia-raises-its-terror-threat-level-to-high-following-concerns-about-militants-returning-from-conflicts-in-iraq-and-syria.xml)  
+
 ### [2014-09-12](/news/2014/09/12/index.md)
 
+##### Australia
 # Australia raises its terror threat level to high following concerns about militants returning from conflicts in Iraq and Syria. 
 
 Australia has raised its terrorism threat level from medium to high, PM Tony Abbott announces, amid concern over militant groups in the Middle East.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-29170042)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/77364000/jpg/_77364538_023693825epa.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/6/a-man-is-killed-and-two-others-are-injured-a-man
 
 ### [2016-05-6](/news/2016/05/6/index.md)
 
+##### Westfield Montgomery Mall
 # A man is killed, and two others are injured (a man in critical condition and a woman with non-life-threatening injuries), in the parking lot of Westfield Montgomery Mall in Potomac in Montgomery County, Maryland, near Washington, D.C. Soon after, a woman is killed at a grocery store some miles away. Police suspect that the same shooter may be behind both crime scene incidents. Police in both Montgomery County and neighboring Prince George's County are also examining whether this person is the same as the male involved in the fatal shooting the previous day of a woman, Gladys Tordil, who was allegedly shot (a bystander who tried to help was also wounded) by her estranged abusive husband, tentatively identified as Eulalio Tordil, 62, a former Federal Protective Service officer. 
 
 

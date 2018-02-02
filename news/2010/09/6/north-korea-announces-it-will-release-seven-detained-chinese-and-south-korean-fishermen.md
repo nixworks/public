@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/6/north-korea-announces-it-will-release-seven-detained-chinese-and-south-korean-fishermen.html)  [JSON](/news/2010/09/6/north-korea-announces-it-will-release-seven-detained-chinese-and-south-korean-fishermen.json)  [XML](/news/2010/09/6/north-korea-announces-it-will-release-seven-detained-chinese-and-south-korean-fishermen.xml)  
+
 ### [2010-09-6](/news/2010/09/6/index.md)
 
+##### North Korea
 # North Korea announces it will release seven detained Chinese and South Korean fishermen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/2010/2010/09/20109693422413913.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/06/c_13480958.htm)

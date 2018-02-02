@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/16/the-ruling-national-front-coalition-in-malaysia-win-an-election-in-the-country-s-largest-state-sarawak.html)  [JSON](/news/2011/04/16/the-ruling-national-front-coalition-in-malaysia-win-an-election-in-the-country-s-largest-state-sarawak.json)  [XML](/news/2011/04/16/the-ruling-national-front-coalition-in-malaysia-win-an-election-in-the-country-s-largest-state-sarawak.xml)  
+
 ### [2011-04-16](/news/2011/04/16/index.md)
 
+##### National Front
 # The ruling National Front coalition in Malaysia win an election in the country's largest state Sarawak. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/04/2011416134548921153.html)
 2. [Bernama](http://www.bernama.com/bernama/v5/newsindex.php?id=579752)

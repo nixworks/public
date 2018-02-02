@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/09/27/iva-n-vela-zquez-caballero-a-top-leader-in-the-mexican-criminal-group-known-as-los-zetas-is-arrested-in-san-luis-potosa.html)  [JSON](/news/2012/09/27/iva-n-vela-zquez-caballero-a-top-leader-in-the-mexican-criminal-group-known-as-los-zetas-is-arrested-in-san-luis-potosa.json)  [XML](/news/2012/09/27/iva-n-vela-zquez-caballero-a-top-leader-in-the-mexican-criminal-group-known-as-los-zetas-is-arrested-in-san-luis-potosa.xml)  
+
 ### [2012-09-27](/news/2012/09/27/index.md)
 
+##### Ivan Velazquez Caballero
 # Ivan Velazquez Caballero, a top leader in the Mexican criminal group known as Los Zetas, is arrested in San Luis Potosi. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [US News](http://www.usnews.com/news/world/articles/2012/09/27/mexico-catches-zetas-drug-capo-el-taliban)
+1. [US News](https://www.usnews.com/news/world/articles/2012/09/27/mexico-catches-zetas-drug-capo-el-taliban)
 
 ### Related:
 

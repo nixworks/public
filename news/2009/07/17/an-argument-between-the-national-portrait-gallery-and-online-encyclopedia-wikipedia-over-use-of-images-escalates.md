@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/17/an-argument-between-the-national-portrait-gallery-and-online-encyclopedia-wikipedia-over-use-of-images-escalates.html)  [JSON](/news/2009/07/17/an-argument-between-the-national-portrait-gallery-and-online-encyclopedia-wikipedia-over-use-of-images-escalates.json)  [XML](/news/2009/07/17/an-argument-between-the-national-portrait-gallery-and-online-encyclopedia-wikipedia-over-use-of-images-escalates.xml)  
+
 ### [2009-07-17](/news/2009/07/17/index.md)
 
+##### National Portrait Gallery
 #  An argument between the National Portrait Gallery and online encyclopedia Wikipedia over use of images escalates. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/8156268.stm)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/06/16/official-campaigning-for-the-2009-presidential-election-in-afghanistan-begins.html)  [JSON](/news/2009/06/16/official-campaigning-for-the-2009-presidential-election-in-afghanistan-begins.json)  [XML](/news/2009/06/16/official-campaigning-for-the-2009-presidential-election-in-afghanistan-begins.xml)  
+
 ### [2009-06-16](/news/2009/06/16/index.md)
 
+##### presidential election
 #  Official campaigning for the 2009 presidential election in Afghanistan begins. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/featuredCrisis/idUSISL483271)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/featuredCrisis/idUSISL483271)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

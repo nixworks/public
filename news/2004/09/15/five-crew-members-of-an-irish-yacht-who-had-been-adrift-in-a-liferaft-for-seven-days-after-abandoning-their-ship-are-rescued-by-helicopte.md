@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/15/five-crew-members-of-an-irish-yacht-who-had-been-adrift-in-a-liferaft-for-seven-days-after-abandoning-their-ship-are-rescued-by-helicopte.html)  [JSON](/news/2004/09/15/five-crew-members-of-an-irish-yacht-who-had-been-adrift-in-a-liferaft-for-seven-days-after-abandoning-their-ship-are-rescued-by-helicopte.json)  [XML](/news/2004/09/15/five-crew-members-of-an-irish-yacht-who-had-been-adrift-in-a-liferaft-for-seven-days-after-abandoning-their-ship-are-rescued-by-helicopte.xml)  
+
 ### [2004-09-15](/news/2004/09/15/index.md)
 
+##### yacht
 #  Five crew members of an Irish yacht, who had been adrift in a liferaft for seven days after abandoning their ship, are rescued by helicopter off the Cornwall coast of Britain. The crew members ran out of water on Monday and were running low on food when rescued. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/england/cornwall/3658528.stm)
 2. [RTÉ](http://www.rte.ie/news/2004/0915/rescue.html)

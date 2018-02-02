@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/2/the-prime-minister-of-australia-julia-gillard-announces-a-cabinet-reshuffle-with-bob-carr-a-former-premier-of-new-south-wales-appointed-as.html)  [JSON](/news/2012/03/2/the-prime-minister-of-australia-julia-gillard-announces-a-cabinet-reshuffle-with-bob-carr-a-former-premier-of-new-south-wales-appointed-as.json)  [XML](/news/2012/03/2/the-prime-minister-of-australia-julia-gillard-announces-a-cabinet-reshuffle-with-bob-carr-a-former-premier-of-new-south-wales-appointed-as.xml)  
+
 ### [2012-03-2](/news/2012/03/2/index.md)
 
+##### Australian Prime Minister
 # The Prime Minister of Australia Julia Gillard announces a Cabinet reshuffle with Bob Carr, a former Premier of New South Wales, appointed as Minister for Foreign Affairs to replace Kevin Rudd. 
 
 In a shock announcement, former NSW premier Bob Carr is the new Foreign Affairs Minister.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/opinion/political-news/bob-carr-to-take-foreign-affairs-role-20120302-1u731.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/1/u/7/4/t/image.related.articleLeadwide.620x349.1u731.png/1330665157227.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/16/the-death-toll-from-the-christmas-island-boat-wreck-rises-to-28-as-the-search-for-survivors-continues.html)  [JSON](/news/2010/12/16/the-death-toll-from-the-christmas-island-boat-wreck-rises-to-28-as-the-search-for-survivors-continues.json)  [XML](/news/2010/12/16/the-death-toll-from-the-christmas-island-boat-wreck-rises-to-28-as-the-search-for-survivors-continues.xml)  
+
 ### [2010-12-16](/news/2010/12/16/index.md)
 
+##### Christmas Island
 # The death toll from the Christmas Island boat wreck rises to 28 as the search for survivors continues. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/news/world/search-resumes-for-asylum-seekers-after-boat-is-smashed-by-heavy-seas-at-christmas-island/story-e6frg6so-1225971904232)
 

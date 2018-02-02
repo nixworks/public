@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/29/chandrayaan-1-loses-contact-with-ground-control.html)  [JSON](/news/2009/08/29/chandrayaan-1-loses-contact-with-ground-control.json)  [XML](/news/2009/08/29/chandrayaan-1-loses-contact-with-ground-control.xml)  
+
 ### [2009-08-29](/news/2009/08/29/index.md)
 
+##### Chandrayaan-1
 #  Chandrayaan-1 loses contact with ground control. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Indian Express](http://www.expressindia.com/latest-news/Chandrayaan-Indias-first-moon-mission-is-over-Project-Director/508749/)
 

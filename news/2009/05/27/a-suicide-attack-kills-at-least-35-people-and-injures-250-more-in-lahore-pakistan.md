@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/27/a-suicide-attack-kills-at-least-35-people-and-injures-250-more-in-lahore-pakistan.html)  [JSON](/news/2009/05/27/a-suicide-attack-kills-at-least-35-people-and-injures-250-more-in-lahore-pakistan.json)  [XML](/news/2009/05/27/a-suicide-attack-kills-at-least-35-people-and-injures-250-more-in-lahore-pakistan.xml)  
+
 ### [2009-05-27](/news/2009/05/27/index.md)
 
+##### suicide attack
 #  A suicide attack kills at least 35 people and injures 250 more in Lahore, Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8069467.stm)
 2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/05/27/lahore.blast/index.html)

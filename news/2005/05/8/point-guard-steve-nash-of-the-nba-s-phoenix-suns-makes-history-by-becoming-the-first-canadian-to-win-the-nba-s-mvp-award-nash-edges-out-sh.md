@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/8/point-guard-steve-nash-of-the-nba-s-phoenix-suns-makes-history-by-becoming-the-first-canadian-to-win-the-nba-s-mvp-award-nash-edges-out-sh.html)  [JSON](/news/2005/05/8/point-guard-steve-nash-of-the-nba-s-phoenix-suns-makes-history-by-becoming-the-first-canadian-to-win-the-nba-s-mvp-award-nash-edges-out-sh.json)  [XML](/news/2005/05/8/point-guard-steve-nash-of-the-nba-s-phoenix-suns-makes-history-by-becoming-the-first-canadian-to-win-the-nba-s-mvp-award-nash-edges-out-sh.xml)  
+
 ### [2005-05-8](/news/2005/05/8/index.md)
 
+##### Point guard
 #  Point guard Steve Nash of the NBA's Phoenix Suns makes history by becoming the first Canadian to win the NBA's MVP award. Nash edges out Shaquille O'Neal of the Miami Heat by seven votes to win the award. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/sports/story/2005/05/08/nash_steve_mvp050508.html)
 1. [Cover Image](https://i.cbc.ca/1.470240.1460485348!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-sports.jpg)

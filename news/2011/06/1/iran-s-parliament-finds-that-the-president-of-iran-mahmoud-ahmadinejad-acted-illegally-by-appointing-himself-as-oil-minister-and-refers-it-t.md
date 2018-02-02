@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/06/1/iran-s-parliament-finds-that-the-president-of-iran-mahmoud-ahmadinejad-acted-illegally-by-appointing-himself-as-oil-minister-and-refers-it-t.html)  [JSON](/news/2011/06/1/iran-s-parliament-finds-that-the-president-of-iran-mahmoud-ahmadinejad-acted-illegally-by-appointing-himself-as-oil-minister-and-refers-it-t.json)  [XML](/news/2011/06/1/iran-s-parliament-finds-that-the-president-of-iran-mahmoud-ahmadinejad-acted-illegally-by-appointing-himself-as-oil-minister-and-refers-it-t.xml)  
+
 ### [2011-06-1](/news/2011/06/1/index.md)
 
+##### Iran
 # Iran's parliament finds that the President of Iran Mahmoud Ahmadinejad acted illegally by appointing himself as Oil Minister and refers it to the Judiciary, increasing pressure on him to resign. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/06/01/iran-ahmadinejad-parliament-idUSLDE75004T20110601)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/06/01/iran-ahmadinejad-parliament-idUSLDE75004T20110601)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

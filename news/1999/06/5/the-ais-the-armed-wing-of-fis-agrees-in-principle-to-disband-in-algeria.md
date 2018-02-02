@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/06/5/the-ais-the-armed-wing-of-fis-agrees-in-principle-to-disband-in-algeria.html)  [JSON](/news/1999/06/5/the-ais-the-armed-wing-of-fis-agrees-in-principle-to-disband-in-algeria.json)  [XML](/news/1999/06/5/the-ais-the-armed-wing-of-fis-agrees-in-principle-to-disband-in-algeria.xml)  
+
 ### [1999-06-5](/news/1999/06/5/index.md)
 
+##### AIS
 #  The AIS, the armed wing of FIS, agrees in principle to disband in Algeria.
 
 

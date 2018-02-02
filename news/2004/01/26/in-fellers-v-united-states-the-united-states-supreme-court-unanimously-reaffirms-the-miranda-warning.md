@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/26/in-fellers-v-united-states-the-united-states-supreme-court-unanimously-reaffirms-the-miranda-warning.html)  [JSON](/news/2004/01/26/in-fellers-v-united-states-the-united-states-supreme-court-unanimously-reaffirms-the-miranda-warning.json)  [XML](/news/2004/01/26/in-fellers-v-united-states-the-united-states-supreme-court-unanimously-reaffirms-the-miranda-warning.xml)  
+
 ### [2004-01-26](/news/2004/01/26/index.md)
 
+##### Fellers v. United States
 #  In "Fellers v. United States", the United States Supreme Court unanimously reaffirms the Miranda Warning.
 
 

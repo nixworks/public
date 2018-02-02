@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/6/niger-deports-saadi-al-gaddafi-son-of-muammar-al-gaddafi-to-libya.html)  [JSON](/news/2014/03/6/niger-deports-saadi-al-gaddafi-son-of-muammar-al-gaddafi-to-libya.json)  [XML](/news/2014/03/6/niger-deports-saadi-al-gaddafi-son-of-muammar-al-gaddafi-to-libya.xml)  
+
 ### [2014-03-6](/news/2014/03/6/index.md)
 
+##### Niger
 # Niger deports Saadi al-Gaddafi, son of Muammar al-Gaddafi, to Libya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-26462400)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73403000/jpg/_73403185_saadi.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/3/jordanian-officials-report-that-suspected-terrorists-were-arrested-when-their-vehicle-filled-with-explosives-detonators-and-bombs-was-appr.html)  [JSON](/news/2004/04/3/jordanian-officials-report-that-suspected-terrorists-were-arrested-when-their-vehicle-filled-with-explosives-detonators-and-bombs-was-appr.json)  [XML](/news/2004/04/3/jordanian-officials-report-that-suspected-terrorists-were-arrested-when-their-vehicle-filled-with-explosives-detonators-and-bombs-was-appr.xml)  
+
 ### [2004-04-3](/news/2004/04/3/index.md)
 
+##### Jordan
 #  Jordanian officials report that suspected terrorists were arrested when their vehicle filled with explosives, detonators and bombs was apprehended in a Jordanian town on the Syrian border. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ (Jerusalem Post](http://fr.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1080979160569)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/11/2/the-first-resident-crew-enters-the-international-space-station.html)  [JSON](/news/2000/11/2/the-first-resident-crew-enters-the-international-space-station.json)  [XML](/news/2000/11/2/the-first-resident-crew-enters-the-international-space-station.xml)  
+
 ### [2000-11-2](/news/2000/11/2/index.md)
 
+##### International Space Station
 # The first resident crew enters the International Space Station. 
 
 

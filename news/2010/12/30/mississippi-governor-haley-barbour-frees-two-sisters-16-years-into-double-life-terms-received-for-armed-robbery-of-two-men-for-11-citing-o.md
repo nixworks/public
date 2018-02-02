@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/12/30/mississippi-governor-haley-barbour-frees-two-sisters-16-years-into-double-life-terms-received-for-armed-robbery-of-two-men-for-11-citing-o.html)  [JSON](/news/2010/12/30/mississippi-governor-haley-barbour-frees-two-sisters-16-years-into-double-life-terms-received-for-armed-robbery-of-two-men-for-11-citing-o.json)  [XML](/news/2010/12/30/mississippi-governor-haley-barbour-frees-two-sisters-16-years-into-double-life-terms-received-for-armed-robbery-of-two-men-for-11-citing-o.xml)  
+
 ### [2010-12-30](/news/2010/12/30/index.md)
 
+##### Mississippi
 # Mississippi Governor Haley Barbour frees two sisters 16 years into double life terms received for armed robbery of two men for $11, citing one of the sister's "medical condition creates a substantial cost to the state of Mississippi." 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6BT1WB20101230?loomia_ow=t0:s0:a49:g43:r2:c0.074776:b40635668:z0)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/idUSTRE6BT1WB20101230?loomia_ow=t0:s0:a49:g43:r2:c0.074776:b40635668:z0)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

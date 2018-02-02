@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/18/philippines-finish-in-5th-place-in-the-medal-tally-for-the-2005-asean-para-games-in-the-philippines-thailand-finishes-with-84-golds-follo.html)  [JSON](/news/2005/12/18/philippines-finish-in-5th-place-in-the-medal-tally-for-the-2005-asean-para-games-in-the-philippines-thailand-finishes-with-84-golds-follo.json)  [XML](/news/2005/12/18/philippines-finish-in-5th-place-in-the-medal-tally-for-the-2005-asean-para-games-in-the-philippines-thailand-finishes-with-84-golds-follo.xml)  
+
 ### [2005-12-18](/news/2005/12/18/index.md)
 
+##### 2005 ASEAN Para Games
 #  Philippines finish in 5th place in the medal tally for the 2005 ASEAN Para Games in the Philippines. Thailand finishes with 84 golds, followed by Malaysia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Nation'', Bangkok](http://nationmultimedia.com/2005/12/18/sport/index.php?news=sport_19454038.html)
 

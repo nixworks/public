@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/5/the-united-states-states-foreign-terrorists-are-slipping-into-iraq-and-believes-the-people-behind-recent-attacks-in-iraq-have-come-in-fro.html)  [JSON](/news/2003/11/5/the-united-states-states-foreign-terrorists-are-slipping-into-iraq-and-believes-the-people-behind-recent-attacks-in-iraq-have-come-in-fro.json)  [XML](/news/2003/11/5/the-united-states-states-foreign-terrorists-are-slipping-into-iraq-and-believes-the-people-behind-recent-attacks-in-iraq-have-come-in-fro.xml)  
+
 ### [2003-11-5](/news/2003/11/5/index.md)
 
+##### terrorism
 #  * The United States states foreign terrorists are slipping into Iraq and believes the people behind recent attacks in Iraq have come in from neighbouring countries. Iraq's Governing Council head, Jalal Talabani, urges Iraq's neighbours to crack down on "terrorists" crossing into Iraq. Talabani states terrorists had entered from Syria, Saudi Arabia and Iran. Syria urges America to withdraw troops from Iraq.
 
 

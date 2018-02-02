@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/12/nestor-kirchner-former-president-of-argentina-and-current-secretary-general-of-the-union-of-south-american-nations-unasur-has-surgery-on.html)  [JSON](/news/2010/09/12/nestor-kirchner-former-president-of-argentina-and-current-secretary-general-of-the-union-of-south-american-nations-unasur-has-surgery-on.json)  [XML](/news/2010/09/12/nestor-kirchner-former-president-of-argentina-and-current-secretary-general-of-the-union-of-south-american-nations-unasur-has-surgery-on.xml)  
+
 ### [2010-09-12](/news/2010/09/12/index.md)
 
+##### Nstor Kirchner
 # Nstor Kirchner, former President of Argentina and current Secretary-General of the Union of South American Nations (UNASUR), has surgery on a blocked coronary artery. 
 
 The former president of Argentina, Nestor Kirchner, has surgery to clear a blocked coronary artery.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11278625)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/23/voters-in-the-canadian-province-of-alberta-go-to-the-polls-for-a-general-election-with-the-incumbent-progressive-conservatives-being-reelect.html)  [JSON](/news/2012/04/23/voters-in-the-canadian-province-of-alberta-go-to-the-polls-for-a-general-election-with-the-incumbent-progressive-conservatives-being-reelect.json)  [XML](/news/2012/04/23/voters-in-the-canadian-province-of-alberta-go-to-the-polls-for-a-general-election-with-the-incumbent-progressive-conservatives-being-reelect.xml)  
+
 ### [2012-04-23](/news/2012/04/23/index.md)
 
+##### Canadian
 # Voters in the Canadian province of Alberta go to the polls for a general election with the incumbent Progressive Conservatives being reelected. 
 
 Albertans go the polls today following an election campaign that quickly became a battle between the governing Progressive Conservatives and the upstart Wildrose Party. 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/albertavotes2012/story/2012/04/22/albertavotes2012-election-day.html)
 2. [Reuters](http://uk.reuters.com/article/2012/04/24/canada-alberta-election-idUKL2E8FO0E120120424)

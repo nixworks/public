@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/05/16/the-president-of-the-united-states-george-w-bush-arrives-in-saudi-arabia-to-discuss-rising-fuel-prices-with-king-abdullah-of-saudi-arabia.html)  [JSON](/news/2008/05/16/the-president-of-the-united-states-george-w-bush-arrives-in-saudi-arabia-to-discuss-rising-fuel-prices-with-king-abdullah-of-saudi-arabia.json)  [XML](/news/2008/05/16/the-president-of-the-united-states-george-w-bush-arrives-in-saudi-arabia-to-discuss-rising-fuel-prices-with-king-abdullah-of-saudi-arabia.xml)  
+
 ### [2008-05-16](/news/2008/05/16/index.md)
 
+##### U.S. President
 #  The President of the United States George W. Bush arrives in Saudi Arabia to discuss rising fuel prices with King Abdullah of Saudi Arabia. Saudi Arabia later announces plans to raise its output by 300,000 barrels a day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5hkf--m78S6F3LZAcz4sVHGGCQSTgD90MKBIO0)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601103&sid=afAsd.eNt1DQ&refer=us)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601103&sid=afAsd.eNt1DQ&refer=us)
 
 ### Related:
 

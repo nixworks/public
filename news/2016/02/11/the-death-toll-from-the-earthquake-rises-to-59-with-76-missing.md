@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/11/the-death-toll-from-the-earthquake-rises-to-59-
 
 ### [2016-02-11](/news/2016/02/11/index.md)
 
+##### 2016 Taiwan earthquake
 # The death toll from the earthquake rises to 59 with 76 missing. 
 
 

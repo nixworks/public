@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/11/charles-michel-is-sworn-in-as-the-new-prime-minister-of-belgium-leading-a-coalition-of-four-centre-right-parties.html)  [JSON](/news/2014/10/11/charles-michel-is-sworn-in-as-the-new-prime-minister-of-belgium-leading-a-coalition-of-four-centre-right-parties.json)  [XML](/news/2014/10/11/charles-michel-is-sworn-in-as-the-new-prime-minister-of-belgium-leading-a-coalition-of-four-centre-right-parties.xml)  
+
 ### [2014-10-11](/news/2014/10/11/index.md)
 
+##### Charles Michel
 # Charles Michel is sworn in as the new Prime Minister of Belgium leading a Coalition of four centre-right parties. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-29581784)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/78153000/jpg/_78153688_78153684.jpg)

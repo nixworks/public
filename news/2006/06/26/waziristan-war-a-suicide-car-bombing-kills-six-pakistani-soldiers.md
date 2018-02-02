@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/26/waziristan-war-a-suicide-car-bombing-kills-six-pakistani-soldiers.html)  [JSON](/news/2006/06/26/waziristan-war-a-suicide-car-bombing-kills-six-pakistani-soldiers.json)  [XML](/news/2006/06/26/waziristan-war-a-suicide-car-bombing-kills-six-pakistani-soldiers.xml)  
+
 ### [2006-06-26](/news/2006/06/26/index.md)
 
+##### Waziristan War
 #  Waziristan War: a suicide car bombing kills six Pakistani soldiers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/5117472.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/26/at-least-16-people-are-killed-in-a-stampede-at-djinguereber-mosque-in-mali-s-northwestern-city-of-timbuktu.html)  [JSON](/news/2010/02/26/at-least-16-people-are-killed-in-a-stampede-at-djinguereber-mosque-in-mali-s-northwestern-city-of-timbuktu.json)  [XML](/news/2010/02/26/at-least-16-people-are-killed-in-a-stampede-at-djinguereber-mosque-in-mali-s-northwestern-city-of-timbuktu.xml)  
+
 ### [2010-02-26](/news/2010/02/26/index.md)
 
+##### stampede
 # At least 16 people are killed in a stampede at Djinguereber Mosque in Mali's northwestern city of Timbuktu. 
 
 At least 26 people killed as worshippers circle around mosque in city of Timbuktu.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/02/201022610552376857.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8538312.stm)

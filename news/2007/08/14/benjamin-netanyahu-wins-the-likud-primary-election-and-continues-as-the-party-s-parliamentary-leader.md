@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/14/benjamin-netanyahu-wins-the-likud-primary-election-and-continues-as-the-party-s-parliamentary-leader.html)  [JSON](/news/2007/08/14/benjamin-netanyahu-wins-the-likud-primary-election-and-continues-as-the-party-s-parliamentary-leader.json)  [XML](/news/2007/08/14/benjamin-netanyahu-wins-the-likud-primary-election-and-continues-as-the-party-s-parliamentary-leader.xml)  
+
 ### [2007-08-14](/news/2007/08/14/index.md)
 
+##### Benjamin Netanyahu
 #  Benjamin Netanyahu wins the Likud primary election and continues as the party's parliamentary leader. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://www.chinadaily.com.cn/world/2007-08/15/content_6027491.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/18/in-australia-indigenous-leaders-pay-tribute-to-sir-ronald-wilson-white-indigenous-rights-campaigner-who-died-last-friday.html)  [JSON](/news/2005/07/18/in-australia-indigenous-leaders-pay-tribute-to-sir-ronald-wilson-white-indigenous-rights-campaigner-who-died-last-friday.json)  [XML](/news/2005/07/18/in-australia-indigenous-leaders-pay-tribute-to-sir-ronald-wilson-white-indigenous-rights-campaigner-who-died-last-friday.xml)  
+
 ### [2005-07-18](/news/2005/07/18/index.md)
 
+##### Australia
 #  In Australia, Indigenous leaders pay tribute to Sir Ronald Wilson, white Indigenous rights campaigner, who died last Friday 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/newsitems/200507/s1416134.htm)
 2. [SBS](http://www9.sbs.com.au/theworldnews/region.php?id=116101&region=7)
@@ -16,5 +20,5 @@
 1. [Australia celebrates indigenous culture in NAIDOC Week with the 2010 theme "Unsung Heroes - Closing the Gap by Leading Their Way". ](/news/2010/07/9/australia-celebrates-indigenous-culture-in-naidoc-week-with-the-2010-theme-unsung-heroes-closing-the-gap-by-leading-their-way.md) _Context: Australia, Indigenous_
 2. [Australia celebrates indigenous culture for NAIDOC Week with the 2010 theme 'Unsung Heroes - Closing the Gap by Leading Their Way'.](/news/2010/07/7/australia-celebrates-indigenous-culture-for-naidoc-week-with-the-2010-theme-unsung-heroes-closing-the-gap-by-leading-their-way.md) _Context: Australia, Indigenous_
 3. [Australia celebrates indigenous culture with NAIDOC Week with the 2010 theme 'Unsung Heroes - Closing the Gap by Leading Their Way'.](/news/2010/07/5/australia-celebrates-indigenous-culture-with-naidoc-week-with-the-2010-theme-unsung-heroes-closing-the-gap-by-leading-their-way.md) _Context: Australia, Indigenous_
-4. [ The Government of Australia announces that it will apologize to the "stolen generation" of indigenous Australians in the Parliament of Australia on February 13. ](/news/2008/01/30/the-government-of-australia-announces-that-it-will-apologize-to-the-stolen-generation-of-indigenous-australians-in-the-parliament-of-aust.md) _Context: Australia, Indigenous_
-5. [ Australia observes the National Sorry Day as a way to remember the Stolen Generation of Indigenous Australians. ](/news/2005/05/26/australia-observes-the-national-sorry-day-as-a-way-to-remember-the-stolen-generation-of-indigenous-australians.md) _Context: Australia, Indigenous_
+4. [ Australia observes the National Sorry Day as a way to remember the Stolen Generation of Indigenous Australians. ](/news/2005/05/26/australia-observes-the-national-sorry-day-as-a-way-to-remember-the-stolen-generation-of-indigenous-australians.md) _Context: Australia, Indigenous_
+5. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Australia_

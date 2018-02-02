@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/29/almost-2-000-families-are-displaced-in-mindanao
 
 ### [2016-11-29](/news/2016/11/29/index.md)
 
+##### November 2016 Butig clash
 # Almost 2,000 families are displaced in Mindanao region of the Philippines due to clashes between government forces and Islamist militants. 
 
 The local government is expecting more residents to be displaced as the military continues its offensive against the local terror group

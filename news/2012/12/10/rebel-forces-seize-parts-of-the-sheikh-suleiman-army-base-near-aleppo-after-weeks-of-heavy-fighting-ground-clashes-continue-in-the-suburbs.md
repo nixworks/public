@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2012/12/10/rebel-forces-seize-parts-of-the-sheikh-suleiman-army-base-near-aleppo-after-weeks-of-heavy-fighting-ground-clashes-continue-in-the-suburbs.html)  [JSON](/news/2012/12/10/rebel-forces-seize-parts-of-the-sheikh-suleiman-army-base-near-aleppo-after-weeks-of-heavy-fighting-ground-clashes-continue-in-the-suburbs.json)  [XML](/news/2012/12/10/rebel-forces-seize-parts-of-the-sheikh-suleiman-army-base-near-aleppo-after-weeks-of-heavy-fighting-ground-clashes-continue-in-the-suburbs.xml)  
+
 ### [2012-12-10](/news/2012/12/10/index.md)
 
+##### Aleppo
 # Rebel forces seize parts of the Sheikh Suleiman army base near Aleppo after weeks of heavy fighting. Ground clashes continue in the suburbs of Damascus as the government carries out further air raids against opposition forces. 
 
 Opposition fighters enter Sheikh Suleiman base near city of Aleppo after weeks of fighting, Syrian Observatory says.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/12/20121210104312760502.html)
-2. [Washington Post](http://www.washingtonpost.com/politics/us-declares-jabhat-al-nusra-a-group-in-syria-with-alleged-al-qaida-links-as-terrorist-body/2012/12/10/054ccb8a-42fa-11e2-8c8f-fbebf7ccab4e_story.html)
+2. [Washington Post](https://www.washingtonpost.com/politics/us-declares-jabhat-al-nusra-a-group-in-syria-with-alleged-al-qaida-links-as-terrorist-body/2012/12/10/054ccb8a-42fa-11e2-8c8f-fbebf7ccab4e_story.html)
 2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/12/10/201212101133536734_20.jpg)
+
+### Changes:
+
+1. [Syrian civil war:Rebel forces seize parts of the Sheikh Suleiman army base near Aleppo after weeks of heavy fighting. Ground clashes continue in the suburbs of Damascus as the government carries out further air raids against opposition forces. ](/news/2012/12/10/syrian-civil-war-prebel-forces-seize-parts-of-the-sheikh-suleiman-army-base-near-aleppo-after-weeks-of-heavy-fighting-ground-clashes-contin.md) _2017-08-25 03:36:59 (First version)_
+2. [Syrian civil war:: Rebel forces seize parts of the Sheikh Suleiman army base near Aleppo after weeks of heavy fighting. Ground clashes continue in the suburbs of Damascus as the government carries out further air raids against opposition forces. ](/news/2012/12/10/syrian-civil-war-rebel-forces-seize-parts-of-the-sheikh-suleiman-army-base-near-aleppo-after-weeks-of-heavy-fighting-ground-clashes-conti.md) _2017-08-27 03:37:09 (Update)_
+2. [Rebel forces seize parts of the Sheikh Suleiman army base near Aleppo after weeks of heavy fighting. Ground clashes continue in the suburbs of Damascus as the government carries out further air raids against opposition forces. ](/news/2012/12/10/rebel-forces-seize-parts-of-the-sheikh-suleiman-army-base-near-aleppo-after-weeks-of-heavy-fighting-ground-clashes-continue-in-the-suburbs.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ Opposition fighters enter Sheikh Suleiman base near city of Aleppo after weeks o
 3. [Syrian civil war: Rebels claim control of the strategic town of Maarrat al-Nu'man on the main road linking Damascus to Aleppo. ](/news/2012/10/10/syrian-civil-war-rebels-claim-control-of-the-strategic-town-of-maarrat-al-nu-man-on-the-main-road-linking-damascus-to-aleppo.md) _Context: Aleppo, Damascus_
 4. [Heavy combat continues in Damascus and Aleppo. ](/news/2012/08/27/heavy-combat-continues-in-damascus-and-aleppo.md) _Context: Aleppo, Damascus_
 5. [Heavy fighting continues in the Syrian capital Damascus and the largest city of Aleppo. ](/news/2012/07/21/heavy-fighting-continues-in-the-syrian-capital-damascus-and-the-largest-city-of-aleppo.md) _Context: Aleppo, Damascus_
-
-### Changes:
-
-1. [Syrian civil war:Rebel forces seize parts of the Sheikh Suleiman army base near Aleppo after weeks of heavy fighting. Ground clashes continue in the suburbs of Damascus as the government carries out further air raids against opposition forces. ](/news/2012/12/10/syrian-civil-war-prebel-forces-seize-parts-of-the-sheikh-suleiman-army-base-near-aleppo-after-weeks-of-heavy-fighting-ground-clashes-contin.md) _2017-08-25 03:36:59 (First version)_
-2. [Syrian civil war:: Rebel forces seize parts of the Sheikh Suleiman army base near Aleppo after weeks of heavy fighting. Ground clashes continue in the suburbs of Damascus as the government carries out further air raids against opposition forces. ](/news/2012/12/10/syrian-civil-war-rebel-forces-seize-parts-of-the-sheikh-suleiman-army-base-near-aleppo-after-weeks-of-heavy-fighting-ground-clashes-conti.md) _2017-08-27 03:37:09 (Update)_
-2. [Rebel forces seize parts of the Sheikh Suleiman army base near Aleppo after weeks of heavy fighting. Ground clashes continue in the suburbs of Damascus as the government carries out further air raids against opposition forces. ](/news/2012/12/10/rebel-forces-seize-parts-of-the-sheikh-suleiman-army-base-near-aleppo-after-weeks-of-heavy-fighting-ground-clashes-continue-in-the-suburbs.md) _(Current version)_

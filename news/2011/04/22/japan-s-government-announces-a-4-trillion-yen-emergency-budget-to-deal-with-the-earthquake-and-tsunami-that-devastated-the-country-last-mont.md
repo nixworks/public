@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/22/japan-s-government-announces-a-4-trillion-yen-emergency-budget-to-deal-with-the-earthquake-and-tsunami-that-devastated-the-country-last-mont.html)  [JSON](/news/2011/04/22/japan-s-government-announces-a-4-trillion-yen-emergency-budget-to-deal-with-the-earthquake-and-tsunami-that-devastated-the-country-last-mont.json)  [XML](/news/2011/04/22/japan-s-government-announces-a-4-trillion-yen-emergency-budget-to-deal-with-the-earthquake-and-tsunami-that-devastated-the-country-last-mont.xml)  
+
 ### [2011-04-22](/news/2011/04/22/index.md)
 
+##### Japan
 # Japan's government announces a 4 trillion yen emergency budget to deal with the earthquake and tsunami that devastated the country last month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-13167014)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52305000/jpg/_52305694_011774424-1.jpg)

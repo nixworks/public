@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/30/the-dalai-lama-begins-a-visit-to-taiwan-amid-criticism-from-china.html)  [JSON](/news/2009/08/30/the-dalai-lama-begins-a-visit-to-taiwan-amid-criticism-from-china.json)  [XML](/news/2009/08/30/the-dalai-lama-begins-a-visit-to-taiwan-amid-criticism-from-china.xml)  
+
 ### [2009-08-30](/news/2009/08/30/index.md)
 
+##### 14th Dalai Lama
 #  The Dalai Lama begins a visit to Taiwan, amid criticism from China. 
 
 Tibetan Buddhist leader says visit is humanitarian, following criticism from China.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/08/2009830205219349115.html)
 2. [Hindustan Times](http://www.hindustantimes.com/world-news/restofasia/Taiwan-visit-is-non-political-Dalai-Lama/Article1-448572.aspx)

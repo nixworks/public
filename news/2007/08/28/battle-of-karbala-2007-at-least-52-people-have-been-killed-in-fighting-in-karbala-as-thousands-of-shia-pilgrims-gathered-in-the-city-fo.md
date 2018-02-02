@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/28/battle-of-karbala-2007-at-least-52-people-have-been-killed-in-fighting-in-karbala-as-thousands-of-shia-pilgrims-gathered-in-the-city-fo.html)  [JSON](/news/2007/08/28/battle-of-karbala-2007-at-least-52-people-have-been-killed-in-fighting-in-karbala-as-thousands-of-shia-pilgrims-gathered-in-the-city-fo.json)  [XML](/news/2007/08/28/battle-of-karbala-2007-at-least-52-people-have-been-killed-in-fighting-in-karbala-as-thousands-of-shia-pilgrims-gathered-in-the-city-fo.xml)  
+
 ### [2007-08-28](/news/2007/08/28/index.md)
 
+##### Battle of Karbala (2007)
 #  Battle of Karbala (2007): At least 52 people have been killed in fighting in Karbala, as thousands of Shia pilgrims gathered in the city for an annual festival. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyID=2007-08-28T204722Z_01_YAT713362_RTRUKOC_0_US-IRAQ.xml)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/1/according-to-the-united-nations-the-philippines-
 
 ### [2017-08-1](/news/2017/08/1/index.md)
 
+##### Epidemiology of HIV/AIDS
 # According to the United Nations, the Philippines has the largest increase in HIV-AIDS in the Asia Pacific region with about a 140% increase in cases from 2010 until 2016 possibly causing a 'national emergency.' 
 
 The Philippines records the fastest-growing HIV/AIDS epidemic in the Asia-Pacific in the past six years, the UN says.
@@ -25,4 +26,4 @@ The Philippines records the fastest-growing HIV/AIDS epidemic in the Asia-Pacifi
 2. [Philippine vice president Leni Robredo faces an impeachment charge before the House of Representatives for condemning the country's war on drugs at the United Nations. ](/news/2017/05/2/philippine-vice-president-leni-robredo-faces-an-impeachment-charge-before-the-house-of-representatives-for-condemning-the-country-s-war-on-d.md) _Context: Philippines, United Nations_
 3. [Rodrigo Duterte threatens to withdraw the Philippines from its founding membership of the United Nations after the international body criticized him over alleged human rights violations. ](/news/2016/08/21/rodrigo-duterte-threatens-to-withdraw-the-philippines-from-its-founding-membership-of-the-united-nations-after-the-international-body-critic.md) _Context: Philippines, United Nations_
 4. [The Philippines impounds a North Korean cargo ship in line with new UN sanctions on North Korea in response to Pyongyang's recent nuclear test and missile launch. Presidential spokesman, Manolo Quezon, said the 6,830-tonne cargo ship would not be allowed to leave the Port of Subic, Luzon, where it has been docked for three days, and that its crew would be deported. ](/news/2016/03/5/the-philippines-impounds-a-north-korean-cargo-ship-in-line-with-new-un-sanctions-on-north-korea-in-response-to-pyongyang-s-recent-nuclear-te.md) _Context: Philippines, United Nations_
-5. [Asia-Pacific leaders, in the Philippines for the 2015 Asia-Pacific Economic Cooperation (APEC) meeting, which has been overshadowed by the concurrent Paris attacks, call on governments to urgently increase cooperation in the fight against terrorism. ](/news/2015/11/19/asia-pacific-leaders-in-the-philippines-for-the-2015-asia-pacific-economic-cooperation-apec-meeting-which-has-been-overshadowed-by-the-c.md) _Context: Asia Pacific, Philippines_
+5. [Celebrity British lawyer Amal Clooney files a case in the United Nations on behalf of former Philippines President Gloria Macapagal-Arroyo. ](/news/2015/03/9/celebrity-british-lawyer-amal-clooney-files-a-case-in-the-united-nations-on-behalf-of-former-philippines-president-gloria-macapagal-arroyo.md) _Context: Philippines, United Nations_

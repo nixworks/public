@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/21/nasa-astronauts-perform-one-of-three-iss-spacewalks-to-reroute-cables-needed-in-preparation-for-the-2017-arrival-of-the-first-commercial-spa.html)  [JSON](/news/2015/02/21/nasa-astronauts-perform-one-of-three-iss-spacewalks-to-reroute-cables-needed-in-preparation-for-the-2017-arrival-of-the-first-commercial-spa.json)  [XML](/news/2015/02/21/nasa-astronauts-perform-one-of-three-iss-spacewalks-to-reroute-cables-needed-in-preparation-for-the-2017-arrival-of-the-first-commercial-spa.xml)  
+
 ### [2015-02-21](/news/2015/02/21/index.md)
 
+##### ISS
 # NASA astronauts perform one of three ISS spacewalks to reroute cables needed in preparation for the 2017 arrival of the first commercial spacecraft capable of transporting astronauts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/1d1a46522b054fb69fb03e6a4778a126/spacewalking-astronauts-turn-cable-guys-1st-3-jobs)
 

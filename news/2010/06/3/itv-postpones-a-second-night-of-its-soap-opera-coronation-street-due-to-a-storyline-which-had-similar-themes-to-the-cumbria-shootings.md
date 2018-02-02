@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/3/itv-postpones-a-second-night-of-its-soap-opera-coronation-street-due-to-a-storyline-which-had-similar-themes-to-the-cumbria-shootings.html)  [JSON](/news/2010/06/3/itv-postpones-a-second-night-of-its-soap-opera-coronation-street-due-to-a-storyline-which-had-similar-themes-to-the-cumbria-shootings.json)  [XML](/news/2010/06/3/itv-postpones-a-second-night-of-its-soap-opera-coronation-street-due-to-a-storyline-which-had-similar-themes-to-the-cumbria-shootings.xml)  
+
 ### [2010-06-3](/news/2010/06/3/index.md)
 
+##### ITV
 # ITV postpones a second night of its soap opera "Coronation Street" due to a storyline which had similar themes to the Cumbria shootings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8719224.stm)
 2. [The Guardian](http://www.guardian.co.uk/media/2010/jun/03/tv-ratings-coronation-street)

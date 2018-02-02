@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/29/a-white-house-official-resigns-after-admitting-to-plagiarism-in-columns-published-by-the-fort-wayne-indiana-news-sentinel.html)  [JSON](/news/2008/02/29/a-white-house-official-resigns-after-admitting-to-plagiarism-in-columns-published-by-the-fort-wayne-indiana-news-sentinel.json)  [XML](/news/2008/02/29/a-white-house-official-resigns-after-admitting-to-plagiarism-in-columns-published-by-the-fort-wayne-indiana-news-sentinel.xml)  
+
 ### [2008-02-29](/news/2008/02/29/index.md)
 
+##### White House
 #  A White House official resigns after admitting to plagiarism in columns published by the Fort Wayne, Indiana "News-Sentinel". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5jPnJEKnOLwlqyKGml3PVpBF2MH0gD8V49P7O1)
 

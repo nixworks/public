@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/2/corruption-charges-against-former-premier-of-western-australia-brian-burke-are-dropped.html)  [JSON](/news/2012/02/2/corruption-charges-against-former-premier-of-western-australia-brian-burke-are-dropped.json)  [XML](/news/2012/02/2/corruption-charges-against-former-premier-of-western-australia-brian-burke-are-dropped.xml)  
+
 ### [2012-02-2](/news/2012/02/2/index.md)
 
+##### Premier
 # Corruption charges against former Premier of Western Australia Brian Burke are dropped. 
 
 Corruption charges against former West Australian Labor premier Brian Burke have been dropped.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2012-02-02/corruption-charges-against-former-premier-dropped/3807412/?site=&source=rss)
 1. [Cover Image](http://www.abc.net.au/news/image/1121692-1x1-700x700.jpg)

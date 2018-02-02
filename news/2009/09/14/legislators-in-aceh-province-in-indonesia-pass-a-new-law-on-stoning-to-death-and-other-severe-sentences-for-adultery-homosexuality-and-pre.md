@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/14/legislators-in-aceh-province-in-indonesia-pass-a-new-law-on-stoning-to-death-and-other-severe-sentences-for-adultery-homosexuality-and-pre.html)  [JSON](/news/2009/09/14/legislators-in-aceh-province-in-indonesia-pass-a-new-law-on-stoning-to-death-and-other-severe-sentences-for-adultery-homosexuality-and-pre.json)  [XML](/news/2009/09/14/legislators-in-aceh-province-in-indonesia-pass-a-new-law-on-stoning-to-death-and-other-severe-sentences-for-adultery-homosexuality-and-pre.xml)  
+
 ### [2009-09-14](/news/2009/09/14/index.md)
 
+##### Aceh
 #  Legislators in Aceh province in Indonesia pass a new law on stoning to death and other severe sentences for adultery, homosexuality and premarital sex. 
 
 Parliament approves law with stoning punishment for adultery, despite opposition.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/200991418142587643.html)
 2. [Jakarta Post](http://www.thejakartapost.com/news/2009/09/14/indonesia039s-aceh-passes-law-stoning-death.html)

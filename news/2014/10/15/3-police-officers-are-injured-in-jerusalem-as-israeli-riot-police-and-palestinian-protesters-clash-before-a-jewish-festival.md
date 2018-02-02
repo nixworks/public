@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/15/3-police-officers-are-injured-in-jerusalem-as-israeli-riot-police-and-palestinian-protesters-clash-before-a-jewish-festival.html)  [JSON](/news/2014/10/15/3-police-officers-are-injured-in-jerusalem-as-israeli-riot-police-and-palestinian-protesters-clash-before-a-jewish-festival.json)  [XML](/news/2014/10/15/3-police-officers-are-injured-in-jerusalem-as-israeli-riot-police-and-palestinian-protesters-clash-before-a-jewish-festival.xml)  
+
 ### [2014-10-15](/news/2014/10/15/index.md)
 
+##### Jerusalem
 # 3 police officers are injured in Jerusalem as Israeli riot police and Palestinian protesters clash before a Jewish festival. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Miami Herald](http://www.miamiherald.com/news/nation-world/article2802858.html)
 

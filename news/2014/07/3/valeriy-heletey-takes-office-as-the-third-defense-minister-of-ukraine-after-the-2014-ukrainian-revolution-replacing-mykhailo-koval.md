@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/3/valeriy-heletey-takes-office-as-the-third-defense-minister-of-ukraine-after-the-2014-ukrainian-revolution-replacing-mykhailo-koval.html)  [JSON](/news/2014/07/3/valeriy-heletey-takes-office-as-the-third-defense-minister-of-ukraine-after-the-2014-ukrainian-revolution-replacing-mykhailo-koval.json)  [XML](/news/2014/07/3/valeriy-heletey-takes-office-as-the-third-defense-minister-of-ukraine-after-the-2014-ukrainian-revolution-replacing-mykhailo-koval.xml)  
+
 ### [2014-07-3](/news/2014/07/3/index.md)
 
+##### Valeriy Heletey
 # Valeriy Heletey takes office as the third Defense Minister of Ukraine after the 2014 Ukrainian revolution, replacing Mykhailo Koval 
 
 The Ukrainian Verkhovna Rada has appointed Valeriy Heletei defense minister of Ukraine based on the president&#39;s recommendation.
 
 
-### Source:
+### Sources:
 
 1. [Interfax Ukraine](http://en.interfax.com.ua/news/general/211936.html)
 1. [Cover Image](http://images.interfax.com.ua/img/2410_220235.jpg)

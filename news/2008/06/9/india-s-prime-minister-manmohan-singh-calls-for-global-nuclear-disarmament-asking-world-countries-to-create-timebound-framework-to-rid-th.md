@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/9/india-s-prime-minister-manmohan-singh-calls-for-global-nuclear-disarmament-asking-world-countries-to-create-timebound-framework-to-rid-th.html)  [JSON](/news/2008/06/9/india-s-prime-minister-manmohan-singh-calls-for-global-nuclear-disarmament-asking-world-countries-to-create-timebound-framework-to-rid-th.json)  [XML](/news/2008/06/9/india-s-prime-minister-manmohan-singh-calls-for-global-nuclear-disarmament-asking-world-countries-to-create-timebound-framework-to-rid-th.xml)  
+
 ### [2008-06-9](/news/2008/06/9/index.md)
 
+##### India
 #  India's prime minister Manmohan Singh calls for global nuclear disarmament asking world countries to create 'timebound framework' to rid the world of atomic weapons. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA](http://www.voanews.com/english/2008-06-09-voa13.cfm)
 

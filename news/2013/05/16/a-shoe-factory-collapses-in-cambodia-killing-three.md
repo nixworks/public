@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/16/a-shoe-factory-collapses-in-cambodia-killing-three.html)  [JSON](/news/2013/05/16/a-shoe-factory-collapses-in-cambodia-killing-three.json)  [XML](/news/2013/05/16/a-shoe-factory-collapses-in-cambodia-killing-three.xml)  
+
 ### [2013-05-16](/news/2013/05/16/index.md)
 
+##### Cambodia
 # A shoe factory collapses in Cambodia, killing three. 
 
 Three people were killed when the ceiling of a warehouse fell in at a shoe factory in Cambodia, a government minister said on Thursday, adding to concern about safety standards at Asian factories producing clothes cheaply for Western consumers.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2013/05/16/uk-cambodia-collapse-idUKBRE94F04M20130516)
 1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130516&t=2&i=732227232&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE94F0LGU00)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/24/an-israeli-made-drone-is-shot-down-near-the-natanz-nuclear-enrichment-facility-by-army-of-the-guardians-of-the-islamic-revolution.html)  [JSON](/news/2014/08/24/an-israeli-made-drone-is-shot-down-near-the-natanz-nuclear-enrichment-facility-by-army-of-the-guardians-of-the-islamic-revolution.json)  [XML](/news/2014/08/24/an-israeli-made-drone-is-shot-down-near-the-natanz-nuclear-enrichment-facility-by-army-of-the-guardians-of-the-islamic-revolution.xml)  
+
 ### [2014-08-24](/news/2014/08/24/index.md)
 
+##### Natanz nuclear enrichment facility
 # An Israeli-made drone is shot down near the Natanz nuclear enrichment facility by Army of the Guardians of the Islamic Revolution. 
 
 Iran said on Sunday it had shot down an Israeli spy drone that was heading for its Natanz nuclear enrichment site, Iranian media reported.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://www.aljazeera.com/news/middleeast/2014/08/iran-israeli-drone-2014824132116380133.html)
 2. [BBC News](http://www.bbc.co.uk/news/world-middle-east-28920361)

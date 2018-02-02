@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/29/a-court-in-angola-sentences-joao-antonio-puati-to-24-years-imprisonment-after-convicting-him-in-relation-to-the-togo-national-football-team.html)  [JSON](/news/2010/12/29/a-court-in-angola-sentences-joao-antonio-puati-to-24-years-imprisonment-after-convicting-him-in-relation-to-the-togo-national-football-team.json)  [XML](/news/2010/12/29/a-court-in-angola-sentences-joao-antonio-puati-to-24-years-imprisonment-after-convicting-him-in-relation-to-the-togo-national-football-team.xml)  
+
 ### [2010-12-29](/news/2010/12/29/index.md)
 
+##### Angola
 # A court in Angola sentences Joao Antonio Puati to 24 years imprisonment after convicting him in relation to the Togo national football team attack last January. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12089644)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

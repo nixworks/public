@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/21/prisoners-in-the-u-s-state-of-georgia-in-particular-inmates-of-united-states-penitentiary-atlanta-start-protesting.html)  [JSON](/news/2011/02/21/prisoners-in-the-u-s-state-of-georgia-in-particular-inmates-of-united-states-penitentiary-atlanta-start-protesting.json)  [XML](/news/2011/02/21/prisoners-in-the-u-s-state-of-georgia-in-particular-inmates-of-united-states-penitentiary-atlanta-start-protesting.xml)  
+
 ### [2011-02-21](/news/2011/02/21/index.md)
 
+##### Georgia
 # Prisoners in the U.S. state of Georgia, in particular inmates of United States Penitentiary, Atlanta, start protesting. 
 
 The U.S., with 4.5 percent of the world’s population and 25 percent of the world’s prisoners, is the world’s first prison state. Too long have we tolerated this backsliding from the great advances of the ‘60s. When we are presented with a clear case of retaliation, we must protest.
 
 
-### Source:
+### Sources:
 
 1. [AP via SanFranciscoBay](http://sfbayview.com/2011/protest-retaliation-against-georgia-prisoners)
 1. [Cover Image](http://sfbayview.com/wp-content/uploads/2011/02/Georgia-State-Prison-Reidsville.jpg)

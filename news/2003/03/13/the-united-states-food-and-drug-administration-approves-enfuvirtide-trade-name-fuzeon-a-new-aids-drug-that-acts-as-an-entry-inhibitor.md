@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/13/the-united-states-food-and-drug-administration-approves-enfuvirtide-trade-name-fuzeon-a-new-aids-drug-that-acts-as-an-entry-inhibitor.html)  [JSON](/news/2003/03/13/the-united-states-food-and-drug-administration-approves-enfuvirtide-trade-name-fuzeon-a-new-aids-drug-that-acts-as-an-entry-inhibitor.json)  [XML](/news/2003/03/13/the-united-states-food-and-drug-administration-approves-enfuvirtide-trade-name-fuzeon-a-new-aids-drug-that-acts-as-an-entry-inhibitor.xml)  
+
 ### [2003-03-13](/news/2003/03/13/index.md)
 
+##### Food and Drug Administration
 #  The United States Food and Drug Administration approves Enfuvirtide (trade name Fuzeon), a new AIDS drug that acts as an entry inhibitor.
 
 

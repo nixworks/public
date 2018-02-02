@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/21/the-cuban-parliament-approves-moving-the-countr
 
 ### [2017-12-21](/news/2017/12/21/index.md)
 
+##### Elections in Cuba
 # The Cuban Parliament approves moving the country's municipal elections to March, and the presidential election to April, when President Raul Castro is expected to step down. 
 
 

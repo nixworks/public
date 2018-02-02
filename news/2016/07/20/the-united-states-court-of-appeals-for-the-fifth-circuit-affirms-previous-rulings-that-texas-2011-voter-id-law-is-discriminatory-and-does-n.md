@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/20/the-united-states-court-of-appeals-for-the-fift
 
 ### [2016-07-20](/news/2016/07/20/index.md)
 
+##### 2016 U.S. presidential election
 # The United States Court of Appeals for the Fifth Circuit affirms previous rulings that Texas' 2011 voter ID law is discriminatory and does not comply with the Voting Rights Act, and orders a lower court to resolve the problem in time for the November elections. 
 
 A Texas law requiring voters to show a government-issued form of photo identification before casting a ballot is discriminatory and violates the U.S. Voting Rights Act, a U.S. appeals court ruled on Wednesday.

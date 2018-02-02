@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/17/kim-jong-nam-half-brother-of-new-north-korean-leader-kim-jong-un-predicts-the-regime-will-fall-if-reforms-are-not-made-soon.html)  [JSON](/news/2012/01/17/kim-jong-nam-half-brother-of-new-north-korean-leader-kim-jong-un-predicts-the-regime-will-fall-if-reforms-are-not-made-soon.json)  [XML](/news/2012/01/17/kim-jong-nam-half-brother-of-new-north-korean-leader-kim-jong-un-predicts-the-regime-will-fall-if-reforms-are-not-made-soon.xml)  
+
 ### [2012-01-17](/news/2012/01/17/index.md)
 
+##### Kim Jong-nam
 # Kim Jong-nam, half-brother of new North Korean leader Kim Jong-un, predicts the regime will fall if reforms are not made soon. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2012/01/17/Kim-Jong-Uns-brother-Regime-will-fall/UPI-26611326835069/?spt=hts&or=1)
 1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/26611326835069/2012/1/8fa70092d7b48885922cd697ab051881/v2.1/Kim-Jong-Uns-brother-Regime-will-fall.jpg)

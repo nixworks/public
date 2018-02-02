@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/3/mike-nesbitt-announces-he-is-standing-down-as-le
 
 ### [2017-03-3](/news/2017/03/3/index.md)
 
+##### Northern Ireland Assembly election, 2017
 # Mike Nesbitt announces he is standing down as leader of the Ulster Unionist Party (UUP) following the party's poor performance in yesterday's Northern Ireland Assembly election. 
 
 

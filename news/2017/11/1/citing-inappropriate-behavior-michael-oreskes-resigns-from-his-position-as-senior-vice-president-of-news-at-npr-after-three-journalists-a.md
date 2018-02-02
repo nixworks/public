@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/1/citing-inappropriate-behavior-michael-oreskes-re
 
 ### [2017-11-1](/news/2017/11/1/index.md)
 
+##### NPR controversies
 # Citing "inappropriate behavior", Michael Oreskes resigns from his position as senior vice president of news at NPR after three journalists accuse him of sexual harassment. 
 
 NPR put executive Michael Oreskes on leave after the Washington Post reported decades-old allegations of sexual harassment against two journalists while working at the New York Times.

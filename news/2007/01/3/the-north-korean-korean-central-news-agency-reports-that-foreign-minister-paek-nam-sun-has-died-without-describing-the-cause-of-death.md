@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/3/the-north-korean-korean-central-news-agency-reports-that-foreign-minister-paek-nam-sun-has-died-without-describing-the-cause-of-death.html)  [JSON](/news/2007/01/3/the-north-korean-korean-central-news-agency-reports-that-foreign-minister-paek-nam-sun-has-died-without-describing-the-cause-of-death.json)  [XML](/news/2007/01/3/the-north-korean-korean-central-news-agency-reports-that-foreign-minister-paek-nam-sun-has-died-without-describing-the-cause-of-death.xml)  
+
 ### [2007-01-3](/news/2007/01/3/index.md)
 
+##### North Korea
 #  The North Korean Korean Central News Agency reports that Foreign Minister Paek Nam-sun has died, without describing the cause of death. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6227151.stm)
 

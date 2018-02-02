@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/14/the-italian-coast-guard-finds-the-dead-bodies-of-14-illegal-immigrants-near-the-shores-of-the-lampedusa-island.html)  [JSON](/news/2007/08/14/the-italian-coast-guard-finds-the-dead-bodies-of-14-illegal-immigrants-near-the-shores-of-the-lampedusa-island.json)  [XML](/news/2007/08/14/the-italian-coast-guard-finds-the-dead-bodies-of-14-illegal-immigrants-near-the-shores-of-the-lampedusa-island.xml)  
+
 ### [2007-08-14](/news/2007/08/14/index.md)
 
+##### Italy
 #  The Italian coast guard finds the dead bodies of 14 illegal immigrants near the shores of the Lampedusa island. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6946643.stm)
 

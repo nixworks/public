@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/20/the-prime-minister-of-greece-alexis-tsipras-announces-his-resignation-and-calls-a-new-election-for-september-20.html)  [JSON](/news/2015/08/20/the-prime-minister-of-greece-alexis-tsipras-announces-his-resignation-and-calls-a-new-election-for-september-20.json)  [XML](/news/2015/08/20/the-prime-minister-of-greece-alexis-tsipras-announces-his-resignation-and-calls-a-new-election-for-september-20.xml)  
+
 ### [2015-08-20](/news/2015/08/20/index.md)
 
+##### Greek Prime Minister
 # The Prime Minister of Greece, Alexis Tsipras, announces his resignation and calls a new election for September 20. 
 
 Embattled prime minister faces Left wing split after standing down and calling new election over punishing new bail-out agreement - latest
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/08/greek-pm-resign-calls-early-elections-150820134253968.html)
 2. [BBC](http://www.bbc.com/news/world-europe-34007859)

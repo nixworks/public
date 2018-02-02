@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/31/israeli-prime-minister-benjamin-netanyahu-retracts-controversial-comments-he-made-about-nazi-policies-during-world-war-2-saying-he-never-me.html)  [JSON](/news/2015/10/31/israeli-prime-minister-benjamin-netanyahu-retracts-controversial-comments-he-made-about-nazi-policies-during-world-war-2-saying-he-never-me.json)  [XML](/news/2015/10/31/israeli-prime-minister-benjamin-netanyahu-retracts-controversial-comments-he-made-about-nazi-policies-during-world-war-2-saying-he-never-me.xml)  
+
 ### [2015-10-31](/news/2015/10/31/index.md)
 
+##### Israeli Prime Minister
 # Israeli Prime Minister Benjamin Netanyahu retracts controversial comments he made about Nazi policies during World War 2, saying he never meant to claim that an Islamic leader Amin al-Husseini persuaded Adolf Hitler to adopt a policy to kill European Jews. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2015/10/31/world/netanyahu-hitler-grand-mufti-holocaust/index.html)
 

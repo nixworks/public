@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/10/the-australian-research-council-reports-that-tw
 
 ### [2017-04-10](/news/2017/04/10/index.md)
 
+##### Australian Research Council
 # The Australian Research Council reports that two thirds of the Great Barrier Reef have suffered from severe coral bleaching, denoting a second consecutive year of severe bleaching. 
 
 Two-thirds of the Great Barrier Reef is now devastated by severe coral bleaching, Queensland scientists say.

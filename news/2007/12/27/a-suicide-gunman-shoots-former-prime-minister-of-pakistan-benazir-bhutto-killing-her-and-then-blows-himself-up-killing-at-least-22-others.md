@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/12/27/a-suicide-gunman-shoots-former-prime-minister-of-pakistan-benazir-bhutto-killing-her-and-then-blows-himself-up-killing-at-least-22-others.html)  [JSON](/news/2007/12/27/a-suicide-gunman-shoots-former-prime-minister-of-pakistan-benazir-bhutto-killing-her-and-then-blows-himself-up-killing-at-least-22-others.json)  [XML](/news/2007/12/27/a-suicide-gunman-shoots-former-prime-minister-of-pakistan-benazir-bhutto-killing-her-and-then-blows-himself-up-killing-at-least-22-others.xml)  
+
 ### [2007-12-27](/news/2007/12/27/index.md)
 
+##### Assassination of Benazir Bhutto
 #  A suicide gunman shoots former Prime Minister of Pakistan Benazir Bhutto, killing her, and then blows himself up killing at least 22 others at an election rally in Rawalpindi, Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20071227/ap_on_re_as/pakistan)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20071227/ap_on_re_as/pakistan)
 2. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7161489.stm)
 
 ### Related:

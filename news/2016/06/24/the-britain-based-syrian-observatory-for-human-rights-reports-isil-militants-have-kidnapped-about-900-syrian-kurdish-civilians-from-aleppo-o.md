@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/24/the-britain-based-syrian-observatory-for-human-
 
 ### [2016-06-24](/news/2016/06/24/index.md)
 
+##### Syrian Civil War
 # The Britain-based Syrian Observatory for Human Rights reports ISIL militants have kidnapped about 900 Syrian Kurdish civilians from Aleppo over the past three weeks in retaliation for the Kurdish and US-backed Syrian Democratic Forces attack on Manbij. The captives are being forced to build fortifications for the extremists. At least 26 of those abducted reportedly have been killed for refusing to follow ISIL orders. 
 
 Islamic State (ISIS) militants abducted about 900 Kurdish civilians in the northern Syrian province of Aleppo over the past three weeks, forcing the captives to build fortifications for the extremists in retaliation for a Kurdish-led assault on a nearby ISIS stronghold, activists said Friday.

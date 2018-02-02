@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/27/a-landslide-hits-la-paz-bolivia-after-rains-killed-44-people.html)  [JSON](/news/2011/02/27/a-landslide-hits-la-paz-bolivia-after-rains-killed-44-people.json)  [XML](/news/2011/02/27/a-landslide-hits-la-paz-bolivia-after-rains-killed-44-people.xml)  
+
 ### [2011-02-27](/news/2011/02/27/index.md)
 
+##### La Paz
 # A landslide hits La Paz, Bolivia, after rains killed 44 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN International](http://edition.cnn.com/2011/WORLD/americas/02/28/bolivia.landslide/?hpt=T2)
 2. [Media with Conscience](http://mwcnews.net/news/americas/8998-bolivian-aid-for-landslide-homeless.html)

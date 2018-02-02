@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/16/former-rutgers-university-student-dharun-ravi-is-found-guilty-of-a-hate-crime-and-invasion-of-privacy-for-his-role-in-the-suicide-of-tyler-c.html)  [JSON](/news/2012/03/16/former-rutgers-university-student-dharun-ravi-is-found-guilty-of-a-hate-crime-and-invasion-of-privacy-for-his-role-in-the-suicide-of-tyler-c.json)  [XML](/news/2012/03/16/former-rutgers-university-student-dharun-ravi-is-found-guilty-of-a-hate-crime-and-invasion-of-privacy-for-his-role-in-the-suicide-of-tyler-c.xml)  
+
 ### [2012-03-16](/news/2012/03/16/index.md)
 
+##### Rutgers University
 # Former Rutgers University student Dharun Ravi is found guilty of a hate crime and invasion of privacy for his role in the suicide of Tyler Clementi. 
 
 A US student who used a webcam to secretly film his room-mate in a gay encounter is found guilty of hate crime and invasion of privacy.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17406173)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59130000/jpg/_59130625_59130624.jpg)

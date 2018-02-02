@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/12/the-prime-minister-of-new-zealand-helen-clark-calls-an-election-for-november-8.html)  [JSON](/news/2008/09/12/the-prime-minister-of-new-zealand-helen-clark-calls-an-election-for-november-8.json)  [XML](/news/2008/09/12/the-prime-minister-of-new-zealand-helen-clark-calls-an-election-for-november-8.xml)  
+
 ### [2008-09-12](/news/2008/09/12/index.md)
 
+##### Prime Minister
 #  The Prime Minister of New Zealand Helen Clark calls an election for November 8. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Melbourne Herald Sun](http://www.news.com.au/heraldsun/story/0,21985,24334188-661,00.html)
 

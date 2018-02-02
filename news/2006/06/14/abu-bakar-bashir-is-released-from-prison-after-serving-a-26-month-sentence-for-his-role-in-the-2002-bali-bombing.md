@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/14/abu-bakar-bashir-is-released-from-prison-after-serving-a-26-month-sentence-for-his-role-in-the-2002-bali-bombing.html)  [JSON](/news/2006/06/14/abu-bakar-bashir-is-released-from-prison-after-serving-a-26-month-sentence-for-his-role-in-the-2002-bali-bombing.json)  [XML](/news/2006/06/14/abu-bakar-bashir-is-released-from-prison-after-serving-a-26-month-sentence-for-his-role-in-the-2002-bali-bombing.xml)  
+
 ### [2006-06-14](/news/2006/06/14/index.md)
 
+##### Abu Bakar Bashir
 #  Abu Bakar Bashir is released from prison after serving a 26 month sentence for his role in the 2002 Bali bombing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/06/13/bakar.release/index.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/27/south-korea-proposes-regular-reunions-of-families-separated-by-the-korean-war-to-north-korea.html)  [JSON](/news/2009/08/27/south-korea-proposes-regular-reunions-of-families-separated-by-the-korean-war-to-north-korea.json)  [XML](/news/2009/08/27/south-korea-proposes-regular-reunions-of-families-separated-by-the-korean-war-to-north-korea.xml)  
+
 ### [2009-08-27](/news/2009/08/27/index.md)
 
+##### South Korea
 #  South Korea proposes regular reunions of families separated by the Korean War to North Korea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jjz-1FsdSMQjYDWp3qoa60B4b_jwD9AB48BG0)
 2. [Times of India](http://timesofindia.indiatimes.com/news/world/rest-of-world/SKorea-presses-NKorea-for-more-reunions/articleshow/4939812.cms)

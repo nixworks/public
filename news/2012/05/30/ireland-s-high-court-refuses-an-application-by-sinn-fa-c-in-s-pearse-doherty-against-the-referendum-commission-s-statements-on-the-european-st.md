@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/30/ireland-s-high-court-refuses-an-application-by-sinn-fa-c-in-s-pearse-doherty-against-the-referendum-commission-s-statements-on-the-european-st.html)  [JSON](/news/2012/05/30/ireland-s-high-court-refuses-an-application-by-sinn-fa-c-in-s-pearse-doherty-against-the-referendum-commission-s-statements-on-the-european-st.json)  [XML](/news/2012/05/30/ireland-s-high-court-refuses-an-application-by-sinn-fa-c-in-s-pearse-doherty-against-the-referendum-commission-s-statements-on-the-european-st.xml)  
+
 ### [2012-05-30](/news/2012/05/30/index.md)
 
+##### High Court
 # Ireland's High Court refuses an application by Sinn Fein's Pearse Doherty against the Referendum Commission's statements on the European Stability Mechanism, as voting continues on offshore islands in the referendum on the European Fiscal Compact. 
 
 The High Court has refused an application by a Sinn Féin TD seeking to have the Referendum Commission withdraw some remarks it made earlier this month.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2012/0530/fiscal-treaty-referendum.html)
 1. [Cover Image](https://img.rasset.ie/000522a3-1600.jpg)

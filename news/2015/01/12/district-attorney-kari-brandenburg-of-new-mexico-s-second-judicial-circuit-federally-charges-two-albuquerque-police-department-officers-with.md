@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/12/district-attorney-kari-brandenburg-of-new-mexico-s-second-judicial-circuit-federally-charges-two-albuquerque-police-department-officers-with.html)  [JSON](/news/2015/01/12/district-attorney-kari-brandenburg-of-new-mexico-s-second-judicial-circuit-federally-charges-two-albuquerque-police-department-officers-with.json)  [XML](/news/2015/01/12/district-attorney-kari-brandenburg-of-new-mexico-s-second-judicial-circuit-federally-charges-two-albuquerque-police-department-officers-with.xml)  
+
 ### [2015-01-12](/news/2015/01/12/index.md)
 
+##### Albuquerque Police Department
 # District Attorney Kari Brandenburg of New Mexico's Second Judicial Circuit federally charges two Albuquerque Police Department officers with murder in the March 16, 2014 shooting death of James Boyd in Albuquerque, New Mexico, U.S. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2015/01/12/us/albuquerque-police-murder-charges/)
 

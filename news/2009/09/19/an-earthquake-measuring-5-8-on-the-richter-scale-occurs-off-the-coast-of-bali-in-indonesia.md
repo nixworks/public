@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/19/an-earthquake-measuring-5-8-on-the-richter-scale-occurs-off-the-coast-of-bali-in-indonesia.html)  [JSON](/news/2009/09/19/an-earthquake-measuring-5-8-on-the-richter-scale-occurs-off-the-coast-of-bali-in-indonesia.json)  [XML](/news/2009/09/19/an-earthquake-measuring-5-8-on-the-richter-scale-occurs-off-the-coast-of-bali-in-indonesia.xml)  
+
 ### [2009-09-19](/news/2009/09/19/index.md)
 
+##### earthquake
 #  An earthquake measuring 5.8 on the Richter scale occurs off the coast of Bali in Indonesia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8264169.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/19/jordanian-troops-detect-and-intercept-four-unidentified-individuals-attempting-to-infiltrate-to-the-western-side-of-the-jordan-river-isr.html)  [JSON](/news/2004/07/19/jordanian-troops-detect-and-intercept-four-unidentified-individuals-attempting-to-infiltrate-to-the-western-side-of-the-jordan-river-isr.json)  [XML](/news/2004/07/19/jordanian-troops-detect-and-intercept-four-unidentified-individuals-attempting-to-infiltrate-to-the-western-side-of-the-jordan-river-isr.xml)  
+
 ### [2004-07-19](/news/2004/07/19/index.md)
 
+##### Jordan
 #  Jordanian troops detect and intercept four unidentified individuals attempting to "infiltrate to the western side of the Jordan River" (Israel). Three are killed and the fourth arrested. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [JNA](http://www.petra.gov.jo/nepras/2004/Jul/19/20453600.htm)
 

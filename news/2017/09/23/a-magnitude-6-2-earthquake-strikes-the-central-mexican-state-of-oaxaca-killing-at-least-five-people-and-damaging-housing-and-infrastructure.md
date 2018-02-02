@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/23/a-magnitude-6-2-earthquake-strikes-the-central-
 
 ### [2017-09-23](/news/2017/09/23/index.md)
 
+##### Earthquakes in 2017
 # A magnitude 6.2 earthquake strikes the central Mexican state of Oaxaca killing at least five people and damaging housing and infrastructure already damaged by Tuesday's 2017 Central Mexico earthquake. 
 
 A new earthquake with a magnitude of 6.1 has hit Mexico, just days after another devastating tremor left 295 people dead.

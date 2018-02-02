@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2009/02/11/u-s-democrat-john-dingell-of-michigan-becomes-the-house-of-representatives-longest-serving-member.html)  [JSON](/news/2009/02/11/u-s-democrat-john-dingell-of-michigan-becomes-the-house-of-representatives-longest-serving-member.json)  [XML](/news/2009/02/11/u-s-democrat-john-dingell-of-michigan-becomes-the-house-of-representatives-longest-serving-member.xml)  
+
 ### [2009-02-11](/news/2009/02/11/index.md)
 
+##### U.S.
 #  U.S. Democrat John Dingell of Michigan becomes the House of Representatives' longest-serving member. 
 
 Michigan Democrat John Dingell today becomes the longest-serving member of the House in history.
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/blogs/politicaljunkie/2009/02/john_dingell_longest_serving_h.html)
 1. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)
 
 ### Related:
 
-1. [ Mary Jo Kilroy wins the final outstanding United States House of Representatives seat in the 2008 general elections by capturing the 15th congressional district of Ohio. This translates to an overall gain of 21 seats for the Democratic Party in the House. ](/news/2008/12/7/mary-jo-kilroy-wins-the-final-outstanding-united-states-house-of-representatives-seat-in-the-2008-general-elections-by-capturing-the-15th-c.md) _Context: Democratic, United States, United States House of Representatives_
-2. [ Iraq War: A report by the U.S. Defense Department's inspector general has found the The Pentagon "purposely manipulated" pre-war intelligence. Senator Carl Levin, D-MI, as chair of the Senate Armed Services Committee has called the report "very damning" and said of its results, "highly disturbing". ](/news/2007/02/9/iraq-war-a-report-by-the-u-s-defense-department-s-inspector-general-has-found-the-the-pentagon-purposely-manipulated-pre-war-intelligen.md) _Context: Democratic, Michigan, United States_
-3. [In an official dinner hosted by the United States President, Donald Trump and leaders of the Democratic party Chuck Schumer and Nancy Pelosi agree to fix DACA but disagree with the details, with Trump denying on Twitter the following day that a deal had been made which excluded funding for his proposed wall on the Mexico-United States border. ](/news/2017/09/13/in-an-official-dinner-hosted-by-the-united-states-president-donald-trump-and-leaders-of-the-democratic-party-chuck-schumer-and-nancy-pelosi.md) _Context: Democratic, United States_
-4. [The Republican-controlled United States House of Representatives votes in favor of the repeal of the 2010 Patient Protection and Affordable Care Act and passage of the House's 2017 American Health Care Act, by a narrow, 217-213 vote. Twenty Republicans and all Democrats opposed the bill, which now heads to the United States Senate for its legislative action. ](/news/2017/05/4/the-republican-controlled-united-states-house-of-representatives-votes-in-favor-of-the-repeal-of-the-2010-patient-protection-and-affordable.md) _Context: Democratic, United States House of Representatives_
-5. [Democratic candidates face off with Republican candidates in a primary for a U.S. House seat vacated by Tom Price, now Health and Human Services Secretary, in a suburb of Atlanta, Georgia. ](/news/2017/04/18/democratic-candidates-face-off-with-republican-candidates-in-a-primary-for-a-u-s-house-seat-vacated-by-tom-price-now-health-and-human-serv.md) _Context: Democratic, United States House of Representatives_
+1. [U.S. Representative John Conyers (D-Mich.) steps down amid allegations of sexual harassment. ](/news/2017/12/5/u-s-representative-john-conyers-d-mich-steps-down-amid-allegations-of-sexual-harassment.md) _Context: Democrat, House of Representatives, Mich._
+2. [ Mary Jo Kilroy wins the final outstanding United States House of Representatives seat in the 2008 general elections by capturing the 15th congressional district of Ohio. This translates to an overall gain of 21 seats for the Democratic Party in the House. ](/news/2008/12/7/mary-jo-kilroy-wins-the-final-outstanding-united-states-house-of-representatives-seat-in-the-2008-general-elections-by-capturing-the-15th-c.md) _Context: Democrat, House of Representatives, U.S._
+3. [ Iraq War: A report by the U.S. Defense Department's inspector general has found the The Pentagon "purposely manipulated" pre-war intelligence. Senator Carl Levin, D-MI, as chair of the Senate Armed Services Committee has called the report "very damning" and said of its results, "highly disturbing". ](/news/2007/02/9/iraq-war-a-report-by-the-u-s-defense-department-s-inspector-general-has-found-the-the-pentagon-purposely-manipulated-pre-war-intelligen.md) _Context: Democrat, Mich., U.S._
+4. [Trent Franks, a United States representative for Arizona's 8th congressional district, announces his immediate resignation, following allegations that he asked a female staffer to be a surrogate mother for him. Franks previously announced that he would resign from Congress in January 2018. ](/news/2017/12/8/trent-franks-a-united-states-representative-for-arizona-s-8th-congressional-district-announces-his-immediate-resignation-following-allega.md) _Context: House of Representatives, U.S._
+5. [The United States Senate and House of Representatives pass the Tax Cuts and Jobs Act of 2017, which sends it to United States President Donald Trump for signing. This comes after a previous and different version of this legislation was passed by the House yesterday. The law removes the individual insurance mandate from Obamacare. ](/news/2017/12/20/the-united-states-senate-and-house-of-representatives-pass-the-tax-cuts-and-jobs-act-of-2017-which-sends-it-to-united-states-president-dona.md) _Context: House of Representatives, U.S._

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/1/former-progressive-cardinal-carlo-maria-martini-describes-the-catholic-church-as-200-years-behind-the-times-in-an-interview-published-the.html)  [JSON](/news/2012/09/1/former-progressive-cardinal-carlo-maria-martini-describes-the-catholic-church-as-200-years-behind-the-times-in-an-interview-published-the.json)  [XML](/news/2012/09/1/former-progressive-cardinal-carlo-maria-martini-describes-the-catholic-church-as-200-years-behind-the-times-in-an-interview-published-the.xml)  
+
 ### [2012-09-1](/news/2012/09/1/index.md)
 
+##### Carlo Maria Martini
 # Former progressive Cardinal Carlo Maria Martini describes the Catholic Church as "200 years behind the times" in an interview published the day after his death. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://religion.blogs.cnn.com/2012/09/01/catholic-church-200-years-behind-cardinal-says-before-death/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/22/china-is-to-ordain-seven-more-bishops-amid-a-dispute-with-the-vatican.html)  [JSON](/news/2011/07/22/china-is-to-ordain-seven-more-bishops-amid-a-dispute-with-the-vatican.json)  [XML](/news/2011/07/22/china-is-to-ordain-seven-more-bishops-amid-a-dispute-with-the-vatican.xml)  
+
 ### [2011-07-22](/news/2011/07/22/index.md)
 
+##### China
 # China is to ordain seven more bishops, amid a dispute with the Vatican. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gvPSXjNKh7D72SbxbI1F8SLBfYJw?docId=CNG.26cec8d6a9efdb370c891ccc087d73a1.511)
 

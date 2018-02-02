@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/18/darfur-conflict-the-african-union-has-given-both-sides-involved-in-the-darfur-conflict-a-deadline-of-1700-gmt-to-halt-the-fighting-in-the.html)  [JSON](/news/2004/12/18/darfur-conflict-the-african-union-has-given-both-sides-involved-in-the-darfur-conflict-a-deadline-of-1700-gmt-to-halt-the-fighting-in-the.json)  [XML](/news/2004/12/18/darfur-conflict-the-african-union-has-given-both-sides-involved-in-the-darfur-conflict-a-deadline-of-1700-gmt-to-halt-the-fighting-in-the.xml)  
+
 ### [2004-12-18](/news/2004/12/18/index.md)
 
+##### Darfur conflict
 #  Darfur conflict: The African Union has given both sides involved in the Darfur conflict a deadline of 1700 GMT to halt the fighting in the region which currently violates the ceasefire agreement. If this condition is not met, talks in Nigeria to find a solution to the conflict would end. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4107145.stm)
 

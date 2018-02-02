@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/4/after-estonian-minister-of-culture-rein-langa-s-resignation-new-minister-urve-tiidus-takes-office-after-president-toomas-hendrik-ilv.html)  [JSON](/news/2013/12/4/after-estonian-minister-of-culture-rein-langa-s-resignation-new-minister-urve-tiidus-takes-office-after-president-toomas-hendrik-ilv.json)  [XML](/news/2013/12/4/after-estonian-minister-of-culture-rein-langa-s-resignation-new-minister-urve-tiidus-takes-office-after-president-toomas-hendrik-ilv.xml)  
+
 ### [2013-12-4](/news/2013/12/4/index.md)
 
+##### Rein Lang
 # After Estonian Minister of Culture, Rein Lang's, resignation, new minister - Urve Tiidus - takes office, after President Toomas Hendrik Ilves approval. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Postimees](http://www.postimees.ee/2619790/tiidus-andis-ametivande-ja-astus-kultuuriministri-ametisse)
 1. [Cover Image](http://f11.pmo.ee/1XUQo2cQF5xosfhhcBnxDbWzJUM=/640x480/smart/nginx/o/2013/12/04/2665282t1h9415.jpg)

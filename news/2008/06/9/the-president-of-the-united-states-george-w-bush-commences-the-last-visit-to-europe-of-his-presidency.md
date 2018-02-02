@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/06/9/the-president-of-the-united-states-george-w-bush-commences-the-last-visit-to-europe-of-his-presidency.html)  [JSON](/news/2008/06/9/the-president-of-the-united-states-george-w-bush-commences-the-last-visit-to-europe-of-his-presidency.json)  [XML](/news/2008/06/9/the-president-of-the-united-states-george-w-bush-commences-the-last-visit-to-europe-of-his-presidency.xml)  
+
 ### [2008-06-9](/news/2008/06/9/index.md)
 
+##### U.S. President
 #  The President of the United States George W. Bush commences the last visit to Europe of his presidency. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/news/world/2008-06-09-bush_reaction_N.htm)
+1. [USA Today](https://www.usatoday.com/news/world/2008-06-09-bush_reaction_N.htm)
 
 ### Related:
 

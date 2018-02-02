@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/9/opposition-leader-nana-akufo-addo-wins-the-presi
 
 ### [2016-12-9](/news/2016/12/9/index.md)
 
+##### Ghanaian general election, 2016
 # Opposition leader Nana Akufo-Addo wins the presidency. 
 
 Civil society urges election commission to quickly release results, as ruling party rejects opposition victory claims.

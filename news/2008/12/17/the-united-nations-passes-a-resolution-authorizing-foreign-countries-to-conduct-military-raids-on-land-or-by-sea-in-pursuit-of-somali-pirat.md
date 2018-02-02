@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/12/17/the-united-nations-passes-a-resolution-authorizing-foreign-countries-to-conduct-military-raids-on-land-or-by-sea-in-pursuit-of-somali-pirat.html)  [JSON](/news/2008/12/17/the-united-nations-passes-a-resolution-authorizing-foreign-countries-to-conduct-military-raids-on-land-or-by-sea-in-pursuit-of-somali-pirat.json)  [XML](/news/2008/12/17/the-united-nations-passes-a-resolution-authorizing-foreign-countries-to-conduct-military-raids-on-land-or-by-sea-in-pursuit-of-somali-pirat.xml)  
+
 ### [2008-12-17](/news/2008/12/17/index.md)
 
+##### United Nations
 #  The United Nations passes a resolution authorizing foreign countries to conduct military raids on land or by sea in pursuit of Somali pirates. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2008/12/16/AR2008121602848.html?hpid=sec-world)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2008/12/16/AR2008121602848.html?hpid=sec-world)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/8/reports-confirm-that-british-hostage-kenneth-bigley-was-beheaded-yesterday-by-his-captors-members-of-abu-musab-al-zarqawi-s-tawhid-and-jih.html)  [JSON](/news/2004/10/8/reports-confirm-that-british-hostage-kenneth-bigley-was-beheaded-yesterday-by-his-captors-members-of-abu-musab-al-zarqawi-s-tawhid-and-jih.json)  [XML](/news/2004/10/8/reports-confirm-that-british-hostage-kenneth-bigley-was-beheaded-yesterday-by-his-captors-members-of-abu-musab-al-zarqawi-s-tawhid-and-jih.xml)  
+
 ### [2004-10-8](/news/2004/10/8/index.md)
 
+##### hostage
 #  Reports confirm that British hostage Kenneth Bigley was beheaded yesterday by his captors, members of Abu Musab al-Zarqawi's Tawhid and Jihad militant group, despite last-minute exchanges between the group and the British government. 
 
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/FE41D57B-AB76-487C-A264-7DD321B4AC74.htm)
 2. [Al-Bawaba](http://www.albawaba.com/news/index.php3?sid=286473&lang=e&dir=news)

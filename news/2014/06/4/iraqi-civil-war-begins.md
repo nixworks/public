@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2014/06/4/iraqi-civil-war-begins.html)  [JSON](/news/2014/06/4/iraqi-civil-war-begins.json)  [XML](/news/2014/06/4/iraqi-civil-war-begins.xml)  
+
 ### [2014-06-4](/news/2014/06/4/index.md)
 
+##### Iraqi Civil War (2014-present)
 # Iraqi Civil War begins.
 
 

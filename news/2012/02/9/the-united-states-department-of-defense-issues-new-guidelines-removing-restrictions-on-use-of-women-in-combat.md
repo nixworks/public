@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/9/the-united-states-department-of-defense-issues-new-guidelines-removing-restrictions-on-use-of-women-in-combat.html)  [JSON](/news/2012/02/9/the-united-states-department-of-defense-issues-new-guidelines-removing-restrictions-on-use-of-women-in-combat.json)  [XML](/news/2012/02/9/the-united-states-department-of-defense-issues-new-guidelines-removing-restrictions-on-use-of-women-in-combat.xml)  
+
 ### [2012-02-9](/news/2012/02/9/index.md)
 
+##### U.S. military
 # The United States Department of Defense issues new guidelines removing restrictions on use of women in combat. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC News](http://usnews.msnbc.msn.com/_news/2012/02/09/10366237-pentagons-new-rules-deploy-women-closer-to-combat)
 

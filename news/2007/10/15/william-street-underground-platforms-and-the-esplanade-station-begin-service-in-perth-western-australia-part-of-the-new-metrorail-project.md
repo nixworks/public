@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/15/william-street-underground-platforms-and-the-esplanade-station-begin-service-in-perth-western-australia-part-of-the-new-metrorail-project.html)  [JSON](/news/2007/10/15/william-street-underground-platforms-and-the-esplanade-station-begin-service-in-perth-western-australia-part-of-the-new-metrorail-project.json)  [XML](/news/2007/10/15/william-street-underground-platforms-and-the-esplanade-station-begin-service-in-perth-western-australia-part-of-the-new-metrorail-project.xml)  
+
 ### [2007-10-15](/news/2007/10/15/index.md)
 
+##### William Street underground platforms
 #  William Street underground platforms and The Esplanade Station begin service in Perth, Western Australia. Part of the New MetroRail project, they are the first stations to open on the new Mandurah Line. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://abc.net.au/news/stories/2007/10/15/2059426.htm)
 

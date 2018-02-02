@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/9/iranian-authorities-close-the-offices-of-opposition-leader-mehdi-karroubi-confiscating-material.html)  [JSON](/news/2009/09/9/iranian-authorities-close-the-offices-of-opposition-leader-mehdi-karroubi-confiscating-material.json)  [XML](/news/2009/09/9/iranian-authorities-close-the-offices-of-opposition-leader-mehdi-karroubi-confiscating-material.xml)  
+
 ### [2009-09-9](/news/2009/09/9/index.md)
 
+##### Iran
 #  Iranian authorities close the offices of opposition leader Mehdi Karroubi, confiscating material. 
 
 Police in Tehran shut offices of Mehdi Karroubi, prominent opposition politician.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/09/20099942010748275.html)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=105637&sectionid=351020101)

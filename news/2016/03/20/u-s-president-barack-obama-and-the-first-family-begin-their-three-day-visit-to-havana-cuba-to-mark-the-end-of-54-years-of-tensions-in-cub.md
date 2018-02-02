@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/20/u-s-president-barack-obama-and-the-first-family
 
 ### [2016-03-20](/news/2016/03/20/index.md)
 
+##### United States-Cuban Thaw
 # U.S. President Barack Obama and the First Family begin their three-day visit to Havana, Cuba, to mark the end of 54 years of tensions in Cuba-United States relations. Obama is the first sitting U.S. president to visit the country since Calvin Coolidge in 1928. 
 
 The Twitter account of President published a first message of greeting to Cubans moments after Air Force One touched down at 4:18 p.m. local time. ¿Que bolá? said the message, a popular slang greeting often used by younger Cubans.

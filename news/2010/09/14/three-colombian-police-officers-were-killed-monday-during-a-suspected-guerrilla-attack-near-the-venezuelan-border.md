@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/14/three-colombian-police-officers-were-killed-monday-during-a-suspected-guerrilla-attack-near-the-venezuelan-border.html)  [JSON](/news/2010/09/14/three-colombian-police-officers-were-killed-monday-during-a-suspected-guerrilla-attack-near-the-venezuelan-border.json)  [XML](/news/2010/09/14/three-colombian-police-officers-were-killed-monday-during-a-suspected-guerrilla-attack-near-the-venezuelan-border.xml)  
+
 ### [2010-09-14](/news/2010/09/14/index.md)
 
+##### Colombia
 # Three Colombian police officers were killed Monday during a suspected guerrilla attack near the Venezuelan border. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua'' via PLA](http://english.pladaily.com.cn/)
 

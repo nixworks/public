@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/07/27/anna-johansson-and-anders-ygeman-resign-in-the-wake-of-controversy-surrounding-a-2015-data-leak-of-the-swedish-transport-agency.html)  [JSON](/news/2017/07/27/anna-johansson-and-anders-ygeman-resign-in-the-wake-of-controversy-surrounding-a-2015-data-leak-of-the-swedish-transport-agency.json)  [XML](/news/2017/07/27/anna-johansson-and-anders-ygeman-resign-in-the-wake-of-controversy-surrounding-a-2015-data-leak-of-the-swedish-transport-agency.xml)  
+
 ### [2017-07-27](/news/2017/07/27/index.md)
 
+##### Anna Johansson
 # Anna Johansson and Anders Ygeman resign in the wake of controversy surrounding a 2015 data leak of the Swedish Transport Agency. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Politico](http://www.politico.eu/article/sweden-data-breach-privacy-security-stefan-lofven/)
 

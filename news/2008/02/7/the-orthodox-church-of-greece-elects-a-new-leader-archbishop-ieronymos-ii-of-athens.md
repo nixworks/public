@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/7/the-orthodox-church-of-greece-elects-a-new-leader-archbishop-ieronymos-ii-of-athens.html)  [JSON](/news/2008/02/7/the-orthodox-church-of-greece-elects-a-new-leader-archbishop-ieronymos-ii-of-athens.json)  [XML](/news/2008/02/7/the-orthodox-church-of-greece-elects-a-new-leader-archbishop-ieronymos-ii-of-athens.xml)  
+
 ### [2008-02-7](/news/2008/02/7/index.md)
 
+##### Eastern Orthodox Church
 #  The Orthodox Church of Greece elects a new leader, Archbishop Ieronymos II of Athens. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2008/WORLD/europe/02/07/greek.orthodox/index.html)
 

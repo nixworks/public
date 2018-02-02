@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/18/thomas-mair-from-the-town-of-birstall-west-york
 
 ### [2016-06-18](/news/2016/06/18/index.md)
 
+##### Killing of Jo Cox
 # Thomas Mair from the town of Birstall, West Yorkshire, is charged with the murder of British MP Jo Cox. 
 
 Thomas Mair gives his name as &quot;Death to traitors, freedom for Britain&quot; as he appears in court charged with the murder of Labour MP Jo Cox.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/30/burma-releases-the-names-of-over-2-000-people-who-were-previously-blacklisted-by-the-former-military-government-they-are-to-be-removed-from.html)  [JSON](/news/2012/08/30/burma-releases-the-names-of-over-2-000-people-who-were-previously-blacklisted-by-the-former-military-government-they-are-to-be-removed-from.json)  [XML](/news/2012/08/30/burma-releases-the-names-of-over-2-000-people-who-were-previously-blacklisted-by-the-former-military-government-they-are-to-be-removed-from.xml)  
+
 ### [2012-08-30](/news/2012/08/30/index.md)
 
+##### Burma
 # Burma releases the names of over 2,000 people who were previously blacklisted by the former military government; they are to be removed from the list in the latest in a series of reforms. 
 
 Burma releases the names of 2,000 people deemed a security threat who have been removed from a blacklist drawn up under the previous military regime.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19424091)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62530000/jpg/_62530676_149021994.jpg)

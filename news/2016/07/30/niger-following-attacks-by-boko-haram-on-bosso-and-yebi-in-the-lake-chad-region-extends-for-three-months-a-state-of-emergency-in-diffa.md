@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/30/niger-following-attacks-by-boko-haram-on-bosso-
 
 ### [2016-07-30](/news/2016/07/30/index.md)
 
+##### Boko Haram insurgency
 # Niger, following attacks by Boko Haram on Bosso and Yebi in the Lake Chad region, extends for three months a state of emergency in Diffa. 
 
 Niger has extended a state of emergency in the southeastern region of Diffa for three months after a series of attacks by Boko Haram, the government said late on Friday.

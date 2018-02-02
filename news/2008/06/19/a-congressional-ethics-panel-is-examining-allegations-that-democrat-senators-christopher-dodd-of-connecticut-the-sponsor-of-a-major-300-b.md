@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2008/06/19/a-congressional-ethics-panel-is-examining-allegations-that-democrat-senators-christopher-dodd-of-connecticut-the-sponsor-of-a-major-300-b.html)  [JSON](/news/2008/06/19/a-congressional-ethics-panel-is-examining-allegations-that-democrat-senators-christopher-dodd-of-connecticut-the-sponsor-of-a-major-300-b.json)  [XML](/news/2008/06/19/a-congressional-ethics-panel-is-examining-allegations-that-democrat-senators-christopher-dodd-of-connecticut-the-sponsor-of-a-major-300-b.xml)  
+
 ### [2008-06-19](/news/2008/06/19/index.md)
 
+##### housing crisis
 #  A Congressional ethics panel is examining allegations that Democrat Senators Christopher Dodd of Connecticut (the sponsor of a major $300 billion housing bailout bill) and Kent Conrad of North Dakota received preferential loans by troubled mortgage lender Countrywide Financial Corp. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=agnF2IL2OCyE)
-2. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20080619/pl_nm/usa_housing_countrywide_dc_3)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=agnF2IL2OCyE)
+2. [Reuters via Yahoo! News](https://news.yahoo.com/s/nm/20080619/pl_nm/usa_housing_countrywide_dc_3)
+
+### Changes:
+
+1. [ A Congressional ethics panel is examining allegations that Democrat Senators Christopher Dodd of Connecticut (the sponsor of a major $300 billion housing bailout bill) and Kent Conrad of North Dakota received preferential loans by troubled mortgage lender Countrywide Financial Corp. ](/news/2008/06/19/a-congressional-ethics-panel-is-examining-allegations-that-democrat-senators-christopher-dodd-of-connecticut-the-sponsor-of-a-major-300.md) _2017-08-25 03:22:25 (First version)_
+2. [ Subprime mortgage crisis: A Congressional ethics panel is examining allegations that Democrat Senators Christopher Dodd of Connecticut (the sponsor of a major $300 billion housing bailout bill) and Kent Conrad of North Dakota received preferential loans by troubled mortgage lender Countrywide Financial Corp. ](/news/2008/06/19/subprime-mortgage-crisis-a-congressional-ethics-panel-is-examining-allegations-that-democrat-senators-christopher-dodd-of-connecticut-the.md) _2017-08-27 03:22:19 (Update)_
+2. [ A Congressional ethics panel is examining allegations that Democrat Senators Christopher Dodd of Connecticut (the sponsor of a major $300 billion housing bailout bill) and Kent Conrad of North Dakota received preferential loans by troubled mortgage lender Countrywide Financial Corp. ](/news/2008/06/19/a-congressional-ethics-panel-is-examining-allegations-that-democrat-senators-christopher-dodd-of-connecticut-the-sponsor-of-a-major-300-b.md) _(Current version)_
 
 ### Related:
 
@@ -16,10 +26,4 @@
 2. [The United States Congress refuses to offer a bailout to Puerto Rico. ](/news/2015/07/9/the-united-states-congress-refuses-to-offer-a-bailout-to-puerto-rico.md) _Context: bailout_
 3. [Greece has formally requested a new bailout loan from the International Monetary Fund. ](/news/2015/07/24/greece-has-formally-requested-a-new-bailout-loan-from-the-international-monetary-fund.md) _Context: bailout_
 4. [ A majority in the Greek parliament votes to approve a second bailout reform package. ](/news/2015/07/23/a-majority-in-the-greek-parliament-votes-to-approve-a-second-bailout-reform-package.md) _Context: bailout_
-5. [A New York state appellate court in Manhattan rules to approve in its entirety the 2011 settlement by Bank of America with 22 institutional investors including BlackRock Inc, MetLife Inc, and Allianz SE's Pacific Investment Management Co to resolve claims over $174 billion of mortgage securities issued by the former Countrywide Financial Corp. in a $8.5 billion settlement. ](/news/2015/03/5/a-new-york-state-appellate-court-in-manhattan-rules-to-approve-in-its-entirety-the-2011-settlement-by-bank-of-america-with-22-institutional.md) _Context: Countrywide Financial Corp._
-
-### Changes:
-
-1. [ A Congressional ethics panel is examining allegations that Democrat Senators Christopher Dodd of Connecticut (the sponsor of a major $300 billion housing bailout bill) and Kent Conrad of North Dakota received preferential loans by troubled mortgage lender Countrywide Financial Corp. ](/news/2008/06/19/a-congressional-ethics-panel-is-examining-allegations-that-democrat-senators-christopher-dodd-of-connecticut-the-sponsor-of-a-major-300.md) _2017-08-25 03:22:25 (First version)_
-2. [ Subprime mortgage crisis: A Congressional ethics panel is examining allegations that Democrat Senators Christopher Dodd of Connecticut (the sponsor of a major $300 billion housing bailout bill) and Kent Conrad of North Dakota received preferential loans by troubled mortgage lender Countrywide Financial Corp. ](/news/2008/06/19/subprime-mortgage-crisis-a-congressional-ethics-panel-is-examining-allegations-that-democrat-senators-christopher-dodd-of-connecticut-the.md) _2017-08-27 03:22:19 (Update)_
-2. [ A Congressional ethics panel is examining allegations that Democrat Senators Christopher Dodd of Connecticut (the sponsor of a major $300 billion housing bailout bill) and Kent Conrad of North Dakota received preferential loans by troubled mortgage lender Countrywide Financial Corp. ](/news/2008/06/19/a-congressional-ethics-panel-is-examining-allegations-that-democrat-senators-christopher-dodd-of-connecticut-the-sponsor-of-a-major-300-b.md) _(Current version)_
+5. [To resolve claims they were misled about the company's subprime mortgage exposure, a U.S. District Court Judge, Laura Swain approves a settlement between shareholders and American multinational insurer AIG, providing for a payout of $970.5 million. ](/news/2015/03/20/to-resolve-claims-they-were-misled-about-the-company-s-subprime-mortgage-exposure-a-u-s-district-court-judge-laura-swain-approves-a-settl.md) _Context: housing crisis_

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/01/15/20-palestinians-are-killed-by-the-israeli-defense-forces-including-14-fighters-and-five-civilians-with-55-people-wounded-hamas-leader-mah.html)  [JSON](/news/2008/01/15/20-palestinians-are-killed-by-the-israeli-defense-forces-including-14-fighters-and-five-civilians-with-55-people-wounded-hamas-leader-mah.json)  [XML](/news/2008/01/15/20-palestinians-are-killed-by-the-israeli-defense-forces-including-14-fighters-and-five-civilians-with-55-people-wounded-hamas-leader-mah.xml)  
+
 ### [2008-01-15](/news/2008/01/15/index.md)
 
+##### Palestinians
 #  20 Palestinians are killed by the Israeli Defense Forces including 14 fighters and five civilians, with 55 people wounded. Hamas leader Mahmoud Zahar's son is killed. Dozens of rockets are fired into Israel by Hamas, landing in the town of Sderot, injuring 4 Israelis. An Ecuadorian laborer is also shot and killed by Hamas. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Washington Pos''t](http://www.washingtonpost.com/wp-dyn/content/article/2008/01/15/AR2008011500329.html?hpid=sec-world)
+1. [The Washington Pos''t](https://www.washingtonpost.com/wp-dyn/content/article/2008/01/15/AR2008011500329.html?hpid=sec-world)
 1. [Cover Image](http://www.washingtonpost.com/wp-dyn/content/photo/2008/01/15/PH2008011503744.jpg)
 
 ### Related:

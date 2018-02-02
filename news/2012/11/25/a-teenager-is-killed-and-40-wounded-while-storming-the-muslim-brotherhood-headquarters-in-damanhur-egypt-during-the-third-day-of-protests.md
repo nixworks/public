@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/25/a-teenager-is-killed-and-40-wounded-while-storming-the-muslim-brotherhood-headquarters-in-damanhur-egypt-during-the-third-day-of-protests.html)  [JSON](/news/2012/11/25/a-teenager-is-killed-and-40-wounded-while-storming-the-muslim-brotherhood-headquarters-in-damanhur-egypt-during-the-third-day-of-protests.json)  [XML](/news/2012/11/25/a-teenager-is-killed-and-40-wounded-while-storming-the-muslim-brotherhood-headquarters-in-damanhur-egypt-during-the-third-day-of-protests.xml)  
+
 ### [2012-11-25](/news/2012/11/25/index.md)
 
+##### Muslim Brotherhood
 # A teenager is killed and 40 wounded while storming the Muslim Brotherhood headquarters in Damanhur, Egypt, during the third day of protests as a result from the power grab by Mohamed Morsi. 
 
 A 15-year-old is dead after rioters stormed a Muslim Brotherhood headquarters building in the clash between protesters and police late Sunday in the town of Damanhoor in the Nile delta, according to Egyptian security officials. 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/world/story/2012/11/25/egypt.html)
 2. [National Post](http://news.nationalpost.com/2012/11/25/one-killed-40-injured-in-egypt-riot-president-mohammed-morsi-plans-to-meet-judges/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/18/the-music-world-expresses-shock-at-the-news-of-scott-johnson-s-death-ahead-of-a-radiohead-concert-in-canada.html)  [JSON](/news/2012/06/18/the-music-world-expresses-shock-at-the-news-of-scott-johnson-s-death-ahead-of-a-radiohead-concert-in-canada.json)  [XML](/news/2012/06/18/the-music-world-expresses-shock-at-the-news-of-scott-johnson-s-death-ahead-of-a-radiohead-concert-in-canada.xml)  
+
 ### [2012-06-18](/news/2012/06/18/index.md)
 
+##### Radiohead
 # The music world expresses shock at the news of Scott Johnson's death ahead of a Radiohead concert in Canada. 
 
 British band Radiohead say they are &quot;shattered&quot; by the death of drum technician Scott Johnson, who was killed when a stage collapsed ahead of a show in Toronto, Canada.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18484613)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60974000/jpg/_60974085_radiohead2.jpg)

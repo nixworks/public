@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/12/floods-in-rio-de-janeiro-brazil-kill-more-than-250-people.html)  [JSON](/news/2011/01/12/floods-in-rio-de-janeiro-brazil-kill-more-than-250-people.json)  [XML](/news/2011/01/12/floods-in-rio-de-janeiro-brazil-kill-more-than-250-people.xml)  
+
 ### [2011-01-12](/news/2011/01/12/index.md)
 
+##### Floods
 # Floods in Rio de Janeiro, Brazil, kill more than 250 people. 
 
 More than 250 people die in the mountains of Rio de Janeiro state as flooding and mudslides hit south-eastern Brazil.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12171710)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE70B4MQ20110114)
@@ -17,4 +21,4 @@ More than 250 people die in the mountains of Rio de Janeiro state as flooding an
 2. [95 farm workers are rescued from difficult living conditions in two south-eastern states (Minas Gerais and Rio de Janeiro (state)) of Brazil. ](/news/2010/09/12/95-farm-workers-are-rescued-from-difficult-living-conditions-in-two-south-eastern-states-minas-gerais-and-rio-de-janeiro-state-of-brazil.md) _Context: Brazil, Rio de Janeiro_
 3. [Rescue efforts continue in Brazil in an attempt to locate around 200 people believed to have been buried in their homes by a large landslide in Morro do Bumba near Rio de Janeiro city in the state of Rio de Janeiro. ](/news/2010/04/9/rescue-efforts-continue-in-brazil-in-an-attempt-to-locate-around-200-people-believed-to-have-been-buried-in-their-homes-by-a-large-landslide.md) _Context: Brazil, Rio de Janeiro_
 4. [About 103 people are killed in flooding and mudslides in Rio de Janeiro state in Brazil. Of the total, thirty-three people died in the city of Rio de Janeiro, while 33 were killed in the neighbouring city of Niteroi, 12 people dead in SGBPo Goncalo, and one in Petropolis. [http:--news.bbc.co.uk-2-hi-americas-8605386.stm (BBC)] [http:--english.aljazeera.net-news-americas-2010-04-201046151148528719.html (Al Jazeera)] [http:--news.xinhuanet.com-english2010-world-2010-04-06-c_13239687.htm (Xinhua)] [http:--www.google.com-hostednews-ap-article-ALeqM5i3lzkJbjU27HrIF8LBB2DAuM3g-gD9ETMID82 (AP)] [http:--www.estadao.com.br-noticias-geral,maior-temporal-em-44-anos-no-rj-ja-causou-103-mortes,534623,0.htm (O Estado de S. Paulo)]](/news/2010/04/6/about-103-people-are-killed-in-flooding-and-mudslides-in-rio-de-janeiro-state-in-brazil-of-the-total-thirty-three-people-died-in-the-city.md) _Context: Brazil, Rio de Janeiro_
-5. [In the town of Janauba, Minas Gerais state, Brazil, a recently dismissed security guard set fire to a childcare center, killing at least four children and a teacher and leaving 25 others, mostly children aged four and five, injured. ](/news/2017/10/5/in-the-town-of-janaaoba-minas-gerais-state-brazil-a-recently-dismissed-security-guard-set-fire-to-a-childcare-center-killing-at-least-fo.md) _Context: Brazil_
+5. [The state government of Minas Gerais, Brazil, declares a health emergency in three areas, Belo Horizonte, Itabira and Ponte Nova, over an outbreak of yellow fever. ](/news/2018/01/20/the-state-government-of-minas-gerais-brazil-declares-a-health-emergency-in-three-areas-belo-horizonte-itabira-and-ponte-nova-over-an-ou.md) _Context: Brazil_

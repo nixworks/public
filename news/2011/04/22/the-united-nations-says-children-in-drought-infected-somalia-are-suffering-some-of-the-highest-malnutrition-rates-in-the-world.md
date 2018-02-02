@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/22/the-united-nations-says-children-in-drought-infected-somalia-are-suffering-some-of-the-highest-malnutrition-rates-in-the-world.html)  [JSON](/news/2011/04/22/the-united-nations-says-children-in-drought-infected-somalia-are-suffering-some-of-the-highest-malnutrition-rates-in-the-world.json)  [XML](/news/2011/04/22/the-united-nations-says-children-in-drought-infected-somalia-are-suffering-some-of-the-highest-malnutrition-rates-in-the-world.xml)  
+
 ### [2011-04-22](/news/2011/04/22/index.md)
 
+##### United Nations
 # The United Nations says children in drought-infected Somalia are suffering some of the highest malnutrition rates in the world. 
 
 Children in Somalia are suffering some of the highest malnutrition rates in the world, says the United Nations, following years of drought.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13171252)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52307000/jpg/_52307454_011684083-1.jpg)

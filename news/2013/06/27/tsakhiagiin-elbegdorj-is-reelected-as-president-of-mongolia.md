@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/06/27/tsakhiagiin-elbegdorj-is-reelected-as-president-of-mongolia.html)  [JSON](/news/2013/06/27/tsakhiagiin-elbegdorj-is-reelected-as-president-of-mongolia.json)  [XML](/news/2013/06/27/tsakhiagiin-elbegdorj-is-reelected-as-president-of-mongolia.xml)  
+
 ### [2013-06-27](/news/2013/06/27/index.md)
 
+##### Tsakhiagiin Elbegdorj
 # Tsakhiagiin Elbegdorj is reelected as President of Mongolia. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Associated Press via The Globe and Mail](http://www.theglobeandmail.com/news/world/incumbent-mongolian-president-wins-2nd-term-on-pro-western-anti-graft-platform/article12850801/)
+1. [Associated Press via The Globe and Mail](https://www.theglobeandmail.com/news/world/incumbent-mongolian-president-wins-2nd-term-on-pro-western-anti-graft-platform/article12850801/)
 
 ### Related:
 

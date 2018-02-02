@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/5/2013-tasmanian-bushfires-thousands-of-people-are-stranded-by-four-major-fires-burning-out-of-control-in-the-australian-state-of-tasmania.html)  [JSON](/news/2013/01/5/2013-tasmanian-bushfires-thousands-of-people-are-stranded-by-four-major-fires-burning-out-of-control-in-the-australian-state-of-tasmania.json)  [XML](/news/2013/01/5/2013-tasmanian-bushfires-thousands-of-people-are-stranded-by-four-major-fires-burning-out-of-control-in-the-australian-state-of-tasmania.xml)  
+
 ### [2013-01-5](/news/2013/01/5/index.md)
 
+##### 2013 Tasmanian bushfires
 # 2013 Tasmanian bushfires: Thousands of people are stranded by four major fires burning out of control in the Australian state of Tasmania. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via TV New Zealand](http://tvnz.co.nz/world-news/thousands-stranded-tasmania-bushfires-5311927)
 

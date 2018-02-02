@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/08/21/vietnamese-police-shut-down-an-anti-china-rally-in-hanoi-over-disputed-territory-in-the-south-china-sea.html)  [JSON](/news/2011/08/21/vietnamese-police-shut-down-an-anti-china-rally-in-hanoi-over-disputed-territory-in-the-south-china-sea.json)  [XML](/news/2011/08/21/vietnamese-police-shut-down-an-anti-china-rally-in-hanoi-over-disputed-territory-in-the-south-china-sea.xml)  
+
 ### [2011-08-21](/news/2011/08/21/index.md)
 
+##### Vietnamese police
 # Vietnamese police shut down an anti-China rally in Hanoi over disputed territory in the South China Sea. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/asia-pacific/vietnamese-police-shut-down-anti-china-protest-take-away-dozens-of-demonstrators/2011/08/20/gIQABoKHTJ_story.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia-pacific/vietnamese-police-shut-down-anti-china-protest-take-away-dozens-of-demonstrators/2011/08/20/gIQABoKHTJ_story.html)
 
 ### Related:
 

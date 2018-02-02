@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/2/a-russian-proton-m-rocket-carrying-three-glonass-navigation-satellites-loses-control-and-crashes-shortly-after-launch-from-baikonur-cosmodro.html)  [JSON](/news/2013/07/2/a-russian-proton-m-rocket-carrying-three-glonass-navigation-satellites-loses-control-and-crashes-shortly-after-launch-from-baikonur-cosmodro.json)  [XML](/news/2013/07/2/a-russian-proton-m-rocket-carrying-three-glonass-navigation-satellites-loses-control-and-crashes-shortly-after-launch-from-baikonur-cosmodro.xml)  
+
 ### [2013-07-2](/news/2013/07/2/index.md)
 
+##### Proton-M
 # A Russian Proton-M rocket carrying three GLONASS navigation satellites loses control and crashes shortly after launch from Baikonur Cosmodrome in Kazakhstan.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Spaceflightnow.com](http://spaceflightnow.com/news/n1307/01proton/#.UdLra0YhWjU)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/5/a-swedish-court-orders-the-owner-of-the-luxury-c
 
 ### [2016-08-5](/news/2016/08/5/index.md)
 
+##### Swedish Migration Agency
 # A Swedish court orders the owner of the luxury cruise ship Ocean Gala that was due to house 1,800 asylum seekers before the Swedish Migration Agency pulled the plug to immediately leave its port. The local County administration says it intends to forcefully execute the ruling of the court if the vessel has not left the port by Monday morning. 
 
 The owner of a luxury cruise ship due to house asylum seekers in Sweden before the migration board pulled the plug has been told the craft must leave its port by a court.

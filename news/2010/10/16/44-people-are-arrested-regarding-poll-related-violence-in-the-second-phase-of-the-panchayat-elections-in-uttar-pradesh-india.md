@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/16/44-people-are-arrested-regarding-poll-related-violence-in-the-second-phase-of-the-panchayat-elections-in-uttar-pradesh-india.html)  [JSON](/news/2010/10/16/44-people-are-arrested-regarding-poll-related-violence-in-the-second-phase-of-the-panchayat-elections-in-uttar-pradesh-india.json)  [XML](/news/2010/10/16/44-people-are-arrested-regarding-poll-related-violence-in-the-second-phase-of-the-panchayat-elections-in-uttar-pradesh-india.xml)  
+
 ### [2010-10-16](/news/2010/10/16/index.md)
 
+##### Uttar Pradesh
 # 44 people are arrested regarding poll-related violence in the second phase of the panchayat elections in Uttar Pradesh, India. 
 
 44 poeple arrested for panchayat polls violence in Uttar Pradesh - FIRs were lodged against 85 people at Kotwali police station late last evening for violence and loot of ballot boxes during the second phase of polls in Bewar and Kishni blocks of which 44 have been arrested.
 
 
-### Source:
+### Sources:
 
 1. [DNA](http://www.dnaindia.com/india/report_44-poeple-arrested-for-panchayat-polls-violence-in-uttar-pradesh_1453472)
 1. [Cover Image](http://static.dnaindia.com/images/2015/dna-logo-shared.jpg?v=1212)

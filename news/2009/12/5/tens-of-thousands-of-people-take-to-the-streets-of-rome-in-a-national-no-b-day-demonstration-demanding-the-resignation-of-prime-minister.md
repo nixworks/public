@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/5/tens-of-thousands-of-people-take-to-the-streets-of-rome-in-a-national-no-b-day-demonstration-demanding-the-resignation-of-prime-minister.html)  [JSON](/news/2009/12/5/tens-of-thousands-of-people-take-to-the-streets-of-rome-in-a-national-no-b-day-demonstration-demanding-the-resignation-of-prime-minister.json)  [XML](/news/2009/12/5/tens-of-thousands-of-people-take-to-the-streets-of-rome-in-a-national-no-b-day-demonstration-demanding-the-resignation-of-prime-minister.xml)  
+
 ### [2009-12-5](/news/2009/12/5/index.md)
 
+##### Italian Prime Minister
 #  Tens of thousands of people take to the streets of Rome in a national "No B Day" demonstration demanding the resignation of Prime Minister Silvio Berlusconi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [France 24](http://www.france24.com/en/20091205-thousands-turn-out-no-burlusconi-day-protest-italy)
 

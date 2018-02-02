@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/7/at-least-36-people-are-trapped-underground-in-a-coal-mine-in-china-s-shandong-province-after-a-fire-breaks-out.html)  [JSON](/news/2011/07/7/at-least-36-people-are-trapped-underground-in-a-coal-mine-in-china-s-shandong-province-after-a-fire-breaks-out.json)  [XML](/news/2011/07/7/at-least-36-people-are-trapped-underground-in-a-coal-mine-in-china-s-shandong-province-after-a-fire-breaks-out.xml)  
+
 ### [2011-07-7](/news/2011/07/7/index.md)
 
+##### coal mine
 # At least 36 people are trapped underground in a coal mine in China's Shandong Province after a fire breaks out. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_688048.html)
 

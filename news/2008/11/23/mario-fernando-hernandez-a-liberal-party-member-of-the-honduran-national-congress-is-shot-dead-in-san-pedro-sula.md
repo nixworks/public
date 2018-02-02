@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/23/mario-fernando-hernandez-a-liberal-party-member-of-the-honduran-national-congress-is-shot-dead-in-san-pedro-sula.html)  [JSON](/news/2008/11/23/mario-fernando-hernandez-a-liberal-party-member-of-the-honduran-national-congress-is-shot-dead-in-san-pedro-sula.json)  [XML](/news/2008/11/23/mario-fernando-hernandez-a-liberal-party-member-of-the-honduran-national-congress-is-shot-dead-in-san-pedro-sula.xml)  
+
 ### [2008-11-23](/news/2008/11/23/index.md)
 
+##### Mario Fernando Hernndez
 #  Mario Fernando Hernndez, a Liberal Party member of the Honduran National Congress, is shot dead in San Pedro Sula. 
 
 Police in Honduras say that vice-president of the National Congress, Mario Fernando Hernandez, has been shot dead by unidentified attackers in the northern city of San Pedro Sula.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2008/11/23/2427462.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

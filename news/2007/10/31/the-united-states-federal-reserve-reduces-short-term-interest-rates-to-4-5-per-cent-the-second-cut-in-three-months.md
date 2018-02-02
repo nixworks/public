@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/10/31/the-united-states-federal-reserve-reduces-short-term-interest-rates-to-4-5-per-cent-the-second-cut-in-three-months.html)  [JSON](/news/2007/10/31/the-united-states-federal-reserve-reduces-short-term-interest-rates-to-4-5-per-cent-the-second-cut-in-three-months.json)  [XML](/news/2007/10/31/the-united-states-federal-reserve-reduces-short-term-interest-rates-to-4-5-per-cent-the-second-cut-in-three-months.xml)  
+
 ### [2007-10-31](/news/2007/10/31/index.md)
 
+##### United States Federal Reserve
 #  The United States Federal Reserve reduces short-term interest rates to 4.5 per cent, the second cut in three months. 
 
 The Federal Reserve gave investors what they wanted today, but quietly warned Wall Street not to expect more reductions ahead.
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/2007/10/31/business/31cnd-fed.html?_r=1&hp&oref=slogin)
+1. [NYT](https://www.nytimes.com/2007/10/31/business/31cnd-fed.html?_r=1&hp&oref=slogin)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

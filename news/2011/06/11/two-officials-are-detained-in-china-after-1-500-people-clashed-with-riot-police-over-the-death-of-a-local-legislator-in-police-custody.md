@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/11/two-officials-are-detained-in-china-after-1-500-people-clashed-with-riot-police-over-the-death-of-a-local-legislator-in-police-custody.html)  [JSON](/news/2011/06/11/two-officials-are-detained-in-china-after-1-500-people-clashed-with-riot-police-over-the-death-of-a-local-legislator-in-police-custody.json)  [XML](/news/2011/06/11/two-officials-are-detained-in-china-after-1-500-people-clashed-with-riot-police-over-the-death-of-a-local-legislator-in-police-custody.xml)  
+
 ### [2011-06-11](/news/2011/06/11/index.md)
 
+##### China
 # Two officials are detained in China after 1,500 people clashed with riot police over the death of a local legislator in police custody. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/asia/241748/protesters-clash-with-police-in-china)
 2. [Times of India](http://timesofindia.indiatimes.com/world/china/Riot-in-China-city-after-official-dies-in-police-custody/articleshow/8812254.cms)

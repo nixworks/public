@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2014/03/1/a-bomb-attack-on-a-polio-vaccination-team-in-a-village-in-khyber-pakhtunkhwa-province-kills-at-least-ten-people.html)  [JSON](/news/2014/03/1/a-bomb-attack-on-a-polio-vaccination-team-in-a-village-in-khyber-pakhtunkhwa-province-kills-at-least-ten-people.json)  [XML](/news/2014/03/1/a-bomb-attack-on-a-polio-vaccination-team-in-a-village-in-khyber-pakhtunkhwa-province-kills-at-least-ten-people.xml)  
+
 ### [2014-03-1](/news/2014/03/1/index.md)
 
+##### War in North-West Pakistan
 # A bomb attack on a polio vaccination team in a village in Khyber Pakhtunkhwa Province kills at least ten people. 
 
 A bomb attack on a polio vaccination team in north-west Pakistan has killed at least 11 people, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-26397602)
 2. [Reuters](http://uk.reuters.com/article/2014/03/01/uk-pakistan-taliban-ceasefire-idUKBREA200DO20140301)
 2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/73298000/jpg/_73298024_021308082-1.jpg)
+
+### Changes:
+
+1. [War in North-West Pakistan: A bomb attack on a polio vaccination team in a village in Khyber Pakhtunkhwa Province kills at least ten people. ](/news/2014/03/1/war-in-north-west-pakistan-a-bomb-attack-on-a-polio-vaccination-team-in-a-village-in-khyber-pakhtunkhwa-province-kills-at-least-ten-people.md) _2017-08-27 03:40:24 (First version)_
+1. [A bomb attack on a polio vaccination team in a village in Khyber Pakhtunkhwa Province kills at least ten people. ](/news/2014/03/1/a-bomb-attack-on-a-polio-vaccination-team-in-a-village-in-khyber-pakhtunkhwa-province-kills-at-least-ten-people.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ A bomb attack on a polio vaccination team in north-west Pakistan has killed at l
 3. [ Indonesia intends to vaccinate 6.4 million children against polio in the next couple of days. There are already 16 cases in the country. ](/news/2005/05/31/indonesia-intends-to-vaccinate-6-4-million-children-against-polio-in-the-next-couple-of-days-there-are-already-16-cases-in-the-country.md) _Context: polio, vaccination_
 4. [ The Indian Government begins it largest ever vaccination program. It aims to inoculate 160 million children against polio within six days. ](/news/2003/02/9/the-indian-government-begins-it-largest-ever-vaccination-program-it-aims-to-inoculate-160-million-children-against-polio-within-six-days.md) _Context: polio, vaccination_
 5. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: War in North-West Pakistan_
-
-### Changes:
-
-1. [War in North-West Pakistan: A bomb attack on a polio vaccination team in a village in Khyber Pakhtunkhwa Province kills at least ten people. ](/news/2014/03/1/war-in-north-west-pakistan-a-bomb-attack-on-a-polio-vaccination-team-in-a-village-in-khyber-pakhtunkhwa-province-kills-at-least-ten-people.md) _2017-08-27 03:40:24 (First version)_
-1. [A bomb attack on a polio vaccination team in a village in Khyber Pakhtunkhwa Province kills at least ten people. ](/news/2014/03/1/a-bomb-attack-on-a-polio-vaccination-team-in-a-village-in-khyber-pakhtunkhwa-province-kills-at-least-ten-people.md) _(Current version)_

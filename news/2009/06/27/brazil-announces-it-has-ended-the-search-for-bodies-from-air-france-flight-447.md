@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/27/brazil-announces-it-has-ended-the-search-for-bodies-from-air-france-flight-447.html)  [JSON](/news/2009/06/27/brazil-announces-it-has-ended-the-search-for-bodies-from-air-france-flight-447.json)  [XML](/news/2009/06/27/brazil-announces-it-has-ended-the-search-for-bodies-from-air-france-flight-447.xml)  
+
 ### [2009-06-27](/news/2009/06/27/index.md)
 
+##### Brazil
 #  Brazil announces it has ended the search for bodies from Air France Flight 447. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5iOegnahAFcEgwJZ4WKGkVz9Dgq5wD992VA4O0)
 2. [The Times of India](http://timesofindia.indiatimes.com/World/World/Search-ends-for-Air-France-crash-dead/articleshow/4708578.cms)

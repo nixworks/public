@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/13/the-government-of-qatar-asks-exiled-leaders-of-egypt-s-muslim-brotherhood-to-leave.html)  [JSON](/news/2014/09/13/the-government-of-qatar-asks-exiled-leaders-of-egypt-s-muslim-brotherhood-to-leave.json)  [XML](/news/2014/09/13/the-government-of-qatar-asks-exiled-leaders-of-egypt-s-muslim-brotherhood-to-leave.xml)  
+
 ### [2014-09-13](/news/2014/09/13/index.md)
 
+##### Qatar
 # The government of Qatar asks exiled leaders of Egypt's Muslim Brotherhood to leave. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/M/ML_EGYPT_QATAR?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

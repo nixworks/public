@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/26/iraq-announces-the-dissolution-of-state-owned-iraqi-airways-over-the-next-three-years-and-the-pursuit-of-private-options-to-avoid-asset-clai.html)  [JSON](/news/2010/05/26/iraq-announces-the-dissolution-of-state-owned-iraqi-airways-over-the-next-three-years-and-the-pursuit-of-private-options-to-avoid-asset-clai.json)  [XML](/news/2010/05/26/iraq-announces-the-dissolution-of-state-owned-iraqi-airways-over-the-next-three-years-and-the-pursuit-of-private-options-to-avoid-asset-clai.xml)  
+
 ### [2010-05-26](/news/2010/05/26/index.md)
 
+##### Iraq
 # Iraq announces the dissolution of state-owned Iraqi Airways over the next three years and the pursuit of private options to avoid asset claims made by Kuwait over their 1990-91 war. 
 
 Airline to close in three years to avoid asset claims from Kuwait over their 1990-91 war.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/05/2010526133236850746.html)
 1. [Cover Image](http://www.aljazeera.com)

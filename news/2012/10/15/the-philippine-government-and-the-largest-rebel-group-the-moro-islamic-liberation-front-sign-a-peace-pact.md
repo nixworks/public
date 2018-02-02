@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/15/the-philippine-government-and-the-largest-rebel-group-the-moro-islamic-liberation-front-sign-a-peace-pact.html)  [JSON](/news/2012/10/15/the-philippine-government-and-the-largest-rebel-group-the-moro-islamic-liberation-front-sign-a-peace-pact.json)  [XML](/news/2012/10/15/the-philippine-government-and-the-largest-rebel-group-the-moro-islamic-liberation-front-sign-a-peace-pact.xml)  
+
 ### [2012-10-15](/news/2012/10/15/index.md)
 
+##### Philippines
 # The Philippine government and the largest rebel group, the Moro Islamic Liberation Front, sign a peace pact. 
 
 The peace pact outlines steps to end the conflict in the island of Mindanao by 2016.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/video/asia-pacific/2012/10/2012101524117145978.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/15/2012101571122240734_20.jpg)

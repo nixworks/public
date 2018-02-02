@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/22/three-tibetan-buddhist-monks-are-unaccounted-for-after-being-sentenced-to-long-prison-terms-by-chinese-authorities-earlier-this-year-for-par.html)  [JSON](/news/2010/12/22/three-tibetan-buddhist-monks-are-unaccounted-for-after-being-sentenced-to-long-prison-terms-by-chinese-authorities-earlier-this-year-for-par.json)  [XML](/news/2010/12/22/three-tibetan-buddhist-monks-are-unaccounted-for-after-being-sentenced-to-long-prison-terms-by-chinese-authorities-earlier-this-year-for-par.xml)  
+
 ### [2010-12-22](/news/2010/12/22/index.md)
 
+##### Tibet
 # Three Tibetan Buddhist monks are unaccounted for after being sentenced to long prison terms by Chinese authorities earlier this year for participating in a peaceful protest march by Drepung monastery monks in 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RFA](http://www.rfa.org/english/news/tibet/monks-12222010163931.html)
 

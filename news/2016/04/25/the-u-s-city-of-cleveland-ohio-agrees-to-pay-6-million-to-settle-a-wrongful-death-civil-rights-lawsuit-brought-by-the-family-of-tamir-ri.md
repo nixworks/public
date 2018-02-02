@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/25/the-u-s-city-of-cleveland-ohio-agrees-to-pay-6-
 
 ### [2016-04-25](/news/2016/04/25/index.md)
 
+##### Shooting of Tamir Rice
 # The U.S. city of Cleveland, Ohio, agrees to pay $6 million to settle a wrongful death civil rights lawsuit brought by the family of Tamir Rice. Rice was a 12-year-old boy who was walking outside a recreation center holding an air pellet gun when he was shot and killed by a Cleveland Police officer on November 22, 2014. Prosecutor Tim McGinty reported in December 2015 that an Ohio grand jury decided not to indict the police officers. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/8/it-is-claimed-that-the-drug-rapamycin-discovered-in-the-soil-of-easter-island-in-the-1970s-may-help-to-fight-the-ageing-process.html)  [JSON](/news/2009/07/8/it-is-claimed-that-the-drug-rapamycin-discovered-in-the-soil-of-easter-island-in-the-1970s-may-help-to-fight-the-ageing-process.json)  [XML](/news/2009/07/8/it-is-claimed-that-the-drug-rapamycin-discovered-in-the-soil-of-easter-island-in-the-1970s-may-help-to-fight-the-ageing-process.xml)  
+
 ### [2009-07-8](/news/2009/07/8/index.md)
 
+##### rapamycin
 #  It is claimed that the drug rapamycin, discovered in the soil of Easter Island in the 1970s, may help to fight the ageing process. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/health/8139816.stm)
 

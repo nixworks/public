@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/22/in-canada-one-person-is-reported-to-have-died-and-five-others-hospitalized-due-to-an-e-coli-contamination.html)  [JSON](/news/2004/07/22/in-canada-one-person-is-reported-to-have-died-and-five-others-hospitalized-due-to-an-e-coli-contamination.json)  [XML](/news/2004/07/22/in-canada-one-person-is-reported-to-have-died-and-five-others-hospitalized-due-to-an-e-coli-contamination.xml)  
+
 ### [2004-07-22](/news/2004/07/22/index.md)
 
+##### E. coli
 #  In Canada, one person is reported to have died and five others hospitalized due to an E. coli contamination 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://story.news.yahoo.com/news?tmpl=story&cid=1527&e=6&u=/afp/canada_health)
 

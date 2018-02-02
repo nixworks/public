@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/30/incumbent-president-george-w-bush-and-challenger-senator-john-f-kerry-meet-at-the-university-of-miami-florida-in-the-first-of-three-pre.html)  [JSON](/news/2004/09/30/incumbent-president-george-w-bush-and-challenger-senator-john-f-kerry-meet-at-the-university-of-miami-florida-in-the-first-of-three-pre.json)  [XML](/news/2004/09/30/incumbent-president-george-w-bush-and-challenger-senator-john-f-kerry-meet-at-the-university-of-miami-florida-in-the-first-of-three-pre.xml)  
+
 ### [2004-09-30](/news/2004/09/30/index.md)
 
+##### U.S. President
 #  Incumbent president George W. Bush and challenger Senator John F. Kerry meet at the University of Miami, Florida, in the first of three presidential debates in the run-up to the 2004 U.S. presidential election. Nielsen Media Research later reports 62.5 million people watched the debate. (Transcript) 
 
 John Kerry assailed the war in Iraq in the first presidential debate Thursday night, accusing President Bush of &#8220;a colossal error of judgment&#8221; as the candidates finally faced each other for the first time.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/3703756.stm)
 2. [CNN](http://www.cnn.com/2004/ALLPOLITICS/09/30/debate.main/index.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/11/president-vladimir-voronin-of-moldova-resigns.html)  [JSON](/news/2009/09/11/president-vladimir-voronin-of-moldova-resigns.json)  [XML](/news/2009/09/11/president-vladimir-voronin-of-moldova-resigns.xml)  
+
 ### [2009-09-11](/news/2009/09/11/index.md)
 
+##### Moldovan President
 #  President Vladimir Voronin of Moldova resigns. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2009-09/11/content_12035212.htm)
 

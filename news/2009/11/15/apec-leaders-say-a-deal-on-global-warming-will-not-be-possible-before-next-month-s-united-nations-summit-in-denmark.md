@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/15/apec-leaders-say-a-deal-on-global-warming-will-not-be-possible-before-next-month-s-united-nations-summit-in-denmark.html)  [JSON](/news/2009/11/15/apec-leaders-say-a-deal-on-global-warming-will-not-be-possible-before-next-month-s-united-nations-summit-in-denmark.json)  [XML](/news/2009/11/15/apec-leaders-say-a-deal-on-global-warming-will-not-be-possible-before-next-month-s-united-nations-summit-in-denmark.xml)  
+
 ### [2009-11-15](/news/2009/11/15/index.md)
 
+##### APEC
 #  APEC leaders say a deal on global warming will not be possible before next month's United Nations summit in Denmark. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/11/15/apec.climate.change/)
 2. [The Times](http://www.timesonline.co.uk/tol/news/environment/article6917564.ece)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/17/the-government-of-india-announces-that-tamil-will-be-the-first-language-recognized-as-a-classical-language-in-india-government-ministers.html)  [JSON](/news/2004/09/17/the-government-of-india-announces-that-tamil-will-be-the-first-language-recognized-as-a-classical-language-in-india-government-ministers.json)  [XML](/news/2004/09/17/the-government-of-india-announces-that-tamil-will-be-the-first-language-recognized-as-a-classical-language-in-india-government-ministers.xml)  
+
 ### [2004-09-17](/news/2004/09/17/index.md)
 
+##### form of government
 #  The government of India announces that Tamil will be the first language recognized as a "classical language" in India. Government ministers add that Sanskrit and other languages could be granted the status, depending on their "heritage and legacy". The Indian government plans to create a center for the study of languages so designated. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.hinduonnet.com/thehindu/holnus/001200409171719.htm)
 2. [Times of India](http://articles.timesofindia.indiatimes.com/2004-09-17/india/27150762_1_classical-language-classical-status-tamil)

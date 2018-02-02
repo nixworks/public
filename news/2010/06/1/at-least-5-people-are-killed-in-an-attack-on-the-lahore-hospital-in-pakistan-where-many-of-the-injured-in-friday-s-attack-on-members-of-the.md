@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/06/1/at-least-5-people-are-killed-in-an-attack-on-the-lahore-hospital-in-pakistan-where-many-of-the-injured-in-friday-s-attack-on-members-of-the.html)  [JSON](/news/2010/06/1/at-least-5-people-are-killed-in-an-attack-on-the-lahore-hospital-in-pakistan-where-many-of-the-injured-in-friday-s-attack-on-members-of-the.json)  [XML](/news/2010/06/1/at-least-5-people-are-killed-in-an-attack-on-the-lahore-hospital-in-pakistan-where-many-of-the-injured-in-friday-s-attack-on-members-of-the.xml)  
+
 ### [2010-06-1](/news/2010/06/1/index.md)
 
+##### Lahore
 # At least 5 people are killed in an attack on the Lahore hospital in Pakistan where many of the injured in Friday's attack on members of the Ahmadis sect, as well as one of the captured militants, are undergoing treatment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/05/31/pakistan.er.shooting/?hpt=T3)
 2. [Geotv](http://www.geo.tv/6-1-2010/65946.htm)
 3. [The Hindu](http://beta.thehindu.com/news/article443198.ece)
-4. [USA Today](http://www.usatoday.com/news/world/2010-05-31-pakistan-hospital-shooting_N.htm)
+4. [USA Today](https://www.usatoday.com/news/world/2010-05-31-pakistan-hospital-shooting_N.htm)
 
 ### Related:
 

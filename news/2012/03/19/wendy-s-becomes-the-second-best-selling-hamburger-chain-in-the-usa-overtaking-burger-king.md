@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/19/wendy-s-becomes-the-second-best-selling-hamburger-chain-in-the-usa-overtaking-burger-king.html)  [JSON](/news/2012/03/19/wendy-s-becomes-the-second-best-selling-hamburger-chain-in-the-usa-overtaking-burger-king.json)  [XML](/news/2012/03/19/wendy-s-becomes-the-second-best-selling-hamburger-chain-in-the-usa-overtaking-burger-king.xml)  
+
 ### [2012-03-19](/news/2012/03/19/index.md)
 
+##### Wendy's
 # Wendy's becomes the second best selling hamburger chain in the USA, overtaking Burger King. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2012/03/19/news/companies/wendys-burger-king/index.htm?hpt=hp_t2)
 1. [Cover Image](http://i2.cdn.turner.com/money/2012/03/19/news/companies/wendys-burger-king/wendys.gi.01.jpg)

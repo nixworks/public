@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/21/international-atomic-energy-agency-iaea-director-general-yukiya-amano-begins-talks-in-tehran-aimed-at-convincing-the-iranian-government-to.html)  [JSON](/news/2012/05/21/international-atomic-energy-agency-iaea-director-general-yukiya-amano-begins-talks-in-tehran-aimed-at-convincing-the-iranian-government-to.json)  [XML](/news/2012/05/21/international-atomic-energy-agency-iaea-director-general-yukiya-amano-begins-talks-in-tehran-aimed-at-convincing-the-iranian-government-to.xml)  
+
 ### [2012-05-21](/news/2012/05/21/index.md)
 
+##### IAEA
 # International Atomic Energy Agency (IAEA) director general Yukiya Amano begins talks in Tehran aimed at convincing the Iranian government to co-operate with the agency. 
 
 First IAEA head to visit Tehran since 2009 is expected to seek inspection deal on alleged weapons sites.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/2012520155112905959.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/21//2012521155132922734_20.jpg)

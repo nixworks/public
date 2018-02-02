@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/28/in-mandaluyong-philippines-law-enforcers-mistak
 
 ### [2017-12-28](/news/2017/12/28/index.md)
 
+##### Crime in the Philippines
 # In Mandaluyong, Philippines, law enforcers mistakenly fired at a Mitsubishi Adventure, which they thought carried suspects in a previous shooting incident, resulting in two people dead and two others injured. As a result, 10 police officers were relieved from the post. 
 
 At least two people have died after law enforcers on Thursday night fired mistakenly shots at an AUV bringing a gunshot victim to the hospital. 

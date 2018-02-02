@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/05/24/the-5th-season-of-the-talent-search-american-idol-comes-to-a-close-with-a-two-hour-finale-and-taylor-hicks-being-crowned-the-winner.html)  [JSON](/news/2006/05/24/the-5th-season-of-the-talent-search-american-idol-comes-to-a-close-with-a-two-hour-finale-and-taylor-hicks-being-crowned-the-winner.json)  [XML](/news/2006/05/24/the-5th-season-of-the-talent-search-american-idol-comes-to-a-close-with-a-two-hour-finale-and-taylor-hicks-being-crowned-the-winner.xml)  
+
 ### [2006-05-24](/news/2006/05/24/index.md)
 
+##### American Idol
 #  The 5th Season of the talent search American Idol comes to a close with a two hour finale, and Taylor Hicks being crowned the winner.
 
 

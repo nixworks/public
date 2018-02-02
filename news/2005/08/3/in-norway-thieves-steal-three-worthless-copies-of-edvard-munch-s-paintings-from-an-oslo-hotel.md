@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/3/in-norway-thieves-steal-three-worthless-copies-of-edvard-munch-s-paintings-from-an-oslo-hotel.html)  [JSON](/news/2005/08/3/in-norway-thieves-steal-three-worthless-copies-of-edvard-munch-s-paintings-from-an-oslo-hotel.json)  [XML](/news/2005/08/3/in-norway-thieves-steal-three-worthless-copies-of-edvard-munch-s-paintings-from-an-oslo-hotel.xml)  
+
 ### [2005-08-3](/news/2005/08/3/index.md)
 
+##### Norway
 #  In Norway, thieves steal three worthless copies of Edvard Munch's paintings from an Oslo hotel 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Aftenposten](http://www.aftenposten.no/english/local/article1090377.ece)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=oddlyEnoughNews&storyID=2005-08-03T152635Z_01_L03412961_RTRIDST_0_ODD-MUNCH-THEFT-DC.XML)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/3/the-armed-forces-of-ukraine-resume-an-offensive-near-kramatorsk-as-military-observers-from-the-organization-for-security-and-cooperation-in.html)  [JSON](/news/2014/05/3/the-armed-forces-of-ukraine-resume-an-offensive-near-kramatorsk-as-military-observers-from-the-organization-for-security-and-cooperation-in.json)  [XML](/news/2014/05/3/the-armed-forces-of-ukraine-resume-an-offensive-near-kramatorsk-as-military-observers-from-the-organization-for-security-and-cooperation-in.xml)  
+
 ### [2014-05-3](/news/2014/05/3/index.md)
 
+##### Ukrainian military
 # The Armed Forces of Ukraine resume an offensive near Kramatorsk, as military observers from the Organization for Security and Cooperation in Europe are released after having been held hostage for a week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/world/2014/05/03/ukraine-unrest-spreads/)
 1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/050314/0/0/050314_anhq_shawnukraine_640.jpg?ve=1)

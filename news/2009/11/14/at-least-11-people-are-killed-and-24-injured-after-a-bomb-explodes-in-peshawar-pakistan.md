@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/14/at-least-11-people-are-killed-and-24-injured-after-a-bomb-explodes-in-peshawar-pakistan.html)  [JSON](/news/2009/11/14/at-least-11-people-are-killed-and-24-injured-after-a-bomb-explodes-in-peshawar-pakistan.json)  [XML](/news/2009/11/14/at-least-11-people-are-killed-and-24-injured-after-a-bomb-explodes-in-peshawar-pakistan.xml)  
+
 ### [2009-11-14](/news/2009/11/14/index.md)
 
+##### Peshawar
 #  At least 11 people are killed and 24 injured after a bomb explodes in Peshawar, Pakistan. 
 
 A suicide bomber blew up his explosives-filled car Saturday at a police checkpoint in the northwestern Pakistani city of Peshawar, killing at least 11 people, officials said.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/11/20091114114243650412.html)
 2. [Brisbane Times](http://news.brisbanetimes.com.au/breaking-news-world/suicide-car-bomb-kills-11-in-nw-pakistan-20091115-iftp.html)

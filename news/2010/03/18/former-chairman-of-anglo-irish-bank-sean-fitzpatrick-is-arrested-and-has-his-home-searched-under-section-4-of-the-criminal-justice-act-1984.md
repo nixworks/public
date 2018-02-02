@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/03/18/former-chairman-of-anglo-irish-bank-sean-fitzpatrick-is-arrested-and-has-his-home-searched-under-section-4-of-the-criminal-justice-act-1984.html)  [JSON](/news/2010/03/18/former-chairman-of-anglo-irish-bank-sean-fitzpatrick-is-arrested-and-has-his-home-searched-under-section-4-of-the-criminal-justice-act-1984.json)  [XML](/news/2010/03/18/former-chairman-of-anglo-irish-bank-sean-fitzpatrick-is-arrested-and-has-his-home-searched-under-section-4-of-the-criminal-justice-act-1984.xml)  
+
 ### [2010-03-18](/news/2010/03/18/index.md)
 
+##### Anglo Irish Bank
 # Former Chairman of Anglo Irish Bank Sean FitzPatrick is arrested and has his home searched under Section 4 of the Criminal Justice Act 1984 at his home in Greystones, County Wicklow. 
 
 The former chairman of Anglo Irish Bank, Sean FitzPatrick, was said to be in custody in connection with an investigation into financial fraud.
 
 
-### Source:
+### Sources:
 
 1. [France24](http://www.france24.com/en/20100318-irish-police-fraud-squad-arrests-ex-bank-boss)
 2. [RTÉ](http://www.rte.ie/news/2010/0318/bray.html)
 3. [Sky News](http://news.sky.com/skynews/Home/Business/Fraud-Squad-Questions-Sean-FitzPatrick-Former-Head-Of-Anglo-Irish-Bank/Article/201003315576604?lpos=Business_First_Buisness_Article_Teaser_Region_3&lid=ARTICLE_15576604_Fraud_Squad_Questions_Sean_FitzPatrick%2C_Former_Head_Of_Anglo_Irish_Bank)
-4. [The New York Times](http://www.nytimes.com/2010/03/19/business/global/19anglobank.html)
+4. [The New York Times](https://www.nytimes.com/2010/03/19/business/global/19anglobank.html)
 5. [The Times](http://business.timesonline.co.uk/tol/business/industry_sectors/banking_and_finance/article7067473.ece)
 5. [Cover Image](https://static01.nyt.com/images/2010/03/19/business/19anglobank_CA0/19anglobank_CA0-thumbStandard.jpg)
 

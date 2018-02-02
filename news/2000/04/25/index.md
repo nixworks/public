@@ -1,7 +1,7 @@
-## [2000-04-25](/news/2000/04/25/index.md)
 
-### [ The State of Vermont passes HB847, legalizing Civil Unions for same-sex couples.](/news/2000/04/25/the-state-of-vermont-passes-hb847-legalizing-civil-unions-for-same-sex-couples.md)
-_Context: Vermont, civil union_
+Formats: [HTML](2000/04/25/index.html)  [JSON](2000/04/25/index.json)  [XML](2000/04/25/index.xml)  
+
+## [2000-04-25](/news/2000/04/25/index.md)
 
 ## [Previous Day...](/news/2000/04/24/index.md)
 

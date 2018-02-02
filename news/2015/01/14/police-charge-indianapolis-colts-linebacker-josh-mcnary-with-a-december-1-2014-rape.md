@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/14/police-charge-indianapolis-colts-linebacker-josh-mcnary-with-a-december-1-2014-rape.html)  [JSON](/news/2015/01/14/police-charge-indianapolis-colts-linebacker-josh-mcnary-with-a-december-1-2014-rape.json)  [XML](/news/2015/01/14/police-charge-indianapolis-colts-linebacker-josh-mcnary-with-a-december-1-2014-rape.xml)  
+
 ### [2015-01-14](/news/2015/01/14/index.md)
 
+##### Indianapolis Colts
 # Police charge Indianapolis Colts linebacker Josh McNary with a December 1, 2014 rape. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/a4a6cc8de73244618eb368454ab2af69/indianapolis-colts-linebacker-josh-mcnary-charged-rape)
 

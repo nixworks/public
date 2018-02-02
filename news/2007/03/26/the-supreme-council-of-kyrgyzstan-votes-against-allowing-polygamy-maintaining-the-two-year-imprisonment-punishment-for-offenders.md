@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/26/the-supreme-council-of-kyrgyzstan-votes-against-allowing-polygamy-maintaining-the-two-year-imprisonment-punishment-for-offenders.html)  [JSON](/news/2007/03/26/the-supreme-council-of-kyrgyzstan-votes-against-allowing-polygamy-maintaining-the-two-year-imprisonment-punishment-for-offenders.json)  [XML](/news/2007/03/26/the-supreme-council-of-kyrgyzstan-votes-against-allowing-polygamy-maintaining-the-two-year-imprisonment-punishment-for-offenders.xml)  
+
 ### [2007-03-26](/news/2007/03/26/index.md)
 
+##### Supreme Council
 #  The Supreme Council of Kyrgyzstan votes against allowing polygamy, maintaining the two-year imprisonment punishment for offenders. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RFE/RL](http://www.rferl.org/featuresarticle/2007/3/3A857E81-77EC-42AF-A249-E0ED943D85F4.html)
 

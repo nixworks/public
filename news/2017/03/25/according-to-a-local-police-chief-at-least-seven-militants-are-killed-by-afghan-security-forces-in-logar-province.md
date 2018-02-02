@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/25/according-to-a-local-police-chief-at-least-seve
 
 ### [2017-03-25](/news/2017/03/25/index.md)
 
+##### War in Afghanistan (2015-present)
 # According to a local police chief, at least seven militants are killed by Afghan security forces in Logar Province. 
 
 

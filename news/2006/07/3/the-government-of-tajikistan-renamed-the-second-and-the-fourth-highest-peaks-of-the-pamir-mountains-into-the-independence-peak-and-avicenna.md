@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/3/the-government-of-tajikistan-renamed-the-second-and-the-fourth-highest-peaks-of-the-pamir-mountains-into-the-independence-peak-and-avicenna.html)  [JSON](/news/2006/07/3/the-government-of-tajikistan-renamed-the-second-and-the-fourth-highest-peaks-of-the-pamir-mountains-into-the-independence-peak-and-avicenna.json)  [XML](/news/2006/07/3/the-government-of-tajikistan-renamed-the-second-and-the-fourth-highest-peaks-of-the-pamir-mountains-into-the-independence-peak-and-avicenna.xml)  
+
 ### [2006-07-3](/news/2006/07/3/index.md)
 
+##### Tajikistan
 #  The government of Tajikistan renamed the second and the fourth highest peaks of the Pamir Mountains into the Independence Peak and Avicenna Peak, respectively. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Interfax](http://www.interfax.ru/e/B/politics/28.html?menu=1&id_issue=11545381)
 1. [Cover Image](http://www.interfax.ru/img/interfax_icon_300.png)

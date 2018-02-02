@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/12/a-22-year-old-student-is-found-dead-inside-the-
 
 ### [2017-12-12](/news/2017/12/12/index.md)
 
+##### Crime in Peru
 # A 22-year-old student is found dead inside the National University of San Marcos, of Lima, and the most important and oldest of Peru. Everything seems to indicate that he had been killed. Authorities have identified a possible suspect, who is also a student at the university. 
 
 

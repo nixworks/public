@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/25/occupation-of-iraq-a-us-blackhawk-helicopter-is-brought-down-near-tikrit-by-iraqi-militants-the-daily-star-lebanon-reports-that-the-us-is.html)  [JSON](/news/2003/10/25/occupation-of-iraq-a-us-blackhawk-helicopter-is-brought-down-near-tikrit-by-iraqi-militants-the-daily-star-lebanon-reports-that-the-us-is.json)  [XML](/news/2003/10/25/occupation-of-iraq-a-us-blackhawk-helicopter-is-brought-down-near-tikrit-by-iraqi-militants-the-daily-star-lebanon-reports-that-the-us-is.xml)  
+
 ### [2003-10-25](/news/2003/10/25/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: A US Blackhawk helicopter is brought down near Tikrit by Iraqi militants. The Daily Star Lebanon reports that the US is effectively plundering Iraq following the occupation. The daily average of attacks on US troops rises and reaches about 25-26 per day. 100,000 march against the occupation of Iraq in Washington DC.
 
 

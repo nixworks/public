@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/12/26/kerry-packer-major-shareholder-of-pbl-dies-of-kidney-failure-at-the-age-of-68.html)  [JSON](/news/2005/12/26/kerry-packer-major-shareholder-of-pbl-dies-of-kidney-failure-at-the-age-of-68.json)  [XML](/news/2005/12/26/kerry-packer-major-shareholder-of-pbl-dies-of-kidney-failure-at-the-age-of-68.xml)  
+
 ### [2005-12-26](/news/2005/12/26/index.md)
 
+##### Kerry Packer
 #  Kerry Packer, major shareholder of PBL, dies of kidney failure at the age of 68.
 
 

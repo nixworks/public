@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/12/tiger-woods-announces-he-will-take-more-time-off-from-golf-after-finishing-fourth-in-the-2010-masters-tournament.html)  [JSON](/news/2010/04/12/tiger-woods-announces-he-will-take-more-time-off-from-golf-after-finishing-fourth-in-the-2010-masters-tournament.json)  [XML](/news/2010/04/12/tiger-woods-announces-he-will-take-more-time-off-from-golf-after-finishing-fourth-in-the-2010-masters-tournament.xml)  
+
 ### [2010-04-12](/news/2010/04/12/index.md)
 
+##### Tiger Woods
 # Tiger Woods announces he will take more time off from golf after finishing fourth in the 2010 Masters Tournament. 
 
 Tiger Woods was given a prolonged high-five by Steve Williams on Sunday night as he walked off Augusta&#039;s 18th green into the sunset.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/golf/8614701.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/sport/golf/tigerwoods/7583461/Masters-2010-Tiger-Woods-takes-more-time-out-to-become-the-man-he-was.html)

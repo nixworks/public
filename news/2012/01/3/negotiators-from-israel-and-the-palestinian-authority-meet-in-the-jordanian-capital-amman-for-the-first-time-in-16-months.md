@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/3/negotiators-from-israel-and-the-palestinian-authority-meet-in-the-jordanian-capital-amman-for-the-first-time-in-16-months.html)  [JSON](/news/2012/01/3/negotiators-from-israel-and-the-palestinian-authority-meet-in-the-jordanian-capital-amman-for-the-first-time-in-16-months.json)  [XML](/news/2012/01/3/negotiators-from-israel-and-the-palestinian-authority-meet-in-the-jordanian-capital-amman-for-the-first-time-in-16-months.xml)  
+
 ### [2012-01-3](/news/2012/01/3/index.md)
 
+##### Israel
 # Negotiators from Israel and the Palestinian Authority meet in the Jordanian capital, Amman, for the first time in 16 months. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=251937)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=164240)

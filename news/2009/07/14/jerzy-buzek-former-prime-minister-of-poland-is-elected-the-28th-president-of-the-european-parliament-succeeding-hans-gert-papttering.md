@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/14/jerzy-buzek-former-prime-minister-of-poland-is-elected-the-28th-president-of-the-european-parliament-succeeding-hans-gert-papttering.html)  [JSON](/news/2009/07/14/jerzy-buzek-former-prime-minister-of-poland-is-elected-the-28th-president-of-the-european-parliament-succeeding-hans-gert-papttering.json)  [XML](/news/2009/07/14/jerzy-buzek-former-prime-minister-of-poland-is-elected-the-28th-president-of-the-european-parliament-succeeding-hans-gert-papttering.xml)  
+
 ### [2009-07-14](/news/2009/07/14/index.md)
 
+##### Jerzy Buzek
 #  Jerzy Buzek, former Prime Minister of Poland, is elected the 28th President of the European Parliament, succeeding Hans-Gert Pottering. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jNbkR_JuBP66lBj0u2MCp9VB1Fmw)
 2. [AHN](http://www.allheadlinenews.com/articles/7015783086?European%20Parliament%20Elects%20First%20Polish%20Assembly%20President)

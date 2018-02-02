@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/25/an-air-bagan-plane-carrying-more-than-60-passengers-including-many-foreigners-from-the-city-of-yangon-to-heho-airport-in-shan-state-burma.html)  [JSON](/news/2012/12/25/an-air-bagan-plane-carrying-more-than-60-passengers-including-many-foreigners-from-the-city-of-yangon-to-heho-airport-in-shan-state-burma.json)  [XML](/news/2012/12/25/an-air-bagan-plane-carrying-more-than-60-passengers-including-many-foreigners-from-the-city-of-yangon-to-heho-airport-in-shan-state-burma.xml)  
+
 ### [2012-12-25](/news/2012/12/25/index.md)
 
+##### Air Bagan
 # An Air Bagan plane carrying more than 60 passengers, including many foreigners, from the city of Yangon to Heho Airport in Shan State, Burma, makes an emergency landing, killing a passenger and a motorcyclist and injuring 11 others. 
 
 A plane carrying more than 60 passengers, including many foreigners, crash-lands in Burma, killing a passenger and a motorcyclist.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/12/20121225134855270660.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-20841380)

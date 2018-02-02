@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/27/the-massachusetts-supreme-judicial-court-orders-the-unsealing-of-investigative-files-related-to-the-unsolved-1972-murder-of-13-year-old-alt.html)  [JSON](/news/2004/07/27/the-massachusetts-supreme-judicial-court-orders-the-unsealing-of-investigative-files-related-to-the-unsolved-1972-murder-of-13-year-old-alt.json)  [XML](/news/2004/07/27/the-massachusetts-supreme-judicial-court-orders-the-unsealing-of-investigative-files-related-to-the-unsolved-1972-murder-of-13-year-old-alt.xml)  
+
 ### [2004-07-27](/news/2004/07/27/index.md)
 
+##### Massachusetts Supreme Judicial Court
 #  The Massachusetts Supreme Judicial Court orders the unsealing of investigative files related to the unsolved 1972 murder of 13-year-old altar boy Danny Croteau. Richard Lavigne, a defrocked priest convicted of child molestation, is the only suspect in the case. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/wire/US/ap20040727_863.html)
 

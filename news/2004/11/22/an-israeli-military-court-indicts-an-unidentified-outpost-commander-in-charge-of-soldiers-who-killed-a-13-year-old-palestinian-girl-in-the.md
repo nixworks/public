@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/22/an-israeli-military-court-indicts-an-unidentified-outpost-commander-in-charge-of-soldiers-who-killed-a-13-year-old-palestinian-girl-in-the.html)  [JSON](/news/2004/11/22/an-israeli-military-court-indicts-an-unidentified-outpost-commander-in-charge-of-soldiers-who-killed-a-13-year-old-palestinian-girl-in-the.json)  [XML](/news/2004/11/22/an-israeli-military-court-indicts-an-unidentified-outpost-commander-in-charge-of-soldiers-who-killed-a-13-year-old-palestinian-girl-in-the.xml)  
+
 ### [2004-11-22](/news/2004/11/22/index.md)
 
+##### Israel
 #  An Israeli military court indicts an unidentified outpost commander in charge of soldiers who killed a 13-year-old Palestinian girl in the Gaza Strip on October 5. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/hasen/spages/504926.html)
 

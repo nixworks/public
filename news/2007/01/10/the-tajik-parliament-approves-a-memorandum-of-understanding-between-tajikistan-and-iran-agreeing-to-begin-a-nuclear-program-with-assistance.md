@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/10/the-tajik-parliament-approves-a-memorandum-of-understanding-between-tajikistan-and-iran-agreeing-to-begin-a-nuclear-program-with-assistance.html)  [JSON](/news/2007/01/10/the-tajik-parliament-approves-a-memorandum-of-understanding-between-tajikistan-and-iran-agreeing-to-begin-a-nuclear-program-with-assistance.json)  [XML](/news/2007/01/10/the-tajik-parliament-approves-a-memorandum-of-understanding-between-tajikistan-and-iran-agreeing-to-begin-a-nuclear-program-with-assistance.xml)  
+
 ### [2007-01-10](/news/2007/01/10/index.md)
 
+##### Tajik Parliament
 #  The Tajik Parliament approves a Memorandum of Understanding between Tajikistan and Iran agreeing to begin a nuclear program with assistance from the Iranian government in building a power plant. Tajikistan is the second nation in Central Asia to pursue a nuclear program, the other being Kazakhstan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IRNA](http://www.irna.ir/en/news/view/menu-237/0701107277190106.htm)
 

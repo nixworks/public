@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/13/researchers-from-the-americas-and-europe-discov
 
 ### [2016-09-13](/news/2016/09/13/index.md)
 
+##### language acquisition
 # Researchers from the Americas and Europe discover that sounds in 40-100 basic vocabulary words in around 3,700 languages are similar. 
 
 Humans across the globe may be actually speaking the same language after scientists found that the sounds used to make the words of common objects and ideas are strikingly similar.

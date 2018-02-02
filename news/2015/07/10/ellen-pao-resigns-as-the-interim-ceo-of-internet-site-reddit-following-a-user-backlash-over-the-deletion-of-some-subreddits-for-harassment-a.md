@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/10/ellen-pao-resigns-as-the-interim-ceo-of-internet-site-reddit-following-a-user-backlash-over-the-deletion-of-some-subreddits-for-harassment-a.html)  [JSON](/news/2015/07/10/ellen-pao-resigns-as-the-interim-ceo-of-internet-site-reddit-following-a-user-backlash-over-the-deletion-of-some-subreddits-for-harassment-a.json)  [XML](/news/2015/07/10/ellen-pao-resigns-as-the-interim-ceo-of-internet-site-reddit-following-a-user-backlash-over-the-deletion-of-some-subreddits-for-harassment-a.xml)  
+
 ### [2015-07-10](/news/2015/07/10/index.md)
 
+##### Ellen Pao
 # Ellen Pao resigns as the interim CEO of Internet site Reddit following a user backlash over the deletion of some subreddits for harassment and sacking of a popular admin. Site co-founder Steve Huffman will take her place. 
 
 Reddit, one of the most highly trafficked websites in the world, is replacing its interim chief executive, Ellen Pao, ending an eight-month tenure that was enmeshed in controversy.
 
 
-### Source:
+### Sources:
 
 1. [WSJ](http://blogs.wsj.com/digits/2015/07/10/ellen-pao-is-out-as-ceo-of-reddit/)
 1. [Cover Image](http://si.wsj.net/public/resources/images/BN-JG484_reddit_P_20150706211341.jpg)

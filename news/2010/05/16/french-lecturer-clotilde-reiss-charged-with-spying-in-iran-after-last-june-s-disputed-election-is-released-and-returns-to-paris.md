@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/16/french-lecturer-clotilde-reiss-charged-with-spying-in-iran-after-last-june-s-disputed-election-is-released-and-returns-to-paris.html)  [JSON](/news/2010/05/16/french-lecturer-clotilde-reiss-charged-with-spying-in-iran-after-last-june-s-disputed-election-is-released-and-returns-to-paris.json)  [XML](/news/2010/05/16/french-lecturer-clotilde-reiss-charged-with-spying-in-iran-after-last-june-s-disputed-election-is-released-and-returns-to-paris.xml)  
+
 ### [2010-05-16](/news/2010/05/16/index.md)
 
+##### France
 # French lecturer Clotilde Reiss, charged with spying in Iran after last June's disputed election, is released and returns to Paris. 
 
 Woman arrested after disputed presidential poll, released and on her way home.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/05/201051642716856614.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8685071.stm)

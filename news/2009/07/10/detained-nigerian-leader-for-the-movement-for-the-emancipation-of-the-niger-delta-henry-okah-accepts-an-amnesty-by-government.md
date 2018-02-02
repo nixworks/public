@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/10/detained-nigerian-leader-for-the-movement-for-the-emancipation-of-the-niger-delta-henry-okah-accepts-an-amnesty-by-government.html)  [JSON](/news/2009/07/10/detained-nigerian-leader-for-the-movement-for-the-emancipation-of-the-niger-delta-henry-okah-accepts-an-amnesty-by-government.json)  [XML](/news/2009/07/10/detained-nigerian-leader-for-the-movement-for-the-emancipation-of-the-niger-delta-henry-okah-accepts-an-amnesty-by-government.xml)  
+
 ### [2009-07-10](/news/2009/07/10/index.md)
 
+##### Nigeria
 #  Detained Nigerian leader for the Movement for the Emancipation of the Niger Delta Henry Okah accepts an amnesty by government. 
 
 To this end, President Umaru Yarâ€™Adua who was delighted by this development, has directed the Attorney-General of the Federation and Minister of Justice, Mr. Michael Aondaokaa to effect the immediately release of the MEND leader.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8143195.stm)
 2. [Vanguard](http://www.vanguardngr.com/2009/07/10/okah-accepts-amnesty-yaradua-orders-release/)

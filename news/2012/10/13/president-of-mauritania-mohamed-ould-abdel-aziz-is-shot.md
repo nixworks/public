@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/13/president-of-mauritania-mohamed-ould-abdel-aziz-is-shot.html)  [JSON](/news/2012/10/13/president-of-mauritania-mohamed-ould-abdel-aziz-is-shot.json)  [XML](/news/2012/10/13/president-of-mauritania-mohamed-ould-abdel-aziz-is-shot.xml)  
+
 ### [2012-10-13](/news/2012/10/13/index.md)
 
+##### President of Mauritania
 # President of Mauritania Mohamed Ould Abdel Aziz is shot. 
 
 Mauritanian President Mohamed Ould Abdelaziz is wounded in what officials say appears to be an accidental shooting in the capital, Nouakchott.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/10/2012101322239928575.html)
 2. [BBC](http://www.bbc.com/news/world-africa-19938905)

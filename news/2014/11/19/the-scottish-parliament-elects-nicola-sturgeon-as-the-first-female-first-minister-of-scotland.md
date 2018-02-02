@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/19/the-scottish-parliament-elects-nicola-sturgeon-as-the-first-female-first-minister-of-scotland.html)  [JSON](/news/2014/11/19/the-scottish-parliament-elects-nicola-sturgeon-as-the-first-female-first-minister-of-scotland.json)  [XML](/news/2014/11/19/the-scottish-parliament-elects-nicola-sturgeon-as-the-first-female-first-minister-of-scotland.xml)  
+
 ### [2014-11-19](/news/2014/11/19/index.md)
 
+##### Scottish Parliament
 # The Scottish Parliament elects Nicola Sturgeon as the first female First Minister of Scotland. 
 
 NICOLA Sturgeon yesterday promised to create greater opportunities for Scotland&amp;#8217;s women when she was elected the country&amp;#8217;s first female First Minister. 
 
 
-### Source:
+### Sources:
 
 1. [The Scotsman](http://www.scotsman.com/news/politics/top-stories/nicola-sturgeon-voted-in-as-first-minister-1-3610055)
 1. [Cover Image](http://res.cloudinary.com/jpress/image/fetch/w_300,f_auto,ar_3:2,c_fill/http://www.scotsman.com/webimage/1.3610721.1416482231!/image/3070174258.jpg)

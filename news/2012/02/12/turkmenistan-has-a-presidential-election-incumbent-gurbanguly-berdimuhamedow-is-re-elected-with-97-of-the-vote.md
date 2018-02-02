@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/12/turkmenistan-has-a-presidential-election-incumbent-gurbanguly-berdimuhamedow-is-re-elected-with-97-of-the-vote.html)  [JSON](/news/2012/02/12/turkmenistan-has-a-presidential-election-incumbent-gurbanguly-berdimuhamedow-is-re-elected-with-97-of-the-vote.json)  [XML](/news/2012/02/12/turkmenistan-has-a-presidential-election-incumbent-gurbanguly-berdimuhamedow-is-re-elected-with-97-of-the-vote.xml)  
+
 ### [2012-02-12](/news/2012/02/12/index.md)
 
+##### Turkmenistan
 # Turkmenistan has a presidential election; incumbent Gurbanguly Berdimuhamedow is re-elected with 97% of the vote. 
 
 The President of Turkmenistan, Kurbanguly Berdymukhamedov, is re-elected for another term with a landslide majority.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17009053)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58457000/jpg/_58457700_turkmenistan_presiden_logi.jpg)

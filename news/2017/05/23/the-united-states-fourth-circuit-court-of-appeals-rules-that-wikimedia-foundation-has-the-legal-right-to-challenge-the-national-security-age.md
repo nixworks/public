@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/23/the-united-states-fourth-circuit-court-of-appea
 
 ### [2017-05-23](/news/2017/05/23/index.md)
 
+##### Fourth Circuit Appeals Court
 # The United States Fourth Circuit Court of Appeals rules that Wikimedia Foundation has the legal right to challenge the National Security Agency Upstream program of mass online surveillance. This decision reinstates the suit that had been dismissed by a Federal district judge in Baltimore, Maryland. Eight other organizations, including Amnesty International USA and the Global Fund for Women, are also plaintiffs in this case. 
 
  A federal appeals court on Tuesday revived a Wikipedia lawsuit that challenges a U.S. National Security Agency (NSA) program of mass online surveillance, and c

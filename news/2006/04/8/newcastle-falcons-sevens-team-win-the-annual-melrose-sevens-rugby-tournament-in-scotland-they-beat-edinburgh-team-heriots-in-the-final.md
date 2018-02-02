@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/04/8/newcastle-falcons-sevens-team-win-the-annual-melrose-sevens-rugby-tournament-in-scotland-they-beat-edinburgh-team-heriots-in-the-final.html)  [JSON](/news/2006/04/8/newcastle-falcons-sevens-team-win-the-annual-melrose-sevens-rugby-tournament-in-scotland-they-beat-edinburgh-team-heriots-in-the-final.json)  [XML](/news/2006/04/8/newcastle-falcons-sevens-team-win-the-annual-melrose-sevens-rugby-tournament-in-scotland-they-beat-edinburgh-team-heriots-in-the-final.xml)  
+
 ### [2006-04-8](/news/2006/04/8/index.md)
 
+##### Newcastle Falcons
 #  Newcastle Falcons sevens team win the annual Melrose Sevens rugby tournament in Scotland. They beat Edinburgh team Heriots in the final.
 
 

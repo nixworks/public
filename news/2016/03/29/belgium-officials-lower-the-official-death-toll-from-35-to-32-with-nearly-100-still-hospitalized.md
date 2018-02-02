@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/29/belgium-officials-lower-the-official-death-toll
 
 ### [2016-03-29](/news/2016/03/29/index.md)
 
+##### 2016 Brussels bombings
 # Belgium officials lower the official death toll from 35 to 32, with nearly 100 still hospitalized. 
 
 

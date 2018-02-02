@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/06/17/democratic-presidential-candidate-barack-obama-opens-the-u-s-general-election-campaign-with-a-narrow-lead-over-republican-john-mccain.html)  [JSON](/news/2008/06/17/democratic-presidential-candidate-barack-obama-opens-the-u-s-general-election-campaign-with-a-narrow-lead-over-republican-john-mccain.json)  [XML](/news/2008/06/17/democratic-presidential-candidate-barack-obama-opens-the-u-s-general-election-campaign-with-a-narrow-lead-over-republican-john-mccain.xml)  
+
 ### [2008-06-17](/news/2008/06/17/index.md)
 
+##### Barack Obama
 #  Democratic presidential candidate Barack Obama opens the U.S. general election campaign with a narrow lead over Republican John McCain. 
 
 Democratic presidential hopeful Barack Obama opens the general election campaign with a narrow lead over Republican John McCain but the two score near even among independent voters, The Washington Post reported on Tuesday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSN1730688920080617?feedType=nl&feedName=usmorningdigest)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080617&t=2&i=4796332&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-06-17T122945Z_01_N17306889_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSN1730688920080617?feedType=nl&feedName=usmorningdigest)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20080617&t=2&i=4796332&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-06-17T122945Z_01_N17306889_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

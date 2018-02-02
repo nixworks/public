@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/10/21/saadoun-sughaiyer-al-janabi-the-defense-lawyer-of-awad-hamed-al-bandar-in-the-al-dujail-trial-is-found-dead-of-gunshot-wounds-near-a-bagh.html)  [JSON](/news/2005/10/21/saadoun-sughaiyer-al-janabi-the-defense-lawyer-of-awad-hamed-al-bandar-in-the-al-dujail-trial-is-found-dead-of-gunshot-wounds-near-a-bagh.json)  [XML](/news/2005/10/21/saadoun-sughaiyer-al-janabi-the-defense-lawyer-of-awad-hamed-al-bandar-in-the-al-dujail-trial-is-found-dead-of-gunshot-wounds-near-a-bagh.xml)  
+
 ### [2005-10-21](/news/2005/10/21/index.md)
 
+##### Awad Hamed al-Bandar
 #  Saadoun Sughaiyer al-Janabi, the defense lawyer of Awad Hamed al-Bandar in the Al-Dujail trial, is found dead of gunshot wounds near a Baghdad mosque, after having been kidnapped on Thursday evening by unknown assailants. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://news.yahoo.com/s/ap/20051021/ap_on_re_mi_ea/iraq_051021124226;_ylt=AgyvmwlEmdiyu0nDvwLt5llX6GMA;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl)
+1. [AP](https://news.yahoo.com/s/ap/20051021/ap_on_re_mi_ea/iraq_051021124226;_ylt=AgyvmwlEmdiyu0nDvwLt5llX6GMA;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl)
 
 ### Related:
 

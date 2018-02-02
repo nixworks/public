@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2007/11/23/many-employees-of-paris-ma-c-tro-cross-picket-lines-and-return-to-work-defying-the-ongoing-public-sector-strikes-transit-officials-report-n.html)  [JSON](/news/2007/11/23/many-employees-of-paris-ma-c-tro-cross-picket-lines-and-return-to-work-defying-the-ongoing-public-sector-strikes-transit-officials-report-n.json)  [XML](/news/2007/11/23/many-employees-of-paris-ma-c-tro-cross-picket-lines-and-return-to-work-defying-the-ongoing-public-sector-strikes-transit-officials-report-n.xml)  
+
 ### [2007-11-23](/news/2007/11/23/index.md)
 
+##### Paris Metro
 #  Many employees of Paris Metro cross picket lines and return to work, defying the ongoing public-sector strikes. Transit officials report near-normal operation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7108964.stm)
+
+### Changes:
+
+1. [ Many employees of Paris Mtro cross picket lines and return to work, defying the ongoing public-sector strikes. Transit officials report near-normal operation. ](/news/2007/11/23/many-employees-of-paris-metro-cross-picket-lines-and-return-to-work-defying-the-ongoing-public-sector-strikes-transit-officials-report-ne.md) _2017-09-24 03:24:05 (First version)_
+1. [ Many employees of Paris Metro cross picket lines and return to work, defying the ongoing public-sector strikes. Transit officials report near-normal operation. ](/news/2007/11/23/many-employees-of-paris-ma-c-tro-cross-picket-lines-and-return-to-work-defying-the-ongoing-public-sector-strikes-transit-officials-report-n.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [ Strikes in France: Transport workers strike for the fifth consecutive day, rejecting an offer by public railway company SNCF. ](/news/2007/11/18/strikes-in-france-transport-workers-strike-for-the-fifth-consecutive-day-rejecting-an-offer-by-public-railway-company-sncf.md) _Context: public-sector strikes_
 4. [ Strikes in France: French train drivers' strike against President Nicolas Sarkozy's pension reform enters its third day. ](/news/2007/11/16/strikes-in-france-french-train-drivers-strike-against-president-nicolas-sarkozy-s-pension-reform-enters-its-third-day.md) _Context: public-sector strikes_
 5. [ Strikes in France: French transport workers' strike against President Nicolas Sarkozy's pension reform enters its second day, but energy workers and CFDT members return to work. ](/news/2007/11/15/strikes-in-france-french-transport-workers-strike-against-president-nicolas-sarkozy-s-pension-reform-enters-its-second-day-but-energy-wo.md) _Context: public-sector strikes_
-
-### Changes:
-
-1. [ Many employees of Paris Mtro cross picket lines and return to work, defying the ongoing public-sector strikes. Transit officials report near-normal operation. ](/news/2007/11/23/many-employees-of-paris-metro-cross-picket-lines-and-return-to-work-defying-the-ongoing-public-sector-strikes-transit-officials-report-ne.md) _2017-09-24 03:24:05 (First version)_
-1. [ Many employees of Paris Metro cross picket lines and return to work, defying the ongoing public-sector strikes. Transit officials report near-normal operation. ](/news/2007/11/23/many-employees-of-paris-ma-c-tro-cross-picket-lines-and-return-to-work-defying-the-ongoing-public-sector-strikes-transit-officials-report-n.md) _(Current version)_

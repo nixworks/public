@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/2/ariel-sharon-states-that-he-is-ordering-a-halt-to-all-construction-and-development-in-gaza-strip-settlements.html)  [JSON](/news/2004/04/2/ariel-sharon-states-that-he-is-ordering-a-halt-to-all-construction-and-development-in-gaza-strip-settlements.json)  [XML](/news/2004/04/2/ariel-sharon-states-that-he-is-ordering-a-halt-to-all-construction-and-development-in-gaza-strip-settlements.xml)  
+
 ### [2004-04-2](/news/2004/04/2/index.md)
 
+##### Ariel Sharon
 #  Ariel Sharon states that he is ordering a halt to all construction and development in Gaza Strip settlements. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?pagename=JPost/P/FrontPage/FrontPage&cid=1002116796299)
 

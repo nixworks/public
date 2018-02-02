@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/6/the-uk-s-office-of-fair-trading-gives-the-country-s-top-50-payday-loans-companies-12-weeks-to-change-their-practices-after-identifying-wide.html)  [JSON](/news/2013/03/6/the-uk-s-office-of-fair-trading-gives-the-country-s-top-50-payday-loans-companies-12-weeks-to-change-their-practices-after-identifying-wide.json)  [XML](/news/2013/03/6/the-uk-s-office-of-fair-trading-gives-the-country-s-top-50-payday-loans-companies-12-weeks-to-change-their-practices-after-identifying-wide.xml)  
+
 ### [2013-03-6](/news/2013/03/6/index.md)
 
+##### UK
 # The UK's Office of Fair Trading gives the country's top 50 payday loans companies 12 weeks to change their practices after identifying "widespread irresponsible lending". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-21683739)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66223000/jpg/_66223085_paydayloanpadominiclipinski.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/13/in-the-philippines-thousands-of-protestors-gather-in-manila-to-demand-the-resignation-of-president-gloria-arroyo-who-has-reshuffled-her-c.html)  [JSON](/news/2005/07/13/in-the-philippines-thousands-of-protestors-gather-in-manila-to-demand-the-resignation-of-president-gloria-arroyo-who-has-reshuffled-her-c.json)  [XML](/news/2005/07/13/in-the-philippines-thousands-of-protestors-gather-in-manila-to-demand-the-resignation-of-president-gloria-arroyo-who-has-reshuffled-her-c.xml)  
+
 ### [2005-07-13](/news/2005/07/13/index.md)
 
+##### Philippines
 #  In the Philippines, thousands of protestors gather in Manila to demand the resignation of president Gloria Arroyo, who has reshuffled her cabinet. The military is on alert in case of violence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-07-13T063936Z_01_HO305287_RTRUKOC_0_PHILIPPINES.xml)
 

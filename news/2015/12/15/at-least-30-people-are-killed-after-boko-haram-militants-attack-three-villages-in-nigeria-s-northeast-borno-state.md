@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/12/15/at-least-30-people-are-killed-after-boko-haram-militants-attack-three-villages-in-nigeria-s-northeast-borno-state.html)  [JSON](/news/2015/12/15/at-least-30-people-are-killed-after-boko-haram-militants-attack-three-villages-in-nigeria-s-northeast-borno-state.json)  [XML](/news/2015/12/15/at-least-30-people-are-killed-after-boko-haram-militants-attack-three-villages-in-nigeria-s-northeast-borno-state.xml)  
+
 ### [2015-12-15](/news/2015/12/15/index.md)
 
+##### Islamist insurgency in Nigeria
 # At least 30 people are killed after Boko Haram militants attack three villages in Nigeria's northeast Borno state. 
 
 Brutal weekend attacks on three villages by Boko Haram Islamists in the restive northeast of Nigeria have left 30 dead and 20 others wounded, a vigilante told AFP. &quot;Most of the victims were slaughtered and most of the wounded (had suffered) machete cuts,&quot; Mustapha Karimbe, a civilian helping
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo](http://news.yahoo.com/30-dead-boko-haram-attack-three-nigeria-villages-220803427.html)
-1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/4VzAu0IJwdua2hKcdmVguQ--/aD02OTA7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par8334908-1-1-0.jpg)
+1. [AFP via Yahoo](https://news.yahoo.com/30-dead-boko-haram-attack-three-nigeria-villages-220803427.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/N3WqiUV.k3dSuUJado56jQ--~B/aD02OTA7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par8334908-1-1-0.jpg)
+
+### Changes:
+
+1. [Islamist insurgency in Nigeria: At least 30 people are killed after Boko Haram militants attack three villages in Nigeria's northeast Borno state. ](/news/2015/12/15/islamist-insurgency-in-nigeria-at-least-30-people-are-killed-after-boko-haram-militants-attack-three-villages-in-nigeria-s-northeast-borno.md) _2017-08-27 03:44:22 (First version)_
+1. [At least 30 people are killed after Boko Haram militants attack three villages in Nigeria's northeast Borno state. ](/news/2015/12/15/at-least-30-people-are-killed-after-boko-haram-militants-attack-three-villages-in-nigeria-s-northeast-borno-state.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Brutal weekend attacks on three villages by Boko Haram Islamists in the restive 
 3. [Nigerian officials report, as a result of negotiations, Boko Haram has released an estimated 82 schoolgirls who were among about 220 kidnapped from a secondary school in Chibok in Borno State in April 2014. ](/news/2017/05/6/nigerian-officials-report-as-a-result-of-negotiations-boko-haram-has-released-an-estimated-82-schoolgirls-who-were-among-about-220-kidnapp.md) _Context: Boko Haram, Borno State, Nigeria_
 4. [The United Nations suspends aid to dangerous areas of Nigeria's northeastern Borno State following Thursday's attack by Boko Haram (ISIL in Africa) on a humanitarian convoy where two soldiers and three civilians were wounded. However, UNICEF noted, aid will continue to the capital Maiduguri. ](/news/2016/07/29/the-united-nations-suspends-aid-to-dangerous-areas-of-nigeria-s-northeastern-borno-state-following-thursday-s-attack-by-boko-haram-isil-in.md) _Context: Boko Haram, Borno State, Nigeria_
 5. [Fighting in various remote villages in the Borno State of Nigeria kill at least one civilian and six Boko Haram militants. According to the Nigerian Army, they've rescued more than 5,000 hostages from the militants. ](/news/2016/06/26/fighting-in-various-remote-villages-in-the-borno-state-of-nigeria-kill-at-least-one-civilian-and-six-boko-haram-militants-according-to-the.md) _Context: Boko Haram, Borno State, Nigeria_
-
-### Changes:
-
-1. [Islamist insurgency in Nigeria: At least 30 people are killed after Boko Haram militants attack three villages in Nigeria's northeast Borno state. ](/news/2015/12/15/islamist-insurgency-in-nigeria-at-least-30-people-are-killed-after-boko-haram-militants-attack-three-villages-in-nigeria-s-northeast-borno.md) _2017-08-27 03:44:22 (First version)_
-1. [At least 30 people are killed after Boko Haram militants attack three villages in Nigeria's northeast Borno state. ](/news/2015/12/15/at-least-30-people-are-killed-after-boko-haram-militants-attack-three-villages-in-nigeria-s-northeast-borno-state.md) _(Current version)_

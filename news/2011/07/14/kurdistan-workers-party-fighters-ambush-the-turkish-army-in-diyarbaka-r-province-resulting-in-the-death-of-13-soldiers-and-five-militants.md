@@ -1,25 +1,29 @@
+
+Formats: [HTML](/news/2011/07/14/kurdistan-workers-party-fighters-ambush-the-turkish-army-in-diyarbaka-r-province-resulting-in-the-death-of-13-soldiers-and-five-militants.html)  [JSON](/news/2011/07/14/kurdistan-workers-party-fighters-ambush-the-turkish-army-in-diyarbaka-r-province-resulting-in-the-death-of-13-soldiers-and-five-militants.json)  [XML](/news/2011/07/14/kurdistan-workers-party-fighters-ambush-the-turkish-army-in-diyarbaka-r-province-resulting-in-the-death-of-13-soldiers-and-five-militants.xml)  
+
 ### [2011-07-14](/news/2011/07/14/index.md)
 
+##### Kurdistan Workers Party
 # Kurdistan Workers Party fighters ambush the Turkish Army in Diyarbakir Province, resulting in the death of 13 soldiers and five militants. 
 
 Kurdish fighters killed 13 Turkish soldiers in an ambush Thursday and seven militants died in the firefight that marked the worst clash since the Kurdistan Workers Party (PKK) ended a cease-fire in February.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2011/07/14/uk-turkey-kurds-idUKTRE76D3WF20110714)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
-
-### Related:
-
-1. [Two Turkish Army soldiers are killed in a Kurdistan Workers' Party ambush in the southeast Diyarbakir Province. ](/news/2016/02/1/two-turkish-army-soldiers-are-killed-in-a-kurdistan-workers-party-ambush-in-the-southeast-diyarbaka-r-province.md) _Context: Diyarbakir Province, Kurdistan Workers' Party, Turkish Army_
-2. [According to the Turkish Army, its overnight air strike in Dargecit killed eleven militants from the Kurdistan Workers' Party. ](/news/2017/07/11/according-to-the-turkish-army-its-overnight-air-strike-in-dargeassit-killed-eleven-militants-from-the-kurdistan-workers-party.md) _Context: Kurdistan Workers' Party, Turkish Army_
-3. [Turkish Armed Forces state two soldiers are killed and three wounded in a pair of attacks by Kurdistan Workers' Party fighters in Diyarbakir Province in the country's southeast. ](/news/2016/06/28/turkish-armed-forces-state-two-soldiers-are-killed-and-three-wounded-in-a-pair-of-attacks-by-kurdistan-workers-party-fighters-in-diyarbaka.md) _Context: Diyarbakir Province, Kurdistan Workers' Party_
-4. [Turkish police headquarters in Midyat and Cinar, Diyarbakir, are hit by car bombs, killing six people and injuring 39. No group has claimed responsibility but the government accuses PKK rebels of carrying out the attack. ](/news/2016/01/14/turkish-police-headquarters-in-midyat-and-aa-nar-diyarbaka-r-are-hit-by-car-bombs-killing-six-people-and-injuring-39-no-group-has-claim.md) _Context: Diyarbakir Province, Kurdistan Workers' Party_
-5. [Turkey bombs PKK sites in northern Iraq after a bombing yesterday in Hakkari Province that killed at least 16 soldiers. ](/news/2015/09/8/turkey-bombs-pkk-sites-in-northern-iraq-after-a-bombing-yesterday-in-hakkac-ri-province-that-killed-at-least-16-soldiers.md) _Context: Kurdistan Workers' Party, Turkish Army_
 
 ### Changes:
 
 1. [Kurdish-Turkish conflict:Kurdistan Workers Party fighters ambush the Turkish Army in Diyarbakir Province, resulting in the death of 13 soldiers and five militants. ](/news/2011/07/14/kurdishaturkish-conflict-pkurdistan-workers-party-fighters-ambush-the-turkish-army-in-diyarbaka-r-province-resulting-in-the-death-of-13-s.md) _2017-08-25 03:33:46 (First version)_
 2. [Kurdish-Turkish conflict:: Kurdistan Workers Party fighters ambush the Turkish Army in Diyarbakir Province, resulting in the death of 13 soldiers and five militants. ](/news/2011/07/14/kurdish-turkish-conflict-kurdistan-workers-party-fighters-ambush-the-turkish-army-in-diyarbaka-r-province-resulting-in-the-death-of-13.md) _2017-08-27 03:33:54 (Update)_
 2. [Kurdistan Workers Party fighters ambush the Turkish Army in Diyarbakir Province, resulting in the death of 13 soldiers and five militants. ](/news/2011/07/14/kurdistan-workers-party-fighters-ambush-the-turkish-army-in-diyarbaka-r-province-resulting-in-the-death-of-13-soldiers-and-five-militants.md) _(Current version)_
+
+### Related:
+
+1. [Two Turkish Army soldiers are killed in a Kurdistan Workers' Party ambush in the southeast Diyarbakir Province. ](/news/2016/02/1/two-turkish-army-soldiers-are-killed-in-a-kurdistan-workers-party-ambush-in-the-southeast-diyarbaka-r-province.md) _Context: Diyarbakir Province, Turkish Army_
+2. [According to the Turkish Army, its overnight air strike in Dargecit killed eleven militants from the Kurdistan Workers' Party. ](/news/2017/07/11/according-to-the-turkish-army-its-overnight-air-strike-in-dargeassit-killed-eleven-militants-from-the-kurdistan-workers-party.md) _Context: Turkish Army_
+3. [Three Turkish Army soldiers are killed and 10 others wounded in an attack in Syria's al-Bab District; however, there are conflicting reports on who carried out the attack. The Turkish military says the soldiers were targeted in a airstrike by a Syrian warplane, while the Syrian Observatory for Human Rights reports an ISIL suicide bomber was responsible. ](/news/2016/11/24/three-turkish-army-soldiers-are-killed-and-10-others-wounded-in-an-attack-in-syria-s-al-bab-district-however-there-are-conflicting-reports.md) _Context: Turkish Army_
+4. [A Turkish Army soldier is killed and two others injured in an ISIL bombing near the Syrian city of al-Bab. ](/news/2016/11/20/a-turkish-army-soldier-is-killed-and-two-others-injured-in-an-isil-bombing-near-the-syrian-city-of-al-bab.md) _Context: Turkish Army_
+5. [Turkish Armed Forces state two soldiers are killed and three wounded in a pair of attacks by Kurdistan Workers' Party fighters in Diyarbakir Province in the country's southeast. ](/news/2016/06/28/turkish-armed-forces-state-two-soldiers-are-killed-and-three-wounded-in-a-pair-of-attacks-by-kurdistan-workers-party-fighters-in-diyarbaka.md) _Context: Diyarbakir Province_

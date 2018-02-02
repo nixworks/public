@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/12/18/clashes-continue-in-cairo-s-tahrir-square-for-a-third-day-between-the-egyptian-army-and-protesters.html)  [JSON](/news/2011/12/18/clashes-continue-in-cairo-s-tahrir-square-for-a-third-day-between-the-egyptian-army-and-protesters.json)  [XML](/news/2011/12/18/clashes-continue-in-cairo-s-tahrir-square-for-a-third-day-between-the-egyptian-army-and-protesters.xml)  
+
 ### [2011-12-18](/news/2011/12/18/index.md)
 
+##### Cairo
 # Clashes continue in Cairo's Tahrir Square for a third day between the Egyptian Army and protesters. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/12/18/us-egypt-idUSL6E7NH03C20111218)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111218&t=2&i=548421092&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BH138200)
+1. [Reuters](https://www.reuters.com/article/2011/12/18/us-egypt-idUSL6E7NH03C20111218)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111218&t=2&i=548421092&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BH138200)
 
 ### Related:
 

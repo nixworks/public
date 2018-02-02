@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/16/nicolae-timofti-becomes-the-fourth-president-of-moldova-after-nearly-3-years-without-an-elected-head-of-state-and-political-stalemate-in-th.html)  [JSON](/news/2012/03/16/nicolae-timofti-becomes-the-fourth-president-of-moldova-after-nearly-3-years-without-an-elected-head-of-state-and-political-stalemate-in-th.json)  [XML](/news/2012/03/16/nicolae-timofti-becomes-the-fourth-president-of-moldova-after-nearly-3-years-without-an-elected-head-of-state-and-political-stalemate-in-th.xml)  
+
 ### [2012-03-16](/news/2012/03/16/index.md)
 
+##### Nicolae Timofti
 # Nicolae Timofti becomes the fourth President of Moldova, after nearly 3 years without an elected head of state and political stalemate in the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Seattle Times](http://seattletimes.nwsource.com/html/nationworld/2017762753_apeumoldovapresident.html)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/03/12/twentieth-century-fox-s-american-television-drama-series-the-shield-premieres.html)  [JSON](/news/2002/03/12/twentieth-century-fox-s-american-television-drama-series-the-shield-premieres.json)  [XML](/news/2002/03/12/twentieth-century-fox-s-american-television-drama-series-the-shield-premieres.xml)  
+
 ### [2002-03-12](/news/2002/03/12/index.md)
 
+##### Twentieth Century Fox
 # Twentieth Century Fox's American television drama series The Shield premieres.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/26/ludwig-scotty-s-government-wins-a-landslide-victory-in-the-nauruan-parliamentary-election-2007-with-rena-c-harris-as-the-only-member-of-the.html)  [JSON](/news/2007/08/26/ludwig-scotty-s-government-wins-a-landslide-victory-in-the-nauruan-parliamentary-election-2007-with-rena-c-harris-as-the-only-member-of-the.json)  [XML](/news/2007/08/26/ludwig-scotty-s-government-wins-a-landslide-victory-in-the-nauruan-parliamentary-election-2007-with-rena-c-harris-as-the-only-member-of-the.xml)  
+
 ### [2007-08-26](/news/2007/08/26/index.md)
 
+##### Ludwig Scotty
 #  Ludwig Scotty's government wins a landslide victory in the Nauruan parliamentary election, 2007 with Rene Harris as the only member of the Opposition to win a seat. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://abc.net.au/news/stories/2007/08/26/2015462.htm?section=justin)
 

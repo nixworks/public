@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/15/fifa-announces-that-the-2010-football-world-cup-will-be-held-in-south-africa.html)  [JSON](/news/2004/05/15/fifa-announces-that-the-2010-football-world-cup-will-be-held-in-south-africa.json)  [XML](/news/2004/05/15/fifa-announces-that-the-2010-football-world-cup-will-be-held-in-south-africa.xml)  
+
 ### [2004-05-15](/news/2004/05/15/index.md)
 
+##### FIFA
 #  FIFA announces that the 2010 Football World Cup will be held in South Africa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/football/africa/3716521.stm)
 

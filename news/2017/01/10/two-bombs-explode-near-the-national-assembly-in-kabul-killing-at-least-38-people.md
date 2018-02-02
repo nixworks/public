@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/10/two-bombs-explode-near-the-national-assembly-in
 
 ### [2017-01-10](/news/2017/01/10/index.md)
 
+##### War in Afghanistan
 # Two bombs explode near the National Assembly in Kabul, killing at least 38 people. 
 
 

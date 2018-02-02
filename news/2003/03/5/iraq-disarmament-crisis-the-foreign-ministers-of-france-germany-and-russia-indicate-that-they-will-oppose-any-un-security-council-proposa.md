@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/5/iraq-disarmament-crisis-the-foreign-ministers-of-france-germany-and-russia-indicate-that-they-will-oppose-any-un-security-council-proposa.html)  [JSON](/news/2003/03/5/iraq-disarmament-crisis-the-foreign-ministers-of-france-germany-and-russia-indicate-that-they-will-oppose-any-un-security-council-proposa.json)  [XML](/news/2003/03/5/iraq-disarmament-crisis-the-foreign-ministers-of-france-germany-and-russia-indicate-that-they-will-oppose-any-un-security-council-proposa.xml)  
+
 ### [2003-03-5](/news/2003/03/5/index.md)
 
+##### Iraq disarmament crisis
 #  Iraq disarmament crisis: The foreign ministers of France, Germany and Russia indicate that they will oppose any UN Security Council proposals that would authorize war with Iraq.
 
 

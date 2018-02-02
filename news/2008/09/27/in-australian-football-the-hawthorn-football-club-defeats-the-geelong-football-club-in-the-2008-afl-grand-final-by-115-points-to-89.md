@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/27/in-australian-football-the-hawthorn-football-club-defeats-the-geelong-football-club-in-the-2008-afl-grand-final-by-115-points-to-89.html)  [JSON](/news/2008/09/27/in-australian-football-the-hawthorn-football-club-defeats-the-geelong-football-club-in-the-2008-afl-grand-final-by-115-points-to-89.json)  [XML](/news/2008/09/27/in-australian-football-the-hawthorn-football-club-defeats-the-geelong-football-club-in-the-2008-afl-grand-final-by-115-points-to-89.xml)  
+
 ### [2008-09-27](/news/2008/09/27/index.md)
 
+##### Hawthorn Football Club
 #  In Australian football, the Hawthorn Football Club defeats the Geelong Football Club in the 2008 AFL Grand Final by 115 points to 89. 
 
 Hawthorn won its first AFL premiership for 17 years at the MCG, emphatically toppling the Cats by 26 points.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2008/09/27/2375997.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/519250-1x1-700x700.jpg)

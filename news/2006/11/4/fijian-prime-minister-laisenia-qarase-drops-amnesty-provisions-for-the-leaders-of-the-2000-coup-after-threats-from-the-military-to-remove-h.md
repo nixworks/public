@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/4/fijian-prime-minister-laisenia-qarase-drops-amnesty-provisions-for-the-leaders-of-the-2000-coup-after-threats-from-the-military-to-remove-h.html)  [JSON](/news/2006/11/4/fijian-prime-minister-laisenia-qarase-drops-amnesty-provisions-for-the-leaders-of-the-2000-coup-after-threats-from-the-military-to-remove-h.json)  [XML](/news/2006/11/4/fijian-prime-minister-laisenia-qarase-drops-amnesty-provisions-for-the-leaders-of-the-2000-coup-after-threats-from-the-military-to-remove-h.xml)  
+
 ### [2006-11-4](/news/2006/11/4/index.md)
 
+##### Fiji
 #  Fijian Prime Minister Laisenia Qarase drops amnesty provisions for the leaders of the 2000 coup after threats from the military to remove him from office. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NZ Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=2&ObjectID=10409175)
 

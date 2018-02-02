@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/16/heavy-rains-in-uttarakhand-india-result-in-wide-spread-flooding-landslides-and-at-least-3-deaths.html)  [JSON](/news/2013/06/16/heavy-rains-in-uttarakhand-india-result-in-wide-spread-flooding-landslides-and-at-least-3-deaths.json)  [XML](/news/2013/06/16/heavy-rains-in-uttarakhand-india-result-in-wide-spread-flooding-landslides-and-at-least-3-deaths.xml)  
+
 ### [2013-06-16](/news/2013/06/16/index.md)
 
+##### Uttarakhand
 # Heavy rains in Uttarakhand, India result in wide-spread flooding, landslides, and at least 3 deaths. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Indian Express](http://www.indianexpress.com/news/3-dead-pilgrims-stranded-as-rain-lashes-uttarakhand/1129992/)
 

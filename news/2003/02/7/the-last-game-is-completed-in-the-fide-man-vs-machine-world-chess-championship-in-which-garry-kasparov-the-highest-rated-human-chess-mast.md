@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/7/the-last-game-is-completed-in-the-fide-man-vs-machine-world-chess-championship-in-which-garry-kasparov-the-highest-rated-human-chess-mast.html)  [JSON](/news/2003/02/7/the-last-game-is-completed-in-the-fide-man-vs-machine-world-chess-championship-in-which-garry-kasparov-the-highest-rated-human-chess-mast.json)  [XML](/news/2003/02/7/the-last-game-is-completed-in-the-fide-man-vs-machine-world-chess-championship-in-which-garry-kasparov-the-highest-rated-human-chess-mast.xml)  
+
 ### [2003-02-7](/news/2003/02/7/index.md)
 
+##### FIDE
 #  The last game is completed in the FIDE Man vs Machine World Chess Championship, in which Garry Kasparov, the highest rated human chess master, competed against the world champion computer program, Deep Junior. The six game match was played to a 3-3 draw.
 
 

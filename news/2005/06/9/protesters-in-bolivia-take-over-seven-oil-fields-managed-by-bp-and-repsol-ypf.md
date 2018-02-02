@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/9/protesters-in-bolivia-take-over-seven-oil-fields-managed-by-bp-and-repsol-ypf.html)  [JSON](/news/2005/06/9/protesters-in-bolivia-take-over-seven-oil-fields-managed-by-bp-and-repsol-ypf.json)  [XML](/news/2005/06/9/protesters-in-bolivia-take-over-seven-oil-fields-managed-by-bp-and-repsol-ypf.xml)  
+
 ### [2005-06-9](/news/2005/06/9/index.md)
 
+##### Bolivia
 #  Protesters in Bolivia take over seven oil fields managed by BP and Repsol YPF. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IHT](http://www.iht.com/articles/2005/06/09/news/bolivia.php)
 

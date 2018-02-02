@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2011/09/22/the-italian-chamber-of-deputies-rejects-a-request-to-arrest-marco-milanese-a-former-aide-to-the-minister-of-economy-and-finance-giulio-tre.html)  [JSON](/news/2011/09/22/the-italian-chamber-of-deputies-rejects-a-request-to-arrest-marco-milanese-a-former-aide-to-the-minister-of-economy-and-finance-giulio-tre.json)  [XML](/news/2011/09/22/the-italian-chamber-of-deputies-rejects-a-request-to-arrest-marco-milanese-a-former-aide-to-the-minister-of-economy-and-finance-giulio-tre.xml)  
+
 ### [2011-09-22](/news/2011/09/22/index.md)
 
+##### Italian Chamber of Deputies
 # The Italian Chamber of Deputies rejects a request to arrest Marco Milanese, a former aide to the Minister of Economy and Finance, Giulio Tremonti, on corruption charges. 
 
+Italy’s Parliament rejected a request to authorize the arrest of a former aide to Finance Minister Giulio Tremonti, in a show of unity of Prime Minister Silvio Berlusconi’s government amid Europe’s debt crisis.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2011-09-21/berlusconi-braces-for-vote-on-ally-s-arrest-amid-calls-to-resign.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2011-09-21/berlusconi-braces-for-vote-on-ally-s-arrest-amid-calls-to-resign.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

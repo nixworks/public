@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/21/the-six-approved-candidates-including-the-incum
 
 ### [2017-04-21](/news/2017/04/21/index.md)
 
+##### re-elected
 # The six approved candidates, including the incumbent Hassan Rouhani, begin campaigning. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/11/brian-chase-of-nashville-tennessee-admits-putting-false-information-about-john-seigenthaler-sr-into-a-wikipedia-article-leading-to-wides.html)  [JSON](/news/2005/12/11/brian-chase-of-nashville-tennessee-admits-putting-false-information-about-john-seigenthaler-sr-into-a-wikipedia-article-leading-to-wides.json)  [XML](/news/2005/12/11/brian-chase-of-nashville-tennessee-admits-putting-false-information-about-john-seigenthaler-sr-into-a-wikipedia-article-leading-to-wides.xml)  
+
 ### [2005-12-11](/news/2005/12/11/index.md)
 
+##### Brian Chase
 #  Brian Chase of Nashville, Tennessee admits putting false information about John Seigenthaler Sr. into a Wikipedia article, leading to widespread debate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/technology/4520678.stm)
 2. [CNN](http://edition.cnn.com/2005/US/12/11/wikipedia.ap/index.html)

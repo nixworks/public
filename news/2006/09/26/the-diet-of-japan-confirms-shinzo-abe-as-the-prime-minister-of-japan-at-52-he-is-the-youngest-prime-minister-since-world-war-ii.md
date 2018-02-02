@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/26/the-diet-of-japan-confirms-shinzo-abe-as-the-prime-minister-of-japan-at-52-he-is-the-youngest-prime-minister-since-world-war-ii.html)  [JSON](/news/2006/09/26/the-diet-of-japan-confirms-shinzo-abe-as-the-prime-minister-of-japan-at-52-he-is-the-youngest-prime-minister-since-world-war-ii.json)  [XML](/news/2006/09/26/the-diet-of-japan-confirms-shinzo-abe-as-the-prime-minister-of-japan-at-52-he-is-the-youngest-prime-minister-since-world-war-ii.xml)  
+
 ### [2006-09-26](/news/2006/09/26/index.md)
 
+##### Diet
 #  The Diet of Japan confirms Shinzo Abe as the Prime Minister of Japan. At 52, he is the youngest Prime Minister since World War II. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Tiscali](http://www.tiscali.co.uk/news/newswire.php/news/reuters/2006/09/26/world/abe-elected-japanese-pm.html&template=/news/feeds/story_template.html)
 

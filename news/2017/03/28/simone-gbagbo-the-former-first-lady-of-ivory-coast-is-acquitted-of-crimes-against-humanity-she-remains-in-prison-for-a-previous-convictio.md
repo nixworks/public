@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/28/simone-gbagbo-the-former-first-lady-of-ivory-co
 
 ### [2017-03-28](/news/2017/03/28/index.md)
 
+##### Simone Gbagbo
 # Simone Gbagbo, the former First Lady of Ivory Coast, is acquitted of crimes against humanity. She remains in prison for a previous conviction for undermining state security. 
 
 Crimes against humanity charges relate to the deadly violence after the 2010 presidential elections.

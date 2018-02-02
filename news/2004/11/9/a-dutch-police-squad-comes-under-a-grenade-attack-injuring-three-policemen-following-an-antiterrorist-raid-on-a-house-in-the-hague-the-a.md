@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/11/9/a-dutch-police-squad-comes-under-a-grenade-attack-injuring-three-policemen-following-an-antiterrorist-raid-on-a-house-in-the-hague-the-a.html)  [JSON](/news/2004/11/9/a-dutch-police-squad-comes-under-a-grenade-attack-injuring-three-policemen-following-an-antiterrorist-raid-on-a-house-in-the-hague-the-a.json)  [XML](/news/2004/11/9/a-dutch-police-squad-comes-under-a-grenade-attack-injuring-three-policemen-following-an-antiterrorist-raid-on-a-house-in-the-hague-the-a.xml)  
+
 ### [2004-11-9](/news/2004/11/9/index.md)
 
+##### Netherlands
 #  A Dutch police squad comes under a grenade attack, injuring three policemen, following an antiterrorist raid on a house in The Hague. The area's airspace is closed as a precaution. Two arrests have been made.
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/3998347.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6770892&section=news)
-2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6770892&section=news)
 
 ### Related:
 

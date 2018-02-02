@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/4/tomihiro-taniguchi-deputy-director-general-of-the-international-atomic-energy-agency-announces-that-algeria-egypt-morocco-and-saudi-ara.html)  [JSON](/news/2006/11/4/tomihiro-taniguchi-deputy-director-general-of-the-international-atomic-energy-agency-announces-that-algeria-egypt-morocco-and-saudi-ara.json)  [XML](/news/2006/11/4/tomihiro-taniguchi-deputy-director-general-of-the-international-atomic-energy-agency-announces-that-algeria-egypt-morocco-and-saudi-ara.xml)  
+
 ### [2006-11-4](/news/2006/11/4/index.md)
 
+##### Tomihiro Taniguchi
 #  Tomihiro Taniguchi, Deputy Director-General of the International Atomic Energy Agency, announces that Algeria, Egypt, Morocco and Saudi Arabia, and possibly Tunisia and the United Arab Emirates, will launch nuclear programs for desalination. A proliferation expert asserts the real reason behind the programs is for a "security hedge." 
 
 News and opinion from The Times &amp; The Sunday Times
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/article/0,,3-2436948,00.html)
 1. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)

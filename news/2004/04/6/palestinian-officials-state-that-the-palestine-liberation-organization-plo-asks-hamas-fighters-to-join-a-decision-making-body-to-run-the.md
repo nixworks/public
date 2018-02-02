@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/6/palestinian-officials-state-that-the-palestine-liberation-organization-plo-asks-hamas-fighters-to-join-a-decision-making-body-to-run-the.html)  [JSON](/news/2004/04/6/palestinian-officials-state-that-the-palestine-liberation-organization-plo-asks-hamas-fighters-to-join-a-decision-making-body-to-run-the.json)  [XML](/news/2004/04/6/palestinian-officials-state-that-the-palestine-liberation-organization-plo-asks-hamas-fighters-to-join-a-decision-making-body-to-run-the.xml)  
+
 ### [2004-04-6](/news/2004/04/6/index.md)
 
+##### Palestinian
 #  Palestinian officials state that the Palestine Liberation Organization (PLO) asks Hamas fighters to join a decision making body to run the Gaza Strip if Israel pulls out. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/0C099809-C210-4410-B287-7E089263DA9B.htm)
 

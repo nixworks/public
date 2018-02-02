@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/17/united-states-district-court-judge-williams-alsup-orders-greg-anderson-the-personal-trainer-of-barry-bonds-to-testify-before-a-grand-jury.html)  [JSON](/news/2006/08/17/united-states-district-court-judge-williams-alsup-orders-greg-anderson-the-personal-trainer-of-barry-bonds-to-testify-before-a-grand-jury.json)  [XML](/news/2006/08/17/united-states-district-court-judge-williams-alsup-orders-greg-anderson-the-personal-trainer-of-barry-bonds-to-testify-before-a-grand-jury.xml)  
+
 ### [2006-08-17](/news/2006/08/17/index.md)
 
+##### Williams Alsup
 #  United States district court judge Williams Alsup orders Greg Anderson, the personal trainer of Barry Bonds to testify before a Grand Jury about use of steroids by athletes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg](http://quote.bloomberg.com/apps/news?pid=20601079&sid=acsVNFClVj3M)
 

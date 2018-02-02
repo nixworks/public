@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/29/twenty-six-people-are-dead-and-fifty-one-missing-as-a-result-of-snowstorms-in-eastern-mongolia.html)  [JSON](/news/2008/05/29/twenty-six-people-are-dead-and-fifty-one-missing-as-a-result-of-snowstorms-in-eastern-mongolia.json)  [XML](/news/2008/05/29/twenty-six-people-are-dead-and-fifty-one-missing-as-a-result-of-snowstorms-in-eastern-mongolia.xml)  
+
 ### [2008-05-29](/news/2008/05/29/index.md)
 
+##### snowstorms
 #  Twenty-six people are dead and fifty-one missing as a result of snowstorms in eastern Mongolia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [UB Post](http://ubpost.mongolnews.mn/index.php?option=com_content&task=view&id=1872&Itemid=1)
 

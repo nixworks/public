@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/16/a-united-nations-report-condemns-the-continued-existence-of-camp-delta-and-multiple-breaches-of-human-rights-by-the-us.html)  [JSON](/news/2006/02/16/a-united-nations-report-condemns-the-continued-existence-of-camp-delta-and-multiple-breaches-of-human-rights-by-the-us.json)  [XML](/news/2006/02/16/a-united-nations-report-condemns-the-continued-existence-of-camp-delta-and-multiple-breaches-of-human-rights-by-the-us.xml)  
+
 ### [2006-02-16](/news/2006/02/16/index.md)
 
+##### United Nations
 #  A United Nations report condemns the continued existence of Camp Delta, and multiple breaches of Human Rights by the US. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4718724.stm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4721068.stm)
@@ -13,8 +17,8 @@
 
 ### Related:
 
-1. [In its annual report, Amnesty International says human rights abuses and repression increased in Iran and China last year, the African Union refused to cooperate with the International Criminal Court after it indicted Sudanese President Omar al-Bashir for war crimes in Darfur, the United Nations' Human Rights Council took little action while Sri Lanka's army and Tamil militants both committed potential war crimes, and Israel and the militant group Hamas did not follow up on reports that accused both sides of human rights abuses during the Gaza War. ](/news/2010/05/27/in-its-annual-report-amnesty-international-says-human-rights-abuses-and-repression-increased-in-iran-and-china-last-year-the-african-union.md) _Context: Human rights, United Nations_
-2. [ United Nations human rights envoy Paulo Sergio Pinheiro visits political prisoners, including Su Su Nway, in Burma's Insein Prison. ](/news/2007/11/15/united-nations-human-rights-envoy-paulo-sergio-pinheiro-visits-political-prisoners-including-su-su-nway-in-burma-s-insein-prison.md) _Context: Human rights, United Nations_
-3. [ The Ogaden National Liberation Front declares a unilateral ceasefire so that a United Nations team can investigate claims of human rights abuses by the Ethiopian government. ](/news/2007/09/2/the-ogaden-national-liberation-front-declares-a-unilateral-ceasefire-so-that-a-united-nations-team-can-investigate-claims-of-human-rights-a.md) _Context: Human rights, United Nations_
-4. [ United Nations investigators criticise Sudan for gross human rights violations in Darfur, including murder, mass rape and kidnapping. ](/news/2007/03/12/united-nations-investigators-criticise-sudan-for-gross-human-rights-violations-in-darfur-including-murder-mass-rape-and-kidnapping.md) _Context: Human rights, United Nations_
-5. [ Jean Ziegler, a Human rights investigator and senior United Nations official, has accuses the United States and occupying forces of "using hunger and deprivation of water as a weapon of war against the civilian population" in Iraq. ](/news/2005/10/15/jean-ziegler-a-human-rights-investigator-and-senior-united-nations-official-has-accuses-the-united-states-and-occupying-forces-of-using.md) _Context: Human rights, United Nations_
+1. [Suspected Allied Democratic Forces militants in North Kivu, DR Congo, kill at least 15 United Nations peacekeepers, mostly Tanzanian, and five Congolese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. ](/news/2017/12/8/suspected-allied-democratic-forces-militants-in-north-kivu-dr-congo-kill-at-least-15-united-nations-peacekeepers-mostly-tanzanian-and-fi.md) _Context: United Nations_
+2. [President Trump suggests that the United States could withhold foreign aid for countries that vote in favor of a United Nations resolution calling on the U.S. to withdraw its recognition of Jerusalem as Israel's capital. ](/news/2017/12/20/president-trump-suggests-that-the-united-states-could-withhold-foreign-aid-for-countries-that-vote-in-favor-of-a-united-nations-resolution-c.md) _Context: United Nations_
+3. [The Trump administrations withdraws the United States from the Global Compact on Migration of the United Nations. ](/news/2017/12/2/the-trump-administrations-withdraws-the-united-states-from-the-global-compact-on-migration-of-the-united-nations.md) _Context: United Nations_
+4. [Two North Korean shipments to a Syrian government agency of its chemical weapons program were intercepted in the past 6 months, according to a confidential United Nations report on violations of North Korea's sactions. ](/news/2017/08/21/two-north-korean-shipments-to-a-syrian-government-agency-of-its-chemical-weapons-program-were-intercepted-in-the-past-6-months-according-to.md) _Context: United Nations_
+5. [According to the United Nations, the Philippines has the largest increase in HIV-AIDS in the Asia Pacific region with about a 140% increase in cases from 2010 until 2016 possibly causing a 'national emergency.' ](/news/2017/08/1/according-to-the-united-nations-the-philippines-has-the-largest-increase-in-hiv-aids-in-the-asia-pacific-region-with-about-a-140-increase.md) _Context: United Nations_

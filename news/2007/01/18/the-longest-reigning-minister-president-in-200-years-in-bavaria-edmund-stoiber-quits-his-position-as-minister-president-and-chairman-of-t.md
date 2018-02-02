@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/18/the-longest-reigning-minister-president-in-200-years-in-bavaria-edmund-stoiber-quits-his-position-as-minister-president-and-chairman-of-t.html)  [JSON](/news/2007/01/18/the-longest-reigning-minister-president-in-200-years-in-bavaria-edmund-stoiber-quits-his-position-as-minister-president-and-chairman-of-t.json)  [XML](/news/2007/01/18/the-longest-reigning-minister-president-in-200-years-in-bavaria-edmund-stoiber-quits-his-position-as-minister-president-and-chairman-of-t.xml)  
+
 ### [2007-01-18](/news/2007/01/18/index.md)
 
+##### Bavaria
 #  The longest reigning minister-president in 200 years in Bavaria, Edmund Stoiber, quits his position as minister-president and chairman of the CSU. Stoiber held the first position from 1993 and the second position from 1999. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/6275483.stm)
 

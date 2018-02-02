@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/28/the-islamic-human-rights-commission-has-released-a-statement-which-claims-that-the-number-of-attacks-on-south-asians-in-the-uk-has-risen-13.html)  [JSON](/news/2005/07/28/the-islamic-human-rights-commission-has-released-a-statement-which-claims-that-the-number-of-attacks-on-south-asians-in-the-uk-has-risen-13.json)  [XML](/news/2005/07/28/the-islamic-human-rights-commission-has-released-a-statement-which-claims-that-the-number-of-attacks-on-south-asians-in-the-uk-has-risen-13.xml)  
+
 ### [2005-07-28](/news/2005/07/28/index.md)
 
+##### Islamic Human Rights Commission
 #  The Islamic Human Rights Commission has released a statement which claims that the number of attacks on South Asians in the UK has risen 13 fold since the July 2005 London bombings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4723339.stm)
 

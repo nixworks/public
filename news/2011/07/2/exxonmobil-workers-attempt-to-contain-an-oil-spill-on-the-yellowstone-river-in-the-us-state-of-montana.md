@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/2/exxonmobil-workers-attempt-to-contain-an-oil-spill-on-the-yellowstone-river-in-the-us-state-of-montana.html)  [JSON](/news/2011/07/2/exxonmobil-workers-attempt-to-contain-an-oil-spill-on-the-yellowstone-river-in-the-us-state-of-montana.json)  [XML](/news/2011/07/2/exxonmobil-workers-attempt-to-contain-an-oil-spill-on-the-yellowstone-river-in-the-us-state-of-montana.xml)  
+
 ### [2011-07-2](/news/2011/07/2/index.md)
 
+##### ExxonMobil Corporation
 # ExxonMobil workers attempt to contain an oil spill on the Yellowstone River in the US state of Montana. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://latimesblogs.latimes.com/greenspace/2011/07/exxon-pipeline-spill-on-yellowstone-river.html)
 1. [Cover Image](http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef01538f9f9bec970b-120pi)

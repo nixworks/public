@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/9/jacob-zuma-is-inaugurated-as-president-of-south-africa.html)  [JSON](/news/2009/05/9/jacob-zuma-is-inaugurated-as-president-of-south-africa.json)  [XML](/news/2009/05/9/jacob-zuma-is-inaugurated-as-president-of-south-africa.xml)  
+
 ### [2009-05-9](/news/2009/05/9/index.md)
 
+##### Jacob Zuma
 #  Jacob Zuma is inaugurated as President of South Africa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8041481.stm)
 2. [Reuters](http://in.reuters.com/article/marketsNewsUS/idINL96586220090509)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/22/a-subway-train-derailment-and-collision-on-the-red-line-of-the-washington-metro-kills-at-least-nine-and-injures-at-least-70.html)  [JSON](/news/2009/06/22/a-subway-train-derailment-and-collision-on-the-red-line-of-the-washington-metro-kills-at-least-nine-and-injures-at-least-70.json)  [XML](/news/2009/06/22/a-subway-train-derailment-and-collision-on-the-red-line-of-the-washington-metro-kills-at-least-nine-and-injures-at-least-70.xml)  
+
 ### [2009-06-22](/news/2009/06/22/index.md)
 
+##### derailment and collision
 #  A subway train derailment and collision on the Red Line of the Washington Metro kills at least nine and injures at least 70. 
 
 WTOP brings you the latest news, traffic, and weather information for the Washington, D.C. region. Catch up on the issues and topics important to you today.
 
 
-### Source:
+### Sources:
 
 1. [NBC Washington](http://www.nbcwashington.com/news/local/Metro-Trains-Collide-Between-Takoma-Fort-Totten.html)
 2. [WTOP](http://www.wtop.com/?nid=25&sid=1702179)

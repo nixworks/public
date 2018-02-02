@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/17/zealandia-comes-closer-to-being-recognized-as-a
 
 ### [2017-02-17](/news/2017/02/17/index.md)
 
+##### Zealandia
 # Zealandia comes closer to being recognized as a continent. 
 
 The landmass – about two-thirds the size of Australia – of which 94% is under water, is a step closer to being recognised, scientists say

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/17/a-pregnant-sudanese-woman-mariam-yahia-ibrahim-ishag-is-set-to-receive-100-lashes-for-being-married-to-a-christian-man-and-is-sentenced-to-d.html)  [JSON](/news/2014/05/17/a-pregnant-sudanese-woman-mariam-yahia-ibrahim-ishag-is-set-to-receive-100-lashes-for-being-married-to-a-christian-man-and-is-sentenced-to-d.json)  [XML](/news/2014/05/17/a-pregnant-sudanese-woman-mariam-yahia-ibrahim-ishag-is-set-to-receive-100-lashes-for-being-married-to-a-christian-man-and-is-sentenced-to-d.xml)  
+
 ### [2014-05-17](/news/2014/05/17/index.md)
 
+##### Sudanese
 # A pregnant Sudanese woman Mariam Yahia Ibrahim Ishag is set to receive 100 lashes for being married to a Christian man and is sentenced to death for refusing to renounce her Christianity causing international outrage. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/05/17/world/africa/sudan-christian-woman-apostasy/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/30/french-and-australian-rescue-crews-find-four-french-nationals-who-died-in-a-helicopter-crash-in-antarctica.html)  [JSON](/news/2010/10/30/french-and-australian-rescue-crews-find-four-french-nationals-who-died-in-a-helicopter-crash-in-antarctica.json)  [XML](/news/2010/10/30/french-and-australian-rescue-crews-find-four-french-nationals-who-died-in-a-helicopter-crash-in-antarctica.xml)  
+
 ### [2010-10-30](/news/2010/10/30/index.md)
 
+##### France
 # French and Australian rescue crews find four French nationals who died in a helicopter crash in Antarctica. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/europe/10/30/france.nationals.killed/index.html?eref=edition)
 

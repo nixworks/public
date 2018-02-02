@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/9/in-the-first-public-sign-that-the-sentence-of-death-by-stoning-passed-on-sakineh-mohammadi-ashtiani-is-causing-divisions-within-the-regime.html)  [JSON](/news/2010/11/9/in-the-first-public-sign-that-the-sentence-of-death-by-stoning-passed-on-sakineh-mohammadi-ashtiani-is-causing-divisions-within-the-regime.json)  [XML](/news/2010/11/9/in-the-first-public-sign-that-the-sentence-of-death-by-stoning-passed-on-sakineh-mohammadi-ashtiani-is-causing-divisions-within-the-regime.xml)  
+
 ### [2010-11-9](/news/2010/11/9/index.md)
 
+##### Sakineh Mohammadi Ashtiani
 # In the first public sign that the sentence of death by stoning passed on Sakineh Mohammadi Ashtiani is causing divisions within the regime, Alef, a conservative newspaper in Iran, challenges the handling of the case. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/news/world/conservative-paper-challenges-stoning/story-e6frg6so-1225949638259)
 

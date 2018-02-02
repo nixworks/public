@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/14/john-logue-president-of-the-union-of-students-in-ireland-is-arrested-and-taken-from-da-il-aireann-in-handcuffs-after-turning-his-back-on.html)  [JSON](/news/2012/11/14/john-logue-president-of-the-union-of-students-in-ireland-is-arrested-and-taken-from-da-il-aireann-in-handcuffs-after-turning-his-back-on.json)  [XML](/news/2012/11/14/john-logue-president-of-the-union-of-students-in-ireland-is-arrested-and-taken-from-da-il-aireann-in-handcuffs-after-turning-his-back-on.xml)  
+
 ### [2012-11-14](/news/2012/11/14/index.md)
 
+##### Union of Students in Ireland
 # John Logue, President of the Union of Students in Ireland, is arrested and taken from Dail Eireann in handcuffs after turning his back on legislators while peacefully protesting against budget cuts. 
 
 BREAKING NEWS: THE HEAD of Ireland&#039;s largest students&#039; union has been arrested by Gardai. Donegal man John Logue, the head of the Union of Students in Ireland, was handcuffed and led away by Gardai in the Dail. Gardai are questioning him... #picturedramadonegalstudentleaderarrestedbygardaiindail
 
 
-### Source:
+### Sources:
 
 1. [Donegal Daily](http://www.donegaldaily.com/2012/11/14/picture-drama-donegal-student-leader-arrested-by-gardai-in-dail/)
 2. [University Times](http://www.universitytimes.ie/2012/11/14/usi-president-arrested-at-dail-education-vote/)

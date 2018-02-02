@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/8/the-british-government-has-indicated-it-is-rethinking-its-controversial-proposal-to-offer-50-sentence-cuts-to-criminals-in-england-and-wale.html)  [JSON](/news/2011/06/8/the-british-government-has-indicated-it-is-rethinking-its-controversial-proposal-to-offer-50-sentence-cuts-to-criminals-in-england-and-wale.json)  [XML](/news/2011/06/8/the-british-government-has-indicated-it-is-rethinking-its-controversial-proposal-to-offer-50-sentence-cuts-to-criminals-in-england-and-wale.xml)  
+
 ### [2011-06-8](/news/2011/06/8/index.md)
 
+##### the coalition
 # The British government has indicated it is rethinking its controversial proposal to offer 50% sentence cuts to criminals in England and Wales who enter early guilty pleas. 
 
 Plans to offer sentence discounts of up to 50% for an early guilty plea could be shelved - as Labour says crime policy is in &quot;a total mess&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13691943)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53299000/jpg/_53299177_012171298-1.jpg)

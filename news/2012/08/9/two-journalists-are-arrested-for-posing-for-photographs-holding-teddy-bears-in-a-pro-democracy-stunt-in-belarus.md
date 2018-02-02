@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/9/two-journalists-are-arrested-for-posing-for-photographs-holding-teddy-bears-in-a-pro-democracy-stunt-in-belarus.html)  [JSON](/news/2012/08/9/two-journalists-are-arrested-for-posing-for-photographs-holding-teddy-bears-in-a-pro-democracy-stunt-in-belarus.json)  [XML](/news/2012/08/9/two-journalists-are-arrested-for-posing-for-photographs-holding-teddy-bears-in-a-pro-democracy-stunt-in-belarus.xml)  
+
 ### [2012-08-9](/news/2012/08/9/index.md)
 
+##### Belarus
 # Two journalists are arrested for posing for photographs holding teddy bears in a pro-democracy stunt in Belarus. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/worldNews/idAFBRE8761BO20120809)
 

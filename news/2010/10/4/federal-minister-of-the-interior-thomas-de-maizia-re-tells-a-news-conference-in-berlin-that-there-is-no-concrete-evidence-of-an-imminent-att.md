@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/4/federal-minister-of-the-interior-thomas-de-maizia-re-tells-a-news-conference-in-berlin-that-there-is-no-concrete-evidence-of-an-imminent-att.html)  [JSON](/news/2010/10/4/federal-minister-of-the-interior-thomas-de-maizia-re-tells-a-news-conference-in-berlin-that-there-is-no-concrete-evidence-of-an-imminent-att.json)  [XML](/news/2010/10/4/federal-minister-of-the-interior-thomas-de-maizia-re-tells-a-news-conference-in-berlin-that-there-is-no-concrete-evidence-of-an-imminent-att.xml)  
+
 ### [2010-10-4](/news/2010/10/4/index.md)
 
+##### German Interior Minister
 # Federal Minister of the Interior Thomas de Maiziere tells a news conference in Berlin that there is no concrete evidence of an imminent attack and "no reason to be alarmist at this time"; the Japanese government alerts its citizens to watch out for any attacks in Europe. The United States and UK have both done so in recent times. 
 
 Japan and Sweden issue terror alerts to their citizens in Europe, following similar warnings from the UK and US.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11467150)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

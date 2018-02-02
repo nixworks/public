@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/22/2003-rugby-world-cup-regular-time-in-a-dramatic-final-match-ends-in-a-14a14-tie-england-finally-defeat-australia-20a17-to-win-the-wil.html)  [JSON](/news/2003/11/22/2003-rugby-world-cup-regular-time-in-a-dramatic-final-match-ends-in-a-14a14-tie-england-finally-defeat-australia-20a17-to-win-the-wil.json)  [XML](/news/2003/11/22/2003-rugby-world-cup-regular-time-in-a-dramatic-final-match-ends-in-a-14a14-tie-england-finally-defeat-australia-20a17-to-win-the-wil.xml)  
+
 ### [2003-11-22](/news/2003/11/22/index.md)
 
+##### 2003 Rugby World Cup
 #  2003 Rugby World Cup: Regular time in a dramatic final match ends in a 14-14 tie. England finally defeat Australia 20-17 to win the William Webb Ellis Cup - the first time it has been won by a Northern Hemisphere team.
 
 

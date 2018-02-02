@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/5/in-spain-250-000-people-demonstrate-in-madrid-against-a-government-plan-to-negotiate-with-the-basque-eta.html)  [JSON](/news/2005/06/5/in-spain-250-000-people-demonstrate-in-madrid-against-a-government-plan-to-negotiate-with-the-basque-eta.json)  [XML](/news/2005/06/5/in-spain-250-000-people-demonstrate-in-madrid-against-a-government-plan-to-negotiate-with-the-basque-eta.xml)  
+
 ### [2005-06-5](/news/2005/06/5/index.md)
 
+##### Madrid
 #  In Spain, 250,000 people demonstrate in Madrid against a government plan to negotiate with the Basque ETA 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4610629.stm)
 2. [EITB](http://www.eitb24.com/noticia_en.php?id=65974)

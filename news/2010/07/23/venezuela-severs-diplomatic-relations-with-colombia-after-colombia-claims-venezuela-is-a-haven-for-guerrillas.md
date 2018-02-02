@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/23/venezuela-severs-diplomatic-relations-with-colombia-after-colombia-claims-venezuela-is-a-haven-for-guerrillas.html)  [JSON](/news/2010/07/23/venezuela-severs-diplomatic-relations-with-colombia-after-colombia-claims-venezuela-is-a-haven-for-guerrillas.json)  [XML](/news/2010/07/23/venezuela-severs-diplomatic-relations-with-colombia-after-colombia-claims-venezuela-is-a-haven-for-guerrillas.xml)  
+
 ### [2010-07-23](/news/2010/07/23/index.md)
 
+##### Venezuela
 # Venezuela severs diplomatic relations with Colombia after Colombia claims Venezuela is a "haven for guerrillas". 
 
 Venezuelan President Hugo Chavez severs diplomatic relations with Colombia over claims his country is harbouring guerrillas.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10734117)
 2. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=360971&CategoryId=10717)

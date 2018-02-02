@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/7/greek-legislative-election-2004-new-democracy-led-by-kostas-karamanlis-wins-over-the-panhellenic-socialist-movement-led-by-george-papa.html)  [JSON](/news/2004/03/7/greek-legislative-election-2004-new-democracy-led-by-kostas-karamanlis-wins-over-the-panhellenic-socialist-movement-led-by-george-papa.json)  [XML](/news/2004/03/7/greek-legislative-election-2004-new-democracy-led-by-kostas-karamanlis-wins-over-the-panhellenic-socialist-movement-led-by-george-papa.xml)  
+
 ### [2004-03-7](/news/2004/03/7/index.md)
 
+##### Greek legislative election, 2004
 #  Greek legislative election, 2004: New Democracy, led by Kostas Karamanlis, wins over the Panhellenic Socialist Movement, led by George Papandreou.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/3540163.stm)
 

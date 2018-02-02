@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/5/the-40th-pacific-islands-forum-leaders-meeting-opens-in-cairns-australia.html)  [JSON](/news/2009/08/5/the-40th-pacific-islands-forum-leaders-meeting-opens-in-cairns-australia.json)  [XML](/news/2009/08/5/the-40th-pacific-islands-forum-leaders-meeting-opens-in-cairns-australia.xml)  
+
 ### [2009-08-5](/news/2009/08/5/index.md)
 
+##### Pacific Islands Forum
 #  The 40th Pacific Islands Forum leaders' meeting opens in Cairns, Australia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=48211)
 

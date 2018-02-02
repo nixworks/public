@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/3/armavia-flight-967-an-airbus-a320-airliner-of-armenian-airline-armavia-carrying-over-110-people-crashes-into-the-black-sea-while-approac.html)  [JSON](/news/2006/05/3/armavia-flight-967-an-airbus-a320-airliner-of-armenian-airline-armavia-carrying-over-110-people-crashes-into-the-black-sea-while-approac.json)  [XML](/news/2006/05/3/armavia-flight-967-an-airbus-a320-airliner-of-armenian-airline-armavia-carrying-over-110-people-crashes-into-the-black-sea-while-approac.xml)  
+
 ### [2006-05-3](/news/2006/05/3/index.md)
 
+##### Armavia Flight 967
 #  Armavia Flight 967, an Airbus A320 airliner of Armenian airline Armavia, carrying over 110 people, crashes into the Black Sea while approaching Adler-Sochi International Airport. Rescue workers had found baggage, pieces of the shattered plane and oil floating at the site of the crash. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4967464.stm)
 

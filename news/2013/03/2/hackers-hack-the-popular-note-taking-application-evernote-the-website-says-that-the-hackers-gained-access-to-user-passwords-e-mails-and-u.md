@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/03/2/hackers-hack-the-popular-note-taking-application-evernote-the-website-says-that-the-hackers-gained-access-to-user-passwords-e-mails-and-u.html)  [JSON](/news/2013/03/2/hackers-hack-the-popular-note-taking-application-evernote-the-website-says-that-the-hackers-gained-access-to-user-passwords-e-mails-and-u.json)  [XML](/news/2013/03/2/hackers-hack-the-popular-note-taking-application-evernote-the-website-says-that-the-hackers-gained-access-to-user-passwords-e-mails-and-u.xml)  
+
 ### [2013-03-2](/news/2013/03/2/index.md)
 
+##### hackers
 # Hackers hack the popular note-taking application Evernote. The website says that the hackers gained access to user passwords, e-mails, and usernames. 
 
 The popular multi-platform, note-taking web application Evernote has had its master website hacked — and you must change your password before you can use it.
 
 
-### Source:
+### Sources:
 
-1. [PC Magazine](http://www.pcmag.com/article2/0,2817,2416157,00.asp)
+1. [PC Magazine](https://www.pcmag.com/article2/0,2817,2416157,00.asp)
 2. [ZD Net](http://www.zdnet.com/evernote-hacked-forces-password-reset-7000012045/)
 2. [Cover Image](http://zdnet4.cbsistatic.com/hub/i/r/2014/09/18/a9720e4e-3f1e-11e4-b6a0-d4ae52e95e57/thumbnail/770x578/a3f45569c0e587eede2f1b3014e0b4b0/evernote-hacked.png)
 

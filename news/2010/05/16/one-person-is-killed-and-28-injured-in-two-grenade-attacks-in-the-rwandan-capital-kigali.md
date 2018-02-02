@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/16/one-person-is-killed-and-28-injured-in-two-grenade-attacks-in-the-rwandan-capital-kigali.html)  [JSON](/news/2010/05/16/one-person-is-killed-and-28-injured-in-two-grenade-attacks-in-the-rwandan-capital-kigali.json)  [XML](/news/2010/05/16/one-person-is-killed-and-28-injured-in-two-grenade-attacks-in-the-rwandan-capital-kigali.xml)  
+
 ### [2010-05-16](/news/2010/05/16/index.md)
 
+##### grenade
 # One person is killed and 28 injured in two grenade attacks in the Rwandan capital Kigali. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g9ruB-T1gI-RgyC20ozAC2tXnsoA)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/11/according-to-the-turkish-army-its-overnight-air
 
 ### [2017-07-11](/news/2017/07/11/index.md)
 
+##### Kurdish-Turkish conflict (2015-present)
 # According to the Turkish Army, its overnight air strike in Dargecit killed eleven militants from the Kurdistan Workers' Party. 
 
 Turkish warplanes struck Kurdish militant targets in two areas of southeast Turkey overnight, killing 11 Kurdistan Workers Party (PKK) fighters, the army said on Tuesday.

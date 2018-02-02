@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/20/at-least-17-people-are-killed-and-27-injured-after-a-bus-plunges-into-a-gorge-in-india-s-jammu-and-kashmir-state.html)  [JSON](/news/2014/05/20/at-least-17-people-are-killed-and-27-injured-after-a-bus-plunges-into-a-gorge-in-india-s-jammu-and-kashmir-state.json)  [XML](/news/2014/05/20/at-least-17-people-are-killed-and-27-injured-after-a-bus-plunges-into-a-gorge-in-india-s-jammu-and-kashmir-state.xml)  
+
 ### [2014-05-20](/news/2014/05/20/index.md)
 
+##### Jammu and Kashmir
 # At least 17 people are killed and 27 injured after a bus plunges into a gorge in India's Jammu and Kashmir state. 
 
 Seventeen people were killed and 27 injured when a bus going to the Kashmir valley fell into a deep gorge in the Jammu region Tuesday, an official said.
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/17-killed-27-injured-in-Jammu-Kashmir-road-accident/articleshow/35366278.cms?)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/35371476.cms)

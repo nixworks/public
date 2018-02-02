@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/12/authorities-in-panama-raid-law-firm-mossack-fon
 
 ### [2016-04-12](/news/2016/04/12/index.md)
 
+##### Panama Papers
 #  Authorities in Panama raid law firm Mossack Fonseca, the source of the data leaked about offshore companies. 
 
 

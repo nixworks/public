@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/9/an-explosion-kills-11-people-and-injures-at-least-46-at-a-hotel-in-peshawar-pakistan.html)  [JSON](/news/2009/06/9/an-explosion-kills-11-people-and-injures-at-least-46-at-a-hotel-in-peshawar-pakistan.json)  [XML](/news/2009/06/9/an-explosion-kills-11-people-and-injures-at-least-46-at-a-hotel-in-peshawar-pakistan.xml)  
+
 ### [2009-06-9](/news/2009/06/9/index.md)
 
+##### explosion
 #  An explosion kills 11 people and injures at least 46 at a hotel in Peshawar, Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8092147.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0609/peshawar.html)

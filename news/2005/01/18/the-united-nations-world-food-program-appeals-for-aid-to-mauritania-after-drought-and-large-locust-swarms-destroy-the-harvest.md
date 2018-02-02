@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/18/the-united-nations-world-food-program-appeals-for-aid-to-mauritania-after-drought-and-large-locust-swarms-destroy-the-harvest.html)  [JSON](/news/2005/01/18/the-united-nations-world-food-program-appeals-for-aid-to-mauritania-after-drought-and-large-locust-swarms-destroy-the-harvest.json)  [XML](/news/2005/01/18/the-united-nations-world-food-program-appeals-for-aid-to-mauritania-after-drought-and-large-locust-swarms-destroy-the-harvest.xml)  
+
 ### [2005-01-18](/news/2005/01/18/index.md)
 
+##### United Nations World Food Program
 #  The United Nations World Food Program appeals for aid to Mauritania, after drought and large locust swarms destroy the harvest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica](http://allafrica.com/stories/200501170001.html)
 2. [Planet Ark](http://www.planetark.com/dailynewsstory.cfm/newsid/29051/story.htm)

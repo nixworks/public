@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/16/uzbek-president-islam-karimov-fires-saidullo-begaliev-governor-of-andijan-for-short-sighted-policies-and-lack-of-attention-to-the-peop.html)  [JSON](/news/2006/10/16/uzbek-president-islam-karimov-fires-saidullo-begaliev-governor-of-andijan-for-short-sighted-policies-and-lack-of-attention-to-the-peop.json)  [XML](/news/2006/10/16/uzbek-president-islam-karimov-fires-saidullo-begaliev-governor-of-andijan-for-short-sighted-policies-and-lack-of-attention-to-the-peop.xml)  
+
 ### [2006-10-16](/news/2006/10/16/index.md)
 
+##### Uzbek President
 #  Uzbek President Islam Karimov fires Saidullo Begaliev, Governor of Andijan, for "short-sighted policies" and "lack of attention to the people's needs" that led to the Andijan massacre in 2005. Karimov appoints Ahmad Usmonov as Begaliev's replacement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RadioFreeEurope/RadioLiberty](http://www.rferl.org/featuresarticle/2006/10/c1119594-cdda-4dfc-a1db-a4c6d3c161f1.html)
 

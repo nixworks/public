@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/11/9/2005-amman-bombings-three-coordinated-attacks-on-the-grand-hyatt-hotel-radisson-sas-hotel-and-days-inn-in-the-jordanian-capital-of-amman.html)  [JSON](/news/2005/11/9/2005-amman-bombings-three-coordinated-attacks-on-the-grand-hyatt-hotel-radisson-sas-hotel-and-days-inn-in-the-jordanian-capital-of-amman.json)  [XML](/news/2005/11/9/2005-amman-bombings-three-coordinated-attacks-on-the-grand-hyatt-hotel-radisson-sas-hotel-and-days-inn-in-the-jordanian-capital-of-amman.xml)  
+
 ### [2005-11-9](/news/2005/11/9/index.md)
 
+##### 2005 Amman bombings
 #  2005 Amman bombings: Three coordinated attacks on the Grand Hyatt Hotel, Radisson SAS Hotel, and Days Inn in the Jordanian capital of Amman kill at least 57 people and injure 115 others, mostly Westerners. Abu Musab al-Zarqawi later claims responsibility. 
 
 

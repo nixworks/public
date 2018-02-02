@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/10/johnny-cash-s-nashville-home-destroyed-by-a-fire.html)  [JSON](/news/2007/04/10/johnny-cash-s-nashville-home-destroyed-by-a-fire.json)  [XML](/news/2007/04/10/johnny-cash-s-nashville-home-destroyed-by-a-fire.xml)  
+
 ### [2007-04-10](/news/2007/04/10/index.md)
 
+##### Johnny Cash
 #  Johnny Cash's Nashville Home destroyed by a fire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SFGate.com](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2007/04/10/entertainment/e130053D58.DTL)
 

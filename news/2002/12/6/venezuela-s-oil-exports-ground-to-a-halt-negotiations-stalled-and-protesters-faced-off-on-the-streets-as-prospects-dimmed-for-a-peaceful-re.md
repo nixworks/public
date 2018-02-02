@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/6/venezuela-s-oil-exports-ground-to-a-halt-negotiations-stalled-and-protesters-faced-off-on-the-streets-as-prospects-dimmed-for-a-peaceful-re.html)  [JSON](/news/2002/12/6/venezuela-s-oil-exports-ground-to-a-halt-negotiations-stalled-and-protesters-faced-off-on-the-streets-as-prospects-dimmed-for-a-peaceful-re.json)  [XML](/news/2002/12/6/venezuela-s-oil-exports-ground-to-a-halt-negotiations-stalled-and-protesters-faced-off-on-the-streets-as-prospects-dimmed-for-a-peaceful-re.xml)  
+
 ### [2002-12-6](/news/2002/12/6/index.md)
 
+##### Venezuela
 # Venezuela's oil exports ground to a halt, negotiations stalled and protesters faced off on the streets as prospects dimmed for a peaceful resolution to a strike designed to unseat President Hugo Chavez.
 
 

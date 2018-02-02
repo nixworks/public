@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/04/30/yemeni-civil-war-2015-dozens-of-houthi-fighters-are-killed-in-clashes-with-saudi-arabian-forces-on-the-border-while-air-strikes-hit-the-s.html)  [JSON](/news/2015/04/30/yemeni-civil-war-2015-dozens-of-houthi-fighters-are-killed-in-clashes-with-saudi-arabian-forces-on-the-border-while-air-strikes-hit-the-s.json)  [XML](/news/2015/04/30/yemeni-civil-war-2015-dozens-of-houthi-fighters-are-killed-in-clashes-with-saudi-arabian-forces-on-the-border-while-air-strikes-hit-the-s.xml)  
+
 ### [2015-04-30](/news/2015/04/30/index.md)
 
+##### Yemeni Civil War (2015)
 # Yemeni Civil War (2015): Dozens of Houthi fighters are killed in clashes with Saudi Arabian forces on the border while air strikes hit the southern city of Aden. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/04/30/us-yemen-security-idUSKBN0NL0Q720150430)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150430&t=2&i=1044581704&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB3T0BK)
+1. [Reuters](https://www.reuters.com/article/2015/04/30/us-yemen-security-idUSKBN0NL0Q720150430)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20150430&t=2&i=1044581704&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB3T0BK)
 
 ### Related:
 

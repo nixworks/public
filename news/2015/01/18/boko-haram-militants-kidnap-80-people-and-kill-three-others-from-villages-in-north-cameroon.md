@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/18/boko-haram-militants-kidnap-80-people-and-kill-three-others-from-villages-in-north-cameroon.html)  [JSON](/news/2015/01/18/boko-haram-militants-kidnap-80-people-and-kill-three-others-from-villages-in-north-cameroon.json)  [XML](/news/2015/01/18/boko-haram-militants-kidnap-80-people-and-kill-three-others-from-villages-in-north-cameroon.xml)  
+
 ### [2015-01-18](/news/2015/01/18/index.md)
 
+##### Boko Haram
 # Boko Haram militants kidnap 80 people and kill three others from villages in north Cameroon. 
 
 It is thought around 30 adults and 50 children have been taken by the extremist Islamist group in north Cameroon
 
 
-### Source:
+### Sources:
 
 1. [Daily Mirror](http://www.mirror.co.uk/news/world-news/boko-haram-fighters-believed-kidnapped-5001347)
 1. [Cover Image](http://i4.mirror.co.uk/incoming/article4944770.ece/ALTERNATES/s1200/Nigerian-Islamist-extremist-group-Boko-Haram.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/16/according-to-a-police-chief-at-least-40-taliban
 
 ### [2016-04-16](/news/2016/04/16/index.md)
 
+##### War in Afghanistan (2015-present)
 # According to a police chief, at least 40 Taliban fighters are killed after launching an offensive against Afghan security forces to seize the strategic northern city of Kunduz while four security force personnel are also killed. 
 
 Police chief says at least 40 Taliban fighters killed after launching offensive to seize key city of Kunduz.

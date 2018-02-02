@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/21/the-communist-party-kills-16-police-officers-near-nagpur-maharashtra-india.html)  [JSON](/news/2009/05/21/the-communist-party-kills-16-police-officers-near-nagpur-maharashtra-india.json)  [XML](/news/2009/05/21/the-communist-party-kills-16-police-officers-near-nagpur-maharashtra-india.xml)  
+
 ### [2009-05-21](/news/2009/05/21/index.md)
 
+##### Communist Party of India
 #  The Communist Party kills 16 police officers near Nagpur, Maharashtra, India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8062321.stm)
 

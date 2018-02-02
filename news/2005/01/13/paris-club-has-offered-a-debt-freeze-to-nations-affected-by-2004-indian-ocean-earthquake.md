@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/13/paris-club-has-offered-a-debt-freeze-to-nations-affected-by-2004-indian-ocean-earthquake.html)  [JSON](/news/2005/01/13/paris-club-has-offered-a-debt-freeze-to-nations-affected-by-2004-indian-ocean-earthquake.json)  [XML](/news/2005/01/13/paris-club-has-offered-a-debt-freeze-to-nations-affected-by-2004-indian-ocean-earthquake.xml)  
+
 ### [2005-01-13](/news/2005/01/13/index.md)
 
+##### Paris Club
 #  Paris Club has offered a debt freeze to nations affected by 2004 Indian Ocean earthquake 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/4166727.stm)
 2. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=businessNews&storyID=7310947)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/2/a-judge-in-new-york-declares-a-mistrial-after-eleven-days-of-deliberations-in-the-case-of-former-tyco-international-chairman-and-chief-exec.html)  [JSON](/news/2004/04/2/a-judge-in-new-york-declares-a-mistrial-after-eleven-days-of-deliberations-in-the-case-of-former-tyco-international-chairman-and-chief-exec.json)  [XML](/news/2004/04/2/a-judge-in-new-york-declares-a-mistrial-after-eleven-days-of-deliberations-in-the-case-of-former-tyco-international-chairman-and-chief-exec.xml)  
+
 ### [2004-04-2](/news/2004/04/2/index.md)
 
+##### New York
 #  A judge in New York declares a mistrial after eleven days of deliberations in the case of former Tyco International chairman and chief executive Dennis Kozlowski and former chief financial officer Mark Swartz after a juror received either a "threatening or coercive" letter in the previous 24 hours. Kozlowski and Swartz have been accused of stealing $600 million from Tyco.
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://apnews.myway.com/article/20040402/D81MS7H00.html)
 

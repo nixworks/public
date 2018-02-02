@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/2/limerick-pubs-break-with-tradition-by-opening-on-good-friday-following-the-recent-landmark-court-ruling.html)  [JSON](/news/2010/04/2/limerick-pubs-break-with-tradition-by-opening-on-good-friday-following-the-recent-landmark-court-ruling.json)  [XML](/news/2010/04/2/limerick-pubs-break-with-tradition-by-opening-on-good-friday-following-the-recent-landmark-court-ruling.xml)  
+
 ### [2010-04-2](/news/2010/04/2/index.md)
 
+##### Limerick
 # Limerick pubs break with tradition by opening on Good Friday following the recent landmark court ruling. 
 
 Pubs in the Limerick area have broken the tradition of staying closed on Good Friday and open for business.
 
 
-### Source:
+### Sources:
 
 1. [Irish Examiner](http://www.examiner.ie/breakingnews/ireland/limerick-to-enjoy-good-friday-cheer-452358.html)
 2. [RTÉ](http://www.rte.ie/news/2010/0402/limerick.html)

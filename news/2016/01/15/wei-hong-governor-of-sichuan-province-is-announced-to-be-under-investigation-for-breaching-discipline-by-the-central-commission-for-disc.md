@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/15/wei-hong-governor-of-sichuan-province-is-announ
 
 ### [2016-01-15](/news/2016/01/15/index.md)
 
+##### Anti-corruption campaign in China
 # Wei Hong, Governor of Sichuan province, is announced to be under investigation for "breaching discipline" by the Central Commission for Discipline Inspection. 
 
 

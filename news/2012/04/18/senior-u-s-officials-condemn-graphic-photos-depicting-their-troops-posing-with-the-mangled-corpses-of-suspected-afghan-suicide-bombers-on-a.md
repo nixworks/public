@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/18/senior-u-s-officials-condemn-graphic-photos-depicting-their-troops-posing-with-the-mangled-corpses-of-suspected-afghan-suicide-bombers-on-a.html)  [JSON](/news/2012/04/18/senior-u-s-officials-condemn-graphic-photos-depicting-their-troops-posing-with-the-mangled-corpses-of-suspected-afghan-suicide-bombers-on-a.json)  [XML](/news/2012/04/18/senior-u-s-officials-condemn-graphic-photos-depicting-their-troops-posing-with-the-mangled-corpses-of-suspected-afghan-suicide-bombers-on-a.xml)  
+
 ### [2012-04-18](/news/2012/04/18/index.md)
 
+##### Los Angeles Times
 # Senior U.S. officials condemn graphic photos depicting their troops posing with the mangled corpses of suspected Afghan suicide bombers on at least two separate occasions months apart. The "Los Angeles Times" defends its publication of the photos after being warned against the move by the U.S. military. 
 
 Probe ordered into behaviour depicted by images showing troops posing with mangled bodies of suspected suicide bombers.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/04/2012418143418753265.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/19/201241912123792734_20.jpg)

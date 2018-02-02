@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/28/the-world-health-organization-forms-an-emergenc
 
 ### [2016-01-28](/news/2016/01/28/index.md)
 
+##### Zika virus outbreak in the Americas (2015-present)
 # The World Health Organization forms an emergency committee to tackle the spread of the Zika virus in the Americas. 
 
 The World Health Organization announced Thursday that it has convened an emergency committee to try to find ways to identify, treat and stop the transmission of Zika virus, which officials said is &quot;spreading explosively&quot; across the Americas.

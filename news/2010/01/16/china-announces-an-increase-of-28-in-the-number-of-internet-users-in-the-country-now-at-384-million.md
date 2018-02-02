@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/01/16/china-announces-an-increase-of-28-in-the-number-of-internet-users-in-the-country-now-at-384-million.html)  [JSON](/news/2010/01/16/china-announces-an-increase-of-28-in-the-number-of-internet-users-in-the-country-now-at-384-million.json)  [XML](/news/2010/01/16/china-announces-an-increase-of-28-in-the-number-of-internet-users-in-the-country-now-at-384-million.xml)  
+
 ### [2010-01-16](/news/2010/01/16/index.md)
 
+##### China
 # China announces an increase of 28% in the number of internet users in the country, now at 384 million. 
 
 China on Saturday announced a sharp increase in the number of internet users. The announcement suggests Beijing is trying to persuade Google to give up plans to pull out its Chinese version from the country.
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/china/2010-01/16/content_9330415.htm)
-2. [The Independent](http://www.independent.co.uk/news/media/chinas-online-population-swells-to-384-million-1869707.html)
+2. [The Independent](https://www.independent.co.uk/news/media/chinas-online-population-swells-to-384-million-1869707.html)
 3. [Times of India](http://timesofindia.indiatimes.com/world/china/China-persuades-Google-to-stay-back/articleshow/5453590.cms)
 3. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/10/israeli-nuclear-technician-mordechai-vanunu-is-arrested-again-on-suspicion-of-leaking-classified-information.html)  [JSON](/news/2004/11/10/israeli-nuclear-technician-mordechai-vanunu-is-arrested-again-on-suspicion-of-leaking-classified-information.json)  [XML](/news/2004/11/10/israeli-nuclear-technician-mordechai-vanunu-is-arrested-again-on-suspicion-of-leaking-classified-information.xml)  
+
 ### [2004-11-10](/news/2004/11/10/index.md)
 
+##### Mordechai Vanunu
 #  Israeli nuclear technician Mordechai Vanunu is arrested, again, on suspicion of leaking classified information. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/4002227.stm)
 

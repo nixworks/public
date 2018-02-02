@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/05/22/2007-israel-gaza-conflict-a-total-of-seven-rockets-were-fired-from-the-gaza-strip-and-landed-in-western-negev-another-rocket-landed-in-sd.html)  [JSON](/news/2007/05/22/2007-israel-gaza-conflict-a-total-of-seven-rockets-were-fired-from-the-gaza-strip-and-landed-in-western-negev-another-rocket-landed-in-sd.json)  [XML](/news/2007/05/22/2007-israel-gaza-conflict-a-total-of-seven-rockets-were-fired-from-the-gaza-strip-and-landed-in-western-negev-another-rocket-landed-in-sd.xml)  
+
 ### [2007-05-22](/news/2007/05/22/index.md)
 
+##### 2007 Israel-Gaza conflict
 #  2007 Israel-Gaza conflict: A total of seven rockets were fired from the Gaza Strip and landed in western Negev. Another rocket landed in Sderot and killed an Israeli woman. In response, the IAF also fired missiles in an air strike at a munitions base, and secondary explosions were reported after the strike. The air strike wounded seven people in the attack on Jabaliya, Gaza City, according to local residents and hospital officials.
 
 Israeli air strikes on Hamas weapon sheds in Gaza Strip leave 7 Palestinians wounded; hospital officials say pregnant woman, child among injured. IDF: Secondary explosions prove buildings used to store munitions 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSL1731780720070522)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSL1731780720070522)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3403475,00.html)
 2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 

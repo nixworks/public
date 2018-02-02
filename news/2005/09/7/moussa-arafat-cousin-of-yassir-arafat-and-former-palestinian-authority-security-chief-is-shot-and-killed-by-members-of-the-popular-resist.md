@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/7/moussa-arafat-cousin-of-yassir-arafat-and-former-palestinian-authority-security-chief-is-shot-and-killed-by-members-of-the-popular-resist.html)  [JSON](/news/2005/09/7/moussa-arafat-cousin-of-yassir-arafat-and-former-palestinian-authority-security-chief-is-shot-and-killed-by-members-of-the-popular-resist.json)  [XML](/news/2005/09/7/moussa-arafat-cousin-of-yassir-arafat-and-former-palestinian-authority-security-chief-is-shot-and-killed-by-members-of-the-popular-resist.xml)  
+
 ### [2005-09-7](/news/2005/09/7/index.md)
 
+##### Moussa Arafat
 #  Moussa Arafat, cousin of Yassir Arafat and former Palestinian Authority security chief, is shot and killed by members of the Popular Resistance Committees. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4221326.stm)
 

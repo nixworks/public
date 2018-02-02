@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/1/pop-singer-beyonce-knowles-wins-the-most-awards-at-the-52nd-grammy-awards-winning-six-of-her-ten-nominations-including-song-of-the-year-for.html)  [JSON](/news/2010/02/1/pop-singer-beyonce-knowles-wins-the-most-awards-at-the-52nd-grammy-awards-winning-six-of-her-ten-nominations-including-song-of-the-year-for.json)  [XML](/news/2010/02/1/pop-singer-beyonce-knowles-wins-the-most-awards-at-the-52nd-grammy-awards-winning-six-of-her-ten-nominations-including-song-of-the-year-for.xml)  
+
 ### [2010-02-1](/news/2010/02/1/index.md)
 
+##### Beyonc Knowles
 # Pop singer Beyonc Knowles wins the most awards at the 52nd Grammy Awards, winning six of her ten nominations including Song of the Year for "Single Ladies (Put a Ring on It)", and becoming the first woman to win six awards in the same night. 
 
 The veteran Anglo-Australian rock group AC/DC won the first Grammy of its career on Sunday, ending a long-running snub by the American music industry awards.
 
 
-### Source:
+### Sources:
 
 1. [All About Jazz](http://www.allaboutjazz.com/php/news.php?id=48485)
 2. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8490484.stm)

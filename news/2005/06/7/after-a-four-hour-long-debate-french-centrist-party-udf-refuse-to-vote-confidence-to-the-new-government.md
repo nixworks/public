@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/7/after-a-four-hour-long-debate-french-centrist-party-udf-refuse-to-vote-confidence-to-the-new-government.html)  [JSON](/news/2005/06/7/after-a-four-hour-long-debate-french-centrist-party-udf-refuse-to-vote-confidence-to-the-new-government.json)  [XML](/news/2005/06/7/after-a-four-hour-long-debate-french-centrist-party-udf-refuse-to-vote-confidence-to-the-new-government.xml)  
+
 ### [2005-06-7](/news/2005/06/7/index.md)
 
+##### Union for French Democracy
 #  After a four-hour-long debate French centrist Party UDF refuse to vote confidence to the new government. - 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yahoo France - AFP](http://fr.news.yahoo.com/050607/202/4gb39.html)
 

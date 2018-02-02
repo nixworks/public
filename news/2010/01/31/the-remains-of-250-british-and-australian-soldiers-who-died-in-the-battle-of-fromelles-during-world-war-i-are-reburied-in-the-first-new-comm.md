@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/31/the-remains-of-250-british-and-australian-soldiers-who-died-in-the-battle-of-fromelles-during-world-war-i-are-reburied-in-the-first-new-comm.html)  [JSON](/news/2010/01/31/the-remains-of-250-british-and-australian-soldiers-who-died-in-the-battle-of-fromelles-during-world-war-i-are-reburied-in-the-first-new-comm.json)  [XML](/news/2010/01/31/the-remains-of-250-british-and-australian-soldiers-who-died-in-the-battle-of-fromelles-during-world-war-i-are-reburied-in-the-first-new-comm.xml)  
+
 ### [2010-01-31](/news/2010/01/31/index.md)
 
+##### Battle of Fromelles
 # The remains of 250 British and Australian soldiers who died in the Battle of Fromelles during World War I are reburied in the first new Commonwealth War Graves Commission cemetery to be constructed in 50 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/uk_news/8488863.stm)
 

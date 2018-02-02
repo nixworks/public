@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/10/war-on-terrorism-apec-indonesia-and-malaysia-have-submitted-lists-of-20-suspected-terrorists-with-links-to-two-militant-groups-asking-fo.html)  [JSON](/news/2003/09/10/war-on-terrorism-apec-indonesia-and-malaysia-have-submitted-lists-of-20-suspected-terrorists-with-links-to-two-militant-groups-asking-fo.json)  [XML](/news/2003/09/10/war-on-terrorism-apec-indonesia-and-malaysia-have-submitted-lists-of-20-suspected-terrorists-with-links-to-two-militant-groups-asking-fo.xml)  
+
 ### [2003-09-10](/news/2003/09/10/index.md)
 
+##### War on Terrorism
 #  War on Terrorism: APEC: Indonesia and Malaysia have submitted lists of 20 suspected terrorists with links to two militant groups, asking for Thailand to help monitor their movements on the southern border.
 
 

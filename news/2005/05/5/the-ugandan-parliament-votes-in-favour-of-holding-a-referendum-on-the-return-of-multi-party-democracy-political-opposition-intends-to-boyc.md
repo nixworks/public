@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/5/the-ugandan-parliament-votes-in-favour-of-holding-a-referendum-on-the-return-of-multi-party-democracy-political-opposition-intends-to-boyc.html)  [JSON](/news/2005/05/5/the-ugandan-parliament-votes-in-favour-of-holding-a-referendum-on-the-return-of-multi-party-democracy-political-opposition-intends-to-boyc.json)  [XML](/news/2005/05/5/the-ugandan-parliament-votes-in-favour-of-holding-a-referendum-on-the-return-of-multi-party-democracy-political-opposition-intends-to-boyc.xml)  
+
 ### [2005-05-5](/news/2005/05/5/index.md)
 
+##### Uganda
 #  The Ugandan parliament votes in favour of holding a referendum on the return of multi-party democracy. Political opposition intends to boycott the referendum because they think that president Yoweri Museveni would use it stay in power. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica](http://allafrica.com/stories/200505050647.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4515853.stm)

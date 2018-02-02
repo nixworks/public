@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/02/20/american-author-and-journalist-hunter-s-thompson-is-found-dead-in-his-aspen-colorado-home-the-result-of-an-apparent-suicide.html)  [JSON](/news/2005/02/20/american-author-and-journalist-hunter-s-thompson-is-found-dead-in-his-aspen-colorado-home-the-result-of-an-apparent-suicide.json)  [XML](/news/2005/02/20/american-author-and-journalist-hunter-s-thompson-is-found-dead-in-his-aspen-colorado-home-the-result-of-an-apparent-suicide.xml)  
+
 ### [2005-02-20](/news/2005/02/20/index.md)
 
+##### Hunter S. Thompson
 #  American author and journalist Hunter S. Thompson is found dead in his Aspen, Colorado home, the result of an apparent suicide. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/entertainment/arts/4282865.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000103&sid=aufWFanttF00&refer=us)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000103&sid=aufWFanttF00&refer=us)
 3. [CNN](http://edition.cnn.com/2005/SHOWBIZ/books/02/21/thompson.obit/)
 
 ### Related:

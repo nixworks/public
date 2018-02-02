@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/3/israeli-army-chief-of-personnel-major-general-gil-regev-tells-a-knesset-committee-that-the-number-of-soldiers-refusing-to-serve-in-the-terr.html)  [JSON](/news/2004/02/3/israeli-army-chief-of-personnel-major-general-gil-regev-tells-a-knesset-committee-that-the-number-of-soldiers-refusing-to-serve-in-the-terr.json)  [XML](/news/2004/02/3/israeli-army-chief-of-personnel-major-general-gil-regev-tells-a-knesset-committee-that-the-number-of-soldiers-refusing-to-serve-in-the-terr.xml)  
+
 ### [2004-02-3](/news/2004/02/3/index.md)
 
+##### Israeli Army
 #  Israeli Army Chief of Personnel Major-General Gil Regev tells a Knesset committee that the number of soldiers refusing to serve in the territories had dramatically decreased in 2003. He said that 26 persons had been imprisoned for refusal in 2003 compared to 129 in 2002, a decrease of 80%. The refusers' organization Yesh G'vul claimed that Regev's figures were "ridiculous" since 76 persons had been imprisoned for refusal in 2003.
 
 

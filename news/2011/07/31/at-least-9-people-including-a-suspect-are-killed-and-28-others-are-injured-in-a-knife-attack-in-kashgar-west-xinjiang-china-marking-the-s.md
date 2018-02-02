@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/07/31/at-least-9-people-including-a-suspect-are-killed-and-28-others-are-injured-in-a-knife-attack-in-kashgar-west-xinjiang-china-marking-the-s.html)  [JSON](/news/2011/07/31/at-least-9-people-including-a-suspect-are-killed-and-28-others-are-injured-in-a-knife-attack-in-kashgar-west-xinjiang-china-marking-the-s.json)  [XML](/news/2011/07/31/at-least-9-people-including-a-suspect-are-killed-and-28-others-are-injured-in-a-knife-attack-in-kashgar-west-xinjiang-china-marking-the-s.xml)  
+
 ### [2011-07-31](/news/2011/07/31/index.md)
 
+##### Kashgar
 # At least 9 people including a suspect are killed and 28 others are injured in a knife attack in Kashgar, west Xinjiang, China, marking the second attack of the month in Xinjiang. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CRI](http://english.cri.cn/6909/2011/08/01/1781s651239.htm)
-2. [The Washington Post](http://www.washingtonpost.com/world/asia-pacific/7-dead-22-injured-in-northwest-china-after-knife-bearing-men-hijack-truck-and-attack-crowd/2011/07/31/gIQA1AbRkI_story.html)
+2. [The Washington Post](https://www.washingtonpost.com/world/asia-pacific/7-dead-22-injured-in-northwest-china-after-knife-bearing-men-hijack-truck-and-attack-crowd/2011/07/31/gIQA1AbRkI_story.html)
 3. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-07/31/c_131020413.htm)
 
 ### Related:

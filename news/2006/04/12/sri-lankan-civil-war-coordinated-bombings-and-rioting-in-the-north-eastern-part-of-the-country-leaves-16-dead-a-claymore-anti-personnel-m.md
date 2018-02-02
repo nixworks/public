@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/12/sri-lankan-civil-war-coordinated-bombings-and-rioting-in-the-north-eastern-part-of-the-country-leaves-16-dead-a-claymore-anti-personnel-m.html)  [JSON](/news/2006/04/12/sri-lankan-civil-war-coordinated-bombings-and-rioting-in-the-north-eastern-part-of-the-country-leaves-16-dead-a-claymore-anti-personnel-m.json)  [XML](/news/2006/04/12/sri-lankan-civil-war-coordinated-bombings-and-rioting-in-the-north-eastern-part-of-the-country-leaves-16-dead-a-claymore-anti-personnel-m.xml)  
+
 ### [2006-04-12](/news/2006/04/12/index.md)
 
+##### Sri Lankan Civil War
 #  Sri Lankan Civil War: coordinated bombings and rioting in the north-eastern part of the country leaves 16 dead. A claymore anti-personnel mine explodes in Trincomalee, killing two policemen in their vehicle. Another blast set off in a crowded vegetable market kills one soldier and civilians. Ensuing rioting leaves more than a dozen dead. Authorities have blamed LTTE rebels for the recent attacks since Monday. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4901952.stm)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyid=2006-04-12T145905Z_01_COL63331_RTRUKOC_0_US-SRILANKA.xml)

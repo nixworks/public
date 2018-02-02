@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/12/a-third-person-a-critically-injured-unidentified-girl-dies-at-san-francisco-general-hospital-of-injuries-she-sustained-as-a-result-of-the.html)  [JSON](/news/2013/07/12/a-third-person-a-critically-injured-unidentified-girl-dies-at-san-francisco-general-hospital-of-injuries-she-sustained-as-a-result-of-the.json)  [XML](/news/2013/07/12/a-third-person-a-critically-injured-unidentified-girl-dies-at-san-francisco-general-hospital-of-injuries-she-sustained-as-a-result-of-the.xml)  
+
 ### [2013-07-12](/news/2013/07/12/index.md)
 
+##### San Francisco General Hospital
 # A third person, a critically injured unidentified girl, dies at San Francisco General Hospital of injuries she sustained as a result of the Saturday, July 6, 2013 crash-landing of Asiana Airlines Flight 214, a Boeing 777 (180 were injured, 16 remain hospitalized, including two critical adults; autopsy results will take about 3 weeks). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://usnews.nbcnews.com/_news/2013/07/12/19439596-third-girl-dies-from-injuries-in-asiana-airlines-crash-in-san-francisco?lite&)
 

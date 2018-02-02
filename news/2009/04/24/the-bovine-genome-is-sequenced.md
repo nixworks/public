@@ -1,14 +1,14 @@
+
+Formats: [HTML](/news/2009/04/24/the-bovine-genome-is-sequenced.html)  [JSON](/news/2009/04/24/the-bovine-genome-is-sequenced.json)  [XML](/news/2009/04/24/the-bovine-genome-is-sequenced.xml)  
+
 ### [2009-04-24](/news/2009/04/24/index.md)
 
+##### bovine genome
 #  The bovine genome is sequenced. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Science](http://www.sciencemag.org/cgi/content/abstract/sci;324/5926/522)
-
-### Related:
-
-1. [ An international team of scientists announces that the genome of the domestic horse has been successfully sequenced. ](/news/2009/11/5/an-international-team-of-scientists-announces-that-the-genome-of-the-domestic-horse-has-been-successfully-sequenced.md) _Context: sequenced_

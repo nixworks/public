@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/11/conflict-in-iraq-at-least-20-people-are-killed-in-baghdad-as-united-states-secretary-of-defense-donald-rumsfeld-tours-the-country-for-a-da.html)  [JSON](/news/2005/02/11/conflict-in-iraq-at-least-20-people-are-killed-in-baghdad-as-united-states-secretary-of-defense-donald-rumsfeld-tours-the-country-for-a-da.json)  [XML](/news/2005/02/11/conflict-in-iraq-at-least-20-people-are-killed-in-baghdad-as-united-states-secretary-of-defense-donald-rumsfeld-tours-the-country-for-a-da.xml)  
+
 ### [2005-02-11](/news/2005/02/11/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: At least 20 people are killed in Baghdad as United States Secretary of Defense Donald Rumsfeld tours the country for a day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4257273.stm)
 

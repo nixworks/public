@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/2/a-leaked-memo-in-the-uk-detailing-a-conversation-between-u-s-president-george-w-bush-and-british-prime-minister-tony-blair-in-2003-has.html)  [JSON](/news/2006/02/2/a-leaked-memo-in-the-uk-detailing-a-conversation-between-u-s-president-george-w-bush-and-british-prime-minister-tony-blair-in-2003-has.json)  [XML](/news/2006/02/2/a-leaked-memo-in-the-uk-detailing-a-conversation-between-u-s-president-george-w-bush-and-british-prime-minister-tony-blair-in-2003-has.xml)  
+
 ### [2006-02-2](/news/2006/02/2/index.md)
 
+##### George W. Bush
 #  A leaked memo in the UK, detailing a conversation between U.S. President George W. Bush and British Prime Minister Tony Blair in 2003, has revealed that Blair intended to follow the US into Iraq even without a UN resolution, and that Bush considered provoking a response from Iraq using falsely marked Lockheed U-2 spy planes to provide an excuse for war. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://politics.guardian.co.uk/iraq/story/0,,1700881,00.html)
 

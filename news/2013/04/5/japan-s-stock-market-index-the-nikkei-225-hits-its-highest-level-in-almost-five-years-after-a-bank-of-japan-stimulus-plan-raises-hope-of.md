@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/5/japan-s-stock-market-index-the-nikkei-225-hits-its-highest-level-in-almost-five-years-after-a-bank-of-japan-stimulus-plan-raises-hope-of.html)  [JSON](/news/2013/04/5/japan-s-stock-market-index-the-nikkei-225-hits-its-highest-level-in-almost-five-years-after-a-bank-of-japan-stimulus-plan-raises-hope-of.json)  [XML](/news/2013/04/5/japan-s-stock-market-index-the-nikkei-225-hits-its-highest-level-in-almost-five-years-after-a-bank-of-japan-stimulus-plan-raises-hope-of.xml)  
+
 ### [2013-04-5](/news/2013/04/5/index.md)
 
+##### Japan
 # Japan's stock market index, the Nikkei 225, hits its highest level in almost five years, after a Bank of Japan stimulus plan raises hope of economic revival. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-22036778)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65286000/jpg/_65286432_65286431.jpg)

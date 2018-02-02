@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/11/anti-government-protests-cancel-the-fourth-east-asia-summit-in-pattaya-thailand.html)  [JSON](/news/2009/04/11/anti-government-protests-cancel-the-fourth-east-asia-summit-in-pattaya-thailand.json)  [XML](/news/2009/04/11/anti-government-protests-cancel-the-fourth-east-asia-summit-in-pattaya-thailand.xml)  
+
 ### [2009-04-11](/news/2009/04/11/index.md)
 
+##### political crisis
 #  Anti-government protests cancel the Fourth East Asia Summit in Pattaya, Thailand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/7994465.stm)
 

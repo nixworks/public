@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/09/7/viacom-and-cbs-merge.html)  [JSON](/news/1999/09/7/viacom-and-cbs-merge.json)  [XML](/news/1999/09/7/viacom-and-cbs-merge.xml)  
+
 ### [1999-09-7](/news/1999/09/7/index.md)
 
+##### Viacom
 #  Viacom and CBS merge.
 
 

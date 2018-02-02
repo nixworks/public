@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/1/april-car-sales-in-japan-rise-by-92-year-over-year-a-gain-partially-realized-due-to-low-sales-in-the-wake-of-last-year-s-earthquake-and-ts.html)  [JSON](/news/2012/05/1/april-car-sales-in-japan-rise-by-92-year-over-year-a-gain-partially-realized-due-to-low-sales-in-the-wake-of-last-year-s-earthquake-and-ts.json)  [XML](/news/2012/05/1/april-car-sales-in-japan-rise-by-92-year-over-year-a-gain-partially-realized-due-to-low-sales-in-the-wake-of-last-year-s-earthquake-and-ts.xml)  
+
 ### [2012-05-1](/news/2012/05/1/index.md)
 
+##### Japan
 # April car sales in Japan rise by 92% year-over-year, a gain partially realized due to low sales in the wake of last year's earthquake and tsunami. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kuwait News Agency](http://www.kuna.net.kw/ArticleDetails.aspx?id=2237642&Language=en)
 

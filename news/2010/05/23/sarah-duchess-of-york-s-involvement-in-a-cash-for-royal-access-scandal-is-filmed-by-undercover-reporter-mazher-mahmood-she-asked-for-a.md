@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/23/sarah-duchess-of-york-s-involvement-in-a-cash-for-royal-access-scandal-is-filmed-by-undercover-reporter-mazher-mahmood-she-asked-for-a.html)  [JSON](/news/2010/05/23/sarah-duchess-of-york-s-involvement-in-a-cash-for-royal-access-scandal-is-filmed-by-undercover-reporter-mazher-mahmood-she-asked-for-a.json)  [XML](/news/2010/05/23/sarah-duchess-of-york-s-involvement-in-a-cash-for-royal-access-scandal-is-filmed-by-undercover-reporter-mazher-mahmood-she-asked-for-a.xml)  
+
 ### [2010-05-23](/news/2010/05/23/index.md)
 
+##### Sarah, Duchess of York
 # Sarah, Duchess of York's involvement in a "cash for royal access" scandal is filmed by undercover reporter Mazher Mahmood; she asked for a $40,000 (GBP27,650) golden handshake in cash and for GBP500,000 to be sent to her bank in return for access to Prince Andrew. 
 
 The Duchess of York has allegedly become the victim of a tabloid sting aimed at embarrassing her over her troubled finances.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/05/2010523155918505763.html)
 2. [News of the World](http://www.newsoftheworld.co.uk/news/822306/Royal-editor-Robert-Jobson-on-Sarah-Fergusons-rollercoaster-of-scandal.html)

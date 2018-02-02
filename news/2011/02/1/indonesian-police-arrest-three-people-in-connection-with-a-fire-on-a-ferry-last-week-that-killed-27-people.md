@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/1/indonesian-police-arrest-three-people-in-connection-with-a-fire-on-a-ferry-last-week-that-killed-27-people.html)  [JSON](/news/2011/02/1/indonesian-police-arrest-three-people-in-connection-with-a-fire-on-a-ferry-last-week-that-killed-27-people.json)  [XML](/news/2011/02/1/indonesian-police-arrest-three-people-in-connection-with-a-fire-on-a-ferry-last-week-that-killed-27-people.xml)  
+
 ### [2011-02-1](/news/2011/02/1/index.md)
 
+##### Indonesia
 # Indonesian police arrest three people in connection with a fire on a ferry last week that killed 27 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Minneapolis Star Tribune](http://www.startribune.com/world/114989984.html)
 
@@ -15,4 +19,4 @@
 2. [ An Indonesian ferry carrying over 200 passengers sinks off the cost of Sumatra. ](/news/2009/11/22/an-indonesian-ferry-carrying-over-200-passengers-sinks-off-the-cost-of-sumatra.md) _Context: Indonesia, ferry_
 3. [ The Indonesian ferry MV "Teratai Prima" capsizes and sinks off Sulawesi, Indonesia, killing more than 230 people. ](/news/2009/01/12/the-indonesian-ferry-mv-teratai-prima-capsizes-and-sinks-off-sulawesi-indonesia-killing-more-than-230-people.md) _Context: Indonesia, ferry_
 4. [ A fire breaks out on an Indonesian ferry, the Levina 1, carrying 350 passengers shortly after it leaves Jakarta. ](/news/2007/02/22/a-fire-breaks-out-on-an-indonesian-ferry-the-levina-1-carrying-350-passengers-shortly-after-it-leaves-jakarta.md) _Context: Indonesia, ferry_
-5. [More than 134,000 people on the island of Bali, Indonesia, have been taken to shelters as the Mount Agung volcano continues to release smoke. The alert level for an eruption has been raised to the second highest level, 4. In addition, the entire population of Vanuatu's Aoba Island, also at alert level 4, is being moved from the path of the increasingly active Lombenben volcano. ](/news/2017/09/28/more-than-134-000-people-on-the-island-of-bali-indonesia-have-been-taken-to-shelters-as-the-mount-agung-volcano-continues-to-release-smoke.md) _Context: Indonesia_
+5. [The mezzanine overlooking the main lobby of the Indonesia Stock Exchange in Jakarta, Indonesia, collapses, injuring at least 70 people. The Indonesian National Police ruled out terrorism as the cause. ](/news/2018/01/15/the-mezzanine-overlooking-the-main-lobby-of-the-indonesia-stock-exchange-in-jakarta-indonesia-collapses-injuring-at-least-70-people-the.md) _Context: Indonesia_

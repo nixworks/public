@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/3/one-world-trade-center-officially-opens-replacing-its-predecessor-13-years-after-the-september-11-attacks.html)  [JSON](/news/2014/11/3/one-world-trade-center-officially-opens-replacing-its-predecessor-13-years-after-the-september-11-attacks.json)  [XML](/news/2014/11/3/one-world-trade-center-officially-opens-replacing-its-predecessor-13-years-after-the-september-11-attacks.xml)  
+
 ### [2014-11-3](/news/2014/11/3/index.md)
 
+##### One World Trade Center
 # One World Trade Center officially opens, replacing its predecessor 13 years after the September 11 attacks. 
 
 Thirteen years after the 9/11 terrorist attack, World Trade Center is opening for business again.
 
 
-### Source:
+### Sources:
 
 1. [FOXNews](http://www.foxnews.com/us/2014/11/03/resurrection-world-trade-center-reopens-for-business-13-years-after-11/?intcmp=ob_homepage_US&intcmp=obnetwork)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2014/11/03/resurrection-world-trade-center-reopens-for-business-13-years-after-11/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422842137511.jpg?ve=1)

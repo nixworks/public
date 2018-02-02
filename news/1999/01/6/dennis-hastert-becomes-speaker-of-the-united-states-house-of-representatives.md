@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/01/6/dennis-hastert-becomes-speaker-of-the-united-states-house-of-representatives.html)  [JSON](/news/1999/01/6/dennis-hastert-becomes-speaker-of-the-united-states-house-of-representatives.json)  [XML](/news/1999/01/6/dennis-hastert-becomes-speaker-of-the-united-states-house-of-representatives.xml)  
+
 ### [1999-01-6](/news/1999/01/6/index.md)
 
+##### Dennis Hastert
 #  Dennis Hastert becomes Speaker of the United States House of Representatives.
 
 

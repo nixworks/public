@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2012/08/24/afghanistan-insurgents-kill-four-men-including-three-soldiers-in-the-afghan-army-in-paktia-province.html)  [JSON](/news/2012/08/24/afghanistan-insurgents-kill-four-men-including-three-soldiers-in-the-afghan-army-in-paktia-province.json)  [XML](/news/2012/08/24/afghanistan-insurgents-kill-four-men-including-three-soldiers-in-the-afghan-army-in-paktia-province.xml)  
+
 ### [2012-08-24](/news/2012/08/24/index.md)
 
+##### War in Afghanistan (2001-present)
 # Afghanistan: Insurgents kill four men including three soldiers in the Afghan Army in Paktia Province. 
 
 U.S. missiles slammed into three compounds close to the Afghan border Friday, killing 18 suspected militants, Pakistani officials said.
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/police-insurgents-kidnap-kill-afghan-soldiers-17070410#.UDcaqqMsBx4)
-2. [USA Today](http://www.usatoday.com/news/world/story/2012-08-24/pakistan-drone/57267080/1)
+2. [USA Today](https://www.usatoday.com/news/world/story/2012-08-24/pakistan-drone/57267080/1)
+
+### Changes:
+
+1. [War on terror:Afghanistan: Insurgents kill four men including three soldiers in the Afghan Army in Paktia Province. ](/news/2012/08/24/war-on-terror-pafghanistan-insurgents-kill-four-men-including-three-soldiers-in-the-afghan-army-in-paktia-province.md) _2017-08-25 03:36:19 (First version)_
+2. [War on terror:: Afghanistan: Insurgents kill four men including three soldiers in the Afghan Army in Paktia Province. ](/news/2012/08/24/war-on-terror-afghanistan-insurgents-kill-four-men-including-three-soldiers-in-the-afghan-army-in-paktia-province.md) _2017-08-27 03:36:31 (Update)_
+2. [Afghanistan: Insurgents kill four men including three soldiers in the Afghan Army in Paktia Province. ](/news/2012/08/24/afghanistan-insurgents-kill-four-men-including-three-soldiers-in-the-afghan-army-in-paktia-province.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@ U.S. missiles slammed into three compounds close to the Afghan border Friday, ki
 3. [A suicide bomber attacks an Afghan National Army air force bus in Kabul killing at least five people. ](/news/2014/07/2/a-suicide-bomber-attacks-an-afghan-national-army-air-force-bus-in-kabul-killing-at-least-five-people.md) _Context: Afghan National Army, Taliban insurgency_
 4. [Afghanistan: ISAF announces 11 people have been killed in a Black Hawk helicopter crash in southern Afghanistan, including seven U.S. soldiers and four members of the Afghan National Army. Taliban insurgents claim they downed it. ](/news/2012/08/16/afghanistan-isaf-announces-11-people-have-been-killed-in-a-black-hawk-helicopter-crash-in-southern-afghanistan-including-seven-u-s-soldie.md) _Context: Afghan National Army, Taliban insurgency_
 5. [ War in Afghanistan (2001-present): One NATO soldier and about 70 Taliban insurgents were killed in southern Afghanistan when fighting broke out between insurgents and Afghan troops and NATO's International Security Assistance Force (ISAF), officials said. ](/news/2006/10/29/war-in-afghanistan-2001apresent-one-nato-soldier-and-about-70-taliban-insurgents-were-killed-in-southern-afghanistan-when-fighting-bro.md) _Context: Taliban insurgency, War in Afghanistan (2001-present)_
-
-### Changes:
-
-1. [War on terror:Afghanistan: Insurgents kill four men including three soldiers in the Afghan Army in Paktia Province. ](/news/2012/08/24/war-on-terror-pafghanistan-insurgents-kill-four-men-including-three-soldiers-in-the-afghan-army-in-paktia-province.md) _2017-08-25 03:36:19 (First version)_
-2. [War on terror:: Afghanistan: Insurgents kill four men including three soldiers in the Afghan Army in Paktia Province. ](/news/2012/08/24/war-on-terror-afghanistan-insurgents-kill-four-men-including-three-soldiers-in-the-afghan-army-in-paktia-province.md) _2017-08-27 03:36:31 (Update)_
-2. [Afghanistan: Insurgents kill four men including three soldiers in the Afghan Army in Paktia Province. ](/news/2012/08/24/afghanistan-insurgents-kill-four-men-including-three-soldiers-in-the-afghan-army-in-paktia-province.md) _(Current version)_

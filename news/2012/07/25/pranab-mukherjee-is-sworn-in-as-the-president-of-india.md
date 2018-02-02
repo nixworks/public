@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/25/pranab-mukherjee-is-sworn-in-as-the-president-of-india.html)  [JSON](/news/2012/07/25/pranab-mukherjee-is-sworn-in-as-the-president-of-india.json)  [XML](/news/2012/07/25/pranab-mukherjee-is-sworn-in-as-the-president-of-india.xml)  
+
 ### [2012-07-25](/news/2012/07/25/index.md)
 
+##### Pranab Mukherjee
 # Pranab Mukherjee is sworn in as the President of India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IBN Live](http://ibnlive.in.com/news/live-pranab-set-to-take-oath-leaves-for-rajghat/274233-37-64.html)
 

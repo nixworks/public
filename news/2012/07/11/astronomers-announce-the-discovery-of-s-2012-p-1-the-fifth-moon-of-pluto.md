@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/11/astronomers-announce-the-discovery-of-s-2012-p-1-the-fifth-moon-of-pluto.html)  [JSON](/news/2012/07/11/astronomers-announce-the-discovery-of-s-2012-p-1-the-fifth-moon-of-pluto.json)  [XML](/news/2012/07/11/astronomers-announce-the-discovery-of-s-2012-p-1-the-fifth-moon-of-pluto.xml)  
+
 ### [2012-07-11](/news/2012/07/11/index.md)
 
+##### S/2012 P 1
 # Astronomers announce the discovery of S-2012 P 1, the fifth moon of Pluto. 
 
 A fifth moon has just been discovered orbiting former planet Pluto, scientists with the Hubble Space Telescope announced Wednesday -- but it’s still not enough to bump the dwarf planet back into the big leagues.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/scitech/2012/07/11/pluto-has-fifth-moon-hubble-telescope-reveals/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/tech/2012/07/11/pluto-has-fifth-moon-hubble-telescope-reveals/_jcr_content/par/featured-media/media-3.img.jpg/0/0/1421957396834.jpg?ve=1)

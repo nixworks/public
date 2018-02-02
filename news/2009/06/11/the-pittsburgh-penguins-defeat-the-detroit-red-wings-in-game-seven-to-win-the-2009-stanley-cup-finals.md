@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/11/the-pittsburgh-penguins-defeat-the-detroit-red-wings-in-game-seven-to-win-the-2009-stanley-cup-finals.html)  [JSON](/news/2009/06/11/the-pittsburgh-penguins-defeat-the-detroit-red-wings-in-game-seven-to-win-the-2009-stanley-cup-finals.json)  [XML](/news/2009/06/11/the-pittsburgh-penguins-defeat-the-detroit-red-wings-in-game-seven-to-win-the-2009-stanley-cup-finals.xml)  
+
 ### [2009-06-11](/news/2009/06/11/index.md)
 
+##### Pittsburgh Penguins
 #  The Pittsburgh Penguins defeat the Detroit Red Wings in game seven to win the 2009 Stanley Cup Finals. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via WSLS](http://www.wsls.com/sls/sports/professional/professional_hockey/article/pittsburgh_penguins_win_stanley_cup/38005/)
 

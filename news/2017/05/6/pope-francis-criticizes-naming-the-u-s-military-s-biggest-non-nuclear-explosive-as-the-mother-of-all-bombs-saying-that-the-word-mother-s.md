@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/6/pope-francis-criticizes-naming-the-u-s-military-
 
 ### [2017-05-6](/news/2017/05/6/index.md)
 
+##### War in Afghanistan (2015-present)
 # Pope Francis criticizes naming the U.S. military's biggest non-nuclear explosive as the Mother of All Bombs, saying that the word "mother" should not be used in reference to a deadly weapon. 
 
 

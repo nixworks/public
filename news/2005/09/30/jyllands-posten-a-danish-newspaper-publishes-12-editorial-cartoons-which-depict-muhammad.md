@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/09/30/jyllands-posten-a-danish-newspaper-publishes-12-editorial-cartoons-which-depict-muhammad.html)  [JSON](/news/2005/09/30/jyllands-posten-a-danish-newspaper-publishes-12-editorial-cartoons-which-depict-muhammad.json)  [XML](/news/2005/09/30/jyllands-posten-a-danish-newspaper-publishes-12-editorial-cartoons-which-depict-muhammad.xml)  
+
 ### [2005-09-30](/news/2005/09/30/index.md)
 
+##### Jyllands-Posten Muhammad cartoons controversy
 #  Jyllands-Posten, a Danish newspaper, publishes 12 editorial cartoons which depict Muhammad.
 
 

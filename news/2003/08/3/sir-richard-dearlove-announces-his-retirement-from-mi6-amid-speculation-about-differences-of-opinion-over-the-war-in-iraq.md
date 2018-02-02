@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2003/08/3/sir-richard-dearlove-announces-his-retirement-from-mi6-amid-speculation-about-differences-of-opinion-over-the-war-in-iraq.html)  [JSON](/news/2003/08/3/sir-richard-dearlove-announces-his-retirement-from-mi6-amid-speculation-about-differences-of-opinion-over-the-war-in-iraq.json)  [XML](/news/2003/08/3/sir-richard-dearlove-announces-his-retirement-from-mi6-amid-speculation-about-differences-of-opinion-over-the-war-in-iraq.xml)  
+
 ### [2003-08-3](/news/2003/08/3/index.md)
 
+##### Richard Dearlove
 #  Sir Richard Dearlove announces his retirement from MI6 amid speculation about differences of opinion over the war in Iraq 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/3119971.stm)
 

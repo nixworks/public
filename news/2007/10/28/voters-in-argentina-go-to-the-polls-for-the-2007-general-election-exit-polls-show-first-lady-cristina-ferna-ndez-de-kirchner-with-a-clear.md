@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/28/voters-in-argentina-go-to-the-polls-for-the-2007-general-election-exit-polls-show-first-lady-cristina-ferna-ndez-de-kirchner-with-a-clear.html)  [JSON](/news/2007/10/28/voters-in-argentina-go-to-the-polls-for-the-2007-general-election-exit-polls-show-first-lady-cristina-ferna-ndez-de-kirchner-with-a-clear.json)  [XML](/news/2007/10/28/voters-in-argentina-go-to-the-polls-for-the-2007-general-election-exit-polls-show-first-lady-cristina-ferna-ndez-de-kirchner-with-a-clear.xml)  
+
 ### [2007-10-28](/news/2007/10/28/index.md)
 
+##### Argentina
 #  Voters in Argentina go to the polls for the 2007 general election. Exit polls show First Lady Cristina Fernandez de Kirchner with a clear lead over Elisa Carrio. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/7065837.stm)
 
@@ -13,6 +17,6 @@
 
 1. [ Cristina Fernandez de Kirchner, Argentinian presidential candidate, presents Julio Cobos as her running mate. ](/news/2007/08/15/cristina-ferna-ndez-de-kirchner-argentinian-presidential-candidate-presents-julio-cobos-as-her-running-mate.md) _Context: Argentina, Argentine general election, 2007_
 2. [ Cristina Fernandez de Kirchner, current First Lady of Argentina and candidate to become President of Argentina, announces Julio Cobos, the Governor of Mendoza Province as her running mate. ](/news/2007/08/14/cristina-ferna-ndez-de-kirchner-current-first-lady-of-argentina-and-candidate-to-become-president-of-argentina-announces-julio-cobos-the.md) _Context: Argentina, First Lady_
-3. [A car knocks down the security fences of the Pink House, the Presidential Palace of Argentina, and then stops in front of the building's gate. The authorities reported that the driver of the vehicle had psychiatric disorders and that, in addition, the security personnel present at the time of the incident was separated from his position. It was also learned that this fact took place on 21 June. ](/news/2017/06/29/a-car-knocks-down-the-security-fences-of-the-pink-house-the-presidential-palace-of-argentina-and-then-stops-in-front-of-the-building-s-gat.md) _Context: Argentina_
-4. [A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/a-secret-collection-of-nazi-heritage-is-found-in-argentina.md) _Context: Argentina_
-5. [A bus traveling to Chile overturns in Argentina's Mendoza Province, killing at least 19 people. ](/news/2017/02/18/a-bus-traveling-to-chile-overturns-in-argentina-s-mendoza-province-killing-at-least-19-people.md) _Context: Argentina_
+3. [ Mauricio Macri, a member of the National Congress of Argentina and president of Boca Juniors, is elected as the Chief of Government of Buenos Aires. ](/news/2018/06/24/mauricio-macri-a-member-of-the-national-congress-of-argentina-and-president-of-boca-juniors-is-elected-as-the-chief-of-government-of-buen.md) _Context: Argentina_
+4. [In a 491-page ruling, a court indicts former President of Argentina Cristina Fernandez for treason and orders for her arrest for "trying to cover up Iran's possible role in the 1994 bombing of a Jewish community center that killed 85 people". Former foreign affairs minister Hector Timerman is also concerned. Both have previously denied wrongdoing. ](/news/2017/12/7/in-a-491-page-ruling-a-court-indicts-former-president-of-argentina-cristina-ferna-ndez-for-treason-and-orders-for-her-arrest-for-trying-to.md) _Context: Cristina Fernandez_
+5. [Voters in Argentina go to the polls to elect half of the members of the Chamber of Deputies and Senate. "Cambiemos", the national government coalition led by president Mauricio Macri, got a clear victory in the four most populated provinces and the city of Buenos Aires. Former president Cristina Fernandez de Kirchner ran for senator of Buenos and ended second, leading the opposition. ](/news/2017/10/22/voters-in-argentina-go-to-the-polls-to-elect-half-of-the-members-of-the-chamber-of-deputies-and-senate-cambiemos-the-national-government.md) _Context: Argentina_

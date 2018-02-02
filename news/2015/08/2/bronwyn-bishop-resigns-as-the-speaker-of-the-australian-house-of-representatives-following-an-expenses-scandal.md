@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/2/bronwyn-bishop-resigns-as-the-speaker-of-the-australian-house-of-representatives-following-an-expenses-scandal.html)  [JSON](/news/2015/08/2/bronwyn-bishop-resigns-as-the-speaker-of-the-australian-house-of-representatives-following-an-expenses-scandal.json)  [XML](/news/2015/08/2/bronwyn-bishop-resigns-as-the-speaker-of-the-australian-house-of-representatives-following-an-expenses-scandal.xml)  
+
 ### [2015-08-2](/news/2015/08/2/index.md)
 
+##### Bronwyn Bishop
 # Bronwyn Bishop resigns as the Speaker of the Australian House of Representatives following an expenses scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/national-affairs/bronwyn-bishop-speaker-resigns-pm-launches-review-of-entitlements/story-fn59niix-1227466858302)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/18/a-us-poland-agreement-to-deploy-a-missile-defense-shield-prompts-unnamed-russian-officials-to-declare-poland-a-legitimate-military-target.html)  [JSON](/news/2008/08/18/a-us-poland-agreement-to-deploy-a-missile-defense-shield-prompts-unnamed-russian-officials-to-declare-poland-a-legitimate-military-target.json)  [XML](/news/2008/08/18/a-us-poland-agreement-to-deploy-a-missile-defense-shield-prompts-unnamed-russian-officials-to-declare-poland-a-legitimate-military-target.xml)  
+
 ### [2008-08-18](/news/2008/08/18/index.md)
 
+##### Poland-United States relations
 #  A US-Poland agreement to deploy a missile defense shield prompts unnamed Russian officials to declare Poland "a legitimate military target" and the deputy of the Russian general staff states that Poland "opens itself to a nuclear strike". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5gLzVO9YmRVo2zJXJwfNJ0XQRZQWg)
 2. [Asia Times](http://www.atimes.com/atimes/Central_Asia/JH19Ag01.html)

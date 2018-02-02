@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/05/22/elections-in-mongolia-former-prime-minister-of-mongolia-nambaryn-enkhbayar-wins-presidential-election.html)  [JSON](/news/2005/05/22/elections-in-mongolia-former-prime-minister-of-mongolia-nambaryn-enkhbayar-wins-presidential-election.json)  [XML](/news/2005/05/22/elections-in-mongolia-former-prime-minister-of-mongolia-nambaryn-enkhbayar-wins-presidential-election.xml)  
+
 ### [2005-05-22](/news/2005/05/22/index.md)
 
+##### Elections in Mongolia
 #  Elections in Mongolia: Former Prime Minister of Mongolia Nambaryn Enkhbayar wins presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/05/22/mongolia.vote.ap/)
-2. [Forbes](http://www.forbes.com/work/feeds/afx/2005/05/22/afx2046174.html)
+2. [Forbes](https://www.forbes.com/work/feeds/afx/2005/05/22/afx2046174.html)
 3. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-05-23T051525Z_01_MOR318894_RTRUKOC_0_MONGOLIA.xml)
 4. [Xinhua](http://news.xinhuanet.com/english/2005-05/23/content_2990177.htm)
 

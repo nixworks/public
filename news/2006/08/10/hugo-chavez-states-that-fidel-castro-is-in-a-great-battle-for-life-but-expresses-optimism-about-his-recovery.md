@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/08/10/hugo-chavez-states-that-fidel-castro-is-in-a-great-battle-for-life-but-expresses-optimism-about-his-recovery.html)  [JSON](/news/2006/08/10/hugo-chavez-states-that-fidel-castro-is-in-a-great-battle-for-life-but-expresses-optimism-about-his-recovery.json)  [XML](/news/2006/08/10/hugo-chavez-states-that-fidel-castro-is-in-a-great-battle-for-life-but-expresses-optimism-about-his-recovery.xml)  
+
 ### [2006-08-10](/news/2006/08/10/index.md)
 
+##### Hugo Chvez
 #  Hugo Chvez states that Fidel Castro is in a "great battle for life" but expresses optimism about his recovery. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/news/world/2006-08-10-chavez-castro_x.htm?csp=34)
+1. [USA Today](https://www.usatoday.com/news/world/2006-08-10-chavez-castro_x.htm?csp=34)
 
 ### Related:
 

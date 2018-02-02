@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/23/in-the-us-large-fires-break-out-in-arizona-and-california-in-arizona-250-people-are-evacuated-and-10-houses-destroyed-northeast-of-phoen.html)  [JSON](/news/2005/06/23/in-the-us-large-fires-break-out-in-arizona-and-california-in-arizona-250-people-are-evacuated-and-10-houses-destroyed-northeast-of-phoen.json)  [XML](/news/2005/06/23/in-the-us-large-fires-break-out-in-arizona-and-california-in-arizona-250-people-are-evacuated-and-10-houses-destroyed-northeast-of-phoen.xml)  
+
 ### [2005-06-23](/news/2005/06/23/index.md)
 
+##### Arizona
 #  In the US, large fires break out in Arizona and California. In Arizona, 250 people are evacuated and 10 houses destroyed northeast of Phoenix. Two fires break out in California in Morongo Valley and San Bernardino Valley 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [KESQ](http://www.kesq.com/Global/story.asp?S=3511462&nav=9qrxbMre)
 2. [Los Angeles Times](http://www.latimes.com/news/local/la-me-cleanup24jun24,0,4707101.story?coll=la-home-headlines)

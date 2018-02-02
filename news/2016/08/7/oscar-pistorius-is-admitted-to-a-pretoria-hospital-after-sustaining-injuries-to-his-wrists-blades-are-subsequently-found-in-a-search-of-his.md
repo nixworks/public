@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/7/oscar-pistorius-is-admitted-to-a-pretoria-hospit
 
 ### [2016-08-7](/news/2016/08/7/index.md)
 
+##### Oscar Pistorius
 # Oscar Pistorius is admitted to a Pretoria hospital after sustaining injuries to his wrists. Blades are subsequently found in a search of his cell. 
 
 Oscar Pistorius was rushed to Pretoria’s Kalafong Hospital after sustaining injuries to his wrists in jail.

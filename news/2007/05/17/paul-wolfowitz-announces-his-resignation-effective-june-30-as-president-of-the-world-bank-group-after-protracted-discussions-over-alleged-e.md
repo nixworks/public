@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/17/paul-wolfowitz-announces-his-resignation-effective-june-30-as-president-of-the-world-bank-group-after-protracted-discussions-over-alleged-e.html)  [JSON](/news/2007/05/17/paul-wolfowitz-announces-his-resignation-effective-june-30-as-president-of-the-world-bank-group-after-protracted-discussions-over-alleged-e.json)  [XML](/news/2007/05/17/paul-wolfowitz-announces-his-resignation-effective-june-30-as-president-of-the-world-bank-group-after-protracted-discussions-over-alleged-e.xml)  
+
 ### [2007-05-17](/news/2007/05/17/index.md)
 
+##### Paul Wolfowitz
 #  Paul Wolfowitz announces his resignation effective June 30 as president of the World Bank Group after protracted discussions over alleged ethics violations. 
 
 Paul Wolfowitz resigned as president of the World Bank on Thursday, ending a protracted battle over his stewardship prompted by his involvement in a high-paying promotion for his companion.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/18665386/)
 1. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Photos/070517/070517_Wolfowitz_hmed_4p.standard.jpg)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/20/richard-sambrook-the-director-of-bbc-news-reveals-that-dr-david-kelly-was-the-source-of-claims-that-downing-street-had-sexed-up-the-sep.html)  [JSON](/news/2003/07/20/richard-sambrook-the-director-of-bbc-news-reveals-that-dr-david-kelly-was-the-source-of-claims-that-downing-street-had-sexed-up-the-sep.json)  [XML](/news/2003/07/20/richard-sambrook-the-director-of-bbc-news-reveals-that-dr-david-kelly-was-the-source-of-claims-that-downing-street-had-sexed-up-the-sep.xml)  
+
 ### [2003-07-20](/news/2003/07/20/index.md)
 
+##### Richard Sambrook
 #  Richard Sambrook, the Director of BBC News reveals that Dr. David Kelly was the source of claims that Downing Street had "sexed up" the September Dossier. (see also: Dodgy Dossier)
 
 

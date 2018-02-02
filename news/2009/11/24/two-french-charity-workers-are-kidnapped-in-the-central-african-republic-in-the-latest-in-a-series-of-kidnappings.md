@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/24/two-french-charity-workers-are-kidnapped-in-the-central-african-republic-in-the-latest-in-a-series-of-kidnappings.html)  [JSON](/news/2009/11/24/two-french-charity-workers-are-kidnapped-in-the-central-african-republic-in-the-latest-in-a-series-of-kidnappings.json)  [XML](/news/2009/11/24/two-french-charity-workers-are-kidnapped-in-the-central-african-republic-in-the-latest-in-a-series-of-kidnappings.xml)  
+
 ### [2009-11-24](/news/2009/11/24/index.md)
 
+##### France
 #  Two French charity workers are kidnapped in the Central African Republic, in the latest in a series of kidnappings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Afrik.com](http://en.afrik.com/news13130.html)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20091124074021794C588099)

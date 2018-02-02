@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/11/the-last-king-of-nepal-gyanendra-of-nepal-departs-from-narayanhiti-palace-for-the-last-time-after-nepal-is-declared-to-be-a-republic.html)  [JSON](/news/2008/06/11/the-last-king-of-nepal-gyanendra-of-nepal-departs-from-narayanhiti-palace-for-the-last-time-after-nepal-is-declared-to-be-a-republic.json)  [XML](/news/2008/06/11/the-last-king-of-nepal-gyanendra-of-nepal-departs-from-narayanhiti-palace-for-the-last-time-after-nepal-is-declared-to-be-a-republic.xml)  
+
 ### [2008-06-11](/news/2008/06/11/index.md)
 
+##### King of Nepal
 #  The last King of Nepal Gyanendra of Nepal departs from Narayanhiti Palace for the last time after Nepal is declared to be a republic. 
 
 The former king of Nepal, Gyanendra Shah, formally turned over his palace in Kathmandu to authorities on Wednesday, two weeks after lawmakers declared the country a republic.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/world/story/2008/06/11/nepal-kinggoes.html)
 1. [Cover Image](https://i.cbc.ca/1.2212365.1382593431!/httpImage/image.jpg_gen/derivatives/16x9_1180/top-nepal-king-cp-4934142.jpg)

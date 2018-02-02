@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/29/china-arrests-two-activists-on-charges-of-subversion-after-calling-for-jasmine-protests-similar-to-those-in-the-middle-east.html)  [JSON](/news/2011/03/29/china-arrests-two-activists-on-charges-of-subversion-after-calling-for-jasmine-protests-similar-to-those-in-the-middle-east.json)  [XML](/news/2011/03/29/china-arrests-two-activists-on-charges-of-subversion-after-calling-for-jasmine-protests-similar-to-those-in-the-middle-east.xml)  
+
 ### [2011-03-29](/news/2011/03/29/index.md)
 
+##### China
 # China arrests two activists on charges of subversion after calling for 'Jasmine' protests similar to those in the Middle East. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/asia/229205/china-charges-two-amid-jasmine-crackdown)
 2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_650626.html)

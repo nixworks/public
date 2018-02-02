@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/25/a-new-jersey-attorney-announces-the-largest-alleged-commercial-hacking-and-data-breach-scheme-ever-prosecuted-in-the-united-states.html)  [JSON](/news/2013/07/25/a-new-jersey-attorney-announces-the-largest-alleged-commercial-hacking-and-data-breach-scheme-ever-prosecuted-in-the-united-states.json)  [XML](/news/2013/07/25/a-new-jersey-attorney-announces-the-largest-alleged-commercial-hacking-and-data-breach-scheme-ever-prosecuted-in-the-united-states.xml)  
+
 ### [2013-07-25](/news/2013/07/25/index.md)
 
+##### New Jersey
 # A New Jersey attorney announces the largest alleged commercial hacking and data breach scheme ever prosecuted in the United States. 
 
 Four Russian nationals and a Ukrainian have been charged with running a sophisticated hacking organization that over seven years penetrated computer networks of more than a dozen major American and international corporations.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/us/2013/07/25/4-russians-1-ukrainian-hacked-corporations-over-7-years-losses-in-hundreds/)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

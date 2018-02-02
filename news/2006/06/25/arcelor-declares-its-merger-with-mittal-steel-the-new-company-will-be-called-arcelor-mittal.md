@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/25/arcelor-declares-its-merger-with-mittal-steel-the-new-company-will-be-called-arcelor-mittal.html)  [JSON](/news/2006/06/25/arcelor-declares-its-merger-with-mittal-steel-the-new-company-will-be-called-arcelor-mittal.json)  [XML](/news/2006/06/25/arcelor-declares-its-merger-with-mittal-steel-the-new-company-will-be-called-arcelor-mittal.xml)  
+
 ### [2006-06-25](/news/2006/06/25/index.md)
 
+##### Arcelor
 #  Arcelor declares its merger with Mittal Steel. The new company will be called "Arcelor-Mittal". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/business/5114290.stm)
 2. [CNN-IBN](http://www.ibnlive.com/news/ln-mittal-clinches-arcelor-deal/13810-7.html)

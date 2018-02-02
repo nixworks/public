@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/10/an-internal-plot-among-cardinals-to-kill-pope-benedict-xvi-is-alleged-in-italy.html)  [JSON](/news/2012/02/10/an-internal-plot-among-cardinals-to-kill-pope-benedict-xvi-is-alleged-in-italy.json)  [XML](/news/2012/02/10/an-internal-plot-among-cardinals-to-kill-pope-benedict-xvi-is-alleged-in-italy.xml)  
+
 ### [2012-02-10](/news/2012/02/10/index.md)
 
+##### Cardinal
 # An internal plot among cardinals to kill Pope Benedict XVI is alleged in Italy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2012/feb/10/plot-kill-pope-italian-media)
 

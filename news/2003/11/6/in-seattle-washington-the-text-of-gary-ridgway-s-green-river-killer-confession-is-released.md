@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/6/in-seattle-washington-the-text-of-gary-ridgway-s-green-river-killer-confession-is-released.html)  [JSON](/news/2003/11/6/in-seattle-washington-the-text-of-gary-ridgway-s-green-river-killer-confession-is-released.json)  [XML](/news/2003/11/6/in-seattle-washington-the-text-of-gary-ridgway-s-green-river-killer-confession-is-released.xml)  
+
 ### [2003-11-6](/news/2003/11/6/index.md)
 
+##### Seattle, Washington
 #  In Seattle, Washington, the text of Gary Ridgway's ("Green River Killer") confession is released.
 
 

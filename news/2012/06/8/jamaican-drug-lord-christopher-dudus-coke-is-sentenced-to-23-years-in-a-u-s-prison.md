@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/8/jamaican-drug-lord-christopher-dudus-coke-is-sentenced-to-23-years-in-a-u-s-prison.html)  [JSON](/news/2012/06/8/jamaican-drug-lord-christopher-dudus-coke-is-sentenced-to-23-years-in-a-u-s-prison.json)  [XML](/news/2012/06/8/jamaican-drug-lord-christopher-dudus-coke-is-sentenced-to-23-years-in-a-u-s-prison.xml)  
+
 ### [2012-06-8](/news/2012/06/8/index.md)
 
+##### Jamaica
 # Jamaican "drug lord" Christopher "Dudus" Coke is sentenced to 23 years in a U.S. prison. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-18371383)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60790000/jpg/_60790185_60790184.jpg)

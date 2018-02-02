@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/9/donald-trump-requests-gary-cohn-chief-operating-
 
 ### [2016-12-9](/news/2016/12/9/index.md)
 
+##### Presidential transition of Donald Trump
 #  Donald Trump requests Gary Cohn, chief operating officer of investment bank Goldman Sachs, to join his administration as chair of the White House National Economic Council. 
 
 

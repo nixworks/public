@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/05/31/china-claims-that-arrested-singaporean-journalist-ching-cheong-was-spying.html)  [JSON](/news/2005/05/31/china-claims-that-arrested-singaporean-journalist-ching-cheong-was-spying.json)  [XML](/news/2005/05/31/china-claims-that-arrested-singaporean-journalist-ching-cheong-was-spying.xml)  
+
 ### [2005-05-31](/news/2005/05/31/index.md)
 
+##### China
 #  China claims that arrested Singaporean journalist Ching Cheong was spying. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4594861.stm)
-2. [Forbes](http://www.forbes.com/finance/feeds/afx/2005/05/31/afx2064468.html)
+2. [Forbes](https://www.forbes.com/finance/feeds/afx/2005/05/31/afx2064468.html)
 3. [Reporters Without Borders](http://www.rsf.org/article.php3?id_article=13957)
 4. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-05-31T092229Z_01_HO111316_RTRUKOC_0_CHINA-REPORTER.xml)
 

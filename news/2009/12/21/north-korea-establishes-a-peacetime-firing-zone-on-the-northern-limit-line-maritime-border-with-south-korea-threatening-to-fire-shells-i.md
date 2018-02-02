@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/21/north-korea-establishes-a-peacetime-firing-zone-on-the-northern-limit-line-maritime-border-with-south-korea-threatening-to-fire-shells-i.html)  [JSON](/news/2009/12/21/north-korea-establishes-a-peacetime-firing-zone-on-the-northern-limit-line-maritime-border-with-south-korea-threatening-to-fire-shells-i.json)  [XML](/news/2009/12/21/north-korea-establishes-a-peacetime-firing-zone-on-the-northern-limit-line-maritime-border-with-south-korea-threatening-to-fire-shells-i.xml)  
+
 ### [2009-12-21](/news/2009/12/21/index.md)
 
+##### North Korea
 #  North Korea establishes a "peacetime firing zone" on the Northern Limit Line maritime border with South Korea, threatening to fire shells in South Korean territorial waters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5heyUEZfE_DJMSzEPsv9JopWUZtMQ)
 2. [RIA Novosti](http://en.rian.ru/world/20091221/157311649.html)

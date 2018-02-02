@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/15/war-in-iraq-two-separate-bombings-in-baquba-and-ramadi-kills-at-least-60.html)  [JSON](/news/2008/04/15/war-in-iraq-two-separate-bombings-in-baquba-and-ramadi-kills-at-least-60.json)  [XML](/news/2008/04/15/war-in-iraq-two-separate-bombings-in-baquba-and-ramadi-kills-at-least-60.xml)  
+
 ### [2008-04-15](/news/2008/04/15/index.md)
 
+##### War in Iraq
 #  War in Iraq: Two separate bombings in Baquba and Ramadi kills at least 60. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/meast/04/15/iraq.mainbombs/index.html)
 

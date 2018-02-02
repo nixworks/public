@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/08/29/hurricane-isaac-arrives-in-the-us-city-of-new-orleans-on-the-seventh-anniversary-of-hurricane-katrina-hitting-the-city-damage-is-limited.html)  [JSON](/news/2012/08/29/hurricane-isaac-arrives-in-the-us-city-of-new-orleans-on-the-seventh-anniversary-of-hurricane-katrina-hitting-the-city-damage-is-limited.json)  [XML](/news/2012/08/29/hurricane-isaac-arrives-in-the-us-city-of-new-orleans-on-the-seventh-anniversary-of-hurricane-katrina-hitting-the-city-damage-is-limited.xml)  
+
 ### [2012-08-29](/news/2012/08/29/index.md)
 
+##### Hurricane Isaac
 # Hurricane Isaac arrives in the US city of New Orleans on the seventh anniversary of Hurricane Katrina hitting the city. Damage is limited. 
 
 Hurricane Isaac dumped heavy rains on the U.S. Gulf Coast and caused widespread flooding on Wednesday, but elaborate defenses built to protect New Orleans after the 2005 Hurricane Katrina disaster withstood the onslaught, officials said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/08/29/us-storm-isaac-idUSBRE87L0PH20120829?feedType=RSS&feedName=topNews)
+1. [Reuters](https://www.reuters.com/article/2012/08/29/us-storm-isaac-idUSBRE87L0PH20120829?feedType=RSS&feedName=topNews)
 1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120829&t=2&i=647359958&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE87S1FJW00)
 
 ### Related:

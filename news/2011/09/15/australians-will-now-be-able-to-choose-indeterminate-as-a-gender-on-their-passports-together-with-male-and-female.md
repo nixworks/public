@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/15/australians-will-now-be-able-to-choose-indeterminate-as-a-gender-on-their-passports-together-with-male-and-female.html)  [JSON](/news/2011/09/15/australians-will-now-be-able-to-choose-indeterminate-as-a-gender-on-their-passports-together-with-male-and-female.json)  [XML](/news/2011/09/15/australians-will-now-be-able-to-choose-indeterminate-as-a-gender-on-their-passports-together-with-male-and-female.xml)  
+
 ### [2011-09-15](/news/2011/09/15/index.md)
 
+##### Australian
 # Australians will now be able to choose "indeterminate" as a gender on their passports together with male and female. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Mercury News](http://www.mercurynews.com/breaking-news/ci_18897011)
 

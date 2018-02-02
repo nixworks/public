@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/24/governor-deval-patrick-of-massachusetts-chooses-former-democratic-national-committee-chairman-paul-g-kirk-jr-to-replace-former-senator-t.html)  [JSON](/news/2009/09/24/governor-deval-patrick-of-massachusetts-chooses-former-democratic-national-committee-chairman-paul-g-kirk-jr-to-replace-former-senator-t.json)  [XML](/news/2009/09/24/governor-deval-patrick-of-massachusetts-chooses-former-democratic-national-committee-chairman-paul-g-kirk-jr-to-replace-former-senator-t.xml)  
+
 ### [2009-09-24](/news/2009/09/24/index.md)
 
+##### Massachusetts governor
 #  Governor Deval Patrick of Massachusetts chooses former Democratic National Committee chairman Paul G. Kirk, Jr. to replace former Senator Teddy Kennedy on a temporary basis, until elections can be held to choose a permanent replacement to fill the remainder of Kennedy's term. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/6634969.html)
 

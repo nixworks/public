@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/30/u-k-prime-minister-david-cameron-at-the-upcomin
 
 ### [2016-03-30](/news/2016/03/30/index.md)
 
+##### Prime Minister
 # U.K. Prime Minister David Cameron, at the upcoming Nuclear Security Summit in Washington, D.C., will announce a three-way deal with the United States and Euratom, the European Union nuclear agency, to turn nuclear waste into medical isotopes to help fight cancer. 
 
 U.K. Prime Minister David Cameron will set out measures intended to boost security in the nuclear industry and counter threats to atomic plants around the world at a summit on the issue in Washington on Friday.

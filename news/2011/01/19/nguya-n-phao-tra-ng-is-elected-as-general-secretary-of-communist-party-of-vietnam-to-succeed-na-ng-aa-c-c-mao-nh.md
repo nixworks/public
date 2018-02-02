@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/19/nguya-n-phao-tra-ng-is-elected-as-general-secretary-of-communist-party-of-vietnam-to-succeed-na-ng-aa-c-c-mao-nh.html)  [JSON](/news/2011/01/19/nguya-n-phao-tra-ng-is-elected-as-general-secretary-of-communist-party-of-vietnam-to-succeed-na-ng-aa-c-c-mao-nh.json)  [XML](/news/2011/01/19/nguya-n-phao-tra-ng-is-elected-as-general-secretary-of-communist-party-of-vietnam-to-succeed-na-ng-aa-c-c-mao-nh.xml)  
+
 ### [2011-01-19](/news/2011/01/19/index.md)
 
+##### Nguyen Phu Trong
 # Nguyen Phu Trong is elected as General Secretary of Communist Party of Vietnam to succeed Nong Duc Manh. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Communist Party official](http://news.xinhuanet.com/english2010/world/2011-01/10/c_13684175.htm)
 

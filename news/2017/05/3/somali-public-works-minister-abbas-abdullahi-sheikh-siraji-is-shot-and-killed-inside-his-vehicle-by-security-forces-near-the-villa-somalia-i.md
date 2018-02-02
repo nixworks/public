@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/3/somali-public-works-minister-abbas-abdullahi-she
 
 ### [2017-05-3](/news/2017/05/3/index.md)
 
+##### Somalia
 # Somali Public Works Minister Abbas Abdullahi Sheikh Siraji is shot and killed inside his vehicle by security forces near the Villa Somalia in the capital Mogadishu, after mistaking him for a militant. 
 
 

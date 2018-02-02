@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/01/20/a-gunman-shoots-a-cardiovascular-surgeon-to-death-at-harvard-medical-school-s-brigham-and-women-s-hospital-in-boston-massachusetts-and-the.html)  [JSON](/news/2015/01/20/a-gunman-shoots-a-cardiovascular-surgeon-to-death-at-harvard-medical-school-s-brigham-and-women-s-hospital-in-boston-massachusetts-and-the.json)  [XML](/news/2015/01/20/a-gunman-shoots-a-cardiovascular-surgeon-to-death-at-harvard-medical-school-s-brigham-and-women-s-hospital-in-boston-massachusetts-and-the.xml)  
+
 ### [2015-01-20](/news/2015/01/20/index.md)
 
+##### cardiovascular surgeon
 # A gunman shoots a cardiovascular surgeon to death at Harvard Medical School's Brigham and Women's Hospital in Boston, Massachusetts, and then commits suicide. 
 
-Still not clear why man shot cardiac surgeon, then himself.
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/nation/2015/01/21/boston-hospital-shooting/22096101/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/news/nation/2015/01/21/boston-hospital-shooting/22096101/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

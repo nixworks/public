@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/17/leila-de-lima-senator-and-critic-of-the-philipp
 
 ### [2017-02-17](/news/2017/02/17/index.md)
 
+##### Leila de Lima
 # Leila de Lima, senator and critic of the Philippine Drug War, is charged by Philippines justice secretary Vitaliano Aguirre II of alleged drug-related crimes. 
 
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/10/7/burma-pledges-to-release-3000-prisoners-a-month-before-it-hosts-a-southeast-asian-summit.html)  [JSON](/news/2014/10/7/burma-pledges-to-release-3000-prisoners-a-month-before-it-hosts-a-southeast-asian-summit.json)  [XML](/news/2014/10/7/burma-pledges-to-release-3000-prisoners-a-month-before-it-hosts-a-southeast-asian-summit.xml)  
+
 ### [2014-10-7](/news/2014/10/7/index.md)
 
+##### Burma
 # Burma pledges to release 3000 prisoners a month before it hosts a Southeast Asian summit. 
 
 Myanmar on Tuesday pledged to release thousands of prisoners a month before a Southeast Asian summit, which U.S. President Barack Obama and other leaders from outside the region are expected to attend.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/10/07/us-myanmar-prisoners-release-idUSKCN0HW0IN20141007?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20141007&t=2&i=981671269&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEA960RM)
+1. [Reuters](https://www.reuters.com/article/2014/10/07/us-myanmar-prisoners-release-idUSKCN0HW0IN20141007?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20141007&t=2&i=981671269&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEA960RM)
 
 ### Related:
 

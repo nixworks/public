@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/9/in-oman-sultan-qaboos-pardons-31-people-previously-convicted-of-a-coup-attempt.html)  [JSON](/news/2005/06/9/in-oman-sultan-qaboos-pardons-31-people-previously-convicted-of-a-coup-attempt.json)  [XML](/news/2005/06/9/in-oman-sultan-qaboos-pardons-31-people-previously-convicted-of-a-coup-attempt.xml)  
+
 ### [2005-06-9](/news/2005/06/9/index.md)
 
+##### Oman
 #  In Oman, Sultan Qaboos pardons 31 people previously convicted of a coup attempt. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/B4D1A60A-BC6F-4F6C-B1D9-2A382F9B3B63.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4078138.stm)

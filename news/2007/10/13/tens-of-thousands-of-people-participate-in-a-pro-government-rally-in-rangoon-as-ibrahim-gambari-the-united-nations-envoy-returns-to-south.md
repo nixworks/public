@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/13/tens-of-thousands-of-people-participate-in-a-pro-government-rally-in-rangoon-as-ibrahim-gambari-the-united-nations-envoy-returns-to-south.html)  [JSON](/news/2007/10/13/tens-of-thousands-of-people-participate-in-a-pro-government-rally-in-rangoon-as-ibrahim-gambari-the-united-nations-envoy-returns-to-south.json)  [XML](/news/2007/10/13/tens-of-thousands-of-people-participate-in-a-pro-government-rally-in-rangoon-as-ibrahim-gambari-the-united-nations-envoy-returns-to-south.xml)  
+
 ### [2007-10-13](/news/2007/10/13/index.md)
 
+##### Rangoon
 #  Tens of thousands of people participate in a pro-government rally in Rangoon as Ibrahim Gambari, the United Nations envoy, returns to Southeast Asia. 
 
 Tens of thousands of people have been taken to a pro-government rally in Rangoon in a show of strength by Burma&#039;s junta, as a United Nations envoy returns to south-east Asia to pile pressure on the regime.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC](http://www.abc.net.au/news/stories/2007/10/13/2058865.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

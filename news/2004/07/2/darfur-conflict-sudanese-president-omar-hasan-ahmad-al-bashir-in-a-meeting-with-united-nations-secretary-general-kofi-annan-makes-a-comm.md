@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/07/2/darfur-conflict-sudanese-president-omar-hasan-ahmad-al-bashir-in-a-meeting-with-united-nations-secretary-general-kofi-annan-makes-a-comm.html)  [JSON](/news/2004/07/2/darfur-conflict-sudanese-president-omar-hasan-ahmad-al-bashir-in-a-meeting-with-united-nations-secretary-general-kofi-annan-makes-a-comm.json)  [XML](/news/2004/07/2/darfur-conflict-sudanese-president-omar-hasan-ahmad-al-bashir-in-a-meeting-with-united-nations-secretary-general-kofi-annan-makes-a-comm.xml)  
+
 ### [2004-07-2](/news/2004/07/2/index.md)
 
+##### Darfur conflict
 #  Darfur conflict: Sudanese President Omar Hasan Ahmad al-Bashir, in a meeting with United Nations Secretary-General Kofi Annan, makes a commitment to "ensure security for the civilian population by deploying civilian police and by disarming militias". 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5579831)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5579831)
 
 ### Related:
 

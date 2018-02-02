@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/31/politics-of-austria-jorg-haider-a-leading-figure-in-the-freedom-party-who-is-widely-viewed-as-neo-fascist-is-re-elected-governor-of-the.html)  [JSON](/news/2004/03/31/politics-of-austria-jorg-haider-a-leading-figure-in-the-freedom-party-who-is-widely-viewed-as-neo-fascist-is-re-elected-governor-of-the.json)  [XML](/news/2004/03/31/politics-of-austria-jorg-haider-a-leading-figure-in-the-freedom-party-who-is-widely-viewed-as-neo-fascist-is-re-elected-governor-of-the.xml)  
+
 ### [2004-03-31](/news/2004/03/31/index.md)
 
+##### Austrian politics
 #  Politics of Austria: Jrg Haider, a leading figure in the Freedom Party who is widely viewed as neo-fascist, is re-elected governor of the state of Carinthia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Die Presse](http://www.diepresse.at/Artikel.aspx?channel=&ressort=ee&id=413182)
 2. [Scotsman](http://news.scotsman.com/latest.cfm?id=2721412)

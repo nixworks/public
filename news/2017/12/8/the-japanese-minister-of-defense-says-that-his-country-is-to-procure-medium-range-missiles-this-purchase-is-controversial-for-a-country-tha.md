@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/8/the-japanese-minister-of-defense-says-that-his-c
 
 ### [2017-12-8](/news/2017/12/8/index.md)
 
+##### 2017 North Korean crisis
 # The Japanese Minister of Defense says that his country is to procure medium-range missiles. This purchase is controversial for a country that renounced the right to wage war. 
 
  Japan is to acquire medium-range, air-launched cruise missiles, capable of striking North Korea, a controversial purchase of what will become the longest-range

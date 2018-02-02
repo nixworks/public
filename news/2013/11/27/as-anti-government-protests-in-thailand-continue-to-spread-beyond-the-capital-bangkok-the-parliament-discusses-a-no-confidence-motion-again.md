@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2013/11/27/as-anti-government-protests-in-thailand-continue-to-spread-beyond-the-capital-bangkok-the-parliament-discusses-a-no-confidence-motion-again.html)  [JSON](/news/2013/11/27/as-anti-government-protests-in-thailand-continue-to-spread-beyond-the-capital-bangkok-the-parliament-discusses-a-no-confidence-motion-again.json)  [XML](/news/2013/11/27/as-anti-government-protests-in-thailand-continue-to-spread-beyond-the-capital-bangkok-the-parliament-discusses-a-no-confidence-motion-again.xml)  
+
 ### [2013-11-27](/news/2013/11/27/index.md)
 
+##### Thailand
 # As anti-government protests in Thailand continue to spread beyond the capital Bangkok, the parliament discusses a no-confidence motion against the Prime Minister Yingluck Shinawatra. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Times of India](http://timesofindia.indiatimes.com/world/south-asia/Thai-political-protests-spread-outside-Bangkok/articleshow/26453740.cms)
+
+### Changes:
+
+1. [2013 Thai protests:As anti-government protests in Thailand continue to spread beyond the capital Bangkok, the parliament discusses a no-confidence motion against the Prime Minister Yingluck Shinawatra. ](/news/2013/11/27/2013-thai-protests-pas-anti-government-protests-in-thailand-continue-to-spread-beyond-the-capital-bangkok-the-parliament-discusses-a-no-con.md) _2017-08-25 03:39:35 (First version)_
+2. [2013 Thai protests:: As anti-government protests in Thailand continue to spread beyond the capital Bangkok, the parliament discusses a no-confidence motion against the Prime Minister Yingluck Shinawatra. ](/news/2013/11/27/2013-thai-protests-as-anti-government-protests-in-thailand-continue-to-spread-beyond-the-capital-bangkok-the-parliament-discusses-a-no-co.md) _2017-08-27 03:39:53 (Update)_
+2. [As anti-government protests in Thailand continue to spread beyond the capital Bangkok, the parliament discusses a no-confidence motion against the Prime Minister Yingluck Shinawatra. ](/news/2013/11/27/as-anti-government-protests-in-thailand-continue-to-spread-beyond-the-capital-bangkok-the-parliament-discusses-a-no-confidence-motion-again.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [Senior members of the Pheu Thai Party report former Prime Minister Yingluck Shinawatra left Thailand last week ahead of the verdict in her negligence trial. She is in Dubai where her brother, Thaksin Shinawatra, lives. ](/news/2017/08/26/senior-members-of-the-pheu-thai-party-report-former-prime-minister-yingluck-shinawatra-left-thailand-last-week-ahead-of-the-verdict-in-her-n.md) _Context: Prime Minister, Thailand, Yingluck Shinawatra_
 4. [Thailand's National Anti-Corruption Commission refers former Prime Minister Yingluck Shinawatra to face impeachment charges in the Senate over a failed rice subsidy scheme. ](/news/2014/05/8/thailand-s-national-anti-corruption-commission-refers-former-prime-minister-yingluck-shinawatra-to-face-impeachment-charges-in-the-senate-ov.md) _Context: Prime Minister, Thailand, Yingluck Shinawatra_
 5. [Protesters gather in Bangkok to shut down the city centre in an effort to bring down the government of Prime Minister of Thailand Yingluck Shinawatra. ](/news/2014/01/13/protesters-gather-in-bangkok-to-shut-down-the-city-centre-in-an-effort-to-bring-down-the-government-of-prime-minister-of-thailand-yingluck-s.md) _Context: Bangkok, Prime Minister, Yingluck Shinawatra_
-
-### Changes:
-
-1. [2013 Thai protests:As anti-government protests in Thailand continue to spread beyond the capital Bangkok, the parliament discusses a no-confidence motion against the Prime Minister Yingluck Shinawatra. ](/news/2013/11/27/2013-thai-protests-pas-anti-government-protests-in-thailand-continue-to-spread-beyond-the-capital-bangkok-the-parliament-discusses-a-no-con.md) _2017-08-25 03:39:35 (First version)_
-2. [2013 Thai protests:: As anti-government protests in Thailand continue to spread beyond the capital Bangkok, the parliament discusses a no-confidence motion against the Prime Minister Yingluck Shinawatra. ](/news/2013/11/27/2013-thai-protests-as-anti-government-protests-in-thailand-continue-to-spread-beyond-the-capital-bangkok-the-parliament-discusses-a-no-co.md) _2017-08-27 03:39:53 (Update)_
-2. [As anti-government protests in Thailand continue to spread beyond the capital Bangkok, the parliament discusses a no-confidence motion against the Prime Minister Yingluck Shinawatra. ](/news/2013/11/27/as-anti-government-protests-in-thailand-continue-to-spread-beyond-the-capital-bangkok-the-parliament-discusses-a-no-confidence-motion-again.md) _(Current version)_

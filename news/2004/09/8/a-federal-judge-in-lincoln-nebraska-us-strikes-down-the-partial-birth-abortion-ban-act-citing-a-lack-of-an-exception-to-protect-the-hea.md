@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/8/a-federal-judge-in-lincoln-nebraska-us-strikes-down-the-partial-birth-abortion-ban-act-citing-a-lack-of-an-exception-to-protect-the-hea.html)  [JSON](/news/2004/09/8/a-federal-judge-in-lincoln-nebraska-us-strikes-down-the-partial-birth-abortion-ban-act-citing-a-lack-of-an-exception-to-protect-the-hea.json)  [XML](/news/2004/09/8/a-federal-judge-in-lincoln-nebraska-us-strikes-down-the-partial-birth-abortion-ban-act-citing-a-lack-of-an-exception-to-protect-the-hea.xml)  
+
 ### [2004-09-8](/news/2004/09/8/index.md)
 
+##### Lincoln, Nebraska
 #  A federal judge in Lincoln, Nebraska, US, strikes down the Partial-Birth Abortion Ban Act, citing a lack of an exception to protect the health of the mother. This is the third time the controversial law has been declared unconstitutional by a federal judge within the last month. It is almost assured that the government will appeal the decision to the Supreme Court. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN.com](http://www.cnn.com/2004/LAW/09/08/nebraska.abortion.ap/index.html)
 

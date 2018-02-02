@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/27/the-government-of-iraqi-kurdistan-announces-tha
 
 ### [2017-09-27](/news/2017/09/27/index.md)
 
+##### Iraqi Kurdistan independence referendum, 2017
 # The government of Iraqi Kurdistan announces that they won the referendum by over 92% of the vote. 
 
 Almost 93 per cent of those who took part in the referendum on support for Kurdish independence from Iraq have vo

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/8/pope-benedict-xvi-begins-his-tour-of-jordan-israel-and-the-palestinian-territories.html)  [JSON](/news/2009/05/8/pope-benedict-xvi-begins-his-tour-of-jordan-israel-and-the-palestinian-territories.json)  [XML](/news/2009/05/8/pope-benedict-xvi-begins-his-tour-of-jordan-israel-and-the-palestinian-territories.xml)  
+
 ### [2009-05-8](/news/2009/05/8/index.md)
 
+##### Pope
 #  Pope Benedict XVI begins his tour of Jordan, Israel, and the Palestinian territories. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8040130.stm)
 

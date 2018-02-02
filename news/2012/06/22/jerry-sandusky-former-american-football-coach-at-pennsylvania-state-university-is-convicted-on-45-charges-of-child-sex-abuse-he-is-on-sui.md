@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/22/jerry-sandusky-former-american-football-coach-at-pennsylvania-state-university-is-convicted-on-45-charges-of-child-sex-abuse-he-is-on-sui.html)  [JSON](/news/2012/06/22/jerry-sandusky-former-american-football-coach-at-pennsylvania-state-university-is-convicted-on-45-charges-of-child-sex-abuse-he-is-on-sui.json)  [XML](/news/2012/06/22/jerry-sandusky-former-american-football-coach-at-pennsylvania-state-university-is-convicted-on-45-charges-of-child-sex-abuse-he-is-on-sui.xml)  
+
 ### [2012-06-22](/news/2012/06/22/index.md)
 
+##### Jerry Sandusky
 # Jerry Sandusky, former American football coach at Pennsylvania State University, is convicted on 45 charges of child sex abuse. He is on suicide watch. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Atlanta Journal-Constitution](http://www.ajc.com/sports/official-sandusky-jury-has-1462298.html)
 2. [MSNBC](http://usnews.msnbc.msn.com/_news/2012/06/23/12374414-sandusky-reportedly-on-suicide-watch?lite)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/28/a-fire-destroys-the-grand-pier-at-weston-super-mare-somerset-england.html)  [JSON](/news/2008/07/28/a-fire-destroys-the-grand-pier-at-weston-super-mare-somerset-england.json)  [XML](/news/2008/07/28/a-fire-destroys-the-grand-pier-at-weston-super-mare-somerset-england.xml)  
+
 ### [2008-07-28](/news/2008/07/28/index.md)
 
+##### Grand Pier
 #  A fire destroys the Grand Pier at Weston-super-Mare, Somerset, England. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/england/somerset/7528165.stm)
 

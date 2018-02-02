@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/3/less-than-three-months-after-winning-the-general-election-prime-minister-of-sweden-stefan-lofven-calls-a-snap-general-election-after-parlia.html)  [JSON](/news/2014/12/3/less-than-three-months-after-winning-the-general-election-prime-minister-of-sweden-stefan-lofven-calls-a-snap-general-election-after-parlia.json)  [XML](/news/2014/12/3/less-than-three-months-after-winning-the-general-election-prime-minister-of-sweden-stefan-lofven-calls-a-snap-general-election-after-parlia.xml)  
+
 ### [2014-12-3](/news/2014/12/3/index.md)
 
+##### general election
 # Less than three months after winning the general election, Prime Minister of Sweden Stefan Lfven calls a snap general election after parliament rejected his government's budget proposal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-30306992)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/79492000/jpg/_79492702_024970610-1.jpg)

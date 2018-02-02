@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/20/the-african-union-officially-recognises-the-national-transitional-council-as-libya-s-legitimate-leadership.html)  [JSON](/news/2011/09/20/the-african-union-officially-recognises-the-national-transitional-council-as-libya-s-legitimate-leadership.json)  [XML](/news/2011/09/20/the-african-union-officially-recognises-the-national-transitional-council-as-libya-s-legitimate-leadership.xml)  
+
 ### [2011-09-20](/news/2011/09/20/index.md)
 
+##### African Union
 # The African Union officially recognises the National Transitional Council as Libya's legitimate leadership. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5h2NflCTWlrw96Cs-Ts7A7Xcem2dA?docId=CNG.a8a1185f4a08d2928999ea8643dc5bd9.501)
 

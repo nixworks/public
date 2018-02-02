@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/16/the-united-states-army-approves-22-soldiers-req
 
 ### [2016-04-16](/news/2016/04/16/index.md)
 
+##### United States soldier
 # The United States Army approves 22 soldiers requests to become the service's first female infantry and armor unit officers. Thirteen women will enter the armor branch, and nine others will enter infantry as second lieutenants. 
 
 The Army approved the requests of 22 women to commission to become officers in the infantry and armor branches.

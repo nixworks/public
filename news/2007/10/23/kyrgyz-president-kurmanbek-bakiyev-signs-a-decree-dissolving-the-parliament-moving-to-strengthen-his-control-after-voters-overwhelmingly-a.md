@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/23/kyrgyz-president-kurmanbek-bakiyev-signs-a-decree-dissolving-the-parliament-moving-to-strengthen-his-control-after-voters-overwhelmingly-a.html)  [JSON](/news/2007/10/23/kyrgyz-president-kurmanbek-bakiyev-signs-a-decree-dissolving-the-parliament-moving-to-strengthen-his-control-after-voters-overwhelmingly-a.json)  [XML](/news/2007/10/23/kyrgyz-president-kurmanbek-bakiyev-signs-a-decree-dissolving-the-parliament-moving-to-strengthen-his-control-after-voters-overwhelmingly-a.xml)  
+
 ### [2007-10-23](/news/2007/10/23/index.md)
 
+##### Kyrgyzstan
 #  Kyrgyz President Kurmanbek Bakiyev signs a decree dissolving the parliament, moving to strengthen his control after voters overwhelmingly approved constitutional changes in a referendum called by the president. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Moscow Times](http://www.moscowtimes.ru/stories/2007/10/23/016.html)
 1. [Cover Image](http://moscowtimes.org/img/logo-big.png)

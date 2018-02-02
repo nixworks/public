@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/25/voters-in-iceland-head-to-the-polls-to-elect-a-
 
 ### [2016-06-25](/news/2016/06/25/index.md)
 
+##### Icelandic presidential election, 2016
 # Voters in Iceland head to the polls to elect a new president with a historic low voter turnout expected. Independent candidate Gudni Th. Johannesson claims victory. 
 
 Voter turnout could be at a historic low in tomorrow’s presidential election in Iceland.
@@ -24,5 +25,5 @@ Voter turnout could be at a historic low in tomorrow’s presidential election i
 1. [Olafur Ragnar Grimsson, who has been the President of Iceland for 20 years, announces in his new-year speech that he will not seek reelection for a sixth term when presidential elections will be held in June. ](/news/2016/01/1/alafur-ragnar-gramsson-who-has-been-the-president-of-iceland-for-20-years-announces-in-his-new-year-speech-that-he-will-not-seek-reelect.md) _Context: Icelandic presidential election, 2016, president_
 2. [The President of Iceland Olafur Ragnar Grimsson announces a referendum during a live televised speech. ](/news/2010/01/5/the-president-of-iceland-alafur-ragnar-gramsson-announces-a-referendum-during-a-live-televised-speech.md) _Context: Iceland, president_
 3. [A quarter of voters in Iceland sign a petition asking President lafur Ragnar Grmsson to veto a bill on repaying US$5 billion to foreign savers who lost their money when Icelandic banks collapsed. ](/news/2010/01/2/a-quarter-of-voters-in-iceland-sign-a-petition-asking-president-olafur-ragnar-grimsson-to-veto-a-bill-on-repaying-us-5-billion-to-foreign-sa.md) _Context: Iceland, president_
-4. [Voters in Iceland go to the polls to elect 63 members of the Althing. ](/news/2017/10/28/voters-in-iceland-go-to-the-polls-to-elect-63-members-of-the-althing.md) _Context: Iceland_
-5. [Iceland will vote for a new Althingi (parliament) on November 4 after the collapse of the previous government. ](/news/2017/09/16/iceland-will-vote-for-a-new-ala3-4ingi-parliament-on-november-4-after-the-collapse-of-the-previous-government.md) _Context: Iceland_
+4. [A new Icelandic law goes into effect which requires government agencies and companies with more than 24 full-time employees to prove they are paying men and women equally, as required by existing legislation. ](/news/2018/01/3/a-new-icelandic-law-goes-into-effect-which-requires-government-agencies-and-companies-with-more-than-24-full-time-employees-to-prove-they-ar.md) _Context: Iceland_
+5. [Voters in Iceland go to the polls to elect 63 members of the Althing. ](/news/2017/10/28/voters-in-iceland-go-to-the-polls-to-elect-63-members-of-the-althing.md) _Context: Iceland_

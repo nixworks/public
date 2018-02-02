@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/22/imran-khan-pakistani-cricketer-and-politician-and-jemima-khan-daughter-of-the-late-anglo-french-billionaire-sir-james-goldsmith-announc.html)  [JSON](/news/2004/06/22/imran-khan-pakistani-cricketer-and-politician-and-jemima-khan-daughter-of-the-late-anglo-french-billionaire-sir-james-goldsmith-announc.json)  [XML](/news/2004/06/22/imran-khan-pakistani-cricketer-and-politician-and-jemima-khan-daughter-of-the-late-anglo-french-billionaire-sir-james-goldsmith-announc.xml)  
+
 ### [2004-06-22](/news/2004/06/22/index.md)
 
+##### Imran Khan
 #  Imran Khan, Pakistani cricketer and politician, and Jemima Khan, daughter of the late Anglo-French billionaire Sir James Goldsmith, announce their divorce. 
 
 Get the latest breaking news and headlines from the largest Arab News website. Get world news, sport news, business news, entertainment, lifestyle, video and photos.
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://www.arabnews.com/?page=4&section=0&article=47237&d=23&m=6&y=2004)
 

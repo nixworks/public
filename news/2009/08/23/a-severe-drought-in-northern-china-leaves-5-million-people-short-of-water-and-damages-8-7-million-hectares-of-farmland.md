@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/23/a-severe-drought-in-northern-china-leaves-5-million-people-short-of-water-and-damages-8-7-million-hectares-of-farmland.html)  [JSON](/news/2009/08/23/a-severe-drought-in-northern-china-leaves-5-million-people-short-of-water-and-damages-8-7-million-hectares-of-farmland.json)  [XML](/news/2009/08/23/a-severe-drought-in-northern-china-leaves-5-million-people-short-of-water-and-damages-8-7-million-hectares-of-farmland.xml)  
+
 ### [2009-08-23](/news/2009/08/23/index.md)
 
+##### China
 #  A severe drought in northern China leaves 5 million people short of water and damages 8.7 million hectares of farmland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/china/2009-08/23/content_8605057.htm)
 2. [Press Trust of India](http://www.ptinews.com/news/243927_Severe-drought-hits-5-million-people-in-China)

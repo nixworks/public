@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/25/hurricane-rina-strengthens-to-category-2-strength-as-it-advances-towards-cancun-and-other-resorts-on-the-mexican-riviera.html)  [JSON](/news/2011/10/25/hurricane-rina-strengthens-to-category-2-strength-as-it-advances-towards-cancun-and-other-resorts-on-the-mexican-riviera.json)  [XML](/news/2011/10/25/hurricane-rina-strengthens-to-category-2-strength-as-it-advances-towards-cancun-and-other-resorts-on-the-mexican-riviera.xml)  
+
 ### [2011-10-25](/news/2011/10/25/index.md)
 
+##### Hurricane Rina
 # Hurricane Rina strengthens to Category 2 strength as it advances towards Cancun and other resorts on the Mexican Riviera. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/8301-501369_162-20125380/hurricane-rina-gaining-strength-on-path-to-cancun/)
 

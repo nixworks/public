@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/18/the-death-toll-in-vietnam-from-typhoon-sarika-r
 
 ### [2016-10-18](/news/2016/10/18/index.md)
 
+##### 2016 Pacific typhoon season
 # The death toll in Vietnam, from Typhoon Sarika, rises to at least 31 people. 
 
 Vietnam is preparing itself for Typhoon Sarika, which has already brought torrential rains and deadly floods on Monday.

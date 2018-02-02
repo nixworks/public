@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/19/the-somali-prime-minister-mohamed-abdullahi-farmajo-resigns.html)  [JSON](/news/2011/06/19/the-somali-prime-minister-mohamed-abdullahi-farmajo-resigns.json)  [XML](/news/2011/06/19/the-somali-prime-minister-mohamed-abdullahi-farmajo-resigns.xml)  
+
 ### [2011-06-19](/news/2011/06/19/index.md)
 
+##### Somalia
 # The Somali Prime Minister, Mohamed Abdullahi Farmajo, resigns. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13830470)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53510000/jpg/_53510151_012252607-1.jpg)

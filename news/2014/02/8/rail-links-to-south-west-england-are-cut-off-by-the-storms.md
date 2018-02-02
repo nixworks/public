@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/8/rail-links-to-south-west-england-are-cut-off-by-the-storms.html)  [JSON](/news/2014/02/8/rail-links-to-south-west-england-are-cut-off-by-the-storms.json)  [XML](/news/2014/02/8/rail-links-to-south-west-england-are-cut-off-by-the-storms.xml)  
+
 ### [2014-02-8](/news/2014/02/8/index.md)
 
+##### South West England
 # Rail links to South West England are cut off by the storms. 
 
 Gusts as high as 80mph hit southern and western parts of the UK as all rail routes to south-west England are cut off.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-26095937)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72846000/jpg/_72846895_0f3izswh.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/23/a-chimney-collapse-in-korba-in-the-indian-state-of-chhattisgarh-leaves-at-least-15-workers-dead-and-at-least-50-feared-trapped.html)  [JSON](/news/2009/09/23/a-chimney-collapse-in-korba-in-the-indian-state-of-chhattisgarh-leaves-at-least-15-workers-dead-and-at-least-50-feared-trapped.json)  [XML](/news/2009/09/23/a-chimney-collapse-in-korba-in-the-indian-state-of-chhattisgarh-leaves-at-least-15-workers-dead-and-at-least-50-feared-trapped.xml)  
+
 ### [2009-09-23](/news/2009/09/23/index.md)
 
+##### chimney collapse
 #  A chimney collapse in Korba in the Indian state of Chhattisgarh leaves at least 15 workers dead and at least 50 feared trapped. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8271423.stm)
 

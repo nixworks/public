@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2016/03/22/toronto-city-councillor-and-former-mayor-rob-ford-dies-after-an-18-month-battle-with-liposarcoma-a-rare-and-aggressive-cancer-it-was-firs.html)  [JSON](/news/2016/03/22/toronto-city-councillor-and-former-mayor-rob-ford-dies-after-an-18-month-battle-with-liposarcoma-a-rare-and-aggressive-cancer-it-was-firs.json)  [XML](/news/2016/03/22/toronto-city-councillor-and-former-mayor-rob-ford-dies-after-an-18-month-battle-with-liposarcoma-a-rare-and-aggressive-cancer-it-was-firs.xml)  
+
 ### [2016-03-22](/news/2016/03/22/index.md)
 
+##### Toronto city councillor
 #  Toronto city councillor and former mayor Rob Ford dies after an 18-month battle with liposarcoma, a rare and aggressive cancer. It was first diagnosed in the midst of his 2014 bid to be re-elected mayor. He was 46. 
 
 He may never be commemorated with a statue or have a park named after him, but Rob Ford, who died today, left as much of a mark on Toronto as Allan...
 
 
-### Source:
+### Sources:
 
 1. [BlogTO](http://www.blogto.com/city/2016/03/former_toronto_mayor_rob_ford_has_died/)
-2. [Toronto Star](http://www.thestar.com/news/gta/2016/03/22/rob-ford-former-toronto-mayor-dead-after-battle-with-cancer.html)
+2. [Toronto Star](https://www.thestar.com/news/gta/2016/03/22/rob-ford-former-toronto-mayor-dead-after-battle-with-cancer.html)
 2. [Cover Image](http://media.blogto.com/articles/f7a0-2016316-rob-ford.jpg?width=1300&amp;quality=70)
 
 ### Related:

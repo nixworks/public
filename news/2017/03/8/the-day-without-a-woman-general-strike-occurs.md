@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/8/the-day-without-a-woman-general-strike-occurs.ht
 
 ### [2017-03-8](/news/2017/03/8/index.md)
 
+##### Day Without a Woman
 # The Day Without a Woman general strike occurs. 
 
 Can silence and absence be loud in a digital space?

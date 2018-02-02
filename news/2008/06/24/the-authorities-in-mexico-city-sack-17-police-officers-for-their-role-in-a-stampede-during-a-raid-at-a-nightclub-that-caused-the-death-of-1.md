@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/24/the-authorities-in-mexico-city-sack-17-police-officers-for-their-role-in-a-stampede-during-a-raid-at-a-nightclub-that-caused-the-death-of-1.html)  [JSON](/news/2008/06/24/the-authorities-in-mexico-city-sack-17-police-officers-for-their-role-in-a-stampede-during-a-raid-at-a-nightclub-that-caused-the-death-of-1.json)  [XML](/news/2008/06/24/the-authorities-in-mexico-city-sack-17-police-officers-for-their-role-in-a-stampede-during-a-raid-at-a-nightclub-that-caused-the-death-of-1.xml)  
+
 ### [2008-06-24](/news/2008/06/24/index.md)
 
+##### Mexico City
 #  The authorities in Mexico City sack 17 police officers for their role in a stampede during a raid at a nightclub that caused the death of 12 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/7472542.stm)
 

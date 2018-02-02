@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/18/storms-in-guangdong-southern-china-kill-at-least-18-people-and-leave-150-injured.html)  [JSON](/news/2011/04/18/storms-in-guangdong-southern-china-kill-at-least-18-people-and-leave-150-injured.json)  [XML](/news/2011/04/18/storms-in-guangdong-southern-china-kill-at-least-18-people-and-leave-150-injured.xml)  
+
 ### [2011-04-18](/news/2011/04/18/index.md)
 
+##### Guangdong
 # Storms in Guangdong, southern China, kill at least 18 people and leave 150 injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13111972)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-04/17/c_13833217.htm)

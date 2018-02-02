@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/11/13/the-police-in-the-us-city-of-portland-oregon-close-down-the-occupy-portland-site-resulting-in-50-arrests.html)  [JSON](/news/2011/11/13/the-police-in-the-us-city-of-portland-oregon-close-down-the-occupy-portland-site-resulting-in-50-arrests.json)  [XML](/news/2011/11/13/the-police-in-the-us-city-of-portland-oregon-close-down-the-occupy-portland-site-resulting-in-50-arrests.xml)  
+
 ### [2011-11-13](/news/2011/11/13/index.md)
 
+##### police
 # The police in the US city of Portland, Oregon close down the Occupy Portland site resulting in 50 arrests. 
 
 Portland Police arrested more than 50 people on Sunday as the authorities cleared out and blocked off encampments of the Occupy movement that has been protesting nationwide over economic issues.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/11/14/us-usa-protests-idUSTRE7AB05L20111114?feedType=RSS&feedName=topNews)
-1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111114&t=2&i=531969685&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7AD07D500)
+1. [Reuters](https://www.reuters.com/article/2011/11/14/us-usa-protests-idUSTRE7AB05L20111114?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111114&t=2&i=531969685&w=1200&r=BTRE7AD07D500)
 
 ### Related:
 

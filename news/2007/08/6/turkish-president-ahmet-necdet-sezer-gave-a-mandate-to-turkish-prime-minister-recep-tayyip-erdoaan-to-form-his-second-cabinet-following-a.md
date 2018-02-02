@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/6/turkish-president-ahmet-necdet-sezer-gave-a-mandate-to-turkish-prime-minister-recep-tayyip-erdoaan-to-form-his-second-cabinet-following-a.html)  [JSON](/news/2007/08/6/turkish-president-ahmet-necdet-sezer-gave-a-mandate-to-turkish-prime-minister-recep-tayyip-erdoaan-to-form-his-second-cabinet-following-a.json)  [XML](/news/2007/08/6/turkish-president-ahmet-necdet-sezer-gave-a-mandate-to-turkish-prime-minister-recep-tayyip-erdoaan-to-form-his-second-cabinet-following-a.xml)  
+
 ### [2007-08-6](/news/2007/08/6/index.md)
 
+##### Turkish President
 #  Turkish President Ahmet Necdet Sezer gave a mandate to Turkish Prime Minister Recep Tayyip Erdogan to form his second cabinet following a landslide victory for the Justice and Development Party (AKP) in the general elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Turkish Daily News](http://www.turkishdailynews.com.tr/article.php?enewsid=80247)
 

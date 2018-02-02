@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/23/at-least-17-civilians-including-a-child-are-killed-in-a-claymore-mine-explosion-in-kilinochchi-north-of-sri-lanka.html)  [JSON](/news/2008/05/23/at-least-17-civilians-including-a-child-are-killed-in-a-claymore-mine-explosion-in-kilinochchi-north-of-sri-lanka.json)  [XML](/news/2008/05/23/at-least-17-civilians-including-a-child-are-killed-in-a-claymore-mine-explosion-in-kilinochchi-north-of-sri-lanka.xml)  
+
 ### [2008-05-23](/news/2008/05/23/index.md)
 
+##### claymore mine
 #  At least 17 civilians including a child are killed in a claymore mine explosion in Kilinochchi, North of Sri Lanka. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Mirror](http://www.dailymirror.lk/DM_BLOG/Sections/frmNewsDetailView.aspx?ARTID=15691)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/29/two-italians-set-themselves-on-fire-in-bologna-and-verona.html)  [JSON](/news/2012/03/29/two-italians-set-themselves-on-fire-in-bologna-and-verona.json)  [XML](/news/2012/03/29/two-italians-set-themselves-on-fire-in-bologna-and-verona.xml)  
+
 ### [2012-03-29](/news/2012/03/29/index.md)
 
+##### Bologna
 # Two Italians set themselves on fire in Bologna and Verona. 
 
 Italians are left shocked by two cases in as many days in which men set themselves alight in protest at their financial circumstances.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17556273)
 2. [IOL](http://www.iol.co.za/news/world/two-men-set-themselves-on-fire-1.1266759)

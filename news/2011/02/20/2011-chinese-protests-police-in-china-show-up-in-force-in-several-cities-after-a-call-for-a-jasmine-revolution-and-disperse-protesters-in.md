@@ -1,17 +1,27 @@
+
+Formats: [HTML](/news/2011/02/20/2011-chinese-protests-police-in-china-show-up-in-force-in-several-cities-after-a-call-for-a-jasmine-revolution-and-disperse-protesters-in.html)  [JSON](/news/2011/02/20/2011-chinese-protests-police-in-china-show-up-in-force-in-several-cities-after-a-call-for-a-jasmine-revolution-and-disperse-protesters-in.json)  [XML](/news/2011/02/20/2011-chinese-protests-police-in-china-show-up-in-force-in-several-cities-after-a-call-for-a-jasmine-revolution-and-disperse-protesters-in.xml)  
+
 ### [2011-02-20](/news/2011/02/20/index.md)
 
+##### China
 # 2011 Chinese protests:Police in China show up in force in several cities after a call for a "Jasmine Revolution", and disperse protesters in Beijing and Shanghai. 
 
 Beijing, Feb 20 (IANS) Hundreds of people gathered Sunday in Chinas major cities of Beijing and Shanghai but were dispersed by police in both places. In...
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/20112197512326286.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/201122053957526278.html)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12517909)
 4. [Sify India](http://www.sify.com/news/protesters-gather-in-beijing-shanghai-news-international-lcurOdjfcii.html)
 4. [Cover Image](http://static.sify.com/cms/commons/widget/images/featured-thumbs-default-img.gif)
+
+### Changes:
+
+1. [Protests in other parts of the world:2011 Chinese protests:Police in China show up in force in several cities after a call for a "Jasmine Revolution", and disperse protesters in Beijing and Shanghai. ](/news/2011/02/20/protests-in-other-parts-of-the-world-p2011-chinese-protests-ppolice-in-china-show-up-in-force-in-several-cities-after-a-call-for-a-jasmine.md) _2017-08-25 03:32:17 (First version)_
+2. [Protests in other parts of the world:: 2011 Chinese protests:: Police in China show up in force in several cities after a call for a "Jasmine Revolution", and disperse protesters in Beijing and Shanghai. ](/news/2011/02/20/protests-in-other-parts-of-the-world-2011-chinese-protests-police-in-china-show-up-in-force-in-several-cities-after-a-call-for-a-jasmin.md) _2017-08-27 03:32:25 (Update)_
+2. [2011 Chinese protests:Police in China show up in force in several cities after a call for a "Jasmine Revolution", and disperse protesters in Beijing and Shanghai. ](/news/2011/02/20/2011-chinese-protests-police-in-china-show-up-in-force-in-several-cities-after-a-call-for-a-jasmine-revolution-and-disperse-protesters-in.md) _(Current version)_
 
 ### Related:
 
@@ -20,9 +30,3 @@ Beijing, Feb 20 (IANS) Hundreds of people gathered Sunday in Chinas major cities
 3. [Guo Jinlong resigns as the Mayor of the Chinese capital Beijing with Wang Anshun appointed as the acting mayor. ](/news/2012/07/25/guo-jinlong-resigns-as-the-mayor-of-the-chinese-capital-beijing-with-wang-anshun-appointed-as-the-acting-mayor.md) _Context: Beijing, China_
 4. [A court in Beijing intends to hear artist and dissident Ai Weiwei, held and gagged on charges of tax evasion by the People's Republic of China. ](/news/2012/05/8/a-court-in-beijing-intends-to-hear-artist-and-dissident-ai-weiwei-held-and-gagged-on-charges-of-tax-evasion-by-the-people-s-republic-of-chi.md) _Context: Beijing, China_
 5. [United States Secretary of State Hillary Clinton arrives in Beijing for high-level talks with the government of China. She also contacts dissident Chen Guangcheng. ](/news/2012/05/2/united-states-secretary-of-state-hillary-clinton-arrives-in-beijing-for-high-level-talks-with-the-government-of-china-she-also-contacts-dis.md) _Context: Beijing, China_
-
-### Changes:
-
-1. [Protests in other parts of the world:2011 Chinese protests:Police in China show up in force in several cities after a call for a "Jasmine Revolution", and disperse protesters in Beijing and Shanghai. ](/news/2011/02/20/protests-in-other-parts-of-the-world-p2011-chinese-protests-ppolice-in-china-show-up-in-force-in-several-cities-after-a-call-for-a-jasmine.md) _2017-08-25 03:32:17 (First version)_
-2. [Protests in other parts of the world:: 2011 Chinese protests:: Police in China show up in force in several cities after a call for a "Jasmine Revolution", and disperse protesters in Beijing and Shanghai. ](/news/2011/02/20/protests-in-other-parts-of-the-world-2011-chinese-protests-police-in-china-show-up-in-force-in-several-cities-after-a-call-for-a-jasmin.md) _2017-08-27 03:32:25 (Update)_
-2. [2011 Chinese protests:Police in China show up in force in several cities after a call for a "Jasmine Revolution", and disperse protesters in Beijing and Shanghai. ](/news/2011/02/20/2011-chinese-protests-police-in-china-show-up-in-force-in-several-cities-after-a-call-for-a-jasmine-revolution-and-disperse-protesters-in.md) _(Current version)_

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/16/a-top-egyptian-court-rules-against-giving-away-
 
 ### [2017-01-16](/news/2017/01/16/index.md)
 
+##### Egypt-Saudi Arabia relations
 # A top Egyptian court rules against giving away the two Red Sea islands of Tiran and Sanafir to Saudi Arabia. 
 
  An Egyptian court rejected on Monday a government plan to transfer two uninhabited Red Sea islands to Saudi Arabia, in a final ruling that prompted cheers in t

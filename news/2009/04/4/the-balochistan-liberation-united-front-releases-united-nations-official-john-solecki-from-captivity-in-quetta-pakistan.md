@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/4/the-balochistan-liberation-united-front-releases-united-nations-official-john-solecki-from-captivity-in-quetta-pakistan.html)  [JSON](/news/2009/04/4/the-balochistan-liberation-united-front-releases-united-nations-official-john-solecki-from-captivity-in-quetta-pakistan.json)  [XML](/news/2009/04/4/the-balochistan-liberation-united-front-releases-united-nations-official-john-solecki-from-captivity-in-quetta-pakistan.xml)  
+
 ### [2009-04-4](/news/2009/04/4/index.md)
 
+##### Balochistan Liberation United Front
 #  The Balochistan Liberation United Front releases United Nations official John Solecki from captivity in Quetta, Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7983809.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/8/the-colorado-republican-party-continues-choosing
 
 ### [2016-04-8](/news/2016/04/8/index.md)
 
+##### 2016 U.S. presidential election
 # The Colorado Republican Party continues choosing its delegates to the 2016 Republican National Convention in Cleveland. Ted Cruz has swept all of the delegates available so far. The process which began last Saturday (April 2, 2016) will conclude tomorrow. 
 
 The way Colorado Republicans pick their national delegates appears to be too much for the Trump campaign to handle.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/16/the-winnipeg-police-have-made-numerous-arrests-in-the-relation-to-the-shedden-massacre-including-five-members-from-the-bandidos-motorcycle.html)  [JSON](/news/2006/06/16/the-winnipeg-police-have-made-numerous-arrests-in-the-relation-to-the-shedden-massacre-including-five-members-from-the-bandidos-motorcycle.json)  [XML](/news/2006/06/16/the-winnipeg-police-have-made-numerous-arrests-in-the-relation-to-the-shedden-massacre-including-five-members-from-the-bandidos-motorcycle.xml)  
+
 ### [2006-06-16](/news/2006/06/16/index.md)
 
+##### Winnipeg
 #  The Winnipeg police have made numerous arrests in the relation to the Shedden massacre, including five members from the Bandidos motorcycle club. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2006/06/16/bandidos-arrests.html)
 

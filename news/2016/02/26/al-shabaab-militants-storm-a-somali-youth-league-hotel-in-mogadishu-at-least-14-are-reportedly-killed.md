@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/26/al-shabaab-militants-storm-a-somali-youth-leagu
 
 ### [2016-02-26](/news/2016/02/26/index.md)
 
+##### War in Somalia (2009-present)
 # Al-Shabaab militants storm a Somali Youth League hotel in Mogadishu. At least 14 are reportedly killed.
 
 Fighters from the Islamist group al-Shabaab have attacked a hotel in Mogadishu, Somalia. Five militants and at least nine civilians were reported dead as government security forces ended the attack on the Somali Youth League hotel. The SYL hotel is locarted across from the presidential palace and is frequented by government officials and business executives. A suicide bomber rammed a car bomb into the entrance of the hotel, allowing gunmen to fight their way past hotel guards at the first security border, Captain Mohamed Hussein said.

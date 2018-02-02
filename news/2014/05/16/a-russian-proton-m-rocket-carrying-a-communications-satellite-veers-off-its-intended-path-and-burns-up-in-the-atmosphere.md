@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/16/a-russian-proton-m-rocket-carrying-a-communications-satellite-veers-off-its-intended-path-and-burns-up-in-the-atmosphere.html)  [JSON](/news/2014/05/16/a-russian-proton-m-rocket-carrying-a-communications-satellite-veers-off-its-intended-path-and-burns-up-in-the-atmosphere.json)  [XML](/news/2014/05/16/a-russian-proton-m-rocket-carrying-a-communications-satellite-veers-off-its-intended-path-and-burns-up-in-the-atmosphere.xml)  
+
 ### [2014-05-16](/news/2014/05/16/index.md)
 
+##### Proton-M
 # A Russian Proton-M rocket carrying a communications satellite veers off its intended path and burns up in the atmosphere. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/05/16/world/europe/russia-rocket-accident/index.html?hpt=wo_c2)
 

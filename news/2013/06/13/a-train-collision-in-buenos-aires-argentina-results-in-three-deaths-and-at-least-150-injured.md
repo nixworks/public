@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/13/a-train-collision-in-buenos-aires-argentina-results-in-three-deaths-and-at-least-150-injured.html)  [JSON](/news/2013/06/13/a-train-collision-in-buenos-aires-argentina-results-in-three-deaths-and-at-least-150-injured.json)  [XML](/news/2013/06/13/a-train-collision-in-buenos-aires-argentina-results-in-three-deaths-and-at-least-150-injured.xml)  
+
 ### [2013-06-13](/news/2013/06/13/index.md)
 
+##### Buenos Aires
 # A train collision in Buenos Aires, Argentina, results in three deaths and at least 150 injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/06/13/world/americas/argentina-train-accident/index.html)
 

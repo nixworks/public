@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/4/at-least-26-are-killed-and-many-more-left-missing-after-flash-floods-in-eastern-indonesia-s-papua-province.html)  [JSON](/news/2010/10/4/at-least-26-are-killed-and-many-more-left-missing-after-flash-floods-in-eastern-indonesia-s-papua-province.json)  [XML](/news/2010/10/4/at-least-26-are-killed-and-many-more-left-missing-after-flash-floods-in-eastern-indonesia-s-papua-province.xml)  
+
 ### [2010-10-4](/news/2010/10/4/index.md)
 
+##### Indonesia
 # At least 26 are killed and many more left missing after flash floods in eastern Indonesia's Papua province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deccan Chronicle'' via AP](http://www.deccanchronicle.com/international/13-killed-dozens-missing-indonesian-floods-officials-747)
 2. [Jakarta News](http://www.jakartanews.net/story/693425)

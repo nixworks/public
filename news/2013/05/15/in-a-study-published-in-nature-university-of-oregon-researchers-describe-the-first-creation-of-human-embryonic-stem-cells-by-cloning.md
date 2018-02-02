@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/15/in-a-study-published-in-nature-university-of-oregon-researchers-describe-the-first-creation-of-human-embryonic-stem-cells-by-cloning.html)  [JSON](/news/2013/05/15/in-a-study-published-in-nature-university-of-oregon-researchers-describe-the-first-creation-of-human-embryonic-stem-cells-by-cloning.json)  [XML](/news/2013/05/15/in-a-study-published-in-nature-university-of-oregon-researchers-describe-the-first-creation-of-human-embryonic-stem-cells-by-cloning.xml)  
+
 ### [2013-05-15](/news/2013/05/15/index.md)
 
+##### Nature
 # In a study published in "Nature", University of Oregon researchers describe the first creation of human embryonic stem cells by cloning. 
 
 Breakthrough sets up showdown with induced adult lines.
 
 
-### Source:
+### Sources:
 
 1. [Nature](http://www.nature.com/news/human-stem-cells-created-by-cloning-1.12983)
 1. [Cover Image](http://www.nature.com/polopoly_fs/7.10532.1368541824!/image/web-Egg%20cell%20nucleus%20extracted%20and%20in%20pipette-credit-OHSU%20Photos%20copy.jpg_gen/derivatives/nature_homepage/web-Egg%20cell%20nucleus%20extracted%20and%20in%20pipette-credit-OHSU%20Photos%20copy.jpg)

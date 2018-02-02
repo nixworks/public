@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/19/drug-trafficker-carl-williams-of-melbourne-gangland-killings-fame-is-murdered-in-prison.html)  [JSON](/news/2010/04/19/drug-trafficker-carl-williams-of-melbourne-gangland-killings-fame-is-murdered-in-prison.json)  [XML](/news/2010/04/19/drug-trafficker-carl-williams-of-melbourne-gangland-killings-fame-is-murdered-in-prison.xml)  
+
 ### [2010-04-19](/news/2010/04/19/index.md)
 
+##### Carl Williams
 # Drug trafficker Carl Williams of Melbourne gangland killings fame is murdered in prison. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yahoo](http://au.news.yahoo.com/a/-/latest/7082675/no-charges-laid-over-williams-death-yet/)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/17/four-cabinet-of-the-gambia-members-resign-inclu
 
 ### [2017-01-17](/news/2017/01/17/index.md)
 
+##### 2016-2017 Gambian constitutional crisis
 # Four Cabinet of the Gambia members resign, including Minister of Finance and Economic Affairs, Abdou Kolley, Minister of Foreign Affairs, Neneh Macdouall-Gaye, Minister of Trade, Abdou Jobe, and Minister of Environment Pa Ousman Jarju. 
 
 President Yahya Jammeh is meant to hand over power to Adama Barrow on Thursday.

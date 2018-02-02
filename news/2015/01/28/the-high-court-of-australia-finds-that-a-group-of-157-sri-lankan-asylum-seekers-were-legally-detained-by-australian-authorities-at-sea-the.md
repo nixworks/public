@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/28/the-high-court-of-australia-finds-that-a-group-of-157-sri-lankan-asylum-seekers-were-legally-detained-by-australian-authorities-at-sea-the.html)  [JSON](/news/2015/01/28/the-high-court-of-australia-finds-that-a-group-of-157-sri-lankan-asylum-seekers-were-legally-detained-by-australian-authorities-at-sea-the.json)  [XML](/news/2015/01/28/the-high-court-of-australia-finds-that-a-group-of-157-sri-lankan-asylum-seekers-were-legally-detained-by-australian-authorities-at-sea-the.xml)  
+
 ### [2015-01-28](/news/2015/01/28/index.md)
 
+##### High Court of Australia
 # The High Court of Australia finds that a group of 157 Sri Lankan asylum seekers were legally detained by Australian authorities at sea. The government acted lawfully and the group is not entitled to damages. 
 
 Australia&#039;s High Court rules that a group of 157 Sri Lankan asylum seekers were legally detained at sea.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-01-28/sri-lankan-asylum-seekers-legally-detained-at-sea-high-court/6051426)
 1. [Cover Image](http://www.abc.net.au/news/image/5627768-1x1-700x700.jpg)

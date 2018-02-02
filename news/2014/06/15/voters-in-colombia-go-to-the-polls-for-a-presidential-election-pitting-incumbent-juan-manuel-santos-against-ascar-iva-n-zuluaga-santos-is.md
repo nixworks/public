@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/15/voters-in-colombia-go-to-the-polls-for-a-presidential-election-pitting-incumbent-juan-manuel-santos-against-ascar-iva-n-zuluaga-santos-is.html)  [JSON](/news/2014/06/15/voters-in-colombia-go-to-the-polls-for-a-presidential-election-pitting-incumbent-juan-manuel-santos-against-ascar-iva-n-zuluaga-santos-is.json)  [XML](/news/2014/06/15/voters-in-colombia-go-to-the-polls-for-a-presidential-election-pitting-incumbent-juan-manuel-santos-against-ascar-iva-n-zuluaga-santos-is.xml)  
+
 ### [2014-06-15](/news/2014/06/15/index.md)
 
+##### Colombia
 # Voters in Colombia go to the polls for a presidential election, pitting incumbent Juan Manuel Santos against Oscar Ivan Zuluaga. Santos is reelected with 51% of the vote. 
 
 Santos predicts &lsquo;beginning of a new Colombia&rsquo; after victory
 
 
-### Source:
+### Sources:
 
 1. [Miami Herald](http://www.miamiherald.com/2014/06/15/4179666/colombians-head-to-the-polls-as.html)
 2. [Voice of America](http://www.voanews.com/content/colombias-presidential-vote-referendum-on-peace/1937250.html)

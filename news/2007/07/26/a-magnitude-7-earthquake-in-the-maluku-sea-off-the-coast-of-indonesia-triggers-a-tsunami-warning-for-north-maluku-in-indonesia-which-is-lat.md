@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/26/a-magnitude-7-earthquake-in-the-maluku-sea-off-the-coast-of-indonesia-triggers-a-tsunami-warning-for-north-maluku-in-indonesia-which-is-lat.html)  [JSON](/news/2007/07/26/a-magnitude-7-earthquake-in-the-maluku-sea-off-the-coast-of-indonesia-triggers-a-tsunami-warning-for-north-maluku-in-indonesia-which-is-lat.json)  [XML](/news/2007/07/26/a-magnitude-7-earthquake-in-the-maluku-sea-off-the-coast-of-indonesia-triggers-a-tsunami-warning-for-north-maluku-in-indonesia-which-is-lat.xml)  
+
 ### [2007-07-26](/news/2007/07/26/index.md)
 
+##### earthquake
 #  A magnitude 7 earthquake in the Maluku Sea off the coast of Indonesia triggers a tsunami warning for North Maluku in Indonesia which is later cancelled. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via the Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/5000465.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6916834.stm)

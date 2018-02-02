@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/15/the-united-states-house-of-representatives-passes-a-resolution-condemning-the-international-court-of-justice-ruling-on-the-israeli-west-ban.html)  [JSON](/news/2004/07/15/the-united-states-house-of-representatives-passes-a-resolution-condemning-the-international-court-of-justice-ruling-on-the-israeli-west-ban.json)  [XML](/news/2004/07/15/the-united-states-house-of-representatives-passes-a-resolution-condemning-the-international-court-of-justice-ruling-on-the-israeli-west-ban.xml)  
+
 ### [2004-07-15](/news/2004/07/15/index.md)
 
+##### House of Representatives
 #  The United States House of Representatives passes a resolution condemning the International Court of Justice ruling on the Israeli West Bank barrier. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://fr.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1089861306316&p=1006688055060)
 

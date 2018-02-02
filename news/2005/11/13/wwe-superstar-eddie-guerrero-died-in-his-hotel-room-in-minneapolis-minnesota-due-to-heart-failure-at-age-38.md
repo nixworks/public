@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/11/13/wwe-superstar-eddie-guerrero-died-in-his-hotel-room-in-minneapolis-minnesota-due-to-heart-failure-at-age-38.html)  [JSON](/news/2005/11/13/wwe-superstar-eddie-guerrero-died-in-his-hotel-room-in-minneapolis-minnesota-due-to-heart-failure-at-age-38.json)  [XML](/news/2005/11/13/wwe-superstar-eddie-guerrero-died-in-his-hotel-room-in-minneapolis-minnesota-due-to-heart-failure-at-age-38.xml)  
+
 ### [2005-11-13](/news/2005/11/13/index.md)
 
+##### Eddie Guerrero
 #  WWE superstar Eddie Guerrero died in his hotel room in Minneapolis, Minnesota, due to heart failure at age 38.
 
 

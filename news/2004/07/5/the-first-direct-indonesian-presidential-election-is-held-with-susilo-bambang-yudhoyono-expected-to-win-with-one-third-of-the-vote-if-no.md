@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/5/the-first-direct-indonesian-presidential-election-is-held-with-susilo-bambang-yudhoyono-expected-to-win-with-one-third-of-the-vote-if-no.html)  [JSON](/news/2004/07/5/the-first-direct-indonesian-presidential-election-is-held-with-susilo-bambang-yudhoyono-expected-to-win-with-one-third-of-the-vote-if-no.json)  [XML](/news/2004/07/5/the-first-direct-indonesian-presidential-election-is-held-with-susilo-bambang-yudhoyono-expected-to-win-with-one-third-of-the-vote-if-no.xml)  
+
 ### [2004-07-5](/news/2004/07/5/index.md)
 
+##### presidential election
 #  The first direct Indonesian presidential election is held, with Susilo Bambang Yudhoyono expected to win with one-third of the vote. If no candidate wins at least 50 percent of the vote, the two top finishers will compete in a September runoff. The race for second place, between President Megawati Sukarnoputri and former army chief General Wiranto, is still too close to call. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [PolitInfo](http://www.politinfo.com/articles/article_2004_07_5_4546.html)
 2. [VOA](http://www.voanews.com/article.cfm?objectID=33AC6058-2EBB-4487-93CB7623F9805983&title=Indonesians%20to%20Vote%20in%20First%20Direct%20Presidential%20Election&catOID=45C9C78B-88AD-11D4-A57200A0CC5EE46C&categoryname=Asia%20Pacific)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/9/pakistan-lawyers-begin-a-long-march-of-protests-against-the-government-of-the-president-of-pakistan-pervez-musharraf-calling-for-the-rein.html)  [JSON](/news/2008/06/9/pakistan-lawyers-begin-a-long-march-of-protests-against-the-government-of-the-president-of-pakistan-pervez-musharraf-calling-for-the-rein.json)  [XML](/news/2008/06/9/pakistan-lawyers-begin-a-long-march-of-protests-against-the-government-of-the-president-of-pakistan-pervez-musharraf-calling-for-the-rein.xml)  
+
 ### [2008-06-9](/news/2008/06/9/index.md)
 
+##### Pakistan
 #  Pakistan lawyers begin a "Long March" of protests against the Government of the President of Pakistan Pervez Musharraf calling for the reinstatement of judges dismissed last year including the former Chief Justice of Pakistan Iftikhar Muhammad Chaudhry. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2008/jun/10/pakistan)
 

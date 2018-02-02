@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2014/02/11/kevin-faulconer-is-elected-as-mayor-of-san-diego-california.html)  [JSON](/news/2014/02/11/kevin-faulconer-is-elected-as-mayor-of-san-diego-california.json)  [XML](/news/2014/02/11/kevin-faulconer-is-elected-as-mayor-of-san-diego-california.xml)  
+
 ### [2014-02-11](/news/2014/02/11/index.md)
 
+##### Kevin Faulconer
 # Kevin Faulconer is elected as Mayor of San Diego, California. 
 
+Kevin Faulconer’s victory will make San Diego the largest city run by a Republican and raises the possibility that the new mayor could help rebuild the party in California.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2014/02/13/us/republican-elected-to-replace-tainted-ex-mayor-of-san-diego.html?hp&_r=0)
+1. [New York Times](https://www.nytimes.com/2014/02/13/us/republican-elected-to-replace-tainted-ex-mayor-of-san-diego.html?hp&_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2014/02/13/us/SAN-DIEGO-1/SAN-DIEGO-1-videoSixteenByNine1050.jpg)
 
 ### Related:
 

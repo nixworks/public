@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/13/sri-lankan-chief-justice-shirani-bandaranayake-is-removed-from-office-by-president-mahinda-rajapaksa-after-being-impeached.html)  [JSON](/news/2013/01/13/sri-lankan-chief-justice-shirani-bandaranayake-is-removed-from-office-by-president-mahinda-rajapaksa-after-being-impeached.json)  [XML](/news/2013/01/13/sri-lankan-chief-justice-shirani-bandaranayake-is-removed-from-office-by-president-mahinda-rajapaksa-after-being-impeached.xml)  
+
 ### [2013-01-13](/news/2013/01/13/index.md)
 
+##### Sri Lanka
 # Sri Lankan Chief Justice Shirani Bandaranayake is removed from office by President Mahinda Rajapaksa after being impeached. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-21002642)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65232000/jpg/_65232940_65232939.jpg)

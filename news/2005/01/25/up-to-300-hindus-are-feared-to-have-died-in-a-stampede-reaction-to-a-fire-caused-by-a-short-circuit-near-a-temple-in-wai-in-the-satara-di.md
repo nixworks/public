@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/25/up-to-300-hindus-are-feared-to-have-died-in-a-stampede-reaction-to-a-fire-caused-by-a-short-circuit-near-a-temple-in-wai-in-the-satara-di.html)  [JSON](/news/2005/01/25/up-to-300-hindus-are-feared-to-have-died-in-a-stampede-reaction-to-a-fire-caused-by-a-short-circuit-near-a-temple-in-wai-in-the-satara-di.json)  [XML](/news/2005/01/25/up-to-300-hindus-are-feared-to-have-died-in-a-stampede-reaction-to-a-fire-caused-by-a-short-circuit-near-a-temple-in-wai-in-the-satara-di.xml)  
+
 ### [2005-01-25](/news/2005/01/25/index.md)
 
+##### Hindu
 #  Up to 300 Hindus are feared to have died in a stampede, reaction to a fire caused by a short circuit, near a temple in Wai in the Satara district of western Maharashtra, India. Scores of others are crushed or burned. An estimated 300,000 people had gathered at the temple. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4204877.stm)
 2. [New Kerala](http://www.newkerala.com/news-daily/news/features.php?action=fullnews&id=64603)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/8/australian-motor-racing-legend-peter-brock-has-been-killed-in-a-crash-while-taking-part-in-the-targa-west-rally-in-western-australia.html)  [JSON](/news/2006/09/8/australian-motor-racing-legend-peter-brock-has-been-killed-in-a-crash-while-taking-part-in-the-targa-west-rally-in-western-australia.json)  [XML](/news/2006/09/8/australian-motor-racing-legend-peter-brock-has-been-killed-in-a-crash-while-taking-part-in-the-targa-west-rally-in-western-australia.xml)  
+
 ### [2006-09-8](/news/2006/09/8/index.md)
 
+##### Australia
 #  Australian motor racing legend Peter Brock has been killed in a crash while taking part in the Targa West rally in Western Australia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News.com.au](http://www.news.com.au/story/0,23599,20375524-2,00.html)
 

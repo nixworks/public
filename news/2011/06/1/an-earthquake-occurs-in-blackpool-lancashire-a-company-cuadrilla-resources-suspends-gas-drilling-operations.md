@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/1/an-earthquake-occurs-in-blackpool-lancashire-a-company-cuadrilla-resources-suspends-gas-drilling-operations.html)  [JSON](/news/2011/06/1/an-earthquake-occurs-in-blackpool-lancashire-a-company-cuadrilla-resources-suspends-gas-drilling-operations.json)  [XML](/news/2011/06/1/an-earthquake-occurs-in-blackpool-lancashire-a-company-cuadrilla-resources-suspends-gas-drilling-operations.xml)  
+
 ### [2011-06-1](/news/2011/06/1/index.md)
 
+##### An earthquake
 # An earthquake occurs in Blackpool, Lancashire: a company, Cuadrilla Resources, suspends gas drilling operations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/uk/2011/jun/01/blackpool-earthquake-tremors-gas-drilling)
 

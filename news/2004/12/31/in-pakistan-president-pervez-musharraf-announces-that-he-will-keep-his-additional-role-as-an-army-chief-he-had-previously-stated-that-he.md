@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2004/12/31/in-pakistan-president-pervez-musharraf-announces-that-he-will-keep-his-additional-role-as-an-army-chief-he-had-previously-stated-that-he.html)  [JSON](/news/2004/12/31/in-pakistan-president-pervez-musharraf-announces-that-he-will-keep-his-additional-role-as-an-army-chief-he-had-previously-stated-that-he.json)  [XML](/news/2004/12/31/in-pakistan-president-pervez-musharraf-announces-that-he-will-keep-his-additional-role-as-an-army-chief-he-had-previously-stated-that-he.xml)  
+
 ### [2004-12-31](/news/2004/12/31/index.md)
 
+##### Pakistan
 #  In Pakistan, president Pervez Musharraf announces that he will keep his additional role as an army chief. He had previously stated that he would give it up. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [Pakistan Dawn](http://www.dawn.com/2004/12/31/top1.htm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7211848)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7211848)
 3. [Times of India](http://articles.timesofindia.indiatimes.com/2004-12-30/pakistan/27148478_1_musharraf-sticks-pervez-musharraf-kashmir-issue)
-3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

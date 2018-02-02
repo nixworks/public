@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/13/a-british-daily-mirror-opinion-poll-suggests-nearly-half-the-people-of-the-united-kingdom-see-the-united-states-as-the-biggest-threat-to.html)  [JSON](/news/2003/11/13/a-british-daily-mirror-opinion-poll-suggests-nearly-half-the-people-of-the-united-kingdom-see-the-united-states-as-the-biggest-threat-to.json)  [XML](/news/2003/11/13/a-british-daily-mirror-opinion-poll-suggests-nearly-half-the-people-of-the-united-kingdom-see-the-united-states-as-the-biggest-threat-to.xml)  
+
 ### [2003-11-13](/news/2003/11/13/index.md)
 
+##### Daily Mirror
 #  A British "Daily Mirror" opinion poll suggests nearly half the people of the United Kingdom see the United States as the biggest threat to world peace and are opposed to President Bush's state visit to the UK.
 
 

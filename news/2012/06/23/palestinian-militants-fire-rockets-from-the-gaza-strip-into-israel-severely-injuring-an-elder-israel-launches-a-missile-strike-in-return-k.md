@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/23/palestinian-militants-fire-rockets-from-the-gaza-strip-into-israel-severely-injuring-an-elder-israel-launches-a-missile-strike-in-return-k.html)  [JSON](/news/2012/06/23/palestinian-militants-fire-rockets-from-the-gaza-strip-into-israel-severely-injuring-an-elder-israel-launches-a-missile-strike-in-return-k.json)  [XML](/news/2012/06/23/palestinian-militants-fire-rockets-from-the-gaza-strip-into-israel-severely-injuring-an-elder-israel-launches-a-missile-strike-in-return-k.xml)  
+
 ### [2012-06-23](/news/2012/06/23/index.md)
 
+##### Palestinian
 # Palestinian militants fire rockets from the Gaza Strip into Israel severely injuring an elder. Israel launches a missile strike in return, killing two Palestinians. 
 
 50-year-old Sderot resident suffers moderate-to-severe injuries; other civilians suffer shock; 20 rockets fired into southern Israel; Palestinians say 1 killed, between 17, 21 wounded in IAF airstrikes.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18562213)
 2. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=274891)

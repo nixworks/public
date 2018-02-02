@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/28/the-united-states-national-hurricane-center-iss
 
 ### [2016-05-28](/news/2016/05/28/index.md)
 
+##### 2016 Atlantic hurricane season
 # The United States National Hurricane Center issues a tropical storm warning for parts of South Carolina as the newly upgraded Tropical Storm Bonnie, at 5 p.m. EDT about 125 miles from Charleston, South Carolina, moves northwest toward the Atlantic Coast. 
 
 The storm is forecast to bring up to three inches of rain to the Carolinas. In Texas, flooding caused by rains there claimed four lives.

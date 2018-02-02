@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/11/21/muslim-cleric-sheikh-ahmed-al-tayeb-the-head-of-al-azhar-in-egypt-says-violence-has-no-link-to-authentic-islam-terrorism-is-a-life-philos.html)  [JSON](/news/2015/11/21/muslim-cleric-sheikh-ahmed-al-tayeb-the-head-of-al-azhar-in-egypt-says-violence-has-no-link-to-authentic-islam-terrorism-is-a-life-philos.json)  [XML](/news/2015/11/21/muslim-cleric-sheikh-ahmed-al-tayeb-the-head-of-al-azhar-in-egypt-says-violence-has-no-link-to-authentic-islam-terrorism-is-a-life-philos.xml)  
+
 ### [2015-11-21](/news/2015/11/21/index.md)
 
+##### Muslim
 # Muslim cleric Sheikh Ahmed al-Tayeb, the head of al-Azhar in Egypt, says violence has no link to authentic Islam, terrorism is a life philosophy whose adherents were willing to die and is an intellectual and psychological disease that uses religion as a front. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/21/us-france-shooting-azhar-idUSKCN0TA0AF20151121#JUstOjmZx2UE2ZhU.97)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/11/21/us-france-shooting-azhar-idUSKCN0TA0AF20151121#JUstOjmZx2UE2ZhU.97)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

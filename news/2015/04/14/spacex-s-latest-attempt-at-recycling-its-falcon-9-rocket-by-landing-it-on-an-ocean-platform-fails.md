@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/04/14/spacex-s-latest-attempt-at-recycling-its-falcon-9-rocket-by-landing-it-on-an-ocean-platform-fails.html)  [JSON](/news/2015/04/14/spacex-s-latest-attempt-at-recycling-its-falcon-9-rocket-by-landing-it-on-an-ocean-platform-fails.json)  [XML](/news/2015/04/14/spacex-s-latest-attempt-at-recycling-its-falcon-9-rocket-by-landing-it-on-an-ocean-platform-fails.xml)  
+
 ### [2015-04-14](/news/2015/04/14/index.md)
 
+##### SpaceX
 # SpaceX's latest attempt at recycling its Falcon 9 rocket by landing it on an ocean platform fails. 
 
 SpaceX&#x27;s latest attempt at recycling its Falcon 9 rocket by landing it upright on an ocean platform failed Tuesday, after a successful launch of its cargo mission to space. Rocket landed on droneship, but too hard for survival,&quot; SpaceX chief Elon Musk said on Twitter, after the rocket and Dragon
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/spacex-cargo-ship-blasts-off-toward-space-station-201526000.html)
-1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/mcfbZuLORLLp74XARsCdxg--/aD01Nzc7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-WAS-Was8917804-1-1-0.jpg)
+1. [AFP via Yahoo! News](https://news.yahoo.com/spacex-cargo-ship-blasts-off-toward-space-station-201526000.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/6YuK4NHWUQtk.FYS5lN02g--~B/aD01Nzc7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-WAS-Was8917804-1-1-0.jpg)
 
 ### Related:
 

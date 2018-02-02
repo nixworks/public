@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/27/the-government-of-north-korea-announces-its-rul
 
 ### [2016-04-27](/news/2016/04/27/index.md)
 
+##### North Korea
 # The government of North Korea announces its ruling Workers' Party of Korea will hold a party congress on May 6, the first in nearly 40 years. 
 
 North Korea announces it will hold a Workers Party congress next month, the first for the ruling party in nearly 40 years.

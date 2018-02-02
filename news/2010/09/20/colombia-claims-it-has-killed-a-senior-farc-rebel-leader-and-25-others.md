@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/20/colombia-claims-it-has-killed-a-senior-farc-rebel-leader-and-25-others.html)  [JSON](/news/2010/09/20/colombia-claims-it-has-killed-a-senior-farc-rebel-leader-and-25-others.json)  [XML](/news/2010/09/20/colombia-claims-it-has-killed-a-senior-farc-rebel-leader-and-25-others.xml)  
+
 ### [2010-09-20](/news/2010/09/20/index.md)
 
+##### Colombia
 # Colombia claims it has killed a senior Farc rebel leader and 25 others. 
 
 The Colombian armed forces say they killed a senior Farc rebel leader in an attack on a jungle camp in which 26 other guerrillas also died.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11378351)
 2. [Colombia Reports](http://colombiareports.com/colombia-news/news/11943-police-raises-farc-bombing-death-toll-to-27.html)

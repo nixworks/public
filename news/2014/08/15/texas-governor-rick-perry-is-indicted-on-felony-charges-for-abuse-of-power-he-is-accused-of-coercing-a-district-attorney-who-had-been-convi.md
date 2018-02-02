@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/15/texas-governor-rick-perry-is-indicted-on-felony-charges-for-abuse-of-power-he-is-accused-of-coercing-a-district-attorney-who-had-been-convi.html)  [JSON](/news/2014/08/15/texas-governor-rick-perry-is-indicted-on-felony-charges-for-abuse-of-power-he-is-accused-of-coercing-a-district-attorney-who-had-been-convi.json)  [XML](/news/2014/08/15/texas-governor-rick-perry-is-indicted-on-felony-charges-for-abuse-of-power-he-is-accused-of-coercing-a-district-attorney-who-had-been-convi.xml)  
+
 ### [2014-08-15](/news/2014/08/15/index.md)
 
+##### Governor of Texas
 # Texas Governor Rick Perry is indicted on felony charges for abuse of power. He is accused of coercing a District Attorney who had been convicted of drunk driving to resign by threatening to veto funding for state public corruption prosecutors. 
 
 Get the latest breaking news across the U.S. on ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/US/wireStory/texas-perry-indicted-coercion-veto-threat-25003869)
 
@@ -15,4 +19,4 @@ Get the latest breaking news across the U.S. on ABCNews.com
 2. [Former Governor of Texas and Republican presidential candidate Rick Perry endorses Donald Trump for president and says he is open to being Trump's vice-presidential running mate. ](/news/2016/05/5/former-governor-of-texas-and-republican-presidential-candidate-rick-perry-endorses-donald-trump-for-president-and-says-he-is-open-to-being-t.md) _Context: Governor of Texas, Rick Perry_
 3. [Former Governor of Texas Rick Perry announces that he will be a candidate for the Republican Party. ](/news/2015/06/4/former-governor-of-texas-rick-perry-announces-that-he-will-be-a-candidate-for-the-republican-party.md) _Context: Governor of Texas, Rick Perry_
 4. [Governor of Texas Rick Perry, the longest serving governor in his home state, announces he will not seek a fourth term. ](/news/2013/07/8/governor-of-texas-rick-perry-the-longest-serving-governor-in-his-home-state-announces-he-will-not-seek-a-fourth-term.md) _Context: Governor of Texas, Rick Perry_
-5. [The Prime Minister of Italy Silvio Berlusconi is indicted on charges of paying for sex with an underaged girl and abuse of power in the so-called Rubygate scandal. ](/news/2011/02/15/the-prime-minister-of-italy-silvio-berlusconi-is-indicted-on-charges-of-paying-for-sex-with-an-underaged-girl-and-abuse-of-power-in-the-so-c.md) _Context: abuse of power, indicted_
+5. [Former President of the Philippines Benigno "Noynoy" Aquino III is indicted (among others) by the Office of the Ombudsman for his failure in handling the 2015 Mamasapano clash, which resulted in the deaths of 44 members of the Special Action Forces of the Philippine National Police. Aquino's legal team has vowed to appeal for a motion for reconsideration; as well as the group Volunteers Against Crime and Corruption (representing the victims' families), against what they call a "weak case" (citing Aquino's charges of "graft" & "usurpation of authority", instead of "reckless imprudence resulting in multiple homicide") ](/news/2017/07/14/former-president-of-the-philippines-benigno-noynoy-aquino-iii-is-indicted-among-others-by-the-office-of-the-ombudsman-for-his-failure-in.md) _Context: indicted_

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/16/in-the-missouri-primary-media-outlets-have-held
 
 ### [2016-03-16](/news/2016/03/16/index.md)
 
+##### 2016 U.S. presidential election
 # In the Missouri Primary, media outlets have held off calling yesterday's races due to the extremely close results. Donald Trump and Hillary Clinton lead in their party's vote, but by just two-tenths of 1 percent ahead of Ted Cruz and Bernie Sanders, respectively. Missouri law states a recount may be requested if the margin is less than half a percentage point. Either Cruz or Sanders or both can request a recount. These results are unofficial, until they're certified by the Missouri Secretary of State, which reportedly could take up to four weeks. Trump leads by about 1,700 votes and Clinton's edge is about 1,500. The state also needs to count the remaining absentee and provisional ballots; the deadline for overseas ballots is noon Friday. 
 
 Ted Cruz and Bernie Sanders both trail the front-runners by two-tenths of 1 percent.

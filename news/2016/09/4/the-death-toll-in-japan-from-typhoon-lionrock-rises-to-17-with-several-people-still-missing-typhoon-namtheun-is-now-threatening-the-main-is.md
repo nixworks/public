@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/4/the-death-toll-in-japan-from-typhoon-lionrock-ri
 
 ### [2016-09-4](/news/2016/09/4/index.md)
 
+##### 2016 Pacific typhoon season
 # The death toll in Japan from Typhoon Lionrock rises to 17 with several people still missing. Typhoon Namtheun is now threatening the main island of Kyushu. 
 
 TOKYO (AFP) - The death toll from Typhoon Lionrock has risen to 17 in Japan, with several people still missing, and officials said on Sunday (Sept 4) a new storm threatens the country&#039;s south-west.. Read more at straitstimes.com.

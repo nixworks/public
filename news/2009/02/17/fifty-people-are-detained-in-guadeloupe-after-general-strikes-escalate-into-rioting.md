@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/17/fifty-people-are-detained-in-guadeloupe-after-general-strikes-escalate-into-rioting.html)  [JSON](/news/2009/02/17/fifty-people-are-detained-in-guadeloupe-after-general-strikes-escalate-into-rioting.json)  [XML](/news/2009/02/17/fifty-people-are-detained-in-guadeloupe-after-general-strikes-escalate-into-rioting.xml)  
+
 ### [2009-02-17](/news/2009/02/17/index.md)
 
+##### Guadeloupe
 #  Fifty people are detained in Guadeloupe after general strikes escalate into rioting. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [International Herald Tribune](http://www.iht.com/articles/2009/02/17/europe/france.php?page=1)
 

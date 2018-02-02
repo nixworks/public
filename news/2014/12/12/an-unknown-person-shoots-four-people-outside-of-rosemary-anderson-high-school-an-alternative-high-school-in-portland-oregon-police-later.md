@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/12/an-unknown-person-shoots-four-people-outside-of-rosemary-anderson-high-school-an-alternative-high-school-in-portland-oregon-police-later.html)  [JSON](/news/2014/12/12/an-unknown-person-shoots-four-people-outside-of-rosemary-anderson-high-school-an-alternative-high-school-in-portland-oregon-police-later.json)  [XML](/news/2014/12/12/an-unknown-person-shoots-four-people-outside-of-rosemary-anderson-high-school-an-alternative-high-school-in-portland-oregon-police-later.xml)  
+
 ### [2014-12-12](/news/2014/12/12/index.md)
 
+##### Portland, Oregon
 # An unknown person shoots four people outside of Rosemary Anderson High School, an alternative high school in Portland, Oregon. Police later question a 22-year-old man. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/6ffe77f0d02f4c618e9608c0788fb822/police-say-oregon-shooting-appears-gang-related)
 2. [CNN](http://www.cnn.com/2014/12/12/us/portland-school-shooting/index.html?hpt=hp_t1)

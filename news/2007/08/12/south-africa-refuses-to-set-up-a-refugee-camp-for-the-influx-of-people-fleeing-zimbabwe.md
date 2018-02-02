@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/12/south-africa-refuses-to-set-up-a-refugee-camp-for-the-influx-of-people-fleeing-zimbabwe.html)  [JSON](/news/2007/08/12/south-africa-refuses-to-set-up-a-refugee-camp-for-the-influx-of-people-fleeing-zimbabwe.json)  [XML](/news/2007/08/12/south-africa-refuses-to-set-up-a-refugee-camp-for-the-influx-of-people-fleeing-zimbabwe.xml)  
+
 ### [2007-08-12](/news/2007/08/12/index.md)
 
+##### South Africa
 #  South Africa refuses to set up a refugee camp for the influx of people fleeing Zimbabwe. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/heraldsun/story/0,21985,22234636-663,00.html)
 

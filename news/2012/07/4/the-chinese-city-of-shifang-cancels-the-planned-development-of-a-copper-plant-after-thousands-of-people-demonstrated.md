@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/4/the-chinese-city-of-shifang-cancels-the-planned-development-of-a-copper-plant-after-thousands-of-people-demonstrated.html)  [JSON](/news/2012/07/4/the-chinese-city-of-shifang-cancels-the-planned-development-of-a-copper-plant-after-thousands-of-people-demonstrated.json)  [XML](/news/2012/07/4/the-chinese-city-of-shifang-cancels-the-planned-development-of-a-copper-plant-after-thousands-of-people-demonstrated.xml)  
+
 ### [2012-07-4](/news/2012/07/4/index.md)
 
+##### Shifang
 # The Chinese city of Shifang cancels the planned development of a copper plant after thousands of people demonstrated. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/world/story/2012/07/04/china-copper-plant-pollution.html)
 1. [Cover Image](https://i.cbc.ca/1.1910301.1380869589!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-china-copper-rtr34kd7.jpg)

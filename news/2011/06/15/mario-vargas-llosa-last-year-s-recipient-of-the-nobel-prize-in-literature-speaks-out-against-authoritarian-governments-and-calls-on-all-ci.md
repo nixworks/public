@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/15/mario-vargas-llosa-last-year-s-recipient-of-the-nobel-prize-in-literature-speaks-out-against-authoritarian-governments-and-calls-on-all-ci.html)  [JSON](/news/2011/06/15/mario-vargas-llosa-last-year-s-recipient-of-the-nobel-prize-in-literature-speaks-out-against-authoritarian-governments-and-calls-on-all-ci.json)  [XML](/news/2011/06/15/mario-vargas-llosa-last-year-s-recipient-of-the-nobel-prize-in-literature-speaks-out-against-authoritarian-governments-and-calls-on-all-ci.xml)  
+
 ### [2011-06-15](/news/2011/06/15/index.md)
 
+##### Mario Vargas Llosa
 # Mario Vargas Llosa, last year's recipient of the Nobel Prize in Literature, speaks out against authoritarian governments and calls on all citizens to participate in political life while addressing students at Shanghai International Studies University. 
 
 Peruvian Nobel laureate Mario Vargas Llosa criticises authoritarian governments while on an academic tour of China.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13776326)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53415000/jpg/_53415571_53415570.jpg)

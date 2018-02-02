@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/21/british-journalist-milo-yiannopoulos-resigns-fr
 
 ### [2017-02-21](/news/2017/02/21/index.md)
 
+##### Milo Yiannopoulos
 # British journalist Milo Yiannopoulos resigns from his post as technology editor at Breitbart news, after controversy around his statements regarding underage sex. 
 
 

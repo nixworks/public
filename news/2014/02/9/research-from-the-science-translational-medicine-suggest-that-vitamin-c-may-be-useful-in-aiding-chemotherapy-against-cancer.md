@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/9/research-from-the-science-translational-medicine-suggest-that-vitamin-c-may-be-useful-in-aiding-chemotherapy-against-cancer.html)  [JSON](/news/2014/02/9/research-from-the-science-translational-medicine-suggest-that-vitamin-c-may-be-useful-in-aiding-chemotherapy-against-cancer.json)  [XML](/news/2014/02/9/research-from-the-science-translational-medicine-suggest-that-vitamin-c-may-be-useful-in-aiding-chemotherapy-against-cancer.xml)  
+
 ### [2014-02-9](/news/2014/02/9/index.md)
 
+##### Science Translational Medicine
 # Research from the "Science Translational Medicine" suggest that Vitamin C may be useful in aiding chemotherapy against cancer. 
 
 High doses of vitamin C can boost the cancer-killing effect of chemotherapy, according to new research.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/health-26038460)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72769000/jpg/_72769413_178457599.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/7/a-taliban-suicide-bomber-hits-a-court-complex-in
 
 ### [2016-03-7](/news/2016/03/7/index.md)
 
+##### War in North-West Pakistan
 # A Taliban suicide bomber hits a court complex in the town of Shabqadar killing at least 13 people and injuring 36. Jamaat-ul-Ahrar, a Pakistani Taliban faction, says the attack is retaliation for Mumtaz Qadri's execution last week. 
 
 At least 13 people died in a suicide bomb attack at a court building in Charsadda, Pakistan, police said.

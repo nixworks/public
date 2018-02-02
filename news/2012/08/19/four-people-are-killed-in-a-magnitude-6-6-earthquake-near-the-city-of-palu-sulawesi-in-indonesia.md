@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/19/four-people-are-killed-in-a-magnitude-6-6-earthquake-near-the-city-of-palu-sulawesi-in-indonesia.html)  [JSON](/news/2012/08/19/four-people-are-killed-in-a-magnitude-6-6-earthquake-near-the-city-of-palu-sulawesi-in-indonesia.json)  [XML](/news/2012/08/19/four-people-are-killed-in-a-magnitude-6-6-earthquake-near-the-city-of-palu-sulawesi-in-indonesia.xml)  
+
 ### [2012-08-19](/news/2012/08/19/index.md)
 
+##### Palu
 # Four people are killed in a magnitude 6.6 earthquake near the city of Palu, Sulawesi in Indonesia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/08/19/world/asia/indonesia-earthquake/index.html)
 

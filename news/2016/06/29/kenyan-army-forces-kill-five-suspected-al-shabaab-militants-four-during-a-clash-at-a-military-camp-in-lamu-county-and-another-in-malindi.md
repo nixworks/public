@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/29/kenyan-army-forces-kill-five-suspected-al-shaba
 
 ### [2016-06-29](/news/2016/06/29/index.md)
 
+##### War in Somalia
 # Kenyan army forces kill five suspected Al-Shabaab militants, four during a clash at a military camp in Lamu County, and another in Malindi. 
 
 

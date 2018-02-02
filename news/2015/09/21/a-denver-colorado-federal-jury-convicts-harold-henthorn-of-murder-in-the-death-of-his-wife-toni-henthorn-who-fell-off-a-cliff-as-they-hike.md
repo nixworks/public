@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/21/a-denver-colorado-federal-jury-convicts-harold-henthorn-of-murder-in-the-death-of-his-wife-toni-henthorn-who-fell-off-a-cliff-as-they-hike.html)  [JSON](/news/2015/09/21/a-denver-colorado-federal-jury-convicts-harold-henthorn-of-murder-in-the-death-of-his-wife-toni-henthorn-who-fell-off-a-cliff-as-they-hike.json)  [XML](/news/2015/09/21/a-denver-colorado-federal-jury-convicts-harold-henthorn-of-murder-in-the-death-of-his-wife-toni-henthorn-who-fell-off-a-cliff-as-they-hike.xml)  
+
 ### [2015-09-21](/news/2015/09/21/index.md)
 
+##### Denver
 # A Denver, Colorado federal jury convicts Harold Henthorn of murder in the death of his wife Toni Henthorn, who fell off a cliff as they hiked in Colorado's Rocky Mountain National Park to celebrate their wedding anniversary. His previous wife had also died in suspicious circumstances. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/35d1792a22ec497e98d9b44807708ea2/man-guilty-pushing-wife-colorado-cliff-her-death)
 

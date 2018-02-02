@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/25/malaysia-summons-a-philippines-diplomat-over-a-dispute-regarding-the-ownership-of-sabah.html)  [JSON](/news/2015/05/25/malaysia-summons-a-philippines-diplomat-over-a-dispute-regarding-the-ownership-of-sabah.json)  [XML](/news/2015/05/25/malaysia-summons-a-philippines-diplomat-over-a-dispute-regarding-the-ownership-of-sabah.xml)  
+
 ### [2015-05-25](/news/2015/05/25/index.md)
 
+##### Malaysia
 # Malaysia summons a Philippines diplomat over a dispute regarding the ownership of Sabah. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Rappler](http://www.rappler.com/nation/94262-malaysia-summons-philippines-official-sabah)
 1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/AF81C3215AFF40A88F1D0ED766EDC691/sabah-evacuees-20150525-1.jpg)

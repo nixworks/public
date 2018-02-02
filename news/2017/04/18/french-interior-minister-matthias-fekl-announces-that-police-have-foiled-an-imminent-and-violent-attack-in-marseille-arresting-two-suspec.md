@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/18/french-interior-minister-matthias-fekl-announce
 
 ### [2017-04-18](/news/2017/04/18/index.md)
 
+##### Matthias Fekl
 # French Interior Minister Matthias Fekl announces that police have foiled an "imminent and violent" attack in Marseille, arresting two suspects and confiscating weapons and bomb material. 
 
 Two ‘radicalised’ French nationals held and guns also retrieved in Marseille operation that minister says foiled imminent attack

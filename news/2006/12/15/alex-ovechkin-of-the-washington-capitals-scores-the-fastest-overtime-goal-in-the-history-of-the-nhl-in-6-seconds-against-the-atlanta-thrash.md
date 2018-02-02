@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/12/15/alex-ovechkin-of-the-washington-capitals-scores-the-fastest-overtime-goal-in-the-history-of-the-nhl-in-6-seconds-against-the-atlanta-thrash.html)  [JSON](/news/2006/12/15/alex-ovechkin-of-the-washington-capitals-scores-the-fastest-overtime-goal-in-the-history-of-the-nhl-in-6-seconds-against-the-atlanta-thrash.json)  [XML](/news/2006/12/15/alex-ovechkin-of-the-washington-capitals-scores-the-fastest-overtime-goal-in-the-history-of-the-nhl-in-6-seconds-against-the-atlanta-thrash.xml)  
+
 ### [2006-12-15](/news/2006/12/15/index.md)
 
+##### Alex Ovechkin
 #  Alex Ovechkin of the Washington Capitals scores the fastest overtime goal in the history of the NHL in 6 seconds against the Atlanta Thrashers.
 
 

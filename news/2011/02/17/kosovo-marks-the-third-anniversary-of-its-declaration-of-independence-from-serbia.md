@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/17/kosovo-marks-the-third-anniversary-of-its-declaration-of-independence-from-serbia.html)  [JSON](/news/2011/02/17/kosovo-marks-the-third-anniversary-of-its-declaration-of-independence-from-serbia.json)  [XML](/news/2011/02/17/kosovo-marks-the-third-anniversary-of-its-declaration-of-independence-from-serbia.xml)  
+
 ### [2011-02-17](/news/2011/02/17/index.md)
 
+##### Kosovo
 # Kosovo marks the third anniversary of its declaration of independence from Serbia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12492187)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

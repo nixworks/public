@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/26/gambia-says-it-will-join-south-africa-and-burun
 
 ### [2016-10-26](/news/2016/10/26/index.md)
 
+##### The Gambia
 # Gambia says it will join South Africa and Burundi in withdrawing from the International Criminal Court, accusing the court of ignoring "Western war crimes" like the Kunduz hospital airstrike. 
 
 The Gambia is the latest country to say it will leave the International Criminal Court, accusing it of humiliating Africans.

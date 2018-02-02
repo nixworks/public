@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/09/19/univision-s-sa-bado-gigante-the-world-s-longest-running-variety-show-in-television-history-ends-after-53-years-on-air.html)  [JSON](/news/2015/09/19/univision-s-sa-bado-gigante-the-world-s-longest-running-variety-show-in-television-history-ends-after-53-years-on-air.json)  [XML](/news/2015/09/19/univision-s-sa-bado-gigante-the-world-s-longest-running-variety-show-in-television-history-ends-after-53-years-on-air.xml)  
+
 ### [2015-09-19](/news/2015/09/19/index.md)
 
+##### Univision's
 # Univision's Sabado Gigante, the world's longest running variety show in television history, ends after 53 years on air. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/story/life/tv/2015/09/19/sabado-gigante-ends-53-year-run/72408410/)
+1. [USA Today](https://www.usatoday.com/story/life/tv/2015/09/19/sabado-gigante-ends-53-year-run/72408410/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

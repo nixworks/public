@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/25/at-the-international-astronautical-congress-in-
 
 ### [2017-09-25](/news/2017/09/25/index.md)
 
+##### Science in Australia
 # At the International Astronautical Congress in Adelaide, the Government of Australia announces that it will create an Australian space agency. 
 
 The federal government has announced the creation of a National Space Agency. 

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/02/14/warren-buffett-and-jorge-paulo-lemann-announce-that-they-are-allying-to-buy-h-j-heinz-company-for-28-billion.html)  [JSON](/news/2013/02/14/warren-buffett-and-jorge-paulo-lemann-announce-that-they-are-allying-to-buy-h-j-heinz-company-for-28-billion.json)  [XML](/news/2013/02/14/warren-buffett-and-jorge-paulo-lemann-announce-that-they-are-allying-to-buy-h-j-heinz-company-for-28-billion.xml)  
+
 ### [2013-02-14](/news/2013/02/14/index.md)
 
+##### Warren Buffett
 # Warren Buffett and Jorge Paulo Lemann announce that they are allying to buy H. J. Heinz Company for $28 billion. 
 
 Warren Buffett and Brazilian financier Jorge Paulo Lemann are teaming up to buy ketchup maker H.J. Heinz Co for $23.2 billion, in what could be the first step of a wave of mergers for the food and beverage industry.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-21461779)
-2. [Reuters](http://www.reuters.com/article/2013/02/14/us-berkshire-heinz-idUSBRE91D0PY20130214)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130214&t=2&i=704095233&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91D1KB000)
+2. [Reuters](https://www.reuters.com/article/2013/02/14/us-berkshire-heinz-idUSBRE91D0PY20130214)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130214&t=2&i=704095233&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91D1KB000)
 
 ### Related:
 

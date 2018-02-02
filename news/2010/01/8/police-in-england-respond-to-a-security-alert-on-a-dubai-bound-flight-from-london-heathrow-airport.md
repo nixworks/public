@@ -1,21 +1,25 @@
+
+Formats: [HTML](/news/2010/01/8/police-in-england-respond-to-a-security-alert-on-a-dubai-bound-flight-from-london-heathrow-airport.html)  [JSON](/news/2010/01/8/police-in-england-respond-to-a-security-alert-on-a-dubai-bound-flight-from-london-heathrow-airport.json)  [XML](/news/2010/01/8/police-in-england-respond-to-a-security-alert-on-a-dubai-bound-flight-from-london-heathrow-airport.xml)  
+
 ### [2010-01-8](/news/2010/01/8/index.md)
 
+##### England
 # Police in England respond to a security alert on a Dubai-bound flight from London Heathrow Airport. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6075IB20100108)
+1. [Reuters](https://www.reuters.com/article/idUSTRE6075IB20100108)
 2. [Sky News](http://news.sky.com/skynews/Home/UK-News/Heathrow-Airport-Security-Alert-On-Plane/Article/201001215517515?lpos=UK_News_First_UK_News_Article_Teaser_Region_0&lid=ARTICLE_15517515_Heathrow_Airport%3A_Security_Alert_On_Plane)
-3. [Toronto Star](http://www.thestar.com/news/world/article/748396--man-arrested-on-dubai-bound-plane-at-heathrow)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Toronto Star](https://www.thestar.com/news/world/article/748396--man-arrested-on-dubai-bound-plane-at-heathrow)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
 1. [ Heavy snow across England closes London City Airport and one runway of Heathrow Airport and shuts down all public transport in London. ](/news/2009/02/2/heavy-snow-across-england-closes-london-city-airport-and-one-runway-of-heathrow-airport-and-shuts-down-all-public-transport-in-london.md) _Context: England, London Heathrow Airport_
-2. [City officials in Dubai, United Arab Emirates, announce that residents will receive incentives for swapping their petrol engine vehicles for electric ones, including a free Salik tag, and an exemption from RTA registration and renewal vehicle fees. ](/news/2017/09/24/city-officials-in-dubai-united-arab-emirates-announce-that-residents-will-receive-incentives-for-swapping-their-petrol-engine-vehicles-for.md) _Context: Dubai_
-3. [Two police officials found guilty of negligence and mistreatment of evidence are sentenced to 17 years in prison. Five accused TTP militants are acquitted. The main suspect, former president Pervez Musharraf, who now resides in Dubai, is declared a fugitive for having failed to show up in court and has his property confiscated. ](/news/2017/08/31/two-police-officials-found-guilty-of-negligence-and-mistreatment-of-evidence-are-sentenced-to-17-years-in-prison-five-accused-ttp-militants.md) _Context: Dubai_
-4. [Senior members of the Pheu Thai Party report former Prime Minister Yingluck Shinawatra left Thailand last week ahead of the verdict in her negligence trial. She is in Dubai where her brother, Thaksin Shinawatra, lives. ](/news/2017/08/26/senior-members-of-the-pheu-thai-party-report-former-prime-minister-yingluck-shinawatra-left-thailand-last-week-ahead-of-the-verdict-in-her-n.md) _Context: Dubai_
-5. [The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England. ](/news/2017/06/4/the-charity-concert-organized-by-ariana-grande-in-the-wake-of-the-2017-manchester-arena-bombing-is-held-in-manchester-england.md) _Context: England_
+2. [A fire consumes a multi-story parking garage in Liverpool, England, destroying about 1,400 cars parked there, most for an international horse show in the adjacent Liverpool Echo Arena. No injuries are reported, and all horses and pet dogs were moved to safety. ](/news/2017/12/31/a-fire-consumes-a-multi-story-parking-garage-in-liverpool-england-destroying-about-1-400-cars-parked-there-most-for-an-international-hors.md) _Context: England_
+3. [The lawyer of Ahmed Shafiq, a candidate for the spring 2018 presidential elections in Egypt, says she met him in a hotel room in Cairo following his arrest the day before in Dubai, U.A.E., after saying earlier today that his family didn't know his whereabouts. ](/news/2017/12/3/the-lawyer-of-ahmed-shafiq-a-candidate-for-the-spring-2018-presidential-elections-in-egypt-says-she-met-him-in-a-hotel-room-in-cairo-follo.md) _Context: Dubai_
+4. [Six people are killed in a multiple-vehicle collision in Birmingham, England. ](/news/2017/12/17/six-people-are-killed-in-a-multiple-vehicle-collision-in-birmingham-england.md) _Context: England_
+5. [Storm Brian, the third windstorm of the season, causes severe flash flooding in Ireland and coastal flooding in parts of England and Wales, although disruption is not as severe as initially expected. ](/news/2017/10/21/storm-brian-the-third-windstorm-of-the-season-causes-severe-flash-flooding-in-ireland-and-coastal-flooding-in-parts-of-england-and-wales.md) _Context: England_

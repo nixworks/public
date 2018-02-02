@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/18/an-http-www-99mac-se-vbindex-php-id-34-more-internal-memo-suggests-that-apple-computer-has-paid-off-its-remaining-3-million-dollars-deb.html)  [JSON](/news/2004/02/18/an-http-www-99mac-se-vbindex-php-id-34-more-internal-memo-suggests-that-apple-computer-has-paid-off-its-remaining-3-million-dollars-deb.json)  [XML](/news/2004/02/18/an-http-www-99mac-se-vbindex-php-id-34-more-internal-memo-suggests-that-apple-computer-has-paid-off-its-remaining-3-million-dollars-deb.xml)  
+
 ### [2004-02-18](/news/2004/02/18/index.md)
 
+##### Apple Computer
 #  An [http:--www.99mac.se-vbindex.php?id=34#more internal memo] suggests that Apple Computer has paid off its remaining 3 million dollars debts and is now debt-free with 4.8 billion dollars in cash.
 
 

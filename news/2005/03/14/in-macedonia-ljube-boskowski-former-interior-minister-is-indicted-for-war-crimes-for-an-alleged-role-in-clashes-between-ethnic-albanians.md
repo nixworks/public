@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/03/14/in-macedonia-ljube-boskowski-former-interior-minister-is-indicted-for-war-crimes-for-an-alleged-role-in-clashes-between-ethnic-albanians.html)  [JSON](/news/2005/03/14/in-macedonia-ljube-boskowski-former-interior-minister-is-indicted-for-war-crimes-for-an-alleged-role-in-clashes-between-ethnic-albanians.json)  [XML](/news/2005/03/14/in-macedonia-ljube-boskowski-former-interior-minister-is-indicted-for-war-crimes-for-an-alleged-role-in-clashes-between-ethnic-albanians.xml)  
+
 ### [2005-03-14](/news/2005/03/14/index.md)
 
+##### Macedonian
 #  In Macedonia Ljube Boskowski, former interior minister, is indicted for war crimes for an alleged role in clashes between ethnic Albanians and security forces in 2001 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4348347.stm)
 2. [RFE](http://www.rferl.org/featuresarticle/2005/03/61047b70-c241-40ee-9595-114a63f922a4.html)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=7894709&type=worldNews)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?storyID=7894709&type=worldNews)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

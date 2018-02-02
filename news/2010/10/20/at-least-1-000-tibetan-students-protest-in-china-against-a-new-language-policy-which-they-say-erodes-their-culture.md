@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/20/at-least-1-000-tibetan-students-protest-in-china-against-a-new-language-policy-which-they-say-erodes-their-culture.html)  [JSON](/news/2010/10/20/at-least-1-000-tibetan-students-protest-in-china-against-a-new-language-policy-which-they-say-erodes-their-culture.json)  [XML](/news/2010/10/20/at-least-1-000-tibetan-students-protest-in-china-against-a-new-language-policy-which-they-say-erodes-their-culture.xml)  
+
 ### [2010-10-20](/news/2010/10/20/index.md)
 
+##### Tibet
 # At least 1,000 Tibetan students protest in China against a new language policy which they say erodes their culture. 
 
 At least 1,000 Tibetan students in north-west China protest against new curbs on the use of their language, a rights group says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11581189)
 2. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/20101021/news_20101021_56_706611.htm)

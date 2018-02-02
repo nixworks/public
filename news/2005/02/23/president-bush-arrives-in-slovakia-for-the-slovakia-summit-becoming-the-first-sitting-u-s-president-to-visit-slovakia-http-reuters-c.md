@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/02/23/president-bush-arrives-in-slovakia-for-the-slovakia-summit-becoming-the-first-sitting-u-s-president-to-visit-slovakia-http-reuters-c.html)  [JSON](/news/2005/02/23/president-bush-arrives-in-slovakia-for-the-slovakia-summit-becoming-the-first-sitting-u-s-president-to-visit-slovakia-http-reuters-c.json)  [XML](/news/2005/02/23/president-bush-arrives-in-slovakia-for-the-slovakia-summit-becoming-the-first-sitting-u-s-president-to-visit-slovakia-http-reuters-c.xml)  
+
 ### [2005-02-23](/news/2005/02/23/index.md)
 
+##### Bush
 #  President Bush arrives in Slovakia for the Slovakia Summit, becoming the first sitting U.S. President to visit Slovakia. ([http:--reuters.com-newsArticle.jhtml;jsessionid=JV2NEPDHEINKICRBAEZSFFA?type=topNews&storyID=7719193 Reuters])
 
 

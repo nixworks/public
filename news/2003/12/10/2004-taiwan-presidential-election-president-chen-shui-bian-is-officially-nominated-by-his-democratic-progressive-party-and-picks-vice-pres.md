@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/10/2004-taiwan-presidential-election-president-chen-shui-bian-is-officially-nominated-by-his-democratic-progressive-party-and-picks-vice-pres.html)  [JSON](/news/2003/12/10/2004-taiwan-presidential-election-president-chen-shui-bian-is-officially-nominated-by-his-democratic-progressive-party-and-picks-vice-pres.json)  [XML](/news/2003/12/10/2004-taiwan-presidential-election-president-chen-shui-bian-is-officially-nominated-by-his-democratic-progressive-party-and-picks-vice-pres.xml)  
+
 ### [2003-12-10](/news/2003/12/10/index.md)
 
+##### 2004 presidential election
 #  2004 Taiwan Presidential Election: President Chen Shui-bian is officially nominated by his Democratic Progressive Party and picks Vice President Annette Lu as his running mate. [http:--www.ajc.com-news-content-news-ap-ap_story.html-Intl-AP.V1414.AP-Taiwan-Vice-Pre.html]
 
 

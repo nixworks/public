@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/6/patriarch-maxim-of-the-bulgarian-orthodox-church-dies-at-age-98-at-a-sofia-hospital.html)  [JSON](/news/2012/11/6/patriarch-maxim-of-the-bulgarian-orthodox-church-dies-at-age-98-at-a-sofia-hospital.json)  [XML](/news/2012/11/6/patriarch-maxim-of-the-bulgarian-orthodox-church-dies-at-age-98-at-a-sofia-hospital.xml)  
+
 ### [2012-11-6](/news/2012/11/6/index.md)
 
+##### Patriarch
 # Patriarch Maxim of the Bulgarian Orthodox Church dies at age 98 at a Sofia hospital. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/International/wireStory/bulgarian-patriarch-maxim-dies-age-98-17649672#.UJtFL8VG9YA)
 

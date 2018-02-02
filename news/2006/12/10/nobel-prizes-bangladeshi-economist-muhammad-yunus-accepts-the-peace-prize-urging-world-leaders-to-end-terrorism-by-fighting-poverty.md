@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/10/nobel-prizes-bangladeshi-economist-muhammad-yunus-accepts-the-peace-prize-urging-world-leaders-to-end-terrorism-by-fighting-poverty.html)  [JSON](/news/2006/12/10/nobel-prizes-bangladeshi-economist-muhammad-yunus-accepts-the-peace-prize-urging-world-leaders-to-end-terrorism-by-fighting-poverty.json)  [XML](/news/2006/12/10/nobel-prizes-bangladeshi-economist-muhammad-yunus-accepts-the-peace-prize-urging-world-leaders-to-end-terrorism-by-fighting-poverty.xml)  
+
 ### [2006-12-10](/news/2006/12/10/index.md)
 
+##### Nobel Prize
 #  Nobel Prizes: Bangladeshi economist Muhammad Yunus accepts the Peace Prize, urging world leaders to end terrorism by fighting poverty. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via The Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-6272115,00.html)
 

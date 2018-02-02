@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/15/former-new-england-patriots-tight-end-aaron-hernandez-is-charged-with-two-counts-of-murder-in-relation-to-a-drive-by-shooting-in-boston-s-so.html)  [JSON](/news/2014/05/15/former-new-england-patriots-tight-end-aaron-hernandez-is-charged-with-two-counts-of-murder-in-relation-to-a-drive-by-shooting-in-boston-s-so.json)  [XML](/news/2014/05/15/former-new-england-patriots-tight-end-aaron-hernandez-is-charged-with-two-counts-of-murder-in-relation-to-a-drive-by-shooting-in-boston-s-so.xml)  
+
 ### [2014-05-15](/news/2014/05/15/index.md)
 
+##### New England Patriots
 # Former New England Patriots tight end Aaron Hernandez is charged with two counts of murder in relation to a drive-by shooting in Boston's South End district in July 2012. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New York Daily News](http://www.nydailynews.com/sports/football/hernandez-indicted-2012-double-murder-article-1.1793242)
 

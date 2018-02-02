@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/21/embargo-china-voices-opposition-to-united-states-sanctions-over-the-alleged-sale-of-advanced-missile-technology-to-an-unnamed-country.html)  [JSON](/news/2003/09/21/embargo-china-voices-opposition-to-united-states-sanctions-over-the-alleged-sale-of-advanced-missile-technology-to-an-unnamed-country.json)  [XML](/news/2003/09/21/embargo-china-voices-opposition-to-united-states-sanctions-over-the-alleged-sale-of-advanced-missile-technology-to-an-unnamed-country.xml)  
+
 ### [2003-09-21](/news/2003/09/21/index.md)
 
+##### Embargo
 #  Embargo: China voices opposition to United States sanctions over the alleged sale of advanced missile technology to an unnamed country.
 
 
@@ -8,7 +12,7 @@
 ### Related:
 
 1. [A 1-year-old from London with acute lymphoblastic leukemia who had undergone myriads of unsuccessful treatments since she was 14 weeks old is in remission thanks to gene-editing technology, used for just the second time, that allowed her to receive modified immune cells from another person. ](/news/2015/11/8/a-1-year-old-from-london-with-acute-lymphoblastic-leukemia-who-had-undergone-myriads-of-unsuccessful-treatments-since-she-was-14-weeks-old-i.md) _Context: technology_
-2. [The Iranian-funded Shi'ite Al-Mukhtar Army claims responsibility for Thursday's deadly rocket attacks near the Baghdad International Airport that killed 23 members of an exiled Iranian opposition group, the People's Mujahedin of Iran. ](/news/2015/10/30/the-iranian-funded-shi-ite-al-mukhtar-army-claims-responsibility-for-thursday-s-deadly-rocket-attacks-near-the-baghdad-international-airport.md) _Context: rocket attacks_
-3. [Panamanian authorities seize North Korean bulk carrier "Chong Chon Gang" after a missile is found on board. The captain of the ship, which was en route from Cuba, attempted to commit suicide.](/news/2013/07/16/panamanian-authorities-seize-north-korean-bulk-carrier-chong-chon-gang-after-a-missile-is-found-on-board-the-captain-of-the-ship-which-w.md) _Context: rocket attacks_
-4. [U.S. President Barack Obama lifts a trade embargo of communications equipment and software to non-government Iranians. ](/news/2013/05/31/u-s-president-barack-obama-lifts-a-trade-embargo-of-communications-equipment-and-software-to-non-government-iranians.md) _Context: embargo_
-5. [The European Union lifts an oil trade embargo it imposed on Syria during the early stages of the civil war to help the finances of the opposition. ](/news/2013/04/22/the-european-union-lifts-an-oil-trade-embargo-it-imposed-on-syria-during-the-early-stages-of-the-civil-war-to-help-the-finances-of-the-oppos.md) _Context: embargo_
+2. [Panamanian authorities seize North Korean bulk carrier "Chong Chon Gang" after a missile is found on board. The captain of the ship, which was en route from Cuba, attempted to commit suicide.](/news/2013/07/16/panamanian-authorities-seize-north-korean-bulk-carrier-chong-chon-gang-after-a-missile-is-found-on-board-the-captain-of-the-ship-which-w.md) _Context: missile_
+3. [Three missiles launched by the Syrian army crash into residential areas of Syria's northern city of Aleppo, killing at least 29 civilians and injuring 150 others. ](/news/2013/02/22/three-missiles-launched-by-the-syrian-army-crash-into-residential-areas-of-syria-s-northern-city-of-aleppo-killing-at-least-29-civilians-an.md) _Context: missile_
+4. [The South Korean defence ministry says the launch of a satellite into space by North Korea was a disguised test of a 10,000 km range missile. ](/news/2012/12/23/the-south-korean-defence-ministry-says-the-launch-of-a-satellite-into-space-by-north-korea-was-a-disguised-test-of-a-10-000-km-range-missile.md) _Context: missile_
+5. [North Korea's state agency KCNA announces the country will launch a satellite sometime between December 10 and December 22. The launch will take place around the time of South Korea's presidential election on December 19 and close to the first anniversary of the death of former leader Kim Jong-il. South Korean officials, as well as the US, believe that the isolated state is testing long-range missile technology with the aim of developing an intercontinental ballistic missile. ](/news/2012/12/1/north-korea-s-state-agency-kcna-announces-the-country-will-launch-a-satellite-sometime-between-december-10-and-december-22-the-launch-will.md) _Context: missile_

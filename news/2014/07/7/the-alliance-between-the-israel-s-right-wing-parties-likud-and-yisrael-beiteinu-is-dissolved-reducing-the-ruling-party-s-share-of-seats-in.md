@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/7/the-alliance-between-the-israel-s-right-wing-parties-likud-and-yisrael-beiteinu-is-dissolved-reducing-the-ruling-party-s-share-of-seats-in.html)  [JSON](/news/2014/07/7/the-alliance-between-the-israel-s-right-wing-parties-likud-and-yisrael-beiteinu-is-dissolved-reducing-the-ruling-party-s-share-of-seats-in.json)  [XML](/news/2014/07/7/the-alliance-between-the-israel-s-right-wing-parties-likud-and-yisrael-beiteinu-is-dissolved-reducing-the-ruling-party-s-share-of-seats-in.xml)  
+
 ### [2014-07-7](/news/2014/07/7/index.md)
 
+##### Israel
 # The alliance between the Israel's right-wing parties Likud and Yisrael Beiteinu is dissolved, reducing the ruling party's share of seats in the Knesset to just 20 out of 120. 
 
 FM says &#8216;essential&#8217; differences with Netanyahu behind decision; move shrinks PM&#8217;s Knesset faction from 31 seats to just 20
 
 
-### Source:
+### Sources:
 
 1. [Times of Israel](http://www.timesofisrael.com/likud-yisrael-beytenu-to-sever-joint-knesset-list/)
 1. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/06/F140601MISFF01-e1401993756948.jpg)

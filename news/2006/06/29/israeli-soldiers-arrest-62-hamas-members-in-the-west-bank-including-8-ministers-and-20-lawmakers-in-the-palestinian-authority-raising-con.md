@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/29/israeli-soldiers-arrest-62-hamas-members-in-the-west-bank-including-8-ministers-and-20-lawmakers-in-the-palestinian-authority-raising-con.html)  [JSON](/news/2006/06/29/israeli-soldiers-arrest-62-hamas-members-in-the-west-bank-including-8-ministers-and-20-lawmakers-in-the-palestinian-authority-raising-con.json)  [XML](/news/2006/06/29/israeli-soldiers-arrest-62-hamas-members-in-the-west-bank-including-8-ministers-and-20-lawmakers-in-the-palestinian-authority-raising-con.xml)  
+
 ### [2006-06-29](/news/2006/06/29/index.md)
 
+##### Hamas
 #  Israeli soldiers arrest 62 Hamas members in the West Bank, including 8 ministers and 20 lawmakers in the Palestinian Authority, raising concern at concurrent G8 summit. Israeli officials announce that further arrests are expected, and that the suspects will face standard criminal proceedings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/hasen/spages/732528.html)
 2. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L284483.htm)

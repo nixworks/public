@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/28/a-man-fatally-stabs-14-family-members-before-ta
 
 ### [2016-02-28](/news/2016/02/28/index.md)
 
+##### India
 # A man fatally stabs 14 family members before taking his own life in the Indian city of Thane. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/13/at-least-4-groups-of-chinese-private-investors-are-interested-in-acquiring-american-international-assurance-aia-the-asian-division-of-ins.html)  [JSON](/news/2010/07/13/at-least-4-groups-of-chinese-private-investors-are-interested-in-acquiring-american-international-assurance-aia-the-asian-division-of-ins.json)  [XML](/news/2010/07/13/at-least-4-groups-of-chinese-private-investors-are-interested-in-acquiring-american-international-assurance-aia-the-asian-division-of-ins.xml)  
+
 ### [2010-07-13](/news/2010/07/13/index.md)
 
+##### American International Assurance
 # At least 4 groups of Chinese private investors are interested in acquiring American International Assurance (AIA), the Asian division of insurance giant American International Group (AIG). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel NewsAsia](http://www.channelnewsasia.com/stories/afp_asiapacific_business/view/1069094/1/.html)
 

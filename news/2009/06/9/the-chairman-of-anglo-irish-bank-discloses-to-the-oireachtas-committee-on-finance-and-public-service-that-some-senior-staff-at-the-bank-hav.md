@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/9/the-chairman-of-anglo-irish-bank-discloses-to-the-oireachtas-committee-on-finance-and-public-service-that-some-senior-staff-at-the-bank-hav.html)  [JSON](/news/2009/06/9/the-chairman-of-anglo-irish-bank-discloses-to-the-oireachtas-committee-on-finance-and-public-service-that-some-senior-staff-at-the-bank-hav.json)  [XML](/news/2009/06/9/the-chairman-of-anglo-irish-bank-discloses-to-the-oireachtas-committee-on-finance-and-public-service-that-some-senior-staff-at-the-bank-hav.xml)  
+
 ### [2009-06-9](/news/2009/06/9/index.md)
 
+##### Anglo Irish Bank
 #  The chairman of Anglo Irish Bank discloses to the Oireachtas Committee on Finance and Public Service that some senior staff at the bank have impaired loans to the bank. 
 
 The chairman of Anglo Irish Bank has disclosed that some staff of the bank have impaired loans to the bank.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0609/angloirish.html)
 1. [Cover Image](https://img.rasset.ie/00025b16-1600.jpg)

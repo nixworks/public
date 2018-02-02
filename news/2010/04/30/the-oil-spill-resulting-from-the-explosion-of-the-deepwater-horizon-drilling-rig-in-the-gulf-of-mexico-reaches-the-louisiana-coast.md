@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/04/30/the-oil-spill-resulting-from-the-explosion-of-the-deepwater-horizon-drilling-rig-in-the-gulf-of-mexico-reaches-the-louisiana-coast.html)  [JSON](/news/2010/04/30/the-oil-spill-resulting-from-the-explosion-of-the-deepwater-horizon-drilling-rig-in-the-gulf-of-mexico-reaches-the-louisiana-coast.json)  [XML](/news/2010/04/30/the-oil-spill-resulting-from-the-explosion-of-the-deepwater-horizon-drilling-rig-in-the-gulf-of-mexico-reaches-the-louisiana-coast.xml)  
+
 ### [2010-04-30](/news/2010/04/30/index.md)
 
+##### oil spill
 # The oil spill resulting from the explosion of the "Deepwater Horizon" drilling rig in the Gulf of Mexico reaches the Louisiana coast. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/stories/2010/04/30/national/main6447903.shtml)
 2. [CNN](http://edition.cnn.com/2010/US/04/29/oil.spill.wildlife/index.html)
 3. [Houston Chronicle](http://www.chron.com/disp/story.mpl/business/6983577.html)
-4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/30/AR2010043001788_pf.html)
+4. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/04/30/AR2010043001788_pf.html)
 4. [Cover Image](http://ww3.hdnux.com/photos/04/32/44/1157426/7/rawImage.jpg)
 
 ### Related:

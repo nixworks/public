@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/4/the-philippine-stock-market-continues-to-fall-fo
 
 ### [2016-05-4](/news/2016/05/4/index.md)
 
+##### Philippine presidential election, 2016
 # The Philippine stock market continues to fall for the fifth straight day due to fears about the presidency of Rodrigo Duterte. He continues to lead in opinion polls. 
 
 Foreign analysts writing country risk assessments in recent weeks are adopting a wait and see attitude on the Philippines until after next Monday’s election. 

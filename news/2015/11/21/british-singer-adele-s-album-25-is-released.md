@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/21/british-singer-adele-s-album-25-is-released.html)  [JSON](/news/2015/11/21/british-singer-adele-s-album-25-is-released.json)  [XML](/news/2015/11/21/british-singer-adele-s-album-25-is-released.xml)  
+
 ### [2015-11-21](/news/2015/11/21/index.md)
 
+##### British
 # British singer Adele's album "25" is released. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Billboard](http://m.billboard.com/entry/view/id/149005)
 

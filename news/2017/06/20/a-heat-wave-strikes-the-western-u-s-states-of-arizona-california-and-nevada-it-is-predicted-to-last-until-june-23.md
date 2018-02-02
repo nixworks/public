@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/20/a-heat-wave-strikes-the-western-u-s-states-of-a
 
 ### [2017-06-20](/news/2017/06/20/index.md)
 
+##### 2017 North American heat wave
 # A heat wave strikes the Western U.S. states of Arizona, California, and Nevada. It is predicted to last until June 23. 
 
 

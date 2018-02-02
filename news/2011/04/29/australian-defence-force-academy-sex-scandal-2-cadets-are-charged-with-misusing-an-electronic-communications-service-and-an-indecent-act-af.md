@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/29/australian-defence-force-academy-sex-scandal-2-cadets-are-charged-with-misusing-an-electronic-communications-service-and-an-indecent-act-af.html)  [JSON](/news/2011/04/29/australian-defence-force-academy-sex-scandal-2-cadets-are-charged-with-misusing-an-electronic-communications-service-and-an-indecent-act-af.json)  [XML](/news/2011/04/29/australian-defence-force-academy-sex-scandal-2-cadets-are-charged-with-misusing-an-electronic-communications-service-and-an-indecent-act-af.xml)  
+
 ### [2011-04-29](/news/2011/04/29/index.md)
 
+##### Australian Defence Force Academy
 # Australian Defence Force Academy sex scandal: 2 cadets are charged with misusing an electronic communications service and an indecent act after the secret filming of a woman engaging in sexual intercourse is broadcast on the internet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13235538)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

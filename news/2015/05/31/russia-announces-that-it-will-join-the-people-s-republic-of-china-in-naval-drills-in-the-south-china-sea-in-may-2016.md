@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/31/russia-announces-that-it-will-join-the-people-s-republic-of-china-in-naval-drills-in-the-south-china-sea-in-may-2016.html)  [JSON](/news/2015/05/31/russia-announces-that-it-will-join-the-people-s-republic-of-china-in-naval-drills-in-the-south-china-sea-in-may-2016.json)  [XML](/news/2015/05/31/russia-announces-that-it-will-join-the-people-s-republic-of-china-in-naval-drills-in-the-south-china-sea-in-may-2016.xml)  
+
 ### [2015-05-31](/news/2015/05/31/index.md)
 
+##### Russia
 # Russia announces that it will join the People's Republic of China in naval drills in the South China Sea in May 2016. 
 
 Russia will take part in naval military exercises together with its Asia Pacific allies, according to Russian Deputy Defense Minister Anatoly Antonov.
 
 
-### Source:
+### Sources:
 
 1. [RT](http://rt.com/news/263533-rusia-multinational-navy-drills/)
 1. [Cover Image](https://img.rt.com/files/news/40/56/d0/00/russia-announces-joint-navy-drills-with-china-in-disputed-sea.si.jpg)

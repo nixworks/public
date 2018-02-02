@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/13/a-japanese-economist-and-ex-professor-at-the-graduate-school-of-waseda-university-kazuhide-uekusa-is-arrested-for-molesting-a-high-school-g.html)  [JSON](/news/2006/09/13/a-japanese-economist-and-ex-professor-at-the-graduate-school-of-waseda-university-kazuhide-uekusa-is-arrested-for-molesting-a-high-school-g.json)  [XML](/news/2006/09/13/a-japanese-economist-and-ex-professor-at-the-graduate-school-of-waseda-university-kazuhide-uekusa-is-arrested-for-molesting-a-high-school-g.xml)  
+
 ### [2006-09-13](/news/2006/09/13/index.md)
 
+##### Japan
 #  A Japanese economist and ex-professor at the graduate school of Waseda University Kazuhide Uekusa is arrested for molesting a high school girl on a train in Tokyo.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Japundit](http://japundit.com/archives/2006/09/14/3517/)
 

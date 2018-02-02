@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/8/the-european-central-bank-reduces-interest-rates-to-1.html)  [JSON](/news/2011/12/8/the-european-central-bank-reduces-interest-rates-to-1.json)  [XML](/news/2011/12/8/the-european-central-bank-reduces-interest-rates-to-1.xml)  
+
 ### [2011-12-8](/news/2011/12/8/index.md)
 
+##### European Central Bank
 # The European Central Bank reduces interest rates to 1%. 
 
 The European Central Bank cuts interest rates back to their historic low of 1%, as expected by financial markets.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-16091891)
 1. [Cover Image](http://playlists.bbc.co.uk/news/business-16091891A/playlist.sxml)

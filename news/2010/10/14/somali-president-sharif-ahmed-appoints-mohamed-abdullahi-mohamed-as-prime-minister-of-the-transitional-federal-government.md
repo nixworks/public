@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/14/somali-president-sharif-ahmed-appoints-mohamed-abdullahi-mohamed-as-prime-minister-of-the-transitional-federal-government.html)  [JSON](/news/2010/10/14/somali-president-sharif-ahmed-appoints-mohamed-abdullahi-mohamed-as-prime-minister-of-the-transitional-federal-government.json)  [XML](/news/2010/10/14/somali-president-sharif-ahmed-appoints-mohamed-abdullahi-mohamed-as-prime-minister-of-the-transitional-federal-government.xml)  
+
 ### [2010-10-14](/news/2010/10/14/index.md)
 
+##### Somalia
 # Somali President Sharif Ahmed appoints Mohamed Abdullahi Mohamed as Prime Minister of the Transitional Federal Government. 
 
 Sharif Ahmed names Mohamed Abdullahi Mohamed as new prime minister of the transitional government.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/10/20101014151118984278.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/14/20101014181915485472_20.jpg)

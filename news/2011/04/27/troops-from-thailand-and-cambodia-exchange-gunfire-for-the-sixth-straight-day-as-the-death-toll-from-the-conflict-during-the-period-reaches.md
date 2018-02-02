@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/27/troops-from-thailand-and-cambodia-exchange-gunfire-for-the-sixth-straight-day-as-the-death-toll-from-the-conflict-during-the-period-reaches.html)  [JSON](/news/2011/04/27/troops-from-thailand-and-cambodia-exchange-gunfire-for-the-sixth-straight-day-as-the-death-toll-from-the-conflict-during-the-period-reaches.json)  [XML](/news/2011/04/27/troops-from-thailand-and-cambodia-exchange-gunfire-for-the-sixth-straight-day-as-the-death-toll-from-the-conflict-during-the-period-reaches.xml)  
+
 ### [2011-04-27](/news/2011/04/27/index.md)
 
+##### Thailand
 # Troops from Thailand and Cambodia exchange gunfire for the sixth straight day as the death toll from the conflict during the period reaches fourteen. 
 
 Troops from Thailand and Cambodia exchange fire again along their disputed border, as the death toll from six days of conflict rises to 14.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13205168)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52357000/jpg/_52357855_011839874-1.jpg)

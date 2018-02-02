@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/24/the-chilean-army-buries-24-of-46-conscripts-that-died-in-a-snow-storm-in-the-andes-presidential-candidates-have-called-for-an-end-to-compu.html)  [JSON](/news/2005/05/24/the-chilean-army-buries-24-of-46-conscripts-that-died-in-a-snow-storm-in-the-andes-presidential-candidates-have-called-for-an-end-to-compu.json)  [XML](/news/2005/05/24/the-chilean-army-buries-24-of-46-conscripts-that-died-in-a-snow-storm-in-the-andes-presidential-candidates-have-called-for-an-end-to-compu.xml)  
+
 ### [2005-05-24](/news/2005/05/24/index.md)
 
+##### Chile
 #  The Chilean army buries 24 of 46 conscripts that died in a snow storm in the Andes. Presidential candidates have called for an end to compulsory military service. 13 bodies still unfound.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4574309.stm)
 2. [SantiagoTimes](http://www.tcgnews.com/santiagotimes/index.php?nav=story&story_id=9138&topic_id=1)
@@ -13,7 +17,7 @@
 ### Related:
 
 1. [ Reports say that five corpses are found and 200 men are safe in a high mountain encampment in the Andes after a Chilean Army instruction raid got hit by a severe storm. 47 recruits are missing and temperatures drop to -15C (5F) in the area. [http:--www.alertnet.org-thenews-newsdesk-N20573494.htm (Reuters)] (Link dead as of 02:43, 15 January 2007 (UTC))](/news/2005/05/20/reports-say-that-five-corpses-are-found-and-200-men-are-safe-in-a-high-mountain-encampment-in-the-andes-after-a-chilean-army-instruction-ra.md) _Context: Andes, Chile_
-2. [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both same-gender and different-gender couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md) _Context: Chile_
-3. [A group of people are arrested in the Peruvian village of Muqui, located in the Andes, after they painted a wall with allusive symbols and messages to the far-left terrorist organization, Shining Path, responsible for crimes against humanity in Peru from 1980 to 1992. Police later clarified that the true intentions of the arrested, some of them students of a technical training institute, were to make a short film. ](/news/2017/07/5/a-group-of-people-are-arrested-in-the-peruvian-village-of-muqui-located-in-the-andes-after-they-painted-a-wall-with-allusive-symbols-and-m.md) _Context: Andes_
-4. [Four people are killed as intense rains and snowstorms hit central and southern Chile. About 3,000 people are homeless, and hundreds of thousands have lost power. ](/news/2017/06/17/four-people-are-killed-as-intense-rains-and-snowstorms-hit-central-and-southern-chile-about-3-000-people-are-homeless-and-hundreds-of-thou.md) _Context: Chile_
-5. [Construction begins on the European Extremely Large Telescope (ELT) in northern Chile. The ELT is expected to become operational in 2024. ](/news/2017/05/26/construction-begins-on-the-european-extremely-large-telescope-elt-in-northern-chile-the-elt-is-expected-to-become-operational-in-2024.md) _Context: Chile_
+2. [The 11 remaining countries aiming to create the Trans-Pacific Partnership after the Unites States' withdrawal announce that they will sign an agreement in Chile this March. ](/news/2018/01/23/the-11-remaining-countries-aiming-to-create-the-trans-pacific-partnership-after-the-unites-states-withdrawal-announce-that-they-will-sign-a.md) _Context: Chile_
+3. [Five people are killed and at least 15 missing in a mudslide in Villa Santa Lucia, a remote village in southern Chile, after more than 4.5 inches (11.4 cm) of rain the previous 24 hours. President Michelle Bachelet declares a state of emergency. Sunday is the run-off election for Chile's next president. ](/news/2017/12/16/five-people-are-killed-and-at-least-15-missing-in-a-mudslide-in-villa-santa-lucaa-a-remote-village-in-southern-chile-after-more-than-4-5.md) _Context: Chile_
+4. [Voters in Chile head to the polls to elect a president, as well as positions in the Senate, the Chamber of Deputies, as well as regional boards. ](/news/2017/11/19/voters-in-chile-head-to-the-polls-to-elect-a-president-as-well-as-positions-in-the-senate-the-chamber-of-deputies-as-well-as-regional-boa.md) _Context: Chile_
+5. [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both same-gender and different-gender couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md) _Context: Chile_

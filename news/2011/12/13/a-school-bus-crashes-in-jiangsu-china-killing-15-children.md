@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/12/13/a-school-bus-crashes-in-jiangsu-china-killing-15-children.html)  [JSON](/news/2011/12/13/a-school-bus-crashes-in-jiangsu-china-killing-15-children.json)  [XML](/news/2011/12/13/a-school-bus-crashes-in-jiangsu-china-killing-15-children.xml)  
+
 ### [2011-12-13](/news/2011/12/13/index.md)
 
+##### Jiangsu
 # A school bus crashes in Jiangsu, China, killing 15 children. 
 
 A school bus ferrying students home from a primary school in rural China rolled into an irrigation canal, killing 15 children and injuring 8 others, officials said.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2011/12/14/world/asia/school-bus-crash-in-china-kills-15-children.html)
+1. [The New York Times](https://www.nytimes.com/2011/12/14/world/asia/school-bus-crash-in-china-kills-15-children.html)
 2. [Xinhua](http://news.xinhuanet.com/english/china/2011-12/13/c_131302470.htm)
 2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 

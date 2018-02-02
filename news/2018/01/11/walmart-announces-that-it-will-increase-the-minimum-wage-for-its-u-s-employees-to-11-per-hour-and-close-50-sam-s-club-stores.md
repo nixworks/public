@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/11/walmart-announces-that-it-will-increase-the-min
 
 ### [2018-01-11](/news/2018/01/11/index.md)
 
+##### Walmart employee wages
 # Walmart announces that it will increase the minimum wage for its U.S. employees to $11 per hour and close 50 Sam's Club stores. 
 
 

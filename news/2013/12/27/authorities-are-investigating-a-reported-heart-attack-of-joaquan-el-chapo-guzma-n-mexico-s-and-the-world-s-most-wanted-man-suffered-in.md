@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/27/authorities-are-investigating-a-reported-heart-attack-of-joaquan-el-chapo-guzma-n-mexico-s-and-the-world-s-most-wanted-man-suffered-in.html)  [JSON](/news/2013/12/27/authorities-are-investigating-a-reported-heart-attack-of-joaquan-el-chapo-guzma-n-mexico-s-and-the-world-s-most-wanted-man-suffered-in.json)  [XML](/news/2013/12/27/authorities-are-investigating-a-reported-heart-attack-of-joaquan-el-chapo-guzma-n-mexico-s-and-the-world-s-most-wanted-man-suffered-in.xml)  
+
 ### [2013-12-27](/news/2013/12/27/index.md)
 
+##### Joaquin Guzman Loera
 # Authorities are investigating a reported heart attack of Joaquin "El Chapo" Guzman, Mexico's and the world's most-wanted man, suffered in November. 
 
 World s most wanted drug lord, authorities believe, was treated at a private hospital in Mexico
 
 
-### Source:
+### Sources:
 
 1. [San Diego Red](http://www.sandiegored.com/noticias/46742/Joaquin-El-Chapo-Guzman-might-have-suffered-a-heart-attack/)
 1. [Cover Image](http://edgecast.sdr-files.buscafs.com/uploads/news/thumbs/news_thumb_46742_125.jpg?1)

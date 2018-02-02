@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/20/canadian-liberal-leadership-race-early-numbers-from-delegate-selection-elections-within-the-liberal-party-confirm-paul-martin-will-win-an.html)  [JSON](/news/2003/09/20/canadian-liberal-leadership-race-early-numbers-from-delegate-selection-elections-within-the-liberal-party-confirm-paul-martin-will-win-an.json)  [XML](/news/2003/09/20/canadian-liberal-leadership-race-early-numbers-from-delegate-selection-elections-within-the-liberal-party-confirm-paul-martin-will-win-an.xml)  
+
 ### [2003-09-20](/news/2003/09/20/index.md)
 
+##### Liberal Party's
 #  Canadian Liberal Leadership Race: Early numbers from delegate-selection elections within the Liberal Party confirm Paul Martin will win an automatic first-round victory at the forthcoming leadership convention. Barring unforeseen circumstances, Martin can now be expected to become Canada's 21st Prime Minister in February 2004.
 
 

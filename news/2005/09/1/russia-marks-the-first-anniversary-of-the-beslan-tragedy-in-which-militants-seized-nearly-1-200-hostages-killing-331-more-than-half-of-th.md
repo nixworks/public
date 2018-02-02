@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/1/russia-marks-the-first-anniversary-of-the-beslan-tragedy-in-which-militants-seized-nearly-1-200-hostages-killing-331-more-than-half-of-th.html)  [JSON](/news/2005/09/1/russia-marks-the-first-anniversary-of-the-beslan-tragedy-in-which-militants-seized-nearly-1-200-hostages-killing-331-more-than-half-of-th.json)  [XML](/news/2005/09/1/russia-marks-the-first-anniversary-of-the-beslan-tragedy-in-which-militants-seized-nearly-1-200-hostages-killing-331-more-than-half-of-th.xml)  
+
 ### [2005-09-1](/news/2005/09/1/index.md)
 
+##### Beslan
 #  Russia marks the first anniversary of the Beslan tragedy in which militants seized nearly 1,200 hostages, killing 331, more than half of them children. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-5248562,00.html)
 

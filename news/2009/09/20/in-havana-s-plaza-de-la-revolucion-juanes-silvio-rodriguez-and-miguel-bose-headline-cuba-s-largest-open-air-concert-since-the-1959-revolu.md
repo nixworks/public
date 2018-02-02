@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/20/in-havana-s-plaza-de-la-revolucion-juanes-silvio-rodriguez-and-miguel-bose-headline-cuba-s-largest-open-air-concert-since-the-1959-revolu.html)  [JSON](/news/2009/09/20/in-havana-s-plaza-de-la-revolucion-juanes-silvio-rodriguez-and-miguel-bose-headline-cuba-s-largest-open-air-concert-since-the-1959-revolu.json)  [XML](/news/2009/09/20/in-havana-s-plaza-de-la-revolucion-juanes-silvio-rodriguez-and-miguel-bose-headline-cuba-s-largest-open-air-concert-since-the-1959-revolu.xml)  
+
 ### [2009-09-20](/news/2009/09/20/index.md)
 
+##### Havana
 #  In Havana's Plaza de la Revolucin, Juanes, Silvio Rodrguez and Miguel Bos headline Cuba's largest open-air concert since the 1959 Revolution. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jjPq22GvQrQscxHfi5FGRTLOAlMgD9AR6CH00)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8265177.stm)

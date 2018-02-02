@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/13/in-a-televised-address-to-the-nation-kenyan-president-mwai-kibaki-announces-the-resignations-of-two-government-ministers-in-connection-wit.html)  [JSON](/news/2006/02/13/in-a-televised-address-to-the-nation-kenyan-president-mwai-kibaki-announces-the-resignations-of-two-government-ministers-in-connection-wit.json)  [XML](/news/2006/02/13/in-a-televised-address-to-the-nation-kenyan-president-mwai-kibaki-announces-the-resignations-of-two-government-ministers-in-connection-wit.xml)  
+
 ### [2006-02-13](/news/2006/02/13/index.md)
 
+##### Kenya
 #  In a televised address to the nation, Kenyan President Mwai Kibaki announces the resignations of two government ministers in connection with two separate corruption scandals, the "Goldenberg" and "Anglo Leasing" affairs. Energy minister Kiraitu Murungi and education minister George Saitoti both deny any wrongdoing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4711546.stm)
 

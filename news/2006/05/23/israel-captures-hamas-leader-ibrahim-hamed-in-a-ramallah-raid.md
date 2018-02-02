@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/23/israel-captures-hamas-leader-ibrahim-hamed-in-a-ramallah-raid.html)  [JSON](/news/2006/05/23/israel-captures-hamas-leader-ibrahim-hamed-in-a-ramallah-raid.json)  [XML](/news/2006/05/23/israel-captures-hamas-leader-ibrahim-hamed-in-a-ramallah-raid.xml)  
+
 ### [2006-05-23](/news/2006/05/23/index.md)
 
+##### Israel
 #  Israel captures Hamas leader Ibrahim Hamed in a Ramallah raid. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5007242.stm)
 

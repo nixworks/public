@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/24/opposition-parties-in-ireland-are-to-hold-crisis-talks-to-bring-down-the-brian-cowen-led-government-after-the-green-party-pulled-out-of-gove.html)  [JSON](/news/2011/01/24/opposition-parties-in-ireland-are-to-hold-crisis-talks-to-bring-down-the-brian-cowen-led-government-after-the-green-party-pulled-out-of-gove.json)  [XML](/news/2011/01/24/opposition-parties-in-ireland-are-to-hold-crisis-talks-to-bring-down-the-brian-cowen-led-government-after-the-green-party-pulled-out-of-gove.xml)  
+
 ### [2011-01-24](/news/2011/01/24/index.md)
 
+##### Brian Cowen
 # Opposition parties in Ireland are to hold crisis talks to bring down the Brian Cowen-led government after the Green Party pulled out of government yesterday; Fianna Fail no longer has a leader and it no longer has a coalition partner. 
 
 The Irish government and opposition agree a timetable on passing the vital finance bill and dissolving parliament, with elections likely on 25 February.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12263872)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

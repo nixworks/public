@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/10/the-mv-spice-islander-i-a-passenger-ferry-sinks-off-the-coast-of-zanzibar-leaving-at-least-187-people-dead.html)  [JSON](/news/2011/09/10/the-mv-spice-islander-i-a-passenger-ferry-sinks-off-the-coast-of-zanzibar-leaving-at-least-187-people-dead.json)  [XML](/news/2011/09/10/the-mv-spice-islander-i-a-passenger-ferry-sinks-off-the-coast-of-zanzibar-leaving-at-least-187-people-dead.xml)  
+
 ### [2011-09-10](/news/2011/09/10/index.md)
 
+##### MV ''Spice Islander I''
 # The MV "Spice Islander I", a passenger ferry, sinks off the coast of Zanzibar, leaving at least 187 people dead. 
 
 At least 187 people are killed, but 620 are rescued after a ship carrying at least 800 people sinks near the Tanzanian island of Zanzibar.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-14864400)
 2. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/tanzania/8754213/350-missing-as-ferry-capsizes-in-Tanzania.html)

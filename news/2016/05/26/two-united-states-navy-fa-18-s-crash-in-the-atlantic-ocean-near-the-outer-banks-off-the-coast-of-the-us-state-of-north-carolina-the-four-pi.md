@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/26/two-united-states-navy-fa-18-s-crash-in-the-atl
 
 ### [2016-05-26](/news/2016/05/26/index.md)
 
+##### United States Navy
 # Two United States Navy FA-18's crash in the Atlantic Ocean near the Outer Banks off the coast of the US state of North Carolina. The four pilots safely ejected from the planes and are being examined in Sentara Norfolk General Hospital in Virginia. 
 
 The jets were assigned to Strike Fighter Squadron 211 at Oceana Naval Air Station and were on a routine training mission when the crash occurred, the Navy said in a
@@ -20,4 +21,4 @@ The jets were assigned to Strike Fighter Squadron 211 at Oceana Naval Air Statio
 2. [The U.S. states of North Carolina and Virginia declare a state of emergency over gas shortages as a result of the Colonial pipeline leak in Shelby County, Alabama. ](/news/2016/09/19/the-u-s-states-of-north-carolina-and-virginia-declare-a-state-of-emergency-over-gas-shortages-as-a-result-of-the-colonial-pipeline-leak-in.md) _Context: North Carolina, Virginia_
 3. [Tropical Storm Arthur heads towards the US coast with a hurricane warning in place for the state of North Carolina. A mandatory evacuation is ordered for Hatteras Island in the Outer Banks. ](/news/2014/07/2/tropical-storm-arthur-heads-towards-the-us-coast-with-a-hurricane-warning-in-place-for-the-state-of-north-carolina-a-mandatory-evacuation-i.md) _Context: North Carolina, Outer Banks_
 4. [Three people are killed and more than 25 people are injured in a 100-vehicle pileup near the Virginia-North Carolina border. ](/news/2013/03/31/three-people-are-killed-and-more-than-25-people-are-injured-in-a-100-vehicle-pileup-near-the-virginia-north-carolina-border.md) _Context: North Carolina, Virginia_
-5. [A United States Navy FA-18 Hornet crashes into an apartment complex in the US city of Virginia Beach, Virginia with minimal injuries and no fatalities. ](/news/2012/04/6/a-united-states-navy-fa-18-hornet-crashes-into-an-apartment-complex-in-the-us-city-of-virginia-beach-virginia-with-minimal-injuries-and-no.md) _Context: U.S. Navy, Virginia_
+5. [A United States Navy FA-18 Hornet crashes into an apartment complex in the US city of Virginia Beach, Virginia with minimal injuries and no fatalities. ](/news/2012/04/6/a-united-states-navy-fa-18-hornet-crashes-into-an-apartment-complex-in-the-us-city-of-virginia-beach-virginia-with-minimal-injuries-and-no.md) _Context: United States Navy, Virginia_

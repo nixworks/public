@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/11/6/john-jordan-lewis-is-arrested-by-the-miami-dade-police-department-for-the-killing-of-police-officer-charles-cassidy-at-a-dunkin-donuts-s.html)  [JSON](/news/2007/11/6/john-jordan-lewis-is-arrested-by-the-miami-dade-police-department-for-the-killing-of-police-officer-charles-cassidy-at-a-dunkin-donuts-s.json)  [XML](/news/2007/11/6/john-jordan-lewis-is-arrested-by-the-miami-dade-police-department-for-the-killing-of-police-officer-charles-cassidy-at-a-dunkin-donuts-s.xml)  
+
 ### [2007-11-6](/news/2007/11/6/index.md)
 
+##### Miami-Dade Police Department
 #  John "Jordan" Lewis is arrested by the Miami-Dade Police Department for the killing of Police Officer Charles Cassidy at a Dunkin' Donuts shop in the East Oak Lane section of Philadelphia on October 31, 2007. [http:--www.philly.com-dailynews-breaking-news-John_Lewis_arrested.html]
 
 

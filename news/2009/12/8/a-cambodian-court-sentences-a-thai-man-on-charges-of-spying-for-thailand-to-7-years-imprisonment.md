@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/8/a-cambodian-court-sentences-a-thai-man-on-charges-of-spying-for-thailand-to-7-years-imprisonment.html)  [JSON](/news/2009/12/8/a-cambodian-court-sentences-a-thai-man-on-charges-of-spying-for-thailand-to-7-years-imprisonment.json)  [XML](/news/2009/12/8/a-cambodian-court-sentences-a-thai-man-on-charges-of-spying-for-thailand-to-7-years-imprisonment.xml)  
+
 ### [2009-12-8](/news/2009/12/8/index.md)
 
+##### Cambodia
 #  A Cambodian court sentences a Thai man on charges of spying for Thailand to 7 years imprisonment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Financial Times](http://www.ft.com/cms/s/0/aca4612e-e405-11de-b2a9-00144feab49a.html)
 2. [Thai News Agency](http://enews.mcot.net/view.php?id=13176)

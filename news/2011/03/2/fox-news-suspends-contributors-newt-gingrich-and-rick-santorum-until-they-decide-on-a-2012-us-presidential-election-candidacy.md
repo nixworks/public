@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/2/fox-news-suspends-contributors-newt-gingrich-and-rick-santorum-until-they-decide-on-a-2012-us-presidential-election-candidacy.html)  [JSON](/news/2011/03/2/fox-news-suspends-contributors-newt-gingrich-and-rick-santorum-until-they-decide-on-a-2012-us-presidential-election-candidacy.json)  [XML](/news/2011/03/2/fox-news-suspends-contributors-newt-gingrich-and-rick-santorum-until-they-decide-on-a-2012-us-presidential-election-candidacy.xml)  
+
 ### [2011-03-2](/news/2011/03/2/index.md)
 
+##### Fox News
 # Fox News suspends contributors Newt Gingrich and Rick Santorum until they decide on a 2012 US presidential election candidacy. 
 
 They&#39;re off the payroll until they decide about 2012.
 
 
-### Source:
+### Sources:
 
 1. [Politico](http://www.politico.com/news/stories/0311/50505.html)
 1. [Cover Image](http://s3-origin-images.politico.com/news/110302_gingrich_santorum_ap_328.jpg)

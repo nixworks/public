@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/12/it-is-announced-that-on-may-3-gulzar-will-be-awarded-dadasaheb-phalke-award-the-highest-award-in-indian-cinema.html)  [JSON](/news/2014/04/12/it-is-announced-that-on-may-3-gulzar-will-be-awarded-dadasaheb-phalke-award-the-highest-award-in-indian-cinema.json)  [XML](/news/2014/04/12/it-is-announced-that-on-may-3-gulzar-will-be-awarded-dadasaheb-phalke-award-the-highest-award-in-indian-cinema.xml)  
+
 ### [2014-04-12](/news/2014/04/12/index.md)
 
+##### Gulzar
 # It is announced that, on May 3, Gulzar will be awarded Dadasaheb Phalke Award, the highest award in Indian cinema. 
 
 Fifty years after he started his creative journey, Sampooran Singh Kalra, better known as Gulzar, is now a contented man, happy that he has been honoured for his entire body of work with a Dadasaheb Phalke award.
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/entertainment/music/gulzar-gets-phalke-award-says-it-s-better-than-oscar/article1-1207517.aspx)
 2. [The Times of India](http://m.timesofindia.com/city/mumbai/Gulzar-Bollywoods-favourite-lyricist-wins-Dadasaheb-Phalke-award/articleshow/33670936.cms)

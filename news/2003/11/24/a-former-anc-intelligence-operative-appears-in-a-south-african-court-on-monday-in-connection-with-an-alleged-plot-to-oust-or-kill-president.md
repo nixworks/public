@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/24/a-former-anc-intelligence-operative-appears-in-a-south-african-court-on-monday-in-connection-with-an-alleged-plot-to-oust-or-kill-president.html)  [JSON](/news/2003/11/24/a-former-anc-intelligence-operative-appears-in-a-south-african-court-on-monday-in-connection-with-an-alleged-plot-to-oust-or-kill-president.json)  [XML](/news/2003/11/24/a-former-anc-intelligence-operative-appears-in-a-south-african-court-on-monday-in-connection-with-an-alleged-plot-to-oust-or-kill-president.xml)  
+
 ### [2003-11-24](/news/2003/11/24/index.md)
 
+##### African National Congress
 #  A former ANC intelligence operative appears in a South African Court on Monday in connection with an alleged plot to oust or kill President Thabo Mbeki.
 
 

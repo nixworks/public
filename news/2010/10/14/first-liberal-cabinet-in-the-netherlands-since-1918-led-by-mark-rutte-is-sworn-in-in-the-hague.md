@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2010/10/14/first-liberal-cabinet-in-the-netherlands-since-1918-led-by-mark-rutte-is-sworn-in-in-the-hague.html)  [JSON](/news/2010/10/14/first-liberal-cabinet-in-the-netherlands-since-1918-led-by-mark-rutte-is-sworn-in-in-the-hague.json)  [XML](/news/2010/10/14/first-liberal-cabinet-in-the-netherlands-since-1918-led-by-mark-rutte-is-sworn-in-in-the-hague.xml)  
+
 ### [2010-10-14](/news/2010/10/14/index.md)
 
+##### Netherlands
 # First liberal cabinet in the Netherlands since 1918, led by Mark Rutte, is sworn in in The Hague.
 
 

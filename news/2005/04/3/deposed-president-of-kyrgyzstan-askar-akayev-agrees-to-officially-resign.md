@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/04/3/deposed-president-of-kyrgyzstan-askar-akayev-agrees-to-officially-resign.html)  [JSON](/news/2005/04/3/deposed-president-of-kyrgyzstan-askar-akayev-agrees-to-officially-resign.json)  [XML](/news/2005/04/3/deposed-president-of-kyrgyzstan-askar-akayev-agrees-to-officially-resign.xml)  
+
 ### [2005-04-3](/news/2005/04/3/index.md)
 
+##### Kyrgyzstan
 #  Deposed president of Kyrgyzstan Askar Akayev agrees to officially resign. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [IHT](http://www.iht.com/articles/2005/04/03/news/resign.html)
 2. [Moscow Times](http://www.themoscowtimes.com/stories/2005/04/04/015.html)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8069867)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8069867)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

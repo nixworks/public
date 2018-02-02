@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/12/19/samsung-electronics-announces-it-has-filed-new-claims-of-patent-infringement-against-apple-in-germany-raising-the-stakes-in-an-ongoing-worl.html)  [JSON](/news/2011/12/19/samsung-electronics-announces-it-has-filed-new-claims-of-patent-infringement-against-apple-in-germany-raising-the-stakes-in-an-ongoing-worl.json)  [XML](/news/2011/12/19/samsung-electronics-announces-it-has-filed-new-claims-of-patent-infringement-against-apple-in-germany-raising-the-stakes-in-an-ongoing-worl.xml)  
+
 ### [2011-12-19](/news/2011/12/19/index.md)
 
+##### Samsung
 # Samsung Electronics announces it has filed new claims of patent infringement against Apple in Germany, raising the stakes in an ongoing worldwide patent war. 
 
 Samsung Electronics has filed new claims in its patent war with Apple Inc over alleged patent infringements in Germany, a spokesman for the company said on Monday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/12/19/us-samsung-apple-patent-idUSTRE7BI07Y20111219)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111219&t=2&i=548477827&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BI0B3100)
+1. [Reuters](https://www.reuters.com/article/2011/12/19/us-samsung-apple-patent-idUSTRE7BI07Y20111219)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111219&t=2&i=548477827&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BI0B3100)
 
 ### Related:
 

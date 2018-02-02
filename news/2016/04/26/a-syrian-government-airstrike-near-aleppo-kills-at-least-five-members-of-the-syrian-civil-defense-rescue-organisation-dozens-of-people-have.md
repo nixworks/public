@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/26/a-syrian-government-airstrike-near-aleppo-kills
 
 ### [2016-04-26](/news/2016/04/26/index.md)
 
+##### Syrian Civil War
 # A Syrian government airstrike near Aleppo kills at least five members of the Syrian Civil Defense rescue organisation. Dozens of people have been killed in Aleppo over the past few days from government airstrikes and opposition bombardment. 
 
 Attacks by government forces and rebels killed at least 30 people, including eight children, in the last 24 hours in Aleppo, a city seeing some of the worst of a renewed escalation in the Syrian war, a monitoring group said.

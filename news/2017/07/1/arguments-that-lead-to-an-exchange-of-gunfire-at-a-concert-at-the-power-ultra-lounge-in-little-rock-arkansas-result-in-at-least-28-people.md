@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/1/arguments-that-lead-to-an-exchange-of-gunfire-at
 
 ### [2017-07-1](/news/2017/07/1/index.md)
 
+##### Little Rock nightclub shooting
 # Arguments that lead to an exchange of gunfire at a concert at the Power Ultra Lounge in Little Rock, Arkansas, result in at least 28 people injured, one hospitalized in stable condition. 
 
 Clubgoers screamed and scrambled for cover as dozens of gunshots rang out during a rap concert in downtown Little Rock overnight, leaving 28 people injured from an 11-second melee that police said may be gang- related. 

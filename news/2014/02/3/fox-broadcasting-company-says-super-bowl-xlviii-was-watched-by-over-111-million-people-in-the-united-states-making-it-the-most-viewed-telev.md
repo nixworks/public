@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/3/fox-broadcasting-company-says-super-bowl-xlviii-was-watched-by-over-111-million-people-in-the-united-states-making-it-the-most-viewed-telev.html)  [JSON](/news/2014/02/3/fox-broadcasting-company-says-super-bowl-xlviii-was-watched-by-over-111-million-people-in-the-united-states-making-it-the-most-viewed-telev.json)  [XML](/news/2014/02/3/fox-broadcasting-company-says-super-bowl-xlviii-was-watched-by-over-111-million-people-in-the-united-states-making-it-the-most-viewed-telev.xml)  
+
 ### [2014-02-3](/news/2014/02/3/index.md)
 
+##### Fox Broadcasting Company
 # Fox Broadcasting Company says Super Bowl XLVIII was watched by over 111 million people in the United States, making it the most viewed television event in U.S. history. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Headline](http://www.deadline.com/2014/02/super-bowl-tv-ratings-seattle-seahawks-denver-broncos/)
 

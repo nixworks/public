@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/20/severe-storms-from-the-weather-system-that-hit-
 
 ### [2017-02-20](/news/2017/02/20/index.md)
 
+##### Southern California
 # Severe storms, from the weather system that hit Southern California Friday, reach southwest Texas injuring several people and damaging at least 100 homes with one confirmed tornado in San Antonio. Heavy rains continue today with flash floods likely as the storm moves to eastern Texas and southern Louisiana. 
 
 Here&#039;s the latest on severe weather that hit the Lone Star State late Sunday into early Monday.

@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2012/09/17/ugandan-police-release-theatre-producer-david-cecil-on-bail-after-charging-him-in-connection-with-the-staging-of-the-river-and-the-mountain.html)  [JSON](/news/2012/09/17/ugandan-police-release-theatre-producer-david-cecil-on-bail-after-charging-him-in-connection-with-the-staging-of-the-river-and-the-mountain.json)  [XML](/news/2012/09/17/ugandan-police-release-theatre-producer-david-cecil-on-bail-after-charging-him-in-connection-with-the-staging-of-the-river-and-the-mountain.xml)  
+
 ### [2012-09-17](/news/2012/09/17/index.md)
 
+##### Uganda
 # Ugandan police release theatre producer David Cecil on bail after charging him in connection with the staging of "The River and the Mountain", a play which references homosexuality. His court date is 18 October, with a two year jail sentence possible. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2012/sep/17/uganda-british-producer-gay-play)
+
+### Changes:
+
+1. [Ugandan police release theatre producer David Cecil on bail after charging him in connection with the staging of ''The River and the Mountain'', a play which references homosexuality. His court date is 18 October, with a two year jail sentence possible. ](/news/2012/09/17/ugandan-police-release-theatre-producer-david-cecil-on-bail-after-charging-him-in-connection-with-the-staging-of-the-river-and-the-mountai.md) _2017-08-25 03:36:32 (First version)_
+1. [Ugandan police release theatre producer David Cecil on bail after charging him in connection with the staging of "The River and the Mountain", a play which references homosexuality. His court date is 18 October, with a two year jail sentence possible. ](/news/2012/09/17/ugandan-police-release-theatre-producer-david-cecil-on-bail-after-charging-him-in-connection-with-the-staging-of-the-river-and-the-mountain.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [Several people are attacked in Uganda after a newspaper publishes the names and addresses of homosexuals. ](/news/2010/10/22/several-people-are-attacked-in-uganda-after-a-newspaper-publishes-the-names-and-addresses-of-homosexuals.md) _Context: Uganda, homosexuality_
 4. [The Ugandan death penalty for homosexuality may be declared "not necessary". ](/news/2010/01/8/the-ugandan-death-penalty-for-homosexuality-may-be-declared-not-necessary.md) _Context: Uganda, homosexuality_
 5. [Ugandan President Yoweri Museveni urges the government to reconsider the anti-homosexuality bill being debated due to "foreign policy issues". ](/news/2010/01/13/ugandan-president-yoweri-museveni-urges-the-government-to-reconsider-the-anti-homosexuality-bill-being-debated-due-to-foreign-policy-issues.md) _Context: Uganda, homosexuality_
-
-### Changes:
-
-1. [Ugandan police release theatre producer David Cecil on bail after charging him in connection with the staging of ''The River and the Mountain'', a play which references homosexuality. His court date is 18 October, with a two year jail sentence possible. ](/news/2012/09/17/ugandan-police-release-theatre-producer-david-cecil-on-bail-after-charging-him-in-connection-with-the-staging-of-the-river-and-the-mountai.md) _2017-08-25 03:36:32 (First version)_
-1. [Ugandan police release theatre producer David Cecil on bail after charging him in connection with the staging of "The River and the Mountain", a play which references homosexuality. His court date is 18 October, with a two year jail sentence possible. ](/news/2012/09/17/ugandan-police-release-theatre-producer-david-cecil-on-bail-after-charging-him-in-connection-with-the-staging-of-the-river-and-the-mountain.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/18/the-hellenic-parliament-elects-prokopis-pavlopoulos-as-the-new-president-of-greece.html)  [JSON](/news/2015/02/18/the-hellenic-parliament-elects-prokopis-pavlopoulos-as-the-new-president-of-greece.json)  [XML](/news/2015/02/18/the-hellenic-parliament-elects-prokopis-pavlopoulos-as-the-new-president-of-greece.xml)  
+
 ### [2015-02-18](/news/2015/02/18/index.md)
 
+##### Hellenic Parliament
 # The Hellenic Parliament elects Prokopis Pavlopoulos as the new President of Greece. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Greek Reporter](http://greece.greekreporter.com/2015/02/18/first-greek-presidential-ballot-results-elect-prokopis-pavlopoulos/)
 1. [Cover Image](http://greece.greekreporter.com/files/Pavlopoylos1.jpg)

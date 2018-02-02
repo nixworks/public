@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/16/tens-of-thousands-of-thai-anti-government-protesters-continue-their-rally-against-the-country-s-current-thai-prime-minister-thaksin-shinawa.html)  [JSON](/news/2006/03/16/tens-of-thousands-of-thai-anti-government-protesters-continue-their-rally-against-the-country-s-current-thai-prime-minister-thaksin-shinawa.json)  [XML](/news/2006/03/16/tens-of-thousands-of-thai-anti-government-protesters-continue-their-rally-against-the-country-s-current-thai-prime-minister-thaksin-shinawa.xml)  
+
 ### [2006-03-16](/news/2006/03/16/index.md)
 
+##### Thailand
 #  Tens of thousands of Thai anti-government protesters continue their rally against the country's current Thai Prime Minister Thaksin Shinawatra today. They also demand his resignation from the post. The opposition leader, Sondhi Limthongkul, declared he and his party would not stop protesting all day and night until the PM resigns. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=reutersEdge&storyID=2006-03-17T100538Z_01_NOA736303_RTRUKOC_0_ANALYSIS-THAI-CRISIS.xml&archived=False)
 

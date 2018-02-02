@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/03/1/one-of-four-bombs-detonated-in-lusaka-zambia-destroys-the-angolan-embassy.html)  [JSON](/news/1999/03/1/one-of-four-bombs-detonated-in-lusaka-zambia-destroys-the-angolan-embassy.json)  [XML](/news/1999/03/1/one-of-four-bombs-detonated-in-lusaka-zambia-destroys-the-angolan-embassy.xml)  
+
 ### [1999-03-1](/news/1999/03/1/index.md)
 
+##### Lusaka
 #  One of four bombs detonated in Lusaka, Zambia, destroys the Angolan Embassy.
 
 

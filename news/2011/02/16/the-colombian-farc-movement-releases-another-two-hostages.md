@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/16/the-colombian-farc-movement-releases-another-two-hostages.html)  [JSON](/news/2011/02/16/the-colombian-farc-movement-releases-another-two-hostages.json)  [XML](/news/2011/02/16/the-colombian-farc-movement-releases-another-two-hostages.xml)  
+
 ### [2011-02-16](/news/2011/02/16/index.md)
 
+##### Colombia
 # The Colombian FARC movement releases another two hostages. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5j3OsbqxYUh7Uj3nukN03GHyo-84Q?docId=CNG.cf88f624a89cb6ef996e074922a948f5.b31)
 

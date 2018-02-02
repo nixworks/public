@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/5/danish-special-forces-storm-a-ship-captured-by-armed-somali-pirates-and-free-the-25-crew-on-board.html)  [JSON](/news/2010/02/5/danish-special-forces-storm-a-ship-captured-by-armed-somali-pirates-and-free-the-25-crew-on-board.json)  [XML](/news/2010/02/5/danish-special-forces-storm-a-ship-captured-by-armed-somali-pirates-and-free-the-25-crew-on-board.xml)  
+
 ### [2010-02-5](/news/2010/02/5/index.md)
 
+##### Danish special forces
 # Danish special forces storm a ship captured by armed Somali pirates and free the 25 crew on board. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Miami Herald](http://www.miamiherald.com/news/world/AP/story/1464412.html)
 

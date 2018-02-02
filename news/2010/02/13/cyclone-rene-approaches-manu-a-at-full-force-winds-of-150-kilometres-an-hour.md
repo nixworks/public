@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/13/cyclone-rene-approaches-manu-a-at-full-force-winds-of-150-kilometres-an-hour.html)  [JSON](/news/2010/02/13/cyclone-rene-approaches-manu-a-at-full-force-winds-of-150-kilometres-an-hour.json)  [XML](/news/2010/02/13/cyclone-rene-approaches-manu-a-at-full-force-winds-of-150-kilometres-an-hour.xml)  
+
 ### [2010-02-13](/news/2010/02/13/index.md)
 
+##### Cyclone Rene
 # Cyclone Rene approaches Manu'a at full force winds of 150 kilometres an hour. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand International](http://www.rnzi.com/pages/news.php?op=read&id=51916)
 

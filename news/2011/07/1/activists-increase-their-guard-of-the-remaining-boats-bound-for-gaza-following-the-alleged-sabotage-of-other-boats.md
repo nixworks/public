@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/1/activists-increase-their-guard-of-the-remaining-boats-bound-for-gaza-following-the-alleged-sabotage-of-other-boats.html)  [JSON](/news/2011/07/1/activists-increase-their-guard-of-the-remaining-boats-bound-for-gaza-following-the-alleged-sabotage-of-other-boats.json)  [XML](/news/2011/07/1/activists-increase-their-guard-of-the-remaining-boats-bound-for-gaza-following-the-alleged-sabotage-of-other-boats.xml)  
+
 ### [2011-07-1](/news/2011/07/1/index.md)
 
+##### 
 # Activists increase their guard of the remaining boats bound for Gaza following the alleged sabotage of other boats. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/indepth/features/2011/07/201171142616817763.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/201171143845732109.html)

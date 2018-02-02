@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/8/the-united-front-for-democratic-change-has-attacked-and-gained-control-of-the-cities-of-haraze-mangueigne-am-timan-and-abou-deia-in-chad.html)  [JSON](/news/2006/04/8/the-united-front-for-democratic-change-has-attacked-and-gained-control-of-the-cities-of-haraze-mangueigne-am-timan-and-abou-deia-in-chad.json)  [XML](/news/2006/04/8/the-united-front-for-democratic-change-has-attacked-and-gained-control-of-the-cities-of-haraze-mangueigne-am-timan-and-abou-deia-in-chad.xml)  
+
 ### [2006-04-8](/news/2006/04/8/index.md)
 
+##### Chadian rebels
 #  The United Front for Democratic Change has attacked and gained control of the cities of Haraze Mangueigne, Am Timan, and Abou-Deia, in Chad. Their initial attack came from northern Central African Republic with the help of the Military of Sudan. This is the largest and most successful attack since the start of the Chadian-Sudanese conflict despite taking only an hour, with only four men injured and none killed because the Chadian military has either fled or refused to fight the rebels. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AlertNet](http://www.alertnet.org/thenews/newsdesk/L09233053.htm)
 

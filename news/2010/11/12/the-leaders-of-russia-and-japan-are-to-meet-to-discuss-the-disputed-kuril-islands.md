@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/12/the-leaders-of-russia-and-japan-are-to-meet-to-discuss-the-disputed-kuril-islands.html)  [JSON](/news/2010/11/12/the-leaders-of-russia-and-japan-are-to-meet-to-discuss-the-disputed-kuril-islands.json)  [XML](/news/2010/11/12/the-leaders-of-russia-and-japan-are-to-meet-to-discuss-the-disputed-kuril-islands.xml)  
+
 ### [2010-11-12](/news/2010/11/12/index.md)
 
+##### Russia
 # The leaders of Russia and Japan are to meet to discuss the disputed Kuril Islands. 
 
 Medvedev and Kan to hold talks in Japanese city amid tensions over territorial dispute.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/11/2010111273530981722.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/12/2010111281121492784_20.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/23/a-strong-weather-system-leaves-damage-in-the-u-s-states-of-california-and-arizona-after-producing-flooding-rains-strong-winds-and-a-rare.html)  [JSON](/news/2010/01/23/a-strong-weather-system-leaves-damage-in-the-u-s-states-of-california-and-arizona-after-producing-flooding-rains-strong-winds-and-a-rare.json)  [XML](/news/2010/01/23/a-strong-weather-system-leaves-damage-in-the-u-s-states-of-california-and-arizona-after-producing-flooding-rains-strong-winds-and-a-rare.xml)  
+
 ### [2010-01-23](/news/2010/01/23/index.md)
 
+##### California
 # A strong weather system leaves damage in the U.S. states of California and Arizona after producing flooding rains, strong winds, and a rare outbreak of tornadoes in the region. 
 
 With forecasters saying tornadoes are a possibility Thursday, some are wondering how unusual such weather conditions are. Less rare than one might think, according to Bill Patzert, a climatologist...
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/US/wireStory?id=9638945)
 2. [Los Angeles Times](http://www.latimes.com/news/local/la-me-tornado-box21-2010jan21,0,2530648.story)

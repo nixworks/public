@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/08/31/former-yugoslav-president-slobodan-miloa-evic-a-university-of-belgrade-faculty-of-law-graduate-opens-his-defence-at-the-trial-which-accus.html)  [JSON](/news/2004/08/31/former-yugoslav-president-slobodan-miloa-evic-a-university-of-belgrade-faculty-of-law-graduate-opens-his-defence-at-the-trial-which-accus.json)  [XML](/news/2004/08/31/former-yugoslav-president-slobodan-miloa-evic-a-university-of-belgrade-faculty-of-law-graduate-opens-his-defence-at-the-trial-which-accus.xml)  
+
 ### [2004-08-31](/news/2004/08/31/index.md)
 
+##### Yugoslavia
 #  Former Yugoslav President Slobodan Milosevic, a University of Belgrade Faculty of Law graduate, opens his defence at the trial which accuses him of genocide, crimes against humanity and war crimes for his alleged role in the conflicts in which tens of thousands were killed. He maintains the charges are 'unscrupulous lies'. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/3613020.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6113423&section=news)
-2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6113423&section=news)
 
 ### Related:
 

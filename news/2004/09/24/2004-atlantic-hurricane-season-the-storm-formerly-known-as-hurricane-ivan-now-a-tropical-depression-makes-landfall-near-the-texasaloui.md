@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/24/2004-atlantic-hurricane-season-the-storm-formerly-known-as-hurricane-ivan-now-a-tropical-depression-makes-landfall-near-the-texasaloui.html)  [JSON](/news/2004/09/24/2004-atlantic-hurricane-season-the-storm-formerly-known-as-hurricane-ivan-now-a-tropical-depression-makes-landfall-near-the-texasaloui.json)  [XML](/news/2004/09/24/2004-atlantic-hurricane-season-the-storm-formerly-known-as-hurricane-ivan-now-a-tropical-depression-makes-landfall-near-the-texasaloui.xml)  
+
 ### [2004-09-24](/news/2004/09/24/index.md)
 
+##### 2004 Atlantic hurricane season
 #  2004 Atlantic hurricane season: The storm formerly known as Hurricane Ivan, now a tropical depression, makes landfall near the Texas-Louisiana border late Thursday night, with maximum sustained winds of 35&nbsp;mph. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/WEATHER/09/23/storms.wrap/index.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/4/35-people-are-arrested-in-mazandran-northern-iran-during-post-election-protests.html)  [JSON](/news/2009/07/4/35-people-are-arrested-in-mazandran-northern-iran-during-post-election-protests.json)  [XML](/news/2009/07/4/35-people-are-arrested-in-mazandran-northern-iran-during-post-election-protests.xml)  
+
 ### [2009-07-4](/news/2009/07/4/index.md)
 
+##### Mazandran
 #  35 people are arrested in Mazandran, northern Iran, during post-election protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://www.presstv.ir/detail.aspx?id=99762&sectionid=351020101)
 

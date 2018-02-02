@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/02/25/serial-killer-dennis-rader-is-arrested.html)  [JSON](/news/2005/02/25/serial-killer-dennis-rader-is-arrested.json)  [XML](/news/2005/02/25/serial-killer-dennis-rader-is-arrested.xml)  
+
 ### [2005-02-25](/news/2005/02/25/index.md)
 
+##### Dennis Rader
 #  Serial killer Dennis Rader is arrested
 
 

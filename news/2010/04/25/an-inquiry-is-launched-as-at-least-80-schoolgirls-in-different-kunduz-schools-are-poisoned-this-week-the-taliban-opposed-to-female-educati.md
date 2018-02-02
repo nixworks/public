@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/25/an-inquiry-is-launched-as-at-least-80-schoolgirls-in-different-kunduz-schools-are-poisoned-this-week-the-taliban-opposed-to-female-educati.html)  [JSON](/news/2010/04/25/an-inquiry-is-launched-as-at-least-80-schoolgirls-in-different-kunduz-schools-are-poisoned-this-week-the-taliban-opposed-to-female-educati.json)  [XML](/news/2010/04/25/an-inquiry-is-launched-as-at-least-80-schoolgirls-in-different-kunduz-schools-are-poisoned-this-week-the-taliban-opposed-to-female-educati.xml)  
+
 ### [2010-04-25](/news/2010/04/25/index.md)
 
+##### Kunduz
 # An inquiry is launched as at least 80 schoolgirls in different Kunduz schools are poisoned this week; the Taliban, opposed to female education, denies any knowledge. 
 
 Dozens of Afghan schoolgirls fell ill after a suspected poison gas attack on their school, local authorities said on Sunday, blaming the incident on the Taliban who oppose education for girls.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8642806.stm)
 2. [Japan Today](http://www.japantoday.com/category/world/view/80-afghan-schoolgirls-sick-in-one-week-poison-feared)

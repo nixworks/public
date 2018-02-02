@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/5/former-deputy-prime-minister-of-poland-andrzej-lepper-is-found-dead-in-what-police-suspect-is-a-suicide-by-hanging.html)  [JSON](/news/2011/08/5/former-deputy-prime-minister-of-poland-andrzej-lepper-is-found-dead-in-what-police-suspect-is-a-suicide-by-hanging.json)  [XML](/news/2011/08/5/former-deputy-prime-minister-of-poland-andrzej-lepper-is-found-dead-in-what-police-suspect-is-a-suicide-by-hanging.xml)  
+
 ### [2011-08-5](/news/2011/08/5/index.md)
 
+##### Deputy Prime Minister of Poland
 # Former Deputy Prime Minister of Poland Andrzej Lepper is found dead in what police suspect is a suicide by hanging. 
 
 A controversial Polish former deputy prime minister who shot to international fame owing to his populist opposition to Poland joining the EU has been found dead, after apparently committing suicide.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/poland/8685015/Polish-former-deputy-prime-minister-commits-suicide.html)
 2. [WBJ](http://www.wbj.pl/article-55568-andrzej-lepper-found-dead-in-his-warsaw-office.html?typ=wbj)

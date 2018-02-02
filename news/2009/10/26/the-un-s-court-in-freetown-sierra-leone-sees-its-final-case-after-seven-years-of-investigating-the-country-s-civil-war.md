@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/26/the-un-s-court-in-freetown-sierra-leone-sees-its-final-case-after-seven-years-of-investigating-the-country-s-civil-war.html)  [JSON](/news/2009/10/26/the-un-s-court-in-freetown-sierra-leone-sees-its-final-case-after-seven-years-of-investigating-the-country-s-civil-war.json)  [XML](/news/2009/10/26/the-un-s-court-in-freetown-sierra-leone-sees-its-final-case-after-seven-years-of-investigating-the-country-s-civil-war.xml)  
+
 ### [2009-10-26](/news/2009/10/26/index.md)
 
+##### United Nations
 #  The UN's court in Freetown, Sierra Leone sees its final case after seven years of investigating the country's civil war. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8325470.stm)
 2. [Ghana Broadcasting Corporation](http://gbcghana.com/news/29141detail.html)

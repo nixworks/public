@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/25/paul-beatty-becomes-the-first-american-author-t
 
 ### [2016-10-25](/news/2016/10/25/index.md)
 
+##### Paul Beatty
 # Paul Beatty becomes the first American author to win the Man Booker Prize for his novel "The Sellout". 
 
 Paul Beatty&#039;s The Sellout, a stinging satire of race and class in the United States, wins the Man Booker Prize.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/26/floods-in-saudi-arabia-kill-around-77-people-in-jeddah-rabigh-and-mecca-and-a-further-351-are-missing-in-the-heaviest-rainfall-in-years.html)  [JSON](/news/2009/11/26/floods-in-saudi-arabia-kill-around-77-people-in-jeddah-rabigh-and-mecca-and-a-further-351-are-missing-in-the-heaviest-rainfall-in-years.json)  [XML](/news/2009/11/26/floods-in-saudi-arabia-kill-around-77-people-in-jeddah-rabigh-and-mecca-and-a-further-351-are-missing-in-the-heaviest-rainfall-in-years.xml)  
+
 ### [2009-11-26](/news/2009/11/26/index.md)
 
+##### Floods in Saudi Arabia
 #  Floods in Saudi Arabia kill around 77 people in Jeddah, Rabigh and Mecca, and a further 351 are missing in the heaviest rainfall in years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iXnnwi-QAtxEShlY_jrXNHDQdIsQ)
 2. [Saudi Gazette](http://www.saudigazette.com.sa/index.cfm?method=home.regcon&contentID=2009112655554)

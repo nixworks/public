@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/29/nine-people-are-killed-in-two-coordinated-attac
 
 ### [2017-12-29](/news/2017/12/29/index.md)
 
+##### Saint Menas church attack
 # Nine people are killed in two coordinated attacks targeting Coptic Christians in Egypt. Two of the victims are killed by a gunman in a Coptic-owned appliance store in the Helwan area of Cairo. The gunman then moves to a church where he kills a further six civilians and a policeman before being arrested. 
 
 Gunmen target a Coptic-owned shop after a deadly attack on a church in the same area south of Cairo.

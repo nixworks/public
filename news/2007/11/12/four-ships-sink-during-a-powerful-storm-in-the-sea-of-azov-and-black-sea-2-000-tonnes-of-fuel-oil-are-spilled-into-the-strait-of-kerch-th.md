@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/12/four-ships-sink-during-a-powerful-storm-in-the-sea-of-azov-and-black-sea-2-000-tonnes-of-fuel-oil-are-spilled-into-the-strait-of-kerch-th.html)  [JSON](/news/2007/11/12/four-ships-sink-during-a-powerful-storm-in-the-sea-of-azov-and-black-sea-2-000-tonnes-of-fuel-oil-are-spilled-into-the-strait-of-kerch-th.json)  [XML](/news/2007/11/12/four-ships-sink-during-a-powerful-storm-in-the-sea-of-azov-and-black-sea-2-000-tonnes-of-fuel-oil-are-spilled-into-the-strait-of-kerch-th.xml)  
+
 ### [2007-11-12](/news/2007/11/12/index.md)
 
+##### Sea of Azov
 #  Four ships sink during a powerful storm in the Sea of Azov and Black Sea. 2,000 tonnes of fuel oil are spilled into the Strait of Kerch. Three sailors die and eight are missing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7090141.stm)
 

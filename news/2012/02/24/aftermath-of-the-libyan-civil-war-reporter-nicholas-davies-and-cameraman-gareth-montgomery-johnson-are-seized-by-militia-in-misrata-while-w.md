@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/24/aftermath-of-the-libyan-civil-war-reporter-nicholas-davies-and-cameraman-gareth-montgomery-johnson-are-seized-by-militia-in-misrata-while-w.html)  [JSON](/news/2012/02/24/aftermath-of-the-libyan-civil-war-reporter-nicholas-davies-and-cameraman-gareth-montgomery-johnson-are-seized-by-militia-in-misrata-while-w.json)  [XML](/news/2012/02/24/aftermath-of-the-libyan-civil-war-reporter-nicholas-davies-and-cameraman-gareth-montgomery-johnson-are-seized-by-militia-in-misrata-while-w.xml)  
+
 ### [2012-02-24](/news/2012/02/24/index.md)
 
+##### Aftermath of the Libyan civil war
 # Aftermath of the Libyan civil war: Reporter Nicholas Davies and cameraman Gareth Montgomery-Johnson are seized by militia in Misrata while working for the English language Press TV news network. Two local residents are also seized. 
 
 World and Arab powers are urging Syria to immediately cease all violence but have not endorsed a military intervention.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gUiIMP4hCawG4iUL5BIHUdZ_guaQ?docId=CNG.334a3ab5dbbad137a80794e6ea91cb8c.271)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-17141305)
@@ -14,6 +18,12 @@ World and Arab powers are urging Syria to immediately cease all violence but hav
 5. [Voice of America](http://www.voanews.com/english/news/middle-east/Tunis-Conference-Aims-to-Pressure-Syrias-Assad-on-Aid-Political-Change-140246613.html)
 5. [Cover Image](http://images.brisbanetimes.com.au/2011/08/09/2545353/facebook-thumb-brisbanetimes.png)
 
+### Changes:
+
+1. [Arab Spring:Aftermath of the Libyan civil war: Reporter Nicholas Davies and cameraman Gareth Montgomery-Johnson are seized by militia in Misrata while working for the English language Press TV news network. Two local residents are also seized. ](/news/2012/02/24/arab-spring-paftermath-of-the-libyan-civil-war-reporter-nicholas-davies-and-cameraman-gareth-montgomery-johnson-are-seized-by-militia-in-mi.md) _2017-08-25 03:35:07 (First version)_
+2. [Arab Spring:: Aftermath of the Libyan civil war: Reporter Nicholas Davies and cameraman Gareth Montgomery-Johnson are seized by militia in Misrata while working for the English language Press TV news network. Two local residents are also seized. ](/news/2012/02/24/arab-spring-aftermath-of-the-libyan-civil-war-reporter-nicholas-davies-and-cameraman-gareth-montgomery-johnson-are-seized-by-militia-in-m.md) _2017-08-27 03:35:17 (Update)_
+2. [Aftermath of the Libyan civil war: Reporter Nicholas Davies and cameraman Gareth Montgomery-Johnson are seized by militia in Misrata while working for the English language Press TV news network. Two local residents are also seized. ](/news/2012/02/24/aftermath-of-the-libyan-civil-war-reporter-nicholas-davies-and-cameraman-gareth-montgomery-johnson-are-seized-by-militia-in-misrata-while-w.md) _(Current version)_
+
 ### Related:
 
 1. [A twin-prop Fairchild Metroliner Mark III light aircraft crashes shortly after takeoff from Malta International Airport, killing all five French nationals on board. Malta officials say that the aircraft was part of a French customs surveillance operation tracing routes of illicit trafficking, of humans and drugs on Libyan coasts, and that the flight was heading for the Libyan city of Misrata. ](/news/2016/10/24/a-twin-prop-fairchild-metroliner-mark-iii-light-aircraft-crashes-shortly-after-takeoff-from-malta-international-airport-killing-all-five-fr.md) _Context: Misrata_
@@ -21,9 +31,3 @@ World and Arab powers are urging Syria to immediately cease all violence but hav
 3. [Aftermath of 2011 Libyan civil war: elements of former anti-Gaddafi forces from Tripoli and Misrata clash in the center of Tripoli, with five people reportedly killed. ](/news/2012/01/3/aftermath-of-2011-libyan-civil-war-elements-of-former-anti-gaddafi-forces-from-tripoli-and-misrata-clash-in-the-center-of-tripoli-with-fiv.md) _Context: Misrata_
 4. [NATO confirms it killed civilians in an airstrike on a residential neighborhood in Tripoli, as Gaddafi's forces uses artillery fire to kill rebels and civilians in Misrata.](/news/2011/06/19/nato-confirms-it-killed-civilians-in-an-airstrike-on-a-residential-neighborhood-in-tripoli-as-gaddafi-s-forces-uses-artillery-fire-to-kill.md) _Context: Misrata_
 5. [The Libyan Armed Forces bomb large fuel storage tanks in the town of Misrata, destroying the tanks and causing a large fire. ](/news/2011/05/7/the-libyan-armed-forces-bomb-large-fuel-storage-tanks-in-the-town-of-misrata-destroying-the-tanks-and-causing-a-large-fire.md) _Context: Misrata_
-
-### Changes:
-
-1. [Arab Spring:Aftermath of the Libyan civil war: Reporter Nicholas Davies and cameraman Gareth Montgomery-Johnson are seized by militia in Misrata while working for the English language Press TV news network. Two local residents are also seized. ](/news/2012/02/24/arab-spring-paftermath-of-the-libyan-civil-war-reporter-nicholas-davies-and-cameraman-gareth-montgomery-johnson-are-seized-by-militia-in-mi.md) _2017-08-25 03:35:07 (First version)_
-2. [Arab Spring:: Aftermath of the Libyan civil war: Reporter Nicholas Davies and cameraman Gareth Montgomery-Johnson are seized by militia in Misrata while working for the English language Press TV news network. Two local residents are also seized. ](/news/2012/02/24/arab-spring-aftermath-of-the-libyan-civil-war-reporter-nicholas-davies-and-cameraman-gareth-montgomery-johnson-are-seized-by-militia-in-m.md) _2017-08-27 03:35:17 (Update)_
-2. [Aftermath of the Libyan civil war: Reporter Nicholas Davies and cameraman Gareth Montgomery-Johnson are seized by militia in Misrata while working for the English language Press TV news network. Two local residents are also seized. ](/news/2012/02/24/aftermath-of-the-libyan-civil-war-reporter-nicholas-davies-and-cameraman-gareth-montgomery-johnson-are-seized-by-militia-in-misrata-while-w.md) _(Current version)_

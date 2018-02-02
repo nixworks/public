@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/24/in-continuing-battles-against-anti-foreigner-violence-in-south-africa-police-shoot-and-kill-one-man-in-johannesburg-the-red-cross-warns-i.html)  [JSON](/news/2008/05/24/in-continuing-battles-against-anti-foreigner-violence-in-south-africa-police-shoot-and-kill-one-man-in-johannesburg-the-red-cross-warns-i.json)  [XML](/news/2008/05/24/in-continuing-battles-against-anti-foreigner-violence-in-south-africa-police-shoot-and-kill-one-man-in-johannesburg-the-red-cross-warns-i.xml)  
+
 ### [2008-05-24](/news/2008/05/24/index.md)
 
+##### South Africa
 #  In continuing battles against anti-foreigner violence in South Africa, police shoot and kill one man in Johannesburg. The Red Cross warns it is struggling to help the thousands of displaced people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5iutYMwOukX6rEOQ_o-T5nNWkTwhA)
 2. [AFP via Google News](http://afp.google.com/article/ALeqM5jHnZ6Uorya_BSquh38JxBFhZgzYQ)

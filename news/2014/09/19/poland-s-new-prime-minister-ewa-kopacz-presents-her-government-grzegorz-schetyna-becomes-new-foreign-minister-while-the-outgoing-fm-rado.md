@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2014/09/19/poland-s-new-prime-minister-ewa-kopacz-presents-her-government-grzegorz-schetyna-becomes-new-foreign-minister-while-the-outgoing-fm-rado.html)  [JSON](/news/2014/09/19/poland-s-new-prime-minister-ewa-kopacz-presents-her-government-grzegorz-schetyna-becomes-new-foreign-minister-while-the-outgoing-fm-rado.json)  [XML](/news/2014/09/19/poland-s-new-prime-minister-ewa-kopacz-presents-her-government-grzegorz-schetyna-becomes-new-foreign-minister-while-the-outgoing-fm-rado.xml)  
+
 ### [2014-09-19](/news/2014/09/19/index.md)
 
+##### Poland
 # Poland's new prime minister, Ewa Kopacz, presents her government; Grzegorz Schetyna becomes new foreign minister, while the outgoing FM Radoslaw Sikorski becomes speaker of the parliament. 
 
 Poland’s Prime Minister-designate Ewa Kopacz has unveiled her new cabinet, days before she is due to take office officially. In comes rival
 
 
-### Source:
+### Sources:
 
 1. [Euronews](http://www.euronews.com/2014/09/19/new-polish-pm-ewa-kopacz-unveils-new-cabinet/)
 1. [Cover Image](http://static.euronews.com/articles/archive/1000x563_archive.jpg)
 
 ### Related:
 
-1. [Official results show Poland's conservative Law and Justice (PiS) party, led by eurosceptic Jaroslaw Kaczynski and the new PM Beata Szydlo, won more seats than any other party in today's general elections. Kaczynski is the twin brother of the late President Lech Kaczynski, who died in a 2010 jet crash. Prime Minister Ewa Kopacz has conceded defeat. ](/news/2015/10/25/official-results-show-poland-s-conservative-law-and-justice-pis-party-led-by-eurosceptic-jarosaaw-kaczyaski-and-the-new-pm-beata-szyda.md) _Context: Ewa Kopacz, Polish_
-2. [Ewa Kopacz becomes Poland's second female prime minister. ](/news/2014/09/15/ewa-kopacz-becomes-poland-s-second-female-prime-minister.md) _Context: Ewa Kopacz, Polish_
-3. [The world's oldest man, Polish-Israeli Yisrael Kristal, who was also recognized as the oldest living Holocaust survivor, dies at age 113 years, 330 days, in Haifa, Israel. ](/news/2017/08/11/the-world-s-oldest-man-polishaisraeli-yisrael-kristal-who-was-also-recognized-as-the-oldest-living-holocaust-survivor-dies-at-age-113-y.md) _Context: Polish_
-4. [In a meeting held in the city of Krakow, Poland, UNESCO decides not to include Machu Picchu on its list of endangered heritage sites due to the steps taken by Peruvian authorities to address concerns about the condition of the Inca citadel. ](/news/2017/07/6/in-a-meeting-held-in-the-city-of-kraka3w-poland-unesco-decides-not-to-include-machu-picchu-on-its-list-of-endangered-heritage-sites-due-to.md) _Context: Polish_
-5. [The European Union's executive branch sends a formal notice to Poland expressing their concern that the new "discretionary" powers given to the country's justice minister threaten the independence of the courts in violation of EU laws. Poland has a month to respond. ](/news/2017/07/29/the-european-union-s-executive-branch-sends-a-formal-notice-to-poland-expressing-their-concern-that-the-new-discretionary-powers-given-to.md) _Context: Polish_
+1. [Official results show Poland's conservative Law and Justice (PiS) party, led by eurosceptic Jaroslaw Kaczynski and the new PM Beata Szydlo, won more seats than any other party in today's general elections. Kaczynski is the twin brother of the late President Lech Kaczynski, who died in a 2010 jet crash. Prime Minister Ewa Kopacz has conceded defeat. ](/news/2015/10/25/official-results-show-poland-s-conservative-law-and-justice-pis-party-led-by-eurosceptic-jarosaaw-kaczyaski-and-the-new-pm-beata-szyda.md) _Context: Ewa Kopacz, Poland_
+2. [Ewa Kopacz becomes Poland's second female prime minister. ](/news/2014/09/15/ewa-kopacz-becomes-poland-s-second-female-prime-minister.md) _Context: Ewa Kopacz, Poland_
+3. [United States Secretary of State Rex Tillerson says that the U.S. and Poland "oppose" the Nord Stream 2 pipeline. They see it as undermining Europe's overall energy security and stability. ](/news/2018/01/27/united-states-secretary-of-state-rex-tillerson-says-that-the-u-s-and-poland-oppose-the-nord-stream-2-pipeline-they-see-it-as-undermining.md) _Context: Poland_
+4. [The European Commission orders Poland, the Czech Republic and Hungary to court over their refusal to incorporate more refugees. This is the third step in a process that may lead to fines and loss of the countries' voting rights in the European Union. ](/news/2017/12/7/the-european-commission-orders-poland-the-czech-republic-and-hungary-to-court-over-their-refusal-to-incorporate-more-refugees-this-is-the.md) _Context: Poland_
+5. [Polish Prime Minister Beata Szydlo resigns just hours after surviving an opposition no-confidence motion. She will be replaced by Finance Minister Mateusz Morawiecki, according to the ruling Law and Justice party. ](/news/2017/12/7/polish-prime-minister-beata-szydao-resigns-just-hours-after-surviving-an-opposition-no-confidence-motion-she-will-be-replaced-by-finance-m.md) _Context: Poland_

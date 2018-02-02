@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/19/spanish-police-capture-two-suspected-members-aitzol-etxaburu-and-andoni-sarasola-of-the-basque-region-separatist-group-eta.html)  [JSON](/news/2009/08/19/spanish-police-capture-two-suspected-members-aitzol-etxaburu-and-andoni-sarasola-of-the-basque-region-separatist-group-eta.json)  [XML](/news/2009/08/19/spanish-police-capture-two-suspected-members-aitzol-etxaburu-and-andoni-sarasola-of-the-basque-region-separatist-group-eta.xml)  
+
 ### [2009-08-19](/news/2009/08/19/index.md)
 
+##### Spain
 #  Spanish police capture two suspected members, Aitzol Etxaburu and Andoni Sarasola, of the Basque-region separatist group ETA. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/europe/08/19/spain.eta.arrests/index.html)
 

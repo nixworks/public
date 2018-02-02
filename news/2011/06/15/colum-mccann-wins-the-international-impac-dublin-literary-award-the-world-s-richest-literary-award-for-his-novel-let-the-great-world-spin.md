@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2011/06/15/colum-mccann-wins-the-international-impac-dublin-literary-award-the-world-s-richest-literary-award-for-his-novel-let-the-great-world-spin.html)  [JSON](/news/2011/06/15/colum-mccann-wins-the-international-impac-dublin-literary-award-the-world-s-richest-literary-award-for-his-novel-let-the-great-world-spin.json)  [XML](/news/2011/06/15/colum-mccann-wins-the-international-impac-dublin-literary-award-the-world-s-richest-literary-award-for-his-novel-let-the-great-world-spin.xml)  
+
 ### [2011-06-15](/news/2011/06/15/index.md)
 
+##### Colum McCann
 # Colum McCann wins the International IMPAC Dublin Literary Award, the world's richest literary award, for his novel "Let the Great World Spin". 
 
 Irish author Colum McCann wins the International Impac Dublin Literary Award for his latest novel, Let The Great World Spin.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13778903)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0615/breaking34.html)
 2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53428000/jpg/_53428776_53428775.jpg)
+
+### Changes:
+
+1. [Colum McCann wins the International IMPAC Dublin Literary Award, the world's richest literary award, for his novel ''Let the Great World Spin''. ](/news/2011/06/15/colum-mccann-wins-the-international-impac-dublin-literary-award-the-world-s-richest-literary-award-for-his-novel-let-the-great-world-spi.md) _2017-08-25 03:33:29 (First version)_
+1. [Colum McCann wins the International IMPAC Dublin Literary Award, the world's richest literary award, for his novel "Let the Great World Spin". ](/news/2011/06/15/colum-mccann-wins-the-international-impac-dublin-literary-award-the-world-s-richest-literary-award-for-his-novel-let-the-great-world-spin.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ Irish author Colum McCann wins the International Impac Dublin Literary Award for
 3. [Haruki Murakami, Michel Houellebecq, Sjon and Andrew Miller go head-to-head on the shortlist for the 2013 International Dublin Literary Award. ](/news/2013/04/9/haruki-murakami-michel-houellebecq-sja3n-and-andrew-miller-go-head-to-head-on-the-shortlist-for-the-2013-international-dublin-literary-awa.md) _Context: International Dublin Literary Award_
 4. [Jon McGregor wins the 2012 International IMPAC Dublin Literary Award, the world's richest literary prize. ](/news/2012/06/13/jon-mcgregor-wins-the-2012-international-impac-dublin-literary-award-the-world-s-richest-literary-prize.md) _Context: International Dublin Literary Award_
 5. [Dutch novelist Gerbrand Bakker wins the 2010 International IMPAC Dublin Literary Award for his novel "The Twin". ](/news/2010/06/17/dutch-novelist-gerbrand-bakker-wins-the-2010-international-impac-dublin-literary-award-for-his-novel-the-twin.md) _Context: International Dublin Literary Award_
-
-### Changes:
-
-1. [Colum McCann wins the International IMPAC Dublin Literary Award, the world's richest literary award, for his novel ''Let the Great World Spin''. ](/news/2011/06/15/colum-mccann-wins-the-international-impac-dublin-literary-award-the-world-s-richest-literary-award-for-his-novel-let-the-great-world-spi.md) _2017-08-25 03:33:29 (First version)_
-1. [Colum McCann wins the International IMPAC Dublin Literary Award, the world's richest literary award, for his novel "Let the Great World Spin". ](/news/2011/06/15/colum-mccann-wins-the-international-impac-dublin-literary-award-the-world-s-richest-literary-award-for-his-novel-let-the-great-world-spin.md) _(Current version)_

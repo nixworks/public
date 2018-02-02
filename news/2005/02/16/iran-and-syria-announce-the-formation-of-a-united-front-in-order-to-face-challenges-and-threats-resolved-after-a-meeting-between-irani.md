@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/16/iran-and-syria-announce-the-formation-of-a-united-front-in-order-to-face-challenges-and-threats-resolved-after-a-meeting-between-irani.html)  [JSON](/news/2005/02/16/iran-and-syria-announce-the-formation-of-a-united-front-in-order-to-face-challenges-and-threats-resolved-after-a-meeting-between-irani.json)  [XML](/news/2005/02/16/iran-and-syria-announce-the-formation-of-a-united-front-in-order-to-face-challenges-and-threats-resolved-after-a-meeting-between-irani.xml)  
+
 ### [2005-02-16](/news/2005/02/16/index.md)
 
+##### Iran
 #  Iran and Syria announce the formation of a "united front" in order to face "challenges and threats", resolved after a meeting between Iranian First Vice President Mohammad Reza Aref and Syrian Prime Minister Mohammed Naji al-Otari. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4270859.stm)
 2. [Pakistan Daily Times](http://www.dailytimes.com.pk/default.asp?page=story_17-2-2005_pg7_8)

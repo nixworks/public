@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/10/19/hurricane-wilma-goes-through-one-of-the-fastest-and-most-amazing-rapid-intensification-processes-in-hurricane-history-to-become-the-third-c.html)  [JSON](/news/2005/10/19/hurricane-wilma-goes-through-one-of-the-fastest-and-most-amazing-rapid-intensification-processes-in-hurricane-history-to-become-the-third-c.json)  [XML](/news/2005/10/19/hurricane-wilma-goes-through-one-of-the-fastest-and-most-amazing-rapid-intensification-processes-in-hurricane-history-to-become-the-third-c.xml)  
+
 ### [2005-10-19](/news/2005/10/19/index.md)
 
+##### Hurricane Wilma
 #  Hurricane Wilma goes through one of the fastest and most amazing rapid intensification processes in hurricane history to become the third Category 5 storm of 2005. Its central pressure falls to 882 mb (hPa), becoming the most intense hurricane ever recorded in the Atlantic. To date, the 2005 Atlantic Basin Hurricane Season has seen 21 storms of tropical storm strength or greater and 12 hurricanes, both of which tie the records set in 1933 and 1969, respectively. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP/YahooNews](http://news.yahoo.com/s/ap/20051019/ap_on_re_la_am_ca/hurricane_wilma_25)
+1. [AP/YahooNews](https://news.yahoo.com/s/ap/20051019/ap_on_re_la_am_ca/hurricane_wilma_25)
 2. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/190835.shtml)
 
 ### Related:

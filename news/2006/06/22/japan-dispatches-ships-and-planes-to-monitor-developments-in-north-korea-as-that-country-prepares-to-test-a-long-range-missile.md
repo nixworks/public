@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/22/japan-dispatches-ships-and-planes-to-monitor-developments-in-north-korea-as-that-country-prepares-to-test-a-long-range-missile.html)  [JSON](/news/2006/06/22/japan-dispatches-ships-and-planes-to-monitor-developments-in-north-korea-as-that-country-prepares-to-test-a-long-range-missile.json)  [XML](/news/2006/06/22/japan-dispatches-ships-and-planes-to-monitor-developments-in-north-korea-as-that-country-prepares-to-test-a-long-range-missile.xml)  
+
 ### [2006-06-22](/news/2006/06/22/index.md)
 
+##### Japan
 #  Japan dispatches ships and planes to monitor developments in North Korea as that country prepares to test a long range missile. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.siouxcityjournal.com/articles/2006/06/22/ap/headlines/d8id5vlo0.txt)
 

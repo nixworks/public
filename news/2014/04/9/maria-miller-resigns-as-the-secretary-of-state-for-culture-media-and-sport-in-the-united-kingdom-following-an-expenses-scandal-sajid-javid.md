@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/9/maria-miller-resigns-as-the-secretary-of-state-for-culture-media-and-sport-in-the-united-kingdom-following-an-expenses-scandal-sajid-javid.html)  [JSON](/news/2014/04/9/maria-miller-resigns-as-the-secretary-of-state-for-culture-media-and-sport-in-the-united-kingdom-following-an-expenses-scandal-sajid-javid.json)  [XML](/news/2014/04/9/maria-miller-resigns-as-the-secretary-of-state-for-culture-media-and-sport-in-the-united-kingdom-following-an-expenses-scandal-sajid-javid.xml)  
+
 ### [2014-04-9](/news/2014/04/9/index.md)
 
+##### Maria Miller
 # Maria Miller resigns as the Secretary of State for Culture, Media and Sport in the United Kingdom following an expenses scandal. Sajid Javid is announced as her replacement. 
 
 David Cameron will attempt to put the Maria Miller expenses row and questions about his handling of the case behind him as he launches his party&#x27;s campaign for next month&#x27;s European elections.
 
 
-### Source:
+### Sources:
 
 1. [Financial Times](http://www.ft.com/cms/s/0/448669a4-bfaf-11e3-9513-00144feabdc0.html#axzz2yNq3ooSv)
 2. [ITV](http://www.itv.com/news/story/2014-04-03/maria-miller-expenses/#maria-miller-resigns_347166)
@@ -15,6 +19,6 @@ David Cameron will attempt to put the Maria Miller expenses row and questions ab
 
 1. [Britain's Parliamentary Commissioner for Standards launches an investigation into expenses claimed by British Culture Secretary Maria Miller. ](/news/2012/12/13/britain-s-parliamentary-commissioner-for-standards-launches-an-investigation-into-expenses-claimed-by-british-culture-secretary-maria-miller.md) _Context: Maria Miller, Secretary of State for Culture, Media and Sport_
 2. [10 Downing Street denies that British Prime Minister David Cameron's spokesman Craig Oliver warned "The Daily Telegraph" against running a critical story on MPs expenses claimed by Culture Secretary Maria Miller because of her role in enacting proposals in the Leveson report. ](/news/2012/12/12/10-downing-street-denies-that-british-prime-minister-david-cameron-s-spokesman-craig-oliver-warned-the-daily-telegraph-against-running-a-c.md) _Context: Maria Miller, Secretary of State for Culture, Media and Sport_
-3. [ Former UK Labour Culture Secretary, Chris Smith, states he has been HIV positive for 17 years. ](/news/2005/01/30/former-uk-labour-culture-secretary-chris-smith-states-he-has-been-hiv-positive-for-17-years.md) _Context: Secretary of State for Culture, Media and Sport, United Kingdom_
-4. [The Nobel Committee awards Japanese-born British novelist Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." ](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-novelist-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-fo.md) _Context: United Kingdom_
-5. [According to "The Guardian", the September disclosed hack attack at United Kingdom accounting firm Deloitte compromised a server with emails of some 350 clients, including U.S. government agencies and large corporations. Deloitte disputes the story, saying "very few" clients were affected. ](/news/2017/10/10/according-to-the-guardian-the-september-disclosed-hack-attack-at-united-kingdom-accounting-firm-deloitte-compromised-a-server-with-emails.md) _Context: United Kingdom_
+3. [ Former UK Labour Culture Secretary, Chris Smith, states he has been HIV positive for 17 years. ](/news/2005/01/30/former-uk-labour-culture-secretary-chris-smith-states-he-has-been-hiv-positive-for-17-years.md) _Context: British, Secretary of State for Culture, Media and Sport_
+4. [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md) _Context: British_
+5. [British, American and German men are among a group of international volunteers who travelled to Afrin to fight against Turkish-led forces in north-west Syria. ](/news/2018/01/24/british-american-and-german-men-are-among-a-group-of-international-volunteers-who-travelled-to-afrin-to-fight-against-turkish-led-forces-in.md) _Context: British_

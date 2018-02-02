@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/15/islamist-gunmen-in-somalia-shoot-two-people-dead-and-detain-10-others-who-were-watching-a-televised-fifa-world-cup-match-a-member-of-one-gr.html)  [JSON](/news/2010/06/15/islamist-gunmen-in-somalia-shoot-two-people-dead-and-detain-10-others-who-were-watching-a-televised-fifa-world-cup-match-a-member-of-one-gr.json)  [XML](/news/2010/06/15/islamist-gunmen-in-somalia-shoot-two-people-dead-and-detain-10-others-who-were-watching-a-televised-fifa-world-cup-match-a-member-of-one-gr.xml)  
+
 ### [2010-06-15](/news/2010/06/15/index.md)
 
+##### Islamist
 # Islamist gunmen in Somalia shoot two people dead and detain 10 others who were watching a televised FIFA World Cup match; a member of one group later said watching the World Cup is anti-Islamic. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/africa/06/15/somalia.violence/index.html?eref=edition)
 

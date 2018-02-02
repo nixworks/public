@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2015/08/29/climax-of-the-2015-16-lebanese-protests-around-150-000-protest-against-the-garbage-crisis-sectarianism-corruption-and-police-brutality.html)  [JSON](/news/2015/08/29/climax-of-the-2015-16-lebanese-protests-around-150-000-protest-against-the-garbage-crisis-sectarianism-corruption-and-police-brutality.json)  [XML](/news/2015/08/29/climax-of-the-2015-16-lebanese-protests-around-150-000-protest-against-the-garbage-crisis-sectarianism-corruption-and-police-brutality.xml)  
+
 ### [2015-08-29](/news/2015/08/29/index.md)
 
+##### 2015-16 Lebanese protests
 # Climax of the 2015-16 Lebanese protests: Around 150 000 protest against the Garbage Crisis, sectarianism, corruption and police brutality.
 
 

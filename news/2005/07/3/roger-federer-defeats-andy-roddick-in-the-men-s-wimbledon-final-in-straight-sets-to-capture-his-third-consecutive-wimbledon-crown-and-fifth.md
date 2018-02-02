@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/07/3/roger-federer-defeats-andy-roddick-in-the-men-s-wimbledon-final-in-straight-sets-to-capture-his-third-consecutive-wimbledon-crown-and-fifth.html)  [JSON](/news/2005/07/3/roger-federer-defeats-andy-roddick-in-the-men-s-wimbledon-final-in-straight-sets-to-capture-his-third-consecutive-wimbledon-crown-and-fifth.json)  [XML](/news/2005/07/3/roger-federer-defeats-andy-roddick-in-the-men-s-wimbledon-final-in-straight-sets-to-capture-his-third-consecutive-wimbledon-crown-and-fifth.xml)  
+
 ### [2005-07-3](/news/2005/07/3/index.md)
 
+##### Roger Federer
 #  Roger Federer defeats Andy Roddick in the Men's Wimbledon Final in straight sets to capture his third consecutive Wimbledon crown and fifth Grand Slam title overall.
 
 

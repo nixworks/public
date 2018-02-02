@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/30/the-death-toll-from-typhoon-ketsana-across-southeast-asia-rises-to-300.html)  [JSON](/news/2009/09/30/the-death-toll-from-typhoon-ketsana-across-southeast-asia-rises-to-300.json)  [XML](/news/2009/09/30/the-death-toll-from-typhoon-ketsana-across-southeast-asia-rises-to-300.xml)  
+
 ### [2009-09-30](/news/2009/09/30/index.md)
 
+##### Typhoon Ketsana
 #  The death toll from Typhoon Ketsana across Southeast Asia rises to 300. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5i6eatUwlDQQIHZiKqXjLHTmQSrogD9B1HABO2)
 2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/09/30/vietnam.typhoon.ketsana.toll/)

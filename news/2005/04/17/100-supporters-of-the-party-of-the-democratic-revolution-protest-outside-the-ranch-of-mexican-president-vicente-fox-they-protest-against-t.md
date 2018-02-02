@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/04/17/100-supporters-of-the-party-of-the-democratic-revolution-protest-outside-the-ranch-of-mexican-president-vicente-fox-they-protest-against-t.html)  [JSON](/news/2005/04/17/100-supporters-of-the-party-of-the-democratic-revolution-protest-outside-the-ranch-of-mexican-president-vicente-fox-they-protest-against-t.json)  [XML](/news/2005/04/17/100-supporters-of-the-party-of-the-democratic-revolution-protest-outside-the-ranch-of-mexican-president-vicente-fox-they-protest-against-t.xml)  
+
 ### [2005-04-17](/news/2005/04/17/index.md)
 
+##### Party of the Democratic Revolution
 #  100 supporters of the Party of the Democratic Revolution protest outside the ranch of Mexican president Vicente Fox. They protest against the trial of Andrs Manuel Lpez Obrador, popular mayor of Mexico City. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [El Universal, Mexico](http://www.eluniversal.com.mx/pls/impreso/noticia.html?id_nota=10197&tabla=miami)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8203858)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8203858)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

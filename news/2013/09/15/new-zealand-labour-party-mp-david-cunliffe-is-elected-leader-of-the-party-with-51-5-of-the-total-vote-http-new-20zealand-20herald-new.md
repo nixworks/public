@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2013/09/15/new-zealand-labour-party-mp-david-cunliffe-is-elected-leader-of-the-party-with-51-5-of-the-total-vote-http-new-20zealand-20herald-new.html)  [JSON](/news/2013/09/15/new-zealand-labour-party-mp-david-cunliffe-is-elected-leader-of-the-party-with-51-5-of-the-total-vote-http-new-20zealand-20herald-new.json)  [XML](/news/2013/09/15/new-zealand-labour-party-mp-david-cunliffe-is-elected-leader-of-the-party-with-51-5-of-the-total-vote-http-new-20zealand-20herald-new.xml)  
+
 ### [2013-09-15](/news/2013/09/15/index.md)
 
+##### Labour Party
 # New Zealand Labour Party MP David Cunliffe is elected leader of the party with 51.5% of the total vote. ([http:--New%20Zealand%20Herald New Zealand Herald])
 
 

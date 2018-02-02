@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/30/four-opposition-figures-in-belarus-are-charged-with-organising-riots-after-demonstrations-against-the-re-election-of-alexander-lukashenko.html)  [JSON](/news/2010/12/30/four-opposition-figures-in-belarus-are-charged-with-organising-riots-after-demonstrations-against-the-re-election-of-alexander-lukashenko.json)  [XML](/news/2010/12/30/four-opposition-figures-in-belarus-are-charged-with-organising-riots-after-demonstrations-against-the-re-election-of-alexander-lukashenko.xml)  
+
 ### [2010-12-30](/news/2010/12/30/index.md)
 
+##### Belarus
 # Four opposition figures in Belarus are charged with organising riots after demonstrations against the re-election of Alexander Lukashenko. 
 
 Four Belarus opposition figures are charged with organising riots after the re-election of President Alexander Lukashenko.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12092708)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

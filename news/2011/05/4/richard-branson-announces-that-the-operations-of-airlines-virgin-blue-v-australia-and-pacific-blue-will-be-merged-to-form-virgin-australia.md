@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/4/richard-branson-announces-that-the-operations-of-airlines-virgin-blue-v-australia-and-pacific-blue-will-be-merged-to-form-virgin-australia.html)  [JSON](/news/2011/05/4/richard-branson-announces-that-the-operations-of-airlines-virgin-blue-v-australia-and-pacific-blue-will-be-merged-to-form-virgin-australia.json)  [XML](/news/2011/05/4/richard-branson-announces-that-the-operations-of-airlines-virgin-blue-v-australia-and-pacific-blue-will-be-merged-to-form-virgin-australia.xml)  
+
 ### [2011-05-4](/news/2011/05/4/index.md)
 
+##### Richard Branson
 # Richard Branson announces that the operations of airlines Virgin Blue, V Australia and Pacific Blue will be merged to form Virgin Australia. 
 
 Richard Branson has finally unveiled one of the worst-kept secrets in Australian aviation.
 
 
-### Source:
+### Sources:
 
 1. [WA Today](http://www.watoday.com.au/business/branson-gives-virgin-a-new-name-20110503-1e6h5.html)
 1. [Cover Image](http://www.watoday.com.au/content/dam/images/1/e/7/m/c/image.related.articleLeadwide.620x349.1e6h5.png/1304476211627.jpg)

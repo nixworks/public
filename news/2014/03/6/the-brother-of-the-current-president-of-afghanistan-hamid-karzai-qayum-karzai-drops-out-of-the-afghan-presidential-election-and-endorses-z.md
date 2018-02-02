@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/6/the-brother-of-the-current-president-of-afghanistan-hamid-karzai-qayum-karzai-drops-out-of-the-afghan-presidential-election-and-endorses-z.html)  [JSON](/news/2014/03/6/the-brother-of-the-current-president-of-afghanistan-hamid-karzai-qayum-karzai-drops-out-of-the-afghan-presidential-election-and-endorses-z.json)  [XML](/news/2014/03/6/the-brother-of-the-current-president-of-afghanistan-hamid-karzai-qayum-karzai-drops-out-of-the-afghan-presidential-election-and-endorses-z.xml)  
+
 ### [2014-03-6](/news/2014/03/6/index.md)
 
+##### Afghanistan President
 # The brother of the current President of Afghanistan Hamid Karzai, Qayum Karzai, drops out of the Afghan presidential election and endorses Zalmai Rassoul. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/world-news/karzai-s-brother-withdraws-from-afghan-election/article1-1191596.aspx)
 

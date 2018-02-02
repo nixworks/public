@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/2/cyclone-ockhi-hits-southern-india-causing-13-dea
 
 ### [2017-12-2](/news/2017/12/2/index.md)
 
+##### 2017 North Indian Ocean cyclone season
 # Cyclone Ockhi hits southern India causing 13 deaths in Tamil Nadu and Kerala. The cyclone kills 15 people and displaces another 200,000 persons in Sri Lanka. 
 
 Cyclone Ockhi, which claimed 13 lives in Tamil Nadu and Kerala, has now moved beyond Lakshadweep, the weather department said bringing huge relief to the people of the rain-battered states. However, many fishermen are still missing and warships have been deployed to comb the southeastern coast for fishing boats missing in wild seas.

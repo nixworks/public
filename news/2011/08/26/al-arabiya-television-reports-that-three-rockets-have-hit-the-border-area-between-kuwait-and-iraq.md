@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/26/al-arabiya-television-reports-that-three-rockets-have-hit-the-border-area-between-kuwait-and-iraq.html)  [JSON](/news/2011/08/26/al-arabiya-television-reports-that-three-rockets-have-hit-the-border-area-between-kuwait-and-iraq.json)  [XML](/news/2011/08/26/al-arabiya-television-reports-that-three-rockets-have-hit-the-border-area-between-kuwait-and-iraq.xml)  
+
 ### [2011-08-26](/news/2011/08/26/index.md)
 
+##### Al Arabiya
 # Al Arabiya television reports that three rockets have hit the border area between Kuwait and Iraq. 
 
 Three rockets have hit the borderarea between Kuwait and Iraq, Al Arabiya TV reported early onFriday quoting diplomatic sources.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/2011/08/25/kuwait-iraq-rockets-idINL5E7JP34Z20110825)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

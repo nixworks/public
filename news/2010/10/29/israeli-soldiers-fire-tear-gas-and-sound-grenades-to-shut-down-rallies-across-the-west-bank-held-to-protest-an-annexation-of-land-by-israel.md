@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2010/10/29/israeli-soldiers-fire-tear-gas-and-sound-grenades-to-shut-down-rallies-across-the-west-bank-held-to-protest-an-annexation-of-land-by-israel.html)  [JSON](/news/2010/10/29/israeli-soldiers-fire-tear-gas-and-sound-grenades-to-shut-down-rallies-across-the-west-bank-held-to-protest-an-annexation-of-land-by-israel.json)  [XML](/news/2010/10/29/israeli-soldiers-fire-tear-gas-and-sound-grenades-to-shut-down-rallies-across-the-west-bank-held-to-protest-an-annexation-of-land-by-israel.xml)  
+
 ### [2010-10-29](/news/2010/10/29/index.md)
 
+##### West Bank
 # Israeli soldiers fire tear gas and sound grenades to shut down rallies across the West Bank held to protest an annexation of land by Israel. The events are attended by Norwegian politicians Torunn Kanutte Husvik and Stine Renate Hheim. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Ma'an News Agency](http://www.maannews.net/eng/ViewDetails.aspx?ID=328838)
 
 ### Related:
 
-1. [Palestinian factions, Hamas and Fatah, sign a unity deal in Cairo, that is also publicly supported by the governments of Egypt and Saudi Arabia. The Fatah-controlled Palestinian National Authority (PNA), along with Israel, currently govern the West Bank. According to the signatories of the deal, the PNA will take administrative control of the Gaza Strip, and, along with Hamas, police its borders. The signatories consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. The government of Israel opposes any involvement by Hamas in a Palestinian government. ](/news/2017/10/12/palestinian-factions-hamas-and-fatah-sign-a-unity-deal-in-cairo-that-is-also-publicly-supported-by-the-governments-of-egypt-and-saudi-ara.md) _Context: West Bank_
-2. [Three Israelis are killed and one other is wounded after a Palestinian gunman opens fire in an entrance to the Israeli settlement of Har Adar in the West Bank. ](/news/2017/09/26/three-israelis-are-killed-and-one-other-is-wounded-after-a-palestinian-gunman-opens-fire-in-an-entrance-to-the-israeli-settlement-of-har-ada.md) _Context: West Bank_
-3. [Hamas, through Egyptian-mediated talks, agrees to dissolve its Gaza administration, hold talks with the Fatah West Bank government, and hold elections for a Palestinian unity government. ](/news/2017/09/17/hamas-through-egyptian-mediated-talks-agrees-to-dissolve-its-gaza-administration-hold-talks-with-the-fatah-west-bank-government-and-hold.md) _Context: West Bank_
-4. [UNESCO declares the old city of Hebron and the Cave of the Patriarchs, both in the West Bank, as world heritage sites. ](/news/2017/07/7/unesco-declares-the-old-city-of-hebron-and-the-cave-of-the-patriarchs-both-in-the-west-bank-as-world-heritage-sites.md) _Context: West Bank_
-5. [In a shooting incident near Huwara in the West Bank, a mob of some 200 Arabs hurl stones and rocks toward an Israeli car and try to lynch the driver. The Israeli driver fires his weapon, killing one Palestinian. ](/news/2017/05/18/in-a-shooting-incident-near-huwara-in-the-west-bank-a-mob-of-some-200-arabs-hurl-stones-and-rocks-toward-an-israeli-car-and-try-to-lynch-th.md) _Context: West Bank_
+1. [Hundreds of people protest on the West Bank and in Gaza for the third day in a row. ](/news/2017/12/9/hundreds-of-people-protest-on-the-west-bank-and-in-gaza-for-the-third-day-in-a-row.md) _Context: West Bank_
+2. [U.S. President Donald Trump recognizes Jerusalem as the capital of Israel and says the U.S. starts the process of moving its embassy from Tel Aviv to Jerusalem. The United States Department of State issues an internal travel warning to Israel, Jerusalem and the West Bank until December 20. The U.S. embassy in Amman temporarily suspends routine public services and stops embassy travel around Jordan. Embassies in Berlin and London issue vigilance warnings to U.S. citizens. ](/news/2017/12/6/u-s-president-donald-trump-recognizes-jerusalem-as-the-capital-of-israel-and-says-the-u-s-starts-the-process-of-moving-its-embassy-from-te.md) _Context: West Bank_
+3. [Two Palestinians are shot dead and about 60 others are wounded by Israeli troops gunfire as thousands protest along the Gaza border fence, in all seven West Bank cities and in East Jerusalem, against the U.S. declaration. ](/news/2017/12/22/two-palestinians-are-shot-dead-and-about-60-others-are-wounded-by-israeli-troops-gunfire-as-thousands-protest-along-the-gaza-border-fence-i.md) _Context: West Bank_
+4. [Palestinians and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. In conflicts where Israeli law enforcement used live ammunition and Palestinians threw rocks, two Palestinians died in Gaza while 150 were wounded and two more were killed in the West Bank while a further 10 were wounded. ](/news/2017/12/15/palestinians-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem-clashes.md) _Context: West Bank_
+5. [A Palestinian man in the occupied West Bank is arrested and questioned for a few hours by Israeli police after Facebook mistranslates his Arabic-language message saying "good morning" into Hebrew for "attack them". ](/news/2017/10/22/a-palestinian-man-in-the-occupied-west-bank-is-arrested-and-questioned-for-a-few-hours-by-israeli-police-after-facebook-mistranslates-his-ar.md) _Context: West Bank_

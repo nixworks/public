@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/1/india-warns-the-dalai-lama-not-to-anger-the-people-s-republic-of-china.html)  [JSON](/news/2008/04/1/india-warns-the-dalai-lama-not-to-anger-the-people-s-republic-of-china.json)  [XML](/news/2008/04/1/india-warns-the-dalai-lama-not-to-anger-the-people-s-republic-of-china.xml)  
+
 ### [2008-04-1](/news/2008/04/1/index.md)
 
+##### Dalai Lama
 #  India warns the Dalai Lama not to anger the People's Republic of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7324693.stm)
 

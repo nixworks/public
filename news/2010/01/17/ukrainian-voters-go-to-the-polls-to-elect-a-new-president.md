@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/17/ukrainian-voters-go-to-the-polls-to-elect-a-new-president.html)  [JSON](/news/2010/01/17/ukrainian-voters-go-to-the-polls-to-elect-a-new-president.json)  [XML](/news/2010/01/17/ukrainian-voters-go-to-the-polls-to-elect-a-new-president.xml)  
+
 ### [2010-01-17](/news/2010/01/17/index.md)
 
+##### Ukraine
 # Ukrainian voters go to the polls to elect a new president. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8463949.stm)
 2. [Kyiv Post](http://www.kyivpost.com/news/nation/detail/57260/)

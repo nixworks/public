@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/25/a-gunman-kills-one-person-and-injures-three-oth
 
 ### [2016-09-25](/news/2016/09/25/index.md)
 
+##### Malm
 # A gunman kills one person and injures three others in Malm, Sweden. An explosion occurs later. 
 
 ONE person has died and three others have been injured following a gun attack in Malmo just hours after a bomb was found outside a primary school.

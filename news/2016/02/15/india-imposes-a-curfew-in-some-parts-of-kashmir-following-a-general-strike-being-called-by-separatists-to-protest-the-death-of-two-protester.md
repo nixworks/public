@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/15/india-imposes-a-curfew-in-some-parts-of-kashmir
 
 ### [2016-02-15](/news/2016/02/15/index.md)
 
+##### Kashmir conflict
 # India imposes a curfew in some parts of Kashmir following a general strike being called by separatists to protest the death of two protesters. 
 
 

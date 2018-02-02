@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/14/an-asiana-airlines-airbus-a320-en-route-from-south-korea-to-japan-skids-off-the-runway-at-hiroshima-airport-injuring-20-of-the-74-passengers.html)  [JSON](/news/2015/04/14/an-asiana-airlines-airbus-a320-en-route-from-south-korea-to-japan-skids-off-the-runway-at-hiroshima-airport-injuring-20-of-the-74-passengers.json)  [XML](/news/2015/04/14/an-asiana-airlines-airbus-a320-en-route-from-south-korea-to-japan-skids-off-the-runway-at-hiroshima-airport-injuring-20-of-the-74-passengers.xml)  
+
 ### [2015-04-14](/news/2015/04/14/index.md)
 
+##### Asiana Airlines
 # An Asiana Airlines Airbus A320 en route from South Korea to Japan skids off the runway at Hiroshima Airport injuring 20 of the 74 passengers. 
 
 An Asiana Airlines plane has skidded off the runway while landing in Japan resulting in about 20 injured slightly.
 
 
-### Source:
+### Sources:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/Plane-skids-off-runway-in-Japan-20150414)
 1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/3054/1ce3e89faeed4674a8b209fcb638d2b3.jpg)

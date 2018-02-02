@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/2/norway-investigates-whether-nobel-peace-prize-laureate-muhammad-yunus-diverted-millions-of-dollars-of-aid-money-from-the-grameen-bank-but-ex.html)  [JSON](/news/2010/12/2/norway-investigates-whether-nobel-peace-prize-laureate-muhammad-yunus-diverted-millions-of-dollars-of-aid-money-from-the-grameen-bank-but-ex.json)  [XML](/news/2010/12/2/norway-investigates-whether-nobel-peace-prize-laureate-muhammad-yunus-diverted-millions-of-dollars-of-aid-money-from-the-grameen-bank-but-ex.xml)  
+
 ### [2010-12-2](/news/2010/12/2/index.md)
 
+##### Norway
 # Norway investigates whether Nobel Peace Prize laureate Muhammad Yunus diverted millions of dollars of aid money from the Grameen Bank but expresses certainty that nothing criminal has occurred. 
 
 Norway examines allegations that Nobel Peace Laureate Muhammad Yunus diverted millions of dollars of aid money from a bank.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11899506)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/8/suspected-allied-democratic-forces-militants-in-
 
 ### [2017-12-8](/news/2017/12/8/index.md)
 
+##### 2017 Semuliki attack
 # Suspected Allied Democratic Forces militants in North Kivu, DR Congo, kill at least 15 United Nations peacekeepers, mostly Tanzanian, and five Congolese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. 
 
 António Guterres, UN secretary general, described the attack by an Islamist extremist group as a ‘war crime’

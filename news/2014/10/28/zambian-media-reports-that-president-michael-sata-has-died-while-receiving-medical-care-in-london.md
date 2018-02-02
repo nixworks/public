@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/28/zambian-media-reports-that-president-michael-sata-has-died-while-receiving-medical-care-in-london.html)  [JSON](/news/2014/10/28/zambian-media-reports-that-president-michael-sata-has-died-while-receiving-medical-care-in-london.json)  [XML](/news/2014/10/28/zambian-media-reports-that-president-michael-sata-has-died-while-receiving-medical-care-in-london.xml)  
+
 ### [2014-10-28](/news/2014/10/28/index.md)
 
+##### Zambia
 # Zambian media reports that President Michael Sata has died while receiving medical care in London. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New Vision](http://www.newvision.co.ug/news/661225-zambia-s-president-michael-sata-has-died.html)
 

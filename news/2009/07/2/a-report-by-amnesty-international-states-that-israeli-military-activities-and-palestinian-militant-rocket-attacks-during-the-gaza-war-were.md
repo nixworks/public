@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/2/a-report-by-amnesty-international-states-that-israeli-military-activities-and-palestinian-militant-rocket-attacks-during-the-gaza-war-were.html)  [JSON](/news/2009/07/2/a-report-by-amnesty-international-states-that-israeli-military-activities-and-palestinian-militant-rocket-attacks-during-the-gaza-war-were.json)  [XML](/news/2009/07/2/a-report-by-amnesty-international-states-that-israeli-military-activities-and-palestinian-militant-rocket-attacks-during-the-gaza-war-were.xml)  
+
 ### [2009-07-2](/news/2009/07/2/index.md)
 
+##### Amnesty International
 #  A report by Amnesty International states that Israeli military activities and Palestinian militant rocket attacks during the Gaza War were war crimes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8128210.stm)
 

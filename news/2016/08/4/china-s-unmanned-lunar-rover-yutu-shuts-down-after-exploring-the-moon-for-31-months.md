@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/4/china-s-unmanned-lunar-rover-yutu-shuts-down-aft
 
 ### [2016-08-4](/news/2016/08/4/index.md)
 
+##### Chinese
 # China's unmanned lunar rover Yutu shuts down after exploring the Moon for 31 months. 
 
 
@@ -15,8 +16,8 @@ Formats: [HTML](/news/2016/08/4/china-s-unmanned-lunar-rover-yutu-shuts-down-aft
 
 ### Related:
 
-1. [China's mission carrying Yutu, China's first lunar rover, lands on the Moon. It is the first "soft" landing on the Moon since 1976 and the third ever robotic rover. ](/news/2013/12/14/china-s-mission-carrying-yutu-china-s-first-lunar-rover-lands-on-the-moon-it-is-the-first-soft-landing-on-the-moon-since-1976-and-the-t.md) _Context: China, Moon, Yutu, lunar rover_
+1. [China's mission carrying Yutu, China's first lunar rover, lands on the Moon. It is the first "soft" landing on the Moon since 1976 and the third ever robotic rover. ](/news/2013/12/14/china-s-mission-carrying-yutu-china-s-first-lunar-rover-lands-on-the-moon-it-is-the-first-soft-landing-on-the-moon-since-1976-and-the-t.md) _Context: Chinese, Moon, Yutu, lunar rover_
 2. [China's Yutu rover, after being pronounced dead the day previously, leaves dormancy one day late after malfunctioning prior to the Lunar night. ](/news/2014/02/13/china-s-yutu-rover-after-being-pronounced-dead-the-day-previously-leaves-dormancy-one-day-late-after-malfunctioning-prior-to-the-lunar-nig.md) _Context: Moon, Yutu_
-3. [China's mission begins the descent phase to the moon that will likely make it one of only three countries to reach it. The landing is estimated to occur at 8:40 a.m. EST, December 14. ](/news/2013/12/13/china-s-mission-begins-the-descent-phase-to-the-moon-that-will-likely-make-it-one-of-only-three-countries-to-reach-it-the-landing-is-estima.md) _Context: China, Moon_
-4. [A large factory explosion in Ningbo, China, kills at least 2 people and injures more than 30. ](/news/2017/11/26/a-large-factory-explosion-in-ningbo-china-kills-at-least-2-people-and-injures-more-than-30.md) _Context: China_
-5. [Chinese delegates visiting the Burmese capital of Naypyidaw propose a three-phase plan to resolve the conflict in Myanmar's Rakhine State. The governments of Myanmar and Bangladesh expressed support for the plan, which included repatriating refugees that have fled from violence in Rakhine State. ](/news/2017/11/19/chinese-delegates-visiting-the-burmese-capital-of-naypyidaw-propose-a-three-phase-plan-to-resolve-the-conflict-in-myanmar-s-rakhine-state-t.md) _Context: China_
+3. [Sanchi is still ablaze this morning and it continues to leak oil. Chinese officials mention the danger of explosion and sinking. ](/news/2018/01/8/sanchi-is-still-ablaze-this-morning-and-it-continues-to-leak-oil-chinese-officials-mention-the-danger-of-explosion-and-sinking.md) _Context: Chinese_
+4. [Thirty-two sailors are missing after Iranian oil tanker Sanchi and Chinese freighter "CF-Crystal" collide off the east coast of China. The collision ignites the oil tanker, which carried a 136,000-tonne load. ](/news/2018/01/6/thirty-two-sailors-are-missing-after-iranian-oil-tanker-sanchi-and-chinese-freighter-cf-crystal-collide-off-the-east-coast-of-china-the-c.md) _Context: Chinese_
+5. [Six-time U.S. NASA astronaut John Young dies at the age of 87. He was the 9th man who walked on the Moon. [http:--amp.timeinc.net-fortune-2018-01-06-astronaut-john-young-dead "(Time Magazine)"]](/news/2018/01/5/six-time-u-s-nasa-astronaut-john-young-dies-at-the-age-of-87-he-was-the-9th-man-who-walked-on-the-moon-http-amp-timeinc-net-fortune-20.md) _Context: Moon_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/9/2009-swine-flu-outbreak-world-health-organisation-director-general-margaret-chan-believes-on-the-surface-of-it-that-a-pandemic-has-been.html)  [JSON](/news/2009/06/9/2009-swine-flu-outbreak-world-health-organisation-director-general-margaret-chan-believes-on-the-surface-of-it-that-a-pandemic-has-been.json)  [XML](/news/2009/06/9/2009-swine-flu-outbreak-world-health-organisation-director-general-margaret-chan-believes-on-the-surface-of-it-that-a-pandemic-has-been.xml)  
+
 ### [2009-06-9](/news/2009/06/9/index.md)
 
+##### current outbreak
 #  2009 swine flu outbreak: World Health Organisation Director-General Margaret Chan believes "on the surface of it" that a pandemic has been reached. She also said that "once I get indisputable evidence, I will make the announcement," and will meet with governments on Wednesday regarding reports about the outbreak. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press via Breitbart.com](http://www.breitbart.com/article.php?id=D98N9T580&show_article=1)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/9/first-president-of-rwanda-dominique-mbonyumutwa-s-son-objects-to-the-removal-of-his-father-s-corpse-from-the-democracy-stadium-in-gitarama.html)  [JSON](/news/2010/03/9/first-president-of-rwanda-dominique-mbonyumutwa-s-son-objects-to-the-removal-of-his-father-s-corpse-from-the-democracy-stadium-in-gitarama.json)  [XML](/news/2010/03/9/first-president-of-rwanda-dominique-mbonyumutwa-s-son-objects-to-the-removal-of-his-father-s-corpse-from-the-democracy-stadium-in-gitarama.xml)  
+
 ### [2010-03-9](/news/2010/03/9/index.md)
 
+##### president
 # First President of Rwanda Dominique Mbonyumutwa's son objects to the removal of his father's corpse from the Democracy Stadium in Gitarama, saying it defies a court ruling. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8557085.stm)
 

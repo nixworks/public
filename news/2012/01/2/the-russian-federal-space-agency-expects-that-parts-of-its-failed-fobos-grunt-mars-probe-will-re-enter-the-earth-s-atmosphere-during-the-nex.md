@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/2/the-russian-federal-space-agency-expects-that-parts-of-its-failed-fobos-grunt-mars-probe-will-re-enter-the-earth-s-atmosphere-during-the-nex.html)  [JSON](/news/2012/01/2/the-russian-federal-space-agency-expects-that-parts-of-its-failed-fobos-grunt-mars-probe-will-re-enter-the-earth-s-atmosphere-during-the-nex.json)  [XML](/news/2012/01/2/the-russian-federal-space-agency-expects-that-parts-of-its-failed-fobos-grunt-mars-probe-will-re-enter-the-earth-s-atmosphere-during-the-nex.xml)  
+
 ### [2012-01-2](/news/2012/01/2/index.md)
 
+##### Russian Federal Space Agency
 # The Russian Federal Space Agency expects that parts of its failed Fobos-Grunt Mars probe will re-enter the Earth's atmosphere during the next week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/science/space/8987718/Russia-admits-failed-Mars-probe-may-hit-Earth.html)
 

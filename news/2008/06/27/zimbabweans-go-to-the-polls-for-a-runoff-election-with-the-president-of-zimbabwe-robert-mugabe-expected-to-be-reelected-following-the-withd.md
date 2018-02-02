@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/27/zimbabweans-go-to-the-polls-for-a-runoff-election-with-the-president-of-zimbabwe-robert-mugabe-expected-to-be-reelected-following-the-withd.html)  [JSON](/news/2008/06/27/zimbabweans-go-to-the-polls-for-a-runoff-election-with-the-president-of-zimbabwe-robert-mugabe-expected-to-be-reelected-following-the-withd.json)  [XML](/news/2008/06/27/zimbabweans-go-to-the-polls-for-a-runoff-election-with-the-president-of-zimbabwe-robert-mugabe-expected-to-be-reelected-following-the-withd.xml)  
+
 ### [2008-06-27](/news/2008/06/27/index.md)
 
+##### Zimbabwe
 #  Zimbabweans go to the polls for a runoff election with the President of Zimbabwe Robert Mugabe expected to be reelected following the withdrawal of Morgan Tsvangarai of the opposition Movement for Democratic Change. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/africa/06/27/zimbabwe.vote/)
 

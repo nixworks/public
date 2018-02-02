@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/12/united-front-for-democratic-change-rebels-approach-n-djamena-the-capital-of-chad.html)  [JSON](/news/2006/04/12/united-front-for-democratic-change-rebels-approach-n-djamena-the-capital-of-chad.json)  [XML](/news/2006/04/12/united-front-for-democratic-change-rebels-approach-n-djamena-the-capital-of-chad.xml)  
+
 ### [2006-04-12](/news/2006/04/12/index.md)
 
+##### Chadian rebels
 #  United Front for Democratic Change rebels approach N'Djamena, the capital of Chad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4902342.stm)
 

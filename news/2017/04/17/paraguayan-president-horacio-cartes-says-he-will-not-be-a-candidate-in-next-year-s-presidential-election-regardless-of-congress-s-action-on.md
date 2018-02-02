@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/17/paraguayan-president-horacio-cartes-says-he-wil
 
 ### [2017-04-17](/news/2017/04/17/index.md)
 
+##### Paraguayan President
 # Paraguayan President Horacio Cartes says he will not be a candidate in next year's presidential election regardless of Congress's action on a constitutional amendment that would allow second terms. Cartes adds his decision was informed by Pope Francis's call for peace and dialogue in Paraguay following protests against this change that turned violent two weeks ago. 
 
 

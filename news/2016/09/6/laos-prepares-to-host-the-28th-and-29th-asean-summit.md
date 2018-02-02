@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/6/laos-prepares-to-host-the-28th-and-29th-asean-su
 
 ### [2016-09-6](/news/2016/09/6/index.md)
 
+##### 2016 ASEAN Summit
 # Laos prepares to host the 28th and 29th ASEAN Summit. 
 
 President Barack Obama on Monday became the first sitting U.S. president to step foot in the isolated Southeast Asian nation of Laos.

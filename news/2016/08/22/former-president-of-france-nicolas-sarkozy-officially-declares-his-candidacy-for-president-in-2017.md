@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/22/former-president-of-france-nicolas-sarkozy-offi
 
 ### [2016-08-22](/news/2016/08/22/index.md)
 
+##### last month's presidential election
 # Former President of France Nicolas Sarkozy officially declares his candidacy for president in 2017. 
 
 Former leader says key issue for France is ‘how to defend our lifestyle without cutting ourselves off from the world’
@@ -15,8 +16,8 @@ Former leader says key issue for France is ‘how to defend our lifestyle withou
 
 ### Related:
 
-1. [Former French President Nicolas Sarkozy resigns as leader of The Republicans party and announces his candidacy for President again. ](/news/2016/07/3/former-french-president-nicolas-sarkozy-resigns-as-leader-of-the-republicans-party-and-announces-his-candidacy-for-president-again.md) _Context: Nicolas Sarkozy, President of France, last month's presidential election_
-2. [Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France.](/news/2017/05/7/voters-in-france-return-to-the-polls-for-a-run-off-to-elect-either-emmanuel-macron-or-marine-le-pen-as-the-new-president-of-france.md) _Context: President of France, last month's presidential election_
-3. [Voting begins in territories and diplomatic missions west of Metropolitan France for the second round of the presidential election between Emmanuel Macron and Marine Le Pen. ](/news/2017/05/6/voting-begins-in-territories-and-diplomatic-missions-west-of-metropolitan-france-for-the-second-round-of-the-presidential-election-between-e.md) _Context: President of France, last month's presidential election_
-4. [France swears in Emmanuel Macron as the 25th President of France. ](/news/2017/05/14/france-swears-in-emmanuel-macron-as-the-25th-president-of-france.md) _Context: President of France, last month's presidential election_
-5. [Former President of France Nicolas Sarkozy is ordered to stand trial for alleged campaign finance fraud during his failed 2012 presidential election campaign. ](/news/2017/02/7/former-president-of-france-nicolas-sarkozy-is-ordered-to-stand-trial-for-alleged-campaign-finance-fraud-during-his-failed-2012-presidential.md) _Context: Nicolas Sarkozy, President of France_
+1. [Former French President Nicolas Sarkozy resigns as leader of The Republicans party and announces his candidacy for President again. ](/news/2016/07/3/former-french-president-nicolas-sarkozy-resigns-as-leader-of-the-republicans-party-and-announces-his-candidacy-for-president-again.md) _Context: French President, Nicolas Sarkozy, last month's presidential election_
+2. [Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France.](/news/2017/05/7/voters-in-france-return-to-the-polls-for-a-run-off-to-elect-either-emmanuel-macron-or-marine-le-pen-as-the-new-president-of-france.md) _Context: French President, last month's presidential election_
+3. [Voting begins in territories and diplomatic missions west of Metropolitan France for the second round of the presidential election between Emmanuel Macron and Marine Le Pen. ](/news/2017/05/6/voting-begins-in-territories-and-diplomatic-missions-west-of-metropolitan-france-for-the-second-round-of-the-presidential-election-between-e.md) _Context: French President, last month's presidential election_
+4. [France swears in Emmanuel Macron as the 25th President of France. ](/news/2017/05/14/france-swears-in-emmanuel-macron-as-the-25th-president-of-france.md) _Context: French President, last month's presidential election_
+5. [Former President of France Nicolas Sarkozy is ordered to stand trial for alleged campaign finance fraud during his failed 2012 presidential election campaign. ](/news/2017/02/7/former-president-of-france-nicolas-sarkozy-is-ordered-to-stand-trial-for-alleged-campaign-finance-fraud-during-his-failed-2012-presidential.md) _Context: French President, Nicolas Sarkozy_

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/03/24/74th-academy-awards-ceremony-takes-place.html)  [JSON](/news/2002/03/24/74th-academy-awards-ceremony-takes-place.json)  [XML](/news/2002/03/24/74th-academy-awards-ceremony-takes-place.xml)  
+
 ### [2002-03-24](/news/2002/03/24/index.md)
 
+##### Academy Award
 # 74th Academy Awards ceremony takes place.
 
 

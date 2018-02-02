@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/19/the-federal-bureau-of-investigation-fbi-arrests-an-alleged-agent-of-pakistan-s-inter-services-intelligence-in-the-us-state-of-virginia-for.html)  [JSON](/news/2011/07/19/the-federal-bureau-of-investigation-fbi-arrests-an-alleged-agent-of-pakistan-s-inter-services-intelligence-in-the-us-state-of-virginia-for.json)  [XML](/news/2011/07/19/the-federal-bureau-of-investigation-fbi-arrests-an-alleged-agent-of-pakistan-s-inter-services-intelligence-in-the-us-state-of-virginia-for.xml)  
+
 ### [2011-07-19](/news/2011/07/19/index.md)
 
+##### FBI
 # The Federal Bureau of Investigation (FBI) arrests an alleged agent of Pakistan's Inter-Services Intelligence in the US state of Virginia for making illegal campaign contributions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://firstread.msnbc.msn.com/_news/2011/07/19/7112067-fbi-arrests-pakistani-agent-for-making-political-contributions-in-us)
 

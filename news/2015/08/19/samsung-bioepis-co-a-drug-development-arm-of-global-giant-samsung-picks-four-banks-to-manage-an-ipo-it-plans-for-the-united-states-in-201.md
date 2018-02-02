@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/08/19/samsung-bioepis-co-a-drug-development-arm-of-global-giant-samsung-picks-four-banks-to-manage-an-ipo-it-plans-for-the-united-states-in-201.html)  [JSON](/news/2015/08/19/samsung-bioepis-co-a-drug-development-arm-of-global-giant-samsung-picks-four-banks-to-manage-an-ipo-it-plans-for-the-united-states-in-201.json)  [XML](/news/2015/08/19/samsung-bioepis-co-a-drug-development-arm-of-global-giant-samsung-picks-four-banks-to-manage-an-ipo-it-plans-for-the-united-states-in-201.xml)  
+
 ### [2015-08-19](/news/2015/08/19/index.md)
 
+##### Samsung Bioepis Co.
 # Samsung Bioepis Co., a drug development arm of global giant Samsung, picks four banks to manage an IPO it plans for the United States in 2016. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/08/20/us-samsung-bioepis-ipo-idUSKCN0QP08F20150820)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/08/20/us-samsung-bioepis-ipo-idUSKCN0QP08F20150820)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

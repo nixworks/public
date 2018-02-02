@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/3/twin-explosions-are-reported-in-the-city-of-mombasa-kenya-with-at-least-three-people-killed-and-several-injured.html)  [JSON](/news/2014/05/3/twin-explosions-are-reported-in-the-city-of-mombasa-kenya-with-at-least-three-people-killed-and-several-injured.json)  [XML](/news/2014/05/3/twin-explosions-are-reported-in-the-city-of-mombasa-kenya-with-at-least-three-people-killed-and-several-injured.xml)  
+
 ### [2014-05-3](/news/2014/05/3/index.md)
 
+##### Mombasa
 # Twin explosions are reported in the city of Mombasa, Kenya, with at least three people killed and several injured. 
 
 At least three people have died and a number are wounded in two explosions in the Kenyan coastal city of Mombasa, police say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-27272072)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74629000/jpg/_74629586_022127123-1.jpg)

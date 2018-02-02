@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/10/president-elect-donald-trump-appoints-businessm
 
 ### [2017-01-10](/news/2017/01/10/index.md)
 
+##### Presidential transition of Donald Trump
 # President-elect Donald Trump appoints businessman and son-in-law Jared Kushner as his senior advisor in the White House. 
 
 

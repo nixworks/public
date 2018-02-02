@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/16/at-least-one-person-is-killed-and-at-least-six-injured-following-a-building-collapse-in-the-us-town-of-morrilton-arkansas.html)  [JSON](/news/2011/05/16/at-least-one-person-is-killed-and-at-least-six-injured-following-a-building-collapse-in-the-us-town-of-morrilton-arkansas.json)  [XML](/news/2011/05/16/at-least-one-person-is-killed-and-at-least-six-injured-following-a-building-collapse-in-the-us-town-of-morrilton-arkansas.xml)  
+
 ### [2011-05-16](/news/2011/05/16/index.md)
 
+##### Morrilton
 # At least one person is killed and at least six injured following a building collapse in the US town of Morrilton, Arkansas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox 16](http://www.fox16.com/news/local/story/Building-collapses-in-Morrilton-killing-1/Esl7KC89p0GFKkvBxjEmLw.cspx)
 

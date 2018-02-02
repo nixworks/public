@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/02/2/the-ira-withdraws-its-weapons-decommissioning-offer-because-of-claims-that-the-organisation-is-connected-to-a-belfast-bank-raid-last-decemb.html)  [JSON](/news/2005/02/2/the-ira-withdraws-its-weapons-decommissioning-offer-because-of-claims-that-the-organisation-is-connected-to-a-belfast-bank-raid-last-decemb.json)  [XML](/news/2005/02/2/the-ira-withdraws-its-weapons-decommissioning-offer-because-of-claims-that-the-organisation-is-connected-to-a-belfast-bank-raid-last-decemb.xml)  
+
 ### [2005-02-2](/news/2005/02/2/index.md)
 
+##### Irish Republican Army
 #  The IRA withdraws its weapons decommissioning offer because of claims that the organisation is connected to a Belfast bank raid last December in which GBP26.5m was stolen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/4231753.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/4231951.stm)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aHZ8othznuXE&refer=top_world_news)
+3. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000087&sid=aHZ8othznuXE&refer=top_world_news)
 4. [Ireland Online](http://212.2.162.45/news/story.asp?j=108802780&p=yx88x336x&n=108803389)
 5. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7518536)
 

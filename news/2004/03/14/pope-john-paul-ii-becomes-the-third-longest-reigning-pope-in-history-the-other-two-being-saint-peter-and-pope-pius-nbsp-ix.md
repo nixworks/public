@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/14/pope-john-paul-ii-becomes-the-third-longest-reigning-pope-in-history-the-other-two-being-saint-peter-and-pope-pius-nbsp-ix.html)  [JSON](/news/2004/03/14/pope-john-paul-ii-becomes-the-third-longest-reigning-pope-in-history-the-other-two-being-saint-peter-and-pope-pius-nbsp-ix.json)  [XML](/news/2004/03/14/pope-john-paul-ii-becomes-the-third-longest-reigning-pope-in-history-the-other-two-being-saint-peter-and-pope-pius-nbsp-ix.xml)  
+
 ### [2004-03-14](/news/2004/03/14/index.md)
 
+##### Pope John Paul II
 #  Pope John Paul II becomes the third-longest reigning pope in history, the other two being Saint Peter and Pope Pius&nbsp;IX. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Detroit Free Press](http://www.freep.com/news/religion/pope13_20040313.htm)
 

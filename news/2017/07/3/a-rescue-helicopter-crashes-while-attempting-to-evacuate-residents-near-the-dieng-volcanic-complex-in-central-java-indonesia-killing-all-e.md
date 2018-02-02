@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/3/a-rescue-helicopter-crashes-while-attempting-to-
 
 ### [2017-07-3](/news/2017/07/3/index.md)
 
+##### Dieng Volcanic Complex
 # A rescue helicopter crashes while attempting to evacuate residents near the Dieng Volcanic Complex in Central Java, Indonesia, killing all eight people on board. 
 
 Helicopter crashed three minutes before arriving at Dieng Plateau, the popular tourist area where the eruption on Sunday injured at least 10

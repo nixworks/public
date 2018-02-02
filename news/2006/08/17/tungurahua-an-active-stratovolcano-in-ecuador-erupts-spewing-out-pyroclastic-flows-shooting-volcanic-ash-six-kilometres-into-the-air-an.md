@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/17/tungurahua-an-active-stratovolcano-in-ecuador-erupts-spewing-out-pyroclastic-flows-shooting-volcanic-ash-six-kilometres-into-the-air-an.html)  [JSON](/news/2006/08/17/tungurahua-an-active-stratovolcano-in-ecuador-erupts-spewing-out-pyroclastic-flows-shooting-volcanic-ash-six-kilometres-into-the-air-an.json)  [XML](/news/2006/08/17/tungurahua-an-active-stratovolcano-in-ecuador-erupts-spewing-out-pyroclastic-flows-shooting-volcanic-ash-six-kilometres-into-the-air-an.xml)  
+
 ### [2006-08-17](/news/2006/08/17/index.md)
 
+##### Tungurahua
 #  Tungurahua, an active stratovolcano in Ecuador, erupts, spewing out pyroclastic flows, shooting volcanic ash six kilometres into the air and forcing the evacuation of thousands of people. At least one person is killed and another 60 people missing. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/5260020.stm)
 2. [CNN](http://www.cnn.com/2006/WORLD/americas/08/17/ecuador.volcano.reut/)

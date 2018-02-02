@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/15/a-gambian-judge-sentences-eight-men-to-death-for-their-role-in-an-alleged-coup-plot.html)  [JSON](/news/2010/07/15/a-gambian-judge-sentences-eight-men-to-death-for-their-role-in-an-alleged-coup-plot.json)  [XML](/news/2010/07/15/a-gambian-judge-sentences-eight-men-to-death-for-their-role-in-an-alleged-coup-plot.xml)  
+
 ### [2010-07-15](/news/2010/07/15/index.md)
 
+##### Gambia
 # A Gambian judge sentences eight men to death for their role in an alleged coup plot. 
 
 A Gambian judge sentences eight men, including a former army chief, to death for their part in an alleged plot to oust President Yahya Jammeh last year.
 
 
-### Source:
+### Sources:
 
 1. [Afrol News](http://www.afrol.com/articles/36521)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-10650294)

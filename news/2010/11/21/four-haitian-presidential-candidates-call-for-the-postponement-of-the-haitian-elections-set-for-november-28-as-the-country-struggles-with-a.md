@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/21/four-haitian-presidential-candidates-call-for-the-postponement-of-the-haitian-elections-set-for-november-28-as-the-country-struggles-with-a.html)  [JSON](/news/2010/11/21/four-haitian-presidential-candidates-call-for-the-postponement-of-the-haitian-elections-set-for-november-28-as-the-country-struggles-with-a.json)  [XML](/news/2010/11/21/four-haitian-presidential-candidates-call-for-the-postponement-of-the-haitian-elections-set-for-november-28-as-the-country-struggles-with-a.xml)  
+
 ### [2010-11-21](/news/2010/11/21/index.md)
 
+##### Haiti's presidential election
 # Four Haitian presidential candidates call for the postponement of the Haitian elections set for November 28 as the country struggles with a cholera epidemic which has killed nearly 1,200. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gk0x23-aIWinZfShrsIl5o6ff4Og?docId=CNG.542bc5230d0b13ed79dfd4d5d5e27e42.461)
 

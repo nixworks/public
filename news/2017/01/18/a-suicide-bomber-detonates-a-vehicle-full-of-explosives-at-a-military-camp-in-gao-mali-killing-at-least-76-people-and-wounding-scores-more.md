@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2017/01/18/a-suicide-bomber-detonates-a-vehicle-full-of-explosives-at-a-military-camp-in-gao-mali-killing-at-least-76-people-and-wounding-scores-more.html)  [JSON](/news/2017/01/18/a-suicide-bomber-detonates-a-vehicle-full-of-explosives-at-a-military-camp-in-gao-mali-killing-at-least-76-people-and-wounding-scores-more.json)  [XML](/news/2017/01/18/a-suicide-bomber-detonates-a-vehicle-full-of-explosives-at-a-military-camp-in-gao-mali-killing-at-least-76-people-and-wounding-scores-more.xml)  
+
 ### [2017-01-18](/news/2017/01/18/index.md)
 
+##### Northern Mali conflict
 # A suicide bomber detonates a vehicle full of explosives at a military camp in Gao, Mali, killing at least 76 people and wounding scores more in Mali's deadliest terrorist attack in history. 
 
 Attack marks significant setback for peace efforts in region after vehicle explosion hits joint operational mechanism base
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/jan/18/suicide-bomber-gao-mali-joint-operational-mechanism)
 1. [Cover Image](https://i.guim.co.uk/img/media/994ff3c63905c65b89d58da633e91c5f85078f78/300_0_1583_950/master/1583.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=ddeb6979aeb7693910642a963a1d0283)
+
+### Changes:
+
+1. [Northern Mali conflict: A suicide bomber detonates a vehicle full of explosives at a military camp in Gao, Mali, killing at least 76 people and wounding scores more in Mali's deadliest terrorist attack in history. ](/news/2017/01/18/northern-mali-conflict-a-suicide-bomber-detonates-a-vehicle-full-of-explosives-at-a-military-camp-in-gao-mali-killing-at-least-76-people.md) _2017-08-27 03:47:38 (First version)_
+1. [A suicide bomber detonates a vehicle full of explosives at a military camp in Gao, Mali, killing at least 76 people and wounding scores more in Mali's deadliest terrorist attack in history. ](/news/2017/01/18/a-suicide-bomber-detonates-a-vehicle-full-of-explosives-at-a-military-camp-in-gao-mali-killing-at-least-76-people-and-wounding-scores-more.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Attack marks significant setback for peace efforts in region after vehicle explo
 3. [ 2016 Nampala attack: At least 12 soldiers are killed and 27 others injured after unidentified militants briefly overrun a government base in central Mali, near the border with Mauritania. The attackers also burn and loot the adjacent village of Nampala. ](/news/2016/07/19/2016-nampala-attack-at-least-12-soldiers-are-killed-and-27-others-injured-after-unidentified-militants-briefly-overrun-a-government-base-i.md) _Context: Mali, Northern Mali conflict_
 4. [Four UN peacekeepers are killed in a suspected Al-Qaeda attack in northern Mali. ](/news/2016/06/1/four-un-peacekeepers-are-killed-in-a-suspected-al-qaeda-attack-in-northern-mali.md) _Context: Mali, Northern Mali conflict_
 5. [ Five United Nations peacekeepers are killed in an attack in central Mali. ](/news/2016/05/29/five-united-nations-peacekeepers-are-killed-in-an-attack-in-central-mali.md) _Context: Mali, Northern Mali conflict_
-
-### Changes:
-
-1. [Northern Mali conflict: A suicide bomber detonates a vehicle full of explosives at a military camp in Gao, Mali, killing at least 76 people and wounding scores more in Mali's deadliest terrorist attack in history. ](/news/2017/01/18/northern-mali-conflict-a-suicide-bomber-detonates-a-vehicle-full-of-explosives-at-a-military-camp-in-gao-mali-killing-at-least-76-people.md) _2017-08-27 03:47:38 (First version)_
-1. [A suicide bomber detonates a vehicle full of explosives at a military camp in Gao, Mali, killing at least 76 people and wounding scores more in Mali's deadliest terrorist attack in history. ](/news/2017/01/18/a-suicide-bomber-detonates-a-vehicle-full-of-explosives-at-a-military-camp-in-gao-mali-killing-at-least-76-people-and-wounding-scores-more.md) _(Current version)_

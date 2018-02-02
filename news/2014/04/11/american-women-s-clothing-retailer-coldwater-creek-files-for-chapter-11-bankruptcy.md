@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/11/american-women-s-clothing-retailer-coldwater-creek-files-for-chapter-11-bankruptcy.html)  [JSON](/news/2014/04/11/american-women-s-clothing-retailer-coldwater-creek-files-for-chapter-11-bankruptcy.json)  [XML](/news/2014/04/11/american-women-s-clothing-retailer-coldwater-creek-files-for-chapter-11-bankruptcy.xml)  
+
 ### [2014-04-11](/news/2014/04/11/index.md)
 
+##### Coldwater Creek
 # American women's clothing retailer Coldwater Creek files for chapter 11 bankruptcy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Dow Jones Business News via NASDAQ](http://www.nasdaq.com/article/coldwater-creek-files-for-chapter-11-20140411-00176)
 1. [Cover Image](http://www.nasdaq.com/images/Q-logo.jpg)

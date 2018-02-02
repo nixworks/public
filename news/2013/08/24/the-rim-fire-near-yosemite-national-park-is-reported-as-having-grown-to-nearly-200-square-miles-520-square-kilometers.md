@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/24/the-rim-fire-near-yosemite-national-park-is-reported-as-having-grown-to-nearly-200-square-miles-520-square-kilometers.html)  [JSON](/news/2013/08/24/the-rim-fire-near-yosemite-national-park-is-reported-as-having-grown-to-nearly-200-square-miles-520-square-kilometers.json)  [XML](/news/2013/08/24/the-rim-fire-near-yosemite-national-park-is-reported-as-having-grown-to-nearly-200-square-miles-520-square-kilometers.xml)  
+
 ### [2013-08-24](/news/2013/08/24/index.md)
 
+##### Rim Fire
 # The Rim Fire near Yosemite National Park is reported as having grown to nearly 200 square miles (~520 square kilometers). 
 
 The Rim fire continued to spread into Yosemite National Park on Saturday, threatening the power supply of San Francisco.
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-yosemite-fire-san-francisco-power-rim-fire20130823,0,1157539.story)
 1. [Cover Image](http://www.trbimg.com/img-5218b68e/turbine/la-me-ln-yosemite-fire-san-francisco-power-rim-fire20130823)

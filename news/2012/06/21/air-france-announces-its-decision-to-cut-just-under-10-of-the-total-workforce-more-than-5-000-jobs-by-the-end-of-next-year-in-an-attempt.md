@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/21/air-france-announces-its-decision-to-cut-just-under-10-of-the-total-workforce-more-than-5-000-jobs-by-the-end-of-next-year-in-an-attempt.html)  [JSON](/news/2012/06/21/air-france-announces-its-decision-to-cut-just-under-10-of-the-total-workforce-more-than-5-000-jobs-by-the-end-of-next-year-in-an-attempt.json)  [XML](/news/2012/06/21/air-france-announces-its-decision-to-cut-just-under-10-of-the-total-workforce-more-than-5-000-jobs-by-the-end-of-next-year-in-an-attempt.xml)  
+
 ### [2012-06-21](/news/2012/06/21/index.md)
 
+##### Air France
 # Air France announces its decision to cut just under 10% of the total workforce (more than 5,000 jobs) by the end of next year in an attempt to restore profitability. 
 
 French airline Air France announces it is to cut more than 5,000 jobs by the end of 2013 in an attempt to reduce costs and return to growth
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18532668)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61044000/jpg/_61044397_015036143-1.jpg)

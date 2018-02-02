@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/8/taiwan-arrests-major-general-lo-hsieh-che-head-of-the-taiwanese-army-s-electronic-communications-and-information-department-for-allegedly.html)  [JSON](/news/2011/02/8/taiwan-arrests-major-general-lo-hsieh-che-head-of-the-taiwanese-army-s-electronic-communications-and-information-department-for-allegedly.json)  [XML](/news/2011/02/8/taiwan-arrests-major-general-lo-hsieh-che-head-of-the-taiwanese-army-s-electronic-communications-and-information-department-for-allegedly.xml)  
+
 ### [2011-02-8](/news/2011/02/8/index.md)
 
+##### Taiwan
 # Taiwan arrests Major General Lo Hsieh-che, head of the Taiwanese Army's electronic communications and information department, for allegedly leaking secrets to the People's Republic of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [South China Morning Post](http://www.scmp.com/portal/site/SCMP/menuitem.2af62ecb329d3d7733492d9253a0a0a0/?vgnextoid=c33f4a429360e210VgnVCM100000360a0a0aRCRD&ss=china&s=news)
 

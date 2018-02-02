@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/17/prime-minister-ruhakana-rugunda-says-tomorrowas
 
 ### [2016-02-17](/news/2016/02/17/index.md)
 
+##### Ugandan general election, 2016
 # Prime Minister Ruhakana Rugunda says tomorrow's presidential and parliamentary elections will be peaceful, and urges all registered citizens to vote. Seven candidates are vying to unseat President Museveni, who has been in office since 1986. 
 
 

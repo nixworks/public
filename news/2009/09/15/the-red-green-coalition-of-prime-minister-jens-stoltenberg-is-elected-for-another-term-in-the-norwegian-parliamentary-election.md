@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/15/the-red-green-coalition-of-prime-minister-jens-stoltenberg-is-elected-for-another-term-in-the-norwegian-parliamentary-election.html)  [JSON](/news/2009/09/15/the-red-green-coalition-of-prime-minister-jens-stoltenberg-is-elected-for-another-term-in-the-norwegian-parliamentary-election.json)  [XML](/news/2009/09/15/the-red-green-coalition-of-prime-minister-jens-stoltenberg-is-elected-for-another-term-in-the-norwegian-parliamentary-election.xml)  
+
 ### [2009-09-15](/news/2009/09/15/index.md)
 
+##### Red-Green Coalition
 #  The Red-Green Coalition of Prime Minister Jens Stoltenberg is elected for another term in the Norwegian parliamentary election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Financial Times](http://www.ft.com/cms/s/0/58a1ac9e-a14d-11de-a88d-00144feabdc0.html)
 2. [Norway Post](http://www.norwaypost.no/content/view/22509/1/)

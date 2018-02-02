@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/14/colombia-accuses-venezuela-of-violating-its-airspace-for-the-second-time-in-two-days.html)  [JSON](/news/2015/09/14/colombia-accuses-venezuela-of-violating-its-airspace-for-the-second-time-in-two-days.json)  [XML](/news/2015/09/14/colombia-accuses-venezuela-of-violating-its-airspace-for-the-second-time-in-two-days.xml)  
+
 ### [2015-09-14](/news/2015/09/14/index.md)
 
+##### Colombia
 # Colombia accuses Venezuela of violating its airspace for the second time in two days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via France 24](http://www.france24.com/en/20150915-colombia-accuses-venezuela-new-airspace-violation?ns_campaign=reseaux_sociaux&ns_source=twitter&ns_mchannel=social&ns_linkname=editorial&aef_campaign_ref=partage_aef&aef_campaign_date=2015-09-15&dlvrit=66745)
 

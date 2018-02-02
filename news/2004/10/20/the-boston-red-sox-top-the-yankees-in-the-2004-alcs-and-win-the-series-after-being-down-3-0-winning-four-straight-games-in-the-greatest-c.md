@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/10/20/the-boston-red-sox-top-the-yankees-in-the-2004-alcs-and-win-the-series-after-being-down-3-0-winning-four-straight-games-in-the-greatest-c.html)  [JSON](/news/2004/10/20/the-boston-red-sox-top-the-yankees-in-the-2004-alcs-and-win-the-series-after-being-down-3-0-winning-four-straight-games-in-the-greatest-c.json)  [XML](/news/2004/10/20/the-boston-red-sox-top-the-yankees-in-the-2004-alcs-and-win-the-series-after-being-down-3-0-winning-four-straight-games-in-the-greatest-c.xml)  
+
 ### [2004-10-20](/news/2004/10/20/index.md)
 
+##### Boston Red Sox
 #  The Boston Red Sox top the Yankees in the 2004 ALCS, and win the series after being down 3-0, winning four straight games in the greatest comeback MLB playoffs history. The Red Sox continue on to face the St. Louis Cardinals in the World Series.
 
 

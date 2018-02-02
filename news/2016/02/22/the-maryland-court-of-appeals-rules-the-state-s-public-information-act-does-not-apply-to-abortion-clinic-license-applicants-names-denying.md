@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/22/the-maryland-court-of-appeals-rules-the-state-s
 
 ### [2016-02-22](/news/2016/02/22/index.md)
 
+##### Maryland  Court of Appeals
 # The Maryland Court of Appeals rules the state's Public Information Act does not apply to abortion clinic license applicants' names, denying the Maryland Coalition for Life's appeal which had noted that courts in Illinois, Kansas and Minnesota have ordered these names released. The ruling can not be appealed to federal courts. 
 
 Get the latest breaking news across the U.S. on ABCNews.com
@@ -23,4 +24,4 @@ Get the latest breaking news across the U.S. on ABCNews.com
 2. [At least one person is killed and a dozen injured after a series of tornadoes hits the US states of Oklahoma, Kansas, Iowa and Illinois. ](/news/2013/05/19/at-least-one-person-is-killed-and-a-dozen-injured-after-a-series-of-tornadoes-hits-the-us-states-of-oklahoma-kansas-iowa-and-illinois.md) _Context: Illinois, Kansas_
 3. [A heavy blizzard in the midwestern US states of Minnesota, Wisconsin, Iowa, Illinois and Michigan dropping about three feet of snow results in two deaths, road closures, flight cancellations and the inflatable roof of the Hubert H. Humphrey Metrodome in Minneapolis, Minnesota, collapsing. ](/news/2010/12/12/a-heavy-blizzard-in-the-midwestern-us-states-of-minnesota-wisconsin-iowa-illinois-and-michigan-dropping-about-three-feet-of-snow-results.md) _Context: Illinois, Minnesota_
 4. [ North America: The Canadian provinces, Ontario and Quebec and the US states Illinois, Indiana, Michigan, Minnesota, New York, Ohio, Pennsylvania and Wisconsin sign an international agreement to preclude significant water diversion from the Great Lakes. ](/news/2005/12/13/north-america-the-canadian-provinces-ontario-and-quebec-and-the-us-states-illinois-indiana-michigan-minnesota-new-york-ohio-pennsyl.md) _Context: Illinois, Minnesota_
-5. [California, Maine, Maryland and Minnesota sue the Trump administraion over the termination of DACA. ](/news/2017/09/11/california-maine-maryland-and-minnesota-sue-the-trump-administraion-over-the-termination-of-daca.md) _Context: Minnesota_
+5. [Two new Democratic senators&mdash;Doug Jones of Alabama and Tina Smith of Minnesota&mdash;are sworn in, bringing the Republican majority down to 51&ndash;49. ](/news/2018/01/3/two-new-democratic-senators-mdash-doug-jones-of-alabama-and-tina-smith-of-minnesota-mdash-are-sworn-in-bringing-the-republican-majority-dow.md) _Context: Minnesota_

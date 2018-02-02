@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/08/8/confederate-submarine-h-l-hunley-is-raised-to-the-surface-after-136-years-on-the-ocean-floor.html)  [JSON](/news/2000/08/8/confederate-submarine-h-l-hunley-is-raised-to-the-surface-after-136-years-on-the-ocean-floor.json)  [XML](/news/2000/08/8/confederate-submarine-h-l-hunley-is-raised-to-the-surface-after-136-years-on-the-ocean-floor.xml)  
+
 ### [2000-08-8](/news/2000/08/8/index.md)
 
+##### Confederate
 # Confederate submarine "H.L. Hunley" is raised to the surface after 136 years on the ocean floor.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/18/the-bolivian-presidential-election-2005-takes-place-in-bolivia-with-evo-morales-and-jorge-quiroga-as-front-runners-morales-is-expected-t.html)  [JSON](/news/2005/12/18/the-bolivian-presidential-election-2005-takes-place-in-bolivia-with-evo-morales-and-jorge-quiroga-as-front-runners-morales-is-expected-t.json)  [XML](/news/2005/12/18/the-bolivian-presidential-election-2005-takes-place-in-bolivia-with-evo-morales-and-jorge-quiroga-as-front-runners-morales-is-expected-t.xml)  
+
 ### [2005-12-18](/news/2005/12/18/index.md)
 
+##### Presidential Election
 #  The Bolivian presidential election, 2005 takes place in Bolivia, with Evo Morales and Jorge Quiroga as front-runners. Morales is expected to win a plurality of votes but not an absolute majority. If no candidate wins a majority, the election of the President will be by vote in the National Congress, also elected today. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4539454.stm)
 

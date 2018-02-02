@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/14/the-israeli-cabinet-approves-a-plan-to-allow-8-000-ethiopians-of-jewish-descent-into-the-country.html)  [JSON](/news/2010/11/14/the-israeli-cabinet-approves-a-plan-to-allow-8-000-ethiopians-of-jewish-descent-into-the-country.json)  [XML](/news/2010/11/14/the-israeli-cabinet-approves-a-plan-to-allow-8-000-ethiopians-of-jewish-descent-into-the-country.xml)  
+
 ### [2010-11-14](/news/2010/11/14/index.md)
 
+##### Israeli cabinet
 # The Israeli cabinet approves a plan to allow 8,000 Ethiopians of Jewish descent into the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11753909)
 2. [JTA](http://www.jta.org/news/article/2010/11/14/2741728/8000-falash-mura-to-come-to-israel)

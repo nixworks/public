@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/07/30/brazilian-president-dilma-rousseff-convenes-a-truth-commission-to-investigate-brazil-s-military-dictatorship.html)  [JSON](/news/2012/07/30/brazilian-president-dilma-rousseff-convenes-a-truth-commission-to-investigate-brazil-s-military-dictatorship.json)  [XML](/news/2012/07/30/brazilian-president-dilma-rousseff-convenes-a-truth-commission-to-investigate-brazil-s-military-dictatorship.xml)  
+
 ### [2012-07-30](/news/2012/07/30/index.md)
 
+##### Brazil
 # Brazilian President Dilma Rousseff convenes a truth commission to investigate Brazil's military dictatorship. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Tagesschau](http://www.tagesschau.de/ausland/brasilien308.html)
+1. [Tagesschau](https://www.tagesschau.de/ausland/brasilien308.html)
 1. [Cover Image](http://www.tagesschau.de/multimedia/bilder/tagesschauapp104~_v-grossfrei16x9.jpg)
 
 ### Related:

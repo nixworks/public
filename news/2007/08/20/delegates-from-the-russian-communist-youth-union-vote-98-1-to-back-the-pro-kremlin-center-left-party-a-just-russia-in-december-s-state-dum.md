@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/20/delegates-from-the-russian-communist-youth-union-vote-98-1-to-back-the-pro-kremlin-center-left-party-a-just-russia-in-december-s-state-dum.html)  [JSON](/news/2007/08/20/delegates-from-the-russian-communist-youth-union-vote-98-1-to-back-the-pro-kremlin-center-left-party-a-just-russia-in-december-s-state-dum.json)  [XML](/news/2007/08/20/delegates-from-the-russian-communist-youth-union-vote-98-1-to-back-the-pro-kremlin-center-left-party-a-just-russia-in-december-s-state-dum.xml)  
+
 ### [2007-08-20](/news/2007/08/20/index.md)
 
+##### Russia
 #  Delegates from the Russian Communist Youth Union vote 98-1 to back the pro-Kremlin, center-left party A Just Russia in December's State Duma elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Moscow Times](http://www.moscowtimes.ru/stories/2007/08/21/001.html)
 1. [Cover Image](http://moscowtimes.org/img/logo-big.png)

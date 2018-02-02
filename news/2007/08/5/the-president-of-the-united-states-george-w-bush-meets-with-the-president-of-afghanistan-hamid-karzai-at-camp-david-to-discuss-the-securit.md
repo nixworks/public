@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/5/the-president-of-the-united-states-george-w-bush-meets-with-the-president-of-afghanistan-hamid-karzai-at-camp-david-to-discuss-the-securit.html)  [JSON](/news/2007/08/5/the-president-of-the-united-states-george-w-bush-meets-with-the-president-of-afghanistan-hamid-karzai-at-camp-david-to-discuss-the-securit.json)  [XML](/news/2007/08/5/the-president-of-the-united-states-george-w-bush-meets-with-the-president-of-afghanistan-hamid-karzai-at-camp-david-to-discuss-the-securit.xml)  
+
 ### [2007-08-5](/news/2007/08/5/index.md)
 
+##### U.S. President
 #  The President of the United States George W. Bush meets with the President of Afghanistan Hamid Karzai at Camp David to discuss the security of Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://www.voanews.com/english/2007-08-05-voa9.cfm)
 

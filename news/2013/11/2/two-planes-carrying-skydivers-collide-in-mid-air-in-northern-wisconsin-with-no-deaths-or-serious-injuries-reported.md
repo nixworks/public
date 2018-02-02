@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/2/two-planes-carrying-skydivers-collide-in-mid-air-in-northern-wisconsin-with-no-deaths-or-serious-injuries-reported.html)  [JSON](/news/2013/11/2/two-planes-carrying-skydivers-collide-in-mid-air-in-northern-wisconsin-with-no-deaths-or-serious-injuries-reported.json)  [XML](/news/2013/11/2/two-planes-carrying-skydivers-collide-in-mid-air-in-northern-wisconsin-with-no-deaths-or-serious-injuries-reported.xml)  
+
 ### [2013-11-2](/news/2013/11/2/index.md)
 
+##### Wisconsin
 # Two planes carrying skydivers collide in mid-air in northern Wisconsin with no deaths or serious injuries reported. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [National Post](http://news.nationalpost.com/2013/11/03/two-planes-collide-in-midair-above-u-s-but-everyone-survives-as-both-planes-were-carrying-skydivers/)
 

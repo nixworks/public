@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/14/japanese-prime-minister-shinzo-abe-is-preparing-to-dissolve-the-lower-house-of-the-diet-on-tuesday-and-call-a-snap-election-on-december-14th.html)  [JSON](/news/2014/11/14/japanese-prime-minister-shinzo-abe-is-preparing-to-dissolve-the-lower-house-of-the-diet-on-tuesday-and-call-a-snap-election-on-december-14th.json)  [XML](/news/2014/11/14/japanese-prime-minister-shinzo-abe-is-preparing-to-dissolve-the-lower-house-of-the-diet-on-tuesday-and-call-a-snap-election-on-december-14th.xml)  
+
 ### [2014-11-14](/news/2014/11/14/index.md)
 
+##### Prime Minister of Japan
 # Japanese Prime Minister Shinzo Abe is preparing to dissolve the Lower House of the Diet on Tuesday and call a snap election on December 14th in order to seek a public mandate on whether to delay a scheduled increase in the consumption tax. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NHK World](http://www3.nhk.or.jp/nhkworld/english/news/20141114_43.html)
 

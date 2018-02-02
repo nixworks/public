@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2007/07/29/japanese-voters-go-to-the-polls-for-elections-for-half-of-the-house-of-councillors-the-ruling-coalition-of-the-liberal-democratic-party-an.html)  [JSON](/news/2007/07/29/japanese-voters-go-to-the-polls-for-elections-for-half-of-the-house-of-councillors-the-ruling-coalition-of-the-liberal-democratic-party-an.json)  [XML](/news/2007/07/29/japanese-voters-go-to-the-polls-for-elections-for-half-of-the-house-of-councillors-the-ruling-coalition-of-the-liberal-democratic-party-an.xml)  
+
 ### [2007-07-29](/news/2007/07/29/index.md)
 
+##### Japan
 #  Japanese voters go to the polls for elections for half of the House of Councillors. The ruling coalition of the Liberal Democratic Party and New Komeito Party lost seats with the opposition Democratic Party of Japan becoming the largest party in the chamber. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via CNN](http://edition.cnn.com/2007/WORLD/asiapcf/07/29/japan.election.reut/index.html?eref=rss_world)
-2. [Reuters](http://www.reuters.com/article/topNews/idUST26506820070728?feedType=RSS)
-2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20070728&t=2&i=1208205&w=&fh=545px&fw=&ll=&pl=&sq=&r=1208205)
+2. [Reuters](https://www.reuters.com/article/topNews/idUST26506820070728?feedType=RSS)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20070728&t=2&i=1208205&w=&fh=545px&fw=&ll=&pl=&sq=&r=1208205)
 
 ### Related:
 

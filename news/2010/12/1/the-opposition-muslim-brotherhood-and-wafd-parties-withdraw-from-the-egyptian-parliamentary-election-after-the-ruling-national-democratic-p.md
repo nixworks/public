@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/1/the-opposition-muslim-brotherhood-and-wafd-parties-withdraw-from-the-egyptian-parliamentary-election-after-the-ruling-national-democratic-p.html)  [JSON](/news/2010/12/1/the-opposition-muslim-brotherhood-and-wafd-parties-withdraw-from-the-egyptian-parliamentary-election-after-the-ruling-national-democratic-p.json)  [XML](/news/2010/12/1/the-opposition-muslim-brotherhood-and-wafd-parties-withdraw-from-the-egyptian-parliamentary-election-after-the-ruling-national-democratic-p.xml)  
+
 ### [2010-12-1](/news/2010/12/1/index.md)
 
+##### Muslim Brotherhood
 # The opposition Muslim Brotherhood and Wafd parties withdraw from the Egyptian parliamentary election, after the ruling National Democratic Party wins 97% of the seats in the first round last weekend. 
 
 Muslim Brotherhood and Wafd parties drop out of second round of voting after failing to win many seats in first round.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/2010121145450744767.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/dec/01/egypt-elections-opposition-fraud-claims)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/9/women-s-groups-protest-outside-the-oireachtas-after-police-are-filmed-discussing-raping-women-after-their-arrest.html)  [JSON](/news/2011/04/9/women-s-groups-protest-outside-the-oireachtas-after-police-are-filmed-discussing-raping-women-after-their-arrest.json)  [XML](/news/2011/04/9/women-s-groups-protest-outside-the-oireachtas-after-police-are-filmed-discussing-raping-women-after-their-arrest.xml)  
+
 ### [2011-04-9](/news/2011/04/9/index.md)
 
+##### parliament
 # Women's groups protest outside the Oireachtas after police are filmed discussing raping women after their arrest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2011/apr/08/irish-police-chief-aplogises-rape-jokes)
 

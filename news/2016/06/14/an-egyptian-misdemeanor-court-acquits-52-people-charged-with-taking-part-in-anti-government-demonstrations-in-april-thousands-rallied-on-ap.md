@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/14/an-egyptian-misdemeanor-court-acquits-52-people
 
 ### [2016-06-14](/news/2016/06/14/index.md)
 
+##### Egyptian Misdemeanor Court
 # An Egyptian Misdemeanor Court acquits 52 people charged with taking part in anti-government demonstrations in April. Thousands rallied on April 25 to protest the transfer of Red Sea islands Tiran and Sanafir to Saudi Arabia. Police arrested nearly 300 demonstrators; government reports indicate all have been released from prison. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/11/a-judge-orders-president-of-paraguay-fernando-lugo-to-undergo-dna-profiling-relating-to-the-matter-of-a-two-year-old-male-child.html)  [JSON](/news/2010/08/11/a-judge-orders-president-of-paraguay-fernando-lugo-to-undergo-dna-profiling-relating-to-the-matter-of-a-two-year-old-male-child.json)  [XML](/news/2010/08/11/a-judge-orders-president-of-paraguay-fernando-lugo-to-undergo-dna-profiling-relating-to-the-matter-of-a-two-year-old-male-child.xml)  
+
 ### [2010-08-11](/news/2010/08/11/index.md)
 
+##### Paraguayan President
 # A judge orders President of Paraguay Fernando Lugo to undergo DNA profiling relating to the matter of a two-year-old male child. 
 
 Paraguayan President Fernando Lugo is ordered to take a DNA test to see if he is the father of a two-year-old boy.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10945504)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

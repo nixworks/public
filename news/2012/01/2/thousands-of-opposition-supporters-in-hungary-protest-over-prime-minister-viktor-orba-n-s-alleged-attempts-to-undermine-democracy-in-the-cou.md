@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/01/2/thousands-of-opposition-supporters-in-hungary-protest-over-prime-minister-viktor-orba-n-s-alleged-attempts-to-undermine-democracy-in-the-cou.html)  [JSON](/news/2012/01/2/thousands-of-opposition-supporters-in-hungary-protest-over-prime-minister-viktor-orba-n-s-alleged-attempts-to-undermine-democracy-in-the-cou.json)  [XML](/news/2012/01/2/thousands-of-opposition-supporters-in-hungary-protest-over-prime-minister-viktor-orba-n-s-alleged-attempts-to-undermine-democracy-in-the-cou.xml)  
+
 ### [2012-01-2](/news/2012/01/2/index.md)
 
+##### Hungary
 # Thousands of opposition supporters in Hungary protest over Prime Minister Viktor Orban's alleged attempts to undermine democracy in the country. 
 
 The demonstration — a day after the country’s new “majoritarian” Constitution took effect — marked the first time that opposition forces joined together to rally against a new constitution.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2012/01/03/world/europe/rare-opposition-protests-in-hungary.html)
+1. [New York Times](https://www.nytimes.com/2012/01/03/world/europe/rare-opposition-protests-in-hungary.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

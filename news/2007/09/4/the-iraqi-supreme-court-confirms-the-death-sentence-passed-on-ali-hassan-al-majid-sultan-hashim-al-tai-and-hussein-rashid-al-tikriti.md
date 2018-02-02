@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/4/the-iraqi-supreme-court-confirms-the-death-sentence-passed-on-ali-hassan-al-majid-sultan-hashim-al-tai-and-hussein-rashid-al-tikriti.html)  [JSON](/news/2007/09/4/the-iraqi-supreme-court-confirms-the-death-sentence-passed-on-ali-hassan-al-majid-sultan-hashim-al-tai-and-hussein-rashid-al-tikriti.json)  [XML](/news/2007/09/4/the-iraqi-supreme-court-confirms-the-death-sentence-passed-on-ali-hassan-al-majid-sultan-hashim-al-tai-and-hussein-rashid-al-tikriti.xml)  
+
 ### [2007-09-4](/news/2007/09/4/index.md)
 
+##### Iraq
 #  The Iraqi Supreme Court confirms the death sentence passed on Ali Hassan al-Majid, Sultan Hashim al-Tai and Hussein Rashid al-Tikriti. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RTE](http://www.rte.ie/news/2007/0904/iraq1.html)
 

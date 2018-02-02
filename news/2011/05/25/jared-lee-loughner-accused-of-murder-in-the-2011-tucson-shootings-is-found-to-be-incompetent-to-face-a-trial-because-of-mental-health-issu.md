@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/25/jared-lee-loughner-accused-of-murder-in-the-2011-tucson-shootings-is-found-to-be-incompetent-to-face-a-trial-because-of-mental-health-issu.html)  [JSON](/news/2011/05/25/jared-lee-loughner-accused-of-murder-in-the-2011-tucson-shootings-is-found-to-be-incompetent-to-face-a-trial-because-of-mental-health-issu.json)  [XML](/news/2011/05/25/jared-lee-loughner-accused-of-murder-in-the-2011-tucson-shootings-is-found-to-be-incompetent-to-face-a-trial-because-of-mental-health-issu.xml)  
+
 ### [2011-05-25](/news/2011/05/25/index.md)
 
+##### Jared Lee Loughner
 # Jared Lee Loughner, accused of murder in the 2011 Tucson shootings, is found to be incompetent to face a trial because of mental health issues. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC Australia](http://www.abc.net.au/am/content/2011/s3227330.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/22/44-people-are-killed-and-41-injured-after-two-buses-crash-in-the-south-of-egypt-s-sinai-peninsula.html)  [JSON](/news/2014/08/22/44-people-are-killed-and-41-injured-after-two-buses-crash-in-the-south-of-egypt-s-sinai-peninsula.json)  [XML](/news/2014/08/22/44-people-are-killed-and-41-injured-after-two-buses-crash-in-the-south-of-egypt-s-sinai-peninsula.xml)  
+
 ### [2014-08-22](/news/2014/08/22/index.md)
 
+##### Egypt
 # 44 people are killed and 41 injured after two buses crash in the south of Egypt's Sinai Peninsula. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Ahram](http://english.ahram.org.eg/News/109033.aspx)
 2. [BBC](http://www.bbc.com/news/world-middle-east-28892145)

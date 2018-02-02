@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/1/iran-s-supreme-leader-ayatollah-ali-khamenei-appoints-mohammed-ali-jafari-to-replace-general-yahya-rahim-safavi-as-the-leader-of-the-revolu.html)  [JSON](/news/2007/09/1/iran-s-supreme-leader-ayatollah-ali-khamenei-appoints-mohammed-ali-jafari-to-replace-general-yahya-rahim-safavi-as-the-leader-of-the-revolu.json)  [XML](/news/2007/09/1/iran-s-supreme-leader-ayatollah-ali-khamenei-appoints-mohammed-ali-jafari-to-replace-general-yahya-rahim-safavi-as-the-leader-of-the-revolu.xml)  
+
 ### [2007-09-1](/news/2007/09/1/index.md)
 
+##### Iran
 #  Iran's supreme leader Ayatollah Ali Khamenei appoints Mohammed Ali Jafari to replace General Yahya Rahim Safavi as the leader of the Revolutionary Guard. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Canadian Press via Google News](http://canadianpress.google.com/article/ALeqM5h7AO0yGbSSfhutYQR-UW64Hkn7TQ)
 

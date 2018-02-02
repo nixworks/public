@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/08/30/in-paris-france-seven-die-and-fourteen-are-injured-when-a-fire-burns-down-an-apartment-housing-african-immigrants-owned-by-the-societe-im.html)  [JSON](/news/2005/08/30/in-paris-france-seven-die-and-fourteen-are-injured-when-a-fire-burns-down-an-apartment-housing-african-immigrants-owned-by-the-societe-im.json)  [XML](/news/2005/08/30/in-paris-france-seven-die-and-fourteen-are-injured-when-a-fire-burns-down-an-apartment-housing-african-immigrants-owned-by-the-societe-im.xml)  
+
 ### [2005-08-30](/news/2005/08/30/index.md)
 
+##### Paris
 #  In Paris, France, seven die and fourteen are injured when a fire burns down an apartment housing African immigrants owned by the Socit Immobilire d'conomie Mixte de la Ville de Paris 22:00 (GMT+1) 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=akYhSjMwb1kk&refer=europe)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000085&sid=akYhSjMwb1kk&refer=europe)
 
 ### Related:
 

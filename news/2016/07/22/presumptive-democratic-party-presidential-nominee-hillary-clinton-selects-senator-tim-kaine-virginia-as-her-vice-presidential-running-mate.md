@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/22/presumptive-democratic-party-presidential-nomin
 
 ### [2016-07-22](/news/2016/07/22/index.md)
 
+##### 2016 U.S. presidential election
 # Presumptive Democratic Party presidential nominee Hillary Clinton selects Senator Tim Kaine (Virginia) as her vice-presidential running mate. 
 
 Hillary Clinton on Friday announced Virginia Sen. Timothy Kaine as her running mate, going with an experienced politician seen as a strong centrist who could attract independents and possibly disenchanted Republicans – and most certainly the safe pick.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/31/four-u-s-civilian-contractors-are-killed-in-a-grenade-attack-by-iraqi-guerrillas-in-fallujah-iraq-a-violent-mob-pulls-charred-bodies-fro.html)  [JSON](/news/2004/03/31/four-u-s-civilian-contractors-are-killed-in-a-grenade-attack-by-iraqi-guerrillas-in-fallujah-iraq-a-violent-mob-pulls-charred-bodies-fro.json)  [XML](/news/2004/03/31/four-u-s-civilian-contractors-are-killed-in-a-grenade-attack-by-iraqi-guerrillas-in-fallujah-iraq-a-violent-mob-pulls-charred-bodies-fro.xml)  
+
 ### [2004-03-31](/news/2004/03/31/index.md)
 
+##### Blackwater
 #  Four U.S. civilian contractors are killed in a grenade attack by Iraqi guerrillas in Fallujah, Iraq. A violent mob pulls charred bodies from the burning vehicles and hang two bodies from a bridge over the Euphrates. In a separate incident, five U.S. soldiers are killed in a large roadside bomb attack 12 mi northwest of Fallujah. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3587931.stm)
 2. [CNN](http://www.cnn.com/2004/WORLD/meast/03/31/iraq.main/index.html)

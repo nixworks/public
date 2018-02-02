@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/7/petro-poroshenko-is-sworn-in-as-the-president-of-ukraine-as-the-pro-russian-separatist-conflict-continues.html)  [JSON](/news/2014/06/7/petro-poroshenko-is-sworn-in-as-the-president-of-ukraine-as-the-pro-russian-separatist-conflict-continues.json)  [XML](/news/2014/06/7/petro-poroshenko-is-sworn-in-as-the-president-of-ukraine-as-the-pro-russian-separatist-conflict-continues.xml)  
+
 ### [2014-06-7](/news/2014/06/7/index.md)
 
+##### Petro Poroshenko
 # Petro Poroshenko is sworn in as the President of Ukraine as the Pro-Russian separatist conflict continues. 
 
 Petro Poroshenko will be sworn in on Saturday as Ukraine&#039;s president, buoyed by messages of support from the West but still seeking a strategy to deal with Russia&#039;s Vladimir Putin, who opposes Kiev&#039;s military drive against pro-Russian separatists.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-27745278#)
 2. [NDTV](http://www.ndtv.com/article/world/ukraine-s-petro-poroshenko-to-be-sworn-in-as-east-seethes-with-separatist-conflict-537507)

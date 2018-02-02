@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/2/an-allied-air-cargo-plane-crashes-into-a-minibus-after-overshooting-the-runway-at-accra-s-kotoka-international-airport-in-ghana-killing-at-l.html)  [JSON](/news/2012/06/2/an-allied-air-cargo-plane-crashes-into-a-minibus-after-overshooting-the-runway-at-accra-s-kotoka-international-airport-in-ghana-killing-at-l.json)  [XML](/news/2012/06/2/an-allied-air-cargo-plane-crashes-into-a-minibus-after-overshooting-the-runway-at-accra-s-kotoka-international-airport-in-ghana-killing-at-l.xml)  
+
 ### [2012-06-2](/news/2012/06/2/index.md)
 
+##### Allied Air
 # An Allied Air cargo plane crashes into a minibus after overshooting the runway at Accra's Kotoka International Airport in Ghana killing at least twelve people. 
 
 A cargo jet has crash into a minibus at Ghana&#039;s Accra airport after overshooting the runway on landing, killing at least 10 people.
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/travel/destinations/africaandindianocean/ghana/9308449/Cargo-plane-crashes-during-takeoff-in-Ghana-killing-at-least-10.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02237/ghana-crash_2237934a.jpg)

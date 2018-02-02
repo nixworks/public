@@ -1,17 +1,27 @@
+
+Formats: [HTML](/news/2010/08/11/venezuela-and-colombia-re-establish-diplomatic-relations-after-a-meeting-between-recently-inaugurated-president-of-colombia-juan-manuel-sant.html)  [JSON](/news/2010/08/11/venezuela-and-colombia-re-establish-diplomatic-relations-after-a-meeting-between-recently-inaugurated-president-of-colombia-juan-manuel-sant.json)  [XML](/news/2010/08/11/venezuela-and-colombia-re-establish-diplomatic-relations-after-a-meeting-between-recently-inaugurated-president-of-colombia-juan-manuel-sant.xml)  
+
 ### [2010-08-11](/news/2010/08/11/index.md)
 
+##### Venezuela
 # Venezuela and Colombia re-establish diplomatic relations after a meeting between recently inaugurated President of Colombia Juan Manuel Santos and Venezuelan President Hugo Chavez in Santa Marta, Colombia, mediated by UNASUR Secretary General Nestor Kirchner. 
 
 The leaders of Colombia and Venezuela met in an effort to repair relations that deteriorated over claims that Colombian guerrillas were operating from Venezuela.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/201081023312716697.html)
 2. [Buenos Aires Herald](http://www.buenosairesherald.com/BreakingNews/View/41923)
-3. [The New York Times](http://www.nytimes.com/2010/08/11/world/americas/11venez.html)
+3. [The New York Times](https://www.nytimes.com/2010/08/11/world/americas/11venez.html)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/12/c_13441557.htm)
 4. [Cover Image](https://static01.nyt.com/images/2010/08/11/world/VENEZ/VENEZ-thumbStandard.jpg)
+
+### Changes:
+
+1. [Colombia-Venezuela relations:Venezuela and Colombia re-establish diplomatic relations after a meeting between recently inaugurated President of Colombia Juan Manuel Santos and Venezuelan President Hugo Chavez in Santa Marta, Colombia, mediated by UNASUR Secretary General Nestor Kirchner. ](/news/2010/08/11/colombia-venezuela-relations-pvenezuela-and-colombia-re-establish-diplomatic-relations-after-a-meeting-between-recently-inaugurated-presiden.md) _2017-08-25 03:29:22 (First version)_
+2. [Colombia-Venezuela relations:: Venezuela and Colombia re-establish diplomatic relations after a meeting between recently inaugurated President of Colombia Juan Manuel Santos and Venezuelan President Hugo Chavez in Santa Marta, Colombia, mediated by UNASUR Secretary General Nestor Kirchner. ](/news/2010/08/11/colombia-venezuela-relations-venezuela-and-colombia-re-establish-diplomatic-relations-after-a-meeting-between-recently-inaugurated-preside.md) _2017-08-27 03:29:23 (Update)_
+2. [Venezuela and Colombia re-establish diplomatic relations after a meeting between recently inaugurated President of Colombia Juan Manuel Santos and Venezuelan President Hugo Chavez in Santa Marta, Colombia, mediated by UNASUR Secretary General Nestor Kirchner. ](/news/2010/08/11/venezuela-and-colombia-re-establish-diplomatic-relations-after-a-meeting-between-recently-inaugurated-president-of-colombia-juan-manuel-sant.md) _(Current version)_
 
 ### Related:
 
@@ -20,9 +30,3 @@ The leaders of Colombia and Venezuela met in an effort to repair relations that 
 3. [The President of Venezuela Nicolas Maduro and the President of Colombia Juan Manuel Santos agree to gradually reopen their common border which had been closed following a Venezuelan crackdown on smuggling. ](/news/2015/09/22/the-president-of-venezuela-nicola-s-maduro-and-the-president-of-colombia-juan-manuel-santos-agree-to-gradually-reopen-their-common-border-wh.md) _Context: Colombian President, Juan Manuel Santos, President, Venezuela_
 4. [President of Venezuela Hugo Chvez welcomes President of Colombia Juan Manuel Santos to Caracas. ](/news/2010/11/2/president-of-venezuela-hugo-chavez-welcomes-president-of-colombia-juan-manuel-santos-to-caracas.md) _Context: Colombia, Colombian President, Juan Manuel Santos, Venezuela_
 5. [Venezuela's Hugo Chavez promises that his foreign minister will attend the inauguration of Juan Manuel Santos as Colombian president, two weeks after direct relations between the two countries were broken off, thanks to mediation efforts by President of Brazil Luiz Inacio Lula da Silva. ](/news/2010/08/6/venezuela-s-hugo-cha-vez-promises-that-his-foreign-minister-will-attend-the-inauguration-of-juan-manuel-santos-as-colombian-president-two-w.md) _Context: Colombia, Hugo Chavez, Juan Manuel Santos, Venezuela_
-
-### Changes:
-
-1. [Colombia-Venezuela relations:Venezuela and Colombia re-establish diplomatic relations after a meeting between recently inaugurated President of Colombia Juan Manuel Santos and Venezuelan President Hugo Chavez in Santa Marta, Colombia, mediated by UNASUR Secretary General Nestor Kirchner. ](/news/2010/08/11/colombia-venezuela-relations-pvenezuela-and-colombia-re-establish-diplomatic-relations-after-a-meeting-between-recently-inaugurated-presiden.md) _2017-08-25 03:29:22 (First version)_
-2. [Colombia-Venezuela relations:: Venezuela and Colombia re-establish diplomatic relations after a meeting between recently inaugurated President of Colombia Juan Manuel Santos and Venezuelan President Hugo Chavez in Santa Marta, Colombia, mediated by UNASUR Secretary General Nestor Kirchner. ](/news/2010/08/11/colombia-venezuela-relations-venezuela-and-colombia-re-establish-diplomatic-relations-after-a-meeting-between-recently-inaugurated-preside.md) _2017-08-27 03:29:23 (Update)_
-2. [Venezuela and Colombia re-establish diplomatic relations after a meeting between recently inaugurated President of Colombia Juan Manuel Santos and Venezuelan President Hugo Chavez in Santa Marta, Colombia, mediated by UNASUR Secretary General Nestor Kirchner. ](/news/2010/08/11/venezuela-and-colombia-re-establish-diplomatic-relations-after-a-meeting-between-recently-inaugurated-president-of-colombia-juan-manuel-sant.md) _(Current version)_

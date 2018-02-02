@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/19/saudi-arabia-closes-its-embassy-in-tripoli-over-security-concerns-in-libya.html)  [JSON](/news/2014/05/19/saudi-arabia-closes-its-embassy-in-tripoli-over-security-concerns-in-libya.json)  [XML](/news/2014/05/19/saudi-arabia-closes-its-embassy-in-tripoli-over-security-concerns-in-libya.xml)  
+
 ### [2014-05-19](/news/2014/05/19/index.md)
 
+##### Saudi Arabia
 # Saudi Arabia closes its embassy in Tripoli over security concerns in Libya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/sns-rt-us-saudi-libya-diplomacy-20140519,0,1161327.story)
 

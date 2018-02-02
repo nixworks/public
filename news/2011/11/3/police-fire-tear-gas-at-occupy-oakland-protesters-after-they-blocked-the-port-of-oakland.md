@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/3/police-fire-tear-gas-at-occupy-oakland-protesters-after-they-blocked-the-port-of-oakland.html)  [JSON](/news/2011/11/3/police-fire-tear-gas-at-occupy-oakland-protesters-after-they-blocked-the-port-of-oakland.json)  [XML](/news/2011/11/3/police-fire-tear-gas-at-occupy-oakland-protesters-after-they-blocked-the-port-of-oakland.xml)  
+
 ### [2011-11-3](/news/2011/11/3/index.md)
 
+##### tear gas
 # Police fire tear gas at Occupy Oakland protesters after they blocked the Port of Oakland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/11/03/us/occupy-demonstrators/index.html?&hpt=hp_c1)
 

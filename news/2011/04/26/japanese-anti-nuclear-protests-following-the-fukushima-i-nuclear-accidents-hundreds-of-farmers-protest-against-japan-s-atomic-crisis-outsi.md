@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/26/japanese-anti-nuclear-protests-following-the-fukushima-i-nuclear-accidents-hundreds-of-farmers-protest-against-japan-s-atomic-crisis-outsi.html)  [JSON](/news/2011/04/26/japanese-anti-nuclear-protests-following-the-fukushima-i-nuclear-accidents-hundreds-of-farmers-protest-against-japan-s-atomic-crisis-outsi.json)  [XML](/news/2011/04/26/japanese-anti-nuclear-protests-following-the-fukushima-i-nuclear-accidents-hundreds-of-farmers-protest-against-japan-s-atomic-crisis-outsi.xml)  
+
 ### [2011-04-26](/news/2011/04/26/index.md)
 
+##### Japan
 # Japanese anti-nuclear protests following the Fukushima I nuclear accidents: Hundreds of farmers protest against Japan's atomic crisis, outside the TEPCO head office in Tokyo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jX2dLU2d_ksdL8XrcAmzfVV3gTPA?docId=CNG.4ca73c977c97b97262beb69ade7fe67f.71)
 

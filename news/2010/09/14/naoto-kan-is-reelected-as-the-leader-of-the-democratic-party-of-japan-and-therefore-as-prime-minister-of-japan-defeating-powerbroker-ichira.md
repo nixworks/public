@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/09/14/naoto-kan-is-reelected-as-the-leader-of-the-democratic-party-of-japan-and-therefore-as-prime-minister-of-japan-defeating-powerbroker-ichira.html)  [JSON](/news/2010/09/14/naoto-kan-is-reelected-as-the-leader-of-the-democratic-party-of-japan-and-therefore-as-prime-minister-of-japan-defeating-powerbroker-ichira.json)  [XML](/news/2010/09/14/naoto-kan-is-reelected-as-the-leader-of-the-democratic-party-of-japan-and-therefore-as-prime-minister-of-japan-defeating-powerbroker-ichira.xml)  
+
 ### [2010-09-14](/news/2010/09/14/index.md)
 
+##### Naoto Kan
 # Naoto Kan is reelected as the leader of the Democratic Party of Japan and therefore as Prime Minister of Japan, defeating powerbroker Ichiro Ozawa. 
 
 * PM Kan has promised to curb spending and cap borrowing * Kan beats rival who eyed more debt sales to boost economy * JGB futures rise, s
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTOE68D06W20100914)
+1. [Reuters](https://www.reuters.com/article/idUSTOE68D06W20100914)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/14/c_13494220.htm)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

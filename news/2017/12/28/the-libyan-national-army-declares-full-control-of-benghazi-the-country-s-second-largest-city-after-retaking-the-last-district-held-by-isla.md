@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/28/the-libyan-national-army-declares-full-control-
 
 ### [2017-12-28](/news/2017/12/28/index.md)
 
+##### Libyan Civil War (2014-present)
 # The Libyan National Army declares full control of Benghazi, the country's second largest city, after retaking the last district held by Islamist militants. 
 
 
@@ -19,4 +20,4 @@ Formats: [HTML](/news/2017/12/28/the-libyan-national-army-declares-full-control-
 2. [Seven Libyan National Army soldiers are killed fighting ISIL militants in Benghazi. ](/news/2016/02/26/seven-libyan-national-army-soldiers-are-killed-fighting-isil-militants-in-benghazi.md) _Context: Benghazi, Libyan Civil War (2014-present), Libyan National Army_
 3. [Senior Libyan military officials say French special forces are on the ground in Benghazi helping Libyan National Army troops fight ISIL militants. They said that the French forces, along with American and British teams, are setting up an operations room inside Benina International Airport in Benina. The French defense ministry declined to comment, citing a policy not to comment on special forces' activities. ](/news/2016/02/24/senior-libyan-military-officials-say-french-special-forces-are-on-the-ground-in-benghazi-helping-libyan-national-army-troops-fight-isil-mili.md) _Context: Benghazi, Libyan Civil War (2014-present), Libyan National Army_
 4. [The Libyan National Army says it has taken control of the town of Ajdabiya and several areas of Benghazi following heavy clashes with Islamist militant groups. ](/news/2016/02/21/the-libyan-national-army-says-it-has-taken-control-of-the-town-of-ajdabiya-and-several-areas-of-benghazi-following-heavy-clashes-with-islami.md) _Context: Benghazi, Libyan Civil War (2014-present), Libyan National Army_
-5. [The death toll from an attack on a Libyan National Army-controlled airbase in southern Libya reportedly rises to 140 people. ](/news/2017/05/20/the-death-toll-from-an-attack-on-a-libyan-national-army-controlled-airbase-in-southern-libya-reportedly-rises-to-140-people.md) _Context: Libyan Civil War (2014-present), Libyan National Army_
+5. [A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials. ](/news/2018/01/23/a-double-car-bombing-in-benghazi-libya-kills-at-least-33-people-and-wounds-dozens-of-others-the-victims-include-both-military-personnel.md) _Context: Benghazi, Libyan Civil War (2014-present)_

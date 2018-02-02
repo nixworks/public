@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/17/the-prime-minister-of-australia-julia-gillard-calls-a-federal-election-for-21-august-2010.html)  [JSON](/news/2010/07/17/the-prime-minister-of-australia-julia-gillard-calls-a-federal-election-for-21-august-2010.json)  [XML](/news/2010/07/17/the-prime-minister-of-australia-julia-gillard-calls-a-federal-election-for-21-august-2010.xml)  
+
 ### [2010-07-17](/news/2010/07/17/index.md)
 
+##### Australian Prime Minister
 # The Prime Minister of Australia Julia Gillard calls a federal election for 21 August 2010. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/20107172215810629.html)
 2. [iPrime](http://newcastle.iprime.com.au/index.php/news/prime-news/gillard-announces-election,458801)

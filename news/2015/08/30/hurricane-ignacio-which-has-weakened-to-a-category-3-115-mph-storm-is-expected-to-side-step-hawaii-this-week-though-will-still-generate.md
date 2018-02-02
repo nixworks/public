@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2015/08/30/hurricane-ignacio-which-has-weakened-to-a-category-3-115-mph-storm-is-expected-to-side-step-hawaii-this-week-though-will-still-generate.html)  [JSON](/news/2015/08/30/hurricane-ignacio-which-has-weakened-to-a-category-3-115-mph-storm-is-expected-to-side-step-hawaii-this-week-though-will-still-generate.json)  [XML](/news/2015/08/30/hurricane-ignacio-which-has-weakened-to-a-category-3-115-mph-storm-is-expected-to-side-step-hawaii-this-week-though-will-still-generate.xml)  
+
 ### [2015-08-30](/news/2015/08/30/index.md)
 
+##### 2015 Pacific hurricane season
 #  Hurricane Ignacio, which has weakened to a Category 3 (115 mph) storm, is expected to side-step Hawaii this week though will still generate high surf, rain and powerful winds. The Big Island and Maui remain on a tropical storm watch. Ignacio may re-strengthen to a hurricane when he clears Oahu on Wednesday. 
 
 Hurricane Ignacio has been flexing his muscles and forcing Hawaiians to take notice as he marches across the Pacific toward the island paradise and surf mecca
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/2015/08/30/storm-ignacio-idINL1N1150KK20150830)
 2. [The Inquisitr](http://www.inquisitr.com/2379655/hurricane-ignacio-set-to-blow-past-hawaii-bringing-epic-rain-and-monster-surf/#ebQbukxKltDKcZS8.99)
 2. [Cover Image](http://cdn.inquisitr.com/wp-content/uploads/2015/08/Ignacio-900x440.jpg)
+
+### Changes:
+
+1. [2015 Pacific hurricane season: Hurricane Ignacio, which has weakened to a Category 3 (115 mph) storm, is expected to side-step Hawaii this week though will still generate high surf, rain and powerful winds. The Big Island and Maui remain on a tropical storm watch. Ignacio may re-strengthen to a hurricane when he clears Oahu on Wednesday. ](/news/2015/08/30/2015-pacific-hurricane-season-hurricane-ignacio-which-has-weakened-to-a-category-3-115-mph-storm-is-expected-to-side-step-hawaii-this-w.md) _2017-08-27 03:42:56 (First version)_
+1. [ Hurricane Ignacio, which has weakened to a Category 3 (115 mph) storm, is expected to side-step Hawaii this week though will still generate high surf, rain and powerful winds. The Big Island and Maui remain on a tropical storm watch. Ignacio may re-strengthen to a hurricane when he clears Oahu on Wednesday. ](/news/2015/08/30/hurricane-ignacio-which-has-weakened-to-a-category-3-115-mph-storm-is-expected-to-side-step-hawaii-this-week-though-will-still-generate.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ Hurricane Ignacio has been flexing his muscles and forcing Hawaiians to take not
 3. [Billy Kenoi, the mayor of Hawaii's Big Island, declares a state of emergency to deal with the growing outbreak of dengue fever, which is spread by infected mosquitoes. ](/news/2016/02/8/billy-kenoi-the-mayor-of-hawaii-s-big-island-declares-a-state-of-emergency-to-deal-with-the-growing-outbreak-of-dengue-fever-which-is-spr.md) _Context: Hawaii, island of Hawaii_
 4. [Tropical Storm Niala forms off the coast of the Hawaiian islands with the likelihood of heavy rain on the island of Hawaii ("Big Island") over the weekend. ](/news/2015/09/26/tropical-storm-niala-forms-off-the-coast-of-the-hawaiian-islands-with-the-likelihood-of-heavy-rain-on-the-island-of-hawaii-big-island-ov.md) _Context: 2015 Pacific hurricane season, island of Hawaii_
 5. [Hawaii Governor David Ige signs an emergency proclamation in anticipation of the arrival of Hurricane Ignacio on Monday. Ignacio is expected to strengthen to Category 2 this weekend. The state is still recovering from precipitation from Tropical Storm Kilo which skirted the islands earlier this week. In addition, Hurricane Jimena, which is expected to intensify to near category 5 strength on Saturday, is trailing Ignacio and also heading toward Hawaii. ](/news/2015/08/28/hawaii-governor-david-ige-signs-an-emergency-proclamation-in-anticipation-of-the-arrival-of-hurricane-ignacio-on-monday-ignacio-is-expected.md) _Context: 2015 Pacific hurricane season, Tropical Storm Ignacio_
-
-### Changes:
-
-1. [2015 Pacific hurricane season: Hurricane Ignacio, which has weakened to a Category 3 (115 mph) storm, is expected to side-step Hawaii this week though will still generate high surf, rain and powerful winds. The Big Island and Maui remain on a tropical storm watch. Ignacio may re-strengthen to a hurricane when he clears Oahu on Wednesday. ](/news/2015/08/30/2015-pacific-hurricane-season-hurricane-ignacio-which-has-weakened-to-a-category-3-115-mph-storm-is-expected-to-side-step-hawaii-this-w.md) _2017-08-27 03:42:56 (First version)_
-1. [ Hurricane Ignacio, which has weakened to a Category 3 (115 mph) storm, is expected to side-step Hawaii this week though will still generate high surf, rain and powerful winds. The Big Island and Maui remain on a tropical storm watch. Ignacio may re-strengthen to a hurricane when he clears Oahu on Wednesday. ](/news/2015/08/30/hurricane-ignacio-which-has-weakened-to-a-category-3-115-mph-storm-is-expected-to-side-step-hawaii-this-week-though-will-still-generate.md) _(Current version)_

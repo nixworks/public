@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/22/the-home-of-an-opposition-activist-is-bombed-in-the-sri-lankan-capital-colombo-days-ahead-of-the-presidential-election.html)  [JSON](/news/2010/01/22/the-home-of-an-opposition-activist-is-bombed-in-the-sri-lankan-capital-colombo-days-ahead-of-the-presidential-election.json)  [XML](/news/2010/01/22/the-home-of-an-opposition-activist-is-bombed-in-the-sri-lankan-capital-colombo-days-ahead-of-the-presidential-election.xml)  
+
 ### [2010-01-22](/news/2010/01/22/index.md)
 
+##### Sri Lanka
 # The home of an opposition activist is bombed in the Sri Lankan capital Colombo days ahead of the presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8473929.stm)
 2. [Press Trust of India](http://www.ptinews.com/news/479855_Bomb-attack-in-Colombo-ahead-of-vote)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/4/shahrir-abdul-samad-resigns-as-chairman-of-the-barisan-nasional-backbenchers-club-in-the-parliament-of-malaysia-after-a-motion-to-refer-a.html)  [JSON](/news/2006/05/4/shahrir-abdul-samad-resigns-as-chairman-of-the-barisan-nasional-backbenchers-club-in-the-parliament-of-malaysia-after-a-motion-to-refer-a.json)  [XML](/news/2006/05/4/shahrir-abdul-samad-resigns-as-chairman-of-the-barisan-nasional-backbenchers-club-in-the-parliament-of-malaysia-after-a-motion-to-refer-a.xml)  
+
 ### [2006-05-4](/news/2006/05/4/index.md)
 
+##### Shahrir Abdul Samad
 #  Shahrir Abdul Samad resigns as chairman of the Barisan Nasional Backbenchers Club in the Parliament of Malaysia, after a motion to refer a Member of Parliament implicated in a corruption scandal to the "Dewan Rakyat" House Rights and Privileges Committee failed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Sun](http://www.sun2surf.com/article.cfm?id=14017)
 

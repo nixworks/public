@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/10/secessionists-battle-with-forces-from-somaliland-near-the-border-with-puntland-in-northern-somalia.html)  [JSON](/news/2012/02/10/secessionists-battle-with-forces-from-somaliland-near-the-border-with-puntland-in-northern-somalia.json)  [XML](/news/2012/02/10/secessionists-battle-with-forces-from-somaliland-near-the-border-with-puntland-in-northern-somalia.xml)  
+
 ### [2012-02-10](/news/2012/02/10/index.md)
 
+##### Somaliland
 # Secessionists battle with forces from Somaliland near the border with Puntland in northern Somalia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/africa/somaliland-clashes-with-secessionists-1.1231887)
 

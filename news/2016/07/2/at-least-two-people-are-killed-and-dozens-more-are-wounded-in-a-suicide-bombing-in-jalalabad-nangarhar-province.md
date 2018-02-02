@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/2/at-least-two-people-are-killed-and-dozens-more-a
 
 ### [2016-07-2](/news/2016/07/2/index.md)
 
+##### War in Afghanistan
 # At least two people are killed and dozens more are wounded in a suicide bombing in Jalalabad, Nangarhar Province. 
 
 

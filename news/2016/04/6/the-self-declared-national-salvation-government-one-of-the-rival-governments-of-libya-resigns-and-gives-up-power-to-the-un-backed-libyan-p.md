@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/6/the-self-declared-national-salvation-government-
 
 ### [2016-04-6](/news/2016/04/6/index.md)
 
+##### Libyan Civil War (2014-present)
 # The self-declared National Salvation government, one of the rival governments of Libya, resigns and gives up power to the UN-backed Libyan Presidential Council in Tripoli. 
 
 Announcement comes as new UN-brokered unity government seeks to establish itself in Tripoli

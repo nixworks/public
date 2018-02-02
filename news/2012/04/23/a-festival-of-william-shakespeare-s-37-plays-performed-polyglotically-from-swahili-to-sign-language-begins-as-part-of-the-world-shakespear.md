@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/23/a-festival-of-william-shakespeare-s-37-plays-performed-polyglotically-from-swahili-to-sign-language-begins-as-part-of-the-world-shakespear.html)  [JSON](/news/2012/04/23/a-festival-of-william-shakespeare-s-37-plays-performed-polyglotically-from-swahili-to-sign-language-begins-as-part-of-the-world-shakespear.json)  [XML](/news/2012/04/23/a-festival-of-william-shakespeare-s-37-plays-performed-polyglotically-from-swahili-to-sign-language-begins-as-part-of-the-world-shakespear.xml)  
+
 ### [2012-04-23](/news/2012/04/23/index.md)
 
+##### William Shakespeare
 # A festival of William Shakespeare's 37 plays performed polyglotically, from Swahili to sign language, begins as part of the World Shakespeare Festival on the anniversary of the Bard of Avon's birth. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17811639)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59807000/jpg/_59807721_maori.jpg)

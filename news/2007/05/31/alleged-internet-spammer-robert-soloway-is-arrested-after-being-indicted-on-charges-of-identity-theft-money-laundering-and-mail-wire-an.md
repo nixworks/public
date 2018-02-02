@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/31/alleged-internet-spammer-robert-soloway-is-arrested-after-being-indicted-on-charges-of-identity-theft-money-laundering-and-mail-wire-an.html)  [JSON](/news/2007/05/31/alleged-internet-spammer-robert-soloway-is-arrested-after-being-indicted-on-charges-of-identity-theft-money-laundering-and-mail-wire-an.json)  [XML](/news/2007/05/31/alleged-internet-spammer-robert-soloway-is-arrested-after-being-indicted-on-charges-of-identity-theft-money-laundering-and-mail-wire-an.xml)  
+
 ### [2007-05-31](/news/2007/05/31/index.md)
 
+##### Internet
 #  Alleged Internet spammer Robert Soloway is arrested after being indicted on charges of identity theft, money laundering, and mail, wire, and e-mail fraud. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/technology/6707333.stm)
 2. [Times of India](http://timesofindia.indiatimes.com/World/The_United_States/US_Internet_Spam_King__Robert_Soloway_arrested/articleshow/2087913.cms)

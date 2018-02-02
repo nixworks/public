@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/5/ungdomshuset-in-copenhagen-denmark-is-demolished-to-prevent-it-from-being-re-occupied.html)  [JSON](/news/2007/03/5/ungdomshuset-in-copenhagen-denmark-is-demolished-to-prevent-it-from-being-re-occupied.json)  [XML](/news/2007/03/5/ungdomshuset-in-copenhagen-denmark-is-demolished-to-prevent-it-from-being-re-occupied.xml)  
+
 ### [2007-03-5](/news/2007/03/5/index.md)
 
+##### Ungdomshuset
 #  Ungdomshuset in Copenhagen, Denmark, is demolished to prevent it from being re-occupied. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://www.cnn.com/2007/WORLD/europe/03/05/denmark.protests.ap/index.html)
 

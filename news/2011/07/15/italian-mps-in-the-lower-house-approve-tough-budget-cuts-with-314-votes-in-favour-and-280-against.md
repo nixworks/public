@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/15/italian-mps-in-the-lower-house-approve-tough-budget-cuts-with-314-votes-in-favour-and-280-against.html)  [JSON](/news/2011/07/15/italian-mps-in-the-lower-house-approve-tough-budget-cuts-with-314-votes-in-favour-and-280-against.json)  [XML](/news/2011/07/15/italian-mps-in-the-lower-house-approve-tough-budget-cuts-with-314-votes-in-favour-and-280-against.xml)  
+
 ### [2011-07-15](/news/2011/07/15/index.md)
 
+##### Italian Chamber of Deputies
 # Italian MPs in the lower house approve tough budget cuts with 314 votes in favour and 280 against. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-14168914)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/54092000/jpg/_54092053_54092052.jpg)

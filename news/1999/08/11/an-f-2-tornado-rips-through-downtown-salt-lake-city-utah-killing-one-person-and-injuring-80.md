@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/08/11/an-f-2-tornado-rips-through-downtown-salt-lake-city-utah-killing-one-person-and-injuring-80.html)  [JSON](/news/1999/08/11/an-f-2-tornado-rips-through-downtown-salt-lake-city-utah-killing-one-person-and-injuring-80.json)  [XML](/news/1999/08/11/an-f-2-tornado-rips-through-downtown-salt-lake-city-utah-killing-one-person-and-injuring-80.xml)  
+
 ### [1999-08-11](/news/1999/08/11/index.md)
 
+##### F-2 tornado
 #  An F-2 tornado rips through downtown Salt Lake City, Utah, killing one person and injuring 80.
 
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/08/15/authorities-in-the-north-eastern-chinese-city-of-dalian-order-a-petrochemical-plant-which-produces-paraxylene-px-to-be-shut-down-and-rel.html)  [JSON](/news/2011/08/15/authorities-in-the-north-eastern-chinese-city-of-dalian-order-a-petrochemical-plant-which-produces-paraxylene-px-to-be-shut-down-and-rel.json)  [XML](/news/2011/08/15/authorities-in-the-north-eastern-chinese-city-of-dalian-order-a-petrochemical-plant-which-produces-paraxylene-px-to-be-shut-down-and-rel.xml)  
+
 ### [2011-08-15](/news/2011/08/15/index.md)
 
+##### Dalian
 # Authorities in the north-eastern Chinese city of Dalian order a petrochemical plant, which produces paraxylene (PX), to be shut down and relocated, after tens of thousands of local residents protested through the streets on Sunday, fearing potential pollution. The protests resembled to a similar case, when citizens went on a protest "stroll" in the southeastern city of Xiamen in June 2007. 
 
 A protest in China shows the complications of the country&#39;s successes and failures
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/cndy/2011-08/15/content_13109686.htm)
-2. [The Atlantic](http://www.theatlantic.com/international/archive/2011/08/todays-news-out-of-china-the-dalian-px-protests/243572/)
+2. [The Atlantic](https://www.theatlantic.com/international/archive/2011/08/todays-news-out-of-china-the-dalian-px-protests/243572/)
 3. [The Guardian](http://www.guardian.co.uk/world/2011/aug/14/china-petrochemical-plant-shutdown-protest)
 4. [The Wall Street Journal](http://online.wsj.com/article/SB10001424053111904253204576508252300809390.html)
 4. [Cover Image](https://cdn.theatlantic.com/assets/media/mt/jamesfallows/DalianShots-thumb.jpg)

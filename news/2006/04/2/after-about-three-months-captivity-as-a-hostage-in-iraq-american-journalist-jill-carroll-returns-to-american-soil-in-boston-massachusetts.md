@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/2/after-about-three-months-captivity-as-a-hostage-in-iraq-american-journalist-jill-carroll-returns-to-american-soil-in-boston-massachusetts.html)  [JSON](/news/2006/04/2/after-about-three-months-captivity-as-a-hostage-in-iraq-american-journalist-jill-carroll-returns-to-american-soil-in-boston-massachusetts.json)  [XML](/news/2006/04/2/after-about-three-months-captivity-as-a-hostage-in-iraq-american-journalist-jill-carroll-returns-to-american-soil-in-boston-massachusetts.xml)  
+
 ### [2006-04-2](/news/2006/04/2/index.md)
 
+##### hostage in Iraq
 #  After about three months captivity as a hostage in Iraq, American journalist Jill Carroll returns to American soil in Boston, Massachusetts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/WORLD/meast/04/02/carroll.hostage/index.html)
 

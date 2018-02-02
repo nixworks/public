@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/27/steve-bracks-resigns-as-the-premier-of-victoria-john-thwaites-the-deputy-premier-announces-his-resignation-later-in-the-day.html)  [JSON](/news/2007/07/27/steve-bracks-resigns-as-the-premier-of-victoria-john-thwaites-the-deputy-premier-announces-his-resignation-later-in-the-day.json)  [XML](/news/2007/07/27/steve-bracks-resigns-as-the-premier-of-victoria-john-thwaites-the-deputy-premier-announces-his-resignation-later-in-the-day.xml)  
+
 ### [2007-07-27](/news/2007/07/27/index.md)
 
+##### Steve Bracks
 #  Steve Bracks resigns as the Premier of Victoria. John Thwaites, the Deputy Premier, announces his resignation later in the day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/news/national/now-deputy-premier-resigns/2007/07/27/1185339223105.html?s_cid=rss_news)
 2. [Sydney Morning Herald](http://www.smh.com.au/news/national/victorian-premier-bracks-resigns/2007/07/27/1185339210114.html?s_cid=rss_news)

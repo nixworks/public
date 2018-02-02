@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/15/arsenal-defeat-leicester-city-2-1-in-the-premier-league-to-become-the-first-team-to-go-unbeaten-in-the-top-tier-english-league-since-presto.html)  [JSON](/news/2004/05/15/arsenal-defeat-leicester-city-2-1-in-the-premier-league-to-become-the-first-team-to-go-unbeaten-in-the-top-tier-english-league-since-presto.json)  [XML](/news/2004/05/15/arsenal-defeat-leicester-city-2-1-in-the-premier-league-to-become-the-first-team-to-go-unbeaten-in-the-top-tier-english-league-since-presto.xml)  
+
 ### [2004-05-15](/news/2004/05/15/index.md)
 
+##### Arsenal
 #  Arsenal defeat Leicester City 2-1 in the Premier League to become the first team to go unbeaten in the top tier English league since Preston North End in the 1888-1889 season, going 26W-12D-0L. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/football/eng_prem/3696197.stm)
 

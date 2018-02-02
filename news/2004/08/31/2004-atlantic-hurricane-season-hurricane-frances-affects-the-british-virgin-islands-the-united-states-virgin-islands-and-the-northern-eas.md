@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/31/2004-atlantic-hurricane-season-hurricane-frances-affects-the-british-virgin-islands-the-united-states-virgin-islands-and-the-northern-eas.html)  [JSON](/news/2004/08/31/2004-atlantic-hurricane-season-hurricane-frances-affects-the-british-virgin-islands-the-united-states-virgin-islands-and-the-northern-eas.json)  [XML](/news/2004/08/31/2004-atlantic-hurricane-season-hurricane-frances-affects-the-british-virgin-islands-the-united-states-virgin-islands-and-the-northern-eas.xml)  
+
 ### [2004-08-31](/news/2004/08/31/index.md)
 
+##### 2004 Atlantic hurricane season
 #  2004 Atlantic hurricane season: Hurricane Frances affects the British Virgin Islands, the United States Virgin Islands and the northern-east part of Puerto Rico. 
 
 Follow the StarTribune for the news, photos and videos from the Twin Cities and beyond.
 
 
-### Source:
+### Sources:
 
 1. [AP/The Star Tribune](http://www.startribune.com/stories/484/4957323.html)
 1. [Cover Image](http://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1505935633)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/1/a-united-nations-report-makes-accusations-of-killings-torture-and-rape-of-civilians-in-sudan-s-darfur-area-and-calls-for-those-accused-of.html)  [JSON](/news/2005/02/1/a-united-nations-report-makes-accusations-of-killings-torture-and-rape-of-civilians-in-sudan-s-darfur-area-and-calls-for-those-accused-of.json)  [XML](/news/2005/02/1/a-united-nations-report-makes-accusations-of-killings-torture-and-rape-of-civilians-in-sudan-s-darfur-area-and-calls-for-those-accused-of.xml)  
+
 ### [2005-02-1](/news/2005/02/1/index.md)
 
+##### United Nations
 #  A United Nations report makes accusations of killings, torture and rape of civilians in Sudan's Darfur area, and calls for those accused of carrying out war crimes to be put on trial. The report stops short of calling the events a genocide. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4225353.stm)
 

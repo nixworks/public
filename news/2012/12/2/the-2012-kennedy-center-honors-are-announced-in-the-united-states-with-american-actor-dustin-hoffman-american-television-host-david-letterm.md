@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/2/the-2012-kennedy-center-honors-are-announced-in-the-united-states-with-american-actor-dustin-hoffman-american-television-host-david-letterm.html)  [JSON](/news/2012/12/2/the-2012-kennedy-center-honors-are-announced-in-the-united-states-with-american-actor-dustin-hoffman-american-television-host-david-letterm.json)  [XML](/news/2012/12/2/the-2012-kennedy-center-honors-are-announced-in-the-united-states-with-american-actor-dustin-hoffman-american-television-host-david-letterm.xml)  
+
 ### [2012-12-2](/news/2012/12/2/index.md)
 
+##### Kennedy Center Honors
 # The 2012 Kennedy Center Honors are announced in the United States with American actor Dustin Hoffman, American television host David Letterman, British rock group Led Zeppelin, American blues musician Buddy Guy and ballerina Natalia Makarova inducted. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted2.ap.org/APDefault/*/Article_2012-12-02-US-Kennedy-Center-Honors/id-f68d1e3e571949f98065b42f11b22bd9)
 2. [CNN](http://www.cnn.com/2012/12/02/showbiz/kennedy-center-honors/index.html)

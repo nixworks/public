@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/24/jurors-in-the-criminal-trial-of-richard-m-scrushy-founder-and-former-ceo-of-healthsouth-corporation-send-notes-to-the-presiding-judge-th.html)  [JSON](/news/2005/05/24/jurors-in-the-criminal-trial-of-richard-m-scrushy-founder-and-former-ceo-of-healthsouth-corporation-send-notes-to-the-presiding-judge-th.json)  [XML](/news/2005/05/24/jurors-in-the-criminal-trial-of-richard-m-scrushy-founder-and-former-ceo-of-healthsouth-corporation-send-notes-to-the-presiding-judge-th.xml)  
+
 ### [2005-05-24](/news/2005/05/24/index.md)
 
+##### Richard M. Scrushy
 #  Jurors in the criminal trial of Richard M. Scrushy, founder and former CEO of HealthSouth Corporation, send notes to the presiding judge that indicate they are having difficulty reaching unanimity. The case is part of the wave of U.S. corporate scandals of recent years. Prosecutors allege that Mr. Scrushy and others conspired to overstate profits at HealthSouth by circa $2.7 billion, in the period 1996 - 2002. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://news.reuters.com/newsArticle.jhtml?type=topNews&storyID=8593931)
 

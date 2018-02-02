@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/16/the-prime-minister-of-turkey-recep-tayyip-erdogan-arrives-in-libya-for-a-meeting-with-the-national-transitional-council.html)  [JSON](/news/2011/09/16/the-prime-minister-of-turkey-recep-tayyip-erdogan-arrives-in-libya-for-a-meeting-with-the-national-transitional-council.json)  [XML](/news/2011/09/16/the-prime-minister-of-turkey-recep-tayyip-erdogan-arrives-in-libya-for-a-meeting-with-the-national-transitional-council.xml)  
+
 ### [2011-09-16](/news/2011/09/16/index.md)
 
+##### Turkish Prime Minister
 # The Prime Minister of Turkey, Recep Tayyip Erdogan, arrives in Libya for a meeting with the National Transitional Council. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Euronews](http://www.euronews.net/2011/09/16/erdogan-s-arab-spring-tour-stops-in-libya/)
 

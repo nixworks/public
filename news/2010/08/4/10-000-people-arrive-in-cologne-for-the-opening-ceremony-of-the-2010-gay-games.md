@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/4/10-000-people-arrive-in-cologne-for-the-opening-ceremony-of-the-2010-gay-games.html)  [JSON](/news/2010/08/4/10-000-people-arrive-in-cologne-for-the-opening-ceremony-of-the-2010-gay-games.json)  [XML](/news/2010/08/4/10-000-people-arrive-in-cologne-for-the-opening-ceremony-of-the-2010-gay-games.xml)  
+
 ### [2010-08-4](/news/2010/08/4/index.md)
 
+##### Cologne
 # 10,000 people arrive in Cologne for the opening ceremony of the 2010 Gay Games. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/gallery/2010/aug/04/germany)
 

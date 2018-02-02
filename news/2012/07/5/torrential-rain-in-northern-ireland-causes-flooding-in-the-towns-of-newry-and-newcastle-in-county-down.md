@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/5/torrential-rain-in-northern-ireland-causes-flooding-in-the-towns-of-newry-and-newcastle-in-county-down.html)  [JSON](/news/2012/07/5/torrential-rain-in-northern-ireland-causes-flooding-in-the-towns-of-newry-and-newcastle-in-county-down.json)  [XML](/news/2012/07/5/torrential-rain-in-northern-ireland-causes-flooding-in-the-towns-of-newry-and-newcastle-in-county-down.xml)  
+
 ### [2012-07-5](/news/2012/07/5/index.md)
 
+##### Northern Ireland
 # Torrential rain in Northern Ireland causes flooding in the towns of Newry and Newcastle in County Down. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-18718662)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61375000/jpg/_61375732_newcastleflooding.jpg)

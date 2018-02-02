@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/31/the-indonesian-government-plans-an-appeal-to-a-south-sumatra-court-s-rejection-of-a-rp-7-8-trillion-sgd-780-million-lawsuit-against-a-pulp.html)  [JSON](/news/2015/12/31/the-indonesian-government-plans-an-appeal-to-a-south-sumatra-court-s-rejection-of-a-rp-7-8-trillion-sgd-780-million-lawsuit-against-a-pulp.json)  [XML](/news/2015/12/31/the-indonesian-government-plans-an-appeal-to-a-south-sumatra-court-s-rejection-of-a-rp-7-8-trillion-sgd-780-million-lawsuit-against-a-pulp.xml)  
+
 ### [2015-12-31](/news/2015/12/31/index.md)
 
+##### Indonesian government
 # The Indonesian government plans an appeal to a South Sumatra court's rejection of a Rp 7.8 trillion (SGD 780 million) lawsuit against a pulp and paper company accused of contributing to the recurring Southeast Asian hazes, particularly the recent incident of hazes in 2015. 
 
 The Indonesian government says it will appeal a court decision to reject a $565m (£381m) lawsuit against a plantation company accused of causing forest fires.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Straits Times](http://www.straitstimes.com/asia/se-asia/indonesia-to-appeal-courts-rejection-of-lawsuit-against-firm-over-haze-causing-fires)
 2. [BBC News](http://www.bbc.com/news/business-35203609)

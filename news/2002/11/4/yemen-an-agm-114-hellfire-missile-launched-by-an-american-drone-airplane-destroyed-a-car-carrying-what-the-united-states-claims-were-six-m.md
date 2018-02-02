@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/11/4/yemen-an-agm-114-hellfire-missile-launched-by-an-american-drone-airplane-destroyed-a-car-carrying-what-the-united-states-claims-were-six-m.html)  [JSON](/news/2002/11/4/yemen-an-agm-114-hellfire-missile-launched-by-an-american-drone-airplane-destroyed-a-car-carrying-what-the-united-states-claims-were-six-m.json)  [XML](/news/2002/11/4/yemen-an-agm-114-hellfire-missile-launched-by-an-american-drone-airplane-destroyed-a-car-carrying-what-the-united-states-claims-were-six-m.xml)  
+
 ### [2002-11-4](/news/2002/11/4/index.md)
 
+##### Yemen
 #  Yemen: An AGM-114 Hellfire missile launched by an American drone airplane destroyed a car carrying what the United States claims were six members of al-Qaeda, including the mastermind of the USS "Cole" attack, Qaed Salim Sinan al-Harethi.
 
 
@@ -7,8 +11,8 @@
 
 ### Related:
 
-1. [Al Qaeda militants kill at least 13 Yemeni government troops near the city of Mukalla. ](/news/2016/05/12/al-qaeda-militants-kill-at-least-13-yemeni-government-troops-near-the-city-of-mukalla.md) _Context: Yemen, al-Qaeda_
-2. [ U.S. officials say unmanned airstrikes in southern Somalia killed about a dozen suspected militants from the al Qaeda-linked group al Shabaab on Monday and Tuesday. ](/news/2016/04/12/u-s-officials-say-unmanned-airstrikes-in-southern-somalia-killed-about-a-dozen-suspected-militants-from-the-al-qaeda-linked-group-al-shaba.md) _Context: al-Qaeda, drone_
-3. [Yemen's top salafist cleric, Samahan Abdel-Aziz, is found dead, with signs of torture, in Sheikh Othman, Aden Governorate, after being abducted by gunmen outside his mosque after delivering a sermon against Al-Qaeda and the Islamic State. ](/news/2016/01/31/yemen-s-top-salafist-cleric-samahan-abdel-aziz-is-found-dead-with-signs-of-torture-in-sheikh-othman-aden-governorate-after-being-abduc.md) _Context: Yemen, al-Qaeda_
-4. [A drone strike kills four suspected Al-Qaeda militants in northern Yemen. ](/news/2015/09/12/a-drone-strike-kills-four-suspected-al-qaeda-militants-in-northern-yemen.md) _Context: Yemen, al-Qaeda_
-5. [Some 1,200 people escape from a Yemeni prison including al Qaeda members. ](/news/2015/06/30/some-1-200-people-escape-from-a-yemeni-prison-including-al-qaeda-members.md) _Context: Yemen, al-Qaeda_
+1. [Clashes between al-Qaeda and security forces leave 20 soldiers and 3 militants dead in Hodeidah province of western Yemen. ](/news/2014/11/1/clashes-between-al-qaeda-and-security-forces-leave-20-soldiers-and-3-militants-dead-in-hodeidah-province-of-western-yemen.md) _Context: Yemen, al-Qaeda_
+2. [al-Qaeda launches an attack on the south Yemen town of al-Bayda killing at least four soldiers before being beaten back by the army. ](/news/2014/10/8/al-qaeda-launches-an-attack-on-the-south-yemen-town-of-al-bayda-killing-at-least-four-soldiers-before-being-beaten-back-by-the-army.md) _Context: Yemen, al-Qaeda_
+3. [Yemeni forces kill at least seven al-Qaeda militants in the Wadi Hadramout region. ](/news/2014/08/7/yemeni-forces-kill-at-least-seven-al-qaeda-militants-in-the-wadi-hadramout-region.md) _Context: Yemen, al-Qaeda_
+4. [An attack on a Yemeni military checkpoint by suspected al-Qaeda militants in Shabwah Governorate, Yemen, leaves 14 people dead. ](/news/2014/06/5/an-attack-on-a-yemeni-military-checkpoint-by-suspected-al-qaeda-militants-in-shabwah-governorate-yemen-leaves-14-people-dead.md) _Context: Yemen, al-Qaeda_
+5. [Two drone strikes kill at least seven suspected al-Qaeda militants in the Abyan Governorate of Yemen. ](/news/2013/06/1/two-drone-strikes-kill-at-least-seven-suspected-al-qaeda-militants-in-the-abyan-governorate-of-yemen.md) _Context: Yemen, al-Qaeda_

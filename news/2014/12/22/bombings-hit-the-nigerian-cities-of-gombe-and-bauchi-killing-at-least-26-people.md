@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/22/bombings-hit-the-nigerian-cities-of-gombe-and-bauchi-killing-at-least-26-people.html)  [JSON](/news/2014/12/22/bombings-hit-the-nigerian-cities-of-gombe-and-bauchi-killing-at-least-26-people.json)  [XML](/news/2014/12/22/bombings-hit-the-nigerian-cities-of-gombe-and-bauchi-killing-at-least-26-people.xml)  
+
 ### [2014-12-22](/news/2014/12/22/index.md)
 
+##### Nigeria
 # Bombings hit the Nigerian cities of Gombe and Bauchi, killing at least 26 people. 
 
 At least 26 people have been killed in bombings in two major cities in northern Nigeria, with commuters and shoppers targeted, witnesses say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-30580578)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78663000/png/_78663896_nigeria_gombe_464_31102014.png)

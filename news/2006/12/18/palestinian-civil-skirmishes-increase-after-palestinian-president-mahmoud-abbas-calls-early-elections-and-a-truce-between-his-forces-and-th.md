@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/18/palestinian-civil-skirmishes-increase-after-palestinian-president-mahmoud-abbas-calls-early-elections-and-a-truce-between-his-forces-and-th.html)  [JSON](/news/2006/12/18/palestinian-civil-skirmishes-increase-after-palestinian-president-mahmoud-abbas-calls-early-elections-and-a-truce-between-his-forces-and-th.json)  [XML](/news/2006/12/18/palestinian-civil-skirmishes-increase-after-palestinian-president-mahmoud-abbas-calls-early-elections-and-a-truce-between-his-forces-and-th.xml)  
+
 ### [2006-12-18](/news/2006/12/18/index.md)
 
+##### Palestinian Civil Skirmishes
 #  Palestinian Civil Skirmishes increase after Palestinian President Mahmoud Abbas calls early elections and a truce between his forces and the Hamas government appeared close to collapse in the Gaza Strip. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://ca.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-12-18T202755Z_01_L09553221_RTRIDST_0_NEWS-PALESTINIANS-COL.XML)
 

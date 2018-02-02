@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/21/litigants-file-a-new-wave-of-lawsuits-against-v
 
 ### [2016-09-21](/news/2016/09/21/index.md)
 
+##### Volkswagen emissions scandal
 # Litigants file a new wave of lawsuits against Volkswagen regarding its emissions scandal. 
 
 Volkswagen is facing €8.2bn in damages claims from 1,400 German investors over the emissions scandal, a state court has said.

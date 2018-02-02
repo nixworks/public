@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/13/salvage-crews-prepare-to-try-to-refloat-a-cargo-ship-that-collided-with-an-oil-tanker-off-europa-point-the-southernmost-tip-of-gibraltar.html)  [JSON](/news/2007/08/13/salvage-crews-prepare-to-try-to-refloat-a-cargo-ship-that-collided-with-an-oil-tanker-off-europa-point-the-southernmost-tip-of-gibraltar.json)  [XML](/news/2007/08/13/salvage-crews-prepare-to-try-to-refloat-a-cargo-ship-that-collided-with-an-oil-tanker-off-europa-point-the-southernmost-tip-of-gibraltar.xml)  
+
 ### [2007-08-13](/news/2007/08/13/index.md)
 
+##### cargo ship
 #  Salvage crews prepare to try to refloat a cargo ship that collided with an oil tanker off Europa Point, the southernmost tip of Gibraltar, and ended up partially submerged. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [International Herald Tribune](http://www.iht.com/articles/ap/2007/08/13/europe/EU-GEN-Spain-Ship-Collision.php)
 

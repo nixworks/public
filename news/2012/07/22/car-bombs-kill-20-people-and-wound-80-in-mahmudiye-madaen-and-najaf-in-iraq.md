@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/07/22/car-bombs-kill-20-people-and-wound-80-in-mahmudiye-madaen-and-najaf-in-iraq.html)  [JSON](/news/2012/07/22/car-bombs-kill-20-people-and-wound-80-in-mahmudiye-madaen-and-najaf-in-iraq.json)  [XML](/news/2012/07/22/car-bombs-kill-20-people-and-wound-80-in-mahmudiye-madaen-and-najaf-in-iraq.xml)  
+
 ### [2012-07-22](/news/2012/07/22/index.md)
 
+##### Najaf
 # Car bombs kill 20 people and wound 80 in Mahmudiye, Madaen and Najaf in Iraq. 
 
 Car bombs in two towns south of Baghdad and in the Iraqi city of Najaf killed a total of 20 people on Sunday and wounded 80, police and hospital sources said, in one of the most violent days of the past two weeks.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/07/22/us-iraq-violence-bombs-idUSBRE86L0FD20120722?feedType=RSS&feedName=topNews&rpc=71&google_editors_picks=true)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/07/22/us-iraq-violence-bombs-idUSBRE86L0FD20120722?feedType=RSS&feedName=topNews&rpc=71&google_editors_picks=true)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

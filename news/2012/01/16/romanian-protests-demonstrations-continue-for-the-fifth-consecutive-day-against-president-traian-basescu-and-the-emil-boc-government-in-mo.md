@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/16/romanian-protests-demonstrations-continue-for-the-fifth-consecutive-day-against-president-traian-basescu-and-the-emil-boc-government-in-mo.html)  [JSON](/news/2012/01/16/romanian-protests-demonstrations-continue-for-the-fifth-consecutive-day-against-president-traian-basescu-and-the-emil-boc-government-in-mo.json)  [XML](/news/2012/01/16/romanian-protests-demonstrations-continue-for-the-fifth-consecutive-day-against-president-traian-basescu-and-the-emil-boc-government-in-mo.xml)  
+
 ### [2012-01-16](/news/2012/01/16/index.md)
 
+##### major social and political unrest
 # Romanian protests: Demonstrations continue for the fifth consecutive day against president Traian Basescu and the Emil Boc government in more than 60 cities across the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Realitatea TV](http://www.realitatea.net/proteste-in-piata-universitatii-demonstranti-ridicati-politicieni-huiduiti-live-tv_904952.html)
 

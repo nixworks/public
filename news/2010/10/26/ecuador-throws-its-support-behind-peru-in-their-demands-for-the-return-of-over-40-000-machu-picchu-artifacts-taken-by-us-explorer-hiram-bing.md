@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/10/26/ecuador-throws-its-support-behind-peru-in-their-demands-for-the-return-of-over-40-000-machu-picchu-artifacts-taken-by-us-explorer-hiram-bing.html)  [JSON](/news/2010/10/26/ecuador-throws-its-support-behind-peru-in-their-demands-for-the-return-of-over-40-000-machu-picchu-artifacts-taken-by-us-explorer-hiram-bing.json)  [XML](/news/2010/10/26/ecuador-throws-its-support-behind-peru-in-their-demands-for-the-return-of-over-40-000-machu-picchu-artifacts-taken-by-us-explorer-hiram-bing.xml)  
+
 ### [2010-10-26](/news/2010/10/26/index.md)
 
+##### Ecuador
 # Ecuador throws its support behind Peru in their demands for the return of over 40,000 Machu Picchu artifacts taken by US explorer Hiram Bingham III, and now in Yale's possession. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE69Q0BO20101027)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/idUSTRE69Q0BO20101027)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

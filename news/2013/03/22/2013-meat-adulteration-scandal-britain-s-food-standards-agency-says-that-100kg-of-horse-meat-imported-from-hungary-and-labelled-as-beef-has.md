@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/22/2013-meat-adulteration-scandal-britain-s-food-standards-agency-says-that-100kg-of-horse-meat-imported-from-hungary-and-labelled-as-beef-has.html)  [JSON](/news/2013/03/22/2013-meat-adulteration-scandal-britain-s-food-standards-agency-says-that-100kg-of-horse-meat-imported-from-hungary-and-labelled-as-beef-has.json)  [XML](/news/2013/03/22/2013-meat-adulteration-scandal-britain-s-food-standards-agency-says-that-100kg-of-horse-meat-imported-from-hungary-and-labelled-as-beef-has.xml)  
+
 ### [2013-03-22](/news/2013/03/22/index.md)
 
+##### 2013 meat adulteration scandal
 # 2013 meat adulteration scandal: Britain's Food Standards Agency says that 100kg of horse meat imported from Hungary and labelled as beef has been discovered in Lancashire. 
 
 One hundred kilograms of horsemeat imported from Hungary and labelled as beef has been identified in Lancashire, the Food Standards Agency says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21900728)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/65912000/jpg/_65912784_wnx4a8ox.jpg)

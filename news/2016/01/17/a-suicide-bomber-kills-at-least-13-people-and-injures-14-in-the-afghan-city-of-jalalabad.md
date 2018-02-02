@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/17/a-suicide-bomber-kills-at-least-13-people-and-i
 
 ### [2016-01-17](/news/2016/01/17/index.md)
 
+##### War in Afghanistan (2015-present)
 # A suicide bomber kills at least 13 people and injures 14 in the Afghan city of Jalalabad. 
 
 Fourteen people were killed Sunday when a suicide bomber struck a gathering of tribal elders at a prominent politician&#x27;s home in Jalalabad, the second deadly attack in the eastern Afghan city in less than a week. The Taliban denied responsibility for the bombing, which also left 13 people wounded
@@ -21,8 +22,8 @@ Fourteen people were killed Sunday when a suicide bomber struck a gathering of t
 
 ### Related:
 
-1. [ A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-13-others-i.md) _Context: Afghan, War in Afghanistan (2015-present), suicide bomber_
-2. [ Nine people are killed in an attack on the Indian consulate In Jalalabad, Afghanistan. ](/news/2016/03/2/nine-people-are-killed-in-an-attack-on-the-indian-consulate-in-jalalabad-afghanistan.md) _Context: Afghan, Jalalabad, War in Afghanistan (2015-present)_
-3. [A suicide bomber kills at least 26 and injures nearly 50 in Afghanistan's eastern Kunar Province near the border with Pakistan. ](/news/2016/02/27/a-suicide-bomber-kills-at-least-26-and-injures-nearly-50-in-afghanistan-s-eastern-kunar-province-near-the-border-with-pakistan.md) _Context: Afghan, War in Afghanistan (2015-present), suicide bomber_
-4. [A suicide bomber allegedly affiliated with ISIL strikes a bank in the city of Jalalabad in Afghanistan, killing at least 33 and wounding 100. ](/news/2015/04/18/a-suicide-bomber-allegedly-affiliated-with-isil-strikes-a-bank-in-the-city-of-jalalabad-in-afghanistan-killing-at-least-33-and-wounding-100.md) _Context: Afghan, Jalalabad, suicide bomber_
-5. [An explosion kills at least 29 people and injures dozens more at a Shia mosque in Herat, Afghanistan. ](/news/2017/08/1/an-explosion-kills-at-least-29-people-and-injures-dozens-more-at-a-shia-mosque-in-herat-afghanistan.md) _Context: Afghan, War in Afghanistan (2015-present)_
+1. [ A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-13-others-i.md) _Context: Afghanistan, War in Afghanistan (2015-present), suicide bomber_
+2. [ Nine people are killed in an attack on the Indian consulate In Jalalabad, Afghanistan. ](/news/2016/03/2/nine-people-are-killed-in-an-attack-on-the-indian-consulate-in-jalalabad-afghanistan.md) _Context: Afghanistan, Jalalabad, War in Afghanistan (2015-present)_
+3. [A suicide bomber kills at least 26 and injures nearly 50 in Afghanistan's eastern Kunar Province near the border with Pakistan. ](/news/2016/02/27/a-suicide-bomber-kills-at-least-26-and-injures-nearly-50-in-afghanistan-s-eastern-kunar-province-near-the-border-with-pakistan.md) _Context: Afghanistan, War in Afghanistan (2015-present), suicide bomber_
+4. [A suicide bomber allegedly affiliated with ISIL strikes a bank in the city of Jalalabad in Afghanistan, killing at least 33 and wounding 100. ](/news/2015/04/18/a-suicide-bomber-allegedly-affiliated-with-isil-strikes-a-bank-in-the-city-of-jalalabad-in-afghanistan-killing-at-least-33-and-wounding-100.md) _Context: Afghanistan, Jalalabad, suicide bomber_
+5. [A suicide bomber in an ambulance packed with explosives kills at least 102 people and wounds 158 outside a hospital in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-explosives-kills-at-least-102-people-and-wounds-158-outside-a-hospital-in-kabul-afghanistan.md) _Context: Afghanistan, suicide bomber_

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/6/a-study-published-in-nature-and-the-astrophysica
 
 ### [2017-12-6](/news/2017/12/6/index.md)
 
+##### ULAS J1342+0928
 # A study published in "Nature" and the "Astrophysical Journal Letters" describes the discovery of the most distant supermassive black hole ever, around 13.1 billion light years away. 
 
 We’re seeing how it looked when the Universe was a toddler

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2012/02/20/the-thai-economy-shrinks-by-7-percent-during-the-last-quarter-as-a-result-of-the-floods.html)  [JSON](/news/2012/02/20/the-thai-economy-shrinks-by-7-percent-during-the-last-quarter-as-a-result-of-the-floods.json)  [XML](/news/2012/02/20/the-thai-economy-shrinks-by-7-percent-during-the-last-quarter-as-a-result-of-the-floods.xml)  
+
 ### [2012-02-20](/news/2012/02/20/index.md)
 
+##### Thai economy
 # The Thai economy shrinks by 7 percent (%) during the last quarter as a result of the floods.
 
 

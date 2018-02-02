@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/27/more-than-100-people-are-injured-and-one-death-is-reported-as-the-bugandan-king-visits-royal-tombs-which-were-recently-destroyed-by-fire.html)  [JSON](/news/2010/03/27/more-than-100-people-are-injured-and-one-death-is-reported-as-the-bugandan-king-visits-royal-tombs-which-were-recently-destroyed-by-fire.json)  [XML](/news/2010/03/27/more-than-100-people-are-injured-and-one-death-is-reported-as-the-bugandan-king-visits-royal-tombs-which-were-recently-destroyed-by-fire.xml)  
+
 ### [2010-03-27](/news/2010/03/27/index.md)
 
+##### Buganda
 # More than 100 people are injured and one death is reported as the Bugandan king visits royal tombs which were recently destroyed by fire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://arabnews.com/world/article35380.ece)
 

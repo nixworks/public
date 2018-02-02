@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/26/at-least-25-people-are-killed-and-100-injured-as-a-passenger-train-rams-into-a-goods-train-in-uttar-pradesh-india.html)  [JSON](/news/2014/05/26/at-least-25-people-are-killed-and-100-injured-as-a-passenger-train-rams-into-a-goods-train-in-uttar-pradesh-india.json)  [XML](/news/2014/05/26/at-least-25-people-are-killed-and-100-injured-as-a-passenger-train-rams-into-a-goods-train-in-uttar-pradesh-india.xml)  
+
 ### [2014-05-26](/news/2014/05/26/index.md)
 
+##### passenger train
 # At least 25 people are killed and 100 injured as a passenger train rams into a goods train in Uttar Pradesh, India.
 
 40 people have died after the Gorakhdham Express rammed a stationary goods train near Khalilabad in Uttar Pradesh, said officials. At least 100 others have been injured.
 
 
-### Source:
+### Sources:
 
 1. [IANS via Biharprabha](http://news.biharprabha.com/2014/05/gorakhdham-express-derails-in-sant-kabir-nagar-up-killing-at-least-6/)
 2. [NDTV](http://www.ndtv.com/article/india/20-feared-dead-as-gorakhdham-express-rams-into-goods-train-in-uttar-pradesh-530851?pfrom=home-lateststories)

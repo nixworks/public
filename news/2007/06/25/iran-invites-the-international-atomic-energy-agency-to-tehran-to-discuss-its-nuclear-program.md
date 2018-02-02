@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/25/iran-invites-the-international-atomic-energy-agency-to-tehran-to-discuss-its-nuclear-program.html)  [JSON](/news/2007/06/25/iran-invites-the-international-atomic-energy-agency-to-tehran-to-discuss-its-nuclear-program.json)  [XML](/news/2007/06/25/iran-invites-the-international-atomic-energy-agency-to-tehran-to-discuss-its-nuclear-program.xml)  
+
 ### [2007-06-25](/news/2007/06/25/index.md)
 
+##### Iran
 #  Iran invites the International Atomic Energy Agency to Tehran to discuss its nuclear program. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/4917094.html)
 

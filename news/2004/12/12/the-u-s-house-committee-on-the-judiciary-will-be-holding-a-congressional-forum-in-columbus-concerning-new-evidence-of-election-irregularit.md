@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/12/the-u-s-house-committee-on-the-judiciary-will-be-holding-a-congressional-forum-in-columbus-concerning-new-evidence-of-election-irregularit.html)  [JSON](/news/2004/12/12/the-u-s-house-committee-on-the-judiciary-will-be-holding-a-congressional-forum-in-columbus-concerning-new-evidence-of-election-irregularit.json)  [XML](/news/2004/12/12/the-u-s-house-committee-on-the-judiciary-will-be-holding-a-congressional-forum-in-columbus-concerning-new-evidence-of-election-irregularit.xml)  
+
 ### [2004-12-12](/news/2004/12/12/index.md)
 
+##### election fraud
 #  The U.S. House Committee on the Judiciary will be holding a congressional forum in Columbus concerning new evidence of election irregularities and fraud in Ohio, the issue of Ohio electors meeting while recounts and litigation are pending, and to discuss legislative and other responses to the problems, on Dec. 13. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Civil Rights Coalition](http://www.civilrights.org/civil_rights_calendar/detail.cfm?id=1744&view=2&date=12-12-2004)
 2. [pdf](http://www.house.gov/judiciary_democrats/ohvotept2pr121004.pdf)

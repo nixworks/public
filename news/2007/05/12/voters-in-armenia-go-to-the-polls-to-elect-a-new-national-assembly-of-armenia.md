@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/12/voters-in-armenia-go-to-the-polls-to-elect-a-new-national-assembly-of-armenia.html)  [JSON](/news/2007/05/12/voters-in-armenia-go-to-the-polls-to-elect-a-new-national-assembly-of-armenia.json)  [XML](/news/2007/05/12/voters-in-armenia-go-to-the-polls-to-elect-a-new-national-assembly-of-armenia.xml)  
+
 ### [2007-05-12](/news/2007/05/12/index.md)
 
+##### Armenia
 #  Voters in Armenia go to the polls to elect a new National Assembly of Armenia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6648935.stm)
 

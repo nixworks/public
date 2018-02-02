@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/20/a-suicide-bomb-attack-in-southern-afganistan-kills-6-civilians.html)  [JSON](/news/2008/06/20/a-suicide-bomb-attack-in-southern-afganistan-kills-6-civilians.json)  [XML](/news/2008/06/20/a-suicide-bomb-attack-in-southern-afganistan-kills-6-civilians.xml)  
+
 ### [2008-06-20](/news/2008/06/20/index.md)
 
+##### suicide bomb
 #  A suicide bomb attack in southern Afganistan kills 6 civilians. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7464940.stm)
 

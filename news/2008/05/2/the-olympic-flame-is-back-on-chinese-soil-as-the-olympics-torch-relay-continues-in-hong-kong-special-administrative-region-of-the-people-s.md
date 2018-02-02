@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/2/the-olympic-flame-is-back-on-chinese-soil-as-the-olympics-torch-relay-continues-in-hong-kong-special-administrative-region-of-the-people-s.html)  [JSON](/news/2008/05/2/the-olympic-flame-is-back-on-chinese-soil-as-the-olympics-torch-relay-continues-in-hong-kong-special-administrative-region-of-the-people-s.json)  [XML](/news/2008/05/2/the-olympic-flame-is-back-on-chinese-soil-as-the-olympics-torch-relay-continues-in-hong-kong-special-administrative-region-of-the-people-s.xml)  
+
 ### [2008-05-2](/news/2008/05/2/index.md)
 
+##### Olympic flame
 #  The Olympic flame is back on Chinese soil as the Olympics torch relay continues in Hong Kong, Special Administrative Region of the People's Republic of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7378193.stm)
 

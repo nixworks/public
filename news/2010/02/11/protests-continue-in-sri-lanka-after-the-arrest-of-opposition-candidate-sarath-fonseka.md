@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/11/protests-continue-in-sri-lanka-after-the-arrest-of-opposition-candidate-sarath-fonseka.html)  [JSON](/news/2010/02/11/protests-continue-in-sri-lanka-after-the-arrest-of-opposition-candidate-sarath-fonseka.json)  [XML](/news/2010/02/11/protests-continue-in-sri-lanka-after-the-arrest-of-opposition-candidate-sarath-fonseka.xml)  
+
 ### [2010-02-11](/news/2010/02/11/index.md)
 
+##### Sri Lanka
 # Protests continue in Sri Lanka after the arrest of opposition candidate Sarath Fonseka. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iZjgsjE7mZtXp9jDdkHIQlb5eyBg)
 2. [Bernama](http://www.bernama.com/bernama/v5/newsworld.php?id=475088)

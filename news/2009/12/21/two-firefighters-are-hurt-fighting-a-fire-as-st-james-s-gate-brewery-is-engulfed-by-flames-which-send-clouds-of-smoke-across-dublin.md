@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/12/21/two-firefighters-are-hurt-fighting-a-fire-as-st-james-s-gate-brewery-is-engulfed-by-flames-which-send-clouds-of-smoke-across-dublin.html)  [JSON](/news/2009/12/21/two-firefighters-are-hurt-fighting-a-fire-as-st-james-s-gate-brewery-is-engulfed-by-flames-which-send-clouds-of-smoke-across-dublin.json)  [XML](/news/2009/12/21/two-firefighters-are-hurt-fighting-a-fire-as-st-james-s-gate-brewery-is-engulfed-by-flames-which-send-clouds-of-smoke-across-dublin.xml)  
+
 ### [2009-12-21](/news/2009/12/21/index.md)
 
+##### St. James's Gate Brewery
 #  Two firefighters are hurt fighting a fire as St. James's Gate Brewery is engulfed by flames which send clouds of smoke across Dublin. 
 
 Two members of Dublin Fire Brigade are being treated in hospital following a fire at the Guinness brewery site in Dublin.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1221/guinness.html)
-2. [Reuters](http://www.reuters.com/article/idUSLDE5BK1SE20091221?type=marketsNews)
+2. [Reuters](https://www.reuters.com/article/idUSLDE5BK1SE20091221?type=marketsNews)
 3. [Sky News](http://news.sky.com/skynews/Home/Guinness-Blaze-At-Dublin-Drinks-Giant-Factory-Sparks-Major-Rescue-Operation/Article/200912315505858?lpos=Home_Top_Stories_Header_2&lid=ARTICLE_15505858_Guinness%3A_Blaze_At_Dublin_Drinks_Giant_Factory_Sparks_Major_Rescue_Operation_)
 3. [Cover Image](https://img.rasset.ie/0002dc5a-1600.jpg)
 

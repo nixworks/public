@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/1/space-shuttle-columbia-incident-the-space-shuttle-columbia-was-reported-to-have-disintegrated-over-texas-on-its-final-approach-to-a-landin.html)  [JSON](/news/2003/02/1/space-shuttle-columbia-incident-the-space-shuttle-columbia-was-reported-to-have-disintegrated-over-texas-on-its-final-approach-to-a-landin.json)  [XML](/news/2003/02/1/space-shuttle-columbia-incident-the-space-shuttle-columbia-was-reported-to-have-disintegrated-over-texas-on-its-final-approach-to-a-landin.xml)  
+
 ### [2003-02-1](/news/2003/02/1/index.md)
 
+##### disintegrated during re-entry
 #  Space Shuttle Columbia incident: The Space Shuttle Columbia was reported to have disintegrated over Texas on its final approach to a landing after its 28th space mission. All seven crew members were killed in the disaster. It was later discovered that a piece of foam insulation had broken off the external fuel tank and punctured a hole in the left wing during launch.
 
 

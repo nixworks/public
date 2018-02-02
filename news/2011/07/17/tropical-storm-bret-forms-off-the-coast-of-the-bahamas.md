@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/17/tropical-storm-bret-forms-off-the-coast-of-the-bahamas.html)  [JSON](/news/2011/07/17/tropical-storm-bret-forms-off-the-coast-of-the-bahamas.json)  [XML](/news/2011/07/17/tropical-storm-bret-forms-off-the-coast-of-the-bahamas.xml)  
+
 ### [2011-07-17](/news/2011/07/17/index.md)
 
+##### Hurricane Rina
 # Tropical Storm Bret forms off the coast of the Bahamas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [National Hurricane Centre](http://www.nhc.noaa.gov/nhc_storms.shtml)
 

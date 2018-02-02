@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/03/5/the-philadelphia-flyers-and-ottawa-senators-set-a-national-hockey-league-single-game-record-with-419-combined-penalty-minutes-due-to-a-bra.html)  [JSON](/news/2004/03/5/the-philadelphia-flyers-and-ottawa-senators-set-a-national-hockey-league-single-game-record-with-419-combined-penalty-minutes-due-to-a-bra.json)  [XML](/news/2004/03/5/the-philadelphia-flyers-and-ottawa-senators-set-a-national-hockey-league-single-game-record-with-419-combined-penalty-minutes-due-to-a-bra.xml)  
+
 ### [2004-03-5](/news/2004/03/5/index.md)
 
+##### Philadelphia Flyers
 #  The Philadelphia Flyers and Ottawa Senators set a National Hockey League single-game record with 419 combined penalty minutes, due to a brawl involving all six players (including the goalies) on both teams. The Flyers also set a team record for most team penalty minutes in a game with 213.
 
 

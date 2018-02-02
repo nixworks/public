@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/8/a-united-states-army-uh-60-black-hawk-helicopter-crashes-in-santa-lucia-di-piave-italy-killing-four-people-and-injuring-six.html)  [JSON](/news/2007/11/8/a-united-states-army-uh-60-black-hawk-helicopter-crashes-in-santa-lucia-di-piave-italy-killing-four-people-and-injuring-six.json)  [XML](/news/2007/11/8/a-united-states-army-uh-60-black-hawk-helicopter-crashes-in-santa-lucia-di-piave-italy-killing-four-people-and-injuring-six.xml)  
+
 ### [2007-11-8](/news/2007/11/8/index.md)
 
+##### UH-60 Black Hawk
 #  A United States Army UH-60 Black Hawk helicopter crashes in Santa Lucia di Piave, Italy, killing four people and injuring six. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7085033.stm)
 

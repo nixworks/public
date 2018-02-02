@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/20/pope-benedict-xvi-is-scheduled-to-elevate-24-new-cardinals-at-a-ceremony.html)  [JSON](/news/2010/11/20/pope-benedict-xvi-is-scheduled-to-elevate-24-new-cardinals-at-a-ceremony.json)  [XML](/news/2010/11/20/pope-benedict-xvi-is-scheduled-to-elevate-24-new-cardinals-at-a-ceremony.xml)  
+
 ### [2010-11-20](/news/2010/11/20/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI is scheduled to elevate 24 new cardinals at a ceremony. 
 
 The Vatican says it is preparing guidelines on how to prevent clerical sex abuse, as the Pope holds a rare meeting with about 150 cardinals from around the world.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11802015)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/26/david-hittner-u-s-district-court-judge-for-the-
 
 ### [2017-04-26](/news/2017/04/26/index.md)
 
+##### David Hittner
 # David Hittner, U.S. District Court Judge for the Southern District of Texas, rules ExxonMobil Corporation should pay a $19.95 million penalty for pollution from its Baytown, Texas, refining and chemical plant complex for 16,386 days of violations and 10 million pounds (4.5 Gg) of pollutants that were released in violation of operating permits between 2005 and 2013. 
 
  A federal judge ruled on Wednesday that ExxonMobil Corp should pay a $19.95 million penalty for pollution from its Baytown, Texas, refining and chemical plant 

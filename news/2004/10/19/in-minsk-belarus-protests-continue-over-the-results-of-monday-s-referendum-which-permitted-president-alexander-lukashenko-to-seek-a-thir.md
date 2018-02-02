@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/19/in-minsk-belarus-protests-continue-over-the-results-of-monday-s-referendum-which-permitted-president-alexander-lukashenko-to-seek-a-thir.html)  [JSON](/news/2004/10/19/in-minsk-belarus-protests-continue-over-the-results-of-monday-s-referendum-which-permitted-president-alexander-lukashenko-to-seek-a-thir.json)  [XML](/news/2004/10/19/in-minsk-belarus-protests-continue-over-the-results-of-monday-s-referendum-which-permitted-president-alexander-lukashenko-to-seek-a-thir.xml)  
+
 ### [2004-10-19](/news/2004/10/19/index.md)
 
+##### Minsk
 #  In Minsk, Belarus, protests continue over the results of Monday's referendum, which permitted President Alexander Lukashenko to seek a third term. At least 30 protesters are arrested, including opposition leader Anatoly Lebedko. Supporters say Lebedko was badly beaten by police and was refused treatment for his injuries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/3758032.stm)
 

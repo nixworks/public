@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/9/crowds-gather-in-the-south-sudan-capital-juba-to-mark-one-month-until-the-referendum-on-independence.html)  [JSON](/news/2010/12/9/crowds-gather-in-the-south-sudan-capital-juba-to-mark-one-month-until-the-referendum-on-independence.json)  [XML](/news/2010/12/9/crowds-gather-in-the-south-sudan-capital-juba-to-mark-one-month-until-the-referendum-on-independence.xml)  
+
 ### [2010-12-9](/news/2010/12/9/index.md)
 
+##### Southern Sudan
 # Crowds gather in the South Sudan capital Juba to mark one month until the referendum on independence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jDWOfQ0lAsXwR2Z85JxEukL_vmhg?docId=CNG.3ef292f92f2c7039a9d8251eb7165fe0.5d1)
 

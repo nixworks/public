@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/22/zimbabwe-churches-claim-that-people-are-being-tortured-abducted-and-some-murdered-in-a-campaign-of-political-retribution-against-the-oppos.html)  [JSON](/news/2008/04/22/zimbabwe-churches-claim-that-people-are-being-tortured-abducted-and-some-murdered-in-a-campaign-of-political-retribution-against-the-oppos.json)  [XML](/news/2008/04/22/zimbabwe-churches-claim-that-people-are-being-tortured-abducted-and-some-murdered-in-a-campaign-of-political-retribution-against-the-oppos.xml)  
+
 ### [2008-04-22](/news/2008/04/22/index.md)
 
+##### Zimbabwe
 #  Zimbabwe churches claim that people are being tortured, abducted and some murdered in a campaign of political retribution against the opposition Movement for Democratic Change. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5i4kT7pJlnuzY_vpKdTACcQYIPcvQD906QG0O0)
 

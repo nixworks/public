@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/14/authorities-in-lebanon-arrest-islamist-preacher-omar-bakri-muhammed-days-after-a-court-sentenced-him-and-21-others-to-life-imprisonment-for.html)  [JSON](/news/2010/11/14/authorities-in-lebanon-arrest-islamist-preacher-omar-bakri-muhammed-days-after-a-court-sentenced-him-and-21-others-to-life-imprisonment-for.json)  [XML](/news/2010/11/14/authorities-in-lebanon-arrest-islamist-preacher-omar-bakri-muhammed-days-after-a-court-sentenced-him-and-21-others-to-life-imprisonment-for.xml)  
+
 ### [2010-11-14](/news/2010/11/14/index.md)
 
+##### Lebanon
 # Authorities in Lebanon arrest Islamist preacher Omar Bakri Muhammed, days after a court sentenced him and 21 others to life imprisonment for carrying out "terrorist acts". 
 
 A radical Muslim cleric who once cheered the Sept. 11 terror attacks on the United States has been arrested in Lebanon, security officials confirm.
 
 
-### Source:
+### Sources:
 
 1. [Lebanese National News Agency](http://www.nna-leb.gov.lb/phpfolder/loadpage.php?page=E17.html)
 2. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE6AD1SN20101114)
@@ -13,8 +17,8 @@ A radical Muslim cleric who once cheered the Sept. 11 terror attacks on the Unit
 
 ### Related:
 
-1. [The Israeli Air Force (IAF) destroys a Syrian S-200 anti-aircraft battery near Damascus after it fired on its aircraft patrolling in Lebanese air space on a reconnaissance mission. ](/news/2017/10/16/the-israeli-air-force-iaf-destroys-a-syrian-s-200-anti-aircraft-battery-near-damascus-after-it-fired-on-its-aircraft-patrolling-in-lebanes.md) _Context: Lebanese_
-2. [Renewed clashes between Islamist extremists and the Fatah-supported Joint Palestinian Security Force at the Ain al-Hilweh Palestinian refugees camp, near Sidon, Lebanon, wound three more Palestinians. ](/news/2017/08/22/renewed-clashes-between-islamist-extremists-and-the-fatah-supported-joint-palestinian-security-force-at-the-ain-al-hilweh-palestinian-refuge.md) _Context: Lebanese_
-3. [A ceasefire brings calm after heavy fighting between Fatah and extremists that left two people dead at the Palestinian refugees camp of Ain al-Hilweh, Lebanon. ](/news/2017/08/21/a-ceasefire-brings-calm-after-heavy-fighting-between-fatah-and-extremists-that-left-two-people-dead-at-the-palestinian-refugees-camp-of-ain.md) _Context: Lebanese_
-4. [Several thousand Palestinians protest Israel's installation of metal detectors and a ban on Muslim men under the age of 50 in response to the killing of two Israeli policemen last Friday at a contested Jerusalem holy place, known to Muslims as the Noble Sanctuary and to Jews as the Temple Mount.Protest marches are also held in Indonesia, Jordan, Lebanon, Malaysia, and TurkeyThree Palestinians are killed, 390 people injured with dozens hospitalized in clashes in Jerusalem and the West Bank, according to the Red Crescent. Israeli police report five officers are wounded.2017 Halamish stabbing attack: Three Israelis are stabbed to death by a Palestinian in their home while eating dinner, according to Israeli officials.United Nations deputy spokesman Farhan Haq calls for a de-escalation of violence and tensions at this site.Egypt calls for an immediate halt to the violence underway around this site, urging Israel to show respect for Muslim sacred sites while accusing it of fomenting these tensions.Turkish Prime Minister Binali Yildirim says his country is in dialogue with Israel to end the crisis.Palestinian President Mahmoud Abbas says the Palestinian leadership will "freeze contacts" with Israel "on all levels."](/news/2017/07/21/several-thousand-palestinians-protest-israel-s-installation-of-metal-detectors-and-a-ban-on-muslim-men-under-the-age-of-50-in-response-to-th.md) _Context: Lebanese_
-5. [The Israeli Air Force launches several airstrikes on targets inside Syria, and for the first time, publicly claims responsibility. Syrian air defenses responded by launching missiles at the aircraft, and thereupon Israeli Arrow 3 missiles were launched in response to the counter-offensive. Israel stated that it was targeting suspected weapons shipments to Hezbollah in Lebanon, adding that the Israeli military will keep intervening until they believe such shipments have ceased. According to the Syrian Army, four Israeli jets entered its airspace and struck targets near Palmyra. ](/news/2017/03/17/the-israeli-air-force-launches-several-airstrikes-on-targets-inside-syria-and-for-the-first-time-publicly-claims-responsibility-syrian-ai.md) _Context: Lebanese_
+1. [Saudi Arabia says Lebanon has declared war against it through acts of aggression. ](/news/2017/11/6/saudi-arabia-says-lebanon-has-declared-war-against-it-through-acts-of-aggression.md) _Context: Lebanon_
+2. [Lebanese Prime Minister Saad al-Hariri resigns, citing assassination threats. ](/news/2017/11/4/lebanese-prime-minister-saad-al-hariri-resigns-citing-assassination-threats.md) _Context: Lebanon_
+3. [Saudi Arabia, and subsequently the United Arab Emirates and Kuwait, urge all citizens currently in Lebanon to leave the country immediately. Recently, Saudi Arabia declared that a missile attack on its airport from Yemen was "an act of war" by Lebanon. ](/news/2017/11/10/saudi-arabia-and-subsequently-the-united-arab-emirates-and-kuwait-urge-all-citizens-currently-in-lebanon-to-leave-the-country-immediately.md) _Context: Lebanon_
+4. [The Israeli Air Force (IAF) destroys a Syrian S-200 anti-aircraft battery near Damascus after it fired on its aircraft patrolling in Lebanese air space on a reconnaissance mission. ](/news/2017/10/16/the-israeli-air-force-iaf-destroys-a-syrian-s-200-anti-aircraft-battery-near-damascus-after-it-fired-on-its-aircraft-patrolling-in-lebanes.md) _Context: Lebanon_
+5. [Renewed clashes between Islamist extremists and the Fatah-supported Joint Palestinian Security Force at the Ain al-Hilweh Palestinian refugees camp, near Sidon, Lebanon, wound three more Palestinians. ](/news/2017/08/22/renewed-clashes-between-islamist-extremists-and-the-fatah-supported-joint-palestinian-security-force-at-the-ain-al-hilweh-palestinian-refuge.md) _Context: Lebanon_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/22/protests-by-tibetan-students-against-a-new-language-policy-making-chinese-the-official-teaching-language-spread-in-china-with-a-demonstrati.html)  [JSON](/news/2010/10/22/protests-by-tibetan-students-against-a-new-language-policy-making-chinese-the-official-teaching-language-spread-in-china-with-a-demonstrati.json)  [XML](/news/2010/10/22/protests-by-tibetan-students-against-a-new-language-policy-making-chinese-the-official-teaching-language-spread-in-china-with-a-demonstrati.xml)  
+
 ### [2010-10-22](/news/2010/10/22/index.md)
 
+##### Tibet
 # Protests by Tibetan students against a new language policy making Chinese the official teaching language spread in China, with a demonstration taking place at the Minzu University of China in Beijing. 
 
 Protests by Tibetan students over plans to elevate Chinese to the main language of instruction in western China schools spread Friday to Beijing, where students at a minority university staged a...
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11604013)
 2. [Global Times](http://china.globaltimes.cn/society/2010-10/584565.html)

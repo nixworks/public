@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2003/07/8/a-worker-at-a-lockheed-martin-aircraft-parts-factory-in-meridian-mississippi-shoots-13-co-workers-killing-five-before-committing-suicid.html)  [JSON](/news/2003/07/8/a-worker-at-a-lockheed-martin-aircraft-parts-factory-in-meridian-mississippi-shoots-13-co-workers-killing-five-before-committing-suicid.json)  [XML](/news/2003/07/8/a-worker-at-a-lockheed-martin-aircraft-parts-factory-in-meridian-mississippi-shoots-13-co-workers-killing-five-before-committing-suicid.xml)  
+
 ### [2003-07-8](/news/2003/07/8/index.md)
 
+##### Lockheed
 #  A worker at a Lockheed Martin aircraft parts factory in Meridian, Mississippi, shoots 13 co-workers, killing five, before committing suicide. Investigators are unsure of the motive. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/articles/A29480-2003Jul8.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/articles/A29480-2003Jul8.html)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/27/according-to-family-members-funeral-of-the-purged-chinese-communist-leader-zhao-ziyang-will-be-held-on-next-saturday.html)  [JSON](/news/2005/01/27/according-to-family-members-funeral-of-the-purged-chinese-communist-leader-zhao-ziyang-will-be-held-on-next-saturday.json)  [XML](/news/2005/01/27/according-to-family-members-funeral-of-the-purged-chinese-communist-leader-zhao-ziyang-will-be-held-on-next-saturday.xml)  
+
 ### [2005-01-27](/news/2005/01/27/index.md)
 
+##### China
 #  According to family members, funeral of the purged Chinese communist leader Zhao Ziyang will be held on next Saturday 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4211157.stm)
 2. [Epoch Times](http://english.epochtimes.com/news/5-1-26/26033.html)

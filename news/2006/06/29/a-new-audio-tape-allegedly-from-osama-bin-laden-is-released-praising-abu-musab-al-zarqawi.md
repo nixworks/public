@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2006/06/29/a-new-audio-tape-allegedly-from-osama-bin-laden-is-released-praising-abu-musab-al-zarqawi.html)  [JSON](/news/2006/06/29/a-new-audio-tape-allegedly-from-osama-bin-laden-is-released-praising-abu-musab-al-zarqawi.json)  [XML](/news/2006/06/29/a-new-audio-tape-allegedly-from-osama-bin-laden-is-released-praising-abu-musab-al-zarqawi.xml)  
+
 ### [2006-06-29](/news/2006/06/29/index.md)
 
+##### Osama Bin Laden
 #  A new audio tape, allegedly from Osama Bin Laden, is released praising Abu Musab al-Zarqawi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://kdka.com/national/topstories_story_180220450.html)
 
 ### Related:
 
-1. [Hamza bin Laden, the son of the slain Osama bin Laden, threatens a genocide against the United States to retaliate for his father's killing. ](/news/2016/07/10/hamza-bin-laden-the-son-of-the-slain-osama-bin-laden-threatens-a-genocide-against-the-united-states-to-retaliate-for-his-father-s-killing.md) _Context: Osama bin Laden_
-2. [In Peshawar, an unknown assailant shoots and kills Pakistani lawyer Samiullah Afridi, who had defended Dr. Shakil Afridi (in regards to assisting CIA agents hunt al Qaeda leader Osama bin Laden), with two Pakistan militant groups, Jundullah and Jamaatul Ahrar, both claiming responsibility. ](/news/2015/03/17/in-peshawar-an-unknown-assailant-shoots-and-kills-pakistani-lawyer-samiullah-afridi-who-had-defended-dr-shakil-afridi-in-regards-to-assi.md) _Context: Osama bin Laden_
-3. [Abu Anas al-Libi, a one-time associate of Osama bin Laden, dies in New York, United States, while awaiting trial for allegedly plotting the bombings of the U.S. embassies in Kenya and Tanzania. ](/news/2015/01/2/abu-anas-al-libi-a-one-time-associate-of-osama-bin-laden-dies-in-new-york-united-states-while-awaiting-trial-for-allegedly-plotting-the.md) _Context: Osama bin Laden_
-4. [Sulaiman Abu Ghaith, Osama bin Laden's son-in-law, is convicted in New York City of conspiring to kill Americans in his role as spokesman for al-Qaida. ](/news/2014/03/26/sulaiman-abu-ghaith-osama-bin-laden-s-son-in-law-is-convicted-in-new-york-city-of-conspiring-to-kill-americans-in-his-role-as-spokesman-fo.md) _Context: Osama bin Laden_
-5. [Syrian officers reports that Syrian Army kills senior Saudi Arabian al-Qaeda commander Abu Malik al-Shahri, who is known as 'Bin Laden of Syria', in outskirt of Latakia. ](/news/2013/08/11/syrian-officers-reports-that-syrian-army-kills-senior-saudi-arabian-al-qaeda-commander-abu-malik-al-shahri-who-is-known-as-bin-laden-of-sy.md) _Context: Osama bin Laden_
+1. [U.S. President Barack Obama visits Afghanistan on an unannounced visit coinciding with the first anniversary of Osama Bin Laden's assassination by the U.S. Special Forces in Pakistan, signing an agreement with Afghan President Hamid Karzai outlining a continuing U.S. role in Afghanistan after 2014. ](/news/2012/05/1/u-s-president-barack-obama-visits-afghanistan-on-an-unannounced-visit-coinciding-with-the-first-anniversary-of-osama-bin-laden-s-assassinat.md) _Context: Osama Bin Laden_
+2. [The U.S. killing of Osama Bin Laden may act as a precedent for "targeted killings," according to a report prepared by the library of the House of Commons of the United Kingdom. ](/news/2011/05/17/the-u-s-killing-of-osama-bin-laden-may-act-as-a-precedent-for-targeted-killings-according-to-a-report-prepared-by-the-library-of-the-hou.md) _Context: Osama Bin Laden_
+3. [Ibrahim al Qosi, a former cook and driver of Osama Bin Laden, is imprisoned for 14 years by a Guantanamo Bay military tribunal. ](/news/2010/08/11/ibrahim-al-qosi-a-former-cook-and-driver-of-osama-bin-laden-is-imprisoned-for-14-years-by-a-guanta-namo-bay-military-tribunal.md) _Context: Osama Bin Laden_
+4. [British Airways issues an apology for a photograph in a staff magazine which implied Osama Bin Laden had a frequent flyer boarding pass for first class. ](/news/2010/06/3/british-airways-issues-an-apology-for-a-photograph-in-a-staff-magazine-which-implied-osama-bin-laden-had-a-frequent-flyer-boarding-pass-for.md) _Context: Osama Bin Laden_
+5. [Osama Bin Laden claims responsibility for the failed Christmas day bombing attempt in Detroit, USA, last year. ](/news/2010/01/24/osama-bin-laden-claims-responsibility-for-the-failed-christmas-day-bombing-attempt-in-detroit-usa-last-year.md) _Context: Osama Bin Laden_

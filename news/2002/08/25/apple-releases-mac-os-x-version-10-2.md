@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/08/25/apple-releases-mac-os-x-version-10-2.html)  [JSON](/news/2002/08/25/apple-releases-mac-os-x-version-10-2.json)  [XML](/news/2002/08/25/apple-releases-mac-os-x-version-10-2.xml)  
+
 ### [2002-08-25](/news/2002/08/25/index.md)
 
+##### Mac OS X
 #  Apple releases Mac OS X version 10.2.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/18/as-many-as-200-000-people-march-through-brazil-s-cities-with-protestors-having-scaled-the-national-congress-in-brasilia.html)  [JSON](/news/2013/06/18/as-many-as-200-000-people-march-through-brazil-s-cities-with-protestors-having-scaled-the-national-congress-in-brasilia.json)  [XML](/news/2013/06/18/as-many-as-200-000-people-march-through-brazil-s-cities-with-protestors-having-scaled-the-national-congress-in-brasilia.xml)  
+
 ### [2013-06-18](/news/2013/06/18/index.md)
 
+##### 2013 protests in Brazil
 # As many as 200,000 people march through Brazil's cities, with protestors having scaled the National Congress in Brasilia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-22946736)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68228000/jpg/_68228702_68228135.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/25/a-kazakh-unesco-official-attempts-to-hijack-a-plane-and-divert-it-to-tripoli-libya.html)  [JSON](/news/2011/04/25/a-kazakh-unesco-official-attempts-to-hijack-a-plane-and-divert-it-to-tripoli-libya.json)  [XML](/news/2011/04/25/a-kazakh-unesco-official-attempts-to-hijack-a-plane-and-divert-it-to-tripoli-libya.xml)  
+
 ### [2011-04-25](/news/2011/04/25/index.md)
 
+##### Kazakhstan
 # A Kazakh UNESCO official attempts to hijack a plane and divert it to Tripoli, Libya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/world/20110425/163688576.html)
 

@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2013/08/3/nine-children-die-in-a-suicide-bombing-near-the-indian-consulate-in-the-afghan-city-of-jalalabad.html)  [JSON](/news/2013/08/3/nine-children-die-in-a-suicide-bombing-near-the-indian-consulate-in-the-afghan-city-of-jalalabad.json)  [XML](/news/2013/08/3/nine-children-die-in-a-suicide-bombing-near-the-indian-consulate-in-the-afghan-city-of-jalalabad.xml)  
+
 ### [2013-08-3](/news/2013/08/3/index.md)
 
+##### suicide bombing
 # Nine children die in a suicide bombing near the Indian consulate in the Afghan city of Jalalabad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2013/08/03/world/asia/afghanistan-bombing/index.html)
+
+### Changes:
+
+1. [War in Afghanistan (2001-present):Nine children die in a suicide bombing near the Indian consulate in the Afghan city of Jalalabad. ](/news/2013/08/3/war-in-afghanistan-2001apresent-pnine-children-die-in-a-suicide-bombing-near-the-indian-consulate-in-the-afghan-city-of-jalalabad.md) _2017-08-25 03:39:05 (First version)_
+2. [War in Afghanistan (2001-present):: Nine children die in a suicide bombing near the Indian consulate in the Afghan city of Jalalabad. ](/news/2013/08/3/war-in-afghanistan-2001-present-nine-children-die-in-a-suicide-bombing-near-the-indian-consulate-in-the-afghan-city-of-jalalabad.md) _2017-08-27 03:39:21 (Update)_
+2. [Nine children die in a suicide bombing near the Indian consulate in the Afghan city of Jalalabad. ](/news/2013/08/3/nine-children-die-in-a-suicide-bombing-near-the-indian-consulate-in-the-afghan-city-of-jalalabad.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [ Nine people are killed in an attack on the Indian consulate In Jalalabad, Afghanistan. ](/news/2016/03/2/nine-people-are-killed-in-an-attack-on-the-indian-consulate-in-jalalabad-afghanistan.md) _Context: Afghanistan, Jalalabad_
 4. [A suicide bomber kills at least 13 people and injures 14 in the Afghan city of Jalalabad. ](/news/2016/01/17/a-suicide-bomber-kills-at-least-13-people-and-injures-14-in-the-afghan-city-of-jalalabad.md) _Context: Afghanistan, Jalalabad_
 5. [ A powerful, magnitude 7.2 earthquake has shaken Tajikistan. It was felt as far away as India, Pakistan, and Afghanistan. No damage or casualties have been reported as the epicenter lies within the vast Badakhshan national park. The US Geological Survey describes the area as one of the "most seismically hazardous regions on Earth" because of tectonic activity along shifting fault lines. ](/news/2015/12/7/a-powerful-magnitude-7-2-earthquake-has-shaken-tajikistan-it-was-felt-as-far-away-as-india-pakistan-and-afghanistan-no-damage-or-casua.md) _Context: Afghanistan, India_
-
-### Changes:
-
-1. [War in Afghanistan (2001-present):Nine children die in a suicide bombing near the Indian consulate in the Afghan city of Jalalabad. ](/news/2013/08/3/war-in-afghanistan-2001apresent-pnine-children-die-in-a-suicide-bombing-near-the-indian-consulate-in-the-afghan-city-of-jalalabad.md) _2017-08-25 03:39:05 (First version)_
-2. [War in Afghanistan (2001-present):: Nine children die in a suicide bombing near the Indian consulate in the Afghan city of Jalalabad. ](/news/2013/08/3/war-in-afghanistan-2001-present-nine-children-die-in-a-suicide-bombing-near-the-indian-consulate-in-the-afghan-city-of-jalalabad.md) _2017-08-27 03:39:21 (Update)_
-2. [Nine children die in a suicide bombing near the Indian consulate in the Afghan city of Jalalabad. ](/news/2013/08/3/nine-children-die-in-a-suicide-bombing-near-the-indian-consulate-in-the-afghan-city-of-jalalabad.md) _(Current version)_

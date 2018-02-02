@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/28/american-international-group-says-that-if-chief-executive-robert-benmosche-needs-to-step-aside-for-treatment-of-his-cancer-the-chairman-of.html)  [JSON](/news/2010/10/28/american-international-group-says-that-if-chief-executive-robert-benmosche-needs-to-step-aside-for-treatment-of-his-cancer-the-chairman-of.json)  [XML](/news/2010/10/28/american-international-group-says-that-if-chief-executive-robert-benmosche-needs-to-step-aside-for-treatment-of-his-cancer-the-chairman-of.xml)  
+
 ### [2010-10-28](/news/2010/10/28/index.md)
 
+##### AIG
 # American International Group says that if chief executive Robert Benmosche needs to step aside for treatment of his cancer, the chairman of the board, Steve Miller, will serve as interim CEO "for as long as it takes to identify" a permanent replacement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AIG Release](http://www.aigcorporate.com/newsroom/index.html)
 

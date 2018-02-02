@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/4/chadian-rebels-claim-to-have-withdrawn-voluntarily-from-n-djamena.html)  [JSON](/news/2008/02/4/chadian-rebels-claim-to-have-withdrawn-voluntarily-from-n-djamena.json)  [XML](/news/2008/02/4/chadian-rebels-claim-to-have-withdrawn-voluntarily-from-n-djamena.xml)  
+
 ### [2008-02-4](/news/2008/02/4/index.md)
 
+##### Chad
 #  Chadian rebels claim to have withdrawn voluntarily from N'Djamena. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5jtMGHqK6BQo-1y4MndjJhTcjKHAwD8UJBE1O0)
 

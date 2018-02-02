@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/09/27/the-third-circuit-court-of-appeal-in-the-u-s-state-of-louisiana-rules-that-mychal-bell-should-not-have-been-tried-as-an-adult-in-the-jena.html)  [JSON](/news/2007/09/27/the-third-circuit-court-of-appeal-in-the-u-s-state-of-louisiana-rules-that-mychal-bell-should-not-have-been-tried-as-an-adult-in-the-jena.json)  [XML](/news/2007/09/27/the-third-circuit-court-of-appeal-in-the-u-s-state-of-louisiana-rules-that-mychal-bell-should-not-have-been-tried-as-an-adult-in-the-jena.xml)  
+
 ### [2007-09-27](/news/2007/09/27/index.md)
 
+##### U.S. state
 #  The Third Circuit Court of Appeal in the U.S. state of Louisiana rules that Mychal Bell should not have been tried as an adult in the Jena Six case, and he is released on a $45,000 bail bond. 
 
 A teenager accused of assaulting a white schoolmate in a small Louisiana town was freed on bail on Thursday, one week after African-Americans staged a major protest in the town over the case.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSN2738499520070928?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070927&t=2&i=1840081&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-27T182058Z_01_N27384995_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSN2738499520070928?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20070927&t=2&i=1840081&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-27T182058Z_01_N27384995_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

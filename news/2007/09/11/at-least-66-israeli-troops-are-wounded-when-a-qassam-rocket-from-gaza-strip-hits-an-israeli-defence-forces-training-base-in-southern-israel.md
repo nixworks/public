@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/11/at-least-66-israeli-troops-are-wounded-when-a-qassam-rocket-from-gaza-strip-hits-an-israeli-defence-forces-training-base-in-southern-israel.html)  [JSON](/news/2007/09/11/at-least-66-israeli-troops-are-wounded-when-a-qassam-rocket-from-gaza-strip-hits-an-israeli-defence-forces-training-base-in-southern-israel.json)  [XML](/news/2007/09/11/at-least-66-israeli-troops-are-wounded-when-a-qassam-rocket-from-gaza-strip-hits-an-israeli-defence-forces-training-base-in-southern-israel.xml)  
+
 ### [2007-09-11](/news/2007/09/11/index.md)
 
+##### Israel
 #  At least 66 Israeli troops are wounded when a Qassam rocket from Gaza Strip hits an Israeli Defence Forces training base in Southern Israel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6988463.stm)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/902929.html)

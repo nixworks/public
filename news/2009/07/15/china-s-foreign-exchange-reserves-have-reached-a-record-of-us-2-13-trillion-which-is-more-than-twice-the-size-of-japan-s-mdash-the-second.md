@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/15/china-s-foreign-exchange-reserves-have-reached-a-record-of-us-2-13-trillion-which-is-more-than-twice-the-size-of-japan-s-mdash-the-second.html)  [JSON](/news/2009/07/15/china-s-foreign-exchange-reserves-have-reached-a-record-of-us-2-13-trillion-which-is-more-than-twice-the-size-of-japan-s-mdash-the-second.json)  [XML](/news/2009/07/15/china-s-foreign-exchange-reserves-have-reached-a-record-of-us-2-13-trillion-which-is-more-than-twice-the-size-of-japan-s-mdash-the-second.xml)  
+
 ### [2009-07-15](/news/2009/07/15/index.md)
 
+##### China
 #  China's foreign exchange reserves have reached a record of US$ 2.13 trillion, which is more than twice the size of Japan's&mdash;the second-biggest holder. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/8151223.stm)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-07/15/content_11710420.htm)

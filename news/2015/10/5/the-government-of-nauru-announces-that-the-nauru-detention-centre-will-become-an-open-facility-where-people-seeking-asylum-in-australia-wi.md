@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/5/the-government-of-nauru-announces-that-the-nauru-detention-centre-will-become-an-open-facility-where-people-seeking-asylum-in-australia-wi.html)  [JSON](/news/2015/10/5/the-government-of-nauru-announces-that-the-nauru-detention-centre-will-become-an-open-facility-where-people-seeking-asylum-in-australia-wi.json)  [XML](/news/2015/10/5/the-government-of-nauru-announces-that-the-nauru-detention-centre-will-become-an-open-facility-where-people-seeking-asylum-in-australia-wi.xml)  
+
 ### [2015-10-5](/news/2015/10/5/index.md)
 
+##### Nauru
 # The government of Nauru announces that the Nauru Detention Centre will become an "open facility" where people seeking asylum in Australia will be able to move freely around the island. 
 
 Nauru&#039;s government promises to process all asylum seekers in its offshore detention centre within the next week.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-10-05/asylum-seekers-on-nauru-to-be-processed-within-the-next-week/6828130)
 1. [Cover Image](http://www.abc.net.au/news/image/4338018-1x1-700x700.jpg)

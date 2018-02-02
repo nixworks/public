@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/16/malaysian-opposition-leader-anwar-ibrahim-and-three-others-are-suspended-from-parliament-for-six-months-after-allegedly-suggesting-a-governm.html)  [JSON](/news/2010/12/16/malaysian-opposition-leader-anwar-ibrahim-and-three-others-are-suspended-from-parliament-for-six-months-after-allegedly-suggesting-a-governm.json)  [XML](/news/2010/12/16/malaysian-opposition-leader-anwar-ibrahim-and-three-others-are-suspended-from-parliament-for-six-months-after-allegedly-suggesting-a-governm.xml)  
+
 ### [2010-12-16](/news/2010/12/16/index.md)
 
+##### Malaysia
 # Malaysian opposition leader Anwar Ibrahim and three others are suspended from parliament for six months after allegedly suggesting a government unity policy was inspired by an Israeli initiative. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12006491)
 2. [Bernama](http://www.bernama.com/bernama/v5/newsgeneral.php?id=550501)

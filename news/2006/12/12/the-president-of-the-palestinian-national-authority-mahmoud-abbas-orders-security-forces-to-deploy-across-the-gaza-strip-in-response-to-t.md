@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/12/the-president-of-the-palestinian-national-authority-mahmoud-abbas-orders-security-forces-to-deploy-across-the-gaza-strip-in-response-to-t.html)  [JSON](/news/2006/12/12/the-president-of-the-palestinian-national-authority-mahmoud-abbas-orders-security-forces-to-deploy-across-the-gaza-strip-in-response-to-t.json)  [XML](/news/2006/12/12/the-president-of-the-palestinian-national-authority-mahmoud-abbas-orders-security-forces-to-deploy-across-the-gaza-strip-in-response-to-t.xml)  
+
 ### [2006-12-12](/news/2006/12/12/index.md)
 
+##### Palestinian Authority President
 #  The President of the Palestinian National Authority, Mahmoud Abbas, orders security forces to deploy across the Gaza Strip in response to the murder of a Fatah security chief's three sons. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/newsitems/200612/s1810096.htm)
 

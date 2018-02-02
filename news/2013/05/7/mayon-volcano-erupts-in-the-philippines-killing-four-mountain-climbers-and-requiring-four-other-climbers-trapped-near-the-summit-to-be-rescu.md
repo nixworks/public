@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/7/mayon-volcano-erupts-in-the-philippines-killing-four-mountain-climbers-and-requiring-four-other-climbers-trapped-near-the-summit-to-be-rescu.html)  [JSON](/news/2013/05/7/mayon-volcano-erupts-in-the-philippines-killing-four-mountain-climbers-and-requiring-four-other-climbers-trapped-near-the-summit-to-be-rescu.json)  [XML](/news/2013/05/7/mayon-volcano-erupts-in-the-philippines-killing-four-mountain-climbers-and-requiring-four-other-climbers-trapped-near-the-summit-to-be-rescu.xml)  
+
 ### [2013-05-7](/news/2013/05/7/index.md)
 
+##### Mayon Volcano
 # Mayon Volcano erupts in the Philippines killing four mountain climbers and requiring four other climbers trapped near the summit to be rescued. 
 
 Volcano in Philippines erupts into life, killing four climbers and trapping others near the crater.
 
 
-### Source:
+### Sources:
 
 1. [AP via New Zealand Stuff](http://www.stuff.co.nz/world/asia/8642733/Volcano-kills-climbers-in-Philippines)
 1. [Cover Image](https://static2.stuff.co.nz/1367895282/744/8642744.jpg)

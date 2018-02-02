@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/07/13/data-collected-by-the-united-states-federal-reserve-system-suggests-that-the-country-s-financial-market-while-still-fragile-is-showing-sig.html)  [JSON](/news/2010/07/13/data-collected-by-the-united-states-federal-reserve-system-suggests-that-the-country-s-financial-market-while-still-fragile-is-showing-sig.json)  [XML](/news/2010/07/13/data-collected-by-the-united-states-federal-reserve-system-suggests-that-the-country-s-financial-market-while-still-fragile-is-showing-sig.xml)  
+
 ### [2010-07-13](/news/2010/07/13/index.md)
 
+##### U.S. Federal Reserve
 # Data collected by the United States Federal Reserve System suggests that the country's financial market, while still fragile, is showing signs of improvement. 
 
 Hedge funds and private equity firms had an easier time raising capital in the last three months, but the market for asset-backed securities remains crippled, according to a new Federal Reserve survey.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE66C55Y20100713)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/idUSTRE66C55Y20100713)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

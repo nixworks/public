@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/20/april-2006-nepalese-general-strike-nepali-police-open-fire-on-pro-democracy-protesters-to-prevent-them-from-marching-into-kathmandu-the-c.html)  [JSON](/news/2006/04/20/april-2006-nepalese-general-strike-nepali-police-open-fire-on-pro-democracy-protesters-to-prevent-them-from-marching-into-kathmandu-the-c.json)  [XML](/news/2006/04/20/april-2006-nepalese-general-strike-nepali-police-open-fire-on-pro-democracy-protesters-to-prevent-them-from-marching-into-kathmandu-the-c.xml)  
+
 ### [2006-04-20](/news/2006/04/20/index.md)
 
+##### April 2006 Nepalese general strike
 #  April 2006 Nepalese general strike: Nepali police open fire on pro-democracy protesters to prevent them from marching into Kathmandu, the capital, killing at least three people and injuring dozens. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4927556.stm)
 2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2006-04-20T103657Z_01_L1969978_RTRUKOC_0_UK-NEPAL.xml)

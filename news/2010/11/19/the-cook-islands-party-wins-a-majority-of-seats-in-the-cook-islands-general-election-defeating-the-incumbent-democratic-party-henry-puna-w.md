@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/19/the-cook-islands-party-wins-a-majority-of-seats-in-the-cook-islands-general-election-defeating-the-incumbent-democratic-party-henry-puna-w.html)  [JSON](/news/2010/11/19/the-cook-islands-party-wins-a-majority-of-seats-in-the-cook-islands-general-election-defeating-the-incumbent-democratic-party-henry-puna-w.json)  [XML](/news/2010/11/19/the-cook-islands-party-wins-a-majority-of-seats-in-the-cook-islands-general-election-defeating-the-incumbent-democratic-party-henry-puna-w.xml)  
+
 ### [2010-11-19](/news/2010/11/19/index.md)
 
+##### Cook Islands Party
 # The Cook Islands Party wins a majority of seats in the Cook Islands general election, defeating the incumbent Democratic Party. Henry Puna will become the next Prime Minister. 
 
 The Democratic Party which has dominated Cook Islands politics for the last decade has lost its grip on power in the Pacific nation.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/democrats-lose-grip-in-cook-islands-20101119-18085.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

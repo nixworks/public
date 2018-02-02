@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/31/the-united-nations-international-court-of-justice-rules-that-japan-s-antarctic-whaling-program-is-not-scientific-but-commercial-and-forbids.html)  [JSON](/news/2014/03/31/the-united-nations-international-court-of-justice-rules-that-japan-s-antarctic-whaling-program-is-not-scientific-but-commercial-and-forbids.json)  [XML](/news/2014/03/31/the-united-nations-international-court-of-justice-rules-that-japan-s-antarctic-whaling-program-is-not-scientific-but-commercial-and-forbids.xml)  
+
 ### [2014-03-31](/news/2014/03/31/index.md)
 
+##### United Nations
 # The United Nations International Court of Justice rules that Japan's Antarctic whaling program is not scientific but commercial and forbids grants of further permits. 
 
 The International Court of Justice rules Japan must immediately stop its whaling program in the Antarctic.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-03-31/ijc-japan-whaling-southern-ocean-scientific-research/5357416)
 2. [BBC](http://www.bbc.com/news/world-asia-26818863#)

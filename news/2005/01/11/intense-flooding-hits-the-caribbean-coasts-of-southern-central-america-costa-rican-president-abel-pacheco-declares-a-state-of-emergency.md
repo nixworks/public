@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2005/01/11/intense-flooding-hits-the-caribbean-coasts-of-southern-central-america-costa-rican-president-abel-pacheco-declares-a-state-of-emergency.html)  [JSON](/news/2005/01/11/intense-flooding-hits-the-caribbean-coasts-of-southern-central-america-costa-rican-president-abel-pacheco-declares-a-state-of-emergency.json)  [XML](/news/2005/01/11/intense-flooding-hits-the-caribbean-coasts-of-southern-central-america-costa-rican-president-abel-pacheco-declares-a-state-of-emergency.xml)  
+
 ### [2005-01-11](/news/2005/01/11/index.md)
 
+##### Caribbean
 #  Intense flooding hits the Caribbean coasts of southern Central America; Costa Rican President Abel Pacheco declares a state of emergency. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4166675.stm)
 
 ### Related:
 
-1. [In Nicaragua, flooding from Tropical Storm Nate, kills at least fifteen people. In Costa Rica, the storm kills at least seven people with fifteen missing. ](/news/2017/10/5/in-nicaragua-flooding-from-tropical-storm-nate-kills-at-least-fifteen-people-in-costa-rica-the-storm-kills-at-least-seven-people-with-fi.md) _Context: Costa Rica_
-2. [The first cruise ship in more than a half-century bound for Havana from the United States leaves Miami, Florida, at about 4:24 p.m. EDT. Carnival Cruise Line's 704-passenger Adonia was able to set sail for the northern Caribbean country after Cuba, April 22, loosened its policy banning Cuban-born people from traveling to the country by sea. ](/news/2016/05/1/the-first-cruise-ship-in-more-than-a-half-century-bound-for-havana-from-the-united-states-leaves-miami-florida-at-about-4-24-p-m-edt-car.md) _Context: Caribbean_
-3. [The US Centers for Disease Control and Prevention warns pregnant women against visiting 14 countries and territories in South America, Central America and the Caribbean due to the Zika virus outbreak. ](/news/2016/01/15/the-us-centers-for-disease-control-and-prevention-warns-pregnant-women-against-visiting-14-countries-and-territories-in-south-america-centr.md) _Context: Caribbean_
-4. [A major indication that relations between Cuba and the U.S. are increasingly normalized will be the island nation's participation later this month at an annual Caribbean security conference in Jamaica, according to the outgoing head of the United States Southern Command, General John F. Kelly. ](/news/2016/01/13/a-major-indication-that-relations-between-cuba-and-the-u-s-are-increasingly-normalized-will-be-the-island-nationas-participation-later-th.md) _Context: Caribbean_
-5. [Nicaragua deploys its military to help close its southern border in a dispute with Costa Rica over the passage of Cuban migrants on their way to the United States. Nicaragua's government said Costa Rica's decision to grant seven-day transit visas to 1,200 Cuban migrants who entered the country through Panama, "violated national sovereignty". Nicaraguan troops and riot police fired tear gas at people attempting to enter in what Costa Rica called a "humanitarian crisis". ](/news/2015/11/16/nicaragua-deploys-its-military-to-help-close-its-southern-border-in-a-dispute-with-costa-rica-over-the-passage-of-cuban-migrants-on-their-wa.md) _Context: Costa Rica_
+1. [A magnitude 7.6 earthquake strikes north of Honduras, resulting in tsunami warnings in the Caribbean. ](/news/2018/01/9/a-magnitude-7-6-earthquake-strikes-north-of-honduras-resulting-in-tsunami-warnings-in-the-caribbean.md) _Context: Caribbean_
+2. [Twelve people, including all 10 American passengers, are killed when their single-propeller plane crashes in a mountainous area near Punta Islita, in Guanacaste Province, Costa Rica. The pilot was former President Laura Chinchilla's cousin. ](/news/2017/12/31/twelve-people-including-all-10-american-passengers-are-killed-when-their-single-propeller-plane-crashes-in-a-mountainous-area-near-punta-i.md) _Context: Costa Rica_
+3. [Costa Rica is hit by a 6.5 magnitude earthquake at Jaco near the capital San Jose. No immediate reports of casualties or damage. ](/news/2017/11/12/costa-rica-is-hit-by-a-6-5-magnitude-earthquake-at-jaca3-near-the-capital-san-josa-c-no-immediate-reports-of-casualties-or-damage.md) _Context: Costa Rica_
+4. [In Nicaragua, flooding from Tropical Storm Nate, kills at least fifteen people. In Costa Rica, the storm kills at least seven people with fifteen missing. ](/news/2017/10/5/in-nicaragua-flooding-from-tropical-storm-nate-kills-at-least-fifteen-people-in-costa-rica-the-storm-kills-at-least-seven-people-with-fi.md) _Context: Costa Rica_
+5. [The first cruise ship in more than a half-century bound for Havana from the United States leaves Miami, Florida, at about 4:24 p.m. EDT. Carnival Cruise Line's 704-passenger Adonia was able to set sail for the northern Caribbean country after Cuba, April 22, loosened its policy banning Cuban-born people from traveling to the country by sea. ](/news/2016/05/1/the-first-cruise-ship-in-more-than-a-half-century-bound-for-havana-from-the-united-states-leaves-miami-florida-at-about-4-24-p-m-edt-car.md) _Context: Caribbean_

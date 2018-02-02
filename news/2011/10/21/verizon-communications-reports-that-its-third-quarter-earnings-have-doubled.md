@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/21/verizon-communications-reports-that-its-third-quarter-earnings-have-doubled.html)  [JSON](/news/2011/10/21/verizon-communications-reports-that-its-third-quarter-earnings-have-doubled.json)  [XML](/news/2011/10/21/verizon-communications-reports-that-its-third-quarter-earnings-have-doubled.xml)  
+
 ### [2011-10-21](/news/2011/10/21/index.md)
 
+##### Verizon Communications
 # Verizon Communications reports that its third-quarter earnings have doubled. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970204618704576644762342292734.html)
 

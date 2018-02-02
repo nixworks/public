@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/5/one-person-is-killed-and-two-are-seriously-injur
 
 ### [2016-02-5](/news/2016/02/5/index.md)
 
+##### Lower Manhattan
 # One person is killed, and two are seriously injured when a construction crane collapses in Lower Manhattan's Tribeca district. 
 
 

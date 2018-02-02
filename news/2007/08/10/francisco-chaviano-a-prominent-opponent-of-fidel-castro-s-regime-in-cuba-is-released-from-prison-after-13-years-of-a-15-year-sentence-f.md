@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/08/10/francisco-chaviano-a-prominent-opponent-of-fidel-castro-s-regime-in-cuba-is-released-from-prison-after-13-years-of-a-15-year-sentence-f.html)  [JSON](/news/2007/08/10/francisco-chaviano-a-prominent-opponent-of-fidel-castro-s-regime-in-cuba-is-released-from-prison-after-13-years-of-a-15-year-sentence-f.json)  [XML](/news/2007/08/10/francisco-chaviano-a-prominent-opponent-of-fidel-castro-s-regime-in-cuba-is-released-from-prison-after-13-years-of-a-15-year-sentence-f.xml)  
+
 ### [2007-08-10](/news/2007/08/10/index.md)
 
+##### Francisco Chaviano
 #  Francisco Chaviano, a prominent opponent of Fidel Castro's regime in Cuba, is released from prison after 13 years (of a 15 year sentence) for allegedly revealing state secrets. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via the Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/08/10/AR2007081001938.html)
+1. [AP via the Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2007/08/10/AR2007081001938.html)
 
 ### Related:
 

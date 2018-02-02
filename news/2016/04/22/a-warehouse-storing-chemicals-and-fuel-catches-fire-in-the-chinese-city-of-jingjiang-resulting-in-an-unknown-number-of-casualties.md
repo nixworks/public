@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/22/a-warehouse-storing-chemicals-and-fuel-catches-
 
 ### [2016-04-22](/news/2016/04/22/index.md)
 
+##### China
 # A warehouse storing chemicals and fuel catches fire in the Chinese city of Jingjiang resulting in an unknown number of casualties. 
 
 A warehouse storing chemicals and fuel exploded and caught fire in the eastern Chinese city of Jingjiang on Friday, media reports said, with possible casualties unknown.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/29/three-previously-unpublished-short-stories-by-j-d-salinger-are-leaked-online-against-the-late-author-s-wishes.html)  [JSON](/news/2013/11/29/three-previously-unpublished-short-stories-by-j-d-salinger-are-leaked-online-against-the-late-author-s-wishes.json)  [XML](/news/2013/11/29/three-previously-unpublished-short-stories-by-j-d-salinger-are-leaked-online-against-the-late-author-s-wishes.xml)  
+
 ### [2013-11-29](/news/2013/11/29/index.md)
 
+##### J. D. Salinger
 # Three previously unpublished short stories by J. D. Salinger are leaked online against the late author's wishes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-25150548)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69929000/jpg/_69929828_50778714.jpg)

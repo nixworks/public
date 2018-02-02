@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/3/pirates-off-the-coast-of-somalia-seize-a-north-korean-flagged-cargo-ship-south-of-yemen.html)  [JSON](/news/2010/02/3/pirates-off-the-coast-of-somalia-seize-a-north-korean-flagged-cargo-ship-south-of-yemen.json)  [XML](/news/2010/02/3/pirates-off-the-coast-of-somalia-seize-a-north-korean-flagged-cargo-ship-south-of-yemen.xml)  
+
 ### [2010-02-3](/news/2010/02/3/index.md)
 
+##### Somali pirates
 # Pirates off the coast of Somalia seize a North Korean-flagged cargo ship south of Yemen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iYoZ87-HiKIWQRXZLY59NIBI83qQ)
 2. [CNN](http://edition.cnn.com/2010/WORLD/africa/02/03/somalia.pirates/)

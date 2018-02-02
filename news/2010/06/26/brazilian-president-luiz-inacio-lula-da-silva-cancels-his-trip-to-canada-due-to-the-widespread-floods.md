@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/26/brazilian-president-luiz-inacio-lula-da-silva-cancels-his-trip-to-canada-due-to-the-widespread-floods.html)  [JSON](/news/2010/06/26/brazilian-president-luiz-inacio-lula-da-silva-cancels-his-trip-to-canada-due-to-the-widespread-floods.json)  [XML](/news/2010/06/26/brazilian-president-luiz-inacio-lula-da-silva-cancels-his-trip-to-canada-due-to-the-widespread-floods.xml)  
+
 ### [2010-06-26](/news/2010/06/26/index.md)
 
+##### Luiz Incio Lula da Silva
 # Brazilian President Luiz Incio Lula da Silva cancels his trip to Canada due to the widespread floods. 
 
 Relief supplies have begun reaching stranded flood victims in northeastern Brazil, as President Lula cancelled his visit to Canada for the G20 summit.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/relief-reaches-brazil-flood-victims-20100626-zab1.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

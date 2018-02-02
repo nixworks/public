@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/27/at-least-thirteen-people-die-in-the-gulf-of-aden-after-a-small-boat-capsizes-with-a-rescue-effort-by-the-uss-winston-s-churchill-saving-ano.html)  [JSON](/news/2010/09/27/at-least-thirteen-people-die-in-the-gulf-of-aden-after-a-small-boat-capsizes-with-a-rescue-effort-by-the-uss-winston-s-churchill-saving-ano.json)  [XML](/news/2010/09/27/at-least-thirteen-people-die-in-the-gulf-of-aden-after-a-small-boat-capsizes-with-a-rescue-effort-by-the-uss-winston-s-churchill-saving-ano.xml)  
+
 ### [2010-09-27](/news/2010/09/27/index.md)
 
+##### Gulf of Aden
 # At least thirteen people die in the Gulf of Aden after a small boat capsizes with a rescue effort by the USS Winston S. Churchill saving another 61 passengers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/breaking-news/thirteen-drown-in-us-navy-rescue-in-gulf-of-aden/story-e6frfku0-1225930520649)
 

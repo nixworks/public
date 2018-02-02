@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/14/kurmanbek-bakiyev-has-been-sworn-in-as-kyrgyzstan-s-new-president-after-winning-nearly-90-percent-of-the-vote-last-month-in-an-election-to.html)  [JSON](/news/2005/08/14/kurmanbek-bakiyev-has-been-sworn-in-as-kyrgyzstan-s-new-president-after-winning-nearly-90-percent-of-the-vote-last-month-in-an-election-to.json)  [XML](/news/2005/08/14/kurmanbek-bakiyev-has-been-sworn-in-as-kyrgyzstan-s-new-president-after-winning-nearly-90-percent-of-the-vote-last-month-in-an-election-to.xml)  
+
 ### [2005-08-14](/news/2005/08/14/index.md)
 
+##### Kurmanbek Bakiyev
 #  Kurmanbek Bakiyev has been sworn in as Kyrgyzstan's new president after winning nearly 90 percent of the vote last month in an election to find a successor to President Askar Akayev, who was ousted during protests in March.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-08-14T072927Z_01_KWA426894_RTRUKOC_0_UK-KYRGYZSTAN-PRESIDENT.xml)
 

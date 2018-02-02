@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/22/the-government-of-sudan-gives-united-nations-envoy-jan-pronk-three-days-notice-to-leave-the-country-over-comments-on-the-military-situation.html)  [JSON](/news/2006/10/22/the-government-of-sudan-gives-united-nations-envoy-jan-pronk-three-days-notice-to-leave-the-country-over-comments-on-the-military-situation.json)  [XML](/news/2006/10/22/the-government-of-sudan-gives-united-nations-envoy-jan-pronk-three-days-notice-to-leave-the-country-over-comments-on-the-military-situation.xml)  
+
 ### [2006-10-22](/news/2006/10/22/index.md)
 
+##### Sudan
 #  The government of Sudan gives United Nations envoy Jan Pronk three days notice to leave the country over comments on the military situation in Darfur made on his weblog. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/6074808.stm)
 

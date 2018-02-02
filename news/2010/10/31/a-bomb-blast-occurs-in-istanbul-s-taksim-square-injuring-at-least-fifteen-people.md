@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/10/31/a-bomb-blast-occurs-in-istanbul-s-taksim-square-injuring-at-least-fifteen-people.html)  [JSON](/news/2010/10/31/a-bomb-blast-occurs-in-istanbul-s-taksim-square-injuring-at-least-fifteen-people.json)  [XML](/news/2010/10/31/a-bomb-blast-occurs-in-istanbul-s-taksim-square-injuring-at-least-fifteen-people.xml)  
+
 ### [2010-10-31](/news/2010/10/31/index.md)
 
+##### bomb blast
 # A bomb blast occurs in Istanbul's Taksim Square, injuring at least fifteen people. 
 
 A suicide bomb blast in the centre of Istanbul injures 32 people, including 15 policemen, but no group has yet said it carried out the attack.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11660795)
-2. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20101031/ts_nm/us_turkey_blast)
-3. [Reuters](http://www.reuters.com/article/idUSTRE69U0F920101031)
+2. [Reuters via Yahoo! News](https://news.yahoo.com/s/nm/20101031/ts_nm/us_turkey_blast)
+3. [Reuters](https://www.reuters.com/article/idUSTRE69U0F920101031)
 3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)
 
 ### Related:

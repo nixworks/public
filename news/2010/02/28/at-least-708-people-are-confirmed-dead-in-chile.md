@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/28/at-least-708-people-are-confirmed-dead-in-chile.html)  [JSON](/news/2010/02/28/at-least-708-people-are-confirmed-dead-in-chile.json)  [XML](/news/2010/02/28/at-least-708-people-are-confirmed-dead-in-chile.xml)  
+
 ### [2010-02-28](/news/2010/02/28/index.md)
 
+##### 
 # At least 708 people are confirmed dead in Chile 
 
 With a rapt world watching the drama unfold live on television, the tsunami raced across the Pacific, forcing the evacuation of thousands of residents amid fears of a repeat of the - New Zealand Herald
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8540742.stm)
 2. [CNN](http://www.cnn.com/2010/WORLD/americas/02/28/chile.quake/index.html?hpt=T2)

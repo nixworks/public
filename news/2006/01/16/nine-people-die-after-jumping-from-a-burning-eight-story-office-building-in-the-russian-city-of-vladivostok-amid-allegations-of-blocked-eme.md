@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/16/nine-people-die-after-jumping-from-a-burning-eight-story-office-building-in-the-russian-city-of-vladivostok-amid-allegations-of-blocked-eme.html)  [JSON](/news/2006/01/16/nine-people-die-after-jumping-from-a-burning-eight-story-office-building-in-the-russian-city-of-vladivostok-amid-allegations-of-blocked-eme.json)  [XML](/news/2006/01/16/nine-people-die-after-jumping-from-a-burning-eight-story-office-building-in-the-russian-city-of-vladivostok-amid-allegations-of-blocked-eme.xml)  
+
 ### [2006-01-16](/news/2006/01/16/index.md)
 
+##### Vladivostok
 #  Nine people die after jumping from a burning eight-story office building in the Russian city of Vladivostok amid allegations of blocked emergency exits and fire code violations. 
 
 Nine people died after jumping from a burning multi-storey office building in the Russian city of Vladivostok amid allegations of blocked emergency exits and fire code violations.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/world/story/2006/01/16/russian-fire060116.html)
 1. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)

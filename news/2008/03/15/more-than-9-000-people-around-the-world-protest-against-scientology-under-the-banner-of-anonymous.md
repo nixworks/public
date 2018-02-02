@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/15/more-than-9-000-people-around-the-world-protest-against-scientology-under-the-banner-of-anonymous.html)  [JSON](/news/2008/03/15/more-than-9-000-people-around-the-world-protest-against-scientology-under-the-banner-of-anonymous.json)  [XML](/news/2008/03/15/more-than-9-000-people-around-the-world-protest-against-scientology-under-the-banner-of-anonymous.xml)  
+
 ### [2008-03-15](/news/2008/03/15/index.md)
 
+##### protest
 #  More than 9,000 people around the world protest against Scientology under the banner of Anonymous. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Tampa Tribune](http://www2.tbo.com/content/2008/mar/15/clearwater-bracing-new-scientology-protest/)
 2. [Village Voice](http://blogs.villagevoice.com/runninscared/archives/2008/03/anonymous_vs_sc_1.php)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/15/sixteen-people-die-in-a-clash-near-the-city-of-kashgar-in-china-s-restive-xinjiang-province.html)  [JSON](/news/2013/12/15/sixteen-people-die-in-a-clash-near-the-city-of-kashgar-in-china-s-restive-xinjiang-province.json)  [XML](/news/2013/12/15/sixteen-people-die-in-a-clash-near-the-city-of-kashgar-in-china-s-restive-xinjiang-province.xml)  
+
 ### [2013-12-15](/news/2013/12/15/index.md)
 
+##### Kashgar
 # Sixteen people die in a clash near the city of Kashgar in China's restive Xinjiang province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-25396448)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/71760000/gif/_71760924_china_xinjiang_kashgar_0711.gif)

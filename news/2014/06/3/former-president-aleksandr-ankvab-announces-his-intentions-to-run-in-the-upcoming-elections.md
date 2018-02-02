@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/3/former-president-aleksandr-ankvab-announces-his-intentions-to-run-in-the-upcoming-elections.html)  [JSON](/news/2014/06/3/former-president-aleksandr-ankvab-announces-his-intentions-to-run-in-the-upcoming-elections.json)  [XML](/news/2014/06/3/former-president-aleksandr-ankvab-announces-his-intentions-to-run-in-the-upcoming-elections.xml)  
+
 ### [2014-06-3](/news/2014/06/3/index.md)
 
+##### Aleksandr Ankvab
 # Former president Aleksandr Ankvab announces his intentions to run in the upcoming elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ITAR-TASS](http://en.itar-tass.com/world/734434)
 

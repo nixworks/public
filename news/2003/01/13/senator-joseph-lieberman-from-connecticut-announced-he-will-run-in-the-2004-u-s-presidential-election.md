@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/13/senator-joseph-lieberman-from-connecticut-announced-he-will-run-in-the-2004-u-s-presidential-election.html)  [JSON](/news/2003/01/13/senator-joseph-lieberman-from-connecticut-announced-he-will-run-in-the-2004-u-s-presidential-election.json)  [XML](/news/2003/01/13/senator-joseph-lieberman-from-connecticut-announced-he-will-run-in-the-2004-u-s-presidential-election.xml)  
+
 ### [2003-01-13](/news/2003/01/13/index.md)
 
+##### Joseph Lieberman
 #  Senator Joseph Lieberman from Connecticut announced he will run in the 2004 U.S. presidential election
 
 

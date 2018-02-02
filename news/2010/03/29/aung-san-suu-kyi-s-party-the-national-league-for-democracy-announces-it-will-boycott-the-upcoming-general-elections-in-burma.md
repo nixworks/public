@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/29/aung-san-suu-kyi-s-party-the-national-league-for-democracy-announces-it-will-boycott-the-upcoming-general-elections-in-burma.html)  [JSON](/news/2010/03/29/aung-san-suu-kyi-s-party-the-national-league-for-democracy-announces-it-will-boycott-the-upcoming-general-elections-in-burma.json)  [XML](/news/2010/03/29/aung-san-suu-kyi-s-party-the-national-league-for-democracy-announces-it-will-boycott-the-upcoming-general-elections-in-burma.xml)  
+
 ### [2010-03-29](/news/2010/03/29/index.md)
 
+##### Aung San Suu Kyi
 # Aung San Suu Kyi's party, the National League for Democracy, announces it will boycott the upcoming general elections in Burma. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hkveLB56JCzxoTWaW84FSrpY-W8QD9EO7VAG2)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8592365.stm)

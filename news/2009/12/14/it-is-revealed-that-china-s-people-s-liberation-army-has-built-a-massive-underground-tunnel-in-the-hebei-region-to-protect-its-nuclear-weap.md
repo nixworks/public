@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/14/it-is-revealed-that-china-s-people-s-liberation-army-has-built-a-massive-underground-tunnel-in-the-hebei-region-to-protect-its-nuclear-weap.html)  [JSON](/news/2009/12/14/it-is-revealed-that-china-s-people-s-liberation-army-has-built-a-massive-underground-tunnel-in-the-hebei-region-to-protect-its-nuclear-weap.json)  [XML](/news/2009/12/14/it-is-revealed-that-china-s-people-s-liberation-army-has-built-a-massive-underground-tunnel-in-the-hebei-region-to-protect-its-nuclear-weap.xml)  
+
 ### [2009-12-14](/news/2009/12/14/index.md)
 
+##### China
 #  It is revealed that China's People's Liberation Army has built a massive underground tunnel in the Hebei region to protect its nuclear weapons. 
 
 The Chinese Army is believed to have built an underground &quot;Great Wall&quot; that stre..
 
 
-### Source:
+### Sources:
 
 1. [The Chosun Ilbo](http://english.chosun.com/site/data/html_dir/2009/12/14/2009121400292.html)
 1. [Cover Image](http://image.chosun.com/facebook/newson.gif)

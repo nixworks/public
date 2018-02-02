@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/22/cbc-news-leaks-a-suggestion-that-hezbollah-may-have-been-responsible-for-the-murder-of-rafic-hariri.html)  [JSON](/news/2010/11/22/cbc-news-leaks-a-suggestion-that-hezbollah-may-have-been-responsible-for-the-murder-of-rafic-hariri.json)  [XML](/news/2010/11/22/cbc-news-leaks-a-suggestion-that-hezbollah-may-have-been-responsible-for-the-murder-of-rafic-hariri.xml)  
+
 ### [2010-11-22](/news/2010/11/22/index.md)
 
+##### CBC News
 # CBC News leaks a suggestion that Hezbollah may have been responsible for the murder of Rafic Hariri. 
 
 UN special investigators have concluded that an eight-member hit squad backed by the militant Shia group Hezbollah was behind the spectacular assassination of former Lebanese prime minister Rafik Hariri five years ago, CBC News has learned.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/world/story/2010/11/19/f-rfa-macdonald-lebanon-hariri.html)
 1. [Cover Image](https://i.cbc.ca/1.2072137.1381902280!/httpImage/image.jpg_gen/derivatives/16x9_1180/leb-hariri-ts-6251819.jpg)
@@ -16,4 +20,4 @@ UN special investigators have concluded that an eight-member hit squad backed by
 2. [Hezbollah leader Hassan Nasrallah gives a press conference in which he states he has evidence that implicates Israel in the 2005 assassination of then Prime Minister of Lebanon Rafic Hariri, who was killed along with 22 others. ](/news/2010/08/9/hezbollah-leader-hassan-nasrallah-gives-a-press-conference-in-which-he-states-he-has-evidence-that-implicates-israel-in-the-2005-assassinati.md) _Context: Hezbollah, Rafic Hariri_
 3. [Hezbollah states it has passed on evidence said to implicate Israel in the 2005 assassination of then Prime Minister of Lebanon Rafic Hariri. ](/news/2010/08/17/hezbollah-states-it-has-passed-on-evidence-said-to-implicate-israel-in-the-2005-assassination-of-then-prime-minister-of-lebanon-rafic-hariri.md) _Context: Hezbollah, Rafic Hariri_
 4. [Israel's Foreign Ministry alleges Hezbollah leader Hassan Nasrallah's press conference yesterday, in which he stated he has evidence that implicates Israel in the 2005 assassination of former Prime Minister of Lebanon Rafic Hariri and 22 others, was full of "ridiculous lies". ](/news/2010/08/10/israel-s-foreign-ministry-alleges-hezbollah-leader-hassan-nasrallah-s-press-conference-yesterday-in-which-he-stated-he-has-evidence-that-im.md) _Context: Hezbollah, Rafic Hariri_
-5. [CJTF-OIR jets destroy a section of road, blocking the path of a convoy carrying ISIL evacuees from the Lebanon-Syria border en route to Abu Kamal in the Deir ez-Zor Governorate. The convoy, carrying 308 militants and 331 civilians according to Hezbollah, is now effectively stranded in Syrian government-controlled territory. ](/news/2017/08/30/cjtfaoir-jets-destroy-a-section-of-road-blocking-the-path-of-a-convoy-carrying-isil-evacuees-from-the-lebanonasyria-border-en-route-to.md) _Context: Hezbollah_
+5. [The Trump administration through the U.S. Justice Department establishes the Hezbollah Financing and Narcoterrorism Team to assist with the DEA's Project Cassandra investigation into groups supporting Hezbollah. ](/news/2018/01/11/the-trump-administration-through-the-u-s-justice-department-establishes-the-hezbollah-financing-and-narcoterrorism-team-to-assist-with-the.md) _Context: Hezbollah_

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/3/seven-insurgents-are-killed-in-clashes-northern-
 
 ### [2016-12-3](/news/2016/12/3/index.md)
 
+##### Somali Civil War (2009-present)
 #  Seven insurgents are killed in clashes northern Somalia. 
 
 Soldiers allied to the Western-backed Somali government said they killed seven insurgents from a faction loyal to the Islamic State group in a clash in northern Somalia on Saturday.

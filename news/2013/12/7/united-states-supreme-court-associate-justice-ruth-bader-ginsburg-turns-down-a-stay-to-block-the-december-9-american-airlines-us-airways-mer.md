@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/7/united-states-supreme-court-associate-justice-ruth-bader-ginsburg-turns-down-a-stay-to-block-the-december-9-american-airlines-us-airways-mer.html)  [JSON](/news/2013/12/7/united-states-supreme-court-associate-justice-ruth-bader-ginsburg-turns-down-a-stay-to-block-the-december-9-american-airlines-us-airways-mer.json)  [XML](/news/2013/12/7/united-states-supreme-court-associate-justice-ruth-bader-ginsburg-turns-down-a-stay-to-block-the-december-9-american-airlines-us-airways-mer.xml)  
+
 ### [2013-12-7](/news/2013/12/7/index.md)
 
+##### United States Supreme Court
 # United States Supreme Court associate justice Ruth Bader Ginsburg turns down a stay to block the December 9 American Airlines-US Airways merger. 
 
 Supreme Court Justice Ruth Bader Ginsburg denied a petition to halt the planned merger between American Airlines and US Airways late Saturday night. 
 
 
-### Source:
+### Sources:
 
 1. [FOX News](http://www.foxnews.com/politics/2013/12/08/supreme-court-justice-turns-down-stay-americanus-airways-merger/?intcmp=latestnews)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2013/12/08/supreme-court-justice-turns-down-stay-americanus-airways-merger/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1446762681094.jpg?ve=1)

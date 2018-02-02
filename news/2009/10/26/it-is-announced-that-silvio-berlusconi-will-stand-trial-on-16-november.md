@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/26/it-is-announced-that-silvio-berlusconi-will-stand-trial-on-16-november.html)  [JSON](/news/2009/10/26/it-is-announced-that-silvio-berlusconi-will-stand-trial-on-16-november.json)  [XML](/news/2009/10/26/it-is-announced-that-silvio-berlusconi-will-stand-trial-on-16-november.xml)  
+
 ### [2009-10-26](/news/2009/10/26/index.md)
 
+##### Silvio Berlusconi
 #  It is announced that Silvio Berlusconi will stand trial on 16 November. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8326812.stm)
 

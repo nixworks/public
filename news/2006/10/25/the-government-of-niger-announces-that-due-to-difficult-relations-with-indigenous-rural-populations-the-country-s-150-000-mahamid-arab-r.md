@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/25/the-government-of-niger-announces-that-due-to-difficult-relations-with-indigenous-rural-populations-the-country-s-150-000-mahamid-arab-r.html)  [JSON](/news/2006/10/25/the-government-of-niger-announces-that-due-to-difficult-relations-with-indigenous-rural-populations-the-country-s-150-000-mahamid-arab-r.json)  [XML](/news/2006/10/25/the-government-of-niger-announces-that-due-to-difficult-relations-with-indigenous-rural-populations-the-country-s-150-000-mahamid-arab-r.xml)  
+
 ### [2006-10-25](/news/2006/10/25/index.md)
 
+##### Niger
 #  The government of Niger announces that due to "difficult relations with indigenous rural populations," the country's 150,000 Mahamid Arab refugee population who have lived in Niger since having fled Chad two decades earlier, will be deported back to Chad. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/News/CrisesArticle.aspx?storyId=L24176642)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/31/nine-bombs-explode-in-soweto-south-africa-and-the-vicinity-and-one-near-pretoria.html)  [JSON](/news/2002/10/31/nine-bombs-explode-in-soweto-south-africa-and-the-vicinity-and-one-near-pretoria.json)  [XML](/news/2002/10/31/nine-bombs-explode-in-soweto-south-africa-and-the-vicinity-and-one-near-pretoria.xml)  
+
 ### [2002-10-31](/news/2002/10/31/index.md)
 
+##### Soweto
 #  Nine bombs explode in Soweto, South Africa and the vicinity and one near Pretoria.
 
 

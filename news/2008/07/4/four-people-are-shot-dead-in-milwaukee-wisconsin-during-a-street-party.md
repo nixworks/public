@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/07/4/four-people-are-shot-dead-in-milwaukee-wisconsin-during-a-street-party.html)  [JSON](/news/2008/07/4/four-people-are-shot-dead-in-milwaukee-wisconsin-during-a-street-party.json)  [XML](/news/2008/07/4/four-people-are-shot-dead-in-milwaukee-wisconsin-during-a-street-party.xml)  
+
 ### [2008-07-4](/news/2008/07/4/index.md)
 
+##### Milwaukee
 #  Four people are shot dead in Milwaukee, Wisconsin, during a street party. 
 
 At least one person fired a gun into a crowd on a Milwaukee street, killing four people and sending people running for cover.
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The New York Times](http://www.nytimes.com/2008/07/05/us/05brfs-FOURKILLEDIN_BRF.html)
+1. [AP via ''The New York Times](https://www.nytimes.com/2008/07/05/us/05brfs-FOURKILLEDIN_BRF.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

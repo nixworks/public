@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/29/four-islamist-militants-are-killed-in-a-raid-by-security-forces-in-osh-kyrgyzstan.html)  [JSON](/news/2010/11/29/four-islamist-militants-are-killed-in-a-raid-by-security-forces-in-osh-kyrgyzstan.json)  [XML](/news/2010/11/29/four-islamist-militants-are-killed-in-a-raid-by-security-forces-in-osh-kyrgyzstan.xml)  
+
 ### [2010-11-29](/news/2010/11/29/index.md)
 
+##### Islamist
 # Four Islamist militants are killed in a raid by security forces in Osh, Kyrgyzstan. 
 
 Reports from Kyrgyzstan say four Islamist militants have been killed in a raid by special forces on a hide-out in the southern city of Osh.
 
 
-### Source:
+### Sources:
 
 1. [24.kg News Agency](http://eng.24.kg/incidents/2010/11/29/15031.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11861923)

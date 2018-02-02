@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/10/figure-writing-reflected-in-a-mirror-a-painting-by-francis-bacon-sells-at-auction-for-us-44-9-million-in-new-york.html)  [JSON](/news/2012/05/10/figure-writing-reflected-in-a-mirror-a-painting-by-francis-bacon-sells-at-auction-for-us-44-9-million-in-new-york.json)  [XML](/news/2012/05/10/figure-writing-reflected-in-a-mirror-a-painting-by-francis-bacon-sells-at-auction-for-us-44-9-million-in-new-york.xml)  
+
 ### [2012-05-10](/news/2012/05/10/index.md)
 
+##### Francis Bacon
 # "Figure Writing Reflected in a Mirror", a painting by Francis Bacon, sells at auction for US$44.9 million in New York. 
 
 A Francis Bacon painting of a man and his reflection brought in $44.9m at Sotheby&#39;s in New York last night, capping a week of breathtaking sales in the luxury art market.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2012/0510/francis-bacon-painting-sells-for-44-9m.html)
 1. [Cover Image](https://img.rasset.ie/0005df9b-1600.jpg)

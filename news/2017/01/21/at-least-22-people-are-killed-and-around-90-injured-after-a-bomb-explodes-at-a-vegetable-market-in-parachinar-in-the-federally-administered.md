@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/21/at-least-22-people-are-killed-and-around-90-inj
 
 ### [2017-01-21](/news/2017/01/21/index.md)
 
+##### War in North-West Pakistan
 # At least 22 people are killed and around 90 injured after a bomb explodes at a vegetable market in Parachinar in the Federally Administered Tribal Areas of Pakistan. 
 
 The blast happened at the time when dozens of people were busy shopping in the vegetable market located in Parachinar area of Kurram Agency, a semi-autonomous tribal region along Pakistan-Afghanistan.

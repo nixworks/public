@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/8/protests-in-harare-and-elsewhere-in-the-country-
 
 ### [2016-07-8](/news/2016/07/8/index.md)
 
+##### 2016 Zimbabwe protests
 # Protests in Harare and elsewhere in the country continue despite police intimidation and pleas by President Robert Mugabe for them to stop. 
 
 Zimbabwe&#x27;s President Robert Mugabe on Friday blamed sanctions by Western countries for his government&#x27;s failure to pay its workers on time, which led to a crippling strike by civil servants this week. &quot;We have problems with sanctions, the United States is yet to remove them and the EU has

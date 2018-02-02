@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/15/tim-berners-lee-receives-the-millennium-technology-prize-in-helsinki.html)  [JSON](/news/2004/06/15/tim-berners-lee-receives-the-millennium-technology-prize-in-helsinki.json)  [XML](/news/2004/06/15/tim-berners-lee-receives-the-millennium-technology-prize-in-helsinki.xml)  
+
 ### [2004-06-15](/news/2004/06/15/index.md)
 
+##### Sir Timothy John Berners-Lee
 #  Tim Berners-Lee receives the Millennium Technology Prize in Helsinki. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Technology awards](http://www.technologyawards.org/index.php?technologyawards=4101c9eb97bea4485d4b8180cc3e463f&article_id=3184)
 

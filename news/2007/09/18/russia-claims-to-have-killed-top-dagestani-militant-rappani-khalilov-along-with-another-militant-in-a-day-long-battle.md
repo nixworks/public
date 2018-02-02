@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/18/russia-claims-to-have-killed-top-dagestani-militant-rappani-khalilov-along-with-another-militant-in-a-day-long-battle.html)  [JSON](/news/2007/09/18/russia-claims-to-have-killed-top-dagestani-militant-rappani-khalilov-along-with-another-militant-in-a-day-long-battle.json)  [XML](/news/2007/09/18/russia-claims-to-have-killed-top-dagestani-militant-rappani-khalilov-along-with-another-militant-in-a-day-long-battle.xml)  
+
 ### [2007-09-18](/news/2007/09/18/index.md)
 
+##### Russia
 #  Russia claims to have killed top Dagestani militant Rappani Khalilov along with another militant in a day-long battle. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via IHT](http://www.iht.com/articles/ap/2007/09/18/europe/EU-GEN-Russia-Violent-Caucasus.php)
 

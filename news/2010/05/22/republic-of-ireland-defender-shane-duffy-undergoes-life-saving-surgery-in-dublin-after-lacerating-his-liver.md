@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/05/22/republic-of-ireland-defender-shane-duffy-undergoes-life-saving-surgery-in-dublin-after-lacerating-his-liver.html)  [JSON](/news/2010/05/22/republic-of-ireland-defender-shane-duffy-undergoes-life-saving-surgery-in-dublin-after-lacerating-his-liver.json)  [XML](/news/2010/05/22/republic-of-ireland-defender-shane-duffy-undergoes-life-saving-surgery-in-dublin-after-lacerating-his-liver.xml)  
+
 ### [2010-05-22](/news/2010/05/22/index.md)
 
+##### Republic of Ireland
 # Republic of Ireland defender Shane Duffy undergoes life-saving surgery in Dublin after lacerating his liver. 
 
 Everton&#039;s Shane Duffy is recovering from life-saving surgery after suffering an injury to his liver, the Premier league club said.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/05/23/2906880.htm)
 2. [BBC](http://news.bbc.co.uk/sport2/hi/football/8698705.stm)
 3. [RTÉ](http://www.rte.ie/sport/soccer/2010/0522/duffys_everton_ireland.html)
-4. [USA Today](http://www.usatoday.com/sports/soccer/2010-05-22-1565349563_x.htm)
+4. [USA Today](https://www.usatoday.com/sports/soccer/2010-05-22-1565349563_x.htm)
 4. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:

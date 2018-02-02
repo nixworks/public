@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/13/gigantoraptor-erlianensis-a-gigantic-birdlike-dinosaur-is-discovered-in-inner-mongolia-by-paleontologist-xu-xing.html)  [JSON](/news/2007/06/13/gigantoraptor-erlianensis-a-gigantic-birdlike-dinosaur-is-discovered-in-inner-mongolia-by-paleontologist-xu-xing.json)  [XML](/news/2007/06/13/gigantoraptor-erlianensis-a-gigantic-birdlike-dinosaur-is-discovered-in-inner-mongolia-by-paleontologist-xu-xing.xml)  
+
 ### [2007-06-13](/news/2007/06/13/index.md)
 
+##### Gigantoraptor erlianensis
 #  "Gigantoraptor erlianensis", a gigantic birdlike dinosaur, is discovered in Inner Mongolia by paleontologist Xu Xing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Discovery Channel](http://dsc.discovery.com/news/2007/06/13/birddino_din.html?category=dinosaurs&guid=20070613140030&dcitc=w19-502-ak-0000)
 

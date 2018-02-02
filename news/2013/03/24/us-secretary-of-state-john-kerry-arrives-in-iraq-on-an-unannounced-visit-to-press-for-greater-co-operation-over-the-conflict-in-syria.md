@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/24/us-secretary-of-state-john-kerry-arrives-in-iraq-on-an-unannounced-visit-to-press-for-greater-co-operation-over-the-conflict-in-syria.html)  [JSON](/news/2013/03/24/us-secretary-of-state-john-kerry-arrives-in-iraq-on-an-unannounced-visit-to-press-for-greater-co-operation-over-the-conflict-in-syria.json)  [XML](/news/2013/03/24/us-secretary-of-state-john-kerry-arrives-in-iraq-on-an-unannounced-visit-to-press-for-greater-co-operation-over-the-conflict-in-syria.xml)  
+
 ### [2013-03-24](/news/2013/03/24/index.md)
 
+##### US Secretary of State
 # US Secretary of State John Kerry arrives in Iraq on an unannounced visit to press for greater co-operation over the conflict in Syria. 
 
 US Secretary of State John Kerry says it is problematic that Iranian planes with arms for Syria are flying over Iraq, in an unannounced visit to Baghdad.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21915710)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66579000/jpg/_66579480_66579479.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/1/2013-los-angeles-international-airport-shooting-a-gunman-opens-fire-at-los-angeles-international-airport-killing-a-us-transportation-secur.html)  [JSON](/news/2013/11/1/2013-los-angeles-international-airport-shooting-a-gunman-opens-fire-at-los-angeles-international-airport-killing-a-us-transportation-secur.json)  [XML](/news/2013/11/1/2013-los-angeles-international-airport-shooting-a-gunman-opens-fire-at-los-angeles-international-airport-killing-a-us-transportation-secur.xml)  
+
 ### [2013-11-1](/news/2013/11/1/index.md)
 
+##### 2013 Los Angeles International Airport shooting
 # 2013 Los Angeles International Airport shooting: A gunman opens fire at Los Angeles International Airport, killing a US Transportation Security Administration employee, and wounding several other people. It prompts a terminal evacuation. 
 
 A gunman with an assault rifle opened fire in a crowded terminal at Los Angeles International Airport Friday, killing a TSA employee and injuring at least six before being wounded and taken into custody.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/us/2013/11/01/passengers-evacuated-from-terminal-at-los-angeles-international-airport-after/?cmpid=NL_fntop)
 2. [NBC Los Angeles](http://www.nbclosangeles.com/news/local/Los-Angeles-Airport-LAX-Shooting-230220201.html)

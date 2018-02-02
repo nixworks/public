@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/18/bo-xilai-a-former-member-of-politburo-of-the-communist-party-of-china-charged-with-bribery-and-corruption-will-go-on-trial-on-august-22-i.html)  [JSON](/news/2013/08/18/bo-xilai-a-former-member-of-politburo-of-the-communist-party-of-china-charged-with-bribery-and-corruption-will-go-on-trial-on-august-22-i.json)  [XML](/news/2013/08/18/bo-xilai-a-former-member-of-politburo-of-the-communist-party-of-china-charged-with-bribery-and-corruption-will-go-on-trial-on-august-22-i.xml)  
+
 ### [2013-08-18](/news/2013/08/18/index.md)
 
+##### Bo Xilai
 # Bo Xilai, a former member of Politburo of the Communist Party of China, charged with bribery and corruption, will go on trial on August 22 in the city of Jinan. 
 
 Disgraced Chinese politician Bo Xilai is to go on trial on Thursday, charged with bribery, corruption and abuse of power, state media say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-23745515)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69345000/jpg/_69345659_69345274.jpg)

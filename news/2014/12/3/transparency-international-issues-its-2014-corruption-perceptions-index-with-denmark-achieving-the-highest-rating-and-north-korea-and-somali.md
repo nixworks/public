@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/12/3/transparency-international-issues-its-2014-corruption-perceptions-index-with-denmark-achieving-the-highest-rating-and-north-korea-and-somali.html)  [JSON](/news/2014/12/3/transparency-international-issues-its-2014-corruption-perceptions-index-with-denmark-achieving-the-highest-rating-and-north-korea-and-somali.json)  [XML](/news/2014/12/3/transparency-international-issues-its-2014-corruption-perceptions-index-with-denmark-achieving-the-highest-rating-and-north-korea-and-somali.xml)  
+
 ### [2014-12-3](/news/2014/12/3/index.md)
 
+##### Transparency International
 # Transparency International issues its 2014 Corruption Perceptions Index with Denmark achieving the highest rating and North Korea and Somalia tied with the lowest ranking. 
 
 By Kieran GuilbertLONDON (Thomson Reuters Foundation) - Efforts to end corruption will be undermined as long as corrupt officials are able to hide th
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/12/03/us-corruption-ranking-idUSKCN0JH09A20141203)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2014/12/03/us-corruption-ranking-idUSKCN0JH09A20141203)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

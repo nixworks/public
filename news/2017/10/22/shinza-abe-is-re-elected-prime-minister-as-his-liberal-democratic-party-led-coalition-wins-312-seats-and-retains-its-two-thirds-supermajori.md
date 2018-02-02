@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/22/shinza-abe-is-re-elected-prime-minister-as-his-
 
 ### [2017-10-22](/news/2017/10/22/index.md)
 
+##### Japanese general election, 2017
 # Shinzo Abe is re-elected prime minister as his Liberal Democratic Party-led coalition wins 312 seats and retains its two-thirds supermajority in the 465-member House of Representatives. 
 
 Millions are voting in the election, which was called by Prime Minister Shinzo Abe last month.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/5/thailand-and-cambodia-recall-their-ambassadors-over-the-cambodian-government-appointment-of-former-thai-prime-minister-thaksin-shinawatra.html)  [JSON](/news/2009/11/5/thailand-and-cambodia-recall-their-ambassadors-over-the-cambodian-government-appointment-of-former-thai-prime-minister-thaksin-shinawatra.json)  [XML](/news/2009/11/5/thailand-and-cambodia-recall-their-ambassadors-over-the-cambodian-government-appointment-of-former-thai-prime-minister-thaksin-shinawatra.xml)  
+
 ### [2009-11-5](/news/2009/11/5/index.md)
 
+##### Thailand
 #  Thailand and Cambodia recall their ambassadors over the Cambodian government appointment of former Thai Prime Minister Thaksin Shinawatra. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Thai News Agency](http://enews.mcot.net/view.php?id=12651)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-11/05/content_12395491.htm)

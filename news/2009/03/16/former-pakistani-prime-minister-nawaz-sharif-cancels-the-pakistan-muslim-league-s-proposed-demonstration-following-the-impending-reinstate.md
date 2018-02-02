@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/16/former-pakistani-prime-minister-nawaz-sharif-cancels-the-pakistan-muslim-league-s-proposed-demonstration-following-the-impending-reinstate.html)  [JSON](/news/2009/03/16/former-pakistani-prime-minister-nawaz-sharif-cancels-the-pakistan-muslim-league-s-proposed-demonstration-following-the-impending-reinstate.json)  [XML](/news/2009/03/16/former-pakistani-prime-minister-nawaz-sharif-cancels-the-pakistan-muslim-league-s-proposed-demonstration-following-the-impending-reinstate.xml)  
+
 ### [2009-03-16](/news/2009/03/16/index.md)
 
+##### Pakistan
 #  Former Pakistani Prime Minister Nawaz Sharif cancels the Pakistan Muslim League's proposed demonstration, following the impending reinstatement of Iftikhar Muhammad Chaudhry as Chief Justice. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Pakistan-Long-March-Nawaz-Sharif-Cancels-Protest-After-Government-Reinstates-Chief-Justice/Article/200903315241913?lpos=World_News_Top_Stories_Header_2&lid=ARTICLE_15241913_Pakistan_Long_March%3A_Nawaz_Sharif_Cancels_Protest_After_Government_Reinstates_Chief_Justice)
 

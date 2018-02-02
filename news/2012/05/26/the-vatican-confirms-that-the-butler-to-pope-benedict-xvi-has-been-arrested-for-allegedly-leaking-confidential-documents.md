@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/05/26/the-vatican-confirms-that-the-butler-to-pope-benedict-xvi-has-been-arrested-for-allegedly-leaking-confidential-documents.html)  [JSON](/news/2012/05/26/the-vatican-confirms-that-the-butler-to-pope-benedict-xvi-has-been-arrested-for-allegedly-leaking-confidential-documents.json)  [XML](/news/2012/05/26/the-vatican-confirms-that-the-butler-to-pope-benedict-xvi-has-been-arrested-for-allegedly-leaking-confidential-documents.xml)  
+
 ### [2012-05-26](/news/2012/05/26/index.md)
 
+##### Holy See
 # The Vatican confirms that the butler to Pope Benedict XVI has been arrested for allegedly leaking confidential documents. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/europe/vatican-confirms-popes-butler-arrested-in-embarrassing-leaks-whodunit/2012/05/26/gJQAoUNvrU_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/europe/vatican-confirms-popes-butler-arrested-in-embarrassing-leaks-whodunit/2012/05/26/gJQAoUNvrU_story.html)
 
 ### Related:
 

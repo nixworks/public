@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/20/albania-bulgaria-bosnia-and-herzegovina-croatia-moldova-montenegro-romania-serbia-republic-of-macedonia-and-kosovo-sign-the-centra.html)  [JSON](/news/2006/12/20/albania-bulgaria-bosnia-and-herzegovina-croatia-moldova-montenegro-romania-serbia-republic-of-macedonia-and-kosovo-sign-the-centra.json)  [XML](/news/2006/12/20/albania-bulgaria-bosnia-and-herzegovina-croatia-moldova-montenegro-romania-serbia-republic-of-macedonia-and-kosovo-sign-the-centra.xml)  
+
 ### [2006-12-20](/news/2006/12/20/index.md)
 
+##### Albania
 #  Albania, Bulgaria, Bosnia and Herzegovina, Croatia, Moldova, Montenegro, Romania, Serbia, Republic of Macedonia, and Kosovo sign the Central European Free Trade Agreement extending the free trade zone to southeastern Europe. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RadioFreeEurope/RadioLiberty](http://www.rferl.org/featuresarticle/2006/12/BF870B28-8DD7-4EEB-B4AB-63B1E56DC049.html)
 

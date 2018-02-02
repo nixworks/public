@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/21/an-international-consortium-signs-a-deal-formally-launching-iter-a-project-to-develop-an-experimental-nuclear-fusion-reactor.html)  [JSON](/news/2006/11/21/an-international-consortium-signs-a-deal-formally-launching-iter-a-project-to-develop-an-experimental-nuclear-fusion-reactor.json)  [XML](/news/2006/11/21/an-international-consortium-signs-a-deal-formally-launching-iter-a-project-to-develop-an-experimental-nuclear-fusion-reactor.xml)  
+
 ### [2006-11-21](/news/2006/11/21/index.md)
 
+##### ITER
 #  An international consortium signs a deal formally launching ITER, a project to develop an experimental nuclear fusion reactor. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/sci/tech/6165932.stm)
 

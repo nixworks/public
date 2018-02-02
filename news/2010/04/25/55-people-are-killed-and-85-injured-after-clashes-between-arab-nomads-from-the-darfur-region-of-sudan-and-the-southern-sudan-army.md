@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/25/55-people-are-killed-and-85-injured-after-clashes-between-arab-nomads-from-the-darfur-region-of-sudan-and-the-southern-sudan-army.html)  [JSON](/news/2010/04/25/55-people-are-killed-and-85-injured-after-clashes-between-arab-nomads-from-the-darfur-region-of-sudan-and-the-southern-sudan-army.json)  [XML](/news/2010/04/25/55-people-are-killed-and-85-injured-after-clashes-between-arab-nomads-from-the-darfur-region-of-sudan-and-the-southern-sudan-army.xml)  
+
 ### [2010-04-25](/news/2010/04/25/index.md)
 
+##### Arab
 # 55 people are killed and 85 injured after clashes between Arab nomads from the Darfur region of Sudan and the Southern Sudan army. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i6TqtZxy6zxVYPGDuDzj7bs8q7Iw)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/2010425132051685214.html)

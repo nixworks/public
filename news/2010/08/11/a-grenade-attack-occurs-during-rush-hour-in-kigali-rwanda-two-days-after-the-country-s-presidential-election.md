@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/11/a-grenade-attack-occurs-during-rush-hour-in-kigali-rwanda-two-days-after-the-country-s-presidential-election.html)  [JSON](/news/2010/08/11/a-grenade-attack-occurs-during-rush-hour-in-kigali-rwanda-two-days-after-the-country-s-presidential-election.json)  [XML](/news/2010/08/11/a-grenade-attack-occurs-during-rush-hour-in-kigali-rwanda-two-days-after-the-country-s-presidential-election.xml)  
+
 ### [2010-08-11](/news/2010/08/11/index.md)
 
+##### Kigali
 # A grenade attack occurs during rush hour in Kigali, Rwanda, two days after the country's presidential election. 
 
 Several people are wounded in a grenade attack in the Rwandan capital two days after elections, witnesses and officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-10947177)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

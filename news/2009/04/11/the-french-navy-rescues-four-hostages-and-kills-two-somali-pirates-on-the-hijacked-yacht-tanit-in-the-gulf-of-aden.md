@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/11/the-french-navy-rescues-four-hostages-and-kills-two-somali-pirates-on-the-hijacked-yacht-tanit-in-the-gulf-of-aden.html)  [JSON](/news/2009/04/11/the-french-navy-rescues-four-hostages-and-kills-two-somali-pirates-on-the-hijacked-yacht-tanit-in-the-gulf-of-aden.json)  [XML](/news/2009/04/11/the-french-navy-rescues-four-hostages-and-kills-two-somali-pirates-on-the-hijacked-yacht-tanit-in-the-gulf-of-aden.xml)  
+
 ### [2009-04-11](/news/2009/04/11/index.md)
 
+##### France
 #  The French Navy rescues four hostages and kills two Somali pirates on the hijacked yacht "Tanit" in the Gulf of Aden. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/7994201.stm)
 

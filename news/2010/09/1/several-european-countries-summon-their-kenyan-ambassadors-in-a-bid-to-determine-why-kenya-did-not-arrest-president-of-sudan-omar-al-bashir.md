@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/1/several-european-countries-summon-their-kenyan-ambassadors-in-a-bid-to-determine-why-kenya-did-not-arrest-president-of-sudan-omar-al-bashir.html)  [JSON](/news/2010/09/1/several-european-countries-summon-their-kenyan-ambassadors-in-a-bid-to-determine-why-kenya-did-not-arrest-president-of-sudan-omar-al-bashir.json)  [XML](/news/2010/09/1/several-european-countries-summon-their-kenyan-ambassadors-in-a-bid-to-determine-why-kenya-did-not-arrest-president-of-sudan-omar-al-bashir.xml)  
+
 ### [2010-09-1](/news/2010/09/1/index.md)
 
+##### Europe
 # Several European countries summon their Kenyan ambassadors in a bid to determine why Kenya did not arrest President of Sudan Omar al-Bashir when he came to Nairobi for the new constitution ceremony. 
 
 European countries asked Kenyan ambassadors to explain why Kenya refused to arrest the Sudanese president on a recent visit.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11156184)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

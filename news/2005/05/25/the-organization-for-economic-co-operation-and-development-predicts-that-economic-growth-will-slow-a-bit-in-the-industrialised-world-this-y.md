@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/25/the-organization-for-economic-co-operation-and-development-predicts-that-economic-growth-will-slow-a-bit-in-the-industrialised-world-this-y.html)  [JSON](/news/2005/05/25/the-organization-for-economic-co-operation-and-development-predicts-that-economic-growth-will-slow-a-bit-in-the-industrialised-world-this-y.json)  [XML](/news/2005/05/25/the-organization-for-economic-co-operation-and-development-predicts-that-economic-growth-will-slow-a-bit-in-the-industrialised-world-this-y.xml)  
+
 ### [2005-05-25](/news/2005/05/25/index.md)
 
+##### Organization for Economic Co-operation and Development
 #  The Organization for Economic Co-operation and Development predicts that economic growth will slow a bit in the industrialised world this year to an annual rate of 2.6 percent. The OECD's report blames rising energy costs and economic problems in Europe for the slowdown. 
 
 The Organisation for Economic Co-operation and Development slashed its growth forecast for the 30 most advanced countries in the world economy for the second time in six months and blamed it on the struggling eurozone.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/finance/markets/2916274/Eurozone-woes-blamed-for-slowdown-in-global-growth.html)
 2. [VOA News](http://www.voanews.com/english/2005_05-24voa108.cfm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/2/the-dutch-public-prosecution-service-releases-a-statement-that-former-deputy-prime-minister-of-the-netherlands-els-borst-who-was-murdered-on.html)  [JSON](/news/2015/09/2/the-dutch-public-prosecution-service-releases-a-statement-that-former-deputy-prime-minister-of-the-netherlands-els-borst-who-was-murdered-on.json)  [XML](/news/2015/09/2/the-dutch-public-prosecution-service-releases-a-statement-that-former-deputy-prime-minister-of-the-netherlands-els-borst-who-was-murdered-on.xml)  
+
 ### [2015-09-2](/news/2015/09/2/index.md)
 
+##### Dutch Public Prosecution Service
 # The Dutch Public Prosecution Service releases a statement that former Deputy Prime Minister of the Netherlands Els Borst who was murdered on 8 February 2014, died from forty-one stab wounds on her head, neck and hands. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NOS](http://nos.nl/artikel/2055364-els-borst-gedood-met-41-messteken.html)
 1. [Cover Image](https://nos.nl/data/image/2015/01/26/126777/xxl.jpg)

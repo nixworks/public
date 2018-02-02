@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/27/president-nursultan-nazarbayev-of-kazakhstan-an
 
 ### [2017-10-27](/news/2017/10/27/index.md)
 
+##### Kazakh alphabets
 # President Nursultan Nazarbayev of Kazakhstan announces that the Kazakh language will begin using a Latin script, rather than the current Cyrillic script. 
 
 

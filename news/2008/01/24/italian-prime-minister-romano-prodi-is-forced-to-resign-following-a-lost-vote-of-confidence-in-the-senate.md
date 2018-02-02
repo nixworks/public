@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2008/01/24/italian-prime-minister-romano-prodi-is-forced-to-resign-following-a-lost-vote-of-confidence-in-the-senate.html)  [JSON](/news/2008/01/24/italian-prime-minister-romano-prodi-is-forced-to-resign-following-a-lost-vote-of-confidence-in-the-senate.json)  [XML](/news/2008/01/24/italian-prime-minister-romano-prodi-is-forced-to-resign-following-a-lost-vote-of-confidence-in-the-senate.xml)  
+
 ### [2008-01-24](/news/2008/01/24/index.md)
 
+##### Italy
 #  Italian Prime Minister Romano Prodi is forced to resign following a lost vote of confidence in the Senate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7208000.stm)
 
 ### Related:
 
-1. [ Romano Prodi tenders his resignation as Prime Minister of Italy, after a defeat by two votes in the Senate. ](/news/2007/02/21/romano-prodi-tenders-his-resignation-as-prime-minister-of-italy-after-a-defeat-by-two-votes-in-the-senate.md) _Context: Italian Prime Minister, Italian Senate, Italy, Romano Prodi_
-2. [ Hundreds of thousands of left wing Italians march in Rome putting increased pressure on the Prime Minister of Italy Romano Prodi. ](/news/2007/10/20/hundreds-of-thousands-of-left-wing-italians-march-in-rome-putting-increased-pressure-on-the-prime-minister-of-italy-romano-prodi.md) _Context: Italian Prime Minister, Italy, Romano Prodi_
-3. [ Leaders of Italy's centre-left coalition have agreed to support Romano Prodi and a 12-point program meaning that he can resume serving as Prime Minister of Italy. ](/news/2007/02/22/leaders-of-italy-s-centre-left-coalition-have-agreed-to-support-romano-prodi-and-a-12-point-program-meaning-that-he-can-resume-serving-as-p.md) _Context: Italian Prime Minister, Italy, Romano Prodi_
-4. [An Italian court orders former Prime Minister Silvio Berlusconi to stand trial on April 4 on charges of allegedly bribing witnesses with EUR10 million (US$11 million) in order to silence them over accusations he paid for sex with young women. ](/news/2017/01/28/an-italian-court-orders-former-prime-minister-silvio-berlusconi-to-stand-trial-on-april-4-on-charges-of-allegedly-bribing-witnesses-with-a.md) _Context: Italian Prime Minister, Italy_
-5. [Italians go to the polls to for a referendum on whether to approve a constitutional law that amends the Constitution of Italy to reform the powers of the Italian Parliament. Prime Minister Matteo Renzi, who introduced the referendum bill, resigns after exit polls show that the no case is likely to be successful. ](/news/2016/12/4/italians-go-to-the-polls-to-for-a-referendum-on-whether-to-approve-a-constitutional-law-that-amends-the-constitution-of-italy-to-reform-the.md) _Context: Italian Prime Minister, Italy_
+1. [ Romano Prodi tenders his resignation as Prime Minister of Italy, after a defeat by two votes in the Senate. ](/news/2007/02/21/romano-prodi-tenders-his-resignation-as-prime-minister-of-italy-after-a-defeat-by-two-votes-in-the-senate.md) _Context: Italian Senate, Italy, Romano Prodi_
+2. [ Hundreds of thousands of left wing Italians march in Rome putting increased pressure on the Prime Minister of Italy Romano Prodi. ](/news/2007/10/20/hundreds-of-thousands-of-left-wing-italians-march-in-rome-putting-increased-pressure-on-the-prime-minister-of-italy-romano-prodi.md) _Context: Italy, Romano Prodi_
+3. [ Italian leader Romano Prodi is reinstated as prime minister after winning his second and final confidence vote in the Parliament, ending a political crisis that began last week when Prodi resigned after losing a foreign policy vote. ](/news/2007/03/2/italian-leader-romano-prodi-is-reinstated-as-prime-minister-after-winning-his-second-and-final-confidence-vote-in-the-parliament-ending-a.md) _Context: Italy, Romano Prodi_
+4. [ Leaders of Italy's centre-left coalition have agreed to support Romano Prodi and a 12-point program meaning that he can resume serving as Prime Minister of Italy. ](/news/2007/02/22/leaders-of-italy-s-centre-left-coalition-have-agreed-to-support-romano-prodi-and-a-12-point-program-meaning-that-he-can-resume-serving-as-p.md) _Context: Italy, Romano Prodi_
+5. [ New Italian prime minister Romano Prodi pledges to withdraw Italian troops from Iraq and calls the Iraq war a "grave mistake that has not solved but increased the problem of security". ](/news/2006/05/18/new-italian-prime-minister-romano-prodi-pledges-to-withdraw-italian-troops-from-iraq-and-calls-the-iraq-war-a-grave-mistake-that-has-not-s.md) _Context: Italy, Romano Prodi_

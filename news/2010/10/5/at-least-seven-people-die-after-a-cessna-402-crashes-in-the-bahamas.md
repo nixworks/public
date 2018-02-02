@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/10/5/at-least-seven-people-die-after-a-cessna-402-crashes-in-the-bahamas.html)  [JSON](/news/2010/10/5/at-least-seven-people-die-after-a-cessna-402-crashes-in-the-bahamas.json)  [XML](/news/2010/10/5/at-least-seven-people-die-after-a-cessna-402-crashes-in-the-bahamas.xml)  
+
 ### [2010-10-5](/news/2010/10/5/index.md)
 
+##### Cessna 402
 # At least seven people die after a Cessna 402 crashes in the Bahamas. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters via Yahoo](http://news.yahoo.com/s/nm/20101005/wl_nm/us_bahamas_plane)
+1. [Reuters via Yahoo](https://news.yahoo.com/s/nm/20101005/wl_nm/us_bahamas_plane)
 
 ### Related:
 

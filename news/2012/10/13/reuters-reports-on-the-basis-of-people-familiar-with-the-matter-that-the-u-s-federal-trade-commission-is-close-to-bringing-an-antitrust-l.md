@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/10/13/reuters-reports-on-the-basis-of-people-familiar-with-the-matter-that-the-u-s-federal-trade-commission-is-close-to-bringing-an-antitrust-l.html)  [JSON](/news/2012/10/13/reuters-reports-on-the-basis-of-people-familiar-with-the-matter-that-the-u-s-federal-trade-commission-is-close-to-bringing-an-antitrust-l.json)  [XML](/news/2012/10/13/reuters-reports-on-the-basis-of-people-familiar-with-the-matter-that-the-u-s-federal-trade-commission-is-close-to-bringing-an-antitrust-l.xml)  
+
 ### [2012-10-13](/news/2012/10/13/index.md)
 
+##### U.S. Federal Trade Commission
 # Reuters reports on the basis of "people familiar with the matter" that the U.S. Federal Trade Commission is close to bringing an antitrust lawsuit against Google over its dominance of the search engine market. 
 
 The majority of top decision-makers at the Federal Trade Commission believe that an antitrust case should be brought against Google Inc, meaning the search giant could soon be headed into tough negotiations, three people familiar with the matter said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/10/13/us-google-ftc-antitrust-idUSBRE89B16G20121013)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121013&t=2&i=663038098&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE89B1IKF00)
+1. [Reuters](https://www.reuters.com/article/2012/10/13/us-google-ftc-antitrust-idUSBRE89B16G20121013)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20121013&t=2&i=663038098&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE89B1IKF00)
 
 ### Related:
 

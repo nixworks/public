@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/19/an-eruption-on-bogoslof-island-of-the-aleutian-
 
 ### [2017-01-19](/news/2017/01/19/index.md)
 
+##### Bogoslof Island
 # An eruption on Bogoslof Island of the Aleutian Islands disrupts air transportation routes, distributing tephra over populated areas, including Kodiak Island, 660 mi away from the volcano. 
 
 Pilots avoided the ash cloud, which rose to above 31,000 feet overnight Wednesday, but there were no reports of ash falling on land.

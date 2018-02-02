@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/13/shares-in-japan-airlines-fall-by-81.html)  [JSON](/news/2010/01/13/shares-in-japan-airlines-fall-by-81.json)  [XML](/news/2010/01/13/shares-in-japan-airlines-fall-by-81.xml)  
+
 ### [2010-01-13](/news/2010/01/13/index.md)
 
+##### Japan Airlines
 # Shares in Japan Airlines fall by 81%. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/8455851.stm)
 2. [The Straits Times](http://www.straitstimes.com/BreakingNews/Money/Story/STIStory_476726.html)

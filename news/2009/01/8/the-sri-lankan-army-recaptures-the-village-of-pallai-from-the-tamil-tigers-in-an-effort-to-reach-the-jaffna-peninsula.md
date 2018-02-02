@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/8/the-sri-lankan-army-recaptures-the-village-of-pallai-from-the-tamil-tigers-in-an-effort-to-reach-the-jaffna-peninsula.html)  [JSON](/news/2009/01/8/the-sri-lankan-army-recaptures-the-village-of-pallai-from-the-tamil-tigers-in-an-effort-to-reach-the-jaffna-peninsula.json)  [XML](/news/2009/01/8/the-sri-lankan-army-recaptures-the-village-of-pallai-from-the-tamil-tigers-in-an-effort-to-reach-the-jaffna-peninsula.xml)  
+
 ### [2009-01-8](/news/2009/01/8/index.md)
 
+##### Sri Lanka
 #  The Sri Lankan Army recaptures the village of Pallai from the Tamil Tigers in an effort to reach the Jaffna Peninsula. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/01/08/sri.lanka.civil.war/index.html)
 

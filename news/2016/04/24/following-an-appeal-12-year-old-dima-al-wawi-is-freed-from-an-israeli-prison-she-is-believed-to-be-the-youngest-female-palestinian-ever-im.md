@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/24/following-an-appeal-12-year-old-dima-al-wawi-is
 
 ### [2016-04-24](/news/2016/04/24/index.md)
 
+##### Israeli-Palestinian conflict
 # Following an appeal, 12-year-old Dima al-Wawi is freed from an Israeli prison. She is believed to be the youngest female Palestinian ever imprisoned. Israeli civil law, which does not allow anyone under 14 to go to jail, did not affect her imprisonment. Palestinian residents in the occupied territories are subject to military law that can sentence suspects as young as 12 to prison. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

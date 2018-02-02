@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/2/the-uk-foreign-office-has-warned-its-embassy-staff-in-southwest-asia-to-be-vigilant-as-eid-al-fitr-approaches-british-embassies-remained-op.html)  [JSON](/news/2013/08/2/the-uk-foreign-office-has-warned-its-embassy-staff-in-southwest-asia-to-be-vigilant-as-eid-al-fitr-approaches-british-embassies-remained-op.json)  [XML](/news/2013/08/2/the-uk-foreign-office-has-warned-its-embassy-staff-in-southwest-asia-to-be-vigilant-as-eid-al-fitr-approaches-british-embassies-remained-op.xml)  
+
 ### [2013-08-2](/news/2013/08/2/index.md)
 
+##### UK Foreign Office
 # The UK Foreign Office has warned its embassy staff in Southwest Asia to be vigilant as Eid al-Fitr approaches. British embassies remained open. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [WSJ](http://online.wsj.com/article/BT-CO-20130802-711021.html)
 

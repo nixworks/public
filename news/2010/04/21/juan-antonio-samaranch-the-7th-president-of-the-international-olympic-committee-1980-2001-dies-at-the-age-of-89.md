@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/21/juan-antonio-samaranch-the-7th-president-of-the-international-olympic-committee-1980-2001-dies-at-the-age-of-89.html)  [JSON](/news/2010/04/21/juan-antonio-samaranch-the-7th-president-of-the-international-olympic-committee-1980-2001-dies-at-the-age-of-89.json)  [XML](/news/2010/04/21/juan-antonio-samaranch-the-7th-president-of-the-international-olympic-committee-1980-2001-dies-at-the-age-of-89.xml)  
+
 ### [2010-04-21](/news/2010/04/21/index.md)
 
+##### Juan Antonio Samaranch
 # Juan Antonio Samaranch, the 7th president of the International Olympic Committee (1980 - 2001), dies at the age of 89. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/olympic_games/8634243.stm)
 2. [CNN](http://edition.cnn.com/2010/SPORT/04/21/olympics.samaranch.dies/index.html?eref=rss_topstories)

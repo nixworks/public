@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/8/former-ukrainian-prime-minister-yulia-tymoshenko-ends-her-hunger-strike-in-detention.html)  [JSON](/news/2012/05/8/former-ukrainian-prime-minister-yulia-tymoshenko-ends-her-hunger-strike-in-detention.json)  [XML](/news/2012/05/8/former-ukrainian-prime-minister-yulia-tymoshenko-ends-her-hunger-strike-in-detention.xml)  
+
 ### [2012-05-8](/news/2012/05/8/index.md)
 
+##### Ukraine
 # Former Ukrainian prime minister Yulia Tymoshenko ends her hunger strike in detention. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Ukrainian News Agency](http://un.ua/eng/article/389842.html)
 

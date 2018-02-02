@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/12/the-falkland-islands-government-announces-that-it-will-hold-a-referendum-on-the-islands-sovereignty-next-year.html)  [JSON](/news/2012/06/12/the-falkland-islands-government-announces-that-it-will-hold-a-referendum-on-the-islands-sovereignty-next-year.json)  [XML](/news/2012/06/12/the-falkland-islands-government-announces-that-it-will-hold-a-referendum-on-the-islands-sovereignty-next-year.xml)  
+
 ### [2012-06-12](/news/2012/06/12/index.md)
 
+##### Falkland Islands
 # The Falkland Islands government announces that it will hold a referendum on the islands' sovereignty next year. 
 
 The Falkland Islands government says it intends to send Argentina the message it wants to stay British, after announcing a referendum on its sovereignty.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18412195)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60853000/jpg/_60853159_hi003899172.jpg)

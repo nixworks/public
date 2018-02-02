@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/29/a-series-of-blasts-detonate-in-new-delhi-the-capital-of-india-61-people-are-known-to-have-died-many-more-are-injured.html)  [JSON](/news/2005/10/29/a-series-of-blasts-detonate-in-new-delhi-the-capital-of-india-61-people-are-known-to-have-died-many-more-are-injured.json)  [XML](/news/2005/10/29/a-series-of-blasts-detonate-in-new-delhi-the-capital-of-india-61-people-are-known-to-have-died-many-more-are-injured.xml)  
+
 ### [2005-10-29](/news/2005/10/29/index.md)
 
+##### 29 October 2005 Delhi bombings
 #  A series of blasts detonate in New Delhi, the Capital of India. 61 people are known to have died; many more are injured. 
 
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4388292.stm)
 2. [NDTV](http://www.ndtv.com/topstories/showtopstory.asp?slug=Serial+blasts+rock+Delhi&id=18069&category=National)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/17/chinese-authorities-also-announce-the-indictment-of-former-guangdong-official-zhu-mingguo-former-jinan-cpc-party-chief-wang-min-and-former.html)  [JSON](/news/2015/02/17/chinese-authorities-also-announce-the-indictment-of-former-guangdong-official-zhu-mingguo-former-jinan-cpc-party-chief-wang-min-and-former.json)  [XML](/news/2015/02/17/chinese-authorities-also-announce-the-indictment-of-former-guangdong-official-zhu-mingguo-former-jinan-cpc-party-chief-wang-min-and-former.xml)  
+
 ### [2015-02-17](/news/2015/02/17/index.md)
 
+##### Guangdong
 # Chinese authorities also announce the indictment of former Guangdong official Zhu Mingguo, former Jinan CPC party chief Wang Min, and former Taiyuan party chief Chen Chuanping, all on charges of corruption. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SCMP](http://www.scmp.com/news/china/article/1716070/senior-guangdong-official-face-graft-charges)
 

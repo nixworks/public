@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/11/large-parts-of-central-london-are-to-be-sealed-off-during-us-president-george-w-bush-s-state-visit-to-the-united-kingdom-next-week-due-to.html)  [JSON](/news/2003/11/11/large-parts-of-central-london-are-to-be-sealed-off-during-us-president-george-w-bush-s-state-visit-to-the-united-kingdom-next-week-due-to.json)  [XML](/news/2003/11/11/large-parts-of-central-london-are-to-be-sealed-off-during-us-president-george-w-bush-s-state-visit-to-the-united-kingdom-next-week-due-to.xml)  
+
 ### [2003-11-11](/news/2003/11/11/index.md)
 
+##### London
 #  Large parts of central London are to be sealed off during US President George W. Bush's state visit to the United Kingdom next week. Due to security concerns Bush is to be denied the traditional state ceremonial carriage-ride up the Mall to Buckingham Palace normally accorded to heads of state.
 
 

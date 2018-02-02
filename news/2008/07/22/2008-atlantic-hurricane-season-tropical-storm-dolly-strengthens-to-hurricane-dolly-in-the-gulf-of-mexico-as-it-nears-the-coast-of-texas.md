@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/07/22/2008-atlantic-hurricane-season-tropical-storm-dolly-strengthens-to-hurricane-dolly-in-the-gulf-of-mexico-as-it-nears-the-coast-of-texas.html)  [JSON](/news/2008/07/22/2008-atlantic-hurricane-season-tropical-storm-dolly-strengthens-to-hurricane-dolly-in-the-gulf-of-mexico-as-it-nears-the-coast-of-texas.json)  [XML](/news/2008/07/22/2008-atlantic-hurricane-season-tropical-storm-dolly-strengthens-to-hurricane-dolly-in-the-gulf-of-mexico-as-it-nears-the-coast-of-texas.xml)  
+
 ### [2008-07-22](/news/2008/07/22/index.md)
 
+##### 2008 Atlantic hurricane season
 #  2008 Atlantic hurricane season: Tropical Storm Dolly strengthens to Hurricane Dolly in the Gulf of Mexico as it nears the coast of Texas. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=a7ReV45YkKMI&refer=home)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=a7ReV45YkKMI&refer=home)
 
 ### Related:
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/10/28/a-white-lives-matter-gathering-takes-place-in-shelbyville-tennessee-with-200-wlm-protestors-met-by-700-counter-protesters.html)  [JSON](/news/2017/10/28/a-white-lives-matter-gathering-takes-place-in-shelbyville-tennessee-with-200-wlm-protestors-met-by-700-counter-protesters.json)  [XML](/news/2017/10/28/a-white-lives-matter-gathering-takes-place-in-shelbyville-tennessee-with-200-wlm-protestors-met-by-700-counter-protesters.xml)  
+
 ### [2017-10-28](/news/2017/10/28/index.md)
 
+##### Black Lives Matter
 # A "White Lives Matter" gathering takes place in Shelbyville, Tennessee, with 200+ WLM protestors met by 700+ counter-protesters. 
 
 

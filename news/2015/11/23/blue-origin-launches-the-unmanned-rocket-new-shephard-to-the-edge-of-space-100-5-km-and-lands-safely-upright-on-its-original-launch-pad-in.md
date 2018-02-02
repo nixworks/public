@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/11/23/blue-origin-launches-the-unmanned-rocket-new-shephard-to-the-edge-of-space-100-5-km-and-lands-safely-upright-on-its-original-launch-pad-in.html)  [JSON](/news/2015/11/23/blue-origin-launches-the-unmanned-rocket-new-shephard-to-the-edge-of-space-100-5-km-and-lands-safely-upright-on-its-original-launch-pad-in.json)  [XML](/news/2015/11/23/blue-origin-launches-the-unmanned-rocket-new-shephard-to-the-edge-of-space-100-5-km-and-lands-safely-upright-on-its-original-launch-pad-in.xml)  
+
 ### [2015-11-23](/news/2015/11/23/index.md)
 
+##### Blue Origin
 # Blue Origin launches the unmanned rocket New Shephard to the edge of space (100.5 km) and lands safely upright on its original launch pad in Texas, becoming the first organization to do so. 
 
 The space company backed by Amazon.com founder Jeff Bezos announced a historic coup with a test flight of a fully reusable rocket, which could usher in a new era for space transportation.
 
 
-### Source:
+### Sources:
 
-1. [WSJ](http://www.wsj.com/articles/blue-origin-succeeds-in-vertically-landing-spent-rocket-back-at-texas-launch-site-1448372666)
+1. [WSJ](https://www.wsj.com/articles/blue-origin-succeeds-in-vertically-landing-spent-rocket-back-at-texas-launch-site-1448372666)
 2. [press release](https://www.blueorigin.com/news/news/blue-origin-makes-historic-rocket-landing)
 2. [Cover Image](https://si.wsj.net/public/resources/images/BN-LK685_1124BL_G_20151124110554.jpg)
 

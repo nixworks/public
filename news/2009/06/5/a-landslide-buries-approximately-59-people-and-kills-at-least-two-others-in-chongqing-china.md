@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/5/a-landslide-buries-approximately-59-people-and-kills-at-least-two-others-in-chongqing-china.html)  [JSON](/news/2009/06/5/a-landslide-buries-approximately-59-people-and-kills-at-least-two-others-in-chongqing-china.json)  [XML](/news/2009/06/5/a-landslide-buries-approximately-59-people-and-kills-at-least-two-others-in-chongqing-china.xml)  
+
 ### [2009-06-5](/news/2009/06/5/index.md)
 
+##### landslide
 #  A landslide buries approximately 59 people and kills at least two others in Chongqing, China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8084923.stm)
 

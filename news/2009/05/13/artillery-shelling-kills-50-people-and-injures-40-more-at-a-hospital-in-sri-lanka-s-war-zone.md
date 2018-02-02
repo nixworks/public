@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/13/artillery-shelling-kills-50-people-and-injures-40-more-at-a-hospital-in-sri-lanka-s-war-zone.html)  [JSON](/news/2009/05/13/artillery-shelling-kills-50-people-and-injures-40-more-at-a-hospital-in-sri-lanka-s-war-zone.json)  [XML](/news/2009/05/13/artillery-shelling-kills-50-people-and-injures-40-more-at-a-hospital-in-sri-lanka-s-war-zone.xml)  
+
 ### [2009-05-13](/news/2009/05/13/index.md)
 
+##### ordnance
 #  Artillery shelling kills 50 people and injures 40 more at a hospital in Sri Lanka's war zone. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Sri-Lanka-War-Zone-Hospital-Shelled-Second-Time-In-Two-Days-UK-And-US-Express-Profound-Concern/Article/200905215280759?lpos=World_News_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15280759_Sri_Lanka_War_Zone_Hospital_Shelled_Second_Time_In_Two_Days%3A_UK_And_US_Express_Profound_Concern)
 

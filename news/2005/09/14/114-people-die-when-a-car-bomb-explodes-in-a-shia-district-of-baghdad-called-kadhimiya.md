@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2005/09/14/114-people-die-when-a-car-bomb-explodes-in-a-shia-district-of-baghdad-called-kadhimiya.html)  [JSON](/news/2005/09/14/114-people-die-when-a-car-bomb-explodes-in-a-shia-district-of-baghdad-called-kadhimiya.json)  [XML](/news/2005/09/14/114-people-die-when-a-car-bomb-explodes-in-a-shia-district-of-baghdad-called-kadhimiya.xml)  
+
 ### [2005-09-14](/news/2005/09/14/index.md)
 
+##### car bomb
 #  114 people die when a car bomb explodes in a Shia district of Baghdad called Kadhimiya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4244068.stm)
+
+### Changes:
+
+1. [ Conflict in Iraq: 114 people die when a car bomb explodes in a Shia district of Baghdad called Kadhimiya. ](/news/2005/09/14/conflict-in-iraq-p-114-people-die-when-a-car-bomb-explodes-in-a-shia-district-of-baghdad-called-kadhimiya.md) _2017-08-25 03:16:47 (First version)_
+2. [ Conflict in Iraq:: 114 people die when a car bomb explodes in a Shia district of Baghdad called Kadhimiya. ](/news/2005/09/14/conflict-in-iraq-114-people-die-when-a-car-bomb-explodes-in-a-shia-district-of-baghdad-called-kadhimiya.md) _2017-08-27 03:16:49 (Update)_
+2. [ 114 people die when a car bomb explodes in a Shia district of Baghdad called Kadhimiya. ](/news/2005/09/14/114-people-die-when-a-car-bomb-explodes-in-a-shia-district-of-baghdad-called-kadhimiya.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [ More than 20 people die when a car bomb detonates in Howaider, a Shia village near Baquba, 60 miles north of Baghdad. ](/news/2005/10/29/more-than-20-people-die-when-a-car-bomb-detonates-in-howaider-a-shia-village-near-baquba-60-miles-north-of-baghdad.md) _Context: Baghdad, Shia, car bomb_
 4. [ Conflict in Iraq: At least 26 Iraqi police die following two car bombs in the Baghdad. Elsewhere, 3 Shia pilgrims are shot dead by a passenger in a passing car traveling to Karbala, two Iraqi police members are killed near Kirkuk and three civil servants die following an attack on the Ministry of Industry in East Baghdad. ](/news/2005/09/15/conflict-in-iraq-at-least-26-iraqi-police-die-following-two-car-bombs-in-the-baghdad-elsewhere-3-shia-pilgrims-are-shot-dead-by-a-passen.md) _Context: Baghdad, Shia, car bomb_
 5. [A car bomb attack on a police checkpoint in Baghdad kills at least 15 people and injures 40 others. ](/news/2017/03/29/a-car-bomb-attack-on-a-police-checkpoint-in-baghdad-kills-at-least-15-people-and-injures-40-others.md) _Context: Baghdad, car bomb_
-
-### Changes:
-
-1. [ Conflict in Iraq: 114 people die when a car bomb explodes in a Shia district of Baghdad called Kadhimiya. ](/news/2005/09/14/conflict-in-iraq-p-114-people-die-when-a-car-bomb-explodes-in-a-shia-district-of-baghdad-called-kadhimiya.md) _2017-08-25 03:16:47 (First version)_
-2. [ Conflict in Iraq:: 114 people die when a car bomb explodes in a Shia district of Baghdad called Kadhimiya. ](/news/2005/09/14/conflict-in-iraq-114-people-die-when-a-car-bomb-explodes-in-a-shia-district-of-baghdad-called-kadhimiya.md) _2017-08-27 03:16:49 (Update)_
-2. [ 114 people die when a car bomb explodes in a Shia district of Baghdad called Kadhimiya. ](/news/2005/09/14/114-people-die-when-a-car-bomb-explodes-in-a-shia-district-of-baghdad-called-kadhimiya.md) _(Current version)_

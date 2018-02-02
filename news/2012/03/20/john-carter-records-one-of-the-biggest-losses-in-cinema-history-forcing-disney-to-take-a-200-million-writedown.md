@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/20/john-carter-records-one-of-the-biggest-losses-in-cinema-history-forcing-disney-to-take-a-200-million-writedown.html)  [JSON](/news/2012/03/20/john-carter-records-one-of-the-biggest-losses-in-cinema-history-forcing-disney-to-take-a-200-million-writedown.json)  [XML](/news/2012/03/20/john-carter-records-one-of-the-biggest-losses-in-cinema-history-forcing-disney-to-take-a-200-million-writedown.xml)  
+
 ### [2012-03-20](/news/2012/03/20/index.md)
 
+##### John Carter
 # "John Carter" records one of the biggest losses in cinema history, forcing Disney to take a $200 million writedown. 
 
 Walt Disney expects to lose $200m (£126m) on its movie John Carter, making it one of the biggest flops in cinema history.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-17442200)
 2. [New York Times](http://mediadecoder.blogs.nytimes.com/2012/03/19/200-million-write-down-for-john-carter-disney-says/)

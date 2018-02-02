@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2010/05/30/a-second-danish-pharmaceutical-company-leo-pharma-suspends-sales-of-medical-products-in-greece-over-the-government-s-decision-to-reduce-th.html)  [JSON](/news/2010/05/30/a-second-danish-pharmaceutical-company-leo-pharma-suspends-sales-of-medical-products-in-greece-over-the-government-s-decision-to-reduce-th.json)  [XML](/news/2010/05/30/a-second-danish-pharmaceutical-company-leo-pharma-suspends-sales-of-medical-products-in-greece-over-the-government-s-decision-to-reduce-th.xml)  
+
 ### [2010-05-30](/news/2010/05/30/index.md)
 
+##### Denmark
 # A second Danish pharmaceutical company, Leo Pharma, suspends sales of medical products in Greece over the government's decision to reduce the cost of medicine there. The government condemns these acts as "unfair". 
 
 A second Danish pharmaceutical company withdraws products from Greece over its decision to cut medicine prices by 25%.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10193799.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 
-1. [ The United Nations chooses Argentina, Denmark, Greece, Japan, and Tanzania as the non-permanent members of the UN Security Council for its next two-year term, which begins in January 2005. ](/news/2004/10/15/the-united-nations-chooses-argentina-denmark-greece-japan-and-tanzania-as-the-non-permanent-members-of-the-un-security-council-for-its.md) _Context: Denmark, Greek_
-2. [Denmark's Prince Henrik announces he won't be buried next to Queen Margrethe II in the Roskilde Cathedral where Danish royals have been buried since 1559. The 83-year-old, French-born Henrik has been dissatisfied with his non-equal role as Prince consort. The 77-year old Margrethe, who had a specially designed sarcophagus made for the couple, accepts Henrik's decision, according to a royal house spokeswoman. ](/news/2017/08/4/denmark-s-prince-henrik-announces-he-won-t-be-buried-next-to-queen-margrethe-ii-in-the-roskilde-cathedral-where-danish-royals-have-been-buri.md) _Context: Denmark_
-3. [Aftershocks cause panic in the Greek island of Kos after a deadly earthquake that injured hundreds. ](/news/2017/07/22/aftershocks-cause-panic-in-the-greek-island-of-kos-after-a-deadly-earthquake-that-injured-hundreds.md) _Context: Greek_
-4. [A 6.7 magnitude earthquake in the Aegean Sea near Greece and Turkey kills two people and injures more than 520 others. ](/news/2017/07/21/a-6-7-magnitude-earthquake-in-the-aegean-sea-near-greece-and-turkey-kills-two-people-and-injures-more-than-520-others.md) _Context: Greek_
-5. [An earthquake of 6.3 magnitude shakes the Aegean Sea, causing one death. Many houses were damaged in Plomari, Greece, and some collapsed. ](/news/2017/06/12/an-earthquake-of-6-3-magnitude-shakes-the-aegean-sea-causing-one-death-many-houses-were-damaged-in-plomari-greece-and-some-collapsed.md) _Context: Greek_
+1. [ The United Nations chooses Argentina, Denmark, Greece, Japan, and Tanzania as the non-permanent members of the UN Security Council for its next two-year term, which begins in January 2005. ](/news/2004/10/15/the-united-nations-chooses-argentina-denmark-greece-japan-and-tanzania-as-the-non-permanent-members-of-the-un-security-council-for-its.md) _Context: Denmark, Greece_
+2. [The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" - allegedly bound for Libya, loaded with 410 tonnes of explosives - in Heraklion, Greece. 102 safety deficiencies are found, and 8 crew members are arrested. ](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-flagged-cargo-ship-andromeda-a-allegedly-bound-for-libya-loaded-with-410-tonnes-of-explos.md) _Context: Greece_
+3. [The President of Turkey embarks on a two-day state visit of Greece. Recep Tayyip Erdogan's demarche is a first in 65 years. ](/news/2017/12/7/the-president-of-turkey-embarks-on-a-two-day-state-visit-of-greece-recep-tayyip-erdoaan-s-da-c-marche-is-a-first-in-65-years.md) _Context: Greece_
+4. [Flash floods on the outskirts of the Greek capital Athens kill at least 16 people and injure dozens more after a severe thunderstorm. ](/news/2017/11/15/flash-floods-on-the-outskirts-of-the-greek-capital-athens-kill-at-least-16-people-and-injure-dozens-more-after-a-severe-thunderstorm.md) _Context: Greece_
+5. [Twenty-three European Union countries sign a defence integration pact known as the Permanent Structured Cooperation. NATO members Denmark, Portugal and the United Kingdom (withdrawal from EU underway), and non-NATO members Malta and Ireland, opt out. ](/news/2017/11/13/twenty-three-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-p.md) _Context: Denmark_

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/24/united-states-national-security-advisor-susan-r
 
 ### [2016-02-24](/news/2016/02/24/index.md)
 
+##### nuclear test
 # United States National Security Advisor Susan Rice and Chinese Foreign Minister Wang Yi agree on a draft resolution that would expand United Nations Security Council sanctions following North Korea's latest nuclear test. U.S. President Barack Obama participated in the meeting. The draft is now headed to the full 15-member council. 
 
 The United States and China have agreed on a draft resolution that would expand U.N. Security Council sanctions against North Korea over its latest nuclear test and hope to put it to a vote in the coming days, council diplomats said on Wednesday.
@@ -21,7 +22,7 @@ The United States and China have agreed on a draft resolution that would expand 
 
 ### Related:
 
-1. [U.S. Secretary of State John Kerry and Chinese Foreign Minister Wang Yi agree, on principle, that a strong United Nations Security Council resolution is needed regarding North Korea's nuclear test earlier this month. ](/news/2016/01/27/u-s-secretary-of-state-john-kerry-and-chinese-foreign-minister-wang-yi-agree-on-principle-that-a-strong-united-nations-security-council-r.md) _Context: Foreign Minister, North Korea, Wang Yi , nuclear test_
+1. [U.S. Secretary of State John Kerry and Chinese Foreign Minister Wang Yi agree, on principle, that a strong United Nations Security Council resolution is needed regarding North Korea's nuclear test earlier this month. ](/news/2016/01/27/u-s-secretary-of-state-john-kerry-and-chinese-foreign-minister-wang-yi-agree-on-principle-that-a-strong-united-nations-security-council-r.md) _Context: Foreign Minister, North Korea, Wang Yi, nuclear test_
 2. [The United Nations Security Council vote on the United States-China draft resolution on North Korea is rescheduled to 10:00 a.m. EST Wednesday. Russia requests more time to review the text. ](/news/2016/03/1/the-united-nations-security-council-vote-on-the-united-states-china-draft-resolution-on-north-korea-is-rescheduled-to-10-00-a-m-est-wednesd.md) _Context: North Korea, United Nations Security Council, nuclear test_
 3. [The United States will present the draft resolution, resulting from yesterday's meeting with China, to the United Nations Security Council expanding sanctions on North Korea over its nuclear program. ](/news/2016/02/25/the-united-states-will-present-the-draft-resolution-resulting-from-yesterday-s-meeting-with-china-to-the-united-nations-security-council-e.md) _Context: North Korea, United Nations Security Council, nuclear test_
 4. [Shinzo Abe, the Prime Minister of Japan, meets with the President of the United States Barack Obama at the White House to discuss trade, economic, and security issues including North Korea and the Senkaku Islands dispute with China. ](/news/2013/02/22/shinzo-abe-the-prime-minister-of-japan-meets-with-the-president-of-the-united-states-barack-obama-at-the-white-house-to-discuss-trade-eco.md) _Context: Barack Obama, North Korea, U.S. President_

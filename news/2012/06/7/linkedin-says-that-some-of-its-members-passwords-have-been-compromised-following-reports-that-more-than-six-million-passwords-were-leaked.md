@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/7/linkedin-says-that-some-of-its-members-passwords-have-been-compromised-following-reports-that-more-than-six-million-passwords-were-leaked.html)  [JSON](/news/2012/06/7/linkedin-says-that-some-of-its-members-passwords-have-been-compromised-following-reports-that-more-than-six-million-passwords-were-leaked.json)  [XML](/news/2012/06/7/linkedin-says-that-some-of-its-members-passwords-have-been-compromised-following-reports-that-more-than-six-million-passwords-were-leaked.xml)  
+
 ### [2012-06-7](/news/2012/06/7/index.md)
 
+##### LinkedIn
 # LinkedIn says that some of its members' passwords have been "compromised" following reports that more than six million passwords were leaked on the Internet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/technology-18338956)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60730000/jpg/_60730996_60730995.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/20/the-united-states-coast-guard-resumes-its-search-for-four-british-sailors-lost-in-the-mid-atlantic.html)  [JSON](/news/2014/05/20/the-united-states-coast-guard-resumes-its-search-for-four-british-sailors-lost-in-the-mid-atlantic.json)  [XML](/news/2014/05/20/the-united-states-coast-guard-resumes-its-search-for-four-british-sailors-lost-in-the-mid-atlantic.xml)  
+
 ### [2014-05-20](/news/2014/05/20/index.md)
 
+##### United States Coast Guard
 # The United States Coast Guard resumes its search for four British sailors lost in the mid-Atlantic. 
 
 The search has resumed for four British sailors missing since their yacht apparently capsized in the Atlantic Ocean, the US Coast Guard says - after it was called off two days previously.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-27492026#)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74980000/jpg/_74980940_hi022343414.jpg)

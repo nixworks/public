@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/21/azerbaijani-first-lady-mehriban-aliyeva-who-is-
 
 ### [2017-02-21](/news/2017/02/21/index.md)
 
+##### Azerbaijan
 # Azerbaijani First Lady Mehriban Aliyeva, who is widely considered to be in line to succeed her husband, is named vice president. 
 
 

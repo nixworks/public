@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/16/the-coalition-keep-a-one-seat-majority-in-the-a
 
 ### [2017-12-16](/news/2017/12/16/index.md)
 
+##### Politics of Australia
 # The Coalition keep a one-seat majority in the Australian House of Representatives after the Liberals win the Bennelong by-election. 
 
 

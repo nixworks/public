@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/6/a-group-of-irish-people-are-thrown-out-of-the-european-central-bank-in-frankfurt-after-attempting-to-hand-a-letter-of-protest-to-the-bank-s.html)  [JSON](/news/2012/06/6/a-group-of-irish-people-are-thrown-out-of-the-european-central-bank-in-frankfurt-after-attempting-to-hand-a-letter-of-protest-to-the-bank-s.json)  [XML](/news/2012/06/6/a-group-of-irish-people-are-thrown-out-of-the-european-central-bank-in-frankfurt-after-attempting-to-hand-a-letter-of-protest-to-the-bank-s.xml)  
+
 ### [2012-06-6](/news/2012/06/6/index.md)
 
+##### European Central Bank
 # A group of Irish people are thrown out of the European Central Bank in Frankfurt after attempting to hand a letter of protest to the bank's president Mario Draghi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Cork Independent](http://corkindependent.com/stories/item/9726/2012-23/Frankfurt's-way)
 

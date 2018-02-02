@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/12/24/a-palestinian-sniper-kills-a-bedouin-laborer-who-was-repairing-the-israeli-fence-surrounding-gaza-following-this-the-israeli-military-atta.html)  [JSON](/news/2013/12/24/a-palestinian-sniper-kills-a-bedouin-laborer-who-was-repairing-the-israeli-fence-surrounding-gaza-following-this-the-israeli-military-atta.json)  [XML](/news/2013/12/24/a-palestinian-sniper-kills-a-bedouin-laborer-who-was-repairing-the-israeli-fence-surrounding-gaza-following-this-the-israeli-military-atta.xml)  
+
 ### [2013-12-24](/news/2013/12/24/index.md)
 
+##### Palestinian
 # A Palestinian sniper kills a Bedouin laborer who was repairing the Israeli fence surrounding Gaza; following this, the Israeli Military attacked targets in Gaza with airstrikes and ground forces, killing at least one Palestinian three-year-old child and wounding several others.
 
 The deaths of an Israeli laborer and a Palestinian toddler were the latest in a growing wave of Israeli-Palestinian violence.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2013/12/25/world/middleeast/israeli-palestinian-violence.html?_r=0)
+1. [The New York Times](https://www.nytimes.com/2013/12/25/world/middleeast/israeli-palestinian-violence.html?_r=0)
 2. [The Times of Israel](http://www.timesofisrael.com/israeli-man-severely-wounded-by-sniper-fire-from-gaza/)
 2. [Cover Image](https://static01.nyt.com/images/2013/12/25/world/middleeast/25GAZA-alt_SPAN/25GAZA-alt_SPAN-videoSixteenByNine1050.jpg)
 

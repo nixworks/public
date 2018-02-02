@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/1/the-international-atomic-energy-agency-is-sending-a-team-to-japan-this-month-to-inspect-the-crippled-fukushima-nuclear-plants-and-will-prese.html)  [JSON](/news/2011/05/1/the-international-atomic-energy-agency-is-sending-a-team-to-japan-this-month-to-inspect-the-crippled-fukushima-nuclear-plants-and-will-prese.json)  [XML](/news/2011/05/1/the-international-atomic-energy-agency-is-sending-a-team-to-japan-this-month-to-inspect-the-crippled-fukushima-nuclear-plants-and-will-prese.xml)  
+
 ### [2011-05-1](/news/2011/05/1/index.md)
 
+##### IAEA
 # The International Atomic Energy Agency is sending a team to Japan this month to inspect the crippled Fukushima nuclear plants and will present its preliminary evaluation of the crisis in June.
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20110501a8.html)
 

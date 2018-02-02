@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/11/at-least-11-civilians-and-two-us-soldiers-are-killed-in-southern-afghanistan-9-of-the-civilian-deaths-are-in-a-roadside-bomb-on-a-minibus-i.html)  [JSON](/news/2010/06/11/at-least-11-civilians-and-two-us-soldiers-are-killed-in-southern-afghanistan-9-of-the-civilian-deaths-are-in-a-roadside-bomb-on-a-minibus-i.json)  [XML](/news/2010/06/11/at-least-11-civilians-and-two-us-soldiers-are-killed-in-southern-afghanistan-9-of-the-civilian-deaths-are-in-a-roadside-bomb-on-a-minibus-i.xml)  
+
 ### [2010-06-11](/news/2010/06/11/index.md)
 
+##### Afghanistan
 # At least 11 civilians and two US soldiers are killed in southern Afghanistan: 9 of the civilian deaths are in a roadside bomb on a minibus in Kandahar. 
 
 Thirteen people die in explosions as fighters step up attacks in southern Afghanistan.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/201061174818697945.html)
 1. [Cover Image](http://www.aljazeera.com)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/28/burma-s-highest-court-upholds-the-dissolution-of-aung-san-suu-kyi-s-national-league-for-democracy-party.html)  [JSON](/news/2011/01/28/burma-s-highest-court-upholds-the-dissolution-of-aung-san-suu-kyi-s-national-league-for-democracy-party.json)  [XML](/news/2011/01/28/burma-s-highest-court-upholds-the-dissolution-of-aung-san-suu-kyi-s-national-league-for-democracy-party.xml)  
+
 ### [2011-01-28](/news/2011/01/28/index.md)
 
+##### Burma
 # Burma's highest court upholds the dissolution of Aung San Suu Kyi's National League for Democracy party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/01/201112810011211387.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12307838)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/22/former-president-of-the-maldives-and-current-opposition-leader-mohamed-nasheed-is-arrested.html)  [JSON](/news/2015/02/22/former-president-of-the-maldives-and-current-opposition-leader-mohamed-nasheed-is-arrested.json)  [XML](/news/2015/02/22/former-president-of-the-maldives-and-current-opposition-leader-mohamed-nasheed-is-arrested.xml)  
+
 ### [2015-02-22](/news/2015/02/22/index.md)
 
+##### President
 # Former President of the Maldives and current Opposition Leader Mohamed Nasheed is arrested.
 
 Maldives Police Service (MPS) apprehended former President and opposition leader, Mohamed Nasheed on Sunday. Chairman of Maldives Democratic Party (MDP) Ali Waheed confirmed that Police had arrested President Nasheed. A Vnews journalist on scene report...
 
 
-### Source:
+### Sources:
 
 1. [V News](http://vnews.mv/37822)
 1. [Cover Image](http://vnews-assets.s3-website-us-east-1.amazonaws.com/posts/big_61036.jpg)

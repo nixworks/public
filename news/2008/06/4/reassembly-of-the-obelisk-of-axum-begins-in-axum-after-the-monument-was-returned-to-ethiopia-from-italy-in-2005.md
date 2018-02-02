@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/4/reassembly-of-the-obelisk-of-axum-begins-in-axum-after-the-monument-was-returned-to-ethiopia-from-italy-in-2005.html)  [JSON](/news/2008/06/4/reassembly-of-the-obelisk-of-axum-begins-in-axum-after-the-monument-was-returned-to-ethiopia-from-italy-in-2005.json)  [XML](/news/2008/06/4/reassembly-of-the-obelisk-of-axum-begins-in-axum-after-the-monument-was-returned-to-ethiopia-from-italy-in-2005.xml)  
+
 ### [2008-06-4](/news/2008/06/4/index.md)
 
+##### Obelisk of Axum
 #  Reassembly of the Obelisk of Axum begins in Axum, after the monument was returned to Ethiopia from Italy in 2005. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7435314.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/1/manufacturing-output-in-china-grows-at-its-slowest-rate-in-17-months-in-july-with-the-purchasing-managers-index-falling-0-9-to-51-2.html)  [JSON](/news/2010/08/1/manufacturing-output-in-china-grows-at-its-slowest-rate-in-17-months-in-july-with-the-purchasing-managers-index-falling-0-9-to-51-2.json)  [XML](/news/2010/08/1/manufacturing-output-in-china-grows-at-its-slowest-rate-in-17-months-in-july-with-the-purchasing-managers-index-falling-0-9-to-51-2.xml)  
+
 ### [2010-08-1](/news/2010/08/1/index.md)
 
+##### China
 # Manufacturing output in China grows at its slowest rate in 17 months in July, with the Purchasing Managers Index falling 0.9% to 51.2%. 
 
 Chinese manufacturing output grew at its slowest rate for 17 months in July, as the government continues efforts to rein in rapid economic growth.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-10831139)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-08/01/c_13424601.htm)

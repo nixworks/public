@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/19/authorities-in-hazardous-materials-suits-search-a-downtown-spokane-washington-apartment-investigating-the-recent-discovery-of-two-letters.html)  [JSON](/news/2013/05/19/authorities-in-hazardous-materials-suits-search-a-downtown-spokane-washington-apartment-investigating-the-recent-discovery-of-two-letters.json)  [XML](/news/2013/05/19/authorities-in-hazardous-materials-suits-search-a-downtown-spokane-washington-apartment-investigating-the-recent-discovery-of-two-letters.xml)  
+
 ### [2013-05-19](/news/2013/05/19/index.md)
 
+##### Spokane
 # Authorities in hazardous-materials suits search a downtown Spokane, Washington apartment, investigating the recent discovery of two letters containing the deadly poison ricin. 
 
 FBI agents have searched an apartment in Spokane following the recent discovery of a pair of letters containing the deadly poison ricin.
 
 
-### Source:
+### Sources:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/FBI-follow-deadly-ricin-letter-trail-20130519)
 1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2180/a4324f3f464343f794a4ba8ab0dc12aa.jpg)

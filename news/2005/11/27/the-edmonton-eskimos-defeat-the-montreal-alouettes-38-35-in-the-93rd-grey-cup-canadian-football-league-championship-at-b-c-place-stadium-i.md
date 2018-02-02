@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2005/11/27/the-edmonton-eskimos-defeat-the-montreal-alouettes-38-35-in-the-93rd-grey-cup-canadian-football-league-championship-at-b-c-place-stadium-i.html)  [JSON](/news/2005/11/27/the-edmonton-eskimos-defeat-the-montreal-alouettes-38-35-in-the-93rd-grey-cup-canadian-football-league-championship-at-b-c-place-stadium-i.json)  [XML](/news/2005/11/27/the-edmonton-eskimos-defeat-the-montreal-alouettes-38-35-in-the-93rd-grey-cup-canadian-football-league-championship-at-b-c-place-stadium-i.xml)  
+
 ### [2005-11-27](/news/2005/11/27/index.md)
 
+##### Montreal Alouettes
 #  The Edmonton Eskimos defeat the Montreal Alouettes 38-35 in the 93rd Grey Cup Canadian Football League championship at B.C. Place Stadium in Vancouver, British Columbia. The Eskimos won in overtime on a Sean Fleming field goal to capture their 13th Grey Cup in franchise history. Eskimos quarterback Ricky Ray was named Grey Cup MVP. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Game Coverage](http://www.tsn.ca/cfl/news_story.asp?ID=144765&hubName=cfl)
-1. [Cover Image](http://www.tsn.ca/img/tsn/logos/tsn-logo.png)
+1. [Game Coverage](https://www.tsn.ca/cfl/news_story.asp?ID=144765&hubName=cfl)
 
 ### Related:
 

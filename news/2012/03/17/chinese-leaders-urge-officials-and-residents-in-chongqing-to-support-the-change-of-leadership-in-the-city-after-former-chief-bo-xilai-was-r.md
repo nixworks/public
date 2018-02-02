@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/17/chinese-leaders-urge-officials-and-residents-in-chongqing-to-support-the-change-of-leadership-in-the-city-after-former-chief-bo-xilai-was-r.html)  [JSON](/news/2012/03/17/chinese-leaders-urge-officials-and-residents-in-chongqing-to-support-the-change-of-leadership-in-the-city-after-former-chief-bo-xilai-was-r.json)  [XML](/news/2012/03/17/chinese-leaders-urge-officials-and-residents-in-chongqing-to-support-the-change-of-leadership-in-the-city-after-former-chief-bo-xilai-was-r.xml)  
+
 ### [2012-03-17](/news/2012/03/17/index.md)
 
+##### Chongqing
 # Chinese leaders urge officials and residents in Chongqing to support the change of leadership in the city, after former chief Bo Xilai was removed. 
 
 China’s central leadership has moved to bolster control over the southwestern city-province of Chong-qing after ousting its contentious yet popular chief, Bo Xilai (薄熙來), with state-run media yesterday urging officials and residents there to toe the line.
 
 
-### Source:
+### Sources:
 
 1. [Taipei Times](http://www.taipeitimes.com/News/world/archives/2012/03/18/2003528096)
 1. [Cover Image](http://www.taipeitimes.com/images/logo.gif)

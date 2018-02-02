@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/20/authorities-diagnose-six-more-cases-of-the-zika
 
 ### [2016-09-20](/news/2016/09/20/index.md)
 
+##### 2015-16 Zika virus epidemic
 # Authorities diagnose six more cases of the Zika virus in the provinces of Cebu and Iloilo in the Visayas and Laguna province near Metro Manila, Philippines. 
 
 

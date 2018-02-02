@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2011/05/13/pope-benedict-xvi-tells-roman-catholic-bishops-around-the-world-they-must-obey-summorum-pontificum-a-papal-order-allowing-priests-to-say-th.html)  [JSON](/news/2011/05/13/pope-benedict-xvi-tells-roman-catholic-bishops-around-the-world-they-must-obey-summorum-pontificum-a-papal-order-allowing-priests-to-say-th.json)  [XML](/news/2011/05/13/pope-benedict-xvi-tells-roman-catholic-bishops-around-the-world-they-must-obey-summorum-pontificum-a-papal-order-allowing-priests-to-say-th.xml)  
+
 ### [2011-05-13](/news/2011/05/13/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI tells Roman Catholic bishops around the world they must obey Summorum Pontificum, a papal order allowing priests to say the old-style Tridentine Mass, regardless of their opinion on it. 
 
 The Vatican told Catholic bishops around the world on Friday they had to obey a papal order allowing priests to say the old-style Latin mass for traditionalist Catholics, whether they liked it or not.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/05/13/us-pope-latin-idUSTRE74C29120110513)
-2. [Washington Post](http://www.washingtonpost.com/world/vatican-issues-instructions-for-old-mass-warns-against-questioning-papal-authority/2011/05/13/AFBQSI2G_story.html)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110513&t=2&i=413924486&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-13T113714Z_01_BTRE74C0WA500_RTROPTP_0_POPE)
+1. [Reuters](https://www.reuters.com/article/2011/05/13/us-pope-latin-idUSTRE74C29120110513)
+2. [Washington Post](https://www.washingtonpost.com/world/vatican-issues-instructions-for-old-mass-warns-against-questioning-papal-authority/2011/05/13/AFBQSI2G_story.html)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20110513&t=2&i=413924486&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-13T113714Z_01_BTRE74C0WA500_RTROPTP_0_POPE)
 
 ### Related:
 

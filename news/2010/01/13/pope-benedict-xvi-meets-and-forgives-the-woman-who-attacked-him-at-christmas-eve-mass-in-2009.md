@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/13/pope-benedict-xvi-meets-and-forgives-the-woman-who-attacked-him-at-christmas-eve-mass-in-2009.html)  [JSON](/news/2010/01/13/pope-benedict-xvi-meets-and-forgives-the-woman-who-attacked-him-at-christmas-eve-mass-in-2009.json)  [XML](/news/2010/01/13/pope-benedict-xvi-meets-and-forgives-the-woman-who-attacked-him-at-christmas-eve-mass-in-2009.xml)  
+
 ### [2010-01-13](/news/2010/01/13/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI meets and forgives the woman who attacked him at Christmas Eve Mass in 2009. 
 
 Pope Benedict XVI had a “brief meeting” with Susanna Maiolo in a room adjacent to the Paul VI Hall following Wednesday morning’s general audience.&nbsp; The encounter gave the two their first personal contact after their less formal “encounter” on Dec. 24.
 
 
-### Source:
+### Sources:
 
 1. [Adnkronos](http://www.adnkronos.com/AKI/English/Religion/?id=3.0.4194046362)
 2. [Catholic News Agency](http://www.catholicnewsagency.com/news/holy_father_meets_privately_with_christmas_assailant/)

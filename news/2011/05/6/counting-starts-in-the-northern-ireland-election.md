@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/6/counting-starts-in-the-northern-ireland-election.html)  [JSON](/news/2011/05/6/counting-starts-in-the-northern-ireland-election.json)  [XML](/news/2011/05/6/counting-starts-in-the-northern-ireland-election.xml)  
+
 ### [2011-05-6](/news/2011/05/6/index.md)
 
+##### Northern Ireland Assembly election
 # Counting starts in the Northern Ireland election. 
 
 Verification of votes is under way at eight centres across Northern Ireland, in preparation for the Assembly election count.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-13299729)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52568000/jpg/_52568388_counting3.jpg)

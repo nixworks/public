@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/10/more-than-a-thousand-nepalis-are-arrested-in-kathmandu-for-taking-part-in-a-demonstration-calling-on-their-king-to-restore-democracy.html)  [JSON](/news/2004/04/10/more-than-a-thousand-nepalis-are-arrested-in-kathmandu-for-taking-part-in-a-demonstration-calling-on-their-king-to-restore-democracy.json)  [XML](/news/2004/04/10/more-than-a-thousand-nepalis-are-arrested-in-kathmandu-for-taking-part-in-a-demonstration-calling-on-their-king-to-restore-democracy.xml)  
+
 ### [2004-04-10](/news/2004/04/10/index.md)
 
+##### Nepal
 #  More than a thousand Nepalis are arrested in Kathmandu for taking part in a demonstration calling on their king to restore democracy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Morning Star](http://www.morningstaronline.co.uk/index.php/star_news/world/nepal_police_arrest_protesters)
 

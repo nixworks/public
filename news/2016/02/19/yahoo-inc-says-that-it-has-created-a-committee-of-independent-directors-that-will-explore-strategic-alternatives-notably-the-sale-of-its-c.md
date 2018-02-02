@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/19/yahoo-inc-says-that-it-has-created-a-committee-
 
 ### [2016-02-19](/news/2016/02/19/index.md)
 
+##### Yahoo!
 # Yahoo Inc. says that it has created a committee of independent directors that will explore strategic alternatives, notably the sale of its core internet business. 
 
 Yahoo Inc officially launched the sale of its core business on Friday, a move seen as a positive step for frustrated investors but not enough to keep an activist hedge fund from pursuing a proxy fight against the struggling Internet company.

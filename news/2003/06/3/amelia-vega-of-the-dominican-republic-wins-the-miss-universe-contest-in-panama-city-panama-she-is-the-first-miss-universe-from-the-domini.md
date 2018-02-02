@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/3/amelia-vega-of-the-dominican-republic-wins-the-miss-universe-contest-in-panama-city-panama-she-is-the-first-miss-universe-from-the-domini.html)  [JSON](/news/2003/06/3/amelia-vega-of-the-dominican-republic-wins-the-miss-universe-contest-in-panama-city-panama-she-is-the-first-miss-universe-from-the-domini.json)  [XML](/news/2003/06/3/amelia-vega-of-the-dominican-republic-wins-the-miss-universe-contest-in-panama-city-panama-she-is-the-first-miss-universe-from-the-domini.xml)  
+
 ### [2003-06-3](/news/2003/06/3/index.md)
 
+##### Amelia Vega
 #  Amelia Vega of the Dominican Republic wins the Miss Universe contest in Panama City, Panama. She is the first Miss Universe from the Dominican Republic.
 
 

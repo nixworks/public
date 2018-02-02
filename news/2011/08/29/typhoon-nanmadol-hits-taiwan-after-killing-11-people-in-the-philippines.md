@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/29/typhoon-nanmadol-hits-taiwan-after-killing-11-people-in-the-philippines.html)  [JSON](/news/2011/08/29/typhoon-nanmadol-hits-taiwan-after-killing-11-people-in-the-philippines.json)  [XML](/news/2011/08/29/typhoon-nanmadol-hits-taiwan-after-killing-11-people-in-the-philippines.xml)  
+
 ### [2011-08-29](/news/2011/08/29/index.md)
 
+##### Typhoon Nanmadol
 # Typhoon Nanmadol hits Taiwan after killing 11 people in the Philippines. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hGV44BV-AAOlUr0jtTN6O1asknuw?docId=567763775dd84a15b9af0708d2fed689)
 

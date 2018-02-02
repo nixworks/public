@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/14/a-plane-crash-in-fond-du-lac-saskatchewan-cause
 
 ### [2017-12-14](/news/2017/12/14/index.md)
 
+##### West Wind Aviation Flight 280
 # A plane crash in Fond-du-Lac, Saskatchewan, causes 24 injuries and 1 death. 
 
 Arson Fern Jr., one of 25 people aboard a plane that crashed following takeoff from Fond-du-Lac, Sask., earlier this month, has died from his injuries, says the family of the 19-year-old.

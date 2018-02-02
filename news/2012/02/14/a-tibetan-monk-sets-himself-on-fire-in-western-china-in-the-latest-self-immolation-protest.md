@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/14/a-tibetan-monk-sets-himself-on-fire-in-western-china-in-the-latest-self-immolation-protest.html)  [JSON](/news/2012/02/14/a-tibetan-monk-sets-himself-on-fire-in-western-china-in-the-latest-self-immolation-protest.json)  [XML](/news/2012/02/14/a-tibetan-monk-sets-himself-on-fire-in-western-china-in-the-latest-self-immolation-protest.xml)  
+
 ### [2012-02-14](/news/2012/02/14/index.md)
 
+##### Tibet
 # A Tibetan monk sets himself on fire in western China, in the latest self-immolation protest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Himalayan Times](http://www.thehimalayantimes.com/fullNews.php?headline=Tibetan+sets+self+on+fire+&NewsID=320423)
 

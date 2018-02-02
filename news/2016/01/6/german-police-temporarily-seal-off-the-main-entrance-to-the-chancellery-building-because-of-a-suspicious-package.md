@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/6/german-police-temporarily-seal-off-the-main-entr
 
 ### [2016-01-6](/news/2016/01/6/index.md)
 
+##### German police
 # German police temporarily seal off the main entrance to the chancellery building because of a suspicious package. 
 
 

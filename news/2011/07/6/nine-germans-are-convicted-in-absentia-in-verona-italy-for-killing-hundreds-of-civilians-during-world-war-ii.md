@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/6/nine-germans-are-convicted-in-absentia-in-verona-italy-for-killing-hundreds-of-civilians-during-world-war-ii.html)  [JSON](/news/2011/07/6/nine-germans-are-convicted-in-absentia-in-verona-italy-for-killing-hundreds-of-civilians-during-world-war-ii.json)  [XML](/news/2011/07/6/nine-germans-are-convicted-in-absentia-in-verona-italy-for-killing-hundreds-of-civilians-during-world-war-ii.xml)  
+
 ### [2011-07-6](/news/2011/07/6/index.md)
 
+##### German
 # Nine Germans are convicted "in absentia" in Verona Italy for killing hundreds of civilians during World War II. 
 
 An Italian court sentences nine German men in absentia to life in prison for killing hundreds of civilians during World War II, reports say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-14057055)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

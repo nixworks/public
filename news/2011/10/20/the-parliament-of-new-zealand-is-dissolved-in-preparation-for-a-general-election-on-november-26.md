@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/20/the-parliament-of-new-zealand-is-dissolved-in-preparation-for-a-general-election-on-november-26.html)  [JSON](/news/2011/10/20/the-parliament-of-new-zealand-is-dissolved-in-preparation-for-a-general-election-on-november-26.json)  [XML](/news/2011/10/20/the-parliament-of-new-zealand-is-dissolved-in-preparation-for-a-general-election-on-november-26.xml)  
+
 ### [2011-10-20](/news/2011/10/20/index.md)
 
+##### Parliament of New Zealand
 # The Parliament of New Zealand is dissolved in preparation for a general election on November 26. 
 
 Parliament has been dissolved, marking the beginning of the formal process in the lead-up to the election.
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand](http://www.radionz.co.nz/news/political/88809/parliament-dissolved-for-election)
 1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)

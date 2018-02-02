@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/4/premier-of-the-republic-of-china-lin-chuan-offer
 
 ### [2017-09-4](/news/2017/09/4/index.md)
 
+##### Politics of Taiwan
 # Premier of the Republic of China Lin Chuan offers his resignation as head of the Executive Branch of Taiwan. 
 
 

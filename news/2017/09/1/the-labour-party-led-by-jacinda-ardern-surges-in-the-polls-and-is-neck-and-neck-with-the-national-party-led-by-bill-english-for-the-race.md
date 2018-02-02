@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/1/the-labour-party-led-by-jacinda-ardern-surges-in
 
 ### [2017-09-1](/news/2017/09/1/index.md)
 
+##### New Zealand general election, 2017
 # The Labour Party, led by Jacinda Ardern, surges in the polls and is neck-and-neck with the National Party, led by Bill English, for the race for Prime Minister of New Zealand. 
 
 Jacinda Ardern says in debate with PM she is taking nothing for granted after poll gives her party a two-point advantage

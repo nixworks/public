@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/1/the-united-steelworkers-union-strikes-against-royal-dutch-shell-plc-at-nine-u-s-oil-and-chemical-plants-up-until-recently-oil-prices-had-u.html)  [JSON](/news/2015/02/1/the-united-steelworkers-union-strikes-against-royal-dutch-shell-plc-at-nine-u-s-oil-and-chemical-plants-up-until-recently-oil-prices-had-u.json)  [XML](/news/2015/02/1/the-united-steelworkers-union-strikes-against-royal-dutch-shell-plc-at-nine-u-s-oil-and-chemical-plants-up-until-recently-oil-prices-had-u.xml)  
+
 ### [2015-02-1](/news/2015/02/1/index.md)
 
+##### United Steelworkers
 # The United Steelworkers union strikes against Royal Dutch Shell Plc at nine U.S. oil and chemical plants. Up until recently oil prices had undergone steep drops since June, but the union's action as part of the supply chain caused the market price to soar more than eight percent. 
 
 Union workers took to picketlines on Sunday after strikes were called at nine U.S.refineries and chemical plants in a bid to pressure oilcompanies to agree to a new national contract covering workersat 63 plants.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/2015/02/02/refineries-labor-strikes-idINL1N0VB09D20150202)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

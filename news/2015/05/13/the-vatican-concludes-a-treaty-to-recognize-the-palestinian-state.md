@@ -1,18 +1,23 @@
+
+Formats: [HTML](/news/2015/05/13/the-vatican-concludes-a-treaty-to-recognize-the-palestinian-state.html)  [JSON](/news/2015/05/13/the-vatican-concludes-a-treaty-to-recognize-the-palestinian-state.json)  [XML](/news/2015/05/13/the-vatican-concludes-a-treaty-to-recognize-the-palestinian-state.xml)  
+
 ### [2015-05-13](/news/2015/05/13/index.md)
 
+##### Catholic Church
 # The Vatican concludes a treaty to recognize the Palestinian state. 
 
+The Vatican said in a statement that the treaty would be signed in the near future. Israeli officials said they were disappointed by the designation.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2015/05/14/world/middleeast/vatican-to-recognize-palestinian-state-in-new-treaty.html)
+1. [New York Times](https://www.nytimes.com/2015/05/14/world/middleeast/vatican-to-recognize-palestinian-state-in-new-treaty.html)
+1. [Cover Image](https://static01.nyt.com/images/2015/05/14/world/14vatican2-web/14vatican2-web-facebookJumbo.jpg)
 
 ### Related:
 
-1. [Palestinian factions, Hamas and Fatah, sign a unity deal in Cairo, that is also publicly supported by the governments of Egypt and Saudi Arabia. The Fatah-controlled Palestinian National Authority (PNA), along with Israel, currently govern the West Bank. According to the signatories of the deal, the PNA will take administrative control of the Gaza Strip, and, along with Hamas, police its borders. The signatories consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. The government of Israel opposes any involvement by Hamas in a Palestinian government. ](/news/2017/10/12/palestinian-factions-hamas-and-fatah-sign-a-unity-deal-in-cairo-that-is-also-publicly-supported-by-the-governments-of-egypt-and-saudi-ara.md) _Context: Palestinian_
-2. [Along with the Solomon Islands, the State of Palestine joins Interpol despite objections from Israel. ](/news/2017/09/27/along-with-the-solomon-islands-the-state-of-palestine-joins-interpol-despite-objections-from-israel.md) _Context: Palestinian_
-3. [Israel arrests Palestinian lawmaker Khalida Jarrar over allegations of her inciting of violence. ](/news/2017/07/2/israel-arrests-palestinian-lawmaker-khalida-jarrar-over-allegations-of-her-inciting-of-violence.md) _Context: Palestinian_
-4. [Victoria Police charge Cardinal George Pell, the Prefect of the Secretariat for the Economy, and the third most senior official of the Catholic Church, with historic child sex offences. Pell will be required to attend hearings at the Melbourne Magistrates Court in Australia on July 19. ](/news/2017/06/29/victoria-police-charge-cardinal-george-pell-the-prefect-of-the-secretariat-for-the-economy-and-the-third-most-senior-official-of-the-catho.md) _Context: Catholic Church_
-5. [Catholics in Portugal converge in a shrine in Fatima for a visit by Pope Francis. ](/news/2017/05/12/catholics-in-portugal-converge-in-a-shrine-in-fatima-for-a-visit-by-pope-francis.md) _Context: Catholic Church_
+1. [U.S. President Donald Trump threatens to stop aid to Palestine if they do not agree to partake in peace talks with Israel. ](/news/2018/01/25/u-s-president-donald-trump-threatens-to-stop-aid-to-palestine-if-they-do-not-agree-to-partake-in-peace-talks-with-israel.md) _Context: Palestine_
+2. [After a meeting with the President of the State of Palestine Mahmoud Abbas, High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini again assures President Abbas that the European Union supports his ambition to have East Jerusalem as capital of a Palestinian state. ](/news/2018/01/22/after-a-meeting-with-the-president-of-the-state-of-palestine-mahmoud-abbas-high-representative-of-the-union-for-foreign-affairs-and-securit.md) _Context: Palestine_
+3. [Nabil Shaath, the foreign affairs adviser of Palestinian President Mahmoud Abbas, says that the Palestinian Central Council freezes its recognition of the state of Israel until Israel recognizes Palestine as a state. Palestine will freeze the Oslo accords. ](/news/2018/01/15/nabil-shaath-the-foreign-affairs-adviser-of-palestinian-president-mahmoud-abbas-says-that-the-palestinian-central-council-freezes-its-reco.md) _Context: Palestine_
+4. [16-year-old Palestinian Ahed Tamimi, daughter of Bassem al-Tamimi, is arrested on December 19 in a pre-dawn raid on her home in Nabi Salih by the Israeli army after being suspected of assaulting an Israeli soldier. Later in the day, her mother Nariman is allegedly arrested too when visiting her daughter at a police station. ](/news/2017/12/20/16-year-old-palestinian-ahed-tamimi-daughter-of-bassem-al-tamimi-is-arrested-on-december-19-in-a-pre-dawn-raid-on-her-home-in-nabi-salih-b.md) _Context: Palestine_
+5. [Militant Palestinians fire rockets towards Israel from the Gaza Strip. The Israel Defense Forces say that the Iron Dome system intercepted two missiles, while one rocket fell in a flat open area and nobody was hurt. ](/news/2017/12/13/militant-palestinians-fire-rockets-towards-israel-from-the-gaza-strip-the-israel-defense-forces-say-that-the-iron-dome-system-intercepted-t.md) _Context: Palestine_

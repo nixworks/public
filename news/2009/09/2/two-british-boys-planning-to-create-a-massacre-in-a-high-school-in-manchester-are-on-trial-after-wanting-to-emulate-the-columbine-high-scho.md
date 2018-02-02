@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/2/two-british-boys-planning-to-create-a-massacre-in-a-high-school-in-manchester-are-on-trial-after-wanting-to-emulate-the-columbine-high-scho.html)  [JSON](/news/2009/09/2/two-british-boys-planning-to-create-a-massacre-in-a-high-school-in-manchester-are-on-trial-after-wanting-to-emulate-the-columbine-high-scho.json)  [XML](/news/2009/09/2/two-british-boys-planning-to-create-a-massacre-in-a-high-school-in-manchester-are-on-trial-after-wanting-to-emulate-the-columbine-high-scho.xml)  
+
 ### [2009-09-2](/news/2009/09/2/index.md)
 
+##### massacre
 #  Two British boys planning to create a massacre in a high school in Manchester are on trial after wanting to emulate the Columbine High School massacre. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/england/manchester/8233964.stm)
 

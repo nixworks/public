@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/11/8-iraqi-soldiers-are-killed-and-4-others-are-wounded-by-an-explosion-at-a-house-in-diyala.html)  [JSON](/news/2010/08/11/8-iraqi-soldiers-are-killed-and-4-others-are-wounded-by-an-explosion-at-a-house-in-diyala.json)  [XML](/news/2010/08/11/8-iraqi-soldiers-are-killed-and-4-others-are-wounded-by-an-explosion-at-a-house-in-diyala.xml)  
+
 ### [2010-08-11](/news/2010/08/11/index.md)
 
+##### Iraq
 # 8 Iraqi soldiers are killed and 4 others are wounded by an explosion at a house in Diyala. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/20108117232749776.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10935147)

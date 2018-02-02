@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/7/syracuse-university-defeats-the-university-of-kansas-to-win-the-ncaa-s-college-basketball-championship.html)  [JSON](/news/2003/04/7/syracuse-university-defeats-the-university-of-kansas-to-win-the-ncaa-s-college-basketball-championship.json)  [XML](/news/2003/04/7/syracuse-university-defeats-the-university-of-kansas-to-win-the-ncaa-s-college-basketball-championship.xml)  
+
 ### [2003-04-7](/news/2003/04/7/index.md)
 
+##### Syracuse University
 #  Syracuse University defeats the University of Kansas to win the NCAA's college basketball championship
 
 

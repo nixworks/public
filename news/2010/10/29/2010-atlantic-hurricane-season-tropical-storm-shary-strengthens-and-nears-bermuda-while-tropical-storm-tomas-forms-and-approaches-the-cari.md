@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/29/2010-atlantic-hurricane-season-tropical-storm-shary-strengthens-and-nears-bermuda-while-tropical-storm-tomas-forms-and-approaches-the-cari.html)  [JSON](/news/2010/10/29/2010-atlantic-hurricane-season-tropical-storm-shary-strengthens-and-nears-bermuda-while-tropical-storm-tomas-forms-and-approaches-the-cari.json)  [XML](/news/2010/10/29/2010-atlantic-hurricane-season-tropical-storm-shary-strengthens-and-nears-bermuda-while-tropical-storm-tomas-forms-and-approaches-the-cari.xml)  
+
 ### [2010-10-29](/news/2010/10/29/index.md)
 
+##### 2010 Atlantic hurricane season
 # 2010 Atlantic hurricane season: Tropical Storm Shary strengthens and nears Bermuda, while Tropical Storm Tomas forms and approaches the Caribbean Sea. 
 
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Business/wireStory?id=12007352)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/7/the-head-of-sierra-leone-s-anti-corruption-commission-abdul-tejan-cole-resigns.html)  [JSON](/news/2010/05/7/the-head-of-sierra-leone-s-anti-corruption-commission-abdul-tejan-cole-resigns.json)  [XML](/news/2010/05/7/the-head-of-sierra-leone-s-anti-corruption-commission-abdul-tejan-cole-resigns.xml)  
+
 ### [2010-05-7](/news/2010/05/7/index.md)
 
+##### Sierra Leone
 # The head of Sierra Leone's Anti-Corruption Commission, Abdul Tejan-Cole, resigns. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8668758.stm)
 

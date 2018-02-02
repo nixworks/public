@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/04/20/an-explosion-in-a-mining-explosives-factory-near-the-chambishi-copper-mine-in-zambia-kills-46.html)  [JSON](/news/2005/04/20/an-explosion-in-a-mining-explosives-factory-near-the-chambishi-copper-mine-in-zambia-kills-46.json)  [XML](/news/2005/04/20/an-explosion-in-a-mining-explosives-factory-near-the-chambishi-copper-mine-in-zambia-kills-46.xml)  
+
 ### [2005-04-20](/news/2005/04/20/index.md)
 
+##### explosives
 #  An explosion in a mining explosives factory near the Chambishi copper mine in Zambia kills 46. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4466321.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8240690)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8240690)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/10/2/law-enforcement-in-the-u-s-shuts-down-silk-road-an-internet-marketplace-for-various-illegal-activities-including-the-illicit-drug-trade.html)  [JSON](/news/2013/10/2/law-enforcement-in-the-u-s-shuts-down-silk-road-an-internet-marketplace-for-various-illegal-activities-including-the-illicit-drug-trade.json)  [XML](/news/2013/10/2/law-enforcement-in-the-u-s-shuts-down-silk-road-an-internet-marketplace-for-various-illegal-activities-including-the-illicit-drug-trade.xml)  
+
 ### [2013-10-2](/news/2013/10/2/index.md)
 
+##### Silk Road
 # Law enforcement in the U.S. shuts down "Silk Road," an internet marketplace for various illegal activities including the illicit drug trade, and arrests its alleged principal, Ross Ulbricht. 
 
 U.S. law enforcement authorities have shut down &quot;Silk Road,&quot; an anonymous Internet marketplace for illegal drugs like heroin and cocaine and criminal activities such as murder for hire, and arrested its alleged owner.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/10/02/us-crime-silkroad-raid-idUSBRE9910TR20131002)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131002&t=2&i=799415052&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE991180F00)
+1. [Reuters](https://www.reuters.com/article/2013/10/02/us-crime-silkroad-raid-idUSBRE9910TR20131002)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20131002&t=2&i=799415052&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE991180F00)
 
 ### Related:
 

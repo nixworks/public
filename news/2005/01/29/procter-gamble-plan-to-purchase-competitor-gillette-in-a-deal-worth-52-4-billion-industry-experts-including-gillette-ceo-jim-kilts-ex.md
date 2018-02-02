@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/29/procter-gamble-plan-to-purchase-competitor-gillette-in-a-deal-worth-52-4-billion-industry-experts-including-gillette-ceo-jim-kilts-ex.html)  [JSON](/news/2005/01/29/procter-gamble-plan-to-purchase-competitor-gillette-in-a-deal-worth-52-4-billion-industry-experts-including-gillette-ceo-jim-kilts-ex.json)  [XML](/news/2005/01/29/procter-gamble-plan-to-purchase-competitor-gillette-in-a-deal-worth-52-4-billion-industry-experts-including-gillette-ceo-jim-kilts-ex.xml)  
+
 ### [2005-01-29](/news/2005/01/29/index.md)
 
+##### Procter & Gamble
 #  Procter & Gamble plan to purchase competitor Gillette in a deal worth $52.4 billion. Industry experts, including Gillette CEO Jim Kilts, expect further industry consolidation this year, spurred in part by a 40% rise in oil prices last year and the need to gain clout against economic giant Wal-Mart. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg](http://quote.bloomberg.com/apps/news?pid=10000103&sid=aOnwXs1QSP88&refer=news_index)
 

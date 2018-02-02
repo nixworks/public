@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/14/somali-pirates-capture-six-crew-from-denmark-and-the-philippines-leaving-the-ship-intact-they-are-thought-to-be-held-on-a-captured-taiwanes.html)  [JSON](/news/2011/01/14/somali-pirates-capture-six-crew-from-denmark-and-the-philippines-leaving-the-ship-intact-they-are-thought-to-be-held-on-a-captured-taiwanes.json)  [XML](/news/2011/01/14/somali-pirates-capture-six-crew-from-denmark-and-the-philippines-leaving-the-ship-intact-they-are-thought-to-be-held-on-a-captured-taiwanes.xml)  
+
 ### [2011-01-14](/news/2011/01/14/index.md)
 
+##### Somali pirates
 # Somali pirates capture six crew from Denmark and the Philippines leaving the ship intact. They are thought to be held on a captured Taiwanese fishing boat. 
 
 Pirates operating off the Somali coast kidnap six crew from a Danish ship thought to have been transporting weapons in the Gulf of Aden.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12191589)
 2. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1485967&lang=eng_news&cate_img=1037.jpg&cate_rss=General)

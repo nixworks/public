@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/19/freezing-conditions-cause-electrical-faults-in-the-channel-tunnel-between-great-britain-and-france-isolating-2-000-passengers-in-five-trai.html)  [JSON](/news/2009/12/19/freezing-conditions-cause-electrical-faults-in-the-channel-tunnel-between-great-britain-and-france-isolating-2-000-passengers-in-five-trai.json)  [XML](/news/2009/12/19/freezing-conditions-cause-electrical-faults-in-the-channel-tunnel-between-great-britain-and-france-isolating-2-000-passengers-in-five-trai.xml)  
+
 ### [2009-12-19](/news/2009/12/19/index.md)
 
+##### Channel Tunnel
 #  Freezing conditions cause electrical faults in the Channel Tunnel between Great Britain and France, isolating 2,000 passengers in five trains. The situation is coupled with disruptions at London Heathrow Airport and traffic delays due to snowy conditions in the south-east of England. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8421875.stm)
 2. [Sky News](http://news.sky.com/skynews/Home/UK-News/Eurostar-Trains-Trapped-In-Chunnel-As-Snow-And-Ice-Brings-Services-To-A-Halt/Article/200912315504284?lpos=UK_News_First_UK_News_Article_Teaser_Region_0&lid=ARTICLE_15504284_Eurostar_Trains_Trapped_In_Chunnel_As_Sn)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/1/the-united-states-army-s-elite-delta-force-captu
 
 ### [2016-03-1](/news/2016/03/1/index.md)
 
+##### Iraqi Civil War (2014-present)
 # The United States Army's elite Delta Force captures their first suspected ISIL operative during a raid in northern Iraq. The detainee is being interrogated by the U.S. and is expected to be turned over to Iraqi officials in the coming days. 
 
 

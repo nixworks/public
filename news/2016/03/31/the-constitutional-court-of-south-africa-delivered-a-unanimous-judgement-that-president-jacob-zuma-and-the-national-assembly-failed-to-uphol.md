@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/03/31/the-constitutional-court-of-south-africa-delivered-a-unanimous-judgement-that-president-jacob-zuma-and-the-national-assembly-failed-to-uphol.html)  [JSON](/news/2016/03/31/the-constitutional-court-of-south-africa-delivered-a-unanimous-judgement-that-president-jacob-zuma-and-the-national-assembly-failed-to-uphol.json)  [XML](/news/2016/03/31/the-constitutional-court-of-south-africa-delivered-a-unanimous-judgement-that-president-jacob-zuma-and-the-national-assembly-failed-to-uphol.xml)  
+
 ### [2016-03-31](/news/2016/03/31/index.md)
 
+##### South African Constitutional Court
 # The Constitutional Court of South Africa delivered a unanimous judgement that President Jacob Zuma and the National Assembly failed to uphold the country's constitution by ignoring the findings of the Public Protector regarding public expenditure on Zuma's private homestead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Maverick](http://www.dailymaverick.co.za/article/2016-03-31-nkandla-concourt-ruling-president-zuma-and-national-assembly-in-breach-of-constitution/#.Vvz5raT5jIW)
 

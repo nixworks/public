@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/04/22/volkswagen-buys-leaseplan-from-abn-amro.html)  [JSON](/news/2004/04/22/volkswagen-buys-leaseplan-from-abn-amro.json)  [XML](/news/2004/04/22/volkswagen-buys-leaseplan-from-abn-amro.xml)  
+
 ### [2004-04-22](/news/2004/04/22/index.md)
 
+##### Volkswagen
 #  Volkswagen buys LeasePlan from ABN AMRO.
 
 

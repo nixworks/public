@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/23/palestinian-militants-fire-a-kassam-rocket-from-gaza-which-lands-next-to-a-bus-stop-used-by-schoolchildren-in-the-ashkelon-area-in-southern.html)  [JSON](/news/2013/12/23/palestinian-militants-fire-a-kassam-rocket-from-gaza-which-lands-next-to-a-bus-stop-used-by-schoolchildren-in-the-ashkelon-area-in-southern.json)  [XML](/news/2013/12/23/palestinian-militants-fire-a-kassam-rocket-from-gaza-which-lands-next-to-a-bus-stop-used-by-schoolchildren-in-the-ashkelon-area-in-southern.xml)  
+
 ### [2013-12-23](/news/2013/12/23/index.md)
 
+##### Palestinian militants
 # Palestinian militants fire a Kassam rocket from Gaza which lands next to a bus stop used by schoolchildren in the Ashkelon area in southern Israel; no injuries are reported. 
 
 After searching overnight, security forces find projectile&#8217;s remains in a town outside Ashkelon; no injuries
 
 
-### Source:
+### Sources:
 
 1. [The Times of Israel](http://www.timesofisrael.com/missile-from-gaza-falls-near-childrens-bus-stop/)
 1. [Cover Image](http://cdn.timesofisrael.com/uploads/2013/12/rocket.jpg)

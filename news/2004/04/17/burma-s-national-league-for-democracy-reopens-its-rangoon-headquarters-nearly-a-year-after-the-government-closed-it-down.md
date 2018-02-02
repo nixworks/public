@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/17/burma-s-national-league-for-democracy-reopens-its-rangoon-headquarters-nearly-a-year-after-the-government-closed-it-down.html)  [JSON](/news/2004/04/17/burma-s-national-league-for-democracy-reopens-its-rangoon-headquarters-nearly-a-year-after-the-government-closed-it-down.json)  [XML](/news/2004/04/17/burma-s-national-league-for-democracy-reopens-its-rangoon-headquarters-nearly-a-year-after-the-government-closed-it-down.xml)  
+
 ### [2004-04-17](/news/2004/04/17/index.md)
 
+##### Myanmar
 #  Burma's National League for Democracy reopens its Rangoon headquarters nearly a year after the government closed it down. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA](http://www.voanews.com/article.cfm?objectID=3042A21B-9CFF-4762-91A06BB5910E6D4A&title=Burma%20Allows%20Opposition%20to%20Reopen%20Headquarters&catOID=45C9C78B-88AD-11D4-A57200A0CC5EE46C&categoryname=Asia%20Pacific)
 

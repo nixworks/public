@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/08/20/the-original-handwritten-manuscript-of-a-paper-by-albert-einstein-entitled-quantum-theory-of-the-monatomic-ideal-gas-bose-einstein-cond.html)  [JSON](/news/2005/08/20/the-original-handwritten-manuscript-of-a-paper-by-albert-einstein-entitled-quantum-theory-of-the-monatomic-ideal-gas-bose-einstein-cond.json)  [XML](/news/2005/08/20/the-original-handwritten-manuscript-of-a-paper-by-albert-einstein-entitled-quantum-theory-of-the-monatomic-ideal-gas-bose-einstein-cond.xml)  
+
 ### [2005-08-20](/news/2005/08/20/index.md)
 
+##### manuscript
 #  The original handwritten manuscript of a paper by Albert Einstein, entitled "Quantum theory of the monatomic ideal gas" (Bose-Einstein condensate), dated December 1924, has been found in the archives of Leiden University's Lorentz Institute for Theoretical Physics. It was considered one of Einstein's last great breakthroughs. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20050821/ap_on_sc/einstein_manuscript)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20050821/ap_on_sc/einstein_manuscript)
 2. [Leiden University](http://www.lorentz.leidenuniv.nl/history/Einstein_archive/)
 
 ### Related:

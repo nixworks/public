@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/9/archaeologists-date-the-mound-of-moot-hill-in-scone-palace-where-medieval-kings-of-scotland-including-robert-the-bruce-were-crowned-back-to.html)  [JSON](/news/2010/09/9/archaeologists-date-the-mound-of-moot-hill-in-scone-palace-where-medieval-kings-of-scotland-including-robert-the-bruce-were-crowned-back-to.json)  [XML](/news/2010/09/9/archaeologists-date-the-mound-of-moot-hill-in-scone-palace-where-medieval-kings-of-scotland-including-robert-the-bruce-were-crowned-back-to.xml)  
+
 ### [2010-09-9](/news/2010/09/9/index.md)
 
+##### Archaeologist
 # Archaeologists date the mound of Moot Hill in Scone Palace where medieval Kings of Scotland including Robert the Bruce were crowned back to at least 1,000 years ago. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Scotsman](http://news.scotsman.com/news/39Birth-certificate-of-Scotland39-unearthed.6521243.jp)
 

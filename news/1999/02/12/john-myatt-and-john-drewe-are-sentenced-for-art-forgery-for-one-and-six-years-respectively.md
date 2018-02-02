@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/02/12/john-myatt-and-john-drewe-are-sentenced-for-art-forgery-for-one-and-six-years-respectively.html)  [JSON](/news/1999/02/12/john-myatt-and-john-drewe-are-sentenced-for-art-forgery-for-one-and-six-years-respectively.json)  [XML](/news/1999/02/12/john-myatt-and-john-drewe-are-sentenced-for-art-forgery-for-one-and-six-years-respectively.xml)  
+
 ### [1999-02-12](/news/1999/02/12/index.md)
 
+##### John Myatt
 #  John Myatt and John Drewe are sentenced for art forgery for one and six years, respectively.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/1/voters-in-burma-go-to-the-polls-for-by-elections-for-45-seats-with-aung-san-suu-kyi-claiming-victory-in-one-election.html)  [JSON](/news/2012/04/1/voters-in-burma-go-to-the-polls-for-by-elections-for-45-seats-with-aung-san-suu-kyi-claiming-victory-in-one-election.json)  [XML](/news/2012/04/1/voters-in-burma-go-to-the-polls-for-by-elections-for-45-seats-with-aung-san-suu-kyi-claiming-victory-in-one-election.xml)  
+
 ### [2012-04-1](/news/2012/04/1/index.md)
 
+##### Burma
 # Voters in Burma go to the polls for by-elections for 45 seats, with Aung San Suu Kyi claiming victory in one election. 
 
 Aung San Suu Kyi&#039;s party claims she has won a seat in Burma&#039;s parliament after Sunday&#039;s historic election, setting the stage for her to hold public office for the first time.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17571989)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/burmamyanmar/9178934/Burma-EU-observers-will-not-declare-historic-Myanmar-by-elections-free-and-fair.html)

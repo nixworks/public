@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/19/royal-dutch-shell-shuts-down-an-offshore-oil-installation-in-nigeria-after-an-attack-from-the-movement-for-the-emancipation-of-the-niger-de.html)  [JSON](/news/2008/06/19/royal-dutch-shell-shuts-down-an-offshore-oil-installation-in-nigeria-after-an-attack-from-the-movement-for-the-emancipation-of-the-niger-de.json)  [XML](/news/2008/06/19/royal-dutch-shell-shuts-down-an-offshore-oil-installation-in-nigeria-after-an-attack-from-the-movement-for-the-emancipation-of-the-niger-de.xml)  
+
 ### [2008-06-19](/news/2008/06/19/index.md)
 
+##### Royal Dutch Shell
 #  Royal Dutch Shell shuts down an offshore oil installation in Nigeria after an attack from the Movement for the Emancipation of the Niger Delta. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5gnNWecjUOlCOZLU4cpzuC7RHwt9wD91D1DAG5)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/06/24/mauricio-macri-a-member-of-the-national-congres
 
 ### [2018-06-24](/news/2018/06/24/index.md)
 
+##### Mauricio Macri
 #  Mauricio Macri, a member of the National Congress of Argentina and president of Boca Juniors, is elected as the Chief of Government of Buenos Aires. 
 
 

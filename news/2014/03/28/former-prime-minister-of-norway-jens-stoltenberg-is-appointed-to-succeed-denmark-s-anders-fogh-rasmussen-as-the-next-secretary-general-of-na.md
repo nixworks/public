@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/28/former-prime-minister-of-norway-jens-stoltenberg-is-appointed-to-succeed-denmark-s-anders-fogh-rasmussen-as-the-next-secretary-general-of-na.html)  [JSON](/news/2014/03/28/former-prime-minister-of-norway-jens-stoltenberg-is-appointed-to-succeed-denmark-s-anders-fogh-rasmussen-as-the-next-secretary-general-of-na.json)  [XML](/news/2014/03/28/former-prime-minister-of-norway-jens-stoltenberg-is-appointed-to-succeed-denmark-s-anders-fogh-rasmussen-as-the-next-secretary-general-of-na.xml)  
+
 ### [2014-03-28](/news/2014/03/28/index.md)
 
+##### Prime Minister of Norway
 # Former Prime Minister of Norway Jens Stoltenberg is appointed to succeed Denmark's Anders Fogh Rasmussen as the next Secretary General of NATO. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-26791044)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/73884000/jpg/_73884032_stoltenberg_ap.jpg)

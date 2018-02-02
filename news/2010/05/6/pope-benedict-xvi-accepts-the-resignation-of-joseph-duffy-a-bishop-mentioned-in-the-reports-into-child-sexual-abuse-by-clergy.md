@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/6/pope-benedict-xvi-accepts-the-resignation-of-joseph-duffy-a-bishop-mentioned-in-the-reports-into-child-sexual-abuse-by-clergy.html)  [JSON](/news/2010/05/6/pope-benedict-xvi-accepts-the-resignation-of-joseph-duffy-a-bishop-mentioned-in-the-reports-into-child-sexual-abuse-by-clergy.json)  [XML](/news/2010/05/6/pope-benedict-xvi-accepts-the-resignation-of-joseph-duffy-a-bishop-mentioned-in-the-reports-into-child-sexual-abuse-by-clergy.xml)  
+
 ### [2010-05-6](/news/2010/05/6/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI accepts the resignation of Joseph Duffy, a bishop mentioned in the reports into child sexual abuse by clergy. 
 
 Pope Benedict has accepted the resignation of Bishop Joseph Duffy, who is retiring and whose name was tied to the cover-up of a paedophile priest.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8664814.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0506/duffy.html)

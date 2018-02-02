@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/17/the-government-of-the-people-s-republic-of-china-blocks-internet-access-to-wikipedia-in-china-less-than-one-week-after-a-year-long-ban-was.html)  [JSON](/news/2006/11/17/the-government-of-the-people-s-republic-of-china-blocks-internet-access-to-wikipedia-in-china-less-than-one-week-after-a-year-long-ban-was.json)  [XML](/news/2006/11/17/the-government-of-the-people-s-republic-of-china-blocks-internet-access-to-wikipedia-in-china-less-than-one-week-after-a-year-long-ban-was.xml)  
+
 ### [2006-11-17](/news/2006/11/17/index.md)
 
+##### government
 #  The Government of the People's Republic of China blocks internet access to Wikipedia in China less than one week after a year-long ban was lifted. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/TECH/internet/11/17/china.internet.ap/index.html)
 2. [RSF](http://www.rsf.org/article.php3?id_article=15374)

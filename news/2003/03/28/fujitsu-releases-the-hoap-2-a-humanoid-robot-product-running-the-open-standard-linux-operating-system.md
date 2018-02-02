@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/28/fujitsu-releases-the-hoap-2-a-humanoid-robot-product-running-the-open-standard-linux-operating-system.html)  [JSON](/news/2003/03/28/fujitsu-releases-the-hoap-2-a-humanoid-robot-product-running-the-open-standard-linux-operating-system.json)  [XML](/news/2003/03/28/fujitsu-releases-the-hoap-2-a-humanoid-robot-product-running-the-open-standard-linux-operating-system.xml)  
+
 ### [2003-03-28](/news/2003/03/28/index.md)
 
+##### Fujitsu
 #  Fujitsu releases the HOAP-2, a humanoid robot product running the open standard Linux operating system.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/5/south-belfast-mp-alasdair-mcdonnell-is-elected-leader-of-northern-ireland-s-social-democratic-and-labour-party-replacing-margaret-ritchie-w.html)  [JSON](/news/2011/11/5/south-belfast-mp-alasdair-mcdonnell-is-elected-leader-of-northern-ireland-s-social-democratic-and-labour-party-replacing-margaret-ritchie-w.json)  [XML](/news/2011/11/5/south-belfast-mp-alasdair-mcdonnell-is-elected-leader-of-northern-ireland-s-social-democratic-and-labour-party-replacing-margaret-ritchie-w.xml)  
+
 ### [2011-11-5](/news/2011/11/5/index.md)
 
+##### Alasdair McDonnell
 # South Belfast MP Alasdair McDonnell is elected leader of Northern Ireland's Social Democratic and Labour Party, replacing Margaret Ritchie who stepped down in September. 
 
 South Belfast MP and MLA Alasdair McDonnell is elected the new leader of the SDLP.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-15607201)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56505000/jpg/_56505550_mcdonnell.jpg)

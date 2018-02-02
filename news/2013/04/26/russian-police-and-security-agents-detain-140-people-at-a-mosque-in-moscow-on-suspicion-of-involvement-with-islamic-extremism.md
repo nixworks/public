@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2013/04/26/russian-police-and-security-agents-detain-140-people-at-a-mosque-in-moscow-on-suspicion-of-involvement-with-islamic-extremism.html)  [JSON](/news/2013/04/26/russian-police-and-security-agents-detain-140-people-at-a-mosque-in-moscow-on-suspicion-of-involvement-with-islamic-extremism.json)  [XML](/news/2013/04/26/russian-police-and-security-agents-detain-140-people-at-a-mosque-in-moscow-on-suspicion-of-involvement-with-islamic-extremism.xml)  
+
 ### [2013-04-26](/news/2013/04/26/index.md)
 
+##### Russia
 # Russian police and security agents detain 140 people at a mosque in Moscow on suspicion of involvement with Islamic extremism. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/russia-detains-140-suspected-islamic-extremists-19051175#.UXrgEqKsiSo)
 
 ### Related:
 
-1. [Russian police arrest prominent opposition leaders at a rally against President Vladimir Putin in Moscow. ](/news/2012/12/15/russian-police-arrest-prominent-opposition-leaders-at-a-rally-against-president-vladimir-putin-in-moscow.md) _Context: Moscow, Russia, Russian police_
-2. [A fire at the Sindika Trade Center, a construction materials shopping center in the northwestern edge of Moscow, Russia, forces the evacuation of at least 3000 people. ](/news/2017/10/9/a-fire-at-the-sindika-trade-center-a-construction-materials-shopping-center-in-the-northwestern-edge-of-moscow-russia-forces-the-evacuati.md) _Context: Moscow, Russia_
-3. [Russian opposition leader and hopeful presidential candidate Alexei Navalny is sentenced in Moscow to 20 days detention for organizing unauthorized public meetings. This is Navalny's third jail term this year. ](/news/2017/10/2/russian-opposition-leader-and-hopeful-presidential-candidate-alexei-navalny-is-sentenced-in-moscow-to-20-days-detention-for-organizing-unaut.md) _Context: Moscow, Russia_
-4. [The United States Department of Justice has requested Moscow-based Russian media channel RT America to register as a foreign lobbying firm in the United States. ](/news/2017/09/12/the-united-states-department-of-justice-has-requested-moscow-based-russian-media-channel-rt-america-to-register-as-a-foreign-lobbying-firm-i.md) _Context: Moscow, Russia_
-5. [Three so-called GTA gang members are shot dead and four others are wounded, including two guards, at a courthouse in Moscow, Russia, after they attempted to escape. ](/news/2017/08/1/three-so-called-gta-gang-members-are-shot-dead-and-four-others-are-wounded-including-two-guards-at-a-courthouse-in-moscow-russia-after-t.md) _Context: Moscow, Russia_
+1. [Russian opposition politician Alexei Navalny is arrested by police at a protest rally in Moscow. His arrest comes shortly after police raid the headquarters of his unregistered Progress Party in an apparent attempt to disrupt online broadcasts of opposition rallies against Vladimir Putin, while police say they were looking for a bomb. Navalny is released from police custody without charge late Sunday but needs to appear in court later. ](/news/2018/01/28/russian-opposition-politician-alexei-navalny-is-arrested-by-police-at-a-protest-rally-in-moscow-his-arrest-comes-shortly-after-police-raid.md) _Context: Moscow, Russia, police_
+2. [Russian police arrest prominent opposition leaders at a rally against President Vladimir Putin in Moscow. ](/news/2012/12/15/russian-police-arrest-prominent-opposition-leaders-at-a-rally-against-president-vladimir-putin-in-moscow.md) _Context: Moscow, Russia, police_
+3. [A public transport bus crashes into Slavyansky Bulvar subway station entrance in Moscow, Russia, killing four and injuring eleven. ](/news/2017/12/25/a-public-transport-bus-crashes-into-slavyansky-bulvar-subway-station-entrance-in-moscow-russia-killing-four-and-injuring-eleven.md) _Context: Moscow, Russia_
+4. [The United States and Russia begin fighting over the extradition of Yevgeniy Nikulin, who was detained in October 2016 in the Czech Republic, after the U.S. Justice Department issued an international arrest warrant for him. However, soon after the U.S. issued its arrest warrant, Russian authorities also sought his extradition. The Russian charge accuses Nikulin of stealing from an online money transfer company back in 2009. ](/news/2017/11/25/the-united-states-and-russia-begin-fighting-over-the-extradition-of-yevgeniy-nikulin-who-was-detained-in-october-2016-in-the-czech-republic.md) _Context: Russia, police_
+5. [A fire at the Sindika Trade Center, a construction materials shopping center in the northwestern edge of Moscow, Russia, forces the evacuation of at least 3000 people. ](/news/2017/10/9/a-fire-at-the-sindika-trade-center-a-construction-materials-shopping-center-in-the-northwestern-edge-of-moscow-russia-forces-the-evacuati.md) _Context: Moscow, Russia_

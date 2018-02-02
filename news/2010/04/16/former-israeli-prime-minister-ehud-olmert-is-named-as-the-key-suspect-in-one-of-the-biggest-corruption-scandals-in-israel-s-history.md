@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/16/former-israeli-prime-minister-ehud-olmert-is-named-as-the-key-suspect-in-one-of-the-biggest-corruption-scandals-in-israel-s-history.html)  [JSON](/news/2010/04/16/former-israeli-prime-minister-ehud-olmert-is-named-as-the-key-suspect-in-one-of-the-biggest-corruption-scandals-in-israel-s-history.json)  [XML](/news/2010/04/16/former-israeli-prime-minister-ehud-olmert-is-named-as-the-key-suspect-in-one-of-the-biggest-corruption-scandals-in-israel-s-history.xml)  
+
 ### [2010-04-16](/news/2010/04/16/index.md)
 
+##### Israeli Prime Minister
 # Former Israeli Prime Minister Ehud Olmert is named as the key suspect in "one of the biggest corruption scandals in Israel's history". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Ha'aretz](http://www.haaretz.com/hasen/spages/1163609.html)
 2. [The Times](http://www.timesonline.co.uk/tol/news/world/middle_east/article7099077.ece)

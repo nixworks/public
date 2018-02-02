@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/5/a-suicide-car-bomber-hits-the-headquarters-of-eupol-afghanistan-in-kabul-afghanistan-killing-one-person-and-injuring-five-others-the-tali.html)  [JSON](/news/2015/01/5/a-suicide-car-bomber-hits-the-headquarters-of-eupol-afghanistan-in-kabul-afghanistan-killing-one-person-and-injuring-five-others-the-tali.json)  [XML](/news/2015/01/5/a-suicide-car-bomber-hits-the-headquarters-of-eupol-afghanistan-in-kabul-afghanistan-killing-one-person-and-injuring-five-others-the-tali.xml)  
+
 ### [2015-01-5](/news/2015/01/5/index.md)
 
+##### EUPOL Afghanistan
 # A suicide car bomber hits the headquarters of EUPOL Afghanistan in Kabul, Afghanistan, killing one person and injuring five others. The Taliban have claimed responsibility. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC](http://abcnews.go.com/International/wireStory/afghan-official-offers-details-years-eve-deaths-27999599)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/27/the-u-s-department-of-agriculture-announces-that-it-believes-the-bse-infected-cow-detected-in-washington-state-was-imported-from-canada-in.html)  [JSON](/news/2003/12/27/the-u-s-department-of-agriculture-announces-that-it-believes-the-bse-infected-cow-detected-in-washington-state-was-imported-from-canada-in.json)  [XML](/news/2003/12/27/the-u-s-department-of-agriculture-announces-that-it-believes-the-bse-infected-cow-detected-in-washington-state-was-imported-from-canada-in.xml)  
+
 ### [2003-12-27](/news/2003/12/27/index.md)
 
+##### United States Department of Agriculture
 #  The U.S. Department of Agriculture announces that it believes the BSE infected cow detected in Washington state was imported from Canada in 2001. The location of the other 73 cows imported with it is unknown. [http:--news.bbc.co.uk-1-hi-world-americas-3351547.stm]
 
 

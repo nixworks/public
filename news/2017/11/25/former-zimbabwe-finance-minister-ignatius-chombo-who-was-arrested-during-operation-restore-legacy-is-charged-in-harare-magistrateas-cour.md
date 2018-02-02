@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/25/former-zimbabwe-finance-minister-ignatius-chomb
 
 ### [2017-11-25](/news/2017/11/25/index.md)
 
+##### 2017 Zimbabwean coup d'etat
 # Former Zimbabwe finance minister Ignatius Chombo, who was arrested during Operation Restore Legacy, is charged in Harare Magistrate's Court with three counts of fraud, abuse of power, and corruption. 
 
 Last Sunday, the governing Zanu-PF expelled Chombo and many others aligned to the G40 faction, which supported Grace to succeed her husband.

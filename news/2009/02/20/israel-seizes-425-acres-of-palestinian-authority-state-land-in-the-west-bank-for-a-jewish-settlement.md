@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/20/israel-seizes-425-acres-of-palestinian-authority-state-land-in-the-west-bank-for-a-jewish-settlement.html)  [JSON](/news/2009/02/20/israel-seizes-425-acres-of-palestinian-authority-state-land-in-the-west-bank-for-a-jewish-settlement.json)  [XML](/news/2009/02/20/israel-seizes-425-acres-of-palestinian-authority-state-land-in-the-west-bank-for-a-jewish-settlement.xml)  
+
 ### [2009-02-20](/news/2009/02/20/index.md)
 
+##### Israel
 #  Israel seizes 425 acres of Palestinian Authority state land in the West Bank for a Jewish settlement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5ioi_0jtO9RjMwPNRoXNCndRPRq3gD96CT2EG0)
 

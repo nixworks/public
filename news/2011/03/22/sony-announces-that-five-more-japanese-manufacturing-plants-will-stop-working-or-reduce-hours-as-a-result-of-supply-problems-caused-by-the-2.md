@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/03/22/sony-announces-that-five-more-japanese-manufacturing-plants-will-stop-working-or-reduce-hours-as-a-result-of-supply-problems-caused-by-the-2.html)  [JSON](/news/2011/03/22/sony-announces-that-five-more-japanese-manufacturing-plants-will-stop-working-or-reduce-hours-as-a-result-of-supply-problems-caused-by-the-2.json)  [XML](/news/2011/03/22/sony-announces-that-five-more-japanese-manufacturing-plants-will-stop-working-or-reduce-hours-as-a-result-of-supply-problems-caused-by-the-2.xml)  
+
 ### [2011-03-22](/news/2011/03/22/index.md)
 
+##### Sony
 # Sony announces that five more Japanese manufacturing plants will stop working or reduce hours as a result of supply problems caused by the 2011 Tohoku earthquake and tsunami. 
 
 Sony said on Tuesday shortages of parts and materials would force it to reduce or suspend production at five additional plants in Japan following the catastrophic earthquake this month.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/03/22/us-sony-idUSTRE72L0KE20110322)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110322&t=2&i=368804736&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-22T063447Z_01_BTRE72L0I9Q00_RTROPTP_0_SONY)
+1. [Reuters](https://www.reuters.com/article/2011/03/22/us-sony-idUSTRE72L0KE20110322)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20110322&t=2&i=368804736&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-22T063447Z_01_BTRE72L0I9Q00_RTROPTP_0_SONY)
 
 ### Related:
 

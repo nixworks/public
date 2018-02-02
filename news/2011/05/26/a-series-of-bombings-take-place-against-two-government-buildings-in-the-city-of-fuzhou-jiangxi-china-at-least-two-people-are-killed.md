@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/26/a-series-of-bombings-take-place-against-two-government-buildings-in-the-city-of-fuzhou-jiangxi-china-at-least-two-people-are-killed.html)  [JSON](/news/2011/05/26/a-series-of-bombings-take-place-against-two-government-buildings-in-the-city-of-fuzhou-jiangxi-china-at-least-two-people-are-killed.json)  [XML](/news/2011/05/26/a-series-of-bombings-take-place-against-two-government-buildings-in-the-city-of-fuzhou-jiangxi-china-at-least-two-people-are-killed.xml)  
+
 ### [2011-05-26](/news/2011/05/26/index.md)
 
+##### series of bombings
 # A series of bombings take place against two government buildings in the city of Fuzhou, Jiangxi, China; at least two people are killed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5i57WYFqEn4bLlTbY-Lfu9gn4SEoQ?docId=CNG.925fb1bc06c719f0ccd4c0a6da4f9506.251)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13556366)

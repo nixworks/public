@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/8/a-shooting-spree-in-dallas-texas-u-s-kills-4-wounds-4-and-the-gunman-is-subsequently-arrested.html)  [JSON](/news/2013/08/8/a-shooting-spree-in-dallas-texas-u-s-kills-4-wounds-4-and-the-gunman-is-subsequently-arrested.json)  [XML](/news/2013/08/8/a-shooting-spree-in-dallas-texas-u-s-kills-4-wounds-4-and-the-gunman-is-subsequently-arrested.xml)  
+
 ### [2013-08-8](/news/2013/08/8/index.md)
 
+##### Dallas
 # A shooting spree in Dallas, Texas, U.S., kills 4, wounds 4 and the gunman is subsequently arrested. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/08/08/us/texas-shootings/index.html?hpt=hp_t2)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/30/the-jerusalem-district-court-finds-former-prime-minister-of-israel-ehud-olmert-guilty-of-accepting-cash-from-an-american-businessman-for-per.html)  [JSON](/news/2015/03/30/the-jerusalem-district-court-finds-former-prime-minister-of-israel-ehud-olmert-guilty-of-accepting-cash-from-an-american-businessman-for-per.json)  [XML](/news/2015/03/30/the-jerusalem-district-court-finds-former-prime-minister-of-israel-ehud-olmert-guilty-of-accepting-cash-from-an-american-businessman-for-per.xml)  
+
 ### [2015-03-30](/news/2015/03/30/index.md)
 
+##### Israeli Prime Minister
 # The Jerusalem District Court finds former Prime Minister of Israel Ehud Olmert guilty of accepting cash from an American businessman for personal use. 
 
 Former PM found guilty of accepting cash from US Jewish businessman for personal use; defense team: We will appeal, tapes used by prosecution had been manipulated by chronic liar. 
 
 
-### Source:
+### Sources:
 
 1. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4642310,00.html)
 1. [Cover Image](http://www.ynetnews.com/PicServer4/2015/03/30/5964054/59640390991599640360no.jpg)

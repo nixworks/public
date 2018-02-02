@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/10/19/south-african-athlete-oscar-pistorius-is-released-from-prison-to-serve-the-rest-of-his-sentence-for-culpable-homicide-of-reeva-steenkamp-und.html)  [JSON](/news/2015/10/19/south-african-athlete-oscar-pistorius-is-released-from-prison-to-serve-the-rest-of-his-sentence-for-culpable-homicide-of-reeva-steenkamp-und.json)  [XML](/news/2015/10/19/south-african-athlete-oscar-pistorius-is-released-from-prison-to-serve-the-rest-of-his-sentence-for-culpable-homicide-of-reeva-steenkamp-und.xml)  
+
 ### [2015-10-19](/news/2015/10/19/index.md)
 
+##### South Africa
 # South African athlete Oscar Pistorius is released from prison to serve the rest of his sentence for culpable homicide of Reeva Steenkamp under house arrest. 
 
 The Paralympian, found guilty of culpable homicide of Reeva Steenkamp, will live at uncle’s house – but faces further legal action from prosecution team
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2015/oct/19/pistorius-release-sentence-house-arrest-uncle)
+1. [The Guardian](https://www.theguardian.com/world/2015/oct/19/pistorius-release-sentence-house-arrest-uncle)
 1. [Cover Image](https://i.guim.co.uk/img/media/16359870b0d32c692d2405c2e24c691a0889467a/0_0_3543_2126/master/3543.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=1429b04f837d27e250d30fb89e842aa0)
 
 ### Related:

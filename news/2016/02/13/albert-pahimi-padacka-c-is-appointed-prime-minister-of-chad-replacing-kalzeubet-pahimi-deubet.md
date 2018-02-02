@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/13/albert-pahimi-padacka-c-is-appointed-prime-mini
 
 ### [2016-02-13](/news/2016/02/13/index.md)
 
+##### Albert Pahimi Padacke
 # Albert Pahimi Padacke is appointed Prime Minister of Chad, replacing Kalzeubet Pahimi Deubet. 
 
 Chad has appointed MP Albert Pahimi Padacke as prime minister of the Central African country following the resignation of his predecessor, state television said on Saturday, heralding a Cabinet reshuffle just two months ahead of presidential elections.

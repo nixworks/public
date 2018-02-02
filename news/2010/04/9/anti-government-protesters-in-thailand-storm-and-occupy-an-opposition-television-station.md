@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/9/anti-government-protesters-in-thailand-storm-and-occupy-an-opposition-television-station.html)  [JSON](/news/2010/04/9/anti-government-protesters-in-thailand-storm-and-occupy-an-opposition-television-station.json)  [XML](/news/2010/04/9/anti-government-protesters-in-thailand-storm-and-occupy-an-opposition-television-station.xml)  
+
 ### [2010-04-9](/news/2010/04/9/index.md)
 
+##### red shirt
 # Anti-government protesters in Thailand storm and occupy an opposition television station. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8610740.stm)
 2. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/42955.cfm)

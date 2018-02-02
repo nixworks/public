@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/13/seven-u-s-prisoners-of-war-are-released-to-coalition-troops-approaching-tikrit-in-northern-iraq-the-pows-included-two-apache-helicopter-p.html)  [JSON](/news/2003/04/13/seven-u-s-prisoners-of-war-are-released-to-coalition-troops-approaching-tikrit-in-northern-iraq-the-pows-included-two-apache-helicopter-p.json)  [XML](/news/2003/04/13/seven-u-s-prisoners-of-war-are-released-to-coalition-troops-approaching-tikrit-in-northern-iraq-the-pows-included-two-apache-helicopter-p.xml)  
+
 ### [2003-04-13](/news/2003/04/13/index.md)
 
+##### POWs
 #  Seven U.S. Prisoners of War are released to Coalition troops approaching Tikrit in Northern Iraq. The POWs included two Apache helicopter pilots, Chief Warrant Officer Ronald D. Young, Jr. and Chief Warrant Officer David S. Williams, and five members of the Army's 507th Maintenance Company; Spc. Shoshana Johnson, Sgt. James Riley, Spc. Joseph Hudson, Pfc. Patrick Miller and Spc. Edgar Hernandez. All seven POWs had previously been shown held captive by Iraqi state television and Al Jazeera.
 
 

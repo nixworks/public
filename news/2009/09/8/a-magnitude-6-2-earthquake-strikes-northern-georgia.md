@@ -1,20 +1,24 @@
+
+Formats: [HTML](/news/2009/09/8/a-magnitude-6-2-earthquake-strikes-northern-georgia.html)  [JSON](/news/2009/09/8/a-magnitude-6-2-earthquake-strikes-northern-georgia.json)  [XML](/news/2009/09/8/a-magnitude-6-2-earthquake-strikes-northern-georgia.xml)  
+
 ### [2009-09-8](/news/2009/09/8/index.md)
 
+##### magnitude
 #  A magnitude 6.2 earthquake strikes northern Georgia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8243148.stm)
 2. [The Georgian Times](http://www.geotimes.ge/index.php?m=home&newsid=18181)
-3. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009lgbw.php#details)
+3. [USGS](https://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2009lgbw.php#details)
 
 ### Related:
 
-1. [A magnitude 8.1 earthquake is recorded 96 kilometers (60 miles) south of Pijijiapan, Chiapas, Mexico. This is Mexico's strongest quake since the 8.0 earthquake that hit the Greater Mexico City area in 1985. At least 26 deaths have been recorded.](/news/2017/09/7/a-magnitude-8-1-earthquake-is-recorded-96-kilometers-60-miles-south-of-pijijiapan-chiapas-mexico-this-is-mexico-s-strongest-quake-since.md) _Context: magnitude_
-2. [A magnitude 6.2 earthquake strikes the central Mexican state of Oaxaca killing at least five people and damaging housing and infrastructure already damaged by Tuesday's 2017 Central Mexico earthquake. ](/news/2017/09/23/a-magnitude-6-2-earthquake-strikes-the-central-mexican-state-of-oaxaca-killing-at-least-five-people-and-damaging-housing-and-infrastructure.md) _Context: magnitude_
-3. [A magnitude 7.1 earthquake strikes Mexico, killing at least 220 people and collapsing several buildings in Mexico City and widespread evacuations, hours after a yearly earthquake drill in commemoration of the 1985 Mexico City earthquake. ](/news/2017/09/19/a-magnitude-7-1-earthquake-strikes-mexico-killing-at-least-220-people-and-collapsing-several-buildings-in-mexico-city-and-widespread-evacua.md) _Context: magnitude_
-4. [ A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-13-others-i.md) _Context: Georgian_
-5. [A magnitude 6.4 earthquake strikes west of the Pacific Island of Tonga. There are no immediate reports of casualties or damage. ](/news/2017/08/19/a-magnitude-6-4-earthquake-strikes-west-of-the-pacific-island-of-tonga-there-are-no-immediate-reports-of-casualties-or-damage.md) _Context: magnitude_
+1. [A 7.9 magnitude earthquake occurs in the Gulf of Alaska. A tsunami warning is issued for coastal Alaska and British Columbia, and the entire U.S. West Coast is placed under a tsunami watch. Areas of Alaska remain under a tsunami advisory. It is tied as the sixth-largest earthquake ever recorded in the United States, but there are no reports of significant damage or fatalities. ](/news/2018/01/23/a-7-9-magnitude-earthquake-occurs-in-the-gulf-of-alaska-a-tsunami-warning-is-issued-for-coastal-alaska-and-british-columbia-and-the-entire.md) _Context: magnitude_
+2. [A magnitude 6.5 earthquake strikes the island of Java causing massive damage along with two confirmed deaths. ](/news/2017/12/15/a-magnitude-6-5-earthquakea-strikesa-the-island-of-javaa-causing-massive-damage-along-with-two-confirmed-deaths.md) _Context: magnitude_
+3. [Explosions and gunfire are heard in the Georgian capital of Tbilisi amidst counter-terrorism operations. One security guard and 3 terrorists are killed. ](/news/2017/11/22/explosions-and-gunfire-are-heard-in-the-georgian-capital-of-tbilisi-amidst-counter-terrorism-operations-one-security-guard-and-3-terrorists.md) _Context:  Georgian_
+4. [A 7.0 magnitude undersea earthquake strikes east of New Caledonia's Loyalty Islands in the South Pacific Ocean. Tsunami warnings for New Caledonia and Vanuatu are cancelled. There are no immediate reports of damage. ](/news/2017/11/20/a-7-0-magnitude-undersea-earthquake-strikes-east-of-new-caledonia-s-loyalty-islands-in-the-south-pacific-ocean-tsunami-warnings-for-new-cal.md) _Context: magnitude_
+5. [Costa Rica is hit by a 6.5 magnitude earthquake at Jaco near the capital San Jose. No immediate reports of casualties or damage. ](/news/2017/11/12/costa-rica-is-hit-by-a-6-5-magnitude-earthquake-at-jaca3-near-the-capital-san-josa-c-no-immediate-reports-of-casualties-or-damage.md) _Context: magnitude_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/15/indonesian-police-report-that-at-least-18-people-were-killed-and-47-injured-following-a-riot-at-a-boxing-match.html)  [JSON](/news/2013/07/15/indonesian-police-report-that-at-least-18-people-were-killed-and-47-injured-following-a-riot-at-a-boxing-match.json)  [XML](/news/2013/07/15/indonesian-police-report-that-at-least-18-people-were-killed-and-47-injured-following-a-riot-at-a-boxing-match.xml)  
+
 ### [2013-07-15](/news/2013/07/15/index.md)
 
+##### Indonesian police
 # Indonesian police report that at least 18 people were killed and 47 injured following a riot at a boxing match. 
 
 News, email and search are just the beginning. Discover more every day. Find your yodel.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Yahoo News South Africa](http://za.news.yahoo.com/17-die-indonesian-boxing-match-stampede-030123924.html)
 2. [Associated Press via Inquirer](http://newsinfo.inquirer.net/444929/18-killed-in-stampede-at-boxing-match-in-indonesia)

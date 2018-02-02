@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/24/four-russian-soldiers-die-during-fighting-in-chechnya.html)  [JSON](/news/2006/05/24/four-russian-soldiers-die-during-fighting-in-chechnya.json)  [XML](/news/2006/05/24/four-russian-soldiers-die-during-fighting-in-chechnya.xml)  
+
 ### [2006-05-24](/news/2006/05/24/index.md)
 
+##### Russia
 #  Four Russian soldiers die during fighting in Chechnya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/5012338.stm)
 2. [MosNews](http://www.mosnews.com/news/2006/05/24/newsfromchechnya.shtml)

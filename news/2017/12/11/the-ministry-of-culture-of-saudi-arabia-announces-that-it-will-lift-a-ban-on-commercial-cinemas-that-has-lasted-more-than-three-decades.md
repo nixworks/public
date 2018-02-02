@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/11/the-ministry-of-culture-of-saudi-arabia-announc
 
 ### [2017-12-11](/news/2017/12/11/index.md)
 
+##### Cinema of Saudi Arabia
 # The Ministry of Culture of Saudi Arabia announces that it will lift a ban on commercial cinemas that has lasted more than three decades. 
 
 

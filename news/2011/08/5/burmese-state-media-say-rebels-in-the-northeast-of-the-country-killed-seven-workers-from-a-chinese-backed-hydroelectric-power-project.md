@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/5/burmese-state-media-say-rebels-in-the-northeast-of-the-country-killed-seven-workers-from-a-chinese-backed-hydroelectric-power-project.html)  [JSON](/news/2011/08/5/burmese-state-media-say-rebels-in-the-northeast-of-the-country-killed-seven-workers-from-a-chinese-backed-hydroelectric-power-project.json)  [XML](/news/2011/08/5/burmese-state-media-say-rebels-in-the-northeast-of-the-country-killed-seven-workers-from-a-chinese-backed-hydroelectric-power-project.xml)  
+
 ### [2011-08-5](/news/2011/08/5/index.md)
 
+##### Burma
 # Burmese state media say rebels in the northeast of the country killed seven workers from a Chinese-backed hydroelectric power project. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_698915.html)
 

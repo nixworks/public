@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/13/japan-announces-it-will-intercept-north-korea-s-upcoming-satellite-launch-if-the-boosters-threaten-its-territory.html)  [JSON](/news/2009/03/13/japan-announces-it-will-intercept-north-korea-s-upcoming-satellite-launch-if-the-boosters-threaten-its-territory.json)  [XML](/news/2009/03/13/japan-announces-it-will-intercept-north-korea-s-upcoming-satellite-launch-if-the-boosters-threaten-its-territory.xml)  
+
 ### [2009-03-13](/news/2009/03/13/index.md)
 
+##### Japan
 #  Japan announces it will intercept North Korea's upcoming satellite launch if the boosters threaten its territory. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2009/mar/13/north-korea-japan-nuclear-missile)
 

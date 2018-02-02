@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/13/a-u-s-newspaper-report-claims-malaysia-airlines-flight-370-flew-for-hours-after-vanishing-from-radars-saturday.html)  [JSON](/news/2014/03/13/a-u-s-newspaper-report-claims-malaysia-airlines-flight-370-flew-for-hours-after-vanishing-from-radars-saturday.json)  [XML](/news/2014/03/13/a-u-s-newspaper-report-claims-malaysia-airlines-flight-370-flew-for-hours-after-vanishing-from-radars-saturday.xml)  
+
 ### [2014-03-13](/news/2014/03/13/index.md)
 
+##### Malaysia Airlines Flight 370
 # A U.S. newspaper report claims Malaysia Airlines Flight 370 flew for hours after vanishing from radars Saturday. 
 
 Still no trace of missing aircraft, as newspaper report claims plane flew for hours after vanishing from radars.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2014/03/china-will-not-give-up-malaysia-mh370-201431345238173432.html)
 2. [Wall Street Journal](http://online.wsj.com/news/articles/SB10001424052702304914904579434653903086282)

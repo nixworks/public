@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/5/a-congressional-committee-has-voted-to-remove-the-president-of-the-senate-of-brazil-renan-calheiros-as-a-result-of-a-corruption-scandal.html)  [JSON](/news/2007/09/5/a-congressional-committee-has-voted-to-remove-the-president-of-the-senate-of-brazil-renan-calheiros-as-a-result-of-a-corruption-scandal.json)  [XML](/news/2007/09/5/a-congressional-committee-has-voted-to-remove-the-president-of-the-senate-of-brazil-renan-calheiros-as-a-result-of-a-corruption-scandal.xml)  
+
 ### [2007-09-5](/news/2007/09/5/index.md)
 
+##### Congress
 #  A Congressional committee has voted to remove the President of the Senate of Brazil Renan Calheiros as a result of a corruption scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6981004.stm)
 

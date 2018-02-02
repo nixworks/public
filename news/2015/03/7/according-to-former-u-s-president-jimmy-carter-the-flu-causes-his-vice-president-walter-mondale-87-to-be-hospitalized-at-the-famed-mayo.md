@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/7/according-to-former-u-s-president-jimmy-carter-the-flu-causes-his-vice-president-walter-mondale-87-to-be-hospitalized-at-the-famed-mayo.html)  [JSON](/news/2015/03/7/according-to-former-u-s-president-jimmy-carter-the-flu-causes-his-vice-president-walter-mondale-87-to-be-hospitalized-at-the-famed-mayo.json)  [XML](/news/2015/03/7/according-to-former-u-s-president-jimmy-carter-the-flu-causes-his-vice-president-walter-mondale-87-to-be-hospitalized-at-the-famed-mayo.xml)  
+
 ### [2015-03-7](/news/2015/03/7/index.md)
 
+##### Jimmy Carter
 # According to former U.S. President Jimmy Carter, the flu causes his Vice President, Walter Mondale, 87, to be hospitalized at the famed Mayo Clinic, in Rochester, Minnesota. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2015/03/07/us/vice-president-walter-mondale-sick/index.html)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/24/beltway-sniper-within-hours-of-police-chief-charles-moose-announcing-that-john-allen-muhammad-was-wanted-in-connection-with-the-investigat.html)  [JSON](/news/2002/10/24/beltway-sniper-within-hours-of-police-chief-charles-moose-announcing-that-john-allen-muhammad-was-wanted-in-connection-with-the-investigat.json)  [XML](/news/2002/10/24/beltway-sniper-within-hours-of-police-chief-charles-moose-announcing-that-john-allen-muhammad-was-wanted-in-connection-with-the-investigat.xml)  
+
 ### [2002-10-24](/news/2002/10/24/index.md)
 
+##### Beltway sniper
 #  Beltway sniper: Within hours of Police Chief Charles Moose announcing that John Allen Muhammad was wanted in connection with the investigation, Muhammad and his 17-year-old stepson John Lee Malvo were arrested on federal weapons charges, found with the rifle used in the shootings.
 
 

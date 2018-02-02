@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/14/ban-ki-moon-is-officially-sworn-in-as-the-next-united-nations-secretary-general.html)  [JSON](/news/2006/12/14/ban-ki-moon-is-officially-sworn-in-as-the-next-united-nations-secretary-general.json)  [XML](/news/2006/12/14/ban-ki-moon-is-officially-sworn-in-as-the-next-united-nations-secretary-general.xml)  
+
 ### [2006-12-14](/news/2006/12/14/index.md)
 
+##### Ban Ki-moon
 #  Ban Ki-moon is officially sworn in as the next United Nations Secretary-General. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/6180573.stm)
 

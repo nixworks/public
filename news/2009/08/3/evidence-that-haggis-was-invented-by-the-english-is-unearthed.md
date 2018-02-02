@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/3/evidence-that-haggis-was-invented-by-the-english-is-unearthed.html)  [JSON](/news/2009/08/3/evidence-that-haggis-was-invented-by-the-english-is-unearthed.json)  [XML](/news/2009/08/3/evidence-that-haggis-was-invented-by-the-english-is-unearthed.xml)  
+
 ### [2009-08-3](/news/2009/08/3/index.md)
 
+##### haggis
 #  Evidence that haggis was invented by the English is unearthed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=29&art_id=nw20090803003456332C455826)
 2. [News.com.au](http://www.news.com.au/story/0,23599,25873732-38200,00.html?from=public_rss)

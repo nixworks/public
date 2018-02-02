@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/19/south-africa-s-public-protector-finds-that-president-jacob-zuma-has-benefitted-unduly-from-government-funded-upgrades-of-his-rural-residen.html)  [JSON](/news/2014/03/19/south-africa-s-public-protector-finds-that-president-jacob-zuma-has-benefitted-unduly-from-government-funded-upgrades-of-his-rural-residen.json)  [XML](/news/2014/03/19/south-africa-s-public-protector-finds-that-president-jacob-zuma-has-benefitted-unduly-from-government-funded-upgrades-of-his-rural-residen.xml)  
+
 ### [2014-03-19](/news/2014/03/19/index.md)
 
+##### South Africa
 # South Africa's Public Protector finds that President Jacob Zuma has "benefitted unduly" from government funded upgrades of his rural residence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-26645400#)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71435000/jpg/_71435795_71435794.jpg)

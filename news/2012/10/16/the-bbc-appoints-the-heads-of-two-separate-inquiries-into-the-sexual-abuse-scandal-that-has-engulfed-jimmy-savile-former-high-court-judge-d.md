@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/16/the-bbc-appoints-the-heads-of-two-separate-inquiries-into-the-sexual-abuse-scandal-that-has-engulfed-jimmy-savile-former-high-court-judge-d.html)  [JSON](/news/2012/10/16/the-bbc-appoints-the-heads-of-two-separate-inquiries-into-the-sexual-abuse-scandal-that-has-engulfed-jimmy-savile-former-high-court-judge-d.json)  [XML](/news/2012/10/16/the-bbc-appoints-the-heads-of-two-separate-inquiries-into-the-sexual-abuse-scandal-that-has-engulfed-jimmy-savile-former-high-court-judge-d.xml)  
+
 ### [2012-10-16](/news/2012/10/16/index.md)
 
+##### BBC
 # The BBC appoints the heads of two separate inquiries into the sexual abuse scandal that has engulfed Jimmy Savile. Former High Court judge Dame Janet Smith will review the culture and practices of the BBC during the time Savile worked there, while Nick Pollard, a former Sky News executive will look at why a "Newsnight" investigation into Savile's activities was dropped shortly before transmission. 
 
 The judge who led the inquiry into serial killer Harold Shipman will chair an investigation into Sir Jimmy Savile&rsquo;s alleged abuse of children at the BBC.
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/politics/9613014/BBCs-Jimmy-Savile-probe-to-be-led-by-Harold-Shipman-inquiry-judge.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02368/savilepa_2368039k.jpg)

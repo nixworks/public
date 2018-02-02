@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/19/kyrgyz-prime-minister-felix-kulov-resigns-automatically-dismissing-the-ministers-of-the-kyrgyz-government-after-political-parties-through.html)  [JSON](/news/2006/12/19/kyrgyz-prime-minister-felix-kulov-resigns-automatically-dismissing-the-ministers-of-the-kyrgyz-government-after-political-parties-through.json)  [XML](/news/2006/12/19/kyrgyz-prime-minister-felix-kulov-resigns-automatically-dismissing-the-ministers-of-the-kyrgyz-government-after-political-parties-through.xml)  
+
 ### [2006-12-19](/news/2006/12/19/index.md)
 
+##### Kyrgyz Prime Minister
 #  Kyrgyz Prime Minister Felix Kulov resigns, automatically dismissing the Ministers of the Kyrgyz government, after political parties throughout the country called on him to resign. Deputy Prime Minister Daniar Usenov says President Kurmanbek Bakiyev should dissolve the Parliament and hold elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RFE/RL](http://www.rferl.org/featuresarticle/2006/12/37827e5c-bb96-455e-82ce-5a75941db612.html)
 

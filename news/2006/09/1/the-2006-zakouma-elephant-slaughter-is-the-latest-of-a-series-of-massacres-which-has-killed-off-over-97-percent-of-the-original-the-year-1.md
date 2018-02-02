@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/1/the-2006-zakouma-elephant-slaughter-is-the-latest-of-a-series-of-massacres-which-has-killed-off-over-97-percent-of-the-original-the-year-1.html)  [JSON](/news/2006/09/1/the-2006-zakouma-elephant-slaughter-is-the-latest-of-a-series-of-massacres-which-has-killed-off-over-97-percent-of-the-original-the-year-1.json)  [XML](/news/2006/09/1/the-2006-zakouma-elephant-slaughter-is-the-latest-of-a-series-of-massacres-which-has-killed-off-over-97-percent-of-the-original-the-year-1.xml)  
+
 ### [2006-09-1](/news/2006/09/1/index.md)
 
+##### 2006 Zakouma elephant slaughter
 #  The 2006 Zakouma elephant slaughter is the latest of a series of massacres which has killed off over 97 percent of the original (the year 1970) Chadian elephant population of 300,000 animals. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [National Geographic](http://news.nationalgeographic.com/news/2006/08/060830-elephants-chad.html)
 

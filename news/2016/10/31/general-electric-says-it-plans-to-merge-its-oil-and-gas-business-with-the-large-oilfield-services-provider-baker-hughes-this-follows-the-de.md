@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/31/general-electric-says-it-plans-to-merge-its-oil
 
 ### [2016-10-31](/news/2016/10/31/index.md)
 
+##### General Electric
 # General Electric says it plans to merge its oil and gas business with the large oilfield services provider Baker Hughes. This follows the demise of a merger plan between Baker Hughes and Halliburton. 
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/27/the-international-criminal-court-sentences-ahma
 
 ### [2016-09-27](/news/2016/09/27/index.md)
 
+##### ICC
 # The International Criminal Court sentences Ahmad al-Faqi al-Mahdi to nine years in jail for leading the destruction of nine of Timbuktu's mausoleums and the centuries-old door of the Malian city's Sidi Yahya Mosque. 
 
 An Islamist militant who destroyed ancient shrines in Timbuktu is jailed by an international court for nine years in the first case of its kind.

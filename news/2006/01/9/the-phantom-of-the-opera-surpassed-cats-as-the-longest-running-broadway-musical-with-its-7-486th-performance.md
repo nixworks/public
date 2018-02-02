@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/01/9/the-phantom-of-the-opera-surpassed-cats-as-the-longest-running-broadway-musical-with-its-7-486th-performance.html)  [JSON](/news/2006/01/9/the-phantom-of-the-opera-surpassed-cats-as-the-longest-running-broadway-musical-with-its-7-486th-performance.json)  [XML](/news/2006/01/9/the-phantom-of-the-opera-surpassed-cats-as-the-longest-running-broadway-musical-with-its-7-486th-performance.xml)  
+
 ### [2006-01-9](/news/2006/01/9/index.md)
 
+##### The Phantom of the Opera
 #  "The Phantom of the Opera" surpassed "Cats" as the longest running Broadway musical with its 7,486th performance.
 
 

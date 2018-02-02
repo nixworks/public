@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/10/29/sony-announces-278-2-million-in-net-profits-for-the-quarter-ending-sept-30-beating-market-expectations.html)  [JSON](/news/2015/10/29/sony-announces-278-2-million-in-net-profits-for-the-quarter-ending-sept-30-beating-market-expectations.json)  [XML](/news/2015/10/29/sony-announces-278-2-million-in-net-profits-for-the-quarter-ending-sept-30-beating-market-expectations.xml)  
+
 ### [2015-10-29](/news/2015/10/29/index.md)
 
+##### Sony
 # Sony announces $278.2 million in net profits for the quarter ending Sept. 30, beating market expectations. 
 
 Sony swung to a fiscal second-quarter profit from a year-earlier loss on solid sales of its PlayStation 4 videogame console and image sensors.
 
 
-### Source:
+### Sources:
 
-1. [WSJ](http://www.wsj.com/articles/sony-bullish-on-playstation-as-it-swings-to-profit-1446100105)
+1. [WSJ](https://www.wsj.com/articles/sony-bullish-on-playstation-as-it-swings-to-profit-1446100105)
 1. [Cover Image](https://si.wsj.net/public/resources/images/BN-KZ634_1029SO_TOP_20151028232751.jpg)
 
 ### Related:

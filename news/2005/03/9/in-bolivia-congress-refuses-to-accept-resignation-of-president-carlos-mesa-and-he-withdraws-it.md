@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/03/9/in-bolivia-congress-refuses-to-accept-resignation-of-president-carlos-mesa-and-he-withdraws-it.html)  [JSON](/news/2005/03/9/in-bolivia-congress-refuses-to-accept-resignation-of-president-carlos-mesa-and-he-withdraws-it.json)  [XML](/news/2005/03/9/in-bolivia-congress-refuses-to-accept-resignation-of-president-carlos-mesa-and-he-withdraws-it.xml)  
+
 ### [2005-03-9](/news/2005/03/9/index.md)
 
+##### Bolivia
 #  In Bolivia, Congress refuses to accept resignation of President Carlos Mesa and he withdraws it 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4329793.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7846099)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7846099)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

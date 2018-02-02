@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/7/seiji-maehara-resigns-as-foreign-minister-of-japan-after-becoming-involved-in-an-illegal-political-donation-scandal.html)  [JSON](/news/2011/03/7/seiji-maehara-resigns-as-foreign-minister-of-japan-after-becoming-involved-in-an-illegal-political-donation-scandal.json)  [XML](/news/2011/03/7/seiji-maehara-resigns-as-foreign-minister-of-japan-after-becoming-involved-in-an-illegal-political-donation-scandal.xml)  
+
 ### [2011-03-7](/news/2011/03/7/index.md)
 
+##### Seiji Maehara
 # Seiji Maehara resigns as Foreign Minister of Japan after becoming involved in an illegal political donation scandal. 
 
 Japan’s foreign minister of barely six months, Seiji Maehara, may have earned himself a distinction: the nation’s shortest-serving foreign minister.
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://blogs.wsj.com/japanrealtime/2011/03/06/the-2429-donation-that-brought-down-japans-foreign-minister/)
 1. [Cover Image](http://s.wsj.net/blogs/img/WSJ_Logo_BlackBackground_1200x630social)

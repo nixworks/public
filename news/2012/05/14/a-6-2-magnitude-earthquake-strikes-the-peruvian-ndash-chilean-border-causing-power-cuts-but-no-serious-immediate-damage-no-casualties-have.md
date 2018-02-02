@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/14/a-6-2-magnitude-earthquake-strikes-the-peruvian-ndash-chilean-border-causing-power-cuts-but-no-serious-immediate-damage-no-casualties-have.html)  [JSON](/news/2012/05/14/a-6-2-magnitude-earthquake-strikes-the-peruvian-ndash-chilean-border-causing-power-cuts-but-no-serious-immediate-damage-no-casualties-have.json)  [XML](/news/2012/05/14/a-6-2-magnitude-earthquake-strikes-the-peruvian-ndash-chilean-border-causing-power-cuts-but-no-serious-immediate-damage-no-casualties-have.xml)  
+
 ### [2012-05-14](/news/2012/05/14/index.md)
 
+##### magnitude
 # A 6.2-magnitude earthquake strikes the Peruvian&ndash;Chilean border, causing power cuts but no serious immediate damage. No casualties have been reported. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5hY6HGanb_JfypO1kOLk3sjwBtXhw?docId=CNG.33dfdf92f197b303c9a7053e17b8f902.281)
 

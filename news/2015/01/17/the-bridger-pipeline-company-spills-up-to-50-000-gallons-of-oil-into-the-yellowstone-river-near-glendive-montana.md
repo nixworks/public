@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/17/the-bridger-pipeline-company-spills-up-to-50-000-gallons-of-oil-into-the-yellowstone-river-near-glendive-montana.html)  [JSON](/news/2015/01/17/the-bridger-pipeline-company-spills-up-to-50-000-gallons-of-oil-into-the-yellowstone-river-near-glendive-montana.json)  [XML](/news/2015/01/17/the-bridger-pipeline-company-spills-up-to-50-000-gallons-of-oil-into-the-yellowstone-river-near-glendive-montana.xml)  
+
 ### [2015-01-17](/news/2015/01/17/index.md)
 
+##### oil spill
 # The Bridger Pipeline Company spills up to 50,000 gallons of oil into the Yellowstone River, near Glendive, Montana. 
 
 Montana officials say 50K gallons of oil may have spilled into picturesque river, but actual damage remains unclear
 
 
-### Source:
+### Sources:
 
 1. [CBS](http://www.cbsnews.com/news/oil-spill-in-yellowstone-river-in-montana-caught-pretty-quick/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2015/01/19/a5eda6c0-98c4-4e4e-841a-06e3ccae2324/montanayellowstoneriveristock.jpg)

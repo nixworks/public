@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/4/for-the-second-time-in-three-days-israel-carries
 
 ### [2017-12-4](/news/2017/12/4/index.md)
 
+##### Israeli intervention in the Syrian Civil War
 # For the second time in three days, Israel carries out a missile strike on military facilities near Damascus. 
 
 AT LEAST two massive explosions ripped through the Syrian capital after Israel launched three...

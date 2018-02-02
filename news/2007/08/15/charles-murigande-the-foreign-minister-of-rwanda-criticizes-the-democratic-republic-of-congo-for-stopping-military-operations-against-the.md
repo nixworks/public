@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/15/charles-murigande-the-foreign-minister-of-rwanda-criticizes-the-democratic-republic-of-congo-for-stopping-military-operations-against-the.html)  [JSON](/news/2007/08/15/charles-murigande-the-foreign-minister-of-rwanda-criticizes-the-democratic-republic-of-congo-for-stopping-military-operations-against-the.json)  [XML](/news/2007/08/15/charles-murigande-the-foreign-minister-of-rwanda-criticizes-the-democratic-republic-of-congo-for-stopping-military-operations-against-the.xml)  
+
 ### [2007-08-15](/news/2007/08/15/index.md)
 
+##### Charles Murigande
 #  Charles Murigande, the foreign minister of Rwanda, criticizes the Democratic Republic of Congo for stopping military operations against the Democratic Forces for the Liberation of Rwanda. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6947399.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/24/uruguay-s-national-emergencies-system-reports-two-people-have-died-in-flooding-from-heavy-rains-in-its-northern-provinces-and-almost-5-500.html)  [JSON](/news/2015/12/24/uruguay-s-national-emergencies-system-reports-two-people-have-died-in-flooding-from-heavy-rains-in-its-northern-provinces-and-almost-5-500.json)  [XML](/news/2015/12/24/uruguay-s-national-emergencies-system-reports-two-people-have-died-in-flooding-from-heavy-rains-in-its-northern-provinces-and-almost-5-500.xml)  
+
 ### [2015-12-24](/news/2015/12/24/index.md)
 
+##### Uruguay
 # Uruguay's National Emergencies System reports two people have died in flooding from heavy rains in its northern provinces, and almost 5,500 have been evacuated. The Uruguay River has risen close to three meters over safe levels in Paysandu, and almost four meters (13 feet) in Salto. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News Latino](http://latino.foxnews.com/latino/news/2015/12/24/almost-5500-evacuees-in-uruguay-due-to-flooding/)
 2. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=2402421&CategoryId=23620)

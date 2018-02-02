@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/13/the-malaysiakini-malaysian-news-website-is-attacked-ahead-of-elections-in-sarawak.html)  [JSON](/news/2011/04/13/the-malaysiakini-malaysian-news-website-is-attacked-ahead-of-elections-in-sarawak.json)  [XML](/news/2011/04/13/the-malaysiakini-malaysian-news-website-is-attacked-ahead-of-elections-in-sarawak.xml)  
+
 ### [2011-04-13](/news/2011/04/13/index.md)
 
+##### Malaysiakini
 # The Malaysiakini Malaysian news website is attacked ahead of elections in Sarawak. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1122500/1/.html)
 

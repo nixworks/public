@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/1/an-environmental-study-finds-that-100-million-sharks-are-killed-by-fishermen-each-year.html)  [JSON](/news/2013/03/1/an-environmental-study-finds-that-100-million-sharks-are-killed-by-fishermen-each-year.json)  [XML](/news/2013/03/1/an-environmental-study-finds-that-100-million-sharks-are-killed-by-fishermen-each-year.xml)  
+
 ### [2013-03-1](/news/2013/03/1/index.md)
 
+##### shark
 # An environmental study finds that 100 million sharks are killed by fishermen each year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [National Geographic](http://newswatch.nationalgeographic.com/2013/03/01/100-million-sharks-killed-every-year-study-shows-on-eve-of-international-conference-on-shark-protection/)
 

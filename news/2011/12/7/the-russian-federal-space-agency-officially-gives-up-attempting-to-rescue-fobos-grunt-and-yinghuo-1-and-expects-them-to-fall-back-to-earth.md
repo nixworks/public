@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/7/the-russian-federal-space-agency-officially-gives-up-attempting-to-rescue-fobos-grunt-and-yinghuo-1-and-expects-them-to-fall-back-to-earth.html)  [JSON](/news/2011/12/7/the-russian-federal-space-agency-officially-gives-up-attempting-to-rescue-fobos-grunt-and-yinghuo-1-and-expects-them-to-fall-back-to-earth.json)  [XML](/news/2011/12/7/the-russian-federal-space-agency-officially-gives-up-attempting-to-rescue-fobos-grunt-and-yinghuo-1-and-expects-them-to-fall-back-to-earth.xml)  
+
 ### [2011-12-7](/news/2011/12/7/index.md)
 
+##### Russian Federal Space Agency
 # The Russian Federal Space Agency officially gives up attempting to rescue Fobos-Grunt and Yinghuo-1, and expects them to fall back to Earth in January 2012. 
 
 The troubled Russian Phobos-Grunt spacecraft, which has been stuck in low-Earth orbit since early November, appears to be doomed, with small pieces of the wayward Mars probe already falling to Earth.
 
 
-### Source:
+### Sources:
 
 1. [Space.com](http://www.space.com/13846-phobos-grunt-russia-mars-mission-doomed.html)
 1. [Cover Image](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAxMy83MDQvb3JpZ2luYWwvcGhvYm9zLWdydW50LW5vdi0yOS0yMDExLmpwZw==)

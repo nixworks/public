@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/4/the-uk-government-is-to-launch-a-consultation-process-on-introducing-measures-requiring-internet-users-to-opt-in-if-they-wish-to-view-adult.html)  [JSON](/news/2012/05/4/the-uk-government-is-to-launch-a-consultation-process-on-introducing-measures-requiring-internet-users-to-opt-in-if-they-wish-to-view-adult.json)  [XML](/news/2012/05/4/the-uk-government-is-to-launch-a-consultation-process-on-introducing-measures-requiring-internet-users-to-opt-in-if-they-wish-to-view-adult.xml)  
+
 ### [2012-05-4](/news/2012/05/4/index.md)
 
+##### 10 Downing Street
 # The UK government is to launch a consultation process on introducing measures requiring internet users to opt in if they wish to view adult content. 
 
 The government will consult on new measures to protect children from internet pornography, including a parental opt-in policy for receiving adult content.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-17951067)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/55962000/jpg/_55962426_010597145-1.jpg)

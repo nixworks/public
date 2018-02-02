@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/11/in-the-yukon-territory-voters-re-elect-the-yukon-party-under-premier-darrell-pasloski-with-an-ndp-official-opposition.html)  [JSON](/news/2011/10/11/in-the-yukon-territory-voters-re-elect-the-yukon-party-under-premier-darrell-pasloski-with-an-ndp-official-opposition.json)  [XML](/news/2011/10/11/in-the-yukon-territory-voters-re-elect-the-yukon-party-under-premier-darrell-pasloski-with-an-ndp-official-opposition.xml)  
+
 ### [2011-10-11](/news/2011/10/11/index.md)
 
+##### Yukon
 # In the Yukon Territory voters re-elect the Yukon Party under Premier Darrell Pasloski, with an NDP official opposition. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/yukonvotes2011/)
 

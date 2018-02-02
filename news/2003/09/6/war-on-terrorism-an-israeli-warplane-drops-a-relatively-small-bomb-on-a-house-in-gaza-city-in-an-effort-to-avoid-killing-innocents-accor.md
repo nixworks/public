@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/6/war-on-terrorism-an-israeli-warplane-drops-a-relatively-small-bomb-on-a-house-in-gaza-city-in-an-effort-to-avoid-killing-innocents-accor.html)  [JSON](/news/2003/09/6/war-on-terrorism-an-israeli-warplane-drops-a-relatively-small-bomb-on-a-house-in-gaza-city-in-an-effort-to-avoid-killing-innocents-accor.json)  [XML](/news/2003/09/6/war-on-terrorism-an-israeli-warplane-drops-a-relatively-small-bomb-on-a-house-in-gaza-city-in-an-effort-to-avoid-killing-innocents-accor.xml)  
+
 ### [2003-09-6](/news/2003/09/6/index.md)
 
+##### War on Terrorism
 #  War on Terrorism: An Israeli warplane drops a relatively small bomb on a house in Gaza City (in an effort to avoid killing innocents, according to military sources who spoke to AP), lightly wounding Hamas founder Sheik Ahmed Yassin and 15 other people in an airstrike that Israeli officials confirm was an attempt to wipe out the Islamic group's top leaders as they assemble for a meeting.
 
 

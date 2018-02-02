@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/30/thai-and-cambodian-troops-exchange-gunfire-near-the-ta-krabei-temple-in-oddar-meanchey-province-marking-the-ninth-straight-day-of-border-cla.html)  [JSON](/news/2011/04/30/thai-and-cambodian-troops-exchange-gunfire-near-the-ta-krabei-temple-in-oddar-meanchey-province-marking-the-ninth-straight-day-of-border-cla.json)  [XML](/news/2011/04/30/thai-and-cambodian-troops-exchange-gunfire-near-the-ta-krabei-temple-in-oddar-meanchey-province-marking-the-ninth-straight-day-of-border-cla.xml)  
+
 ### [2011-04-30](/news/2011/04/30/index.md)
 
+##### Thailand
 # Thai and Cambodian troops exchange gunfire near the Ta Krabei temple in Oddar Meanchey Province marking the ninth straight day of border clashes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gaBBI6QdgTBEVKlzwF7iRMLUB65g?docId=CNG.375660d1c22904b19bcc3d605e38cda1.361)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-04/30/c_13852614.htm)

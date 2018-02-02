@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/18/the-puntland-autonomous-region-of-somalia-says-it-is-breaking-away-from-the-federation-until-a-legitimate-government-is-put-in-place.html)  [JSON](/news/2011/01/18/the-puntland-autonomous-region-of-somalia-says-it-is-breaking-away-from-the-federation-until-a-legitimate-government-is-put-in-place.json)  [XML](/news/2011/01/18/the-puntland-autonomous-region-of-somalia-says-it-is-breaking-away-from-the-federation-until-a-legitimate-government-is-put-in-place.xml)  
+
 ### [2011-01-18](/news/2011/01/18/index.md)
 
+##### Puntland
 # The Puntland autonomous region of Somalia says it is "breaking away" from the federation until a legitimate government is put in place. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/2011118612134110.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/18/201111863246929360_20.jpg)

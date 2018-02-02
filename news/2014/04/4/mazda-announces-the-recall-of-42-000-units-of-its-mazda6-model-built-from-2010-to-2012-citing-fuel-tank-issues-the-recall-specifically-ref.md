@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/4/mazda-announces-the-recall-of-42-000-units-of-its-mazda6-model-built-from-2010-to-2012-citing-fuel-tank-issues-the-recall-specifically-ref.html)  [JSON](/news/2014/04/4/mazda-announces-the-recall-of-42-000-units-of-its-mazda6-model-built-from-2010-to-2012-citing-fuel-tank-issues-the-recall-specifically-ref.json)  [XML](/news/2014/04/4/mazda-announces-the-recall-of-42-000-units-of-its-mazda6-model-built-from-2010-to-2012-citing-fuel-tank-issues-the-recall-specifically-ref.xml)  
+
 ### [2014-04-4](/news/2014/04/4/index.md)
 
+##### Mazda
 # Mazda announces the recall of 42,000 units of its Mazda6 model built from 2010 to 2012, citing fuel tank issues. The recall specifically refers to those with 2.5 liter engines. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [KRON](http://news.kron4.com/news/spiders-weaving-their-webs-prompt-mazda-car-recall/)
 

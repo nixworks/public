@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/4/the-new-york-yankees-defeat-the-philadelphia-phillies-7-3-in-game-6-to-win-the-2009-world-series.html)  [JSON](/news/2009/11/4/the-new-york-yankees-defeat-the-philadelphia-phillies-7-3-in-game-6-to-win-the-2009-world-series.json)  [XML](/news/2009/11/4/the-new-york-yankees-defeat-the-philadelphia-phillies-7-3-in-game-6-to-win-the-2009-world-series.xml)  
+
 ### [2009-11-4](/news/2009/11/4/index.md)
 
+##### New York Yankees
 #  The New York Yankees defeat the Philadelphia Phillies 7-3 in Game 6 to win the 2009 World Series. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5j8win7x_jGdFjEwYQYIeV_M03g6AD9BP5M6G2)
 2. [The New York Times](http://bats.blogs.nytimes.com/2009/11/04/live-analysis-world-series-game-6-phillies-at-yankees/?hp)

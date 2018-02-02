@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/10/23/the-second-round-of-the-polish-presidential-election-is-held-today-between-conservative-candidates-lech-kaczyaski-and-donald-tusk-accordi.html)  [JSON](/news/2005/10/23/the-second-round-of-the-polish-presidential-election-is-held-today-between-conservative-candidates-lech-kaczyaski-and-donald-tusk-accordi.json)  [XML](/news/2005/10/23/the-second-round-of-the-polish-presidential-election-is-held-today-between-conservative-candidates-lech-kaczyaski-and-donald-tusk-accordi.xml)  
+
 ### [2005-10-23](/news/2005/10/23/index.md)
 
+##### Polish Presidential election
 #  The second round of the Polish Presidential election is held today between conservative candidates Lech Kaczynski and Donald Tusk. According to exit polls conducted by Polish television stations, Kaczynski is the winner. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://uk.news.yahoo.com/23102005/323/poland-elects-conservative-kaczynski-president-exit-polls.html)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=axNhYnPPI47c&refer=top_world_news)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000087&sid=axNhYnPPI47c&refer=top_world_news)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/7/reform-of-the-house-of-lords-in-a-british-house-of-commons-vote-a-majority-of-mps-express-support-for-a-fully-elected-house-of-lords-a-s.html)  [JSON](/news/2007/03/7/reform-of-the-house-of-lords-in-a-british-house-of-commons-vote-a-majority-of-mps-express-support-for-a-fully-elected-house-of-lords-a-s.json)  [XML](/news/2007/03/7/reform-of-the-house-of-lords-in-a-british-house-of-commons-vote-a-majority-of-mps-express-support-for-a-fully-elected-house-of-lords-a-s.xml)  
+
 ### [2007-03-7](/news/2007/03/7/index.md)
 
+##### Reform of the House of Lords
 #  Reform of the House of Lords: In a British House of Commons vote, a majority of MPs express support for a fully elected House of Lords. A smaller majority support an 80% elected, 20% appointed chamber. Other options with a lower elected component are rejected. The proposals were put forward by Leader of the House of Commons Jack Straw, who describes the votes as "a historic step forward". 
 
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 
-### Source:
+### Sources:
 
 1. [AP via Boston Globe](http://www.boston.com/news/world/europe/articles/2007/03/07/lawmakers_vote_to_reform_house_of_lords/)
 2. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/6420965.stm)

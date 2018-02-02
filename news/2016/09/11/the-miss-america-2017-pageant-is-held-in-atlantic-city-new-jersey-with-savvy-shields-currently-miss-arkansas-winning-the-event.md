@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/11/the-miss-america-2017-pageant-is-held-in-atlant
 
 ### [2016-09-11](/news/2016/09/11/index.md)
 
+##### Miss America 2017
 # The Miss America 2017 pageant is held in Atlantic City, New Jersey, with Savvy Shields, currently Miss Arkansas, winning the event. 
 
 Miss Arkansas Savvy Shields won the Miss America pageant Sunday night in Atlantic City.

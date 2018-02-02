@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/02/17/cardinal-walter-kasper-head-of-the-pontifical-council-for-the-promotion-of-christian-unity-a-top-vatican-official-arrives-in-moscow-for-s.html)  [JSON](/news/2004/02/17/cardinal-walter-kasper-head-of-the-pontifical-council-for-the-promotion-of-christian-unity-a-top-vatican-official-arrives-in-moscow-for-s.json)  [XML](/news/2004/02/17/cardinal-walter-kasper-head-of-the-pontifical-council-for-the-promotion-of-christian-unity-a-top-vatican-official-arrives-in-moscow-for-s.xml)  
+
 ### [2004-02-17](/news/2004/02/17/index.md)
 
+##### Roman Curia
 #  Cardinal Walter Kasper, head of the Pontifical Council for the Promotion of Christian Unity, a top Vatican official arrives in Moscow for sensitive talks with the Russian Orthodox hierarchy, which accuses the Catholic Church of aggressive proselytizing in traditionally Orthodox lands. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/aponline/international/AP-Russia-Vatican.html)
+1. [NYT](https://www.nytimes.com/aponline/international/AP-Russia-Vatican.html)
 2. [Russian Orthodox Church](http://www.mospat.ru/text/e--news/id/6388.html)
 
 ### Related:

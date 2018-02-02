@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/10/24/the-tokyo-stock-exchange-announces-that-it-is-asking-for-more-disclosure-from-the-embattled-japanese-camera-and-imaging-equipment-manufactur.html)  [JSON](/news/2011/10/24/the-tokyo-stock-exchange-announces-that-it-is-asking-for-more-disclosure-from-the-embattled-japanese-camera-and-imaging-equipment-manufactur.json)  [XML](/news/2011/10/24/the-tokyo-stock-exchange-announces-that-it-is-asking-for-more-disclosure-from-the-embattled-japanese-camera-and-imaging-equipment-manufactur.xml)  
+
 ### [2011-10-24](/news/2011/10/24/index.md)
 
+##### Tokyo Stock Exchange
 # The Tokyo Stock Exchange announces that it is asking for more disclosure from the embattled Japanese camera and imaging equipment manufacturer Olympus, which is facing a stock price collapse following the dismissal of its CEO, Michael Woodford. The TSE cannot at this time confirm violations of any listing requirements by Olympus. 
 
 The Tokyo Stock Exchange said onMonday it was asking Olympus to disclose moreinformation to shareholders as interest mounts in what actionthe bourse might take over an escalating governance scandal atthe camera and endoscope maker.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/10/24/olympus-exchange-idUSL3E7LO0R120111024)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/10/24/olympus-exchange-idUSL3E7LO0R120111024)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

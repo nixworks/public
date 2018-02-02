@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/5/an-armed-standoff-between-a-gunman-and-police-leaves-three-hostages-and-the-perpetrator-dead-in-an-aurora-colorado-home.html)  [JSON](/news/2013/01/5/an-armed-standoff-between-a-gunman-and-police-leaves-three-hostages-and-the-perpetrator-dead-in-an-aurora-colorado-home.json)  [XML](/news/2013/01/5/an-armed-standoff-between-a-gunman-and-police-leaves-three-hostages-and-the-perpetrator-dead-in-an-aurora-colorado-home.xml)  
+
 ### [2013-01-5](/news/2013/01/5/index.md)
 
+##### Aurora, Colorado
 # An armed standoff between a gunman and police leaves three hostages and the perpetrator dead in an Aurora, Colorado home. 
 
 Four people, including a gunman, are found dead following a shooting incident and stand-off with police in Aurora, in the US state of Colorado.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-20923201)
 2. [CNN](http://www.cnn.com/2013/01/05/justice/colorado-aurora-standoff)

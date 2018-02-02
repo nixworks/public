@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/8/the-earth-has-lost-a-tenth-of-its-wilderness-in-
 
 ### [2016-09-8](/news/2016/09/8/index.md)
 
+##### Earth
 # The Earth has lost a tenth of its wilderness in the last two decades. 
 
 

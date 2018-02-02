@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/05/21/arsenal-won-the-english-fa-cup-in-the-first-final-to-go-to-a-penalty-shootout-arsenal-beat-manchester-united-5-4-on-spot-kicks-after-120.html)  [JSON](/news/2005/05/21/arsenal-won-the-english-fa-cup-in-the-first-final-to-go-to-a-penalty-shootout-arsenal-beat-manchester-united-5-4-on-spot-kicks-after-120.json)  [XML](/news/2005/05/21/arsenal-won-the-english-fa-cup-in-the-first-final-to-go-to-a-penalty-shootout-arsenal-beat-manchester-united-5-4-on-spot-kicks-after-120.xml)  
+
 ### [2005-05-21](/news/2005/05/21/index.md)
 
+##### Arsenal
 #  Arsenal won the English FA Cup, in the first final to go to a penalty shootout; Arsenal beat Manchester United 5-4 on spot-kicks after 120 minutes of a goalless draw at the Millennium Stadium in Cardiff.
 
 

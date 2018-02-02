@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/9/guinea-s-presidential-run-off-is-postponed-due-to-allegations-of-fraud.html)  [JSON](/news/2010/07/9/guinea-s-presidential-run-off-is-postponed-due-to-allegations-of-fraud.json)  [XML](/news/2010/07/9/guinea-s-presidential-run-off-is-postponed-due-to-allegations-of-fraud.xml)  
+
 ### [2010-07-9](/news/2010/07/9/index.md)
 
+##### Guinea
 # Guinea's presidential run-off is postponed due to allegations of fraud. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10577834.stm)
 1. [Cover Image](http://news.bbcimg.co.uk/media/images/48309000/jpg/_48309405_009684213-1.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/2/after-her-appointment-by-prime-minister-of-canad
 
 ### [2017-10-2](/news/2017/10/2/index.md)
 
+##### Politics of Canada
 # After her appointment by Prime Minister of Canada Justin Trudeau, former astronaut Julie Payette, in an installment ceremony, becomes the 29th Governor General of Canada. 
 
 

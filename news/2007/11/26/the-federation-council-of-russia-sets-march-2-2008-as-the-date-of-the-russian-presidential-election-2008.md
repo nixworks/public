@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/26/the-federation-council-of-russia-sets-march-2-2008-as-the-date-of-the-russian-presidential-election-2008.html)  [JSON](/news/2007/11/26/the-federation-council-of-russia-sets-march-2-2008-as-the-date-of-the-russian-presidential-election-2008.json)  [XML](/news/2007/11/26/the-federation-council-of-russia-sets-march-2-2008-as-the-date-of-the-russian-presidential-election-2008.xml)  
+
 ### [2007-11-26](/news/2007/11/26/index.md)
 
+##### Federation Council
 #  The Federation Council of Russia sets March 2, 2008 as the date of the Russian presidential election, 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7112642.stm)
 
@@ -15,4 +19,4 @@
 2. [ The Federation Council of Russia, the upper house of the Federal Assembly, urges the President to recognise the independence of Georgia's breakaway regions of Abkhazia and South Ossetia. ](/news/2008/08/25/the-federation-council-of-russia-the-upper-house-of-the-federal-assembly-urges-the-president-to-recognise-the-independence-of-georgia-s-b.md) _Context: Federation Council, Russia_
 3. [ Russian voters go to the polls to decide the country's next president. Dmitry Medvedev of the United Russia wins the election and is expected to succeed Vladimir Putin as the President of Russia. ](/news/2008/03/2/russian-voters-go-to-the-polls-to-decide-the-country-s-next-president-dmitry-medvedev-of-the-united-russia-wins-the-election-and-is-expect.md) _Context: Russia, go to the polls_
 4. [ Russian President Vladimir Putin announces at a party meeting that he will support Dmitry Medvedev as his successor in the March 2008 presidential election. ](/news/2007/12/10/russian-president-vladimir-putin-announces-at-a-party-meeting-that-he-will-support-dmitry-medvedev-as-his-successor-in-the-march-2008-presi.md) _Context: Russia, go to the polls_
-5. [A fire at the Sindika Trade Center, a construction materials shopping center in the northwestern edge of Moscow, Russia, forces the evacuation of at least 3000 people. ](/news/2017/10/9/a-fire-at-the-sindika-trade-center-a-construction-materials-shopping-center-in-the-northwestern-edge-of-moscow-russia-forces-the-evacuati.md) _Context: Russia_
+5. [Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was.md) _Context: Russia_

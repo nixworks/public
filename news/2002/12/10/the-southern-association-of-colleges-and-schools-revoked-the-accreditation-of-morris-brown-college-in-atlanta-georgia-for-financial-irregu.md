@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/10/the-southern-association-of-colleges-and-schools-revoked-the-accreditation-of-morris-brown-college-in-atlanta-georgia-for-financial-irregu.html)  [JSON](/news/2002/12/10/the-southern-association-of-colleges-and-schools-revoked-the-accreditation-of-morris-brown-college-in-atlanta-georgia-for-financial-irregu.json)  [XML](/news/2002/12/10/the-southern-association-of-colleges-and-schools-revoked-the-accreditation-of-morris-brown-college-in-atlanta-georgia-for-financial-irregu.xml)  
+
 ### [2002-12-10](/news/2002/12/10/index.md)
 
+##### Morris Brown College
 # The Southern Association of Colleges and Schools revoked the accreditation of Morris Brown College in Atlanta, Georgia, for financial irregularities.
 
 

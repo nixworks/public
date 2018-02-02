@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2005/02/19/police-service-of-northern-ireland-psni-confirm-that-gbp50-000-in-unused-northern-banknotes-found-at-newforge-country-club-a-facility-fo.html)  [JSON](/news/2005/02/19/police-service-of-northern-ireland-psni-confirm-that-gbp50-000-in-unused-northern-banknotes-found-at-newforge-country-club-a-facility-fo.json)  [XML](/news/2005/02/19/police-service-of-northern-ireland-psni-confirm-that-gbp50-000-in-unused-northern-banknotes-found-at-newforge-country-club-a-facility-fo.xml)  
+
 ### [2005-02-19](/news/2005/02/19/index.md)
 
+##### Police Service of Northern Ireland
 #  Police Service of Northern Ireland (PSNI) confirm that GBP50,000 in unused Northern Banknotes found at Newforge Country Club, a facility for off-duty and retired police officers, was part of the GBP26 million stolen in the bank robbery. Police still consider it a diversion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/4280713.stm)
 2. [Independent](http://news.independent.co.uk/uk/ulster/story.jsp?story=612525)
+
+### Changes:
+
+1. [ Northern Bank robbery investigation: Police Service of Northern Ireland (PSNI) confirm that 50,000 in unused Northern Banknotes found at Newforge Country Club, a facility for off-duty and retired police officers, was part of the 26 million stolen in the bank robbery. Police still consider it a diversion. ](/news/2005/02/19/northern-bank-robbery-investigation-p-police-service-of-northern-ireland-psni-confirm-that-ps50-000-in-unused-northern-banknotes-found-at.md) _2017-08-25 03:15:41 (First version)_
+2. [ Northern Bank robbery investigation:: Police Service of Northern Ireland (PSNI) confirm that GBP50,000 in unused Northern Banknotes found at Newforge Country Club, a facility for off-duty and retired police officers, was part of the GBP26 million stolen in the bank robbery. Police still consider it a diversion. ](/news/2005/02/19/northern-bank-robbery-investigation-police-service-of-northern-ireland-psni-confirm-that-gbp50-000-in-unused-northern-banknotes-found-a.md) _2017-08-27 03:15:42 (Update)_
+2. [ Police Service of Northern Ireland (PSNI) confirm that GBP50,000 in unused Northern Banknotes found at Newforge Country Club, a facility for off-duty and retired police officers, was part of the GBP26 million stolen in the bank robbery. Police still consider it a diversion. ](/news/2005/02/19/police-service-of-northern-ireland-psni-confirm-that-gbp50-000-in-unused-northern-banknotes-found-at-newforge-country-club-a-facility-fo.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@
 3. [Police Service of Northern Ireland received a phone call in the early hours allegedly from a dissident republican group claiming to have planted an explosive in a Curryneirin neighborhood outside Derry, Northern Ireland. Police evacuated 12 homes before finding a device, describing it as "'It's a bomb and designed to kill".](/news/2015/02/17/police-service-of-northern-ireland-received-a-phone-call-in-the-early-hours-allegedly-from-a-dissident-republican-group-claiming-to-have-pla.md) _Context: Police Service of Northern Ireland_
 4. [Northern Ireland's First Minister Peter Robinson accuses Sinn Fin of attempting to blackmail the Police Service of Northern Ireland over the arrest of Gerry Adams. ](/news/2014/05/4/northern-ireland-s-first-minister-peter-robinson-accuses-sinn-fein-of-attempting-to-blackmail-the-police-service-of-northern-ireland-over-th.md) _Context: Police Service of Northern Ireland_
 5. [The Police Service of Northern Ireland says that an incident at the home of one of its officers in Bangor, County Down, on Wednesday night was an attempt to murder him. ](/news/2012/12/22/the-police-service-of-northern-ireland-says-that-an-incident-at-the-home-of-one-of-its-officers-in-bangor-county-down-on-wednesday-night-w.md) _Context: Police Service of Northern Ireland_
-
-### Changes:
-
-1. [ Northern Bank robbery investigation: Police Service of Northern Ireland (PSNI) confirm that 50,000 in unused Northern Banknotes found at Newforge Country Club, a facility for off-duty and retired police officers, was part of the 26 million stolen in the bank robbery. Police still consider it a diversion. ](/news/2005/02/19/northern-bank-robbery-investigation-p-police-service-of-northern-ireland-psni-confirm-that-ps50-000-in-unused-northern-banknotes-found-at.md) _2017-08-25 03:15:41 (First version)_
-2. [ Northern Bank robbery investigation:: Police Service of Northern Ireland (PSNI) confirm that GBP50,000 in unused Northern Banknotes found at Newforge Country Club, a facility for off-duty and retired police officers, was part of the GBP26 million stolen in the bank robbery. Police still consider it a diversion. ](/news/2005/02/19/northern-bank-robbery-investigation-police-service-of-northern-ireland-psni-confirm-that-gbp50-000-in-unused-northern-banknotes-found-a.md) _2017-08-27 03:15:42 (Update)_
-2. [ Police Service of Northern Ireland (PSNI) confirm that GBP50,000 in unused Northern Banknotes found at Newforge Country Club, a facility for off-duty and retired police officers, was part of the GBP26 million stolen in the bank robbery. Police still consider it a diversion. ](/news/2005/02/19/police-service-of-northern-ireland-psni-confirm-that-gbp50-000-in-unused-northern-banknotes-found-at-newforge-country-club-a-facility-fo.md) _(Current version)_

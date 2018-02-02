@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/27/the-government-of-egypt-announces-that-the-egyptian-stock-market-will-reopen-on-tuesday.html)  [JSON](/news/2011/02/27/the-government-of-egypt-announces-that-the-egyptian-stock-market-will-reopen-on-tuesday.json)  [XML](/news/2011/02/27/the-government-of-egypt-announces-that-the-egyptian-stock-market-will-reopen-on-tuesday.xml)  
+
 ### [2011-02-27](/news/2011/02/27/index.md)
 
+##### Government of Egypt
 # The Government of Egypt announces that the Egyptian stock market will reopen on Tuesday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New York Times](http://dealbook.nytimes.com/2011/02/27/egyptian-stock-market-set-to-reopen-tuesday/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/26/chinese-premier-wen-jiabao-asks-citizens-to-voice-their-criticisms-of-the-government-and-speak-out-about-injustice-during-a-visit-to-the-cou.html)  [JSON](/news/2011/01/26/chinese-premier-wen-jiabao-asks-citizens-to-voice-their-criticisms-of-the-government-and-speak-out-about-injustice-during-a-visit-to-the-cou.json)  [XML](/news/2011/01/26/chinese-premier-wen-jiabao-asks-citizens-to-voice-their-criticisms-of-the-government-and-speak-out-about-injustice-during-a-visit-to-the-cou.xml)  
+
 ### [2011-01-26](/news/2011/01/26/index.md)
 
+##### China
 # Chinese Premier Wen Jiabao asks citizens to voice their criticisms of the government and speak out about injustice during a visit to the country's highest petition bureau. 
 
 Meeting with farmers and workers seen as a rare public show of concern about discontent with the government.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/01/201112642958995261.html)
 2. [Sify India](http://www.sify.com/news/for-first-time-chinese-pm-asks-citizens-to-criticize-and-supervise-the-government-news-international-lb0napjhdbe.html)

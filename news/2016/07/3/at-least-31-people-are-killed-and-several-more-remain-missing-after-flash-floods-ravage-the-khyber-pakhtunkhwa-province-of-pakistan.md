@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/3/at-least-31-people-are-killed-and-several-more-r
 
 ### [2016-07-3](/news/2016/07/3/index.md)
 
+##### Khyber Pakhtunkhwa
 # At least 31 people are killed and several more remain missing after flash floods ravage the Khyber Pakhtunkhwa province of Pakistan. 
 
 Several others remain missing after torrential rain causes havoc in the Khyber Pakhtunkhwa province.

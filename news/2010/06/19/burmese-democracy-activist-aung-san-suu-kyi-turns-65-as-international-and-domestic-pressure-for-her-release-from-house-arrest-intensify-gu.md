@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/06/19/burmese-democracy-activist-aung-san-suu-kyi-turns-65-as-international-and-domestic-pressure-for-her-release-from-house-arrest-intensify-gu.html)  [JSON](/news/2010/06/19/burmese-democracy-activist-aung-san-suu-kyi-turns-65-as-international-and-domestic-pressure-for-her-release-from-house-arrest-intensify-gu.json)  [XML](/news/2010/06/19/burmese-democracy-activist-aung-san-suu-kyi-turns-65-as-international-and-domestic-pressure-for-her-release-from-house-arrest-intensify-gu.xml)  
+
 ### [2010-06-19](/news/2010/06/19/index.md)
 
+##### Burma
 # Burmese Democracy activist Aung San Suu Kyi turns 65, as international and domestic pressure for her release from house arrest intensify. Guards surrounding her home allow her to receive a birthday cake and a bouquet of flowers from political supporters. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Yahoo! News](http://news.yahoo.com/s/ap/20100620/ap_on_re_as/as_myanmar_suu_kyi_at65)
+1. [Yahoo! News](https://news.yahoo.com/s/ap/20100620/ap_on_re_as/as_myanmar_suu_kyi_at65)
 
 ### Related:
 

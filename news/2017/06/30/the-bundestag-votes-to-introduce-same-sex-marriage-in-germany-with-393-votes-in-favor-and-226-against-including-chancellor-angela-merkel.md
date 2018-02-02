@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/30/the-bundestag-votes-to-introduce-same-sex-marri
 
 ### [2017-06-30](/news/2017/06/30/index.md)
 
+##### Recognition of same-sex unions in Germany
 # The Bundestag votes to introduce same-sex marriage in Germany. With 393 votes in favor and 226 against, including Chancellor Angela Merkel, the law is expected to enter into force before the end of the year. 
 
 MPs pass bill granting gay and lesbian couples full rights, including on adoption
@@ -23,8 +24,8 @@ MPs pass bill granting gay and lesbian couples full rights, including on adoptio
 
 ### Related:
 
-1. [Voters in Germany go to the polls to elect members of the Bundestag. Chancellor Angela Merkel of the Christian Democratic Union is widely expected to win a fourth term in office. ](/news/2017/09/24/voters-in-germany-go-to-the-polls-to-elect-members-of-the-bundestag-chancellor-angela-merkel-of-the-christian-democratic-union-is-widely-ex.md) _Context: Angela Merkel, Bundestag, Germany_
+1. [Voters in Germany go to the polls to elect members of the Bundestag. Chancellor Angela Merkel of the Christian Democratic Union is widely expected to win a fourth term in office. ](/news/2017/09/24/voters-in-germany-go-to-the-polls-to-elect-members-of-the-bundestag-chancellor-angela-merkel-of-the-christian-democratic-union-is-widely-ex.md) _Context: Angela Merkel, Bundestag, German_
 2. [German same-sex couples may be able to marry after Chancellor Angela Merkel drops her opposition for a parliamentary vote. ](/news/2017/06/29/german-same-sex-couples-may-be-able-to-marry-after-chancellor-angela-merkel-drops-her-opposition-for-a-parliamentary-vote.md) _Context: Angela Merkel, Recognition of same-sex unions in Germany, same-sex marriage_
-3. [White House National Trade Council director Peter Navarro says Germany exploits other countries with a "grossly undervalued" euro. German Chancellor Angela Merkel rejects the allegation. ](/news/2017/01/31/white-house-national-trade-council-director-peter-navarro-says-germany-exploits-other-countries-with-a-grossly-undervalued-euro-german-ch.md) _Context: Angela Merkel, Germany_
-4. [German Chancellor Angela Merkel defends her stance regarding the European migrant crisis despite her party losing in the key election. ](/news/2016/09/6/german-chancellor-angela-merkel-defends-her-stance-regarding-the-european-migrant-crisis-despite-her-party-losing-in-the-key-election.md) _Context: Angela Merkel, Germany_
-5. [The German Bundestag passes a resolution classifying the Ottoman Empire's killing of Armenians in 1915 as genocide, provoking a furious reaction in Turkey. ](/news/2016/06/2/the-german-bundestag-passes-a-resolution-classifying-the-ottoman-empire-s-killing-of-armenians-in-1915-as-genocide-provoking-a-furious-reac.md) _Context: Bundestag, Germany_
+3. [White House National Trade Council director Peter Navarro says Germany exploits other countries with a "grossly undervalued" euro. German Chancellor Angela Merkel rejects the allegation. ](/news/2017/01/31/white-house-national-trade-council-director-peter-navarro-says-germany-exploits-other-countries-with-a-grossly-undervalued-euro-german-ch.md) _Context: Angela Merkel, German_
+4. [German Chancellor Angela Merkel defends her stance regarding the European migrant crisis despite her party losing in the key election. ](/news/2016/09/6/german-chancellor-angela-merkel-defends-her-stance-regarding-the-european-migrant-crisis-despite-her-party-losing-in-the-key-election.md) _Context: Angela Merkel, German_
+5. [The German Bundestag passes a resolution classifying the Ottoman Empire's killing of Armenians in 1915 as genocide, provoking a furious reaction in Turkey. ](/news/2016/06/2/the-german-bundestag-passes-a-resolution-classifying-the-ottoman-empire-s-killing-of-armenians-in-1915-as-genocide-provoking-a-furious-reac.md) _Context: Bundestag, German_

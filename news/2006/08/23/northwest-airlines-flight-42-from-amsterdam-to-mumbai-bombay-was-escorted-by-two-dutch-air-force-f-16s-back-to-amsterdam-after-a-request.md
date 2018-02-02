@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/23/northwest-airlines-flight-42-from-amsterdam-to-mumbai-bombay-was-escorted-by-two-dutch-air-force-f-16s-back-to-amsterdam-after-a-request.html)  [JSON](/news/2006/08/23/northwest-airlines-flight-42-from-amsterdam-to-mumbai-bombay-was-escorted-by-two-dutch-air-force-f-16s-back-to-amsterdam-after-a-request.json)  [XML](/news/2006/08/23/northwest-airlines-flight-42-from-amsterdam-to-mumbai-bombay-was-escorted-by-two-dutch-air-force-f-16s-back-to-amsterdam-after-a-request.xml)  
+
 ### [2006-08-23](/news/2006/08/23/index.md)
 
+##### Northwest Airlines
 #  Northwest Airlines Flight 42 from Amsterdam to Mumbai (Bombay) was escorted by two Dutch Air Force F-16s back to Amsterdam after a request from the pilot. Twelve people have been detained. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/WORLD/europe/08/23/schiphol/index.html)
 

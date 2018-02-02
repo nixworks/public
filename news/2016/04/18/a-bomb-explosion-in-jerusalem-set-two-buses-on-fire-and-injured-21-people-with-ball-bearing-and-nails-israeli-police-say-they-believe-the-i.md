@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/18/a-bomb-explosion-in-jerusalem-set-two-buses-on-
 
 ### [2016-04-18](/news/2016/04/18/index.md)
 
+##### Israeli-Palestinian conflict (2015-present)
 # A bomb explosion in Jerusalem set two buses on fire and injured 21 people with ball bearing and nails. Israeli police say they believe the incident was a suicide bombing but no group has claimed responsibility. 
 
 Police have confirmed a small bomb exploded on a bus in Jerusalem on Monday during the evening rush hour. Eye witnesses has said an empty bus caught

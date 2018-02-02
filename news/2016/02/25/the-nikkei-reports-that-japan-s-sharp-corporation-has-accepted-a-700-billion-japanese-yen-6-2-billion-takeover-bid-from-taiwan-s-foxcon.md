@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/25/the-nikkei-reports-that-japan-s-sharp-corporati
 
 ### [2016-02-25](/news/2016/02/25/index.md)
 
+##### The Nikkei
 # "The Nikkei" reports that Japan's Sharp Corporation has accepted a 700 billion Japanese yen ($6.2 billion) takeover bid from Taiwan's Foxconn Technology Group. 
 
 Sharp Corp. agreed to a 700 billion yen ($6.2 billion) rescue deal from Taiwan’s Foxconn Technology Group rather than a competing offer from a Japanese government-backed fund, the Nikkei reported Thursday.

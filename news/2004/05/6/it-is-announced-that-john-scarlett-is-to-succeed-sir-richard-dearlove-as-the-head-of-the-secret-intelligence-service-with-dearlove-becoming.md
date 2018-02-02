@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/05/6/it-is-announced-that-john-scarlett-is-to-succeed-sir-richard-dearlove-as-the-head-of-the-secret-intelligence-service-with-dearlove-becoming.html)  [JSON](/news/2004/05/6/it-is-announced-that-john-scarlett-is-to-succeed-sir-richard-dearlove-as-the-head-of-the-secret-intelligence-service-with-dearlove-becoming.json)  [XML](/news/2004/05/6/it-is-announced-that-john-scarlett-is-to-succeed-sir-richard-dearlove-as-the-head-of-the-secret-intelligence-service-with-dearlove-becoming.xml)  
+
 ### [2004-05-6](/news/2004/05/6/index.md)
 
+##### John Scarlett
 #  It is announced that John Scarlett is to succeed Sir Richard Dearlove as the head of the Secret Intelligence Service with Dearlove becoming master of Pembroke College at Cambridge University. Scarlett is the first head of the SIS ever to have a current photograph published.
 
 

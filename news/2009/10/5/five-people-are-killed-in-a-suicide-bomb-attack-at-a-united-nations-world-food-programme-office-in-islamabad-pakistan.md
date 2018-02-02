@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/10/5/five-people-are-killed-in-a-suicide-bomb-attack-at-a-united-nations-world-food-programme-office-in-islamabad-pakistan.html)  [JSON](/news/2009/10/5/five-people-are-killed-in-a-suicide-bomb-attack-at-a-united-nations-world-food-programme-office-in-islamabad-pakistan.json)  [XML](/news/2009/10/5/five-people-are-killed-in-a-suicide-bomb-attack-at-a-united-nations-world-food-programme-office-in-islamabad-pakistan.xml)  
+
 ### [2009-10-5](/news/2009/10/5/index.md)
 
+##### killed
 #  Five people are killed in a suicide bomb attack at a United Nations World Food Programme office in Islamabad, Pakistan. 
 
 An explosion apparently caused by a suicide bomber in the lobby of the World Food Program office in Islamabad killed at least five people.
 
 
-### Source:
+### Sources:
 
 1. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=2009\10\06\story_6-10-2009_pg1_6)
-2. [The New York Times](http://www.nytimes.com/2009/10/06/world/asia/06pstan.html)
+2. [The New York Times](https://www.nytimes.com/2009/10/06/world/asia/06pstan.html)
 2. [Cover Image](https://static01.nyt.com/images/2009/10/05/world/05pstan-75.jpg)
 
 ### Related:

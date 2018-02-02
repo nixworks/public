@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/27/prime-minister-gordon-brown-and-taoiseach-brian-cowen-leave-northern-ireland-after-three-days-spent-discussing-its-future.html)  [JSON](/news/2010/01/27/prime-minister-gordon-brown-and-taoiseach-brian-cowen-leave-northern-ireland-after-three-days-spent-discussing-its-future.json)  [XML](/news/2010/01/27/prime-minister-gordon-brown-and-taoiseach-brian-cowen-leave-northern-ireland-after-three-days-spent-discussing-its-future.xml)  
+
 ### [2010-01-27](/news/2010/01/27/index.md)
 
+##### Prime Minister
 # Prime Minister Gordon Brown and Taoiseach Brian Cowen leave Northern Ireland after three days spent discussing its future. 
 
 Taoiseach Brian Cowen and British Prime Minister Gordon Brown have left Northern Ireland with the future of the power sharing assembly still in grave doubt.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8483189.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0127/northpolitics.html)

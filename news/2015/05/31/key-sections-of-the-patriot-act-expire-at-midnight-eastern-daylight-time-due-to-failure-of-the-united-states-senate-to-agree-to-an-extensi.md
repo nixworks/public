@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/05/31/key-sections-of-the-patriot-act-expire-at-midnight-eastern-daylight-time-due-to-failure-of-the-united-states-senate-to-agree-to-an-extensi.html)  [JSON](/news/2015/05/31/key-sections-of-the-patriot-act-expire-at-midnight-eastern-daylight-time-due-to-failure-of-the-united-states-senate-to-agree-to-an-extensi.json)  [XML](/news/2015/05/31/key-sections-of-the-patriot-act-expire-at-midnight-eastern-daylight-time-due-to-failure-of-the-united-states-senate-to-agree-to-an-extensi.xml)  
+
 ### [2015-05-31](/news/2015/05/31/index.md)
 
+##### Patriot Act
 # Key sections of the Patriot Act expire at midnight (Eastern Daylight Time) due to failure of the United States Senate to agree to an extension. It is highly likely that USA Freedom Act will be passed soon, but the bulk collection of domestic telephone data by the National Security Agency is expected to end. 
 
-WASHINGTON — Key sections of the Patriot Act anti-terrorism law will expire at midnight Sunday because the Senate was unable to reach agreement to speed up passage of a bipartisan compromise.
 
 
-### Source:
+
+### Sources:
 
 1. [Time](http://time.com/3902493/patriot-act-vote/)
-2. [USA Today](http://www.usatoday.com/story/news/nation/2015/05/31/nsa-cia-data-collection/28259481/)
+2. [USA Today](https://www.usatoday.com/story/news/nation/2015/05/31/nsa-cia-data-collection/28259481/)
 2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

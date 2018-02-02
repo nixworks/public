@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/29/seanad-aireann-ireland-s-upper-house-passes-the-significant-finance-bill-effectively-imposing-harsh-austerity-measures-on-the-irish-publ.html)  [JSON](/news/2011/01/29/seanad-aireann-ireland-s-upper-house-passes-the-significant-finance-bill-effectively-imposing-harsh-austerity-measures-on-the-irish-publ.json)  [XML](/news/2011/01/29/seanad-aireann-ireland-s-upper-house-passes-the-significant-finance-bill-effectively-imposing-harsh-austerity-measures-on-the-irish-publ.xml)  
+
 ### [2011-01-29](/news/2011/01/29/index.md)
 
+##### Seanad Eireann
 # Seanad Eireann, Ireland's upper house, passes the significant Finance Bill, effectively imposing harsh austerity measures on the Irish public. It is the last act carried out by the government before a general election is called. 
 
 The Finance Bill will not go to the D&aacute;il tonight after the Seanad passed the Bill by 30 votes to 20 without accepting any Opposition&hellip;
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-12316883)
 2. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/finance-bill-passes-final-hurdle-491369.html)

@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2015/11/5/myanmar-opposition-leader-and-nobel-laureate-aung-san-suu-kyi-says-she-would-be-above-the-president-if-her-national-league-for-democracy-p.html)  [JSON](/news/2015/11/5/myanmar-opposition-leader-and-nobel-laureate-aung-san-suu-kyi-says-she-would-be-above-the-president-if-her-national-league-for-democracy-p.json)  [XML](/news/2015/11/5/myanmar-opposition-leader-and-nobel-laureate-aung-san-suu-kyi-says-she-would-be-above-the-president-if-her-national-league-for-democracy-p.xml)  
+
 ### [2015-11-5](/news/2015/11/5/index.md)
 
+##### Myanmar general election, 2015
 # Myanmar opposition leader and Nobel Laureate Aung San Suu Kyi says she would be "above the president" if her National League for Democracy party (NLD) gets the expected win in the Sunday, November 8, 2015, election. The 2008 constitution, drafted by the military without NLD participation, bars her from becoming President. 
 
 Myanmar opposition leader Aung San Suu Kyi said on Thursday she would be &quot;above the president&quot; if her party wins a historic election on Nov. 8, defying a constitutional ban on becoming president herself.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/05/us-myanmar-election-idUSKCN0SU0AR20151105#V1RhmsAzSFIRFzvW.97)
+1. [Reuters](https://www.reuters.com/article/2015/11/05/us-myanmar-election-idUSKCN0SU0AR20151105#V1RhmsAzSFIRFzvW.97)
 2. [Time](http://time.com/4101057/aung-san-suu-kyi-burma-myanmar-elections-nld/)
-2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151105&t=2&i=1092448567&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA404W)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20151105&t=2&i=1092448567&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA404W)
+
+### Changes:
+
+1. [Myanmar general election, 2015: Myanmar opposition leader and Nobel Laureate Aung San Suu Kyi says she would be "above the president" if her National League for Democracy party (NLD) gets the expected win in the Sunday, November 8, 2015, election. The 2008 constitution, drafted by the military without NLD participation, bars her from becoming President. ](/news/2015/11/5/myanmar-general-election-2015-myanmar-opposition-leader-and-nobel-laureate-aung-san-suu-kyi-says-she-would-be-above-the-president-if-her.md) _2017-08-27 03:43:41 (First version)_
+1. [Myanmar opposition leader and Nobel Laureate Aung San Suu Kyi says she would be "above the president" if her National League for Democracy party (NLD) gets the expected win in the Sunday, November 8, 2015, election. The 2008 constitution, drafted by the military without NLD participation, bars her from becoming President. ](/news/2015/11/5/myanmar-opposition-leader-and-nobel-laureate-aung-san-suu-kyi-says-she-would-be-above-the-president-if-her-national-league-for-democracy-p.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ Myanmar opposition leader Aung San Suu Kyi said on Thursday she would be &quot;a
 3. [Myanmar president Thein Sein says his government and the military, which gave up power only five years ago, will respect the results of Sunday's historic elections that are expected to be won by opposition leader Aung San Suu Kyi's NLD party. ](/news/2015/11/7/myanmar-president-thein-sein-says-his-government-and-the-military-which-gave-up-power-only-five-years-ago-will-respect-the-results-of-sund.md) _Context: Aung San Suu Kyi, Myanmar general election, 2015, Myanmar's president's office, National League for Democracy_
 4. [With 45 percent of the Pyithu Hluttaw (House of Representatives) results announced from Sunday's election, Aung San Suu Kyi's National League for Democracy (NLD) moves closer to an absolute majority in the country's parliament, winning over 90 percent (135 of 149 seats) in the country's lower house. The NLD also has taken over 85 percent in the upper house and regional assemblies. The NLD needs to win more than two-thirds of seats that were contested in parliament to form Myanmar's first democratically elected government since the early 1960s. ](/news/2015/11/11/with-45-percent-of-the-pyithu-hluttaw-house-of-representatives-results-announced-from-sunday-s-election-aung-san-suu-kyi-s-national-leagu.md) _Context: Aung San Suu Kyi, Myanmar, Myanmar general election, 2015, National League for Democracy_
 5. [Malaysian Prime Minister Najib Razak leads a protest rally against the persecution of Myanmar's Muslim Rohingya minority in the predominately Buddhist country, and calls on Myanmar State Counsellor Aung San Suu Kyi and the United Nations to address the Rohingya's plight and end the violence. Myanmar's president's office said the rally is timed for Malaysian political purposes, and that Malaysia should respect the Association of Southeast Asian Nations's principle on sovereignty. ](/news/2016/12/4/malaysian-prime-minister-najib-razak-leads-a-protest-rally-against-the-persecution-of-myanmar-s-muslim-rohingya-minority-in-the-predominatel.md) _Context: Aung San Suu Kyi, Myanmar, Myanmar's president's office_
-
-### Changes:
-
-1. [Myanmar general election, 2015: Myanmar opposition leader and Nobel Laureate Aung San Suu Kyi says she would be "above the president" if her National League for Democracy party (NLD) gets the expected win in the Sunday, November 8, 2015, election. The 2008 constitution, drafted by the military without NLD participation, bars her from becoming President. ](/news/2015/11/5/myanmar-general-election-2015-myanmar-opposition-leader-and-nobel-laureate-aung-san-suu-kyi-says-she-would-be-above-the-president-if-her.md) _2017-08-27 03:43:41 (First version)_
-1. [Myanmar opposition leader and Nobel Laureate Aung San Suu Kyi says she would be "above the president" if her National League for Democracy party (NLD) gets the expected win in the Sunday, November 8, 2015, election. The 2008 constitution, drafted by the military without NLD participation, bars her from becoming President. ](/news/2015/11/5/myanmar-opposition-leader-and-nobel-laureate-aung-san-suu-kyi-says-she-would-be-above-the-president-if-her-national-league-for-democracy-p.md) _(Current version)_

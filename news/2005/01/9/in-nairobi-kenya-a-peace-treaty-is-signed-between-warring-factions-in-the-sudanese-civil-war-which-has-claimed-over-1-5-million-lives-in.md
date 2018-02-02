@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/9/in-nairobi-kenya-a-peace-treaty-is-signed-between-warring-factions-in-the-sudanese-civil-war-which-has-claimed-over-1-5-million-lives-in.html)  [JSON](/news/2005/01/9/in-nairobi-kenya-a-peace-treaty-is-signed-between-warring-factions-in-the-sudanese-civil-war-which-has-claimed-over-1-5-million-lives-in.json)  [XML](/news/2005/01/9/in-nairobi-kenya-a-peace-treaty-is-signed-between-warring-factions-in-the-sudanese-civil-war-which-has-claimed-over-1-5-million-lives-in.xml)  
+
 ### [2005-01-9](/news/2005/01/9/index.md)
 
+##### Nairobi
 #  In Nairobi, Kenya, a peace treaty is signed between warring factions in the Sudanese civil war, which has claimed over 1.5 million lives in more than 20 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4157707.stm)
 

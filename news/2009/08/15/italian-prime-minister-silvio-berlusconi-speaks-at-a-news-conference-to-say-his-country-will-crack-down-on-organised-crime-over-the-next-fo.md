@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/15/italian-prime-minister-silvio-berlusconi-speaks-at-a-news-conference-to-say-his-country-will-crack-down-on-organised-crime-over-the-next-fo.html)  [JSON](/news/2009/08/15/italian-prime-minister-silvio-berlusconi-speaks-at-a-news-conference-to-say-his-country-will-crack-down-on-organised-crime-over-the-next-fo.json)  [XML](/news/2009/08/15/italian-prime-minister-silvio-berlusconi-speaks-at-a-news-conference-to-say-his-country-will-crack-down-on-organised-crime-over-the-next-fo.xml)  
+
 ### [2009-08-15](/news/2009/08/15/index.md)
 
+##### Italy
 #  Italian Prime Minister Silvio Berlusconi speaks at a news conference to say his country will crack down on organised crime over the next four years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/World/Story/STIStory_417353.html)
 

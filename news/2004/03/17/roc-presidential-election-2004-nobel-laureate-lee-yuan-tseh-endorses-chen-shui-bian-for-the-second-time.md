@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/17/roc-presidential-election-2004-nobel-laureate-lee-yuan-tseh-endorses-chen-shui-bian-for-the-second-time.html)  [JSON](/news/2004/03/17/roc-presidential-election-2004-nobel-laureate-lee-yuan-tseh-endorses-chen-shui-bian-for-the-second-time.json)  [XML](/news/2004/03/17/roc-presidential-election-2004-nobel-laureate-lee-yuan-tseh-endorses-chen-shui-bian-for-the-second-time.xml)  
+
 ### [2004-03-17](/news/2004/03/17/index.md)
 
+##### 2004 presidential election
 #  ROC presidential election, 2004: Nobel laureate Lee Yuan-tseh endorses Chen Shui-bian for the second time. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Seattle PI](http://www.seattlepi.com/national/apasia_story.asp?category=1104&slug=Taiwan%20Elections)
 

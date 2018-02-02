@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/22/a-76-year-old-man-is-sentenced-to-life-in-prison-without-parole-for-the-2012-murder-of-a-13-year-old-boy-in-milwaukee-wisconsin.html)  [JSON](/news/2013/07/22/a-76-year-old-man-is-sentenced-to-life-in-prison-without-parole-for-the-2012-murder-of-a-13-year-old-boy-in-milwaukee-wisconsin.json)  [XML](/news/2013/07/22/a-76-year-old-man-is-sentenced-to-life-in-prison-without-parole-for-the-2012-murder-of-a-13-year-old-boy-in-milwaukee-wisconsin.xml)  
+
 ### [2013-07-22](/news/2013/07/22/index.md)
 
+##### life in prison without parole
 # A 76-year-old man is sentenced to life in prison without parole for the 2012 murder of a 13-year-old boy in Milwaukee, Wisconsin. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.sfgate.com/news/crime/article/Wis-man-who-killed-neighbor-teen-gets-life-term-4678937.php)
 2. [Huffington Post](http://www.huffingtonpost.com/2013/07/17/john-henry-spooner-video-darius-simmons_n_3612378.html)

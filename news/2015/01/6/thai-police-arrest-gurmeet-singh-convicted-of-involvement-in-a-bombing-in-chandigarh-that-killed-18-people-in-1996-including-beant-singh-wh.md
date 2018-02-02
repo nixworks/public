@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/6/thai-police-arrest-gurmeet-singh-convicted-of-involvement-in-a-bombing-in-chandigarh-that-killed-18-people-in-1996-including-beant-singh-wh.html)  [JSON](/news/2015/01/6/thai-police-arrest-gurmeet-singh-convicted-of-involvement-in-a-bombing-in-chandigarh-that-killed-18-people-in-1996-including-beant-singh-wh.json)  [XML](/news/2015/01/6/thai-police-arrest-gurmeet-singh-convicted-of-involvement-in-a-bombing-in-chandigarh-that-killed-18-people-in-1996-including-beant-singh-wh.xml)  
+
 ### [2015-01-6](/news/2015/01/6/index.md)
 
+##### Thai police officers
 # Thai police arrest Gurmeet Singh convicted of involvement in a bombing in Chandigarh that killed 18 people in 1996, including Beant Singh who was then chief minister of Punjab. 
 
 Thai police have arrested a man convicted of involvement in a bomb attack in India two decades ago that killed 18 people, including the then-chief minister of Punjab, a spokesman said on Tuesday.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/2015/01/06/thailand-india-idINKBN0KF0JP20150106)
 1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150106&t=2&i=1013566717&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB050BY)

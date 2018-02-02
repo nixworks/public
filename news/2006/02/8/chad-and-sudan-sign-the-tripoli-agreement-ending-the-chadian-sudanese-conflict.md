@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/8/chad-and-sudan-sign-the-tripoli-agreement-ending-the-chadian-sudanese-conflict.html)  [JSON](/news/2006/02/8/chad-and-sudan-sign-the-tripoli-agreement-ending-the-chadian-sudanese-conflict.json)  [XML](/news/2006/02/8/chad-and-sudan-sign-the-tripoli-agreement-ending-the-chadian-sudanese-conflict.xml)  
+
 ### [2006-02-8](/news/2006/02/8/index.md)
 
+##### Chad
 #  Chad and Sudan sign the Tripoli Agreement, ending the Chadian-Sudanese conflict. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AlertNet](http://www.alertnet.org/thenews/newsdesk/L08583702.htm)
 

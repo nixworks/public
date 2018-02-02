@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/30/the-syrian-observatory-for-human-rights-claims-that-isil-has-blown-up-the-ancient-temple-of-bel-in-palmyra.html)  [JSON](/news/2015/08/30/the-syrian-observatory-for-human-rights-claims-that-isil-has-blown-up-the-ancient-temple-of-bel-in-palmyra.json)  [XML](/news/2015/08/30/the-syrian-observatory-for-human-rights-claims-that-isil-has-blown-up-the-ancient-temple-of-bel-in-palmyra.xml)  
+
 ### [2015-08-30](/news/2015/08/30/index.md)
 
+##### Syrian Observatory for Human Rights
 # The Syrian Observatory for Human Rights claims that ISIL has blown up the ancient Temple of Bel in Palmyra. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/world/2015/08/31/isis-damages-ancient-temple-in-syria-palmyra-activists-say/)
 

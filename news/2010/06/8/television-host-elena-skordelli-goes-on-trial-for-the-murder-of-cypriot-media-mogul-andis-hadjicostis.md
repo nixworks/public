@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/8/television-host-elena-skordelli-goes-on-trial-for-the-murder-of-cypriot-media-mogul-andis-hadjicostis.html)  [JSON](/news/2010/06/8/television-host-elena-skordelli-goes-on-trial-for-the-murder-of-cypriot-media-mogul-andis-hadjicostis.json)  [XML](/news/2010/06/8/television-host-elena-skordelli-goes-on-trial-for-the-murder-of-cypriot-media-mogul-andis-hadjicostis.xml)  
+
 ### [2010-06-8](/news/2010/06/8/index.md)
 
+##### Television host
 # Television host Elena Skordelli goes on trial for the murder of Cypriot media mogul Andis Hadjicostis. 
 
 Prosecutors in Cyprus begin presenting evidence against a TV host accused of ordering the murder of a boss who sacked her.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/world/europe/10263451.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

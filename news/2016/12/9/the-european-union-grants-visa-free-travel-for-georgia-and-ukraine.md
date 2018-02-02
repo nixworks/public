@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/9/the-european-union-grants-visa-free-travel-for-g
 
 ### [2016-12-9](/news/2016/12/9/index.md)
 
+##### European Union
 # The European Union grants visa-free travel for Georgia and Ukraine. 
 
 The European Union will let Ukrainians and Georgians visit the bloc freely after diplomats and lawmakers agreed on Thursday on an emergency brake to suspend visa waivers, ending an EU dispute holding this up.

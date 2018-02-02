@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2008/08/6/competitions-start-at-the-beijing-olympic-games-two-days-ahead-of-the-opening-ceremony-with-the-women-s-football-tournament.html)  [JSON](/news/2008/08/6/competitions-start-at-the-beijing-olympic-games-two-days-ahead-of-the-opening-ceremony-with-the-women-s-football-tournament.json)  [XML](/news/2008/08/6/competitions-start-at-the-beijing-olympic-games-two-days-ahead-of-the-opening-ceremony-with-the-women-s-football-tournament.xml)  
+
 ### [2008-08-6](/news/2008/08/6/index.md)
 
+##### 2008 Summer Olympics
 #  Competitions start at the Beijing Olympic Games two days ahead of the Opening Ceremony with the Women's football tournament.
 
 

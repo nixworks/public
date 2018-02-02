@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/21/saif-al-islam-gaddafi-a-son-of-libyan-leader-muammar-gaddafi-has-called-for-independent-institutions-in-libya-including-a-central-bank-a.html)  [JSON](/news/2007/08/21/saif-al-islam-gaddafi-a-son-of-libyan-leader-muammar-gaddafi-has-called-for-independent-institutions-in-libya-including-a-central-bank-a.json)  [XML](/news/2007/08/21/saif-al-islam-gaddafi-a-son-of-libyan-leader-muammar-gaddafi-has-called-for-independent-institutions-in-libya-including-a-central-bank-a.xml)  
+
 ### [2007-08-21](/news/2007/08/21/index.md)
 
+##### Saif al-Islam Gaddafi
 #  Saif al-Islam Gaddafi, a son of Libyan leader Muammar Gaddafi, has called for independent institutions in Libya including a central bank, a high court and media. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://africa.reuters.com/wire/news/usnBAN124103.html)
 

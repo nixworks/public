@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/19/bahrain-recognizes-kosovo.html)  [JSON](/news/2009/05/19/bahrain-recognizes-kosovo.json)  [XML](/news/2009/05/19/bahrain-recognizes-kosovo.xml)  
+
 ### [2009-05-19](/news/2009/05/19/index.md)
 
+##### Bahrain
 #  Bahrain recognizes Kosovo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BNA](http://english.bna.bh/?ID=79090)
 

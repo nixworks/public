@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/4/two-rwandan-soldiers-are-killed-while-on-a-peacekeeping-mission-in-darfur.html)  [JSON](/news/2009/12/4/two-rwandan-soldiers-are-killed-while-on-a-peacekeeping-mission-in-darfur.json)  [XML](/news/2009/12/4/two-rwandan-soldiers-are-killed-while-on-a-peacekeeping-mission-in-darfur.xml)  
+
 ### [2009-12-4](/news/2009/12/4/index.md)
 
+##### Rwanda
 #  Two Rwandan soldiers are killed while on a peacekeeping mission in Darfur. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8396544.stm)
 2. [Reuters](http://www.alertnet.org/thenews/newsdesk/GEE5B326E.htm)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/10/31/the-government-of-japan-intervenes-to-reduce-the-exchange-rate-of-the-japanese-yen-with-the-united-states-dollar-after-the-yen-reached-recor.html)  [JSON](/news/2011/10/31/the-government-of-japan-intervenes-to-reduce-the-exchange-rate-of-the-japanese-yen-with-the-united-states-dollar-after-the-yen-reached-recor.json)  [XML](/news/2011/10/31/the-government-of-japan-intervenes-to-reduce-the-exchange-rate-of-the-japanese-yen-with-the-united-states-dollar-after-the-yen-reached-recor.xml)  
+
 ### [2011-10-31](/news/2011/10/31/index.md)
 
+##### Japanese government
 # The Government of Japan intervenes to reduce the exchange rate of the Japanese yen with the United States dollar after the yen reached record highs. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/10/31/us-japan-economy-yen-idUSTRE79U09Q20111031?feedType=RSS&feedName=topNews)
+1. [Reuters](https://www.reuters.com/article/2011/10/31/us-japan-economy-yen-idUSTRE79U09Q20111031?feedType=RSS&feedName=topNews)
 1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111031&t=2&i=524995691&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE79U0WZG00)
 
 ### Related:

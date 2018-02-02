@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/21/a-carved-brick-sculpture-intended-as-a-bloody-sunday-1972-memorial-is-vandalised-prior-to-completion-in-derry-s-bogside-area.html)  [JSON](/news/2010/06/21/a-carved-brick-sculpture-intended-as-a-bloody-sunday-1972-memorial-is-vandalised-prior-to-completion-in-derry-s-bogside-area.json)  [XML](/news/2010/06/21/a-carved-brick-sculpture-intended-as-a-bloody-sunday-1972-memorial-is-vandalised-prior-to-completion-in-derry-s-bogside-area.xml)  
+
 ### [2010-06-21](/news/2010/06/21/index.md)
 
+##### Bloody Sunday
 # A carved brick sculpture intended as a Bloody Sunday (1972) memorial is vandalised prior to completion in Derry's Bogside area. 
 
 A memorial sculpture commemorating the victims of Bloody Sunday has been vandalised in the Bogside.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/northern_ireland/10363108.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0621/saville.html)

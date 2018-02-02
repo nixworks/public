@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/09/16/u-s-plan-to-invade-iraq-colin-powell-meets-with-the-united-nations-security-council-to-push-for-stronger-resolutions-against-iraq-in-a-s.html)  [JSON](/news/2002/09/16/u-s-plan-to-invade-iraq-colin-powell-meets-with-the-united-nations-security-council-to-push-for-stronger-resolutions-against-iraq-in-a-s.json)  [XML](/news/2002/09/16/u-s-plan-to-invade-iraq-colin-powell-meets-with-the-united-nations-security-council-to-push-for-stronger-resolutions-against-iraq-in-a-s.xml)  
+
 ### [2002-09-16](/news/2002/09/16/index.md)
 
+##### 2003 invasion of Iraq
 #  U.S. plan to invade Iraq: Colin Powell meets with the United Nations Security Council to push for stronger resolutions against Iraq. In a surprise reversal, Iraq tells the United Nations it will allow weapons inspectors "immediately and without condition."
 
 

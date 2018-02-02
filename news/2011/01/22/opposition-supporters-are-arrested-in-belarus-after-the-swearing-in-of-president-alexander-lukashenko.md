@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/22/opposition-supporters-are-arrested-in-belarus-after-the-swearing-in-of-president-alexander-lukashenko.html)  [JSON](/news/2011/01/22/opposition-supporters-are-arrested-in-belarus-after-the-swearing-in-of-president-alexander-lukashenko.json)  [XML](/news/2011/01/22/opposition-supporters-are-arrested-in-belarus-after-the-swearing-in-of-president-alexander-lukashenko.xml)  
+
 ### [2011-01-22](/news/2011/01/22/index.md)
 
+##### Belarus
 # Opposition supporters are arrested in Belarus after the swearing-in of President Alexander Lukashenko. 
 
 As Alexander Lukashenko is sworn in, many opposition supporters stage protests.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/2011122215316266586.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/22/2011122211229578884_20.jpg)

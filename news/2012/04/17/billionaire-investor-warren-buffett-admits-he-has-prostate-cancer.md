@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/17/billionaire-investor-warren-buffett-admits-he-has-prostate-cancer.html)  [JSON](/news/2012/04/17/billionaire-investor-warren-buffett-admits-he-has-prostate-cancer.json)  [XML](/news/2012/04/17/billionaire-investor-warren-buffett-admits-he-has-prostate-cancer.xml)  
+
 ### [2012-04-17](/news/2012/04/17/index.md)
 
+##### Warren Buffett
 # Billionaire investor Warren Buffett admits he has prostate cancer. 
 
 Billionaire investor Warren Buffett says he has been diagnosed with stage one prostate cancer, but that his condition is not life-threatening.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17751171)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59711000/jpg/_59711409_59711408.jpg)

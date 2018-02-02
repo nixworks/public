@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/08/9/us-president-george-w-bush-announces-his-support-for-federal-funding-of-limited-research-on-embryonic-stem-cells.html)  [JSON](/news/2001/08/9/us-president-george-w-bush-announces-his-support-for-federal-funding-of-limited-research-on-embryonic-stem-cells.json)  [XML](/news/2001/08/9/us-president-george-w-bush-announces-his-support-for-federal-funding-of-limited-research-on-embryonic-stem-cells.xml)  
+
 ### [2001-08-9](/news/2001/08/9/index.md)
 
+##### George W. Bush
 #  US President George W. Bush announces his support for federal funding of limited research on embryonic stem cells.
 
 

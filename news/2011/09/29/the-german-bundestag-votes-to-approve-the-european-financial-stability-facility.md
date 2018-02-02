@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/29/the-german-bundestag-votes-to-approve-the-european-financial-stability-facility.html)  [JSON](/news/2011/09/29/the-german-bundestag-votes-to-approve-the-european-financial-stability-facility.json)  [XML](/news/2011/09/29/the-german-bundestag-votes-to-approve-the-european-financial-stability-facility.xml)  
+
 ### [2011-09-29](/news/2011/09/29/index.md)
 
+##### German
 # The German Bundestag votes to approve the European Financial Stability Facility. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/business/2011/sep/28/germany-poised-to-vote-in-favour-european-financial-stability-facility?newsfeed=true)
 

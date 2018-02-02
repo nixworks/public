@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/24/president-of-uganda-yoweri-museveni-removes-aronda-nyakairima-as-head-of-the-military-and-names-him-as-minister-of-the-interior.html)  [JSON](/news/2013/05/24/president-of-uganda-yoweri-museveni-removes-aronda-nyakairima-as-head-of-the-military-and-names-him-as-minister-of-the-interior.json)  [XML](/news/2013/05/24/president-of-uganda-yoweri-museveni-removes-aronda-nyakairima-as-head-of-the-military-and-names-him-as-minister-of-the-interior.xml)  
+
 ### [2013-05-24](/news/2013/05/24/index.md)
 
+##### President
 # President of Uganda Yoweri Museveni removes Aronda Nyakairima as head of the military and names him as Minister of the Interior. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2013/05/24/uk-uganda-museveni-military-idUKBRE94N08N20130524)
 1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130524&t=2&i=734807851&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE94N0P6E00)

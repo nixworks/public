@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/30/the-international-committee-of-the-red-cross-is
 
 ### [2017-11-30](/news/2017/11/30/index.md)
 
+##### Yemeni Civil War (2015-present)
 # The International Committee of the Red Cross is buying 750,000 liters of diesel fuel to help provide clean water for a million people living in Yemen. 
 
 The &quot;exceptional&quot; move comes as a blockade prevents imports vital for water systems.

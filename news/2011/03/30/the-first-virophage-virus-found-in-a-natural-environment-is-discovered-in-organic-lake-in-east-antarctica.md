@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/30/the-first-virophage-virus-found-in-a-natural-environment-is-discovered-in-organic-lake-in-east-antarctica.html)  [JSON](/news/2011/03/30/the-first-virophage-virus-found-in-a-natural-environment-is-discovered-in-organic-lake-in-east-antarctica.json)  [XML](/news/2011/03/30/the-first-virophage-virus-found-in-a-natural-environment-is-discovered-in-organic-lake-in-east-antarctica.xml)  
+
 ### [2011-03-30](/news/2011/03/30/index.md)
 
+##### virophage
 # The first virophage virus found in a natural environment is discovered in Organic Lake in East Antarctica. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Nature](http://www.nature.com/news/2011/110328/full/news.2011.188.html)
 2. [PhysOrg](http://www.physorg.com/news/2011-03-virus-eating-virus-antarctic-lake.html)

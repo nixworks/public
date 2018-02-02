@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/20/the-royal-australian-air-force-raaf-suspends-co
 
 ### [2017-06-20](/news/2017/06/20/index.md)
 
+##### Syrian Civil War
 # The Royal Australian Air Force (RAAF) suspends combat missions against ISIL over Syria, following Russia's threat that it would treat any aircraft from the U.S.-led coalition flying west of the Euphrates as a potential target. 
 
 Move follows Moscow’s warning coalition planes west of Euphrates will be a potential target after US shot down Syrian fighter jet

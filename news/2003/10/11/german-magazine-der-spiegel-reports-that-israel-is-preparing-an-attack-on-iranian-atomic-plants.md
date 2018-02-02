@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/11/german-magazine-der-spiegel-reports-that-israel-is-preparing-an-attack-on-iranian-atomic-plants.html)  [JSON](/news/2003/10/11/german-magazine-der-spiegel-reports-that-israel-is-preparing-an-attack-on-iranian-atomic-plants.json)  [XML](/news/2003/10/11/german-magazine-der-spiegel-reports-that-israel-is-preparing-an-attack-on-iranian-atomic-plants.xml)  
+
 ### [2003-10-11](/news/2003/10/11/index.md)
 
+##### Der Spiegel
 #  German magazine "Der Spiegel" reports that Israel is preparing an attack on Iranian atomic plants.
 
 

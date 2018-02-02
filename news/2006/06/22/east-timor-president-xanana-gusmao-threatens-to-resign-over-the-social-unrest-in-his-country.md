@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/22/east-timor-president-xanana-gusmao-threatens-to-resign-over-the-social-unrest-in-his-country.html)  [JSON](/news/2006/06/22/east-timor-president-xanana-gusmao-threatens-to-resign-over-the-social-unrest-in-his-country.json)  [XML](/news/2006/06/22/east-timor-president-xanana-gusmao-threatens-to-resign-over-the-social-unrest-in-his-country.xml)  
+
 ### [2006-06-22](/news/2006/06/22/index.md)
 
+##### East Timor
 #  East Timor President Xanana Gusmo threatens to resign over the social unrest in his country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/5105590.stm)
 

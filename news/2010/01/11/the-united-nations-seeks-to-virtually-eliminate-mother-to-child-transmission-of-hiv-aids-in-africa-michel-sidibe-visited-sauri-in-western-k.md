@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/11/the-united-nations-seeks-to-virtually-eliminate-mother-to-child-transmission-of-hiv-aids-in-africa-michel-sidibe-visited-sauri-in-western-k.html)  [JSON](/news/2010/01/11/the-united-nations-seeks-to-virtually-eliminate-mother-to-child-transmission-of-hiv-aids-in-africa-michel-sidibe-visited-sauri-in-western-k.json)  [XML](/news/2010/01/11/the-united-nations-seeks-to-virtually-eliminate-mother-to-child-transmission-of-hiv-aids-in-africa-michel-sidibe-visited-sauri-in-western-k.xml)  
+
 ### [2010-01-11](/news/2010/01/11/index.md)
 
+##### United Nations
 # The United Nations seeks to virtually eliminate mother-to-child transmission of HIV-AIDS in Africa. Michel Sidib visited Sauri in western Kenya, which is a village of the Millennium Villages Project. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=33448&Cr=HIV&Cr1=)
 1. [Cover Image](/News/dh/photos/large/2010/11-01-2010hiv.jpg)
@@ -16,4 +20,4 @@
 2. [Mohamed Abdullahi Mohamed, Prime Minister of the United Nations-backed Transitional Federal Government of Somalia, calls on UN agencies basing themselves in Kenya for safety reasons to move to Mogadishu within three months, citing the presence of UN agencies in "more dangerous" cities such as Kabul and Baghdad. ](/news/2011/04/5/mohamed-abdullahi-mohamed-prime-minister-of-the-united-nations-backed-transitional-federal-government-of-somalia-calls-on-un-agencies-basi.md) _Context: Kenya, United Nations_
 3. [ United Nations-mediated peace talks commence in Nairobi, Kenya, between the government of the Democratic Republic of the Congo and the National Congress for the Defence of the People. ](/news/2008/12/9/united-nations-mediated-peace-talks-commence-in-nairobi-kenya-between-the-government-of-the-democratic-republic-of-the-congo-and-the-nati.md) _Context: Kenya, United Nations_
 4. [ Sudanese Civil War: At a special session of the United Nations Security Council in Nairobi, Kenya, the government of Sudan and southern rebels sign an agreement which states that both sides will commit themselves to ending the 21-year conflict by December 31. The Council then unanimously passes a resolution which promises substantial aid to the country after the wars in the south and in the region of Darfur come to an end. ](/news/2004/11/19/sudanese-civil-war-at-a-special-session-of-the-united-nations-security-council-in-nairobi-kenya-the-government-of-sudan-and-southern-reb.md) _Context: Kenya, United Nations_
-5. [In an unprecedented move, Kenya's presidential aspirant, Raila Odinga, pulls out of a repeat presidential election just 15 days before the election. This action comes after the supreme court nullified the elections run on August 8 as being unconstitutional. ](/news/2017/10/10/in-an-unprecedented-move-kenya-s-presidential-aspirant-raila-odinga-pulls-out-of-a-repeat-presidential-election-just-15-days-before-the-e.md) _Context: Kenya_
+5. [Suspected Allied Democratic Forces militants in North Kivu, DR Congo, kill at least 15 United Nations peacekeepers, mostly Tanzanian, and five Congolese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. ](/news/2017/12/8/suspected-allied-democratic-forces-militants-in-north-kivu-dr-congo-kill-at-least-15-united-nations-peacekeepers-mostly-tanzanian-and-fi.md) _Context: United Nations_

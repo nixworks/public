@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/20/brazil-offers-to-mediate-between-colombia-and-venezuela-in-a-disagreement-about-the-capture-of-rodrigo-granda.html)  [JSON](/news/2005/01/20/brazil-offers-to-mediate-between-colombia-and-venezuela-in-a-disagreement-about-the-capture-of-rodrigo-granda.json)  [XML](/news/2005/01/20/brazil-offers-to-mediate-between-colombia-and-venezuela-in-a-disagreement-about-the-capture-of-rodrigo-granda.xml)  
+
 ### [2005-01-20](/news/2005/01/20/index.md)
 
+##### Brazil
 #  Brazil offers to mediate between Colombia and Venezuela in a disagreement about the capture of Rodrigo Granda. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4190035.stm)
 

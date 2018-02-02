@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/03/23/former-nfl-player-darren-sharper-pleads-guilty-in-a-maricopa-county-arizona-courtroom-to-raping-two-women-after-spiking-their-drinks-at-a-t.html)  [JSON](/news/2015/03/23/former-nfl-player-darren-sharper-pleads-guilty-in-a-maricopa-county-arizona-courtroom-to-raping-two-women-after-spiking-their-drinks-at-a-t.json)  [XML](/news/2015/03/23/former-nfl-player-darren-sharper-pleads-guilty-in-a-maricopa-county-arizona-courtroom-to-raping-two-women-after-spiking-their-drinks-at-a-t.xml)  
+
 ### [2015-03-23](/news/2015/03/23/index.md)
 
+##### National Football League
 # Former NFL player Darren Sharper pleads guilty in a Maricopa County, Arizona courtroom to raping two women after spiking their drinks at a Tempe apartment in November 2013, and the court sentences him to nine years in prison. Sharper has also been indicted on charges of sexually assaulting women in the U.S. states of California, Louisiana, and Nevada. 
 
 Former NFL star Darren Sharper admitted in court on Monday to drugging and raping women in California and Arizona and was expected to plead guilty in similar Nevada and Louisiana cases in plea deals prosecutors say will land him in prison for at least nine years.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/03/23/us-usa-nfl-sharper-idUSKBN0MJ1W320150323)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150323&t=2&i=1034761887&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB2M0XJ)
+1. [Reuters](https://www.reuters.com/article/2015/03/23/us-usa-nfl-sharper-idUSKBN0MJ1W320150323)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20150323&t=2&i=1034761887&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB2M0XJ)
 
 ### Related:
 

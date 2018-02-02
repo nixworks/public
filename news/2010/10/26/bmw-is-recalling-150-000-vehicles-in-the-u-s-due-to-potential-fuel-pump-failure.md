@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2010/10/26/bmw-is-recalling-150-000-vehicles-in-the-u-s-due-to-potential-fuel-pump-failure.html)  [JSON](/news/2010/10/26/bmw-is-recalling-150-000-vehicles-in-the-u-s-due-to-potential-fuel-pump-failure.json)  [XML](/news/2010/10/26/bmw-is-recalling-150-000-vehicles-in-the-u-s-due-to-potential-fuel-pump-failure.xml)  
+
 ### [2010-10-26](/news/2010/10/26/index.md)
 
+##### BMW
 # BMW is recalling 150,000 vehicles in the U.S. due to potential fuel pump failure.
 
+BMW AG said on Tuesday that it would recall more than 150,000 vehicles in the United States due to the possibility of fuel pump failures.
 
 
+### Sources:
 
-### Source:
-
-1. [Reuters](http://www.reuters.com/article/idUSTRE69P3MB20101026)
+1. [Reuters](https://www.reuters.com/article/idUSTRE69P3MB20101026)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/14/ethiopian-officials-report-that-a-plot-by-a-group-of-somali-nationals-to-attack-sunday-s-2014-fifa-world-cup-qualification-match-in-addis-ab.html)  [JSON](/news/2013/10/14/ethiopian-officials-report-that-a-plot-by-a-group-of-somali-nationals-to-attack-sunday-s-2014-fifa-world-cup-qualification-match-in-addis-ab.json)  [XML](/news/2013/10/14/ethiopian-officials-report-that-a-plot-by-a-group-of-somali-nationals-to-attack-sunday-s-2014-fifa-world-cup-qualification-match-in-addis-ab.xml)  
+
 ### [2013-10-14](/news/2013/10/14/index.md)
 
+##### Ethiopia
 # Ethiopian officials report that a plot by a group of Somali nationals to attack Sunday's 2014 FIFA World Cup qualification match in Addis Ababa failed when their explosives detonated inside their home, killing two of the would-be suicide bombers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters UK](http://uk.reuters.com/article/2013/10/14/uk-ethiopia-bomb-idUKBRE99D0OL20131014)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

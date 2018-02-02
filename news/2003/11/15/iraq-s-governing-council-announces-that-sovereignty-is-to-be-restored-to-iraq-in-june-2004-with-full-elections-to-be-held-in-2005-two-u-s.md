@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/15/iraq-s-governing-council-announces-that-sovereignty-is-to-be-restored-to-iraq-in-june-2004-with-full-elections-to-be-held-in-2005-two-u-s.html)  [JSON](/news/2003/11/15/iraq-s-governing-council-announces-that-sovereignty-is-to-be-restored-to-iraq-in-june-2004-with-full-elections-to-be-held-in-2005-two-u-s.json)  [XML](/news/2003/11/15/iraq-s-governing-council-announces-that-sovereignty-is-to-be-restored-to-iraq-in-june-2004-with-full-elections-to-be-held-in-2005-two-u-s.xml)  
+
 ### [2003-11-15](/news/2003/11/15/index.md)
 
+##### Iraq's Governing Council
 #  Iraq's Governing Council announces that sovereignty is to be restored to Iraq in June 2004, with full elections to be held in 2005. Two U.S. Black Hawk helicopters crash near Mosul in northern Iraq. Reports suggest one helicopter was hit by a rocket-propelled grenade and it then collided with the other helicopter. Latest reports suggest seventeen dead and five injured. One U.S. soldier is killed and two are injured in a roadside blast in northern Baghdad.
 
 

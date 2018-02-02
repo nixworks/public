@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/27/dignitaries-including-the-president-of-afghanistan-hamid-karzai-take-cover-as-automatic-gunfire-breaks-out-at-a-ceremony-in-kabul.html)  [JSON](/news/2008/04/27/dignitaries-including-the-president-of-afghanistan-hamid-karzai-take-cover-as-automatic-gunfire-breaks-out-at-a-ceremony-in-kabul.json)  [XML](/news/2008/04/27/dignitaries-including-the-president-of-afghanistan-hamid-karzai-take-cover-as-automatic-gunfire-breaks-out-at-a-ceremony-in-kabul.xml)  
+
 ### [2008-04-27](/news/2008/04/27/index.md)
 
+##### Afghanistan President
 #  Dignitaries including the President of Afghanistan Hamid Karzai take cover as automatic gunfire breaks out at a ceremony in Kabul. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5h-N2UJemsXGBN65TeEMamZ_dZIqwD90A0VAG0)
 

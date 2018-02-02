@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/13/ja-nos-ader-is-re-elected-president-of-hungary-
 
 ### [2017-03-13](/news/2017/03/13/index.md)
 
+##### Hungarian presidential election, 2017
 # Janos Ader is re-elected President of Hungary by the National Assembly. 
 
 Hungarian President Janos Ader was re-elected by parliament to a second, five-year term, defeating a challenger his party claimed was backed by George Soros.

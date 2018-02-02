@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/1/a-landslide-in-india-s-manipur-state-near-the-border-with-myanmar-buries-a-village-and-kills-at-least-twenty-people.html)  [JSON](/news/2015/08/1/a-landslide-in-india-s-manipur-state-near-the-border-with-myanmar-buries-a-village-and-kills-at-least-twenty-people.json)  [XML](/news/2015/08/1/a-landslide-in-india-s-manipur-state-near-the-border-with-myanmar-buries-a-village-and-kills-at-least-twenty-people.xml)  
+
 ### [2015-08-1](/news/2015/08/1/index.md)
 
+##### India
 # A landslide in India's Manipur state near the border with Myanmar buries a village and kills at least twenty people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/india/Landslide-buries-a-whole-village-killing-20-in-Manipur-near-Myanmar-border/articleshow/48309521.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/48309914.cms)

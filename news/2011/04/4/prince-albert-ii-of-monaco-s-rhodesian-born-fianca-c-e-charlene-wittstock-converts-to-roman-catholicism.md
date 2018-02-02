@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/4/prince-albert-ii-of-monaco-s-rhodesian-born-fianca-c-e-charlene-wittstock-converts-to-roman-catholicism.html)  [JSON](/news/2011/04/4/prince-albert-ii-of-monaco-s-rhodesian-born-fianca-c-e-charlene-wittstock-converts-to-roman-catholicism.json)  [XML](/news/2011/04/4/prince-albert-ii-of-monaco-s-rhodesian-born-fianca-c-e-charlene-wittstock-converts-to-roman-catholicism.xml)  
+
 ### [2011-04-4](/news/2011/04/4/index.md)
 
+##### Prince Albert II of Monaco
 # Prince Albert II of Monaco's Rhodesian-born fiancee Charlene Wittstock converts to Roman Catholicism. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Straits Times](http://www.straitstimes.com/BreakingNews/Lifestyle/Story/STIStory_652815.html)
 

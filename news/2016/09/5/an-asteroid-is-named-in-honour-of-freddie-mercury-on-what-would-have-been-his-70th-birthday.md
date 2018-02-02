@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/5/an-asteroid-is-named-in-honour-of-freddie-mercur
 
 ### [2016-09-5](/news/2016/09/5/index.md)
 
+##### Freddie Mercury
 # An asteroid is named in honour of Freddie Mercury on what would have been his 70th birthday. 
 
 

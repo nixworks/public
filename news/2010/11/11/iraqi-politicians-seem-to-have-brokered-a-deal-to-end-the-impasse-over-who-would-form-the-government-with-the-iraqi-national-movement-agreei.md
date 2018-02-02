@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/11/11/iraqi-politicians-seem-to-have-brokered-a-deal-to-end-the-impasse-over-who-would-form-the-government-with-the-iraqi-national-movement-agreei.html)  [JSON](/news/2010/11/11/iraqi-politicians-seem-to-have-brokered-a-deal-to-end-the-impasse-over-who-would-form-the-government-with-the-iraqi-national-movement-agreei.json)  [XML](/news/2010/11/11/iraqi-politicians-seem-to-have-brokered-a-deal-to-end-the-impasse-over-who-would-form-the-government-with-the-iraqi-national-movement-agreei.xml)  
+
 ### [2010-11-11](/news/2010/11/11/index.md)
 
+##### Iraq
 # Iraqi politicians seem to have brokered a deal to end the impasse over who would form the Government with the Iraqi National Movement agreeing to join a government led by Prime Minister Nouri al-Maliki. 
 
 Salhy and Waleed Ibrahim
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6AA0Q320101111)
+1. [Reuters](https://www.reuters.com/article/idUSTRE6AA0Q320101111)
 1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20101111&t=2&i=247133687&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-11T225856Z_01_BTRE6AA1RUA00_RTROPTP_0_IRAQ-POLITICS)
 
 ### Related:

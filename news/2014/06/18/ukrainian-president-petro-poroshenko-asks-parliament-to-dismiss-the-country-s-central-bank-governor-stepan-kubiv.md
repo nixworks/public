@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/06/18/ukrainian-president-petro-poroshenko-asks-parliament-to-dismiss-the-country-s-central-bank-governor-stepan-kubiv.html)  [JSON](/news/2014/06/18/ukrainian-president-petro-poroshenko-asks-parliament-to-dismiss-the-country-s-central-bank-governor-stepan-kubiv.json)  [XML](/news/2014/06/18/ukrainian-president-petro-poroshenko-asks-parliament-to-dismiss-the-country-s-central-bank-governor-stepan-kubiv.xml)  
+
 ### [2014-06-18](/news/2014/06/18/index.md)
 
+##### Ukraine
 # Ukrainian President Petro Poroshenko asks parliament to dismiss the country's central bank governor, Stepan Kubiv. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/06/18/ukraine-crisis-cenbank-idUSL5N0OZ2AW20140618)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2014/06/18/ukraine-crisis-cenbank-idUSL5N0OZ2AW20140618)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/17/ming-ming-the-oldest-panda-in-the-world-dies-at-the-age-of-34-in-guangdong-china.html)  [JSON](/news/2011/05/17/ming-ming-the-oldest-panda-in-the-world-dies-at-the-age-of-34-in-guangdong-china.json)  [XML](/news/2011/05/17/ming-ming-the-oldest-panda-in-the-world-dies-at-the-age-of-34-in-guangdong-china.xml)  
+
 ### [2011-05-17](/news/2011/05/17/index.md)
 
+##### panda
 # Ming Ming, the oldest panda in the world, dies at the age of 34 in Guangdong, China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13423812)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52789000/jpg/_52789045_mingming.jpg)

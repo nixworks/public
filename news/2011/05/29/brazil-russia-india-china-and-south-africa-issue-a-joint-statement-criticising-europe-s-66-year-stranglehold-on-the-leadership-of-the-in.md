@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/29/brazil-russia-india-china-and-south-africa-issue-a-joint-statement-criticising-europe-s-66-year-stranglehold-on-the-leadership-of-the-in.html)  [JSON](/news/2011/05/29/brazil-russia-india-china-and-south-africa-issue-a-joint-statement-criticising-europe-s-66-year-stranglehold-on-the-leadership-of-the-in.json)  [XML](/news/2011/05/29/brazil-russia-india-china-and-south-africa-issue-a-joint-statement-criticising-europe-s-66-year-stranglehold-on-the-leadership-of-the-in.xml)  
+
 ### [2011-05-29](/news/2011/05/29/index.md)
 
+##### Brazil, Russia, India, China, and South Africa
 # Brazil, Russia, India, China, and South Africa issue a joint statement criticising Europe's 66-year stranglehold on the leadership of the International Monetary Fund (IMF), calling it "obsolete" and requesting that developing nations be given a chance. 
 
 Historically, a European has led the international financial body, but emerging economies want that to change.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/indepth/features/2011/05/2011529122148311156.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/31/20113318750762580_20.jpg)

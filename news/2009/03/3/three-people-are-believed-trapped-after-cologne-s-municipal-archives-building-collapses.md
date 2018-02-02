@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/3/three-people-are-believed-trapped-after-cologne-s-municipal-archives-building-collapses.html)  [JSON](/news/2009/03/3/three-people-are-believed-trapped-after-cologne-s-municipal-archives-building-collapses.json)  [XML](/news/2009/03/3/three-people-are-believed-trapped-after-cologne-s-municipal-archives-building-collapses.xml)  
+
 ### [2009-03-3](/news/2009/03/3/index.md)
 
+##### Cologne
 #  Three people are believed trapped after Cologne's municipal archives building collapses. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Spiegel](http://www.spiegel.de/international/germany/0,1518,611158,00.html)
 

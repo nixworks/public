@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/22/a-controversial-piece-written-in-the-atlantic-m
 
 ### [2017-05-22](/news/2017/05/22/index.md)
 
+##### The Atlantic
 # A controversial piece written in "The Atlantic" magazine about the Filipino servant caste and the Filipino American family involved in it triggers a debate in both the Philippines and the United States. 
 
 Lola and the universality of women’s exploitation

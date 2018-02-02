@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/20/the-president-of-singapore-sellapan-ramanathan-on-the-advice-of-the-prime-minister-lee-hsien-loong-has-dissolved-parliament-to-prepa.html)  [JSON](/news/2006/04/20/the-president-of-singapore-sellapan-ramanathan-on-the-advice-of-the-prime-minister-lee-hsien-loong-has-dissolved-parliament-to-prepa.json)  [XML](/news/2006/04/20/the-president-of-singapore-sellapan-ramanathan-on-the-advice-of-the-prime-minister-lee-hsien-loong-has-dissolved-parliament-to-prepa.xml)  
+
 ### [2006-04-20](/news/2006/04/20/index.md)
 
+##### President-elect
 #  The President of Singapore, Sellapan Ramanathan, "on the advice of the prime minister (Lee Hsien Loong), has dissolved parliament" to prepare for the 2006 general election, to be held on May 6. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4925476.stm)
 

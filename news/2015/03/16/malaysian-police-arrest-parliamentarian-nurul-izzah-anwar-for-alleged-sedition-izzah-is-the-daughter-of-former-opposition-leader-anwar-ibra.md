@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/16/malaysian-police-arrest-parliamentarian-nurul-izzah-anwar-for-alleged-sedition-izzah-is-the-daughter-of-former-opposition-leader-anwar-ibra.html)  [JSON](/news/2015/03/16/malaysian-police-arrest-parliamentarian-nurul-izzah-anwar-for-alleged-sedition-izzah-is-the-daughter-of-former-opposition-leader-anwar-ibra.json)  [XML](/news/2015/03/16/malaysian-police-arrest-parliamentarian-nurul-izzah-anwar-for-alleged-sedition-izzah-is-the-daughter-of-former-opposition-leader-anwar-ibra.xml)  
+
 ### [2015-03-16](/news/2015/03/16/index.md)
 
+##### Malaysia
 # Malaysian police arrest parliamentarian Nurul Izzah Anwar for alleged sedition. Izzah is the daughter of former Opposition Leader Anwar Ibrahim. 
 
 KUALA LUMPUR - Malaysian Member of Parliament Nurul Izzah Anwar was released on Tuesday on a month-long bail after recording her statement in a sedition investigation.. Read more at straitstimes.com.
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/news/asia/south-east-asia/story/nurul-izzah-released-bail-will-have-report-police-month-later-201503)
 1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/03/17/nurul17e_2x.jpg?itok=hMJR8Ffh)

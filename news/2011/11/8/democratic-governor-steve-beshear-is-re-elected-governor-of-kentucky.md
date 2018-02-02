@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/8/democratic-governor-steve-beshear-is-re-elected-governor-of-kentucky.html)  [JSON](/news/2011/11/8/democratic-governor-steve-beshear-is-re-elected-governor-of-kentucky.json)  [XML](/news/2011/11/8/democratic-governor-steve-beshear-is-re-elected-governor-of-kentucky.xml)  
+
 ### [2011-11-8](/news/2011/11/8/index.md)
 
+##### Steve Beshear
 # Democratic Governor Steve Beshear is re-elected Governor of Kentucky. 
 
 After months of campaigning and talking to local residents, initial poll results show Greg Stanton as the new mayor of Phoenix.
 
 
-### Source:
+### Sources:
 
 1. [Ahwatukee Foothills News](http://www.ahwatukee.com/news/article_c65a8f18-0a8b-11e1-bb0a-001cc4c03286.html)
 2. [CNN](http://politicalticker.blogs.cnn.com/2011/11/08/beshear-easily-wins-re-election-in-kentucky/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/19/governor-of-wisconsin-scott-walker-rejects-union-concessions-on-the-state-budget-as-protests-continue-in-the-state-capital.html)  [JSON](/news/2011/02/19/governor-of-wisconsin-scott-walker-rejects-union-concessions-on-the-state-budget-as-protests-continue-in-the-state-capital.json)  [XML](/news/2011/02/19/governor-of-wisconsin-scott-walker-rejects-union-concessions-on-the-state-budget-as-protests-continue-in-the-state-capital.xml)  
+
 ### [2011-02-19](/news/2011/02/19/index.md)
 
+##### Governor of Wisconsin
 # Governor of Wisconsin Scott Walker rejects union concessions on the state budget as protests continue in the state capital. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Milwaukee Journal-Sentinel](http://www.jsonline.com/news/statepolitics/116519738.html)
 

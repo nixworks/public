@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/11/at-least-10-people-are-killed-and-20-others-are-injured-during-a-gas-explosion-near-mashhad-khorasan-razavi-a-fire-burns-for-3-hours.html)  [JSON](/news/2010/09/11/at-least-10-people-are-killed-and-20-others-are-injured-during-a-gas-explosion-near-mashhad-khorasan-razavi-a-fire-burns-for-3-hours.json)  [XML](/news/2010/09/11/at-least-10-people-are-killed-and-20-others-are-injured-during-a-gas-explosion-near-mashhad-khorasan-razavi-a-fire-burns-for-3-hours.xml)  
+
 ### [2010-09-11](/news/2010/09/11/index.md)
 
+##### Mashhad
 # At least 10 people are killed and 20 others are injured during a gas explosion near Mashhad, Khorasan Razavi. A fire burns for 3 hours. 
 
 Accidental rupture leaves 10 workers dead and 20 injured, as firefighters bring blaze under control after three hours.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/09/2010911111540966394.html)
 2. [Press TV](http://www.presstv.ir/detail/142116.html)

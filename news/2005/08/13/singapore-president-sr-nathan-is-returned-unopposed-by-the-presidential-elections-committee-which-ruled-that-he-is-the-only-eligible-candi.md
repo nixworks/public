@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/13/singapore-president-sr-nathan-is-returned-unopposed-by-the-presidential-elections-committee-which-ruled-that-he-is-the-only-eligible-candi.html)  [JSON](/news/2005/08/13/singapore-president-sr-nathan-is-returned-unopposed-by-the-presidential-elections-committee-which-ruled-that-he-is-the-only-eligible-candi.json)  [XML](/news/2005/08/13/singapore-president-sr-nathan-is-returned-unopposed-by-the-presidential-elections-committee-which-ruled-that-he-is-the-only-eligible-candi.xml)  
+
 ### [2005-08-13](/news/2005/08/13/index.md)
 
+##### Singapore
 #  Singapore President SR Nathan is returned unopposed by the Presidential Elections Committee, which ruled that he is the only eligible candidate out of 4 applicants. Singapore's nomination day is on October 17. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bernama](http://www.bernama.com.my/bernama/v3/news.php?id=150104)
 

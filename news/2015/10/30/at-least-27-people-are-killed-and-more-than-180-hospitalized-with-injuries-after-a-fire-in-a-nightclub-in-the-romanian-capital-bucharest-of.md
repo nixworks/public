@@ -1,16 +1,25 @@
+
+Formats: [HTML](/news/2015/10/30/at-least-27-people-are-killed-and-more-than-180-hospitalized-with-injuries-after-a-fire-in-a-nightclub-in-the-romanian-capital-bucharest-of.html)  [JSON](/news/2015/10/30/at-least-27-people-are-killed-and-more-than-180-hospitalized-with-injuries-after-a-fire-in-a-nightclub-in-the-romanian-capital-bucharest-of.json)  [XML](/news/2015/10/30/at-least-27-people-are-killed-and-more-than-180-hospitalized-with-injuries-after-a-fire-in-a-nightclub-in-the-romanian-capital-bucharest-of.xml)  
+
 ### [2015-10-30](/news/2015/10/30/index.md)
 
+##### Colectiv nightclub fire
 # At least 27 people are killed and more than 180 hospitalized with injuries after a fire in a nightclub in the Romanian capital Bucharest. Officials say a heavy metal band's pyrotechnical show sparked a fire inside the Colectiv nightclub. 
 
 A fire at a nightclub in the Romanian capital Bucharest has killed 27 people and injured 155, authorities there say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-34684973)
 2. [Fox News](http://www.foxnews.com/world/2015/10/30/26-reportedly-killed-in-explosion-fire-at-romanian-nightclub/)
 3. [Sputnik News](http://sputniknews.com/europe/20151031/1029367926.html)
 3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/953A/production/_86420283_86420692.jpg)
+
+### Changes:
+
+1. [Colectiv nightclub fire: At least 27 people are killed and more than 180 hospitalized with injuries after a fire in a nightclub in the Romanian capital Bucharest. Officials say a heavy metal band's pyrotechnical show sparked a fire inside the Colectiv nightclub. ](/news/2015/10/30/colectiv-nightclub-fire-at-least-27-people-are-killed-and-more-than-180-hospitalized-with-injuries-after-a-fire-in-a-nightclub-in-the-roman.md) _2017-08-27 03:43:36 (First version)_
+1. [At least 27 people are killed and more than 180 hospitalized with injuries after a fire in a nightclub in the Romanian capital Bucharest. Officials say a heavy metal band's pyrotechnical show sparked a fire inside the Colectiv nightclub. ](/news/2015/10/30/at-least-27-people-are-killed-and-more-than-180-hospitalized-with-injuries-after-a-fire-in-a-nightclub-in-the-romanian-capital-bucharest-of.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +28,3 @@ A fire at a nightclub in the Romanian capital Bucharest has killed 27 people and
 3. [Romanian Prime Minister Victor Ponta and his government resigns after tens of thousands took to the streets to protest over the Colectiv nightclub fire that killed 32 people. Mircea Dusa has been proposed to be installed as Acting Prime Minister. ](/news/2015/11/4/romanian-prime-minister-victor-ponta-and-his-government-resigns-after-tens-of-thousands-took-to-the-streets-to-protest-over-the-colectiv-nig.md) _Context: Colectiv nightclub fire, Romania_
 4. [An incident at a shooting range complex in Bucharest, Romania leaves two people dead. ](/news/2015/03/31/an-incident-at-a-shooting-range-complex-in-bucharest-romania-leaves-two-people-dead.md) _Context: Bucharest, Romania_
 5. [Chinese Premier Li Keqiang, arrives in Bucharest, Romania, to attend the China-Central and Eastern Europe (CEE) leaders' meeting as a guest of Romanian Prime Minister Victor Ponta. ](/news/2013/11/25/chinese-premier-li-keqiang-arrives-in-bucharest-romania-to-attend-the-china-central-and-eastern-europe-cee-leadersa-meeting-as-a-gues.md) _Context: Bucharest, Romania_
-
-### Changes:
-
-1. [Colectiv nightclub fire: At least 27 people are killed and more than 180 hospitalized with injuries after a fire in a nightclub in the Romanian capital Bucharest. Officials say a heavy metal band's pyrotechnical show sparked a fire inside the Colectiv nightclub. ](/news/2015/10/30/colectiv-nightclub-fire-at-least-27-people-are-killed-and-more-than-180-hospitalized-with-injuries-after-a-fire-in-a-nightclub-in-the-roman.md) _2017-08-27 03:43:36 (First version)_
-1. [At least 27 people are killed and more than 180 hospitalized with injuries after a fire in a nightclub in the Romanian capital Bucharest. Officials say a heavy metal band's pyrotechnical show sparked a fire inside the Colectiv nightclub. ](/news/2015/10/30/at-least-27-people-are-killed-and-more-than-180-hospitalized-with-injuries-after-a-fire-in-a-nightclub-in-the-romanian-capital-bucharest-of.md) _(Current version)_

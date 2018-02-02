@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/29/the-people-s-republic-of-china-government-unveils-their-new-official-internet-website-now-to-be-found-at.html)  [JSON](/news/2005/09/29/the-people-s-republic-of-china-government-unveils-their-new-official-internet-website-now-to-be-found-at.json)  [XML](/news/2005/09/29/the-people-s-republic-of-china-government-unveils-their-new-official-internet-website-now-to-be-found-at.xml)  
+
 ### [2005-09-29](/news/2005/09/29/index.md)
 
+##### China
 #  The People's Republic of China Government unveils their new official Internet website, now to be found at 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ www.gov.cn](http://www.gov.cn)
 2. [Beelink](http://news.beelink.com.cn/20050930/1944949.shtml)

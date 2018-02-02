@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/26/justice-roy-moore-and-u-s-senator-luther-strang
 
 ### [2017-09-26](/news/2017/09/26/index.md)
 
+##### Senate special election in Alabama, 2017
 # Justice Roy Moore and U.S. Senator Luther Strange face off in Alabama's special election in what political analysts claim is a deepening rift between the Republican Party's establishment and anti-establishment factions. Moore is projected to win the primary runoff. 
 
 Why is Donald Trump backing an establishment favourite against an anti-establishment judge?

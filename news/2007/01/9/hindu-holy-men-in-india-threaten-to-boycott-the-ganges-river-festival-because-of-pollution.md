@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/9/hindu-holy-men-in-india-threaten-to-boycott-the-ganges-river-festival-because-of-pollution.html)  [JSON](/news/2007/01/9/hindu-holy-men-in-india-threaten-to-boycott-the-ganges-river-festival-because-of-pollution.json)  [XML](/news/2007/01/9/hindu-holy-men-in-india-threaten-to-boycott-the-ganges-river-festival-because-of-pollution.xml)  
+
 ### [2007-01-9](/news/2007/01/9/index.md)
 
+##### Hindu
 #  Hindu holy men in India threaten to boycott the Ganges River Festival because of pollution. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory?id=2780018&CMP=OTC-RSSFeeds0312)
 

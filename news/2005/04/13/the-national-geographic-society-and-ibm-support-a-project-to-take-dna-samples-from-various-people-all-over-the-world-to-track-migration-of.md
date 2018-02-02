@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/04/13/the-national-geographic-society-and-ibm-support-a-project-to-take-dna-samples-from-various-people-all-over-the-world-to-track-migration-of.html)  [JSON](/news/2005/04/13/the-national-geographic-society-and-ibm-support-a-project-to-take-dna-samples-from-various-people-all-over-the-world-to-track-migration-of.json)  [XML](/news/2005/04/13/the-national-geographic-society-and-ibm-support-a-project-to-take-dna-samples-from-various-people-all-over-the-world-to-track-migration-of.xml)  
+
 ### [2005-04-13](/news/2005/04/13/index.md)
 
+##### National Geographic Society
 #  The National Geographic Society and IBM support a project to take DNA samples from various people all over the world to track migration of "Homo sapiens" from Africa. 
 
 From newly charted astronomical anomalies at the far reaches of the universe to the rise of nanotechnology, nobody covers science and the latest discoveries like Reuters.com.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2005/04/13/national/13gene.html)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=8163095)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [New York Times](https://www.nytimes.com/2005/04/13/national/13gene.html)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=8163095)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

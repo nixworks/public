@@ -1,16 +1,26 @@
+
+Formats: [HTML](/news/2013/04/5/south-korea-deploys-two-warships-with-aegis-missile-defense-systems-as-a-precautionary-measure-following-reports-that-north-korea-had-repos.html)  [JSON](/news/2013/04/5/south-korea-deploys-two-warships-with-aegis-missile-defense-systems-as-a-precautionary-measure-following-reports-that-north-korea-had-repos.json)  [XML](/news/2013/04/5/south-korea-deploys-two-warships-with-aegis-missile-defense-systems-as-a-precautionary-measure-following-reports-that-north-korea-had-repos.xml)  
+
 ### [2013-04-5](/news/2013/04/5/index.md)
 
+##### South Korea
 # South Korea deploys two warships with Aegis missile-defense systems as a precautionary measure, following reports that North Korea had repositioned intermediate-range ballistic missiles to its east coast a day earlier. 
 
 South Korea deploys two warships with missile-defence systems, reports say, after the North reportedly moved a mid-range missile to the coast.
 
 
-### Source:
+### Sources:
 
 1. [AFP via NDTV](http://www.ndtv.com/article/world/north-korea-warns-it-cannot-protect-embassies-after-april-10-350633)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-22037844)
 3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/northkorea/9973577/North-Korea-missile-threat-latest-live.html)
 3. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66770000/jpg/_66770576_66770575.jpg)
+
+### Changes:
+
+1. [2013 Korean crisis:South Korea deploys two warships with Aegis missile-defense systems as a precautionary measure, following reports that North Korea had repositioned intermediate-range ballistic missiles to its east coast a day earlier. ](/news/2013/04/5/2013-korean-crisis-psouth-korea-deploys-two-warships-with-aegis-missile-defense-systems-as-a-precautionary-measure-following-reports-that-n.md) _2017-08-25 03:38:11 (First version)_
+2. [2013 Korean crisis:: South Korea deploys two warships with Aegis missile-defense systems as a precautionary measure, following reports that North Korea had repositioned intermediate-range ballistic missiles to its east coast a day earlier. ](/news/2013/04/5/2013-korean-crisis-south-korea-deploys-two-warships-with-aegis-missile-defense-systems-as-a-precautionary-measure-following-reports-that.md) _2017-08-27 03:38:23 (Update)_
+2. [South Korea deploys two warships with Aegis missile-defense systems as a precautionary measure, following reports that North Korea had repositioned intermediate-range ballistic missiles to its east coast a day earlier. ](/news/2013/04/5/south-korea-deploys-two-warships-with-aegis-missile-defense-systems-as-a-precautionary-measure-following-reports-that-north-korea-had-repos.md) _(Current version)_
 
 ### Related:
 
@@ -18,10 +28,4 @@ South Korea deploys two warships with missile-defence systems, reports say, afte
 2. [South Korea reports that North Korea has tested two BM25 Musudan intermediate-range ballistic missiles. ](/news/2016/06/22/south-korea-reports-that-north-korea-has-tested-two-bm25-musudan-intermediate-range-ballistic-missiles.md) _Context: North Korea, South Korea, intermediate-range ballistic missile_
 3. [North Korea attempts again to launch a BM25 Musudan intermediate-range ballistic missile capable of striking South Korea or Japan but is unsuccessful. ](/news/2016/05/31/north-korea-attempts-again-to-launch-a-bm25-musudan-intermediate-range-ballistic-missile-capable-of-striking-south-korea-or-japan-but-is-uns.md) _Context: North Korea, South Korea, intermediate-range ballistic missile_
 4. [South Korea's Yonhap news agency reports that North Korea tried to launch a BM25 Musudan intermediate-range ballistic missile but was unsuccessful. ](/news/2016/04/15/south-korea-s-yonhap-news-agency-reports-that-north-korea-tried-to-launch-a-bm25-musudan-intermediate-range-ballistic-missile-but-was-unsucc.md) _Context: North Korea, South Korea, intermediate-range ballistic missile_
-5. [ South Korea says North Korea will face United Nations sanctions if it proceeds with a threatening long-range missile test. ](/news/2009/02/18/south-korea-says-north-korea-will-face-united-nations-sanctions-if-it-proceeds-with-a-threatening-long-range-missile-test.md) _Context: North Korea, South Korea, intermediate-range ballistic missile_
-
-### Changes:
-
-1. [2013 Korean crisis:South Korea deploys two warships with Aegis missile-defense systems as a precautionary measure, following reports that North Korea had repositioned intermediate-range ballistic missiles to its east coast a day earlier. ](/news/2013/04/5/2013-korean-crisis-psouth-korea-deploys-two-warships-with-aegis-missile-defense-systems-as-a-precautionary-measure-following-reports-that-n.md) _2017-08-25 03:38:11 (First version)_
-2. [2013 Korean crisis:: South Korea deploys two warships with Aegis missile-defense systems as a precautionary measure, following reports that North Korea had repositioned intermediate-range ballistic missiles to its east coast a day earlier. ](/news/2013/04/5/2013-korean-crisis-south-korea-deploys-two-warships-with-aegis-missile-defense-systems-as-a-precautionary-measure-following-reports-that.md) _2017-08-27 03:38:23 (Update)_
-2. [South Korea deploys two warships with Aegis missile-defense systems as a precautionary measure, following reports that North Korea had repositioned intermediate-range ballistic missiles to its east coast a day earlier. ](/news/2013/04/5/south-korea-deploys-two-warships-with-aegis-missile-defense-systems-as-a-precautionary-measure-following-reports-that-north-korea-had-repos.md) _(Current version)_
+5. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: North Korea, South Korea_

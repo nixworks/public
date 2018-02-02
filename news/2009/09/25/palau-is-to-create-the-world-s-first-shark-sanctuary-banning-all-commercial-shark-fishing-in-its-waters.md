@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/25/palau-is-to-create-the-world-s-first-shark-sanctuary-banning-all-commercial-shark-fishing-in-its-waters.html)  [JSON](/news/2009/09/25/palau-is-to-create-the-world-s-first-shark-sanctuary-banning-all-commercial-shark-fishing-in-its-waters.json)  [XML](/news/2009/09/25/palau-is-to-create-the-world-s-first-shark-sanctuary-banning-all-commercial-shark-fishing-in-its-waters.xml)  
+
 ### [2009-09-25](/news/2009/09/25/index.md)
 
+##### Palau
 #  Palau is to create the world's first "shark sanctuary", banning all commercial shark fishing in its waters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/8272508.stm)
 2. [The Times](http://www.timesonline.co.uk/tol/news/environment/article6848627.ece)

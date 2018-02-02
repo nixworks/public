@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/18/rozi-khan-the-governor-of-the-chora-district-in-afghanistan-is-killed-in-a-firefight-involving-australian-army-soldiers.html)  [JSON](/news/2008/09/18/rozi-khan-the-governor-of-the-chora-district-in-afghanistan-is-killed-in-a-firefight-involving-australian-army-soldiers.json)  [XML](/news/2008/09/18/rozi-khan-the-governor-of-the-chora-district-in-afghanistan-is-killed-in-a-firefight-involving-australian-army-soldiers.xml)  
+
 ### [2008-09-18](/news/2008/09/18/index.md)
 
+##### Chora District
 #  Rozi Khan, the Governor of the Chora District in Afghanistan, is killed in a firefight involving Australian Army soldiers. 
 
 ADF confirms that district governor was killed in a firefight involving Australian soldiers in Afghanistan yesterday.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2008/09/19/2369166.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/300530-1x1-700x700.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/30/an-open-truck-smashes-into-the-back-of-a-van-near-mbabane-swaziland-killing-65-girls-and-young-women-traveling-to-an-annual-dance-festival.html)  [JSON](/news/2015/08/30/an-open-truck-smashes-into-the-back-of-a-van-near-mbabane-swaziland-killing-65-girls-and-young-women-traveling-to-an-annual-dance-festival.json)  [XML](/news/2015/08/30/an-open-truck-smashes-into-the-back-of-a-van-near-mbabane-swaziland-killing-65-girls-and-young-women-traveling-to-an-annual-dance-festival.xml)  
+
 ### [2015-08-30](/news/2015/08/30/index.md)
 
+##### Mbabane
 # An open truck smashes into the back of a van near Mbabane, Swaziland killing 65 girls and young women traveling to an annual dance festival. 
 
 The death toll from a massive truck crash in Swaziland on Friday, which claimed the lives of girls and young women traveling to an annual dance festival, where one was to be picked as the king’s newest bride, has risen to 65, Swaziland Solidarity Network reported.
 
 
-### Source:
+### Sources:
 
 1. [RT](https://www.rt.com/news/313813-swaziland-tragic-crash-girls/)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/swaziland/11833673/Dozens-of-women-killed-in-crash-en-route-to-King-of-Swazilands-dancing-virgin-festival.html)

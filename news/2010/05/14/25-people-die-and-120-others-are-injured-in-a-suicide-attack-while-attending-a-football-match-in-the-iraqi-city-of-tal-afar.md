@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/14/25-people-die-and-120-others-are-injured-in-a-suicide-attack-while-attending-a-football-match-in-the-iraqi-city-of-tal-afar.html)  [JSON](/news/2010/05/14/25-people-die-and-120-others-are-injured-in-a-suicide-attack-while-attending-a-football-match-in-the-iraqi-city-of-tal-afar.json)  [XML](/news/2010/05/14/25-people-die-and-120-others-are-injured-in-a-suicide-attack-while-attending-a-football-match-in-the-iraqi-city-of-tal-afar.xml)  
+
 ### [2010-05-14](/news/2010/05/14/index.md)
 
+##### Iraq
 # 25 people die and 120 others are injured in a suicide attack while attending a football match in the Iraqi city of Tal Afar. 
 
 Suicide bombers target game in northern town of Tal Afar, leaving at least 25 dead.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/05/2010514161932327374.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8683642.stm)

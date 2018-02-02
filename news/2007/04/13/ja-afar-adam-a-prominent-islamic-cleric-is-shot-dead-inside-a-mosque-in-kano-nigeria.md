@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/13/ja-afar-adam-a-prominent-islamic-cleric-is-shot-dead-inside-a-mosque-in-kano-nigeria.html)  [JSON](/news/2007/04/13/ja-afar-adam-a-prominent-islamic-cleric-is-shot-dead-inside-a-mosque-in-kano-nigeria.json)  [XML](/news/2007/04/13/ja-afar-adam-a-prominent-islamic-cleric-is-shot-dead-inside-a-mosque-in-kano-nigeria.xml)  
+
 ### [2007-04-13](/news/2007/04/13/index.md)
 
+##### Islamic cleric
 #  Ja'afar Adam, a prominent Islamic cleric, is shot dead inside a mosque in Kano, Nigeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6551489.stm)
 

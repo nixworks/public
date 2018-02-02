@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/19/nasa-pluto-probe-new-horizons-successfully-launches-at-14-00-est.html)  [JSON](/news/2006/01/19/nasa-pluto-probe-new-horizons-successfully-launches-at-14-00-est.json)  [XML](/news/2006/01/19/nasa-pluto-probe-new-horizons-successfully-launches-at-14-00-est.xml)  
+
 ### [2006-01-19](/news/2006/01/19/index.md)
 
+##### NASA
 #  NASA Pluto probe "New Horizons" successfully launches at 14:00 EST. 
 
 New Horizons launched on Jan. 19, 2006 and conducted a six-month-long reconnaissance flyby study of Pluto and its moons in summer 2015, culminating with Pluto closest approach on July 14, 2015.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/4629486.stm)
 2. [NASA](http://www.nasa.gov/mission_pages/newhorizons/main/index.html)

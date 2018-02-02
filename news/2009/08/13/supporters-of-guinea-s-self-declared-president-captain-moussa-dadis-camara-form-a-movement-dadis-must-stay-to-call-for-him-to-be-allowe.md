@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/13/supporters-of-guinea-s-self-declared-president-captain-moussa-dadis-camara-form-a-movement-dadis-must-stay-to-call-for-him-to-be-allowe.html)  [JSON](/news/2009/08/13/supporters-of-guinea-s-self-declared-president-captain-moussa-dadis-camara-form-a-movement-dadis-must-stay-to-call-for-him-to-be-allowe.json)  [XML](/news/2009/08/13/supporters-of-guinea-s-self-declared-president-captain-moussa-dadis-camara-form-a-movement-dadis-must-stay-to-call-for-him-to-be-allowe.xml)  
+
 ### [2009-08-13](/news/2009/08/13/index.md)
 
+##### Guinea
 #  Supporters of Guinea's self-declared President, Captain Moussa Dadis Camara, form a movement, Dadis Must Stay, to call for him to be allowed to continue in office. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8200290.stm)
 

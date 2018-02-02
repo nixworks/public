@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/05/29/voters-in-the-us-state-of-texas-go-to-the-polls-for-primary-elections-with-mitt-romney-securing-the-republican-nomination-in-the-republican.html)  [JSON](/news/2012/05/29/voters-in-the-us-state-of-texas-go-to-the-polls-for-primary-elections-with-mitt-romney-securing-the-republican-nomination-in-the-republican.json)  [XML](/news/2012/05/29/voters-in-the-us-state-of-texas-go-to-the-polls-for-primary-elections-with-mitt-romney-securing-the-republican-nomination-in-the-republican.xml)  
+
 ### [2012-05-29](/news/2012/05/29/index.md)
 
+##### Texas
 # Voters in the US state of Texas go to the polls for primary elections, with Mitt Romney securing the Republican nomination in the Republican primary. 
 
 Former Massachusetts Gov. Mitt Romney says he&#x27;s looking forward to clinching the Republican nomination for president on Tuesday.
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/texas-primary-big-day-romney-005746178.html)
+1. [AP via Yahoo! News](https://news.yahoo.com/texas-primary-big-day-romney-005746178.html)
 2. [Boston Globe](http://www.boston.com/politicalintelligence/2012/05/29/mitt-romney-secures-presidential-nomination-with-texas-win/UgY3OVonjlOUDIbBGwBh0L/story.html)
 2. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 

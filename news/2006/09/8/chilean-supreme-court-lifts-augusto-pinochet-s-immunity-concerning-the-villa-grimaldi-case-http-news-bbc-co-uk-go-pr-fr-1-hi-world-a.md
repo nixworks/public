@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/09/8/chilean-supreme-court-lifts-augusto-pinochet-s-immunity-concerning-the-villa-grimaldi-case-http-news-bbc-co-uk-go-pr-fr-1-hi-world-a.html)  [JSON](/news/2006/09/8/chilean-supreme-court-lifts-augusto-pinochet-s-immunity-concerning-the-villa-grimaldi-case-http-news-bbc-co-uk-go-pr-fr-1-hi-world-a.json)  [XML](/news/2006/09/8/chilean-supreme-court-lifts-augusto-pinochet-s-immunity-concerning-the-villa-grimaldi-case-http-news-bbc-co-uk-go-pr-fr-1-hi-world-a.xml)  
+
 ### [2006-09-8](/news/2006/09/8/index.md)
 
+##### Augusto Pinochet
 #  Chilean Supreme Court lifts Augusto Pinochet's immunity concerning the Villa Grimaldi case. ([http:--news.bbc.co.uk-go-pr-fr---1-hi-world-americas-5329264.stm BBC]). 
 
 

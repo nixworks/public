@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/18/canadian-finance-minister-john-manley-brings-down-a-budget-the-last-and-one-of-those-with-the-most-expenditures-in-the-career-of-prime-min.html)  [JSON](/news/2003/02/18/canadian-finance-minister-john-manley-brings-down-a-budget-the-last-and-one-of-those-with-the-most-expenditures-in-the-career-of-prime-min.json)  [XML](/news/2003/02/18/canadian-finance-minister-john-manley-brings-down-a-budget-the-last-and-one-of-those-with-the-most-expenditures-in-the-career-of-prime-min.xml)  
+
 ### [2003-02-18](/news/2003/02/18/index.md)
 
+##### John Manley
 #  Canadian finance minister John Manley brings down a budget, the last and one of those with the most expenditures in the career of Prime Minister Jean Chrtien. It uses money from the federal surplus to replace a portion of the amount the Liberals cut from a variety of programs during their mandate, partially funds the implementation of the Romanow Report on health care, and increases military spending.
 
 

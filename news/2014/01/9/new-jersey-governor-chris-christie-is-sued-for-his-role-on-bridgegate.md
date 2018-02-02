@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/9/new-jersey-governor-chris-christie-is-sued-for-his-role-on-bridgegate.html)  [JSON](/news/2014/01/9/new-jersey-governor-chris-christie-is-sued-for-his-role-on-bridgegate.json)  [XML](/news/2014/01/9/new-jersey-governor-chris-christie-is-sued-for-his-role-on-bridgegate.xml)  
+
 ### [2014-01-9](/news/2014/01/9/index.md)
 
+##### New Jersey Governor
 # New Jersey Governor Chris Christie is sued for his role on "Bridgegate". 
 
 Six New Jersey residents sue Governor Chris Christie over claims his office created gridlock on to a major bridge as part of a political vendetta.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-us-canada-25686050)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72209000/jpg/_72209256_72209255.jpg)

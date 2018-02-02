@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/12/10/a-new-zealand-royal-commission-finds-that-the-ctv-building-that-collapsed-during-the-2011-christchurch-earthquake-killing-115-people-was-poo.html)  [JSON](/news/2012/12/10/a-new-zealand-royal-commission-finds-that-the-ctv-building-that-collapsed-during-the-2011-christchurch-earthquake-killing-115-people-was-poo.json)  [XML](/news/2012/12/10/a-new-zealand-royal-commission-finds-that-the-ctv-building-that-collapsed-during-the-2011-christchurch-earthquake-killing-115-people-was-poo.xml)  
+
 ### [2012-12-10](/news/2012/12/10/index.md)
 
+##### New Zealand
 # A New Zealand Royal Commission finds that the CTV Building that collapsed during the 2011 Christchurch earthquake killing 115 people was poorly designed and built and should not have received a building permit. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/nz-govt-building-that-collapsed-in-christchurch-quake-was-poorly-built-and-designed/2012/12/09/839d8c00-4272-11e2-8c8f-fbebf7ccab4e_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/nz-govt-building-that-collapsed-in-christchurch-quake-was-poorly-built-and-designed/2012/12/09/839d8c00-4272-11e2-8c8f-fbebf7ccab4e_story.html)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/3/in-kentucky-republican-matt-bevin-defeats-democrat-jack-conway-and-independent-drew-curtis-with-52-percent-of-the-vote-to-succeed-term-lim.html)  [JSON](/news/2015/11/3/in-kentucky-republican-matt-bevin-defeats-democrat-jack-conway-and-independent-drew-curtis-with-52-percent-of-the-vote-to-succeed-term-lim.json)  [XML](/news/2015/11/3/in-kentucky-republican-matt-bevin-defeats-democrat-jack-conway-and-independent-drew-curtis-with-52-percent-of-the-vote-to-succeed-term-lim.xml)  
+
 ### [2015-11-3](/news/2015/11/3/index.md)
 
+##### Gubernatorial
 #  In Kentucky, Republican Matt Bevin defeats Democrat Jack Conway and independent Drew Curtis with 52 percent of the vote to succeed term-limited Democrat Steve Beshear. 
 
 Republican Matt Bevin, a businessman and Tea Party favorite, beat Democrat Jack Conway on Tuesday to win the race for Kentucky governor -- becoming only the second GOP governor in the state in four decades.
 
 
-### Source:
+### Sources:
 
 1. [AP via CBSLocal.com](http://newyork.cbslocal.com/2015/11/03/bridgeport-mayor-race-election-day/)
 2. [AP via Huffington Post](http://www.huffingtonpost.com/entry/jefferson-county-recall_5637869be4b063179912fb82)
@@ -22,17 +26,17 @@ Republican Matt Bevin, a businessman and Tea Party favorite, beat Democrat Jack 
 13. [Washington Post](https://www.washingtonpost.com/local/education/conservative-school-board-members-ousted-in-bitter-colorado-battle/2015/11/04/a0b640ca-82a2-11e5-8ba6-cec48b74b2a7_story.html)
 13. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2015/11/03/republican-matt-bevin-elected-governor-kentucky-2nd-republican-governor-in-4/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1446601663275.jpg?ve=1)
 
-### Related:
-
-1. [ Green Party Candidate, Laura Wells, is arrested upon trying to enter the 2010 Gubernatorial debate in California. All parties other than the Republicans and Democrats were barred from the debate. ](/news/2010/10/12/green-party-candidate-laura-wells-is-arrested-upon-trying-to-enter-the-2010-gubernatorial-debate-in-california-all-parties-other-than-th.md) _Context: Democratic, Gubernatorial, Republican_
-2. [West Virginia Governor Jim Justice announces, during U.S. President Donald Trump's rally in Huntington, he is changing his party affiliation from Democratic to Republican. ](/news/2017/08/3/west-virginia-governor-jim-justice-announces-during-u-s-president-donald-trump-s-rally-in-huntington-he-is-changing-his-party-affiliation.md) _Context: Democratic, Republican_
-3. [Negotiators from the Democratic and Republican parties agree on new sanctions against Russia, Iran, and North Korea. Both chambers of the United States Congress are scheduled to vote on passage on Tuesday. ](/news/2017/07/22/negotiators-from-the-democratic-and-republican-parties-agree-on-new-sanctions-against-russia-iran-and-north-korea-both-chambers-of-the-un.md) _Context: Democratic, Republican_
-4. [United States senators Ben Cardin (D-MD) and Marco Rubio (R-FL) file a bill restricting arms sales to the Philippine National Police over its drug war. ](/news/2017/05/5/united-states-senators-ben-cardin-d-md-and-marco-rubio-r-fl-file-a-bill-restricting-arms-sales-to-the-philippine-national-police-over-it.md) _Context: Democratic, Republican_
-5. [The Republican-controlled United States House of Representatives votes in favor of the repeal of the 2010 Patient Protection and Affordable Care Act and passage of the House's 2017 American Health Care Act, by a narrow, 217-213 vote. Twenty Republicans and all Democrats opposed the bill, which now heads to the United States Senate for its legislative action. ](/news/2017/05/4/the-republican-controlled-united-states-house-of-representatives-votes-in-favor-of-the-repeal-of-the-2010-patient-protection-and-affordable.md) _Context: Democratic, Republican_
-
 ### Changes:
 
 1. [ U.S. elections: In Kentucky, Republican Matt Bevin defeats Democrat Jack Conway and independent Drew Curtis with 52 percent of the vote to succeed term-limited Democrat Steve Beshear. ](/news/2015/11/3/u-s-elections-p-in-kentucky-republican-matt-bevin-defeats-democrat-jack-conway-and-independent-drew-curtis-with-52-percent-of-the-vote-t.md) _2017-08-25 03:43:21 (First version)_
 2. [ U.S. elections:: Gubernatorial: In Kentucky, Republican Matt Bevin defeats Democrat Jack Conway and independent Drew Curtis with 52 percent of the vote to succeed term-limited Democrat Steve Beshear. ](/news/2015/11/3/u-s-elections-gubernatorial-in-kentucky-republican-matt-bevin-defeats-democrat-jack-conway-and-independent-drew-curtis-with-52-percent.md) _2017-08-27 03:43:40 (Update)_
 3. [ In Kentucky, Republican Matt Bevin defeats Democrat Jack Conway and independent Drew Curtis with 52 percent of the vote to succeed term-limited Democrat Steve Beshear. ](/news/2015/11/3/in-kentucky-republican-matt-bevin-defeats-democrat-jack-conway-and-independent-drew-curtis-with-52-percent-of-the-vote-to-succeed-term-li.md) _2017-10-02 03:47:37 (Update)_
 3. [ In Kentucky, Republican Matt Bevin defeats Democrat Jack Conway and independent Drew Curtis with 52 percent of the vote to succeed term-limited Democrat Steve Beshear. ](/news/2015/11/3/in-kentucky-republican-matt-bevin-defeats-democrat-jack-conway-and-independent-drew-curtis-with-52-percent-of-the-vote-to-succeed-term-lim.md) _(Current version)_
+
+### Related:
+
+1. [A drawing is held to resolve a tied election between Democrat Shelly Simonds and Republican David Yancey, with Yancey being randomly chosen as the winner. ](/news/2018/01/4/a-drawing-is-held-to-resolve-a-tied-election-between-democrat-shelly-simonds-and-republican-david-yancey-with-yancey-being-randomly-chosen.md) _Context: Democrat, Republican_
+2. [Two new Democratic senators&mdash;Doug Jones of Alabama and Tina Smith of Minnesota&mdash;are sworn in, bringing the Republican majority down to 51&ndash;49. ](/news/2018/01/3/two-new-democratic-senators-mdash-doug-jones-of-alabama-and-tina-smith-of-minnesota-mdash-are-sworn-in-bringing-the-republican-majority-dow.md) _Context: Democrat, Republican_
+3. [Voters in Alabama go to the polls to fill the United States Senate seat vacated by current United States Attorney General Jeff Sessions. The race is between Roy Moore (R) and Doug Jones (D). ](/news/2017/12/12/voters-in-alabama-go-to-the-polls-to-fill-the-united-states-senate-seat-vacated-by-current-united-states-attorney-general-jeff-sessions-the.md) _Context: Democrat, Republican_
+4. [West Virginia Governor Jim Justice announces, during U.S. President Donald Trump's rally in Huntington, he is changing his party affiliation from Democratic to Republican. ](/news/2017/08/3/west-virginia-governor-jim-justice-announces-during-u-s-president-donald-trump-s-rally-in-huntington-he-is-changing-his-party-affiliation.md) _Context: Democrat, Republican_
+5. [Negotiators from the Democratic and Republican parties agree on new sanctions against Russia, Iran, and North Korea. Both chambers of the United States Congress are scheduled to vote on passage on Tuesday. ](/news/2017/07/22/negotiators-from-the-democratic-and-republican-parties-agree-on-new-sanctions-against-russia-iran-and-north-korea-both-chambers-of-the-un.md) _Context: Democrat, Republican_

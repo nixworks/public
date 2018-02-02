@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/04/15/the-chinese-economy-grew-by-9-7-per-cent-in-the-first-quarter-of-2011-while-inflation-was-5-4-the-highest-level-in-nearly-three-years.html)  [JSON](/news/2011/04/15/the-chinese-economy-grew-by-9-7-per-cent-in-the-first-quarter-of-2011-while-inflation-was-5-4-the-highest-level-in-nearly-three-years.json)  [XML](/news/2011/04/15/the-chinese-economy-grew-by-9-7-per-cent-in-the-first-quarter-of-2011-while-inflation-was-5-4-the-highest-level-in-nearly-three-years.xml)  
+
 ### [2011-04-15](/news/2011/04/15/index.md)
 
+##### China
 # The Chinese economy grew by 9.7 per cent in the first quarter of 2011 while inflation was 5.4%, the highest level in nearly three years. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/04/15/us-china-economy-gdp-idUSTRE73E0FO20110415?feedType=RSS&feedName=topNews)
+1. [Reuters](https://www.reuters.com/article/2011/04/15/us-china-economy-gdp-idUSTRE73E0FO20110415?feedType=RSS&feedName=topNews)
 1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20110415&t=2&i=388064259&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-04-15T185428Z_01_BTRE73E07EO00_RTROPTP_0_CHINA-ECONOMY-GDP)
 
 ### Related:

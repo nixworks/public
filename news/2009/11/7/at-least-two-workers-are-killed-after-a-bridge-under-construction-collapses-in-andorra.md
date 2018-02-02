@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/7/at-least-two-workers-are-killed-after-a-bridge-under-construction-collapses-in-andorra.html)  [JSON](/news/2009/11/7/at-least-two-workers-are-killed-after-a-bridge-under-construction-collapses-in-andorra.json)  [XML](/news/2009/11/7/at-least-two-workers-are-killed-after-a-bridge-under-construction-collapses-in-andorra.xml)  
+
 ### [2009-11-7](/news/2009/11/7/index.md)
 
+##### Andorra
 #  At least two workers are killed after a bridge under construction collapses in Andorra. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=24&art_id=nw20091107193849328C703430)
 2. [euronews](http://www.euronews.net/2009/11/07/two-dead-after-bridge-collapses-in-andorra/)

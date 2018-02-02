@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2015/07/8/microsoft-announces-another-7-800-job-cuts-primarily-in-its-struggling-phone-division-acquired-from-nokia.html)  [JSON](/news/2015/07/8/microsoft-announces-another-7-800-job-cuts-primarily-in-its-struggling-phone-division-acquired-from-nokia.json)  [XML](/news/2015/07/8/microsoft-announces-another-7-800-job-cuts-primarily-in-its-struggling-phone-division-acquired-from-nokia.xml)  
+
 ### [2015-07-8](/news/2015/07/8/index.md)
 
+##### Microsoft
 # Microsoft announces another 7,800 job cuts primarily in its struggling phone division acquired from Nokia. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Wired](http://www.wired.com/2015/07/microsoft-phone-job-cuts/)
-1. [Cover Image](https://www.wired.com/wp-content/uploads/2014/04/140409_windows_phone_8.1_01.jpg)
+1. [Wired](https://www.wired.com/2015/07/microsoft-phone-job-cuts/)
 
 ### Related:
 

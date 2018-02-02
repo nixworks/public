@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/04/27/in-heavy-fighting-outside-najaf-iraq-u-s-forces-kill-64-insurgents-and-destroy-an-anti-aircraft-weapon.html)  [JSON](/news/2004/04/27/in-heavy-fighting-outside-najaf-iraq-u-s-forces-kill-64-insurgents-and-destroy-an-anti-aircraft-weapon.json)  [XML](/news/2004/04/27/in-heavy-fighting-outside-najaf-iraq-u-s-forces-kill-64-insurgents-and-destroy-an-anti-aircraft-weapon.xml)  
+
 ### [2004-04-27](/news/2004/04/27/index.md)
 
+##### Najaf
 #  In heavy fighting outside Najaf, Iraq, U.S. forces kill 64 insurgents and destroy an anti-aircraft weapon.
 
 

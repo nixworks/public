@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2015/07/11/satoru-iwata-the-ceo-and-president-of-nintendo-dies-due-to-a-bile-duct-growth.html)  [JSON](/news/2015/07/11/satoru-iwata-the-ceo-and-president-of-nintendo-dies-due-to-a-bile-duct-growth.json)  [XML](/news/2015/07/11/satoru-iwata-the-ceo-and-president-of-nintendo-dies-due-to-a-bile-duct-growth.xml)  
+
 ### [2015-07-11](/news/2015/07/11/index.md)
 
+##### Satoru Iwata
 # Satoru Iwata, the CEO and President of Nintendo, dies due to a bile duct growth.
 
 

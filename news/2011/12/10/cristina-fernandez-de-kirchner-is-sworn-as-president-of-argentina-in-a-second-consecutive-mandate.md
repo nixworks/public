@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2011/12/10/cristina-fernandez-de-kirchner-is-sworn-as-president-of-argentina-in-a-second-consecutive-mandate.html)  [JSON](/news/2011/12/10/cristina-fernandez-de-kirchner-is-sworn-as-president-of-argentina-in-a-second-consecutive-mandate.json)  [XML](/news/2011/12/10/cristina-fernandez-de-kirchner-is-sworn-as-president-of-argentina-in-a-second-consecutive-mandate.xml)  
+
 ### [2011-12-10](/news/2011/12/10/index.md)
 
+##### Cristina Kirchner
 # Cristina Fernndez de Kirchner is sworn as President of Argentina in a second consecutive mandate. 
 
-Argentine President Cristina Fernandez took the oath of office for the second time Saturday, the only female leader in Latin America to ever be re-elected, in an inauguration marked by a tearful tribute to her late husband and political partner.
 
 
-### Source:
 
-1. [Yahoo](http://news.yahoo.com/argentinas-cristina-fernandez-sworn-2nd-time-152523440.html;_ylt=Aueevd31iH5Vix0Ygprd1qi3IxIF;_ylu=X3oDMTRiMmh2cThlBG1pdANUb3BTdG9yeSAgV29ybGRTRiBMYXRpbkFtZXJpY2FTU0YEcGtnAzA2YTFjNTgyLTI2MDktM2QxOC05NjNjLWE5NzU5YjdlN2Y1NQRwb3MDMgRzZWMDdG9wX3N0b3J5BHZlcgM4ZjZiMjk3MC0yMzU2LTExZTEtOWZmZi1jZjJiY2RmYzg3OWM-;_ylg=X3oDMTI3Z2FpbDN0BGludGwDdXMEbGFuZwNlbi11cwRwc3RhaWQDBHBzdGNhdAN3b3JsZHxsYXRpbiBhbWVyaWNhBHB0A3NlY3Rpb25zBHRlc3QD;_ylv=3)
-1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
+### Sources:
+
+1. [Yahoo](https://news.yahoo.com/argentinas-cristina-fernandez-sworn-2nd-time-152523440.html;_ylt=Aueevd31iH5Vix0Ygprd1qi3IxIF;_ylu=X3oDMTRiMmh2cThlBG1pdANUb3BTdG9yeSAgV29ybGRTRiBMYXRpbkFtZXJpY2FTU0YEcGtnAzA2YTFjNTgyLTI2MDktM2QxOC05NjNjLWE5NzU5YjdlN2Y1NQRwb3MDMgRzZWMDdG9wX3N0b3J5BHZlcgM4ZjZiMjk3MC0yMzU2LTExZTEtOWZmZi1jZjJiY2RmYzg3OWM-;_ylg=X3oDMTI3Z2FpbDN0BGludGwDdXMEbGFuZwNlbi11cwRwc3RhaWQDBHBzdGNhdAN3b3JsZHxsYXRpbiBhbWVyaWNhBHB0A3NlY3Rpb25zBHRlc3QD;_ylv=3)
 
 ### Related:
 

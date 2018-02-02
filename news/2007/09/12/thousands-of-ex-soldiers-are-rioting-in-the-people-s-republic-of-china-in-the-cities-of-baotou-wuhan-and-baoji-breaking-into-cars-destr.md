@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/12/thousands-of-ex-soldiers-are-rioting-in-the-people-s-republic-of-china-in-the-cities-of-baotou-wuhan-and-baoji-breaking-into-cars-destr.html)  [JSON](/news/2007/09/12/thousands-of-ex-soldiers-are-rioting-in-the-people-s-republic-of-china-in-the-cities-of-baotou-wuhan-and-baoji-breaking-into-cars-destr.json)  [XML](/news/2007/09/12/thousands-of-ex-soldiers-are-rioting-in-the-people-s-republic-of-china-in-the-cities-of-baotou-wuhan-and-baoji-breaking-into-cars-destr.xml)  
+
 ### [2007-09-12](/news/2007/09/12/index.md)
 
+##### China
 #  Thousands of ex-soldiers are rioting in the People's Republic of China in the cities of Baotou, Wuhan, and Baoji, breaking into cars, destroying classrooms, and setting fires. The riot is the largest protest since the 1989 Tiananmen Square protest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TIME](http://www.time.com/time/world/article/0,8599,1660997,00.html)
 

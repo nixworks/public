@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/12/desi-bouterse-is-sworn-in-for-a-second-term-as-president-of-suriname.html)  [JSON](/news/2015/08/12/desi-bouterse-is-sworn-in-for-a-second-term-as-president-of-suriname.json)  [XML](/news/2015/08/12/desi-bouterse-is-sworn-in-for-a-second-term-as-president-of-suriname.xml)  
+
 ### [2015-08-12](/news/2015/08/12/index.md)
 
+##### Dsi Bouterse
 # Dsi Bouterse is sworn in for a second term as President of Suriname. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Star Tribune](http://www.startribune.com/bouterse-inaugurated-for-2nd-term-as-suriname-s-president/321599931/)
 

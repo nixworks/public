@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/1/president-tabara-c-va-zquez-of-uruguay-shuffles-his-cabinet-with-gonzalo-ferna-ndez-drafter-of-all-major-legislation-moving-from-foreign.html)  [JSON](/news/2009/09/1/president-tabara-c-va-zquez-of-uruguay-shuffles-his-cabinet-with-gonzalo-ferna-ndez-drafter-of-all-major-legislation-moving-from-foreign.json)  [XML](/news/2009/09/1/president-tabara-c-va-zquez-of-uruguay-shuffles-his-cabinet-with-gonzalo-ferna-ndez-drafter-of-all-major-legislation-moving-from-foreign.xml)  
+
 ### [2009-09-1](/news/2009/09/1/index.md)
 
+##### President
 #  President Tabare Vazquez of Uruguay shuffles his cabinet, with Gonzalo Fernandez, drafter of all major legislation, moving from Foreign Affairs to Defence. 
 
 With only two months left for Uruguay&rsquo;s October general election President Tabare Vazquez, as had been anticipated, reshuffled his cabinet which included a major surprise: his main advisor and most trusted man was moved from Foreign Affairs to the ministry of Defence.
 
 
-### Source:
+### Sources:
 
 1. [MercoPress](http://en.mercopress.com/2009/09/01/surprise-move-president-vazquez-most-trusted-advisor-defence-minister)
 1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/21753/200x200/014973af2df6cd8a6896104ff45d8db3.jpg)

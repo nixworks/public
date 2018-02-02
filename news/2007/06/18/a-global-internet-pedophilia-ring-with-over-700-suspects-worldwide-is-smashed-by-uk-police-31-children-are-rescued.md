@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/18/a-global-internet-pedophilia-ring-with-over-700-suspects-worldwide-is-smashed-by-uk-police-31-children-are-rescued.html)  [JSON](/news/2007/06/18/a-global-internet-pedophilia-ring-with-over-700-suspects-worldwide-is-smashed-by-uk-police-31-children-are-rescued.json)  [XML](/news/2007/06/18/a-global-internet-pedophilia-ring-with-over-700-suspects-worldwide-is-smashed-by-uk-police-31-children-are-rescued.xml)  
+
 ### [2007-06-18](/news/2007/06/18/index.md)
 
+##### sexual relations
 #  A global internet pedophilia ring with over 700 suspects worldwide is smashed by UK police; 31 children are rescued. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky](http://news.sky.com/skynews/article/0,,70131-1271057,00.html)
 

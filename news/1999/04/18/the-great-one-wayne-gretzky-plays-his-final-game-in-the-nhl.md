@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/04/18/the-great-one-wayne-gretzky-plays-his-final-game-in-the-nhl.html)  [JSON](/news/1999/04/18/the-great-one-wayne-gretzky-plays-his-final-game-in-the-nhl.json)  [XML](/news/1999/04/18/the-great-one-wayne-gretzky-plays-his-final-game-in-the-nhl.xml)  
+
 ### [1999-04-18](/news/1999/04/18/index.md)
 
+##### Wayne Gretzky
 #  "The Great One" Wayne Gretzky plays his final game in the NHL. 
 
 

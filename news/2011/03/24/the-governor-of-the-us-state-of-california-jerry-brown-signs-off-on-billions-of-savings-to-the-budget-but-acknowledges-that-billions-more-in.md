@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/24/the-governor-of-the-us-state-of-california-jerry-brown-signs-off-on-billions-of-savings-to-the-budget-but-acknowledges-that-billions-more-in.html)  [JSON](/news/2011/03/24/the-governor-of-the-us-state-of-california-jerry-brown-signs-off-on-billions-of-savings-to-the-budget-but-acknowledges-that-billions-more-in.json)  [XML](/news/2011/03/24/the-governor-of-the-us-state-of-california-jerry-brown-signs-off-on-billions-of-savings-to-the-budget-but-acknowledges-that-billions-more-in.xml)  
+
 ### [2011-03-24](/news/2011/03/24/index.md)
 
+##### Governor of California
 # The Governor of the US state of California Jerry Brown signs off on billions of savings to the budget but acknowledges that billions more in savings or revenue increases need to be found to resolve the ongoing budget crisis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2011/03/24/BA7U1IIV2H.DTL&tsp=1)
 1. [Cover Image](http://ww4.hdnux.com/photos/07/21/33/1906383/18/rawImage.jpg)

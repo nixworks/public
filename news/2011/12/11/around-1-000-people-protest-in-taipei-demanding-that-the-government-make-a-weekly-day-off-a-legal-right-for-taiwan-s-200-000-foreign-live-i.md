@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/11/around-1-000-people-protest-in-taipei-demanding-that-the-government-make-a-weekly-day-off-a-legal-right-for-taiwan-s-200-000-foreign-live-i.html)  [JSON](/news/2011/12/11/around-1-000-people-protest-in-taipei-demanding-that-the-government-make-a-weekly-day-off-a-legal-right-for-taiwan-s-200-000-foreign-live-i.json)  [XML](/news/2011/12/11/around-1-000-people-protest-in-taipei-demanding-that-the-government-make-a-weekly-day-off-a-legal-right-for-taiwan-s-200-000-foreign-live-i.xml)  
+
 ### [2011-12-11](/news/2011/12/11/index.md)
 
+##### Taipei
 # Around 1,000 people protest in Taipei, demanding that the government make a weekly day off a legal right for Taiwan's 200,000 foreign live-in caregivers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_743842.html)
 
